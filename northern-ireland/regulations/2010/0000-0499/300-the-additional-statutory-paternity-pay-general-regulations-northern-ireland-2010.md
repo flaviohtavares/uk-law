@@ -44,15 +44,15 @@ Coming into operation
 
 3rd October 2010
 
-The Department for Employment and Learning makes the following Regulations in exercise of the powers conferred by sections 167ZEA(1), (2), and (3), 167ZEB(1), (2) and (3), 167ZEC(1) and (3), 167ZED(2) and (3), 167ZEE(2), (4) and (7), 167ZG(3), 167ZJ(3), (4), (7) and (8) and 171(4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and by section 5(1)(g), (j) and (q) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and with the concurrence of the Commissioners for Her Majesty’s Revenue and Customs in so far as such concurrence is required[^f00003].[^key-c9a45822753ad2c137e298a98afc8f67]
+The Department for Employment and Learning makes the following Regulations in exercise of the powers conferred by sections 167ZEA(1), (2), and (3), 167ZEB(1), (2) and (3), 167ZEC(1) and (3), 167ZED(2) and (3), 167ZEE(2), (4) and (7), 167ZG(3), 167ZJ(3), (4), (7) and (8) and 171(4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and by section 5(1)(g), (j) and (q) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and with the concurrence of the Commissioners for Her Majesty’s Revenue and Customs in so far as such concurrence is required[^f00003].[^c-c9a45822753ad2c137e298a98afc8f67]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-8b83899359a8d12b9670679c8a15be5e]
+### 1. Citation and commencement[^c-8b83899359a8d12b9670679c8a15be5e]
 
 These Regulations may be cited as the Additional Statutory Paternity Pay (General) Regulations (Northern Ireland) 2010 and come into operation on 3rd October 2010.
 
-### 2. Interpretation[^key-289129f7e50a9cb923e91b7481c6c9f7]
+### 2. Interpretation[^c-289129f7e50a9cb923e91b7481c6c9f7]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ These Regulations may be cited as the Additional Statutory Paternity Pay (Genera
 - (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child, and
 - (b) a person is notified of having been matched with a child on the date on which the person receives notification of the agency’s decision, under regulation 11(2) of the Adoption Agencies Regulations (Northern Ireland) 1989[^f00012], regulation 33(3)(a) of the Adoption Agencies Regulations 2005[^f00013], regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005[^f00014] or regulation 8(5) of the Adoption Agencies (Scotland) Regulations 2009[^f00015].
 
-### 3. Application[^key-08e05bf6546d3e5bf5a4d8a62a1c15e4]
+### 3. Application[^c-08e05bf6546d3e5bf5a4d8a62a1c15e4]
 
 Subject to the provisions of Part 12ZA of the Act and of these Regulations, there is entitlement to—
 
@@ -101,7 +101,7 @@ Subject to the provisions of Part 12ZA of the Act and of these Regulations, ther
 
 ## PART 2 — Additional statutory paternity pay (birth)
 
-### 4. Entitlement to additional statutory paternity pay (birth)[^key-372aaceaed9f785c1a1a6711c5e3a9eb]
+### 4. Entitlement to additional statutory paternity pay (birth)[^c-372aaceaed9f785c1a1a6711c5e3a9eb]
 
 (1) A person (“P”) is entitled to additional statutory paternity pay (birth) if—
 
@@ -128,7 +128,7 @@ Subject to the provisions of Part 12ZA of the Act and of these Regulations, ther
 
 (4) The references in paragraph (3) to the relevant week are to the week immediately preceding the 14th week before C’s expected week of birth.
 
-### 5. Modification of entitlement conditions: early birth[^key-24a74c69cac96b1c46867b1b7df787d4]
+### 5. Modification of entitlement conditions: early birth[^c-24a74c69cac96b1c46867b1b7df787d4]
 
 (1) Where C’s birth occurs earlier than the 14th week before C’s expected week of birth, regulation 4(3) shall have effect as if, for the conditions set out there, there were substituted the conditions that—
 
@@ -138,7 +138,7 @@ Subject to the provisions of Part 12ZA of the Act and of these Regulations, ther
 
 (2) The references in paragraph 5(1)(a) to the relevant week are to the week immediately preceding the 14th week before C’s expected week of birth.
 
-### 6. Conditions to be satisfied by the child’s mother[^key-2e0a1391ea0ca9372394da62864f930a]
+### 6. Conditions to be satisfied by the child’s mother[^c-2e0a1391ea0ca9372394da62864f930a]
 
 The conditions referred to in regulation 4(1)(b) are that M—
 
@@ -149,7 +149,7 @@ The conditions referred to in regulation 4(1)(b) are that M—
 - (c) has taken the action referred to in paragraph (b) not less than two weeks after the birth of C; and
 - (d) has at least two weeks of her maternity allowance period or maternity pay period which remain unexpired.
 
-### 7. Additional statutory paternity pay period (birth)[^key-0c06edf1bcc3d010f2f7bdbd039589ab]
+### 7. Additional statutory paternity pay period (birth)[^c-0c06edf1bcc3d010f2f7bdbd039589ab]
 
 (1) For the purposes of section 167ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (birth) in respect of C begins is—
 
@@ -172,7 +172,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 - (a) on which the maternity allowance period or maternity pay period in respect of C, which would have applied but for M’s death, would have ended; or
 - (b) if earlier, such date which, for the purposes of section 167ZEE(2)(b)(ii) of the Act, P may specify in the notice given under paragraph (4)(b).
 
-### 8. Application for, and evidence of entitlement to, additional statutory paternity pay (birth)[^key-8f8317350233cea2ccfe363a2e3811bf]
+### 8. Application for, and evidence of entitlement to, additional statutory paternity pay (birth)[^c-8f8317350233cea2ccfe363a2e3811bf]
 
 (1) P shall apply for additional statutory paternity pay (birth) to the person (“E”) who will be liable to pay P such pay by providing to E—
 
@@ -221,7 +221,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (8) When E has been provided with all of the information and the declarations referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the start and end dates of E’s liability to pay P additional statutory paternity pay (birth) by notice in writing to P.
 
-### 9. Entitlement to additional statutory paternity pay (birth) in the event of the death of the mother[^key-36f23006b9a4cc4ef7ebf369903c9ad2]
+### 9. Entitlement to additional statutory paternity pay (birth) in the event of the death of the mother[^c-36f23006b9a4cc4ef7ebf369903c9ad2]
 
 (1) In a case where M dies before the end of her maternity allowance period or maternity pay period in respect of C (but before the additional statutory paternity pay period (birth) in respect of C has begun)—
 
@@ -243,7 +243,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (3) References in this regulation to M’s maternity allowance period or maternity pay period in respect of C include, where M’s death occurred before her maternity allowance period or maternity pay period in respect of C started, references to such period as would have existed but for the fact that M had died.
 
-### 10. Application for, and evidence of entitlement to, additional statutory paternity pay (birth) in the event of the death of the mother[^key-b8a477922afc138f5d356d98804105c8]
+### 10. Application for, and evidence of entitlement to, additional statutory paternity pay (birth) in the event of the death of the mother[^c-b8a477922afc138f5d356d98804105c8]
 
 (1) P shall apply for additional statutory paternity pay (birth) to the person (“E”) who will be liable to pay P such pay by—
 
@@ -286,7 +286,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (9) When E has been provided with all of the information and the declaration referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the date on which the additional statutory paternity pay period (birth) in respect of C begins or began and the date on which E’s liability to pay P additional statutory paternity pay (birth) ends, by notice in writing to P.
 
-### 11. Entitlement to additional statutory paternity pay (birth) where there is more than one employer[^key-7536af8601112c47243054df5a4965ee]
+### 11. Entitlement to additional statutory paternity pay (birth) where there is more than one employer[^c-7536af8601112c47243054df5a4965ee]
 
 (1) Additional statutory paternity pay (birth) shall be payable to a person in respect of a statutory pay week during any part of which that person works only for an employer—
 
@@ -297,7 +297,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 ## PART 3 — Additional statutory paternity pay (adoption)
 
-### 12. Entitlement to additional statutory paternity pay (adoption)[^key-083a3a2b7daacdd8be8d285dec7cbc0d]
+### 12. Entitlement to additional statutory paternity pay (adoption)[^c-083a3a2b7daacdd8be8d285dec7cbc0d]
 
 (1) A person (“P”) is entitled to additional statutory paternity pay (adoption) if—
 
@@ -322,7 +322,7 @@ being, in either case, a date which falls no earlier than 20 weeks after the dat
 
 (4) The references in paragraph (3) to the relevant week are to the week in which A was notified or, as the case may be, A and P jointly were notified of having been matched with C.
 
-### 13. Conditions to be satisfied by the child’s adopter[^key-72d30a601e26d14e419e74679f5e7daa]
+### 13. Conditions to be satisfied by the child’s adopter[^c-72d30a601e26d14e419e74679f5e7daa]
 
 The conditions referred to in regulation 12(1)(b) are that A—
 
@@ -331,14 +331,14 @@ The conditions referred to in regulation 12(1)(b) are that A—
 - (c) has taken the action referred to in paragraph (b) not less than two weeks after the date C was placed for adoption with A; and
 - (d) has at least two weeks of their adoption pay period which remain unexpired.
 
-### 14. Additional statutory paternity pay period (adoption)[^key-10494e6ce763e36945f55a6547ddfd7e]
+### 14. Additional statutory paternity pay period (adoption)[^c-10494e6ce763e36945f55a6547ddfd7e]
 
 (1) For the purposes of section 167ZEE(2)(a) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C begins is—
 
 - (a) the date specified by P in accordance with regulation 15(2)(d) or last varied in accordance with regulation 15(6); or
 - (b) if later, the date of A’s taking action constituting a return to work within the meaning of regulation 19,
 
-being, in either case, a date which falls no earlier than 20 weeks after[^key-ae0f47a80c43652828a4ad23722c5203] the date on which C was placed for adoption.
+being, in either case, a date which falls no earlier than 20 weeks after[^c-ae0f47a80c43652828a4ad23722c5203] the date on which C was placed for adoption.
 
 (2) For the purposes of section 167ZEE(2)(b)(ii) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C ends is the date specified by P in accordance with regulation 15(2)(e) or last varied in accordance with regulation 15(6).
 
@@ -354,7 +354,7 @@ being, in either case, a date which falls no earlier than 20 weeks after[^key-ae
 - (a) on which the adoption pay period in respect of C, which would have applied but for A’s death, would have ended; or
 - (b) if earlier, such date which, for the purposes of section 167ZEE(2)(b)(ii) of the Act, P may specify in the notice given under paragraph (4)(b).
 
-### 15. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption)[^key-b8f829397c0c41f83555dd2ca208d205]
+### 15. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption)[^c-b8f829397c0c41f83555dd2ca208d205]
 
 (1) P shall apply for additional statutory paternity pay (adoption) to the person (“E”) who will be liable to pay P such pay by providing to E—
 
@@ -406,7 +406,7 @@ being, in either case, a date which falls no earlier than 20 weeks after[^key-ae
 
 (8) When E has been provided with all of the information and the declarations referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the start and end dates of E’s liability to pay P additional statutory paternity pay (adoption), by notice in writing to P.
 
-### 16. Entitlement to additional statutory paternity pay (adoption) in the event of the death of the adopter[^key-82dcd799a62bc692bee530a7e80b2868]
+### 16. Entitlement to additional statutory paternity pay (adoption) in the event of the death of the adopter[^c-82dcd799a62bc692bee530a7e80b2868]
 
 (1) In a case where A dies before the end of their adoption pay period in respect of C (but before the additional statutory paternity pay period (adoption) in respect of C has begun)—
 
@@ -428,7 +428,7 @@ being, in either case, a date which falls no earlier than 20 weeks after[^key-ae
 
 (3) References in this regulation to A’s adoption pay period in respect of C include, where A’s death occurred before A’s adoption pay period in respect of C started, references to such period as would have existed but for the fact that A had died.
 
-### 17. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in the event of the death of the adopter[^key-275dfea5ff4dabaf6af20525def06df2]
+### 17. Application for, and evidence of entitlement to, additional statutory paternity pay (adoption) in the event of the death of the adopter[^c-275dfea5ff4dabaf6af20525def06df2]
 
 (1) P shall apply for additional statutory paternity pay (adoption) to the person (“E”) who will be liable to pay P such pay by—
 
@@ -474,7 +474,7 @@ being, in either case, a date which falls no earlier than 20 weeks after[^key-ae
 
 (9) When E has been provided with all of the information and the declaration referred to in paragraph (1) (together with, if applicable, what E has requested under paragraph (3)), E must, within 28 days, confirm the date on which the additional statutory paternity pay period (adoption) in respect of C begins or began and the date on which E’s liability to pay P additional statutory paternity pay (adoption) ends, by notice in writing to P.
 
-### 18. Entitlement to additional statutory paternity pay (adoption) where there is more than one employer[^key-cee0f2c50c7e463b9b197f9a7ab8ef24]
+### 18. Entitlement to additional statutory paternity pay (adoption) where there is more than one employer[^c-cee0f2c50c7e463b9b197f9a7ab8ef24]
 
 (1) Additional statutory paternity pay (adoption) shall be payable to a person in respect of a statutory pay week during any part of which that person works only for an employer—
 
@@ -485,7 +485,7 @@ being, in either case, a date which falls no earlier than 20 weeks after[^key-ae
 
 ## PART 4 — Additional statutory paternity pay: provisions applicable to both additional statutory paternity pay (birth) and additional statutory paternity pay (adoption)
 
-### 19. Return to work[^key-574869599aa288b6f78a676a25c4e79a]
+### 19. Return to work[^c-574869599aa288b6f78a676a25c4e79a]
 
 For the purposes of these Regulations, a mother or adopter is treated as returning to work if one of the following situations applies—
 
@@ -493,7 +493,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (b) in a case where an adopter is entitled to statutory adoption pay, that payment is not payable to that person in accordance with section 171ZN(3) or (5) of the Act [^f00017];
 - (c) in a case where a mother is entitled to statutory maternity pay, that payment is not payable to her in accordance with section 161(4) or (6) of the Act [^f00018].
 
-### 20. Work during the additional statutory paternity pay period[^key-d016d5412254e18e2dc8ac87b23708dd][^key-67b59a7f229542aa66b27617dce48ac5]
+### 20. Work during the additional statutory paternity pay period[^c-d016d5412254e18e2dc8ac87b23708dd][^c-67b59a7f229542aa66b27617dce48ac5]
 
 (1) In a case where additional statutory paternity pay is being paid to a person who works during the additional statutory paternity pay period for an employer who is not liable to pay that person additional statutory paternity pay and who does not fall within, as appropriate, regulation 11(1)(b) or regulation 18(1)(b), there shall be no liability to pay additional statutory paternity pay in respect of the week in which the person does that work.
 
@@ -503,7 +503,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 
 (4) In a case where an employee does any work on any day, under a contract of service with an employer who is liable to pay that employee additional statutory paternity pay, for not more than ten such days during the employee’s additional statutory paternity pay period, whether consecutive or not, additional statutory paternity pay shall continue to be payable to the employee by the employer.
 
-### 21. Cases where there is no liability to pay additional statutory paternity pay[^key-e5051bc556d74819cf482727fc427201][^key-097c19a306eac803df8351d5f6bde8b5]
+### 21. Cases where there is no liability to pay additional statutory paternity pay[^c-e5051bc556d74819cf482727fc427201][^c-097c19a306eac803df8351d5f6bde8b5]
 
 (1) There shall be no liability to pay additional statutory paternity pay in respect of any week—
 
@@ -517,7 +517,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (b) is subsequently found not guilty of any offence and is released; or
 - (c) is convicted of an offence but does not receive a custodial sentence.
 
-### 22. Additional statutory paternity pay and contractual remuneration[^key-6fde6df59c0049b6e0861cfcab682a95][^key-097c19a306eac803df8351d5f6bde8b5]
+### 22. Additional statutory paternity pay and contractual remuneration[^c-6fde6df59c0049b6e0861cfcab682a95][^c-097c19a306eac803df8351d5f6bde8b5]
 
 (1) For the purposes of section 167ZG(1) and (2) of the Act (as such provisions apply to additional statutory paternity pay), the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
 
@@ -525,7 +525,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (b) for incapacity for work due to sickness or injury;
 - (c) by reason of birth or adoption of a child.
 
-### 23. Avoidance of liability for additional statutory paternity pay[^key-94e9a40777826aa1a2f410c55892d4c2]
+### 23. Avoidance of liability for additional statutory paternity pay[^c-94e9a40777826aa1a2f410c55892d4c2]
 
 (1) A former employer shall be liable to make payments of additional statutory paternity pay to a former employee in any case where the employee had been employed for a continuous period of at least eight weeks and the employee’s contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for additional statutory paternity pay or ordinary statutory paternity pay, or both.
 
@@ -534,7 +534,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (a) the employee shall be treated as if they had been employed for a continuous period ending with the earliest date that they could have been entitled to additional statutory paternity pay; and
 - (b) their normal weekly earnings shall be calculated by reference to their normal weekly earnings for the period of eight weeks ending with the last day in respect of which they were paid under their former contract of service.
 
-### 24. Treatment of persons as employees[^key-12bced075454d80b22db70ad6216820f][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 24. Treatment of persons as employees[^c-12bced075454d80b22db70ad6216820f][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 (1) Subject to paragraph (2), in a case where, and in so far as, a person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978[^f00019] that person shall be treated as an employee for the purposes of Part 12ZA of the Act, and in a case where, and in so far as, such a person is treated otherwise than as an employed earner by virtue of those regulations, that person shall not be treated as an employee for the purposes of Part 12ZA of the Act.
 
@@ -556,7 +556,7 @@ as it has effect in relation to a person who is, or as the case may be, is not s
 
 shall not be treated as an employee for the purposes of Part 12ZA of the Act.
 
-### 25. Continuous employment[^key-22e800b45ea40f60ea3a9d786dd33238][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 25. Continuous employment[^c-22e800b45ea40f60ea3a9d786dd33238][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 (1) Subject to the following provisions of this regulation, where in any week a person is, for the whole or part of the week—
 
@@ -578,7 +578,7 @@ and returns to work for their employer after the incapacity for or absence from 
 
 then in that case paragraph (1) shall apply as if the words “and returns to work for their employer after the incapacity for or absence from work,” were omitted.
 
-### 26. Continuous employment and unfair dismissal[^key-5249a6cc16713302370c06f3cdf2a0a5][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 26. Continuous employment and unfair dismissal[^c-5249a6cc16713302370c06f3cdf2a0a5][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 (1) This regulation applies to a person in relation to whose dismissal an action is commenced which consists—
 
@@ -594,7 +594,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 - “dismissal procedures agreement” and “successor” have the same meanings as in Article 2(3) of the Employment Rights (Northern Ireland) Order 1996; and
 - “associated employer” shall be construed in accordance with Article 4 of that Order.
 
-### 27. Continuous employment and stoppages of work[^key-d9a088bd920a94f0a1811f09873a2e1b][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 27. Continuous employment and stoppages of work[^c-d9a088bd920a94f0a1811f09873a2e1b][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 (1) Where, for any week or part of a week a person does not work because there is a stoppage of work due to a trade dispute within the meaning of Article 2(2) of the Jobseekers (Northern Ireland) Order 1995[^f00023] at their place of employment, that person’s continuity of employment shall, subject to paragraph (2), be treated, for the purposes of Part 12ZA of the Act, as continuing throughout the stoppage but, subject to paragraph (3), no such week shall count in the computation of their period of employment.
 
@@ -602,7 +602,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 
 (3) The provisions of paragraph (1), to the extent that they provide that a week in which the stoppage of work occurred shall not count in the computation of a period of employment, and paragraph (2) shall not apply to a person who proves that at no time did they have a direct interest in the trade dispute in question.
 
-### 28. Change of employer[^key-ad3ddffada9b2490b4344e35d11c0eb8][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 28. Change of employer[^c-ad3ddffada9b2490b4344e35d11c0eb8][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 A person’s employment shall, notwithstanding a change of employer, be treated, for the purposes of Part 12ZA of the Act, as continuous employment with the second employer where—
 
@@ -612,11 +612,11 @@ A person’s employment shall, notwithstanding a change of employer, be treated,
 - (d) the person is employed by partners, personal representatives or trustees and there is a change in the partners, or, as the case may be, personal representatives or trustees; or
 - (e) the person is taken into the employment of an employer who is, at the time they entered that employer’s employment, an associated employer of their previous employer, and for this purpose “associated employer” shall be construed in accordance with Article 4 of the Employment Rights (Northern Ireland) Order 1996.
 
-### 29. Reinstatement after service with the armed forces etc.[^key-187b9dc30fafeaca6dbdd9f2631e444e][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 29. Reinstatement after service with the armed forces etc.[^c-187b9dc30fafeaca6dbdd9f2631e444e][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 If a person who is entitled to apply to their employer under the Reserve Forces (Safeguard of Employment) Act 1985[^f00024] enters the employment of that employer within the six month period mentioned in section 1(4)(b) of that Act, their previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in that six-month period shall be treated as continuous.
 
-### 30. Treatment of two or more employers or two or more contracts of service as one[^key-b5b130147242c5c1c94c01bcdcbc96c1][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 30. Treatment of two or more employers or two or more contracts of service as one[^c-b5b130147242c5c1c94c01bcdcbc96c1][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 (1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) of the Contributions Regulations, the employers of that person in respect of those employments shall be treated as one for the purposes of Part 12ZA of the Act.
 
@@ -624,7 +624,7 @@ If a person who is entitled to apply to their employer under the Reserve Forces 
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZA of the Act, except where, by virtue of regulation 14 of the Contributions Regulations, the earnings from those contracts of service are not aggregated for the purposes of earnings-related contributions.
 
-### 31. Meaning of “earnings”[^key-69ecdfd3b0b20d64e8e574488855ed20][^key-0af91c09b3d0d099491c38e1970b1d16]
+### 31. Meaning of “earnings”[^c-69ecdfd3b0b20d64e8e574488855ed20][^c-0af91c09b3d0d099491c38e1970b1d16]
 
 (1) For the purposes of section 167ZJ(6) of the Act (as such provision applies to additional statutory paternity pay) (normal weekly earnings for the purposes of Part 12ZA of the Act), the expression “earnings” shall be construed in accordance with the following provisions of this regulation.
 
@@ -645,7 +645,7 @@ If a person who is entitled to apply to their employer under the Reserve Forces 
 - (h) any sum payable by way of additional statutory paternity pay; and
 - (i) any sum payable by way of statutory adoption pay.
 
-### 32. Normal weekly earnings[^key-b5ec3667278185083006f516dab38abe][^key-417a1e8aca388db2c9ca49db290efd52]
+### 32. Normal weekly earnings[^c-b5ec3667278185083006f516dab38abe][^c-417a1e8aca388db2c9ca49db290efd52]
 
 (1) For the purposes of Part 12ZA of the Act, a person’s normal weekly earnings shall be calculated in accordance with the following provisions of this regulation.
 
@@ -672,11 +672,11 @@ including the normal pay day mentioned in sub-paragraph (a) but excluding that f
 
 (7) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
 
-### 33. Payment of additional statutory paternity pay[^key-26f0b800f17b029ebefc55eb5f525f18][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 33. Payment of additional statutory paternity pay[^c-26f0b800f17b029ebefc55eb5f525f18][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 Payments of additional statutory paternity pay may be made in a like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board or lodgings or of services or other facilities.
 
-### 34. Time when additional statutory paternity pay is to be paid[^key-874d04bb622512be7a117711ff70cc0e][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 34. Time when additional statutory paternity pay is to be paid[^c-874d04bb622512be7a117711ff70cc0e][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 (1) In this regulation, “pay day” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a person who is or was an employee of theirs, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
 
@@ -699,7 +699,7 @@ that amount of additional statutory paternity pay shall be paid within the time 
 
 (5) Where the employer or former employer would not have remunerated the employee for their work in the week in question as early as the pay day specified in paragraph (3) or (if it applies) paragraph (4), the requirement of payment shall be met on the first day on which the employee would have been remunerated for his work in that week.
 
-### 35. Liability of the Commissioners to pay additional statutory paternity pay[^key-eae50cbe5f9c1224191a8725f1c6c3b9][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 35. Liability of the Commissioners to pay additional statutory paternity pay[^c-eae50cbe5f9c1224191a8725f1c6c3b9][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 (1) Where—
 
@@ -717,7 +717,7 @@ then for any week in respect of which the employer was liable to make payments o
 - (b) the employer has died and the employer’s estate falls to be administered in accordance with an order made under Article 365 of the Insolvency (Northern Ireland) Order 1989[^f00028]; or
 - (c) where an employer is a company or a limited liability partnership, a winding-up order is made or a resolution for a voluntary winding-up is passed (or, in the case of a limited liability partnership, a determination for a voluntary winding-up has been made) with respect to it, or it enters administration, or a receiver or a manager of its undertaking is duly appointed, or possession is taken, by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company or limited liability partnership comprised in or subject to the charge, or a voluntary arrangement proposed for the purposes of Part 2 of the Insolvency (Northern Ireland) Order 1989 is approved under that Part.
 
-### 36. Liability of the Commissioners to pay additional statutory paternity pay in cases of legal custody or imprisonment[^key-ab690726dc1458dc09b61bdc2b6c185a][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 36. Liability of the Commissioners to pay additional statutory paternity pay in cases of legal custody or imprisonment[^c-ab690726dc1458dc09b61bdc2b6c185a][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 Where—
 
@@ -726,11 +726,11 @@ Where—
 
 that liability, notwithstanding section 167ZED of the Act, shall be that of the Commissioners and not the employer.
 
-### 37. Payments by the Commissioners[^key-1add1734d365a4b846c0d2f527a5dafe][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 37. Payments by the Commissioners[^c-1add1734d365a4b846c0d2f527a5dafe][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 Where the Commissioners become liable in accordance with regulations 35 or 36 to make payments of additional statutory paternity pay to a person, the first payment shall be made as soon as reasonably practicable after they become so liable, and payments thereafter shall be made at weekly intervals, by means of an instrument of payment or by such other means as appears to the Commissioners to be appropriate in the circumstance of any particular case.
 
-### 38. Persons unable to act[^key-1741a3f744c3ada95bca42ddf5f55572][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 38. Persons unable to act[^c-1741a3f744c3ada95bca42ddf5f55572][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 (1) Where to any person—
 
@@ -753,7 +753,7 @@ the Commissioners may, upon written application to the Commissioners by a person
 - (a) a judge of the High Court in Northern Ireland exercising jurisdiction in matters relating to patients; or
 - (b) a Master or other statutory officer of the Office of Care and Protection in the High Court in Northern Ireland.
 
-### 39. Service of notices by post[^key-cda2aa147f966a37cf92b30e37367a7b][^key-1fe0b072fe93e208ffff45b4b0c05f87]
+### 39. Service of notices by post[^c-cda2aa147f966a37cf92b30e37367a7b][^c-1fe0b072fe93e208ffff45b4b0c05f87]
 
 A notice given in accordance with the provisions of these Regulations in writing contained in an envelope which is properly addressed and sent by prepaid post shall be treated as having been given on the day on which it is posted.
 
@@ -801,11 +801,11 @@ Regulation 24 makes provision for persons who are, and are not, to be treated as
 
 [^f00003]: Footnote: Regulations made by the Department for Employment and Learning pursuant to section 167ZED(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 must be made with the concurrence of the Commissioners for Her Majesty’s Revenue and Customs. By virtue of 167ZJ(13) of the Act, regulations made by the Department pursuant to section 167ZJ(4), (7) and (8) of that Act must be made with the concurrence of the Commissioners of Inland Revenue. By virtue of section 50(1) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), references to the Commissioners of Inland Revenue in statutory provisions are to be taken as references to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-c9a45822753ad2c137e298a98afc8f67]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2010/300) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(k)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/k)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-c9a45822753ad2c137e298a98afc8f67]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2010/300) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(k)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/k)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
-[^key-8b83899359a8d12b9670679c8a15be5e]: Commencement: Reg. 1 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-8b83899359a8d12b9670679c8a15be5e]: Commencement: Reg. 1 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-289129f7e50a9cb923e91b7481c6c9f7]: Commencement: Reg. 2 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-289129f7e50a9cb923e91b7481c6c9f7]: Commencement: Reg. 2 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); Article 3(3) was amended by [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429).
 
@@ -831,41 +831,41 @@ Regulation 24 makes provision for persons who are, and are not, to be treated as
 
 [^f00015]: Footnote: [S.S.I. 2009/154](https://www.legislation.gov.uk/ssi/2009/154).
 
-[^key-08e05bf6546d3e5bf5a4d8a62a1c15e4]: Commencement: Reg. 3 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-08e05bf6546d3e5bf5a4d8a62a1c15e4]: Commencement: Reg. 3 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-372aaceaed9f785c1a1a6711c5e3a9eb]: Commencement: Reg. 4 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-372aaceaed9f785c1a1a6711c5e3a9eb]: Commencement: Reg. 4 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-24a74c69cac96b1c46867b1b7df787d4]: Commencement: Reg. 5 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-24a74c69cac96b1c46867b1b7df787d4]: Commencement: Reg. 5 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-2e0a1391ea0ca9372394da62864f930a]: Commencement: Reg. 6 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-2e0a1391ea0ca9372394da62864f930a]: Commencement: Reg. 6 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-0c06edf1bcc3d010f2f7bdbd039589ab]: Commencement: Reg. 7 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-0c06edf1bcc3d010f2f7bdbd039589ab]: Commencement: Reg. 7 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-8f8317350233cea2ccfe363a2e3811bf]: Commencement: Reg. 8 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-8f8317350233cea2ccfe363a2e3811bf]: Commencement: Reg. 8 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-36f23006b9a4cc4ef7ebf369903c9ad2]: Commencement: Reg. 9 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-36f23006b9a4cc4ef7ebf369903c9ad2]: Commencement: Reg. 9 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-b8a477922afc138f5d356d98804105c8]: Commencement: Reg. 10 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-b8a477922afc138f5d356d98804105c8]: Commencement: Reg. 10 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-7536af8601112c47243054df5a4965ee]: Commencement: Reg. 11 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-7536af8601112c47243054df5a4965ee]: Commencement: Reg. 11 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-083a3a2b7daacdd8be8d285dec7cbc0d]: Commencement: Reg. 12 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-083a3a2b7daacdd8be8d285dec7cbc0d]: Commencement: Reg. 12 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-72d30a601e26d14e419e74679f5e7daa]: Commencement: Reg. 13 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-72d30a601e26d14e419e74679f5e7daa]: Commencement: Reg. 13 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-10494e6ce763e36945f55a6547ddfd7e]: Commencement: Reg. 14 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-10494e6ce763e36945f55a6547ddfd7e]: Commencement: Reg. 14 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-ae0f47a80c43652828a4ad23722c5203]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2010/300/regulation/14/1) substituted (14.8.2011) by [The Additional Statutory Paternity Pay (General) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/277)](https://www.legislation.gov.uk/nisr/2011/277), [regs. 1](https://www.legislation.gov.uk/nisr/2011/277/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/277/regulation/2)
+[^c-ae0f47a80c43652828a4ad23722c5203]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2010/300/regulation/14/1) substituted (14.8.2011) by [The Additional Statutory Paternity Pay (General) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/277)](https://www.legislation.gov.uk/nisr/2011/277), [regs. 1](https://www.legislation.gov.uk/nisr/2011/277/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/277/regulation/2)
 
-[^key-b8f829397c0c41f83555dd2ca208d205]: Commencement: Reg. 15 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-b8f829397c0c41f83555dd2ca208d205]: Commencement: Reg. 15 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-82dcd799a62bc692bee530a7e80b2868]: Commencement: Reg. 16 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-82dcd799a62bc692bee530a7e80b2868]: Commencement: Reg. 16 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-275dfea5ff4dabaf6af20525def06df2]: Commencement: Reg. 17 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-275dfea5ff4dabaf6af20525def06df2]: Commencement: Reg. 17 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-cee0f2c50c7e463b9b197f9a7ab8ef24]: Commencement: Reg. 18 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-cee0f2c50c7e463b9b197f9a7ab8ef24]: Commencement: Reg. 18 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-574869599aa288b6f78a676a25c4e79a]: Commencement: Reg. 19 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-574869599aa288b6f78a676a25c4e79a]: Commencement: Reg. 19 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00016]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Section 35(3)(a)(i) was amended by the Work and Families (Northern Ireland) Order 2006, Schedule 1, paragraph 5.
 
@@ -873,27 +873,27 @@ Regulation 24 makes provision for persons who are, and are not, to be treated as
 
 [^f00018]: Footnote: Section 161(4) was amended by the Work and Families (Northern Ireland) Order 2006, Schedule 1, paragraph 6(1) and (3).
 
-[^key-d016d5412254e18e2dc8ac87b23708dd]: Commencement: Reg. 20 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-d016d5412254e18e2dc8ac87b23708dd]: Commencement: Reg. 20 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-67b59a7f229542aa66b27617dce48ac5]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/300/regulation/20) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2)[(4)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/4))
+[^c-67b59a7f229542aa66b27617dce48ac5]: Modification: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/300/regulation/20) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2)[(4)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/4))
 
-[^key-e5051bc556d74819cf482727fc427201]: Commencement: Reg. 21 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-e5051bc556d74819cf482727fc427201]: Commencement: Reg. 21 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-097c19a306eac803df8351d5f6bde8b5]: Modification: [Regs. 21](https://www.legislation.gov.uk/nisr/2010/300/regulation/21), [22](https://www.legislation.gov.uk/nisr/2010/300/regulation/22) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2))
+[^c-097c19a306eac803df8351d5f6bde8b5]: Modification: [Regs. 21](https://www.legislation.gov.uk/nisr/2010/300/regulation/21), [22](https://www.legislation.gov.uk/nisr/2010/300/regulation/22) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2))
 
-[^key-6fde6df59c0049b6e0861cfcab682a95]: Commencement: Reg. 22 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-6fde6df59c0049b6e0861cfcab682a95]: Commencement: Reg. 22 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-94e9a40777826aa1a2f410c55892d4c2]: Commencement: Reg. 23 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-94e9a40777826aa1a2f410c55892d4c2]: Commencement: Reg. 23 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-12bced075454d80b22db70ad6216820f]: Commencement: Reg. 24 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-12bced075454d80b22db70ad6216820f]: Commencement: Reg. 24 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-0af91c09b3d0d099491c38e1970b1d16]: Modification: [Regs. 24-31](https://www.legislation.gov.uk/nisr/2010/300/regulation/24) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2))
+[^c-0af91c09b3d0d099491c38e1970b1d16]: Modification: [Regs. 24-31](https://www.legislation.gov.uk/nisr/2010/300/regulation/24) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2))
 
 [^f00019]: Footnote: [S.R. 1978 No. 401](https://www.legislation.gov.uk/nisr/1978/401); amended by [S.R. 1980 No. 405](https://www.legislation.gov.uk/nisr/1980/405), [S.R. 1984 No. 81](https://www.legislation.gov.uk/nisr/1984/81), [S.R. 1990 No. 339](https://www.legislation.gov.uk/nisr/1990/339), [S.R. 1994 No. 92](https://www.legislation.gov.uk/nisr/1994/92), [S.R. 1998 No. 250](https://www.legislation.gov.uk/nisr/1998/250), [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770).
 
-[^key-22e800b45ea40f60ea3a9d786dd33238]: Commencement: Reg. 25 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-22e800b45ea40f60ea3a9d786dd33238]: Commencement: Reg. 25 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-5249a6cc16713302370c06f3cdf2a0a5]: Commencement: Reg. 26 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-5249a6cc16713302370c06f3cdf2a0a5]: Commencement: Reg. 26 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
 
@@ -901,44 +901,44 @@ Regulation 24 makes provision for persons who are, and are not, to be treated as
 
 [^f00022]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921). Article 20 was amended by [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869); [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39); [S.I. 1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265); [S.R. 1998 No. 386](https://www.legislation.gov.uk/nisr/1998/386); [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323); [S.R. 2000 No. 219](https://www.legislation.gov.uk/nisr/2000/219); [S.R. 2001 No. 37](https://www.legislation.gov.uk/nisr/2001/37); [S.R. 2001 No. 319](https://www.legislation.gov.uk/nisr/2001/319); [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836); [S.R. 2002 No. 298](https://www.legislation.gov.uk/nisr/2002/298); [S.I. 2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902); [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049); [S.R. 2003 No. 497](https://www.legislation.gov.uk/nisr/2003/497); [S.I. 2004/1713](https://www.legislation.gov.uk/uksi/2004/1713); [S.R. 2004 No. 55](https://www.legislation.gov.uk/nisr/2004/55); [S.R. 2004 No. 417](https://www.legislation.gov.uk/nisr/2004/417); [S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47); [S.I. 2006/2059](https://www.legislation.gov.uk/uksi/2006/2059); [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48); [S.R. 2006 No. 261](https://www.legislation.gov.uk/nisr/2006/261); [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974); [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13); [S.R. 2008 No. 315](https://www.legislation.gov.uk/nisr/2008/315).
 
-[^key-d9a088bd920a94f0a1811f09873a2e1b]: Commencement: Reg. 27 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-d9a088bd920a94f0a1811f09873a2e1b]: Commencement: Reg. 27 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00023]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-ad3ddffada9b2490b4344e35d11c0eb8]: Commencement: Reg. 28 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-ad3ddffada9b2490b4344e35d11c0eb8]: Commencement: Reg. 28 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-187b9dc30fafeaca6dbdd9f2631e444e]: Commencement: Reg. 29 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-187b9dc30fafeaca6dbdd9f2631e444e]: Commencement: Reg. 29 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00024]: Footnote: [1985 c.17](https://www.legislation.gov.uk/ukpga/1985/17).
 
-[^key-b5b130147242c5c1c94c01bcdcbc96c1]: Commencement: Reg. 30 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-b5b130147242c5c1c94c01bcdcbc96c1]: Commencement: Reg. 30 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-69ecdfd3b0b20d64e8e574488855ed20]: Commencement: Reg. 31 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-69ecdfd3b0b20d64e8e574488855ed20]: Commencement: Reg. 31 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00025]: Footnote: Section 10A was inserted by section 53 of the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
 [^f00026]: Footnote: Section 4B was inserted by section 1(1) of the National Insurance Contributions Act [2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10).
 
-[^key-b5ec3667278185083006f516dab38abe]: Commencement: Reg. 32 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-b5ec3667278185083006f516dab38abe]: Commencement: Reg. 32 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-417a1e8aca388db2c9ca49db290efd52]: Modification: [Reg. 32](https://www.legislation.gov.uk/nisr/2010/300/regulation/32) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2)[(5)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/5))
+[^c-417a1e8aca388db2c9ca49db290efd52]: Modification: [Reg. 32](https://www.legislation.gov.uk/nisr/2010/300/regulation/32) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2)[(5)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/5))
 
-[^key-26f0b800f17b029ebefc55eb5f525f18]: Commencement: Reg. 33 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-26f0b800f17b029ebefc55eb5f525f18]: Commencement: Reg. 33 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-1fe0b072fe93e208ffff45b4b0c05f87]: Modification: [Regs. 33-39](https://www.legislation.gov.uk/nisr/2010/300/regulation/33) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2))
+[^c-1fe0b072fe93e208ffff45b4b0c05f87]: Modification: [Regs. 33-39](https://www.legislation.gov.uk/nisr/2010/300/regulation/33) applied (with modifications) (6.10.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (S.R. 2010/298)](https://www.legislation.gov.uk/nisr/2010/298), [regs. 1](https://www.legislation.gov.uk/nisr/2010/298/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/3) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2010/298/regulation/3/2))
 
-[^key-874d04bb622512be7a117711ff70cc0e]: Commencement: Reg. 34 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-874d04bb622512be7a117711ff70cc0e]: Commencement: Reg. 34 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00027]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671). Article 7(1) was amended by Article 10(2) of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and by the Work and Families (Northern Ireland) Order 2006 ([S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947)), Article 13(1) and Schedule 1, paragraph 43(1) and (2).
 
-[^key-eae50cbe5f9c1224191a8725f1c6c3b9]: Commencement: Reg. 35 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-eae50cbe5f9c1224191a8725f1c6c3b9]: Commencement: Reg. 35 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
 [^f00028]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-ab690726dc1458dc09b61bdc2b6c185a]: Commencement: Reg. 36 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-ab690726dc1458dc09b61bdc2b6c185a]: Commencement: Reg. 36 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-1add1734d365a4b846c0d2f527a5dafe]: Commencement: Reg. 37 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-1add1734d365a4b846c0d2f527a5dafe]: Commencement: Reg. 37 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-1741a3f744c3ada95bca42ddf5f55572]: Commencement: Reg. 38 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-1741a3f744c3ada95bca42ddf5f55572]: Commencement: Reg. 38 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
 
-[^key-cda2aa147f966a37cf92b30e37367a7b]: Commencement: Reg. 39 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)
+[^c-cda2aa147f966a37cf92b30e37367a7b]: Commencement: Reg. 39 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/300/regulation/1)

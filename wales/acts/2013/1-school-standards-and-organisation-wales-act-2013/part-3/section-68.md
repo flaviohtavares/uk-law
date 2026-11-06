@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Proposals by Welsh Ministers[^key-72ec99fd482634293e534fdf4708b417]
+## 68. Proposals by Welsh Ministers[^c-72ec99fd482634293e534fdf4708b417]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72ec99fd482634293e534fdf4708b417]: Commencement: S. 68 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)
+[^c-72ec99fd482634293e534fdf4708b417]: Commencement: S. 68 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)

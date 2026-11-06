@@ -46,7 +46,7 @@ In accordance with paragraph 1(6) of schedule 7 of that Act, a draft of this ins
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-9fd59eafe6affac733be6bbe79eb2dea]
+### 1. Citation and commencement[^c-9fd59eafe6affac733be6bbe79eb2dea]
 
 These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 and come into force on the later of the following—
 
@@ -55,7 +55,7 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
 ## PART 2 — Amendments of primary legislation relating to withdrawal from the European Union
 
-**2.**[^key-1ad4fb3331786a66ab4f5a8a17b53249] (1) The Regulatory Reform (Scotland) Act 2014[^f00002] is amended as follows.
+**2.**[^c-1ad4fb3331786a66ab4f5a8a17b53249] (1) The Regulatory Reform (Scotland) Act 2014[^f00002] is amended as follows.
 
 (2) In section 16 (general purpose: protecting and improving the environment)—
 
@@ -136,13 +136,13 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
 ## PART 3 — Amendments of secondary legislation relating to withdrawal from the European Union
 
-**3.**[^key-3ccedc556d6044e2a3b7c98412232d4d] In regulation 2(1) (interpretation) of the Landfill Allowances Scheme (Scotland) Regulations 2005[^f00028] for the definition of “European Waste Catalogue”[^f00029] substitute*—*
+**3.**[^c-3ccedc556d6044e2a3b7c98412232d4d] In regulation 2(1) (interpretation) of the Landfill Allowances Scheme (Scotland) Regulations 2005[^f00028] for the definition of “European Waste Catalogue”[^f00029] substitute*—*
 
 > - “European Waste Catalogue” has the same meaning as in regulation 1(4) of the Special Waste Regulations 1996[^f00030],
 
 .
 
-**4.**[^key-6d27690d7cd67bcf8f9f0669237455cc] (1) The National Waste Management Plan for Scotland Regulations 2007[^f00031] are amended as follows.
+**4.**[^c-6d27690d7cd67bcf8f9f0669237455cc] (1) The National Waste Management Plan for Scotland Regulations 2007[^f00031] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
@@ -162,7 +162,7 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 - (a) for “European Union as a whole to become” substitute “Scotland to move towards the aim of becoming”, and
 - (b) omit “and the Member States individually to move towards that aim,”.
 
-**5.**[^key-08d74f257bbc185de5c4a924ff8bb7ff] (1) The Waste Batteries (Scotland) Regulations 2009[^f00035] are amended as follows.
+**5.**[^c-08d74f257bbc185de5c4a924ff8bb7ff] (1) The Waste Batteries (Scotland) Regulations 2009[^f00035] are amended as follows.
 
 (2) In regulation 2 (interpretation)—
 
@@ -179,11 +179,11 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
   .
 
-**6.**[^key-c49bd9e7c3a5d83491cd504e36e73732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c49bd9e7c3a5d83491cd504e36e73732] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Revocations
 
-**7.**[^key-d4dad834024dcb3fd40a31e41448cab7] The Orders specified in the Schedule to these Regulations are revoked.
+**7.**[^c-d4dad834024dcb3fd40a31e41448cab7] The Orders specified in the Schedule to these Regulations are revoked.
 
 R CUNNINGHAM
 
@@ -195,7 +195,7 @@ Edinburgh
 
 17th December 2019
 
-## SCHEDULE — Revocations[^key-19534ca88c77fdaf39b3f6ec74919400]
+## SCHEDULE — Revocations[^c-19534ca88c77fdaf39b3f6ec74919400]
 
 Regulation 7
 
@@ -232,9 +232,9 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00001]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9fd59eafe6affac733be6bbe79eb2dea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fd59eafe6affac733be6bbe79eb2dea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ad4fb3331786a66ab4f5a8a17b53249]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/436/regulation/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ad4fb3331786a66ab4f5a8a17b53249]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/436/regulation/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
 
@@ -288,7 +288,7 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00027]: Footnote: OJ L 169, 25.6.2019, p.45.
 
-[^key-3ccedc556d6044e2a3b7c98412232d4d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/436/regulation/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ccedc556d6044e2a3b7c98412232d4d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/436/regulation/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00028]: Footnote: [S.S.I. 2005/157](https://www.legislation.gov.uk/ssi/2005/157).
 
@@ -296,7 +296,7 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00030]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-6d27690d7cd67bcf8f9f0669237455cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/436/regulation/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d27690d7cd67bcf8f9f0669237455cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/436/regulation/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00031]: Footnote: [S.S.I. 2007/251](https://www.legislation.gov.uk/ssi/2007/251), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2015/438](https://www.legislation.gov.uk/ssi/2015/438) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
@@ -306,14 +306,14 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00034]: Footnote: As relevantly amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-08d74f257bbc185de5c4a924ff8bb7ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/436/regulation/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08d74f257bbc185de5c4a924ff8bb7ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/436/regulation/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00035]: Footnote: [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247).
 
 [^f00036]: Footnote: Definition substituted by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and amended by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-c49bd9e7c3a5d83491cd504e36e73732]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/436/regulation/6) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-c49bd9e7c3a5d83491cd504e36e73732]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/436/regulation/6) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d4dad834024dcb3fd40a31e41448cab7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/436/regulation/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4dad834024dcb3fd40a31e41448cab7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/436/regulation/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19534ca88c77fdaf39b3f6ec74919400]: Commencement: Sch. in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); 2020 c. 1, Sch. 5 para. 1(1)
+[^c-19534ca88c77fdaf39b3f6ec74919400]: Commencement: Sch. in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/1/b); 2020 c. 1, Sch. 5 para. 1(1)

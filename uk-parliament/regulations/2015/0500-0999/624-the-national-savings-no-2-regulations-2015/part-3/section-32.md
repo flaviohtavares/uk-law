@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Authority for payment to third party[^key-c8a42dc6d081556f9f348a84ff75ab5b]
+## 32. Authority for payment to third party[^c-c8a42dc6d081556f9f348a84ff75ab5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8a42dc6d081556f9f348a84ff75ab5b]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-c8a42dc6d081556f9f348a84ff75ab5b]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

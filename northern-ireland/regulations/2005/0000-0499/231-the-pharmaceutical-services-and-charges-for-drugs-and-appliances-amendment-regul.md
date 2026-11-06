@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 63(1), (2), (2A) to (2D), 64, 98, 106(b) and 107(6) of, and Schedule 15 to the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and Article 10 of the Health and Medicines (Northern Ireland) Order 1988[^f00003] and of all other powers enabling it in that behalf, and in conjunction with the Department of Finance and Personnel insofar as they relate to Pharmaceutical Services, and with the approval of the Department of Finance and Personnal insofar as they relate to Charges for Drugs and Appliances, and after consultation with such organisations as appear to it to be representative of the pharmaceutical profession as required by Article 63(3) of the Health and Personal Social Services (Northern Ireland) Order 1972, hereby make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d9ce2f6659f2c836c58395326a88de15]
+## 1. Citation, commencement and interpretation[^c-d9ce2f6659f2c836c58395326a88de15]
 
 (1) These Regulations may be cited as the Pharmaceutical Services and Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 1st May 2005.
 
@@ -50,7 +50,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 - (a) “the Pharmaceutical Regulations” means the Pharmaceutical Services Regulations (Northern Ireland) 1997[^f00003].
 - (b) “the Charges for Drugs and Appliances Regulations” means the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^f00004].
 
-## 2. Amendment of the Pharmaceutical Services Regulations (Northern Ireland) 1997[^key-c769a41d2fd44036c5541521ca5e4e15]
+## 2. Amendment of the Pharmaceutical Services Regulations (Northern Ireland) 1997[^c-c769a41d2fd44036c5541521ca5e4e15]
 
 (1) The Pharmaceutical Services Regulations (Northern Ireland) 1997 are amended as follows.
 
@@ -151,7 +151,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 
 .
 
-## 3. Insertion of Regulation 4A[^key-490135c5551141bfd0f985ef633b806e]
+## 3. Insertion of Regulation 4A[^c-490135c5551141bfd0f985ef633b806e]
 
 After regulation 4 insert the following regulation –
 
@@ -180,11 +180,11 @@ After regulation 4 insert the following regulation –
 
 .
 
-## 4. Amendment of regulation 6 of the principal Regulations[^key-4f64c1cd473d70d58fe2144d94ee6185]
+## 4. Amendment of regulation 6 of the principal Regulations[^c-4f64c1cd473d70d58fe2144d94ee6185]
 
 In regulation 6 (pharmaceutical list) in paragraph (2)(b)(iii) after “pharmaceutical services” insert “(other than repeat dispensing services)”.
 
-## 5. Amendment of regulation 9[^key-da5df853fea0cd8a30f39fbde895e0f7]
+## 5. Amendment of regulation 9[^c-da5df853fea0cd8a30f39fbde895e0f7]
 
 In regulation 9 (standards of, and payments for, drugs and appliances) –
 
@@ -195,7 +195,7 @@ In regulation 9 (standards of, and payments for, drugs and appliances) –
 
   .
 
-## 6. Amendment of regulation 10A[^key-515dd32b0c29117f3283ec415e1e889b]
+## 6. Amendment of regulation 10A[^c-515dd32b0c29117f3283ec415e1e889b]
 
 In regulation 10A (reward scheme) in paragraph (1) –
 
@@ -208,11 +208,11 @@ In regulation 10A (reward scheme) in paragraph (1) –
   ; and
 - (d) at the end add “and the Board has established that the order referred to in this paragraph was not a genuine order for the person named on the prescription form.”.
 
-## 7. Omission of regulation 11[^key-2543c0c1a6abfbbb98b2901b8e54aaf6]
+## 7. Omission of regulation 11[^c-2543c0c1a6abfbbb98b2901b8e54aaf6]
 
 Regulation 11 (provision of pharmaceutical services for immediate treatment or personal administration) is omitted.
 
-## 8. Amendment of regulation 12[^key-327de4497a3e13539ee60d7939c08a46]
+## 8. Amendment of regulation 12[^c-327de4497a3e13539ee60d7939c08a46]
 
 For regulation 12 (arrangements for provision of pharmaceutical services by doctors) substitute –
 
@@ -258,11 +258,11 @@ For regulation 12 (arrangements for provision of pharmaceutical services by doct
 
 .
 
-## 9. Omission of regulation 12A[^key-25b9b05b1463d1262bd003123845acc7]
+## 9. Omission of regulation 12A[^c-25b9b05b1463d1262bd003123845acc7]
 
 Regulation 12A (doctors who previously performed personal medical services) is omitted.
 
-## 10. Amendment of regulation 12B[^key-4adea9876841ed4d479f6cec25068b6b]
+## 10. Amendment of regulation 12B[^c-4adea9876841ed4d479f6cec25068b6b]
 
 For regulation 12B[^f00015] substitute –
 
@@ -270,7 +270,7 @@ For regulation 12B[^f00015] substitute –
 >
 > (2) The dispensing doctor list shall indicate the address of the relevant GMS contractor from whose premises any doctor whose name is included performs primary medical services.
 
-## 11. Amendment of regulation 12C[^key-74617fb3d10e6279e99b7ffe82344c84]
+## 11. Amendment of regulation 12C[^c-74617fb3d10e6279e99b7ffe82344c84]
 
 For regulation 12C[^f00015] substitute –
 
@@ -280,11 +280,11 @@ For regulation 12C[^f00015] substitute –
 > - (b) the doctor is no longer performing primary medical services within the area of the Board; or
 > - (c) more than 12 months have elapsed since the doctor last provided pharmaceutical services pursuant to the authorisation or requirement to provide such services given by the Board under regulation 12.
 
-## 12. Amendment of regulation 16[^key-6d4143c084b2f0b93f22c67659746a10]
+## 12. Amendment of regulation 16[^c-6d4143c084b2f0b93f22c67659746a10]
 
 In regulation 16(2)(b) (claims and overpayments) after the word “where” insert “, in the case of a chemist”.
 
-## 13. Amendment of Schedule 2[^key-353ada3dcf9a337322413ae6635ab334]
+## 13. Amendment of Schedule 2[^c-353ada3dcf9a337322413ae6635ab334]
 
 (1) Schedule 2 is amended as follows.
 
@@ -498,11 +498,11 @@ In regulation 16(2)(b) (claims and overpayments) after the word “where” inse
 
 (14) Paragraph 18 is omitted.
 
-## 14. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^key-56a9c94734665f7339abb71f2a79ffa1]
+## 14. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^c-56a9c94734665f7339abb71f2a79ffa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of regulation 3 of the principal Regulations[^key-4d5132889d336e43d452e93a1e331cde]
+## 15. Amendment of regulation 3 of the principal Regulations[^c-4d5132889d336e43d452e93a1e331cde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -556,11 +556,11 @@ Regulation 15 amends regulation 3 of the Charges Regulations, to clarify that th
 
 [^f00003]: Footnote: [S.R. 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381) relevant amending instruments are [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249); [S.R. 1999 No. 254](https://www.legislation.gov.uk/nisr/1999/254); [S.R. 2001 No. 222](https://www.legislation.gov.uk/nisr/2001/222); [S.R. 2002 No. 92](https://www.legislation.gov.uk/nisr/2002/92); [S.R. 2002 No. 397](https://www.legislation.gov.uk/nisr/2002/397) and [S.R. 2003 No. 447](https://www.legislation.gov.uk/nisr/2003/447)
 
-[^key-d9ce2f6659f2c836c58395326a88de15]: Commencement: Reg. 1 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-d9ce2f6659f2c836c58395326a88de15]: Commencement: Reg. 1 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382) relevant amending instruments are [S.R. 1998 No. 135](https://www.legislation.gov.uk/nisr/1998/135); [S.R. 1999 No. 166](https://www.legislation.gov.uk/nisr/1999/166), [S.R. 2000 No. 57](https://www.legislation.gov.uk/nisr/2000/57) and [S.R. 2004 No. 94](https://www.legislation.gov.uk/nisr/2004/94)
 
-[^key-c769a41d2fd44036c5541521ca5e4e15]: Commencement: Reg. 2 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-c769a41d2fd44036c5541521ca5e4e15]: Commencement: Reg. 2 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2004 No. 91](https://www.legislation.gov.uk/nisr/2004/91)
 
@@ -582,29 +582,29 @@ Regulation 15 amends regulation 3 of the Charges Regulations, to clarify that th
 
 [^f00014]: Footnote: [S.R. 2004 No. 141](https://www.legislation.gov.uk/nisr/2004/141)
 
-[^key-490135c5551141bfd0f985ef633b806e]: Commencement: Reg. 3 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-490135c5551141bfd0f985ef633b806e]: Commencement: Reg. 3 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-4f64c1cd473d70d58fe2144d94ee6185]: Commencement: Reg. 4 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-4f64c1cd473d70d58fe2144d94ee6185]: Commencement: Reg. 4 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-da5df853fea0cd8a30f39fbde895e0f7]: Commencement: Reg. 5 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-da5df853fea0cd8a30f39fbde895e0f7]: Commencement: Reg. 5 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-515dd32b0c29117f3283ec415e1e889b]: Commencement: Reg. 6 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-515dd32b0c29117f3283ec415e1e889b]: Commencement: Reg. 6 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-2543c0c1a6abfbbb98b2901b8e54aaf6]: Commencement: Reg. 7 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-2543c0c1a6abfbbb98b2901b8e54aaf6]: Commencement: Reg. 7 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-327de4497a3e13539ee60d7939c08a46]: Commencement: Reg. 8 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-327de4497a3e13539ee60d7939c08a46]: Commencement: Reg. 8 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-25b9b05b1463d1262bd003123845acc7]: Commencement: Reg. 9 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-25b9b05b1463d1262bd003123845acc7]: Commencement: Reg. 9 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-4adea9876841ed4d479f6cec25068b6b]: Commencement: Reg. 10 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-4adea9876841ed4d479f6cec25068b6b]: Commencement: Reg. 10 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
 [^f00015]: Footnote: Regulation 12A, 12B and 12C were inserted by [S.R. 2001 No. 222](https://www.legislation.gov.uk/nisr/2001/222)
 
-[^key-74617fb3d10e6279e99b7ffe82344c84]: Commencement: Reg. 11 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-74617fb3d10e6279e99b7ffe82344c84]: Commencement: Reg. 11 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-6d4143c084b2f0b93f22c67659746a10]: Commencement: Reg. 12 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-6d4143c084b2f0b93f22c67659746a10]: Commencement: Reg. 12 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
-[^key-353ada3dcf9a337322413ae6635ab334]: Commencement: Reg. 13 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
+[^c-353ada3dcf9a337322413ae6635ab334]: Commencement: Reg. 13 in operation at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/231/regulation/1/1)
 
 [^f00016]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38)
 
@@ -612,6 +612,6 @@ Regulation 15 amends regulation 3 of the Charges Regulations, to clarify that th
 
 [^f00018]: Footnote: Article 57C was inserted by [S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)
 
-[^key-56a9c94734665f7339abb71f2a79ffa1]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/231/regulation/14) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-56a9c94734665f7339abb71f2a79ffa1]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/231/regulation/14) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
 
-[^key-4d5132889d336e43d452e93a1e331cde]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/231/regulation/15) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-4d5132889d336e43d452e93a1e331cde]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/231/regulation/15) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)

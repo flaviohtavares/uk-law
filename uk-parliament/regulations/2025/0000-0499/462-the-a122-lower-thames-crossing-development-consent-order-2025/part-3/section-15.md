@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Classification of roads, etc.[^key-5603b64db058b7d841263bb92fbc7c91]
+## 15. Classification of roads, etc.[^c-5603b64db058b7d841263bb92fbc7c91]
 
 *Extent: E+W*
 
@@ -51,14 +51,14 @@ summary: ''
 
 (6) Notwithstanding Schedule 1, the application of paragraphs (1) to (3) may be varied or revoked by any instrument made under any enactment which provides for the variation or revocation of such matters.
 
-(7) In this article, “**GLA road**” has the same meaning as in section 14D(1) (construction of provisions relating to GLA roads[^key-4fd3be6e0bea1c0ce8a3d2ae3bb95b5f])[^f00064] of the 1980 Act.
+(7) In this article, “**GLA road**” has the same meaning as in section 14D(1) (construction of provisions relating to GLA roads[^c-4fd3be6e0bea1c0ce8a3d2ae3bb95b5f])[^f00064] of the 1980 Act.
 
 ## Annotations
 
-[^key-5603b64db058b7d841263bb92fbc7c91]: Commencement: Art. 15 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-5603b64db058b7d841263bb92fbc7c91]: Commencement: Art. 15 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00063]: Footnote: Section 10(2) was amended by section 22(2)(a) of the New Roads and Street Works Act 1991 and by section 1(6) of, and paragraphs 1 and 10(1) and (2) of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-4fd3be6e0bea1c0ce8a3d2ae3bb95b5f]: Textual amendment: Words in [art. 15(7)](https://www.legislation.gov.uk/uksi/2025/462/article/15/7) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-4fd3be6e0bea1c0ce8a3d2ae3bb95b5f]: Textual amendment: Words in [art. 15(7)](https://www.legislation.gov.uk/uksi/2025/462/article/15/7) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00064]: Footnote: Section 14D was inserted by section 263(1) of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).

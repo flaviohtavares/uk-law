@@ -46,7 +46,7 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(b) of the Welfare Reform (Northern Ireland) Order 2015[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-e760bebc84519fc03655e85c8c626125]
+## 1. Citation, commencement and interpretation[^c-e760bebc84519fc03655e85c8c626125]
 
 (1) These Regulations may be cited as the Jobseeker’s Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 and come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016[^f00003].
 
@@ -57,7 +57,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of Part V of the JSA Regulations[^key-c2c30c12265bb2389cdbef581eac5ca5]
+## 2. Amendment of Part V of the JSA Regulations[^c-c2c30c12265bb2389cdbef581eac5ca5]
 
 (1) Part V of the JSA Regulations (sanctions) is amended in accordance with paragraphs (2) to (9).
 
@@ -288,7 +288,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
   .
 
-## 3. Amendment of Part IX of the JSA Regulations[^key-e71f4ca96ff5f1800588feef2f9bdbdb]
+## 3. Amendment of Part IX of the JSA Regulations[^c-e71f4ca96ff5f1800588feef2f9bdbdb]
 
 (1) Part IX of the JSA Regulations (hardship) is amended in accordance with paragraphs (2) to (5).
 
@@ -311,7 +311,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - (a) from “Article 21” to “to him” substitute “his award of jobseeker’s allowance has been reduced in accordance with Article 21 (higher level sanctions) or 21A of the Order (other sanctions) or regulation 69B (the period of a reduction under Article 21B: claimants ceasing to be available for employment etc.)”; and
 - (b) in sub-paragraph (a) for “Article 21 of the Order” substitute “the reduction”.
 
-## 4. Amendment of Part IXA of the JSA Regulations[^key-62739d7a1bc9107ac330e09f9ba98e66]
+## 4. Amendment of Part IXA of the JSA Regulations[^c-62739d7a1bc9107ac330e09f9ba98e66]
 
 (1) Part IXA of the JSA Regulations[^f00029] (hardship for joint-claim couples) is amended in accordance with paragraphs (2) to (5).
 
@@ -334,7 +334,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - (a) from “Article 22A(5)(a)” to “payable to them” substitute “the award of joint-claim jobseeker’s allowance has been reduced in accordance with Article 21 (higher level sanctions) or 21A (other sanctions) of the Order or regulation 69B (the period of a reduction under Article 21B: claimants ceasing to be available for employment etc.)”; and
 - (b) in sub-paragraph (a), for “Article 22A of the Order” substitute “the reduction”.
 
-## 5. Further consequential amendments of the JSA Regulations[^key-8e2a55bd11d2cb7c7c6e8b241b7317a0]
+## 5. Further consequential amendments of the JSA Regulations[^c-8e2a55bd11d2cb7c7c6e8b241b7317a0]
 
 (1) The JSA Regulations are amended in accordance with paragraphs (2) to (23).
 
@@ -431,9 +431,9 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (23) In regulation 161(3)(d)[^f00062] (additional conditions for payment of a jobseeker’s allowance) for “good cause” substitute “good reason”.
 
-## 6. Consequential amendments relating to sanctions[^key-b792cbbceda4a830b6ee88e6b004b7c9]
+## 6. Consequential amendments relating to sanctions[^c-b792cbbceda4a830b6ee88e6b004b7c9]
 
-(1)[^key-fd29f3d331d0c0f2da7586b409c56b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fd29f3d331d0c0f2da7586b409c56b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00064]—
 
@@ -521,7 +521,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-e760bebc84519fc03655e85c8c626125]: Commencement: Reg. 1 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
+[^c-e760bebc84519fc03655e85c8c626125]: Commencement: Reg. 1 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
 
 [^f00003]: Footnote: [S.R.2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
@@ -529,7 +529,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c2c30c12265bb2389cdbef581eac5ca5]: Commencement: Reg. 2 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
+[^c-c2c30c12265bb2389cdbef581eac5ca5]: Commencement: Reg. 2 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
 
 [^f00006]: Footnote: Regulation 69 was substituted by regulation 2(3) of [S.R. 2000 No. 9](https://www.legislation.gov.uk/nisr/2000/9) and amended by regulation 2(2) and (3) of [S.R. 2000 No. 197](https://www.legislation.gov.uk/nisr/2000/197), paragraph 25 of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), regulation 4 of [S.R. 2001 No. 151](https://www.legislation.gov.uk/nisr/2001/151), regulation 2(3) of [S.R. 2009 No. 141](https://www.legislation.gov.uk/nisr/2009/141) and regulation 2 of [S.R. 2009 No. 341](https://www.legislation.gov.uk/nisr/2009/341)
 
@@ -567,7 +567,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00023]: Footnote: Paragraph (4) was amended by paragraph 32(e) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and regulation 4(8) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112)
 
-[^key-e71f4ca96ff5f1800588feef2f9bdbdb]: Commencement: Reg. 3 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
+[^c-e71f4ca96ff5f1800588feef2f9bdbdb]: Commencement: Reg. 3 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
 
 [^f00024]: Footnote: Paragraph (1)(f)(i) was amended by regulation 2(13) of [S.R. 2012 No. 44](https://www.legislation.gov.uk/nisr/2012/44) and regulation 11(2)(a) of [S.R. 2014 No. 150](https://www.legislation.gov.uk/nisr/2014/150)
 
@@ -579,7 +579,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00028]: Footnote: Regulation 141(6) was amended by regulation 2(14) of [S.R. 2012 No. 44](https://www.legislation.gov.uk/nisr/2012/44) and regulation 11(3) of [S.R. 2014 No. 150](https://www.legislation.gov.uk/nisr/2014/150)
 
-[^key-62739d7a1bc9107ac330e09f9ba98e66]: Commencement: Reg. 4 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
+[^c-62739d7a1bc9107ac330e09f9ba98e66]: Commencement: Reg. 4 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
 
 [^f00029]: Footnote: Part IXA was inserted by regulation 2(3) of [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
@@ -593,7 +593,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00034]: Footnote: Regulation 146C(6) was amended by regulation 2(16) of [S.R. 2012 No. 44](https://www.legislation.gov.uk/nisr/2012/44) and regulation 12(3) of [S.R. 2014 No. 150](https://www.legislation.gov.uk/nisr/2014/150)
 
-[^key-8e2a55bd11d2cb7c7c6e8b241b7317a0]: Commencement: Reg. 5 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
+[^c-8e2a55bd11d2cb7c7c6e8b241b7317a0]: Commencement: Reg. 5 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
 
 [^f00035]: Footnote: The definition of “employment officer” was amended by regulation 2(2) of [S.R. 2000 No. 37](https://www.legislation.gov.uk/nisr/2000/37)
 
@@ -651,9 +651,9 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00062]: Footnote: Regulation 161(3) was amended by regulation 15 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-b792cbbceda4a830b6ee88e6b004b7c9]: Commencement: Reg. 6 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
+[^c-b792cbbceda4a830b6ee88e6b004b7c9]: Commencement: Reg. 6 in operation at 6.6.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/1/1)
 
-[^key-fd29f3d331d0c0f2da7586b409c56b7a]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/6/1) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [13](https://www.legislation.gov.uk/nisr/2017/116/regulation/13)
+[^c-fd29f3d331d0c0f2da7586b409c56b7a]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/241/regulation/6/1) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [13](https://www.legislation.gov.uk/nisr/2017/116/regulation/13)
 
 [^f00064]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408), [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176), [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224), [S.R. 2003 No. 405](https://www.legislation.gov.uk/nisr/2003/405), [S.R. 2012 No. 44](https://www.legislation.gov.uk/nisr/2012/44) and [S.R. 2014 No. 150](https://www.legislation.gov.uk/nisr/2014/150)
 

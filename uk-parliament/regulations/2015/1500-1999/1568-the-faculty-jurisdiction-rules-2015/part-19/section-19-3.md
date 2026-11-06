@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19.3. Appeals against registrar’s assessment[^key-b33ca9a123e432572dee33ef25da591e]
+## 19.3. Appeals against registrar’s assessment[^c-b33ca9a123e432572dee33ef25da591e]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b33ca9a123e432572dee33ef25da591e]: Commencement: [Rule 19.3](https://www.legislation.gov.uk/uksi/2015/1568/article/19.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-b33ca9a123e432572dee33ef25da591e]: Commencement: [Rule 19.3](https://www.legislation.gov.uk/uksi/2015/1568/article/19.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -24,7 +24,7 @@ Article 41
 
 ### PART 1 — INITIAL TOLLS AND REVISION OF TOLLS
 
-#### 1. Initial toll range[^key-26850d82db31ee0e951f682c5a7d7697]
+#### 1. Initial toll range[^c-26850d82db31ee0e951f682c5a7d7697]
 
 (1) On and from the opening day the tolls chargeable for the use of the new crossing shall be at such level within the toll range specified in sub-paragraph (4) for the class of vehicle specified as the undertaker may determine and shall remain at such level until revised in accordance with the following provisions of this Schedule.
 
@@ -43,22 +43,22 @@ Article 41
 
 (5) The toll range from the opening day for any vehicles to which the Road Vehicles (Authorisation of Special Types) (General) Order 2003[^f00046] applies shall be £15.00 to £220.00 increased by the same percentage for each whole year between April 2008 and the opening day as referred to in paragraph 2, subject to paragraph 3.
 
-#### 2. Revision of toll ranges[^key-587c51dd3776866bced6089e8a4931b2]
+#### 2. Revision of toll ranges[^c-587c51dd3776866bced6089e8a4931b2]
 
 (1) The toll ranges referred to in paragraph 1 shall be recalculated annually on 1 April each year by multiplying the upper and lower limits applying in each toll range by the indexation factor except where a reduction in those limits would result.
 
 (2) The indexation factor shall be derived by dividing the value of the retail prices index for the month of February in the relevant year by the value of the retail prices index for the month of February in the preceding year to produce a percentage and then adding one per cent.
 
-**3.**[^key-aa2dfdd8eb4001af3a2c041d95e4d77a] Any revision to the toll ranges referred to in paragraph 1 pursuant to the provisions of this Order—
+**3.**[^c-aa2dfdd8eb4001af3a2c041d95e4d77a] Any revision to the toll ranges referred to in paragraph 1 pursuant to the provisions of this Order—
 
 - (a) if it is neither a multiple of ten pence nor an amount which on division by ten produces a remainder of five pence shall be rounded to the nearest ten pence; and
 - (b) if it is an amount which on division by ten produces a remainder of five pence shall be increased by five pence.
 
-**4.**[^key-5dc8b0df5481989f283c1852709350f6] (1) Subject to sub-paragraph (2), the references in this Schedule to the retail prices index means the monthly United Kingdom index of Retail Prices (for all items) published by the Office of National Statistics.
+**4.**[^c-5dc8b0df5481989f283c1852709350f6] (1) Subject to sub-paragraph (2), the references in this Schedule to the retail prices index means the monthly United Kingdom index of Retail Prices (for all items) published by the Office of National Statistics.
 
 (2) If that index is not published for any month those references shall be references to any substituted index or index figures published by that Office for that month.
 
-#### 5. Revision of tolls[^key-1f97cf3120d8e6516a7b7e6b996f1642]
+#### 5. Revision of tolls[^c-1f97cf3120d8e6516a7b7e6b996f1642]
 
 (1) The tolls payable in respect of any vehicle or class of vehicle may be varied within the toll range in effect from time to time.
 
@@ -66,11 +66,11 @@ Article 41
 
 (3) It shall not be necessary to vary any toll by reason of a revision to a toll range resulting in a toll subsisting that is lower than the lower limit of a toll range.
 
-**6.**[^key-d974260f051ed89dc3a529fd8277e523] (1) Whenever the undertaker proposes to revise the toll that applies in respect of any vehicle or class of vehicles pursuant to paragraph 5 the undertaker shall publish in at least one local newspaper circulating in the area in which the new crossing is situated, a notice substantially in the form set out in Part 5.
+**6.**[^c-d974260f051ed89dc3a529fd8277e523] (1) Whenever the undertaker proposes to revise the toll that applies in respect of any vehicle or class of vehicles pursuant to paragraph 5 the undertaker shall publish in at least one local newspaper circulating in the area in which the new crossing is situated, a notice substantially in the form set out in Part 5.
 
 (2) The undertaker may charge the tolls set out in a notice given under sub-paragraph (1) from the day 28 days after that on which the notice referred to in sub-paragraph (1) is published.
 
-#### 7. Further provisions as to revision of toll ranges and classification of vehicles[^key-3f795ccd750daab83c04e2190d79543b]
+#### 7. Further provisions as to revision of toll ranges and classification of vehicles[^c-3f795ccd750daab83c04e2190d79543b]
 
 (1) Where a revision of tolls within the toll ranges recalculated pursuant to paragraph 2 would be insufficient**—**
 
@@ -86,7 +86,7 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 
 (3) The toll range in respect of any vehicle or class of vehicles may not be revised pursuant to this paragraph if less than 12 months have passed following the previous exercise by the undertaker of its powers under this paragraph.
 
-**8.**[^key-82ff0ca505341034b00d541f5e7184e7] (1) Prior to exercising its powers under paragraph 7 the undertaker shall**—**
+**8.**[^c-82ff0ca505341034b00d541f5e7184e7] (1) Prior to exercising its powers under paragraph 7 the undertaker shall**—**
 
 - (a) publish in at least one local newspaper in the area in which the new crossing is situated a notice substantially in the form set out in Part 3 of this Schedule;
 - (b) take such other steps as it may consider appropriate for ensuring that adequate publicity about the proposed change is given to persons likely to be affected by its provisions and, without limiting the scope of this sub-paragraph, such other steps may include**—**
@@ -106,7 +106,7 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 
 #### Objections
 
-**9.**[^key-56915acc7a8a194ff18ad4d3814d6a19] (1) Any person may object to the changes proposed by the undertaker pursuant to paragraph 7 by the date specified in the notice of proposals.
+**9.**[^c-56915acc7a8a194ff18ad4d3814d6a19] (1) Any person may object to the changes proposed by the undertaker pursuant to paragraph 7 by the date specified in the notice of proposals.
 
 (2) An objection under paragraph (1) shall**—**
 
@@ -116,7 +116,7 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 - (d) provide an address to which any correspondence relating to that objection may be sent;
 - (e) be sent to the address specified in the notice of proposals by the date specified in that notice.
 
-**10.**[^key-e3fe6f6a4e1f66f7b4c1cea00fa7fd83] (1) Where paragraph 7 applies to a proposed change and following the publication of a notice in accordance with paragraph 8(1)(a) no objections are received in the manner prescribed in paragraph 9 or any objection is withdrawn, the undertaker may, subject to complying with sub-paragraph (2), revise—
+**10.**[^c-e3fe6f6a4e1f66f7b4c1cea00fa7fd83] (1) Where paragraph 7 applies to a proposed change and following the publication of a notice in accordance with paragraph 8(1)(a) no objections are received in the manner prescribed in paragraph 9 or any objection is withdrawn, the undertaker may, subject to complying with sub-paragraph (2), revise—
 
 - (a) the toll ranges in respect of any vehicles or class of vehicles to a level not exceeding those set out in the notice referred to in paragraph 8(1)(a);
 - (b) the classification of vehicles or classes of vehicles in respect of which tolls may be charged to those set out in the notice referred to in paragraph 8(1)(a).
@@ -125,9 +125,9 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 
 (3) The undertaker may apply the revised toll ranges or apply the revised vehicle classifications or classes of vehicles (as the case may be) from the day 28 days after the notice referred to in sub-paragraph (2) is published.
 
-**11.**[^key-ac8e8590e149cd97d8b2faa35a97e37b] Where paragraph 7 applies to any proposed change and an objection has been received in the manner prescribed in paragraph 9 and the objection is not withdrawn, the undertaker shall not determine to raise the amount of any tolls or toll ranges or change vehicle classifications or classes of vehicles until it has complied with the provisions of paragraphs 12 and 13.
+**11.**[^c-ac8e8590e149cd97d8b2faa35a97e37b] Where paragraph 7 applies to any proposed change and an objection has been received in the manner prescribed in paragraph 9 and the objection is not withdrawn, the undertaker shall not determine to raise the amount of any tolls or toll ranges or change vehicle classifications or classes of vehicles until it has complied with the provisions of paragraphs 12 and 13.
 
-**12.**[^key-ac28ff64ffa16d1101d130c5d68d01bc] (1) Where any objections have been made in accordance with paragraph 9 the undertaker shall cause a local inquiry to be held for the purpose of considering the objections.
+**12.**[^c-ac28ff64ffa16d1101d130c5d68d01bc] (1) Where any objections have been made in accordance with paragraph 9 the undertaker shall cause a local inquiry to be held for the purpose of considering the objections.
 
 (2) The local inquiry shall be held by a person appointed by the Secretary of State.
 
@@ -137,7 +137,7 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 
 (5) A local inquiry need not be held under this paragraph if all persons who have made objections have withdrawn their objections in which case paragraph 10(1) shall apply.
 
-**13.**[^key-9d1d86ce68b1c3d272aec23808c162ef] (1) In any case where the undertaker holds a local inquiry in connection with the exercise of its powers under paragraph 7, the undertaker shall—
+**13.**[^c-9d1d86ce68b1c3d272aec23808c162ef] (1) In any case where the undertaker holds a local inquiry in connection with the exercise of its powers under paragraph 7, the undertaker shall—
 
 - (a) publish at least once in a local newspaper circulating in the area in which the new crossing is situated a notice in substantially the form set out in Part 4;
 - (b) give notice of the inquiry in writing to each person who has objected to the proposals in accordance with paragraph 9 and who has not withdrawn the objection; and
@@ -152,7 +152,7 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 
 (4) The person holding any local inquiry to which this provision applies shall have regard to the representations of members of the public and the responses to consultation in the report referred to at paragraph 8(2)(e).
 
-**14.**[^key-8ed758764ca4f07c044b26cae4095e98] (1) Where a local inquiry has been held the undertaker must first consider the report of the person it has appointed to hold the local inquiry before making any determination under this paragraph.
+**14.**[^c-8ed758764ca4f07c044b26cae4095e98] (1) Where a local inquiry has been held the undertaker must first consider the report of the person it has appointed to hold the local inquiry before making any determination under this paragraph.
 
 (2) Having considered the report of the person who held the inquiry the undertaker must**—**
 
@@ -166,7 +166,7 @@ the toll ranges or any of them may if the undertaker so determines be increased 
 
 ### PART 2 — CLASSIFICATION OF VEHICLES
 
-**15.**[^key-9de56e33a8288977c8fccaacecc54427] In this Schedule—
+**15.**[^c-9de56e33a8288977c8fccaacecc54427] In this Schedule—
 
 |  |  |
 | --- | --- |
@@ -179,40 +179,40 @@ Reference to “classifications” in this Part are references to the classes of
 
 ## Annotations
 
-[^key-26850d82db31ee0e951f682c5a7d7697]: Commencement: Sch. 11 para. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-26850d82db31ee0e951f682c5a7d7697]: Commencement: Sch. 11 para. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00046]: Footnote: [S.I. 2003/1998](https://www.legislation.gov.uk/uksi/2003/1998).
 
-[^key-587c51dd3776866bced6089e8a4931b2]: Commencement: Sch. 11 para. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-587c51dd3776866bced6089e8a4931b2]: Commencement: Sch. 11 para. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-aa2dfdd8eb4001af3a2c041d95e4d77a]: Commencement: Sch. 11 para. 3 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-aa2dfdd8eb4001af3a2c041d95e4d77a]: Commencement: Sch. 11 para. 3 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-5dc8b0df5481989f283c1852709350f6]: Commencement: Sch. 11 para. 4 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-5dc8b0df5481989f283c1852709350f6]: Commencement: Sch. 11 para. 4 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-1f97cf3120d8e6516a7b7e6b996f1642]: Commencement: Sch. 11 para. 5 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-1f97cf3120d8e6516a7b7e6b996f1642]: Commencement: Sch. 11 para. 5 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-d974260f051ed89dc3a529fd8277e523]: Commencement: Sch. 11 para. 6 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-d974260f051ed89dc3a529fd8277e523]: Commencement: Sch. 11 para. 6 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-3f795ccd750daab83c04e2190d79543b]: Commencement: Sch. 11 para. 7 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-3f795ccd750daab83c04e2190d79543b]: Commencement: Sch. 11 para. 7 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-82ff0ca505341034b00d541f5e7184e7]: Commencement: Sch. 11 para. 8 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-82ff0ca505341034b00d541f5e7184e7]: Commencement: Sch. 11 para. 8 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-56915acc7a8a194ff18ad4d3814d6a19]: Commencement: Sch. 11 para. 9 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-56915acc7a8a194ff18ad4d3814d6a19]: Commencement: Sch. 11 para. 9 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-e3fe6f6a4e1f66f7b4c1cea00fa7fd83]: Commencement: Sch. 11 para. 10 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-e3fe6f6a4e1f66f7b4c1cea00fa7fd83]: Commencement: Sch. 11 para. 10 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-ac8e8590e149cd97d8b2faa35a97e37b]: Commencement: Sch. 11 para. 11 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-ac8e8590e149cd97d8b2faa35a97e37b]: Commencement: Sch. 11 para. 11 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-ac28ff64ffa16d1101d130c5d68d01bc]: Commencement: Sch. 11 para. 12 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-ac28ff64ffa16d1101d130c5d68d01bc]: Commencement: Sch. 11 para. 12 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00047]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00048]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-9d1d86ce68b1c3d272aec23808c162ef]: Commencement: Sch. 11 para. 13 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-9d1d86ce68b1c3d272aec23808c162ef]: Commencement: Sch. 11 para. 13 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-8ed758764ca4f07c044b26cae4095e98]: Commencement: Sch. 11 para. 14 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-8ed758764ca4f07c044b26cae4095e98]: Commencement: Sch. 11 para. 14 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-9de56e33a8288977c8fccaacecc54427]: Commencement: Sch. 11 para. 15 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-9de56e33a8288977c8fccaacecc54427]: Commencement: Sch. 11 para. 15 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00049]: Footnote: [S.I. 2001/2793](https://www.legislation.gov.uk/uksi/2001/2793).

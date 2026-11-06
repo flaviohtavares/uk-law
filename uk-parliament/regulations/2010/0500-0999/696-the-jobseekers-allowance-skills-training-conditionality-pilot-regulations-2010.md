@@ -36,33 +36,33 @@ Coming into force
 
 26th April 2010
 
-[^key-5d005ad89d09aff3fd0f25b2f9fd0d82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d005ad89d09aff3fd0f25b2f9fd0d82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and duration[^key-5d005ad89d09aff3fd0f25b2f9fd0d82][^key-5d005ad89d09aff3fd0f25b2f9fd0d82]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-5d005ad89d09aff3fd0f25b2f9fd0d82][^key-5d005ad89d09aff3fd0f25b2f9fd0d82]
+## 1. Citation, commencement and duration[^c-5d005ad89d09aff3fd0f25b2f9fd0d82][^c-5d005ad89d09aff3fd0f25b2f9fd0d82]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-5d005ad89d09aff3fd0f25b2f9fd0d82][^key-5d005ad89d09aff3fd0f25b2f9fd0d82]
+## 2. Interpretation[^c-5d005ad89d09aff3fd0f25b2f9fd0d82][^c-5d005ad89d09aff3fd0f25b2f9fd0d82]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of the Jobseeker's Allowance Regulations[^key-5d005ad89d09aff3fd0f25b2f9fd0d82][^key-5d005ad89d09aff3fd0f25b2f9fd0d82]
+## 3. Application[^c-5d005ad89d09aff3fd0f25b2f9fd0d82][^c-5d005ad89d09aff3fd0f25b2f9fd0d82]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Change of claimant's address[^key-5d005ad89d09aff3fd0f25b2f9fd0d82][^key-5d005ad89d09aff3fd0f25b2f9fd0d82]
+## 4. Modification of the Jobseeker's Allowance Regulations[^c-5d005ad89d09aff3fd0f25b2f9fd0d82][^c-5d005ad89d09aff3fd0f25b2f9fd0d82]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Change of claimant's address[^c-5d005ad89d09aff3fd0f25b2f9fd0d82][^c-5d005ad89d09aff3fd0f25b2f9fd0d82]
 
 **No longer in force.**
 
@@ -70,9 +70,9 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d005ad89d09aff3fd0f25b2f9fd0d82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d005ad89d09aff3fd0f25b2f9fd0d82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE[^key-5d005ad89d09aff3fd0f25b2f9fd0d82]
+## SCHEDULE[^c-5d005ad89d09aff3fd0f25b2f9fd0d82]
 
 **No longer in force.**
 
@@ -80,8 +80,8 @@ Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d005ad89d09aff3fd0f25b2f9fd0d82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d005ad89d09aff3fd0f25b2f9fd0d82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d005ad89d09aff3fd0f25b2f9fd0d82]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2010/696) ceases to have effect (25.10.2011) by virtue of [The Jobseekerâs Allowance (Skills Training Conditionality Pilot) Regulations 2010 (S.I. 2010/696)](https://www.legislation.gov.uk/uksi/2010/696), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/696/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2010/696/regulation/1/3)
+[^c-5d005ad89d09aff3fd0f25b2f9fd0d82]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2010/696) ceases to have effect (25.10.2011) by virtue of [The Jobseekerâs Allowance (Skills Training Conditionality Pilot) Regulations 2010 (S.I. 2010/696)](https://www.legislation.gov.uk/uksi/2010/696), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/696/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2010/696/regulation/1/3)

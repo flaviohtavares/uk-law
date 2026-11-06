@@ -44,7 +44,7 @@ Coming into force
 
 1st October 2005
 
-[^key-c3f13818ccfc640367596009ef9d5456]The Secretary of State, being the Minister designated [^c12301941] for the purposes of section 2(2) of the European Communities Act 1972 [^c12301951] in relation to biocides, in exercise of the powers conferred upon him by that section hereby makes the following Regulations:
+[^c-c3f13818ccfc640367596009ef9d5456]The Secretary of State, being the Minister designated [^c12301941] for the purposes of section 2(2) of the European Communities Act 1972 [^c12301951] in relation to biocides, in exercise of the powers conferred upon him by that section hereby makes the following Regulations:
 
 ## 1. Citation, commencement and extent
 
@@ -76,7 +76,7 @@ These Regulations amend regulation 3(2) of the Biocidal Products Regulations 200
 
 ## Annotations
 
-[^key-c3f13818ccfc640367596009ef9d5456]: Textual amendment: Regulations revoked (E.W.S.) (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(c)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/c) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
+[^c-c3f13818ccfc640367596009ef9d5456]: Textual amendment: Regulations revoked (E.W.S.) (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(c)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/c) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
 
 [^c12301941]: Marginal citation: [S.I. 1999/2788](https://www.legislation.gov.uk/uksi/1999/2788).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.39.4. Application for a quarantine order[^key-57e17c302403de12e9badf5f1cb6d28b]
+## 3.39.4. Application for a quarantine order[^c-57e17c302403de12e9badf5f1cb6d28b]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57e17c302403de12e9badf5f1cb6d28b]: Textual amendment: Ch. 3 Pt. 39 inserted (1.10.2009) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Public Health etc. (Scotland) Act 2008) 2009 (S.S.I. 2009/320)](https://www.legislation.gov.uk/ssi/2009/320), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/2/2)
+[^c-57e17c302403de12e9badf5f1cb6d28b]: Textual amendment: Ch. 3 Pt. 39 inserted (1.10.2009) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Public Health etc. (Scotland) Act 2008) 2009 (S.S.I. 2009/320)](https://www.legislation.gov.uk/ssi/2009/320), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/2/2)

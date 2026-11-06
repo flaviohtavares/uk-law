@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Amendments
 
-### 1. Designation of authorities[^key-228384f8564138e19594d8da310f3c28]
+### 1. Designation of authorities[^c-228384f8564138e19594d8da310f3c28]
 
 (1) In section 5 (further power to designate Scottish public authorities) of the FOI Act, for subsection (5) there is substituted—
 
@@ -81,11 +81,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 2. Refusal notices[^key-613cbc203e549cb58e8e3589398366df]
+### 2. Refusal notices[^c-613cbc203e549cb58e8e3589398366df]
 
 In section 18 (further provision as respects responses to request) of the FOI Act, in subsection (1), after the words “sections 28 to 35,” there is inserted “ 38, ”.
 
-### 3. Accessible information[^key-82c6bb1514ca94fb3d2764bdb311a022]
+### 3. Accessible information[^c-82c6bb1514ca94fb3d2764bdb311a022]
 
 In section 25 (information otherwise accessible) of the FOI Act, for subsection (3) there is substituted—
 
@@ -98,7 +98,7 @@ In section 25 (information otherwise accessible) of the FOI Act, for subsection 
 
 .
 
-### 4. Historical periods[^key-042d447fbf7498ebd88c3b5267df8f51]
+### 4. Historical periods[^c-042d447fbf7498ebd88c3b5267df8f51]
 
 (1) In section 59 (power to vary periods mentioned in sections 57 and 58) of the FOI Act—
 
@@ -130,7 +130,7 @@ In section 25 (information otherwise accessible) of the FOI Act, for subsection 
 
 (2) In section 72 (orders and regulations) of the FOI Act, after the words “59(1)” in subsection (2)(b) there is inserted “ or (1A) ”.
 
-### 5. Time limit for proceedings[^key-5590463a2eca73ea65b97673bc7e1fb7]
+### 5. Time limit for proceedings[^c-5590463a2eca73ea65b97673bc7e1fb7]
 
 After section 65 of the FOI Act there is inserted—
 
@@ -171,12 +171,12 @@ The short title of this Act is the Freedom of Information (Amendment) (Scotland)
 
 ## Annotations
 
-[^key-228384f8564138e19594d8da310f3c28]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/2/section/1) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-228384f8564138e19594d8da310f3c28]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/2/section/1) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-613cbc203e549cb58e8e3589398366df]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/2/section/2) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-613cbc203e549cb58e8e3589398366df]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/2/section/2) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-82c6bb1514ca94fb3d2764bdb311a022]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/2/section/3) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-82c6bb1514ca94fb3d2764bdb311a022]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/2/section/3) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-042d447fbf7498ebd88c3b5267df8f51]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/2/section/4) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-042d447fbf7498ebd88c3b5267df8f51]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/2/section/4) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-5590463a2eca73ea65b97673bc7e1fb7]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/2/section/5) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/136/article/3))
+[^c-5590463a2eca73ea65b97673bc7e1fb7]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/2/section/5) in force at 31.5.2013 by [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/136/article/3))

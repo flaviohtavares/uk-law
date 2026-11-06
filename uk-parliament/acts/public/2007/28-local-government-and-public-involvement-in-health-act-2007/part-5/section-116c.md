@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116C. Sections 116 to 116B: references to functions[^key-0992d1fc0ecb35d6391d743b2945f8f2]
+## 116C. Sections 116 to 116B: references to functions[^c-0992d1fc0ecb35d6391d743b2945f8f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 275A of the National Health Service Act 2006 (references to functions of
 
 ## Annotations
 
-[^key-0992d1fc0ecb35d6391d743b2945f8f2]: Textual amendment: [S. 116C](https://www.legislation.gov.uk/ukpga/2007/28/section/116C) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/15); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0992d1fc0ecb35d6391d743b2945f8f2]: Textual amendment: [S. 116C](https://www.legislation.gov.uk/ukpga/2007/28/section/116C) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/15); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

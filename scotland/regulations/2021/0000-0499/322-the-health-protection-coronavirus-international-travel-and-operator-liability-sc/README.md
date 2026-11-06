@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (revoked)[^key-ce90f9f23a274decf0ece7bf29345c8d]
+The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (revoked)[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 20th September 2021
 
-[^key-ce90f9f23a274decf0ece7bf29345c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce90f9f23a274decf0ece7bf29345c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 1 — General[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation: general](part-1/section-2.md)
 
-### PART 1A — Eligible vaccinated arrivals[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 1A — Eligible vaccinated arrivals[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 **No longer in force.**
 
@@ -73,7 +73,7 @@ Coming into force
 - [Section 3G — Eligible vaccinated arrivals: age conditions](part-1a/section-3g.md)
 - [Section 3H — Eligible vaccinated arrivals: UK vaccine rollout overseas conditions](part-1a/section-3h.md)
 
-### PART 2 — Passenger Information[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 2 — Passenger Information[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -83,7 +83,7 @@ Coming into force
 - [Section 5 — Requirement to update passenger information](part-2/section-5.md)
 - [Section 6 — Part 2: persons not required to comply](part-2/section-6.md)
 
-### PART 3 — Testing prior to arrival in Scotland[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 3 — Testing prior to arrival in Scotland[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -94,7 +94,7 @@ Coming into force
 - [Section 9 — Qualifying test and valid notification](part-3/section-9.md)
 - [Section 10 — Part 3: persons not required to comply](part-3/section-10.md)
 
-### PART 4 — Testing following arrival in Scotland[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 4 — Testing following arrival in Scotland[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -111,7 +111,7 @@ Coming into force
 - [Section 17 — Charge for testing package](part-4/section-17.md)
 - [Section 18 — Part 4: persons not required to comply](part-4/section-18.md)
 
-### PART 5 — Managed isolation[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 5 — Managed isolation[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -125,7 +125,7 @@ Coming into force
 - [Section 24 — Appeals](part-5/section-24.md)
 - [Section 25 — Part 5: persons not required to comply](part-5/section-25.md)
 
-### PART 6 — Self-isolation[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 6 — Self-isolation[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -134,7 +134,7 @@ Coming into force
 - [Section 26 — Requirement to stay in specified premises](part-6/section-26.md)
 - [Section 27 — Part 6: persons not required to comply](part-6/section-27.md)
 
-### PART 7 — Parts 2 to 6: enforcement[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 7 — Parts 2 to 6: enforcement[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -150,7 +150,7 @@ Coming into force
 - [Section 35 — Fixed penalty notices](part-7/section-35.md)
 - [Section 36 — Fixed penalty notices: penalty amounts](part-7/section-36.md)
 
-### PART 8 — Duties on operators[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 8 — Duties on operators[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -167,7 +167,7 @@ Coming into force
 - [Section 45 — Part 8: offences and penalties](part-8/section-45.md)
 - [Section 46 — Extra-territorial jurisdiction](part-8/section-46.md)
 
-### PART 9 — Information sharing[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 9 — Information sharing[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -176,7 +176,7 @@ Coming into force
 - [Section 47 — Power to use and disclose information](part-9/section-47.md)
 - [Section 48 — Meaning of “relevant information”](part-9/section-48.md)
 
-### PART 10 — Review, expiry, revocations, transitionals and savings[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### PART 10 — Review, expiry, revocations, transitionals and savings[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -191,7 +191,7 @@ Coming into force
 
 **No longer in force.**
 
-[^key-ce90f9f23a274decf0ece7bf29345c8d]SCHEDULES
+[^c-ce90f9f23a274decf0ece7bf29345c8d]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 1A](schedule-1a.md)
@@ -210,14 +210,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-ce90f9f23a274decf0ece7bf29345c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce90f9f23a274decf0ece7bf29345c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ce90f9f23a274decf0ece7bf29345c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce90f9f23a274decf0ece7bf29345c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce90f9f23a274decf0ece7bf29345c8d]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-ce90f9f23a274decf0ece7bf29345c8d]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

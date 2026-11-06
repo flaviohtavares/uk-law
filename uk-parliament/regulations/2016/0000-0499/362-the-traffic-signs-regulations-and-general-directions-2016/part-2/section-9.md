@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. The backs of, and backing boards for, upright signs[^key-81d58a9d80e6bd05caf3b8dda04128c3]
+## 9. The backs of, and backing boards for, upright signs[^c-81d58a9d80e6bd05caf3b8dda04128c3]
 
 *Extent: E+W+S*
 
@@ -56,6 +56,6 @@ occupying an area not exceeding 30 square centimetres, may be indicated on the b
 
 ## Annotations
 
-[^key-81d58a9d80e6bd05caf3b8dda04128c3]: Commencement: [Dir. 9](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/9) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-81d58a9d80e6bd05caf3b8dda04128c3]: Commencement: [Dir. 9](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/9) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
 
 [^f00020]: Footnote: Publication date 30th April 2008, (ISBN 9780580813474): corrigenda May 2008, June 2009, October 2011 and May 2013.

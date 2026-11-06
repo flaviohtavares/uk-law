@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**188.**[^key-ec2dbab09fb66b62d9bbd05c3261f33f] The Adoption and Children Act 2002 is amended as follows.
+**188.**[^c-ec2dbab09fb66b62d9bbd05c3261f33f] The Adoption and Children Act 2002 is amended as follows.
 
 ## Annotations
 
-[^key-ec2dbab09fb66b62d9bbd05c3261f33f]: Commencement: Reg. 188 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ec2dbab09fb66b62d9bbd05c3261f33f]: Commencement: Reg. 188 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Amendment of regulation 232 (exemption for supply etc under a PGD by dental practices and clinics: England and Wales)[^M_I_db4c99ac-96a5-46a4-8fbe-20ab285185cb][^key-c9d248ed5d0c336f79151af9ca3ed3b6]
+## 190. Amendment of regulation 232 (exemption for supply etc under a PGD by dental practices and clinics: England and Wales)[^M_I_db4c99ac-96a5-46a4-8fbe-20ab285185cb][^c-c9d248ed5d0c336f79151af9ca3ed3b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ For regulation 232(8) substitute—
 
 [^M_I_db4c99ac-96a5-46a4-8fbe-20ab285185cb]: Commencement: Reg. 190 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c9d248ed5d0c336f79151af9ca3ed3b6]: Textual amendment: Reg. 190 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/144)
+[^c-c9d248ed5d0c336f79151af9ca3ed3b6]: Textual amendment: Reg. 190 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/144)

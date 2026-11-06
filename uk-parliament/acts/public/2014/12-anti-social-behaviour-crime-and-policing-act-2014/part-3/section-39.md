@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Offences[^key-492704310db8e7f27867e755ca18ba21]
+## 39. Offences[^c-492704310db8e7f27867e755ca18ba21]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-492704310db8e7f27867e755ca18ba21]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/12/section/39) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-492704310db8e7f27867e755ca18ba21]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/12/section/39) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)

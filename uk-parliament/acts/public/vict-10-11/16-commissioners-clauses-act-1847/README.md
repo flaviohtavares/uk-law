@@ -31,7 +31,7 @@ Commissioners Clauses Act 1847
 
 An Act for consolidating in One Act certain Provisions usually contained in Acts with respect to the Constitution and Regulation of Bodies of Commissioners appointed for carrying on Undertakings of a public Nature.
 
-\[23rd April 1847\][^c5650851][^c5650861][^c5650871][^c5650881][^c5650891][^c5650901][^key-46298761edb0155b1f3abf725866f6fd]
+\[23rd April 1847\][^c5650851][^c5650861][^c5650871][^c5650881][^c5650891][^c5650901][^c-46298761edb0155b1f3abf725866f6fd]
 
 ## Contents
 
@@ -262,6 +262,6 @@ And with respect to access to the special Act, be it enacted as follows:
 
 [^c5650901]: Modification: Act incorporated (E.W.) (1.12.1991) by [Land Drainage Act 1991 (c. 59, SIF 73:1)](https://www.legislation.gov.uk/ukpga/1991/59), [ss. 55(6)](https://www.legislation.gov.uk/ukpga/1991/59/section/55/6), [76(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/76/2) (with [ss. 67(3)(5)(8)](https://www.legislation.gov.uk/ukpga/1991/59/section/67/3/5/8), [72(6)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/6), [74(3)(4)](https://www.legislation.gov.uk/ukpga/1991/59/section/74/3/4))
 
-[^key-46298761edb0155b1f3abf725866f6fd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/10-11/16) incorporated in part (with modifications) (E.W.S.) (1.7.2011) by [The Saundersfoot Harbour Empowerment Order 2011 (S.I. 2011/1565)](https://www.legislation.gov.uk/wsi/2011/1565), [arts. 3](https://www.legislation.gov.uk/wsi/2011/1565/article/3), [28(4)](https://www.legislation.gov.uk/wsi/2011/1565/article/28/4)
+[^c-46298761edb0155b1f3abf725866f6fd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/10-11/16) incorporated in part (with modifications) (E.W.S.) (1.7.2011) by [The Saundersfoot Harbour Empowerment Order 2011 (S.I. 2011/1565)](https://www.legislation.gov.uk/wsi/2011/1565), [arts. 3](https://www.legislation.gov.uk/wsi/2011/1565/article/3), [28(4)](https://www.legislation.gov.uk/wsi/2011/1565/article/28/4)
 
 [^c5651571]: Modification: [Ss. 75–88](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/75) incorporated by [Land Drainage Act 1976 (c. 70)](https://www.legislation.gov.uk/ukpga/1976/70), [s. 87(5)](https://www.legislation.gov.uk/ukpga/1976/70/section/87/5)

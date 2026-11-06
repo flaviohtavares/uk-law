@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: S*
 
-(1) A[^key-b893cf8c20c91a89fc5d64c0813619e0] “**metal dealer’s licence**”, shall be required for carrying on business as a metal dealer.
+(1) A[^c-b893cf8c20c91a89fc5d64c0813619e0] “**metal dealer’s licence**”, shall be required for carrying on business as a metal dealer.
 
-(2)[^key-8b5d02e2e68bf25144fadf752df60388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8b5d02e2e68bf25144fadf752df60388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8b5d02e2e68bf25144fadf752df60388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8b5d02e2e68bf25144fadf752df60388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A metal dealer’s licence shall, in addition to specifying the activity which he engages in, specify the premises in or from which the activity is to be carried on.
 
 ## Annotations
 
-[^key-b893cf8c20c91a89fc5d64c0813619e0]: Textual amendment: Word in s. 28(1) substituted (1.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 67(2)(a)](https://www.legislation.gov.uk/asp/2015/10/section/67/2/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [5](https://www.legislation.gov.uk/ssi/2016/85/article/5))
+[^c-b893cf8c20c91a89fc5d64c0813619e0]: Textual amendment: Word in s. 28(1) substituted (1.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 67(2)(a)](https://www.legislation.gov.uk/asp/2015/10/section/67/2/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [5](https://www.legislation.gov.uk/ssi/2016/85/article/5))
 
-[^key-8b5d02e2e68bf25144fadf752df60388]: Textual amendment: S. 28(2)(3) repealed (1.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 67(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/67/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [5](https://www.legislation.gov.uk/ssi/2016/85/article/5))
+[^c-8b5d02e2e68bf25144fadf752df60388]: Textual amendment: S. 28(2)(3) repealed (1.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 67(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/67/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [5](https://www.legislation.gov.uk/ssi/2016/85/article/5))

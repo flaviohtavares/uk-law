@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Other voting offences[^key-6c6f54a2e9750ded1c0c62a1a708731b]
+## 26. Other voting offences[^c-6c6f54a2e9750ded1c0c62a1a708731b]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c6f54a2e9750ded1c0c62a1a708731b]: Commencement: Art. 26 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6c6f54a2e9750ded1c0c62a1a708731b]: Commencement: Art. 26 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00029]: Footnote: Section 173 is applied by article 82 of and Schedule 6 to this Order. Section 173 was substituted by the 2000 Political Parties Act, section 136 and was amended by [S.I. 2007/931](https://www.legislation.gov.uk/uksi/2007/931), article 2(4).

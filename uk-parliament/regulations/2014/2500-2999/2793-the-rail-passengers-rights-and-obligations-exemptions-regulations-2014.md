@@ -48,30 +48,30 @@ The Secretary of State for Transport makes these Regulations in exercise of the 
 
 The Secretary of State is a Minister designated for the purposes of that section in relation to measures relating to railways and railway transport[^f00002].
 
-## 1. Citation, commencement and expiry[^key-396b42117a40706b5ad2a4c70413983d]
+## 1. Citation, commencement and expiry[^c-396b42117a40706b5ad2a4c70413983d]
 
 (1) These Regulations may be cited as the Rail Passengers’ Rights and Obligations (Exemptions) Regulations 2014 and come into force on 4th December 2014.
 
 (2) They cease to have effect on 4th December 2019.
 
-## 2. Extent[^key-470d5ca9f6905198fdf4640738055e9b]
+## 2. Extent[^c-470d5ca9f6905198fdf4640738055e9b]
 
 These Regulations do not extend to Northern Ireland.
 
-## 3. Interpretation[^key-04f82dabeabdcc8f294287b16251d5fc]
+## 3. Interpretation[^c-04f82dabeabdcc8f294287b16251d5fc]
 
 In these Regulations –
 
-- “the European Regulation” means Regulation [(EC) No 1371/2007](https://www.legislation.gov.uk/european/regulation/2007/1371) of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations[^f00003] as amended by the Rail Passengers' Rights and Obligations (Amendment) (EU Exit) Regulations 2018[^key-b9954068a68106e8c053e8bb6f094ae5]; and
+- “the European Regulation” means Regulation [(EC) No 1371/2007](https://www.legislation.gov.uk/european/regulation/2007/1371) of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations[^f00003] as amended by the Rail Passengers' Rights and Obligations (Amendment) (EU Exit) Regulations 2018[^c-b9954068a68106e8c053e8bb6f094ae5]; and
 - “domestic rail passenger service” has the meaning given by Article 3(11) of the European Regulation.
 
-## 4. Exemption of domestic rail passenger services from the provisions of the European Regulation[^key-07fa4bc5cd92308e168a594dab8bbbd6]
+## 4. Exemption of domestic rail passenger services from the provisions of the European Regulation[^c-07fa4bc5cd92308e168a594dab8bbbd6]
 
-(1)[^key-0039b3cc324c24c513847b1295b5570e] Subject to paragraph (2), domestic rail passenger services are exempt from the provisions of the European Regulation.
+(1)[^c-0039b3cc324c24c513847b1295b5570e] Subject to paragraph (2), domestic rail passenger services are exempt from the provisions of the European Regulation.
 
 (2) The exemption in paragraph (1) does not apply in relation to the provisions specified in Article 2(3) of the European Regulation.
 
-## 5. Liability in respect of exempt services[^key-365c184499ae90f8939e2c221a2385c8]
+## 5. Liability in respect of exempt services[^c-365c184499ae90f8939e2c221a2385c8]
 
 (1) This paragraph applies when –
 
@@ -80,7 +80,7 @@ In these Regulations –
 
 (2) Where paragraph (1) applies, C shall be liable to A in respect of A’s liability to B to the same extent and under the same conditions as if the exemption in regulation 4(1) had not been granted.
 
-## 6. Revocation of the Rail Passengers’ Rights and Obligations (Exemptions) Regulations 2009[^key-5665bd1f380cab25e3410208135008d3]
+## 6. Revocation of the Rail Passengers’ Rights and Obligations (Exemptions) Regulations 2009[^c-5665bd1f380cab25e3410208135008d3]
 
 The Rail Passengers’ Rights and Obligations (Exemptions) Regulations 2009[^f00004] are revoked.
 
@@ -118,22 +118,22 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
 
-[^key-396b42117a40706b5ad2a4c70413983d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
+[^c-396b42117a40706b5ad2a4c70413983d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
 
-[^key-470d5ca9f6905198fdf4640738055e9b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2793/regulation/2) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
+[^c-470d5ca9f6905198fdf4640738055e9b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2793/regulation/2) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
 
-[^key-04f82dabeabdcc8f294287b16251d5fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2793/regulation/3) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
+[^c-04f82dabeabdcc8f294287b16251d5fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2793/regulation/3) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
 
 [^f00003]: Footnote: OJ No. L315, 3.12.2007, p.14.
 
-[^key-b9954068a68106e8c053e8bb6f094ae5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/2793/regulation/3) inserted (31.12.2020) by [The Rail Passengers' Rights and Obligations (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1165)](https://www.legislation.gov.uk/uksi/2018/1165), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9954068a68106e8c053e8bb6f094ae5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/2793/regulation/3) inserted (31.12.2020) by [The Rail Passengers' Rights and Obligations (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1165)](https://www.legislation.gov.uk/uksi/2018/1165), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07fa4bc5cd92308e168a594dab8bbbd6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2793/regulation/4) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
+[^c-07fa4bc5cd92308e168a594dab8bbbd6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2793/regulation/4) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
 
-[^key-0039b3cc324c24c513847b1295b5570e]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/4/1) substituted (31.12.2020) by [The Rail Passengers' Rights and Obligations (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1165)](https://www.legislation.gov.uk/uksi/2018/1165), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0039b3cc324c24c513847b1295b5570e]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/4/1) substituted (31.12.2020) by [The Rail Passengers' Rights and Obligations (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1165)](https://www.legislation.gov.uk/uksi/2018/1165), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1165/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-365c184499ae90f8939e2c221a2385c8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2793/regulation/5) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
+[^c-365c184499ae90f8939e2c221a2385c8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2793/regulation/5) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
 
-[^key-5665bd1f380cab25e3410208135008d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2793/regulation/6) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
+[^c-5665bd1f380cab25e3410208135008d3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2793/regulation/6) in force at 4.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2793/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2009/2970](https://www.legislation.gov.uk/uksi/2009/2970)

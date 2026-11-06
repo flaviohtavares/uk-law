@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-e4069ffbc7a8844d847e9fcf914b3c71] Part 1 of the Pensions Act 1995 (c. 26) (occupational pension schemes) is amended as follows.
+(1)[^c-e4069ffbc7a8844d847e9fcf914b3c71] Part 1 of the Pensions Act 1995 (c. 26) (occupational pension schemes) is amended as follows.
 
-(2)[^key-dc76458f4a42643962e2c7ebc3719894] In section 22 (circumstances in which provisions relating to independent trustees apply)—
+(2)[^c-dc76458f4a42643962e2c7ebc3719894] In section 22 (circumstances in which provisions relating to independent trustees apply)—
 
 - (a) in subsection (1)(b) omit “or” at the end of sub-paragraph (i) and after that sub-paragraph insert—
 
@@ -66,7 +66,7 @@ summary: ''
   >
   > (2F) A notice under subsection (2B), or regulations under subsection (2E), must be in writing and contain such information as may be prescribed.
 
-(3)[^key-dc76458f4a42643962e2c7ebc3719894] For sections 23 and 24 (appointment of independent trustees) substitute—
+(3)[^c-dc76458f4a42643962e2c7ebc3719894] For sections 23 and 24 (appointment of independent trustees) substitute—
 
 > **23. Power to appoint independent trustees**
 >
@@ -99,7 +99,7 @@ summary: ''
 >
 > (7) This section is without prejudice to the powers conferred by section 7.
 
-(4)[^key-e4069ffbc7a8844d847e9fcf914b3c71] In section 25 (appointment and powers of independent trustees: further provisions)—
+(4)[^c-e4069ffbc7a8844d847e9fcf914b3c71] In section 25 (appointment and powers of independent trustees: further provisions)—
 
 - (a) for subsection (4)(a) substitute—
 
@@ -125,6 +125,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4069ffbc7a8844d847e9fcf914b3c71]: Commencement: S. 36(1)(4) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes in so far as not already in force (6.4.2005) by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-e4069ffbc7a8844d847e9fcf914b3c71]: Commencement: S. 36(1)(4) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes in so far as not already in force (6.4.2005) by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-dc76458f4a42643962e2c7ebc3719894]: Commencement: S. 36(2)(3) in force at 10.2.2005 for specified purposes and 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-dc76458f4a42643962e2c7ebc3719894]: Commencement: S. 36(2)(3) in force at 10.2.2005 for specified purposes and 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)

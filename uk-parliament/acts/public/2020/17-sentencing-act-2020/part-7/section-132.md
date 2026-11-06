@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Enforcement of fines imposed on offenders by Crown Court[^key-92f43b80fc8d273fb676672ae7ea1128]
+## 132. Enforcement of fines imposed on offenders by Crown Court[^c-92f43b80fc8d273fb676672ae7ea1128]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ without the consent of the Crown Court.
 
 ## Annotations
 
-[^key-92f43b80fc8d273fb676672ae7ea1128]: Commencement: S. 132 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-92f43b80fc8d273fb676672ae7ea1128]: Commencement: S. 132 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

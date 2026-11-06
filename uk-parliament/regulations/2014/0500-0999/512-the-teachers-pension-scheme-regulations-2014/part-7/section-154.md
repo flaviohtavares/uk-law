@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The entitlement day for a person’s (P’s)[^key-9ecc776fac2e81b21714e06223ba8880] pension credit retirement pension is—
+(1) The entitlement day for a person’s (P’s)[^c-9ecc776fac2e81b21714e06223ba8880] pension credit retirement pension is—
 
-- (a) the day on which P[^key-8f68636ac566e0f1c1acb638beec0ba6] reaches normal pension age; or
+- (a) the day on which P[^c-8f68636ac566e0f1c1acb638beec0ba6] reaches normal pension age; or
 - (b) if P has reached normal minimum pension age but has not reached normal pension age, a day specified in P's application under regulation 162 for payment of the pension which is at least 6 weeks after the day on which the application is made.
 
 (2) The entitlement day must not be before the day on which a pension-sharing order takes effect.
 
 ## Annotations
 
-[^key-9ecc776fac2e81b21714e06223ba8880]: Textual amendment: Words in [reg. 154(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/154/1) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/13/a)
+[^c-9ecc776fac2e81b21714e06223ba8880]: Textual amendment: Words in [reg. 154(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/154/1) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/13/a)
 
-[^key-8f68636ac566e0f1c1acb638beec0ba6]: Textual amendment: Word in [reg. 154(1)(a)](https://www.legislation.gov.uk/uksi/2014/512/regulation/154/1/a) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/13/b)
+[^c-8f68636ac566e0f1c1acb638beec0ba6]: Textual amendment: Word in [reg. 154(1)(a)](https://www.legislation.gov.uk/uksi/2014/512/regulation/154/1/a) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/13/b)

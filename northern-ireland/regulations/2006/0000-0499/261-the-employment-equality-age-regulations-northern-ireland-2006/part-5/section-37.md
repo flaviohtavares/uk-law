@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. General duty of Commission[^key-a919fdedf0e62c9d98c1fcd23b15b333][^key-f58638a3451ccd5dd1fbe6b2fa06a3bb]
+## 37. General duty of Commission[^c-a919fdedf0e62c9d98c1fcd23b15b333][^c-f58638a3451ccd5dd1fbe6b2fa06a3bb]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ It shall be the duty of the Commission—
 
 ## Annotations
 
-[^key-a919fdedf0e62c9d98c1fcd23b15b333]: Commencement: Reg. 37 in operation at 14.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/2)
+[^c-a919fdedf0e62c9d98c1fcd23b15b333]: Commencement: Reg. 37 in operation at 14.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/2)
 
-[^key-f58638a3451ccd5dd1fbe6b2fa06a3bb]: Modification: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/261/regulation/37): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f58638a3451ccd5dd1fbe6b2fa06a3bb]: Modification: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/261/regulation/37): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

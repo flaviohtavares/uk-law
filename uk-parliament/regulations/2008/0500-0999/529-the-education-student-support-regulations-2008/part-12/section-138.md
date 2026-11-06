@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Interpretation of regulation 137[^key-eda1d2f921ee416652acb76706944731]
+## 138. Interpretation of regulation 137[^c-eda1d2f921ee416652acb76706944731]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eda1d2f921ee416652acb76706944731]: Commencement: Reg. 138 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-eda1d2f921ee416652acb76706944731]: Commencement: Reg. 138 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

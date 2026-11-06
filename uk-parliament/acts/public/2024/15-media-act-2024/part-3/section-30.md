@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. C4C’s duties in relation to commissioning programmes[^key-9aad875b77544030ba775d7aac19d433][^key-c316d36ab65e7deddc63220bd450014a][^key-e8ab88d5090ba3aa7469e8eff8436bc3]
+## 30. C4C’s duties in relation to commissioning programmes[^c-9aad875b77544030ba775d7aac19d433][^c-c316d36ab65e7deddc63220bd450014a][^c-e8ab88d5090ba3aa7469e8eff8436bc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,8 +83,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9aad875b77544030ba775d7aac19d433]: Commencement: S. 30 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
+[^c-9aad875b77544030ba775d7aac19d433]: Commencement: S. 30 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
 
-[^key-c316d36ab65e7deddc63220bd450014a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/15/section/30) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-c316d36ab65e7deddc63220bd450014a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/15/section/30) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-e8ab88d5090ba3aa7469e8eff8436bc3]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/15/section/30) in force at 1.10.2025 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/2/b)
+[^c-e8ab88d5090ba3aa7469e8eff8436bc3]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/15/section/30) in force at 1.10.2025 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/2/b)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Enabling Powers[^key-97a9af68615deffd3db5eb18b8fcc777]
+## SCHEDULE 1 — Enabling Powers[^c-97a9af68615deffd3db5eb18b8fcc777]
 
 *Extent: E+W+S+N.I.*
 
-[^key-97a9af68615deffd3db5eb18b8fcc777]These Regulations are made under the following powers—
+[^c-97a9af68615deffd3db5eb18b8fcc777]These Regulations are made under the following powers—
 
 - (a) the following provisions of the Representation of the People Act 1983—
   - (i) sections 9B(1A), 13BD(3), (4), (8), (9), (10) and (11), 13BE(3), (4), (8), (9), (10), (11) and (12), 53(1)(ba) and (4), 56(1) and (5) (including that section as applied in relation to Scotland by section 57(1)) and 201(3)[^f00070];
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-97a9af68615deffd3db5eb18b8fcc777]: Commencement: Sch. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-97a9af68615deffd3db5eb18b8fcc777]: Commencement: Sch. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00070]: Footnote: Section 53(1)(ba) was inserted by paragraph 1 of Schedule 2 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37). Section 53(4) was inserted by paragraph 109 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22). See section 202(1) for the meaning of “prescribed” in section 56(1) and (5). Section 201(3) was inserted by paragraph 21 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by paragraph 6 of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).
 

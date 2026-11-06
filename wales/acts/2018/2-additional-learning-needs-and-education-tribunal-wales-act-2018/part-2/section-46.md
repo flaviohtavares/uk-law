@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Regulations about deciding whether an individual development plan is necessary[^key-17ccf6d133ff170741959a74e68a2045]
+## 46. Regulations about deciding whether an individual development plan is necessary[^c-17ccf6d133ff170741959a74e68a2045]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17ccf6d133ff170741959a74e68a2045]: Commencement: S. 46 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(e)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/e)
+[^c-17ccf6d133ff170741959a74e68a2045]: Commencement: S. 46 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(e)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/e)

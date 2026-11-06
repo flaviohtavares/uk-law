@@ -24,16 +24,16 @@ Article 21
 
 ### Compensation enactments
 
-**1.**[^key-f7521d9d2b14863ea3e670460ba53b02] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-f7521d9d2b14863ea3e670460ba53b02] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-82bab60b82bde9565e670cee840cd418] (1) Without limitation to the scope of paragraph 1, the Land Compensation Act 1973 [^c23642991] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-82bab60b82bde9565e670cee840cd418] (1) Without limitation to the scope of paragraph 1, the Land Compensation Act 1973 [^c23642991] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for the words “land is acquired or taken” there are substituted the words “ a right or restrictive covenant over land is purchased from or imposed on ”; and
 - (b) for the words “acquired or taken from him” there are substituted the words “ over which the right is exercisable or the restrictive covenant enforceable ”.
 
-**3.**[^key-4153711fa632181d16ff6f8a4c6ac3bc] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1961 has effect subject to the modification set out in sub-paragraph (2) .
+**3.**[^c-4153711fa632181d16ff6f8a4c6ac3bc] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1961 has effect subject to the modification set out in sub-paragraph (2) .
 
 (2) For section 5A (5A) (relevant valuation date) of the 1961 Act, for (a) and (b) substitute—
 
@@ -45,12 +45,12 @@ Article 21
 
 ### Application of Part 1 of the 1965 Act
 
-**4.**[^key-9ae62f9a836a87e42ca407a92c373e44] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 25 (modification of Part 1 of the Compulsory Purchase Act 1965)) to the acquisition of land under article 18 (compulsory acquisition of land etc.), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 21 (compulsory acquisition of rights)—
+**4.**[^c-9ae62f9a836a87e42ca407a92c373e44] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 25 (modification of Part 1 of the Compulsory Purchase Act 1965)) to the acquisition of land under article 18 (compulsory acquisition of land etc.), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 21 (compulsory acquisition of rights)—
 
 - (a) with the modification specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-68d8833cff6cd7c70634d420d2db111d] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-68d8833cff6cd7c70634d420d2db111d] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -139,17 +139,17 @@ are so modified as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-f7521d9d2b14863ea3e670460ba53b02]: Commencement: Sch. 8 para. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-f7521d9d2b14863ea3e670460ba53b02]: Commencement: Sch. 8 para. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-82bab60b82bde9565e670cee840cd418]: Commencement: Sch. 8 para. 2 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-82bab60b82bde9565e670cee840cd418]: Commencement: Sch. 8 para. 2 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
 [^c23642991]: Marginal citation: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-4153711fa632181d16ff6f8a4c6ac3bc]: Commencement: Sch. 8 para. 3 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-4153711fa632181d16ff6f8a4c6ac3bc]: Commencement: Sch. 8 para. 3 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-9ae62f9a836a87e42ca407a92c373e44]: Commencement: Sch. 8 para. 4 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-9ae62f9a836a87e42ca407a92c373e44]: Commencement: Sch. 8 para. 4 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-68d8833cff6cd7c70634d420d2db111d]: Commencement: Sch. 8 para. 5 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-68d8833cff6cd7c70634d420d2db111d]: Commencement: Sch. 8 para. 5 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
 [^c23643001]: Marginal citation: [Section 11A](https://www.legislation.gov.uk/uksi/2019/578/section/11A) was inserted by section 186(3) of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Application and modification of legislative provisions[^key-ffec52cf6ad00262e98f782d42ad17f3]
+## 8. Application and modification of legislative provisions[^c-ffec52cf6ad00262e98f782d42ad17f3]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Regulation 6 of the Hedgerows Regulations 1997[^f00014] is to be modified so as 
 
 ## Annotations
 
-[^key-ffec52cf6ad00262e98f782d42ad17f3]: Commencement: Art. 8 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-ffec52cf6ad00262e98f782d42ad17f3]: Commencement: Art. 8 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
 [^f00014]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160). There are amendments to the Regulations which are not relevant to this Order.

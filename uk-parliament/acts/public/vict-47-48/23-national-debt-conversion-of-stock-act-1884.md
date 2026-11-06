@@ -37,9 +37,9 @@ An Act for giving Facilities for the Conversion of Three per Cent. Stock into St
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c572924]
 
-(2)[^key-3d0b68b13dbed3a9e83a5b1d5e5d5fb8] The two and three-quarters per cent. stock, and two and a half per cent. stock, . . . [^c572925] shall be redeemable by Parliament after not less than one month’s notice at the rate of one hundred pounds sterling for every hundred pounds of the capital sums in respect of which the annuities are payable, together with the payment of all arrears of such annuities, including a proportionate part accrued since the last date for the payment of dividends.
+(2)[^c-3d0b68b13dbed3a9e83a5b1d5e5d5fb8] The two and three-quarters per cent. stock, and two and a half per cent. stock, . . . [^c572925] shall be redeemable by Parliament after not less than one month’s notice at the rate of one hundred pounds sterling for every hundred pounds of the capital sums in respect of which the annuities are payable, together with the payment of all arrears of such annuities, including a proportionate part accrued since the last date for the payment of dividends.
 
-(3)[^key-3d0b68b13dbed3a9e83a5b1d5e5d5fb8] Such notice shall be a resolution of the House of Commons signified by the Speaker in writing and printed in the London Gazette; and the portion of stock redeemed at one time shall not be less, in the case of two and three-quarters per cent. stock, than five million pounds capital stock, and in the case of two and a half per cent. stock, than fourteen million pounds capital stock; but subject as aforesaid, the mode of redemption shall be determined by an Act to be hereafter passed.
+(3)[^c-3d0b68b13dbed3a9e83a5b1d5e5d5fb8] Such notice shall be a resolution of the House of Commons signified by the Speaker in writing and printed in the London Gazette; and the portion of stock redeemed at one time shall not be less, in the case of two and three-quarters per cent. stock, than five million pounds capital stock, and in the case of two and a half per cent. stock, than fourteen million pounds capital stock; but subject as aforesaid, the mode of redemption shall be determined by an Act to be hereafter passed.
 
 (4) The two and three-quarters per cent. stock of annuities shall form part of the National Debt, and shall be payable by equal quarterly dividends on the fifth day of January, the fifth day of April, the fifth day of July, and the fifth day of October in every year.
 
@@ -74,7 +74,7 @@ This Act may be cited for all purposes as the National Debt (Conversion of Stock
 
 [^c572924]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/Vict/47-48/23/section/1/1), [2](https://www.legislation.gov.uk/ukpga/Vict/47-48/23/section/2) repealed by [National Debt and Local Loans Act 1887 (c. 16)](https://www.legislation.gov.uk/ukpga/1887/16), [Sch. 3](https://www.legislation.gov.uk/ukpga/1887/16/schedule/3)
 
-[^key-3d0b68b13dbed3a9e83a5b1d5e5d5fb8]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/Vict/47-48/23/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/Vict/47-48/23/section/1/3) excluded (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/4/b)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
+[^c-3d0b68b13dbed3a9e83a5b1d5e5d5fb8]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/Vict/47-48/23/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/Vict/47-48/23/section/1/3) excluded (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(4)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/4/b)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
 
 [^c572925]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/III)
 

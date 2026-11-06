@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations (Northern Ireland) 1998 (revoked)[^key-bd6c9a3c412887066ff577b3352f31ca]
+Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations (Northern Ireland) 1998 (revoked)[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 Made
 
@@ -40,11 +40,11 @@ Coming into operation
 
 27th July 1998
 
-[^key-bd6c9a3c412887066ff577b3352f31ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd6c9a3c412887066ff577b3352f31ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — General[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part I — General[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ Coming into operation
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### Part II — Production and Placing on the Market of Live Shellfish[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part II — Production and Placing on the Market of Live Shellfish[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -78,7 +78,7 @@ Coming into operation
 - [Section 19 — Placing live shellfish on the market](part-ii/section-19.md)
 - [Section 20 — Direct transfers of live shellfish on local markets](part-ii/section-20.md)
 
-### Part III — Production and Placing on the Market of Fishery Products[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part III — Production and Placing on the Market of Fishery Products[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -106,7 +106,7 @@ Coming into operation
 - [Section 40 — Prohibition on placing certain fishery products on the market](part-iii/section-40.md)
 - [Section 41 — Direct transfers of fishery products on local markets](part-iii/section-41.md)
 
-### Part IV — Import Conditions for Fishery Products and Live Shellfish[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part IV — Import Conditions for Fishery Products and Live Shellfish[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -118,7 +118,7 @@ Coming into operation
 - [Section 45 — Additional conditions relating to certain third country imports of live shellfish](part-iv/section-45.md)
 - [Section 46 — Exemption for private consignments](part-iv/section-46.md)
 
-### Part V — Inspection Charges for Direct Landings from Third Country Vessels[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part V — Inspection Charges for Direct Landings from Third Country Vessels[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -130,7 +130,7 @@ Coming into operation
 - [Section 50 — The reducible element of the charge](part-v/section-50.md)
 - [Section 51 — Collection and remittance arrangements](part-v/section-51.md)
 
-### Part VI — Enforcement, Penalties and Revocations[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part VI — Enforcement, Penalties and Revocations[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -155,16 +155,16 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-bd6c9a3c412887066ff577b3352f31ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd6c9a3c412887066ff577b3352f31ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-bd6c9a3c412887066ff577b3352f31ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd6c9a3c412887066ff577b3352f31ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd6c9a3c412887066ff577b3352f31ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/207) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7);
+[^c-bd6c9a3c412887066ff577b3352f31ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/207) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7);
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

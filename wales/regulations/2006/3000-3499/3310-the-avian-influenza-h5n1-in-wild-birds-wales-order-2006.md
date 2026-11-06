@@ -59,7 +59,7 @@ In this Order—
 
 - “**avian influenza**” means an infection of birds caused by an influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old birds greater than 1.2;
 - “**the Avian Influenza Order**” means the Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (No.2) Order 2006 [^c17640781];
-- “[^key-9279f9f898fecf077a7ebd913c8fe78a]**bird by-product**” means entire bodies or parts of birds or products of avian origin, not intended for human consumption, included in Articles 8, 9 or 10 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069);
+- “[^c-9279f9f898fecf077a7ebd913c8fe78a]**bird by-product**” means entire bodies or parts of birds or products of avian origin, not intended for human consumption, included in Articles 8, 9 or 10 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069);
 - “**the Chief Veterinary Officer**” means the Chief Veterinary Officer appointed by the National Assembly;
 - “**controlled meat**” means any fresh meat, minced meat, meat preparation, mechanically separated meat or meat product which has not undergone a heat treatment at a minimum temperature of 70°C (which must be reached throughout the meat) derived from poultry or wild game birds originating from within a wild bird control area;
 - “**day-old chicks**” means poultry less than 72 hours old which have not yet fed and muscovy ducks (Cairina moschata) and their crosses less than 72 hours old, whether or not fed;
@@ -85,16 +85,16 @@ In this Order—
 - “**premises**” includes any land, building or other place;
 - “**processed fresh meat**” means any minced meat, meat preparation or mechanically separated meat;
 - “**Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853)**” means Regulation (EC) No. 853 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin, as amended at the date this Order is made [^c17640801]
-- “Regulation[^key-9918ebd69b5b4f292491f6700b887d41] [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069)” means Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No. 1774/2002](https://www.legislation.gov.uk/eur/2002/1774) (Animal by-products Regulation);
-- “Regulation ([^key-97a805ffe57b50fcea51c8dc5e679dad]EU) No. 142/2011” means Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) as regards certain samples and items exempt from veterinary checks at the border under that Directive;
+- “Regulation[^c-9918ebd69b5b4f292491f6700b887d41] [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069)” means Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No. 1774/2002](https://www.legislation.gov.uk/eur/2002/1774) (Animal by-products Regulation);
+- “Regulation ([^c-97a805ffe57b50fcea51c8dc5e679dad]EU) No. 142/2011” means Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) as regards certain samples and items exempt from veterinary checks at the border under that Directive;
 - “**slaughterhouse**” means premises used for slaughtering poultry, the meat of which is intended for human consumption;
 - “**vehicle**” means any vehicle and includes—
   - (a) a trailer, semi-trailer or other thing which is designed or adapted to be towed by another vehicle,
   - (b) a detachable part of a vehicle,
   - (c) a container or other structure designed or adapted to be carried by or on a vehicle;
 - “**wild bird**” means a bird that is not poultry or any other captive bird;
-- “**wild bird control area**” means a wild bird control area declared under article 5(2) [^key-a68aad45673d922c9d32c1646194d4ac]...;
-- “**wild bird monitoring area**” means a wild bird monitoring area declared under article 5(2) [^key-387945f3fe090171ca9625057e3383c4]...;
+- “**wild bird control area**” means a wild bird control area declared under article 5(2) [^c-a68aad45673d922c9d32c1646194d4ac]...;
+- “**wild bird monitoring area**” means a wild bird monitoring area declared under article 5(2) [^c-387945f3fe090171ca9625057e3383c4]...;
 - “**wild game bird**” means a bird which lives freely in the wild and is hunted for human consumption.
 
 ### 3. Declarations and notices
@@ -159,23 +159,23 @@ In this Order—
   - (i) he or she suspects that the neuraminidase may be N1; or
   - (ii) the neuraminidase has been confirmed as N1.
 
-(2) The[^key-85bad29c3968591881cf234e99a9e7cb] National Assembly , after considering a risk assessment, may declare[^key-ff0de3c1260d2e3e944c7de7af143f5f]—
+(2) The[^c-85bad29c3968591881cf234e99a9e7cb] National Assembly , after considering a risk assessment, may declare[^c-ff0de3c1260d2e3e944c7de7af143f5f]—
 
 - (a) an area to be a wild bird control area; and
 - (b) an area to be a wild bird monitoring area.
 
-(3)[^key-b118f4503b15ef231e177d801184e734] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b118f4503b15ef231e177d801184e734] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-30dd5e46c60b3ae48391ff203f1b10dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-30dd5e46c60b3ae48391ff203f1b10dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a3a38717eac2c990cc42a6458407a38c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a3a38717eac2c990cc42a6458407a38c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An area remains a wild bird control area until—
 
-- (a) the National Assembly amends the declaration made under paragraph (2)(a) [^key-397cd957f33bce18305bb5d0b195a456]... so that the area within its boundaries becomes part of the wild bird monitoring area; or
+- (a) the National Assembly amends the declaration made under paragraph (2)(a) [^c-397cd957f33bce18305bb5d0b195a456]... so that the area within its boundaries becomes part of the wild bird monitoring area; or
 - (b) the National Assembly revokes the declaration.
 
-(7) An area remains a wild bird monitoring area until the National Assembly revokes the declaration made under paragraph (2)(b) [^key-c9c9102b01676f36ecfcee25d82505e6]....
+(7) An area remains a wild bird monitoring area until the National Assembly revokes the declaration made under paragraph (2)(b) [^c-c9c9102b01676f36ecfcee25d82505e6]....
 
 (8) Subject to paragraph (9), premises which are only partly in a wild bird control area or a wild bird monitoring area are deemed to be wholly within that area.
 
@@ -216,7 +216,7 @@ In this Order—
 
 (8) If the National Assembly declares a wild bird control area of the dimensions provided for under paragraph (5) or (6), the wild bird monitoring area must be of such size and shape as the National Assembly considers necessary to prevent the spread of avian influenza.
 
-(9) A wild bird control area or a wild bird monitoring area declared under article 5(2)[^key-ccd325f94096895d275d1a11379096bf] must be of such size and shape as the National Assembly considers necessary to prevent the spread of avian influenza.
+(9) A wild bird control area or a wild bird monitoring area declared under article 5(2)[^c-ccd325f94096895d275d1a11379096bf] must be of such size and shape as the National Assembly considers necessary to prevent the spread of avian influenza.
 
 (10) If an area declared in accordance with this article would otherwise include land in England, the National Assembly must declare an area of such part of that land as is in Wales.
 
@@ -289,7 +289,7 @@ do not apply in respect of that wild bird control area.
 (1) Subject to article 8(9), the National Assembly must ensure that—
 
 - (a) premises where poultry are kept within the wild bird control area and the wild bird monitoring area are identified as soon as is reasonably practicable; and
-- (b) a veterinary inspector visits such premises within the wild bird control area at such frequency[^key-4424c7386822938459fb3068d420572f] as the National Assembly considers necessary to monitor the possible spread of avian influenza.
+- (b) a veterinary inspector visits such premises within the wild bird control area at such frequency[^c-4424c7386822938459fb3068d420572f] as the National Assembly considers necessary to monitor the possible spread of avian influenza.
 
 (2) Every veterinary inspector making such a visit must—
 
@@ -307,7 +307,7 @@ do not apply in respect of that wild bird control area.
 
 - (a) the National Assembly has carried out an assessment of the risk of the possible spread of avian influenza, taking into account the factors listed in article 6(3), which indicates that the amendment of the declaration would not endanger disease control;
 - (b) the National Assembly has identified premises where poultry are kept within the wild bird control area in accordance with article 11(1)(a);
-- (c) a veterinary inspector has carried out such visits as considered necessary[^key-091e32c899f38c306efbf30c031985e1] in accordance with article 11(1)(b) and the results of any laboratory tests carried out on samples taken from poultry or other captive birds on those premises in accordance with article 11(2)(a) have not given rise to the service of a notice under article 10(1) of the Avian Influenza Order.
+- (c) a veterinary inspector has carried out such visits as considered necessary[^c-091e32c899f38c306efbf30c031985e1] in accordance with article 11(1)(b) and the results of any laboratory tests carried out on samples taken from poultry or other captive birds on those premises in accordance with article 11(2)(a) have not given rise to the service of a notice under article 10(1) of the Avian Influenza Order.
 
 (3) Where the National Assembly amends a declaration so that a wild bird control area becomes part of the wild bird monitoring area before 21 days have elapsed from the date referred to in paragraph (1)(a), the declaration of the wild bird monitoring area may also be amended so that the size and shape of that area is varied, provided that the area remains of a size required under article 6(5) or 6(6).
 
@@ -321,7 +321,7 @@ do not apply in respect of that wild bird control area.
 
 - (a) premises that are designated under article 71 of the Avian Influenza Order;
 - (b) premises that are deemed to be designated under article 4(7) of that Order; and
-- (c)[^key-a7d00f066d56b437b95f30e45c31bfa4] the following plants if approved under Article 24 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
+- (c)[^c-a7d00f066d56b437b95f30e45c31bfa4] the following plants if approved under Article 24 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
   - (i) incineration plants;
   - (ii) co-incineration plants;
   - (iii) processing plants;
@@ -391,7 +391,7 @@ do not apply in respect of that wild bird control area.
 
 (1) Any person who is required under this Order to carry out disinfection at any premises or of any thing must—
 
-- (a) use disinfectants approved by the National Assembly under the Diseases of[^key-d32f9f3d127fbb8d6890aa2fa5343656] Animals (Approved Disinfectants) (Wales) Order 2007 (“**the Disinfectants Order**”) for use under the Avian Influenza Order;
+- (a) use disinfectants approved by the National Assembly under the Diseases of[^c-d32f9f3d127fbb8d6890aa2fa5343656] Animals (Approved Disinfectants) (Wales) Order 2007 (“**the Disinfectants Order**”) for use under the Avian Influenza Order;
 - (b) use them at the concentrations approved under the Disinfectants Order; and
 - (c) use them—
   - (i) in accordance with the manufacturer's instructions (if any); or
@@ -571,7 +571,7 @@ The occupier of an undesignated hatchery to which hatching eggs are moved in acc
 
 (2) A veterinary inspector may not grant or direct the grant of a licence under sub-paragraph (1) unless it is for the movement of—
 
-- (a) fresh meat from poultry that was produced in accordance with Annex II and Article 18 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-c38e3e18bfe5636fb302a85033a55068];
+- (a) fresh meat from poultry that was produced in accordance with Annex II and Article 18 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-c38e3e18bfe5636fb302a85033a55068];
 - (b) processed fresh meat or meat products that were produced from the fresh meat referred to in sub-paragraph (a) in accordance with Sections V and VI of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853);
 - (c) fresh meat from poultry, processed fresh meat from poultry or meat products from such fresh meat or processed fresh meat, other than the fresh meat, processed fresh meat and meat products referred to in sub-paragraphs (2)(a) and (2)(b), to other parts of the United Kingdom, provided—
   - (i) the meat or product is identified with the national mark described in paragraph 10 or with the mark described in paragraph 10(2); and
@@ -621,7 +621,7 @@ The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the me
 
 (1) Subject to sub-paragraph (4), no person may move from a wild bird control area, a bird by-product derived from poultry, other captive birds or wild game birds originating from within that control area, or a product deriving from such by-products, except under the authority of a licence granted by a veterinary inspector or an inspector acting under his or her direction
 
-(2)[^key-9be3859a0c4e73cda8fafdf55e289f52] A veterinary inspector may not grant or direct the grant of a licence under sub-paragraph (1) unless it is for a movement of—
+(2)[^c-9be3859a0c4e73cda8fafdf55e289f52] A veterinary inspector may not grant or direct the grant of a licence under sub-paragraph (1) unless it is for a movement of—
 
 - (a) processed animal protein within the meaning of paragraph 5 of Annex 1 to Regulation (EU) No. 142/2011 which complies with the requirements of paragraph B of Section 1 of Chapter II of Annex X to that Regulation;
 - (b) blood products within the meaning of paragraph 4 of Annex I to Regulation (EU) No. 142/2011 which comply with the requirements of paragraph B of Section 2 of Chapter II of Annex X to that Regulation;
@@ -642,11 +642,11 @@ The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the me
 - (q) untreated feathers or parts of untreated feathers produced from poultry within the meaning of paragraph 30 of Annex 1 to Regulation (EU) No. 142/2011 which comply with the requirements of paragraph A of Chapter VII of Annex XIII to that Regulation;
 - (r) poultry feathers, feathers from wild game birds or parts of such feathers which have been treated with a steam current or by another method which ensures inactivation of the avian influenza virus.
 
-(3)[^key-db8726247e28b5af65c624fb062960c8] A veterinary inspector may not grant or direct the grant of a licence under sub-paragraph (1) for the movement of the by-products listed in sub-paragraph (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Annex IV to Regulation (EU) No. 142/2011
+(3)[^c-db8726247e28b5af65c624fb062960c8] A veterinary inspector may not grant or direct the grant of a licence under sub-paragraph (1) for the movement of the by-products listed in sub-paragraph (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Annex IV to Regulation (EU) No. 142/2011
 
 (4) The prohibition in sub-paragraph (13) does not apply to a movement permitted under paragraph 14 or 15.
 
-(5)[^key-36a8d6fc35049cbfb186ccace30b27ee] The bird by-products referred to in sub-paragraph (2)(p) and (q) must be accompanied by the commercial document in accordance with Chapter III of Annex VIII to Regulation (EU) No. 142/2011.
+(5)[^c-36a8d6fc35049cbfb186ccace30b27ee] The bird by-products referred to in sub-paragraph (2)(p) and (q) must be accompanied by the commercial document in accordance with Chapter III of Annex VIII to Regulation (EU) No. 142/2011.
 
 (6) The commercial document accompanying the bird by-products referred to in sub-paragraph (2)(q) must state at point 6.1 that they have been treated with a steam current or with another method to ensure no virus causing avian influenza remains.
 
@@ -658,7 +658,7 @@ The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the me
 
 No person may move any manure from poultry or other captive birds from premises in a wild bird control area unless—
 
-- (a)[^key-9938111acc696ffe6d57eb61abea124a] the movement is to an establishment for treatment in accordance with Regulation and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011;
+- (a)[^c-9938111acc696ffe6d57eb61abea124a] the movement is to an establishment for treatment in accordance with Regulation and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011;
 - (b) the poultry manure has already been so treated; or
 - (c) it originates from premises from which poultry have been moved under the authority of a licence granted in accordance with paragraph 1(2)(a), (b) or (c).
 
@@ -666,7 +666,7 @@ No person may move any manure from poultry or other captive birds from premises 
 
 No person may spread any manure from poultry or other captive birds from premises in a wild bird control area unless—
 
-- (a)[^key-2b9c0e730be0330138e3ba5e1e8860ca] it has been treated in accordance with Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011; or
+- (a)[^c-2b9c0e730be0330138e3ba5e1e8860ca] it has been treated in accordance with Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011; or
 - (b) it originates from premises from which poultry have been moved under the authority of a licence granted in accordance with paragraph 1(2)(a), (b) or (c).
 
 #### 16. Prohibition on gatherings of poultry and other captive birds in a wild bird control area
@@ -738,7 +738,7 @@ This Schedule applies in respect of premises in a wild bird control area or a wi
 **4.** A person in charge of any vehicle entering or leaving premises must ensure that—
 
 - (a) its wheels, wheel arches and mudflaps are cleansed and disinfected; and
-- (b) its outside is not visibly soiled with mud, animal or bird faeces or any similar matter [^key-719e1e023174e58d6dda581985c2c3b8]....
+- (b) its outside is not visibly soiled with mud, animal or bird faeces or any similar matter [^c-719e1e023174e58d6dda581985c2c3b8]....
 
 *(This note is not part of the Order)*
 
@@ -770,43 +770,43 @@ A regulatory appraisal of the effect that this Order will have on the costs of b
 
 [^c17640781]: Marginal citation: [S.I. 2006/2927](https://www.legislation.gov.uk/uksi/2006/2927) (W.267).
 
-[^key-9279f9f898fecf077a7ebd913c8fe78a]: Textual amendment: Words in art. 2 substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/2/a)
+[^c-9279f9f898fecf077a7ebd913c8fe78a]: Textual amendment: Words in art. 2 substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/2/a)
 
 [^c17640791]: Marginal citation: S.I 2006/2803 (W.242).
 
 [^c17640801]: Marginal citation: OJ No L 139, 30.4.04, p55. The revised text of the Regulation is contained in a corrigendum (OJ No L 226, 25.6.04, p22).
 
-[^key-9918ebd69b5b4f292491f6700b887d41]: Textual amendment: Words in art. 2 substituted (28.3.2014) by virtue of [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/2/b)
+[^c-9918ebd69b5b4f292491f6700b887d41]: Textual amendment: Words in art. 2 substituted (28.3.2014) by virtue of [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/2/b)
 
-[^key-97a805ffe57b50fcea51c8dc5e679dad]: Textual amendment: Words in art. 2 substituted (28.3.2014) by virtue of [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(2)(c)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/2/c)
+[^c-97a805ffe57b50fcea51c8dc5e679dad]: Textual amendment: Words in art. 2 substituted (28.3.2014) by virtue of [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(2)(c)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/2/c)
 
-[^key-a68aad45673d922c9d32c1646194d4ac]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2006/3310/article/2) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2021/1292/article/3/a)
+[^c-a68aad45673d922c9d32c1646194d4ac]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2006/3310/article/2) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2021/1292/article/3/a)
 
-[^key-387945f3fe090171ca9625057e3383c4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2006/3310/article/2) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/3/b)
+[^c-387945f3fe090171ca9625057e3383c4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2006/3310/article/2) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/3/b)
 
-[^key-85bad29c3968591881cf234e99a9e7cb]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/2) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(a)(i)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/a/i)
+[^c-85bad29c3968591881cf234e99a9e7cb]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/2) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(a)(i)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/a/i)
 
-[^key-ff0de3c1260d2e3e944c7de7af143f5f]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/2) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/a/ii)
+[^c-ff0de3c1260d2e3e944c7de7af143f5f]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/2) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/a/ii)
 
-[^key-b118f4503b15ef231e177d801184e734]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/3) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/b)
+[^c-b118f4503b15ef231e177d801184e734]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/3) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/b)
 
-[^key-30dd5e46c60b3ae48391ff203f1b10dd]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/4) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/b)
+[^c-30dd5e46c60b3ae48391ff203f1b10dd]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/4) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/b)
 
-[^key-a3a38717eac2c990cc42a6458407a38c]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/5) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/b)
+[^c-a3a38717eac2c990cc42a6458407a38c]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/5) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/b)
 
-[^key-397cd957f33bce18305bb5d0b195a456]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/6) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/c)
+[^c-397cd957f33bce18305bb5d0b195a456]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/6) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/c)
 
-[^key-c9c9102b01676f36ecfcee25d82505e6]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/7) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(d)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/d)
+[^c-c9c9102b01676f36ecfcee25d82505e6]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/wsi/2006/3310/article/5/7) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [4(d)](https://www.legislation.gov.uk/wsi/2021/1292/article/4/d)
 
-[^key-ccd325f94096895d275d1a11379096bf]: Textual amendment: Word in [art. 6(9)](https://www.legislation.gov.uk/wsi/2006/3310/article/6/9) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [5](https://www.legislation.gov.uk/wsi/2021/1292/article/5)
+[^c-ccd325f94096895d275d1a11379096bf]: Textual amendment: Word in [art. 6(9)](https://www.legislation.gov.uk/wsi/2006/3310/article/6/9) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [5](https://www.legislation.gov.uk/wsi/2021/1292/article/5)
 
-[^key-4424c7386822938459fb3068d420572f]: Textual amendment: Words in [art. 11(1)(b)](https://www.legislation.gov.uk/wsi/2006/3310/article/11/1/b) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [6](https://www.legislation.gov.uk/wsi/2021/1292/article/6)
+[^c-4424c7386822938459fb3068d420572f]: Textual amendment: Words in [art. 11(1)(b)](https://www.legislation.gov.uk/wsi/2006/3310/article/11/1/b) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [6](https://www.legislation.gov.uk/wsi/2021/1292/article/6)
 
-[^key-091e32c899f38c306efbf30c031985e1]: Textual amendment: Words in [art. 12(2)(c)](https://www.legislation.gov.uk/wsi/2006/3310/article/12/2/c) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [7](https://www.legislation.gov.uk/wsi/2021/1292/article/7)
+[^c-091e32c899f38c306efbf30c031985e1]: Textual amendment: Words in [art. 12(2)(c)](https://www.legislation.gov.uk/wsi/2006/3310/article/12/2/c) substituted (19.11.2021 at 5.55 p.m.) by [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [7](https://www.legislation.gov.uk/wsi/2021/1292/article/7)
 
-[^key-a7d00f066d56b437b95f30e45c31bfa4]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/wsi/2006/3310/article/13/1/c) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/3)
+[^c-a7d00f066d56b437b95f30e45c31bfa4]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/wsi/2006/3310/article/13/1/c) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/3)
 
-[^key-d32f9f3d127fbb8d6890aa2fa5343656]: Textual amendment: Words in art. 18(1)(a) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [32](https://www.legislation.gov.uk/wsi/2018/1216/regulation/32)
+[^c-d32f9f3d127fbb8d6890aa2fa5343656]: Textual amendment: Words in art. 18(1)(a) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [32](https://www.legislation.gov.uk/wsi/2018/1216/regulation/32)
 
 [^c17640841]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22), as amended by the Animal Health Act [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [S.I](https://www.legislation.gov.uk/ukpga/2002/42/section/I). 1992/3293 and [S.I. 2003/1734](https://www.legislation.gov.uk/uksi/2003/1734).
 
@@ -814,16 +814,16 @@ A regulatory appraisal of the effect that this Order will have on the costs of b
 
 [^c17640861]: Marginal citation: OJ No L 139, 30.4.04, p55. The revised text of the Regulation is contained in a corrigendum (OJ No L 226, 25.6.04, p22).
 
-[^key-c38e3e18bfe5636fb302a85033a55068]: Textual amendment: Words in [Sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/wsi/2006/3310/schedule/1/paragraph/9/2/a) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [20](https://www.legislation.gov.uk/wsi/2020/44/regulation/20)
+[^c-c38e3e18bfe5636fb302a85033a55068]: Textual amendment: Words in [Sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/wsi/2006/3310/schedule/1/paragraph/9/2/a) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [20](https://www.legislation.gov.uk/wsi/2020/44/regulation/20)
 
-[^key-9be3859a0c4e73cda8fafdf55e289f52]: Textual amendment: Sch. 1 para. 13(2) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/a)
+[^c-9be3859a0c4e73cda8fafdf55e289f52]: Textual amendment: Sch. 1 para. 13(2) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/a)
 
-[^key-db8726247e28b5af65c624fb062960c8]: Textual amendment: Sch. 1 para. 13(3) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/b)
+[^c-db8726247e28b5af65c624fb062960c8]: Textual amendment: Sch. 1 para. 13(3) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/b)
 
-[^key-36a8d6fc35049cbfb186ccace30b27ee]: Textual amendment: Sch. 1 para. 13(5) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(c)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/c)
+[^c-36a8d6fc35049cbfb186ccace30b27ee]: Textual amendment: Sch. 1 para. 13(5) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(c)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/c)
 
-[^key-9938111acc696ffe6d57eb61abea124a]: Textual amendment: Sch. 1 para. 14(a) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(d)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/d)
+[^c-9938111acc696ffe6d57eb61abea124a]: Textual amendment: Sch. 1 para. 14(a) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(d)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/d)
 
-[^key-2b9c0e730be0330138e3ba5e1e8860ca]: Textual amendment: Sch. 1 para. 15(a) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(e)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/e)
+[^c-2b9c0e730be0330138e3ba5e1e8860ca]: Textual amendment: Sch. 1 para. 15(a) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 4(4)(e)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/4/4/e)
 
-[^key-719e1e023174e58d6dda581985c2c3b8]: Textual amendment: Words in [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/wsi/2006/3310/schedule/3/paragraph/4/b) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [8](https://www.legislation.gov.uk/wsi/2021/1292/article/8)
+[^c-719e1e023174e58d6dda581985c2c3b8]: Textual amendment: Words in [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/wsi/2006/3310/schedule/3/paragraph/4/b) omitted (19.11.2021 at 5.55 p.m.) by virtue of [The Avian Influenza (H5N1 in Wild Birds) (Wales) (Amendment) Order 2021 (S.I. 2021/1292)](https://www.legislation.gov.uk/wsi/2021/1292), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1292/article/1/2), [8](https://www.legislation.gov.uk/wsi/2021/1292/article/8)

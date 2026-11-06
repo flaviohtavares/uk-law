@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Transfer of status[^key-c55fa6203a181aba461497d0fa66b2be]
+## 116. Transfer of status[^c-c55fa6203a181aba461497d0fa66b2be]
 
 *Extent: N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 
 (6) Where a student transfers under paragraph (1), the maximum amount of support under regulation 109(1)(a) in respect of the academic years to and from which the student transfers is the amount of support available in connection with the course with the highest actual fees as defined in regulation 109.
 
-(7)[^key-0e4a9c975315f83fae1ca34dec887b79] Where an eligible distance learning student transfers under paragraph (1) after the Department has assessed the student’s distance learning fee loan in connection with the academic year of the course from which the student is transferring but before the student completes that year, the eligible distance learning student may not, in connection with the academic year of the course to which the student transfers, apply for another distance learning fee loan of a kind already applied for under this Part in connection with the academic year of the course from which the student is transferring, unless otherwise provided.
+(7)[^c-0e4a9c975315f83fae1ca34dec887b79] Where an eligible distance learning student transfers under paragraph (1) after the Department has assessed the student’s distance learning fee loan in connection with the academic year of the course from which the student is transferring but before the student completes that year, the eligible distance learning student may not, in connection with the academic year of the course to which the student transfers, apply for another distance learning fee loan of a kind already applied for under this Part in connection with the academic year of the course from which the student is transferring, unless otherwise provided.
 
 ## Annotations
 
-[^key-c55fa6203a181aba461497d0fa66b2be]: Commencement: Reg. 116 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-c55fa6203a181aba461497d0fa66b2be]: Commencement: Reg. 116 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-0e4a9c975315f83fae1ca34dec887b79]: Textual amendment: [Reg. 116(7)](https://www.legislation.gov.uk/nisr/2009/373/regulation/116/7) added (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2017/7/regulation/16)
+[^c-0e4a9c975315f83fae1ca34dec887b79]: Textual amendment: [Reg. 116(7)](https://www.legislation.gov.uk/nisr/2009/373/regulation/116/7) added (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2017/7/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Calculation of the weekly amount of a... liable relative payment[^key-9c40b1c84b176292285de80ccef4d549][^key-b6ddb377b575298dfecd5d1c627b16ec]
+## 124. Calculation of the weekly amount of a... liable relative payment[^c-9c40b1c84b176292285de80ccef4d549][^c-b6ddb377b575298dfecd5d1c627b16ec]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c40b1c84b176292285de80ccef4d549]: Commencement: [Reg. 124](https://www.legislation.gov.uk/nisr/2008/280/regulation/124) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-9c40b1c84b176292285de80ccef4d549]: Commencement: [Reg. 124](https://www.legislation.gov.uk/nisr/2008/280/regulation/124) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-b6ddb377b575298dfecd5d1c627b16ec]: Textual amendment: Words in [reg. 124](https://www.legislation.gov.uk/nisr/2008/280/regulation/124) heading omitted (coming into force in accordance with reg. 1(5)(c) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/5)
+[^c-b6ddb377b575298dfecd5d1c627b16ec]: Textual amendment: Words in [reg. 124](https://www.legislation.gov.uk/nisr/2008/280/regulation/124) heading omitted (coming into force in accordance with reg. 1(5)(c) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/5)

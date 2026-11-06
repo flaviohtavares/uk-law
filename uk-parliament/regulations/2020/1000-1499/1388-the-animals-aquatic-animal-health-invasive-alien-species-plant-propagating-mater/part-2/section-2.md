@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The EEA agreement[^key-c38a3edb76f60da998f7b23c7ad37e22]
+## 2. The EEA agreement[^c-c38a3edb76f60da998f7b23c7ad37e22]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In Annex 1 to the EEA agreement, in Chapter 1, in Part 7.1—
 
 ## Annotations
 
-[^key-c38a3edb76f60da998f7b23c7ad37e22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1388/regulation/2) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-c38a3edb76f60da998f7b23c7ad37e22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1388/regulation/2) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

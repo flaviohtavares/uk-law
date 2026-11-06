@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 2(2), 38(3)(a), 39(1) to (5), 40(1) to (4), 41(7), 42(3) and 43(1) and (5) to (7) of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0dd7511595cc63878883f97c8be0f380]
+## 1. Citation, commencement and interpretation[^c-0dd7511595cc63878883f97c8be0f380]
 
 (1) These Regulations may be cited as the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999 and shall come into operation on 21st September 1999.
 
@@ -60,7 +60,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
   - (i) the period for appealing in relation to that application has not expired; or
   - (ii) the application is the subject of an appeal which has not been disposed of.
 
-## 2. Exemption from registration[^key-17cc9ea577b0dc6ff2c656292c645165]
+## 2. Exemption from registration[^c-17cc9ea577b0dc6ff2c656292c645165]
 
 (1) The following persons shall not be required for the purposes of Article 38 of the 1997 Order to be a registered carrier of controlled waste—
 
@@ -88,7 +88,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 - “building or demolition waste” means waste arising from works of construction or demolition, including waste arising from work preparatory thereto;
 - “construction” includes improvement, repair or alteration.
 
-## 3. Registers[^key-399473347dec2ccba36e54ad940fee23]
+## 3. Registers[^c-399473347dec2ccba36e54ad940fee23]
 
 (1) The Department shall establish and maintain a register of carriers of controlled waste and—
 
@@ -97,7 +97,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (2) A register under this regulation may be kept in any form but shall be indexed and arranged so that any person can readily trace the information contained in it.
 
-## 4. Applications for registration[^key-bfd4b250367e6337ab2d346d96eede2e]
+## 4. Applications for registration[^c-bfd4b250367e6337ab2d346d96eede2e]
 
 (1) An application for registration or for the renewal of a registration as a carrier of controlled waste shall be made to the Department.
 
@@ -127,7 +127,7 @@ and the applicant shall pay the charge when he makes his application.
 
 (10) The Department may remove from its register a copy of an application included under paragraph (9) at any time more than 6 years after the application was made.
 
-## 5. Refusal of applications[^key-c47551652d4656dd7679676a97bd55a8]
+## 5. Refusal of applications[^c-c47551652d4656dd7679676a97bd55a8]
 
 (1) Subject to Article 40(6) of the 1997 Order, the Department may refuse an application for registration or for the renewal of a registration if, and only if—
 
@@ -142,7 +142,7 @@ and the applicant shall pay the charge when he makes his application.
 
 (5) The Department may remove an entry made under paragraph (3) or (4) at any time more than 6 years after the application in question was made.
 
-## 6. Registration as a carrier[^key-635e1f04bff0cf64305076870cba6f55]
+## 6. Registration as a carrier[^c-635e1f04bff0cf64305076870cba6f55]
 
 (1) On accepting a person’s application for registration or where following an appeal in respect of such an application it is determined under Article 41(6) of the 1997 Order to register a person, the Department shall make an entry in its register—
 
@@ -167,7 +167,7 @@ and the applicant shall pay the charge when he makes his application.
 - “disposal licence” has the same meaning as in Article 5(1) of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00010]; and
 - “group” has the same meaning as in Article 55(1) of the Companies (Northern Ireland) Order 1990[^f00011].
 
-## 7. Amendment of entries[^key-09500572f109794c9e3d667d6a4cccdd]
+## 7. Amendment of entries[^c-09500572f109794c9e3d667d6a4cccdd]
 
 (1) On accepting a person’s application for the renewal of a registration or where following an appeal in respect of such an application it is determined under Article 41(6) of the 1997 Order to register a person, the Department shall amend the relevant entry in the register—
 
@@ -180,7 +180,7 @@ and the applicant shall pay the charge when he makes his application.
 - (a) issue to the registered person or partnership an amended certificate of registration free of charge which shall be in the form set out in Schedule 2, and shall contain the information required by that form;
 - (b) provide that person or partnership free of charge with a copy of the amended entry in the register.
 
-## 8. Change of circumstances and registration of additional partners[^key-e0555518921d32db77225fa94bc09ba7]
+## 8. Change of circumstances and registration of additional partners[^c-e0555518921d32db77225fa94bc09ba7]
 
 (1) A person who is registered shall notify the Department of any change of circumstances affecting information in the entry relating to him.
 
@@ -197,13 +197,13 @@ the Department shall—
 - (iii) if the amendment of the register affects information contained in the certificate of registration, issue to the registered person or partnership free of charge an amended certificate of registration which shall be in the form set out in Schedule 2, and shall contain the information required by that form;
 - (iv) provide that person or partnership free of charge with a copy of the amended entry in the register.
 
-## 9. Copies of certificates of registration[^key-e81fc4d4b90801962061f62558d55dea]
+## 9. Copies of certificates of registration[^c-e81fc4d4b90801962061f62558d55dea]
 
 (1) The Department shall, on payment of its reasonable charges, provide a person who is registered with such copies of his certificate of registration as he may request.
 
 (2) The Department shall ensure that the copies of the certificate are numbered and marked so as to show that they are copies and that they have been provided by it under this regulation.
 
-## 10. Revocation of registration[^key-0aba0c547357f3547f3599ed6d3bc8b4]
+## 10. Revocation of registration[^c-0aba0c547357f3547f3599ed6d3bc8b4]
 
 (1) Subject to Article 40(6) of the 1997 Order, the Department may revoke a person’s registration as a carrier of controlled waste if, and only if—
 
@@ -214,7 +214,7 @@ the Department shall—
 
 (3) If an appeal is made under Article 41(2) of the 1997 Order in accordance with these Regulations, the Department shall, as soon as reasonably practicable, make appropriate entries in its register indicating when the appeal was made and the result of the appeal.
 
-## 11. Duration of registration[^key-afa0966a0777c67ebdef74dcd04a2666]
+## 11. Duration of registration[^c-afa0966a0777c67ebdef74dcd04a2666]
 
 (1) This regulation is subject to—
 
@@ -246,13 +246,13 @@ the Department shall—
 
 (8) Where the Department accepts an application for the renewal of a registration within the period of 3 years mentioned in paragraph (2), the renewal shall for the purposes of these Regulations take effect at the expiry of that period.
 
-## 12. Alteration of register to reflect cessation of registration[^key-576dd8464e772df3fe202b678eedb931]
+## 12. Alteration of register to reflect cessation of registration[^c-576dd8464e772df3fe202b678eedb931]
 
 (1) Where by virtue of regulation 11 or Article 40(2) or 41(8) and (9) of the 1997 Order, a registration ceases to have effect, the Department shall record this fact in the appropriate entry in its register and the date on which it occurred.
 
 (2) The Department may remove the appropriate entry from its register at any time more than 6 years after the registration ceases to have effect.
 
-## 13. Duty to return certificates, etc[^key-1dd397b52627ea9d5d2a2790c280d5d7]
+## 13. Duty to return certificates, etc[^c-1dd397b52627ea9d5d2a2790c280d5d7]
 
 Where—
 
@@ -261,13 +261,13 @@ Where—
 
 he shall immediately return to the Department his certificate of registration, or, as the case may be, his previous certificate of registration, together with any copies of it issued by the Department.
 
-## 14. Production of authority[^key-c17aad0f0daf534f5adc1fa791dc2736]
+## 14. Production of authority[^c-c17aad0f0daf534f5adc1fa791dc2736]
 
 (1) Where a person is required by virtue of Article 42 of the 1997 Order, to produce an authority for transporting controlled waste and does not do so by producing it forthwith to the person requiring its production, he shall produce it at or send it to the Department no later than 7 days from the date on which he was required to produce it.
 
 (2) A copy of a person’s certificate of registration as a carrier of controlled waste shall for the purposes of Article 42 of the 1997 Order be authority for transporting controlled waste if it was provided by the Department under regulation 9.
 
-## 15. Appeals[^key-550f3ef1605ef27bd479e7c796829d18]
+## 15. Appeals[^c-550f3ef1605ef27bd479e7c796829d18]
 
 (1) Notice of an appeal to the Planning Appeals Commission under Article 41(1) or (2) of the 1997 Order shall be given to it in writing.
 
@@ -282,7 +282,7 @@ he shall immediately return to the Department his certificate of registration, o
 
 (3) The appellant shall at the same time as giving notice of appeal to the Planning Appeals Commission serve on the Department a copy of the notice and a copy of the documents mentioned in paragraph (2)(a) and (f).
 
-## 16. Time limit for bringing an appeal[^key-b46c11588e08650a08a910c6cfc13535]
+## 16. Time limit for bringing an appeal[^c-b46c11588e08650a08a910c6cfc13535]
 
 Notice of appeal shall be given before the expiry of the period of 28 days beginning with and including—
 
@@ -292,15 +292,15 @@ Notice of appeal shall be given before the expiry of the period of 28 days begin
 
 or before such later date as the Department may allow.
 
-## 17. Notification of determination[^key-22adca7a30a79c6e7d6fa4ad6b3a8190]
+## 17. Notification of determination[^c-22adca7a30a79c6e7d6fa4ad6b3a8190]
 
 The Planning Appeals Commission shall notify the appellant of its determination of the appeal, and reasons for it, and shall at the same time send a copy of its determination to the Department.
 
-## 18. Prescribed information[^key-15d0434b9faf50d5c75e5a8210e05d16]
+## 18. Prescribed information[^c-15d0434b9faf50d5c75e5a8210e05d16]
 
 The prescribed information for the purposes of Article 43(1)(c) of the 1997 Order is the name and address of the person who was using the vehicle at the time when the offence was committed.
 
-## 19. Prescribed steps to be taken before applying for a warrant to seize property[^key-19f65029a32c2efcec2a232a96dc90f6]
+## 19. Prescribed steps to be taken before applying for a warrant to seize property[^c-19f65029a32c2efcec2a232a96dc90f6]
 
 (1) The prescribed steps for the purposes of Article 43(1)(c) of the 1997 Order are provided by paragraphs (2) and (3).
 
@@ -319,7 +319,7 @@ The prescribed information for the purposes of Article 43(1)(c) of the 1997 Orde
 - “Northern Ireland registration mark” means a registration mark issued in relation to a vehicle under the Vehicle Excise and Registration Act 1994 indicating registration in Northern Ireland; and
 - “owner” includes a person entitled to possession of a vehicle under a hiring agreement or hire purchase agreement.
 
-## 20. Removal of vehicles seized[^key-7d51e176fe8ceac681cb29f44a54edf3]
+## 20. Removal of vehicles seized[^c-7d51e176fe8ceac681cb29f44a54edf3]
 
 (1) A vehicle or its contents seized under Article 43 of the 1997 Order on behalf of the Department may be removed under paragraph (5) of that Article in the manner set out in paragraphs (2) and (3).
 
@@ -331,7 +331,7 @@ The prescribed information for the purposes of Article 43(1)(c) of the 1997 Orde
 - (b) there is good reason for storing them at a different place from the vehicle; or
 - (c) their condition requires them to be disposed of without delay.
 
-## 21. Return of property seized[^key-be47353c3a242f2cf8cb17c5ca58db3b]
+## 21. Return of property seized[^c-be47353c3a242f2cf8cb17c5ca58db3b]
 
 (1) Unless the relevant property has already been disposed of under regulation 22, the Department shall return any property seized under Article 43 of the 1997 Order to a person who—
 
@@ -343,7 +343,7 @@ The prescribed information for the purposes of Article 43(1)(c) of the 1997 Orde
 
 (3) Where there is more than one claim to the property, the Department shall determine which person is entitled to the property on the basis of the evidence provided to it.
 
-## 22. Disposal of property seized[^key-8bb8e66dfda3330d1d66f33da4a05608]
+## 22. Disposal of property seized[^c-8bb8e66dfda3330d1d66f33da4a05608]
 
 (1) The Department may sell, destroy or deposit at any place property seized under Article 43 of the 1997 Order if—
 
@@ -362,7 +362,7 @@ The prescribed information for the purposes of Article 43(1)(c) of the 1997 Orde
 
 (2) The period specified in a notice under paragraph (1)(a)(iii) shall be the period mentioned in paragraph (1)(c)(i).
 
-## 23. Notice of disposal of a vehicle[^key-f5221af6bcf6bd06638629f20ea4a123]
+## 23. Notice of disposal of a vehicle[^c-f5221af6bcf6bd06638629f20ea4a123]
 
 After disposing of any vehicle under regulation 22, the Department shall serve notice of the disposal on the following persons—
 
@@ -370,7 +370,7 @@ After disposing of any vehicle under regulation 22, the Department shall serve n
 - (b) the Secretary of State for the Department of the Environment, Transport and the Regions;
 - (c) such credit reference agency as it considers relevant.
 
-## 24. Application of proceeds of sale[^key-1b800a9cf9babae31fb019dd6621509e]
+## 24. Application of proceeds of sale[^c-1b800a9cf9babae31fb019dd6621509e]
 
 (1) The proceeds of the sale of any property sold by the Department under regulation 22 shall be applied towards meeting expenses incurred by the Department in exercising its function by virtue of Article 43 of the 1997 Order and, in so far as it is not so applied, in meeting any claim to the proceeds of sale made and established in accordance with paragraph (2).
 
@@ -384,7 +384,7 @@ Assistant Secretary
 
 20th August 1999.
 
-## SCHEDULE 1 — Prescribed Offences: Statutory Provisions[^key-e0e5669c2289716a9ad59ee92d0bf609]
+## SCHEDULE 1 — Prescribed Offences: Statutory Provisions[^c-e0e5669c2289716a9ad59ee92d0bf609]
 
 Regulation 1(2)
 
@@ -400,7 +400,7 @@ Regulation 1(2)
 - Articles 4, 5(8), 18, 22(6), 27(5), 28(5) and (6), 31(2), 38, 42, 43(9), 44(2) and 74 of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00022];
 - Regulation 17 of the Special Waste Regulations (Northern Ireland) 1998[^f00023].
 
-## SCHEDULE 2 — Certificate of Registration under the Waste and Contaminated Land (Northern Ireland) Order 1997[^key-3e42c885cd7534f7bc1a2ec444b49381]
+## SCHEDULE 2 — Certificate of Registration under the Waste and Contaminated Land (Northern Ireland) Order 1997[^c-3e42c885cd7534f7bc1a2ec444b49381]
 
 Regulations 6(3), 7(2) and 8(2)
 
@@ -426,11 +426,11 @@ Regulations 18 to 24 prescribe the steps to be taken before applying for a warra
 
 [^f00001]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-0dd7511595cc63878883f97c8be0f380]: Commencement: Reg. 1 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-0dd7511595cc63878883f97c8be0f380]: Commencement: Reg. 1 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39)
 
-[^key-17cc9ea577b0dc6ff2c656292c645165]: Commencement: Reg. 2 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-17cc9ea577b0dc6ff2c656292c645165]: Commencement: Reg. 2 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
 [^f00003]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48); sections 5 and 6 were amended by section 146(2) and (3) of the Environmental Protection Act 1990 ([1990 c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)
 
@@ -442,13 +442,13 @@ Regulations 18 to 24 prescribe the steps to be taken before applying for a warra
 
 [^f00007]: Footnote: [S.R. 1989 No. 347](https://www.legislation.gov.uk/nisr/1989/347) as amended by [S.R. 1992 No. 62](https://www.legislation.gov.uk/nisr/1992/62) and [S.R. 1993 No. 193](https://www.legislation.gov.uk/nisr/1993/193)
 
-[^key-399473347dec2ccba36e54ad940fee23]: Commencement: Reg. 3 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-399473347dec2ccba36e54ad940fee23]: Commencement: Reg. 3 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-bfd4b250367e6337ab2d346d96eede2e]: Commencement: Reg. 4 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-bfd4b250367e6337ab2d346d96eede2e]: Commencement: Reg. 4 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-c47551652d4656dd7679676a97bd55a8]: Commencement: Reg. 5 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-c47551652d4656dd7679676a97bd55a8]: Commencement: Reg. 5 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-635e1f04bff0cf64305076870cba6f55]: Commencement: Reg. 6 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-635e1f04bff0cf64305076870cba6f55]: Commencement: Reg. 6 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
@@ -458,45 +458,45 @@ Regulations 18 to 24 prescribe the steps to be taken before applying for a warra
 
 [^f00011]: Footnote: [S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
-[^key-09500572f109794c9e3d667d6a4cccdd]: Commencement: Reg. 7 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-09500572f109794c9e3d667d6a4cccdd]: Commencement: Reg. 7 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-e0555518921d32db77225fa94bc09ba7]: Commencement: Reg. 8 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-e0555518921d32db77225fa94bc09ba7]: Commencement: Reg. 8 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-e81fc4d4b90801962061f62558d55dea]: Commencement: Reg. 9 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-e81fc4d4b90801962061f62558d55dea]: Commencement: Reg. 9 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-0aba0c547357f3547f3599ed6d3bc8b4]: Commencement: Reg. 10 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-0aba0c547357f3547f3599ed6d3bc8b4]: Commencement: Reg. 10 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-afa0966a0777c67ebdef74dcd04a2666]: Commencement: Reg. 11 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-afa0966a0777c67ebdef74dcd04a2666]: Commencement: Reg. 11 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-576dd8464e772df3fe202b678eedb931]: Commencement: Reg. 12 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-576dd8464e772df3fe202b678eedb931]: Commencement: Reg. 12 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-1dd397b52627ea9d5d2a2790c280d5d7]: Commencement: Reg. 13 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-1dd397b52627ea9d5d2a2790c280d5d7]: Commencement: Reg. 13 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-c17aad0f0daf534f5adc1fa791dc2736]: Commencement: Reg. 14 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-c17aad0f0daf534f5adc1fa791dc2736]: Commencement: Reg. 14 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-550f3ef1605ef27bd479e7c796829d18]: Commencement: Reg. 15 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-550f3ef1605ef27bd479e7c796829d18]: Commencement: Reg. 15 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-b46c11588e08650a08a910c6cfc13535]: Commencement: Reg. 16 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-b46c11588e08650a08a910c6cfc13535]: Commencement: Reg. 16 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-22adca7a30a79c6e7d6fa4ad6b3a8190]: Commencement: Reg. 17 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-22adca7a30a79c6e7d6fa4ad6b3a8190]: Commencement: Reg. 17 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-15d0434b9faf50d5c75e5a8210e05d16]: Commencement: Reg. 18 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-15d0434b9faf50d5c75e5a8210e05d16]: Commencement: Reg. 18 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-19f65029a32c2efcec2a232a96dc90f6]: Commencement: Reg. 19 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-19f65029a32c2efcec2a232a96dc90f6]: Commencement: Reg. 19 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
 [^f00012]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-7d51e176fe8ceac681cb29f44a54edf3]: Commencement: Reg. 20 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-7d51e176fe8ceac681cb29f44a54edf3]: Commencement: Reg. 20 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-be47353c3a242f2cf8cb17c5ca58db3b]: Commencement: Reg. 21 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-be47353c3a242f2cf8cb17c5ca58db3b]: Commencement: Reg. 21 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-8bb8e66dfda3330d1d66f33da4a05608]: Commencement: Reg. 22 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-8bb8e66dfda3330d1d66f33da4a05608]: Commencement: Reg. 22 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-f5221af6bcf6bd06638629f20ea4a123]: Commencement: Reg. 23 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-f5221af6bcf6bd06638629f20ea4a123]: Commencement: Reg. 23 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-1b800a9cf9babae31fb019dd6621509e]: Commencement: Reg. 24 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-1b800a9cf9babae31fb019dd6621509e]: Commencement: Reg. 24 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
-[^key-e0e5669c2289716a9ad59ee92d0bf609]: Commencement: Sch. 1 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-e0e5669c2289716a9ad59ee92d0bf609]: Commencement: Sch. 1 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
 
 [^f00013]: Footnote: [1878 c. 52](https://www.legislation.gov.uk/ukpga/1878/52)
 
@@ -520,4 +520,4 @@ Regulations 18 to 24 prescribe the steps to be taken before applying for a warra
 
 [^f00023]: Footnote: [S.R. 1998 No. 289](https://www.legislation.gov.uk/nisr/1998/289)
 
-[^key-3e42c885cd7534f7bc1a2ec444b49381]: Commencement: Sch. 2 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)
+[^c-3e42c885cd7534f7bc1a2ec444b49381]: Commencement: Sch. 2 in operation at 21.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/362/regulation/1/1)

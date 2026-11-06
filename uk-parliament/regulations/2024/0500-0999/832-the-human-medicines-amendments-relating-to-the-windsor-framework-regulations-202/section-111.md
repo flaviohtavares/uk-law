@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Insertion of new regulations 257AA and 257AB[^key-ce2f99ec94194cedb6dec5e58161a83b]
+## 111. Insertion of new regulations 257AA and 257AB[^c-ce2f99ec94194cedb6dec5e58161a83b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ After regulation 257 (packaging requirements: general), insert—
 
 ## Annotations
 
-[^key-ce2f99ec94194cedb6dec5e58161a83b]: Commencement: [Reg. 111](https://www.legislation.gov.uk/uksi/2024/832/regulation/111) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-ce2f99ec94194cedb6dec5e58161a83b]: Commencement: [Reg. 111](https://www.legislation.gov.uk/uksi/2024/832/regulation/111) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)

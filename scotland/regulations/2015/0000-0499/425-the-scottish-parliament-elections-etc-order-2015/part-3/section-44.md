@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Time for sending in and paying claims[^key-1add84ad898c14cfaf3b44bd3c530ee7]
+## 44. Time for sending in and paying claims[^c-1add84ad898c14cfaf3b44bd3c530ee7]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ may apply to the Court of Session or to the sheriff for leave to pay a claim for
 
 ## Annotations
 
-[^key-1add84ad898c14cfaf3b44bd3c530ee7]: Commencement: Art. 44 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-1add84ad898c14cfaf3b44bd3c530ee7]: Commencement: Art. 44 in force at 16.12.2015 in accordance with art. 1(1)

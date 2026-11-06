@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46D. Consequences of not complying with a works notice.[^key-b0a6c7223f17a4587dfffb3f84439a63]
+## 46D. Consequences of not complying with a works notice.[^c-b0a6c7223f17a4587dfffb3f84439a63]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0a6c7223f17a4587dfffb3f84439a63]: Textual amendment: Ss. 46-50 repealed (S.) (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-b0a6c7223f17a4587dfffb3f84439a63]: Textual amendment: Ss. 46-50 repealed (S.) (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Imitation poll cards and notifications[^key-171fefd8a081a70a89e3058c51e23579]
+## 65. Imitation poll cards and notifications[^c-171fefd8a081a70a89e3058c51e23579]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No person shall for the purpose of promoting or procuring a particular result at
 
 ## Annotations
 
-[^key-171fefd8a081a70a89e3058c51e23579]: Commencement: Art. 65 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-171fefd8a081a70a89e3058c51e23579]: Commencement: Art. 65 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

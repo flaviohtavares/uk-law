@@ -32,7 +32,7 @@ summary: ''
 
 european communities
 
-The European Communities (Definition of Treaties) (Partnership and Cooperation Agreement) (Republic of Tajikistan) Order 2007 (revoked)[^key-a12144b5d7b17c2040c285095f004d77]
+The European Communities (Definition of Treaties) (Partnership and Cooperation Agreement) (Republic of Tajikistan) Order 2007 (revoked)[^c-a12144b5d7b17c2040c285095f004d77]
 
 Made
 
@@ -46,28 +46,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-a12144b5d7b17c2040c285095f004d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a12144b5d7b17c2040c285095f004d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-a12144b5d7b17c2040c285095f004d77]
+## 1. Citation and Commencement[^c-a12144b5d7b17c2040c285095f004d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification as Community Treaty[^key-a12144b5d7b17c2040c285095f004d77]
+## 2. Specification as Community Treaty[^c-a12144b5d7b17c2040c285095f004d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a12144b5d7b17c2040c285095f004d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a12144b5d7b17c2040c285095f004d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a12144b5d7b17c2040c285095f004d77]
+## SCHEDULE[^c-a12144b5d7b17c2040c285095f004d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a12144b5d7b17c2040c285095f004d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a12144b5d7b17c2040c285095f004d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a12144b5d7b17c2040c285095f004d77]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3227) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a12144b5d7b17c2040c285095f004d77]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3227) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Information services etc.[^key-294cf369643e395250c8f5d5e9924268]
+## 9. Information services etc.[^c-294cf369643e395250c8f5d5e9924268]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ is to be read as limiting the power conferred by subsection (1).
 
 ## Annotations
 
-[^key-294cf369643e395250c8f5d5e9924268]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/16/section/9) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)
+[^c-294cf369643e395250c8f5d5e9924268]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/16/section/9) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)

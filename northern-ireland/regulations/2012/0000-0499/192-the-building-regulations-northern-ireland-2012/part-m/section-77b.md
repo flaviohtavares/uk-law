@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77B. In-building physical infrastructure[^key-8f5bdd06cd40adc137f4c0885116f9d3]
+## 77B. In-building physical infrastructure[^c-8f5bdd06cd40adc137f4c0885116f9d3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f5bdd06cd40adc137f4c0885116f9d3]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/nisr/2012/192/part/M) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [reg. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/412/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-8f5bdd06cd40adc137f4c0885116f9d3]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/nisr/2012/192/part/M) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [reg. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/412/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

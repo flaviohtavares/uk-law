@@ -50,15 +50,15 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-Her Majesty, in exercise of the powers conferred by sections 5 and 7 of the West Indies Act 1962[^f00001] and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:[^key-06781aaa086bfb748af07ab011f53509]
+Her Majesty, in exercise of the powers conferred by sections 5 and 7 of the West Indies Act 1962[^f00001] and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:[^c-06781aaa086bfb748af07ab011f53509]
 
-## 1. Citation, construction and commencement[^key-659f7596406e1ad3c8e0c8d7833f2b58]
+## 1. Citation, construction and commencement[^c-659f7596406e1ad3c8e0c8d7833f2b58]
 
 (1) This Order may be cited as the Virgin Islands Constitution (Amendment) Order 2015 and comes into force on 5th November 2015.
 
 (2) The Virgin Islands Constitution Order 2007[^f00002] (hereinafter referred to as the “principal Order”) and this Order shall be construed as one and may be cited together as the Virgin Islands Constitution Orders 2007 to 2015.
 
-## 2. Amendment of principal Order[^key-a1a03d0a50ab7c1a758c43350f2867c8]
+## 2. Amendment of principal Order[^c-a1a03d0a50ab7c1a758c43350f2867c8]
 
 The principal Order is amended by inserting after section 52 the following—
 
@@ -86,10 +86,10 @@ This Order amends the Virgin Islands Constitution Order 2007 to allow for the ap
 
 [^f00001]: Footnote: [1962 c. 19](https://www.legislation.gov.uk/ukpga/1962/19).
 
-[^key-06781aaa086bfb748af07ab011f53509]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/1767) construed as one with S.I. 2022/627 (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Virgin Islands Constitution (Interim Amendment) Order 2022 (S.I. 2022/627)](https://www.legislation.gov.uk/uksi/2022/627), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/627/article/1/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/627/article/3))
+[^c-06781aaa086bfb748af07ab011f53509]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/1767) construed as one with S.I. 2022/627 (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Virgin Islands Constitution (Interim Amendment) Order 2022 (S.I. 2022/627)](https://www.legislation.gov.uk/uksi/2022/627), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/627/article/1/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/627/article/3))
 
-[^key-659f7596406e1ad3c8e0c8d7833f2b58]: Commencement: Art. 1 in force at 5.11.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1767/article/1/1)
+[^c-659f7596406e1ad3c8e0c8d7833f2b58]: Commencement: Art. 1 in force at 5.11.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1767/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2007/1678](https://www.legislation.gov.uk/uksi/2007/1678).
 
-[^key-a1a03d0a50ab7c1a758c43350f2867c8]: Commencement: Art. 2 in force at 5.11.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1767/article/1/1)
+[^c-a1a03d0a50ab7c1a758c43350f2867c8]: Commencement: Art. 2 in force at 5.11.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1767/article/1/1)

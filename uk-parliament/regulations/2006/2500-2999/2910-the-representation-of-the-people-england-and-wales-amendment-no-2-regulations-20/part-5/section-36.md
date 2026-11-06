@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Postal ballot boxes and receptacles[^key-543228d829928470d0b7d191138fe60a]
+## 36. Postal ballot boxes and receptacles[^c-543228d829928470d0b7d191138fe60a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In regulation 81(5) remove the “and” preceding sub-paragraph (d) and after s
 
 ## Annotations
 
-[^key-543228d829928470d0b7d191138fe60a]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2006/2910/regulation/36) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-543228d829928470d0b7d191138fe60a]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2006/2910/regulation/36) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

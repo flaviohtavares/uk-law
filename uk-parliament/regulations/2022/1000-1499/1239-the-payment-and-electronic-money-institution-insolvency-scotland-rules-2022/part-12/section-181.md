@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 181. Non-Gazette notices — other provisions[^key-1a531d3f444782e868e1af00bd905322]
+## 181. Non-Gazette notices — other provisions[^c-1a531d3f444782e868e1af00bd905322]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a531d3f444782e868e1af00bd905322]: Commencement: Rule 181 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-1a531d3f444782e868e1af00bd905322]: Commencement: Rule 181 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

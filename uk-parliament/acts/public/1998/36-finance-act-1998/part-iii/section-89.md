@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Personal portfolio bonds.[^key-b13f2748bba75bc62904d5edeac592ba]
+## 89. Personal portfolio bonds.[^c-b13f2748bba75bc62904d5edeac592ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b13f2748bba75bc62904d5edeac592ba]: Textual amendment: S. 89 omitted (with effect in accordance with Sch. 14 para. 18 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/g)
+[^c-b13f2748bba75bc62904d5edeac592ba]: Textual amendment: S. 89 omitted (with effect in accordance with Sch. 14 para. 18 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/g)

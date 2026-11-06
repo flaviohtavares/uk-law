@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Disclosures by Department of Justice to Disclosure and Barring Service[^key-92244fcf33ee9b3985487a665b3ce0b7]
+## 45. Disclosures by Department of Justice to Disclosure and Barring Service[^c-92244fcf33ee9b3985487a665b3ce0b7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In section 119 of the Police Act 1997 (sources of information) after subsection 
 
 ## Annotations
 
-[^key-92244fcf33ee9b3985487a665b3ce0b7]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2015/9/section/45) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(g)](https://www.legislation.gov.uk/nisr/2015/358/article/2/g)
+[^c-92244fcf33ee9b3985487a665b3ce0b7]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2015/9/section/45) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(g)](https://www.legislation.gov.uk/nisr/2015/358/article/2/g)

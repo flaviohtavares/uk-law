@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 13(3), 22(5) and 171(1) to (4) of, and paragraph 8(1)(*d*) and (1A) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 158C and 165(1) and (3) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, and with the concurrence of the Inland Revenue in so far as their concurrence is required, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-31541cf335fd84d032d305b1b1758de9]
+## 1. Citation, commencement and interpretation[^c-31541cf335fd84d032d305b1b1758de9]
 
 (1) These Regulations may be cited as the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 and shall come into operation on 6th April 2001.
 
@@ -66,11 +66,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Appropriation of Class 3 contributions[^key-b891e11d9a7e4fb735274cfe256d1c12]
+## 2. Appropriation of Class 3 contributions[^c-b891e11d9a7e4fb735274cfe256d1c12]
 
 Any person paying Class 3 contributions in one year may appropriate such contributions to the earnings factor of another year if such contributions are payable in respect of that other year or, in the absence of any such appropriation, the Inland Revenue may, with the consent of the contributor, make such appropriation.
 
-## 3. Crediting of Class 3 contributions[^key-a3cb0a2d73e652553671f560d7e13c47]
+## 3. Crediting of Class 3 contributions[^c-a3cb0a2d73e652553671f560d7e13c47]
 
 Where, for any year, a contributor’s earnings factor derived from—
 
@@ -81,7 +81,7 @@ Where, for any year, a contributor’s earnings factor derived from—
 
 falls short of a figure which is 52 times that year’s lower earnings limit for Class 1 contributions by an amount which is equal to, or less than, half that year’s lower earnings limit, that contributor shall be credited with a Class 3 contribution for that year.
 
-## 4. Treatment for the purpose of any contributory benefit of late paid contributions[^key-a881e00d167a22aee20e584802ce4047]
+## 4. Treatment for the purpose of any contributory benefit of late paid contributions[^c-a881e00d167a22aee20e584802ce4047]
 
 (1) Subject to the provisions of regulations 5 and 6 and regulation 40 of the Contributions Regulations (voluntary Class 2 contributions not paid within permitted period), for the purpose of entitlement to any contributory benefit, paragraphs (2) to (9) shall apply to contributions (“relevant contributions”)—
 
@@ -143,7 +143,7 @@ falls short of a figure which is 52 times that year’s lower earnings limit for
 
 (10) This regulation shall not apply to Class 4 contributions.
 
-## 5. Treatment for the purpose of any contributory benefit of late paid primary Class 1 contributions where there was no consent, connivance or negligence by the primary contributor[^key-14e9b29be2451d88b27c9603c604fa0c]
+## 5. Treatment for the purpose of any contributory benefit of late paid primary Class 1 contributions where there was no consent, connivance or negligence by the primary contributor[^c-14e9b29be2451d88b27c9603c604fa0c]
 
 (1) This regulation applies where a primary Class 1 contribution which is payable on a primary contributor’s behalf by a secondary contributor—
 
@@ -167,7 +167,7 @@ falls short of a figure which is 52 times that year’s lower earnings limit for
 - (b) “primary contributor” means the person liable to pay a primary Class 1 contribution in accordance with section 6(4)(*a*)[^f00012] of the Act (liability for Class 1 contributions);
 - (c) “secondary contributor” means the person who, in respect of earnings from employed earner’s employment, is liable to pay a secondary Class 1 contribution in accordance with section 6(4)(*b*) of the Act.
 
-## 6. Treatment for the purpose of any contributory benefit of contributions under the Act paid late through ignorance or error[^key-4f1715463d7ddd9bacb842379aa18351]
+## 6. Treatment for the purpose of any contributory benefit of contributions under the Act paid late through ignorance or error[^c-4f1715463d7ddd9bacb842379aa18351]
 
 (1) In the case of a contribution paid by or in respect of a person after the due date, where—
 
@@ -178,7 +178,7 @@ the Inland Revenue may direct that, for the purposes of those regulations, the c
 
 (2) This regulation shall not apply to a Class 4 contribution.
 
-## 7. Treatment for the purpose of any contributory benefit of contributions paid under regulation 54 of the Contributions Regulations[^key-cccbef172ad65033ee8a3ad873fadd75]
+## 7. Treatment for the purpose of any contributory benefit of contributions paid under regulation 54 of the Contributions Regulations[^c-cccbef172ad65033ee8a3ad873fadd75]
 
 (1) Subject to the provisions of paragraph (2), for the purpose of entitlement to any contributory benefit, where—
 
@@ -195,14 +195,14 @@ that contribution shall be treated as paid by the relevant day.
 - (b) “relevant day” means the first day in respect of which a person would have been entitled to receive the contributory benefit in question if any contribution condition relevant to that benefit had already been satisfied;
 - (c) “contribution quarter” means one of the 4 periods of not less than 13 contribution weeks commencing on the first day of the first, 14th, 27th or 40th contribution week in any year.
 
-## 8. Treatment for the purpose of any contributory benefit of contributions paid under an arrangement[^key-6d09afcb6f712cb31f95273254dc8934]
+## 8. Treatment for the purpose of any contributory benefit of contributions paid under an arrangement[^c-6d09afcb6f712cb31f95273254dc8934]
 
 For the purposes of regulations 4 to 7 and regulation 40 of the Contributions Regulations (voluntary Class 2 contributions not paid within permitted period)—
 
 - (a) where a contribution is paid under an arrangement to which regulations 46A[^f00015] and 48 or, as the case may be, regulation 54A[^f00016] of the Contributions Regulations (other methods of collection and recovery of earnings-related contributions, special provisions relating to primary Class 1 contributions and arrangements approved by the Inland Revenue for method of, and time for, payment of Class 2 and Class 3 contributions) apply, the date by which, but for the said regulations 4 to 7 and 40, the contribution would have fallen due to be paid shall, in relation to that contribution, be the due date;
 - (b) any payment made of, or as on account of, a contribution in accordance with any such arrangement shall, on and after the due date, be treated as a contribution paid on the due date.
 
-## 9. Application for allocation of national insurance number[^key-0698c07b5a2d696a967a50e7dc46cb54]
+## 9. Application for allocation of national insurance number[^c-0698c07b5a2d696a967a50e7dc46cb54]
 
 (1) Subject to the provisions of paragraph (2), every person, who is over the age of 16 and satisfies the conditions specified in regulation 85 or 111[^f00017] of the Contributions Regulations (conditions of domicile or residence and conditions as to residence or presence in Northern Ireland), shall, unless he has already been allocated a national insurance number under the Act, the Social Security (Northern Ireland) Act 1975[^f00018] or the National Insurance Act (Northern Ireland) 1966[^f00019], apply either to the Department or to the Inland Revenue for the allocation of a national insurance number and shall make such application at such time and in such manner as the Department shall direct.
 
@@ -210,7 +210,7 @@ For the purposes of regulations 4 to 7 and regulation 40 of the Contributions Re
 
 (3) The Department may authorise arrangements for the allocation of a national insurance number to any person during the 12 months before that person reaches the age of 16, and in particular may direct that a person who will attain the age of 16 within 12 months after such direction shall apply for the allocation of a national insurance number before attaining the age of 16, and any such person shall accordingly comply with such direction.
 
-## 10. Consequential amendments to the Contributions Regulations[^key-28e219e9faa367bf97acb691fe595a41]
+## 10. Consequential amendments to the Contributions Regulations[^c-28e219e9faa367bf97acb691fe595a41]
 
 (1) The Contributions Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -221,7 +221,7 @@ For the purposes of regulations 4 to 7 and regulation 40 of the Contributions Re
 - (a) in the shoulder note “late paid or” shall be omitted;
 - (b) in paragraph (1) “is paid after the due date or” and “delay or” shall be omitted.
 
-## 11. Revocations[^key-c4a34bce65ef1d44db3ddef73e4041b3]
+## 11. Revocations[^c-c4a34bce65ef1d44db3ddef73e4041b3]
 
 The Regulations specified in column (1) of the Schedule are hereby revoked to the extent mentioned in column (3) of the Schedule.
 
@@ -243,7 +243,7 @@ Two of the Commissioners of Inland Revenue
 
 8th March 2001
 
-## SCHEDULE — Revocations[^key-b020403b3b41081a89bf84eed9d3b924]
+## SCHEDULE — Revocations[^c-b020403b3b41081a89bf84eed9d3b924]
 
 Regulation 11
 
@@ -297,7 +297,7 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-31541cf335fd84d032d305b1b1758de9]: Commencement: Reg. 1 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-31541cf335fd84d032d305b1b1758de9]: Commencement: Reg. 1 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
@@ -307,11 +307,11 @@ These Regulations do not impose a charge on business.
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b891e11d9a7e4fb735274cfe256d1c12]: Commencement: Reg. 2 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-b891e11d9a7e4fb735274cfe256d1c12]: Commencement: Reg. 2 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
-[^key-a3cb0a2d73e652553671f560d7e13c47]: Commencement: Reg. 3 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-a3cb0a2d73e652553671f560d7e13c47]: Commencement: Reg. 3 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
-[^key-a881e00d167a22aee20e584802ce4047]: Commencement: Reg. 4 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-a881e00d167a22aee20e584802ce4047]: Commencement: Reg. 4 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00008]: Footnote: Head (iii) was inserted by regulation 9(*b*) of [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43)
 
@@ -319,27 +319,27 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: Article 4(1)(*a*) and (*b*) was modified by regulations 159 and 166 of [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
-[^key-14e9b29be2451d88b27c9603c604fa0c]: Commencement: Reg. 5 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-14e9b29be2451d88b27c9603c604fa0c]: Commencement: Reg. 5 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00011]: Footnote: Paragraph 2(2) is amended by Article 59(2) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
 [^f00012]: Footnote: Section 6 was substituted by paragraph 2 of Schedule 10 to the Welfare Reform and Pensions Act 1999 and amended by section 81(3) of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19)
 
-[^key-4f1715463d7ddd9bacb842379aa18351]: Commencement: Reg. 6 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-4f1715463d7ddd9bacb842379aa18351]: Commencement: Reg. 6 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
-[^key-cccbef172ad65033ee8a3ad873fadd75]: Commencement: Reg. 7 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-cccbef172ad65033ee8a3ad873fadd75]: Commencement: Reg. 7 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00013]: Footnote: Regulation 54 was substituted by regulation 5 of [S.R. 1993 No. 59](https://www.legislation.gov.uk/nisr/1993/59)
 
 [^f00014]: Footnote: Regulation 53A was inserted by regulation 4 of [S.R. 1993 No. 59](https://www.legislation.gov.uk/nisr/1993/59) and amended by regulation 8 of [S.I. 2000/2344](https://www.legislation.gov.uk/uksi/2000/2344) and regulation 2 of [S.I. 2001/46](https://www.legislation.gov.uk/uksi/2001/46)
 
-[^key-6d09afcb6f712cb31f95273254dc8934]: Commencement: Reg. 8 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-6d09afcb6f712cb31f95273254dc8934]: Commencement: Reg. 8 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00015]: Footnote: Regulation 46A was inserted by regulation 8 of [S.I. 2000/2208](https://www.legislation.gov.uk/uksi/2000/2208) and the shoulder note was amended by regulation 4 of [S.I. 2000/2743](https://www.legislation.gov.uk/uksi/2000/2743)
 
 [^f00016]: Footnote: Regulation 54A was substituted by regulation 5 of [S.R. 1993 No. 59](https://www.legislation.gov.uk/nisr/1993/59) and amended by regulations 10 and 11 of [S.I. 2000/2344](https://www.legislation.gov.uk/uksi/2000/2344)
 
-[^key-0698c07b5a2d696a967a50e7dc46cb54]: Commencement: Reg. 9 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-0698c07b5a2d696a967a50e7dc46cb54]: Commencement: Reg. 9 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00017]: Footnote: Regulation 111 was amended by regulation 3 of [S.R. 1989 No. 112](https://www.legislation.gov.uk/nisr/1989/112), regulation 8 of [S.R. 1992 No. 41](https://www.legislation.gov.uk/nisr/1992/41) and regulation 8 of [S.R. 1999 No. 117](https://www.legislation.gov.uk/nisr/1999/117)
 
@@ -347,12 +347,12 @@ These Regulations do not impose a charge on business.
 
 [^f00019]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
 
-[^key-28e219e9faa367bf97acb691fe595a41]: Commencement: Reg. 10 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-28e219e9faa367bf97acb691fe595a41]: Commencement: Reg. 10 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
 [^f00020]: Footnote: Definition of “week” was amended by regulation 2 of [S.R. 1992 No. 138](https://www.legislation.gov.uk/nisr/1992/138)
 
 [^f00021]: Footnote: Regulation 39 was amended by regulation 11 of [S.R. 1987 No. 143](https://www.legislation.gov.uk/nisr/1987/143), regulation 7 of [S.R. 1987 No. 468](https://www.legislation.gov.uk/nisr/1987/468), regulation 13(5) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and regulation 3(5) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-c4a34bce65ef1d44db3ddef73e4041b3]: Commencement: Reg. 11 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-c4a34bce65ef1d44db3ddef73e4041b3]: Commencement: Reg. 11 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
 
-[^key-b020403b3b41081a89bf84eed9d3b924]: Commencement: Sch. in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)
+[^c-b020403b3b41081a89bf84eed9d3b924]: Commencement: Sch. in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1)

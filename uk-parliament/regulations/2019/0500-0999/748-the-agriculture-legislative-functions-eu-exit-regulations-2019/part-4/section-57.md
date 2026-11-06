@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57.[^key-b7809cecff614f0b148a2b58c82f92bd]
+## 57.[^c-b7809cecff614f0b148a2b58c82f92bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 22(3), for the words from “Commission” to “Article 83” substi
 
 ## Annotations
 
-[^key-b7809cecff614f0b148a2b58c82f92bd]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b7809cecff614f0b148a2b58c82f92bd]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

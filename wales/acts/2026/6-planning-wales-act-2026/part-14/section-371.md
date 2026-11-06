@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 371. Payment of appointed representative where access to evidence restricted[^key-b8b1e4dfe25bab644ad94592043ada59]
+## 371. Payment of appointed representative where access to evidence restricted[^c-b8b1e4dfe25bab644ad94592043ada59]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8b1e4dfe25bab644ad94592043ada59]: Commencement: S. 371 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b8b1e4dfe25bab644ad94592043ada59]: Commencement: S. 371 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

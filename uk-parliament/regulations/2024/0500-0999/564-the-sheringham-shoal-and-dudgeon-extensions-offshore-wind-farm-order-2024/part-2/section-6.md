@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Disapplication and modification of legislative provisions[^key-cedc73b149a3c11a73c5be77c8ac6686]
+## 6. Disapplication and modification of legislative provisions[^c-cedc73b149a3c11a73c5be77c8ac6686]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 .
 
-(3) In the event that any compliance with the provisions[^key-ccaf1433fec580c9ae53245c1612e3b4] of—
+(3) In the event that any compliance with the provisions[^c-ccaf1433fec580c9ae53245c1612e3b4] of—
 
 - (a) this Order means that the A47 Tuddenham Scheme will be carried out in breach of the terms of the A47 Tuddenham Order or that National Highways cannot comply with the terms of the A47 Tuddenham Order; or
 - (b) the A47 Tuddenham Order means that the authorised development will be carried out in breach of the terms of this Order or that the undertaker cannot comply with the terms of this Order;
@@ -45,7 +45,7 @@ section 161(1) of the 2008 Act shall not apply to that breach.
 
 ## Annotations
 
-[^key-cedc73b149a3c11a73c5be77c8ac6686]: Commencement: Art. 6 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-cedc73b149a3c11a73c5be77c8ac6686]: Commencement: Art. 6 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00028]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 109 has been repealed.
 
@@ -55,4 +55,4 @@ section 161(1) of the 2008 Act shall not apply to that breach.
 
 [^f00031]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160). Regulation 6 was amended by paragraph 35 of Schedule 1 to [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377).
 
-[^key-ccaf1433fec580c9ae53245c1612e3b4]: Textual amendment: Word in [art. 6(3)](https://www.legislation.gov.uk/uksi/2024/564/article/6/3) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-ccaf1433fec580c9ae53245c1612e3b4]: Textual amendment: Word in [art. 6(3)](https://www.legislation.gov.uk/uksi/2024/564/article/6/3) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table

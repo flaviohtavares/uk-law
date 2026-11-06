@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175A. Power to refer points of law for the opinion of the High Court[^key-0a28c38e90b81e159e35f2bf4ca67b52]
+## 175A. Power to refer points of law for the opinion of the High Court[^c-0a28c38e90b81e159e35f2bf4ca67b52]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a28c38e90b81e159e35f2bf4ca67b52]: Textual amendment: [S. 175A](https://www.legislation.gov.uk/ukpga/1995/46/section/175A) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 120](https://www.legislation.gov.uk/asp/2014/18/section/120), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-0a28c38e90b81e159e35f2bf4ca67b52]: Textual amendment: [S. 175A](https://www.legislation.gov.uk/ukpga/1995/46/section/175A) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 120](https://www.legislation.gov.uk/asp/2014/18/section/120), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

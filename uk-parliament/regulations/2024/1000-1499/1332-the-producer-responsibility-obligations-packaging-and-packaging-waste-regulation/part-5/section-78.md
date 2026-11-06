@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Recalculations[^key-6c1cfcd8c37057e137903bb28cde552b]
+## 78. Recalculations[^c-6c1cfcd8c37057e137903bb28cde552b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c1cfcd8c37057e137903bb28cde552b]: Commencement: Reg. 78 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-6c1cfcd8c37057e137903bb28cde552b]: Commencement: Reg. 78 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

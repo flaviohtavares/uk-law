@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State has consulted the regulator and such other persons as the Secretary of State considers appropriate in accordance with section 120B(3) of the Building Act 1984.
 
-## 1. Citation, extent, application and commencement[^key-f0c7d6d9ffb90bb377799a22c797326a]
+## 1. Citation, extent, application and commencement[^c-f0c7d6d9ffb90bb377799a22c797326a]
 
 (1) These Regulations may be cited as the Building (Restricted Activities and Functions) (England) Regulations 2023.
 
@@ -56,7 +56,7 @@ The Secretary of State has consulted the regulator and such other persons as the
 
 (3) These Regulations come into force on 6th April 2024.
 
-## 2. Interpretation[^key-44e9435a95d0b591084dab7278ae4364]
+## 2. Interpretation[^c-44e9435a95d0b591084dab7278ae4364]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 - “**building**” has the meaning given in the 2010 Regulations[^f00004];
 - “**building work**” has the meaning given in the 2010 Regulations.
 
-## 3. Restricted activities and functions: local authorities[^key-9cb6e06c0afd6dfe31950bd2cc384782]
+## 3. Restricted activities and functions: local authorities[^c-9cb6e06c0afd6dfe31950bd2cc384782]
 
 (1) For the purposes of section 46A(1) of the 1984 Act, in relation to local authorities, each of the following activities is prescribed as a restricted activity—
 
@@ -88,9 +88,9 @@ In these Regulations—
 - (h) deciding, where regulation 18 of the 2010 Regulations (unauthorised building work) applies, whether—
   - (i) a regularisation certificate under regulation 18 of the 2010 Regulations may be given;
   - (ii) any reasonable steps are required under regulation 18(3) of the 2010 Regulations;
-- (i) deciding, where regulation 22(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (local authority powers in relation to partly completed work)[^key-dc600ac92dbe4be728b430d37ac00b03] applies, whether—
-  - (i) plans given under regulation 22(2)(a)[^key-47a6dd9edf8ad0e7ebc5f81d9d8a275b] of those Regulations are sufficient to show that the intended work would not contravene any requirement of the 2010 Regulations;
-  - (ii) an owner should be required to cut into, lay open or pull down any of the work under regulation 22(2)(b)[^key-90e437e3f52b7a191b748511327d866a] of those Regulations;
+- (i) deciding, where regulation 22(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (local authority powers in relation to partly completed work)[^c-dc600ac92dbe4be728b430d37ac00b03] applies, whether—
+  - (i) plans given under regulation 22(2)(a)[^c-47a6dd9edf8ad0e7ebc5f81d9d8a275b] of those Regulations are sufficient to show that the intended work would not contravene any requirement of the 2010 Regulations;
+  - (ii) an owner should be required to cut into, lay open or pull down any of the work under regulation 22(2)(b)[^c-90e437e3f52b7a191b748511327d866a] of those Regulations;
 - (j) exercising any power under section 33 of the 1984 Act (tests for conformity with building regulations);
 - (k) deciding, for the purposes of section 35 of the 1984 Act (offence of contravening building regulations etc), whether there is a contravention of a provision of the building regulations or a requirement imposed by virtue of any such provision;
 - (l) giving a compliance notice under section 35B of the 1984 Act (compliance notices)[^f00010];
@@ -99,7 +99,7 @@ In these Regulations—
 - (o) deciding whether to withdraw a section 36 notice following the giving of a written report under section 37(1)(a) of the 1984 Act;
 - (p) giving a notice under section 52A(4) of the 1984 Act (cancellation of initial notice)[^f00012].
 
-## 4. Restricted functions: the regulator[^key-1bb7fd863250f5f1aab14cdafff00ce6]
+## 4. Restricted functions: the regulator[^c-1bb7fd863250f5f1aab14cdafff00ce6]
 
 (1) Subject to paragraph (2), for the purposes of section 46A(2) of the 1984 Act, where the regulator[^f00013] is the building control authority in relation to a higher-risk building under section 91ZA of the 1984 Act (building control authorities)[^f00014] each of the following functions is prescribed as a restricted function—
 
@@ -149,7 +149,7 @@ In these Regulations—
 - (m) giving a section 36 notice or deciding to pull down or remove work or effect alterations in it as deemed necessary under section 36(3) of the 1984 Act;
 - (n) deciding whether to withdraw a section 36 notice following the giving of a written report under section 37(1)(a) of the 1984 Act.
 
-## 5. Restricted activities and functions: registered building control approvers[^key-7a1312409e964d0b3d6d831591a4cd95]
+## 5. Restricted activities and functions: registered building control approvers[^c-7a1312409e964d0b3d6d831591a4cd95]
 
 (1) For the purposes of section 54B(2) of the 1984 Act each of the following activities is prescribed as a restricted activity—
 
@@ -193,9 +193,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Sections 46A and 54B were inserted by section 44 of the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30). Section 120B was inserted by paragraph 77 of Schedule 5 to the Building Safety Act 2022.
 
-[^key-f0c7d6d9ffb90bb377799a22c797326a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
+[^c-f0c7d6d9ffb90bb377799a22c797326a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
 
-[^key-44e9435a95d0b591084dab7278ae4364]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1052/regulation/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
+[^c-44e9435a95d0b591084dab7278ae4364]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1052/regulation/2) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214) as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/110](https://www.legislation.gov.uk/uksi/2014/110), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), [2016/1274](https://www.legislation.gov.uk/uksi/2016/1274), [2018/1230](https://www.legislation.gov.uk/uksi/2018/1230), [2021/1391](https://www.legislation.gov.uk/uksi/2021/1391), [2021/1392](https://www.legislation.gov.uk/uksi/2021/1392), [2022/603](https://www.legislation.gov.uk/uksi/2022/603), [2022/984](https://www.legislation.gov.uk/uksi/2022/984), [2023/520](https://www.legislation.gov.uk/uksi/2023/520) and [2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
@@ -203,7 +203,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: The definition of “building” was substituted by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
-[^key-9cb6e06c0afd6dfe31950bd2cc384782]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
+[^c-9cb6e06c0afd6dfe31950bd2cc384782]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
 
 [^f00005]: Footnote: See section 122 of the 1984 Act for the definition of “building regulations”.
 
@@ -213,11 +213,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: Regulation 17A was inserted into the 2010 Regulations by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119).
 
-[^key-dc600ac92dbe4be728b430d37ac00b03]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3/2/i) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [41(a)](https://www.legislation.gov.uk/uksi/2024/110/regulation/41/a)
+[^c-dc600ac92dbe4be728b430d37ac00b03]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3/2/i) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [41(a)](https://www.legislation.gov.uk/uksi/2024/110/regulation/41/a)
 
-[^key-47a6dd9edf8ad0e7ebc5f81d9d8a275b]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3/2/i) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [41(b)](https://www.legislation.gov.uk/uksi/2024/110/regulation/41/b)
+[^c-47a6dd9edf8ad0e7ebc5f81d9d8a275b]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3/2/i) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [41(b)](https://www.legislation.gov.uk/uksi/2024/110/regulation/41/b)
 
-[^key-90e437e3f52b7a191b748511327d866a]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3/2/i) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [41(c)](https://www.legislation.gov.uk/uksi/2024/110/regulation/41/c)
+[^c-90e437e3f52b7a191b748511327d866a]: Textual amendment: Words in [reg. 3(2)(i)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/3/2/i) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [41(c)](https://www.legislation.gov.uk/uksi/2024/110/regulation/41/c)
 
 [^f00010]: Footnote: Section 35B and 35C were inserted into the 1984 Act by section 38 of the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30).
 
@@ -225,13 +225,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: Section 52A was inserted into the 1984 Act by section 46 of the Building Safety Act 2022.
 
-[^key-1bb7fd863250f5f1aab14cdafff00ce6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1052/regulation/4) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
+[^c-1bb7fd863250f5f1aab14cdafff00ce6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1052/regulation/4) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
 
 [^f00013]: Footnote: The Health and Safety Executive is the building safety regulator, see the definition of the regulator in section 126 of the Building Act 1984, the definition was inserted by paragraph 81 of Schedule 5 to the Building Safety Act 2022.
 
 [^f00014]: Footnote: Section 91ZA was inserted into the 1984 Act by section 32 of the Building Safety Act 2022.
 
-[^key-7a1312409e964d0b3d6d831591a4cd95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1052/regulation/5) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
+[^c-7a1312409e964d0b3d6d831591a4cd95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1052/regulation/5) in force at 6.4.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1052/regulation/1/3)
 
 [^f00015]: Footnote: See section 47 of the Building Act 1984 for the definition of “initial notice”.
 

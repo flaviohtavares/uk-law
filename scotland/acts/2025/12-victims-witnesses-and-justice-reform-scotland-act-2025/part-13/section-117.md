@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Short title[^key-dfb2682e100590224fe0bf4a1b172b0d]
+## 117. Short title[^c-dfb2682e100590224fe0bf4a1b172b0d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Victims, Witnesses, and Justice Reform (Scotl
 
 ## Annotations
 
-[^key-dfb2682e100590224fe0bf4a1b172b0d]: Commencement: S. 117 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)
+[^c-dfb2682e100590224fe0bf4a1b172b0d]: Commencement: S. 117 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)

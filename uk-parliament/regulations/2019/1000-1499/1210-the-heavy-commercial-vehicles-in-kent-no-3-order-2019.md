@@ -46,25 +46,25 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 The Secretary of State has consulted such representative organisations as the Secretary of State thinks fit or as appear appropriate in accordance with section 134(2) of the 1984 Act and sections 88(2) and 90E(2) of the 1988 Act.
 
-## 1. Citation, commencement and interpretation[^key-f69b1b31c0ca75e03015619dd45a5d01]
+## 1. Citation, commencement and interpretation[^c-f69b1b31c0ca75e03015619dd45a5d01]
 
 (1) This Order may be cited as the Heavy Commercial Vehicles in Kent (No. 3) Order 2019 and comes into force at the same time as the Heavy Commercial Vehicles in Kent (No. 1) Order 2019 [^c23838471].
 
 (2) In this Order—
 
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
-- “East Kent” means the geographical area comprised of the areas of Dover District Council, Folkestone and Hythe District Council, Ashford Borough Council, Canterbury City Council, Thanet District Council and Faversham Town Council;[^key-90b24ec467ca9540067bd30866b7ff99]
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- “East Kent” means the geographical area comprised of the areas of Dover District Council, Folkestone and Hythe District Council, Ashford Borough Council, Canterbury City Council, Thanet District Council and Faversham Town Council;[^c-90b24ec467ca9540067bd30866b7ff99]
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
 - “**Kent**” means the geographical area comprised of the areas of Kent County Council and Medway Council;
 - “**operating centre**” has the meaning given in section 7(3) of the Goods Vehicles (Licensing of Operators) Act 1995 [^c23838481] (“**the 1995 Act**”);
 - “**operator's licence**” means a licence granted under section 13 of the 1995 Act [^c23838491];
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
-- [^key-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
+- [^c-a50622bc0e735b65f3b6d8be9c39b3c9]...
 - “registered number of a vehicle” is to be construed in accordance with section 23(1) of the Vehicle Excise and Registration Act 1994;
-- “**relevant vehicle**” means a heavy commercial vehicle [^c23838501] authorised to use any part of the M20 or M2[^key-8aa69ce192510ceab94fa9f04cd92ef7] Motorway by a scheme made under, or having effect as if made under, section 16 of the Highways Act 1980 [^c23838511] or by a development consent order made under section 114 of the Planning Act 2008 [^c23838521]—
+- “**relevant vehicle**” means a heavy commercial vehicle [^c23838501] authorised to use any part of the M20 or M2[^c-8aa69ce192510ceab94fa9f04cd92ef7] Motorway by a scheme made under, or having effect as if made under, section 16 of the Highways Act 1980 [^c23838511] or by a development consent order made under section 114 of the Planning Act 2008 [^c23838521]—
   - (a) subject to a direction given by a traffic officer under article 2(3) of the Heavy Commercial Vehicles in Kent (No. 1) Order 2019; or
   - (b) on a journey to a place outside the United Kingdom—
     - (i) via the Channel Tunnel at Folkestone; or
@@ -72,14 +72,14 @@ The Secretary of State has consulted such representative organisations as the Se
 - “**specified person**” means a constable or traffic officer;
 - “**traffic officer**” means an individual designated as a traffic officer under section 2 of the Traffic Management Act 2004 [^c23838531];
 - “traffic restriction period” is a period of time that—
-  - (a) begins when traffic signs giving notice of a restriction imposed by article 2(1) are displayed on or near the coastbound carriageway of the M2 Motorway between Junction 4 and Junction 5 (Stockbury Roundabout)[^key-3609a2006e3140861c4860302c1e9742]; and
+  - (a) begins when traffic signs giving notice of a restriction imposed by article 2(1) are displayed on or near the coastbound carriageway of the M2 Motorway between Junction 4 and Junction 5 (Stockbury Roundabout)[^c-3609a2006e3140861c4860302c1e9742]; and
   - (b) ends when all such signs are lawfully removed or obscured.
 
-## 1A. Restricted access to the M20 and M2 Motorways before and during a traffic restriction period[^key-1d7e2aa48d10c6923a2222be9add34d5]
+## 1A. Restricted access to the M20 and M2 Motorways before and during a traffic restriction period[^c-1d7e2aa48d10c6923a2222be9add34d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restricted access to M2 Motorway between Junctions 5 and 7[^key-b74ad07292326cd61c5c79e6cd8940b4]
+## 2. Restricted access to M2 Motorway between Junctions 5 and 7[^c-b74ad07292326cd61c5c79e6cd8940b4]
 
 (1) During a traffic restriction period, a relevant vehicle must not be used on the relevant length of carriageway unless—
 
@@ -91,7 +91,7 @@ The Secretary of State has consulted such representative organisations as the Se
 
 (2) In this article, “the relevant length of carriageway” means the coastbound carriageway of the M2 Motorway between the last point where the exit slip road at Junction 5 (Stockbury Roundabout) leaves the carriageway, as indicated by markings on the road, and the end of that carriageway at Junction 7 (Brenley Corner).
 
-## 3. Restricted access to M20 Motorway between Junctions 8 and 9[^key-789dda692fa8b49bafa3f084db5c6783]
+## 3. Restricted access to M20 Motorway between Junctions 8 and 9[^c-789dda692fa8b49bafa3f084db5c6783]
 
 (1) Paragraph (2) applies where—
 
@@ -99,18 +99,18 @@ The Secretary of State has consulted such representative organisations as the Se
 - (b) a relevant provision permits such traffic to proceed on any part of the London-bound carriageway between those junctions; and
 - (c) traffic signs giving notice of a restriction imposed by paragraph (2) are displayed on or near the coastbound carriageway of the M20 Motorway between Junction 7 (Maidstone) and Junction 8 (Maidstone (East)).
 
-(2)[^key-133be1edc38c840921217d5fa497c051] Where this paragraph applies, a relevant vehicle proceeding in a coastbound direction must not be driven on any part of the carriageway referred to in paragraph (1)(b) unless the driver of the vehicle is acting—
+(2)[^c-133be1edc38c840921217d5fa497c051] Where this paragraph applies, a relevant vehicle proceeding in a coastbound direction must not be driven on any part of the carriageway referred to in paragraph (1)(b) unless the driver of the vehicle is acting—
 
 - (a) at the direction, or with the permission, of a specified person; or
 - (b) in compliance with a direction displayed on a traffic sign placed on or near a road.
 
-(3)[^key-273ddec5fac5d37a65b303b3756cffbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-273ddec5fac5d37a65b303b3756cffbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4f2f31b0b1298f38080a5047217e25f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4f2f31b0b1298f38080a5047217e25f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-b5454296a68d45051c3b39b7f9adc37b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b5454296a68d45051c3b39b7f9adc37b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement of offences[^key-47a809191c85caa6e9915715348fd394]
+## 4. Enforcement of offences[^c-47a809191c85caa6e9915715348fd394]
 
 (1) In this article, “**the 1988 Act**” means the Road Traffic Offenders Act 1988.
 
@@ -138,7 +138,7 @@ The Secretary of State has consulted such representative organisations as the Se
 > | --- | --- |
 > | Article 2(6) of the Heavy Commercial Vehicles in Kent (No. 1) Order 2019 | Driver of a heavy commercial vehicle in Kent failing to comply with or contravening a direction given, or requirement imposed, by a traffic officer. |
 
-## 5. Amendment of the Fixed Penalty Order 2000[^key-aabe7645388775d32c12b6d9aac0fc6a]
+## 5. Amendment of the Fixed Penalty Order 2000[^c-aabe7645388775d32c12b6d9aac0fc6a]
 
 (1) The Fixed Penalty Order 2000 [^c23838571] is amended as follows.
 
@@ -170,7 +170,7 @@ The Secretary of State has consulted such representative organisations as the Se
 > | --- | --- |
 > | Contravening article 3(1) or 4(1) of the Heavy Commercial Vehicles in Kent (No. 2) Order 2019 | £300 |
 
-## 6. Amendment of the Road Safety (Financial Penalty Deposit) Order 2009[^key-61df6d630c3f2708f919dc6fb2d26a54]
+## 6. Amendment of the Road Safety (Financial Penalty Deposit) Order 2009[^c-61df6d630c3f2708f919dc6fb2d26a54]
 
 In the Road Safety (Financial Penalty Deposit) Order 2009 [^c23838581], after Table 8 (The Trailer Registration Regulations 2018) in Part 2 (secondary legislation) of the Schedule, insert—
 
@@ -182,13 +182,13 @@ In the Road Safety (Financial Penalty Deposit) Order 2009 [^c23838581], after Ta
 > | --- | --- |
 > | Article 2(6) | Driver of a heavy commercial vehicle in Kent failing to comply with or contravening a direction given, or requirement imposed, by a traffic officer |
 
-## 7. Permits[^key-0c016ddef239bd09493d9db482a953f0]
+## 7. Permits[^c-0c016ddef239bd09493d9db482a953f0]
 
 (1) Kent County Council may issue a permit to the holder of an operator’s licence with an operating centre in East Kent (“local haulier permit”).
 
 (2) A permit issued under paragraph (1) must be in writing, specify the address of the holder’s operating centre in East Kent and is valid until withdrawn by Kent County Council in writing.
 
-## 8. Cessation[^key-bb0a443643b51d0554f944cc2fbaabf4]
+## 8. Cessation[^c-bb0a443643b51d0554f944cc2fbaabf4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -225,13 +225,13 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c23838461]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); [section 20](https://www.legislation.gov.uk/uksi/2019/1210/section/20) was substituted by the [Road Traffic Act 1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40) (“**the 1991 Act**”), section 23. Section 53 was substituted by the 1991 Act, section 48 and Schedule 4, paragraph 102, and subsection (2) was substituted by the [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49) (“**the 2006 Act**”), section 3. Sections 90A to 90F were inserted by the 2006 Act, section 11; there are amendments to section 90A but none is relevant.
 
-[^key-f69b1b31c0ca75e03015619dd45a5d01]: Commencement: Art. 1 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-f69b1b31c0ca75e03015619dd45a5d01]: Commencement: Art. 1 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
 [^c23838471]: Marginal citation: [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388)
 
-[^key-a50622bc0e735b65f3b6d8be9c39b3c9]: Textual amendment: Words in art. 1(2) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/973/article/2/2/a); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-a50622bc0e735b65f3b6d8be9c39b3c9]: Textual amendment: Words in art. 1(2) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/973/article/2/2/a); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-90b24ec467ca9540067bd30866b7ff99]: Textual amendment: Words in art. 1(2) inserted (1.12.2020) by [The Heavy Commercial Vehicles in Kent (No. 3) (Amendment) Order 2020 (S.I. 2020/1146)](https://www.legislation.gov.uk/uksi/2020/1146), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1146/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1146/article/2/2/a); [S.I. 2020/1386](https://www.legislation.gov.uk/uksi/2020/1386), [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1386/article/1/b)
+[^c-90b24ec467ca9540067bd30866b7ff99]: Textual amendment: Words in art. 1(2) inserted (1.12.2020) by [The Heavy Commercial Vehicles in Kent (No. 3) (Amendment) Order 2020 (S.I. 2020/1146)](https://www.legislation.gov.uk/uksi/2020/1146), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1146/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1146/article/2/2/a); [S.I. 2020/1386](https://www.legislation.gov.uk/uksi/2020/1386), [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1386/article/1/b)
 
 [^c23838481]: Marginal citation: [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23).
 
@@ -239,7 +239,7 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c23838501]: Marginal citation: See section 138 of the Road Traffic Regulation Act 1984 for the meaning of “heavy commercial vehicle”.
 
-[^key-8aa69ce192510ceab94fa9f04cd92ef7]: Textual amendment: Words in art. 1(2) inserted (1.12.2020) by [The Heavy Commercial Vehicles in Kent (No. 3) (Amendment) Order 2020 (S.I. 2020/1146)](https://www.legislation.gov.uk/uksi/2020/1146), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1146/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1146/article/2/2/b); [S.I. 2020/1386](https://www.legislation.gov.uk/uksi/2020/1386), [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1386/article/1/b)
+[^c-8aa69ce192510ceab94fa9f04cd92ef7]: Textual amendment: Words in art. 1(2) inserted (1.12.2020) by [The Heavy Commercial Vehicles in Kent (No. 3) (Amendment) Order 2020 (S.I. 2020/1146)](https://www.legislation.gov.uk/uksi/2020/1146), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1146/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1146/article/2/2/b); [S.I. 2020/1386](https://www.legislation.gov.uk/uksi/2020/1386), [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1386/article/1/b)
 
 [^c23838511]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66); section 16 was amended by the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [section 36](https://www.legislation.gov.uk/ukpga/2008/29/section/36) and Schedule 2, paragraph 24 and the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [section 1(6)](https://www.legislation.gov.uk/ukpga/2015/7/section/1/6) and Schedule 1, paragraph 13.
 
@@ -247,34 +247,34 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c23838531]: Marginal citation: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-3609a2006e3140861c4860302c1e9742]: Textual amendment: Words in art. 1(2) substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/2/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-3609a2006e3140861c4860302c1e9742]: Textual amendment: Words in art. 1(2) substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/2/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-1d7e2aa48d10c6923a2222be9add34d5]: Textual amendment: Art. 1A omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/973/article/2/3); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-1d7e2aa48d10c6923a2222be9add34d5]: Textual amendment: Art. 1A omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/973/article/2/3); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-b74ad07292326cd61c5c79e6cd8940b4]: Textual amendment: Art. 2 substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/973/article/2/4); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-b74ad07292326cd61c5c79e6cd8940b4]: Textual amendment: Art. 2 substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/973/article/2/4); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-789dda692fa8b49bafa3f084db5c6783]: Commencement: Art. 3 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-789dda692fa8b49bafa3f084db5c6783]: Commencement: Art. 3 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
-[^key-133be1edc38c840921217d5fa497c051]: Textual amendment: Art. 3(2) substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/a); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-133be1edc38c840921217d5fa497c051]: Textual amendment: Art. 3(2) substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/a); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-273ddec5fac5d37a65b303b3756cffbd]: Textual amendment: Art. 3(3) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-273ddec5fac5d37a65b303b3756cffbd]: Textual amendment: Art. 3(3) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-4f2f31b0b1298f38080a5047217e25f5]: Textual amendment: Art. 3(4) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-4f2f31b0b1298f38080a5047217e25f5]: Textual amendment: Art. 3(4) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-b5454296a68d45051c3b39b7f9adc37b]: Textual amendment: Art. 3(5) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-b5454296a68d45051c3b39b7f9adc37b]: Textual amendment: Art. 3(5) omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/973/article/2/5/b); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-47a809191c85caa6e9915715348fd394]: Commencement: Art. 4in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-47a809191c85caa6e9915715348fd394]: Commencement: Art. 4in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
 [^c23838561]: Marginal citation: Section 20(2) has been amended by [S.I. 1997/384](https://www.legislation.gov.uk/uksi/1997/384), 2001/1814, 2014/260 and 2017/294.
 
-[^key-aabe7645388775d32c12b6d9aac0fc6a]: Commencement: Art. 5 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-aabe7645388775d32c12b6d9aac0fc6a]: Commencement: Art. 5 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
 [^c23838571]: Marginal citation: [S.I. 2000/2792](https://www.legislation.gov.uk/uksi/2000/2792), amended by [S.I. 2009/488](https://www.legislation.gov.uk/uksi/2009/488), 2013/1569, 2014/259, 2018/1236; there are other amending instruments but none is relevant.
 
-[^key-61df6d630c3f2708f919dc6fb2d26a54]: Commencement: Art. 6 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
+[^c-61df6d630c3f2708f919dc6fb2d26a54]: Commencement: Art. 6 in force at 31.10.2019, see art 1(1); [S.I. 2019/1388](https://www.legislation.gov.uk/uksi/2019/1388), [art. 1(b)](https://www.legislation.gov.uk/uksi/2019/1388/article/1/b)
 
 [^c23838581]: Marginal citation: [S.I. 2009/491](https://www.legislation.gov.uk/uksi/2009/491), amended by [S.I. 2018/1236](https://www.legislation.gov.uk/uksi/2018/1236); there are other amending instruments but none is relevant.
 
-[^key-0c016ddef239bd09493d9db482a953f0]: Textual amendment: Art. 7 substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/973/article/2/6); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-0c016ddef239bd09493d9db482a953f0]: Textual amendment: Art. 7 substituted (31.10.2021) by The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/973/article/2/6); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
 
-[^key-bb0a443643b51d0554f944cc2fbaabf4]: Textual amendment: Art. 8 omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/973/article/2/7); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)
+[^c-bb0a443643b51d0554f944cc2fbaabf4]: Textual amendment: Art. 8 omitted (31.10.2021) by virtue of The Heavy Commercial Vehicles in [Kent (No. 3) (Amendment) (No. 2) Order 2021 (S.I. 2021/973)](https://www.legislation.gov.uk/uksi/2021/973), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/973/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/973/article/2/7); [S.I. 2021/1206](https://www.legislation.gov.uk/uksi/2021/1206), [art. 1(b)](https://www.legislation.gov.uk/uksi/2021/1206/article/1/b)

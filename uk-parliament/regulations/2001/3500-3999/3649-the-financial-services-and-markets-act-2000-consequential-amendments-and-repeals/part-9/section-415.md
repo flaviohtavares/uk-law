@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 415. Meaning of “relevant investment”[^key-05dc1d338a231606a8bf480e90e4b2f1]
+## 415. Meaning of “relevant investment”[^c-05dc1d338a231606a8bf480e90e4b2f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05dc1d338a231606a8bf480e90e4b2f1]: Commencement: Art. 415 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-05dc1d338a231606a8bf480e90e4b2f1]: Commencement: Art. 415 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

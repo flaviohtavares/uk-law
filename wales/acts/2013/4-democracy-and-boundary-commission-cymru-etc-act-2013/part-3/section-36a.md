@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36A. Names of electoral ward‍s[^key-ce6d960536a6d4143e4e826a26da3ae2]
+## 36A. Names of electoral ward‍s[^c-ce6d960536a6d4143e4e826a26da3ae2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce6d960536a6d4143e4e826a26da3ae2]: Textual amendment: S. 36A inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 44(2)](https://www.legislation.gov.uk/asc/2024/5/section/44/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-ce6d960536a6d4143e4e826a26da3ae2]: Textual amendment: S. 36A inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 44(2)](https://www.legislation.gov.uk/asc/2024/5/section/44/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

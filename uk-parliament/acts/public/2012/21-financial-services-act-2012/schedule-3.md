@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Financial Conduct Authority and Prudential Regulation Authority: Schedules to be substituted as Schedules 1ZA and 1ZB to FSMA 2000[^key-b3b5780a1a91e1ab5db994a9c369ae37][^key-f36281617512293b5eabc35d00c94c10][^key-917cf8f9c340453f30f758246c4eeebd][^key-15b862e51b289af99f0c8fc0ed2020f2][^key-3b851b184363ccea25bb40963f425c18]
+## SCHEDULE 3 — Financial Conduct Authority and Prudential Regulation Authority: Schedules to be substituted as Schedules 1ZA and 1ZB to FSMA 2000[^c-b3b5780a1a91e1ab5db994a9c369ae37][^c-f36281617512293b5eabc35d00c94c10][^c-917cf8f9c340453f30f758246c4eeebd][^c-15b862e51b289af99f0c8fc0ed2020f2][^c-3b851b184363ccea25bb40963f425c18]
 
 *Extent: E+W+S+N.I.*
 
 Section 6
 
-[^key-b3b5780a1a91e1ab5db994a9c369ae37][^key-f36281617512293b5eabc35d00c94c10][^key-917cf8f9c340453f30f758246c4eeebd][^key-15b862e51b289af99f0c8fc0ed2020f2][^key-3b851b184363ccea25bb40963f425c18]
+[^c-b3b5780a1a91e1ab5db994a9c369ae37][^c-f36281617512293b5eabc35d00c94c10][^c-917cf8f9c340453f30f758246c4eeebd][^c-15b862e51b289af99f0c8fc0ed2020f2][^c-3b851b184363ccea25bb40963f425c18]
 
 These are the Schedules 1ZA and 1ZB to be substituted for Schedule 1 to FSMA 2000—
 
@@ -729,12 +729,12 @@ These are the Schedules 1ZA and 1ZB to be substituted for Schedule 1 to FSMA 200
 
 ## Annotations
 
-[^key-b3b5780a1a91e1ab5db994a9c369ae37]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-b3b5780a1a91e1ab5db994a9c369ae37]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-f36281617512293b5eabc35d00c94c10]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-f36281617512293b5eabc35d00c94c10]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-917cf8f9c340453f30f758246c4eeebd]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-917cf8f9c340453f30f758246c4eeebd]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-15b862e51b289af99f0c8fc0ed2020f2]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) modified (20.2.2013) by [The Financial Services Act 2012 (Transitional Provisions) (Rules and Miscellaneous Provisions) Order 2013 (S.I. 2013/161)](https://www.legislation.gov.uk/uksi/2013/161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/161/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2013/161/article/7/4)
+[^c-15b862e51b289af99f0c8fc0ed2020f2]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) modified (20.2.2013) by [The Financial Services Act 2012 (Transitional Provisions) (Rules and Miscellaneous Provisions) Order 2013 (S.I. 2013/161)](https://www.legislation.gov.uk/uksi/2013/161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/161/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2013/161/article/7/4)
 
-[^key-3b851b184363ccea25bb40963f425c18]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3b851b184363ccea25bb40963f425c18]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/3) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

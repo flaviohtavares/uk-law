@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Information and Investigations: Connected Persons[^key-5b3eebd7b9156f417da3e68ffd6b2b8a]
+## SCHEDULE 15 — Information and Investigations: Connected Persons[^c-5b3eebd7b9156f417da3e68ffd6b2b8a]
 
 *Extent: E+W+S+N.I.*
 
 Sections 165(11) and 171(4).
 
-### Part I — Rules for Specific Bodies[^c1709952][^c1751897][^c2124681][^key-da219a485eb9b1452f3a1c00b848f3e0]
+### Part I — Rules for Specific Bodies[^c1709952][^c1751897][^c2124681][^c-da219a485eb9b1452f3a1c00b848f3e0]
 
 #### Corporate bodies
 
@@ -72,7 +72,7 @@ Sections 165(11) and 171(4).
 
 ## Annotations
 
-[^key-5b3eebd7b9156f417da3e68ffd6b2b8a]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/2000/8/schedule/15) applied (8.6.2023 for specified purposes, 7.10.2023 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2023 (S.I. 2023/612)](https://www.legislation.gov.uk/uksi/2023/612), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/612/article/1/2), [Sch. para. 1(t)](https://www.legislation.gov.uk/uksi/2023/612/schedule/paragraph/1/t) (with [art. 11](https://www.legislation.gov.uk/uksi/2023/612/article/11))
+[^c-5b3eebd7b9156f417da3e68ffd6b2b8a]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/2000/8/schedule/15) applied (8.6.2023 for specified purposes, 7.10.2023 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2023 (S.I. 2023/612)](https://www.legislation.gov.uk/uksi/2023/612), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/612/article/1/2), [Sch. para. 1(t)](https://www.legislation.gov.uk/uksi/2023/612/schedule/paragraph/1/t) (with [art. 11](https://www.legislation.gov.uk/uksi/2023/612/article/11))
 
 [^c1709952]: Modification: Sch. 15 Pt. I (paras. 1-7) modified (1.12.2001) by [S.I. 2001/2657](https://www.legislation.gov.uk/uksi/2001/2657), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/2657/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2001/2657/article/15/2) (which was revoked (8.10.2001) by [S.I. 2001/3083](https://www.legislation.gov.uk/uksi/2001/3083), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3083/article/1/2), [23](https://www.legislation.gov.uk/uksi/2001/3083/article/23)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -84,7 +84,7 @@ Sections 165(11) and 171(4).
 
 [^c2124681]: Modification: Sch. 15 Pt. 1 modified (31.12.2011) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [art. 9(2)](https://www.legislation.gov.uk/uksi/2011/2832/article/9/2)
 
-[^key-da219a485eb9b1452f3a1c00b848f3e0]: Modification: [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/2000/8/schedule/15/part/I) modified (31.12.2013) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2013 (S.I. 2013/3128)](https://www.legislation.gov.uk/uksi/2013/3128), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3128/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/3128/article/4/4)
+[^c-da219a485eb9b1452f3a1c00b848f3e0]: Modification: [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/2000/8/schedule/15/part/I) modified (31.12.2013) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2013 (S.I. 2013/3128)](https://www.legislation.gov.uk/uksi/2013/3128), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3128/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/3128/article/4/4)
 
 [^c1709953]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 

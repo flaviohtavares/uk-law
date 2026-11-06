@@ -75,11 +75,11 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The health claim listed in the Annex to this Regulation may not be made on foods on the Great Britain market.[^key-6dd3f71643f485ea2062be967493d049]
+**Article 1.** The health claim listed in the Annex to this Regulation may not be made on foods on the Great Britain market.[^c-6dd3f71643f485ea2062be967493d049]
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-ad94a9738b85c6e424f9245e383e58aa]...
+[^c-ad94a9738b85c6e424f9245e383e58aa]...
 
 Done at Brussels, 24 April 2019.
 
@@ -101,6 +101,6 @@ Jean-Claude Juncker
 
 [^f00002]: Footnote: *EFSA Journal* 2017;15(1):4679.
 
-[^key-6dd3f71643f485ea2062be967493d049]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2019/651/article/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/10/2)
+[^c-6dd3f71643f485ea2062be967493d049]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2019/651/article/1) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/10/2)
 
-[^key-ad94a9738b85c6e424f9245e383e58aa]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/651/signature) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/10/3)
+[^c-ad94a9738b85c6e424f9245e383e58aa]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/651/signature) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/10/3)

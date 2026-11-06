@@ -35,46 +35,46 @@ implementing Regulation (EC) No 1338/2008 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-937b85c46b81df861625349c76cc15c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-937b85c46b81df861625349c76cc15c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-937b85c46b81df861625349c76cc15c3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Data required[^key-937b85c46b81df861625349c76cc15c3]
+## Article 1. Definitions[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Reference period[^key-937b85c46b81df861625349c76cc15c3]
+## Article 2. Data required[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Metadata[^key-937b85c46b81df861625349c76cc15c3]
+## Article 3. Reference period[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Transmission of data and metadata to the Commission (Eurostat)[^key-937b85c46b81df861625349c76cc15c3]
+## Article 4. Metadata[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-937b85c46b81df861625349c76cc15c3]
+## Article 5. Transmission of data and metadata to the Commission (Eurostat)[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-937b85c46b81df861625349c76cc15c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-937b85c46b81df861625349c76cc15c3]
+## Article 6. Entry into force[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — LIST OF PROFESSIONS SUBJECT TO CONFIDENTIALITY FOR DELIVERY ON A VOLUNTARY BASIS[^key-937b85c46b81df861625349c76cc15c3]
+[^c-937b85c46b81df861625349c76cc15c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — METADATA[^key-937b85c46b81df861625349c76cc15c3]
+## ANNEX II — LIST OF PROFESSIONS SUBJECT TO CONFIDENTIALITY FOR DELIVERY ON A VOLUNTARY BASIS[^c-937b85c46b81df861625349c76cc15c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — METADATA[^c-937b85c46b81df861625349c76cc15c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-937b85c46b81df861625349c76cc15c3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 189](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/189); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-937b85c46b81df861625349c76cc15c3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 189](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/189); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

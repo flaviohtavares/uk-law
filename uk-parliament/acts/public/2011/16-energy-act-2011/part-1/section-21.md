@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Powers under sections 17 to 20: consultation[^key-2905dac2ad97b68f520501b5fd5ec0c3]
+## 21. Powers under sections 17 to 20: consultation[^c-2905dac2ad97b68f520501b5fd5ec0c3]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Before making a modification under any of sections 17 to 20, the Secretary of St
 
 ## Annotations
 
-[^key-2905dac2ad97b68f520501b5fd5ec0c3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/16/section/21) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
+[^c-2905dac2ad97b68f520501b5fd5ec0c3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/16/section/21) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)

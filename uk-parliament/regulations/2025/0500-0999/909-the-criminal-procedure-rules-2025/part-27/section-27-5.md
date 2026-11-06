@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.5. Respondent’s notice[^key-665c91f7e8bb407d5ac69aedf7536687]
+## 27.5. Respondent’s notice[^c-665c91f7e8bb407d5ac69aedf7536687]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ not more than 20 business days after service of the application.
 
 ## Annotations
 
-[^key-665c91f7e8bb407d5ac69aedf7536687]: Commencement: [Rule 27.5](https://www.legislation.gov.uk/uksi/2025/909/rule/27.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-665c91f7e8bb407d5ac69aedf7536687]: Commencement: [Rule 27.5](https://www.legislation.gov.uk/uksi/2025/909/rule/27.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

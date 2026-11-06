@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Rating Lists (Postponement of Compilation) (Wales) Order 2014 (revoked)[^key-929d7c0d285eae483e28ac29874723c8]
+The Rating Lists (Postponement of Compilation) (Wales) Order 2014 (revoked)[^c-929d7c0d285eae483e28ac29874723c8]
 
 Made
 
@@ -39,24 +39,24 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-929d7c0d285eae483e28ac29874723c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929d7c0d285eae483e28ac29874723c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-929d7c0d285eae483e28ac29874723c8]
+## 1. Title, commencement and application[^c-929d7c0d285eae483e28ac29874723c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Postponement of compilation of rating lists: specified date[^key-929d7c0d285eae483e28ac29874723c8]
+## 2. Postponement of compilation of rating lists: specified date[^c-929d7c0d285eae483e28ac29874723c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-929d7c0d285eae483e28ac29874723c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929d7c0d285eae483e28ac29874723c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-929d7c0d285eae483e28ac29874723c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-929d7c0d285eae483e28ac29874723c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-929d7c0d285eae483e28ac29874723c8]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/1370) revoked (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [22(c)](https://www.legislation.gov.uk/wsi/2024/998/regulation/22/c)
+[^c-929d7c0d285eae483e28ac29874723c8]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/1370) revoked (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [22(c)](https://www.legislation.gov.uk/wsi/2024/998/regulation/22/c)

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 43. Child support: decisions and appeals dependent on other cases[^key-6577228df284f1ded92bc2b3b77c4cd6][^key-fc9b87bfa71a67098d9eb73796549eab]
+## 43. Child support: decisions and appeals dependent on other cases[^c-6577228df284f1ded92bc2b3b77c4cd6][^c-fc9b87bfa71a67098d9eb73796549eab]
 
 After section 28 of the Child Support Act there shall be inserted the following sections—
 
@@ -90,9 +90,9 @@ After section 28 of the Child Support Act there shall be inserted the following 
 
 ## Annotations
 
-[^key-6577228df284f1ded92bc2b3b77c4cd6]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/1998/14/section/43) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
+[^c-6577228df284f1ded92bc2b3b77c4cd6]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/1998/14/section/43) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
-[^key-fc9b87bfa71a67098d9eb73796549eab]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/1998/14/section/43) in force at 1.6.1999 in so far as not already in force by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (with [arts. 48-51](https://www.legislation.gov.uk/uksi/1999/1510/article/48))
+[^c-fc9b87bfa71a67098d9eb73796549eab]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/1998/14/section/43) in force at 1.6.1999 in so far as not already in force by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (with [arts. 48-51](https://www.legislation.gov.uk/uksi/1999/1510/article/48))
 
 [^m00028]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 

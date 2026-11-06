@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 105. Statements of policy concerning exercise of discretionary functions[^key-e46444b66f844e7ed49322db49d37ca8]
+## 105. Statements of policy concerning exercise of discretionary functions[^c-e46444b66f844e7ed49322db49d37ca8]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ a written statement as to the policy which is being applied by that employer or,
 
 ## Annotations
 
-[^key-e46444b66f844e7ed49322db49d37ca8]: Commencement: Reg. 105 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e46444b66f844e7ed49322db49d37ca8]: Commencement: Reg. 105 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

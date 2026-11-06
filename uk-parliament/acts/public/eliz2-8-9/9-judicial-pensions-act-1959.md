@@ -37,7 +37,7 @@ An Act to amend the law with respect to the pensions and other benefits attachin
 
 ## 2. Retiring age.
 
-(1) A person who holds an office listed in the First Schedule to this Act shall vacate that office on the day on which he attains the age of 75[^key-15290d4b093d35f951f92e9864d0c872].
+(1) A person who holds an office listed in the First Schedule to this Act shall vacate that office on the day on which he attains the age of 75[^c-15290d4b093d35f951f92e9864d0c872].
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c624096]
 
@@ -86,7 +86,7 @@ Sections 1, 2, 3, 4.
 
 [^c624093]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/2/2), [4](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/4), [6](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/6), [8–11](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/8);, Sch. 2 repealed with saving by [Judicial Pensions Act 1981 (c. 20, SIF 71:2)](https://www.legislation.gov.uk/ukpga/1981/20), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/1981/20/schedule/2/paragraph/1/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/20/schedule/4)
 
-[^key-15290d4b093d35f951f92e9864d0c872]: Textual amendment: Word in [s. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/7) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-15290d4b093d35f951f92e9864d0c872]: Textual amendment: Word in [s. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/7) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c624096]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/2/2), [4](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/4), [6](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/6), [8–11](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/9/section/8);, Sch. 2 repealed with saving by [Judicial Pensions Act 1981 (c. 20, SIF 71:2)](https://www.legislation.gov.uk/ukpga/1981/20), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/1981/20/schedule/2/paragraph/1/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/20/schedule/4)
 

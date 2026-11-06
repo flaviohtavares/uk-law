@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343. Restriction on disclosure of information[^key-adfd8aed31129b8f0d53493511c252f9]
+## 343. Restriction on disclosure of information[^c-adfd8aed31129b8f0d53493511c252f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For paragraph (c) of section 145(2) of the Railways Act 1993 (general restrictio
 
 ## Annotations
 
-[^key-adfd8aed31129b8f0d53493511c252f9]: Commencement: Art. 343 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-adfd8aed31129b8f0d53493511c252f9]: Commencement: Art. 343 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

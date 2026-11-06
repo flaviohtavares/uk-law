@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62A. Cases in which disposal value is transition value[^key-8c9c28cafe424acb7f3be806728db5d6]
+## 62A. Cases in which disposal value is transition value[^c-8c9c28cafe424acb7f3be806728db5d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c9c28cafe424acb7f3be806728db5d6]: Textual amendment: S. 62A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/17), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31) (with [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/36))
+[^c-8c9c28cafe424acb7f3be806728db5d6]: Textual amendment: S. 62A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/17), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31) (with [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/36))

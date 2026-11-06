@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Extradition from British overseas territories[^key-209a030223fa2682aaf800c59d077426][^key-d26e7a94eb9ad1cd14a6bf223f84372f]
+## 177. Extradition from British overseas territories[^c-209a030223fa2682aaf800c59d077426][^c-d26e7a94eb9ad1cd14a6bf223f84372f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-209a030223fa2682aaf800c59d077426]: Modification: S. 177 extended (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 151(2)(c)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/c), [153(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/153/2)
+[^c-209a030223fa2682aaf800c59d077426]: Modification: S. 177 extended (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 151(2)(c)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/c), [153(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/153/2)
 
-[^key-d26e7a94eb9ad1cd14a6bf223f84372f]: Modification: S. 177 power extended (22.10.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/3)
+[^c-d26e7a94eb9ad1cd14a6bf223f84372f]: Modification: S. 177 power extended (22.10.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/3)

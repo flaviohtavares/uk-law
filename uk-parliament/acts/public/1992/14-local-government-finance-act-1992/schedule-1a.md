@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1A — Council tax reduction schemes: England[^key-0b4cc43eec2580880417c21c2bd1fed0]
+## SCHEDULE 1A — Council tax reduction schemes: England[^c-0b4cc43eec2580880417c21c2bd1fed0]
 
 *Extent: E+W+S*
 
@@ -144,9 +144,9 @@ with such modifications as the Secretary of State thinks fit.
 
 ### Revisions to and replacement of scheme
 
-**5.** (1)[^key-b0bd524806876686736b31cf9a5cb909][^key-1b9ed798dfd97447e9715a315e7e6cc4] For each financial year, each billing authority must consider whether to revise its scheme or to replace it with another scheme.
+**5.** (1)[^c-b0bd524806876686736b31cf9a5cb909][^c-1b9ed798dfd97447e9715a315e7e6cc4] For each financial year, each billing authority must consider whether to revise its scheme or to replace it with another scheme.
 
-(2) The authority must make any revision to its scheme, or any replacement scheme, no later than 11 March[^key-778bbb74442d134e71f392bedf499a98] in the financial year preceding that for which the revision or replacement scheme is to have effect.
+(2) The authority must make any revision to its scheme, or any replacement scheme, no later than 11 March[^c-778bbb74442d134e71f392bedf499a98] in the financial year preceding that for which the revision or replacement scheme is to have effect.
 
 (3) The Secretary of State may by order amend sub-paragraph (2) by substituting a different date.
 
@@ -195,10 +195,10 @@ with such modifications as the Secretary of State thinks fit.
 
 ## Annotations
 
-[^key-0b4cc43eec2580880417c21c2bd1fed0]: Textual amendment: Schs. 1A, 1B inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/1)
+[^c-0b4cc43eec2580880417c21c2bd1fed0]: Textual amendment: Schs. 1A, 1B inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/1)
 
-[^key-b0bd524806876686736b31cf9a5cb909]: Modification: [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1A/paragraph/5/1) excluded by S.I. 2008/2867, reg. 12(10) (as inserted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [5(4)(j)](https://www.legislation.gov.uk/uksi/2018/930/regulation/5/4/j))
+[^c-b0bd524806876686736b31cf9a5cb909]: Modification: [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1A/paragraph/5/1) excluded by S.I. 2008/2867, reg. 12(10) (as inserted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [5(4)(j)](https://www.legislation.gov.uk/uksi/2018/930/regulation/5/4/j))
 
-[^key-1b9ed798dfd97447e9715a315e7e6cc4]: Modification: [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1A/paragraph/5/1) excluded (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [18(9)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-1b9ed798dfd97447e9715a315e7e6cc4]: Modification: [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1A/paragraph/5/1) excluded (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [18(9)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-778bbb74442d134e71f392bedf499a98]: Textual amendment: Words in [Sch. 1A para. 5(2)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1A/paragraph/5/2) substituted (E.) (12.1.2018) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 2](https://www.legislation.gov.uk/uksi/2017/1305/regulation/2), [10(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/10/1)
+[^c-778bbb74442d134e71f392bedf499a98]: Textual amendment: Words in [Sch. 1A para. 5(2)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/1A/paragraph/5/2) substituted (E.) (12.1.2018) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 2](https://www.legislation.gov.uk/uksi/2017/1305/regulation/2), [10(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/10/1)

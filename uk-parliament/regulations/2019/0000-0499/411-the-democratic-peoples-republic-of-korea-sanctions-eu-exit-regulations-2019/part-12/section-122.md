@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Seizure power[^key-4d70729f055a3e24bb48c70f6bbe780b][^key-a58e6be3a207b39368817552b0a97846]
+## 122. Seizure power[^c-4d70729f055a3e24bb48c70f6bbe780b][^c-a58e6be3a207b39368817552b0a97846]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d70729f055a3e24bb48c70f6bbe780b]: Commencement: Reg. 122 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-4d70729f055a3e24bb48c70f6bbe780b]: Commencement: Reg. 122 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-a58e6be3a207b39368817552b0a97846]: Commencement: [Reg. 122](https://www.legislation.gov.uk/uksi/2019/411/regulation/122) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a58e6be3a207b39368817552b0a97846]: Commencement: [Reg. 122](https://www.legislation.gov.uk/uksi/2019/411/regulation/122) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

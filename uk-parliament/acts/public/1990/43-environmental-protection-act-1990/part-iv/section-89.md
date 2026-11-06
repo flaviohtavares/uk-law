@@ -23,8 +23,8 @@ summary: ''
 (1) It shall be the duty of—
 
 - (a)[^c13745241] each local authority, as respects any relevant highway or, in Scotland, relevant road for which it is responsible,
-- (b) the Secretary of State, as respects any trunk road which is a special road (other than one to which paragraph (ba)(i) applies)[^key-220f4742f5f7e53598f26e94ecdb9f06] and any relevant highway or relevant road for which he is responsible,
-- (ba)[^c13745251][^key-4c2b8c95cf36da8fcbc3fa5bafcfc827] a strategic highways company as respects—
+- (b) the Secretary of State, as respects any trunk road which is a special road (other than one to which paragraph (ba)(i) applies)[^c-220f4742f5f7e53598f26e94ecdb9f06] and any relevant highway or relevant road for which he is responsible,
+- (ba)[^c13745251][^c-4c2b8c95cf36da8fcbc3fa5bafcfc827] a strategic highways company as respects—
   - (i) any trunk road which is a special road for which it is the highway authority, and
   - (ii) any relevant highway for which it is responsible,
 - (c)[^c13745251] each principal litter authority, as respects its relevant land,
@@ -38,8 +38,8 @@ to ensure that the land is, so far as is practicable, kept clear of litter and r
 (2)[^c13745271] Subject to subsection (6) below, it shall also be the duty of—
 
 - (a) each local authority, as respects any relevant highway or relevant road for which it is responsible,
-- (b) the Secretary of State, as respects any trunk road which is a special road (other than one to which paragraph (c)(i) applies)[^key-b82955ea84f3c56b22b414c6504e04bb] and any relevant highway or relevant road for which he is responsible,
-- (c)[^key-11b856a05039e01931b7d6531a23f936] a strategic highways company as respects—
+- (b) the Secretary of State, as respects any trunk road which is a special road (other than one to which paragraph (c)(i) applies)[^c-b82955ea84f3c56b22b414c6504e04bb] and any relevant highway or relevant road for which he is responsible,
+- (c)[^c-11b856a05039e01931b7d6531a23f936] a strategic highways company as respects—
   - (i) any trunk road which is a special road for which it is the highway authority, and
   - (ii) any relevant highway for which it is responsible,
 
@@ -107,11 +107,11 @@ and for the purpose of enabling it to discharge its duty under subsection (1)(a)
 
 [^c13745241]: Modification: S. 89(1)(a) modified by [S.I. 1991/719](https://www.legislation.gov.uk/uksi/1991/719), [reg. 3(1)](https://www.legislation.gov.uk/uksi/1991/719/regulation/3/1)
 
-[^key-220f4742f5f7e53598f26e94ecdb9f06]: Textual amendment: Words in s. 89(1)(b) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(2)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/2/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-220f4742f5f7e53598f26e94ecdb9f06]: Textual amendment: Words in s. 89(1)(b) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(2)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/2/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13745251]: Modification: S. 89(1)(c) modified by s.I. 1991/719, reg. 3(2)
 
-[^key-4c2b8c95cf36da8fcbc3fa5bafcfc827]: Textual amendment: S. 89(1)(ba) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(2)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/2/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-4c2b8c95cf36da8fcbc3fa5bafcfc827]: Textual amendment: S. 89(1)(ba) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(2)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/2/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c18979071]: Textual amendment: Word in s. 89(1)(e) inserted (6.3.2007 for E. and 18.1.2008 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 106](https://www.legislation.gov.uk/ukpga/2005/16/section/106), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2005/16/schedule/4/paragraph/5); [S.I. 2007/390](https://www.legislation.gov.uk/uksi/2007/390), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/390/article/2/a); [S.I. 2007/3371](https://www.legislation.gov.uk/uksi/2007/3371), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3371/article/2/a)
 
@@ -121,9 +121,9 @@ and for the purpose of enabling it to discharge its duty under subsection (1)(a)
 
 [^c13745271]: Modification: S. 89(2) modified by [S.I. 1991/719](https://www.legislation.gov.uk/uksi/1991/719), [reg. 3(4)](https://www.legislation.gov.uk/uksi/1991/719/regulation/3/4)
 
-[^key-b82955ea84f3c56b22b414c6504e04bb]: Textual amendment: Words in s. 89(2)(b) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(3)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/3/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-b82955ea84f3c56b22b414c6504e04bb]: Textual amendment: Words in s. 89(2)(b) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(3)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/3/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-11b856a05039e01931b7d6531a23f936]: Textual amendment: S. 89(2)(c) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/3/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-11b856a05039e01931b7d6531a23f936]: Textual amendment: S. 89(2)(c) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 111(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/111/3/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13745281]: Textual amendment: Words in s. 89(6) substituted (1.7.1992) by [Road Traffic (Temporary Restrictions) Act 1991 (c. 26, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/26), [s. 2(6)(7)](https://www.legislation.gov.uk/ukpga/1991/26/section/2/6/7); [S.I. 1992/1218](https://www.legislation.gov.uk/uksi/1992/1218), [art. 2](https://www.legislation.gov.uk/uksi/1992/1218/article/2).
 

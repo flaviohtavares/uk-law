@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A contractor may accept onto its list of patients a person who resides outside of the contractor's practice area in accordance with paragraph 18 of Schedule 3[^key-502ba35843510c09bf9044fee73fcce7].
+(1) A contractor may accept onto its list of patients a person who resides outside of the contractor's practice area in accordance with paragraph 18 of Schedule 3[^c-502ba35843510c09bf9044fee73fcce7].
 
 (2) Subject to paragraphs (5) and (6), the terms of the contractor's contract specified in paragraph (3) must be varied so as to require the contractor to provide to the person any services which the contractor is required to provide to its registered patients under the contract as if the person resided within the contractor's practice area.
 
@@ -43,7 +43,7 @@ summary: ''
 
   .
 
-(5) Where the contractor is required to provide services to a patient in accordance with arrangements made under paragraph (1), the contract must also be varied so as to include terms which have the effect of releasing the contractor and NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] from all obligations, rights and liabilities relating to the terms specified in paragraph (3) (including any right to enforce those terms) where, in the opinion of the contractor, it is not clinically appropriate or practical under those arrangements to—
+(5) Where the contractor is required to provide services to a patient in accordance with arrangements made under paragraph (1), the contract must also be varied so as to include terms which have the effect of releasing the contractor and NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] from all obligations, rights and liabilities relating to the terms specified in paragraph (3) (including any right to enforce those terms) where, in the opinion of the contractor, it is not clinically appropriate or practical under those arrangements to—
 
 - (a) provide the services in accordance with those terms; or
 - (b) comply with those terms.
@@ -52,14 +52,14 @@ summary: ''
 
 - (a) essential services if, at the time treatment is required, it is not clinically appropriate or practical to provide primary medical services given the particular circumstances of the patient;
 - (b) out of hours services if, at the time treatment is required, it is not clinically appropriate or practical to provide such services given the particular circumstances of the patient; or
-- (c) minor surgery[^key-a328f071b6b0895c3d130118ac796f7d] to the patient if it is not clinically appropriate or practical to provide that service[^key-e1d179b70ad144f0f23edc3015f3761a] given the particular circumstances of the patient.
+- (c) minor surgery[^c-a328f071b6b0895c3d130118ac796f7d] to the patient if it is not clinically appropriate or practical to provide that service[^c-e1d179b70ad144f0f23edc3015f3761a] given the particular circumstances of the patient.
 
 ## Annotations
 
-[^key-502ba35843510c09bf9044fee73fcce7]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/30/1) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/727/schedule/1/paragraph/1)
+[^c-502ba35843510c09bf9044fee73fcce7]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/30/1) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/727/schedule/1/paragraph/1)
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-a328f071b6b0895c3d130118ac796f7d]: Textual amendment: Words in [reg. 30(6)(c)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/30/6/c) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/18/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
+[^c-a328f071b6b0895c3d130118ac796f7d]: Textual amendment: Words in [reg. 30(6)(c)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/30/6/c) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/18/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
 
-[^key-e1d179b70ad144f0f23edc3015f3761a]: Textual amendment: Words in [reg. 30(6)(c)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/30/6/c) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 18(b)](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/18/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
+[^c-e1d179b70ad144f0f23edc3015f3761a]: Textual amendment: Words in [reg. 30(6)(c)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/30/6/c) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 18(b)](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/18/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5[^key-a6af69a635e31179781cb2dd7cf45270]
+## SCHEDULE 5[^c-a6af69a635e31179781cb2dd7cf45270]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ Regulation 56
 
 ## Annotations
 
-[^key-a6af69a635e31179781cb2dd7cf45270]: Commencement: Sch. 5 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-a6af69a635e31179781cb2dd7cf45270]: Commencement: Sch. 5 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00035]: Footnote: OJ L 197 24.7.2012. p.1.
 

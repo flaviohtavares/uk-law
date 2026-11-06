@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Admissible evidence[^key-434a74cf07f469d9a45f861a6f89232f]
+## 42. Admissible evidence[^c-434a74cf07f469d9a45f861a6f89232f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-434a74cf07f469d9a45f861a6f89232f]: Commencement: Art. 42 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-434a74cf07f469d9a45f861a6f89232f]: Commencement: Art. 42 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
 [^c24438181]: Marginal citation: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
 

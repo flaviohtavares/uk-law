@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) Regulations (Northern Ireland) 2005 (revoked)[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) Regulations (Northern Ireland) 2005 (revoked)[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 3rd May 2005
 
-[^key-78d8b399535b17666e1aa3fdb1a1a6af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78d8b399535b17666e1aa3fdb1a1a6af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 1. Citation and commencement[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 2. Interpretation[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on first placing on the market[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 3. Prohibition on first placing on the market[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 4. Enforcement[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Act[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 5. Application of various provisions of the Act[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 6. Application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Inspection, seizure and detention of corn gluten feed or brewers grains illegally first placed on the market[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 7. Inspection, seizure and detention of corn gluten feed or brewers grains illegally first placed on the market[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to the Genetically Modified Animal Feed Regulations (Northern Ireland) 2004[^key-78d8b399535b17666e1aa3fdb1a1a6af]
+## 8. Amendment to the Genetically Modified Animal Feed Regulations (Northern Ireland) 2004[^c-78d8b399535b17666e1aa3fdb1a1a6af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78d8b399535b17666e1aa3fdb1a1a6af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78d8b399535b17666e1aa3fdb1a1a6af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78d8b399535b17666e1aa3fdb1a1a6af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78d8b399535b17666e1aa3fdb1a1a6af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78d8b399535b17666e1aa3fdb1a1a6af]: Textual amendment: Regulations revoked (30.11.2007) by [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Revocation) Regulations (Northern Ireland) 2007 (S.R. 2007/451)](https://www.legislation.gov.uk/nisr/2007/451), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/451/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/451/regulation/2)
+[^c-78d8b399535b17666e1aa3fdb1a1a6af]: Textual amendment: Regulations revoked (30.11.2007) by [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Revocation) Regulations (Northern Ireland) 2007 (S.R. 2007/451)](https://www.legislation.gov.uk/nisr/2007/451), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/451/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/451/regulation/2)

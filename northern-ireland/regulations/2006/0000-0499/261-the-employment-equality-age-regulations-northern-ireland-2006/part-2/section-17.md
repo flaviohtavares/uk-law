@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Barristers[^key-b11064120d4af5f93ff75f1517a3e8bf]
+## 17. Barristers[^c-b11064120d4af5f93ff75f1517a3e8bf]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b11064120d4af5f93ff75f1517a3e8bf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/261/regulation/17) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-b11064120d4af5f93ff75f1517a3e8bf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/261/regulation/17) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

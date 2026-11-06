@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4.[^key-1dce64657a12cf5e8262893cf8da5a58]
+## 4.[^c-1dce64657a12cf5e8262893cf8da5a58]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,12 +51,12 @@ For Articles 13 and 14 substitute—
 > - (a) fixing buying-in prices for the products referred to in Article 11; and
 > - (b) quantitative limitations where buying-in is carried out at a fixed price.
 >
-> Regulations under point (b) may provide for the quantitative limitation to be 0.[^key-ddbbe401c50f70fabeff17cdf35533f1]
+> Regulations under point (b) may provide for the quantitative limitation to be 0.[^c-ddbbe401c50f70fabeff17cdf35533f1]
 
 .
 
 ## Annotations
 
-[^key-1dce64657a12cf5e8262893cf8da5a58]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-1dce64657a12cf5e8262893cf8da5a58]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
-[^key-ddbbe401c50f70fabeff17cdf35533f1]: Textual amendment: Words in reg. 4 inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/2)
+[^c-ddbbe401c50f70fabeff17cdf35533f1]: Textual amendment: Words in reg. 4 inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/2)

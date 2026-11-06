@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16C. Temporary approvals etc pending review or appeal: modifications[^key-b47454a124af06c06f9bfb64a526325b]
+## 16C. Temporary approvals etc pending review or appeal: modifications[^c-b47454a124af06c06f9bfb64a526325b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b47454a124af06c06f9bfb64a526325b]: Textual amendment: Ss. 16A-16C inserted (5.7.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/1)[(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/3) (with [s. 131(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/2)); [S.I. 2021/799](https://www.legislation.gov.uk/uksi/2021/799), [reg. 2](https://www.legislation.gov.uk/uksi/2021/799/regulation/2)
+[^c-b47454a124af06c06f9bfb64a526325b]: Textual amendment: Ss. 16A-16C inserted (5.7.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/1)[(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/3) (with [s. 131(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/2)); [S.I. 2021/799](https://www.legislation.gov.uk/uksi/2021/799), [reg. 2](https://www.legislation.gov.uk/uksi/2021/799/regulation/2)

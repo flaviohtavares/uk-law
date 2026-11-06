@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Article 4 amended (interpretation)[^key-e9b3fb90eb4f057c270c2223e350be10]
+## 5. Article 4 amended (interpretation)[^c-e9b3fb90eb4f057c270c2223e350be10]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9b3fb90eb4f057c270c2223e350be10]: Commencement: Art. 5 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-e9b3fb90eb4f057c270c2223e350be10]: Commencement: Art. 5 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

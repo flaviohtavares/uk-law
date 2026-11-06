@@ -30,7 +30,7 @@ summary: ''
 
 SEEDS
 
-The Beet Seeds (Amendment) Regulations 1999 (revoked)[^key-44a701dc45bcaa54bfaa89a5856389df]
+The Beet Seeds (Amendment) Regulations 1999 (revoked)[^c-44a701dc45bcaa54bfaa89a5856389df]
 
 Made
 
@@ -44,32 +44,32 @@ Coming into force
 
 30th July 1999
 
-[^key-44a701dc45bcaa54bfaa89a5856389df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44a701dc45bcaa54bfaa89a5856389df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-44a701dc45bcaa54bfaa89a5856389df]
+## 1. Title and commencement[^c-44a701dc45bcaa54bfaa89a5856389df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-44a701dc45bcaa54bfaa89a5856389df]
+## 2. Interpretation[^c-44a701dc45bcaa54bfaa89a5856389df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Beet Seeds Regulations 1993[^key-44a701dc45bcaa54bfaa89a5856389df]
+## 3. Amendment of the Beet Seeds Regulations 1993[^c-44a701dc45bcaa54bfaa89a5856389df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-44a701dc45bcaa54bfaa89a5856389df]
+## 4. Transitional provisions[^c-44a701dc45bcaa54bfaa89a5856389df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44a701dc45bcaa54bfaa89a5856389df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44a701dc45bcaa54bfaa89a5856389df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-44a701dc45bcaa54bfaa89a5856389df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44a701dc45bcaa54bfaa89a5856389df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44a701dc45bcaa54bfaa89a5856389df]: Textual amendment: Regulations revoked: (E.) (31.1.2003) by [The Beet Seed (England) Regulations 2002 (S.I. 2002/3171)](https://www.legislation.gov.uk/uksi/2002/3171), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3171/regulation/1), [29(1)(a)](https://www.legislation.gov.uk/uksi/2002/3171/regulation/29/1/a) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2002/3171/regulation/29/2)); (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/uksi/2005/3037), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3037/regulation/1/2), [29(1)(a)](https://www.legislation.gov.uk/uksi/2005/3037/regulation/29/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3037/regulation/4)); and (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/148)](https://www.legislation.gov.uk/ssi/2010/148), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2010/148/schedule/8)
+[^c-44a701dc45bcaa54bfaa89a5856389df]: Textual amendment: Regulations revoked: (E.) (31.1.2003) by [The Beet Seed (England) Regulations 2002 (S.I. 2002/3171)](https://www.legislation.gov.uk/uksi/2002/3171), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3171/regulation/1), [29(1)(a)](https://www.legislation.gov.uk/uksi/2002/3171/regulation/29/1/a) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2002/3171/regulation/29/2)); (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/uksi/2005/3037), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3037/regulation/1/2), [29(1)(a)](https://www.legislation.gov.uk/uksi/2005/3037/regulation/29/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3037/regulation/4)); and (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/148)](https://www.legislation.gov.uk/ssi/2010/148), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2010/148/schedule/8)

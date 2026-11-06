@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Declaration on acceptance of office.[^key-fbc9b74c49e4c6d1d7975810f3b1e4d5]
+## 7. Declaration on acceptance of office.[^c-fbc9b74c49e4c6d1d7975810f3b1e4d5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbc9b74c49e4c6d1d7975810f3b1e4d5]: Modification: S. 7 applied (with modifications) (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/148/regulation/5/3)
+[^c-fbc9b74c49e4c6d1d7975810f3b1e4d5]: Modification: S. 7 applied (with modifications) (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/148/regulation/5/3)

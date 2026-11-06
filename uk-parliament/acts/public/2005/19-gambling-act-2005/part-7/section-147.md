@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Fees[^key-26ab80330a2f7baa9687c041f1182f45]
+## 147. Fees[^c-26ab80330a2f7baa9687c041f1182f45]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26ab80330a2f7baa9687c041f1182f45]: Textual amendment: S. 147 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 100](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/100) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-26ab80330a2f7baa9687c041f1182f45]: Textual amendment: S. 147 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 100](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/100) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

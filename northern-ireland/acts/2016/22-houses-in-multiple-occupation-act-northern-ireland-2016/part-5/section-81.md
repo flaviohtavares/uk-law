@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Application by person required to take action where consent withheld[^key-60df4bdfed5a1a350ec80d58ee1d71f7]
+## 81. Application by person required to take action where consent withheld[^c-60df4bdfed5a1a350ec80d58ee1d71f7]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60df4bdfed5a1a350ec80d58ee1d71f7]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2016/22/section/81) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-60df4bdfed5a1a350ec80d58ee1d71f7]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2016/22/section/81) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

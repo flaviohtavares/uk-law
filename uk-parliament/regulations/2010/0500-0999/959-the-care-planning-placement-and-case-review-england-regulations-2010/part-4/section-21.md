@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In this Chapter “**registered person**” has the same meaning as in the Fostering Services Regulations[^key-65d291f97ffcad219b8c2b9ed5758238].
+(1) In this Chapter “**registered person**” has the same meaning as in the Fostering Services Regulations[^c-65d291f97ffcad219b8c2b9ed5758238].
 
 (2) Where C is placed jointly with two persons each of whom is approved as a local authority foster parent, any reference in these Regulations to a local authority foster parent is to be interpreted as referring equally to both such persons and any requirement to be satisfied by or relating to a particular local authority foster parent must be satisfied by, or treated as relating to, both of them.
 
 ## Annotations
 
-[^key-65d291f97ffcad219b8c2b9ed5758238]: Textual amendment: Words in reg. 21(1) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(3)(iii)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/3/iii) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))
+[^c-65d291f97ffcad219b8c2b9ed5758238]: Textual amendment: Words in reg. 21(1) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(3)(iii)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/3/iii) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))

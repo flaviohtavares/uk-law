@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Best value: minor and consequential amendments[^key-9b6a155d70996a9334ca93aff54e7410]
+## 144. Best value: minor and consequential amendments[^c-9b6a155d70996a9334ca93aff54e7410]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b6a155d70996a9334ca93aff54e7410]: Commencement: S. 144 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-9b6a155d70996a9334ca93aff54e7410]: Commencement: S. 144 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)

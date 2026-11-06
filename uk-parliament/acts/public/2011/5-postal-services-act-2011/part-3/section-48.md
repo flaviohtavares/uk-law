@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Notification by postal operators[^key-e85c3629f21c76a1a0be20b0d51cd7e0]
+## 48. Notification by postal operators[^c-e85c3629f21c76a1a0be20b0d51cd7e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ as are set out in the notice for the time being in force under subsection (7).
 
 ## Annotations
 
-[^key-e85c3629f21c76a1a0be20b0d51cd7e0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/5/section/48) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e85c3629f21c76a1a0be20b0d51cd7e0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/5/section/48) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

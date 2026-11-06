@@ -44,7 +44,7 @@ summary: ''
 
 .
 
-(5)[^key-266faf745f6badf8e065fcb24da3d135] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-266faf745f6badf8e065fcb24da3d135] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In the entries for the County Courts Act 1984 (c. 28) insert in the appropriate place—
 
@@ -105,4 +105,4 @@ summary: ''
 
 [^c20685291]: Commencement: S. 144 partly in force; s. 144 not in force at Royal Assent see s. 148; s. 144(1)(5)(7) in force at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2](https://www.legislation.gov.uk/uksi/2007/2709/article/2)
 
-[^key-266faf745f6badf8e065fcb24da3d135]: Textual amendment: [S. 144(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/144/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 35(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/35/7); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-266faf745f6badf8e065fcb24da3d135]: Textual amendment: [S. 144(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/144/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 35(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/35/7); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

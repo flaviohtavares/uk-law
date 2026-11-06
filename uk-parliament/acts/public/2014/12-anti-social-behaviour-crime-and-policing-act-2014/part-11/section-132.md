@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Establishment of Police Remuneration Review Body[^key-f196b1225ccb6e403cf2de0f43e8afb4]
+## 132. Establishment of Police Remuneration Review Body[^c-f196b1225ccb6e403cf2de0f43e8afb4]
 
 *Extent: E+W+N.I.*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f196b1225ccb6e403cf2de0f43e8afb4]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2014/12/section/132) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
+[^c-f196b1225ccb6e403cf2de0f43e8afb4]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2014/12/section/132) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)

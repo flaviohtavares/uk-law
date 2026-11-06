@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Statutory undertakers[^key-f1129d5afabe15d95443441660c9fcc6]
+## 27. Statutory undertakers[^c-f1129d5afabe15d95443441660c9fcc6]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Subject to article 16(4), the undertaker may—
 
 ## Annotations
 
-[^key-f1129d5afabe15d95443441660c9fcc6]: Commencement: Art. 27 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f1129d5afabe15d95443441660c9fcc6]: Commencement: Art. 27 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

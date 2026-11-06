@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Reporting of assertions: supplementary[^key-4afb2678543529e65a06a70fc67f4389]
+## 41. Reporting of assertions: supplementary[^c-4afb2678543529e65a06a70fc67f4389]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4afb2678543529e65a06a70fc67f4389]: Commencement: S. 41 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4afb2678543529e65a06a70fc67f4389]: Commencement: S. 41 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

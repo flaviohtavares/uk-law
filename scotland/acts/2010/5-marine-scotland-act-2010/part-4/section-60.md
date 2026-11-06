@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Power to test and charge for testing certain substances[^key-2e18a8a2f1b73970e41d43e902c40740]
+## 60. Power to test and charge for testing certain substances[^c-2e18a8a2f1b73970e41d43e902c40740]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e18a8a2f1b73970e41d43e902c40740]: Commencement: S. 60 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-2e18a8a2f1b73970e41d43e902c40740]: Commencement: S. 60 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

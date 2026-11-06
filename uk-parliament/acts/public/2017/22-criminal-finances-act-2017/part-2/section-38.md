@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Forfeiture of terrorist cash[^key-ad2be5858e46bdda83748c45292ab2fd][^key-8de542f2088d2feed726e41e544268c4][^c22725411]
+## 38. Forfeiture of terrorist cash[^c-ad2be5858e46bdda83748c45292ab2fd][^c-8de542f2088d2feed726e41e544268c4][^c22725411]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,8 +223,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ad2be5858e46bdda83748c45292ab2fd]: Commencement: S. 38(4) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/d)
+[^c-ad2be5858e46bdda83748c45292ab2fd]: Commencement: S. 38(4) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/d)
 
-[^key-8de542f2088d2feed726e41e544268c4]: Commencement: S. 38 in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-8de542f2088d2feed726e41e544268c4]: Commencement: S. 38 in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
 [^c22725411]: Commencement: S. 38 in force at Royal Assent for specified purposes, see s. 58

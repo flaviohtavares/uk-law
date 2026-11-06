@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — STREETS TO BE TEMPORARILY STOPPED UP[^key-283ff5d544a59339dae69978a73007c1]
+## SCHEDULE 4 — STREETS TO BE TEMPORARILY STOPPED UP[^c-283ff5d544a59339dae69978a73007c1]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ Article 8
 
 ## Annotations
 
-[^key-283ff5d544a59339dae69978a73007c1]: Commencement: Sch. 4 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-283ff5d544a59339dae69978a73007c1]: Commencement: Sch. 4 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

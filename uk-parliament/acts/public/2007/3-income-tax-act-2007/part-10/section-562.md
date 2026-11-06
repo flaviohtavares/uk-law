@@ -33,8 +33,8 @@ summary: ''
 - (c) the charitable trust's attributable income and gains for the tax year (see section 540), and
 - (d) any non-taxable sums received by the charitable trust in the tax year.
 
-(5) In subsection (4) “**non-taxable sums**” means donations [^key-5d3b09eee6034b18002191f4fd83eaff]... and other sums of a similar nature which, ignoring exemptions from income tax under this Part and from capital gains tax under section 256 of TCGA 1992, are not liable to income tax or capital gains tax.
+(5) In subsection (4) “**non-taxable sums**” means donations [^c-5d3b09eee6034b18002191f4fd83eaff]... and other sums of a similar nature which, ignoring exemptions from income tax under this Part and from capital gains tax under section 256 of TCGA 1992, are not liable to income tax or capital gains tax.
 
 ## Annotations
 
-[^key-5d3b09eee6034b18002191f4fd83eaff]: Textual amendment: Word in s. 562(5) omitted (with effect in accordance with s. 54(10) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/4)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)
+[^c-5d3b09eee6034b18002191f4fd83eaff]: Textual amendment: Word in s. 562(5) omitted (with effect in accordance with s. 54(10) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/4)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)

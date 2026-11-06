@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application for a sight test[^key-cf084bc36e356424860d2d0bfb39f2c9]
+## 6. Application for a sight test[^c-cf084bc36e356424860d2d0bfb39f2c9]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cf084bc36e356424860d2d0bfb39f2c9]: Commencement: Reg. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-cf084bc36e356424860d2d0bfb39f2c9]: Commencement: Reg. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00015]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

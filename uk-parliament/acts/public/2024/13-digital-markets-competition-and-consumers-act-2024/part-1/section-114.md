@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Guidance[^key-71ccbd25d964d6b40a4c5376e6c9ceb3][^key-2cb9314ec7e3659ea1d43f42bff3a7a4]
+## 114. Guidance[^c-71ccbd25d964d6b40a4c5376e6c9ceb3][^c-2cb9314ec7e3659ea1d43f42bff3a7a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71ccbd25d964d6b40a4c5376e6c9ceb3]: Commencement: S. 114 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-71ccbd25d964d6b40a4c5376e6c9ceb3]: Commencement: S. 114 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2cb9314ec7e3659ea1d43f42bff3a7a4]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2024/13/section/114) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-2cb9314ec7e3659ea1d43f42bff3a7a4]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2024/13/section/114) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

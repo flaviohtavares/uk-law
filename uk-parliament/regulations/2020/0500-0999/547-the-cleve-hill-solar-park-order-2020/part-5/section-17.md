@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Time limit for exercise of authority to acquire land compulsorily[^key-66b3365ba4b82e568b64c4758fc122a9]
+## 17. Time limit for exercise of authority to acquire land compulsorily[^c-66b3365ba4b82e568b64c4758fc122a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66b3365ba4b82e568b64c4758fc122a9]: Commencement: Art. 17 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-66b3365ba4b82e568b64c4758fc122a9]: Commencement: Art. 17 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

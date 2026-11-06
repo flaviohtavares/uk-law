@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Eligible child’s pension[^key-89f4ebf0733e35247913a20ed5e1431c]
+## 104. Eligible child’s pension[^c-89f4ebf0733e35247913a20ed5e1431c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89f4ebf0733e35247913a20ed5e1431c]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2015/182/regulation/104) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-89f4ebf0733e35247913a20ed5e1431c]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2015/182/regulation/104) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

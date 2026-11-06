@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278B. Quotas: meaning of “qualifying audiovisual content” etc[^key-5de2a0faa79cf013e6e1d7ca0641e9cb]
+## 278B. Quotas: meaning of “qualifying audiovisual content” etc[^c-5de2a0faa79cf013e6e1d7ca0641e9cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5de2a0faa79cf013e6e1d7ca0641e9cb]: Textual amendment: [S. 278B](https://www.legislation.gov.uk/ukpga/2003/21/section/278B) inserted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 11](https://www.legislation.gov.uk/ukpga/2024/15/section/11), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/k)
+[^c-5de2a0faa79cf013e6e1d7ca0641e9cb]: Textual amendment: [S. 278B](https://www.legislation.gov.uk/ukpga/2003/21/section/278B) inserted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 11](https://www.legislation.gov.uk/ukpga/2024/15/section/11), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/k)

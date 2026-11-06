@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Effect of correction[^key-b9b238e3f23b6da77024df58909045c8]
+## 58. Effect of correction[^c-b9b238e3f23b6da77024df58909045c8]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b238e3f23b6da77024df58909045c8]: Commencement: S. 58 in force at 28.9.2004 by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
+[^c-b9b238e3f23b6da77024df58909045c8]: Commencement: S. 58 in force at 28.9.2004 by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)

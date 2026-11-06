@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2001 (revoked)[^key-7c32055f719adbf236d0a88f7930634c]
+Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2001 (revoked)[^c-7c32055f719adbf236d0a88f7930634c]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 1st June 2001
 
-[^key-7c32055f719adbf236d0a88f7930634c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c32055f719adbf236d0a88f7930634c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Commencement and citation[^key-7c32055f719adbf236d0a88f7930634c]
+## 1. Commencement and citation[^c-7c32055f719adbf236d0a88f7930634c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7c32055f719adbf236d0a88f7930634c]
+## 2. Interpretation[^c-7c32055f719adbf236d0a88f7930634c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-7c32055f719adbf236d0a88f7930634c]
+## 3. Application[^c-7c32055f719adbf236d0a88f7930634c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees — application for Department’s approval certificate[^key-7c32055f719adbf236d0a88f7930634c]
+## 4. Fees — application for Department’s approval certificate[^c-7c32055f719adbf236d0a88f7930634c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7c32055f719adbf236d0a88f7930634c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7c32055f719adbf236d0a88f7930634c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees — general provisions[^key-7c32055f719adbf236d0a88f7930634c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. Fees — replacement certificates[^key-7c32055f719adbf236d0a88f7930634c]
+## 6. Fees — general provisions[^c-7c32055f719adbf236d0a88f7930634c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Provisions as to notices[^key-7c32055f719adbf236d0a88f7930634c]
+## 7. Fees — replacement certificates[^c-7c32055f719adbf236d0a88f7930634c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c32055f719adbf236d0a88f7930634c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 8. Provisions as to notices[^c-7c32055f719adbf236d0a88f7930634c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7c32055f719adbf236d0a88f7930634c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c32055f719adbf236d0a88f7930634c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c32055f719adbf236d0a88f7930634c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c32055f719adbf236d0a88f7930634c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/170) revoked (31.3.2004) by [Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2004 (S.R. 2004/65)](https://www.legislation.gov.uk/nisr/2004/65), [regs. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1), [9(1)](https://www.legislation.gov.uk/nisr/2004/65/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2004/65/regulation/9/2))
+[^c-7c32055f719adbf236d0a88f7930634c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/170) revoked (31.3.2004) by [Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2004 (S.R. 2004/65)](https://www.legislation.gov.uk/nisr/2004/65), [regs. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1), [9(1)](https://www.legislation.gov.uk/nisr/2004/65/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2004/65/regulation/9/2))

@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 (revoked)[^key-7ad482a89b64b83a470551818f5a6915]
+The Social Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 (revoked)[^c-7ad482a89b64b83a470551818f5a6915]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st October 2002
 
-[^key-7ad482a89b64b83a470551818f5a6915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad482a89b64b83a470551818f5a6915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7ad482a89b64b83a470551818f5a6915]
+## 1. Citation, commencement and interpretation[^c-7ad482a89b64b83a470551818f5a6915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Fund (Applications) Regulations[^key-7ad482a89b64b83a470551818f5a6915]
+## 2. Amendment of the Social Fund (Applications) Regulations[^c-7ad482a89b64b83a470551818f5a6915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^key-7ad482a89b64b83a470551818f5a6915]
+## 3. Amendment of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^c-7ad482a89b64b83a470551818f5a6915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ad482a89b64b83a470551818f5a6915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad482a89b64b83a470551818f5a6915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ad482a89b64b83a470551818f5a6915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad482a89b64b83a470551818f5a6915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ad482a89b64b83a470551818f5a6915]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/284) revoked (1.10.2008) by [The Social Fund (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/357)](https://www.legislation.gov.uk/nisr/2008/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/357/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2008/357/regulation/9/c)
+[^c-7ad482a89b64b83a470551818f5a6915]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/284) revoked (1.10.2008) by [The Social Fund (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/357)](https://www.legislation.gov.uk/nisr/2008/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/357/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2008/357/regulation/9/c)

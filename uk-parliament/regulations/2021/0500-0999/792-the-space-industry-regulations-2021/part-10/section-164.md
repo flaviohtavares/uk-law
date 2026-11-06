@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Spaceport manual requirement[^key-cb68000e710c2c747f0e42067fab1cc7]
+## 164. Spaceport manual requirement[^c-cb68000e710c2c747f0e42067fab1cc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb68000e710c2c747f0e42067fab1cc7]: Commencement: Reg. 164 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-cb68000e710c2c747f0e42067fab1cc7]: Commencement: Reg. 164 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00049]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765). Article 212 was amended by [S.I. 2019/645](https://www.legislation.gov.uk/uksi/2019/645).

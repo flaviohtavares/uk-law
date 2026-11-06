@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Status of evidence given under Chapter I.[^c9545881][^key-477d2159f13ec8f25f399839c7a14442]
+## 31. Status of evidence given under Chapter I.[^c9545881][^c-477d2159f13ec8f25f399839c7a14442]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ he shall be guilty of an offence and liable to any punishment which might be imp
 
 [^c9545881]: Commencement: S. 31 wholly in force at 24.7.2002; Pt. II Chs. 1-4 (ss. 16-52) in force for certain purposes at Royal Assent, see s. 68(4); s. 31 in force in so far as not already in force at 24.7.2002 by [S.I. 2002/1739](https://www.legislation.gov.uk/uksi/2002/1739), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/1739/article/2/b)
 
-[^key-477d2159f13ec8f25f399839c7a14442]: Modification: S. 31 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2083/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2083/article/4)
+[^c-477d2159f13ec8f25f399839c7a14442]: Modification: S. 31 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2083/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2083/article/4)
 
 [^c9545891]: Marginal citation: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).

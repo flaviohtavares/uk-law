@@ -36,24 +36,24 @@ implementing Regulation (EC) No 1185/2009 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f8a8232acfa5e5da4d543d9e88e41457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8a8232acfa5e5da4d543d9e88e41457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f8a8232acfa5e5da4d543d9e88e41457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f8a8232acfa5e5da4d543d9e88e41457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f8a8232acfa5e5da4d543d9e88e41457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f8a8232acfa5e5da4d543d9e88e41457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f8a8232acfa5e5da4d543d9e88e41457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f8a8232acfa5e5da4d543d9e88e41457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8a8232acfa5e5da4d543d9e88e41457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8a8232acfa5e5da4d543d9e88e41457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Statistical data structure on the placing on the market of pesticides[^key-f8a8232acfa5e5da4d543d9e88e41457]
+## ANNEX I — Statistical data structure on the placing on the market of pesticides[^c-f8a8232acfa5e5da4d543d9e88e41457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Statistical data structure on the agricultural use of pesticides[^key-f8a8232acfa5e5da4d543d9e88e41457]
+## ANNEX II — Statistical data structure on the agricultural use of pesticides[^c-f8a8232acfa5e5da4d543d9e88e41457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8a8232acfa5e5da4d543d9e88e41457]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 190](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/190); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8a8232acfa5e5da4d543d9e88e41457]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 190](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/190); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

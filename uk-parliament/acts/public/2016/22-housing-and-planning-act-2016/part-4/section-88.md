@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Interaction with other legislation and consequential amendments[^key-a1db244e485e3c961b2f0ccfdd3ec5c4]
+## 88. Interaction with other legislation and consequential amendments[^c-a1db244e485e3c961b2f0ccfdd3ec5c4]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1db244e485e3c961b2f0ccfdd3ec5c4]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2016/22/section/88) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-a1db244e485e3c961b2f0ccfdd3ec5c4]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2016/22/section/88) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

@@ -32,7 +32,7 @@ summary: ''
 
 Mental Capacity, England And Wales
 
-The Court of Protection (Amendment) Rules 2011 (revoked)[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]
+The Court of Protection (Amendment) Rules 2011 (revoked)[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 12th December 2011
 
-[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]
+## 1. Citation, commencement and interpretation[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8ab8944bd23cc1562d3a4d81f6ecfb88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8ab8944bd23cc1562d3a4d81f6ecfb88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Court of Protection Rules 2007[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]
+## 3. Amendment to the Court of Protection Rules 2007[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ab8944bd23cc1562d3a4d81f6ecfb88]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2011/2753) revoked (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rule 24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/1035/schedule)
+[^c-8ab8944bd23cc1562d3a4d81f6ecfb88]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2011/2753) revoked (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rule 24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/1035/schedule)

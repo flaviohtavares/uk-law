@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Regulations [^key-68ae4aa69dac4cbe0b5876f087f26fb6]... 198, 199, 200, 201, 202 and 210 are subject to the transitional provisions set out in Schedule 33 (transitional arrangements: pharmacovigilance).
+Regulations [^c-68ae4aa69dac4cbe0b5876f087f26fb6]... 198, 199, 200, 201, 202 and 210 are subject to the transitional provisions set out in Schedule 33 (transitional arrangements: pharmacovigilance).
 
 ## Annotations
 
-[^key-68ae4aa69dac4cbe0b5876f087f26fb6]: Textual amendment: Words in reg. 212 omitted (31.12.2020) by virtue of [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 177](https://www.legislation.gov.uk/uksi/2019/775/regulation/177) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 139](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/139))
+[^c-68ae4aa69dac4cbe0b5876f087f26fb6]: Textual amendment: Words in reg. 212 omitted (31.12.2020) by virtue of [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 177](https://www.legislation.gov.uk/uksi/2019/775/regulation/177) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 139](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/139))

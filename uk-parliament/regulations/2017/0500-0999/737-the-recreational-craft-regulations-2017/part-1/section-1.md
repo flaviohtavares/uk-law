@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-82fbf360d20f3d900d1f49a6864b38d7]
+## 1. Citation and commencement[^c-82fbf360d20f3d900d1f49a6864b38d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Recreational Craft Regulations 2017 and co
 
 ## Annotations
 
-[^key-82fbf360d20f3d900d1f49a6864b38d7]: Commencement: Reg. 1 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-82fbf360d20f3d900d1f49a6864b38d7]: Commencement: Reg. 1 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

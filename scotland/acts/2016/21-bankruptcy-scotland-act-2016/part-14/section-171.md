@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Registration for protected status[^key-e24bd2c510aa5407cd54a3a44d8f2ac0]
+## 171. Registration for protected status[^c-e24bd2c510aa5407cd54a3a44d8f2ac0]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 (2) AiB must register the trust deed in the register of insolvencies if—
 
 - (a) AiB has received all the documents required to be sent under subsection (1),
-- (b) AiB is satisfied that[^key-78d623d485e1e02dfc53c5280804bf2c] the conditions set out in sections 164 to 170 have been met, and
+- (b) AiB is satisfied that[^c-78d623d485e1e02dfc53c5280804bf2c] the conditions set out in sections 164 to 170 have been met, and
 - (c) AiB is satisfied, in accordance with the common financial tool, with the amount of the contribution determined.
 
 (3) Subsection (4) applies where AiB notifies the trustee either—
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e24bd2c510aa5407cd54a3a44d8f2ac0]: Commencement: S. 171 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e24bd2c510aa5407cd54a3a44d8f2ac0]: Commencement: S. 171 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^M_F_6df4cd61-8f01-4b8d-a2db-6f89a4df8f90]: Textual amendment: S. 171(1)(i) inserted (30.11.2016) by S.S.I 2016/398, reg. 2(4)
 
-[^key-78d623d485e1e02dfc53c5280804bf2c]: Textual amendment: Words in [s. 171(2)(b)](https://www.legislation.gov.uk/asp/2016/21/section/171/2/b) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/3/2)
+[^c-78d623d485e1e02dfc53c5280804bf2c]: Textual amendment: Words in [s. 171(2)(b)](https://www.legislation.gov.uk/asp/2016/21/section/171/2/b) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/3/2)

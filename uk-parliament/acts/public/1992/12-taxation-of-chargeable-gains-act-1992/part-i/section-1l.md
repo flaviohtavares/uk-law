@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1L. Increasing annual exempt amount to reflect increases in CPI[^key-d61716a6e04d76268a42501036fa8aad][^key-da0f5254239fccc0f188477087b3064b]
+## 1L. Increasing annual exempt amount to reflect increases in CPI[^c-d61716a6e04d76268a42501036fa8aad][^c-da0f5254239fccc0f188477087b3064b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d61716a6e04d76268a42501036fa8aad]: Textual amendment: [S. 1L](https://www.legislation.gov.uk/ukpga/1992/12/section/1L) omitted (for the tax year 2023-24 and subsequent tax years) by virtue of [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 8(6)(9)](https://www.legislation.gov.uk/ukpga/2023/1/section/8/6/9)
+[^c-d61716a6e04d76268a42501036fa8aad]: Textual amendment: [S. 1L](https://www.legislation.gov.uk/ukpga/1992/12/section/1L) omitted (for the tax year 2023-24 and subsequent tax years) by virtue of [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 8(6)(9)](https://www.legislation.gov.uk/ukpga/2023/1/section/8/6/9)
 
-[^key-da0f5254239fccc0f188477087b3064b]: Modification: [S. 1L](https://www.legislation.gov.uk/ukpga/1992/12/section/1L) excluded (6.4.2021 for the tax years 2021-22, 2022-23, 2023-24, 2024-25 and 2025-26) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 40](https://www.legislation.gov.uk/ukpga/2021/26/section/40)
+[^c-da0f5254239fccc0f188477087b3064b]: Modification: [S. 1L](https://www.legislation.gov.uk/ukpga/1992/12/section/1L) excluded (6.4.2021 for the tax years 2021-22, 2022-23, 2023-24, 2024-25 and 2025-26) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 40](https://www.legislation.gov.uk/ukpga/2021/26/section/40)

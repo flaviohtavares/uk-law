@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Benefit offences: sanctions for repeated benefit fraud[^key-8ad3f69d6820e0eb67f35cf034fab98a][^key-aee446a81d76eae19612071ddc1e9a7a]
+## 118. Benefit offences: sanctions for repeated benefit fraud[^c-8ad3f69d6820e0eb67f35cf034fab98a][^c-aee446a81d76eae19612071ddc1e9a7a]
 
 *Extent: N.I.*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad3f69d6820e0eb67f35cf034fab98a]: Commencement: [Art. 118](https://www.legislation.gov.uk/nisi/2015/2006/article/118) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/d)
+[^c-8ad3f69d6820e0eb67f35cf034fab98a]: Commencement: [Art. 118](https://www.legislation.gov.uk/nisi/2015/2006/article/118) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/d)
 
-[^key-aee446a81d76eae19612071ddc1e9a7a]: Commencement: [Art. 118](https://www.legislation.gov.uk/nisi/2015/2006/article/118) in operation at 9.9.2016 in so far as not already in operation by [S.R. 2016/325](https://www.legislation.gov.uk/nisr/2016/325), [art. 2(3)](https://www.legislation.gov.uk/nisr/2016/325/article/2/3)
+[^c-aee446a81d76eae19612071ddc1e9a7a]: Commencement: [Art. 118](https://www.legislation.gov.uk/nisi/2015/2006/article/118) in operation at 9.9.2016 in so far as not already in operation by [S.R. 2016/325](https://www.legislation.gov.uk/nisr/2016/325), [art. 2(3)](https://www.legislation.gov.uk/nisr/2016/325/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Deductions for pension payment and PPF payment[^key-4a1a5bfd69135c0e5914b0f7c4415f13]
+## 74. Deductions for pension payment and PPF payment[^c-4a1a5bfd69135c0e5914b0f7c4415f13]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ the amount of that allowance is to be reduced by an amount equal to 50 per cent.
 
 ## Annotations
 
-[^key-4a1a5bfd69135c0e5914b0f7c4415f13]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2008/280/regulation/74) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-4a1a5bfd69135c0e5914b0f7c4415f13]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2008/280/regulation/74) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

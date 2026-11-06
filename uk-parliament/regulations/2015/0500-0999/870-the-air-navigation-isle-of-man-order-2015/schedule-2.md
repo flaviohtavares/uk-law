@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-### PART 1 — Classification of aircraft[^key-077f083b3b81bf666592743e8bf30e89]
+### PART 1 — Classification of aircraft[^c-077f083b3b81bf666592743e8bf30e89]
 
 Articles 6(1)(b) and 167(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Conditions in aircraft dealer’s certificate[^key-79ec3e0d9d692a1a497bae05f6bf6d66]
+### PART 2 — Conditions in aircraft dealer’s certificate[^c-79ec3e0d9d692a1a497bae05f6bf6d66]
 
 Article 6(5)(b) and 6(6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Nationality and registration marks of aircraft registered in the Isle of Man[^key-df7dd086cf331c55ae11acc402117174]
+### PART 3 — Nationality and registration marks of aircraft registered in the Isle of Man[^c-df7dd086cf331c55ae11acc402117174]
 
 Article 10(2)
 
@@ -40,8 +40,8 @@ Article 10(2)
 
 ## Annotations
 
-[^key-077f083b3b81bf666592743e8bf30e89]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/2/part/1) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 11(a)](https://www.legislation.gov.uk/uksi/2022/172/article/11/a)
+[^c-077f083b3b81bf666592743e8bf30e89]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/2/part/1) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 11(a)](https://www.legislation.gov.uk/uksi/2022/172/article/11/a)
 
-[^key-79ec3e0d9d692a1a497bae05f6bf6d66]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/2/part/2) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 11(b)](https://www.legislation.gov.uk/uksi/2022/172/article/11/b)
+[^c-79ec3e0d9d692a1a497bae05f6bf6d66]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/2/part/2) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 11(b)](https://www.legislation.gov.uk/uksi/2022/172/article/11/b)
 
-[^key-df7dd086cf331c55ae11acc402117174]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/2/part/3) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 11(b)](https://www.legislation.gov.uk/uksi/2022/172/article/11/b)
+[^c-df7dd086cf331c55ae11acc402117174]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/2/part/3) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 11(b)](https://www.legislation.gov.uk/uksi/2022/172/article/11/b)

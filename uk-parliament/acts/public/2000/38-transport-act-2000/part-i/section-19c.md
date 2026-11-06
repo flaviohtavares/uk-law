@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19C. Determination of appeal[^key-a46810a689b67a34fa8947b2a0d8c2a5]
+## 19C. Determination of appeal[^c-a46810a689b67a34fa8947b2a0d8c2a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a46810a689b67a34fa8947b2a0d8c2a5]: Textual amendment: Ss. 19A-19F and cross-heading inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/f)
+[^c-a46810a689b67a34fa8947b2a0d8c2a5]: Textual amendment: Ss. 19A-19F and cross-heading inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/f)

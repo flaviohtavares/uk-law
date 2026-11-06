@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Contract providing for conveyance to third party: effect of transfer of rights[^key-f43f704236c44c1d3c2685f36c6c7083]
+## 45A. Contract providing for conveyance to third party: effect of transfer of rights[^c-f43f704236c44c1d3c2685f36c6c7083]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,12 +64,12 @@ References in the following provisions of this section to a transfer of rights a
 - (a) references in Schedule 7 (group relief) to the vendor shall be read as references to A;
 - (b) other references in this Part to the vendor shall be read, where the context permits, as referring to either A or B.
 
-(10) Section 1122 of the Corporation Tax Act 2010[^key-679ff13e8f0b2b1a81b86877713c3403] (connected persons) applies for the purposes of subsection (3)(b).
+(10) Section 1122 of the Corporation Tax Act 2010[^c-679ff13e8f0b2b1a81b86877713c3403] (connected persons) applies for the purposes of subsection (3)(b).
 
 (11) In this section “**contract**” includes any agreement.
 
 ## Annotations
 
-[^key-f43f704236c44c1d3c2685f36c6c7083]: Textual amendment: S. 45A inserted (with effect in accordance with Sch. 39 para. 13(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 5(5)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/5/5)
+[^c-f43f704236c44c1d3c2685f36c6c7083]: Textual amendment: S. 45A inserted (with effect in accordance with Sch. 39 para. 13(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 5(5)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/5/5)
 
-[^key-679ff13e8f0b2b1a81b86877713c3403]: Textual amendment: Words in s. 45A(10) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 403](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/403) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-679ff13e8f0b2b1a81b86877713c3403]: Textual amendment: Words in s. 45A(10) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 403](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/403) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Procedure for first regulations under section 39: explanatory document[^key-4aba91c336199443aac8ecc128d02b8b][^key-6c0580afbc92004cb0c229972d4ea158]
+## 42. Procedure for first regulations under section 39: explanatory document[^c-4aba91c336199443aac8ecc128d02b8b][^c-6c0580afbc92004cb0c229972d4ea158]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4aba91c336199443aac8ecc128d02b8b]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/18/section/42) in force at 17.5.2018 for specified purposes by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 2](https://www.legislation.gov.uk/ssi/2018/138/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2018/138/schedule/1)
+[^c-4aba91c336199443aac8ecc128d02b8b]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/18/section/42) in force at 17.5.2018 for specified purposes by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 2](https://www.legislation.gov.uk/ssi/2018/138/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2018/138/schedule/1)
 
-[^key-6c0580afbc92004cb0c229972d4ea158]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/18/section/42) in force at 10.1.2020 in so far as not already in force by [S.S.I. 2019/420](https://www.legislation.gov.uk/ssi/2019/420), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/420/regulation/2/b)
+[^c-6c0580afbc92004cb0c229972d4ea158]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/18/section/42) in force at 10.1.2020 in so far as not already in force by [S.S.I. 2019/420](https://www.legislation.gov.uk/ssi/2019/420), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/420/regulation/2/b)

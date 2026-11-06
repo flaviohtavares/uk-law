@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.143. Trustee deceased[^key-304ebf88bbbaf01d70151190ee1b49c1]
+## 6.143. Trustee deceased[^c-304ebf88bbbaf01d70151190ee1b49c1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ This does not apply if notice has been given under any of the following paragrap
 
 ## Annotations
 
-[^key-304ebf88bbbaf01d70151190ee1b49c1]: Commencement: [Rule 6.143](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.143) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-304ebf88bbbaf01d70151190ee1b49c1]: Commencement: [Rule 6.143](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.143) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Incorporation of Railways Clauses Acts[^key-fe57eb5f8ef30d14106c6d660a5f80a6]
+## 3. Incorporation of Railways Clauses Acts[^c-fe57eb5f8ef30d14106c6d660a5f80a6]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fe57eb5f8ef30d14106c6d660a5f80a6]: Commencement: Art. 3 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-fe57eb5f8ef30d14106c6d660a5f80a6]: Commencement: Art. 3 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00011]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 

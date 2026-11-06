@@ -174,7 +174,7 @@ Provisions applying to sentencing courts generally
 - [Section 55 — Duty to give reasons where compensation order not made](part-3/section-55.md)
 - [Section 56 — Other duties of court to give reasons where certain orders not made](part-3/section-56.md)
 
-##### Chapter 6 — Finding of domestic abuse[^key-dfe0528a402db7dbe65c5080cc569a3d]
+##### Chapter 6 — Finding of domestic abuse[^c-dfe0528a402db7dbe65c5080cc569a3d]
 
 - [Section 56A — Finding of domestic abuse](part-3/section-56a.md)
 
@@ -397,7 +397,7 @@ Disposals
 - [Section 160 — Orders for forfeiture etc under other Acts](part-7/section-160.md)
 - [Section 161 — Confiscation orders under other Acts](part-7/section-161.md)
 
-##### Chapter 5 — Income reduction orders[^key-c035d2e2fca4c1b0c7f595e6ef5f515d]
+##### Chapter 5 — Income reduction orders[^c-c035d2e2fca4c1b0c7f595e6ef5f515d]
 
 - [Section 161A — Income reduction order](part-7/section-161a.md)
 - [Section 161B — Determining the amount payable under an income reduction order](part-7/section-161b.md)
@@ -550,7 +550,7 @@ Disposals
 - [Section 217B — Powers on review](part-9/section-217b.md)
 - [Section 217C — Alteration of review arrangements](part-9/section-217c.md)
 
-###### Breach, revocation , termination or amendment of community order[^key-a1dfdd5cc5ad526653d70a529faefa17]
+###### Breach, revocation , termination or amendment of community order[^c-a1dfdd5cc5ad526653d70a529faefa17]
 
 - [Section 218 — Breach, revocation , termination or amendment of community order](part-9/section-218.md)
 
@@ -628,11 +628,11 @@ Disposals
 - [Section 251 — Exercise of power to impose sentence of detention under section 250](part-10/section-251.md)
 - [Section 252 — Maximum sentence](part-10/section-252.md)
 
-###### Special custodial sentence for certain offenders[^key-76b16ec28f15c87ebf1fc317cd775253][^key-ae5cf818ed855d7683a6bd04ba9ef9f9]
+###### Special custodial sentence for certain offenders[^c-76b16ec28f15c87ebf1fc317cd775253][^c-ae5cf818ed855d7683a6bd04ba9ef9f9]
 
 - [Section 252A — Required special sentence of detention for certain offenders of particular concern](part-10/section-252a.md)
 
-###### Sentences of detention passed during detention and training order[^key-2f5ebb04d2b4b50540c4634a81d5d529]
+###### Sentences of detention passed during detention and training order[^c-2f5ebb04d2b4b50540c4634a81d5d529]
 
 - [Section 253 — Sentence of detention passed on offender subject to detention and training order](part-10/section-253.md)
 
@@ -678,7 +678,7 @@ Disposals
 - [Section 267 — Extended sentence of detention in a young offender institution: availability](part-10/section-267.md)
 - [Section 268 — Term of extended sentence of detention in a young offender institution](part-10/section-268.md)
 
-###### Serious terrorism sentence[^key-43b173ed9fa9399a1ed87ccc850879ce]
+###### Serious terrorism sentence[^c-43b173ed9fa9399a1ed87ccc850879ce]
 
 - [Section 268A — Serious terrorism sentence of detention in a young offender institution](part-10/section-268a.md)
 - [Section 268B — Serious terrorism sentence of detention in a young offender institution: circumstances in which required](part-10/section-268b.md)
@@ -722,7 +722,7 @@ Disposals
 - [Section 281 — Term of extended sentence of imprisonment](part-10/section-281.md)
 - [Section 282 — Extended sentences for offences committed before 4 April 2005](part-10/section-282.md)
 
-###### Serious terrorism sentence[^key-8588c5b67fef43aacfb359bbdbfa92f3]
+###### Serious terrorism sentence[^c-8588c5b67fef43aacfb359bbdbfa92f3]
 
 - [Section 282A — Serious terrorism sentence of imprisonment: persons 21 or over](part-10/section-282a.md)
 - [Section 282B — Serious terrorism sentence of imprisonment: circumstances in which required](part-10/section-282b.md)
@@ -735,7 +735,7 @@ Disposals
 - [Section 285 — Required life sentence for offence carrying life sentence](part-10/section-285.md)
 - [Section 285A — Required life sentence for manslaughter of emergency worker](part-10/section-285a.md)
 
-##### CHAPTER 5 — Suspended sentences[^key-b7c29d8011b4640e8583be086c74b700]
+##### CHAPTER 5 — Suspended sentences[^c-b7c29d8011b4640e8583be086c74b700]
 
 *Extent: E+W+S+N.I.*
 
@@ -895,7 +895,7 @@ Further powers relating to sentencing
 - [Section 341 — Guidance](part-11/section-341.md)
 - [Section 342 — Offender aged under 18: parenting order where criminal behaviour order made](part-11/section-342.md)
 
-##### CHAPTER 1A — Serious violence reduction orders[^key-040def5338dc58820472aca46a748c49]
+##### CHAPTER 1A — Serious violence reduction orders[^c-040def5338dc58820472aca46a748c49]
 
 *Extent: E+W*
 
@@ -933,9 +933,9 @@ Further powers relating to sentencing
 - [Section 357 — Disapplication of time limit for complaints](part-11/section-357.md)
 - [Section 358 — Sexual harm prevention orders: interpretation](part-11/section-358.md)
 
-##### Chapter 2A — Child criminal exploitation prevention orders[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]
+##### Chapter 2A — Child criminal exploitation prevention orders[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]
 
-###### Making of orders[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]
+###### Making of orders[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]
 
 **Not yet in force.**
 
@@ -943,27 +943,27 @@ Further powers relating to sentencing
 - [Section 358B — CCE prevention orders](part-11/section-358b.md)
 - [Section 358C — Notification requirements](part-11/section-358c.md)
 
-###### Procedure[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]
+###### Procedure[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]
 
 **Not yet in force.**
 
 - [Section 358D — Procedural powers](part-11/section-358d.md)
 
-###### Variation, discharge and appeals[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]
+###### Variation, discharge and appeals[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]
 
 **Not yet in force.**
 
 - [Section 358E — Variation and discharge of orders](part-11/section-358e.md)
 - [Section 358F — Appeals](part-11/section-358f.md)
 
-###### Supplementary[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]
+###### Supplementary[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]
 
 - [Section 358G — Offence of breaching CCE prevention order](part-11/section-358g.md)
 - [Section 358H — Offences relating to notifications](part-11/section-358h.md)
 - [Section 358I — Special measures for witnesses](part-11/section-358i.md)
 - [Section 358J — Interpretation and supplementary provision](part-11/section-358j.md)
 
-##### CHAPTER 3 — Protection from harassment[^key-75355af88db2d59231120480eef79884]
+##### CHAPTER 3 — Protection from harassment[^c-75355af88db2d59231120480eef79884]
 
 *Extent: E+W*
 
@@ -1159,26 +1159,26 @@ SCHEDULES
 
 ## Annotations
 
-[^key-dfe0528a402db7dbe65c5080cc569a3d]: Textual amendment: Pt. 3 Ch. 6 inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/1), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/a)
+[^c-dfe0528a402db7dbe65c5080cc569a3d]: Textual amendment: Pt. 3 Ch. 6 inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/1), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/a)
 
-[^key-c035d2e2fca4c1b0c7f595e6ef5f515d]: Textual amendment: Pt. 7 Ch. 5 inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/3/1), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-c035d2e2fca4c1b0c7f595e6ef5f515d]: Textual amendment: Pt. 7 Ch. 5 inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/3/1), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
 
-[^key-a1dfdd5cc5ad526653d70a529faefa17]: Textual amendment: Word in [s. 218 cross-heading](https://www.legislation.gov.uk/ukpga/2020/17/part/9/chapter/2/crossheading/breach-revocation-or-amendment-of-community-order) inserted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/38/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 38(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/38/6)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/d)
+[^c-a1dfdd5cc5ad526653d70a529faefa17]: Textual amendment: Word in [s. 218 cross-heading](https://www.legislation.gov.uk/ukpga/2020/17/part/9/chapter/2/crossheading/breach-revocation-or-amendment-of-community-order) inserted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/38/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 38(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/38/6)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/d)
 
-[^key-76b16ec28f15c87ebf1fc317cd775253]: Textual amendment: S. 252A and cross-heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/22/2), [50(1)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/c)
+[^c-76b16ec28f15c87ebf1fc317cd775253]: Textual amendment: S. 252A and cross-heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/22/2), [50(1)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/c)
 
-[^key-ae5cf818ed855d7683a6bd04ba9ef9f9]: Textual amendment: Word in [s. 252A cross-heading](https://www.legislation.gov.uk/ukpga/2020/17/chapter/2/crossheading/special-custodial-sentence-for-terrorist-offenders) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/2), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-ae5cf818ed855d7683a6bd04ba9ef9f9]: Textual amendment: Word in [s. 252A cross-heading](https://www.legislation.gov.uk/ukpga/2020/17/chapter/2/crossheading/special-custodial-sentence-for-terrorist-offenders) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/2), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-2f5ebb04d2b4b50540c4634a81d5d529]: Textual amendment: S. 253 cross-heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(14)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/14)
+[^c-2f5ebb04d2b4b50540c4634a81d5d529]: Textual amendment: S. 253 cross-heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(14)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/14)
 
-[^key-43b173ed9fa9399a1ed87ccc850879ce]: Textual amendment: [Ss. 268A-268C](https://www.legislation.gov.uk/ukpga/2020/17/section/268A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 4](https://www.legislation.gov.uk/ukpga/2021/11/section/4), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)
+[^c-43b173ed9fa9399a1ed87ccc850879ce]: Textual amendment: [Ss. 268A-268C](https://www.legislation.gov.uk/ukpga/2020/17/section/268A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 4](https://www.legislation.gov.uk/ukpga/2021/11/section/4), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)
 
-[^key-8588c5b67fef43aacfb359bbdbfa92f3]: Textual amendment: [Ss. 282A-282C](https://www.legislation.gov.uk/ukpga/2020/17/section/282A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 5](https://www.legislation.gov.uk/ukpga/2021/11/section/5), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)
+[^c-8588c5b67fef43aacfb359bbdbfa92f3]: Textual amendment: [Ss. 282A-282C](https://www.legislation.gov.uk/ukpga/2020/17/section/282A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 5](https://www.legislation.gov.uk/ukpga/2021/11/section/5), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)
 
-[^key-b7c29d8011b4640e8583be086c74b700]: Modification: Pt. 10 Ch. 5 applied (with modifications) by 2006 s. 52, ss. 200-207, Sch. 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 paras. 19-26](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-b7c29d8011b4640e8583be086c74b700]: Modification: Pt. 10 Ch. 5 applied (with modifications) by 2006 s. 52, ss. 200-207, Sch. 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 paras. 19-26](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-040def5338dc58820472aca46a748c49]: Textual amendment: [Pt. 11 Ch. 1A](https://www.legislation.gov.uk/ukpga/2020/17/part/11/chapter/1A) inserted (28.4.2022 for specified purposes, 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/1), [166](https://www.legislation.gov.uk/ukpga/2022/32/section/166), [208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/a)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
+[^c-040def5338dc58820472aca46a748c49]: Textual amendment: [Pt. 11 Ch. 1A](https://www.legislation.gov.uk/ukpga/2020/17/part/11/chapter/1A) inserted (28.4.2022 for specified purposes, 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/1), [166](https://www.legislation.gov.uk/ukpga/2022/32/section/166), [208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/a)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
 
-[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]: Textual amendment: Pt. 11 Ch. 2A inserted (21.9.2026 for the insertion of s. 358I(2)(4), otherwise prosp.) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/6/paragraph/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/i)
+[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]: Textual amendment: Pt. 11 Ch. 2A inserted (21.9.2026 for the insertion of s. 358I(2)(4), otherwise prosp.) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/6/paragraph/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/i)
 
-[^key-75355af88db2d59231120480eef79884]: Modification: Pt. 11 Ch. 3 modified by S.I. 2014/3300, reg.13(2) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 425](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/425) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-75355af88db2d59231120480eef79884]: Modification: Pt. 11 Ch. 3 modified by S.I. 2014/3300, reg.13(2) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 425](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/425) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

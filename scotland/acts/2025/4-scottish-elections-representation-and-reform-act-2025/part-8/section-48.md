@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Key definitions[^key-8166ca9a34ca69b945fb9fbc141d62c6][^key-821f4e1c67ea3a6c0e38e2fd5d124835]
+## 48. Key definitions[^c-8166ca9a34ca69b945fb9fbc141d62c6][^c-821f4e1c67ea3a6c0e38e2fd5d124835]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8166ca9a34ca69b945fb9fbc141d62c6]: Commencement: S. 48 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-8166ca9a34ca69b945fb9fbc141d62c6]: Commencement: S. 48 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-821f4e1c67ea3a6c0e38e2fd5d124835]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/4/section/48) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-821f4e1c67ea3a6c0e38e2fd5d124835]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/4/section/48) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125A. The Public Transport Users' Committee for England[^key-4b9f5e54b9cde290b9e6b043e8c1cc0a]
+## 125A. The Public Transport Users' Committee for England[^c-4b9f5e54b9cde290b9e6b043e8c1cc0a]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ In this subsection “**enactment**” includes an enactment comprised in subord
 
 ## Annotations
 
-[^key-4b9f5e54b9cde290b9e6b043e8c1cc0a]: Textual amendment: Ss. 125A-125C and cross-heading inserted (26.11.2008 for specified purposes) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 73(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/73/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4)
+[^c-4b9f5e54b9cde290b9e6b043e8c1cc0a]: Textual amendment: Ss. 125A-125C and cross-heading inserted (26.11.2008 for specified purposes) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 73(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/73/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4)

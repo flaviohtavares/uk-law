@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-016cd5a86776d76aca52b18fc6b93113]
+[^c-016cd5a86776d76aca52b18fc6b93113]
 
 (1) Section 906 does not apply in respect of a company if the conditions in subsections (2) to (6) are met.
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c21176351]: Textual amendment: S. 906A inserted (1.8.2011 with application in accordance with reg. 1(2)) by [The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011 (S.I. 2011/1606)](https://www.legislation.gov.uk/uksi/2011/1606), [reg. 6](https://www.legislation.gov.uk/uksi/2011/1606/regulation/6)
 
-[^key-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

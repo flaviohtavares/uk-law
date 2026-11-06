@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Killing of mammals[^key-cc5cd42cfae405220e6a48d25ade454f]
+## 59. Killing of mammals[^c-cc5cd42cfae405220e6a48d25ade454f]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ The Department must ensure that mammals to be killed under paragraph 10 of Part 
 
 ## Annotations
 
-[^key-cc5cd42cfae405220e6a48d25ade454f]: Commencement: Reg. 59 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-cc5cd42cfae405220e6a48d25ade454f]: Commencement: Reg. 59 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1981/1115 (N.I.22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.R. 1986 No. 79](https://www.legislation.gov.uk/nisr/1986/79), [S.R. 1994 No. 11](https://www.legislation.gov.uk/nisr/1994/11), [S.R. 1995 No. 44](https://www.legislation.gov.uk/nisr/1995/44), [S.R. 1995 No. 368](https://www.legislation.gov.uk/nisr/1995/368) and [S.R. 1996 No. 399](https://www.legislation.gov.uk/nisr/1996/399)

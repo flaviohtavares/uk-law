@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Standards set by Secretary of State[^key-9b2e859618c61aa9091be0bff4f78358]
+## 46. Standards set by Secretary of State[^c-9b2e859618c61aa9091be0bff4f78358]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2e859618c61aa9091be0bff4f78358]: Textual amendment: S. 46 repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/38), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 13(e)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/13/e/f)
+[^c-9b2e859618c61aa9091be0bff4f78358]: Textual amendment: S. 46 repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/38), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 13(e)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/13/e/f)

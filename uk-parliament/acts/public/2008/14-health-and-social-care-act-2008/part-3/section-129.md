@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Public health protection[^c1942070][^key-18b32d71ba495b27c65dcaa94fe18c46][^key-7cb2a1bfd7e4cd18ef5bb095a67c57f9][^key-314a54fd9635bd478efc9e29240b9004]
+## 129. Public health protection[^c1942070][^c-18b32d71ba495b27c65dcaa94fe18c46][^c-7cb2a1bfd7e4cd18ef5bb095a67c57f9][^c-314a54fd9635bd478efc9e29240b9004]
 
 *Extent: E+W*
 
@@ -529,8 +529,8 @@ Before Part 3 of the Public Health (Control of Disease) Act 1984 (c. 22) insertâ
 
 [^c1942070]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2008/14/section/124) partly in force; [s. 124](https://www.legislation.gov.uk/ukpga/2008/14/section/124) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-18b32d71ba495b27c65dcaa94fe18c46]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129) in force at 1.4.2009 for specified purposes for E. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 3](https://www.legislation.gov.uk/uksi/2009/462/article/3)
+[^c-18b32d71ba495b27c65dcaa94fe18c46]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129) in force at 1.4.2009 for specified purposes for E. by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 3](https://www.legislation.gov.uk/uksi/2009/462/article/3)
 
-[^key-7cb2a1bfd7e4cd18ef5bb095a67c57f9]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129) in force at 6.4.2010 for E. in so far as not already in force by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/708/article/6/a)
+[^c-7cb2a1bfd7e4cd18ef5bb095a67c57f9]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129) in force at 6.4.2010 for E. in so far as not already in force by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/708/article/6/a)
 
-[^key-314a54fd9635bd478efc9e29240b9004]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129) in force at 26.7.2010 for W. in so far as not already in force by [S.I. 2010/1547](https://www.legislation.gov.uk/wsi/2010/1547), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/1547/article/2/a)
+[^c-314a54fd9635bd478efc9e29240b9004]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/14/section/129) in force at 26.7.2010 for W. in so far as not already in force by [S.I. 2010/1547](https://www.legislation.gov.uk/wsi/2010/1547), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/1547/article/2/a)

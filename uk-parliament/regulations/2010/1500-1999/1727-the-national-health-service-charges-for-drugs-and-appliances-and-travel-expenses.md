@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 172, 182, 183, 184 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation and commencement[^key-b391097922f0db41c562799c1581f4a4]
+## 1. Citation and commencement[^c-b391097922f0db41c562799c1581f4a4]
 
 These Regulations may be cited as the National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2010 and shall come into force on 1st August 2010.
 
-## 2. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-9c1981fec57162621de1d56924763642]
+## 2. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-9c1981fec57162621de1d56924763642]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modifications of the Income Support Regulations in Schedule 1 to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-d870ab552a534222a336a4c525034ee4]
+## 3. Modifications of the Income Support Regulations in Schedule 1 to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-d870ab552a534222a336a4c525034ee4]
 
 (1) Table A in Schedule 1 to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00003] (modifications of the Income Support (General) Regulations 1987) is amended as follows.
 
@@ -97,11 +97,11 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). By virtue of section 271 of the Act the powers exercised by the Secretary of State in making these Regulations are exercisable only in relation to England. The expressions “prescribed” and “regulations”, which are relevant to the powers being exercised in these Regulations, are defined in section 275 of the Act.
 
-[^key-b391097922f0db41c562799c1581f4a4]: Commencement: Reg. 1 in force at 1.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1727/regulation/1)
+[^c-b391097922f0db41c562799c1581f4a4]: Commencement: Reg. 1 in force at 1.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1727/regulation/1)
 
-[^key-9c1981fec57162621de1d56924763642]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1727/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-9c1981fec57162621de1d56924763642]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1727/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
-[^key-d870ab552a534222a336a4c525034ee4]: Commencement: Reg. 3 in force at 1.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1727/regulation/1)
+[^c-d870ab552a534222a336a4c525034ee4]: Commencement: Reg. 3 in force at 1.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1727/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are made by [S.I 2006/2171](https://www.legislation.gov.uk/uksi/2006/2171), [2007/1975](https://www.legislation.gov.uk/uksi/2007/1975) and [2009/1599](https://www.legislation.gov.uk/uksi/2009/1599).
 

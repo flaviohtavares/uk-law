@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Application of Chapter[^key-5785216396a60e43e64c4d1f300294a0]
+## 148. Application of Chapter[^c-5785216396a60e43e64c4d1f300294a0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to an active member of this scheme who has accr
 
 ## Annotations
 
-[^key-5785216396a60e43e64c4d1f300294a0]: Commencement: Reg. 148 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5785216396a60e43e64c4d1f300294a0]: Commencement: Reg. 148 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

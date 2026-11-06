@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Compensation orders[^key-e98d9e838d1f6f0d8fed4ce5c21c46cb]
+## 115. Compensation orders[^c-e98d9e838d1f6f0d8fed4ce5c21c46cb]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e98d9e838d1f6f0d8fed4ce5c21c46cb]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2010/13/section/115) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-e98d9e838d1f6f0d8fed4ce5c21c46cb]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2010/13/section/115) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

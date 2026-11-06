@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19ZA — Offences carrying restricted eligibility of terrorist prisoners for release on licence[^key-d63f59101d3e72d7506a5e0ec27a9f5c]
+## SCHEDULE 19ZA — Offences carrying restricted eligibility of terrorist prisoners for release on licence[^c-d63f59101d3e72d7506a5e0ec27a9f5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Section 247A
 - (b) section 2 (dissemination of terrorist publications);
 - (c) section 8 (attendance at a place used for terrorist training).
 
-**8.** An offence under any of the following provisions of the[^key-878269aabf2328c306ab265b9eec271c] [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents)—
+**8.** An offence under any of the following provisions of the[^c-878269aabf2328c306ab265b9eec271c] [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents)—
 
 - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
@@ -296,6 +296,6 @@ Section 247A
 
 ## Annotations
 
-[^key-d63f59101d3e72d7506a5e0ec27a9f5c]: Textual amendment: Sch. 19ZA substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(n)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/n), [Sch. 9](https://www.legislation.gov.uk/ukpga/2021/11/schedule/9)
+[^c-d63f59101d3e72d7506a5e0ec27a9f5c]: Textual amendment: Sch. 19ZA substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(n)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/n), [Sch. 9](https://www.legislation.gov.uk/ukpga/2021/11/schedule/9)
 
-[^key-878269aabf2328c306ab265b9eec271c]: Textual amendment: Words in Sch. 19ZA para. 8 substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/3/3)
+[^c-878269aabf2328c306ab265b9eec271c]: Textual amendment: Words in Sch. 19ZA para. 8 substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/3/3)

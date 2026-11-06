@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.7. Intimation to representatives[^key-ec8ea02581206d7ef00dcafd0a9ddff9]
+## 3.8.7. Intimation to representatives[^c-ec8ea02581206d7ef00dcafd0a9ddff9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where in any proceedings under the Act, the sheriff clerk is aware that the pati
 
 ## Annotations
 
-[^key-ec8ea02581206d7ef00dcafd0a9ddff9]: Commencement: Rule 3.8.7 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-ec8ea02581206d7ef00dcafd0a9ddff9]: Commencement: Rule 3.8.7 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

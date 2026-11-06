@@ -43,11 +43,11 @@ The Department of Higher and Further Education, Training and Employment, in exer
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-d0b0e99fda43f1391b6b952fa613b7e3]
+### 1. Citation and commencement[^c-d0b0e99fda43f1391b6b952fa613b7e3]
 
 These Regulations may be cited as the Education (Student Support) Regulations (Northern Ireland) 2000 and shall come into operation on 20th May 2000.
 
-### 2. Interpretation[^key-5279d624cf3475bf903f716619446d71]
+### 2. Interpretation[^c-5279d624cf3475bf903f716619446d71]
 
 (1) In these Regulations, except where the context otherwise requires—
 
@@ -112,7 +112,7 @@ shall be considered to have always been part of the European Economic Area.
 
 (6) In these Regulations “academic year” means the period of twelve months beginning on 1st January, 1st April, 1st July or 1st September, according as the academic year of the course in question begins in the winter, the spring, the summer or the autumn respectively, but if students are required to begin attending the course during August or September and to continue attending through the autumn the academic year of the course shall be considered to begin in the autumn rather than the summer.
 
-### 3. Revocations and transitional provisions[^key-638f84c5d185a622e8f26511db90f7e0]
+### 3. Revocations and transitional provisions[^c-638f84c5d185a622e8f26511db90f7e0]
 
 (1) The 1999 Regulations, the Education (Student Support) (Amendment) Regulations (Northern Ireland) 1999[^f00023] and the Education (Student Support) (Amendment) Regulations (Northern Ireland) 2000[^f00024] shall be revoked on 1st September 2000.
 
@@ -150,7 +150,7 @@ he shall be eligible for support by way of grant under Parts III and IV in conne
 
 ## Part II — Eligibility
 
-### 4. Eligible students[^key-ba887e861c0178110d03e38fa6fdcca7]
+### 4. Eligible students[^c-ba887e861c0178110d03e38fa6fdcca7]
 
 (1) Subject to and in accordance with these Regulations a person shall be eligible for support in connection with his attendance at a designated course if he is a person mentioned in Schedule 1.
 
@@ -177,7 +177,7 @@ he shall be eligible for support by way of grant under Parts III and IV in conne
 - (a) more than one designated course, or
 - (b) a designated course and a designated part-time course.
 
-### 5. Designated courses[^key-838bf8df910682dbcd84743953150126]
+### 5. Designated courses[^c-838bf8df910682dbcd84743953150126]
 
 (1) A course shall be designated for the purposes of Article 3(1) of the Order and regulation 4(1) if it is—
 
@@ -203,7 +203,7 @@ he shall be eligible for support by way of grant under Parts III and IV in conne
 
 (8) For the purposes of Article 3 of the Order and regulation 4(1) the Department may designate courses of higher education which are not designated under paragraph (1).
 
-### 6. Applications for financial support[^key-79855b80f66edf0718b451f9392c648f]
+### 6. Applications for financial support[^c-79855b80f66edf0718b451f9392c648f]
 
 (1) Subject to regulation 31, a person shall apply for support in connection with his attendance on a course by completing and submitting to the Department an application in such form as it may require, but which shall include a declaration signed by the student that:
 
@@ -228,7 +228,7 @@ he shall be eligible for support by way of grant under Parts III and IV in conne
 
 (7) If the Department considers that an eligible student is eligible for a particular grant or loan it shall notify him of that fact and the amount to which the Department considers he is entitled.
 
-### 7. Transfers of eligibility[^key-be186d583dfcc2842a1662e9118a5357]
+### 7. Transfers of eligibility[^c-be186d583dfcc2842a1662e9118a5357]
 
 (1) An eligible student may request that the Department transfer his eligibility in any case where—
 
@@ -246,7 +246,7 @@ he shall be eligible for support by way of grant under Parts III and IV in conne
 
 (5) An eligible student’s eligibility for support may not be transferred after it has expired or been terminated under regulation 8.
 
-### 8. Termination of eligibility[^key-caf033f46de68d65a34c70c6d4863537]
+### 8. Termination of eligibility[^c-caf033f46de68d65a34c70c6d4863537]
 
 (1) Subject to the following provisions of this paragraph and paragraph (2), an eligible student shall cease to be eligible for support on the expiry of the period ordinarily required for the completion of the course, and accordingly he shall then cease to be an eligible student, but in respect of—
 
@@ -261,7 +261,7 @@ he shall cease to be an eligible student at the end of the academic year in whic
 
 (4) Where an eligible student has shown himself by his conduct to be unfitted to receive support the Department may determine that he is no longer eligible for support, and on such determination he shall then cease to be an eligible student.
 
-### 9. Information[^key-8f439b9274e3fc1b1d4dadcdb1bacf1d]
+### 9. Information[^c-8f439b9274e3fc1b1d4dadcdb1bacf1d]
 
 (1) Every applicant, every eligible student and every eligible part-time student shall as soon as reasonably practicable after he is requested to do so provide the Department with such information as the Department considers necessary for the exercise of its functions under these Regulations.
 
@@ -281,7 +281,7 @@ he shall cease to be an eligible student at the end of the academic year in whic
 
 ## Part III — Grants for Fees
 
-### 10. Eligibility for grants for fees[^key-b8752d02a9e7edc0f19c37dbbfa90cc6]
+### 10. Eligibility for grants for fees[^c-b8752d02a9e7edc0f19c37dbbfa90cc6]
 
 (1) Subject to the following paragraphs and regulation 11 an eligible student shall in respect of each academic year be eligible for a grant for fees equal to the aggregate of any fees payable by him in respect of, or otherwise in connection with, his attendance on the course (“the present course”), including admission, registration, tuition and graduation fees, but excluding—
 
@@ -364,7 +364,7 @@ the student shall not be eligible for grant for fees in respect of the number of
 
 but shall not be eligible for a grant for fees in respect of any other academic year.
 
-### 11. Maximum amounts of grants[^key-3bd098afae6d223c765c7fce62f967a2]
+### 11. Maximum amounts of grants[^c-3bd098afae6d223c765c7fce62f967a2]
 
 (1) The amount of grant for fees in respect of an academic year of a course at an institution which is maintained or assisted by recurrent grants out of public funds shall not exceed:
 
@@ -391,7 +391,7 @@ but shall not be eligible for a grant for fees in respect of any other academic 
 
 ## Part IV — Grants for Living Costs
 
-### 12. Eligibility for grants for living costs[^key-0215bf7f12aede50ae3cbc5e73b2f26d]
+### 12. Eligibility for grants for living costs[^c-0215bf7f12aede50ae3cbc5e73b2f26d]
 
 (1) An eligible student shall not be eligible for grant for living costs under this Part if he is a person mentioned in paragraph 7 of Schedule 1 and not in any other paragraph of that Schedule.
 
@@ -422,7 +422,7 @@ but shall not be eligible for a grant for fees in respect of any other academic 
 
 but shall not be eligible for a grant for living costs in respect of any other academic year.
 
-### 13. Grants for disabled students' living costs[^key-3b4922980d45ee3a4548c1c7f0c295c3]
+### 13. Grants for disabled students' living costs[^c-3b4922980d45ee3a4548c1c7f0c295c3]
 
 (1) An eligible student shall be eligible for grant for living costs equal to additional expenditure which the Department is satisfied he is obliged to incur in respect of his attendance at a course by reason of a disability to which he is subject; but the amount of grant shall not exceed the amounts referred to in paragraph (2).
 
@@ -435,7 +435,7 @@ but shall not be eligible for a grant for living costs in respect of any other a
   - (ii) within or outside the United Kingdom or the Republic of Ireland for the purpose of attending, as a necessary part of his course, any period of study at an overseas institution;
 - (d) not exceeding £1,385 in respect of each academic year for any other expenditure including expenditure incurred for the purposes referred to in sub-paragraphs (*a*) or (*b*) which exceeds the specified maxima.
 
-### 14. Grants for students who have left care[^key-efc51b436a387f48ecaac2f6c1030570]
+### 14. Grants for students who have left care[^c-efc51b436a387f48ecaac2f6c1030570]
 
 (1) An eligible student—
 
@@ -450,7 +450,7 @@ shall be eligible for such amount of grant not exceeding the amount referred to 
 - (a) falls within the longest vacation taken; and
 - (b) during no part of which week the student attends his course.
 
-### 15. Grants for dependants[^key-c8b5cc1fdbe920da274bfd6082730531]
+### 15. Grants for dependants[^c-c8b5cc1fdbe920da274bfd6082730531]
 
 (1) Subject to the following paragraphs an eligible student who satisfies the requirements set out in regulation 18(1) shall in respect of each academic year be eligible for grant for living costs for his dependants as follows:
 
@@ -505,7 +505,7 @@ shall be eligible for such amount of grant not exceeding the amount referred to 
 - (a) an amount equal to the payments in question for the academic year, if in the opinion of the Department the obligation had been reasonably incurred; or
 - (b) such lesser amount if any as the Department considers appropriate, if in its opinion a lesser obligation could reasonably have been incurred.
 
-### 16. Grants for school meals for dependent children[^key-eb81e7f6842445779734dd29cf2bd782]
+### 16. Grants for school meals for dependent children[^c-eb81e7f6842445779734dd29cf2bd782]
 
 (1) Subject to paragraph (2), where an eligible student is eligible for and entitled to receive a grant under regulation 15(1) in respect of a dependent child, he shall in respect of each academic year also be eligible for a grant for school meals for that dependent child if the child attends a grant-aided school during the relevant school year.
 
@@ -526,7 +526,7 @@ shall be eligible for such amount of grant not exceeding the amount referred to 
 - “relevant school year” means the school year whose beginning is closest to the beginning of the academic year in respect of which the eligibility for grant under this regulation is being assessed; and
 - “school year” means the period from 1st August to 31st July.
 
-### 17. Grants for travel[^key-a3fa9137733d6a98eef11fab0f941637]
+### 17. Grants for travel[^c-a3fa9137733d6a98eef11fab0f941637]
 
 (1) Subject to the following paragraphs an eligible student who satisfies the requirements set out in regulation 18(1) shall in respect of each academic year be eligible for a grant equal to such reasonable expenditure which he is obliged to incur—
 
@@ -544,7 +544,7 @@ shall be eligible for such amount of grant not exceeding the amount referred to 
 
 ## Part V — Loans for Living Costs
 
-### 18. Eligibility for loans for living costs[^key-e4a13742099bc89c27aceb0c19dab6b2]
+### 18. Eligibility for loans for living costs[^c-e4a13742099bc89c27aceb0c19dab6b2]
 
 (1) Subject to and in accordance with the following paragraphs and regulation 19 an eligible student shall be eligible for loan for living costs if:
 
@@ -567,7 +567,7 @@ shall be eligible for such amount of grant not exceeding the amount referred to 
 
 but shall not be eligible for loan for living costs in respect of any other academic year.
 
-### 19. Maximum amounts of loans[^key-a371a091fed1f7cbf3aa6d0c45f5fdf4]
+### 19. Maximum amounts of loans[^c-a371a091fed1f7cbf3aa6d0c45f5fdf4]
 
 (1) Subject to the following paragraphs the amount of loan for living costs in respect of each academic year shall not exceed—
 
@@ -659,7 +659,7 @@ the Department shall determine which of the rates referred to in paragraphs (1) 
   - and
 - (b) paragraphs (10) and (11) shall not apply.
 
-### 20. Applications for loans[^key-ac8aef9491bccee8b6baa839656b5ff1]
+### 20. Applications for loans[^c-ac8aef9491bccee8b6baa839656b5ff1]
 
 (1) An eligible student who is eligible for a loan for living costs in respect of an academic year shall apply for such a loan not exceeding the maximum amount applicable in his case, by completing and submitting to the Department an application in such form as it may require not later than one month before the end of that year.
 
@@ -694,7 +694,7 @@ the Department shall determine which of the rates referred to in paragraphs (1) 
 
 (9) A student shall sign a declaration on the application form in the terms set out in paragraph (3).
 
-### 21. Hardship loans[^key-52557d6e5a7ca96fab299caea4c1eb26]
+### 21. Hardship loans[^c-52557d6e5a7ca96fab299caea4c1eb26]
 
 (1) An eligible student who has applied for the maximum amount of loan in respect of an academic year which has been notified to him and received at least one instalment of that loan may apply to the Department for a determination that he is eligible for an additional loan on grounds of hardship, which shall be known as a “hardship loan”.
 
@@ -710,13 +710,13 @@ the Department shall determine which of the rates referred to in paragraphs (1) 
 
 ## Part VI — Financial Assessment
 
-### 22. Calculation of contribution[^key-907eff9d7210a8afdd5d92ee9c447bc2]
+### 22. Calculation of contribution[^c-907eff9d7210a8afdd5d92ee9c447bc2]
 
 (1) An eligible student’s contribution in respect of an academic year, if any, shall be the aggregate of his income for that year calculated in accordance with Part I of Schedule 3 and any contribution applicable in his case by virtue of Part II or III of that Schedule.
 
 (2) For the purposes of the exercise of the Department’s functions under the Order and regulations made under it, it shall require an eligible student to provide from time to time such information as it considers necessary as to the income of any person whose means are relevant to the assessment of his contribution.
 
-### 23. Application of contribution[^key-a98334f9c984dd91bff8ff2d354ed984]
+### 23. Application of contribution[^c-a98334f9c984dd91bff8ff2d354ed984]
 
 (1) The maximum amounts of grants or loans for which an eligible student shall be eligible shall be the amounts remaining after subtracting in accordance with this regulation his contribution from the maximum amount of any—
 
@@ -769,7 +769,7 @@ the amount available to reduce the maximum amount of grant referred to in paragr
 
 ## Part VII — Payments
 
-### 24. Payment of grant for fees[^key-73022f2374085acf03db3be9136f9052]
+### 24. Payment of grant for fees[^c-73022f2374085acf03db3be9136f9052]
 
 (1) The Department shall pay the grant for fees for which a student is eligible when a valid request for payment has been received from the academic authority, payment to be made to it—
 
@@ -783,7 +783,7 @@ the amount available to reduce the maximum amount of grant referred to in paragr
 - (a) before the expiry of three months from the beginning of the academic year the eligible student ceases to attend the course; and
 - (b) the academic authority has determined or agreed that he will not commence attending again during the academic year in respect of which the fees are payable, or at all.
 
-### 25. Payment of grants and loans for living costs[^key-70a5aa2637a6c2e50d33e441f23ac9b3]
+### 25. Payment of grants and loans for living costs[^c-70a5aa2637a6c2e50d33e441f23ac9b3]
 
 (1) Subject to the following paragraphs and regulation 16(4), the Department shall pay grants for which a student is eligible under Part IV or loans for which a student has applied under Part V in such instalments (if any) and at such times as it considers appropriate; and in the exercise of his functions under this paragraph it may in particular make provisional payments pending the final calculation of the amount of grant or loan for which the student is eligible.
 
@@ -836,7 +836,7 @@ it may pay the support in such instalments, if any, as it considers appropriate.
 
 it may pay such support in such number of instalments and in instalments of such amounts as it considers appropriate.
 
-### 26. Overpayments[^key-96425a106a88d8315a102d2f010b736b]
+### 26. Overpayments[^c-96425a106a88d8315a102d2f010b736b]
 
 (1) Any overpayment of grant for fees under Part III shall be recovered by the Department from the academic authority.
 
@@ -869,7 +869,7 @@ but otherwise it shall be treated as a loan properly made under Part V which sha
 
 ## Part VIII — Support for Part-time Courses
 
-### 27. Eligible part-time students[^key-c24caa75685f205417589492c00b273b]
+### 27. Eligible part-time students[^c-c24caa75685f205417589492c00b273b]
 
 (1) Subject to and in accordance with this Part a person shall be eligible for support in connection with his attendance at a designated part-time course if he is a person mentioned in Schedule 1.
 
@@ -895,7 +895,7 @@ but otherwise it shall be treated as a loan properly made under Part V which sha
 
 (6) Where a person who meets the requirements of this regulation is notified of that fact by the Department under regulation 31(6) he shall thenceforth be an “eligible part-time student” for the purposes of these Regulations.
 
-### 28. Designated part-time courses[^key-7b52311f1ba0fb169e08f9c5a9826c73]
+### 28. Designated part-time courses[^c-7b52311f1ba0fb169e08f9c5a9826c73]
 
 (1) Subject to paragraph (3), a part-time course shall be designated for the purposes of Article 3(1) of the Order and regulation 27(1) if—
 
@@ -908,7 +908,7 @@ but otherwise it shall be treated as a loan properly made under Part V which sha
 
 (3) For the purposes of Article 3(1) of the Order and regulation 27(1) the Department may designate part-time courses of higher education which are not designated by paragraph (1).
 
-### 29. Eligibility for loans for part-time courses[^key-16c1b8802dc972b591afc1774e26b975]
+### 29. Eligibility for loans for part-time courses[^c-16c1b8802dc972b591afc1774e26b975]
 
 (1) Subject to and in accordance with the following paragraphs, an eligible part-time student shall be eligible for a loan if—
 
@@ -948,11 +948,11 @@ but shall not be eligible for a loan in respect of any other academic year.
 - “income” means gross income from all sources;
 - “preceding financial year” means the most recent financial year ending before the first day of the academic year in respect of which a person’s eligibility for a loan is being assessed and “current financial year” means the financial year which includes the first day of that academic year.
 
-### 30. Amount of loan[^key-7dcea35cd68e0d3f0b6c299bbf3542bf]
+### 30. Amount of loan[^c-7dcea35cd68e0d3f0b6c299bbf3542bf]
 
 The amount of a loan for a designated part-time course in respect of each academic year shall be £500.
 
-### 31. Applications for support[^key-1ddeca3b1d9b04184300b0e422c5ae63]
+### 31. Applications for support[^c-1ddeca3b1d9b04184300b0e422c5ae63]
 
 (1) A person shall apply for support in respect of an academic year of a part-time course (other than a course for the initial training of teachers) by completing and submitting to the Department an application in such form as it may require; and regulation 6 shall not apply to him in connection with his attendance on that course.
 
@@ -982,14 +982,14 @@ The amount of a loan for a designated part-time course in respect of each academ
 - (a) where the application is the first to be made in connection with the applicant’s attendance at the part-time course, notify him of the facts that he is an “eligible part-time student” and is eligible for the support for which he has applied; and
 - (b) in respect of any subsequent application notify him that he is eligible for the support for which he has applied.
 
-### 32. Grants for disabled part-time students' living costs[^key-6b06d4a229f95ad7801cd67acb019baf]
+### 32. Grants for disabled part-time students' living costs[^c-6b06d4a229f95ad7801cd67acb019baf]
 
 Regulation 13 shall apply in relation to an eligible part-time student in respect of his attendance at a designated part-time course as it applies in relation to an eligible student in respect of his attendance at a designated course with the substitution—
 
 - (a) for the amount specified in regulation 13(2)(*a*) of £7,879; and
 - (b) for the amount specified in regulation 13(2)(*d*) of £1,039.
 
-### 33. Transfers of eligibility[^key-9a0810e4dd1c866ee4ca3cd52ae4d084]
+### 33. Transfers of eligibility[^c-9a0810e4dd1c866ee4ca3cd52ae4d084]
 
 (1) An eligible part-time student may request the Department to transfer his eligibility in any case where—
 
@@ -1003,7 +1003,7 @@ Regulation 13 shall apply in relation to an eligible part-time student in respec
 
 (4) An eligible part-time student’s eligibility as such may not be transferred after it has expired or been terminated under regulation 35.
 
-### 34. Conversion of eligibility[^key-b47ddd3d648193cc3599a78d9c2b0e17]
+### 34. Conversion of eligibility[^c-b47ddd3d648193cc3599a78d9c2b0e17]
 
 (1) An eligible student under Part II may request the Department to convert his eligibility to that of an eligible part-time student in any case where—
 
@@ -1045,7 +1045,7 @@ Regulation 13 shall apply in relation to an eligible part-time student in respec
 - (c) the maximum amount of any support under Part IV or V to which the student would, apart from this regulation, be entitled in connection with his attendance at a designated course in respect of that academic year shall be reduced by one third, where the student became an eligible student during the second quarter of the academic year, and by two thirds where he became such a student in a later quarter of that year; and
 - (d) where an amount of grant for any purpose has been paid to the student under regulation 32 in a single instalment the maximum amount of grant payable to him under regulation 13 for that purpose shall be reduced (or where sub-paragraph (*c*) applies further reduced) by the amount of grant paid to him for that purpose under regulation 32, and where the resulting amount is nil or a negative amount that amount shall be nil.
 
-### 35. Termination of eligibility[^key-848edc519ad66cd59f59a14d6b106894]
+### 35. Termination of eligibility[^c-848edc519ad66cd59f59a14d6b106894]
 
 (1) Subject to the following paragraphs an eligible part-time student shall cease to be eligible for support at the end of the academic year in which he completes his course.
 
@@ -1053,7 +1053,7 @@ Regulation 13 shall apply in relation to an eligible part-time student in respec
 
 (3) Where an eligible part-time student has shown himself by his conduct to be unfitted to receive support under this Part the Department may determine that he is no longer eligible to receive such support and on such determination he shall cease to be an eligible part-time student.
 
-### 36. Payment of support[^key-f378608f2677138811112a9c99fd1be3]
+### 36. Payment of support[^c-f378608f2677138811112a9c99fd1be3]
 
 (1) The Department shall pay a loan under this Part in a single instalment at such time as it considers appropriate.
 
@@ -1061,7 +1061,7 @@ Regulation 13 shall apply in relation to an eligible part-time student in respec
 
 (3) Payments shall be made in such manner as the Department considers appropriate, and it may make it a condition of entitlement to payment that the eligible part-time student shall provide it with particulars of a bank or building society account in the United Kingdom into which payment may be made by electronic transfer.
 
-### 37. Overpayments[^key-45cfa4a628bbf1bb2a733900adc01b18]
+### 37. Overpayments[^c-45cfa4a628bbf1bb2a733900adc01b18]
 
 (1) Any overpayment of a loan under this Part in respect of any academic year may be recovered if in the opinion of the Department—
 
@@ -1085,7 +1085,7 @@ but otherwise it shall be treated as a loan properly made which shall be repayab
 
 ## Part IX — Interest and Insolvency
 
-### 38. Interest[^key-8885ea10e9113f302bd0febafbe194da]
+### 38. Interest[^c-8885ea10e9113f302bd0febafbe194da]
 
 (1) Subject to paragraph (2) loans shall bear interest at the rate which in relation to a loan made under these Regulations on or after 1st September 2000 will result in an annual percentage rate of charge determined in accordance with the Consumer Credit (Total Charge for Credit) Regulations 1980[^f00045] equal to the percentage increase between the retail prices all items index published by the Office for National Statistics for March 1999 and that index so published for March 2000.
 
@@ -1095,7 +1095,7 @@ but otherwise it shall be treated as a loan properly made which shall be repayab
 
 (4) The index of prices which the Department is required by Article 3(8) of the Order to have regard to in prescribing the rate of interest which loans shall bear shall be the retail prices all items index mentioned in paragraph (1).
 
-### 39. Insolvency[^key-f4b44309da1456b4f955dc8c007f0e6b]
+### 39. Insolvency[^c-f4b44309da1456b4f955dc8c007f0e6b]
 
 (1) In Northern Ireland there shall not be treated as part of a bankrupt’s estate or claimed for his estate under Article 280 or 283 of the Insolvency (Northern Ireland) Order 1989[^f00047] any sum payable to an eligible student by way of a loan and which he receives or is entitled to receive after the commencement of the bankruptcy, whether his entitlement arises before or after the commencement of his bankruptcy.
 
@@ -1113,14 +1113,14 @@ Department of Higher and Further Education, Training and Employment
 
 Regulations (4)1 and 27(1)
 
-**1.**[^key-72572fb9dc3e31af3925d960afc4c98e] A person who on the first day of the first academic year of the course—
+**1.**[^c-72572fb9dc3e31af3925d960afc4c98e] A person who on the first day of the first academic year of the course—
 
 - (a) is settled in the United Kingdom within the meaning of the Immigration Act 1971[^f00049], and
 - (b) meets the residence conditions referred to in paragraph 8.
 
-**2.**[^key-870569306358bfef70d9abcb55a5b16a] A person who is a refugee, ordinarily resident in the United Kingdom and the Islands, who has not ceased to be so resident since he was recognised as a refugee, or who is the spouse, child or stepchild of such a refugee, in each case who meets the residence condition in paragraph 8(*a*).
+**2.**[^c-870569306358bfef70d9abcb55a5b16a] A person who is a refugee, ordinarily resident in the United Kingdom and the Islands, who has not ceased to be so resident since he was recognised as a refugee, or who is the spouse, child or stepchild of such a refugee, in each case who meets the residence condition in paragraph 8(*a*).
 
-**3.**[^key-95da5d4b4bda6aef3d1ab3114ded92c7] A person who—
+**3.**[^c-95da5d4b4bda6aef3d1ab3114ded92c7] A person who—
 
 - (a)
   - (i) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to enter or remain in the United Kingdom, or
@@ -1130,29 +1130,29 @@ Regulations (4)1 and 27(1)
 
 or who is the spouse, child or stepchild of such a person, where the person, or as the case may be the spouse, child or stepchild meets the residence conditions referred to in paragraph 8.
 
-**4.**[^key-56b835e3133be64194f542b23a6948e3] A person who is an EEA migrant worker who—
+**4.**[^c-56b835e3133be64194f542b23a6948e3] A person who is an EEA migrant worker who—
 
 - (a) is entitled to support by virtue of Article 7(2) or (3) of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on freedom of movement of workers within the Community, as extended by the EEA Agreement[^f00050]**,** or, where he is a national of the United Kingdom, by virtue of an enforceable Community right to be treated no less favourably than a national of another member State in relation to matters which are the subject of Article 7(2) and (3); and
 - (b) meets the residence conditions referred to in paragraph 8.
 
-**5.**[^key-6c766f7bd52e03bf61a33f71e44af906] A person who is the spouse of an EEA migrant worker and who—
+**5.**[^c-6c766f7bd52e03bf61a33f71e44af906] A person who is the spouse of an EEA migrant worker and who—
 
 - (a) is installed in the United Kingdom with his spouse, and
 - (b) meets the residence conditions referred to in paragraph 8.
 
-**6.**[^key-4b926ec2069b8ced5777f125d61dba8a] (1) A person who is the child of an EEA migrant worker and who—
+**6.**[^c-4b926ec2069b8ced5777f125d61dba8a] (1) A person who is the child of an EEA migrant worker and who—
 
 - (a) is entitled to support by virtue of Article 12 of the above mentioned Council Regulation, or, where his migrant worker parent is a national of the United Kingdom, by virtue of an enforceable Community right to be treated no less favourably than the child of a national of another member State in relation to matters which are the subject of Article 12, and
 - (b) meets the residence conditions referred to in paragraph 8.
 
 (2) For the purposes of this paragraph “parent” includes a guardian, any other person having parental responsibility for a child and any person having care of a child, and “child” shall be construed accordingly.
 
-**7.**[^key-d67b70a26c47ed8a9141379f50a7b51b] A person who is a national of a member State of the European Community or the child of such a national—
+**7.**[^c-d67b70a26c47ed8a9141379f50a7b51b] A person who is a national of a member State of the European Community or the child of such a national—
 
 - (a) whose course is provided by an institution or institutions in Northern Ireland, or by an institution or institutions in Northern Ireland in conjunction with an institution or institutions outside the United Kingdom, and
 - (b) who meets the residence conditions referred to in paragraph 8(*b*) and (*c*).
 
-**8.**[^key-d3a92bd83e2f47d13d096cfe51fdd141] The residence conditions referred to above are that—
+**8.**[^c-d3a92bd83e2f47d13d096cfe51fdd141] The residence conditions referred to above are that—
 
 - (a) the person is ordinarily resident in Northern Ireland on the first day of the first academic year of the course;
 - (b) the person has been ordinarily resident throughout the three year period preceding the first day of the first academic year of the course, in the case of a person mentioned in paragraphs 1 or 3, in the United Kingdom and the Islands, or, in the case of a person mentioned in paragraphs 4, 5, 6 or 7, in the European Economic Area; and
@@ -1162,27 +1162,27 @@ or who is the spouse, child or stepchild of such a person, where the person, or 
 
 Regulations (5)1 and 28(1)
 
-**1.**[^key-7ea79bb829b8a346ad44dade7997a34a] A first degree course other than a course referred to in paragraph 4.
+**1.**[^c-7ea79bb829b8a346ad44dade7997a34a] A first degree course other than a course referred to in paragraph 4.
 
-**2.**[^key-f6bd30b01c78efe54500710aac89e1b9] A course for the Diploma of Higher Education.
+**2.**[^c-f6bd30b01c78efe54500710aac89e1b9] A course for the Diploma of Higher Education.
 
-**3.**[^key-7ae06f67d20085537a3488e27f210e1a] A course for the Higher National Diploma or Higher National Certificate of—
+**3.**[^c-7ae06f67d20085537a3488e27f210e1a] A course for the Higher National Diploma or Higher National Certificate of—
 
 - (a) the Business & Technician Education Council; or
 - (b) the Scottish Qualification Authority.
 
-**4.**[^key-e052d46a44925ae8b375bd1f54d2c7f5] A course for the initial training of teachers, including such a course leading to a first degree.
+**4.**[^c-e052d46a44925ae8b375bd1f54d2c7f5] A course for the initial training of teachers, including such a course leading to a first degree.
 
-**5.**[^key-04f21d39f96b4410970d545c779c5f13] A course for the further training of teachers or youth and community workers.
+**5.**[^c-04f21d39f96b4410970d545c779c5f13] A course for the further training of teachers or youth and community workers.
 
-**6.**[^key-15ddbf1c142c2ffdbe9a8f5e2444e85c] A course in preparation for a professional examination of a standard higher than that of—
+**6.**[^c-15ddbf1c142c2ffdbe9a8f5e2444e85c] A course in preparation for a professional examination of a standard higher than that of—
 
 - (a) examinations at advanced level for the General Certificate of Education or the examination at higher level for the Scottish Certificate of Education; or
 - (b) the examination for the National Certificate or the National Diploma of either of the bodies mentioned in paragraph 3,
 
 not being a course for entry to which a first degree (or equivalent qualification) is normally required.
 
-**7.**[^key-b8156e34691d32166de2b54f14a5ac82] A course providing education (whether or not in preparation for an examination) the standard of which is—
+**7.**[^c-b8156e34691d32166de2b54f14a5ac82] A course providing education (whether or not in preparation for an examination) the standard of which is—
 
 - (a) higher than that of courses providing education in preparation for any of the examinations mentioned in paragraph (6)(*a*) or (*b*) above; but
 - (b) not higher than that of a first degree course,
@@ -1195,7 +1195,7 @@ Regulation 22(1)
 
 ### Part I — Student’s Income
 
-#### 1. Calculation of student’s income[^key-90ca8f0c5e570bae727737d2176a7056]
+#### 1. Calculation of student’s income[^c-90ca8f0c5e570bae727737d2176a7056]
 
 (1) In calculating an eligible student’s income for the purposes of regulation 22 there shall be taken into account his income (reduced by income tax and social security contributions) from all sources, and any payment referred to in head (*b*), whether or not it is income, but there shall be disregarded the following—
 
@@ -1248,7 +1248,7 @@ except that no deduction shall be made from the income of a student who has a sp
 
 ### Part II — Parental Contribution
 
-#### 2. Definitions and construction of Part II[^key-fb8b1753062d771c9b9aa66e7ed75c4b]
+#### 2. Definitions and construction of Part II[^c-fb8b1753062d771c9b9aa66e7ed75c4b]
 
 (1) In this Part of this Schedule—
 
@@ -1278,7 +1278,7 @@ his income for the purposes of this Part of the Schedule shall be computed as th
 
 (6) The rate applied in determining the sterling value of another currency under sub-paragraph (5) shall be the rate for the month in which the last day of the financial year in question falls published by the Office for National Statistics in “Financial Statistics”.
 
-#### 3. Application of Part II[^key-00d406142ed6ff0e8913f244caf696df]
+#### 3. Application of Part II[^c-00d406142ed6ff0e8913f244caf696df]
 
 (1) A parental contribution ascertained in accordance with this Part shall be applicable in the case of every eligible student except where—
 
@@ -1311,7 +1311,7 @@ his income for the purposes of this Part of the Schedule shall be computed as th
 
 (3) For the purposes of sub-paragraph (1)(*f*) an eligible student shall be regarded as irreconcilably estranged from his parents if, but not only if, he has communicated with neither of them for the period of one year before the beginning of the year for which payments in pursuance of his award fall to be made.
 
-#### 4. Parental contribution[^key-770cae00b3ad526e09b3b4023a45bae0]
+#### 4. Parental contribution[^c-770cae00b3ad526e09b3b4023a45bae0]
 
 (1) The parental contribution shall, subject to sub-paragraphs (2) and (3) be—
 
@@ -1331,7 +1331,7 @@ reduced in each case in respect of each child of the parent (other than the stud
 
 the parental contribution for the eligible student shall be such proportion of any contribution ascertained in accordance with this Part as the Department (after consultation with any other authority involved) considers just; provided that where a contribution is ascertained in respect of more than one child of the parent the aggregate amount of the contributions in respect of each shall not exceed the amount of the contribution that would be ascertained if only one child held an award.
 
-#### 5. Gross income[^key-ff216ef241652303872d94a73185789a]
+#### 5. Gross income[^c-ff216ef241652303872d94a73185789a]
 
 (1) For the purposes of this paragraph “preceding financial year” means the financial year preceding the academic year in respect of which the resources of the eligible student fall to be assessed and “current financial year” means the financial year which includes the first day of the academic year; provided that where references to a financial year fall to be construed in accordance with paragraph 2(3) as references to a year ending less than five months before the beginning of an academic year of the eligible student’s course, “preceding financial year” shall mean the financial year last ending five or more months before the academic year in respect of which the resources of the eligible student fall to be assessed and “current financial year” shall mean the financial year ending within those five months.
 
@@ -1364,7 +1364,7 @@ the parental contribution shall—
 
 (9) Where one of the eligible student’s parents is his step-parent the parental contribution shall be ascertained by reference only to the income of the other parent.
 
-#### 6. Deductions[^key-1645b05e1a2d1f9142367e33760d384e]
+#### 6. Deductions[^c-1645b05e1a2d1f9142367e33760d384e]
 
 (1) For the purposes of determining the income of a student’s parent (and, accordingly, the parent’s gross income), in computing his taxable income as for the purposes of the Income Tax Acts or for the purposes of the income tax legislation of another member State of the European Community any deductions which fall to be made or exemptions which are permitted—
 
@@ -1390,14 +1390,14 @@ the parental contribution shall—
 
 #### Spouse’s Contribution
 
-##### 7. Application of Part III[^key-154c3db69c481d20e4d504b8c605b23b]
+##### 7. Application of Part III[^c-154c3db69c481d20e4d504b8c605b23b]
 
 A spouse’s contribution ascertained in accordance with this Part shall be applicable in the case of every man student ordinarily living with his wife or, if he falls within paragraph 3(1)(*a*) and the first academic year of his course begins on or after 1st September 2000, ordinarily living with a woman as his wife, and every woman student ordinarily living with her husband or, if she falls within paragraph 3(1)(*a*) and the first academic year of her course begins on or after 1st September 2000, ordinarily living with a man as her husband, except—
 
 - (a) a student in whose case a parental contribution is applicable in accordance with Part II; and
 - (b) an eligible student whose child holds an award in respect of which a parental contribution is applicable or whose child is an eligible student in respect of whom a contribution is ascertained under Part II of this Schedule.
 
-##### 8. Spouse’s contribution[^key-566176bd8e1d8abf7e46c8feecb9b8f4]
+##### 8. Spouse’s contribution[^c-566176bd8e1d8abf7e46c8feecb9b8f4]
 
 (1) Subject to sub-paragraphs (3) and (4), Part II above, except paragraphs 3, 4(1), (2), (3)(*a*) and (*c*), 5(4), (7), (8) and (9), and 6(2)(*d*), shall apply with the necessary modifications for the ascertainment of the spouse’s contribution as it applies for the ascertainment of the parental contribution, references to the parent being construed, except where the context otherwise requires, as references to the eligible student’s spouse within the meaning of paragraph 7 and, unless the context otherwise requires, this Part shall be construed as one with the said Part II.
 
@@ -1455,9 +1455,9 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00002]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 5(*b*) and Schedule 3 Part II
 
-[^key-d0b0e99fda43f1391b6b952fa613b7e3]: Commencement: Reg. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-d0b0e99fda43f1391b6b952fa613b7e3]: Commencement: Reg. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-5279d624cf3475bf903f716619446d71]: Commencement: Reg. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-5279d624cf3475bf903f716619446d71]: Commencement: Reg. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00003]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
@@ -1499,13 +1499,13 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00022]: Footnote: O.J. No. L257, 19.10.68, p. 2 (O.J./S.E. 1968 (II) p. 457)
 
-[^key-638f84c5d185a622e8f26511db90f7e0]: Commencement: Reg. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-638f84c5d185a622e8f26511db90f7e0]: Commencement: Reg. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00023]: Footnote: [S.R. 1999 No. 370](https://www.legislation.gov.uk/nisr/1999/370)
 
 [^f00024]: Footnote: [S.R. 2000 No. 175](https://www.legislation.gov.uk/nisr/2000/175)
 
-[^key-ba887e861c0178110d03e38fa6fdcca7]: Commencement: Reg. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-ba887e861c0178110d03e38fa6fdcca7]: Commencement: Reg. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00025]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -1513,19 +1513,19 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00027]: Footnote: S.I. [1992/580](https://www.legislation.gov.uk/uksi/1992/580)
 
-[^key-838bf8df910682dbcd84743953150126]: Commencement: Reg. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-838bf8df910682dbcd84743953150126]: Commencement: Reg. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00028]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by section 27 of the [Teaching and Higher Education Act (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30)
 
-[^key-79855b80f66edf0718b451f9392c648f]: Commencement: Reg. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-79855b80f66edf0718b451f9392c648f]: Commencement: Reg. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-be186d583dfcc2842a1662e9118a5357]: Commencement: Reg. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-be186d583dfcc2842a1662e9118a5357]: Commencement: Reg. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-caf033f46de68d65a34c70c6d4863537]: Commencement: Reg. 8 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-caf033f46de68d65a34c70c6d4863537]: Commencement: Reg. 8 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-8f439b9274e3fc1b1d4dadcdb1bacf1d]: Commencement: Reg. 9 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-8f439b9274e3fc1b1d4dadcdb1bacf1d]: Commencement: Reg. 9 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-b8752d02a9e7edc0f19c37dbbfa90cc6]: Commencement: Reg. 10 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-b8752d02a9e7edc0f19c37dbbfa90cc6]: Commencement: Reg. 10 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00029]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40)
 
@@ -1533,13 +1533,13 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00031]: Footnote: ERASMUS is part of the European Community Action Programme SOCRATES, O.J. No. L87, 20.4.95, p. 10
 
-[^key-3bd098afae6d223c765c7fce62f967a2]: Commencement: Reg. 11 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-3bd098afae6d223c765c7fce62f967a2]: Commencement: Reg. 11 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00032]: Footnote: S.I. [1999/2263](https://www.legislation.gov.uk/uksi/1999/2263)
 
 [^f00033]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13)
 
-[^key-0215bf7f12aede50ae3cbc5e73b2f26d]: Commencement: Reg. 12 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-0215bf7f12aede50ae3cbc5e73b2f26d]: Commencement: Reg. 12 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00034]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -1551,41 +1551,41 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00038]: Footnote: S.I. [1991/194 (N.I.1)](https://www.legislation.gov.uk/nisi/1991/194); Article 10 was amended by the Health and Personal Social Services (Northern Ireland) Order 1994 (S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429)) Article 3(8)
 
-[^key-3b4922980d45ee3a4548c1c7f0c295c3]: Commencement: Reg. 13 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-3b4922980d45ee3a4548c1c7f0c295c3]: Commencement: Reg. 13 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-efc51b436a387f48ecaac2f6c1030570]: Commencement: Reg. 14 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-efc51b436a387f48ecaac2f6c1030570]: Commencement: Reg. 14 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-c8b5cc1fdbe920da274bfd6082730531]: Commencement: Reg. 15 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-c8b5cc1fdbe920da274bfd6082730531]: Commencement: Reg. 15 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00039]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); Article 59A was inserted by paragraph 164 of Schedule 9 to the Children (Northern Ireland) Order 1995 (S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)); the relevant amending Regulations are [1996/438](https://www.legislation.gov.uk/uksi/1996/438)
 
-[^key-eb81e7f6842445779734dd29cf2bd782]: Commencement: Reg. 16 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-eb81e7f6842445779734dd29cf2bd782]: Commencement: Reg. 16 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-a3fa9137733d6a98eef11fab0f941637]: Commencement: Reg. 17 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-a3fa9137733d6a98eef11fab0f941637]: Commencement: Reg. 17 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-e4a13742099bc89c27aceb0c19dab6b2]: Commencement: Reg. 18 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-e4a13742099bc89c27aceb0c19dab6b2]: Commencement: Reg. 18 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-a371a091fed1f7cbf3aa6d0c45f5fdf4]: Commencement: Reg. 19 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-a371a091fed1f7cbf3aa6d0c45f5fdf4]: Commencement: Reg. 19 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-ac8aef9491bccee8b6baa839656b5ff1]: Commencement: Reg. 20 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-ac8aef9491bccee8b6baa839656b5ff1]: Commencement: Reg. 20 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-52557d6e5a7ca96fab299caea4c1eb26]: Commencement: Reg. 21 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-52557d6e5a7ca96fab299caea4c1eb26]: Commencement: Reg. 21 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-907eff9d7210a8afdd5d92ee9c447bc2]: Commencement: Reg. 22 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-907eff9d7210a8afdd5d92ee9c447bc2]: Commencement: Reg. 22 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-a98334f9c984dd91bff8ff2d354ed984]: Commencement: Reg. 23 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-a98334f9c984dd91bff8ff2d354ed984]: Commencement: Reg. 23 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-73022f2374085acf03db3be9136f9052]: Commencement: Reg. 24 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-73022f2374085acf03db3be9136f9052]: Commencement: Reg. 24 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-70a5aa2637a6c2e50d33e441f23ac9b3]: Commencement: Reg. 25 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-70a5aa2637a6c2e50d33e441f23ac9b3]: Commencement: Reg. 25 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-96425a106a88d8315a102d2f010b736b]: Commencement: Reg. 26 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-96425a106a88d8315a102d2f010b736b]: Commencement: Reg. 26 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-c24caa75685f205417589492c00b273b]: Commencement: Reg. 27 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-c24caa75685f205417589492c00b273b]: Commencement: Reg. 27 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-7b52311f1ba0fb169e08f9c5a9826c73]: Commencement: Reg. 28 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-7b52311f1ba0fb169e08f9c5a9826c73]: Commencement: Reg. 28 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-16c1b8802dc972b591afc1774e26b975]: Commencement: Reg. 29 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-16c1b8802dc972b591afc1774e26b975]: Commencement: Reg. 29 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00040]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), as amended by the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)), Articles 3 to 5, 7, 8, 10 to 12 and Schedules 1 and 2
 
@@ -1597,69 +1597,69 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00044]: Footnote: Section 130, which provides for housing benefit, is amended by the Local Government Finance Act 1992, section 103 and Schedule 9, paragraph 3, the Local government etc . (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180(1) and Schedule 13, paragraph 174(4) and by the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), section 227 and Schedule 19, Part VI with savings (see S.I. [1997/618](https://www.legislation.gov.uk/uksi/1997/618), Article 2 and Schedule, paragraph 4)
 
-[^key-7dcea35cd68e0d3f0b6c299bbf3542bf]: Commencement: Reg. 30 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-7dcea35cd68e0d3f0b6c299bbf3542bf]: Commencement: Reg. 30 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-1ddeca3b1d9b04184300b0e422c5ae63]: Commencement: Reg. 31 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-1ddeca3b1d9b04184300b0e422c5ae63]: Commencement: Reg. 31 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-6b06d4a229f95ad7801cd67acb019baf]: Commencement: Reg. 32 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-6b06d4a229f95ad7801cd67acb019baf]: Commencement: Reg. 32 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-9a0810e4dd1c866ee4ca3cd52ae4d084]: Commencement: Reg. 33 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-9a0810e4dd1c866ee4ca3cd52ae4d084]: Commencement: Reg. 33 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-b47ddd3d648193cc3599a78d9c2b0e17]: Commencement: Reg. 34 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-b47ddd3d648193cc3599a78d9c2b0e17]: Commencement: Reg. 34 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-848edc519ad66cd59f59a14d6b106894]: Commencement: Reg. 35 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-848edc519ad66cd59f59a14d6b106894]: Commencement: Reg. 35 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-f378608f2677138811112a9c99fd1be3]: Commencement: Reg. 36 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-f378608f2677138811112a9c99fd1be3]: Commencement: Reg. 36 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-45cfa4a628bbf1bb2a733900adc01b18]: Commencement: Reg. 37 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-45cfa4a628bbf1bb2a733900adc01b18]: Commencement: Reg. 37 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-8885ea10e9113f302bd0febafbe194da]: Commencement: Reg. 38 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-8885ea10e9113f302bd0febafbe194da]: Commencement: Reg. 38 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00045]: Footnote: S.I. [1980/51](https://www.legislation.gov.uk/uksi/1980/51), amended by S.I. [1985/1192](https://www.legislation.gov.uk/uksi/1985/1192), [1989/596](https://www.legislation.gov.uk/uksi/1989/596)
 
 [^f00046]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39)
 
-[^key-f4b44309da1456b4f955dc8c007f0e6b]: Commencement: Reg. 39 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-f4b44309da1456b4f955dc8c007f0e6b]: Commencement: Reg. 39 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00047]: Footnote: [S.I.1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Article 283 was amended by the Pensions (Northern Ireland) Order 1995 S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), Schedule 1, paragraph 11
 
 [^f00048]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 310 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 3, paragraph 15
 
-[^key-72572fb9dc3e31af3925d960afc4c98e]: Commencement: Sch. 1 para. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-72572fb9dc3e31af3925d960afc4c98e]: Commencement: Sch. 1 para. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00049]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), section 39 and Schedule 4; by the Immigration Act [1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), sections 1, 3, 4, 6, and 10 and the Schedule, by the Asylum and Immigration Appeals Act [1993 (c. 23)](https://www.legislation.gov.uk/ukpga/1993/23), section 10 to 12
 
-[^key-870569306358bfef70d9abcb55a5b16a]: Commencement: Sch. 1 para. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-870569306358bfef70d9abcb55a5b16a]: Commencement: Sch. 1 para. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-95da5d4b4bda6aef3d1ab3114ded92c7]: Commencement: Sch. 1 para. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-95da5d4b4bda6aef3d1ab3114ded92c7]: Commencement: Sch. 1 para. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-56b835e3133be64194f542b23a6948e3]: Commencement: Sch. 1 para. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-56b835e3133be64194f542b23a6948e3]: Commencement: Sch. 1 para. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00050]: Footnote: O.J. No. L257, 19.10.68, p. 2 (O.J./S.E. 1968 (II) p. 475)
 
-[^key-6c766f7bd52e03bf61a33f71e44af906]: Commencement: Sch. 1 para. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-6c766f7bd52e03bf61a33f71e44af906]: Commencement: Sch. 1 para. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-4b926ec2069b8ced5777f125d61dba8a]: Commencement: Sch. 1 para. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-4b926ec2069b8ced5777f125d61dba8a]: Commencement: Sch. 1 para. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-d67b70a26c47ed8a9141379f50a7b51b]: Commencement: Sch. 1 para. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-d67b70a26c47ed8a9141379f50a7b51b]: Commencement: Sch. 1 para. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-d3a92bd83e2f47d13d096cfe51fdd141]: Commencement: Sch. 1 para. 8 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-d3a92bd83e2f47d13d096cfe51fdd141]: Commencement: Sch. 1 para. 8 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-7ea79bb829b8a346ad44dade7997a34a]: Commencement: Sch. 2 para. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-7ea79bb829b8a346ad44dade7997a34a]: Commencement: Sch. 2 para. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-f6bd30b01c78efe54500710aac89e1b9]: Commencement: Sch. 2 para. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-f6bd30b01c78efe54500710aac89e1b9]: Commencement: Sch. 2 para. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-7ae06f67d20085537a3488e27f210e1a]: Commencement: Sch. 2 para. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-7ae06f67d20085537a3488e27f210e1a]: Commencement: Sch. 2 para. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-e052d46a44925ae8b375bd1f54d2c7f5]: Commencement: Sch. 2 para. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-e052d46a44925ae8b375bd1f54d2c7f5]: Commencement: Sch. 2 para. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-04f21d39f96b4410970d545c779c5f13]: Commencement: Sch. 2 para. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-04f21d39f96b4410970d545c779c5f13]: Commencement: Sch. 2 para. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-15ddbf1c142c2ffdbe9a8f5e2444e85c]: Commencement: Sch. 2 para. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-15ddbf1c142c2ffdbe9a8f5e2444e85c]: Commencement: Sch. 2 para. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-b8156e34691d32166de2b54f14a5ac82]: Commencement: Sch. 2 para. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-b8156e34691d32166de2b54f14a5ac82]: Commencement: Sch. 2 para. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-90ca8f0c5e570bae727737d2176a7056]: Commencement: Sch. 3 para. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-90ca8f0c5e570bae727737d2176a7056]: Commencement: Sch. 3 para. 1 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00051]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); Article 59A was inserted by paragraph 164 of Schedule 9 to the Children’s (Northern Ireland) Order 1995 (S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)); the relevant Regulations are [1996/438](https://www.legislation.gov.uk/uksi/1996/438)
 
@@ -1675,18 +1675,18 @@ A part-time student’s eligibility terminates at the end of the academic year i
 
 [^f00057]: Footnote: O.J. No. L340, 29.12.94, p. 8
 
-[^key-fb8b1753062d771c9b9aa66e7ed75c4b]: Commencement: Sch. 3 para. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-fb8b1753062d771c9b9aa66e7ed75c4b]: Commencement: Sch. 3 para. 2 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-00d406142ed6ff0e8913f244caf696df]: Commencement: Sch. 3 para. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-00d406142ed6ff0e8913f244caf696df]: Commencement: Sch. 3 para. 3 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-770cae00b3ad526e09b3b4023a45bae0]: Commencement: Sch. 3 para. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-770cae00b3ad526e09b3b4023a45bae0]: Commencement: Sch. 3 para. 4 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-ff216ef241652303872d94a73185789a]: Commencement: Sch. 3 para. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-ff216ef241652303872d94a73185789a]: Commencement: Sch. 3 para. 5 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-1645b05e1a2d1f9142367e33760d384e]: Commencement: Sch. 3 para. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-1645b05e1a2d1f9142367e33760d384e]: Commencement: Sch. 3 para. 6 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
 [^f00058]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-154c3db69c481d20e4d504b8c605b23b]: Commencement: Sch. 3 para. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-154c3db69c481d20e4d504b8c605b23b]: Commencement: Sch. 3 para. 7 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
 
-[^key-566176bd8e1d8abf7e46c8feecb9b8f4]: Commencement: Sch. 3 para. 8 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)
+[^c-566176bd8e1d8abf7e46c8feecb9b8f4]: Commencement: Sch. 3 para. 8 in operation at 20.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/213/regulation/1)

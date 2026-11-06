@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9A. Transitional provision: withdrawal from the EEA and the EU[^key-1fb379651314750466c29f83c22ff37a]
+## 9A. Transitional provision: withdrawal from the EEA and the EU[^c-1fb379651314750466c29f83c22ff37a]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb379651314750466c29f83c22ff37a]: Textual amendment: Reg. 9A inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/778)](https://www.legislation.gov.uk/uksi/2019/778), [regs. 1](https://www.legislation.gov.uk/uksi/2019/778/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/778/regulation/2) (as amended by [S.I. 2020/1501](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(2)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fb379651314750466c29f83c22ff37a]: Textual amendment: Reg. 9A inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/778)](https://www.legislation.gov.uk/uksi/2019/778), [regs. 1](https://www.legislation.gov.uk/uksi/2019/778/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/778/regulation/2) (as amended by [S.I. 2020/1501](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(2)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

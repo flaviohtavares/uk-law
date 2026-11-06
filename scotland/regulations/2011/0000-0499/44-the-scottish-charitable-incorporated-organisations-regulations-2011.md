@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 50(3), 52(1) and 64(b), (e) and (f) of the Charities and Trustee Investment (Scotland) Act 2005[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-559e32d23ee3b03d0f5006ec00467b08]
+## 1. Citation, commencement and interpretation[^c-559e32d23ee3b03d0f5006ec00467b08]
 
 (1) These Regulations may be cited as the Scottish Charitable Incorporated Organisations Regulations 2011 and come into force on 1st April 2011.
 
@@ -56,7 +56,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (b) “address” means an address notified for the purposes of sending documents by post or leaving documents and in the case of a body corporate, the address of the registered or principal office of that body;
 - (c) “the Register” means the register of charities known as the “Scottish Charity Register” and kept by OSCR under section 3(1) of the 2005 Act.
 
-## 2. Constitution[^key-d27ffc8490c941ab28f8886baf0fa044]
+## 2. Constitution[^c-d27ffc8490c941ab28f8886baf0fa044]
 
 In addition to the requirements in section 50 of the 2005 Act the constitution of a SCIO must make provision about—
 
@@ -73,7 +73,7 @@ In addition to the requirements in section 50 of the 2005 Act the constitution o
 - (f) procedures for dealing with any conflict of interest; and
 - (g) those purposes which are the same as or which resemble closely the purposes of the SCIO, for which any surplus assets available to the SCIO immediately preceding its winding up or dissolution must be used.
 
-## 3. Register of charity trustees[^key-4a94e7ea885e5142e7ce2f433e1233cd]
+## 3. Register of charity trustees[^c-4a94e7ea885e5142e7ce2f433e1233cd]
 
 (1) Every SCIO must keep a register of its charity trustees.
 
@@ -101,7 +101,7 @@ In addition to the requirements in section 50 of the 2005 Act the constitution o
 
 (6) The SCIO must update the register of charity trustees within 28 days of receiving notice of any change.
 
-## 4. Right to require copies of the register of charity trustees[^key-87615c9ef5ebee8b84726f7a7e9ddc80]
+## 4. Right to require copies of the register of charity trustees[^c-87615c9ef5ebee8b84726f7a7e9ddc80]
 
 (1) A person who requests a SCIO to provide a copy of its register of charity trustees is, if the request is reasonable, entitled to be given a copy by the SCIO within 28 days.
 
@@ -109,7 +109,7 @@ In addition to the requirements in section 50 of the 2005 Act the constitution o
 
 (3) The name of any of its charity trustees may be redacted only if the SCIO is satisfied that including that information is likely to jeopardise the safety or security of any person or premises.
 
-## 5. Register of members[^key-e33131df26f509b7a7da059d482ef5e5]
+## 5. Register of members[^c-e33131df26f509b7a7da059d482ef5e5]
 
 (1) Where the members of a SCIO are not identical to its charity trustees, the SCIO must keep a register of members.
 
@@ -133,23 +133,23 @@ In addition to the requirements in section 50 of the 2005 Act the constitution o
 
 (5) The SCIO must update the register of members within 28 days of receiving notice of any change.
 
-## 6. Right to require copies of the register of members[^key-d55edb55fc76e64f6a2ba73efb2d9391]
+## 6. Right to require copies of the register of members[^c-d55edb55fc76e64f6a2ba73efb2d9391]
 
 (1) A member or a charity trustee of a SCIO who requests the SCIO to provide a copy of its register of members is, if the request is reasonable, entitled to be given a copy by the SCIO within 28 days.
 
 (2) Where a member, not being a charity trustee, of a SCIO makes such a request, a SCIO may provide a copy with the address of any of its members redacted.
 
-## 7. Prohibition on transfer of membership[^key-b40b54902059d7e6b4d00742543ea1bb]
+## 7. Prohibition on transfer of membership[^c-b40b54902059d7e6b4d00742543ea1bb]
 
 Membership of a SCIO may not be transferred by a member.
 
-## 8. Meetings of members[^key-776ab998606da236fc514341aecb1fa9]
+## 8. Meetings of members[^c-776ab998606da236fc514341aecb1fa9]
 
 (1) A SCIO must hold a meeting of its members within 15 months of the date on which OSCR enters the SCIO in the Register, and at least once every 15 months thereafter.
 
 (2) A SCIO must give at least 14 days notice of such meetings to its members and its charity trustees.
 
-## 9. Specified documents[^key-a70ff4fb1ad54098d377780ea1f1e713][^key-192dbfbd6c5a05b600e4c465477a6ec8]
+## 9. Specified documents[^c-a70ff4fb1ad54098d377780ea1f1e713][^c-192dbfbd6c5a05b600e4c465477a6ec8]
 
 For the purposes of section 52 of the 2005 Act the following documents are specified:—
 
@@ -166,7 +166,7 @@ For the purposes of section 52 of the 2005 Act the following documents are speci
 - (k) bills of exchange, other than those which are cheques within the meaning of section 73 of the Bills of Exchange Act 1882[^f00004];
 - (l) the home web page on a website operated by or on behalf of the SCIO.
 
-## 10. Required information[^key-7671896341c0d1354512f107f7b736b5]
+## 10. Required information[^c-7671896341c0d1354512f107f7b736b5]
 
 In addition to its name and the fact that it is a SCIO as required by section 52(1) to (3) of the 2005 Act, a SCIO must state in legible characters on all documents listed in regulation 9 issued or signed by, or on behalf of, the SCIO on or after 1 June 2024—
 
@@ -209,30 +209,30 @@ Regulation 9 specifies the documents on which a SCIO must state its name in leg
 
 [^f00001]: Footnote: [005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-559e32d23ee3b03d0f5006ec00467b08]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/44/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-559e32d23ee3b03d0f5006ec00467b08]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/44/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-d27ffc8490c941ab28f8886baf0fa044]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/44/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-d27ffc8490c941ab28f8886baf0fa044]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/44/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-4a94e7ea885e5142e7ce2f433e1233cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/44/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-4a94e7ea885e5142e7ce2f433e1233cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/44/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
 [^f00002]: Footnote: Section 70A was inserted into the 2005 Act by section 126 of the [Public Services Reform (Scotland) Act 2010, (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-87615c9ef5ebee8b84726f7a7e9ddc80]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/44/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-87615c9ef5ebee8b84726f7a7e9ddc80]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/44/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-e33131df26f509b7a7da059d482ef5e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/44/regulation/5) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-e33131df26f509b7a7da059d482ef5e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/44/regulation/5) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-d55edb55fc76e64f6a2ba73efb2d9391]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/44/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-d55edb55fc76e64f6a2ba73efb2d9391]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/44/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-b40b54902059d7e6b4d00742543ea1bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/44/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-b40b54902059d7e6b4d00742543ea1bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/44/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-776ab998606da236fc514341aecb1fa9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/44/regulation/8) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-776ab998606da236fc514341aecb1fa9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/44/regulation/8) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-a70ff4fb1ad54098d377780ea1f1e713]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/44/regulation/9) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
+[^c-a70ff4fb1ad54098d377780ea1f1e713]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/44/regulation/9) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/44/regulation/1/1)
 
-[^key-192dbfbd6c5a05b600e4c465477a6ec8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/44/regulation/9) heading substituted (1.6.2024) by [The Charities (References in Documents) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/111)](https://www.legislation.gov.uk/ssi/2024/111), [regs. 1](https://www.legislation.gov.uk/ssi/2024/111/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/111/regulation/2/2)
+[^c-192dbfbd6c5a05b600e4c465477a6ec8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/44/regulation/9) heading substituted (1.6.2024) by [The Charities (References in Documents) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/111)](https://www.legislation.gov.uk/ssi/2024/111), [regs. 1](https://www.legislation.gov.uk/ssi/2024/111/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/111/regulation/2/2)
 
 [^f00003]: Footnote: [S.S.I 2006/218](https://www.legislation.gov.uk/ssi/2006/218), as amended by [S.S.I. 2007/136](https://www.legislation.gov.uk/ssi/2007/136) and [S.S.I. 2010/287](https://www.legislation.gov.uk/ssi/2010/287).
 
 [^f00004]: Footnote: [1882 c.61](https://www.legislation.gov.uk/ukpga/1882/61).
 
-[^key-7671896341c0d1354512f107f7b736b5]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/44/regulation/10) inserted (1.6.2024) by [The Charities (References in Documents) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/111)](https://www.legislation.gov.uk/ssi/2024/111), [regs. 1](https://www.legislation.gov.uk/ssi/2024/111/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/111/regulation/2/3)
+[^c-7671896341c0d1354512f107f7b736b5]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/44/regulation/10) inserted (1.6.2024) by [The Charities (References in Documents) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/111)](https://www.legislation.gov.uk/ssi/2024/111), [regs. 1](https://www.legislation.gov.uk/ssi/2024/111/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/111/regulation/2/3)

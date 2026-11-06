@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**268.**[^key-39b21e989afb54e62a6206bf2f84049a] (1) Section 24 (general interpretation) of the Learner Travel (Wales) Measure 2008 is amended as follows.
+**268.**[^c-39b21e989afb54e62a6206bf2f84049a] (1) Section 24 (general interpretation) of the Learner Travel (Wales) Measure 2008 is amended as follows.
 
 (2) In subsection (1) in the definition of “local authority” for “the Local Authority Social Services Act [1970 (c.42)](https://www.legislation.gov.uk/ukpga/1970/42)” substitute “the Social Services and Well-being (Wales) Act 2014.”
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39b21e989afb54e62a6206bf2f84049a]: Commencement: Reg. 268 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-39b21e989afb54e62a6206bf2f84049a]: Commencement: Reg. 268 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

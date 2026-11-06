@@ -32,7 +32,7 @@ summary: ''
 
 ANIMAL HEALTH
 
-The TSE (Scotland) Amendment (No. 2) Regulations 2005 (revoked)[^key-1b78563c62fc50cecf85bfa47fc39091]
+The TSE (Scotland) Amendment (No. 2) Regulations 2005 (revoked)[^c-1b78563c62fc50cecf85bfa47fc39091]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 7th November 2005
 
-[^key-1b78563c62fc50cecf85bfa47fc39091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b78563c62fc50cecf85bfa47fc39091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1b78563c62fc50cecf85bfa47fc39091]
+## 1. Citation, commencement and extent[^c-1b78563c62fc50cecf85bfa47fc39091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (Scotland) Regulations 2002[^key-1b78563c62fc50cecf85bfa47fc39091]
+## 2. Amendment of the TSE (Scotland) Regulations 2002[^c-1b78563c62fc50cecf85bfa47fc39091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1b78563c62fc50cecf85bfa47fc39091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b78563c62fc50cecf85bfa47fc39091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b78563c62fc50cecf85bfa47fc39091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-1b78563c62fc50cecf85bfa47fc39091]
+## SCHEDULE[^c-1b78563c62fc50cecf85bfa47fc39091]
 
 Regulation 14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b78563c62fc50cecf85bfa47fc39091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b78563c62fc50cecf85bfa47fc39091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b78563c62fc50cecf85bfa47fc39091]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/469) revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-1b78563c62fc50cecf85bfa47fc39091]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/469) revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

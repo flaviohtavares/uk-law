@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Failure to comply with conditions imposed by head landlord[^key-d366fa8328d9bd908e11f0378a150cb6]
+## 61. Failure to comply with conditions imposed by head landlord[^c-d366fa8328d9bd908e11f0378a150cb6]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d366fa8328d9bd908e11f0378a150cb6]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2016/1/section/61) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d366fa8328d9bd908e11f0378a150cb6]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2016/1/section/61) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

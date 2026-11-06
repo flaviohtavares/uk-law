@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Guidance relating to Part 1[^key-43d6a0591d913775c56edf0acb6635dc]
+## 12. Guidance relating to Part 1[^c-43d6a0591d913775c56edf0acb6635dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43d6a0591d913775c56edf0acb6635dc]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/27/section/12) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-43d6a0591d913775c56edf0acb6635dc]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/27/section/12) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

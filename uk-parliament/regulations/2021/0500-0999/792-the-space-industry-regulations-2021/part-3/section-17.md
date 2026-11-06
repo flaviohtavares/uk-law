@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Delegation of power to the regulator[^key-9a74d0ed52e56b5ca665cff0d89e2476]
+## 17. Delegation of power to the regulator[^c-9a74d0ed52e56b5ca665cff0d89e2476]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a74d0ed52e56b5ca665cff0d89e2476]: Commencement: Reg. 17 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9a74d0ed52e56b5ca665cff0d89e2476]: Commencement: Reg. 17 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00028]: Footnote: The matters which must be specified by the regulator in accordance with regulation 17 are set out in the Regulator’s Licensing Rules dated xxx2021 which are published at https://www.caa.co.uk/Our-work/Publications/Publications/. A hard copy can be obtained from the CAA, Aviation House, Beehive Ringroad, Crawley, West Sussex RH6 0YR.

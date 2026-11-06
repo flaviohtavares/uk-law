@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Targets for improving biodiversity[^key-7921e5c9404ba524cb7e3730d57c8b0c]
+## 1. Targets for improving biodiversity[^c-7921e5c9404ba524cb7e3730d57c8b0c]
 
 *Extent: S*
 
@@ -204,4 +204,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7921e5c9404ba524cb7e3730d57c8b0c]: Commencement: S. 1 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-7921e5c9404ba524cb7e3730d57c8b0c]: Commencement: S. 1 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

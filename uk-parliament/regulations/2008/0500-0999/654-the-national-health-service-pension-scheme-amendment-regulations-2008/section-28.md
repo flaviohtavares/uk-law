@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Amendment of regulation G13[^key-307961386bdd2626dab865edafde163b]
+## 28. Amendment of regulation G13[^c-307961386bdd2626dab865edafde163b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-307961386bdd2626dab865edafde163b]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-307961386bdd2626dab865edafde163b]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

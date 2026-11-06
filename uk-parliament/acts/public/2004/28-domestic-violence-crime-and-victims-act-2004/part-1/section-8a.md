@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Establishment and conduct of reviews[^key-6cd2e425b0306e5b95974ffc354294e1]
+## 8A. Establishment and conduct of reviews[^c-6cd2e425b0306e5b95974ffc354294e1]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cd2e425b0306e5b95974ffc354294e1]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2004/28/section/8A) and cross-heading inserted (E.W.) (15.9.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/19/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)
+[^c-6cd2e425b0306e5b95974ffc354294e1]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2004/28/section/8A) and cross-heading inserted (E.W.) (15.9.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/19/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)

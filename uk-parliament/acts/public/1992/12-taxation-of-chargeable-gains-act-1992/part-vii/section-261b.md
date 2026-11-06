@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261B. Treating trade loss etc as CGT loss[^key-114e475e441da9bc64e129ef09833188]
+## 261B. Treating trade loss etc as CGT loss[^c-114e475e441da9bc64e129ef09833188]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) When the relevant amount can no longer be varied—
 
-- (a) by the tribunal[^key-ce9d16c1084125fb223913cd408a0812] on appeal, or
+- (a) by the tribunal[^c-ce9d16c1084125fb223913cd408a0812] on appeal, or
 - (b) on the order of a court,
 
 it is treated for the purposes of capital gains tax as an allowable loss accruing to the person in the year of assessment corresponding to the tax year.
@@ -57,6 +57,6 @@ it is treated for the purposes of capital gains tax as an allowable loss accruin
 
 ## Annotations
 
-[^key-114e475e441da9bc64e129ef09833188]: Textual amendment: Ss. 261B-261E and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 329](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/329) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-114e475e441da9bc64e129ef09833188]: Textual amendment: Ss. 261B-261E and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 329](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/329) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-ce9d16c1084125fb223913cd408a0812]: Textual amendment: Word in s. 261B(4)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 182](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/182)
+[^c-ce9d16c1084125fb223913cd408a0812]: Textual amendment: Word in s. 261B(4)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 182](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/182)

@@ -36,24 +36,24 @@ concerning the authorisation of zinc chelate of hydroxy analogue of methionine a
 
 (Text with EEA relevance) (revoked)
 
-[^key-7ba189d8637a44dd5d352f30c691966d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ba189d8637a44dd5d352f30c691966d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-7ba189d8637a44dd5d352f30c691966d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7ba189d8637a44dd5d352f30c691966d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7ba189d8637a44dd5d352f30c691966d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7ba189d8637a44dd5d352f30c691966d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7ba189d8637a44dd5d352f30c691966d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7ba189d8637a44dd5d352f30c691966d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ba189d8637a44dd5d352f30c691966d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ba189d8637a44dd5d352f30c691966d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-7ba189d8637a44dd5d352f30c691966d]
+## ANNEX[^c-7ba189d8637a44dd5d352f30c691966d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ba189d8637a44dd5d352f30c691966d]: Textual amendment: Regulation revoked: (E.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (England) Regulations 2024 (S.I. 2024/1101)](https://www.legislation.gov.uk/uksi/2024/1101), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1), [Sch. 21 para. 2](https://www.legislation.gov.uk/uksi/2024/1101/schedule/21/paragraph/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2024/1101/part/5)); (S.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/330)](https://www.legislation.gov.uk/ssi/2024/330), [reg. 1](https://www.legislation.gov.uk/ssi/2024/330/regulation/1), [sch. 21 para. 3](https://www.legislation.gov.uk/ssi/2024/330/schedule/21/paragraph/3) (with [Pt. 4](https://www.legislation.gov.uk/ssi/2024/330/part/4)); and (W.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (Wales) Regulations 2024 (S.I. 2024/1251)](https://www.legislation.gov.uk/wsi/2024/1251), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1251/regulation/1/2/c), [Sch. 21](https://www.legislation.gov.uk/wsi/2024/1251/schedule/21) (with [Pt. 3](https://www.legislation.gov.uk/wsi/2024/1251/part/3))
+[^c-7ba189d8637a44dd5d352f30c691966d]: Textual amendment: Regulation revoked: (E.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (England) Regulations 2024 (S.I. 2024/1101)](https://www.legislation.gov.uk/uksi/2024/1101), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1), [Sch. 21 para. 2](https://www.legislation.gov.uk/uksi/2024/1101/schedule/21/paragraph/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2024/1101/part/5)); (S.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/330)](https://www.legislation.gov.uk/ssi/2024/330), [reg. 1](https://www.legislation.gov.uk/ssi/2024/330/regulation/1), [sch. 21 para. 3](https://www.legislation.gov.uk/ssi/2024/330/schedule/21/paragraph/3) (with [Pt. 4](https://www.legislation.gov.uk/ssi/2024/330/part/4)); and (W.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (Wales) Regulations 2024 (S.I. 2024/1251)](https://www.legislation.gov.uk/wsi/2024/1251), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1251/regulation/1/2/c), [Sch. 21](https://www.legislation.gov.uk/wsi/2024/1251/schedule/21) (with [Pt. 3](https://www.legislation.gov.uk/wsi/2024/1251/part/3))

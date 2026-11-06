@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**144.**[^key-614265321f4278ebeb6684a88f42349e] In section 57ZS[^f00160] (placement of looked after children with prospective adopters)—
+**144.**[^c-614265321f4278ebeb6684a88f42349e] In section 57ZS[^f00160] (placement of looked after children with prospective adopters)—
 
 - (a) after subsection (2) insert—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-614265321f4278ebeb6684a88f42349e]: Commencement: Reg. 144 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-614265321f4278ebeb6684a88f42349e]: Commencement: Reg. 144 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00160]: Footnote: Section 57ZS was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 128(1).

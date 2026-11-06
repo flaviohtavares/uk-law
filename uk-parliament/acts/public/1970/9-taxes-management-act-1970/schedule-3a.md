@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Electronic lodgement of tax returns, etc.[^key-0ef97aaa89b6ba0c6cfac94c2cb89f39][^key-41bee57e50512ec3530bf5a729a997e8][^key-8d17f2b48360c715a4647955d2b84606][^key-7b9044f47f4fdedcc2ddf4f058863a76][^key-db9d8b2032c3d0c855778f20d12bd5ca]
+## SCHEDULE 3A — Electronic lodgement of tax returns, etc.[^c-0ef97aaa89b6ba0c6cfac94c2cb89f39][^c-41bee57e50512ec3530bf5a729a997e8][^c-8d17f2b48360c715a4647955d2b84606][^c-7b9044f47f4fdedcc2ddf4f058863a76][^c-db9d8b2032c3d0c855778f20d12bd5ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ to deliver or make a return to an officer of the Board or to the Board.
 
 (4) Any requirement—
 
-- (a) under any provision of Part II of this Act or Schedule 18 to the Finance Act 1998[^key-885c7ef2616d0fa6180c0000c25ef28d] that the return include a declaration by the person making the return to the effect that the return is to the best of his knowledge correct and complete, or
+- (a) under any provision of Part II of this Act or Schedule 18 to the Finance Act 1998[^c-885c7ef2616d0fa6180c0000c25ef28d] that the return include a declaration by the person making the return to the effect that the return is to the best of his knowledge correct and complete, or
 - (b) under or by virtue of any other provision of the Taxes Acts that the return be signed or include any description of declaration or certificate,
 
 shall not apply.
@@ -65,7 +65,7 @@ shall not apply.
 
 (3) The power to make an order under this paragraph shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of the House of Commons.
 
-(4) For the purposes of this Schedule, any reference to a requirement to deliver a return includes, in relation to regulations made under the principal Act or under ITEPA 2003[^key-d07243fee0a3adfc26ef6fc0e95c3b32] or ITTOIA 2005[^key-da721f73215edf853419c601fa9fc2bb], a reference to a requirement to render a return.
+(4) For the purposes of this Schedule, any reference to a requirement to deliver a return includes, in relation to regulations made under the principal Act or under ITEPA 2003[^c-d07243fee0a3adfc26ef6fc0e95c3b32] or ITTOIA 2005[^c-da721f73215edf853419c601fa9fc2bb], a reference to a requirement to render a return.
 
 ### Part II — Documents supporting certain tax returns
 
@@ -105,13 +105,13 @@ shall not apply.
 
 (5) A notice refusing or withdrawing an approval shall state the grounds for the refusal or withdrawal.
 
-(6) A person who is refused approval or whose approval is withdrawn may appeal [^key-a827cf958128e1dc4f8a580ec2af4c3b]... against the refusal or withdrawal.
+(6) A person who is refused approval or whose approval is withdrawn may appeal [^c-a827cf958128e1dc4f8a580ec2af4c3b]... against the refusal or withdrawal.
 
 (7) The appeal shall be made by notice given to the Board before the end of the period of 30 days beginning with the day on which notice of the refusal or withdrawal was given to the appellant.
 
-(8) If an appeal is notified to the tribunal under section 49D, 49G or 49H, the tribunal[^key-1ae35da9e7b3d003aeadebec079d630a] shall not allow the appeal unless it appears [^key-971a672ee27933514f0d10ab94281600]... that, having regard to all the circumstances, it is unreasonable for the approval to be refused or (as the case may be) withdrawn.
+(8) If an appeal is notified to the tribunal under section 49D, 49G or 49H, the tribunal[^c-1ae35da9e7b3d003aeadebec079d630a] shall not allow the appeal unless it appears [^c-971a672ee27933514f0d10ab94281600]... that, having regard to all the circumstances, it is unreasonable for the approval to be refused or (as the case may be) withdrawn.
 
-(9) If the tribunal allows[^key-48080733d87a05d0c7cc4553135a924c] an appeal by a person who has been refused approval, it[^key-fef93a2e171f14fb342b5305f0451101] shall specify the date from which the approval is to have effect.
+(9) If the tribunal allows[^c-48080733d87a05d0c7cc4553135a924c] an appeal by a person who has been refused approval, it[^c-fef93a2e171f14fb342b5305f0451101] shall specify the date from which the approval is to have effect.
 
 #### Approved manner of transmission
 
@@ -146,7 +146,7 @@ to be used to make transmissions or a description of transmissions.
 
 (2) A hard copy is authenticated in accordance with this Part of this Schedule if—
 
-- (a) where the transmission is made in response to a requirement imposed by a notice under Part II of this Act or Schedule 18 to the Finance Act 1998[^key-a6d0dd3354839b9fbfdeb08bcdfeda06] to deliver a return, the hard copy is endorsed with a declaration by the relevant person that the hard copy is to the best of his knowledge correct and complete; and
+- (a) where the transmission is made in response to a requirement imposed by a notice under Part II of this Act or Schedule 18 to the Finance Act 1998[^c-a6d0dd3354839b9fbfdeb08bcdfeda06] to deliver a return, the hard copy is endorsed with a declaration by the relevant person that the hard copy is to the best of his knowledge correct and complete; and
 - (b) in any other case, if the hard copy is signed by the relevant person.
 
 (3) In sub-paragraph (2) above “**the relevant person**” means—
@@ -207,36 +207,36 @@ sub-paragraphs (2) to (4) above shall apply as if any reference to a return deli
 (6) In this paragraph—
 
 - “**hard copy**” has the same meaning as in Part IV of this Schedule; and
-- “**proceedings**” includes proceedings before [^key-44422a5b07f0413b12e50474b64b3871]... any tribunal having jurisdiction by virtue of any provision of the Taxes Acts.
+- “**proceedings**” includes proceedings before [^c-44422a5b07f0413b12e50474b64b3871]... any tribunal having jurisdiction by virtue of any provision of the Taxes Acts.
 
 ## Annotations
 
-[^key-0ef97aaa89b6ba0c6cfac94c2cb89f39]: Modification: Sch. 3A applied (N.I.) (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 (S.R. 2009/128)](https://www.legislation.gov.uk/nisr/2009/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1), [9(6)](https://www.legislation.gov.uk/nisr/2009/128/regulation/9/6)
+[^c-0ef97aaa89b6ba0c6cfac94c2cb89f39]: Modification: Sch. 3A applied (N.I.) (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 (S.R. 2009/128)](https://www.legislation.gov.uk/nisr/2009/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/128/regulation/1/1), [9(6)](https://www.legislation.gov.uk/nisr/2009/128/regulation/9/6)
 
-[^key-41bee57e50512ec3530bf5a729a997e8]: Modification: Sch. 3A applied (E.W.) (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations 2009 (S.I. 2009/470)](https://www.legislation.gov.uk/uksi/2009/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1), [13(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/13/6) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/6))
+[^c-41bee57e50512ec3530bf5a729a997e8]: Modification: Sch. 3A applied (E.W.) (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations 2009 (S.I. 2009/470)](https://www.legislation.gov.uk/uksi/2009/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1), [13(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/13/6) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/6))
 
-[^key-8d17f2b48360c715a4647955d2b84606]: Modification: Sch. 3A applied (19.4.2013) by [The Small Charitable Donations Regulations 2013 (S.I. 2013/938)](https://www.legislation.gov.uk/uksi/2013/938), [regs. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1), [20](https://www.legislation.gov.uk/uksi/2013/938/regulation/20)
+[^c-8d17f2b48360c715a4647955d2b84606]: Modification: Sch. 3A applied (19.4.2013) by [The Small Charitable Donations Regulations 2013 (S.I. 2013/938)](https://www.legislation.gov.uk/uksi/2013/938), [regs. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1), [20](https://www.legislation.gov.uk/uksi/2013/938/regulation/20)
 
-[^key-7b9044f47f4fdedcc2ddf4f058863a76]: Modification: [Sch. 3A](https://www.legislation.gov.uk/ukpga/1970/9/schedule/3A) applied (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [24(6)](https://www.legislation.gov.uk/uksi/2016/606/regulation/24/6)
+[^c-7b9044f47f4fdedcc2ddf4f058863a76]: Modification: [Sch. 3A](https://www.legislation.gov.uk/ukpga/1970/9/schedule/3A) applied (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [24(6)](https://www.legislation.gov.uk/uksi/2016/606/regulation/24/6)
 
-[^key-db9d8b2032c3d0c855778f20d12bd5ca]: Textual amendment: Sch. 3A inserted (1.5.1995) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 28 para. 2](https://www.legislation.gov.uk/ukpga/1995/4/schedule/28/paragraph/2)
+[^c-db9d8b2032c3d0c855778f20d12bd5ca]: Textual amendment: Sch. 3A inserted (1.5.1995) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 28 para. 2](https://www.legislation.gov.uk/ukpga/1995/4/schedule/28/paragraph/2)
 
-[^key-885c7ef2616d0fa6180c0000c25ef28d]: Textual amendment: Words in Sch. 3A para. 1(4)(a) inserted (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 43(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/43/2); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
+[^c-885c7ef2616d0fa6180c0000c25ef28d]: Textual amendment: Words in Sch. 3A para. 1(4)(a) inserted (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 43(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/43/2); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
 
-[^key-d07243fee0a3adfc26ef6fc0e95c3b32]: Textual amendment: Words in Sch. 3A para. 2(4) inserted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Sch. 6 para. 143](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/143) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-d07243fee0a3adfc26ef6fc0e95c3b32]: Textual amendment: Words in Sch. 3A para. 2(4) inserted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Sch. 6 para. 143](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/143) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-da721f73215edf853419c601fa9fc2bb]: Textual amendment: Words in Sch. 3A para. 2(4) inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 384](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/384) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-da721f73215edf853419c601fa9fc2bb]: Textual amendment: Words in Sch. 3A para. 2(4) inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 384](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/384) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-a827cf958128e1dc4f8a580ec2af4c3b]: Textual amendment: Words in Sch. 3A para. 4(6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/2)
+[^c-a827cf958128e1dc4f8a580ec2af4c3b]: Textual amendment: Words in Sch. 3A para. 4(6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/2)
 
-[^key-1ae35da9e7b3d003aeadebec079d630a]: Textual amendment: Words in Sch. 3A para. 4(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/3/a)
+[^c-1ae35da9e7b3d003aeadebec079d630a]: Textual amendment: Words in Sch. 3A para. 4(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/3/a)
 
-[^key-971a672ee27933514f0d10ab94281600]: Textual amendment: Words in Sch. 3A para. 4(8) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/3/b)
+[^c-971a672ee27933514f0d10ab94281600]: Textual amendment: Words in Sch. 3A para. 4(8) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/3/b)
 
-[^key-48080733d87a05d0c7cc4553135a924c]: Textual amendment: Words in Sch. 3A para. 4(9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/4/a)
+[^c-48080733d87a05d0c7cc4553135a924c]: Textual amendment: Words in Sch. 3A para. 4(9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/4/a)
 
-[^key-fef93a2e171f14fb342b5305f0451101]: Textual amendment: Word in Sch. 3A para. 4(9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/4/b)
+[^c-fef93a2e171f14fb342b5305f0451101]: Textual amendment: Word in Sch. 3A para. 4(9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 61(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/61/4/b)
 
-[^key-a6d0dd3354839b9fbfdeb08bcdfeda06]: Textual amendment: Words in Sch. 3A para. 8(2)(a) inserted (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 43(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/43/3); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
+[^c-a6d0dd3354839b9fbfdeb08bcdfeda06]: Textual amendment: Words in Sch. 3A para. 8(2)(a) inserted (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 43(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/43/3); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
 
-[^key-44422a5b07f0413b12e50474b64b3871]: Textual amendment: Words in Sch. 3A para. 11(6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/62)
+[^c-44422a5b07f0413b12e50474b64b3871]: Textual amendment: Words in Sch. 3A para. 11(6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/62)

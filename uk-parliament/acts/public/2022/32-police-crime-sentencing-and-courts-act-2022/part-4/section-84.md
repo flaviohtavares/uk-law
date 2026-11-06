@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendments to existing powers[^key-56e3b71c9959c049480546c005a8da31]
+## 84. Amendments to existing powers[^c-56e3b71c9959c049480546c005a8da31]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56e3b71c9959c049480546c005a8da31]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2022/32/section/84) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-56e3b71c9959c049480546c005a8da31]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2022/32/section/84) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

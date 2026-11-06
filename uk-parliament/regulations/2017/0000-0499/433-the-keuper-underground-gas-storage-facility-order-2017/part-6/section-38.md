@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Appeals relating to decisions under requirements[^key-b3e9e97bdd1571d834aed6dc1620eed8]
+## 38. Appeals relating to decisions under requirements[^c-b3e9e97bdd1571d834aed6dc1620eed8]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ Article 40 (arbitration) does not apply but the undertaker may by notice appeal 
 
 ## Annotations
 
-[^key-b3e9e97bdd1571d834aed6dc1620eed8]: Commencement: Art. 38 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-b3e9e97bdd1571d834aed6dc1620eed8]: Commencement: Art. 38 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
 
 [^f00024]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44); section 7 is amended by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), and sections 76 and 108 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).

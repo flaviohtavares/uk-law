@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. LRA 1967: determining price payable for freehold or lease extension[^key-a9a2eb50d4bfed6b58942bba4ecb81c7]
+## 35. LRA 1967: determining price payable for freehold or lease extension[^c-a9a2eb50d4bfed6b58942bba4ecb81c7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9a2eb50d4bfed6b58942bba4ecb81c7]: Commencement: S. 35 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a9a2eb50d4bfed6b58942bba4ecb81c7]: Commencement: S. 35 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

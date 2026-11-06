@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 294. Amendment of Article 4 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-7351dbf251eefb12e093cfaed081d288]
+## 294. Amendment of Article 4 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-7351dbf251eefb12e093cfaed081d288]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Omit paragraphs 1 to 6.
 
-(3)[^key-8c1d96d1ed44856fa047e1e8448e2279] In paragraph 7—
+(3)[^c-8c1d96d1ed44856fa047e1e8448e2279] In paragraph 7—
 
 - (a) at the start, for “A Member State” substitute “ The CAA ”;
 - (b) in point (a), for “Member State” substitute “ CAA ”;
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7351dbf251eefb12e093cfaed081d288]: Commencement: Reg. 294 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7351dbf251eefb12e093cfaed081d288]: Commencement: Reg. 294 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8c1d96d1ed44856fa047e1e8448e2279]: Textual amendment: Reg. 294(3) substituted (31.12.2020 immediately before exit day) by [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1098/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c1d96d1ed44856fa047e1e8448e2279]: Textual amendment: Reg. 294(3) substituted (31.12.2020 immediately before exit day) by [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1098/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

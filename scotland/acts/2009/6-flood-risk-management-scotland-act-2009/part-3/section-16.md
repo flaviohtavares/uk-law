@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Scottish Water to assess flood risk from sewerage systems[^key-a349d46dc1323db5fac92615a0b3b434]
+## 16. Scottish Water to assess flood risk from sewerage systems[^c-a349d46dc1323db5fac92615a0b3b434]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a349d46dc1323db5fac92615a0b3b434]: Commencement: S. 16 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-a349d46dc1323db5fac92615a0b3b434]: Commencement: S. 16 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Consequential amendments[^key-7e33eca98e9fc1a87e32fca57c5ec6a8]
+## 86. Consequential amendments[^c-7e33eca98e9fc1a87e32fca57c5ec6a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In consequence of provisions of this Part, Schedule 2 has effect.
 
 ## Annotations
 
-[^key-7e33eca98e9fc1a87e32fca57c5ec6a8]: Commencement: Reg. 86 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-7e33eca98e9fc1a87e32fca57c5ec6a8]: Commencement: Reg. 86 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

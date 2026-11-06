@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Appeals against decisions under this Chapter[^key-4923607654f9b247427c8379b5654fa3]
+## 59. Appeals against decisions under this Chapter[^c-4923607654f9b247427c8379b5654fa3]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4923607654f9b247427c8379b5654fa3]: Commencement: Rule 59 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-4923607654f9b247427c8379b5654fa3]: Commencement: Rule 59 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

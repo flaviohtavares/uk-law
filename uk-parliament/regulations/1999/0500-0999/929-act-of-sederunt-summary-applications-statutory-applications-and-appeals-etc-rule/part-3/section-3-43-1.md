@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.43.1. Application of this Part[^key-ae58d956a365fcf11e29e5d6da6f746a]
+## 3.43.1. Application of this Part[^c-ae58d956a365fcf11e29e5d6da6f746a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Part applies to applications to the sheriff under Part 2 of the Proceeds of
 
 ## Annotations
 
-[^key-ae58d956a365fcf11e29e5d6da6f746a]: Textual amendment: [Ch. 3 Pt. 43](https://www.legislation.gov.uk/uksi/1999/929/part/43) inserted (11.11.2013) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013 (S.S.I. 2013/293)](https://www.legislation.gov.uk/ssi/2013/293), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2013/293/paragraph/3)
+[^c-ae58d956a365fcf11e29e5d6da6f746a]: Textual amendment: [Ch. 3 Pt. 43](https://www.legislation.gov.uk/uksi/1999/929/part/43) inserted (11.11.2013) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013 (S.S.I. 2013/293)](https://www.legislation.gov.uk/ssi/2013/293), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2013/293/paragraph/3)

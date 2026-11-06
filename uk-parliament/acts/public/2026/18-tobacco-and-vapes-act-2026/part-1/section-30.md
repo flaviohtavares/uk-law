@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Breach of restricted sale orders[^key-8d7e0357892d6b835e84170a7fd1eec2]
+## 30. Breach of restricted sale orders[^c-8d7e0357892d6b835e84170a7fd1eec2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7e0357892d6b835e84170a7fd1eec2]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2026/18/section/30) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-8d7e0357892d6b835e84170a7fd1eec2]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2026/18/section/30) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

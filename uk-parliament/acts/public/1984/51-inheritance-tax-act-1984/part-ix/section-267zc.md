@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267ZC. Election to be treated as a long-term UK resident[^key-b42a071841ed4a8098c575f7e5a640df]
+## 267ZC. Election to be treated as a long-term UK resident[^c-b42a071841ed4a8098c575f7e5a640df]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b42a071841ed4a8098c575f7e5a640df]: Textual amendment: [Ss. 267ZC-267ZF](https://www.legislation.gov.uk/ukpga/1984/51/section/267ZC) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 27](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/27), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-b42a071841ed4a8098c575f7e5a640df]: Textual amendment: [Ss. 267ZC-267ZF](https://www.legislation.gov.uk/ukpga/1984/51/section/267ZC) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 27](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/27), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

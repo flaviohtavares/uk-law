@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Code awareness and reviewing compliance: British Transport Police[^key-baccd890269371e60396d8589711431e]
+## 9. Code awareness and reviewing compliance: British Transport Police[^c-baccd890269371e60396d8589711431e]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baccd890269371e60396d8589711431e]: Commencement: S. 9 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-baccd890269371e60396d8589711431e]: Commencement: S. 9 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

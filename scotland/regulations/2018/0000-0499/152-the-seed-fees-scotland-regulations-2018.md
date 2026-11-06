@@ -114,7 +114,7 @@ St Andrew's House,
 
 Edinburgh
 
-## Schedule 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^key-d96c4c25e103a8d76f3334eee931102c]
+## Schedule 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^c-d96c4c25e103a8d76f3334eee931102c]
 
 Regulation 3
 
@@ -160,7 +160,7 @@ Regulation 3
 </tbody>
 </table>
 
-## Schedule 2 — FEES FOR MATTERS RELATING TO THE 2016 REGULATIONS[^key-3cfa05b24813324b7d9ea4505a7872e7]
+## Schedule 2 — FEES FOR MATTERS RELATING TO THE 2016 REGULATIONS[^c-3cfa05b24813324b7d9ea4505a7872e7]
 
 Regulation 4
 
@@ -310,6 +310,6 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^c22962581]: Marginal citation: S.S.I 2017/384.
 
-[^key-d96c4c25e103a8d76f3334eee931102c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2018/152/schedule/1) substituted (1.7.2026) by [The Seed (Fees) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/13)](https://www.legislation.gov.uk/ssi/2026/13), [regs. 1](https://www.legislation.gov.uk/ssi/2026/13/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/13/regulation/2/2)
+[^c-d96c4c25e103a8d76f3334eee931102c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2018/152/schedule/1) substituted (1.7.2026) by [The Seed (Fees) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/13)](https://www.legislation.gov.uk/ssi/2026/13), [regs. 1](https://www.legislation.gov.uk/ssi/2026/13/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/13/regulation/2/2)
 
-[^key-3cfa05b24813324b7d9ea4505a7872e7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2018/152/schedule/2) substituted (1.7.2026) by [The Seed (Fees) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/13)](https://www.legislation.gov.uk/ssi/2026/13), [regs. 1](https://www.legislation.gov.uk/ssi/2026/13/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/13/regulation/2/3)
+[^c-3cfa05b24813324b7d9ea4505a7872e7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2018/152/schedule/2) substituted (1.7.2026) by [The Seed (Fees) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/13)](https://www.legislation.gov.uk/ssi/2026/13), [regs. 1](https://www.legislation.gov.uk/ssi/2026/13/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/13/regulation/2/3)

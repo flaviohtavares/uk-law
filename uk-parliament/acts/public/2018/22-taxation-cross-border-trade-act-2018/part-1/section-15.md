@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. International disputes etc[^key-1dc97f2d5bc52cd0b305078600c85f47][^key-79e6a279463b5362fd4e2347f331e7dc][^key-1d8605de9d27b7c25fb7be3cf109acfa][^key-bf06c60818863d542eeb77879ce03116]
+## 15. International disputes etc[^c-1dc97f2d5bc52cd0b305078600c85f47][^c-79e6a279463b5362fd4e2347f331e7dc][^c-1d8605de9d27b7c25fb7be3cf109acfa][^c-bf06c60818863d542eeb77879ce03116]
 
 *Extent: E+W+S+N.I.*
 
 (1) If—
 
 - (a) a dispute or other issue has arisen between Her Majesty's government in the United Kingdom and the government of a country or territory, and
-- (b) Her Majesty's government in the United Kingdom considers that (having regard to the matters set out in section 28 and any other relevant matters) it is appropriate[^key-3102b98b2cde958877e81aa1ee7e9184] to deal with the issue by varying the amount of import duty in the case of goods, or a description of goods, originating from the country or territory,
+- (b) Her Majesty's government in the United Kingdom considers that (having regard to the matters set out in section 28 and any other relevant matters) it is appropriate[^c-3102b98b2cde958877e81aa1ee7e9184] to deal with the issue by varying the amount of import duty in the case of goods, or a description of goods, originating from the country or territory,
 
 the Secretary of State may make regulations varying the amount of import duty applicable to the goods or the description of goods.
 
@@ -34,12 +34,12 @@ the Secretary of State may make regulations varying the amount of import duty ap
 
 ## Annotations
 
-[^key-1dc97f2d5bc52cd0b305078600c85f47]: Commencement: S. 15 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
+[^c-1dc97f2d5bc52cd0b305078600c85f47]: Commencement: S. 15 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
 
-[^key-79e6a279463b5362fd4e2347f331e7dc]: Commencement: S. 15 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-79e6a279463b5362fd4e2347f331e7dc]: Commencement: S. 15 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-1d8605de9d27b7c25fb7be3cf109acfa]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1d8605de9d27b7c25fb7be3cf109acfa]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bf06c60818863d542eeb77879ce03116]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bf06c60818863d542eeb77879ce03116]: Modification: Ss. 9-15 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3102b98b2cde958877e81aa1ee7e9184]: Textual amendment: Words in s. 15(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 97](https://www.legislation.gov.uk/ukpga/2020/14/section/97)
+[^c-3102b98b2cde958877e81aa1ee7e9184]: Textual amendment: Words in s. 15(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 97](https://www.legislation.gov.uk/ukpga/2020/14/section/97)

@@ -31,7 +31,7 @@ summary: ''
 
 REPRESENTATION OF THE PEOPLE, NORTHERN IRELAND
 
-The European Parliamentary Elections (Northern Ireland) Regulations 2004 (revoked)[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+The European Parliamentary Elections (Northern Ireland) Regulations 2004 (revoked)[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 30th April 2004
 
-[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 1 — General[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 *Extent: N.I.*
 
@@ -85,7 +85,7 @@ Coming into force
 - [Section 30 — Requirement of secrecy](part-1/section-30.md)
 - [Section 31 — Prohibition on publication of exit polls](part-1/section-31.md)
 
-### PART 2 — The Election Campaign[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 2 — The Election Campaign[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 *Extent: N.I.*
 
@@ -136,7 +136,7 @@ Coming into force
 - [Section 74 — Rights of creditors](part-2/section-74.md)
 - [Section 75 — Savings as to European Parliamentary elections](part-2/section-75.md)
 
-### PART 3 — Vacancies[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 3 — Vacancies[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 *Extent: N.I.*
 
@@ -153,7 +153,7 @@ Coming into force
 - [Section 76H — By-elections](part-3/section-76h.md)
 - [Section 76I — Relevant citizens of the Union](part-3/section-76i.md)
 
-### PART 4 — Legal Proceedings[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 4 — Legal Proceedings[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 *Extent: N.I.*
 
@@ -196,7 +196,7 @@ Coming into force
 - [Section 111 — Service of notices](part-4/section-111.md)
 - [Section 111A — Translations etc. of certain documents](part-4/section-111a.md)
 
-### PART 5 — Miscellaneous[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 5 — Miscellaneous[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 *Extent: N.I.*
 
@@ -222,12 +222,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2004/1267) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2004/1267) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

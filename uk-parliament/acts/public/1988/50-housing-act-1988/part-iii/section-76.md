@@ -32,7 +32,7 @@ summary: ''
 
 (6) Compensation under the [^c12870731]Land Compensation Act 1961, as applied by subsection (5) above and Part II of Schedule 9 to this Act, shall be assessed by reference to values current on the date the order under this section comes into force.
 
-(6A)[^c12870741] No order shall be made under this section in relation to a universal service provider (within the meaning of Part 3 of the Postal Services Act 2011[^key-cfe14b77c33878e0200936b43e3a22a2]).
+(6A)[^c12870741] No order shall be made under this section in relation to a universal service provider (within the meaning of Part 3 of the Postal Services Act 2011[^c-cfe14b77c33878e0200936b43e3a22a2]).
 
 (7) An order under this section shall be made by statutory instrument but no such order shall be made unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c12870741]: Modification: S. 76(6A) inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 75(2)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/75/2)
 
-[^key-cfe14b77c33878e0200936b43e3a22a2]: Textual amendment: Words in [s. 76(6A)](https://www.legislation.gov.uk/ukpga/1988/50/section/76/6A) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 129](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/129); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-cfe14b77c33878e0200936b43e3a22a2]: Textual amendment: Words in [s. 76(6A)](https://www.legislation.gov.uk/ukpga/1988/50/section/76/6A) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 129](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/129); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

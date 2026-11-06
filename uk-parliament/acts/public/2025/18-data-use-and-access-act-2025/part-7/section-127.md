@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Retention of pseudonymised biometric data[^key-64b5bd143707a9f90255eac13a45d523]
+## 127. Retention of pseudonymised biometric data[^c-64b5bd143707a9f90255eac13a45d523]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64b5bd143707a9f90255eac13a45d523]: Commencement: S. 127 in force at Royal Assent, see [s. 142(2)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/e)
+[^c-64b5bd143707a9f90255eac13a45d523]: Commencement: S. 127 in force at Royal Assent, see [s. 142(2)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/e)

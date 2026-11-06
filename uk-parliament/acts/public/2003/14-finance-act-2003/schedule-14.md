@@ -65,30 +65,30 @@ Where more than the correct amount has already been paid the appropriate amount 
 
 ### Appeal against penalty determination
 
-**5.** (1) An appeal may be made[^key-20175b6fc97aab9443cd90cbb63cbcf8] against the determination of a penalty.
+**5.** (1) An appeal may be made[^c-20175b6fc97aab9443cd90cbb63cbcf8] against the determination of a penalty.
 
 (2) Notice of appeal must be given in writing to the officer of the Board by whom the determination was made within 30 days of the date of issue of the notice of determination.
 
-(3)[^key-5664b7e12a486a0f624586bf45182ead] The notice of appeal must specify the grounds of appeal.
+(3)[^c-5664b7e12a486a0f624586bf45182ead] The notice of appeal must specify the grounds of appeal.
 
-(4) On an appeal under this paragraph that is notified to the First-tier Tribunal, the tribunal[^key-cb18e402a8fc8f1110481620894933c0] may—
+(4) On an appeal under this paragraph that is notified to the First-tier Tribunal, the tribunal[^c-cb18e402a8fc8f1110481620894933c0] may—
 
-- (a) if it appears [^key-bb3c4e47826b8993a83710f1ac4e65ff]... that no penalty has been incurred, set the determination aside;
-- (b) if the amount determined appears [^key-bb3c4e47826b8993a83710f1ac4e65ff]... to be appropriate, confirm the determination;
-- (c) if the amount determined appears [^key-bb3c4e47826b8993a83710f1ac4e65ff]... to be excessive, reduce it to such other amount (including nil) as appears to them to be appropriate;
-- (d) if the amount determined appears [^key-bb3c4e47826b8993a83710f1ac4e65ff]... to be insufficient, increase it to such amount, not exceeding the permitted maximum, as the First-tier Tribunal considers appropriate[^key-1e5bd2d29d0cc1fda0096063a5ad0ef3].
+- (a) if it appears [^c-bb3c4e47826b8993a83710f1ac4e65ff]... that no penalty has been incurred, set the determination aside;
+- (b) if the amount determined appears [^c-bb3c4e47826b8993a83710f1ac4e65ff]... to be appropriate, confirm the determination;
+- (c) if the amount determined appears [^c-bb3c4e47826b8993a83710f1ac4e65ff]... to be excessive, reduce it to such other amount (including nil) as appears to them to be appropriate;
+- (d) if the amount determined appears [^c-bb3c4e47826b8993a83710f1ac4e65ff]... to be insufficient, increase it to such amount, not exceeding the permitted maximum, as the First-tier Tribunal considers appropriate[^c-1e5bd2d29d0cc1fda0096063a5ad0ef3].
 
-(5)[^key-8fad912837a021424bff15afe473533a] The provisions of paragraphs 36A to 36I of Schedule 10 apply to appeals under this paragraph.
+(5)[^c-8fad912837a021424bff15afe473533a] The provisions of paragraphs 36A to 36I of Schedule 10 apply to appeals under this paragraph.
 
 ### Further appeal
 
-**6.** (1)[^key-9cda4eca3b0c71102c78b0afeeb479cb] In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of the penalty which has been determined under paragraph (5), but not against any decision which falls under section 11(5)(d) or (e) of that Act and was made in connection with the determination of the amount of the penalty.
+**6.** (1)[^c-9cda4eca3b0c71102c78b0afeeb479cb] In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of the penalty which has been determined under paragraph (5), but not against any decision which falls under section 11(5)(d) or (e) of that Act and was made in connection with the determination of the amount of the penalty.
 
 (1A) Section 11(3) and (4) of the Tribunals, Courts and Enforcement Act 2007 applies to the right of appeal under sub-paragraph (1) as it applies to the right of appeal under section 11(2) of that Act.
 
-(2) On an appeal under this paragraph the Upper Tribunal[^key-e84e6a03f58712f8c5b200887769df20] has the same powers as are conferred on the First-tier Tribunal[^key-1dbd4d3896dd20d46b12a907a66a4a35] by paragraph 5(4) above.
+(2) On an appeal under this paragraph the Upper Tribunal[^c-e84e6a03f58712f8c5b200887769df20] has the same powers as are conferred on the First-tier Tribunal[^c-1dbd4d3896dd20d46b12a907a66a4a35] by paragraph 5(4) above.
 
-(3)[^key-5b19b6460e3b9be89cfe7398ad4bfbe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5b19b6460e3b9be89cfe7398ad4bfbe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Penalty proceedings before the court
 
@@ -128,13 +128,13 @@ Any such proceedings shall be deemed to be civil proceedings within the meaning 
 - (a) no penalty may be determined under paragraph 2 (determination by officer of Board), and
 - (b) no proceedings for a penalty may be brought under paragraph 7 (penalty proceedings before the court),
 
-more than 4 years[^key-1ebe1eb5d42f9f87ef824dceec3f176e] after the date on which the penalty was incurred or, in the case of a daily penalty, began to be incurred (“[^key-bef549026003af237d15e0398a1882f5]**the relevant date**”) . This rule is subject to the following provisions of this paragraph.
+more than 4 years[^c-1ebe1eb5d42f9f87ef824dceec3f176e] after the date on which the penalty was incurred or, in the case of a daily penalty, began to be incurred (“[^c-bef549026003af237d15e0398a1882f5]**the relevant date**”) . This rule is subject to the following provisions of this paragraph.
 
-(3) Where the amount of a penalty is to be ascertained by reference to the tax chargeable in respect of a transaction, a penalty may be determined under paragraph 2, or proceedings for a penalty may be begun under paragraph 7, at any time within three years after the final determination of the amount of tax by reference to which the amount of the penalty is to be determined (subject to any of the following provisions of this paragraph allowing a longer period)[^key-5fb23c550433d003bbf0668c441c3f4d] .
+(3) Where the amount of a penalty is to be ascertained by reference to the tax chargeable in respect of a transaction, a penalty may be determined under paragraph 2, or proceedings for a penalty may be begun under paragraph 7, at any time within three years after the final determination of the amount of tax by reference to which the amount of the penalty is to be determined (subject to any of the following provisions of this paragraph allowing a longer period)[^c-5fb23c550433d003bbf0668c441c3f4d] .
 
 (4) Sub-paragraph (3) does not apply where a person has died and the determination would be made in relation to his personal representatives if the tax was charged in an assessment made more than six years after the effective date of the transaction to which it relates.
 
-(4A)[^key-f7e36b32bd15d43b4809ebad05e18d70] Where a person is liable to a penalty in a case involving a loss of tax brought about carelessly by the person (or by another person acting on that person's behalf), the penalty may be determined, or the proceedings may be brought, at any time not more than 6 years after the relevant date (subject to sub-paragraphs (4B) and (5)).
+(4A)[^c-f7e36b32bd15d43b4809ebad05e18d70] Where a person is liable to a penalty in a case involving a loss of tax brought about carelessly by the person (or by another person acting on that person's behalf), the penalty may be determined, or the proceedings may be brought, at any time not more than 6 years after the relevant date (subject to sub-paragraphs (4B) and (5)).
 
 (4B) Where a person is liable to a penalty in a case involving a loss of tax—
 
@@ -150,30 +150,30 @@ the penalty may be determined, or the proceedings may be brought, at any time no
 
 ## Annotations
 
-[^key-20175b6fc97aab9443cd90cbb63cbcf8]: Textual amendment: Words in Sch. 14 para. 5(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/2)
+[^c-20175b6fc97aab9443cd90cbb63cbcf8]: Textual amendment: Words in Sch. 14 para. 5(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/2)
 
-[^key-5664b7e12a486a0f624586bf45182ead]: Textual amendment: Sch. 14 para. 5(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/3)
+[^c-5664b7e12a486a0f624586bf45182ead]: Textual amendment: Sch. 14 para. 5(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/3)
 
-[^key-cb18e402a8fc8f1110481620894933c0]: Textual amendment: Words in Sch. 14 para. 5(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/4/a)
+[^c-cb18e402a8fc8f1110481620894933c0]: Textual amendment: Words in Sch. 14 para. 5(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/4/a)
 
-[^key-bb3c4e47826b8993a83710f1ac4e65ff]: Textual amendment: Words in Sch. 14 para. 5(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/4/b)
+[^c-bb3c4e47826b8993a83710f1ac4e65ff]: Textual amendment: Words in Sch. 14 para. 5(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/4/b)
 
-[^key-1e5bd2d29d0cc1fda0096063a5ad0ef3]: Textual amendment: Words in Sch. 14 para. 5(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(4)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/4/c)
+[^c-1e5bd2d29d0cc1fda0096063a5ad0ef3]: Textual amendment: Words in Sch. 14 para. 5(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(4)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/4/c)
 
-[^key-8fad912837a021424bff15afe473533a]: Textual amendment: Sch. 14 para. 5(5) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/5)
+[^c-8fad912837a021424bff15afe473533a]: Textual amendment: Sch. 14 para. 5(5) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 411(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/411/5)
 
-[^key-9cda4eca3b0c71102c78b0afeeb479cb]: Textual amendment: Sch. 14 para. 6(1) (1A) substituted for Sch. 14 para. 6(1) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/2)
+[^c-9cda4eca3b0c71102c78b0afeeb479cb]: Textual amendment: Sch. 14 para. 6(1) (1A) substituted for Sch. 14 para. 6(1) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/2)
 
-[^key-e84e6a03f58712f8c5b200887769df20]: Textual amendment: Words in Sch. 14 para. 6(2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/3/a)
+[^c-e84e6a03f58712f8c5b200887769df20]: Textual amendment: Words in Sch. 14 para. 6(2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/3/a)
 
-[^key-1dbd4d3896dd20d46b12a907a66a4a35]: Textual amendment: Words in Sch. 14 para. 6(2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/3/b)
+[^c-1dbd4d3896dd20d46b12a907a66a4a35]: Textual amendment: Words in Sch. 14 para. 6(2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/3/b)
 
-[^key-5b19b6460e3b9be89cfe7398ad4bfbe1]: Textual amendment: Sch. 14 para. 6(3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/4)
+[^c-5b19b6460e3b9be89cfe7398ad4bfbe1]: Textual amendment: Sch. 14 para. 6(3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 412(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/412/4)
 
-[^key-1ebe1eb5d42f9f87ef824dceec3f176e]: Textual amendment: Words in Sch. 14 para. 8(2) substituted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/2/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/867/article/7))
+[^c-1ebe1eb5d42f9f87ef824dceec3f176e]: Textual amendment: Words in Sch. 14 para. 8(2) substituted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/2/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/867/article/7))
 
-[^key-bef549026003af237d15e0398a1882f5]: Textual amendment: Words in Sch. 14 para. 8(2) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/2/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/867/article/7))
+[^c-bef549026003af237d15e0398a1882f5]: Textual amendment: Words in Sch. 14 para. 8(2) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/2/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/867/article/7))
 
-[^key-5fb23c550433d003bbf0668c441c3f4d]: Textual amendment: Words in Sch. 14 para. 8(3) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
+[^c-5fb23c550433d003bbf0668c441c3f4d]: Textual amendment: Words in Sch. 14 para. 8(3) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
 
-[^key-f7e36b32bd15d43b4809ebad05e18d70]: Textual amendment: Sch. 14 para. 8(4A)-(4C) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/4); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/867/article/7))
+[^c-f7e36b32bd15d43b4809ebad05e18d70]: Textual amendment: Sch. 14 para. 8(4A)-(4C) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 16(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/16/4); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/867/article/7))

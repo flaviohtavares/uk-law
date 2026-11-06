@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Finance and Personnel makes the following Regulations in exercise of the powers conferred by Article 37(4) and (5) of, and paragraph 5 of Part 1 of Schedule 12 to, the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-f8dcc4d61177d7227fd4c412f27a69ca]
+## 1. Citation and commencement[^c-f8dcc4d61177d7227fd4c412f27a69ca]
 
 These Regulations may be cited as the Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 and shall come into operation on 31st January 2011.
 
-## 2. Interpretation[^key-245a3e3b5cbc51f8f04bd187287c87b4]
+## 2. Interpretation[^c-245a3e3b5cbc51f8f04bd187287c87b4]
 
 (1) Any reference in these Regulations to hereditaments used for any purpose includes a reference to hereditaments which are unused but in relation to which it appears that when next used they will be used for such a purpose.
 
 (2) Any reference in these Regulations to a company by name is a reference to that company registered by or bearing that name at the date its name is entered in the NAV list.
 
-## 3. Telecommunications hereditaments[^key-d354651d30d2c46d12910b167581ef76]
+## 3. Telecommunications hereditaments[^c-d354651d30d2c46d12910b167581ef76]
 
 (1) Where—
 
@@ -78,7 +78,7 @@ and which would, apart from these Regulations, be more than one hereditament, th
 
 which British Telecommunications plc. has let or licensed to any person.
 
-## 3A. Treatment of electronic communications apparatus[^key-6feb7569c2163ae6116a6862b5a4743e]
+## 3A. Treatment of electronic communications apparatus[^c-6feb7569c2163ae6116a6862b5a4743e]
 
 (1) This paragraph applies to electronic communications apparatus, other than excepted apparatus, which is—
 
@@ -115,7 +115,7 @@ which British Telecommunications plc. has let or licensed to any person.
   - (a) any person holding a wireless telegraphy licence granted under section 8 of the 2006 Act; or
   - (b) any person lawfully providing an electronic communications network or an electronic communications service.
 
-## 4. Gas transportation hereditaments[^key-8cd56d40d1ca863de090fe893d72c5b4]
+## 4. Gas transportation hereditaments[^c-8cd56d40d1ca863de090fe893d72c5b4]
 
 (1) Where a company mentioned in Part 2 of the Schedule (“the designated person”) occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those hereditaments satisfies the conditions set out in paragraph (2), those hereditaments shall be treated as one hereditament.
 
@@ -131,7 +131,7 @@ which British Telecommunications plc. has let or licensed to any person.
 
 (4) The hereditament described in paragraph (1) shall be treated as occupied by the designated person.
 
-## 5. Amendment[^key-ac0bcd8cc6c40017fa4c625cca5faa91]
+## 5. Amendment[^c-ac0bcd8cc6c40017fa4c625cca5faa91]
 
 In regulation 3 of the Valuation (Water Undertaking) Regulations (Northern Ireland) 2008[^f00003] there shall be added at the end the following paragraph—
 
@@ -139,7 +139,7 @@ In regulation 3 of the Valuation (Water Undertaking) Regulations (Northern Irela
 
 .
 
-## 6. Revocation[^key-fb2a9313620bdaebf34f2ab89dbc1d1e]
+## 6. Revocation[^c-fb2a9313620bdaebf34f2ab89dbc1d1e]
 
 The Valuation (Telecommunications) Regulations (Northern Ireland) 2003[^f00004] and the Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2004[^f00005] are revoked.
 
@@ -151,7 +151,7 @@ A senior officer of the Department of Finance and Personnel
 
 ## SCHEDULE
 
-### PART 1 — Telecommunication hereditaments[^key-e0c7937835e0bfdfb15024f25fefb893]
+### PART 1 — Telecommunication hereditaments[^c-e0c7937835e0bfdfb15024f25fefb893]
 
 Regulation 3
 
@@ -170,7 +170,7 @@ Regulation 3
 | Virgin Media Limited |
 | Vodafone Limited |
 
-### PART 2 — Gas Transportation hereditaments[^key-3a2ae56d7789934a0f4d96ab12b0a2a5]
+### PART 2 — Gas Transportation hereditaments[^c-3a2ae56d7789934a0f4d96ab12b0a2a5]
 
 Regulation 4
 
@@ -208,13 +208,13 @@ An unbundled local loop exists when the copper wire connection between a local t
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); paragraph (4) of Article 37 was substituted by Article 6(1) of the Rates (Amendment) (Northern Ireland) Order 1996 ([S.I. 1996/3162 (N.I. 25)](https://www.legislation.gov.uk/nisi/1996/3162)); paragraph (5) of Article 37 was inserted by section 17 of, and paragraph 3 of Schedule 1 to, the Rates (Amendment) Act (Northern Ireland) 2009 ([2009 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2009/8)); and in Schedule 12 in Part I, paragraph 5 was inserted by Article 12(a) of the Rates (Amendment) (Northern Ireland) Order 1996 ([S.I. 1996/3162 (N.I. 25)](https://www.legislation.gov.uk/nisi/1996/3162)).
 
-[^key-f8dcc4d61177d7227fd4c412f27a69ca]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
+[^c-f8dcc4d61177d7227fd4c412f27a69ca]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
 
-[^key-245a3e3b5cbc51f8f04bd187287c87b4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/431/regulation/2) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
+[^c-245a3e3b5cbc51f8f04bd187287c87b4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/431/regulation/2) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
 
-[^key-d354651d30d2c46d12910b167581ef76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/431/regulation/3) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
+[^c-d354651d30d2c46d12910b167581ef76]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/431/regulation/3) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
 
-[^key-6feb7569c2163ae6116a6862b5a4743e]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2010/431/regulation/3A) inserted (1.4.2015) by [The Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/147)](https://www.legislation.gov.uk/nisr/2015/147), [regs. 1](https://www.legislation.gov.uk/nisr/2015/147/regulation/1), [2](https://www.legislation.gov.uk/nisr/2015/147/regulation/2)
+[^c-6feb7569c2163ae6116a6862b5a4743e]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2010/431/regulation/3A) inserted (1.4.2015) by [The Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/147)](https://www.legislation.gov.uk/nisr/2015/147), [regs. 1](https://www.legislation.gov.uk/nisr/2015/147/regulation/1), [2](https://www.legislation.gov.uk/nisr/2015/147/regulation/2)
 
 [^f00003]: Footnote: [S.R. 2008 No. 226](https://www.legislation.gov.uk/nisr/2008/226)
 
@@ -222,14 +222,14 @@ An unbundled local loop exists when the copper wire connection between a local t
 
 [^f00005]: Footnote: [S.R. 2004 No. 462](https://www.legislation.gov.uk/nisr/2004/462)
 
-[^key-8cd56d40d1ca863de090fe893d72c5b4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/431/regulation/4) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
+[^c-8cd56d40d1ca863de090fe893d72c5b4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/431/regulation/4) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
-[^key-ac0bcd8cc6c40017fa4c625cca5faa91]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/431/regulation/5) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
+[^c-ac0bcd8cc6c40017fa4c625cca5faa91]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/431/regulation/5) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
 
-[^key-fb2a9313620bdaebf34f2ab89dbc1d1e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/431/regulation/6) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
+[^c-fb2a9313620bdaebf34f2ab89dbc1d1e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/431/regulation/6) in operation at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1)
 
-[^key-e0c7937835e0bfdfb15024f25fefb893]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/431/schedule/part/1) substituted (1.4.2025) by [The Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/44)](https://www.legislation.gov.uk/nisr/2025/44), [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1), [Sch. reg. 2](https://www.legislation.gov.uk/nisr/2025/44/schedule/regulation/2)
+[^c-e0c7937835e0bfdfb15024f25fefb893]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/431/schedule/part/1) substituted (1.4.2025) by [The Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/44)](https://www.legislation.gov.uk/nisr/2025/44), [reg. 1](https://www.legislation.gov.uk/nisr/2025/44/regulation/1), [Sch. reg. 2](https://www.legislation.gov.uk/nisr/2025/44/schedule/regulation/2)
 
-[^key-3a2ae56d7789934a0f4d96ab12b0a2a5]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2010/431/schedule/part/2) substituted (8.6.2026) by [The Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/90)](https://www.legislation.gov.uk/nisr/2026/90), [regs. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/90/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/90/schedule)
+[^c-3a2ae56d7789934a0f4d96ab12b0a2a5]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2010/431/schedule/part/2) substituted (8.6.2026) by [The Valuation (Telecommunications, Natural Gas and Water) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/90)](https://www.legislation.gov.uk/nisr/2026/90), [regs. 1](https://www.legislation.gov.uk/nisr/2026/90/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/90/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/90/schedule)

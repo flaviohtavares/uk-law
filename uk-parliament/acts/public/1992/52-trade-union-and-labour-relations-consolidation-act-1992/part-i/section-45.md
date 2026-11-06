@@ -26,7 +26,7 @@ section 27 (duty to supply copy of rules),
 
 sections 28 to 30 (accounting records),
 
-sections 32[^key-a3ef6f2cd41b4838f5efd3507fada343] to 37 (annual return, statement for members,[^c14513941] accounts and audit), or
+sections 32[^c-a3ef6f2cd41b4838f5efd3507fada343] to 37 (annual return, statement for members,[^c14513941] accounts and audit), or
 
 sections 38 to 42 (members’ superannuation schemes),
 
@@ -71,7 +71,7 @@ he commits an offence.
 
 ## Annotations
 
-[^key-a3ef6f2cd41b4838f5efd3507fada343]: Textual amendment: Words in s. 45(1) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 81(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/81/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/10) (with [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/14))
+[^c-a3ef6f2cd41b4838f5efd3507fada343]: Textual amendment: Words in s. 45(1) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 81(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/81/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/10) (with [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/14))
 
 [^c14513941]: Textual amendment: Words in s. 45(1) inserted (1.1.1994) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para.45](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/45); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/3), [Sch.3](https://www.legislation.gov.uk/uksi/1993/1908/schedule/3)
 

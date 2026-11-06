@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. People with autism or learning disability[^key-680784769f9afdf2ae3741f234eb8208]
+## 4. People with autism or learning disability[^c-680784769f9afdf2ae3741f234eb8208]
 
 *Extent: E+W+S+N.I.*
 
@@ -231,4 +231,4 @@ In the Mental Health Act 1983, after Part 8 insert—
 
 ## Annotations
 
-[^key-680784769f9afdf2ae3741f234eb8208]: Commencement: S. 4 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-680784769f9afdf2ae3741f234eb8208]: Commencement: S. 4 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

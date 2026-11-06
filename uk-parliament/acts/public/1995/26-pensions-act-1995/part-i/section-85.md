@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Surplus funds.[^key-00cac522735d60d9c2c090acb028f94a]
+## 85. Surplus funds.[^c-00cac522735d60d9c2c090acb028f94a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00cac522735d60d9c2c090acb028f94a]: Textual amendment: [Ss. 78-86](https://www.legislation.gov.uk/ukpga/1995/26/section/78) repealed (1.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2005/1720/article/4), [5](https://www.legislation.gov.uk/uksi/2005/1720/article/5)) (as amended (26.6.2009) by [S.I. 2009/1583](https://www.legislation.gov.uk/uksi/2009/1583), [art. 2](https://www.legislation.gov.uk/uksi/2009/1583/article/2))
+[^c-00cac522735d60d9c2c090acb028f94a]: Textual amendment: [Ss. 78-86](https://www.legislation.gov.uk/ukpga/1995/26/section/78) repealed (1.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2005/1720/article/4), [5](https://www.legislation.gov.uk/uksi/2005/1720/article/5)) (as amended (26.6.2009) by [S.I. 2009/1583](https://www.legislation.gov.uk/uksi/2009/1583), [art. 2](https://www.legislation.gov.uk/uksi/2009/1583/article/2))

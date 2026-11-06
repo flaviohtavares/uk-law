@@ -42,7 +42,7 @@ summary: ''
 - (a) the name and address of the printer of the newspaper or periodical must appear either on its first or last page, and
 - (b) the relevant details specified in paragraph (3)(b) and (c) must be included in the advertisement.
 
-(7) The Secretary of State[^key-a90d6df5182d44c6fe49e921f68bb93a] may, after consulting the Commission, by regulations made by statutory instrument make provision for and in connection with the imposition of requirements as to the inclusion in material falling within paragraph (2)(b) of the following details, namely—
+(7) The Secretary of State[^c-a90d6df5182d44c6fe49e921f68bb93a] may, after consulting the Commission, by regulations made by statutory instrument make provision for and in connection with the imposition of requirements as to the inclusion in material falling within paragraph (2)(b) of the following details, namely—
 
 - (a) the name and address of the promoter of the material, and
 - (b) the name and address of any person on behalf of whom the material is being published (and who is not the promoter).
@@ -91,6 +91,6 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-a90d6df5182d44c6fe49e921f68bb93a]: Textual amendment: Words in [art. 64(7)](https://www.legislation.gov.uk/uksi/2012/1917/article/64/7) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(e)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-a90d6df5182d44c6fe49e921f68bb93a]: Textual amendment: Words in [art. 64(7)](https://www.legislation.gov.uk/uksi/2012/1917/article/64/7) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(e)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c21343701]: Marginal citation: 1946 9&10 Geo.6 (c.36).

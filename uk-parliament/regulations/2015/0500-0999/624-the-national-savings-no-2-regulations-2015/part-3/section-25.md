@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Operation of a nomination[^key-9861f0cc1186fb41d3e4076b5e1a8d32]
+## 25. Operation of a nomination[^c-9861f0cc1186fb41d3e4076b5e1a8d32]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ in relation to the stock to which the nomination relates.
 
 ## Annotations
 
-[^key-9861f0cc1186fb41d3e4076b5e1a8d32]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-9861f0cc1186fb41d3e4076b5e1a8d32]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00013]: Footnote: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).

@@ -50,7 +50,7 @@ summary: ''
 
 (8) The Authority must not grant preliminary registration unless it is satisfied that a connection agreement in relation to the proposed production of biomethane has been entered into.
 
-(9) Where a person has been granted preliminary registration (and such preliminary registration has not been withdrawn) and an application for registration is made under this Part before Scheme closure[^key-cfbf2b9447c226168cc35e9507258094], the Authority must, subject to regulations 31 and 32(4) , (4A),[^key-f76e31c3f8d7c35ef3b566841cd954c1] and (11) to (14), grant that application unless it is satisfied that—
+(9) Where a person has been granted preliminary registration (and such preliminary registration has not been withdrawn) and an application for registration is made under this Part before Scheme closure[^c-cfbf2b9447c226168cc35e9507258094], the Authority must, subject to regulations 31 and 32(4) , (4A),[^c-f76e31c3f8d7c35ef3b566841cd954c1] and (11) to (14), grant that application unless it is satisfied that—
 
 - (a) there has been a material change in circumstances since the preliminary registration was granted such that, had the application for preliminary registration been made after the change, it would have been refused;
 - (b) any condition attached to the preliminary registration has not been complied with;
@@ -79,6 +79,6 @@ specifying the date on which the granting or withdrawal of preliminary registrat
 
 ## Annotations
 
-[^key-cfbf2b9447c226168cc35e9507258094]: Textual amendment: Words in reg. 34(9) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(v)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/v), [16](https://www.legislation.gov.uk/uksi/2021/76/regulation/16)
+[^c-cfbf2b9447c226168cc35e9507258094]: Textual amendment: Words in reg. 34(9) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(v)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/v), [16](https://www.legislation.gov.uk/uksi/2021/76/regulation/16)
 
-[^key-f76e31c3f8d7c35ef3b566841cd954c1]: Textual amendment: Word in reg. 34(9) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2018/635/regulation/15)
+[^c-f76e31c3f8d7c35ef3b566841cd954c1]: Textual amendment: Word in reg. 34(9) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2018/635/regulation/15)

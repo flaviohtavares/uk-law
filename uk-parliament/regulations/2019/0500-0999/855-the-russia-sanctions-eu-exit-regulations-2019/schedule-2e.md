@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2E — Quantum computing and advanced materials goods and technology[^key-129c4016a5d9a1445cb3830c420b8301]
+## SCHEDULE 2E — Quantum computing and advanced materials goods and technology[^c-129c4016a5d9a1445cb3830c420b8301]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,7 +106,7 @@ Equipment, “electronic assemblies” and components, specially designed for �
 
 **12.** “Technology” “required” for the “development”, “production” or “use” of the systems, equipment, components and software specified in paragraphs 2 to 11.
 
-### Part 3 — Quantum computing and related goods[^key-5948ae4ec1e382523f1b583278723cd1]
+### Part 3 — Quantum computing and related goods[^c-5948ae4ec1e382523f1b583278723cd1]
 
 **13.** Fused Quartz.
 
@@ -164,7 +164,7 @@ Equipment, “electronic assemblies” and components, specially designed for �
 
 ## Annotations
 
-[^key-129c4016a5d9a1445cb3830c420b8301]: Textual amendment: [Sch. 2E](https://www.legislation.gov.uk/uksi/2019/855/schedule/2E) inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/452/schedule/part/1)
+[^c-129c4016a5d9a1445cb3830c420b8301]: Textual amendment: [Sch. 2E](https://www.legislation.gov.uk/uksi/2019/855/schedule/2E) inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/452/schedule/part/1)
 
 [^M_F_b15bb701-ddc5-4236-c44f-a0968a9c6730]: Textual amendment: Words in [Sch. 2E para. 5](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(6)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/7/b)
 
@@ -174,4 +174,4 @@ Equipment, “electronic assemblies” and components, specially designed for �
 
 [^M_F_45a4264f-6270-4340-f8cb-4f81ae20fe0e]: Textual amendment: Word in [Sch. 2E para. 6](https://www.legislation.gov.uk/uksi/2019/855/schedule/2E/paragraph/6) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/2/b)
 
-[^key-5948ae4ec1e382523f1b583278723cd1]: Textual amendment: [Sch. 2E Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/2E/part/3) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/543/schedule/1)
+[^c-5948ae4ec1e382523f1b583278723cd1]: Textual amendment: [Sch. 2E Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/2E/part/3) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/543/schedule/1)

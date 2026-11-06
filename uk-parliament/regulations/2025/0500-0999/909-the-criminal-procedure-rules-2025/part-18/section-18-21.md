@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.21. Representations in response to application or proposal[^key-4d0dece0d79063ceeb6361796f8d907d]
+## 18.21. Representations in response to application or proposal[^c-4d0dece0d79063ceeb6361796f8d907d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d0dece0d79063ceeb6361796f8d907d]: Commencement: [Rule 18.21](https://www.legislation.gov.uk/uksi/2025/909/rule/18.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4d0dece0d79063ceeb6361796f8d907d]: Commencement: [Rule 18.21](https://www.legislation.gov.uk/uksi/2025/909/rule/18.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

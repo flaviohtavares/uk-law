@@ -36,8 +36,8 @@ it may declare a protection zone, a surveillance zone, or both, in Wales.
 
 (4) A protection or surveillance zone declared under this article is to be in such part of Wales and of such size as the National Assembly considers necessary so as to prevent the spread of disease.
 
-(5)[^key-47d8d0bf71870b85ab7ab6c79ed8ab93] In this article, “border inspection post” means one that has been listed in Commission [Decision 2009/821/EC](https://www.legislation.gov.uk/eud/2009/0821) drawing up a list of approved border inspection posts.
+(5)[^c-47d8d0bf71870b85ab7ab6c79ed8ab93] In this article, “border inspection post” means one that has been listed in Commission [Decision 2009/821/EC](https://www.legislation.gov.uk/eud/2009/0821) drawing up a list of approved border inspection posts.
 
 ## Annotations
 
-[^key-47d8d0bf71870b85ab7ab6c79ed8ab93]: Textual amendment: [Art. 32(5)](https://www.legislation.gov.uk/wsi/2006/179/article/32/5) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/5/3)
+[^c-47d8d0bf71870b85ab7ab6c79ed8ab93]: Textual amendment: [Art. 32(5)](https://www.legislation.gov.uk/wsi/2006/179/article/32/5) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/5/3)

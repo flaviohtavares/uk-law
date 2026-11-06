@@ -52,18 +52,18 @@ Coming into force
 
 The Secretary of State, in relation to flood risk management in England, and the Welsh Ministers, in relation to flood risk management in Wales, make the following Order in exercise of the powers conferred by sections 4(2)(f) and (3) and 48(2) of the Flood and Water Management Act 2010[^f00001].
 
-## 1. Citation and commencement[^key-7e9be22cf1718970ae6df7b8f0a8bfb7]
+## 1. Citation and commencement[^c-7e9be22cf1718970ae6df7b8f0a8bfb7]
 
 This Order—
 
 - (a) may be cited as the Flood Risk Management Functions Order 2010; and
 - (b) comes into force on 1st October 2010.
 
-## 2. Flood risk management functions[^key-cf41f1113448ff2937dd9e0fe67df5ea]
+## 2. Flood risk management functions[^c-cf41f1113448ff2937dd9e0fe67df5ea]
 
 (1) The following are specified for the purposes of section 4(2)(f) of the Flood and Water Management Act 2010—
 
-- (a) a function of the Environment Agency or the Natural Resources Body for Wales[^key-3ec3384b310b916fba3c6dc62fdf68e6] under the Flood Risk Regulations 2009[^f00002];
+- (a) a function of the Environment Agency or the Natural Resources Body for Wales[^c-3ec3384b310b916fba3c6dc62fdf68e6] under the Flood Risk Regulations 2009[^f00002];
 - (b) a function of a lead local flood authority[^f00003] under the Flood Risk Regulations 2009;
 - (c) a function of a sewerage undertaker under section 94 of the Water Industry Act 1991[^f00004] in relation to any sewer that conveys surface water.
 
@@ -106,11 +106,11 @@ A separate impact assessment has not been prepared in respect of this Order beca
 
 [^f00001]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-7e9be22cf1718970ae6df7b8f0a8bfb7]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/2232/article/1/b)
+[^c-7e9be22cf1718970ae6df7b8f0a8bfb7]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/2232/article/1/b)
 
-[^key-cf41f1113448ff2937dd9e0fe67df5ea]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/2232/article/1/b)
+[^c-cf41f1113448ff2937dd9e0fe67df5ea]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/2232/article/1/b)
 
-[^key-3ec3384b310b916fba3c6dc62fdf68e6]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/2232/regulation/2/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 390](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/390) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3ec3384b310b916fba3c6dc62fdf68e6]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/2232/regulation/2/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 390](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/390) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^f00002]: Footnote: [S.I. 2009/3042](https://www.legislation.gov.uk/uksi/2009/3042), amended by [S.I. 2010/1102](https://www.legislation.gov.uk/uksi/2010/1102).
 

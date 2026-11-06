@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Power of arrest in Scotland for reckless or careless driving or cycling.[^key-8f0a10e8df7a91191009111ac8e152b7]
+## 167. Power of arrest in Scotland for reckless or careless driving or cycling.[^c-8f0a10e8df7a91191009111ac8e152b7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f0a10e8df7a91191009111ac8e152b7]: Textual amendment: S. 167 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 11](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/11)
+[^c-8f0a10e8df7a91191009111ac8e152b7]: Textual amendment: S. 167 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 11](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Local transport authorities and other transport functions[^key-8f1ea297b06bc2ae2cc07340f49f0564]
+## 31. Local transport authorities and other transport functions[^c-8f1ea297b06bc2ae2cc07340f49f0564]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 confers on combined authorities and CCAs functions as local transpor
 
 ## Annotations
 
-[^key-8f1ea297b06bc2ae2cc07340f49f0564]: Commencement: S. 31 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-8f1ea297b06bc2ae2cc07340f49f0564]: Commencement: S. 31 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 124. Duration[^key-56bc2f4971ef59ff8bf38087e8b3f5b0]
+## Article 124. Duration[^c-56bc2f4971ef59ff8bf38087e8b3f5b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56bc2f4971ef59ff8bf38087e8b3f5b0]: Textual amendment: [Art. 124](https://www.legislation.gov.uk/eur/2013/1308/article/124) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/821/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56bc2f4971ef59ff8bf38087e8b3f5b0]: Textual amendment: [Art. 124](https://www.legislation.gov.uk/eur/2013/1308/article/124) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/821/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

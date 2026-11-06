@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127C. Excess loss allocation to partners who are individuals[^key-2ba4b72116c4eaf5897570ad0540b895]
+## 127C. Excess loss allocation to partners who are individuals[^c-2ba4b72116c4eaf5897570ad0540b895]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba4b72116c4eaf5897570ad0540b895]: Textual amendment: S. 127C inserted (with effect in accordance with Sch. 17 para. 14 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 9(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/9/3)
+[^c-2ba4b72116c4eaf5897570ad0540b895]: Textual amendment: S. 127C inserted (with effect in accordance with Sch. 17 para. 14 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 9(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/9/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. EEA firms seeking to establish a branch[^key-b96c8af74775d494ebd70fb819426066]
+## 96. EEA firms seeking to establish a branch[^c-b96c8af74775d494ebd70fb819426066]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ was received as respects the firm for the purposes of paragraph 1(2)(b) of Sched
 
 ## Annotations
 
-[^key-b96c8af74775d494ebd70fb819426066]: Commencement: Art. 96 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-b96c8af74775d494ebd70fb819426066]: Commencement: Art. 96 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00033]: Footnote: Reg. 2C was inserted by S.I. [1999/2094](https://www.legislation.gov.uk/uksi/1999/2094), reg. 2(1), (3). The status of an EEA firm which has complied with corresponding requirements within the meaning of that regulation is provided for in the Financial Services and Markets Act 2000 (Gibraltar) Order 2001 (S.I. [2001/3084](https://www.legislation.gov.uk/uksi/2001/3084)).

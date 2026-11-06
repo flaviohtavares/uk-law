@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Age assessments: power to make provision about refusal to consent to scientific methods[^key-b834c68a7dd91570aeb668bb3280fc71]
+## 58. Age assessments: power to make provision about refusal to consent to scientific methods[^c-b834c68a7dd91570aeb668bb3280fc71]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b834c68a7dd91570aeb668bb3280fc71]: Textual amendment: [Ss. 53-58](https://www.legislation.gov.uk/ukpga/2023/37/section/53) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/f), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-b834c68a7dd91570aeb668bb3280fc71]: Textual amendment: [Ss. 53-58](https://www.legislation.gov.uk/ukpga/2023/37/section/53) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/f), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

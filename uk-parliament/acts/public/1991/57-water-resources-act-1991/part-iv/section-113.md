@@ -30,7 +30,7 @@ summary: ''
 - (d) the carrying on, for any purpose, of any other practice which involves management of the level of water in a watercourse;
 
 - “**flood defence**” means the drainage of land and the provision of flood warning systems;
-- “**main river**” (subject to section 137(4) below) means a watercourse shown as such on the main river map for England or the main river map for Wales[^key-618c102688594cd6147ea8b023a0384e] and includes any structure or appliance for controlling or regulating the flow of water into, in or out of the channel which—
+- “**main river**” (subject to section 137(4) below) means a watercourse shown as such on the main river map for England or the main river map for Wales[^c-618c102688594cd6147ea8b023a0384e] and includes any structure or appliance for controlling or regulating the flow of water into, in or out of the channel which—
 - (a) is a structure or appliance situated in the channel or in any part of the banks of the channel; and
 - (b) is not a structure or appliance vested in or controlled by an internal drainage board;
 
@@ -48,7 +48,7 @@ the question shall be referred to one of the Ministers for decision or, if eithe
 - (a) by agreement between the parties; or
 - (b) in default of agreement, by the President of the Institution of Civil Engineers, on the application of either party.
 
-(4) Nothing in this Part shall affect the powers exercisable by the appropriate agency[^key-372d52a1340be14adcec746ab6e98d37] under any local Act, as they existed immediately before the coming into force of this Act.
+(4) Nothing in this Part shall affect the powers exercisable by the appropriate agency[^c-372d52a1340be14adcec746ab6e98d37] under any local Act, as they existed immediately before the coming into force of this Act.
 
 ## Annotations
 
@@ -58,6 +58,6 @@ the question shall be referred to one of the Ministers for decision or, if eithe
 
 [^c18734701]: Textual amendment: Words in definition in s. 113(1) added (subject to other provisions of the amending Act) (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 100(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/100/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)
 
-[^key-618c102688594cd6147ea8b023a0384e]: Textual amendment: Words in [s. 113(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/113/1) substituted (1.10.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/59/3), [94](https://www.legislation.gov.uk/ukpga/2014/21/section/94); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)
+[^c-618c102688594cd6147ea8b023a0384e]: Textual amendment: Words in [s. 113(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/113/1) substituted (1.10.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/59/3), [94](https://www.legislation.gov.uk/ukpga/2014/21/section/94); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)
 
-[^key-372d52a1340be14adcec746ab6e98d37]: Textual amendment: Words in s. 113(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-372d52a1340be14adcec746ab6e98d37]: Textual amendment: Words in s. 113(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

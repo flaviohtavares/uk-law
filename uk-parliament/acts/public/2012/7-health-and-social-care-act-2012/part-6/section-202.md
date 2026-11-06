@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Medical services: minor amendments[^key-d6038bb6d1056a164853f4ce44c9dc17]
+## 202. Medical services: minor amendments[^c-d6038bb6d1056a164853f4ce44c9dc17]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6038bb6d1056a164853f4ce44c9dc17]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2012/7/section/202) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d6038bb6d1056a164853f4ce44c9dc17]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2012/7/section/202) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

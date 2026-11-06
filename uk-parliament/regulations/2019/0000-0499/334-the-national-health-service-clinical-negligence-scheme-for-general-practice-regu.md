@@ -48,13 +48,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 71(1) of that Act, these Regulations are made with the consent of the Treasury.
 
-## 1. Citation, commencement and application[^key-452b9b94f07f5433a74f05a1f10190be]
+## 1. Citation, commencement and application[^c-452b9b94f07f5433a74f05a1f10190be]
 
 (1) These Regulations may be cited as the National Health Service (Clinical Negligence Scheme for General Practice) Regulations 2019 and come into force on 1st April 2019.
 
 (2) These Regulations apply only in relation to services provided as part of the health service in England.
 
-## 2. Interpretation[^key-2c34ec699ff8bb9bfb997d4b087d515d]
+## 2. Interpretation[^c-2c34ec699ff8bb9bfb997d4b087d515d]
 
 (1) In these Regulations—
 
@@ -66,7 +66,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - “eligible person” means a person specified in regulation 4;
 - “health service” means the health service continued under section 1(1) of the 2006 Act;
 - “Part 4 contractor” means a person providing, or arranging for the provision of, primary medical services in accordance with a contractual arrangement made with that person under one of the specified sections in Part 4 of the 2006 Act;
-- “primary medical services” means the primary medical services that, pursuant to section 83 of the 2006 Act, NHS England[^key-45f9d8621f8605d2334a36732207b118] is under a duty to secure and which are provided in accordance with a contractual arrangement or agreement (including any such contractual arrangement or agreement that is part of a set of arrangements for the provision of services, in addition to the primary medical services) that is—
+- “primary medical services” means the primary medical services that, pursuant to section 83 of the 2006 Act, NHS England[^c-45f9d8621f8605d2334a36732207b118] is under a duty to secure and which are provided in accordance with a contractual arrangement or agreement (including any such contractual arrangement or agreement that is part of a set of arrangements for the provision of services, in addition to the primary medical services) that is—
   - (a) made or entered into under one of the specified sections in Part 4 of the 2006 Act; or
   - (b) made between a Part 4 contractor and a primary medical services sub-contractor;
 - “primary medical services sub-contractor” means a person providing primary medical services under a contractual arrangement made with a Part 4 contractor;
@@ -92,7 +92,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - (a) “subsidiary” has the same meaning as in section 1159(1) of the Companies Act 2006[^f00006]; and
 - (b) “company” has the same meaning as in subsection (4) of that section.
 
-## 3. Establishment, purpose and administration of scheme[^key-db2111c5b4f630efc00020e813ad7576]
+## 3. Establishment, purpose and administration of scheme[^c-db2111c5b4f630efc00020e813ad7576]
 
 (1) A scheme, to be known as the Clinical Negligence Scheme for General Practice, is established.
 
@@ -100,7 +100,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (3) The Scheme is to be administered by the Secretary of State.
 
-## 4. Eligible persons[^key-9a5f2557d5ff524d9cf70dd07104630c]
+## 4. Eligible persons[^c-9a5f2557d5ff524d9cf70dd07104630c]
 
 (1) An eligible person is a person who is, or who, on the relevant date, was—
 
@@ -113,7 +113,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - (a) “relevant date” means the date on which a breach of a duty of care, as mentioned in regulation 5(1), occurred; and
 - (b) “arrangements” in sub-paragraph (c) excludes arrangements made under a contract of employment.
 
-## 5. Liabilities to which the Scheme applies and exclusions[^key-9964ca99bf4e0c6f6c9da1dfa09bab84]
+## 5. Liabilities to which the Scheme applies and exclusions[^c-9964ca99bf4e0c6f6c9da1dfa09bab84]
 
 (1) The Scheme applies to any liability in tort under the law of England and Wales that arises as a consequence of a breach of a duty of care owed by an eligible person to a third party in connection with a relevant function where—
 
@@ -128,7 +128,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (3) Where a liability of an eligible person is a liability to which both paragraph (1) and regulation 8(1) (liabilities to members) of the National Health Service (Clinical Negligence Scheme) Regulations 2015[^f00007] (“CNST Regulations”) apply, the Secretary of State must determine whether the liability is to be met under this Scheme or the scheme under the CNST Regulations.
 
-## 6. Payments in respect of relevant liabilities[^key-0f38b6af93408bf12afa3a8a9b62f7b3]
+## 6. Payments in respect of relevant liabilities[^c-0f38b6af93408bf12afa3a8a9b62f7b3]
 
 (1) The Secretary of State may determine whether a payment is to be made in respect of a relevant liability.
 
@@ -152,7 +152,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - (a) “bankrupt” has the same meaning as that given in section 381(1) of the Insolvency Act 1986[^f00009] (“Bankrupt” and associated terminology); and
 - (b) “insolvent” has the same meaning as that given in section 247(1)[^f00010] of that Act (meaning of “insolvency” and “go into liquidation”).
 
-## 7. Determination of amount of payment to be made in respect of a relevant liability[^key-7411d15b078bb1e057ecde4ee2cb5fd9]
+## 7. Determination of amount of payment to be made in respect of a relevant liability[^c-7411d15b078bb1e057ecde4ee2cb5fd9]
 
 (1) In determining the amount of any payment to be made under regulation 6 in the circumstances specified in each of paragraphs (2) to (7), the Secretary of State must have regard to the relevant matters specified in each of those paragraphs, as appropriate.
 
@@ -189,7 +189,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - (b) any legal or associated costs incurred by the claimant in connection with the claim; and
 - (c) any legal or associated costs incurred by or on behalf of the eligible person in connection with the claim.
 
-## 8. Circumstances in which payments are not to be made[^key-9539834c78be88b2456c62447f39ceb1]
+## 8. Circumstances in which payments are not to be made[^c-9539834c78be88b2456c62447f39ceb1]
 
 Without limit to the Secretary of State’s powers under regulation 6, no payments may be made in respect of a relevant liability of an eligible person or a person falling within paragraph (3)(a) of that regulation where—
 
@@ -202,7 +202,7 @@ Without limit to the Secretary of State’s powers under regulation 6, no paymen
 - (e) the payment would be of an amount less than the amount which is, for the time being, specified by the Secretary of State as being the minimum amount to be paid in respect of a relevant liability of an eligible person; or
 - (f) the eligible person has failed, whether fully or in part, to comply with a notice under regulation 10.
 
-## 9. Payments on account[^key-a6e04ce8ad723f2969695c5654b2f98d]
+## 9. Payments on account[^c-a6e04ce8ad723f2969695c5654b2f98d]
 
 (1) Without limit to the powers of the Secretary of State under regulation 6, where a payment falls to be made by an eligible person in connection with a relevant liability and the Secretary of State has not yet determined whether a payment is to be made in respect of the relevant liability, the Secretary of State may make a payment on account to, or on behalf of, the eligible person in respect of the relevant liability.
 
@@ -210,7 +210,7 @@ Without limit to the Secretary of State’s powers under regulation 6, no paymen
 
 (3) Where, in accordance with the powers in regulation 6, the Secretary of State determines that no payment is to be made, the whole of the amount of any payment on account made is recoverable from the eligible person.
 
-## 10. Information and assistance to be provided by eligible persons[^key-28e41f50a98512ba6bf5b37b77d486cb]
+## 10. Information and assistance to be provided by eligible persons[^c-28e41f50a98512ba6bf5b37b77d486cb]
 
 (1) For the purposes of the Scheme, the Secretary of State may, by notice in writing, require an eligible person to provide the Secretary of State with any assistance or information specified by the Secretary of State in the notice.
 
@@ -221,7 +221,7 @@ Without limit to the Secretary of State’s powers under regulation 6, no paymen
 
 (3) An eligible person must comply with a notice under paragraph (1).
 
-## 11. Directions and guidance[^key-222f794b3e72b599b54120480ac8f6ff]
+## 11. Directions and guidance[^c-222f794b3e72b599b54120480ac8f6ff]
 
 The Secretary of State must make the following information available to eligible persons in such form and at such times as the Secretary of State considers appropriate—
 
@@ -284,11 +284,11 @@ An impact assessment relating to this instrument has been prepared but is not pu
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Section 71 of the National Health Service Act 2006 (“2006 Act”) was amended by section 142 of, and paragraph 85 of Schedule 5 and Part 4 of Schedule 15 to, the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14); paragraph 18 of Schedule 4, paragraphs 17 and 19 of Schedule 7, paragraphs 1 and 28 of Schedule 14, paragraph 10(1) and (3) of Schedule 17 and paragraph 9(1) and (3) of Schedule 19 to the Health and Social Care Act 2012 (“2012 Act”); and paragraph 24(3) of Schedule 5 and paragraph 18(9) of Schedule 7 to the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23). By virtue of section 271(1) of the 2006 Act, the powers exercised by the Secretary of State in making these Regulations are exercisable only in relation to England.
 
-[^key-452b9b94f07f5433a74f05a1f10190be]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/334/regulation/1) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-452b9b94f07f5433a74f05a1f10190be]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/334/regulation/1) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-2c34ec699ff8bb9bfb997d4b087d515d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/334/regulation/2) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-2c34ec699ff8bb9bfb997d4b087d515d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/334/regulation/2) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-45f9d8621f8605d2334a36732207b118]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-45f9d8621f8605d2334a36732207b118]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00003]: Footnote: Sections 83(1), (2) and (2A) of the National Health Service Act 2006 were substituted for sections 83(1) and (2) as originally enacted by the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) section 55(1), Schedule 4, Part 4, paragraphs 30(1) and (2).
 
@@ -298,15 +298,15 @@ An impact assessment relating to this instrument has been prepared but is not pu
 
 [^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-db2111c5b4f630efc00020e813ad7576]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/334/regulation/3) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-db2111c5b4f630efc00020e813ad7576]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/334/regulation/3) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-9a5f2557d5ff524d9cf70dd07104630c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/334/regulation/4) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-9a5f2557d5ff524d9cf70dd07104630c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/334/regulation/4) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-9964ca99bf4e0c6f6c9da1dfa09bab84]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/334/regulation/5) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-9964ca99bf4e0c6f6c9da1dfa09bab84]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/334/regulation/5) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2015/559](https://www.legislation.gov.uk/uksi/2015/559).
 
-[^key-0f38b6af93408bf12afa3a8a9b62f7b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/334/regulation/6) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-0f38b6af93408bf12afa3a8a9b62f7b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/334/regulation/6) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
 [^f00008]: Footnote: [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -314,16 +314,16 @@ An impact assessment relating to this instrument has been prepared but is not pu
 
 [^f00010]: Footnote: Section 247(1) of the Insolvency Act 1986 was amended by the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 33(1 and (2).
 
-[^key-7411d15b078bb1e057ecde4ee2cb5fd9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/334/regulation/7) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-7411d15b078bb1e057ecde4ee2cb5fd9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/334/regulation/7) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2013/611](https://www.legislation.gov.uk/uksi/2013/611).
 
 [^f00012]: Footnote: [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-9539834c78be88b2456c62447f39ceb1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/334/regulation/8) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-9539834c78be88b2456c62447f39ceb1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/334/regulation/8) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-a6e04ce8ad723f2969695c5654b2f98d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/334/regulation/9) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-a6e04ce8ad723f2969695c5654b2f98d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/334/regulation/9) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-28e41f50a98512ba6bf5b37b77d486cb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/334/regulation/10) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-28e41f50a98512ba6bf5b37b77d486cb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/334/regulation/10) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
 
-[^key-222f794b3e72b599b54120480ac8f6ff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/334/regulation/11) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)
+[^c-222f794b3e72b599b54120480ac8f6ff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/334/regulation/11) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/334/regulation/1/1)

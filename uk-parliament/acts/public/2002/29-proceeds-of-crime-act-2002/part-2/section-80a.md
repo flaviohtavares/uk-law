@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Mortgages[^key-adf271118d568a7cac5b708a105a0fdc]
+## 80A. Mortgages[^c-adf271118d568a7cac5b708a105a0fdc]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ where—
 
 ## Annotations
 
-[^key-adf271118d568a7cac5b708a105a0fdc]: Textual amendment: S. 80A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 10(4)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/10/4); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-adf271118d568a7cac5b708a105a0fdc]: Textual amendment: S. 80A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 10(4)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/10/4); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

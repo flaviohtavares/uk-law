@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 702. Copy of contract or memorandum to be available for inspection[^key-fdcf9ad73ece5874be76ed351a1ca13a][^key-5ec773d5e3fe89f0857b01f174b99516]
+## 702. Copy of contract or memorandum to be available for inspection[^c-fdcf9ad73ece5874be76ed351a1ca13a][^c-5ec773d5e3fe89f0857b01f174b99516]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ unless it has at all times been kept at the company's registered office.
 
 ## Annotations
 
-[^key-fdcf9ad73ece5874be76ed351a1ca13a]: Modification: [S. 702](https://www.legislation.gov.uk/ukpga/2006/46/section/702) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(viii)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/viii)
+[^c-fdcf9ad73ece5874be76ed351a1ca13a]: Modification: [S. 702](https://www.legislation.gov.uk/ukpga/2006/46/section/702) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(viii)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/viii)
 
-[^key-5ec773d5e3fe89f0857b01f174b99516]: Modification: [S. 702](https://www.legislation.gov.uk/ukpga/2006/46/section/702) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-5ec773d5e3fe89f0857b01f174b99516]: Modification: [S. 702](https://www.legislation.gov.uk/ukpga/2006/46/section/702) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Temporary use of land for maintaining the authorised development[^key-a1864545286d0a860a372de1d0ee7aec]
+## 34. Temporary use of land for maintaining the authorised development[^c-a1864545286d0a860a372de1d0ee7aec]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-a1864545286d0a860a372de1d0ee7aec]: Commencement: Art. 34 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-a1864545286d0a860a372de1d0ee7aec]: Commencement: Art. 34 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
 [^f00072]: Footnote: Section 13 was amended by sections 62(3) and 139 of, and paragraphs 27 and 28 of Schedule 13, and Part 3 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

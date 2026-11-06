@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to specify regulatory functions[^key-ff07dda904ab0cf8a9c19014cd48c229]
+## 18. Power to specify regulatory functions[^c-ff07dda904ab0cf8a9c19014cd48c229]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,12 +35,12 @@ summary: ''
 
 - (a) a Scottish devolved function, that is to say a function the exercise of which would be within devolved competence (within the meaning of section 54 of the Scotland Act 1998),
 - (b) a Northern Ireland devolved function, that is to say a function which could be conferred by provision included in an Act of the Northern Ireland Assembly made without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998), or
-- (c) a Welsh devolved function, that is to say a function which could be conferred by provision falling within the legislative competence of the National Assembly for Wales (see section 108A[^key-ea497c4484e2ab96d3dda30f18d3d7d3] of the Government of Wales Act 2006).
+- (c) a Welsh devolved function, that is to say a function which could be conferred by provision falling within the legislative competence of the National Assembly for Wales (see section 108A[^c-ea497c4484e2ab96d3dda30f18d3d7d3] of the Government of Wales Act 2006).
 
 (6) Regulations under this section are subject to affirmative resolution procedure.
 
 ## Annotations
 
-[^key-ff07dda904ab0cf8a9c19014cd48c229]: Commencement: S. 18 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/a)
+[^c-ff07dda904ab0cf8a9c19014cd48c229]: Commencement: S. 18 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/a)
 
-[^key-ea497c4484e2ab96d3dda30f18d3d7d3]: Textual amendment: Words in [s. 18(5)(c)](https://www.legislation.gov.uk/ukpga/2015/26/section/18/5/c) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 106](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/106) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-ea497c4484e2ab96d3dda30f18d3d7d3]: Textual amendment: Words in [s. 18(5)(c)](https://www.legislation.gov.uk/ukpga/2015/26/section/18/5/c) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 106](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/106) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

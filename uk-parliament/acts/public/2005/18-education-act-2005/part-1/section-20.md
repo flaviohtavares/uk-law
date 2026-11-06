@@ -26,12 +26,12 @@ summary: ''
 - (b) how far that education meets the needs of the range of pupils at those schools,
 - (c) the educational standards achieved in those schools,
 - (d) the quality of the leadership in and management of those schools, including whether the financial resources made available to those schools are managed efficiently,
-- (da)[^key-8b426ec6fc951cd7b985ce982b053e5d] the development of pupils at maintained schools (except those over compulsory school age) by reference to the four purposes of a curriculum for those pupils,
+- (da)[^c-8b426ec6fc951cd7b985ce982b053e5d] the development of pupils at maintained schools (except those over compulsory school age) by reference to the four purposes of a curriculum for those pupils,
 - (e) the spiritual, moral, social and cultural development of pupils at those schools, and
 - (f) the contribution made by those schools to the well-being of those pupils.
-- (g)[^key-ce5f15aba0b150dab3797c3d6a4f1e0d] actions taken at maintained schools to promote healthy eating and drinking.
+- (g)[^c-ce5f15aba0b150dab3797c3d6a4f1e0d] actions taken at maintained schools to promote healthy eating and drinking.
 
-(1A)[^key-44e5c9c568a4f728cfc528d9c3dff535] In subsection (1)(da)—
+(1A)[^c-44e5c9c568a4f728cfc528d9c3dff535] In subsection (1)(da)—
 
 - “**maintained school**” does not include a community special school established in a hospital, and
 - “the four purposes of a curriculum” for the pupils mentioned in paragraph (da) are those set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021.
@@ -46,7 +46,7 @@ summary: ''
 - (a) establishing and maintaining the register mentioned in section 25(1);
 - (b) giving guidance to inspectors registered in that register, and such other persons as he considers appropriate, in connection with inspections of schools in Wales under section 28 and the making of reports of such inspections;
 - (c) keeping under review the system of inspecting schools under that section and, in particular, the standard of such inspections and of the reports made by registered inspectors;
-- (d) keeping under review the extent to which any requirement imposed by or under this Part, or any other enactment, on any registered inspector, local authority[^key-94ed0295e29907765ea29be5dd3e5cb4], proprietor of a school or governing body in relation to inspections of schools in Wales is complied with;
+- (d) keeping under review the extent to which any requirement imposed by or under this Part, or any other enactment, on any registered inspector, local authority[^c-94ed0295e29907765ea29be5dd3e5cb4], proprietor of a school or governing body in relation to inspections of schools in Wales is complied with;
 - (e) promoting efficiency in the conduct and reporting of inspections of schools in Wales by encouraging competition in the provision of services by registered inspectors.
 
 (4) The Chief Inspector may at any time give advice to the Assembly on any matter connected with schools, or a particular school, in Wales.
@@ -55,16 +55,16 @@ summary: ''
 
 (6) In exercising his functions, the Chief Inspector must have regard to such aspects of policy adopted or formulated by the Assembly as the Assembly may direct.
 
-(7) This section does not apply in relation to education to which the functions of the Chief Inspector under Part 2 of the Tertiary Education and Research (Wales) Act 2022 apply[^key-d1c1203392bbe938f783ff7b2db2e831].
+(7) This section does not apply in relation to education to which the functions of the Chief Inspector under Part 2 of the Tertiary Education and Research (Wales) Act 2022 apply[^c-d1c1203392bbe938f783ff7b2db2e831].
 
 ## Annotations
 
-[^key-8b426ec6fc951cd7b985ce982b053e5d]: Textual amendment: S. 20(1)(da) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8/2/a)
+[^c-8b426ec6fc951cd7b985ce982b053e5d]: Textual amendment: S. 20(1)(da) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8/2/a)
 
-[^key-ce5f15aba0b150dab3797c3d6a4f1e0d]: Textual amendment: S. 20(1)(g) inserted (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 3(2)](https://www.legislation.gov.uk/mwa/2009/3/section/3/2), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-ce5f15aba0b150dab3797c3d6a4f1e0d]: Textual amendment: S. 20(1)(g) inserted (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 3(2)](https://www.legislation.gov.uk/mwa/2009/3/section/3/2), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
 
-[^key-44e5c9c568a4f728cfc528d9c3dff535]: Textual amendment: S. 20(1A) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8/2/b)
+[^c-44e5c9c568a4f728cfc528d9c3dff535]: Textual amendment: S. 20(1A) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8/2/b)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
-[^key-d1c1203392bbe938f783ff7b2db2e831]: Textual amendment: Words in s. 20(7) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxi)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxi)
+[^c-d1c1203392bbe938f783ff7b2db2e831]: Textual amendment: Words in s. 20(7) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxi)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Compliance notices: supplementary[^key-8991dd09d0610fd2fa1674e0f8c10ec1][^key-782cacc4c8cef2b12c9bd73e8a3440f7]
+## 100. Compliance notices: supplementary[^c-8991dd09d0610fd2fa1674e0f8c10ec1][^c-782cacc4c8cef2b12c9bd73e8a3440f7]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8991dd09d0610fd2fa1674e0f8c10ec1]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-8991dd09d0610fd2fa1674e0f8c10ec1]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-782cacc4c8cef2b12c9bd73e8a3440f7]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2022/30/section/100) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/t)
+[^c-782cacc4c8cef2b12c9bd73e8a3440f7]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2022/30/section/100) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/t)

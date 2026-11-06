@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Permission to carry on regulated activities[^key-c6d7b9a7413be806e2f2b8f9aa27a0a5][^key-e961f3ade3dc987a0d4709e6618be952]
+## 11. Permission to carry on regulated activities[^c-c6d7b9a7413be806e2f2b8f9aa27a0a5][^c-e961f3ade3dc987a0d4709e6618be952]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d154796a23732d1534303faf811695b8] In section 31 (authorised persons), in subsection (1)(a), for “Part IV permission” substitute “ Part 4A permission ”.
+(1)[^c-d154796a23732d1534303faf811695b8] In section 31 (authorised persons), in subsection (1)(a), for “Part IV permission” substitute “ Part 4A permission ”.
 
-(2)[^key-77913c5fee8790d40542ad8d1aa81704] For sections 40 to 55 of FSMA 2000 substitute—
+(2)[^c-77913c5fee8790d40542ad8d1aa81704] For sections 40 to 55 of FSMA 2000 substitute—
 
 > **PART 4A — Permission to carry on regulated activities**
 >
@@ -681,14 +681,14 @@ summary: ''
 > - “**own-initiative requirement power**”, in relation to the FCA or the PRA, is to be read in accordance with section 55L(4) or 55M(4);
 > - “**own-initiative variation power**”, in relation to the FCA or the PRA, is to be read in accordance with section 55J(12).
 
-(3)[^key-d154796a23732d1534303faf811695b8] In Schedule 6 to FSMA 2000 (the threshold conditions), omit paragraph 9.
+(3)[^c-d154796a23732d1534303faf811695b8] In Schedule 6 to FSMA 2000 (the threshold conditions), omit paragraph 9.
 
 ## Annotations
 
-[^key-c6d7b9a7413be806e2f2b8f9aa27a0a5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2012/21/section/11) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-c6d7b9a7413be806e2f2b8f9aa27a0a5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2012/21/section/11) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-e961f3ade3dc987a0d4709e6618be952]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2012/21/section/11) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-e961f3ade3dc987a0d4709e6618be952]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2012/21/section/11) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-d154796a23732d1534303faf811695b8]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d154796a23732d1534303faf811695b8]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-77913c5fee8790d40542ad8d1aa81704]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-77913c5fee8790d40542ad8d1aa81704]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/11/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

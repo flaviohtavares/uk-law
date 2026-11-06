@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of the Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019[^key-e802dce69813ec4ac87e9b007f38f9af]
+## 5. Amendment of the Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019[^c-e802dce69813ec4ac87e9b007f38f9af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2
 
 ## Annotations
 
-[^key-e802dce69813ec4ac87e9b007f38f9af]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e802dce69813ec4ac87e9b007f38f9af]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373821]: Marginal citation: [S.I. 2019/1385](https://www.legislation.gov.uk/uksi/2019/1385).

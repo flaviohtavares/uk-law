@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Revocation[^key-51103bdcc7e6c981c8c73fe0e33a31f1]
+## 42. Revocation[^c-51103bdcc7e6c981c8c73fe0e33a31f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The 2006 Regulations are revoked.
 
 ## Annotations
 
-[^key-51103bdcc7e6c981c8c73fe0e33a31f1]: Commencement: Reg. 42 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-51103bdcc7e6c981c8c73fe0e33a31f1]: Commencement: Reg. 42 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

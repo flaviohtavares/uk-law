@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Measures applicable in respect of a supplementary movement control zone[^key-5a111e47447cf5cdac654389514c176f]
+## 19. Measures applicable in respect of a supplementary movement control zone[^c-5a111e47447cf5cdac654389514c176f]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a111e47447cf5cdac654389514c176f]: Commencement: Reg. 19 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-5a111e47447cf5cdac654389514c176f]: Commencement: Reg. 19 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

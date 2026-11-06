@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Repairing tenancies: compensation[^key-711b62d9d09531c80d707e357ff4965a]
+## 98. Repairing tenancies: compensation[^c-711b62d9d09531c80d707e357ff4965a]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711b62d9d09531c80d707e357ff4965a]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2016/18/section/98) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-711b62d9d09531c80d707e357ff4965a]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2016/18/section/98) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

@@ -32,7 +32,7 @@ summary: ''
 
 European Parliament
 
-The Members of the European Parliament (Salaries of Members of the Greater London Authority) Order 2011 (revoked)[^key-9fa9f406c0230e255df9f7dd9ee9e58e]
+The Members of the European Parliament (Salaries of Members of the Greater London Authority) Order 2011 (revoked)[^c-9fa9f406c0230e255df9f7dd9ee9e58e]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 31st January 2012
 
-[^key-9fa9f406c0230e255df9f7dd9ee9e58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fa9f406c0230e255df9f7dd9ee9e58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9fa9f406c0230e255df9f7dd9ee9e58e]
+## 1. Citation and commencement[^c-9fa9f406c0230e255df9f7dd9ee9e58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Greater London Authority Act 1999[^key-9fa9f406c0230e255df9f7dd9ee9e58e]
+## 2. Amendment of the Greater London Authority Act 1999[^c-9fa9f406c0230e255df9f7dd9ee9e58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9fa9f406c0230e255df9f7dd9ee9e58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fa9f406c0230e255df9f7dd9ee9e58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-9fa9f406c0230e255df9f7dd9ee9e58e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/3048) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-9fa9f406c0230e255df9f7dd9ee9e58e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/3048) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

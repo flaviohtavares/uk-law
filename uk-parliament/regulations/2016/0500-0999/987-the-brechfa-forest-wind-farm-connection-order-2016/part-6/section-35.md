@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Arbitration[^key-249a9151604c47e433ba4445f4675f47]
+## 35. Arbitration[^c-249a9151604c47e433ba4445f4675f47]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-249a9151604c47e433ba4445f4675f47]: Commencement: Art. 35 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-249a9151604c47e433ba4445f4675f47]: Commencement: Art. 35 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

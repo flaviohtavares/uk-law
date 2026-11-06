@@ -48,13 +48,13 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 The Secretary of State, in exercise of the powers conferred by sections 71A[^f00003] and 74(3)[^f00004] of the Marriage Act 1949[^f00005], sections 38A[^f00006] and 39A[^f00007] of the Births and Deaths Registration Act 1953[^f00008], section 19B of the Registration Service Act 1953[^f00009], section 2(2) and paragraph 1A of schedule 2 to the European Communities Act 1972, sections 34[^f00010] and 36(4) of the Civil Partnership Act 2004[^f00011] and section 9[^f00012] and section 18 of the Marriage (Same Sex Couples) Act 2013[^f00013] makes the following Regulations.
 
-## 1. Citation and commencement[^key-6f66309d5bb6835919a6bbb44e0a0095]
+## 1. Citation and commencement[^c-6f66309d5bb6835919a6bbb44e0a0095]
 
 (1) These Regulations may be cited as the Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018.
 
 (2) These Regulations come into force on 16th February 2019.
 
-## 2. Interpretation[^key-c49f5b02575697d491258dd501125582]
+## 2. Interpretation[^c-c49f5b02575697d491258dd501125582]
 
 In these Regulations—
 
@@ -63,11 +63,11 @@ In these Regulations—
 - “relevant authority” means a superintendent registrar, registrar or registration authority.
 - “relevant local office” means any place where a relevant authority provides standard or priority certificate services.
 
-## 3. Amendment of the Fees Regulations[^key-08dffa6726000fef5486515d0041cfe0]
+## 3. Amendment of the Fees Regulations[^c-08dffa6726000fef5486515d0041cfe0]
 
 The Fees Regulations are amended as follows.
 
-## 4. Amendment of regulation 2 (interpretation)[^key-bcc8fc4d998bb839ff4a6cadcb483745]
+## 4. Amendment of regulation 2 (interpretation)[^c-bcc8fc4d998bb839ff4a6cadcb483745]
 
 (1) In the definition of a “priority service”—
 
@@ -119,7 +119,7 @@ The Fees Regulations are amended as follows.
 
   .
 
-## 5. Insertion of regulations 3B to 3F[^key-080f0a42032ebf6c16a83821366e4da3]
+## 5. Insertion of regulations 3B to 3F[^c-080f0a42032ebf6c16a83821366e4da3]
 
 After regulation 3A[^f00021] insert—
 
@@ -164,15 +164,15 @@ After regulation 3A[^f00021] insert—
 >
 > (1) A fee of £3.50 is retained by the Registrar General where an application is made to the Registrar General for a certified copy and the corresponding entry cannot be located from the relevant information provided.
 >
-> **.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6801749c70a89855e59e88ef694939be]**
+> **.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6801749c70a89855e59e88ef694939be]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 1 (fees payable)[^key-077f60801d0c1bd7c8518863a467b900]
+## 6. Amendment of Schedule 1 (fees payable)[^c-077f60801d0c1bd7c8518863a467b900]
 
 The Schedule (amendments to the table in Schedule 1 to the Fees Regulations) has effect.
 
-## 7. Amendment of the Records Regulations[^key-851eff356b3d17f7e4997d9e52029ce0]
+## 7. Amendment of the Records Regulations[^c-851eff356b3d17f7e4997d9e52029ce0]
 
 The Records Regulations are amended as follows—
 
@@ -193,9 +193,9 @@ Home Office
 
 Regulation 6
 
-**1.**[^key-98e006adea2dc425471f4a4cbccdef0e] The table in Schedule 1 to the Fees Regulations (fees payable) is amended as follows.
+**1.**[^c-98e006adea2dc425471f4a4cbccdef0e] The table in Schedule 1 to the Fees Regulations (fees payable) is amended as follows.
 
-**2.**[^key-202b87821a5f0c2b6094c79677de70f9] For row 13 substitute—
+**2.**[^c-202b87821a5f0c2b6094c79677de70f9] For row 13 substitute—
 
 > <table>
 > <tfoot>
@@ -210,19 +210,19 @@ Regulation 6
 >
 > [^f01000]
 
-**3.**[^key-d7e40162625ebbdb6fc0936d39fb78ab] In row 15, in column 3 (amount of fee), for “£10.00” substitute “£11.00”.
+**3.**[^c-d7e40162625ebbdb6fc0936d39fb78ab] In row 15, in column 3 (amount of fee), for “£10.00” substitute “£11.00”.
 
-**4.**[^key-f12d3ff94126bac990bbdf5e8e24721b] In row 16, column 3 –
+**4.**[^c-f12d3ff94126bac990bbdf5e8e24721b] In row 16, column 3 –
 
 - (i) For “£9.25” substitute “£11.00”;
 - (ii) For “£23.40” substitute “£35.00”.
 
-**5.**[^key-36d9d09b5b370a053005433cd002258e] In row 18, in column 3—
+**5.**[^c-36d9d09b5b370a053005433cd002258e] In row 18, in column 3—
 
 - (i) for “£9.25” substitute “£11.00”;
 - (ii) for “£23.40” substitute “£35.00”.
 
-**6.**[^key-efabd70bfc1b22cac9bec8011972bb41] For rows 20 to 22 substitute—
+**6.**[^c-efabd70bfc1b22cac9bec8011972bb41] For rows 20 to 22 substitute—
 
 > <table>
 > <tfoot>
@@ -242,32 +242,32 @@ Regulation 6
 >
 > [^f01001]
 
-**7.**[^key-0f281e5e3f4d835385033749a66dea9b] For row 36, substitute—
+**7.**[^c-0f281e5e3f4d835385033749a66dea9b] For row 36, substitute—
 
 > |  |  |  |  |  |
 > | --- | --- | --- | --- | --- |
 > | 36 | Civil Partnership (Registration Provisions) Regulations 2005 regulation 13(2) | (a) Standard service for a certified copy or certified extract of an entry in the civil partnership register issued by the Registrar General | £11.00 | The Registrar General |
 > |  |  | (b) Priority service for a certified copy or certified extract of an entry in the civil partnership register obtained from the Registrar General | £35.00 | The Registrar General |
 
-**8.**[^key-d92dacae92c3ad804353311f06069cbf] For row 37 substitute—
+**8.**[^c-d92dacae92c3ad804353311f06069cbf] For row 37 substitute—
 
 > |  |  |  |  |  |
 > | --- | --- | --- | --- | --- |
 > | 37\. | Civil Partnership (Registration Provisions) Regulations 2005 regulation 14(2) | (a) Standard service for a certified copy or a certified extract of an entry in the civil partnership register issued by a registration authority | £11.00 | The registration authority |
 > |  |  | (b) Priority service for a certified copy or certified extract of an entry in the conversion register issued by a registration authority | £35.00 | The registration authority |
 
-**9.**[^key-50c432034ae3a818db1acc58cf547b63] In row 39, in column 3, for “£9.25” substitute “£11.00”.
+**9.**[^c-50c432034ae3a818db1acc58cf547b63] In row 39, in column 3, for “£9.25” substitute “£11.00”.
 
-**10.**[^key-ba0d33e1fe4ad7153095935aa4f8344c] Omit row 46.
+**10.**[^c-ba0d33e1fe4ad7153095935aa4f8344c] Omit row 46.
 
-**11.**[^key-9749e245fc00fa63c2a893a5b0427272] For row 47 substitute—
+**11.**[^c-9749e245fc00fa63c2a893a5b0427272] For row 47 substitute—
 
 > |  |  |  |  |  |
 > | --- | --- | --- | --- | --- |
 > | 47\. | The Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014 regulation 23(2) | (a) Standard service for a certified copy of an entry relating to a marriage in the conversion register issued by the Registrar General | £11.00 | The Registrar General |
 > |  |  | (b) Priority service for a certified copy of an entry relating to a marriage in the conversion register issued by the Registrar General | £35.00 | The Registrar General |
 
-**12.**[^key-130e08755232749adeb0a62c571d73b3] For row 48 substitute—
+**12.**[^c-130e08755232749adeb0a62c571d73b3] For row 48 substitute—
 
 > <table>
 > <tfoot>
@@ -281,7 +281,7 @@ Regulation 6
 >
 > [^f01002]
 
-**13.**[^key-c1d89329d6493b80202852ede06615fe] After row 48, insert—
+**13.**[^c-c1d89329d6493b80202852ede06615fe] After row 48, insert—
 
 > <table>
 > <tfoot>
@@ -352,17 +352,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00013]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-6f66309d5bb6835919a6bbb44e0a0095]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-6f66309d5bb6835919a6bbb44e0a0095]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-c49f5b02575697d491258dd501125582]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1268/regulation/2) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-c49f5b02575697d491258dd501125582]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1268/regulation/2) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911).
 
 [^f00015]: Footnote: [S.I. 2016/980](https://www.legislation.gov.uk/uksi/2016/980).
 
-[^key-08dffa6726000fef5486515d0041cfe0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1268/regulation/3) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-08dffa6726000fef5486515d0041cfe0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1268/regulation/3) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-bcc8fc4d998bb839ff4a6cadcb483745]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1268/regulation/4) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-bcc8fc4d998bb839ff4a6cadcb483745]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1268/regulation/4) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f00016]: Footnote: Section 64(2) was amended by paragraph 14(a) of Schedule 1 to the Registration Service Act 1953, and by paragraph 16 of Schedule 15 to the Immigration Act 2016.
 
@@ -374,7 +374,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00020]: Footnote: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176).
 
-[^key-080f0a42032ebf6c16a83821366e4da3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1268/regulation/5) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-080f0a42032ebf6c16a83821366e4da3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1268/regulation/5) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f00021]: Footnote: Regulation 3A was inserted by [S.I. 2017/947](https://www.legislation.gov.uk/uksi/2017/947).
 
@@ -382,49 +382,49 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00023]: Footnote: [S.I. 2014/3181](https://www.legislation.gov.uk/uksi/2014/3181). Regulation 23 was amended by [S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911).
 
-[^key-6801749c70a89855e59e88ef694939be]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/1268/regulation/5) revoked (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-6801749c70a89855e59e88ef694939be]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/1268/regulation/5) revoked (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-077f60801d0c1bd7c8518863a467b900]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1268/regulation/6) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-077f60801d0c1bd7c8518863a467b900]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1268/regulation/6) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-851eff356b3d17f7e4997d9e52029ce0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-851eff356b3d17f7e4997d9e52029ce0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-98e006adea2dc425471f4a4cbccdef0e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/1) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-98e006adea2dc425471f4a4cbccdef0e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/1) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-202b87821a5f0c2b6094c79677de70f9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/2) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-202b87821a5f0c2b6094c79677de70f9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/2) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f01000]: Footnote: (1)
 
     Section 63 was amended by the Registration of Births, Deaths and Marriages (Fees) Order 1968 ([S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)), and by paragraph 15 of Schedule 15 to the Immigration Act 2016.
 
-[^key-d7e40162625ebbdb6fc0936d39fb78ab]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/3) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-d7e40162625ebbdb6fc0936d39fb78ab]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/3) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-f12d3ff94126bac990bbdf5e8e24721b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/4) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-f12d3ff94126bac990bbdf5e8e24721b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/4) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-36d9d09b5b370a053005433cd002258e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/5) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-36d9d09b5b370a053005433cd002258e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/5) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-efabd70bfc1b22cac9bec8011972bb41]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/6) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-efabd70bfc1b22cac9bec8011972bb41]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/6) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f01001]: Footnote: (1)
 
     Section 33(1) was amended by paragraph 26 of Schedule 15 to the Immigration Act 2016.
 
-[^key-0f281e5e3f4d835385033749a66dea9b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/7) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-0f281e5e3f4d835385033749a66dea9b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/7) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-d92dacae92c3ad804353311f06069cbf]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/8) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-d92dacae92c3ad804353311f06069cbf]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/8) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-50c432034ae3a818db1acc58cf547b63]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/9) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-50c432034ae3a818db1acc58cf547b63]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/9) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-ba0d33e1fe4ad7153095935aa4f8344c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/10) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-ba0d33e1fe4ad7153095935aa4f8344c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/10) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-9749e245fc00fa63c2a893a5b0427272]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/11) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-9749e245fc00fa63c2a893a5b0427272]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/11) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
-[^key-130e08755232749adeb0a62c571d73b3]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/12) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-130e08755232749adeb0a62c571d73b3]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/12) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f01002]: Footnote: (1)
 
     Regulation 24(2) was amended by [S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911).
 
-[^key-c1d89329d6493b80202852ede06615fe]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/13) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+[^c-c1d89329d6493b80202852ede06615fe]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/13) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
 
 [^f01003]: Footnote: (1)
 

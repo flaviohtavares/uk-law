@@ -64,7 +64,7 @@ Regulation 30
 
 (1) The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00129] are amended as follows.
 
-(2)[^key-df7d66462c003effc8baf6bc3cd35222] In regulation 2(1) (interpretation and application) in paragraph (b) of the definition of “dispensing doctor”, for “paragraph 15 of Schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004” substitute “paragraph 16 of schedule 1 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018.
+(2)[^c-df7d66462c003effc8baf6bc3cd35222] In regulation 2(1) (interpretation and application) in paragraph (b) of the definition of “dispensing doctor”, for “paragraph 15 of Schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004” substitute “paragraph 16 of schedule 1 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018.
 
 (3) In paragraph 4(2)(b)(ii) of schedule 1, for the words “regulation 2 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004” substitute “regulation 3 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018”.
 
@@ -92,7 +92,7 @@ Regulation 30
 
 [^f00129]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183).
 
-[^key-df7d66462c003effc8baf6bc3cd35222]: Textual amendment: [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/4/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [19](https://www.legislation.gov.uk/ssi/2018/94/regulation/19)
+[^c-df7d66462c003effc8baf6bc3cd35222]: Textual amendment: [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/4/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [19](https://www.legislation.gov.uk/ssi/2018/94/regulation/19)
 
 [^f00130]: Footnote: [S.S.I. 2012/36](https://www.legislation.gov.uk/ssi/2012/36).
 

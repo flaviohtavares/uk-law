@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.11. Date of service[^key-219e3f41b65ff981d0797c246bf1e134]
+## 4.11. Date of service[^c-219e3f41b65ff981d0797c246bf1e134]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-219e3f41b65ff981d0797c246bf1e134]: Commencement: [Rule 4.11](https://www.legislation.gov.uk/uksi/2025/909/rule/4.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-219e3f41b65ff981d0797c246bf1e134]: Commencement: [Rule 4.11](https://www.legislation.gov.uk/uksi/2025/909/rule/4.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

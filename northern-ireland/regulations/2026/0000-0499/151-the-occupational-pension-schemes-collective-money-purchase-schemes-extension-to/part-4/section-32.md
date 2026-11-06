@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Scheme design requirement[^key-42ea047d573fc5e850ea346fa07b171f]
+## 32. Scheme design requirement[^c-42ea047d573fc5e850ea346fa07b171f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 2 sets out the matters that the Pensions Regulator must take 
 
 ## Annotations
 
-[^key-42ea047d573fc5e850ea346fa07b171f]: Commencement: Reg. 32 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-42ea047d573fc5e850ea346fa07b171f]: Commencement: Reg. 32 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Notification of prescriptive applications[^key-38b92944f03dd25008a4ace35eb19a84]
+## 45. Notification of prescriptive applications[^c-38b92944f03dd25008a4ace35eb19a84]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38b92944f03dd25008a4ace35eb19a84]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2012/5/section/45) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-38b92944f03dd25008a4ace35eb19a84]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2012/5/section/45) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

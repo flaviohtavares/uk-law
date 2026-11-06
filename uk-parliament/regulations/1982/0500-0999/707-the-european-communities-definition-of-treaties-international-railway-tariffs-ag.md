@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (International Railway Tariffs Agreements) Order 1982 (revoked)[^key-21a5a8f25500bb713b951ec024a76876]
+The European Communities (Definition of Treaties) (International Railway Tariffs Agreements) Order 1982 (revoked)[^c-21a5a8f25500bb713b951ec024a76876]
 
 Laid before Parliament in draft
 
@@ -41,26 +41,26 @@ Made
 
 Coming into Operation in accordance with Article 1
 
-[^key-21a5a8f25500bb713b951ec024a76876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21a5a8f25500bb713b951ec024a76876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21a5a8f25500bb713b951ec024a76876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21a5a8f25500bb713b951ec024a76876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-21a5a8f25500bb713b951ec024a76876]
+## SCHEDULE[^c-21a5a8f25500bb713b951ec024a76876]
 
-**1.**[^key-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-21a5a8f25500bb713b951ec024a76876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21a5a8f25500bb713b951ec024a76876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21a5a8f25500bb713b951ec024a76876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21a5a8f25500bb713b951ec024a76876]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1982/707) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21a5a8f25500bb713b951ec024a76876]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1982/707) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

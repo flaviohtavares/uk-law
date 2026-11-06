@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Power to operate and use tramway system[^key-6106a7c3d2ca4a349cef3ded7a93e372]
+## 40. Power to operate and use tramway system[^c-6106a7c3d2ca4a349cef3ded7a93e372]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6106a7c3d2ca4a349cef3ded7a93e372]: Commencement: Art. 40 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-6106a7c3d2ca4a349cef3ded7a93e372]: Commencement: Art. 40 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Meaning of “completing a Welsh apprenticeship”[^key-15cacea20adcfd65f81af11a888a940d][^key-86e3546cc5697f54eb7036d249310bac]
+## 2. Meaning of “completing a Welsh apprenticeship”[^c-15cacea20adcfd65f81af11a888a940d][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15cacea20adcfd65f81af11a888a940d]: Commencement: S. 2 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/a)
+[^c-15cacea20adcfd65f81af11a888a940d]: Commencement: S. 2 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/a)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

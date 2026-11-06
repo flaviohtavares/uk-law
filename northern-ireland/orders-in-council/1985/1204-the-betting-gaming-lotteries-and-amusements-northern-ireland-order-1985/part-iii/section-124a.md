@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124A⁠. Prohibition on inviting, etc. person under 18 to play gaming machine[^key-8b867d56fffbabe3eff0d1a812ea496e]
+## 124A⁠. Prohibition on inviting, etc. person under 18 to play gaming machine[^c-8b867d56fffbabe3eff0d1a812ea496e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b867d56fffbabe3eff0d1a812ea496e]: Textual amendment: [Art. 124A](https://www.legislation.gov.uk/nisi/1985/1204/article/124A) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 7(1)](https://www.legislation.gov.uk/nia/2022/14/section/7/1), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-8b867d56fffbabe3eff0d1a812ea496e]: Textual amendment: [Art. 124A](https://www.legislation.gov.uk/nisi/1985/1204/article/124A) inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 7(1)](https://www.legislation.gov.uk/nia/2022/14/section/7/1), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)

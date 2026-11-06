@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation applies if—
 
 - (a) the employment of one or more active members (“the transferring employees”) is transferred without their consent to a new employer,
-- (b) on that transfer the transferring employees cease to be eligible to be active members of this Section of[^key-d7dd51c8cab8aef1b340ceb4f8103f2f] the Scheme,
+- (b) on that transfer the transferring employees cease to be eligible to be active members of this Section of[^c-d7dd51c8cab8aef1b340ceb4f8103f2f] the Scheme,
 - (c) after that transfer the transferring employees become active members of another occupational pension scheme (“**the new employer's scheme**”),
 - (d) the Department has agreed special terms for the making of transfer value payments in respect of the transferring employees to the new employer's scheme, after consultation with the Scheme actuary, and
 - (e) the transferring employees have consented in writing to their rights being transferred in accordance with those terms.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7dd51c8cab8aef1b340ceb4f8103f2f]: Textual amendment: Words in [reg. 233(1)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/233/1/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-d7dd51c8cab8aef1b340ceb4f8103f2f]: Textual amendment: Words in [reg. 233(1)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/233/1/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

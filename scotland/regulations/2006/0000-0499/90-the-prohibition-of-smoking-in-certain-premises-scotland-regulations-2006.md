@@ -57,7 +57,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(3), 4(
   - (a) a goods vehicle;
   - (b) a motor cycle; or
   - (c) a vehicle of a type not commonly used as a private vehicle and unsuitable to be so used;
-- “**care home service**” means a care home service within the meaning of paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-e1cc4455598ab3f1941ac942f9701d39];
+- “**care home service**” means a care home service within the meaning of paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-e1cc4455598ab3f1941ac942f9701d39];
 - “**club premises**” means any premises which are used by and for the purposes of a club or other unincorporated association, whether for profit or not;
 - “**council**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c15346221];
 - “**designated hotel bedroom**” means a room in a hotel which–
@@ -85,7 +85,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(3), 4(
 - “**domestic premises**” means premises occupied as a private dwelling (including any garage, outhouse, or other appurtenance of such premises which is not used in common by the occupants of more than one such dwelling), and “**non-domestic premises**” shall be construed accordingly;
 - “**educational institution**” means–
   - (a) a school within the meaning of section 135(1) of the Education (Scotland) Act 1980 [^c15346241];
-  - (b) a school care accommodation service within the meaning of paragraph 3 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-ee3fcf3e77b28fbc3da8cdac0d288b58];
+  - (b) a school care accommodation service within the meaning of paragraph 3 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-ee3fcf3e77b28fbc3da8cdac0d288b58];
   - (c) a college or other institution providing further education within the meaning of section 1 of the Further and Higher Education (Scotland) Act 1992 [^c15346251] and section 1(5)(b) of the Education (Scotland) Act 1980 [^c15346261];
   - (d) a university or other institution providing higher education within the meaning of section 38 of the Further and Higher Education (Scotland) Act 1992 [^c15346271]; and
   - (e) any other educational and vocational institution;
@@ -102,7 +102,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(3), 4(
 - “**illness**” includes mental disorder within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 [^c15346291] and any injury or disability requiring medical or dental treatment or nursing;
 - “**legalised police cell**” means a police cell within the meaning of section 14(1) of the Prisons (Scotland) Act 1989 [^c15346301];
 - “**no smoking notice**” means a notice displayed in accordance with section 3(1) of the Act;
-- “**offender accommodation service**” means an offender accommodation service within the meaning of paragraph 7 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-373afae3beb2ee31f61695ab99193b12];
+- “**offender accommodation service**” means an offender accommodation service within the meaning of paragraph 7 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-373afae3beb2ee31f61695ab99193b12];
 - “**offshore installation**” means any offshore installation within the meaning of regulation 3 of the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 [^c15346311];
 - “**premises**” includes–
   - (a) any building or part of a building;
@@ -123,7 +123,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(3), 4(
 - “**restaurant**” means–
   - (a) a café, coffee shop, bistro, fast food establishment or snack bar; and
   - (b) any other premises exclusively or mainly used for the sale and consumption of food;
-- “**secure accommodation service**” means a secure accommodation service within the same meaning of paragraph 6 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-68f219fd0f5b9fab14123c4e81dbc9a8];
+- “**secure accommodation service**” means a secure accommodation service within the same meaning of paragraph 6 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-68f219fd0f5b9fab14123c4e81dbc9a8];
 - “**sports centre**” means any gymnasium, health spa, swimming pool, roller or ice rink, bowling alley and other similar premises used to engage in sports, athletics or recreational activities or to witness sports, athletics, recreational or similar activities;
 - “**state hospital**” means a state hospital provided under section 102(1) of the National Health Service (Scotland) Act 1978;
 - “**taxi**” means a hire car within the meaning of section 23(1) of the Civic Government (Scotland) Act 1982; and
@@ -189,18 +189,18 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(3), 4(
 (2) The amount of the fixed penalty prescribed under paragraph 4(1) of schedule 1 to the Act is–
 
 - (a) £200 for an offence under section 1 of the Act;
-- (b) £50 for an offence under section 2 of the Act; [^key-634d1aca4eb44ac02f4812e7b849937b]...
+- (b) £50 for an offence under section 2 of the Act; [^c-634d1aca4eb44ac02f4812e7b849937b]...
 - (c) £200 for an offence under section 3 of the Act.
-- (d)[^key-e3f68477ad4912542fd6d90040e76839] £200 for an offence under section 4A of the Act;
+- (d)[^c-e3f68477ad4912542fd6d90040e76839] £200 for an offence under section 4A of the Act;
 - (e) £50 for an offence under section 4B of the Act; and
 - (f) £200 for an offence under section 4C of the Act.
 
 (3) The discounted amount prescribed under paragraph 5(2) of schedule 1 to the Act for a fixed penalty is–
 
 - (a) £150 for an offence under section 1 of the Act;
-- (b) £30 for an offence under section 2 of the Act; [^key-b43bba46d1df15ca7246eac5dcc7d4f5]...
+- (b) £30 for an offence under section 2 of the Act; [^c-b43bba46d1df15ca7246eac5dcc7d4f5]...
 - (c) £150 for an offence under section 3 of the Act.
-- (d)[^key-6bc02a3383fed2598002132ebdcbd4ed] £150 for an offence under section 4A of the Act;
+- (d)[^c-6bc02a3383fed2598002132ebdcbd4ed] £150 for an offence under section 4A of the Act;
 - (e) £30 for an offence under section 4B of the Act; and
 - (f) £150 for an offence under section 4C of the Act.
 
@@ -324,7 +324,7 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^c15346201]: Marginal citation: [2005 asp 13](https://www.legislation.gov.uk/asp/2005/13) (“**the Act**”).
 
-[^key-e1cc4455598ab3f1941ac942f9701d39]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/a)
+[^c-e1cc4455598ab3f1941ac942f9701d39]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/a)
 
 [^c15346221]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [section 2(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/2/2) was amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232(1)](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/232/1).
 
@@ -332,7 +332,7 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^c15346241]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44); the definition of “school” in section 135(1) was amended by the [Self Governing Schools etc. (Scotland) Act 1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39), [Schedule 10](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10), [paragraph 8(22)(d)](https://www.legislation.gov.uk/ukpga/1989/39/paragraph/8/22/d) and repealed in part by the [Registered Establishments (Scotland) Act 1987 (c. 40)](https://www.legislation.gov.uk/ukpga/1987/40), [section 2(2)](https://www.legislation.gov.uk/ukpga/1987/40/section/2/2). There are other amendments to section 135(1) not relevant to these Regulations.
 
-[^key-ee3fcf3e77b28fbc3da8cdac0d288b58]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/b)
+[^c-ee3fcf3e77b28fbc3da8cdac0d288b58]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/b)
 
 [^c15346251]: Marginal citation: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
 
@@ -346,20 +346,20 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^c15346301]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45); section 14(1) was amended by the [Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9), [Schedule 5](https://www.legislation.gov.uk/ukpga/1993/9/schedule/5), [paragraph 6(3)](https://www.legislation.gov.uk/ukpga/1993/9/paragraph/6/3) and Schedule 6, paragraphs 1 and 2.
 
-[^key-373afae3beb2ee31f61695ab99193b12]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(c)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/c)
+[^c-373afae3beb2ee31f61695ab99193b12]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(c)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/c)
 
 [^c15346311]: Marginal citation: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738); regulation 2 was amended by [S.I. 2002/2175](https://www.legislation.gov.uk/uksi/2002/2175), [regulation 2](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2).
 
 [^c15346321]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
 
-[^key-68f219fd0f5b9fab14123c4e81dbc9a8]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(d)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/d)
+[^c-68f219fd0f5b9fab14123c4e81dbc9a8]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 38(d)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/38/d)
 
 [^c15346331]: Marginal citation: [Section 41](https://www.legislation.gov.uk/ssi/2006/90/section/41) of the Act defines “prescribed” as meaning prescribed by regulations made by the Scottish Ministers.
 
-[^key-634d1aca4eb44ac02f4812e7b849937b]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/2) omitted (5.9.2022) by virtue of [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/2/a)
+[^c-634d1aca4eb44ac02f4812e7b849937b]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/2) omitted (5.9.2022) by virtue of [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/2/a)
 
-[^key-e3f68477ad4912542fd6d90040e76839]: Textual amendment: [Reg. 4(2)(d)-(f)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/2/d) inserted (5.9.2022) by [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/2/b)
+[^c-e3f68477ad4912542fd6d90040e76839]: Textual amendment: [Reg. 4(2)(d)-(f)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/2/d) inserted (5.9.2022) by [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/2/b)
 
-[^key-b43bba46d1df15ca7246eac5dcc7d4f5]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/3) omitted (5.9.2022) by virtue of [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/3/a)
+[^c-b43bba46d1df15ca7246eac5dcc7d4f5]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/3) omitted (5.9.2022) by virtue of [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/3/a)
 
-[^key-6bc02a3383fed2598002132ebdcbd4ed]: Textual amendment: [Reg. 4(3)(d)-(f)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/3/d) inserted (5.9.2022) by [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/3/b)
+[^c-6bc02a3383fed2598002132ebdcbd4ed]: Textual amendment: [Reg. 4(3)(d)-(f)](https://www.legislation.gov.uk/ssi/2006/90/regulation/4/3/d) inserted (5.9.2022) by [The Prohibition of Smoking Outside Hospital Buildings (Scotland) Regulations 2022 (S.S.I. 2022/152)](https://www.legislation.gov.uk/ssi/2022/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/152/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2022/152/regulation/8/3/b)

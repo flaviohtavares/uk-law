@@ -16,28 +16,28 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Commission's functions[^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81]
+## 2. The Commission's functions[^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 
 *Extent: E+W*
 
-(1)[^key-a3077103948ca57ca4a249dd045455d5] The Commission has the functions conferred on it by or under any enactment.
+(1)[^c-a3077103948ca57ca4a249dd045455d5] The Commission has the functions conferred on it by or under any enactment.
 
 (2) Those functions include—
 
-- (a)[^key-5774c148e8b2f014657b3035ea014561][^key-fde0408c802d0bd093d8682308eb2cf3] registration functions under Chapter 2,
-- (b)[^key-67b69cd0d39f44d92381c2b160afb8d8] review and investigation functions under Chapter 3, and
-- (c)[^key-67b69cd0d39f44d92381c2b160afb8d8] functions under the Mental Health Act 1983 (c. 20).
+- (a)[^c-5774c148e8b2f014657b3035ea014561][^c-fde0408c802d0bd093d8682308eb2cf3] registration functions under Chapter 2,
+- (b)[^c-67b69cd0d39f44d92381c2b160afb8d8] review and investigation functions under Chapter 3, and
+- (c)[^c-67b69cd0d39f44d92381c2b160afb8d8] functions under the Mental Health Act 1983 (c. 20).
 
 ## Annotations
 
-[^key-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
+[^c-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
 
-[^key-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
+[^c-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
 
-[^key-a3077103948ca57ca4a249dd045455d5]: Commencement: S. 2(1) in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/c)
+[^c-a3077103948ca57ca4a249dd045455d5]: Commencement: S. 2(1) in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/c)
 
-[^key-5774c148e8b2f014657b3035ea014561]: Commencement: S. 2(2)(a) in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
+[^c-5774c148e8b2f014657b3035ea014561]: Commencement: S. 2(2)(a) in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
 
-[^key-fde0408c802d0bd093d8682308eb2cf3]: Commencement: S. 2(2)(a) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/1) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-fde0408c802d0bd093d8682308eb2cf3]: Commencement: S. 2(2)(a) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/1) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-67b69cd0d39f44d92381c2b160afb8d8]: Commencement: S. 2(2)(b)(c) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/3)
+[^c-67b69cd0d39f44d92381c2b160afb8d8]: Commencement: S. 2(2)(b)(c) in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/3)

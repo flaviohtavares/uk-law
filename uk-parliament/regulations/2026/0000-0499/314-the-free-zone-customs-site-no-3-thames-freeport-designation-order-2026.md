@@ -37,7 +37,7 @@ Made
 
 The Treasury, in exercise of the powers conferred by section 100A of the Customs and Management Act 1979[^f00001], make the following Order.
 
-## 1. Citation and interpretation[^key-2011bec1263a7a63cf52435ea190fb3c]
+## 1. Citation and interpretation[^c-2011bec1263a7a63cf52435ea190fb3c]
 
 (1) This Order may be cited as the Free Zone (Customs Site No. 3 Thames Freeport) Designation Order 2026.
 
@@ -50,19 +50,19 @@ The Treasury, in exercise of the powers conferred by section 100A of the Customs
 - (e) “**the Special Procedures Regulations**” means the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00003];
 - (f) “**unauthorised activity**” means an activity specified in regulation 3(2)(b)(v) or 3(2)(c) (authorisation requirement) of the Special Procedures Regulations that is not carried out in accordance with an authorisation or approval under those Regulations.
 
-## 2. Period of effect of Order[^key-1d55fbd09c7a66fd808d1cc2f672b278]
+## 2. Period of effect of Order[^c-1d55fbd09c7a66fd808d1cc2f672b278]
 
 This Order has effect for a period of 10 years beginning with the day after the date on which it is made.
 
-## 3. Designation of the area as a free zone[^key-abedee5387e5847177d37bfdab67f354]
+## 3. Designation of the area as a free zone[^c-abedee5387e5847177d37bfdab67f354]
 
 The area shown edged and hatched in red on the map entitled “ Thames Freeport - Customs Site No. 3” dated 7th January 2026[^f00004] is designated as a free zone.
 
-## 4. Appointment of responsible authority[^key-f6a8b94b1d18ca551673151c2bc3022f]
+## 4. Appointment of responsible authority[^c-f6a8b94b1d18ca551673151c2bc3022f]
 
 The responsible authority for the free zone is Ziegler UK Limited, incorporated on 25th November 2005 with the company number 05636648, whose registered office is North 4 Channel Close, Stanford-Le-Hope, Essex, England, SS17 9FJ.
 
-## 5. Conditions imposed on responsible authority[^key-1cec23cf7f2f713641e3c834168d39e4]
+## 5. Conditions imposed on responsible authority[^c-1cec23cf7f2f713641e3c834168d39e4]
 
 The responsible authority must—
 
@@ -85,7 +85,7 @@ The responsible authority must—
   - (iii) if there is a change in circumstances that is relevant to its appointment as a responsible authority;
 - (o) notify HMRC of any planned construction in the free zone.
 
-## 6. Conditions relating to health and safety[^key-4f58bcab40828436f9fc52a3258d40fd]
+## 6. Conditions relating to health and safety[^c-4f58bcab40828436f9fc52a3258d40fd]
 
 Without prejudice to the responsibilities of persons occupying premises within the free zone, the responsible authority must take reasonable steps to ensure that the accommodation, facilities and working conditions within the free zone are safe and without risk to the health and safety of any persons in the free zone.
 
@@ -111,24 +111,24 @@ A Tax Information and Impact Note covering this instrument was published on 19 O
 
 [^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 100A was inserted by section 8 of, and Part I of Schedule 4 to, the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
 
-[^key-2011bec1263a7a63cf52435ea190fb3c]: Commencement: Art. 1 in force at made date
+[^c-2011bec1263a7a63cf52435ea190fb3c]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248); relevant amending instruments are [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449) and [2021/1156](https://www.legislation.gov.uk/uksi/2021/1156).
 
 [^f00003]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), amended by [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156); there are other amending instruments, but none is relevant.
 
-[^key-1d55fbd09c7a66fd808d1cc2f672b278]: Commencement: Art. 2 in force at made date
+[^c-1d55fbd09c7a66fd808d1cc2f672b278]: Commencement: Art. 2 in force at made date
 
-[^key-abedee5387e5847177d37bfdab67f354]: Commencement: Art. 3 in force at made date
+[^c-abedee5387e5847177d37bfdab67f354]: Commencement: Art. 3 in force at made date
 
 [^f00004]: Footnote: The map marked “Thames Freeport - Customs Site No. 3” dated 7th January 2026 is available electronically at https://www.gov.uk/government/publications/map-of-thames-freeport-customs-site. A person unable to access the document electronically can arrange access to a hard copy by inspection free of charge at 1 Horse Guards Road, London, SW1A 2HQ.
 
-[^key-f6a8b94b1d18ca551673151c2bc3022f]: Commencement: Art. 4 in force at made date
+[^c-f6a8b94b1d18ca551673151c2bc3022f]: Commencement: Art. 4 in force at made date
 
-[^key-1cec23cf7f2f713641e3c834168d39e4]: Commencement: Art. 5 in force at made date
+[^c-1cec23cf7f2f713641e3c834168d39e4]: Commencement: Art. 5 in force at made date
 
 [^f00005]: Footnote: “The Commissioners” are defined in section 1 of the Customs and Excise Management Act 1979.
 
 [^f00006]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-4f58bcab40828436f9fc52a3258d40fd]: Commencement: Art. 6 in force at made date
+[^c-4f58bcab40828436f9fc52a3258d40fd]: Commencement: Art. 6 in force at made date

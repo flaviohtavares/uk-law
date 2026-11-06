@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a person (“P1”) is, or may be, entitled to benefit (whether or not a claim for benefit has been made by P1 or on P1's behalf) but P1 is unable for the time being to act, the Secretary of State may, if all the conditions in paragraph (2) and the additional conditions in paragraph (3) are met, appoint a person (“P2”) to carry out the functions set out in paragraph (4).
 
-(1A)[^key-cd79cb2e9b2ef7c13c5a4150ffa84ec7] Where a natural person over the age of 18 has been appointed by the Scottish Ministers under a qualifying appointment pursuant to the 2018 Scotland Act in connection with the determination of assistance under section 24 of that Act (whether or not including an appointment to receive assistance on behalf of the individual), the Secretary of State may, if the person agrees, treat that person as if the Secretary of State had appointed that person under paragraph (1).
+(1A)[^c-cd79cb2e9b2ef7c13c5a4150ffa84ec7] Where a natural person over the age of 18 has been appointed by the Scottish Ministers under a qualifying appointment pursuant to the 2018 Scotland Act in connection with the determination of assistance under section 24 of that Act (whether or not including an appointment to receive assistance on behalf of the individual), the Secretary of State may, if the person agrees, treat that person as if the Secretary of State had appointed that person under paragraph (1).
 
 (1B) In paragraph (1A) a qualifying appointment means—
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cd79cb2e9b2ef7c13c5a4150ffa84ec7]: Textual amendment: [Reg. 57(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/380/regulation/57/1A) inserted (26.7.2021) by [The Scotland Act 2016 (Social Security) (Consequential Provision) (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/804)](https://www.legislation.gov.uk/uksi/2021/804), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/10/2)
+[^c-cd79cb2e9b2ef7c13c5a4150ffa84ec7]: Textual amendment: [Reg. 57(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/380/regulation/57/1A) inserted (26.7.2021) by [The Scotland Act 2016 (Social Security) (Consequential Provision) (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/804)](https://www.legislation.gov.uk/uksi/2021/804), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/10/2)
 
 [^c2167227]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 

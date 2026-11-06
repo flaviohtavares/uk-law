@@ -31,10 +31,10 @@ summary: ''
 
 of 26 June 1997 on monitoring the implementation of instruments adopted concerning asylum (revoked)
 
-[^key-c115d7636119afaeea70b262e7449b31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c115d7636119afaeea70b262e7449b31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c115d7636119afaeea70b262e7449b31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c115d7636119afaeea70b262e7449b31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c115d7636119afaeea70b262e7449b31]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c115d7636119afaeea70b262e7449b31]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

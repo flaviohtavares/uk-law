@@ -44,11 +44,11 @@ The Department for the Economy, being the Department concerned[^f00001], makes t
 
 These Regulations give effect without modifications to proposals submitted to the Department for the Economy by the Health and Safety Executive for Northern Ireland under Article 13(1A) of the 1978 Order[^f00003]. Before submitting those proposals to the Department for the Economy, the Health and Safety Executive for Northern Ireland consulted such bodies that appeared to be appropriate as required by Article 46(3) of the 1978 Order[^f00004].
 
-## 1. Citation and commencement[^key-b145757aeb0a372a47c664eeef074954]
+## 1. Citation and commencement[^c-b145757aeb0a372a47c664eeef074954]
 
 (1) These Regulations may be cited as the Personal Protective Equipment at Work (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 21st October 2024.
 
-## 2. The Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^key-ca5034a3092a1e6985cc502cc5c925a5]
+## 2. The Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^c-ca5034a3092a1e6985cc502cc5c925a5]
 
 (1) The Personal Protective Equipment at Work Regulations (Northern Ireland) 1993[^f00005] are amended in accordance with paragraphs (2) to (5).
 
@@ -134,9 +134,9 @@ A full Impact Assessment of the effect of these Regulations has been prepared by
 
 [^f00004]: Footnote: Article 46(3) was amended by [S.I. 1998/2795](https://www.legislation.gov.uk/uksi/1998/2795)
 
-[^key-b145757aeb0a372a47c664eeef074954]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/161/regulation/1) in operation at 21.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/161/regulation/1/1)
+[^c-b145757aeb0a372a47c664eeef074954]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/161/regulation/1) in operation at 21.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/161/regulation/1/1)
 
-[^key-ca5034a3092a1e6985cc502cc5c925a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/161/regulation/2) in operation at 21.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/161/regulation/1/1)
+[^c-ca5034a3092a1e6985cc502cc5c925a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/161/regulation/2) in operation at 21.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/161/regulation/1/1)
 
 [^f00005]: Footnote: [S.R.1993 No.20](https://www.legislation.gov.uk/nisr/1993/20); as amended by [S.R. 2006 No. 1](https://www.legislation.gov.uk/nisr/2006/1) and [S.R. 2012 No. 179](https://www.legislation.gov.uk/nisr/2012/179); revoked in part by [S.R. 2015 No. 223](https://www.legislation.gov.uk/nisr/2015/223) and modified by [S.R. 2017 No. 229](https://www.legislation.gov.uk/nisr/2017/229)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26G. Public sector fraud investigators[^key-c5a8a7c4d1ec11f395491818596eee43]
+## 26G. Public sector fraud investigators[^c-c5a8a7c4d1ec11f395491818596eee43]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5a8a7c4d1ec11f395491818596eee43]: Textual amendment: [S. 26G](https://www.legislation.gov.uk/ukpga/2002/30/section/26G) inserted (2.12.2025 but only for the purposes of making regulations, 1.4.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2025/28/section/9/3), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [ss. 72](https://www.legislation.gov.uk/ukpga/2025/28/section/72), [105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-c5a8a7c4d1ec11f395491818596eee43]: Textual amendment: [S. 26G](https://www.legislation.gov.uk/ukpga/2002/30/section/26G) inserted (2.12.2025 but only for the purposes of making regulations, 1.4.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2025/28/section/9/3), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [ss. 72](https://www.legislation.gov.uk/ukpga/2025/28/section/72), [105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

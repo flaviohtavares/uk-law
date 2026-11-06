@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Notifiable events[^key-a707b1020668243a34b046043ba5974f]
+## 29. Notifiable events[^c-a707b1020668243a34b046043ba5974f]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a707b1020668243a34b046043ba5974f]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/176/regulation/29) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-a707b1020668243a34b046043ba5974f]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/176/regulation/29) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

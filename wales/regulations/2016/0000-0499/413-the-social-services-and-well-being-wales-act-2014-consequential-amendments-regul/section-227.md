@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**227.**[^key-2eb976fc88b118aa52de09a53b63922b] In section 39[^f00196] (provision of accommodation by local authority), in subsection (2)—
+**227.**[^c-2eb976fc88b118aa52de09a53b63922b] In section 39[^f00196] (provision of accommodation by local authority), in subsection (2)—
 
 - (a) for paragraph (a) substitute—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2eb976fc88b118aa52de09a53b63922b]: Commencement: Reg. 227 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-2eb976fc88b118aa52de09a53b63922b]: Commencement: Reg. 227 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00196]: Footnote: Section 39 was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 78, 79(1) to (4). There are other amendments which are not relevant.

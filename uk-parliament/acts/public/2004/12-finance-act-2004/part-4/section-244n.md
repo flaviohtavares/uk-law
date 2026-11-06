@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244N. Discharge of liability of scheme administrator or manager[^key-8442a960629e1e99ed567cd792d5924f]
+## 244N. Discharge of liability of scheme administrator or manager[^c-8442a960629e1e99ed567cd792d5924f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)
+[^c-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)

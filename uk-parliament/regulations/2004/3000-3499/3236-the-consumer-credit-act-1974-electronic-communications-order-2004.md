@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State considering that the authorisation of the use of electronic communications by the following Order for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases, in exercise of the powers conferred upon her by sections 8 and 9 of the Electronic Communications Act 2000[^f00001] hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-86f33ecce8879e1c5c301a1dc0fc7d5a]
+## 1. Citation, commencement and interpretation[^c-86f33ecce8879e1c5c301a1dc0fc7d5a]
 
 (1) This Order may be cited as the Consumer Credit Act 1974 (Electronic Communications) Order 2004 and shall come into force on 31<sup>st</sup> December 2004.
 
 (2) In this Order, the “Act” means the Consumer Credit Act 1974[^f00002].
 
-## 2. Amendments to the Act[^key-9cd3f8237c895dec6882ee31ba26ea07]
+## 2. Amendments to the Act[^c-9cd3f8237c895dec6882ee31ba26ea07]
 
 (1) The Act shall be amended as follows:
 
@@ -103,13 +103,13 @@ The Secretary of State considering that the authorisation of the use of electron
 
 (9) In that subsection, in the definitions of the expressions “give” and “serve on” for “by post” substitute “by an appropriate method”.
 
-## 3. Amendments to the Consumer Credit (Termination of Licences) Regulations 1976[^key-c002b9dc5367d8a14c024861ccba957c]
+## 3. Amendments to the Consumer Credit (Termination of Licences) Regulations 1976[^c-c002b9dc5367d8a14c024861ccba957c]
 
 (1) The Consumer Credit (Termination of Licences) Regulations 1976[^f00003] shall be amended as follows:
 
 (2) In regulation 7, for “by post”, in each place where it occurs, substitute “by an appropriate method”.
 
-## 4. Amendments to the Consumer Credit (Agreements) Regulations 1983[^key-a3cf38f224b024b5d6b0433ef9eb6d1d]
+## 4. Amendments to the Consumer Credit (Agreements) Regulations 1983[^c-a3cf38f224b024b5d6b0433ef9eb6d1d]
 
 (1) The Consumer Credit (Agreements) Regulations 1983[^f00004] shall be amended as follows:
 
@@ -149,7 +149,7 @@ The Secretary of State considering that the authorisation of the use of electron
 
 (8) In Column 2 of paragraph 2 of Part II of Schedule 8, for “and a postal address”, in each place where it occurs, substitute “, postal address and, where appropriate, any other address”.
 
-## 5. Consumer Credit (Guarantees and Indemnities) Regulations 1983[^key-9059850d163f94817d10ff52019ba80f]
+## 5. Consumer Credit (Guarantees and Indemnities) Regulations 1983[^c-9059850d163f94817d10ff52019ba80f]
 
 (1) The Consumer Credit (Guarantees and Indemnities) regulations 1983[^f00005] shall be amended as follows:
 
@@ -165,7 +165,7 @@ The Secretary of State considering that the authorisation of the use of electron
 
 (5) In Part II of the Schedule (information to be contained in security instruments), for “and a postal address”, in each place where it occurs, substitute “, postal address and, where appropriate, any other address”.
 
-## 6. Amendments to the Consumer Credit (Cancellation Notices and Copies of Documents) Regulations 1983[^key-6fef21ba0ebadae250b29060be4b8abb]
+## 6. Amendments to the Consumer Credit (Cancellation Notices and Copies of Documents) Regulations 1983[^c-6fef21ba0ebadae250b29060be4b8abb]
 
 (1) The Consumer Credit (Cancellation Notices and Copies of Documents) Regulations 1983[^f00006] shall be amended as follows:
 
@@ -204,7 +204,7 @@ The Secretary of State considering that the authorisation of the use of electron
   - (ii) in Column 2 of form 16 for “by post” substitute “by an appropriate method”; and
 - (c) In the heading to Part VI (forms of notice of cancellation rights to be sent by post to the debtor or hirer under section 64(1)(b) or (2) of the Act) for the words “by post” substitute “by an appropriate method”.
 
-## 7. Amendments to the Consumer Credit (Repayment of Credit on Cancellation) Regulations 1983[^key-33c529205bd1b7395cf2ac6b68e70073]
+## 7. Amendments to the Consumer Credit (Repayment of Credit on Cancellation) Regulations 1983[^c-33c529205bd1b7395cf2ac6b68e70073]
 
 (1) The Consumer Credit (Repayment of Credit on Cancellation) Regulations 1983[^f00007] shall be amended as follows:
 
@@ -218,19 +218,19 @@ The Secretary of State considering that the authorisation of the use of electron
 - (a) in paragraph 2 for “postal address” substitute “postal address and, where appropriate, any other address”; and
 - (b) in paragraph 3 for “postal address” substitute “postal address and, where appropriate, any other address”.
 
-## 8. Amendments to the Consumer Credit (Settlement Information) Regulations 1983[^key-1919311fc50171175784cc4ee0d0f675]
+## 8. Amendments to the Consumer Credit (Settlement Information) Regulations 1983[^c-1919311fc50171175784cc4ee0d0f675]
 
 (1) The Consumer Credit (Settlement Information) Regulations[^f00008] shall be amended as follows:
 
 (2) In paragraph 2 of the Schedule (information to be contained in a statement given by a creditor of the amount of the payment required to discharge the debtor’s indebtedness under a regulated consumer credit agreement together with particulars showing how the amount is arrived at), for “and a postal address”, in each place where it occurs, substitute “, postal address and, where appropriate, any other address”.
 
-## 9. Amendments to the Consumer Credit (Conduct of Business) (Pawn Records) Regulations 1983[^key-db88210447c6746d855f6589eda3097a]
+## 9. Amendments to the Consumer Credit (Conduct of Business) (Pawn Records) Regulations 1983[^c-db88210447c6746d855f6589eda3097a]
 
 (1) The Consumer Credit (Conduct of Business) (Pawn Records) Regulations 1983[^f00009] shall be amended as follows:
 
 (2) In paragraph 1(c) of the Schedule (information to be contained in entries in the books or other records to be kept by a person who takes any article in pawn under a regulated consumer credit agreement) after the words “postal address” insert “and, where appropriate, other address”.
 
-## 10. Amendments to the Consumer Credit (Pawn Receipts) Regulations 1983[^key-be2995c738987a841672c70dab1dbb1c]
+## 10. Amendments to the Consumer Credit (Pawn Receipts) Regulations 1983[^c-be2995c738987a841672c70dab1dbb1c]
 
 (1) The Consumer Credit (Pawn Receipts) Regulations 1983[^f00010] shall be amended as follows:
 
@@ -241,7 +241,7 @@ The Secretary of State considering that the authorisation of the use of electron
   - (i) delete the words “front of the” in each place where it occurs; and
   - (ii) after the words “postal address” in each place where it occurs insert “and, where appropriate, other address”.
 
-## 11. Amendments to the Consumer Credit (Realisation of Pawn) Regulations 1983[^key-b20804a6665af6586fad72319548bf83]
+## 11. Amendments to the Consumer Credit (Realisation of Pawn) Regulations 1983[^c-b20804a6665af6586fad72319548bf83]
 
 (1) The Consumer Credit (Realisation of Pawn) Regulations 1983[^f00011] shall be amended as follows:
 
@@ -255,7 +255,7 @@ The Secretary of State considering that the authorisation of the use of electron
 - (a) In paragraph 1, for “and a postal address” substitute “, postal address and, where appropriate, other address”.
 - (b) In paragraph 2, for “and a postal address” substitute “, postal address and, where appropriate, other address”.
 
-## 12. Amendment to the Consumer Credit (Running Account Information) Regulations 1983[^key-1ead894e74ff45ef7c1d1943609845c4]
+## 12. Amendment to the Consumer Credit (Running Account Information) Regulations 1983[^c-1ead894e74ff45ef7c1d1943609845c4]
 
 (1) The Consumer Credit (Running Account Information) Regulations 1983[^f00012] shall be amended as follows:
 
@@ -303,48 +303,48 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-86f33ecce8879e1c5c301a1dc0fc7d5a]: Commencement: Art. 1 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-86f33ecce8879e1c5c301a1dc0fc7d5a]: Commencement: Art. 1 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-9cd3f8237c895dec6882ee31ba26ea07]: Commencement: Art. 2 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-9cd3f8237c895dec6882ee31ba26ea07]: Commencement: Art. 2 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
-[^key-c002b9dc5367d8a14c024861ccba957c]: Commencement: Art. 3 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-c002b9dc5367d8a14c024861ccba957c]: Commencement: Art. 3 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00003]: Footnote: S.I. [1976/1002](https://www.legislation.gov.uk/uksi/1976/1002), amended by S.I. [1981/614](https://www.legislation.gov.uk/uksi/1981/614).
 
-[^key-a3cf38f224b024b5d6b0433ef9eb6d1d]: Commencement: Art. 4 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-a3cf38f224b024b5d6b0433ef9eb6d1d]: Commencement: Art. 4 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00004]: Footnote: S.I. [1983/1553](https://www.legislation.gov.uk/uksi/1983/1553), to which there are amendments not relevant to these Regulations.
 
-[^key-9059850d163f94817d10ff52019ba80f]: Commencement: Art. 5 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-9059850d163f94817d10ff52019ba80f]: Commencement: Art. 5 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00005]: Footnote: S.I. [1983/1556](https://www.legislation.gov.uk/uksi/1983/1556)
 
-[^key-6fef21ba0ebadae250b29060be4b8abb]: Commencement: Art. 6 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-6fef21ba0ebadae250b29060be4b8abb]: Commencement: Art. 6 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00006]: Footnote: S.I. [1983/1557](https://www.legislation.gov.uk/uksi/1983/1557); relevant amending instruments are S.I. [1984/1108](https://www.legislation.gov.uk/uksi/1984/1108) and S.I. [1988/2047](https://www.legislation.gov.uk/uksi/1988/2047).
 
-[^key-33c529205bd1b7395cf2ac6b68e70073]: Commencement: Art. 7 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-33c529205bd1b7395cf2ac6b68e70073]: Commencement: Art. 7 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00007]: Footnote: S.I. [1983/1559](https://www.legislation.gov.uk/uksi/1983/1559)
 
-[^key-1919311fc50171175784cc4ee0d0f675]: Commencement: Art. 8 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-1919311fc50171175784cc4ee0d0f675]: Commencement: Art. 8 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00008]: Footnote: S.I. [1983/1564](https://www.legislation.gov.uk/uksi/1983/1564)
 
-[^key-db88210447c6746d855f6589eda3097a]: Commencement: Art. 9 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-db88210447c6746d855f6589eda3097a]: Commencement: Art. 9 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00009]: Footnote: S.I. [1983/1565](https://www.legislation.gov.uk/uksi/1983/1565)
 
-[^key-be2995c738987a841672c70dab1dbb1c]: Commencement: Art. 10 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-be2995c738987a841672c70dab1dbb1c]: Commencement: Art. 10 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00010]: Footnote: S.I. [1983/1566](https://www.legislation.gov.uk/uksi/1983/1566)
 
-[^key-b20804a6665af6586fad72319548bf83]: Commencement: Art. 11 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-b20804a6665af6586fad72319548bf83]: Commencement: Art. 11 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00011]: Footnote: S.I. [1983/1568](https://www.legislation.gov.uk/uksi/1983/1568)
 
-[^key-1ead894e74ff45ef7c1d1943609845c4]: Commencement: Art. 12 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
+[^c-1ead894e74ff45ef7c1d1943609845c4]: Commencement: Art. 12 in force at 31.12.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1)
 
 [^f00012]: Footnote: S.I. [1983/1570](https://www.legislation.gov.uk/uksi/1983/1570)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Required content of newspaper notices[^key-a6eeefad3183da2de1672895f6b511e4][^key-4198b3f695d5c0713f0488de25545a03][^key-e0824d0fc52df2db093729e2eff7b0dc]
+## 106. Required content of newspaper notices[^c-a6eeefad3183da2de1672895f6b511e4][^c-4198b3f695d5c0713f0488de25545a03][^c-e0824d0fc52df2db093729e2eff7b0dc]
 
 *Extent: E+W*
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a6eeefad3183da2de1672895f6b511e4]: Commencement: S. 106 not in force at Royal Assent, see [s. 118(5)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/b)
+[^c-a6eeefad3183da2de1672895f6b511e4]: Commencement: S. 106 not in force at Royal Assent, see [s. 118(5)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/b)
 
-[^key-4198b3f695d5c0713f0488de25545a03]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/34/section/106) in force at 19.12.2025 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/a)
+[^c-4198b3f695d5c0713f0488de25545a03]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/34/section/106) in force at 19.12.2025 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/a)
 
-[^key-e0824d0fc52df2db093729e2eff7b0dc]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/34/section/106) in force at 18.2.2026 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/h)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/2)
+[^c-e0824d0fc52df2db093729e2eff7b0dc]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/34/section/106) in force at 18.2.2026 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/h)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/2)

@@ -41,17 +41,17 @@ Coming into force
 
 The National Assembly for Wales, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) hereby makes the following Regulations:—
 
-## 1. Title and commencement[^key-760872d0e187ad2db153ebc32f085864]
+## 1. Title and commencement[^c-760872d0e187ad2db153ebc32f085864]
 
 These Regulations may be cited as the Common Agricultural Policy Support Schemes (Modulation) (Wales) Regulations 2000 and shall come into force on 1st January 2001.
 
-## 2. Application[^key-62875b04aff2bd12204bb7227abf89e8]
+## 2. Application[^c-62875b04aff2bd12204bb7227abf89e8]
 
 (1) Subject to paragraph (2), these Regulations shall apply to Wales.
 
 (2) In relation to payments to a farmer under any IACS support scheme, these Regulations shall apply, and shall apply only, in so far as the National Assembly is the relevant competent authority in relation to the farmer’s holding.
 
-## 3. Interpretation[^key-2cd9424ed8f2007ecec0706bb20b6690]
+## 3. Interpretation[^c-2cd9424ed8f2007ecec0706bb20b6690]
 
 (1) In these Regulations—
 
@@ -82,7 +82,7 @@ These Regulations may be cited as the Common Agricultural Policy Support Schemes
 - (a) it is made in accordance with the requirements of that scheme; or
 - (b) in so far as it is financed by the Guarantee section of the European Agricultural Guidance and Guarantee Fund, it is made pursuant to any determination made by the National Assembly in implementation of that scheme.
 
-## 4. Modulation of support scheme payments[^key-8703766d5f57026e03256a9cfe3694ba]
+## 4. Modulation of support scheme payments[^c-8703766d5f57026e03256a9cfe3694ba]
 
 (1) For the purposes of calculating the amount of any payment to which any person is entitled pursuant to any support scheme in respect of a relevant scheme year, the National Assembly or (in the case of payments under Board schemes) the Intervention Board shall deduct from the relevant amount the specified proportion of that amount, and shall apply the sum so deducted by way of funds for one or more of the relevant purposes.
 
@@ -121,11 +121,11 @@ A Regulatory Appraisal has been prepared in respect of these Regulations and is 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-760872d0e187ad2db153ebc32f085864]: Commencement: Reg. 1 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
+[^c-760872d0e187ad2db153ebc32f085864]: Commencement: Reg. 1 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
 
-[^key-62875b04aff2bd12204bb7227abf89e8]: Commencement: Reg. 2 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
+[^c-62875b04aff2bd12204bb7227abf89e8]: Commencement: Reg. 2 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
 
-[^key-2cd9424ed8f2007ecec0706bb20b6690]: Commencement: Reg. 3 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
+[^c-2cd9424ed8f2007ecec0706bb20b6690]: Commencement: Reg. 3 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
 
 [^f00003]: Footnote: OJ No. L349, 24.12.98, p. 1.
 
@@ -139,6 +139,6 @@ A Regulatory Appraisal has been prepared in respect of these Regulations and is 
 
 [^f00008]: Footnote: OJ No. L160, 26.6.1999, p. 80
 
-[^key-8703766d5f57026e03256a9cfe3694ba]: Commencement: Reg. 4 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
+[^c-8703766d5f57026e03256a9cfe3694ba]: Commencement: Reg. 4 in force at 1.1.2001, see [reg. 1](https://www.legislation.gov.uk/wsi/2000/3294/regulation/1)
 
 [^f00009]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

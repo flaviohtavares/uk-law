@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Amendment of regulation 10[^key-391e7c2a3433be6010518dd136230421]
+## 114. Amendment of regulation 10[^c-391e7c2a3433be6010518dd136230421]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In regulation 10 (outward transfers)—
 
 ## Annotations
 
-[^key-391e7c2a3433be6010518dd136230421]: Commencement: [Reg. 114](https://www.legislation.gov.uk/ssi/2011/364/regulation/114) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-391e7c2a3433be6010518dd136230421]: Commencement: [Reg. 114](https://www.legislation.gov.uk/ssi/2011/364/regulation/114) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

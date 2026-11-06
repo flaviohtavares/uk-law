@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Law applicable on the death of a holder of a bond, stock or certificate[^key-d080e9b6c16c907cbb7ec1f4a56c1272]
+## 87. Law applicable on the death of a holder of a bond, stock or certificate[^c-d080e9b6c16c907cbb7ec1f4a56c1272]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the Director of Savings may make a payment for the purposes of these Regulations
 
 ## Annotations
 
-[^key-d080e9b6c16c907cbb7ec1f4a56c1272]: Commencement: Reg. 87 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-d080e9b6c16c907cbb7ec1f4a56c1272]: Commencement: Reg. 87 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

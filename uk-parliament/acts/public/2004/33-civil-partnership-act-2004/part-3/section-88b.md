@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88B. Additional evidence if party not relevant national[^key-63b1d8d9a9a1b7eedb9ae21ee6c41c30]
+## 88B. Additional evidence if party not relevant national[^c-63b1d8d9a9a1b7eedb9ae21ee6c41c30]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63b1d8d9a9a1b7eedb9ae21ee6c41c30]: Textual amendment: Ss. 88A-88F inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3))
+[^c-63b1d8d9a9a1b7eedb9ae21ee6c41c30]: Textual amendment: Ss. 88A-88F inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3))

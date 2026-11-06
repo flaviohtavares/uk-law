@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The Secretary of State[^key-0164c2b32b935df43aa5fdbd65646cac] may suspend approval of the conformity checks if it is found that, in a significant number of lots and/or quantities, the goods do not correspond to the information in the certificates of conformity issued by the third country inspection bodies.
+The Secretary of State[^c-0164c2b32b935df43aa5fdbd65646cac] may suspend approval of the conformity checks if it is found that, in a significant number of lots and/or quantities, the goods do not correspond to the information in the certificates of conformity issued by the third country inspection bodies.
 
 ## Annotations
 
-[^key-0164c2b32b935df43aa5fdbd65646cac]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2011/543/article/16) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [46](https://www.legislation.gov.uk/uksi/2019/828/regulation/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0164c2b32b935df43aa5fdbd65646cac]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2011/543/article/16) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [46](https://www.legislation.gov.uk/uksi/2019/828/regulation/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

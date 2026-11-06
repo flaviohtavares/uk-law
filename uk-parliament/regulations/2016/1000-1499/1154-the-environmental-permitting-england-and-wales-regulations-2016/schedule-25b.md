@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 25B — Specified generators[^key-981f47ddc9311f1a7200e87ed66c54bd]
+## SCHEDULE 25B — Specified generators[^c-981f47ddc9311f1a7200e87ed66c54bd]
 
 *Extent: E+W*
 
@@ -178,4 +178,4 @@ where it is operated only for the purpose of a capacity agreement entered into b
 
 ## Annotations
 
-[^key-981f47ddc9311f1a7200e87ed66c54bd]: Textual amendment: Schs. 25A, 25B inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/110/regulation/16)
+[^c-981f47ddc9311f1a7200e87ed66c54bd]: Textual amendment: Schs. 25A, 25B inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/110/regulation/16)

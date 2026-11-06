@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Control of donations to holders of elective office: compliance officers[^key-77fb84f0a50740efbfaefaf09a259e44]
+## 15. Control of donations to holders of elective office: compliance officers[^c-77fb84f0a50740efbfaefaf09a259e44]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,4 +117,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77fb84f0a50740efbfaefaf09a259e44]: Commencement: S. 15 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/d)
+[^c-77fb84f0a50740efbfaefaf09a259e44]: Commencement: S. 15 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/d)

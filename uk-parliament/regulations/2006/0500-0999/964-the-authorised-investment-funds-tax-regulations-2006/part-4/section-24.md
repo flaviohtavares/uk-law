@@ -25,8 +25,8 @@ The structure of this Part of these Regulations is as follows—
 - this Chapter contains preliminary provisions;
 - Chapter 2 contains provisions relating to the tax treatment of participants chargeable to income tax;
 - Chapter 3 contains provisions relating to the tax treatment of participants chargeable to corporation tax;
-- [^key-d1794f51f3c3edde1a79846cc99f5b7d]...
+- [^c-d1794f51f3c3edde1a79846cc99f5b7d]...
 
 ## Annotations
 
-[^key-d1794f51f3c3edde1a79846cc99f5b7d]: Textual amendment: Words in reg. 24 omitted (1.1.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2008/3159/regulation/12)
+[^c-d1794f51f3c3edde1a79846cc99f5b7d]: Textual amendment: Words in reg. 24 omitted (1.1.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2008/3159/regulation/12)

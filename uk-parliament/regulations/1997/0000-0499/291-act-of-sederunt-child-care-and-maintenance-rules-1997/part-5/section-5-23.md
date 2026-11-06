@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.23. Evidence[^key-28b04cd9805af280ac158e57ec80d77e]
+## 5.23. Evidence[^c-28b04cd9805af280ac158e57ec80d77e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28b04cd9805af280ac158e57ec80d77e]: Commencement: Rule 5.23 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-28b04cd9805af280ac158e57ec80d77e]: Commencement: Rule 5.23 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

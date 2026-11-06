@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Meaning of “resident”[^key-a5bfeff62840424ccec7e463211477f9]
+## 22. Meaning of “resident”[^c-a5bfeff62840424ccec7e463211477f9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5bfeff62840424ccec7e463211477f9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/15/section/22) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-a5bfeff62840424ccec7e463211477f9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/15/section/22) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

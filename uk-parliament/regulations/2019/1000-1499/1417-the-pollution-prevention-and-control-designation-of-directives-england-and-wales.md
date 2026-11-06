@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2019 (revoked)[^key-4b4eae2829edf3d37ea460ef484a93d7]
+The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2019 (revoked)[^c-4b4eae2829edf3d37ea460ef484a93d7]
 
 Made
 
@@ -39,24 +39,24 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-4b4eae2829edf3d37ea460ef484a93d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4eae2829edf3d37ea460ef484a93d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-4b4eae2829edf3d37ea460ef484a93d7]
+## 1. Citation, commencement, extent and application[^c-4b4eae2829edf3d37ea460ef484a93d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Directives[^key-4b4eae2829edf3d37ea460ef484a93d7]
+## 2. Designation of Directives[^c-4b4eae2829edf3d37ea460ef484a93d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b4eae2829edf3d37ea460ef484a93d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4eae2829edf3d37ea460ef484a93d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b4eae2829edf3d37ea460ef484a93d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4eae2829edf3d37ea460ef484a93d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b4eae2829edf3d37ea460ef484a93d7]: Textual amendment: Order revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 64A](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/64A) (as inserted by [S.I. 2020/603](https://www.legislation.gov.uk/uksi/2020/603), [regs. 1](https://www.legislation.gov.uk/uksi/2020/603/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/603/regulation/2/4))
+[^c-4b4eae2829edf3d37ea460ef484a93d7]: Textual amendment: Order revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 64A](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/64A) (as inserted by [S.I. 2020/603](https://www.legislation.gov.uk/uksi/2020/603), [regs. 1](https://www.legislation.gov.uk/uksi/2020/603/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/603/regulation/2/4))

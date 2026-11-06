@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Public file[^key-f56fa6660df20cc0592999cdbc6f422c]
+## 44. Public file[^c-f56fa6660df20cc0592999cdbc6f422c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The TRA must, in respect of every investigation, establish and maintain a file w
 
 ## Annotations
 
-[^key-f56fa6660df20cc0592999cdbc6f422c]: Commencement: Reg. 44 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-f56fa6660df20cc0592999cdbc6f422c]: Commencement: Reg. 44 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

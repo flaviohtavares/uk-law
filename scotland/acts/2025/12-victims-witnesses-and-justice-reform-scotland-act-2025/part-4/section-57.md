@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Licence conditions: exclusion zones[^key-4ba6a415e466dcc2c361c14e7b08793a][^key-e305908fd01748f2681b036653807175]
+## 57. Licence conditions: exclusion zones[^c-4ba6a415e466dcc2c361c14e7b08793a][^c-e305908fd01748f2681b036653807175]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba6a415e466dcc2c361c14e7b08793a]: Commencement: S. 57 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-4ba6a415e466dcc2c361c14e7b08793a]: Commencement: S. 57 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-e305908fd01748f2681b036653807175]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2025/12/section/57) in force at 1.8.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-e305908fd01748f2681b036653807175]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2025/12/section/57) in force at 1.8.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

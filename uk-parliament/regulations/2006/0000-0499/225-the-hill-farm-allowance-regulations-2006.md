@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred upon her by that section[^f00003], makes the following Regulations:
 
-## 1. Title, commencement and application[^key-e974bc4178f86248e5220e0dda572a62]
+## 1. Title, commencement and application[^c-e974bc4178f86248e5220e0dda572a62]
 
 These Regulations may be cited as the Hill Farm Allowance Regulations 2006, come into force on 1st March 2006, and apply only in relation to holdings situated wholly or partly in England.
 
-## 2. Interpretation[^key-ee130eed2eee319c67c4ff95826678a1]
+## 2. Interpretation[^c-ee130eed2eee319c67c4ff95826678a1]
 
 (1) In these Regulations—
 
@@ -100,13 +100,13 @@ These Regulations may be cited as the Hill Farm Allowance Regulations 2006, come
 
 (3) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is capable of being subsequently reproduced.
 
-## 3. Payment of hill farm allowance[^key-fc55fd7caef14c10ddcb7a4de7c951e9]
+## 3. Payment of hill farm allowance[^c-fc55fd7caef14c10ddcb7a4de7c951e9]
 
 (1) The Secretary of State shall, subject to regulation 5, pay hill farm allowance in respect of 2006 to any claimant who is eligible under regulation 4.
 
 (2) Hill farm allowance is payable to a claimant in respect of eligible forage area not exceeding 700 hectares.
 
-## 4. Eligibility for hill farm allowance[^key-6f97b0b0772e49a71b7220b0f4348fac]
+## 4. Eligibility for hill farm allowance[^c-6f97b0b0772e49a71b7220b0f4348fac]
 
 (1) Subject to Article 14(2) (third indent) and Article 14(3) of Council Regulation 1257/1999 a claimant is eligible for hill farm allowance provided—
 
@@ -126,21 +126,21 @@ These Regulations may be cited as the Hill Farm Allowance Regulations 2006, come
 
 (4) In order to enable the Secretary of State to consider whether to exercise her discretion under paragraph (3), the claimant shall provide the Secretary of State with such information as she reasonably requires.
 
-## 5. Condition as to continued use of land for the purposes of agriculture[^key-147267c27dd5ee286cbdbc67c8d6e128]
+## 5. Condition as to continued use of land for the purposes of agriculture[^c-147267c27dd5ee286cbdbc67c8d6e128]
 
 Hill farm allowance shall not be paid to a claimant unless—
 
 - (a) he gave an undertaking in writing, in such form as the Secretary of State reasonably required, that he would, for a period of five years from the date of the first payment to him of a compensatory allowance, continue to use for the purposes of agriculture at least three hectares of land which is situated either in a less favoured area or in a related less favoured area; and
 - (b) he is not in breach of that undertaking at the date of payment.
 
-## 6. Release from undertaking[^key-e60583d9eacf96a630a309d2bcc17413]
+## 6. Release from undertaking[^c-e60583d9eacf96a630a309d2bcc17413]
 
 A claimant is not in breach of the undertaking referred to in regulation 5—
 
 - (a) if he is prevented from continuing to discharge that undertaking by reason of any material circumstance beyond his control; or
 - (b) if he ceases to farm, but at least three hectares of the land in respect of which the undertaking was given continue to be used for the purposes of agriculture.
 
-## 7. Amount of payment[^key-f902a1e458522bae2b0dfb3e146c1faa]
+## 7. Amount of payment[^c-f902a1e458522bae2b0dfb3e146c1faa]
 
 (1) Subject to paragraphs (2) and (3) and regulation 8, payment of hill farm allowance in respect of the descriptions of land specified in column 1 of Schedule 2 shall be made—
 
@@ -157,15 +157,15 @@ A claimant is not in breach of the undertaking referred to in regulation 5—
 
 (4) In sub-paragraphs (b) and (c) of paragraph (2), “other financial support” does not include financial support from the single payment scheme.
 
-## 8. Deductions from relevant forage area[^key-78c171ecda84a22134b498b404bd6d18]
+## 8. Deductions from relevant forage area[^c-78c171ecda84a22134b498b404bd6d18]
 
 In relation to any claimant who has an individual reference quantity of milk available to him, the deductions specified in Schedule 3 apply to the relevant forage area for the purposes of determining the qualifying forage area.
 
-## 9. Holdings situated partly outside England[^key-b15c17d913369c5f222084cc166b23ac]
+## 9. Holdings situated partly outside England[^c-b15c17d913369c5f222084cc166b23ac]
 
 The provisions of Schedule 4 apply in relation to holdings situated partly outside England.
 
-## 10. Amendment of the England Rural Development Programme (Enforcement) Regulations 2000[^key-297db0356900d67eded1a7aab89c8022]
+## 10. Amendment of the England Rural Development Programme (Enforcement) Regulations 2000[^c-297db0356900d67eded1a7aab89c8022]
 
 In Part II of the Schedule to the England Rural Development Programme (Enforcement) Regulations 2000[^f00018], at the end, add “The Hill Farm Allowance Regulations 2006”.
 
@@ -177,7 +177,7 @@ Department for Environment, Food and Rural Affairs
 
 1st February 2006
 
-## SCHEDULE 1 — Notional Livestock Density[^key-3f2e29f09b10ee6b0d633163680a7be0]
+## SCHEDULE 1 — Notional Livestock Density[^c-3f2e29f09b10ee6b0d633163680a7be0]
 
 Regulation 2(1)
 
@@ -192,7 +192,7 @@ where—
 - “C” is the claimant’s eligible forage area expressed in hectares;
 - “NLD” is the notional livestock density on the claimant’s eligible forage area.
 
-## SCHEDULE 2 — Payment Rates Per Hectare[^key-cf33661826676964835919ffd6527cdd]
+## SCHEDULE 2 — Payment Rates Per Hectare[^c-cf33661826676964835919ffd6527cdd]
 
 Regulation 7(1)
 
@@ -206,11 +206,11 @@ Regulation 7(1)
 
 Regulation 8
 
-**1.**[^key-a863d10caf0c65afb088ced6a9d778fe] If, on 31st March 2005, a claimant had available to him an individual reference quantity of milk, the relevant forage area shall, subject to paragraph 5 of Schedule 4, be subject to the deductions specified in paragraph 4 of this Schedule.
+**1.**[^c-a863d10caf0c65afb088ced6a9d778fe] If, on 31st March 2005, a claimant had available to him an individual reference quantity of milk, the relevant forage area shall, subject to paragraph 5 of Schedule 4, be subject to the deductions specified in paragraph 4 of this Schedule.
 
-**2.**[^key-24285edf509dffc4f931baf2e7948ecc] The deductions shall be calculated by reference to the number of livestock units deemed to constitute the dairy herd kept by the claimant on land in England (“the notional dairy herd”), determined in accordance with paragraph 3.
+**2.**[^c-24285edf509dffc4f931baf2e7948ecc] The deductions shall be calculated by reference to the number of livestock units deemed to constitute the dairy herd kept by the claimant on land in England (“the notional dairy herd”), determined in accordance with paragraph 3.
 
-**3.**[^key-974e1e7b080395c0b4f0945d703099e9] The notional dairy herd shall be calculated as follows—
+**3.**[^c-974e1e7b080395c0b4f0945d703099e9] The notional dairy herd shall be calculated as follows—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2006/225)
 
@@ -220,7 +220,7 @@ where—
 - “TLU” is the number of livestock units in the notional dairy herd; and
 - “5730” is the number of litres of milk deemed to be equivalent to the annual production of one dairy cow.
 
-**4.**[^key-3e5b87ae382ff18446758af7e412cfb3] The deductions to relevant forage area shall be made as follows—
+**4.**[^c-3e5b87ae382ff18446758af7e412cfb3] The deductions to relevant forage area shall be made as follows—
 
 - (a) X hectares shall be deducted from A, where X is equal to the lesser of—
   - (i) TLU ÷ 1.8; and
@@ -242,20 +242,20 @@ where—
 
 Regulation 9
 
-### 1. Agency arrangements[^key-d866ca0b799f78a380be8f5648f6afa1]
+### 1. Agency arrangements[^c-d866ca0b799f78a380be8f5648f6afa1]
 
 In relation to holdings situated partly in Scotland, the Secretary of State and the Scottish Ministers may, with the agreement of the other, arrange for—
 
 - (a) in the case of the Secretary of State, her functions under these Regulations to be exercised on her behalf by the Scottish Ministers; and
 - (b) in the case of the Scottish Ministers, their functions under any regulations made by them in implementation of Chapter V of Title II of Council Regulation 1257/1999 to be exercised on their behalf by the Secretary of State.
 
-**2.**[^key-3b2f801b427f2717788cfe6ac2bc543c] Any such arrangement must be in writing and be signed by or on behalf of the Secretary of State and the Scottish Ministers and any such arrangement may be subject to such conditions (including conditions as to costs and charges for costs) as may be agreed from time to time.
+**2.**[^c-3b2f801b427f2717788cfe6ac2bc543c] Any such arrangement must be in writing and be signed by or on behalf of the Secretary of State and the Scottish Ministers and any such arrangement may be subject to such conditions (including conditions as to costs and charges for costs) as may be agreed from time to time.
 
-### 3. Set-off[^key-51dd5dfe2db028cdd6651dcc00275915]
+### 3. Set-off[^c-51dd5dfe2db028cdd6651dcc00275915]
 
 In relation to a holding situated partly outside England, the amount of any sum payable by the Secretary of State by way of hill farm allowance or related less favoured area allowance, whether as principal or on behalf of any other competent authority, may, without prejudice to the amount of any sum payable by the Secretary of State to any other competent authority, be set off against the amount of any sum recoverable by the Secretary of State, whether as principal or on behalf of such competent authority.
 
-### 4. Apportionment of livestock units[^key-b28a579fea489b6632720e00890c261f]
+### 4. Apportionment of livestock units[^c-b28a579fea489b6632720e00890c261f]
 
 Where any holding in respect of which a claim has been made is situated partly outside England, the number of livestock units grazed on that part of the holding which is situated in England shall be calculated as follows—
 
@@ -268,7 +268,7 @@ where—
 - “TLU” is the total number of livestock units grazed on that holding; and
 - “N” is the number of livestock units grazed on that part of the holding which is situated in England.
 
-### 5. Apportionment of individual reference quantity of milk[^key-46318dbb72d4aec70703fa6022d87448]
+### 5. Apportionment of individual reference quantity of milk[^c-46318dbb72d4aec70703fa6022d87448]
 
 Where any holding in respect of which a claim has been made is situated partly outside England, the individual reference quantity of milk which shall be treated as available to a claimant in relation to his land in England shall be calculated as follows—
 
@@ -285,7 +285,7 @@ where—
 
 Regulation 2(1)
 
-### 1. Breeding cows[^key-f8c4ff6663d5781f96fb5b27c03f109b]
+### 1. Breeding cows[^c-f8c4ff6663d5781f96fb5b27c03f109b]
 
 (1) Subject to paragraph 4, a breeding cow is a relevant animal for the purposes of these Regulations if—
 
@@ -303,7 +303,7 @@ Regulation 2(1)
 
 (3) In this paragraph and in paragraph 3, “the relevant period” means a period of six consecutive months, starting on any date between 1st July 2005 and 31st December 2005 inclusive.
 
-**2.**[^key-9326b348650f0c34a6e11d24ef67d20c] (1) For the purposes of paragraph 1(1)(e), a claimant had economic responsibility for a breeding cow if he—
+**2.**[^c-9326b348650f0c34a6e11d24ef67d20c] (1) For the purposes of paragraph 1(1)(e), a claimant had economic responsibility for a breeding cow if he—
 
 - (a) was the keeper of the breeding cow;
 - (b) made the final decisions regarding, and paid for, the feeding, bedding, housing and veterinary requirements of the breeding cow; and
@@ -311,19 +311,19 @@ Regulation 2(1)
 
 (2) In this paragraph, “cattle passport” and “keeper” have the same meaning as in regulation 2(1) of the Cattle Identification Regulations 1998[^f00020].
 
-**3.**[^key-56184bd51f5858eda6fcb9549f99247e] The condition in paragraph 1(1)(f) continues to be met if—
+**3.**[^c-56184bd51f5858eda6fcb9549f99247e] The condition in paragraph 1(1)(f) continues to be met if—
 
 - (a) the breeding cow was replaced during the relevant period by another breeding cow and the conditions in paragraph 1(1)(a) to (e) are met in respect of that breeding cow; and
 - (b) the replacement breeding cow was kept on the claimant’s holding for the remainder of the relevant period.
 
-**4.**[^key-9734fa0c19eda2a32c60cf99269c4144] Where—
+**4.**[^c-9734fa0c19eda2a32c60cf99269c4144] Where—
 
 - (a) the claimant’s breeding cows which meet the conditions in paragraph 1(1) include heifers, and
 - (b) the number of heifers, expressed in livestock units, which meet those conditions is more than 40%, expressed in livestock units, of the total number of breeding cows which meet those conditions,
 
 the number of heifers which are relevant animals shall be reduced so that no more than 40%, expressed in livestock units, of the claimant’s breeding cows which are relevant animals are heifers.
 
-### 5. Ewes[^key-494157605a231569e3978154684a311c]
+### 5. Ewes[^c-494157605a231569e3978154684a311c]
 
 A ewe is a relevant animal for the purposes of these Regulations if—
 
@@ -358,9 +358,9 @@ A full regulatory impact assessment has not been prepared for this instrument as
 
 [^f00003]: Footnote: The power of the Secretary of State to make regulations in relation to matters in or as regards Scotland is preserved by section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e974bc4178f86248e5220e0dda572a62]: Commencement: Reg. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-e974bc4178f86248e5220e0dda572a62]: Commencement: Reg. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-ee130eed2eee319c67c4ff95826678a1]: Commencement: Reg. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-ee130eed2eee319c67c4ff95826678a1]: Commencement: Reg. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L141, 30.4.2004, p.18, as last amended by Commission Regulation [(EC) No. 2184/2005](https://www.legislation.gov.uk/european/regulation/2005/2184), O.J. No. L347, 30.12.2005, p.61.
 
@@ -390,59 +390,59 @@ A full regulatory impact assessment has not been prepared for this instrument as
 
 [^f00017]: Footnote: O.J. No. L160, 26.6.1999, as last amended by Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782), O.J. No. L270, 21.10.2003, p.1.
 
-[^key-fc55fd7caef14c10ddcb7a4de7c951e9]: Commencement: Reg. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-fc55fd7caef14c10ddcb7a4de7c951e9]: Commencement: Reg. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-6f97b0b0772e49a71b7220b0f4348fac]: Commencement: Reg. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-6f97b0b0772e49a71b7220b0f4348fac]: Commencement: Reg. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-147267c27dd5ee286cbdbc67c8d6e128]: Commencement: Reg. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-147267c27dd5ee286cbdbc67c8d6e128]: Commencement: Reg. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-e60583d9eacf96a630a309d2bcc17413]: Commencement: Reg. 6 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-e60583d9eacf96a630a309d2bcc17413]: Commencement: Reg. 6 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-f902a1e458522bae2b0dfb3e146c1faa]: Commencement: Reg. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-f902a1e458522bae2b0dfb3e146c1faa]: Commencement: Reg. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-78c171ecda84a22134b498b404bd6d18]: Commencement: Reg. 8 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-78c171ecda84a22134b498b404bd6d18]: Commencement: Reg. 8 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-b15c17d913369c5f222084cc166b23ac]: Commencement: Reg. 9 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-b15c17d913369c5f222084cc166b23ac]: Commencement: Reg. 9 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-297db0356900d67eded1a7aab89c8022]: Commencement: Reg. 10 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-297db0356900d67eded1a7aab89c8022]: Commencement: Reg. 10 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
 [^f00018]: Footnote: S.I. [2000/3044](https://www.legislation.gov.uk/uksi/2000/3044), amended by S.I. [2001/431](https://www.legislation.gov.uk/uksi/2001/431); there are other amending instruments but none is relevant.
 
-[^key-3f2e29f09b10ee6b0d633163680a7be0]: Commencement: Sch. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-3f2e29f09b10ee6b0d633163680a7be0]: Commencement: Sch. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-cf33661826676964835919ffd6527cdd]: Commencement: Sch. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-cf33661826676964835919ffd6527cdd]: Commencement: Sch. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-a863d10caf0c65afb088ced6a9d778fe]: Commencement: Sch. 3 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-a863d10caf0c65afb088ced6a9d778fe]: Commencement: Sch. 3 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-24285edf509dffc4f931baf2e7948ecc]: Commencement: Sch. 3 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-24285edf509dffc4f931baf2e7948ecc]: Commencement: Sch. 3 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-974e1e7b080395c0b4f0945d703099e9]: Commencement: Sch. 3 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-974e1e7b080395c0b4f0945d703099e9]: Commencement: Sch. 3 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-3e5b87ae382ff18446758af7e412cfb3]: Commencement: Sch. 3 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-3e5b87ae382ff18446758af7e412cfb3]: Commencement: Sch. 3 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-d866ca0b799f78a380be8f5648f6afa1]: Commencement: Sch. 4 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-d866ca0b799f78a380be8f5648f6afa1]: Commencement: Sch. 4 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-3b2f801b427f2717788cfe6ac2bc543c]: Commencement: Sch. 4 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-3b2f801b427f2717788cfe6ac2bc543c]: Commencement: Sch. 4 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-51dd5dfe2db028cdd6651dcc00275915]: Commencement: Sch. 4 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-51dd5dfe2db028cdd6651dcc00275915]: Commencement: Sch. 4 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-b28a579fea489b6632720e00890c261f]: Commencement: Sch. 4 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-b28a579fea489b6632720e00890c261f]: Commencement: Sch. 4 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-46318dbb72d4aec70703fa6022d87448]: Commencement: Sch. 4 para. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-46318dbb72d4aec70703fa6022d87448]: Commencement: Sch. 4 para. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-f8c4ff6663d5781f96fb5b27c03f109b]: Commencement: Sch. 5 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-f8c4ff6663d5781f96fb5b27c03f109b]: Commencement: Sch. 5 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
 [^f00019]: Footnote: S.I. [1998/871](https://www.legislation.gov.uk/uksi/1998/871), to which there are amendments not relevant to these Regulations.
 
-[^key-9326b348650f0c34a6e11d24ef67d20c]: Commencement: Sch. 5 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-9326b348650f0c34a6e11d24ef67d20c]: Commencement: Sch. 5 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
 [^f00020]: Footnote: S.I. [1998/871](https://www.legislation.gov.uk/uksi/1998/871), to which there are amendments not relevant to these Regulations.
 
-[^key-56184bd51f5858eda6fcb9549f99247e]: Commencement: Sch. 5 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-56184bd51f5858eda6fcb9549f99247e]: Commencement: Sch. 5 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-9734fa0c19eda2a32c60cf99269c4144]: Commencement: Sch. 5 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-9734fa0c19eda2a32c60cf99269c4144]: Commencement: Sch. 5 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
-[^key-494157605a231569e3978154684a311c]: Commencement: Sch. 5 para. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
+[^c-494157605a231569e3978154684a311c]: Commencement: Sch. 5 para. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/225/regulation/1)
 
 [^f00021]: Footnote: S.I. [2002/2153](https://www.legislation.gov.uk/uksi/2002/2153), amended by S.I. [2003/29](https://www.legislation.gov.uk/uksi/2003/29), [2003/502](https://www.legislation.gov.uk/uksi/2003/502), [2003/1728](https://www.legislation.gov.uk/uksi/2003/1728).
 

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.174. Continuation of creditors' committee[^key-b8b06d8492538896163eca36ad169274]
+## 4.174. Continuation of creditors' committee[^c-b8b06d8492538896163eca36ad169274]
 
 *Extent: E+W*
 
-(1) If under paragraph 57 of Schedule B1 to the Act[^key-4030004b5a1777eaaffcaaac23d5ce22] a creditors' committee has been established for the purposes of the administration, then (subject as follows in this Chapter) that committee continues in being as the liquidation committee for the purposes of the winding up, and—
+(1) If under paragraph 57 of Schedule B1 to the Act[^c-4030004b5a1777eaaffcaaac23d5ce22] a creditors' committee has been established for the purposes of the administration, then (subject as follows in this Chapter) that committee continues in being as the liquidation committee for the purposes of the winding up, and—
 
 - (a) it is deemed to be a committee established as such under section 141, and
 - (b) no action shall be taken under subsection (1) to (3) of that section to establish any other.
 
-(2) This Rule does not apply if, at the time when the court's order under section 140(1) is made, the committee under paragraph 57 of Schedule B1 to the Act[^key-743a9c71c244ea2793cc3876e0519f15] consists of less than 3 members; and a creditor who was, immediately before that date, a member of it, ceases to be a member on the making of the order if his debt is fully secured.
+(2) This Rule does not apply if, at the time when the court's order under section 140(1) is made, the committee under paragraph 57 of Schedule B1 to the Act[^c-743a9c71c244ea2793cc3876e0519f15] consists of less than 3 members; and a creditor who was, immediately before that date, a member of it, ceases to be a member on the making of the order if his debt is fully secured.
 
 ## Annotations
 
-[^key-b8b06d8492538896163eca36ad169274]: Commencement: [Rule 4.174](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.174) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b8b06d8492538896163eca36ad169274]: Commencement: [Rule 4.174](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.174) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-4030004b5a1777eaaffcaaac23d5ce22]: Textual amendment: Words in rule 4.174(1) substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 26(a)](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/26/a)
+[^c-4030004b5a1777eaaffcaaac23d5ce22]: Textual amendment: Words in rule 4.174(1) substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 26(a)](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/26/a)
 
-[^key-743a9c71c244ea2793cc3876e0519f15]: Textual amendment: Words in rule 4.174(2) substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 26(b)](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/26/b)
+[^c-743a9c71c244ea2793cc3876e0519f15]: Textual amendment: Words in rule 4.174(2) substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 26(b)](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/26/b)

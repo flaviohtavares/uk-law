@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Removal of powers to enforce requirements relating to annual returns[^key-997375594ae8993c28cba247474dced3][^key-aab8368ee7420a6af26c4053d68e91f5]
+## 81. Removal of powers to enforce requirements relating to annual returns[^c-997375594ae8993c28cba247474dced3][^c-aab8368ee7420a6af26c4053d68e91f5]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-997375594ae8993c28cba247474dced3]: Commencement: S. 81 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-997375594ae8993c28cba247474dced3]: Commencement: S. 81 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-aab8368ee7420a6af26c4053d68e91f5]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2025/36/section/81) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/10) (with savings and transitional provisions in [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/14))
+[^c-aab8368ee7420a6af26c4053d68e91f5]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2025/36/section/81) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/10) (with savings and transitional provisions in [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/14))

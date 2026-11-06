@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Justice makes the following Order in exercise of the powers conferred by sections 355(3A)[^f00001] and 459(3) and (7A) of the Proceeds of Crime Act 2002[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-919a2bd05f761e43251973db7850490c]
+## 1. Citation, commencement and interpretation[^c-919a2bd05f761e43251973db7850490c]
 
 (1) This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) (Amendment) Order (Northern Ireland) 2024 and shall come into operation on 26th April 2024.
 
 (2) In this Order, “**the 1989 Order**” means the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00004].
 
-## 2. Amendment of the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) Order (Northern Ireland) 2016[^key-ec3ad1b26f9d7b4cabdd9bcd5722235a]
+## 2. Amendment of the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) Order (Northern Ireland) 2016[^c-ec3ad1b26f9d7b4cabdd9bcd5722235a]
 
 (1) The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) Order (Northern Ireland) 2016[^f00005] is amended as follows.
 
@@ -98,10 +98,10 @@ An impact assessment has not been produced for this Order as no impact is forese
 
 [^f00003]: Footnote: The section 459 powers of the Secretary of State are transferred to the Department of Justice by Article 12 of, and paragraphs 47 and 74(1), (2) and (7) of Schedule 14 to, the 2010 Order.
 
-[^key-919a2bd05f761e43251973db7850490c]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/81/article/1) in operation at 26.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/81/article/1/1)
+[^c-919a2bd05f761e43251973db7850490c]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/81/article/1) in operation at 26.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/81/article/1/1)
 
 [^f00004]: Footnote: [S.I. 1989 No. 1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). Relevant amendments affecting Articles 17, 18, 23 and 24 of the 1989 Order have been made by the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-ec3ad1b26f9d7b4cabdd9bcd5722235a]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/81/article/2) in operation at 26.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/81/article/1/1)
+[^c-ec3ad1b26f9d7b4cabdd9bcd5722235a]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/81/article/2) in operation at 26.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/81/article/1/1)
 
 [^f00005]: Footnote: [S.R. 2016 No.33](https://www.legislation.gov.uk/nisr/2016/33).

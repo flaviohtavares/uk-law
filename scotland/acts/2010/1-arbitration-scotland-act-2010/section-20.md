@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Refusal of recognition or enforcement[^key-6764e2ea561f5414dd41aaac3678eb43]
+## 20. Refusal of recognition or enforcement[^c-6764e2ea561f5414dd41aaac3678eb43]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6764e2ea561f5414dd41aaac3678eb43]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/1/section/20) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-6764e2ea561f5414dd41aaac3678eb43]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/1/section/20) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Procedure for buying[^key-7abcc7b9b98f7f4796db85122465d9c5]
+## 32. Procedure for buying[^c-7abcc7b9b98f7f4796db85122465d9c5]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ the right to buy is extinguished.
 
 ## Annotations
 
-[^key-7abcc7b9b98f7f4796db85122465d9c5]: Commencement: S. 32 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-7abcc7b9b98f7f4796db85122465d9c5]: Commencement: S. 32 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

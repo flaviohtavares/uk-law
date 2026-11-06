@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 15 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-0f7f348ccbadf700a9bd6ce65272a7e6]
+## SCHEDULE 15 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-0f7f348ccbadf700a9bd6ce65272a7e6]
 
 *Extent: E+W+S*
 
@@ -120,13 +120,13 @@ Article 63
 | stopping up and restriction of use of streets and public rights of way plan | TR030008/APP/4.7 | 3 | 26 June 2024 |
 | street works and accesses plan | TR030008/APP/4.6 | 3 | 26 June 2024 |
 | traffic regulation measures plans | TR030008/APP/4.8 | 4 | 26 June 2024 |
-| works plans | TR030008/APP/4.2[^key-6b1ab404d6d41bb46281f6ce9efc1dee] | 4 | 26 June 2024 |
-| woodland compensation plan | TR030008/EXAM/9.34 | 5[^key-56ed04d241477c07bc45e9cdd2b609ea] | 15 August 2024 |
+| works plans | TR030008/APP/4.2[^c-6b1ab404d6d41bb46281f6ce9efc1dee] | 4 | 26 June 2024 |
+| woodland compensation plan | TR030008/EXAM/9.34 | 5[^c-56ed04d241477c07bc45e9cdd2b609ea] | 15 August 2024 |
 
 ## Annotations
 
-[^key-0f7f348ccbadf700a9bd6ce65272a7e6]: Commencement: Sch. 15 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-0f7f348ccbadf700a9bd6ce65272a7e6]: Commencement: Sch. 15 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-6b1ab404d6d41bb46281f6ce9efc1dee]: Textual amendment: Word in Sch. 15 substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-6b1ab404d6d41bb46281f6ce9efc1dee]: Textual amendment: Word in Sch. 15 substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
-[^key-56ed04d241477c07bc45e9cdd2b609ea]: Textual amendment: Word in Sch. 15 substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-56ed04d241477c07bc45e9cdd2b609ea]: Textual amendment: Word in Sch. 15 substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

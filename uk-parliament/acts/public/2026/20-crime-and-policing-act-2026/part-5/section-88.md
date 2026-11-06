@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Exception for certain consensual sexual activities between children[^key-4ac29cc5ac6f8be3383a0a6ffdded390]
+## 88. Exception for certain consensual sexual activities between children[^c-4ac29cc5ac6f8be3383a0a6ffdded390]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac29cc5ac6f8be3383a0a6ffdded390]: Commencement: S. 88 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4ac29cc5ac6f8be3383a0a6ffdded390]: Commencement: S. 88 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

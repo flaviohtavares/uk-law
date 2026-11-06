@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Offences relating to supply of carrier bags: fixed penalty notices[^key-4089291a8c619831cbced0a3927a55dd]
+## 43. Offences relating to supply of carrier bags: fixed penalty notices[^c-4089291a8c619831cbced0a3927a55dd]
 
 *Extent: S*
 
@@ -171,4 +171,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4089291a8c619831cbced0a3927a55dd]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/3/section/43) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-4089291a8c619831cbced0a3927a55dd]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/3/section/43) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

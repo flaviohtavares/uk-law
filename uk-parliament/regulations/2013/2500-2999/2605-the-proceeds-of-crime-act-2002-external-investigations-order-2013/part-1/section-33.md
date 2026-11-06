@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Disclosure of information[^key-ac69e4ca85bd4a5cd60135bec08d96eb]
+## 33. Disclosure of information[^c-ac69e4ca85bd4a5cd60135bec08d96eb]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ An account monitoring order has effect in spite of any restriction on the disclo
 
 ## Annotations
 
-[^key-ac69e4ca85bd4a5cd60135bec08d96eb]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2013/2605/article/33) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-ac69e4ca85bd4a5cd60135bec08d96eb]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2013/2605/article/33) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

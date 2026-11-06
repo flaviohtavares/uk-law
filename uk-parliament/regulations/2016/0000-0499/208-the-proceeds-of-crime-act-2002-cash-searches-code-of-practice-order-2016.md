@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order 2016 (revoked)[^key-7727e6a693e1dc978f63e2de87a5d806]
+The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order 2016 (revoked)[^c-7727e6a693e1dc978f63e2de87a5d806]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st March 2016
 
-[^key-7727e6a693e1dc978f63e2de87a5d806]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7727e6a693e1dc978f63e2de87a5d806]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7727e6a693e1dc978f63e2de87a5d806]
+## 1. Citation and commencement[^c-7727e6a693e1dc978f63e2de87a5d806]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised Code of Practice[^key-7727e6a693e1dc978f63e2de87a5d806]
+## 2. Revised Code of Practice[^c-7727e6a693e1dc978f63e2de87a5d806]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-7727e6a693e1dc978f63e2de87a5d806]
+## 3. Revocations[^c-7727e6a693e1dc978f63e2de87a5d806]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7727e6a693e1dc978f63e2de87a5d806]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7727e6a693e1dc978f63e2de87a5d806]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7727e6a693e1dc978f63e2de87a5d806]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7727e6a693e1dc978f63e2de87a5d806]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7727e6a693e1dc978f63e2de87a5d806]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/208) revoked (16.4.2018) by [The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order 2018 (S.I. 2018/83)](https://www.legislation.gov.uk/uksi/2018/83), [arts. 1](https://www.legislation.gov.uk/uksi/2018/83/article/1), [3](https://www.legislation.gov.uk/uksi/2018/83/article/3)
+[^c-7727e6a693e1dc978f63e2de87a5d806]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/208) revoked (16.4.2018) by [The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order 2018 (S.I. 2018/83)](https://www.legislation.gov.uk/uksi/2018/83), [arts. 1](https://www.legislation.gov.uk/uksi/2018/83/article/1), [3](https://www.legislation.gov.uk/uksi/2018/83/article/3)

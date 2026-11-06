@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 192. Calculation of periods of membership and service[^key-7d13f8869bd748c12947fab5f82c3518]
+## 192. Calculation of periods of membership and service[^c-7d13f8869bd748c12947fab5f82c3518]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ must be converted into years by dividing the number of days in excess of the per
 
 ## Annotations
 
-[^key-7d13f8869bd748c12947fab5f82c3518]: Commencement: Reg. 192 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-7d13f8869bd748c12947fab5f82c3518]: Commencement: Reg. 192 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

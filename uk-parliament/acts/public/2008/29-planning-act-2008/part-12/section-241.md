@@ -46,7 +46,7 @@ summary: ''
   - (iii) the Planning and Compensation Act 1991 (c. 34);
   - (iv) sections 42(3) and 53 of PCPA 2004.
 
-(5) The[^key-cea663009dbb9f320b04ac431f59696f] repeal in Schedule 1A to TCPA 1990 comes[^key-bc94ee2c7027751c1d73e482fe884294] into force on such day as the Welsh Ministers may by order appoint.
+(5) The[^c-cea663009dbb9f320b04ac431f59696f] repeal in Schedule 1A to TCPA 1990 comes[^c-bc94ee2c7027751c1d73e482fe884294] into force on such day as the Welsh Ministers may by order appoint.
 
 (6) Sections 194(2) to (5), 201, 202, 203 and 225 (together with related entries in Schedule 13), and paragraph 7 of Schedule 7, come into force at the end of two months beginning with the day on which this Act is passed.
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cea663009dbb9f320b04ac431f59696f]: Textual amendment: Word in [s. 241(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/5) substituted (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 20(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/20/4/a)
+[^c-cea663009dbb9f320b04ac431f59696f]: Textual amendment: Word in [s. 241(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/5) substituted (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 20(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/20/4/a)
 
-[^key-bc94ee2c7027751c1d73e482fe884294]: Textual amendment: Word in [s. 241(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/5) substituted (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 20(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/20/4/b)
+[^c-bc94ee2c7027751c1d73e482fe884294]: Textual amendment: Word in [s. 241(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/5) substituted (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 20(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/20/4/b)

@@ -69,7 +69,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-[^key-a5af7017868ae726920f88fa866e86c3]...
+[^c-a5af7017868ae726920f88fa866e86c3]...
 
 Done at Brussels, 24 March 2011.
 
@@ -121,4 +121,4 @@ The following uses of all controlled substances other than hydrochlorofluorocarb
 
 [^f00001]: Footnote: [OJ L 286, 31.10.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.286.01.0001.01.ENG).
 
-[^key-a5af7017868ae726920f88fa866e86c3]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/291/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5af7017868ae726920f88fa866e86c3]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/291/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 560. Persons to whom information may be provided[^key-cf264d49cbc02a55691c4d775bc1eef4]
+## 560. Persons to whom information may be provided[^c-cf264d49cbc02a55691c4d775bc1eef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In paragraph (2) of regulation 3 of the Police Pensions (Provision of Informatio
 
 ## Annotations
 
-[^key-cf264d49cbc02a55691c4d775bc1eef4]: Commencement: Art. 560 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cf264d49cbc02a55691c4d775bc1eef4]: Commencement: Art. 560 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

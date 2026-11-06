@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Rights to return of contributions[^key-dda2e9cb2449e38f5093764b27a3e24c]
+## 86. Rights to return of contributions[^c-dda2e9cb2449e38f5093764b27a3e24c]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ he is entitled to be repaid his contributions from the appropriate fund with int
 
 ## Annotations
 
-[^key-dda2e9cb2449e38f5093764b27a3e24c]: Commencement: Reg. 86 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-dda2e9cb2449e38f5093764b27a3e24c]: Commencement: Reg. 86 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

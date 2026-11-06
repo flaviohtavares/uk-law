@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Operation of airborne collision avoidance system[^key-0a7150b0724258a5371ffb7e1fc9ca0b]
+## 60. Operation of airborne collision avoidance system[^c-0a7150b0724258a5371ffb7e1fc9ca0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On a flight on which an airborne collision avoidance system is required to be ca
 
 ## Annotations
 
-[^key-0a7150b0724258a5371ffb7e1fc9ca0b]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2015/870/article/60) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-0a7150b0724258a5371ffb7e1fc9ca0b]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2015/870/article/60) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

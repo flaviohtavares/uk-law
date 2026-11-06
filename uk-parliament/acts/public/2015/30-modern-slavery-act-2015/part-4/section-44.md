@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Restriction on exercise of functions[^key-ca3e9574de4dfbe0c11ddb68171153af]
+## 44. Restriction on exercise of functions[^c-ca3e9574de4dfbe0c11ddb68171153af]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3e9574de4dfbe0c11ddb68171153af]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2015/30/section/44) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)
+[^c-ca3e9574de4dfbe0c11ddb68171153af]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2015/30/section/44) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)

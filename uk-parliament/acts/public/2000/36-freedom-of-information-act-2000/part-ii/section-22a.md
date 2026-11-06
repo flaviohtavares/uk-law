@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Research[^key-e413ba0d67f7e2e45c72b0fe3a628e80]
+## 22A. Research[^c-e413ba0d67f7e2e45c72b0fe3a628e80]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e413ba0d67f7e2e45c72b0fe3a628e80]: Textual amendment: [S. 22A](https://www.legislation.gov.uk/ukpga/2000/36/section/22A) inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 20](https://www.legislation.gov.uk/ukpga/2014/18/section/20), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-e413ba0d67f7e2e45c72b0fe3a628e80]: Textual amendment: [S. 22A](https://www.legislation.gov.uk/ukpga/2000/36/section/22A) inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 20](https://www.legislation.gov.uk/ukpga/2014/18/section/20), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

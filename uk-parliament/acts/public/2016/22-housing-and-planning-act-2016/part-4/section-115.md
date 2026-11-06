@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Amendments to housing moratorium and consequential amendments[^key-87252d8d996a9f2073fd4b082b2ef907]
+## 115. Amendments to housing moratorium and consequential amendments[^c-87252d8d996a9f2073fd4b082b2ef907]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 contains amendments to do with this Chapter.
 
 ## Annotations
 
-[^key-87252d8d996a9f2073fd4b082b2ef907]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2016/22/section/115) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-87252d8d996a9f2073fd4b082b2ef907]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2016/22/section/115) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

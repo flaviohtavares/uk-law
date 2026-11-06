@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 45A. Cross-examination of witnesses in person[^key-6990dbf4b4df70bcd264a9131e47bb95]
+## 45A. Cross-examination of witnesses in person[^c-6990dbf4b4df70bcd264a9131e47bb95]
 
 *Extent: E*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6990dbf4b4df70bcd264a9131e47bb95]: Textual amendment: [Rule 45A](https://www.legislation.gov.uk/uksi/2005/2022/rule/45A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/557/rule/6/1)
+[^c-6990dbf4b4df70bcd264a9131e47bb95]: Textual amendment: [Rule 45A](https://www.legislation.gov.uk/uksi/2005/2022/rule/45A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/557/rule/6/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Disqualification for persistent breaches of companies legislation: GB[^key-d407fcc10d8ed7376d6242d708ddedbe][^key-5d8d96c33a7ff520f48f3e54f5fcc5df]
+## 31. Disqualification for persistent breaches of companies legislation: GB[^c-d407fcc10d8ed7376d6242d708ddedbe][^c-5d8d96c33a7ff520f48f3e54f5fcc5df]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d407fcc10d8ed7376d6242d708ddedbe]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d407fcc10d8ed7376d6242d708ddedbe]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-5d8d96c33a7ff520f48f3e54f5fcc5df]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/56/section/31) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/c)
+[^c-5d8d96c33a7ff520f48f3e54f5fcc5df]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/56/section/31) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/c)

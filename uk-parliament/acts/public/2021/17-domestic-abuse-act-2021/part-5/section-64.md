@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Special measures in civil proceedings: victims of domestic abuse etc[^key-974275482276645ee248634764ee08e8]
+## 64. Special measures in civil proceedings: victims of domestic abuse etc[^c-974275482276645ee248634764ee08e8]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-974275482276645ee248634764ee08e8]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/17/section/64) in force at 14.6.2022 by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/553/regulation/4)
+[^c-974275482276645ee248634764ee08e8]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/17/section/64) in force at 14.6.2022 by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/553/regulation/4)

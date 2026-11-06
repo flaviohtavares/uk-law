@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Arbitration[^key-cf891ef3cfdf1a67fd03342b45c9f69b]
+## 62. Arbitration[^c-cf891ef3cfdf1a67fd03342b45c9f69b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf891ef3cfdf1a67fd03342b45c9f69b]: Commencement: Art. 62 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-cf891ef3cfdf1a67fd03342b45c9f69b]: Commencement: Art. 62 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

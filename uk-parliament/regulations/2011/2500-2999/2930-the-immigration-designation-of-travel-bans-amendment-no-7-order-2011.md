@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Designation of Travel Bans) (Amendment No. 7) Order 2011 (revoked)[^key-db97217b461ca399d0473e392aa50e25]
+The Immigration (Designation of Travel Bans) (Amendment No. 7) Order 2011 (revoked)[^c-db97217b461ca399d0473e392aa50e25]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 14th December 2011
 
-[^key-db97217b461ca399d0473e392aa50e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db97217b461ca399d0473e392aa50e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-db97217b461ca399d0473e392aa50e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db97217b461ca399d0473e392aa50e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db97217b461ca399d0473e392aa50e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db97217b461ca399d0473e392aa50e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db97217b461ca399d0473e392aa50e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db97217b461ca399d0473e392aa50e25]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2930) revoked (3.7.2012) by [The Immigration (Designation of Travel Bans) (Amendment) Order 2012 (S.I. 2012/1663)](https://www.legislation.gov.uk/uksi/2012/1663), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1663/article/1), [3](https://www.legislation.gov.uk/uksi/2012/1663/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1663/schedule/2)
+[^c-db97217b461ca399d0473e392aa50e25]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2930) revoked (3.7.2012) by [The Immigration (Designation of Travel Bans) (Amendment) Order 2012 (S.I. 2012/1663)](https://www.legislation.gov.uk/uksi/2012/1663), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1663/article/1), [3](https://www.legislation.gov.uk/uksi/2012/1663/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1663/schedule/2)

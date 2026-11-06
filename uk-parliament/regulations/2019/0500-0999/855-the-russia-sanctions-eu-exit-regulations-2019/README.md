@@ -45,7 +45,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-The Secretary of State [^c23948971], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii) and (iii), (c)(ii) and (iii), (d), (e)(iii), (g)(iii), (2)(b) and (c), 4, 5, 7(2) and (5), 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 62(4) to (6) of, and paragraphs 2(a)(iii) and (b), 3(a) and (b), 4(a)(iii), (b) and (c), 5(a)(ii) and (iii) and (b), 6(a)(ii) and (iii) and (b), 7(a)(iii) and (b), 9, 10(b), 11(a)(ii) and (iii), 13(a), (b), (c), (g), (h), (i), (k), (l), (m), (n), (p), (q), (t), (v) and (w), 14(a), (e), (f) and (k), 17, 19 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23948981], and having decided, upon consideration of the matters set out in section 2(2) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-cf0be9e194b6f2a811b3c77e0fea9f67]
+The Secretary of State [^c23948971], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii) and (iii), (c)(ii) and (iii), (d), (e)(iii), (g)(iii), (2)(b) and (c), 4, 5, 7(2) and (5), 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 62(4) to (6) of, and paragraphs 2(a)(iii) and (b), 3(a) and (b), 4(a)(iii), (b) and (c), 5(a)(ii) and (iii) and (b), 6(a)(ii) and (iii) and (b), 7(a)(iii) and (b), 9, 10(b), 11(a)(ii) and (iii), 13(a), (b), (c), (g), (h), (i), (k), (l), (m), (n), (p), (q), (t), (v) and (w), 14(a), (e), (f) and (k), 17, 19 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23948981], and having decided, upon consideration of the matters set out in section 2(2) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-cf0be9e194b6f2a811b3c77e0fea9f67]
 
 ## Contents
 
@@ -76,7 +76,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Asset-freeze etc.[^key-eebdb5dc2b27703f4bbe52e29287982e]
+#### CHAPTER 1 — Asset-freeze etc.[^c-eebdb5dc2b27703f4bbe52e29287982e]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,7 +106,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 19 — Circumventing etc. prohibitions](part-3/section-19.md)
 - [Section 19A — Interpretation of Part 3](part-3/section-19a.md)
 
-### PART 3A — Director disqualification sanctions[^key-5db52d785a144dce4864596e094b0ee8]
+### PART 3A — Director disqualification sanctions[^c-5db52d785a144dce4864596e094b0ee8]
 
 - [Section 19B — Director disqualification sanctions](part-3a/section-19b.md)
 
@@ -127,7 +127,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 21 — Interpretation of this Part](part-5/section-21.md)
 - [Section 21A — Definition of interception and monitoring services](part-5/section-21a.md)
 
-#### CHAPTER 2 — Restricted goods, restricted technology and related activities[^key-ea59d80ac832eebf6ce8a10c3a0ae3cb]
+#### CHAPTER 2 — Restricted goods, restricted technology and related activities[^c-ea59d80ac832eebf6ce8a10c3a0ae3cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,7 +142,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 29A — Insurance and reinsurance services relating to aviation and space goods and aviation and space technology](part-5/section-29a.md)
 - [Section 30 — Enabling or facilitating military activities](part-5/section-30.md)
 
-#### CHAPTER 2A — Goods and technology relating to non-government controlled Ukrainian territory[^key-077e3580300099457e2a816e1e35d78e]
+#### CHAPTER 2A — Goods and technology relating to non-government controlled Ukrainian territory[^c-077e3580300099457e2a816e1e35d78e]
 
 - [Section 30A — Interpretation](part-5/section-30a.md)
 - [Section 30B — Export of relevant restricted goods](part-5/section-30b.md)
@@ -153,7 +153,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 30G — Financial services and funds relating to relevant restricted goods and relevant restricted technology](part-5/section-30g.md)
 - [Section 30H — Brokering services relating to relevant restricted goods and relevant restricted technology](part-5/section-30h.md)
 
-#### CHAPTER 3 — Dual-use goods, dual-use technology and related activities[^key-953e89cbd16676ad1f5e3d9fe096ab4e]
+#### CHAPTER 3 — Dual-use goods, dual-use technology and related activities[^c-953e89cbd16676ad1f5e3d9fe096ab4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -168,7 +168,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 37 — Financial services and funds relating to dual-use goods and dual-use technology](part-5/section-37.md)
 - [Section 38 — Brokering services: non-UK activity relating to dual-use goods and dual-use technology](part-5/section-38.md)
 
-#### CHAPTER 4 — Energy-related goods , energy-related technology and related activities[^key-3bd835c17925bf1478cc0da3bf79a397]
+#### CHAPTER 4 — Energy-related goods , energy-related technology and related activities[^c-3bd835c17925bf1478cc0da3bf79a397]
 
 *Extent: E+W+S+N.I.*
 
@@ -182,21 +182,21 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 45 — Brokering services: non-UK activity relating to energy-related goods and energy-related technology ...](part-5/section-45.md)
 - [Section 46 — Prohibition on providing other energy-related services](part-5/section-46.md)
 
-#### CHAPTER 4A — Aircraft and ships[^key-7d97cbf1bc80e065564734802daf45c9]
+#### CHAPTER 4A — Aircraft and ships[^c-7d97cbf1bc80e065564734802daf45c9]
 
 - [Section 46ZA — Interpretation of this Chapter](part-5/section-46za.md)
 - [Section 46A — Technical assistance relating to aircraft and ships](part-5/section-46a.md)
 - [Section 46AA — Provision of services relating to specified ships](part-5/section-46aa.md)
 - [Section 46AB — Procurement of services relating to specified ships](part-5/section-46ab.md)
 
-#### CHAPTER 4B — Luxury goods[^key-9a0216487ba7cd61c1a6e0019c90a152]
+#### CHAPTER 4B — Luxury goods[^c-9a0216487ba7cd61c1a6e0019c90a152]
 
 - [Section 46B — Luxury goods](part-5/section-46b.md)
 - [Section 46BA — Technical assistance relating to luxury goods](part-5/section-46ba.md)
 - [Section 46BB — Financial services and funds relating to luxury goods](part-5/section-46bb.md)
 - [Section 46BC — Brokering services relating to luxury goods](part-5/section-46bc.md)
 
-#### CHAPTER 4C — Iron and steel products[^key-ba5e8b433b46f408a162a8ceb4524539]
+#### CHAPTER 4C — Iron and steel products[^c-ba5e8b433b46f408a162a8ceb4524539]
 
 - [Section 46C — Interpretation](part-5/section-46c.md)
 - [Section 46D — Import of iron and steel products](part-5/section-46d.md)
@@ -206,7 +206,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46H — Financial services and funds relating to iron and steel products](part-5/section-46h.md)
 - [Section 46I — Brokering services relating to iron and steel products](part-5/section-46i.md)
 
-#### CHAPTER 4CA — Iron and steel products processed in a third country ...[^key-7f56908749cb007d9b44a757bcf92283][^key-f6dedde853596d1cf54eac067c9a18e9]
+#### CHAPTER 4CA — Iron and steel products processed in a third country ...[^c-7f56908749cb007d9b44a757bcf92283][^c-f6dedde853596d1cf54eac067c9a18e9]
 
 - [Section 46IA — Interpretation](part-5/section-46ia.md)
 - [Section 46IB — Import of relevant processed iron or steel products](part-5/section-46ib.md)
@@ -214,23 +214,23 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46ID — Financial services and funds relating to relevant processed iron or steel products](part-5/section-46id.md)
 - [Section 46IE — Brokering services relating to relevant processed iron or steel products](part-5/section-46ie.md)
 
-#### CHAPTER 4CB — Metals[^key-cfa6031e6b5670717c2014baf5643812]
+#### CHAPTER 4CB — Metals[^c-cfa6031e6b5670717c2014baf5643812]
 
 - [Section 46IF — Interpretation](part-5/section-46if.md)
 - [Section 46IG — Import of metals](part-5/section-46ig.md)
 - [Section 46IH — Acquisition of metals](part-5/section-46ih.md)
 - [Section 46II — Supply and delivery of metals](part-5/section-46ii.md)
 
-#### CHAPTER 4D — Interception and monitoring services[^key-7788dbe4e19a81e510e80c310a1dcf8e]
+#### CHAPTER 4D — Interception and monitoring services[^c-7788dbe4e19a81e510e80c310a1dcf8e]
 
 - [Section 46J — Interpretation](part-5/section-46j.md)
 - [Section 46K — Interception and monitoring services](part-5/section-46k.md)
 
-#### CHAPTER 4E — Banknotes[^key-7788dbe4e19a81e510e80c310a1dcf8e]
+#### CHAPTER 4E — Banknotes[^c-7788dbe4e19a81e510e80c310a1dcf8e]
 
 - [Section 46L — Banknotes](part-5/section-46l.md)
 
-#### CHAPTER 4F — Jet fuel and fuel additives[^key-7788dbe4e19a81e510e80c310a1dcf8e]
+#### CHAPTER 4F — Jet fuel and fuel additives[^c-7788dbe4e19a81e510e80c310a1dcf8e]
 
 - [Section 46M — Interpretation](part-5/section-46m.md)
 - [Section 46N — Jet fuel and fuel additives](part-5/section-46n.md)
@@ -238,7 +238,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46P — Financial services and funds relating to jet fuel and fuel additives](part-5/section-46p.md)
 - [Section 46Q — Brokering services relating to jet fuel and fuel additives](part-5/section-46q.md)
 
-#### CHAPTER 4G — Schedule 3D Revenue generating goods[^key-7788dbe4e19a81e510e80c310a1dcf8e][^key-c8d55107ee82a52111da680fc0d6da84]
+#### CHAPTER 4G — Schedule 3D Revenue generating goods[^c-7788dbe4e19a81e510e80c310a1dcf8e][^c-c8d55107ee82a52111da680fc0d6da84]
 
 - [Section 46R — Interpretation](part-5/section-46r.md)
 - [Section 46S — Import of Schedule 3D revenue generating goods](part-5/section-46s.md)
@@ -248,7 +248,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46W — Financial services and funds relating to Schedule 3D revenue generating goods](part-5/section-46w.md)
 - [Section 46X — Brokering services relating to Schedule 3D revenue generating goods](part-5/section-46x.md)
 
-#### CHAPTER 4GA — Schedule 3DA revenue generating goods[^key-5071cf9e999e92e7f1e48a9beb76da5b]
+#### CHAPTER 4GA — Schedule 3DA revenue generating goods[^c-5071cf9e999e92e7f1e48a9beb76da5b]
 
 - [Section 46XA — Interpretation](part-5/section-46xa.md)
 - [Section 46XB — Import of Schedule 3DA revenue generating goods](part-5/section-46xb.md)
@@ -258,7 +258,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46XF — Financial services and funds relating to Schedule 3DA revenue generating goods](part-5/section-46xf.md)
 - [Section 46XG — Brokering services relating to Schedule 3DA revenue generating goods](part-5/section-46xg.md)
 
-#### Chapter 4H — G7 dependency and further goods and G7 dependency and further technology[^key-876278a10227d7e24a62920f4473f2c1][^key-70b6ab67d851bdf7eb36a7eb68972f2d][^key-016ab298359b138392dccd3ac51de399]
+#### Chapter 4H — G7 dependency and further goods and G7 dependency and further technology[^c-876278a10227d7e24a62920f4473f2c1][^c-70b6ab67d851bdf7eb36a7eb68972f2d][^c-016ab298359b138392dccd3ac51de399]
 
 - [Section 46Y — G7 dependency and further goods and G7 dependency and further technology](part-5/section-46y.md)
 - [Section 46YA — Transfer of G7 dependency and further technology](part-5/section-46ya.md)
@@ -266,7 +266,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z1 — Financial services and funds relating to G7 dependency and further goods and G7 dependency and further technology](part-5/section-46z1.md)
 - [Section 46Z2 — Brokering services relating to G7 dependency and further goods and G7 dependency and further technology](part-5/section-46z2.md)
 
-#### CHAPTER 4I — Oil and Oil Products[^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4I — Oil and Oil Products[^c-876278a10227d7e24a62920f4473f2c1]
 
 - [Section 46Z3 — Meaning of “relevant day”](part-5/section-46z3.md)
 - [Section 46Z4 — Import of oil and oil products](part-5/section-46z4.md)
@@ -276,14 +276,14 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z8 — Financial services and funds relating to oil and oil products](part-5/section-46z8.md)
 - [Section 46Z9 — Brokering services relating to oil and oil products](part-5/section-46z9.md)
 
-#### CHAPTER 4IA — Maritime transportation of certain oil and oil products[^key-7eb0421a7844b9a5d828a28f49e054b5][^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4IA — Maritime transportation of certain oil and oil products[^c-7eb0421a7844b9a5d828a28f49e054b5][^c-876278a10227d7e24a62920f4473f2c1]
 
 - [Section 46Z9A — Interpretation](part-5/section-46z9a.md)
 - [Section 46Z9B — Maritime transportation of certain oil and oil products to and between third countries](part-5/section-46z9b.md)
 - [Section 46Z9C — Financial services and funds relating to maritime transportation of certain oil and oil products](part-5/section-46z9c.md)
 - [Section 46Z9D — Brokering services relating to maritime transportation of certain oil and oil products](part-5/section-46z9d.md)
 
-#### Chapter 4IB — Relevant processed oil products[^key-a8e57baeac3ea41b02964de54da2719c]
+#### Chapter 4IB — Relevant processed oil products[^c-a8e57baeac3ea41b02964de54da2719c]
 
 - [Section 46Z9E — Interpretation](part-5/section-46z9e.md)
 - [Section 46Z9F — Import of relevant processed oil products](part-5/section-46z9f.md)
@@ -291,7 +291,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z9H — Financial services and funds relating to relevant processed oil products](part-5/section-46z9h.md)
 - [Section 46Z9I — Brokering services relating to relevant processed oil products](part-5/section-46z9i.md)
 
-#### CHAPTER 4J — Gold[^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4J — Gold[^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,7 +303,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z15 — Financial services and funds relating to gold](part-5/section-46z15.md)
 - [Section 46Z16 — Brokering services relating to gold](part-5/section-46z16.md)
 
-#### CHAPTER 4JA — Gold jewellery and relevant processed gold[^key-727d4ada275a4c3e79a5f5eab888077d][^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4JA — Gold jewellery and relevant processed gold[^c-727d4ada275a4c3e79a5f5eab888077d][^c-876278a10227d7e24a62920f4473f2c1]
 
 - [Section 46Z16A — Interpretation](part-5/section-46z16a.md)
 - [Section 46Z16B — Prohibition on the import of gold jewellery from Russia](part-5/section-46z16b.md)
@@ -315,7 +315,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z16H — Financial services and funds relating to relevant processed gold](part-5/section-46z16h.md)
 - [Section 46Z16I — Brokering services relating to gold jewellery and relevant processed gold](part-5/section-46z16i.md)
 
-#### CHAPTER 4JB — Diamonds and diamond jewellery[^key-248c158d51396b14f41ec648cf9cbdae][^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4JB — Diamonds and diamond jewellery[^c-248c158d51396b14f41ec648cf9cbdae][^c-876278a10227d7e24a62920f4473f2c1]
 
 - [Section 46Z16J — Interpretation](part-5/section-46z16j.md)
 - [Section 46Z16K — Import of diamonds and diamond jewellery](part-5/section-46z16k.md)
@@ -325,7 +325,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z16O — Financial services and funds relating to diamonds and diamond jewellery](part-5/section-46z16o.md)
 - [Section 46Z16P — Brokering services relating to diamonds and diamond jewellery](part-5/section-46z16p.md)
 
-#### CHAPTER 4JC — Certain diamonds processed in a third country[^key-36eda898ad70af757672736dea95d915][^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4JC — Certain diamonds processed in a third country[^c-36eda898ad70af757672736dea95d915][^c-876278a10227d7e24a62920f4473f2c1]
 
 - [Section 46Z16Q — Interpretation](part-5/section-46z16q.md)
 - [Section 46Z16R — Import of relevant processed diamonds](part-5/section-46z16r.md)
@@ -333,7 +333,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z16T — Financial services and funds relating to relevant processed diamonds](part-5/section-46z16t.md)
 - [Section 46Z16U — Brokering services relating to relevant processed diamonds](part-5/section-46z16u.md)
 
-#### Chapter 4JD — Certain synthetic diamonds processed in a third country[^key-5fd6ede33123510b50481d6608301376][^key-876278a10227d7e24a62920f4473f2c1]
+#### Chapter 4JD — Certain synthetic diamonds processed in a third country[^c-5fd6ede33123510b50481d6608301376][^c-876278a10227d7e24a62920f4473f2c1]
 
 - [Section 46Z16V — Interpretation](part-5/section-46z16v.md)
 - [Section 46Z16W — Import of relevant processed synthetic diamonds](part-5/section-46z16w.md)
@@ -341,7 +341,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z16Y — Financial services and funds relating to relevant processed synthetic diamonds](part-5/section-46z16y.md)
 - [Section 46Z16Z — Brokering services relating to relevant processed synthetic diamonds](part-5/section-46z16z.md)
 
-#### CHAPTER 4K — Coal and Coal Products[^key-876278a10227d7e24a62920f4473f2c1]
+#### CHAPTER 4K — Coal and Coal Products[^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -353,7 +353,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z22 — Financial services and funds relating to coal and coal products](part-5/section-46z22.md)
 - [Section 46Z23 — Brokering services relating to coal and coal products](part-5/section-46z23.md)
 
-#### Chapter 4KA — Uranium[^key-34627dff89ef4ab7752c8f6175e87bc1]
+#### Chapter 4KA — Uranium[^c-34627dff89ef4ab7752c8f6175e87bc1]
 
 - [Section 46Z23A — Interpretation](part-5/section-46z23a.md)
 - [Section 46Z23B — Import of uranium](part-5/section-46z23b.md)
@@ -363,7 +363,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z23F — Financial services and funds relating to uranium](part-5/section-46z23f.md)
 - [Section 46Z23G — Brokering services relating to uranium](part-5/section-46z23g.md)
 
-#### CHAPTER 4L — Liquefied natural gas[^key-b679795f4dfac9be9858fb514b5a3313]
+#### CHAPTER 4L — Liquefied natural gas[^c-b679795f4dfac9be9858fb514b5a3313]
 
 - [Section 46Z24 — Interpretation](part-5/section-46z24.md)
 - [Section 46Z25 — Import of liquefied natural gas](part-5/section-46z25.md)
@@ -372,14 +372,14 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z28 — Financial services and funds relating to liquefied natural gas](part-5/section-46z28.md)
 - [Section 46Z29 — Brokering services relating to liquefied natural gas](part-5/section-46z29.md)
 
-#### Chapter 4LA — Maritime transportation of liquefied natural gas[^key-8a04a06c956fc6b0fdfdfa8cd735019f]
+#### Chapter 4LA — Maritime transportation of liquefied natural gas[^c-8a04a06c956fc6b0fdfdfa8cd735019f]
 
 - [Section 46Z29A — Interpretation](part-5/section-46z29a.md)
 - [Section 46Z29B — Maritime transportation of liquefied natural gas to and between third countries](part-5/section-46z29b.md)
 - [Section 46Z29C — Financial services and funds relating to maritime transportation of liquefied natural gas](part-5/section-46z29c.md)
 - [Section 46Z29D — Brokering services relating to maritime transportation of liquefied natural gas](part-5/section-46z29d.md)
 
-#### CHAPTER 4M — Russia’s vulnerable goods and Russia’s vulnerable technology[^key-b679795f4dfac9be9858fb514b5a3313][^key-20365a8a05abb5cbf969e7e40be3ff40]
+#### CHAPTER 4M — Russia’s vulnerable goods and Russia’s vulnerable technology[^c-b679795f4dfac9be9858fb514b5a3313][^c-20365a8a05abb5cbf969e7e40be3ff40]
 
 - [Section 46Z30 — Russia’s vulnerable goods and Russia’s vulnerable technology](part-5/section-46z30.md)
 - [Section 46Z30A — Transfer of Russia’s vulnerable technology](part-5/section-46z30a.md)
@@ -387,7 +387,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z32 — Financial services and funds relating to Russia’s vulnerable goods and Russia’s vulnerable technology](part-5/section-46z32.md)
 - [Section 46Z33 — Brokering services relating to Russia’s vulnerable goods and Russia’s vulnerable technology](part-5/section-46z33.md)
 
-#### Chapter 4N — Sectoral software and technology[^key-33feb63d6b3401da61bfadf5a13394b0]
+#### Chapter 4N — Sectoral software and technology[^c-33feb63d6b3401da61bfadf5a13394b0]
 
 - [Section 46Z34 — Making sectoral software and technology available](part-5/section-46z34.md)
 - [Section 46Z35 — Transfer of sectoral software and technology](part-5/section-46z35.md)
@@ -395,11 +395,11 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 46Z37 — Financial services and funds relating to sectoral software and technology](part-5/section-46z37.md)
 - [Section 46Z38 — Brokering services: non-UK activity relating to sectoral software and technology](part-5/section-46z38.md)
 
-#### Chapter 4O — Detained transport assets[^key-b1e4bba54942a95e0e49b8461badefa7]
+#### Chapter 4O — Detained transport assets[^c-b1e4bba54942a95e0e49b8461badefa7]
 
 - [Section 46Z39 — Detained transport assets](part-5/section-46z39.md)
 
-#### CHAPTER 5 — Exports and imports, and related activities, in relation to non-government controlled Ukrainian territory[^key-202ecbb1f65bb32f6cbcfe571e334064]
+#### CHAPTER 5 — Exports and imports, and related activities, in relation to non-government controlled Ukrainian territory[^c-202ecbb1f65bb32f6cbcfe571e334064]
 
 *Extent: E+W+S+N.I.*
 
@@ -412,17 +412,17 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 53 — Brokering services: non-UK activity relating to infrastructure-related goods and goods from non-government controlled Ukrainian territory](part-5/section-53.md)
 - [Section 53A — Application of prohibitions and requirements in Chapter 2 of Part 5 to non-government controlled Ukrainian territory](part-5/section-53a.md)
 
-#### CHAPTER 6 — Other services relating to non-government controlled Ukrainian territory[^key-84144d23a44fb7fce543d30aa39fc9b0]
+#### CHAPTER 6 — Other services relating to non-government controlled Ukrainian territory[^c-84144d23a44fb7fce543d30aa39fc9b0]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 54 — Prohibition on providing certain services relating to non-government controlled Ukrainian territory](part-5/section-54.md)
 
-#### CHAPTER 6A — Internet services[^key-a0c270fd74a47282c171c714b53065f5]
+#### CHAPTER 6A — Internet services[^c-a0c270fd74a47282c171c714b53065f5]
 
 - [Section 54A — Preventing provision of internet services to or for the benefit of designated persons](part-5/section-54a.md)
 
-#### CHAPTER 6B — Professional and Business Services[^key-7f94999be929aebed6b7bd13c9b41079]
+#### CHAPTER 6B — Professional and Business Services[^c-7f94999be929aebed6b7bd13c9b41079]
 
 - [Section 54B — Interpretation of this Chapter](part-5/section-54b.md)
 - [Section 54C — Professional and business services](part-5/section-54c.md)
@@ -452,7 +452,7 @@ The Secretary of State [^c23948971], in exercise of the powers conferred by sect
 - [Section 57H — Directions under this Part: general](part-6/section-57h.md)
 - [Section 57I — Interpretation of Part 6](part-6/section-57i.md)
 
-### PART 6A — Aircraft[^key-70ac39a0d3fc814d66486839ff5f9ea5]
+### PART 6A — Aircraft[^c-70ac39a0d3fc814d66486839ff5f9ea5]
 
 - [Section 57J — Movement of aircraft](part-6a/section-57j.md)
 - [Section 57K — Directions under regulation 57J](part-6a/section-57k.md)
@@ -642,74 +642,74 @@ The Regulations revoke the relevant EU Regulations relating to the existing EU R
 
 [^c23948981]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-cf0be9e194b6f2a811b3c77e0fea9f67]: Textual amendment: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Russia (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1571)](https://www.legislation.gov.uk/uksi/2020/1571), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1571/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1571/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1571/schedule/1), [2](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2) (as amended: (11.3.2021) by [S.I. 2021/288](https://www.legislation.gov.uk/uksi/2021/288), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/288/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/288/article/2/2); (14.4.2022) by [S.I. 2022/453](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [3-38](https://www.legislation.gov.uk/uksi/2022/453/article/3); (20.7.2022) by [S.I. 2022/843](https://www.legislation.gov.uk/uksi/2022/843), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/843/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/843/article/3); (10.11.2022) by [S.I. 2022/1167](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [3-17](https://www.legislation.gov.uk/uksi/2022/1167/article/3); (15.12.2022) by [S.I. 2022/1338](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [3-10](https://www.legislation.gov.uk/uksi/2022/1338/article/3); (9.3.2023) by [S.I. 2023/291](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [3-9](https://www.legislation.gov.uk/uksi/2023/291/article/3); (20.7.2023) by [S.I. 2023/846](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/846/article/3), [5-22](https://www.legislation.gov.uk/uksi/2023/846/article/5); (30.9.2023) by [S.I. 2023/846](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/846/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/846/article/4); (14.3.2024) by [S.I. 2024/370](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1](https://www.legislation.gov.uk/uksi/2024/370/article/1), [3-13](https://www.legislation.gov.uk/uksi/2024/370/article/3); (3.10.2024) by [S.I. 2024/987](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [3-6](https://www.legislation.gov.uk/uksi/2024/987/article/3); and (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15))
+[^c-cf0be9e194b6f2a811b3c77e0fea9f67]: Textual amendment: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Russia (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1571)](https://www.legislation.gov.uk/uksi/2020/1571), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1571/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1571/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1571/schedule/1), [2](https://www.legislation.gov.uk/uksi/2020/1571/schedule/2) (as amended: (11.3.2021) by [S.I. 2021/288](https://www.legislation.gov.uk/uksi/2021/288), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/288/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/288/article/2/2); (14.4.2022) by [S.I. 2022/453](https://www.legislation.gov.uk/uksi/2022/453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/453/article/1/1), [3-38](https://www.legislation.gov.uk/uksi/2022/453/article/3); (20.7.2022) by [S.I. 2022/843](https://www.legislation.gov.uk/uksi/2022/843), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/843/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/843/article/3); (10.11.2022) by [S.I. 2022/1167](https://www.legislation.gov.uk/uksi/2022/1167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1167/article/1/1), [3-17](https://www.legislation.gov.uk/uksi/2022/1167/article/3); (15.12.2022) by [S.I. 2022/1338](https://www.legislation.gov.uk/uksi/2022/1338), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1338/article/1/1), [3-10](https://www.legislation.gov.uk/uksi/2022/1338/article/3); (9.3.2023) by [S.I. 2023/291](https://www.legislation.gov.uk/uksi/2023/291), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/291/article/1/1), [3-9](https://www.legislation.gov.uk/uksi/2023/291/article/3); (20.7.2023) by [S.I. 2023/846](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/846/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/846/article/3), [5-22](https://www.legislation.gov.uk/uksi/2023/846/article/5); (30.9.2023) by [S.I. 2023/846](https://www.legislation.gov.uk/uksi/2023/846), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/846/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/846/article/4); (14.3.2024) by [S.I. 2024/370](https://www.legislation.gov.uk/uksi/2024/370), [arts. 1](https://www.legislation.gov.uk/uksi/2024/370/article/1), [3-13](https://www.legislation.gov.uk/uksi/2024/370/article/3); (3.10.2024) by [S.I. 2024/987](https://www.legislation.gov.uk/uksi/2024/987), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/987/article/1/1), [3-6](https://www.legislation.gov.uk/uksi/2024/987/article/3); and (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1307/schedule/15))
 
-[^key-eebdb5dc2b27703f4bbe52e29287982e]: Textual amendment: Pt. 3 Ch. 1 heading substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/194/regulation/4)
+[^c-eebdb5dc2b27703f4bbe52e29287982e]: Textual amendment: Pt. 3 Ch. 1 heading substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/194/regulation/4)
 
-[^key-5db52d785a144dce4864596e094b0ee8]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/855/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/8/4)
+[^c-5db52d785a144dce4864596e094b0ee8]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/855/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/8/4)
 
-[^key-ea59d80ac832eebf6ce8a10c3a0ae3cb]: Textual amendment: Words in [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/2) heading substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2022/195/regulation/4/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
+[^c-ea59d80ac832eebf6ce8a10c3a0ae3cb]: Textual amendment: Words in [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/2) heading substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2022/195/regulation/4/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
 
-[^key-077e3580300099457e2a816e1e35d78e]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/2A) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/792/regulation/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-077e3580300099457e2a816e1e35d78e]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/2A) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/792/regulation/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-953e89cbd16676ad1f5e3d9fe096ab4e]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/3) omitted (1.3.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/195/regulation/5) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
+[^c-953e89cbd16676ad1f5e3d9fe096ab4e]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/3) omitted (1.3.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/195/regulation/5) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
 
-[^key-3bd835c17925bf1478cc0da3bf79a397]: Textual amendment: Words in [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4) heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/4/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-3bd835c17925bf1478cc0da3bf79a397]: Textual amendment: Words in [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4) heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/4/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-7d97cbf1bc80e065564734802daf45c9]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/395/regulation/14)
+[^c-7d97cbf1bc80e065564734802daf45c9]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/395/regulation/14)
 
-[^key-9a0216487ba7cd61c1a6e0019c90a152]: Textual amendment: Pt. 5 Ch. 4B inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)
+[^c-9a0216487ba7cd61c1a6e0019c90a152]: Textual amendment: Pt. 5 Ch. 4B inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)
 
-[^key-ba5e8b433b46f408a162a8ceb4524539]: Textual amendment: [Pt. 5 Ch. 4C](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4C) inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)
+[^c-ba5e8b433b46f408a162a8ceb4524539]: Textual amendment: [Pt. 5 Ch. 4C](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4C) inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)
 
-[^key-7f56908749cb007d9b44a757bcf92283]: Textual amendment: Pt. 5 Ch. 4CA inserted (30.9.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2023/440/regulation/3/1)
+[^c-7f56908749cb007d9b44a757bcf92283]: Textual amendment: Pt. 5 Ch. 4CA inserted (30.9.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2023/440/regulation/3/1)
 
-[^key-f6dedde853596d1cf54eac067c9a18e9]: Textual amendment: Words in Pt. 5 Ch. 4CA heading omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/6/2)
+[^c-f6dedde853596d1cf54eac067c9a18e9]: Textual amendment: Words in Pt. 5 Ch. 4CA heading omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/6/2)
 
-[^key-cfa6031e6b5670717c2014baf5643812]: Textual amendment: Pt. 5 Ch. 4CB inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2023/1364/regulation/7)
+[^c-cfa6031e6b5670717c2014baf5643812]: Textual amendment: Pt. 5 Ch. 4CB inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2023/1364/regulation/7)
 
-[^key-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-c8d55107ee82a52111da680fc0d6da84]: Textual amendment: Words in [Pt. 5 Ch. 4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4G) heading inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/a)
+[^c-c8d55107ee82a52111da680fc0d6da84]: Textual amendment: Words in [Pt. 5 Ch. 4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4G) heading inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/a)
 
-[^key-5071cf9e999e92e7f1e48a9beb76da5b]: Textual amendment: [Pt. 5 Ch. 4GA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4GA) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/440/regulation/5)
+[^c-5071cf9e999e92e7f1e48a9beb76da5b]: Textual amendment: [Pt. 5 Ch. 4GA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4GA) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/440/regulation/5)
 
-[^key-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
+[^c-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
 
-[^key-70b6ab67d851bdf7eb36a7eb68972f2d]: Textual amendment: [Pt. 5 Ch. 4H](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4H) heading substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 3 para. 10(1)(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/schedule/3/paragraph/10/1/2/a)
+[^c-70b6ab67d851bdf7eb36a7eb68972f2d]: Textual amendment: [Pt. 5 Ch. 4H](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4H) heading substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 3 para. 10(1)(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/schedule/3/paragraph/10/1/2/a)
 
-[^key-016ab298359b138392dccd3ac51de399]: Textual amendment: Words in [Pt. 5 Ch. 4H](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4H) heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/5/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-016ab298359b138392dccd3ac51de399]: Textual amendment: Words in [Pt. 5 Ch. 4H](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4H) heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/5/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-7eb0421a7844b9a5d828a28f49e054b5]: Textual amendment: [Pt. 5 Ch. 4IA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IA) inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1122/regulation/4)
+[^c-7eb0421a7844b9a5d828a28f49e054b5]: Textual amendment: [Pt. 5 Ch. 4IA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IA) inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1122/regulation/4)
 
-[^key-a8e57baeac3ea41b02964de54da2719c]: Textual amendment: [Pt. 5 Ch. 4IB](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/543/regulation/8)
+[^c-a8e57baeac3ea41b02964de54da2719c]: Textual amendment: [Pt. 5 Ch. 4IB](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/543/regulation/8)
 
-[^key-727d4ada275a4c3e79a5f5eab888077d]: Textual amendment: [Pt. 5 Ch. 4JA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4JA) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2022/1110/regulation/5)
+[^c-727d4ada275a4c3e79a5f5eab888077d]: Textual amendment: [Pt. 5 Ch. 4JA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4JA) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2022/1110/regulation/5)
 
-[^key-248c158d51396b14f41ec648cf9cbdae]: Textual amendment: Pt. 5 Ch. 4JB inserted (1.1.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2023 (S.I. 2023/1367)](https://www.legislation.gov.uk/uksi/2023/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1367/regulation/3)
+[^c-248c158d51396b14f41ec648cf9cbdae]: Textual amendment: Pt. 5 Ch. 4JB inserted (1.1.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2023 (S.I. 2023/1367)](https://www.legislation.gov.uk/uksi/2023/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1367/regulation/3)
 
-[^key-36eda898ad70af757672736dea95d915]: Textual amendment: Pt. 5 Ch. 4JC inserted (1.3.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/218)](https://www.legislation.gov.uk/uksi/2024/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/218/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/218/regulation/2)
+[^c-36eda898ad70af757672736dea95d915]: Textual amendment: Pt. 5 Ch. 4JC inserted (1.3.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/218)](https://www.legislation.gov.uk/uksi/2024/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/218/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/218/regulation/2)
 
-[^key-5fd6ede33123510b50481d6608301376]: Textual amendment: [Pt. 5 Ch. 4JD](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4JD) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/504/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-5fd6ede33123510b50481d6608301376]: Textual amendment: [Pt. 5 Ch. 4JD](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4JD) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/504/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-34627dff89ef4ab7752c8f6175e87bc1]: Textual amendment: [Pt. 5 Ch. 4KA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4KA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/543/regulation/9)
+[^c-34627dff89ef4ab7752c8f6175e87bc1]: Textual amendment: [Pt. 5 Ch. 4KA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4KA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/543/regulation/9)
 
-[^key-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
+[^c-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
 
-[^key-8a04a06c956fc6b0fdfdfa8cd735019f]: Textual amendment: [Pt. 5 Ch. 4LA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4LA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/543/regulation/10)
+[^c-8a04a06c956fc6b0fdfdfa8cd735019f]: Textual amendment: [Pt. 5 Ch. 4LA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4LA) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/543/regulation/10)
 
-[^key-20365a8a05abb5cbf969e7e40be3ff40]: Textual amendment: Words in [Pt. 5 Ch. 4M](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4M) heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-20365a8a05abb5cbf969e7e40be3ff40]: Textual amendment: Words in [Pt. 5 Ch. 4M](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4M) heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-33feb63d6b3401da61bfadf5a13394b0]: Textual amendment: [Pt. 5 Ch. 4N](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4N) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/504/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-33feb63d6b3401da61bfadf5a13394b0]: Textual amendment: [Pt. 5 Ch. 4N](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4N) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/504/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-b1e4bba54942a95e0e49b8461badefa7]: Textual amendment: [Pt. 5 Ch. 4O](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4O) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/543/regulation/11)
+[^c-b1e4bba54942a95e0e49b8461badefa7]: Textual amendment: [Pt. 5 Ch. 4O](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4O) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/543/regulation/11)
 
-[^key-202ecbb1f65bb32f6cbcfe571e334064]: Textual amendment: Words in [Pt. 5 Ch. 5](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/5) heading substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/a)
+[^c-202ecbb1f65bb32f6cbcfe571e334064]: Textual amendment: Words in [Pt. 5 Ch. 5](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/5) heading substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/a)
 
-[^key-84144d23a44fb7fce543d30aa39fc9b0]: Textual amendment: Words in [Pt. 5 Ch. 6](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/6) heading substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/16/a)
+[^c-84144d23a44fb7fce543d30aa39fc9b0]: Textual amendment: Words in [Pt. 5 Ch. 6](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/6) heading substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/16/a)
 
-[^key-a0c270fd74a47282c171c714b53065f5]: Textual amendment: [Pt. 5 Ch. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/6A) inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/477/regulation/5)
+[^c-a0c270fd74a47282c171c714b53065f5]: Textual amendment: [Pt. 5 Ch. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/6A) inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/477/regulation/5)
 
-[^key-7f94999be929aebed6b7bd13c9b41079]: Textual amendment: Pt. 5 Ch. 6B inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/850/regulation/13)
+[^c-7f94999be929aebed6b7bd13c9b41079]: Textual amendment: Pt. 5 Ch. 6B inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/850/regulation/13)
 
-[^key-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)
+[^c-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)

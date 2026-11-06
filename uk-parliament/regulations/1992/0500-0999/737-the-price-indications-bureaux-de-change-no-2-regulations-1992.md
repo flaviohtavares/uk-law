@@ -32,7 +32,7 @@ This Statutory Instrument has been made in consequence of a defect in S.I.[1992/
 
 CONSUMER PROTECTION
 
-The Price Indications (Bureaux de Change) (No.2) Regulations 1992 (revoked)[^key-8d0ff20c14d44398051dcb5d5731f24c]
+The Price Indications (Bureaux de Change) (No.2) Regulations 1992 (revoked)[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 Made
 
@@ -56,56 +56,56 @@ regulations 4(2) and 5(3)
 
 18th May 1993
 
-[^key-8d0ff20c14d44398051dcb5d5731f24c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d0ff20c14d44398051dcb5d5731f24c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 1. Citation and commencement[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 2. Interpretation[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope of Regulations[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 3. Scope of Regulations[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exchange rate information to be given[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 4. Exchange rate information to be given[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Manner of giving exchange rate indications etc.[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 5. Manner of giving exchange rate indications etc.[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Obligation to furnish receipts etc.[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 6. Obligation to furnish receipts etc.[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Coin exchange machines[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 7. Coin exchange machines[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Exchange rate indications etc. to be accurate and reliable[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 8. Exchange rate indications etc. to be accurate and reliable[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences and defences[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 9. Offences and defences[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation[^key-8d0ff20c14d44398051dcb5d5731f24c]
+## 10. Revocation[^c-8d0ff20c14d44398051dcb5d5731f24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d0ff20c14d44398051dcb5d5731f24c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d0ff20c14d44398051dcb5d5731f24c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d0ff20c14d44398051dcb5d5731f24c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d0ff20c14d44398051dcb5d5731f24c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d0ff20c14d44398051dcb5d5731f24c]: Textual amendment: Regulations lapsed by virtue of repeal of power conferring provision [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43), [s. 26](https://www.legislation.gov.uk/ukpga/1987/43/section/26) (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/34), [Sch. 4](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/5))
+[^c-8d0ff20c14d44398051dcb5d5731f24c]: Textual amendment: Regulations lapsed by virtue of repeal of power conferring provision [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43), [s. 26](https://www.legislation.gov.uk/ukpga/1987/43/section/26) (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/34), [Sch. 4](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Local land charges[^key-456a7eb16ff14d29cc5365f82211fecb]
+## 66. Local land charges[^c-456a7eb16ff14d29cc5365f82211fecb]
 
 *Extent: E+W*
 
@@ -26,8 +26,8 @@ summary: ''
 
 (3) The chargeable amount ceases to be a local land charge at the end of the clawback period if—
 
-- (a) charitable or social housing relief , or an exemption for residential annexes or self-building housing,[^key-36f90e7e7a5b1ddad40998330229bfab] is granted in respect of the chargeable development; and
-- (b) no disqualifying event occurs before the end of the clawback period (or, if a disqualifying event under regulation 54D(2)(b) has occurred and the collecting authority may take no further action in relation to that event)[^key-e8898308ef84dbb773757b43848d9168].
+- (a) charitable or social housing relief , or an exemption for residential annexes or self-building housing,[^c-36f90e7e7a5b1ddad40998330229bfab] is granted in respect of the chargeable development; and
+- (b) no disqualifying event occurs before the end of the clawback period (or, if a disqualifying event under regulation 54D(2)(b) has occurred and the collecting authority may take no further action in relation to that event)[^c-e8898308ef84dbb773757b43848d9168].
 
 (4) The chargeable amount ceases to be a local land charge if liability to CIL would no longer arise in respect of the chargeable development.
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-456a7eb16ff14d29cc5365f82211fecb]: Commencement: Reg. 66 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-456a7eb16ff14d29cc5365f82211fecb]: Commencement: Reg. 66 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-36f90e7e7a5b1ddad40998330229bfab]: Textual amendment: Words in [reg. 66(3)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/66/3/a) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/4/a)
+[^c-36f90e7e7a5b1ddad40998330229bfab]: Textual amendment: Words in [reg. 66(3)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/66/3/a) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/4/a)
 
-[^key-e8898308ef84dbb773757b43848d9168]: Textual amendment: Words in [reg. 66(3)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/66/3/b) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/4/b)
+[^c-e8898308ef84dbb773757b43848d9168]: Textual amendment: Words in [reg. 66(3)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/66/3/b) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/4/b)
 
 [^f00039]: Footnote: [1975 c. 76](https://www.legislation.gov.uk/ukpga/1975/76).

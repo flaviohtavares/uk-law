@@ -38,15 +38,15 @@ Coming into operation
 
 6th April 1997
 
-The Department of Health and Social Services, in exercise of the powers conferred on it by Article 3(2) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-714e10319ab466b003b1f2daa6d84d9e]
+The Department of Health and Social Services, in exercise of the powers conferred on it by Article 3(2) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-714e10319ab466b003b1f2daa6d84d9e]
 
-## 1. Citation, commencement and interpretation[^key-81a1e523778c6ab4a909ece52162f54c]
+## 1. Citation, commencement and interpretation[^c-81a1e523778c6ab4a909ece52162f54c]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Prohibition of Trustees) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
 (2) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-## 2. Circumstances in which the Authority may prohibit a person from being a trustee[^key-9649347872bfb133fd01c0d39c26a477]
+## 2. Circumstances in which the Authority may prohibit a person from being a trustee[^c-9649347872bfb133fd01c0d39c26a477]
 
 If—
 
@@ -79,8 +79,8 @@ The Pensions (1995 Order) (Commencement No. 5) Order (Northern Ireland) 1996 ([S
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-714e10319ab466b003b1f2daa6d84d9e]: Modification: [Rules](https://www.legislation.gov.uk/nisr/1997/143) applied (with modifications) (1.10.2000) by [The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 (S.R. 2000/262)](https://www.legislation.gov.uk/nisr/2000/262), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2000/262/regulation/32), [Sch. 2](https://www.legislation.gov.uk/nisr/2000/262/schedule/2)
+[^c-714e10319ab466b003b1f2daa6d84d9e]: Modification: [Rules](https://www.legislation.gov.uk/nisr/1997/143) applied (with modifications) (1.10.2000) by [The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000 (S.R. 2000/262)](https://www.legislation.gov.uk/nisr/2000/262), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2000/262/regulation/32), [Sch. 2](https://www.legislation.gov.uk/nisr/2000/262/schedule/2)
 
-[^key-81a1e523778c6ab4a909ece52162f54c]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/143/regulation/1/1)
+[^c-81a1e523778c6ab4a909ece52162f54c]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/143/regulation/1/1)
 
-[^key-9649347872bfb133fd01c0d39c26a477]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/143/regulation/1/1)
+[^c-9649347872bfb133fd01c0d39c26a477]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/143/regulation/1/1)

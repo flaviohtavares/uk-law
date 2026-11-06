@@ -46,24 +46,24 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by paragraph 3 of Schedule 1 to the Education Act 1996[^f00001] and sections 60B(2) and (3) and 181(2)(a) of the Education and Inspections Act 2006[^f00002].
 
-## 1. Citation, commencement, extent and application[^key-0c48238b8ca1c15f8bb38d8944ae4e78]
+## 1. Citation, commencement, extent and application[^c-0c48238b8ca1c15f8bb38d8944ae4e78]
 
 (1) These Regulations may be cited as the Coasting Schools (England) Regulations 2022 and come into force on 1st September 2022.
 
 (2) These Regulations extend to England and Wales and apply in relation to schools and units in England.
 
-## 2. Interpretation[^key-7ba9fa9b16be6900ced37d4e3d7f581a]
+## 2. Interpretation[^c-7ba9fa9b16be6900ced37d4e3d7f581a]
 
 In these Regulations—
 
 - (a) “**school**” has the meaning given in section 4 of the Education Act 1996[^f00003];
 - (b) “**unit**” means a pupil referral unit within the meaning given in section 19 of that Act[^f00004].
 
-## 3. Disapplication of coasting schools regime for certain descriptions of school[^key-ad9f69d23f6d445f17e3f6fb10392bf5]
+## 3. Disapplication of coasting schools regime for certain descriptions of school[^c-ad9f69d23f6d445f17e3f6fb10392bf5]
 
 Section 60B of the Education and Inspections Act 2006 does not apply to a maintained nursery school[^f00005].
 
-## 4. Coasting schools[^key-fcd2baeb3c9819188915c7d9d7d320a8]
+## 4. Coasting schools[^c-fcd2baeb3c9819188915c7d9d7d320a8]
 
 (1) A school is coasting for the purposes of section 60B(1) of the Education and Inspections Act 2006 where—
 
@@ -134,7 +134,7 @@ Section 60B of the Education and Inspections Act 2006 does not apply to a mainta
 - (a) a “**section 5 inspection**” means an inspection under section 5 of the Education Act 2005.
 - (b) a “**section 8 inspection**” means an inspection under section 8 of the Education Act 2005.
 
-## 5. Amendment of Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^key-00ef7dcfdc4554737e83d77505bdd4a0]
+## 5. Amendment of Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^c-00ef7dcfdc4554737e83d77505bdd4a0]
 
 (1) The Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007[^f00008] are amended as follows.
 
@@ -144,7 +144,7 @@ Section 60B of the Education and Inspections Act 2006 does not apply to a mainta
 
 .
 
-## 6. Amendment of the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^key-d906023289d4b39c0aed643aef99e4df]
+## 6. Amendment of the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^c-d906023289d4b39c0aed643aef99e4df]
 
 (1) The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^f00009] are amended as follows.
 
@@ -195,7 +195,7 @@ Section 60B of the Education and Inspections Act 2006 does not apply to a mainta
 
   .
 
-## 7. Revocation[^key-c3934e95269c668eeabfb45878e59f8a]
+## 7. Revocation[^c-c3934e95269c668eeabfb45878e59f8a]
 
 The Coasting Schools (England) Regulations 2017[^f00010] are revoked.
 
@@ -225,28 +225,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Section 60B was inserted by section 1(3) of the Education and Adoption Act [2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6).
 
-[^key-0c48238b8ca1c15f8bb38d8944ae4e78]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/720/regulation/1) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+[^c-0c48238b8ca1c15f8bb38d8944ae4e78]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/720/regulation/1) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
 
-[^key-7ba9fa9b16be6900ced37d4e3d7f581a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/720/regulation/2) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+[^c-7ba9fa9b16be6900ced37d4e3d7f581a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/720/regulation/2) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
 
 [^f00003]: Footnote: Section 4(1) was substituted by section 51 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) (“**the 1997 Act**”), and further amended by Schedule 22 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 95(2) of the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21) (“**the 2006 Act**”), Schedule 13, paragraph 9(2)(a) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) (“**the 2011 Act**”) and [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027). Section 4(1A) was inserted by section 95(3) of the 2006 Act. Sections 4(1B) and (1C) were inserted by paragraph 9(2)(b) of Schedule 13 to the 2011 Act. Section 4(2) was amended by paragraph 1 of Schedule 8 to the 1997 Act and paragraph 10 of Schedule 7 to that Act and further amended by paragraph 2 of Schedule 2 to the Curriculum and Assessment (Wales) [Act 2021 (asc 4)](https://www.legislation.gov.uk/anaw/2021/4) (“the CA(W)A 2021”). Section 4(3) was amended by [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080). Section 4(4) was substituted by [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
 
 [^f00004]: Footnote: Sections 19(1) and (4) were amended by Schedule 8 to the 1997 Act. Section 19(1) was also amended by paragraph 3(2) and (3) of Schedule 2 to the CA(W)A 2021. Section 19(1A) was inserted by section 3(2) of the Children, Schools and Families Act [2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26) (“**the 2010 Act**”) and amended by paragraph 3(4) of Schedule 2 to the CA(W)A 2021. Section 19(2A) and (2B) were inserted by [S.I. 2007/1507](https://www.legislation.gov.uk/uksi/2007/1507), subsection (2B) having been amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and para 3(6) of Schedule 2 to the CA(W)A 2021. Section 3 was amended by para 3(7) of Schedule 2 to the CA(W)A 2021 and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Sections 19(3A) and (3B) were inserted by section 101(2) of the 2006 Act, subsection (3A) was subsequently substituted by section 3(3) of the 2010 Act and amended by para 3(8) of Schedule 2 to the CA(W)A 2021 and subsection (3B) was amended by section 3(4) of the 2010 Act. Section 19(3AA) was inserted by section 3(3) of the 2010 Act. Section 19(4) was amended by paragraph 3(9) of Schedule 2 to the CA(W)A 2021. Section 19(4A) was inserted by section 47(4) of the 1997 Act and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 19(6) was substituted by section 101(3) of the Inspections Act 2006 and amended by para 4(7)(b) of Schedule 1 to the Additional Learning Needs and Education Tribunal (Wales) [Act 2018 (anaw 2)](https://www.legislation.gov.uk/asc/2018/2). Subsection 7 was amended by paragraph 3(10) of Schedule 2 to the CA(W)A 2021.
 
-[^key-ad9f69d23f6d445f17e3f6fb10392bf5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/720/regulation/3) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+[^c-ad9f69d23f6d445f17e3f6fb10392bf5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/720/regulation/3) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
 
 [^f00005]: Footnote: The expression “maintained nursery school” is defined in section 579(1) of the Education Act 1996 as having the meaning given by section 22(9) of the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). By virtue of section 187(2) of the Education and Inspections Act 2006, Part 4 (schools causing concern: England) of that Act is to be read as though it were contained in the Education Act 1996.
 
-[^key-fcd2baeb3c9819188915c7d9d7d320a8]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/720/regulation/4) substituted (17.11.2025) by [The Coasting Schools (England) (Amendment) Regulations 2025 (S.I. 2025/1120)](https://www.legislation.gov.uk/uksi/2025/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/1120/regulation/3)
+[^c-fcd2baeb3c9819188915c7d9d7d320a8]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/720/regulation/4) substituted (17.11.2025) by [The Coasting Schools (England) (Amendment) Regulations 2025 (S.I. 2025/1120)](https://www.legislation.gov.uk/uksi/2025/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/1120/regulation/3)
 
-[^key-00ef7dcfdc4554737e83d77505bdd4a0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/720/regulation/5) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+[^c-00ef7dcfdc4554737e83d77505bdd4a0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/720/regulation/5) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2007/2978](https://www.legislation.gov.uk/uksi/2007/2978), as amended by [S.I. 2012/1825](https://www.legislation.gov.uk/uksi/2012/1825). There are other amendments but none is relevant.
 
-[^key-d906023289d4b39c0aed643aef99e4df]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/720/regulation/6) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+[^c-d906023289d4b39c0aed643aef99e4df]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/720/regulation/6) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), as amended by [S.I. 2016/608](https://www.legislation.gov.uk/uksi/2016/608). There are other amendments but none is relevant.
 
-[^key-c3934e95269c668eeabfb45878e59f8a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/720/regulation/7) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
+[^c-c3934e95269c668eeabfb45878e59f8a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/720/regulation/7) in force at 1.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2017/9](https://www.legislation.gov.uk/uksi/2017/9).

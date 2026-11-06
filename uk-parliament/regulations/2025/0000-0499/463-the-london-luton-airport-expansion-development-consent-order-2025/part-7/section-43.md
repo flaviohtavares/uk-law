@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Disapplication of legislative provisions[^key-8ae967acd3d3ab13c4abae4fc6ce0bdb]
+## 43. Disapplication of legislative provisions[^c-8ae967acd3d3ab13c4abae4fc6ce0bdb]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The provisions of the Neighbourhood Planning Act 2017[^f00088], in so far as the
 
 ## Annotations
 
-[^key-8ae967acd3d3ab13c4abae4fc6ce0bdb]: Commencement: Art. 43 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-8ae967acd3d3ab13c4abae4fc6ce0bdb]: Commencement: Art. 43 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00088]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 142. Admission or rejection of proofs[^key-290bba40556cd563d4c020119b99be10]
+## 142. Admission or rejection of proofs[^c-290bba40556cd563d4c020119b99be10]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-290bba40556cd563d4c020119b99be10]: Commencement: [Rule 142](https://www.legislation.gov.uk/nisr/2026/11/rule/142) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-290bba40556cd563d4c020119b99be10]: Commencement: [Rule 142](https://www.legislation.gov.uk/nisr/2026/11/rule/142) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

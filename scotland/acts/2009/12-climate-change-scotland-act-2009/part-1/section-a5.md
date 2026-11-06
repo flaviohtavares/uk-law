@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## A5. Alteration of budget periods[^key-ed14c80abc272325ca29ed56cca23666]
+## A5. Alteration of budget periods[^c-ed14c80abc272325ca29ed56cca23666]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed14c80abc272325ca29ed56cca23666]: Textual amendment: [Ss. A2-A5](https://www.legislation.gov.uk/asp/2009/12/section/A2) and cross-heading inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2024/15/section/1/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-ed14c80abc272325ca29ed56cca23666]: Textual amendment: [Ss. A2-A5](https://www.legislation.gov.uk/asp/2009/12/section/A2) and cross-heading inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2024/15/section/1/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

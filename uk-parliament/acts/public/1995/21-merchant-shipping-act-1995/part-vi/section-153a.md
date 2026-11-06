@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Liability for pollution by bunker oil[^key-5d840ec0c2e47393c887a2ef7799743e]
+## 153A. Liability for pollution by bunker oil[^c-5d840ec0c2e47393c887a2ef7799743e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ each of the owners shall be liable, jointly with the other or others, for the wh
 
 ## Annotations
 
-[^key-5d840ec0c2e47393c887a2ef7799743e]: Textual amendment: [S. 153A](https://www.legislation.gov.uk/ukpga/1995/21/section/153A) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2006/1244/regulation/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-5d840ec0c2e47393c887a2ef7799743e]: Textual amendment: [S. 153A](https://www.legislation.gov.uk/ukpga/1995/21/section/153A) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2006/1244/regulation/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

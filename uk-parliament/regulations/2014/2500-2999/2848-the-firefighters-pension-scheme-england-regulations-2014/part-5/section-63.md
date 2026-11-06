@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Exercise of partial retirement option[^key-602e27ee78297138214661c448543dbc]
+## 63. Exercise of partial retirement option[^c-602e27ee78297138214661c448543dbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-602e27ee78297138214661c448543dbc]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2014/2848/regulation/63) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-602e27ee78297138214661c448543dbc]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2014/2848/regulation/63) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

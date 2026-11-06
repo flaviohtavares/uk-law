@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Decision on removal of tip from register[^key-80ed79666a5624a8a53fab96be18f840]
+## 23. Decision on removal of tip from register[^c-80ed79666a5624a8a53fab96be18f840]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80ed79666a5624a8a53fab96be18f840]: Commencement: S. 23 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-80ed79666a5624a8a53fab96be18f840]: Commencement: S. 23 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

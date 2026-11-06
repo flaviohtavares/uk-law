@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Northern Ireland[^key-4664c435e453c1aad81bfc07348d5871][^key-35ca3e0d214259d42f41af0debff8e14]
+## 134. Northern Ireland[^c-4664c435e453c1aad81bfc07348d5871][^c-35ca3e0d214259d42f41af0debff8e14]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ In the application of this Part to Northern Ireland—
 
 ## Annotations
 
-[^key-4664c435e453c1aad81bfc07348d5871]: Commencement: S. 134 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-4664c435e453c1aad81bfc07348d5871]: Commencement: S. 134 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-35ca3e0d214259d42f41af0debff8e14]: Modification: S. 134 applied (with modifications) (23.11.2009) by [Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/4)
+[^c-35ca3e0d214259d42f41af0debff8e14]: Modification: S. 134 applied (with modifications) (23.11.2009) by [Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/4)

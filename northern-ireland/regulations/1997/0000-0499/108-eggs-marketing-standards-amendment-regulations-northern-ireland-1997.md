@@ -32,7 +32,7 @@ AGRICULTURE
 
 EUROPEAN COMMUNITIES
 
-Eggs (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-34c120571e600884a1e39942ae739cf0]
+Eggs (Marketing Standards) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-34c120571e600884a1e39942ae739cf0]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into operation
 
 31st March 1997
 
-[^key-34c120571e600884a1e39942ae739cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34c120571e600884a1e39942ae739cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-34c120571e600884a1e39942ae739cf0]
+## 1. Citation, commencement and interpretation[^c-34c120571e600884a1e39942ae739cf0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^key-34c120571e600884a1e39942ae739cf0]
+## 2. Amendment of the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^c-34c120571e600884a1e39942ae739cf0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-34c120571e600884a1e39942ae739cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-34c120571e600884a1e39942ae739cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-34c120571e600884a1e39942ae739cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-34c120571e600884a1e39942ae739cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-34c120571e600884a1e39942ae739cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-34c120571e600884a1e39942ae739cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34c120571e600884a1e39942ae739cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34c120571e600884a1e39942ae739cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-34c120571e600884a1e39942ae739cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34c120571e600884a1e39942ae739cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34c120571e600884a1e39942ae739cf0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/108) revoked (14.4.2008) by [The Eggs and Chicks Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/98)](https://www.legislation.gov.uk/nisr/2008/98), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/98/regulation/1/1), [Sch. 1 reg. 22](https://www.legislation.gov.uk/nisr/2008/98/schedule/1/regulation/22)
+[^c-34c120571e600884a1e39942ae739cf0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/108) revoked (14.4.2008) by [The Eggs and Chicks Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/98)](https://www.legislation.gov.uk/nisr/2008/98), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/98/regulation/1/1), [Sch. 1 reg. 22](https://www.legislation.gov.uk/nisr/2008/98/schedule/1/regulation/22)

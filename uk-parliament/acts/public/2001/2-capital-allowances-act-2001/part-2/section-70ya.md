@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70YA. Change in accountancy classification of long funding lease[^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70YA. Change in accountancy classification of long funding lease[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies in any case where—
 
 - (a) a person is lessor or lessee under a long funding lease, and
-- (b) at any time after the inception of the lease, the accountancy classification of the lease as a finance lease, an operating lease or a right-of-use lease[^key-8c199f9377f15d97f467a2fd2900a7d1] changes in the relevant accounts.
+- (b) at any time after the inception of the lease, the accountancy classification of the lease as a finance lease, an operating lease or a right-of-use lease[^c-8c199f9377f15d97f467a2fd2900a7d1] changes in the relevant accounts.
 
 (2) The person is to be treated as if—
 
@@ -36,21 +36,21 @@ summary: ''
 - (a) the inception of the new lease, and
 - (b) the commencement of the term of the new lease.
 
-(4) The cases where the accountancy classification of a long funding lease as a finance lease, an operating lease or a right-of-use lease[^key-226c978746336440439f45bb64dc971c] changes at any time (the “relevant time”) in the relevant accounts are those set out in subsections (5) to (6A)[^key-5b255df42c237f7743d9022dbf5d9744].
+(4) The cases where the accountancy classification of a long funding lease as a finance lease, an operating lease or a right-of-use lease[^c-226c978746336440439f45bb64dc971c] changes at any time (the “relevant time”) in the relevant accounts are those set out in subsections (5) to (6A)[^c-5b255df42c237f7743d9022dbf5d9744].
 
 (5) Case 1 is where—
 
-- (a) immediately before the relevant time, the lease is one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as a finance lease for accounting purposes, [^key-9cf55a3aa95090cc1031cb9aca48bcd0]...
-- (b) at the relevant time the lease becomes one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as not being a finance lease for accounting purposes and[^key-0c1745977be74a4fcd2d9815cad1b159]
+- (a) immediately before the relevant time, the lease is one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as a finance lease for accounting purposes, [^c-9cf55a3aa95090cc1031cb9aca48bcd0]...
+- (b) at the relevant time the lease becomes one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as not being a finance lease for accounting purposes and[^c-0c1745977be74a4fcd2d9815cad1b159]
 - (c) the change of classification is not a relevant change of classification.
 
 (6) Case 2 is where—
 
-- (a) immediately before the relevant time, the lease is one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as not being a finance lease for accounting purposes, [^key-16ca4b51d47bd7afee3db5f0c6b8b06c]...
-- (b) at the relevant time the lease becomes one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as a finance lease for accounting purposes and[^key-9b2def398298c1c72c452343bacb9c20]
+- (a) immediately before the relevant time, the lease is one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as not being a finance lease for accounting purposes, [^c-16ca4b51d47bd7afee3db5f0c6b8b06c]...
+- (b) at the relevant time the lease becomes one that falls (or would fall) to be treated in the relevant accounts in accordance with generally accepted accounting practice as a finance lease for accounting purposes and[^c-9b2def398298c1c72c452343bacb9c20]
 - (c) the change of classification is not a relevant change of classification.
 
-(6A)[^key-252ba9b32525d724c443ad1e0b01cf67] Case 3 is where—
+(6A)[^c-252ba9b32525d724c443ad1e0b01cf67] Case 3 is where—
 
 - (a) immediately before the relevant time, the lease is a right-of-use lease which is a long funding finance lease, and
 - (b) at the relevant time, the lease becomes one which—
@@ -70,7 +70,7 @@ but only to the extent that the treatment of the lease in those accounts as a fi
 
 (10) Subsections (2) and (3) of section 70N (finance lease test: group accounts, and generally accepted accounting practice for persons outside the charge to tax) also apply for the purposes of this section.
 
-(11)[^key-b609fffc8771b2c6500a2159c2e779b8] In this section—
+(11)[^c-b609fffc8771b2c6500a2159c2e779b8] In this section—
 
 - “**relevant change of classification**” means a change of accountancy classification as a result of the person adopting a different accounting standard or a change to an accounting standard, and
 - “**accounting standard**” means any accounting standard issued or recognised by—
@@ -79,22 +79,22 @@ but only to the extent that the treatment of the lease in those accounts as a fi
 
 ## Annotations
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
-[^key-8c199f9377f15d97f467a2fd2900a7d1]: Textual amendment: Words in s. 70YA(1)(b) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/a)
+[^c-8c199f9377f15d97f467a2fd2900a7d1]: Textual amendment: Words in s. 70YA(1)(b) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/a)
 
-[^key-226c978746336440439f45bb64dc971c]: Textual amendment: Words in s. 70YA(4) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/b/i)
+[^c-226c978746336440439f45bb64dc971c]: Textual amendment: Words in s. 70YA(4) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/b/i)
 
-[^key-5b255df42c237f7743d9022dbf5d9744]: Textual amendment: Words in s. 70YA(4) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/b/ii)
+[^c-5b255df42c237f7743d9022dbf5d9744]: Textual amendment: Words in s. 70YA(4) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/b/ii)
 
-[^key-9cf55a3aa95090cc1031cb9aca48bcd0]: Textual amendment: Word in s. 70YA(5)(a) omitted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/c/i)
+[^c-9cf55a3aa95090cc1031cb9aca48bcd0]: Textual amendment: Word in s. 70YA(5)(a) omitted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/c/i)
 
-[^key-0c1745977be74a4fcd2d9815cad1b159]: Textual amendment: S. 70YA(5)(c) and preceding word inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/c/ii)
+[^c-0c1745977be74a4fcd2d9815cad1b159]: Textual amendment: S. 70YA(5)(c) and preceding word inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/c/ii)
 
-[^key-16ca4b51d47bd7afee3db5f0c6b8b06c]: Textual amendment: Word in s. 70YA(6)(a) omitted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/d/i)
+[^c-16ca4b51d47bd7afee3db5f0c6b8b06c]: Textual amendment: Word in s. 70YA(6)(a) omitted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/d/i)
 
-[^key-9b2def398298c1c72c452343bacb9c20]: Textual amendment: S. 70YA(6)(c) and preceding word inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/d/ii)
+[^c-9b2def398298c1c72c452343bacb9c20]: Textual amendment: S. 70YA(6)(c) and preceding word inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/d/ii)
 
-[^key-252ba9b32525d724c443ad1e0b01cf67]: Textual amendment: S. 70YA(6A) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(e)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/e)
+[^c-252ba9b32525d724c443ad1e0b01cf67]: Textual amendment: S. 70YA(6A) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(e)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/e)
 
-[^key-b609fffc8771b2c6500a2159c2e779b8]: Textual amendment: S. 70YA(11) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(f)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/f)
+[^c-b609fffc8771b2c6500a2159c2e779b8]: Textual amendment: S. 70YA(11) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(4)(f)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/4/f)

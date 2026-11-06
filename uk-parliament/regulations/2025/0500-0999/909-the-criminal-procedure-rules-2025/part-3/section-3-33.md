@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.33. Place of Crown Court trial[^key-8679c4d40488ee60878f626f41400736]
+## 3.33. Place of Crown Court trial[^c-8679c4d40488ee60878f626f41400736]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8679c4d40488ee60878f626f41400736]: Commencement: [Rule 3.33](https://www.legislation.gov.uk/uksi/2025/909/rule/3.33) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8679c4d40488ee60878f626f41400736]: Commencement: [Rule 3.33](https://www.legislation.gov.uk/uksi/2025/909/rule/3.33) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00140]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 

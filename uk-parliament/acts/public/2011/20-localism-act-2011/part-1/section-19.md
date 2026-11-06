@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Orders under section 15: procedure[^key-be3aca96d2000b7f50f3e2961521b594]
+## 19. Orders under section 15: procedure[^c-be3aca96d2000b7f50f3e2961521b594]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ made during the 60-day period with regard to the draft order.
 
 ## Annotations
 
-[^key-be3aca96d2000b7f50f3e2961521b594]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/20/section/19) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/c)
+[^c-be3aca96d2000b7f50f3e2961521b594]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/20/section/19) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/c)

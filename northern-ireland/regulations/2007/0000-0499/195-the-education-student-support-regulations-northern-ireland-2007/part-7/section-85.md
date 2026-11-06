@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Availability of college fee loans[^key-7af9114fe54bb8289a1488c5eedec226]
+## 85. Availability of college fee loans[^c-7af9114fe54bb8289a1488c5eedec226]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7af9114fe54bb8289a1488c5eedec226]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2007/195/regulation/85) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-7af9114fe54bb8289a1488c5eedec226]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2007/195/regulation/85) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Power to acquire land[^key-9d53ee185dffbcf737f8e24424b23082]
+## 29. Power to acquire land[^c-9d53ee185dffbcf737f8e24424b23082]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d53ee185dffbcf737f8e24424b23082]: Commencement: Art. 29 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-9d53ee185dffbcf737f8e24424b23082]: Commencement: Art. 29 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

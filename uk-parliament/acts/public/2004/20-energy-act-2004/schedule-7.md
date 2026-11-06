@@ -24,7 +24,7 @@ Section 45
 
 ### Interpretation of Schedule
 
-**1.**[^key-ebad8cb04d1700aba217cbd6b736030e] (1) In this Schedule—
+**1.**[^c-ebad8cb04d1700aba217cbd6b736030e] (1) In this Schedule—
 
 - “**designated BNFL company**” means a company designated for the purposes of this Schedule by an order made by the Secretary of State;
 - “**transferee company**” means a body corporate which is—
@@ -53,11 +53,11 @@ were transferred (whether in accordance with a nuclear transfer scheme or otherw
 
 (6) References in this Schedule to a nuclear transfer scheme include references to any modification agreement (within the meaning of Schedule 5) relating to that scheme.
 
-(7) In this paragraph “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^key-0d3136cc66790e4ba039b14c0aea110a].
+(7) In this paragraph “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^c-0d3136cc66790e4ba039b14c0aea110a].
 
 ### Government lending to transferee companies
 
-**2.**[^key-f2ceaffc914093a8cecee141d3d1d46c] (1) Subject to paragraphs 5 and 6, the Secretary of State may, with the approval of the Treasury, make loans of such amounts as he thinks fit to—
+**2.**[^c-f2ceaffc914093a8cecee141d3d1d46c] (1) Subject to paragraphs 5 and 6, the Secretary of State may, with the approval of the Treasury, make loans of such amounts as he thinks fit to—
 
 - (a) a designated BNFL company which is publicly controlled; or
 - (b) a publicly controlled transferee company which is not a designated BNFL company.
@@ -72,11 +72,11 @@ were transferred (whether in accordance with a nuclear transfer scheme or otherw
 
 ### Guarantees for designated BNFL companies
 
-**3.**[^key-c04de29e9488b774ca1bc5ea58f6c272] Section 1 of the Nuclear Industry (Finance) Act 1977 (c. 7) (Government guarantees for BNFL) shall have effect as if the references to BNFL included references to any designated BNFL company that is publicly controlled at the time when the guarantee is given.
+**3.**[^c-c04de29e9488b774ca1bc5ea58f6c272] Section 1 of the Nuclear Industry (Finance) Act 1977 (c. 7) (Government guarantees for BNFL) shall have effect as if the references to BNFL included references to any designated BNFL company that is publicly controlled at the time when the guarantee is given.
 
 ### Government guarantees for loans of undesignated publicly controlled transferee companies
 
-**4.**[^key-80a5ea79e91e8cbb50fc386324667f8c] (1) Subject to paragraph 6, the Secretary of State may guarantee—
+**4.**[^c-80a5ea79e91e8cbb50fc386324667f8c] (1) Subject to paragraph 6, the Secretary of State may guarantee—
 
 - (a) the repayment of the principal of any sum borrowed otherwise than from him by a transferee company which is not a designated BNFL company but is publicly controlled at the time of the giving of the guarantee,
 - (b) the payment of interest on such a sum, and
@@ -112,7 +112,7 @@ were transferred (whether in accordance with a nuclear transfer scheme or otherw
 
 ### Financial limits of BNFL and publicly controlled companies that are designated
 
-**5.**[^key-c856bc23a37f8b4c1529e9a89418de3d] (1) Section 2 of the Nuclear Industry (Finance) Act 1977 (c. 7) (financial limits for BNFL) shall have effect—
+**5.**[^c-c856bc23a37f8b4c1529e9a89418de3d] (1) Section 2 of the Nuclear Industry (Finance) Act 1977 (c. 7) (financial limits for BNFL) shall have effect—
 
 - (a) as if the limit specified in subsection (1) of that section applied to BNFL and the designated BNFL companies, taken together, as it previously applied just to BNFL; and
 - (b) as if the amounts specified in sub-paragraph (2) were included, in the case of the application of subsection (1) of that section to BNFL and those companies, in the amounts specified in subsection (2) of that section.
@@ -143,7 +143,7 @@ were transferred (whether in accordance with a nuclear transfer scheme or otherw
 
 ### Financial limits for publicly controlled transferees that are not designated
 
-**6.**[^key-34b84f1a2d52efd7a80b65d9f697d424] (1) The aggregate amount outstanding by way of principal in respect of the amounts specified in sub-paragraph (2) must not exceed £100 million.
+**6.**[^c-34b84f1a2d52efd7a80b65d9f697d424] (1) The aggregate amount outstanding by way of principal in respect of the amounts specified in sub-paragraph (2) must not exceed £100 million.
 
 (2) Those amounts are—
 
@@ -180,7 +180,7 @@ shall not be taken into account.
 
 ### Temporary restrictions on borrowing of transferee companies
 
-**7.**[^key-204fc8703f2cfdc4d0fd4a97538b18b9] (1) This paragraph applies if the articles of association of a transferee company confer on a Minister of the Crown powers exercisable with the consent of the Treasury for, or in connection with, restricting the sums of money that may be borrowed or raised during any period by some or all of the members of the group to which that company belongs.
+**7.**[^c-204fc8703f2cfdc4d0fd4a97538b18b9] (1) This paragraph applies if the articles of association of a transferee company confer on a Minister of the Crown powers exercisable with the consent of the Treasury for, or in connection with, restricting the sums of money that may be borrowed or raised during any period by some or all of the members of the group to which that company belongs.
 
 (2) Those powers shall be exercisable in the national interest notwithstanding any rule of law or the provisions of any enactment.
 
@@ -198,7 +198,7 @@ shall not be taken into account.
 
 ### Statutory accounts of transferee companies
 
-**8.**[^key-0e75564446f5adc4a5fe437cc3c5dfea] (1) This paragraph has effect for the purposes of the statutory accounts of each of the following—
+**8.**[^c-0e75564446f5adc4a5fe437cc3c5dfea] (1) This paragraph has effect for the purposes of the statutory accounts of each of the following—
 
 - (a) a transferee company;
 - (b) a subsidiary of the UKAEA to which a transfer has been made in accordance with a nuclear transfer scheme;
@@ -217,37 +217,37 @@ the value or amount shall be taken to be the value or amount specified in or det
 
 - “**accounting year**”, in relation to a body corporate, means the period for which its annual accounts are prepared;
 - “**last accounting year**”, in relation to a nuclear transfer scheme, means the last complete accounting year ending before the scheme comes into force; and
-- “**statutory accounts**”, in relation to a company, means accounts of that company prepared for the purposes of a provision of the Companies Act 2006[^key-439b95209d54688f922933b071a368ef], including group accounts.
+- “**statutory accounts**”, in relation to a company, means accounts of that company prepared for the purposes of a provision of the Companies Act 2006[^c-439b95209d54688f922933b071a368ef], including group accounts.
 
 ### Accounts of Crown owned transferee companies to be laid before Parliament
 
-**9.**[^key-c630be568e8baf950f38bfb1107eb397] As soon as practicable after the holding of a general meeting of a transferee company which, at the time of the meeting, is wholly-owned by the Crown, a Minister of the Crown must lay before Parliament a copy of—
+**9.**[^c-c630be568e8baf950f38bfb1107eb397] As soon as practicable after the holding of a general meeting of a transferee company which, at the time of the meeting, is wholly-owned by the Crown, a Minister of the Crown must lay before Parliament a copy of—
 
-- (a) all accounts which, in accordance with a requirement of the Companies Act 2006[^key-df49ad1cc3b73b400d35b95c946c428b], are laid before the company at that meeting, and
+- (a) all accounts which, in accordance with a requirement of the Companies Act 2006[^c-df49ad1cc3b73b400d35b95c946c428b], are laid before the company at that meeting, and
 - (b) all documents which are annexed or attached to those accounts.
 
 ## Annotations
 
-[^key-ebad8cb04d1700aba217cbd6b736030e]: Commencement: Sch. 7 para. 1 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ebad8cb04d1700aba217cbd6b736030e]: Commencement: Sch. 7 para. 1 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-0d3136cc66790e4ba039b14c0aea110a]: Textual amendment: Words in Sch. 7 para. 1(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(9)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0d3136cc66790e4ba039b14c0aea110a]: Textual amendment: Words in Sch. 7 para. 1(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(9)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-f2ceaffc914093a8cecee141d3d1d46c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/2) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-f2ceaffc914093a8cecee141d3d1d46c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/2) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-c04de29e9488b774ca1bc5ea58f6c272]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/3) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c04de29e9488b774ca1bc5ea58f6c272]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/3) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-80a5ea79e91e8cbb50fc386324667f8c]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/4) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-80a5ea79e91e8cbb50fc386324667f8c]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/4) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-c856bc23a37f8b4c1529e9a89418de3d]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c856bc23a37f8b4c1529e9a89418de3d]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-34b84f1a2d52efd7a80b65d9f697d424]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/6) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-34b84f1a2d52efd7a80b65d9f697d424]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/6) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-204fc8703f2cfdc4d0fd4a97538b18b9]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-204fc8703f2cfdc4d0fd4a97538b18b9]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-0e75564446f5adc4a5fe437cc3c5dfea]: Commencement: Sch. 7 para. 8 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-0e75564446f5adc4a5fe437cc3c5dfea]: Commencement: Sch. 7 para. 8 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-439b95209d54688f922933b071a368ef]: Textual amendment: Words in Sch. 7 para. 8(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 229(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/229/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-439b95209d54688f922933b071a368ef]: Textual amendment: Words in Sch. 7 para. 8(4) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 229(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/229/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-c630be568e8baf950f38bfb1107eb397]: Commencement: Sch. 7 para. 9 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c630be568e8baf950f38bfb1107eb397]: Commencement: Sch. 7 para. 9 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-df49ad1cc3b73b400d35b95c946c428b]: Textual amendment: Words in [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/9/a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 229(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/229/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-df49ad1cc3b73b400d35b95c946c428b]: Textual amendment: Words in [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/9/a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 229(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/229/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

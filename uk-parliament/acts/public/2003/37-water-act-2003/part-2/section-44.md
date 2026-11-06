@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Provision of information to the Council[^key-8846d87b0bfd838061a56ab0ca3dae5a]
+## 44. Provision of information to the Council[^c-8846d87b0bfd838061a56ab0ca3dae5a]
 
 *Extent: E+W*
 
@@ -104,4 +104,4 @@ After section 27G of the WIA (which is inserted by section 43) there is inserted
 
 ## Annotations
 
-[^key-8846d87b0bfd838061a56ab0ca3dae5a]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2003/37/section/44) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-8846d87b0bfd838061a56ab0ca3dae5a]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2003/37/section/44) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

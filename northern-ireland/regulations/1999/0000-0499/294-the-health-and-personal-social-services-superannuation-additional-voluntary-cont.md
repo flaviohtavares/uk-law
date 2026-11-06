@@ -44,13 +44,13 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## PART I — Preliminary
 
-### 1. Citation, commencement and retrospective effect[^key-eb4d3a624e464bf0cc6eadb16e6033f9]
+### 1. Citation, commencement and retrospective effect[^c-eb4d3a624e464bf0cc6eadb16e6033f9]
 
 (1) These Regulations may be cited as the Health and Personal Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999.
 
 (2) These Regulations shall come into operation on 9th August 1999 and shall have effect from 1st February 1991[^f00005].
 
-### 2. Interpretation[^key-75ecfbf0d7414d82699b1d311671322b]
+### 2. Interpretation[^c-75ecfbf0d7414d82699b1d311671322b]
 
 (1) In these Regulations—
 
@@ -80,7 +80,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## PART II — Additional Voluntary Contributions
 
-### 3. Making and acceptance of elections[^key-0dde3948c2d76e02ea916bb8eb9facdf]
+### 3. Making and acceptance of elections[^c-0dde3948c2d76e02ea916bb8eb9facdf]
 
 (1) Subject to paragraph (3), a person in superannuable employment may elect to pay contributions under these Regulations—
 
@@ -111,7 +111,7 @@ and, subject to paragraph (5), shall be accepted by the Department.
 
 (7) For the purposes of paragraphs (1) and (6), an election shall have effect from the date when the Department accepts the election.
 
-### 4. Payment and amount of additional voluntary contributions[^key-7b21e230f58a17863726239704f46f59]
+### 4. Payment and amount of additional voluntary contributions[^c-7b21e230f58a17863726239704f46f59]
 
 (1) Contributions under these Regulations may be made by way of weekly, monthly or quarterly payments or by way of a single payment.
 
@@ -127,7 +127,7 @@ and, subject to paragraph (5), shall be accepted by the Department.
 
 (4) In the case of an election under regulation 3(1)(b) to provide for a lump sum death benefit, contributions payable by virtue of that election, or any election under regulation 3(6) or 5(2)(a), may not, at the date on which the Department accepts the election, be of such amount as to provide for a lump sum death benefit in excess of the permitted amount under paragraph 15(4) of the Schedule.
 
-### 5. Variation and cancellation of elections[^key-e038a66b82831bc72ebdf5d35890b645]
+### 5. Variation and cancellation of elections[^c-e038a66b82831bc72ebdf5d35890b645]
 
 (1) A contributor who has elected under regulation 3(1)(a) to pay contributions for the purpose of investment under regulation 7(1) may at any time by giving written notice to the Department—
 
@@ -143,7 +143,7 @@ and, subject to paragraph (5), shall be accepted by the Department.
 
 (3) The Department shall give effect as soon as is reasonably practicable to the terms of any notice given under this regulation.
 
-### 6. Circumstances in which elections cease to have effect[^key-54d5f6fea8ff132c689b0cb0f89a91d5]
+### 6. Circumstances in which elections cease to have effect[^c-54d5f6fea8ff132c689b0cb0f89a91d5]
 
 An election shall cease to have effect where a contributor—
 
@@ -152,13 +152,13 @@ An election shall cease to have effect where a contributor—
 - (c) ceases to be in superannuable employment by virtue of an election under regulation 9 of the 1995 Regulations (Opting out of the scheme); or
 - (d) ceases to receive tax relief under section 594(1) of the Taxes Act (exempt statutory schemes) or otherwise in respect of contributions paid under regulation 10 of the 1995 Regulations (Contributions by members).
 
-### 7. Investment of additional voluntary contributions[^key-a2a2d18c6f88f2b8d2c6909b9d71ca02]
+### 7. Investment of additional voluntary contributions[^c-a2a2d18c6f88f2b8d2c6909b9d71ca02]
 
 (1) Any contributions paid in respect of a contributor for investment under this paragraph shall be invested by the Department in accordance with any notice under regulation 3(4) or 5(1).
 
 (2) Any contributions paid in respect of a contributor to provide for a lump sum death benefit under this paragraph shall be paid by the Department to an insurance company selected by it so as to secure the payment of a lump sum death benefit of the amount required by any notice under regulation 3(4) or 5(2).
 
-### 8. Inward transfers[^key-252777a2817ac2d99a78f2f5563fdee7]
+### 8. Inward transfers[^c-252777a2817ac2d99a78f2f5563fdee7]
 
 (1) Where a person who enters superannuable employment has during any previous employment paid contributions to—
 
@@ -171,7 +171,7 @@ that person, whether or not he becomes a contributor within the meaning of these
 
 (3) Where a transfer value is invested under paragraph (2) the person may at any time, by giving written notice to the Department, require the Department to realise the whole or part of the sums so invested and to reinvest the proceeds in a different way.
 
-### 9. Inward transfers: mis-sold pensions[^key-10fafad8f68c0fe1210674c25ce4fd8a]
+### 9. Inward transfers: mis-sold pensions[^c-10fafad8f68c0fe1210674c25ce4fd8a]
 
 (1) This Regulation shall apply to a person to whom regulation 9A[^f00012] (Opting into the Scheme: Mis-sold Pensions) of the 1995 Regulations applies in respect of whom a transfer payment within the meaning of regulation 62A[^f00013] (Transfers in respect of members to whom regulation 9A applies who elect to join or rejoin the scheme) of those Regulations has been paid by a personal pension scheme to the Department.
 
@@ -191,7 +191,7 @@ that person, whether or not he becomes a contributor within the meaning of these
 - “opted-out service” means the period of HPSS employment in respect of which the Department has approved an additional period of superannuable service for the purposes of regulation 62A(2)(i) of the 1995 Regulations; and
 - “personal pension scheme” has the meaning given by section 1 of the Pensions Schemes (Northern Ireland) Act 1993.
 
-### 10. Outward transfers[^key-9a0b6712f5c71dd390a6a561151c5eab]
+### 10. Outward transfers[^c-9a0b6712f5c71dd390a6a561151c5eab]
 
 (1) Subject to paragraph (2), the Department shall, in circumstances where a transfer payment in respect of a person is provided and used in accordance with regulation 53 of the 1995 Regulations (Member’s right to transfer or buy-out), pay a transfer value representing the value of investments made under regulation 7(1), 8(2) or 9(4) at that person’s option to one of the following schemes in which the person may be participating—
 
@@ -210,7 +210,7 @@ that person, whether or not he becomes a contributor within the meaning of these
 
 ## PART III — Provision of Benefits
 
-### 11. Retirement and dependant’s pensions[^key-659d288d12c13d14d5fa7e03d2b5ee35]
+### 11. Retirement and dependant’s pensions[^c-659d288d12c13d14d5fa7e03d2b5ee35]
 
 (1) Subject to paragraph (7) and regulation 15(9) and (10), the proceeds of any investment made under regulation 7(1), 8(2) or 9(4) may be used only for the purchase from an insurance company of an annuity which complies with the requirements of paragraph (2).
 
@@ -243,13 +243,13 @@ that person, whether or not he becomes a contributor within the meaning of these
 
 (8) If the benefits provided by the annuity, purchased in accordance with paragraph (5), when aggregated with the benefits payable under the 1995 Regulations arising from the participator’s superannuable service, do not exceed any amount prescribed by regulations for the time being in force under section 17(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00016], the authorised provider may discharge the liability for payment of the benefits under the annuity by payment of a lump sum representing their capital value.
 
-### 12. Lump sums on death[^key-c3487c2af1e63f94f02533b15bd1bc2b]
+### 12. Lump sums on death[^c-c3487c2af1e63f94f02533b15bd1bc2b]
 
 (1) Subject to paragraph (2), if a contributor who has elected under regulation 3(1)(b) to pay contributions to provide for a lump sum death benefit dies, the lump sum shall be payable.
 
 (2) Any lump sum payable under paragraph (1) shall not exceed the permitted amount specified in paragraph 15(4) of the Schedule.
 
-### 13. Benefit limits[^key-6d642d13821d0ad4cb605d0543ba175c]
+### 13. Benefit limits[^c-6d642d13821d0ad4cb605d0543ba175c]
 
 (1) The Schedule shall have effect for limiting the benefits that may be paid under these Regulations.
 
@@ -264,7 +264,7 @@ since the date on which the pension became payable,
 
 ## PART IV — Miscellaneous Provisions
 
-### 14. Repayment of investments in certain cases[^key-4c1af3cd964dc1e26cef79e95ac6e266]
+### 14. Repayment of investments in certain cases[^c-4c1af3cd964dc1e26cef79e95ac6e266]
 
 (1) In the case of a person who—
 
@@ -276,7 +276,7 @@ the Department shall make arrangements for that person, subject to paragraph (2)
 
 (2) Where, in the circumstances mentioned in paragraph (1), contributions have been made by an employer, the Department shall make arrangements for that employer to receive a lump sum representing the total realisable value of the investments made by the Department in respect of contributions made by that employer under regulation 7(1) less the amount of tax chargeable under section 601 of the Taxes Act (charge to tax: payment to employers).
 
-### 15. Payments by the Department[^key-d10c8b898e3d29129fda7c3d6b796d26]
+### 15. Payments by the Department[^c-d10c8b898e3d29129fda7c3d6b796d26]
 
 (1) Subject to paragraph (2), where an authorised provider fails to pay any amount due under an annuity or lump sum death benefit provided in accordance with these Regulations, the Department shall be liable to pay that amount.
 
@@ -311,7 +311,7 @@ provided that—
 
 (10) In the case of a participator to whom regulation 13(7) or 17(5) of the 1995 Regulations applies (early retirement on grounds of ill-health), the Department may realise the investments made under these Regulations without purchasing an annuity and, in that event, the proceeds shall be payable as a lump sum less any charge to tax under section 599 of the Taxes Act.
 
-### 16. Information[^key-6cd84c9015ed50a15cd4db2638b177a4]
+### 16. Information[^c-6cd84c9015ed50a15cd4db2638b177a4]
 
 (1) A person making an election under these Regulations, and his employers, shall give the Department such information it may reasonably require for the purposes of its functions under these Regulations.
 
@@ -322,7 +322,7 @@ provided that—
 
 shall, in particular, give the Department such information about his health as it may reasonably require.
 
-### 17. Payments in respect of deceased persons[^key-bed72168622872bd193c0450c9fadfe5]
+### 17. Payments in respect of deceased persons[^c-bed72168622872bd193c0450c9fadfe5]
 
 (1) This regulation applies where a person dies and the total of—
 
@@ -338,21 +338,21 @@ does not exceed the amount specified in any order for the time being in force fo
 
 any any person to whom such a payment is made, and not the Department, shall thereafter be liable to account for any amount paid.
 
-### 18. Benefits not assignable on bankruptcy[^key-0467401a7d8096ab4591ba1f278cf98f]
+### 18. Benefits not assignable on bankruptcy[^c-0467401a7d8096ab4591ba1f278cf98f]
 
 (1) On the bankruptcy of any person entitled to benefit under these Regulations, no part of the benefit shall be paid to any trustee or any other person acting on behalf of creditors, except as provided for in paragraph (2).
 
 (2) Where, following the bankruptcy of any person entitled to benefits under these Regulations, the court makes an income payments order under Article 283 of the Insolvency (Northern Ireland) Order 1989[^f00020] that requires the Department to pay all or part of the benefit to the person’s trustee in bankruptcy, the Department shall comply with that order.
 
-### 19. Offset for crime, negligence or fraud[^key-897f77b390a5f4838ad80d8678264bc6]
+### 19. Offset for crime, negligence or fraud[^c-897f77b390a5f4838ad80d8678264bc6]
 
 Where, in the circumstances set out in regulation 92 of the 1995 Regulations, there has been a loss to public funds, the Department may, in relation to benefits which arise by virtue of the employer’s contributions, reduce the amount of any benefit payable to or in respect of a person under these Regulations, to the extent set out, and subject to the conditions specified in that regulation.
 
-### 20. Loss of rights to benefit[^key-d2b6c64a8d93756de66b6f7b3986cdbc]
+### 20. Loss of rights to benefit[^c-d2b6c64a8d93756de66b6f7b3986cdbc]
 
 Where the circumstances are such that a direction may be made by the Department under regulation 93 of the 1995 Regulations, the Department may direct that all or part of any rights to benefit under these Regulations which arise by virtue of the employer’s contributions be forfeited.
 
-### 21. Determination of questions[^key-1ffff1628b16757ec0c78a10f4e2bc77]
+### 21. Determination of questions[^c-1ffff1628b16757ec0c78a10f4e2bc77]
 
 Any question arising under these Regulations as to the rights or liabilities of any person shall be determined by the Department.
 
@@ -380,16 +380,16 @@ Regulations 4(4), 11(7), 12(2), 13(1) and (2) and 15(5) and (6)
 
 ### PART I — Interpretation
 
-**1.**[^key-bff13f223ca88a49f9da6902169b806f] Paragraphs 2 to 6 have effect for defining expressions used in this Schedule.
+**1.**[^c-bff13f223ca88a49f9da6902169b806f] Paragraphs 2 to 6 have effect for defining expressions used in this Schedule.
 
-**2.**[^key-237c8cc8e8f1a6f844d1fda5553f50f5] “Adjusted salary” means A + B, where—
+**2.**[^c-237c8cc8e8f1a6f844d1fda5553f50f5] “Adjusted salary” means A + B, where—
 
 - A is the participator’s total taxable salary for the year in question less any fluctuating emoluments such as bonus payments and payments for overtime, and
 - B is the annual average of such fluctuating emoluments. For these purposes such emoluments shall be averaged—
   - (i) over a period of whole years, not being less than 3 consecutive years, ending on the last day of the year in question, or
   - (ii) in a case where such emoluments have been paid for a period of less than 3 years, over the period during which they have been paid.
 
-**3.**[^key-c679458d26e416b455bf4507a1dcecc5] (1) “Final remuneration” means, subject to sub-paragraphs (2) and (3), the greater of C and D, where—
+**3.**[^c-c679458d26e416b455bf4507a1dcecc5] (1) “Final remuneration” means, subject to sub-paragraphs (2) and (3), the greater of C and D, where—
 
 - C is the participator’s highest year’s adjusted salary in respect of superannuable service during the period of 5 years ending on the material date; and
 - D is the average of the participator’s salary in respect of any period of 3 or more consecutive years ending no earlier than 10 years before the material date.
@@ -402,12 +402,12 @@ but, in respect of any year other than the one ending on the material date, the 
 
 (4) For the purposes of this paragraph, the Department shall select the years by reference to which the participators final renumeration shall be calculated and the years selected shall be those which produce the most favourable result to the participator.
 
-**4.**[^key-38a874bb00f44309eec229ea33470e41] “Material date” means the earlier of—
+**4.**[^c-38a874bb00f44309eec229ea33470e41] “Material date” means the earlier of—
 
 - (a) the participator’s retirement date;
 - (b) the date on which the participator ceased to be in superannuable employment.
 
-**5.**[^key-a3ab8fec797de1161d98095abda5f590] (1) “Retained benefits” means the total of any pensions payable to the participator, in respect of employment before the participator entered superannuable employment, under—
+**5.**[^c-a3ab8fec797de1161d98095abda5f590] (1) “Retained benefits” means the total of any pensions payable to the participator, in respect of employment before the participator entered superannuable employment, under—
 
 - (a) a retirement benefits scheme or under an annuity contract falling within section 431(4)(d) of the Taxes Act (interpretative provisions relating to insurance companies);
 - (b) a retirement annuity contract or trust scheme under Chapter III of Part XIV of the Taxes Act;
@@ -417,7 +417,7 @@ but, in respect of any year other than the one ending on the material date, the 
 
 (2) In this paragraph “pension” includes the actuarial equivalent as an annual pension, as determined by the Inland Revenue Pensions Schemes Office, of any lump sum.
 
-**6.**[^key-a6e8782952220ab04d19ced0c188d76f] “Total retirement benefits” means the total of so much of—
+**6.**[^c-a6e8782952220ab04d19ced0c188d76f] “Total retirement benefits” means the total of so much of—
 
 - (a) the annual rate of the participator’s retirement pension under these Regulations;
 - (b) the annual rate of any pension payable under 12 to 17 of the 1995 Regulations;
@@ -429,9 +429,9 @@ as is attributable to contributions, including any contributions made by the emp
 
 ### PART II — Retirement pensions
 
-**7.**[^key-465d71764e513bf0811befcc3b3707be] The annual rate of a participator’s retirement pension under these Regulations must not be such as to cause the participator’s total retirement benefits to exceed the permitted amount.
+**7.**[^c-465d71764e513bf0811befcc3b3707be] The annual rate of a participator’s retirement pension under these Regulations must not be such as to cause the participator’s total retirement benefits to exceed the permitted amount.
 
-**8.**[^key-d5ed3c3949527c63026cb2c81628d0af] (1) If the participator becomes entitled to a pension under regulation 12 of the 1995 Regulations on his 60th birthday, the permitted amount is the greater of E and F, where—
+**8.**[^c-d5ed3c3949527c63026cb2c81628d0af] (1) If the participator becomes entitled to a pension under regulation 12 of the 1995 Regulations on his 60th birthday, the permitted amount is the greater of E and F, where—
 
 - E is 1/60th of the participator’s final renumeration for each of up to 40 years of superannuable service; and
 - F is the lesser of G and H.
@@ -456,13 +456,13 @@ as is attributable to contributions, including any contributions made by the emp
   - (ii) in any other case, is 1/30th of the participator’s final renumeration for each of up to 20 years of superannuable service; and
 - (b) H is 2/3rds of the participator’s final renumeration less any retained benefits.
 
-**9.**[^key-fab958dc4401a213d7c2b8d9e5452f81] If the participator becomes entitled to a pension under regulation 12 of the 1995 Regulations on a date later than his 60th Birthday, the permitted amount is the greater of J, K and, where applicable L. where—
+**9.**[^c-fab958dc4401a213d7c2b8d9e5452f81] If the participator becomes entitled to a pension under regulation 12 of the 1995 Regulations on a date later than his 60th Birthday, the permitted amount is the greater of J, K and, where applicable L. where—
 
 - J is an amount calculated in accordance with paragraph 8 at the material date;
 - K is an amount calculated in accordance with paragraph 8 as at the participator’s 60th birthday increased, up to the date of his retirement, either in proportion to any increase in the Index during that period or actuarially in respect of that period; and
 - L is, in the case of a participator with more than 40 years superannuable service, 1/60th of his final renumeration for each of up to a maximum of 45 years of superannuable service, excluding any years before the participator’s 60th birthday in excess of 40.
 
-**10.**[^key-3f5dd73fb9bf23c6787e50ece3d30a12] (1) If the participator becomes entitled to a pension under regulation 49 of the 1995 Regulations on or after his 60th birthday, the permitted amount is—
+**10.**[^c-3f5dd73fb9bf23c6787e50ece3d30a12] (1) If the participator becomes entitled to a pension under regulation 49 of the 1995 Regulations on or after his 60th birthday, the permitted amount is—
 
 - (a) where the participator first entered superannuable employment before 1st June 1989, the greater of—
 
@@ -479,11 +479,11 @@ as is attributable to contributions, including any contributions made by the emp
 
 (2) For the purposes of sub-paragraph (1) the appropriate increase is an increase in the amount in question in proportion to any increase in the Index, from the cessation of superannuable employment to the date of payment of retiring allowances.
 
-**11.**[^key-e1f6b73d55f0293078c5c43b549a5fa6] Paragraphs 8 to 10 in their application to persons who are special class officers or mental health officers for the purposes of regulations 75 and 76 of the 1995 Regulations shall have effect subject to the modification that 55th birthday shall be substituted for 60th birthday and age 55 shall be substituted for age 60.
+**11.**[^c-e1f6b73d55f0293078c5c43b549a5fa6] Paragraphs 8 to 10 in their application to persons who are special class officers or mental health officers for the purposes of regulations 75 and 76 of the 1995 Regulations shall have effect subject to the modification that 55th birthday shall be substituted for 60th birthday and age 55 shall be substituted for age 60.
 
-**12.**[^key-16a0bc74578d11e4543feedeae6a096f] If the participator becomes entitled to a pension under regulation 13 of the 1995 Regulations (Early retirement pension on the grounds of ill health), the permitted amount is that fraction of the participator’s final renumeration which, in accordance with paragraph 8, he could have received had he remained in superannuable employment until his 60th birthday.
+**12.**[^c-16a0bc74578d11e4543feedeae6a096f] If the participator becomes entitled to a pension under regulation 13 of the 1995 Regulations (Early retirement pension on the grounds of ill health), the permitted amount is that fraction of the participator’s final renumeration which, in accordance with paragraph 8, he could have received had he remained in superannuable employment until his 60th birthday.
 
-**13.**[^key-2d2eab9422a0e67814ce935195cdae38] If the participator becomes entitled to a pension under regulation 14 (Early retirement pension in respect of redundancy), 15 (Early retirement pension with employer’s consent) or 16 (Early retirement pension with actuarial reduction) of the 1995 Regulations, the permitted amount is—
+**13.**[^c-2d2eab9422a0e67814ce935195cdae38] If the participator becomes entitled to a pension under regulation 14 (Early retirement pension in respect of redundancy), 15 (Early retirement pension with employer’s consent) or 16 (Early retirement pension with actuarial reduction) of the 1995 Regulations, the permitted amount is—
 
 - (a) where the participator first entered superannuable employment before 1st June 1989, the greater of—
 
@@ -494,7 +494,7 @@ as is attributable to contributions, including any contributions made by the emp
 
 ### PART III — Dependants' Pensions
 
-**14.**[^key-511d235f0b815f5c0768ee1080bc3877] (1) The annual rate of a dependants' pension under these Regulations, or where more than one such pension is payable the total of their annual rates, must not be such as to cause the total of the annual rates of the relevant benefits to exceed the permitted amount.
+**14.**[^c-511d235f0b815f5c0768ee1080bc3877] (1) The annual rate of a dependants' pension under these Regulations, or where more than one such pension is payable the total of their annual rates, must not be such as to cause the total of the annual rates of the relevant benefits to exceed the permitted amount.
 
 (2) Where only one dependant’s pension is payable, the relevant benefits are—
 
@@ -521,7 +521,7 @@ and the permitted amount is the annual rate of the maximum retirement pension.
 
 ### PART IV — Lump Sums on Death
 
-**15.**[^key-d02c6107ecb2ccbc0b83bea0837677be] (1) The lump sum payable under regulation 11(7) must not be such as to cause the total lump sums payable on death to exceed the total realisable value of the investments made by the Department under regulations 7(1), 8(2) or 9(4) in respect of contributions made by the participator.
+**15.**[^c-d02c6107ecb2ccbc0b83bea0837677be] (1) The lump sum payable under regulation 11(7) must not be such as to cause the total lump sums payable on death to exceed the total realisable value of the investments made by the Department under regulations 7(1), 8(2) or 9(4) in respect of contributions made by the participator.
 
 (2) The total lump sums payable on death are the total of—
 
@@ -602,11 +602,11 @@ Regulation 21 provides for the determination of questions by the Department.
 
 [^f00004]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073) as amended by S.I. [1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509)
 
-[^key-eb4d3a624e464bf0cc6eadb16e6033f9]: Commencement: Reg. 1 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-eb4d3a624e464bf0cc6eadb16e6033f9]: Commencement: Reg. 1 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00005]: Footnote: *See* Article 14(1) of the Superannuation (Northern Ireland) Order 1972, which provides that certain regulations may be framed so as to have effect from a date earlier than that of their making
 
-[^key-75ecfbf0d7414d82699b1d311671322b]: Commencement: Reg. 2 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-75ecfbf0d7414d82699b1d311671322b]: Commencement: Reg. 2 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95) as amended by [S.R. 1997 No. 217](https://www.legislation.gov.uk/nisr/1997/217); [S.R. 1997 No. 390](https://www.legislation.gov.uk/nisr/1997/390) and [S.R. 1998 No. 299](https://www.legislation.gov.uk/nisr/1998/299)
 
@@ -620,88 +620,88 @@ Regulation 21 provides for the determination of questions by the Department.
 
 [^f00011]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-0dde3948c2d76e02ea916bb8eb9facdf]: Commencement: Reg. 3 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-0dde3948c2d76e02ea916bb8eb9facdf]: Commencement: Reg. 3 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-7b21e230f58a17863726239704f46f59]: Commencement: Reg. 4 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-7b21e230f58a17863726239704f46f59]: Commencement: Reg. 4 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-e038a66b82831bc72ebdf5d35890b645]: Commencement: Reg. 5 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-e038a66b82831bc72ebdf5d35890b645]: Commencement: Reg. 5 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-54d5f6fea8ff132c689b0cb0f89a91d5]: Commencement: Reg. 6 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-54d5f6fea8ff132c689b0cb0f89a91d5]: Commencement: Reg. 6 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-a2a2d18c6f88f2b8d2c6909b9d71ca02]: Commencement: Reg. 7 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-a2a2d18c6f88f2b8d2c6909b9d71ca02]: Commencement: Reg. 7 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-252777a2817ac2d99a78f2f5563fdee7]: Commencement: Reg. 8 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-252777a2817ac2d99a78f2f5563fdee7]: Commencement: Reg. 8 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-10fafad8f68c0fe1210674c25ce4fd8a]: Commencement: Reg. 9 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-10fafad8f68c0fe1210674c25ce4fd8a]: Commencement: Reg. 9 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00012]: Footnote: Regulation 9A was inserted by [S.I. 1997 No. 217](https://www.legislation.gov.uk/uksi/1997/217), regulation 4
 
 [^f00013]: Footnote: Regulation 62A was inserted by [S.I. 1997 No. 217](https://www.legislation.gov.uk/uksi/1997/217), regulation 6(3)
 
-[^key-9a0b6712f5c71dd390a6a561151c5eab]: Commencement: Reg. 10 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-9a0b6712f5c71dd390a6a561151c5eab]: Commencement: Reg. 10 in operation at 9.8.1999 with effect from 01.02.1991 , see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00014]: Footnote: Section 89A was inserted by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) Article 149
 
-[^key-659d288d12c13d14d5fa7e03d2b5ee35]: Commencement: Reg. 11 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-659d288d12c13d14d5fa7e03d2b5ee35]: Commencement: Reg. 11 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00016]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-c3487c2af1e63f94f02533b15bd1bc2b]: Commencement: Reg. 12 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-c3487c2af1e63f94f02533b15bd1bc2b]: Commencement: Reg. 12 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-6d642d13821d0ad4cb605d0543ba175c]: Commencement: Reg. 13 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-6d642d13821d0ad4cb605d0543ba175c]: Commencement: Reg. 13 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00017]: Footnote: S.I. [1993/3016](https://www.legislation.gov.uk/uksi/1993/3016).
 
-[^key-4c1af3cd964dc1e26cef79e95ac6e266]: Commencement: Reg. 14 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-4c1af3cd964dc1e26cef79e95ac6e266]: Commencement: Reg. 14 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-d10c8b898e3d29129fda7c3d6b796d26]: Commencement: Reg. 15 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-d10c8b898e3d29129fda7c3d6b796d26]: Commencement: Reg. 15 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00018]: Footnote: Section 599A was inserted by section 75 of, and paragraph 12 of Schedule 6 to, the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
-[^key-6cd84c9015ed50a15cd4db2638b177a4]: Commencement: Reg. 16 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-6cd84c9015ed50a15cd4db2638b177a4]: Commencement: Reg. 16 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-bed72168622872bd193c0450c9fadfe5]: Commencement: Reg. 17 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-bed72168622872bd193c0450c9fadfe5]: Commencement: Reg. 17 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00019]: Footnote: [1967 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1967/5). The amount specified in [S.R. 1984 No. 336](https://www.legislation.gov.uk/nisr/1984/336) as amended by [S.R. 1988 No. 271](https://www.legislation.gov.uk/nisr/1988/271) is £5,000
 
-[^key-0467401a7d8096ab4591ba1f278cf98f]: Commencement: Reg. 18 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-0467401a7d8096ab4591ba1f278cf98f]: Commencement: Reg. 18 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00020]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-897f77b390a5f4838ad80d8678264bc6]: Commencement: Reg. 19 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-897f77b390a5f4838ad80d8678264bc6]: Commencement: Reg. 19 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-d2b6c64a8d93756de66b6f7b3986cdbc]: Commencement: Reg. 20 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-d2b6c64a8d93756de66b6f7b3986cdbc]: Commencement: Reg. 20 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-1ffff1628b16757ec0c78a10f4e2bc77]: Commencement: Reg. 21 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-1ffff1628b16757ec0c78a10f4e2bc77]: Commencement: Reg. 21 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-bff13f223ca88a49f9da6902169b806f]: Commencement: Sch. para. 1 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-bff13f223ca88a49f9da6902169b806f]: Commencement: Sch. para. 1 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-237c8cc8e8f1a6f844d1fda5553f50f5]: Commencement: Sch. para. 2 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-237c8cc8e8f1a6f844d1fda5553f50f5]: Commencement: Sch. para. 2 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-c679458d26e416b455bf4507a1dcecc5]: Commencement: Sch. para. 3 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-c679458d26e416b455bf4507a1dcecc5]: Commencement: Sch. para. 3 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
 [^f00021]: Footnote: Section 590C was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), Schedule 6, paragraph 4
 
-[^key-38a874bb00f44309eec229ea33470e41]: Commencement: Sch. para. 4 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-38a874bb00f44309eec229ea33470e41]: Commencement: Sch. para. 4 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-a3ab8fec797de1161d98095abda5f590]: Commencement: Sch. para. 5 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-a3ab8fec797de1161d98095abda5f590]: Commencement: Sch. para. 5 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-a6e8782952220ab04d19ced0c188d76f]: Commencement: Sch. para. 6 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-a6e8782952220ab04d19ced0c188d76f]: Commencement: Sch. para. 6 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-465d71764e513bf0811befcc3b3707be]: Commencement: Sch. para. 7 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-465d71764e513bf0811befcc3b3707be]: Commencement: Sch. para. 7 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-d5ed3c3949527c63026cb2c81628d0af]: Commencement: Sch. para. 8 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-d5ed3c3949527c63026cb2c81628d0af]: Commencement: Sch. para. 8 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-fab958dc4401a213d7c2b8d9e5452f81]: Commencement: Sch. para. 9 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-fab958dc4401a213d7c2b8d9e5452f81]: Commencement: Sch. para. 9 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-3f5dd73fb9bf23c6787e50ece3d30a12]: Commencement: Sch. para. 10 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-3f5dd73fb9bf23c6787e50ece3d30a12]: Commencement: Sch. para. 10 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-e1f6b73d55f0293078c5c43b549a5fa6]: Commencement: Sch. para. 11 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-e1f6b73d55f0293078c5c43b549a5fa6]: Commencement: Sch. para. 11 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-16a0bc74578d11e4543feedeae6a096f]: Commencement: Sch. para. 12 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-16a0bc74578d11e4543feedeae6a096f]: Commencement: Sch. para. 12 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-2d2eab9422a0e67814ce935195cdae38]: Commencement: Sch. para. 13 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-2d2eab9422a0e67814ce935195cdae38]: Commencement: Sch. para. 13 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-511d235f0b815f5c0768ee1080bc3877]: Commencement: Sch. para. 14 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-511d235f0b815f5c0768ee1080bc3877]: Commencement: Sch. para. 14 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
 
-[^key-d02c6107ecb2ccbc0b83bea0837677be]: Commencement: Sch. para. 15 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)
+[^c-d02c6107ecb2ccbc0b83bea0837677be]: Commencement: Sch. para. 15 in operation at 9.8.1999 with effect from 01.02.1991, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1999/294/regulation/1/2)

@@ -54,11 +54,11 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 A draft of this instrument was laid before Parliament in accordance with section 11(3) of the Social Security Fraud Act 2001[^f00008] and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-aa06c191de0c782a30cb5e77752b1e2e]
+## 1. Citation and commencement[^c-aa06c191de0c782a30cb5e77752b1e2e]
 
 These Regulations may be cited as the Social Security (Loss of Benefit) Amendment Regulations 2010 and shall come into force on 1st April 2010.
 
-## 2. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^key-e91b0cf1f3f3c653548073b987ae05fd]
+## 2. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^c-e91b0cf1f3f3c653548073b987ae05fd]
 
 (1) The Social Security (Loss of Benefit) Regulations 2001[^f00009] are amended as follows.
 
@@ -196,7 +196,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (12) In regulation 20 (deductions from benefits) before “7” insert “6B,”.
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-21552a35d0d7db6695c957d23f763cbb]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-21552a35d0d7db6695c957d23f763cbb]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00014] are amended as follows.
 
@@ -235,7 +235,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 .
 
-## 4. Amendment of the Housing Benefit Regulations 2006[^key-e8917aca8234d2588dab838b01a6516e]
+## 4. Amendment of the Housing Benefit Regulations 2006[^c-e8917aca8234d2588dab838b01a6516e]
 
 (1) The Housing Benefit Regulations 2006[^f00019] are amended as follows.
 
@@ -243,7 +243,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In Schedule 3 (applicable amounts), in paragraph 14(7) (severe disability premium) after “section” insert “6B or”.
 
-## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-dc919b6955191595935ed9375d01912b]
+## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-dc919b6955191595935ed9375d01912b]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00020] are amended as follows.
 
@@ -251,7 +251,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In Schedule 3 (applicable amounts), in paragraph 6(8)(b) (severe disability premium) after “section” insert “6B or”.
 
-## 6. Amendment of the Council Tax Benefit Regulations 2006[^key-231800bf2aca63b4174527a0e669af38]
+## 6. Amendment of the Council Tax Benefit Regulations 2006[^c-231800bf2aca63b4174527a0e669af38]
 
 (1) The Council Tax Benefit Regulations 2006[^f00021] are amended as follows.
 
@@ -259,7 +259,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In Schedule 1 (applicable amounts), in paragraph 14(7) (severe disability premium) after “section” insert “6B or”.
 
-## 7. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-b3b52d53aeb393444b3dfea47ea52f33]
+## 7. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-b3b52d53aeb393444b3dfea47ea52f33]
 
 (1) The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00022] are amended as follows.
 
@@ -267,13 +267,13 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In Schedule 1 (applicable amounts), in paragraph 6(8)(b) (severe disability premium) after “section” insert “6B or”.
 
-## 8. Amendment of the Discretionary Financial Assistance Regulations 2001[^key-eb754c99cfbf0dcabc9934e720974322]
+## 8. Amendment of the Discretionary Financial Assistance Regulations 2001[^c-eb754c99cfbf0dcabc9934e720974322]
 
-(1 (Extent: E) (affected by repeal, see note))[^key-8a79e576b590b931c200ef06f64ed8de] The Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-8a79e576b590b931c200ef06f64ed8de][^f00023] are amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^key-8a79e576b590b931c200ef06f64ed8de]
+(1 (Extent: E) (affected by repeal, see note))[^c-8a79e576b590b931c200ef06f64ed8de] The Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-8a79e576b590b931c200ef06f64ed8de][^f00023] are amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^c-8a79e576b590b931c200ef06f64ed8de]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-8a79e576b590b931c200ef06f64ed8de] In regulation 3 *(Extent: E)* *(affected by repeal, see note)*[^key-8a79e576b590b931c200ef06f64ed8de][^f00024] (circumstances in which discretionary housing payments may be made), in paragraph (l), after the second mention of “section” insert “6B,”. *(Extent: E)* *(affected by repeal, see note)*[^key-8a79e576b590b931c200ef06f64ed8de]
+(2 (Extent: E) (affected by repeal, see note))[^c-8a79e576b590b931c200ef06f64ed8de] In regulation 3 *(Extent: E)* *(affected by repeal, see note)*[^c-8a79e576b590b931c200ef06f64ed8de][^f00024] (circumstances in which discretionary housing payments may be made), in paragraph (l), after the second mention of “section” insert “6B,”. *(Extent: E)* *(affected by repeal, see note)*[^c-8a79e576b590b931c200ef06f64ed8de]
 
-## 9. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^key-da1e963418394cc73ee82713da277d81]
+## 9. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^c-da1e963418394cc73ee82713da277d81]
 
 (1) The Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^f00025] are amended as follows.
 
@@ -297,7 +297,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (4) In regulation 8(9)[^f00028] (date from which a decision superseding an earlier decision takes effect) after “section” insert “6B or”.
 
-## 10. Amendment of the Income Support (General) Regulations 1987[^key-9034aba28ecd44cfc158f716804c1a49]
+## 10. Amendment of the Income Support (General) Regulations 1987[^c-9034aba28ecd44cfc158f716804c1a49]
 
 (1) The Income Support (General) Regulations 1987[^f00029] are amended as follows.
 
@@ -305,7 +305,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In Schedule 2 (applicable amounts) in paragraph 13(5)[^f00031] (severe disability premium) after “section” insert “6B or”.
 
-## 11. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-8233147a196e99b24f9aea2edc630479]
+## 11. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-8233147a196e99b24f9aea2edc630479]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00032] are amended as follows.
 
@@ -316,7 +316,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 - (a) in paragraph 15(9)[^f00034] (severe disability premium) after “section” insert “6B or”;
 - (b) in paragraph 20I(7)[^f00035] (severe disability premium) after “section” insert “6B or”.
 
-## 12. Amendment of the Employment and Support Allowance Regulations 2008[^key-00bcd5baa8d1f8e76f40e1cb3eb729eb]
+## 12. Amendment of the Employment and Support Allowance Regulations 2008[^c-00bcd5baa8d1f8e76f40e1cb3eb729eb]
 
 (1) The Employment and Support Allowance Regulations 2008[^f00036] are amended as follows.
 
@@ -324,7 +324,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In Schedule 4 (amounts), in paragraph 6(8) of Part 2 (premiums) after “section” insert “6B or”.
 
-## 13. Amendment of the Social Security (Credits) Regulations 1975[^key-077b06f7969fad08d0f1356a4da6e779]
+## 13. Amendment of the Social Security (Credits) Regulations 1975[^c-077b06f7969fad08d0f1356a4da6e779]
 
 (1) The Social Security (Credits) Regulations 1975[^f00037] are amended as follows.
 
@@ -332,7 +332,7 @@ These Regulations may be cited as the Social Security (Loss of Benefit) Amendmen
 
 (3) In regulation 8A(2)(d)[^f00039] (credits for unemployment) after the second mention of “section” insert “6B,”.
 
-## 14. Amendment of the Pensions Appeal Tribunals (Additional Rights of Appeal) Regulations 2001[^key-cc3e5e7bc35e584c6cf6cc6a2f0efc6d]
+## 14. Amendment of the Pensions Appeal Tribunals (Additional Rights of Appeal) Regulations 2001[^c-cc3e5e7bc35e584c6cf6cc6a2f0efc6d]
 
 (1) The Pensions Appeal Tribunals (Additional Rights of Appeal) Regulations 2001[^f00040] are amended as follows.
 
@@ -394,9 +394,9 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00008]: Footnote: Section 11(3) was amended by paragraph 48 of Schedule 2 to the State Pension Credit Act 2002, paragraph 23(7) of Schedule 3 to the Welfare Reform Act 2007 and paragraph 6(3) of Schedule 4 to the Welfare Reform Act 2009.
 
-[^key-aa06c191de0c782a30cb5e77752b1e2e]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-aa06c191de0c782a30cb5e77752b1e2e]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
-[^key-e91b0cf1f3f3c653548073b987ae05fd]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-e91b0cf1f3f3c653548073b987ae05fd]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022).
 
@@ -408,7 +408,7 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00013]: Footnote: [S.I. 2007/2202](https://www.legislation.gov.uk/uksi/2007/2202).
 
-[^key-21552a35d0d7db6695c957d23f763cbb]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-21552a35d0d7db6695c957d23f763cbb]: Commencement: Reg. 3 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -420,31 +420,31 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00018]: Footnote: Relevant amending instruments are [S.I. 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022) and [2008/787](https://www.legislation.gov.uk/uksi/2008/787).
 
-[^key-e8917aca8234d2588dab838b01a6516e]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-e8917aca8234d2588dab838b01a6516e]: Commencement: Reg. 4 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
-[^key-dc919b6955191595935ed9375d01912b]: Commencement: Reg. 5 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-dc919b6955191595935ed9375d01912b]: Commencement: Reg. 5 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
-[^key-231800bf2aca63b4174527a0e669af38]: Commencement: Reg. 6 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-231800bf2aca63b4174527a0e669af38]: Commencement: Reg. 6 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00021]: Footnote: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
-[^key-b3b52d53aeb393444b3dfea47ea52f33]: Commencement: Reg. 7 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-b3b52d53aeb393444b3dfea47ea52f33]: Commencement: Reg. 7 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 
-[^key-eb754c99cfbf0dcabc9934e720974322]: Commencement: Reg. 8 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-eb754c99cfbf0dcabc9934e720974322]: Commencement: Reg. 8 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
-[^key-8a79e576b590b931c200ef06f64ed8de]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1160/regulation/8) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-8a79e576b590b931c200ef06f64ed8de]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1160/regulation/8) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00023]: Footnote: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
 
 [^f00024]: Footnote: Relevant amending instruments are [S.I. 2001/1711](https://www.legislation.gov.uk/uksi/2001/1711)and [2002/490](https://www.legislation.gov.uk/uksi/2002/490).
 
-[^key-da1e963418394cc73ee82713da277d81]: Commencement: Reg. 9 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-da1e963418394cc73ee82713da277d81]: Commencement: Reg. 9 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
@@ -454,7 +454,7 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00028]: Footnote: A relevant amending instrument is [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490).
 
-[^key-9034aba28ecd44cfc158f716804c1a49]: Commencement: Reg. 10 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-9034aba28ecd44cfc158f716804c1a49]: Commencement: Reg. 10 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00029]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -462,7 +462,7 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00031]: Footnote: Relevant amending instruments are [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490) and [2002/2497](https://www.legislation.gov.uk/uksi/2002/2497).
 
-[^key-8233147a196e99b24f9aea2edc630479]: Commencement: Reg. 11 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-8233147a196e99b24f9aea2edc630479]: Commencement: Reg. 11 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00032]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
@@ -472,11 +472,11 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00035]: Footnote: Relevant amending instruments are [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490) and [2003/511](https://www.legislation.gov.uk/uksi/2003/511).
 
-[^key-00bcd5baa8d1f8e76f40e1cb3eb729eb]: Commencement: Reg. 12 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-00bcd5baa8d1f8e76f40e1cb3eb729eb]: Commencement: Reg. 12 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00036]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-077b06f7969fad08d0f1356a4da6e779]: Commencement: Reg. 13 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-077b06f7969fad08d0f1356a4da6e779]: Commencement: Reg. 13 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00037]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
@@ -484,7 +484,7 @@ A full impact assessment has not been produced for this instrument, as it has no
 
 [^f00039]: Footnote: Relevant amending instruments are [S.I. 1996/2367](https://www.legislation.gov.uk/uksi/1996/2367), [2001/1711](https://www.legislation.gov.uk/uksi/2001/1711) and [2002/490](https://www.legislation.gov.uk/uksi/2002/490).
 
-[^key-cc3e5e7bc35e584c6cf6cc6a2f0efc6d]: Commencement: Reg. 14 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
+[^c-cc3e5e7bc35e584c6cf6cc6a2f0efc6d]: Commencement: Reg. 14 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1)
 
 [^f00040]: Footnote: [S.I. 2001/1031](https://www.legislation.gov.uk/uksi/2001/1031).
 

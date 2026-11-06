@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Power to execute street works[^key-df0806160f1327a6571d8ff685ae3af2]
+## 9. Power to execute street works[^c-df0806160f1327a6571d8ff685ae3af2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Agency may, for the purposes of and to the extent necessary for the construc
 
 ## Annotations
 
-[^key-df0806160f1327a6571d8ff685ae3af2]: Commencement: Art. 9 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-df0806160f1327a6571d8ff685ae3af2]: Commencement: Art. 9 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

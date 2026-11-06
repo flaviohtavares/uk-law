@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Relationships which have come to an end[^key-38376c24d179b2087b311a49f0ecfff7][^key-fce4b5cbc6edf4d055b6297020bfebec]
+## 25. Relationships which have come to an end[^c-38376c24d179b2087b311a49f0ecfff7][^c-fce4b5cbc6edf4d055b6297020bfebec]
 
 *Extent: N.I.*
 
@@ -29,12 +29,12 @@ summary: ''
 
 where the discrimination or harassment arises out of and is closely connected to that relationship.
 
-(3) In paragraph (1), reference to an act of discrimination or harassment which is unlawful includes, in the case of a relationship which has come to an end before the date on which the act of discrimination or harassment became unlawful by virtue of these Regulations[^key-ce004dd3d42ce9edbf91552e0edc8d64] , reference to an act of discrimination or harassment which would, after that date, be unlawful.
+(3) In paragraph (1), reference to an act of discrimination or harassment which is unlawful includes, in the case of a relationship which has come to an end before the date on which the act of discrimination or harassment became unlawful by virtue of these Regulations[^c-ce004dd3d42ce9edbf91552e0edc8d64] , reference to an act of discrimination or harassment which would, after that date, be unlawful.
 
 ## Annotations
 
-[^key-38376c24d179b2087b311a49f0ecfff7]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/261/regulation/25) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-38376c24d179b2087b311a49f0ecfff7]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/261/regulation/25) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-fce4b5cbc6edf4d055b6297020bfebec]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/261/regulation/25) in operation at 1.12.2006 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-fce4b5cbc6edf4d055b6297020bfebec]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/261/regulation/25) in operation at 1.12.2006 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-ce004dd3d42ce9edbf91552e0edc8d64]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/nisr/2006/261/regulation/25/3) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/4)
+[^c-ce004dd3d42ce9edbf91552e0edc8d64]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/nisr/2006/261/regulation/25/3) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017[^key-e4f0e304d507cc609565cbf233f2927a]
+## 94. The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017[^c-e4f0e304d507cc609565cbf233f2927a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Referred Applications and Appeals Procedure) (Wal
 
 ## Annotations
 
-[^key-e4f0e304d507cc609565cbf233f2927a]: Commencement: [Reg. 94](https://www.legislation.gov.uk/wsi/2024/924/regulation/94) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-e4f0e304d507cc609565cbf233f2927a]: Commencement: [Reg. 94](https://www.legislation.gov.uk/wsi/2024/924/regulation/94) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 2017/544 (W. 121)](https://www.legislation.gov.uk/wsi/2017/544).

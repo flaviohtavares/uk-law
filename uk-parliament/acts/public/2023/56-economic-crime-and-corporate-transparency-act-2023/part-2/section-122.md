@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Notification of information about partners[^key-a984dfe4d028821b6bb479db0b440a4e]
+## 122. Notification of information about partners[^c-a984dfe4d028821b6bb479db0b440a4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -161,4 +161,4 @@ After section 8Q of the Limited Partnerships Act 1907 (inserted by section 119 o
 
 ## Annotations
 
-[^key-a984dfe4d028821b6bb479db0b440a4e]: Commencement: S. 122 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a984dfe4d028821b6bb479db0b440a4e]: Commencement: S. 122 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

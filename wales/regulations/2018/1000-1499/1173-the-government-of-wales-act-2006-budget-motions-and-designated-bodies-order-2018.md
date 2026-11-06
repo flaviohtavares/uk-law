@@ -68,7 +68,7 @@ Mark Drakeford
 
 Cabinet Secretary for Finance, one of the Welsh Ministers
 
-## SCHEDULE — Designated Bodies[^key-593043d719fa0e491add8136bff8a200]
+## SCHEDULE — Designated Bodies[^c-593043d719fa0e491add8136bff8a200]
 
 Article 3
 
@@ -154,4 +154,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23433171]: Marginal citation: By virtue of section 124(3)(a) of the [Government of Wales Act 2006](https://www.legislation.gov.uk/ukpga/2006/32) the Welsh Ministers are a “**relevant person**” for the purposes of section 126A of that Act.
 
-[^key-593043d719fa0e491add8136bff8a200]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2018/1173/schedule) substituted (16.2.2024) by [The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2024 (S.I. 2024/42)](https://www.legislation.gov.uk/wsi/2024/42), [art. 2(2)](https://www.legislation.gov.uk/wsi/2024/42/article/2/2), [Sch.](https://www.legislation.gov.uk/wsi/2024/42/schedule)
+[^c-593043d719fa0e491add8136bff8a200]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2018/1173/schedule) substituted (16.2.2024) by [The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2024 (S.I. 2024/42)](https://www.legislation.gov.uk/wsi/2024/42), [art. 2(2)](https://www.legislation.gov.uk/wsi/2024/42/article/2/2), [Sch.](https://www.legislation.gov.uk/wsi/2024/42/schedule)

@@ -24,7 +24,7 @@ summary: ''
 
 ### PART 1 — DESIGNATION
 
-#### 1. Designation[^key-53a60bf1a3f079ffb3d397c6681b8463][^key-07f946ebf74c1b6091efa370bfe2162f]
+#### 1. Designation[^c-53a60bf1a3f079ffb3d397c6681b8463][^c-07f946ebf74c1b6091efa370bfe2162f]
 
 (1) The Commission may designate a body to exercise its assessment functions.
 
@@ -52,7 +52,7 @@ summary: ''
 
 (6) If the Welsh Ministers do not give their consent under sub-paragraph (3)(a), they must publish the reasons for not doing so.
 
-#### 2. Bodies suitable to exercise assessment functions[^key-19aaae85e6833ea00c1c9927ab732364][^key-809131334d02317a880773145cb078b1]
+#### 2. Bodies suitable to exercise assessment functions[^c-19aaae85e6833ea00c1c9927ab732364][^c-809131334d02317a880773145cb078b1]
 
 (1) A body is suitable to exercise the assessment functions if the body satisfies the conditions in sub-paragraph (2).
 
@@ -64,7 +64,7 @@ summary: ''
 - (d) the body exercises its functions independent of any particular higher education provider, and
 - (e) the body consents to being designated under this Schedule.
 
-#### 3. Removal of designation[^key-56f6b431a490e909359624f94b41bace][^key-90ee089d540388f4cba981010c9acdce]
+#### 3. Removal of designation[^c-56f6b431a490e909359624f94b41bace][^c-90ee089d540388f4cba981010c9acdce]
 
 (1) The Commission may by notice remove a designation under this Schedule.
 
@@ -91,19 +91,19 @@ summary: ''
 
 ### PART 2 — OVERSIGHT BY THE COMMISSION
 
-#### 4. Application[^key-4506c7cdc3a68cbe0354e3f9a680022c][^key-308bf75a26be0158dec3d40653885db3]
+#### 4. Application[^c-4506c7cdc3a68cbe0354e3f9a680022c][^c-308bf75a26be0158dec3d40653885db3]
 
 This Part applies if there is a body designated under this Schedule to exercise the assessment functions.
 
-#### 5. Power to provide funding[^key-598dd3d461f2921ad68c6fa1ed7d3696][^key-6405401225ad91fdb9f64f6c490f2619]
+#### 5. Power to provide funding[^c-598dd3d461f2921ad68c6fa1ed7d3696][^c-6405401225ad91fdb9f64f6c490f2619]
 
 The Commission may provide funding to the designated body for exercising the assessment functions.
 
-#### 6. Oversight arrangements[^key-5d31cc4163cca9ca35107b578fae520d][^key-5e992953b974c7997171dfd5fd21c359][^key-d7cd852527814e828203a4ea374062c1]
+#### 6. Oversight arrangements[^c-5d31cc4163cca9ca35107b578fae520d][^c-5e992953b974c7997171dfd5fd21c359][^c-d7cd852527814e828203a4ea374062c1]
 
 The Commission must make arrangements for holding the designated body to account for the exercise of the assessment functions.
 
-#### 7. Annual report by the designated body[^key-97f9e495da7120085517573660cccc83][^key-310ba5e1276749a235ddd1376884ad9a]
+#### 7. Annual report by the designated body[^c-97f9e495da7120085517573660cccc83][^c-310ba5e1276749a235ddd1376884ad9a]
 
 (1) As soon as reasonably practicable after the end of each annual reporting period, the designated body must prepare and send to the Commission a report about the exercise of the assessment functions during the period.
 
@@ -112,7 +112,7 @@ The Commission must make arrangements for holding the designated body to account
 - (a) the period of 12 months beginning with the effective date, and
 - (b) each successive period of 12 months.
 
-#### 8. Power of the Commission to give directions[^key-1b92d891390cdbeb84adddfab28f2f12][^key-dbabb1b829cc448d65895ef63e0c4ad2]
+#### 8. Power of the Commission to give directions[^c-1b92d891390cdbeb84adddfab28f2f12][^c-dbabb1b829cc448d65895ef63e0c4ad2]
 
 (1) The Commission may give the designated body general directions about the exercise of the assessment functions.
 
@@ -128,7 +128,7 @@ The Commission must make arrangements for holding the designated body to account
 
 (4) The designated body must comply with any directions given under this paragraph.
 
-#### 9. Duty of the Commission to inform the Welsh Ministers about significant concerns[^key-64e1f623319e22cbddec60bbbf4d63ea][^key-17f7e289f159c5838cf745138a4bc662]
+#### 9. Duty of the Commission to inform the Welsh Ministers about significant concerns[^c-64e1f623319e22cbddec60bbbf4d63ea][^c-17f7e289f159c5838cf745138a4bc662]
 
 The Commission must inform the Welsh Ministers if it has significant concerns about—
 
@@ -137,7 +137,7 @@ The Commission must inform the Welsh Ministers if it has significant concerns ab
 
 ### PART 3 — POWER TO CHARGE FEES
 
-**10.**[^key-2642496d5475697f62b033672e07d801][^key-320834fd0c6d0172d71ebb5b3665ae25] (1) The designated body may charge a fee, or fees, to any tertiary education provider in relation to which the body exercises the assessment functions.
+**10.**[^c-2642496d5475697f62b033672e07d801][^c-320834fd0c6d0172d71ebb5b3665ae25] (1) The designated body may charge a fee, or fees, to any tertiary education provider in relation to which the body exercises the assessment functions.
 
 (2) Any fees charged by the designated body under sub-paragraph (1) must be charged in accordance with a scheme prepared and published by the designated body that sets out—
 
@@ -159,7 +159,7 @@ The Commission must inform the Welsh Ministers if it has significant concerns ab
 
 ### PART 4 — INTERPRETATION
 
-**11.**[^key-bdbd8ba293ea47086cb364b95b6e30a9][^key-3132ee0e17b80d48f0c0b920266967bf] (1) In this Schedule—
+**11.**[^c-bdbd8ba293ea47086cb364b95b6e30a9][^c-3132ee0e17b80d48f0c0b920266967bf] (1) In this Schedule—
 
 - “**the assessment functions**” (“***y swyddogaethau asesu***”) has the meaning given in section 56(2);
 - “**designated body**” (“***corff dynodedig***”) means a body for the time being designated under this Schedule;
@@ -169,48 +169,48 @@ The Commission must inform the Welsh Ministers if it has significant concerns ab
 
 ## Annotations
 
-[^key-53a60bf1a3f079ffb3d397c6681b8463]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-53a60bf1a3f079ffb3d397c6681b8463]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-07f946ebf74c1b6091efa370bfe2162f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/1) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 5(1)](https://www.legislation.gov.uk/wsi/2025/432/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/wsi/2025/432/article/5/2))
+[^c-07f946ebf74c1b6091efa370bfe2162f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/1) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 5(1)](https://www.legislation.gov.uk/wsi/2025/432/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/wsi/2025/432/article/5/2))
 
-[^key-19aaae85e6833ea00c1c9927ab732364]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-19aaae85e6833ea00c1c9927ab732364]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-809131334d02317a880773145cb078b1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/2) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 5(1)](https://www.legislation.gov.uk/wsi/2025/432/article/5/1) (with [art. 5(3)](https://www.legislation.gov.uk/wsi/2025/432/article/5/3))
+[^c-809131334d02317a880773145cb078b1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/2) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 5(1)](https://www.legislation.gov.uk/wsi/2025/432/article/5/1) (with [art. 5(3)](https://www.legislation.gov.uk/wsi/2025/432/article/5/3))
 
-[^key-56f6b431a490e909359624f94b41bace]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-56f6b431a490e909359624f94b41bace]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-90ee089d540388f4cba981010c9acdce]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/3) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 5(1)](https://www.legislation.gov.uk/wsi/2025/432/article/5/1) (with [art. 5(4)](https://www.legislation.gov.uk/wsi/2025/432/article/5/4))
+[^c-90ee089d540388f4cba981010c9acdce]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/3) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 5(1)](https://www.legislation.gov.uk/wsi/2025/432/article/5/1) (with [art. 5(4)](https://www.legislation.gov.uk/wsi/2025/432/article/5/4))
 
-[^key-4506c7cdc3a68cbe0354e3f9a680022c]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-4506c7cdc3a68cbe0354e3f9a680022c]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-308bf75a26be0158dec3d40653885db3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/4) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(i)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/i)
+[^c-308bf75a26be0158dec3d40653885db3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/4) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(i)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/i)
 
-[^key-598dd3d461f2921ad68c6fa1ed7d3696]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-598dd3d461f2921ad68c6fa1ed7d3696]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-6405401225ad91fdb9f64f6c490f2619]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/5) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(ii)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/ii)
+[^c-6405401225ad91fdb9f64f6c490f2619]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/5) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(ii)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/ii)
 
-[^key-5d31cc4163cca9ca35107b578fae520d]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-5d31cc4163cca9ca35107b578fae520d]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-5e992953b974c7997171dfd5fd21c359]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/6) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/432/article/3/c)
+[^c-5e992953b974c7997171dfd5fd21c359]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/6) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/432/article/3/c)
 
-[^key-d7cd852527814e828203a4ea374062c1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/6) in force at 31.7.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(iii)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/iii)
+[^c-d7cd852527814e828203a4ea374062c1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/6) in force at 31.7.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(iii)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/iii)
 
-[^key-97f9e495da7120085517573660cccc83]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-97f9e495da7120085517573660cccc83]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-310ba5e1276749a235ddd1376884ad9a]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/7) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(iv)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/iv)
+[^c-310ba5e1276749a235ddd1376884ad9a]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/7) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(iv)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/iv)
 
-[^key-1b92d891390cdbeb84adddfab28f2f12]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-1b92d891390cdbeb84adddfab28f2f12]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-dbabb1b829cc448d65895ef63e0c4ad2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/8) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(v)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/v)
+[^c-dbabb1b829cc448d65895ef63e0c4ad2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/8) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(v)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/v)
 
-[^key-64e1f623319e22cbddec60bbbf4d63ea]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-64e1f623319e22cbddec60bbbf4d63ea]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-17f7e289f159c5838cf745138a4bc662]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/9) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(vi)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/vi)
+[^c-17f7e289f159c5838cf745138a4bc662]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/9) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(vi)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/vi)
 
-[^key-2642496d5475697f62b033672e07d801]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-2642496d5475697f62b033672e07d801]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-320834fd0c6d0172d71ebb5b3665ae25]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/10) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(vii)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/vii)
+[^c-320834fd0c6d0172d71ebb5b3665ae25]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/10) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(d)(vii)](https://www.legislation.gov.uk/wsi/2026/62/article/16/d/vii)
 
-[^key-bdbd8ba293ea47086cb364b95b6e30a9]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-bdbd8ba293ea47086cb364b95b6e30a9]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-3132ee0e17b80d48f0c0b920266967bf]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/11) in force at 1.9.2025 by [S.I. 2025/966](https://www.legislation.gov.uk/wsi/2025/966), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/966/article/2/a)
+[^c-3132ee0e17b80d48f0c0b920266967bf]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/asc/2022/1/schedule/3/paragraph/11) in force at 1.9.2025 by [S.I. 2025/966](https://www.legislation.gov.uk/wsi/2025/966), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/966/article/2/a)

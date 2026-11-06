@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Amendment of constitution[^key-17b85fa76d34d9dcb9601e78ffa490e7]
+## 63. Amendment of constitution[^c-17b85fa76d34d9dcb9601e78ffa490e7]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17b85fa76d34d9dcb9601e78ffa490e7]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2005/10/section/63) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(g)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/g)
+[^c-17b85fa76d34d9dcb9601e78ffa490e7]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2005/10/section/63) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(g)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/g)

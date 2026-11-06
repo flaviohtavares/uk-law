@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Conditions of tree felling licences[^key-2ede1ab1663fa8ad0f42c933c7dc7264][^key-ccd571f2cd1d5f89e38f60859a27b518]
+## 37. Conditions of tree felling licences[^c-2ede1ab1663fa8ad0f42c933c7dc7264][^c-ccd571f2cd1d5f89e38f60859a27b518]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In section 10 of the [Forestry Act 1967 (c. 10)](https://www.legislation.gov.uk/
 
 ## Annotations
 
-[^key-2ede1ab1663fa8ad0f42c933c7dc7264]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2023/4/section/37) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-2ede1ab1663fa8ad0f42c933c7dc7264]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2023/4/section/37) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-ccd571f2cd1d5f89e38f60859a27b518]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2023/4/section/37) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-ccd571f2cd1d5f89e38f60859a27b518]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2023/4/section/37) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

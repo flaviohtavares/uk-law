@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Power of the Welsh Ministers to grant permission by development order[^key-517d790414b26285b59a3293b9548008]
+## 44. Power of the Welsh Ministers to grant permission by development order[^c-517d790414b26285b59a3293b9548008]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-517d790414b26285b59a3293b9548008]: Commencement: S. 44 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-517d790414b26285b59a3293b9548008]: Commencement: S. 44 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

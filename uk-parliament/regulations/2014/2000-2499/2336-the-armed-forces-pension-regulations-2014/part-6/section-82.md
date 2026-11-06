@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Lump sum amount payable on death of pension credit member[^key-09d514337ffeace0920dbea26f663598]
+## 82. Lump sum amount payable on death of pension credit member[^c-09d514337ffeace0920dbea26f663598]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) In the case of a pension credit member who dies after the pension credit member’s pension under regulation 48 (annual rate of pension credit member’s pension) becomes payable, the amount of the lump sum payable under regulation 78 (death of a member: lump sum benefit) is equal to—
 
-- (a) the amount of the pension that would have been payable to the pension credit member during so much of the period of 5 years beginning with the date on which the pension became payable as falls after the date of death, [^key-b8818a70d14e3aab8dc836cae6ff1142]..., less
+- (a) the amount of the pension that would have been payable to the pension credit member during so much of the period of 5 years beginning with the date on which the pension became payable as falls after the date of death, [^c-b8818a70d14e3aab8dc836cae6ff1142]..., less
 - (b) the total amount of any pension payments made to the member as such under this scheme.
 
 (4) In this regulation “amount of pension” means the sum of—
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09d514337ffeace0920dbea26f663598]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2014/2336/regulation/82) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-09d514337ffeace0920dbea26f663598]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2014/2336/regulation/82) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-b8818a70d14e3aab8dc836cae6ff1142]: Textual amendment: Words in [reg. 82(3)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/82/3/a) omitted (1.4.2015) by virtue of [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2015/466/regulation/15)
+[^c-b8818a70d14e3aab8dc836cae6ff1142]: Textual amendment: Words in [reg. 82(3)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/82/3/a) omitted (1.4.2015) by virtue of [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2015/466/regulation/15)

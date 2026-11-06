@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Meaning of “contributories”[^key-43ee5c4d23392946d3fa6a14797359bd]
+## 23. Meaning of “contributories”[^c-43ee5c4d23392946d3fa6a14797359bd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, “**contributories**” does not include the bor
 
 ## Annotations
 
-[^key-43ee5c4d23392946d3fa6a14797359bd]: Commencement: Rule 23 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-43ee5c4d23392946d3fa6a14797359bd]: Commencement: Rule 23 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

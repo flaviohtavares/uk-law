@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Provision of bus services etc. by local transport authorities[^key-69f956bc16989fd5b2d4800e482b7b4b][^key-94740ad0c4ccd3877b3580ddf47ca7eb]
+## 2A. Provision of bus services etc. by local transport authorities[^c-69f956bc16989fd5b2d4800e482b7b4b][^c-94740ad0c4ccd3877b3580ddf47ca7eb]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69f956bc16989fd5b2d4800e482b7b4b]: Modification: S. 2A: functions exercisable concurrently (5.6.2024) by [The Transport Partnerships (Transfer of Functions) (Scotland) Order 2024 (S.S.I. 2024/161)](https://www.legislation.gov.uk/ssi/2024/161), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/161/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2024/161/article/2)
+[^c-69f956bc16989fd5b2d4800e482b7b4b]: Modification: S. 2A: functions exercisable concurrently (5.6.2024) by [The Transport Partnerships (Transfer of Functions) (Scotland) Order 2024 (S.S.I. 2024/161)](https://www.legislation.gov.uk/ssi/2024/161), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/161/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2024/161/article/2)
 
-[^key-94740ad0c4ccd3877b3580ddf47ca7eb]: Textual amendment: Pt. 2 Ch. A1 inserted (24.6.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 34(1)(a)](https://www.legislation.gov.uk/asp/2019/17/section/34/1/a), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/a)
+[^c-94740ad0c4ccd3877b3580ddf47ca7eb]: Textual amendment: Pt. 2 Ch. A1 inserted (24.6.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 34(1)(a)](https://www.legislation.gov.uk/asp/2019/17/section/34/1/a), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — REVOCATIONS[^key-02d8611f91b5e21f4142fa685185908e]
+## SCHEDULE 5 — REVOCATIONS[^c-02d8611f91b5e21f4142fa685185908e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ regulation 38
 
 ## Annotations
 
-[^key-02d8611f91b5e21f4142fa685185908e]: Commencement: Sch. 5 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-02d8611f91b5e21f4142fa685185908e]: Commencement: Sch. 5 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

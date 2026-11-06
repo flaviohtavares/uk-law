@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Admission agreement funds[^key-48f6c687a0701fb1c45a3d81ba0bb0d6]
+## 32. Admission agreement funds[^c-48f6c687a0701fb1c45a3d81ba0bb0d6]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48f6c687a0701fb1c45a3d81ba0bb0d6]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-48f6c687a0701fb1c45a3d81ba0bb0d6]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

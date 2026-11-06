@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. UK conservation bodies: incidental powers for UK purposes, etc.[^key-27714b8533cb5cf80413d0399236d156]
+## 37. UK conservation bodies: incidental powers for UK purposes, etc.[^c-27714b8533cb5cf80413d0399236d156]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27714b8533cb5cf80413d0399236d156]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/16/section/37) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-27714b8533cb5cf80413d0399236d156]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/16/section/37) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

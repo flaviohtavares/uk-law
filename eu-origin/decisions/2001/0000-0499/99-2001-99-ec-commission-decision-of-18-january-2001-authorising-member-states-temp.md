@@ -31,10 +31,10 @@ summary: ''
 
 of 18 January 2001 authorising Member States temporarily to provide for derogations of Council Directive 2000/29/EC in respect of potatoes, other than potatoes intended for planting, originating in Cuba (notified under document number C(2001) 121) (revoked)
 
-[^key-4d2216dfb2a3a70df92c490183b25c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d2216dfb2a3a70df92c490183b25c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-4d2216dfb2a3a70df92c490183b25c21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-4d2216dfb2a3a70df92c490183b25c21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4d2216dfb2a3a70df92c490183b25c21]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-4d2216dfb2a3a70df92c490183b25c21]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

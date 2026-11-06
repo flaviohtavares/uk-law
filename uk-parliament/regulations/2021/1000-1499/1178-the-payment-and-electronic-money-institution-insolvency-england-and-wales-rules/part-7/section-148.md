@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Notice of no dividend or no further dividend[^key-dba4faad13e3f43cb76c8ca89ca1cc3d]
+## 148. Notice of no dividend or no further dividend[^c-dba4faad13e3f43cb76c8ca89ca1cc3d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dba4faad13e3f43cb76c8ca89ca1cc3d]: Commencement: Rule 148 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-dba4faad13e3f43cb76c8ca89ca1cc3d]: Commencement: Rule 148 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

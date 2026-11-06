@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The areas of learning and experience[^key-6c16b500a7309f5cdb55483abfcbd59a]
+## 3. The areas of learning and experience[^c-6c16b500a7309f5cdb55483abfcbd59a]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c16b500a7309f5cdb55483abfcbd59a]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2021/4/section/3) in force at 29.9.2021 by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 2](https://www.legislation.gov.uk/wsi/2021/1069/article/2)
+[^c-6c16b500a7309f5cdb55483abfcbd59a]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2021/4/section/3) in force at 29.9.2021 by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 2](https://www.legislation.gov.uk/wsi/2021/1069/article/2)

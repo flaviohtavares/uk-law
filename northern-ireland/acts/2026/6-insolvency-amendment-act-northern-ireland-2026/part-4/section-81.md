@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Creditors’ committee[^key-fed55107a8a6c639a856ce629cfd0714]
+## 81. Creditors’ committee[^c-fed55107a8a6c639a856ce629cfd0714]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fed55107a8a6c639a856ce629cfd0714]: Commencement: S. 81 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-fed55107a8a6c639a856ce629cfd0714]: Commencement: S. 81 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

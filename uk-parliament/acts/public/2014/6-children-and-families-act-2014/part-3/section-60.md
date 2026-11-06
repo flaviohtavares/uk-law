@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Equality Act 2010: claims against schools by disabled young people[^key-7e1eb046281102b54b180049ebae20cb]
+## 60. Equality Act 2010: claims against schools by disabled young people[^c-7e1eb046281102b54b180049ebae20cb]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In Part 2 of Schedule 17 to the Equality Act 2010 (disabled pupils: enforcement 
 
 ## Annotations
 
-[^key-7e1eb046281102b54b180049ebae20cb]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/6/section/60) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-7e1eb046281102b54b180049ebae20cb]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/6/section/60) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

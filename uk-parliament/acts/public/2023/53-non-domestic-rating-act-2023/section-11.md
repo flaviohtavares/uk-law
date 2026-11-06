@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 11. Disclosure of valuation information to Northern Ireland rating officials[^key-00ae393c099610b9e98265dadb22b01e]
+## 11. Disclosure of valuation information to Northern Ireland rating officials[^c-00ae393c099610b9e98265dadb22b01e]
 
 *Extent: E+W+N.I.*
 
@@ -75,4 +75,4 @@ After section 63C of the Act insert—
 
 ## Annotations
 
-[^key-00ae393c099610b9e98265dadb22b01e]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/53/section/11) in force at 26.12.2023, see [s. 19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
+[^c-00ae393c099610b9e98265dadb22b01e]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/53/section/11) in force at 26.12.2023, see [s. 19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)

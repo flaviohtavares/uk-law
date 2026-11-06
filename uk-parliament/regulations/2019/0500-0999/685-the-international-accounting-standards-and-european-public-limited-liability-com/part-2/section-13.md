@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Delegation of the Secretary of State's functions[^key-2df483bd94e6f42132d6b4a026c6fb24]
+## 13. Delegation of the Secretary of State's functions[^c-2df483bd94e6f42132d6b4a026c6fb24]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2df483bd94e6f42132d6b4a026c6fb24]: Commencement: Reg. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2df483bd94e6f42132d6b4a026c6fb24]: Commencement: Reg. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23673351]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36). Section 5 was amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), 2015/1897 and 2016/997.

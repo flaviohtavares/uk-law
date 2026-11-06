@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Power of OGA to require information about change in control of licence holder[^key-af65d086529637fafc38bb827ae6c23a][^key-c000d371e90f4c591ce156a197d4070b]
+## 106. Power of OGA to require information about change in control of licence holder[^c-af65d086529637fafc38bb827ae6c23a][^c-c000d371e90f4c591ce156a197d4070b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ After section 29 of the Energy Act 2008 insert—
 
 ## Annotations
 
-[^key-af65d086529637fafc38bb827ae6c23a]: Commencement: S. 106 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-af65d086529637fafc38bb827ae6c23a]: Commencement: S. 106 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-c000d371e90f4c591ce156a197d4070b]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/52/section/106) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/iv)
+[^c-c000d371e90f4c591ce156a197d4070b]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/52/section/106) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/iv)

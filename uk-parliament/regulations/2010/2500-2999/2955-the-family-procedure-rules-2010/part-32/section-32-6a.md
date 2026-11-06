@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.6A. Variation of a family court order: section 22(1) of the 1950 Act[^key-3ea279f33b39643858c2fa20efeb6d67]
+## 32.6A. Variation of a family court order: section 22(1) of the 1950 Act[^c-3ea279f33b39643858c2fa20efeb6d67]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a family court order, which is registered in a court in Scotland or Northe
 
 ## Annotations
 
-[^key-3ea279f33b39643858c2fa20efeb6d67]: Textual amendment: Rules 32.6A, 32.6B inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [82](https://www.legislation.gov.uk/uksi/2013/3204/rule/82) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-3ea279f33b39643858c2fa20efeb6d67]: Textual amendment: Rules 32.6A, 32.6B inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [82](https://www.legislation.gov.uk/uksi/2013/3204/rule/82) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

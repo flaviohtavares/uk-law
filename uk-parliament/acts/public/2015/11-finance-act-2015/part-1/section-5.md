@@ -22,8 +22,8 @@ summary: ''
 
 (1) The amount specified in section 35(1) of ITA 2007 (personal allowance for those born after 5 April 1938) is replaced—
 
-- (a) for the tax year 2016-17, with “£11,000”[^key-9e09216b00fde9c5cdcb009ba978affa], and
-- (b) for the tax year 2017-18, with “£11,500”[^key-9e24e82a894c9a547f5a34077e7dcb25].
+- (a) for the tax year 2016-17, with “£11,000”[^c-9e09216b00fde9c5cdcb009ba978affa], and
+- (b) for the tax year 2017-18, with “£11,500”[^c-9e24e82a894c9a547f5a34077e7dcb25].
 
 (2) Accordingly, for those tax years, section 57 of that Act (indexation of allowances), so far as relating to the amount specified in section 35(1) of that Act, does not apply.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e09216b00fde9c5cdcb009ba978affa]: Textual amendment: Word in s. 5(1)(a) substituted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 5(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/5/a)
+[^c-9e09216b00fde9c5cdcb009ba978affa]: Textual amendment: Word in s. 5(1)(a) substituted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 5(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/5/a)
 
-[^key-9e24e82a894c9a547f5a34077e7dcb25]: Textual amendment: Word in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/5/1/b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/3/1)
+[^c-9e24e82a894c9a547f5a34077e7dcb25]: Textual amendment: Word in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/5/1/b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/3/1)

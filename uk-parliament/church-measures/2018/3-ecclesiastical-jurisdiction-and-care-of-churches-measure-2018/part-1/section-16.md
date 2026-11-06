@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16. The Court of Ecclesiastical Causes Reserved: continuation[^key-906242c57de7a62fe8ce59200d680a2e]
+## 16. The Court of Ecclesiastical Causes Reserved: continuation[^c-906242c57de7a62fe8ce59200d680a2e]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ For both provinces, there is to continue to be a court called the Court of Eccle
 
 ## Annotations
 
-[^key-906242c57de7a62fe8ce59200d680a2e]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/3/section/16) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-906242c57de7a62fe8ce59200d680a2e]: Commencement: [S. 16](https://www.legislation.gov.uk/ukcm/2018/3/section/16) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Report on assessing and meeting workforce needs[^key-ba1169d787154e67c35f343b1db1d20d][^key-18415fbd9dd5f8562f7af0c0f454f997]
+## 41. Report on assessing and meeting workforce needs[^c-ba1169d787154e67c35f343b1db1d20d][^c-18415fbd9dd5f8562f7af0c0f454f997]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ After section 1G of the National Health Service Act 2006 (but before the italic 
 
 ## Annotations
 
-[^key-ba1169d787154e67c35f343b1db1d20d]: Commencement: S. 41 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ba1169d787154e67c35f343b1db1d20d]: Commencement: S. 41 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-18415fbd9dd5f8562f7af0c0f454f997]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/31/section/41) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-18415fbd9dd5f8562f7af0c0f454f997]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/31/section/41) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

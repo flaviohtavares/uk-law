@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Extinction or suspension of private rights of way etc. over land[^key-4f1876c5057d597b319c45427142c36d]
+## 42. Extinction or suspension of private rights of way etc. over land[^c-4f1876c5057d597b319c45427142c36d]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-4f1876c5057d597b319c45427142c36d]: Commencement: Art. 42 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-4f1876c5057d597b319c45427142c36d]: Commencement: Art. 42 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00062]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

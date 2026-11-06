@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Enforcement by taking control of goods[^M_E_c0185dea-1038-448d-e942-2d7b170c3ab5][^key-b80f7fe28301054239409250b1f2870e]
+## 98. Enforcement by taking control of goods[^M_E_c0185dea-1038-448d-e942-2d7b170c3ab5][^c-b80f7fe28301054239409250b1f2870e]
 
 *Extent: E*
 
@@ -64,7 +64,7 @@ Where a liability order has been made, payment may be enforced by using the Sche
 
 [^M_E_c0185dea-1038-448d-e942-2d7b170c3ab5]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-b80f7fe28301054239409250b1f2870e]: Textual amendment: [Reg. 98](https://www.legislation.gov.uk/uksi/2010/948/regulation/98) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/2) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-b80f7fe28301054239409250b1f2870e]: Textual amendment: [Reg. 98](https://www.legislation.gov.uk/uksi/2010/948/regulation/98) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/2) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
 [^M_E_380522cf-62f3-474b-d0d3-75787d71b374]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 

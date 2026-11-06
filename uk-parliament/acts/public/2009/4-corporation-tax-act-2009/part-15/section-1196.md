@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1196. Intended theatrical release[^key-f2a258229816000fb55b60553fd4b2b1]
+## 1196. Intended theatrical release[^c-f2a258229816000fb55b60553fd4b2b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a258229816000fb55b60553fd4b2b1]: Textual amendment: [S. 1196](https://www.legislation.gov.uk/ukpga/2009/4/section/1196) omitted (with effect in accordance with s. 16(5)(6) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/16/3)
+[^c-f2a258229816000fb55b60553fd4b2b1]: Textual amendment: [S. 1196](https://www.legislation.gov.uk/ukpga/2009/4/section/1196) omitted (with effect in accordance with s. 16(5)(6) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/16/3)

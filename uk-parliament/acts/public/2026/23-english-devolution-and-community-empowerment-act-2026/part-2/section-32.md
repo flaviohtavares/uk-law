@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Education[^key-eabb0cb855a8c984f7f47c88ff81b86b]
+## 32. Education[^c-eabb0cb855a8c984f7f47c88ff81b86b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 13 confers on strategic authorities functions relating to education.
 
 ## Annotations
 
-[^key-eabb0cb855a8c984f7f47c88ff81b86b]: Commencement: S. 32 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-eabb0cb855a8c984f7f47c88ff81b86b]: Commencement: S. 32 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

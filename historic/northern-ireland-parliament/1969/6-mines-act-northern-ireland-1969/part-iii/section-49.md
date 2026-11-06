@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Systematic support in coal, shale and fireclay mines.[^key-4422c23a1c093bc5ab4a9c4506bfd664]
+## 49. Systematic support in coal, shale and fireclay mines.[^c-4422c23a1c093bc5ab4a9c4506bfd664]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4422c23a1c093bc5ab4a9c4506bfd664]: Textual amendment: [S. 49](https://www.legislation.gov.uk/apni/1969/6/section/49) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-4422c23a1c093bc5ab4a9c4506bfd664]: Textual amendment: [S. 49](https://www.legislation.gov.uk/apni/1969/6/section/49) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

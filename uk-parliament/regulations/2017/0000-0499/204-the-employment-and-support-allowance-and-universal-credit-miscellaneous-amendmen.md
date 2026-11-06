@@ -538,7 +538,7 @@ Regulation 7(2)
 (2) In this Part—
 
 - “assessment phase” has the same meaning as in the Welfare Reform Act 2007[^f00027];
-- “ claim[^key-d7dcd4db07d85819b05ddb86af23bb97] ” means [^key-8f4de22a6a93952ce67df9dcae365275]... a claim for an employment and support allowance made[^key-966f1769be7ff7b334ea3a585e6490d6] in accordance with regulations 4ZC, 4G, 4H and 4I of the Social Security (Claims and Payments) Regulations 1987[^f00028] or regulations 13 to 17 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^f00029];
+- “ claim[^c-d7dcd4db07d85819b05ddb86af23bb97] ” means [^c-8f4de22a6a93952ce67df9dcae365275]... a claim for an employment and support allowance made[^c-966f1769be7ff7b334ea3a585e6490d6] in accordance with regulations 4ZC, 4G, 4H and 4I of the Social Security (Claims and Payments) Regulations 1987[^f00028] or regulations 13 to 17 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^f00029];
 - “employment and support allowance” means an allowance under Part 1 of the Welfare Reform Act 2007;
 - “ESA Regulations 2008” means the Employment and Support Allowance Regulations 2008[^f00030];
 - “ESA Regulations 2013” means the Employment and Support Allowance Regulations 2013[^f00031].
@@ -556,7 +556,7 @@ The second circumstance is where the claimant’s period of limited capability f
 
 #### 4. Claimants on Incapacity Benefits who have or will become notified persons
 
-The third circumstance is where the claimant has been,[^key-f8d33efdf99fb7de974a4b7f4b9ff103] is or becomes a notified person within the meaning of regulation 4 of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010[^f00032] and a determination is effective as to whether that person—
+The third circumstance is where the claimant has been,[^c-f8d33efdf99fb7de974a4b7f4b9ff103] is or becomes a notified person within the meaning of regulation 4 of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010[^f00032] and a determination is effective as to whether that person—
 
 - (a) has or is to be treated as having limited capability for work under Part 5 of the ESA Regulations 2008;
 - (b) has or is to be treated as having limited capability for work under Part 5 of the ESA Regulations 2013;
@@ -763,11 +763,11 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00027]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-d7dcd4db07d85819b05ddb86af23bb97]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1/2) substituted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/a/i)
+[^c-d7dcd4db07d85819b05ddb86af23bb97]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1/2) substituted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/a/i)
 
-[^key-8f4de22a6a93952ce67df9dcae365275]: Textual amendment: Word in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1/2) omitted (23.6.2017) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/a/ii)
+[^c-8f4de22a6a93952ce67df9dcae365275]: Textual amendment: Word in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1/2) omitted (23.6.2017) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/a/ii)
 
-[^key-966f1769be7ff7b334ea3a585e6490d6]: Textual amendment: Word in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1/2) inserted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/a/iii)
+[^c-966f1769be7ff7b334ea3a585e6490d6]: Textual amendment: Word in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/1/2) inserted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/a/iii)
 
 [^f00028]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); relevant amending instruments are [S.I. 1997/793](https://www.legislation.gov.uk/uksi/1997/793), [2003/492](https://www.legislation.gov.uk/uksi/2003/492), [2003/2800](https://www.legislation.gov.uk/uksi/2003/2800) and [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554).
 
@@ -777,7 +777,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00031]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379), amended by [S.I. 2015/339](https://www.legislation.gov.uk/uksi/2015/339).
 
-[^key-f8d33efdf99fb7de974a4b7f4b9ff103]: Textual amendment: Words in Sch. 2 para. 4 inserted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/b)
+[^c-f8d33efdf99fb7de974a4b7f4b9ff103]: Textual amendment: Words in Sch. 2 para. 4 inserted (23.6.2017) by [The Employment and Support Allowance (Miscellaneous Amendments and Transitional and Savings Provision) Regulations 2017 (S.I. 2017/581)](https://www.legislation.gov.uk/uksi/2017/581), [regs. 1](https://www.legislation.gov.uk/uksi/2017/581/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2017/581/regulation/9/b)
 
 [^f00032]: Footnote: [S.I. 2010/1907](https://www.legislation.gov.uk/uksi/2010/1907).
 

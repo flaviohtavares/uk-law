@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Designated postgraduate courses[^key-efe9c0b872a17f65bf6b6e0198ad9154]
+## 127. Designated postgraduate courses[^c-efe9c0b872a17f65bf6b6e0198ad9154]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efe9c0b872a17f65bf6b6e0198ad9154]: Commencement: [Reg. 127](https://www.legislation.gov.uk/nisr/2007/195/regulation/127) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-efe9c0b872a17f65bf6b6e0198ad9154]: Commencement: [Reg. 127](https://www.legislation.gov.uk/nisr/2007/195/regulation/127) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00066]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Tax is charged under this Chapter on the [^key-eb8e6454811de344a735debfca59dfe2]... amount of the dividends arising in the tax year.
+(1) Tax is charged under this Chapter on the [^c-eb8e6454811de344a735debfca59dfe2]... amount of the dividends arising in the tax year.
 
 (2) Subsection (1) is subject to—
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb8e6454811de344a735debfca59dfe2]: Textual amendment: Word in s. 403(1) omitted (with effect in accordance with s. 34(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2008/9/schedule/12/paragraph/18)
+[^c-eb8e6454811de344a735debfca59dfe2]: Textual amendment: Word in s. 403(1) omitted (with effect in accordance with s. 34(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2008/9/schedule/12/paragraph/18)

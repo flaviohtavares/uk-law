@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Action in relation to plant protection and biocidal products[^key-82d18b41af21c846ef9dc706dde2a9b1]
+## 23. Action in relation to plant protection and biocidal products[^c-82d18b41af21c846ef9dc706dde2a9b1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d18b41af21c846ef9dc706dde2a9b1]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2017/407/regulation/23) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(8)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82d18b41af21c846ef9dc706dde2a9b1]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2017/407/regulation/23) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(8)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

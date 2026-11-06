@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Equal treatment and administrative co-operation under the Swiss citizens’ rights agreement[^M_I_a74de3bb-0839-4a2a-eb9f-bb53baaaf932][^key-84941b7d78d459ffd5410886c2086b64]
+## 12B. Equal treatment and administrative co-operation under the Swiss citizens’ rights agreement[^M_I_a74de3bb-0839-4a2a-eb9f-bb53baaaf932][^c-84941b7d78d459ffd5410886c2086b64]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^M_I_a74de3bb-0839-4a2a-eb9f-bb53baaaf932]: Commencement: Reg. 12B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-84941b7d78d459ffd5410886c2086b64]: Textual amendment: Regs. 12B, 12C inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1394/regulation/5)
+[^c-84941b7d78d459ffd5410886c2086b64]: Textual amendment: Regs. 12B, 12C inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1394/regulation/5)

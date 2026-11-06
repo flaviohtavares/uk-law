@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**242.**[^key-208de3b497a673399578ed65ba0b9c32] In section 78 (directed partnership arrangements), until the repeal of that section by paragraph 30 of Schedule14 to the Health and Social Care Act 2012, at subsection (5) for the definition of “relevant social services functions” substitute—
+**242.**[^c-208de3b497a673399578ed65ba0b9c32] In section 78 (directed partnership arrangements), until the repeal of that section by paragraph 30 of Schedule14 to the Health and Social Care Act 2012, at subsection (5) for the definition of “relevant social services functions” substitute—
 
 > - “relevant social services functions” means health-related functions which are social services functions of local authorities in England within the meaning of the Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42) or of local authorities in Wales within the meaning of the Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4),
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-208de3b497a673399578ed65ba0b9c32]: Commencement: Reg. 242 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-208de3b497a673399578ed65ba0b9c32]: Commencement: Reg. 242 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

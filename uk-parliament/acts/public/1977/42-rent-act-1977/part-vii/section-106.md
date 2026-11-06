@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subsections (2) and (3) below apply where a restricted contract has been referred to the appropriate tribunal[^key-c6bd304ace25bb8c3d3f56ead978335a] and the period at the end of which a notice to quit will take effect has been determined by virtue of section 103 of this Act or extended under section 104.
+(1) Subsections (2) and (3) below apply where a restricted contract has been referred to the appropriate tribunal[^c-c6bd304ace25bb8c3d3f56ead978335a] and the period at the end of which a notice to quit will take effect has been determined by virtue of section 103 of this Act or extended under section 104.
 
-(2) If, in a case where this subsection applies, it appears to the appropriate tribunal[^key-e7f5af032a10ff43831bd1d6750ea33f] , on an application made by the lessor for a direction under this section,—
+(2) If, in a case where this subsection applies, it appears to the appropriate tribunal[^c-e7f5af032a10ff43831bd1d6750ea33f] , on an application made by the lessor for a direction under this section,—
 
 - (a) that the lessee has not complied with the terms of the contract, or
 - (b) that the lessee or any person residing or lodging with him has been guilty of conduct which is a nuisance or annoyance to adjoining occupiers or has been convicted of using the dwelling, or allowing the dwelling to be used, for an immoral or illegal purpose, or
@@ -46,6 +46,6 @@ the court may direct that the period referred to in paragraph (b) above shall be
 
 [^c16040751]: Modification: Ss. 103–106 excluded by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 69(3)](https://www.legislation.gov.uk/ukpga/1980/51/section/69/3)
 
-[^key-c6bd304ace25bb8c3d3f56ead978335a]: Textual amendment: Words in [s. 106(1)](https://www.legislation.gov.uk/ukpga/1977/42/section/106/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 30(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/30/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c6bd304ace25bb8c3d3f56ead978335a]: Textual amendment: Words in [s. 106(1)](https://www.legislation.gov.uk/ukpga/1977/42/section/106/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 30(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/30/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e7f5af032a10ff43831bd1d6750ea33f]: Textual amendment: Words in [s. 106(2)](https://www.legislation.gov.uk/ukpga/1977/42/section/106/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/30/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e7f5af032a10ff43831bd1d6750ea33f]: Textual amendment: Words in [s. 106(2)](https://www.legislation.gov.uk/ukpga/1977/42/section/106/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/30/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

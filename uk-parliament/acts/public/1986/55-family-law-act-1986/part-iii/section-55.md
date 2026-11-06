@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this section, any person may apply to the High Court or[^c13387451] the family court[^key-853c51fab38e25cb749e858d32e63119] for one or more of the following declarations in relation to a marriage specified in the application, that is to say—
+(1) Subject to the following provisions of this section, any person may apply to the High Court or[^c13387451] the family court[^c-853c51fab38e25cb749e858d32e63119] for one or more of the following declarations in relation to a marriage specified in the application, that is to say—
 
 - (a) a declaration that the marriage was at its inception a valid marriage;
 - (b) a declaration that the marriage subsisted on a date specified in the application;
@@ -42,6 +42,6 @@ summary: ''
 
 [^c13387451]: Textual amendment: Words in s. 55(1) substituted (1.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 83](https://www.legislation.gov.uk/ukpga/2000/19/section/83), [Sch. 8 para. 4(a)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/4/a) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2001/774/article/2/b/c)
 
-[^key-853c51fab38e25cb749e858d32e63119]: Textual amendment: Words in [s. 55(1)](https://www.legislation.gov.uk/ukpga/1986/55/section/55/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 96](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/96); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-853c51fab38e25cb749e858d32e63119]: Textual amendment: Words in [s. 55(1)](https://www.legislation.gov.uk/ukpga/1986/55/section/55/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 96](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/96); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c13387461]: Textual amendment: Words in s. 55(3) inserted (1.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 83](https://www.legislation.gov.uk/ukpga/2000/19/section/83), [Sch. 8 para. 4(b)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/4/b) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2001/774/article/2/b/c)

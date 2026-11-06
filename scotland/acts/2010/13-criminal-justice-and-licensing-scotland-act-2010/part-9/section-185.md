@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Provisional premises licences: duration[^key-b86aabf72f43365ea877f332dd0e0471]
+## 185. Provisional premises licences: duration[^c-b86aabf72f43365ea877f332dd0e0471]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 45 of the 2005 Act (provisional premises licence), in subsection (6),
 
 ## Annotations
 
-[^key-b86aabf72f43365ea877f332dd0e0471]: Commencement: [S. 185](https://www.legislation.gov.uk/asp/2010/13/section/185) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2010/413/article/8))
+[^c-b86aabf72f43365ea877f332dd0e0471]: Commencement: [S. 185](https://www.legislation.gov.uk/asp/2010/13/section/185) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2010/413/article/8))

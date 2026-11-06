@@ -47,7 +47,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 208(1), (2) and (6) of the Police, Crime, Sentencing and Courts Act 2022[^f00001], makes the following Regulations.
 
-## 1. Citation and interpretation[^key-41d704555d4bf3d0d0e1e90e7d897010]
+## 1. Citation and interpretation[^c-41d704555d4bf3d0d0e1e90e7d897010]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ The Secretary of State, in exercise of the powers conferred by section 208(1), (
 
 (2) In these Regulations “**the 2022 Act**” means the Police, Crime, Sentencing and Courts Act 2022.
 
-## 2. Extent[^key-5e2081990298db0e86522c619d4e399e]
+## 2. Extent[^c-5e2081990298db0e86522c619d4e399e]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ The Secretary of State, in exercise of the powers conferred by section 208(1), (
 
 (4) Regulation 5(m) extends to England and Wales and Northern Ireland.
 
-## 3. Application[^key-73ffbfe307e76a703a14c2ea8ce72f58]
+## 3. Application[^c-73ffbfe307e76a703a14c2ea8ce72f58]
 
 *Extent: E+W*
 
@@ -75,14 +75,14 @@ The Secretary of State, in exercise of the powers conferred by section 208(1), (
 
 (2) Regulations 4(a), 5(a) and 5(h) apply to England and Wales and Scotland and Northern Ireland.
 
-## 4. Provisions coming into force on 12th May 2022[^key-ca2c4079e5470fd0d035b7ba21d09e38]
+## 4. Provisions coming into force on 12th May 2022[^c-ca2c4079e5470fd0d035b7ba21d09e38]
 
 The following provisions of the 2022 Act come into force on 12th May 2022—
 
 - (a) section 42(1) to (7) (code of practice about the extraction of information from electronic devices);
 - (b) section 80 (wilful obstruction of highway).
 
-## 5. Provisions coming into force on 28th June 2022[^key-134ade6bf9d43de297b083a4f4c8e7d3]
+## 5. Provisions coming into force on 28th June 2022[^c-134ade6bf9d43de297b083a4f4c8e7d3]
 
 The following provisions of the 2022 Act come into force on 28th June 2022—
 
@@ -94,21 +94,21 @@ The following provisions of the 2022 Act come into force on 28th June 2022—
 - (f) section 49 (time limit for prosecution of common assault or battery in domestic abuse cases);
 - (g) sections 55 and 56(1) and Schedule 6 (search for material relating to human remains);
 - (h) sections 56(2) and 57 (special procedure for access to material relating to human remains and additional seizure powers);
-- (i) sections 73(1) to (4)[^key-7a32988e6c2b90fd20394122a832486a], 74(1) to (6) and 75 (public order);
-- (j) sections 73(5)[^key-b22c735fbead996f72f0dd58e398016d], 74(7), 76 to 79, 82 and Schedule 7 (public order);
+- (i) sections 73(1) to (4)[^c-7a32988e6c2b90fd20394122a832486a], 74(1) to (6) and 75 (public order);
+- (j) sections 73(5)[^c-b22c735fbead996f72f0dd58e398016d], 74(7), 76 to 79, 82 and Schedule 7 (public order);
 - (k) section 90 (charges for removal, storage and disposal of vehicles) to the extent not already in force;
 - (l) section 129(2) and (3)(b)(ii) (life sentence not fixed by law: minimum term);
 - (m) section 129(3)(b)(i) (life sentence not fixed by law: minimum term);
 - (n) section 129(1), (3)(a), (c) and (d) (life sentence not fixed by law: minimum term);
 - (o) sections 133, 134, 136(1) to (6), 137(1) to (2) and 139 (release on licence);
 - (p) sections 136(7) and 137(3) (release on licence);
-- (q) section 152 and Schedule 13[^key-b9ac9e6d478e74f12ab6a2c7c4743e97] (removal of attendance centre requirements for adults);
+- (q) section 152 and Schedule 13[^c-b9ac9e6d478e74f12ab6a2c7c4743e97] (removal of attendance centre requirements for adults);
 - (r) section 155 (duty to consult on unpaid work requirements);
 - (s) section 156 (assaults on those providing a public service etc.);
 - (t) section 167 (knife crime prevention order on conviction: adjournment of proceedings) to the extent not already in force;
 - (u) section 172(1) to (4) and (11) (list of countries).
 
-## 6. Provisions coming into force on 29th June 2022[^key-285135358f46d0b38d62e189a424def8]
+## 6. Provisions coming into force on 29th June 2022[^c-285135358f46d0b38d62e189a424def8]
 
 *Extent: E+W*
 
@@ -117,13 +117,13 @@ The following provisions of the 2022 Act come into force on 29th June 2022—
 - (a) section 190 (football banning orders: relevant offences) to the extent not already in force;
 - (b) section 192 (football banning orders: requirement to make order on conviction etc.).
 
-## 7. Provisions coming into force on 1st August 2022[^key-61884a9eadeb92cf313897f22bb13b9b]
+## 7. Provisions coming into force on 1st August 2022[^c-61884a9eadeb92cf313897f22bb13b9b]
 
 *Extent: E+W*
 
 Sections 62 to 70 (offences relating to hares etc.) come into force on 1st August 2022.
 
-## 8. Transitional provision[^key-cd2cd9cbb37208566c095bbeef4fcc7a]
+## 8. Transitional provision[^c-cd2cd9cbb37208566c095bbeef4fcc7a]
 
 *Extent: E+W*
 
@@ -161,28 +161,28 @@ Regulation 8 provides that section 80 of the 2022 Act will only apply to offence
 
 [^f00001]: Footnote: [2022 c. 32](https://www.legislation.gov.uk/ukpga/2022/32).
 
-[^key-41d704555d4bf3d0d0e1e90e7d897010]: Commencement: Reg. 1 in force at made date
+[^c-41d704555d4bf3d0d0e1e90e7d897010]: Commencement: Reg. 1 in force at made date
 
-[^key-5e2081990298db0e86522c619d4e399e]: Commencement: Reg. 2 in force at made date
+[^c-5e2081990298db0e86522c619d4e399e]: Commencement: Reg. 2 in force at made date
 
-[^key-73ffbfe307e76a703a14c2ea8ce72f58]: Commencement: Reg. 3 in force at made date
+[^c-73ffbfe307e76a703a14c2ea8ce72f58]: Commencement: Reg. 3 in force at made date
 
-[^key-ca2c4079e5470fd0d035b7ba21d09e38]: Commencement: Reg. 4 in force at made date
+[^c-ca2c4079e5470fd0d035b7ba21d09e38]: Commencement: Reg. 4 in force at made date
 
-[^key-134ade6bf9d43de297b083a4f4c8e7d3]: Commencement: Reg. 5 in force at made date
+[^c-134ade6bf9d43de297b083a4f4c8e7d3]: Commencement: Reg. 5 in force at made date
 
 [^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-7a32988e6c2b90fd20394122a832486a]: Textual amendment: Words in [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) substituted (15.6.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 1 and Transitional Provision) (Amendment) Regulations 2022 (S.I. 2022/680)](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a)
+[^c-7a32988e6c2b90fd20394122a832486a]: Textual amendment: Words in [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) substituted (15.6.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 1 and Transitional Provision) (Amendment) Regulations 2022 (S.I. 2022/680)](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a)
 
-[^key-b22c735fbead996f72f0dd58e398016d]: Textual amendment: Word in [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j) substituted (15.6.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 1 and Transitional Provision) (Amendment) Regulations 2022 (S.I. 2022/680)](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/b)
+[^c-b22c735fbead996f72f0dd58e398016d]: Textual amendment: Word in [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j) substituted (15.6.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 1 and Transitional Provision) (Amendment) Regulations 2022 (S.I. 2022/680)](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/b)
 
-[^key-b9ac9e6d478e74f12ab6a2c7c4743e97]: Textual amendment: Words in [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q) inserted (15.6.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 1 and Transitional Provision) (Amendment) Regulations 2022 (S.I. 2022/680)](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/c)
+[^c-b9ac9e6d478e74f12ab6a2c7c4743e97]: Textual amendment: Words in [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q) inserted (15.6.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 1 and Transitional Provision) (Amendment) Regulations 2022 (S.I. 2022/680)](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/c)
 
-[^key-285135358f46d0b38d62e189a424def8]: Commencement: Reg. 6 in force at made date
+[^c-285135358f46d0b38d62e189a424def8]: Commencement: Reg. 6 in force at made date
 
-[^key-61884a9eadeb92cf313897f22bb13b9b]: Commencement: Reg. 7 in force at made date
+[^c-61884a9eadeb92cf313897f22bb13b9b]: Commencement: Reg. 7 in force at made date
 
-[^key-cd2cd9cbb37208566c095bbeef4fcc7a]: Commencement: Reg. 8 in force at made date
+[^c-cd2cd9cbb37208566c095bbeef4fcc7a]: Commencement: Reg. 8 in force at made date
 
 [^f00003]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Section 137 was amended by sections 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and by section 119 of and Part 1 of Schedule 5 to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60).

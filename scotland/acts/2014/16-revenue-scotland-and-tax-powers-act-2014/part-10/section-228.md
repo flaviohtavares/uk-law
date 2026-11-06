@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 228. Power to obtain details[^key-da14ba0e79027fc68c4672c699d9ff87]
+## 228. Power to obtain details[^c-da14ba0e79027fc68c4672c699d9ff87]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ as is reasonably specified or described in the notice.
 
 ## Annotations
 
-[^key-da14ba0e79027fc68c4672c699d9ff87]: Commencement: [S. 228](https://www.legislation.gov.uk/asp/2014/16/section/228) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-da14ba0e79027fc68c4672c699d9ff87]: Commencement: [S. 228](https://www.legislation.gov.uk/asp/2014/16/section/228) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

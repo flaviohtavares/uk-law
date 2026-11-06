@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 695A. Investment plans for children[^key-2cc2ed721dfd4fbb98471fa23b7ee987]
+## 695A. Investment plans for children[^c-2cc2ed721dfd4fbb98471fa23b7ee987]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and any reference to investments being held by a child includes a reference to i
 
 ## Annotations
 
-[^key-2cc2ed721dfd4fbb98471fa23b7ee987]: Textual amendment: S. 695A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/3)
+[^c-2cc2ed721dfd4fbb98471fa23b7ee987]: Textual amendment: S. 695A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/3)

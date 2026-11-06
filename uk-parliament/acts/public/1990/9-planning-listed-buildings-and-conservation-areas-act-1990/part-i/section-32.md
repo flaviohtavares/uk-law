@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Purchase notice on refusal or conditional grant of listed building consent.[^key-dde3aed7029662b394e9a109516b24f8][^key-b717f0e4d68c249f15048c0eb92cb76c][^c12915891]
+## 32. Purchase notice on refusal or conditional grant of listed building consent.[^c-dde3aed7029662b394e9a109516b24f8][^c-b717f0e4d68c249f15048c0eb92cb76c][^c12915891]
 
 *Extent: E+W*
 
 (1) Where—
 
-- (a) on an application for listed building consent in respect of a building, consent[^key-2d820a39d0c90c36965947173324df3d] is refused, or granted subject to conditions, or such consent granted on an application[^key-1188efc534370fdb964d22d8d63d40e9] is revoked or modified by an order under section 23 or 26; and
+- (a) on an application for listed building consent in respect of a building, consent[^c-2d820a39d0c90c36965947173324df3d] is refused, or granted subject to conditions, or such consent granted on an application[^c-1188efc534370fdb964d22d8d63d40e9] is revoked or modified by an order under section 23 or 26; and
 - (b) any owner of the building claims—
   - (i) that the conditions mentioned in subsection (2) are satisfied with respect to it and any land comprising the building, or contiguous or adjacent to it, and owned with it; and
   - (ii) that the conditions mentioned in subsection (3) are satisfied with respect to that land,
 
-  he may, within the prescribed time and in the prescribed manner, serve on the council of the district [^key-b5baa464a590f6e9cfd34394d5e8f901]... or London borough in which the building and land are situated a notice (in this Act referred to as a “listed building purchase notice”) requiring that council to purchase his interest in the building and land in accordance with sections 33 to 37.
+  he may, within the prescribed time and in the prescribed manner, serve on the council of the district [^c-b5baa464a590f6e9cfd34394d5e8f901]... or London borough in which the building and land are situated a notice (in this Act referred to as a “listed building purchase notice”) requiring that council to purchase his interest in the building and land in accordance with sections 33 to 37.
 
 (2) The conditions mentioned in subsection (1)(b)(i) are—
 
@@ -50,19 +50,19 @@ and the references in those sections and in section 63(7)(a) to a council and to
 
 ## Annotations
 
-[^key-dde3aed7029662b394e9a109516b24f8]: Modification: Ss. 32-33 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-dde3aed7029662b394e9a109516b24f8]: Modification: Ss. 32-33 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
-[^key-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c12915891]: Modification: S. 32 modified by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 13(1)](https://www.legislation.gov.uk/uksi/1990/1519/regulation/13/1); applied (with modifications) by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 12](https://www.legislation.gov.uk/uksi/1990/1519/regulation/12), [Sch. 3](https://www.legislation.gov.uk/uksi/1990/1519/schedule/3)
 
     S. 32: power to modify conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(3)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/3/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 
-[^key-2d820a39d0c90c36965947173324df3d]: Textual amendment: Words in s. 32(1)(a) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 17 para. 10(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/17/paragraph/10/a); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(m)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/m)
+[^c-2d820a39d0c90c36965947173324df3d]: Textual amendment: Words in s. 32(1)(a) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 17 para. 10(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/17/paragraph/10/a); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(m)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/m)
 
-[^key-1188efc534370fdb964d22d8d63d40e9]: Textual amendment: Words in s. 32(1)(a) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 17 para. 10(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/17/paragraph/10/b); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(m)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/m)
+[^c-1188efc534370fdb964d22d8d63d40e9]: Textual amendment: Words in s. 32(1)(a) inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 17 para. 10(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/17/paragraph/10/b); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(m)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/m)
 
-[^key-b5baa464a590f6e9cfd34394d5e8f901]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/32/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 118](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/118) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-b5baa464a590f6e9cfd34394d5e8f901]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/32/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 118](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/118) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c12915911]: Textual amendment: Words in s. 32(4) substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 31(4)](https://www.legislation.gov.uk/ukpga/1991/34/section/31/4), [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/44); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 

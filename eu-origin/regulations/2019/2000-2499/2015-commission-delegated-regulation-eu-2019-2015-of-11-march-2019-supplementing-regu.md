@@ -217,7 +217,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 September 2021. However, point 1(b) of Article 3 shall apply from 1 May 2021.
 
-[^key-4cc518a530fff5c73d891d4f97da1f96]...
+[^c-4cc518a530fff5c73d891d4f97da1f96]...
 
 Done at Brussels, 11 March 2019.
 
@@ -940,7 +940,7 @@ Light sources that allow the end-user to control, manually or automatically, dir
 
 [^f00007]: Footnote: Commission Regulation (EC) No 278/2009 of 6 April 2009 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for no-load condition electric power consumption and average active efficiency of external power supplies ([OJ L 93, 7.4.2009, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.093.01.0003.01.ENG)).
 
-[^key-4cc518a530fff5c73d891d4f97da1f96]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2015/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2020/1528/regulation/25)
+[^c-4cc518a530fff5c73d891d4f97da1f96]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2015/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2020/1528/regulation/25)
 
 [^f00008]: Footnote: Commission Regulation (EC) No 1275/2008 of 17 December 2008 implementing Directive 2005/32/EC of the European Parliament and of the Council with regard to ecodesign requirements for standby and off mode electric power consumption of electrical and electronic household and office equipment ([OJ L 339, 18.12.2008, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.339.01.0045.01.ENG)).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Vehicle, drivers’ and operators’ licences.[^key-b29405ddf5bd59c3bbfc37a8ea56dd6b]
+## 46. Vehicle, drivers’ and operators’ licences.[^c-b29405ddf5bd59c3bbfc37a8ea56dd6b]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b29405ddf5bd59c3bbfc37a8ea56dd6b]: Modification: S. 46 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-b29405ddf5bd59c3bbfc37a8ea56dd6b]: Modification: S. 46 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
 
 [^c7230001]: Textual amendment: Words inserted by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 139(2)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/2), [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/7/paragraph/17/1)

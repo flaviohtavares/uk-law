@@ -119,9 +119,9 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 ## 3. Rate of bereavement support payment
 
-(1)[^key-51b1a547e9bd46b1b32a4c59c1877a92] The higher rate of bereavement support payment is £350 for each monthly recurrence of the day of the month on which the person’s spouse, civil partner or cohabiting partner[^M_F_678fcd1f-9636-4330-bc4c-c1b807f9e0e7] died during the period for which bereavement support payment is payable (see regulation 2).
+(1)[^c-51b1a547e9bd46b1b32a4c59c1877a92] The higher rate of bereavement support payment is £350 for each monthly recurrence of the day of the month on which the person’s spouse, civil partner or cohabiting partner[^M_F_678fcd1f-9636-4330-bc4c-c1b807f9e0e7] died during the period for which bereavement support payment is payable (see regulation 2).
 
-(2)[^key-34b48736b8b39e310b154147b11eccbf][^M_F_e0c8934f-43e2-4eae-8aa8-851ea739bfdb] Where the person claims bereavement support payment 12 months or less after—
+(2)[^c-34b48736b8b39e310b154147b11eccbf][^M_F_e0c8934f-43e2-4eae-8aa8-851ea739bfdb] Where the person claims bereavement support payment 12 months or less after—
 
 - (a) the date their spouse or civil partner died;
 - (b) in the case of a claim in respect of their cohabiting partner who died on or after 30th August 2018 and before the RO commencement day, the RO commencement day;
@@ -131,9 +131,9 @@ the higher rate of bereavement support payment is £3,500 for the first month of
 
 (3) Any higher rate mentioned in paragraph (2) is in addition to any higher rate mentioned in paragraph (1).
 
-(4)[^key-3290beda4bf9e1e75f3bb0f3874ae7be] The standard rate of bereavement support payment is £100 for each monthly recurrence of the day of the month on which the person’s spouse or civil partner died during the period for which bereavement support payment is payable.
+(4)[^c-3290beda4bf9e1e75f3bb0f3874ae7be] The standard rate of bereavement support payment is £100 for each monthly recurrence of the day of the month on which the person’s spouse or civil partner died during the period for which bereavement support payment is payable.
 
-(5)[^key-c4d97caf4c342854a38459399d3703c8] Where the person claims bereavement support payment 12 months or less after the date their spouse or civil partner died, the standard rate of bereavement support payment is £2,500 for the first month of the period for which bereavement support payment is payable.
+(5)[^c-c4d97caf4c342854a38459399d3703c8] Where the person claims bereavement support payment 12 months or less after the date their spouse or civil partner died, the standard rate of bereavement support payment is £2,500 for the first month of the period for which bereavement support payment is payable.
 
 (6) Any standard rate mentioned in paragraph (5) is in addition to any standard rate mentioned in paragraph (4).
 
@@ -184,7 +184,7 @@ A person is entitled to the standard rate of bereavement support payment under r
 
 - (a) a sentence of imprisonment or detention in legal custody as a result of criminal proceedings;
 - (b) a sentence of detention where the provisions mentioned in regulation 6(2)(c)(i) or (d) apply;
-- (c) a suspended sentence within the meaning in section 189 of the Criminal Justice Act 2003 or section 286 of the Sentencing Code[^key-7dd01c4a38cf606386337a693de700ef] (suspended sentences of imprisonment)[^f00009].
+- (c) a suspended sentence within the meaning in section 189 of the Criminal Justice Act 2003 or section 286 of the Sentencing Code[^c-7dd01c4a38cf606386337a693de700ef] (suspended sentences of imprisonment)[^f00009].
 
 (3) A sentence described in paragraph (2)(a) which is imposed outside Great Britain is not a sentence described for the purposes of paragraph (1) if, in similar circumstances in Great Britain, a sentence described in paragraph (2)(a) would not have been imposed.
 
@@ -232,17 +232,17 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^M_F_c07b4c23-fab1-4623-bdcc-696e368197bf]: Textual amendment: Reg. 2(4)-(13) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(2)(c)](https://www.legislation.gov.uk/uksi/2023/134/article/6/2/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 
-[^key-51b1a547e9bd46b1b32a4c59c1877a92]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/1): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(a)](https://www.legislation.gov.uk/uksi/2026/148/article/19/a)
+[^c-51b1a547e9bd46b1b32a4c59c1877a92]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/1): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(a)](https://www.legislation.gov.uk/uksi/2026/148/article/19/a)
 
 [^M_F_678fcd1f-9636-4330-bc4c-c1b807f9e0e7]: Textual amendment: Words in reg. 3(1) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 
-[^key-34b48736b8b39e310b154147b11eccbf]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/2): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(b)](https://www.legislation.gov.uk/uksi/2026/148/article/19/b)
+[^c-34b48736b8b39e310b154147b11eccbf]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/2): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(b)](https://www.legislation.gov.uk/uksi/2026/148/article/19/b)
 
 [^M_F_e0c8934f-43e2-4eae-8aa8-851ea739bfdb]: Textual amendment: Reg. 3(2) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 
-[^key-3290beda4bf9e1e75f3bb0f3874ae7be]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/4): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(c)](https://www.legislation.gov.uk/uksi/2026/148/article/19/c)
+[^c-3290beda4bf9e1e75f3bb0f3874ae7be]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/4): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(c)](https://www.legislation.gov.uk/uksi/2026/148/article/19/c)
 
-[^key-c4d97caf4c342854a38459399d3703c8]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/5): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(d)](https://www.legislation.gov.uk/uksi/2026/148/article/19/d)
+[^c-c4d97caf4c342854a38459399d3703c8]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/5): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(d)](https://www.legislation.gov.uk/uksi/2026/148/article/19/d)
 
 [^M_F_ae288be0-be10-491c-893f-7900e99537d4]: Textual amendment: Words in reg. 3(7) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(c)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 
@@ -264,7 +264,7 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^f00008]: Footnote: [2003 asp.13](https://www.legislation.gov.uk/asp/2003/13).
 
-[^key-7dd01c4a38cf606386337a693de700ef]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2017/410/regulation/7/2/c) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 437](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/437) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7dd01c4a38cf606386337a693de700ef]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2017/410/regulation/7/2/c) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 437](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/437) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00009]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44). Section 189 was amended by section 68 of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10) and [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643).
 

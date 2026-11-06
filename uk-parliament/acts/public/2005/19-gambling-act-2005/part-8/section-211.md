@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Vehicles and vessels[^key-a4b0ce309fa87cf1cda6069e7731a1a4]
+## 211. Vehicles and vessels[^c-a4b0ce309fa87cf1cda6069e7731a1a4]
 
 *Extent: E+W+S*
 
@@ -40,12 +40,12 @@ summary: ''
 
 - (a) a navigation authority, within the meaning of section 221(1) of the Water Resources Act 1991 (c. 57), which has functions in relation to any place where the vessel is or is likely to be while activities are carried on in the vessel in reliance on a premises licence,
 - (b) the Environment Agency,
-- (c)[^key-740544f5be42738b617475af663f682b] the British Waterways Board, if the place where the vessel is or is likely to be while activities are carried on in the vessel in reliance on a premises licence is in Scotland,
+- (c)[^c-740544f5be42738b617475af663f682b] the British Waterways Board, if the place where the vessel is or is likely to be while activities are carried on in the vessel in reliance on a premises licence is in Scotland,
 - (ca) Canal & River Trust, if the place where the vessel is or is likely to be while activities are carried on in the vessel in reliance on a premises licence is in England or Wales, and
 - (d) the Secretary of State.
 
 ## Annotations
 
-[^key-a4b0ce309fa87cf1cda6069e7731a1a4]: Commencement: S. 211 in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 3(3), 4)
+[^c-a4b0ce309fa87cf1cda6069e7731a1a4]: Commencement: S. 211 in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 3(3), 4)
 
-[^key-740544f5be42738b617475af663f682b]: Textual amendment: [S. 211(4)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/211/4/c)[(ca)](https://www.legislation.gov.uk/ukpga/2005/19/section/211/4/ca) substituted for [s. 211(4)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/211/4/c) (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/17/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-740544f5be42738b617475af663f682b]: Textual amendment: [S. 211(4)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/211/4/c)[(ca)](https://www.legislation.gov.uk/ukpga/2005/19/section/211/4/ca) substituted for [s. 211(4)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/211/4/c) (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/17/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 329. Pension arrangements in connection with Great British Nuclear[^key-f685680a17ddb4fbc4f735ff70f8b04e]
+## 329. Pension arrangements in connection with Great British Nuclear[^c-f685680a17ddb4fbc4f735ff70f8b04e]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f685680a17ddb4fbc4f735ff70f8b04e]: Commencement: S. 329 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-f685680a17ddb4fbc4f735ff70f8b04e]: Commencement: S. 329 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

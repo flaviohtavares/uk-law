@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Right of access to adoption agency records[^key-afc9ea319d23d30c268da456974660b8]
+## 107. Right of access to adoption agency records[^c-afc9ea319d23d30c268da456974660b8]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afc9ea319d23d30c268da456974660b8]: Commencement: S. 107 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-afc9ea319d23d30c268da456974660b8]: Commencement: S. 107 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

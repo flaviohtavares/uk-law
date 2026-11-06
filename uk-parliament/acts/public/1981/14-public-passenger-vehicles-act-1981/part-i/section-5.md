@@ -22,7 +22,7 @@ summary: ''
 
 (1) Every traffic commissioner shall publish, in such form and at such times as may be prescribed, such information with respect to the exercise, or proposed exercise, of any of his functions under this Act or the Transport Act 1985 as may be prescribed.
 
-(2)[^key-af429f2f6863ef7036d9c20dea3237dc] Where a traffic commissioner publishes information under this section he shall—
+(2)[^c-af429f2f6863ef7036d9c20dea3237dc] Where a traffic commissioner publishes information under this section he shall—
 
 - (a) send a copy of the publication—
   - (i) to every chief officer of police, Passenger Transport Executive and local authority whose area the traffic commissioner considers may be affected by the information; and
@@ -38,6 +38,6 @@ summary: ''
 
 [^c16021831]: Textual amendment: Ss. 4, 5 substituted by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1985/67/section/3/2)
 
-[^key-af429f2f6863ef7036d9c20dea3237dc]: Textual amendment: Words in s. 5(2) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-af429f2f6863ef7036d9c20dea3237dc]: Textual amendment: Words in s. 5(2) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2514981]: Textual amendment: Words in s. 5(3)(b) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 121(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/121/2) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4](https://www.legislation.gov.uk/uksi/1996/323/article/4)

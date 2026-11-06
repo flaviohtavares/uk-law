@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Power to authorise[^key-8826b9e36e4736ad16f18399e7ee583e]
+## 3. Power to authorise[^c-8826b9e36e4736ad16f18399e7ee583e]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8826b9e36e4736ad16f18399e7ee583e]: Commencement: S. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-8826b9e36e4736ad16f18399e7ee583e]: Commencement: S. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

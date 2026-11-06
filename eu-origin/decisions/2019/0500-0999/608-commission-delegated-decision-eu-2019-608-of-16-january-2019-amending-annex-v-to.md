@@ -37,18 +37,18 @@ amending Annex V to Directive 2005/36/EC of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-81179f79e8934a9290b239eae0557109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81179f79e8934a9290b239eae0557109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-81179f79e8934a9290b239eae0557109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-81179f79e8934a9290b239eae0557109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-81179f79e8934a9290b239eae0557109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-81179f79e8934a9290b239eae0557109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81179f79e8934a9290b239eae0557109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81179f79e8934a9290b239eae0557109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-81179f79e8934a9290b239eae0557109]
+## ANNEX[^c-81179f79e8934a9290b239eae0557109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81179f79e8934a9290b239eae0557109]: Textual amendment: Decision revoked (31.12.2020) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/4), [13(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/13/b)
+[^c-81179f79e8934a9290b239eae0557109]: Textual amendment: Decision revoked (31.12.2020) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/4), [13(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/13/b)

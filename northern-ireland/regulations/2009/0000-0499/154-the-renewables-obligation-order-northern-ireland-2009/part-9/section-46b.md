@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46B. Solid and gaseous biomass sustainability audit report[^key-f7720d52ffaf9d638f381672cd473e35]
+## 46B. Solid and gaseous biomass sustainability audit report[^c-f7720d52ffaf9d638f381672cd473e35]
 
 *Extent: N.I.*
 
@@ -27,8 +27,8 @@ summary: ''
 
 (2) In relation to each consignment of biomass used in a generating station to which this Article applies, and in respect of which the operator of the station has—
 
-- (a) in the case of biomass which is waste[^key-ccfdf075ad4ead5d3b72bc0d70b6f6bc]..., provided the information specified in Article 46(3)(c);
-- (b) in the case of biomass which is not waste[^key-ccfdf075ad4ead5d3b72bc0d70b6f6bc]..., provided the information specified in Article 46(5)[^key-2c99e156b676f2c57ffe1ed06c15a242]
+- (a) in the case of biomass which is waste[^c-ccfdf075ad4ead5d3b72bc0d70b6f6bc]..., provided the information specified in Article 46(3)(c);
+- (b) in the case of biomass which is not waste[^c-ccfdf075ad4ead5d3b72bc0d70b6f6bc]..., provided the information specified in Article 46(5)[^c-2c99e156b676f2c57ffe1ed06c15a242]
 
 the operator of the station must, by the 30th June immediately following the obligation period during which the biomass was used (“the relevant date”), provide the Authority with a sustainability audit report meeting the requirements specified in paragraph (3).
 
@@ -50,19 +50,19 @@ the operator of the station must, by the 30th June immediately following the obl
 
 (6) In this Article, “relevant information” means—
 
-- (a) in relation to a consignment of biomass which is waste[^key-9e2055571b3c82b64cc727093fe7f6f6]..., the information specified in Article 46(3)(c) that is provided to the Authority by the operator of the generating station in respect of the consignment;
-- (b) in relation to a consignment of biomass which is not waste[^key-9e2055571b3c82b64cc727093fe7f6f6]..., the information specified in Article 46(5)[^key-15803f6903175f02480e48afb0b54b0e] that is provided to the Authority by the operator of the generating station in respect of the consignment.
+- (a) in relation to a consignment of biomass which is waste[^c-9e2055571b3c82b64cc727093fe7f6f6]..., the information specified in Article 46(3)(c) that is provided to the Authority by the operator of the generating station in respect of the consignment;
+- (b) in relation to a consignment of biomass which is not waste[^c-9e2055571b3c82b64cc727093fe7f6f6]..., the information specified in Article 46(5)[^c-15803f6903175f02480e48afb0b54b0e] that is provided to the Authority by the operator of the generating station in respect of the consignment.
 
 (7) Reference in this Article to biomass do not include bioliquid, landfill gas, sewage gas, municipal waste or excreta produced by animals.
 
 ## Annotations
 
-[^key-f7720d52ffaf9d638f381672cd473e35]: Textual amendment: [Art. 46B](https://www.legislation.gov.uk/nisr/2009/154/article/46B) inserted (1.6.2014) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/146)](https://www.legislation.gov.uk/nisr/2014/146), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/146/article/1/1), [5](https://www.legislation.gov.uk/nisr/2014/146/article/5) (with [art. 11](https://www.legislation.gov.uk/nisr/2014/146/article/11))
+[^c-f7720d52ffaf9d638f381672cd473e35]: Textual amendment: [Art. 46B](https://www.legislation.gov.uk/nisr/2009/154/article/46B) inserted (1.6.2014) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/146)](https://www.legislation.gov.uk/nisr/2014/146), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/146/article/1/1), [5](https://www.legislation.gov.uk/nisr/2014/146/article/5) (with [art. 11](https://www.legislation.gov.uk/nisr/2014/146/article/11))
 
-[^key-ccfdf075ad4ead5d3b72bc0d70b6f6bc]: Textual amendment: Words in [art. 46B(2)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/2/a)[(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/2/b) omitted (1.3.2016) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2016/84/article/8/a/i) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-ccfdf075ad4ead5d3b72bc0d70b6f6bc]: Textual amendment: Words in [art. 46B(2)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/2/a)[(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/2/b) omitted (1.3.2016) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2016/84/article/8/a/i) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
 
-[^key-2c99e156b676f2c57ffe1ed06c15a242]: Textual amendment: Word in [art. 46B(2)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/2/b) substituted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2016/84/article/8/a/ii) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-2c99e156b676f2c57ffe1ed06c15a242]: Textual amendment: Word in [art. 46B(2)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/2/b) substituted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2016/84/article/8/a/ii) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
 
-[^key-9e2055571b3c82b64cc727093fe7f6f6]: Textual amendment: Words in [art. 46B(6)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/6/a)[(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/6/b) omitted (1.3.2016) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(b)(i)](https://www.legislation.gov.uk/nisr/2016/84/article/8/b/i) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-9e2055571b3c82b64cc727093fe7f6f6]: Textual amendment: Words in [art. 46B(6)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/6/a)[(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/6/b) omitted (1.3.2016) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(b)(i)](https://www.legislation.gov.uk/nisr/2016/84/article/8/b/i) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
 
-[^key-15803f6903175f02480e48afb0b54b0e]: Textual amendment: Word in [art. 46B(6)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/6/b) substituted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(b)(ii)](https://www.legislation.gov.uk/nisr/2016/84/article/8/b/ii) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-15803f6903175f02480e48afb0b54b0e]: Textual amendment: Word in [art. 46B(6)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/46B/6/b) substituted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [8(b)(ii)](https://www.legislation.gov.uk/nisr/2016/84/article/8/b/ii) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))

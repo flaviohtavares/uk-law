@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Power to permanently modify provision about registration of electors[^key-8bc71a2a97f15984f4004a485cc86a9e][^key-4da6c2e7f6c56c707b2fba327a43753a]
+## 43. Power to permanently modify provision about registration of electors[^c-8bc71a2a97f15984f4004a485cc86a9e][^c-4da6c2e7f6c56c707b2fba327a43753a]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bc71a2a97f15984f4004a485cc86a9e]: Commencement: S. 43 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-8bc71a2a97f15984f4004a485cc86a9e]: Commencement: S. 43 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-4da6c2e7f6c56c707b2fba327a43753a]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/4/section/43) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-4da6c2e7f6c56c707b2fba327a43753a]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/4/section/43) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

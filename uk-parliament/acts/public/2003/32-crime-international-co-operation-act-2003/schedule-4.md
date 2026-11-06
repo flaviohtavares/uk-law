@@ -22,11 +22,11 @@ summary: ''
 
 Section 90
 
-**1.**[^key-1d36430b21937311686a60c57ea5a671] The Terrorism Act 2000 (c. 11) is amended as follows.
+**1.**[^c-1d36430b21937311686a60c57ea5a671] The Terrorism Act 2000 (c. 11) is amended as follows.
 
-**2.**[^key-de027b734beb003ed8a510ffbd4ee482] In section 123 (orders and regulations), in subsection (2)(i), for “paragraph” there is substituted “ paragraphs 11A, 25A, 41A and ”.
+**2.**[^c-de027b734beb003ed8a510ffbd4ee482] In section 123 (orders and regulations), in subsection (2)(i), for “paragraph” there is substituted “ paragraphs 11A, 25A, 41A and ”.
 
-**3.**[^key-2adc34981bf5438f491c3ff1933eab8a] In Part 1 of Schedule 4 (forfeiture orders: England and Wales), after paragraph 11 there is inserted—
+**3.**[^c-2adc34981bf5438f491c3ff1933eab8a] In Part 1 of Schedule 4 (forfeiture orders: England and Wales), after paragraph 11 there is inserted—
 
 > **Domestic and overseas freezing orders**
 >
@@ -168,9 +168,9 @@ Section 90
 > - (a) may make different provision for different cases,
 > - (b) is not to be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.
 
-**4.**[^key-f168b752f4b29caae93d67b399ebddef] In paragraph 14 of that Schedule (enforcement of orders made in designated countries), in sub-paragraph (2), after the second “order” there is inserted “ (other than an overseas freezing order within the meaning of paragraph 11D) ”.
+**4.**[^c-f168b752f4b29caae93d67b399ebddef] In paragraph 14 of that Schedule (enforcement of orders made in designated countries), in sub-paragraph (2), after the second “order” there is inserted “ (other than an overseas freezing order within the meaning of paragraph 11D) ”.
 
-**5.**[^key-dcbf39d75c7bb19cec60d87f2913e0a4] In Part 2 of that Schedule (forfeiture orders: Scotland), after paragraph 25 there is inserted—
+**5.**[^c-dcbf39d75c7bb19cec60d87f2913e0a4] In Part 2 of that Schedule (forfeiture orders: Scotland), after paragraph 25 there is inserted—
 
 > **Domestic and overseas freezing orders**
 >
@@ -312,9 +312,9 @@ Section 90
 > - (a) may make different provision for different cases,
 > - (b) is not to be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.
 
-**6.**[^key-f09e7d563988e60f4d4aba1c7afbb29b] In paragraph 28 of that Schedule (enforcement of orders made in designated countries), in sub-paragraph (2), after the second “order” there is inserted “ (other than an overseas freezing order within the meaning of paragraph 25D) ”.
+**6.**[^c-f09e7d563988e60f4d4aba1c7afbb29b] In paragraph 28 of that Schedule (enforcement of orders made in designated countries), in sub-paragraph (2), after the second “order” there is inserted “ (other than an overseas freezing order within the meaning of paragraph 25D) ”.
 
-**7.**[^key-04b8854b1aa30e5d65f24366f926a798] In Part 3 of that Schedule (forfeiture orders: Northern Ireland), after paragraph 41 there is inserted—
+**7.**[^c-04b8854b1aa30e5d65f24366f926a798] In Part 3 of that Schedule (forfeiture orders: Northern Ireland), after paragraph 41 there is inserted—
 
 > **Domestic and overseas freezing orders**
 >
@@ -456,26 +456,26 @@ Section 90
 > - (a) may make different provision for different cases,
 > - (b) is not to be made unless a draft of it has been laid before and approved by resolution of each House of Parliament.
 
-**8.**[^key-f76f889eee97fe4b36790f27cbb1f808] In paragraph 44 of that Schedule (enforcement of orders made in designated countries), in sub-paragraph (2), after the second “order” there is inserted “ (other than an overseas freezing order within the meaning of paragraph 41D) ”.
+**8.**[^c-f76f889eee97fe4b36790f27cbb1f808] In paragraph 44 of that Schedule (enforcement of orders made in designated countries), in sub-paragraph (2), after the second “order” there is inserted “ (other than an overseas freezing order within the meaning of paragraph 41D) ”.
 
-**9.**[^key-02d1722c2452e47f79b32a20c8e2a122] In Part 4 of that Schedule (insolvency), in paragraph 45, at the end of paragraph (c) of the definition of “restraint order” there is inserted “ or an order which is enforceable in England and Wales, Scotland or Northern Ireland by virtue of paragraph 11G, 25G or 41G ”.
+**9.**[^c-02d1722c2452e47f79b32a20c8e2a122] In Part 4 of that Schedule (insolvency), in paragraph 45, at the end of paragraph (c) of the definition of “restraint order” there is inserted “ or an order which is enforceable in England and Wales, Scotland or Northern Ireland by virtue of paragraph 11G, 25G or 41G ”.
 
 ## Annotations
 
-[^key-1d36430b21937311686a60c57ea5a671]: Commencement: Sch. 4 para. 1 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-1d36430b21937311686a60c57ea5a671]: Commencement: Sch. 4 para. 1 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-de027b734beb003ed8a510ffbd4ee482]: Commencement: Sch. 4 para. 2 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-de027b734beb003ed8a510ffbd4ee482]: Commencement: Sch. 4 para. 2 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-2adc34981bf5438f491c3ff1933eab8a]: Commencement: Sch. 4 para. 3 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-2adc34981bf5438f491c3ff1933eab8a]: Commencement: Sch. 4 para. 3 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-f168b752f4b29caae93d67b399ebddef]: Commencement: Sch. 4 para. 4 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-f168b752f4b29caae93d67b399ebddef]: Commencement: Sch. 4 para. 4 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-dcbf39d75c7bb19cec60d87f2913e0a4]: Commencement: Sch. 4 para. 5 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-dcbf39d75c7bb19cec60d87f2913e0a4]: Commencement: Sch. 4 para. 5 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-f09e7d563988e60f4d4aba1c7afbb29b]: Commencement: Sch. 4 para. 6 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-f09e7d563988e60f4d4aba1c7afbb29b]: Commencement: Sch. 4 para. 6 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-04b8854b1aa30e5d65f24366f926a798]: Commencement: Sch. 4 para. 7 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-04b8854b1aa30e5d65f24366f926a798]: Commencement: Sch. 4 para. 7 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-f76f889eee97fe4b36790f27cbb1f808]: Commencement: Sch. 4 para. 8 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-f76f889eee97fe4b36790f27cbb1f808]: Commencement: Sch. 4 para. 8 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
 
-[^key-02d1722c2452e47f79b32a20c8e2a122]: Commencement: Sch. 4 para. 9 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)
+[^c-02d1722c2452e47f79b32a20c8e2a122]: Commencement: Sch. 4 para. 9 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/b)

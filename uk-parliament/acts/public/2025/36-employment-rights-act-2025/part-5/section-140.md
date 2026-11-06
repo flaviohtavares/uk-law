@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Offence of providing false information or documents[^key-edf41d8cad9a3c1d502ad30855e6c3fd][^key-ea7453a9ae4eb6a050b08f516f9f6498]
+## 140. Offence of providing false information or documents[^c-edf41d8cad9a3c1d502ad30855e6c3fd][^c-ea7453a9ae4eb6a050b08f516f9f6498]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edf41d8cad9a3c1d502ad30855e6c3fd]: Commencement: S. 140 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-edf41d8cad9a3c1d502ad30855e6c3fd]: Commencement: S. 140 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-ea7453a9ae4eb6a050b08f516f9f6498]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2025/36/section/140) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(41)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/41)
+[^c-ea7453a9ae4eb6a050b08f516f9f6498]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2025/36/section/140) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(41)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/41)

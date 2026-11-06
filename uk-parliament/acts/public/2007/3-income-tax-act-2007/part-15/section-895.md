@@ -41,9 +41,9 @@ summary: ''
 
 - “**registered**” means—
   - (a) entered in the register of the Registrar, or
-  - (b) entered in a register maintained in accordance with regulations under section 785 of the Companies Act 2006 (provision enabling procedures for evidencing and transferring title),[^key-0246beee65fb9bc63c0e46282292843f] and
+  - (b) entered in a register maintained in accordance with regulations under section 785 of the Companies Act 2006 (provision enabling procedures for evidencing and transferring title),[^c-0246beee65fb9bc63c0e46282292843f] and
 - “**the Registrar**” means the person or persons appointed in accordance with regulations under section 47(1)(b) of FA 1942 (see regulation 3 of the Government Stock Regulations 2004 (S.I. 2004/1611)).
 
 ## Annotations
 
-[^key-0246beee65fb9bc63c0e46282292843f]: Textual amendment: Words in s. 895(6) substituted (6.4.2008) by [Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [40](https://www.legislation.gov.uk/uksi/2008/954/article/40) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-0246beee65fb9bc63c0e46282292843f]: Textual amendment: Words in s. 895(6) substituted (6.4.2008) by [Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [40](https://www.legislation.gov.uk/uksi/2008/954/article/40) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))

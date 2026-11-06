@@ -83,7 +83,7 @@ any multiple of 1 gallon
 | [^c13371061]. . . 4 pints | [^c13371061]. . . |
 | 2 pints |  |
 | 1 pint | [^c13371061]. . . |
-| 2/3 pint[^key-0d5081d0dc481f30a766db844d17ee05] |  |
+| 2/3 pint[^c-0d5081d0dc481f30a766db844d17ee05] |  |
 | ½ pint | [^c13371061]. . . |
 | [^c13371061]. . . | [^c13371061]. . . |
 | 1/3pint | [^c13371061]. . . |
@@ -181,7 +181,7 @@ any multiple of 10 litres
 
 [^c13371071]: Textual amendment: Words in Sch. 3 Pt. IV para. 1 inserted (1.10.1995) by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/1994/2866/article/3/3/b)
 
-[^key-0d5081d0dc481f30a766db844d17ee05]: Textual amendment: Words in Sch. 3 Pt. IV para. 1 inserted (1.10.2011) by [The Weights and Measures (Specified Quantities) (Unwrapped Bread and Intoxicating Liquor) Order 2011 (S.I. 2011/2331)](https://www.legislation.gov.uk/uksi/2011/2331), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2331/article/1), [2](https://www.legislation.gov.uk/uksi/2011/2331/article/2)
+[^c-0d5081d0dc481f30a766db844d17ee05]: Textual amendment: Words in Sch. 3 Pt. IV para. 1 inserted (1.10.2011) by [The Weights and Measures (Specified Quantities) (Unwrapped Bread and Intoxicating Liquor) Order 2011 (S.I. 2011/2331)](https://www.legislation.gov.uk/uksi/2011/2331), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2331/article/1), [2](https://www.legislation.gov.uk/uksi/2011/2331/article/2)
 
 [^c13371241]: Textual amendment: Entry in Sch. 3 Pt. IV para. 2 substituted (3.4.2001) by [S.I. 2001/1322](https://www.legislation.gov.uk/uksi/2001/1322), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/1322/article/2/b)
 

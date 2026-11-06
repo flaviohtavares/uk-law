@@ -51,13 +51,13 @@ The National Assembly for Wales being designated [^c17695571] for the purposes o
 
 (1) In these Regulations —
 
-- “**EU legislation[^key-1e09594789945a8054a554f3d7b1e39c]**” (“***y ddeddfwriaeth Gymunedol***”) means those instruments listed in the Schedule;
+- “**EU legislation[^c-1e09594789945a8054a554f3d7b1e39c]**” (“***y ddeddfwriaeth Gymunedol***”) means those instruments listed in the Schedule;
 - “**the National Assembly**” (“***y Cynulliad Cenedlaethol***”) means the National Assembly for Wales; and
 - “**a relevant determination**” (“***penderfyniad perthnasol***”) means any determination of the National Assembly in respect of financial assistance and claims for financial assistance pursuant to, or in connection with, the EU legislation, and the legislation cited in regulation 4 (a) to (m) of these Regulations.
 
-(2)[^key-c1d04ff1e286ee9e2e3c1ffb534210ec] Any reference in these Regulations to an EU instrument[^key-391299abba15f0a6c9e86a335ae1309f] is a reference to that instrument as amended from time to time.
+(2)[^c-c1d04ff1e286ee9e2e3c1ffb534210ec] Any reference in these Regulations to an EU instrument[^c-391299abba15f0a6c9e86a335ae1309f] is a reference to that instrument as amended from time to time.
 
-## 3. Provision of appeals procedure[^key-63e84303fe59f83fe44ac0c10e9da2eb][^key-844550f8af5fc7f5cdcae6182bb5d096][^key-ee8b5b90d76a55bbf78ae804c420987a]
+## 3. Provision of appeals procedure[^c-63e84303fe59f83fe44ac0c10e9da2eb][^c-844550f8af5fc7f5cdcae6182bb5d096][^c-ee8b5b90d76a55bbf78ae804c420987a]
 
 (1) The National Assembly may establish one or more procedures for the further consideration on its behalf of a relevant determination, such procedure or procedures operating by way of appeal from the relevant determination in question.
 
@@ -68,9 +68,9 @@ The National Assembly for Wales being designated [^c17695571] for the purposes o
 (4) When the National Assembly establishes any such procedure as is mentioned in paragraph (3), it may—
 
 - (a) pay to the persons so appointed such remuneration in respect of their functions under that procedure, and such travelling and other allowances, as it may determine; and
-- (b) charge any person whose appeal is considered under a procedure so established such fee (not exceeding £100) as the National Assembly may determine subject to paragraph (5)[^key-3aa3dfa7548d22ef0d067b3427c64ade].
+- (b) charge any person whose appeal is considered under a procedure so established such fee (not exceeding £100) as the National Assembly may determine subject to paragraph (5)[^c-3aa3dfa7548d22ef0d067b3427c64ade].
 
-(5)[^key-7557e6dae88767eea830c723b5a0d560] As far as the appeal fee relates to a pre-2023 Act scheme, the Welsh Ministers may charge any person whose appeal is considered under any such procedure as is mentioned in paragraph (3) such fee as the Welsh Ministers may determine.
+(5)[^c-7557e6dae88767eea830c723b5a0d560] As far as the appeal fee relates to a pre-2023 Act scheme, the Welsh Ministers may charge any person whose appeal is considered under any such procedure as is mentioned in paragraph (3) such fee as the Welsh Ministers may determine.
 
 (6) In this regulation, “**a pre-2023 Act scheme**” means any scheme operating under legislation referred to in section 16(2), 17(2) or 19(2) of the Agriculture (Wales) Act 2023.
 
@@ -103,7 +103,7 @@ D. Elis-Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE — MEANING OF “EU legislation”[^key-797c9bb5e16c4fb320700651cd2b8cd9]
+## SCHEDULE — MEANING OF “EU legislation”[^c-797c9bb5e16c4fb320700651cd2b8cd9]
 
 Regulation 2
 
@@ -127,11 +127,11 @@ Regulation 2
 
 **10.** Commission Regulation [(EC) 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817) of 29 April 2004 laying down detailed rules for the application of Council Regulation 1257/1999 on support for rural development from the European Agricultural and Guarantee Fund.
 
-**11.**[^key-6bda6669c9f2b1fb1a75aeaed04ea283] Commission Regulation [(EC) No. 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975) of 23 December 2006 laying down detailed rules for the implementation of Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures.
+**11.**[^c-6bda6669c9f2b1fb1a75aeaed04ea283] Commission Regulation [(EC) No. 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975) of 23 December 2006 laying down detailed rules for the implementation of Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures.
 
 **12.** Commission Regulation [(EC) No. 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974) of 23 December 2006 laying down detailed rules for the application of Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
 
-**13.**[^key-f060fb9c8045705a9f86e4860c7738dc] Commission Regulation [(EC) No 1857/2006](https://www.legislation.gov.uk/european/regulation/2006/1857) of 15 December 2006 on the application of Articles 87 and 88 of the Treaty to State aid to small and medium-sized enterprises active in the production of agricultural products and amending Regulation [(EC) No 70/2001](https://www.legislation.gov.uk/european/regulation/2001/0070).
+**13.**[^c-f060fb9c8045705a9f86e4860c7738dc] Commission Regulation [(EC) No 1857/2006](https://www.legislation.gov.uk/european/regulation/2006/1857) of 15 December 2006 on the application of Articles 87 and 88 of the Treaty to State aid to small and medium-sized enterprises active in the production of agricultural products and amending Regulation [(EC) No 70/2001](https://www.legislation.gov.uk/european/regulation/2001/0070).
 
 **14.** Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers.
 
@@ -141,7 +141,7 @@ Regulation 2
 
 **17.** Commission Regulation [(EC) No 1122/2009](https://www.legislation.gov.uk/european/regulation/2009/1122) of 30 November 2009 laying down detailed rules for the implementation of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for that Regulation, as well as for the implementation of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards cross-compliance under the support scheme provided for the wine sector.
 
-**18.**[^key-5eabace8fd5843b7e56d303766bccf1a] Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
+**18.**[^c-5eabace8fd5843b7e56d303766bccf1a] Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
 
 **19.** Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy.
 
@@ -177,21 +177,21 @@ A regulatory appraisal has been prepared in respect of these Regulations. Copies
 
 [^c17695581]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-1e09594789945a8054a554f3d7b1e39c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/3342/regulation/2/1) substituted (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/wsi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/2/2)
+[^c-1e09594789945a8054a554f3d7b1e39c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/3342/regulation/2/1) substituted (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/wsi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/2/2)
 
-[^key-c1d04ff1e286ee9e2e3c1ffb534210ec]: Textual amendment: Reg. 2(2) inserted (W.) (1.11.2007) by [The Rural Development Programmes and Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2007 (S.I. 2007/2900)](https://www.legislation.gov.uk/uksi/2007/2900), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/3/2)
+[^c-c1d04ff1e286ee9e2e3c1ffb534210ec]: Textual amendment: Reg. 2(2) inserted (W.) (1.11.2007) by [The Rural Development Programmes and Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2007 (S.I. 2007/2900)](https://www.legislation.gov.uk/uksi/2007/2900), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/3/2)
 
-[^key-391299abba15f0a6c9e86a335ae1309f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/3342/regulation/2/2) substituted (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/wsi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/2/3)
+[^c-391299abba15f0a6c9e86a335ae1309f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/3342/regulation/2/2) substituted (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/wsi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/2/3)
 
-[^key-63e84303fe59f83fe44ac0c10e9da2eb]: Modification: Reg. 3 applied (25.5.2010) by [The Tuberculosis (Wales) Order 2010 (S.I. 2010/1379)](https://www.legislation.gov.uk/uksi/2010/1379), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1379/article/1), [26(2)](https://www.legislation.gov.uk/uksi/2010/1379/article/26/2)
+[^c-63e84303fe59f83fe44ac0c10e9da2eb]: Modification: Reg. 3 applied (25.5.2010) by [The Tuberculosis (Wales) Order 2010 (S.I. 2010/1379)](https://www.legislation.gov.uk/uksi/2010/1379), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1379/article/1), [26(2)](https://www.legislation.gov.uk/uksi/2010/1379/article/26/2)
 
-[^key-844550f8af5fc7f5cdcae6182bb5d096]: Modification: Reg. 3 applied (31.3.2011) by [The Tuberculosis (Wales) Order 2011 (S.I. 2011/692)](https://www.legislation.gov.uk/uksi/2011/692), [arts. 1](https://www.legislation.gov.uk/uksi/2011/692/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2011/692/article/20/2)[(3)](https://www.legislation.gov.uk/uksi/2011/692/article/20/3)
+[^c-844550f8af5fc7f5cdcae6182bb5d096]: Modification: Reg. 3 applied (31.3.2011) by [The Tuberculosis (Wales) Order 2011 (S.I. 2011/692)](https://www.legislation.gov.uk/uksi/2011/692), [arts. 1](https://www.legislation.gov.uk/uksi/2011/692/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2011/692/article/20/2)[(3)](https://www.legislation.gov.uk/uksi/2011/692/article/20/3)
 
-[^key-ee8b5b90d76a55bbf78ae804c420987a]: Modification: Reg. 3 applied (4.8.2014) by [The Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014 (S.I. 2014/1835)](https://www.legislation.gov.uk/wsi/2014/1835), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/1835/regulation/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2014/1835/regulation/3/3)
+[^c-ee8b5b90d76a55bbf78ae804c420987a]: Modification: Reg. 3 applied (4.8.2014) by [The Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014 (S.I. 2014/1835)](https://www.legislation.gov.uk/wsi/2014/1835), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/1835/regulation/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2014/1835/regulation/3/3)
 
-[^key-3aa3dfa7548d22ef0d067b3427c64ade]: Textual amendment: Words in reg. 3(4)(b) inserted (1.1.2026) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1271)](https://www.legislation.gov.uk/wsi/2025/1271), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/2/2)
+[^c-3aa3dfa7548d22ef0d067b3427c64ade]: Textual amendment: Words in reg. 3(4)(b) inserted (1.1.2026) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1271)](https://www.legislation.gov.uk/wsi/2025/1271), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/2/2)
 
-[^key-7557e6dae88767eea830c723b5a0d560]: Textual amendment: Reg. 3(5)(6) inserted (1.1.2026) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1271)](https://www.legislation.gov.uk/wsi/2025/1271), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/2/3)
+[^c-7557e6dae88767eea830c723b5a0d560]: Textual amendment: Reg. 3(5)(6) inserted (1.1.2026) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1271)](https://www.legislation.gov.uk/wsi/2025/1271), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/2/3)
 
 [^c17695591]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1987/2026.
 
@@ -225,10 +225,10 @@ A regulatory appraisal has been prepared in respect of these Regulations. Copies
 
 [^c17695741]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-797c9bb5e16c4fb320700651cd2b8cd9]: Textual amendment: Words in Sch. substituted (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/uksi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/2/2)
+[^c-797c9bb5e16c4fb320700651cd2b8cd9]: Textual amendment: Words in Sch. substituted (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/uksi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/2/2)
 
-[^key-6bda6669c9f2b1fb1a75aeaed04ea283]: Textual amendment: Sch. paras. 11, 12 added (W.) (1.11.2007) by [The Rural Development Programmes and Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2007 (S.I. 2007/2900)](https://www.legislation.gov.uk/uksi/2007/2900), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/3/3)
+[^c-6bda6669c9f2b1fb1a75aeaed04ea283]: Textual amendment: Sch. paras. 11, 12 added (W.) (1.11.2007) by [The Rural Development Programmes and Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2007 (S.I. 2007/2900)](https://www.legislation.gov.uk/uksi/2007/2900), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/3/3)
 
-[^key-f060fb9c8045705a9f86e4860c7738dc]: Textual amendment: Sch. paras. 13-17 added (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/uksi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/2/4)
+[^c-f060fb9c8045705a9f86e4860c7738dc]: Textual amendment: Sch. paras. 13-17 added (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/uksi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/2/4)
 
-[^key-5eabace8fd5843b7e56d303766bccf1a]: Textual amendment: Sch. paras. 18-26 inserted (1.12.2014) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2014 (S.I. 2014/2894)](https://www.legislation.gov.uk/wsi/2014/2894), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/2894/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2014/2894/regulation/2/2)
+[^c-5eabace8fd5843b7e56d303766bccf1a]: Textual amendment: Sch. paras. 18-26 inserted (1.12.2014) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2014 (S.I. 2014/2894)](https://www.legislation.gov.uk/wsi/2014/2894), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/2894/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2014/2894/regulation/2/2)

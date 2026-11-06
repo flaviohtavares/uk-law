@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Prohibition orders following conviction[^key-f5d125a63d73ccf90d398422dfc69f99]
+## 19. Prohibition orders following conviction[^c-f5d125a63d73ccf90d398422dfc69f99]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5d125a63d73ccf90d398422dfc69f99]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/2/section/19) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-f5d125a63d73ccf90d398422dfc69f99]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/2/section/19) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

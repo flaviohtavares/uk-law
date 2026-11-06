@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Continuity strategy: contents[^key-b35be2b40bf31f4b317fb6b3e1b95f82]
+## 15. Continuity strategy: contents[^c-b35be2b40bf31f4b317fb6b3e1b95f82]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b35be2b40bf31f4b317fb6b3e1b95f82]: Commencement: Reg. 15 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-b35be2b40bf31f4b317fb6b3e1b95f82]: Commencement: Reg. 15 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

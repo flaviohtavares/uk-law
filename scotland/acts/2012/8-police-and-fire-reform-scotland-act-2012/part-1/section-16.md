@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Temporary service as constable of the Police Service of Scotland[^key-6ca06a60fb5a6f9bd8dae6567d3512d0]
+## 16. Temporary service as constable of the Police Service of Scotland[^c-6ca06a60fb5a6f9bd8dae6567d3512d0]
 
 *Extent: S*
 
@@ -35,12 +35,12 @@ summary: ''
 - (i) the salaried police force of the Island of Guernsey, or
 - (j) the Isle of Man Constabulary.
 
-(3) An individual may be engaged on temporary service under arrangements made under this section only where the individual has made the declaration specified in section 10 before a sheriff , summary sheriff[^key-e6c83b86671071449e6e8130781ad0f9] or justice of the peace.
+(3) An individual may be engaged on temporary service under arrangements made under this section only where the individual has made the declaration specified in section 10 before a sheriff , summary sheriff[^c-e6c83b86671071449e6e8130781ad0f9] or justice of the peace.
 
 (4) An individual engaged on temporary service under such arrangements holds the office of constable.
 
 ## Annotations
 
-[^key-6ca06a60fb5a6f9bd8dae6567d3512d0]: Commencement: S. 16 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-6ca06a60fb5a6f9bd8dae6567d3512d0]: Commencement: S. 16 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-e6c83b86671071449e6e8130781ad0f9]: Textual amendment: Words in s. 16(3) inserted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [art. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/ssi/2016/142/schedule/paragraph/5/3)
+[^c-e6c83b86671071449e6e8130781ad0f9]: Textual amendment: Words in s. 16(3) inserted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [art. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/ssi/2016/142/schedule/paragraph/5/3)

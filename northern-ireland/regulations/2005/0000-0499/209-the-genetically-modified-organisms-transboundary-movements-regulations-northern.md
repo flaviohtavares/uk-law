@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the control and regulation of genetically modified organisms, in exercise of the powers conferred on it by that section and of every other power in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-39d75c9f5ab3da25cd934a3288b7d10a]
+## 1. Citation and commencement[^c-39d75c9f5ab3da25cd934a3288b7d10a]
 
 These Regulations may be cited as the Genetically Modified Organisms (Transboundary Movements) Regulations (Northern Ireland) 2005 and shall come into operation on 31st May 2005.
 
-## 2. Interpretation[^key-ebab61a233b04fa00558758571e3ebf6]
+## 2. Interpretation[^c-ebab61a233b04fa00558758571e3ebf6]
 
 (1) In these Regulations –
 
@@ -61,11 +61,11 @@ These Regulations may be cited as the Genetically Modified Organisms (Transbound
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Competent Authority[^key-c0a8ddb83ef3ddbf900295455ccb8c01]
+## 3. Competent Authority[^c-c0a8ddb83ef3ddbf900295455ccb8c01]
 
 The Department is designated as Competent Authority for the purpose of the Council Regulation.
 
-## 4. Enforcement[^key-2d8466e34e152c4432f9614d265196fc]
+## 4. Enforcement[^c-2d8466e34e152c4432f9614d265196fc]
 
 (1) Subject to paragraph (2) each district council shall, in its district, enforce these Regulations and the specified Community provisions.
 
@@ -74,13 +74,13 @@ The Department is designated as Competent Authority for the purpose of the Counc
 - (a) by the Department instead of the district council, or
 - (b) by the Department and the district council acting jointly.
 
-## 5. Appointment of Inspectors[^key-da0bde7411a86fe3dcf9496e51c6b27e]
+## 5. Appointment of Inspectors[^c-da0bde7411a86fe3dcf9496e51c6b27e]
 
 (1) A district council or the Department may appoint as inspectors such persons as it or they consider necessary for the purpose of enforcing these Regulations and the specified Community provisions.
 
 (2) Any appointment of an inspector under Article 11 of the Genetically Modified Organisms (Northern Ireland) Order 1991[^f00006] having effect at the coming into operation of these Regulations shall have effect as if it were an appointment of the inspector as an inspector for the purpose of these Regulations.
 
-## 6. Rights of Entry and inspection[^key-ff6fd9027535f19a1a7b81e47cd5bfe6]
+## 6. Rights of Entry and inspection[^c-ff6fd9027535f19a1a7b81e47cd5bfe6]
 
 (1) An inspector may, on production of his authority (if so required), exercise any of the powers specified in paragraph (3) for the purposes of the enforcement of these Regulations and the specified Community provisions.
 
@@ -109,7 +109,7 @@ The Department is designated as Competent Authority for the purpose of the Counc
 
 an inspector shall, if it is practical and safe for him to do so, take a sample of it and give to a responsible person at the premises a portion of the sample marked in a manner sufficient to identify it.
 
-## 7. Obtaining information from persons[^key-5c53db585b0652a8f0478492e1907d10]
+## 7. Obtaining information from persons[^c-5c53db585b0652a8f0478492e1907d10]
 
 (1) For any purpose of the enforcement and execution of these Regulations and the specified Community provisions, the Department may, by notice in writing served on any person who appears to it –
 
@@ -120,7 +120,7 @@ require that person to furnish such relevant information available to him as is 
 
 (2) For the purposes of this regulation “relevant information” means information concerning any aspects of the activities in question.
 
-## 8. Offences[^key-23b9942c9a601f834462d68ce81167a7]
+## 8. Offences[^c-23b9942c9a601f834462d68ce81167a7]
 
 (1) It shall be an offence for a person –
 
@@ -134,17 +134,17 @@ require that person to furnish such relevant information available to him as is 
 
 (2) It shall be a defence for a person charged with an offence under paragraph 8(1)(a) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
 
-## 9. Offences due to fault of another person[^key-10a9bf923d46edab975eb1b45b2f4616]
+## 9. Offences due to fault of another person[^c-10a9bf923d46edab975eb1b45b2f4616]
 
 Where the commission by any person of an offence under regulation 8 is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
 
-## 10. Offences by Bodies Corporate[^key-53217fb27ff39888b3ed3c4b005afb30]
+## 10. Offences by Bodies Corporate[^c-53217fb27ff39888b3ed3c4b005afb30]
 
 (1) Where an offence under these Regulations committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, the preceding subsection shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-## 11. Penalties[^key-37831a4a364bc2e4633757eb47931cc4]
+## 11. Penalties[^c-37831a4a364bc2e4633757eb47931cc4]
 
 (1) Any person who contravenes or fails to comply with any of the specified Community provisions contained in Part 1 of the Schedule shall be guilty of an offence and liable –
 
@@ -155,7 +155,7 @@ Where the commission by any person of an offence under regulation 8 is due to th
 
 (3) A person guilty of an offence under regulation 8 (1) (b), (c), (d), (e) or (f) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months, or to both.
 
-## 12. Time Limits[^key-9c6bd38dddb58e4d55a4bd6706d7b063]
+## 12. Time Limits[^c-9c6bd38dddb58e4d55a4bd6706d7b063]
 
 (1) Proceedings for an offence under regulation 8 may, subject to paragraph (2) below, be commenced within the period of six months from the date on which evidence sufficient in the opinion of the prosecutor to warrant proceedings comes to his knowledge.
 
@@ -165,7 +165,7 @@ Where the commission by any person of an offence under regulation 8 is due to th
 
 (4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
 
-## 13. Service of Notices[^key-27ee01f11db1632e05460418394dcac7]
+## 13. Service of Notices[^c-27ee01f11db1632e05460418394dcac7]
 
 (1) Any Notice to be served under these Regulations shall be –
 
@@ -186,16 +186,16 @@ Department of the Environment
 
 Regulation 2(1)
 
-### part i[^key-dcc55c014f50673c5968ef95dd44e00a]
+### part i[^c-dcc55c014f50673c5968ef95dd44e00a]
 
 | Provision of the Council Regulation | Subject Matter |
 | --- | --- |
 | Article 5(3) | Proceeding with first intentional transboundary movement of genetically modified organisms otherwise than in accordance with the relevant procedures. |
 | Article 10(1) | Failure to respect any decision on the import of genetically modified organisms intended for direct use as food or feed or for processing. |
 | Article 10(2) | Proceeding with first export of genetically modified organisms intended for direct use as food or feed or for processing otherwise than in accordance with the relevant procedure. |
-| Article 10(3) | Exporting genetically modified organisms subject to transboundary movements for direct use as food or feed or for processing which are not permitted to be marketed in the United Kingdom, or without authorisation to the import having been expressly agreed by the competent authority of the importing country.[^key-241bf5c14cd7313438f8d0487e029964] |
+| Article 10(3) | Exporting genetically modified organisms subject to transboundary movements for direct use as food or feed or for processing which are not permitted to be marketed in the United Kingdom, or without authorisation to the import having been expressly agreed by the competent authority of the importing country.[^c-241bf5c14cd7313438f8d0487e029964] |
 
-### part ii[^key-d58d14d0a25c87e1e4ec30111e45ab2e]
+### part ii[^c-d58d14d0a25c87e1e4ec30111e45ab2e]
 
 | Provision of the Council Regulation | Subject Matter |
 | --- | --- |
@@ -203,7 +203,7 @@ Regulation 2(1)
 |  | Failure to provide the minimum specified information in the notification; and |
 |  | Failure to ensure that the information contained in the notification is accurate. |
 | Article 6 | Failure to keep for a minimum of 5 years records of notifications under article 4 of the Council Regulation; acknowledgements of receipt of notifications; and decisions of the Party or non-Party of import; and |
-|  | Failure to send copies of these records to the Competent Authority[^key-bf541b8af3bb741158f00921f8747c46].... |
+|  | Failure to send copies of these records to the Competent Authority[^c-bf541b8af3bb741158f00921f8747c46].... |
 | Article 7(2) | Failure to copy to the Secretariat any reminder sent to Parties or non-Parties of import. |
 | Article 12(1) | Failure to ensure that specified information is contained in a document accompanying the GMO; and |
 |  | Failure to ensure that this information is transmitted to the importer. |
@@ -246,9 +246,9 @@ Copies of the European Council Regulation may be obtained at http://europa.eu.in
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-39d75c9f5ab3da25cd934a3288b7d10a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-39d75c9f5ab3da25cd934a3288b7d10a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-ebab61a233b04fa00558758571e3ebf6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/209/regulation/2) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-ebab61a233b04fa00558758571e3ebf6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/209/regulation/2) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L287, 5.11.2003, p. l
 
@@ -256,34 +256,34 @@ Copies of the European Council Regulation may be obtained at http://europa.eu.in
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c0a8ddb83ef3ddbf900295455ccb8c01]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/209/regulation/3) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-c0a8ddb83ef3ddbf900295455ccb8c01]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/209/regulation/3) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-2d8466e34e152c4432f9614d265196fc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/209/regulation/4) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-2d8466e34e152c4432f9614d265196fc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/209/regulation/4) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-da0bde7411a86fe3dcf9496e51c6b27e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/209/regulation/5) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-da0bde7411a86fe3dcf9496e51c6b27e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/209/regulation/5) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
 [^f00006]: Footnote: S.I. [1991/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1991/1714)
 
-[^key-ff6fd9027535f19a1a7b81e47cd5bfe6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/209/regulation/6) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-ff6fd9027535f19a1a7b81e47cd5bfe6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/209/regulation/6) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-5c53db585b0652a8f0478492e1907d10]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/209/regulation/7) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-5c53db585b0652a8f0478492e1907d10]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/209/regulation/7) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-23b9942c9a601f834462d68ce81167a7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/209/regulation/8) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-23b9942c9a601f834462d68ce81167a7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/209/regulation/8) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-10a9bf923d46edab975eb1b45b2f4616]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/209/regulation/9) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-10a9bf923d46edab975eb1b45b2f4616]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/209/regulation/9) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-53217fb27ff39888b3ed3c4b005afb30]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/209/regulation/10) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-53217fb27ff39888b3ed3c4b005afb30]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/209/regulation/10) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-37831a4a364bc2e4633757eb47931cc4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/209/regulation/11) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-37831a4a364bc2e4633757eb47931cc4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/209/regulation/11) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-9c6bd38dddb58e4d55a4bd6706d7b063]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/209/regulation/12) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-9c6bd38dddb58e4d55a4bd6706d7b063]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/209/regulation/12) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-27ee01f11db1632e05460418394dcac7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/209/regulation/13) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-27ee01f11db1632e05460418394dcac7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/209/regulation/13) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-dcc55c014f50673c5968ef95dd44e00a]: Commencement: [Sch. Pt. i](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/i) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-dcc55c014f50673c5968ef95dd44e00a]: Commencement: [Sch. Pt. i](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/i) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-241bf5c14cd7313438f8d0487e029964]: Textual amendment: Words in [Sch. Pt. i](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/i) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/190)](https://www.legislation.gov.uk/uksi/2019/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/190/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/190/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-241bf5c14cd7313438f8d0487e029964]: Textual amendment: Words in [Sch. Pt. i](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/i) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/190)](https://www.legislation.gov.uk/uksi/2019/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/190/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/190/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d58d14d0a25c87e1e4ec30111e45ab2e]: Commencement: [Sch. Pt. ii](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/ii) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
+[^c-d58d14d0a25c87e1e4ec30111e45ab2e]: Commencement: [Sch. Pt. ii](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/ii) in operation at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/209/regulation/1)
 
-[^key-bf541b8af3bb741158f00921f8747c46]: Textual amendment: Words in [Sch. Pt. ii](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/ii) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/190)](https://www.legislation.gov.uk/uksi/2019/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/190/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/190/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf541b8af3bb741158f00921f8747c46]: Textual amendment: Words in [Sch. Pt. ii](https://www.legislation.gov.uk/nisr/2005/209/schedule/part/ii) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/190)](https://www.legislation.gov.uk/uksi/2019/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/190/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/190/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

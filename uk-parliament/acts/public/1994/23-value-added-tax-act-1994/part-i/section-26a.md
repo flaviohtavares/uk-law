@@ -27,7 +27,7 @@ summary: ''
 
 he shall be taken, as from the end of that period, not to have been entitled to credit for input tax in respect of the VAT that is referable to the unpaid consideration or part.
 
-(1A)[^key-3a4dee63d9f339a23f55485596ef5808] Subsection (1) is subject to section 26AA (disapplication of disallowance under section 26A in insolvency).
+(1A)[^c-3a4dee63d9f339a23f55485596ef5808] Subsection (1) is subject to section 26AA (disapplication of disallowance under section 26A in insolvency).
 
 (2) For the purposes of subsection (1) above “**the relevant date**”, in relation to any sum representing consideration for a supply, is—
 
@@ -50,4 +50,4 @@ he shall be taken, as from the end of that period, not to have been entitled to 
 
 [^c17070381]: Textual amendment: S. 26A inserted (with effect as mentioned in [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/22/3) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/22/1); [S.I. 2002/3028](https://www.legislation.gov.uk/uksi/2002/3028), [art. 2](https://www.legislation.gov.uk/uksi/2002/3028/article/2)
 
-[^key-3a4dee63d9f339a23f55485596ef5808]: Textual amendment: S. 26A(1A) inserted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/495/article/7/2)
+[^c-3a4dee63d9f339a23f55485596ef5808]: Textual amendment: S. 26A(1A) inserted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/495/article/7/2)

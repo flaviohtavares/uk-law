@@ -44,11 +44,11 @@ The Health and Personal Social Services (Northern Ireland) Order 1994
 
 (2) Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972[^c548094] (interpretation) shall apply for the purposes of this Order as it applies for the purposes of that Order.
 
-## 3. Certain functions of Health and Social Services Boards to be exercisable on their behalf by HSC trusts[^key-95a945636cf74f744e73c35f4d552d6e][^c2141097]
+## 3. Certain functions of Health and Social Services Boards to be exercisable on their behalf by HSC trusts[^c-95a945636cf74f744e73c35f4d552d6e][^c2141097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Schemes for exercise by HSC trusts of functions on behalf of Health and Social Services Boards[^key-eef77b2369b2036295dd23e6850720bc][^c2141108]
+## 4. Schemes for exercise by HSC trusts of functions on behalf of Health and Social Services Boards[^c-eef77b2369b2036295dd23e6850720bc][^c2141108]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -165,11 +165,11 @@ For Article 92 of the Health and Personal Social Services (Northern Ireland) Ord
 
 [^c548094]: Textual amendment: 1972 NI 14
 
-[^key-95a945636cf74f744e73c35f4d552d6e]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1994/429/article/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 154(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/154/2) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/3)); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-95a945636cf74f744e73c35f4d552d6e]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1994/429/article/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 154(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/154/2) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/4/paragraph/3)); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2141097]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisi/1994/429/article/3) heading substituted (1.4.2009) by virtue of [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-eef77b2369b2036295dd23e6850720bc]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisi/1994/429/article/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 154(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/154/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-eef77b2369b2036295dd23e6850720bc]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisi/1994/429/article/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 154(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/154/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2141108]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisi/1994/429/article/4) heading substituted (1.4.2009) by virtue of [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

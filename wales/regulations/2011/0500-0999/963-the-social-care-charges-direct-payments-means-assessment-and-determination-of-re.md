@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Social Care Charges (Direct Payments) (Means Assessment and Determination of Reimbursement or Contribution) (Wales) Regulations 2011 (revoked)[^key-63d359068277176e1d17ae3f0450cf4d]
+The Social Care Charges (Direct Payments) (Means Assessment and Determination of Reimbursement or Contribution) (Wales) Regulations 2011 (revoked)[^c-63d359068277176e1d17ae3f0450cf4d]
 
 Made
 
@@ -45,106 +45,106 @@ Coming into force
 
 11 April 2011
 
-[^key-63d359068277176e1d17ae3f0450cf4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d359068277176e1d17ae3f0450cf4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-63d359068277176e1d17ae3f0450cf4d]
+## 1. Title, commencement and application[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-63d359068277176e1d17ae3f0450cf4d]
+## 2. Interpretation[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Direct payments – local authority determination of the amount of a reimbursement or contribution[^key-63d359068277176e1d17ae3f0450cf4d]
+## 3. Direct payments – local authority determination of the amount of a reimbursement or contribution[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons and services in respect of which reimbursement or contribution must not be required[^key-63d359068277176e1d17ae3f0450cf4d]
+## 4. Persons and services in respect of which reimbursement or contribution must not be required[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum reasonable amount of a reimbursement or contribution payable[^key-63d359068277176e1d17ae3f0450cf4d]
+## 5. Maximum reasonable amount of a reimbursement or contribution payable[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Procedure for determining a payment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 6. Procedure for determining a payment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Invitation to request a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 7. Invitation to request a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Response to an invitation to request a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 8. Response to an invitation to request a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Request for extension of time in which to provide information or documentation[^key-63d359068277176e1d17ae3f0450cf4d]
+## 9. Request for extension of time in which to provide information or documentation[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Failure to respond to an invitation to request a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 10. Failure to respond to an invitation to request a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Failure to supply all relevant information and documentation[^key-63d359068277176e1d17ae3f0450cf4d]
+## 11. Failure to supply all relevant information and documentation[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Withdrawal of a request for a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 12. Withdrawal of a request for a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Duty to carry out a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 13. Duty to carry out a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Conditions giving rise to the duty to carry out a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 14. Conditions giving rise to the duty to carry out a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. No duty to carry out a means assessment[^key-63d359068277176e1d17ae3f0450cf4d]
+## 15. No duty to carry out a means assessment[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Means assessment process[^key-63d359068277176e1d17ae3f0450cf4d]
+## 16. Means assessment process[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Determination as to D’s ability to pay[^key-63d359068277176e1d17ae3f0450cf4d]
+## 17. Determination as to D’s ability to pay[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Effect of a determination as to D’s ability to pay[^key-63d359068277176e1d17ae3f0450cf4d]
+## 18. Effect of a determination as to D’s ability to pay[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Statement of information about charges[^key-63d359068277176e1d17ae3f0450cf4d]
+## 19. Statement of information about charges[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Saving[^key-63d359068277176e1d17ae3f0450cf4d]
+## 20. Saving[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-63d359068277176e1d17ae3f0450cf4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-63d359068277176e1d17ae3f0450cf4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Transitional provision[^key-63d359068277176e1d17ae3f0450cf4d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 23. Transitory provision[^key-63d359068277176e1d17ae3f0450cf4d]
+## 22. Transitional provision[^c-63d359068277176e1d17ae3f0450cf4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63d359068277176e1d17ae3f0450cf4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 23. Transitory provision[^c-63d359068277176e1d17ae3f0450cf4d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-63d359068277176e1d17ae3f0450cf4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-63d359068277176e1d17ae3f0450cf4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63d359068277176e1d17ae3f0450cf4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63d359068277176e1d17ae3f0450cf4d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/963) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-63d359068277176e1d17ae3f0450cf4d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/963) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

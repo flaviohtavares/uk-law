@@ -24,9 +24,9 @@ Article 6(5)
 
 ### Repatriation of Prisoners Act 1984
 
-**1.**[^key-9c2e0142c9d88980435c98fc360f97f9] Amend the Repatriation of Prisoners Act 1984[^f00236] as follows.
+**1.**[^c-9c2e0142c9d88980435c98fc360f97f9] Amend the Repatriation of Prisoners Act 1984[^f00236] as follows.
 
-**2.**[^key-dbbbf8e6c3bec73886979fbe742030aa] In section 1(9) (issue of warrant for transfer: meaning of “relevant Minister”)—
+**2.**[^c-dbbbf8e6c3bec73886979fbe742030aa] In section 1(9) (issue of warrant for transfer: meaning of “relevant Minister”)—
 
 - (a) omit “and” at the end of paragraph (a); and
 - (b) after paragraph (a) insert—
@@ -37,7 +37,7 @@ Article 6(5)
 
   .
 
-**3.**[^key-efb1c4e38dc18fd50ef841d6f8180e2c] In section 2(3A) (transfer out of the UK: meaning of “relevant Minister”)—
+**3.**[^c-efb1c4e38dc18fd50ef841d6f8180e2c] In section 2(3A) (transfer out of the UK: meaning of “relevant Minister”)—
 
 - (a) omit “and” at the end of paragraph (a); and
 - (b) after paragraph (a) insert—
@@ -46,7 +46,7 @@ Article 6(5)
 
   .
 
-**4.**[^key-897e1aedef585ccf05fa4e27989056c6] (1) Amend section 4 (temporary return) as follows.
+**4.**[^c-897e1aedef585ccf05fa4e27989056c6] (1) Amend section 4 (temporary return) as follows.
 
 (2) In subsection (5) (meaning of “relevant Minister”)—
 
@@ -63,7 +63,7 @@ Article 6(5)
 
 > (7) Any reference in subsection (5)(aa) to the prisoner having previously been transferred into or from Northern Ireland includes a reference to responsibility for his detention and release having previously been transferred to or from the Department of Justice in Northern Ireland (as the case may be).
 
-**5.**[^key-672b0e5b76f956666f9733d377539721] In section 4A (issue of warrant transferring responsibility for detention and release of offender)—
+**5.**[^c-672b0e5b76f956666f9733d377539721] In section 4A (issue of warrant transferring responsibility for detention and release of offender)—
 
 - (a) in subsection (5) for “that Minister” (in both places) substitute “the relevant Minister”; and
 - (b) in subsection (10) after paragraph (a) insert—
@@ -74,22 +74,22 @@ Article 6(5)
 
   .
 
-**6.**[^key-82b1c49c5f1cf9c3cc307ae8a40ee6f5] In section 4B(4) (transfer of responsibility from the UK: meaning of “relevant Minister”) after paragraph (a) omit the “and” and insert—
+**6.**[^c-82b1c49c5f1cf9c3cc307ae8a40ee6f5] In section 4B(4) (transfer of responsibility from the UK: meaning of “relevant Minister”) after paragraph (a) omit the “and” and insert—
 
 > - (aa) the Department of Justice in Northern Ireland, where Northern Ireland is the part of the United Kingdom in which the order referred to in subsection (2) has effect; and
 
 .
 
-**7.**[^key-f20b4889ea17d3a21e8bd9b728e5df22] In section 4D(1) (issue of certificate to be sent to the appropriate judge with a view to obtaining the issue of a warrant under section 4D(3)) after “Scottish Ministers” insert “or the Department of Justice in Northern Ireland”.
+**7.**[^c-f20b4889ea17d3a21e8bd9b728e5df22] In section 4D(1) (issue of certificate to be sent to the appropriate judge with a view to obtaining the issue of a warrant under section 4D(3)) after “Scottish Ministers” insert “or the Department of Justice in Northern Ireland”.
 
-**8.**[^key-f8383cbc0c4fd65e5ef2f6263b39247c] In section 4E—
+**8.**[^c-f8383cbc0c4fd65e5ef2f6263b39247c] In section 4E—
 
 - (a) in subsection (1) (issue of certificate to be sent to the appropriate judge with a view to obtaining the issue of a warrant under section 4E(3)) after “Scottish Ministers” insert “or the Department of Justice in Northern Ireland”; and
 - (b) in subsection (6) (application to the appropriate judge) after “Scottish Ministers” insert “or the Department of Justice in Northern Ireland”.
 
-**9.**[^key-1d76a4794a6dcd96133f22ee0cc55c6a] In section 4F(2) (designation of a person for the purposes of sections 4D and 4E) after “Scottish Ministers” insert “or the Department of Justice in Northern Ireland”.
+**9.**[^c-1d76a4794a6dcd96133f22ee0cc55c6a] In section 4F(2) (designation of a person for the purposes of sections 4D and 4E) after “Scottish Ministers” insert “or the Department of Justice in Northern Ireland”.
 
-**10.**[^key-6c0bd0e5113de6eaa461752e8815074c] (1) Amend section 5 (operation of warrant and retaking prisoners) as follows.
+**10.**[^c-6c0bd0e5113de6eaa461752e8815074c] (1) Amend section 5 (operation of warrant and retaking prisoners) as follows.
 
 (2) In subsection (8) (meaning of “relevant Minister”)—
 
@@ -108,7 +108,7 @@ Article 6(5)
 
 .”.
 
-**11.**[^key-a37ea2bca5b166f94c97b2f1440dd38d] In section 6(5) (revocation etc. of warrants: meaning of “relevant Minister”) after paragraph (a) insert—
+**11.**[^c-a37ea2bca5b166f94c97b2f1440dd38d] In section 6(5) (revocation etc. of warrants: meaning of “relevant Minister”) after paragraph (a) insert—
 
 > - (aa) the Department of Justice in Northern Ireland in a case where—
 >   - (i) the warrant was issued under section 1 and provides for the transfer of the prisoner to or from Northern Ireland; or
@@ -116,7 +116,7 @@ Article 6(5)
 
 .
 
-**12.**[^key-7896a9ca79526fb69f6cbd2ce62d9d9e] In section 7(3A) (expenses: meaning of “relevant Minister”)—
+**12.**[^c-7896a9ca79526fb69f6cbd2ce62d9d9e] In section 7(3A) (expenses: meaning of “relevant Minister”)—
 
 - (a) omit “and” at the end of paragraph (a); and
 - (b) after paragraph (a) insert—
@@ -125,7 +125,7 @@ Article 6(5)
 
   .
 
-**13.**[^key-da33c177e95e419062656e87e917e12b] In section 8(4) (certificates: meaning of “relevant Minister”)—
+**13.**[^c-da33c177e95e419062656e87e917e12b] In section 8(4) (certificates: meaning of “relevant Minister”)—
 
 - (a) omit “and” at the end of paragraph (a); and
 - (b) after paragraph (a) insert—
@@ -134,7 +134,7 @@ Article 6(5)
 
   .
 
-**14.**[^key-c09029222d152ca7e86e0786afccc08f] After section 8 insert—
+**14.**[^c-c09029222d152ca7e86e0786afccc08f] After section 8 insert—
 
 > **8A. Northern Ireland: national security**
 >
@@ -161,9 +161,9 @@ Article 6(5)
 
 ### Crime (Sentences) Act 1997
 
-**15.**[^key-6bdcd0423d7410b9bc786586dc69ed7f] Amend Schedule 1 to the Crime (Sentences) Act 1997[^f00237] (transfer of prisoners within the British Islands) as follows.
+**15.**[^c-6bdcd0423d7410b9bc786586dc69ed7f] Amend Schedule 1 to the Crime (Sentences) Act 1997[^f00237] (transfer of prisoners within the British Islands) as follows.
 
-**16.**[^key-183fd035d60ef6791f8a033aeb9fd159] (1) Amend paragraph 1 (transfer of prisoners: general) as follows.
+**16.**[^c-183fd035d60ef6791f8a033aeb9fd159] (1) Amend paragraph 1 (transfer of prisoners: general) as follows.
 
 (2) In sub-paragraph (2A)—
 
@@ -186,29 +186,29 @@ Article 6(5)
 > - (a) in relation to the transfer to another part of the United Kingdom of a person remanded in custody in Northern Ireland or serving a sentence of imprisonment in Northern Ireland, any reference in sub-paragraph (1) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland;
 > - (b) in determining the meaning of “appropriate institution” in relation to a person transferred to Northern Ireland from another part of the United Kingdom, any reference in sub-paragraph (4) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland.
 
-**17.**[^key-20cc60df41de928c57cf8d6ed3d765a6] In paragraph 2 (transfer of prisoners for trial), after sub-paragraph (4) insert—
+**17.**[^c-20cc60df41de928c57cf8d6ed3d765a6] In paragraph 2 (transfer of prisoners for trial), after sub-paragraph (4) insert—
 
 > (5) This paragraph has effect subject to the following modifications—
 >
 > - (a) in relation to the transfer to another part of the United Kingdom of a person remanded in custody in Northern Ireland or serving a sentence of imprisonment in Northern Ireland, any reference in sub-paragraph (1) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland;
 > - (b) in relation to a person who has been transferred from Northern Ireland to another part of the United Kingdom, any reference in sub-paragraph (3) or (4) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland.
 
-**18.**[^key-ad859c0e3f437ddb98c32237295539b5] In paragraph 3 (transfer of prisoners for other judicial purposes), after sub-paragraph (3) insert—
+**18.**[^c-ad859c0e3f437ddb98c32237295539b5] In paragraph 3 (transfer of prisoners for other judicial purposes), after sub-paragraph (3) insert—
 
 > (4) This paragraph has effect subject to the following modifications—
 >
 > - (a) in relation to the attendance at a place in Northern Ireland or any other part of the United Kingdom of a person who is remanded in custody in, serving a sentence of imprisonment in, or otherwise detained in a prison in, Northern Ireland, any reference in sub-paragraph (1) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland;
 > - (b) in relation to a person who is directed by the Department of Justice in Northern Ireland to be taken to any place under this paragraph, any reference in sub-paragraph (3) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland.
 
-**19.**[^key-f64ab927a47ce62242a19067b5ad2744] In paragraph 4 (transfer of supervision of released prisoners), after sub-paragraph (2) insert—
+**19.**[^c-f64ab927a47ce62242a19067b5ad2744] In paragraph 4 (transfer of supervision of released prisoners), after sub-paragraph (2) insert—
 
 > (3) In relation to the transfer to another part of the United Kingdom of the supervision of a person undergoing or about to undergo supervision in Northern Ireland, any reference in sub-paragraph (1) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland.
 
-**20.**[^key-a393994f9820539f92f4f4214ed0e931] In paragraph 5 (conditions of transfers), after sub-paragraph (3) insert—
+**20.**[^c-a393994f9820539f92f4f4214ed0e931] In paragraph 5 (conditions of transfers), after sub-paragraph (3) insert—
 
 > (4) In relation to a transfer under this Part which is the subject of an order or direction made by the Department of Justice in Northern Ireland, any reference in sub-paragraph (1) to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland.
 
-**21.**[^key-646c07e1007ec3c262e5989198d43725] (1) Amend paragraph 5A (conditions of transfer under paragraph 1(2A)) as follows.
+**21.**[^c-646c07e1007ec3c262e5989198d43725] (1) Amend paragraph 5A (conditions of transfer under paragraph 1(2A)) as follows.
 
 (2) In sub-paragraph (1)(b) for “as the Secretary of State may think fit to impose” substitute
 
@@ -221,7 +221,7 @@ Article 6(5)
 
 (3) At the end of sub-paragraph (3) insert “by the person who imposed it”.
 
-**22.**[^key-bb39e815a59acc75e8345a26e6201588] (1) Amend paragraph 7 (restricted transfers: general) as follows.
+**22.**[^c-bb39e815a59acc75e8345a26e6201588] (1) Amend paragraph 7 (restricted transfers: general) as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -231,15 +231,15 @@ Article 6(5)
 
 > (2A) Where a transfer under paragraph 1 or 2 is the subject of an order made by the Department of Justice in Northern Ireland, any reference in sub-paragraph (2) to the Secretary of State must be read as a reference to the Department of Justice.
 
-**23.**[^key-2ef610e2adbd81a287a13882278ae469] In paragraph 12 (restricted transfers from Northern Ireland to England and Wales) after sub-paragraph (3) insert—
+**23.**[^c-2ef610e2adbd81a287a13882278ae469] In paragraph 12 (restricted transfers from Northern Ireland to England and Wales) after sub-paragraph (3) insert—
 
 > (3A) Where a transfer under paragraph 1, 2 or 3 is the subject of an order or direction made by the Department of Justice in Northern Ireland, any reference in sub-paragraph (3) to the Secretary of State must be read as a reference to the Department of Justice.
 
-**24.**[^key-1280f183f8c8a602f9da282e19809f4e] In paragraph 13 (restricted transfers from Northern Ireland to Scotland), after sub-paragraph (3) insert—
+**24.**[^c-1280f183f8c8a602f9da282e19809f4e] In paragraph 13 (restricted transfers from Northern Ireland to Scotland), after sub-paragraph (3) insert—
 
 > (3A) Where a transfer under paragraph 1, 2 or 3 is the subject of an order or direction made by the Department of Justice in Northern Ireland, any reference in sub-paragraph (3) to the Secretary of State must be read as a reference to the Department of Justice.
 
-**25.**[^key-f1e093fb2c88d6ba6ab468fd64b7dc90] In paragraph 15 (unrestricted transfers: general) after sub-paragraph (4) insert—
+**25.**[^c-f1e093fb2c88d6ba6ab468fd64b7dc90] In paragraph 15 (unrestricted transfers: general) after sub-paragraph (4) insert—
 
 > (4A) This paragraph has effect subject to the following modifications—
 >
@@ -248,64 +248,64 @@ Article 6(5)
 >   - (i) after “Secretary of State” where it first occurs there were inserted “or the Department of Justice in Northern Ireland”, and
 >   - (ii) after “Secretary of State” where it occurs second there were inserted “or the Department of Justice (as the case may be)”.
 
-**26.**[^key-87e793db7b4904ac016e6b1e624d8149] In paragraph 17 (prisoners unlawfully at large) after sub-paragraph (6) insert—
+**26.**[^c-87e793db7b4904ac016e6b1e624d8149] In paragraph 17 (prisoners unlawfully at large) after sub-paragraph (6) insert—
 
 > (7) In relation to a person who, having been sentenced to imprisonment, is unlawfully at large during any period during which he is liable to be detained in a prison in England and Wales or Scotland and is sentenced to imprisonment by a court in Northern Ireland, any reference in sub-paragraph (5) above to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland.
 
 ## Annotations
 
-[^key-9c2e0142c9d88980435c98fc360f97f9]: Commencement: Sch. 8 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9c2e0142c9d88980435c98fc360f97f9]: Commencement: Sch. 8 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00236]: Footnote: [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47). Sections 1(9), 2(3A), 4(5), 5(8), 6(5), 7(3A) and 8(4) were inserted by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). The Act was modified by [S.I. 1999/1748](https://www.legislation.gov.uk/uksi/1999/1748) and amended by the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), sections 93-96 and Schedule 26. There have been other amendments to the Act, but none are relevant.
 
-[^key-dbbbf8e6c3bec73886979fbe742030aa]: Commencement: Sch. 8 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-dbbbf8e6c3bec73886979fbe742030aa]: Commencement: Sch. 8 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-efb1c4e38dc18fd50ef841d6f8180e2c]: Commencement: Sch. 8 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-efb1c4e38dc18fd50ef841d6f8180e2c]: Commencement: Sch. 8 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-897e1aedef585ccf05fa4e27989056c6]: Commencement: Sch. 8 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-897e1aedef585ccf05fa4e27989056c6]: Commencement: Sch. 8 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-672b0e5b76f956666f9733d377539721]: Commencement: Sch. 8 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-672b0e5b76f956666f9733d377539721]: Commencement: Sch. 8 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-82b1c49c5f1cf9c3cc307ae8a40ee6f5]: Commencement: Sch. 8 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-82b1c49c5f1cf9c3cc307ae8a40ee6f5]: Commencement: Sch. 8 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f20b4889ea17d3a21e8bd9b728e5df22]: Commencement: Sch. 8 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f20b4889ea17d3a21e8bd9b728e5df22]: Commencement: Sch. 8 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f8383cbc0c4fd65e5ef2f6263b39247c]: Commencement: Sch. 8 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f8383cbc0c4fd65e5ef2f6263b39247c]: Commencement: Sch. 8 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-1d76a4794a6dcd96133f22ee0cc55c6a]: Commencement: Sch. 8 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1d76a4794a6dcd96133f22ee0cc55c6a]: Commencement: Sch. 8 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-6c0bd0e5113de6eaa461752e8815074c]: Commencement: Sch. 8 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6c0bd0e5113de6eaa461752e8815074c]: Commencement: Sch. 8 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-a37ea2bca5b166f94c97b2f1440dd38d]: Commencement: Sch. 8 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-a37ea2bca5b166f94c97b2f1440dd38d]: Commencement: Sch. 8 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-7896a9ca79526fb69f6cbd2ce62d9d9e]: Commencement: Sch. 8 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7896a9ca79526fb69f6cbd2ce62d9d9e]: Commencement: Sch. 8 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-da33c177e95e419062656e87e917e12b]: Commencement: Sch. 8 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-da33c177e95e419062656e87e917e12b]: Commencement: Sch. 8 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-c09029222d152ca7e86e0786afccc08f]: Commencement: Sch. 8 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c09029222d152ca7e86e0786afccc08f]: Commencement: Sch. 8 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-6bdcd0423d7410b9bc786586dc69ed7f]: Commencement: Sch. 8 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6bdcd0423d7410b9bc786586dc69ed7f]: Commencement: Sch. 8 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00237]: Footnote: [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43). Schedule 1 was amended by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37) Schedule 8, paragraph 135; [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820); [S.I. 2001/2565](https://www.legislation.gov.uk/uksi/2001/2565); section 13 of the Justice (Northern Ireland) Act [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4); and [S.I. 2008/1241](https://www.legislation.gov.uk/uksi/2008/1241).
 
-[^key-183fd035d60ef6791f8a033aeb9fd159]: Commencement: Sch. 8 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-183fd035d60ef6791f8a033aeb9fd159]: Commencement: Sch. 8 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-20cc60df41de928c57cf8d6ed3d765a6]: Commencement: Sch. 8 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-20cc60df41de928c57cf8d6ed3d765a6]: Commencement: Sch. 8 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-ad859c0e3f437ddb98c32237295539b5]: Commencement: Sch. 8 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ad859c0e3f437ddb98c32237295539b5]: Commencement: Sch. 8 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f64ab927a47ce62242a19067b5ad2744]: Commencement: Sch. 8 para. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f64ab927a47ce62242a19067b5ad2744]: Commencement: Sch. 8 para. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-a393994f9820539f92f4f4214ed0e931]: Commencement: Sch. 8 para. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-a393994f9820539f92f4f4214ed0e931]: Commencement: Sch. 8 para. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-646c07e1007ec3c262e5989198d43725]: Commencement: Sch. 8 para. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-646c07e1007ec3c262e5989198d43725]: Commencement: Sch. 8 para. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-bb39e815a59acc75e8345a26e6201588]: Commencement: Sch. 8 para. 22 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-bb39e815a59acc75e8345a26e6201588]: Commencement: Sch. 8 para. 22 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-2ef610e2adbd81a287a13882278ae469]: Commencement: Sch. 8 para. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2ef610e2adbd81a287a13882278ae469]: Commencement: Sch. 8 para. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-1280f183f8c8a602f9da282e19809f4e]: Commencement: Sch. 8 para. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-1280f183f8c8a602f9da282e19809f4e]: Commencement: Sch. 8 para. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f1e093fb2c88d6ba6ab468fd64b7dc90]: Commencement: Sch. 8 para. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f1e093fb2c88d6ba6ab468fd64b7dc90]: Commencement: Sch. 8 para. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-87e793db7b4904ac016e6b1e624d8149]: Commencement: Sch. 8 para. 26 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-87e793db7b4904ac016e6b1e624d8149]: Commencement: Sch. 8 para. 26 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

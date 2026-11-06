@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Application of sums held by a revenue support counterparty[^key-cec268cbc91b323dd06b4e3f6dad2a6d]
+## 82. Application of sums held by a revenue support counterparty[^c-cec268cbc91b323dd06b4e3f6dad2a6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ in circumstances where the revenue support counterparty is unable to fully meet 
 
 ## Annotations
 
-[^key-cec268cbc91b323dd06b4e3f6dad2a6d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/52/section/82) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-cec268cbc91b323dd06b4e3f6dad2a6d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/52/section/82) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

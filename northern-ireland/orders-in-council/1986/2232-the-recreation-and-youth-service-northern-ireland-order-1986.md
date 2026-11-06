@@ -226,7 +226,7 @@ Article 3(2)
 (2) A member shall be deemed to have vacated his office and the Council shall declare his place vacant in the following circumstances—
 
 - (a) where he gives to the Head of the Department a notice in writing of his resignation;
-- (b) where he becomes bankrupt or has had a debt relief order made in respect of him[^key-042d629d6388d03aa3c487062e02af84] or makes a composition with his creditors or is the subject of a bankruptcy restrictions order[^c21091181] or a debt relief restrictions order ;
+- (b) where he becomes bankrupt or has had a debt relief order made in respect of him[^c-042d629d6388d03aa3c487062e02af84] or makes a composition with his creditors or is the subject of a bankruptcy restrictions order[^c21091181] or a debt relief restrictions order ;
 - (c) where in the opinion of the Head of the Department he becomes incapacitated to hold office and the Head of the Department so informs the Council in writing;
 - (d) where he is convicted of an indictable offence and is sentenced to a term of imprisonment of not less than three months; or
 - (e) where he fails, without leave of the Council, to attend any meetings of the Council, or of a committee thereof of which he is a member, for a period of twelve consecutive months.
@@ -290,7 +290,7 @@ Article 3(2)
 
 [^m00005]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-042d629d6388d03aa3c487062e02af84]: Textual amendment: Words in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisi/1986/2232/schedule/1/paragraph/2/2/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/10)
+[^c-042d629d6388d03aa3c487062e02af84]: Textual amendment: Words in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisi/1986/2232/schedule/1/paragraph/2/2/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/10)
 
 [^c21091181]: Textual amendment: Words in Sch. 1 para. 2(2)(b) inserted (13.5.2008) by [Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [arts. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [2](https://www.legislation.gov.uk/nisr/2008/94/article/2), [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/1/paragraph/2)
 

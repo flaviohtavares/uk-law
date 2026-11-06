@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE AA1 — Deprivation of liberty: authorisation of arrangements enabling care and treatment[^key-1384db4d346f58fa583461a0957008c3]
+## SCHEDULE AA1 — Deprivation of liberty: authorisation of arrangements enabling care and treatment[^c-1384db4d346f58fa583461a0957008c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,12 +82,12 @@ Section 4A(5)
   - (a) in relation to England, the person registered, or required to be registered, under Chapter 2 of Part 1 of the Health and Social Care Act 2008 in respect of the provision of residential accommodation, together with nursing or personal care, in the care home, and
   - (b) in relation to Wales, the person registered, or required to be registered, under Chapter 2 of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) in respect of the provision of a care home service, in the care home;
 - “**cared-for person**” has the meaning given by paragraph 2(1);
-- [^key-ffb13dffe9348981f0b27f1446ccee7d]...
+- [^c-ffb13dffe9348981f0b27f1446ccee7d]...
 - “**Education, Health and Care plan**” means a plan within the meaning of section 37(2) of the Children and Families Act 2014;
 - “**English responsible body**” has the meaning given by paragraph 11;
 - “**hospital manager**” has the meaning given by paragraph 7;
 - “**independent hospital**” has the meaning given by paragraph 5;
-- “[^key-cb9e1f3fdaa12e2eecebf9d239904b4e]**integrated care board**” means a body established under section 14Z25 of the National Health Service Act 2006;
+- “[^c-cb9e1f3fdaa12e2eecebf9d239904b4e]**integrated care board**” means a body established under section 14Z25 of the National Health Service Act 2006;
 - “**local authority**” has the meaning given by paragraph 4;
 - “**Local Health Board**” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006;
 - “**mental disorder**” has the meaning given by section 1(2) of the Mental Health Act;
@@ -132,10 +132,10 @@ Section 4A(5)
 - (b) if the arrangements are carried out mainly in an independent hospital in England, the responsible local authority determined in accordance with paragraph 9;
 - (c) if the arrangements are carried out mainly in an independent hospital in Wales, the Local Health Board for the area in which the hospital is situated;
 - (d) if none of paragraphs (a) to (c) applies and the arrangements are carried out mainly through—
-  - (i) the provision of NHS continuing healthcare under arrangements made by an integrated care board[^key-98127cdf2d7a997f44b5ae5ea0b592ea], or
+  - (i) the provision of NHS continuing healthcare under arrangements made by an integrated care board[^c-98127cdf2d7a997f44b5ae5ea0b592ea], or
   - (ii) in Wales, the provision of an equivalent to NHS continuing healthcare under arrangements made by a Local Health Board,
 
-  that integrated care board[^key-b6c7a4fa88a170fb21235f2397c3f3cb] or Local Health Board;
+  that integrated care board[^c-b6c7a4fa88a170fb21235f2397c3f3cb] or Local Health Board;
 - (e) if none of paragraphs (a) to (d) applies, the responsible local authority determined in accordance with paragraph 10.
 
 (2) If an independent hospital is situated in the areas of two or more Local Health Boards, it is to be regarded for the purposes of sub-paragraph (1)(c) as situated in whichever of the areas the greater (or greatest) part of the hospital is situated.
@@ -222,7 +222,7 @@ Section 4A(5)
 **11.** “**English responsible body**” means—
 
 - (a) a hospital manager of a hospital in England;
-- (b)[^key-f4ae20e5f1992c57bbce24ddc5fc0ee6] an integrated care board;
+- (b)[^c-f4ae20e5f1992c57bbce24ddc5fc0ee6] an integrated care board;
 - (c) a local authority in England.
 
 **12.** “**Welsh responsible body**” means—
@@ -246,7 +246,7 @@ Section 4A(5)
 **14.** (1) The following must publish information about authorisation of arrangements under this Schedule—
 
 - (a) the hospital manager of each NHS hospital;
-- (b)[^key-1eb1137dc457b368261ee12b31bb14d0] each integrated care board;
+- (b)[^c-1eb1137dc457b368261ee12b31bb14d0] each integrated care board;
 - (c) each Local Health Board;
 - (d) each local authority.
 
@@ -905,16 +905,16 @@ subject to sub-paragraph (2).
 
 ## Annotations
 
-[^key-1384db4d346f58fa583461a0957008c3]: Textual amendment: [Sch. AA1](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1) inserted (16.5.2019 but only for the purpose of enabling the exercise of any power to make regulations and otherwise prosp.) by [Mental Capacity (Amendment) Act 2019 (c. 18)](https://www.legislation.gov.uk/ukpga/2019/18), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2019/18/section/6/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2019/18/schedule/1)
+[^c-1384db4d346f58fa583461a0957008c3]: Textual amendment: [Sch. AA1](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1) inserted (16.5.2019 but only for the purpose of enabling the exercise of any power to make regulations and otherwise prosp.) by [Mental Capacity (Amendment) Act 2019 (c. 18)](https://www.legislation.gov.uk/ukpga/2019/18), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2019/18/section/6/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2019/18/schedule/1)
 
-[^key-ffb13dffe9348981f0b27f1446ccee7d]: Textual amendment: Words in [Sch. AA1 para. 3](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/3) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/2/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ffb13dffe9348981f0b27f1446ccee7d]: Textual amendment: Words in [Sch. AA1 para. 3](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/3) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/2/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-cb9e1f3fdaa12e2eecebf9d239904b4e]: Textual amendment: Words in [Sch. AA1 para. 3](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/3) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/2/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-cb9e1f3fdaa12e2eecebf9d239904b4e]: Textual amendment: Words in [Sch. AA1 para. 3](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/3) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/2/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-98127cdf2d7a997f44b5ae5ea0b592ea]: Textual amendment: Words in [Sch. AA1 para. 6(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/6/1/d/i) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(3)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/3/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-98127cdf2d7a997f44b5ae5ea0b592ea]: Textual amendment: Words in [Sch. AA1 para. 6(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/6/1/d/i) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(3)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/3/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-b6c7a4fa88a170fb21235f2397c3f3cb]: Textual amendment: Words in [Sch. AA1 para. 6(1)(d)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/6/1/d) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(3)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/3/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b6c7a4fa88a170fb21235f2397c3f3cb]: Textual amendment: Words in [Sch. AA1 para. 6(1)(d)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/6/1/d) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(3)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/3/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-f4ae20e5f1992c57bbce24ddc5fc0ee6]: Textual amendment: [Sch. AA1 para. 11(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/11/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f4ae20e5f1992c57bbce24ddc5fc0ee6]: Textual amendment: [Sch. AA1 para. 11(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/11/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-1eb1137dc457b368261ee12b31bb14d0]: Textual amendment: [Sch. AA1 para. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/14/1/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(5)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1eb1137dc457b368261ee12b31bb14d0]: Textual amendment: [Sch. AA1 para. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/AA1/paragraph/14/1/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 82(5)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/82/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

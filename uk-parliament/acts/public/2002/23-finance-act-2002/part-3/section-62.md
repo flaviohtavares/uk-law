@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Expenditure on green technologies: leasing[^key-c262c38e63a9d401df7f7ef3052d39ca]
+## 62. Expenditure on green technologies: leasing[^c-c262c38e63a9d401df7f7ef3052d39ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c262c38e63a9d401df7f7ef3052d39ca]: Textual amendment: [S. 62](https://www.legislation.gov.uk/ukpga/2002/23/section/62) repealed (with effect in accordance with Sch. 26 Pt. 3(13) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(13)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/13)
+[^c-c262c38e63a9d401df7f7ef3052d39ca]: Textual amendment: [S. 62](https://www.legislation.gov.uk/ukpga/2002/23/section/62) repealed (with effect in accordance with Sch. 26 Pt. 3(13) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(13)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/13)

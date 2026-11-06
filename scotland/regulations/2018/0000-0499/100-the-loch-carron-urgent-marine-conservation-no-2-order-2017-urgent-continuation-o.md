@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The Loch Carron Urgent Marine Conservation (No. 2) Order 2017 (Urgent Continuation) Order 2018 (revoked)[^key-ad481f9ae91a4652124388ade50aa1c4]
+The Loch Carron Urgent Marine Conservation (No. 2) Order 2017 (Urgent Continuation) Order 2018 (revoked)[^c-ad481f9ae91a4652124388ade50aa1c4]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 19th May 2018
 
-[^key-ad481f9ae91a4652124388ade50aa1c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad481f9ae91a4652124388ade50aa1c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ad481f9ae91a4652124388ade50aa1c4]
+## 1. Citation and commencement[^c-ad481f9ae91a4652124388ade50aa1c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Continuation of the Loch Carron Urgent Marine Conservation (No. 2) Order 2017 and duration in force[^key-ad481f9ae91a4652124388ade50aa1c4]
+## 2. Continuation of the Loch Carron Urgent Marine Conservation (No. 2) Order 2017 and duration in force[^c-ad481f9ae91a4652124388ade50aa1c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad481f9ae91a4652124388ade50aa1c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad481f9ae91a4652124388ade50aa1c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad481f9ae91a4652124388ade50aa1c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad481f9ae91a4652124388ade50aa1c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad481f9ae91a4652124388ade50aa1c4]: Textual amendment: Order revoked (19.5.2019) by [The Loch Carron Marine Conservation Order 2019 (S.S.I. 2019/101)](https://www.legislation.gov.uk/ssi/2019/101), [arts. 1](https://www.legislation.gov.uk/ssi/2019/101/article/1), [6](https://www.legislation.gov.uk/ssi/2019/101/article/6)
+[^c-ad481f9ae91a4652124388ade50aa1c4]: Textual amendment: Order revoked (19.5.2019) by [The Loch Carron Marine Conservation Order 2019 (S.S.I. 2019/101)](https://www.legislation.gov.uk/ssi/2019/101), [arts. 1](https://www.legislation.gov.uk/ssi/2019/101/article/1), [6](https://www.legislation.gov.uk/ssi/2019/101/article/6)

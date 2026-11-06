@@ -29,7 +29,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Swine Vesicular Disease (Wales) (Amendment) Regulations 2009 (revoked)[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]
+The Swine Vesicular Disease (Wales) (Amendment) Regulations 2009 (revoked)[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]
 
 Made
 
@@ -43,28 +43,28 @@ Coming into force
 
 17 July 2009
 
-[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]
+## 1. Title, application and commencement[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of The Swine Vesicular Disease (Wales) Regulations 2009[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]
+## 2. Amendment of The Swine Vesicular Disease (Wales) Regulations 2009[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the English version of the Principal Regulations[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]
+## 3. Amendments to the English version of the Principal Regulations[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b6bcc4b2a7a811767e6f1b33bf95d05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/1580) revoked (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/1894/schedule/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-4b6bcc4b2a7a811767e6f1b33bf95d05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/1580) revoked (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/1894/schedule/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Gains not eligible for taper relief[^key-d15c07b8d3e7499a2c6c3a4220bcee04]
+## 68. Gains not eligible for taper relief[^c-d15c07b8d3e7499a2c6c3a4220bcee04]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d15c07b8d3e7499a2c6c3a4220bcee04]: Commencement: Art. 68 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-d15c07b8d3e7499a2c6c3a4220bcee04]: Commencement: Art. 68 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00088]: Footnote: Section 214C was inserted by paragraph 7 of Schedule 21 to the Finance Act 1998.

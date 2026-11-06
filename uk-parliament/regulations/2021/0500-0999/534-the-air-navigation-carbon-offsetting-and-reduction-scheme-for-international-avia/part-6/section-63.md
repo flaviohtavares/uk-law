@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Inspection: refusal to allow access to premises[^key-1b9b7f94662c36c493334aba22ebeddc]
+## 63. Inspection: refusal to allow access to premises[^c-1b9b7f94662c36c493334aba22ebeddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person in control of premises is liable to a civil penalty of £50,000 where t
 
 ## Annotations
 
-[^key-1b9b7f94662c36c493334aba22ebeddc]: Commencement: Art. 63 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-1b9b7f94662c36c493334aba22ebeddc]: Commencement: Art. 63 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

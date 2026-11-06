@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. The accreditation function[^key-4f2cf362470f41e2ac0e39608a624949][^key-f09ebe53df6718e59ec920ef3f37e81f]
+## 4. The accreditation function[^c-4f2cf362470f41e2ac0e39608a624949][^c-f09ebe53df6718e59ec920ef3f37e81f]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f2cf362470f41e2ac0e39608a624949]: Commencement: S. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-4f2cf362470f41e2ac0e39608a624949]: Commencement: S. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-f09ebe53df6718e59ec920ef3f37e81f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/11/section/4) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-f09ebe53df6718e59ec920ef3f37e81f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/11/section/4) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

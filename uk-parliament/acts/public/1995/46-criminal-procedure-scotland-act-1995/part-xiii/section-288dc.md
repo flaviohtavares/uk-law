@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288DC. Prohibition of personal conduct of defence in domestic abuse cases[^key-678f53f9fb9d2cdad5f9098f0d643f47]
+## 288DC. Prohibition of personal conduct of defence in domestic abuse cases[^c-678f53f9fb9d2cdad5f9098f0d643f47]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-678f53f9fb9d2cdad5f9098f0d643f47]: Textual amendment: S. 288DC inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(14)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/14); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-678f53f9fb9d2cdad5f9098f0d643f47]: Textual amendment: S. 288DC inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(14)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/14); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))

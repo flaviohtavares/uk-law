@@ -53,7 +53,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## PART 2 — Human medicines
 
-### CHAPTER 1 — Regulations: general[^key-8cbad799badbc420fe71f99cd72ca38f]
+### CHAPTER 1 — Regulations: general[^c-8cbad799badbc420fe71f99cd72ca38f]
 
 #### 2. Power to make regulations about human medicines
 
@@ -180,11 +180,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) that the appropriate authority may withdraw or amend the protocol, and
 - (b) that the protocol is to have effect only for a period of time specified in the protocol.
 
-### CHAPTER 1A — Regulations: information systems[^key-7252f90947939d63f25cb7b4d4dd7ce9]
+### CHAPTER 1A — Regulations: information systems[^c-7252f90947939d63f25cb7b4d4dd7ce9]
 
 #### 7A. Information systems
 
-(1) The appropriate authority may by regulations make provision about the establishment and operation by NHS England[^key-c59779f655f3b34043d514a615264451] of one or more information systems for purposes relating to—
+(1) The appropriate authority may by regulations make provision about the establishment and operation by NHS England[^c-c59779f655f3b34043d514a615264451] of one or more information systems for purposes relating to—
 
 - (a) the safety of human medicines, including the safety of clinical decisions relating to human medicines;
 - (b) the quality and efficacy of human medicines.
@@ -192,7 +192,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 (2) The regulations may (among other things) make provision—
 
 - (a) about the information in relation to human medicines which may or must be entered or retained in an information system established under subsection (1);
-- (b) requiring information to be provided to NHS England[^key-7aea5253f9e4a9580ceba2c0c8f62760] for the purposes of its functions under the regulations;
+- (b) requiring information to be provided to NHS England[^c-7aea5253f9e4a9580ceba2c0c8f62760] for the purposes of its functions under the regulations;
 - (c) about the use or disclosure of information contained in an information system established under subsection (1);
 - (d) requiring NHS England to have regard to specified matters in exercising its functions under the regulations.
 
@@ -219,7 +219,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) The provision mentioned in subsection (2)(c) may include provision about—
 
-- (a) the analysis by NHS England[^key-17b9e3abfd51b6d306bc3a8f09ce50ab] of information that is contained in an information system (whether alone or in combination with other information) for the purposes mentioned in subsection (1) or for other purposes;
+- (a) the analysis by NHS England[^c-17b9e3abfd51b6d306bc3a8f09ce50ab] of information that is contained in an information system (whether alone or in combination with other information) for the purposes mentioned in subsection (1) or for other purposes;
 - (b) the publication by NHS England of information that is contained in an information system or has been analysed in combination with such information;
 - (c) the disclosure (other than by way of publication) of information mentioned in paragraph (b) to specified persons or descriptions of persons, or for specified purposes;
 - (d) the use or further disclosure by any person of information disclosed to them under the regulations.
@@ -231,7 +231,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (i) where a proposed direction relates to Wales, to consult the Welsh Ministers before giving it, and
   - (ii) where a proposed direction relates to Scotland, to consult the Scottish Ministers before giving it.
 
-(8) Where regulations under subsection (1) include provision by virtue of subsection (4)(a) which requires, or enables NHS England[^key-097eec8284c7538f7934743e4d59b301] to require, the provision of individual health information held for the purposes of the health service established under section 1 of the National Health Service (Scotland) Act 1978, the regulations must provide for the information to be collected by the Scottish Ministers, or a person designated by them, on behalf of NHS England, subject to specified exceptions.
+(8) Where regulations under subsection (1) include provision by virtue of subsection (4)(a) which requires, or enables NHS England[^c-097eec8284c7538f7934743e4d59b301] to require, the provision of individual health information held for the purposes of the health service established under section 1 of the National Health Service (Scotland) Act 1978, the regulations must provide for the information to be collected by the Scottish Ministers, or a person designated by them, on behalf of NHS England, subject to specified exceptions.
 
 (9) Regulations by virtue of subsection (8) may—
 
@@ -531,7 +531,7 @@ In this Part—
 - (c) permitting or requiring such information to be disclosed to the Secretary of State or to a person appointed under provision made in reliance on section 16(1)(c), or
 - (d) amending the Schedule to the Medical Devices Regulations 2002 (S.I. 2002/618) inserted by Schedule 3 to this Act (list of regulations breach of which is an offence under regulation 60A).
 
-(2) In this Chapter[^key-20c1ae61049a4432f80de09816858114], “**medical devices provision**” means a provision in—
+(2) In this Chapter[^c-20c1ae61049a4432f80de09816858114], “**medical devices provision**” means a provision in—
 
 - (a) regulations under section 15(1), or
 - (b) the Medical Devices Regulations 2002.
@@ -554,7 +554,7 @@ In this Part—
 
 #### 19. Information systems
 
-(1) The Secretary of State may by regulations make provision about the establishment and operation by NHS England[^key-30e15d7b921f7c44be0e91c459f5bae7] of one or more information systems for purposes relating to—
+(1) The Secretary of State may by regulations make provision about the establishment and operation by NHS England[^c-30e15d7b921f7c44be0e91c459f5bae7] of one or more information systems for purposes relating to—
 
 - (a) the safety and performance, including the clinical effectiveness, of medical devices that are placed on the market;
 - (b) the safety of individuals who receive or are treated with a medical device, or into whom a medical device is implanted;
@@ -563,13 +563,13 @@ In this Part—
 (2) The regulations may (among other things) make provision—
 
 - (a) specifying descriptions of information in relation to medical devices which may or must be entered or retained in an information system established under subsection (1);
-- (b) requiring information to be provided to NHS England[^key-7c57118d549be4a9cf1b84edb10bca86] for the purposes of its functions under the regulations;
+- (b) requiring information to be provided to NHS England[^c-7c57118d549be4a9cf1b84edb10bca86] for the purposes of its functions under the regulations;
 - (c) about the use or disclosure of information contained in an information system established under subsection (1);
 - (d) requiring NHS England to have regard to specified matters in exercising its functions under the regulations.
 
 (3) The provision mentioned in subsection (2)(b) may include provision—
 
-- (a) requiring specified persons or descriptions of persons to whom subsection (4) applies to provide information of a specified description to NHS England[^key-a9df548863c8037ffba421f415160ca0];
+- (a) requiring specified persons or descriptions of persons to whom subsection (4) applies to provide information of a specified description to NHS England[^c-a9df548863c8037ffba421f415160ca0];
 - (b) about the manner in which, and the time at which, those persons must provide that information;
 - (c) enabling NHS England to require specified persons or descriptions of persons to whom subsection (4) applies to provide to it in a manner, and at a time, determined by NHS England—
   - (i) information of a specified description;
@@ -589,14 +589,14 @@ In this Part—
 
 (6) The provision mentioned in subsection (2)(c) may include provision about—
 
-- (a) the analysis by NHS England[^key-41c209e8b17996ce14116488698eb864] of information contained in an information system (whether alone or in combination with other information) for the purposes mentioned in subsection (1) or for other purposes;
-- (b) the publication by NHS England of information that is contained in an information system or has been analysed in combination with such information[^key-3ced6d53334acaf1533c2cfa122362b2];
-- (c) the disclosure (other than by way of publication) of information mentioned in paragraph (b)[^key-6639ec905bb59dc107b576bf09b8ce54] to specified persons or descriptions of persons, or for specified purposes;
+- (a) the analysis by NHS England[^c-41c209e8b17996ce14116488698eb864] of information contained in an information system (whether alone or in combination with other information) for the purposes mentioned in subsection (1) or for other purposes;
+- (b) the publication by NHS England of information that is contained in an information system or has been analysed in combination with such information[^c-3ced6d53334acaf1533c2cfa122362b2];
+- (c) the disclosure (other than by way of publication) of information mentioned in paragraph (b)[^c-6639ec905bb59dc107b576bf09b8ce54] to specified persons or descriptions of persons, or for specified purposes;
 - (d) the use or further disclosure by any person of information disclosed to them under the regulations.
 
 (7) The provision mentioned in subsection (3)(f) may include provision applying any provision of Chapter 3 of this Part (enforcement), with or without modifications, in relation to a requirement imposed by or under the regulations.
 
-(7A)[^key-9d50bda95ccb77617c468fa7021149ee] Regulations under this section may provide that the disclosure of information by virtue of this section does not breach—
+(7A)[^c-9d50bda95ccb77617c468fa7021149ee] Regulations under this section may provide that the disclosure of information by virtue of this section does not breach—
 
 - (a) an obligation of confidence owed by the person making the disclosure, or
 - (b) any other restriction on the disclosure of the information (however imposed), other than a restriction imposed by the data protection legislation.
@@ -624,16 +624,16 @@ In this Part—
 
 #### Enforcement notices
 
-##### 21. Compliance notices[^key-7f51c3ac1940665b6d5f050134596d00]
+##### 21. Compliance notices[^c-7f51c3ac1940665b6d5f050134596d00]
 
 (1) This section applies where the enforcement authority has reasonable grounds to suspect that a person involved in marketing or supplying a medical device is not complying with a medical devices provision.
 
-(1A)[^key-9fad5804e85e980cab776bc6cf66efd9] In this Chapter, “medical devices provision” means a provision in—
+(1A)[^c-9fad5804e85e980cab776bc6cf66efd9] In this Chapter, “medical devices provision” means a provision in—
 
 - (a) regulations under section 15(1),
 - (b) the Medical Devices Regulations 2002 ([S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618)),
 - (c) the Medical Devices (Northern Ireland Protocol) Regulations 2021, or
-- (d)[^key-e0165180624c7b0dbdbbc7ec172f0f13] the EU Medical Devices Regulations.
+- (d)[^c-e0165180624c7b0dbdbbc7ec172f0f13] the EU Medical Devices Regulations.
 
 (2) The enforcement authority may serve a notice (“a compliance notice”) on the person—
 
@@ -651,7 +651,7 @@ In this Part—
 
 (6) In this section, “**specified**” means specified in the compliance notice.
 
-##### 22. Suspension notices[^key-d0bc8f412adacbe101c37bd0d28cee09]
+##### 22. Suspension notices[^c-d0bc8f412adacbe101c37bd0d28cee09]
 
 (1) This section applies where the enforcement authority considers that it may be necessary to restrict the availability of a medical device in order to protect health or safety.
 
@@ -675,7 +675,7 @@ In this Part—
 - (a) reduce the period for which a suspension notice has effect, or
 - (b) revoke a suspension notice.
 
-##### 23. Safety notices[^key-364f4058138a2247756a5bed824dbb29]
+##### 23. Safety notices[^c-364f4058138a2247756a5bed824dbb29]
 
 (1) The enforcement authority may serve on a person a notice (“a safety notice”) imposing on the person prohibitions or requirements that the enforcement authority considers necessary to restrict the availability of a medical device in order to protect health or safety.
 
@@ -702,7 +702,7 @@ In this Part—
 
 (8) Subsection (7) does not apply where the enforcement authority considers that there is an urgent need to make the proposed safety notice or variation in order to restrict the availability of the medical device to which the proposed safety notice or variation relates.
 
-##### 24. Information notices[^key-1966fb875cb16a1b1afa6814d876ea61]
+##### 24. Information notices[^c-1966fb875cb16a1b1afa6814d876ea61]
 
 (1) This section applies where the enforcement authority considers that a person has information which the enforcement authority needs for the purpose of deciding whether to—
 
@@ -721,7 +721,7 @@ In this Part—
 
 (5) The enforcement authority may vary or revoke an information notice.
 
-##### 25. Applications to set notices aside etc[^key-cd66ea55dc6ed3718ff6689c3afb43e6]
+##### 25. Applications to set notices aside etc[^c-cd66ea55dc6ed3718ff6689c3afb43e6]
 
 (1) A person affected by a compliance, suspension or safety notice may apply to the appropriate lower court (see section 42)—
 
@@ -755,13 +755,13 @@ In this Part—
 
 (9) An order of the appropriate lower court varying or setting aside a compliance, suspension, safety or information notice may contain provision delaying the coming into force of the order pending the making and determination of an appeal under section 27.
 
-##### 26. Compensation[^key-4c41d37043c00afe637c1316c8b7a58b]
+##### 26. Compensation[^c-4c41d37043c00afe637c1316c8b7a58b]
 
 (1) A person affected by a compliance, suspension or safety notice which the appropriate lower court varies or sets aside may apply to the appropriate lower court for an order requiring the enforcement authority to pay compensation in respect of loss or damage caused by reason of the notice.
 
 (2) An application under subsection (1) may be made at the same time as an application under section 25(1).
 
-##### 27. Further appeals[^key-773623a40ae51b62217bbb46c36701fc]
+##### 27. Further appeals[^c-773623a40ae51b62217bbb46c36701fc]
 
 (1) A person aggrieved by a decision of the appropriate lower court on an application under section 25(1) or (2) or section 26(1) may appeal against that decision to the appropriate appeals court (see section 42).
 
@@ -771,7 +771,7 @@ In this Part—
 
 #### Offences
 
-##### 28. Offences[^key-206ead142903f1ff47534d71e5e6cbcc]
+##### 28. Offences[^c-206ead142903f1ff47534d71e5e6cbcc]
 
 (1) A person commits an offence if the person breaches—
 
@@ -787,7 +787,7 @@ In this Part—
 
 (3) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003, the reference in subsection (2)(a) to 51 weeks is to be read as a reference to 6 months.
 
-##### 29. Defence of due diligence[^key-87189bdbb4dd78392d39533a6750cba4]
+##### 29. Defence of due diligence[^c-87189bdbb4dd78392d39533a6750cba4]
 
 (1) It is a defence for a person charged with an offence under section 28(1) to show that the person took all reasonable steps and exercised all due diligence to avoid commission of the offence.
 
@@ -810,7 +810,7 @@ the defendant is not, without leave of the court, entitled to rely on that defen
 - (a) references to the defendant are to be read as references to the accused, and
 - (b) the reference in subsection (3) to “the hearing of the proceedings” is to be read as a reference to “the trial diet”.
 
-##### 30. Offences by bodies corporate[^key-fa2b27a0b5ccdd80fcc6e72e9fd702c5]
+##### 30. Offences by bodies corporate[^c-fa2b27a0b5ccdd80fcc6e72e9fd702c5]
 
 (1) Where an offence under section 28 committed by a body corporate or a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer, the officer (as well as the body corporate or partnership) commits the offence and is liable to be proceeded against and punished accordingly.
 
@@ -836,7 +836,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 #### Forfeiture
 
-##### 32. Forfeiture of medical devices[^key-acd8ca45234112f7239eef3bbe817ba4]
+##### 32. Forfeiture of medical devices[^c-acd8ca45234112f7239eef3bbe817ba4]
 
 (1) The enforcement authority may apply to the appropriate lower court (see section 42) for an order for the forfeiture of a medical device (a “forfeiture order”) on the grounds that there has been a contravention of a medical devices provision in relation to the device.
 
@@ -866,7 +866,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 - (b) if the device has been seized, the person from whom it was seized, or
 - (c) if different, any person to whom it belongs.
 
-##### 33. Appeals against forfeiture decisions[^key-3d19b6fcb47c939150f0fc916f340401]
+##### 33. Appeals against forfeiture decisions[^c-3d19b6fcb47c939150f0fc916f340401]
 
 (1) A person claiming to be entitled to a medical device which is subject to a forfeiture order may appeal against the decision to make the order.
 
@@ -891,11 +891,11 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 #### Recovery of expenses of enforcement
 
-##### 34. Recovery of expenses of enforcement[^key-137cbf28e31ecd472bfb1e9d9e470d71]
+##### 34. Recovery of expenses of enforcement[^c-137cbf28e31ecd472bfb1e9d9e470d71]
 
 (1) This section applies where a court—
 
-- (a) convicts a person of an offence under—[^key-bec2110c253fa67f56c2c2958f5b78d5]
+- (a) convicts a person of an offence under—[^c-bec2110c253fa67f56c2c2958f5b78d5]
   - (i) section 28,
   - (ii) regulation 60A of the Medical Devices Regulations 2002 ([S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618)) (offence of breaching certain provisions in the Regulations), or
   - (iii) regulation 23 of the Medical Devices (Northern Ireland Protocol) Regulations 2021 (offence of breaching certain provisions),
@@ -910,7 +910,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 #### Recall of medical device by enforcement authority
 
-##### 35. Recall of medical device by enforcement authority[^key-b1954b6903c156bf52ef4b3c25988e98]
+##### 35. Recall of medical device by enforcement authority[^c-b1954b6903c156bf52ef4b3c25988e98]
 
 (1) This section applies where the enforcement authority considers that—
 
@@ -923,7 +923,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 #### Power of officer of Revenue and Customs to detain medical device
 
-##### 36. Power of officer of Revenue and Customs to detain medical device[^key-1f1a89f4830ca91601a51525b52a1b81]
+##### 36. Power of officer of Revenue and Customs to detain medical device[^c-1f1a89f4830ca91601a51525b52a1b81]
 
 (1) An officer of Revenue and Customs may seize an imported medical device and detain it for not more than two working days in order to facilitate the exercise by an enforcement authority or an officer of an enforcement authority of a function under—
 
@@ -935,7 +935,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 (3) In subsection (1), the reference to two working days is a reference to a period of 48 hours calculated from the time when the device in question is seized but disregarding so much of any period as falls on a Saturday or Sunday or on Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom where the device is seized.
 
-##### 37. Offence of obstructing an officer of Revenue and Customs[^key-14a4ee05b1d5b6ba16e2f7370e27e2ff]
+##### 37. Offence of obstructing an officer of Revenue and Customs[^c-14a4ee05b1d5b6ba16e2f7370e27e2ff]
 
 (1) A person commits an offence if the person intentionally obstructs an officer of Revenue and Customs who is acting under section 36.
 
@@ -948,7 +948,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 #### Civil proceedings
 
-##### 38. Civil proceedings[^key-df944806682f37e9b3ab0871d8de6669]
+##### 38. Civil proceedings[^c-df944806682f37e9b3ab0871d8de6669]
 
 (1) An obligation imposed by a medical devices provision is to be treated as a duty owed to any person who may be affected by a breach of the obligation.
 
@@ -963,7 +963,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 #### Disclosure of information
 
-##### 39. Disclosure of information[^key-5582d1d8937d6cb0fd2951400e10b562]
+##### 39. Disclosure of information[^c-5582d1d8937d6cb0fd2951400e10b562]
 
 (1) This section applies in relation to information which the Secretary of State holds in connection with medical devices.
 
@@ -1004,8 +1004,8 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 (10) Nothing in this section authorises a disclosure of information which—
 
-- (a) contravenes the data protection legislation (but in determining whether a disclosure would do so, take into account the powers conferred by this section), [^key-3c019534876cf636600af08074bb686a]...
-- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016 , or[^key-b3dcbfa485ba06a64adcccf2dfc15585]
+- (a) contravenes the data protection legislation (but in determining whether a disclosure would do so, take into account the powers conferred by this section), [^c-3c019534876cf636600af08074bb686a]...
+- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016 , or[^c-b3dcbfa485ba06a64adcccf2dfc15585]
 - (c) contravenes any obligation or restriction created or arising by or under the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, whether or not an obligation or restriction to which section 7A(2) of the European Union (Withdrawal) Act 2018 applies.
 
 (11) This section does not limit the circumstances in which information may be disclosed under any other enactment or rule of law.
@@ -1027,7 +1027,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
   - (c) any other person who exercises functions or provides services relating to medical devices in a country or territory outside the United Kingdom;
   - (d) an international organisation that exercises functions or provides services relating to medical devices.
 
-##### 40. Offences relating to information[^key-59cc094c979a8fd2d78da5c8455b0a65]
+##### 40. Offences relating to information[^c-59cc094c979a8fd2d78da5c8455b0a65]
 
 (1) A person to whom information is disclosed under section 39 commits an offence if the person uses or discloses that information in contravention of subsection (8) of that section.
 
@@ -1044,7 +1044,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 ##### 41. Consequential and supplementary provision
 
-(1)[^key-f3f9d0375bb514438b6779bf779cb369] In the Consumer Protection Act 1987—
+(1)[^c-f3f9d0375bb514438b6779bf779cb369] In the Consumer Protection Act 1987—
 
 - (a) in section 11 (safety regulations), in subsection (7), at the end insert—
 
@@ -1057,7 +1057,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
   .
 
-(2)[^key-f3f9d0375bb514438b6779bf779cb369] In the Consumer Rights Act 2015, in Schedule 5 (investigatory powers etc)—
+(2)[^c-f3f9d0375bb514438b6779bf779cb369] In the Consumer Rights Act 2015, in Schedule 5 (investigatory powers etc)—
 
 - (a) in paragraph 10 (enforcer's legislation: duties and powers mentioned in paragraph 9(1)(a)), at the appropriate place insert “ regulation 61 of the Medical Devices Regulations 2002 (S.I. 2002/618) ”;
 - (b) in the table in paragraph 11 (enforcer's legislation), at the end insert—
@@ -1089,13 +1089,13 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
   - (i) in sub-paragraph (1), for “30” substitute “ 30A ”;
   - (ii) in sub-paragraph (2), for “30” substitute “ 30A ”.
 
-(3)[^key-f3f9d0375bb514438b6779bf779cb369] The Medical Devices Regulations 2002 (S.I. 2002/618) are amended in accordance with subsections (4) to (7).
+(3)[^c-f3f9d0375bb514438b6779bf779cb369] The Medical Devices Regulations 2002 (S.I. 2002/618) are amended in accordance with subsections (4) to (7).
 
-(4)[^key-f3f9d0375bb514438b6779bf779cb369] In regulation 2 (interpretation), in paragraph (1) omit the definition of “the 1987 Act”.
+(4)[^c-f3f9d0375bb514438b6779bf779cb369] In regulation 2 (interpretation), in paragraph (1) omit the definition of “the 1987 Act”.
 
-(5)[^key-f3f9d0375bb514438b6779bf779cb369] Omit regulation 3B (confidentiality).
+(5)[^c-f3f9d0375bb514438b6779bf779cb369] Omit regulation 3B (confidentiality).
 
-(6)[^key-f3f9d0375bb514438b6779bf779cb369] In regulation 61 (enforcement and the Consumer Protection Act 1987 etc), for paragraphs (1) to (8) substitute—
+(6)[^c-f3f9d0375bb514438b6779bf779cb369] In regulation 61 (enforcement and the Consumer Protection Act 1987 etc), for paragraphs (1) to (8) substitute—
 
 > (1A) It is the duty of the Secretary of State to enforce these regulations in relation to relevant devices and devices for performance evaluation.
 >
@@ -1103,13 +1103,13 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 >
 > (1C) Nothing in this regulation authorises a weights and measures authority to bring proceedings in Scotland for an offence.
 
-(7)[^key-f3f9d0375bb514438b6779bf779cb369] Omit—
+(7)[^c-f3f9d0375bb514438b6779bf779cb369] Omit—
 
 - (a) regulation 62 (compliance notices),
 - (b) regulation 63 (restriction notices), and
 - (c) regulation 64 (notification of decisions etc).
 
-(8)[^key-f3f9d0375bb514438b6779bf779cb369] As a result of the amendments made by subsections (1), (4), (6) and (7), the Medical Devices Regulations 2002 are not to be recognised as safety regulations for the purposes of the Consumer Protection Act 1987, but those amendments do not otherwise affect the continued operation of those regulations.
+(8)[^c-f3f9d0375bb514438b6779bf779cb369] As a result of the amendments made by subsections (1), (4), (6) and (7), the Medical Devices Regulations 2002 are not to be recognised as safety regulations for the purposes of the Consumer Protection Act 1987, but those amendments do not otherwise affect the continued operation of those regulations.
 
 (9) Schedule 3 makes it an offence to breach various provisions in the Medical Devices Regulations 2002.
 
@@ -1142,13 +1142,13 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 - “**forfeiture order**” has the meaning given by section 32(1);
 - “**information notice**” has the meaning given by section 24(2);
 - “**manufacture**” includes assembly;
-- “manufacturer” means any person who is a manufacturer for the purposes of any provision in—[^key-d459595a3ae02cf9b58c87f4fd1dd150]
+- “manufacturer” means any person who is a manufacturer for the purposes of any provision in—[^c-d459595a3ae02cf9b58c87f4fd1dd150]
   - (a) the Medical Devices Regulations 2002 ([S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618)), or
-  - (b) the EU Medical Devices Regulations;[^key-637b4dadf9b8754014f65665d6156cad]
+  - (b) the EU Medical Devices Regulations;[^c-637b4dadf9b8754014f65665d6156cad]
 - “**medical device**” includes—
   - (a) medical devices to which the Medical Devices Regulations 2002 apply, and
   - (b) devices to which the EU Medical Devices Regulations apply;
-- “medical devices provision”—[^key-ea54efd0f8ec5c3933e0330138fa8f94]
+- “medical devices provision”—[^c-ea54efd0f8ec5c3933e0330138fa8f94]
   - (a) in Chapter 1, has the meaning given by section 17(2), and
   - (b) in Chapter 3, has the meaning given by section 21(1A);
 - “**relevant requirements**” has the meaning given by section 16(1)(a);
@@ -1159,7 +1159,7 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 
 ### 43. Power to make consequential etc provision
 
-(1) Subsection (2)[^key-9f51cf0473ced3b48d32272aa82bb1a8] applies to regulations under a power in Part 1, 2, 3 or 4, apart from regulations under paragraph 9 of Schedule 2.
+(1) Subsection (2)[^c-9f51cf0473ced3b48d32272aa82bb1a8] applies to regulations under a power in Part 1, 2, 3 or 4, apart from regulations under paragraph 9 of Schedule 2.
 
 (2) The regulations may—
 
@@ -1168,14 +1168,14 @@ Schedule 2 makes provision for and relating to civil sanctions in relation to th
 - (c) make different provision for different areas;
 - (d) make provision for all cases to which the power applies or for those cases subject to specified exceptions or for any specified cases or descriptions of case.
 
-(3)[^key-796ebf58025096ae6df01c21892d6a8c] Provision made by regulations under section 7A or 19 by virtue of subsection (2)(a) may include provision—
+(3)[^c-796ebf58025096ae6df01c21892d6a8c] Provision made by regulations under section 7A or 19 by virtue of subsection (2)(a) may include provision—
 
-- (a) changing the territorial extent of provisions of Chapter 2 of Part 9 of the Health and Social Care Act 2012 (NHS England: health and social care information etc.)[^key-bd1a4da3fa024c42585c1f23804fe41c], or
+- (a) changing the territorial extent of provisions of Chapter 2 of Part 9 of the Health and Social Care Act 2012 (NHS England: health and social care information etc.)[^c-bd1a4da3fa024c42585c1f23804fe41c], or
 - (b) otherwise amending that Chapter.
 
 ### 44. Scope of powers of Northern Ireland departments
 
-No provision may be made by a Northern Ireland department acting alone in regulations under section 2(1) , 7A(1)[^key-df450888139506285232161c8d5702bc] or 10(1) unless the provision, if it were contained in an Act of the Northern Ireland Assembly—
+No provision may be made by a Northern Ireland department acting alone in regulations under section 2(1) , 7A(1)[^c-df450888139506285232161c8d5702bc] or 10(1) unless the provision, if it were contained in an Act of the Northern Ireland Assembly—
 
 - (a) would be within the legislative competence of the Assembly, and
 - (b) would not require the consent of the Secretary of State.
@@ -1184,7 +1184,7 @@ No provision may be made by a Northern Ireland department acting alone in regula
 
 (1) Before making regulations under a provision of Part 1, 2, 3 or 4, the relevant authority must carry out a public consultation.
 
-(1A)[^key-82655a6d2f1bde4e65368c4933618a4c] In relation to proposed regulations under section 7A(1), the Secretary of State must—
+(1A)[^c-82655a6d2f1bde4e65368c4933618a4c] In relation to proposed regulations under section 7A(1), the Secretary of State must—
 
 - (a) where the regulations relate to Wales, specifically consult the Welsh Ministers, and
 - (b) where the regulations relate to Scotland, specifically consult the Scottish Ministers.
@@ -1208,24 +1208,24 @@ where the regulations contain a declaration that the person making them consider
 
 (6) In this section, “**the relevant authority**” means—
 
-- (a)[^key-9589fbbcf90852e0f9883f4472e52440] in relation to regulations made under section 2(1) or 7A(1), the appropriate authority within the meaning given by section 2(6),
+- (a)[^c-9589fbbcf90852e0f9883f4472e52440] in relation to regulations made under section 2(1) or 7A(1), the appropriate authority within the meaning given by section 2(6),
 - (aa) in relation to regulations made under section 10(1), the appropriate authority within the meaning given by section 10(6), and
 - (b) in relation to any other regulations, the Secretary of State.
 
 ### 46. Reporting requirements
 
-(1) As soon as reasonably practicable after the end of each reporting period, the relevant authority must lay before the appropriate legislature a report on the operation of any regulations made by the relevant authority under sections 2(1), 7A(1),[^key-19fa09f74b963f3848fa6dbb0e812473] 10(1), 15(1) and 19(1) that were in force at any time during the reporting period.
+(1) As soon as reasonably practicable after the end of each reporting period, the relevant authority must lay before the appropriate legislature a report on the operation of any regulations made by the relevant authority under sections 2(1), 7A(1),[^c-19fa09f74b963f3848fa6dbb0e812473] 10(1), 15(1) and 19(1) that were in force at any time during the reporting period.
 
 (2) In preparing a report, the relevant authority must consult such persons as the relevant authority considers appropriate.
 
 (3) A report must include a summary of—
 
 - (a) any concerns raised, or proposals for change made, by a person consulted in accordance with subsection (2), and
-- (b) the relevant authority's response to those concerns or proposals, including any plan the relevant authority may have to make further regulations under section 2(1), 7A(1),[^key-caeef36e0132834af2cad38911630d55] 10(1), 15(1) or 19(1).
+- (b) the relevant authority's response to those concerns or proposals, including any plan the relevant authority may have to make further regulations under section 2(1), 7A(1),[^c-caeef36e0132834af2cad38911630d55] 10(1), 15(1) or 19(1).
 
 (4) The reporting periods are—
 
-- (a) the period of 24 months beginning with the day on which the first set of regulations under section 2(1), 7A(1),[^key-544ae618f3ca562b66b197fa3d646ba3] 10(1), 15(1) or 19(1) comes into force, and
+- (a) the period of 24 months beginning with the day on which the first set of regulations under section 2(1), 7A(1),[^c-544ae618f3ca562b66b197fa3d646ba3] 10(1), 15(1) or 19(1) comes into force, and
 - (b) each successive period of 24 months.
 
 (5) In this section—
@@ -1234,7 +1234,7 @@ where the regulations contain a declaration that the person making them consider
   - (a) in relation to a report of the Secretary of State, Parliament;
   - (b) in relation to a report of a Northern Ireland department, the Northern Ireland Assembly;
 - “**relevant authority**” means—
-  - (a) in relation to regulations made under section 2(1) , 7A(1)[^key-ff8e4845691133573b2033365762e2f4] or 10(1) by the Secretary of State (whether acting alone or jointly with a Northern Ireland department), the Secretary of State;
+  - (a) in relation to regulations made under section 2(1) , 7A(1)[^c-ff8e4845691133573b2033365762e2f4] or 10(1) by the Secretary of State (whether acting alone or jointly with a Northern Ireland department), the Secretary of State;
   - (b) in relation to regulations made under section 2(1) , 7A(1) or 10(1) by a Northern Ireland department (whether acting alone or jointly with the Secretary of State), the Northern Ireland department;
   - (c) in relation to regulations made under section 15(1) or 19(1), the Secretary of State.
 
@@ -1242,7 +1242,7 @@ where the regulations contain a declaration that the person making them consider
 
 (1) Any power to make regulations under a provision of Part 1, 2, 3 or 4 so far as exercisable by the Secretary of State, or by the Secretary of State acting jointly with a Northern Ireland department, is exercisable by statutory instrument.
 
-(2) Any power to make regulations under section 2(1) , 7A(1)[^key-f80952d984eeaebf4a6972ce5d97d7be] or 10(1) so far as exercisable by a Northern Ireland department (other than when acting jointly with the Secretary of State) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
+(2) Any power to make regulations under section 2(1) , 7A(1)[^c-f80952d984eeaebf4a6972ce5d97d7be] or 10(1) so far as exercisable by a Northern Ireland department (other than when acting jointly with the Secretary of State) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)) (and not by statutory instrument).
 
 (3) The procedure for making regulations under Part 1, 2, 3 or 4 is to be determined in accordance with this table and subsection (4)—
 
@@ -1486,8 +1486,8 @@ Section 31
 
 **1.** (1) The Secretary of State may impose a monetary penalty on a person if satisfied beyond reasonable doubt that the person has committed an offence under—
 
-- (a) section 28 (offence of breaching enforcement notice), [^key-9cd27596a503c3191dbd886d1dc2ed15]...
-- (b) regulation 60A of the Medical Devices Regulations 2002 (S.I. 2002/618) (offence of breaching certain provisions in the Regulations) , or[^key-ce27e16dffebb783bfb961e0bcd24b6b]
+- (a) section 28 (offence of breaching enforcement notice), [^c-9cd27596a503c3191dbd886d1dc2ed15]...
+- (b) regulation 60A of the Medical Devices Regulations 2002 (S.I. 2002/618) (offence of breaching certain provisions in the Regulations) , or[^c-ce27e16dffebb783bfb961e0bcd24b6b]
 - (c) regulation 23 of the Medical Devices (Northern Ireland Protocol) Regulations 2021 (offence of breaching certain provisions).
 
 (2) In this Schedule “**monetary penalty**” means a requirement to pay to the Secretary of State a penalty of an amount determined by the Secretary of State.
@@ -1546,22 +1546,22 @@ The period referred to in paragraph (c) must be at least 28 days beginning with 
 
 **4.** (1) Where a notice under paragraph 2(1) is served on a person—
 
-- (a) no criminal proceedings for an offence under—[^key-fec86dc04f5aa31a351c135493d0c412]
+- (a) no criminal proceedings for an offence under—[^c-fec86dc04f5aa31a351c135493d0c412]
 - (i) section 28,
 - (ii) regulation 60A of the Medical Devices Regulations 2002, or
 - (iii) regulation 23 of the Medical Devices (Northern Ireland Protocol) Regulations 2021,
 
 may be instituted against the person in respect of the act or omission to which the notice relates before the end of the period within which the person’s liability may be discharged as mentioned in paragraph 2(2) (see paragraph 3(2)(a));
 
-- (b) if the liability is so discharged, the person may not at any time be convicted of an offence under the provisions mentioned in paragraph (a) in relation to that act or omission.[^key-6252b318cbe9beb6500924bd15ef6c24]
+- (b) if the liability is so discharged, the person may not at any time be convicted of an offence under the provisions mentioned in paragraph (a) in relation to that act or omission.[^c-6252b318cbe9beb6500924bd15ef6c24]
 
-(2) A person on whom a monetary penalty is imposed may not at any time be convicted of an offence under any of the provisions mentioned in sub-paragraph (1)(a) in respect of the act or omission giving rise to the penalty.[^key-dc15a306a2a00a1f46e206f6b7995342]
+(2) A person on whom a monetary penalty is imposed may not at any time be convicted of an offence under any of the provisions mentioned in sub-paragraph (1)(a) in respect of the act or omission giving rise to the penalty.[^c-dc15a306a2a00a1f46e206f6b7995342]
 
 ### PART 2 — Enforcement undertakings
 
 **5.** (1) This paragraph applies where—
 
-- (a) the Secretary of State has reasonable grounds to suspect that a person has committed an offence under— section 28 or regulation 60A of the Medical Devices Regulations 2002,[^key-9a4eb50c271dda694784fe33ed74541f]
+- (a) the Secretary of State has reasonable grounds to suspect that a person has committed an offence under— section 28 or regulation 60A of the Medical Devices Regulations 2002,[^c-9a4eb50c271dda694784fe33ed74541f]
 - (i) section 28,
 - (ii) regulation 60A of the Medical Devices Regulations 2002, or
 - (iii) regulation 23 of the Medical Devices (Northern Ireland Protocol) Regulations 2021,
@@ -1573,7 +1573,7 @@ may be instituted against the person in respect of the act or omission to which 
 
 (2) Unless the person fails to comply with the undertaking or any part of it—
 
-- (a) the person may not at any time be convicted of an offence under any of the provisions mentioned in sub-paragraph (1)(a) in respect of the act or omission to which the undertaking relates;[^key-0f5d46a3cd55b3c614b524d546363b10]
+- (a) the person may not at any time be convicted of an offence under any of the provisions mentioned in sub-paragraph (1)(a) in respect of the act or omission to which the undertaking relates;[^c-0f5d46a3cd55b3c614b524d546363b10]
 - (b) the Secretary of State may not impose on the person any monetary penalty that the Secretary of State would otherwise have power to impose by virtue of paragraph 1 in respect of that act or omission.
 
 ### PART 3 — Enforcement costs recovery notices
@@ -1685,7 +1685,7 @@ or on any other grounds that are set out in supplementary regulations (see Part 
 
 **13.** (1) The Secretary of State must prepare and publish guidance as to—
 
-- (a) the sanctions that may be imposed on a person who commits an offence under section 28 , regulation 60A of the Medical Devices Regulations 2002 or regulation 23 of the Medical Devices (Northern Ireland Protocol) Regulations 2021;[^key-8e8edc8ff2d724e4a3bbe973d70358a4]
+- (a) the sanctions that may be imposed on a person who commits an offence under section 28 , regulation 60A of the Medical Devices Regulations 2002 or regulation 23 of the Medical Devices (Northern Ireland Protocol) Regulations 2021;[^c-8e8edc8ff2d724e4a3bbe973d70358a4]
 - (b) the action that the Secretary of State may take in relation to such a person;
 - (c) the circumstances in which the Secretary of State is likely to take any such action.
 
@@ -1881,128 +1881,128 @@ Section 41
 
 ## Annotations
 
-[^key-8cbad799badbc420fe71f99cd72ca38f]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2021/3/part/2/chapter/1) heading substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8cbad799badbc420fe71f99cd72ca38f]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2021/3/part/2/chapter/1) heading substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^c24448181]: Commencement: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2021/3/section/6/4) in force at 11.2.2021 see [s. 50(1)(c)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/1/c)
 
-[^key-7252f90947939d63f25cb7b4d4dd7ce9]: Textual amendment: [Pt. 2 Ch. 1A](https://www.legislation.gov.uk/ukpga/2021/3/part/2/chapter/1A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7252f90947939d63f25cb7b4d4dd7ce9]: Textual amendment: [Pt. 2 Ch. 1A](https://www.legislation.gov.uk/ukpga/2021/3/part/2/chapter/1A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-c59779f655f3b34043d514a615264451]: Textual amendment: Words in [s. 7A(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-c59779f655f3b34043d514a615264451]: Textual amendment: Words in [s. 7A(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-7aea5253f9e4a9580ceba2c0c8f62760]: Textual amendment: Words in [s. 7A(2)-(4)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-7aea5253f9e4a9580ceba2c0c8f62760]: Textual amendment: Words in [s. 7A(2)-(4)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-17b9e3abfd51b6d306bc3a8f09ce50ab]: Textual amendment: Words in [s. 7A(6)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/6) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-17b9e3abfd51b6d306bc3a8f09ce50ab]: Textual amendment: Words in [s. 7A(6)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/6) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-097eec8284c7538f7934743e4d59b301]: Textual amendment: Words in [s. 7A(8)-(11)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/8) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-097eec8284c7538f7934743e4d59b301]: Textual amendment: Words in [s. 7A(8)-(11)](https://www.legislation.gov.uk/ukpga/2021/3/section/7A/8) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^c24448191]: Commencement: S. 17(2) in force at 11.2.2021 see s. 50(1)(g)
 
-[^key-20c1ae61049a4432f80de09816858114]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/17/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/2)
+[^c-20c1ae61049a4432f80de09816858114]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/17/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/2)
 
-[^key-30e15d7b921f7c44be0e91c459f5bae7]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-30e15d7b921f7c44be0e91c459f5bae7]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/1) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-7c57118d549be4a9cf1b84edb10bca86]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-7c57118d549be4a9cf1b84edb10bca86]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-a9df548863c8037ffba421f415160ca0]: Textual amendment: Words in [s. 19(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/3) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-a9df548863c8037ffba421f415160ca0]: Textual amendment: Words in [s. 19(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/3) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-41c209e8b17996ce14116488698eb864]: Textual amendment: Words in [s. 19(6)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/6) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-41c209e8b17996ce14116488698eb864]: Textual amendment: Words in [s. 19(6)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/6) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-3ced6d53334acaf1533c2cfa122362b2]: Textual amendment: Words in [s. 19(6)(b)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/6/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/4/a/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3ced6d53334acaf1533c2cfa122362b2]: Textual amendment: Words in [s. 19(6)(b)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/6/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/4/a/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-6639ec905bb59dc107b576bf09b8ce54]: Textual amendment: Words in [s. 19(6)(c)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/6/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/4/a/ii), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6639ec905bb59dc107b576bf09b8ce54]: Textual amendment: Words in [s. 19(6)(c)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/6/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/4/a/ii), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9d50bda95ccb77617c468fa7021149ee]: Textual amendment: [S. 19(7A)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/7A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(4)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/4/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9d50bda95ccb77617c468fa7021149ee]: Textual amendment: [S. 19(7A)](https://www.legislation.gov.uk/ukpga/2021/3/section/19/7A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(4)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/4/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-7f51c3ac1940665b6d5f050134596d00]: Commencement: S. 21 in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-7f51c3ac1940665b6d5f050134596d00]: Commencement: S. 21 in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-9fad5804e85e980cab776bc6cf66efd9]: Textual amendment: [S. 21(1A)](https://www.legislation.gov.uk/ukpga/2021/3/section/21/1A) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/3)
+[^c-9fad5804e85e980cab776bc6cf66efd9]: Textual amendment: [S. 21(1A)](https://www.legislation.gov.uk/ukpga/2021/3/section/21/1A) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/3)
 
-[^key-e0165180624c7b0dbdbbc7ec172f0f13]: Textual amendment: [S. 21(1A)(d)](https://www.legislation.gov.uk/ukpga/2021/3/section/21/1A/d) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/221/regulation/6)
+[^c-e0165180624c7b0dbdbbc7ec172f0f13]: Textual amendment: [S. 21(1A)(d)](https://www.legislation.gov.uk/ukpga/2021/3/section/21/1A/d) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/221/regulation/6)
 
-[^key-d0bc8f412adacbe101c37bd0d28cee09]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/3/section/22) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-d0bc8f412adacbe101c37bd0d28cee09]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/3/section/22) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-364f4058138a2247756a5bed824dbb29]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/3/section/23) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-364f4058138a2247756a5bed824dbb29]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/3/section/23) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-1966fb875cb16a1b1afa6814d876ea61]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/3/section/24) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-1966fb875cb16a1b1afa6814d876ea61]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/3/section/24) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-cd66ea55dc6ed3718ff6689c3afb43e6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/3/section/25) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-cd66ea55dc6ed3718ff6689c3afb43e6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/3/section/25) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-4c41d37043c00afe637c1316c8b7a58b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/3/section/26) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-4c41d37043c00afe637c1316c8b7a58b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/3/section/26) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-773623a40ae51b62217bbb46c36701fc]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/3/section/27) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-773623a40ae51b62217bbb46c36701fc]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/3/section/27) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-206ead142903f1ff47534d71e5e6cbcc]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/3/section/28) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-206ead142903f1ff47534d71e5e6cbcc]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/3/section/28) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-87189bdbb4dd78392d39533a6750cba4]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/3/section/29) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-87189bdbb4dd78392d39533a6750cba4]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/3/section/29) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-fa2b27a0b5ccdd80fcc6e72e9fd702c5]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/3/section/30) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-fa2b27a0b5ccdd80fcc6e72e9fd702c5]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/3/section/30) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-acd8ca45234112f7239eef3bbe817ba4]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/3/section/32) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-acd8ca45234112f7239eef3bbe817ba4]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/3/section/32) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-3d19b6fcb47c939150f0fc916f340401]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2021/3/section/33) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-3d19b6fcb47c939150f0fc916f340401]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2021/3/section/33) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-137cbf28e31ecd472bfb1e9d9e470d71]: Commencement: S. 34 in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-137cbf28e31ecd472bfb1e9d9e470d71]: Commencement: S. 34 in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-bec2110c253fa67f56c2c2958f5b78d5]: Textual amendment: Words in s. 34(1)(a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(4)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/4)
+[^c-bec2110c253fa67f56c2c2958f5b78d5]: Textual amendment: Words in s. 34(1)(a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(4)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/4)
 
-[^key-b1954b6903c156bf52ef4b3c25988e98]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/3/section/35) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-b1954b6903c156bf52ef4b3c25988e98]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/3/section/35) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-1f1a89f4830ca91601a51525b52a1b81]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2021/3/section/36) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-1f1a89f4830ca91601a51525b52a1b81]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2021/3/section/36) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-14a4ee05b1d5b6ba16e2f7370e27e2ff]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/3/section/37) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-14a4ee05b1d5b6ba16e2f7370e27e2ff]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/3/section/37) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-df944806682f37e9b3ab0871d8de6669]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/3/section/38) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
+[^c-df944806682f37e9b3ab0871d8de6669]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/3/section/38) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/a)
 
-[^key-5582d1d8937d6cb0fd2951400e10b562]: Commencement: S. 39 in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/b)
+[^c-5582d1d8937d6cb0fd2951400e10b562]: Commencement: S. 39 in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/b)
 
-[^key-3c019534876cf636600af08074bb686a]: Textual amendment: Word in s. 39(10)(a) omitted (27.7.2021) by virtue of [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(5)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/5/a)
+[^c-3c019534876cf636600af08074bb686a]: Textual amendment: Word in s. 39(10)(a) omitted (27.7.2021) by virtue of [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(5)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/5/a)
 
-[^key-b3dcbfa485ba06a64adcccf2dfc15585]: Textual amendment: S. 39(10)(c) and word inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(5)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/5/b)
+[^c-b3dcbfa485ba06a64adcccf2dfc15585]: Textual amendment: S. 39(10)(c) and word inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(5)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/5/b)
 
-[^key-59cc094c979a8fd2d78da5c8455b0a65]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/3/section/40) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/b)
+[^c-59cc094c979a8fd2d78da5c8455b0a65]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/3/section/40) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/b)
 
-[^key-f3f9d0375bb514438b6779bf779cb369]: Commencement: [S. 41(1)-(8)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/1) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/610/regulation/3))
+[^c-f3f9d0375bb514438b6779bf779cb369]: Commencement: [S. 41(1)-(8)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/1) in force at 26.5.2021 by [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/610/regulation/3))
 
-[^key-d459595a3ae02cf9b58c87f4fd1dd150]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/42/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(6)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/6/a)
+[^c-d459595a3ae02cf9b58c87f4fd1dd150]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/42/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(6)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/6/a)
 
-[^key-637b4dadf9b8754014f65665d6156cad]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/42/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/221/regulation/7)
+[^c-637b4dadf9b8754014f65665d6156cad]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/42/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/221/regulation/7)
 
-[^key-ea54efd0f8ec5c3933e0330138fa8f94]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/42/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(6)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/6/b)
+[^c-ea54efd0f8ec5c3933e0330138fa8f94]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2021/3/section/42/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(6)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/6/b)
 
-[^key-9f51cf0473ced3b48d32272aa82bb1a8]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9f51cf0473ced3b48d32272aa82bb1a8]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-796ebf58025096ae6df01c21892d6a8c]: Textual amendment: [S. 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-796ebf58025096ae6df01c21892d6a8c]: Textual amendment: [S. 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-bd1a4da3fa024c42585c1f23804fe41c]: Textual amendment: Words in [s. 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(4)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-bd1a4da3fa024c42585c1f23804fe41c]: Textual amendment: Words in [s. 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 21(4)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/21/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-df450888139506285232161c8d5702bc]: Textual amendment: Word in s. 44 inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/6), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-df450888139506285232161c8d5702bc]: Textual amendment: Word in s. 44 inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/6), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-82655a6d2f1bde4e65368c4933618a4c]: Textual amendment: [S. 45(1A)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/1A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(7)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/7/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-82655a6d2f1bde4e65368c4933618a4c]: Textual amendment: [S. 45(1A)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/1A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(7)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/7/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9589fbbcf90852e0f9883f4472e52440]: Textual amendment: [S. 45(6)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/6/a)[(aa)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/6/aa) substituted for [s. 45(6)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/6/a) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(7)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/7/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-9589fbbcf90852e0f9883f4472e52440]: Textual amendment: [S. 45(6)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/6/a)[(aa)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/6/aa) substituted for [s. 45(6)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/45/6/a) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(7)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/7/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-19fa09f74b963f3848fa6dbb0e812473]: Textual amendment: Word in [s. 46(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-19fa09f74b963f3848fa6dbb0e812473]: Textual amendment: Word in [s. 46(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-caeef36e0132834af2cad38911630d55]: Textual amendment: Word in [s. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/3/b) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-caeef36e0132834af2cad38911630d55]: Textual amendment: Word in [s. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/3/b) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-544ae618f3ca562b66b197fa3d646ba3]: Textual amendment: Word in [s. 46(4)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/4/a) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-544ae618f3ca562b66b197fa3d646ba3]: Textual amendment: Word in [s. 46(4)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/4/a) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-ff8e4845691133573b2033365762e2f4]: Textual amendment: Word in [s. 46(5)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/5) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ff8e4845691133573b2033365762e2f4]: Textual amendment: Word in [s. 46(5)](https://www.legislation.gov.uk/ukpga/2021/3/section/46/5) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(8)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/8/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-f80952d984eeaebf4a6972ce5d97d7be]: Textual amendment: Word in s. 47(2) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(9)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/9), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f80952d984eeaebf4a6972ce5d97d7be]: Textual amendment: Word in s. 47(2) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(9)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/9), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9cd27596a503c3191dbd886d1dc2ed15]: Textual amendment: Word in Sch. 2 para. 1(1)(a) omitted (27.7.2021) by virtue of [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(a)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/a/i)
+[^c-9cd27596a503c3191dbd886d1dc2ed15]: Textual amendment: Word in Sch. 2 para. 1(1)(a) omitted (27.7.2021) by virtue of [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(a)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/a/i)
 
-[^key-ce27e16dffebb783bfb961e0bcd24b6b]: Textual amendment: Sch. 2 para. 1(1)(c) and word inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/a/ii)
+[^c-ce27e16dffebb783bfb961e0bcd24b6b]: Textual amendment: Sch. 2 para. 1(1)(c) and word inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/a/ii)
 
-[^key-fec86dc04f5aa31a351c135493d0c412]: Textual amendment: Words in Sch. 2 para. 4(1)(a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(b)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/b/i)
+[^c-fec86dc04f5aa31a351c135493d0c412]: Textual amendment: Words in Sch. 2 para. 4(1)(a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(b)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/b/i)
 
-[^key-6252b318cbe9beb6500924bd15ef6c24]: Textual amendment: Words in [Sch. 2 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/4/1/b) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/b/ii)
+[^c-6252b318cbe9beb6500924bd15ef6c24]: Textual amendment: Words in [Sch. 2 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/4/1/b) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/b/ii)
 
-[^key-dc15a306a2a00a1f46e206f6b7995342]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/4/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/b/iii)
+[^c-dc15a306a2a00a1f46e206f6b7995342]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/4/2) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/b/iii)
 
-[^key-9a4eb50c271dda694784fe33ed74541f]: Textual amendment: Words in Sch. 2 para. 5(1)(a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(c)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/c/i)
+[^c-9a4eb50c271dda694784fe33ed74541f]: Textual amendment: Words in Sch. 2 para. 5(1)(a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(c)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/c/i)
 
-[^key-0f5d46a3cd55b3c614b524d546363b10]: Textual amendment: Words in [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/5/2/a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/c/ii)
+[^c-0f5d46a3cd55b3c614b524d546363b10]: Textual amendment: Words in [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/5/2/a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/c/ii)
 
-[^key-8e8edc8ff2d724e4a3bbe973d70358a4]: Textual amendment: Words in [Sch. 2 para. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/13/1/a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(d)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/d)
+[^c-8e8edc8ff2d724e4a3bbe973d70358a4]: Textual amendment: Words in [Sch. 2 para. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2021/3/schedule/2/paragraph/13/1/a) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [28(7)(d)](https://www.legislation.gov.uk/uksi/2021/905/regulation/28/7/d)

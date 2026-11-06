@@ -26,7 +26,7 @@ Regulation 4
 
 ### Part I — Additives
 
-**1.**[^key-e3b4f10bb11c49a4df3076476c7fb4fd] In relation to additives not excluded from application of the Additives Directive by Article 22, the following particulars shall be contained in the statutory statement (where an authorised additive is sold or otherwise put into circulation by any person)—
+**1.**[^c-e3b4f10bb11c49a4df3076476c7fb4fd] In relation to additives not excluded from application of the Additives Directive by Article 22, the following particulars shall be contained in the statutory statement (where an authorised additive is sold or otherwise put into circulation by any person)—
 
 - (a) in the case of any additive permitted to be contained in material pursuant to paragraph 5(1) of, or referred to in any of Parts I to VIII of, the Table to Schedule 3 or which is otherwise authorised (not being an enzyme, micro-organism, zootechnical additive, an authorised intermediate product or an authorised medicated premix)—
   - (i) the name of the additive;
@@ -73,7 +73,7 @@ Regulation 4
   - (xiii) either the net weight or the net volume, in the case of any liquid micro-organism; and
   - (xiv) an indication of any significant characteristics of the micro-organism arising during manufacture, specified in the authorisation concerned.
 
-**2.**[^key-2abc50b7c8ee2695e2f540d1db86e285] In addition to the information required under paragraph 1 in relation to any additive, the statutory statement may also give—
+**2.**[^c-2abc50b7c8ee2695e2f540d1db86e285] In addition to the information required under paragraph 1 in relation to any additive, the statutory statement may also give—
 
 - (a) where the additive is permitted to be contained in material pursuant to paragraph 5(1) of, or referred to in any of Parts I to VIII of the Table to, Schedule 3, or otherwise authorised (and is not a zootechnical additive, an authorised intermediate product or an authorised medicated premix)—
   - (i) the trade name of the additive;
@@ -84,9 +84,9 @@ Regulation 4
 
 ### Part II — Premixtures
 
-**1.**[^key-8f91be8d6abe451027efaa4edbc8b492] This Part of this Schedule applies to premixtures containing only such additives as are of any type regulated by Part I of this Schedule.
+**1.**[^c-8f91be8d6abe451027efaa4edbc8b492] This Part of this Schedule applies to premixtures containing only such additives as are of any type regulated by Part I of this Schedule.
 
-**2.**[^key-828edc860a775428a909fbfd026c2e58] In relation to premixtures not excluded from application of the Additives Directive by Article 22, the following particulars shall be contained in the statutory statement—
+**2.**[^c-828edc860a775428a909fbfd026c2e58] In relation to premixtures not excluded from application of the Additives Directive by Article 22, the following particulars shall be contained in the statutory statement—
 
 - (a) in the case of any premixture—
   - (i) the description “premixture”;
@@ -132,28 +132,28 @@ Regulation 4
 
   - (iii) in respect of which the amount which is present in the premixture can be determined by using one of the methods of analysis specified in Annex I to Part II of Schedule 2 to the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^f00054] or by some other valid scientific method the name of the additive and the active substance level.
 
-**3.**[^key-eeea20acdb32ee0af8a290fadab43547] In relation to an additive permitted to be contained in material pursuant to paragraph 5(1) of, or referred to in any of Parts I to VIII of the Table to, Schedule 3, or which is otherwise authorised, in a premixture, in addition to the information required under paragraph 2, the statutory statement may give—
+**3.**[^c-eeea20acdb32ee0af8a290fadab43547] In relation to an additive permitted to be contained in material pursuant to paragraph 5(1) of, or referred to in any of Parts I to VIII of the Table to, Schedule 3, or which is otherwise authorised, in a premixture, in addition to the information required under paragraph 2, the statutory statement may give—
 
 - (a) the trade name of the additive;
 - (b) in the case of any additive not being an enzyme or a micro-organism, its EC registration number;
 - (c) any other information, provided that it is clearly separated from the particulars referred to in paragraph 2, and in the foregoing provisions of this paragraph.
 
-**4.**[^key-112ff6de16d563b4b6d7d95de3153496] In the case of a premixture containing more than one vitamin (other than vitamin E), provitamin or substance having a similar effect, the requirement in paragraph 2(*d*)(iii) shall apply only to whichever of those additives has the shortest such period.
+**4.**[^c-112ff6de16d563b4b6d7d95de3153496] In the case of a premixture containing more than one vitamin (other than vitamin E), provitamin or substance having a similar effect, the requirement in paragraph 2(*d*)(iii) shall apply only to whichever of those additives has the shortest such period.
 
 ## Annotations
 
-[^key-e3b4f10bb11c49a4df3076476c7fb4fd]: Commencement: Sch. 5 Pt. I para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-e3b4f10bb11c49a4df3076476c7fb4fd]: Commencement: Sch. 5 Pt. I para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00053]: Footnote: Units of activity expressed as μmole of product released per minute per gram of enzymatic preparation
 
-[^key-2abc50b7c8ee2695e2f540d1db86e285]: Commencement: Sch. 5 Pt. I para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-2abc50b7c8ee2695e2f540d1db86e285]: Commencement: Sch. 5 Pt. I para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-8f91be8d6abe451027efaa4edbc8b492]: Commencement: Sch. 5 Pt. II para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-8f91be8d6abe451027efaa4edbc8b492]: Commencement: Sch. 5 Pt. II para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-828edc860a775428a909fbfd026c2e58]: Commencement: Sch. 5 Pt. II para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-828edc860a775428a909fbfd026c2e58]: Commencement: Sch. 5 Pt. II para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00054]: Footnote: [S.R. 1999 No. 296](https://www.legislation.gov.uk/nisr/1999/296), to which there is an amendment not relevant to these Regulations
 
-[^key-eeea20acdb32ee0af8a290fadab43547]: Commencement: Sch. 5 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-eeea20acdb32ee0af8a290fadab43547]: Commencement: Sch. 5 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-112ff6de16d563b4b6d7d95de3153496]: Commencement: Sch. 5 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-112ff6de16d563b4b6d7d95de3153496]: Commencement: Sch. 5 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

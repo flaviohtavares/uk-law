@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Definitions for purposes of Part 7[^key-b0dd0605bb8a8bd382aa57c93a63c34b]
+## 89. Definitions for purposes of Part 7[^c-b0dd0605bb8a8bd382aa57c93a63c34b]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0dd0605bb8a8bd382aa57c93a63c34b]: Commencement: Art. 89 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b0dd0605bb8a8bd382aa57c93a63c34b]: Commencement: Art. 89 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

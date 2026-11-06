@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Duty to provide water and sewerage services[^key-452064651378f0574299145d4e803a22]
+## 29. Duty to provide water and sewerage services[^c-452064651378f0574299145d4e803a22]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-452064651378f0574299145d4e803a22]: Commencement: S. 29 in force at 6.3.2006 by [S.S.I. 2006/55](https://www.legislation.gov.uk/ssi/2006/55), [art. 2(a)](https://www.legislation.gov.uk/ssi/2006/55/article/2/a)
+[^c-452064651378f0574299145d4e803a22]: Commencement: S. 29 in force at 6.3.2006 by [S.S.I. 2006/55](https://www.legislation.gov.uk/ssi/2006/55), [art. 2(a)](https://www.legislation.gov.uk/ssi/2006/55/article/2/a)

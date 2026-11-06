@@ -39,7 +39,7 @@ the comptroller has no duty to notify him.
 
 (7) But paragraphs (5) and (6) do not apply to an opposition under any of the provisions mentioned in Part 3 of Schedule 3.
 
-(8) In such oppositions, any counter-statement must be filed in duplicate before the end of the period of four weeks beginning immediately after[^key-910714b00c4853e904794a316a724aba] the date of the relevant notice.
+(8) In such oppositions, any counter-statement must be filed in duplicate before the end of the period of four weeks beginning immediately after[^c-910714b00c4853e904794a316a724aba] the date of the relevant notice.
 
 (9) Where—
 
@@ -52,4 +52,4 @@ the comptroller shall treat him as supporting the claimant's case.
 
 ## Annotations
 
-[^key-910714b00c4853e904794a316a724aba]: Textual amendment: Words in [rule 77(8)](https://www.legislation.gov.uk/uksi/2007/3291/rule/77/8) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-910714b00c4853e904794a316a724aba]: Textual amendment: Words in [rule 77(8)](https://www.legislation.gov.uk/uksi/2007/3291/rule/77/8) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

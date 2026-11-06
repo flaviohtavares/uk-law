@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Compensation[^key-21c6ca64d606fbf1cc7d1bfcbeaed860]
+## 268. Compensation[^c-21c6ca64d606fbf1cc7d1bfcbeaed860]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21c6ca64d606fbf1cc7d1bfcbeaed860]: Commencement: Reg. 268 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-21c6ca64d606fbf1cc7d1bfcbeaed860]: Commencement: Reg. 268 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. New schools wishing to federate[^key-7f28e0e34975b3051dc85ef98519529a]
+## 8. New schools wishing to federate[^c-7f28e0e34975b3051dc85ef98519529a]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f28e0e34975b3051dc85ef98519529a]: Commencement: Reg. 8 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-7f28e0e34975b3051dc85ef98519529a]: Commencement: Reg. 8 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

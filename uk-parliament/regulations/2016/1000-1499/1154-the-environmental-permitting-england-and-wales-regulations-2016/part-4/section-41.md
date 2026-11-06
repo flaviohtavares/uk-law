@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Offences by bodies corporate[^key-88ce73d6507947f361c6f0b6c0fe15bc]
+## 41. Offences by bodies corporate[^c-88ce73d6507947f361c6f0b6c0fe15bc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 ## Annotations
 
-[^key-88ce73d6507947f361c6f0b6c0fe15bc]: Modification: [Reg. 41](https://www.legislation.gov.uk/uksi/2016/1154/regulation/41) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-88ce73d6507947f361c6f0b6c0fe15bc]: Modification: [Reg. 41](https://www.legislation.gov.uk/uksi/2016/1154/regulation/41) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

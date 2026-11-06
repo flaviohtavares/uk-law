@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Authority to survey and investigate the land onshore[^key-372303a520d99b1d136d28999bdfb0a6]
+## 17. Authority to survey and investigate the land onshore[^c-372303a520d99b1d136d28999bdfb0a6]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-372303a520d99b1d136d28999bdfb0a6]: Commencement: Art. 17 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-372303a520d99b1d136d28999bdfb0a6]: Commencement: Art. 17 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

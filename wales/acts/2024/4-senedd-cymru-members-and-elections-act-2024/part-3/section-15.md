@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Quorum for meetings of the Commission[^key-7e8046840e0c31bf65afd68b65918d77]
+## 15. Quorum for meetings of the Commission[^c-7e8046840e0c31bf65afd68b65918d77]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 6 of the 2013 Act (proceedings of the Commission), after subsection (
 
 ## Annotations
 
-[^key-7e8046840e0c31bf65afd68b65918d77]: Commencement: S. 15 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-7e8046840e0c31bf65afd68b65918d77]: Commencement: S. 15 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

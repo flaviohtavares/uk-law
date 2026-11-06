@@ -24,15 +24,15 @@ Section 86
 
 ### Consent to particular processing
 
-**1.**[^key-7a5a1fef2d738d7c657db0fb599f1871] The data subject has given consent to the processing.
+**1.**[^c-7a5a1fef2d738d7c657db0fb599f1871] The data subject has given consent to the processing.
 
 ### Right or obligation relating to employment
 
-**2.**[^key-742f3892a7615fbe038b411efd2afeab] The processing is necessary for the purposes of exercising or performing any right or obligation which is conferred or imposed by an enactment or rule of law on the controller in connection with employment.
+**2.**[^c-742f3892a7615fbe038b411efd2afeab] The processing is necessary for the purposes of exercising or performing any right or obligation which is conferred or imposed by an enactment or rule of law on the controller in connection with employment.
 
 ### Vital interests of a person
 
-**3.**[^key-83a763dd81dbb8571ef5ab019fcdb125] The processing is necessary—
+**3.**[^c-83a763dd81dbb8571ef5ab019fcdb125] The processing is necessary—
 
 - (a) in order to protect the vital interests of the data subject or of another person, in a case where—
   - (i) consent cannot be given by or on behalf of the data subject, or
@@ -41,7 +41,7 @@ Section 86
 
 ### Safeguarding of children and of individuals at risk
 
-**4.**[^key-431929efc48cfd1c7e9f739cdd057f77] (1) This condition is met if—
+**4.**[^c-431929efc48cfd1c7e9f739cdd057f77] (1) This condition is met if—
 
 - (a) the processing is necessary for the purposes of—
   - (i) protecting an individual from neglect or physical, mental or emotional harm, or
@@ -68,11 +68,11 @@ Section 86
 
 ### Data already published by data subject
 
-**5.**[^key-0d717e014e2ac42d02e0b61cef256e2c] The information contained in the personal data has been made public as a result of steps deliberately taken by the data subject.
+**5.**[^c-0d717e014e2ac42d02e0b61cef256e2c] The information contained in the personal data has been made public as a result of steps deliberately taken by the data subject.
 
 ### Legal proceedings etc
 
-**6.**[^key-28d4daa78be4e5d33285e5535b47873d] The processing—
+**6.**[^c-28d4daa78be4e5d33285e5535b47873d] The processing—
 
 - (a) is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings),
 - (b) is necessary for the purpose of obtaining legal advice, or
@@ -80,7 +80,7 @@ Section 86
 
 ### Administration of justice, parliamentary, statutory etc and government purposes
 
-**7.**[^key-440e3de22d9a2fac78e668ed17f56a46] The processing is necessary—
+**7.**[^c-440e3de22d9a2fac78e668ed17f56a46] The processing is necessary—
 
 - (a) for the administration of justice,
 - (b) for the exercise of any functions of either House of Parliament,
@@ -89,7 +89,7 @@ Section 86
 
 ### Medical purposes
 
-**8.**[^key-551a5acb36329559fb8567a347c30867] (1) The processing is necessary for medical purposes and is undertaken by—
+**8.**[^c-551a5acb36329559fb8567a347c30867] (1) The processing is necessary for medical purposes and is undertaken by—
 
 - (a) a health professional, or
 - (b) a person who in the circumstances owes a duty of confidentiality which is equivalent to that which would arise if that person were a health professional.
@@ -98,7 +98,7 @@ Section 86
 
 ### Equality
 
-**9.**[^key-85d06a39ca0878ef9dbbbb42d71fbd78] (1) The processing—
+**9.**[^c-85d06a39ca0878ef9dbbbb42d71fbd78] (1) The processing—
 
 - (a) is of sensitive personal data consisting of information as to racial or ethnic origin,
 - (b) is necessary for the purpose of identifying or keeping under review the existence or absence of equality of opportunity or treatment between persons of different racial or ethnic origins, with a view to enabling such equality to be promoted or maintained, and
@@ -108,20 +108,20 @@ Section 86
 
 ## Annotations
 
-[^key-7a5a1fef2d738d7c657db0fb599f1871]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/1) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-7a5a1fef2d738d7c657db0fb599f1871]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/1) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-742f3892a7615fbe038b411efd2afeab]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/2) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-742f3892a7615fbe038b411efd2afeab]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/2) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-83a763dd81dbb8571ef5ab019fcdb125]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/3) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-83a763dd81dbb8571ef5ab019fcdb125]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/3) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-431929efc48cfd1c7e9f739cdd057f77]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/4) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-431929efc48cfd1c7e9f739cdd057f77]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/4) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-0d717e014e2ac42d02e0b61cef256e2c]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/5) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-0d717e014e2ac42d02e0b61cef256e2c]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/5) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-28d4daa78be4e5d33285e5535b47873d]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/6) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-28d4daa78be4e5d33285e5535b47873d]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/6) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-440e3de22d9a2fac78e668ed17f56a46]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/7) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-440e3de22d9a2fac78e668ed17f56a46]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/7) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-551a5acb36329559fb8567a347c30867]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/8) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-551a5acb36329559fb8567a347c30867]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/8) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
 
-[^key-85d06a39ca0878ef9dbbbb42d71fbd78]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/9) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-85d06a39ca0878ef9dbbbb42d71fbd78]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/10/paragraph/9) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

@@ -30,8 +30,8 @@ summary: ''
 - (a) on the product packaging; or
 - (b) in a document accompanying the product.
 
-(3) The information specified in paragraph (1) shall be in a language which can be easily understood by end-users and the competent national authority in the relevant state[^key-4a4dcb44cf84616db5cf3fb0e82ec6df] in which it is to be made available to such end-users.
+(3) The information specified in paragraph (1) shall be in a language which can be easily understood by end-users and the competent national authority in the relevant state[^c-4a4dcb44cf84616db5cf3fb0e82ec6df] in which it is to be made available to such end-users.
 
 ## Annotations
 
-[^key-4a4dcb44cf84616db5cf3fb0e82ec6df]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2017/90/regulation/13/3) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2023/861/regulation/4/3)
+[^c-4a4dcb44cf84616db5cf3fb0e82ec6df]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2017/90/regulation/13/3) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2023/861/regulation/4/3)

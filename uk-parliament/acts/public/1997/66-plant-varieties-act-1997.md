@@ -185,9 +185,9 @@ Plant breeders’ rights shall not extend to any act done—
 
 (2) Subsection (1) above only applies if the material is of a variety which is of a species or group specified for the purposes of this subsection by order made by the Ministers.
 
-(3) If a farmer’s use of material is excepted from plant breeders’ rights by subsection (1) above, he shall, at the time of the use, become liable (subject to any contractual agreement entered into between the farmer and the holder of the plant breeders' rights)[^key-c9dc0c9d16acc52702afc55a57058136] to pay the holder of the rights equitable remuneration, which shall be sensibly lower than the amount charged for the production of propagating material of the same variety in the same area with the holder’s authority.
+(3) If a farmer’s use of material is excepted from plant breeders’ rights by subsection (1) above, he shall, at the time of the use, become liable (subject to any contractual agreement entered into between the farmer and the holder of the plant breeders' rights)[^c-c9dc0c9d16acc52702afc55a57058136] to pay the holder of the rights equitable remuneration, which shall be sensibly lower than the amount charged for the production of propagating material of the same variety in the same area with the holder’s authority.
 
-(4) Subsection (3) above shall not apply to a farmer who is a small farmer for the purposes of this section[^key-a20470e21039cafeb68975b5d6d341fb].
+(4) Subsection (3) above shall not apply to a farmer who is a small farmer for the purposes of this section[^c-a20470e21039cafeb68975b5d6d341fb].
 
 (5)[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc] Subsection (3) above shall not apply if— *(affected by repeal, see note)*[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc]
 
@@ -210,14 +210,14 @@ Plant breeders’ rights shall not extend to any act done—
 
 (9) Subsections (3) and (4) of section 7 above shall apply for the purposes of subsection (1)(b) above as they apply for the purposes of subsection (2) of that section.
 
-(10)[^key-4bc4b49dd5dc66c07eb359f2ecc78bc2] In this section, “**small farmer**” means—
+(10)[^c-4bc4b49dd5dc66c07eb359f2ecc78bc2] In this section, “**small farmer**” means—
 
 - (a) in a case where the material referred to in subsection (3) is used for propagating potatoes, a farmer who grows potatoes in an area no bigger than that which would be needed to produce 185 tonnes of potatoes per harvest, and
-- (b) in a case where the material referred to in subsection (3) is used for propagating any other varieties[^key-a09769c43233bce2a991adc9e2e8ddb5] specified for the purpose of subsection (1), a farmer who grows those varieties[^key-acb563d4d179032df0a34abf5682e87a] in an area no bigger than that which would be needed to produce 92 tonnes of cereals per harvest.
+- (b) in a case where the material referred to in subsection (3) is used for propagating any other varieties[^c-a09769c43233bce2a991adc9e2e8ddb5] specified for the purpose of subsection (1), a farmer who grows those varieties[^c-acb563d4d179032df0a34abf5682e87a] in an area no bigger than that which would be needed to produce 92 tonnes of cereals per harvest.
 
 (11) In this section, references to a farmer’s own holding are to any land which he actually exploits for plant growing, whether as his property or otherwise managed under his own responsibility and on his own account.
 
-(12)[^key-1bd81780118650854f49beb91fc033ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-1bd81780118650854f49beb91fc033ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 10. Exhaustion of rights.
 
@@ -257,7 +257,7 @@ as may be so specified.
 
 (3) The period for which a grant of plant breeders’ rights has effect shall not be affected by the fact it becomes impossible to invoke the rights—
 
-- (a)[^key-ef464c910a7d257cc327f148efcde0df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ef464c910a7d257cc327f148efcde0df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) because of suspension under section 23 below.
 
 #### 12. Transmission.
@@ -416,7 +416,7 @@ the licence shall not have effect until a period of that length has passed since
 
 (4) For the purposes of subsection (1) above, the variety in respect of which plant breeders’ rights are granted is the protected variety.
 
-#### 19. Duty to use registered name.[^key-04c1aaf5d44f617ca1995234ae007df9]
+#### 19. Duty to use registered name.[^c-04c1aaf5d44f617ca1995234ae007df9]
 
 (1) Where a name is registered under section 18 above in respect of a variety, a person may not use any other name in selling, offering for sale or otherwise marketing propagating material of the variety.
 
@@ -431,7 +431,7 @@ the licence shall not have effect until a period of that length has passed since
 
 (5) In any proceedings for an offence under subsection (4) above, it shall be a defence to prove that the accused took all reasonable precautions against committing the offence and had not at the time of the offence any reason to suspect that he was committing an offence.
 
-#### 20. Improper use of registered name.[^key-b25c6759d68f2bd814a1f5030b7bdd08]
+#### 20. Improper use of registered name.[^c-b25c6759d68f2bd814a1f5030b7bdd08]
 
 (1) If any person uses the registered name of a protected variety in offering for sale, selling or otherwise marketing material of a different variety within the same class, the use of the name shall be a wrong actionable in proceedings by the holder of the rights.
 
@@ -619,7 +619,7 @@ The Controller may use the services of persons who are not appointed as officers
 
 (1) In this Part of this Act—
 
-- [^key-c108c2a88fc0662917c2d1f695ab610d]...
+- [^c-c108c2a88fc0662917c2d1f695ab610d]...
 - “**gazette**” means the gazette published under section 34 of the [^c877804]Plant Varieties and Seeds Act 1964;
 - “**name**” includes any designation;
 - “**protected variety**”, in relation to any plant breeders’ rights, means the variety which was the basis of the application for the grant of the rights;
@@ -896,7 +896,7 @@ which does not involve identifying the variety from which the material is produc
 
 (2) The first condition is that, in the 12 months immediately preceding the application under this Part of this Act, the applicant has duly made a parallel application under the law of—
 
-- (a) the European Union[^key-fcd28e20dde785e150ccf5c3839e075a],
+- (a) the European Union[^c-fcd28e20dde785e150ccf5c3839e075a],
 - (b) any other intergovernmental organisation, or any State, which is, and was at the time of the application, a member of the Union as defined by Article 1(xi) of the Convention, or
 - (c) any country or territory which is, and was at the time of the application, designated for the purposes of this provision by order made by the Ministers.
 
@@ -928,7 +928,7 @@ which does not involve identifying the variety from which the material is produc
 
 sub-paragraph (1) above shall have effect with the substitution for “the relevant period” of “ such period as the Controller may specify ”.
 
-## SCHEDULE 3 — The Plant Varieties and Seeds Tribunal[^c877820][^key-b79c3289db9e25043cf0a654be1ac0cf]
+## SCHEDULE 3 — The Plant Varieties and Seeds Tribunal[^c877820][^c-b79c3289db9e25043cf0a654be1ac0cf]
 
 Section 42.
 
@@ -952,25 +952,25 @@ and references to the Tribunal in this Act or the [^c877821]Plant Varieties and 
 
 (2) A person may only be appointed under this paragraph if he is an advocate or solicitor in Scotland of at least 7 years’ standing.
 
-**4.** (1) The Northern Ireland Judicial Appointments Commission[^key-18ce2e3e77bc13aaa7d8dc1b5aa3806f] shall appoint a person to be chairman of the Tribunal for the purpose of proceedings brought before them in Northern Ireland.
+**4.** (1) The Northern Ireland Judicial Appointments Commission[^c-18ce2e3e77bc13aaa7d8dc1b5aa3806f] shall appoint a person to be chairman of the Tribunal for the purpose of proceedings brought before them in Northern Ireland.
 
-(2) A person may only be appointed under this paragraph if he is a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^key-d70860cd9b839d3859bdc62371926216] of at least 7 years’ standing.
+(2) A person may only be appointed under this paragraph if he is a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^c-d70860cd9b839d3859bdc62371926216] of at least 7 years’ standing.
 
 **5.** (1) Subject to sub-paragraph (2) below, a person’s appointment under paragraph 2, 3 or 4 above shall be for such term as the appointing authority may determine before the person’s appointment.
 
-(1A)[^key-07b6437f98c338ab695280b4df363fb5] For an appointment under paragraph 4 above, the term mentioned in sub-paragraph (1) above is to be determined with the agreement of the Department of Justice *(Extent: N.I.)*[^key-f799d27fd1b812d186dcaa3866063f84].
+(1A)[^c-07b6437f98c338ab695280b4df363fb5] For an appointment under paragraph 4 above, the term mentioned in sub-paragraph (1) above is to be determined with the agreement of the Department of Justice *(Extent: N.I.)*[^c-f799d27fd1b812d186dcaa3866063f84].
 
-(2) No appointment of a person under paragraph 2, 3 or 4 above shall be such as to extend beyond the day on which he attains the age of 75[^key-96432ecc1d1e5d084183e0d417a4489a].
+(2) No appointment of a person under paragraph 2, 3 or 4 above shall be such as to extend beyond the day on which he attains the age of 75[^c-96432ecc1d1e5d084183e0d417a4489a].
 
 (3) A person who ceases to hold office under paragraph 2, 3 or 4 above shall be eligible for re-appointment.
 
 (4) A person may resign his appointment under paragraph 2, 3 or 4 above by notice in writing to the appointing authority.
 
-(5) The appointing authority may revoke a person’s appointment under paragraph 2 or 3[^key-ba6b746616e6c2a93c52fda72e811444] above if satisfied that the person is unfit to continue in office or incapable of discharging his duties.
+(5) The appointing authority may revoke a person’s appointment under paragraph 2 or 3[^c-ba6b746616e6c2a93c52fda72e811444] above if satisfied that the person is unfit to continue in office or incapable of discharging his duties.
 
-(5A)[^key-dbb908bd53c1fdad2d80e492aa26d839] Where the appointing authority is the Lord Chancellor, the power conferred by sub-paragraph (5) may be exercised only with the concurrence of the Lord Chief Justice of England and Wales.
+(5A)[^c-dbb908bd53c1fdad2d80e492aa26d839] Where the appointing authority is the Lord Chancellor, the power conferred by sub-paragraph (5) may be exercised only with the concurrence of the Lord Chief Justice of England and Wales.
 
-(6)[^key-e652b36496f74fb4665a54638e3873bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e652b36496f74fb4665a54638e3873bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) In the case of the temporary absence or inability to act of a person appointed under paragraph 2, 3 or 4 above, the appointing authority may appoint another person to act as deputy for that person.
 
@@ -985,7 +985,7 @@ and references to the Tribunal in this Act or the [^c877821]Plant Varieties and 
 - (a) a panel of persons who have wide general knowledge in the field of agriculture, of horticulture or of forestry, and
 - (b) a panel of persons who have specialised knowledge of particular species or groups of plants or of the seeds industry.
 
-(2) The power to revise the panels drawn up under this paragraph shall include power to terminate a person’s membership of either of them, and shall accordingly to that extent be subject to section 7 of the [^c877824]Tribunals and Inquiries Act 1992(which makes it necessary to obtain the concurrence of the Lord Chancellor and certain judicial office holders to dismissals in certain cases)[^key-3399ce4f4ded666f501f9c95e47349d3].
+(2) The power to revise the panels drawn up under this paragraph shall include power to terminate a person’s membership of either of them, and shall accordingly to that extent be subject to section 7 of the [^c877824]Tribunals and Inquiries Act 1992(which makes it necessary to obtain the concurrence of the Lord Chancellor and certain judicial office holders to dismissals in certain cases)[^c-3399ce4f4ded666f501f9c95e47349d3].
 
 ### Selection from the panels
 
@@ -1017,7 +1017,7 @@ and references to the Tribunal in this Act or the [^c877821]Plant Varieties and 
 - (a) a specified sum in respect of the costs incurred in the proceedings by the second-mentioned party, or
 - (b) the taxed amount of those costs.
 
-(2) In the case of an order under sub-paragraph (1) above relating to proceedings brought in England and Wales, any costs required by the order to be taxed may be taxed in the county court according to such of the scales prescribed by rules of court[^key-a45504ffc1e807d71808ee8b9c0d8680] for proceedings in the county court as may be directed by the order or, if the order gives no direction, by the county court.
+(2) In the case of an order under sub-paragraph (1) above relating to proceedings brought in England and Wales, any costs required by the order to be taxed may be taxed in the county court according to such of the scales prescribed by rules of court[^c-a45504ffc1e807d71808ee8b9c0d8680] for proceedings in the county court as may be directed by the order or, if the order gives no direction, by the county court.
 
 (3) In the case of any order under sub-paragraph (1) above relating to proceedings brought in Northern Ireland, any costs required by the order to be taxed may be taxed by the taxing master of the Supreme Court of Judicature of Northern Ireland according to such of the scales provided for equity suits or proceedings in the county courts under the [^c877825]County Courts (Northern Ireland) Order 1980 as may be directed by the order or, if the order gives no direction, by the taxing master.
 
@@ -1053,7 +1053,7 @@ and references to the Tribunal in this Act or the [^c877821]Plant Varieties and 
 - “**appointing authority**” means—
   - (a) in relation to an appointment under paragraph 2 above, the Lord Chancellor,
   - (b) in relation to an appointment under paragraph 3 above, the Lord President of the Court of Session, and
-  - (c) in relation to an appointment under paragraph 4 above, the Northern Ireland Judicial Appointments Commission[^key-791a6b778b7df1239f37493b2e35ef24]; and
+  - (c) in relation to an appointment under paragraph 4 above, the Northern Ireland Judicial Appointments Commission[^c-791a6b778b7df1239f37493b2e35ef24]; and
 - “**relevant chairman**” means—
   - (a) in relation to proceedings brought before the Tribunal in England and Wales, the person appointed under paragraph 2 above,
   - (b) in relation to proceedings brought before the Tribunal in Scotland, the person appointed under paragraph 3 above, and
@@ -1096,29 +1096,29 @@ Section 52.
 
 [^M_C_bbfbf0a7-8d6a-41d2-fe56-4b6af44141ea]: Modification: Act extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [art. 3](https://www.legislation.gov.uk/uksi/2016/758/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/758/schedule/2) (as amended by [S.I. 2022/1337](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1337/schedule))
 
-[^key-c9dc0c9d16acc52702afc55a57058136]: Textual amendment: Words in s. 9(3) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9dc0c9d16acc52702afc55a57058136]: Textual amendment: Words in s. 9(3) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a20470e21039cafeb68975b5d6d341fb]: Textual amendment: Words in s. 9(4) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a20470e21039cafeb68975b5d6d341fb]: Textual amendment: Words in s. 9(4) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc]: Textual amendment: S. 9(5) ceases to have effect in part (S.) (4.11.2005) by virtue of [Plant Breeders' Rights (Discontinuation of Prior Use Exemption) (Scotland) Order 2005 (S.S.I. 2005/460)](https://www.legislation.gov.uk/ssi/2005/460), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/460/article/1/1), [2](https://www.legislation.gov.uk/ssi/2005/460/article/2); ceases to have effect (E. N.I.) (7.11.2005) by virtue of [Plant Breeders’ Rights (Discontinuation of Prior Use Exemption) Order 2005 (S.I. 2005/2726)](https://www.legislation.gov.uk/uksi/2005/2726), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2726/article/1), [2](https://www.legislation.gov.uk/uksi/2005/2726/article/2); and ceases to have effect (W.) (12.5.2006) by virtue of [Plant Breeders’ Rights (Discontinuation of Prior Use Exemption) (Wales) Order 2006 (S.I. 2006/1261)](https://www.legislation.gov.uk/uksi/2006/1261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1261/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1261/article/2)
 
-[^key-4bc4b49dd5dc66c07eb359f2ecc78bc2]: Textual amendment: S. 9(10) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(c)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4bc4b49dd5dc66c07eb359f2ecc78bc2]: Textual amendment: S. 9(10) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(c)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a09769c43233bce2a991adc9e2e8ddb5]: Textual amendment: Word in s. 9(10)(b) substituted (17.3.2026) by [The Plant Varieties Act (Amendment) Regulations 2026 (S.I. 2026/160)](https://www.legislation.gov.uk/uksi/2026/160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/160/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/160/regulation/2/2/a)
+[^c-a09769c43233bce2a991adc9e2e8ddb5]: Textual amendment: Word in s. 9(10)(b) substituted (17.3.2026) by [The Plant Varieties Act (Amendment) Regulations 2026 (S.I. 2026/160)](https://www.legislation.gov.uk/uksi/2026/160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/160/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/160/regulation/2/2/a)
 
-[^key-acb563d4d179032df0a34abf5682e87a]: Textual amendment: Words in s. 9(10)(b) substituted (17.3.2026) by [The Plant Varieties Act (Amendment) Regulations 2026 (S.I. 2026/160)](https://www.legislation.gov.uk/uksi/2026/160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/160/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/160/regulation/2/2/b)
+[^c-acb563d4d179032df0a34abf5682e87a]: Textual amendment: Words in s. 9(10)(b) substituted (17.3.2026) by [The Plant Varieties Act (Amendment) Regulations 2026 (S.I. 2026/160)](https://www.legislation.gov.uk/uksi/2026/160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/160/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/160/regulation/2/2/b)
 
-[^key-1bd81780118650854f49beb91fc033ff]: Textual amendment: S. 9(12) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(d)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1bd81780118650854f49beb91fc033ff]: Textual amendment: S. 9(12) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(d)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef464c910a7d257cc327f148efcde0df]: Textual amendment: [S. 11(3)(a)](https://www.legislation.gov.uk/ukpga/1997/66/section/11/3/a) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef464c910a7d257cc327f148efcde0df]: Textual amendment: [S. 11(3)(a)](https://www.legislation.gov.uk/ukpga/1997/66/section/11/3/a) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1945910]: Modification: S. 17 extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/17/3)
 
-[^key-04c1aaf5d44f617ca1995234ae007df9]: Modification: S. 19 modified (31.3.2006) by [Plant Breeders' Rights (Naming and Fees) Regulations 2006 (S.I. 2006/648)](https://www.legislation.gov.uk/uksi/2006/648), [regs. 1](https://www.legislation.gov.uk/uksi/2006/648/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/648/regulation/5/3)
+[^c-04c1aaf5d44f617ca1995234ae007df9]: Modification: S. 19 modified (31.3.2006) by [Plant Breeders' Rights (Naming and Fees) Regulations 2006 (S.I. 2006/648)](https://www.legislation.gov.uk/uksi/2006/648), [regs. 1](https://www.legislation.gov.uk/uksi/2006/648/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/648/regulation/5/3)
 
 [^c877801]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-b25c6759d68f2bd814a1f5030b7bdd08]: Modification: S. 20 modified (31.3.2006) by [Plant Breeders' Rights (Naming and Fees) Regulations 2006 (S.I. 2006/648)](https://www.legislation.gov.uk/uksi/2006/648), [regs. 1](https://www.legislation.gov.uk/uksi/2006/648/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/648/regulation/5/3)
+[^c-b25c6759d68f2bd814a1f5030b7bdd08]: Modification: S. 20 modified (31.3.2006) by [Plant Breeders' Rights (Naming and Fees) Regulations 2006 (S.I. 2006/648)](https://www.legislation.gov.uk/uksi/2006/648), [regs. 1](https://www.legislation.gov.uk/uksi/2006/648/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/648/regulation/5/3)
 
 [^c1945920]: Modification: S. 24: power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
 
@@ -1132,7 +1132,7 @@ Section 52.
 
 [^c877803]: Textual amendment: S. 33 repealed (1.3.2000) by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), [art. 33(2)](https://www.legislation.gov.uk/uksi/2000/311/article/33/2)
 
-[^key-c108c2a88fc0662917c2d1f695ab610d]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1997/66/section/38) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c108c2a88fc0662917c2d1f695ab610d]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1997/66/section/38) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c877804]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
@@ -1176,38 +1176,38 @@ Section 52.
 
 [^c877819]: Subordinate legislation: S. 54(3) power fully exercised (8.4.1998): 8.5.1998 appointed day by [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
-[^key-fcd28e20dde785e150ccf5c3839e075a]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-fcd28e20dde785e150ccf5c3839e075a]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c877820]: Modification: Sch. 3 applied (1.12.2001) by [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), [reg. 17(2)](https://www.legislation.gov.uk/uksi/2001/3510/regulation/17/2)
 
-[^key-b79c3289db9e25043cf0a654be1ac0cf]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3) applied (in part) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2020/302/regulation/18/2)
+[^c-b79c3289db9e25043cf0a654be1ac0cf]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3) applied (in part) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2020/302/regulation/18/2)
 
 [^c877821]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
 [^c877822]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-18ce2e3e77bc13aaa7d8dc1b5aa3806f]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-18ce2e3e77bc13aaa7d8dc1b5aa3806f]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-d70860cd9b839d3859bdc62371926216]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-d70860cd9b839d3859bdc62371926216]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-07b6437f98c338ab695280b4df363fb5]: Textual amendment: Sch. 3 para. 5(1A) inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/3)(with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-07b6437f98c338ab695280b4df363fb5]: Textual amendment: Sch. 3 para. 5(1A) inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/3)(with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-f799d27fd1b812d186dcaa3866063f84]: Textual amendment: Words in Sch. 3 para. 5(1A) substituted (N.I.) (12.4.2010) by [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 11](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/11); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
+[^c-f799d27fd1b812d186dcaa3866063f84]: Textual amendment: Words in Sch. 3 para. 5(1A) substituted (N.I.) (12.4.2010) by [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 11](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/11); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
 
-[^key-96432ecc1d1e5d084183e0d417a4489a]: Textual amendment: Word in [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/5/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/29/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-96432ecc1d1e5d084183e0d417a4489a]: Textual amendment: Word in [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/5/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/29/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-ba6b746616e6c2a93c52fda72e811444]: Textual amendment: Words in Sch. 3 para. 5(5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(3)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/3/a); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+[^c-ba6b746616e6c2a93c52fda72e811444]: Textual amendment: Words in Sch. 3 para. 5(5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(3)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/3/a); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
-[^key-dbb908bd53c1fdad2d80e492aa26d839]: Textual amendment: Sch. 3 para. 5(5A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(3)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/3/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+[^c-dbb908bd53c1fdad2d80e492aa26d839]: Textual amendment: Sch. 3 para. 5(5A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(3)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/3/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
-[^key-e652b36496f74fb4665a54638e3873bd]: Textual amendment: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/5/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/29/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-e652b36496f74fb4665a54638e3873bd]: Textual amendment: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/5/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/29/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c877824]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-3399ce4f4ded666f501f9c95e47349d3]: Textual amendment: Words in Sch. 3 para. 7(2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+[^c-3399ce4f4ded666f501f9c95e47349d3]: Textual amendment: Words in Sch. 3 para. 7(2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
-[^key-a45504ffc1e807d71808ee8b9c0d8680]: Textual amendment: Words in [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/11/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 120](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/120); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a45504ffc1e807d71808ee8b9c0d8680]: Textual amendment: Words in [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/11/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 120](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/120); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c877825]: Marginal citation: [S.I. 1980/397 (N.I.3)](https://www.legislation.gov.uk/nisi/1980/397).
 
-[^key-791a6b778b7df1239f37493b2e35ef24]: Textual amendment: Words in Sch. 3 para. 16 substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(4)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/4) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-791a6b778b7df1239f37493b2e35ef24]: Textual amendment: Words in Sch. 3 para. 16 substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(4)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/4) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

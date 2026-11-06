@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. General powers[^key-00af9c84790e413c4bb4170d475636dc]
+## 154. General powers[^c-00af9c84790e413c4bb4170d475636dc]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00af9c84790e413c4bb4170d475636dc]: Commencement: Rule 154 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-00af9c84790e413c4bb4170d475636dc]: Commencement: Rule 154 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

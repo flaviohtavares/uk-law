@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Opting in to this scheme[^key-fdc23f77c3c2002cd74716ec3d255357]
+## 18. Opting in to this scheme[^c-fdc23f77c3c2002cd74716ec3d255357]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdc23f77c3c2002cd74716ec3d255357]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-fdc23f77c3c2002cd74716ec3d255357]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00034]: Footnote: See regulation 19 for when an opt-in has effect.

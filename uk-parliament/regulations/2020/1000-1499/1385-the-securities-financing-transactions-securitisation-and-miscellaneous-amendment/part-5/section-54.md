@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^key-11e5c806ba9d5a694a96ffc51ee48b03][^key-62a64e649b4ff46940eeaa132fed0c55]
+## 54. The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^c-11e5c806ba9d5a694a96ffc51ee48b03][^c-62a64e649b4ff46940eeaa132fed0c55]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-11e5c806ba9d5a694a96ffc51ee48b03] The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^f00035] are amended as follows.
+(1)[^c-11e5c806ba9d5a694a96ffc51ee48b03] The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^f00035] are amended as follows.
 
-(2)[^key-11e5c806ba9d5a694a96ffc51ee48b03] For regulation 1(2) (citation and commencement) substitute—
+(2)[^c-11e5c806ba9d5a694a96ffc51ee48b03] For regulation 1(2) (citation and commencement) substitute—
 
 > (2) Subject to paragraph (3), these Regulations come into force on IP completion day.
 >
@@ -30,14 +30,14 @@ summary: ''
 
 .
 
-(3)[^key-62a64e649b4ff46940eeaa132fed0c55] In regulation 8 (supervision), in paragraph (3), in new regulation 4B(6), for “100” substitute “85”.
+(3)[^c-62a64e649b4ff46940eeaa132fed0c55] In regulation 8 (supervision), in paragraph (3), in new regulation 4B(6), for “100” substitute “85”.
 
-(4)[^key-62a64e649b4ff46940eeaa132fed0c55] In regulation 11 (amendments of Commission Delegated Regulation (EU) No 2015/35)—
+(4)[^c-62a64e649b4ff46940eeaa132fed0c55] In regulation 11 (amendments of Commission Delegated Regulation (EU) No 2015/35)—
 
 - (a) in paragraph (92), in new Article 378A, omit new paragraphs 5 to 9;
 - (b) in paragraph (96), in new Article 380A, omit new paragraphs 4 to 7.
 
-(5)[^key-11e5c806ba9d5a694a96ffc51ee48b03] After regulation 12 (transitional provision in relation to approval of temporary models), insert—
+(5)[^c-11e5c806ba9d5a694a96ffc51ee48b03] After regulation 12 (transitional provision in relation to approval of temporary models), insert—
 
 > **13. Transitional provision in relation to group supervision**
 >
@@ -94,9 +94,9 @@ summary: ''
 
 ## Annotations
 
-[^key-11e5c806ba9d5a694a96ffc51ee48b03]: Commencement: Reg. 54(1)(2)(5) in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-11e5c806ba9d5a694a96ffc51ee48b03]: Commencement: Reg. 54(1)(2)(5) in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
-[^key-62a64e649b4ff46940eeaa132fed0c55]: Commencement: [Reg. 54(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/4) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-62a64e649b4ff46940eeaa132fed0c55]: Commencement: [Reg. 54(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/4) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00035]: Footnote: [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Interest in property to be declared on request[^key-6c28c7402a440e3d9b67ef4640f15a50]
+## 150. Interest in property to be declared on request[^c-6c28c7402a440e3d9b67ef4640f15a50]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.192 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6c28c7402a440e3d9b67ef4640f15a50]: Commencement: Rule 150 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6c28c7402a440e3d9b67ef4640f15a50]: Commencement: Rule 150 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

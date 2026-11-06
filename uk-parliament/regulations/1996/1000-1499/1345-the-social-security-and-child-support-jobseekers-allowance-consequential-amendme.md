@@ -48,7 +48,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 These Regulations may be cited as the Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 and shall come into force on 7th October 1996.
 
-## 2. Amendment of the Child Benefit (General) Regulations 1976[^key-a9166833fc1d2476626a27d007528c75]
+## 2. Amendment of the Child Benefit (General) Regulations 1976[^c-a9166833fc1d2476626a27d007528c75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -259,7 +259,7 @@ In regulation 3 of the Social Security (Airmen’s Benefits) Regulations 1975 [^
 
 In regulation 8(6)(a) of the Social Security (Attendance Allowance) Regulations 1991 (exemption from regulations 6 and 7) [^c1689086] after the words “income support" in each place where they occur there shall be inserted the words “or income-based jobseeker’s allowance".
 
-## 11. Amendment of the Social Security Benefit (Computation of Earnings) Regulations 1978[^key-ced63ef20e7ce91f753c69b28eb5334e]
+## 11. Amendment of the Social Security Benefit (Computation of Earnings) Regulations 1978[^c-ced63ef20e7ce91f753c69b28eb5334e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -419,7 +419,7 @@ In section 36(9) of the National Insurance Act 1965 [^c1689103], as continued in
 
 (8) In paragraph 1 of Schedule 1 [^c1689121] for the words “Unemployment benefit" there shall be substituted the words “A contribution-based jobseeker’s allowance".
 
-## 23. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988[^key-cf345fd08ae2c1d086a1968ecdb0fa62]
+## 23. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988[^c-cf345fd08ae2c1d086a1968ecdb0fa62]
 
 (1) The Social Security (Payments on ccount, Overpayments and Recovery) Regulations 1988 [^c1689122] shall be amended in accordance with the following provisions of this regulation.
 
@@ -606,7 +606,7 @@ These Regulations do not impose a charge on business.
 
 [^c1689055]: Marginal citation: *See* the Social Security Administration Act 1992, section 189(8).
 
-[^key-a9166833fc1d2476626a27d007528c75]: Textual amendment: Reg. 2 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
+[^c-a9166833fc1d2476626a27d007528c75]: Textual amendment: Reg. 2 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
 
 [^c1689060]: Marginal citation: [S.I. 1992/1816](https://www.legislation.gov.uk/uksi/1992/1816).
 
@@ -662,7 +662,7 @@ These Regulations do not impose a charge on business.
 
 [^c1689086]: Marginal citation: [S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740); paragraph (6) of regulation 8 was added by [S.I. 1992/3147](https://www.legislation.gov.uk/uksi/1992/3147); relevant amending instrument is [S.I. 1993/518](https://www.legislation.gov.uk/uksi/1993/518).
 
-[^key-ced63ef20e7ce91f753c69b28eb5334e]: Textual amendment: Reg. 11 revoked (25.11.1996) by [The Social Security Benefit (Computation of Earnings) Regulations 1996 (S.I. 1996/2745)](https://www.legislation.gov.uk/uksi/1996/2745), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2745/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1996/2745/schedule/4)
+[^c-ced63ef20e7ce91f753c69b28eb5334e]: Textual amendment: Reg. 11 revoked (25.11.1996) by [The Social Security Benefit (Computation of Earnings) Regulations 1996 (S.I. 1996/2745)](https://www.legislation.gov.uk/uksi/1996/2745), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2745/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1996/2745/schedule/4)
 
 [^c1689088]: Marginal citation: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343).
 
@@ -732,7 +732,7 @@ These Regulations do not impose a charge on business.
 
 [^c1689121]: Marginal citation: Relevant amending instrument is [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829).
 
-[^key-cf345fd08ae2c1d086a1968ecdb0fa62]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-cf345fd08ae2c1d086a1968ecdb0fa62]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/1996/1345/regulation/23) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1689122]: Marginal citation: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664).
 

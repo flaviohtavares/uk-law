@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. A limited partnership’s registered office: consequential amendments[^key-d125ef7e21083f8ade03502f829fbd9b]
+## 115. A limited partnership’s registered office: consequential amendments[^c-d125ef7e21083f8ade03502f829fbd9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d125ef7e21083f8ade03502f829fbd9b]: Commencement: S. 115 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d125ef7e21083f8ade03502f829fbd9b]: Commencement: S. 115 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

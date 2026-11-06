@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Service of notices[^key-a85948599e720b7b89780cf5827c5e2b]
+## 39. Service of notices[^c-a85948599e720b7b89780cf5827c5e2b]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a85948599e720b7b89780cf5827c5e2b]: Commencement: Art. 39 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-a85948599e720b7b89780cf5827c5e2b]: Commencement: Art. 39 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
 [^f00045]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

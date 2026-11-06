@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Failure to comply with notice[^key-bde506ca1c42251cc832b1c8a999c701]
+## 75. Failure to comply with notice[^c-bde506ca1c42251cc832b1c8a999c701]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bde506ca1c42251cc832b1c8a999c701]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2008/5/section/75) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-bde506ca1c42251cc832b1c8a999c701]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2008/5/section/75) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

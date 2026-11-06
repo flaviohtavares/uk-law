@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Establishing, relocating and disestablishing justice of the peace courts[^key-e97d480d431de224e2f7880bda66d0c2]
+## 127. Establishing, relocating and disestablishing justice of the peace courts[^c-e97d480d431de224e2f7880bda66d0c2]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e97d480d431de224e2f7880bda66d0c2]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2014/18/section/127) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-e97d480d431de224e2f7880bda66d0c2]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2014/18/section/127) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Evidence that goods are domestic goods[^key-caf8a38285f7df90b3b36e28e31a1e08]
+## 106. Evidence that goods are domestic goods[^c-caf8a38285f7df90b3b36e28e31a1e08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ HMRC must publish a notice specifying the evidence which is to be required, or i
 
 ## Annotations
 
-[^key-caf8a38285f7df90b3b36e28e31a1e08]: Commencement: Reg. 106 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-caf8a38285f7df90b3b36e28e31a1e08]: Commencement: Reg. 106 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

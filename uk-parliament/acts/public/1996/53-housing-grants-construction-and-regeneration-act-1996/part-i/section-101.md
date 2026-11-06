@@ -22,7 +22,7 @@ summary: ''
 
 In this Part—
 
-- “development corporation” has the same meaning as in the Housing Act 1985;[^key-3e44d98d95a14cd985f05a4295a5bb9b]
+- “development corporation” has the same meaning as in the Housing Act 1985;[^c-3e44d98d95a14cd985f05a4295a5bb9b]
 - “**dwelling**” means a building or part of a building occupied or intended to be occupied as a separate dwelling, together with any yard, garden, outhouses and appurtenances belonging to it or usually enjoyed with it;
 - [^c17636051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c17636051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -31,7 +31,7 @@ In this Part—
 - “**introductory tenancy**” and “**introductory tenant**” have the same meaning as in Chapter I of Part V of the [^c11254191]Housing Act 1996;
 - “**local authority**” and “**local housing authority**” have the same meaning as in the [^c11254201]Housing Act 1985;
 - [^c17636051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-c1ed4c3a72e85bc7fae40d997d519027]...
+- [^c-c1ed4c3a72e85bc7fae40d997d519027]...
 - “**owner**”, in relation to a dwelling, has the meaning given by section 99 [^c17636111]. . . ;
 - “**owner’s interest**”, in relation to any premises, means—
   - (a) an estate in fee simple absolute in possession, or
@@ -52,7 +52,7 @@ In this Part—
 
 [^c11254161]: Commencement: S. 101 wholly in force; s. 101 not in force at Royal Assent see s. 150; s. 101 in force for certain purposes at 11.9.1996 by [S.I. 1996/2352](https://www.legislation.gov.uk/uksi/1996/2352), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2352/article/2/2); s. 101 in force insofar as not already in force at 17.12.1996 by [S.I. 1997/2842](https://www.legislation.gov.uk/uksi/1997/2842), [art. 3](https://www.legislation.gov.uk/uksi/1997/2842/article/3)
 
-[^key-3e44d98d95a14cd985f05a4295a5bb9b]: Textual amendment: Words in [s. 101](https://www.legislation.gov.uk/ukpga/1996/53/section/101) inserted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/2), [Sch. 1 para. 50(a)](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/50/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
+[^c-3e44d98d95a14cd985f05a4295a5bb9b]: Textual amendment: Words in [s. 101](https://www.legislation.gov.uk/ukpga/1996/53/section/101) inserted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/2), [Sch. 1 para. 50(a)](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/50/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
 
 [^c17636051]: Textual amendment: S. 101: definitions repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 3 para. 34(a)](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/34/a), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 
@@ -62,7 +62,7 @@ In this Part—
 
 [^c11254201]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-c1ed4c3a72e85bc7fae40d997d519027]: Textual amendment: Words in [s. 101](https://www.legislation.gov.uk/ukpga/1996/53/section/101) omitted (1.12.2008) by virtue of [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/2), [Sch. 1 para. 50(b)](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/50/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
+[^c-c1ed4c3a72e85bc7fae40d997d519027]: Textual amendment: Words in [s. 101](https://www.legislation.gov.uk/ukpga/1996/53/section/101) omitted (1.12.2008) by virtue of [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/2), [Sch. 1 para. 50(b)](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/50/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
 
 [^c17636111]: Textual amendment: S. 101: words in definition of "owner" repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 3 para. 34(b)](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/34/b), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 

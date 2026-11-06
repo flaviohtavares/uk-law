@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Notice of and objection to diversification[^key-d5cb25b369eb9f6facb73be2a6ee4fd7]
+## 26. Notice of and objection to diversification[^c-d5cb25b369eb9f6facb73be2a6ee4fd7]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5cb25b369eb9f6facb73be2a6ee4fd7]: Commencement: S. 26 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-d5cb25b369eb9f6facb73be2a6ee4fd7]: Commencement: S. 26 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

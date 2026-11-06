@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Submissions as to sufficiency of evidence[^key-309acf51cfbdf0a03aca805f00474214]
+## 73. Submissions as to sufficiency of evidence[^c-309acf51cfbdf0a03aca805f00474214]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ After section 97 of the 1995 Act insert—
 
 ## Annotations
 
-[^key-309acf51cfbdf0a03aca805f00474214]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2010/13/section/73) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-309acf51cfbdf0a03aca805f00474214]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2010/13/section/73) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

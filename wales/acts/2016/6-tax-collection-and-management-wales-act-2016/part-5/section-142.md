@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Interpretation of Chapter 3[^key-84baad052b594106b941a25cf3a5520b]
+## 142. Interpretation of Chapter 3[^c-84baad052b594106b941a25cf3a5520b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-84baad052b594106b941a25cf3a5520b]: Commencement: S. 142 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-84baad052b594106b941a25cf3a5520b]: Commencement: S. 142 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Dwellings occupied periodically: England[^key-e169eee9afcf776e5db78cadc3242630]
+## 80. Dwellings occupied periodically: England[^c-e169eee9afcf776e5db78cadc3242630]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e169eee9afcf776e5db78cadc3242630]: Commencement: S. 80 in force at Royal Assent, see [s. 255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q)
+[^c-e169eee9afcf776e5db78cadc3242630]: Commencement: S. 80 in force at Royal Assent, see [s. 255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q)

@@ -95,8 +95,8 @@ except under the authority of a licence issued by the Secretary of State.
 (2) It does not apply in relation to any pathogen or carrier contained in a product—
 
 - (a) authorised to be placed on the market in the United Kingdom as a veterinary medicinal product, or authorised to be administered to an animal in the United Kingdom;
-- (b) authorised to be placed on the market under the Human Medicines Regulations 2012[^key-4bbc1ec7daa089806d9cf4298e7c74e6];
-- (c)[^key-6ea202bc9397be7ae3f3f22373631b3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) authorised to be placed on the market under the Human Medicines Regulations 2012[^c-4bbc1ec7daa089806d9cf4298e7c74e6];
+- (c)[^c-6ea202bc9397be7ae3f3f22373631b3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Powers of inspectors
 
@@ -150,9 +150,9 @@ No person may contravene a licence condition imposed on that person.
 
 ## 11. Enforcement
 
-(1)[^key-e19a99ac91e46865f722b5bf385ba64d] This Order is enforced by the Secretary of State.
+(1)[^c-e19a99ac91e46865f722b5bf385ba64d] This Order is enforced by the Secretary of State.
 
-(2)[^key-d872a8698e13df24adc8293a2e64d08c] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(2)[^c-d872a8698e13df24adc8293a2e64d08c] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 ## 12. Revocations
 
@@ -250,7 +250,7 @@ Article 3
 
 **34.** Peste des petits ruminants virus
 
-**34A.**[^key-319a1eaf847f0f60fd9c2004596e0713] Porcine Reproductive and Respiratory Syndrome virus genotype 2
+**34A.**[^c-319a1eaf847f0f60fd9c2004596e0713] Porcine Reproductive and Respiratory Syndrome virus genotype 2
 
 **35.** Rabies virus and all viruses of the genus *Lyssavirus*
 
@@ -332,7 +332,7 @@ Article 3
 
 (2) If the inspector considers it expedient to do so, that inspector may for the purpose of preventing the introduction or spreading of disease, detain, treat or destroy any pathogen, carrier or material seized.
 
-(3)[^key-332467bfde88cbb2d19bf56ef051f365] Sub-paragraphs (1) and (2) do not apply in the case of the pathogen known as Porcine Reproductive and Respiratory Syndrome virus genotype 2.
+(3)[^c-332467bfde88cbb2d19bf56ef051f365] Sub-paragraphs (1) and (2) do not apply in the case of the pathogen known as Porcine Reproductive and Respiratory Syndrome virus genotype 2.
 
 ### 3. Cleansing and disinfection
 
@@ -356,18 +356,18 @@ A full impact assessment has been prepared and placed in the library of each Hou
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers” by section 86 of the Act. These powers are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)) .
 
-[^key-4bbc1ec7daa089806d9cf4298e7c74e6]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2008/944/article/5/2/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 95(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/95/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-4bbc1ec7daa089806d9cf4298e7c74e6]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2008/944/article/5/2/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 95(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/95/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-6ea202bc9397be7ae3f3f22373631b3c]: Textual amendment: [Art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2008/944/article/5/2/c) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 95(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/95/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-6ea202bc9397be7ae3f3f22373631b3c]: Textual amendment: [Art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2008/944/article/5/2/c) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 95(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/95/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-e19a99ac91e46865f722b5bf385ba64d]: Textual amendment: Art. 11 renumbered as art. 11(1) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/24/a)
+[^c-e19a99ac91e46865f722b5bf385ba64d]: Textual amendment: Art. 11 renumbered as art. 11(1) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/24/a)
 
-[^key-d872a8698e13df24adc8293a2e64d08c]: Textual amendment: Art. 11(2) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/24/b)
+[^c-d872a8698e13df24adc8293a2e64d08c]: Textual amendment: Art. 11(2) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/24/b)
 
 [^f00004]: Footnote: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
 [^f00005]: Footnote: [S.I. 2006/1506](https://www.legislation.gov.uk/uksi/2006/1506).
 
-[^key-319a1eaf847f0f60fd9c2004596e0713]: Textual amendment: [Sch. 1 para. 34A](https://www.legislation.gov.uk/uksi/2008/944/schedule/1/paragraph/34A) inserted (21.12.2009) by [The Specified Animal Pathogens (Amendment) Order 2009 (S.I. 2009/3083)](https://www.legislation.gov.uk/uksi/2009/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3083/article/3)
+[^c-319a1eaf847f0f60fd9c2004596e0713]: Textual amendment: [Sch. 1 para. 34A](https://www.legislation.gov.uk/uksi/2008/944/schedule/1/paragraph/34A) inserted (21.12.2009) by [The Specified Animal Pathogens (Amendment) Order 2009 (S.I. 2009/3083)](https://www.legislation.gov.uk/uksi/2009/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3083/article/3)
 
-[^key-332467bfde88cbb2d19bf56ef051f365]: Textual amendment: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2008/944/schedule/2/paragraph/2/3) inserted (21.12.2009) by [The Specified Animal Pathogens (Amendment) Order 2009 (S.I. 2009/3083)](https://www.legislation.gov.uk/uksi/2009/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3083/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3083/article/4)
+[^c-332467bfde88cbb2d19bf56ef051f365]: Textual amendment: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2008/944/schedule/2/paragraph/2/3) inserted (21.12.2009) by [The Specified Animal Pathogens (Amendment) Order 2009 (S.I. 2009/3083)](https://www.legislation.gov.uk/uksi/2009/3083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3083/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3083/article/4)

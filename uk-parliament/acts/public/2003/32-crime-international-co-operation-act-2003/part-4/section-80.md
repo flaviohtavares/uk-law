@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Disclosure of information by SFO[^key-ddf53f2f28502449dfba8a3d05087f57]
+## 80. Disclosure of information by SFO[^c-ddf53f2f28502449dfba8a3d05087f57]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ and the “and” preceding paragraph (m) is omitted.
 
 ## Annotations
 
-[^key-ddf53f2f28502449dfba8a3d05087f57]: Commencement: S. 80 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-ddf53f2f28502449dfba8a3d05087f57]: Commencement: S. 80 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

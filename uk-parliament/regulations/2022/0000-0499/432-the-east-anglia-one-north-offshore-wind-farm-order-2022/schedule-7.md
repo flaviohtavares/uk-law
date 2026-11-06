@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Land in which only new rights etc. may be acquired[^key-bca878681577f334b307483ae7d25dea]
+## SCHEDULE 7 — Land in which only new rights etc. may be acquired[^c-bca878681577f334b307483ae7d25dea]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ Article 20
 
 ## Annotations
 
-[^key-bca878681577f334b307483ae7d25dea]: Commencement: Sch. 7 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-bca878681577f334b307483ae7d25dea]: Commencement: Sch. 7 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

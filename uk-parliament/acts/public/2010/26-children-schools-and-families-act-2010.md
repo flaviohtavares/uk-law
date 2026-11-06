@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Children with special educational needs etc
 
-#### 1. School inspections: pupils with disabilities or special educational needs[^key-628a94f2743fb30e482dc00193055c27]
+#### 1. School inspections: pupils with disabilities or special educational needs[^c-628a94f2743fb30e482dc00193055c27]
 
 In section 5 of EA 2005 (duty to inspect certain schools in England at prescribed intervals), after subsection (5) there is inserted—
 
@@ -51,13 +51,13 @@ In section 5 of EA 2005 (duty to inspect certain schools in England at prescribe
 >
 > In this subsection a “mainstream school” is a school within subsection (2)(a) or (2)(c) to (f).
 
-#### 2. Right of appeal against determination by local authority not to amend statement[^key-6bf6e755bd5afbb4a99d6fd9905f77dc]
+#### 2. Right of appeal against determination by local authority not to amend statement[^c-6bf6e755bd5afbb4a99d6fd9905f77dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exceptional provision for ill or excluded children etc
 
-#### 3. Exceptional provision of education in short stay schools or elsewhere[^key-970f5f2e96b1cae4a3c764ecbf6f05f6]
+#### 3. Exceptional provision of education in short stay schools or elsewhere[^c-970f5f2e96b1cae4a3c764ecbf6f05f6]
 
 (1) Section 19 of EA 1996 (exceptional provision of education in short stay schools or elsewhere) is amended as follows.
 
@@ -92,30 +92,30 @@ In section 5 of EA 2005 (duty to inspect certain schools in England at prescribe
 
 > (1A) At least once in every school year the governing body of a maintained school in England shall consider whether, and if so how, they should exercise the power under subsection (1).
 
-(2)[^key-d64b2f2383a795271612d4480b3ec994] In section 50 of SSFA 1998 (effect of financial delegation), after subsection (3) there is inserted—
+(2)[^c-d64b2f2383a795271612d4480b3ec994] In section 50 of SSFA 1998 (effect of financial delegation), after subsection (3) there is inserted—
 
 > (3A) In the case of a school in England—
 >
 > - (a) subject to regulations under paragraph (b) below, subsection (3)(a) has effect as if amounts spent on providing facilities or services under section 27 of the Education Act 2002 (power of governing body to provide community facilities etc) were spent for purposes of the school;
 > - (b) regulations may impose restrictions as to the matters on which amounts may be spent under subsection (3)(a).
 
-(3)[^key-d64b2f2383a795271612d4480b3ec994] In subsection (4) of that section, for “In subsection (3) “purposes of the school”” there is substituted “ In the case of a school in Wales, “purposes of the school” in subsection (3) ”.
+(3)[^c-d64b2f2383a795271612d4480b3ec994] In subsection (4) of that section, for “In subsection (3) “purposes of the school”” there is substituted “ In the case of a school in Wales, “purposes of the school” in subsection (3) ”.
 
-(4)[^key-d64b2f2383a795271612d4480b3ec994] In section 51A of SSFA 1998 (expenditure incurred for community purposes), in subsections (1) and (2), after “a maintained school” there is inserted “ in Wales ”.
+(4)[^c-d64b2f2383a795271612d4480b3ec994] In section 51A of SSFA 1998 (expenditure incurred for community purposes), in subsections (1) and (2), after “a maintained school” there is inserted “ in Wales ”.
 
-#### 5. Power to form company to establish Academy, etc[^key-0e7bbf4f2242e53e5738aa8e5dc59ea1]
+#### 5. Power to form company to establish Academy, etc[^c-0e7bbf4f2242e53e5738aa8e5dc59ea1]
 
 (1) The governing body of a maintained school in England may—
 
-- (a) form, or participate in forming, a company to enter into Academy arrangements[^key-049be632835f0ce3601c3c902a7f5395] , and
-- (b) do anything which appears to them to be necessary or expedient in connection with a proposal that Academy arrangements[^key-0f2a5d1d84e509d4924bdd3168685d48] be entered into with a company formed (or proposed to be formed) by them under paragraph (a).
+- (a) form, or participate in forming, a company to enter into Academy arrangements[^c-049be632835f0ce3601c3c902a7f5395] , and
+- (b) do anything which appears to them to be necessary or expedient in connection with a proposal that Academy arrangements[^c-0f2a5d1d84e509d4924bdd3168685d48] be entered into with a company formed (or proposed to be formed) by them under paragraph (a).
 
 References in this subsection to a company are to a company registered under the Companies Act 2006 as a company limited by guarantee.
 
 (2) The governing body of a maintained school in England—
 
 - (a) may be a member of a company which they have formed, or participated in forming, under subsection (1)(a), and
-- (b) may be a member of a company which is not within paragraph (a) but which is party to Academy arrangements[^key-f7264a5ce626b64d0248ddf07b66ef45] .
+- (b) may be a member of a company which is not within paragraph (a) but which is party to Academy arrangements[^c-f7264a5ce626b64d0248ddf07b66ef45] .
 
 (3) The power conferred by subsection (1)(b) includes, in particular, power—
 
@@ -126,7 +126,7 @@ References in this subsection to a company are to a company registered under the
 
 (5) In this section “**maintained school**” means a community, foundation or voluntary school or a community or foundation special school.
 
-#### 6. Powers to assist etc proprietor of Academy and be a member of a foundation[^key-6cdccf9174f1ee58f39f8c9d7d437097]
+#### 6. Powers to assist etc proprietor of Academy and be a member of a foundation[^c-6cdccf9174f1ee58f39f8c9d7d437097]
 
 (1) Paragraph 3 of Schedule 1 to EA 2002 (powers of governing body) is amended as follows.
 
@@ -160,7 +160,7 @@ After section 11 of EIA 2006 there is inserted—
 
 ### Local Safeguarding Children Boards
 
-#### 8. Supply of information requested by LSCBs in England[^key-f46b4950b576d2e5ad3cd5cf971a1eac]
+#### 8. Supply of information requested by LSCBs in England[^c-f46b4950b576d2e5ad3cd5cf971a1eac]
 
 After section 14A of CA 2004 (LSCBs in England: annual reports) there is inserted—
 
@@ -192,13 +192,13 @@ After section 14A of CA 2004 (LSCBs in England: annual reports) there is inserte
 >
 > (7) A Local Safeguarding Children Board must have regard to any guidance given to it by the Secretary of State in connection with the exercise of its functions under this section.
 
-#### 9. Supply of information requested by LSCBs in Wales[^key-688877628b4784edf29fce2f4e832371]
+#### 9. Supply of information requested by LSCBs in Wales[^c-688877628b4784edf29fce2f4e832371]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Review by Chief Inspector of performance of LSCBs in England[^key-e2ef9f2235e1671230e225b5f1925649]
+#### 10. Review by Chief Inspector of performance of LSCBs in England[^c-e2ef9f2235e1671230e225b5f1925649]
 
 After section 15 of CA 2004 (funding of LSCBs in England) there is inserted—
 
@@ -218,69 +218,69 @@ After section 15 of CA 2004 (funding of LSCBs in England) there is inserted—
 > - “**the Chief Inspector**” means Her Majesty's Chief Inspector of Education, Children's Services and Skills;
 > - “**specified**” means specified in regulations under this section.
 
-## Part 2 — Family proceedings[^key-ff7343a672788341178d9a064f493889]
+## Part 2 — Family proceedings[^c-ff7343a672788341178d9a064f493889]
 
-### 11. Restriction on publication of information relating to family proceedings[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. Authorised publication of court orders and judgments[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 11. Restriction on publication of information relating to family proceedings[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Authorised news publications[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 12. Authorised publication of court orders and judgments[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Permitting publication for purposes of section 13: general[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 13. Authorised news publications[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Permitting publication for purposes of section 13: adoption Et ceteralaetc[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 14. Permitting publication for purposes of section 13: general[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Prohibiting or restricting publication for purposes of section 13[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 15. Permitting publication for purposes of section 13: adoption Et ceteralaetc[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Defences to contempt of court[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 16. Prohibiting or restricting publication for purposes of section 13[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Appeals against decisions under section 12 or 13[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 17. Defences to contempt of court[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Power to alter treatment of sensitive personal information[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 18. Appeals against decisions under section 12 or 13[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Independent review[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 19. Power to alter treatment of sensitive personal information[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Interpretation of Part 2, Et ceteralaetc[^key-ff7343a672788341178d9a064f493889][^key-ff7343a672788341178d9a064f493889]
+### 20. Independent review[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Interpretation of Part 2, Et ceteralaetc[^c-ff7343a672788341178d9a064f493889][^c-ff7343a672788341178d9a064f493889]
 
 **No longer in force.**
 
@@ -290,7 +290,7 @@ After section 15 of CA 2004 (funding of LSCBs in England) there is inserted—
 
 ### Miscellaneous
 
-#### 22. Amendments of provisions about complaints in ASCLA 2009[^key-b5891377b76813e8205b1e13e3efce38]
+#### 22. Amendments of provisions about complaints in ASCLA 2009[^c-b5891377b76813e8205b1e13e3efce38]
 
 **Not yet in force.**
 
@@ -317,7 +317,7 @@ In section 111 of ESA 2008 (fees for inspections of independent educational inst
 
 (2) EA 1996 and section 5 of this Act are to be read as if that section were contained in that Act.
 
-#### 25. Amendments and repeals[^key-705dc14be717d2dbafc8f92643008597]
+#### 25. Amendments and repeals[^c-705dc14be717d2dbafc8f92643008597]
 
 Schedules 3 (minor and consequential amendments) and 4 (repeals) have effect.
 
@@ -350,11 +350,11 @@ Schedules 3 (minor and consequential amendments) and 4 (repeals) have effect.
 
 (3) Section 9 comes into force on whatever day the Welsh Ministers appoint by order made by statutory instrument.
 
-(4)[^key-3971967c575a5f5d9cc0f2f6d38dbd93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3971967c575a5f5d9cc0f2f6d38dbd93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The other provisions of this Act come into force on whatever day or days the Secretary of State appoints by order made by statutory instrument.
 
-(6) An order under subsection (3)[^key-8238ee48296c868aaf8cf2bccf0452f8]... or (5)—
+(6) An order under subsection (3)[^c-8238ee48296c868aaf8cf2bccf0452f8]... or (5)—
 
 - (a) may make different provision for different purposes or different areas;
 - (b) may make incidental, consequential, supplemental, transitional or transitory provision or savings.
@@ -367,41 +367,41 @@ Schedules 3 (minor and consequential amendments) and 4 (repeals) have effect.
 
 SCHEDULES
 
-## SCHEDULE 1 — Amendments of Part 2 relating to sensitive personal information[^key-f4ab60825a19a307b21016e1f199abae]
+## SCHEDULE 1 — Amendments of Part 2 relating to sensitive personal information[^c-f4ab60825a19a307b21016e1f199abae]
 
 Section 19
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f4ab60825a19a307b21016e1f199abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f4ab60825a19a307b21016e1f199abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-f4ab60825a19a307b21016e1f199abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f4ab60825a19a307b21016e1f199abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-f4ab60825a19a307b21016e1f199abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f4ab60825a19a307b21016e1f199abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Sensitive personal information[^key-bfaa8bb80ed497a40312457265786d21]
+## SCHEDULE 2 — Sensitive personal information[^c-bfaa8bb80ed497a40312457265786d21]
 
 Section 21
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bfaa8bb80ed497a40312457265786d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Minor and consequential amendments
 
@@ -415,63 +415,63 @@ Section 25
 
 **1.** In section 19 (exceptional provision of education in short stay schools or elsewhere), in subsections (2)(a) and (2B)(a), for “such children” there is substituted “ children falling within subsection (1) ”.
 
-**2.**[^key-676ff65889d685598661e3e5953b57a1] (1) Section 580 (index) is amended as follows.
+**2.**[^c-676ff65889d685598661e3e5953b57a1] (1) Section 580 (index) is amended as follows.
 
 (2) In the entry for “sex education”, for “section 352(3)” there is substituted “ section 579(1) ”.
 
-### Part 2 — Family proceedings[^key-aa9b991fb66a8b982263e181e9374fde]
+### Part 2 — Family proceedings[^c-aa9b991fb66a8b982263e181e9374fde]
 
-#### Children and Young Persons Act 1933 (c. 12)[^key-aa9b991fb66a8b982263e181e9374fde]
-
-**No longer in force.**
-
-**3.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Administration of Justice Act 1960 (c. 65)[^key-aa9b991fb66a8b982263e181e9374fde]
+#### Children and Young Persons Act 1933 (c. 12)[^c-aa9b991fb66a8b982263e181e9374fde]
 
 **No longer in force.**
 
-**4.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Magistrates' Courts Act 1980 (c. 43)[^key-aa9b991fb66a8b982263e181e9374fde]
+#### Administration of Justice Act 1960 (c. 65)[^c-aa9b991fb66a8b982263e181e9374fde]
 
 **No longer in force.**
 
-**6.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Matrimonial and Family Proceedings Act 1984 (c. 42)[^key-aa9b991fb66a8b982263e181e9374fde]
+#### Magistrates' Courts Act 1980 (c. 43)[^c-aa9b991fb66a8b982263e181e9374fde]
 
 **No longer in force.**
 
-**9.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Children Act 1989 (c. 41)[^key-aa9b991fb66a8b982263e181e9374fde]
+**7.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+**8.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Adoption and Children Act 2002 (c. 38)[^key-aa9b991fb66a8b982263e181e9374fde]
+#### Matrimonial and Family Proceedings Act 1984 (c. 42)[^c-aa9b991fb66a8b982263e181e9374fde]
 
 **No longer in force.**
 
-**12.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Courts Act 2003 (c. 39)[^key-aa9b991fb66a8b982263e181e9374fde]
+#### Children Act 1989 (c. 41)[^c-aa9b991fb66a8b982263e181e9374fde]
 
 **No longer in force.**
 
-**14.**[^key-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Adoption and Children Act 2002 (c. 38)[^c-aa9b991fb66a8b982263e181e9374fde]
+
+**No longer in force.**
+
+**12.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Courts Act 2003 (c. 39)[^c-aa9b991fb66a8b982263e181e9374fde]
+
+**No longer in force.**
+
+**14.**[^c-aa9b991fb66a8b982263e181e9374fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Repeals
 
@@ -485,52 +485,52 @@ Section 25
 | --- | --- |
 | Education Act 1996 (c. 56) | In section 19(6)—<br>- (a) the definition of “relevant school”;<br>- (b) in the definition of “suitable education”, the words “(and “suitable full-time education” is to be read accordingly)”. |
 
-### Part 2 — Family proceedings[^key-254a10c6562e87d42f7d1eaa4e206f02]
+### Part 2 — Family proceedings[^c-254a10c6562e87d42f7d1eaa4e206f02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-628a94f2743fb30e482dc00193055c27]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2010/26/section/1) in force at 1.9.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 3](https://www.legislation.gov.uk/uksi/2010/1817/article/3)
+[^c-628a94f2743fb30e482dc00193055c27]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2010/26/section/1) in force at 1.9.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 3](https://www.legislation.gov.uk/uksi/2010/1817/article/3)
 
-[^key-6bf6e755bd5afbb4a99d6fd9905f77dc]: Textual amendment: S. 2 repealed (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/19/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505)))
+[^c-6bf6e755bd5afbb4a99d6fd9905f77dc]: Textual amendment: S. 2 repealed (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/19/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505)))
 
-[^key-970f5f2e96b1cae4a3c764ecbf6f05f6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/26/section/3) in force at 1.9.2011 by [S.I. 2011/1100](https://www.legislation.gov.uk/uksi/2011/1100), [art. 2](https://www.legislation.gov.uk/uksi/2011/1100/article/2)
+[^c-970f5f2e96b1cae4a3c764ecbf6f05f6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/26/section/3) in force at 1.9.2011 by [S.I. 2011/1100](https://www.legislation.gov.uk/uksi/2011/1100), [art. 2](https://www.legislation.gov.uk/uksi/2011/1100/article/2)
 
-[^key-d64b2f2383a795271612d4480b3ec994]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/ukpga/2010/26/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2010/26/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2010/26/section/4/4) in force at 1.4.2011 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 4](https://www.legislation.gov.uk/uksi/2010/1817/article/4)
+[^c-d64b2f2383a795271612d4480b3ec994]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/ukpga/2010/26/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2010/26/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2010/26/section/4/4) in force at 1.4.2011 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 4](https://www.legislation.gov.uk/uksi/2010/1817/article/4)
 
-[^key-0e7bbf4f2242e53e5738aa8e5dc59ea1]: Commencement: S. 5 in force at 19.7.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
+[^c-0e7bbf4f2242e53e5738aa8e5dc59ea1]: Commencement: S. 5 in force at 19.7.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
 
-[^key-049be632835f0ce3601c3c902a7f5395]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2010/26/section/5/1/a) substituted (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 26(2)(a)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/26/2/a); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-049be632835f0ce3601c3c902a7f5395]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2010/26/section/5/1/a) substituted (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 26(2)(a)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/26/2/a); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
 
-[^key-0f2a5d1d84e509d4924bdd3168685d48]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2010/26/section/5/1/b) substituted (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/26/2/b); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-0f2a5d1d84e509d4924bdd3168685d48]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2010/26/section/5/1/b) substituted (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/26/2/b); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
 
-[^key-f7264a5ce626b64d0248ddf07b66ef45]: Textual amendment: Words in [s. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2010/26/section/5/2/b) substituted (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/26/3); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-f7264a5ce626b64d0248ddf07b66ef45]: Textual amendment: Words in [s. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2010/26/section/5/2/b) substituted (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/26/3); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
 
-[^key-6cdccf9174f1ee58f39f8c9d7d437097]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2010/26/section/6) in force at 19.7.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
+[^c-6cdccf9174f1ee58f39f8c9d7d437097]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2010/26/section/6) in force at 19.7.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
 
-[^key-f46b4950b576d2e5ad3cd5cf971a1eac]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2010/26/section/8) in force at 15.4.2013 by [S.I. 2013/668](https://www.legislation.gov.uk/uksi/2013/668), [art. 2](https://www.legislation.gov.uk/uksi/2013/668/article/2)
+[^c-f46b4950b576d2e5ad3cd5cf971a1eac]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2010/26/section/8) in force at 15.4.2013 by [S.I. 2013/668](https://www.legislation.gov.uk/uksi/2013/668), [art. 2](https://www.legislation.gov.uk/uksi/2013/668/article/2)
 
-[^key-688877628b4784edf29fce2f4e832371]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2010/26/section/9) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [274](https://www.legislation.gov.uk/wsi/2016/413/regulation/274)
+[^c-688877628b4784edf29fce2f4e832371]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2010/26/section/9) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [274](https://www.legislation.gov.uk/wsi/2016/413/regulation/274)
 
-[^key-e2ef9f2235e1671230e225b5f1925649]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2010/26/section/10) in force at 3.7.2013 by [S.I. 2013/1573](https://www.legislation.gov.uk/uksi/2013/1573), [art. 2](https://www.legislation.gov.uk/uksi/2013/1573/article/2)
+[^c-e2ef9f2235e1671230e225b5f1925649]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2010/26/section/10) in force at 3.7.2013 by [S.I. 2013/1573](https://www.legislation.gov.uk/uksi/2013/1573), [art. 2](https://www.legislation.gov.uk/uksi/2013/1573/article/2)
 
-[^key-ff7343a672788341178d9a064f493889]: Textual amendment: Pt. 2 repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-ff7343a672788341178d9a064f493889]: Textual amendment: Pt. 2 repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-b5891377b76813e8205b1e13e3efce38]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2010/26/section/22) repealed (1.8.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 45(2)(h)](https://www.legislation.gov.uk/ukpga/2011/21/section/45/2/h), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 2](https://www.legislation.gov.uk/uksi/2012/1087/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1087/article/6))
+[^c-b5891377b76813e8205b1e13e3efce38]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2010/26/section/22) repealed (1.8.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 45(2)(h)](https://www.legislation.gov.uk/ukpga/2011/21/section/45/2/h), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 2](https://www.legislation.gov.uk/uksi/2012/1087/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1087/article/6))
 
-[^key-705dc14be717d2dbafc8f92643008597]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2010/26/section/25) in force at 19.7.2010 for specified purposes by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
+[^c-705dc14be717d2dbafc8f92643008597]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2010/26/section/25) in force at 19.7.2010 for specified purposes by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
 
-[^key-3971967c575a5f5d9cc0f2f6d38dbd93]: Textual amendment: [S. 29(4)](https://www.legislation.gov.uk/ukpga/2010/26/section/29/4) repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-3971967c575a5f5d9cc0f2f6d38dbd93]: Textual amendment: [S. 29(4)](https://www.legislation.gov.uk/ukpga/2010/26/section/29/4) repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-8238ee48296c868aaf8cf2bccf0452f8]: Textual amendment: Words in [s. 29(6)](https://www.legislation.gov.uk/ukpga/2010/26/section/29/6) repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-8238ee48296c868aaf8cf2bccf0452f8]: Textual amendment: Words in [s. 29(6)](https://www.legislation.gov.uk/ukpga/2010/26/section/29/6) repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-f4ab60825a19a307b21016e1f199abae]: Textual amendment: Sch. 1 repealed (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-f4ab60825a19a307b21016e1f199abae]: Textual amendment: Sch. 1 repealed (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-bfaa8bb80ed497a40312457265786d21]: Textual amendment: Sch. 2 repealed (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-bfaa8bb80ed497a40312457265786d21]: Textual amendment: Sch. 2 repealed (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-676ff65889d685598661e3e5953b57a1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2010/26/schedule/3/paragraph/2) in force at 19.7.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
+[^c-676ff65889d685598661e3e5953b57a1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2010/26/schedule/3/paragraph/2) in force at 19.7.2010 by [S.I. 2010/1817](https://www.legislation.gov.uk/uksi/2010/1817), [art. 2](https://www.legislation.gov.uk/uksi/2010/1817/article/2)
 
-[^key-aa9b991fb66a8b982263e181e9374fde]: Textual amendment: Sch. 3 Pt. 2 repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-aa9b991fb66a8b982263e181e9374fde]: Textual amendment: Sch. 3 Pt. 2 repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-254a10c6562e87d42f7d1eaa4e206f02]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/26/schedule/4/part/2) repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-254a10c6562e87d42f7d1eaa4e206f02]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/26/schedule/4/part/2) repealed (4.9.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)

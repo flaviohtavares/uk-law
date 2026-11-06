@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Transfer of copyright in apprenticeship frameworks[^key-ade781e22c97a85f59b843b895d4240f]
+## 123. Transfer of copyright in apprenticeship frameworks[^c-ade781e22c97a85f59b843b895d4240f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ade781e22c97a85f59b843b895d4240f]: Commencement: S. 123 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-ade781e22c97a85f59b843b895d4240f]: Commencement: S. 123 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

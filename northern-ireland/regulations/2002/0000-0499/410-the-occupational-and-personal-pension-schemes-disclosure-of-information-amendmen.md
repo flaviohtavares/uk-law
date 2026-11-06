@@ -43,13 +43,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 109, 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Article 3(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3897c278b915e26214dabda88294f789]
+## 1. Citation, commencement and interpretation[^c-3897c278b915e26214dabda88294f789]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 6th April 2003.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-499a76170ca9a716444fe92f2f953fa3]
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-499a76170ca9a716444fe92f2f953fa3]
 
 (1) The Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00005] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -152,7 +152,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-9e593e50ee1cc658109598df7b9de87d]
+## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-9e593e50ee1cc658109598df7b9de87d]
 
 (1) The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997[^f00015] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -261,7 +261,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-## 4. Amendment of the Stakeholder Pension Schemes Regulations[^key-4983a4c9dcbdefd0efaafcece18e0577]
+## 4. Amendment of the Stakeholder Pension Schemes Regulations[^c-4983a4c9dcbdefd0efaafcece18e0577]
 
 (1) The Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00022] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -370,7 +370,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
   .
 
-## 5. Revocation[^key-ebe34f8832ed3397e750ececcfa42c57]
+## 5. Revocation[^c-ebe34f8832ed3397e750ececcfa42c57]
 
 Regulation 5(3)(b) of the Pension Sharing (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2000[^f00027] is hereby revoked.
 
@@ -414,11 +414,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-3897c278b915e26214dabda88294f789]: Commencement: Reg. 1 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
+[^c-3897c278b915e26214dabda88294f789]: Commencement: Reg. 1 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-499a76170ca9a716444fe92f2f953fa3]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
+[^c-499a76170ca9a716444fe92f2f953fa3]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288); relevant amending regulations are [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300), [S.R. 1996 Nos. 95](https://www.legislation.gov.uk/nisr/1996/95) and [508](https://www.legislation.gov.uk/nisr/1996/508) and [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
 
@@ -440,7 +440,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00014]: Footnote: Section 39 was amended by paragraph 34 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 54 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-9e593e50ee1cc658109598df7b9de87d]: Commencement: Reg. 3 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
+[^c-9e593e50ee1cc658109598df7b9de87d]: Commencement: Reg. 3 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 98](https://www.legislation.gov.uk/nisr/1997/98); relevant amending regulations are [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) and [S.R. 2000 Nos. 262](https://www.legislation.gov.uk/nisr/2000/262) and [335](https://www.legislation.gov.uk/nisr/2000/335)
 
@@ -456,7 +456,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00021]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 and subsection (3) was amended by paragraph 52(2) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-4983a4c9dcbdefd0efaafcece18e0577]: Commencement: Reg. 4 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
+[^c-4983a4c9dcbdefd0efaafcece18e0577]: Commencement: Reg. 4 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); relevant amending regulations are [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
 
@@ -468,6 +468,6 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00026]: Footnote: Paragraph (5A) was inserted by regulation 13(8) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
 
-[^key-ebe34f8832ed3397e750ececcfa42c57]: Commencement: Reg. 5 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
+[^c-ebe34f8832ed3397e750ececcfa42c57]: Commencement: Reg. 5 in operation at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/410/regulation/1/1)
 
 [^f00027]: Footnote: [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)

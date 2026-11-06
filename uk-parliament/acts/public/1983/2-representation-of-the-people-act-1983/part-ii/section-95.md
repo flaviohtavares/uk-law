@@ -25,7 +25,7 @@ summary: ''
 - (a) a suitable room in the premises of a school to which this section applies;
 - (b) any meeting room to which this section applies.
 
-(1A)[^key-e5cf1aca0d08119c620d5e83e5bfb3db] For the purposes of subsection (1), the writ is to be taken to have been received—
+(1A)[^c-e5cf1aca0d08119c620d5e83e5bfb3db] For the purposes of subsection (1), the writ is to be taken to have been received—
 
 - (a) in the case of a general election, on the day after the date of the dissolution of Parliament, and
 - (b) in the case of a by-election, on the day after the date of the warrant for the writ.
@@ -67,7 +67,7 @@ but a candidate is not entitled under this section to the use of a room in schoo
 
 [^c14496451]: Textual amendment: Words inserted by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [s. 24](https://www.legislation.gov.uk/ukpga/1985/50/section/24), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4/paragraph/37)(*a*)(ii)
 
-[^key-e5cf1aca0d08119c620d5e83e5bfb3db]: Textual amendment: [S. 95(1A)](https://www.legislation.gov.uk/ukpga/1983/2/section/95/1A) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/7)
+[^c-e5cf1aca0d08119c620d5e83e5bfb3db]: Textual amendment: [S. 95(1A)](https://www.legislation.gov.uk/ukpga/1983/2/section/95/1A) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/7)
 
 [^c14496461]: Textual amendment: Words in s. 95(2)(a) substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/10) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5))
 

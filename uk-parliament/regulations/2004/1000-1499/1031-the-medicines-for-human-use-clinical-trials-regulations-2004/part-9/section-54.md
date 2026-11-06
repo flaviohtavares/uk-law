@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The provisions of the enactments specified in Schedule 10 are amended as there specified. *(affected by repeal, see note)*[^key-09b2f409239e3b21f337acdf3f2be374]
+The provisions of the enactments specified in Schedule 10 are amended as there specified. *(affected by repeal, see note)*[^c-09b2f409239e3b21f337acdf3f2be374]
 
 ## Annotations
 
-[^key-09b2f409239e3b21f337acdf3f2be374]: Textual amendment: [Reg. 54](https://www.legislation.gov.uk/uksi/2004/1031/regulation/54) revoked in part (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-09b2f409239e3b21f337acdf3f2be374]: Textual amendment: [Reg. 54](https://www.legislation.gov.uk/uksi/2004/1031/regulation/54) revoked in part (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)

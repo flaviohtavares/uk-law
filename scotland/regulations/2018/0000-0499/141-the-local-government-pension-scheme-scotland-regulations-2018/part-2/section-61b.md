@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61B. Revision of actuarial certificates: exit payments[^key-86678cda4892e4e56646cbe503d939be]
+## 61B. Revision of actuarial certificates: exit payments[^c-86678cda4892e4e56646cbe503d939be]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86678cda4892e4e56646cbe503d939be]: Textual amendment: Regs. 61A, 61B inserted (1.6.2022) by [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [11](https://www.legislation.gov.uk/ssi/2022/153/regulation/11)
+[^c-86678cda4892e4e56646cbe503d939be]: Textual amendment: Regs. 61A, 61B inserted (1.6.2022) by [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1](https://www.legislation.gov.uk/ssi/2022/153/regulation/1), [11](https://www.legislation.gov.uk/ssi/2022/153/regulation/11)

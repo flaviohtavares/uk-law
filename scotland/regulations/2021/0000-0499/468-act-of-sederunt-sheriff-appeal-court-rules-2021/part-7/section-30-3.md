@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30.3. Transmission of appeal: time to pay direction[^key-c8f46f98d4726fecc966ccabf7645128]
+## 30.3. Transmission of appeal: time to pay direction[^c-c8f46f98d4726fecc966ccabf7645128]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8f46f98d4726fecc966ccabf7645128]: Commencement: Para. 30.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c8f46f98d4726fecc966ccabf7645128]: Commencement: Para. 30.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00036]: Footnote: Form 33 was amended by [S.S.I. 2015/419](https://www.legislation.gov.uk/ssi/2015/419).

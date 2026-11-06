@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Payments of a periodical nature[^key-d826823f11d4a3f63e0c69f4ad8abf73]
+## 134. Payments of a periodical nature[^c-d826823f11d4a3f63e0c69f4ad8abf73]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d826823f11d4a3f63e0c69f4ad8abf73]: Commencement: Rule 134 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-d826823f11d4a3f63e0c69f4ad8abf73]: Commencement: Rule 134 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

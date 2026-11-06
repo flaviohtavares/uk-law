@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Alteration of functions of regional Transport Partnerships[^key-a1e7519d4f9101bebeaeb9490c491b80]
+## 11. Alteration of functions of regional Transport Partnerships[^c-a1e7519d4f9101bebeaeb9490c491b80]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1e7519d4f9101bebeaeb9490c491b80]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2005/12/section/11) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-a1e7519d4f9101bebeaeb9490c491b80]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2005/12/section/11) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Regulations with respect to registration and procedure[^key-3a6f291672237909a5e125d2ecc1e914]
+## 188. Regulations with respect to registration and procedure[^c-3a6f291672237909a5e125d2ecc1e914]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 109(1)(a) of the Friendly Societies Act 1974 (Regulations) is repealed.
 
 ## Annotations
 
-[^key-3a6f291672237909a5e125d2ecc1e914]: Commencement: Art. 188 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3a6f291672237909a5e125d2ecc1e914]: Commencement: Art. 188 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Housing (Right to Buy) (Limit on Discount) (England) Order 2012 (revoked)[^key-41ecdca2ff738331a7dd1a614cd57c79]
+The Housing (Right to Buy) (Limit on Discount) (England) Order 2012 (revoked)[^c-41ecdca2ff738331a7dd1a614cd57c79]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 2nd April 2012
 
-[^key-41ecdca2ff738331a7dd1a614cd57c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41ecdca2ff738331a7dd1a614cd57c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-41ecdca2ff738331a7dd1a614cd57c79]
+## 1. Citation, commencement, application and interpretation[^c-41ecdca2ff738331a7dd1a614cd57c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period of account[^key-41ecdca2ff738331a7dd1a614cd57c79]
+## 2. Period of account[^c-41ecdca2ff738331a7dd1a614cd57c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Maximum discount[^key-41ecdca2ff738331a7dd1a614cd57c79]
+## 3. Maximum discount[^c-41ecdca2ff738331a7dd1a614cd57c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application[^key-41ecdca2ff738331a7dd1a614cd57c79]
+## 4. Application[^c-41ecdca2ff738331a7dd1a614cd57c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-41ecdca2ff738331a7dd1a614cd57c79]
+## 5. Revocation[^c-41ecdca2ff738331a7dd1a614cd57c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41ecdca2ff738331a7dd1a614cd57c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41ecdca2ff738331a7dd1a614cd57c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-41ecdca2ff738331a7dd1a614cd57c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41ecdca2ff738331a7dd1a614cd57c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41ecdca2ff738331a7dd1a614cd57c79]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/734) revoked (21.11.2024) by [The Housing (Right to Buy) (Limits on Discount) (England) Order 2024 (S.I. 2024/1073)](https://www.legislation.gov.uk/uksi/2024/1073), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1073/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/1073/article/4/b) (with saving in [art. 5](https://www.legislation.gov.uk/uksi/2024/1073/article/5))
+[^c-41ecdca2ff738331a7dd1a614cd57c79]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/734) revoked (21.11.2024) by [The Housing (Right to Buy) (Limits on Discount) (England) Order 2024 (S.I. 2024/1073)](https://www.legislation.gov.uk/uksi/2024/1073), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1073/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/1073/article/4/b) (with saving in [art. 5](https://www.legislation.gov.uk/uksi/2024/1073/article/5))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Non-exhaustive list of types of EEE which fall within the categories set out in Schedule 3[^key-fc9b4892580da1f42dbaeb575c82bfd1]
+## SCHEDULE 4 — Non-exhaustive list of types of EEE which fall within the categories set out in Schedule 3[^c-fc9b4892580da1f42dbaeb575c82bfd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,7 +112,7 @@ Regulation 6(3)
 | Computers for biking, diving, running, rowing, etc |
 | Sports equipment with electric or electronic components |
 | Coin slot machines |
-| 7.1 VAPES AND ELECTRONIC CIGARETTES ETC.[^key-f0c93829c07f6f216d49ed8f7e231a63] |
+| 7.1 VAPES AND ELECTRONIC CIGARETTES ETC.[^c-f0c93829c07f6f216d49ed8f7e231a63] |
 | Vapes or any item of EEE which is intended to form part of a vape |
 | Electronic cigarettes or any item of EEE which is intended to form part of an electronic cigarette |
 | Heated tobacco products or any item of EEE which is intended to form part of a heated tobacco product |
@@ -142,6 +142,6 @@ Regulation 6(3)
 
 ## Annotations
 
-[^key-fc9b4892580da1f42dbaeb575c82bfd1]: Textual amendment: Sch. 4 substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [27](https://www.legislation.gov.uk/uksi/2018/1214/regulation/27)
+[^c-fc9b4892580da1f42dbaeb575c82bfd1]: Textual amendment: Sch. 4 substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [27](https://www.legislation.gov.uk/uksi/2018/1214/regulation/27)
 
-[^key-f0c93829c07f6f216d49ed8f7e231a63]: Textual amendment: Sch. 4 category 7.1 inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2025/910/regulation/21) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))
+[^c-f0c93829c07f6f216d49ed8f7e231a63]: Textual amendment: Sch. 4 category 7.1 inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2025/910/regulation/21) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))

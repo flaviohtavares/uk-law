@@ -31,10 +31,10 @@ summary: ''
 
 of 21 March 2001 concerning the conclusion of the Agreement for cooperation between the European Atomic Energy Community represented by the Commission and the Department of Energy of the United States of America in the field of fusion energy research and development (notified under document number C(2001) 735) (revoked)
 
-[^key-23b4184ec7c7c3d55a590512f541ebe5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23b4184ec7c7c3d55a590512f541ebe5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-23b4184ec7c7c3d55a590512f541ebe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-23b4184ec7c7c3d55a590512f541ebe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23b4184ec7c7c3d55a590512f541ebe5]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-23b4184ec7c7c3d55a590512f541ebe5]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

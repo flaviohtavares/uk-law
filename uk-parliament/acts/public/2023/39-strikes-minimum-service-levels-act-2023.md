@@ -32,68 +32,68 @@ Strikes (Minimum Service Levels) Act 2023 (repealed)
 
 2023 Chapter 39
 
-[^key-d50165c1490864162a974a176deb3a75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d50165c1490864162a974a176deb3a75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Minimum service levels[^key-d50165c1490864162a974a176deb3a75]
+## Minimum service levels[^c-d50165c1490864162a974a176deb3a75]
 
-### 1. Minimum service levels for certain strikes[^key-d50165c1490864162a974a176deb3a75]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Interpretation and final provisions[^key-d50165c1490864162a974a176deb3a75]
-
-### 2. Meaning of “the 1992 Act”[^key-d50165c1490864162a974a176deb3a75]
+### 1. Minimum service levels for certain strikes[^c-d50165c1490864162a974a176deb3a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Power to make consequential provision[^key-d50165c1490864162a974a176deb3a75]
+## Interpretation and final provisions[^c-d50165c1490864162a974a176deb3a75]
+
+### 2. Meaning of “the 1992 Act”[^c-d50165c1490864162a974a176deb3a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Extent[^key-d50165c1490864162a974a176deb3a75]
+### 3. Power to make consequential provision[^c-d50165c1490864162a974a176deb3a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Commencement[^key-d50165c1490864162a974a176deb3a75]
+### 4. Extent[^c-d50165c1490864162a974a176deb3a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Short title[^key-d50165c1490864162a974a176deb3a75]
+### 5. Commencement[^c-d50165c1490864162a974a176deb3a75]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Short title[^c-d50165c1490864162a974a176deb3a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Minimum service levels for certain strikes[^key-d50165c1490864162a974a176deb3a75]
+## SCHEDULE — Minimum service levels for certain strikes[^c-d50165c1490864162a974a176deb3a75]
 
 Section 1
 
-### PART 1 — Amendments to Part 5 of the 1992 Act: minimum service levels[^key-d50165c1490864162a974a176deb3a75]
+### PART 1 — Amendments to Part 5 of the 1992 Act: minimum service levels[^c-d50165c1490864162a974a176deb3a75]
 
-**1.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Related amendments to the 1992 Act[^key-d50165c1490864162a974a176deb3a75]
+### PART 2 — Related amendments to the 1992 Act[^c-d50165c1490864162a974a176deb3a75]
 
-**3.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d50165c1490864162a974a176deb3a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d50165c1490864162a974a176deb3a75]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2023/39) repealed (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/3), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-d50165c1490864162a974a176deb3a75]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2023/39) repealed (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/3), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)

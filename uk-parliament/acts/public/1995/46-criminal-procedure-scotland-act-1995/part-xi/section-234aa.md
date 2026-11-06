@@ -25,7 +25,7 @@ summary: ''
 (2) This subsection applies where—
 
 - (a) the offender is convicted of an offence;
-- (b)[^key-6a868e39ba03873bcee5d505ca09a032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6a868e39ba03873bcee5d505ca09a032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in committing the offence, he engaged in antisocial behaviour; and
 - (d) the court is satisfied, on a balance of probabilities, that the making of an antisocial behaviour order is necessary for the purpose of protecting other persons from further antisocial behaviour by the offender.
 
@@ -58,7 +58,7 @@ to at least one person who is not of the same household as him.
 
 (10) An antisocial behaviour order made under this section, and any revocation or variation of such an order under subsection (8) above, shall be taken to be a sentence for the purposes of an appeal.
 
-(11) Section 9 (breach of orders) of the Antisocial Behaviour[^key-304348c873110faea6640d6a38bd7b0f] etc. (Scotland) Act 2004 applies in relation to antisocial behaviour orders made under this section as that section applies in relation to antisocial behaviour orders made under section 4 of that Act.
+(11) Section 9 (breach of orders) of the Antisocial Behaviour[^c-304348c873110faea6640d6a38bd7b0f] etc. (Scotland) Act 2004 applies in relation to antisocial behaviour orders made under this section as that section applies in relation to antisocial behaviour orders made under section 4 of that Act.
 
 (12) In this section, “**conduct**” includes speech; and a course of conduct must involve conduct on at least two occasions.
 
@@ -66,6 +66,6 @@ to at least one person who is not of the same household as him.
 
 [^c18987851]: Textual amendment: Ss. 234AA, 234AB and cross-heading inserted (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 118](https://www.legislation.gov.uk/asp/2004/8/section/118), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-6a868e39ba03873bcee5d505ca09a032]: Textual amendment: S. 234AA(2)(b) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 52(4)](https://www.legislation.gov.uk/asp/2010/13/section/52/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-6a868e39ba03873bcee5d505ca09a032]: Textual amendment: S. 234AA(2)(b) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 52(4)](https://www.legislation.gov.uk/asp/2010/13/section/52/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-304348c873110faea6640d6a38bd7b0f]: Textual amendment: Words in s. 234AA(11) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/3/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-304348c873110faea6640d6a38bd7b0f]: Textual amendment: Words in s. 234AA(11) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/3/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

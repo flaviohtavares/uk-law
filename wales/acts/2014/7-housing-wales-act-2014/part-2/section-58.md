@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Meaning of abuse and domestic abuse[^key-e9acb4d4fdd5ced916750c9160929ae9]
+## 58. Meaning of abuse and domestic abuse[^c-e9acb4d4fdd5ced916750c9160929ae9]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9acb4d4fdd5ced916750c9160929ae9]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2014/7/section/58) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 9](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/9)
+[^c-e9acb4d4fdd5ced916750c9160929ae9]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2014/7/section/58) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 9](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/9)

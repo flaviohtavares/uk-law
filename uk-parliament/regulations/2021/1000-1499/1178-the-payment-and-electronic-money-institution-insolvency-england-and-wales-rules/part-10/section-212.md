@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Application of section 236 of the IA 1986[^key-9111ac889d117af3e5bd5733e0eb68f2]
+## 212. Application of section 236 of the IA 1986[^c-9111ac889d117af3e5bd5733e0eb68f2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9111ac889d117af3e5bd5733e0eb68f2]: Commencement: Rule 212 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-9111ac889d117af3e5bd5733e0eb68f2]: Commencement: Rule 212 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 53D. Relationship between extended payment (qualifying contributory benefits) and entitlement to housing benefit under the general conditions of entitlement[^key-5ce29de3cbe5ef0645fc85097d2c2d89]
+## 53D. Relationship between extended payment (qualifying contributory benefits) and entitlement to housing benefit under the general conditions of entitlement[^c-5ce29de3cbe5ef0645fc85097d2c2d89]
 
 (1) Where a claimant’s housing benefit award would have ended when the claimant ceased to be entitled to a qualifying contributory benefit in the circumstances listed in regulation 53(1)(b), that award will not cease until the end of the extended payment period.
 
@@ -22,4 +22,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ce29de3cbe5ef0645fc85097d2c2d89]: Textual amendment: Regs. 53-53D substituted for reg. 53 (6.10.2008) by [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/5/2)
+[^c-5ce29de3cbe5ef0645fc85097d2c2d89]: Textual amendment: Regs. 53-53D substituted for reg. 53 (6.10.2008) by [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/5/2)

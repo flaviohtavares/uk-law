@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Application of Part to Wales[^key-f95ee39d8b4c74656017af7d58be0211]
+## 82. Application of Part to Wales[^c-f95ee39d8b4c74656017af7d58be0211]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f95ee39d8b4c74656017af7d58be0211]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2016/19/section/82) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-f95ee39d8b4c74656017af7d58be0211]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2016/19/section/82) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Disclosure of date of birth lists: Northern Ireland[^key-aec5dfaa5a7704bf5f6fbc29e2e4565f]
+## 124A. Disclosure of date of birth lists: Northern Ireland[^c-aec5dfaa5a7704bf5f6fbc29e2e4565f]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aec5dfaa5a7704bf5f6fbc29e2e4565f]: Textual amendment: Reg. 124A inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/5)
+[^c-aec5dfaa5a7704bf5f6fbc29e2e4565f]: Textual amendment: Reg. 124A inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/5)

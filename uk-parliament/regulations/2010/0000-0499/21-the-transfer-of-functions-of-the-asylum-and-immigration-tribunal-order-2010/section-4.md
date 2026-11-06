@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transfer of Rules[^key-5f3c82ba9df0eb1437f7a1e00471a275]
+## 4. Transfer of Rules[^c-5f3c82ba9df0eb1437f7a1e00471a275]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ The Asylum and Immigration Tribunal (Procedure) Rules 2005[^f00004] and the Asyl
 
 ## Annotations
 
-[^key-5f3c82ba9df0eb1437f7a1e00471a275]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/21/article/4) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
+[^c-5f3c82ba9df0eb1437f7a1e00471a275]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/21/article/4) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
 
 [^f00004]: Footnote: [S.I. 2005/230](https://www.legislation.gov.uk/uksi/2005/230).
 

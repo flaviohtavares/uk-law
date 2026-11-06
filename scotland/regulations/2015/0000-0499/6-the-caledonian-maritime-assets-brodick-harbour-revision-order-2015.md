@@ -69,11 +69,11 @@ In accordance with paragraph 19(2) of that Schedule[^f00009], the Scottish Minis
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-7ca817848d4c3c81c2e2cd55e507c05a]
+### 1. Citation and commencement[^c-7ca817848d4c3c81c2e2cd55e507c05a]
 
 This Order may be cited as the Caledonian Maritime Assets (Brodick) Harbour Revision Order 2015 and comes into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-db2a999c40c0d91ded2397cb573651b8]
+### 2. Interpretation[^c-db2a999c40c0d91ded2397cb573651b8]
 
 (1) In this Order—
 
@@ -105,7 +105,7 @@ This Order may be cited as the Caledonian Maritime Assets (Brodick) Harbour Revi
 
 (3) Any reference in this Order to a work identified by the number of such work shall be construed as a reference to the work of that number authorised by this Order.
 
-### 3. Incorporation of the Harbours, Docks, and Piers Clauses Act 1847[^key-943b535db952f77cbf9bef457f75ca78]
+### 3. Incorporation of the Harbours, Docks, and Piers Clauses Act 1847[^c-943b535db952f77cbf9bef457f75ca78]
 
 (1) Sections 1 to 4, 27, 29, 33 to 35, 37 to 39, 42, 51 to 53, 55, 56 and 61 to 65 of the 1847 Act are incorporated with this Order subject to the modifications stated in paragraphs (2) to (4).
 
@@ -124,7 +124,7 @@ This Order may be cited as the Caledonian Maritime Assets (Brodick) Harbour Revi
 
 ## PART 2 — LIMITS OF JURISDICTION
 
-### 4. Limits of harbour[^key-e65f71896ca1d9c598feb859e26ce643]
+### 4. Limits of harbour[^c-e65f71896ca1d9c598feb859e26ce643]
 
 (1) The limits of the harbour within which CMAL shall exercise jurisdiction as the harbour authority and within which the powers of the harbour master shall be exercisable shall be the area the boundaries of which are described in Schedule 1 to this Order and shown on the harbour map.
 
@@ -139,7 +139,7 @@ This Order may be cited as the Caledonian Maritime Assets (Brodick) Harbour Revi
 
 ## PART 3 — WORKS PROVISIONS
 
-### 5. Power to construct works[^key-dea5dc322d339cc08eccabd002ff50c9]
+### 5. Power to construct works[^c-dea5dc322d339cc08eccabd002ff50c9]
 
 (1) CMAL may in the lines and situations, upon the lands delineated and within the limits of deviation and according to the levels shown on the deposited plans construct and maintain the following works—
 
@@ -156,11 +156,11 @@ This Order may be cited as the Caledonian Maritime Assets (Brodick) Harbour Revi
 
 (3) CMAL may, within the limits of deviation, reconstruct, extend, enlarge, replace or relay the works authorised by paragraph (1) and may maintain the same as reconstructed, extended, enlarged, replaced or relaid.
 
-### 6. Power to deviate[^key-138328245c3bf354ba844bf16437bc1f]
+### 6. Power to deviate[^c-138328245c3bf354ba844bf16437bc1f]
 
 In carrying out the works authorised by article 5 (power to construct works), CMAL may deviate laterally from the lines or situations as shown on the deposited plans, sections and elevations to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works as shown on the deposited plans, sections and elevations to any extent not exceeding 3 metres upwards and to such extent downwards as may be found necessary or convenient.
 
-### 7. Subsidiary works[^key-6401fb7ca6ef33df73911e1bab444daa]
+### 7. Subsidiary works[^c-6401fb7ca6ef33df73911e1bab444daa]
 
 (1) CMAL may from time to time within the limits of deviation construct, maintain, operate and improve, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes, or in connection with or in consequence, of the construction, maintenance, improvements or use of the works or the harbour; including works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and landing of passengers.
 
@@ -171,13 +171,13 @@ In carrying out the works authorised by article 5 (power to construct works), CM
 - (c) works to alter the position of apparatus, including mains, sewers, drains, pipes, pipelines, conduits, cables, electrical sub-stations and electrical lines; and
 - (d) landscaping, habitat creation and other works to mitigate any adverse effect of the construction, maintenance and operation of the works or to benefit or protect any person or premises affected by the construction, maintenance and operation of the works.
 
-### 8. Reclamation of land[^key-3eaba5bc65715902b69a3f314aec779c]
+### 8. Reclamation of land[^c-3eaba5bc65715902b69a3f314aec779c]
 
 (1) Subject to the provisions of this Order, CMAL may, within the harbour fill up, raise, enclose and reclaim land from the sea and the bed and foreshore of the harbour and for that purpose may place such piles and construct such groynes, retaining walls and other works in and upon the seabed and foreshore as CMAL deems necessary.
 
 (2) CMAL shall not exercise the powers conferred by paragraph (1) in relation to any land not owned by them unless it first obtains the consent in writing of the owner thereof.
 
-### 9. Power to dredge[^key-a5f197b07ad155014af205a5dd15f4c0]
+### 9. Power to dredge[^c-a5f197b07ad155014af205a5dd15f4c0]
 
 (1) CMAL may from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the sea as lie within the harbour limits and within the approaches and the channels leading to those limits and may blast any rock in the area so described as may be required for the purpose of forming or maintaining the works or any existing berthing pocket, turning area, channel within or approach or channel leading to the harbour limits, to enable uninterrupted means of access to the harbour by vessels and enabling the use of harbour at all states of the tide.
 
@@ -187,7 +187,7 @@ In carrying out the works authorised by article 5 (power to construct works), CM
 
 (4) No such materials shall be laid down or deposited in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
 
-### 10. Obstruction of works[^key-8b6d50abc9798097b0497920ec526e6f]
+### 10. Obstruction of works[^c-8b6d50abc9798097b0497920ec526e6f]
 
 Any person who—
 
@@ -196,11 +196,11 @@ Any person who—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale and shall in addition be liable to repay to CMAL as a debt any expenses incurred by it in making good any damage resulting from such obstruction, moving or removal.
 
-### 11. Works to be deemed part of undertaking[^key-ca3ed0118d672c4489c28552f1f1b59c]
+### 11. Works to be deemed part of undertaking[^c-ca3ed0118d672c4489c28552f1f1b59c]
 
 The works shall be deemed for all purposes to be part of the undertaking and all byelaws, directions, rules and regulations of CMAL for the time being in force relating to the harbour shall apply to the works and may be enforced by CMAL accordingly.
 
-### 12. Tidal works not to be executed without approval of the Scottish Ministers[^key-f0ebded9c84cb8ff55baefeba8988260]
+### 12. Tidal works not to be executed without approval of the Scottish Ministers[^c-f0ebded9c84cb8ff55baefeba8988260]
 
 (1) A tidal work shall not be demolished, constructed, renewed, reconstructed or altered except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun or while work is still in progress.
 
@@ -213,17 +213,17 @@ and any expenditure incurred by the Scottish Ministers in so doing shall be reco
 
 (3) Paragraph (1) shall not apply to any work authorised by paragraphs (1) and (2) of article 5 (power to construct works) and any related works authorised by article 7 (subsidiary works).
 
-### 13. Survey of tidal works[^key-ae771f70f1d36dd8c55216811e211108]
+### 13. Survey of tidal works[^c-ae771f70f1d36dd8c55216811e211108]
 
 The Scottish Ministers may at any time if they deem it expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct the work and any expense incurred by them in such a survey and examination shall be recoverable from CMAL as a debt.
 
-### 14. Provision against danger to navigation[^key-a53277a8b36527b3af4f917dde487105]
+### 14. Provision against danger to navigation[^c-a53277a8b36527b3af4f917dde487105]
 
 (1) In the case of injury to or destruction or decay of a tidal work or any part of it, CMAL shall as soon as reasonably practicable notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If CMAL fails to comply in any respect with the provisions of this article, it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 15. Abatement of works abandoned or decayed[^key-64a98f270e97545ed8f813ca0e888195]
+### 15. Abatement of works abandoned or decayed[^c-64a98f270e97545ed8f813ca0e888195]
 
 (1) Where a tidal work is abandoned or has fallen into decay, the Scottish Ministers may by notice in writing require CMAL at its own expense either to repair and restore the work or any part of it, or to remove the work and restore the site of the tidal work to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
 
@@ -231,19 +231,19 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon CMAL it has failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in this notice and any expenditure incurred by them in so doing shall be recoverable from CMAL as a debt.
 
-### 16. Lights on tidal works during construction[^key-b043e62073837712656ac47819932e79]
+### 16. Lights on tidal works during construction[^c-b043e62073837712656ac47819932e79]
 
 (1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work CMAL shall at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If CMAL fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 17. Permanent lights on tidal works[^key-cedb665a7fa3d31570fc22aa32dcdbd5]
+### 17. Permanent lights on tidal works[^c-cedb665a7fa3d31570fc22aa32dcdbd5]
 
 (1) After completion of a tidal work CMAL shall at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If CMAL fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 18. Period for completion of works[^key-a465a3ee00fd286be2968b4ca979d5c9]
+### 18. Period for completion of works[^c-a465a3ee00fd286be2968b4ca979d5c9]
 
 (1) If the works authorised by paragraphs (1) and (2) of article 5 (power to construct works) are not substantially commenced within five years from the date of the coming into force of this Order or such extended time as the Scottish Ministers may on the application of CMAL allow by consent given in writing, then on the expiration of that period or such extended time (as the case may be) the powers by this Order granted to CMAL for making and maintaining those works shall cease except as to so much of those works as is then substantially commenced.
 
@@ -255,7 +255,7 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 (5) The works shall be deemed to have been substantially commenced for the purposes of paragraph (1) where so much of Work No. 1 has been constructed as will enable other works to be constructed, maintained and managed together with that part of Work No. 1 for the efficient and economic transport of goods or passengers by sea.
 
-### 19. Operational land and land within area of North Ayrshire Council[^key-5ee795b4b62302111a3ee6a166a16103]
+### 19. Operational land and land within area of North Ayrshire Council[^c-5ee795b4b62302111a3ee6a166a16103]
 
 The land situated within the harbour limits shown edged red on the harbour map shall—
 
@@ -264,7 +264,7 @@ The land situated within the harbour limits shown edged red on the harbour map s
 
 ## PART 4 — HARBOUR REGULATION
 
-### 20. General power of CMAL in respect of harbour[^key-febbf41c5f6a3bb37df5de918e4b3673]
+### 20. General power of CMAL in respect of harbour[^c-febbf41c5f6a3bb37df5de918e4b3673]
 
 (1) CMAL may improve, maintain, regulate, manage, mark and light the harbour and provide accommodation and harbour facilities in the harbour.
 
@@ -275,7 +275,7 @@ The land situated within the harbour limits shown edged red on the harbour map s
 
 (3) The powers conferred by this article are without prejudice to any powers of CMAL under or by virtue of any other enactment (including any other provision of this Order).
 
-### 21. Power to appropriate parts of harbour, etc.[^key-f4d872f478e68ce8a1a44bb7e9fed055]
+### 21. Power to appropriate parts of harbour, etc.[^c-f4d872f478e68ce8a1a44bb7e9fed055]
 
 (1) Notwithstanding anything in this or any other statutory provision of local application, CMAL may from time to time set apart or appropriate any part of the harbour, or any lands, works, buildings, machinery, equipment or other property of CMAL in the harbour, for the exclusive, partial or preferential use or accommodation for any particular trade, activity, person, vessel or class of vessels or goods, subject to the payment of such reasonable charges (other than ship, passenger and goods dues) and to such terms and conditions as CMAL thinks fit.
 
@@ -292,19 +292,19 @@ The land situated within the harbour limits shown edged red on the harbour map s
 
 such that CMAL shall not restrict such rights more than is necessary for the purpose for which the part of the harbour is appropriated or set apart.
 
-### 22. Power to lease, etc.[^key-62467851282ba716d0ec3a7051a457d6]
+### 22. Power to lease, etc.[^c-62467851282ba716d0ec3a7051a457d6]
 
 CMAL may at any time lease or grant the use or occupation of, or any right or interest in, over or relating to, any lands, works, buildings, equipment or other property forming part of the harbour for such period or periods and on such terms and conditions as may be agreed between CMAL and the persons taking the same. Any such lease or grant shall be subject to any existing public rights of way affecting the subject area of such lease or grant.
 
-### 23. Power to enter into arrangements to provide supplies[^key-85f15f0dc0039d4b0e1eaf10c667fab9]
+### 23. Power to enter into arrangements to provide supplies[^c-85f15f0dc0039d4b0e1eaf10c667fab9]
 
 CMAL may make arrangements for the purpose of providing and supplying fuel and such other requirements as may be made available to vessels using the harbour and in respect of the supply, laying down and maintaining of pipelines, storage tanks, plants, equipment and other apparatus and the execution of ancillary and necessary works for that purpose within the harbour.
 
-### 24. Parking places[^key-4e3b7b8c54e57c93864bf5938b831ccc]
+### 24. Parking places[^c-4e3b7b8c54e57c93864bf5938b831ccc]
 
 CMAL may provide facilities within the harbour for the parking of vehicles and for that purpose may erect barricades or fencing with related offices, waiting rooms and other conveniences.
 
-### 25. Moorings[^key-41bd904864fc3e453e5e00ba6545d628]
+### 25. Moorings[^c-41bd904864fc3e453e5e00ba6545d628]
 
 (1) CMAL may provide, place, lay down, maintain, renew, use or remove such moorings, buoys and similar apparatus within the harbour as it considers necessary or desirable for the convenience of vessels.
 
@@ -316,7 +316,7 @@ CMAL may provide facilities within the harbour for the parking of vehicles and f
 
 (5) CMAL may charge a reasonable fee for the grant of a licence under this article.
 
-### 26. Restriction of works and dredging[^key-6dc012dafe6de91c4b0eac0c848a7999]
+### 26. Restriction of works and dredging[^c-6dc012dafe6de91c4b0eac0c848a7999]
 
 (1) No person other than CMAL shall in the harbour—
 
@@ -329,7 +329,7 @@ unless that person is licensed to do so, in the case of works by a works licence
 
 (3) CMAL may by notice require a person who contravenes this article to remove, abate or rectify, within a reasonable time specified in the notice, any work, operation or omission to which the contravention relates and to restore the site thereof to its former condition; and if that person fails to comply with the notice CMAL may carry out the works so required and may recover the cost of so doing from that person.
 
-### 27. Licensing of works[^key-474fce07e38cbb1fd8309993d1bdd852]
+### 27. Licensing of works[^c-474fce07e38cbb1fd8309993d1bdd852]
 
 (1) CMAL may upon such terms and conditions as it thinks fit grant to any person a licence to maintain, alter or renew works within a harbour area on, under or over tidal waters or tidal land below the level of high-water, notwithstanding any interference with public rights of navigation or other public rights by such works as maintained, altered or renewed.
 
@@ -349,7 +349,7 @@ unless that person is licensed to do so, in the case of works by a works licence
 
 (7) The grant of a licence under this article has effect for the purposes of article 26 above and confers no other authority for the carrying out of the operations covered by the licence.
 
-### 28. Licensing of dredging[^key-9529846a5f1ace5518b914832e8bd9ee]
+### 28. Licensing of dredging[^c-9529846a5f1ace5518b914832e8bd9ee]
 
 (1) CMAL may upon such terms and conditions as it thinks fit grant to any person a licence to dredge in any part of the harbour.
 
@@ -372,7 +372,7 @@ unless that person is licensed to do so, in the case of works by a works licence
 
 (9) In the execution of any works to which a dredging licence relates the holder of the licence shall not damage or injuriously affect any electrical plant or electric line (as respectively defined in section 64 of the Electricity Act 1989[^f00018]) belonging to or used or maintained by Scottish Power plc or, without the consent of that company, interfere with or adversely affect the operation of any such line or work.
 
-### 29. Appeals in respect of works or dredging licence[^key-99823b7386d2fe8e4fe76526927cae5a]
+### 29. Appeals in respect of works or dredging licence[^c-99823b7386d2fe8e4fe76526927cae5a]
 
 (1) Where CMAL has—
 
@@ -390,7 +390,7 @@ the person aggrieved may within 28 days from the date on which CMAL gives notice
 
 (5) CMAL shall give effect to any decision or requirement given or made by the Scottish Ministers under paragraph (4) above.
 
-### 30. Power to licence tugs[^key-07fcc2ebb504407c183b8cec10b02eee]
+### 30. Power to licence tugs[^c-07fcc2ebb504407c183b8cec10b02eee]
 
 (1) It shall not be lawful for any person, except in an emergency, to operate a vessel exceeding 5 tonnes gross for fee or reward for the purpose of moving or controlling the movement of any other vessel within the harbour except under and in accordance with the terms and conditions of a licence granted by CMAL in that behalf.
 
@@ -398,7 +398,7 @@ the person aggrieved may within 28 days from the date on which CMAL gives notice
 
 (3) Any person who contravenes paragraph (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 31. Power to licence pleasure craft[^key-50f65d42183b6339ccaf7bdae3c48b62]
+### 31. Power to licence pleasure craft[^c-50f65d42183b6339ccaf7bdae3c48b62]
 
 (1) CMAL may grant, upon such terms and conditions as it thinks fit, licences for pleasure craft to be let for hire to the public in the course of trade or business or to be used for carrying passengers for hire within the harbour, and to the boatmen or persons assisting in the charge or navigation of such craft.
 
@@ -423,7 +423,7 @@ the person aggrieved may within 28 days from the date on which CMAL gives notice
 
 (10) In this article “pleasure craft” means any vessel of not more than 100 tonnes gross used wholly or mainly for recreation or for the carriage of passengers for reward and includes pleasure boats.
 
-### 32. Byelaws[^key-afa31d51775284f4e3187bbceb93ff9b]
+### 32. Byelaws[^c-afa31d51775284f4e3187bbceb93ff9b]
 
 (1) CMAL may from time to time make byelaws for the efficient management and regulation of the harbour.
 
@@ -456,7 +456,7 @@ the person aggrieved may within 28 days from the date on which CMAL gives notice
 - (b) relate to the whole of the harbour or to any part of the harbour;
 - (c) make different provisions for different parts of the harbour or in relation to different classes of vessels or vehicles.
 
-### 33. Confirmation of byelaws[^key-6982855cac3fc45f8b35470ea395d362]
+### 33. Confirmation of byelaws[^c-6982855cac3fc45f8b35470ea395d362]
 
 (1) Byelaws made by CMAL under this Order shall not come into operation until they have been confirmed by the Scottish Ministers.
 
@@ -481,13 +481,13 @@ the person aggrieved may within 28 days from the date on which CMAL gives notice
 
 (10) A copy of the byelaws when confirmed shall be printed and deposited by CMAL at the office of the harbour master and shall at all reasonable hours be open to public inspection without payment, and a copy of the byelaws shall on application be furnished to any person on payment of such reasonable sum as CMAL may determine.
 
-### 34. Publication of general directions[^key-e3676572a124e21c5aaace4884c5dd12]
+### 34. Publication of general directions[^c-e3676572a124e21c5aaace4884c5dd12]
 
 (1) Notice of the giving of a general direction and of any amendment or revocation of a general direction shall, except in an emergency, be published by CMAL as soon as practicable once in Lloyd’s List or some other newspaper specialising in shipping news; and if the notice relates to the giving or amendment of a general direction, the notice shall state a place at which copies thereof may be inspected and bought and the price thereof.
 
 (2) In an emergency, notice of the giving of a general direction or the amendment or revocation of a general direction may be given in any manner CMAL consider appropriate.
 
-### 35. Special directions to vessels[^key-c310a13195d177dace7ca927d08a2636]
+### 35. Special directions to vessels[^c-c310a13195d177dace7ca927d08a2636]
 
 (1) The harbour master may give a direction under this article—
 
@@ -501,15 +501,15 @@ the person aggrieved may within 28 days from the date on which CMAL gives notice
 
 (3) The harbour master may revoke or amend a special direction.
 
-### 36. Master’s responsibility to be unaffected[^key-991032aad4b6ec9ebfc0c84c20c3f455]
+### 36. Master’s responsibility to be unaffected[^c-991032aad4b6ec9ebfc0c84c20c3f455]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to that vessel, persons on board, its cargo or any other person or property.
 
-### 37. Failure to comply with special directions[^key-9dd882957929bfb9fe88d275f0da50fb]
+### 37. Failure to comply with special directions[^c-9dd882957929bfb9fe88d275f0da50fb]
 
 The master of a vessel who fails without reasonable excuse to comply with a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 38. Enforcement of special directions[^key-f1257118ab1396ad16f3350154ceedfb]
+### 38. Enforcement of special directions[^c-f1257118ab1396ad16f3350154ceedfb]
 
 (1) Without prejudice to any other remedy available to CMAL, if a special direction is not complied with within a reasonable time, the harbour master may, where practicable, put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -517,7 +517,7 @@ The master of a vessel who fails without reasonable excuse to comply with a spec
 
 (3) Expenses incurred in the exercise of the powers conferred by this article shall be recoverable by CMAL from the owner of the vessel as if they were a charge of CMAL in respect of the vessel.
 
-### 39. Declaration of draught, etc, of vessel[^key-e9da5e3acf800097d205e664a0863cb6]
+### 39. Declaration of draught, etc, of vessel[^c-e9da5e3acf800097d205e664a0863cb6]
 
 (1) The master of a vessel entering, leaving or intending to enter or leave the harbour shall, if required to do so by the harbour master, state the overall length and maximum draught of his vessel.
 
@@ -525,11 +525,11 @@ The master of a vessel who fails without reasonable excuse to comply with a spec
 
 (3) For the purposes of this article “draught” in relation to a hovercraft or hydrofoil vessel means its draught when afloat and not supported on a cushion of air or on foils or by any other means and in relation to a seaplane means its draught when afloat.
 
-### 40. Obstruction of officers, etc[^key-f68d25d35d162dbdaaa8e04bb793f9b0]
+### 40. Obstruction of officers, etc[^c-f68d25d35d162dbdaaa8e04bb793f9b0]
 
 Any person who intentionally obstructs an officer of CMAL or other person acting in execution of this Order or of any enactment relating to the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-### 41. Boarding of vessels[^key-df06207aef11bc051385592be42b839f]
+### 41. Boarding of vessels[^c-df06207aef11bc051385592be42b839f]
 
 Any duly authorised officer of CMAL may, on producing if so required his authority, enter and inspect a vessel in the harbour—
 
@@ -538,13 +538,13 @@ Any duly authorised officer of CMAL may, on producing if so required his authori
 
 but, except in an emergency, no entry shall be made under this article without notice first having been given to the owner or the person appearing to have charge of the vessel; and the notice shall have annexed to is a copy of this article.
 
-### 42. Vessels adrift[^key-98bfb58d2b12db0043fb68f382d5ae7f]
+### 42. Vessels adrift[^c-98bfb58d2b12db0043fb68f382d5ae7f]
 
 (1) The owner or master of a vessel adrift in the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 (2) It shall be a defence for the owner or master of a vessel charged with an offence under paragraph (1) above to prove that the vessel did not become adrift as the result of any neglect or default on his part.
 
-### 43. Removal of obstructions other than vessels, vehicles or wreck[^key-742cf575cf4bd362778875ee6b8b56d8]
+### 43. Removal of obstructions other than vessels, vehicles or wreck[^c-742cf575cf4bd362778875ee6b8b56d8]
 
 (1) Without prejudice to its powers under any enactment (including one contained in this Order) CMAL may remove anything which is causing or likely to become an obstruction or impediment to the proper use of any part of a harbour area other than—
 
@@ -572,7 +572,7 @@ but, except in an emergency, no entry shall be made under this article without n
 
 (7) CMAL shall not under the powers of this article move anything placed or constructed by any person under the provisions of any enactment or of a consent or licence given or issued by CMAL.
 
-### 44. Removal of vehicles[^key-759d07f6238f72132aeeb53d3b8ea737]
+### 44. Removal of vehicles[^c-759d07f6238f72132aeeb53d3b8ea737]
 
 (1) If a vehicle is left without permission of CMAL—
 
@@ -596,7 +596,7 @@ CMAL may cause it to be removed to a place of safe custody.
 - (b) any person by whom it was put in that place;
 - (c) any person convicted of an offence under section 2 of the Refuse Disposal (Amenity) Act 1978[^f00021].
 
-### 45. Power to remove goods[^key-385924f60e3549ccc899b9d03d288154]
+### 45. Power to remove goods[^c-385924f60e3549ccc899b9d03d288154]
 
 (1) If any goods are left on or in any part of the harbour CMAL may require the owner of the goods to remove them; and if the goods are not so removed within six hours after such requirement CMAL may cause them to be removed to CMAL’s or any other public warehouse or store; and such removal shall be carried out at the expense and risk of the owner.
 
@@ -604,7 +604,7 @@ CMAL may cause it to be removed to a place of safe custody.
 
 (3) In this article, “goods” includes vehicles and equipment.
 
-### 46. Defence of due diligence[^key-4afda2f05fdd0e75d463cf5efc5f1c43]
+### 46. Defence of due diligence[^c-4afda2f05fdd0e75d463cf5efc5f1c43]
 
 (1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for CMAL to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
@@ -618,7 +618,7 @@ CMAL may cause it to be removed to a place of safe custody.
 
 ## PART 5 — CHARGES
 
-### 47. Charges[^key-ba97eddf86f28f5312dad69fb4e3bdf6]
+### 47. Charges[^c-ba97eddf86f28f5312dad69fb4e3bdf6]
 
 (1) CMAL may levy charges for any services performed by it in the exercise and performance of its powers and duties at the harbour.
 
@@ -628,7 +628,7 @@ CMAL may cause it to be removed to a place of safe custody.
 
 (4) In this article “charges” means any charges other than ship, passenger and goods dues.
 
-### 48. Liability for charges[^key-13f3ba1f3d48fcbf54dd70287392aba1]
+### 48. Liability for charges[^c-13f3ba1f3d48fcbf54dd70287392aba1]
 
 (1) Charges payable to CMAL on or in respect of—
 
@@ -637,27 +637,27 @@ CMAL may cause it to be removed to a place of safe custody.
 
 (2) Where a charge payable to CMAL may be recovered from more than one person the persons from whom it is recoverable shall be jointly and severally liable.
 
-### 49. Exemptions, rebates, etc. in respect of charges[^key-806f7e4fecfe583b5e2f32a3bd2b5722]
+### 49. Exemptions, rebates, etc. in respect of charges[^c-806f7e4fecfe583b5e2f32a3bd2b5722]
 
 (1) CMAL may confer total or partial exemptions from, allow rebates to or make compositions with any person with respect to charges and may vary or extinguish any such exemption or composition.
 
 (2) Nothing in section 30 of the 1964 Act shall require CMAL to include in the list of ship, passenger and goods dues kept at the harbour office as required by subsection (1) of that section, charges reduced by a rebate allowed on, or subject to a compounding arrangement in respect of, a due included in that list.
 
-### 50. Security for Charges[^key-71d820e29b988854b84bb2158e663b1c]
+### 50. Security for Charges[^c-71d820e29b988854b84bb2158e663b1c]
 
 CMAL may require a person who incurs or is about to incur a charge to deposit with, or to guarantee, such sum of money as is, in the opinion of CMAL, reasonable having regard to the amount or probable amount of the charge, and where such a person fails to despot or guarantee the sum of money required by CMAL, CMAL may detain the vessel in the harbour or goods on or in harbour, in respect of which the charge has been or will be incurred, until the requirement has been complied with or the charge paid.
 
-### 51. Liens for charges[^key-39d5d9eb386a1bdddcfb9bdb78ffc636]
+### 51. Liens for charges[^c-39d5d9eb386a1bdddcfb9bdb78ffc636]
 
 (1) A person, who by agreement with CMAL collects charges on its behalf and who pays or gives security for the payment of charges on goods in that person’s possession shall have a lien on those goods for the amount paid or security given in respect thereof.
 
 (2) A wharfinger or carrier who is not itself liable for the payment of charges may pay or by agreement with CMAL give security for charges on goods in its custody, and in that event it shall have a like lien on the goods for the amount of those charges as it would have in respect of its charges for safe custody or carriage of the goods, as the case may be.
 
-### 52. Refusal to pay charges for landing place, etc.[^key-6c70dd7627e7a1f460ed299831c4cd03]
+### 52. Refusal to pay charges for landing place, etc.[^c-6c70dd7627e7a1f460ed299831c4cd03]
 
 An officer of CMAL may prevent a vessel from using a landing place or any other facilities provided by CMAL, if the master of the vessel refuses to pay the charges for such use.
 
-### 53. Exemptions from charges[^key-a4e76edf18a3d42e3514e180f3291282]
+### 53. Exemptions from charges[^c-a4e76edf18a3d42e3514e180f3291282]
 
 (1) Except insofar as may be agreed between CMAL and the government department or person concerned or as may be specifically laid down by statue, nothing in any enactment authorising CMAL to levy charges shall extent to authorise them to levy charges on—
 
@@ -672,7 +672,7 @@ An officer of CMAL may prevent a vessel from using a landing place or any other 
 
 (3) This Order shall not extend to subject any person to liability for charges in respect of a vessel which merely passes through the limits of the harbour without mooring or making use of any facilities provided by CMAL.
 
-### 54. Conditions as to payment of charges[^key-c7710ff92ed95ef34b0a82e342efe43e]
+### 54. Conditions as to payment of charges[^c-c7710ff92ed95ef34b0a82e342efe43e]
 
 (1) Charges shall be payable subject to such terms and conditions as CMAL may from time to time specify in its published list of charges.
 
@@ -680,27 +680,27 @@ An officer of CMAL may prevent a vessel from using a landing place or any other 
 
 ## PART 6 — MISCELLANEOUS AND GENERAL
 
-### 55. Saving for Commissioners of Northern Lighthouses[^key-f8754e8ea2448bc4b7886682940a4b2b]
+### 55. Saving for Commissioners of Northern Lighthouses[^c-f8754e8ea2448bc4b7886682940a4b2b]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-### 56. Saving for other consents etc.[^key-4ba2dd7b04800fdfe48872f9ab0fa902]
+### 56. Saving for other consents etc.[^c-4ba2dd7b04800fdfe48872f9ab0fa902]
 
 The carrying out of any works or operations pursuant to this Order is subject to CMAL obtaining any consent, permission or licence required under any other enactment.
 
-### 57. Crown rights[^key-cd6ee705dcdd385188b141986e58fca9]
+### 57. Crown rights[^c-cd6ee705dcdd385188b141986e58fca9]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises CMAL or any licensee to take, use, enter upon or in any manner interfere with any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
 - (a) belonging to Her Majesty in right of the Crown and forming part of the Crown estate without the consent in writing of the Crown Estate Commissioners;
-- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown estate without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person[^key-60f37403e7d88eb8f1c6333d68c1af51]; or
+- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown estate without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person[^c-60f37403e7d88eb8f1c6333d68c1af51]; or
 - (c) belonging to a government department or held in trust for Her Majesty for the purposes of a government department without the consent in writing of that government department.
 
-(1A)[^key-0041bae55230aa218631c880718f4f0e] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(1A)[^c-0041bae55230aa218631c880718f4f0e] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and shall be deemed to have been given in writing where it is sent electronically.
 
-### 58. Repeals[^key-345a509a46febfc17c8b732143916151]
+### 58. Repeals[^c-345a509a46febfc17c8b732143916151]
 
 The Acts specified in Columns (1) and (2) of Schedule 2 to this Order are hereby repealed to the extent specified in Column (3) of that Schedule.
 
@@ -714,13 +714,13 @@ Edinburgh
 
 13th January 2015
 
-## SCHEDULE 1 — HARBOUR LIMITS[^key-4a2e5c8101ca62db38fabbce8e132ac2]
+## SCHEDULE 1 — HARBOUR LIMITS[^c-4a2e5c8101ca62db38fabbce8e132ac2]
 
 Article 4
 
 ### Harbour Limits
 
-[^key-4a2e5c8101ca62db38fabbce8e132ac2]
+[^c-4a2e5c8101ca62db38fabbce8e132ac2]
 
 The area identified as “Limits” by the legend on the harbour map bounded as follows:
 
@@ -741,13 +741,13 @@ The points referred to above are as detailed in the table below.
 | 9 | 202146E | 635883N |
 | 10 | 202135E | 635883N |
 
-## SCHEDULE 2 — HARBOUR MAP[^key-b98eb4d9ce964641df44bb79e1ac2393]
+## SCHEDULE 2 — HARBOUR MAP[^c-b98eb4d9ce964641df44bb79e1ac2393]
 
 Article 4
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/6/images/ssi_20150006_en_001)
 
-## SCHEDULE 3 — ENACTMENTS REPEALED[^key-a057db48fd548ee2be98f5b2daec4d9d]
+## SCHEDULE 3 — ENACTMENTS REPEALED[^c-a057db48fd548ee2be98f5b2daec4d9d]
 
 Article 58
 
@@ -849,9 +849,9 @@ Schedule 3 details the extent of repeals by virtue of article 58.
 
 [^f00009]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
 
-[^key-7ca817848d4c3c81c2e2cd55e507c05a]: Commencement: Art. 1 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-7ca817848d4c3c81c2e2cd55e507c05a]: Commencement: Art. 1 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-db2a999c40c0d91ded2397cb573651b8]: Commencement: Art. 2 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-db2a999c40c0d91ded2397cb573651b8]: Commencement: Art. 2 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
 [^f00010]: Footnote: [1847 c.27](https://www.legislation.gov.uk/ukpga/1847/27)
 
@@ -867,134 +867,134 @@ Schedule 3 details the extent of repeals by virtue of article 58.
 
 [^f00016]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-943b535db952f77cbf9bef457f75ca78]: Commencement: Art. 3 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-943b535db952f77cbf9bef457f75ca78]: Commencement: Art. 3 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-e65f71896ca1d9c598feb859e26ce643]: Commencement: Art. 4 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-e65f71896ca1d9c598feb859e26ce643]: Commencement: Art. 4 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-dea5dc322d339cc08eccabd002ff50c9]: Commencement: Art. 5 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-dea5dc322d339cc08eccabd002ff50c9]: Commencement: Art. 5 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-138328245c3bf354ba844bf16437bc1f]: Commencement: Art. 6 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-138328245c3bf354ba844bf16437bc1f]: Commencement: Art. 6 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-6401fb7ca6ef33df73911e1bab444daa]: Commencement: Art. 7 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-6401fb7ca6ef33df73911e1bab444daa]: Commencement: Art. 7 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-3eaba5bc65715902b69a3f314aec779c]: Commencement: Art. 8 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-3eaba5bc65715902b69a3f314aec779c]: Commencement: Art. 8 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-a5f197b07ad155014af205a5dd15f4c0]: Commencement: Art. 9 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-a5f197b07ad155014af205a5dd15f4c0]: Commencement: Art. 9 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-8b6d50abc9798097b0497920ec526e6f]: Commencement: Art. 10 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-8b6d50abc9798097b0497920ec526e6f]: Commencement: Art. 10 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-ca3ed0118d672c4489c28552f1f1b59c]: Commencement: Art. 11 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-ca3ed0118d672c4489c28552f1f1b59c]: Commencement: Art. 11 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-f0ebded9c84cb8ff55baefeba8988260]: Commencement: Art. 12 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-f0ebded9c84cb8ff55baefeba8988260]: Commencement: Art. 12 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-ae771f70f1d36dd8c55216811e211108]: Commencement: Art. 13 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-ae771f70f1d36dd8c55216811e211108]: Commencement: Art. 13 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-a53277a8b36527b3af4f917dde487105]: Commencement: Art. 14 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-a53277a8b36527b3af4f917dde487105]: Commencement: Art. 14 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-64a98f270e97545ed8f813ca0e888195]: Commencement: Art. 15 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-64a98f270e97545ed8f813ca0e888195]: Commencement: Art. 15 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-b043e62073837712656ac47819932e79]: Commencement: Art. 16 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-b043e62073837712656ac47819932e79]: Commencement: Art. 16 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-cedb665a7fa3d31570fc22aa32dcdbd5]: Commencement: Art. 17 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-cedb665a7fa3d31570fc22aa32dcdbd5]: Commencement: Art. 17 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-a465a3ee00fd286be2968b4ca979d5c9]: Commencement: Art. 18 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-a465a3ee00fd286be2968b4ca979d5c9]: Commencement: Art. 18 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-5ee795b4b62302111a3ee6a166a16103]: Commencement: Art. 19 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-5ee795b4b62302111a3ee6a166a16103]: Commencement: Art. 19 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
 [^f00017]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8); “operational land” is defined in section 215, to which there are amendments not relevant to this Order, which section is subject to section 216.
 
-[^key-febbf41c5f6a3bb37df5de918e4b3673]: Commencement: Art. 20 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-febbf41c5f6a3bb37df5de918e4b3673]: Commencement: Art. 20 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-f4d872f478e68ce8a1a44bb7e9fed055]: Commencement: Art. 21 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-f4d872f478e68ce8a1a44bb7e9fed055]: Commencement: Art. 21 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-62467851282ba716d0ec3a7051a457d6]: Commencement: Art. 22 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-62467851282ba716d0ec3a7051a457d6]: Commencement: Art. 22 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-85f15f0dc0039d4b0e1eaf10c667fab9]: Commencement: Art. 23 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-85f15f0dc0039d4b0e1eaf10c667fab9]: Commencement: Art. 23 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-4e3b7b8c54e57c93864bf5938b831ccc]: Commencement: Art. 24 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-4e3b7b8c54e57c93864bf5938b831ccc]: Commencement: Art. 24 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-41bd904864fc3e453e5e00ba6545d628]: Commencement: Art. 25 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-41bd904864fc3e453e5e00ba6545d628]: Commencement: Art. 25 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-6dc012dafe6de91c4b0eac0c848a7999]: Commencement: Art. 26 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-6dc012dafe6de91c4b0eac0c848a7999]: Commencement: Art. 26 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-474fce07e38cbb1fd8309993d1bdd852]: Commencement: Art. 27 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-474fce07e38cbb1fd8309993d1bdd852]: Commencement: Art. 27 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-9529846a5f1ace5518b914832e8bd9ee]: Commencement: Art. 28 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-9529846a5f1ace5518b914832e8bd9ee]: Commencement: Art. 28 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
 [^f00018]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-99823b7386d2fe8e4fe76526927cae5a]: Commencement: Art. 29 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-99823b7386d2fe8e4fe76526927cae5a]: Commencement: Art. 29 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-07fcc2ebb504407c183b8cec10b02eee]: Commencement: Art. 30 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-07fcc2ebb504407c183b8cec10b02eee]: Commencement: Art. 30 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-50f65d42183b6339ccaf7bdae3c48b62]: Commencement: Art. 31 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-50f65d42183b6339ccaf7bdae3c48b62]: Commencement: Art. 31 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
 [^f00019]: Footnote: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-afa31d51775284f4e3187bbceb93ff9b]: Commencement: Art. 32 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-afa31d51775284f4e3187bbceb93ff9b]: Commencement: Art. 32 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-6982855cac3fc45f8b35470ea395d362]: Commencement: Art. 33 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-6982855cac3fc45f8b35470ea395d362]: Commencement: Art. 33 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-e3676572a124e21c5aaace4884c5dd12]: Commencement: Art. 34 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-e3676572a124e21c5aaace4884c5dd12]: Commencement: Art. 34 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-c310a13195d177dace7ca927d08a2636]: Commencement: Art. 35 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-c310a13195d177dace7ca927d08a2636]: Commencement: Art. 35 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-991032aad4b6ec9ebfc0c84c20c3f455]: Commencement: Art. 36 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-991032aad4b6ec9ebfc0c84c20c3f455]: Commencement: Art. 36 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-9dd882957929bfb9fe88d275f0da50fb]: Commencement: Art. 37 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-9dd882957929bfb9fe88d275f0da50fb]: Commencement: Art. 37 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-f1257118ab1396ad16f3350154ceedfb]: Commencement: Art. 38 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-f1257118ab1396ad16f3350154ceedfb]: Commencement: Art. 38 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-e9da5e3acf800097d205e664a0863cb6]: Commencement: Art. 39 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-e9da5e3acf800097d205e664a0863cb6]: Commencement: Art. 39 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-f68d25d35d162dbdaaa8e04bb793f9b0]: Commencement: Art. 40 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-f68d25d35d162dbdaaa8e04bb793f9b0]: Commencement: Art. 40 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-df06207aef11bc051385592be42b839f]: Commencement: Art. 41 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-df06207aef11bc051385592be42b839f]: Commencement: Art. 41 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-98bfb58d2b12db0043fb68f382d5ae7f]: Commencement: Art. 42 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-98bfb58d2b12db0043fb68f382d5ae7f]: Commencement: Art. 42 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-742cf575cf4bd362778875ee6b8b56d8]: Commencement: Art. 43 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-742cf575cf4bd362778875ee6b8b56d8]: Commencement: Art. 43 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-759d07f6238f72132aeeb53d3b8ea737]: Commencement: Art. 44 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-759d07f6238f72132aeeb53d3b8ea737]: Commencement: Art. 44 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
 [^f00020]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742)
 
 [^f00021]: Footnote: [1978 c.3](https://www.legislation.gov.uk/ukpga/1978/3).
 
-[^key-385924f60e3549ccc899b9d03d288154]: Commencement: Art. 45 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-385924f60e3549ccc899b9d03d288154]: Commencement: Art. 45 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-4afda2f05fdd0e75d463cf5efc5f1c43]: Commencement: Art. 46 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-4afda2f05fdd0e75d463cf5efc5f1c43]: Commencement: Art. 46 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-ba97eddf86f28f5312dad69fb4e3bdf6]: Commencement: Art. 47 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-ba97eddf86f28f5312dad69fb4e3bdf6]: Commencement: Art. 47 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-13f3ba1f3d48fcbf54dd70287392aba1]: Commencement: Art. 48 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-13f3ba1f3d48fcbf54dd70287392aba1]: Commencement: Art. 48 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-806f7e4fecfe583b5e2f32a3bd2b5722]: Commencement: Art. 49 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-806f7e4fecfe583b5e2f32a3bd2b5722]: Commencement: Art. 49 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-71d820e29b988854b84bb2158e663b1c]: Commencement: Art. 50 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-71d820e29b988854b84bb2158e663b1c]: Commencement: Art. 50 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-39d5d9eb386a1bdddcfb9bdb78ffc636]: Commencement: Art. 51 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-39d5d9eb386a1bdddcfb9bdb78ffc636]: Commencement: Art. 51 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-6c70dd7627e7a1f460ed299831c4cd03]: Commencement: Art. 52 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-6c70dd7627e7a1f460ed299831c4cd03]: Commencement: Art. 52 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-a4e76edf18a3d42e3514e180f3291282]: Commencement: Art. 53 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-a4e76edf18a3d42e3514e180f3291282]: Commencement: Art. 53 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-c7710ff92ed95ef34b0a82e342efe43e]: Commencement: Art. 54 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-c7710ff92ed95ef34b0a82e342efe43e]: Commencement: Art. 54 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-f8754e8ea2448bc4b7886682940a4b2b]: Commencement: Art. 55 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-f8754e8ea2448bc4b7886682940a4b2b]: Commencement: Art. 55 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-4ba2dd7b04800fdfe48872f9ab0fa902]: Commencement: Art. 56 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-4ba2dd7b04800fdfe48872f9ab0fa902]: Commencement: Art. 56 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-cd6ee705dcdd385188b141986e58fca9]: Commencement: Art. 57 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-cd6ee705dcdd385188b141986e58fca9]: Commencement: Art. 57 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-60f37403e7d88eb8f1c6333d68c1af51]: Textual amendment: Words in [art. 57(1)(b)](https://www.legislation.gov.uk/ssi/2015/6/article/57/1/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 134(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/134/a)
+[^c-60f37403e7d88eb8f1c6333d68c1af51]: Textual amendment: Words in [art. 57(1)(b)](https://www.legislation.gov.uk/ssi/2015/6/article/57/1/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 134(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/134/a)
 
-[^key-0041bae55230aa218631c880718f4f0e]: Textual amendment: [Art. 57(1A)](https://www.legislation.gov.uk/ssi/2015/6/article/57/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 134(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/134/b)
+[^c-0041bae55230aa218631c880718f4f0e]: Textual amendment: [Art. 57(1A)](https://www.legislation.gov.uk/ssi/2015/6/article/57/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 134(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/134/b)
 
-[^key-345a509a46febfc17c8b732143916151]: Commencement: Art. 58 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-345a509a46febfc17c8b732143916151]: Commencement: Art. 58 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-4a2e5c8101ca62db38fabbce8e132ac2]: Commencement: Sch. 1 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-4a2e5c8101ca62db38fabbce8e132ac2]: Commencement: Sch. 1 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-b98eb4d9ce964641df44bb79e1ac2393]: Commencement: Sch. 2 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-b98eb4d9ce964641df44bb79e1ac2393]: Commencement: Sch. 2 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
 
-[^key-a057db48fd548ee2be98f5b2daec4d9d]: Commencement: Sch. 3 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)
+[^c-a057db48fd548ee2be98f5b2daec4d9d]: Commencement: Sch. 3 in force at 14.1.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/6/article/1)

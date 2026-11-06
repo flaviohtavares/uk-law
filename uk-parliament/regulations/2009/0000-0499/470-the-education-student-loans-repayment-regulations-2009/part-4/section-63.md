@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Interest on unpaid repayments which have been formally determined[^key-8507184797fd20d17e9d95e1d28ee650]
+## 63. Interest on unpaid repayments which have been formally determined[^c-8507184797fd20d17e9d95e1d28ee650]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-7fd3955a7852869714a7f7e609aa4108] Subject to paragraph (1A), where—
+(1)[^c-7fd3955a7852869714a7f7e609aa4108] Subject to paragraph (1A), where—
 
 - (a) an employer has not paid an amount of repayments to HMRC under regulation 54;
 - (b) HMRC makes a determination of the amount of such repayments under regulation 62; and
@@ -37,6 +37,6 @@ those repayments will carry interest at the applicable rate under section 103 of
 
 ## Annotations
 
-[^key-8507184797fd20d17e9d95e1d28ee650]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2009/470/regulation/63) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-8507184797fd20d17e9d95e1d28ee650]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2009/470/regulation/63) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-7fd3955a7852869714a7f7e609aa4108]: Textual amendment: [Reg. 63(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/63/1)[(1A)](https://www.legislation.gov.uk/uksi/2009/470/regulation/63/1A) substituted for [reg. 63(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/63/1) (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2014 (S.I. 2014/651)](https://www.legislation.gov.uk/uksi/2014/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/651/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/651/regulation/10)
+[^c-7fd3955a7852869714a7f7e609aa4108]: Textual amendment: [Reg. 63(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/63/1)[(1A)](https://www.legislation.gov.uk/uksi/2009/470/regulation/63/1A) substituted for [reg. 63(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/63/1) (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2014 (S.I. 2014/651)](https://www.legislation.gov.uk/uksi/2014/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/651/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/651/regulation/10)

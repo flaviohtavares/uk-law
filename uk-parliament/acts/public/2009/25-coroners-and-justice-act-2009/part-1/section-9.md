@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Determinations and findings by jury[^key-2c85fb07657a269da71792dec7274865]
+## 9. Determinations and findings by jury[^c-2c85fb07657a269da71792dec7274865]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Before accepting a determination or finding not agreed on by all the members of 
 
 ## Annotations
 
-[^key-2c85fb07657a269da71792dec7274865]: Commencement: S. 9 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-2c85fb07657a269da71792dec7274865]: Commencement: S. 9 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

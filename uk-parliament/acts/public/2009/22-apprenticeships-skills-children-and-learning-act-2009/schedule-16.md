@@ -22,7 +22,7 @@ summary: ''
 
 Section 266
 
-### Part 1 — Local authority functions[^key-b5053f5aa9beeaffd03533f1b10256db][^key-539a148a152b679b0b2f5402f58a05e0]
+### Part 1 — Local authority functions[^c-b5053f5aa9beeaffd03533f1b10256db][^c-539a148a152b679b0b2f5402f58a05e0]
 
 <table>
 <tbody>
@@ -34,7 +34,7 @@ Section 266
 </tbody>
 </table>
 
-### Part 2 — Dissolution of the LSC[^key-b9b35dc1f83f229406becc616fc74e7b]
+### Part 2 — Dissolution of the LSC[^c-b9b35dc1f83f229406becc616fc74e7b]
 
 <table>
 <tbody>
@@ -61,13 +61,13 @@ Section 266
 </tbody>
 </table>
 
-### Part 3 — Sixth form college sector[^key-e8224714dd79dc56c73352ac5ff48836]
+### Part 3 — Sixth form college sector[^c-e8224714dd79dc56c73352ac5ff48836]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
 | Education and Inspections Act 2006 | Section 11(1)(b) and (2)(a). |
 
-### Part 4 — Ofqual and the QCDA[^key-da6236f87921f69ab44b810baed3a4e2][^key-bd9565bf7fb023098dd7bf2c95f6c936][^key-3a6d5756cf1520aee2c8a58e5135a3a1]
+### Part 4 — Ofqual and the QCDA[^c-da6236f87921f69ab44b810baed3a4e2][^c-bd9565bf7fb023098dd7bf2c95f6c936][^c-3a6d5756cf1520aee2c8a58e5135a3a1]
 
 <table>
 <tbody>
@@ -102,13 +102,13 @@ Section 266
 </tbody>
 </table>
 
-### Part 5 — Co-operation to improve well-being of children[^key-c0e79accc95fc37f883b9b119b5c6310][^key-a16bd235add2723caeb1af83b5dda25f]
+### Part 5 — Co-operation to improve well-being of children[^c-c0e79accc95fc37f883b9b119b5c6310][^c-a16bd235add2723caeb1af83b5dda25f]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
 | Children Act 2004 (c. 31) | In section 10—<br>- (a) subsection (4)(g);<br>- (b) subsections (6) and (7). |
 
-### Part 6 — Schools causing concern[^key-ce818bf33576357a3287a17934b0446a]
+### Part 6 — Schools causing concern[^c-ce818bf33576357a3287a17934b0446a]
 
 <table>
 <tbody>
@@ -118,24 +118,24 @@ Section 266
 </tbody>
 </table>
 
-### Part 7 — Complaints[^key-68ce7886554d6687259640f7e9f3940f]
+### Part 7 — Complaints[^c-68ce7886554d6687259640f7e9f3940f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 8 — School inspections[^key-6bde6fb9a6f3381538224ede77753eb7]
+### Part 8 — School inspections[^c-6bde6fb9a6f3381538224ede77753eb7]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
 | Education and Inspections Act 2006 (c. 40) | In Schedule 12—<br>- (a) in paragraph 9(1), the word “or” at the end of paragraph (b);<br>- (b) in paragraph 10(1), the word “or” at the end of paragraph (b). |
 
-### Part 9 — Information about local authority expenditure[^key-fbe29a890ad874e880f663626bf52023]
+### Part 9 — Information about local authority expenditure[^c-fbe29a890ad874e880f663626bf52023]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
 | School Standards and Framework Act 1998 (c. 31) | Section 53. |
 | Public Audit (Wales) Act 2004 (c. 23) | In Schedule 2, paragraph 40. |
 
-### Part 10 — Support for participation in education and training[^key-dcbc3c4994a47f1306bd71c3ee15537d]
+### Part 10 — Support for participation in education and training[^c-dcbc3c4994a47f1306bd71c3ee15537d]
 
 <table>
 <tbody>
@@ -146,7 +146,7 @@ Section 266
 </tbody>
 </table>
 
-### Part 11 — Foundation degrees: Wales[^key-bb65da4ea8efef2f5b06bd65bafdbda7]
+### Part 11 — Foundation degrees: Wales[^c-bb65da4ea8efef2f5b06bd65bafdbda7]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
@@ -156,32 +156,32 @@ Section 266
 
 [^c2002901]: Commencement: Sch. 16 partly in force; Sch. 16 in force for specified purposes at 12.1.2010 see s. 269(2)
 
-[^key-b5053f5aa9beeaffd03533f1b10256db]: Commencement: Sch. 16 Pt. 1 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-b5053f5aa9beeaffd03533f1b10256db]: Commencement: Sch. 16 Pt. 1 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-b9b35dc1f83f229406becc616fc74e7b]: Commencement: Sch. 16 Pt. 2 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9), [13](https://www.legislation.gov.uk/uksi/2010/303/article/13), [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-b9b35dc1f83f229406becc616fc74e7b]: Commencement: Sch. 16 Pt. 2 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9), [13](https://www.legislation.gov.uk/uksi/2010/303/article/13), [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
 
-[^key-e8224714dd79dc56c73352ac5ff48836]: Commencement: Sch. 16 Pt. 3 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-e8224714dd79dc56c73352ac5ff48836]: Commencement: Sch. 16 Pt. 3 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-da6236f87921f69ab44b810baed3a4e2]: Commencement: Sch. 16 Pt. 4 in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-da6236f87921f69ab44b810baed3a4e2]: Commencement: Sch. 16 Pt. 4 in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-bd9565bf7fb023098dd7bf2c95f6c936]: Commencement: Sch. 16 Pt. 4 in force at 1.11.2010 for specified purposes by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), art. 2(a)(b) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))
+[^c-bd9565bf7fb023098dd7bf2c95f6c936]: Commencement: Sch. 16 Pt. 4 in force at 1.11.2010 for specified purposes by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), art. 2(a)(b) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))
 
-[^key-3a6d5756cf1520aee2c8a58e5135a3a1]: Commencement: Sch. 16 Pt. 4 in force at 31.5.2013 for specified purposes by [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/975/article/2/c)
+[^c-3a6d5756cf1520aee2c8a58e5135a3a1]: Commencement: Sch. 16 Pt. 4 in force at 31.5.2013 for specified purposes by [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/975/article/2/c)
 
-[^key-c0e79accc95fc37f883b9b119b5c6310]: Commencement: Sch. 16 Pt. 5 in force at 12.1.2010 for specified purposes by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-c0e79accc95fc37f883b9b119b5c6310]: Commencement: Sch. 16 Pt. 5 in force at 12.1.2010 for specified purposes by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-a16bd235add2723caeb1af83b5dda25f]: Commencement: Sch. 16 Pt. 5 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-a16bd235add2723caeb1af83b5dda25f]: Commencement: Sch. 16 Pt. 5 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-ce818bf33576357a3287a17934b0446a]: Commencement: Sch. 16 Pt. 6 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-ce818bf33576357a3287a17934b0446a]: Commencement: Sch. 16 Pt. 6 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-68ce7886554d6687259640f7e9f3940f]: Textual amendment: Sch. 16 Pt. 7 omitted (1.8.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 45(2)(g)](https://www.legislation.gov.uk/ukpga/2011/21/section/45/2/g), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 2](https://www.legislation.gov.uk/uksi/2012/1087/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1087/article/6))
+[^c-68ce7886554d6687259640f7e9f3940f]: Textual amendment: Sch. 16 Pt. 7 omitted (1.8.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 45(2)(g)](https://www.legislation.gov.uk/ukpga/2011/21/section/45/2/g), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 2](https://www.legislation.gov.uk/uksi/2012/1087/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1087/article/6))
 
-[^key-6bde6fb9a6f3381538224ede77753eb7]: Commencement: Sch. 16 Pt. 8 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-6bde6fb9a6f3381538224ede77753eb7]: Commencement: Sch. 16 Pt. 8 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-fbe29a890ad874e880f663626bf52023]: Commencement: Sch. 16 Pt. 9 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-fbe29a890ad874e880f663626bf52023]: Commencement: Sch. 16 Pt. 9 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-dcbc3c4994a47f1306bd71c3ee15537d]: Commencement: Sch. 16 Pt. 10 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-dcbc3c4994a47f1306bd71c3ee15537d]: Commencement: Sch. 16 Pt. 10 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-bb65da4ea8efef2f5b06bd65bafdbda7]: Commencement: Sch. 16 Pt. 11 in force at 1.10.2010 by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/d) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))
+[^c-bb65da4ea8efef2f5b06bd65bafdbda7]: Commencement: Sch. 16 Pt. 11 in force at 1.10.2010 by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/d) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))

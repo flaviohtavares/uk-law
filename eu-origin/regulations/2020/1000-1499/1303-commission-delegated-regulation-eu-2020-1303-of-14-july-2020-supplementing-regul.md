@@ -35,40 +35,40 @@ supplementing Regulation (EU) No 648/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-de790ea1846e9ec7ff3f3c043c128bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de790ea1846e9ec7ff3f3c043c128bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. The nature, size and complexity of the CCP’s business[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 1. The nature, size and complexity of the CCP’s business[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. The effect of failure of or a disruption to a CCP[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 2. The effect of failure of or a disruption to a CCP[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. The CCP’s clearing membership structure[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 3. The CCP’s clearing membership structure[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Alternative clearing services provided by other CCPs[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 4. Alternative clearing services provided by other CCPs[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. The CCP’s relationship, interdependencies, or other interactions[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 5. The CCP’s relationship, interdependencies, or other interactions[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Indicators of minimum exposure of clearing members and clients established in the Union to the CCP[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 6. Indicators of minimum exposure of clearing members and clients established in the Union to the CCP[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-de790ea1846e9ec7ff3f3c043c128bdb]
+## Article 7. Entry into force[^c-de790ea1846e9ec7ff3f3c043c128bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de790ea1846e9ec7ff3f3c043c128bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de790ea1846e9ec7ff3f3c043c128bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de790ea1846e9ec7ff3f3c043c128bdb]: Textual amendment: Regulation revoked (31.12.2020) by virtue of S.I. 2018/1184, reg. 9A (as inserted by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/3))
+[^c-de790ea1846e9ec7ff3f3c043c128bdb]: Textual amendment: Regulation revoked (31.12.2020) by virtue of S.I. 2018/1184, reg. 9A (as inserted by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/3))

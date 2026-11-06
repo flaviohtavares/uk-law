@@ -34,7 +34,7 @@ Taxes
 
 Tonnage Tax
 
-The Tonnage Tax (Training Requirement) (Amendment) Regulations 2014 (revoked)[^key-6aafc8063dd1bec43aea2bd0197ce09f]
+The Tonnage Tax (Training Requirement) (Amendment) Regulations 2014 (revoked)[^c-6aafc8063dd1bec43aea2bd0197ce09f]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st October 2014
 
-[^key-6aafc8063dd1bec43aea2bd0197ce09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6aafc8063dd1bec43aea2bd0197ce09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6aafc8063dd1bec43aea2bd0197ce09f]
+## 1. Citation and commencement[^c-6aafc8063dd1bec43aea2bd0197ce09f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-6aafc8063dd1bec43aea2bd0197ce09f]
+## 2. Application[^c-6aafc8063dd1bec43aea2bd0197ce09f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2000 Regulations[^key-6aafc8063dd1bec43aea2bd0197ce09f]
+## 3. Amendment of the 2000 Regulations[^c-6aafc8063dd1bec43aea2bd0197ce09f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6aafc8063dd1bec43aea2bd0197ce09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6aafc8063dd1bec43aea2bd0197ce09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6aafc8063dd1bec43aea2bd0197ce09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6aafc8063dd1bec43aea2bd0197ce09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6aafc8063dd1bec43aea2bd0197ce09f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2394) revoked (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1607)](https://www.legislation.gov.uk/uksi/2015/1607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1607/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/1607/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1607/regulation/2))
+[^c-6aafc8063dd1bec43aea2bd0197ce09f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2394) revoked (1.10.2015) by [The Tonnage Tax (Training Requirement) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1607)](https://www.legislation.gov.uk/uksi/2015/1607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1607/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/1607/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1607/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Prescribed descriptions of material and particulars and information to be contained in the statutory statement[^key-e092e8d84b0daccb44fec567ddecba6d]
+## 5. Prescribed descriptions of material and particulars and information to be contained in the statutory statement[^c-e092e8d84b0daccb44fec567ddecba6d]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The descriptions of material prescribed for the purposes of sections 68(1) and 6
 
 ## Annotations
 
-[^key-e092e8d84b0daccb44fec567ddecba6d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1991/2197/regulation/5) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-e092e8d84b0daccb44fec567ddecba6d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1991/2197/regulation/5) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)

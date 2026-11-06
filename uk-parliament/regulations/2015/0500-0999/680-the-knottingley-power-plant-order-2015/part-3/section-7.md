@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Benefit of the Order[^key-b4cba59e956db6e2f30293565ddad226]
+## 7. Benefit of the Order[^c-b4cba59e956db6e2f30293565ddad226]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ except where paragraph (5) applies in which case no such consent is required.
 
 ## Annotations
 
-[^key-b4cba59e956db6e2f30293565ddad226]: Commencement: Art. 7 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-b4cba59e956db6e2f30293565ddad226]: Commencement: Art. 7 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
 [^f00011]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by section 30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), and section 6(10) amended by section 89(3) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). There are other amendments to this section that are not relevant to this Order.
 

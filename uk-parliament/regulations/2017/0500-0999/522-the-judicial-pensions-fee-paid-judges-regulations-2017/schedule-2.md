@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Accrual rates for pension calculations under Part 2B[^key-96e2acce246fe2c6df7a969a045924a5]
+## SCHEDULE 2 — Accrual rates for pension calculations under Part 2B[^c-96e2acce246fe2c6df7a969a045924a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ Accrual factors for offices included in Table 3 of Schedule 1
 
 ## Annotations
 
-[^key-96e2acce246fe2c6df7a969a045924a5]: Textual amendment: Schs. 1-3 substituted for Sch. (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2023/403/regulation/66)
+[^c-96e2acce246fe2c6df7a969a045924a5]: Textual amendment: Schs. 1-3 substituted for Sch. (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2023/403/regulation/66)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Rounded figures for earnings trigger and qualifying earnings band[^c21291301][^key-d8597ce4cecce58c2f1cf86990df0367]
+## 10. Rounded figures for earnings trigger and qualifying earnings band[^c21291301][^c-d8597ce4cecce58c2f1cf86990df0367]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ After section 15 of the Pensions (No. 2) Act (Northern Ireland) 2008 insert—
 
 [^c21291301]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2012/3/section/10) partly in operation; [s. 10](https://www.legislation.gov.uk/nia/2012/3/section/10) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-d8597ce4cecce58c2f1cf86990df0367]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2012/3/section/10) in operation at 7.6.2012 in so far as not already in operation by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/a)
+[^c-d8597ce4cecce58c2f1cf86990df0367]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2012/3/section/10) in operation at 7.6.2012 in so far as not already in operation by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/a)

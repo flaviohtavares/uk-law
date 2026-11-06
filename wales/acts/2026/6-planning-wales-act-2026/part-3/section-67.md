@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Grant or refusal of planning permission and imposition of conditions[^key-f6444cc3c99a248c5edeec5b6e97163c]
+## 67. Grant or refusal of planning permission and imposition of conditions[^c-f6444cc3c99a248c5edeec5b6e97163c]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6444cc3c99a248c5edeec5b6e97163c]: Commencement: S. 67 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f6444cc3c99a248c5edeec5b6e97163c]: Commencement: S. 67 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

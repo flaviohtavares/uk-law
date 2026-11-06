@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-### 1. Reducing harm in care[^key-71807df615cd25bb4e0dd30bb2778206]
+### 1. Reducing harm in care[^c-71807df615cd25bb4e0dd30bb2778206]
 
 (1) Section 20 of the Health and Social Care Act 2008 (health and adult social care services: regulation of registered activities) is amended as follows.
 
@@ -63,7 +63,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-### 2. Consistent identifiers[^key-f2660da1bab45c43679f03c5738c5d11]
+### 2. Consistent identifiers[^c-f2660da1bab45c43679f03c5738c5d11]
 
 In Part 9 of the Health and Social Care Act 2012 (health and adult social care services: information), after section 251 insert—
 
@@ -104,7 +104,7 @@ In Part 9 of the Health and Social Care Act 2012 (health and adult social care s
 >
 > (8) This section does not require the relevant person to do anything which the relevant person is required to do by or under provision included in a contract by virtue of any provision of the National Health Service Act 2006 (and, accordingly, any such requirement is to be treated as arising under the contract, and not under this section).
 
-### 3. Duty to share information[^key-7ebe2cd7158ed0a33a8021a6b8edf69c]
+### 3. Duty to share information[^c-7ebe2cd7158ed0a33a8021a6b8edf69c]
 
 In Part 9 of the Health and Social Care Act 2012 (health and adult social care services: information), after section 251A (as inserted by section 2 of this Act) insert—
 
@@ -137,7 +137,7 @@ In Part 9 of the Health and Social Care Act 2012 (health and adult social care s
 >
 > (6) This section does not require the relevant person to do anything which the relevant person is required to do under a common law duty of care (and, accordingly, any such requirement is to be treated as arising under that common law duty and not under this section).
 
-### 4. Interpretation[^key-e9c387453bb2f560cf20369b4d85fb9e]
+### 4. Interpretation[^c-e9c387453bb2f560cf20369b4d85fb9e]
 
 In Part 9 of the Health and Social Care Act 2012 (health and adult social care services: information), after section 251B (as inserted by section 3 of this Act) insert—
 
@@ -166,7 +166,7 @@ In Part 9 of the Health and Social Care Act 2012 (health and adult social care s
 
 ## Objectives
 
-### 5. Objectives in relation to the regulation of health and social care professions[^key-3572eb0163c7baffcb38713b05fcad71]
+### 5. Objectives in relation to the regulation of health and social care professions[^c-3572eb0163c7baffcb38713b05fcad71]
 
 (1) In section 25 of the National Health Service Reform and Health Care Professions Act 2002 (Professional Standards Authority for Health and Social Care), for subsection (2A) substitute—
 
@@ -207,7 +207,7 @@ Section 5
 
 ### General Dental Council
 
-**1.**[^key-60661f3fff2e07438d48ed7286389bd2] (1) The Dentists Act 1984 is amended as follows.
+**1.**[^c-60661f3fff2e07438d48ed7286389bd2] (1) The Dentists Act 1984 is amended as follows.
 
 (2) In section 1 (constitution and general duties of the General Dental Council)—
 
@@ -246,7 +246,7 @@ Section 5
 
 ### General Optical Council
 
-**2.**[^key-7c1a08e9e756f106130bcccfac63822c] (1) The Opticians Act 1989 is amended as follows.
+**2.**[^c-7c1a08e9e756f106130bcccfac63822c] (1) The Opticians Act 1989 is amended as follows.
 
 (2) In section 1 (constitution and functions of the General Optical Council), for subsection (2A) substitute—
 
@@ -277,7 +277,7 @@ Section 5
 
 ### General Osteopathic Council
 
-**3.**[^key-4c352be60116801c632b4bbe51c446f2] (1) The Osteopaths Act 1993 is amended as follows.
+**3.**[^c-4c352be60116801c632b4bbe51c446f2] (1) The Osteopaths Act 1993 is amended as follows.
 
 (2) In section 1 (the General Osteopathic Council and its committees), after subsection (3) insert—
 
@@ -302,7 +302,7 @@ Section 5
 
 ### General Chiropractic Council
 
-**4.**[^key-c44639b00cf000336a93efc15b78bf05] (1) The Chiropractors Act 1994 is amended as follows.
+**4.**[^c-c44639b00cf000336a93efc15b78bf05] (1) The Chiropractors Act 1994 is amended as follows.
 
 (2) In section 1 (the General Chiropractic Council and its committees), after subsection (4) insert—
 
@@ -327,7 +327,7 @@ Section 5
 
 ### Nursing and Midwifery Council
 
-**5.**[^key-bd593252a95dda9bf3059e9bec053026] (1) The Nursing and Midwifery Order 2001 (S.I. 2002/253) is amended as follows.
+**5.**[^c-bd593252a95dda9bf3059e9bec053026] (1) The Nursing and Midwifery Order 2001 (S.I. 2002/253) is amended as follows.
 
 (2) In article 3 (Nursing and Midwifery Council and its committees), for paragraph (4) substitute—
 
@@ -353,7 +353,7 @@ Section 5
 
 ### Health and Care Professions Council
 
-**6.**[^key-bafb582d4ba6febd50334cd80d96e839] (1) The Health and Social Work Professions Order 2001 (S.I. 2002/254) is amended as follows.
+**6.**[^c-bafb582d4ba6febd50334cd80d96e839] (1) The Health and Social Work Professions Order 2001 (S.I. 2002/254) is amended as follows.
 
 (2) In article 3 (Health and Care Professions Council and its committees), for paragraph (4) substitute—
 
@@ -383,7 +383,7 @@ Section 5
 
 *Extent: E+W+S*
 
-**7.**[^key-1c6f33fdfe088341a81479501187c434] (1) The Pharmacy Order 2010 (S.I. 2010/231) is amended as follows.
+**7.**[^c-1c6f33fdfe088341a81479501187c434] (1) The Pharmacy Order 2010 (S.I. 2010/231) is amended as follows.
 
 (2) In article 6 (General Pharmaceutical Council's general duties), for paragraph (1) substitute—
 
@@ -406,26 +406,26 @@ Section 5
 
 ## Annotations
 
-[^key-71807df615cd25bb4e0dd30bb2778206]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/28/section/1) in force at 1.10.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/3/a)
+[^c-71807df615cd25bb4e0dd30bb2778206]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/28/section/1) in force at 1.10.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/3/a)
 
-[^key-f2660da1bab45c43679f03c5738c5d11]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/28/section/2) in force at 25.6.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/a)
+[^c-f2660da1bab45c43679f03c5738c5d11]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/28/section/2) in force at 25.6.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/a)
 
-[^key-7ebe2cd7158ed0a33a8021a6b8edf69c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/28/section/3) in force at 1.10.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/3/b)
+[^c-7ebe2cd7158ed0a33a8021a6b8edf69c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/28/section/3) in force at 1.10.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/3/b)
 
-[^key-e9c387453bb2f560cf20369b4d85fb9e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/28/section/4) in force at 25.6.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/b)
+[^c-e9c387453bb2f560cf20369b4d85fb9e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/28/section/4) in force at 25.6.2015 by [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/b)
 
-[^key-3572eb0163c7baffcb38713b05fcad71]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/28/section/5) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/a)
+[^c-3572eb0163c7baffcb38713b05fcad71]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/28/section/5) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/a)
 
-[^key-60661f3fff2e07438d48ed7286389bd2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/1) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-60661f3fff2e07438d48ed7286389bd2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/1) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-7c1a08e9e756f106130bcccfac63822c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-7c1a08e9e756f106130bcccfac63822c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-4c352be60116801c632b4bbe51c446f2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/3) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-4c352be60116801c632b4bbe51c446f2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/3) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-c44639b00cf000336a93efc15b78bf05]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/4) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-c44639b00cf000336a93efc15b78bf05]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/4) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-bd593252a95dda9bf3059e9bec053026]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/5) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-bd593252a95dda9bf3059e9bec053026]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/5) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-bafb582d4ba6febd50334cd80d96e839]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/6) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-bafb582d4ba6febd50334cd80d96e839]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/6) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-1c6f33fdfe088341a81479501187c434]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-1c6f33fdfe088341a81479501187c434]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7) in force at 26.9.2016 by [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)

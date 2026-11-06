@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Set-off for enhancement in value of retained land[^key-5ea2ac6a3f44c7deeb7c19d3e04a970b]
+## 54. Set-off for enhancement in value of retained land[^c-5ea2ac6a3f44c7deeb7c19d3e04a970b]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-5ea2ac6a3f44c7deeb7c19d3e04a970b]: Commencement: Art. 54 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-5ea2ac6a3f44c7deeb7c19d3e04a970b]: Commencement: Art. 54 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

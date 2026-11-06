@@ -24,7 +24,7 @@ Article 39
 
 ### PART 1 — INTRODUCTION
 
-**1.**[^key-e652420da6b5200175fa14744f6fd228] (1) In this licence the definitions in article 2 must apply save where amended—
+**1.**[^c-e652420da6b5200175fa14744f6fd228] (1) In this licence the definitions in article 2 must apply save where amended—
 
 - “**2009 Act**” means the Marine and Coastal Access Act 2009.
 - “**ABP Humber**” means Associated British Ports, Humber Estuary Services located at Port Office, Cleethorpe Road, Grimsby, North East Lincolnshire.
@@ -155,12 +155,12 @@ Article 39
 
 ### PART 2 — DETAILS OF LICENSED MARINE ACTIVITIES
 
-**2.**[^key-99b5acecf41265ef0c6ca748ea8d180e] Subject to the conditions, this licence authorises the undertaker to carry out any licensable marine activities under section 66(1) of the 2009 Act which—
+**2.**[^c-99b5acecf41265ef0c6ca748ea8d180e] Subject to the conditions, this licence authorises the undertaker to carry out any licensable marine activities under section 66(1) of the 2009 Act which—
 
 - (a) form part of, or are related to, the authorised development; and
 - (b) are not exempt from requiring a marine licence by virtue of any provision made under section 74 of the 2009 Act.
 
-**3.**[^key-e026cd3264e618044e96b8da7f1c08b9] Licensed activities are authorised in relation to the construction, maintenance and operation of—
+**3.**[^c-e026cd3264e618044e96b8da7f1c08b9] Licensed activities are authorised in relation to the construction, maintenance and operation of—
 
 - (a) Work No. 4B – River Water Abstraction Option—
 
@@ -170,16 +170,16 @@ Article 39
   Works to discharge used cooling water and treated wastewater comprising works to the existing cooling water discharge pipeline(s) running from Work No. 1B to the existing outfall structures within the River Trent, including, as necessary, new, upgraded or replacement pipelines, plant, enclosures, outfall structure, screens and other structures, and cable; and
 - (c) any such work, further associated development listed in Schedule 1 ancillary to Work Nos. 4B and 5.
 
-**4.**[^key-429658b7c1a8fdf668ca4191a06d9056] The substances or articles authorised for deposit associated with the completion of the construction, maintenance and operational activities described in item 3, sub paragraph (1) (a) and (b) above include—
+**4.**[^c-429658b7c1a8fdf668ca4191a06d9056] The substances or articles authorised for deposit associated with the completion of the construction, maintenance and operational activities described in item 3, sub paragraph (1) (a) and (b) above include—
 
 - (a) Silt, algal growth and biota;
 - (b) Stone, rock and concrete;
 - (c) Grout and sealant material; and
 - (d) any other material of substance to the extent its effects have been considered within the environmental statement.
 
-**5.**[^key-d54f838ab7fb3e35f3abf5a19460525a] The undertaker may engage in the licensed activities in the area bounded by the coordinates set out in Table 9 in this paragraph to the extent that they fall below MHWS at the time the licensed activities are carried out.
+**5.**[^c-d54f838ab7fb3e35f3abf5a19460525a] The undertaker may engage in the licensed activities in the area bounded by the coordinates set out in Table 9 in this paragraph to the extent that they fall below MHWS at the time the licensed activities are carried out.
 
-**6.**[^key-2c6e3f1ffaafef2e879688a7de91bcb2] The coordinates in Table 9 are defined in accordance with reference system WGS84 - World Geodetic System 1984.
+**6.**[^c-2c6e3f1ffaafef2e879688a7de91bcb2] The coordinates in Table 9 are defined in accordance with reference system WGS84 - World Geodetic System 1984.
 
 Table 9
 
@@ -207,7 +207,7 @@ Table 9
 
 ### PART 3 — CONDITIONS
 
-#### 7. General[^key-6bb3049a50859b7e1ffe91120ede4803]
+#### 7. General[^c-6bb3049a50859b7e1ffe91120ede4803]
 
 Any oil, fuel or chemical spill within the marine environment must be reported to the MMO Marine Pollution Response Team within 12 hours of being identified in accordance with the following—
 
@@ -215,7 +215,7 @@ Any oil, fuel or chemical spill within the marine environment must be reported t
 - (b) outside office hours: 07770 977 825; or
 - (c) at all times if other numbers are unavailable: 0845 051 8486 or dispersants@marinemanagement.org.uk.
 
-#### 8. Notifications and Inspections[^key-392074af443d9755c646884f54500373]
+#### 8. Notifications and Inspections[^c-392074af443d9755c646884f54500373]
 
 (1) The undertaker must ensure that—
 
@@ -239,7 +239,7 @@ Any oil, fuel or chemical spill within the marine environment must be reported t
 
 (7) The undertaker must notify the United Kingdom Hydrographic Office of the commencement (within ten days), progress and completion of construction (within ten days) of the licensed activities in order that all necessary amendments to nautical charts are made and the undertaker must send a copy of such notifications to the MMO within 24 hours of issue.
 
-#### 9. Pre-construction[^key-f8674f4b8eb4b37ce4babe537408df84]
+#### 9. Pre-construction[^c-f8674f4b8eb4b37ce4babe537408df84]
 
 Not later than 8 weeks prior to the proposed commencement of licences activities the undertaker must submit to the MCA and the MMO for review and approval in writing by the MMO the CEMP covering the period of construction to include details of—
 
@@ -249,7 +249,7 @@ Not later than 8 weeks prior to the proposed commencement of licences activities
 
 The authorised development must be undertaken in accordance with the CEMP, unless otherwise agreed in writing by the MMO.
 
-**10.**[^key-afd5211f6520cb8b9675f27cb83c50d1] (1) The undertaker must submit a marine method statement (MMS) to the MMO no later than 8 weeks prior to the proposed commencement of the licensed activities for its written approval. The MMS is to include details of—
+**10.**[^c-afd5211f6520cb8b9675f27cb83c50d1] (1) The undertaker must submit a marine method statement (MMS) to the MMO no later than 8 weeks prior to the proposed commencement of the licensed activities for its written approval. The MMS is to include details of—
 
 - (a) any proposed refurbishment and/or construction activities;
 - (b) if a cofferdam is proposed to be constructed as part of Work No. 4B, the cofferdam installation technique and piling methodology;
@@ -263,106 +263,106 @@ The authorised development must be undertaken in accordance with the CEMP, unles
 
 (4) The MMS may be amended from time to time subject to the approval in writing of the MMO.
 
-**11.**[^key-04abcf20b567b8fabb3f54da0f2dfee1] The undertaker must complete pre-works bathymetry of the areas specified in Part 2, paragraph 5, before the commencement of works. The results of pre-works bathymetry must be shared with ABP Humber, as the appropriate navigational authority and the MMO.
+**11.**[^c-04abcf20b567b8fabb3f54da0f2dfee1] The undertaker must complete pre-works bathymetry of the areas specified in Part 2, paragraph 5, before the commencement of works. The results of pre-works bathymetry must be shared with ABP Humber, as the appropriate navigational authority and the MMO.
 
-**12.**[^key-3c93fd76079b63c97cedf1017ca81b53] The undertaker must notify the MMO in writing of any agents, contractors or subcontractors that will carry on any licensed activity listed in this licence on behalf of the undertaker this must include the name, address, company number (if applicable) and role. Such notification must be received by the MMO no less than 24 hours before the commencement of the licensed activity and any change to a notified agent, contractor or subcontractors must be updated and notified to the MMO accordingly.
+**12.**[^c-3c93fd76079b63c97cedf1017ca81b53] The undertaker must notify the MMO in writing of any agents, contractors or subcontractors that will carry on any licensed activity listed in this licence on behalf of the undertaker this must include the name, address, company number (if applicable) and role. Such notification must be received by the MMO no less than 24 hours before the commencement of the licensed activity and any change to a notified agent, contractor or subcontractors must be updated and notified to the MMO accordingly.
 
-**13.**[^key-8ec16a3e233108faf191c1255b0b727f] The undertaker must notify the MMO in writing of any vessel being used to carry on any licensed activity listed in this licence on behalf of the undertaker. Such notification must be received by the MMO no less than 24 hours before the commencement of the licensed activity. Notification must include the master’s name, vessel type, vessel IMO number and vessel owner or operating company.
+**13.**[^c-8ec16a3e233108faf191c1255b0b727f] The undertaker must notify the MMO in writing of any vessel being used to carry on any licensed activity listed in this licence on behalf of the undertaker. Such notification must be received by the MMO no less than 24 hours before the commencement of the licensed activity. Notification must include the master’s name, vessel type, vessel IMO number and vessel owner or operating company.
 
-#### 14. During Construction, Operation and Maintenance[^key-c1347581af5e05ad91a299347151a8d2]
+#### 14. During Construction, Operation and Maintenance[^c-c1347581af5e05ad91a299347151a8d2]
 
 The undertaker must ensure that any coatings and treatments used are suitable for use in the marine area and are used in accordance with either guidelines approved by the Health and Safety Executive or the Environment Agency Pollution prevention for businesses guidelines.
 
-**15.**[^key-efda39f3398148735c5e5502b9d44ebd] The storage, handling, transport and use of fuels, lubricants, chemicals and other substances must be undertaken so as to prevent releases into the marine environment including bunding of 110% of the total volume of all reservoirs and containers.
+**15.**[^c-efda39f3398148735c5e5502b9d44ebd] The storage, handling, transport and use of fuels, lubricants, chemicals and other substances must be undertaken so as to prevent releases into the marine environment including bunding of 110% of the total volume of all reservoirs and containers.
 
-**16.**[^key-754efd36a8f7c6eb27ac14886f9fcffc] The undertaker must not discharge waste concrete slurry or wash water from concrete or cement into the river. The undertaker must site concrete and cement mixing and washing areas at least 10 metres from the river or surface water drain to minimise the risk of run off entering the river. If concrete is to be sprayed, suitable protective sheeting must be provided to prevent rebounded or windblown concrete from entering the marine environment. Rebounded material must be cleared away before the sheeting is removed.
+**16.**[^c-754efd36a8f7c6eb27ac14886f9fcffc] The undertaker must not discharge waste concrete slurry or wash water from concrete or cement into the river. The undertaker must site concrete and cement mixing and washing areas at least 10 metres from the river or surface water drain to minimise the risk of run off entering the river. If concrete is to be sprayed, suitable protective sheeting must be provided to prevent rebounded or windblown concrete from entering the marine environment. Rebounded material must be cleared away before the sheeting is removed.
 
-**17.**[^key-d68ea0f4d3481ff5e47fb589d62aafa0] During licensed activities all wastes must be stored in designated areas that are isolated from surface water drains, open water and bunded to contain any spillage.
+**17.**[^c-d68ea0f4d3481ff5e47fb589d62aafa0] During licensed activities all wastes must be stored in designated areas that are isolated from surface water drains, open water and bunded to contain any spillage.
 
-**18.**[^key-ab3dca9b6493b11b51b1eb7027859974] (1) Vibratory piling must be used as standard, with percussive piling only used if required to drive a pile to its design depth and where drill or vibratory piling has been unsuccessful. If percussive piling is necessary, soft-start procedures must be used to ensure incremental increase in pile power over a set time period until full operational power is achieved.
+**18.**[^c-ab3dca9b6493b11b51b1eb7027859974] (1) Vibratory piling must be used as standard, with percussive piling only used if required to drive a pile to its design depth and where drill or vibratory piling has been unsuccessful. If percussive piling is necessary, soft-start procedures must be used to ensure incremental increase in pile power over a set time period until full operational power is achieved.
 
 (2) The soft-start duration must be a period of not less than twenty minutes.
 
 (3) Should piling cease for a period greater than ten minutes, then the soft start procedure must be repeated.
 
-**19.**[^key-629cc57799425db8d8ab21ed97356e82] Piling must not be undertaken between 01 September and 31 November, inclusive, in order to minimize any potential effects on the upstream migration of adult Salmon during their most sensitive migratory period and on wintering birds. Piling will be restricted between 0700 and 1900 hours.
+**19.**[^c-629cc57799425db8d8ab21ed97356e82] Piling must not be undertaken between 01 September and 31 November, inclusive, in order to minimize any potential effects on the upstream migration of adult Salmon during their most sensitive migratory period and on wintering birds. Piling will be restricted between 0700 and 1900 hours.
 
-**20.**[^key-f77da794439dc28ad56dad638a967de6] The undertaker must comply with the lighting, hazard marking and demarcation requirements of ABP Humber, as the appropriate navigational authority.
+**20.**[^c-f77da794439dc28ad56dad638a967de6] The undertaker must comply with the lighting, hazard marking and demarcation requirements of ABP Humber, as the appropriate navigational authority.
 
-**21.**[^key-bc8430fd7047a2b81907ce92d96f1ef4] The undertaker must ensure any rock material used in the construction of the authorised development is from a recognised source, free from contaminants and containing minimal fines.
+**21.**[^c-bc8430fd7047a2b81907ce92d96f1ef4] The undertaker must ensure any rock material used in the construction of the authorised development is from a recognised source, free from contaminants and containing minimal fines.
 
-**22.**[^key-b4f3a7028f21e1899a0bd0e3890005e2] In the event that any rock or stone material is misplaced or lost below MHWS, the undertaker must report the loss to the Local Enforcement Office within 48 hours of becoming aware and if the MMO reasonably considers such material to constitute a navigation or environmental hazard (dependent on the size and nature of the material) the MMO must notify the undertaker and the undertaker must use reasonable endeavours to locate the material and recover it. In that event, the undertaker must demonstrate to the MMO that reasonable attempts have been made to locate, remove or move any such material.
+**22.**[^c-b4f3a7028f21e1899a0bd0e3890005e2] In the event that any rock or stone material is misplaced or lost below MHWS, the undertaker must report the loss to the Local Enforcement Office within 48 hours of becoming aware and if the MMO reasonably considers such material to constitute a navigation or environmental hazard (dependent on the size and nature of the material) the MMO must notify the undertaker and the undertaker must use reasonable endeavours to locate the material and recover it. In that event, the undertaker must demonstrate to the MMO that reasonable attempts have been made to locate, remove or move any such material.
 
-**23.**[^key-dcac56019ff4e37962d20ad654851dc2] (1) The undertaker must report all dropped objects to the MMO using the Marine Licence Dropped Incident Report (MLDIR) as soon as reasonably practicable and in any event within 24 hours of becoming aware of an incident.
+**23.**[^c-dcac56019ff4e37962d20ad654851dc2] (1) The undertaker must report all dropped objects to the MMO using the Marine Licence Dropped Incident Report (MLDIR) as soon as reasonably practicable and in any event within 24 hours of becoming aware of an incident.
 
 (2) On receipt of the MLDIR, the MMO may require, acting reasonably, the undertaker to carry out relevant surveys directly related to such MLDIR and where there is a need to remedy any effect related to the MLDIR. The undertaker must carry out surveys at its own expense in accordance with the MMO’s reasonable requirements and must report the results of such survey results to the MMO.
 
 (3) On receipt of such survey results the MMO may, acting reasonably, require the undertaker to remove specific obstructions from the riverbed. The undertaker must carry out removal of specific obstructions from the riverbed in accordance with the MMO’s reasonable requirements and at its own expense.
 
-#### 24. Post Construction[^key-b6fb9f453305c1ffdd8486192aa9a6db]
+#### 24. Post Construction[^c-b6fb9f453305c1ffdd8486192aa9a6db]
 
 The undertaker must ensure that any equipment, temporary structures, waste and debris 2associated with the licensed activities are removed within six weeks of completion of the licensed activity.
 
-**25.**[^key-8b1d8bf3a3dbe6382c6cec1902bcc348] The undertaker must ensure that the MMO Local Enforcement Office is notified of the completion of the licensed activities and operations within ten days following the completion of the works.
+**25.**[^c-8b1d8bf3a3dbe6382c6cec1902bcc348] The undertaker must ensure that the MMO Local Enforcement Office is notified of the completion of the licensed activities and operations within ten days following the completion of the works.
 
-**26.**[^key-717a1168c6ecc16056a1e4405d6669d9] The undertaker must complete post-works bathymetry of the areas specified in paragraph 5 of Part 2 of this licence, following the completion of the licensed activities. The results of post-works bathymetry must be shared with ABP Humber, as the appropriate navigational authority and with the MMO.
+**26.**[^c-717a1168c6ecc16056a1e4405d6669d9] The undertaker must complete post-works bathymetry of the areas specified in paragraph 5 of Part 2 of this licence, following the completion of the licensed activities. The results of post-works bathymetry must be shared with ABP Humber, as the appropriate navigational authority and with the MMO.
 
-#### 27. Conditions Discharge[^key-d727c49da25941c0c987808ed835061f]
+#### 27. Conditions Discharge[^c-d727c49da25941c0c987808ed835061f]
 
 The MMO must determine an application for discharge of a condition as soon as 2reasonably practicable and in any event within a period of three months commencing on the date the application is received by the MMO, unless otherwise agreed in writing with the undertaker.
 
 ## Annotations
 
-[^key-e652420da6b5200175fa14744f6fd228]: Commencement: Sch. 13 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-e652420da6b5200175fa14744f6fd228]: Commencement: Sch. 13 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-99b5acecf41265ef0c6ca748ea8d180e]: Commencement: Sch. 13 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-99b5acecf41265ef0c6ca748ea8d180e]: Commencement: Sch. 13 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-e026cd3264e618044e96b8da7f1c08b9]: Commencement: Sch. 13 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-e026cd3264e618044e96b8da7f1c08b9]: Commencement: Sch. 13 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-429658b7c1a8fdf668ca4191a06d9056]: Commencement: Sch. 13 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-429658b7c1a8fdf668ca4191a06d9056]: Commencement: Sch. 13 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-d54f838ab7fb3e35f3abf5a19460525a]: Commencement: Sch. 13 para. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-d54f838ab7fb3e35f3abf5a19460525a]: Commencement: Sch. 13 para. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-2c6e3f1ffaafef2e879688a7de91bcb2]: Commencement: Sch. 13 para. 6 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-2c6e3f1ffaafef2e879688a7de91bcb2]: Commencement: Sch. 13 para. 6 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-6bb3049a50859b7e1ffe91120ede4803]: Commencement: Sch. 13 para. 7 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-6bb3049a50859b7e1ffe91120ede4803]: Commencement: Sch. 13 para. 7 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-392074af443d9755c646884f54500373]: Commencement: Sch. 13 para. 8 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-392074af443d9755c646884f54500373]: Commencement: Sch. 13 para. 8 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-f8674f4b8eb4b37ce4babe537408df84]: Commencement: Sch. 13 para. 9 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-f8674f4b8eb4b37ce4babe537408df84]: Commencement: Sch. 13 para. 9 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-afd5211f6520cb8b9675f27cb83c50d1]: Commencement: Sch. 13 para. 10 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-afd5211f6520cb8b9675f27cb83c50d1]: Commencement: Sch. 13 para. 10 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-04abcf20b567b8fabb3f54da0f2dfee1]: Commencement: Sch. 13 para. 11 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-04abcf20b567b8fabb3f54da0f2dfee1]: Commencement: Sch. 13 para. 11 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-3c93fd76079b63c97cedf1017ca81b53]: Commencement: Sch. 13 para. 12 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-3c93fd76079b63c97cedf1017ca81b53]: Commencement: Sch. 13 para. 12 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-8ec16a3e233108faf191c1255b0b727f]: Commencement: Sch. 13 para. 13 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-8ec16a3e233108faf191c1255b0b727f]: Commencement: Sch. 13 para. 13 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-c1347581af5e05ad91a299347151a8d2]: Commencement: Sch. 13 para. 14 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-c1347581af5e05ad91a299347151a8d2]: Commencement: Sch. 13 para. 14 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-efda39f3398148735c5e5502b9d44ebd]: Commencement: Sch. 13 para. 15 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-efda39f3398148735c5e5502b9d44ebd]: Commencement: Sch. 13 para. 15 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-754efd36a8f7c6eb27ac14886f9fcffc]: Commencement: Sch. 13 para. 16 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-754efd36a8f7c6eb27ac14886f9fcffc]: Commencement: Sch. 13 para. 16 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-d68ea0f4d3481ff5e47fb589d62aafa0]: Commencement: Sch. 13 para. 17 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-d68ea0f4d3481ff5e47fb589d62aafa0]: Commencement: Sch. 13 para. 17 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-ab3dca9b6493b11b51b1eb7027859974]: Commencement: Sch. 13 para. 18 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-ab3dca9b6493b11b51b1eb7027859974]: Commencement: Sch. 13 para. 18 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-629cc57799425db8d8ab21ed97356e82]: Commencement: Sch. 13 para. 19 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-629cc57799425db8d8ab21ed97356e82]: Commencement: Sch. 13 para. 19 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-f77da794439dc28ad56dad638a967de6]: Commencement: Sch. 13 para. 20 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-f77da794439dc28ad56dad638a967de6]: Commencement: Sch. 13 para. 20 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-bc8430fd7047a2b81907ce92d96f1ef4]: Commencement: Sch. 13 para. 21 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-bc8430fd7047a2b81907ce92d96f1ef4]: Commencement: Sch. 13 para. 21 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-b4f3a7028f21e1899a0bd0e3890005e2]: Commencement: Sch. 13 para. 22 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-b4f3a7028f21e1899a0bd0e3890005e2]: Commencement: Sch. 13 para. 22 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-dcac56019ff4e37962d20ad654851dc2]: Commencement: Sch. 13 para. 23 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-dcac56019ff4e37962d20ad654851dc2]: Commencement: Sch. 13 para. 23 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-b6fb9f453305c1ffdd8486192aa9a6db]: Commencement: Sch. 13 para. 24 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-b6fb9f453305c1ffdd8486192aa9a6db]: Commencement: Sch. 13 para. 24 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-8b1d8bf3a3dbe6382c6cec1902bcc348]: Commencement: Sch. 13 para. 25 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-8b1d8bf3a3dbe6382c6cec1902bcc348]: Commencement: Sch. 13 para. 25 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-717a1168c6ecc16056a1e4405d6669d9]: Commencement: Sch. 13 para. 26 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-717a1168c6ecc16056a1e4405d6669d9]: Commencement: Sch. 13 para. 26 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-d727c49da25941c0c987808ed835061f]: Commencement: Sch. 13 para. 27 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-d727c49da25941c0c987808ed835061f]: Commencement: Sch. 13 para. 27 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

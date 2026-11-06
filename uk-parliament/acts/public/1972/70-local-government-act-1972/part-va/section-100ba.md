@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100BA. Access to agenda and connected reports: principal councils in Wales[^key-351990584ce588a327d8449bf6653d8b][^key-27faf253ab5efb3d4d9d8174eb30a3e9]
+## 100BA. Access to agenda and connected reports: principal councils in Wales[^c-351990584ce588a327d8449bf6653d8b][^c-27faf253ab5efb3d4d9d8174eb30a3e9]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ there must be made available for the use of members of the public present at the
 
 ## Annotations
 
-[^key-351990584ce588a327d8449bf6653d8b]: Modification: S. 100BA applied (with mods.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by S.I. 2001/2283, reg. 26 (as amended (W.) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021) (S.I. 2021/356)](https://www.legislation.gov.uk/wsi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/7/2) (with [regs. 10](https://www.legislation.gov.uk/wsi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/wsi/2021/356/regulation/11)))
+[^c-351990584ce588a327d8449bf6653d8b]: Modification: S. 100BA applied (with mods.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by S.I. 2001/2283, reg. 26 (as amended (W.) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021) (S.I. 2021/356)](https://www.legislation.gov.uk/wsi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2021/356/regulation/7/2) (with [regs. 10](https://www.legislation.gov.uk/wsi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/wsi/2021/356/regulation/11)))
 
-[^key-27faf253ab5efb3d4d9d8174eb30a3e9]: Textual amendment: S. 100BA inserted (1.5.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/7) (with [Sch. 4 para. 22](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/22)); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2021/354/regulation/3))
+[^c-27faf253ab5efb3d4d9d8174eb30a3e9]: Textual amendment: S. 100BA inserted (1.5.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/7) (with [Sch. 4 para. 22](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/22)); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2021/354/regulation/3))

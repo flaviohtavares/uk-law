@@ -35,30 +35,30 @@ laying down implementing technical standards with regard to the format of applic
 
 (Text with EEA relevance) (revoked)
 
-[^key-c056da87e70c721604b36f3de78ff362]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c056da87e70c721604b36f3de78ff362]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Format of the application for registration and extension of registration[^key-c056da87e70c721604b36f3de78ff362]
+## Article 1. Format of the application for registration and extension of registration[^c-c056da87e70c721604b36f3de78ff362]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-c056da87e70c721604b36f3de78ff362]
+## Article 2. Entry into force[^c-c056da87e70c721604b36f3de78ff362]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c056da87e70c721604b36f3de78ff362]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c056da87e70c721604b36f3de78ff362]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Formats for an application for registration as a securitisation repository[^key-c056da87e70c721604b36f3de78ff362]
+## ANNEX I — Formats for an application for registration as a securitisation repository[^c-c056da87e70c721604b36f3de78ff362]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Formats for an application of a trade repository for extension of registration[^key-c056da87e70c721604b36f3de78ff362]
+## ANNEX II — Formats for an application of a trade repository for extension of registration[^c-c056da87e70c721604b36f3de78ff362]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c056da87e70c721604b36f3de78ff362]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/viii)
+[^c-c056da87e70c721604b36f3de78ff362]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/viii)

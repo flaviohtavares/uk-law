@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Electoral recommendations: general considerations[^key-ab0fc92f5fde6175549a7026ab0ab569][^key-ca451af8344fd8f11a998a503c3af9c6][^key-8b46cf90bfb9936dd4a95b635fa56838]
+## 95. Electoral recommendations: general considerations[^c-ab0fc92f5fde6175549a7026ab0ab569][^c-ca451af8344fd8f11a998a503c3af9c6][^c-8b46cf90bfb9936dd4a95b635fa56838]
 
 *Extent: E+W*
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0fc92f5fde6175549a7026ab0ab569]: Commencement: S. 95 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-ab0fc92f5fde6175549a7026ab0ab569]: Commencement: S. 95 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
 
-[^key-ca451af8344fd8f11a998a503c3af9c6]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/2007/28/section/95) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(l)](https://www.legislation.gov.uk/uksi/2022/331/article/17/l)
+[^c-ca451af8344fd8f11a998a503c3af9c6]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/2007/28/section/95) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(l)](https://www.legislation.gov.uk/uksi/2022/331/article/17/l)
 
-[^key-8b46cf90bfb9936dd4a95b635fa56838]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/2007/28/section/95): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(l)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/l)
+[^c-8b46cf90bfb9936dd4a95b635fa56838]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/2007/28/section/95): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(l)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/l)

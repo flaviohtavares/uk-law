@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Fly-tipping: penalty points on driving record[^key-4c4862df434005be55c402b87a7e4f16]
+## 10. Fly-tipping: penalty points on driving record[^c-4c4862df434005be55c402b87a7e4f16]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c4862df434005be55c402b87a7e4f16]: Commencement: S. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4c4862df434005be55c402b87a7e4f16]: Commencement: S. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

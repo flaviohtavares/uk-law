@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Confidentiality of protected taxpayer information[^key-6fffa5bf19987b10041b630e708298a4][^key-029a3f4dcf7f66931e6715686381ce55][^key-72eb41d163993d8394285ec7872d377f]
+## 15. Confidentiality of protected taxpayer information[^c-6fffa5bf19987b10041b630e708298a4][^c-029a3f4dcf7f66931e6715686381ce55][^c-72eb41d163993d8394285ec7872d377f]
 
 *Extent: S*
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6fffa5bf19987b10041b630e708298a4]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/16/section/15) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-6fffa5bf19987b10041b630e708298a4]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/16/section/15) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-029a3f4dcf7f66931e6715686381ce55]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2014/16/section/15) modified (1.1.2015) by [The Revenue Scotland and Tax Powers Act 2014 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3294)](https://www.legislation.gov.uk/uksi/2014/3294), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3294/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2014/3294/article/4/2)
+[^c-029a3f4dcf7f66931e6715686381ce55]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2014/16/section/15) modified (1.1.2015) by [The Revenue Scotland and Tax Powers Act 2014 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3294)](https://www.legislation.gov.uk/uksi/2014/3294), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3294/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2014/3294/article/4/2)
 
-[^key-72eb41d163993d8394285ec7872d377f]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2014/16/section/15) modified (31.12.2018) by [The Revenue Scotland and Tax Powers Act 2014 (Ancillary Provision) Order 2018 (S.S.I. 2018/346)](https://www.legislation.gov.uk/ssi/2018/346), [arts. 1](https://www.legislation.gov.uk/ssi/2018/346/article/1), [2](https://www.legislation.gov.uk/ssi/2018/346/article/2)
+[^c-72eb41d163993d8394285ec7872d377f]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2014/16/section/15) modified (31.12.2018) by [The Revenue Scotland and Tax Powers Act 2014 (Ancillary Provision) Order 2018 (S.S.I. 2018/346)](https://www.legislation.gov.uk/ssi/2018/346), [arts. 1](https://www.legislation.gov.uk/ssi/2018/346/article/1), [2](https://www.legislation.gov.uk/ssi/2018/346/article/2)

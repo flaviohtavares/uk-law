@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Schedules 1 and 4: sequestration, &c. in Scotland[^key-777a0b86251ac4c9d9033e9ef12974d3][^key-736406a35a12b84652811db58a8ba7b4]
+## 116. Schedules 1 and 4: sequestration, &c. in Scotland[^c-777a0b86251ac4c9d9033e9ef12974d3][^c-736406a35a12b84652811db58a8ba7b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ Where a person becomes, under paragraph 2(d) of Schedule 1, liable to dismissal 
 
 ## Annotations
 
-[^key-777a0b86251ac4c9d9033e9ef12974d3]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2003/20/section/116) in force at 5.7.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(d)](https://www.legislation.gov.uk/uksi/2004/827/article/4/d)
+[^c-777a0b86251ac4c9d9033e9ef12974d3]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2003/20/section/116) in force at 5.7.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(d)](https://www.legislation.gov.uk/uksi/2004/827/article/4/d)
 
-[^key-736406a35a12b84652811db58a8ba7b4]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2003/20/section/116) in force at 31.10.2004 in so far as not already in force by [S.I. 2004/2759](https://www.legislation.gov.uk/uksi/2004/2759), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2004/2759/article/2/1/a)
+[^c-736406a35a12b84652811db58a8ba7b4]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2003/20/section/116) in force at 31.10.2004 in so far as not already in force by [S.I. 2004/2759](https://www.legislation.gov.uk/uksi/2004/2759), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2004/2759/article/2/1/a)

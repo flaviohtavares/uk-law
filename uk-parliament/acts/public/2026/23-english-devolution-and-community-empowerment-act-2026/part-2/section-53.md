@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Requests by mayors of EMSAs for changes[^key-ae28e7358887c5f3e30736209ed81d35]
+## 53. Requests by mayors of EMSAs for changes[^c-ae28e7358887c5f3e30736209ed81d35]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ which the mayor or mayors believe would secure, or contribute to securing, the e
 
 ## Annotations
 
-[^key-ae28e7358887c5f3e30736209ed81d35]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2026/23/section/53) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-ae28e7358887c5f3e30736209ed81d35]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2026/23/section/53) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

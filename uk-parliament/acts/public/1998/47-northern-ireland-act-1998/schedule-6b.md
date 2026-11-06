@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6B — EU WITHDRAWAL: WINDSOR FRAMEWORK DEMOCRATIC SCRUTINY[^key-e7502b16b82fd0343aa18bfd9b1c81b6]
+## SCHEDULE 6B — EU WITHDRAWAL: WINDSOR FRAMEWORK DEMOCRATIC SCRUTINY[^c-e7502b16b82fd0343aa18bfd9b1c81b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -247,4 +247,4 @@ where “\[*x*\]” is to be substituted with the title of the new EU act.
 
 ## Annotations
 
-[^key-e7502b16b82fd0343aa18bfd9b1c81b6]: Textual amendment: Sch. 6B inserted (2.2.2024) by [The Windsor Framework (Democratic Scrutiny) Regulations 2024 (S.I. 2024/118)](https://www.legislation.gov.uk/uksi/2024/118), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/118/schedule)
+[^c-e7502b16b82fd0343aa18bfd9b1c81b6]: Textual amendment: Sch. 6B inserted (2.2.2024) by [The Windsor Framework (Democratic Scrutiny) Regulations 2024 (S.I. 2024/118)](https://www.legislation.gov.uk/uksi/2024/118), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/118/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/118/schedule)

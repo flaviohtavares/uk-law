@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71ZB. Notification of initiation of development and display of notice: Wales[^key-1a294e5ddf144ecfcaeb608839c260bc]
+## 71ZB. Notification of initiation of development and display of notice: Wales[^c-1a294e5ddf144ecfcaeb608839c260bc]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a294e5ddf144ecfcaeb608839c260bc]: Textual amendment: S. 71ZB inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [arts. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b), [5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
+[^c-1a294e5ddf144ecfcaeb608839c260bc]: Textual amendment: S. 71ZB inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [arts. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b), [5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))

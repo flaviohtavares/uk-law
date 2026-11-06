@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Power to cure defects in procedure[^key-3ec51b2c42e0e62c89d8a3aa9ef4c8e2]
+## 151. Power to cure defects in procedure[^c-3ec51b2c42e0e62c89d8a3aa9ef4c8e2]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ec51b2c42e0e62c89d8a3aa9ef4c8e2]: Commencement: Rule 151 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-3ec51b2c42e0e62c89d8a3aa9ef4c8e2]: Commencement: Rule 151 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

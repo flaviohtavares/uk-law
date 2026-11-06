@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 209. Penalty for failure to register for tax etc.[^key-d781ab414f6c19f7bc0dc47339051514]
+## 209. Penalty for failure to register for tax etc.[^c-d781ab414f6c19f7bc0dc47339051514]
 
 *Extent: S*
 
 (1) A penalty is payable by a person (“P”) where—
 
-- (a)[^key-e75a95282d5c3fef2efa3f1c11624aa7] P fails to comply with a requirement imposed by or under any of the following provisions (“a relevant requirement”)—
+- (a)[^c-e75a95282d5c3fef2efa3f1c11624aa7] P fails to comply with a requirement imposed by or under any of the following provisions (“a relevant requirement”)—
   - (i) section 22 or 23 of the LT(S) Act 2014 (registration and information required to keep register up to date),
   - (ii) section 18 of the AT(S) Act 2024 (duty to register for tax),
   - (iv) section 22 of the AT(S) Act 2024 (registration: further provision),
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d781ab414f6c19f7bc0dc47339051514]: Commencement: [S. 209](https://www.legislation.gov.uk/asp/2014/16/section/209) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-d781ab414f6c19f7bc0dc47339051514]: Commencement: [S. 209](https://www.legislation.gov.uk/asp/2014/16/section/209) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-e75a95282d5c3fef2efa3f1c11624aa7]: Textual amendment: [S. 209(1)(a)](https://www.legislation.gov.uk/asp/2014/16/section/209/1/a) substituted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 42(2)](https://www.legislation.gov.uk/asp/2024/14/section/42/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-e75a95282d5c3fef2efa3f1c11624aa7]: Textual amendment: [S. 209(1)(a)](https://www.legislation.gov.uk/asp/2014/16/section/209/1/a) substituted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 42(2)](https://www.legislation.gov.uk/asp/2024/14/section/42/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)

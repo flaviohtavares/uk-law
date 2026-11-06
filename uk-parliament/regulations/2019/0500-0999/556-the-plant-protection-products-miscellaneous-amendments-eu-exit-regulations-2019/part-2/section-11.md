@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Chapter 9[^key-54f7d50b4378e76ab26182f46ba830ee]
+## 11. Chapter 9[^c-54f7d50b4378e76ab26182f46ba830ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,11 +80,11 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-6bd7873e65cfcc97f5ca271b0933b824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-6bd7873e65cfcc97f5ca271b0933b824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **10.**
 >
-> Where the Secretary of State performs a function in accordance with paragraph 9, a reference to the competent authority in paragraphs 3 , 4[^key-0736ecb10c9cdf3415cabfbc5aa9db67] and 8 is to be read as a reference to the Secretary of State.
+> Where the Secretary of State performs a function in accordance with paragraph 9, a reference to the competent authority in paragraphs 3 , 4[^c-0736ecb10c9cdf3415cabfbc5aa9db67] and 8 is to be read as a reference to the Secretary of State.
 
 .
 
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-54f7d50b4378e76ab26182f46ba830ee]: Commencement: Reg. 11 in force at 31.12.2021 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-54f7d50b4378e76ab26182f46ba830ee]: Commencement: Reg. 11 in force at 31.12.2021 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-6bd7873e65cfcc97f5ca271b0933b824]: Textual amendment: Words in reg. 11(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(9)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/9)
+[^c-6bd7873e65cfcc97f5ca271b0933b824]: Textual amendment: Words in reg. 11(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(9)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/9)
 
-[^key-0736ecb10c9cdf3415cabfbc5aa9db67]: Textual amendment: Word in reg. 11(2) inserted (31.1.2020 mmediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0736ecb10c9cdf3415cabfbc5aa9db67]: Textual amendment: Word in reg. 11(2) inserted (31.1.2020 mmediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

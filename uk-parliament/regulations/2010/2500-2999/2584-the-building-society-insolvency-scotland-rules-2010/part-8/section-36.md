@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. General qualification on powers[^key-290a8974ce9f8e38b41da5c8f37b9645]
+## 36. General qualification on powers[^c-290a8974ce9f8e38b41da5c8f37b9645]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The building society liquidator shall exercise any power conferred by this Part 
 
 ## Annotations
 
-[^key-290a8974ce9f8e38b41da5c8f37b9645]: Commencement: Rule 36 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-290a8974ce9f8e38b41da5c8f37b9645]: Commencement: Rule 36 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274AA. Reduction for individuals: calculation[^key-7f8c0459e816b628d7ea77ab90a69b19]
+## 274AA. Reduction for individuals: calculation[^c-7f8c0459e816b628d7ea77ab90a69b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,11 +53,11 @@ the difference is the individual's brought-forward amount for the following tax 
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2005/5)
 
-where—[^key-68b530ea16c4e5753e07e92d086e0ecb]
+where—[^c-68b530ea16c4e5753e07e92d086e0ecb]
 
 AA is the actual amount on which relief for the year is to be given in respect of the relievable amount, and
 
-PBR is the property basic rate[^key-d797cabb41e19fb0a0d1f51ada4834b4] of income tax for the year,
+PBR is the property basic rate[^c-d797cabb41e19fb0a0d1f51ada4834b4] of income tax for the year,
 
 (6) For the purposes of this section, an individual's adjusted total income for a tax year is identified as follows—
 
@@ -69,10 +69,10 @@ PBR is the property basic rate[^key-d797cabb41e19fb0a0d1f51ada4834b4] of income 
 
 ## Annotations
 
-[^key-7f8c0459e816b628d7ea77ab90a69b19]: Textual amendment: Ss. 274A-274C substituted for s. 274A (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/1)
+[^c-7f8c0459e816b628d7ea77ab90a69b19]: Textual amendment: Ss. 274A-274C substituted for s. 274A (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/1)
 
 [^M_F_eb6d841e-854a-4beb-b158-12d20610c8e2]: Textual amendment: [S. 274AA(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/274AA/5) formula: "PBR" substituted for "BR" (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/a)
 
-[^key-68b530ea16c4e5753e07e92d086e0ecb]: Textual amendment: Word in [s. 274AA(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/274AA/5) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/a)
+[^c-68b530ea16c4e5753e07e92d086e0ecb]: Textual amendment: Word in [s. 274AA(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/274AA/5) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/a)
 
-[^key-d797cabb41e19fb0a0d1f51ada4834b4]: Textual amendment: Words in [s. 274AA(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/274AA/5) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/b)
+[^c-d797cabb41e19fb0a0d1f51ada4834b4]: Textual amendment: Words in [s. 274AA(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/274AA/5) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/b)

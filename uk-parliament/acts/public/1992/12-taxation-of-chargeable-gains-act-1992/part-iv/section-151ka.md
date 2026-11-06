@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151KA. Diminishing shared ownership arrangements: refinancing[^key-9fd1dfa8d6b106b2b572c97f4c62f36e]
+## 151KA. Diminishing shared ownership arrangements: refinancing[^c-9fd1dfa8d6b106b2b572c97f4c62f36e]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd1dfa8d6b106b2b572c97f4c62f36e]: Textual amendment: [S. 151KA](https://www.legislation.gov.uk/ukpga/1992/12/section/151KA) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/3/4), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-9fd1dfa8d6b106b2b572c97f4c62f36e]: Textual amendment: [S. 151KA](https://www.legislation.gov.uk/ukpga/1992/12/section/151KA) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/3/4), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

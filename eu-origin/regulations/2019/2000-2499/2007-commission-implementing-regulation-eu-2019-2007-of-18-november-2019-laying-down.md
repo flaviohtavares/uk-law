@@ -105,7 +105,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 ## Article 3. Official controls of animals and goods listed in Annex I
 
-The animals and goods listed in Annex I to this Regulation other than animals and goods exempted under regulations or assimilated direct minor legislation made under Article 48 of Regulation (EU) 2017/625[^key-a090ad0acbd5ed6faefcaa9219562d2d] shall be subject to official controls at border control posts in accordance with Regulation (EU) 2017/625.
+The animals and goods listed in Annex I to this Regulation other than animals and goods exempted under regulations or assimilated direct minor legislation made under Article 48 of Regulation (EU) 2017/625[^c-a090ad0acbd5ed6faefcaa9219562d2d] shall be subject to official controls at border control posts in accordance with Regulation (EU) 2017/625.
 
 ## Article 4. Amendments to Decision 2007/275/EC
 
@@ -167,7 +167,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 14 December 2019.
 
-[^key-c33c03ed7845446f19b4e6db346c399a]...
+[^c-c33c03ed7845446f19b4e6db346c399a]...
 
 Done at Brussels, 18 November 2019.
 
@@ -1203,13 +1203,13 @@ Annexes I and II to Decision 2007/275/EC are amended as follows:
 
 [^f00009]: Footnote: Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive ([OJ L 54, 26.2.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.054.01.0001.01.ENG)).
 
-[^key-a090ad0acbd5ed6faefcaa9219562d2d]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2019/2007/article/3) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2024/541/regulation/11/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-a090ad0acbd5ed6faefcaa9219562d2d]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2019/2007/article/3) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2024/541/regulation/11/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
 [^f00010]: Footnote: Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) ([OJ L 95, 7.4.2017, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.095.01.0001.01.ENG)).’;
 
 [^f00011]: Footnote: Commission Regulation (EU) No 605/2010 of 2 July 2010 laying down animal and public health and veterinary certification conditions for the introduction into the European Union of raw milk, dairy products, colostrum and colostrum-based products intended for human consumption ([OJ L 175, 10.7.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.175.01.0001.01.ENG)).’;
 
-[^key-c33c03ed7845446f19b4e6db346c399a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2007/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/34/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-c33c03ed7845446f19b4e6db346c399a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2007/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/34/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
 [^f00012]: Footnote: Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive ([OJ L 54, 26.2.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.054.01.0001.01.ENG)).
 

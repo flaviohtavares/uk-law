@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If the FCA considers that a person has contravened a requirement imposed on them by or under these Regulations or, in the case of an authorised payment institution, small payment institution, or registered account information services provider, section 312R of the 2000 Act[^key-cda2e60608fb5e52821cc63072c9c220], the FCA may publish a statement to that effect.
+If the FCA considers that a person has contravened a requirement imposed on them by or under these Regulations or, in the case of an authorised payment institution, small payment institution, or registered account information services provider, section 312R of the 2000 Act[^c-cda2e60608fb5e52821cc63072c9c220], the FCA may publish a statement to that effect.
 
 ## Annotations
 
-[^key-cda2e60608fb5e52821cc63072c9c220]: Textual amendment: Words in [reg. 110](https://www.legislation.gov.uk/uksi/2017/752/regulation/110) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/66) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-cda2e60608fb5e52821cc63072c9c220]: Textual amendment: Words in [reg. 110](https://www.legislation.gov.uk/uksi/2017/752/regulation/110) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/66) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)

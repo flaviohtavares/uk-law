@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. General qualifying conditions for grants for living and other costs[^key-d7a5d26abd0e8d6365646e537302501d]
+## 37. General qualifying conditions for grants for living and other costs[^c-d7a5d26abd0e8d6365646e537302501d]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d7a5d26abd0e8d6365646e537302501d]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-d7a5d26abd0e8d6365646e537302501d]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00044]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 

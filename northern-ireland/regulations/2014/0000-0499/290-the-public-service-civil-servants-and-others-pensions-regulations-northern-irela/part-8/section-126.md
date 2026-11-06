@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Recovery of payments[^key-a8e06fa0448f6cf1d3a82751a1ea77c2]
+## 126. Recovery of payments[^c-a8e06fa0448f6cf1d3a82751a1ea77c2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e06fa0448f6cf1d3a82751a1ea77c2]: Commencement: [Reg. 126](https://www.legislation.gov.uk/nisr/2014/290/regulation/126) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-a8e06fa0448f6cf1d3a82751a1ea77c2]: Commencement: [Reg. 126](https://www.legislation.gov.uk/nisr/2014/290/regulation/126) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

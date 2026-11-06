@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Badges for display on motor vehicles used by disabled persons: enforcement[^key-d5e67a8d89c353c8220c9f8fe266a477][^c1033162]
+## 73. Badges for display on motor vehicles used by disabled persons: enforcement[^c-d5e67a8d89c353c8220c9f8fe266a477][^c1033162]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ In section 21 of the Chronically Sick and Disabled Persons Act 1970 (c.44) (badg
 
 ## Annotations
 
-[^key-d5e67a8d89c353c8220c9f8fe266a477]: Commencement: [S. 73(a)(b)(e)](https://www.legislation.gov.uk/asp/2001/2/section/73/a/b) in force at 1.1.2004 by [S.S.I. 2003/588](https://www.legislation.gov.uk/ssi/2003/588), [art. 2](https://www.legislation.gov.uk/ssi/2003/588/article/2)
+[^c-d5e67a8d89c353c8220c9f8fe266a477]: Commencement: [S. 73(a)(b)(e)](https://www.legislation.gov.uk/asp/2001/2/section/73/a/b) in force at 1.1.2004 by [S.S.I. 2003/588](https://www.legislation.gov.uk/ssi/2003/588), [art. 2](https://www.legislation.gov.uk/ssi/2003/588/article/2)
 
 [^c1033162]: Commencement: S. 73 partly in force; s. 73 not in force at Royal Assent see s. 84(2); s. 73(c)(d) in force at 1.4.2001 by [S.S.I. 2001/132](https://www.legislation.gov.uk/ssi/2001/132), [art. 2 Sch.](https://www.legislation.gov.uk/ssi/2001/132/article/2/schedule)

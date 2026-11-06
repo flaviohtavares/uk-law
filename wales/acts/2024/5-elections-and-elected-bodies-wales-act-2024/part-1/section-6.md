@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Pilot regulations: requirements[^key-e379cb937a04b5f41a6c3efb80764d51]
+## 6. Pilot regulations: requirements[^c-e379cb937a04b5f41a6c3efb80764d51]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e379cb937a04b5f41a6c3efb80764d51]: Commencement: S. 6 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-e379cb937a04b5f41a6c3efb80764d51]: Commencement: S. 6 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

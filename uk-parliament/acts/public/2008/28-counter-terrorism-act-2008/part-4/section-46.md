@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Power to amend specified terms or periods of imprisonment or detention[^key-0037652be084b6ce2f3aebb13249ede2]
+## 46. Power to amend specified terms or periods of imprisonment or detention[^c-0037652be084b6ce2f3aebb13249ede2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0037652be084b6ce2f3aebb13249ede2]: Commencement: S. 46 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-0037652be084b6ce2f3aebb13249ede2]: Commencement: S. 46 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

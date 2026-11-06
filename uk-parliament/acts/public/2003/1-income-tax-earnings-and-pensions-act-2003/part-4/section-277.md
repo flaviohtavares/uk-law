@@ -40,7 +40,7 @@ summary: ''
 - (b) any procurement fees connected with any loan raised by the employee to acquire the interest,
 - (c) the costs of any insurance within subsection (2)(c),
 - (d) fees payable to an appropriate registry or appropriate register in connection with the acquisition, and
-- (e) stamp duty or stamp duty land tax[^key-2ea52f76e34f5ea21c9a049520e3e71e] charged on the acquisition.
+- (e) stamp duty or stamp duty land tax[^c-2ea52f76e34f5ea21c9a049520e3e71e] charged on the acquisition.
 
 (4) In this section references to a loan raised by the employee include a loan raised by—
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ea52f76e34f5ea21c9a049520e3e71e]: Textual amendment: Words in s. 277(3)(e) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/18/paragraph/6)
+[^c-2ea52f76e34f5ea21c9a049520e3e71e]: Textual amendment: Words in s. 277(3)(e) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/18/paragraph/6)

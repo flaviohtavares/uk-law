@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power to carry out a financial assessment[^key-fa3dec36b67cbf775c6436f3fbe75833]
+## 8. Power to carry out a financial assessment[^c-fa3dec36b67cbf775c6436f3fbe75833]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority may carry out a new assessment of A’s financial resources in
 
 ## Annotations
 
-[^key-fa3dec36b67cbf775c6436f3fbe75833]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1844/regulation/8) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-fa3dec36b67cbf775c6436f3fbe75833]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1844/regulation/8) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

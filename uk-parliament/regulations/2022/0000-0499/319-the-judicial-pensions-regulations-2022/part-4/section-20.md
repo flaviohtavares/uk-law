@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Refund of all member contributions made by the member[^key-d14b736a393b828e72fdb0cc6c12a183]
+## 20. Refund of all member contributions made by the member[^c-d14b736a393b828e72fdb0cc6c12a183]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d14b736a393b828e72fdb0cc6c12a183]: Commencement: Reg. 20 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-d14b736a393b828e72fdb0cc6c12a183]: Commencement: Reg. 20 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

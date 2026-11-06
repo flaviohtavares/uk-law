@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Exclusion of large debt securities issuer from definition of “UK-traded non-EEA company”[^key-9e02ee76b599749b21a3fbf5b770c7f2]
+## 43. Exclusion of large debt securities issuer from definition of “UK-traded non-EEA company”[^c-9e02ee76b599749b21a3fbf5b770c7f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e02ee76b599749b21a3fbf5b770c7f2]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2007/3494/regulation/43) revoked (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [21(4)](https://www.legislation.gov.uk/uksi/2016/649/regulation/21/4)
+[^c-9e02ee76b599749b21a3fbf5b770c7f2]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2007/3494/regulation/43) revoked (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [21(4)](https://www.legislation.gov.uk/uksi/2016/649/regulation/21/4)

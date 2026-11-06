@@ -36,7 +36,7 @@ summary: ''
 - (a)[^c20260601] the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003.
 - (b)[^c20260611] the Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004.
 - (c)[^c20372151] the Cross-border Railway Services (Working Time) Regulations 2008
-- (d)[^key-55d661a5aa85d502fd1e77df99fbebba] the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 ([S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58)).
+- (d)[^c-55d661a5aa85d502fd1e77df99fbebba] the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 ([S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58)).
 
 ## Annotations
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c20372151]: Textual amendment: S. 101A(2)(c) inserted (27.7.2008) by The Cross-border [Railway Services (Working Time) Regulations 2008 (S.I. 2008/1660)](https://www.legislation.gov.uk/uksi/2008/1660), [reg. 19](https://www.legislation.gov.uk/uksi/2008/1660/regulation/19), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/uksi/2008/1660/schedule/3/paragraph/2/3)
 
-[^key-55d661a5aa85d502fd1e77df99fbebba]: Textual amendment: S. 101A(2)(d) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/2/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-55d661a5aa85d502fd1e77df99fbebba]: Textual amendment: S. 101A(2)(d) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/2/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))

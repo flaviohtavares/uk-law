@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Reporting on breach of financial sanctions[^key-63ac062a06e6f65a1b52e6c607a26741][^key-898054871e7e83bbbac751c6b487ec38]
+## 56. Reporting on breach of financial sanctions[^c-63ac062a06e6f65a1b52e6c607a26741][^c-898054871e7e83bbbac751c6b487ec38]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 149 of the Policing and Crime Act 2017 (monetary penalties: supplemen
 
 ## Annotations
 
-[^key-63ac062a06e6f65a1b52e6c607a26741]: Commencement: S. 56 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-63ac062a06e6f65a1b52e6c607a26741]: Commencement: S. 56 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-898054871e7e83bbbac751c6b487ec38]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/10/section/56) in force at 15.6.2022 by [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2)
+[^c-898054871e7e83bbbac751c6b487ec38]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/10/section/56) in force at 15.6.2022 by [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2)

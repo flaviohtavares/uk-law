@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Independent custody visiting[^key-9354bf9bc207750c08f831276c54a5bc]
+## 94. Independent custody visiting[^c-9354bf9bc207750c08f831276c54a5bc]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9354bf9bc207750c08f831276c54a5bc]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2012/8/section/94) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-9354bf9bc207750c08f831276c54a5bc]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2012/8/section/94) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

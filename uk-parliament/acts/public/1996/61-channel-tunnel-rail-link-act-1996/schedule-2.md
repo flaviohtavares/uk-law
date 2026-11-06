@@ -176,7 +176,7 @@ and works ancillary to any such works.
 
 (8) In this paragraph—
 
-- (a) “**public sewer or drain**” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board, a local authority, an urban development corporation , a Mayoral development corporation[^key-455f242640f77e4c9d30f7d4c989f84e] for an area in Greater London[^key-9d26c3801ab4a39dd70ff0d1c463dd14] or a harbour authority within the meaning of the [^c1252080]Harbours Act 1964,
+- (a) “**public sewer or drain**” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board, a local authority, an urban development corporation , a Mayoral development corporation[^c-455f242640f77e4c9d30f7d4c989f84e] for an area in Greater London[^c-9d26c3801ab4a39dd70ff0d1c463dd14] or a harbour authority within the meaning of the [^c1252080]Harbours Act 1964,
 - (b) “**watercourse**” includes rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows, except a public sewer or drain, and
 - (c) other expressions used both in this paragraph and in the Water Resources Act 1991 have the same meanings as in that Act.
 
@@ -257,9 +257,9 @@ and works ancillary to any such works.
 
 [^c1252079]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-455f242640f77e4c9d30f7d4c989f84e]: Textual amendment: Words in [Sch. 2 para. 9(8)(a)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/2/paragraph/9/8/a) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 43](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/43)
+[^c-455f242640f77e4c9d30f7d4c989f84e]: Textual amendment: Words in [Sch. 2 para. 9(8)(a)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/2/paragraph/9/8/a) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 43](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/43)
 
-[^key-9d26c3801ab4a39dd70ff0d1c463dd14]: Textual amendment: Words in [Sch. 2 para. 9(8)(a)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/2/paragraph/9/8/a) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/19) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-9d26c3801ab4a39dd70ff0d1c463dd14]: Textual amendment: Words in [Sch. 2 para. 9(8)(a)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/2/paragraph/9/8/a) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/19) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c1252080]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

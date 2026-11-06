@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Communities (Designation) (No. 2) Order 2008 (revoked)[^key-0359cb6ae2e67679fe1504e507c4f97e]
+The European Communities (Designation) (No. 2) Order 2008 (revoked)[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 Made
 
@@ -52,50 +52,50 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-0359cb6ae2e67679fe1504e507c4f97e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0359cb6ae2e67679fe1504e507c4f97e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 1. Citation, commencement and interpretation[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to private international law[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 2. Designation in relation to private international law[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to payment services[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 3. Designation in relation to payment services[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to the veterinary and phytosanitary fields[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 4. Designation in relation to the veterinary and phytosanitary fields[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Relationship with other designations[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 5. Relationship with other designations[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 6. Restrictions[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of existing designations[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## 7. Revocation of existing designations[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0359cb6ae2e67679fe1504e507c4f97e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0359cb6ae2e67679fe1504e507c4f97e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-0359cb6ae2e67679fe1504e507c4f97e]
+## SCHEDULE — Revocations[^c-0359cb6ae2e67679fe1504e507c4f97e]
 
 Article 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0359cb6ae2e67679fe1504e507c4f97e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0359cb6ae2e67679fe1504e507c4f97e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0359cb6ae2e67679fe1504e507c4f97e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1792) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0359cb6ae2e67679fe1504e507c4f97e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1792) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

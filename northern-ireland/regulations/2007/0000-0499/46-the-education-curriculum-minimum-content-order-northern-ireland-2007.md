@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Education makes the following Order in exercise of the powers conferred on it by Articles 7(2) and 43(5) of the Education (Northern Ireland) Order 2006[^f00001]:
 
-## 1. Citation and commencement[^key-7349eeceb1f4584c48d00498ae29a05b][^M_I_6b363935-2e41-40a0-b073-ad2b9197c541][^M_I_a850852f-d428-49ce-a753-43c61a4beeb9]
+## 1. Citation and commencement[^c-7349eeceb1f4584c48d00498ae29a05b][^M_I_6b363935-2e41-40a0-b073-ad2b9197c541][^M_I_a850852f-d428-49ce-a753-43c61a4beeb9]
 
 This Order may be cited as The Education (Curriculum Minimum Content) Order (Northern Ireland) 2007 and shall come into operation as set out in Schedule 1.
 
-## 2. Specification of Minimum Content[^key-549e9aa2006566bd97b5aee7e05fd41d][^M_I_09d66465-2669-451b-e3cb-d1611f2fd172][^M_I_8068b1ea-cc6c-4ed1-e433-60ebd5d50719]
+## 2. Specification of Minimum Content[^c-549e9aa2006566bd97b5aee7e05fd41d][^M_I_09d66465-2669-451b-e3cb-d1611f2fd172][^M_I_8068b1ea-cc6c-4ed1-e433-60ebd5d50719]
 
 The Minimum Content for the area of learning at each Key Stage is specified in Schedule 2.
 
@@ -57,11 +57,11 @@ Assistant Secretary
 
 Department of Education
 
-## SCHEDULE 1 — Commencement[^key-0cd95b776b88c5334df2421d6f47d3ae][^key-f4de2bfc4d557be04877142c1d625efd][^key-ff68e7b48b2528770929e82bd7cfe617]
+## SCHEDULE 1 — Commencement[^c-0cd95b776b88c5334df2421d6f47d3ae][^c-f4de2bfc4d557be04877142c1d625efd][^c-ff68e7b48b2528770929e82bd7cfe617]
 
 Article 1
 
-[^key-0cd95b776b88c5334df2421d6f47d3ae][^key-f4de2bfc4d557be04877142c1d625efd][^key-ff68e7b48b2528770929e82bd7cfe617]The provisions of this Order shall come into operation for pupils in each year of each key stage on 1<sup>st</sup> August of the school year shown in the following table:
+[^c-0cd95b776b88c5334df2421d6f47d3ae][^c-f4de2bfc4d557be04877142c1d625efd][^c-ff68e7b48b2528770929e82bd7cfe617]The provisions of this Order shall come into operation for pupils in each year of each key stage on 1<sup>st</sup> August of the school year shown in the following table:
 
 <table>
 <thead>
@@ -86,7 +86,7 @@ Article 1
 
 Article 2
 
-### PART 1 — Statutory Requirements Relating to the Curriculum[^key-920e236b917ff5e6bd6a40dd24d5fc62][^key-e52b9dcdc2c66717fddb84a0e6e0800b][^key-e60cd58e9df255702a80427972697150]
+### PART 1 — Statutory Requirements Relating to the Curriculum[^c-920e236b917ff5e6bd6a40dd24d5fc62][^c-e52b9dcdc2c66717fddb84a0e6e0800b][^c-e60cd58e9df255702a80427972697150]
 
 The statutory Northern Ireland Curriculum from Foundation Stage to Key Stage 4
 
@@ -152,7 +152,7 @@ In order to meet their statutory requirements, schools must provide learning opp
 
 The Minimum Content for each Area of Learning and Key Stage means the knowledge, understanding and skills within that Area of Learning which are required to be taught to pupils of different abilities and maturities during that stage.
 
-### PART 2 — Foundation Stage[^key-e6cfdb36f22393e199476dc6b763c1a4][^key-00dc3d9bbe7d3c792ee114fd32d34825][^M_I_09d458cd-8edc-48cb-f6dd-217330bb2223]
+### PART 2 — Foundation Stage[^c-e6cfdb36f22393e199476dc6b763c1a4][^c-00dc3d9bbe7d3c792ee114fd32d34825][^M_I_09d458cd-8edc-48cb-f6dd-217330bb2223]
 
 #### LANGUAGE AND LITERACY
 
@@ -610,7 +610,7 @@ As pupils progress through the Foundation Stage they should be enabled to:
 - begin to understand the importance of physical activity for good health and the reasons that it is important to dress appropriately for physical activity;
 - be aware of the effects of exercise on their bodies.
 
-### PART 3 — Key Stage 1[^key-f0451b5c947413abaf25a00c2a976859][^M_I_d05fd480-191c-4fa6-9e0c-04afcbdb7cba][^key-208da13f33d4552cf55d41a3786fe7aa]
+### PART 3 — Key Stage 1[^c-f0451b5c947413abaf25a00c2a976859][^M_I_d05fd480-191c-4fa6-9e0c-04afcbdb7cba][^c-208da13f33d4552cf55d41a3786fe7aa]
 
 #### LANGUAGE AND LITERACY
 
@@ -935,7 +935,7 @@ Pupils should be enabled to
 - progress from working individually to working in pairs;
 - evaluate their movements and those of others.
 
-### PART 4 — Key Stage 2[^key-ca6ad7038e4ebd6ebe6a5a04b5d6e852][^key-2c744024a77faf37f5b989c75db5b3ef][^key-970269f8028c213534fb007db0df1688]
+### PART 4 — Key Stage 2[^c-ca6ad7038e4ebd6ebe6a5a04b5d6e852][^c-2c744024a77faf37f5b989c75db5b3ef][^c-970269f8028c213534fb007db0df1688]
 
 #### LANGUAGE AND LITERACY
 
@@ -1272,7 +1272,7 @@ Pupils should be enabled to:
 - understand the importance of personal hygiene in relation to pool use;
 - progress from using a swimming aid to developing their confidence and competence in being able to swim without the use of any aids using recognised swimming strokes.
 
-### PART 5 — Key Stage 3[^key-8ad4c6198a55c5646a59eb2adfe28a6e][^key-ca6af487ef76f5da2d35e00c383c8952][^key-9d85c148fc0ae97070972504ac31c769]
+### PART 5 — Key Stage 3[^c-8ad4c6198a55c5646a59eb2adfe28a6e][^c-ca6af487ef76f5da2d35e00c383c8952][^c-9d85c148fc0ae97070972504ac31c769]
 
 LANGUAGE AND LITERACY: English with Media Education
 
@@ -1464,7 +1464,7 @@ The minimum content is set out below
 </tbody>
 </table>
 
-[^key-fdb1ce90e9d391146e1637c980fc20a5][^key-38ca3089df4e4338468ccf2a8c50fa65]
+[^c-fdb1ce90e9d391146e1637c980fc20a5][^c-38ca3089df4e4338468ccf2a8c50fa65]
 
 LEARNING FOR LIFE AND WORK: Home Economics
 
@@ -1492,7 +1492,7 @@ The minimum content is set out below
 </tbody>
 </table>
 
-### PART 6 — Key Stage 4[^key-fe5957e37bd12f45749b9b47f2c40288][^key-7ccf50e28711ddfe5fee4f86b26e0029][^M_I_3fcb8fb3-7e3f-4316-92a1-ea9e85a5124b]
+### PART 6 — Key Stage 4[^c-fe5957e37bd12f45749b9b47f2c40288][^c-7ccf50e28711ddfe5fee4f86b26e0029][^M_I_3fcb8fb3-7e3f-4316-92a1-ea9e85a5124b]
 
 In addition to the Minimum Content for Learning and Life and Work and Physical Education, schools will be required to provide pupils with access to each of the areas of learning at Key Stage 4 set out above.
 
@@ -1518,7 +1518,7 @@ In addition to the Minimum Content for Learning and Life and Work and Physical E
   - develop their understanding of relationships and sexuality and the responsibilities of healthy relationships;
   - develop an understanding of the roles and responsibilities of parenting;
   - develop further their competence as discerning consumers in preparation for independent living.
-  - Receive age-appropriate, comprehensive and scientifically accurate education on sexual and reproductive health and rights covering prevention of early pregnancy and access to abortion.[^key-4101b41b057e57c3b663c67658f08295]
+  - Receive age-appropriate, comprehensive and scientifically accurate education on sexual and reproductive health and rights covering prevention of early pregnancy and access to abortion.[^c-4101b41b057e57c3b663c67658f08295]
 - **Local and Global Citizenship**
 
   Pupils should be enabled to:
@@ -1555,62 +1555,62 @@ The provisions of this Order come into operation on a phased basis from 1<sup>st
 
 [^f00001]: Footnote: [S.I.2006/1915 (N.I.11)](https://www.legislation.gov.uk/nisi/2006/1915)
 
-[^key-7349eeceb1f4584c48d00498ae29a05b]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-7349eeceb1f4584c48d00498ae29a05b]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_6b363935-2e41-40a0-b073-ad2b9197c541]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_a850852f-d428-49ce-a753-43c61a4beeb9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-549e9aa2006566bd97b5aee7e05fd41d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/46/article/2) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-549e9aa2006566bd97b5aee7e05fd41d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/46/article/2) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_09d66465-2669-451b-e3cb-d1611f2fd172]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/46/article/2) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_8068b1ea-cc6c-4ed1-e433-60ebd5d50719]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2007/46/article/2) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-0cd95b776b88c5334df2421d6f47d3ae]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-0cd95b776b88c5334df2421d6f47d3ae]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-f4de2bfc4d557be04877142c1d625efd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-f4de2bfc4d557be04877142c1d625efd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-ff68e7b48b2528770929e82bd7cfe617]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-ff68e7b48b2528770929e82bd7cfe617]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-920e236b917ff5e6bd6a40dd24d5fc62]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/1) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-920e236b917ff5e6bd6a40dd24d5fc62]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/1) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-e52b9dcdc2c66717fddb84a0e6e0800b]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/1) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-e52b9dcdc2c66717fddb84a0e6e0800b]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/1) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-e60cd58e9df255702a80427972697150]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/1) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-e60cd58e9df255702a80427972697150]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/1) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-e6cfdb36f22393e199476dc6b763c1a4]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/2) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-e6cfdb36f22393e199476dc6b763c1a4]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/2) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-00dc3d9bbe7d3c792ee114fd32d34825]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/2) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-00dc3d9bbe7d3c792ee114fd32d34825]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/2) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_09d458cd-8edc-48cb-f6dd-217330bb2223]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/2) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-f0451b5c947413abaf25a00c2a976859]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/3) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-f0451b5c947413abaf25a00c2a976859]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/3) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_d05fd480-191c-4fa6-9e0c-04afcbdb7cba]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/3) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-208da13f33d4552cf55d41a3786fe7aa]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/3) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-208da13f33d4552cf55d41a3786fe7aa]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/3) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-ca6ad7038e4ebd6ebe6a5a04b5d6e852]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/4) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-ca6ad7038e4ebd6ebe6a5a04b5d6e852]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/4) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-2c744024a77faf37f5b989c75db5b3ef]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/4) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-2c744024a77faf37f5b989c75db5b3ef]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/4) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-970269f8028c213534fb007db0df1688]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/4) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-970269f8028c213534fb007db0df1688]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/4) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-8ad4c6198a55c5646a59eb2adfe28a6e]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-8ad4c6198a55c5646a59eb2adfe28a6e]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-ca6af487ef76f5da2d35e00c383c8952]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-ca6af487ef76f5da2d35e00c383c8952]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-9d85c148fc0ae97070972504ac31c769]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-9d85c148fc0ae97070972504ac31c769]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-fdb1ce90e9d391146e1637c980fc20a5]: Textual amendment: Words in [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) Table inserted (10.3.2022) by [The Education (Curriculum Minimum Content) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/45)](https://www.legislation.gov.uk/nisr/2022/45), [arts. 1](https://www.legislation.gov.uk/nisr/2022/45/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/45/article/2/2)
+[^c-fdb1ce90e9d391146e1637c980fc20a5]: Textual amendment: Words in [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) Table inserted (10.3.2022) by [The Education (Curriculum Minimum Content) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/45)](https://www.legislation.gov.uk/nisr/2022/45), [arts. 1](https://www.legislation.gov.uk/nisr/2022/45/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/45/article/2/2)
 
-[^key-38ca3089df4e4338468ccf2a8c50fa65]: Textual amendment: Words in [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) Table inserted (1.7.2023) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/602/regulation/3/2/a)
+[^c-38ca3089df4e4338468ccf2a8c50fa65]: Textual amendment: Words in [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/5) Table inserted (1.7.2023) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/602/regulation/3/2/a)
 
-[^key-fe5957e37bd12f45749b9b47f2c40288]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-fe5957e37bd12f45749b9b47f2c40288]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) in operation at 1.8.2007 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-7ccf50e28711ddfe5fee4f86b26e0029]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
+[^c-7ccf50e28711ddfe5fee4f86b26e0029]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) in operation at 1.8.2008 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
 [^M_I_3fcb8fb3-7e3f-4316-92a1-ea9e85a5124b]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) in operation at 1.8.2009 for specified purposes, see [art. 1](https://www.legislation.gov.uk/nisr/2007/46/article/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/46/schedule/1)
 
-[^key-4101b41b057e57c3b663c67658f08295]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) inserted (1.7.2023) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/602/regulation/3/2/b)
+[^c-4101b41b057e57c3b663c67658f08295]: Textual amendment: Words in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/nisr/2007/46/schedule/2/part/6) inserted (1.7.2023) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/602/regulation/3/2/b)

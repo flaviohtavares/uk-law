@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Payments of child support maintenance[^key-766ea56bc78c6c16a3b84276e92269af]
+## 54. Payments of child support maintenance[^c-766ea56bc78c6c16a3b84276e92269af]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-766ea56bc78c6c16a3b84276e92269af]: Commencement: S. 54 in force at 8.10.2012 by [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/d)
+[^c-766ea56bc78c6c16a3b84276e92269af]: Commencement: S. 54 in force at 8.10.2012 by [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/1/d)

@@ -52,7 +52,7 @@ Any undertaking which is a member of a highest parent group, or of a participant
 - (b) may agree in writing with the highest parent of another highest parent group that it will comply with the Scheme as a member of that group, or
 - (c) in the absence of an agreement made in accordance with sub-paragraph (a) or (b), must comply with the Scheme on its own behalf.
 
-**7A.**[^key-a08f7229dd02ec339fa6b5d385f80ba3] Any undertaking which is a member of a highest parent group, or of a participant formed in accordance with paragraph 3(b) or (c), on the compliance date, and ceases to be part of that group or participant before the last date by which an ESOS action plan is required to be notified under regulation 34A(6)—
+**7A.**[^c-a08f7229dd02ec339fa6b5d385f80ba3] Any undertaking which is a member of a highest parent group, or of a participant formed in accordance with paragraph 3(b) or (c), on the compliance date, and ceases to be part of that group or participant before the last date by which an ESOS action plan is required to be notified under regulation 34A(6)—
 
 - (a) may agree in writing with the highest parent that it will comply with regulations 34A and 34B as if it were still a member of that group or participant,
 - (b) may agree in writing with the highest parent of another highest parent group that it will comply with regulations 34A and 34B as a member of that group, or
@@ -85,7 +85,7 @@ Subject to paragraph 11, two or more franchise undertakings may comply with the 
   - (ii) the franchise business is carried on under a name which the franchisor provides to the franchisee,
   - (iii) the premises where the franchise business is carried on are used exclusively for that business by the franchisee, and
   - (iv) those premises have an internal or external appearance agreed by the franchisor and that appearance is similar to that of other premises in respect of which the franchisor has entered into a franchise agreement,
-- (b)[^key-ab74de7ba4802060ba15f3a7427440c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ab74de7ba4802060ba15f3a7427440c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a “**franchise undertaking**” means the franchisor, and any franchisee, that are party to a franchise agreement,
 - (d) a franchise agreement does not exist where the franchisee and the franchisor are group undertakings in relation to each other.
 
@@ -97,6 +97,6 @@ Subject to paragraph 11, two or more franchise undertakings may comply with the 
 
 ## Annotations
 
-[^key-a08f7229dd02ec339fa6b5d385f80ba3]: Textual amendment: [Sch. 2 paras. 7A](https://www.legislation.gov.uk/uksi/2014/1643/schedule/2/paragraph/7A), [7B](https://www.legislation.gov.uk/uksi/2014/1643/schedule/2/paragraph/7B) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2023/1182/regulation/27)
+[^c-a08f7229dd02ec339fa6b5d385f80ba3]: Textual amendment: [Sch. 2 paras. 7A](https://www.legislation.gov.uk/uksi/2014/1643/schedule/2/paragraph/7A), [7B](https://www.legislation.gov.uk/uksi/2014/1643/schedule/2/paragraph/7B) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2023/1182/regulation/27)
 
-[^key-ab74de7ba4802060ba15f3a7427440c1]: Textual amendment: [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2014/1643/schedule/2/paragraph/12/b) omitted (26.10.2015) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2015 (S.I. 2015/1731)](https://www.legislation.gov.uk/uksi/2015/1731), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1731/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1731/regulation/2/3)
+[^c-ab74de7ba4802060ba15f3a7427440c1]: Textual amendment: [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2014/1643/schedule/2/paragraph/12/b) omitted (26.10.2015) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2015 (S.I. 2015/1731)](https://www.legislation.gov.uk/uksi/2015/1731), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1731/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1731/regulation/2/3)

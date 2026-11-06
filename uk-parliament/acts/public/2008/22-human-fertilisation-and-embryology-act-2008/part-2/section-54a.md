@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Parental orders: one applicant[^key-0f742cadd16b9731659cfac85a95ff6b][^key-e99b1dfda6091571d0c50cb2d9b83d28]
+## 54A. Parental orders: one applicant[^c-0f742cadd16b9731659cfac85a95ff6b][^c-e99b1dfda6091571d0c50cb2d9b83d28]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ unless authorised by the court.
 
 ## Annotations
 
-[^key-0f742cadd16b9731659cfac85a95ff6b]: Textual amendment: S. 54A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1413/article/2/5)
+[^c-0f742cadd16b9731659cfac85a95ff6b]: Textual amendment: S. 54A inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1413/article/2/5)
 
-[^key-e99b1dfda6091571d0c50cb2d9b83d28]: Modification: [S. 54A](https://www.legislation.gov.uk/ukpga/2008/22/section/54A) applied (with modifications) by S.I. 2015/572, reg. 18A (as inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/14))
+[^c-e99b1dfda6091571d0c50cb2d9b83d28]: Modification: [S. 54A](https://www.legislation.gov.uk/ukpga/2008/22/section/54A) applied (with modifications) by S.I. 2015/572, reg. 18A (as inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/14))

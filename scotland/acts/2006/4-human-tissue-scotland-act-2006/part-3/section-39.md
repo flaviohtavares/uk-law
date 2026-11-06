@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Use of tissue sample which has become part of deceased's medical records[^key-f57c3415b34eb8b8ada389ea06446110]
+## 39. Use of tissue sample which has become part of deceased's medical records[^c-f57c3415b34eb8b8ada389ea06446110]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ Where, by virtue of notice under section 38(2), tissue sample becomes part of th
 
 ## Annotations
 
-[^key-f57c3415b34eb8b8ada389ea06446110]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/4/section/39) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-f57c3415b34eb8b8ada389ea06446110]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/4/section/39) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

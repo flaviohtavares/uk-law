@@ -25,7 +25,7 @@ summary: ''
 - (a) the terms of the contract; and
 - (b) any other conditions relating to payment contained in directions given by the Secretary of State under section 87 of the Act (GMS contracts: payments) [^c22714651].
 
-(2) The contract must contain a term to the effect that where, in accordance with directions given by the Secretary of State under section 87 (GMS contracts: payments) or section 98A of the Act [^c22714661] (exercise of functions), NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] is required to make a payment to a contractor under a contract but subject to conditions, those conditions must be a term of the contract.
+(2) The contract must contain a term to the effect that where, in accordance with directions given by the Secretary of State under section 87 (GMS contracts: payments) or section 98A of the Act [^c22714661] (exercise of functions), NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] is required to make a payment to a contractor under a contract but subject to conditions, those conditions must be a term of the contract.
 
 (3) The obligation referred to in paragraph (1) is subject to any right that NHS England may have to set off against an amount payable to the contractor under the contract any amount that—
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c22714661]: Marginal citation: Section 98A was inserted by section 49(1) of the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

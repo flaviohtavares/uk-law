@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Schedule 5A inserted[^key-b9f9b8dcf4576d1539623eb26a19017f]
+## 37. Schedule 5A inserted[^c-b9f9b8dcf4576d1539623eb26a19017f]
 
 *Extent: E+W+S+N.I.*
 
@@ -536,7 +536,7 @@ After Schedule 5 insert—
 
 ## Annotations
 
-[^key-b9f9b8dcf4576d1539623eb26a19017f]: Commencement: Art. 37 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-b9f9b8dcf4576d1539623eb26a19017f]: Commencement: Art. 37 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
 
 [^c24385291]: Marginal citation: [2020 c. 14](https://www.legislation.gov.uk/ukpga/2020/14).
 

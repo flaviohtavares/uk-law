@@ -70,14 +70,14 @@ In these Regulations—
 - “**the 1995 Regulations**” (“***Rheoliadau 1995***”) means the Bovine Embryo (Collection, Production and Transfer) Regulations 1995 [^c22973151];
 - “**the 2008 Regulations**” (“***Rheoliadau 2008***”) means the Bovine Semen (Wales) Regulations 2008 [^c22973161];
 - “**the 2011 Regulations**” (“***Rheoliadau 2011***”) means the Trade in Animals and Related Products (Wales) Regulations 2011 [^c22973171];
-- “[^key-f614c332864f0ea792f5394436698084]**border control post**” (“***safle rheoli ar y ffin***”) has the meaning given by regulation 11 of the 2011 Regulations;
+- “[^c-f614c332864f0ea792f5394436698084]**border control post**” (“***safle rheoli ar y ffin***”) has the meaning given by regulation 11 of the 2011 Regulations;
 - “**consignment**” (“***llwyth***”) means a quantity of animals of the same species, covered by the same veterinary certificate or document;
-- “[^key-3d120ca590da60bc8ba4009046533309]**poultry health scheme**” (“***cynllun iechyd dofednod***”) means the scheme established by the Secretary of State governing the export or movement of birds or hatching eggs to the EU, Northern Ireland or specified non-EU countries, published on 22 July 2021;
-- “[^key-9cd1b72829581dd32f24e63df5010a51]**third country**” (“***trydedd wlad***”) means a country or territory other than the British Islands;
+- “[^c-3d120ca590da60bc8ba4009046533309]**poultry health scheme**” (“***cynllun iechyd dofednod***”) means the scheme established by the Secretary of State governing the export or movement of birds or hatching eggs to the EU, Northern Ireland or specified non-EU countries, published on 22 July 2021;
+- “[^c-9cd1b72829581dd32f24e63df5010a51]**third country**” (“***trydedd wlad***”) means a country or territory other than the British Islands;
 - “**veterinary officer**” (“***swyddog milfeddygol***”) means a veterinary surgeon employed as such by the Welsh Ministers; and
 - “veterinary surgeon” (“*milfeddyg”*) means a person registered in the register of veterinary surgeons kept under section 2 of the Veterinary Surgeons Act 1966 [^c22973191].
 
-## 2A. Fee payable where an activity is carried out over a period during which different fees apply[^key-558ebff7b9b33b292c1b579775071526]
+## 2A. Fee payable where an activity is carried out over a period during which different fees apply[^c-558ebff7b9b33b292c1b579775071526]
 
 If any activity for which a fee is payable under these Regulations is carried out over a period during which different fees apply, the fee payable in relation to that activity is—
 
@@ -88,15 +88,15 @@ If any activity for which a fee is payable under these Regulations is carried ou
 
 If any application for which a fee is payable under these Regulations is withdrawn before determination of the application, the Welsh Ministers must refund to the applicant such proportion of any fee paid in respect of that application as the Welsh Ministers think reasonable, having regard to any reasonable costs incurred by the Welsh Ministers in connection with the application.
 
-## 4. Salmonella ... control programmes (zoonoses): fees[^key-b049cf53a2cc4950f95ad2da9a134663]
+## 4. Salmonella ... control programmes (zoonoses): fees[^c-b049cf53a2cc4950f95ad2da9a134663]
 
-(1) Schedule 1 sets out the fees payable for activities conducted by the Welsh Ministers in relation to the control of *Salmonella* in accordance with the relevant [^key-c05cb91f5743e79f2f01c35ff76c9938]... control programme established by or under Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents [^c22973201].
+(1) Schedule 1 sets out the fees payable for activities conducted by the Welsh Ministers in relation to the control of *Salmonella* in accordance with the relevant [^c-c05cb91f5743e79f2f01c35ff76c9938]... control programme established by or under Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents [^c22973201].
 
 (2) In Schedule 1—
 
-- (a) the fees payable by the person in charge of a poultry holding for the activities specified in column 1 of Table 1 are specified in the corresponding entries in column 2 or column 3[^key-e6e10c3688432426ec0697451a72449a] of that Table;
-- (b) the fees payable by the operator of a laboratory for the activities specified in column 1 of Table 2 are specified in the corresponding entries in column 2 or column 3[^key-9f7e6e46c15027b46a4d296d66ba9afc] of that Table; and
-- (c) the fees payable by the person in charge of poultry flocks for the activities specified in column 1 of Table 3 are specified in the corresponding entries in column 2 or column 3[^key-fb5043d089151a29504dcf8441aad0ca] of that Table.
+- (a) the fees payable by the person in charge of a poultry holding for the activities specified in column 1 of Table 1 are specified in the corresponding entries in column 2 or column 3[^c-e6e10c3688432426ec0697451a72449a] of that Table;
+- (b) the fees payable by the operator of a laboratory for the activities specified in column 1 of Table 2 are specified in the corresponding entries in column 2 or column 3[^c-9f7e6e46c15027b46a4d296d66ba9afc] of that Table; and
+- (c) the fees payable by the person in charge of poultry flocks for the activities specified in column 1 of Table 3 are specified in the corresponding entries in column 2 or column 3[^c-fb5043d089151a29504dcf8441aad0ca] of that Table.
 
 (3) Words and expressions used in Schedule 1 have the same meaning as in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
 
@@ -106,7 +106,7 @@ If any application for which a fee is payable under these Regulations is withdra
 
 (2) In Schedule 2—
 
-- (a) the fees payable by applicants for approval and registration activities specified in column 1 of Table 1 are specified in the corresponding entries in column 2 or column 3[^key-4f857e144ec7671a68af6039b701207f] of that Table; and
+- (a) the fees payable by applicants for approval and registration activities specified in column 1 of Table 1 are specified in the corresponding entries in column 2 or column 3[^c-4f857e144ec7671a68af6039b701207f] of that Table; and
 - (b) the fees payable by the operator of a laboratory for activities specified in column 1 of Table 2 are specified in the corresponding entries in column 2 of that Table.
 
 ## 6. Bovine semen: fees
@@ -119,7 +119,7 @@ If any application for which a fee is payable under these Regulations is withdra
 >
 > The fees payable to the Welsh Ministers are as provided by regulation 6(3) of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018.
 
-(3) Schedule 3 sets out the fees payable for activities conducted by the Welsh Ministers under the 2008 Regulations; and accordingly the fees payable by applicants and operators for the activities specified in column 1 of the Table are specified in the corresponding entries in column 2 or column 3[^key-920c6fa4678b4c0dd8fca4739783be5b] of that Table.
+(3) Schedule 3 sets out the fees payable for activities conducted by the Welsh Ministers under the 2008 Regulations; and accordingly the fees payable by applicants and operators for the activities specified in column 1 of the Table are specified in the corresponding entries in column 2 or column 3[^c-920c6fa4678b4c0dd8fca4739783be5b] of that Table.
 
 (4) Words and expressions used in Schedule 3 have the same meaning as in the 2008 Regulations.
 
@@ -127,7 +127,7 @@ If any application for which a fee is payable under these Regulations is withdra
 
 (1) Schedule 4 sets out the fees payable to the Welsh Ministers in connection with the issue of licences or approvals and tests and examinations carried out under the 1964 Regulations or the 1992 Regulations.
 
-(2) In Schedule 4 the fees payable by the applicant or holder of the licence or approval for the activities specified in column 1 of the Table are specified in the corresponding entries in column 2 or column 3[^key-4334be76a19bf039c650b9bd22666bd6] of that Table.
+(2) In Schedule 4 the fees payable by the applicant or holder of the licence or approval for the activities specified in column 1 of the Table are specified in the corresponding entries in column 2 or column 3[^c-4334be76a19bf039c650b9bd22666bd6] of that Table.
 
 (3) In Schedule 4 “**artificial insemination centre**” means premises—
 
@@ -138,13 +138,13 @@ If any application for which a fee is payable under these Regulations is withdra
 
 (1) Schedule 5 sets out the fees payable to the Welsh Ministers for activities in relation to an application for an approval or a holder of an approval under the 1995 Regulations.
 
-(2) In Schedule 5 the fees payable by applicants for, or holders of, approvals under the 1995 Regulations for the activities specified in column 1 of the Table are specified in the corresponding entries in column 2 or column 3[^key-c8645837e0af956c63faf795e5ca17dd] of that Table.
+(2) In Schedule 5 the fees payable by applicants for, or holders of, approvals under the 1995 Regulations for the activities specified in column 1 of the Table are specified in the corresponding entries in column 2 or column 3[^c-c8645837e0af956c63faf795e5ca17dd] of that Table.
 
 (3) Words and expressions used in Schedule 5 have the same meaning as in the 1995 Regulations.
 
-## 9. Checking consignments of live animals at border control posts: fees[^key-a9ec968c197c953c77380b206a9452da]
+## 9. Checking consignments of live animals at border control posts: fees[^c-a9ec968c197c953c77380b206a9452da]
 
-(1) Schedule 6 sets out the fees payable where inspections are carried out at border control posts[^key-a37cc7ae885b9eeab07c4d2576489242] of consignments of live animals from a third country in accordance with regulation 15 of the 2011 Regulations.
+(1) Schedule 6 sets out the fees payable where inspections are carried out at border control posts[^c-a37cc7ae885b9eeab07c4d2576489242] of consignments of live animals from a third country in accordance with regulation 15 of the 2011 Regulations.
 
 (2) In Schedule 6—
 
@@ -160,7 +160,7 @@ Lesley Griffiths
 
 Cabinet Secretary for Energy, Planning and Rural Affairs, one of the Welsh Ministers
 
-## SCHEDULE 1 — Salmonella ... control programmes (zoonoses): Fees[^key-4ab49fd67506143c837af5d812c236ab]
+## SCHEDULE 1 — Salmonella ... control programmes (zoonoses): Fees[^c-4ab49fd67506143c837af5d812c236ab]
 
 Regulation 4
 
@@ -170,7 +170,7 @@ Fees payable by the person in charge of a chicken or turkey holding from which a
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
-| *Activity[^key-8009c1d6343149f1eb7628c188eb0f95][^key-1a1a924a02f1d442b16e9b562bb34e2e]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
+| *Activity[^c-8009c1d6343149f1eb7628c188eb0f95][^c-1a1a924a02f1d442b16e9b562bb34e2e]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
 | Time spent in obtaining an official control sample for examination in a<br>laboratory (in this Table, the “time fee”) (in addition to the fees specified below unless otherwise specified in column 2) | 12 per quarter hour or part quarter hour spent | 12 per quarter hour or part quarter hour spent |
 | Time spent travelling to and from premises for the purpose of activities below | 12 per quarter hour or part quarter hour spent, up to a maximum of 72 | 12 per quarter hour or part quarter hour spent, up to a maximum of 72 |
 | Taking an official control sample from a chicken laying flock | 41 | 49 |
@@ -178,7 +178,7 @@ Fees payable by the person in charge of a chicken or turkey holding from which a
 | Taking an official control sample from a chicken broiler flock, or turkey fattening flock | 95 | 117 |
 | Examination of an official control sample in a laboratory | 18 per sample tested (time fee does not apply) | 21 per sample tested (time fee does not apply) |
 
-Table 2[^key-8ef61e002ffc3b56f7963b827af29429]
+Table 2[^c-8ef61e002ffc3b56f7963b827af29429]
 
 Fees payable by the operator of a laboratory in relation to an approval under Article 12 of Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)
 
@@ -200,7 +200,7 @@ Fees payable by the person in charge of poultry flocks for tests conducted under
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
-| *Activity[^key-a45343721c3b3d28435a08432a8b873a][^key-25e31febcfec6f1e51be184ce5d973ef]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
+| *Activity[^c-a45343721c3b3d28435a08432a8b873a][^c-25e31febcfec6f1e51be184ce5d973ef]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
 | Conducting tests on seven dust and faecal samples taken from each flock | 123 | 146 |
 | Conducting bacteriological sampling and testing of the caeca and oviducts of 300 birds from each flock | 3,203 | 3,936 |
 | Conducting bacteriological sampling and testing of the shell and the content of 4,000 eggs from each flock | 3,517 | 3,954 |
@@ -215,7 +215,7 @@ Fees for registration and approval of an establishment for the purposes of the p
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
-| *Activity[^key-c17a4142c3b5f462c32049223a382880][^key-f5d660a0a46cd7da1aee5d0f6a29adab]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
+| *Activity[^c-c17a4142c3b5f462c32049223a382880][^c-f5d660a0a46cd7da1aee5d0f6a29adab]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
 | Time spent by a veterinary officer carrying out the activities in this Table (in this Table the “time fee”) (in addition to the fees listed below unless otherwise specified in column 2) | 22 per quarter hour or part quarter hour spent | 22 per quarter hour or part quarter hour spent |
 | Time spent by a veterinary officer travelling to and from the premises of a poultry health scheme member (in this Table a “scheme member”) for the purpose of activities below | 22 per quarter hour or part quarter hour spent, up to a maximum of 132 | 22 per quarter hour or part quarter hour spent, up to a maximum of 132 |
 | Annual registration as a scheme member | 82 (time fee does not apply) | 108 (time fee does not apply) |
@@ -231,7 +231,7 @@ Fees payable by the operator of a laboratory in relation to approval for the pur
 
 | *Column 1* | *Column 2* |
 | --- | --- |
-| *Activity[^key-0435b823711e32fae09ed52aa075a773]* | *Fee (£) on or after 5 July 2023* |
+| *Activity[^c-0435b823711e32fae09ed52aa075a773]* | *Fee (£) on or after 5 July 2023* |
 | Processing an application for an initial laboratory approval or a biennial renewal of a laboratory approval | 86 |
 | Proficiency test in respect of *Salmonella* bacteriology (*pullorum, gallinarum and arizonae*) | 158 per test |
 | Proficiency test in respect of *Salmonella* serology (*pullorum, gallinarum*) | 310 per test |
@@ -247,15 +247,15 @@ Fees payable by applicants and operators under the 2008 Regulations
 
 | *Column 1* | Column 2 | *Column 3* |
 | --- | --- | --- |
-| *Activity[^key-b7ab040618a74fc6ada4d353135d0e8c][^M_F_072bef64-c3e7-4a45-e483-6b18cd63648a]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
+| *Activity[^c-b7ab040618a74fc6ada4d353135d0e8c][^M_F_072bef64-c3e7-4a45-e483-6b18cd63648a]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
 | Time spent by a veterinary officer carrying out the activities in this Table (in addition to each of the fees listed below) | 22 per quarter hour or part quarter hour spent | 22 per quarter hour or part quarter hour spent |
 | Time spent by a veterinary officer travelling to and from premises for the purpose of activities below | 22 per quarter hour or part quarter hour spent, up to a maximum of 132 | 22 per quarter hour or part quarter hour spent, up to a maximum of 132 |
 | Considering an application for approval of a bovine animal under regulations 7 or 10 of the 2008 Regulations for use in domestic collection centre or at unlicensed premises | 27 | 33 |
-| Considering an application under regulation 7 of the 2008 Regulations for approval of a bovine animal for use in a licensed collection centre[^key-060d424ef0bfc8c552267ba9e0592db2] | 35 | 44 |
-| Considering an application for a licence to operate a licensed quarantine centre[^key-b6177253ac5d1168b4052f21217d0641] under regulation 4 of the 2008 Regulations | 39 | 48 |
-| Considering an application for a licence to operate a licensed collection centre[^key-186cd7cb62c2287a29a6dbe181651e0a] or domestic collection centre, or a licensed storage centre[^key-60a9abee66969b15bc39a2bfaa8821d3] or domestic storage centre under regulation 4 of the 2008 Regulations | 37 | 46 |
+| Considering an application under regulation 7 of the 2008 Regulations for approval of a bovine animal for use in a licensed collection centre[^c-060d424ef0bfc8c552267ba9e0592db2] | 35 | 44 |
+| Considering an application for a licence to operate a licensed quarantine centre[^c-b6177253ac5d1168b4052f21217d0641] under regulation 4 of the 2008 Regulations | 39 | 48 |
+| Considering an application for a licence to operate a licensed collection centre[^c-186cd7cb62c2287a29a6dbe181651e0a] or domestic collection centre, or a licensed storage centre[^c-60a9abee66969b15bc39a2bfaa8821d3] or domestic storage centre under regulation 4 of the 2008 Regulations | 37 | 46 |
 | Conducting an examination of a bovine semen centre under regulation 40 of the 2008 Regulations | 23 | 28 |
-| Conducting a routine examination of an approved bovine animal for domestic use or for use for trade with a member State[^key-cb0ea89dcd275f51025f9a0ce5888d56] under regulation 33 of the 2008 Regulations | 31 | 38 |
+| Conducting a routine examination of an approved bovine animal for domestic use or for use for trade with a member State[^c-cb0ea89dcd275f51025f9a0ce5888d56] under regulation 33 of the 2008 Regulations | 31 | 38 |
 
 ## SCHEDULE 4 — Porcine semen: Fees
 
@@ -280,7 +280,7 @@ Fees payable under the 1964 Regulations and the 1992 Regulations
 </tbody>
 </table>
 
-[^key-78a154a76bb8ed4ba299211d159cc96e][^key-032994d2e8417241406e6f872def3674]
+[^c-78a154a76bb8ed4ba299211d159cc96e][^c-032994d2e8417241406e6f872def3674]
 
 ## SCHEDULE 5 — Bovine embryo (collection, production and transfer): Fees
 
@@ -290,26 +290,26 @@ Fees payable under the 1995 Regulations
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
-| *Activity[^key-e656ad967d20240a3b1fc5fd3ffdb8e1][^key-1db134b716c65c7c7225e7f4f847a98b]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
+| *Activity[^c-e656ad967d20240a3b1fc5fd3ffdb8e1][^c-1db134b716c65c7c7225e7f4f847a98b]* | *Fee (£) on or after 5 July 2023 but before 1 July 2024* | *Fee (£) on or after 1 July 2024* |
 | Time spent by veterinary officer when carrying out the activities listed in this Table (in addition to each of the fees listed below) | 22 per quarter hour or part quarter hour spent | 22 per quarter hour or part quarter hour spent |
 | Time spent by a veterinary officer travelling to and from premises for the purpose of the activities below | 22 per quarter hour or part quarter hour spent, up to a maximum of 132 | 22 per quarter hour or part quarter hour spent, up to a maximum of 132 |
-| Considering an application for approval or re-approval of:<br>- — a bovine embryo transfer team under regulation 4 of the 1995 Regulations[^key-e574982a05f43c88365333bea67bd471];<br>- [^key-e0be55b88d0a9ea883f836b592219ab5]...<br>- — a store under regulation 16 of the 1995 Regulations;<br>- — a store and its supervisor under regulations 16 and 19 of the 1995 Regulations; or<br>- — a single bovine embryo collection or production team (with or without an inspection of a laboratory) under regulation 6 or 7 of the 1995 Regulations[^key-1251dd9b38ff9ff142097e1319a9824d] | 38 | 47 |
+| Considering an application for approval or re-approval of:<br>- — a bovine embryo transfer team under regulation 4 of the 1995 Regulations[^c-e574982a05f43c88365333bea67bd471];<br>- [^c-e0be55b88d0a9ea883f836b592219ab5]...<br>- — a store under regulation 16 of the 1995 Regulations;<br>- — a store and its supervisor under regulations 16 and 19 of the 1995 Regulations; or<br>- — a single bovine embryo collection or production team (with or without an inspection of a laboratory) under regulation 6 or 7 of the 1995 Regulations[^c-1251dd9b38ff9ff142097e1319a9824d] | 38 | 47 |
 | Considering an application for approval of each additional laboratory or store from the same applicant where the inspection is completed on the same day | 13 | 16 |
 | Considering an application for re-approval of a laboratory or a store following any alterations | 34 | 42 |
 | Carrying out routine inspection of records of a single bovine embryo production, collection or transfer team and re-inspection of a single laboratory or store | 23 | 28 |
 | Carrying out routine inspection of records of each additional bovine embryo production, collection or transfer team, and re-inspection of each additional laboratory or store | 6 for each additional team and laboratory or store | 7 for each additional team and laboratory or store |
 
-## SCHEDULE 6 — Checking consignments of live animals from third countries at border control posts: Fees[^key-a306a437156401fd16ccee1c9e1d166e]
+## SCHEDULE 6 — Checking consignments of live animals from third countries at border control posts: Fees[^c-a306a437156401fd16ccee1c9e1d166e]
 
 Regulation 9
 
 Table 1
 
-Fees for inspecting consignments of animals from third countries and checking importation documentation at border control posts[^key-005b9d08f72e8ee711fff8a72ae1a957] in accordance with regulation 15 of the 2011 Regulations
+Fees for inspecting consignments of animals from third countries and checking importation documentation at border control posts[^c-005b9d08f72e8ee711fff8a72ae1a957] in accordance with regulation 15 of the 2011 Regulations
 
 | *Column 1* | *Column 2* |
 | --- | --- |
-| *Inspection of type of animal and checking documents[^key-758bc54c9f86e333c5e73414438367a3]* | *Fees (£) per consignment on or after 5 July 2023* |
+| *Inspection of type of animal and checking documents[^c-758bc54c9f86e333c5e73414438367a3]* | *Fees (£) per consignment on or after 5 July 2023* |
 | Poultry and small game birds | 53 |
 | Poultry eggs | 53 |
 | Ratites | 53 |
@@ -344,7 +344,7 @@ Additional fees for certain inspections
 </tbody>
 </table>
 
-[^key-431bd9d800ef4e845b4d0520c3b613ab][^c22973231]
+[^c-431bd9d800ef4e845b4d0520c3b613ab][^c22973231]
 
 Table 3
 
@@ -365,7 +365,7 @@ Fees for extra checks due to non-compliances or additional control measures
 </tbody>
 </table>
 
-[^key-255b6912e32f3d40e8871c274d5d5981]
+[^c-255b6912e32f3d40e8871c274d5d5981]
 
 *(This note is not part of the Regulations)*
 
@@ -413,98 +413,98 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22973171]: Marginal citation: [S.I. 2011/2379](https://www.legislation.gov.uk/uksi/2011/2379) (W. 252), to which there are amendments not relevant to these Regulations.
 
-[^key-f614c332864f0ea792f5394436698084]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/650/regulation/2) substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/2/a)
+[^c-f614c332864f0ea792f5394436698084]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/650/regulation/2) substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/2/a)
 
-[^key-3d120ca590da60bc8ba4009046533309]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/650/regulation/2) substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/2/b)
+[^c-3d120ca590da60bc8ba4009046533309]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/650/regulation/2) substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/2/b)
 
-[^key-9cd1b72829581dd32f24e63df5010a51]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/650/regulation/2) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [20](https://www.legislation.gov.uk/wsi/2022/1348/regulation/20)
+[^c-9cd1b72829581dd32f24e63df5010a51]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/650/regulation/2) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [20](https://www.legislation.gov.uk/wsi/2022/1348/regulation/20)
 
 [^c22973191]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36). Section 2 has been amended by article 12 of, and paragraph 1 of the Schedule to, [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919); and by article 2 of, and paragraph 2(a) and (b) of the Schedule to, [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824).
 
-[^key-558ebff7b9b33b292c1b579775071526]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2018/650/regulation/2A) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/3)
+[^c-558ebff7b9b33b292c1b579775071526]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2018/650/regulation/2A) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/3)
 
-[^key-b049cf53a2cc4950f95ad2da9a134663]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2018/650/regulation/4) heading omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b049cf53a2cc4950f95ad2da9a134663]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2018/650/regulation/4) heading omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c05cb91f5743e79f2f01c35ff76c9938]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/1) omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c05cb91f5743e79f2f01c35ff76c9938]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/1) omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22973201]: Marginal citation: There are salmonella national control programmes for laying chickens producing eggs for human consumption, breeding chickens, broiler chickens and turkeys that are designed to reduce the prevalence of different types of *Salmonella* that are of public health significance in line with EU targets.
 
-[^key-e6e10c3688432426ec0697451a72449a]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/2/a) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-e6e10c3688432426ec0697451a72449a]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/2/a) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
-[^key-9f7e6e46c15027b46a4d296d66ba9afc]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/2/b) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-9f7e6e46c15027b46a4d296d66ba9afc]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/2/b) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
-[^key-fb5043d089151a29504dcf8441aad0ca]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/2/c) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-fb5043d089151a29504dcf8441aad0ca]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/wsi/2018/650/regulation/4/2/c) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
 [^c22973211]: Marginal citation: The poultry health scheme offers a system of registration and approval enabling establishments to verify compliance with EU legislation so that they are then eligible to export over 20 chicks or hatching eggs to other EU Member States. Additionally it provides for proficiency tests to be carried out on the laboratories that test samples on behalf of poultry health scheme members.
 
-[^key-4f857e144ec7671a68af6039b701207f]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2018/650/regulation/5/2/a) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-4f857e144ec7671a68af6039b701207f]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2018/650/regulation/5/2/a) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
-[^key-920c6fa4678b4c0dd8fca4739783be5b]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2018/650/regulation/6/3) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-920c6fa4678b4c0dd8fca4739783be5b]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2018/650/regulation/6/3) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
-[^key-4334be76a19bf039c650b9bd22666bd6]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2018/650/regulation/7/2) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-4334be76a19bf039c650b9bd22666bd6]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2018/650/regulation/7/2) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
-[^key-c8645837e0af956c63faf795e5ca17dd]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2018/650/regulation/8/2) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
+[^c-c8645837e0af956c63faf795e5ca17dd]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2018/650/regulation/8/2) inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/4)
 
-[^key-a9ec968c197c953c77380b206a9452da]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2018/650/regulation/9) heading substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/5)
+[^c-a9ec968c197c953c77380b206a9452da]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2018/650/regulation/9) heading substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/5)
 
-[^key-a37cc7ae885b9eeab07c4d2576489242]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2018/650/regulation/9) substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/5)
+[^c-a37cc7ae885b9eeab07c4d2576489242]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2018/650/regulation/9) substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/5)
 
 [^c22973221]: Marginal citation: [S.I. 2013/1241](https://www.legislation.gov.uk/uksi/2013/1241) (W. 133).
 
-[^key-4ab49fd67506143c837af5d812c236ab]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) heading omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [5(4)](https://www.legislation.gov.uk/wsi/2019/737/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ab49fd67506143c837af5d812c236ab]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) heading omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [5(4)](https://www.legislation.gov.uk/wsi/2019/737/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8009c1d6343149f1eb7628c188eb0f95]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 1 inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/a/ii)
+[^c-8009c1d6343149f1eb7628c188eb0f95]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 1 inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/a/ii)
 
-[^key-1a1a924a02f1d442b16e9b562bb34e2e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 1 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/a/i)
+[^c-1a1a924a02f1d442b16e9b562bb34e2e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 1 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/a/i)
 
-[^key-8ef61e002ffc3b56f7963b827af29429]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 2 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/b)
+[^c-8ef61e002ffc3b56f7963b827af29429]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 2 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/b)
 
-[^key-a45343721c3b3d28435a08432a8b873a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 3 inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(c)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/c/ii)
+[^c-a45343721c3b3d28435a08432a8b873a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 3 inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(c)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/c/ii)
 
-[^key-25e31febcfec6f1e51be184ce5d973ef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 3 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(c)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/c/i)
+[^c-25e31febcfec6f1e51be184ce5d973ef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/650/schedule/1) Table 3 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(6)(c)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/6/c/i)
 
-[^key-c17a4142c3b5f462c32049223a382880]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/650/schedule/2) Table 1 inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/7/a/ii)
+[^c-c17a4142c3b5f462c32049223a382880]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/650/schedule/2) Table 1 inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/7/a/ii)
 
-[^key-f5d660a0a46cd7da1aee5d0f6a29adab]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/650/schedule/2) Table 1 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(7)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/7/a/i)
+[^c-f5d660a0a46cd7da1aee5d0f6a29adab]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/650/schedule/2) Table 1 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(7)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/7/a/i)
 
-[^key-0435b823711e32fae09ed52aa075a773]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/650/schedule/2) Table 2 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/7/b)
+[^c-0435b823711e32fae09ed52aa075a773]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/650/schedule/2) Table 2 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/7/b)
 
-[^key-b7ab040618a74fc6ada4d353135d0e8c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(c)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/c)
+[^c-b7ab040618a74fc6ada4d353135d0e8c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(c)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/c)
 
 [^M_F_072bef64-c3e7-4a45-e483-6b18cd63648a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/b)
 
-[^key-060d424ef0bfc8c552267ba9e0592db2]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/i)
+[^c-060d424ef0bfc8c552267ba9e0592db2]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/i)
 
-[^key-b6177253ac5d1168b4052f21217d0641]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/ii)
+[^c-b6177253ac5d1168b4052f21217d0641]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/ii)
 
-[^key-186cd7cb62c2287a29a6dbe181651e0a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(iii)(aa)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/iii/aa)
+[^c-186cd7cb62c2287a29a6dbe181651e0a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(iii)(aa)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/iii/aa)
 
-[^key-60a9abee66969b15bc39a2bfaa8821d3]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(iii)(bb)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/iii/bb)
+[^c-60a9abee66969b15bc39a2bfaa8821d3]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(iii)(bb)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/iii/bb)
 
-[^key-cb0ea89dcd275f51025f9a0ce5888d56]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(iv)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/iv)
+[^c-cb0ea89dcd275f51025f9a0ce5888d56]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2018/650/schedule/3) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(8)(a)(iv)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/8/a/iv)
 
-[^key-78a154a76bb8ed4ba299211d159cc96e]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2018/650/schedule/4) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/9/a)
+[^c-78a154a76bb8ed4ba299211d159cc96e]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2018/650/schedule/4) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/9/a)
 
-[^key-032994d2e8417241406e6f872def3674]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2018/650/schedule/4) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/9/b)
+[^c-032994d2e8417241406e6f872def3674]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2018/650/schedule/4) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/9/b)
 
-[^key-e656ad967d20240a3b1fc5fd3ffdb8e1]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(c)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/c)
+[^c-e656ad967d20240a3b1fc5fd3ffdb8e1]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(c)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/c)
 
-[^key-1db134b716c65c7c7225e7f4f847a98b]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/b)
+[^c-1db134b716c65c7c7225e7f4f847a98b]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/b)
 
-[^key-e574982a05f43c88365333bea67bd471]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/a/i)
+[^c-e574982a05f43c88365333bea67bd471]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(a)(i)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/a/i)
 
-[^key-e0be55b88d0a9ea883f836b592219ab5]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table omitted (5.7.2023) by virtue of [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/a/ii)
+[^c-e0be55b88d0a9ea883f836b592219ab5]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table omitted (5.7.2023) by virtue of [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/a/ii)
 
-[^key-1251dd9b38ff9ff142097e1319a9824d]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(a)(iii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/a/iii)
+[^c-1251dd9b38ff9ff142097e1319a9824d]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/wsi/2018/650/schedule/5) Table inserted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(10)(a)(iii)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/10/a/iii)
 
-[^key-a306a437156401fd16ccee1c9e1d166e]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) heading substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/a)
+[^c-a306a437156401fd16ccee1c9e1d166e]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) heading substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/a)
 
-[^key-005b9d08f72e8ee711fff8a72ae1a957]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) heading substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/a)
+[^c-005b9d08f72e8ee711fff8a72ae1a957]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) heading substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/a)
 
-[^key-758bc54c9f86e333c5e73414438367a3]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) Table 1 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/b)
+[^c-758bc54c9f86e333c5e73414438367a3]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) Table 1 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/b)
 
-[^key-431bd9d800ef4e845b4d0520c3b613ab]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) Table 2 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(c)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/c)
+[^c-431bd9d800ef4e845b4d0520c3b613ab]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) Table 2 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(c)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/c)
 
 [^c22973231]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-255b6912e32f3d40e8871c274d5d5981]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) Table 3 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(d)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/d)
+[^c-255b6912e32f3d40e8871c274d5d5981]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/650/schedule/6) Table 3 substituted (5.7.2023) by [The Animal By-Products, Pet Passport and Animal Health (Fees) (Wales) (Amendment) Regulations 2023 (S.I. 2023/754)](https://www.legislation.gov.uk/wsi/2023/754), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/754/regulation/1/1), [3(11)(d)](https://www.legislation.gov.uk/wsi/2023/754/regulation/3/11/d)

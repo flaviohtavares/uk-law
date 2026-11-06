@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Removal from the obstetric list[^key-e5fd49965b336e9481e79fd8c56c75fa]
+## 33. Removal from the obstetric list[^c-e5fd49965b336e9481e79fd8c56c75fa]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5fd49965b336e9481e79fd8c56c75fa]: Commencement: Reg. 33 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e5fd49965b336e9481e79fd8c56c75fa]: Commencement: Reg. 33 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -58,7 +58,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 
 ## Persons employed in the civil service, etc.
 
-### 3. Superannuation schemes as respects civil servants, etc.[^c18997481][^c22509351][^c22509401][^c22509411][^c22509431][^key-c8a1eeb42d39deb024182c6019714b6b]
+### 3. Superannuation schemes as respects civil servants, etc.[^c18997481][^c22509351][^c22509401][^c22509411][^c22509431][^c-c8a1eeb42d39deb024182c6019714b6b]
 
 (1)[^c17527021] The Ministry—
 
@@ -72,7 +72,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 - (a) notwithstanding paragraph (1)(a), the scheme may make provision for the making of such an election to have the effect, in such cases as the scheme may specify, of discharging any liability of the Department to pay those benefits to or in respect of that member, but
 - (b) the scheme shall not be so framed as to have the effect that benefits under it may only be provided in a manner which discharges that liability of the Department.
 
-(1B)[^key-c6b6b0aa07792c02382f6f13900befc0] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
+(1B)[^c-c6b6b0aa07792c02382f6f13900befc0] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
 
 (2) Before making any scheme under this Article the Ministry shall consult with persons appearing to the Ministry to represent persons likely to be affected by the proposed scheme or with the last-mentioned persons.
 
@@ -82,7 +82,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 - (b) in employment of any of the kinds listed in Schedule 1; or
 - (c) in an office so listed.
 
-(3A)[^key-9fe0b8e3108311bb86fa1feb383eb3df] This Article also applies to persons serving in employment or in an office, not being service in employment or in an office of a kind mentioned in paragraph (3), where the employment or office is specified in a list produced for the purposes of this paragraph (see Article 3A).
+(3A)[^c-9fe0b8e3108311bb86fa1feb383eb3df] This Article also applies to persons serving in employment or in an office, not being service in employment or in an office of a kind mentioned in paragraph (3), where the employment or office is specified in a list produced for the purposes of this paragraph (see Article 3A).
 
 (4) Subject to paragraph (5), the Ministry may by order—
 
@@ -134,7 +134,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 
 (8E) Expressions used in paragraphs (8B) to (8D) which are also used in Schedule 3 to the Financial Services and Markets Act 2000 have the same meanings in those paragraphs as they have in that Schedule.
 
-### 3A. List of employments and offices for purposes of Article 3[^key-8b7f4f77c8e4156f689039da0d6f4f57]
+### 3A. List of employments and offices for purposes of Article 3[^c-8b7f4f77c8e4156f689039da0d6f4f57]
 
 (1) The Department may specify an employment or office in a list produced for the purposes of Article 3(3A) if paragraph (2), (3) or (4) applies in relation to the employment or office.
 
@@ -173,9 +173,9 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 - (a) to whom that Article applies; and
 - (b) who suffer loss of office or employment, or loss or diminution of emoluments, in such circumstances, or by reason of the happening of such an event, as may be prescribed by the scheme.
 
-(3)[^c17527131] Subject to paragraph (3A),[^key-2d9ef4f13fea18067a97bb0136b787f3] No scheme under Article 3 shall make any provision which would have the effect of reducing the amount of any pension, allowance or gratuity, in so far as that amount is directly or indirectly referable to rights which have accrued (whether by virtue of service rendered, contributions paid or any other thing done) before the coming into operation of the scheme, unless the persons consulted in accordance with Article 3(2) have agreed to the inclusion of that provision.
+(3)[^c17527131] Subject to paragraph (3A),[^c-2d9ef4f13fea18067a97bb0136b787f3] No scheme under Article 3 shall make any provision which would have the effect of reducing the amount of any pension, allowance or gratuity, in so far as that amount is directly or indirectly referable to rights which have accrued (whether by virtue of service rendered, contributions paid or any other thing done) before the coming into operation of the scheme, unless the persons consulted in accordance with Article 3(2) have agreed to the inclusion of that provision.
 
-(3A)[^key-fa26d89ce1a849db431770d099af2456] Paragraph (3) does not apply to a provision which would have the effect of reducing the amount of a compensation benefit except in so far as the compensation benefit is one provided in respect of a loss of office or employment which is the consequence of—
+(3A)[^c-fa26d89ce1a849db431770d099af2456] Paragraph (3) does not apply to a provision which would have the effect of reducing the amount of a compensation benefit except in so far as the compensation benefit is one provided in respect of a loss of office or employment which is the consequence of—
 
 - (a) a notice of dismissal given before the coming into operation of the scheme which would have that effect, or
 - (b) an agreement made before the coming into operation of that scheme.
@@ -187,7 +187,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 
 (3C) In paragraph (3B) a reference to suffering loss of office or employment includes a reference to suffering loss or diminution of emoluments as a consequence of suffering loss of office or employment.
 
-(3D)[^key-58a4ff0424dc9594124901f514b4ccd0] So far as it relates to a provision of a scheme under Article 3 which would have the effect of reducing the amount of a compensation benefit, the duty to consult in paragraph (2) of that Article is a duty to consult with a view to reaching agreement with the persons consulted.
+(3D)[^c-58a4ff0424dc9594124901f514b4ccd0] So far as it relates to a provision of a scheme under Article 3 which would have the effect of reducing the amount of a compensation benefit, the duty to consult in paragraph (2) of that Article is a duty to consult with a view to reaching agreement with the persons consulted.
 
 (4) Subject to paragraph (3), any scheme under Article 3, or any provision thereof, may be framed—
 
@@ -203,7 +203,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 
 (8) Before a scheme made under Article 3, being the principal civil service pension scheme or a scheme amending or revoking that scheme, comes into operation the Ministry shall lay a copy of the scheme before Parliament.
 
-(8A)[^key-0fe5c738d2db6a455a87c412997883af] Paragraph (8B) applies if a scheme made under Article 3 makes any provision which would have the effect of reducing the amount of a compensation benefit.
+(8A)[^c-0fe5c738d2db6a455a87c412997883af] Paragraph (8B) applies if a scheme made under Article 3 makes any provision which would have the effect of reducing the amount of a compensation benefit.
 
 (8B) The scheme shall be subject to negative resolution and before the scheme comes into operation, the Department must have laid before the Assembly a report providing information about—
 
@@ -235,7 +235,7 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 
 (6) The provisions of this Article are without prejudice to any right of the Ministry under any such scheme to take damages into account by withholding or reducing any further sums otherwise payable to the recipient of the pension, allowance or gratuity.
 
-### 6. Payments due to deceased persons[^c17527151][^key-438695360c545660bcd1b3dbadae9c37]
+### 6. Payments due to deceased persons[^c17527151][^c-438695360c545660bcd1b3dbadae9c37]
 
 (1)[^c17527161] Where on the death of any person there is due to the deceased or his personal representatives from a government department a sum, not exceeding £500[^c17527171], in respect of salary, wages or other emoluments or of superannuation benefits payable by virtue of a scheme made under Article 3, probate or other proof of the title of the personal representatives of the deceased may be dispensed with, and the appropriate authority may pay the whole or any part of that sum to those representatives or to the person, or to or among any one or more of any persons, appearing to that authority to be beneficially entitled to the estate of the deceased, and any person to whom such a payment is made, and not the appropriate authority, shall thereafter be liable to account for the amount paid to him under this paragraph.
 
@@ -262,14 +262,14 @@ This Order may be cited as the Superannuation (Northern Ireland) Order 1972 … 
 
 ## Persons employed in local government service, etc.
 
-### 9. Superannuation of persons employed in local government service, etc.[^key-8d6a24321bd983c101474fe6595a2ba9]
+### 9. Superannuation of persons employed in local government service, etc.[^c-8d6a24321bd983c101474fe6595a2ba9]
 
 (1) The Ministry of Development[^c17527201] may by regulations make provision with respect to the pensions, allowances or gratuities which, subject to the fulfilment of such requirements and conditions as may be prescribed by the regulations, are to be, or may be, paid to or in respect of such persons, or classes of persons, as may be so prescribed, being—
 
 - (a) persons, or classes of persons, employed by local authorities; and
 - (b) other persons, or classes of persons, for whom it is appropriate, in the opinion of that Ministry, to provide pensions, allowances or gratuities under the regulations.
 
-(1A)[^key-ca82be58af8d2843916e93fb83843a20] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
+(1A)[^c-ca82be58af8d2843916e93fb83843a20] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
 
 (2) Without prejudice to the generality of paragraph (1), regulations under this Article may include all or any of the provisions referred to in Schedule 3.
 
@@ -291,7 +291,7 @@ and any provisions of the said Act of 1971, or of regulations made under section
 - (b) any local authority with whom consultation appears to that Ministry to be desirable; and
 - (c) such representatives of other persons likely to be affected by the proposed regulations as appear to that Ministry to be appropriate.
 
-### 10. Local schemes[^key-8d6a24321bd983c101474fe6595a2ba9]
+### 10. Local schemes[^c-8d6a24321bd983c101474fe6595a2ba9]
 
 (1) The Ministry of Development[^c17527251] may make regulations providing for—
 
@@ -308,7 +308,7 @@ and any provisions of the said Act of 1971, or of regulations made under section
 
 (1) The Ministry of Education may, by regulations made with the consent of the Ministry, make provision with respect to the pensions, allowances or gratuities which, subject to the fulfilment of such requirements and conditions as may be prescribed by the regulations, are to be, or may be, paid to or in respect of teachers by the Department of Education or, in the case of injury benefit, by the Department of Education, an employer of teachers or such other person as the Department of Education may consider appropriate and may specify in the regulations[^c17527261].
 
-(1A)[^key-c4402e6fc09610e04ba8d07b4a0de6eb] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
+(1A)[^c-c4402e6fc09610e04ba8d07b4a0de6eb] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
 
 (2) Without prejudice to the generality of paragraph (1), regulations under this Article may include all or any of the provisions referred to in Schedule 3.
 
@@ -333,7 +333,7 @@ and any provisions of the said Act of 1971, or of regulations made under section
 - (a) of the administrative expenses of the persons by whom, in accordance with the regulations, the fund is to be administered; and
 - (b) of such travelling, subsistence and other allowances to those persons as the Ministry of Education may, with the consent of the Ministry, determine.
 
-(5) Before making any such regulations the Ministry of Education shall consult with the Education Authority and with representatives[^key-b6c4734166d37b0d027404fed78961b1] of teachers and with such representatives of other persons likely to be affected by the proposed regulations as appear to that Ministry to be appropriate.
+(5) Before making any such regulations the Ministry of Education shall consult with the Education Authority and with representatives[^c-b6c4734166d37b0d027404fed78961b1] of teachers and with such representatives of other persons likely to be affected by the proposed regulations as appear to that Ministry to be appropriate.
 
 (6) In this Article
 
@@ -353,7 +353,7 @@ and any provisions of the said Act of 1971, or of regulations made under section
 - (a) persons, or classes of persons, engaged in health care[^c21334791] or social care[^c21334761] other than services provided by a local authority; and
 - (b) other persons, or classes of persons, for whom it is appropriate, in the opinion of the Ministry of Health and Social Services, to provide pensions, allowances or gratuities under the regulations.
 
-(1A)[^key-4d149461a7f9dd9137744879e97cd466] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
+(1A)[^c-4d149461a7f9dd9137744879e97cd466] Paragraph (1) is subject to sections 18 and 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
 
 (2) Without prejudice to the generality of paragraph (1), regulations under this Article may include all or any of the provisions referred to in Schedule 3.
 
@@ -463,7 +463,7 @@ The repeal by this Order of any provisions of the Superannuation Acts (Northern 
 - (a) in relation to whom regulations may be made under Article 9, 11 or 12; and
 - (b) who suffer loss of office or employment, or loss or diminution of emoluments, in such circumstances, or by reason of the happening of such an event, as may be prescribed by the regulations.
 
-(1A)[^key-9b25086ae769cb34b58a298ca6aabaea] Paragraph (1) is subject to section 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
+(1A)[^c-9b25086ae769cb34b58a298ca6aabaea] Paragraph (1) is subject to section 19 of the Public Service Pensions Act (Northern Ireland) 2014 (restrictions on benefits provided under existing schemes).
 
 (2) Regulations under this Article relating to persons in relation to whom regulations may be made under Article 9 may be made without the consent of the Ministry.
 
@@ -519,8 +519,8 @@ Article 3.
 - Editor, Deputy Editor and Assistant Editor of Official Report of Debates
 - Reporter
 - Examiner of Statutory Rules for Northern Ireland[^c17527631]
-- The Office of Commissioner for Survivors of Institutional Childhood Abuse[^key-d82ca6b1cafeb19355922837aa702cb3]
-- The Office of Victims of Crime Commissioner Designate[^key-ce9442006aa7dacf7d809e8422305e8b]
+- The Office of Commissioner for Survivors of Institutional Childhood Abuse[^c-d82ca6b1cafeb19355922837aa702cb3]
+- The Office of Victims of Crime Commissioner Designate[^c-ce9442006aa7dacf7d809e8422305e8b]
 
 ### Offices on the Planning Appeals Commission held under Schedule 3 to the Planning (Northern Ireland) Order 1972[^c17527651]
 
@@ -555,7 +555,7 @@ Article 3.
 - Employment by the Northern Ireland Social Care Council[^c17527971]
 - Chief Executive to the Mental Health Commission[^c17527991]
 - Employment by the Northern Ireland Practice and Education Council for Nursing and Midwifery.[^c17528011]
-- Employment by the[^c17528031] Health and Social Care Regulation and Quality Improvement Authority[^key-caa27d30e3483b05064d84eff67e8dda] .
+- Employment by the[^c17528031] Health and Social Care Regulation and Quality Improvement Authority[^c-caa27d30e3483b05064d84eff67e8dda] .
 - Employment in the Economic Research Institute of Northern Ireland Limited[^c17528051]
 - Employment in the Office of the Commissioner for Children and Young People for Northern Ireland[^c17528071]
 - Commissioner for Children and Young People for Northern Ireland
@@ -564,7 +564,7 @@ Article 3.
 - Chief Electoral Officer for Northern Ireland[^c18997281]
 - Employment in the Agri-food and Biosciences Institute[^c18997331]
 - Employment by the[^c19082441] Commission[^c20722151] for Victims and Survivors for Northern Ireland.
-- [^key-5b664ddc276536688275950e5a5230cf]...
+- [^c-5b664ddc276536688275950e5a5230cf]...
 - the Regional Agency for Public Health and Social Well-being[^c21334841]
 - the Regional Business Services Organisation[^c21334861]
 - Employment by the Police Ombudsman for Northern Ireland.[^c22513791]
@@ -575,25 +575,25 @@ Article 3.
 - the Deputy Director of Public Prosecutions for Northern Ireland[^c22513951]
 - any person appointed to act as Deputy Director of Public Prosecutions for Northern Ireland.[^c22513971]
 - the office of Commissioner for Older People for Northern Ireland[^c22514621]
-- the office of Chief Inspector of Criminal Justice in Northern Ireland[^key-e8a0fe3ac7e2b868e6e916b5b2ba9921]
-- the office of Police Ombudsman for Northern Ireland[^key-698e3498a8c41e991c80714aedae2870]
-- the office of Commissioner of the Northern Ireland Law Commission[^key-3a929365b8020ab6d27681122f6b64c8]
-- employment in the Charity Commission for Northern Ireland[^key-69ba5d7a9a6c7571be8bce418ef0b084]
-- the office of member of the Commission for Victims and Survivors for Northern Ireland[^key-bd6b0ce4bb00d88fa4d73648e2d16423]
-- employment by Victims and Survivors Service Limited[^key-d9283c8a81b57885da737960c108b74a]
-- employment by the Maze/Long Kesh Development Corporation[^key-7d9d108919433eca892e491b4e62461c]
-- employment in the Northern Ireland district councils[^key-9b1bbeeb8e8b14f91160f538c9d27fdf]
-- employment in the office of the Certification Officer for Northern Ireland[^key-6b17af0804ae6152d02271f0daeb432c]
-- employment by the Northern Ireland Public Services Ombudsman[^key-f8fad61523cb9afec8e3f46d0d61c2c4]
-- Employment by the Commissioner for Survivors of Institutional Childhood Abuse.[^key-a1e60602f043715354aa73309a43808e]
-- A member of the Office of Identity and Cultural Expression[^key-7cb8f4141e6af6edca2eb4b852ce416b]
+- the office of Chief Inspector of Criminal Justice in Northern Ireland[^c-e8a0fe3ac7e2b868e6e916b5b2ba9921]
+- the office of Police Ombudsman for Northern Ireland[^c-698e3498a8c41e991c80714aedae2870]
+- the office of Commissioner of the Northern Ireland Law Commission[^c-3a929365b8020ab6d27681122f6b64c8]
+- employment in the Charity Commission for Northern Ireland[^c-69ba5d7a9a6c7571be8bce418ef0b084]
+- the office of member of the Commission for Victims and Survivors for Northern Ireland[^c-bd6b0ce4bb00d88fa4d73648e2d16423]
+- employment by Victims and Survivors Service Limited[^c-d9283c8a81b57885da737960c108b74a]
+- employment by the Maze/Long Kesh Development Corporation[^c-7d9d108919433eca892e491b4e62461c]
+- employment in the Northern Ireland district councils[^c-9b1bbeeb8e8b14f91160f538c9d27fdf]
+- employment in the office of the Certification Officer for Northern Ireland[^c-6b17af0804ae6152d02271f0daeb432c]
+- employment by the Northern Ireland Public Services Ombudsman[^c-f8fad61523cb9afec8e3f46d0d61c2c4]
+- Employment by the Commissioner for Survivors of Institutional Childhood Abuse.[^c-a1e60602f043715354aa73309a43808e]
+- A member of the Office of Identity and Cultural Expression[^c-7cb8f4141e6af6edca2eb4b852ce416b]
 - Employment by the Office of Identity and Cultural Expression
 - Irish Language Commissioner
 - Employment by the Irish Language Commissioner
 - Commissioner for the Ulster Scots and the Ulster British tradition
 - Employment by the Commissioner for the Ulster Scots and the Ulster British tradition
-- Employment by the Legal Services Oversight Commissioner for Northern Ireland.[^key-e4c472164534f44145457441b5435258]
-- Employment by the Northern Ireland Fiscal Council[^key-73652f4436d961ef7b6c98287a03aeb7]
+- Employment by the Legal Services Oversight Commissioner for Northern Ireland.[^c-e4c472164534f44145457441b5435258]
+- Employment by the Northern Ireland Fiscal Council[^c-73652f4436d961ef7b6c98287a03aeb7]
 
 ## SCHEDULE 2 — THE EXISTING CIVIL SERVICE SUPERANNUATION PROVISIONS
 
@@ -771,35 +771,35 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c22509431]: Modification: Art. 3 extended by [Judicature (Northern Ireland) Act 1978 (c. 23)](https://www.legislation.gov.uk/ukpga/1978/23), [s. 75(8)](https://www.legislation.gov.uk/ukpga/1978/23/section/75/8) (as amended (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 21](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/21) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2))
 
-[^key-c8a1eeb42d39deb024182c6019714b6b]: Modification: [Art. 3](https://www.legislation.gov.uk/nisi/1972/1073/article/3) applied (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 1 para. 6(6)](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/6/6); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-c8a1eeb42d39deb024182c6019714b6b]: Modification: [Art. 3](https://www.legislation.gov.uk/nisi/1972/1073/article/3) applied (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 1 para. 6(6)](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/6/6); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c17527021]: Textual amendment: functions transf. by [1982 NI 6](https://www.legislation.gov.uk/nisi/1982)
 
 [^c17527031]: Textual amendment: [1990 NI 13](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-c6b6b0aa07792c02382f6f13900befc0]: Textual amendment: [Art. 3(1B)](https://www.legislation.gov.uk/nisi/1972/1073/article/3/1B) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/11); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-c6b6b0aa07792c02382f6f13900befc0]: Textual amendment: [Art. 3(1B)](https://www.legislation.gov.uk/nisi/1972/1073/article/3/1B) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/11); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
-[^key-9fe0b8e3108311bb86fa1feb383eb3df]: Textual amendment: Art. 3(3A) inserted (11.3.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [art. 37(1)(a)](https://www.legislation.gov.uk/nia/2014/2/article/37/1/a), [Sch. 9 para. 2](https://www.legislation.gov.uk/nia/2014/2/schedule/9/paragraph/2)
+[^c-9fe0b8e3108311bb86fa1feb383eb3df]: Textual amendment: Art. 3(3A) inserted (11.3.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [art. 37(1)(a)](https://www.legislation.gov.uk/nia/2014/2/article/37/1/a), [Sch. 9 para. 2](https://www.legislation.gov.uk/nia/2014/2/schedule/9/paragraph/2)
 
 [^c17527061]: Textual amendment: SI 2002/1555
 
 [^c17527081]: Textual amendment: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-8b7f4f77c8e4156f689039da0d6f4f57]: Textual amendment: Art. 3A inserted (11.3.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [art. 37(1)(a)](https://www.legislation.gov.uk/nia/2014/2/article/37/1/a), [Sch. 9 para. 3](https://www.legislation.gov.uk/nia/2014/2/schedule/9/paragraph/3)
+[^c-8b7f4f77c8e4156f689039da0d6f4f57]: Textual amendment: Art. 3A inserted (11.3.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [art. 37(1)(a)](https://www.legislation.gov.uk/nia/2014/2/article/37/1/a), [Sch. 9 para. 3](https://www.legislation.gov.uk/nia/2014/2/schedule/9/paragraph/3)
 
 [^c17527131]: Textual amendment: [1990 NI 13](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-2d9ef4f13fea18067a97bb0136b787f3]: Textual amendment: Words in art. 4(3) inserted (with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2013/1/section/1/2), [4(3)](https://www.legislation.gov.uk/nia/2013/1/section/4/3)
+[^c-2d9ef4f13fea18067a97bb0136b787f3]: Textual amendment: Words in art. 4(3) inserted (with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2013/1/section/1/2), [4(3)](https://www.legislation.gov.uk/nia/2013/1/section/4/3)
 
-[^key-fa26d89ce1a849db431770d099af2456]: Textual amendment: Art. 4(3A)-(3C) inserted (with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 1(3)](https://www.legislation.gov.uk/nia/2013/1/section/1/3), [4(3)](https://www.legislation.gov.uk/nia/2013/1/section/4/3)
+[^c-fa26d89ce1a849db431770d099af2456]: Textual amendment: Art. 4(3A)-(3C) inserted (with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 1(3)](https://www.legislation.gov.uk/nia/2013/1/section/1/3), [4(3)](https://www.legislation.gov.uk/nia/2013/1/section/4/3)
 
-[^key-58a4ff0424dc9594124901f514b4ccd0]: Textual amendment: Art. 4(3D) inserted (with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2013/1/section/2/2), [4(2)](https://www.legislation.gov.uk/nia/2013/1/section/4/2)
+[^c-58a4ff0424dc9594124901f514b4ccd0]: Textual amendment: Art. 4(3D) inserted (with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2013/1/section/2/2), [4(2)](https://www.legislation.gov.uk/nia/2013/1/section/4/2)
 
-[^key-0fe5c738d2db6a455a87c412997883af]: Textual amendment: Art. 4(8A)-(8B) inserted (with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 2(3)](https://www.legislation.gov.uk/nia/2013/1/section/2/3), [4(2)](https://www.legislation.gov.uk/nia/2013/1/section/4/2)
+[^c-0fe5c738d2db6a455a87c412997883af]: Textual amendment: Art. 4(8A)-(8B) inserted (with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act (Northern Ireland) 2013 (c. 1)](https://www.legislation.gov.uk/nia/2013/1), [ss. 2(3)](https://www.legislation.gov.uk/nia/2013/1/section/2/3), [4(2)](https://www.legislation.gov.uk/nia/2013/1/section/4/2)
 
 [^c17527151]: Textual amendment: mod by SR 1985/9
 
-[^key-438695360c545660bcd1b3dbadae9c37]: Modification: [Art. 6](https://www.legislation.gov.uk/nisi/1972/1073/article/6) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/280/article/2/b)
+[^c-438695360c545660bcd1b3dbadae9c37]: Modification: [Art. 6](https://www.legislation.gov.uk/nisi/1972/1073/article/6) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/280/article/2/b)
 
 [^c17527161]: Textual amendment: mod by SR 2004/68
 
@@ -809,11 +809,11 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c17527181]: Textual amendment: [1989 NI 19](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-8d6a24321bd983c101474fe6595a2ba9]: Modification: [Arts. 9](https://www.legislation.gov.uk/nisi/1972/1073/article/9) [10](https://www.legislation.gov.uk/nisi/1972/1073/article/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-8d6a24321bd983c101474fe6595a2ba9]: Modification: [Arts. 9](https://www.legislation.gov.uk/nisi/1972/1073/article/9) [10](https://www.legislation.gov.uk/nisi/1972/1073/article/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c17527201]: Textual amendment: [1976 NI 6](https://www.legislation.gov.uk/nisi/1976)
 
-[^key-ca82be58af8d2843916e93fb83843a20]: Textual amendment: [Art. 9(1A)](https://www.legislation.gov.uk/nisi/1972/1073/article/9/1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 12](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/12); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-ca82be58af8d2843916e93fb83843a20]: Textual amendment: [Art. 9(1A)](https://www.legislation.gov.uk/nisi/1972/1073/article/9/1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 12](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/12); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c17527211]: Textual amendment: [2005 NI 18](https://www.legislation.gov.uk/nisi/2005)
 
@@ -825,9 +825,9 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c17527261]: Textual amendment: [1990 NI 13](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-c4402e6fc09610e04ba8d07b4a0de6eb]: Textual amendment: Art. 11(1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 13](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/13); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-c4402e6fc09610e04ba8d07b4a0de6eb]: Textual amendment: Art. 11(1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 13](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/13); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
-[^key-b6c4734166d37b0d027404fed78961b1]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/nisi/1972/1073/article/11/5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b6c4734166d37b0d027404fed78961b1]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/nisi/1972/1073/article/11/5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17527331]: Textual amendment: SI 2002/1555
 
@@ -841,7 +841,7 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c21334761]: Textual amendment: Words in art. 12(1)(a) substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-4d149461a7f9dd9137744879e97cd466]: Textual amendment: [Art. 12(1A)](https://www.legislation.gov.uk/nisi/1972/1073/article/12/1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 14](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/14); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-4d149461a7f9dd9137744879e97cd466]: Textual amendment: [Art. 12(1A)](https://www.legislation.gov.uk/nisi/1972/1073/article/12/1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 14](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/14); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c21334811]: Textual amendment: Words in art. 12(5)(a) substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -871,7 +871,7 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c17527571]: Textual amendment: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-9b25086ae769cb34b58a298ca6aabaea]: Textual amendment: [Art. 19(1A)](https://www.legislation.gov.uk/nisi/1972/1073/article/19/1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 15](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/15); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-9b25086ae769cb34b58a298ca6aabaea]: Textual amendment: [Art. 19(1A)](https://www.legislation.gov.uk/nisi/1972/1073/article/19/1A) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 15](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/15); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c17527591]: Textual amendment: [1998 NI 2](https://www.legislation.gov.uk/1998/ni2)
 
@@ -881,9 +881,9 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c17527631]: Textual amendment: SR 1981/379
 
-[^key-d82ca6b1cafeb19355922837aa702cb3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (25.2.2021) by [The Superannuation (Commissioner for Survivors of Institutional Childhood Abuse) Order (Northern Ireland) 2021 (S.R. 2021/25)](https://www.legislation.gov.uk/nisr/2021/25), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/25/article/1/2), [2](https://www.legislation.gov.uk/nisr/2021/25/article/2)
+[^c-d82ca6b1cafeb19355922837aa702cb3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (25.2.2021) by [The Superannuation (Commissioner for Survivors of Institutional Childhood Abuse) Order (Northern Ireland) 2021 (S.R. 2021/25)](https://www.legislation.gov.uk/nisr/2021/25), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/25/article/1/2), [2](https://www.legislation.gov.uk/nisr/2021/25/article/2)
 
-[^key-ce9442006aa7dacf7d809e8422305e8b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) added (1.4.2022) by [The Superannuation (Victims of Crime Commissioner Designate) Order (Northern Ireland) 2022 (S.R. 2022/105)](https://www.legislation.gov.uk/nisr/2022/105), [arts. 1](https://www.legislation.gov.uk/nisr/2022/105/article/1), [2](https://www.legislation.gov.uk/nisr/2022/105/article/2)
+[^c-ce9442006aa7dacf7d809e8422305e8b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) added (1.4.2022) by [The Superannuation (Victims of Crime Commissioner Designate) Order (Northern Ireland) 2022 (S.R. 2022/105)](https://www.legislation.gov.uk/nisr/2022/105), [arts. 1](https://www.legislation.gov.uk/nisr/2022/105/article/1), [2](https://www.legislation.gov.uk/nisr/2022/105/article/2)
 
 [^c17527651]: Textual amendment: SRO (NI) 1973/391
 
@@ -935,7 +935,7 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c17528031]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-caa27d30e3483b05064d84eff67e8dda]: Textual amendment: Words in Order substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-caa27d30e3483b05064d84eff67e8dda]: Textual amendment: Words in Order substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^c17528051]: Textual amendment: SR 2004/27
 
@@ -953,7 +953,7 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c20722151]: Textual amendment: Sch. 1: word substituted in the entry "Employment by the Commissioner for Victims and Survivors for Northern Ireland" by [S.I. 2006/2953 (N.I. 17)](https://www.legislation.gov.uk/nisi/2006/2953), [Sch. para. 7(4)](https://www.legislation.gov.uk/nisi/2006/2953/schedule/paragraph/7/4) (as substituted (23.5.2008) by [Commission for Victims and Survivors Act (Northern Ireland) 2008 (c. 6)](https://www.legislation.gov.uk/nia/2008/6), [s. 1(3)](https://www.legislation.gov.uk/nia/2008/6/section/1/3), [Sch. 1](https://www.legislation.gov.uk/nia/2008/6/schedule/1))
 
-[^key-5b664ddc276536688275950e5a5230cf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5b664ddc276536688275950e5a5230cf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21334841]: Textual amendment: Sch.1: entry in list of "Other Bodies" added (24.4.2009 with effect as mentioned in art. 2 of the amending S.R.) by [Superannuation (Health and Social Care Bodies) Order (Northern Ireland) 2009 (S.R. 2009/150)](https://www.legislation.gov.uk/nisr/2009/150), [art. 2(b)](https://www.legislation.gov.uk/nisr/2009/150/article/2/b)
 
@@ -975,33 +975,33 @@ shall, as from the commencement of this Order, have effect, with the necessary a
 
 [^c22514621]: Textual amendment: Sch. 1: office added (30.12.2011 with effect from 8.2.2011) by [Superannuation (Commissioner for Older People for Northern Ireland) Order (Northern Ireland) 2011 (S.R. 2011/410)](https://www.legislation.gov.uk/nisr/2011/410), [art. 2](https://www.legislation.gov.uk/nisr/2011/410/article/2)
 
-[^key-e8a0fe3ac7e2b868e6e916b5b2ba9921]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 2 of the amending Rule) by [Superannuation (Chief Inspector of Criminal Justice in Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/49)](https://www.legislation.gov.uk/nisr/2012/49), [arts. 1](https://www.legislation.gov.uk/nisr/2012/49/article/1), [2](https://www.legislation.gov.uk/nisr/2012/49/article/2)
+[^c-e8a0fe3ac7e2b868e6e916b5b2ba9921]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 2 of the amending Rule) by [Superannuation (Chief Inspector of Criminal Justice in Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/49)](https://www.legislation.gov.uk/nisr/2012/49), [arts. 1](https://www.legislation.gov.uk/nisr/2012/49/article/1), [2](https://www.legislation.gov.uk/nisr/2012/49/article/2)
 
-[^key-698e3498a8c41e991c80714aedae2870]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 2 of the amending Rule) by [Superannuation (Police Ombudsman for Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/50)](https://www.legislation.gov.uk/nisr/2012/50), [arts. 1](https://www.legislation.gov.uk/nisr/2012/50/article/1), [2](https://www.legislation.gov.uk/nisr/2012/50/article/2)
+[^c-698e3498a8c41e991c80714aedae2870]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 2 of the amending Rule) by [Superannuation (Police Ombudsman for Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/50)](https://www.legislation.gov.uk/nisr/2012/50), [arts. 1](https://www.legislation.gov.uk/nisr/2012/50/article/1), [2](https://www.legislation.gov.uk/nisr/2012/50/article/2)
 
-[^key-3a929365b8020ab6d27681122f6b64c8]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 2 of the amending Rule) by [Superannuation (Commissioner of the Northern Ireland Law Commission) Order (Northern Ireland) 2012 (S.R. 2012/51)](https://www.legislation.gov.uk/nisr/2012/51), [arts. 1](https://www.legislation.gov.uk/nisr/2012/51/article/1), [2](https://www.legislation.gov.uk/nisr/2012/51/article/2)
+[^c-3a929365b8020ab6d27681122f6b64c8]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 2 of the amending Rule) by [Superannuation (Commissioner of the Northern Ireland Law Commission) Order (Northern Ireland) 2012 (S.R. 2012/51)](https://www.legislation.gov.uk/nisr/2012/51), [arts. 1](https://www.legislation.gov.uk/nisr/2012/51/article/1), [2](https://www.legislation.gov.uk/nisr/2012/51/article/2)
 
-[^key-69ba5d7a9a6c7571be8bce418ef0b084]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Charity Commission for Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/285)](https://www.legislation.gov.uk/nisr/2012/285), [arts. 1](https://www.legislation.gov.uk/nisr/2012/285/article/1), [2](https://www.legislation.gov.uk/nisr/2012/285/article/2)
+[^c-69ba5d7a9a6c7571be8bce418ef0b084]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Charity Commission for Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/285)](https://www.legislation.gov.uk/nisr/2012/285), [arts. 1](https://www.legislation.gov.uk/nisr/2012/285/article/1), [2](https://www.legislation.gov.uk/nisr/2012/285/article/2)
 
-[^key-bd6b0ce4bb00d88fa4d73648e2d16423]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Commission for Victims and Survivors for Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/393)](https://www.legislation.gov.uk/nisr/2012/393), [arts. 1](https://www.legislation.gov.uk/nisr/2012/393/article/1), [2](https://www.legislation.gov.uk/nisr/2012/393/article/2)
+[^c-bd6b0ce4bb00d88fa4d73648e2d16423]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Commission for Victims and Survivors for Northern Ireland) Order (Northern Ireland) 2012 (S.R. 2012/393)](https://www.legislation.gov.uk/nisr/2012/393), [arts. 1](https://www.legislation.gov.uk/nisr/2012/393/article/1), [2](https://www.legislation.gov.uk/nisr/2012/393/article/2)
 
-[^key-d9283c8a81b57885da737960c108b74a]: Textual amendment: Words in Sch. 1 inserted (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Victims and Survivors Service Limited) Order (Northern Ireland) 2012 (S.R. 2012/455)](https://www.legislation.gov.uk/nisr/2012/455), [arts. 1](https://www.legislation.gov.uk/nisr/2012/455/article/1), [2](https://www.legislation.gov.uk/nisr/2012/455/article/2)
+[^c-d9283c8a81b57885da737960c108b74a]: Textual amendment: Words in Sch. 1 inserted (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Victims and Survivors Service Limited) Order (Northern Ireland) 2012 (S.R. 2012/455)](https://www.legislation.gov.uk/nisr/2012/455), [arts. 1](https://www.legislation.gov.uk/nisr/2012/455/article/1), [2](https://www.legislation.gov.uk/nisr/2012/455/article/2)
 
-[^key-7d9d108919433eca892e491b4e62461c]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Maze/Long Kesh Development Corporation) Order (Northern Ireland) 2013 (S.R. 2013/90)](https://www.legislation.gov.uk/nisr/2013/90), [arts. 1](https://www.legislation.gov.uk/nisr/2013/90/article/1), [2](https://www.legislation.gov.uk/nisr/2013/90/article/2)
+[^c-7d9d108919433eca892e491b4e62461c]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [Superannuation (Maze/Long Kesh Development Corporation) Order (Northern Ireland) 2013 (S.R. 2013/90)](https://www.legislation.gov.uk/nisr/2013/90), [arts. 1](https://www.legislation.gov.uk/nisr/2013/90/article/1), [2](https://www.legislation.gov.uk/nisr/2013/90/article/2)
 
-[^key-9b1bbeeb8e8b14f91160f538c9d27fdf]: Textual amendment: Words in Sch. 1 added (1.4.2015) by [The Superannuation (District Councils) Order (Northern Ireland) 2015 (S.R. 2015/141)](https://www.legislation.gov.uk/nisr/2015/141), [arts. 1](https://www.legislation.gov.uk/nisr/2015/141/article/1), [2](https://www.legislation.gov.uk/nisr/2015/141/article/2)
+[^c-9b1bbeeb8e8b14f91160f538c9d27fdf]: Textual amendment: Words in Sch. 1 added (1.4.2015) by [The Superannuation (District Councils) Order (Northern Ireland) 2015 (S.R. 2015/141)](https://www.legislation.gov.uk/nisr/2015/141), [arts. 1](https://www.legislation.gov.uk/nisr/2015/141/article/1), [2](https://www.legislation.gov.uk/nisr/2015/141/article/2)
 
-[^key-6b17af0804ae6152d02271f0daeb432c]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [The Superannuation (Certification Officer for Northern Ireland) Order (Northern Ireland) 2016 (S.R. 2016/70)](https://www.legislation.gov.uk/nisr/2016/70), [arts. 1](https://www.legislation.gov.uk/nisr/2016/70/article/1), [2](https://www.legislation.gov.uk/nisr/2016/70/article/2)
+[^c-6b17af0804ae6152d02271f0daeb432c]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1 of the amending Rule) by [The Superannuation (Certification Officer for Northern Ireland) Order (Northern Ireland) 2016 (S.R. 2016/70)](https://www.legislation.gov.uk/nisr/2016/70), [arts. 1](https://www.legislation.gov.uk/nisr/2016/70/article/1), [2](https://www.legislation.gov.uk/nisr/2016/70/article/2)
 
-[^key-f8fad61523cb9afec8e3f46d0d61c2c4]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1(2) of the amending Rule) by [The Superannuation (Northern Ireland Public Services Ombudsman) Order (Northern Ireland) 2016 (S.R. 2016/339)](https://www.legislation.gov.uk/nisr/2016/339), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/339/article/1/2), [2](https://www.legislation.gov.uk/nisr/2016/339/article/2)
+[^c-f8fad61523cb9afec8e3f46d0d61c2c4]: Textual amendment: Words in Sch. 1 added (with effect in accordance with art. 1(2) of the amending Rule) by [The Superannuation (Northern Ireland Public Services Ombudsman) Order (Northern Ireland) 2016 (S.R. 2016/339)](https://www.legislation.gov.uk/nisr/2016/339), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/339/article/1/2), [2](https://www.legislation.gov.uk/nisr/2016/339/article/2)
 
-[^key-a1e60602f043715354aa73309a43808e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (2.11.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/5/6); [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
+[^c-a1e60602f043715354aa73309a43808e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (2.11.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/5/6); [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)
 
-[^key-7cb8f4141e6af6edca2eb4b852ce416b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (6.12.2022) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/9/2), [10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
+[^c-7cb8f4141e6af6edca2eb4b852ce416b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (6.12.2022) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/9/2), [10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
-[^key-e4c472164534f44145457441b5435258]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 1 para. 6(6)](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/6/6); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-e4c472164534f44145457441b5435258]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 1 para. 6(6)](https://www.legislation.gov.uk/nia/2016/14/schedule/1/paragraph/6/6); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-73652f4436d961ef7b6c98287a03aeb7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (8.10.2026) by [Northern Ireland Fiscal Council Act (Northern Ireland) 2026 (c. 8)](https://www.legislation.gov.uk/nia/2026/8), [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2026/8/schedule/2/paragraph/1)
+[^c-73652f4436d961ef7b6c98287a03aeb7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisi/1972/1073/schedule/1) inserted (8.10.2026) by [Northern Ireland Fiscal Council Act (Northern Ireland) 2026 (c. 8)](https://www.legislation.gov.uk/nia/2026/8), [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2026/8/schedule/2/paragraph/1)
 
 [^m00021]: Marginal citation: 1967 c.24
 

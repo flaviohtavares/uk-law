@@ -46,9 +46,9 @@ Coming into force
 
 The Secretary of State for Transport (as respects England), the Secretary of State for Scotland (as respects Scotland) and the Secretary of State for Wales (as respects Wales), in exercise of the powers conferred by section 91(1) of the Transport Act 1985[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:—
 
-**1.**[^key-642cf6637751a808aa0c384694f43441] These Regulations may be cited as the Service Subsidy Agreements (Tendering) (Amendment) Regulations 1994 and shall come into force on 1st June 1994.
+**1.**[^c-642cf6637751a808aa0c384694f43441] These Regulations may be cited as the Service Subsidy Agreements (Tendering) (Amendment) Regulations 1994 and shall come into force on 1st June 1994.
 
-**2.**[^key-6aff163559d8510af61a52b37c2d6ba3] (1) The Service Subsidy Agreements (Tendering) Regulations 1985[^f00002] shall be amended as follows.
+**2.**[^c-6aff163559d8510af61a52b37c2d6ba3] (1) The Service Subsidy Agreements (Tendering) Regulations 1985[^f00002] shall be amended as follows.
 
 (2) In regulation 3(1)(b)—
 
@@ -85,8 +85,8 @@ These Regulations amend the Service Subsidy Agreements (Tendering) Regulations 1
 
 [^f00001]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). For the meaning of “regulations”, see section 137(1).
 
-[^key-642cf6637751a808aa0c384694f43441]: Commencement: Reg. 1 in force at 1.6.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1227/regulation/1)
+[^c-642cf6637751a808aa0c384694f43441]: Commencement: Reg. 1 in force at 1.6.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1227/regulation/1)
 
-[^key-6aff163559d8510af61a52b37c2d6ba3]: Commencement: Reg. 2 in force at 1.6.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1227/regulation/1)
+[^c-6aff163559d8510af61a52b37c2d6ba3]: Commencement: Reg. 2 in force at 1.6.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1227/regulation/1)
 
 [^f00002]: Footnote: S.I. [1985/1921](https://www.legislation.gov.uk/uksi/1985/1921), amended by S.I. [1989/464](https://www.legislation.gov.uk/uksi/1989/464).

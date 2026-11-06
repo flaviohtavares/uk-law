@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Authorised officers and meaning of “relevant purpose”[^key-35ab20ed06f9bab4275c2de761c1121c]
+## 102. Authorised officers and meaning of “relevant purpose”[^c-35ab20ed06f9bab4275c2de761c1121c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35ab20ed06f9bab4275c2de761c1121c]: Commencement: S. 102 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-35ab20ed06f9bab4275c2de761c1121c]: Commencement: S. 102 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

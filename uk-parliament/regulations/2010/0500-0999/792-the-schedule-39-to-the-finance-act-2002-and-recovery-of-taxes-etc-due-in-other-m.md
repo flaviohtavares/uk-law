@@ -32,7 +32,7 @@ summary: ''
 
 Recovery Of Taxes
 
-The Schedule 39 to the Finance Act 2002 and Recovery of Taxes etc Due in Other Member States (Amendment) Regulations 2010 (revoked)[^key-19ea9a1a379c42c6d02df0f890b10769]
+The Schedule 39 to the Finance Act 2002 and Recovery of Taxes etc Due in Other Member States (Amendment) Regulations 2010 (revoked)[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 6th April 2010
 
-[^key-19ea9a1a379c42c6d02df0f890b10769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19ea9a1a379c42c6d02df0f890b10769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
 In exercise of the powers conferred upon them by section 2(2) of that Act, the Treasury make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 1. Citation, commencement and interpretation[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Finance Act 2002[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 2. Amendment of the Finance Act 2002[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Recovery of Duties and Taxes Etc Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 3. Amendment of the Recovery of Duties and Taxes Etc Due in Other Member States (Corresponding UK Claims, Procedure and Supplementary) Regulations 2004[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 4.[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 5.[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 6.[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 7.[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 8.[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-19ea9a1a379c42c6d02df0f890b10769]
+## 9.[^c-19ea9a1a379c42c6d02df0f890b10769]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19ea9a1a379c42c6d02df0f890b10769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19ea9a1a379c42c6d02df0f890b10769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-19ea9a1a379c42c6d02df0f890b10769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19ea9a1a379c42c6d02df0f890b10769]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19ea9a1a379c42c6d02df0f890b10769]: Textual amendment: Regulations revoked (1.1.2012) by [The MARD Regulations 2011 (S.I. 2011/2931)](https://www.legislation.gov.uk/uksi/2011/2931), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2011/2931/regulation/18), [Sch.](https://www.legislation.gov.uk/uksi/2011/2931/schedule)
+[^c-19ea9a1a379c42c6d02df0f890b10769]: Textual amendment: Regulations revoked (1.1.2012) by [The MARD Regulations 2011 (S.I. 2011/2931)](https://www.legislation.gov.uk/uksi/2011/2931), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2931/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2011/2931/regulation/18), [Sch.](https://www.legislation.gov.uk/uksi/2011/2931/schedule)

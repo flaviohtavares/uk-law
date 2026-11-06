@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Duty to seek views about regulations[^key-62b03c133752bbb784d8f5aeb34f4fb9][^key-c542785ff65f42e0d47440c948acfa79]
+## 16. Duty to seek views about regulations[^c-62b03c133752bbb784d8f5aeb34f4fb9][^c-c542785ff65f42e0d47440c948acfa79]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62b03c133752bbb784d8f5aeb34f4fb9]: Commencement: S. 16 not in force at Royal Assent, see [s. 59(4)](https://www.legislation.gov.uk/asp/2022/8/section/59/4)
+[^c-62b03c133752bbb784d8f5aeb34f4fb9]: Commencement: S. 16 not in force at Royal Assent, see [s. 59(4)](https://www.legislation.gov.uk/asp/2022/8/section/59/4)
 
-[^key-c542785ff65f42e0d47440c948acfa79]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2022/8/section/16) in force at 1.10.2022 by [S.S.I. 2022/274](https://www.legislation.gov.uk/ssi/2022/274), [reg. 2](https://www.legislation.gov.uk/ssi/2022/274/regulation/2)
+[^c-c542785ff65f42e0d47440c948acfa79]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2022/8/section/16) in force at 1.10.2022 by [S.S.I. 2022/274](https://www.legislation.gov.uk/ssi/2022/274), [reg. 2](https://www.legislation.gov.uk/ssi/2022/274/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Code of practice relating to non-criminal hate incidents[^key-ba1a406bc4e3b4f80519b371bc3a6d9a][^key-e1c9167cd00ff2c465986668aacd6e52]
+## 60. Code of practice relating to non-criminal hate incidents[^c-ba1a406bc4e3b4f80519b371bc3a6d9a][^c-e1c9167cd00ff2c465986668aacd6e52]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba1a406bc4e3b4f80519b371bc3a6d9a]: Commencement: S. 60 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-ba1a406bc4e3b4f80519b371bc3a6d9a]: Commencement: S. 60 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-e1c9167cd00ff2c465986668aacd6e52]: Commencement: S. 60 in force at 7.3.2023 by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/227/regulation/2/a)
+[^c-e1c9167cd00ff2c465986668aacd6e52]: Commencement: S. 60 in force at 7.3.2023 by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/227/regulation/2/a)

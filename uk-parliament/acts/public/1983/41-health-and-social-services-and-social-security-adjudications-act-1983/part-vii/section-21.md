@@ -49,7 +49,7 @@ summary: ''
 - (a) the amount of any incumbrance on the asset; and
 - (b) a reasonable amount in respect of the expenses of the sale.
 
-(8) In this Part of this Act “**Part III accommodation**” means accommodation provided under sections 21 to 26 of the [^c12738991]National Assistance Act 1948, and, in the application of this Part of this Act to Scotland, means accommodation provided under the [^c12739001]Social Work (Scotland) Act 1968 or[^c12739011] section 25 (care and support services[^key-0d5b3777484c4b02321d8618a9454545] etc.) of the Mental Health (Care and Treatment) (Scotland) Act 2003,.
+(8) In this Part of this Act “**Part III accommodation**” means accommodation provided under sections 21 to 26 of the [^c12738991]National Assistance Act 1948, and, in the application of this Part of this Act to Scotland, means accommodation provided under the [^c12739001]Social Work (Scotland) Act 1968 or[^c12739011] section 25 (care and support services[^c-0d5b3777484c4b02321d8618a9454545] etc.) of the Mental Health (Care and Treatment) (Scotland) Act 2003,.
 
 ## Annotations
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c12739011]: Textual amendment: Words in s. 21(8) inserted (12.4.1993) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 25(2)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/25/2); [S.I. 1992/2975](https://www.legislation.gov.uk/uksi/1992/2975), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/1992/2975/article/2/3/b).
 
-[^key-0d5b3777484c4b02321d8618a9454545]: Textual amendment: Words in s. 21(8) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/14/2)
+[^c-0d5b3777484c4b02321d8618a9454545]: Textual amendment: Words in s. 21(8) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/14/2)

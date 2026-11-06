@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59AA. Non-resident CGT disposals: payments on account of capital gains tax[^key-34c8d29e77cfa870cfe63370674bebac]
+## 59AA. Non-resident CGT disposals: payments on account of capital gains tax[^c-34c8d29e77cfa870cfe63370674bebac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c8d29e77cfa870cfe63370674bebac]: Textual amendment: S. 59AA omitted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(11)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/11)
+[^c-34c8d29e77cfa870cfe63370674bebac]: Textual amendment: S. 59AA omitted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(11)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/11)

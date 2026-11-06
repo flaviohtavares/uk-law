@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Penalties[^key-bddfe7ebf935941a45dbd9f1c011ff4c]
+## 42. Penalties[^c-bddfe7ebf935941a45dbd9f1c011ff4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ he is guilty of the offence as well as the body corporate.
 
 ## Annotations
 
-[^key-bddfe7ebf935941a45dbd9f1c011ff4c]: Commencement: Reg. 42 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bddfe7ebf935941a45dbd9f1c011ff4c]: Commencement: Reg. 42 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

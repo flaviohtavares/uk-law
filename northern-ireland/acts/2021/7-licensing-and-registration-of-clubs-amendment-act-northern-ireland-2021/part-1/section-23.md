@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Independent review of licensing system including surrender principle[^key-75f683ea43090feec351a6ba0e19eaa8][^key-d5d7c37d8c855c81e7f9d780bb889102]
+## 23. Independent review of licensing system including surrender principle[^c-75f683ea43090feec351a6ba0e19eaa8][^c-d5d7c37d8c855c81e7f9d780bb889102]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75f683ea43090feec351a6ba0e19eaa8]: Commencement: S. 23 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-75f683ea43090feec351a6ba0e19eaa8]: Commencement: S. 23 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-d5d7c37d8c855c81e7f9d780bb889102]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/7/section/23) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-d5d7c37d8c855c81e7f9d780bb889102]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/7/section/23) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Compulsory retirement on grounds of permanent medical unfitness[^key-edb2e5dc0f45e61b05e2c6069bebcbfd]
+## 72. Compulsory retirement on grounds of permanent medical unfitness[^c-edb2e5dc0f45e61b05e2c6069bebcbfd]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edb2e5dc0f45e61b05e2c6069bebcbfd]: Commencement: Reg. 72 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-edb2e5dc0f45e61b05e2c6069bebcbfd]: Commencement: Reg. 72 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

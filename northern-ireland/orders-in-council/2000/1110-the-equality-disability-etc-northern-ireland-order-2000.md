@@ -26,7 +26,7 @@ summary: ''
 
 2000 No. 1110 (N.I. 2)
 
-The Equality (Disability, etc.) (Northern Ireland) Order 2000[^key-93046448d65e6d47127431deafe2c391]
+The Equality (Disability, etc.) (Northern Ireland) Order 2000[^c-93046448d65e6d47127431deafe2c391]
 
 19th May 2000
 
@@ -241,7 +241,7 @@ has become final.
 
 (3) It is immaterial for the purposes of this Article whether the costs or expenses concerned are payable by virtue of a decision of a court or tribunal, an agreement arrived at to avoid proceedings or to bring them to an end, or otherwise.
 
-(4) The charge created by this Article is subject to any charge imposed by Article 17(7) of the Access to Justice (Northern Ireland) Order 2003[^key-e9b023fa764539bcda98644e22a7114a] and is subject to any provision in, or made under, Part II of that Order for the payment of any sum to the Department of Justice.[^M_F_4004d315-30ab-4e27-83d1-69c72fe726ad].
+(4) The charge created by this Article is subject to any charge imposed by Article 17(7) of the Access to Justice (Northern Ireland) Order 2003[^c-e9b023fa764539bcda98644e22a7114a] and is subject to any provision in, or made under, Part II of that Order for the payment of any sum to the Department of Justice.[^M_F_4004d315-30ab-4e27-83d1-69c72fe726ad].
 
 (5) Provision may be made by regulations made by the Office for the determination of the expenses of the Commission in cases where this Article applies.
 
@@ -773,7 +773,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-93046448d65e6d47127431deafe2c391]: Modification: [Order](https://www.legislation.gov.uk/nisi/2000/1110): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-93046448d65e6d47127431deafe2c391]: Modification: [Order](https://www.legislation.gov.uk/nisi/2000/1110): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c17147151]: Textual amendment: partly exercised by SR 2000/140
 
@@ -811,7 +811,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 [^c20131291]: Textual amendment: [Art. 9(4A)](https://www.legislation.gov.uk/nisi/2000/1110/article/9/4A) inserted (31.12.2007) by [Disability Discrimination (Northern Ireland) Order 2006 (S.I. 2006/312 (N.I. 1))](https://www.legislation.gov.uk/nisi/2006/312), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/312/article/1/2), [16(3)(b)](https://www.legislation.gov.uk/nisi/2006/312/article/16/3/b); [S.R. 2007/466](https://www.legislation.gov.uk/nisr/2007/466), [art. 2(2)(j)](https://www.legislation.gov.uk/nisr/2007/466/article/2/2/j)
 
-[^key-e9b023fa764539bcda98644e22a7114a]: Textual amendment: Words in art. 10(4) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/nisi/2003/435/article/49/1), [Sch. 4 para. 16(a)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/16/a/b); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-e9b023fa764539bcda98644e22a7114a]: Textual amendment: Words in art. 10(4) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/nisi/2003/435/article/49/1), [Sch. 4 para. 16(a)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/16/a/b); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^M_F_4004d315-30ab-4e27-83d1-69c72fe726ad]: Textual amendment: Words in art. 10(4) substituted (1.4.2015) by Access to [Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/uksi/2003/435), [art. 49(1)](https://www.legislation.gov.uk/uksi/2003/435/article/49/1), [Sch. 4 para. 16(b)](https://www.legislation.gov.uk/uksi/2003/435/schedule/4/paragraph/16/b) (as amended (18.11.2014) by Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11), Sch. 2 para 6(43)(a)(xi)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 

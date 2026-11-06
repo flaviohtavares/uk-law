@@ -79,7 +79,7 @@ Section 1(2).
 
 #### Armed Forces
 
-**5.**[^key-e733e7382fe64cfdb01a8af55f947008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e733e7382fe64cfdb01a8af55f947008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In the [^c654690]Visiting Forces (British Commonwealth) Act 1933, section 4 (which deals with attachment and mutual powers of command) shall apply in relation to forces raised in Zanzibar as it applies in relation to forces raised in Dominions within the meaning of the [^c654691]Statute of Westminster 1931.
 
@@ -151,7 +151,7 @@ Orders in Council under Foreign Jurisdiction Act 1890
 
 [^c654686]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6)
 
-[^key-e733e7382fe64cfdb01a8af55f947008]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1963/55/schedule/1/paragraph/5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e733e7382fe64cfdb01a8af55f947008]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1963/55/schedule/1/paragraph/5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c654690]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
 

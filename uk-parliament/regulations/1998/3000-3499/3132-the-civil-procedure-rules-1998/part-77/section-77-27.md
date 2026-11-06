@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77.27. Special advocates[^key-668ba5c4be1857e3ce59d0f7e37a77a2]
+## 77.27. Special advocates[^c-668ba5c4be1857e3ce59d0f7e37a77a2]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-668ba5c4be1857e3ce59d0f7e37a77a2]: Textual amendment: [Pt. 77](https://www.legislation.gov.uk/uksi/1998/3132/part/77) Section 3 inserted (31.12.2025) by [The Civil Procedure (Amendment No. 3) Rules 2025 (S.I. 2025/1229)](https://www.legislation.gov.uk/uksi/2025/1229), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1229/rule/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/1229/rule/3/3)
+[^c-668ba5c4be1857e3ce59d0f7e37a77a2]: Textual amendment: [Pt. 77](https://www.legislation.gov.uk/uksi/1998/3132/part/77) Section 3 inserted (31.12.2025) by [The Civil Procedure (Amendment No. 3) Rules 2025 (S.I. 2025/1229)](https://www.legislation.gov.uk/uksi/2025/1229), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1229/rule/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/1229/rule/3/3)

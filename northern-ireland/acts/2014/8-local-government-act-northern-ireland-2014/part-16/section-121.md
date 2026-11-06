@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Insurance against accidents to councillors[^key-1272e64b9c479c669bc9211ed79bc350]
+## 121. Insurance against accidents to councillors[^c-1272e64b9c479c669bc9211ed79bc350]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1272e64b9c479c669bc9211ed79bc350]: Commencement: [S. 121](https://www.legislation.gov.uk/nia/2014/8/section/121) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1272e64b9c479c669bc9211ed79bc350]: Commencement: [S. 121](https://www.legislation.gov.uk/nia/2014/8/section/121) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

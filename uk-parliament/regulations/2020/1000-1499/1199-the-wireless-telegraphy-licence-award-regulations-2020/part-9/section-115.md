@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Notification of the total auction sum payable by winning bidders to OFCOM[^key-0b440e582510ded601993585ed1d5ca2]
+## 115. Notification of the total auction sum payable by winning bidders to OFCOM[^c-0b440e582510ded601993585ed1d5ca2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Following the determination of the total auction sum payable by each winning bid
 
 ## Annotations
 
-[^key-0b440e582510ded601993585ed1d5ca2]: Commencement: Reg. 115 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-0b440e582510ded601993585ed1d5ca2]: Commencement: Reg. 115 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

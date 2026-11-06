@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Sections 39 to 46: interpretation[^key-36a999ac444cae81ec59c2a0efa0c56a]
+## 46. Sections 39 to 46: interpretation[^c-36a999ac444cae81ec59c2a0efa0c56a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ In sections 39 to 45 and this section—
 
 ## Annotations
 
-[^key-36a999ac444cae81ec59c2a0efa0c56a]: Commencement: S. 46 in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(p)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/p)
+[^c-36a999ac444cae81ec59c2a0efa0c56a]: Commencement: S. 46 in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(p)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/p)

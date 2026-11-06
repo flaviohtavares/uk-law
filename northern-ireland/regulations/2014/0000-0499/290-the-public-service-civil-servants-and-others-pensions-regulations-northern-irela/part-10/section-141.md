@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 141. Interpretation in relation to Part[^key-e395f4c86a8169bac3b4f1e677ded9cb]
+## 141. Interpretation in relation to Part[^c-e395f4c86a8169bac3b4f1e677ded9cb]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ In this Part—
 
 ## Annotations
 
-[^key-e395f4c86a8169bac3b4f1e677ded9cb]: Commencement: [Reg. 141](https://www.legislation.gov.uk/nisr/2014/290/regulation/141) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e395f4c86a8169bac3b4f1e677ded9cb]: Commencement: [Reg. 141](https://www.legislation.gov.uk/nisr/2014/290/regulation/141) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00073]: Footnote: Section 93 was amended by the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213)) Art.165 Sch.4 para.6 and the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c.4)](https://www.legislation.gov.uk/ukpga/2000/4) section 52 and Sch.5 para.5(1)

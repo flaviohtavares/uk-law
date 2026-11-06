@@ -46,18 +46,18 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 31(5)(b) and 33B(1)(e)[^f00001] of the Court Martial Appeals Act 1968[^f00002].
 
-## 1. Citation, commencement, application and interpretation[^key-114cd667c08eb460ccdb529d761e88fc]
+## 1. Citation, commencement, application and interpretation[^c-114cd667c08eb460ccdb529d761e88fc]
 
 These Regulations may be cited as the Costs in the Court Martial Appeal Court Regulations 2012 and come into force on 1st October 2012.
 
-**2.**[^key-e97abcb30140c56d7d1e4861c84d1a67] These Regulations apply to all appeals and references to the Court Martial Appeal Court where the application for leave to appeal or notice of appeal was lodged, or the reference was made, or the notice of reference by the Attorney General under section 273(1) of the Armed Forces Act 2006[^f00003] was served, on or after 1st October 2012.
+**2.**[^c-e97abcb30140c56d7d1e4861c84d1a67] These Regulations apply to all appeals and references to the Court Martial Appeal Court where the application for leave to appeal or notice of appeal was lodged, or the reference was made, or the notice of reference by the Attorney General under section 273(1) of the Armed Forces Act 2006[^f00003] was served, on or after 1st October 2012.
 
-**3.**[^key-cbf1e23065fed84a65a2a4efda274b5d] In these Regulations—
+**3.**[^c-cbf1e23065fed84a65a2a4efda274b5d] In these Regulations—
 
 - “determination” means a determination under section 31(5)(b) of the Court Martial Appeals Act 1968;
 - “direction” means the direction under section 31(1) of the Court Martial Appeals Act 1968 with respect to which a determination is made.
 
-## 3A. Application to appeals against a review of sentence[^key-8ab354934645a2a471f18da471049e51]
+## 3A. Application to appeals against a review of sentence[^c-8ab354934645a2a471f18da471049e51]
 
 (1) These Regulations apply to appeals against a review of sentence under section 304D or 304E of the Armed Forces Act 2006 as they apply to appeals falling within regulation 2 but with the modifications specified in paragraph (2).
 
@@ -72,24 +72,24 @@ These Regulations may be cited as the Costs in the Court Martial Appeal Court Re
 - “**2024 Regulations**”means the Armed Forces (Appeals Against Review of Sentence) Regulations 2024;
 - “**offender**”has the meaning given for the purpose of the 2024 Regulations.
 
-## 4. Determination by the registrar[^key-97b61eed35ff6ccfb5c82c0cb49cdcee]
+## 4. Determination by the registrar[^c-97b61eed35ff6ccfb5c82c0cb49cdcee]
 
 (1) A determination shall be made by the registrar on behalf of the Court Martial Appeal Court in accordance with these Regulations.
 
 (2) In making a determination, the registrar shall consider any receipts or other evidence, and any further particulars, information or documents, submitted by the appellant in accordance with regulation 5.
 
-## 5. Provision of evidence to the registrar[^key-1ff0f3cf4ca75de5403297a85d578f4b]
+## 5. Provision of evidence to the registrar[^c-1ff0f3cf4ca75de5403297a85d578f4b]
 
 The appellant—
 
 - (a) subject to regulation 10, shall submit to the registrar within 3 months of the date on which the direction was made receipts or other evidence of the appellant’s payment of the costs to be paid in accordance with the direction; and
 - (b) shall submit to the registrar such further particulars, information and documents as the registrar may require.
 
-## 6. Notification of sums fixed[^key-763214e9c12c7aae36e7077f0504a1c5]
+## 6. Notification of sums fixed[^c-763214e9c12c7aae36e7077f0504a1c5]
 
 When the registrar has made the determination, the registrar shall notify the appellant of the sums fixed.
 
-## 7. Redetermination of costs by the registrar[^key-6e75cfbfb79d324d8d3025918fa4e8db]
+## 7. Redetermination of costs by the registrar[^c-6e75cfbfb79d324d8d3025918fa4e8db]
 
 (1) An appellant who is dissatisfied with any sum fixed by the registrar may apply to the registrar to redetermine them.
 
@@ -105,7 +105,7 @@ When the registrar has made the determination, the registrar shall notify the ap
 
 (7) Subject to regulation 10, any request under paragraph (6) shall be made within 21 days of receiving notification of the decision.
 
-## 8. Appeals to a costs judge[^key-c73d2f2eecbf874764c20283ef46b54e]
+## 8. Appeals to a costs judge[^c-c73d2f2eecbf874764c20283ef46b54e]
 
 (1) Where the registrar has given his reasons for his decision on a redetermination under regulation 7, an appellant who is dissatisfied with that decision may appeal to a costs judge.
 
@@ -139,7 +139,7 @@ When the registrar has made the determination, the registrar shall notify the ap
 
 (14) Save where he confirms or decreases the sums redetermined under regulation 7, the costs judge may allow the appellant a sum in respect of part or all of any reasonable costs (including any fee payable in respect of an appeal) incurred by him in connection with the appeal.
 
-## 9. Appeals to the High Court[^key-f5236f9524e7654f9bb4e250bb7150c6]
+## 9. Appeals to the High Court[^c-f5236f9524e7654f9bb4e250bb7150c6]
 
 (1) An appellant who is dissatisfied with the decision of a costs judge on an appeal under regulation 8 may apply to a costs judge to certify a point of principle of general importance.
 
@@ -157,7 +157,7 @@ When the registrar has made the determination, the registrar shall notify the ap
 
 (8) The judge shall have the same powers as the registrar and a costs judge under these Regulations, and may reverse, affirm or amend the decision appealed against or make such other order as he thinks fit.
 
-## 10. Time limits[^key-bc6ac15b64e9cd053cafa321991ce5df]
+## 10. Time limits[^c-bc6ac15b64e9cd053cafa321991ce5df]
 
 (1) Subject to paragraph (3), a time limit specified in paragraph (2) may for good reason, be extended by the registrar, the Senior Costs Judge or the High Court as the case may be.
 
@@ -215,28 +215,28 @@ Regulation 10 provides for the extension of time limits laid down in the Regulat
 
 [^f00002]: Footnote: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20). This Act was originally entitled the Courts-Martial (Appeals) Act 1968 but was re-titled by section 272 of, and paragraph 53 of Schedule 8 to, the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-114cd667c08eb460ccdb529d761e88fc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-114cd667c08eb460ccdb529d761e88fc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-e97abcb30140c56d7d1e4861c84d1a67]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1805/regulation/2) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-e97abcb30140c56d7d1e4861c84d1a67]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1805/regulation/2) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
 [^f00003]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-cbf1e23065fed84a65a2a4efda274b5d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1805/regulation/3) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-cbf1e23065fed84a65a2a4efda274b5d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1805/regulation/3) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-8ab354934645a2a471f18da471049e51]: Textual amendment: Reg. 3A inserted (20.11.2024) by [The Costs in the Court Martial Appeal Court (Amendment) Regulations 2024 (S.I. 2024/1062)](https://www.legislation.gov.uk/uksi/2024/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1062/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1062/regulation/3)
+[^c-8ab354934645a2a471f18da471049e51]: Textual amendment: Reg. 3A inserted (20.11.2024) by [The Costs in the Court Martial Appeal Court (Amendment) Regulations 2024 (S.I. 2024/1062)](https://www.legislation.gov.uk/uksi/2024/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1062/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1062/regulation/3)
 
-[^key-97b61eed35ff6ccfb5c82c0cb49cdcee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1805/regulation/4) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-97b61eed35ff6ccfb5c82c0cb49cdcee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1805/regulation/4) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-1ff0f3cf4ca75de5403297a85d578f4b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1805/regulation/5) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-1ff0f3cf4ca75de5403297a85d578f4b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1805/regulation/5) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-763214e9c12c7aae36e7077f0504a1c5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1805/regulation/6) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-763214e9c12c7aae36e7077f0504a1c5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1805/regulation/6) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-6e75cfbfb79d324d8d3025918fa4e8db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1805/regulation/7) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-6e75cfbfb79d324d8d3025918fa4e8db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1805/regulation/7) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-c73d2f2eecbf874764c20283ef46b54e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1805/regulation/8) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-c73d2f2eecbf874764c20283ef46b54e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1805/regulation/8) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
-[^key-f5236f9524e7654f9bb4e250bb7150c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1805/regulation/9) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-f5236f9524e7654f9bb4e250bb7150c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1805/regulation/9) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132); relevant amending instruments are [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221), [2005/3515](https://www.legislation.gov.uk/uksi/2005/3515), [2006/1689](https://www.legislation.gov.uk/uksi/2006/1689), [2007/2204](https://www.legislation.gov.uk/uksi/2007/2204) and [2009/3390](https://www.legislation.gov.uk/uksi/2009/3390).
 
-[^key-bc6ac15b64e9cd053cafa321991ce5df]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1805/regulation/10) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+[^c-bc6ac15b64e9cd053cafa321991ce5df]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1805/regulation/10) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Publication of decision notices[^key-0aeeeb4e2207d3c5fd47ee61672a653e]
+## 13. Publication of decision notices[^c-0aeeeb4e2207d3c5fd47ee61672a653e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aeeeb4e2207d3c5fd47ee61672a653e]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2010/28/section/13) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2480/article/4))
+[^c-0aeeeb4e2207d3c5fd47ee61672a653e]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2010/28/section/13) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2480/article/4))

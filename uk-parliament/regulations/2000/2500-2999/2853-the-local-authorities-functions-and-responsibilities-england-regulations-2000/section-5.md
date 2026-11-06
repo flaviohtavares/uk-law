@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Discharge of executive functions by authorities[^key-1451b0b2481acd3e6f38755a2f5f0120]
+## 5. Discharge of executive functions by authorities[^c-1451b0b2481acd3e6f38755a2f5f0120]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1451b0b2481acd3e6f38755a2f5f0120]: Commencement: Reg. 5 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)
+[^c-1451b0b2481acd3e6f38755a2f5f0120]: Commencement: Reg. 5 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)

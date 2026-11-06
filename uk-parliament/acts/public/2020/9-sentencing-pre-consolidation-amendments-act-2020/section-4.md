@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Regulations[^c24230971][^key-4cb5fd351deb2741c3d43487a71b27b2]
+## 4. Regulations[^c24230971][^c-4cb5fd351deb2741c3d43487a71b27b2]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c24230971]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/9/section/4) in force for specified purposes at Royal Assent, see. [s. 5(1)-(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/1)
 
-[^key-4cb5fd351deb2741c3d43487a71b27b2]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/9/section/4) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4cb5fd351deb2741c3d43487a71b27b2]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/9/section/4) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

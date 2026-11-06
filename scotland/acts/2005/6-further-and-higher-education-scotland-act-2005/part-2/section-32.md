@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Amendment of enactments[^key-b8292efa234e0b9f0e76e3799bba92b9]
+## 32. Amendment of enactments[^c-b8292efa234e0b9f0e76e3799bba92b9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 3 amends enactments for the purposes of and in consequence of this Act.
 
 ## Annotations
 
-[^key-b8292efa234e0b9f0e76e3799bba92b9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2005/6/section/32) in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-b8292efa234e0b9f0e76e3799bba92b9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2005/6/section/32) in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

@@ -34,46 +34,46 @@ of 27 June 2014
 
 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to *de minimis* aid in the fishery and aquaculture sector (revoked)
 
-[^key-aee33b70111bf85b6d3c4de09663dbb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aee33b70111bf85b6d3c4de09663dbb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope[^key-aee33b70111bf85b6d3c4de09663dbb9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 1. Scope[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. De minimis aid[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 2. Definitions[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Calculation of gross grant equivalent[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 3. De minimis aid[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Cumulation[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 4. Calculation of gross grant equivalent[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Monitoring[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 5. Cumulation[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional provisions[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 6. Monitoring[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and period of application[^key-aee33b70111bf85b6d3c4de09663dbb9]
+## Article 7. Transitional provisions[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aee33b70111bf85b6d3c4de09663dbb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 8. Entry into force and period of application[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
-## ANNEX[^key-aee33b70111bf85b6d3c4de09663dbb9]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-aee33b70111bf85b6d3c4de09663dbb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-aee33b70111bf85b6d3c4de09663dbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aee33b70111bf85b6d3c4de09663dbb9]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(n)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/n) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-aee33b70111bf85b6d3c4de09663dbb9]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(n)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/n) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

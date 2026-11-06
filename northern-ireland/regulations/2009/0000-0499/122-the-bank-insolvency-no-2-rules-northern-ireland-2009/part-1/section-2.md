@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Extent[^key-cdeb30df34745a579ca8aedbb1841268]
+## 2. Extent[^c-cdeb30df34745a579ca8aedbb1841268]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Rules extend only to Northern Ireland.
 
 ## Annotations
 
-[^key-cdeb30df34745a579ca8aedbb1841268]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-cdeb30df34745a579ca8aedbb1841268]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

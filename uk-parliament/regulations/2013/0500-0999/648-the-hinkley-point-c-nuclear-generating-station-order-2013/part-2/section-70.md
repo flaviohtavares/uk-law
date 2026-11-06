@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Confirmation of byelaws[^key-29cbc7fea9f7cf2e9816b3372bf5a04f]
+## 70. Confirmation of byelaws[^c-29cbc7fea9f7cf2e9816b3372bf5a04f]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29cbc7fea9f7cf2e9816b3372bf5a04f]: Commencement: Art. 70 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-29cbc7fea9f7cf2e9816b3372bf5a04f]: Commencement: Art. 70 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

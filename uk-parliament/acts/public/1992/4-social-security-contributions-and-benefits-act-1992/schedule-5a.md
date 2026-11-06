@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — Pension increase or lump sum where entitlement to shared additional pension is deferred[^key-683a586a234e0249ec3cf9468a6407d2][^key-07ebf97829ef76cab6469dcc71f4b7c6]
+## SCHEDULE 5A — Pension increase or lump sum where entitlement to shared additional pension is deferred[^c-683a586a234e0249ec3cf9468a6407d2][^c-07ebf97829ef76cab6469dcc71f4b7c6]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ### Increase of pension where entitlement deferred
 
-**2.**[^key-685a32071a0ccb8e161abbaa0b68f899] (1) This paragraph applies where a person’s entitlement to a shared additional pension is deferred and either—
+**2.**[^c-685a32071a0ccb8e161abbaa0b68f899] (1) This paragraph applies where a person’s entitlement to a shared additional pension is deferred and either—
 
 - (a) the period of deferment is less than 12 months, or
 - (b) the person has made an election under paragraph 1(1)(a) in relation to the period of deferment.
@@ -102,8 +102,8 @@ where—
 
 ## Annotations
 
-[^key-683a586a234e0249ec3cf9468a6407d2]: Modification: Sch. 5A modified (6.4.2005) by [The Social Security (Retirement Pensions etc.) (Transitional Provisions) Regulations 2005 (S.I. 2005/469)](https://www.legislation.gov.uk/uksi/2005/469), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/469/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/469/regulation/3)
+[^c-683a586a234e0249ec3cf9468a6407d2]: Modification: Sch. 5A modified (6.4.2005) by [The Social Security (Retirement Pensions etc.) (Transitional Provisions) Regulations 2005 (S.I. 2005/469)](https://www.legislation.gov.uk/uksi/2005/469), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/469/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/469/regulation/3)
 
-[^key-07ebf97829ef76cab6469dcc71f4b7c6]: Textual amendment: Sch. 5A inserted (18.11.2004 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/3/a), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/15)
+[^c-07ebf97829ef76cab6469dcc71f4b7c6]: Textual amendment: Sch. 5A inserted (18.11.2004 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/3/a), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2004/35/schedule/11/paragraph/15)
 
-[^key-685a32071a0ccb8e161abbaa0b68f899]: Modification: [Sch. 5A para. 2](https://www.legislation.gov.uk/ukpga/1992/4/schedule/5A/paragraph/2): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/4/4/b)
+[^c-685a32071a0ccb8e161abbaa0b68f899]: Modification: [Sch. 5A para. 2](https://www.legislation.gov.uk/ukpga/1992/4/schedule/5A/paragraph/2): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/4/4/b)

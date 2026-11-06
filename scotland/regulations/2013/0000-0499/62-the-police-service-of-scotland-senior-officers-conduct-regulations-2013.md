@@ -50,11 +50,11 @@ In accordance with section 54(2) of that Act, they have consulted and shared a d
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-a807996549be8d6ec6bdd87b37f42cbd]
+### 1. Citation and commencement[^c-a807996549be8d6ec6bdd87b37f42cbd]
 
  These Regulations may be cited as the Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013 and come into force on 1st April 2013.
 
-### 2. Interpretation[^key-2d725d38701e8ff1916d3d81c8d1eff7]
+### 2. Interpretation[^c-2d725d38701e8ff1916d3d81c8d1eff7]
 
 In these Regulations—
 
@@ -71,24 +71,24 @@ In these Regulations—
   - (a) in a case where the Commissioner is required or decides to carry out a misconduct investigation by virtue of regulation 9, a member of the Commissioner’s staff appointed in accordance with regulation 10(2)(b) to carry out that investigation on the Commissioner’s behalf; or
   - (b) in any other case, an individual appointed in accordance with regulation 11;
 - “improvement action” means action intended to improve the conduct of the senior officer;
-- “misconduct” means conduct which amounts to a breach of the Standards of Professional Behaviour (but does not, unless the context otherwise requires, include gross misconduct)[^key-49b1491d4c7ced60541213b6d15f5959];
+- “misconduct” means conduct which amounts to a breach of the Standards of Professional Behaviour (but does not, unless the context otherwise requires, include gross misconduct)[^c-49b1491d4c7ced60541213b6d15f5959];
 - “misconduct allegation” means any report, allegation or complaint from which it can reasonably be inferred that any conduct of the senior officer may amount to misconduct or gross misconduct;
 - “misconduct form” means the form sent in accordance with regulation 16(2);
 - “misconduct hearing” means a hearing arranged under regulation 16 to determine whether any conduct of the senior officer amounts to misconduct or, as the case may be, gross misconduct;
 - “misconduct investigation” means an investigation into whether the senior officer has a case to answer in relation to a misconduct allegation;
 - “panel” means the panel appointed under regulation 18(1);
-- “police representative[^key-4e93ceee3b32e287ab96f1e7680cff68]” means an individual chosen by the senior officer in accordance with regulation 4;
+- “police representative[^c-4e93ceee3b32e287ab96f1e7680cff68]” means an individual chosen by the senior officer in accordance with regulation 4;
 - “proved” means established on a balance of probabilities;
-- “reporting officer” has the meaning given in regulation 2 of the Senior Officers’ Performance Regulations;[^key-95d1d6cec9d88515581afac5b9567263]
+- “reporting officer” has the meaning given in regulation 2 of the Senior Officers’ Performance Regulations;[^c-95d1d6cec9d88515581afac5b9567263]
 - “Standards of Professional Behaviour” means the standards set out in Schedule 1;
 - “the senior officer” means a senior officer in respect of whom a misconduct allegation has been made and who is subject, in relation to that allegation, to any proceedings under these Regulations;
-- “the Senior Officers’ Performance Regulations” means the Police Service of Scotland (Senior Officers) (Performance) Regulations 2016;[^key-252d3b8f1915e1a0a1049ba2cd202661]
+- “the Senior Officers’ Performance Regulations” means the Police Service of Scotland (Senior Officers) (Performance) Regulations 2016;[^c-252d3b8f1915e1a0a1049ba2cd202661]
 - “working day” means any day other than—
   - (a) a Saturday or Sunday;
   - (b) a day which is a bank holiday in Scotland within the meaning given by paragraph 2 of Schedule 1 to the Banking and Financial Dealings Act 1971[^f00003]; or
   - (c) a day which is a public holiday in Scotland.
 
-### 3. Application[^key-a74700d763d76adbcb605842dd5299e9]
+### 3. Application[^c-a74700d763d76adbcb605842dd5299e9]
 
 (1) These Regulations apply only to conduct of a senior officer occurring on or after 1st April 2013.
 
@@ -97,7 +97,7 @@ In these Regulations—
 - (a) under arrangements made under section 16 of the Act; or
 - (b) by virtue of paragraph 8(2) of schedule 5 to the Act.
 
-### 4. Police representative[^key-353f4295d5c29538c7e594bb3537b3cc][^key-c86fe839b0bac5133d02ecf99f51f608]
+### 4. Police representative[^c-353f4295d5c29538c7e594bb3537b3cc][^c-c86fe839b0bac5133d02ecf99f51f608]
 
 (1) The senior officer may choose any of the following to act as the senior officer’s police representative—
 
@@ -115,7 +115,7 @@ In these Regulations—
 
 (4) The chief constable must permit any constable or member of the police staff acting as a police representative under these Regulations to use a reasonable amount of duty time for the purpose of performing the functions mentioned in paragraph (3).
 
-### 5. Legal representation[^key-bf702e96a31f94978a2e86de0b07dce9]
+### 5. Legal representation[^c-bf702e96a31f94978a2e86de0b07dce9]
 
 (1) The senior officer is, in accordance with this regulation, entitled to be legally represented at any misconduct hearing or appeal hearing by an advocate or solicitor of the senior officer’s choice.
 
@@ -129,14 +129,14 @@ In these Regulations—
 - (a) is not entitled to be legally represented; and
 - (b) may be dismissed or receive, in accordance with these Regulations, any other disciplinary or improvement action without being so represented.
 
-(4) This regulation is without prejudice to the senior officer’s right to be represented by a police representative[^key-88662a94129a8ef2e76f00e90385d71e] at a misconduct hearing or appeal hearing.
+(4) This regulation is without prejudice to the senior officer’s right to be represented by a police representative[^c-88662a94129a8ef2e76f00e90385d71e] at a misconduct hearing or appeal hearing.
 
-### 6. Suspension[^key-a01c1c5e4aeee73303012b7ad79caa9b]
+### 6. Suspension[^c-a01c1c5e4aeee73303012b7ad79caa9b]
 
 (1) The Authority may suspend a senior officer from the office of constable where an allegation comes to the Authority’s attention from which it can reasonably be inferred that any conduct of that officer may—
 
 - (a) constitute a criminal offence; or
-- (b) amount to misconduct or gross misconduct[^key-d69809673d022bc301095f9a371fc7c3].
+- (b) amount to misconduct or gross misconduct[^c-d69809673d022bc301095f9a371fc7c3].
 
 (2) But the Authority must not suspend a senior officer unless at least one of the conditions mentioned in paragraph (3) (“the suspension conditions”) is satisfied.
 
@@ -165,7 +165,7 @@ In these Regulations—
 
 (8) Where a senior officer who is suspended is dismissed with notice, that suspension is to subsist until the end of the notice period.
 
-### 7. Alleged offences[^key-3140b7f95719b80dbda085430838d429]
+### 7. Alleged offences[^c-3140b7f95719b80dbda085430838d429]
 
 (1) Where the Authority considers that it can reasonably be inferred that a senior officer may have committed a criminal offence, it—
 
@@ -188,7 +188,7 @@ In these Regulations—
 
 ## PART 2 — Investigations
 
-### 8. Preliminary assessment[^key-29e85db96eb6008e722b0bd0f3485623]
+### 8. Preliminary assessment[^c-29e85db96eb6008e722b0bd0f3485623]
 
 (1) This regulation applies where a misconduct allegation comes to the attention of the Authority.
 
@@ -202,7 +202,7 @@ In these Regulations—
 
 - (a) take no action;
 - (b) take improvement action; or
-- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^key-c07fdd415d9ab27e449eebf37ff655ab].
+- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^c-c07fdd415d9ab27e449eebf37ff655ab].
 
 (4) Where the Authority assesses that the conduct would, if proved, amount to either misconduct or gross misconduct, it must decide whether the misconduct allegation is to be investigated and—
 
@@ -211,7 +211,7 @@ In these Regulations—
   - (i) take no further action; or
   - (ii) take improvement action.
 
-### 9. Assessment by Commissioner[^key-e4ca0df36604fd2beb1a12c5991fe9cb]
+### 9. Assessment by Commissioner[^c-e4ca0df36604fd2beb1a12c5991fe9cb]
 
 (1) Where a misconduct allegation is referred to the Commissioner in pursuance of regulation 8(4)(a), the Commissioner must assess whether the conduct which is the subject matter of that allegation would, if that conduct were proved, amount to—
 
@@ -228,7 +228,7 @@ In these Regulations—
 
 (4) Where the Commissioner assesses that the conduct which is the subject matter of the misconduct allegation would amount to neither misconduct nor gross misconduct, the Commissioner must refer the allegation back to the Authority (with such recommendations as are considered appropriate).
 
-### 10. Investigation by Commissioner[^key-a4429a96e249c15960910fd17973dc6d]
+### 10. Investigation by Commissioner[^c-a4429a96e249c15960910fd17973dc6d]
 
 (1) This regulation applies where the Commissioner—
 
@@ -242,13 +242,13 @@ to carry out a misconduct investigation.
 - (a) inform the Authority that the Commissioner is to carry out a misconduct investigation; and
 - (b) appoint a member of the Commissioner’s staff to carry out that investigation on the Commissioner’s behalf.
 
-### 11. Investigation by the Authority[^key-7d2095a865b08025ad9c26aae3024456]
+### 11. Investigation by the Authority[^c-7d2095a865b08025ad9c26aae3024456]
 
 (1) Where the Commissioner has referred a misconduct allegation back to the Authority under regulation 9(3)(b) or (4), the Authority may—
 
 - (a) carry out a misconduct investigation;
 - (b) take improvement action; or
-- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^key-2e341da087ef3aafa5481aa6b176c1b2].
+- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^c-2e341da087ef3aafa5481aa6b176c1b2].
 
 (2) Where the Authority decides, in accordance with paragraph (1)(a), to carry out a misconduct investigation it must—
 
@@ -289,7 +289,7 @@ to carry out a misconduct investigation.
 
 (9) Paragraphs (2) to (7) apply to the appointment of a replacement investigator.
 
-### 12. Notice of investigation[^key-dbced2b2b735ed2967fa86dd04d7f256]
+### 12. Notice of investigation[^c-dbced2b2b735ed2967fa86dd04d7f256]
 
 The investigator must, as soon as reasonably practicable following appointment, give the senior officer written notice—
 
@@ -300,7 +300,7 @@ The investigator must, as soon as reasonably practicable following appointment, 
 - (c) providing an initial assessment of whether, if proved, that conduct would amount to misconduct or gross misconduct; and
 - (d) providing the senior officer with an opportunity to make written or oral representations.
 
-### 13. Misconduct interview[^key-256103020ece18a84ecaf5b4bacac816]
+### 13. Misconduct interview[^c-256103020ece18a84ecaf5b4bacac816]
 
 (1) The investigator—
 
@@ -331,7 +331,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (c) the investigator must consider any representations made; and
 - (d) having considered those representations (if any), the investigator must send the final written record of the interview to the senior officer.
 
-### 14. Investigator’s report[^key-cd06ecdc88ccc200fb07f59e48439989]
+### 14. Investigator’s report[^c-cd06ecdc88ccc200fb07f59e48439989]
 
 (1) At the conclusion of the misconduct investigation, the investigator must—
 
@@ -348,7 +348,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (a) a copy of any audio recording made of an interview under regulation 13(7); and
 - (b) any written record of such an interview.
 
-### 15. Referral to misconduct hearing[^key-03b1383ca5b9ffa135ea3e66e0c67f26]
+### 15. Referral to misconduct hearing[^c-03b1383ca5b9ffa135ea3e66e0c67f26]
 
 (1) On receipt of the investigator’s report, the Authority must, as soon as reasonably practicable, determine whether the senior officer has a case to answer in respect of—
 
@@ -360,13 +360,13 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 - (a) take no action;
 - (b) take improvement action; or
-- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^key-aaf9a0f43f53e6c502bec090ff6ca73a].
+- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^c-aaf9a0f43f53e6c502bec090ff6ca73a].
 
 (3) Where the Authority determines that the senior officer has a case to answer in respect of either misconduct or gross misconduct, it must refer the misconduct allegation to a misconduct hearing.
 
 ## PART 3 — Misconduct hearings
 
-### 16. Arrangement of misconduct hearing[^key-bc57b519e2b1a744a0008e9649492e5d]
+### 16. Arrangement of misconduct hearing[^c-bc57b519e2b1a744a0008e9649492e5d]
 
 (1) This regulation applies where the Authority has referred a case to a misconduct hearing.
 
@@ -382,7 +382,7 @@ any misconduct or gross misconduct is alleged to have occurred.
   - (ii) (as the case may be) gross misconduct;
 - (e) the senior officer’s right to seek advice from a staff association;
 - (f) the effect of regulations 4 and 5;
-- (g)[^key-8bc8f5554e70b73aa46801741e9b4574] the requirement to provide a notice in response to the misconduct form in accordance with paragraphs (5) to (7);
+- (g)[^c-8bc8f5554e70b73aa46801741e9b4574] the requirement to provide a notice in response to the misconduct form in accordance with paragraphs (5) to (7);
 - (h) the names of the members of the panel.
 
 (4) The Authority must send with the misconduct form—
@@ -416,7 +416,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 (9) Where any document is withheld by virtue of the application of paragraph (8), the Authority must, so far as is reasonably possible without prejudicing any of the matters mentioned in that paragraph, provide the senior officer with a summary of the content of that document.
 
-### 17. Witnesses[^key-965e53567158d338811f5e4dc1351ec4]
+### 17. Witnesses[^c-965e53567158d338811f5e4dc1351ec4]
 
 (1) As soon as reasonably practicable before the misconduct hearing—
 
@@ -429,7 +429,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 (2) The Authority must make arrangements for the attendance at the misconduct hearing of any witnesses specified in a list mentioned in paragraph (1).
 
-### 18. Appointment of panel[^key-fc5bfb6a89460e64817e2d39e3e92fc5]
+### 18. Appointment of panel[^c-fc5bfb6a89460e64817e2d39e3e92fc5]
 
 (1) The Authority must appoint a panel of 3 individuals to conduct the misconduct hearing.
 
@@ -460,7 +460,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (a) up to two individuals to act as assessors; and
 - (b) in a case where the senior officer has notified an intention to be legally represented, an advocate or a solicitor to act as a legal assessor.
 
-### 19. Procedure at misconduct hearing[^key-06968990888588927503d36977e33626]
+### 19. Procedure at misconduct hearing[^c-06968990888588927503d36977e33626]
 
 (1) Subject to the following paragraphs of this regulation and regulations 20 and 21, the chairing member of the panel is to determine the procedure at the misconduct hearing.
 
@@ -483,7 +483,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (c) the chairing member of the panel must consider any representations made; and
 - (d) having considered those representations (if any), the chairing member of the panel must send the final written record of the interview to the senior officer.
 
-### 20. Proceedings in senior officer’s absence[^key-1cf89ceb8b20f6686cb144e5bfe49ec7]
+### 20. Proceedings in senior officer’s absence[^c-1cf89ceb8b20f6686cb144e5bfe49ec7]
 
 (1) Where the senior officer informs the chairing member of the panel that the senior officer is unable to attend the misconduct hearing on grounds which the chairing member considers to be reasonable, the chairing member may permit the senior officer to participate in the proceedings by video link or other suitable means.
 
@@ -494,10 +494,10 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 (3) Where this paragraph applies—
 
-- (a) the senior officer may be represented at the misconduct hearing by the senior officer’s police representative[^key-13bed0a6253955baec2baf962e510704], an advocate or a solicitor; and
+- (a) the senior officer may be represented at the misconduct hearing by the senior officer’s police representative[^c-13bed0a6253955baec2baf962e510704], an advocate or a solicitor; and
 - (b) the hearing may be proceeded with and concluded in the senior officer’s absence (whether or not the senior officer is so represented).
 
-### 21. Attendance of third parties[^key-816c3cdc62e399a75b14b8c5f65c8413]
+### 21. Attendance of third parties[^c-816c3cdc62e399a75b14b8c5f65c8413]
 
 (1) Subject to the following paragraphs of this regulation, the misconduct hearing is to be held in private.
 
@@ -512,7 +512,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 (5) Paragraphs (2) to (4) do not apply to any part of the misconduct hearing at which disciplinary action is being considered.
 
-### 22. Determination[^key-524d799237c6bd83ffd1fca79255ded3]
+### 22. Determination[^c-524d799237c6bd83ffd1fca79255ded3]
 
 (1) At the conclusion of the misconduct hearing, the panel must—
 
@@ -531,9 +531,9 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 - (a) take no further action;
 - (b) take improvement action; or
-- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^key-b671aa3ce8965217da67194da66598be].
+- (c) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^c-b671aa3ce8965217da67194da66598be].
 
-### 23. Disciplinary action[^key-3fe02106ee7ab136bfd3db6dd3e52918]
+### 23. Disciplinary action[^c-3fe02106ee7ab136bfd3db6dd3e52918]
 
 (1) This regulation applies where—
 
@@ -542,7 +542,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 (2) Where this regulation applies, the panel must determine whether the Authority is to take—
 
-- (a)[^key-28b93c35ce54b0228407d5d604843403] improvement action; or
+- (a)[^c-28b93c35ce54b0228407d5d604843403] improvement action; or
 - (b) subject to paragraphs (4) to (7), any such disciplinary action as is mentioned in paragraph (3).
 
 (3) The disciplinary action is—
@@ -553,14 +553,14 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (d) dismissal with such notice as the Authority may specify; or
 - (e) dismissal without notice.
 
-(4) Where, at a time when any of the conduct forming the subject matter of the misconduct allegation occurred[^key-4285a8cbd1ee195b4b672fa912716a42], the senior officer was subject to a written warning which was[^key-c8535c48147693606bc458a9de42c519] in effect, neither a verbal warning nor a written warning may be given.
+(4) Where, at a time when any of the conduct forming the subject matter of the misconduct allegation occurred[^c-4285a8cbd1ee195b4b672fa912716a42], the senior officer was subject to a written warning which was[^c-c8535c48147693606bc458a9de42c519] in effect, neither a verbal warning nor a written warning may be given.
 
-(5) Where, at a time when any of the conduct forming the subject matter of the misconduct allegation occurred[^key-951ee1ab89c9a5027b966ac9832f11d3], the senior officer was subject to a final written warning which was[^key-7c85567edbe11b19b508e618d5e320fb] in effect—
+(5) Where, at a time when any of the conduct forming the subject matter of the misconduct allegation occurred[^c-951ee1ab89c9a5027b966ac9832f11d3], the senior officer was subject to a final written warning which was[^c-7c85567edbe11b19b508e618d5e320fb] in effect—
 
 - (a) none of a verbal warning, a written warning or a final written warning may be given; but
 - (b) in exceptional circumstances, the final written warning may be extended, provided that such a warning may be extended on one occasion only and for a period of no more than 18 months.
 
-(6) Where the panel has determined that any conduct of the senior officer amounts to misconduct, the disciplinary action mentioned in paragraph (3)(d) or (e) may be taken only where the senior officer was[^key-d39e6ea818ba202abe45c4cc1d2ed130] subject, at a time when any of the conduct forming the subject matter of the misconduct allegation occurred[^key-909b5eb951cf1b0baffc3a9b7d599788], to a final written warning which was[^key-0ba17e0a2adc836887e26b2406030b6e] in effect.
+(6) Where the panel has determined that any conduct of the senior officer amounts to misconduct, the disciplinary action mentioned in paragraph (3)(d) or (e) may be taken only where the senior officer was[^c-d39e6ea818ba202abe45c4cc1d2ed130] subject, at a time when any of the conduct forming the subject matter of the misconduct allegation occurred[^c-909b5eb951cf1b0baffc3a9b7d599788], to a final written warning which was[^c-0ba17e0a2adc836887e26b2406030b6e] in effect.
 
 (7) A final written warning remains in effect for a period of 18 months from the date on which it is given (unless extended under paragraph (5)(b)).
 
@@ -569,7 +569,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (a) the panel’s determination under regulation 22(1); and
 - (b) the action to be taken in accordance with this regulation.
 
-### 24. Notification of determination and action to be taken[^key-6abb68aa05bcd4034c38620d80860a36]
+### 24. Notification of determination and action to be taken[^c-6abb68aa05bcd4034c38620d80860a36]
 
 (1) The Authority must, as soon as reasonably practicable after the conclusion of the misconduct hearing (and not later than 10 working days from the date of conclusion of that hearing), notify the senior officer in writing of—
 
@@ -591,7 +591,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 ## PART 4 — Appeals
 
-### 25. Appeals[^key-e70ff032ae9581700d39b2ad4e498829]
+### 25. Appeals[^c-e70ff032ae9581700d39b2ad4e498829]
 
 (1) This regulation applies where—
 
@@ -611,7 +611,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (b) there is evidence that could not reasonably have been considered at the misconduct hearing which could have affected materially such a determination or the determination that particular disciplinary action is to be taken; or
 - (c) there was a breach of the procedures set out in these Regulations which could have affected materially such a determination or the determination that particular disciplinary action is to be taken.
 
-(4) An appeal may be requested by the senior officer sending a written appeal notice to the Authority not more than 30[^key-8bfc5042a057cd2e117176b3a97f0930] working days from the date on which the senior officer received a notice under regulation 24(1).
+(4) An appeal may be requested by the senior officer sending a written appeal notice to the Authority not more than 30[^c-8bfc5042a057cd2e117176b3a97f0930] working days from the date on which the senior officer received a notice under regulation 24(1).
 
 (5) The appeal notice must specify—
 
@@ -627,7 +627,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (a) send with the appeal notice a copy of any document or other information which it is considered supports the senior officer’s appeal; and
 - (b) without prejudice to the generality of sub-paragraph (a), where the senior officer seeks to rely on the ground of appeal mentioned in paragraph (3)(b), submit with the appeal notice details of the evidence which the senior officer considers could have affected materially any determination or decision of the panel.
 
-### 26. Appeal procedure[^key-86f93dcfc993ab942e2806846b89b45c]
+### 26. Appeal procedure[^c-86f93dcfc993ab942e2806846b89b45c]
 
 (1) Subject to the following provisions of this regulation, the appeal may be determined in such manner as the Authority determines.
 
@@ -648,11 +648,11 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (c) in either case, it must inform the senior officer in writing of its decision under this paragraph; and
 - (d) where an appeal hearing is to be held, it must as soon as reasonably practicable specify by notice in writing to the senior officer a date and time for that hearing.
 
-(6)[^key-4c925161acc60807743d7e33c44adeb9] The senior officer may, by notice in writing to the Authority, request the postponement of the appeal hearing to a later date and time.
+(6)[^c-4c925161acc60807743d7e33c44adeb9] The senior officer may, by notice in writing to the Authority, request the postponement of the appeal hearing to a later date and time.
 
 (7) The appeal hearing is to be conducted in such manner as the Authority may determine, provided that—
 
-- (a) the senior officer’s police representative[^key-c2cc359af424dc9a093a8d46bc447307] must be permitted to attend; and
+- (a) the senior officer’s police representative[^c-c2cc359af424dc9a093a8d46bc447307] must be permitted to attend; and
 - (b) the senior officer (or any individual representing the senior officer) must be permitted to make oral representations.
 
 (8) After the appeal hearing the Authority may—
@@ -661,19 +661,19 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (b) confirm the disciplinary action to be taken in accordance with the determination of the panel under regulation 23(2);
 - (c) require disciplinary action to be taken which is less serious than that which was to be taken in accordance with that determination;
 - (d) require improvement action to be taken instead of disciplinary action;
-- (e) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^key-70dc13a23f0f5b064daae9f043e4842d]; or
+- (e) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^c-70dc13a23f0f5b064daae9f043e4842d]; or
 - (f) in a case where the ground of appeal mentioned in regulation 25(3)(b) is found to be established, remit the misconduct allegation back to the panel.
 
-(9) The Authority must, not more than 60 working days from the date the appeal notice was submitted under regulation 25(4)[^key-1d37a9fe31d94be9a83282ce4dee5fbc], give notice to the senior officer of—
+(9) The Authority must, not more than 60 working days from the date the appeal notice was submitted under regulation 25(4)[^c-1d37a9fe31d94be9a83282ce4dee5fbc], give notice to the senior officer of—
 
 - (a) the outcome of the appeal; and
 - (b) the reasons for that outcome.
 
-(9A)[^key-1f3b76d5688a1e40518f11dd6530ace8] The period mentioned in paragraph (9) may be extended to not more than 120 working days if the Authority considers there to be exceptional circumstances to justify doing so.
+(9A)[^c-1f3b76d5688a1e40518f11dd6530ace8] The period mentioned in paragraph (9) may be extended to not more than 120 working days if the Authority considers there to be exceptional circumstances to justify doing so.
 
-(10) In a case where a decision to dismiss the senior officer has been confirmed, a notice under paragraph (9) must inform the senior officer of that officer’s right under section 56 of the Act to appeal to the First-tier Tribunal[^key-abbd62eb751f3260a4b3986025764ee0].
+(10) In a case where a decision to dismiss the senior officer has been confirmed, a notice under paragraph (9) must inform the senior officer of that officer’s right under section 56 of the Act to appeal to the First-tier Tribunal[^c-abbd62eb751f3260a4b3986025764ee0].
 
-### 27. Procedure where misconduct allegation remitted back to panel[^key-fc21c7761e032273c22dd9c461766a63]
+### 27. Procedure where misconduct allegation remitted back to panel[^c-fc21c7761e032273c22dd9c461766a63]
 
 (1) This regulation applies where a misconduct allegation is remitted back to the panel in accordance with regulation 26(8)(f).
 
@@ -684,7 +684,7 @@ any misconduct or gross misconduct is alleged to have occurred.
   - (i) reverse any determination made under regulation 22(1);
   - (ii) require disciplinary action to be taken which is less serious than that which was to be taken in accordance with the decision of the panel under regulation 23(2);
   - (iii) require improvement action to be taken instead of disciplinary action; or
-  - (iv) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^key-bd7512dcbd1028e2ab25a3e61bcf6ef2].
+  - (iv) refer the matter to the senior officer’s reporting officer to be dealt with in accordance with the Senior Officers’ Performance Regulations[^c-bd7512dcbd1028e2ab25a3e61bcf6ef2].
 
 (3) Before making a determination under paragraph (2), the panel may, by notice in writing, require the senior officer to attend a further hearing (and regulations 5, 17, 19, 20 and 22 apply to such a hearing as they apply to a misconduct hearing).
 
@@ -692,7 +692,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 ## PART 5 — Expenses
 
-### 28. Expenses[^key-890abae38792e9605856dd694dfea4bb]
+### 28. Expenses[^c-890abae38792e9605856dd694dfea4bb]
 
 (1) All reasonable expenses incurred by the senior officer in connection with any misconduct hearing or appeal hearing (including reasonable expenses incurred in the course of preparing for such a hearing) are to be met by the Authority.
 
@@ -702,7 +702,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 
 ## PART 6 — Revocations, savings and transitional provisions
 
-### 29. Revocations, savings and transitional provisions[^key-01111149ba8670daec3741fbfebac006]
+### 29. Revocations, savings and transitional provisions[^c-01111149ba8670daec3741fbfebac006]
 
  Schedule 2 contains a revocation and savings and transitional provision.
 
@@ -716,16 +716,16 @@ Edinburgh
 
 21st February 2013
 
-## SCHEDULE 1 — Standards of Professional Behaviour[^key-3e70882f5b8f7f59308cfd7b18cb569c]
+## SCHEDULE 1 — Standards of Professional Behaviour[^c-3e70882f5b8f7f59308cfd7b18cb569c]
 
 Regulation 2
 
-[^key-3e70882f5b8f7f59308cfd7b18cb569c]
+[^c-3e70882f5b8f7f59308cfd7b18cb569c]
 
 - **Honesty and integrity**
 
   Constables are honest, act with integrity and do not compromise or abuse their position.
-- **Candour[^key-2938a5ac5a81b1818524f33ef4f6b932]**
+- **Candour[^c-2938a5ac5a81b1818524f33ef4f6b932]**
 
   Constables act with candour and are open and truthful in their dealings, without favour to their own interests or the interests of the Police Service subject, in particular, to the reasonable assertion of the privilege against self-incrimination.
 
@@ -766,7 +766,7 @@ Regulation 2
 
 Regulation 29
 
-### 1. Interpretation[^key-88c49125836effb56d9f98dd576cf74f]
+### 1. Interpretation[^c-88c49125836effb56d9f98dd576cf74f]
 
 In this Schedule—
 
@@ -779,11 +779,11 @@ In this Schedule—
   - (a) immediately before 1st April 2013 was serving as a constable of a police force in the rank of assistant chief constable, deputy chief constable or chief constable; and
   - (b) has transferred to serve as a constable of the Police Service under paragraph 6 of schedule 5 to the Act.
 
-### 2. Revocation and saving[^key-d0943ba142ec100196cb16c8271bd581]
+### 2. Revocation and saving[^c-d0943ba142ec100196cb16c8271bd581]
 
 Subject to paragraph 3, the 1999 Regulations are revoked.
 
-**3.**[^key-fc2b578c0c2290d6bfc4502575fc8e09] (1) Despite their revocation by paragraph 2, the 1999 Regulations continue to have effect on and after 1st April 2013 as they had effect immediately before that date, subject to the modifications set out in paragraph 9, where—
+**3.**[^c-fc2b578c0c2290d6bfc4502575fc8e09] (1) Despite their revocation by paragraph 2, the 1999 Regulations continue to have effect on and after 1st April 2013 as they had effect immediately before that date, subject to the modifications set out in paragraph 9, where—
 
 - (a) it can reasonably be inferred from a report, allegation or complaint made before 1st April 2013 that any conduct of a transferred senior officer may amount to misconduct within the meaning given by regulation 2 of the 1999 Regulations and any proceedings under those Regulations in relation to that report, allegation or complaint have not been concluded before that date; and
 - (b) it can reasonably be inferred from a report, allegation or complaint made on or after 1st April 2013 that any conduct of a transferred senior officer occurring before that date may amount to misconduct within the meaning given by regulation 2 of the 1999 Regulations.
@@ -805,16 +805,16 @@ Subject to paragraph 3, the 1999 Regulations are revoked.
   - (i) when a decision that no further action is to be taken was notified to the senior officer in accordance with regulation 22(2) of those Regulations; or
   - (ii) when a decision in accordance with regulation 23(9) of those Regulations was notified to the senior officer in accordance with paragraph (10)(b) of that regulation.
 
-### 4. Transitional provisions[^key-6b1caa05131d5c0e8a4248757359844d]
+### 4. Transitional provisions[^c-6b1caa05131d5c0e8a4248757359844d]
 
 Any proceedings commenced under the 1999 Regulations in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3—
 
 - (a) may be continued under those Regulations as modified by paragraph 9; and
 - (b) where continued, are to be treated as proceedings under those Regulations as so modified.
 
-**5.**[^key-716daff48ee8d0a3ba9ddc5a7d541e0a] Anything done before 1st April 2013 under the 1999 Regulations by or in relation to a police authority in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3 is to be treated, on and after that date, as if it had been done by or in relation to the Authority.
+**5.**[^c-716daff48ee8d0a3ba9ddc5a7d541e0a] Anything done before 1st April 2013 under the 1999 Regulations by or in relation to a police authority in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3 is to be treated, on and after that date, as if it had been done by or in relation to the Authority.
 
-**6.**[^key-886d6123cd16d9f6fcd38a3336a46c70] (1) Sub-paragraph (2) applies to an individual who—
+**6.**[^c-886d6123cd16d9f6fcd38a3336a46c70] (1) Sub-paragraph (2) applies to an individual who—
 
 - (a) before 1st April 2013 was appointed under regulation 5(1) of the 1999 Regulations as an investigating officer in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3; and
 - (b) is a transferred senior officer.
@@ -827,7 +827,7 @@ Any proceedings commenced under the 1999 Regulations in relation to a case in re
 
 (5) Anything done before 1st April 2013 by or in relation to an investigating officer who is not a transferred senior officer is, on and after that date, to be treated as having been done by or in relation to the individual appointed to replace that investigating officer.
 
-**7.**[^key-439964d0a47beda6b8982647d3326244] (1) This paragraph applies to—
+**7.**[^c-439964d0a47beda6b8982647d3326244] (1) This paragraph applies to—
 
 - (a) a decision to dismiss an individual from a police force made under regulation 23(9) of the 1999 Regulations where—
   - (i) that decision was made before 1st April 2013;
@@ -845,14 +845,14 @@ Any proceedings commenced under the 1999 Regulations in relation to a case in re
 
 (3) Where a transferred senior officer has not resigned from the Police Service by the date specified in a decision mentioned in sub-paragraph (1)(b), the effect of that decision is to dismiss that transferred senior officer from the Police Service on the specified date.
 
-**8.**[^key-601046af2dd0402f1ed3877b855758be] (1) Sub-paragraph (2) applies to an individual who—
+**8.**[^c-601046af2dd0402f1ed3877b855758be] (1) Sub-paragraph (2) applies to an individual who—
 
 - (a) was, immediately before 1st April 2013, suspended from duty and from the office of constable of a police force under regulation 25 of the 1999 Regulations; and
 - (b) is a transferred senior officer.
 
 (2) An individual to whom this sub-paragraph applies is to continue (subject to the provisions of regulation 25 of the 1999 Regulations), on and after 1st April 2013, to be suspended and may, on and after that date, be dealt with under that regulation as modified by this Schedule.
 
-### 9. Modifications[^key-3d9303ab5efa3eb7291c6f60dea7898a]
+### 9. Modifications[^c-3d9303ab5efa3eb7291c6f60dea7898a]
 
 (1) The 1999 Regulations are modified as follows.
 
@@ -1071,153 +1071,153 @@ Part 6 and Schedule 2 contain a revocation and savings and transitional provisio
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-a807996549be8d6ec6bdd87b37f42cbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-a807996549be8d6ec6bdd87b37f42cbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-2d725d38701e8ff1916d3d81c8d1eff7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-2d725d38701e8ff1916d3d81c8d1eff7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
 [^f00002]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-49b1491d4c7ced60541213b6d15f5959]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) inserted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-49b1491d4c7ced60541213b6d15f5959]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) inserted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-4e93ceee3b32e287ab96f1e7680cff68]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-4e93ceee3b32e287ab96f1e7680cff68]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-95d1d6cec9d88515581afac5b9567263]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) inserted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2020/453/regulation/10/a)
+[^c-95d1d6cec9d88515581afac5b9567263]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) inserted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2020/453/regulation/10/a)
 
-[^key-252d3b8f1915e1a0a1049ba2cd202661]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) inserted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2020/453/regulation/10/b)
+[^c-252d3b8f1915e1a0a1049ba2cd202661]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/62/regulation/2) inserted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2020/453/regulation/10/b)
 
 [^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Paragraph 2 of Schedule 1 has been amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-a74700d763d76adbcb605842dd5299e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/62/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-a74700d763d76adbcb605842dd5299e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/62/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-353f4295d5c29538c7e594bb3537b3cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/62/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-353f4295d5c29538c7e594bb3537b3cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/62/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-c86fe839b0bac5133d02ecf99f51f608]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2013/62/regulation/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-c86fe839b0bac5133d02ecf99f51f608]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2013/62/regulation/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-bf702e96a31f94978a2e86de0b07dce9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/62/regulation/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-bf702e96a31f94978a2e86de0b07dce9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/62/regulation/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-88662a94129a8ef2e76f00e90385d71e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/5/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-88662a94129a8ef2e76f00e90385d71e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/5/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-a01c1c5e4aeee73303012b7ad79caa9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/62/regulation/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-a01c1c5e4aeee73303012b7ad79caa9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/62/regulation/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-d69809673d022bc301095f9a371fc7c3]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2013/62/regulation/6/1/b) inserted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(5)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-d69809673d022bc301095f9a371fc7c3]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2013/62/regulation/6/1/b) inserted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(5)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-3140b7f95719b80dbda085430838d429]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/62/regulation/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-3140b7f95719b80dbda085430838d429]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/62/regulation/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-29e85db96eb6008e722b0bd0f3485623]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/62/regulation/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-29e85db96eb6008e722b0bd0f3485623]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/62/regulation/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-c07fdd415d9ab27e449eebf37ff655ab]: Textual amendment: Words in [reg. 8(3)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/8/3/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/a)
+[^c-c07fdd415d9ab27e449eebf37ff655ab]: Textual amendment: Words in [reg. 8(3)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/8/3/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/a)
 
-[^key-e4ca0df36604fd2beb1a12c5991fe9cb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/62/regulation/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-e4ca0df36604fd2beb1a12c5991fe9cb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/62/regulation/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-a4429a96e249c15960910fd17973dc6d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/62/regulation/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-a4429a96e249c15960910fd17973dc6d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/62/regulation/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-7d2095a865b08025ad9c26aae3024456]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/62/regulation/11) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-7d2095a865b08025ad9c26aae3024456]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/62/regulation/11) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-2e341da087ef3aafa5481aa6b176c1b2]: Textual amendment: Words in [reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/11/1/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/b)
+[^c-2e341da087ef3aafa5481aa6b176c1b2]: Textual amendment: Words in [reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/11/1/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/b)
 
 [^f00004]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Section 2 has been amended by Schedule 16 to the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-dbced2b2b735ed2967fa86dd04d7f256]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/62/regulation/12) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-dbced2b2b735ed2967fa86dd04d7f256]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/62/regulation/12) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-256103020ece18a84ecaf5b4bacac816]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/62/regulation/13) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-256103020ece18a84ecaf5b4bacac816]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/62/regulation/13) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-cd06ecdc88ccc200fb07f59e48439989]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/62/regulation/14) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-cd06ecdc88ccc200fb07f59e48439989]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/62/regulation/14) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-03b1383ca5b9ffa135ea3e66e0c67f26]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/62/regulation/15) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-03b1383ca5b9ffa135ea3e66e0c67f26]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/62/regulation/15) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-aaf9a0f43f53e6c502bec090ff6ca73a]: Textual amendment: Words in [reg. 15(2)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/15/2/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(c)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/c)
+[^c-aaf9a0f43f53e6c502bec090ff6ca73a]: Textual amendment: Words in [reg. 15(2)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/15/2/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(c)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/c)
 
-[^key-bc57b519e2b1a744a0008e9649492e5d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/62/regulation/16) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-bc57b519e2b1a744a0008e9649492e5d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/62/regulation/16) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-8bc8f5554e70b73aa46801741e9b4574]: Textual amendment: [Reg. 16(3)(g)](https://www.legislation.gov.uk/ssi/2013/62/regulation/16/3/g) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-8bc8f5554e70b73aa46801741e9b4574]: Textual amendment: [Reg. 16(3)(g)](https://www.legislation.gov.uk/ssi/2013/62/regulation/16/3/g) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-965e53567158d338811f5e4dc1351ec4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/62/regulation/17) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-965e53567158d338811f5e4dc1351ec4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/62/regulation/17) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-fc5bfb6a89460e64817e2d39e3e92fc5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/62/regulation/18) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-fc5bfb6a89460e64817e2d39e3e92fc5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/62/regulation/18) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-06968990888588927503d36977e33626]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2013/62/regulation/19) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-06968990888588927503d36977e33626]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2013/62/regulation/19) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-1cf89ceb8b20f6686cb144e5bfe49ec7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2013/62/regulation/20) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-1cf89ceb8b20f6686cb144e5bfe49ec7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2013/62/regulation/20) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-13bed0a6253955baec2baf962e510704]: Textual amendment: Words in [reg. 20(3)(a)](https://www.legislation.gov.uk/ssi/2013/62/regulation/20/3/a) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(7)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/7) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-13bed0a6253955baec2baf962e510704]: Textual amendment: Words in [reg. 20(3)(a)](https://www.legislation.gov.uk/ssi/2013/62/regulation/20/3/a) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(7)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/7) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-816c3cdc62e399a75b14b8c5f65c8413]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/62/regulation/21) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-816c3cdc62e399a75b14b8c5f65c8413]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/62/regulation/21) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-524d799237c6bd83ffd1fca79255ded3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2013/62/regulation/22) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-524d799237c6bd83ffd1fca79255ded3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2013/62/regulation/22) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-b671aa3ce8965217da67194da66598be]: Textual amendment: Words in [reg. 22(4)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/22/4/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(d)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/d)
+[^c-b671aa3ce8965217da67194da66598be]: Textual amendment: Words in [reg. 22(4)(c)](https://www.legislation.gov.uk/ssi/2013/62/regulation/22/4/c) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(d)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/d)
 
-[^key-3fe02106ee7ab136bfd3db6dd3e52918]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/62/regulation/23) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-3fe02106ee7ab136bfd3db6dd3e52918]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/62/regulation/23) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-28b93c35ce54b0228407d5d604843403]: Textual amendment: [Reg. 23(2)(a)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/2/a)[(b)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/2/b) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(a)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-28b93c35ce54b0228407d5d604843403]: Textual amendment: [Reg. 23(2)(a)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/2/a)[(b)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/2/b) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(a)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-4285a8cbd1ee195b4b672fa912716a42]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(i)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-4285a8cbd1ee195b4b672fa912716a42]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(i)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-c8535c48147693606bc458a9de42c519]: Textual amendment: Word in [reg. 23(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-c8535c48147693606bc458a9de42c519]: Textual amendment: Word in [reg. 23(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-951ee1ab89c9a5027b966ac9832f11d3]: Textual amendment: Words in [reg. 23(5)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/5) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(i)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-951ee1ab89c9a5027b966ac9832f11d3]: Textual amendment: Words in [reg. 23(5)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/5) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(i)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-7c85567edbe11b19b508e618d5e320fb]: Textual amendment: Word in [reg. 23(5)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/5) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-7c85567edbe11b19b508e618d5e320fb]: Textual amendment: Word in [reg. 23(5)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/5) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/b/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-d39e6ea818ba202abe45c4cc1d2ed130]: Textual amendment: Word in [reg. 23(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(c)(i)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/c/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-d39e6ea818ba202abe45c4cc1d2ed130]: Textual amendment: Word in [reg. 23(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(c)(i)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/c/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-909b5eb951cf1b0baffc3a9b7d599788]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(c)(ii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/c/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-909b5eb951cf1b0baffc3a9b7d599788]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(c)(ii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/c/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-0ba17e0a2adc836887e26b2406030b6e]: Textual amendment: Word in [reg. 23(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(c)(iii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/c/iii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-0ba17e0a2adc836887e26b2406030b6e]: Textual amendment: Word in [reg. 23(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/23/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(8)(c)(iii)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/8/c/iii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-6abb68aa05bcd4034c38620d80860a36]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/62/regulation/24) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-6abb68aa05bcd4034c38620d80860a36]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/62/regulation/24) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-e70ff032ae9581700d39b2ad4e498829]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2013/62/regulation/25) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-e70ff032ae9581700d39b2ad4e498829]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2013/62/regulation/25) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-8bfc5042a057cd2e117176b3a97f0930]: Textual amendment: Word in [reg. 25(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/25/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(9)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/9) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-8bfc5042a057cd2e117176b3a97f0930]: Textual amendment: Word in [reg. 25(4)](https://www.legislation.gov.uk/ssi/2013/62/regulation/25/4) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(9)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/9) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-86f93dcfc993ab942e2806846b89b45c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2013/62/regulation/26) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-86f93dcfc993ab942e2806846b89b45c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2013/62/regulation/26) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-4c925161acc60807743d7e33c44adeb9]: Textual amendment: [Reg. 26(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(a)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-4c925161acc60807743d7e33c44adeb9]: Textual amendment: [Reg. 26(6)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/6) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(a)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-c2cc359af424dc9a093a8d46bc447307]: Textual amendment: Words in [reg. 26(7)(a)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/7/a) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(b)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-c2cc359af424dc9a093a8d46bc447307]: Textual amendment: Words in [reg. 26(7)(a)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/7/a) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(b)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-70dc13a23f0f5b064daae9f043e4842d]: Textual amendment: Words in [reg. 26(8)(e)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/8/e) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(e)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/e)
+[^c-70dc13a23f0f5b064daae9f043e4842d]: Textual amendment: Words in [reg. 26(8)(e)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/8/e) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(e)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/e)
 
-[^key-1d37a9fe31d94be9a83282ce4dee5fbc]: Textual amendment: Words in [reg. 26(9)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/9) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(c)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-1d37a9fe31d94be9a83282ce4dee5fbc]: Textual amendment: Words in [reg. 26(9)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/9) substituted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(c)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-1f3b76d5688a1e40518f11dd6530ace8]: Textual amendment: [Reg. 26(9A)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/9A) inserted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(d)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
+[^c-1f3b76d5688a1e40518f11dd6530ace8]: Textual amendment: [Reg. 26(9A)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/9A) inserted (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [sch. 2 para. 1(10)(d)](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1/10/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3))
 
-[^key-abbd62eb751f3260a4b3986025764ee0]: Textual amendment: Words in [reg. 26(10)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/10) substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-abbd62eb751f3260a4b3986025764ee0]: Textual amendment: Words in [reg. 26(10)](https://www.legislation.gov.uk/ssi/2013/62/regulation/26/10) substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
 
-[^key-fc21c7761e032273c22dd9c461766a63]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/62/regulation/27) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-fc21c7761e032273c22dd9c461766a63]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/62/regulation/27) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-bd7512dcbd1028e2ab25a3e61bcf6ef2]: Textual amendment: Words in [reg. 27(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2013/62/regulation/27/2/b/iv) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(f)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/f)
+[^c-bd7512dcbd1028e2ab25a3e61bcf6ef2]: Textual amendment: Words in [reg. 27(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2013/62/regulation/27/2/b/iv) substituted (1.3.2021) by [The Police Service of Scotland (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/453)](https://www.legislation.gov.uk/ssi/2020/453), [regs. 1](https://www.legislation.gov.uk/ssi/2020/453/regulation/1), [11(2)(f)](https://www.legislation.gov.uk/ssi/2020/453/regulation/11/2/f)
 
-[^key-890abae38792e9605856dd694dfea4bb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2013/62/regulation/28) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-890abae38792e9605856dd694dfea4bb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2013/62/regulation/28) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-01111149ba8670daec3741fbfebac006]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2013/62/regulation/29) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-01111149ba8670daec3741fbfebac006]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2013/62/regulation/29) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-3e70882f5b8f7f59308cfd7b18cb569c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2013/62/schedule/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-3e70882f5b8f7f59308cfd7b18cb569c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2013/62/schedule/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-2938a5ac5a81b1818524f33ef4f6b932]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/62/schedule/1) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 3(4)](https://www.legislation.gov.uk/asp/2025/5/section/3/4), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/c)
+[^c-2938a5ac5a81b1818524f33ef4f6b932]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/62/schedule/1) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 3(4)](https://www.legislation.gov.uk/asp/2025/5/section/3/4), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/c)
 
-[^key-88c49125836effb56d9f98dd576cf74f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-88c49125836effb56d9f98dd576cf74f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1999/1074](https://www.legislation.gov.uk/uksi/1999/1074).
 
 [^f00006]: Footnote: [1967 c.77](https://www.legislation.gov.uk/ukpga/1967/77).
 
-[^key-d0943ba142ec100196cb16c8271bd581]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-d0943ba142ec100196cb16c8271bd581]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-fc2b578c0c2290d6bfc4502575fc8e09]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-fc2b578c0c2290d6bfc4502575fc8e09]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-6b1caa05131d5c0e8a4248757359844d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-6b1caa05131d5c0e8a4248757359844d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-716daff48ee8d0a3ba9ddc5a7d541e0a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-716daff48ee8d0a3ba9ddc5a7d541e0a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-886d6123cd16d9f6fcd38a3336a46c70]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-886d6123cd16d9f6fcd38a3336a46c70]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-439964d0a47beda6b8982647d3326244]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-439964d0a47beda6b8982647d3326244]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-601046af2dd0402f1ed3877b855758be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-601046af2dd0402f1ed3877b855758be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
-[^key-3d9303ab5efa3eb7291c6f60dea7898a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
+[^c-3d9303ab5efa3eb7291c6f60dea7898a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2013/62/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/62/regulation/1)
 
 [^f00007]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 

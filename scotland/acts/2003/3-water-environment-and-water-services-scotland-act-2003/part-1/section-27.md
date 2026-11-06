@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Availability of documents for public inspection[^key-ec60d21f94ab940c88f0057aad695067]
+## 27. Availability of documents for public inspection[^c-ec60d21f94ab940c88f0057aad695067]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where, under this Part, any order, map, plan, register or other document is to b
 
 ## Annotations
 
-[^key-ec60d21f94ab940c88f0057aad695067]: Commencement: S. 27 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/562/article/2/d)
+[^c-ec60d21f94ab940c88f0057aad695067]: Commencement: S. 27 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/562/article/2/d)

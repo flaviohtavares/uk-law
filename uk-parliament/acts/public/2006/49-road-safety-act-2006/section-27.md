@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power of police to stop vehicle[^key-97e6207114e9286bb7938caf60427560]
+## 27. Power of police to stop vehicle[^c-97e6207114e9286bb7938caf60427560]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ and, in column (2) (general nature of offence), for “motor” substitute “ m
 
 ## Annotations
 
-[^key-97e6207114e9286bb7938caf60427560]: Commencement: S. 27 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/e)
+[^c-97e6207114e9286bb7938caf60427560]: Commencement: S. 27 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/e)

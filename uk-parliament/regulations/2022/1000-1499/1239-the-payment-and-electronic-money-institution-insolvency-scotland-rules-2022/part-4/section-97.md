@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Pre-administration costs[^key-6f963889202f6cf39527a7cc31d25b5a]
+## 97. Pre-administration costs[^c-6f963889202f6cf39527a7cc31d25b5a]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f963889202f6cf39527a7cc31d25b5a]: Commencement: Rule 97 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-6f963889202f6cf39527a7cc31d25b5a]: Commencement: Rule 97 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

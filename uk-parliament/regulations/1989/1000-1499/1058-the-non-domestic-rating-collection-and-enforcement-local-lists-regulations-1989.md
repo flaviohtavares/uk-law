@@ -43,23 +43,23 @@ Coming into force
 
 21st July 1989
 
-The Secretary of State for the Environment as respects England, and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 63, 143(1) and (2) and 146(6) of, and paragraphs 1 to 4 of Schedule 9 to, the Local Government Finance Act 1988[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-efabb61cbcb60abfd2b734f94ca14990]
+The Secretary of State for the Environment as respects England, and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 63, 143(1) and (2) and 146(6) of, and paragraphs 1 to 4 of Schedule 9 to, the Local Government Finance Act 1988[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:[^c-efabb61cbcb60abfd2b734f94ca14990]
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^M_E_18bfe97e-2ae9-495a-b708-bddde0b19cde][^key-474cc844c7b101535a03ea59140f7bb0]
+### 1. Citation, commencement and interpretation[^M_E_18bfe97e-2ae9-495a-b708-bddde0b19cde][^c-474cc844c7b101535a03ea59140f7bb0]
 
 *Extent: E*
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 and shall come into force on 21st July 1989.
 
-(2) In these Regulations —[^key-bf058150f7b286d3ea92ce3b724abd3e]
+(2) In these Regulations —[^c-bf058150f7b286d3ea92ce3b724abd3e]
 
 - “the Act” means the Local Government Finance Act 1988.
-- “address” in relation to electronic communications, includes any number or address used for the purposes of such communications;[^key-920b8836ad726e4fac4d5940035868b8]
+- “address” in relation to electronic communications, includes any number or address used for the purposes of such communications;[^c-920b8836ad726e4fac4d5940035868b8]
 - “business day” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales;
-- “demand notice regulations” means the Council Tax and Non-Domestic Rating (Demand Notices)(England) Regulations 1993 or, as the case may be, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^key-fcfee4b5ac86b75ee34e73d8d32473ca];
-- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—[^key-7ae4b1d48d6ab6f408a49bdead7742fa]
+- “demand notice regulations” means the Council Tax and Non-Domestic Rating (Demand Notices)(England) Regulations 1993 or, as the case may be, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^c-fcfee4b5ac86b75ee34e73d8d32473ca];
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—[^c-7ae4b1d48d6ab6f408a49bdead7742fa]
   - (a) by means of an electronic communications network within the meaning of section 32(1) of the Communications Act 2003;
   - (b) by other means but while in an electronic form;
 
@@ -69,17 +69,17 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 and shall come into force on 21st July 1989.
 
-(2) In these Regulations —[^key-e5edfb2ba2b03ec853e89c503df35cbf]
+(2) In these Regulations —[^c-e5edfb2ba2b03ec853e89c503df35cbf]
 
 - “the Act” means the Local Government Finance Act 1988.
-- “address” in relation to electronic communications, includes any number or address used for the purposes of such communications;[^key-bfd2b284e7d4a28d7c8b8f06d16e69ea]
+- “address” in relation to electronic communications, includes any number or address used for the purposes of such communications;[^c-bfd2b284e7d4a28d7c8b8f06d16e69ea]
 - “business day” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales;
 - “demand notice regulations” means the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993;
 - “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
   - (a) by means of an electronic communications network within the meaning of section 32(1) of the Communications Act 2003;
   - (b) by other means but while in an electronic form.
 
-### 2. Service of notices[^M_E_6316508a-ede1-4507-ee0e-2a14297ab8cc][^key-e9f0c7d8dddcd55c10192a86f1eddc3e][^key-46f1b2914defed0510679cd937df5743]
+### 2. Service of notices[^M_E_6316508a-ede1-4507-ee0e-2a14297ab8cc][^c-e9f0c7d8dddcd55c10192a86f1eddc3e][^c-46f1b2914defed0510679cd937df5743]
 
 *Extent: E*
 
@@ -87,7 +87,7 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (2) Without prejudice to section 233 of the Local Government Act 1972 and paragraph (1) above, where any notice which is required or authorised by these Regulations to be given to or served on a person relates to a hereditament which is (or, where such a notice relates to more than one hereditament, one or more of which is) a place of business of that person, it may be given or served by leaving it at, or by sending it by post to him at, the place of business (or, as the case may be, one of those places of business).
 
-(3)[^key-f1341acdd7b23face599830d45ff4094] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1) and (2) above and subject to paragraphs (4) to (7) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II of these Regulations, or any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part II of these Regulations) is served:
+(3)[^c-f1341acdd7b23face599830d45ff4094] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1) and (2) above and subject to paragraphs (4) to (7) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II of these Regulations, or any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part II of these Regulations) is served:
 
 - (a) may be so given, served or supplied by sending the notice or information to that person by electronic communication to such address as may be notified by that person for that purpose; or
 - (b) shall be treated as given, served or supplied to that person where—
@@ -120,7 +120,7 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 *Extent: W.*
 
-(3)[^key-195dc479321edc87feb6125eb58efd9c] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1) and (2) above and subject to paragraphs (4) to (7) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II of these Regulations or by Regulation 11, or any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part II of these Regulations) is served:
+(3)[^c-195dc479321edc87feb6125eb58efd9c] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1) and (2) above and subject to paragraphs (4) to (7) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II of these Regulations or by Regulation 11, or any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part II of these Regulations) is served:
 
 - (a) may be so given, served or supplied by sending the notice or information to that person by electronic communication to such address as may be notified by that person for that purpose; or
 - (b) is treated as given, served or supplied to that person where—
@@ -143,22 +143,22 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (7 (Extent: W.)) A person who has entered into an agreement with the billing authority under paragraph (3)(b)(i) may, by notice in writing to the billing authority, inform the authority that they no longer wish to be a party to the agreement; and where such notice is given, the agreement is treated as revoked on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
 
-## PART II — BILLING[^key-31252dc61e6dc93f76d277ead9fa1c2c]
+## PART II — BILLING[^c-31252dc61e6dc93f76d277ead9fa1c2c]
 
-### 3. Interpretation and application of Part II[^key-89389eac691da30672b5153ad2611334]
+### 3. Interpretation and application of Part II[^c-89389eac691da30672b5153ad2611334]
 
 (1) In this Part–
 
-- “the amount payable” for a chargeable financial year or part of a chargeable financial year in relation to a ratepayer, a[^key-a3ae72d284ed7fc7c771695b0977f8e7] billing authority[^key-b742d55c1acd302312606008cd47e5d6] and a hereditament means—
-  - (a) the amount the ratepayer is liable to pay to the authority as regards the hereditament in respect of the year or part under section 43 or 45 of the Act, whether calculated by reference to section 43(4) to (6) or 45(4) to (6) *(Extent: E.)* *(affected by repeal, see note)*[^key-ef6531b757204abf9a6b1ba4068e4bf7] 45(4) or (4A) *(Extent: E.)* of the Act (as those provisions are amended or substituted in any case by or under Schedule 7A to the Act) or by refernce to an amount or rules determined or prescribed under section 47(1)(a) , 57A(3)(a) *(Extent: E.)*[^key-07a2139d31a598f0b686635de76c2b6b] or 58(3)(a) of the Act; or
+- “the amount payable” for a chargeable financial year or part of a chargeable financial year in relation to a ratepayer, a[^c-a3ae72d284ed7fc7c771695b0977f8e7] billing authority[^c-b742d55c1acd302312606008cd47e5d6] and a hereditament means—
+  - (a) the amount the ratepayer is liable to pay to the authority as regards the hereditament in respect of the year or part under section 43 or 45 of the Act, whether calculated by reference to section 43(4) to (6) or 45(4) to (6) *(Extent: E.)* *(affected by repeal, see note)*[^c-ef6531b757204abf9a6b1ba4068e4bf7] 45(4) or (4A) *(Extent: E.)* of the Act (as those provisions are amended or substituted in any case by or under Schedule 7A to the Act) or by refernce to an amount or rules determined or prescribed under section 47(1)(a) , 57A(3)(a) *(Extent: E.)*[^c-07a2139d31a598f0b686635de76c2b6b] or 58(3)(a) of the Act; or
   - (b) where an amount falls to be credited by the billing authority against the ratepayer’s liability in respect of the year or part, the amount (if any) by which the amount referred to in sub-paragraph (a) above exceeds the amount falling to be credited;
 - “demand notice” means the notice required to be served by regulation 4(1);
 - “ratepayer” in relation to a chargeable financial year and a billing authority means a person liable to pay an amount under section 43 or 45 of the Act to the authority in respect of the year; and
 - “relevant year” in relation to a notice means the chargeable financial year to which the notice relates.
-- “the[^key-015865c4c20a6d9512ce784b19baec2b] 1992 Act” means the Non-Domestic Rating Act 1992;
+- “the[^c-015865c4c20a6d9512ce784b19baec2b] 1992 Act” means the Non-Domestic Rating Act 1992;
 - “transitional adjustment notice” has the meaning given by paragraph 7A(2)(b) of Schedule 1
 
-(2) For the purposes of this Part the conditions mentioned in section 43(1) or 45(1) of the Act are not to be treated as fulfilled as regards a hereditament on any day on which the chargeable amount for the day in respect of it is 0 under section 45A of the Act or *(Extent: E)*[^key-236189873bd3ead7a16a1cefd3bbdb01] by virtue of a determination to that effect under section 47(1)(a) of the Act.
+(2) For the purposes of this Part the conditions mentioned in section 43(1) or 45(1) of the Act are not to be treated as fulfilled as regards a hereditament on any day on which the chargeable amount for the day in respect of it is 0 under section 45A of the Act or *(Extent: E)*[^c-236189873bd3ead7a16a1cefd3bbdb01] by virtue of a determination to that effect under section 47(1)(a) of the Act.
 
 (3) Where references are made in this Part to the day on which a notice is issued, they shall be taken to be references–
 
@@ -167,7 +167,7 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (4) The provisions of this Part which provide for the repayment or crediting of any amount or the adjustment of payments due under a notice (including in particular paragraph 7 of Schedule 1) shall have effect subject to paragraph 10(4) of Schedule 7 to the Act.
 
-### 4. The requirement for demand notices[^key-a296e0f01500db311ff8841d69706682]
+### 4. The requirement for demand notices[^c-a296e0f01500db311ff8841d69706682]
 
 (1) For each chargeable financial year a billing authority shall, in accordance with regulations 5 to 7, serve a notice in writing on every person who is a ratepayer of the authority in relation to the year.
 
@@ -177,20 +177,20 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (4) If a single demand notice relates to the amount payable with respect to more than one hereditament, subject to paragraphs 5 and 8 of Schedule 1 the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued in respect of each hereditament.
 
-### 5. Service of demand notices[^key-d9122aa3e2be247129d35e9d916f866f][^key-f1ca4ae931f70feca000ba7af0c4d124]
+### 5. Service of demand notices[^c-d9122aa3e2be247129d35e9d916f866f][^c-f1ca4ae931f70feca000ba7af0c4d124]
 
 (1) Subject to paragraph (2), a demand notice shall be served on or as soon as practicable after–
 
 - (a) except in a case falling within sub-paragraph (b), 1st April in the relevant year, or
 - (b) if the conditions mentioned in section 43(1) or 45(1) of the Act are not fulfilled in respect of that day as regards the ratepayer and the hereditament concerned, the first day after that day in respect of which such conditions are fulfilled as regards them.
 
-(2)[^key-fa1500a9f088057bc65095292a9a07d8] Subject to paragraph (3), a demand notice[^key-e4f724a1624f79ccfbe170d3c9394a26] may, if the non-domestic multiplier for the relevant year has been determined or set under Schedule 7 to the Act, be served before the beginning of the relevant year on a person with respect to whom on the day it is issued it appears to the billing authority that the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled (or would be fulfilled if a list sent under section 41(5) of the Act were in force) as regards the hereditament to which it relates; and if it is so served, references in this Part to a ratepayer shall, in relation to that notice and so far as the context permits, be construed as references to that person.
+(2)[^c-fa1500a9f088057bc65095292a9a07d8] Subject to paragraph (3), a demand notice[^c-e4f724a1624f79ccfbe170d3c9394a26] may, if the non-domestic multiplier for the relevant year has been determined or set under Schedule 7 to the Act, be served before the beginning of the relevant year on a person with respect to whom on the day it is issued it appears to the billing authority that the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled (or would be fulfilled if a list sent under section 41(5) of the Act were in force) as regards the hereditament to which it relates; and if it is so served, references in this Part to a ratepayer shall, in relation to that notice and so far as the context permits, be construed as references to that person.
 
-(3)[^key-518eb445f0bccb5c47fa14477ee8e295] A demand notice shall not be served before the authority has set amounts for the relevant year under section 30 of the Local Government Finance Act 1992.
+(3)[^c-518eb445f0bccb5c47fa14477ee8e295] A demand notice shall not be served before the authority has set amounts for the relevant year under section 30 of the Local Government Finance Act 1992.
 
-### 6. Payments under demand notices[^key-fca61c89469cb3eb63aa7aaf82554db0][^key-29de0c3b5f2a50fe0cb30fbc6d91c721]
+### 6. Payments under demand notices[^c-fca61c89469cb3eb63aa7aaf82554db0][^c-29de0c3b5f2a50fe0cb30fbc6d91c721]
 
-(1)[^key-40b8a7950bede07e9321184e97cfa676] If a demand notice is issued before or during the relevant year and it appears to the billing authority that the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled (or would be fulfilled if a list sent under section 41(5) of the Act were in force) in respect of the day on which the notice is issued as regards the ratepayer and the hereditament to which it relates, the notice shall require payment of an amount equal to the billing authority’s estimate of the amount payable for the year, made as respects periods after the issue of the notice on the assumption that the conditions concerned will continue to be fulfilled on every day after that day.
+(1)[^c-40b8a7950bede07e9321184e97cfa676] If a demand notice is issued before or during the relevant year and it appears to the billing authority that the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled (or would be fulfilled if a list sent under section 41(5) of the Act were in force) in respect of the day on which the notice is issued as regards the ratepayer and the hereditament to which it relates, the notice shall require payment of an amount equal to the billing authority’s estimate of the amount payable for the year, made as respects periods after the issue of the notice on the assumption that the conditions concerned will continue to be fulfilled on every day after that day.
 
 (2) If a demand notice is issued during the relevant year but paragraph (1) does not apply, the notice shall require payment of an amount equal to the amount payable for the period in the year up to the day on which the conditions mentioned in sections 43(1) and 45(1) were last fulfilled as regards the ratepayer and hereditament concerned.
 
@@ -198,7 +198,7 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (4) If a demand notice is issued after the end of the relevant year, it shall require payment of the amount payable for the year.
 
-### 7. Payments under demand notices: further provision[^key-449dc9b388bff32163127c86a73f596a]
+### 7. Payments under demand notices: further provision[^c-449dc9b388bff32163127c86a73f596a]
 
 (1) Unless an agreement under paragraph (3) in relation to the relevant year has been reached between the ratepayer and the billing authority before the demand notice is issued, a notice to which regulation 6(1) applies shall require the estimate of the amount payable to be paid by instalments in accordance with Part I of Schedule 1; and where such instalments are required Part II of the Schedule applies for their cessation or adjustment in the circumstances described in that Part.
 
@@ -212,25 +212,25 @@ The Secretary of State for the Environment as respects England, and the Secretar
 
 (6) No payment in respect of the amount payable by a ratepayer in relation to a hereditament for any chargeable financial year (whether interim, final or sole) need be made unless a notice served under this Part requires it.
 
-### 7A. Backdated liability: special provision in relation to 2005 rating lists[^key-f6760f0dbb02f95c70e8d6726f4d90d3]
+### 7A. Backdated liability: special provision in relation to 2005 rating lists[^c-f6760f0dbb02f95c70e8d6726f4d90d3]
 
 *Extent: E*
 
 Notwithstanding the requirements of a demand notice issued in accordance with regulation 7, a ratepayer and a billing authority may reach an agreement in accordance with Schedule 1A.
 
-### 7B. Deferred payments: special provision in relation to financial years beginning on 1st April 2009, 2010 and 2011[^key-41763a0c5cf724aa2528b55533fe6e5a]
+### 7B. Deferred payments: special provision in relation to financial years beginning on 1st April 2009, 2010 and 2011[^c-41763a0c5cf724aa2528b55533fe6e5a]
 
 *Extent: E*
 
 Schedules 1B and 1C, which contain special provision in relation to payments under demand notices relating to financial years beginning on 1st April 2009, 1st April 2010 and 1st April 2011, shall have effect.
 
-### 7C. Deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011[^key-337dbbd41e3e1a59b6307cb016e93283]
+### 7C. Deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011[^c-337dbbd41e3e1a59b6307cb016e93283]
 
 *Extent: W.*
 
 Schedule 1D which contains special provision in relation to payments under demand notices relating to financial years beginning on 1 April 2009, 1 April 2010 and 1 April 2011, must have effect.
 
-### 8. Failure to pay instalments[^key-446c8c823ed794e7e46d632b72b373d6]
+### 8. Failure to pay instalments[^c-446c8c823ed794e7e46d632b72b373d6]
 
 (1) Where–
 
@@ -266,9 +266,9 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 (8) In this regulation–
 
 - “the appropriate amount” has the meaning given in paragraph (6); and
-- “the estimated amount” means the amount last estimated under regulation 6(1) for the purposes of the demand notice mentioned in paragraph (1)(a) or any subsequent notice given under paragraph 7(2) or, as the case may be, paragraph 7A or paragraph 7B[^key-63fd85e423e1821b8f55c2480884bd84] of Schedule 1 prior to the failure mentioned in paragraph (2) above, save that if in any case an interim adjustment has been required or made under paragraph (5) in relation to a hereditament, it means as regards the next payment, repayment or interim adjustment in relation to the hereditament under this regulation (if any), the appropriate amount by reference to which the previous interim adjustment was so made.
+- “the estimated amount” means the amount last estimated under regulation 6(1) for the purposes of the demand notice mentioned in paragraph (1)(a) or any subsequent notice given under paragraph 7(2) or, as the case may be, paragraph 7A or paragraph 7B[^c-63fd85e423e1821b8f55c2480884bd84] of Schedule 1 prior to the failure mentioned in paragraph (2) above, save that if in any case an interim adjustment has been required or made under paragraph (5) in relation to a hereditament, it means as regards the next payment, repayment or interim adjustment in relation to the hereditament under this regulation (if any), the appropriate amount by reference to which the previous interim adjustment was so made.
 
-### 9. Demand notices: final adjustment[^key-edcda1d4e16173f62c4edd917c547c5e]
+### 9. Demand notices: final adjustment[^c-edcda1d4e16173f62c4edd917c547c5e]
 
 (1) This regulation applies where–
 
@@ -285,9 +285,9 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 - (a) shall be repaid if the ratepayer so requires, or
 - (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the ratepayer to pay anything to it by way of non-domestic rate.
 
-## PART III — ENFORCEMENT[^key-13f92656f25e551e587b295cfe01dfec][^key-1812ed696582204cd2a29d26544fe5c9][^key-70527d4c2714b19cddedf34b60370434][^key-b53892364ef2707e54a45ccfbd2a083c][^key-97c3e6ed73e6d80dee9252ac405ade07]
+## PART III — ENFORCEMENT[^c-13f92656f25e551e587b295cfe01dfec][^c-1812ed696582204cd2a29d26544fe5c9][^c-70527d4c2714b19cddedf34b60370434][^c-b53892364ef2707e54a45ccfbd2a083c][^c-97c3e6ed73e6d80dee9252ac405ade07]
 
-### 10. Interpretation and application of Part III[^key-3da0e21610b1735c08c962e113e1f882]
+### 10. Interpretation and application of Part III[^c-3da0e21610b1735c08c962e113e1f882]
 
 (1) In this Part–
 
@@ -298,7 +298,7 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 
 (3) References in this Part to a sum which has become payable and which has not been paid include references to a sum forming part of a larger sum which has become payable and the other part of which has been paid.
 
-### 11. Liability orders: preliminary steps[^key-62c3b7d5488f3a9b6ed4c595abee8f7f]
+### 11. Liability orders: preliminary steps[^c-62c3b7d5488f3a9b6ed4c595abee8f7f]
 
 (1) Subject to paragraph (3), before a billing authority applies for a liability order it shall serve on the person against whom the application is to be made a notice (“reminder notice”), which is to be in addition to any notice required to be served under Part II and which is to state every amount in respect of which the authority is to make the application.
 
@@ -306,7 +306,7 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 
 (3) A reminder notice need not be served on a person who has been served under regulation 8(1) with a notice in respect of the amount concerned where there has been such a failure as is mentioned in regulation 8(2)(a) in relation to the notice.
 
-### 12. Application for liability order[^key-9f53f68af41c9618b16ee2715911526a]
+### 12. Application for liability order[^c-9f53f68af41c9618b16ee2715911526a]
 
 (1) Subject to paragraph (3), if an amount which has fallen due under regulation 8(2) in consequence of such a failure as is mentioned in sub-paragraph (a) of that provision is wholly or partly unpaid, or (in a case where a reminder notice is required under regulation 11) the amount stated in the reminder notice is wholly or partly unpaid at the expiry of the period of 7 days beginning with the day on which the notice was served, the billing authority may, in accordance with paragraph (2), apply to a magistrates' court for an order against the person by whom it is payable.
 
@@ -318,16 +318,16 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 
 (5) The court shall make the order if it is satisfied that the sum has become payable by the defendant and has not been paid.
 
-(6) An order made pursuant to paragraph (5) shall[^key-2f3f786bf5f51a82a792b81a0fde7887] be made in respect of an amount equal to the aggregate of–
+(6) An order made pursuant to paragraph (5) shall[^c-2f3f786bf5f51a82a792b81a0fde7887] be made in respect of an amount equal to the aggregate of–
 
 - (a) the sum payable, and
-- (b)[^key-250ca3f08f6fcb7d1d686c4639c14ac0] a sum of an amount equal to the costs reasonably incurred by the applicant in obtaining the order.
+- (b)[^c-250ca3f08f6fcb7d1d686c4639c14ac0] a sum of an amount equal to the costs reasonably incurred by the applicant in obtaining the order.
 
-(7)[^key-4fa6d023959d61c4bbc88f5b67917b9b][^key-5d72fec041dd25af5a76aa5915219e17] Where the sum payable is paid after a liability order has been applied for under paragraph (2) but before it is made, the court shall nonetheless (if so requested by the billing authority ) make the order in respect of a sum of an amount equal to the costs reasonably incurred by the authorty in making the application.
+(7)[^c-4fa6d023959d61c4bbc88f5b67917b9b][^c-5d72fec041dd25af5a76aa5915219e17] Where the sum payable is paid after a liability order has been applied for under paragraph (2) but before it is made, the court shall nonetheless (if so requested by the billing authority ) make the order in respect of a sum of an amount equal to the costs reasonably incurred by the authorty in making the application.
 
-### 13. Liability orders: further provision[^key-97a70f9b622b12d68246e3845c394dec]
+### 13. Liability orders: further provision[^c-97a70f9b622b12d68246e3845c394dec]
 
-(1) A single liability order may deal with one person and one such amount (or aggregate amount)[^key-dba755ccea24985e2e40b3329a236409] as is mentioned in regulation 12(6) and (7) [^key-2342ad034c649b33eff8430a27cd1b87]..., or, if the court thinks fit, may deal with more than one person and more than one such amount (or aggregate amount) [^key-4d869b99ca26c5ca1a909990a7edb6a7]....
+(1) A single liability order may deal with one person and one such amount (or aggregate amount)[^c-dba755ccea24985e2e40b3329a236409] as is mentioned in regulation 12(6) and (7) [^c-2342ad034c649b33eff8430a27cd1b87]..., or, if the court thinks fit, may deal with more than one person and more than one such amount (or aggregate amount) [^c-4d869b99ca26c5ca1a909990a7edb6a7]....
 
 (2) A summons issued under regulation 12(2) may be served on a person–
 
@@ -337,15 +337,15 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 - (d) where all or part of the sum to which it relates is payable with respect to a hereditament which is a place of business of the person, by leaving it at, or by sending it by post to him at, the place of business, or
 - (e) by leaving it at, or by sending it by post to him at, an address given by the person as an address at which service of the summons will be accepted.
 
-(2A)[^key-154550e8072498b15ce8ab4baf410ab7] No liability order shall be made in pursuance of a summons issued under regulation 12(2) unless fourteen days have elapsed since the day on which the summons was served.
+(2A)[^c-154550e8072498b15ce8ab4baf410ab7] No liability order shall be made in pursuance of a summons issued under regulation 12(2) unless fourteen days have elapsed since the day on which the summons was served.
 
 (3) The amount in respect of which a liability order is made is enforceable in accordance with this Part; and accordingly for the purposes of any of the provisions of Part III of the Magistrates' Courts Act 1980 (satisfaction and enforcement) it is not to be treated as a sum adjudged to be paid by order of the court.
 
-### 14. Distress[^key-5e384fbe7d7dbb4def62df77b7951e2a][^key-dae25de7fa1798da904de0a62c00db4c]
+### 14. Distress[^c-5e384fbe7d7dbb4def62df77b7951e2a][^c-dae25de7fa1798da904de0a62c00db4c]
 
 (1) Where a liability order has been made, the authority which applied for the order may levy the appropriate amount by distress and sale of the goods of the debtor against whom the order was made.
 
-(1A)[^key-a7a223045c79520d019d14491853d8ad] Without prejudice to paragraph (8) below, no person making a distress shall seize any goods of the debtor of the following description—
+(1A)[^c-a7a223045c79520d019d14491853d8ad] Without prejudice to paragraph (8) below, no person making a distress shall seize any goods of the debtor of the following description—
 
 - such clothing, bedding, furniture, household equipment and provisions as are necessary for satisfying the basic domestic needs of the debtor and his family.
 
@@ -362,27 +362,27 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 
 (6) A distress may be made anywhere in England and Wales.
 
-(6A)[^key-cb8c615f97b4c21b33b8c03b3cbaecc5] No distress under this regulation may be made other than by a person who is authorised to act as a bailiff by a general certificate granted under section 7 of the Law of Distress Amendment Act 1888.
+(6A)[^c-cb8c615f97b4c21b33b8c03b3cbaecc5] No distress under this regulation may be made other than by a person who is authorised to act as a bailiff by a general certificate granted under section 7 of the Law of Distress Amendment Act 1888.
 
 (7) A distress shall not be deemed unlawful on account of any defect or want of form in the liability order, and no person making a distress shall be deemed a trespasser on that account; and no person making a distress shall be deemed a trespasser from the beginning on account of any subsequent irregularity in making the distress, but a person sustaining special damage by reason of the subsequent irregularity may recover full satisfaction for the special damage (and no more) by proceedings in trespass or otherwise.
 
 (8) The provisions of this regulation shall not affect the operation of any enactment which protects goods of any class from distress.
 
-(9)[^key-bee9542d7f055b993f2961f3353ce5e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-bee9542d7f055b993f2961f3353ce5e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Appeals in connection with distress[^key-1932db1c97dbb58d29e8214f63748f8a]
+### 15. Appeals in connection with distress[^c-1932db1c97dbb58d29e8214f63748f8a]
 
 (1) A person aggrieved by the levy of, or an attempt to levy, a distress may appeal to a magistrates' court.
 
-(2)[^key-28aff3b0f5eab03db48ad90c8115b993] The appeal shall be instituted by making complaint to a justice of the peace, and requesting the issue of a summons directed to the authority which levied or attempted to levy the distress to appear before the court to answer to the matter by which he is aggrieved.
+(2)[^c-28aff3b0f5eab03db48ad90c8115b993] The appeal shall be instituted by making complaint to a justice of the peace, and requesting the issue of a summons directed to the authority which levied or attempted to levy the distress to appear before the court to answer to the matter by which he is aggrieved.
 
 (3) If the court is satisfied that a levy was irregular, it may order the goods distrained to be discharged if they are in the possession of the authority; and it may by order award compensation in respect of any goods distrained and sold of an amount equal to the amount which, in the opinion of the court, would be awarded by way of special damages in respect of the goods if proceedings were brought in trespass or otherwise in connection with the irregularity under regulation 14(7).
 
-(4)[^key-c03be7d1333972812ff41cc24b77252e] If the court is satisfied that an attempted levy was irregular, it may by order require the authority to desist from levying in the manner giving rise to the irregularity.
+(4)[^c-c03be7d1333972812ff41cc24b77252e] If the court is satisfied that an attempted levy was irregular, it may by order require the authority to desist from levying in the manner giving rise to the irregularity.
 
-### 16. Commitment to prison[^key-bc7e07e68ca5bc28f5d929343d9cce0e][^key-48cff1d3d4ae0203dbd333f8ce2415b5]
+### 16. Commitment to prison[^c-bc7e07e68ca5bc28f5d929343d9cce0e][^c-48cff1d3d4ae0203dbd333f8ce2415b5]
 
-(1) Where a billing authority has sought to levy an amount by distress under regulation 14, the debtor is an individual, and the person making the distress reports to the authority that he was unable (for whatever reason) to find any or sufficient goods of the debtor[^key-5645ef66bbd80aeca2d3462eff00ed1a] on which to levy the amount, the authority may apply to a magistrates' court for the issue of a warrant committing the debtor to prison.
+(1) Where a billing authority has sought to levy an amount by distress under regulation 14, the debtor is an individual, and the person making the distress reports to the authority that he was unable (for whatever reason) to find any or sufficient goods of the debtor[^c-5645ef66bbd80aeca2d3462eff00ed1a] on which to levy the amount, the authority may apply to a magistrates' court for the issue of a warrant committing the debtor to prison.
 
 (2) On such application being made the court shall (in the debtor’s presence) inquire as to his means and inquire whether the failure to pay which led to the liability order concerned being made against him was due to his wilful refusal or culpable neglect.
 
@@ -402,7 +402,7 @@ the unpaid balance of the estimated amount shall become payable by him at the ex
 - (b) may be directed to the authority making the application and to such other persons (if any) as the court issuing it thinks fit, and
 - (c) may be executed anywhere in England and Wales by any person to whom it is directed.
 
-(6)[^key-102095fa1bf8726c138c76980be44158] If–
+(6)[^c-102095fa1bf8726c138c76980be44158] If–
 
 - (a) before a warrant has been issued, or a term of imprisonment fixed and the issue of a warrant postponed, an amount determined in accordance with paragraph (6A) is paid or tendered to the authority, or
 - (b) after a term of imprisonment has been fixed and the issue of a warrant postponed, any amount the court has ordered the debtor to pay is paid or tendered to the authority, or
@@ -424,9 +424,9 @@ the authority shall accept the amount concerned, no further steps shall be taken
 
 (8) In calculating a reduction required under paragraph (7) any fraction of a day shall be left out of account; and rule 55(1), (2) and (3) of the Magistrates' Courts Rules 1981[^f00006] applies (so far as is relevant) to a part payment as if the imprisonment concerned were imposed for want of sufficient distress to satisfy a sum adjudged to be paid by a magistrates' court.
 
-### 17. Commitment to prison: further provision[^key-fd718fa7f1af282b3db974e59478a13f]
+### 17. Commitment to prison: further provision[^c-fd718fa7f1af282b3db974e59478a13f]
 
-(1) A single warrant may not be issued under regulation 16 against more than one person[^key-998082d7d1b199b67de9c2ed88d84aee]....
+(1) A single warrant may not be issued under regulation 16 against more than one person[^c-998082d7d1b199b67de9c2ed88d84aee]....
 
 (2) Where an application under regulation 16 has been made, and after the making of the inquiries mentioned in paragraph (2) of that regulation no warrant is issued or term of imprisonment fixed, the court may remit all or part of the appropriate amount mentioned in regulation 14(2) to which the application relates.
 
@@ -443,15 +443,15 @@ the authority shall accept the amount concerned, no further steps shall be taken
 
 (7) Regulation 16 and this regulation have effect subject to Part I of the Criminal Justice Act 1982[^f00007] (treatment of young offenders).
 
-### 18. Insolvency[^key-7007ae0dc40f68b66409dbd5e4725392]
+### 18. Insolvency[^c-7007ae0dc40f68b66409dbd5e4725392]
 
 (1) Where a liability order has been made and the debtor against whom it was made is an individual, the amount due shall be deemed to be a debt for the purposes of section 267 of the Insolvency Act 1986[^f00008] (grounds of creditor’s petition).
 
-(2)[^key-65402d1f971f15571516cfe1a3d181e9][^key-21f2aae7daeb6d1b166cd5dba96373b5][^key-f1c17c63206cc3b5baee11ebe4c0328c] Where a liability order has been made and the debtor against whom it was made is a company, the amount due shall be deemed to be a debt for the purposes of section 122(1)(f) [^key-43a205a05440406e0fcf54a6d4aefa3d]... (winding up of companies by the court) or, as the case may be, 221(5)(b) (winding up of unregistered companies) of that Act[^key-2b9879d6403ca2530fbfc866b1609ef7].
+(2)[^c-65402d1f971f15571516cfe1a3d181e9][^c-21f2aae7daeb6d1b166cd5dba96373b5][^c-f1c17c63206cc3b5baee11ebe4c0328c] Where a liability order has been made and the debtor against whom it was made is a company, the amount due shall be deemed to be a debt for the purposes of section 122(1)(f) [^c-43a205a05440406e0fcf54a6d4aefa3d]... (winding up of companies by the court) or, as the case may be, 221(5)(b) (winding up of unregistered companies) of that Act[^c-2b9879d6403ca2530fbfc866b1609ef7].
 
 (3) The amount due for the purposes of this regulation is an amount equal to any outstanding sum which is or forms part of the amount in respect of which the liability order was made.
 
-### 19. Relationship between remedies under a liability order[^key-0f7580b877f911a09158de39b6323372]
+### 19. Relationship between remedies under a liability order[^c-0f7580b877f911a09158de39b6323372]
 
 (1) Where a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) a person under regulation 16(3), no steps, or no further steps, may be taken under this Part by way of distress or bankruptcy in relation to the relevant amount mentioned in regulation 16(4).
 
@@ -461,25 +461,25 @@ the authority shall accept the amount concerned, no further steps shall be taken
 
 (4) Where a step is taken by way of distress for the recovery of an outstanding sum which is or forms part of an amount in respect of which a liability order has been made, any sum recovered thereby which is less than the aggregate of the amount outstanding and any charges arising under Schedule 3 shall be treated as discharging first the charges, the balance (if any) being applied towards the discharge of the outstanding sum.
 
-### 20. Recovery in court of competent jurisdiction[^key-e28ebd1aadbd108296044c9866790f13]
+### 20. Recovery in court of competent jurisdiction[^c-e28ebd1aadbd108296044c9866790f13]
 
 (1) A sum which has become payable to a billing authority under Part II, which has not been paid, and in respect of which a liability order has not been made may (as an alternative to recovery under a liability order) be recovered in a court of competent jurisdiction.
 
 (2) A liability order may not be made in respect of any amount in relation to which proceedings have been instituted under paragraph (1) above.
 
-### 21. Magistrates' courts[^key-3bc5d06683b6b1fbb85423af238633f2]
+### 21. Magistrates' courts[^c-3bc5d06683b6b1fbb85423af238633f2]
 
-(1)[^key-f80276039e40702266a55a68c400468e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f80276039e40702266a55a68c400468e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-f80276039e40702266a55a68c400468e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-f80276039e40702266a55a68c400468e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Subject to any other enactment authorising a District Judge (Magistrates' Courts)[^key-d0e3d085ddcbce95cccc5a9d0bbdb7cf] or other person to act by himself, a magistrates' court shall not under this Part hear a summons, entertain an application for a warrant or hold an inquiry as to means on such an application except when composed of at least two justices.
+(2) Subject to any other enactment authorising a District Judge (Magistrates' Courts)[^c-d0e3d085ddcbce95cccc5a9d0bbdb7cf] or other person to act by himself, a magistrates' court shall not under this Part hear a summons, entertain an application for a warrant or hold an inquiry as to means on such an application except when composed of at least two justices.
 
 (3) References to a justice of the peace in regulations 12(2) and 15(2) shall be construed subject to rule 3 of the Justices' Clerks Rules 1970[^f00009] (which authorises certain matters authorised to be done by a justice of the peace to be done by a justices' clerk).
 
-(4)[^key-06c8663664dd064a271da641f76b9824][^key-bb60ee46dae66ef119da9cc44fbc3625] In any proceedings under regulation 12 (application for liability order), regulation 15 (appeals in connection with distress) or regulation 16 (commitment to prison), a statement contained in a document constituting or forming part of a record compiled by the applicant authority or an authorised person[^key-58a0a811789e3b9a26bd1b013fda3f63] shall be admissible as evidence of any fact stated in it of which direct oral evidence would be admissible.
+(4)[^c-06c8663664dd064a271da641f76b9824][^c-bb60ee46dae66ef119da9cc44fbc3625] In any proceedings under regulation 12 (application for liability order), regulation 15 (appeals in connection with distress) or regulation 16 (commitment to prison), a statement contained in a document constituting or forming part of a record compiled by the applicant authority or an authorised person[^c-58a0a811789e3b9a26bd1b013fda3f63] shall be admissible as evidence of any fact stated in it of which direct oral evidence would be admissible.
 
-(5)[^key-06c8663664dd064a271da641f76b9824] In proceedings where the applicant authority or an authorised person[^key-fde7afe48a7416564cc3cb4813a2be2b] desires to give a statement in evidence in accordance with paragraph (4), and the document containing that statement is produced by a computer, a certificate–
+(5)[^c-06c8663664dd064a271da641f76b9824] In proceedings where the applicant authority or an authorised person[^c-fde7afe48a7416564cc3cb4813a2be2b] desires to give a statement in evidence in accordance with paragraph (4), and the document containing that statement is produced by a computer, a certificate–
 
 - (a) identifying the document containing the statement and the computer by which it was produced;
 - (b) containing a statement that at all material times the computer was operating properly, or if not, that any respect in which it was not operating properly or was out of operation was not such as to affect the production of the document or the accuracy of its contents;
@@ -490,36 +490,36 @@ shall be admissible as evidence of anything which is stated in it to the best of
 
 (6) In paragraph (4) above, “statement” includes any representation of fact, whether made in words or otherwise; and the reference to an application under regulation 16 includes a reference to an application made in the circumstances mentioned in regulation 17(3).
 
-(7)[^key-2fd11d0458e66a1b5a57df5dc9ac13cd] In this regulation and in regulation 23(3), “authorised person” means any person authorised by a billing authority to exercise any functions relating to the collection and enforcement of non-domestic rates.
+(7)[^c-2fd11d0458e66a1b5a57df5dc9ac13cd] In this regulation and in regulation 23(3), “authorised person” means any person authorised by a billing authority to exercise any functions relating to the collection and enforcement of non-domestic rates.
 
-### 22. Repayments[^key-00b13d5f9982c16035e231163a35cbe5]
+### 22. Repayments[^c-00b13d5f9982c16035e231163a35cbe5]
 
 A sum which has become payable (by way of repayment) under Part II to a person other than a billing authority but which has not been paid shall be recoverable in a court of competent jurisdiction.
 
-### 23. Miscellaneous provisions[^key-c137f8febbb0346c315611f7c21b8b36]
+### 23. Miscellaneous provisions[^c-c137f8febbb0346c315611f7c21b8b36]
 
-(1)[^key-3cbce09cf0f37dc2df3f266372049509] Any matter which could be the subject of an appeal under regulations under section 55 of the Act may not be raised in proceedings under this Part.
+(1)[^c-3cbce09cf0f37dc2df3f266372049509] Any matter which could be the subject of an appeal under regulations under section 55 of the Act may not be raised in proceedings under this Part.
 
-(2)[^key-3cbce09cf0f37dc2df3f266372049509] The contents of a local non-domestic rating list or an extract from such a list may be proved in proceedings under this Part by production of a copy of the list or relevant part of the list purporting to be certified by the proper officer of the billing authority to which the list or extract relates to be a true copy.
+(2)[^c-3cbce09cf0f37dc2df3f266372049509] The contents of a local non-domestic rating list or an extract from such a list may be proved in proceedings under this Part by production of a copy of the list or relevant part of the list purporting to be certified by the proper officer of the billing authority to which the list or extract relates to be a true copy.
 
 (3) If a liability order has been made and by virtue of–
 
-- (a) a notification which is given by the billing authority or an authorised person[^key-5619203d4c67c61809ab5d0de449d793] under regulation 8(4) or (7) or 9(2) or paragraph 6(3) or 7(2)(a) of Schedule 1 or sub-paragraph (2) of paragraph 7A of that Schedule (including a notification given under that sub-paragraph pursuant to paragraph 7B(2) of that Schedule)[^key-d386c75adccd912378253cea26ae0cd6], or
+- (a) a notification which is given by the billing authority or an authorised person[^c-5619203d4c67c61809ab5d0de449d793] under regulation 8(4) or (7) or 9(2) or paragraph 6(3) or 7(2)(a) of Schedule 1 or sub-paragraph (2) of paragraph 7A of that Schedule (including a notification given under that sub-paragraph pursuant to paragraph 7B(2) of that Schedule)[^c-d386c75adccd912378253cea26ae0cd6], or
 - (b) paragraph 10(4) of Schedule 7 to the Act applying in any case,
 
 any part of the amount mentioned in regulation 12(6)(a) in respect of which the order was made would (if paid) fall to be repaid or credited against any subsequent liability, that part shall be treated for the purposes of this Part as paid on the day the notification is given or the multiplier in substitution is set under paragraph 10 of Schedule 7 to the Act (as the case may be) and accordingly as no longer outstanding.
 
-(4) If, after a warrant is issued or term of imprisonment is fixed under regulation 16(3), and before the term of imprisonment has begun or been fully served, a billing authority gives such a notification as is mentioned in paragraph (3)(a) in the case in question, or sets a multiplier in substitution so that paragraph 10(4) of Schedule 7 to the Act applies in the case in question, it shall forthwith notify accordingly the designated officer[^key-2012b4f78eb1ac4b117faaf8d55c4794][^key-94dd801c6075b94abd004f19f77de855] for the court which issued the warrant and (if the debtor is detained) the governor or keeper of the prison or place where he is detained or such other person as has lawful custody of him.
+(4) If, after a warrant is issued or term of imprisonment is fixed under regulation 16(3), and before the term of imprisonment has begun or been fully served, a billing authority gives such a notification as is mentioned in paragraph (3)(a) in the case in question, or sets a multiplier in substitution so that paragraph 10(4) of Schedule 7 to the Act applies in the case in question, it shall forthwith notify accordingly the designated officer[^c-2012b4f78eb1ac4b117faaf8d55c4794][^c-94dd801c6075b94abd004f19f77de855] for the court which issued the warrant and (if the debtor is detained) the governor or keeper of the prison or place where he is detained or such other person as has lawful custody of him.
 
 ## PART IV — MISCELLANEOUS
 
-### 24. Outstanding liabilities on death[^key-aaca4af765ce0ef6430efd9cf5e7be06][^key-8a686ce8b012eb4c504ee9415c07e162]
+### 24. Outstanding liabilities on death[^c-aaca4af765ce0ef6430efd9cf5e7be06][^c-8a686ce8b012eb4c504ee9415c07e162]
 
 (1) This regulation applies where a person dies and at any time before his death he was (or is alleged to have been) subject to a non-domestic rate.
 
 (2) Where–
 
-- (a) before the deceased’s death a sum has become payable by him under Part II or by way of relevant costs[^key-8ec5e72c1dcf39cdadf3c4232bc7c2c9] in respect of a non-domestic rate but has not been paid, or
+- (a) before the deceased’s death a sum has become payable by him under Part II or by way of relevant costs[^c-8ec5e72c1dcf39cdadf3c4232bc7c2c9] in respect of a non-domestic rate but has not been paid, or
 - (b) after the deceased’s death a sum would, but for his death (and whether or not on the service of a notice) become payable by him under Part II in respect of a non-domestic rate,
 
 his executor or administrator shall, subject to paragraph (3) and to the extent that it is not in excess of the deceased’s liability under the Act (including relevant costs payable by him) in respect of the rate, be liable to pay the sum and may deduct out of the assets and effects of the deceased any payments made (or to be made).
@@ -530,7 +530,7 @@ his executor or administrator shall, subject to paragraph (3) and to the extent 
 
 (5) Costs are relevant costs for the purposes of paragraphs (2) and (4) if–
 
-- (a) an order or warrant (as the case may be) was made by the court in respect of them under regulation 12(6)(b) or (7)[^key-1979397cf3d8e326c9fe5b61b4768659] or 16(4)(b), or in proceedings under regulation 20, or
+- (a) an order or warrant (as the case may be) was made by the court in respect of them under regulation 12(6)(b) or (7)[^c-1979397cf3d8e326c9fe5b61b4768659] or 16(4)(b), or in proceedings under regulation 20, or
 - (b) they are charges connected with distress which may be recovered pursuant to regulation 14(2)(b).
 
 (6) A sum payable under paragraph (2) shall be enforceable in the administration of the deceased’s estate as a debt of the deceased and accordingly–
@@ -560,7 +560,7 @@ Regulation 7(1)
 
 ### PART I — payment of the aggregate amount
 
-**1.**[^key-3d97a484a1daf7ba24b725d2d8f091b7] (1) This paragraph applies where the demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 3.
+**1.**[^c-3d97a484a1daf7ba24b725d2d8f091b7] (1) This paragraph applies where the demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 3.
 
 (2) The aggregate amount is to be payable in monthly instalments, the number of such instalments being 10 or, if less, the number of whole months remaining in the relevant year after the issue of the notice less one.
 
@@ -580,9 +580,9 @@ Regulation 7(1)
 
 - C is equal to the aggregate amount, andD is equal to the number of instalments to be paid.
 
-**2.**[^key-31d1cba2467bf603abb2833e913b8e98] Where the demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
+**2.**[^c-31d1cba2467bf603abb2833e913b8e98] Where the demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
 
-**3.**[^key-977115bb507ac51dbb48911a5be1e607] (1) If amounts calculated in accordance with paragraph 1 would produce an amount for an instalment of less than £50, the demand notice may require the aggregate amount to be paid–
+**3.**[^c-977115bb507ac51dbb48911a5be1e607] (1) If amounts calculated in accordance with paragraph 1 would produce an amount for an instalment of less than £50, the demand notice may require the aggregate amount to be paid–
 
 - (a) where the aggregate amount is less than £100, in a single instalment payable on such day as is specified in the notice, or
 - (b) where the aggregate amount is equal to or greater than £100, by a number of monthly instalments equal to the greatest whole number by which £50 can be multiplied to give a product which is less than or equal to the aggregate amount.
@@ -591,13 +591,13 @@ Regulation 7(1)
 
 (3) Paragraph 1(4) and (5) applies to instalments under sub-paragraph (1)(b) as it applies to instalments under paragraph 1(2).
 
-**4.**[^key-1aecabeb222c766a747058787dbb894d] The demand notice shall be issued at least 14 days before the day on which the first instalment is due under it.
+**4.**[^c-1aecabeb222c766a747058787dbb894d] The demand notice shall be issued at least 14 days before the day on which the first instalment is due under it.
 
-**5.**[^key-98c8304bf7a325cfab2edbdbb1379194] In this Part “the aggregate amount” means the amount of the estimate referred to in regulation 6(1), or if pursuant to regulation 4(3) the demand notice relates to more than one hereditament for which such an estimate is made, the aggregate of the amount of those estimates.
+**5.**[^c-98c8304bf7a325cfab2edbdbb1379194] In this Part “the aggregate amount” means the amount of the estimate referred to in regulation 6(1), or if pursuant to regulation 4(3) the demand notice relates to more than one hereditament for which such an estimate is made, the aggregate of the amount of those estimates.
 
 ### PART II — cessation and adjustment of instalments
 
-**6.**[^key-21f1f25a181f7d140c8150e65b242728] (1)[^key-9f8d8767fff6a10c395a36b362407114] This paragraph applies where the demand notice has been served on a ratepayer by a billing authority, and in respect of a day (“the relevant day”) in the relevant year[^key-dac5fd5127c88089702ef36c94b1b32c] after its issue neither the conditions mentioned in section 43(1) nor those mentioned in section 45(1) of the Act are fulfilled (or, as the case may be, would be fulfilled if a list sent under section 41(5) of the Act were in force) as regards the ratepayer and the hereditament to which the notice relates.
+**6.**[^c-21f1f25a181f7d140c8150e65b242728] (1)[^c-9f8d8767fff6a10c395a36b362407114] This paragraph applies where the demand notice has been served on a ratepayer by a billing authority, and in respect of a day (“the relevant day”) in the relevant year[^c-dac5fd5127c88089702ef36c94b1b32c] after its issue neither the conditions mentioned in section 43(1) nor those mentioned in section 45(1) of the Act are fulfilled (or, as the case may be, would be fulfilled if a list sent under section 41(5) of the Act were in force) as regards the ratepayer and the hereditament to which the notice relates.
 
 (2) Subject to sub-paragraphs (5) and (6), no payments of instalments falling due after the relevant day are payable under the notice in relation to the hereditament.
 
@@ -612,11 +612,11 @@ Regulation 7(1)
 
 (6) If this paragraph applies in relation to a demand notice, and after the relevant day the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled again in the relevant year as regards the ratepayer and the hereditament concerned, a further notice shall be served on him requiring payments with respect to the amount payable in relation to the hereditament for the period in the relevant year beginning with the day in respect of which the conditions are so fulfilled again; and regulations 5 to 8 (and, so far as applicable, this Schedule) shall apply to the further notice with respect to that period as if it were a demand notice and the conditions had not previously been fulfilled.
 
-**7.**[^key-d4cee57567ebd70ddaeeefbbdcf14e55] (1) Subject to sub-paragraph (1A), this paragraph[^key-1d24d31e3ddc9eb31a04ba920d9e0775] applies where the demand notice has been served on a ratepayer by a billing authority, any factor or assumption by reference to which the estimate made under regulation 6(1) for the purpose of the notice was calculated is shown to be false in respect of a day (“the relevant day”), and the event mentioned in paragraph 6(1) above has not occurred as regards the hereditament to which the notice relates.
+**7.**[^c-d4cee57567ebd70ddaeeefbbdcf14e55] (1) Subject to sub-paragraph (1A), this paragraph[^c-1d24d31e3ddc9eb31a04ba920d9e0775] applies where the demand notice has been served on a ratepayer by a billing authority, any factor or assumption by reference to which the estimate made under regulation 6(1) for the purpose of the notice was calculated is shown to be false in respect of a day (“the relevant day”), and the event mentioned in paragraph 6(1) above has not occurred as regards the hereditament to which the notice relates.
 
-(1A)[^key-b20d6601af8820e7bce245d5b9c503e3] Except as provided in paragraph 9(2), this paragraph does not apply in a case to which paragraph 7A or 7B applies.
+(1A)[^c-b20d6601af8820e7bce245d5b9c503e3] Except as provided in paragraph 9(2), this paragraph does not apply in a case to which paragraph 7A or 7B applies.
 
-(2)[^key-e1d42b6c2436f2beaee0607a33e01c89] The billing authority shall on or as soon as practicable after the relevant day—
+(2)[^c-e1d42b6c2436f2beaee0607a33e01c89] The billing authority shall on or as soon as practicable after the relevant day—
 
 - (a) adjust the instalments (if any) payable on or after the adjustment day (“the remaining instalments”) so that they accord with the amounts mentioned in sub-paragraph (4); and
 - (b) serve a notice on the ratepayer which is to state—
@@ -627,16 +627,16 @@ Regulation 7(1)
 
 (4) The aggregate amount of the remaining instalments payable shall be equal to the amount by which the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day; and the amount of each remaining instalment (if there are more than one) shall be calculated in accordance with paragraph 1(4) and (5) as if references in those provisions to the aggregate amount and to instalments were references to the aggregate amount of the remaining instalments and to the remaining instalments respectively.
 
-(5) If the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day, but no instalments are payable under it on or after that day, the amount of the excess shall be due from the ratepayer[^key-959ce8171055eadd47196f11aa706b65] to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under sub-paragraph (2) as is specified in it; and if in any case the revised estimate is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations–
+(5) If the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day, but no instalments are payable under it on or after that day, the amount of the excess shall be due from the ratepayer[^c-959ce8171055eadd47196f11aa706b65] to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under sub-paragraph (2) as is specified in it; and if in any case the revised estimate is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations–
 
 - (a) shall be repaid if the ratepayer so requires, or
 - (b) in any other case shall (as the billing authority determines) either be repaid or credited against any subsequent liability of the ratepayer to pay anything to it by way of non-domestic rate.
 
-(6) Where a notice has been given under sub-paragraph (2), in the operation of this paragraph as respects any further notice that may fall to be given under it, references in this paragraph to the demand notice and to amounts in respect of instalments payable under it shall be construed (so far as the context permits) as references to the demand notice, and amounts in respect of instalments payable under the notice, as from time to time previously adjusted under this paragraph; and in calculating the aggregate amount of instalments payable under a demand notice before the adjustment day for the purposes of sub-paragraphs (4) and (5) in consequence of the calculation of the revised estimate mentioned in sub-paragraph (3), there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 10(4) of Schedule 7 to the Act or (on the occasion of the giving of a previous notice under sub-paragraph (2)) under sub-paragraph (5) above , or has been paid (or credited) by way of interest under the Non-Domestic Rating (Payment of Interest) Regulations 1990[^key-7b4fbc35f4f36e2ee8f18408ed04cf8b].
+(6) Where a notice has been given under sub-paragraph (2), in the operation of this paragraph as respects any further notice that may fall to be given under it, references in this paragraph to the demand notice and to amounts in respect of instalments payable under it shall be construed (so far as the context permits) as references to the demand notice, and amounts in respect of instalments payable under the notice, as from time to time previously adjusted under this paragraph; and in calculating the aggregate amount of instalments payable under a demand notice before the adjustment day for the purposes of sub-paragraphs (4) and (5) in consequence of the calculation of the revised estimate mentioned in sub-paragraph (3), there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 10(4) of Schedule 7 to the Act or (on the occasion of the giving of a previous notice under sub-paragraph (2)) under sub-paragraph (5) above , or has been paid (or credited) by way of interest under the Non-Domestic Rating (Payment of Interest) Regulations 1990[^c-7b4fbc35f4f36e2ee8f18408ed04cf8b].
 
 (7) In this paragraph “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2) is issued.
 
-**7A.**[^key-a533de3d82f1c39ee34b76f1928969f7] (1) This paragraph applies where—
+**7A.**[^c-a533de3d82f1c39ee34b76f1928969f7] (1) This paragraph applies where—
 
 - (a) the demand notice has been served on a ratepayer by a billing authority;
 - (b) the authority’s estimate under regulation 6(1) for the purposes of the notice ( “the original estimate”) was made before the coming into force of sections 1 to 3 of the 1992 Act;
@@ -698,7 +698,7 @@ Regulation 7(1)
 - (d) in sub-paragraph (6), for the reference to the demand notice there were substituted a reference to the demand notice and any notice given under paragraph 7(2) in relation to the demand notice; and
 - (e) in sub-paragraph (7), after the words “by reference to the original estimate”, there were inserted the words “and any revised estimate of which notice has been given under paragraph 7(2)”.
 
-**7C.**[^key-2d8fae3155e1a264252ea8a37127a9d6] If—
+**7C.**[^c-2d8fae3155e1a264252ea8a37127a9d6] If—
 
 - (a) the demand notice has been served on a ratepayer by a billing authority;
 - (b) the authority’s estimate under regulation 6(1) for the purposes of the notice was made before the coming into force of section 1 of the 1993 Act; and
@@ -708,21 +708,21 @@ paragraphs 7A and 7B shall apply as if for references to the 1992 Act and to sec
 
 > - This notice takes account of savings on your rates bill announced in the Budget and made by the Non-Domestic Rating Act 1993.
 
-**8.**[^key-46c3ea8d5c1ca050868b7ac2964e307c] If pursuant to regulation 4(3) the demand notice relates to more than one hereditament for which such an estimate as is referred to in regulation 6(1) is made–
+**8.**[^c-46c3ea8d5c1ca050868b7ac2964e307c] If pursuant to regulation 4(3) the demand notice relates to more than one hereditament for which such an estimate as is referred to in regulation 6(1) is made–
 
-- (a) references in paragraphs 6(1) to (5), 7(1) and (3), 7A(1)(d) and (5) and 7B(1)(b)[^key-f28f070ce1a450712ef2054389ff86f4] to “the hereditament” shall be construed as references to all the hereditaments, so that paragraph 6 applies only if the event mentioned in sub-paragraph (1) of that paragraph has occurred in relation to all of them,
+- (a) references in paragraphs 6(1) to (5), 7(1) and (3), 7A(1)(d) and (5) and 7B(1)(b)[^c-f28f070ce1a450712ef2054389ff86f4] to “the hereditament” shall be construed as references to all the hereditaments, so that paragraph 6 applies only if the event mentioned in sub-paragraph (1) of that paragraph has occurred in relation to all of them,
 - (b) the relevant day shall be determined for the purposes of paragraph 6 by reference to the hereditament with respect to which the conditions referred to in sub-paragraph (1) of that paragraph were (or, as the case may be, would be) last fulfilled,
 - (c) the reference to “the hereditament concerned” in paragraph 6(6) shall be construed as a reference to any of the hereditaments concerned, and
 - (d) where neither the conditions mentioned in section 43(1) nor those mentioned in section 45(1) of the Act are fulfilled with respect to a hereditament to which the notice relates but paragraph 6 does not apply by virtue of paragraph (a) above, references in paragraph 7 to the revised estimate mentioned in sub-paragraph (3) of that paragraph shall be construed insofar as concerns that hereditament as references to the amount payable in relation to the hereditament for the period in the relevant year up to the day on which the conditions were last fulfilled.
 
-**9.**[^key-f4a1fac2505c4fa1a60b93989cf3b855][^key-9e7d7f02eec451e76b64140d22f7a4ff] (1) More than one adjustment of amounts paid or payable under a demand notice may be made under this Part as the circumstances require.
+**9.**[^c-f4a1fac2505c4fa1a60b93989cf3b855][^c-9e7d7f02eec451e76b64140d22f7a4ff] (1) More than one adjustment of amounts paid or payable under a demand notice may be made under this Part as the circumstances require.
 
 (2) Where a further adjustment falls to be made under this Part after the service of a transitional adjustment notice pursuant to paragraph 7A or 7B—
 
 - (a) paragraph 7 shall apply as if (so far as the context permits) references to the demand notice and to amounts in respect of instalments payable under it were references to the transitional adjustment notice and to the remaining instalments payable under it; and
 - (b) in calculating the aggregate amount of instalments payable under a demand notice before the adjustment day for the purposes of sub-paragraphs (4) and (5) of that paragraph in consequence of the revised estimate mentioned in sub-paragraph (3), and without prejudice to sub-paragraph (6) of paragraph 7, there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 7A or 7B, as the case may be.
 
-## SCHEDULE 1A — Backdated liability: special provision in relation to 2005 rating lists[^M_E_14fb982d-b6b0-4444-cd88-c7e4b3d5351f][^key-666cf5bd9462131a507614ad54b91c9a]
+## SCHEDULE 1A — Backdated liability: special provision in relation to 2005 rating lists[^M_E_14fb982d-b6b0-4444-cd88-c7e4b3d5351f][^c-666cf5bd9462131a507614ad54b91c9a]
 
 *Extent: E.*
 
@@ -794,7 +794,7 @@ If the billing authority enters into an agreement under this Schedule, regulatio
 
 and regulation 8 and Part 3 of these Regulations shall be construed accordingly.
 
-## SCHEDULE 1A — Backdated liability: special provision in relation to 2005 rating lists[^M_E_5fdcd881-944d-40db-90b0-95705e6e1d5d][^key-1440a67ee15dd1cf1ff5e110a96d0af3]
+## SCHEDULE 1A — Backdated liability: special provision in relation to 2005 rating lists[^M_E_5fdcd881-944d-40db-90b0-95705e6e1d5d][^c-1440a67ee15dd1cf1ff5e110a96d0af3]
 
 *Extent: W.*
 
@@ -874,7 +874,7 @@ If the billing authority enters into an agreement under this Schedule, regulatio
 
 - and regulation 8 and Part 3 of these Regulations are to be construed accordingly.
 
-## SCHEDULE 1B[^key-67a67676f960ca14bcfa4fcec6fe8afe]
+## SCHEDULE 1B[^c-67a67676f960ca14bcfa4fcec6fe8afe]
 
 *Extent: E*
 
@@ -1204,7 +1204,7 @@ Where this Schedule applies and the billing authority is required by these regul
 
 .
 
-## SCHEDULE 1C[^key-67ba8e971cb8e16d5e530fb8246237da]
+## SCHEDULE 1C[^c-67ba8e971cb8e16d5e530fb8246237da]
 
 *Extent: E*
 
@@ -1212,7 +1212,7 @@ Regulation 7B
 
 [image: see source](https://www.legislation.gov.uk/uksi/1989/1058/images/uksi_19891058_en_epp_011.gif)
 
-## SCHEDULE 1D — Deferred Payment Scheme in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011[^key-e2e83c41472e7c61282a87a94f8b3406]
+## SCHEDULE 1D — Deferred Payment Scheme in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011[^c-e2e83c41472e7c61282a87a94f8b3406]
 
 *Extent: W*
 
@@ -1424,17 +1424,17 @@ and regulation 8 and Part 3 of these Regulations shall be construed accordingly.
 
 .
 
-## SCHEDULE 2 — ENFORCEMENT: PRESCRIBED FORMS[^key-d3d4ae538d6812f11939813e47408f07][^key-085523233d65d441cf94d775c038ef24][^key-4a5118a2dda217d658dea548ba8c44dc][^key-33b1440d3f7a092065e6a97837bbb269][^key-fd8168b9a052766d9ac78ad8f0eea1d4]
+## SCHEDULE 2 — ENFORCEMENT: PRESCRIBED FORMS[^c-d3d4ae538d6812f11939813e47408f07][^c-085523233d65d441cf94d775c038ef24][^c-4a5118a2dda217d658dea548ba8c44dc][^c-33b1440d3f7a092065e6a97837bbb269][^c-fd8168b9a052766d9ac78ad8f0eea1d4]
 
 Regulations 13(1) and 17(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — CHARGES CONNECTED WITH DISTRESS[^key-085523233d65d441cf94d775c038ef24][^key-4a5118a2dda217d658dea548ba8c44dc][^key-33b1440d3f7a092065e6a97837bbb269][^key-fd8168b9a052766d9ac78ad8f0eea1d4][^key-82cf33b7bf8287677d8be67fcbe87b3a]
+## SCHEDULE 3 — CHARGES CONNECTED WITH DISTRESS[^c-085523233d65d441cf94d775c038ef24][^c-4a5118a2dda217d658dea548ba8c44dc][^c-33b1440d3f7a092065e6a97837bbb269][^c-fd8168b9a052766d9ac78ad8f0eea1d4][^c-82cf33b7bf8287677d8be67fcbe87b3a]
 
 **1.** The sum in respect of charges connected with the distress which may be aggregated under regulation 14(2) shall be as set out in the following Table—
 
-**TABLE[^key-3ae5d0a69d0dc8fabf9a0188a5e3333f]**
+**TABLE[^c-3ae5d0a69d0dc8fabf9a0188a5e3333f]**
 
 <table>
 <thead>
@@ -1459,12 +1459,12 @@ Regulations 13(1) and 17(1)
 </tbody>
 </table>
 
-[^key-d759425f80787d0090bddecc9e61a343][^key-a98ae1c41c224997166496acd3e4acc6][^key-d22c3b6c6c814b7a45ca358469c4584b][^key-7b02f2afd08c3ed256377d9b6316343b][^key-3164c9d915d5dee9e2fce09ff36ad838][^key-de674544b10f495419a893fd2159d495][^key-898938e066e9bd7904c0cf97dafcb5d9][^key-b1a3c2d83afe19d04846bf15e7893c3a]
+[^c-d759425f80787d0090bddecc9e61a343][^c-a98ae1c41c224997166496acd3e4acc6][^c-d22c3b6c6c814b7a45ca358469c4584b][^c-7b02f2afd08c3ed256377d9b6316343b][^c-3164c9d915d5dee9e2fce09ff36ad838][^c-de674544b10f495419a893fd2159d495][^c-898938e066e9bd7904c0cf97dafcb5d9][^c-b1a3c2d83afe19d04846bf15e7893c3a]
 
 **2.** (1) In head B of the Table in paragraph 1, “the relevant amount” with respect to a levy means—
 
-- (a) where the sum due at the time of the levy does not exceed £100, £22.50 *(Extent: E)*[^key-79fc7c1d03ab1026b9f0b2ca9bb7e443] *(Extent: E.)* *(affected by repeal, see note)*[^key-459605132ca684dc35c2a5b385b64ae6]£24.50 *(Extent: E.)*;
-- (b) where the sum due at the time of the levy exceeds £100, 22.5 per cent *(Extent: E)*[^key-665ce78843e8c48dac4d4bf0d08cbce4] *(Extent: E.)* *(affected by repeal, see note)*[^key-8a989343df4b63a60f8a1358e361c604] 24.5 per cent *(Extent: E.)* on the first £100 of the sum due, 4 per cent. on the next £400, 2½ per cent. on the next £1,500, 1 per cent. on the next £8,000 and ¼ per cent. on any additional sum;
+- (a) where the sum due at the time of the levy does not exceed £100, £22.50 *(Extent: E)*[^c-79fc7c1d03ab1026b9f0b2ca9bb7e443] *(Extent: E.)* *(affected by repeal, see note)*[^c-459605132ca684dc35c2a5b385b64ae6]£24.50 *(Extent: E.)*;
+- (b) where the sum due at the time of the levy exceeds £100, 22.5 per cent *(Extent: E)*[^c-665ce78843e8c48dac4d4bf0d08cbce4] *(Extent: E.)* *(affected by repeal, see note)*[^c-8a989343df4b63a60f8a1358e361c604] 24.5 per cent *(Extent: E.)* on the first £100 of the sum due, 4 per cent. on the next £400, 2½ per cent. on the next £1,500, 1 per cent. on the next £8,000 and ¼ per cent. on any additional sum;
 
 and the sum due at any time for these purposes means so much of the amount in respect of which the liability order concerned was made as is outstanding at the time.
 
@@ -1476,7 +1476,7 @@ and the sum due at any time for these purposes means so much of the amount in re
 
 and an authority takes close possession of goods on any day for those purposes if during the greater part of the day a person is left on the premises in physical possession of the goods on behalf of the authority under such an agreement.
 
-**2A.**[^key-d1569400bc3e7b0275b61823ee4504c4] No charge shall be payable under head F of the Table in paragraph 1 in respect of the appraisement of an item unless the debtor has been advised of the charge, and the manner of its calculation, before the appraisement is made.
+**2A.**[^c-d1569400bc3e7b0275b61823ee4504c4] No charge shall be payable under head F of the Table in paragraph 1 in respect of the appraisement of an item unless the debtor has been advised of the charge, and the manner of its calculation, before the appraisement is made.
 
 **3.** (1) Where the calculation under this Schedule of a percentage of a sum results in an amount containing a fraction of a pound, that fraction shall be reckoned as a whole pound.
 
@@ -1486,15 +1486,15 @@ and an authority takes close possession of goods on any day for those purposes i
 
 (4) References in the Table in paragraph 1 to costs, fees and expenses include references to amounts payable by way of value added tax with respect to the supply of goods or services to which the costs, fees and expenses relate.
 
-## SCHEDULE 4 — COSTS CONNECTED WITH COMMITTAL[^key-085523233d65d441cf94d775c038ef24][^key-4a5118a2dda217d658dea548ba8c44dc][^key-33b1440d3f7a092065e6a97837bbb269][^key-fd8168b9a052766d9ac78ad8f0eea1d4][^key-a03e277b2628b8a09de3e98274120c45]
+## SCHEDULE 4 — COSTS CONNECTED WITH COMMITTAL[^c-085523233d65d441cf94d775c038ef24][^c-4a5118a2dda217d658dea548ba8c44dc][^c-33b1440d3f7a092065e6a97837bbb269][^c-fd8168b9a052766d9ac78ad8f0eea1d4][^c-a03e277b2628b8a09de3e98274120c45]
 
 Regulation 16(6A) and (6B)
 
 | Application | Maximum costs |
 | --- | --- |
-| For making an application for the issue of a warrant | £55.00 *(Extent: E.)* *(affected by repeal, see note)*[^key-0b54754c1a5d5a721b38e4a5fbd0c491]£85.00 *(Extent: E.)* |
+| For making an application for the issue of a warrant | £55.00 *(Extent: E.)* *(affected by repeal, see note)*[^c-0b54754c1a5d5a721b38e4a5fbd0c491]£85.00 *(Extent: E.)* |
 | For making an application for an arrest warrant with bail | £55.00£85.00 |
-| For making an application for an arrest warrant without bail | £70.00 *(Extent: E.)* *(affected by repeal, see note)*[^key-e4eeff250461ee974c80dff4e72ab443]£105.00 *(Extent: E.)* |
+| For making an application for an arrest warrant without bail | £70.00 *(Extent: E.)* *(affected by repeal, see note)*[^c-e4eeff250461ee974c80dff4e72ab443]£105.00 *(Extent: E.)* |
 
 (This note is not part of the Regulations)
 
@@ -1512,312 +1512,312 @@ Part IV (regulation 24) provides for the enforcement of outstanding rate liabili
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); provisions relevant to the exercise of the powers conferred by paragraph 3(3) of Schedule 9 were made in S.I. [1989/438](https://www.legislation.gov.uk/uksi/1989/438), Part IV.
 
-[^key-efabb61cbcb60abfd2b734f94ca14990]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1989/1058) modified (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/1995/212/regulation/3)
+[^c-efabb61cbcb60abfd2b734f94ca14990]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1989/1058) modified (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/1995/212/regulation/3)
 
 [^M_E_18bfe97e-2ae9-495a-b708-bddde0b19cde]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
 
-[^key-474cc844c7b101535a03ea59140f7bb0]: Commencement: Reg. 1 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-474cc844c7b101535a03ea59140f7bb0]: Commencement: Reg. 1 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-bf058150f7b286d3ea92ce3b724abd3e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) punctuation mark inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/2604/article/6/a)
+[^c-bf058150f7b286d3ea92ce3b724abd3e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) punctuation mark inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/2604/article/6/a)
 
-[^key-920b8836ad726e4fac4d5940035868b8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2003/2604/article/6/b)
+[^c-920b8836ad726e4fac4d5940035868b8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2003/2604/article/6/b)
 
-[^key-fcfee4b5ac86b75ee34e73d8d32473ca]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) added (E.) (24.12.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) (No. 2) Order 2003 (S.I. 2003/3052)](https://www.legislation.gov.uk/uksi/2003/3052), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/3052/article/1/1), [5](https://www.legislation.gov.uk/uksi/2003/3052/article/5) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3052/article/1/2))
+[^c-fcfee4b5ac86b75ee34e73d8d32473ca]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) added (E.) (24.12.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) (No. 2) Order 2003 (S.I. 2003/3052)](https://www.legislation.gov.uk/uksi/2003/3052), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/3052/article/1/1), [5](https://www.legislation.gov.uk/uksi/2003/3052/article/5) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3052/article/1/2))
 
-[^key-7ae4b1d48d6ab6f408a49bdead7742fa]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) substituted (E.) (1.3.2006) by [The Non-Domestic Rating and Council Tax (Electronic Communications) (England) Order 2006 (S.I. 2006/237)](https://www.legislation.gov.uk/uksi/2006/237), [arts. 1](https://www.legislation.gov.uk/uksi/2006/237/article/1), [5](https://www.legislation.gov.uk/uksi/2006/237/article/5)
+[^c-7ae4b1d48d6ab6f408a49bdead7742fa]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) substituted (E.) (1.3.2006) by [The Non-Domestic Rating and Council Tax (Electronic Communications) (England) Order 2006 (S.I. 2006/237)](https://www.legislation.gov.uk/uksi/2006/237), [arts. 1](https://www.legislation.gov.uk/uksi/2006/237/article/1), [5](https://www.legislation.gov.uk/uksi/2006/237/article/5)
 
 [^M_E_1dcc3398-9ce7-4fcf-b131-3ecac05b9ee0]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
 
-[^key-e5edfb2ba2b03ec853e89c503df35cbf]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) punctuation inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [3(a)](https://www.legislation.gov.uk/wsi/2009/2706/article/3/a)
+[^c-e5edfb2ba2b03ec853e89c503df35cbf]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) punctuation inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [3(a)](https://www.legislation.gov.uk/wsi/2009/2706/article/3/a)
 
-[^key-bfd2b284e7d4a28d7c8b8f06d16e69ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/uksi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/2706/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/2706/article/3/b)
+[^c-bfd2b284e7d4a28d7c8b8f06d16e69ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/uksi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/2706/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/2706/article/3/b)
 
 [^M_E_6316508a-ede1-4507-ee0e-2a14297ab8cc]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
 
-[^key-e9f0c7d8dddcd55c10192a86f1eddc3e]: Commencement: Reg. 2 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-e9f0c7d8dddcd55c10192a86f1eddc3e]: Commencement: Reg. 2 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-46f1b2914defed0510679cd937df5743]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2) extended (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/145/regulation/2)
+[^c-46f1b2914defed0510679cd937df5743]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2) extended (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/145/regulation/2)
 
 [^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); subsection (6) was repealed by the Local Government (Miscellaneous Provisions) Act [1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), Schedule 2.
 
-[^key-f1341acdd7b23face599830d45ff4094]: Textual amendment: [Reg. 2(3)-(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2/3) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/2604/article/7/2)
+[^c-f1341acdd7b23face599830d45ff4094]: Textual amendment: [Reg. 2(3)-(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2/3) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/2604/article/7/2)
 
 [^M_E_a6ca80b2-31d4-4c43-89ee-2d23e4f7e472]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
 
 [^V_W_9d1980a1-38f3-c5a1-37a3-c48ca680ec8f]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2) extended (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/145/regulation/2)
 
-[^key-195dc479321edc87feb6125eb58efd9c]: Textual amendment: [Reg. 2(3)-(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2/3) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2009/2706/article/4/2)
+[^c-195dc479321edc87feb6125eb58efd9c]: Textual amendment: [Reg. 2(3)-(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2/3) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2009/2706/article/4/2)
 
-[^key-31252dc61e6dc93f76d277ead9fa1c2c]: Modification: [Pt. 2](https://www.legislation.gov.uk/uksi/1989/1058/part/2) applied (with modifications) (26.2.1990) by The Non-[Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1990/145/regulation/3)
+[^c-31252dc61e6dc93f76d277ead9fa1c2c]: Modification: [Pt. 2](https://www.legislation.gov.uk/uksi/1989/1058/part/2) applied (with modifications) (26.2.1990) by The Non-[Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1990/145/regulation/3)
 
-[^key-89389eac691da30672b5153ad2611334]: Commencement: Reg. 3 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-89389eac691da30672b5153ad2611334]: Commencement: Reg. 3 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-a3ae72d284ed7fc7c771695b0977f8e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) substituted (15.2.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/1991/141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/3/2))
+[^c-a3ae72d284ed7fc7c771695b0977f8e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) substituted (15.2.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/1991/141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/3/2))
 
-[^key-b742d55c1acd302312606008cd47e5d6]: Textual amendment: Words in Regulations substituted (1.4.1993) by [The Local Government Finance (Repeals, Savings and Consequential Amendments) Order 1993 (S.I. 1993/616)](https://www.legislation.gov.uk/uksi/1993/616), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/616/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/616/schedule/2/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1993/616/regulation/4))
+[^c-b742d55c1acd302312606008cd47e5d6]: Textual amendment: Words in Regulations substituted (1.4.1993) by [The Local Government Finance (Repeals, Savings and Consequential Amendments) Order 1993 (S.I. 1993/616)](https://www.legislation.gov.uk/uksi/1993/616), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/616/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/616/schedule/2/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1993/616/regulation/4))
 
-[^key-ef6531b757204abf9a6b1ba4068e4bf7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) substituted (E.) (with application from 1.4.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1/3), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/a/i)
+[^c-ef6531b757204abf9a6b1ba4068e4bf7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) substituted (E.) (with application from 1.4.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1/3), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/a/i)
 
-[^key-07a2139d31a598f0b686635de76c2b6b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) inserted (E.) (24.3.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2008/428/article/1/2), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/a/ii)
+[^c-07a2139d31a598f0b686635de76c2b6b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) inserted (E.) (24.3.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2008/428/article/1/2), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/a/ii)
 
-[^key-015865c4c20a6d9512ce784b19baec2b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/a)
+[^c-015865c4c20a6d9512ce784b19baec2b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/a)
 
-[^key-236189873bd3ead7a16a1cefd3bbdb01]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/2) inserted (E.) (with application from 1.4.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/b)
+[^c-236189873bd3ead7a16a1cefd3bbdb01]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/2) inserted (E.) (with application from 1.4.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/b)
 
-[^key-a296e0f01500db311ff8841d69706682]: Commencement: Reg. 4 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-a296e0f01500db311ff8841d69706682]: Commencement: Reg. 4 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-d9122aa3e2be247129d35e9d916f866f]: Commencement: Reg. 5 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-d9122aa3e2be247129d35e9d916f866f]: Commencement: Reg. 5 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-f1ca4ae931f70feca000ba7af0c4d124]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5) modified (E.) (18.2.1991) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) (England) Regulations 1991 (S.I. 1991/242)](https://www.legislation.gov.uk/uksi/1991/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1991/242/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/1991/242/regulation/3))
+[^c-f1ca4ae931f70feca000ba7af0c4d124]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5) modified (E.) (18.2.1991) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) (England) Regulations 1991 (S.I. 1991/242)](https://www.legislation.gov.uk/uksi/1991/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1991/242/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/1991/242/regulation/3))
 
-[^key-fa1500a9f088057bc65095292a9a07d8]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/2) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
+[^c-fa1500a9f088057bc65095292a9a07d8]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/2) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
 
-[^key-e4f724a1624f79ccfbe170d3c9394a26]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/2) substituted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/a/i) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/2))
+[^c-e4f724a1624f79ccfbe170d3c9394a26]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/2) substituted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/a/i) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/2))
 
-[^key-518eb445f0bccb5c47fa14477ee8e295]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/3) inserted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/a/ii) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/2))
+[^c-518eb445f0bccb5c47fa14477ee8e295]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/3) inserted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/a/ii) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/2))
 
-[^key-fca61c89469cb3eb63aa7aaf82554db0]: Commencement: Reg. 6 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-fca61c89469cb3eb63aa7aaf82554db0]: Commencement: Reg. 6 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-29de0c3b5f2a50fe0cb30fbc6d91c721]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1058/regulation/6) modified (E.) (18.2.1991) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) (England) Regulations 1991 (S.I. 1991/242)](https://www.legislation.gov.uk/uksi/1991/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1991/242/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/1991/242/regulation/3))
+[^c-29de0c3b5f2a50fe0cb30fbc6d91c721]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1058/regulation/6) modified (E.) (18.2.1991) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) (England) Regulations 1991 (S.I. 1991/242)](https://www.legislation.gov.uk/uksi/1991/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1991/242/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/1991/242/regulation/3))
 
-[^key-40b8a7950bede07e9321184e97cfa676]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/6/1) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
+[^c-40b8a7950bede07e9321184e97cfa676]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/6/1) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
 
-[^key-449dc9b388bff32163127c86a73f596a]: Commencement: Reg. 7 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-449dc9b388bff32163127c86a73f596a]: Commencement: Reg. 7 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-f6760f0dbb02f95c70e8d6726f4d90d3]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7A) inserted (E.) (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [regs. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/204/regulation/2/2) and (W.) (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [regs. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/461/regulation/2/2)
+[^c-f6760f0dbb02f95c70e8d6726f4d90d3]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7A) inserted (E.) (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [regs. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/204/regulation/2/2) and (W.) (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [regs. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/461/regulation/2/2)
 
-[^key-41763a0c5cf724aa2528b55533fe6e5a]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7B) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1597/regulation/2/2)
+[^c-41763a0c5cf724aa2528b55533fe6e5a]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7B) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1597/regulation/2/2)
 
-[^key-337dbbd41e3e1a59b6307cb016e93283]: Textual amendment: [Reg. 7C](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7C) inserted (W.) (28.8.2009) by [The Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009 (S.I. 2009/2154)](https://www.legislation.gov.uk/wsi/2009/2154), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2154/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/2154/regulation/2/2)
+[^c-337dbbd41e3e1a59b6307cb016e93283]: Textual amendment: [Reg. 7C](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7C) inserted (W.) (28.8.2009) by [The Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009 (S.I. 2009/2154)](https://www.legislation.gov.uk/wsi/2009/2154), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2154/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/2154/regulation/2/2)
 
-[^key-446c8c823ed794e7e46d632b72b373d6]: Commencement: Reg. 8 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-446c8c823ed794e7e46d632b72b373d6]: Commencement: Reg. 8 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-63fd85e423e1821b8f55c2480884bd84]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/8/8) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/b)
+[^c-63fd85e423e1821b8f55c2480884bd84]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/8/8) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/b)
 
-[^key-edcda1d4e16173f62c4edd917c547c5e]: Commencement: Reg. 9 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-edcda1d4e16173f62c4edd917c547c5e]: Commencement: Reg. 9 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-13f92656f25e551e587b295cfe01dfec]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (26.2.1990) by The Non-[Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1990/145/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/1990/145/regulation/5))
+[^c-13f92656f25e551e587b295cfe01dfec]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (26.2.1990) by The Non-[Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1990/145/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/1990/145/regulation/5))
 
-[^key-1812ed696582204cd2a29d26544fe5c9]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13)
+[^c-1812ed696582204cd2a29d26544fe5c9]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13)
 
-[^key-70527d4c2714b19cddedf34b60370434]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9)
+[^c-70527d4c2714b19cddedf34b60370434]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9)
 
-[^key-b53892364ef2707e54a45ccfbd2a083c]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2005/1312/schedule/4/paragraph/13)
+[^c-b53892364ef2707e54a45ccfbd2a083c]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2005/1312/schedule/4/paragraph/13)
 
-[^key-97c3e6ed73e6d80dee9252ac405ade07]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2005/1312/schedule/4/paragraph/9)
+[^c-97c3e6ed73e6d80dee9252ac405ade07]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2005/1312/schedule/4/paragraph/9)
 
-[^key-3da0e21610b1735c08c962e113e1f882]: Commencement: Reg. 10 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-3da0e21610b1735c08c962e113e1f882]: Commencement: Reg. 10 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-62c3b7d5488f3a9b6ed4c595abee8f7f]: Commencement: Reg. 11 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-62c3b7d5488f3a9b6ed4c595abee8f7f]: Commencement: Reg. 11 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-9f53f68af41c9618b16ee2715911526a]: Commencement: Reg. 12 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-9f53f68af41c9618b16ee2715911526a]: Commencement: Reg. 12 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
 [^f00003]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-2f3f786bf5f51a82a792b81a0fde7887]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/6) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/2)
+[^c-2f3f786bf5f51a82a792b81a0fde7887]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/6) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/2)
 
-[^key-250ca3f08f6fcb7d1d686c4639c14ac0]: Modification: [Reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/6/b) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [6](https://www.legislation.gov.uk/uksi/1995/212/regulation/6)
+[^c-250ca3f08f6fcb7d1d686c4639c14ac0]: Modification: [Reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/6/b) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [6](https://www.legislation.gov.uk/uksi/1995/212/regulation/6)
 
-[^key-4fa6d023959d61c4bbc88f5b67917b9b]: Modification: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/7) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [6](https://www.legislation.gov.uk/uksi/1995/212/regulation/6)
+[^c-4fa6d023959d61c4bbc88f5b67917b9b]: Modification: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/7) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [6](https://www.legislation.gov.uk/uksi/1995/212/regulation/6)
 
-[^key-5d72fec041dd25af5a76aa5915219e17]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/7) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/2)
+[^c-5d72fec041dd25af5a76aa5915219e17]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/7) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/2)
 
-[^key-97a70f9b622b12d68246e3845c394dec]: Commencement: Reg. 13 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-97a70f9b622b12d68246e3845c394dec]: Commencement: Reg. 13 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-dba755ccea24985e2e40b3329a236409]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/3)
+[^c-dba755ccea24985e2e40b3329a236409]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/3)
 
-[^key-2342ad034c649b33eff8430a27cd1b87]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) omitted (W.) (10.7.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/uksi/2003/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1714/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2003/1714/regulation/3/a/i) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/1/a)
+[^c-2342ad034c649b33eff8430a27cd1b87]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) omitted (W.) (10.7.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/uksi/2003/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1714/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2003/1714/regulation/3/a/i) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/1/a)
 
-[^key-4d869b99ca26c5ca1a909990a7edb6a7]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) omitted (W.) (10.7.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/uksi/2003/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1714/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1714/regulation/3/a/ii) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/1/b)
+[^c-4d869b99ca26c5ca1a909990a7edb6a7]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) omitted (W.) (10.7.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/uksi/2003/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1714/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1714/regulation/3/a/ii) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/1/b)
 
-[^key-154550e8072498b15ce8ab4baf410ab7]: Textual amendment: [Reg. 13(2A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/2A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [3](https://www.legislation.gov.uk/uksi/1998/3089/regulation/3)
+[^c-154550e8072498b15ce8ab4baf410ab7]: Textual amendment: [Reg. 13(2A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/2A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [3](https://www.legislation.gov.uk/uksi/1998/3089/regulation/3)
 
-[^key-5e384fbe7d7dbb4def62df77b7951e2a]: Commencement: Reg. 14 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-5e384fbe7d7dbb4def62df77b7951e2a]: Commencement: Reg. 14 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-dae25de7fa1798da904de0a62c00db4c]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [7](https://www.legislation.gov.uk/uksi/1995/212/regulation/7)
+[^c-dae25de7fa1798da904de0a62c00db4c]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [7](https://www.legislation.gov.uk/uksi/1995/212/regulation/7)
 
-[^key-a7a223045c79520d019d14491853d8ad]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/1A) inserted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/3))
+[^c-a7a223045c79520d019d14491853d8ad]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/1A) inserted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/3))
 
-[^key-cb8c615f97b4c21b33b8c03b3cbaecc5]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/6A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [4](https://www.legislation.gov.uk/uksi/1998/3089/regulation/4)
+[^c-cb8c615f97b4c21b33b8c03b3cbaecc5]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/6A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [4](https://www.legislation.gov.uk/uksi/1998/3089/regulation/4)
 
-[^key-bee9542d7f055b993f2961f3353ce5e3]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/9) revoked (8.11.1995) by [Statute Law (Repeals) Act 1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/VI)
+[^c-bee9542d7f055b993f2961f3353ce5e3]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/9) revoked (8.11.1995) by [Statute Law (Repeals) Act 1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/VI)
 
-[^key-1932db1c97dbb58d29e8214f63748f8a]: Commencement: Reg. 15 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-1932db1c97dbb58d29e8214f63748f8a]: Commencement: Reg. 15 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-28aff3b0f5eab03db48ad90c8115b993]: Modification: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/15/2) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/212/regulation/8)
+[^c-28aff3b0f5eab03db48ad90c8115b993]: Modification: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/15/2) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/212/regulation/8)
 
-[^key-c03be7d1333972812ff41cc24b77252e]: Modification: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/15/4) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/212/regulation/8)
+[^c-c03be7d1333972812ff41cc24b77252e]: Modification: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/15/4) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/212/regulation/8)
 
-[^key-bc7e07e68ca5bc28f5d929343d9cce0e]: Commencement: Reg. 16 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-bc7e07e68ca5bc28f5d929343d9cce0e]: Commencement: Reg. 16 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-48cff1d3d4ae0203dbd333f8ce2415b5]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [9](https://www.legislation.gov.uk/uksi/1995/212/regulation/9)
+[^c-48cff1d3d4ae0203dbd333f8ce2415b5]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [9](https://www.legislation.gov.uk/uksi/1995/212/regulation/9)
 
-[^key-5645ef66bbd80aeca2d3462eff00ed1a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/1) substituted (7.3.1992) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) Regulations 1992 (S.I. 1992/474)](https://www.legislation.gov.uk/uksi/1992/474), [regs. 1](https://www.legislation.gov.uk/uksi/1992/474/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/2/a) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/474/regulation/2/1))
+[^c-5645ef66bbd80aeca2d3462eff00ed1a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/1) substituted (7.3.1992) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) Regulations 1992 (S.I. 1992/474)](https://www.legislation.gov.uk/uksi/1992/474), [regs. 1](https://www.legislation.gov.uk/uksi/1992/474/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/2/a) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/474/regulation/2/1))
 
-[^key-102095fa1bf8726c138c76980be44158]: Textual amendment: [Reg. 16(6)-(6B)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/6) substituted for [reg. 16(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/6) (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1998/3089/regulation/5/1)
+[^c-102095fa1bf8726c138c76980be44158]: Textual amendment: [Reg. 16(6)-(6B)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/6) substituted for [reg. 16(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/6) (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1998/3089/regulation/5/1)
 
 [^f00006]: Footnote: S.I. [1981/552](https://www.legislation.gov.uk/uksi/1981/552).
 
-[^key-fd718fa7f1af282b3db974e59478a13f]: Commencement: Reg. 17 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-fd718fa7f1af282b3db974e59478a13f]: Commencement: Reg. 17 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-998082d7d1b199b67de9c2ed88d84aee]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/17/1) omitted (W.) (10.7.2003) by virtue of [The Non-Domestic Rating (Collection and Enforcement)(Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/wsi/2003/1714), [regs. 1](https://www.legislation.gov.uk/wsi/2003/1714/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2003/1714/regulation/3/b)
+[^c-998082d7d1b199b67de9c2ed88d84aee]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/17/1) omitted (W.) (10.7.2003) by virtue of [The Non-Domestic Rating (Collection and Enforcement)(Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/wsi/2003/1714), [regs. 1](https://www.legislation.gov.uk/wsi/2003/1714/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2003/1714/regulation/3/b)
 
 [^f00007]: Footnote: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-7007ae0dc40f68b66409dbd5e4725392]: Commencement: Reg. 18 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-7007ae0dc40f68b66409dbd5e4725392]: Commencement: Reg. 18 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
 [^f00008]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-65402d1f971f15571516cfe1a3d181e9]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/1990/145/regulation/5/5)
+[^c-65402d1f971f15571516cfe1a3d181e9]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/1990/145/regulation/5/5)
 
-[^key-21f2aae7daeb6d1b166cd5dba96373b5]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/5)
+[^c-21f2aae7daeb6d1b166cd5dba96373b5]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/5)
 
-[^key-f1c17c63206cc3b5baee11ebe4c0328c]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/14/5)
+[^c-f1c17c63206cc3b5baee11ebe4c0328c]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/14/5)
 
-[^key-43a205a05440406e0fcf54a6d4aefa3d]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) omitted (26.2.1990) by virtue of [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/4)
+[^c-43a205a05440406e0fcf54a6d4aefa3d]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) omitted (26.2.1990) by virtue of [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/4)
 
-[^key-2b9879d6403ca2530fbfc866b1609ef7]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/4)
+[^c-2b9879d6403ca2530fbfc866b1609ef7]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/4)
 
-[^key-0f7580b877f911a09158de39b6323372]: Commencement: Reg. 19 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-0f7580b877f911a09158de39b6323372]: Commencement: Reg. 19 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-e28ebd1aadbd108296044c9866790f13]: Commencement: Reg. 20 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-e28ebd1aadbd108296044c9866790f13]: Commencement: Reg. 20 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-3bc5d06683b6b1fbb85423af238633f2]: Commencement: Reg. 21 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-3bc5d06683b6b1fbb85423af238633f2]: Commencement: Reg. 21 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-f80276039e40702266a55a68c400468e]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/1)[(1A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/1A) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 119](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/119)
+[^c-f80276039e40702266a55a68c400468e]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/1)[(1A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/1A) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 119](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/119)
 
-[^key-d0e3d085ddcbce95cccc5a9d0bbdb7cf]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/2) substituted: (E.) (31.8.2000) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2000 (S.I. 2000/2026)](https://www.legislation.gov.uk/uksi/2000/2026), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2026/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2000/2026/regulation/2/b); and (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/uksi/2001/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/2/2/b)
+[^c-d0e3d085ddcbce95cccc5a9d0bbdb7cf]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/2) substituted: (E.) (31.8.2000) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2000 (S.I. 2000/2026)](https://www.legislation.gov.uk/uksi/2000/2026), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2026/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2000/2026/regulation/2/b); and (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/uksi/2001/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/2/2/b)
 
 [^f00009]: Footnote: S.I. [1970/231](https://www.legislation.gov.uk/uksi/1970/231), to which there are amendments not relevant to these Regulations.
 
-[^key-06c8663664dd064a271da641f76b9824]: Modification: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4)[(5)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/5) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [10](https://www.legislation.gov.uk/uksi/1995/212/regulation/10)
+[^c-06c8663664dd064a271da641f76b9824]: Modification: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4)[(5)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/5) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [10](https://www.legislation.gov.uk/uksi/1995/212/regulation/10)
 
-[^key-bb60ee46dae66ef119da9cc44fbc3625]: Textual amendment: [Reg. 21(4)-(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4) added (7.3.1992) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) Regulations 1992 (S.I. 1992/474)](https://www.legislation.gov.uk/uksi/1992/474), [regs. 1](https://www.legislation.gov.uk/uksi/1992/474/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/2/b)[(4)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/474/regulation/2/2))
+[^c-bb60ee46dae66ef119da9cc44fbc3625]: Textual amendment: [Reg. 21(4)-(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4) added (7.3.1992) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) Regulations 1992 (S.I. 1992/474)](https://www.legislation.gov.uk/uksi/1992/474), [regs. 1](https://www.legislation.gov.uk/uksi/1992/474/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/2/b)[(4)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/474/regulation/2/2))
 
-[^key-58a0a811789e3b9a26bd1b013fda3f63]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/a)
+[^c-58a0a811789e3b9a26bd1b013fda3f63]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/a)
 
-[^key-fde7afe48a7416564cc3cb4813a2be2b]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/5) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/a)
+[^c-fde7afe48a7416564cc3cb4813a2be2b]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/5) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/a)
 
-[^key-2fd11d0458e66a1b5a57df5dc9ac13cd]: Textual amendment: [Reg. 21(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/7) added (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(b)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/b)
+[^c-2fd11d0458e66a1b5a57df5dc9ac13cd]: Textual amendment: [Reg. 21(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/7) added (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(b)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/b)
 
-[^key-00b13d5f9982c16035e231163a35cbe5]: Commencement: Reg. 22 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-00b13d5f9982c16035e231163a35cbe5]: Commencement: Reg. 22 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-c137f8febbb0346c315611f7c21b8b36]: Commencement: Reg. 23 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-c137f8febbb0346c315611f7c21b8b36]: Commencement: Reg. 23 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-3cbce09cf0f37dc2df3f266372049509]: Modification: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/1)[(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/2) applied (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 10(7)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/10/7)
+[^c-3cbce09cf0f37dc2df3f266372049509]: Modification: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/1)[(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/2) applied (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 10(7)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/10/7)
 
-[^key-5619203d4c67c61809ab5d0de449d793]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/3) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(c)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/c)
+[^c-5619203d4c67c61809ab5d0de449d793]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/3) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(c)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/c)
 
-[^key-d386c75adccd912378253cea26ae0cd6]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/3) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/c)
+[^c-d386c75adccd912378253cea26ae0cd6]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/3) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/c)
 
-[^key-2012b4f78eb1ac4b117faaf8d55c4794]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/4) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 120](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/120)
+[^c-2012b4f78eb1ac4b117faaf8d55c4794]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/4) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 120](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/120)
 
-[^key-94dd801c6075b94abd004f19f77de855]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/4) substituted: (E.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2001 (S.I. 2001/362)](https://www.legislation.gov.uk/uksi/2001/362), [regs. 1](https://www.legislation.gov.uk/uksi/2001/362/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2001/362/regulation/2/b); and (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/uksi/2001/1076), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/3/2/b)
+[^c-94dd801c6075b94abd004f19f77de855]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/4) substituted: (E.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2001 (S.I. 2001/362)](https://www.legislation.gov.uk/uksi/2001/362), [regs. 1](https://www.legislation.gov.uk/uksi/2001/362/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2001/362/regulation/2/b); and (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/uksi/2001/1076), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/3/2/b)
 
-[^key-aaca4af765ce0ef6430efd9cf5e7be06]: Commencement: Reg. 24 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-aaca4af765ce0ef6430efd9cf5e7be06]: Commencement: Reg. 24 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-8a686ce8b012eb4c504ee9415c07e162]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24) modified (31.12.1989) by [The Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989 (S.I. 1989/2260)](https://www.legislation.gov.uk/uksi/1989/2260), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2260/regulation/1), [11](https://www.legislation.gov.uk/uksi/1989/2260/regulation/11)
+[^c-8a686ce8b012eb4c504ee9415c07e162]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24) modified (31.12.1989) by [The Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989 (S.I. 1989/2260)](https://www.legislation.gov.uk/uksi/1989/2260), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2260/regulation/1), [11](https://www.legislation.gov.uk/uksi/1989/2260/regulation/11)
 
-[^key-8ec5e72c1dcf39cdadf3c4232bc7c2c9]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24/2/a) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/8/1)
+[^c-8ec5e72c1dcf39cdadf3c4232bc7c2c9]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24/2/a) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/8/1)
 
-[^key-1979397cf3d8e326c9fe5b61b4768659]: Textual amendment: Words in [reg. 24(5)(a)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24/5/a) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/8/2)
+[^c-1979397cf3d8e326c9fe5b61b4768659]: Textual amendment: Words in [reg. 24(5)(a)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24/5/a) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/8/2)
 
-[^key-3d97a484a1daf7ba24b725d2d8f091b7]: Commencement: Sch. 1 para. 1 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-3d97a484a1daf7ba24b725d2d8f091b7]: Commencement: Sch. 1 para. 1 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-31d1cba2467bf603abb2833e913b8e98]: Commencement: Sch. 1 para. 2 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-31d1cba2467bf603abb2833e913b8e98]: Commencement: Sch. 1 para. 2 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-977115bb507ac51dbb48911a5be1e607]: Commencement: Sch. 1 para. 3 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-977115bb507ac51dbb48911a5be1e607]: Commencement: Sch. 1 para. 3 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-1aecabeb222c766a747058787dbb894d]: Commencement: Sch. 1 para. 4 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-1aecabeb222c766a747058787dbb894d]: Commencement: Sch. 1 para. 4 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-98c8304bf7a325cfab2edbdbb1379194]: Commencement: Sch. 1 para. 5 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-98c8304bf7a325cfab2edbdbb1379194]: Commencement: Sch. 1 para. 5 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-21f1f25a181f7d140c8150e65b242728]: Commencement: Sch. 1 para. 6 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-21f1f25a181f7d140c8150e65b242728]: Commencement: Sch. 1 para. 6 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-9f8d8767fff6a10c395a36b362407114]: Modification: [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/6/1) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
+[^c-9f8d8767fff6a10c395a36b362407114]: Modification: [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/6/1) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
 
-[^key-dac5fd5127c88089702ef36c94b1b32c]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/6/1) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1990/145/regulation/6/3)
+[^c-dac5fd5127c88089702ef36c94b1b32c]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/6/1) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1990/145/regulation/6/3)
 
-[^key-d4cee57567ebd70ddaeeefbbdcf14e55]: Commencement: Sch. 1 para. 7 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-d4cee57567ebd70ddaeeefbbdcf14e55]: Commencement: Sch. 1 para. 7 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-1d24d31e3ddc9eb31a04ba920d9e0775]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/1) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/d/i)
+[^c-1d24d31e3ddc9eb31a04ba920d9e0775]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/1) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/d/i)
 
-[^key-b20d6601af8820e7bce245d5b9c503e3]: Textual amendment: [Sch. 1 para. 7(1A)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/1A) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/d/ii)
+[^c-b20d6601af8820e7bce245d5b9c503e3]: Textual amendment: [Sch. 1 para. 7(1A)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/1A) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/d/ii)
 
-[^key-e1d42b6c2436f2beaee0607a33e01c89]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/2) substituted (1.4.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/1991/141/regulation/4/1)
+[^c-e1d42b6c2436f2beaee0607a33e01c89]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/2) substituted (1.4.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/1991/141/regulation/4/1)
 
-[^key-959ce8171055eadd47196f11aa706b65]: Textual amendment: Word in [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/5) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/6/4)
+[^c-959ce8171055eadd47196f11aa706b65]: Textual amendment: Word in [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/5) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/6/4)
 
-[^key-7b4fbc35f4f36e2ee8f18408ed04cf8b]: Textual amendment: Words in [Sch. 1 para. 7(6)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/6) inserted (1.4.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/4/2)
+[^c-7b4fbc35f4f36e2ee8f18408ed04cf8b]: Textual amendment: Words in [Sch. 1 para. 7(6)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/6) inserted (1.4.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/4/2)
 
-[^key-a533de3d82f1c39ee34b76f1928969f7]: Textual amendment: [Sch. 1 paras. 7A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7A), [7B](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7B) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/e), [3](https://www.legislation.gov.uk/uksi/1992/1512/regulation/3)
+[^c-a533de3d82f1c39ee34b76f1928969f7]: Textual amendment: [Sch. 1 paras. 7A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7A), [7B](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7B) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/e), [3](https://www.legislation.gov.uk/uksi/1992/1512/regulation/3)
 
-[^key-2d8fae3155e1a264252ea8a37127a9d6]: Textual amendment: [Sch. 1 para. 7C](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7C) inserted (6.7.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1993 (S.I. 1993/1493)](https://www.legislation.gov.uk/uksi/1993/1493), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1493/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1993/1493/regulation/2/b)
+[^c-2d8fae3155e1a264252ea8a37127a9d6]: Textual amendment: [Sch. 1 para. 7C](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7C) inserted (6.7.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1993 (S.I. 1993/1493)](https://www.legislation.gov.uk/uksi/1993/1493), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1493/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1993/1493/regulation/2/b)
 
-[^key-46c3ea8d5c1ca050868b7ac2964e307c]: Commencement: Sch. 1 para. 8 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-46c3ea8d5c1ca050868b7ac2964e307c]: Commencement: Sch. 1 para. 8 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-f28f070ce1a450712ef2054389ff86f4]: Textual amendment: Words in [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/8/a) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(f)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/f)
+[^c-f28f070ce1a450712ef2054389ff86f4]: Textual amendment: Words in [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/8/a) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(f)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/f)
 
-[^key-f4a1fac2505c4fa1a60b93989cf3b855]: Commencement: Sch. 1 para. 9 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+[^c-f4a1fac2505c4fa1a60b93989cf3b855]: Commencement: Sch. 1 para. 9 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
 
-[^key-9e7d7f02eec451e76b64140d22f7a4ff]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/9) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/g)
+[^c-9e7d7f02eec451e76b64140d22f7a4ff]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/9) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/g)
 
 [^M_E_14fb982d-b6b0-4444-cd88-c7e4b3d5351f]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only for the insertion of Schedule 1A (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [reg. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2009/461/schedule)
 
-[^key-666cf5bd9462131a507614ad54b91c9a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1A) inserted (E.) (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [reg. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/204/schedule)
+[^c-666cf5bd9462131a507614ad54b91c9a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1A) inserted (E.) (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [reg. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/204/schedule)
 
 [^M_E_5fdcd881-944d-40db-90b0-95705e6e1d5d]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only for the insertion of Schedule 1A (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [reg. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/204/schedule)
 
-[^key-1440a67ee15dd1cf1ff5e110a96d0af3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1A) inserted (W.) (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [reg. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2009/461/schedule)
+[^c-1440a67ee15dd1cf1ff5e110a96d0af3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1A) inserted (W.) (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [reg. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2009/461/schedule)
 
-[^key-67a67676f960ca14bcfa4fcec6fe8afe]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1B) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1597/schedule/1)
+[^c-67a67676f960ca14bcfa4fcec6fe8afe]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1B) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1597/schedule/1)
 
-[^key-67ba8e971cb8e16d5e530fb8246237da]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1C) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1597/schedule/2)
+[^c-67ba8e971cb8e16d5e530fb8246237da]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1C) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1597/schedule/2)
 
-[^key-e2e83c41472e7c61282a87a94f8b3406]: Textual amendment: [Sch. 1D](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1D) inserted (W.) (28.8.2009) by [The Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009 (S.I. 2009/2154)](https://www.legislation.gov.uk/wsi/2009/2154), [reg. 1](https://www.legislation.gov.uk/wsi/2009/2154/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/2154/schedule/1)
+[^c-e2e83c41472e7c61282a87a94f8b3406]: Textual amendment: [Sch. 1D](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1D) inserted (W.) (28.8.2009) by [The Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009 (S.I. 2009/2154)](https://www.legislation.gov.uk/wsi/2009/2154), [reg. 1](https://www.legislation.gov.uk/wsi/2009/2154/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/2154/schedule/1)
 
-[^key-d3d4ae538d6812f11939813e47408f07]: Textual amendment: Sch. 2 omitted (W.) (10.7.2003) by virtue of The Non-Domestic Rating (Collection and Enforcement)(Local Lists) (Amendment) (Wales) Regulations 2003 ([S.I. 2003/1714](https://www.legislation.gov.uk/uksi/2003/1714)), regs. 1, 3(c) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/3)
+[^c-d3d4ae538d6812f11939813e47408f07]: Textual amendment: Sch. 2 omitted (W.) (10.7.2003) by virtue of The Non-Domestic Rating (Collection and Enforcement)(Local Lists) (Amendment) (Wales) Regulations 2003 ([S.I. 2003/1714](https://www.legislation.gov.uk/uksi/2003/1714)), regs. 1, 3(c) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/3)
 
-[^key-085523233d65d441cf94d775c038ef24]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9)
+[^c-085523233d65d441cf94d775c038ef24]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9)
 
-[^key-4a5118a2dda217d658dea548ba8c44dc]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13)
+[^c-4a5118a2dda217d658dea548ba8c44dc]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13)
 
-[^key-33b1440d3f7a092065e6a97837bbb269]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/9)
+[^c-33b1440d3f7a092065e6a97837bbb269]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/9)
 
-[^key-fd8168b9a052766d9ac78ad8f0eea1d4]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/13)
+[^c-fd8168b9a052766d9ac78ad8f0eea1d4]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/13)
 
-[^key-82cf33b7bf8287677d8be67fcbe87b3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3) substituted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/1993/774/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/3))
+[^c-82cf33b7bf8287677d8be67fcbe87b3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3) substituted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/1993/774/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/3))
 
-[^key-3ae5d0a69d0dc8fabf9a0188a5e3333f]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [reg. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/3089/schedule/2)
+[^c-3ae5d0a69d0dc8fabf9a0188a5e3333f]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [reg. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/3089/schedule/2)
 
-[^key-d759425f80787d0090bddecc9e61a343]: Textual amendment: Sums in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/i) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/i)
+[^c-d759425f80787d0090bddecc9e61a343]: Textual amendment: Sums in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/i) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/i)
 
-[^key-a98ae1c41c224997166496acd3e4acc6]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/i)
+[^c-a98ae1c41c224997166496acd3e4acc6]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/i)
 
-[^key-d22c3b6c6c814b7a45ca358469c4584b]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/ii)
+[^c-d22c3b6c6c814b7a45ca358469c4584b]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/ii)
 
-[^key-7b02f2afd08c3ed256377d9b6316343b]: Textual amendment: Sums in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/ii) and (W.)(1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/ii)
+[^c-7b02f2afd08c3ed256377d9b6316343b]: Textual amendment: Sums in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/ii) and (W.)(1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/ii)
 
-[^key-3164c9d915d5dee9e2fce09ff36ad838]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/iii)
+[^c-3164c9d915d5dee9e2fce09ff36ad838]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/iii)
 
-[^key-de674544b10f495419a893fd2159d495]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/iv)
+[^c-de674544b10f495419a893fd2159d495]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/iv)
 
-[^key-898938e066e9bd7904c0cf97dafcb5d9]: Textual amendment: Sum in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by virtue of [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/iii) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/iii)
+[^c-898938e066e9bd7904c0cf97dafcb5d9]: Textual amendment: Sum in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by virtue of [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/iii) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/iii)
 
-[^key-b1a3c2d83afe19d04846bf15e7893c3a]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/v)
+[^c-b1a3c2d83afe19d04846bf15e7893c3a]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/v)
 
-[^key-79fc7c1d03ab1026b9f0b2ca9bb7e443]: Textual amendment: Sum in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/a) substituted (E.) (1.10.2003) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/b/i) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/wsi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1013/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/wsi/2004/1013/regulation/3/b/i)
+[^c-79fc7c1d03ab1026b9f0b2ca9bb7e443]: Textual amendment: Sum in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/a) substituted (E.) (1.10.2003) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/b/i) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/wsi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1013/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/wsi/2004/1013/regulation/3/b/i)
 
-[^key-459605132ca684dc35c2a5b385b64ae6]: Textual amendment: Sum in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/a) substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/b)
+[^c-459605132ca684dc35c2a5b385b64ae6]: Textual amendment: Sum in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/a) substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/b)
 
-[^key-665ce78843e8c48dac4d4bf0d08cbce4]: Textual amendment: Words in [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/b) substituted (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/b/ii)
+[^c-665ce78843e8c48dac4d4bf0d08cbce4]: Textual amendment: Words in [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/b) substituted (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/b/ii)
 
-[^key-8a989343df4b63a60f8a1358e361c604]: Textual amendment: Words in [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/b) substituted (E.) (1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2007 (S.I. 2007/501)](https://www.legislation.gov.uk/uksi/2007/501), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/501/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2007/501/regulation/2/2)
+[^c-8a989343df4b63a60f8a1358e361c604]: Textual amendment: Words in [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/b) substituted (E.) (1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2007 (S.I. 2007/501)](https://www.legislation.gov.uk/uksi/2007/501), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/501/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2007/501/regulation/2/2)
 
-[^key-d1569400bc3e7b0275b61823ee4504c4]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/1998/3089/regulation/6/c)
+[^c-d1569400bc3e7b0275b61823ee4504c4]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/1998/3089/regulation/6/c)
 
-[^key-a03e277b2628b8a09de3e98274120c45]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) added (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [reg. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/3089/schedule/1)
+[^c-a03e277b2628b8a09de3e98274120c45]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) added (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [reg. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/3089/schedule/1)
 
-[^key-0b54754c1a5d5a721b38e4a5fbd0c491]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/3/a)
+[^c-0b54754c1a5d5a721b38e4a5fbd0c491]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/3/a)
 
-[^key-e4eeff250461ee974c80dff4e72ab443]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/3/b)
+[^c-e4eeff250461ee974c80dff4e72ab443]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/3/b)

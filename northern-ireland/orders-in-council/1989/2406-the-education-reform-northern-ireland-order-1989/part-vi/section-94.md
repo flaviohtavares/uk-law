@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Before formulating in respect of any controlled school which is eligible for controlled integrated status any proposal under Article 14(1)(c), (d) or (e) of the principal Order, the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] shall consult the Board of Governors of the school.
+(1) Before formulating in respect of any controlled school which is eligible for controlled integrated status any proposal under Article 14(1)(c), (d) or (e) of the principal Order, the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] shall consult the Board of Governors of the school.
 
 (2) Where a proposal for acquisition of controlled integrated status is approved in relation to a school, no proposal shall be submitted under Article 14 of the principal Order in respect of that school between the date on which the proposal for acquisition of controlled integrated status is approved and the proposed date of implementation of that proposal.
 
@@ -40,4 +40,4 @@ that proposal shall be treated as if it had been published and approved under Ar
 
 ## Annotations
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

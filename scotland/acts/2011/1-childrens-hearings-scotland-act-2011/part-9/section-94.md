@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Child or relevant person unable to understand grounds[^key-9d6dfbf146990f86135f4c56eaf16458]
+## 94. Child or relevant person unable to understand grounds[^c-9d6dfbf146990f86135f4c56eaf16458]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) direct the Principal Reporter to make an application to the sheriff to determine whether the ground is established, or
 - (b) discharge the referral in relation to the ground.
 
-(3) In the case mentioned in subsection (1)(a), the chairing member need not comply with section 90(1) in relation to that ground as respects the person who would not be capable of understanding an explanation given in compliance with section 90(1) in relation to[^key-371be600d5deeb87d159a76744ed02a0] the ground.
+(3) In the case mentioned in subsection (1)(a), the chairing member need not comply with section 90(1) in relation to that ground as respects the person who would not be capable of understanding an explanation given in compliance with section 90(1) in relation to[^c-371be600d5deeb87d159a76744ed02a0] the ground.
 
 (4) If the grounds hearing gives a direction under subsection (2)(a), the chairing member must—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6dfbf146990f86135f4c56eaf16458]: Commencement: S. 94 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9d6dfbf146990f86135f4c56eaf16458]: Commencement: S. 94 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-371be600d5deeb87d159a76744ed02a0]: Textual amendment: Words in s. 94(3) substituted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/4); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-371be600d5deeb87d159a76744ed02a0]: Textual amendment: Words in s. 94(3) substituted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/4); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

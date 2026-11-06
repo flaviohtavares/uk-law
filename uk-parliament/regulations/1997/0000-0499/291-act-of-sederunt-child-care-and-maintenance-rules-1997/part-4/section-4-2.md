@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.2. Applications for registration of Part I order in another court[^key-27b7823e0fd815e004eaec021ffd7172]
+## 4.2. Applications for registration of Part I order in another court[^c-27b7823e0fd815e004eaec021ffd7172]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27b7823e0fd815e004eaec021ffd7172]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/uksi/1997/291/rule/4.2) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-27b7823e0fd815e004eaec021ffd7172]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/uksi/1997/291/rule/4.2) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

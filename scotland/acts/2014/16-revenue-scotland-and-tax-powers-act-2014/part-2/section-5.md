@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Payments into the Scottish Consolidated Fund[^key-c3bb4b7d13b235512b1473d64f3e5476]
+## 5. Payments into the Scottish Consolidated Fund[^c-c3bb4b7d13b235512b1473d64f3e5476]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3bb4b7d13b235512b1473d64f3e5476]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/16/section/5) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-c3bb4b7d13b235512b1473d64f3e5476]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/16/section/5) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — REPEALS[^key-cd1f098ca0b50bad45af7f6c70f605ba][^key-0618020f1ebe7fa72a8fadbd7813e8d3]
+## SCHEDULE 9 — REPEALS[^c-cd1f098ca0b50bad45af7f6c70f605ba][^c-0618020f1ebe7fa72a8fadbd7813e8d3]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ Section 184.
 
 ## Annotations
 
-[^key-cd1f098ca0b50bad45af7f6c70f605ba]: Commencement: Sch. 9 in operation at 24.6.2013 for specified purposes by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-cd1f098ca0b50bad45af7f6c70f605ba]: Commencement: Sch. 9 in operation at 24.6.2013 for specified purposes by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
-[^key-0618020f1ebe7fa72a8fadbd7813e8d3]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9) in operation at 1.1.2016 for specified purposes by [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)
+[^c-0618020f1ebe7fa72a8fadbd7813e8d3]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9) in operation at 1.1.2016 for specified purposes by [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)

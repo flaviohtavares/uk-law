@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22B. Renewal declarations[^key-34db2a37eedf37c21eb886da893092c4]
+## 22B. Renewal declarations[^c-34db2a37eedf37c21eb886da893092c4]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34db2a37eedf37c21eb886da893092c4]: Textual amendment: [Regs. 22A-22D](https://www.legislation.gov.uk/uksi/2001/497/regulation/22A) and cross-heading inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/9/6) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))
+[^c-34db2a37eedf37c21eb886da893092c4]: Textual amendment: [Regs. 22A-22D](https://www.legislation.gov.uk/uksi/2001/497/regulation/22A) and cross-heading inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/9/6) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))

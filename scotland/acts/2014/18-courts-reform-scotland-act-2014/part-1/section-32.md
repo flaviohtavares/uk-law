@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Power to re-allocate sheriffs principal, sheriffs and summary sheriffs between sheriffdoms[^key-7de821f53a9cfdc7508a88a14fc0205a]
+## 32. Power to re-allocate sheriffs principal, sheriffs and summary sheriffs between sheriffdoms[^c-7de821f53a9cfdc7508a88a14fc0205a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de821f53a9cfdc7508a88a14fc0205a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/18/section/32) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-7de821f53a9cfdc7508a88a14fc0205a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/18/section/32) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

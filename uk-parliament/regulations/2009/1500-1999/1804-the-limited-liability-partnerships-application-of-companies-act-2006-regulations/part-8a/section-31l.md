@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31L. Protection from disclosure[^key-cbd587a2ddd5805ac892a01382fd8b5c]
+## 31L. Protection from disclosure[^c-cbd587a2ddd5805ac892a01382fd8b5c]
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 790ZF applies[^key-2ede7a4dbe202ed9319c6839eeb8b593] to LLPs.
+(1) Section 790ZF applies[^c-2ede7a4dbe202ed9319c6839eeb8b593] to LLPs.
 
-(2) As that section applies[^key-fce6ae59187103fde22334c1bed40b84] to LLPs—
+(2) As that section applies[^c-fce6ae59187103fde22334c1bed40b84] to LLPs—
 
 - (a) read references to a company as references to an LLP;
 - (b) read references to a director as a reference to a member of an LLP; and
-- (c)[^key-2668209068777f4258d1c3e83df877ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2668209068777f4258d1c3e83df877ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-04e741bc5e19eb948db5cdd1519a85f3] Section 790ZH applies to LLPs, modified so that it reads as follows—
+(3)[^c-04e741bc5e19eb948db5cdd1519a85f3] Section 790ZH applies to LLPs, modified so that it reads as follows—
 
 > **790ZH. Offence of failing to comply with protection of secured information provisions**
 >
@@ -46,12 +46,12 @@ summary: ''
 
 ## Annotations
 
-[^key-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)
+[^c-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)
 
-[^key-2ede7a4dbe202ed9319c6839eeb8b593]: Textual amendment: Words in [reg. 31L(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/1) substituted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/9/a)
+[^c-2ede7a4dbe202ed9319c6839eeb8b593]: Textual amendment: Words in [reg. 31L(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/1) substituted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/9/a)
 
-[^key-fce6ae59187103fde22334c1bed40b84]: Textual amendment: Words in [reg. 31L(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/2) substituted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/9/b)
+[^c-fce6ae59187103fde22334c1bed40b84]: Textual amendment: Words in [reg. 31L(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/2) substituted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/9/b)
 
-[^key-2668209068777f4258d1c3e83df877ae]: Textual amendment: [Reg. 31L(2)(c)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/2/c) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/234/regulation/24); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-2668209068777f4258d1c3e83df877ae]: Textual amendment: [Reg. 31L(2)(c)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/2/c) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/234/regulation/24); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-04e741bc5e19eb948db5cdd1519a85f3]: Textual amendment: [Reg. 31L(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/3) inserted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/9/c)
+[^c-04e741bc5e19eb948db5cdd1519a85f3]: Textual amendment: [Reg. 31L(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31L/3) inserted (27.1.2025) by [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/9/c)

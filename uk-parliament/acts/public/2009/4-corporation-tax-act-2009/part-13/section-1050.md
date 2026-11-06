@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1050. R&D threshold[^key-97ef6146b854a02807ae3b4aefcded39]
+## 1050. R&D threshold[^c-97ef6146b854a02807ae3b4aefcded39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97ef6146b854a02807ae3b4aefcded39]: Textual amendment: S. 1050 omitted (with effect in accordance with Sch. 3 para. 39 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/3/5)
+[^c-97ef6146b854a02807ae3b4aefcded39]: Textual amendment: S. 1050 omitted (with effect in accordance with Sch. 3 para. 39 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/3/5)

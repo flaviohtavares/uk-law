@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 858. Fungible assets[^key-40bb72db383f467c9fac4830baecdc39]
+## 858. Fungible assets[^c-40bb72db383f467c9fac4830baecdc39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40bb72db383f467c9fac4830baecdc39]: Textual amendment: S. 858 omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/5)
+[^c-40bb72db383f467c9fac4830baecdc39]: Textual amendment: S. 858 omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/5)

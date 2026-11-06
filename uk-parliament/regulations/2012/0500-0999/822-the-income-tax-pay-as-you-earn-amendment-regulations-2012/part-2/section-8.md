@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Death of pensioner[^key-bcf519ea1de8d0f9581ae37874d4eff0]
+## 8. Death of pensioner[^c-bcf519ea1de8d0f9581ae37874d4eff0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 39(1) (death of pensioner), before paragraph (1) insert—
 
 ## Annotations
 
-[^key-bcf519ea1de8d0f9581ae37874d4eff0]: Commencement: Reg. 8 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-bcf519ea1de8d0f9581ae37874d4eff0]: Commencement: Reg. 8 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

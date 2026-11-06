@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Adjournment by chair[^key-3e3e8137fe3aa4d2f36dbd6ba61af396]
+## 47. Adjournment by chair[^c-3e3e8137fe3aa4d2f36dbd6ba61af396]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e3e8137fe3aa4d2f36dbd6ba61af396]: Commencement: Rule 47 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-3e3e8137fe3aa4d2f36dbd6ba61af396]: Commencement: Rule 47 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

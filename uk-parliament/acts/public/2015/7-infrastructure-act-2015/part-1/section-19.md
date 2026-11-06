@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Consequential and transitional provision etc[^c22469071][^key-9f2e4712c10f37bd2323e1349b29d955]
+## 19. Consequential and transitional provision etc[^c22469071][^c-9f2e4712c10f37bd2323e1349b29d955]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ in connection with an order under section 1 or any other provision made by or un
 
 [^c22469071]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/7/section/19) partly in force; [s. 19](https://www.legislation.gov.uk/ukpga/2015/7/section/19) in force for specified purposes at Royal Assent, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1/a)
 
-[^key-9f2e4712c10f37bd2323e1349b29d955]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/7/section/19) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-9f2e4712c10f37bd2323e1349b29d955]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/7/section/19) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

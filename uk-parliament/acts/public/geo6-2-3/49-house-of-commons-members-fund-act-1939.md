@@ -31,66 +31,66 @@ House of Commons Members’ Fund Act 1939 (repealed)
 
 1939 c.49
 
-[^key-80881dfe31e80f9c649db28918c64161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80881dfe31e80f9c649db28918c64161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. The House of Commons Members’ Fund.[^key-80881dfe31e80f9c649db28918c64161]
+## 1. The House of Commons Members’ Fund.[^c-80881dfe31e80f9c649db28918c64161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Trustees of the fund.[^key-80881dfe31e80f9c649db28918c64161]
+## 2. Trustees of the fund.[^c-80881dfe31e80f9c649db28918c64161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supplementary provisions.[^key-80881dfe31e80f9c649db28918c64161]
+## 3. Supplementary provisions.[^c-80881dfe31e80f9c649db28918c64161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title.[^key-80881dfe31e80f9c649db28918c64161]
+## 4. Short title.[^c-80881dfe31e80f9c649db28918c64161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-80881dfe31e80f9c649db28918c64161] SCHEDULES
+[^c-80881dfe31e80f9c649db28918c64161] SCHEDULES
 
-## FIRST SCHEDULE — Limitations on payments out of the fund[^key-80881dfe31e80f9c649db28918c64161]
+## FIRST SCHEDULE — Limitations on payments out of the fund[^c-80881dfe31e80f9c649db28918c64161]
 
 Section 1.
 
-**1.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2A.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECOND SCHEDULE — Certain Provisions of Subsection (2) of Section Four of the Public Trustee Act, 1906, as modified for the purposes of this Act.[^key-80881dfe31e80f9c649db28918c64161]
+## SECOND SCHEDULE — Certain Provisions of Subsection (2) of Section Four of the Public Trustee Act, 1906, as modified for the purposes of this Act.[^c-80881dfe31e80f9c649db28918c64161]
 
 Section 2.
 
-**1.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-80881dfe31e80f9c649db28918c64161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## THIRD SCHEDULE[^key-80881dfe31e80f9c649db28918c64161]
+## THIRD SCHEDULE[^c-80881dfe31e80f9c649db28918c64161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80881dfe31e80f9c649db28918c64161]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(a)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/a)
+[^c-80881dfe31e80f9c649db28918c64161]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(a)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377A. Lessee under long funding finance leases: right-of-use leases[^key-71b26552f89183ce604ae05c3cd37ae7]
+## 377A. Lessee under long funding finance leases: right-of-use leases[^c-71b26552f89183ce604ae05c3cd37ae7]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71b26552f89183ce604ae05c3cd37ae7]: Textual amendment: [S. 377A](https://www.legislation.gov.uk/ukpga/2010/4/section/377A) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(5)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/5)
+[^c-71b26552f89183ce604ae05c3cd37ae7]: Textual amendment: [S. 377A](https://www.legislation.gov.uk/ukpga/2010/4/section/377A) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(5)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/5)

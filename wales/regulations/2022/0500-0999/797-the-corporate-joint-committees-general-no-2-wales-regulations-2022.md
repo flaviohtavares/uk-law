@@ -47,13 +47,13 @@ A draft of this instrument has been laid before and approved by resolution of Se
 
 ## PART 1 — Introduction
 
-### 1. Title and coming into force[^key-cb3f166687b6db175fe633d4d2703a8f]
+### 1. Title and coming into force[^c-cb3f166687b6db175fe633d4d2703a8f]
 
 (1) The title of these Regulations is the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022.
 
 (2) These Regulations come into force on 15 July 2022.
 
-### 2. Interpretation[^key-dc855c32dedf649fed0b3edbda1f7149]
+### 2. Interpretation[^c-dc855c32dedf649fed0b3edbda1f7149]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
 
 ## PART 2 — Performance and information related to performance
 
-### 3. Amendment of the Public Audit (Wales) Act 2004 to provide for directions by the Auditor General for Wales[^key-4b56459ca9958ef6985602a919e53780]
+### 3. Amendment of the Public Audit (Wales) Act 2004 to provide for directions by the Auditor General for Wales[^c-4b56459ca9958ef6985602a919e53780]
 
 (1) The Public Audit (Wales) Act 2004[^f00004] is amended as follows.
 
@@ -82,7 +82,7 @@ In these Regulations—
 > - (a) in the case of a relevant body which is a corporate joint committee, electronic publication;
 > - (b) in the case of a relevant body which is not a corporate joint committee, the methods mentioned in subsections (2) and (3).
 
-### 4. Amendment of the Local Government and Elections (Wales) Act 2021 to apply Chapter 1 of Part 6 to corporate joint committees[^key-27e2a65502c8867bdc3dc854c95d6900]
+### 4. Amendment of the Local Government and Elections (Wales) Act 2021 to apply Chapter 1 of Part 6 to corporate joint committees[^c-27e2a65502c8867bdc3dc854c95d6900]
 
 After Chapter 1 of Part 6 of the 2021 Act (performance of county and county borough councils) insert—
 
@@ -92,7 +92,7 @@ After Chapter 1 of Part 6 of the 2021 Act (performance of county and county boro
 >
 > Schedule 10A applies Chapter 1 (performance, performance assessments and intervention: principal councils), except sections 113, 114 and 115, to a corporate joint committee with the modifications set out in that Schedule.
 
-**5.**[^key-22b2e5c0819f6c8d79cf2641a7227700] After Schedule 10 to the 2021 Act insert—
+**5.**[^c-22b2e5c0819f6c8d79cf2641a7227700] After Schedule 10 to the 2021 Act insert—
 
 > **SCHEDULE 10A — (introduced by section 115A)**
 >
@@ -337,13 +337,13 @@ After Chapter 1 of Part 6 of the 2021 Act (performance of county and county boro
 >
 > .
 
-### 6.[^key-f3edb8bf8514292e699305b85c4ee141]
+### 6.[^c-f3edb8bf8514292e699305b85c4ee141]
 
 (1) In the title of Part 6 of the 2021 Act, after “PRINCIPAL COUNCILS” insert “AND CORPORATE JOINT COMMITTEES”.
 
 (2) In the title of Chapter 1 of that Part, after “INTERVENTION” insert “: PRINCIPAL COUNCILS”.
 
-### 7. Amendment of section 159 of the Local Government and Elections (Wales) Act 2021[^key-2a5f83bba58a3ca32f71e9aa62bc38fb]
+### 7. Amendment of section 159 of the Local Government and Elections (Wales) Act 2021[^c-2a5f83bba58a3ca32f71e9aa62bc38fb]
 
 In section 159 of the 2021 Act (information sharing between regulators, the Auditor General for Wales and the Welsh Ministers)—
 
@@ -365,7 +365,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 
 ### Duties in relation to overview and scrutiny
 
-#### 8. Duty to co-operate on overview and scrutiny[^key-3b49adce775a11fd44a827f4f8756ef0]
+#### 8. Duty to co-operate on overview and scrutiny[^c-3b49adce775a11fd44a827f4f8756ef0]
 
 (1) This Regulation applies where—
 
@@ -396,7 +396,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 - (b) a joint overview and scrutiny committee appointed under the Local Authorities (Joint Overview and Scrutiny Committees) (Wales) Regulations 2013[^f00005] where the appointing authorities are constituent councils of the corporate joint committee;
 - (c) a sub-committee of a committee described in paragraph (a) or (b).
 
-#### 9. Duty to have regard[^key-be6813bc0dd824950376b44d3ebaafce]
+#### 9. Duty to have regard[^c-be6813bc0dd824950376b44d3ebaafce]
 
 (1) This regulation applies where—
 
@@ -414,7 +414,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 
 (4) Regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (discharge of functions by other persons)[^f00006] does not apply to the duty imposed by paragraph (2)(a).
 
-#### 10. Exempt Information[^key-d1f99a95803a37cad5f45e96942c5abe]
+#### 10. Exempt Information[^c-d1f99a95803a37cad5f45e96942c5abe]
 
 (1) The descriptions of information which are, for the purposes of this Part, exempt information are those for the time being specified in Part 4 of Schedule 12A to the Local Government Act 1972 as modified in its application to this Part by paragraph (2) subject to any qualifications contained in Part 5 of that Schedule as so modified.
 
@@ -427,7 +427,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 
 ### Governance and audit sub-committees
 
-#### 11. Appointment of a chairperson and deputy[^key-4650f493e4cfd91bdec89ebdb66521ff]
+#### 11. Appointment of a chairperson and deputy[^c-4650f493e4cfd91bdec89ebdb66521ff]
 
 (1) A governance and audit sub-committee of a corporate joint committee must appoint—
 
@@ -438,7 +438,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 
 (3) The member appointed as the chairperson may not also be a member of a county council or county borough council in Wales.
 
-#### 12. Proceedings etc.[^key-6f48ee970b7b09c040f35c7f0b682678]
+#### 12. Proceedings etc.[^c-6f48ee970b7b09c040f35c7f0b682678]
 
 (1) A meeting of the governance and audit sub-committee of a corporate joint committee (“the sub-committee”) is to be chaired—
 
@@ -458,7 +458,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 
 (6) But a person is not obliged under paragraph (5) to answer any question which the person would be entitled to refuse to answer in, or for the purposes of, proceedings in a court in England and Wales.
 
-#### 13. Frequency of governance and audit sub-committee meetings[^key-8dee0fccdbcbcf5bbcc3e4b8ab3ec0fd]
+#### 13. Frequency of governance and audit sub-committee meetings[^c-8dee0fccdbcbcf5bbcc3e4b8ab3ec0fd]
 
 (1) The governance and audit sub-committee of a corporate joint committee (“the sub-committee”) must meet once in every calendar year.
 
@@ -473,7 +473,7 @@ In section 159 of the 2021 Act (information sharing between regulators, the Audi
 
 ### Interpretation etc.
 
-#### 14. Interpretation of this Part[^key-d716238f83a60fe24ba4d638a428644c]
+#### 14. Interpretation of this Part[^c-d716238f83a60fe24ba4d638a428644c]
 
 In this Part—
 
@@ -488,11 +488,11 @@ In this Part—
 
 ## PART 4 — Standing Orders
 
-### 15. Standing orders in respect of procedures[^key-0e29ccd4a55cbb58e49798821a2538b6]
+### 15. Standing orders in respect of procedures[^c-0e29ccd4a55cbb58e49798821a2538b6]
 
 In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of relevant authorities to adopt certain procedural standing orders), in subsection (4)(a), after “below” insert “, a corporate joint committee”.
 
-### 16. Standing orders in respect of contracts[^key-82c70a616b495d83db56af356f3f6f70]
+### 16. Standing orders in respect of contracts[^c-82c70a616b495d83db56af356f3f6f70]
 
 (1) A corporate joint committee must make standing orders with respect to the making of contracts by or on behalf of the corporate joint committee for—
 
@@ -510,7 +510,7 @@ In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of rel
 
 ## PART 5 — Miscellaneous and consequential amendments
 
-### 17. The Mid Wales Corporate Joint Committee Regulations 2021[^key-61a66255f2c74462ed797fd7716938c7]
+### 17. The Mid Wales Corporate Joint Committee Regulations 2021[^c-61a66255f2c74462ed797fd7716938c7]
 
 (1) The Mid Wales Corporate Joint Committee Regulations 2021[^f00008] are amended as follows.
 
@@ -535,7 +535,7 @@ In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of rel
 
   > (2A) If a person described in sub-paragraph (2)(b) (“**P**”) ceases to be a member of a constituent council, P also ceases to be a member of the governance and audit sub-committee.
 
-### 18. The South East Wales Corporate Joint Committee Regulations 2021[^key-98a9c77277970215a18a17f0cd6ba001]
+### 18. The South East Wales Corporate Joint Committee Regulations 2021[^c-98a9c77277970215a18a17f0cd6ba001]
 
 (1) The South East Wales Corporate Joint Committee Regulations 2021[^f00009] are amended as follows.
 
@@ -560,7 +560,7 @@ In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of rel
 
   > (2A) If a person described in sub-paragraph (2)(b) (“**P**”) ceases to be a member of a constituent council, P also ceases to be a member of the governance and audit sub-committee.
 
-### 19. The North Wales Corporate Joint Committee Regulations 2021[^key-b84bbe229f3324bf11ca91593f06e3f7]
+### 19. The North Wales Corporate Joint Committee Regulations 2021[^c-b84bbe229f3324bf11ca91593f06e3f7]
 
 (1) The North Wales Corporate Joint Committee Regulations 2021[^f00010] are amended as follows.
 
@@ -585,7 +585,7 @@ In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of rel
 
   > (2A) If a person described in sub-paragraph (2)(b) (“**P**”) ceases to be a member of a constituent council, P also ceases to be a member of the governance and audit sub-committee.
 
-### 20. The South West Wales Corporate Joint Committee Regulations 2021[^key-06695307f4116e262cf5682a95e059c2]
+### 20. The South West Wales Corporate Joint Committee Regulations 2021[^c-06695307f4116e262cf5682a95e059c2]
 
 (1) The South West Wales Corporate Joint Committee Regulations 2021[^f00011] are amended as follows.
 
@@ -610,7 +610,7 @@ In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of rel
 
   > (2A) If a person described in sub-paragraph (2)(b) (“**P**”) ceases to be a member of a constituent council, P also ceases to be a member of the governance and audit sub-committee.
 
-### 21. Local Government Act 2003[^key-ebc88c923b8b9da5e8daf9c5af763431]
+### 21. Local Government Act 2003[^c-ebc88c923b8b9da5e8daf9c5af763431]
 
 (1) The Local Government Act 2003[^f00012] is amended as follows.
 
@@ -625,7 +625,7 @@ In section 20 of the Local Government and Housing Act 1989[^f00007] (duty of rel
 > - (a) a county council, county borough council or community council in Wales;
 > - (b) a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021.
 
-### 22. Public Audit (Wales) Act 2004[^key-f1cc5fee80c3e1c82bc516d5755d52d1]
+### 22. Public Audit (Wales) Act 2004[^c-f1cc5fee80c3e1c82bc516d5755d52d1]
 
 In section 54 of the Public Audit (Wales) Act 2004 (restriction on disclosure of information)—
 
@@ -634,13 +634,13 @@ In section 54 of the Public Audit (Wales) Act 2004 (restriction on disclosure of
   - (ii) in paragraph (b), after “Chapter 1” insert “or 1A”;
 - (b) in subsection (2)(b), after “Chapter 1” insert “or 1A”.
 
-### 23. Well-being of Future Generations (Wales) Act 2015[^key-58fc634ea59acfbeb0d14ada7f795793]
+### 23. Well-being of Future Generations (Wales) Act 2015[^c-58fc634ea59acfbeb0d14ada7f795793]
 
 In paragraph 1 of Schedule 1 to the Well-being of Future Generations (Wales) Act 2015[^f00013] (reports by public bodies of progress in meeting well-being objectives), after sub-paragraph (2A) insert—
 
 > (2B) In respect of any financial year, a corporate joint committee may publish its report under this paragraph and its report under section 91(1) of the Local Government and Elections (Wales) Act 2021 (as applied to corporate joint committees by section 115A of and Schedule 10A to that Act) in the same document.
 
-### 24. Local Government and Elections (Wales) Act 2021[^key-02b4bd85c102405be8d8e8fed2012924]
+### 24. Local Government and Elections (Wales) Act 2021[^c-02b4bd85c102405be8d8e8fed2012924]
 
 In section 174(5) of the 2021 Act (regulations under the 2021 Act)—
 
@@ -698,74 +698,74 @@ A copy of the regulatory impact assessment relating to the establishment of corp
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-cb3f166687b6db175fe633d4d2703a8f]: Commencement: Reg. 1 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-cb3f166687b6db175fe633d4d2703a8f]: Commencement: Reg. 1 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-dc855c32dedf649fed0b3edbda1f7149]: Commencement: Reg. 2 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-dc855c32dedf649fed0b3edbda1f7149]: Commencement: Reg. 2 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
 [^f00003]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-4b56459ca9958ef6985602a919e53780]: Commencement: Reg. 3 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-4b56459ca9958ef6985602a919e53780]: Commencement: Reg. 3 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00004]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23).
 
-[^key-27e2a65502c8867bdc3dc854c95d6900]: Commencement: Reg. 4 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-27e2a65502c8867bdc3dc854c95d6900]: Commencement: Reg. 4 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-22b2e5c0819f6c8d79cf2641a7227700]: Commencement: Reg. 5 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-22b2e5c0819f6c8d79cf2641a7227700]: Commencement: Reg. 5 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-f3edb8bf8514292e699305b85c4ee141]: Commencement: Reg. 6 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-f3edb8bf8514292e699305b85c4ee141]: Commencement: Reg. 6 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-2a5f83bba58a3ca32f71e9aa62bc38fb]: Commencement: Reg. 7 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-2a5f83bba58a3ca32f71e9aa62bc38fb]: Commencement: Reg. 7 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-3b49adce775a11fd44a827f4f8756ef0]: Commencement: Reg. 8 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-3b49adce775a11fd44a827f4f8756ef0]: Commencement: Reg. 8 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2013/1050 (W. 112)](https://www.legislation.gov.uk/wsi/2013/1050).
 
-[^key-be6813bc0dd824950376b44d3ebaafce]: Commencement: Reg. 9 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-be6813bc0dd824950376b44d3ebaafce]: Commencement: Reg. 9 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2021/1349 (W. 348)](https://www.legislation.gov.uk/wsi/2021/1349).
 
-[^key-d1f99a95803a37cad5f45e96942c5abe]: Commencement: Reg. 10 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-d1f99a95803a37cad5f45e96942c5abe]: Commencement: Reg. 10 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-4650f493e4cfd91bdec89ebdb66521ff]: Commencement: Reg. 11 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-4650f493e4cfd91bdec89ebdb66521ff]: Commencement: Reg. 11 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-6f48ee970b7b09c040f35c7f0b682678]: Commencement: Reg. 12 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-6f48ee970b7b09c040f35c7f0b682678]: Commencement: Reg. 12 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-8dee0fccdbcbcf5bbcc3e4b8ab3ec0fd]: Commencement: Reg. 13 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-8dee0fccdbcbcf5bbcc3e4b8ab3ec0fd]: Commencement: Reg. 13 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-d716238f83a60fe24ba4d638a428644c]: Commencement: Reg. 14 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-d716238f83a60fe24ba4d638a428644c]: Commencement: Reg. 14 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-0e29ccd4a55cbb58e49798821a2538b6]: Commencement: Reg. 15 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-0e29ccd4a55cbb58e49798821a2538b6]: Commencement: Reg. 15 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00007]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-82c70a616b495d83db56af356f3f6f70]: Commencement: Reg. 16 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-82c70a616b495d83db56af356f3f6f70]: Commencement: Reg. 16 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-61a66255f2c74462ed797fd7716938c7]: Commencement: Reg. 17 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-61a66255f2c74462ed797fd7716938c7]: Commencement: Reg. 17 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2021/342 (W. 96)](https://www.legislation.gov.uk/wsi/2021/342).
 
-[^key-98a9c77277970215a18a17f0cd6ba001]: Commencement: Reg. 18 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-98a9c77277970215a18a17f0cd6ba001]: Commencement: Reg. 18 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2021/343 (W. 97)](https://www.legislation.gov.uk/wsi/2021/343).
 
-[^key-b84bbe229f3324bf11ca91593f06e3f7]: Commencement: Reg. 19 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-b84bbe229f3324bf11ca91593f06e3f7]: Commencement: Reg. 19 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2021/339 (W. 93)](https://www.legislation.gov.uk/wsi/2021/339).
 
-[^key-06695307f4116e262cf5682a95e059c2]: Commencement: Reg. 20 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-06695307f4116e262cf5682a95e059c2]: Commencement: Reg. 20 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2021/352 (W. 104)](https://www.legislation.gov.uk/wsi/2021/352).
 
-[^key-ebc88c923b8b9da5e8daf9c5af763431]: Commencement: Reg. 21 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-ebc88c923b8b9da5e8daf9c5af763431]: Commencement: Reg. 21 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00012]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-f1cc5fee80c3e1c82bc516d5755d52d1]: Commencement: Reg. 22 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-f1cc5fee80c3e1c82bc516d5755d52d1]: Commencement: Reg. 22 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
-[^key-58fc634ea59acfbeb0d14ada7f795793]: Commencement: Reg. 23 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-58fc634ea59acfbeb0d14ada7f795793]: Commencement: Reg. 23 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
 
 [^f00013]: Footnote: [2015 anaw 2](https://www.legislation.gov.uk/anaw/2015/2).
 
-[^key-02b4bd85c102405be8d8e8fed2012924]: Commencement: Reg. 24 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)
+[^c-02b4bd85c102405be8d8e8fed2012924]: Commencement: Reg. 24 in force at 15.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2)

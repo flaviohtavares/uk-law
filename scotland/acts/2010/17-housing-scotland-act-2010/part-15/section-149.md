@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. HRA designation orders: removal of Ministerial involvement[^key-1efe07599d3662eb7225fc8bdde36e08]
+## 149. HRA designation orders: removal of Ministerial involvement[^c-1efe07599d3662eb7225fc8bdde36e08]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1efe07599d3662eb7225fc8bdde36e08]: Commencement: S. 149 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-1efe07599d3662eb7225fc8bdde36e08]: Commencement: S. 149 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

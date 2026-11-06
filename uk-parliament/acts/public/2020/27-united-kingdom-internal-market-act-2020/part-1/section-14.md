@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Sale of goods complying with local law[^key-8dc4252cbbc4e1cdbef64ee0aa82e531]
+## 14. Sale of goods complying with local law[^c-8dc4252cbbc4e1cdbef64ee0aa82e531]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Part prevents goods produced in or imported into a part of the U
 
 ## Annotations
 
-[^key-8dc4252cbbc4e1cdbef64ee0aa82e531]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/27/section/14) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-8dc4252cbbc4e1cdbef64ee0aa82e531]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/27/section/14) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

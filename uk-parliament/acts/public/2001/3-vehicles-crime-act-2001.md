@@ -36,115 +36,115 @@ An Act to regulate motor salvage operators and registration plate suppliers; to 
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## Part 1 — REGULATION OF MOTOR SALVAGE OPERATORS[^key-7fc665d292f6f8b58974b28ba261a95e]
+## Part 1 — REGULATION OF MOTOR SALVAGE OPERATORS[^c-7fc665d292f6f8b58974b28ba261a95e]
 
 *Extent: E+W*
 
-### Registration[^key-7fc665d292f6f8b58974b28ba261a95e]
+### Registration[^c-7fc665d292f6f8b58974b28ba261a95e]
 
-#### 1. Requirement of registration for motor salvage operators[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Registers of motor salvage operators[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 1. Requirement of registration for motor salvage operators[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Applications for registration and renewal of registration[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 2. Registers of motor salvage operators[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Cancellation of registration[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 3. Applications for registration and renewal of registration[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Right to make representations[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 4. Cancellation of registration[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Appeals[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 5. Right to make representations[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Keeping of records et ceteralaetc.[^key-7fc665d292f6f8b58974b28ba261a95e]
-
-#### 7. Keeping of records[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 6. Appeals[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Notification of destruction of motor vehicles[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+### Keeping of records et ceteralaetc.[^c-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 7. Keeping of records[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary provisions and offences[^key-7fc665d292f6f8b58974b28ba261a95e]
-
-#### 9. Rights to enter and inspect premises[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 8. Notification of destruction of motor vehicles[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Offence of making false statements[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+### Supplementary provisions and offences[^c-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 9. Rights to enter and inspect premises[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Notification requirements[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 10. Offence of making false statements[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Offence of giving false particulars on sale for salvage[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 11. Notification requirements[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### General[^key-7fc665d292f6f8b58974b28ba261a95e]
-
-#### 13. Application of “fit and proper” test to companies et ceteralaetc.[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 12. Offence of giving false particulars on sale for salvage[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Proceedings for offences under Part 1[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+### General[^c-7fc665d292f6f8b58974b28ba261a95e]
+
+#### 13. Application of “fit and proper” test to companies et ceteralaetc.[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Power to amend or repeal private or local Acts[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 14. Proceedings for offences under Part 1[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Interpretation of Part 1[^key-7fc665d292f6f8b58974b28ba261a95e][^key-7fc665d292f6f8b58974b28ba261a95e]
+#### 15. Power to amend or repeal private or local Acts[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2 — REGULATION OF REGISTRATION PLATE SUPPLIERS[^key-4f6aeac58017689657d22a477adf21c3]
+#### 16. Interpretation of Part 1[^c-7fc665d292f6f8b58974b28ba261a95e][^c-7fc665d292f6f8b58974b28ba261a95e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — REGULATION OF REGISTRATION PLATE SUPPLIERS[^c-4f6aeac58017689657d22a477adf21c3]
 
 *Extent: E+W*
 
@@ -152,7 +152,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 #### 17. Requirement of registration for registration plate suppliers[^c455065]
 
-(1) Any person who carries on business as a registration plate supplier [^key-85caf9a5a0e6d91476c5cbd6032d5ac8]... without being registered by the Secretary of State shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(1) Any person who carries on business as a registration plate supplier [^c-85caf9a5a0e6d91476c5cbd6032d5ac8]... without being registered by the Secretary of State shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) For the purposes of this Part a person carries on business as a registration plate supplier if he—
 
@@ -176,22 +176,22 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) If the request is for information in the form of a copy (certified to be true) of the register or of an extract from it, the Secretary of State shall, subject to subsection (6) and such fee (if any) as may be prescribed, supply the information in that form.
 
-(5) Any such certified copy shall be evidence (or, in Scotland, sufficient evidence)[^key-e89b4ebe15f5a8aa418da6f5e472609c] of the matters mentioned in it.
+(5) Any such certified copy shall be evidence (or, in Scotland, sufficient evidence)[^c-e89b4ebe15f5a8aa418da6f5e472609c] of the matters mentioned in it.
 
 (6) The Secretary of State may by regulations specify—
 
 - (a) descriptions of persons who are not entitled to be supplied with information under subsection (3); and
 - (b) descriptions of information which shall not be supplied under that subsection.
 
-(7) The Secretary of State may make all of the information contained in the register or information so contained of a particular description available [^key-485740bc797f553255171e3982841ad5]... for use by constables for the purpose of investigating offences under this Part.
+(7) The Secretary of State may make all of the information contained in the register or information so contained of a particular description available [^c-485740bc797f553255171e3982841ad5]... for use by constables for the purpose of investigating offences under this Part.
 
 (8) The Secretary of State may by regulations determine the circumstances in which any of the information to which constables have been given access under subsection (7) may be further disclosed by them.
 
-(9)[^key-3b8b41d55cc30ce6830913ab18ce746b] In this section, “ **constables** ” includes—
+(9)[^c-3b8b41d55cc30ce6830913ab18ce746b] In this section, “ **constables** ” includes—
 
-- (a)[^key-2a5996d179890c161c80388015f4874b] members of the civilian staff of a police force, including the metropolitan police force, (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011),
+- (a)[^c-2a5996d179890c161c80388015f4874b] members of the civilian staff of a police force, including the metropolitan police force, (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011),
 - (aa) persons employed by the Common Council of the City of London who are under the direction and control of the Commissioner of Police for the City of London,
-- (b)[^key-1d7024747a06b78bd45f4d4a344525ab] police staff within the meaning of the Police and Fire Reform (Scotland) Act 2012, and
+- (b)[^c-1d7024747a06b78bd45f4d4a344525ab] police staff within the meaning of the Police and Fire Reform (Scotland) Act 2012, and
 - (c) persons employed by the British Transport Police Authority under section 27(1) of the Railways and Transport Safety Act 2003 who are under the direction and control of the Chief Constable of the British Transport Police Force.
 
 #### 19. Applications for registration[^c455067]
@@ -241,7 +241,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 but may not do so until the order concerned has effect.
 
-(6) In this section “**appeal**” includes an application under section 111 of the Magistrates’ Courts Act 1980 (c. 43) or Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981[^key-2aa5c25581e7aa992117a1c20b81e9a8] (application by way of case stated).
+(6) In this section “**appeal**” includes an application under section 111 of the Magistrates’ Courts Act 1980 (c. 43) or Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981[^c-2aa5c25581e7aa992117a1c20b81e9a8] (application by way of case stated).
 
 #### 21. Cancellation of registration by the Secretary of State[^c455069]
 
@@ -290,7 +290,7 @@ but may not do so until the order concerned has effect.
 - (b) the time within which such an appeal may be brought; and
 - (c) the date on which the cancellation is to have effect.
 
-#### 23. Appeals: Part 2[^key-5d308b458a22c3ab5a2d10c2bf87a410][^c455071]
+#### 23. Appeals: Part 2[^c-5d308b458a22c3ab5a2d10c2bf87a410][^c455071]
 
 (1) An appeal against the cancellation by the Secretary of State under section 21 of a person's registration may be brought—
 
@@ -338,7 +338,7 @@ has passed.
 
 (3) Regulations under this section may specify provisions of the regulations as provisions to which subsection (4) applies.
 
-(4)[^key-f58d1e91529397c064a5448e38df0103][^key-138ca50f98c6c32837d15957b6a06fd0] A person who contravenes any provision to which this subsection applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(4)[^c-f58d1e91529397c064a5448e38df0103][^c-138ca50f98c6c32837d15957b6a06fd0] A person who contravenes any provision to which this subsection applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (5) In proceedings for an offence under subsection (4) it shall be a defence for the accused to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -348,7 +348,7 @@ has passed.
 
 (2) Regulations under this section may specify provisions of the regulations as provisions to which subsection (3) applies.
 
-(3)[^key-3d664339bc96a08e4ef3151e7a909bdf] A person who contravenes any provision to which this subsection applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(3)[^c-3d664339bc96a08e4ef3151e7a909bdf] A person who contravenes any provision to which this subsection applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (4) In proceedings for an offence under subsection (3) it shall be a defence for the accused to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -363,9 +363,9 @@ has passed.
 - (a) require production of, and inspect, any registration plates kept at premises falling within subsection (1); and
 - (b) require production of, inspect and take copies of or extracts from any records which the person carrying on business as a registration plate supplier is required to keep at such premises by virtue of this Part.
 
-(3) Subsection (4) applies where, on an application made by a constable or an authorised person, a justice of the peace , or (in Scotland) a justice of the peace, magistrate or sheriff,[^key-525f7ca2db82576bdbee079c55c34e7d] is satisfied that admission to premises specified in the application is reasonably required in order to secure compliance with the provisions of this Part, or to ascertain whether those provisions are being complied with.
+(3) Subsection (4) applies where, on an application made by a constable or an authorised person, a justice of the peace , or (in Scotland) a justice of the peace, magistrate or sheriff,[^c-525f7ca2db82576bdbee079c55c34e7d] is satisfied that admission to premises specified in the application is reasonably required in order to secure compliance with the provisions of this Part, or to ascertain whether those provisions are being complied with.
 
-(4) The justice of the peace, magistrate or sheriff[^key-51ee6f41b7152097fed3c5f419cc0d9b] may issue a warrant authorising a constable or (as the case may be) an authorised person to enter and inspect the premises concerned.
+(4) The justice of the peace, magistrate or sheriff[^c-51ee6f41b7152097fed3c5f419cc0d9b] may issue a warrant authorising a constable or (as the case may be) an authorised person to enter and inspect the premises concerned.
 
 (5) A constable or an authorised person—
 
@@ -376,10 +376,10 @@ has passed.
 
 (7) Any person who obstructs an authorised person in the exercise of his powers under subsection (1) or (2) or under a warrant issued under subsection (4) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-(8) In this section “**an authorised person**” means a person authorised for the purposes of this section—[^key-e589c06f16a397afc916f4d97808f98e]
+(8) In this section “**an authorised person**” means a person authorised for the purposes of this section—[^c-e589c06f16a397afc916f4d97808f98e]
 
 - (a) by the Secretary of State, or
-- (b) (except in Northern Ireland)[^key-76b9f1d6bc889177c73cb6c4234c0161] by a local authority in respect of premises situated in the area of the local authority.
+- (b) (except in Northern Ireland)[^c-76b9f1d6bc889177c73cb6c4234c0161] by a local authority in respect of premises situated in the area of the local authority.
 
 #### 27. Notification requirements: Part 2[^c455075]
 
@@ -393,36 +393,36 @@ has passed.
 
 (5) In proceedings for an offence under subsection (4) it shall be a defence for the accused to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
-#### 28. Offences relating to plates etc.[^c455076][^key-b1bd46ab9c8ab2ed6039753db3109271]
+#### 28. Offences relating to plates etc.[^c455076][^c-b1bd46ab9c8ab2ed6039753db3109271]
 
-(1) A person who sells a plate or other device which is not a vehicle[^key-7908c8eb8dd8c82307fa98fa321744d8] registration plate as a vehicle registration plate knowing that it is not a vehicle registration plate or being reckless as to whether it is a vehicle registration plate shall be guilty of an offence.
+(1) A person who sells a plate or other device which is not a vehicle[^c-7908c8eb8dd8c82307fa98fa321744d8] registration plate as a vehicle registration plate knowing that it is not a vehicle registration plate or being reckless as to whether it is a vehicle registration plate shall be guilty of an offence.
 
-(1ZA)[^key-f7f5c68049174cc01662bacd7a773ee1] A person who sells a plate or other device which is not a trailer registration plate as a trailer registration plate knowing that it is not a trailer registration plate or being reckless as to whether it is a trailer registration plate shall be guilty of an offence.
+(1ZA)[^c-f7f5c68049174cc01662bacd7a773ee1] A person who sells a plate or other device which is not a trailer registration plate as a trailer registration plate knowing that it is not a trailer registration plate or being reckless as to whether it is a trailer registration plate shall be guilty of an offence.
 
-(1A)[^key-b07e9d179ffdbfe04048281460ae4ecd] A person who sells a plate or other device which is not a vehicle[^key-8bc839ad317738ac542b87e06bdbd3de] registration plate only because the registration mark displayed by it—
+(1A)[^c-b07e9d179ffdbfe04048281460ae4ecd] A person who sells a plate or other device which is not a vehicle[^c-8bc839ad317738ac542b87e06bdbd3de] registration plate only because the registration mark displayed by it—
 
 - (a) does not comply with regulations under paragraph (a) of subsection (4) of section 23 of the 1994 Act, or
 - (b) is displayed otherwise than in accordance with regulations under paragraph (b) of that subsection,
 
 (or both) shall be guilty of an offence.
 
-(1AA)[^key-3887210a73e6a6db5e7fb419e7b94e4d] A person who sells a plate or other device which is not a trailer registration plate only because the registration mark displayed by it—
+(1AA)[^c-3887210a73e6a6db5e7fb419e7b94e4d] A person who sells a plate or other device which is not a trailer registration plate only because the registration mark displayed by it—
 
 - (a) does not comply with regulations made by virtue of paragraph (b) of subsection (4) of section 15 of the 2018 Act, or
 - (b) is displayed otherwise than in accordance with regulations made by virtue of paragraph (c) and (d)(i) of that subsection,
 
 (or both) shall be guilty of an offence.
 
-(1B) The Secretary of State may by regulations provide that the offence under subsection (1A) or (1AA)[^key-5b4aedab1c5fd6e7ba01d45b82f41283] is not committed in circumstances prescribed by the regulations.
+(1B) The Secretary of State may by regulations provide that the offence under subsection (1A) or (1AA)[^c-5b4aedab1c5fd6e7ba01d45b82f41283] is not committed in circumstances prescribed by the regulations.
 
 (2) A person who—
 
-- (a) supplies a plate, device or other object to a person who is carrying on a business which consists wholly or partly in activities which are unlawful by virtue of subsection (1), (1ZA), (1A) or (1AA)[^key-fe55c20fb6d8e4bae0c92089eab433b5]; and
+- (a) supplies a plate, device or other object to a person who is carrying on a business which consists wholly or partly in activities which are unlawful by virtue of subsection (1), (1ZA), (1A) or (1AA)[^c-fe55c20fb6d8e4bae0c92089eab433b5]; and
 - (b) knows or reasonably suspects that the plate, device or other object will be used for the purposes of that other person’s unlawful activities;
 
 shall be guilty of an offence.
 
-(3) A person guilty of an offence under this section[^key-88b28426707119a28f2c4c86f70ed3ba] shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+(3) A person guilty of an offence under this section[^c-88b28426707119a28f2c4c86f70ed3ba] shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 #### 29. Offence of supplying plates etc. to unregistered persons[^c455077]
 
@@ -439,12 +439,12 @@ shall be guilty of an offence.
 
 #### 30. Proceedings for offences under Part 2[^c455078]
 
-(1)[^key-b2752dedaa9a10295787a5d40c7ae71a] Proceedings for an offence under this Part shall not be instituted in England and Wales[^key-da721c4bc58bc97300406ec28ca2cbc6] except—
+(1)[^c-b2752dedaa9a10295787a5d40c7ae71a] Proceedings for an offence under this Part shall not be instituted in England and Wales[^c-da721c4bc58bc97300406ec28ca2cbc6] except—
 
-- (a) by the Secretary of State,[^key-8a93e9926df52c201249db96f4887158] a local authority or a constable; or
+- (a) by the Secretary of State,[^c-8a93e9926df52c201249db96f4887158] a local authority or a constable; or
 - (b) in any other case, with the consent of the Attorney General.
 
-(2)[^key-9124d7f06f65df45faa2212da979aadc] Proceedings for an offence under this Part shall not be instituted in Northern Ireland except—
+(2)[^c-9124d7f06f65df45faa2212da979aadc] Proceedings for an offence under this Part shall not be instituted in Northern Ireland except—
 
 - (a) by the Secretary of State or a constable; or
 - (b) in any other case, with the consent of the Advocate General for Northern Ireland.
@@ -457,7 +457,7 @@ shall be guilty of an offence.
 
 - “**the 1994 Act**” means the Vehicle Excise and Registration Act 1994 (c.22);
 
-  “the 2018 Act” means the Haulage Permits and Trailer Registration Act 2018;[^key-76ffed30839a1d8c8c22da2f558c9bb8]
+  “the 2018 Act” means the Haulage Permits and Trailer Registration Act 2018;[^c-76ffed30839a1d8c8c22da2f558c9bb8]
 
   “**carrying on business as a registration plate supplier**” has the meaning given by section 17(2);
 
@@ -465,10 +465,10 @@ shall be guilty of an offence.
 
   “**exempt person**” means any person who is an exempt person by virtue of regulations made under section 17(3)(b);
 
-  “[^key-e8de6a4f34a40d550b05a2d693446280] **local authority** ” means—
+  “[^c-e8de6a4f34a40d550b05a2d693446280] **local authority** ” means—
 
   - (a) in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London in its capacity as a local authority or the Council of the Isles of Scilly;
-  - (b) in relation to Wales, a county council or a county borough council;or[^key-192c53e2b66a4aad577ac9da503ae16e]
+  - (b) in relation to Wales, a county council or a county borough council;or[^c-192c53e2b66a4aad577ac9da503ae16e]
   - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
 
   “**notice**” means notice in writing;
@@ -481,9 +481,9 @@ shall be guilty of an offence.
 
   “**registered**” (and cognate expressions) have the meaning given by section 17(4);
 
-  “**registration mark**” means a registration mark within the meaning given by section 23(1) of the 1994 Act or section 15[^key-004ef8a7016285b832dc92954859a51d](1) of the 2018 Act;
+  “**registration mark**” means a registration mark within the meaning given by section 23(1) of the 1994 Act or section 15[^c-004ef8a7016285b832dc92954859a51d](1) of the 2018 Act;
 
-  “**registration plate**” means a trailer registration plate or a vehicle registration plate[^key-88ca131fc0df6ee08e85f0bd32cb7a0e]
+  “**registration plate**” means a trailer registration plate or a vehicle registration plate[^c-88ca131fc0df6ee08e85f0bd32cb7a0e]
 - “**selling registration plates**” is to be construed in accordance with any regulations made under section 17(3)(a).
 - “trailer registration plate” means a plate or other device which—
   - (a) displays (whether alone or in conjunction with other information) in accordance with regulations made by virtue of section 15(4)(c) and (d)(i) of the 2018 Act a registration mark which complies with regulations made by virtue of section 15(4)(b) of that Act;
@@ -496,7 +496,7 @@ shall be guilty of an offence.
 
 (2) The reference in section 22(5) to representations being made in writing includes a reference to representations being made in a text which—
 
-- (a)[^key-eef34761914d14cc4fa28034090d4be8] is transmitted by means of an electronic communications network or by other means but while in an electronic form;
+- (a)[^c-eef34761914d14cc4fa28034090d4be8] is transmitted by means of an electronic communications network or by other means but while in an electronic form;
 - (b) is received in legible form; and
 - (c) is capable of being used for subsequent reference.
 
@@ -607,13 +607,13 @@ After section 27 of the Vehicle Excise and Registration Act 1994 (c.22) (registr
 
 **Not yet in force.**
 
-#### 35. Notification by scrap metal dealers of destruction of motor vehicles[^key-53e231e8f40c6102003a23f65c2098d9]
+#### 35. Notification by scrap metal dealers of destruction of motor vehicles[^c-53e231e8f40c6102003a23f65c2098d9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 36. Access to certain motor insurance information[^key-36b833cf5c217ddd3d3fa1b257be7d81]
+#### 36. Access to certain motor insurance information[^c-36b833cf5c217ddd3d3fa1b257be7d81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -642,7 +642,7 @@ After section 27 of the Vehicle Excise and Registration Act 1994 (c.22) (registr
 
 #### 38. Unified power for Secretary of State to fund speed cameras etc.
 
-(1)[^key-6145acbfc8b120ce266b56dd28627147] The Secretary of State may make payments in respect of the whole or any part of the expenditure of a public authority in relation to—
+(1)[^c-6145acbfc8b120ce266b56dd28627147] The Secretary of State may make payments in respect of the whole or any part of the expenditure of a public authority in relation to—
 
 - (a) the prevention or detection of offences to which subsection (2) applies; or
 - (b) any enforcement action or proceedings in respect of such offences or any alleged such offences.
@@ -665,8 +665,8 @@ After section 27 of the Vehicle Excise and Registration Act 1994 (c.22) (registr
 (5) In this section “**public authority**” means—
 
 - (a) any highway authority (within the meaning of the Highways Act 1980 (c.66));
-- (b) any police and crime commissioner, the Mayor's Office for Policing and Crime[^key-0fb8b517e8493011f9571ecaadf4597d] or the Common Council of the City of London in its capacity as a police authority; and[^key-0b44d4aa1cf136532bc31b17cb3922ee]
-- (c)[^key-1996582771875b1382b143f117490cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any police and crime commissioner, the Mayor's Office for Policing and Crime[^c-0fb8b517e8493011f9571ecaadf4597d] or the Common Council of the City of London in its capacity as a police authority; and[^c-0b44d4aa1cf136532bc31b17cb3922ee]
+- (c)[^c-1996582771875b1382b143f117490cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) any body or other person not falling within paragraphs (a) to (c) and so far as exercising functions of a public nature.
 
 ## Part 4 — SUPPLEMENTARY
@@ -679,7 +679,7 @@ After section 27 of the Vehicle Excise and Registration Act 1994 (c.22) (registr
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(3)[^key-df198cedc81077e949ffda4ccb50ba08] Where an offence under this Act committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership commits the offence and shall be liable to be proceeded against and punished accordingly.
+(3)[^c-df198cedc81077e949ffda4ccb50ba08] Where an offence under this Act committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership commits the offence and shall be liable to be proceeded against and punished accordingly.
 
 #### 40. Service of notices
 
@@ -702,7 +702,7 @@ After section 27 of the Vehicle Excise and Registration Act 1994 (c.22) (registr
 
 (5) In relation to that document, that address shall be treated as his proper address for the purposes of this section and section 7 of the Interpretation Act 1978 in its application to this section, instead of that determined under subsection (2).
 
-(6) Any notice in writing or other document required or authorised by virtue of this Act to be served on any person may be served on that person by transmitting the text of the notice or other document to him by means of an electronic communications network[^key-2692619663897e1897c9994cb32afa82] or by other means but while in an electronic form provided the text is received by that person in legible form and is capable of being used for subsequent reference.
+(6) Any notice in writing or other document required or authorised by virtue of this Act to be served on any person may be served on that person by transmitting the text of the notice or other document to him by means of an electronic communications network[^c-2692619663897e1897c9994cb32afa82] or by other means but while in an electronic form provided the text is received by that person in legible form and is capable of being used for subsequent reference.
 
 (7) This section does not apply to any document if rules of court make provision about its service.
 
@@ -740,11 +740,11 @@ Parts 1 to 3 and section 43 and the Schedule shall come into force on such day a
 
 #### 45. Extent
 
-(1) Part 1[^key-6f091c1b9e5ed227eaa1fbb55cff0e2f] and sections 35, 37 and 38 extend to England and Wales only.
+(1) Part 1[^c-6f091c1b9e5ed227eaa1fbb55cff0e2f] and sections 35, 37 and 38 extend to England and Wales only.
 
-(2) Part 2 and sections[^key-3007d2583496b47a37c35de85eaf3b4a] 32 to 34 extend to England and Wales, Scotland and Northern Ireland.
+(2) Part 2 and sections[^c-3007d2583496b47a37c35de85eaf3b4a] 32 to 34 extend to England and Wales, Scotland and Northern Ireland.
 
-(3)[^key-ffe462c8f0fd36c8fad262692f7d84ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ffe462c8f0fd36c8fad262692f7d84ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any amendment by the Schedule of an enactment has the same extent as the enactment amended.
 
@@ -762,9 +762,9 @@ Section 43
 
 **Not yet in force.**
 
-**1.**[^key-86837614fbf1d5e6d1ec1b1806118ce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-86837614fbf1d5e6d1ec1b1806118ce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-873619ccb2340c974c49b8fddcb38802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-873619ccb2340c974c49b8fddcb38802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Vehicle Excise and Registration Act 1994 (c.22)
 
@@ -831,123 +831,123 @@ Section 43
 
 ## Annotations
 
-[^key-7fc665d292f6f8b58974b28ba261a95e]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/2001/3/part/1) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/i), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-7fc665d292f6f8b58974b28ba261a95e]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/2001/3/part/1) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(i)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/i), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
 
-[^key-4f6aeac58017689657d22a477adf21c3]: Modification: Pt. 2 extended (Scotland and Northern Ireland) (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1864/article/3))
+[^c-4f6aeac58017689657d22a477adf21c3]: Modification: Pt. 2 extended (Scotland and Northern Ireland) (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1864/article/3))
 
 [^c455065]: Commencement: S. 17 wholly in force; s. 17 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002, s. 17(3)-(4) otherwise in force at 1.1.2003 and s. 17(1) otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}, {4}
 
-[^key-85caf9a5a0e6d91476c5cbd6032d5ac8]: Textual amendment: Words in s. 17(1) repealed (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1), [Sch. 7(15)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/15); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-85caf9a5a0e6d91476c5cbd6032d5ac8]: Textual amendment: Words in s. 17(1) repealed (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1), [Sch. 7(15)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/15); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
 [^c455066]: Commencement: S. 18 wholly in force; s. 18 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 18 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
-[^key-e89b4ebe15f5a8aa418da6f5e472609c]: Textual amendment: Words in s. 18(5) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-e89b4ebe15f5a8aa418da6f5e472609c]: Textual amendment: Words in s. 18(5) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-485740bc797f553255171e3982841ad5]: Textual amendment: Words in s. 18(7) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 106](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/106); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-485740bc797f553255171e3982841ad5]: Textual amendment: Words in s. 18(7) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 106](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/106); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-3b8b41d55cc30ce6830913ab18ce746b]: Textual amendment: S. 18(9) inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/123/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/k)
+[^c-3b8b41d55cc30ce6830913ab18ce746b]: Textual amendment: S. 18(9) inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/123/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/k)
 
-[^key-2a5996d179890c161c80388015f4874b]: Textual amendment: S. 18(9)(a)(aa) substituted (16.1.2012) for s. 18(9)(a) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 275](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/275); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-2a5996d179890c161c80388015f4874b]: Textual amendment: S. 18(9)(a)(aa) substituted (16.1.2012) for s. 18(9)(a) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 275](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/275); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-1d7024747a06b78bd45f4d4a344525ab]: Textual amendment: S. 18(9)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/36)
+[^c-1d7024747a06b78bd45f4d4a344525ab]: Textual amendment: S. 18(9)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/36)
 
 [^c455067]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2001/3/section/19) wholly in force; [s. 19](https://www.legislation.gov.uk/ukpga/2001/3/section/19) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 19 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
 [^c455068]: Commencement: S. 20 wholly in force; s. 20 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 20 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
-[^key-2aa5c25581e7aa992117a1c20b81e9a8]: Textual amendment: Words in s. 20(6) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/5), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-2aa5c25581e7aa992117a1c20b81e9a8]: Textual amendment: Words in s. 20(6) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/5), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
 [^c455069]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2001/3/section/21) wholly in force; [s. 21](https://www.legislation.gov.uk/ukpga/2001/3/section/21) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 21 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
 [^c455070]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2001/3/section/22) wholly in force; [s. 22](https://www.legislation.gov.uk/ukpga/2001/3/section/22) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 22 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
-[^key-5d308b458a22c3ab5a2d10c2bf87a410]: Textual amendment: S. 23 substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/6), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-5d308b458a22c3ab5a2d10c2bf87a410]: Textual amendment: S. 23 substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/6), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
 [^c455071]: Commencement: S. 23 wholly in force; s. 23 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 23 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
 [^c455072]: Commencement: S. 24 wholly in force; s. 24 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002, s. 24(1)-(3) otherwise in force at 1.1.2003 and s. 24(4)(5) otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}, {4}
 
-[^key-f58d1e91529397c064a5448e38df0103]: Modification: S. 24(4) applied (1.3.2003) by SI 2002/2977 reg. 7(3) (as amended by [Vehicles Crime (Registration of Registration Plate Suppliers) (England and Wales) (Amendment) Regulations 2003 (S.I. 2003/228)](https://www.legislation.gov.uk/uksi/2003/228), [regs. 1](https://www.legislation.gov.uk/uksi/2003/228/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/228/regulation/2))
+[^c-f58d1e91529397c064a5448e38df0103]: Modification: S. 24(4) applied (1.3.2003) by SI 2002/2977 reg. 7(3) (as amended by [Vehicles Crime (Registration of Registration Plate Suppliers) (England and Wales) (Amendment) Regulations 2003 (S.I. 2003/228)](https://www.legislation.gov.uk/uksi/2003/228), [regs. 1](https://www.legislation.gov.uk/uksi/2003/228/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/228/regulation/2))
 
-[^key-138ca50f98c6c32837d15957b6a06fd0]: Modification: [S. 24(4)](https://www.legislation.gov.uk/ukpga/2001/3/section/24/4) applied (1.8.2008) by [Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008 (S.I. 2008/1715)](https://www.legislation.gov.uk/uksi/2008/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1715/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/7/6)
+[^c-138ca50f98c6c32837d15957b6a06fd0]: Modification: [S. 24(4)](https://www.legislation.gov.uk/ukpga/2001/3/section/24/4) applied (1.8.2008) by [Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008 (S.I. 2008/1715)](https://www.legislation.gov.uk/uksi/2008/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1715/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/7/6)
 
 [^c455073]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2001/3/section/25) wholly in force; [s. 25](https://www.legislation.gov.uk/ukpga/2001/3/section/25) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/3/part/2) (ss. 17-31) of the Act in force for certain purposes at 1.12.2002, s. 25(1)(2) otherwise in force at 1.1.2003 and s. 25(3)(4) otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}, {4}
 
-[^key-3d664339bc96a08e4ef3151e7a909bdf]: Modification: [S. 25(3)](https://www.legislation.gov.uk/ukpga/2001/3/section/25/3) applied (1.8.2008) by [Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008 (S.I. 2008/1715)](https://www.legislation.gov.uk/uksi/2008/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1715/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/6/10)
+[^c-3d664339bc96a08e4ef3151e7a909bdf]: Modification: [S. 25(3)](https://www.legislation.gov.uk/ukpga/2001/3/section/25/3) applied (1.8.2008) by [Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008 (S.I. 2008/1715)](https://www.legislation.gov.uk/uksi/2008/1715), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1715/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2008/1715/regulation/6/10)
 
 [^c455074]: Commencement: S. 26 wholly in force; s. 26 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 26 otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {4}
 
-[^key-525f7ca2db82576bdbee079c55c34e7d]: Textual amendment: Words in s. 26(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-525f7ca2db82576bdbee079c55c34e7d]: Textual amendment: Words in s. 26(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-51ee6f41b7152097fed3c5f419cc0d9b]: Textual amendment: Words in s. 26(4) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-51ee6f41b7152097fed3c5f419cc0d9b]: Textual amendment: Words in s. 26(4) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-e589c06f16a397afc916f4d97808f98e]: Textual amendment: Words in s. 26(8) substituted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/2), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+[^c-e589c06f16a397afc916f4d97808f98e]: Textual amendment: Words in s. 26(8) substituted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/2), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
 
-[^key-76b9f1d6bc889177c73cb6c4234c0161]: Textual amendment: Words in s. 26(8) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(c)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/c), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-76b9f1d6bc889177c73cb6c4234c0161]: Textual amendment: Words in s. 26(8) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(7)(c)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/7/c), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
 [^c455075]: Commencement: S. 27 wholly in force; s. 27 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 27 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
 [^c455076]: Commencement: S. 28 wholly in force; s. 28 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 28 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
-[^key-b1bd46ab9c8ab2ed6039753db3109271]: Textual amendment: Words in s. 28 heading substituted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(7)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/7), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
+[^c-b1bd46ab9c8ab2ed6039753db3109271]: Textual amendment: Words in s. 28 heading substituted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(7)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/7), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
 
-[^key-7908c8eb8dd8c82307fa98fa321744d8]: Textual amendment: Word in s. 28(1) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/3)
+[^c-7908c8eb8dd8c82307fa98fa321744d8]: Textual amendment: Word in s. 28(1) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/3)
 
-[^key-f7f5c68049174cc01662bacd7a773ee1]: Textual amendment: S. 28(1ZA) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/4)
+[^c-f7f5c68049174cc01662bacd7a773ee1]: Textual amendment: S. 28(1ZA) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/4)
 
-[^key-b07e9d179ffdbfe04048281460ae4ecd]: Textual amendment: S. 28(1A)(1B) inserted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
+[^c-b07e9d179ffdbfe04048281460ae4ecd]: Textual amendment: S. 28(1A)(1B) inserted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
 
-[^key-8bc839ad317738ac542b87e06bdbd3de]: Textual amendment: Word in s. 28(1A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/5)
+[^c-8bc839ad317738ac542b87e06bdbd3de]: Textual amendment: Word in s. 28(1A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/5)
 
-[^key-3887210a73e6a6db5e7fb419e7b94e4d]: Textual amendment: S. 28(1AA) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/6)
+[^c-3887210a73e6a6db5e7fb419e7b94e4d]: Textual amendment: S. 28(1AA) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/6)
 
-[^key-5b4aedab1c5fd6e7ba01d45b82f41283]: Textual amendment: Words in s. 28(1B) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(7)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/7)
+[^c-5b4aedab1c5fd6e7ba01d45b82f41283]: Textual amendment: Words in s. 28(1B) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(7)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/7)
 
-[^key-fe55c20fb6d8e4bae0c92089eab433b5]: Textual amendment: Words in s. 28(2)(a) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(8)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/8)
+[^c-fe55c20fb6d8e4bae0c92089eab433b5]: Textual amendment: Words in s. 28(2)(a) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(8)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/8)
 
-[^key-88b28426707119a28f2c4c86f70ed3ba]: Textual amendment: Words in s. 28(3) substituted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/6), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
+[^c-88b28426707119a28f2c4c86f70ed3ba]: Textual amendment: Words in s. 28(3) substituted (1.11.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2006/49/section/45/6), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1862/article/4)
 
 [^c455077]: Commencement: S. 29 wholly in force; s. 29 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 29 otherwise in force at 1.3.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {4}
 
 [^c455078]: Commencement: S. 30 wholly in force; s. 30 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 30 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
-[^key-b2752dedaa9a10295787a5d40c7ae71a]: Textual amendment: S. 30 renumbered (31.7.2008) as s. 30(1) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-b2752dedaa9a10295787a5d40c7ae71a]: Textual amendment: S. 30 renumbered (31.7.2008) as s. 30(1) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-da721c4bc58bc97300406ec28ca2cbc6]: Textual amendment: Words in s. 30(1) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-da721c4bc58bc97300406ec28ca2cbc6]: Textual amendment: Words in s. 30(1) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-8a93e9926df52c201249db96f4887158]: Textual amendment: Words in s. 30(a) inserted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+[^c-8a93e9926df52c201249db96f4887158]: Textual amendment: Words in s. 30(a) inserted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
 
-[^key-9124d7f06f65df45faa2212da979aadc]: Textual amendment: S. 30(2)(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-9124d7f06f65df45faa2212da979aadc]: Textual amendment: S. 30(2)(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(8)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/8/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
 [^c455079]: Commencement: S. 31 wholly in force; s. 31 not in force at Royal Assent see s. 44; Pt. 2 (ss. 17-31) of the Act in force for certain purposes at 1.12.2002 and s. 31 otherwise in force at 1.1.2003 by [S.I. 2002/2957](https://www.legislation.gov.uk/uksi/2002/2957), arts. {2}, {3}
 
-[^key-76ffed30839a1d8c8c22da2f558c9bb8]: Textual amendment: Words in s. 31(1) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(10)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/10)
+[^c-76ffed30839a1d8c8c22da2f558c9bb8]: Textual amendment: Words in s. 31(1) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(10)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/10)
 
-[^key-e8de6a4f34a40d550b05a2d693446280]: Textual amendment: Words in s. 31(1) substituted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+[^c-e8de6a4f34a40d550b05a2d693446280]: Textual amendment: Words in s. 31(1) substituted (16.3.2007 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/44/4), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
 
-[^key-192c53e2b66a4aad577ac9da503ae16e]: Textual amendment: Words in s. 31(1) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/9), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-192c53e2b66a4aad577ac9da503ae16e]: Textual amendment: Words in s. 31(1) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/9), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-004ef8a7016285b832dc92954859a51d]: Textual amendment: Words in s. 31(1) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(11)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/11)
+[^c-004ef8a7016285b832dc92954859a51d]: Textual amendment: Words in s. 31(1) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(11)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/11)
 
-[^key-88ca131fc0df6ee08e85f0bd32cb7a0e]: Textual amendment: Words in s. 31(1) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(12)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/12)
+[^c-88ca131fc0df6ee08e85f0bd32cb7a0e]: Textual amendment: Words in s. 31(1) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 8(12)](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/8/12)
 
-[^key-eef34761914d14cc4fa28034090d4be8]: Textual amendment: Words in s. 31(2)(a) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 168](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/168) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-eef34761914d14cc4fa28034090d4be8]: Textual amendment: Words in s. 31(2)(a) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 168](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/168) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-53e231e8f40c6102003a23f65c2098d9]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2001/3/section/35) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/ii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-53e231e8f40c6102003a23f65c2098d9]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2001/3/section/35) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/ii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
 
-[^key-36b833cf5c217ddd3d3fa1b257be7d81]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2001/3/section/36) repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/a), [Sch. 7 para. 131](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/131), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-36b833cf5c217ddd3d3fa1b257be7d81]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2001/3/section/36) repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/a), [Sch. 7 para. 131](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/131), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
 
-[^key-6145acbfc8b120ce266b56dd28627147]: Modification: S. 38(1)(3)(4) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [38(1)](https://www.legislation.gov.uk/uksi/2018/644/article/38/1)
+[^c-6145acbfc8b120ce266b56dd28627147]: Modification: S. 38(1)(3)(4) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [38(1)](https://www.legislation.gov.uk/uksi/2018/644/article/38/1)
 
-[^key-0fb8b517e8493011f9571ecaadf4597d]: Textual amendment: Words in s. 38(5)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 276](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/276); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/64))
+[^c-0fb8b517e8493011f9571ecaadf4597d]: Textual amendment: Words in s. 38(5)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 276](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/276); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/64))
 
-[^key-0b44d4aa1cf136532bc31b17cb3922ee]: Textual amendment: Word in s. 38(5)(b) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 394(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/394/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-0b44d4aa1cf136532bc31b17cb3922ee]: Textual amendment: Word in s. 38(5)(b) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 394(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/394/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-1996582771875b1382b143f117490cfa]: Textual amendment: S. 38(5)(c) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 394(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/394/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-1996582771875b1382b143f117490cfa]: Textual amendment: S. 38(5)(c) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 394(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/394/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-df198cedc81077e949ffda4ccb50ba08]: Textual amendment: S. 39(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/10), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-df198cedc81077e949ffda4ccb50ba08]: Textual amendment: S. 39(3) inserted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/10), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-2692619663897e1897c9994cb32afa82]: Textual amendment: Words in s. 40(6) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 168](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/168) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2692619663897e1897c9994cb32afa82]: Textual amendment: Words in s. 40(6) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 168](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/168) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c444778]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2001/3/section/43) partly in force; [s. 43](https://www.legislation.gov.uk/ukpga/2001/3/section/43) not in force at Royal Assent see [s. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44); [s. 43](https://www.legislation.gov.uk/ukpga/2001/3/section/43) in force for the purposes of specified provisions of the Schedule: at 2.1.2002 by [S.I. 2001/4059](https://www.legislation.gov.uk/uksi/2001/4059), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/4059/article/2/b); at 17.9.2002 by [S.I. 2002/2377](https://www.legislation.gov.uk/uksi/2002/2377), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/2377/article/2/c)
 
@@ -961,12 +961,12 @@ Section 43
 
     [S. 44](https://www.legislation.gov.uk/ukpga/2001/3/section/44) power partly exercised: 1.12.2002, 1.1.2003 and 1.3.2003 appointed for specified provisions by S.I. {2002/2957}, arts. 1- 4
 
-[^key-6f091c1b9e5ed227eaa1fbb55cff0e2f]: Textual amendment: Words in s. 45(1) substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(11)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/11/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-6f091c1b9e5ed227eaa1fbb55cff0e2f]: Textual amendment: Words in s. 45(1) substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(11)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/11/a), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-3007d2583496b47a37c35de85eaf3b4a]: Textual amendment: Words in s. 45(2) substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(11)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/11/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
+[^c-3007d2583496b47a37c35de85eaf3b4a]: Textual amendment: Words in s. 45(2) substituted (31.7.2008) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 46(11)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/46/11/b), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1); [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2)
 
-[^key-ffe462c8f0fd36c8fad262692f7d84ba]: Textual amendment: [S. 45(3)](https://www.legislation.gov.uk/ukpga/2001/3/section/45/3) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-ffe462c8f0fd36c8fad262692f7d84ba]: Textual amendment: [S. 45(3)](https://www.legislation.gov.uk/ukpga/2001/3/section/45/3) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
 
-[^key-86837614fbf1d5e6d1ec1b1806118ce3]: Textual amendment: Sch. para. 1 repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(iii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/iii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-86837614fbf1d5e6d1ec1b1806118ce3]: Textual amendment: Sch. para. 1 repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(iii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/iii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
 
-[^key-873619ccb2340c974c49b8fddcb38802]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2001/3/schedule/paragraph/2) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(iii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/iii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-873619ccb2340c974c49b8fddcb38802]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2001/3/schedule/paragraph/2) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(d)(iii)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/d/iii), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))

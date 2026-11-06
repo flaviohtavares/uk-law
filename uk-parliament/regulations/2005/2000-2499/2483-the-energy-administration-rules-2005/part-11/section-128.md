@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Procedure on appeal[^key-0436da18fd7e9aea86d0552e64294b28]
+## 128. Procedure on appeal[^c-0436da18fd7e9aea86d0552e64294b28]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0436da18fd7e9aea86d0552e64294b28]: Commencement: Rule 128 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-0436da18fd7e9aea86d0552e64294b28]: Commencement: Rule 128 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

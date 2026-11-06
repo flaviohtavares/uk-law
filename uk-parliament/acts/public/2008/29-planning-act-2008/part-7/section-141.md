@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Keeping electric lines installed above ground[^key-5baaa06340fa541cf9d6c7f4a6d6c5f7]
+## 141. Keeping electric lines installed above ground[^c-5baaa06340fa541cf9d6c7f4a6d6c5f7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An order granting development consent may include provision authorising an elect
 
 ## Annotations
 
-[^key-5baaa06340fa541cf9d6c7f4a6d6c5f7]: Commencement: S. 141 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-5baaa06340fa541cf9d6c7f4a6d6c5f7]: Commencement: S. 141 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

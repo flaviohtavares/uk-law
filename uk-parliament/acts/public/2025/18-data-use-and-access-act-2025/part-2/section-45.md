@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Power of public authority to disclose information to registered person[^key-cafdf7fc4487094891469fc1b453bbeb]
+## 45. Power of public authority to disclose information to registered person[^c-cafdf7fc4487094891469fc1b453bbeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cafdf7fc4487094891469fc1b453bbeb]: Commencement: S. 45 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-cafdf7fc4487094891469fc1b453bbeb]: Commencement: S. 45 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Outstanding appeals against refusal of approval under regulations 18A or 18B of the 1992 Regulations[^key-db36c41656f3cfb56ceaeef38c858327]
+## 36. Outstanding appeals against refusal of approval under regulations 18A or 18B of the 1992 Regulations[^c-db36c41656f3cfb56ceaeef38c858327]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ the Local Health Board shall add that person’s name to its medical performers 
 
 ## Annotations
 
-[^key-db36c41656f3cfb56ceaeef38c858327]: Commencement: Art. 36 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-db36c41656f3cfb56ceaeef38c858327]: Commencement: Art. 36 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00044]: Footnote: Regulation 18G was substituted by [S.I. 1998/2838](https://www.legislation.gov.uk/uksi/1998/2838) and amended by [S.I. 2002/916 (W.104)](https://www.legislation.gov.uk/wsi/2002/916) and [2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896); regulation 18GG was inserted by [S.I. 2001/3742](https://www.legislation.gov.uk/uksi/2001/3742) and amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

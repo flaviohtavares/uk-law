@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Amount of the grant for fees for a course at a private institution[^key-aca98731b5ecb920cb2a8453ab054ae0]
+## 32. Amount of the grant for fees for a course at a private institution[^c-aca98731b5ecb920cb2a8453ab054ae0]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca98731b5ecb920cb2a8453ab054ae0]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2007/195/regulation/32) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-aca98731b5ecb920cb2a8453ab054ae0]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2007/195/regulation/32) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

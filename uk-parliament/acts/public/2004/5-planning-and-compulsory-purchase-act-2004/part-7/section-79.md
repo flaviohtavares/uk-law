@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Crown application of planning Acts[^key-00e0e89c1f2b984ac852eb89be0f1f82][^key-df2069baf177ee4973379e44b4389f63]
+## 79. Crown application of planning Acts[^c-00e0e89c1f2b984ac852eb89be0f1f82][^c-df2069baf177ee4973379e44b4389f63]
 
 *Extent: E+W*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00e0e89c1f2b984ac852eb89be0f1f82]: Commencement: S. 79 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-00e0e89c1f2b984ac852eb89be0f1f82]: Commencement: S. 79 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-df2069baf177ee4973379e44b4389f63]: Commencement: S. 79 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-df2069baf177ee4973379e44b4389f63]: Commencement: S. 79 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

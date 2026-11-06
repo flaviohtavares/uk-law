@@ -236,7 +236,7 @@ and, for the purposes of this section, a trade or profession is a business.
 
 (2) The Secretary of State may, from time to time, publish revisions to guidance under this section or revised guidance.
 
-(3) The Secretary of State must consult the Scottish Ministers and the Department of Justice in Northern Ireland[^key-6178f416372a383024ef70ec8eddce71] before publishing anything under this section.
+(3) The Secretary of State must consult the Scottish Ministers and the Department of Justice in Northern Ireland[^c-6178f416372a383024ef70ec8eddce71] before publishing anything under this section.
 
 (4) Publication under this section is to be in such manner as the Secretary of State considers appropriate.
 
@@ -248,9 +248,9 @@ and, for the purposes of this section, a trade or profession is a business.
 
 (1) No proceedings for an offence under this Act may be instituted in England and Wales except by or with the consent of—
 
-- (a) the Director of Public Prosecutions,or[^key-7377d739f3ae01510c14f96b601d16da]
-- (b) the Director of the Serious Fraud Office [^key-af0e77694a6998e450cc3f119c90cd8a]...
-- (c)[^key-af0e77694a6998e450cc3f119c90cd8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Director of Public Prosecutions,or[^c-7377d739f3ae01510c14f96b601d16da]
+- (b) the Director of the Serious Fraud Office [^c-af0e77694a6998e450cc3f119c90cd8a]...
+- (c)[^c-af0e77694a6998e450cc3f119c90cd8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) No proceedings for an offence under this Act may be instituted in Northern Ireland except by or with the consent of—
 
@@ -260,13 +260,13 @@ and, for the purposes of this section, a trade or profession is a business.
 (3) No proceedings for an offence under this Act may be instituted in England and Wales or Northern Ireland by a person—
 
 - (a) who is acting—
-  - (i) under the direction or instruction of the Director of Public Prosecutions or the Director of the Serious Fraud Office[^key-edf65ee899e4eabe82ea14a72c02bd17], or
+  - (i) under the direction or instruction of the Director of Public Prosecutions or the Director of the Serious Fraud Office[^c-edf65ee899e4eabe82ea14a72c02bd17], or
   - (ii) on behalf of such a Director, or
 - (b) to whom such a function has been assigned by such a Director,
 
 except with the consent of the Director concerned to the institution of the proceedings.
 
-(4) The Director of Public Prosecutions and the Director of the Serious Fraud Office[^key-725e9ea20d0aca68b03bf94c776a5440] must exercise personally any function under subsection (1), (2) or (3) of giving consent.
+(4) The Director of Public Prosecutions and the Director of the Serious Fraud Office[^c-725e9ea20d0aca68b03bf94c776a5440] must exercise personally any function under subsection (1), (2) or (3) of giving consent.
 
 (5) The only exception is if—
 
@@ -275,7 +275,7 @@ except with the consent of the Director concerned to the institution of the proc
 
 (6) In that case, the other person may exercise the function but must do so personally.
 
-(7) Subsections (4) to (6) apply instead of any other provisions which would otherwise have enabled any function of the Director of Public Prosecutions or the Director of the Serious Fraud Office[^key-f0dcb855509b65e5bd7bf1c8843f10cd] under subsection (1), (2) or (3) of giving consent to be exercised by a person other than the Director concerned.
+(7) Subsections (4) to (6) apply instead of any other provisions which would otherwise have enabled any function of the Director of Public Prosecutions or the Director of the Serious Fraud Office[^c-f0dcb855509b65e5bd7bf1c8843f10cd] under subsection (1), (2) or (3) of giving consent to be exercised by a person other than the Director concerned.
 
 (8) No proceedings for an offence under this Act may be instituted in Northern Ireland by virtue of section 36 of the Justice (Northern Ireland) Act 2002 (delegation of the functions of the Director of Public Prosecutions for Northern Ireland to persons other than the Deputy Director) except with the consent of the Director of Public Prosecutions for Northern Ireland to the institution of the proceedings.
 
@@ -290,7 +290,7 @@ except with the consent of the Director concerned to the institution of the proc
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both,
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years, or to a fine, or to both.
 
-(1A)[^key-708c5a045412472e15d66880ce00ee1e] In the application of this section in England and Wales, the reference in subsection (1)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(1A)[^c-708c5a045412472e15d66880ce00ee1e] In the application of this section in England and Wales, the reference in subsection (1)(a) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
 (2) Any other person guilty of an offence under section 1, 2 or 6 is liable—
 
@@ -301,7 +301,7 @@ except with the consent of the Director concerned to the institution of the proc
 
 (4) The reference in subsection (1)(a) to 12 months is to be read—
 
-- (a)[^key-64c172e56dac474913e7d7a8bff19207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-64c172e56dac474913e7d7a8bff19207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in its application to Northern Ireland,
 
 as a reference to 6 months.
@@ -449,7 +449,7 @@ This Act applies to individuals in the public service of the Crown as it applies
 
 (5) The power to make an order under this section—
 
-- (a) is exercisable by statutory instrument(subject to subsection (9A))[^key-36e774577be3e96257358b216eb4ada8],
+- (a) is exercisable by statutory instrument(subject to subsection (9A))[^c-36e774577be3e96257358b216eb4ada8],
 - (b) includes power to make transitional, transitory or saving provision,
 - (c) may, in particular, be exercised by amending, repealing, revoking or otherwise modifying any provision made by or under an enactment (including any Act passed in the same Session as this Act).
 
@@ -461,7 +461,7 @@ This Act applies to individuals in the public service of the Crown as it applies
 
 (9) A statutory instrument containing an order of the Scottish Ministers under this section which does not amend or repeal a provision of an Act of the Scottish Parliament or of a public general Act is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
-(9A)[^key-f637ca1e69ee2c51df5669203dd7be1e] The power of the Department of Justice in Northern Ireland to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (and not by statutory instrument).
+(9A)[^c-f637ca1e69ee2c51df5669203dd7be1e] The power of the Department of Justice in Northern Ireland to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (and not by statutory instrument).
 
 (9B) Subject to subsection (9C), an order of the Department of Justice in Northern Ireland made under this section is subject to affirmative resolution (within the meaning of section 41(4) of the Interpretation Act (Northern Ireland) 1954).
 
@@ -472,8 +472,8 @@ This Act applies to individuals in the public service of the Crown as it applies
 - “**devolved legislation**” means an Act of the Scottish Parliament, a Measure of the National Assembly for Wales or an Act of the Northern Ireland Assembly,
 - “**enactment**” includes an Act of the Scottish Parliament and Northern Ireland legislation,
 - “**relevant national authority**” means—
-  - (a) in the case of provision which would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament, the Scottish Ministers,[^key-771f4d1202858085e9ae77a18d61bcad]...
-  - (aa) in the case of provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998), the Department of Justice in Northern Ireland, and[^key-923d5f5d7214c46d0ae32954b050352b]
+  - (a) in the case of provision which would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament, the Scottish Ministers,[^c-771f4d1202858085e9ae77a18d61bcad]...
+  - (aa) in the case of provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998), the Department of Justice in Northern Ireland, and[^c-923d5f5d7214c46d0ae32954b050352b]
   - (b) in any other case, the Secretary of State.
 
 ### 18. Extent
@@ -524,9 +524,9 @@ Section 17(2)
 
 **1.** In section 2(3)(ba) of the Ministry of Defence Police Act 1987 (jurisdiction of members of Ministry of Defence Police Force) for “Prevention of Corruption Acts 1889 to 1916” substitute “ Bribery Act 2010 ”.
 
-### ...[^key-fbf31a56de75e6ba1c40224688c38f49]
+### ...[^c-fbf31a56de75e6ba1c40224688c38f49]
 
-**2.**[^key-fbf31a56de75e6ba1c40224688c38f49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fbf31a56de75e6ba1c40224688c38f49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### International Criminal Court Act 2001 (c. 17)
 
@@ -642,34 +642,34 @@ Section 17(3)
 
 ## Annotations
 
-[^key-6178f416372a383024ef70ec8eddce71]: Textual amendment: Words in s. 9(3) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-6178f416372a383024ef70ec8eddce71]: Textual amendment: Words in s. 9(3) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-7377d739f3ae01510c14f96b601d16da]: Textual amendment: Word in s. 10(1)(a) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(2)(a)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/2/a)
+[^c-7377d739f3ae01510c14f96b601d16da]: Textual amendment: Word in s. 10(1)(a) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(2)(a)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/2/a)
 
-[^key-af0e77694a6998e450cc3f119c90cd8a]: Textual amendment: S. 10(1)(c) and preceding word omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(2)(b)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/2/b)
+[^c-af0e77694a6998e450cc3f119c90cd8a]: Textual amendment: S. 10(1)(c) and preceding word omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(2)(b)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/2/b)
 
-[^key-edf65ee899e4eabe82ea14a72c02bd17]: Textual amendment: Words in s. 10(3)(a)(i) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/3)
+[^c-edf65ee899e4eabe82ea14a72c02bd17]: Textual amendment: Words in s. 10(3)(a)(i) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/3)
 
-[^key-725e9ea20d0aca68b03bf94c776a5440]: Textual amendment: Words in s. 10(4) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(4)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/4)
+[^c-725e9ea20d0aca68b03bf94c776a5440]: Textual amendment: Words in s. 10(4) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(4)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/4)
 
-[^key-f0dcb855509b65e5bd7bf1c8843f10cd]: Textual amendment: Words in s. 10(7) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(5)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/5)
+[^c-f0dcb855509b65e5bd7bf1c8843f10cd]: Textual amendment: Words in s. 10(7) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 74(5)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/74/5)
 
-[^key-708c5a045412472e15d66880ce00ee1e]: Textual amendment: [S. 11(1A)](https://www.legislation.gov.uk/ukpga/2010/23/section/11/1A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/22/2)
+[^c-708c5a045412472e15d66880ce00ee1e]: Textual amendment: [S. 11(1A)](https://www.legislation.gov.uk/ukpga/2010/23/section/11/1A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/22/2)
 
-[^key-64c172e56dac474913e7d7a8bff19207]: Textual amendment: [S. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2010/23/section/11/4/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/22/3)
+[^c-64c172e56dac474913e7d7a8bff19207]: Textual amendment: [S. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2010/23/section/11/4/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/22/3)
 
 [^c2030430]: Commencement: S. 17 wholly in force at 1.7.2011; s. 17(4)-(10) in force at Royal Assent, see s. 19(2) ; s. 17 in force otherwise at 1.7.2011 by [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418) , [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
 
-[^key-36e774577be3e96257358b216eb4ada8]: Textual amendment: Words in s. 17(5)(a) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2) , [19(3)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24) )
+[^c-36e774577be3e96257358b216eb4ada8]: Textual amendment: Words in s. 17(5)(a) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2) , [19(3)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24) )
 
-[^key-f637ca1e69ee2c51df5669203dd7be1e]: Textual amendment: S. 17(9A)-(9C) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2) , [19(3)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24) )
+[^c-f637ca1e69ee2c51df5669203dd7be1e]: Textual amendment: S. 17(9A)-(9C) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2) , [19(3)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24) )
 
-[^key-771f4d1202858085e9ae77a18d61bcad]: Textual amendment: Word in s. 17(10) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2) , [19(3)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24) )
+[^c-771f4d1202858085e9ae77a18d61bcad]: Textual amendment: Word in s. 17(10) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2) , [19(3)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24) )
 
-[^key-923d5f5d7214c46d0ae32954b050352b]: Textual amendment: Words in s. 17(10) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [19(3)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-923d5f5d7214c46d0ae32954b050352b]: Textual amendment: Words in s. 17(10) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [19(3)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/19/3/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
 [^c2030431]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/23/section/19) wholly in force at 1.7.2011; [s. 19(1)-(4)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1) in force at Royal Assent, see [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/2); [s. 19](https://www.legislation.gov.uk/ukpga/2010/23/section/19) in force otherwise at 1.7.2011 by [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
 
 [^c2124007]: Subordinate legislation: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1) power fully exercised: 1.7.2011 appointed by {[S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418)}, art. 2
 
-[^key-fbf31a56de75e6ba1c40224688c38f49]: Textual amendment: [Sch. 1 para. 2 and cross-heading](https://www.legislation.gov.uk/ukpga/2010/23/schedule/1/crossheading/criminal-justice-act-1987-c-38) omitted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 211(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/211/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/i)
+[^c-fbf31a56de75e6ba1c40224688c38f49]: Textual amendment: [Sch. 1 para. 2 and cross-heading](https://www.legislation.gov.uk/ukpga/2010/23/schedule/1/crossheading/criminal-justice-act-1987-c-38) omitted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 211(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/211/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/i)

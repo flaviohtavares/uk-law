@@ -28,11 +28,11 @@ summary: ''
 
 (4) The office-holders to whom this section applies are—
 
-- (a)[^c1365779][^key-11e6595387dcaa8c9104f0c882f388b1] the registrar of companies for England and Wales, Scotland or Northern Ireland;
+- (a)[^c1365779][^c-11e6595387dcaa8c9104f0c882f388b1] the registrar of companies for England and Wales, Scotland or Northern Ireland;
 - (b) the official receiver attached to any court;
 - (c) the Comptroller-General of Patents, Designs and Trade Marks;
 - (d) the Public Trustee;
-- (e)[^key-c939093ff835fe62f948cf8e4d31b331] a traffic commissioner;
+- (e)[^c-c939093ff835fe62f948cf8e4d31b331] a traffic commissioner;
 - (f) the registrar of approved driving instructors;
 - (g) the Registrar General of Births, Deaths and Marriages for Scotland;
 - (h) the Keeper of the Registers of Scotland; and
@@ -42,6 +42,6 @@ summary: ''
 
 [^c1365779]: Modification: S. 74(4)(a) applied (3.12.1998) by [1998 c. 48](https://www.legislation.gov.uk/ukpga/1998/48), [ss. 23](https://www.legislation.gov.uk/ukpga/1998/48/section/23), [25(3)](https://www.legislation.gov.uk/ukpga/1998/48/section/25/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1998/48/schedule/3/paragraph/4)
 
-[^key-11e6595387dcaa8c9104f0c882f388b1]: Textual amendment: S. 74(4)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 148(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/148/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-11e6595387dcaa8c9104f0c882f388b1]: Textual amendment: S. 74(4)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 148(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/148/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-c939093ff835fe62f948cf8e4d31b331]: Textual amendment: S. 74(4)(e) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-c939093ff835fe62f948cf8e4d31b331]: Textual amendment: S. 74(4)(e) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

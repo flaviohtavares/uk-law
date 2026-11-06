@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Private rights[^key-9ff6c55528020586ccc60dd0c3d4c1d3]
+## 22. Private rights[^c-9ff6c55528020586ccc60dd0c3d4c1d3]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-9ff6c55528020586ccc60dd0c3d4c1d3]: Commencement: Art. 22 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-9ff6c55528020586ccc60dd0c3d4c1d3]: Commencement: Art. 22 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Attendance, information and evidence.[^c11296801][^key-e95fcd64b72026bcb101e69190780b16]
+## 8. Attendance, information and evidence.[^c11296801][^c-e95fcd64b72026bcb101e69190780b16]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 [^c11296801]: Commencement: S. 8 wholly in force at 7.10.1996; s. 8 not in force at Royal Assent, see s. 41(2); s. 8 in force (12.12.1995) for the purpose of authorising the making of regulations by [S.I. 1995/3228](https://www.legislation.gov.uk/uksi/1995/3228), [art. 2(b)](https://www.legislation.gov.uk/uksi/1995/3228/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/1995/3228/schedule); s. 8 in force (7.10.1996) in so far as not already in force by [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/b)
 
-[^key-e95fcd64b72026bcb101e69190780b16]: Textual amendment: Ss. 6-6L substituted for ss. 6-10 (25.2.2013 for specified purposes, 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/49/3), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), art. 6)
+[^c-e95fcd64b72026bcb101e69190780b16]: Textual amendment: Ss. 6-6L substituted for ss. 6-10 (25.2.2013 for specified purposes, 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/49/3), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), art. 6)
 
 [^M_F_31dec74f-4b21-4d91-a45a-626128772cfd]: Textual amendment: Ss. 6-6L substituted for ss. 6-10 (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), ss. 49(3), 150(3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), art. 2(1), Sch. 1 para. 11
 

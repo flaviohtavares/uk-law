@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Disclosure of information[^M_I_2dfe1f09-f974-4845-fac9-e98181b85e49][^key-d77da171d25c56279892bb73fad37e1f][^key-c57b1804c5798d4093837697d11b5dcd]
+## 245. Disclosure of information[^M_I_2dfe1f09-f974-4845-fac9-e98181b85e49][^c-d77da171d25c56279892bb73fad37e1f][^c-c57b1804c5798d4093837697d11b5dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ section 19 of CRCA 2005 (offence of wrongful disclosure) applies in relation to 
 
 [^M_I_2dfe1f09-f974-4845-fac9-e98181b85e49]: Commencement: S. 245 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-d77da171d25c56279892bb73fad37e1f]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-d77da171d25c56279892bb73fad37e1f]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-c57b1804c5798d4093837697d11b5dcd]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-c57b1804c5798d4093837697d11b5dcd]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2026/11/section/245) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Certain Other Aircraft[^key-3aa0ae193c786c992871229c86081d7e]
+## 58. Certain Other Aircraft[^c-3aa0ae193c786c992871229c86081d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ except in accordance with the terms of any approval to do so granted under the l
 
 unless in either case the specified visual reference for landing is established and maintained from that height.
 
-(6) If, according to any available information, an aircraft would be required [^key-c18ffcd693cc259881b1e07299cff551]... to be flown in accordance with the Instrument Flight Rules at the aerodrome of intended landing, the pilot in command of the aircraft must select an alternate aerodrome before take-off unless no aerodrome suitable for that purpose is available.
+(6) If, according to any available information, an aircraft would be required [^c-c18ffcd693cc259881b1e07299cff551]... to be flown in accordance with the Instrument Flight Rules at the aerodrome of intended landing, the pilot in command of the aircraft must select an alternate aerodrome before take-off unless no aerodrome suitable for that purpose is available.
 
 (7) In this article—
 
@@ -52,6 +52,6 @@ unless in either case the specified visual reference for landing is established 
 
 ## Annotations
 
-[^key-3aa0ae193c786c992871229c86081d7e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2015/870/part/10) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [9](https://www.legislation.gov.uk/uksi/2016/155/article/9)
+[^c-3aa0ae193c786c992871229c86081d7e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2015/870/part/10) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [9](https://www.legislation.gov.uk/uksi/2016/155/article/9)
 
-[^key-c18ffcd693cc259881b1e07299cff551]: Textual amendment: Words in [art. 58(6)](https://www.legislation.gov.uk/uksi/2015/870/article/58/6) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 4](https://www.legislation.gov.uk/uksi/2021/751/article/4)
+[^c-c18ffcd693cc259881b1e07299cff551]: Textual amendment: Words in [art. 58(6)](https://www.legislation.gov.uk/uksi/2015/870/article/58/6) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 4](https://www.legislation.gov.uk/uksi/2021/751/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Persons that have ceased to be a VAP: duties under this Chapter[^key-51e1af89c8cd173e97ee12f637cdc9da]
+## 41. Persons that have ceased to be a VAP: duties under this Chapter[^c-51e1af89c8cd173e97ee12f637cdc9da]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ must comply with that duty.
 
 ## Annotations
 
-[^key-51e1af89c8cd173e97ee12f637cdc9da]: Commencement: S. 41 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-51e1af89c8cd173e97ee12f637cdc9da]: Commencement: S. 41 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

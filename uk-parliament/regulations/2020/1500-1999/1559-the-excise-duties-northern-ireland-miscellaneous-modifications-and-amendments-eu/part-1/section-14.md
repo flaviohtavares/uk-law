@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**14.**[^key-c13b096bac386811b933b9fca048acf4] In regulation 13, for paragraphs (1) to (3) substitute—
+**14.**[^c-c13b096bac386811b933b9fca048acf4] In regulation 13, for paragraphs (1) to (3) substitute—
 
 > **13.** (1) Where excise goods already released for consumption in an EU Member State are moved to Northern Ireland to be delivered to Northern Ireland for a commercial purpose, the excise duty point is the time when the movement ends in accordance with regulation 3(3A).
 >
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c13b096bac386811b933b9fca048acf4]: Textual amendment: Reg. 14 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/7)
+[^c-c13b096bac386811b933b9fca048acf4]: Textual amendment: Reg. 14 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/7)

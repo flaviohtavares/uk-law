@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Powers of National Assembly for Wales[^key-30900e7ddc2c39e8dede0996b27f6f10]
+## 235. Powers of National Assembly for Wales[^c-30900e7ddc2c39e8dede0996b27f6f10]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 17 (powers of National Assembly for Wales) has effect.
 
 ## Annotations
 
-[^key-30900e7ddc2c39e8dede0996b27f6f10]: Commencement: S. 235 in force at 30.12.2007, see s. 245(2)
+[^c-30900e7ddc2c39e8dede0996b27f6f10]: Commencement: S. 235 in force at 30.12.2007, see s. 245(2)

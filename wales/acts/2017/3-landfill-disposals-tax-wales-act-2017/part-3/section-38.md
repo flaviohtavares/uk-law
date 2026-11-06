@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Reviews and appeals relating to registration[^key-3138e04267ff1acc702f0a43b411a6c6]
+## 38. Reviews and appeals relating to registration[^c-3138e04267ff1acc702f0a43b411a6c6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 172 of TCMA (appealable decisions), in subsection (2), after paragrap
 
 ## Annotations
 
-[^key-3138e04267ff1acc702f0a43b411a6c6]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2017/3/section/38) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(l)](https://www.legislation.gov.uk/wsi/2018/35/article/2/l)
+[^c-3138e04267ff1acc702f0a43b411a6c6]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2017/3/section/38) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(l)](https://www.legislation.gov.uk/wsi/2018/35/article/2/l)

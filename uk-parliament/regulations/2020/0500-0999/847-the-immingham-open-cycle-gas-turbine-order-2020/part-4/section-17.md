@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Removal of human remains[^key-6ae01986962fa671624fc21a5b8c122f]
+## 17. Removal of human remains[^c-6ae01986962fa671624fc21a5b8c122f]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Before any such remains are removed from the Order land the undertaker must give notice of the intended removal, describing the Order land and stating the general effect of the following provisions of this article, by—
 
-- (a) publishing a notice once in each of two successive weeks in a newspaper circulating in the area of the authorised development[^key-c70cd3bf7f1391e3b4f074b47b69b053] ; and
+- (a) publishing a notice once in each of two successive weeks in a newspaper circulating in the area of the authorised development[^c-c70cd3bf7f1391e3b4f074b47b69b053] ; and
 - (b) displaying a notice in a conspicuous place on or near to the Order land.
 
 (3) As soon as reasonably practicable after the first publication of a notice under paragraph (2) the undertaker must send a copy of the notice to the relevant planning authority.
@@ -34,9 +34,9 @@ summary: ''
 (5) Where a person has given notice under paragraph (4), and the remains in question can be identified, that person may cause such remains to be—
 
 - (a) removed and re-interred in any burial ground or cemetery in which burials may legally take place; or
-- (b) removed to, and cremated in, any crematorium [^key-9b8bd94a321917f93cd94ccce328f158]...,
+- (b) removed to, and cremated in, any crematorium [^c-9b8bd94a321917f93cd94ccce328f158]...,
 
-[^key-66e423fcf371942cc9362222122b423b]... and that person must, as soon as reasonably practicable after such re-interment or cremation, provide to the undertaker a certificate for the purpose of enabling compliance with paragraph (10).
+[^c-66e423fcf371942cc9362222122b423b]... and that person must, as soon as reasonably practicable after such re-interment or cremation, provide to the undertaker a certificate for the purpose of enabling compliance with paragraph (10).
 
 (6) If the undertaker is not satisfied that any person giving notice under paragraph (4) is the personal representative or relative as that person claims to be, or that the remains in question can be identified, the question is to be determined on the application of either party in a summary manner by the county court, and the court may make an order specifying who is to remove the remains and as to the payment of the costs of the application.
 
@@ -66,12 +66,12 @@ subject to paragraph (9), the undertaker must remove the remains and cause them 
 
 ## Annotations
 
-[^key-6ae01986962fa671624fc21a5b8c122f]: Commencement: Art. 17 in force at 1.9.2020, see art. 1
+[^c-6ae01986962fa671624fc21a5b8c122f]: Commencement: Art. 17 in force at 1.9.2020, see art. 1
 
-[^key-c70cd3bf7f1391e3b4f074b47b69b053]: Textual amendment: Words in [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2020/847/article/17/2/a) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-c70cd3bf7f1391e3b4f074b47b69b053]: Textual amendment: Words in [art. 17(2)(a)](https://www.legislation.gov.uk/uksi/2020/847/article/17/2/a) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-9b8bd94a321917f93cd94ccce328f158]: Textual amendment: Words in [art. 17(5)(b)](https://www.legislation.gov.uk/uksi/2020/847/article/17/5/b) omitted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-9b8bd94a321917f93cd94ccce328f158]: Textual amendment: Words in [art. 17(5)(b)](https://www.legislation.gov.uk/uksi/2020/847/article/17/5/b) omitted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-66e423fcf371942cc9362222122b423b]: Textual amendment: Words in [art. 17(5)](https://www.legislation.gov.uk/uksi/2020/847/article/17/5) omitted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-66e423fcf371942cc9362222122b423b]: Textual amendment: Words in [art. 17(5)](https://www.legislation.gov.uk/uksi/2020/847/article/17/5) omitted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
 [^c24261541]: Marginal citation: [1857 c.81](https://www.legislation.gov.uk/ukpga/1857/81). Substituted by Church of England (Miscellaneous Provisions) Measure [2014 No. 1](https://www.legislation.gov.uk/ukcm/2014/1) s.2 (January 1, 2015: substitution has effect subject to transitional and saving provisions specified in SI 2014/2077 Sch.1 paras 1 and 2).

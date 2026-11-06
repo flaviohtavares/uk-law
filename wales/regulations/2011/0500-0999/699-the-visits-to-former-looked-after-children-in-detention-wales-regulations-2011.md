@@ -31,7 +31,7 @@ summary: ''
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Visits to Former Looked After Children in Detention (Wales) Regulations 2011 (revoked)[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+The Visits to Former Looked After Children in Detention (Wales) Regulations 2011 (revoked)[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1 April 2011
 
-[^key-2a6cbeb6761fe42a505bb3e9d085f94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a6cbeb6761fe42a505bb3e9d085f94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 1. Title, commencement and application[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 2. Interpretation[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Circumstances prescribed for the purposes of section 23ZA of the 1989 Act[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 3. Circumstances prescribed for the purposes of section 23ZA of the 1989 Act[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Frequency of visits[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 4. Frequency of visits[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conduct of visits[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 5. Conduct of visits[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reports of visits[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 6. Reports of visits[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Advice, support and assistance[^key-2a6cbeb6761fe42a505bb3e9d085f94c]
+## 7. Advice, support and assistance[^c-2a6cbeb6761fe42a505bb3e9d085f94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a6cbeb6761fe42a505bb3e9d085f94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a6cbeb6761fe42a505bb3e9d085f94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2a6cbeb6761fe42a505bb3e9d085f94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a6cbeb6761fe42a505bb3e9d085f94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a6cbeb6761fe42a505bb3e9d085f94c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/699) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-2a6cbeb6761fe42a505bb3e9d085f94c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/699) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

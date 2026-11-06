@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Severn Bridges Tolls Order 2014 (revoked)[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]
+The Severn Bridges Tolls Order 2014 (revoked)[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st January 2015
 
-[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]
+## 1. Citation and commencement[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Level of tolls[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]
+## 2. Level of tolls[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]
+## 3. Revocation[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bcd8627fbac02a54c2bb93ce8d5ad86]: Textual amendment: Order revoked (1.1.2016) by [The Severn Bridges Tolls Order 2015 (S.I. 2015/2030)](https://www.legislation.gov.uk/uksi/2015/2030), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2030/article/1), [3](https://www.legislation.gov.uk/uksi/2015/2030/article/3)
+[^c-3bcd8627fbac02a54c2bb93ce8d5ad86]: Textual amendment: Order revoked (1.1.2016) by [The Severn Bridges Tolls Order 2015 (S.I. 2015/2030)](https://www.legislation.gov.uk/uksi/2015/2030), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2030/article/1), [3](https://www.legislation.gov.uk/uksi/2015/2030/article/3)

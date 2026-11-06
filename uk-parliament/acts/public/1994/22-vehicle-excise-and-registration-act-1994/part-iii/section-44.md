@@ -24,9 +24,9 @@ summary: ''
 
 (2) This subsection applies to—
 
-- (a)[^key-96e96a258ea5b381701311c3387d6e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-96e96a258ea5b381701311c3387d6e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-96e96a258ea5b381701311c3387d6e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-96e96a258ea5b381701311c3387d6e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-96e96a258ea5b381701311c3387d6e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-96e96a258ea5b381701311c3387d6e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a registration mark,
 - (e) a registration document, and
 - (f) a trade plate (including a replacement trade plate).
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96e96a258ea5b381701311c3387d6e69]: Textual amendment: [S. 44(2)(a)-(c)](https://www.legislation.gov.uk/ukpga/1994/22/section/44/2/a) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/18), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-96e96a258ea5b381701311c3387d6e69]: Textual amendment: [S. 44(2)(a)-(c)](https://www.legislation.gov.uk/ukpga/1994/22/section/44/2/a) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/18), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)

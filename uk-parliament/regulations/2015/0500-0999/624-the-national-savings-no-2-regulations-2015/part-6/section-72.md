@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Powers of attorney[^key-540f2b29ba45a2afef2f6f904fba765b]
+## 72. Powers of attorney[^c-540f2b29ba45a2afef2f6f904fba765b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ that stock is held on trust, the Director of Savings in making a transfer or pay
 
 ## Annotations
 
-[^key-540f2b29ba45a2afef2f6f904fba765b]: Commencement: Reg. 72 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-540f2b29ba45a2afef2f6f904fba765b]: Commencement: Reg. 72 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

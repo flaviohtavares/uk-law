@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14.2. Opposition to motions[^key-ecc7b87a8752babd566474eecac781ab]
+## 14.2. Opposition to motions[^c-ecc7b87a8752babd566474eecac781ab]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecc7b87a8752babd566474eecac781ab]: Commencement: Para. 14.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-ecc7b87a8752babd566474eecac781ab]: Commencement: Para. 14.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

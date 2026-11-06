@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. Directions[^key-cd8fc961abba668154c0bea051c9ad52]
+## 204. Directions[^c-cd8fc961abba668154c0bea051c9ad52]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The court may at any time give such directions as it thinks just as to—
 
 ## Annotations
 
-[^key-cd8fc961abba668154c0bea051c9ad52]: Commencement: Rule 204 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-cd8fc961abba668154c0bea051c9ad52]: Commencement: Rule 204 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

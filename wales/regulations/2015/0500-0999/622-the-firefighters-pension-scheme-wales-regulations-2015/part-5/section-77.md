@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Review of ill-health award or early payment of retirement pension[^key-79d63f3827a513bb6ce7c7bfb784a52c]
+## 77. Review of ill-health award or early payment of retirement pension[^c-79d63f3827a513bb6ce7c7bfb784a52c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79d63f3827a513bb6ce7c7bfb784a52c]: Commencement: Reg. 77 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-79d63f3827a513bb6ce7c7bfb784a52c]: Commencement: Reg. 77 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Provision of clothing, pocket money and personal necessities[^key-6ac5da41e3eec79af0f51562930fa883]
+## 14. Provision of clothing, pocket money and personal necessities[^c-6ac5da41e3eec79af0f51562930fa883]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac5da41e3eec79af0f51562930fa883]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/176/regulation/14) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-6ac5da41e3eec79af0f51562930fa883]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/176/regulation/14) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

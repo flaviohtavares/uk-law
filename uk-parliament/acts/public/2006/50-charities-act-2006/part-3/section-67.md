@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Statements indicating benefits for charitable institutions and fund-raisers[^key-4670e69ead6138876b65421b0128a679]
+## 67. Statements indicating benefits for charitable institutions and fund-raisers[^c-4670e69ead6138876b65421b0128a679]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4670e69ead6138876b65421b0128a679]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/50/section/67) in force at 1.4.2008 by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))
+[^c-4670e69ead6138876b65421b0128a679]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/50/section/67) in force at 1.4.2008 by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))

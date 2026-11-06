@@ -28,7 +28,7 @@ Section 129.
 
 ### The Parliamentary Commissioner Act 1967 (c.13)
 
-**2.**[^key-01ac59811c194a644c0d466cdef6e1bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-01ac59811c194a644c0d466cdef6e1bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government Act 1974 (c.7)
 
@@ -87,7 +87,7 @@ Section 129.
 
 [^c12405651]: Commencement: [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/38/schedule/15) in force at 1.10.1998 by [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-01ac59811c194a644c0d466cdef6e1bd]: Textual amendment: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/1998/38/schedule/15/paragraph/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(5)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/5)
+[^c-01ac59811c194a644c0d466cdef6e1bd]: Textual amendment: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/1998/38/schedule/15/paragraph/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(5)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/5)
 
 [^c12405661]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In deciding whether to approve a decision to give a retention notice, a Judicial Commissioner must review the Secretary of State's conclusions as to whether the requirement to be imposed by the notice to retain relevant communications data is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a)[^key-09c1695bd417e3415c7ec9b9a2f9bc44].
+(1) In deciding whether to approve a decision to give a retention notice, a Judicial Commissioner must review the Secretary of State's conclusions as to whether the requirement to be imposed by the notice to retain relevant communications data is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a)[^c-09c1695bd417e3415c7ec9b9a2f9bc44].
 
 (2) In doing so, the Judicial Commissioner must—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c1695bd417e3415c7ec9b9a2f9bc44]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/89/1) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/22/a)
+[^c-09c1695bd417e3415c7ec9b9a2f9bc44]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/89/1) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/22/a)

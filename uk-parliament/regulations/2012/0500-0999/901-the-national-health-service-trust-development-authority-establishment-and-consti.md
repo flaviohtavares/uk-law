@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service Trust Development Authority (Establishment and Constitution) Order 2012 (revoked)[^key-441d85f656fa331df888b7b3e8c30087]
+The National Health Service Trust Development Authority (Establishment and Constitution) Order 2012 (revoked)[^c-441d85f656fa331df888b7b3e8c30087]
 
 Made
 
@@ -46,58 +46,58 @@ Coming into force
 
 1st June 2012
 
-[^key-441d85f656fa331df888b7b3e8c30087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-441d85f656fa331df888b7b3e8c30087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-441d85f656fa331df888b7b3e8c30087]
+## 1. Citation, commencement and interpretation[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of the Authority[^key-441d85f656fa331df888b7b3e8c30087]
+## 2. Establishment of the Authority[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of the Authority[^key-441d85f656fa331df888b7b3e8c30087]
+## 3. Functions of the Authority[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Constitution of the Authority[^key-441d85f656fa331df888b7b3e8c30087]
+## 4. Constitution of the Authority[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transfer of property[^key-441d85f656fa331df888b7b3e8c30087]
+## 5. Transfer of property[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5A.**[^key-441d85f656fa331df888b7b3e8c30087] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5A.**[^c-441d85f656fa331df888b7b3e8c30087] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5B. Transfer of property and liabilities from the Board[^key-441d85f656fa331df888b7b3e8c30087]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Transfer of staff[^key-441d85f656fa331df888b7b3e8c30087]
+## 5B. Transfer of property and liabilities from the Board[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6A.**[^key-441d85f656fa331df888b7b3e8c30087] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6B. Dismissal of employee because of transfer[^key-441d85f656fa331df888b7b3e8c30087]
+## 6. Transfer of staff[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6C. Transfer of Staff[^key-441d85f656fa331df888b7b3e8c30087]
+**6A.**[^c-441d85f656fa331df888b7b3e8c30087] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6B. Dismissal of employee because of transfer[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Public meetings[^key-441d85f656fa331df888b7b3e8c30087]
+## 6C. Transfer of Staff[^c-441d85f656fa331df888b7b3e8c30087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-441d85f656fa331df888b7b3e8c30087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Public meetings[^c-441d85f656fa331df888b7b3e8c30087]
 
-[^key-441d85f656fa331df888b7b3e8c30087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-441d85f656fa331df888b7b3e8c30087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-441d85f656fa331df888b7b3e8c30087]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-441d85f656fa331df888b7b3e8c30087]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/901) revoked (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/36/2/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-441d85f656fa331df888b7b3e8c30087]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/901) revoked (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/36/2/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

@@ -53,7 +53,7 @@ shall each be admissible in evidence in relation to any question as to the authe
 (2) For the purposes of this section an electronic signature is so much of anything in electronic form as—
 
 - (a) is incorporated into or otherwise logically associated with any electronic communication or electronic data; and
-- (b)[^key-348905dd7846272ec219ce0f33b76705] purports to be used by the individual creating it to sign.
+- (b)[^c-348905dd7846272ec219ce0f33b76705] purports to be used by the individual creating it to sign.
 
 (3) For the purposes of this section an electronic signature incorporated into or associated with a particular electronic communication or particular electronic data is certified by any person if that person (whether before or after the making of the communication) has made a statement confirming that—
 
@@ -61,9 +61,9 @@ shall each be admissible in evidence in relation to any question as to the authe
 - (b) a means of producing, communicating or verifying the signature, or
 - (c) a procedure applied to the signature,
 
-is (either alone or in combination with other factors) a valid means of signing[^key-b1651cff756aa1d14cc475680093c7bb].
+is (either alone or in combination with other factors) a valid means of signing[^c-b1651cff756aa1d14cc475680093c7bb].
 
-### 7A. Electronic seals and related certificates[^key-a8747ca869cc3ae4a99de56ef3d25965]
+### 7A. Electronic seals and related certificates[^c-a8747ca869cc3ae4a99de56ef3d25965]
 
 (1) In any legal proceedings—
 
@@ -144,7 +144,7 @@ in such manner as he may think fit for the purpose of authorising or facilitatin
 
 (3) The appropriate Minister shall not make an order under this section authorising the use of electronic communications or electronic storage for any purpose, unless he considers that the authorisation is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications or electronic storage than in other cases.
 
-(4)[^c1908049][^key-a9b8653789af2ef46d8dd79ba7420c0d][^key-45a955ee143f15ebcab929c280baf500] Without prejudice to the generality of subsection (1), the power to make an order under this section shall include power to make an order containing any of the following provisions—
+(4)[^c1908049][^c-a9b8653789af2ef46d8dd79ba7420c0d][^c-45a955ee143f15ebcab929c280baf500] Without prejudice to the generality of subsection (1), the power to make an order under this section shall include power to make an order containing any of the following provisions—
 
 - (a) provision as to the electronic form to be taken by any electronic communications or electronic storage the use of which is authorised by an order under this section;
 - (b) provision imposing conditions subject to which the use of electronic communications or electronic storage is so authorised;
@@ -160,7 +160,7 @@ in such manner as he may think fit for the purpose of authorising or facilitatin
 - (l) provision for a requirement imposed by virtue of paragraph (j) or (k) to be enforceable at the suit or instance of such person as may be specified in or determined in accordance with the order;
 - (m) any such provision, in relation to electronic communications or electronic storage the use of which is authorised otherwise than by an order under this section, as corresponds to any provision falling within any of the preceding paragraphs that may be made where it is such an order that authorises the use of the communications or storage.
 
-(5)[^c1908049][^key-a9b8653789af2ef46d8dd79ba7420c0d][^key-45a955ee143f15ebcab929c280baf500] The matters referred to in subsection (4)(g) are—
+(5)[^c1908049][^c-a9b8653789af2ef46d8dd79ba7420c0d][^c-45a955ee143f15ebcab929c280baf500] The matters referred to in subsection (4)(g) are—
 
 - (a) whether a thing has been done using an electronic communication or electronic storage;
 - (b) the time at which, or date on which, a thing done using any such communication or storage was done;
@@ -199,7 +199,7 @@ references, in relation to that matter, to the appropriate Minister are referenc
 
 (4) Subsection (3) does not apply in the case of an order a draft of which has been laid before Parliament and approved by a resolution of each House.
 
-(5)[^c1908059][^key-96a7d808550026fbd830cc0ac559726a][^key-34d82ce97afb2550794cd133b1f6f015] An order under section 8 may—
+(5)[^c1908059][^c-96a7d808550026fbd830cc0ac559726a][^c-34d82ce97afb2550794cd133b1f6f015] An order under section 8 may—
 
 - (a) provide for any conditions or requirements imposed by such an order to be framed by reference to the directions of such persons as may be specified in or determined in accordance with the order;
 - (b) provide that any such condition or requirement is to be satisfied only where a person so specified or determined is satisfied as to specified matters.
@@ -429,25 +429,25 @@ and references in this section to depositing a key for electronic data with a pe
 
 [^c1909723]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/2000/7/part/I) (ss. 1-6) repealed (25.5.2005) by [Electronic Communications Act 2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7), [s. 16(4)](https://www.legislation.gov.uk/ukpga/2000/7/section/16/4) (with [s. 14](https://www.legislation.gov.uk/ukpga/2000/7/section/14))
 
-[^key-348905dd7846272ec219ce0f33b76705]: Textual amendment: [S. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2000/7/section/7/2/b) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/1/2)
+[^c-348905dd7846272ec219ce0f33b76705]: Textual amendment: [S. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2000/7/section/7/2/b) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/1/2)
 
-[^key-b1651cff756aa1d14cc475680093c7bb]: Textual amendment: Word in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2000/7/section/7/3) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/1/3)
+[^c-b1651cff756aa1d14cc475680093c7bb]: Textual amendment: Word in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2000/7/section/7/3) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/1/3)
 
-[^key-a8747ca869cc3ae4a99de56ef3d25965]: Textual amendment: [Ss. 7A-7D](https://www.legislation.gov.uk/ukpga/2000/7/section/7A) inserted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/1/4)
+[^c-a8747ca869cc3ae4a99de56ef3d25965]: Textual amendment: [Ss. 7A-7D](https://www.legislation.gov.uk/ukpga/2000/7/section/7A) inserted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/1/4)
 
 [^c1908049]: Modification: S. 8(4)-(6)(8) applied (S.) (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp. 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 82(5)](https://www.legislation.gov.uk/asp/2003/7/section/82/5), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-a9b8653789af2ef46d8dd79ba7420c0d]: Modification: S. 8(4)(5) modified by 1992 c. 5, s. 189(5B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
+[^c-a9b8653789af2ef46d8dd79ba7420c0d]: Modification: S. 8(4)(5) modified by 1992 c. 5, s. 189(5B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
 
-[^key-45a955ee143f15ebcab929c280baf500]: Modification: S. 8(4)(5) modified by 1998 c. 14, s. 79(6B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
+[^c-45a955ee143f15ebcab929c280baf500]: Modification: S. 8(4)(5) modified by 1998 c. 14, s. 79(6B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
 
 [^c887411]: Modification: S. 8(7) excluded (26.2.2003 for certain purposes, 1.4.2003 for certain further purposes and 7.4.2003 for certain further purposes) by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 54(10)](https://www.legislation.gov.uk/ukpga/2002/21/section/54/10), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2003/392/article/3))
 
 [^c1908059]: Modification: S. 9(5)(6) applied (S.) (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp. 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 82(5)](https://www.legislation.gov.uk/asp/2003/7/section/82/5), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-96a7d808550026fbd830cc0ac559726a]: Modification: S. 9(5) modified by 1998 c. 14, s. 79(6B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
+[^c-96a7d808550026fbd830cc0ac559726a]: Modification: S. 9(5) modified by 1998 c. 14, s. 79(6B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
 
-[^key-34d82ce97afb2550794cd133b1f6f015]: Modification: S. 9(5) modified by 1992 c. 5, s. 189(5B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
+[^c-34d82ce97afb2550794cd133b1f6f015]: Modification: S. 9(5) modified by 1992 c. 5, s. 189(5B) (as inserted (25.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/104/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38))
 
 [^c887412]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105C. Levy on certain applications for building control approval etc[^key-3dfcdbfc4febb9d42084bec15b40e7e7]
+## 105C. Levy on certain applications for building control approval etc[^c-3dfcdbfc4febb9d42084bec15b40e7e7]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ relating to a relevant building or proposed relevant building (including any suc
 
 ## Annotations
 
-[^key-3dfcdbfc4febb9d42084bec15b40e7e7]: Textual amendment: S. 105C inserted (6.4.2024 except in relation to W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 58](https://www.legislation.gov.uk/ukpga/2022/30/section/58), [170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/k) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
+[^c-3dfcdbfc4febb9d42084bec15b40e7e7]: Textual amendment: S. 105C inserted (6.4.2024 except in relation to W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 58](https://www.legislation.gov.uk/ukpga/2022/30/section/58), [170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/k) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))

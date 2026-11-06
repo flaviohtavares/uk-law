@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The validity of an act done by an open-ended investment company cannot be called into question on the ground of lack of capacity by reason of anything in these Regulations, FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules or the company’s instrument of incorporation.
+(1) The validity of an act done by an open-ended investment company cannot be called into question on the ground of lack of capacity by reason of anything in these Regulations, FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules or the company’s instrument of incorporation.
 
 (2) Nothing in paragraph (1) affects the duty of the directors to observe any limitation on their powers.
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

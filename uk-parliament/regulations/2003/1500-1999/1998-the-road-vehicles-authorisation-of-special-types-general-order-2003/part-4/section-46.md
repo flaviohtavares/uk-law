@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Straddle carriers: authorisation requirements[^key-437222be5f62c43844dea148107d8692]
+## 46. Straddle carriers: authorisation requirements[^c-437222be5f62c43844dea148107d8692]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ The authorisation requirements for straddle carriers are—
 
 ## Annotations
 
-[^key-437222be5f62c43844dea148107d8692]: Commencement: Art. 46 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-437222be5f62c43844dea148107d8692]: Commencement: Art. 46 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00021]: Footnote: Paragraph (1A) of regulation 18 was inserted by the Road Vehicles (Construction and Use) (Amendment) Regulations 1990 (S.I. [1990/1981](https://www.legislation.gov.uk/uksi/1990/1981)).

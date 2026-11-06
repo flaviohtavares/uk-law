@@ -52,7 +52,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent and application[^key-966aa0b340486af66ca43046e9957171]
+### 1. Citation, commencement, extent and application[^c-966aa0b340486af66ca43046e9957171]
 
 (1) These Regulations may be cited as the Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020.
 
@@ -68,7 +68,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 
 ### CHAPTER 1 — Postal ballots
 
-#### 2. Application and interpretation of Chapter 1[^key-803613e8a2be62a56de8655da06bcf80]
+#### 2. Application and interpretation of Chapter 1[^c-803613e8a2be62a56de8655da06bcf80]
 
 (1) Regulations 3 to 5 apply to the following elections or referendums in the circumstances described in paragraph (2)—
 
@@ -102,7 +102,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 
 (5) In paragraph (1), “local government area” has the same meaning as in section 203(1) of the 1983 Act[^f00010].
 
-#### 3. Postal ballots: general[^key-a5d19ab26e2c7e58a78fd9b560d8c8ad]
+#### 3. Postal ballots: general[^c-a5d19ab26e2c7e58a78fd9b560d8c8ad]
 
 (1) A postal ballot paper which was returned by a postal voter has no effect for the purpose of the postponed poll.
 
@@ -114,7 +114,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 
 (5) Regulation 84A of the 2001 Regulations (confirming receipt of postal voting statements) does not apply.
 
-#### 4. Postal ballots: disposal of documents by the returning or counting officer[^key-c93e5c5304e9f3cd533d7edb313d7114]
+#### 4. Postal ballots: disposal of documents by the returning or counting officer[^c-c93e5c5304e9f3cd533d7edb313d7114]
 
 (1) The returning officer for a relevant by-election or the counting officer for a relevant referendum—
 
@@ -172,7 +172,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 - “postal voters list” and “proxy postal voters list” have the same meaning as in section 202(1) of the 1983 Act[^f00013];
 - “relevant council” has the same meaning as in paragraph 14(3) of Schedule 4B to the Town and Country Planning Act 1990[^f00014].
 
-#### 5. Postal ballots: retention, production and destruction of documents by the relevant registration officer[^key-25f4a773e1dbf58db764090483bbb3da]
+#### 5. Postal ballots: retention, production and destruction of documents by the relevant registration officer[^c-25f4a773e1dbf58db764090483bbb3da]
 
 (1) The relevant registration officer must—
 
@@ -201,7 +201,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 
 (6) Section 54 of the 1983 Act (payments of expenses of registration)[^f00016] applies to the exercise of functions of the relevant registration officer under this regulation as it applies to the exercise of functions of the registration officer under the 1983 Act.
 
-#### 6. Application of regulations 3 to 5 to business referendums[^key-721342bfe66bce55f6f5e6f013ca7f06]
+#### 6. Application of regulations 3 to 5 to business referendums[^c-721342bfe66bce55f6f5e6f013ca7f06]
 
 (1) This regulation applies to a referendum, the poll for which was to be conducted in accordance with Schedule 7 to the 2012 Regulations (the business referendums rules), where—
 
@@ -262,7 +262,7 @@ The Regulations, so far as made under section 12(6) of the Political Parties, El
 
 ### CHAPTER 2 — Candidates
 
-#### 7. Interpretation of Chapter 2[^key-caa68b459e78c61002258158cf99c61e]
+#### 7. Interpretation of Chapter 2[^c-caa68b459e78c61002258158cf99c61e]
 
 In this Chapter—
 
@@ -270,7 +270,7 @@ In this Chapter—
 - “the 2020 Act” means the Coronavirus Act 2020;
 - “candidate” has the meaning given by section 118A of the 1983 Act[^f00017].
 
-#### 8. Candidates: Mayor of London and London Assembly election and local councillor by-elections[^key-21107020ad10d6b1df4aded868b2ed29]
+#### 8. Candidates: Mayor of London and London Assembly election and local councillor by-elections[^c-21107020ad10d6b1df4aded868b2ed29]
 
 (1) This regulation applies to the following (“a relevant election”)—
 
@@ -306,7 +306,7 @@ In this Chapter—
 - “the 2000 Act” means the Political Parties, Elections and Referendums Act 2000;
 - “principal area” has the same meaning as in Chapter 1.
 
-#### 9. Candidates: parish council by-elections[^key-c74e7a303f3e90504760a4aba479935d]
+#### 9. Candidates: parish council by-elections[^c-c74e7a303f3e90504760a4aba479935d]
 
 (1) A person (“P”) who became a candidate at a relevant by-election to fill a casual vacancy in the office of parish councillor on or before 6th April 2020 is no longer a candidate, and is treated as not having been a candidate before the coming into force of this regulation.
 
@@ -318,11 +318,11 @@ In this Chapter—
 
 ### CHAPTER 3 — Police and crime commissioner elections
 
-#### 10. Police and crime commissioner elections: returning officer expenses[^key-2135e3a4f4a47cb108795663439ae343][^key-be2ac690230646b2dbc0eb7939ff4fab]
+#### 10. Police and crime commissioner elections: returning officer expenses[^c-2135e3a4f4a47cb108795663439ae343][^c-be2ac690230646b2dbc0eb7939ff4fab]
 
 (1) A returning officer for a relevant PCC election may recover charges in respect of expenses incurred for or in connection with that election, notwithstanding that the election was not held, if the expenses were necessarily incurred for the efficient and effective conduct of the election.
 
-(2) The amount of any charges recoverable under paragraph (1) is to be paid by the Secretary of State[^key-52f7556a004f7b3311157ffb47fdbc56] on an account being submitted to the Secretary of State.
+(2) The amount of any charges recoverable under paragraph (1) is to be paid by the Secretary of State[^c-52f7556a004f7b3311157ffb47fdbc56] on an account being submitted to the Secretary of State.
 
 (3) The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012[^f00026] have effect for the purposes of an account submitted under paragraph (2) as if they were subject to the following modifications—
 
@@ -331,7 +331,7 @@ In this Chapter—
 - (c) omit regulation 5 (incomplete accounts);
 - (d) in regulation 7(2) (form of accounts), for the words from “at the time of” to the end substitute “on 7th May 2020”.
 
-(4) Any sums required by the Secretary of State[^key-7c80b1dca5859bc3d9e5d743f88bb229] for making payments under this regulation are to be charged on, and paid out of, the Consolidated Fund.
+(4) Any sums required by the Secretary of State[^c-7c80b1dca5859bc3d9e5d743f88bb229] for making payments under this regulation are to be charged on, and paid out of, the Consolidated Fund.
 
 (5) Section 55 of the 2011 Act (returning officers: expenditure)[^f00027] does not apply in respect of any charges recoverable under paragraph (1) of this regulation.
 
@@ -340,13 +340,13 @@ In this Chapter—
 (7) In this regulation—
 
 - “the 2011 Act” means the Police Reform and Social Responsibility Act 2011;
-- [^key-42c69884c22a00c8dbb5c8da970398b4]...
+- [^c-42c69884c22a00c8dbb5c8da970398b4]...
 - “relevant PCC election” means the ordinary election of a police and crime commissioner which was due to be held in 2020, pursuant to section 50(1) of the 2011 Act (ordinary elections), but was not so held as a result of section 60(12) of the 2020 Act;
 - “returning officer” has the meaning given by section 55(12) of the 2011 Act.
 
 ## PART 3 — Policy development grants
 
-### 11. Amendments to the policy development grants scheme[^key-2bfd97a4e262207942b772d68f6c660f]
+### 11. Amendments to the policy development grants scheme[^c-2bfd97a4e262207942b772d68f6c660f]
 
 (1) The Schedule to the Elections (Policy Development Grants Scheme) Order 2006[^f00028] is amended as follows.
 
@@ -394,9 +394,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-966aa0b340486af66ca43046e9957171]: Commencement: Reg. 1 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-966aa0b340486af66ca43046e9957171]: Commencement: Reg. 1 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
-[^key-803613e8a2be62a56de8655da06bcf80]: Commencement: Reg. 2 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-803613e8a2be62a56de8655da06bcf80]: Commencement: Reg. 2 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2020/395](https://www.legislation.gov.uk/uksi/2020/395).
 
@@ -414,11 +414,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00010]: Footnote: Section 203(1) was amended by the Representation of the People Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 4, paragraph 71, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 9, Part 1, the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), Schedule 13, Part 1, and the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), Schedule 3, paragraphs 1 and 39.
 
-[^key-a5d19ab26e2c7e58a78fd9b560d8c8ad]: Commencement: Reg. 3 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-a5d19ab26e2c7e58a78fd9b560d8c8ad]: Commencement: Reg. 3 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00011]: Footnote: See [S.I. 2020/395](https://www.legislation.gov.uk/uksi/2020/395).
 
-[^key-c93e5c5304e9f3cd533d7edb313d7114]: Commencement: Reg. 4 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-c93e5c5304e9f3cd533d7edb313d7114]: Commencement: Reg. 4 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00012]: Footnote: Section 36(4) and (5) was amended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), Schedule 17; by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 16, paragraph 68(9) and (10); and by [S.I. 1991/1730](https://www.legislation.gov.uk/uksi/1991/1730).
 
@@ -426,19 +426,19 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00014]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); Schedule 4B was inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), Schedule 10.
 
-[^key-25f4a773e1dbf58db764090483bbb3da]: Commencement: Reg. 5 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-25f4a773e1dbf58db764090483bbb3da]: Commencement: Reg. 5 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00015]: Footnote: Section 176 was amended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), sections 24 and 28, Schedule 4, paragraph 61 and Schedule 5.
 
 [^f00016]: Footnote: Section 54 was amended by the Representation of the People Act 1985, Schedule 4, paragraph 14; and by the Electoral Administration Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 4, paragraphs 1 and 17.
 
-[^key-721342bfe66bce55f6f5e6f013ca7f06]: Commencement: Reg. 6 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-721342bfe66bce55f6f5e6f013ca7f06]: Commencement: Reg. 6 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
-[^key-caa68b459e78c61002258158cf99c61e]: Commencement: Reg. 7 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-caa68b459e78c61002258158cf99c61e]: Commencement: Reg. 7 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00017]: Footnote: Section 118A was inserted by the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41), section 135.
 
-[^key-21107020ad10d6b1df4aded868b2ed29]: Commencement: Reg. 8 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-21107020ad10d6b1df4aded868b2ed29]: Commencement: Reg. 8 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00018]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -454,24 +454,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00024]: Footnote: Paragraph 10(2) was amended by PPE 2009, section 20.
 
-[^key-c74e7a303f3e90504760a4aba479935d]: Commencement: Reg. 9 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-c74e7a303f3e90504760a4aba479935d]: Commencement: Reg. 9 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00025]: Footnote: Schedule 4 was amended by the Representation of the People Act 1985, section 14(6) and Schedule 4, paragraph 89; by the Political Parties, Elections and Referendums Act 2000, Schedule 18, paragraphs 1 and 17, and by the Crime and Courts Act 2012, Schedule 9, paragraph 51(1)(b) and (2).
 
-[^key-2135e3a4f4a47cb108795663439ae343]: Commencement: Reg. 10 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-2135e3a4f4a47cb108795663439ae343]: Commencement: Reg. 10 in force at 22.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
-[^key-be2ac690230646b2dbc0eb7939ff4fab]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/926/regulation/10): functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(p)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/p) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-be2ac690230646b2dbc0eb7939ff4fab]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/926/regulation/10): functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(p)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/p) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-52f7556a004f7b3311157ffb47fdbc56]: Textual amendment: Words in reg. 10(2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/32/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-52f7556a004f7b3311157ffb47fdbc56]: Textual amendment: Words in reg. 10(2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/32/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^f00026]: Footnote: [S.I. 2012/2088](https://www.legislation.gov.uk/uksi/2012/2088), amended by [S.I. 2016/488](https://www.legislation.gov.uk/uksi/2016/488).
 
-[^key-7c80b1dca5859bc3d9e5d743f88bb229]: Textual amendment: Words in reg. 10(4) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/32/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-7c80b1dca5859bc3d9e5d743f88bb229]: Textual amendment: Words in reg. 10(4) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/32/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^f00027]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13); section 55 was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526) and [2016/997](https://www.legislation.gov.uk/uksi/2016/997).
 
-[^key-42c69884c22a00c8dbb5c8da970398b4]: Textual amendment: Words in reg. 10(7) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 32(b)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/32/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-42c69884c22a00c8dbb5c8da970398b4]: Textual amendment: Words in reg. 10(7) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 32(b)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/32/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-2bfd97a4e262207942b772d68f6c660f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/926/regulation/11) in force at 6.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
+[^c-2bfd97a4e262207942b772d68f6c660f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/926/regulation/11) in force at 6.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/926/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2006/602](https://www.legislation.gov.uk/uksi/2006/602), amended by [S.I. 2014/556](https://www.legislation.gov.uk/uksi/2014/556), [2015/128](https://www.legislation.gov.uk/uksi/2015/128), [302](https://www.legislation.gov.uk/uksi/2015/302), [2016/164](https://www.legislation.gov.uk/uksi/2016/164), [2017/109](https://www.legislation.gov.uk/uksi/2017/109), [2018/127](https://www.legislation.gov.uk/uksi/2018/127), [2020/139](https://www.legislation.gov.uk/uksi/2020/139) and [385](https://www.legislation.gov.uk/uksi/2020/385).

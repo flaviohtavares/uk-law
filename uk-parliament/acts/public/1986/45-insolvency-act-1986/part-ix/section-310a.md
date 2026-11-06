@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310A. Income payments agreement[^key-e2e05c11ece3ef305082b12ab38bf603][^c15579651]
+## 310A. Income payments agreement[^c-e2e05c11ece3ef305082b12ab38bf603][^c15579651]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2e05c11ece3ef305082b12ab38bf603]: Modification: S. 310A excluded (16.6.2016) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(1)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/1/a)
+[^c-e2e05c11ece3ef305082b12ab38bf603]: Modification: S. 310A excluded (16.6.2016) by [The Education (Postgraduate Masters Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(1)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/1/a)
 
 [^c15579651]: Textual amendment: S. 310A inserted (1.4.2004) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 260](https://www.legislation.gov.uk/ukpga/2002/40/section/260), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))

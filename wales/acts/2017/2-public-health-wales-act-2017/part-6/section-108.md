@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Requirement to carry out health impact assessments[^key-4b01e2e905bfca8b72794cd071c658fa]
+## 108. Requirement to carry out health impact assessments[^c-4b01e2e905bfca8b72794cd071c658fa]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b01e2e905bfca8b72794cd071c658fa]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2017/2/section/108) in force at 19.9.2025 by [S.I. 2025/1028](https://www.legislation.gov.uk/wsi/2025/1028), [art. 2](https://www.legislation.gov.uk/wsi/2025/1028/article/2)
+[^c-4b01e2e905bfca8b72794cd071c658fa]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2017/2/section/108) in force at 19.9.2025 by [S.I. 2025/1028](https://www.legislation.gov.uk/wsi/2025/1028), [art. 2](https://www.legislation.gov.uk/wsi/2025/1028/article/2)

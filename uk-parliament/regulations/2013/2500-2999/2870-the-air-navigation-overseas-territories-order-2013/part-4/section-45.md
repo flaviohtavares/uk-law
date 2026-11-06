@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Requirement for appropriate licence – non-Territory registered aircraft[^key-39772c2a5601d19df50a9286002d6c2f]
+## 45. Requirement for appropriate licence – non-Territory registered aircraft[^c-39772c2a5601d19df50a9286002d6c2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person must not act as a member of the flight crew required by this Order to b
 
 ## Annotations
 
-[^key-39772c2a5601d19df50a9286002d6c2f]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2013/2870/article/45) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-39772c2a5601d19df50a9286002d6c2f]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2013/2870/article/45) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

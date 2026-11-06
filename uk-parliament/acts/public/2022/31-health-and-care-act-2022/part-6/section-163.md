@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Regulation of local authority functions relating to adult social care[^key-ecde363ee37713b9f46e3ff9fa76473e][^key-f3f09f833dcfff0098cea0c4694e0a54]
+## 163. Regulation of local authority functions relating to adult social care[^c-ecde363ee37713b9f46e3ff9fa76473e][^c-f3f09f833dcfff0098cea0c4694e0a54]
 
 *Extent: E+W*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ecde363ee37713b9f46e3ff9fa76473e]: Commencement: S. 163 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ecde363ee37713b9f46e3ff9fa76473e]: Commencement: S. 163 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f3f09f833dcfff0098cea0c4694e0a54]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2022/31/section/163) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/e)
+[^c-f3f09f833dcfff0098cea0c4694e0a54]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2022/31/section/163) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/e)

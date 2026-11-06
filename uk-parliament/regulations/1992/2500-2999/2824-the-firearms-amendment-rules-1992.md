@@ -26,7 +26,7 @@ summary: ''
 
 ARMS AND AMMUNITION
 
-The Firearms (Amendment) Rules 1992 (revoked)[^key-2ace91a2488704985a227ea6b88b5d8b]
+The Firearms (Amendment) Rules 1992 (revoked)[^c-2ace91a2488704985a227ea6b88b5d8b]
 
 Made
 
@@ -36,32 +36,32 @@ Coming into force
 
 16th November 1992
 
-[^key-2ace91a2488704985a227ea6b88b5d8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ace91a2488704985a227ea6b88b5d8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-2ace91a2488704985a227ea6b88b5d8b]
+## 1. Citation, commencement and extent[^c-2ace91a2488704985a227ea6b88b5d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2ace91a2488704985a227ea6b88b5d8b]
+## 2. Interpretation[^c-2ace91a2488704985a227ea6b88b5d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Additional conditions in firearm certificates[^key-2ace91a2488704985a227ea6b88b5d8b]
+## 3. Additional conditions in firearm certificates[^c-2ace91a2488704985a227ea6b88b5d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Additional condition in shot gun certificates[^key-2ace91a2488704985a227ea6b88b5d8b]
+## 4. Additional condition in shot gun certificates[^c-2ace91a2488704985a227ea6b88b5d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ace91a2488704985a227ea6b88b5d8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ace91a2488704985a227ea6b88b5d8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ace91a2488704985a227ea6b88b5d8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ace91a2488704985a227ea6b88b5d8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ace91a2488704985a227ea6b88b5d8b]: Textual amendment: Rules revoked (1.9.1998) by [The Firearms Rules 1998 (S.I. 1998/1941)](https://www.legislation.gov.uk/uksi/1998/1941), [Sch. 6](https://www.legislation.gov.uk/uksi/1998/1941/schedule/6) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-2ace91a2488704985a227ea6b88b5d8b]: Textual amendment: Rules revoked (1.9.1998) by [The Firearms Rules 1998 (S.I. 1998/1941)](https://www.legislation.gov.uk/uksi/1998/1941), [Sch. 6](https://www.legislation.gov.uk/uksi/1998/1941/schedule/6) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

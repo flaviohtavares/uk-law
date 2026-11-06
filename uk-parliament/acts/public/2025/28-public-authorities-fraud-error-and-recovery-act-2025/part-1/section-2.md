@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interaction with other public authorities etc[^key-3eefe1127b7045398806ed421c077e64][^key-c221f430d07cb75f02de17220cd6f7c1]
+## 2. Interaction with other public authorities etc[^c-3eefe1127b7045398806ed421c077e64][^c-c221f430d07cb75f02de17220cd6f7c1]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ otherwise than by virtue of this Part.
 
 ## Annotations
 
-[^key-3eefe1127b7045398806ed421c077e64]: Commencement: S. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-3eefe1127b7045398806ed421c077e64]: Commencement: S. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-c221f430d07cb75f02de17220cd6f7c1]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/28/section/2) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-c221f430d07cb75f02de17220cd6f7c1]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/28/section/2) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Interpretation[^key-94cdf4c39719ca3afcad869a46ae16b8]
+## 102. Interpretation[^c-94cdf4c39719ca3afcad869a46ae16b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-94cdf4c39719ca3afcad869a46ae16b8]: Commencement: Art. 102 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-94cdf4c39719ca3afcad869a46ae16b8]: Commencement: Art. 102 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

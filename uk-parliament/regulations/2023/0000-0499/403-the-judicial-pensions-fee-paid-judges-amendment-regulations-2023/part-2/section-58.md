@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of regulation 118[^key-fec39ea84bf0a4ed491abc4ca02911d2]
+## 58. Amendment of regulation 118[^c-fec39ea84bf0a4ed491abc4ca02911d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 118—
 
 ## Annotations
 
-[^key-fec39ea84bf0a4ed491abc4ca02911d2]: Commencement: Reg. 58 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-fec39ea84bf0a4ed491abc4ca02911d2]: Commencement: Reg. 58 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -45,11 +45,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## Introductory
 
-### 1. Citation and commencement[^key-46acaecb025d1378bbcbbab76eab9cad]
+### 1. Citation and commencement[^c-46acaecb025d1378bbcbbab76eab9cad]
 
 These Regulations may be cited as the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006.
 
-### 2. Interpretation[^key-0d1a287509bda54a2fc6d34492f8a735]
+### 2. Interpretation[^c-0d1a287509bda54a2fc6d34492f8a735]
 
 In these Regulations—
 
@@ -59,8 +59,8 @@ In these Regulations—
   - (a) in relation to an occupational pension scheme, has the meaning given by Article 121 of the 1995 Order[^f00003] (interpretation of Part II), and
   - (b) in relation to a personal pension scheme, means any member in respect of whom employer contributions fall to be paid;
 - “affected members” has the meaning given by regulation 7(4);
-- [^key-9f391ec2aa4fe9dcc6db0ebf9b020166]...
-- [^key-9f391ec2aa4fe9dcc6db0ebf9b020166]...
+- [^c-9f391ec2aa4fe9dcc6db0ebf9b020166]...
+- [^c-9f391ec2aa4fe9dcc6db0ebf9b020166]...
 - “employer contributions”, in relation to an occupational or personal pension scheme, means contributions payable by or on behalf of the employer in relation to the scheme on his own account (but in respect of one or more employees);
 - “member contributions”, in relation to an occupational or personal pension scheme, means contributions, other than voluntary contributions, by or on behalf of active members of the scheme which are payable out of deductions from the member’s earnings;
 - “listed change” has the meaning given by regulation 6(2);
@@ -77,7 +77,7 @@ In these Regulations—
 
 ## Application of Regulations
 
-### 3. Application[^key-cf8abe32a907c1ffa58e1fceed8758f5]
+### 3. Application[^c-cf8abe32a907c1ffa58e1fceed8758f5]
 
 (1) These Regulations apply to—
 
@@ -90,7 +90,7 @@ In these Regulations—
   - (iii) any other person who, under the rules of the scheme, has the power to make a listed change affecting the scheme[^f00004], and
 - (c) in the case of a personal pension scheme where direct payment arrangements exist in respect of one or more members of the scheme who are his employees, a relevant employer.
 
-(2)[^key-f78dcd30d8fa7563d644537571c681e9] For the purposes of these Regulations “relevant employer” means—
+(2)[^c-f78dcd30d8fa7563d644537571c681e9] For the purposes of these Regulations “relevant employer” means—
 
 - (a) an employer employing in Northern Ireland at least the number of employees specified in paragraph (2A), and
 - (b) in the case of—
@@ -110,20 +110,20 @@ In these Regulations—
 
 (3) In these Regulations references to a personal pension scheme are to a personal pension scheme falling within paragraph (1)(c).
 
-### 4. Excluded employers: occupational pension schemes[^key-cf779ffcf7fb40838a4bfa2dc0d0d06e]
+### 4. Excluded employers: occupational pension schemes[^c-cf779ffcf7fb40838a4bfa2dc0d0d06e]
 
 (1) This regulation excludes—
 
 - (a) any employer in relation to a public service pension scheme;
 - (b) any employer in relation to a small occupational pension scheme;
 - (c) any employer in relation to an occupational pension scheme with fewer than two members;
-- (d) any employer in relation to an occupational pension scheme which is an employer-financed retirement benefits scheme; and[^key-7b757687c37f806981a6b301576d3de6]
-- (e) any employer in relation to an unregistered occupational pension scheme which has its main administration outside the United Kingdom[^key-b4b08f8729a024a0e717ceee4c9159d8], [^key-df0c141cd6992367e57f72183fc2ca7b]...
-- (f)[^key-5b8e90eb9ce17bb119de9306e8570caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any employer in relation to an occupational pension scheme which is an employer-financed retirement benefits scheme; and[^c-7b757687c37f806981a6b301576d3de6]
+- (e) any employer in relation to an unregistered occupational pension scheme which has its main administration outside the United Kingdom[^c-b4b08f8729a024a0e717ceee4c9159d8], [^c-df0c141cd6992367e57f72183fc2ca7b]...
+- (f)[^c-5b8e90eb9ce17bb119de9306e8570caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-814210a5dbd75eb87d29d20957e9d520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-814210a5dbd75eb87d29d20957e9d520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-814210a5dbd75eb87d29d20957e9d520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-814210a5dbd75eb87d29d20957e9d520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this regulation—
 
@@ -131,20 +131,20 @@ In these Regulations—
 - “public service pension scheme” has the meaning given by section 1(1) of the Pension Schemes Act[^f00006];
 - “small occupational pension scheme” means—
   - (a) a scheme with fewer than twelve members where all of the members are trustees of the scheme and either—
-    - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of[^key-00232cc9f10901949c4e4064709e18c9] the trustees who are members of the scheme, or
+    - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of[^c-00232cc9f10901949c4e4064709e18c9] the trustees who are members of the scheme, or
     - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order[^f00007] (power to appoint independent trustees) and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
-  - (b) a scheme with fewer than twelve members where a company is the sole trustee[^key-d9632c98b339bb0eb1ae6c7f6faf523d] of the scheme, and all the members of the scheme are directors of the company and either—
-    - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors[^key-44d25d2523fc75a19dc1e7f8580f0469] who are members of the scheme, or
-    - (ii) one of the directors of the company[^key-1ce4fb4d0a815e2043fa79cf3e1bbddd] is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article, and
+  - (b) a scheme with fewer than twelve members where a company is the sole trustee[^c-d9632c98b339bb0eb1ae6c7f6faf523d] of the scheme, and all the members of the scheme are directors of the company and either—
+    - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors[^c-44d25d2523fc75a19dc1e7f8580f0469] who are members of the scheme, or
+    - (ii) one of the directors of the company[^c-1ce4fb4d0a815e2043fa79cf3e1bbddd] is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article, and
 - “unregistered occupational pension scheme” means an occupational pension scheme which is not registered under section 153 of the Finance Act 2004[^f00008] (registration of pension schemes).
 
-### 5. Excluded employers: personal pension schemes[^key-d7518b9b47a58f398c9ba173407baf7e]
+### 5. Excluded employers: personal pension schemes[^c-d7518b9b47a58f398c9ba173407baf7e]
 
 This regulation excludes any employer in relation to a personal pension scheme where no employer contributions fall to be paid towards the scheme.
 
 ## Restriction on decision-making pending completion of consultation
 
-### 6. Consultation required before decisions to make listed changes affecting schemes[^key-dfb4baa18807d594d7ca73ebacb22e35]
+### 6. Consultation required before decisions to make listed changes affecting schemes[^c-dfb4baa18807d594d7ca73ebacb22e35]
 
 (1) No person falling within regulation 3(1) may decide to make a listed change that affects an occupational or personal pension scheme unless such consultation as is required by regulation 7(3) has been carried out.
 
@@ -157,7 +157,7 @@ and it is not excluded by virtue of regulation 10.
 
 (3) Paragraph (1) does not require consultation to be carried out in any of the four cases described in paragraphs (4) to (7).
 
-(4)[^key-594e7e5871d3439bd082cb2f39931b1e] The first case is where the active or prospective members of the scheme to whom—
+(4)[^c-594e7e5871d3439bd082cb2f39931b1e] The first case is where the active or prospective members of the scheme to whom—
 
 - (a) a listed change mentioned in regulation 8(1)(h) relates were notified before 6th April 2012 of the proposal to make that change, or
 - (b) any other listed change relates were notified before 6th April 2006 of the proposal to make that change.
@@ -177,19 +177,19 @@ and it is not excluded by virtue of regulation 10.
 - (a) consultation has already been carried out under these Regulations in respect of a proposal to cease employer contributions, as described in regulation 9(a), and
 - (b) there is a further proposal as a result of that consultation to make a decision to reduce such contributions, as described in regulation 9(b).
 
-### 7. Notifications to employers and duty to consult[^key-a62f21101615568db66fb14a001a943c]
+### 7. Notifications to employers and duty to consult[^c-a62f21101615568db66fb14a001a943c]
 
 (1) Any person falling within regulation 3(1) who proposes to make a listed change affecting an occupational or personal pension scheme must give written notice of that change to each employer in relation to the scheme.
 
 (2) Paragraph (1) does not apply—
 
-- (a) in any of the four cases described in regulation 6(4) to (7);[^key-076268a713042d1f0552e8dd6f5e472f]
+- (a) in any of the four cases described in regulation 6(4) to (7);[^c-076268a713042d1f0552e8dd6f5e472f]
 - (b) where the person proposing the change is a relevant employer in relation to—
   - (i) an occupational pension scheme which is not a multi-employer scheme, or
-  - (ii) a personal pension scheme, or[^key-a2d71cd2a838912c9e8e491e9cbb3223]
+  - (ii) a personal pension scheme, or[^c-a2d71cd2a838912c9e8e491e9cbb3223]
 - (c) where the person proposing the change employs all the affected members.
 
-(3)[^key-c3b2b806672faec5451cb967f9bad882] A relevant employer must consult about the listed change in accordance with regulations 11 to 16 if—
+(3)[^c-c3b2b806672faec5451cb967f9bad882] A relevant employer must consult about the listed change in accordance with regulations 11 to 16 if—
 
 - (a) that employer (“E”) employs all the affected members, or
 - (b) E’s employees appear to E to include affected members and E is a relevant employer who—
@@ -198,7 +198,7 @@ and it is not excluded by virtue of regulation 10.
 
 (4) For the purposes of these Regulations “affected members”, in relation to a proposal to make a listed change affecting an occupational or personal pension scheme, means the active or prospective members of the scheme to whom the listed change relates.
 
-### 8. Listed changes: occupational pension schemes[^key-a7880fb27b28f34d9989098b2c6b09bc]
+### 8. Listed changes: occupational pension schemes[^c-a7880fb27b28f34d9989098b2c6b09bc]
 
 (1) Listed changes that affect occupational pension schemes are—
 
@@ -209,7 +209,7 @@ and it is not excluded by virtue of regulation 10.
 - (e) to introduce member contributions in any circumstances in which no such contributions were previously payable;
 - (f) to make any increase in member contributions by or on behalf of members or members of a particular description;
 - (g) to make any change specified in paragraph (2) or (3).
-- (h)[^key-e0ebefaa0a424f825711c39231faa7a1] to change the rate at which—
+- (h)[^c-e0ebefaa0a424f825711c39231faa7a1] to change the rate at which—
   - (i) pensions in payment under the scheme are increased, or
   - (ii) pensions or other benefits payable under the scheme are revalued,
 
@@ -223,13 +223,13 @@ and it is not excluded by virtue of regulation 10.
 - (b) to change, in whole or in part, the basis for determining the rate of future accrual of benefits under the scheme for or in respect of members or members of a particular description;
 - (c) to modify the scheme under Article 208(2) of the Order (matters requiring agreement of the employer) so as to reduce the rate of future accrual of benefits under the scheme for or in respect of members or members of a particular description;
 - (d) to make any other reduction in the rate of future accrual of benefit under the scheme for or in respect of members or members of a particular description.
-- (e)[^key-f009629287ee244d6c24203789158763] to change what elements of pay constitute pensionable earnings, or to change the proportion of or limit the amount of any element of pay that forms part of pensionable earnings, for or in respect of members or members of a particular description.
+- (e)[^c-f009629287ee244d6c24203789158763] to change what elements of pay constitute pensionable earnings, or to change the proportion of or limit the amount of any element of pay that forms part of pensionable earnings, for or in respect of members or members of a particular description.
 
 (4) “Normal pension age” has the meaning given by section 175 of the Pension Schemes Act.
 
-(5)[^key-eae5c1b83ccf999c422916d9be06c5f7] “Pensionable earnings” means the earnings by reference to which pension benefits are calculated, and an “element of pay” includes basic salary, a pay rise, an overtime payment and a bonus payment.
+(5)[^c-eae5c1b83ccf999c422916d9be06c5f7] “Pensionable earnings” means the earnings by reference to which pension benefits are calculated, and an “element of pay” includes basic salary, a pay rise, an overtime payment and a bonus payment.
 
-### 9. Listed changes: personal pension schemes[^key-2c113e7279fb619ff27ebf231de457ae]
+### 9. Listed changes: personal pension schemes[^c-2c113e7279fb619ff27ebf231de457ae]
 
 Listed changes that affect personal pension schemes are—
 
@@ -237,20 +237,20 @@ Listed changes that affect personal pension schemes are—
 - (b) to make any reduction in the amount of employer contributions towards the scheme in respect of members or members of a particular description;
 - (c) to make any increase in member contributions by or on behalf of members or members of a particular description.
 
-### 10. Listed changes: exclusions[^key-7dd3991db0a6481a4846fa04bdb09b77]
+### 10. Listed changes: exclusions[^c-7dd3991db0a6481a4846fa04bdb09b77]
 
 (1) For the purposes of regulations 8 and 9, no account is to be taken of any change which—
 
 - (a) is made for the purposes of complying with a statutory provision;
-- (aa)[^key-aeea673502031b80658b8d6799fb4276] is made for the purposes of implementing an adjustment measure within regulation 10 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (charge limits adjustment);
-- (ab)[^key-aa241258f0e61df7bcda8829018d0c68] is made for either or both of the purposes referred to in regulation 7C(1) of the Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006 (modification of schemes: revaluation of guaranteed minimum pensions);
-- (ac)[^key-9a2a9e912e5bc9d3c98e083d7f9f42ee] [^key-aa3bd21732c149fdb1234850591a16cb]... is or results in an adjustment of the rate or amount of benefits provided under a collective money purchase scheme, provided that such adjustment is made in accordance with—
+- (aa)[^c-aeea673502031b80658b8d6799fb4276] is made for the purposes of implementing an adjustment measure within regulation 10 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (charge limits adjustment);
+- (ab)[^c-aa241258f0e61df7bcda8829018d0c68] is made for either or both of the purposes referred to in regulation 7C(1) of the Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006 (modification of schemes: revaluation of guaranteed minimum pensions);
+- (ac)[^c-9a2a9e912e5bc9d3c98e083d7f9f42ee] [^c-aa3bd21732c149fdb1234850591a16cb]... is or results in an adjustment of the rate or amount of benefits provided under a collective money purchase scheme, provided that such adjustment is made in accordance with—
   - (i) the most recent actuarial valuation or (as the case may be) any multi-annual reduction in effect, and
   - (ii) the scheme rules;
-- (ad) [^key-524b0aa3d348fb95154612b1cbb0ade6]...is made in respect of a single or connected employer scheme[^key-b131a0a259faac8010e901f883193534] that is pursuing continuity option 1 in accordance with—
+- (ad) [^c-524b0aa3d348fb95154612b1cbb0ade6]...is made in respect of a single or connected employer scheme[^c-b131a0a259faac8010e901f883193534] that is pursuing continuity option 1 in accordance with—
   - (i) Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2022 (continuity option 1: transfer out and winding up), or
   - (ii) scheme rules made in accordance with that Schedule;
-- (ae)[^key-3b649afb559049ea560766aa4e6bdb3f] is made in respect of an unconnected multiple employer scheme that is pursuing continuity option 1 in accordance with—
+- (ae)[^c-3b649afb559049ea560766aa4e6bdb3f] is made in respect of an unconnected multiple employer scheme that is pursuing continuity option 1 in accordance with—
   - (i) Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026, or
   - (ii) scheme rules made in accordance with that Schedule,
 - (b) is made for the purposes of complying with a determination made by the Regulator, or
@@ -265,18 +265,18 @@ falls within regulation 8.
 
 (3) “Subsisting rights provisions” has the meaning given by Article 67 of the 1995 Order[^f00009].
 
-(4)[^key-c3019867b1a16ea368fcfba15575029b] In this regulation—
+(4)[^c-c3019867b1a16ea368fcfba15575029b] In this regulation—
 
 - “**actuarial valuation**”, in relation to a collective money purchase scheme, has the meaning given by section 71(2) of the Pension Schemes Act 2021;
 - “**collective money purchase scheme**” means a scheme or a section of a scheme which is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (collective money purchase benefits: Northern Ireland);
-- “multi-annual reduction” has the meaning given by—[^key-ab1df28359b0d6712918369b9566d734]
+- “multi-annual reduction” has the meaning given by—[^c-ab1df28359b0d6712918369b9566d734]
   - (a) in relation to a single or connected employer scheme, regulation 2(1) of the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024;
   - (b) in relation to an unconnected multiple employer scheme, regulation 26(1) of the Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026;
-- “single or connected employer scheme” and “unconnected multiple employer scheme” have the meanings given by section 52(3) of the Pension Schemes Act 2021.[^key-c59987486e26184f978a77e619fd5c93]
+- “single or connected employer scheme” and “unconnected multiple employer scheme” have the meanings given by section 52(3) of the Pension Schemes Act 2021.[^c-c59987486e26184f978a77e619fd5c93]
 
 ## Information provision and consultation
 
-### 11. Requirement to provide information[^key-36d412eeb0efe99865c0a5a144d6f260]
+### 11. Requirement to provide information[^c-36d412eeb0efe99865c0a5a144d6f260]
 
 (1) In relation to a proposal to make a listed change affecting an occupational or personal pension scheme, each relevant employer to whom regulation 7(3) applies must provide information about the proposal to—
 
@@ -292,9 +292,9 @@ falls within regulation 8.
 - (e) indicate the timescale on which measures giving effect to the change are proposed to be introduced, and
 - (f) be given in such fashion and with such content as are appropriate to enable, in particular, representatives of affected members to consider, conduct a study of, and give their views to the employer on, the impact of the listed change on such members.
 
-(3)[^key-9304fb78b700be781397cbd5553f3b69] Information provided under this regulation may be provided in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
+(3)[^c-9304fb78b700be781397cbd5553f3b69] Information provided under this regulation may be provided in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
-### 12. Consultation under existing arrangements[^key-19bd1690f9e514120af9974bdfdba6f8]
+### 12. Consultation under existing arrangements[^c-19bd1690f9e514120af9974bdfdba6f8]
 
 (1) If arrangements specified in paragraph (2) or (3) exist in relation to his employees, each relevant employer to whom regulation 7(3) applies must consult about a listed change in accordance with such one or more of those arrangements as he may choose.
 
@@ -322,7 +322,7 @@ the specified arrangements also include arrangements for consultation of those r
 - (a) means an agreement between an employer and his employees or their representatives which satisfies the conditions set out in regulation 8(1)(a) to (d) of the Information and Consultation Regulations and which has not been superseded, but
 - (b) does not include an agreement concluded in accordance with the regulations 17 or 42 to 45 of the Transnational Information and Consultation of Employees Regulations 1999[^f00012] or a negotiated agreement.
 
-### 13. Consultation in cases not covered by regulation 12[^key-899c3778268e8a25d9d4988d3385bcde]
+### 13. Consultation in cases not covered by regulation 12[^c-899c3778268e8a25d9d4988d3385bcde]
 
 (1) This regulation applies to a relevant employer to whom regulation 7(3) applies if (and only if) any of the employees who appear to the employer to be affected members are not covered by consultation arrangements referred to in regulation 12.
 
@@ -337,7 +337,7 @@ the specified arrangements also include arrangements for consultation of those r
 - (a) is required only in relation to the affected members falling within paragraph (1), and
 - (b) is additional to any consultation in relation to other affected members which is required by regulation 12.
 
-### 14. Election of representatives[^key-89feb7cb1bacb2eecf56a6d7b5dfcd71]
+### 14. Election of representatives[^c-89feb7cb1bacb2eecf56a6d7b5dfcd71]
 
 (1) The requirements of this paragraph are that—
 
@@ -362,7 +362,7 @@ those members must elect another representative by an election satisfying the re
 
 (3) The relevant employer must from time to time review the number of representatives determined under paragraph (1)(b) and the number of representatives elected must be adjusted accordingly (whether by members electing one or more other representatives by an election satisfying the requirements of paragraph (1)(a), (e), (f) and (i), by not holding an election under paragraph (2) or otherwise).
 
-### 15. Conduct of consultation[^key-f4dee45e8e95cf3b36b36f5d261f2bf2]
+### 15. Conduct of consultation[^c-f4dee45e8e95cf3b36b36f5d261f2bf2]
 
 (1) Each relevant employer who carries out a consultation must make such arrangements with respect to the persons to be consulted as appear to him to secure that, so far as is reasonably practicable, the consultation covers all affected members.
 
@@ -374,7 +374,7 @@ those members must elect another representative by an election satisfying the re
 
 (5) If no responses to the consultation are received before the end of the period allowed for the consultation in accordance with paragraphs (3) and (4), the consultation is to be regarded as complete.
 
-### 16. End of consultation[^key-e5377f1dda9ca22945c03fc061f851f8]
+### 16. End of consultation[^c-e5377f1dda9ca22945c03fc061f851f8]
 
 (1) Where the relevant employer who carries out a consultation is not the person who proposed the listed change (“P”), the relevant employer must, as soon as reasonably practicable after the consultation is complete—
 
@@ -388,24 +388,24 @@ those members must elect another representative by an election satisfying the re
 
 ## Miscellaneous
 
-### 17. Employment rights and protections in connection with consultation[^key-487583c99c68e5fae6a6384bcaca2b1c]
+### 17. Employment rights and protections in connection with consultation[^c-487583c99c68e5fae6a6384bcaca2b1c]
 
 The Schedule contains provision as to employment rights and protections which, in connection with consultation under these Regulations, apply to the employees of an employer in relation to an occupational or personal pension scheme.
 
-### 18. Remedies for failure to comply[^key-8de132836cb27a3b11c8e0663c23d62b][^key-6b845462d5af680643761afb7e467dec]
+### 18. Remedies for failure to comply[^c-8de132836cb27a3b11c8e0663c23d62b][^c-6b845462d5af680643761afb7e467dec]
 
-(1)[^key-5f2e0e81052466cf2fbffaa33602ad5c] The only remedies for a failure to comply with any obligations under regulations 6 to 16 in respect of any proposal or decision to make a listed change are—
+(1)[^c-5f2e0e81052466cf2fbffaa33602ad5c] The only remedies for a failure to comply with any obligations under regulations 6 to 16 in respect of any proposal or decision to make a listed change are—
 
 - (a) making a complaint to the Regulator;
 - (b) an improvement notice issued under Article 9 of the Order, and
 - (c) a penalty imposed under regulation 18A.
 
-(2) A complaint under paragraph (1)(a)[^key-178beb2bad194bee68eaf26040ad6ede] may be made by—
+(2) A complaint under paragraph (1)(a)[^c-178beb2bad194bee68eaf26040ad6ede] may be made by—
 
 - (a) any representative of affected members who falls within regulation 12(2)(a) or (3) or 13(2) (including any such representative who is not consulted), and
 - (b) any active or prospective member of an occupational or personal pension scheme who considers that he is or may be an affected member.
 
-### 18A. Penalties[^key-e94f4591eb50d035b17c70e3127e9c85]
+### 18A. Penalties[^c-e94f4591eb50d035b17c70e3127e9c85]
 
 (1) Where a person fails, without reasonable excuse, to comply with a requirement to consult under regulation 7(3), the Regulator may by notice in writing require that person to pay a penalty.
 
@@ -414,13 +414,13 @@ The Schedule contains provision as to employment rights and protections which, i
 - (a) in the case of an individual, £5,000, and
 - (b) in any other case, £50,000.
 
-### 19. Powers of the Regulator to waive or relax requirements[^key-5f6e11c05938be97efd20847ff23e8f7]
+### 19. Powers of the Regulator to waive or relax requirements[^c-5f6e11c05938be97efd20847ff23e8f7]
 
 (1) The Regulator may by order waive or relax any of the requirements of regulations 6 to 16.
 
 (2) The power under paragraph (1) may be exercised only if the Regulator is satisfied that it is necessary to do so in order to protect the interests of the generality of the members of the scheme.
 
-### 20. Waiver or relaxation of requirements: amendment of Schedule 2 to the Order[^key-801e3cd9ee9ed3aaecb677d645f19435]
+### 20. Waiver or relaxation of requirements: amendment of Schedule 2 to the Order[^c-801e3cd9ee9ed3aaecb677d645f19435]
 
 In Schedule 2 to the Order (the reserved regulatory functions), after paragraph 44 there shall be added the following—
 
@@ -430,7 +430,7 @@ In Schedule 2 to the Order (the reserved regulatory functions), after paragraph 
 
 .
 
-### 21. Waiver or relaxation of requirements: prescribed regulatory function[^key-a17beca45c27cf8b928521352fccfdee]
+### 21. Waiver or relaxation of requirements: prescribed regulatory function[^c-a17beca45c27cf8b928521352fccfdee]
 
 The Regulator’s power to make an order under regulation 19 to waive or relax any of the requirements of regulations 6 to 16 is prescribed for the purposes of Article 92(5)(u) of the Order (special procedure: applicable cases).
 
@@ -446,7 +446,7 @@ Department for Social Development
 
 Regulation 17
 
-**1.**[^key-03b9913d9e140e750b35acbd80134e63] In this Schedule—
+**1.**[^c-03b9913d9e140e750b35acbd80134e63] In this Schedule—
 
 - “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00013];
 - “the Tribunals Order” means the Industrial Tribunals (Northern Ireland) Order 1996[^f00014];
@@ -458,7 +458,7 @@ Regulation 17
 
 ### Right to time off and remuneration
 
-**2.**[^key-60ac22510991d2f8a10385535c9ca7c3] (1) An employee who—
+**2.**[^c-60ac22510991d2f8a10385535c9ca7c3] (1) An employee who—
 
 - (a) is a representative falling within regulation 12(2)(a) or (3) or 13(2), and
 - (b) is consulted under these Regulations about a listed change by a relevant employer,
@@ -469,7 +469,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (3) For the purposes of this paragraph, the working hours of an employee shall be taken to be any time when, in accordance with his contract of employment, the employee is required to be at work.
 
-**3.**[^key-547b84b0227be8ef0d3a7e5342267a4c] (1) An employee who is permitted to take time off under paragraph 2 is entitled to be paid remuneration by his employer for the time taken off at the appropriate hourly rate.
+**3.**[^c-547b84b0227be8ef0d3a7e5342267a4c] (1) An employee who is permitted to take time off under paragraph 2 is entitled to be paid remuneration by his employer for the time taken off at the appropriate hourly rate.
 
 (2) Chapter IV of Part 1 of the 1996 Order (a week’s pay) shall apply in relation to this paragraph as it applies in relation to Article 90 of that Order (right to remuneration for time off under Article 89).
 
@@ -489,7 +489,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (7) Any contractual remuneration paid to an employee in respect of a period of time off under paragraph 2 goes towards discharging any liability of the employer to pay remuneration under sub-paragraph (1) in respect of that period and, conversely, any payment of remuneration under sub-paragraph (1) in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
 
-**4.**[^key-95babbd68d40562aed4a0e783dae0909] (1) An employee may present a complaint to an industrial tribunal that his employer—
+**4.**[^c-95babbd68d40562aed4a0e783dae0909] (1) An employee may present a complaint to an industrial tribunal that his employer—
 
 - (a) has unreasonably refused to permit him to take time off as required by paragraph 2, or
 - (b) has failed to pay the whole or part of any amount to which the employee is entitled under paragraph 3.
@@ -499,7 +499,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 - (a) before the end of the period of three months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-fe3a1dfff8f8578b3faba7ff2d81da78] Paragraph 4A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of sub-paragraph (2).
+(2A)[^c-fe3a1dfff8f8578b3faba7ff2d81da78] Paragraph 4A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of sub-paragraph (2).
 
 (3) Where a tribunal finds a complaint under this paragraph well-founded, it shall make a declaration to that effect.
 
@@ -507,7 +507,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (5) If the complaint is that the employer has failed to pay the employee the whole or part of any amount to which he is entitled under paragraph 3, the tribunal shall also order the employer to pay to the employee the amount it finds due to him.
 
-**4A.**[^key-763d1ad1650b59f283445354add2d809] (1) In this paragraph—
+**4A.**[^c-763d1ad1650b59f283445354add2d809] (1) In this paragraph—
 
 - (a) Day A is the day on which the worker concerned complies with the requirement in paragraph (1) of Article 20A of the Tribunals Order (requirement to contact Labour Relations Agency before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
 - (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article.
@@ -520,7 +520,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 ### Protections against unfair dismissal
 
-**5.**[^key-ef9b2873aae31a0b4621d575ccbafc24] (1) An employee who is dismissed and to whom sub-paragraph (2) or (4) applies shall be regarded, if the reason (or if more than one, the principal reason) for the dismissal is a reason specified in, respectively, sub-paragraph (3) or (5), as unfairly dismissed for the purposes of Part XI of the 1996 Order (which makes provision as to rights and remedies relating to unfair dismissal).
+**5.**[^c-ef9b2873aae31a0b4621d575ccbafc24] (1) An employee who is dismissed and to whom sub-paragraph (2) or (4) applies shall be regarded, if the reason (or if more than one, the principal reason) for the dismissal is a reason specified in, respectively, sub-paragraph (3) or (5), as unfairly dismissed for the purposes of Part XI of the 1996 Order (which makes provision as to rights and remedies relating to unfair dismissal).
 
 (2) This sub-paragraph applies to an employee who is—
 
@@ -555,7 +555,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 but for that provision to apply, the claim to the right and, if applicable, the claim that it has been infringed must be made in good faith.
 
-**6.**[^key-7f6121499b8fba858a94725bf28dc611] (1) The 1996 Order shall be amended in accordance with sub-paragraphs (2) to (4).
+**6.**[^c-7f6121499b8fba858a94725bf28dc611] (1) The 1996 Order shall be amended in accordance with sub-paragraphs (2) to (4).
 
 (2) In Article 137 (redundancy as unfair dismissal)—
 
@@ -594,7 +594,7 @@ but for that provision to apply, the claim to the right and, if applicable, the 
 
 ### Protections from suffering other detriment in employment
 
-**7.**[^key-4fa6cbba5ec04496e03462aab303b7f2] (1) An employee to whom sub-paragraph (2) or (4) applies has the right not to be subjected to any detriment by any act, or deliberate failure to act, by his employer done on a ground specified in, respectively, sub-paragraph (3) or (5).
+**7.**[^c-4fa6cbba5ec04496e03462aab303b7f2] (1) An employee to whom sub-paragraph (2) or (4) applies has the right not to be subjected to any detriment by any act, or deliberate failure to act, by his employer done on a ground specified in, respectively, sub-paragraph (3) or (5).
 
 (2) This sub-paragraph applies to an employee who is—
 
@@ -631,13 +631,13 @@ but for that provision to apply, the claim to the right and, if applicable, the 
 
 (7) This paragraph does not apply where the detriment in question amounts to dismissal.
 
-**8.**[^key-2d6dabb76d73088a1fb48ca1b130dcd5] (1) An employee may present a complaint to an industrial tribunal that he has been subjected to a detriment in contravention of paragraph 7.
+**8.**[^c-2d6dabb76d73088a1fb48ca1b130dcd5] (1) An employee may present a complaint to an industrial tribunal that he has been subjected to a detriment in contravention of paragraph 7.
 
 (2) The provisions of Articles 71(2) to (4) and 72 of the 1996 Order[^f00022] (complaints to industrial tribunals and remedies) shall apply in relation to a complaint under this paragraph as they apply in relation to a complaint under Article 71 of that Order.
 
 ### Conciliation and appeals
 
-**9.**[^key-1ca29c0c5e37ca39e88cea73da7f4a00] In Article 20(1) of the Tribunals Order (which specifies the proceedings and claims in which conciliation procedures are available)—
+**9.**[^c-1ca29c0c5e37ca39e88cea73da7f4a00] In Article 20(1) of the Tribunals Order (which specifies the proceedings and claims in which conciliation procedures are available)—
 
 - (a) at the end of sub-paragraph (m)[^f00023] “or” shall be omitted, and
 - (b) after sub-paragraph (n)[^f00024] there shall be inserted—
@@ -650,18 +650,18 @@ but for that provision to apply, the claim to the right and, if applicable, the 
 
 ### Miscellaneous
 
-**10.**[^key-cc972089b9838cab6ffc43b9bad0a061] Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports to exclude or limit the operation of any provision of regulations 6 to 16.
+**10.**[^c-cc972089b9838cab6ffc43b9bad0a061] Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports to exclude or limit the operation of any provision of regulations 6 to 16.
 
-**11.**[^key-40f3cad300e4813c5c3d2046092737dc] (1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports—
+**11.**[^c-40f3cad300e4813c5c3d2046092737dc] (1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports—
 
 - (a) to exclude or limit the operation of any provision of this Schedule, or
 - (b) to preclude a person from bringing any proceedings before an industrial tribunal under this Schedule.
 
-(2) Sub-paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an industrial tribunal where the Labour Relations Agency has taken action under any of Articles 20A to 20C[^key-1f4231b6d060e6a93acdf0e6884ffe91] of the Tribunals Order (conciliation).
+(2) Sub-paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an industrial tribunal where the Labour Relations Agency has taken action under any of Articles 20A to 20C[^c-1f4231b6d060e6a93acdf0e6884ffe91] of the Tribunals Order (conciliation).
 
 (3) Sub-paragraph (1) does not apply to any agreement to refrain from instituting or continuing before an industrial tribunal proceedings within Article 20(1) of the Tribunals Order (which specifies proceedings under these Regulations as being proceedings where conciliation is available[^f00025]) if the conditions specified in paragraph 12 regulating compromise agreements are satisfied in relation to the agreement.
 
-**12.**[^key-43bcdd0b1019e6c7048663e678f29428] (1) For the purposes of paragraph 11(3) the conditions regulating compromise agreements are that—
+**12.**[^c-43bcdd0b1019e6c7048663e678f29428] (1) For the purposes of paragraph 11(3) the conditions regulating compromise agreements are that—
 
 - (a) the agreement must be in writing;
 - (b) the agreement must relate to the particular proceedings;
@@ -719,103 +719,103 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Articles 236 and 238 are modified in respect of multi-employer schemes by regulation 2 of [S.R. 2006 No. 4](https://www.legislation.gov.uk/nisr/2006/4)
 
-[^key-46acaecb025d1378bbcbbab76eab9cad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-46acaecb025d1378bbcbbab76eab9cad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-0d1a287509bda54a2fc6d34492f8a735]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/48/regulation/2) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-0d1a287509bda54a2fc6d34492f8a735]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/48/regulation/2) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47)
 
 [^f00003]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-9f391ec2aa4fe9dcc6db0ebf9b020166]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/48/regulation/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/27/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f391ec2aa4fe9dcc6db0ebf9b020166]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/48/regulation/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/27/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf8abe32a907c1ffa58e1fceed8758f5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/48/regulation/3) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-cf8abe32a907c1ffa58e1fceed8758f5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/48/regulation/3) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00004]: Footnote: The persons referred to in regulation 3(1)(b)(iii) are specified by virtue of modifications of Articles 236 and 238 of the Pensions (Northern Ireland) Order 2005 made by regulation 2 of [S.R. 2006 No. 4](https://www.legislation.gov.uk/nisr/2006/4)
 
-[^key-f78dcd30d8fa7563d644537571c681e9]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2)[(2A)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2B) substituted for [reg. 3(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2) (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(2)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/2)
+[^c-f78dcd30d8fa7563d644537571c681e9]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2)[(2A)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2B) substituted for [reg. 3(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/3/2) (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(2)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/2)
 
-[^key-cf779ffcf7fb40838a4bfa2dc0d0d06e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/48/regulation/4) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-cf779ffcf7fb40838a4bfa2dc0d0d06e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/48/regulation/4) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-7b757687c37f806981a6b301576d3de6]: Textual amendment: Word in [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/d) inserted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(a)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/a)
+[^c-7b757687c37f806981a6b301576d3de6]: Textual amendment: Word in [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/d) inserted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(a)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/a)
 
-[^key-b4b08f8729a024a0e717ceee4c9159d8]: Textual amendment: Words in [reg. 4(1)(e)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/e) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/27/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4b08f8729a024a0e717ceee4c9159d8]: Textual amendment: Words in [reg. 4(1)(e)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/e) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/27/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df0c141cd6992367e57f72183fc2ca7b]: Textual amendment: Word in [reg. 4(1)(e)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/e) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/b)
+[^c-df0c141cd6992367e57f72183fc2ca7b]: Textual amendment: Word in [reg. 4(1)(e)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/e) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/b)
 
-[^key-5b8e90eb9ce17bb119de9306e8570caf]: Textual amendment: [Reg. 4(1)(f)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/f) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/b)
+[^c-5b8e90eb9ce17bb119de9306e8570caf]: Textual amendment: [Reg. 4(1)(f)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/1/f) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/b)
 
-[^key-814210a5dbd75eb87d29d20957e9d520]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/3) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/b)
+[^c-814210a5dbd75eb87d29d20957e9d520]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/3) omitted (6.4.2006) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/3/b)
 
 [^f00005]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 393A was inserted by section 249(3) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12)
 
 [^f00006]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 1 is amended by Article 216(2) of the Pensions (Northern Ireland) Order 2005
 
-[^key-00232cc9f10901949c4e4064709e18c9]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(a)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/a)
+[^c-00232cc9f10901949c4e4064709e18c9]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(a)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/a)
 
 [^f00007]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005
 
-[^key-d9632c98b339bb0eb1ae6c7f6faf523d]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(b)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/b/i)
+[^c-d9632c98b339bb0eb1ae6c7f6faf523d]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(b)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/b/i)
 
-[^key-44d25d2523fc75a19dc1e7f8580f0469]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(b)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/b/ii)
+[^c-44d25d2523fc75a19dc1e7f8580f0469]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(b)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/b/ii)
 
-[^key-1ce4fb4d0a815e2043fa79cf3e1bbddd]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(b)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/b/iii)
+[^c-1ce4fb4d0a815e2043fa79cf3e1bbddd]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/4/4) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [17(b)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/17/b/iii)
 
 [^f00008]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 153 was amended by paragraphs 2 and 3 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7)
 
-[^key-d7518b9b47a58f398c9ba173407baf7e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/48/regulation/5) substituted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(4)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/4)
+[^c-d7518b9b47a58f398c9ba173407baf7e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/48/regulation/5) substituted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [8(4)](https://www.legislation.gov.uk/nisr/2006/141/regulation/8/4)
 
-[^key-dfb4baa18807d594d7ca73ebacb22e35]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/48/regulation/6) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-dfb4baa18807d594d7ca73ebacb22e35]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/48/regulation/6) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-594e7e5871d3439bd082cb2f39931b1e]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/6/4) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/113/regulation/2/2)
+[^c-594e7e5871d3439bd082cb2f39931b1e]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/6/4) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/113/regulation/2/2)
 
-[^key-a62f21101615568db66fb14a001a943c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/48/regulation/7) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-a62f21101615568db66fb14a001a943c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/48/regulation/7) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-076268a713042d1f0552e8dd6f5e472f]: Textual amendment: Word in [reg. 7(2)(a)](https://www.legislation.gov.uk/nisr/2006/48/regulation/7/2/a) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [6(a)(i)](https://www.legislation.gov.uk/nisr/2011/89/regulation/6/a/i)
+[^c-076268a713042d1f0552e8dd6f5e472f]: Textual amendment: Word in [reg. 7(2)(a)](https://www.legislation.gov.uk/nisr/2006/48/regulation/7/2/a) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [6(a)(i)](https://www.legislation.gov.uk/nisr/2011/89/regulation/6/a/i)
 
-[^key-a2d71cd2a838912c9e8e491e9cbb3223]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2006/48/regulation/7/2/c) and word added (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2011/89/regulation/6/a/ii)
+[^c-a2d71cd2a838912c9e8e491e9cbb3223]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2006/48/regulation/7/2/c) and word added (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2011/89/regulation/6/a/ii)
 
-[^key-c3b2b806672faec5451cb967f9bad882]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2006/48/regulation/7/3) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [6(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/6/b)
+[^c-c3b2b806672faec5451cb967f9bad882]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2006/48/regulation/7/3) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/89)](https://www.legislation.gov.uk/nisr/2011/89), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b), [6(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/6/b)
 
-[^key-a7880fb27b28f34d9989098b2c6b09bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/48/regulation/8) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-a7880fb27b28f34d9989098b2c6b09bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/48/regulation/8) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-e0ebefaa0a424f825711c39231faa7a1]: Textual amendment: [Reg. 8(1)(h)](https://www.legislation.gov.uk/nisr/2006/48/regulation/8/1/h) added (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/113/regulation/2/3)
+[^c-e0ebefaa0a424f825711c39231faa7a1]: Textual amendment: [Reg. 8(1)(h)](https://www.legislation.gov.uk/nisr/2006/48/regulation/8/1/h) added (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/113/regulation/2/3)
 
-[^key-f009629287ee244d6c24203789158763]: Textual amendment: [Reg. 8(3)(e)](https://www.legislation.gov.uk/nisr/2006/48/regulation/8/3/e) added (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/108)](https://www.legislation.gov.uk/nisr/2010/108), [regs. 1](https://www.legislation.gov.uk/nisr/2010/108/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2010/108/regulation/6/a)
+[^c-f009629287ee244d6c24203789158763]: Textual amendment: [Reg. 8(3)(e)](https://www.legislation.gov.uk/nisr/2006/48/regulation/8/3/e) added (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/108)](https://www.legislation.gov.uk/nisr/2010/108), [regs. 1](https://www.legislation.gov.uk/nisr/2010/108/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2010/108/regulation/6/a)
 
-[^key-eae5c1b83ccf999c422916d9be06c5f7]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2006/48/regulation/8/5) added (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/108)](https://www.legislation.gov.uk/nisr/2010/108), [regs. 1](https://www.legislation.gov.uk/nisr/2010/108/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2010/108/regulation/6/b)
+[^c-eae5c1b83ccf999c422916d9be06c5f7]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2006/48/regulation/8/5) added (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/108)](https://www.legislation.gov.uk/nisr/2010/108), [regs. 1](https://www.legislation.gov.uk/nisr/2010/108/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2010/108/regulation/6/b)
 
-[^key-2c113e7279fb619ff27ebf231de457ae]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/48/regulation/9) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-2c113e7279fb619ff27ebf231de457ae]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/48/regulation/9) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-7dd3991db0a6481a4846fa04bdb09b77]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/48/regulation/10) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-7dd3991db0a6481a4846fa04bdb09b77]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/48/regulation/10) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-aeea673502031b80658b8d6799fb4276]: Textual amendment: [Reg. 10(1)(aa)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/aa) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [13(1)](https://www.legislation.gov.uk/nisr/2015/309/regulation/13/1)
+[^c-aeea673502031b80658b8d6799fb4276]: Textual amendment: [Reg. 10(1)(aa)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/aa) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [13(1)](https://www.legislation.gov.uk/nisr/2015/309/regulation/13/1)
 
-[^key-aa241258f0e61df7bcda8829018d0c68]: Textual amendment: [Reg. 10(1)(ab)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ab) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Modification of Schemes and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/144)](https://www.legislation.gov.uk/nisr/2016/144), [regs. 1](https://www.legislation.gov.uk/nisr/2016/144/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/144/regulation/3)
+[^c-aa241258f0e61df7bcda8829018d0c68]: Textual amendment: [Reg. 10(1)(ab)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ab) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Modification of Schemes and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/144)](https://www.legislation.gov.uk/nisr/2016/144), [regs. 1](https://www.legislation.gov.uk/nisr/2016/144/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/144/regulation/3)
 
-[^key-9a2a9e912e5bc9d3c98e083d7f9f42ee]: Textual amendment: [Reg. 10(1)(ac)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ac)[(ad)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ad) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [11(a)](https://www.legislation.gov.uk/nisr/2022/192/regulation/11/a)
+[^c-9a2a9e912e5bc9d3c98e083d7f9f42ee]: Textual amendment: [Reg. 10(1)(ac)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ac)[(ad)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ad) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [11(a)](https://www.legislation.gov.uk/nisr/2022/192/regulation/11/a)
 
-[^key-aa3bd21732c149fdb1234850591a16cb]: Textual amendment: Word in [reg. 10(1)(ac)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ac) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/2/a)
+[^c-aa3bd21732c149fdb1234850591a16cb]: Textual amendment: Word in [reg. 10(1)(ac)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ac) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/2/a)
 
-[^key-524b0aa3d348fb95154612b1cbb0ade6]: Textual amendment: Word in [reg. 10(1)(ad)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ad) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2025/175/regulation/2/b)
+[^c-524b0aa3d348fb95154612b1cbb0ade6]: Textual amendment: Word in [reg. 10(1)(ad)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ad) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2025/175/regulation/2/b)
 
-[^key-b131a0a259faac8010e901f883193534]: Textual amendment: Words in [reg. 10(1)(ad)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ad) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/a/i)
+[^c-b131a0a259faac8010e901f883193534]: Textual amendment: Words in [reg. 10(1)(ad)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ad) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/a/i)
 
-[^key-3b649afb559049ea560766aa4e6bdb3f]: Textual amendment: [Reg. 10(1)(ae)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ae) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/a/ii)
+[^c-3b649afb559049ea560766aa4e6bdb3f]: Textual amendment: [Reg. 10(1)(ae)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/1/ae) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/a/ii)
 
 [^f00009]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 67 is substituted by Article 239 of the Pensions (Northern Ireland) Order 2005
 
-[^key-c3019867b1a16ea368fcfba15575029b]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/4) added (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [11(b)](https://www.legislation.gov.uk/nisr/2022/192/regulation/11/b)
+[^c-c3019867b1a16ea368fcfba15575029b]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/4) added (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [11(b)](https://www.legislation.gov.uk/nisr/2022/192/regulation/11/b)
 
-[^key-ab1df28359b0d6712918369b9566d734]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/4) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(b)(i)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/b/i)
+[^c-ab1df28359b0d6712918369b9566d734]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/4) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(b)(i)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/b/i)
 
-[^key-c59987486e26184f978a77e619fd5c93]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/4) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/b/ii)
+[^c-c59987486e26184f978a77e619fd5c93]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/48/regulation/10/4) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/4/b/ii)
 
-[^key-36d412eeb0efe99865c0a5a144d6f260]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/48/regulation/11) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-36d412eeb0efe99865c0a5a144d6f260]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/48/regulation/11) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-9304fb78b700be781397cbd5553f3b69]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2006/48/regulation/11/3) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/14)
+[^c-9304fb78b700be781397cbd5553f3b69]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2006/48/regulation/11/3) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/14)
 
-[^key-19bd1690f9e514120af9974bdfdba6f8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/48/regulation/12) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-19bd1690f9e514120af9974bdfdba6f8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/48/regulation/12) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00010]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807); *see* Articles 2(2) and 39(2)
 
@@ -823,51 +823,51 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00012]: Footnote: S.I. [1999/3323](https://www.legislation.gov.uk/uksi/1999/3323)
 
-[^key-899c3778268e8a25d9d4988d3385bcde]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/48/regulation/13) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-899c3778268e8a25d9d4988d3385bcde]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/48/regulation/13) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-89feb7cb1bacb2eecf56a6d7b5dfcd71]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/48/regulation/14) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-89feb7cb1bacb2eecf56a6d7b5dfcd71]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/48/regulation/14) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-f4dee45e8e95cf3b36b36f5d261f2bf2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/48/regulation/15) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-f4dee45e8e95cf3b36b36f5d261f2bf2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/48/regulation/15) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-e5377f1dda9ca22945c03fc061f851f8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/48/regulation/16) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-e5377f1dda9ca22945c03fc061f851f8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/48/regulation/16) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-487583c99c68e5fae6a6384bcaca2b1c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/48/regulation/17) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-487583c99c68e5fae6a6384bcaca2b1c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/48/regulation/17) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-8de132836cb27a3b11c8e0663c23d62b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/48/regulation/18) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-8de132836cb27a3b11c8e0663c23d62b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/48/regulation/18) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-6b845462d5af680643761afb7e467dec]: Textual amendment: Reg. 18 heading substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/2/a)
+[^c-6b845462d5af680643761afb7e467dec]: Textual amendment: Reg. 18 heading substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/2/a)
 
-[^key-5f2e0e81052466cf2fbffaa33602ad5c]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2006/48/regulation/18/1) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/2/b)
+[^c-5f2e0e81052466cf2fbffaa33602ad5c]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2006/48/regulation/18/1) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/2/b)
 
-[^key-178beb2bad194bee68eaf26040ad6ede]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/18/2) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(2)(c)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/2/c)
+[^c-178beb2bad194bee68eaf26040ad6ede]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/nisr/2006/48/regulation/18/2) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(2)(c)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/2/c)
 
-[^key-e94f4591eb50d035b17c70e3127e9c85]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/nisr/2006/48/regulation/18A) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(3)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/3)
+[^c-e94f4591eb50d035b17c70e3127e9c85]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/nisr/2006/48/regulation/18A) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [18(3)](https://www.legislation.gov.uk/nisr/2009/115/regulation/18/3)
 
-[^key-5f6e11c05938be97efd20847ff23e8f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/48/regulation/19) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-5f6e11c05938be97efd20847ff23e8f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/48/regulation/19) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-801e3cd9ee9ed3aaecb677d645f19435]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/48/regulation/20) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-801e3cd9ee9ed3aaecb677d645f19435]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/48/regulation/20) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-a17beca45c27cf8b928521352fccfdee]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/48/regulation/21) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-a17beca45c27cf8b928521352fccfdee]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/48/regulation/21) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-03b9913d9e140e750b35acbd80134e63]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/1) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-03b9913d9e140e750b35acbd80134e63]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/1) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00013]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
 [^f00014]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-60ac22510991d2f8a10385535c9ca7c3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/2) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-60ac22510991d2f8a10385535c9ca7c3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/2) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-547b84b0227be8ef0d3a7e5342267a4c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/3) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-547b84b0227be8ef0d3a7e5342267a4c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/3) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-95babbd68d40562aed4a0e783dae0909]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/4) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-95babbd68d40562aed4a0e783dae0909]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/4) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-fe3a1dfff8f8578b3faba7ff2d81da78]: Textual amendment: [Sch. para. 4(2A)](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/4/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 34](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/34)
+[^c-fe3a1dfff8f8578b3faba7ff2d81da78]: Textual amendment: [Sch. para. 4(2A)](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/4/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 34](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/34)
 
-[^key-763d1ad1650b59f283445354add2d809]: Textual amendment: [Sch. para. 4A](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/4A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 35](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/35)
+[^c-763d1ad1650b59f283445354add2d809]: Textual amendment: [Sch. para. 4A](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/4A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 35](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/35)
 
-[^key-ef9b2873aae31a0b4621d575ccbafc24]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/5) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-ef9b2873aae31a0b4621d575ccbafc24]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/5) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-7f6121499b8fba858a94725bf28dc611]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/6) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-7f6121499b8fba858a94725bf28dc611]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/6) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00015]: Footnote: Paragraph (1) was amended by Article 20(4) of the Employment Relations (Northern Ireland) Order 2004 (S.I. [2004/3078 (N.I. 19)](https://www.legislation.gov.uk/nisi/2004/3078)) and regulation 43(1)(a) of [S.R. 2004 No. 417](https://www.legislation.gov.uk/nisr/2004/417)
 
@@ -883,26 +883,26 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00021]: Footnote: Sub-paragraph (o) was inserted by regulation 31(3)(b) of [S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47)
 
-[^key-4fa6cbba5ec04496e03462aab303b7f2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/7) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-4fa6cbba5ec04496e03462aab303b7f2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/7) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-2d6dabb76d73088a1fb48ca1b130dcd5]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/8) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-2d6dabb76d73088a1fb48ca1b130dcd5]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/8) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00022]: Footnote: Articles 71(2) and 72 were amended respectively by Articles 6(3) and 7 of the Public Interest Disclosure (Northern Ireland) Order 1998 ([S.I 1998/1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763))
 
-[^key-1ca29c0c5e37ca39e88cea73da7f4a00]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/9) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-1ca29c0c5e37ca39e88cea73da7f4a00]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/9) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00023]: Footnote: Sub-paragraph (m) was inserted by regulation 46 of [S.R. 2004 No. 417](https://www.legislation.gov.uk/nisr/2004/417)
 
 [^f00024]: Footnote: Sub-paragraph (n) was inserted by regulation 34(b) of [S.R. 2005 No. 47](https://www.legislation.gov.uk/nisr/2005/47)
 
-[^key-cc972089b9838cab6ffc43b9bad0a061]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/10) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-cc972089b9838cab6ffc43b9bad0a061]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/10) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-40f3cad300e4813c5c3d2046092737dc]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/11) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-40f3cad300e4813c5c3d2046092737dc]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/11) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
-[^key-1f4231b6d060e6a93acdf0e6884ffe91]: Textual amendment: Words in [Sch. para. 11(2)](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/11/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 36](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/36)
+[^c-1f4231b6d060e6a93acdf0e6884ffe91]: Textual amendment: Words in [Sch. para. 11(2)](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/11/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 36](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/36)
 
 [^f00025]: Footnote: *See* paragraph 9 of the Schedule to these Regulations
 
-[^key-43bcdd0b1019e6c7048663e678f29428]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/12) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
+[^c-43bcdd0b1019e6c7048663e678f29428]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/12) in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/48/regulation/1)
 
 [^f00026]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)

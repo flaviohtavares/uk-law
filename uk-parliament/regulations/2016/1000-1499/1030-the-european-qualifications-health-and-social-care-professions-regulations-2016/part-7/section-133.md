@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Insertion of section 85A (Welsh text)[^key-441f3d9698a383c567752ab1fae91109]
+## 133. Insertion of section 85A (Welsh text)[^c-441f3d9698a383c567752ab1fae91109]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In the Welsh language text, after section 85, insert—
 
 ## Annotations
 
-[^key-441f3d9698a383c567752ab1fae91109]: Commencement: Reg. 133 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-441f3d9698a383c567752ab1fae91109]: Commencement: Reg. 133 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

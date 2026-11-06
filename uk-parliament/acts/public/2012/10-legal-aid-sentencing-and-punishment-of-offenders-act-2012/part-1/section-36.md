@@ -31,11 +31,11 @@ summary: ''
 
 (4) Subsection (3) does not authorise the commencement of proceedings for an offence more than 2 years after the date on which the offence was committed.
 
-(5) The county court[^key-b6ec0dac94ff2d4463643245b904c854] is to have jurisdiction to hear and determine an action brought by the Lord Chancellor to recover loss sustained by reason of—
+(5) The county court[^c-b6ec0dac94ff2d4463643245b904c854] is to have jurisdiction to hear and determine an action brought by the Lord Chancellor to recover loss sustained by reason of—
 
 - (a) the failure by a person to comply with a requirement imposed by or under this Part to provide documents or information, or
 - (b) a false statement or false representation made by a person in providing documents or information in accordance with such a requirement.
 
 ## Annotations
 
-[^key-b6ec0dac94ff2d4463643245b904c854]: Textual amendment: Words in [s. 36(5)](https://www.legislation.gov.uk/ukpga/2012/10/section/36/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b6ec0dac94ff2d4463643245b904c854]: Textual amendment: Words in [s. 36(5)](https://www.legislation.gov.uk/ukpga/2012/10/section/36/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Election expenses — list of matters and general exclusions[^key-5d240109fc1c48b42190e620f7c733e0]
+## 59. Election expenses — list of matters and general exclusions[^c-5d240109fc1c48b42190e620f7c733e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5d240109fc1c48b42190e620f7c733e0]: Commencement: Art. 59 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5d240109fc1c48b42190e620f7c733e0]: Commencement: Art. 59 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00043]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 

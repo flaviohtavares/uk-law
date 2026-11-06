@@ -48,7 +48,7 @@ An Act to amend the law with respect to the transfer of securities.
 - (d) securities issued by any local authority;
 - (e)[^c5443271] units of an authorised unit trust scheme or a recognised scheme within the meaning of Part 17 of the Financial Services and Markets Act 2000[^c5443281].
 - (f)[^c5443311] shares issued by an open-ended investment company within the meaning of the Open-ended Investment Companies Regulations (Northern Ireland) 2004.
-- (g)[^key-f7797b1b233667ae2784cbe0172ee0e9] shares issued by a protected cell company within the meaning of Part 4 of the Risk Transformation Regulations 2017.
+- (g)[^c-f7797b1b233667ae2784cbe0172ee0e9] shares issued by a protected cell company within the meaning of Part 4 of the Risk Transformation Regulations 2017.
 
 ## 2. Supplementary provisions as to simplified transfer.
 
@@ -126,7 +126,7 @@ SCHEDULES
 
 [^c5443311]: Textual amendment: SR 2004/335
 
-[^key-f7797b1b233667ae2784cbe0172ee0e9]: Textual amendment: [S. 1(4)(g)](https://www.legislation.gov.uk/apni/1963/24/section/1/4/g) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/2) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-f7797b1b233667ae2784cbe0172ee0e9]: Textual amendment: [S. 1(4)(g)](https://www.legislation.gov.uk/apni/1963/24/section/1/4/g) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/2) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^c20706661]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/apni/1963/24/section/2/2) substituted (6.4.2008) by virtue of [Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1/b), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/38/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 

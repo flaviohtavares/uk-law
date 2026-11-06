@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Requirement to enter into a contract for a loan[^key-4ce7a29eb5bfaa33c0df77eac34c0d3d]
+## 12. Requirement to enter into a contract for a loan[^c-4ce7a29eb5bfaa33c0df77eac34c0d3d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ce7a29eb5bfaa33c0df77eac34c0d3d]: Commencement: Reg. 12 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-4ce7a29eb5bfaa33c0df77eac34c0d3d]: Commencement: Reg. 12 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

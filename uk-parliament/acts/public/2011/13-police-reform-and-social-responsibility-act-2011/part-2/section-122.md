@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Licensing policy statements[^key-4072618984e1baac3c1b15f52abbd6b6]
+## 122. Licensing policy statements[^c-4072618984e1baac3c1b15f52abbd6b6]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4072618984e1baac3c1b15f52abbd6b6]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2011/13/section/122) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-4072618984e1baac3c1b15f52abbd6b6]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2011/13/section/122) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

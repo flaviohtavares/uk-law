@@ -116,7 +116,7 @@ Section 50
 
 (3) In section 21(2) (recorders), for the words from “he has a 10 year” to the end substitute “ he satisfies the judicial-appointment eligibility condition on a 7-year basis. ”
 
-(4)[^key-b8ea4e6c5637a4cbb5ed313981b32752] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b8ea4e6c5637a4cbb5ed313981b32752] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) Paragraph 1(1)(a) of Schedule 3 to the Misuse of Drugs Act 1971 (c. 38) (tribunal chairmen) is amended as follows.
 
@@ -234,7 +234,7 @@ Section 50
 
 (3) In paragraphs (b) and (c), for “7” substitute “ 5 ”.
 
-**19.**[^key-fea3a8b2d187feb6b5a26f1b5820eddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-fea3a8b2d187feb6b5a26f1b5820eddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** (1) Section 145(3) of the Copyright, Designs and Patents Act 1988 (c. 48) (chairman and deputy chairman of Copyright tribunal) is amended as follows.
 
@@ -304,7 +304,7 @@ Section 50
 
 **27.** In paragraph 1(1)(a) of Schedule 6 to the Police Act 1996 (c. 16) (legally qualified member of Police Appeals Tribunals), for the words from “have a seven” to “1990” substitute “ satisfy the judicial-appointment eligibility condition on a 5-year basis ”.
 
-**28.**[^key-b7f28935c7c7b15adf5adbe025dd4593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-b7f28935c7c7b15adf5adbe025dd4593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** [^c20742271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -453,17 +453,17 @@ Section 50
 
 [^c20815071]: Textual amendment: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/5) repealed (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(5)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1307/schedule/4) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-b8ea4e6c5637a4cbb5ed313981b32752]: Textual amendment: [Sch. 10 para. 9(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/9/4) omitted (15.7.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 89(2)(l)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/89/2/l); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-b8ea4e6c5637a4cbb5ed313981b32752]: Textual amendment: [Sch. 10 para. 9(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/9/4) omitted (15.7.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 89(2)(l)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/89/2/l); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
 [^c20815081]: Textual amendment: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/11) repealed (1.9.2009) by [The Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 (S.I. 2009/1835)](https://www.legislation.gov.uk/uksi/2009/1835), [art. 4(3)](https://www.legislation.gov.uk/uksi/2009/1835/article/4/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4))
 
-[^key-fea3a8b2d187feb6b5a26f1b5820eddc]: Textual amendment: [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/19) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(16)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/16/b); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
+[^c-fea3a8b2d187feb6b5a26f1b5820eddc]: Textual amendment: [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/19) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 22(16)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/22/16/b); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1732/article/7))
 
 [^c20742141]: Textual amendment: [Sch. 10 para. 22(2)(4)(5)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/22/2/4/5) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 228(q)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/q)
 
 [^c20815111]: Textual amendment: [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/23) repealed (1.9.2009) by [The Transfer of Functions of the Charity Tribunal Order 2009 (S.I. 2009/1834)](https://www.legislation.gov.uk/uksi/2009/1834), [art. 4(3)](https://www.legislation.gov.uk/uksi/2009/1834/article/4/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1834/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1834/schedule/4))
 
-[^key-b7f28935c7c7b15adf5adbe025dd4593]: Textual amendment: [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/28) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 6(g)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/6/g); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xvi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xvi)
+[^c-b7f28935c7c7b15adf5adbe025dd4593]: Textual amendment: [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/28) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 6(g)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/6/g); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xvi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xvi)
 
 [^c20742271]: Textual amendment: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2007/15/schedule/10/paragraph/29) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 228(r)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/r)
 

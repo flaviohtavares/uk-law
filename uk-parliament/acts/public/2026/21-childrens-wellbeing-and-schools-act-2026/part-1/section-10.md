@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Sibling contact with children in care[^key-978c8f9c2312cfb3a68b46c0605739a5]
+## 10. Sibling contact with children in care[^c-978c8f9c2312cfb3a68b46c0605739a5]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ In section 34 of the Children Act 1989 (parental contact etc. with children in c
 
 ## Annotations
 
-[^key-978c8f9c2312cfb3a68b46c0605739a5]: Commencement: S. 10 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-978c8f9c2312cfb3a68b46c0605739a5]: Commencement: S. 10 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

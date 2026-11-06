@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commissioners for Her Majesty’s Revenue and Customs[^key-26c4cfb6c5434e22c64efadd87e3287f] (“**the Commissioners**”) may make regulations requiring the use of electronic communications for the delivery by specified persons of specified information required or authorised to be delivered by or under legislation relating to a taxation matter.
+(1) The Commissioners for Her Majesty’s Revenue and Customs[^c-26c4cfb6c5434e22c64efadd87e3287f] (“**the Commissioners**”) may make regulations requiring the use of electronic communications for the delivery by specified persons of specified information required or authorised to be delivered by or under legislation relating to a taxation matter.
 
 (2) Regulations under this section may make provision—
 
-- (a) as to the electronic form to be taken by information delivered to the Revenue and Customs[^key-13c83baaffd9fc102697ad58d593d18a] using electronic communications;
+- (a) as to the electronic form to be taken by information delivered to the Revenue and Customs[^c-13c83baaffd9fc102697ad58d593d18a] using electronic communications;
 - (b) requiring persons to prepare and keep records of information delivered to Revenue and Customs by means of electronic communications;
 - (c) for the production of the contents of records kept in accordance with the regulations;
 - (d) as to conditions that must be complied with in connection with the use of electronic communications for the delivery of information;
@@ -43,7 +43,7 @@ summary: ''
 
 (4) Regulations under this section may—
 
-- (a) allow any authorisation , requirement or other provision (other than provision under subsection (7)(a) to (ba))[^key-2bc50ce67f8866b2a7c956ff5208e8dd] for which the regulations may provide to be given , imposed or made[^key-20d18db2784afd6a4837b1a40313365d] by means of a specific or general direction given by the Commissioners;
+- (a) allow any authorisation , requirement or other provision (other than provision under subsection (7)(a) to (ba))[^c-2bc50ce67f8866b2a7c956ff5208e8dd] for which the regulations may provide to be given , imposed or made[^c-20d18db2784afd6a4837b1a40313365d] by means of a specific or general direction given by the Commissioners;
 - (b) provide that the conditions of any such authorisation or requirement are to be taken to be satisfied only where the Revenue and Customs are satisfied as to specified matters;
 - (c) allow a person to refuse to accept delivery of information in an electronic form or by means of electronic communications except in such circumstances as may be specified in or determined under the regulations;
 - (d) allow or require use to be made of intermediaries in connection with—
@@ -66,11 +66,11 @@ summary: ''
 
 - (a) to provide for a contravention of, or any failure to comply with, the regulations to attract a penalty of a specified amount not exceeding £3,000;
 - (b) to provide that specified enactments relating to penalties imposed for the purposes of any taxation matter (including enactments relating to assessments, review and appeal) apply, with or without modifications, in relation to penalties under the regulations;
-- (ba)[^key-7da04f1a32be5820fb3e866e952b14cc] to specify other consequences of contravention of, or failure to comply with, the regulations (which may include disregarding a return delivered otherwise than by the use of electronic communications);
+- (ba)[^c-7da04f1a32be5820fb3e866e952b14cc] to specify other consequences of contravention of, or failure to comply with, the regulations (which may include disregarding a return delivered otherwise than by the use of electronic communications);
 - (c) to make different provision for different cases;
 - (d) to make such incidental, supplemental, consequential and transitional provision in connection with any provision contained in any of the regulations as the Commissioners think fit.
 
-(8)[^key-9e327aec7c4b7011fa0bb213892f8d88] References in this section to the delivery of information include references to any of the following (however referred to)—
+(8)[^c-9e327aec7c4b7011fa0bb213892f8d88] References in this section to the delivery of information include references to any of the following (however referred to)—
 
 - (a) the production or furnishing to a person of any information, account, record or document;
 - (b) the giving, making, issue or surrender to, or service on, any person of any notice, notification, statement, declaration, certificate or direction;
@@ -82,31 +82,31 @@ summary: ''
 
 (10) In this section—
 
-- “[^key-c8454b19373abbdce0f0d5e05ff70efe] **the Revenue and Customs** ” means—
+- “[^c-c8454b19373abbdce0f0d5e05ff70efe] **the Revenue and Customs** ” means—
   - (a) the Commissioners,
   - (b) any officer of Revenue and Customs, and
   - (c) any other person who for the purposes of electronic communications is acting under the authority of the Commissioners;
-- “**legislation**” means any enactment, EU[^key-26924be26e9099384c0083a62af6e984] legislation or subordinate legislation;
+- “**legislation**” means any enactment, EU[^c-26924be26e9099384c0083a62af6e984] legislation or subordinate legislation;
 - “**specified**” means specified by or under regulations under this section;
 - “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30);
-- “[^key-b6acdc52955e831dd006dff68246e496]**taxation matter**” means any matter relating to a tax (or duty) for which the Commissioners are responsible.
+- “[^c-b6acdc52955e831dd006dff68246e496]**taxation matter**” means any matter relating to a tax (or duty) for which the Commissioners are responsible.
 
 ## Annotations
 
-[^key-26c4cfb6c5434e22c64efadd87e3287f]: Textual amendment: Words in s. 135(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 95(1)(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/95/1/a); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-26c4cfb6c5434e22c64efadd87e3287f]: Textual amendment: Words in s. 135(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 95(1)(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/95/1/a); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-13c83baaffd9fc102697ad58d593d18a]: Textual amendment: Words in s. 135(2)-(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 95(1)(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/95/1/b); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-13c83baaffd9fc102697ad58d593d18a]: Textual amendment: Words in s. 135(2)-(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 95(1)(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/95/1/b); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-2bc50ce67f8866b2a7c956ff5208e8dd]: Textual amendment: Words in [s. 135(4)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/135/4/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 260(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/260/2/a)
+[^c-2bc50ce67f8866b2a7c956ff5208e8dd]: Textual amendment: Words in [s. 135(4)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/135/4/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 260(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/260/2/a)
 
-[^key-20d18db2784afd6a4837b1a40313365d]: Textual amendment: Words in [s. 135(4)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/135/4/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 260(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/260/2/b)
+[^c-20d18db2784afd6a4837b1a40313365d]: Textual amendment: Words in [s. 135(4)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/135/4/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 260(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/260/2/b)
 
-[^key-7da04f1a32be5820fb3e866e952b14cc]: Textual amendment: S. 135(7)(ba) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/93/2)
+[^c-7da04f1a32be5820fb3e866e952b14cc]: Textual amendment: S. 135(7)(ba) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/93/2)
 
-[^key-9e327aec7c4b7011fa0bb213892f8d88]: Modification: S. 135(8) applied by SI 2001/1004 reg. 90A(2) (as inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2004/770/regulation/23))
+[^c-9e327aec7c4b7011fa0bb213892f8d88]: Modification: S. 135(8) applied by SI 2001/1004 reg. 90A(2) (as inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2004/770/regulation/23))
 
-[^key-c8454b19373abbdce0f0d5e05ff70efe]: Textual amendment: Words in s. 135(10) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 95(1)(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/95/1/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-c8454b19373abbdce0f0d5e05ff70efe]: Textual amendment: Words in s. 135(10) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 95(1)(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/95/1/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-26924be26e9099384c0083a62af6e984]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-26924be26e9099384c0083a62af6e984]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-b6acdc52955e831dd006dff68246e496]: Textual amendment: Words in s. 135(10) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 93(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/93/3)
+[^c-b6acdc52955e831dd006dff68246e496]: Textual amendment: Words in s. 135(10) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 93(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/93/3)

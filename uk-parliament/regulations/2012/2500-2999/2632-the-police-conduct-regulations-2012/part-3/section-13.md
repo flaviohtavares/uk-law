@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Appointment of investigator[^key-79fddf2dcede753163db937a037b5e05]
+## 13. Appointment of investigator[^c-79fddf2dcede753163db937a037b5e05]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79fddf2dcede753163db937a037b5e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2632) revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/a) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-79fddf2dcede753163db937a037b5e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2632) revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/a) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))

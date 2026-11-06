@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Remuneration of employees.[^key-00dac0fec4d32aef13b0bb99184f9b95]
+## 171. Remuneration of employees.[^c-00dac0fec4d32aef13b0bb99184f9b95]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00dac0fec4d32aef13b0bb99184f9b95]: Textual amendment: [S. 171](https://www.legislation.gov.uk/ukpga/1988/40/section/171) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-00dac0fec4d32aef13b0bb99184f9b95]: Textual amendment: [S. 171](https://www.legislation.gov.uk/ukpga/1988/40/section/171) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

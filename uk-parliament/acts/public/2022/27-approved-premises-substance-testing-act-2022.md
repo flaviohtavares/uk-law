@@ -36,7 +36,7 @@ An Act to make provision about substance testing in approved premises.
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Substance testing of residents in approved premises[^key-b033f57a19cfbccf819feaa18b7bdf44][^key-acb5d1f797091d054caf8c0b4aa975af]
+## 1. Substance testing of residents in approved premises[^c-b033f57a19cfbccf819feaa18b7bdf44][^c-acb5d1f797091d054caf8c0b4aa975af]
 
 (1) The Offender Management Act 2007 is amended as follows.
 
@@ -96,7 +96,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 .
 
-## 2. Extent, commencement and short title[^key-8b4d8e5c25e4704b81acab483efe8311][^key-4df2d084cae162b8478c9b3878fe07f0]
+## 2. Extent, commencement and short title[^c-8b4d8e5c25e4704b81acab483efe8311][^c-4df2d084cae162b8478c9b3878fe07f0]
 
 (1) This Act extends to England and Wales only.
 
@@ -106,10 +106,10 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-b033f57a19cfbccf819feaa18b7bdf44]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2)
+[^c-b033f57a19cfbccf819feaa18b7bdf44]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2)
 
-[^key-acb5d1f797091d054caf8c0b4aa975af]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/27/section/1) in force at 3.10.2022 by [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)
+[^c-acb5d1f797091d054caf8c0b4aa975af]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/27/section/1) in force at 3.10.2022 by [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)
 
-[^key-8b4d8e5c25e4704b81acab483efe8311]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2)
+[^c-8b4d8e5c25e4704b81acab483efe8311]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2)
 
-[^key-4df2d084cae162b8478c9b3878fe07f0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/27/section/2) in force at 3.10.2022 by [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)
+[^c-4df2d084cae162b8478c9b3878fe07f0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/27/section/2) in force at 3.10.2022 by [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)

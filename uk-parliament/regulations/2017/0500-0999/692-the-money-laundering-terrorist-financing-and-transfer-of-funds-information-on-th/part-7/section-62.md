@@ -23,8 +23,8 @@ summary: ''
 (1) The FCA is the transfer of funds supervisory authority for payment service providers, who are—
 
 - (a) authorised persons;
-- (b) authorised payment institutions under the Payment Services Regulations 2017[^key-c69b650c75ebf8a660bdc302535215b7] which are not included in the register maintained by the Commissioners under regulation 54(2);
-- (c) registered small payment institutions under the Payment Services Regulations 2017[^key-83a31242e142743b6ab08a3d77339d8d] which are not included in the register maintained by the Commissioners under regulation 54(2);
+- (b) authorised payment institutions under the Payment Services Regulations 2017[^c-c69b650c75ebf8a660bdc302535215b7] which are not included in the register maintained by the Commissioners under regulation 54(2);
+- (c) registered small payment institutions under the Payment Services Regulations 2017[^c-83a31242e142743b6ab08a3d77339d8d] which are not included in the register maintained by the Commissioners under regulation 54(2);
 - (d) authorised electronic money institutions under the Electronic Money Regulations 2011 [^c23048531]; or
 - (e) registered small electronic money institutions under the Electronic Money Regulations 2011.
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c69b650c75ebf8a660bdc302535215b7]: Textual amendment: Word in reg. 62(1)(b) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-c69b650c75ebf8a660bdc302535215b7]: Textual amendment: Word in reg. 62(1)(b) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-83a31242e142743b6ab08a3d77339d8d]: Textual amendment: Word in reg. 62(1)(c) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-83a31242e142743b6ab08a3d77339d8d]: Textual amendment: Word in reg. 62(1)(c) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 26(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/26/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^c23048531]: Marginal citation: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).

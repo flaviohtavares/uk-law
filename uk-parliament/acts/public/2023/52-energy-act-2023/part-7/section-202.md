@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Principal objectives of Secretary of State and GEMA[^key-af8af81521d67fb1645c85de91652133]
+## 202. Principal objectives of Secretary of State and GEMA[^c-af8af81521d67fb1645c85de91652133]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af8af81521d67fb1645c85de91652133]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/52/section/202) in force at 26.12.2023, see [s. 334(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3)
+[^c-af8af81521d67fb1645c85de91652133]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/52/section/202) in force at 26.12.2023, see [s. 334(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-3df01001a93c286fdb0a5a5e22a1c785]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-3df01001a93c286fdb0a5a5e22a1c785]
 
 *Extent: E+W+S*
 
 Article 2 and 4
 
-[^key-3df01001a93c286fdb0a5a5e22a1c785]
+[^c-3df01001a93c286fdb0a5a5e22a1c785]
 
 - **In Epping Forest District Council, London Borough of Enfield, London Borough of Waltham Forest and London Borough of Haringey**
   - **UPRATING OF ZBC OVERHEAD ELECTRIC LINE**
@@ -100,4 +100,4 @@ Article 2 and 4
 
 ## Annotations
 
-[^key-3df01001a93c286fdb0a5a5e22a1c785]: Commencement: Sch. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-3df01001a93c286fdb0a5a5e22a1c785]: Commencement: Sch. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

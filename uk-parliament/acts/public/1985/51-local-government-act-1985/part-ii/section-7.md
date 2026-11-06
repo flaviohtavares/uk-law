@@ -25,8 +25,8 @@ summary: ''
 - (a) the Greater London Council to London borough councils and the Common Council; and
 - (b) from metropolitan county councils to metropolitan district councils.
 
-(2)[^key-9a0bcc4bbeddcbdbd63713a3124a5a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9a0bcc4bbeddcbdbd63713a3124a5a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a0bcc4bbeddcbdbd63713a3124a5a12]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1985/51/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-9a0bcc4bbeddcbdbd63713a3124a5a12]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1985/51/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

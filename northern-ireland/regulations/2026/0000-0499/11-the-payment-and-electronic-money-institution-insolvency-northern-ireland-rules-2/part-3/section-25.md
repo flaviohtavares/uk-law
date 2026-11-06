@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Administrator’s proposals[^key-ad5012dd132e95e7c82ad55462d115ed]
+## 25. Administrator’s proposals[^c-ad5012dd132e95e7c82ad55462d115ed]
 
 *Extent: N.I.*
 
@@ -151,4 +151,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad5012dd132e95e7c82ad55462d115ed]: Commencement: [Rule 25](https://www.legislation.gov.uk/nisr/2026/11/rule/25) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ad5012dd132e95e7c82ad55462d115ed]: Commencement: [Rule 25](https://www.legislation.gov.uk/nisr/2026/11/rule/25) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

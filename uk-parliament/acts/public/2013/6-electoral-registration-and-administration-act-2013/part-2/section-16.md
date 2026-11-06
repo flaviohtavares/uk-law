@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Alteration of electoral registers: pending elections[^key-120bc169337585158e9f2a5451ed4da1]
+## 16. Alteration of electoral registers: pending elections[^c-120bc169337585158e9f2a5451ed4da1]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-120bc169337585158e9f2a5451ed4da1]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/6/section/16) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/414/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-120bc169337585158e9f2a5451ed4da1]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/6/section/16) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/414/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))

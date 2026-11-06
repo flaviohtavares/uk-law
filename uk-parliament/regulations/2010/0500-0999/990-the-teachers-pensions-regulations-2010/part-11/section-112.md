@@ -25,7 +25,7 @@ summary: ''
 - (a) a phased retirement pension or a phased retirement lump sum, or
 - (b) a total incapacity pension payable between the date on which the person to whom it is paid first engages in any other form of paid or unpaid work as mentioned in paragraph (3)(c)(i) of regulation 67 (cessation of total incapacity pension) and the date on which the Secretary of State determines as mentioned in paragraph (3)(c)(ii) of that regulation.
 
-(2) Except as provided in paragraphs (8) and (9)[^key-cd50ec0c7f4f503019db280b8205c689], where a benefit to which this regulation applies is not paid within 1 month of the due date, the Secretary of State must pay interest on the amount unpaid at the Bank of England base rate compounded with three-monthly rests from the due date to the date of payment.
+(2) Except as provided in paragraphs (8) and (9)[^c-cd50ec0c7f4f503019db280b8205c689], where a benefit to which this regulation applies is not paid within 1 month of the due date, the Secretary of State must pay interest on the amount unpaid at the Bank of England base rate compounded with three-monthly rests from the due date to the date of payment.
 
 (3) Where the benefit is a death grant, the due date is the day after the date on which the Secretary of State became satisfied that payment may be made.
 
@@ -56,6 +56,6 @@ this regulation does not apply unless the Secretary of State determines in a par
 
 ## Annotations
 
-[^key-cd50ec0c7f4f503019db280b8205c689]: Textual amendment: Words in [reg. 112(2)](https://www.legislation.gov.uk/uksi/2010/990/regulation/112/2) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/9)
+[^c-cd50ec0c7f4f503019db280b8205c689]: Textual amendment: Words in [reg. 112(2)](https://www.legislation.gov.uk/uksi/2010/990/regulation/112/2) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/9)
 
 [^c20237871]: Marginal citation: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11)

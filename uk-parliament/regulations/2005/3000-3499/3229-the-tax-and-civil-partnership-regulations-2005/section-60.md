@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60.[^key-aa9b93c7b1312a7a9c1753a03f151b4b]
+## 60.[^c-aa9b93c7b1312a7a9c1753a03f151b4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa9b93c7b1312a7a9c1753a03f151b4b]: Commencement: Reg. 60 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-aa9b93c7b1312a7a9c1753a03f151b4b]: Commencement: Reg. 60 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00015]: Footnote: [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39).

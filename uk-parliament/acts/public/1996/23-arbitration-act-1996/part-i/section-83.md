@@ -54,8 +54,8 @@ In this Part the expressions listed below are defined or otherwise explained by 
 </tbody>
 </table>
 
-[^key-bda28e466e326d1456982947fc716729]
+[^c-bda28e466e326d1456982947fc716729]
 
 ## Annotations
 
-[^key-bda28e466e326d1456982947fc716729]: Textual amendment: Words in s. 83 inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 8(7)](https://www.legislation.gov.uk/ukpga/2025/4/section/8/7), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-bda28e466e326d1456982947fc716729]: Textual amendment: Words in s. 83 inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 8(7)](https://www.legislation.gov.uk/ukpga/2025/4/section/8/7), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The council constituted by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] under section 390 shall, on an application made by the head teacher of—
+(1) The council constituted by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] under section 390 shall, on an application made by the head teacher of—
 
 - (a) any community school[^c15248601] maintained by the authority, or
 - (b)[^c15248611] any foundation school which has not been designated under section 69(3) of the School Standards and Framework Act 1998 by the Secretary of State as having a religious character,
@@ -39,16 +39,16 @@ consider whether it is appropriate for the requirement imposed by paragraph 3(2)
 
 (7) An application under subsection (1) shall be made in such manner and form as the council may require.
 
-(8) Where an application is made under subsection (1)(a) in respect of a community school which becomes a foundation school[^c15248641] (by virtue of the relevant enactments)[^key-9cbd192e14554fa7c375e8d98cf28467] before the application is determined, it shall, unless withdrawn by the head teacher, continue as if made under subsection (1)(b).
+(8) Where an application is made under subsection (1)(a) in respect of a community school which becomes a foundation school[^c15248641] (by virtue of the relevant enactments)[^c-9cbd192e14554fa7c375e8d98cf28467] before the application is determined, it shall, unless withdrawn by the head teacher, continue as if made under subsection (1)(b).
 
-(9)[^key-42043ba1efa90aa4a3faa30ddd5f5971] In subsection (8) “**the relevant enactments**” means—
+(9)[^c-42043ba1efa90aa4a3faa30ddd5f5971] In subsection (8) “**the relevant enactments**” means—
 
 - (a) in relation to England, sections 18 to 24 of the Education and Inspections Act 2006;
-- (b) in relation to Wales, section 35 of, and Schedule 8 to, the School Standards and Framework Act 1998. *(Extent: W)* *(affected by repeal, see note)*[^key-422d03149f3da6481d26ffad7330029b]
+- (b) in relation to Wales, section 35 of, and Schedule 8 to, the School Standards and Framework Act 1998. *(Extent: W)* *(affected by repeal, see note)*[^c-422d03149f3da6481d26ffad7330029b]
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15248601]: Textual amendment: Words in s. 394(1)(a) substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 97(2)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/97/2/a) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
@@ -60,8 +60,8 @@ consider whether it is appropriate for the requirement imposed by paragraph 3(2)
 
 [^c15248641]: Textual amendment: Words in s. 394(8) substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 97(4)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/97/4) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-9cbd192e14554fa7c375e8d98cf28467]: Textual amendment: Words in s. 394(8) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/9/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
+[^c-9cbd192e14554fa7c375e8d98cf28467]: Textual amendment: Words in s. 394(8) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/9/2); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
 
-[^key-42043ba1efa90aa4a3faa30ddd5f5971]: Textual amendment: S. 394(9) inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/9/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
+[^c-42043ba1efa90aa4a3faa30ddd5f5971]: Textual amendment: S. 394(9) inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/9/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o)
 
-[^key-422d03149f3da6481d26ffad7330029b]: Textual amendment: S. 394(9)(b) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/17/3); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-422d03149f3da6481d26ffad7330029b]: Textual amendment: S. 394(9)(b) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/17/3); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

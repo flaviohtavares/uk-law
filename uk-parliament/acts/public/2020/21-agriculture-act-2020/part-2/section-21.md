@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Exceptional market conditions: powers available to Secretary of State[^c24383021][^key-d8eab710b7face4b6b525a61ee96d152]
+## 21. Exceptional market conditions: powers available to Secretary of State[^c24383021][^c-d8eab710b7face4b6b525a61ee96d152]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Secretary of State may give, or agree to give, financial assistance to agricultural producers in England whose incomes are being, or are likely to be, adversely affected by the exceptional market conditions described in the declaration.
 
-(3) The Secretary of State may also make such use as the Secretary of State considers appropriate of any available powers under assimilated direct[^key-5b5ca15522069e7d3eb4f954b608c67a] legislation which provides for the operation of public intervention and aid for private storage mechanisms, in response to a declaration under section 20.
+(3) The Secretary of State may also make such use as the Secretary of State considers appropriate of any available powers under assimilated direct[^c-5b5ca15522069e7d3eb4f954b608c67a] legislation which provides for the operation of public intervention and aid for private storage mechanisms, in response to a declaration under section 20.
 
 (4) Financial assistance under subsection (2) may be given by way of grant, loan or guarantee or in any other form.
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c24383021]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/21/section/21) in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-d8eab710b7face4b6b525a61ee96d152]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/21/section/21) in force at 1.1.2021 in so far as not already in force by [S.I. 2020/1650](https://www.legislation.gov.uk/uksi/2020/1650), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1650/regulation/2/b)
+[^c-d8eab710b7face4b6b525a61ee96d152]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/21/section/21) in force at 1.1.2021 in so far as not already in force by [S.I. 2020/1650](https://www.legislation.gov.uk/uksi/2020/1650), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1650/regulation/2/b)
 
-[^key-5b5ca15522069e7d3eb4f954b608c67a]: Textual amendment: Words in s. 21(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(f)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/f)
+[^c-5b5ca15522069e7d3eb4f954b608c67a]: Textual amendment: Words in s. 21(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(f)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/f)

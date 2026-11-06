@@ -277,7 +277,7 @@ but this is subject to subsection (4).
 - (a) an obligation under a statutory provision, as defined by section 1(f) of the Interpretation Act (Northern Ireland) 1954, or
 - (b) an obligation under any legislation for the time being in force in any part of Great Britain or in any country or territory outside the United Kingdom.
 
-### 11. Accountability to the Assembly: provision of information[^key-f10a1e81f66c5df828ef6f94b0b2094b]
+### 11. Accountability to the Assembly: provision of information[^c-f10a1e81f66c5df828ef6f94b0b2094b]
 
 A Minister and their department have a duty to report to an Assembly committee such information as that committee may reasonably require in order to discharge its functions, being information which—
 
@@ -338,4 +338,4 @@ Section 4(4)
 
 ## Annotations
 
-[^key-f10a1e81f66c5df828ef6f94b0b2094b]: Modification: [S. 11](https://www.legislation.gov.uk/nia/2021/3/section/11) restricted (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/404/regulation/7/3)
+[^c-f10a1e81f66c5df828ef6f94b0b2094b]: Modification: [S. 11](https://www.legislation.gov.uk/nia/2021/3/section/11) restricted (12.4.2024) by [The Windsor Framework (Implementation) Regulations 2024 (S.I. 2024/404)](https://www.legislation.gov.uk/uksi/2024/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/404/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2024/404/regulation/7/3)

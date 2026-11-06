@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Conditions of community treatment orders[^key-b9185fca0936e970946483336429ab76]
+## 23. Conditions of community treatment orders[^c-b9185fca0936e970946483336429ab76]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9185fca0936e970946483336429ab76]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-b9185fca0936e970946483336429ab76]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

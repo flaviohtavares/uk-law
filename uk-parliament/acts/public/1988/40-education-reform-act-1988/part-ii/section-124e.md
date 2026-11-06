@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124E. Articles of government: higher education corporations in England[^key-fe28dea88b4da627e19f8863c3d1f18a]
+## 124E. Articles of government: higher education corporations in England[^c-fe28dea88b4da627e19f8863c3d1f18a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe28dea88b4da627e19f8863c3d1f18a]: Textual amendment: S. 124E inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/12); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)
+[^c-fe28dea88b4da627e19f8863c3d1f18a]: Textual amendment: S. 124E inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/12); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Termination of a reduction[^key-fc3e8f74adab0533695bf3cf0f82edfc]
+## 57. Termination of a reduction[^c-fc3e8f74adab0533695bf3cf0f82edfc]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc3e8f74adab0533695bf3cf0f82edfc]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2016/219/regulation/57) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-fc3e8f74adab0533695bf3cf0f82edfc]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2016/219/regulation/57) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00062]: Footnote: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621), relevant amending instruments are [S.I. 2015/1724](https://www.legislation.gov.uk/uksi/2015/1724) and [2016/68](https://www.legislation.gov.uk/uksi/2016/68).

@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus Restrictions) (Wales) (Amendment) (No. 4) Regulations 2020 (revoked)[^key-7a3f7f2110e01009fd2142601a045f65]
+The Health Protection (Coronavirus Restrictions) (Wales) (Amendment) (No. 4) Regulations 2020 (revoked)[^c-7a3f7f2110e01009fd2142601a045f65]
 
 Approved by both Houses of Parliament
 
@@ -47,24 +47,24 @@ Coming into force
 
 22 May 2020
 
-[^key-7a3f7f2110e01009fd2142601a045f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3f7f2110e01009fd2142601a045f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-7a3f7f2110e01009fd2142601a045f65]
+## 1. Title and coming into force[^c-7a3f7f2110e01009fd2142601a045f65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus Restrictions) (Wales) Regulations 2020[^key-7a3f7f2110e01009fd2142601a045f65]
+## 2. Amendment of the Health Protection (Coronavirus Restrictions) (Wales) Regulations 2020[^c-7a3f7f2110e01009fd2142601a045f65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a3f7f2110e01009fd2142601a045f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3f7f2110e01009fd2142601a045f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7a3f7f2110e01009fd2142601a045f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3f7f2110e01009fd2142601a045f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a3f7f2110e01009fd2142601a045f65]: Textual amendment: Regulations revoked (13.7.2020) by [The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020 (S.I. 2020/725)](https://www.legislation.gov.uk/uksi/2020/725), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/725/regulation/1/4), [3(1)(e)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/1/e) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/2), [5](https://www.legislation.gov.uk/uksi/2020/725/regulation/5))
+[^c-7a3f7f2110e01009fd2142601a045f65]: Textual amendment: Regulations revoked (13.7.2020) by [The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020 (S.I. 2020/725)](https://www.legislation.gov.uk/uksi/2020/725), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/725/regulation/1/4), [3(1)(e)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/1/e) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/2), [5](https://www.legislation.gov.uk/uksi/2020/725/regulation/5))

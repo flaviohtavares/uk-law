@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [S.I. 2009
 
 Education, England
 
-The Further Education (Principals’ Qualifications) (England) (Amendment) (No. 2) Regulations 2009 (revoked)[^key-64ae667c4a1324c88ae0bbcdb471fc06]
+The Further Education (Principals’ Qualifications) (England) (Amendment) (No. 2) Regulations 2009 (revoked)[^c-64ae667c4a1324c88ae0bbcdb471fc06]
 
 Made
 
@@ -48,26 +48,26 @@ Coming into force
 
 23rd October 2009
 
-[^key-64ae667c4a1324c88ae0bbcdb471fc06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64ae667c4a1324c88ae0bbcdb471fc06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-64ae667c4a1324c88ae0bbcdb471fc06]
+## 1. Citation and commencement[^c-64ae667c4a1324c88ae0bbcdb471fc06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Further Education (Principals’ Qualifications) (England) Regulations 2007[^key-64ae667c4a1324c88ae0bbcdb471fc06]
+## 2. Amendment of the Further Education (Principals’ Qualifications) (England) Regulations 2007[^c-64ae667c4a1324c88ae0bbcdb471fc06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-64ae667c4a1324c88ae0bbcdb471fc06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-64ae667c4a1324c88ae0bbcdb471fc06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64ae667c4a1324c88ae0bbcdb471fc06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64ae667c4a1324c88ae0bbcdb471fc06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-64ae667c4a1324c88ae0bbcdb471fc06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64ae667c4a1324c88ae0bbcdb471fc06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64ae667c4a1324c88ae0bbcdb471fc06]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2049) revoked (1.11.2010) by [The Further Education (Principals’ Qualifications) (England) (Revocation) Regulations 2010 (S.I. 2010/2269)](https://www.legislation.gov.uk/uksi/2010/2269), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2269/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2269/regulation/2)
+[^c-64ae667c4a1324c88ae0bbcdb471fc06]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2049) revoked (1.11.2010) by [The Further Education (Principals’ Qualifications) (England) (Revocation) Regulations 2010 (S.I. 2010/2269)](https://www.legislation.gov.uk/uksi/2010/2269), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2269/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2269/regulation/2)

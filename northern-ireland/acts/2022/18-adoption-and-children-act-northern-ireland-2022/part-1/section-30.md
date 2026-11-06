@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Recovery by parent etc. where child placed and placement order refused[^key-814a817755e7c3a281c6ac346edef0d4]
+## 30. Recovery by parent etc. where child placed and placement order refused[^c-814a817755e7c3a281c6ac346edef0d4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-814a817755e7c3a281c6ac346edef0d4]: Commencement: S. 30 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-814a817755e7c3a281c6ac346edef0d4]: Commencement: S. 30 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

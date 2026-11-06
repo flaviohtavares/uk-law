@@ -31,7 +31,7 @@ summary: ''
 
 Social Care, Wales
 
-The National Assistance (Sums for Personal Requirements) (Assessment of Resources) and Social Care Charges (Wales) (Miscellaneous Amendments) Regulations 2014 (revoked)[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+The National Assistance (Sums for Personal Requirements) (Assessment of Resources) and Social Care Charges (Wales) (Miscellaneous Amendments) Regulations 2014 (revoked)[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
 Made
 
@@ -45,46 +45,46 @@ Coming into force
 
 7 April 2014
 
-[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+## 1. Title, commencement and application[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — Sums for Personal Requirements[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+## PART 1 — Sums for Personal Requirements[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
-### 2. Sums needed for personal requirements[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Revocation[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+### 2. Sums needed for personal requirements[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Capital Limit[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
-
-### 4. Amendment of Capital Limit[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+### 3. Revocation[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendments to the Social Care Charges Regulations[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+## PART 2 — Capital Limit[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
-### 5. Amendment of the Social Care Charges (Means Assessment and Determination of Charges) (Wales) Regulations 2011[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Amendment of the Social Care Charges (Direct Payments) (Means Assessment and Determination of Reimbursement or Contribution) (Wales) Regulations 2011[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]
+### 4. Amendment of Capital Limit[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Amendments to the Social Care Charges Regulations[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
+
+### 5. Amendment of the Social Care Charges (Means Assessment and Determination of Charges) (Wales) Regulations 2011[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Amendment of the Social Care Charges (Direct Payments) (Means Assessment and Determination of Reimbursement or Contribution) (Wales) Regulations 2011[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-642b5eca7eb4acc8b86e11c69c8ea6a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/666) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-642b5eca7eb4acc8b86e11c69c8ea6a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/666) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

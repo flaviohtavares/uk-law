@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Discount on sentence for time spent in custody awaiting extradition: Northern Ireland[^key-5673ecf4ba07c49dbbfb1b8f0ca9312d]
+## 173. Discount on sentence for time spent in custody awaiting extradition: Northern Ireland[^c-5673ecf4ba07c49dbbfb1b8f0ca9312d]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5673ecf4ba07c49dbbfb1b8f0ca9312d]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2014/12/section/173) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(r)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/r)
+[^c-5673ecf4ba07c49dbbfb1b8f0ca9312d]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2014/12/section/173) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(r)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/r)

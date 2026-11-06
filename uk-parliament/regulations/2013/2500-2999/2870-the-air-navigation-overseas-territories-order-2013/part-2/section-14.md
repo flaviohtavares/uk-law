@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Aircraft to be registered[^key-14c4a13519a22dc2317a9f65e80592bc]
+## 14. Aircraft to be registered[^c-14c4a13519a22dc2317a9f65e80592bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14c4a13519a22dc2317a9f65e80592bc]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/2870/article/14) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-14c4a13519a22dc2317a9f65e80592bc]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/2870/article/14) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

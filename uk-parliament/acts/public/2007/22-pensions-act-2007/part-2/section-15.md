@@ -25,11 +25,11 @@ summary: ''
 - (a) a contracting-out certificate in relation to a money purchase contracted-out scheme, or
 - (b) an appropriate scheme certificate,
 
-and is in force immediately before 6 April 2012[^key-a4b5608564d31870d62dd62b1e75e178], ceases to have effect on that date.
+and is in force immediately before 6 April 2012[^c-a4b5608564d31870d62dd62b1e75e178], ceases to have effect on that date.
 
 (2) In this section—
 
-- [^key-519884358690bf3fea4edd04383e0cae]...
+- [^c-519884358690bf3fea4edd04383e0cae]...
 - “**contracting-out certificate**”, “**money purchase contracted-out scheme**” and “**appropriate scheme certificate**” have the meanings given by section 181(1) of the Pension Schemes Act 1993 (c. 48) (as in force immediately before that day).
 
 (3) In Schedule 4—
@@ -37,7 +37,7 @@ and is in force immediately before 6 April 2012[^key-a4b5608564d31870d62dd62b1e7
 - (a) Parts 1 and 2 contain amendments which are consequential on, or related to, the provision made by subsection (1), and
 - (b) Part 3 contains savings relating to amendments made by Part 1.
 
-(4) The amendments made by Part 1 of that Schedule have effect as from 6 April 2012[^key-46d86e407070e13ed8f5bfad21a6d02f] (but any power to make regulations conferred by those amendments may be exercised at any time so as to make regulations having effect as from 6 April 2012).
+(4) The amendments made by Part 1 of that Schedule have effect as from 6 April 2012[^c-46d86e407070e13ed8f5bfad21a6d02f] (but any power to make regulations conferred by those amendments may be exercised at any time so as to make regulations having effect as from 6 April 2012).
 
 (5) The Secretary of State may by regulations make—
 
@@ -56,8 +56,8 @@ as he thinks necessary or expedient in connection with, or in consequence of, th
 
 [^c1885994]: Commencement: S. 15 wholly in force at 6.4.2012; s. 15(2)-(8) in force at 26.9.2007, see s. 30(3); s. 15(1) in force at 6.4.2012 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
 
-[^key-a4b5608564d31870d62dd62b1e75e178]: Textual amendment: Words in s. 15(1) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 78(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/78/2)
+[^c-a4b5608564d31870d62dd62b1e75e178]: Textual amendment: Words in s. 15(1) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 78(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/78/2)
 
-[^key-519884358690bf3fea4edd04383e0cae]: Textual amendment: Words in s. 15(2) omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 78(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/78/3)
+[^c-519884358690bf3fea4edd04383e0cae]: Textual amendment: Words in s. 15(2) omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 78(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/78/3)
 
-[^key-46d86e407070e13ed8f5bfad21a6d02f]: Textual amendment: Words in s. 15(4) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 78(4)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/78/4)
+[^c-46d86e407070e13ed8f5bfad21a6d02f]: Textual amendment: Words in s. 15(4) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 78(4)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/78/4)

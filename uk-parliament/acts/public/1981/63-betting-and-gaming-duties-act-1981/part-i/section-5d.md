@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5D. Accounting period[^key-22ca11237e67d4928fac9d8e58127e4c]
+## 5D. Accounting period[^c-22ca11237e67d4928fac9d8e58127e4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22ca11237e67d4928fac9d8e58127e4c]: Textual amendment: Ss. 1-12 omitted (1.12.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/2) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-22ca11237e67d4928fac9d8e58127e4c]: Textual amendment: Ss. 1-12 omitted (1.12.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/2) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))

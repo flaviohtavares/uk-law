@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109A. Residence of companies[^key-530f4727b9ccb34b889534e420fa0224]
+## 109A. Residence of companies[^c-530f4727b9ccb34b889534e420fa0224]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Chapter 3 of Part 2 of CTA 2009 (rules for determining residence of companies) a
 
 ## Annotations
 
-[^key-530f4727b9ccb34b889534e420fa0224]: Textual amendment: S. 109A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 308](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/308) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-530f4727b9ccb34b889534e420fa0224]: Textual amendment: S. 109A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 308](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/308) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

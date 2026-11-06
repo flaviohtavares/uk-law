@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Persons deemed to be public authorities[^key-5f1ac1fd35f86ab1fdab9bf88d509b87]
+## 2. Persons deemed to be public authorities[^c-5f1ac1fd35f86ab1fdab9bf88d509b87]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is to be treated as a public authority for the purposes of section 116B of the 1
 
 ## Annotations
 
-[^key-5f1ac1fd35f86ab1fdab9bf88d509b87]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/143/regulation/2) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)
+[^c-5f1ac1fd35f86ab1fdab9bf88d509b87]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/143/regulation/2) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)

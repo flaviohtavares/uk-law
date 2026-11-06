@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Determination of tax chargeable if no return made[^key-d87df73765579dcbc17d5b92004b7205]
+## 95. Determination of tax chargeable if no return made[^c-d87df73765579dcbc17d5b92004b7205]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d87df73765579dcbc17d5b92004b7205]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/16/section/95) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d87df73765579dcbc17d5b92004b7205]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/16/section/95) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

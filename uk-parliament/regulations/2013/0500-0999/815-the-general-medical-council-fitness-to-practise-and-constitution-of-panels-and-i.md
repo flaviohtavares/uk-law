@@ -56,11 +56,11 @@ In accordance with paragraph 1(6) of Schedule 4 to that Act, the General Medical
 
 By virtue of paragraph 24 of Schedule 1 and paragraph 1(7) of Schedule 4 to that Act such Rules shall not have effect until approved by order of the Privy Council.
 
-## 1. Citation and commencement[^key-6cd034decafcea465a8a1ad8efc6fba6]
+## 1. Citation and commencement[^c-6cd034decafcea465a8a1ad8efc6fba6]
 
 This Order may be cited as the General Medical Council (Fitness to Practise and Constitution of Panels and Investigation Committee) (Amendment) Rules Order of Council 2013 and comes into force on 8th May 2013.
 
-## 2. Privy Council approval[^key-ef878634374419b7fa98b52dbeaa768f]
+## 2. Privy Council approval[^c-ef878634374419b7fa98b52dbeaa768f]
 
 Their Lordships, having taken these Rules into consideration, are pleased to and do approve them.
 
@@ -74,7 +74,7 @@ These Rules are made by the General Medical Council in exercise of the powers co
 
 In accordance with paragraph 1(6) of Schedule 4 to that Act, the General Medical Council has consulted with such bodies of persons representing medical practitioners, and such medical practitioners, as appeared to the General Medical Council requisite to be consulted.
 
-### 1. Citation, commencement and interpretation[^key-07604633b79ae0e0548d3b843ca85f57]
+### 1. Citation, commencement and interpretation[^c-07604633b79ae0e0548d3b843ca85f57]
 
 (1) These Rules may be cited as the General Medical Council (Fitness to Practise and Constitution of Panels and Investigation Committee) (Amendment) Rules 2013 and come into force on 8th May 2013.
 
@@ -83,7 +83,7 @@ In accordance with paragraph 1(6) of Schedule 4 to that Act, the General Medical
 - “the Fitness to Practise Rules” means the General Medical Council (Fitness to Practise) Rules 2004[^f00002]; and
 - “the Constitution of Panels and Investigation Committee Rules” means the General Medical Council (Constitution of Panels and Investigation Committee) Rules 2004[^f00003].
 
-### 2. Amendments to the Fitness to Practise Rules[^key-6ffd0a406e5dab2dcb27947367dc18a8]
+### 2. Amendments to the Fitness to Practise Rules[^c-6ffd0a406e5dab2dcb27947367dc18a8]
 
 (1) The Fitness to Practise Rules are amended as follows.
 
@@ -250,7 +250,7 @@ In accordance with paragraph 1(6) of Schedule 4 to that Act, the General Medical
 
 .
 
-### 3. Amendments to the Constitution of Panels and Investigation Committee Rules[^key-60d5da422fdd1f9abf7e35c34d42407b]
+### 3. Amendments to the Constitution of Panels and Investigation Committee Rules[^c-60d5da422fdd1f9abf7e35c34d42407b]
 
 (1) The Constitution of Panels and Investigation Committee Rules are amended as follows.
 
@@ -286,7 +286,7 @@ In accordance with paragraph 1(6) of Schedule 4 to that Act, the General Medical
 
 .
 
-### 4. Saving provisions[^key-b5308e259e6b9a2eadfdc0217cc1f026]
+### 4. Saving provisions[^c-b5308e259e6b9a2eadfdc0217cc1f026]
 
 (1) The amendments made by rule 2(4) do not apply to proceedings before the Investigation Committee where the Presenting Officer begins to outline the allegation and facts in accordance with rule 11(7) of the Fitness to Practise Rules less than 28 days after the coming into force of these Rules.
 
@@ -350,23 +350,23 @@ Rule 4 makes saving provisions in relation to the amendments made by rule 2(4) a
 
 [^f00001]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 35CC and paragraphs 19A to 19E, 23B and 24 of Schedule 1 were inserted, and paragraph 1 of Schedule 4 was substituted, by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Section 35CC was amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131), paragraph 19B of Schedule 1 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and paragraph 1 of Schedule 4 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-6cd034decafcea465a8a1ad8efc6fba6]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
+[^c-6cd034decafcea465a8a1ad8efc6fba6]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
 
-[^key-ef878634374419b7fa98b52dbeaa768f]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2013/815/rule/2) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
+[^c-ef878634374419b7fa98b52dbeaa768f]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2013/815/rule/2) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
 
-[^key-07604633b79ae0e0548d3b843ca85f57]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/1) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
+[^c-07604633b79ae0e0548d3b843ca85f57]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/1) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
 
 [^f00002]: Footnote: Scheduled to [S.I. 2004/2608](https://www.legislation.gov.uk/uksi/2004/2608), which has been amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [S.I. 2007/3168](https://www.legislation.gov.uk/uksi/2007/3168), [S.I. 2008/1256](https://www.legislation.gov.uk/uksi/2008/1256) and [S.I. 2009/1913](https://www.legislation.gov.uk/uksi/2009/1913).
 
 [^f00003]: Footnote: Scheduled to [S.I. 2004/2611](https://www.legislation.gov.uk/uksi/2004/2611), which has been amended by [S.I. 2005/402](https://www.legislation.gov.uk/uksi/2005/402), [S.I. 2009/2751](https://www.legislation.gov.uk/uksi/2009/2751) and [S.I. 2010/474](https://www.legislation.gov.uk/uksi/2010/474).
 
-[^key-6ffd0a406e5dab2dcb27947367dc18a8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/2) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
+[^c-6ffd0a406e5dab2dcb27947367dc18a8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/2) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
 
-[^key-60d5da422fdd1f9abf7e35c34d42407b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/3) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
+[^c-60d5da422fdd1f9abf7e35c34d42407b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/3) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
 
 [^f00004]: Footnote: Section 41A was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-b5308e259e6b9a2eadfdc0217cc1f026]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/4) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
+[^c-b5308e259e6b9a2eadfdc0217cc1f026]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/815/schedule/paragraph/4) in force at 8.5.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/815/rule/1)
 
 [^f00005]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 35C(2) was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 

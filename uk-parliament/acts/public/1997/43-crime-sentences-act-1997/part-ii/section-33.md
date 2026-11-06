@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Life prisoners transferred to England and Wales.[^key-4ad8447b1e2e92b75550863ea3fbc65c]
+## 33. Life prisoners transferred to England and Wales.[^c-4ad8447b1e2e92b75550863ea3fbc65c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ad8447b1e2e92b75550863ea3fbc65c]: Textual amendment: S. 33 repealed (18.12.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 303(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/44/section/303/b/ii), [336(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/2), [Sch. 37 Pt. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/8)
+[^c-4ad8447b1e2e92b75550863ea3fbc65c]: Textual amendment: S. 33 repealed (18.12.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 303(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/44/section/303/b/ii), [336(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/2), [Sch. 37 Pt. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/8)

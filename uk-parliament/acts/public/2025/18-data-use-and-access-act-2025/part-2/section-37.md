@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Addition of services to supplementary notes[^key-fe77e31a2d8562fb4174049d8d668e8c][^key-d99009c352ebb1e564cc64df19d43ecd]
+## 37. Addition of services to supplementary notes[^c-fe77e31a2d8562fb4174049d8d668e8c][^c-d99009c352ebb1e564cc64df19d43ecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe77e31a2d8562fb4174049d8d668e8c]: Commencement: S. 37 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-fe77e31a2d8562fb4174049d8d668e8c]: Commencement: S. 37 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-d99009c352ebb1e564cc64df19d43ecd]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/18/section/37) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-d99009c352ebb1e564cc64df19d43ecd]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/18/section/37) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

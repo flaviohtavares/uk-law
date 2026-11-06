@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Proceedings for civil recovery: costs and expenses[^key-30c58cda2fc83dc00baff45b6c3bdd73]
+## 190. Proceedings for civil recovery: costs and expenses[^c-30c58cda2fc83dc00baff45b6c3bdd73]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30c58cda2fc83dc00baff45b6c3bdd73]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2026/20/section/190) in force at 29.6.2026, see [s. 255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-30c58cda2fc83dc00baff45b6c3bdd73]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2026/20/section/190) in force at 29.6.2026, see [s. 255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)

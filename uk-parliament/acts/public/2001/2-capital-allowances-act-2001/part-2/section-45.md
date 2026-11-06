@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. ICT expenditure incurred by small enterprises[^key-384bb64c091063a9b59e8f3e1389d6b6][^key-661b09f8253ca07c6d062cb971343de3]
+## 45. ICT expenditure incurred by small enterprises[^c-384bb64c091063a9b59e8f3e1389d6b6][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-384bb64c091063a9b59e8f3e1389d6b6]: Textual amendment: S. 45 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/3) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-384bb64c091063a9b59e8f3e1389d6b6]: Textual amendment: S. 45 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/3) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)

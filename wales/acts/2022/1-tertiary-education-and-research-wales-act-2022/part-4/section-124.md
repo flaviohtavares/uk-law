@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Crown servants[^key-4911f48effb8346fd8e697364e69cb14]
+## 124. Crown servants[^c-4911f48effb8346fd8e697364e69cb14]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4911f48effb8346fd8e697364e69cb14]: Commencement: S. 124 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-4911f48effb8346fd8e697364e69cb14]: Commencement: S. 124 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

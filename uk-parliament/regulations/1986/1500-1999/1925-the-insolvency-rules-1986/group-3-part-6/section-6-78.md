@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.78. Bankruptcy order annulled[^key-1fcc2511d42ca1269b60dffad5cce29b]
+## 6.78. Bankruptcy order annulled[^c-1fcc2511d42ca1269b60dffad5cce29b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the bankruptcy order is annulled, the duty of the official receiver to send r
 
 ## Annotations
 
-[^key-1fcc2511d42ca1269b60dffad5cce29b]: Commencement: [Rule 6.78](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.78) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1fcc2511d42ca1269b60dffad5cce29b]: Commencement: [Rule 6.78](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.78) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

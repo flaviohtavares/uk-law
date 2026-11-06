@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a maintenance agreement within the meaning of Article 36 provides for the continuation of payments under the agreement after the death of one of the parties and that party dies domiciled in Northern Ireland, the surviving party or the personal representatives of the deceased party may, subject to paragraphs (2) and (3), apply to the High Court or a county court for an order under Article 37 [^key-96145c0b2b9977ad90f0221ea894be4f]....
+(1) Where a maintenance agreement within the meaning of Article 36 provides for the continuation of payments under the agreement after the death of one of the parties and that party dies domiciled in Northern Ireland, the surviving party or the personal representatives of the deceased party may, subject to paragraphs (2) and (3), apply to the High Court or a county court for an order under Article 37 [^c-96145c0b2b9977ad90f0221ea894be4f]....
 
 (2) An application under this Article shall not, except with the permission of the High Court or a county court, be made after the end of the period of six months from the date on which representation in regard to the estate of the deceased is first taken out.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96145c0b2b9977ad90f0221ea894be4f]: Textual amendment: Words in [art. 38(1)](https://www.legislation.gov.uk/nisi/1978/1045/article/38/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 76(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/76/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-96145c0b2b9977ad90f0221ea894be4f]: Textual amendment: Words in [art. 38(1)](https://www.legislation.gov.uk/nisi/1978/1045/article/38/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 76(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/76/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16976771]: Textual amendment: [1979 NI 8](https://www.legislation.gov.uk/1979/ni8)

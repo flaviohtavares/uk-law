@@ -227,9 +227,9 @@ After section 212 of the [^c1182868]Trade Union and Labour Relations (Consolidat
 
 #### 8. Effect of arbitration agreements.
 
-(1)[^key-2dce7093009c0ee2eb873e5947ce0e8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2dce7093009c0ee2eb873e5947ce0e8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-2dce7093009c0ee2eb873e5947ce0e8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2dce7093009c0ee2eb873e5947ce0e8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 288 of the Trade Union and Labour Relations (Consolidation) Act 1992 (subsection (1) of which prohibits contracting out of the provisions of that Act, but subject to exceptions specified in subsections (2) and (2A)), after subsection (5) insert—
 
@@ -240,7 +240,7 @@ After section 212 of the [^c1182868]Trade Union and Labour Relations (Consolidat
 >   - (ii) the agreement is to submit it to arbitration in accordance with the scheme, but
 > - (b) shall be regarded for those purposes as neither being nor including such an agreement in any other case.
 
-(4)[^key-67bac51907b9e350b6b7078cf74d7461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-67bac51907b9e350b6b7078cf74d7461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 203 of the [^c1182879]Employment Rights Act 1996 (subsection (1) of which prohibits contracting out of the provisions of that Act, but subject to exceptions specified in subsection (2)), after subsection (4) insert—
 
@@ -259,10 +259,10 @@ After section 212 of the [^c1182868]Trade Union and Labour Relations (Consolidat
 
 (2) The provisions referred to in subsection (1) are—
 
-- (a)[^key-1800c7e1acade9b4f8cdfc52ed30ae61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-1800c7e1acade9b4f8cdfc52ed30ae61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1800c7e1acade9b4f8cdfc52ed30ae61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1800c7e1acade9b4f8cdfc52ed30ae61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 288(2B)(c) of the Trade Union and Labour Relations (Consolidation) Act 1992,
-- (d)[^key-9e5b1ee8d6c5164a77af4edea1a72b47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-9e5b1ee8d6c5164a77af4edea1a72b47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) section 203(3)(c) of the Employment Rights Act 1996.
 
 #### 10. Indemnity cover.
@@ -271,10 +271,10 @@ After section 212 of the [^c1182868]Trade Union and Labour Relations (Consolidat
 
 (2) The provisions referred to in subsection (1) are—
 
-- (a)[^key-71a49f6bb4bbf9441ded3f3cca59bc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-71a49f6bb4bbf9441ded3f3cca59bc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-71a49f6bb4bbf9441ded3f3cca59bc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-71a49f6bb4bbf9441ded3f3cca59bc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 288(2B)(d) of the [^c1182883]Trade Union and Labour Relations (Consolidation) Act 1992,
-- (d)[^key-8f7a013455ef631f5a308c647fcf702f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8f7a013455ef631f5a308c647fcf702f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) section 203(3)(d) of the [^c1182885]Employment Rights Act 1996.
 
 ### Other provisions
@@ -324,7 +324,7 @@ After section 212 of the [^c1182868]Trade Union and Labour Relations (Consolidat
 
 *Extent: E+W+S*
 
-### 13. Internal appeal procedures and unfair dismissal awards.[^key-36190bae77b098449a643eccbe572653]
+### 13. Internal appeal procedures and unfair dismissal awards.[^c-36190bae77b098449a643eccbe572653]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -375,7 +375,7 @@ Schedule 1 (minor and consequential amendments) and Schedule 2 (repeals) have ef
 
 (3) The amendment made by paragraph 17(2) of Schedule 1 shall be deemed always to have had effect.
 
-(4)[^key-f5d17b10b57c7711f2283db726d1de99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f5d17b10b57c7711f2283db726d1de99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 18. Short title.
 
@@ -399,13 +399,13 @@ Section 15.
 
 *Extent: E+W+S*
 
-**2.**[^key-d7afc3aeb68e215f1c96d510961789a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d7afc3aeb68e215f1c96d510961789a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Race Relations Act 1976 (c.74)
 
 *Extent: E+W+S*
 
-**3.**[^key-202209b7f5a4f09f80120338315b90ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-202209b7f5a4f09f80120338315b90ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Judicial Pensions Act 1981 (c.20)
 
@@ -469,7 +469,7 @@ Section 15.
 
 *Extent: E+W+S*
 
-**11.**[^key-39674d05c7aac77c0021b359034d7e09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-39674d05c7aac77c0021b359034d7e09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Employment Tribunals Act 1996 (c.17)
 
@@ -531,17 +531,17 @@ Section 15.
 
 > (5) No complaint shall be presented under this section in respect of any deduction made in contravention of section 86 of the [^c1182917]Trade Union and Labour Relations (Consolidation) Act 1992 (deduction of political fund contribution where certificate of exemption or objection has been given).
 
-**19.**[^key-d0efc933c2c27fbb3e94d1d954b122bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-d0efc933c2c27fbb3e94d1d954b122bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-d0efc933c2c27fbb3e94d1d954b122bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-d0efc933c2c27fbb3e94d1d954b122bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-d0efc933c2c27fbb3e94d1d954b122bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-d0efc933c2c27fbb3e94d1d954b122bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** In section 122 of that Act (which makes provision for the reduction of the amount of a basic award of compensation for unfair dismissal), after subsection (3) insert—
 
 > (3A) Where the complainant has been awarded any amount in respect of the dismissal under a designated dismissal procedures agreement, the tribunal shall reduce or further reduce the amount of the basic award to such extent as it considers just and equitable having regard to that award.
 
-**23.**[^key-44a03bfa3ae73481ead00d8f27160942] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-44a03bfa3ae73481ead00d8f27160942] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** (1) Section 203 of that Act (which restricts contracting out of the provisions of the Act) is amended as follows.
 
@@ -578,7 +578,7 @@ Section 15.
 
 (3) Omit subsections (2) to (4).
 
-**26.**[^key-b0b1d6636341dd433973651f5de63d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-b0b1d6636341dd433973651f5de63d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Repeals[^c1182919]
 
@@ -640,21 +640,21 @@ Section 15.
 
 [^c1182872]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-2dce7093009c0ee2eb873e5947ce0e8f]: Textual amendment: S. 8(1)(2) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-2dce7093009c0ee2eb873e5947ce0e8f]: Textual amendment: S. 8(1)(2) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-67bac51907b9e350b6b7078cf74d7461]: Textual amendment: S. 8(4) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-67bac51907b9e350b6b7078cf74d7461]: Textual amendment: S. 8(4) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c1182879]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-1800c7e1acade9b4f8cdfc52ed30ae61]: Textual amendment: S. 9(2)(a)(b) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-1800c7e1acade9b4f8cdfc52ed30ae61]: Textual amendment: S. 9(2)(a)(b) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-9e5b1ee8d6c5164a77af4edea1a72b47]: Textual amendment: S. 9(2)(d) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-9e5b1ee8d6c5164a77af4edea1a72b47]: Textual amendment: S. 9(2)(d) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-71a49f6bb4bbf9441ded3f3cca59bc1e]: Textual amendment: S. 10(2)(a)(b) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-71a49f6bb4bbf9441ded3f3cca59bc1e]: Textual amendment: S. 10(2)(a)(b) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c1182883]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-8f7a013455ef631f5a308c647fcf702f]: Textual amendment: S. 10(2)(d) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-8f7a013455ef631f5a308c647fcf702f]: Textual amendment: S. 10(2)(d) repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c1182885]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -662,7 +662,7 @@ Section 15.
 
 [^c1182887]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-36190bae77b098449a643eccbe572653]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/8/section/13) repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
+[^c-36190bae77b098449a643eccbe572653]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/8/section/13) repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
 
 [^c1182893]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/14/1) repealed (25.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/33/3), [44](https://www.legislation.gov.uk/ukpga/1999/8/section/44), [Sch. 9(10)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/9/10); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(3)(a)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/3/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1), [Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/part/I), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/I) (with [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/8))
 
@@ -686,15 +686,15 @@ Section 15.
 
 [^c1182903]: Subordinate legislation: S. 17(1) power partly exercised (8.7.1998): different dates appointed for specified provisions by [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2](https://www.legislation.gov.uk/uksi/1998/1658/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/1658/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/1658/schedule/3) (with [art. 3](https://www.legislation.gov.uk/uksi/1998/1658/article/3))
 
-[^key-f5d17b10b57c7711f2283db726d1de99]: Textual amendment: [S. 17(4)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-f5d17b10b57c7711f2283db726d1de99]: Textual amendment: [S. 17(4)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1182905]: Extent: For the extent of Sch. 1, see [s. 16(1)(3)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/3)
 
 [^c1182906]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
-[^key-d7afc3aeb68e215f1c96d510961789a1]: Textual amendment: Sch. 1 para. 2 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-d7afc3aeb68e215f1c96d510961789a1]: Textual amendment: Sch. 1 para. 2 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-202209b7f5a4f09f80120338315b90ac]: Textual amendment: Sch. 1 para. 3 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-202209b7f5a4f09f80120338315b90ac]: Textual amendment: Sch. 1 para. 3 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c1182910]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
@@ -702,7 +702,7 @@ Section 15.
 
 [^c1182912]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-39674d05c7aac77c0021b359034d7e09]: Textual amendment: Sch. 1 para. 11 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-39674d05c7aac77c0021b359034d7e09]: Textual amendment: Sch. 1 para. 11 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c1182915]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
@@ -710,12 +710,12 @@ Section 15.
 
 [^c1182917]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-d0efc933c2c27fbb3e94d1d954b122bd]: Textual amendment: [Sch. 1 paras. 19-21](https://www.legislation.gov.uk/ukpga/1998/8/schedule/1/paragraph/19) repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
+[^c-d0efc933c2c27fbb3e94d1d954b122bd]: Textual amendment: [Sch. 1 paras. 19-21](https://www.legislation.gov.uk/ukpga/1998/8/schedule/1/paragraph/19) repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
 
-[^key-44a03bfa3ae73481ead00d8f27160942]: Textual amendment: Sch. 1 para. 23 repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
+[^c-44a03bfa3ae73481ead00d8f27160942]: Textual amendment: Sch. 1 para. 23 repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
 
 [^c1182918]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-b0b1d6636341dd433973651f5de63d2e]: Textual amendment: Sch. 1 para. 26 repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
+[^c-b0b1d6636341dd433973651f5de63d2e]: Textual amendment: Sch. 1 para. 26 repealed (1.11.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 8(1)](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8/1); [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
 
 [^c1182919]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/8/schedule/2) wholly in force at 1.10.1998; [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/8/schedule/2) not in force at Royal Assent see [s. 17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/8/schedule/2) in force for certain purposes at 1.8.1998 by [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/1998/1658/article/3)) and wholly in force at 1.10.1998 by [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/1658/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/1998/1658/article/3))

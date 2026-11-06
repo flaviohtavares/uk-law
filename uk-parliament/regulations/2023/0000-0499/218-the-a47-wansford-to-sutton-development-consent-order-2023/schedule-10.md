@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Articles 2 and 47
 
-### PART 1 — ENVIRONMENTAL STATEMENT[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 1 — ENVIRONMENTAL STATEMENT[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — OTHER DOCUMENTS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 2 — OTHER DOCUMENTS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)

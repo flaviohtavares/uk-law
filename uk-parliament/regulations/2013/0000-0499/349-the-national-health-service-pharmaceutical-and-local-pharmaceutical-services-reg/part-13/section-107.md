@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] decides to select a proposal for an LPS scheme for development, it must give notice of that decision and provide such details of the proposed LPS scheme as it considers appropriate to—
+If NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] decides to select a proposal for an LPS scheme for development, it must give notice of that decision and provide such details of the proposed LPS scheme as it considers appropriate to—
 
 - (a) the HWB (HWB1) for the area in which are situated the premises at or from which local pharmaceutical services are to be provided under the proposal;
 - (b) any Local Pharmaceutical Committee for the area in which are situated the premises at or from which local pharmaceutical services are to be provided under the proposal;
@@ -43,4 +43,4 @@ If NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] decides to select a propos
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

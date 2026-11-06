@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Duty to promote land rights and responsibilities statement[^key-12eb3267cd3cfd31b8a5cbf355b17cd4]
+## 3. Duty to promote land rights and responsibilities statement[^c-12eb3267cd3cfd31b8a5cbf355b17cd4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must, in exercising their functions and so far as reasona
 
 ## Annotations
 
-[^key-12eb3267cd3cfd31b8a5cbf355b17cd4]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/18/section/3) in force at 1.10.2017 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/3)
+[^c-12eb3267cd3cfd31b8a5cbf355b17cd4]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/18/section/3) in force at 1.10.2017 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/3)

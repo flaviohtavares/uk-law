@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — MEANING OF “BORROWER” IN RELATION TO GREEN DEAL CREDIT AGREEMENTS[^key-4270f8409950ac26229b94a8f3a175a4]
+## SCHEDULE 4A — MEANING OF “BORROWER” IN RELATION TO GREEN DEAL CREDIT AGREEMENTS[^c-4270f8409950ac26229b94a8f3a175a4]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 60LB
 
 ## Annotations
 
-[^key-4270f8409950ac26229b94a8f3a175a4]: Textual amendment: Sch. 4A inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [11](https://www.legislation.gov.uk/uksi/2014/1850/article/11) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-4270f8409950ac26229b94a8f3a175a4]: Textual amendment: Sch. 4A inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [11](https://www.legislation.gov.uk/uksi/2014/1850/article/11) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))

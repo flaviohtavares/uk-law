@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Meaning of “surviving nominated beneficiary”[^key-4af6bc214b4e5df2de40f1ed3bfbe0f8]
+## 133. Meaning of “surviving nominated beneficiary”[^c-4af6bc214b4e5df2de40f1ed3bfbe0f8]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4af6bc214b4e5df2de40f1ed3bfbe0f8]: Commencement: [Reg. 133](https://www.legislation.gov.uk/ssi/2014/292/regulation/133) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4af6bc214b4e5df2de40f1ed3bfbe0f8]: Commencement: [Reg. 133](https://www.legislation.gov.uk/ssi/2014/292/regulation/133) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

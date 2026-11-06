@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. No double recovery[^key-910f9534bdd6b3063249f231e6c3d190]
+## 66. No double recovery[^c-910f9534bdd6b3063249f231e6c3d190]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 ## Annotations
 
-[^key-910f9534bdd6b3063249f231e6c3d190]: Commencement: Art. 66 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-910f9534bdd6b3063249f231e6c3d190]: Commencement: Art. 66 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

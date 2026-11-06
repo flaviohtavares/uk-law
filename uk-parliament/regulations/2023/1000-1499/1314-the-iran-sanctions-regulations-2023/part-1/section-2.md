@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-42381be0efcf88b8c93943a42be05888]
+## 2. Interpretation[^c-42381be0efcf88b8c93943a42be05888]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,15 +36,15 @@ In these Regulations—
 - “**the Dual-Use Regulation**” means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/european/regulation/2009/0428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items;
 - “**the Government of Iran**” includes its public bodies, corporations or agencies, its armed forces or any person acting on its behalf or at its direction;
 - “**serious human rights violation or abuse**” means a serious violation or abuse of any of the human rights specified in regulation 4;
-- “[^key-a2685da5c52a7955ee429d516d64a61d]**ships licence**” means a licence issued by the Secretary of State under regulation 62B (ships licences);
+- “[^c-a2685da5c52a7955ee429d516d64a61d]**ships licence**” means a licence issued by the Secretary of State under regulation 62B (ships licences);
 - “**trade licence**” means a licence under regulation 62;
 - “**Treasury licence**” means a licence under regulation 60(1);
 - “**United Kingdom person**” has the same meaning as in section 21 of the Act.
 
 ## Annotations
 
-[^key-42381be0efcf88b8c93943a42be05888]: Commencement: Reg. 2 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-42381be0efcf88b8c93943a42be05888]: Commencement: Reg. 2 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00003]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Amendments have been made to this Act and are cited, where relevant, in respect of the applicable regulations.
 
-[^key-a2685da5c52a7955ee429d516d64a61d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/1314/regulation/2) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/983/regulation/15)
+[^c-a2685da5c52a7955ee429d516d64a61d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/1314/regulation/2) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/983/regulation/15)

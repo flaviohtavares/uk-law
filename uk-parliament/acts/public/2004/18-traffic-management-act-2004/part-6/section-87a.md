@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87A. Power to prohibit use of devices etc: parking contraventions in England[^key-1c6f0449f4cebe12cdd44240ef7d15db]
+## 87A. Power to prohibit use of devices etc: parking contraventions in England[^c-1c6f0449f4cebe12cdd44240ef7d15db]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c6f0449f4cebe12cdd44240ef7d15db]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2004/18/section/87A) inserted (26.3.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 53(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/53/3), [115(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/994/article/2/b)
+[^c-1c6f0449f4cebe12cdd44240ef7d15db]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2004/18/section/87A) inserted (26.3.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 53(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/53/3), [115(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/994/article/2/b)

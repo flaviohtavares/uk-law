@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Temporary stopping up of streets, public rights of way and access land[^key-824d8275c9593d0b679a31c1b6ffe065]
+## 13. Temporary stopping up of streets, public rights of way and access land[^c-824d8275c9593d0b679a31c1b6ffe065]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-824d8275c9593d0b679a31c1b6ffe065]: Commencement: Art. 13 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-824d8275c9593d0b679a31c1b6ffe065]: Commencement: Art. 13 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

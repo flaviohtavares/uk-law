@@ -52,11 +52,11 @@ In accordance with section 126(3)(b) of that Act, a draft of this instrument has
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-9b99d3fdacf1ea74d8ee63c99dc44e11]
+### 1. Citation and commencement[^c-9b99d3fdacf1ea74d8ee63c99dc44e11]
 
 These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Regulations 2021 and come into force on 1 April 2022.
 
-### 2. Interpretation[^key-cbce2a999d46f164729dd7a8ef52b6f7]
+### 2. Interpretation[^c-cbce2a999d46f164729dd7a8ef52b6f7]
 
 (1) In these Regulations, unless the context requires otherwise—
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Register 
 
 ### Establishment and contents
 
-#### 3. Register of persons holding a controlled interest in land[^key-c74ea4c51acd5c5229746f815a86c673]
+#### 3. Register of persons holding a controlled interest in land[^c-c74ea4c51acd5c5229746f815a86c673]
 
 (1) The Keeper of the Registers of Scotland must establish and maintain a public register known as the Register of Persons holding a controlled interest in land (which register is referred to in these Regulations as “the RCI”).
 
@@ -109,7 +109,7 @@ These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Register 
 - (a) are the owners or tenants of land, and
 - (b) in relation to that land, are associated with a person to whom a Part of schedule 1 applies (such person being referred in these Regulations to as an “associate”).
 
-(2A)[^key-1c5fe11715085b5a2305141313c57a90] Paragraph (2) is subject to regulation 23A.
+(2A)[^c-1c5fe11715085b5a2305141313c57a90] Paragraph (2) is subject to regulation 23A.
 
 (3) The RCI is to contain, in relation to each person recorded in the RCI (“the recorded person”)—
 
@@ -124,19 +124,19 @@ These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Register 
     - (bb) the associate’s unique reference number,
   - (ii) where a security declaration has effect in respect of the associate—
     - (aa) a statement that a security declaration has been made and has effect in respect of that person,
-    - (bb) where applicable, a note of an appeal under regulation 18(4)), [^key-d586349806e67100e38c979279495e2b]...
-- (da)[^key-bf273ec8a5224aa9fa1606b4cb9d6762] if regulation 23A applies, a statement to that effect, and
+    - (bb) where applicable, a note of an appeal under regulation 18(4)), [^c-d586349806e67100e38c979279495e2b]...
+- (da)[^c-bf273ec8a5224aa9fa1606b4cb9d6762] if regulation 23A applies, a statement to that effect, and
 - (e) the date of any notice given to the Keeper under these Regulations in respect of the entry.
 
 (4) The RCI is to be in such form (which may be, or be in part, an electronic form) as the Keeper considers appropriate.
 
-#### 4. Making of entries in the RCI[^key-ecaa0ab9babb05ffff8257788dcf3cb4]
+#### 4. Making of entries in the RCI[^c-ecaa0ab9babb05ffff8257788dcf3cb4]
 
 (1) The Keeper must make an entry in the RCI, in accordance with regulation 3, following receipt of information provided under regulation 10(3) by a person to whom that regulation applies.
 
 (2) An entry required by paragraph (1) may not be made during the period of 30 days beginning on the day on which the Keeper received the information.
 
-#### 5. Amendment of the RCI[^key-0018d7e3bcb8ba82bad571c943797f84]
+#### 5. Amendment of the RCI[^c-0018d7e3bcb8ba82bad571c943797f84]
 
 (1) The Keeper must remove an entry for a recorded person from the RCI if the Keeper is given notice under regulation 12 to the effect that—
 
@@ -164,17 +164,17 @@ to provide the Keeper, within such period as the Keeper may specify, with such f
 
 (5) For the purposes of paragraph 2(c), an inaccuracy includes the omission of information which is required to be recorded by these Regulations.
 
-#### 6. Timing of amending an entry[^key-2fc326ffeed27f020027ccb044db9524]
+#### 6. Timing of amending an entry[^c-2fc326ffeed27f020027ccb044db9524]
 
 Where the Keeper is required to amend an entry in the RCI, the Keeper must do so as soon as reasonably practicable after receiving the documents or, as the case may be, the information specified in regulation 5(2) or (4).
 
-#### 7. Associates – unique reference numbers[^key-16cb8815cd377c66eeaa803cb32c465f]
+#### 7. Associates – unique reference numbers[^c-16cb8815cd377c66eeaa803cb32c465f]
 
 (1) The Keeper must allocate a unique reference number in respect of each associate whose information is to be entered on the RCI.
 
 (2) The unique reference number must appear in each entry in the RCI in respect of that associate (whether or not the associate’s information is being entered in relation to the same recorded person).
 
-#### 8. Protection of the RCI[^key-7d597ff7265ee3be2c33cea637443418]
+#### 8. Protection of the RCI[^c-7d597ff7265ee3be2c33cea637443418]
 
 The Keeper must take such steps as appear reasonable to the Keeper to protect the RCI from—
 
@@ -184,7 +184,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 ### Access to the RCI
 
-#### 9. Access to the RCI[^key-dc48ba1c055840b2b6e5ba90e2e11f11]
+#### 9. Access to the RCI[^c-dc48ba1c055840b2b6e5ba90e2e11f11]
 
 (1) The Keeper must make the information contained in the RCI available by such means as the Keeper considers appropriate.
 
@@ -198,9 +198,9 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 ### Information to be provided by persons who own or tenant land subject to the control of another
 
-#### 10. Duty to notify of controlled interest and associates[^key-bff323965d009bf36e200f5027145583]
+#### 10. Duty to notify of controlled interest and associates[^c-bff323965d009bf36e200f5027145583]
 
-(1) This regulation applies to a person who is a recorded person (including a person who is a recorded person by virtue of regulation 23A)[^key-c4ea5ed5b899c1a0020a0fe16b3ce8d9].
+(1) This regulation applies to a person who is a recorded person (including a person who is a recorded person by virtue of regulation 23A)[^c-c4ea5ed5b899c1a0020a0fe16b3ce8d9].
 
 (2) This regulation does not apply to any person of a type listed in schedule 2 (list of persons subject to other transparency regimes).
 
@@ -211,7 +211,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
   - (i) if the land is registered in the Land Register, the title number of the land,
   - (ii) if the land is not registered in the Land Register, a description of the land which is sufficient for it to be identified,
 - (c) details of the capacity in which the person owns or tenants the land (for example as an individual, partner or trustee), and
-- (ca)[^key-33b17df15c765d4d8d0285aee4cf9d2b] if the person is a recorded person by virtue of regulation 23A, a statement of the person’s basis for registration under this regulation,
+- (ca)[^c-33b17df15c765d4d8d0285aee4cf9d2b] if the person is a recorded person by virtue of regulation 23A, a statement of the person’s basis for registration under this regulation,
 - (d) in relation to each associate—
   - (i) the required details, and
   - (ii) if a security declaration has effect in respect of an associate, a copy of that declaration.
@@ -242,7 +242,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 (10) A person who commits an offence under paragraph (8) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 11. Required details of an associate[^key-bf60bd3561b5daacb82b6fbd86be950b]
+#### 11. Required details of an associate[^c-bf60bd3561b5daacb82b6fbd86be950b]
 
 (1) For the purposes of these Regulations, the “required details” of an associate are—
 
@@ -270,7 +270,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
   - (iv) if applicable, any unique reference number allocated to the associate by the Keeper under regulation 7,
   - (v) the paragraph of schedule 2 that applies to the associate.
 
-#### 12. Information about events affecting the RCI[^key-f7949517d0d9eb54a017e45095291478]
+#### 12. Information about events affecting the RCI[^c-f7949517d0d9eb54a017e45095291478]
 
 (1) If an event mentioned in column 1 of the following table occurs, the person mentioned in column 2 of that table for the event must give the Keeper notice, in the specified form, of—
 
@@ -312,11 +312,11 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 (6) A person who commits an offence under paragraph (4) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 13. Notification of associates about registration[^key-4c018f070f5204635c8cd29eb86566f8]
+#### 13. Notification of associates about registration[^c-4c018f070f5204635c8cd29eb86566f8]
 
 (1) This regulation applies if a person gives the Keeper a notice about an associate under regulation 10(3).
 
-(1A)[^key-1a6f9359594408a04f6e6ad8f58787b6] But this regulation does not apply if there are no associates other than associates to whom regulation 23A applies.
+(1A)[^c-1a6f9359594408a04f6e6ad8f58787b6] But this regulation does not apply if there are no associates other than associates to whom regulation 23A applies.
 
 (2) The person must give notice of that fact to the associate in the specified form.
 
@@ -335,7 +335,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 ### Information associates must provide
 
-#### 14. Associate’s duty to notify of association[^key-91d255962f2e7cf39bad5ea4b5a34bc2]
+#### 14. Associate’s duty to notify of association[^c-91d255962f2e7cf39bad5ea4b5a34bc2]
 
 (1) This regulation applies if—(1)
 
@@ -351,7 +351,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 (4) A person who commits an offence under paragraph (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 15. Duty of associate to provide information upon request[^key-41ed5625a7142ada9f59b23ddbda28fd]
+#### 15. Duty of associate to provide information upon request[^c-41ed5625a7142ada9f59b23ddbda28fd]
 
 (1) Paragraph (2) applies if a person (“A”) receives a request for verification of A’s required details from a person under regulation 10(5).
 
@@ -381,7 +381,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 ### Security declaration
 
-#### 16. Security declaration[^key-4f07437f8361af24586fe42a2379d14a]
+#### 16. Security declaration[^c-4f07437f8361af24586fe42a2379d14a]
 
 (1) An associate who is an individual may, at any time, make a declaration that the inclusion in the RCI of one or more of the associate’s required details would put the associate or an individual connected with the associate at risk of violence, abuse, threat of violence or abuse, or intimidation (a “security declaration”).
 
@@ -395,7 +395,7 @@ The Keeper must take such steps as appear reasonable to the Keeper to protect th
 
 (3) An associate must also send a copy of the security declaration to the recorded person.
 
-(3A)[^key-20161273fe4cbfbafa6f1a1c94b3869c] Where the person making the security declaration is doing so in terms of regulation 23A as a recorded person, the security declaration must—
+(3A)[^c-20161273fe4cbfbafa6f1a1c94b3869c] Where the person making the security declaration is doing so in terms of regulation 23A as a recorded person, the security declaration must—
 
 - (a) be sent to—
   - (i) any other recorded person, and
@@ -444,7 +444,7 @@ to provide the Keeper, within such period as the Keeper may specify, with such f
   - (i) is revoked under regulation 17, or
   - (ii) ceases to have effect in accordance with paragraph (6) or (11).
 
-#### 17. Revocation of security declarations[^key-d35068d98b85a7126229b00393d17fb9]
+#### 17. Revocation of security declarations[^c-d35068d98b85a7126229b00393d17fb9]
 
 (1) An associate who has made a security declaration may revoke it at any time.
 
@@ -461,7 +461,7 @@ to provide the Keeper, within such period as the Keeper may specify, with such f
 
 (6) A person who commits an offence under paragraph (5) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 18. Appeals against decisions about security declarations[^key-9c7aa226285410ba63f2b12fded024df]
+#### 18. Appeals against decisions about security declarations[^c-9c7aa226285410ba63f2b12fded024df]
 
 (1) An associate may appeal to the Lands Tribunal for Scotland, on a question of fact or on a point of law, against a decision made under regulation 16(7).
 
@@ -482,7 +482,7 @@ to provide the Keeper, within such period as the Keeper may specify, with such f
 
 ### Referrals
 
-#### 19. Referrals[^key-e639de0135753928271c203864d4810f]
+#### 19. Referrals[^c-e639de0135753928271c203864d4810f]
 
 (1) A person may refer to the Lands Tribunal for Scotland a question relating to—
 
@@ -512,7 +512,7 @@ except where that would involve the person giving notice to themselves.
 
 ### Offences
 
-#### 20. Offence of giving false or misleading information[^key-351f0c401a14d6ead6ab10fb6e719c0b]
+#### 20. Offence of giving false or misleading information[^c-351f0c401a14d6ead6ab10fb6e719c0b]
 
 (1) A person commits an offence if the person—
 
@@ -541,7 +541,7 @@ except where that would involve the person giving notice to themselves.
 - (f) a response to a request of the Keeper under regulation 16(8),
 - (g) a notice to the Keeper under regulation 23(1) or (4).
 
-#### 21. Defence to false or misleading information offences[^key-13c72140d980a351afe29677e9e61058]
+#### 21. Defence to false or misleading information offences[^c-13c72140d980a351afe29677e9e61058]
 
 (1) Regulation 20(1) or (2) does not apply if the person (the “accused”) took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -567,7 +567,7 @@ except where that would involve the person giving notice to themselves.
 - (a) the accused lodges a defence statement under section 125 of the Criminal Justice and Licensing (Scotland) Act 2010[^f00004] in accordance with the time limits mentioned in paragraph (4)(b), and
 - (b) the accused’s defence involves an allegation that the commission of the offence was due to reliance on information supplied by another person.
 
-#### 22. Individual culpability where organisation commits offence[^key-d145d5420283f8e433b944e9d7341459]
+#### 22. Individual culpability where organisation commits offence[^c-d145d5420283f8e433b944e9d7341459]
 
 (1) This regulation applies if—
 
@@ -595,7 +595,7 @@ except where that would involve the person giving notice to themselves.
 
 ### Other
 
-#### 23. Notification of Keeper on event of death, winding up or dissolution[^key-0b27fd4833806de598480a06c6956423]
+#### 23. Notification of Keeper on event of death, winding up or dissolution[^c-0b27fd4833806de598480a06c6956423]
 
 (1) In the event of the death of an individual who is a recorded person, the executor of the individual must, as soon as reasonably practicable—
 
@@ -615,7 +615,7 @@ except where that would involve the person giving notice to themselves.
 
 (6) In the event of the winding up or dissolution of a non-natural person (“the entity”) who is an associate, the person responsible for dealing with the assets or liabilities of the entity must, as soon as reasonably practicable, notify the recorded person of the winding up or dissolution.
 
-#### 23A. Provision where titles refer to former owner or tenant: trusts and unincorporated associations[^M_I_1cf34807-aa52-45bf-af8b-970b449036a8][^key-cefd1c04fc2e4dfc190085c4fd30e187]
+#### 23A. Provision where titles refer to former owner or tenant: trusts and unincorporated associations[^M_I_1cf34807-aa52-45bf-af8b-970b449036a8][^c-cefd1c04fc2e4dfc190085c4fd30e187]
 
 (1) This regulation applies where—
 
@@ -635,7 +635,7 @@ except where that would involve the person giving notice to themselves.
 
 (4) Where there is a duty under regulation 12 to notify the Keeper of an event mentioned in column 1 of the table, a person who is registered as a recorded person under the provisions of this regulation will comply with their duty if one form is submitted to cover the person ceasing to be both a recorded person and an associate.
 
-#### 24. Specified forms[^key-ad109de3723874f75b89a1e2db914d8b]
+#### 24. Specified forms[^c-ad109de3723874f75b89a1e2db914d8b]
 
 (1) This regulation applies if these Regulations require or authorise something to be in the specified form.
 
@@ -653,13 +653,13 @@ except where that would involve the person giving notice to themselves.
 
 (5) The Keeper must publish each form specified under paragraph (3) in such manner as the Keeper considers appropriate.
 
-#### 25. Provision of information by the Keeper to Scottish Ministers[^key-9d0dc438980e9e9e65f6031e40415b1f]
+#### 25. Provision of information by the Keeper to Scottish Ministers[^c-9d0dc438980e9e9e65f6031e40415b1f]
 
 The Keeper must provide to the Scottish Ministers any information that Scottish Ministers may require for the purposes of monitoring the operation and effectiveness of the RCI.
 
 ## PART 5 — Application and transitional provisions
 
-### 26. Application of these Regulations[^key-b75b20119002f7f189e981f2ede973c9]
+### 26. Application of these Regulations[^c-b75b20119002f7f189e981f2ede973c9]
 
 (1) Subject to this regulation, these Regulations apply in relation to—
 
@@ -687,7 +687,7 @@ The Keeper must provide to the Scottish Ministers any information that Scottish 
 (4) For the purposes of this regulation, the “transitional period” is the period—
 
 - (a) beginning on 1 April 2022, and
-- (b)[^key-f39799f13b6260dd0dfff77b9b77c567] ending on 1 April 2024.
+- (b)[^c-f39799f13b6260dd0dfff77b9b77c567] ending on 1 April 2024.
 
 ROSEANNA CUNNINGHAM
 
@@ -703,14 +703,14 @@ Regulations 3(2) and 26(1)
 
 ### PART 1 — Contractual or other arrangements with an individual
 
-#### 1. Application[^key-e6f58562f4041a627910ff8c62c34df6]
+#### 1. Application[^c-e6f58562f4041a627910ff8c62c34df6]
 
 This Part applies to a person (the associate) where the person who owns or tenants the land (the recorded person) is an individual who has entered into a contract or other arrangement under which—
 
 - (a) the recorded person owns or tenants the land for or on behalf of the associate, or
 - (b) the associate has the right to exercise, or actually exercises, significant influence or control over the recorded person’s dealings with the land.
 
-#### 2. Exceptions[^key-29cedb09c707d06198b8a174650651f6]
+#### 2. Exceptions[^c-29cedb09c707d06198b8a174650651f6]
 
 This Part does not apply where one or more of the following is, or are, the only contractual or other arrangements between the person and the individual—
 
@@ -735,7 +735,7 @@ This Part does not apply where one or more of the following is, or are, the only
 
 ### PART 2 — Partnerships
 
-#### 3. Application[^key-096664e4f9d51b58c7af4e952a5994a3]
+#### 3. Application[^c-096664e4f9d51b58c7af4e952a5994a3]
 
 This Part applies to a person (the associate) where—
 
@@ -748,7 +748,7 @@ This Part applies to a person (the associate) where—
   - (iii) is an individual who has significant influence or control over a relevant entity which is a partner of the recorded person,
   - (iv) is an individual who has the right to exercise, or who actually exercises, significant influence or control over the recorded person or a partnership in which the recorded person is a partner.
 
-#### 4. Exceptions[^key-744e31ca06b41544015da05840d6c3f0]
+#### 4. Exceptions[^c-744e31ca06b41544015da05840d6c3f0]
 
 This Part does not apply to a person where that person’s relationship to the partnership is only that of—
 
@@ -757,7 +757,7 @@ This Part does not apply to a person where that person’s relationship to the p
 - (c) an administrator of the partnership in insolvency proceedings, or
 - (d) a member of the judiciary presiding over proceedings in connection with the partnership.
 
-#### 5. Interpretation of Part 2[^key-e1a346c574fe25a5148639921eae8e1b]
+#### 5. Interpretation of Part 2[^c-e1a346c574fe25a5148639921eae8e1b]
 
 For the purposes of this Part—
 
@@ -770,7 +770,7 @@ For the purposes of this Part—
 
 ### PART 3 — Trusts
 
-#### 6. Application[^key-fd2f356e088774e268aa552ab72dee4a]
+#### 6. Application[^c-fd2f356e088774e268aa552ab72dee4a]
 
 This Part applies to a person (the associate) where—
 
@@ -780,7 +780,7 @@ This Part applies to a person (the associate) where—
   - (ii) is an individual who has significant influence or control over a relevant entity which is a trustee of the recorded person,
   - (iii) is an individual who has the right to exercise, or who actually exercises, significant influence or control over the recorded person or the trust.
 
-#### 7. Exceptions[^key-58ebf85efe1e4a356adfc2afc0562c93]
+#### 7. Exceptions[^c-58ebf85efe1e4a356adfc2afc0562c93]
 
 (1) This Part does not apply where—
 
@@ -795,7 +795,7 @@ This Part applies to a person (the associate) where—
 - (c) a member of the judiciary presiding over proceedings in connection with the trust,
 - (d) a member of a body which has the right to exercise, or actually exercises significant influence or control over the trust by virtue of a function conferred by an enactment.
 
-#### 8. Interpretation of this Part[^key-aaaffd87b485711c961fa5b488f75fa0]
+#### 8. Interpretation of this Part[^c-aaaffd87b485711c961fa5b488f75fa0]
 
 (1) For the purposes of this Part—
 
@@ -812,7 +812,7 @@ This Part applies to a person (the associate) where—
 
 ### PART 4 — Unincorporated bodies
 
-#### 9. Application[^key-f876df606ad9db0a0ba23def2354df1f]
+#### 9. Application[^c-f876df606ad9db0a0ba23def2354df1f]
 
 This Part applies to a person (the associate) where—
 
@@ -821,7 +821,7 @@ This Part applies to a person (the associate) where—
   - (i) is responsible for the general control and management of the administration of the body, and
   - (ii) is not registered as owning or leasing the land.
 
-#### 10. Exceptions[^key-0787dc8c5e1a6435daea183874fac6b2]
+#### 10. Exceptions[^c-0787dc8c5e1a6435daea183874fac6b2]
 
 This Part does not apply to a person where that person’s relationship to the body is only that of—
 
@@ -829,13 +829,13 @@ This Part does not apply to a person where that person’s relationship to the b
 - (b) a creditor of the body (such as the holder of a standard security),
 - (c) a member of the judiciary presiding over proceedings to remove a member of the body from any trust established to hold property on the body’s behalf.
 
-#### 11. Interpretation of Part 4[^key-dd2e7f636b7ead401cbca158bfafb82a]
+#### 11. Interpretation of Part 4[^c-dd2e7f636b7ead401cbca158bfafb82a]
 
 For the purposes of this Part a person is responsible for the general control and management of the administration of a body if they hold an office or other official position in that regard (such as chair, treasurer or secretary, however that may be described).
 
 ### PART 5 — Overseas entities
 
-#### 12. Application[^key-15ae8fe32eedfb400bd914ea32c94c54]
+#### 12. Application[^c-15ae8fe32eedfb400bd914ea32c94c54]
 
 This Part applies to a person (the associate) where—
 
@@ -846,7 +846,7 @@ This Part applies to a person (the associate) where—
   - (iii) has the right to exercise, or actually exercises, significant influence or control over a partnership or unincorporated body which is not a legal entity or a trust, but in respect of which head (i) or (ii) would apply if the partnership, body or trust were an individual, or
   - (iv) otherwise has the right to exercise, or actually exercises, significant influence or control over the decision-making of the recorded person, particularly in respect of its dealings with the land.
 
-#### 13. Exceptions[^key-41a89b3f93b9f2beefc50582526cfed2]
+#### 13. Exceptions[^c-41a89b3f93b9f2beefc50582526cfed2]
 
 (1) This Part does not apply to a person where the person’s relationship to the overseas entity is only that of—
 
@@ -869,32 +869,32 @@ This Part applies to a person (the associate) where—
 - (a) in O, or
 - (b) in each overseas entity that is part of the chain of overseas entities that includes O.
 
-#### 14. Interpretation of Part 5[^key-74dd8bdb587cbaa93a6037669bee2eae]
+#### 14. Interpretation of Part 5[^c-74dd8bdb587cbaa93a6037669bee2eae]
 
 Paragraphs 15 to 25 set out the meaning of certain expressions and the rules for the interpretation of this Part.
 
-**15.**[^key-d47eff0a77dcb6d9d4bb48ae5a07d713] Examples of significant influence and control include, in particular, where—
+**15.**[^c-d47eff0a77dcb6d9d4bb48ae5a07d713] Examples of significant influence and control include, in particular, where—
 
 - (a) a person has absolute rights to take or veto decisions related to the running of the business of the overseas entity,
 - (b) a person’s recommendations are always or almost always followed by shareholders who hold the majority of the voting rights in the overseas entity, or
 - (c) a person is significantly involved in the management and direction of the overseas entity.
 
-**16.**[^key-3c368c5ebaf968251e07d8a768e3949f] “Legal entity” means a body corporate, partnership or an unincorporated body that is a legal person under the law by which it is governed.
+**16.**[^c-3c368c5ebaf968251e07d8a768e3949f] “Legal entity” means a body corporate, partnership or an unincorporated body that is a legal person under the law by which it is governed.
 
-**17.**[^key-f5345a4dfba4f567ad010e66365297c6] “Overseas entity” means a legal entity, other than a person listed in schedule 2, which is incorporated or constituted under, and governed by, a law other than the law of the United Kingdom.
+**17.**[^c-f5345a4dfba4f567ad010e66365297c6] “Overseas entity” means a legal entity, other than a person listed in schedule 2, which is incorporated or constituted under, and governed by, a law other than the law of the United Kingdom.
 
-**18.**[^key-b6a463f90d0b643699dfa9ce818cccee] (1) For the purposes of paragraphs 19 and 23, “arrangement” includes—
+**18.**[^c-b6a463f90d0b643699dfa9ce818cccee] (1) For the purposes of paragraphs 19 and 23, “arrangement” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
 
 (2) But something does not count as an arrangement unless there is at least some degree of stability about it (whether by its nature or terms, the time it has been in existence or otherwise).
 
-**19.**[^key-5068c0281fa5bfec2153dc50d4d100af] (1) If rights held by a person or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Part as holding the combined rights of both of them.
+**19.**[^c-5068c0281fa5bfec2153dc50d4d100af] (1) If rights held by a person or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Part as holding the combined rights of both of them.
 
 (2) A “joint arrangement” is an arrangement between the holders of rights that they will exercise all or substantially all the rights conferred by their respective rights jointly in a way that is pre-determined by the arrangement.
 
-**20.**[^key-889f496110c2a46cb479e95014c383fd] (1) A reference to the voting rights in an overseas entity is to the rights conferred on shareholders in respect of their shares (or, in the case of an entity not having a share capital, on members) to vote at general meetings of the entity on all or substantially all matters.
+**20.**[^c-889f496110c2a46cb479e95014c383fd] (1) A reference to the voting rights in an overseas entity is to the rights conferred on shareholders in respect of their shares (or, in the case of an entity not having a share capital, on members) to vote at general meetings of the entity on all or substantially all matters.
 
 (2) In relation to an overseas entity that does not have general meetings at which matters are decided by the exercise of voting rights—
 
@@ -903,11 +903,11 @@ Paragraphs 15 to 25 set out the meaning of certain expressions and the rules for
 
 (3) In applying this Part, the voting rights in an overseas entity are to be reduced by any rights held by the entity itself.
 
-**21.**[^key-2ad40db2f7d755eb5851271eb4dfd21e] (1) A reference to a power to appoint or remove a majority of the board of directors of an overseas entity is a reference to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
+**21.**[^c-2ad40db2f7d755eb5851271eb4dfd21e] (1) A reference to a power to appoint or remove a majority of the board of directors of an overseas entity is a reference to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
 
 (2) References to a board of directors, in the case of an overseas entity that does not have such a board, are to be read as references to the equivalent management board of that entity.
 
-**22.**[^key-b5bc9b25f53162e01836bc47a6724a75] (1) A person holds a right “indirectly” if the person has a majority stake in an overseas entity and that entity—
+**22.**[^c-b5bc9b25f53162e01836bc47a6724a75] (1) A person holds a right “indirectly” if the person has a majority stake in an overseas entity and that entity—
 
 - (a) holds that right, or
 - (b) is part of a chain of legal entities—
@@ -926,14 +926,14 @@ Paragraphs 15 to 25 set out the meaning of certain expressions and the rules for
 - (a) a person’s appointment as a director follows necessarily from that person’s appointment as director of the legal entity, or
 - (b) the directorship is held by the legal entity itself.
 
-**23.**[^key-de33c31a2fc44c052d1f52f4e71494ca] (1) Where a person controls a right, the right is to be treated for the purposes of this Part as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
+**23.**[^c-de33c31a2fc44c052d1f52f4e71494ca] (1) Where a person controls a right, the right is to be treated for the purposes of this Part as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
 (2) A person “controls” a right if, by virtue of any arrangement between that person and others, the right is exercisable only—
 
 - (a) by that person, in accordance with that person’s directions or instructions, or
 - (b) with that person’s consent or concurrence.
 
-**24.**[^key-7472eb9985524c55a4e5eec7dde019f5] (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
+**24.**[^c-7472eb9985524c55a4e5eec7dde019f5] (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
 - (a) when the circumstances have arisen, and for so long as they are extant, or
 - (b) when whether the circumstances arise or not are within the control of the person having the rights.
@@ -947,7 +947,7 @@ Paragraphs 15 to 25 set out the meaning of certain expressions and the rules for
 
 (4) Rights that are normally exercisable but which are temporarily incapable of exercise are to continue to be taken into account.
 
-**25.**[^key-671debb3d511fb728aaede17fa7d6879] (1) An individual does not meet a condition mentioned in paragraph 12 in relation to an overseas entity by virtue only of being a foreign limited partner.
+**25.**[^c-671debb3d511fb728aaede17fa7d6879] (1) An individual does not meet a condition mentioned in paragraph 12 in relation to an overseas entity by virtue only of being a foreign limited partner.
 
 (2) An individual does not meet a condition mentioned in paragraph 12 in relation to an overseas entity by virtue only of directly or indirectly holding a right in, or in relation to a foreign limited partner which (in its capacity as such) would meet the condition if it were an individual.
 
@@ -972,13 +972,13 @@ Paragraphs 15 to 25 set out the meaning of certain expressions and the rules for
 
 Regulations 10(2), 11(2) and 26(1)
 
-### 1. Charitable incorporated associations[^key-1ea55d1f3194cf5ffd58cbadd7701756]
+### 1. Charitable incorporated associations[^c-1ea55d1f3194cf5ffd58cbadd7701756]
 
 (1) A charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011[^f00010] or within the meaning of the Charities Act (Northern Ireland) 2008[^f00011].
 
 (2) A Scottish charitable incorporated organisation within the meaning of Chapter 7 of Part 1 of the Charities and Trustee Investment (Scotland) Act 2005[^f00012].
 
-### 2. Companies and other bodies corporate[^key-21e92b86f1645ce94530b110650bd14d]
+### 2. Companies and other bodies corporate[^c-21e92b86f1645ce94530b110650bd14d]
 
 (1) A company incorporated under the Companies Acts (as defined in section 2(1) of the Companies Act 2006[^f00013]).
 
@@ -1016,11 +1016,11 @@ Regulations 10(2), 11(2) and 26(1)
 - (a) “regulated market” has the same meaning as that in [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065)[^f00023] of the European Parliament and of the Council on markets in financial instruments and amending [Directive 2002/92/EC](https://www.legislation.gov.uk/european/directive/2002/0092) and [Directive 2001/61/EU](https://www.legislation.gov.uk/european/directive/2001/0061)[^f00024] (see Article 4.1.21), and
 - (b) “EEA state” has the meaning given by schedule 1 of the Interpretation Act 1978[^f00025].
 
-### 3. Public authorities[^key-62e8edc13dc913a2b8bf4f902317fbfe]
+### 3. Public authorities[^c-62e8edc13dc913a2b8bf4f902317fbfe]
 
 A public authority to which the Freedom of Information (Scotland) Act 2002[^f00026] or the Freedom of Information Act 2000[^f00027] applies.
 
-### 4. Partnerships other than general partnerships[^key-7305c153f7fa0b11f2c9eb11847a6c4c]
+### 4. Partnerships other than general partnerships[^c-7305c153f7fa0b11f2c9eb11847a6c4c]
 
 (1) An eligible Scottish partnership within the meaning of regulation 3(2) of the Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^f00028].
 
@@ -1030,7 +1030,7 @@ A public authority to which the Freedom of Information (Scotland) Act 2002[^f000
 
 Regulation 16(4)
 
-### 1. Orders and interdicts[^key-6f1f57e32564fd55d4e3bcc27c11278c]
+### 1. Orders and interdicts[^c-6f1f57e32564fd55d4e3bcc27c11278c]
 
 (1) Evidence to support a security declaration by an associate of a recorded person meets the requirements of this paragraph if—
 
@@ -1065,7 +1065,7 @@ Regulation 16(4)
 - (s) a female genital mutilation protection order made under section 5A and paragraphs 1 or 18 of schedule 2 of the Female Genital Mutilation Act 2003[^f00051],
 - (t) any relevant protection measure ordered in another EU member state and entitled to be recognised in Scotland under Regulation (EU) 606/2013 of the European Parliament and of the Council on mutual recognition of protection measures in civil matters[^f00052].
 
-### 2. Attestations[^key-f38138d4626e93e8af5c80a3ce3e4038]
+### 2. Attestations[^c-f38138d4626e93e8af5c80a3ce3e4038]
 
 (1) Evidence to support a security declaration by an associate meets the requirements in this regulation if the evidence is an attestation that certifies that the inclusion of one or more required details of the associate in the RCI would put the associate, or an individual connected with the associate, at risk of violence, abuse, threat of violence or abuse, or intimidation.
 
@@ -1143,87 +1143,87 @@ A full Strategic Environmental Assessment or Children’s Rights and Wellbeing I
 
 [^f00001]: Footnote: [2016 asp 18](https://www.legislation.gov.uk/asp/2016/18).
 
-[^key-9b99d3fdacf1ea74d8ee63c99dc44e11]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-9b99d3fdacf1ea74d8ee63c99dc44e11]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-cbce2a999d46f164729dd7a8ef52b6f7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/85/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-cbce2a999d46f164729dd7a8ef52b6f7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/85/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00002]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00003]: Footnote: [2012 asp 5](https://www.legislation.gov.uk/asp/2012/5).
 
-[^key-c74ea4c51acd5c5229746f815a86c673]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/85/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-c74ea4c51acd5c5229746f815a86c673]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/85/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-1c5fe11715085b5a2305141313c57a90]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2021/85/regulation/3/2A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/3/a)
+[^c-1c5fe11715085b5a2305141313c57a90]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2021/85/regulation/3/2A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/3/a)
 
-[^key-d586349806e67100e38c979279495e2b]: Textual amendment: Word in [reg. 3(3)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2021/85/regulation/3/3/d/ii/bb) omitted (1.4.2022) by virtue of [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/3/b/i)
+[^c-d586349806e67100e38c979279495e2b]: Textual amendment: Word in [reg. 3(3)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2021/85/regulation/3/3/d/ii/bb) omitted (1.4.2022) by virtue of [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/3/b/i)
 
-[^key-bf273ec8a5224aa9fa1606b4cb9d6762]: Textual amendment: [Reg. 3(3)(da)](https://www.legislation.gov.uk/ssi/2021/85/regulation/3/3/da) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/3/b/ii)
+[^c-bf273ec8a5224aa9fa1606b4cb9d6762]: Textual amendment: [Reg. 3(3)(da)](https://www.legislation.gov.uk/ssi/2021/85/regulation/3/3/da) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/3/b/ii)
 
-[^key-ecaa0ab9babb05ffff8257788dcf3cb4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/85/regulation/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-ecaa0ab9babb05ffff8257788dcf3cb4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/85/regulation/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-0018d7e3bcb8ba82bad571c943797f84]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/85/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-0018d7e3bcb8ba82bad571c943797f84]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/85/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-2fc326ffeed27f020027ccb044db9524]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/85/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-2fc326ffeed27f020027ccb044db9524]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/85/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-16cb8815cd377c66eeaa803cb32c465f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/85/regulation/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-16cb8815cd377c66eeaa803cb32c465f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/85/regulation/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-7d597ff7265ee3be2c33cea637443418]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/85/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-7d597ff7265ee3be2c33cea637443418]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/85/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-dc48ba1c055840b2b6e5ba90e2e11f11]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/85/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-dc48ba1c055840b2b6e5ba90e2e11f11]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/85/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-bff323965d009bf36e200f5027145583]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/85/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-bff323965d009bf36e200f5027145583]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/85/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-c4ea5ed5b899c1a0020a0fe16b3ce8d9]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2021/85/regulation/10/1) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/4/a)
+[^c-c4ea5ed5b899c1a0020a0fe16b3ce8d9]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2021/85/regulation/10/1) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/4/a)
 
-[^key-33b17df15c765d4d8d0285aee4cf9d2b]: Textual amendment: [Reg. 10(3)(ca)](https://www.legislation.gov.uk/ssi/2021/85/regulation/10/3/ca) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/4/b)
+[^c-33b17df15c765d4d8d0285aee4cf9d2b]: Textual amendment: [Reg. 10(3)(ca)](https://www.legislation.gov.uk/ssi/2021/85/regulation/10/3/ca) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/4/b)
 
-[^key-bf60bd3561b5daacb82b6fbd86be950b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/85/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-bf60bd3561b5daacb82b6fbd86be950b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/85/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-f7949517d0d9eb54a017e45095291478]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/85/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-f7949517d0d9eb54a017e45095291478]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/85/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-4c018f070f5204635c8cd29eb86566f8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/85/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-4c018f070f5204635c8cd29eb86566f8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/85/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-1a6f9359594408a04f6e6ad8f58787b6]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/ssi/2021/85/regulation/13/1A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/5)
+[^c-1a6f9359594408a04f6e6ad8f58787b6]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/ssi/2021/85/regulation/13/1A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/5)
 
-[^key-91d255962f2e7cf39bad5ea4b5a34bc2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/85/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-91d255962f2e7cf39bad5ea4b5a34bc2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/85/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-41ed5625a7142ada9f59b23ddbda28fd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/85/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-41ed5625a7142ada9f59b23ddbda28fd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/85/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-4f07437f8361af24586fe42a2379d14a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/85/regulation/16) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-4f07437f8361af24586fe42a2379d14a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/85/regulation/16) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-20161273fe4cbfbafa6f1a1c94b3869c]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/ssi/2021/85/regulation/16/3A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/6)
+[^c-20161273fe4cbfbafa6f1a1c94b3869c]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/ssi/2021/85/regulation/16/3A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/6)
 
-[^key-d35068d98b85a7126229b00393d17fb9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/85/regulation/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-d35068d98b85a7126229b00393d17fb9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/85/regulation/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-9c7aa226285410ba63f2b12fded024df]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/85/regulation/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-9c7aa226285410ba63f2b12fded024df]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/85/regulation/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-e639de0135753928271c203864d4810f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/85/regulation/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-e639de0135753928271c203864d4810f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/85/regulation/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-351f0c401a14d6ead6ab10fb6e719c0b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2021/85/regulation/20) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-351f0c401a14d6ead6ab10fb6e719c0b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2021/85/regulation/20) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-13c72140d980a351afe29677e9e61058]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/85/regulation/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-13c72140d980a351afe29677e9e61058]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/85/regulation/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00004]: Footnote: [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-d145d5420283f8e433b944e9d7341459]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/85/regulation/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-d145d5420283f8e433b944e9d7341459]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/85/regulation/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-0b27fd4833806de598480a06c6956423]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/85/regulation/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-0b27fd4833806de598480a06c6956423]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/85/regulation/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^M_I_1cf34807-aa52-45bf-af8b-970b449036a8]: Commencement: Reg. 23A in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-cefd1c04fc2e4dfc190085c4fd30e187]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/ssi/2021/85/regulation/23A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/2)
+[^c-cefd1c04fc2e4dfc190085c4fd30e187]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/ssi/2021/85/regulation/23A) inserted (1.4.2022) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2021 (S.S.I. 2021/495)](https://www.legislation.gov.uk/ssi/2021/495), [regs. 1](https://www.legislation.gov.uk/ssi/2021/495/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/495/regulation/2/2)
 
-[^key-ad109de3723874f75b89a1e2db914d8b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/85/regulation/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-ad109de3723874f75b89a1e2db914d8b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/85/regulation/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-9d0dc438980e9e9e65f6031e40415b1f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2021/85/regulation/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-9d0dc438980e9e9e65f6031e40415b1f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2021/85/regulation/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-b75b20119002f7f189e981f2ede973c9]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2021/85/regulation/26) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-b75b20119002f7f189e981f2ede973c9]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2021/85/regulation/26) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-f39799f13b6260dd0dfff77b9b77c567]: Textual amendment: [Reg. 26(4)(b)](https://www.legislation.gov.uk/ssi/2021/85/regulation/26/4/b) substituted (1.4.2023) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2023 (S.S.I. 2023/104)](https://www.legislation.gov.uk/ssi/2023/104), [regs. 1](https://www.legislation.gov.uk/ssi/2023/104/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/104/regulation/2/2)
+[^c-f39799f13b6260dd0dfff77b9b77c567]: Textual amendment: [Reg. 26(4)(b)](https://www.legislation.gov.uk/ssi/2021/85/regulation/26/4/b) substituted (1.4.2023) by [The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2023 (S.S.I. 2023/104)](https://www.legislation.gov.uk/ssi/2023/104), [regs. 1](https://www.legislation.gov.uk/ssi/2023/104/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/104/regulation/2/2)
 
-[^key-e6f58562f4041a627910ff8c62c34df6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-e6f58562f4041a627910ff8c62c34df6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-29cedb09c707d06198b8a174650651f6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-29cedb09c707d06198b8a174650651f6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00005]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
@@ -1233,55 +1233,55 @@ A full Strategic Environmental Assessment or Children’s Rights and Wellbeing I
 
 [^f00008]: Footnote: [2003 asp 9](https://www.legislation.gov.uk/asp/2003/9).
 
-[^key-096664e4f9d51b58c7af4e952a5994a3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-096664e4f9d51b58c7af4e952a5994a3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-744e31ca06b41544015da05840d6c3f0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-744e31ca06b41544015da05840d6c3f0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-e1a346c574fe25a5148639921eae8e1b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-e1a346c574fe25a5148639921eae8e1b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-fd2f356e088774e268aa552ab72dee4a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-fd2f356e088774e268aa552ab72dee4a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-58ebf85efe1e4a356adfc2afc0562c93]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-58ebf85efe1e4a356adfc2afc0562c93]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-aaaffd87b485711c961fa5b488f75fa0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-aaaffd87b485711c961fa5b488f75fa0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-f876df606ad9db0a0ba23def2354df1f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-f876df606ad9db0a0ba23def2354df1f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-0787dc8c5e1a6435daea183874fac6b2]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-0787dc8c5e1a6435daea183874fac6b2]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-dd2e7f636b7ead401cbca158bfafb82a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-dd2e7f636b7ead401cbca158bfafb82a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-15ae8fe32eedfb400bd914ea32c94c54]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-15ae8fe32eedfb400bd914ea32c94c54]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-41a89b3f93b9f2beefc50582526cfed2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-41a89b3f93b9f2beefc50582526cfed2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-74dd8bdb587cbaa93a6037669bee2eae]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-74dd8bdb587cbaa93a6037669bee2eae]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-d47eff0a77dcb6d9d4bb48ae5a07d713]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-d47eff0a77dcb6d9d4bb48ae5a07d713]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-3c368c5ebaf968251e07d8a768e3949f]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/16) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-3c368c5ebaf968251e07d8a768e3949f]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/16) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-f5345a4dfba4f567ad010e66365297c6]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-f5345a4dfba4f567ad010e66365297c6]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-b6a463f90d0b643699dfa9ce818cccee]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-b6a463f90d0b643699dfa9ce818cccee]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-5068c0281fa5bfec2153dc50d4d100af]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-5068c0281fa5bfec2153dc50d4d100af]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-889f496110c2a46cb479e95014c383fd]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/20) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-889f496110c2a46cb479e95014c383fd]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/20) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-2ad40db2f7d755eb5851271eb4dfd21e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-2ad40db2f7d755eb5851271eb4dfd21e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-b5bc9b25f53162e01836bc47a6724a75]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-b5bc9b25f53162e01836bc47a6724a75]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-de33c31a2fc44c052d1f52f4e71494ca]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-de33c31a2fc44c052d1f52f4e71494ca]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-7472eb9985524c55a4e5eec7dde019f5]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-7472eb9985524c55a4e5eec7dde019f5]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00009]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-671debb3d511fb728aaede17fa7d6879]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-671debb3d511fb728aaede17fa7d6879]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ssi/2021/85/schedule/1/paragraph/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
-[^key-1ea55d1f3194cf5ffd58cbadd7701756]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-1ea55d1f3194cf5ffd58cbadd7701756]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00010]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
 
@@ -1289,7 +1289,7 @@ A full Strategic Environmental Assessment or Children’s Rights and Wellbeing I
 
 [^f00012]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-21e92b86f1645ce94530b110650bd14d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-21e92b86f1645ce94530b110650bd14d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00013]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46)
 
@@ -1317,19 +1317,19 @@ A full Strategic Environmental Assessment or Children’s Rights and Wellbeing I
 
 [^f00025]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). The definition of “EEA State” in schedule 1 was inserted by section 26(1) of the Legislative Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-62e8edc13dc913a2b8bf4f902317fbfe]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-62e8edc13dc913a2b8bf4f902317fbfe]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00026]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
 
 [^f00027]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-7305c153f7fa0b11f2c9eb11847a6c4c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-7305c153f7fa0b11f2c9eb11847a6c4c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2021/85/schedule/2/paragraph/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00028]: Footnote: [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694).
 
 [^f00029]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-6f1f57e32564fd55d4e3bcc27c11278c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2021/85/schedule/3/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-6f1f57e32564fd55d4e3bcc27c11278c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2021/85/schedule/3/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00030]: Footnote: [1997 c.40](https://www.legislation.gov.uk/ukpga/1997/40). Section 8 was amended by section 1(1) of the Domestic Abuse (Scotland) Act [2011 (asp 13)](https://www.legislation.gov.uk/asp/2011/13) and section 16 and schedule 2 of the Damages (Scotland) Act [2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7). Section 8A was inserted by section 1(2) of the Domestic Abuse (Scotland) Act 2011.
 
@@ -1377,7 +1377,7 @@ A full Strategic Environmental Assessment or Children’s Rights and Wellbeing I
 
 [^f00052]: Footnote: OJ L 181, 29.6.2013, p.4.
 
-[^key-f38138d4626e93e8af5c80a3ce3e4038]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2021/85/schedule/3/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
+[^c-f38138d4626e93e8af5c80a3ce3e4038]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2021/85/schedule/3/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/85/regulation/1)
 
 [^f00053]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49). Section 3 was substituted by section 45 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 

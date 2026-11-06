@@ -30,17 +30,17 @@ summary: ''
 
 (5) In any other case, directions may be given—
 
-- (a)[^key-5323cda56b7d6d18a956a6d1d4d0f9d7] in respect of any licence (including a licence which has ceased to have effect), by serving notice of the directions on the person—
+- (a)[^c-5323cda56b7d6d18a956a6d1d4d0f9d7] in respect of any licence (including a licence which has ceased to have effect), by serving notice of the directions on the person—
   - (i) who is the person responsible or the holder of the licence, if different, or
   - (ii) who was the person responsible or the holder of the licence, if different,
 - (b) if the directions appear to the Authority to be general directions or it appears to the Authority that it is not practicable to give notice in pursuance of paragraph (a) above, by publishing the directions in such way as, in the opinion of the Authority, is likely to bring the directions to the attention of the persons to whom they are applicable.
 
-(6)[^key-535ffe466ee099bb9d39c04ec8cf982c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-535ffe466ee099bb9d39c04ec8cf982c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c271629]: Commencement: S. 23 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-5323cda56b7d6d18a956a6d1d4d0f9d7]: Textual amendment: S. 23(5)(a) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/9/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-5323cda56b7d6d18a956a6d1d4d0f9d7]: Textual amendment: S. 23(5)(a) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/9/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
 
-[^key-535ffe466ee099bb9d39c04ec8cf982c]: Textual amendment: S. 23(6) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/9/b), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-535ffe466ee099bb9d39c04ec8cf982c]: Textual amendment: S. 23(6) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/9/b), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

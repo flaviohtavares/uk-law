@@ -29,7 +29,7 @@ summary: ''
 
 Pensions
 
-The Transfer Values (Disapplication) Regulations 2010 (revoked)[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]
+The Transfer Values (Disapplication) Regulations 2010 (revoked)[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 5th July 2010
 
-[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]
+## 1. Citation, commencement and interpretation[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Disapplication of the transfer value provisions[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]
+## 2. Disapplication of the transfer value provisions[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd3ada3dfb8ed08911dd6b56e8b8b6cc]: Textual amendment: Regulations revoked (1.4.2017) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment and Revocation) Regulations 2015 (S.I. 2015/498)](https://www.legislation.gov.uk/uksi/2015/498), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/498/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2015/498/regulation/14)
+[^c-dd3ada3dfb8ed08911dd6b56e8b8b6cc]: Textual amendment: Regulations revoked (1.4.2017) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment and Revocation) Regulations 2015 (S.I. 2015/498)](https://www.legislation.gov.uk/uksi/2015/498), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/498/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2015/498/regulation/14)

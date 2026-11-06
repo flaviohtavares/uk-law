@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 11 — Index of defined terms[^key-b50cb91b895f8aa3592cc5e1cd96de05]
+## Schedule 11 — Index of defined terms[^c-b50cb91b895f8aa3592cc5e1cd96de05]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ Section 93
 
 ## Annotations
 
-[^key-b50cb91b895f8aa3592cc5e1cd96de05]: Commencement: Sch. 11 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-b50cb91b895f8aa3592cc5e1cd96de05]: Commencement: Sch. 11 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

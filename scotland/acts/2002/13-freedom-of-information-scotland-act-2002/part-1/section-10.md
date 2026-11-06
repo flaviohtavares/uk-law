@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-7fd08aceaf76e5b1fd8a5ec07d94ecf2] Subject to subsections (2) and (3), a Scottish public authority receiving a request which requires it to comply with section 1(1) must comply promptly; and in any event by not later than the twentieth working day after—
+(1)[^c-7fd08aceaf76e5b1fd8a5ec07d94ecf2] Subject to subsections (2) and (3), a Scottish public authority receiving a request which requires it to comply with section 1(1) must comply promptly; and in any event by not later than the twentieth working day after—
 
 - (a) in a case other than that mentioned in paragraph (b), the receipt by the authority of the request; or
 - (b) in a case where section 1(3) applies, the receipt by it of the further information.
@@ -32,7 +32,7 @@ summary: ''
 
 subsection (1) applies with the substitution, for the reference to the twentieth working day, of a reference to the thirtieth working day.
 
-(3)[^key-7fd08aceaf76e5b1fd8a5ec07d94ecf2] Where the authority gives a fees notice to the applicant and the fee is duly paid, the working days in the period—
+(3)[^c-7fd08aceaf76e5b1fd8a5ec07d94ecf2] Where the authority gives a fees notice to the applicant and the fee is duly paid, the working days in the period—
 
 - (a) beginning with the day on which that notice is given; and
 - (b) ending with the day on which the fee is received by the authority,
@@ -48,4 +48,4 @@ are to be disregarded in calculating, for the purposes of subsection (1), the tw
 
 ## Annotations
 
-[^key-7fd08aceaf76e5b1fd8a5ec07d94ecf2]: Modification: S. 10(1)(3) modified (1.12.2016) by [The Freedom of Information (Scotland) Act 2002 (Time for Compliance) Regulations 2016 (S.S.I. 2016/346)](https://www.legislation.gov.uk/ssi/2016/346), [regs. 1](https://www.legislation.gov.uk/ssi/2016/346/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/2) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/1))
+[^c-7fd08aceaf76e5b1fd8a5ec07d94ecf2]: Modification: S. 10(1)(3) modified (1.12.2016) by [The Freedom of Information (Scotland) Act 2002 (Time for Compliance) Regulations 2016 (S.S.I. 2016/346)](https://www.legislation.gov.uk/ssi/2016/346), [regs. 1](https://www.legislation.gov.uk/ssi/2016/346/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/2) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/346/regulation/2/1))

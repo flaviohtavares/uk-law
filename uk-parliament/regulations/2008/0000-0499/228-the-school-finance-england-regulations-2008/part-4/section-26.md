@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Required content of schemes[^key-a4957c94918cc5b07df720d183fa373c]
+## 26. Required content of schemes[^c-a4957c94918cc5b07df720d183fa373c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A scheme prepared by a local education authority under section 48(1) of the 1998
 
 ## Annotations
 
-[^key-a4957c94918cc5b07df720d183fa373c]: Commencement: Reg. 26 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-a4957c94918cc5b07df720d183fa373c]: Commencement: Reg. 26 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00034]: Footnote: Section 48(1) has been amended by section 40 and paragraphs 2(1) and (2) of Schedule 3 to the 2002 Act.

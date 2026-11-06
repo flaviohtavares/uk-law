@@ -51,10 +51,10 @@ are classified as special protection areas, in so far as they consist of sites i
 - (b) its name, location and extent; and
 - (c) the data resulting from application of the criteria set out in Article 4(1) or (2) of the Wild Birds Directive.
 
-(9)[^key-7207fc51b9f82910e14bd4fd47cd2915] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7207fc51b9f82910e14bd4fd47cd2915] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-7207fc51b9f82910e14bd4fd47cd2915] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-7207fc51b9f82910e14bd4fd47cd2915] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7207fc51b9f82910e14bd4fd47cd2915]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/13/9)[(10)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/13/10) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/579/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7207fc51b9f82910e14bd4fd47cd2915]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/13/9)[(10)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/13/10) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/579/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

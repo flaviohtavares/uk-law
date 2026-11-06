@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Rectification of register: principal office addresses[^key-7f28825da5c7285c901d0b26c26066a9][^key-3ae5e7568dbac63da318c084452dc969]
+## 107. Rectification of register: principal office addresses[^c-7f28825da5c7285c901d0b26c26066a9][^c-3ae5e7568dbac63da318c084452dc969]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f28825da5c7285c901d0b26c26066a9]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7f28825da5c7285c901d0b26c26066a9]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-3ae5e7568dbac63da318c084452dc969]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/56/section/107) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z44)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z44)
+[^c-3ae5e7568dbac63da318c084452dc969]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/56/section/107) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z44)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z44)

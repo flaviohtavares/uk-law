@@ -44,7 +44,7 @@ Coming into force
 
 15th April 2015
 
-The Secretary of State makes the following Order in exercise of the powers conferred by sections 55(2A) and (2B), 59, 61(1), 61A(5), 61W, 62, 65, 69, 71, 74, 74A, 77(4), 78, 79(4), 188, 193, 196(4), 293A, 333(4) and (7) of, and paragraphs 5, 6, 7(7) and 8(6) of Schedule 1, and Schedule 4A to, the Town and Country Planning Act 1990 [^c22463561] and, sections 54, 88 and 122(3) of the Planning and Compulsory Purchase Act 2004 [^c22463571].[^key-ee628cd20ea966dc2a467274b1ae5b9c][^key-2f00da66c73608b891076baba39d5f3e]
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 55(2A) and (2B), 59, 61(1), 61A(5), 61W, 62, 65, 69, 71, 74, 74A, 77(4), 78, 79(4), 188, 193, 196(4), 293A, 333(4) and (7) of, and paragraphs 5, 6, 7(7) and 8(6) of Schedule 1, and Schedule 4A to, the Town and Country Planning Act 1990 [^c22463561] and, sections 54, 88 and 122(3) of the Planning and Compulsory Purchase Act 2004 [^c22463571].[^c-ee628cd20ea966dc2a467274b1ae5b9c][^c-2f00da66c73608b891076baba39d5f3e]
 
 ## Part 1 — Preliminary
 
@@ -58,28 +58,28 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (4) Nothing in this Order applies to any permission which is deemed to be granted under section 222 of the 1990 Act (planning permission not needed for advertisements complying with regulations).
 
-(5)[^key-4292aa5fa7fb82091d692cac253d9fc7] Nothing in this Order applies to an application for permission in principle.
+(5)[^c-4292aa5fa7fb82091d692cac253d9fc7] Nothing in this Order applies to an application for permission in principle.
 
-### 2. Interpretation[^key-c44c5d12db910dc3be885e3a42eb770a]
+### 2. Interpretation[^c-c44c5d12db910dc3be885e3a42eb770a]
 
 (1) In this Order, unless the context otherwise requires—
 
 - “**the 1990 Act**” means the Town and Country Planning Act 1990;
 - “**the 2004 Act**” means the Planning and Compulsory Purchase Act 2004;
-- the 2017 Regulations” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017;[^key-f5df2c1887ddb18034b9faa0b5d7429a]
+- the 2017 Regulations” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017;[^c-f5df2c1887ddb18034b9faa0b5d7429a]
 - “**access**”, in relation to reserved matters, means the accessibility to and within the site, for vehicles, cycles and pedestrians in terms of the positioning and treatment of access and circulation routes and how these fit into the surrounding access network; where “**site**” means the site or part of the site in respect of which outline planning permission is granted or, as the case may be, in respect of which an application for such a permission has been made;
 - “**appearance**” means the aspects of a building or place within the development which determines the visual impression the building or place makes, including the external built form of the development, its architecture, materials, decoration, lighting, colour and texture;
 - “**contaminated land**” has the same meaning as in Part 2A of the Environmental Protection Act 1990 [^c22463591];
-- “criminal justice accommodation” means—[^key-fe7f9ec49013b3a9d5559cc7431a4416]
+- “criminal justice accommodation” means—[^c-fe7f9ec49013b3a9d5559cc7431a4416]
   - (a) a prison within the meaning of the Prison Act 1952; or
   - (b) a place for the detention of young persons within the meaning of section 43 of that Act;
 - “**dwellinghouse**” does not include a building containing one or more flats, or a flat contained within such a building;
-- “**EIA application**”, “**EIA development**”, “**environmental information**” and “**environmental statement**” have the same meanings respectively as in regulation 2(1) of the 2017[^key-b89e2728cd8ae6f765250fd2058e865e] Regulations (interpretation);
+- “**EIA application**”, “**EIA development**”, “**environmental information**” and “**environmental statement**” have the same meanings respectively as in regulation 2(1) of the 2017[^c-b89e2728cd8ae6f765250fd2058e865e] Regulations (interpretation);
 - “**electronic communication**” has the same meaning as in section 15(1) of the Electronic Communications Act 2000 (general interpretation) [^c22463601];
 - “**flat**” means a separate and self-contained set of premises constructed or adapted for use for the purpose of a dwelling and forming part of a building from some other part of which it is divided horizontally;
 - “**flood**” has the same meaning as in section 1 of the Flood and Water Management Act 2010 [^c22463611];
 - “**floor space**” means the total floor space in a building or buildings;
-- “health service hospital” means a hospital vested in—[^key-96c94d8c3c707428a585afcd7d15f16f]
+- “health service hospital” means a hospital vested in—[^c-96c94d8c3c707428a585afcd7d15f16f]
   - (a) an NHS body within the meaning of paragraph 7(4) of Schedule 3 to the Care Act 2014; or
   - (b) the Secretary of State for the purpose of his functions under the National Health Services Act 2006;
 - “hospital” means—
@@ -93,11 +93,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
   - (b) an application for any consent, agreement or approval required by or under a planning permission, development order or local development order in relation to such development,
 
   but does not include an application for change of use or an application to change the number of dwellings in a building;
-- “illness” includes mental disorder within the meaning of the Mental Health Act 1983 and any injury or disability requiring medical or dental treatment or nursing;[^key-e9bf626778f6c9e1a6c8275f7b3cb958]
+- “illness” includes mental disorder within the meaning of the Mental Health Act 1983 and any injury or disability requiring medical or dental treatment or nursing;[^c-e9bf626778f6c9e1a6c8275f7b3cb958]
 - “**infrastructure manager**” means any person who in relation to relevant railway land—
   - (a) is responsible for developing or maintaining the land; or
   - (b) manages or uses the land, or permits the land to be used for the operation of a railway;
-- “[^key-584667e8a39e38ceb007d566d15d36ca]**irreplaceable habitat**” has the meaning given by regulation 2 of the Biodiversity Gain Requirements (Irreplaceable Habitat) Regulations 2024;
+- “[^c-584667e8a39e38ceb007d566d15d36ca]**irreplaceable habitat**” has the meaning given by regulation 2 of the Biodiversity Gain Requirements (Irreplaceable Habitat) Regulations 2024;
 - “**landscaping**”, in relation to a site or any part of a site for which outline planning permission has been granted or, as the case may be, in respect of which an application for such permission has been made, means the treatment of land (other than buildings) for the purpose of enhancing or protecting the amenities of the site and the area in which it is situated and includes—
   - (a) screening by fences, walls or other means;
   - (b) the planting of trees, hedges, shrubs or grass;
@@ -106,7 +106,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
   - (e) the provision of other amenity features;
 - “**layout**” means the way in which buildings, routes and open spaces within the development are provided, situated and orientated in relation to each other and to buildings and spaces outside the development;
 - “**listed building**” has the same meaning as in section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (listing of buildings of special architectural or historic interest) [^c22463621];
-- “[^key-c7969add23535da34454de183c65bfba]**local plan**” and “**local planning authority**” have the meanings given in section 15LH of the Planning and Compulsory Purchase Act 2004;
+- “[^c-c7969add23535da34454de183c65bfba]**local plan**” and “**local planning authority**” have the meanings given in section 15LH of the Planning and Compulsory Purchase Act 2004;
 - “**major development**” means development involving any one or more of the following—
   - (a) the winning and working of minerals or the use of land for mineral-working deposits;
   - (b) waste development;
@@ -115,7 +115,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
     - (ii) the development is to be carried out on a site having an area of 0.5 hectares or more and it is not known whether the development falls within sub-paragraph (c)(i);
   - (d) the provision of a building or buildings where the floor space to be created by the development is 1,000 square metres or more; or
   - (e) development carried out on a site having an area of 1 hectare or more;
-- “[^key-b2d98c3b4743b954851daa2a5749af0d]**minerals and waste plan**” has the meaning given in section 15LH of the Planning and Compulsory Purchase Act 2004;
+- “[^c-b2d98c3b4743b954851daa2a5749af0d]**minerals and waste plan**” has the meaning given in section 15LH of the Planning and Compulsory Purchase Act 2004;
 - “**mining operations**” means the winning and working of minerals in, on or under land, whether by surface or underground working;
 - “**minor commercial application**” means—
   - (a) an application for planning permission for development of an existing building or part of a building currently in use for any of the purposes falling within Part A of the Schedule to the Town and Country Planning (Use Classes) Order 1987 [^c22463631], or
@@ -126,8 +126,8 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “**the Permitted Development Order**” means Town and Country Planning (General Permitted Development) Order 2015 [^c22463641];
 - “**planning obligation**” means an obligation entered into by agreement or otherwise by any person interested in land pursuant to section 106 of the 1990 Act (planning obligations) [^c22463651];
 - “**proposed highway**” has the same meaning as in section 329 of the Highways Act 1980 (further provision as to interpretation) [^c22463661];
-- “public holiday” means Christmas Day, Good Friday or a day which under the Banking and Financial Dealings Act 1971 is a bank holiday in England;[^key-6aed5a3233c4a916b5124b624cc33f6b]
-- “public service infrastructure development” means major development, which is not EIA development, where the main purpose of the development is—[^key-2b39c99c72961eae2ba0fba03a01c6c9]
+- “public holiday” means Christmas Day, Good Friday or a day which under the Banking and Financial Dealings Act 1971 is a bank holiday in England;[^c-6aed5a3233c4a916b5124b624cc33f6b]
+- “public service infrastructure development” means major development, which is not EIA development, where the main purpose of the development is—[^c-2b39c99c72961eae2ba0fba03a01c6c9]
   - (a) the provision of—
     - (i) a health service hospital;
     - (ii) a school or institution within the further education sector; or
@@ -138,9 +138,9 @@ The Secretary of State makes the following Order in exercise of the powers confe
     - (ii) a school or institution within the further education sector; or
     - (iii) an institution within the higher education sector within the meaning of section 91(5) of the Further and Higher Education Act 1992; or
     - (iv) criminal justice accommodation;
-- “[^key-740af55e6bf4603bd1bdf988cd36d394]**qualifying European site**” means—
+- “[^c-740af55e6bf4603bd1bdf988cd36d394]**qualifying European site**” means—
   - (a) a European offshore marine site within the meaning of regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017; or
-  - (b) a European site within the meaning of regulation 8(1) of the Conservation of Habitats and Species Regulations 2017[^key-8dedf7f2ca9427d888c965bf6bc2a108];
+  - (b) a European site within the meaning of regulation 8(1) of the Conservation of Habitats and Species Regulations 2017[^c-8dedf7f2ca9427d888c965bf6bc2a108];
 - “**relevant railway land**” means land—
   - (a) forming part of any operational railway; or
   - (b) which is authorised to be used for the purposes of an operational railway under—
@@ -156,7 +156,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
   - (d) layout; and
   - (e) scale;
 - “scale” except in the term ‘identified scale’, means the height, width and length of each building proposed within the development in relation to its surroundings;
-- “school or institution within the further education sector” means a school or institution within the further education sector which is—[^key-44bf3a9224550b66901ddfbfecf664e0]
+- “school or institution within the further education sector” means a school or institution within the further education sector which is—[^c-44bf3a9224550b66901ddfbfecf664e0]
   - (a) an Academy within the meaning of the Academies Act 2010;
   - (b) a school maintained by a local authority as defined in section 142(1) of the School Standards and Framework Act 1998;
   - (c) a school which is specially organised to make special educational provision for pupils with special educational needs and is approved by the Secretary of State under section 342 of the Education Act 1996;
@@ -167,7 +167,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “**site of special scientific interest**” has the same meaning as in Part 2 of the Countryside and Wildlife Act 1981 [^c22463711];
 - “**special road**” means a highway or proposed highway which is a special road in accordance with section 16 of the Highways Act 1980 (general provision as to special roads) [^c22463721];
 - “**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015[^c22463731]
-- “[^key-71aed58b5d2b52a2400058e83558201e]**supplementary plan**” has the meaning given in section 15LH of the Planning and Compulsory Purchase Act 2004;
+- “[^c-71aed58b5d2b52a2400058e83558201e]**supplementary plan**” has the meaning given in section 15LH of the Planning and Compulsory Purchase Act 2004;
 - “**trunk road**” means a highway or proposed highway which is a trunk road by virtue of sections 10(1) (general provision as to trunk roads) or 19 (certain special roads and other highways to become trunk roads) of the Highways Act 1980 [^c22463741] or any other enactment or any instrument made under any enactment; and
 - “**waste development**” means any operational development designed to be used wholly or mainly for the purpose of, or material change of use to, treating, storing, processing or disposing of refuse or waste materials.
 
@@ -191,7 +191,7 @@ and in those paragraphs, “**the recipient**” means the person mentioned in s
 
 (5) In paragraph (4), “**legible in all material respects**” means that the information contained in the notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
 
-(6) Where the electronic communication is received by the recipient outside the recipient's business hours, it is taken to have been received on the next working day; and for this purpose “working day” means a day which is not a Saturday, Sunday or public holiday.[^key-0786fd1cc12d4096ade3c307dc17e850]
+(6) Where the electronic communication is received by the recipient outside the recipient's business hours, it is taken to have been received on the next working day; and for this purpose “working day” means a day which is not a Saturday, Sunday or public holiday.[^c-0786fd1cc12d4096ade3c307dc17e850]
 
 (7) A requirement in this Order that any application, notice or other document should be in writing is fulfilled where the document meets the criteria in paragraph (4), and “written” and related expressions are to be construed accordingly.
 
@@ -244,11 +244,11 @@ An application for approval of reserved matters—
 - (c) except where the application is made pursuant to section 73 (determination of applications to develop land without conditions previously attached) or section 73A(2)(c) (planning permission for development already carried out) of the 1990 Act [^c22463781] or is an application of a kind referred to in article 20(1)(b) or (c), be accompanied, whether electronically or otherwise, by—
   - (i) a plan which identifies the land to which the application relates;
   - (ii) any other plans, drawings and information necessary to describe the development which is the subject of the application;
-  - (iia)[^key-ba2ad956063702e084cfe81d568bd5ac] the information relating to the condition under paragraph 13 of Schedule 7A to the 1990 Act (“the biodiversity gain condition”) specified in paragraph (1A);
+  - (iia)[^c-ba2ad956063702e084cfe81d568bd5ac] the information relating to the condition under paragraph 13 of Schedule 7A to the 1990 Act (“the biodiversity gain condition”) specified in paragraph (1A);
   - (iii) except where the application is made by electronic communications or the local planning authority indicate that a lesser number is required, 3 copies of the form; and
   - (iv) except where they are submitted by electronic communications or the local planning authority indicate that a lesser number is required, 3 copies of any plans, drawings and information accompanying the application.
 
-(1A)[^key-3f9ee6c0bbf6efbb42eb98e15e27514a] Subject to paragraph (1B), an application for planning permission must be accompanied by the following information relating to the biodiversity gain condition—
+(1A)[^c-3f9ee6c0bbf6efbb42eb98e15e27514a] Subject to paragraph (1B), an application for planning permission must be accompanied by the following information relating to the biodiversity gain condition—
 
 - (a) a statement as to whether the applicant believes that planning permission, if granted, would be subject to the biodiversity gain condition;
 - (b) where the applicant believes that planning permission, if granted, would not be subject to the biodiversity gain condition, the reasons for that belief;
@@ -273,7 +273,7 @@ An application for approval of reserved matters—
 
 (1B) Paragraph (1A) does not apply to an application for permission to develop land without compliance with conditions previously attached made under section 73 of the 1990 Act.
 
-(2) Any plans or drawings required to be provided by paragraph (1) or (1A)[^key-b81af486e38177af1e41bc6f13e639e5] must be drawn to an identified scale and, in the case of plans, must show the direction of North.
+(2) Any plans or drawings required to be provided by paragraph (1) or (1A)[^c-b81af486e38177af1e41bc6f13e639e5] must be drawn to an identified scale and, in the case of plans, must show the direction of North.
 
 (3) Except where article 5(3) applies, an application for outline planning permission does not need to give details of any reserved matters.
 
@@ -301,7 +301,7 @@ An application for planning permission in respect of Crown land [^c22463791] mus
 - (a) a statement that the application is made in respect of Crown land; and
 - (b) where the application is made by a person authorised in writing by the appropriate authority, a copy of that authorisation.
 
-### 8A. Crown development: applications referred to local planning authority by the Secretary of State[^key-fc89afa8f83d55dbd6fe2c3ac9ad4bc9]
+### 8A. Crown development: applications referred to local planning authority by the Secretary of State[^c-fc89afa8f83d55dbd6fe2c3ac9ad4bc9]
 
 (1) Where the Secretary of State refers an application to the local planning authority under section 293D(7) of the 1990 Act and directs that the application is to be treated as having been made to that authority (“the referred application”), paragraphs (2) to (4) apply.
 
@@ -335,7 +335,7 @@ An application for planning permission in respect of Crown land [^c22463791] mus
 
 - (a) explain the design principles and concepts that have been applied to the development;
 - (b) demonstrate the steps taken to appraise the context of the development and how the design of the development takes that context into account;
-- (c) explain the policy adopted as to access, and how policies relating to access in relevant local development documents , documents which are to be or form part of minerals and waste plans, local plans or supplementary plans prepared by local planning authorities, minerals and waste planning authorities or the Mayor of London[^key-bd4acaa80b8d46a6f947ad9d8a690f48] have been taken into account;
+- (c) explain the policy adopted as to access, and how policies relating to access in relevant local development documents , documents which are to be or form part of minerals and waste plans, local plans or supplementary plans prepared by local planning authorities, minerals and waste planning authorities or the Mayor of London[^c-bd4acaa80b8d46a6f947ad9d8a690f48] have been taken into account;
 - (d) state what, if any, consultation has been undertaken on issues relating to access to the development and what account has been taken of the outcome of any such consultation; and
 - (e) explain how any specific issues which might affect access to the development have been addressed.
 
@@ -354,7 +354,7 @@ An application for planning permission in respect of Crown land [^c22463791] mus
 - (a) a conservation area; or
 - (b) a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention Concerning the Protection of the World Cultural and National Heritage (a World Heritage Site) [^c22463811].
 
-### 9A. Fire Statements[^key-1dc1067522cfc82abc74d7c3940f37aa]
+### 9A. Fire Statements[^c-1dc1067522cfc82abc74d7c3940f37aa]
 
 (1) Paragraph (4) applies to an application for planning permission for—
 
@@ -445,7 +445,7 @@ An application for planning permission in respect of Crown land [^c22463791] mus
 - (a) in the case of an application made under article 5, 6 or 7, an application which complies with the requirements of article 5, 6 or 7, as the case may be;
 - (b) the certificate required by article 14;
 - (c) in a case to which article 9 applies, the design and access statement;
-- (ca)[^key-1332434cc39d14968a96bc0147311a74] in the case of an application to which article 9A applies, the fire statement;
+- (ca)[^c-1332434cc39d14968a96bc0147311a74] in the case of an application to which article 9A applies, the fire statement;
 - (d) in a case where pre-application consultation is required in accordance with article 3, the particulars in article 4 [^c22463831];
 - (e) subject to paragraph (3), the particulars or evidence required by the authority under section 62(3) of the 1990 Act (applications for planning permission) [^c22463841]; and
 - (f) the fee required to be paid in respect of the application,
@@ -544,14 +544,14 @@ the authority must, as soon as is reasonably practicable, send to the applicant 
 
 (1) An application for planning permission must be publicised by the local planning authority to which the application is made in the manner prescribed by this article.
 
-(1A)[^key-a90baac8cb377f1cd61d49d732bdaac9] In the case of any EIA application accompanied by an environmental statement, the application must be publicised in accordance with the requirements of paragraph (7) and by giving requisite notice—
+(1A)[^c-a90baac8cb377f1cd61d49d732bdaac9] In the case of any EIA application accompanied by an environmental statement, the application must be publicised in accordance with the requirements of paragraph (7) and by giving requisite notice—
 
 - (a) by site display in at least one place on or near the land to which the application relates for not less than 30 days; and
 - (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
 
 (2) In the case of an application for planning permission for development which—
 
-- (a)[^key-e0dd439bf8c90ae8f3aba6e82d024499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e0dd439bf8c90ae8f3aba6e82d024499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) does not accord with the provisions of the development plan in force in the area in which the land to which the application relates is situated, or
 - (c) would affect a right of way to which Part 3 of the Wildlife and Countryside Act 1981 (public rights of way) [^c22463871] applies,
 
@@ -562,34 +562,34 @@ the application must be publicised in the manner specified in paragraph (3).
 - (a) by site display in at least one place on or near the land to which the application relates for not less than 21 days; and
 - (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
 
-(4) In the case of an application for planning permission which is neither an application to which paragraph (1A) applies nor a paragraph (2) application[^key-d0238b74b924a9b318547efb48b38176], if the development proposed is major development the application must be publicised in accordance with the requirements in paragraph (7) and by giving requisite notice—
+(4) In the case of an application for planning permission which is neither an application to which paragraph (1A) applies nor a paragraph (2) application[^c-d0238b74b924a9b318547efb48b38176], if the development proposed is major development the application must be publicised in accordance with the requirements in paragraph (7) and by giving requisite notice—
 
 - (a)
   - (i) by site display in at least one place on or near the land to which the application relates for not less than 21 days; or
   - (ii) by serving the notice on any adjoining owner or occupier; and
 - (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
 
-(4A)[^key-dc2eaadce25b39de4fa1b85535ef1a93] In a case of an application for technical details consent to which neither paragraph (2) nor paragraph (4) applies, the application must be publicised—
+(4A)[^c-dc2eaadce25b39de4fa1b85535ef1a93] In a case of an application for technical details consent to which neither paragraph (2) nor paragraph (4) applies, the application must be publicised—
 
 - (a) in accordance with the requirements of paragraph (7), and
 - (b) by giving requisite notice by site display in at least one place on or near the land to which the application relates for not less than 21 days.
 
-(5) In a case to which paragraphs (1A), (2), (4) and (4A) do not apply the application must[^key-0b0d504cf6b3cc8c34383687692e23e5] be publicised in accordance with the requirements in paragraph (7) and by giving requisite notice—
+(5) In a case to which paragraphs (1A), (2), (4) and (4A) do not apply the application must[^c-0b0d504cf6b3cc8c34383687692e23e5] be publicised in accordance with the requirements in paragraph (7) and by giving requisite notice—
 
 - (a) by site display in at least one place on or near the land to which the application relates for not less than 21 days; or
 - (b) by serving the notice on any adjoining owner or occupier.
 
-(6) Where the notice is, without any fault or intention of the local planning authority, removed, obscured or defaced before the period of 21 days referred to in paragraph (3)(a), (4)(a)(i) , (4A)(b)[^key-7adbf8a4b3fa25cc478c26b5bef1c898] or (5)(a) , or before the period of 30 days referred to in[^key-6823f1a66a06d89988b5b5afd12990a8] paragraph (1A)(a)[^key-a628adbb322e9cd943b89868e2bacde9], has elapsed, the authority is to be treated as having complied with the requirements of the relevant paragraph if they have taken reasonable steps for protection of the notice and, if need be, its replacement.
+(6) Where the notice is, without any fault or intention of the local planning authority, removed, obscured or defaced before the period of 21 days referred to in paragraph (3)(a), (4)(a)(i) , (4A)(b)[^c-7adbf8a4b3fa25cc478c26b5bef1c898] or (5)(a) , or before the period of 30 days referred to in[^c-6823f1a66a06d89988b5b5afd12990a8] paragraph (1A)(a)[^c-a628adbb322e9cd943b89868e2bacde9], has elapsed, the authority is to be treated as having complied with the requirements of the relevant paragraph if they have taken reasonable steps for protection of the notice and, if need be, its replacement.
 
 (7) The following information must be published on a website maintained by the local planning authority—
 
 - (a) the address or location of the proposed development;
 - (b) a description of the proposed development;
-- (ba)[^key-6c20d1bfc05095c823cc3f90cd70067d] in the case of EIA application accompanied by an environmental statement, that statement;
-- (c) the date by which any representations about the application must be made, which must not be before the last day of the period of 14 days , or in the case of an EIA application accompanied by an environmental statement 30 days,[^key-f99e5549b9da7075579dbd13366614d8] beginning with the date on which the information is published;
+- (ba)[^c-6c20d1bfc05095c823cc3f90cd70067d] in the case of EIA application accompanied by an environmental statement, that statement;
+- (c) the date by which any representations about the application must be made, which must not be before the last day of the period of 14 days , or in the case of an EIA application accompanied by an environmental statement 30 days,[^c-f99e5549b9da7075579dbd13366614d8] beginning with the date on which the information is published;
 - (d) where and when the application may be inspected;
 - (e) how representations may be made about the application; and
-- (f) that, [^key-d6beb8978104b67c0a98e986d5d11688]... in the event of an appeal made under section 78(1) of the 1990 Act[^key-fd41f51ff78296664b2c673371e72c3c] that proceeds by way of the expedited procedure, any representations made about the application will be passed to the Secretary of State and there will be no opportunity to make further representations.
+- (f) that, [^c-d6beb8978104b67c0a98e986d5d11688]... in the event of an appeal made under section 78(1) of the 1990 Act[^c-fd41f51ff78296664b2c673371e72c3c] that proceeds by way of the expedited procedure, any representations made about the application will be passed to the Secretary of State and there will be no opportunity to make further representations.
 
 (8) Subject to paragraph (9), if the local planning authority have failed to satisfy the requirements of this article in respect of an application for planning permission at the time the application is referred to the Secretary of State under section 77 (reference of applications to Secretary of State) of the 1990 Act [^c22463881], or any appeal to the Secretary of State is made under section 78 of the 1990 Act [^c22463891], this article continues to apply as if such referral or appeal to the Secretary of State had not been made.
 
@@ -600,14 +600,14 @@ the application must be publicised in the manner specified in paragraph (3).
 - “**adjoining owner or occupier**” means any owner or occupier of any land adjoining the land to which the application relates; and
 - “**requisite notice**” means notice in the appropriate form set out in Schedule 3 or in a form substantially to the same effect.
 
-(10A)[^key-ebe67338dbbe50a158a32fe3ef931a12] In this article, when computing the number of days, any day which is a public holiday must be disregarded unless—
+(10A)[^c-ebe67338dbbe50a158a32fe3ef931a12] In this article, when computing the number of days, any day which is a public holiday must be disregarded unless—
 
 - (i) the application is an EIA application accompanied by an environmental statement; or
 - (ii) the application is one to which paragraph (11) applies.
 
-(10B)[^key-c556ce5f36a7a4d36c7bf0b0eabf9497] In this article, in the case of an application for public service infrastructure development, in paragraphs (3)(a), (4)(a)(i), and (6), “21 days” is to be read, in each place it occurs, as if it were a reference to “18 days”.
+(10B)[^c-c556ce5f36a7a4d36c7bf0b0eabf9497] In this article, in the case of an application for public service infrastructure development, in paragraphs (3)(a), (4)(a)(i), and (6), “21 days” is to be read, in each place it occurs, as if it were a reference to “18 days”.
 
-(11)[^key-5f03672914435162886786bade90715e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-5f03672914435162886786bade90715e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Publicity for applications for planning permission within 10 metres of relevant railway land
 
@@ -632,7 +632,7 @@ On referring any application to the Secretary of State under section 77 (referen
 
 ### 18. Consultations before the grant of permission
 
-(1) Subject to paragraph (1A),[^key-abb56613c554c4f1eb1ac538af2a2833] before granting planning permission for development which, in their opinion, falls within a category set out in the Table in Schedule 4, a local planning authority must consult the authority or person mentioned in relation to that category, except where—
+(1) Subject to paragraph (1A),[^c-abb56613c554c4f1eb1ac538af2a2833] before granting planning permission for development which, in their opinion, falls within a category set out in the Table in Schedule 4, a local planning authority must consult the authority or person mentioned in relation to that category, except where—
 
 - (a) the local planning authority are the authority so mentioned;
 - (b) the local planning authority are required to consult the authority so mentioned under paragraph 7 of Schedule 1 to the 1990 Act (local planning authorities: distribution of functions) [^c22463911] or article 24;
@@ -640,7 +640,7 @@ On referring any application to the Secretary of State under section 77 (referen
 - (d) the development is subject to any standing advice published by the authority or person so mentioned in relation to the category of development; or
 - (e) the development is not EIA development and is the subject of an application in relation to which article 20 applies.
 
-(1A)[^key-99b805d65e2f769fc46999f76090e747] Paragraph (1) does not apply in relation to an application for technical details consent unless the authority or person mentioned in relation to a category in the Table in Schedule 4 has advised the local planning authority by a valid notice that they wish to be consulted in relation to the development.
+(1A)[^c-99b805d65e2f769fc46999f76090e747] Paragraph (1) does not apply in relation to an application for technical details consent unless the authority or person mentioned in relation to a category in the Table in Schedule 4 has advised the local planning authority by a valid notice that they wish to be consulted in relation to the development.
 
 (1B) For the purposes of paragraph (1A) a notice is valid if it specifies a particular site and it was given in writing to the local planning authority before the date on which the permission in principle to which the application for technical details consent relates was granted.
 
@@ -653,10 +653,10 @@ On referring any application to the Secretary of State under section 77 (referen
 
 (4) The Secretary of State may give directions to a local planning authority requiring that authority to consult any person or body named in the directions, in any case or class of case specified in the directions.
 
-(5) Where, by or under this article or article 20, a local planning authority are required to consult any person or body (“consultee”) before determining an application for planning permission—[^key-73bdad49356c328d3c69b1bfcd966450]
+(5) Where, by or under this article or article 20, a local planning authority are required to consult any person or body (“consultee”) before determining an application for planning permission—[^c-73bdad49356c328d3c69b1bfcd966450]
 
 - (a) they must, unless an applicant has served a copy of an application for planning permission on the consultee, give notice of the application to the consultee; and
-- (b) subject to paragraphs (6) and (8)[^key-fbeb812337cf9474478660a5503d65a6], they must not determine the application until at least 21 days after the date on which notice is given under sub-paragraph (a) or, if earlier, 21 days after the date of service of a copy of the application on the consultee by the applicant.
+- (b) subject to paragraphs (6) and (8)[^c-fbeb812337cf9474478660a5503d65a6], they must not determine the application until at least 21 days after the date on which notice is given under sub-paragraph (a) or, if earlier, 21 days after the date of service of a copy of the application on the consultee by the applicant.
 
 (6) Paragraph (5)(b) does not apply if before the end of the period referred to in that sub-paragraph—
 
@@ -665,9 +665,9 @@ On referring any application to the Secretary of State under section 77 (referen
 
 (7) The local planning authority must, in determining the application, take into account any representations received from any consultee.
 
-(8)[^key-810214c6c33f1058ded7ccd718f090fb] In the case of an application for public service infrastructure development, in paragraph (5)(b), “21 days” is to be read, in each place it occurs, as if it were a reference to “18 days”.
+(8)[^c-810214c6c33f1058ded7ccd718f090fb] In the case of an application for public service infrastructure development, in paragraph (5)(b), “21 days” is to be read, in each place it occurs, as if it were a reference to “18 days”.
 
-### 19. Consultations before the grant of planning permission: urgent Crown development[^key-e85baa2c0ef25cf1ffe487798ac81197]
+### 19. Consultations before the grant of planning permission: urgent Crown development[^c-e85baa2c0ef25cf1ffe487798ac81197]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -685,7 +685,7 @@ On referring any application to the Secretary of State under section 77 (referen
 
 (2) Before granting planning permission on an application in relation to which this paragraph applies, the local planning authority must consult such authorities or persons falling within a category set out in the Table in Schedule 4 as the local planning authority consider appropriate.
 
-### 21. Consultation with county planning authority[^key-172bcc8a8adc7b532586cef8395dd6cb]
+### 21. Consultation with county planning authority[^c-172bcc8a8adc7b532586cef8395dd6cb]
 
 (1) Subject to paragraph (2) the period prescribed for the purposes of paragraph 7(7)(c) of Schedule 1 to the 1990 Act (local planning authorities: distribution of functions) is 21 days.
 
@@ -699,11 +699,11 @@ On referring any application to the Secretary of State under section 77 (referen
 - (b) article 20;
 - (c) article 24;
 - (d) paragraphs W(5) and (6) of Part 3 of Schedule 2 to the Permitted Development Order (change of use) [^c22463941];
-- (da)[^key-008241abc0dee4cf657f86d872133a85] paragraph W(6A) of Part 3 of Schedule 2 to the Permitted Development Order as provided for by paragraph MA.2(4)(c) of that Part;
-- (e) paragraphs[^key-ad9040d2ad61565cf416c28c1a7f007b] BC.3(3)[^key-9d786784f24b7a8afda0daaf42f3f782], E.3(5) and (6) of Part 4 of Schedule 2 to the Permitted Development Order (temporary buildings and uses[^key-70b495838cca7607c48873a7dbe309be]);
-- (ea)[^key-cbe8eca232402dd9f7072caf69b867c1] paragraph M.2(i)(iii) of Part 7 of Schedule 2 to the Permitted Development Order (extensions etc for schools, colleges, universities, prisons and hospitals);
-- (f) paragraph A.3(6)(a) and (ab)[^key-fc9db70f6464202de3de4f21cf5c754a] of Part 16 of Schedule 2 to the Permitted Development Order (development by electronic communications code operators);
-- (fa)[^key-f4cec352852fead3abc453ad0cc1fd16] paragraph B(5), (6) and (6A) of Part 20 of Schedule 2 to the Permitted Development Order (construction of new dwellinghouses);
+- (da)[^c-008241abc0dee4cf657f86d872133a85] paragraph W(6A) of Part 3 of Schedule 2 to the Permitted Development Order as provided for by paragraph MA.2(4)(c) of that Part;
+- (e) paragraphs[^c-ad9040d2ad61565cf416c28c1a7f007b] BC.3(3)[^c-9d786784f24b7a8afda0daaf42f3f782], E.3(5) and (6) of Part 4 of Schedule 2 to the Permitted Development Order (temporary buildings and uses[^c-70b495838cca7607c48873a7dbe309be]);
+- (ea)[^c-cbe8eca232402dd9f7072caf69b867c1] paragraph M.2(i)(iii) of Part 7 of Schedule 2 to the Permitted Development Order (extensions etc for schools, colleges, universities, prisons and hospitals);
+- (f) paragraph A.3(6)(a) and (ab)[^c-fc9db70f6464202de3de4f21cf5c754a] of Part 16 of Schedule 2 to the Permitted Development Order (development by electronic communications code operators);
+- (fa)[^c-f4cec352852fead3abc453ad0cc1fd16] paragraph B(5), (6) and (6A) of Part 20 of Schedule 2 to the Permitted Development Order (construction of new dwellinghouses);
 - (g) section 71(3) of the 1990 Act (consultations in connection with determinations under section 70);
 - (h) paragraph 4(2) of Schedule 1 to the 1990 Act [^c22463951];
 - (i) paragraph 7 of Schedule 1 to the 1990 Act; and
@@ -711,7 +711,7 @@ On referring any application to the Secretary of State under section 77 (referen
 
 (2) A requirement to consult under paragraph (zb)(iii) of Schedule 4 is not a prescribed requirement for the purposes of section 54(2)(b) of the 2004 Act.
 
-(3)[^key-84565968cc9e33cf5340117ace949243] Subject to paragraph (6) the period prescribed for the purposes of section 54(4) of the 2004 Act is—
+(3)[^c-84565968cc9e33cf5340117ace949243] Subject to paragraph (6) the period prescribed for the purposes of section 54(4) of the 2004 Act is—
 
 - (a) the period of 21 days beginning with the day on which—
   - (i) the document on which the views of the consultee are sought is received by the consultee, or
@@ -727,7 +727,7 @@ On referring any application to the Secretary of State under section 77 (referen
 - (c) refers the consultor to current standing advice by the consultee on the subject of the consultation; or
 - (d) provides advice to the consultor.
 
-(6)[^key-89051038d96f0af06f17fe8f09c27203] In the case of an application for public service infrastructure development, where the requirements to consult contained in paragraph (1)(a), (b), (c), (h) or (i) apply, the prescribed period of 21 days in paragraph (3) is to be read as if it were a reference to 18 days.
+(6)[^c-89051038d96f0af06f17fe8f09c27203] In the case of an application for public service infrastructure development, where the requirements to consult contained in paragraph (1)(a), (b), (c), (h) or (i) apply, the prescribed period of 21 days in paragraph (3) is to be read as if it were a reference to 18 days.
 
 ### 23. Duty to respond to consultation: annual reports
 
@@ -745,7 +745,7 @@ On referring any application to the Secretary of State under section 77 (referen
 
 ### 24. Recommendations by district planning authority before determination of county matters application
 
-(1) Subject to paragraphs (2) and (3)[^key-de5a500978aa34ee3741d54a6035077a], a county planning authority must, before determining—
+(1) Subject to paragraphs (2) and (3)[^c-de5a500978aa34ee3741d54a6035077a], a county planning authority must, before determining—
 
 - (a) an application for planning permission under Part 3 of the 1990 Act (control over development),
 - (b) an application for a certificate of lawful use or development under section 191 or 192 of the 1990 Act (certificates of lawfulness of existing or proposed use or development) [^c22463971], or
@@ -758,7 +758,7 @@ give the district planning authority, if any, for the area in which the relevant
 - (a) the county planning authority have received recommendations concerning the application from the district planning authority; or
 - (b) the district planning authority give notice to the county planning authority that they do not intend to make recommendations.
 
-(3)[^key-039d529405415a9338adecc0dfec3c9d] In the case of an application for planning permission for public service infrastructure development, in paragraph (1) “21 days” is to be read as if it were a reference to “18 days”.
+(3)[^c-039d529405415a9338adecc0dfec3c9d] In the case of an application for planning permission for public service infrastructure development, in paragraph (1) “21 days” is to be read as if it were a reference to “18 days”.
 
 (3) A county planning authority must—
 
@@ -767,7 +767,7 @@ give the district planning authority, if any, for the area in which the relevant
 
 ### 25. Representations by parish council before determination of application
 
-(1) Subject to paragraph (5)[^key-18cc929dfa37f4bd91d28a812857977f] where the council of a parish are given information in relation to an application pursuant to paragraph 8(1) or paragraph 8(3B)[^key-cc90bdf8571d9cffda9fbb3932f466fc] of Schedule 1 to the 1990 Act (local planning authorities: distribution of functions) [^c22463981], they must, as soon as practicable, notify the local planning authority who are determining the application whether they propose to make any representations about the manner in which the application should be determined, and must make any representations to that authority within 21 days of the notification to them of the application.
+(1) Subject to paragraph (5)[^c-18cc929dfa37f4bd91d28a812857977f] where the council of a parish are given information in relation to an application pursuant to paragraph 8(1) or paragraph 8(3B)[^c-cc90bdf8571d9cffda9fbb3932f466fc] of Schedule 1 to the 1990 Act (local planning authorities: distribution of functions) [^c22463981], they must, as soon as practicable, notify the local planning authority who are determining the application whether they propose to make any representations about the manner in which the application should be determined, and must make any representations to that authority within 21 days of the notification to them of the application.
 
 (2) A local planning authority must not determine any application in respect of which a parish are required to be given information before—
 
@@ -791,9 +791,9 @@ whichever occurs first; and in determining the application the authority must ta
 - (c) where the parish is situated in a district which has no district council and is not situated in a National Park, the county planning authority;
 - (d) in any other case, the district planning authority.
 
-(5)[^key-86b867a1faf82cd9a255c0dd33f480ce] In the case of an application for planning permission for public service infrastructure development, in paragraph (1) and sub-paragraph (c) of paragraph (2) “21 days” is to be read as if it were a reference to “18 days”.
+(5)[^c-86b867a1faf82cd9a255c0dd33f480ce] In the case of an application for planning permission for public service infrastructure development, in paragraph (1) and sub-paragraph (c) of paragraph (2) “21 days” is to be read as if it were a reference to “18 days”.
 
-### 25A. Representations by neighbourhood forum before determination of application[^key-6fa09c2dcaad81e617472e4b92cb7119][^key-6eaad9a0cee64c9b512a1c4e2a743bf8]
+### 25A. Representations by neighbourhood forum before determination of application[^c-6fa09c2dcaad81e617472e4b92cb7119][^c-6eaad9a0cee64c9b512a1c4e2a743bf8]
 
 (1) Where a neighbourhood forum for a neighbourhood area are given information in relation to an application under paragraph 8A(1) or paragraph 8A(1B) of Schedule 1 to the 1990 Act (local planning authorities: distribution of functions)—
 
@@ -807,7 +807,7 @@ whichever occurs first; and in determining the application the authority must ta
 (1) Where notice has been given for the purposes of this article to a mineral planning authority as respects land which is in their area and it is specified in the notice—
 
 - (a) by the Coal Authority that the land contains coal,
-- (b) by the Oil and Gas Authority[^key-70809179770c2a603d4105fc815a8b74] that the land contains gas or oil, or
+- (b) by the Oil and Gas Authority[^c-70809179770c2a603d4105fc815a8b74] that the land contains gas or oil, or
 - (c) by the Crown Estate Commissioners that the land contains silver or gold,
 
 the mineral planning authority must not determine any application for planning permission to win and work any mineral on that land without first notifying the body or person who gave the notice that an application has been made.
@@ -819,7 +819,7 @@ the mineral planning authority must not determine any application for planning p
 
 ## Part 5 — Applications made under a planning condition
 
-### 27. Applications made under a planning condition[^key-2d580e107c44076bfa54d57ec170a62f]
+### 27. Applications made under a planning condition[^c-2d580e107c44076bfa54d57ec170a62f]
 
 (1) Subject to paragraph (3), an application for any consent, agreement or approval required by a condition or limitation attached to a grant of planning permission must—
 
@@ -833,7 +833,7 @@ the mineral planning authority must not determine any application for planning p
 - (a) of reserved matters [^c22463991]; or
 - (b) under Schedule 2 to the Permitted Development Order [^c22464001].
 
-(4)[^key-55912d2381e0c85823f3fb132053826e] Part 7A applies, and paragraphs (1) and (2) do not apply, to the submission of a biodiversity gain plan for approval under—
+(4)[^c-55912d2381e0c85823f3fb132053826e] Part 7A applies, and paragraphs (1) and (2) do not apply, to the submission of a biodiversity gain plan for approval under—
 
 - (a) paragraph 13(2)(a) of Schedule 7A to the 1990 Act, or
 - (b) paragraph 13(3)(a) or (5)(a) of Schedule 7A to the 1990 Act as modified by the Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024.
@@ -883,7 +883,7 @@ Deemed discharge under article 28 does not apply to a condition attached to the 
 
 (1) The Secretary of State may give directions restricting the grant of permission by a local planning authority, either indefinitely or during such a period as may be specified in the directions, in respect of any development or in respect of development of any class so specified.
 
-(2) The Secretary of State may give directions that development, which is both of a description set out in column 1 of the table to Schedule 2 to the 2017[^key-bb8efe4c379af3749370ab3dafa39c84] Regulations (descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”) [^c22464031] and of a class described in the direction, is EIA development for the purposes of those Regulations.
+(2) The Secretary of State may give directions that development, which is both of a description set out in column 1 of the table to Schedule 2 to the 2017[^c-bb8efe4c379af3749370ab3dafa39c84] Regulations (descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”) [^c22464031] and of a class described in the direction, is EIA development for the purposes of those Regulations.
 
 (3) A local planning authority must deal with applications for planning permission for development to which a direction given under paragraph (1) or (2) applies, in such manner as to give effect to the direction.
 
@@ -891,7 +891,7 @@ Deemed discharge under article 28 does not apply to a condition attached to the 
 
 A local planning authority may in such cases and subject to such conditions as may be prescribed by directions given by the Secretary of State under this Order, grant permission for development which does not accord with the provisions of the development plan in force in the area in which the land to which the application relates is situated.
 
-### 33. Representations to be taken into account[^key-4c8a1cf767a20acbc161b3bb808c9fb4]
+### 33. Representations to be taken into account[^c-4c8a1cf767a20acbc161b3bb808c9fb4]
 
 (1) A local planning authority must, in determining an application for planning permission, take into account any representations made where any notice of, or information about, the application has been—
 
@@ -912,7 +912,7 @@ A local planning authority may in such cases and subject to such conditions as m
 
 (4) A local planning authority must give notice of their decision to every person who has made representations which they were required to take into account in accordance with paragraph (1)(b) and such notice is the notice prescribed for the purposes of section 71(2)(b) of the 1990 Act.
 
-(5) Paragraphs (1) to (4) apply to applications referred to the Secretary of State under section 77 of the 1990 Act (reference of applications to the Secretary of State) [^key-1072e4e83d5f39b6494325cc0b694db2]... as if—
+(5) Paragraphs (1) to (4) apply to applications referred to the Secretary of State under section 77 of the 1990 Act (reference of applications to the Secretary of State) [^c-1072e4e83d5f39b6494325cc0b694db2]... as if—
 
 - (a) a reference to a local planning authority were a reference to the Secretary of State; and
 - (b) a reference to determining an application for planning permission were a reference to determining such application.
@@ -922,24 +922,24 @@ A local planning authority may in such cases and subject to such conditions as m
 - (a) a reference to a local planning authority were a reference to the Secretary of State; and
 - (b) a reference to determining an application for planning permission were a reference to determining such appeal.
 
-(7)[^key-bf288e9081a8a77c6f30f5d336041c74] In this article, when computing the number of days, any day which is a public holiday must be disregarded unless—
+(7)[^c-bf288e9081a8a77c6f30f5d336041c74] In this article, when computing the number of days, any day which is a public holiday must be disregarded unless—
 
 - (a) the application is an EIA application accompanied by an environmental statement;
 - (b) the computation is for the purpose of the period specified in sub-paragraphs (a), (b) (c) or (g) of paragraph (1); or
-- (c)[^key-f3fa82b761ddfefece0fae0d7cb0f9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f3fa82b761ddfefece0fae0d7cb0f9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In the case of an application for public service infrastructure development, in sub-paragraphs (d),(e) and (g) of paragraph (1), “21 days” is to be read, in each place it occurs, as if it were a reference to “18 days”.
 
-### 34. Time periods for decisions[^key-5ab74cb7a5d4dc8fd8677834f6ad4c5c][^key-756971fdde7d0a71b2abf3e0114fb7f4]
+### 34. Time periods for decisions[^c-5ab74cb7a5d4dc8fd8677834f6ad4c5c][^c-756971fdde7d0a71b2abf3e0114fb7f4]
 
 (1) Subject to paragraph (9), where a valid application or a non-validated application has been received by a local planning authority, the authority must within the period specified or referred to in paragraph (2) [^c22464081] or (3) give the applicant notice of their decision or determination or notice that the application has been referred to the Secretary of State.
 
 (2) The period specified or referred to in this paragraph is—
 
-- (a) subject to sub-paragraph (aa),[^key-da638a43aa79e96f4ce5fb20daa87244] in relation to an application for major development, 13 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
-- (aa)[^key-e0371768a4e3a1e789a1f8646f805af4] in relation to an application for technical details consent for major development, or an application for development which is public infrastructure development,[^key-bcbdce71631ddfea610cc40d9f14580e] 10 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
-- (b) subject to sub-paragraph (bb),[^key-5f540fb8353ca0bbb74159c9246537b3] in relation to an application for development which is not major development, 8 weeks beginning with the day immediately following that on which the application is received by the local planning authority; or
-- (bb)[^key-25185ffc918b7f1d772a1b2ec351f91a] in relation to an application for technical details consent which is not major development, 5 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
+- (a) subject to sub-paragraph (aa),[^c-da638a43aa79e96f4ce5fb20daa87244] in relation to an application for major development, 13 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
+- (aa)[^c-e0371768a4e3a1e789a1f8646f805af4] in relation to an application for technical details consent for major development, or an application for development which is public infrastructure development,[^c-bcbdce71631ddfea610cc40d9f14580e] 10 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
+- (b) subject to sub-paragraph (bb),[^c-5f540fb8353ca0bbb74159c9246537b3] in relation to an application for development which is not major development, 8 weeks beginning with the day immediately following that on which the application is received by the local planning authority; or
+- (bb)[^c-25185ffc918b7f1d772a1b2ec351f91a] in relation to an application for technical details consent which is not major development, 5 weeks beginning with the day immediately following that on which the application is received by the local planning authority;
 - (c) in relation to any development, unless the applicant has already given notice of appeal to the Secretary of State, such extended period as may be agreed in writing between the applicant and the local planning authority.
 
 (3) In relation to a non-validated application, where the notice mentioned in article 12(1) is received—
@@ -953,7 +953,7 @@ the period specified or referred to in this paragraph is 7 working days beginnin
 
 - (a) an application which complies with the requirements of article 5, 6 or 7, as the case may be,
 - (b) in a case to which article 9 applies, the design and access statement,
-- (ba)[^key-2958b1685582a62ff6dba941d7757abd] in the case of an application to which article 9A applies, the fire statement;
+- (ba)[^c-2958b1685582a62ff6dba941d7757abd] in the case of an application to which article 9A applies, the fire statement;
 - (c) the certificate required by article 14,
 - (d) in a case where pre-application consultation is required in accordance with article 3, the particulars specified in article 4,
 - (e) subject to paragraph (6), the particulars or evidence required by the authority under section 62(3) of the 1990 Act (applications for planning permission) [^c22464091], and
@@ -965,7 +965,7 @@ and a valid application is taken to have been received when the application, and
 
 - (a) an application which complies with the requirements of article 5, 6 or 7, as the case may be;
 - (b) in a case to which article 9 applies, the design and access statement;
-- (ba)[^key-6407e1fe3b99923c5bc8254829ec32cc] in the case of an application to which article 9A applies, the fire statement;
+- (ba)[^c-6407e1fe3b99923c5bc8254829ec32cc] in the case of an application to which article 9A applies, the fire statement;
 - (c) the certificate required by article 14;
 - (d) in a case where pre-application consultation is required in accordance with article 3, the particulars referred to in article 4 [^c22464101];
 - (e) subject to paragraph (6), the particulars or evidence required by the authority under section 62(3) of the 1990 Act (applications for planning permission) except the particulars or evidence specified by the applicant in a notice sent to the local planning authority under article 12(1); and
@@ -989,7 +989,7 @@ and a non-validated application is taken to have been received when the applicat
 
 (8) A local planning authority must provide such information about applications made under article 5, 6 or 7 (including information as to the manner in which any such application has been dealt with) as the Secretary of State may by direction require; and any such direction may include provision as to the persons to be informed and the manner in which the information is to be provided.
 
-(9)[^key-9122ad15f55ca36ef870a2d0d782094c] A local planning authority must not determine an application for planning permission where any notice of, or information about, the application has been—
+(9)[^c-9122ad15f55ca36ef870a2d0d782094c] A local planning authority must not determine an application for planning permission where any notice of, or information about, the application has been—
 
 - (a) given by site display under article 13, before the end of the period of 21 days beginning with the date when the notice was first displayed by site display;
 - (b) served on an owner of the land or a tenant of an agricultural holding under article 13, before the end of the period of 21 days beginning with the date when the notice was served on that person;
@@ -1008,13 +1008,13 @@ and a non-validated application is taken to have been received when the applicat
 
 (9C) When computing the number of days in sub-paragraphs (d) to (f) of paragraph (9), any day which is a public holiday must be disregarded.
 
-(10)[^key-98c2bef2f33e06082a05c2312dacbba9] In the case of an application for public service infrastructure development, in sub-paragraphs (d),(e), and (g) of paragraph (9), in each place it occurs, “21 days” is to be read as if it were a reference to “18 days”.
+(10)[^c-98c2bef2f33e06082a05c2312dacbba9] In the case of an application for public service infrastructure development, in sub-paragraphs (d),(e), and (g) of paragraph (9), in each place it occurs, “21 days” is to be read as if it were a reference to “18 days”.
 
 ### 35. Written notice of decision or determination relating to a planning application
 
 (1) When the local planning authority give notice of a decision or determination on an application for planning permission or for approval of reserved matters—
 
-- (za)[^key-dabcede620967b0c254767354c49a0d0] where planning permission is granted, the notice must include—
+- (za)[^c-dabcede620967b0c254767354c49a0d0] where planning permission is granted, the notice must include—
   - (i) information relating to the condition in paragraph 13 of Schedule 7A to the 1990 Act (biodiversity gain condition) including that there are exemptions, transitional arrangements and requirements relating to irreplaceable habitat,
   - (ii) information to note the effect of section 73(2D) of the 1990 Act (earlier biodiversity gain plan in relation to a previous planning permission regarded as approved for purposes of paragraph 13 of Schedule 7A),
   - (iii) details of the planning authority under paragraph 12(1) of Schedule 7A (biodiversity gain in England), and
@@ -1029,13 +1029,13 @@ and a non-validated application is taken to have been received when the applicat
 
   the notice must give details of the direction or of the view expressed.
 
-(1A)[^key-ddd855f922e966ffa9434deeb7ae05f4] References in paragraph (1)(a) to a condition do not include a condition under paragraph 13 of Schedule 7A (the biodiversity gain condition).
+(1A)[^c-ddd855f922e966ffa9434deeb7ae05f4] References in paragraph (1)(a) to a condition do not include a condition under paragraph 13 of Schedule 7A (the biodiversity gain condition).
 
 (2) Where paragraph (1)(a) or (b) applies, the notice must also include a statement explaining, whether, and if so how, in dealing with the application, the local planning authority have worked with the applicant in a positive and proactive manner based on seeking solutions to problems arising in relation to dealing with a planning application.
 
 (3) Where paragraph (1)(a), (b) or (c) applies, the notice must be accompanied by a notification in the terms (or substantially in the terms) set out in Schedule 5.
 
-(4)[^key-6cda52b1662c7868b6eaef344101882c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6cda52b1662c7868b6eaef344101882c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph (1)(a)(ii) “**pre-commencement condition**” means a condition imposed on the grant of a planning permission which must be complied with—
 
@@ -1050,7 +1050,7 @@ Articles 13 and 14 apply to any appeal to the Secretary of State under section 7
 
 ### 37. Appeals
 
-(A1)[^key-73fabfa6d93c42f7812488335736e76c] This article does not apply to an appeal to the Secretary of State under section 78 of the 1990 Act for not approving or not determining a biodiversity gain plan (see Part 7A, article 37E).
+(A1)[^c-73fabfa6d93c42f7812488335736e76c] This article does not apply to an appeal to the Secretary of State under section 78 of the 1990 Act for not approving or not determining a biodiversity gain plan (see Part 7A, article 37E).
 
 (1) An applicant who wishes to appeal to the Secretary of State under section 78 of the 1990 Act must give notice of appeal to the Secretary of State by—
 
@@ -1060,7 +1060,7 @@ Articles 13 and 14 apply to any appeal to the Secretary of State under section 7
 
 a completed appeal form, obtained from the Secretary of State, together with such of the documents specified in paragraph (3) as are relevant to the appeal; and
 
-- (b) serving on the local planning authority a copy of the completed appeal form mentioned in sub-paragraph (a), as soon as reasonably practicable, together with a copy of the documents mentioned in paragraph (3)(b)(viii) to (x) (where those paragraphs apply), and any relevant documents mentioned in paragraph (3)(b)(v)[^key-b895d482611e8431cecdf1a69c0af308].
+- (b) serving on the local planning authority a copy of the completed appeal form mentioned in sub-paragraph (a), as soon as reasonably practicable, together with a copy of the documents mentioned in paragraph (3)(b)(viii) to (x) (where those paragraphs apply), and any relevant documents mentioned in paragraph (3)(b)(v)[^c-b895d482611e8431cecdf1a69c0af308].
 
 (2) The time limit mentioned in paragraph (1) is—
 
@@ -1076,15 +1076,15 @@ a completed appeal form, obtained from the Secretary of State, together with suc
 
 (3) The documents mentioned in paragraph (1) are—
 
-- (a) in the case of an appeal made under section 78(1) of the 1990 Act[^key-bb96af27a1b5adc41b05ecd3a5d4fca3]—
-  - (i) a copy of the application which was sent to the local planning authority which has occasioned the appeal and[^key-00ebf0eddede4615bac288d935aa0e8e];
-  - (ii)[^key-e88fedf70c5937a8f7ef07c72ed73baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in the case of an appeal made under section 78(1) of the 1990 Act[^c-bb96af27a1b5adc41b05ecd3a5d4fca3]—
+  - (i) a copy of the application which was sent to the local planning authority which has occasioned the appeal and[^c-00ebf0eddede4615bac288d935aa0e8e];
+  - (ii)[^c-e88fedf70c5937a8f7ef07c72ed73baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the notice of the decision or determination;
 - (b) in all other cases—
   - (i) a copy of the application which was sent to the local planning authority which has occasioned the appeal;
   - (ii) all plans, drawings and documents sent to the authority in connection with the application;
   - (iii) all correspondence with the authority relating to the application;
-  - (iiia)[^key-2456038fa12880b9d69a4a38e0a1d39c] where the application was an application for technical details consent, details of the relevant permission in principle;
+  - (iiia)[^c-2456038fa12880b9d69a4a38e0a1d39c] where the application was an application for technical details consent, details of the relevant permission in principle;
   - (iv) any certificate provided to the authority under article 14;
   - (v) any other plans, documents or drawings relating to the application which were not sent to the authority, except any plans, documents or drawings relating to amendments to the application proposed after the authority have made their determination;
   - (vi) the notice of the decision or determination, if any;
@@ -1096,7 +1096,7 @@ a completed appeal form, obtained from the Secretary of State, together with suc
 (4) The relevant documents required in paragraph (3)(b)(viii) to (x) are not required to accompany the notice under paragraph (1)—
 
 - (a) where a direction is given by the Secretary of State under section 321(3) of the 1990 Act (matters related to national security) [^c22464131];
-- (b)[^key-0f471204a01eafc872c04000229efada] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; or
+- (b)[^c-0f471204a01eafc872c04000229efada] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; or
 - (c) in relation to type A or type B appeals.
 
 (5) The Secretary of State may refuse to accept a notice of appeal from an applicant if the completed appeal form required under paragraph (1)(a) and the documents required under paragraph (3) are not served on the Secretary of State within the time limit specified in paragraph (2).
@@ -1134,7 +1134,7 @@ a completed appeal form, obtained from the Secretary of State, together with suc
     - (ii) in any other case, in paragraph (2)(d); and
   - (c) is not withdrawn before the expiry of the period of 28 days from the date on which the enforcement notice is served.
 
-## PART 7A — Biodiversity Gain Plan[^key-5e4581538d179e763e0a2fa692a73d22]
+## PART 7A — Biodiversity Gain Plan[^c-5e4581538d179e763e0a2fa692a73d22]
 
 ### 37A. Meaning of biodiversity gain hierarchy
 
@@ -1143,12 +1143,12 @@ In this Part, “**biodiversity gain hierarchy**” means the following actions 
 - (a) in relation to onsite habitat with a habitat distinctiveness score, applied in the biodiversity metric, equal to or higher than four—
   - (i) avoiding adverse effects of the development, or
   - (ii) insofar as those adverse effects cannot be avoided, mitigating those effects;
-- (b) in relation to any onsite habitat which is adversely affected by major development[^key-cc9089ec7256dd7363cb69f2574ba8b1], compensating for that adverse effect by—
+- (b) in relation to any onsite habitat which is adversely affected by major development[^c-cc9089ec7256dd7363cb69f2574ba8b1], compensating for that adverse effect by—
   - (i) habitat enhancement of onsite habitat;
   - (ii) insofar as there cannot be that enhancement, creation of onsite habitat;
   - (iii) insofar as there cannot be that creation, the availability of registered offsite biodiversity gain for allocation to the development;
   - (iv) insofar as registered offsite biodiversity gain cannot be allocated to the development, the purchase of biodiversity credits.
-- (c)[^key-91d4a47e955f2f95ca7a2a3b79c6725c] in relation to any onsite habitat which is adversely affected by development which is not major development, compensating for that adverse affect by—
+- (c)[^c-91d4a47e955f2f95ca7a2a3b79c6725c] in relation to any onsite habitat which is adversely affected by development which is not major development, compensating for that adverse affect by—
   - (i) habitat enhancement of onsite habitat, creation of onsite habitat or the availability of registered offsite biodiversity gain for allocation to that development;
   - (ii) insofar as none of the actions in sub-paragraph (i) can be done, the purchase of biodiversity credits.
 
@@ -1329,7 +1329,7 @@ A biodiversity gain plan submitted to a planning authority must be submitted—
 
 - (a) if the local planning authority is a London borough council, the Mayor of London;
 - (b) a local planning authority, county council or parish council any part of whose area is in or adjoins the area of the local planning authority;
-- (ba)[^key-089206a210407a51074321f71c599314] a neighbourhood forum for a neighbourhood area any part of which is in or adjoins the area of the local planning authority;
+- (ba)[^c-089206a210407a51074321f71c599314] a neighbourhood forum for a neighbourhood area any part of which is in or adjoins the area of the local planning authority;
 - (c) Natural England [^c22464161];
 - (d) the Environment Agency [^c22464171];
 - (e) the Historic England [^c22464181];
@@ -1339,8 +1339,8 @@ A biodiversity gain plan submitted to a planning authority must be submitted—
   - (i) to whom the electronic communications code applies by virtue of a direction given under section 106(3)(a) of the Communications Act 2003 (application of the electronic communications code) [^c22464201]; and
   - (ii) who owns or controls electronic communications apparatus situated in any part of the area of the local planning authority;
 - (i) any of the following persons who exercise functions in any part of the area of the local planning authority—
-  - (i)[^key-36a256d1f6fd17591f2e6de34bd980b1] an integrated care board
-  - (ii) NHS England[^key-1c64cdd7316671350091c17c0949a4ba];
+  - (i)[^c-36a256d1f6fd17591f2e6de34bd980b1] an integrated care board
+  - (ii) NHS England[^c-1c64cdd7316671350091c17c0949a4ba];
   - (iii) a person to whom a licence has been granted under section 6(1)(b) and (c) of the Electricity Act 1989 (licences authorising supply, etc) [^c22464231];
   - (iv) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986 (licensing of gas transporters) [^c22464241];
   - (v) a sewerage undertaker;
@@ -1397,7 +1397,7 @@ and specifying in the notice a date by which representations on the draft local 
 (12) A local development order must not be made so as to grant planning permission—
 
 - (a) for development affecting a listed building, or
-- (b) for development which is Schedule 1 development within the meaning of regulation 2(1) of the 2017[^key-a3c4e5f890ab5108c5bb953b81b12e13] Regulations (interpretation).
+- (b) for development which is Schedule 1 development within the meaning of regulation 2(1) of the 2017[^c-a3c4e5f890ab5108c5bb953b81b12e13] Regulations (interpretation).
 
 (13) Where a local planning authority revoke a local development order the authority must—
 
@@ -1472,7 +1472,7 @@ and a valid application is taken to have been received when the application and 
 
 ## Part 9 — Monitoring
 
-### 40. Register of applications and biodiversity gain plans[^key-f3966fef0343be40703edba72cee19db]
+### 40. Register of applications and biodiversity gain plans[^c-f3966fef0343be40703edba72cee19db]
 
 (1) In this article and in articles 41 and 42, “**the local planning register authority**” means—
 
@@ -1495,27 +1495,27 @@ and a valid application is taken to have been received when the application and 
 
 (4) Part 2 of the register must contain, in respect of every application for planning permission relating to the local planning register authority's area—
 
-- (a)[^key-a07bae32cd3b3109813efadc54c5d0d7] a copy (which may be photographic or in electronic form) of—
+- (a)[^c-a07bae32cd3b3109813efadc54c5d0d7] a copy (which may be photographic or in electronic form) of—
   - (i) the application;
   - (ii) the plans and drawings submitted in relation to the application;
   - (iii) any accompanying design and access statement provided in accordance with article 9; and
   - (iv) any accompanying fire statement provided in accordance with article 9A;
 - (b) particulars of any direction given under the 1990 Act or this Order in respect of the application;
 - (c) the decision, if any, of the local planning authority in respect of the application, including details of any conditions subject to which permission was granted, the date of such decision and the name of the local planning authority;
-- (d) the reference number, the date and effect of any decision of the Secretary of State in respect of the application, whether on appeal [^key-baf3f8712803fc41be005b96d221144a]... or on a reference under section 77 of the 1990 Act (reference of applications to Secretary of State) [^c22464321];
+- (d) the reference number, the date and effect of any decision of the Secretary of State in respect of the application, whether on appeal [^c-baf3f8712803fc41be005b96d221144a]... or on a reference under section 77 of the 1990 Act (reference of applications to Secretary of State) [^c22464321];
 - (e) the date of any subsequent approval (whether approval of reserved matters or any other approval required) given in relation to the application;
 - (f) a copy (which may be photographic or in electronic form) of any planning obligation or section 278 agreement entered into in connection with any decision of the local planning authority or the Secretary of State in respect of the application;
 - (g) a copy (which may be photographic or in electronic form) of any other planning obligation or section 278 agreement taken into account by the local planning authority or the Secretary of State when making the decision; and
 - (h) particulars of any modification to or discharge of any planning obligation or section 278 agreement included in Part 2 of the register in accordance with sub-paragraphs (f) or (g) or paragraph (6).
 
-(4ZA)[^key-fa22efc5a0e3efffd364026df79db773] Part 2 of the register must contain, in respect of every planning permission granted relating to the local planning register authority’s area—
+(4ZA)[^c-fa22efc5a0e3efffd364026df79db773] Part 2 of the register must contain, in respect of every planning permission granted relating to the local planning register authority’s area—
 
 - (a) a copy of all the biodiversity gain plans submitted under paragraph 13 of Schedule 7A to the 1990 Act;
 - (b) notice of the determination whether to approve each biodiversity gain plan including the date of that notice and the name of the planning authority.
 
 (4ZB) Where the local planning register authority is not the planning authority in respect of a biodiversity gain plan, the requirement in paragraph (4ZA) only applies where the planning authority has sent the information required to the local planning register authority in accordance with article 37D(4).
 
-(4A)[^key-94868cd693cec93e998144e9ab71a066] The register must also contain the following information in respect of every housing prior approval application relating to their area—
+(4A)[^c-94868cd693cec93e998144e9ab71a066] The register must also contain the following information in respect of every housing prior approval application relating to their area—
 
 - (a) a copy (which may be photographic or in electronic form) of each application together with any accompanying written description, plans, drawings and any statement specifying the net increase in dwellinghouses proposed by the development (for this purpose, “net increase in dwellinghouses” is the number of dwellinghouses proposed by the development that is additional to the number of dwellinghouses on the site immediately prior to the development);
 - (b) the date on which the application was received;
@@ -1560,7 +1560,7 @@ and a valid application is taken to have been received when the application and 
 
 (10) Subject to paragraph (11), every entry in the register must be made within 14 days of the receipt of an application, or of the giving or making of the relevant direction, decision or approval as the case may be.
 
-(11)[^key-04369d5ddb32ecc9ff89dcb50fe8ea4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-04369d5ddb32ecc9ff89dcb50fe8ea4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) The register must either be kept at the principal office of the local planning register authority or that part of the register which relates to land in part of that authority's area must be kept at a place situated in or convenient to that part.
 
@@ -1654,7 +1654,7 @@ and a valid application is taken to have been received when the application and 
 - (d) details of the relevant planning permission sufficient to enable it to be identified; and
 - (e) a statement or summary of the condition which has not been complied with and the requirements of the notice, including the period allowed for compliance.
 
-(3A)[^key-885944b803298b8ec2d8cc092ad3736a] The enforcement register must also contain the following information with respect to every enforcement warning notice issued in relation to the land in the area of the authority maintaining the register—
+(3A)[^c-885944b803298b8ec2d8cc092ad3736a] The enforcement register must also contain the following information with respect to every enforcement warning notice issued in relation to the land in the area of the authority maintaining the register—
 
 - (a) the address of the land to which the notice relates or a plan by reference to which its situation can be ascertained;
 - (b) the name of the issuing authority;
@@ -1663,14 +1663,14 @@ and a valid application is taken to have been received when the application and 
 - (e) a statement or summary of the breach of planning control alleged; and
 - (f) the date specified in the notice as the date by which an application for planning permission must be received.
 
-(4) All entries relating to a planning enforcement order, enforcement notice, stop notice, breach of condition notice or enforcement warning notice[^key-f3f3726a858020a0e745e93f7b8eb105] must be removed as soon as reasonably practicable from the enforcement register if—
+(4) All entries relating to a planning enforcement order, enforcement notice, stop notice, breach of condition notice or enforcement warning notice[^c-f3f3726a858020a0e745e93f7b8eb105] must be removed as soon as reasonably practicable from the enforcement register if—
 
 - (a) in the case of a planning enforcement order, the order—
   - (i) is rescinded; or
   - (ii) the enforcement year for the order expires without enforcement action having been taken during that year;
-- (b) in the case of an enforcement notice or stop notice, the relevant enforcement notice is quashed by the Secretary of State or is withdrawn; [^key-28f4d442d27ab1bf62069bc7562856e1]...
-- (c) in the case of a breach of condition notice, the notice is quashed by a court or is withdrawn; and[^key-1ce1e3739c1125ac747fac8a64b3b11e]
-- (d)[^key-47e9156e9418ee096d8fc238048ed90d] in the case of an enforcement warning notice, the notice is quashed by a court.
+- (b) in the case of an enforcement notice or stop notice, the relevant enforcement notice is quashed by the Secretary of State or is withdrawn; [^c-28f4d442d27ab1bf62069bc7562856e1]...
+- (c) in the case of a breach of condition notice, the notice is quashed by a court or is withdrawn; and[^c-1ce1e3739c1125ac747fac8a64b3b11e]
+- (d)[^c-47e9156e9418ee096d8fc238048ed90d] in the case of an enforcement warning notice, the notice is quashed by a court.
 
 (5) Every enforcement register must include an index for enabling a person to trace any entry in the register by reference to the address of the land to which the notice relates.
 
@@ -1755,25 +1755,25 @@ Minister of State
 
 Department for Communities and Local Government
 
-## SCHEDULE 1 — Letter to be sent to applicant on receipt of application[^key-be016fad7ea48a4fb98184c9df94a04b][^M_F_8d198e6a-8f69-40ce-d52f-20d8b5898ebc]
+## SCHEDULE 1 — Letter to be sent to applicant on receipt of application[^c-be016fad7ea48a4fb98184c9df94a04b][^M_F_8d198e6a-8f69-40ce-d52f-20d8b5898ebc]
 
 Article 11 and 39
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_sld_001)
 
-## SCHEDULE 2 — Notices under articles 13 and 36[^key-49ade9112cc103cfb9903a67cdee1c66]
+## SCHEDULE 2 — Notices under articles 13 and 36[^c-49ade9112cc103cfb9903a67cdee1c66]
 
 Article 13 and 36
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_epp_005.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_epp_007.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_epp_008.gif)
 
-## SCHEDULE 3 — Publicity for applications for planning permission[^M_F_b34397bf-84b5-4e5f-a0a5-a98dd5b765b3][^key-fad85f0d2d3071fa85bc48f01377bd63]
+## SCHEDULE 3 — Publicity for applications for planning permission[^M_F_b34397bf-84b5-4e5f-a0a5-a98dd5b765b3][^c-fad85f0d2d3071fa85bc48f01377bd63]
 
 Articles 15 or 16
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_sld_010)[image: see source](https://www.legislation.gov.uk/uksi/2015/595/images/uksi_20150595_en_sld_011)
 
-## SCHEDULE 4 — Consultations before the grant of permission[^M_C_63e0dc0e-579c-4cc6-9f5a-54d0d9ee587b][^M_C_23494872-59cc-4337-f584-4a786248caf1][^M_C_c014e5b9-18bb-430e-ebb3-f2db1a0e47f2][^key-2c27fe148704290461975aee3a1dd1b3][^key-184ed869e0e46097e294fee88c20c167][^M_F_b4763d89-c176-4562-d190-fb467691e975][^M_F_d1c152fd-bed1-4923-8e3a-428988112897][^key-b771b0258f7de32264c8f83cd4dfc591][^key-6ca0903d05fbed9bde4c87ae3e496933]
+## SCHEDULE 4 — Consultations before the grant of permission[^M_C_63e0dc0e-579c-4cc6-9f5a-54d0d9ee587b][^M_C_23494872-59cc-4337-f584-4a786248caf1][^M_C_c014e5b9-18bb-430e-ebb3-f2db1a0e47f2][^c-2c27fe148704290461975aee3a1dd1b3][^c-184ed869e0e46097e294fee88c20c167][^M_F_b4763d89-c176-4562-d190-fb467691e975][^M_F_d1c152fd-bed1-4923-8e3a-428988112897][^c-b771b0258f7de32264c8f83cd4dfc591][^c-6ca0903d05fbed9bde4c87ae3e496933]
 
 Articles 18, 19 and 20
 
@@ -1844,37 +1844,37 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22463571]: Marginal citation: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-ee628cd20ea966dc2a467274b1ae5b9c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/595) applied (5.2.2025) by [The Town and Country Planning (Northwood Headquarters) Special Development Order 2025 (S.I. 2025/37)](https://www.legislation.gov.uk/uksi/2025/37), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/37/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/37/article/3/3)
+[^c-ee628cd20ea966dc2a467274b1ae5b9c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/595) applied (5.2.2025) by [The Town and Country Planning (Northwood Headquarters) Special Development Order 2025 (S.I. 2025/37)](https://www.legislation.gov.uk/uksi/2025/37), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/37/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/37/article/3/3)
 
-[^key-2f00da66c73608b891076baba39d5f3e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/595) applied in part (12.1.2026) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/3/2)
+[^c-2f00da66c73608b891076baba39d5f3e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/595) applied in part (12.1.2026) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/3/2)
 
-[^key-4292aa5fa7fb82091d692cac253d9fc7]: Textual amendment: Art. 1(5) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/8/2)
+[^c-4292aa5fa7fb82091d692cac253d9fc7]: Textual amendment: Art. 1(5) inserted (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/8/2)
 
-[^key-c44c5d12db910dc3be885e3a42eb770a]: Modification: Art. 2 modified (1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) Regulations 2020 (S.I. 2020/757)](https://www.legislation.gov.uk/uksi/2020/757), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/757/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/757/regulation/5/a)
+[^c-c44c5d12db910dc3be885e3a42eb770a]: Modification: Art. 2 modified (1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) Regulations 2020 (S.I. 2020/757)](https://www.legislation.gov.uk/uksi/2020/757), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/757/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/757/regulation/5/a)
 
-[^key-f5df2c1887ddb18034b9faa0b5d7429a]: Textual amendment: Words in art. 2(1) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(2)(a)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/2/a) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-f5df2c1887ddb18034b9faa0b5d7429a]: Textual amendment: Words in art. 2(1) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(2)(a)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/2/a) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22463591]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43); *see* section 78A(2) which was inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and amended by section 86 of the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-fe7f9ec49013b3a9d5559cc7431a4416]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2021/746/article/3/2)
+[^c-fe7f9ec49013b3a9d5559cc7431a4416]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2021/746/article/3/2)
 
-[^key-b89e2728cd8ae6f765250fd2058e865e]: Textual amendment: Word in art. 2(1) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(2)(b)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/2/b) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-b89e2728cd8ae6f765250fd2058e865e]: Textual amendment: Word in art. 2(1) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(2)(b)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/2/b) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22463601]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^c22463611]: Marginal citation: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-96c94d8c3c707428a585afcd7d15f16f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2021/746/article/3/3)
+[^c-96c94d8c3c707428a585afcd7d15f16f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2021/746/article/3/3)
 
-[^key-e9bf626778f6c9e1a6c8275f7b3cb958]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2021/746/article/3/4)
+[^c-e9bf626778f6c9e1a6c8275f7b3cb958]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2021/746/article/3/4)
 
-[^key-584667e8a39e38ceb007d566d15d36ca]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/50/regulation/14)
+[^c-584667e8a39e38ceb007d566d15d36ca]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/50/regulation/14)
 
 [^c22463621]: Marginal citation: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Section 1 is amended by paragraph 8 of Schedule 17 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-c7969add23535da34454de183c65bfba]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/2/a)
+[^c-c7969add23535da34454de183c65bfba]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/2/a)
 
-[^key-b2d98c3b4743b954851daa2a5749af0d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/2/b)
+[^c-b2d98c3b4743b954851daa2a5749af0d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/2/b)
 
 [^c22463631]: Marginal citation: [S.I. 1987/76](https://www.legislation.gov.uk/uksi/1987/76). Part A of the Schedule was amended by [S.I. 2005/84](https://www.legislation.gov.uk/uksi/2005/84) and [2015/597](https://www.legislation.gov.uk/uksi/2015/597).
 
@@ -1884,17 +1884,17 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22463661]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-6aed5a3233c4a916b5124b624cc33f6b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [3(a)](https://www.legislation.gov.uk/uksi/2018/119/article/3/a)
+[^c-6aed5a3233c4a916b5124b624cc33f6b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [3(a)](https://www.legislation.gov.uk/uksi/2018/119/article/3/a)
 
-[^key-2b39c99c72961eae2ba0fba03a01c6c9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2021/746/article/3/5)
+[^c-2b39c99c72961eae2ba0fba03a01c6c9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2021/746/article/3/5)
 
-[^key-740af55e6bf4603bd1bdf988cd36d394]: Textual amendment: Words in art. 2(1) substituted (30.11.2017) by virtue of [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/16/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-740af55e6bf4603bd1bdf988cd36d394]: Textual amendment: Words in art. 2(1) substituted (30.11.2017) by virtue of [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/16/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
-[^key-8dedf7f2ca9427d888c965bf6bc2a108]: Textual amendment: Words in art. 2(1) substituted (30.11.2017) by virtue of [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 51](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/51)
+[^c-8dedf7f2ca9427d888c965bf6bc2a108]: Textual amendment: Words in art. 2(1) substituted (30.11.2017) by virtue of [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 51](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/51)
 
 [^c22463691]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-44bf3a9224550b66901ddfbfecf664e0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2021/746/article/3/6)
+[^c-44bf3a9224550b66901ddfbfecf664e0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/595/article/2) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2021/746/article/3/6)
 
 [^c22463701]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Section 278 was substituted by section 23 of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
@@ -1904,11 +1904,11 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22463731]: Marginal citation: [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-71aed58b5d2b52a2400058e83558201e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(2)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/2/c)
+[^c-71aed58b5d2b52a2400058e83558201e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/595/article/2/1) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(2)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/2/c)
 
 [^c22463741]: Marginal citation: Section 19 was amended by section 21 of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-0786fd1cc12d4096ade3c307dc17e850]: Textual amendment: Words in [art. 2(6)](https://www.legislation.gov.uk/uksi/2015/595/article/2/6) substituted (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [3(b)](https://www.legislation.gov.uk/uksi/2018/119/article/3/b)
+[^c-0786fd1cc12d4096ade3c307dc17e850]: Textual amendment: Words in [art. 2(6)](https://www.legislation.gov.uk/uksi/2015/595/article/2/6) substituted (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [3(b)](https://www.legislation.gov.uk/uksi/2018/119/article/3/b)
 
 [^c22463761]: Marginal citation: Section 61W of the 1990 Act was inserted by section 122 of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) (“**the 2011 Act**”).
 
@@ -1916,27 +1916,27 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22463781]: Marginal citation: Section 73 was amended by sections 42(2), 51(3) and 120 of, and Schedule 9 to, the 2004 Act and section 73A was inserted by section 32 of, and paragraph 16 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-ba2ad956063702e084cfe81d568bd5ac]: Textual amendment: [Art. 7(1)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1/c)[(iia)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1/iia) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2024/50/regulation/15/a)
+[^c-ba2ad956063702e084cfe81d568bd5ac]: Textual amendment: [Art. 7(1)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1/c)[(iia)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1/iia) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2024/50/regulation/15/a)
 
-[^key-3f9ee6c0bbf6efbb42eb98e15e27514a]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1A)[(1B)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1B) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2024/50/regulation/15/b)
+[^c-3f9ee6c0bbf6efbb42eb98e15e27514a]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1A)[(1B)](https://www.legislation.gov.uk/uksi/2015/595/article/7/1B) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2024/50/regulation/15/b)
 
-[^key-b81af486e38177af1e41bc6f13e639e5]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2015/595/article/7/2) substituted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2024/50/regulation/15/c)
+[^c-b81af486e38177af1e41bc6f13e639e5]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2015/595/article/7/2) substituted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2024/50/regulation/15/c)
 
 [^c22463791]: Marginal citation: For the definition of “Crown land” see section 293 of the 1990 Act.
 
-[^key-fc89afa8f83d55dbd6fe2c3ac9ad4bc9]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/2015/595/article/8A) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/2)
+[^c-fc89afa8f83d55dbd6fe2c3ac9ad4bc9]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/2015/595/article/8A) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/2)
 
-[^key-bd4acaa80b8d46a6f947ad9d8a690f48]: Textual amendment: Words in [art. 9(3)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/9/3/c) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/3)
+[^c-bd4acaa80b8d46a6f947ad9d8a690f48]: Textual amendment: Words in [art. 9(3)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/9/3/c) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2026/170/regulation/15/3)
 
 [^c22463801]: Marginal citation: Section 73 was amended by sections 42(2), 51(3) and 120 of, and Schedule 9 to, the [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5).
 
 [^c22463811]: Marginal citation: *See* http:/whc.unesco.org/en/list
 
-[^key-1dc1067522cfc82abc74d7c3940f37aa]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2015/595/article/9A) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [4](https://www.legislation.gov.uk/uksi/2021/746/article/4)
+[^c-1dc1067522cfc82abc74d7c3940f37aa]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2015/595/article/9A) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [4](https://www.legislation.gov.uk/uksi/2021/746/article/4)
 
 [^c22463821]: Marginal citation: Section 96A was inserted by section 190 of the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-1332434cc39d14968a96bc0147311a74]: Textual amendment: [Art. 11(2)(ca)](https://www.legislation.gov.uk/uksi/2015/595/article/11/2/ca) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [5](https://www.legislation.gov.uk/uksi/2021/746/article/5)
+[^c-1332434cc39d14968a96bc0147311a74]: Textual amendment: [Art. 11(2)(ca)](https://www.legislation.gov.uk/uksi/2015/595/article/11/2/ca) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [5](https://www.legislation.gov.uk/uksi/2021/746/article/5)
 
 [^c22463831]: Marginal citation: Article 3 and 4 cease to have effect with effect from 17<sup>th</sup> December 2020; *see* section 122(3) of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and by [S.I. 2013/2931](https://www.legislation.gov.uk/uksi/2013/2931).
 
@@ -1946,189 +1946,189 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22463861]: Marginal citation: Section 65 was substituted by section 16(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and amended by paragraph 35 of the Schedule to the [Agricultural Tenancies Act 1995 (c. 8)](https://www.legislation.gov.uk/ukpga/1995/8).
 
-[^key-a90baac8cb377f1cd61d49d732bdaac9]: Textual amendment: Art. 15(1A) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(a)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/a) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-a90baac8cb377f1cd61d49d732bdaac9]: Textual amendment: Art. 15(1A) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(a)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/a) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-e0dd439bf8c90ae8f3aba6e82d024499]: Textual amendment: Art. 15(2)(a) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(b)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/b) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-e0dd439bf8c90ae8f3aba6e82d024499]: Textual amendment: Art. 15(2)(a) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(b)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/b) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22463871]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); *see* section 66. There are amendments to Part 3 which are not relevant to this Order.
 
-[^key-d0238b74b924a9b318547efb48b38176]: Textual amendment: Words in art. 15(4) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(c)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/c) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-d0238b74b924a9b318547efb48b38176]: Textual amendment: Words in art. 15(4) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(c)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/c) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-dc2eaadce25b39de4fa1b85535ef1a93]: Textual amendment: Art. 15(4A) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/2/a)
+[^c-dc2eaadce25b39de4fa1b85535ef1a93]: Textual amendment: Art. 15(4A) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/2/a)
 
-[^key-0b0d504cf6b3cc8c34383687692e23e5]: Textual amendment: Words in art. 15(5) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/695/regulation/3/2)
+[^c-0b0d504cf6b3cc8c34383687692e23e5]: Textual amendment: Words in art. 15(5) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/695/regulation/3/2)
 
-[^key-7adbf8a4b3fa25cc478c26b5bef1c898]: Textual amendment: Word in art. 15(6) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/2/c)
+[^c-7adbf8a4b3fa25cc478c26b5bef1c898]: Textual amendment: Word in art. 15(6) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/2/c)
 
-[^key-6823f1a66a06d89988b5b5afd12990a8]: Textual amendment: Words in art. 15(6) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(e)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/e) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-6823f1a66a06d89988b5b5afd12990a8]: Textual amendment: Words in art. 15(6) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(e)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/e) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-a628adbb322e9cd943b89868e2bacde9]: Textual amendment: Words in art. 15(6) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/695/regulation/3/3)
+[^c-a628adbb322e9cd943b89868e2bacde9]: Textual amendment: Words in art. 15(6) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/695/regulation/3/3)
 
-[^key-6c20d1bfc05095c823cc3f90cd70067d]: Textual amendment: Art. 15(7)(ba) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/f/i) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-6c20d1bfc05095c823cc3f90cd70067d]: Textual amendment: Art. 15(7)(ba) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/f/i) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-f99e5549b9da7075579dbd13366614d8]: Textual amendment: Words in art. 15(7)(c) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/f/ii) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-f99e5549b9da7075579dbd13366614d8]: Textual amendment: Words in art. 15(7)(c) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/3/f/ii) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-d6beb8978104b67c0a98e986d5d11688]: Textual amendment: Words in [art. 15(7)(f)](https://www.legislation.gov.uk/uksi/2015/595/article/15/7/f) omitted (1.4.2026) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/2/a)
+[^c-d6beb8978104b67c0a98e986d5d11688]: Textual amendment: Words in [art. 15(7)(f)](https://www.legislation.gov.uk/uksi/2015/595/article/15/7/f) omitted (1.4.2026) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/2/a)
 
-[^key-fd41f51ff78296664b2c673371e72c3c]: Textual amendment: Words in [art. 15(7)(f)](https://www.legislation.gov.uk/uksi/2015/595/article/15/7/f) inserted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/2/b)
+[^c-fd41f51ff78296664b2c673371e72c3c]: Textual amendment: Words in [art. 15(7)(f)](https://www.legislation.gov.uk/uksi/2015/595/article/15/7/f) inserted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/2/b)
 
 [^c22463881]: Marginal citation: Section 77 was amended by paragraph 18 of Schedule 7 to the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) (“**the 1991 Act**”), paragraph 2 of Schedule 10 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) (“**the 2008 Act**”) and paragraph 10 of Schedule 12 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) (“**the 2011 Act**”).
 
 [^c22463891]: Marginal citation: Section 78 was amended by section 17(2) of the 1991 Act and paragraphs 1 and 3 of Schedule 10 (amendments in force for certain purposes and to come into force for remaining purposes on a date to be appointed, *see* [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400)) and paragraphs 1 and 2 of Schedule 11 to the 2008 Act.
 
-[^key-ebe67338dbbe50a158a32fe3ef931a12]: Textual amendment: [Art. 15(10A)](https://www.legislation.gov.uk/uksi/2015/595/article/15/10A) inserted (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [4](https://www.legislation.gov.uk/uksi/2018/119/article/4)
+[^c-ebe67338dbbe50a158a32fe3ef931a12]: Textual amendment: [Art. 15(10A)](https://www.legislation.gov.uk/uksi/2015/595/article/15/10A) inserted (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [4](https://www.legislation.gov.uk/uksi/2018/119/article/4)
 
-[^key-c556ce5f36a7a4d36c7bf0b0eabf9497]: Textual amendment: [Art. 15(10B)](https://www.legislation.gov.uk/uksi/2015/595/article/15/10B) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [6](https://www.legislation.gov.uk/uksi/2021/746/article/6)
+[^c-c556ce5f36a7a4d36c7bf0b0eabf9497]: Textual amendment: [Art. 15(10B)](https://www.legislation.gov.uk/uksi/2015/595/article/15/10B) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [6](https://www.legislation.gov.uk/uksi/2021/746/article/6)
 
-[^key-5f03672914435162886786bade90715e]: Textual amendment: [Art. 15(11)](https://www.legislation.gov.uk/uksi/2015/595/article/15/11) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/3)
+[^c-5f03672914435162886786bade90715e]: Textual amendment: [Art. 15(11)](https://www.legislation.gov.uk/uksi/2015/595/article/15/11) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/3)
 
-[^key-abb56613c554c4f1eb1ac538af2a2833]: Textual amendment: Words in art. 18(1) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/3/a)
+[^c-abb56613c554c4f1eb1ac538af2a2833]: Textual amendment: Words in art. 18(1) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/3/a)
 
 [^c22463911]: Marginal citation: Paragraph 7 of Schedule 1 was substituted by section 118(1) of, and paragraphs 1 and 16 of Schedule 6 to, the 2004 Act, and was amended by paragraph 3 of Schedule 5 to the [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20) and paragraph 1 of Schedule 8 and Schedule 25 to the 2011 Act.
 
-[^key-99b805d65e2f769fc46999f76090e747]: Textual amendment: Art. 18(1A)(1B) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/3/b)
+[^c-99b805d65e2f769fc46999f76090e747]: Textual amendment: Art. 18(1A)(1B) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/3/b)
 
-[^key-73bdad49356c328d3c69b1bfcd966450]: Textual amendment: Words in [art. 18(5)](https://www.legislation.gov.uk/uksi/2015/595/article/18/5) substituted (26.3.2026) by [The Town and Country Planning (Development Management Procedure) (England) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/215)](https://www.legislation.gov.uk/uksi/2026/215), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/215/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/215/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2026/215/article/3))
+[^c-73bdad49356c328d3c69b1bfcd966450]: Textual amendment: Words in [art. 18(5)](https://www.legislation.gov.uk/uksi/2015/595/article/18/5) substituted (26.3.2026) by [The Town and Country Planning (Development Management Procedure) (England) (Amendment and Transitional Provision) Order 2026 (S.I. 2026/215)](https://www.legislation.gov.uk/uksi/2026/215), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/215/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/215/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2026/215/article/3))
 
-[^key-fbeb812337cf9474478660a5503d65a6]: Textual amendment: Words in [art. 18(5)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/18/5/b) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2021/746/article/7/2)
+[^c-fbeb812337cf9474478660a5503d65a6]: Textual amendment: Words in [art. 18(5)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/18/5/b) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2021/746/article/7/2)
 
-[^key-810214c6c33f1058ded7ccd718f090fb]: Textual amendment: [Art. 18(8)](https://www.legislation.gov.uk/uksi/2015/595/article/18/8) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2021/746/article/7/3)
+[^c-810214c6c33f1058ded7ccd718f090fb]: Textual amendment: [Art. 18(8)](https://www.legislation.gov.uk/uksi/2015/595/article/18/8) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2021/746/article/7/3)
 
-[^key-e85baa2c0ef25cf1ffe487798ac81197]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2015/595/article/19) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/4)
+[^c-e85baa2c0ef25cf1ffe487798ac81197]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2015/595/article/19) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/4)
 
 [^c22463931]: Marginal citation: Sections 91 and 92 were amended by section 51(1) of the 2004 Act and section 91 was subsequently amended by paragraph 13 of Schedule 12 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); there have been other amendments to section 91 which are not relevant to this Order.
 
-[^key-172bcc8a8adc7b532586cef8395dd6cb]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/uksi/2015/595/article/21) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [9](https://www.legislation.gov.uk/uksi/2021/746/article/9)
+[^c-172bcc8a8adc7b532586cef8395dd6cb]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/uksi/2015/595/article/21) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [9](https://www.legislation.gov.uk/uksi/2021/746/article/9)
 
 [^c22463941]: Marginal citation: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).
 
-[^key-008241abc0dee4cf657f86d872133a85]: Textual amendment: [Art. 22(1)(da)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/da) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/814/article/10/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-008241abc0dee4cf657f86d872133a85]: Textual amendment: [Art. 22(1)(da)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/da) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/814/article/10/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-ad9040d2ad61565cf416c28c1a7f007b]: Textual amendment: Words in [art. 22(1)(e)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/e) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2023/747/article/7/a)
+[^c-ad9040d2ad61565cf416c28c1a7f007b]: Textual amendment: Words in [art. 22(1)(e)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/e) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2023/747/article/7/a)
 
-[^key-9d786784f24b7a8afda0daaf42f3f782]: Textual amendment: Word in [art. 22(1)(e)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/e) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/11/a)
+[^c-9d786784f24b7a8afda0daaf42f3f782]: Textual amendment: Word in [art. 22(1)(e)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/e) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/11/a)
 
-[^key-70b495838cca7607c48873a7dbe309be]: Textual amendment: Words in [art. 22(1)(e)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/e) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/747/article/7/b)
+[^c-70b495838cca7607c48873a7dbe309be]: Textual amendment: Words in [art. 22(1)(e)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/e) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/747/article/7/b)
 
-[^key-cbe8eca232402dd9f7072caf69b867c1]: Textual amendment: [Art. 22(1)(ea)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/ea) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/11/b)
+[^c-cbe8eca232402dd9f7072caf69b867c1]: Textual amendment: [Art. 22(1)(ea)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/ea) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/11/b)
 
-[^key-fc9db70f6464202de3de4f21cf5c754a]: Textual amendment: Words in [art. 22(1)(f)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/f) substituted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/313/article/9)
+[^c-fc9db70f6464202de3de4f21cf5c754a]: Textual amendment: Words in [art. 22(1)(f)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/f) substituted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/313/article/9)
 
-[^key-f4cec352852fead3abc453ad0cc1fd16]: Textual amendment: [Art. 22(1)(fa)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/fa) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/814/article/10/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-f4cec352852fead3abc453ad0cc1fd16]: Textual amendment: [Art. 22(1)(fa)](https://www.legislation.gov.uk/uksi/2015/595/article/22/1/fa) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/814/article/10/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
 [^c22463951]: Marginal citation: Paragraph 4(2) of Schedule 1 was amended by sections 19(2) and 84 of, and paragraph 53 of Schedule7 and Part 1 of Schedule 19 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
 [^c22463961]: Marginal citation: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Paragraph 3 of Schedule 4 was substituted by paragraph 61 of Schedule 7 to the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and amended by sections 78 and 120 of, and paragraph 33(7) of Schedule 10 and Schedule 24 to, the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-84565968cc9e33cf5340117ace949243]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2015/595/article/22/3) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2021/746/article/10/2)
+[^c-84565968cc9e33cf5340117ace949243]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2015/595/article/22/3) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2021/746/article/10/2)
 
-[^key-89051038d96f0af06f17fe8f09c27203]: Textual amendment: [Art. 22(6)](https://www.legislation.gov.uk/uksi/2015/595/article/22/6) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2021/746/article/10/3)
+[^c-89051038d96f0af06f17fe8f09c27203]: Textual amendment: [Art. 22(6)](https://www.legislation.gov.uk/uksi/2015/595/article/22/6) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2021/746/article/10/3)
 
-[^key-de5a500978aa34ee3741d54a6035077a]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/uksi/2015/595/article/24/1) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2021/746/article/11/2)
+[^c-de5a500978aa34ee3741d54a6035077a]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/uksi/2015/595/article/24/1) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2021/746/article/11/2)
 
 [^c22463971]: Marginal citation: Sections 191 and 192 were substituted by section 10(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-039d529405415a9338adecc0dfec3c9d]: Textual amendment: [Art. 24(3)](https://www.legislation.gov.uk/uksi/2015/595/article/24/3) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2021/746/article/11/3)
+[^c-039d529405415a9338adecc0dfec3c9d]: Textual amendment: [Art. 24(3)](https://www.legislation.gov.uk/uksi/2015/595/article/24/3) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2021/746/article/11/3)
 
-[^key-18cc929dfa37f4bd91d28a812857977f]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2015/595/article/25/1) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2021/746/article/12/2)
+[^c-18cc929dfa37f4bd91d28a812857977f]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2015/595/article/25/1) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2021/746/article/12/2)
 
-[^key-cc90bdf8571d9cffda9fbb3932f466fc]: Textual amendment: Words in art. 25(1) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/12/2)
+[^c-cc90bdf8571d9cffda9fbb3932f466fc]: Textual amendment: Words in art. 25(1) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/12/2)
 
 [^c22463981]: Marginal citation: Paragraph 8(1) of Schedule 1 was substituted by paragraph 53 of Schedule 7 to the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to paragraph 8 which are not relevant to this Order.
 
-[^key-86b867a1faf82cd9a255c0dd33f480ce]: Textual amendment: [Art. 25(5)](https://www.legislation.gov.uk/uksi/2015/595/article/25/5) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2021/746/article/12/3)
+[^c-86b867a1faf82cd9a255c0dd33f480ce]: Textual amendment: [Art. 25(5)](https://www.legislation.gov.uk/uksi/2015/595/article/25/5) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2021/746/article/12/3)
 
-[^key-6fa09c2dcaad81e617472e4b92cb7119]: Textual amendment: [Art. 25A](https://www.legislation.gov.uk/uksi/2015/595/article/25A) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [13](https://www.legislation.gov.uk/uksi/2021/746/article/13)
+[^c-6fa09c2dcaad81e617472e4b92cb7119]: Textual amendment: [Art. 25A](https://www.legislation.gov.uk/uksi/2015/595/article/25A) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [13](https://www.legislation.gov.uk/uksi/2021/746/article/13)
 
-[^key-6eaad9a0cee64c9b512a1c4e2a743bf8]: Textual amendment: Art. 25A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/3/2) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/6))
+[^c-6eaad9a0cee64c9b512a1c4e2a743bf8]: Textual amendment: Art. 25A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/3/2) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/6))
 
-[^key-70809179770c2a603d4105fc815a8b74]: Textual amendment: Words in art. 26(1)(b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/26/2)
+[^c-70809179770c2a603d4105fc815a8b74]: Textual amendment: Words in art. 26(1)(b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/26/2)
 
-[^key-2d580e107c44076bfa54d57ec170a62f]: Modification: Art. 27 modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/68/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-2d580e107c44076bfa54d57ec170a62f]: Modification: Art. 27 modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/68/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22463991]: Marginal citation: *See* article 6 of this Order.
 
 [^c22464001]: Marginal citation: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).
 
-[^key-55912d2381e0c85823f3fb132053826e]: Textual amendment: [Art. 27(4)](https://www.legislation.gov.uk/uksi/2015/595/article/27/4) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/50/regulation/16)
+[^c-55912d2381e0c85823f3fb132053826e]: Textual amendment: [Art. 27(4)](https://www.legislation.gov.uk/uksi/2015/595/article/27/4) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/50/regulation/16)
 
 [^c22464011]: Marginal citation: *See* section 74A(3) for the definition of deemed discharge.
 
 [^c22464021]: Marginal citation: Section 78 was amended by section 17(2) of the Planning and Compensation Act 1991, section 40(2)(e) and 43(2) of the 2004 Act and paragraphs 1 and 3 of Schedule 10 (amendments in force for certain purposes and to come into force for remaining purposes on a date to be appointed, *see* [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400)) and paragraphs 1 and 2 of Schedule 11 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-bb8efe4c379af3749370ab3dafa39c84]: Textual amendment: Word in art. 31(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(4)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/4) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-bb8efe4c379af3749370ab3dafa39c84]: Textual amendment: Word in art. 31(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(4)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/4) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22464031]: Marginal citation: [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824), amended by [S.I. 2012/637](https://www.legislation.gov.uk/uksi/2012/637), [2013/2140](https://www.legislation.gov.uk/uksi/2013/2140) and [2013/2879](https://www.legislation.gov.uk/uksi/2013/2879).
 
-[^key-4c8a1cf767a20acbc161b3bb808c9fb4]: Textual amendment: [Art. 33](https://www.legislation.gov.uk/uksi/2015/595/article/33) substituted (1.6.2018 with application accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [5](https://www.legislation.gov.uk/uksi/2018/119/article/5)
+[^c-4c8a1cf767a20acbc161b3bb808c9fb4]: Textual amendment: [Art. 33](https://www.legislation.gov.uk/uksi/2015/595/article/33) substituted (1.6.2018 with application accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [5](https://www.legislation.gov.uk/uksi/2018/119/article/5)
 
-[^key-1072e4e83d5f39b6494325cc0b694db2]: Textual amendment: Words in [art. 33(5)](https://www.legislation.gov.uk/uksi/2015/595/article/33/5) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/5/a)
+[^c-1072e4e83d5f39b6494325cc0b694db2]: Textual amendment: Words in [art. 33(5)](https://www.legislation.gov.uk/uksi/2015/595/article/33/5) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/5/a)
 
-[^key-bf288e9081a8a77c6f30f5d336041c74]: Textual amendment: [Art. 33(7)](https://www.legislation.gov.uk/uksi/2015/595/article/33/7)[(8)](https://www.legislation.gov.uk/uksi/2015/595/article/33/8) substituted for [art. 33(7)](https://www.legislation.gov.uk/uksi/2015/595/article/33/7) (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2021/746/article/14/2)
+[^c-bf288e9081a8a77c6f30f5d336041c74]: Textual amendment: [Art. 33(7)](https://www.legislation.gov.uk/uksi/2015/595/article/33/7)[(8)](https://www.legislation.gov.uk/uksi/2015/595/article/33/8) substituted for [art. 33(7)](https://www.legislation.gov.uk/uksi/2015/595/article/33/7) (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2021/746/article/14/2)
 
-[^key-f3fa82b761ddfefece0fae0d7cb0f9ef]: Textual amendment: [Art. 33(7)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/33/7/c) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/5/b)
+[^c-f3fa82b761ddfefece0fae0d7cb0f9ef]: Textual amendment: [Art. 33(7)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/33/7/c) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/5/b)
 
-[^key-5ab74cb7a5d4dc8fd8677834f6ad4c5c]: Modification: Art. 34 modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/68/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-5ab74cb7a5d4dc8fd8677834f6ad4c5c]: Modification: Art. 34 modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [68(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/68/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-756971fdde7d0a71b2abf3e0114fb7f4]: Modification: Art. 34 modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [68(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/68/3) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-756971fdde7d0a71b2abf3e0114fb7f4]: Modification: Art. 34 modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [68(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/68/3) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22464081]: Marginal citation: In relation to the period for determining an application for EIA development, *see* [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293).
 
-[^key-da638a43aa79e96f4ce5fb20daa87244]: Textual amendment: Words in art. 34(2)(a) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/a)
+[^c-da638a43aa79e96f4ce5fb20daa87244]: Textual amendment: Words in art. 34(2)(a) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/a)
 
-[^key-e0371768a4e3a1e789a1f8646f805af4]: Textual amendment: Art. 34(2)(aa) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/b)
+[^c-e0371768a4e3a1e789a1f8646f805af4]: Textual amendment: Art. 34(2)(aa) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/b)
 
-[^key-bcbdce71631ddfea610cc40d9f14580e]: Textual amendment: Words in [art. 34(2)(aa)](https://www.legislation.gov.uk/uksi/2015/595/article/34/2/aa) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(2)](https://www.legislation.gov.uk/uksi/2021/746/article/15/2)
+[^c-bcbdce71631ddfea610cc40d9f14580e]: Textual amendment: Words in [art. 34(2)(aa)](https://www.legislation.gov.uk/uksi/2015/595/article/34/2/aa) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(2)](https://www.legislation.gov.uk/uksi/2021/746/article/15/2)
 
-[^key-5f540fb8353ca0bbb74159c9246537b3]: Textual amendment: Words in art. 34(2)(b) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(c)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/c)
+[^c-5f540fb8353ca0bbb74159c9246537b3]: Textual amendment: Words in art. 34(2)(b) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(c)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/c)
 
-[^key-25185ffc918b7f1d772a1b2ec351f91a]: Textual amendment: Art. 34(2)(bb) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(d)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/d)
+[^c-25185ffc918b7f1d772a1b2ec351f91a]: Textual amendment: Art. 34(2)(bb) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(4)(d)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/4/d)
 
-[^key-2958b1685582a62ff6dba941d7757abd]: Textual amendment: [Art. 34(4)(ba)](https://www.legislation.gov.uk/uksi/2015/595/article/34/4/ba) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2021/746/article/15/3)
+[^c-2958b1685582a62ff6dba941d7757abd]: Textual amendment: [Art. 34(4)(ba)](https://www.legislation.gov.uk/uksi/2015/595/article/34/4/ba) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2021/746/article/15/3)
 
 [^c22464091]: Marginal citation: Section 62 was substituted by section 42(1) of the 2004 Act.
 
-[^key-6407e1fe3b99923c5bc8254829ec32cc]: Textual amendment: [Art. 34(5)(ba)](https://www.legislation.gov.uk/uksi/2015/595/article/34/5/ba) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(4)](https://www.legislation.gov.uk/uksi/2021/746/article/15/4)
+[^c-6407e1fe3b99923c5bc8254829ec32cc]: Textual amendment: [Art. 34(5)(ba)](https://www.legislation.gov.uk/uksi/2015/595/article/34/5/ba) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(4)](https://www.legislation.gov.uk/uksi/2021/746/article/15/4)
 
 [^c22464101]: Marginal citation: Article 3 and 4 cease to have effect with effect from 17th December 2020; *see* section 122(3) of the 2011 Act and by [S.I. 2013/2931](https://www.legislation.gov.uk/uksi/2013/2931).
 
-[^key-9122ad15f55ca36ef870a2d0d782094c]: Textual amendment: [Art. 34(9)-(9C)](https://www.legislation.gov.uk/uksi/2015/595/article/34/9) substituted for art. 34(9) (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [6](https://www.legislation.gov.uk/uksi/2018/119/article/6)
+[^c-9122ad15f55ca36ef870a2d0d782094c]: Textual amendment: [Art. 34(9)-(9C)](https://www.legislation.gov.uk/uksi/2015/595/article/34/9) substituted for art. 34(9) (1.6.2018 with application in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/119/article/1/4), [6](https://www.legislation.gov.uk/uksi/2018/119/article/6)
 
-[^key-98c2bef2f33e06082a05c2312dacbba9]: Textual amendment: [Art. 34(10)](https://www.legislation.gov.uk/uksi/2015/595/article/34/10) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(5)](https://www.legislation.gov.uk/uksi/2021/746/article/15/5)
+[^c-98c2bef2f33e06082a05c2312dacbba9]: Textual amendment: [Art. 34(10)](https://www.legislation.gov.uk/uksi/2015/595/article/34/10) inserted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [15(5)](https://www.legislation.gov.uk/uksi/2021/746/article/15/5)
 
-[^key-dabcede620967b0c254767354c49a0d0]: Textual amendment: [Art. 35(1)(za)](https://www.legislation.gov.uk/uksi/2015/595/article/35/1/za) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2024/50/regulation/17/a)
+[^c-dabcede620967b0c254767354c49a0d0]: Textual amendment: [Art. 35(1)(za)](https://www.legislation.gov.uk/uksi/2015/595/article/35/1/za) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2024/50/regulation/17/a)
 
-[^key-ddd855f922e966ffa9434deeb7ae05f4]: Textual amendment: [Art. 35(1A)](https://www.legislation.gov.uk/uksi/2015/595/article/35/1A) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2024/50/regulation/17/b)
+[^c-ddd855f922e966ffa9434deeb7ae05f4]: Textual amendment: [Art. 35(1A)](https://www.legislation.gov.uk/uksi/2015/595/article/35/1A) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2024/50/regulation/17/b)
 
-[^key-6cda52b1662c7868b6eaef344101882c]: Textual amendment: Art. 35(4) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(7)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/7) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-6cda52b1662c7868b6eaef344101882c]: Textual amendment: Art. 35(4) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(7)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/7) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22464121]: Marginal citation: Section 78 was amended by section 17(2) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), sections 40(2)(e) and 43(2) of the 2004 Act, paragraphs 1 and 3 of Schedule 10 (amendments in force for certain purposes and to come into force for remaining purposes on a date to be appointed, *see* [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400)) and paragraphs 1 and 2 of Schedule 11 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), and paragraph 11 of Schedule 12 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-73fabfa6d93c42f7812488335736e76c]: Textual amendment: [Art. 37(A1)](https://www.legislation.gov.uk/uksi/2015/595/article/37/A1) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/50/regulation/18)
+[^c-73fabfa6d93c42f7812488335736e76c]: Textual amendment: [Art. 37(A1)](https://www.legislation.gov.uk/uksi/2015/595/article/37/A1) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/50/regulation/18)
 
-[^key-b895d482611e8431cecdf1a69c0af308]: Textual amendment: Words in [art. 37(1)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/37/1/b) substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
+[^c-b895d482611e8431cecdf1a69c0af308]: Textual amendment: Words in [art. 37(1)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/37/1/b) substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
 
-[^key-bb96af27a1b5adc41b05ecd3a5d4fca3]: Textual amendment: Words in [art. 37(3)(a)](https://www.legislation.gov.uk/uksi/2015/595/article/37/3/a) substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
+[^c-bb96af27a1b5adc41b05ecd3a5d4fca3]: Textual amendment: Words in [art. 37(3)(a)](https://www.legislation.gov.uk/uksi/2015/595/article/37/3/a) substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
 
-[^key-00ebf0eddede4615bac288d935aa0e8e]: Textual amendment: Word in [art. 37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/595/article/37/3/a/i) inserted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
+[^c-00ebf0eddede4615bac288d935aa0e8e]: Textual amendment: Word in [art. 37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/595/article/37/3/a/i) inserted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
 
-[^key-e88fedf70c5937a8f7ef07c72ed73baa]: Textual amendment: [Art. 37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/595/article/37/3/a/ii) omitted (1.4.2026) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
+[^c-e88fedf70c5937a8f7ef07c72ed73baa]: Textual amendment: [Art. 37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/595/article/37/3/a/ii) omitted (1.4.2026) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/122/regulation/3/3/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/122/regulation/4))
 
-[^key-2456038fa12880b9d69a4a38e0a1d39c]: Textual amendment: Art. 37(3)(b)(iiia) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/5)
+[^c-2456038fa12880b9d69a4a38e0a1d39c]: Textual amendment: Art. 37(3)(b)(iiia) inserted (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/5)
 
 [^c22464131]: Marginal citation: There are amendments to section 321 which are not relevant to this Order.
 
-[^key-0f471204a01eafc872c04000229efada]: Textual amendment: [Art. 37(4)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/37/4/b) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/6)
+[^c-0f471204a01eafc872c04000229efada]: Textual amendment: [Art. 37(4)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/37/4/b) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/6)
 
 [^c22464151]: Marginal citation: Section 78 was amended by section 17(2) of the Planning and Compensation Act 1991, section 40(2)(e) and 43(2) of the 2004 Act and paragraphs 1 and 3 of Schedule 10 (amendments in force for certain purposes and to come into force for remaining purposes on a date to be appointed, *see* [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400)) and paragraphs 1 and 2 of Schedule 11 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-5e4581538d179e763e0a2fa692a73d22]: Textual amendment: Pt. 7A inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/50/regulation/19)
+[^c-5e4581538d179e763e0a2fa692a73d22]: Textual amendment: Pt. 7A inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/50/regulation/19)
 
-[^key-cc9089ec7256dd7363cb69f2574ba8b1]: Textual amendment: Words in art. 37A(b) substituted (6.8.2026) by [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/790/regulation/2/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/790/regulation/4/1))
+[^c-cc9089ec7256dd7363cb69f2574ba8b1]: Textual amendment: Words in art. 37A(b) substituted (6.8.2026) by [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/790/regulation/2/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/790/regulation/4/1))
 
-[^key-91d4a47e955f2f95ca7a2a3b79c6725c]: Textual amendment: Art. 37A(c) inserted (6.8.2026) by [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/790/regulation/2/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/790/regulation/4/1))
+[^c-91d4a47e955f2f95ca7a2a3b79c6725c]: Textual amendment: Art. 37A(c) inserted (6.8.2026) by [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/790/regulation/2/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/790/regulation/4/1))
 
-[^key-089206a210407a51074321f71c599314]: Textual amendment: Art. 38(3)(ba) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/3/3) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/7))
+[^c-089206a210407a51074321f71c599314]: Textual amendment: Art. 38(3)(ba) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/3/3) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/7))
 
 [^c22464161]: Marginal citation: *See* section 1 of the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
@@ -2140,9 +2140,9 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22464201]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-36a256d1f6fd17591f2e6de34bd980b1]: Textual amendment: Words in art. 38 substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+[^c-36a256d1f6fd17591f2e6de34bd980b1]: Textual amendment: Words in art. 38 substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
 
-[^key-1c64cdd7316671350091c17c0949a4ba]: Textual amendment: Words in Order substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-1c64cdd7316671350091c17c0949a4ba]: Textual amendment: Words in Order substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c22464231]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); section 6 was substituted by section 30 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), subsection (1)(b) was substituted by section 136(1) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and subsection (1)(c) was amended by section 197(9) of, and Part 1 of Schedule 23 to, the Energy Act 2004.
 
@@ -2152,7 +2152,7 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22464261]: Marginal citation: [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824), amended by [S.I. 2012/637](https://www.legislation.gov.uk/uksi/2012/637), [2013/2140](https://www.legislation.gov.uk/uksi/2013/2140) and [2013/2879](https://www.legislation.gov.uk/uksi/2013/2879).
 
-[^key-a3c4e5f890ab5108c5bb953b81b12e13]: Textual amendment: Word in art. 38(12)(b) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(8)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/8) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-a3c4e5f890ab5108c5bb953b81b12e13]: Textual amendment: Word in art. 38(12)(b) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(8)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/8) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c22464271]: Marginal citation: Sections 191 and 192 were substituted by section 10(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and section 191 has been amended by section 124(3) of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). There are other amendments to section 191 which are not relevant to this Order.
 
@@ -2162,17 +2162,17 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22464301]: Marginal citation: Section 193 was substituted by section 10(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-f3966fef0343be40703edba72cee19db]: Textual amendment: Words in [art. 40](https://www.legislation.gov.uk/uksi/2015/595/article/40) heading inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2024/50/regulation/20/a)
+[^c-f3966fef0343be40703edba72cee19db]: Textual amendment: Words in [art. 40](https://www.legislation.gov.uk/uksi/2015/595/article/40) heading inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2024/50/regulation/20/a)
 
-[^key-a07bae32cd3b3109813efadc54c5d0d7]: Textual amendment: [Art. 40(4)(a)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4/a) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [16](https://www.legislation.gov.uk/uksi/2021/746/article/16)
+[^c-a07bae32cd3b3109813efadc54c5d0d7]: Textual amendment: [Art. 40(4)(a)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4/a) substituted (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [16](https://www.legislation.gov.uk/uksi/2021/746/article/16)
 
-[^key-baf3f8712803fc41be005b96d221144a]: Textual amendment: Words in [art. 40(4)(d)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4/d) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(7)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/7/a)
+[^c-baf3f8712803fc41be005b96d221144a]: Textual amendment: Words in [art. 40(4)(d)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4/d) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(7)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/7/a)
 
 [^c22464321]: Marginal citation: Section 77 was amended by paragraph 18 of Schedule 7 to the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 40(2)(d) of the 2004 Act and paragraph 10 of Schedule 12 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) (“the 2011 Act) and is to be amended by paragraphs 1 and 2 of Schedule 10 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) on a date to be appointed.
 
-[^key-fa22efc5a0e3efffd364026df79db773]: Textual amendment: [Art. 40(4ZA)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4ZA)[(4ZB)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4ZB) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2024/50/regulation/20/b)
+[^c-fa22efc5a0e3efffd364026df79db773]: Textual amendment: [Art. 40(4ZA)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4ZA)[(4ZB)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4ZB) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2024/50/regulation/20/b)
 
-[^key-94868cd693cec93e998144e9ab71a066]: Textual amendment: [Art. 40(4A)(4B)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4A/4B) inserted (1.4.2018 with application in accordance with art. 1(5) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/119/article/1/3), [7](https://www.legislation.gov.uk/uksi/2018/119/article/7)
+[^c-94868cd693cec93e998144e9ab71a066]: Textual amendment: [Art. 40(4A)(4B)](https://www.legislation.gov.uk/uksi/2015/595/article/40/4A/4B) inserted (1.4.2018 with application in accordance with art. 1(5) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/119/article/1/3), [7](https://www.legislation.gov.uk/uksi/2018/119/article/7)
 
 [^c22464331]: Marginal citation: Section 174 was amended by section 6(1) and 84(6) of, and paragraph 22 of Schedule 7 and Part 1 of Schedule 19 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956).
 
@@ -2180,7 +2180,7 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22464351]: Marginal citation: Section 83 and Schedule 7 were amended by section 84(6) of, and Schedule 5 and Part 1 of Schedule 19 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 18(1) of, and paragraph 29 of Schedule 3 to, the [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53), paragraphs 9 and 11 of Schedule 8 to the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and by [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042). Section 83 and Schedule 7 are to be amended by section 45 and 120 of, and Schedule 9 to, the 2004 Act and by section 237 of, and Part 16 of Schedule 25 to, the 2011 Act, on a date to be appointed. Prospectively substituted paragraph 12(1A) was amended by paragraph 4 of Schedule 5 to the [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-04369d5ddb32ecc9ff89dcb50fe8ea4a]: Textual amendment: [Art. 40(11)](https://www.legislation.gov.uk/uksi/2015/595/article/40/11) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(7)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/7/b)
+[^c-04369d5ddb32ecc9ff89dcb50fe8ea4a]: Textual amendment: [Art. 40(11)](https://www.legislation.gov.uk/uksi/2015/595/article/40/11) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(7)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/7/b)
 
 [^c22464361]: Marginal citation: Section 78 was amended by section 17(2) of the Planning and Compensation Act 1991, sections 40(2)(e) and 43(2) of the 2004 Act and paragraphs 1 and 3 of Schedule 10 (amendments in force for certain purposes and to come into force for remaining purposes on a date to be appointed, *see* [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400)), paragraphs 1 and 2 of Schedule 11 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), paragraphs 1 and 11 of Schedule 12 to the 2011 Act and paragraphs 1 and 8 of Schedule 1 to the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) .
 
@@ -2200,29 +2200,29 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^c22464441]: Marginal citation: Section 173 was substituted by section 5 of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-885944b803298b8ec2d8cc092ad3736a]: Textual amendment: [Art. 43(3A)](https://www.legislation.gov.uk/uksi/2015/595/article/43/3A) inserted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/2)
+[^c-885944b803298b8ec2d8cc092ad3736a]: Textual amendment: [Art. 43(3A)](https://www.legislation.gov.uk/uksi/2015/595/article/43/3A) inserted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/2)
 
-[^key-f3f3726a858020a0e745e93f7b8eb105]: Textual amendment: Words in [art. 43(4)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4) substituted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/3)
+[^c-f3f3726a858020a0e745e93f7b8eb105]: Textual amendment: Words in [art. 43(4)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4) substituted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/3)
 
-[^key-28f4d442d27ab1bf62069bc7562856e1]: Textual amendment: Word in [art. 43(4)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4/b) omitted (25.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/4)
+[^c-28f4d442d27ab1bf62069bc7562856e1]: Textual amendment: Word in [art. 43(4)(b)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4/b) omitted (25.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/4)
 
-[^key-1ce1e3739c1125ac747fac8a64b3b11e]: Textual amendment: Words in [art. 43(4)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4/c) substituted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/5)
+[^c-1ce1e3739c1125ac747fac8a64b3b11e]: Textual amendment: Words in [art. 43(4)(c)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4/c) substituted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/5)
 
-[^key-47e9156e9418ee096d8fc238048ed90d]: Textual amendment: [Art. 43(4)(d)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4/d) inserted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/6)
+[^c-47e9156e9418ee096d8fc238048ed90d]: Textual amendment: [Art. 43(4)(d)](https://www.legislation.gov.uk/uksi/2015/595/article/43/4/d) inserted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2024/453/regulation/3/6)
 
 [^c22464451]: Marginal citation: Section 55(2A) was inserted by section 49(1) of the 2004 Act.
 
 [^c22464461]: Marginal citation: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184), amended by [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824), [2012/636](https://www.legislation.gov.uk/uksi/2012/636), [2012/2274](https://www.legislation.gov.uk/uksi/2012/2274), [2012/3109](https://www.legislation.gov.uk/uksi/2012/3109), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2013/1238](https://www.legislation.gov.uk/uksi/2013/1238), [2013/2136](https://www.legislation.gov.uk/uksi/2013/2136), [2013/2879](https://www.legislation.gov.uk/uksi/2013/2879), [2013/2932](https://www.legislation.gov.uk/uksi/2013/2932), [2013/3194](https://www.legislation.gov.uk/uksi/2013/3194), [2014/469](https://www.legislation.gov.uk/uksi/2014/469), [2014/564](https://www.legislation.gov.uk/uksi/2014/564) and [2014/1532](https://www.legislation.gov.uk/uksi/2014/1532).
 
-[^key-be016fad7ea48a4fb98184c9df94a04b]: Textual amendment: Sch. 1: for the words “in case of applications for major development, 13 weeks, or in all other cases, 8 weeks,”, in both places, there are substituted the words “in the case of applications for technical details consent for major development, 10 weeks, in the case of other applications for major development, 13 weeks, in the case of applications for technical details consent which is not major development, 5 weeks, in the case of any other applications, 8 weeks,” (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/6)
+[^c-be016fad7ea48a4fb98184c9df94a04b]: Textual amendment: Sch. 1: for the words “in case of applications for major development, 13 weeks, or in all other cases, 8 weeks,”, in both places, there are substituted the words “in the case of applications for technical details consent for major development, 10 weeks, in the case of other applications for major development, 13 weeks, in the case of applications for technical details consent which is not major development, 5 weeks, in the case of any other applications, 8 weeks,” (15.4.2017) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 1](https://www.legislation.gov.uk/uksi/2017/402/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2017/402/schedule/paragraph/2/6)
 
 [^M_F_8d198e6a-8f69-40ce-d52f-20d8b5898ebc]: Textual amendment: Sch. 1: for the words “in the case of applications for technical details consent for major development, 10 weeks,”, in both places, there are substituted the words “in the case of applications for technical details consent for major development and applications for planning permission for public service infrastructure development, 10 weeks,” (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [17](https://www.legislation.gov.uk/uksi/2021/746/article/17)
 
-[^key-49ade9112cc103cfb9903a67cdee1c66]: Textual amendment: Sch. 2 substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/122/schedule)
+[^c-49ade9112cc103cfb9903a67cdee1c66]: Textual amendment: Sch. 2 substituted (1.4.2026) by [The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026 (S.I. 2026/122)](https://www.legislation.gov.uk/uksi/2026/122), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/122/schedule)
 
 [^M_F_b34397bf-84b5-4e5f-a0a5-a98dd5b765b3]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/595/schedule/3): in the first form, second para. (f) is substituted by paras (f)(fa), which detail the date to be inserted in various cases, including in the case of an application for public service infrastructure development (with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [18](https://www.legislation.gov.uk/uksi/2021/746/article/18)
 
-[^key-fad85f0d2d3071fa85bc48f01377bd63]: Textual amendment: Sch. 3 Form: in the second notice, in the bottom box beginning with the word "Insert", in paragraph (f), for "21" there is substituted "30"; and the words "a period of 14 days, beginning with the date" are omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(9)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/9) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-fad85f0d2d3071fa85bc48f01377bd63]: Textual amendment: Sch. 3 Form: in the second notice, in the bottom box beginning with the word "Insert", in paragraph (f), for "21" there is substituted "30"; and the words "a period of 14 days, beginning with the date" are omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [72(9)](https://www.legislation.gov.uk/uksi/2017/571/regulation/72/9) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^M_C_63e0dc0e-579c-4cc6-9f5a-54d0d9ee587b]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (aa) (which contains a definition of “relevant nuclear site”) inserted (1.4.2018) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/119/article/1/3), [9](https://www.legislation.gov.uk/uksi/2018/119/article/9)
 
@@ -2230,14 +2230,14 @@ An Impact Assessment in relation to the deemed discharge of conditions was prepa
 
 [^M_C_c014e5b9-18bb-430e-ebb3-f2db1a0e47f2]: Textual amendment: Sch. 4, Interpretation of the Table, para. 1(k)(i) omitted (31.12.2020) by virtue of [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c27fe148704290461975aee3a1dd1b3]: Textual amendment: Sch. 4 para. (s)(b): the words “The Gardens Trust” are substituted for “the Garden History Society” (16.7.2021 with application in accordance with reg. 1(4) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2021/746/article/19/2)
+[^c-2c27fe148704290461975aee3a1dd1b3]: Textual amendment: Sch. 4 para. (s)(b): the words “The Gardens Trust” are substituted for “the Garden History Society” (16.7.2021 with application in accordance with reg. 1(4) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2021/746/article/19/2)
 
-[^key-184ed869e0e46097e294fee88c20c167]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (zg) (which sets out a new description of development proposal which triggers duties in relation to consultation with the Health and Safety Executive before the grant of planning permission involving relevant high-rise residential buildings) inserted (16.7.2021 with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [19(3)](https://www.legislation.gov.uk/uksi/2021/746/article/19/3)
+[^c-184ed869e0e46097e294fee88c20c167]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (zg) (which sets out a new description of development proposal which triggers duties in relation to consultation with the Health and Safety Executive before the grant of planning permission involving relevant high-rise residential buildings) inserted (16.7.2021 with application in accordance with reg. 1(5) of the amending S.I.) by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2021 (S.I. 2021/746)](https://www.legislation.gov.uk/uksi/2021/746), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/746/article/1/3), [19(3)](https://www.legislation.gov.uk/uksi/2021/746/article/19/3)
 
 [^M_F_b4763d89-c176-4562-d190-fb467691e975]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (zh) (which provides that local planning authorities and the Secretary of State must consult Active Travel England before issuing a grant of planning permission where development falls within any of the specified descriptions) inserted (1.6.2023) by [The Town and Country Planning (Development Management Procedure) (England) (Amendment) Order 2023 (S.I. 2023/142)](https://www.legislation.gov.uk/uksi/2023/142), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/142/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2023/142/article/2/a) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/142/article/1/4))
 
 [^M_F_d1c152fd-bed1-4923-8e3a-428988112897]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4), Interpretation of the Table, para. 1(m) (which contains a definition of “dwellings” in relation to para. (zh)) inserted (1.6.2023) by [The Town and Country Planning (Development Management Procedure) (England) (Amendment) Order 2023 (S.I. 2023/142)](https://www.legislation.gov.uk/uksi/2023/142), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/142/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2023/142/article/2/b) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/142/article/1/4))
 
-[^key-b771b0258f7de32264c8f83cd4dfc591]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (d) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/8)
+[^c-b771b0258f7de32264c8f83cd4dfc591]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (d) omitted (1.5.2025) by virtue of [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2025/412/regulation/11/8)
 
-[^key-6ca0903d05fbed9bde4c87ae3e496933]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (zg): the words “the Building Safety Regulator” are substituted for “the Health and Safety Executive” (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-6ca0903d05fbed9bde4c87ae3e496933]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2015/595/schedule/4) para. (zg): the words “the Building Safety Regulator” are substituted for “the Health and Safety Executive” (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

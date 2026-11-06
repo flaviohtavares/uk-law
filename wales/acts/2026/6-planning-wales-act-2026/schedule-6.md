@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — PROCEDURE FOR ORDERS MADE BY PLANNING AUTHORITIES
 
-#### 1. Requirement for confirmation by the Welsh Ministers[^key-d7018b8f3ca7cf22844215fd7dd73e75]
+#### 1. Requirement for confirmation by the Welsh Ministers[^c-d7018b8f3ca7cf22844215fd7dd73e75]
 
 (1) A termination order made by a planning authority does not take effect unless it is confirmed by the Welsh Ministers.
 
@@ -45,7 +45,7 @@ summary: ''
 
 ### PART 2 — PROCEDURE FOR ORDERS MADE BY THE WELSH MINISTERS
 
-#### 2. Consultation and notification before making order[^key-be435d65d307764b437179b568a39be8]
+#### 2. Consultation and notification before making order[^c-be435d65d307764b437179b568a39be8]
 
 (1) The Welsh Ministers must not make a termination order without consulting the planning authority in whose area the land to which the order relates is situated.
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7018b8f3ca7cf22844215fd7dd73e75]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d7018b8f3ca7cf22844215fd7dd73e75]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-be435d65d307764b437179b568a39be8]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-be435d65d307764b437179b568a39be8]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

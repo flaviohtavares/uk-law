@@ -33,53 +33,53 @@ of 27 March 2017
 
 amending Regulation (EU) 2017/127 as regards certain fishing opportunities (revoked)
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fda5c9a85c098abe0343416ea6e0e27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EU) 2017/127[^key-2fda5c9a85c098abe0343416ea6e0e27]
+## Article 1. Amendments to Regulation (EU) 2017/127[^c-2fda5c9a85c098abe0343416ea6e0e27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-2fda5c9a85c098abe0343416ea6e0e27]
+## Article 2. Entry into force[^c-2fda5c9a85c098abe0343416ea6e0e27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fda5c9a85c098abe0343416ea6e0e27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-2fda5c9a85c098abe0343416ea6e0e27]
+## ANNEX[^c-2fda5c9a85c098abe0343416ea6e0e27]
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]1.
+[^c-2fda5c9a85c098abe0343416ea6e0e27]1.
 
 Annex IA to Regulation (EU) 2017/127 is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]2.
+[^c-2fda5c9a85c098abe0343416ea6e0e27]2.
 
 In Annex IB to Regulation (EU) 2017/127, the fishing opportunities table for capelin in Greenland waters of V and XIV is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]3.
+[^c-2fda5c9a85c098abe0343416ea6e0e27]3.
 
 Annex ID to Regulation (EU) 2017/127 is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]4.
+[^c-2fda5c9a85c098abe0343416ea6e0e27]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]5.
+[^c-2fda5c9a85c098abe0343416ea6e0e27]5.
 
 In Annex IJ to Regulation (EU) 2017/127, the fishing opportunities table for jack mackerel in the SPRFMO Convention Area is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]6.
+[^c-2fda5c9a85c098abe0343416ea6e0e27]6.
 
 Annex IID to Regulation (EU) 2017/127 and Appendix 1 to that Annex are replaced by the following:
 
@@ -87,4 +87,4 @@ Annex IID to Regulation (EU) 2017/127 and Appendix 1 to that Annex are replaced 
 
 ## Annotations
 
-[^key-2fda5c9a85c098abe0343416ea6e0e27]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2fda5c9a85c098abe0343416ea6e0e27]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. The Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009[^key-12747480be5f8ee96fc3c9ce294399b4]
+## 47. The Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009[^c-12747480be5f8ee96fc3c9ce294399b4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 2(1) of the Town and Country Planning (Environmental Impact Assess
 
 ## Annotations
 
-[^key-12747480be5f8ee96fc3c9ce294399b4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2024/924/regulation/47) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-12747480be5f8ee96fc3c9ce294399b4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2024/924/regulation/47) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2009/3342](https://www.legislation.gov.uk/uksi/2009/3342), to which there are amendments not relevant to these Regulations.

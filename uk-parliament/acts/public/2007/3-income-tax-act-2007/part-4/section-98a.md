@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Denial of relief for tax-generated payments or events[^key-ab8764bf5412cd10dd791f9f226acd80]
+## 98A. Denial of relief for tax-generated payments or events[^c-ab8764bf5412cd10dd791f9f226acd80]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab8764bf5412cd10dd791f9f226acd80]: Textual amendment: S. 98A inserted (17.7.2012) (with effect in accordance with s. 9(5)(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 9(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/9/3)
+[^c-ab8764bf5412cd10dd791f9f226acd80]: Textual amendment: S. 98A inserted (17.7.2012) (with effect in accordance with s. 9(5)(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 9(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/9/3)

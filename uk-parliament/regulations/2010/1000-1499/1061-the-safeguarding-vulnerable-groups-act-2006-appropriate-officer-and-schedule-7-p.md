@@ -34,7 +34,7 @@ Children And Young Persons, England And Wales
 
 Protection Of Vulnerable Adults, England And Wales
 
-The Safeguarding Vulnerable Groups Act 2006 (Appropriate Officer and Schedule 7 Prescribed Persons) Regulations 2010 (revoked)[^key-47eee5b5dee0227712435c4559c7c591]
+The Safeguarding Vulnerable Groups Act 2006 (Appropriate Officer and Schedule 7 Prescribed Persons) Regulations 2010 (revoked)[^c-47eee5b5dee0227712435c4559c7c591]
 
 Made
 
@@ -48,27 +48,27 @@ Coming into force
 
 26th July 2010
 
-[^key-47eee5b5dee0227712435c4559c7c591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47eee5b5dee0227712435c4559c7c591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-47eee5b5dee0227712435c4559c7c591]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-47eee5b5dee0227712435c4559c7c591]
+## 1. Citation and commencement[^c-47eee5b5dee0227712435c4559c7c591]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appropriate officer[^key-47eee5b5dee0227712435c4559c7c591]
+## 2. Interpretation[^c-47eee5b5dee0227712435c4559c7c591]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed persons for purposes of entry 19 of the Schedule 7 table[^key-47eee5b5dee0227712435c4559c7c591]
+## 3. Appropriate officer[^c-47eee5b5dee0227712435c4559c7c591]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Prescribed persons for purposes of entry 19 of the Schedule 7 table[^c-47eee5b5dee0227712435c4559c7c591]
 
 **Not yet in force.**
 
@@ -76,12 +76,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-47eee5b5dee0227712435c4559c7c591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47eee5b5dee0227712435c4559c7c591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47eee5b5dee0227712435c4559c7c591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47eee5b5dee0227712435c4559c7c591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47eee5b5dee0227712435c4559c7c591]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1061) revoked (25.7.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Appropriate Officer and Schedule 7 Prescribed Persons) (Revocation) Regulations 2010 (S.I. 2010/1707)](https://www.legislation.gov.uk/uksi/2010/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1707/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/1707/regulation/2)
+[^c-47eee5b5dee0227712435c4559c7c591]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1061) revoked (25.7.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Appropriate Officer and Schedule 7 Prescribed Persons) (Revocation) Regulations 2010 (S.I. 2010/1707)](https://www.legislation.gov.uk/uksi/2010/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1707/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/1707/regulation/2)

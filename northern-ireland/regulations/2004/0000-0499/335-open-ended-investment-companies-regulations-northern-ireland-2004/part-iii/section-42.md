@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Restraint and ratification by shareholders[^key-358ff4c5dd0d66949470062fb236bc5f]
+## 42. Restraint and ratification by shareholders[^c-358ff4c5dd0d66949470062fb236bc5f]
 
 *Extent: N.I.*
 
@@ -35,10 +35,10 @@ may only be ratified by a resolution of the company in general meeting.
 
 (5) A resolution ratifying such action does not affect any liability incurred by the directors or any other person, relief from any such liability requiring agreement by a separate resolution of the company in general meeting.
 
-(6) Nothing in this regulation affects any power or right conferred by or arising under section 138D[^key-25d284b8cb2ac7eca53b6ba2035644e3] (actions for damages) or section 380, 382 or 384 of the Act (injunctions and restitution orders).
+(6) Nothing in this regulation affects any power or right conferred by or arising under section 138D[^c-25d284b8cb2ac7eca53b6ba2035644e3] (actions for damages) or section 380, 382 or 384 of the Act (injunctions and restitution orders).
 
 ## Annotations
 
-[^key-358ff4c5dd0d66949470062fb236bc5f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2004/335/regulation/42) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-358ff4c5dd0d66949470062fb236bc5f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2004/335/regulation/42) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-25d284b8cb2ac7eca53b6ba2035644e3]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/nisr/2004/335/regulation/42/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/8)
+[^c-25d284b8cb2ac7eca53b6ba2035644e3]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/nisr/2004/335/regulation/42/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/8)

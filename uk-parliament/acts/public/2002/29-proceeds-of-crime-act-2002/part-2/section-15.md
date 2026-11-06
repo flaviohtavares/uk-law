@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Effect of postponement[^key-c9864dd6dec70ebe893b9ef4411a2f96]
+## 15. Effect of postponement[^c-c9864dd6dec70ebe893b9ef4411a2f96]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9864dd6dec70ebe893b9ef4411a2f96]: Textual amendment: S. 15 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 14(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/14/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-c9864dd6dec70ebe893b9ef4411a2f96]: Textual amendment: S. 15 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 14(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/14/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

@@ -18,12 +18,12 @@ summary: ''
 
 *Extent: S*
 
-**3.78.** (1) Where an admission application is made under rule 3.77[^key-09e11f3cc9e531b9114c8209a553e745], the applicant shall intimate a copy of the admission application to all other parties to the proceedings and to any safeguarder [^key-9203029a0161e12447a5d06ae4487409]... and complete a certificate of intimation.
+**3.78.** (1) Where an admission application is made under rule 3.77[^c-09e11f3cc9e531b9114c8209a553e745], the applicant shall intimate a copy of the admission application to all other parties to the proceedings and to any safeguarder [^c-9203029a0161e12447a5d06ae4487409]... and complete a certificate of intimation.
 
 (2) A certificate of intimation referred to in this rule shall be in Form 80 and shall be lodged together with the admission application.
 
 ## Annotations
 
-[^key-09e11f3cc9e531b9114c8209a553e745]: Textual amendment: Words in rule 3.78(1) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(64)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/64) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-09e11f3cc9e531b9114c8209a553e745]: Textual amendment: Words in rule 3.78(1) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(64)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/64) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-9203029a0161e12447a5d06ae4487409]: Textual amendment: Words in rule 3.78(1) omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(63)(d)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/63/d) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-9203029a0161e12447a5d06ae4487409]: Textual amendment: Words in rule 3.78(1) omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(63)(d)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/63/d) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Annual delivery reports[^key-ace145bd152b6ca3a24dd19b69804e76]
+## 24. Annual delivery reports[^c-ace145bd152b6ca3a24dd19b69804e76]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ace145bd152b6ca3a24dd19b69804e76]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2026/37/regulation/24) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ace145bd152b6ca3a24dd19b69804e76]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2026/37/regulation/24) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

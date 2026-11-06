@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Direct Payments to Farmers (England) (Amendment) Regulations 2020 (revoked)[^key-5c67ddbe374805161f962fee91fe8024]
+The Direct Payments to Farmers (England) (Amendment) Regulations 2020 (revoked)[^c-5c67ddbe374805161f962fee91fe8024]
 
 Made
 
@@ -40,54 +40,54 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-5c67ddbe374805161f962fee91fe8024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c67ddbe374805161f962fee91fe8024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-5c67ddbe374805161f962fee91fe8024]
+## 1. Citation, commencement, extent and application[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307)[^key-5c67ddbe374805161f962fee91fe8024]
+## 2. Amendment of [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of [Commission Delegated Regulation (EU) 639/2014](https://www.legislation.gov.uk/european/regulation/2014/0639)[^key-5c67ddbe374805161f962fee91fe8024]
+## 3. Amendment of [Commission Delegated Regulation (EU) 639/2014](https://www.legislation.gov.uk/european/regulation/2014/0639)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of [Commission Implementing Regulation (EU) 641/2014](https://www.legislation.gov.uk/european/regulation/2014/0641)[^key-5c67ddbe374805161f962fee91fe8024]
+## 4. Amendment of [Commission Implementing Regulation (EU) 641/2014](https://www.legislation.gov.uk/european/regulation/2014/0641)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-5c67ddbe374805161f962fee91fe8024]
+## 5. Amendments to the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^key-5c67ddbe374805161f962fee91fe8024]
+## 6. Amendment of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of [Commission Implementing Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-5c67ddbe374805161f962fee91fe8024]
+## 7. Amendment of [Commission Implementing Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of [Commission Delegated Regulation (EU) No. 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-5c67ddbe374805161f962fee91fe8024]
+## 8. Amendment of [Commission Delegated Regulation (EU) No. 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of [Commission Delegated Regulation (EU) No 907/2014](https://www.legislation.gov.uk/european/regulation/2014/0907)[^key-5c67ddbe374805161f962fee91fe8024]
+## 9. Amendment of [Commission Delegated Regulation (EU) No 907/2014](https://www.legislation.gov.uk/european/regulation/2014/0907)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of [Commission Implementing Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908)[^key-5c67ddbe374805161f962fee91fe8024]
+## 10. Amendment of [Commission Implementing Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908)[^c-5c67ddbe374805161f962fee91fe8024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c67ddbe374805161f962fee91fe8024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c67ddbe374805161f962fee91fe8024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c67ddbe374805161f962fee91fe8024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c67ddbe374805161f962fee91fe8024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c67ddbe374805161f962fee91fe8024]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1513) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-5c67ddbe374805161f962fee91fe8024]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1513) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

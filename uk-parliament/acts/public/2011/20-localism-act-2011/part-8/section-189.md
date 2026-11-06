@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Modification to the Homes and Communities Agency's functions[^key-7f37941298a2e1f78d44e5f7ab116afc]
+## 189. Modification to the Homes and Communities Agency's functions[^c-7f37941298a2e1f78d44e5f7ab116afc]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f37941298a2e1f78d44e5f7ab116afc]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2011/20/section/189) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(f)](https://www.legislation.gov.uk/uksi/2012/628/article/6/f) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-7f37941298a2e1f78d44e5f7ab116afc]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2011/20/section/189) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(f)](https://www.legislation.gov.uk/uksi/2012/628/article/6/f) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Transfer of repayments due to a loan purchaser[^key-907ea7b5d6a6ae6340079250b1e641f4]
+## 11. Transfer of repayments due to a loan purchaser[^c-907ea7b5d6a6ae6340079250b1e641f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-907ea7b5d6a6ae6340079250b1e641f4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/470/regulation/11) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-907ea7b5d6a6ae6340079250b1e641f4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/470/regulation/11) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

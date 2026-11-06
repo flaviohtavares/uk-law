@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Publication of code[^key-6ed80e8ea3ca9f0d7e3a4315eb8cd666]
+## 50. Publication of code[^c-6ed80e8ea3ca9f0d7e3a4315eb8cd666]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ed80e8ea3ca9f0d7e3a4315eb8cd666]: Commencement: S. 50 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(t)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/t)
+[^c-6ed80e8ea3ca9f0d7e3a4315eb8cd666]: Commencement: S. 50 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(t)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/t)

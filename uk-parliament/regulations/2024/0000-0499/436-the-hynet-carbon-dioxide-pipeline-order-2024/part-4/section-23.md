@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Protective work to buildings[^key-d8225b1adeae4d92a54afc41bf61bfe4]
+## 23. Protective work to buildings[^c-d8225b1adeae4d92a54afc41bf61bfe4]
 
 *Extent: E+W+S*
 
@@ -58,7 +58,7 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 (10) Any compensation payable under paragraph (7) or (8) must be determined as if it were a dispute under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-(11) Section 13[^key-548788af61d1ac9fbf9c7f511f0d1342] (refusal to give possession to acquiring authority) of the 1965 Act applies to the entry onto, or possession of land under this article to the same extent as it applies in respect of the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
+(11) Section 13[^c-548788af61d1ac9fbf9c7f511f0d1342] (refusal to give possession to acquiring authority) of the 1965 Act applies to the entry onto, or possession of land under this article to the same extent as it applies in respect of the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
 
 (12) In this article “**protective works**”, in relation to a building, means—
 
@@ -67,6 +67,6 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-d8225b1adeae4d92a54afc41bf61bfe4]: Commencement: Art. 23 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-d8225b1adeae4d92a54afc41bf61bfe4]: Commencement: Art. 23 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-548788af61d1ac9fbf9c7f511f0d1342]: Textual amendment: Words in [art. 23(11)](https://www.legislation.gov.uk/uksi/2024/436/article/23/11) substituted (16.10.2024) by [The HyNet Carbon Dioxide Pipeline (Correction) Order 2024 (S.I. 2024/1031)](https://www.legislation.gov.uk/uksi/2024/1031), [art. 2](https://www.legislation.gov.uk/uksi/2024/1031/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1031/schedule)
+[^c-548788af61d1ac9fbf9c7f511f0d1342]: Textual amendment: Words in [art. 23(11)](https://www.legislation.gov.uk/uksi/2024/436/article/23/11) substituted (16.10.2024) by [The HyNet Carbon Dioxide Pipeline (Correction) Order 2024 (S.I. 2024/1031)](https://www.legislation.gov.uk/uksi/2024/1031), [art. 2](https://www.legislation.gov.uk/uksi/2024/1031/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1031/schedule)

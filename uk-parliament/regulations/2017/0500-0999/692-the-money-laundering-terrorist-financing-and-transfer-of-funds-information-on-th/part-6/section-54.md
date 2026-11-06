@@ -25,10 +25,10 @@ summary: ''
 - (a) are authorised persons, and
 - (b) have notified the FCA under regulation 23 that they are acting, or intend to act, as a money service business or a trust or company service provider.
 
-(1A)[^key-c95e47ed9a314e699607dcc95162e196][^key-e1f129f6893fb9be1a11969749958438] The FCA must maintain a register of— *(affected by repeal, see note)*[^key-e1f129f6893fb9be1a11969749958438]
+(1A)[^c-c95e47ed9a314e699607dcc95162e196][^c-e1f129f6893fb9be1a11969749958438] The FCA must maintain a register of— *(affected by repeal, see note)*[^c-e1f129f6893fb9be1a11969749958438]
 
-- (a) cryptoasset exchange providers; and *(affected by repeal, see note)*[^key-e1f129f6893fb9be1a11969749958438]
-- (b) custodian wallet providers. *(affected by repeal, see note)*[^key-e1f129f6893fb9be1a11969749958438]
+- (a) cryptoasset exchange providers; and *(affected by repeal, see note)*[^c-e1f129f6893fb9be1a11969749958438]
+- (b) custodian wallet providers. *(affected by repeal, see note)*[^c-e1f129f6893fb9be1a11969749958438]
 
 (1A) The FCA must maintain a register of those relevant persons who—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c95e47ed9a314e699607dcc95162e196]: Textual amendment: Reg. 54(1A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(9)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/9)
+[^c-c95e47ed9a314e699607dcc95162e196]: Textual amendment: Reg. 54(1A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(9)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/9)
 
-[^key-e1f129f6893fb9be1a11969749958438]: Textual amendment: [Reg. 54(1A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/54/1A) substituted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/48/3) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-e1f129f6893fb9be1a11969749958438]: Textual amendment: [Reg. 54(1A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/54/1A) substituted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/48/3) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
 
 [^c23048391]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

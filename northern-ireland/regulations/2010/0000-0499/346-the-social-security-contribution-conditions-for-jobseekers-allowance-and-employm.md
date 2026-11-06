@@ -44,11 +44,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 This Rule contains only regulations made by virtue of, or consequential upon, sections 11 and 12 of the Welfare Reform Act (Northern Ireland) 2010[^f00004].
 
-## 1. Citation and commencement[^key-bafa281258fecc07af4d3f85e638bd73]
+## 1. Citation and commencement[^c-bafa281258fecc07af4d3f85e638bd73]
 
 These Regulations may be cited as the Social Security (Contribution Conditions for Jobseeker’s Allowance and Employment and Support Allowance) Regulations (Northern Ireland) 2010 and come into operation on 1st November 2010.
 
-## 2. Amendment of the Jobseeker’s Allowance Regulations[^key-3bbbc48c291aaeb1ce228f3ce8200ef9]
+## 2. Amendment of the Jobseeker’s Allowance Regulations[^c-3bbbc48c291aaeb1ce228f3ce8200ef9]
 
 In Part III of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00005] (other conditions of entitlement), before regulation 46 (waiting days) insert—
 
@@ -60,7 +60,7 @@ In Part III of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^
 
 .
 
-## 3. Amendment of the Employment and Support Allowance Regulations[^key-4854ac9174d60078d645e4422ad7513f]
+## 3. Amendment of the Employment and Support Allowance Regulations[^c-4854ac9174d60078d645e4422ad7513f]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00007] are amended in accordance with paragraphs (2) and (3).
 
@@ -74,7 +74,7 @@ In Part III of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^
 
 .
 
-(3)[^key-bdd2e908af64211a34f958e5426c3ce0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bdd2e908af64211a34f958e5426c3ce0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 11th October 2010
 
@@ -110,18 +110,18 @@ As these Regulations are made by virtue of, or consequential upon, sections 11 a
 
 [^f00004]: Footnote: [2010 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2010/13)
 
-[^key-bafa281258fecc07af4d3f85e638bd73]: Commencement: Reg. 1 in operation at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1)
+[^c-bafa281258fecc07af4d3f85e638bd73]: Commencement: Reg. 1 in operation at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1)
 
-[^key-3bbbc48c291aaeb1ce228f3ce8200ef9]: Commencement: Reg. 2 in operation at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1)
+[^c-3bbbc48c291aaeb1ce228f3ce8200ef9]: Commencement: Reg. 2 in operation at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
 [^f00006]: Footnote: Article 4(2)(b) was substituted by section 11(2) of the Welfare Reform Act (Northern Ireland) 2010
 
-[^key-4854ac9174d60078d645e4422ad7513f]: Commencement: Reg. 3 in operation at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1)
+[^c-4854ac9174d60078d645e4422ad7513f]: Commencement: Reg. 3 in operation at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
 [^f00008]: Footnote: Paragraph 1(2) was substituted by section 12(4) of the Welfare Reform Act (Northern Ireland) 2010
 
-[^key-bdd2e908af64211a34f958e5426c3ce0]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2010/346/regulation/3/3) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
+[^c-bdd2e908af64211a34f958e5426c3ce0]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2010/346/regulation/3/3) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [26](https://www.legislation.gov.uk/nisr/2011/357/regulation/26), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)

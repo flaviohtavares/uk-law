@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184.[^key-2f24142b6673ebad0d891b9526c9673f]
+## 184.[^c-2f24142b6673ebad0d891b9526c9673f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 94 (family expenses), in the opening words of subsection (1), after â
 
 ## Annotations
 
-[^key-2f24142b6673ebad0d891b9526c9673f]: Commencement: Reg. 184 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-2f24142b6673ebad0d891b9526c9673f]: Commencement: Reg. 184 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

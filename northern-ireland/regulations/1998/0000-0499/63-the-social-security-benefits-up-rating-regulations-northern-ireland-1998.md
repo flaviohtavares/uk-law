@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security Benefits Up-rating Regulations (Northern Ireland) 1998 (revoked)[^key-fecd3e5472928ffc3a5b40647ca004d4]
+The Social Security Benefits Up-rating Regulations (Northern Ireland) 1998 (revoked)[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 6th April 1998
 
-[^key-fecd3e5472928ffc3a5b40647ca004d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fecd3e5472928ffc3a5b40647ca004d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 1. Citation, commencement and interpretation[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit under awards made before the commencing date[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 2. Exceptions relating to payment of additional benefit under awards made before the commencing date[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (General Benefit) Regulations[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 5. Amendment of the Social Security (General Benefit) Regulations[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 6. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-fecd3e5472928ffc3a5b40647ca004d4]
+## 7. Revocations[^c-fecd3e5472928ffc3a5b40647ca004d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fecd3e5472928ffc3a5b40647ca004d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fecd3e5472928ffc3a5b40647ca004d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fecd3e5472928ffc3a5b40647ca004d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fecd3e5472928ffc3a5b40647ca004d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fecd3e5472928ffc3a5b40647ca004d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/63) revoked (12.4.1999) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 1999 (S.R. 1999/139)](https://www.legislation.gov.uk/nisr/1999/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/1999/139/regulation/6)
+[^c-fecd3e5472928ffc3a5b40647ca004d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/63) revoked (12.4.1999) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 1999 (S.R. 1999/139)](https://www.legislation.gov.uk/nisr/1999/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/1999/139/regulation/6)

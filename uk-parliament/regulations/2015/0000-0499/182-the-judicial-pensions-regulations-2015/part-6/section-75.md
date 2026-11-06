@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Option to defer payment of added pension[^key-c58e68ed1ab6f0ace48fe031582a10e2]
+## 75. Option to defer payment of added pension[^c-c58e68ed1ab6f0ace48fe031582a10e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c58e68ed1ab6f0ace48fe031582a10e2]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2015/182/regulation/75) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-c58e68ed1ab6f0ace48fe031582a10e2]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2015/182/regulation/75) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

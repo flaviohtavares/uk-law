@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2B — Consumer communication devices[^key-71c903865c3b6502b1fea71e722153e2]
+## SCHEDULE 2B — Consumer communication devices[^c-71c903865c3b6502b1fea71e722153e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ Regulation 60B
 
 ## Annotations
 
-[^key-71c903865c3b6502b1fea71e722153e2]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2B) inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/195/schedule) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))
+[^c-71c903865c3b6502b1fea71e722153e2]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/2019/855/schedule/2B) inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/195)](https://www.legislation.gov.uk/uksi/2022/195), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/195/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/195/schedule) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/195/regulation/11))

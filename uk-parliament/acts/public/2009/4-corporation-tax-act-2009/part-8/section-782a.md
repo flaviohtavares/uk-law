@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 782A. Company leaving group because of relevant share disposal[^key-d8be6e142b3a51d8425c01a70ee14cd5]
+## 782A. Company leaving group because of relevant share disposal[^c-d8be6e142b3a51d8425c01a70ee14cd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8be6e142b3a51d8425c01a70ee14cd5]: Textual amendment: S. 782A inserted (with effect in accordance with s. 26(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/26/3) (with [s. 26(6)](https://www.legislation.gov.uk/ukpga/2019/1/section/26/6))
+[^c-d8be6e142b3a51d8425c01a70ee14cd5]: Textual amendment: S. 782A inserted (with effect in accordance with s. 26(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/26/3) (with [s. 26(6)](https://www.legislation.gov.uk/ukpga/2019/1/section/26/6))

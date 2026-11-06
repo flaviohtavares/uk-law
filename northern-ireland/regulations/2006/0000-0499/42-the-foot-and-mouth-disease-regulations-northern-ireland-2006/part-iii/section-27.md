@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Slaughter: cleansing and disinfection of premises other than slaughterhouses[^key-ce0cb7f6052e245e06835e6c1b8e895f]
+## 27. Slaughter: cleansing and disinfection of premises other than slaughterhouses[^c-ce0cb7f6052e245e06835e6c1b8e895f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce0cb7f6052e245e06835e6c1b8e895f]: Commencement: Reg. 27 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-ce0cb7f6052e245e06835e6c1b8e895f]: Commencement: Reg. 27 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

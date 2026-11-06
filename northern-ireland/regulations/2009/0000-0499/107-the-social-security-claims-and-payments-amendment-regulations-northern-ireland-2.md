@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 5(1)(j) and (m) and 165(1) and (3) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-a12130dc1314d6af33d4930bc57d22e5]
+## 1. Citation and commencement[^c-a12130dc1314d6af33d4930bc57d22e5]
 
 These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2009 and shall come into operation on 6th April 2009.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-072298660017b13ea7b28c3eceb870e6]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-072298660017b13ea7b28c3eceb870e6]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] are amended in accordance with paragraphs (2) to (7).
 
@@ -72,7 +72,7 @@ These Regulations may be cited as the Social Security (Claims and Payments) (Ame
   ; and
 - (d) in paragraph (4)[^f00005] after “state pension credit” insert “, bereavement allowance, widowed parent’s allowance”.
 
-(3)[^key-f18064151eef9afc1aab4c7873e43c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f18064151eef9afc1aab4c7873e43c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After regulation 22 insert—
 
@@ -156,7 +156,7 @@ These Regulations may be cited as the Social Security (Claims and Payments) (Ame
 
   .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-0b8ff47fce454c2d6bc187f1b78c95db]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-0b8ff47fce454c2d6bc187f1b78c95db]
 
 In regulation 1(2) (interpretation) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00012] for the definition of “benefit week” substitute—
 
@@ -174,7 +174,7 @@ In regulation 1(2) (interpretation) of the Jobseeker’s Allowance Regulations (
 
 .
 
-## 4. Revocations[^key-74cd7d903c2e2d51eb8432f6e10bafd3]
+## 4. Revocations[^c-74cd7d903c2e2d51eb8432f6e10bafd3]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -186,7 +186,7 @@ John O’Neill
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Revocations[^key-01f4dddcd67896e0ecbed476c113bf14]
+## SCHEDULE — Revocations[^c-01f4dddcd67896e0ecbed476c113bf14]
 
 Regulation 4
 
@@ -237,9 +237,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-a12130dc1314d6af33d4930bc57d22e5]: Commencement: Reg. 1 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
+[^c-a12130dc1314d6af33d4930bc57d22e5]: Commencement: Reg. 1 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
 
-[^key-072298660017b13ea7b28c3eceb870e6]: Commencement: Reg. 2 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
+[^c-072298660017b13ea7b28c3eceb870e6]: Commencement: Reg. 2 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365), [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404), [S.R 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46) and [S.R. 2008 Nos. 286](https://www.legislation.gov.uk/nisr/2008/286) and [417](https://www.legislation.gov.uk/nisr/2008/417)
 
@@ -247,7 +247,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00005]: Footnote: Paragraph (4) was amended by regulation 3(c) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), regulation 2(7) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), regulation 2(9) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), regulation 7(1) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 13(11) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-f18064151eef9afc1aab4c7873e43c17]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/107/regulation/2/3) revoked (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2009 (S.R. 2009/409)](https://www.legislation.gov.uk/nisr/2009/409), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/409/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2009/409/regulation/4)
+[^c-f18064151eef9afc1aab4c7873e43c17]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/107/regulation/2/3) revoked (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2009 (S.R. 2009/409)](https://www.legislation.gov.uk/nisr/2009/409), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/409/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2009/409/regulation/4)
 
 [^f00007]: Footnote: Paragraph (1) was amended by regulation 2(13) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), regulation 4(a) of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and regulation 2(5) of [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297)
 
@@ -259,10 +259,10 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00011]: Footnote: Paragraph 2 was amended by regulation 10(a) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), regulation 2(15)(a) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), regulation 2(24)(a) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), regulation 10(7)(a) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108) and regulation 5(11) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
-[^key-0b8ff47fce454c2d6bc187f1b78c95db]: Commencement: Reg. 3 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
+[^c-0b8ff47fce454c2d6bc187f1b78c95db]: Commencement: Reg. 3 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
 
 [^f00012]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); the definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), regulation 2(2)(a) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503) and regulation 13(2) of [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359)
 
-[^key-74cd7d903c2e2d51eb8432f6e10bafd3]: Commencement: Reg. 4 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
+[^c-74cd7d903c2e2d51eb8432f6e10bafd3]: Commencement: Reg. 4 in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
 
-[^key-01f4dddcd67896e0ecbed476c113bf14]: Commencement: Sch. in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)
+[^c-01f4dddcd67896e0ecbed476c113bf14]: Commencement: Sch. in operation at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/107/regulation/1)

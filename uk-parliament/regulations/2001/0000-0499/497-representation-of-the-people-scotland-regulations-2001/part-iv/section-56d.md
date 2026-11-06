@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56D. Processing of information provided in connection with a relevant absent voting application[^key-c75ec4b656024f72990978c6db816aeb]
+## 56D. Processing of information provided in connection with a relevant absent voting application[^c-c75ec4b656024f72990978c6db816aeb]
 
 *Extent: S*
 
@@ -41,12 +41,12 @@ summary: ''
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine (or both);
 - (b) on summary conviction, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum (or both).
 
-(7) Any information disclosed under regulation 56B must be processed in accordance with any requirements as to the processing of information that may have been imposed by the Secretary of State for Housing, Communities and Local Government[^key-8c120031a3df807f2145255983a05497] in writing in advance of that processing, including requirements as to the transfer, storage, destruction and security of that information.
+(7) Any information disclosed under regulation 56B must be processed in accordance with any requirements as to the processing of information that may have been imposed by the Secretary of State for Housing, Communities and Local Government[^c-8c120031a3df807f2145255983a05497] in writing in advance of that processing, including requirements as to the transfer, storage, destruction and security of that information.
 
 (8) In this regulation, “**copy**” includes an electronic copy.
 
 ## Annotations
 
-[^key-c75ec4b656024f72990978c6db816aeb]: Textual amendment: Regs. 56B-56D inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/8)
+[^c-c75ec4b656024f72990978c6db816aeb]: Textual amendment: Regs. 56B-56D inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/8)
 
-[^key-8c120031a3df807f2145255983a05497]: Textual amendment: Words in reg. 56D(7) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(11)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/11) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-8c120031a3df807f2145255983a05497]: Textual amendment: Words in reg. 56D(7) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 17(11)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/17/11) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

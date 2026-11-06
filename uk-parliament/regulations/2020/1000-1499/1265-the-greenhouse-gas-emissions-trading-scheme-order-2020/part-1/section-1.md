@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation[^key-1350923fa86d658417ff786ecce29baf]
+## 1. Citation[^c-1350923fa86d658417ff786ecce29baf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Greenhouse Gas Emissions Trading Scheme Order 202
 
 ## Annotations
 
-[^key-1350923fa86d658417ff786ecce29baf]: Commencement: Art. 1 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-1350923fa86d658417ff786ecce29baf]: Commencement: Art. 1 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Exceptions — temporarily imported vehicles and vehicles proceeding to a port for export[^key-01b92905d62ab712cd9a1319bf1bc63f]
+## 5. Exceptions — temporarily imported vehicles and vehicles proceeding to a port for export[^c-01b92905d62ab712cd9a1319bf1bc63f]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ Part II of these Regulations does not apply to—
 
 ## Annotations
 
-[^key-01b92905d62ab712cd9a1319bf1bc63f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/169/regulation/5) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-01b92905d62ab712cd9a1319bf1bc63f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/169/regulation/5) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
 [^f00011]: Footnote: Cmnd 7997
 

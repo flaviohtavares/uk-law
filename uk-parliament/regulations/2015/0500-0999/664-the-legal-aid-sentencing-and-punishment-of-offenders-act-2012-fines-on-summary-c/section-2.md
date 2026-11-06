@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Disapplication of section 85(1) of the 2012 Act and alternative provision[^key-b9024c7be699f0562df5056e47e7f9ea]
+## 2. Disapplication of section 85(1) of the 2012 Act and alternative provision[^c-b9024c7be699f0562df5056e47e7f9ea]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9024c7be699f0562df5056e47e7f9ea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/664/regulation/2) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-b9024c7be699f0562df5056e47e7f9ea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/664/regulation/2) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Assessment under section 2A(1)(a) and (b)[^key-477de9dec79482a9c283b1a528b1d292]
+## 2B. Assessment under section 2A(1)(a) and (b)[^c-477de9dec79482a9c283b1a528b1d292]
 
 *Extent: E+W+S*
 
-(1) Subject to section 205ZB(2) of the 1995 Act,[^key-96c59297a27263e64b9bc202771fb32e] the part mentioned in subsection (1)(b) of section 2A in relation to the period mentioned in subsection (1)(a) of that section is—
+(1) Subject to section 205ZB(2) of the 1995 Act,[^c-96c59297a27263e64b9bc202771fb32e] the part mentioned in subsection (1)(b) of section 2A in relation to the period mentioned in subsection (1)(a) of that section is—
 
 - (a) one-half of that period, or
 - (b) if subsection (2) applies, such greater proportion of that period as the court specifies.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-477de9dec79482a9c283b1a528b1d292]: Textual amendment: Ss. 2A, 2B inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(3)](https://www.legislation.gov.uk/asp/2012/7/section/1/3), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3) (with [arts. 2(2)](https://www.legislation.gov.uk/ssi/2012/249/article/2/2), [4](https://www.legislation.gov.uk/ssi/2012/249/article/4))
+[^c-477de9dec79482a9c283b1a528b1d292]: Textual amendment: Ss. 2A, 2B inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(3)](https://www.legislation.gov.uk/asp/2012/7/section/1/3), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3) (with [arts. 2(2)](https://www.legislation.gov.uk/ssi/2012/249/article/2/2), [4](https://www.legislation.gov.uk/ssi/2012/249/article/4))
 
-[^key-96c59297a27263e64b9bc202771fb32e]: Textual amendment: Words in s. 2B(1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(8)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/8)
+[^c-96c59297a27263e64b9bc202771fb32e]: Textual amendment: Words in s. 2B(1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(8)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/8)

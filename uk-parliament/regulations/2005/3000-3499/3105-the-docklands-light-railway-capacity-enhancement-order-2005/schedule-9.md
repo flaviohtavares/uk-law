@@ -24,7 +24,7 @@ Article 39
 
 ### Apparatus of statutory undertakers, etc., on land acquired
 
-**1.**[^key-121f5865d77b341b7177ff81e1f66b7e] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by DLRL under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-121f5865d77b341b7177ff81e1f66b7e] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by DLRL under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -45,7 +45,7 @@ shall be entitled to recover from DLRL compensation in respect of expenditure re
 
 ### Apparatus of statutory undertakers, etc., in stopped up streets
 
-**2.**[^key-93f24fcec8fe4a5af8a8f0c1f17d2caa] (1) Where a street is stopped up under articles 12 or 13 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-93f24fcec8fe4a5af8a8f0c1f17d2caa] (1) Where a street is stopped up under articles 12 or 13 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) DLRL shall give not less than 28 days' notice in writing of its intention to stop up any street under articles 12 or 13 to any statutory utility whose apparatus is under, in, upon, over, along or across that street.
 
@@ -78,7 +78,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - (a) the allowable costs of the relocation works shall be determined in accordance with section 85 of that Act (sharing of costs of necessary measures) and any regulations for the time being having effect under that section; and
 - (b) the allowable costs shall be borne by DLRL and the statutory utility in such proportions as may be prescribed by any such regulations.
 
-(9) The temporary stopping up, alteration or diversion of any highway under article 13 of this Order shall not affect any right of an electronic communications code operator or a former PTO under Part 8[^key-753e21ad04797216124ae6ad269eb6b7] of the electronic communications code in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
+(9) The temporary stopping up, alteration or diversion of any highway under article 13 of this Order shall not affect any right of an electronic communications code operator or a former PTO under Part 8[^c-753e21ad04797216124ae6ad269eb6b7] of the electronic communications code in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
 
 (10) In this paragraph—
 
@@ -86,7 +86,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - “relocation works” means works executed, or apparatus provided, under sub-paragraph (3); and
 - “statutory utility” means a statutory undertaker for the purposes of the 1980 Act or an electronic communications code operator or a former PTO.
 
-**3.**[^key-0d6eac0dfe0fb4756f436c954cf11f54] (1) Subject to the following provisions of this paragraph, the powers under article 11 of this Order to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act)—
+**3.**[^c-0d6eac0dfe0fb4756f436c954cf11f54] (1) Subject to the following provisions of this paragraph, the powers under article 11 of this Order to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act)—
 
 - (a) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority, or
 - (b) forms part of a level crossing belonging to any such undertakers or to such an authority or to any other person,
@@ -101,10 +101,10 @@ except with the consent of the undertakers or authority or, as the case may be, 
 
 ## Annotations
 
-[^key-121f5865d77b341b7177ff81e1f66b7e]: Commencement: Sch. 9 para. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-121f5865d77b341b7177ff81e1f66b7e]: Commencement: Sch. 9 para. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
-[^key-93f24fcec8fe4a5af8a8f0c1f17d2caa]: Commencement: Sch. 9 para. 2 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-93f24fcec8fe4a5af8a8f0c1f17d2caa]: Commencement: Sch. 9 para. 2 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
-[^key-753e21ad04797216124ae6ad269eb6b7]: Textual amendment: Words in Sch. 9 para. 2(9) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/22/3)
+[^c-753e21ad04797216124ae6ad269eb6b7]: Textual amendment: Words in Sch. 9 para. 2(9) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/22/3)
 
-[^key-0d6eac0dfe0fb4756f436c954cf11f54]: Commencement: Sch. 9 para. 3 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-0d6eac0dfe0fb4756f436c954cf11f54]: Commencement: Sch. 9 para. 3 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

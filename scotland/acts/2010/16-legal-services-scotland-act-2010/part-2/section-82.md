@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Register of approved regulators[^key-ceefc625096fd10511c7eea4399c7fc6]
+## 82. Register of approved regulators[^c-ceefc625096fd10511c7eea4399c7fc6]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ceefc625096fd10511c7eea4399c7fc6]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2010/16/section/82) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-ceefc625096fd10511c7eea4399c7fc6]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2010/16/section/82) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

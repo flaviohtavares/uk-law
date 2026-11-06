@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Directions: procedure[^key-c48188089a0b5afcec07bbd011d2ae53]
+## 7. Directions: procedure[^c-c48188089a0b5afcec07bbd011d2ae53]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ it must give P written notice.
 
 ## Annotations
 
-[^key-c48188089a0b5afcec07bbd011d2ae53]: Commencement: Reg. 7 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/b)
+[^c-c48188089a0b5afcec07bbd011d2ae53]: Commencement: Reg. 7 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/b)
 
 [^f00029]: Footnote: Inserted by section 8(2) of the Financial Services and Markets Act 2023.

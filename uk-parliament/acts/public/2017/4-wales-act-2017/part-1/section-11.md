@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Introduction of Bills: justice impact assessment[^key-7cc249e59ca5c5f91e44f2af46abfb27]
+## 11. Introduction of Bills: justice impact assessment[^c-7cc249e59ca5c5f91e44f2af46abfb27]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After section 110 of the Government of Wales Act 2006 insert—
 
 ## Annotations
 
-[^key-7cc249e59ca5c5f91e44f2af46abfb27]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/4/section/11) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)
+[^c-7cc249e59ca5c5f91e44f2af46abfb27]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/4/section/11) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)

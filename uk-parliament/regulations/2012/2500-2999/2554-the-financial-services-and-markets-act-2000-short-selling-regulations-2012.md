@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012 (revoked)[^key-5dc1ce4ed1fb477b3b98bdca8efe9688]
+The Financial Services and Markets Act 2000 (Short Selling) Regulations 2012 (revoked)[^c-5dc1ce4ed1fb477b3b98bdca8efe9688]
 
 Made
 
@@ -90,4 +90,4 @@ Coming into force
 
 ## Annotations
 
-[^key-5dc1ce4ed1fb477b3b98bdca8efe9688]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2554) revoked (14.12.2023 for the revocation of reg. 8, 13.7.2026 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/ii); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/c)
+[^c-5dc1ce4ed1fb477b3b98bdca8efe9688]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2554) revoked (14.12.2023 for the revocation of reg. 8, 13.7.2026 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/ii); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/c)

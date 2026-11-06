@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred upon her by section 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-2491c3c5819ea95f809f9db46f765bea]
+### 1. Citation, commencement and interpretation[^c-2491c3c5819ea95f809f9db46f765bea]
 
 (1) These Regulations may be cited as the Companies Act 1985 (Operating and Financial Review and Directors' Report etc.) Regulations 2005.
 
@@ -61,7 +61,7 @@ The Secretary of State, in exercise of the powers conferred upon her by section 
 
 ## PART 2 — Directors' report
 
-### 2. Duty to prepare directors' report[^key-b80292d1401454bba2573e6c774d57e4]
+### 2. Duty to prepare directors' report[^c-b80292d1401454bba2573e6c774d57e4]
 
 For section 234 of the 1985 Act (duty to prepare directors' report)[^f00002] substitute—
 
@@ -137,13 +137,13 @@ For section 234 of the 1985 Act (duty to prepare directors' report)[^f00002] sub
 >
 > (6) In relation to a group directors' report this section has effect as if the references to the company were references to the company and its subsidiary undertakings included in the consolidation.
 
-### 3. Auditors' report on directors' report[^key-279cd51a85823d887aee8e7ea317794c]
+### 3. Auditors' report on directors' report[^c-279cd51a85823d887aee8e7ea317794c]
 
 In section 235 of the 1985 Act (auditors' report)[^f00003], for subsection (3) substitute—
 
 > (3) The auditors must state in their report whether in their opinion the information given in the directors' report for the financial year for which the annual accounts are prepared is consistent with those accounts.
 
-### 4. Special provision for small companies[^key-cd0fa0a5991226513b69fc0cff8459fa]
+### 4. Special provision for small companies[^c-cd0fa0a5991226513b69fc0cff8459fa]
 
 For paragraph (a) of section 246(4) of the 1985 Act (exemptions for small companies from disclosures in directors' report)[^f00004] substitute—
 
@@ -151,13 +151,13 @@ For paragraph (a) of section 246(4) of the 1985 Act (exemptions for small compan
 
 .
 
-### 5. Special provision for medium-sized companies[^key-de9903893a62c78e51a84800ad02e9d9]
+### 5. Special provision for medium-sized companies[^c-de9903893a62c78e51a84800ad02e9d9]
 
 After subsection (2) of section 246A of the 1985 Act (special provisions for medium-sized companies)[^f00005] insert—
 
 > (2A) The directors' report for the year need not comply with the requirements of section 234ZZB(3) (business review to include analysis using key performance indicators) so far as they relate to non-financial information.
 
-### 6. Cases in which special provisions for small and medium-sized companies do not apply[^key-2298043c5019397e3cd4666083fc6c58][^key-72c8a598bb1b49f4741a45841e15d970]
+### 6. Cases in which special provisions for small and medium-sized companies do not apply[^c-2298043c5019397e3cd4666083fc6c58][^c-72c8a598bb1b49f4741a45841e15d970]
 
 In section 247A of the 1985 Act (cases in which special provisions in sections 246 and 246A do not apply)[^f00006], for subsection (1) substitute—
 
@@ -174,7 +174,7 @@ In section 247A of the 1985 Act (cases in which special provisions in sections 2
 > - (b) it has permission under Part 4 of the Financial Services and Markets Act 2000 to carry on one or more regulated activities, or
 > - (c) it carries on an insurance market activity.
 
-### 7. Amendments to Schedule 7[^key-5efb091a6949756a6c56d21bebe072cf]
+### 7. Amendments to Schedule 7[^c-5efb091a6949756a6c56d21bebe072cf]
 
 (1) Schedule 7 to the 1985 Act (matters to be dealt with in directors' report) is amended as follows.
 
@@ -207,7 +207,7 @@ In section 247A of the 1985 Act (cases in which special provisions in sections 2
 
 ## PART 3 — Operating and financial reviews
 
-### 8. Duty to prepare operating and financial review[^key-618b916f02b40ace037329f72989dd69]
+### 8. Duty to prepare operating and financial review[^c-618b916f02b40ace037329f72989dd69]
 
 After section 234A of the 1985 Act (approval and signing of directors' report)[^f00010], insert—
 
@@ -250,7 +250,7 @@ After section 234A of the 1985 Act (approval and signing of directors' report)[^
 >
 > the company and every officer of it who is in default is guilty of an offence and liable to a fine.
 
-### 9. Objective and contents of operating and financial review[^key-670d9289464f02bcb55cc44af785e081]
+### 9. Objective and contents of operating and financial review[^c-670d9289464f02bcb55cc44af785e081]
 
 After Schedule 7 to the 1985 Act insert—
 
@@ -317,7 +317,7 @@ After Schedule 7 to the 1985 Act insert—
 >
 > **9.** In relation to a group operating and financial review this Schedule has effect as if the references to the company (other than the last such reference in paragraph 1) were references to the company and its subsidiary undertakings included in the consolidation.
 
-### 10. Auditors' reports on operating and financial reviews[^key-b00ef4eb0a5a83c8ca71ad13c96e73ee]
+### 10. Auditors' reports on operating and financial reviews[^c-b00ef4eb0a5a83c8ca71ad13c96e73ee]
 
 In section 235 of the 1985 Act (auditors' report), after subsection (3) insert—
 
@@ -326,7 +326,7 @@ In section 235 of the 1985 Act (auditors' report), after subsection (3) insert�
 > - (a) whether in their opinion the information given in the operating and financial review for the financial year for which the annual accounts are prepared is consistent with those accounts; and
 > - (b) whether any matters have come to their attention, in the performance of their functions as auditors of the company, which in their opinion are inconsistent with the information given in the operating and financial review.
 
-### 11. Reporting standards for operating and financial reviews[^key-10833a46da56cd605b8b38b77540dead]
+### 11. Reporting standards for operating and financial reviews[^c-10833a46da56cd605b8b38b77540dead]
 
 After section 256 of the 1985 Act (accounting standards)[^f00011] insert—
 
@@ -343,7 +343,7 @@ After section 256 of the 1985 Act (accounting standards)[^f00011] insert—
 
 ## PART 4 — Summary financial statements
 
-### 12. Summary financial statements[^key-53edcb37a00e9fabb3283878754e8e6c]
+### 12. Summary financial statements[^c-53edcb37a00e9fabb3283878754e8e6c]
 
 (1) Section 251 of the 1985 Act (summary financial statements)[^f00012] is amended as follows.
 
@@ -412,7 +412,7 @@ After section 256 of the 1985 Act (accounting standards)[^f00011] insert—
 
   .
 
-### 13. Transitional provision[^key-e3d61948576231b33a80a80d54a0233c]
+### 13. Transitional provision[^c-e3d61948576231b33a80a80d54a0233c]
 
 As respects companies' financial years beginning on or after 1st April 2005, regulations made by the Secretary of State under section 251 of the 1985 Act before the date on which these Regulations come into force have effect as if—
 
@@ -421,7 +421,7 @@ As respects companies' financial years beginning on or after 1st April 2005, reg
 
 ## PART 5 — Revision of defective reports and reviews
 
-### 14. Voluntary revision of defective reports and reviews[^key-ccd333586300995c1a03ed61bdbfb2b2]
+### 14. Voluntary revision of defective reports and reviews[^c-ccd333586300995c1a03ed61bdbfb2b2]
 
 (1) Section 245 of the 1985 Act (voluntary revision of defective accounts, statements and reports)[^f00013] is amended as follows.
 
@@ -441,7 +441,7 @@ As respects companies' financial years beginning on or after 1st April 2005, reg
 - (a) for “or report” (in the first place it occurs ) substitute “, report or review”;
 - (b) for “based on the previous accounts or report” substitute “containing information derived from the previous accounts, report or review”.
 
-### 15. Secretary of State’s notice in respect of reports and reviews[^key-dafeb615c1a45ec84715d76c2aab5f0f]
+### 15. Secretary of State’s notice in respect of reports and reviews[^c-dafeb615c1a45ec84715d76c2aab5f0f]
 
 (1) Section 245A of the 1985 Act (Secretary of State’s notice in respect of annual accounts)[^f00014] is amended as follows.
 
@@ -468,7 +468,7 @@ As respects companies' financial years beginning on or after 1st April 2005, reg
 
 > (4) The provisions of this section apply equally to revised annual accounts, revised directors' reports and revised operating and financial reviews, in which case they have effect as if the references to revised accounts, reports or reviews were references to further revised accounts, reports or reviews.
 
-### 16. Application to court in respect of defective reports and reviews[^key-8d0d5dc18b020e73982c3901c7362171]
+### 16. Application to court in respect of defective reports and reviews[^c-8d0d5dc18b020e73982c3901c7362171]
 
 (1) Section 245B of the 1985 Act (application to court in respect of defective accounts)[^f00015] is amended as follows.
 
@@ -501,20 +501,20 @@ As respects companies' financial years beginning on or after 1st April 2005, reg
 
 > (7) The provisions of this section apply equally to revised annual accounts, revised directors' reports and revised operating and financial reviews, in which case they have effect as if the references to revised accounts, reports or reviews were references to further revised accounts, reports or reviews.
 
-### 17. Persons authorised to apply to court in connection with defective reports and reviews[^key-cebf3809c2ea4b1befa168488bd739ac]
+### 17. Persons authorised to apply to court in connection with defective reports and reviews[^c-cebf3809c2ea4b1befa168488bd739ac]
 
 In subsection (1) of section 245C of the 1985 Act (other persons authorised to apply to court)[^f00016]—
 
 - (a) in paragraph (a), for “the accounting requirements of this Act” substitute “the requirements of this Act relating to accounts, directors' reports and operating and financial reviews”; and
 - (b) in paragraph (b), for “annual accounts of companies” substitute “companies' annual accounts, directors' reports and operating and financial reviews”.
 
-### 18. Power of person authorised to require documents, information and explanations[^key-07713a7f130b6fcb92bce2248a89a63a]
+### 18. Power of person authorised to require documents, information and explanations[^c-07713a7f130b6fcb92bce2248a89a63a]
 
 In subsection (1) of section 245F of the 1985 Act (power of person authorised to require documents, information and explanations)[^f00017] for “annual accounts of a company” substitute “ a company’s annual accounts, directors' report or operating and financial review”.
 
 ## PART 6 — Minor and consequential amendments
 
-**19.**[^key-49b80c108cdd96f802d8e503e5f441c8] The Schedule to these Regulations makes minor and consequential amendments.
+**19.**[^c-49b80c108cdd96f802d8e503e5f441c8] The Schedule to these Regulations makes minor and consequential amendments.
 
 Jacqui Smith
 
@@ -528,9 +528,9 @@ Department of Trade and Industry
 
 Regulation 19
 
-**1.**[^key-d3993b1d8d3881dd5bd1e9305b6b9a61] The following minor and consequential amendments to the 1985 Act have effect.
+**1.**[^c-d3993b1d8d3881dd5bd1e9305b6b9a61] The following minor and consequential amendments to the 1985 Act have effect.
 
-**2.**[^key-cdcb9d986d5f1bd3a981e9251b31d8af] In subsection (1A) of section 238 (persons entitled to receive copies of accounts and reports)[^f00018]—
+**2.**[^c-cdcb9d986d5f1bd3a981e9251b31d8af] In subsection (1A) of section 238 (persons entitled to receive copies of accounts and reports)[^f00018]—
 
 - (a) after paragraph (b) insert—
 
@@ -541,7 +541,7 @@ Regulation 19
 
   > - (d) the auditors' report on those accounts and that directors' report and (in the case of a quoted company) on that operating and financial review and the auditable part of that directors' remuneration report.
 
-**3.**[^key-8b131aace0fa4983f226a0ff39f8f2bd] In subsection (1) of section 239 (right to demand copies of accounts and reports)[^f00019]—
+**3.**[^c-8b131aace0fa4983f226a0ff39f8f2bd] In subsection (1) of section 239 (right to demand copies of accounts and reports)[^f00019]—
 
 - (a) after paragraph (b) insert—
 
@@ -552,7 +552,7 @@ Regulation 19
 
   > - (d) the auditors' report on those accounts and that directors' report and (in the case of a quoted company) on that operating and financial review and the auditable part of that directors' remuneration report.
 
-**4.**[^key-58ade8dca61e4985cf879e16f89fe320] In subsection (1) of section 241 (accounts and reports to be laid before company in general meeting)[^f00020]—
+**4.**[^c-58ade8dca61e4985cf879e16f89fe320] In subsection (1) of section 241 (accounts and reports to be laid before company in general meeting)[^f00020]—
 
 - (a) after paragraph (b) insert—
 
@@ -563,7 +563,7 @@ Regulation 19
 
   > - (d) the auditors' report on those accounts and that directors' report and (in the case of a quoted company) on that operating and financial review and the auditable part of that directors' remuneration report.
 
-**5.**[^key-0a4fd820dcfecee98d4ee07174712a83] In subsection (1) of section 242 (accounts and reports to be delivered to the registrar)[^f00021]—
+**5.**[^c-0a4fd820dcfecee98d4ee07174712a83] In subsection (1) of section 242 (accounts and reports to be delivered to the registrar)[^f00021]—
 
 - (a) after paragraph (b) insert—
 
@@ -579,9 +579,9 @@ Regulation 19
 
   > If any document comprised in those accounts or reports is in a language other than English then, subject to section 710B(6) (delivery of certain Welsh documents without a translation), the directors must annex to the copy of that document delivered a translation of it into English, certified in the prescribed manner to be a correct translation.
 
-**6.**[^key-0d94bc481a715cf739207d99c782168e] In subsection (1) of section 245F (power of person authorised to require documents, information and explanations) after “requirements of this Act” insert “(or, where applicable, of Article 4 of the IAS Regulation)”.
+**6.**[^c-0d94bc481a715cf739207d99c782168e] In subsection (1) of section 245F (power of person authorised to require documents, information and explanations) after “requirements of this Act” insert “(or, where applicable, of Article 4 of the IAS Regulation)”.
 
-**7.**[^key-438f4457142fe448132460fb091e6242] In the Table in section 262A (defined expressions)[^f00022], at the appropriate places insert—
+**7.**[^c-438f4457142fe448132460fb091e6242] In the Table in section 262A (defined expressions)[^f00022], at the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -603,7 +603,7 @@ Regulation 19
 > | --- | --- |
 > | reporting standards and relevant reporting standards | section 256A |
 
-**8.**[^key-e3aeb223ee02d05e7bc14947de1393aa] In Schedule 24 (table of punishment of offences under the 1985 Act), after the entry for section 234A(4)[^f00023] insert—
+**8.**[^c-e3aeb223ee02d05e7bc14947de1393aa] In Schedule 24 (table of punishment of offences under the 1985 Act), after the entry for section 234A(4)[^f00023] insert—
 
 > |  |  |  |  |
 > | --- | --- | --- | --- |
@@ -648,31 +648,31 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); section 257 was substituted by section 20 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), and amended by section 13 of the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27).
 
-[^key-2491c3c5819ea95f809f9db46f765bea]: Commencement: Reg. 1 in force at 22.3.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-2491c3c5819ea95f809f9db46f765bea]: Commencement: Reg. 1 in force at 22.3.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-b80292d1401454bba2573e6c774d57e4]: Commencement: Reg. 2 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-b80292d1401454bba2573e6c774d57e4]: Commencement: Reg. 2 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00002]: Footnote: Section 234 was substituted by section 8(1) of the Companies Act 1989, and amended by regulation 5 of S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189), by regulation 2 of S.I. [1997/571](https://www.legislation.gov.uk/uksi/1997/571), and by section 9(2) of the Companies (Audit, Investigations and Community Enterprise) Act 2004. Section 234ZA was inserted by section 9(3) of the Companies (Audit, Investigations and Community Enterprise) Act 2004.
 
-[^key-279cd51a85823d887aee8e7ea317794c]: Commencement: Reg. 3 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-279cd51a85823d887aee8e7ea317794c]: Commencement: Reg. 3 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00003]: Footnote: Section 235 was substituted by section 9 of the Companies Act 1989, and amended by regulation 4 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulation 6 of S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-cd0fa0a5991226513b69fc0cff8459fa]: Commencement: Reg. 4 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-cd0fa0a5991226513b69fc0cff8459fa]: Commencement: Reg. 4 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00004]: Footnote: Section 246 was substituted by regulation 2(1) of S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), and amended by regulation 6(1) of S.I. [1997/570](https://www.legislation.gov.uk/uksi/1997/570), by regulation 8(1) of S.I. [2000/1430](https://www.legislation.gov.uk/uksi/2000/1430) and by regulations 3 and 13(2) of, and paragraph 12 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-de9903893a62c78e51a84800ad02e9d9]: Commencement: Reg. 5 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-de9903893a62c78e51a84800ad02e9d9]: Commencement: Reg. 5 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00005]: Footnote: Section 246A was inserted by regulation 3 of S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), and amended by regulation 3 of, and paragraph 13 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-2298043c5019397e3cd4666083fc6c58]: Commencement: Reg. 6 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-2298043c5019397e3cd4666083fc6c58]: Commencement: Reg. 6 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-72c8a598bb1b49f4741a45841e15d970]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1011/regulation/6) applied (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (Investment Companies and Accounting and Audit Amendments) Regulations 2005 (S.I. 2005/2280)](https://www.legislation.gov.uk/uksi/2005/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2280/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2005/2280/regulation/14)
+[^c-72c8a598bb1b49f4741a45841e15d970]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1011/regulation/6) applied (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (Investment Companies and Accounting and Audit Amendments) Regulations 2005 (S.I. 2005/2280)](https://www.legislation.gov.uk/uksi/2005/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2280/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2005/2280/regulation/14)
 
 [^f00006]: Footnote: Section 247A was inserted by regulation 4 of S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), and amended by article 11 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-5efb091a6949756a6c56d21bebe072cf]: Commencement: Reg. 7 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-5efb091a6949756a6c56d21bebe072cf]: Commencement: Reg. 7 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00007]: Footnote: Paragraph 1 of Schedule 7 was amended by regulations 14(4)(a) and 15(3) of S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189).
 
@@ -680,70 +680,70 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00009]: Footnote: Paragraph 6 was amended by section 8(2) of, and paragraph 2(2) of Schedule 5 to, the Companies Act 1989, and by regulations 3 and 8(a) of S.I. [1992/3178](https://www.legislation.gov.uk/uksi/1992/3178).
 
-[^key-618b916f02b40ace037329f72989dd69]: Commencement: Reg. 8 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-618b916f02b40ace037329f72989dd69]: Commencement: Reg. 8 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00010]: Footnote: Section 234A was inserted by section 8(1) of the Companies Act 1989.
 
-[^key-670d9289464f02bcb55cc44af785e081]: Commencement: Reg. 9 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-670d9289464f02bcb55cc44af785e081]: Commencement: Reg. 9 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-b00ef4eb0a5a83c8ca71ad13c96e73ee]: Commencement: Reg. 10 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-b00ef4eb0a5a83c8ca71ad13c96e73ee]: Commencement: Reg. 10 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-10833a46da56cd605b8b38b77540dead]: Commencement: Reg. 11 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-10833a46da56cd605b8b38b77540dead]: Commencement: Reg. 11 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00011]: Footnote: Section 256 was substituted by section 19 of the Companies Act 1989.
 
-[^key-53edcb37a00e9fabb3283878754e8e6c]: Commencement: Reg. 12 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-53edcb37a00e9fabb3283878754e8e6c]: Commencement: Reg. 12 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00012]: Footnote: Section 251 was substituted by section 15 of the Companies Act 1989, and amended by regulation 3 of S.I. [1992/3003](https://www.legislation.gov.uk/uksi/1992/3003), by article 14 of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), by article 15 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), by regulation 8 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986), and by regulation 11 of S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-e3d61948576231b33a80a80d54a0233c]: Commencement: Reg. 13 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-e3d61948576231b33a80a80d54a0233c]: Commencement: Reg. 13 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-ccd333586300995c1a03ed61bdbfb2b2]: Commencement: Reg. 14 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(a)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-ccd333586300995c1a03ed61bdbfb2b2]: Commencement: Reg. 14 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(a)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00013]: Footnote: Section 245 was substituted by section 12 of the Companies Act 1989, and amended by regulation 4 of, and paragraph 2 in Part 1 of Schedule 1 to, S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935), by regulation 10(9) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulations 3 and 10 of, and paragraph 11 of Schedule 1 to, [S.I. 2004/ 2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-dafeb615c1a45ec84715d76c2aab5f0f]: Commencement: Reg. 15 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-dafeb615c1a45ec84715d76c2aab5f0f]: Commencement: Reg. 15 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00014]: Footnote: Section 245A was inserted by section 12 of the Companies Act 1989, and amended by regulation 3 of, and paragraph 11 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-8d0d5dc18b020e73982c3901c7362171]: Commencement: Reg. 16 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-8d0d5dc18b020e73982c3901c7362171]: Commencement: Reg. 16 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00015]: Footnote: Section 245B was inserted by section 12 of the Companies Act 1989, and amended by regulation 10 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986) and by regulation 3 of, and paragraph 11 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-cebf3809c2ea4b1befa168488bd739ac]: Commencement: Reg. 17 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-cebf3809c2ea4b1befa168488bd739ac]: Commencement: Reg. 17 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00016]: Footnote: Section 245C was inserted by section 12 of the Companies Act 1989, and amended by sections 10 and 64 of, and Schedule 8 to, the Companies (Audit, Investigations and Community Enterprise) Act 2004 and by regulation 3 of, and paragraph 11 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-07713a7f130b6fcb92bce2248a89a63a]: Commencement: Reg. 18 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-07713a7f130b6fcb92bce2248a89a63a]: Commencement: Reg. 18 in force at 22.3.2005 (with effect in accordance with reg. 1(4)(b)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00017]: Footnote: Section 245F was inserted by section 12 of the Companies (Audit, Investigations and Community Enterprise) Act 2004.
 
-[^key-49b80c108cdd96f802d8e503e5f441c8]: Commencement: Reg. 19 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-49b80c108cdd96f802d8e503e5f441c8]: Commencement: Reg. 19 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-d3993b1d8d3881dd5bd1e9305b6b9a61]: Commencement: Sch. para. 1 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-d3993b1d8d3881dd5bd1e9305b6b9a61]: Commencement: Sch. para. 1 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-cdcb9d986d5f1bd3a981e9251b31d8af]: Commencement: Sch. para. 2 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-cdcb9d986d5f1bd3a981e9251b31d8af]: Commencement: Sch. para. 2 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00018]: Footnote: Section 238 was substituted by section 10 of the Companies Act 1989, and amended by article 12 of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), and by regulation 10(4) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
 
-[^key-8b131aace0fa4983f226a0ff39f8f2bd]: Commencement: Sch. para. 3 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-8b131aace0fa4983f226a0ff39f8f2bd]: Commencement: Sch. para. 3 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00019]: Footnote: Section 239 was substituted by section 10 of the Companies Act 1989, and amended by article 13 of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373) and by regulation 10(6) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
 
-[^key-58ade8dca61e4985cf879e16f89fe320]: Commencement: Sch. para. 4 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-58ade8dca61e4985cf879e16f89fe320]: Commencement: Sch. para. 4 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00020]: Footnote: Section 241 was substituted by section 11 of the Companies Act 1989, and amended by regulation 10(7) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
 
-[^key-0a4fd820dcfecee98d4ee07174712a83]: Commencement: Sch. para. 5 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-0a4fd820dcfecee98d4ee07174712a83]: Commencement: Sch. para. 5 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00021]: Footnote: Section 242 was substituted by section 11 of the Companies Act 1989, and amended by sections 30(1) and (4) and 35(1) of, and Schedule 2 to, the Welsh Language Act [1993 (c. 38)](https://www.legislation.gov.uk/ukpga/1993/38), and by regulation 10(8) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
 
-[^key-0d94bc481a715cf739207d99c782168e]: Commencement: Sch. para. 6 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-0d94bc481a715cf739207d99c782168e]: Commencement: Sch. para. 6 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
-[^key-438f4457142fe448132460fb091e6242]: Commencement: Sch. para. 7 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-438f4457142fe448132460fb091e6242]: Commencement: Sch. para. 7 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00022]: Footnote: Section 262A was inserted by section 22 of the Companies Act 1989, and amended by regulation 6 of, and paragraph 3 of Schedule 2 to, S.I. [1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), by regulation 5 of, and paragraph 5 of Schedule 2 to, S.I. [1993/3246](https://www.legislation.gov.uk/uksi/1993/3246), by regulation 4(2) of S.I. [1994/233](https://www.legislation.gov.uk/uksi/1994/233), by regulation 4 of, and paragraph 3 of Schedule 1 to, S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935), by regulation 12(2) of S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189), by regulation 7 of S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220), by regulation 4(4) of S.I. [1997/2306](https://www.legislation.gov.uk/uksi/1997/2306), by article 16(2) of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), by regulation 10 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986), and by regulation 3 of, and paragraph 21 of Schedule 1 to, S.I. [2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
 
-[^key-e3aeb223ee02d05e7bc14947de1393aa]: Commencement: Sch. para. 8 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
+[^c-e3aeb223ee02d05e7bc14947de1393aa]: Commencement: Sch. para. 8 in force at 22.3.2005 (with effect in accordance with reg. 1(3)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/1011/regulation/1/2)
 
 [^f00023]: Footnote: The entry for section 234A(4) was inserted by section 23 of, and paragraph 24 of Schedule 10 to, the Companies Act 1989.

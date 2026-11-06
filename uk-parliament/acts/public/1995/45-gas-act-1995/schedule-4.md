@@ -38,11 +38,11 @@ Section 16(1).
 - (vi) the [^c1212101]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951;
 - (vii) the [^c1212102]Landlord and Tenant Act 1954;
 - (viii) the [^c1212103]Opencast Coal Act 1958;
-- (ix) the *(Extent: S)* *(affected by repeal, see note)*[^key-167c25edd6922f810d9013ffaba68744] [^c1212104]Flood Prevention (Scotland) Act 1961; *(Extent: S)* *(affected by repeal, see note)*[^key-167c25edd6922f810d9013ffaba68744]
+- (ix) the *(Extent: S)* *(affected by repeal, see note)*[^c-167c25edd6922f810d9013ffaba68744] [^c1212104]Flood Prevention (Scotland) Act 1961; *(Extent: S)* *(affected by repeal, see note)*[^c-167c25edd6922f810d9013ffaba68744]
 - (x) section 17(10) of the [^c1212105]Public Health Act 1961;
 - (xi) the [^c1212106]Pipe-lines Act 1962;
 - (xii) Schedule 3 to the [^c1212107]Harbours Act 1964;
-- (xiii) section 40 of the *(Extent: S)* *(affected by repeal, see note)*[^key-d6782ef6b878fe2e3e3a49a8aba4dffe] [^c1212108]Forestry Act 1967; *(Extent: S)* *(affected by repeal, see note)*[^key-d6782ef6b878fe2e3e3a49a8aba4dffe]
+- (xiii) section 40 of the *(Extent: S)* *(affected by repeal, see note)*[^c-d6782ef6b878fe2e3e3a49a8aba4dffe] [^c1212108]Forestry Act 1967; *(Extent: S)* *(affected by repeal, see note)*[^c-d6782ef6b878fe2e3e3a49a8aba4dffe]
 - (xiv) section 50 of the [^c1212109]Agriculture Act 1967;
 - (xv) sections 38 and 66 of the [^c1212110]Countryside (Scotland) Act 1967;
 - (xvi) the [^c1212111]New Towns (Scotland) Act 1968;
@@ -65,7 +65,7 @@ Section 16(1).
 - (xxxiii) section 30 of the [^c1212130]Local Government (Miscellaneous Provisions) Act 1982;
 - (xxxiv) the [^c1212131]Roads (Scotland) Act 1984;
 - (xxxv) the [^c1212132]Building Act 1984;
-- (xxxvi) section[^key-18a1114c8cb1fa2f9a5f77911c7aa1dc] 296 of the [^c1212133]Housing Act 1985;
+- (xxxvi) section[^c-18a1114c8cb1fa2f9a5f77911c7aa1dc] 296 of the [^c1212133]Housing Act 1985;
 - (xxxvii) section 21 of the [^c1212134]Road Traffic Act 1988.
 - (xxxviii) section 9 of the [^c1212135]Enterprise and New Towns (Scotland) Act 1990;
 - (xxxix) section 7(5) of the [^c1212136]Natural Heritage (Scotland) Act 1991.
@@ -92,17 +92,17 @@ Section 16(1).
 
 (4) References in the [^c1212150]Landlord and Tenant Act 1927 to a statutory company shall be deemed to include references to a public gas transporter.
 
-(5)[^key-8d65cee13b06298fcc4b8ddf2519462b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8d65cee13b06298fcc4b8ddf2519462b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) References to public utility undertakers in the [^c1212152]Highways Act 1980 shall be deemed to include references to a public gas transporter.
 
-(7) Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^key-e6f7f1248a0d3ce951f4e512600e336c] shall apply to a public gas transporter for the purposes of any works carried out by him.
+(7) Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^c-e6f7f1248a0d3ce951f4e512600e336c] shall apply to a public gas transporter for the purposes of any works carried out by him.
 
 (8) The reference in section 82(4) of the [^c1212154]Building Act 1984 (provisions with respect to demolition orders) to a person authorised by an enactment to carry on an undertaking for the supply of gas shall be construed as a reference to a public gas transporter.
 
 (9) References to public undertakers in section 125(7) of, and paragraphs 9 and 10 of Schedule 8 to, the [^c1212155]Housing (Scotland) Act 1987 shall be deemed to include references to a public gas transporter.
 
-(10)[^key-b56a7c6ee64da01731562f641e0a05f1] In the following enactments, namely—
+(10)[^c-b56a7c6ee64da01731562f641e0a05f1] In the following enactments, namely—
 
 - (a) section 39 of the [^c1212156]Opencast Coal Act 1958;
 - (b) paragraph 2 of Schedule 6 to the [^c1212157]Gas Act 1965;
@@ -272,7 +272,7 @@ Section 16(1).
 
 ### Energy Act 1976 (c.76)
 
-**11.** (1)[^key-2d286b5b5daa3d0f308018a93ff5056a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.** (1)[^c-2d286b5b5daa3d0f308018a93ff5056a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (2) of section 12 of that Act (disposal of gas by flaring, etc), for the words “except gas supplied by a public gas supplier” there shall be substituted the words “ except gas conveyed through pipes to premises by a public gas transporter ”.
 
@@ -285,7 +285,7 @@ Section 16(1).
 
 ### Bankruptcy (Scotland) Act 1985 (c.66)
 
-**13.**[^key-dec04776338f21b98bd1a4a5fe0da496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-dec04776338f21b98bd1a4a5fe0da496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c.45)
 
@@ -307,7 +307,7 @@ Section 16(1).
 
 ### Consumer Protection Act 1987 (c.43)
 
-**15.** (1)[^key-35ca1dd91347e37d03d3cd69f4017e32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.** (1)[^c-35ca1dd91347e37d03d3cd69f4017e32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph (c) of subsection (7) of section 11 of that Act (safety regulations), for the words “section 6, 7 or 8” to the end there shall be substituted the following words “ section 7A of the Gas Act 1986 (licensing of gas suppliers and gas shippers) or paragraph 5 of Schedule 2A to that Act (supply to very large customers an exception to prohibition on unlicensed activities). ”
 
@@ -380,7 +380,7 @@ Section 16(1).
 
 [^c1212103]: Marginal citation: [1958 c.69](https://www.legislation.gov.uk/ukpga/1958/69).
 
-[^key-167c25edd6922f810d9013ffaba68744]: Textual amendment: Sch. 4 para. 2(1)(ix) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/8) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-167c25edd6922f810d9013ffaba68744]: Textual amendment: Sch. 4 para. 2(1)(ix) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/8) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
 
 [^c1212104]: Marginal citation: [1961 c.41](https://www.legislation.gov.uk/ukpga/1961/41).
 
@@ -390,7 +390,7 @@ Section 16(1).
 
 [^c1212107]: Marginal citation: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-d6782ef6b878fe2e3e3a49a8aba4dffe]: Textual amendment: Sch. 4 para. 2(1)(xiii) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-d6782ef6b878fe2e3e3a49a8aba4dffe]: Textual amendment: Sch. 4 para. 2(1)(xiii) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c1212108]: Marginal citation: [1967 c.10](https://www.legislation.gov.uk/ukpga/1967/10).
 
@@ -442,7 +442,7 @@ Section 16(1).
 
 [^c1212132]: Marginal citation: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55).
 
-[^key-18a1114c8cb1fa2f9a5f77911c7aa1dc]: Textual amendment: Word in Sch. 4 para. 2(1)(xxxvi) substituted (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 15 para. 39](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/39); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-18a1114c8cb1fa2f9a5f77911c7aa1dc]: Textual amendment: Word in Sch. 4 para. 2(1)(xxxvi) substituted (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 15 para. 39](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/39); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
 [^c1212133]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -480,17 +480,17 @@ Section 16(1).
 
 [^c1212150]: Marginal citation: [1972 c.36](https://www.legislation.gov.uk/ukpga/1972/36).
 
-[^key-8d65cee13b06298fcc4b8ddf2519462b]: Textual amendment: Sch. 4 para. 2(5) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-8d65cee13b06298fcc4b8ddf2519462b]: Textual amendment: Sch. 4 para. 2(5) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
 [^c1212152]: Marginal citation: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-e6f7f1248a0d3ce951f4e512600e336c]: Textual amendment: Words in Sch. 4 para. 2(7) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 37](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/37); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-e6f7f1248a0d3ce951f4e512600e336c]: Textual amendment: Words in Sch. 4 para. 2(7) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 37](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/37); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c1212154]: Marginal citation: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55).
 
 [^c1212155]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-b56a7c6ee64da01731562f641e0a05f1]: Modification: Sch. 4 para. 2(10): transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(e)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/e)
+[^c-b56a7c6ee64da01731562f641e0a05f1]: Modification: Sch. 4 para. 2(10): transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(e)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/e)
 
 [^c1212156]: Marginal citation: [1958 c.69](https://www.legislation.gov.uk/ukpga/1958/69).
 
@@ -532,8 +532,8 @@ Section 16(1).
 
 [^c1212175]: Marginal citation: [1962 c.58](https://www.legislation.gov.uk/ukpga/1962/58).
 
-[^key-2d286b5b5daa3d0f308018a93ff5056a]: Textual amendment: [Sch. 4 para. 11(1)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/11/1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 17(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/17/b)
+[^c-2d286b5b5daa3d0f308018a93ff5056a]: Textual amendment: [Sch. 4 para. 11(1)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/11/1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 17(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/17/b)
 
-[^key-dec04776338f21b98bd1a4a5fe0da496]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/13) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-dec04776338f21b98bd1a4a5fe0da496]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/13) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
-[^key-35ca1dd91347e37d03d3cd69f4017e32]: Textual amendment: [Sch. 4 para. 15(1)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/15/1) omitted (1.10.2005) by virtue of [The General Product Safety Regulations 2005 (S.I. 2005/1803)](https://www.legislation.gov.uk/uksi/2005/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1803/regulation/1/1), [47(1)](https://www.legislation.gov.uk/uksi/2005/1803/regulation/47/1)
+[^c-35ca1dd91347e37d03d3cd69f4017e32]: Textual amendment: [Sch. 4 para. 15(1)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/15/1) omitted (1.10.2005) by virtue of [The General Product Safety Regulations 2005 (S.I. 2005/1803)](https://www.legislation.gov.uk/uksi/2005/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1803/regulation/1/1), [47(1)](https://www.legislation.gov.uk/uksi/2005/1803/regulation/47/1)

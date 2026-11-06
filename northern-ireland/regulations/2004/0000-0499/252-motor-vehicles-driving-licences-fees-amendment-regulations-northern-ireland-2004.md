@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-32c88acdf4258c1c298816dc61d5b1fc]
+Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-32c88acdf4258c1c298816dc61d5b1fc]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st July 2004
 
-[^key-32c88acdf4258c1c298816dc61d5b1fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32c88acdf4258c1c298816dc61d5b1fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-32c88acdf4258c1c298816dc61d5b1fc]
+## 1. Citation and commencement[^c-32c88acdf4258c1c298816dc61d5b1fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^key-32c88acdf4258c1c298816dc61d5b1fc]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^c-32c88acdf4258c1c298816dc61d5b1fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32c88acdf4258c1c298816dc61d5b1fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32c88acdf4258c1c298816dc61d5b1fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32c88acdf4258c1c298816dc61d5b1fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32c88acdf4258c1c298816dc61d5b1fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32c88acdf4258c1c298816dc61d5b1fc]: Textual amendment: Regulations revoked (22.11.2007) by [The Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/435)](https://www.legislation.gov.uk/nisr/2007/435), [regs. 1](https://www.legislation.gov.uk/nisr/2007/435/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/435/regulation/3)
+[^c-32c88acdf4258c1c298816dc61d5b1fc]: Textual amendment: Regulations revoked (22.11.2007) by [The Motor Vehicles (Driving Licences) (Fees) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/435)](https://www.legislation.gov.uk/nisr/2007/435), [regs. 1](https://www.legislation.gov.uk/nisr/2007/435/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/435/regulation/3)

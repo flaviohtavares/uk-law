@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Preservation of right of appeal under Friendly Societies Act[^key-bd1cd400456a6d48478baf5e098b8aee]
+## 119. Preservation of right of appeal under Friendly Societies Act[^c-bd1cd400456a6d48478baf5e098b8aee]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ an appeal may be brought against that decision under section 58(1) or (2) of the
 
 ## Annotations
 
-[^key-bd1cd400456a6d48478baf5e098b8aee]: Commencement: Art. 119 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-bd1cd400456a6d48478baf5e098b8aee]: Commencement: Art. 119 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

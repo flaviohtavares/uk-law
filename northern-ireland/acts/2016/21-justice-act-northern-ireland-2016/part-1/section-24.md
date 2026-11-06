@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Offences[^key-38a43fff133b05f69fac126974161fc0]
+## 24. Offences[^c-38a43fff133b05f69fac126974161fc0]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-38a43fff133b05f69fac126974161fc0]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/21/section/24) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-38a43fff133b05f69fac126974161fc0]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/21/section/24) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

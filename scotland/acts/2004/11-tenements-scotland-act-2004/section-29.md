@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Interpretation[^key-091fdc38502cc66fa8d2e82f84902364]
+## 29. Interpretation[^c-091fdc38502cc66fa8d2e82f84902364]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
 - “**owner**” shall be construed in accordance with section 28 of this Act;
 - “**power of sale order**” means an order granted under paragraph 1 of schedule 3 to this Act;
-- “**register**”, in relation to a notice of potential liability for costs , a notice of discharge[^key-cc8debcee4f008ba12983553f6143063] or power of sale order, means register the information contained in the notice or order in the Land Register of Scotland or, as appropriate, record the notice or order in the Register of Sasines, and “registered” and other related expressions shall be construed accordingly;
+- “**register**”, in relation to a notice of potential liability for costs , a notice of discharge[^c-cc8debcee4f008ba12983553f6143063] or power of sale order, means register the information contained in the notice or order in the Land Register of Scotland or, as appropriate, record the notice or order in the Register of Sasines, and “registered” and other related expressions shall be construed accordingly;
 - “**sector**” means—
   - (a) a flat;
   - (b) any close or lift; or
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-091fdc38502cc66fa8d2e82f84902364]: Commencement: S. 29 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-091fdc38502cc66fa8d2e82f84902364]: Commencement: S. 29 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
 
-[^key-cc8debcee4f008ba12983553f6143063]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2004/11/section/29/1) inserted (13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 86(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/86/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-cc8debcee4f008ba12983553f6143063]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2004/11/section/29/1) inserted (13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 86(2)(b)](https://www.legislation.gov.uk/asp/2014/14/section/86/2/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Measures to be taken into account in respect of vehicles[^key-1f8fb2b050358c1aad15080a9f182eab]
+## 14. Measures to be taken into account in respect of vehicles[^c-1f8fb2b050358c1aad15080a9f182eab]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In exercising powers under regulations 10 to 13 the Department must take into ac
 
 ## Annotations
 
-[^key-1f8fb2b050358c1aad15080a9f182eab]: Commencement: Reg. 14 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-1f8fb2b050358c1aad15080a9f182eab]: Commencement: Reg. 14 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

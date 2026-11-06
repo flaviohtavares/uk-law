@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Interest on tax overdue[^key-e0507464d5b66ccad0f88c6bb2a993e5]
+## 39. Interest on tax overdue[^c-e0507464d5b66ccad0f88c6bb2a993e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 82(6) (interest on tax overdue)—
 
 ## Annotations
 
-[^key-e0507464d5b66ccad0f88c6bb2a993e5]: Commencement: Reg. 39 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-e0507464d5b66ccad0f88c6bb2a993e5]: Commencement: Reg. 39 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

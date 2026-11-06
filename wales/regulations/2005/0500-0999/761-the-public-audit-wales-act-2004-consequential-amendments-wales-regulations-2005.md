@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred by the enactments specified in the Schedule to this instrument, hereby makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-9a3315c8bc671ad26a3e1cf529aed46e]
+## 1. Citation, commencement and application[^c-9a3315c8bc671ad26a3e1cf529aed46e]
 
 (1) These Regulations may be cited as the Public Audit (Wales) Act 2004 (Consequential Amendments) (Wales) Regulations 2005 and come into force on 1 April 2005.
 
 (2) These Regulations apply in relation to Wales only.
 
-## 2. Subordinate legislation amended[^key-3677714a6c0d011710d55dce3def8913]
+## 2. Subordinate legislation amended[^c-3677714a6c0d011710d55dce3def8913]
 
 (1) The National Health Service Trusts (Public Meetings) Regulations 1991[^f00001] are amended as follows.
 
@@ -60,14 +60,14 @@ The National Assembly for Wales, in exercise of the powers conferred by the enac
 
   .
 
-**3.**[^key-a9486ff45398ecd3dc0cd11b9edc49c8] (1) The Education (Grants) (Travellers and Displaced Persons) Regulations 1993[^f00002] are amended as follows.
+**3.**[^c-a9486ff45398ecd3dc0cd11b9edc49c8] (1) The Education (Grants) (Travellers and Displaced Persons) Regulations 1993[^f00002] are amended as follows.
 
 (2) In paragraph (4)(b) of regulation 7—
 
 - (a) for “the Audit Commission for Local Authorities and the National Health Service in England and Wales”, substitute “the Auditor General for Wales”;
 - (b) for “section 3(5)-(7) of the Audit Commission Act 1998”, substitute “section 14(4) and (9) of the Public Audit (Wales) Act 2004”.
 
-**4.**[^key-e4dd944247ac2e925943dcae4af31fe4] (1) The Local Authorities (Contracts) Regulations 1997[^f00003] are amended as follows.
+**4.**[^c-e4dd944247ac2e925943dcae4af31fe4] (1) The Local Authorities (Contracts) Regulations 1997[^f00003] are amended as follows.
 
 (2) In regulation 2, omit the definition of “the auditor”, and substitute, in the appropriate place, the following —
 
@@ -75,7 +75,7 @@ The National Assembly for Wales, in exercise of the powers conferred by the enac
 
 .
 
-**5.**[^key-d4abf21194086491c293d3489f1dffda] (1) The Education (Publication of Local Education Authority Inspection Reports) Regulations 1998[^f00004] are amended as follows.
+**5.**[^c-d4abf21194086491c293d3489f1dffda] (1) The Education (Publication of Local Education Authority Inspection Reports) Regulations 1998[^f00004] are amended as follows.
 
 (2) In paragraph (1)(f) of regulation 4, at the beginning, insert “in relation to a local education authority in England,”.
 
@@ -85,14 +85,14 @@ The National Assembly for Wales, in exercise of the powers conferred by the enac
 
 .
 
-**6.**[^key-d578bbc6b16ed5379a7130ff9f8af62d] (1) The National Health Service Bodies and Local Authorities Partnership Arrangements (Wales) Regulations 2000[^f00005] are amended as follows.
+**6.**[^c-d578bbc6b16ed5379a7130ff9f8af62d] (1) The National Health Service Bodies and Local Authorities Partnership Arrangements (Wales) Regulations 2000[^f00005] are amended as follows.
 
 (2) In paragraph (6) of regulation 7—
 
 - (a) omit the words “Audit Commission” where they first appear, and substitute “Auditor General for Wales”; and
 - (b) omit the words “section 28(1)(d) of the Audit Commission Act 1998” and substitute “section 96B of the Government of Wales Act 1998”.
 
-**7.**[^key-6beca1c440200c676fc23f4a889eaa71] (1) The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^f00006] are amended as follows.
+**7.**[^c-6beca1c440200c676fc23f4a889eaa71] (1) The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^f00006] are amended as follows.
 
 (2) In regulation 5(1)—
 
@@ -104,21 +104,21 @@ The National Assembly for Wales, in exercise of the powers conferred by the enac
 
   .
 
-**8.**[^key-7f87c53b3722cf6d01f0123483951479] (1) The Education Standards Grants (Wales) Regulations 2002[^f00007] are amended as follows.
+**8.**[^c-7f87c53b3722cf6d01f0123483951479] (1) The Education Standards Grants (Wales) Regulations 2002[^f00007] are amended as follows.
 
 (2) In paragraph (5)(b) of regulation 6—
 
 - (a) for “the Audit Commission for Local Authorities and the National Health Service in England and Wales”, substitute “the Auditor General for Wales”;
 - (b) for “section 3(5), (6) and (7) of the Audit Commission Act 1998”, substitute “section 14(4) and (9) of the Public Audit (Wales) Act 2004”.
 
-**9.**[^key-c5a463961dff63425c49e2a63ceeb32e] (1) The Education (Capital Grants) (Wales) Regulations 2002[^f00008] are amended as follows.
+**9.**[^c-c5a463961dff63425c49e2a63ceeb32e] (1) The Education (Capital Grants) (Wales) Regulations 2002[^f00008] are amended as follows.
 
 (2) In paragraph (4)(b) of regulation 5—
 
 - (a) for “the Audit Commission for Local Authorities and the National Health Service in England and Wales”, substitute “the Auditor General for Wales”;
 - (b) for “section 3(5), (6) and (7) of the Audit Commission Act 1998”, substitute “section 14(4) and (9) of the Public Audit (Wales) Act 2004”.
 
-**10.**[^key-a8c76764ff79ac060cfcd8ff502b346f] (1) The Education (Assembly Learning Grant Scheme) (Wales) Regulations 2002[^f00009] are amended as follows.
+**10.**[^c-a8c76764ff79ac060cfcd8ff502b346f] (1) The Education (Assembly Learning Grant Scheme) (Wales) Regulations 2002[^f00009] are amended as follows.
 
 (2) In paragraph (6)(b) of regulation 6—
 
@@ -137,14 +137,14 @@ The Presiding Officer of the National Assembly
 
 Preamble
 
-### PART 1 — — Enactments containing powers conferred upon the National Assembly for Wales[^key-21b70aebe5c13b70ef70831c54b3491c]
+### PART 1 — — Enactments containing powers conferred upon the National Assembly for Wales[^c-21b70aebe5c13b70ef70831c54b3491c]
 
 |  |  |
 | --- | --- |
 | Education Act 1996[^f00011] | Section 484 (as amended by the School Standards and Framework Act 1998[^f00012] and the Education Act 2002[^f00013]. |
 | Local Government Act 2000[^f00014] | Section 73(1). |
 
-### PART 2 — — Enactments conferring functions which have been transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (Article 2 and Schedule 1)[^key-21551e67802e4301004e1550190c811d][^f00015]
+### PART 2 — — Enactments conferring functions which have been transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (Article 2 and Schedule 1)[^c-21551e67802e4301004e1550190c811d][^f00015]
 
 |  |  |
 | --- | --- |
@@ -180,47 +180,47 @@ Regulation 7 adds the Auditor General for Wales to the list of persons to whom l
 
 ## Annotations
 
-[^key-9a3315c8bc671ad26a3e1cf529aed46e]: Commencement: Reg. 1 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-9a3315c8bc671ad26a3e1cf529aed46e]: Commencement: Reg. 1 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
-[^key-3677714a6c0d011710d55dce3def8913]: Commencement: Reg. 2 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-3677714a6c0d011710d55dce3def8913]: Commencement: Reg. 2 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00001]: Footnote: S.I. [1991/482](https://www.legislation.gov.uk/uksi/1991/482), as amended by section 54(2) of, and paragraph 4(1) of Schedule 4 to, the Audit Commission Act [1998 (c. 18)](https://www.legislation.gov.uk/ukpga/1998/18).
 
-[^key-a9486ff45398ecd3dc0cd11b9edc49c8]: Commencement: Reg. 3 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-a9486ff45398ecd3dc0cd11b9edc49c8]: Commencement: Reg. 3 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1993/569](https://www.legislation.gov.uk/uksi/1993/569), as amended by section 54(2) of , and paragraph 4(1) of Schedule 4 to, the Audit Commission Act [1998 (c. 18)](https://www.legislation.gov.uk/ukpga/1998/18).
 
-[^key-e4dd944247ac2e925943dcae4af31fe4]: Commencement: Reg. 4 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-e4dd944247ac2e925943dcae4af31fe4]: Commencement: Reg. 4 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1997/2862](https://www.legislation.gov.uk/uksi/1997/2862), as amended by section 54(2) of, and paragraph 4(1) of Schedule 4 to, the Audit Commission Act [1998 (c. 18)](https://www.legislation.gov.uk/ukpga/1998/18).
 
-[^key-d4abf21194086491c293d3489f1dffda]: Commencement: Reg. 5 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-d4abf21194086491c293d3489f1dffda]: Commencement: Reg. 5 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1998/880](https://www.legislation.gov.uk/uksi/1998/880).
 
-[^key-d578bbc6b16ed5379a7130ff9f8af62d]: Commencement: Reg. 6 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-d578bbc6b16ed5379a7130ff9f8af62d]: Commencement: Reg. 6 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [2000/2993 (W. 193)](https://www.legislation.gov.uk/wsi/2000/2993), as amended by S.I. [2004/1390 (W. 140)](https://www.legislation.gov.uk/wsi/2004/1390).
 
-[^key-6beca1c440200c676fc23f4a889eaa71]: Commencement: Reg. 7 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-6beca1c440200c676fc23f4a889eaa71]: Commencement: Reg. 7 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [2001/2281 (W. 171)](https://www.legislation.gov.uk/wsi/2001/2281).
 
-[^key-7f87c53b3722cf6d01f0123483951479]: Commencement: Reg. 8 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-7f87c53b3722cf6d01f0123483951479]: Commencement: Reg. 8 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00007]: Footnote: [S.I.2002/438 (W. 56)](https://www.legislation.gov.uk/wsi/2002/438).
 
-[^key-c5a463961dff63425c49e2a63ceeb32e]: Commencement: Reg. 9 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-c5a463961dff63425c49e2a63ceeb32e]: Commencement: Reg. 9 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00008]: Footnote: [S.I.2002/679 (W. 76)](https://www.legislation.gov.uk/wsi/2002/679).
 
-[^key-a8c76764ff79ac060cfcd8ff502b346f]: Commencement: Reg. 10 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-a8c76764ff79ac060cfcd8ff502b346f]: Commencement: Reg. 10 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00009]: Footnote: [S.I.2002/1857 (W.181)](https://www.legislation.gov.uk/wsi/2002/1857).
 
 [^f00010]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-21b70aebe5c13b70ef70831c54b3491c]: Commencement: Sch. Pt. 1 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-21b70aebe5c13b70ef70831c54b3491c]: Commencement: Sch. Pt. 1 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00011]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -230,7 +230,7 @@ Regulation 7 adds the Auditor General for Wales to the list of persons to whom l
 
 [^f00014]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-21551e67802e4301004e1550190c811d]: Commencement: Sch. Pt. 2 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
+[^c-21551e67802e4301004e1550190c811d]: Commencement: Sch. Pt. 2 in force at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/761/regulation/1/1)
 
 [^f00015]: Footnote: S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672).
 

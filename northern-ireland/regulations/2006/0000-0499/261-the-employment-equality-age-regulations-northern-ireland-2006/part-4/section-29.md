@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Exception for national security etc[^key-21e56c282491f24d1232b8ba26af535c]
+## 29. Exception for national security etc[^c-21e56c282491f24d1232b8ba26af535c]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Nothing in Part 2 or 3 shall render unlawful any act done by any person if—
 
 ## Annotations
 
-[^key-21e56c282491f24d1232b8ba26af535c]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/261/regulation/29) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-21e56c282491f24d1232b8ba26af535c]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/261/regulation/29) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

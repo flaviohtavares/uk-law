@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Individual registration[^key-e0aec24f882a68b9d15fbb77a41fb6af][^key-6d603ce93a04bbaaa8b21111df7617a7]
+## 1. Individual registration[^c-e0aec24f882a68b9d15fbb77a41fb6af][^c-6d603ce93a04bbaaa8b21111df7617a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e0aec24f882a68b9d15fbb77a41fb6af]: Commencement: S. 1 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/414/article/5/a)
+[^c-e0aec24f882a68b9d15fbb77a41fb6af]: Commencement: S. 1 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/414/article/5/a)
 
-[^key-6d603ce93a04bbaaa8b21111df7617a7]: Commencement: S. 1 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/a)
+[^c-6d603ce93a04bbaaa8b21111df7617a7]: Commencement: S. 1 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/a)
 
 [^M_F_14482308-79b1-411e-8b5d-f04c86b89f08]: Textual amendment: S. 1(3)(4) cease to have effect at the end of the period of 5 years beginning with the day on which they come fully into force. S. 1 was brought into force on 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/414/article/5/a) and on 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/a)

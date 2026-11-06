@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Offences aggravated by racial or religious prejudice[^key-cf3b2131a143749732e5fa91007e0a23]
+## 25. Offences aggravated by racial or religious prejudice[^c-cf3b2131a143749732e5fa91007e0a23]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf3b2131a143749732e5fa91007e0a23]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/13/section/25) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-cf3b2131a143749732e5fa91007e0a23]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/13/section/25) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

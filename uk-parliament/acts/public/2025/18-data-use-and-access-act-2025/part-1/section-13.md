@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Financial assistance[^key-62a2c04ff95d9e94c57ce2c45990a56d][^key-94eb112788fea8e77c439090267b3ec0]
+## 13. Financial assistance[^c-62a2c04ff95d9e94c57ce2c45990a56d][^c-94eb112788fea8e77c439090267b3ec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62a2c04ff95d9e94c57ce2c45990a56d]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-62a2c04ff95d9e94c57ce2c45990a56d]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-94eb112788fea8e77c439090267b3ec0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/18/section/13) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-94eb112788fea8e77c439090267b3ec0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/18/section/13) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

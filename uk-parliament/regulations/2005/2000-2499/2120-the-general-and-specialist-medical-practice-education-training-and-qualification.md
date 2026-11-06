@@ -34,7 +34,7 @@ HEALTH CARE AND ASSOCIATED PROFESSIONS
 
 DOCTORS
 
-The General and Specialist Medical Practice (Education, Training and Qualifications) Amendment Order 2005 (revoked)[^key-bb784deceb48ac37aeb06acbbeff5425]
+The General and Specialist Medical Practice (Education, Training and Qualifications) Amendment Order 2005 (revoked)[^c-bb784deceb48ac37aeb06acbbeff5425]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 30th September 2005
 
-[^key-bb784deceb48ac37aeb06acbbeff5425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb784deceb48ac37aeb06acbbeff5425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bb784deceb48ac37aeb06acbbeff5425]
+## 1. Citation and commencement[^c-bb784deceb48ac37aeb06acbbeff5425]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 3[^key-bb784deceb48ac37aeb06acbbeff5425]
+## 2. Amendment of Schedule 3[^c-bb784deceb48ac37aeb06acbbeff5425]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb784deceb48ac37aeb06acbbeff5425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb784deceb48ac37aeb06acbbeff5425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bb784deceb48ac37aeb06acbbeff5425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb784deceb48ac37aeb06acbbeff5425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb784deceb48ac37aeb06acbbeff5425]: Textual amendment: Order revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-bb784deceb48ac37aeb06acbbeff5425]: Textual amendment: Order revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)

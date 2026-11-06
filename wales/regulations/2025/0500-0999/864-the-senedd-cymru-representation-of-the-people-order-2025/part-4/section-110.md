@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Report as to a person’s guilt of corrupt or illegal practice[^key-c12e75c2d43d5ae281b0e9fdca7f2fc1]
+## 110. Report as to a person’s guilt of corrupt or illegal practice[^c-c12e75c2d43d5ae281b0e9fdca7f2fc1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12e75c2d43d5ae281b0e9fdca7f2fc1]: Commencement: Art. 110 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c12e75c2d43d5ae281b0e9fdca7f2fc1]: Commencement: Art. 110 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

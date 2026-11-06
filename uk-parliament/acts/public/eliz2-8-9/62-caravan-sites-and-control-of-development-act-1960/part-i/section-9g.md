@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9G. Appeals under section 9A, 9E or 9F[^key-0b77ed28b6245113ee9172cbbc876dcd]
+## 9G. Appeals under section 9A, 9E or 9F[^c-0b77ed28b6245113ee9172cbbc876dcd]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) in the case of an appeal under section 9E, the notice under subsection (8) of that section;
 - (c) in the case of an appeal under section 9F, the demand under that section.
 
-(3) The tribunal[^key-6911cd313910e14eaa50a8a2997912c5] may allow an appeal under section 9A, 9E or 9F to be made to it after the end of the appeal period if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The tribunal[^c-6911cd313910e14eaa50a8a2997912c5] may allow an appeal under section 9A, 9E or 9F to be made to it after the end of the appeal period if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
 (4) An appeal under section 9A, 9E or 9F—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b77ed28b6245113ee9172cbbc876dcd]: Textual amendment: Ss. 9G-9I inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/6/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-0b77ed28b6245113ee9172cbbc876dcd]: Textual amendment: Ss. 9G-9I inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/6/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
 
-[^key-6911cd313910e14eaa50a8a2997912c5]: Textual amendment: Words in s. 9G(3) substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/9)
+[^c-6911cd313910e14eaa50a8a2997912c5]: Textual amendment: Words in s. 9G(3) substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/9)

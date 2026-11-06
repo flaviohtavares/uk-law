@@ -46,7 +46,7 @@ Coming into force
 
 The Commissioners for Her Majesty's Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 169(4), (4A) and (8), 251 and 282(A1) of the Finance Act 2004 [^c22904321], and now exercisable by them [^c22904331].
 
-## 1. Citation, commencement and effect[^key-2383bf985e66a9a367de5cec75502cdc]
+## 1. Citation, commencement and effect[^c-2383bf985e66a9a367de5cec75502cdc]
 
 (1) These Regulations may be cited as the Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018 and come into force on 30th January 2018.
 
@@ -54,11 +54,11 @@ The Commissioners for Her Majesty's Revenue and Customs make the following Regul
 
 (3) The amendments in regulations 4, 5 and 7 have effect for the tax year 2017-18 and subsequent tax years.
 
-## 2. Amendments to the Registered Pension Schemes (Provision of Information) Regulations 2006[^key-c7bcff181c2c91fa0c26e70649277c4f]
+## 2. Amendments to the Registered Pension Schemes (Provision of Information) Regulations 2006[^c-c7bcff181c2c91fa0c26e70649277c4f]
 
 The Registered Pension Schemes (Provision of Information) Regulations 2006 [^c22904341] are amended as follows.
 
-## 3.[^key-91f37380a1f23b8a84717c408db22bee]
+## 3.[^c-91f37380a1f23b8a84717c408db22bee]
 
 In regulation 3 (provision of information by scheme administrator to the Commissioners)—
 
@@ -78,11 +78,11 @@ In regulation 3 (provision of information by scheme administrator to the Commiss
 
   .
 
-## 4.[^key-aa214068439d2c29d0ffe83b7c32efd0]
+## 4.[^c-aa214068439d2c29d0ffe83b7c32efd0]
 
 In regulation 14ZA(3)(b) (information provided to member by scheme administrator where it appears member may be first flexibly accessing pension rights) [^c22904361] for “£10,000”, in both places, substitute “ £4,000 ”.
 
-## 5.[^key-34c50aca386ce61601ab990790a8b91e]
+## 5.[^c-34c50aca386ce61601ab990790a8b91e]
 
 In Regulation 14A (annual allowance: annual provision of information by scheme administrator to member) [^c22904371]—
 
@@ -98,11 +98,11 @@ In Regulation 14A (annual allowance: annual provision of information by scheme a
 
   .
 
-## 6. Amendments to the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pensions Schemes and Corresponding Relief) Regulations 2006[^key-89dbdc674ea446963ca7760f414682d4]
+## 6. Amendments to the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pensions Schemes and Corresponding Relief) Regulations 2006[^c-89dbdc674ea446963ca7760f414682d4]
 
 The Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pensions Schemes and Corresponding Relief) Regulations 2006 [^c22904381] are amended as follows.
 
-## 7.[^key-ee7c5bd07a8c980a143c136cd77cb314]
+## 7.[^c-ee7c5bd07a8c980a143c136cd77cb314]
 
 In Regulation 3AA(3)(b) (information provided to member of QROPS or former QROPS by scheme manager where it appears member may be first flexibly accessing pension rights) [^c22904391] for “£10,000”, in both places, substitute “ £4,000 ”.
 
@@ -138,28 +138,28 @@ A Tax Information and Impact Note covering the changes to the money purchase ann
 
 [^c22904331]: Marginal citation: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty's Revenue and Customs by section 5(1) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that insofar as it is appropriate in consequence of section 5, a reference in an enactment, however expressed, to the Commissioners of Inland Revenue is to be treated as a reference to the Commissioners for Her Majesty's Revenue and Customs.
 
-[^key-2383bf985e66a9a367de5cec75502cdc]: Commencement: Reg. 1 in force at 30.1.2018, see reg. 1(1)
+[^c-2383bf985e66a9a367de5cec75502cdc]: Commencement: Reg. 1 in force at 30.1.2018, see reg. 1(1)
 
-[^key-c7bcff181c2c91fa0c26e70649277c4f]: Commencement: Reg. 2 in force at 30.1.2018, see reg. 1(1)
+[^c-c7bcff181c2c91fa0c26e70649277c4f]: Commencement: Reg. 2 in force at 30.1.2018, see reg. 1(1)
 
 [^c22904341]: Marginal citation: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567), amended by paragraphs 86 to 91 of Schedule 1 to the Taxation of Pensions Act 2014, [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797), [S.I](https://www.legislation.gov.uk/uksi/2011/1797/section/I). 2012/1884 and [S.I. 2015/1455](https://www.legislation.gov.uk/uksi/2015/1455); there are other amending instruments but none is relevant.
 
-[^key-91f37380a1f23b8a84717c408db22bee]: Commencement: Reg. 3 in force at 30.1.2018, see reg. 1(1)
+[^c-91f37380a1f23b8a84717c408db22bee]: Commencement: Reg. 3 in force at 30.1.2018, see reg. 1(1)
 
 [^c22904351]: Marginal citation: [2017 c.17](https://www.legislation.gov.uk/ukpga/2017/17).
 
-[^key-aa214068439d2c29d0ffe83b7c32efd0]: Commencement: Reg. 4 in force at 30.1.2018, see reg. 1(1)
+[^c-aa214068439d2c29d0ffe83b7c32efd0]: Commencement: Reg. 4 in force at 30.1.2018, see reg. 1(1)
 
 [^c22904361]: Marginal citation: [Regulations 14ZA to 14ZE](https://www.legislation.gov.uk/uksi/2018/5/regulation/14ZA) were inserted by paragraphs 86 and 87 of Schedule 1 to the [Taxation of Pensions Act 2014 (c.30)](https://www.legislation.gov.uk/ukpga/2014/30), and regulation 14ZA was amended by [S.I. 2015/1455](https://www.legislation.gov.uk/uksi/2015/1455).
 
-[^key-34c50aca386ce61601ab990790a8b91e]: Commencement: Reg. 5 in force at 30.1.2018, see reg. 1(1)
+[^c-34c50aca386ce61601ab990790a8b91e]: Commencement: Reg. 5 in force at 30.1.2018, see reg. 1(1)
 
 [^c22904371]: Marginal citation: [Regulation 14A](https://www.legislation.gov.uk/uksi/2018/5/regulation/14A) was inserted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797). Paragraphs (9) to (12) were inserted by paragraph 88 of Schedule 1 to the Taxation of Pensions Act 2014.
 
-[^key-89dbdc674ea446963ca7760f414682d4]: Commencement: Reg. 6 in force at 30.1.2018, see reg. 1(1)
+[^c-89dbdc674ea446963ca7760f414682d4]: Commencement: Reg. 6 in force at 30.1.2018, see reg. 1(1)
 
 [^c22904381]: Marginal citation: [S.I. 2006/208](https://www.legislation.gov.uk/uksi/2006/208), amended by [S.I. 2015/673](https://www.legislation.gov.uk/uksi/2015/673); there are other amending instruments but none is relevant.
 
-[^key-ee7c5bd07a8c980a143c136cd77cb314]: Commencement: Reg. 7 in force at 30.1.2018, see reg. 1(1)
+[^c-ee7c5bd07a8c980a143c136cd77cb314]: Commencement: Reg. 7 in force at 30.1.2018, see reg. 1(1)
 
 [^c22904391]: Marginal citation: [Regulations 3AA to 3AD](https://www.legislation.gov.uk/uksi/2018/5/regulation/3AA) were inserted by [S.I. 2015/673](https://www.legislation.gov.uk/uksi/2015/673).

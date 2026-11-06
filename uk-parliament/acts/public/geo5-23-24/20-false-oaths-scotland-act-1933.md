@@ -27,50 +27,50 @@ summary: ''
 
 **No longer in force.**
 
-[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]False Oaths (Scotland) Act 1933 (repealed)
+[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]False Oaths (Scotland) Act 1933 (repealed)
 
 1933 c.20
 
-[^key-7851d5ffdfe10bf90c6b75f9f02a97ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7851d5ffdfe10bf90c6b75f9f02a97ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. False statements on oath.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. False statutory declarations and other false statements without oath.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 1. False statements on oath.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. False declarations, &c. to obtain registration &c. for carrying on a vocation.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 2. False statutory declarations and other false statements without oath.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Aiders, abettors, suborners, &c.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 3. False declarations, &c. to obtain registration &c. for carrying on a vocation.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Venue.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 4. Aiders, abettors, suborners, &c.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Savings.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 5. Venue.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Form of oaths, &c.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 6. Savings.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
-
-## 9. Short title.[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 7. Form of oaths, &c.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]
+## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
+
+## 9. Short title.[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7851d5ffdfe10bf90c6b75f9f02a97ab]: Textual amendment: Act repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/3); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-7851d5ffdfe10bf90c6b75f9f02a97ab]: Textual amendment: Act repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/3); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendment and saving of the Immigration (Provision of Physical Data) Regulations 2006[^key-5fda6b9e3222d7135ff0f2ee6226b977][^M_I_097ae814-56fb-4779-cd78-25cbdecf72b1]
+## 32. Amendment and saving of the Immigration (Provision of Physical Data) Regulations 2006[^c-5fda6b9e3222d7135ff0f2ee6226b977][^M_I_097ae814-56fb-4779-cd78-25cbdecf72b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5fda6b9e3222d7135ff0f2ee6226b977]: Commencement: Reg. 32 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-5fda6b9e3222d7135ff0f2ee6226b977]: Commencement: Reg. 32 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_097ae814-56fb-4779-cd78-25cbdecf72b1]: Commencement: Reg. 32 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

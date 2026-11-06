@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Certain orders and regulations provided for by Parts 1 and 2[^key-c32d2cd25c758f6cf9a1ab4e0919e1dc]
+## 104. Certain orders and regulations provided for by Parts 1 and 2[^c-c32d2cd25c758f6cf9a1ab4e0919e1dc]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c32d2cd25c758f6cf9a1ab4e0919e1dc]: Commencement: S. 104 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-c32d2cd25c758f6cf9a1ab4e0919e1dc]: Commencement: S. 104 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

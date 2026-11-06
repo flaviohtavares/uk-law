@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Interpretation: vehicles and their measurement[^key-fbdaecdd326852896f438d3d225419bd]
+## 4. Interpretation: vehicles and their measurement[^c-fbdaecdd326852896f438d3d225419bd]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbdaecdd326852896f438d3d225419bd]: Commencement: Art. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-fbdaecdd326852896f438d3d225419bd]: Commencement: Art. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

@@ -44,13 +44,13 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 A draft of these Regulations was laid before Parliament in accordance with section 240(6) of the Local Government and Public Involvement in Health Act 2007 and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-87c97ed62fee6ecc7e172dd5c78b2d27]
+## 1. Citation and commencement[^c-87c97ed62fee6ecc7e172dd5c78b2d27]
 
 (1) These Regulations may be cited as the Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008.
 
 (2) These Regulations shall come into force on 1st April 2008.
 
-## 2. Interpretation[^key-bfefd5da9f6f10e41335f93b8a44cc78]
+## 2. Interpretation[^c-bfefd5da9f6f10e41335f93b8a44cc78]
 
 In these Regulations—
 
@@ -68,7 +68,7 @@ In these Regulations—
   - (c) premises which are occupied by one or more persons as their home and which at least one of those persons occupies under a tenancy or a licence;
 - “social services functions”, in relation to a local authority, has the same meaning as in the Local Authority Social Services Act 1970[^f00008].
 
-## 3. Duty of services-providers to allow entry by local involvement networks[^key-93e0f29ba2527e0caca008c77f981991]
+## 3. Duty of services-providers to allow entry by local involvement networks[^c-93e0f29ba2527e0caca008c77f981991]
 
 (1) A services-provider must allow an authorised representative[^f00009] to—
 
@@ -92,18 +92,18 @@ premises that it owns or controls.
 
 (3) Where any premises, or parts of premises, are owned by a services-provider and controlled by another services-provider, then for the purpose of this regulation the services-provider who owns those premises, or parts of premises, is to be treated as not being a services-provider.
 
-## 4. Authorised representative[^key-8c49b1760d37c1f15092124b3d6e1e48]
+## 4. Authorised representative[^c-8c49b1760d37c1f15092124b3d6e1e48]
 
 An individual may be authorised for the purposes of section 225 of the Act only if that individual is authorised in accordance with arrangements made in pursuance of arrangements made by a local authority under section 221(1) of the Act.
 
-## 5. Viewing and observing activities[^key-5324dd52ac71bde3b1e3c68a60b84b13]
+## 5. Viewing and observing activities[^c-5324dd52ac71bde3b1e3c68a60b84b13]
 
 For the purposes of section 225(4)(b) of the Act, while an authorised representative is on any premises as a result of a services-provider having complied with a duty imposed under regulation 3(1) the authorised representative must not act in any way that compromises—
 
 - (a) the effective provision of care services; or
 - (b) the privacy or dignity of any person.
 
-## 6. Services-provider[^key-a522bf4f0487beb51ecf129ad33f1fa6]
+## 6. Services-provider[^c-a522bf4f0487beb51ecf129ad33f1fa6]
 
 For the purposes of section 225(7)(e) of the Act, the following persons are prescribed as services-providers—
 
@@ -147,9 +147,9 @@ A full Impact Assessment has been produced for this instrument and copies are av
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-87c97ed62fee6ecc7e172dd5c78b2d27]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
+[^c-87c97ed62fee6ecc7e172dd5c78b2d27]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
 
-[^key-bfefd5da9f6f10e41335f93b8a44cc78]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
+[^c-bfefd5da9f6f10e41335f93b8a44cc78]: Commencement: Reg. 2 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
 
 [^f00002]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -165,12 +165,12 @@ A full Impact Assessment has been produced for this instrument and copies are av
 
 [^f00008]: Footnote: [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42). Section 1A (meaning of “social services functions”) was inserted by section 102(3) of the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-93e0f29ba2527e0caca008c77f981991]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
+[^c-93e0f29ba2527e0caca008c77f981991]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
 
 [^f00009]: Footnote: See section 225(5) of the Act for the definition of authorised representative.
 
-[^key-8c49b1760d37c1f15092124b3d6e1e48]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
+[^c-8c49b1760d37c1f15092124b3d6e1e48]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
 
-[^key-5324dd52ac71bde3b1e3c68a60b84b13]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
+[^c-5324dd52ac71bde3b1e3c68a60b84b13]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
 
-[^key-a522bf4f0487beb51ecf129ad33f1fa6]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)
+[^c-a522bf4f0487beb51ecf129ad33f1fa6]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/915/regulation/1/2)

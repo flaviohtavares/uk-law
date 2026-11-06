@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Designation of Chief Commissioner[^key-7957270f8deba88346f5872fa14e939c]
+## 6. Designation of Chief Commissioner[^c-7957270f8deba88346f5872fa14e939c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7957270f8deba88346f5872fa14e939c]: Textual amendment: S. 6 omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/6)
+[^c-7957270f8deba88346f5872fa14e939c]: Textual amendment: S. 6 omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/6)

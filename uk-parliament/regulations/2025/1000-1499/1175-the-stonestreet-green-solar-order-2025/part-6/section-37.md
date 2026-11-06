@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Protective provisions[^key-7995cedd9ccbafde25e042142ae90220]
+## 37. Protective provisions[^c-7995cedd9ccbafde25e042142ae90220]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 13 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-7995cedd9ccbafde25e042142ae90220]: Commencement: Art. 37 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-7995cedd9ccbafde25e042142ae90220]: Commencement: Art. 37 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

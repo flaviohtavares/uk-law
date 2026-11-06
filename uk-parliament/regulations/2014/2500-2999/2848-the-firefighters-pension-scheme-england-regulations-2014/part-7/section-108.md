@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Pension credit member’s rights[^key-e08cd4bc6c0a134ace0edf302908d854]
+## 108. Pension credit member’s rights[^c-e08cd4bc6c0a134ace0edf302908d854]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Benefits that are attributable (directly or indirectly) to a pension credit may 
 
 ## Annotations
 
-[^key-e08cd4bc6c0a134ace0edf302908d854]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2014/2848/regulation/108) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e08cd4bc6c0a134ace0edf302908d854]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2014/2848/regulation/108) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

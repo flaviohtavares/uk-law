@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Health services[^key-7be276ec970ca79b8d86b8b0807fdd00]
+## 20. Health services[^c-7be276ec970ca79b8d86b8b0807fdd00]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7be276ec970ca79b8d86b8b0807fdd00]: Textual amendment: [Rule 20](https://www.legislation.gov.uk/uksi/1999/728/rule/20) substituted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/3082/schedule/1/paragraph/2)
+[^c-7be276ec970ca79b8d86b8b0807fdd00]: Textual amendment: [Rule 20](https://www.legislation.gov.uk/uksi/1999/728/rule/20) substituted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/3082/schedule/1/paragraph/2)

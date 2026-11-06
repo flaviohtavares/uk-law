@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Grounds for community treatment orders[^key-139ceede7811451fb26ee4998f81111c]
+## 6. Grounds for community treatment orders[^c-139ceede7811451fb26ee4998f81111c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139ceede7811451fb26ee4998f81111c]: Commencement: S. 6 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-139ceede7811451fb26ee4998f81111c]: Commencement: S. 6 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

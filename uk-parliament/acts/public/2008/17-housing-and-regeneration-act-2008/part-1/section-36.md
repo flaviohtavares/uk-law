@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Information in relation to social housing[^key-a3cf8a7ddeab9c5ef22d3d390920a9fa][^key-60845003768571b8ffc0cb9032e88cce]
+## 36. Information in relation to social housing[^c-a3cf8a7ddeab9c5ef22d3d390920a9fa][^c-60845003768571b8ffc0cb9032e88cce]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ as may be specified or described in the order.
 
 ## Annotations
 
-[^key-a3cf8a7ddeab9c5ef22d3d390920a9fa]: Commencement: S. 36 in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/803/article/2/1/d)
+[^c-a3cf8a7ddeab9c5ef22d3d390920a9fa]: Commencement: S. 36 in force at 1.4.2009 by [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/803/article/2/1/d)
 
-[^key-60845003768571b8ffc0cb9032e88cce]: Modification: Ss. 31-36 applied (with modifications) by 1999 c. 29, s. 333ZE(1)(2) (as inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17)))
+[^c-60845003768571b8ffc0cb9032e88cce]: Modification: Ss. 31-36 applied (with modifications) by 1999 c. 29, s. 333ZE(1)(2) (as inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17)))

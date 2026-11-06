@@ -32,7 +32,7 @@ summary: ''
 
 Merchant Shipping
 
-The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) and the Port State Control (Amendment) Regulations 2017 (revoked)[^key-b4be5c7cb49660706cee55645a9f0584]
+The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) and the Port State Control (Amendment) Regulations 2017 (revoked)[^c-b4be5c7cb49660706cee55645a9f0584]
 
 Made
 
@@ -46,64 +46,64 @@ Coming into force
 
 1st October 2017
 
-[^key-b4be5c7cb49660706cee55645a9f0584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4be5c7cb49660706cee55645a9f0584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b4be5c7cb49660706cee55645a9f0584]
+## 1. Citation and commencement[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b4be5c7cb49660706cee55645a9f0584]
+## 2. Interpretation[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-b4be5c7cb49660706cee55645a9f0584]
+## 3. Application[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement to carry a document of compliance[^key-b4be5c7cb49660706cee55645a9f0584]
+## 4. Requirement to carry a document of compliance[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-b4be5c7cb49660706cee55645a9f0584]
+## 5. Penalties[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Power to detain[^key-b4be5c7cb49660706cee55645a9f0584]
+## 6. Power to detain[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Expulsion order[^key-b4be5c7cb49660706cee55645a9f0584]
+## 7. Expulsion order[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power to permit prohibited ships to enter port[^key-b4be5c7cb49660706cee55645a9f0584]
+## 8. Power to permit prohibited ships to enter port[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Arbitration[^key-b4be5c7cb49660706cee55645a9f0584]
+## 9. Arbitration[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Compensation for unjustified detention[^key-b4be5c7cb49660706cee55645a9f0584]
+## 10. Compensation for unjustified detention[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^key-b4be5c7cb49660706cee55645a9f0584]
+## 11. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Review[^key-b4be5c7cb49660706cee55645a9f0584]
+## 12. Review[^c-b4be5c7cb49660706cee55645a9f0584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4be5c7cb49660706cee55645a9f0584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4be5c7cb49660706cee55645a9f0584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b4be5c7cb49660706cee55645a9f0584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4be5c7cb49660706cee55645a9f0584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4be5c7cb49660706cee55645a9f0584]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/825) revoked (3.4.2026) by [The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026 (S.I. 2026/245)](https://www.legislation.gov.uk/uksi/2026/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/245/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/245/regulation/2/b)
+[^c-b4be5c7cb49660706cee55645a9f0584]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/825) revoked (3.4.2026) by [The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026 (S.I. 2026/245)](https://www.legislation.gov.uk/uksi/2026/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/245/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/245/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Funding strategy statement[^key-567824d9ea3dd036232aa0599b6b3b94]
+## 35. Funding strategy statement[^c-567824d9ea3dd036232aa0599b6b3b94]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-567824d9ea3dd036232aa0599b6b3b94]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-567824d9ea3dd036232aa0599b6b3b94]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00037]: Footnote: Regulation 76A was inserted by [S.I.2004/573](https://www.legislation.gov.uk/uksi/2004/573).

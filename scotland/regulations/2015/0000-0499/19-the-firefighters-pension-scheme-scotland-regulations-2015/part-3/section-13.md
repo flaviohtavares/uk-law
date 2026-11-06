@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Automatic re-enrolment[^key-dcfae602c923a08b1718199e417977c9]
+## 13. Automatic re-enrolment[^c-dcfae602c923a08b1718199e417977c9]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcfae602c923a08b1718199e417977c9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/19/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-dcfae602c923a08b1718199e417977c9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/19/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00038]: Footnote: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30).

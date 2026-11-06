@@ -49,7 +49,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 The requirements of paragraph 4 of Schedule 2 and paragraph 4(2) of Schedule 7 to that Act have been satisfied.
 
-## 1. Title and commencement[^key-e1a863a4079d433521ca8616cac38c7d]
+## 1. Title and commencement[^c-e1a863a4079d433521ca8616cac38c7d]
 
 (1) The title of these Regulations is the Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020.
 
@@ -59,7 +59,7 @@ The requirements of paragraph 4 of Schedule 2 and paragraph 4(2) of Schedule 7 t
 
 (4) Regulation 3 comes into force on IP completion day.
 
-## 2. Amendment of the Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-7a07e2bc7ca7d96f220ec44c34ee8f17]
+## 2. Amendment of the Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-7a07e2bc7ca7d96f220ec44c34ee8f17]
 
 (1) The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^f00002] are amended as follows.
 
@@ -358,7 +358,7 @@ The requirements of paragraph 4 of Schedule 2 and paragraph 4(2) of Schedule 7 t
     >   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
     > - (c) paragraphs 2, 3, 6 and 7 were omitted.
 
-## 3. Amendment of the Hazardous Waste (Wales) Regulations 2005[^key-869504a82a373354f3a12d3919a3da53]
+## 3. Amendment of the Hazardous Waste (Wales) Regulations 2005[^c-869504a82a373354f3a12d3919a3da53]
 
 (1) The Hazardous Waste (Wales) Regulations 2005[^f00003] are amended as follows.
 
@@ -392,12 +392,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16), amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-e1a863a4079d433521ca8616cac38c7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3)
+[^c-e1a863a4079d433521ca8616cac38c7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3)
 
-[^key-7a07e2bc7ca7d96f220ec44c34ee8f17]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3)
+[^c-7a07e2bc7ca7d96f220ec44c34ee8f17]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2019/414 (W. 96)](https://www.legislation.gov.uk/wsi/2019/414).
 
-[^key-869504a82a373354f3a12d3919a3da53]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/1339/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/4)
+[^c-869504a82a373354f3a12d3919a3da53]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/1339/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/4)
 
 [^f00003]: Footnote: [S.I. 2005/1806 (W. 138)](https://www.legislation.gov.uk/wsi/2005/1806) amended by [S.I. 2009/2861 (W. 250)](https://www.legislation.gov.uk/wsi/2009/2861), [2011/971 (W. 141)](https://www.legislation.gov.uk/wsi/2011/971), [2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755), [2018/721 (W. 140)](https://www.legislation.gov.uk/wsi/2018/721) and [2019/414 (W. 96)](https://www.legislation.gov.uk/wsi/2019/414). There are other amendments not relevant to these Regulations.

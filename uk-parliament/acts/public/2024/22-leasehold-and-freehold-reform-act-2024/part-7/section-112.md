@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Meaning of “estate rentcharge”[^key-82294a0bc0684a0e61fce7dba788e86d]
+## 112. Meaning of “estate rentcharge”[^c-82294a0bc0684a0e61fce7dba788e86d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 2(4)(b) of the RA 1977 (meaning of “**estate rentcharge**”), for 
 
 ## Annotations
 
-[^key-82294a0bc0684a0e61fce7dba788e86d]: Commencement: S. 112 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-82294a0bc0684a0e61fce7dba788e86d]: Commencement: S. 112 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

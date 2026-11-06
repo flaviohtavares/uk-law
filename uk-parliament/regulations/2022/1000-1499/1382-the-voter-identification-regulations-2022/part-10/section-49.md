@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of Schedule 4 (application, with modifications, of Acts and subordinate legislation)[^key-0df4ee070c5904470c41befd0b49c902]
+## 49. Amendment of Schedule 4 (application, with modifications, of Acts and subordinate legislation)[^c-0df4ee070c5904470c41befd0b49c902]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0df4ee070c5904470c41befd0b49c902]: Commencement: Reg. 49 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-0df4ee070c5904470c41befd0b49c902]: Commencement: Reg. 49 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

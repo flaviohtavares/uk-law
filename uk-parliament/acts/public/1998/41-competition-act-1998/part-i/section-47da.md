@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47DA. Proceedings under section 47A or collective proceedings: declaratory relief[^key-8d8c4b638ac75b57856417719bbb5d09]
+## 47DA. Proceedings under section 47A or collective proceedings: declaratory relief[^c-8d8c4b638ac75b57856417719bbb5d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d8c4b638ac75b57856417719bbb5d09]: Textual amendment: S. 47DA inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/3/paragraph/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-8d8c4b638ac75b57856417719bbb5d09]: Textual amendment: S. 47DA inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/3/paragraph/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

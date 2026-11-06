@@ -37,19 +37,19 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 31(4) and 70(1) and (4) of the Offensive Weapons Act 2019[^f00001].
 
-## 1. Citation, interpretation and extent[^key-2db2ce4ce66a488af4e63362ca6f500b]
+## 1. Citation, interpretation and extent[^c-2db2ce4ce66a488af4e63362ca6f500b]
 
 (1) These Regulations may be cited as the Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) Regulations 2021.
 
 (2) In these Regulations—
 
 - “KCPO” means a knife crime prevention order;
-- “the specified period” means the period beginning with 5th July 2021 and ending with 31st March 2023[^key-5dec078cf37fd51afb2feb1544e6ae8b];
+- “the specified period” means the period beginning with 5th July 2021 and ending with 31st March 2023[^c-5dec078cf37fd51afb2feb1544e6ae8b];
 - “the 2019 Act” means the Offensive Weapons Act 2019.
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Commencement of Part 2 of the 2019 Act[^key-8fdd2053cc69a79a7426e514ffbc5388]
+## 2. Commencement of Part 2 of the 2019 Act[^c-8fdd2053cc69a79a7426e514ffbc5388]
 
 (1) The following provisions of the 2019 Act come into force on 5th July 2021 in relation to the metropolitan police district[^f00002] for the specified period—
 
@@ -79,7 +79,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (j) section 29 (offence of breaching a KCPO)[^f00005];
 - (k) section 33 (interpretation of Part 2 of the 2019 Act).
 
-## 3. Period for which KCPOs and interim knife crime prevention orders are to have effect[^key-451ac448353ba50a8844a1b3eb8df840]
+## 3. Period for which KCPOs and interim knife crime prevention orders are to have effect[^c-451ac448353ba50a8844a1b3eb8df840]
 
 (1) Where an interim KCPO is made during the specified period under section 17 or 18 of the 2019 Act, the order is to cease to have effect at the end of the specified period (unless the order ceases to have effect before that date under sections 23(4), (5) or (9) or 27 of the 2019 Act, as the case may be[^f00006]);
 
@@ -87,7 +87,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) Where a KCPO is made during the specified period under section 14 or 19 of the 2019 Act and has effect immediately before the end of the specified period, the order is to cease to have effect at the end of the period of 6 months following the end of the specified period (unless the order ceases to have effect before that date under sections 23(3), (9) or 27 of the 2019 Act, as the case may be).
 
-## 4. Saving[^key-f6ea334013014b4b5bf05329625e76d0]
+## 4. Saving[^c-f6ea334013014b4b5bf05329625e76d0]
 
 Where a KCPO has effect immediately before the end of the specified period, the following provisions of the 2019 Act continue in effect in relation to those orders for a further period of 6 months—
 
@@ -131,11 +131,11 @@ The following provisions of the Act have been brought into force in England and 
 
 [^f00001]: Footnote: [2019 c. 17](https://www.legislation.gov.uk/ukpga/2019/17) (“the 2019 Act”).
 
-[^key-2db2ce4ce66a488af4e63362ca6f500b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/762/regulation/1) in force at made date
+[^c-2db2ce4ce66a488af4e63362ca6f500b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/762/regulation/1) in force at made date
 
-[^key-5dec078cf37fd51afb2feb1544e6ae8b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2) substituted (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2)
+[^c-5dec078cf37fd51afb2feb1544e6ae8b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2) substituted (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2)
 
-[^key-8fdd2053cc69a79a7426e514ffbc5388]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/762/regulation/2) in force at made date
+[^c-8fdd2053cc69a79a7426e514ffbc5388]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/762/regulation/2) in force at made date
 
 [^f00002]: Footnote: “metropolitan police district” means that district as defined in section 76 of the London Government Act [1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33). Section 76(1) of that Act was amended by section 323 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -145,7 +145,7 @@ The following provisions of the Act have been brought into force in England and 
 
 [^f00005]: Footnote: Section 29(3) of the 2019 Act was amended by paragraph 443(1) of Schedule 24 to the 2020 Act.
 
-[^key-451ac448353ba50a8844a1b3eb8df840]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/762/regulation/3) in force at made date
+[^c-451ac448353ba50a8844a1b3eb8df840]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/762/regulation/3) in force at made date
 
 [^f00006]: Footnote: Section 23(4) and (5) of the 2019 Act makes provision for cessation of interim knife crime prevention orders on the determination of the substantive knife crime prevention order application subject to variation, renewal or discharge under section 27. Section 23(9) provides that, where a court makes a knife crime prevention order or interim knife crime prevention order in respect of a defendant who is already subject to such an order, the earlier order ceases to have effect.
 
@@ -153,4 +153,4 @@ The following provisions of the Act have been brought into force in England and 
 
 [^f00008]: Footnote: Section 23(3) of the 2019 Act provides that a knife crime prevention order must specify the period for which it has effect. Section 23(9) provides that, where a court makes a knife crime prevention order or an interim knife crime prevention order in respect of a defendant who is already subject to such an order, the earlier order ceases to have effect. Section 27 of the Act makes provision for variation, renewal or discharge of such an order.
 
-[^key-f6ea334013014b4b5bf05329625e76d0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4) in force at made date
+[^c-f6ea334013014b4b5bf05329625e76d0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4) in force at made date

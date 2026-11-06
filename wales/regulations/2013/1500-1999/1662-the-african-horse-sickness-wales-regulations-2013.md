@@ -49,7 +49,7 @@ The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of 
 
 ## PART 1 — Introduction
 
-### 1. Title, application and commencement[^key-f69333f3be0a31f8428850441bcb57e7]
+### 1. Title, application and commencement[^c-f69333f3be0a31f8428850441bcb57e7]
 
 These Regulations—
 
@@ -57,7 +57,7 @@ These Regulations—
 - (b) apply in relation to Wales; and
 - (c) come into force on 31 July 2013.
 
-### 2. Interpretation[^key-d66112f4f89d42af778513e189165a62]
+### 2. Interpretation[^c-d66112f4f89d42af778513e189165a62]
 
 (1) In these Regulations—
 
@@ -75,7 +75,7 @@ These Regulations—
 
 (2) In these Regulations, a reference to a notified horse or carcase is a reference to a horse or a carcase (as the case may be) which is the subject of a notification given under regulation 5(1).
 
-### 3. References to occupier and additional obligations[^key-e4a23d02ed484394a5f26a1f1687d190]
+### 3. References to occupier and additional obligations[^c-e4a23d02ed484394a5f26a1f1687d190]
 
 (1) In these Regulations—
 
@@ -95,7 +95,7 @@ These Regulations—
 
 (6) A notice required or authorised under these Regulations to be served on the main occupier of premises may (in addition to it being served on the main occupier) be served on any other occupier of the premises.
 
-### 4. Exemptions[^key-71ec3cbf5ce26d06a3b45be8eb65c96e]
+### 4. Exemptions[^c-71ec3cbf5ce26d06a3b45be8eb65c96e]
 
 These Regulations do not apply—
 
@@ -104,7 +104,7 @@ These Regulations do not apply—
 
 ## PART 2 — Notification of suspicion of African horse sickness
 
-### 5. Notification requirements[^key-61457a60a1d7040ea32719b1557553fb]
+### 5. Notification requirements[^c-61457a60a1d7040ea32719b1557553fb]
 
 (1) Any person who suspects that a horse or carcase is infected with African horse sickness virus must immediately notify the Welsh Ministers.
 
@@ -130,11 +130,11 @@ for so long as the notice remains in force.
 
 ## PART 3 — Suspicion and confirmation of African horse sickness
 
-### 6. Scope of Part 3[^key-0b0253cdd471d636b73f95a8ee12ff5a]
+### 6. Scope of Part 3[^c-0b0253cdd471d636b73f95a8ee12ff5a]
 
 This Part does not apply in relation to slaughterhouses or non-captive horses.
 
-### 7. Initial controls following notification[^key-4705ec891637f9ed61d82e3cb60ec62b]
+### 7. Initial controls following notification[^c-4705ec891637f9ed61d82e3cb60ec62b]
 
 (1) This regulation applies where the Welsh Ministers receive a notification under regulation 5(1) and a veterinary inspector considers that further investigation relating to the possible presence of African horse sickness virus is necessary.
 
@@ -166,7 +166,7 @@ This Part does not apply in relation to slaughterhouses or non-captive horses.
 - (a) a veterinary inspector confirms (orally or otherwise) to any occupier of the premises that the presence of African horse sickness virus on the premises is not suspected, or
 - (b) the premises become suspect premises[^f00007].
 
-### 8. Imposing measures on suspicion of disease[^key-25769a2c7fad72ea6772b70ecaa7cc08]
+### 8. Imposing measures on suspicion of disease[^c-25769a2c7fad72ea6772b70ecaa7cc08]
 
 (1) This regulation applies where an inspector suspects that a horse or carcase that is or has been infected with African horse sickness virus is or has been on any premises (whether following a notification under regulation 5(1) or otherwise).
 
@@ -189,7 +189,7 @@ This Part does not apply in relation to slaughterhouses or non-captive horses.
 
   and continue the inquiry until these matters have been established so far as is practicable or the possible presence of African horse sickness virus has been discounted.
 
-### 9. Measures following suspicion – premises other than contact premises[^key-d63e033a19ce40fe5f12e0c547b7747d]
+### 9. Measures following suspicion – premises other than contact premises[^c-d63e033a19ce40fe5f12e0c547b7747d]
 
 (1) This regulation applies where premises, other than contact premises, are designated as suspect premises.
 
@@ -216,7 +216,7 @@ This Part does not apply in relation to slaughterhouses or non-captive horses.
 
 (11) If the Chief Veterinary Officer considers it necessary to reduce the risk of spread of African horse sickness virus, the notice served under paragraph (8) may require measures additional to those in the Schedule and paragraph (10).
 
-### 10. Measures following suspicion – contact premises[^key-e72bfaf86da2f616d7c989d8bb1ae9fb]
+### 10. Measures following suspicion – contact premises[^c-e72bfaf86da2f616d7c989d8bb1ae9fb]
 
 (1) This regulation applies where contact premises are designated as suspect premises.
 
@@ -252,7 +252,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 (11) In this regulation, “the relevant period” (“*y cyfnod perthnasol*”) is the period determined by the Chief Veterinary Officer to be necessary for establishing whether or not African horse sickness is present in a horse or carcase on the premises.
 
-### 11. Powers to prevent horses from being brought onto other premises[^key-ac5e0c560764d763e6640f8f1b950851]
+### 11. Powers to prevent horses from being brought onto other premises[^c-ac5e0c560764d763e6640f8f1b950851]
 
 (1) This regulation applies where premises are infected premises and the Chief Veterinary Officer considers that due to the risk of African horse sickness virus spreading it is appropriate to prevent horses from being brought onto other premises.
 
@@ -264,7 +264,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 (5) A veterinary inspector must revoke any notice served under paragraph (2) if satisfied, having regard to the epidemiological risk, that the prohibition is no longer necessary to reduce the risk of the spread of African horse sickness virus.
 
-### 12. Killing horses on infected premises and contact premises and disposal of carcases[^key-94899e22a7a9b316730eebe7f209b3cc]
+### 12. Killing horses on infected premises and contact premises and disposal of carcases[^c-94899e22a7a9b316730eebe7f209b3cc]
 
 (1) Paragraph (2) applies in relation to horses—
 
@@ -280,7 +280,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 (4) The Welsh Ministers must ensure that any such disposal is carried out in such a way as to avoid the risk of spread of African horse sickness virus.
 
-### 13. Revocation of notices declaring premises to be infected premises[^key-8b7dc5a50b0ebca4186e7f83f896ff69]
+### 13. Revocation of notices declaring premises to be infected premises[^c-8b7dc5a50b0ebca4186e7f83f896ff69]
 
 (1) A veterinary inspector must not revoke a notice declaring premises to be infected premises unless the Chief Veterinary Officer is satisfied that there is minimal risk of further infection from those premises.
 
@@ -290,7 +290,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 ## PART 4 — Slaughterhouses
 
-### 14. Imposition of initial controls at slaughterhouses[^key-32c82840e4ebb2ce175eb3b17d8610de]
+### 14. Imposition of initial controls at slaughterhouses[^c-32c82840e4ebb2ce175eb3b17d8610de]
 
 (1) This regulation applies—
 
@@ -311,7 +311,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 - (b) any notified horse and any other horse from the same premises as the notified horse is not slaughtered unless authorised to do so by a veterinary inspector, and
 - (c) if any notified horse or any horse from the same premises as a notified horse has already been, or is subsequently, slaughtered or has died, its carcase is specifically identified and retained at the slaughterhouse until a veterinary inspector has examined it, and taken samples if considered necessary.
 
-### 15. Action following examination[^key-bc9495d9637a73679c82f3b22882283b]
+### 15. Action following examination[^c-bc9495d9637a73679c82f3b22882283b]
 
 (1) This regulation applies where a veterinary inspector has acted under regulation 14(3).
 
@@ -340,7 +340,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 ## PART 5 — Non-captive horses
 
-### 16. Suspicion relating to non-captive horses[^key-ba510e7d58bcfddf108cc3fa3a9c7639]
+### 16. Suspicion relating to non-captive horses[^c-ba510e7d58bcfddf108cc3fa3a9c7639]
 
 (1) This regulation applies where a veterinary inspector suspects that a non-captive horse may be infected with African horse sickness virus.
 
@@ -381,7 +381,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 ## PART 6 — Area controls
 
-### 17. Temporary movement restriction zone[^key-06ee9d859e33d0d56d3a52545ab7dab2]
+### 17. Temporary movement restriction zone[^c-06ee9d859e33d0d56d3a52545ab7dab2]
 
 (1) This regulation applies where premises are suspect premises or where a veterinary inspector has taken samples under regulation 15(3) from a horse or carcase at a slaughterhouse.
 
@@ -393,7 +393,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 (5) If the Welsh Ministers consider it necessary to reduce the risk of spread of African horse sickness virus, the Welsh Ministers may in the declaration of the temporary movement restriction zone impose any other measures.
 
-### 18. Control zone, protection zone and surveillance zone[^key-38dfb5f93cce6432a03153f0d521f3f3]
+### 18. Control zone, protection zone and surveillance zone[^c-38dfb5f93cce6432a03153f0d521f3f3]
 
 (1) This regulation applies where premises are infected premises or where tests under regulation 15 indicate the existence of African horse sickness virus in a horse or carcase at a slaughterhouse.
 
@@ -426,7 +426,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (9) The Welsh Ministers may declare that any other measure considered necessary to reduce the risk of spread of African horse sickness virus applies in respect of the whole or any part of the control zone, protection zone or surveillance zone.
 
-### 19. Infection zones[^key-be72002a5d5a90c5c9618707eff2ecf1]
+### 19. Infection zones[^c-be72002a5d5a90c5c9618707eff2ecf1]
 
 (1) This regulation applies where a veterinary inspector concludes that African horse sickness virus is likely to be present in a non-captive horse.
 
@@ -437,11 +437,11 @@ except under the authority of a licence granted by a veterinary inspector.
 - (a) restrictions on the movement of horses into or out of the infection zone;
 - (b) that any other measure considered necessary to reduce the risk of spread of African horse sickness virus applies in respect of the whole or any part of the infection zone.
 
-### 20. Declaration of zones where African horse sickness suspected or confirmed outside Wales[^key-6fcd41cd977a219d7e9aaa6f2e4ffc93]
+### 20. Declaration of zones where African horse sickness suspected or confirmed outside Wales[^c-6fcd41cd977a219d7e9aaa6f2e4ffc93]
 
 (1) This regulation applies where—
 
-- (a) the presence of African horse sickness virus is suspected or confirmed[^key-95fb2bf6b4f75b3e387ff2c41a7c79b9] , as last amended by Council Directive 2008//72/EC, outside Wales[^key-174375383c8d90322485244b43a3269b], and
+- (a) the presence of African horse sickness virus is suspected or confirmed[^c-95fb2bf6b4f75b3e387ff2c41a7c79b9] , as last amended by Council Directive 2008//72/EC, outside Wales[^c-174375383c8d90322485244b43a3269b], and
 - (b) the Welsh Ministers consider that there is a risk of spread of African horse sickness virus to Wales.
 
 (2) The Welsh Ministers may declare in Wales any of the following—
@@ -456,7 +456,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (4) Regulations 17(4) and (5), 18(5) to (9) and 19(3) apply to any zone declared under this regulation as if it were a zone declared under regulation 17, 18 or 19 (as applicable).
 
-### 21. Declaration of zones[^key-1a3abb845dcfa0bde442128967f8da84]
+### 21. Declaration of zones[^c-1a3abb845dcfa0bde442128967f8da84]
 
 (1) A declaration of a zone under these Regulations—
 
@@ -470,7 +470,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (4) In deciding to amend or revoke any declaration of a zone, the Welsh Ministers must have regard to the epidemiological situation and the measures necessary to control the spread of African horse sickness virus.
 
-### 22. Premises straddling zones[^key-5b36ff0ecdcd05db4db21246f48d0d8c]
+### 22. Premises straddling zones[^c-5b36ff0ecdcd05db4db21246f48d0d8c]
 
 (1) Premises partly inside and partly outside a temporary movement restriction zone declared under regulation 17 or 20 are treated as being inside the temporary movement restriction zone.
 
@@ -482,7 +482,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (5) Premises partly inside and partly outside an infection zone declared under regulation 19 or 20 are treated as being inside the infection zone.
 
-### 23. Publicity[^key-62cdb5204eca7cde35de476ac5704e37]
+### 23. Publicity[^c-62cdb5204eca7cde35de476ac5704e37]
 
 The Welsh Ministers must publicise—
 
@@ -492,11 +492,11 @@ The Welsh Ministers must publicise—
 
 ## PART 7 — Vaccination
 
-### 24. Prohibition on vaccination except in certain cases[^key-81288d510837c6b4f3fc4dcdf96e0bbd]
+### 24. Prohibition on vaccination except in certain cases[^c-81288d510837c6b4f3fc4dcdf96e0bbd]
 
 No person may vaccinate a horse against African horse sickness except in accordance with these Regulations or under the authority of a licence granted by a veterinary inspector.
 
-### 25. Compulsory vaccination[^key-0b17287772f075635aa4b0669ddcfd3b]
+### 25. Compulsory vaccination[^c-0b17287772f075635aa4b0669ddcfd3b]
 
 (1) The Welsh Ministers may declare a vaccination zone, other than in a surveillance zone.
 
@@ -506,7 +506,7 @@ No person may vaccinate a horse against African horse sickness except in accorda
 
 (4) A veterinary inspector may serve a notice on any person in possession or charge of a horse, other than one kept in a surveillance zone, requiring that person to vaccinate the horse in accordance with the notice (whether or not a vaccination zone has been declared under paragraph (1)).
 
-### 26. Vaccinated horses[^key-83f383224e0b92fd233e5b13403b8fe6]
+### 26. Vaccinated horses[^c-83f383224e0b92fd233e5b13403b8fe6]
 
 (1) The person in possession or charge of a horse that has been vaccinated against African horse sickness must ensure that the horse is identified by way of a microchip and a record of such horse having been vaccinated is kept.
 
@@ -519,7 +519,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 ## PART 8 — Inspection, enforcement and miscellaneous provisions
 
-### 27. Notices[^key-9b06261a65e804a5703ccd04e51c3ec7]
+### 27. Notices[^c-9b06261a65e804a5703ccd04e51c3ec7]
 
 (1) Any notice served or given under these Regulations must be in writing and may be amended, suspended or revoked in writing at any time.
 
@@ -561,7 +561,7 @@ except under the authority of a licence granted by a veterinary inspector.
 - “officer” (“*swyddog*”), in relation to a body corporate, means any director, manager, secretary or other similar officer of the body corporate;
 - “partnership” (“*partneriaeth*”) does not include a limited liability partnership.
 
-### 28. Licences[^key-e63763fc655594d856dbd65e6131cb6c]
+### 28. Licences[^c-e63763fc655594d856dbd65e6131cb6c]
 
 (1) A licence granted under these Regulations must be in writing and may be—
 
@@ -590,7 +590,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (6) Except where otherwise directed by the Welsh Ministers, licences granted in England or Scotland for activities which could be licensed in Wales under these Regulations have effect in Wales as if they were licences granted under these Regulations, and the provisions of this regulation apply accordingly.
 
-### 29. Powers of inspectors[^key-1359c49e59b6ab5550306775cee823a7]
+### 29. Powers of inspectors[^c-1359c49e59b6ab5550306775cee823a7]
 
 (1) An inspector may, on producing a duly authenticated authorisation if requested, enter any premises, vehicle, vessel or trailer (except any premises used wholly or mainly as a private dwelling house) at any reasonable hour for the purpose of executing or enforcing these Regulations.
 
@@ -633,7 +633,7 @@ except under the authority of a licence granted by a veterinary inspector.
 (8) The inspector may—
 
 - (a) take any necessary equipment, sentinel horse or vehicle on to the premises;
-- (b)[^key-482ffad9340a2fcd32dc9958c6369aa7] be accompanied by such other persons as the inspector considers necessary.
+- (b)[^c-482ffad9340a2fcd32dc9958c6369aa7] be accompanied by such other persons as the inspector considers necessary.
 
 (9) Any power or obligation to take a sample and test it includes a power to—
 
@@ -642,7 +642,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (10) In this regulation, a sentinel horse is a horse used for surveillance for African horse sickness virus which does not have antibodies to that virus when introduced to or retained at the premises for that purpose.
 
-### 30. Notice following a contravention on movement[^key-02d90d1c41dd124523ce4978405e3639]
+### 30. Notice following a contravention on movement[^c-02d90d1c41dd124523ce4978405e3639]
 
 (1) If a horse has been moved to any premises in contravention of any provision of these Regulations or any licence or notice served under these Regulations, an inspector may serve a notice on the main occupier of those premises requiring—
 
@@ -651,15 +651,15 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (2) If a horse has been moved to other premises under such a notice, an inspector may serve a notice on any occupier of those other premises imposing such movement restrictions relating to horses on those premises as the inspector considers necessary to reduce the risk of spreading African horse sickness virus.
 
-### 31. Change of main occupier of premises under restriction – access for welfare purposes[^key-3179cadd762b2749ee24aff2b734a15f]
+### 31. Change of main occupier of premises under restriction – access for welfare purposes[^c-3179cadd762b2749ee24aff2b734a15f]
 
 If there is a change of main occupier of premises under any restriction under these Regulations, the new main occupier must allow the owner of any horse on the premises, or any person acting on behalf of the owner, to enter the premises to feed or otherwise attend to the welfare of the horse during the period of restriction and for seven days following its end.
 
-### 32. Powers of inspectors in case of default[^key-033d8ad38e64262edfd2a8735932ad4e]
+### 32. Powers of inspectors in case of default[^c-033d8ad38e64262edfd2a8735932ad4e]
 
 If any person fails to comply with a requirement in or under these Regulations, an inspector may take such steps as that inspector considers necessary to ensure the requirement is met at the expense of that person.
 
-### 33. Compensation for horses killed and things seized[^key-ba6579531006e66d3afcb82358eebc0f]
+### 33. Compensation for horses killed and things seized[^c-ba6579531006e66d3afcb82358eebc0f]
 
 (1) The Welsh Ministers, in accordance with this regulation—
 
@@ -704,7 +704,7 @@ the Welsh Ministers must refer the determination of the value to an appointed va
 
 (10) Nothing in this regulation authorises any delay in the killing of a horse for the purposes of controlling African horse sickness.
 
-### 34. Obstruction[^key-3e66504e27e237e709b3bbfb6fc42131]
+### 34. Obstruction[^c-3e66504e27e237e709b3bbfb6fc42131]
 
 No person may—
 
@@ -713,7 +713,7 @@ No person may—
 - (c) provide to anyone acting in the execution or enforcement of these Regulations any information knowing it to be false or misleading or not believing it to be true; or
 - (d) fail to produce a record when required to do so by any person acting in the execution or enforcement of these Regulations.
 
-### 35. Offences and penalties[^key-a6726b1ce2e2b8366281e8d60c279828]
+### 35. Offences and penalties[^c-a6726b1ce2e2b8366281e8d60c279828]
 
 (1) A person is guilty of an offence if that person fails to comply with any of the following provisions—
 
@@ -746,7 +746,7 @@ No person may—
   - (ii) in the case of conviction for any other offence under paragraph (1) to a fine not exceeding the statutory maximum, or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding six months or both.
 
-### 36. Offences by bodies corporate[^key-79d6ce16f598acc869c72bb0cbc69c11]
+### 36. Offences by bodies corporate[^c-79d6ce16f598acc869c72bb0cbc69c11]
 
 (1) If an offence under these Regulations committed by a body corporate is proved—
 
@@ -762,7 +762,7 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 (3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as it applies to an officer of a body corporate.
 
-### 37. Offences by partnerships and unincorporated associations[^key-66a8c63f10bee9b9c55f1e5f1a69c583]
+### 37. Offences by partnerships and unincorporated associations[^c-66a8c63f10bee9b9c55f1e5f1a69c583]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or an unincorporated association may be brought against the partnership or association in the name of the partnership or association.
 
@@ -789,7 +789,7 @@ the officer, as well as the association, is guilty of the offence and is liable 
 - (a) an officer of the association or a member of its governing body, or
 - (b) a person purporting to act in such capacity.
 
-### 38. Enforcement[^key-24afaccaa814d15eb8b304641213fcbb]
+### 38. Enforcement[^c-24afaccaa814d15eb8b304641213fcbb]
 
 (1) These Regulations are enforced by the local authority.
 
@@ -797,14 +797,14 @@ the officer, as well as the association, is guilty of the offence and is liable 
 
 (3) In this regulation, “local authority” (“*awdurdod lleol*”) means a county council or a county borough council.
 
-### 39. Exceptional circumstances[^key-32abdafeb8f455e76879f5a954b8d04c]
+### 39. Exceptional circumstances[^c-32abdafeb8f455e76879f5a954b8d04c]
 
 A veterinary inspector may for the purpose of ensuring the health or welfare of any horse—
 
 - (a) license a person to carry out any action that is otherwise prohibited under these Regulations; or
 - (b) exempt a person, by notice, from any requirement under these Regulations.
 
-### 40. Amendments[^key-8ab0504c6fb20e14956e47706d400fe9]
+### 40. Amendments[^c-8ab0504c6fb20e14956e47706d400fe9]
 
 (1) In the Specified Diseases (Notification and Slaughter) Order 1992[^f00017], in article 2 omit the reference to African horse sickness.
 
@@ -818,7 +818,7 @@ Minister for Natural Resources and Food
 
 Regulations 8(2) 9(9), 10(8) and 18(5)
 
-### 1. Records[^key-267f856dfff5764660b4a4d15407ed56]
+### 1. Records[^c-267f856dfff5764660b4a4d15407ed56]
 
 (1) The main occupier must keep a record of every horse on the premises.
 
@@ -838,18 +838,18 @@ Regulations 8(2) 9(9), 10(8) and 18(5)
 
 whichever is the later.
 
-### 2. Housing of horses[^key-a17e651ef6eaa6e057c53c2c2157d37c]
+### 2. Housing of horses[^c-a17e651ef6eaa6e057c53c2c2157d37c]
 
 An occupier must ensure that every horse on the premises is kept—
 
 - (a) so far as is practicable on the part or parts of the premises where they may be less exposed to vectors; or
 - (b) as directed by a veterinary inspector.
 
-### 3. Restriction on movement of horses, carcases, equipment or genetic material[^key-58b60a511bbf19f45e23f8d778a342df]
+### 3. Restriction on movement of horses, carcases, equipment or genetic material[^c-58b60a511bbf19f45e23f8d778a342df]
 
 No person may move any horse or carcase to or from the premises or any equipment or genetic material from the premises, except under the authority of a licence granted by a veterinary inspector or an officer of the Welsh Ministers acting under the direction of a veterinary inspector.
 
-### 4. Control of vectors[^key-e462cb8c3c55e8a27e946ab74a2acac8]
+### 4. Control of vectors[^c-e462cb8c3c55e8a27e946ab74a2acac8]
 
 The main occupier must implement such practicable vector control measures as a veterinary inspector may require.
 
@@ -889,126 +889,126 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a) and the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and Part 1 of the Schedule.
 
-[^key-f69333f3be0a31f8428850441bcb57e7]: Commencement: Reg. 1 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-f69333f3be0a31f8428850441bcb57e7]: Commencement: Reg. 1 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-d66112f4f89d42af778513e189165a62]: Commencement: Reg. 2 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-d66112f4f89d42af778513e189165a62]: Commencement: Reg. 2 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00003]: Footnote: ISBN 0 580 18481 1, published 29 June 1990.
 
 [^f00004]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-e4a23d02ed484394a5f26a1f1687d190]: Commencement: Reg. 3 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-e4a23d02ed484394a5f26a1f1687d190]: Commencement: Reg. 3 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-71ec3cbf5ce26d06a3b45be8eb65c96e]: Commencement: Reg. 4 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-71ec3cbf5ce26d06a3b45be8eb65c96e]: Commencement: Reg. 4 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00005]: Footnote: [S.I. 2008/1270 (W.129)](https://www.legislation.gov.uk/wsi/2008/1270) as amended by [S.I. 2009/3234 (W.281)](https://www.legislation.gov.uk/wsi/2009/3234).
 
 [^f00006]: Footnote: [S.I. 2011/2379 (W.252)](https://www.legislation.gov.uk/wsi/2011/2379).
 
-[^key-61457a60a1d7040ea32719b1557553fb]: Commencement: Reg. 5 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-61457a60a1d7040ea32719b1557553fb]: Commencement: Reg. 5 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-0b0253cdd471d636b73f95a8ee12ff5a]: Commencement: Reg. 6 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-0b0253cdd471d636b73f95a8ee12ff5a]: Commencement: Reg. 6 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-4705ec891637f9ed61d82e3cb60ec62b]: Commencement: Reg. 7 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-4705ec891637f9ed61d82e3cb60ec62b]: Commencement: Reg. 7 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00007]: Footnote: At which point other measures have effect: *see* regulation 8(2).
 
-[^key-25769a2c7fad72ea6772b70ecaa7cc08]: Commencement: Reg. 8 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-25769a2c7fad72ea6772b70ecaa7cc08]: Commencement: Reg. 8 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00008]: Footnote: *See* also the power of the Welsh Ministers under regulation 17 to declare a temporary movement restriction zone.
 
-[^key-d63e033a19ce40fe5f12e0c547b7747d]: Commencement: Reg. 9 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-d63e033a19ce40fe5f12e0c547b7747d]: Commencement: Reg. 9 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00009]: Footnote: *See* also the power of the Welsh Ministers under regulation 18 to declare a control zone, protection zone and surveillance zone.
 
-[^key-e72bfaf86da2f616d7c989d8bb1ae9fb]: Commencement: Reg. 10 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-e72bfaf86da2f616d7c989d8bb1ae9fb]: Commencement: Reg. 10 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00010]: Footnote: *See* also the power of the Welsh Ministers under regulation 18 to declare a control zone, protection zone and surveillance zone.
 
-[^key-ac5e0c560764d763e6640f8f1b950851]: Commencement: Reg. 11 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-ac5e0c560764d763e6640f8f1b950851]: Commencement: Reg. 11 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-94899e22a7a9b316730eebe7f209b3cc]: Commencement: Reg. 12 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-94899e22a7a9b316730eebe7f209b3cc]: Commencement: Reg. 12 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-8b7dc5a50b0ebca4186e7f83f896ff69]: Commencement: Reg. 13 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-8b7dc5a50b0ebca4186e7f83f896ff69]: Commencement: Reg. 13 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-32c82840e4ebb2ce175eb3b17d8610de]: Commencement: Reg. 14 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-32c82840e4ebb2ce175eb3b17d8610de]: Commencement: Reg. 14 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-bc9495d9637a73679c82f3b22882283b]: Commencement: Reg. 15 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-bc9495d9637a73679c82f3b22882283b]: Commencement: Reg. 15 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00011]: Footnote: *See* also the power of the Welsh Ministers under regulation 17 to declare a temporary movement restriction zone.
 
 [^f00012]: Footnote: *See* also the power of the Welsh Ministers under regulation 18 to declare a control zone, protection zone and surveillance zone.
 
-[^key-ba510e7d58bcfddf108cc3fa3a9c7639]: Commencement: Reg. 16 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-ba510e7d58bcfddf108cc3fa3a9c7639]: Commencement: Reg. 16 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-06ee9d859e33d0d56d3a52545ab7dab2]: Commencement: Reg. 17 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-06ee9d859e33d0d56d3a52545ab7dab2]: Commencement: Reg. 17 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-38dfb5f93cce6432a03153f0d521f3f3]: Commencement: Reg. 18 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-38dfb5f93cce6432a03153f0d521f3f3]: Commencement: Reg. 18 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-be72002a5d5a90c5c9618707eff2ecf1]: Commencement: Reg. 19 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-be72002a5d5a90c5c9618707eff2ecf1]: Commencement: Reg. 19 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-6fcd41cd977a219d7e9aaa6f2e4ffc93]: Commencement: Reg. 20 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-6fcd41cd977a219d7e9aaa6f2e4ffc93]: Commencement: Reg. 20 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-95fb2bf6b4f75b3e387ff2c41a7c79b9]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/20/1/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [11(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95fb2bf6b4f75b3e387ff2c41a7c79b9]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/20/1/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [11(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-174375383c8d90322485244b43a3269b]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/20/1/a) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2019/463/regulation/13)
+[^c-174375383c8d90322485244b43a3269b]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/20/1/a) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2019/463/regulation/13)
 
-[^key-1a3abb845dcfa0bde442128967f8da84]: Commencement: Reg. 21 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-1a3abb845dcfa0bde442128967f8da84]: Commencement: Reg. 21 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-5b36ff0ecdcd05db4db21246f48d0d8c]: Commencement: Reg. 22 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-5b36ff0ecdcd05db4db21246f48d0d8c]: Commencement: Reg. 22 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-62cdb5204eca7cde35de476ac5704e37]: Commencement: Reg. 23 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-62cdb5204eca7cde35de476ac5704e37]: Commencement: Reg. 23 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-81288d510837c6b4f3fc4dcdf96e0bbd]: Commencement: Reg. 24 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-81288d510837c6b4f3fc4dcdf96e0bbd]: Commencement: Reg. 24 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-0b17287772f075635aa4b0669ddcfd3b]: Commencement: Reg. 25 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-0b17287772f075635aa4b0669ddcfd3b]: Commencement: Reg. 25 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-83f383224e0b92fd233e5b13403b8fe6]: Commencement: Reg. 26 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-83f383224e0b92fd233e5b13403b8fe6]: Commencement: Reg. 26 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-9b06261a65e804a5703ccd04e51c3ec7]: Commencement: Reg. 27 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-9b06261a65e804a5703ccd04e51c3ec7]: Commencement: Reg. 27 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00014]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-e63763fc655594d856dbd65e6131cb6c]: Commencement: Reg. 28 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-e63763fc655594d856dbd65e6131cb6c]: Commencement: Reg. 28 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-1359c49e59b6ab5550306775cee823a7]: Commencement: Reg. 29 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-1359c49e59b6ab5550306775cee823a7]: Commencement: Reg. 29 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-482ffad9340a2fcd32dc9958c6369aa7]: Textual amendment: [Reg. 29(8)(b)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/29/8/b) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [11(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-482ffad9340a2fcd32dc9958c6369aa7]: Textual amendment: [Reg. 29(8)(b)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/29/8/b) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [11(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02d90d1c41dd124523ce4978405e3639]: Commencement: Reg. 30 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-02d90d1c41dd124523ce4978405e3639]: Commencement: Reg. 30 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-3179cadd762b2749ee24aff2b734a15f]: Commencement: Reg. 31 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-3179cadd762b2749ee24aff2b734a15f]: Commencement: Reg. 31 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-033d8ad38e64262edfd2a8735932ad4e]: Commencement: Reg. 32 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-033d8ad38e64262edfd2a8735932ad4e]: Commencement: Reg. 32 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-ba6579531006e66d3afcb82358eebc0f]: Commencement: Reg. 33 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-ba6579531006e66d3afcb82358eebc0f]: Commencement: Reg. 33 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-3e66504e27e237e709b3bbfb6fc42131]: Commencement: Reg. 34 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-3e66504e27e237e709b3bbfb6fc42131]: Commencement: Reg. 34 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-a6726b1ce2e2b8366281e8d60c279828]: Commencement: Reg. 35 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-a6726b1ce2e2b8366281e8d60c279828]: Commencement: Reg. 35 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-79d6ce16f598acc869c72bb0cbc69c11]: Commencement: Reg. 36 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-79d6ce16f598acc869c72bb0cbc69c11]: Commencement: Reg. 36 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-66a8c63f10bee9b9c55f1e5f1a69c583]: Commencement: Reg. 37 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-66a8c63f10bee9b9c55f1e5f1a69c583]: Commencement: Reg. 37 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00015]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) of section 33 were repealed by the Magistrates’ Court Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part 2, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10.
 
 [^f00016]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraph 2(a) of Schedule 3 was amended by the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, Part 2, paragraph 51(1) and (13)(a), and Schedule 37, Part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was repealed by the Criminal Justice Act 2003, section 41, Schedule 3, Part 2, paragraph 51(1) and (13)(b) (with effect from a date to be appointed).
 
-[^key-24afaccaa814d15eb8b304641213fcbb]: Commencement: Reg. 38 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-24afaccaa814d15eb8b304641213fcbb]: Commencement: Reg. 38 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-32abdafeb8f455e76879f5a954b8d04c]: Commencement: Reg. 39 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-32abdafeb8f455e76879f5a954b8d04c]: Commencement: Reg. 39 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-8ab0504c6fb20e14956e47706d400fe9]: Commencement: Reg. 40 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-8ab0504c6fb20e14956e47706d400fe9]: Commencement: Reg. 40 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
 [^f00017]: Footnote: [S.I. 1992/3159](https://www.legislation.gov.uk/uksi/1992/3159) as amended by [S.I. 2006/2237 (W.199)](https://www.legislation.gov.uk/wsi/2006/2237).
 
 [^f00018]: Footnote: [S.I. 1996/2628](https://www.legislation.gov.uk/uksi/1996/2628), relevant amending instruments are [S.I. 1998/1645](https://www.legislation.gov.uk/uksi/1998/1645), [2006/2237 (W.199)](https://www.legislation.gov.uk/wsi/2006/2237) and [2010/618 (W.60)](https://www.legislation.gov.uk/wsi/2010/618).
 
-[^key-267f856dfff5764660b4a4d15407ed56]: Commencement: Sch. para. 1 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-267f856dfff5764660b4a4d15407ed56]: Commencement: Sch. para. 1 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-a17e651ef6eaa6e057c53c2c2157d37c]: Commencement: Sch. para. 2 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-a17e651ef6eaa6e057c53c2c2157d37c]: Commencement: Sch. para. 2 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-58b60a511bbf19f45e23f8d778a342df]: Commencement: Sch. para. 3 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-58b60a511bbf19f45e23f8d778a342df]: Commencement: Sch. para. 3 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
 
-[^key-e462cb8c3c55e8a27e946ab74a2acac8]: Commencement: Sch. para. 4 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)
+[^c-e462cb8c3c55e8a27e946ab74a2acac8]: Commencement: Sch. para. 4 in force at 31.7.2013, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2013/1662/regulation/1/c)

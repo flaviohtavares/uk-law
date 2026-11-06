@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62A. Recovery of expenses[^key-2742d15f6b11f7fbc98c954150a14cb0]
+## 62A. Recovery of expenses[^c-2742d15f6b11f7fbc98c954150a14cb0]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2742d15f6b11f7fbc98c954150a14cb0]: Textual amendment: [Reg. 62A](https://www.legislation.gov.uk/uksi/2013/380/regulation/62A) inserted (21.7.2016) by [The Social Security (Expenses of Paying Sums in Relation to Vehicle Hire) Regulations 2016 (S.I. 2016/674)](https://www.legislation.gov.uk/uksi/2016/674), [regs. 1](https://www.legislation.gov.uk/uksi/2016/674/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/674/regulation/5)
+[^c-2742d15f6b11f7fbc98c954150a14cb0]: Textual amendment: [Reg. 62A](https://www.legislation.gov.uk/uksi/2013/380/regulation/62A) inserted (21.7.2016) by [The Social Security (Expenses of Paying Sums in Relation to Vehicle Hire) Regulations 2016 (S.I. 2016/674)](https://www.legislation.gov.uk/uksi/2016/674), [regs. 1](https://www.legislation.gov.uk/uksi/2016/674/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/674/regulation/5)

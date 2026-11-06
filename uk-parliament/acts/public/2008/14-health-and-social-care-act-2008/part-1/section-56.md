@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Role of Audit Commission[^key-59f2fb441d530fc19b7e4559d79d4b10]
+## 56. Role of Audit Commission[^c-59f2fb441d530fc19b7e4559d79d4b10]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59f2fb441d530fc19b7e4559d79d4b10]: Textual amendment: S. 56 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 87](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/87); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-59f2fb441d530fc19b7e4559d79d4b10]: Textual amendment: S. 56 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 87](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/87); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

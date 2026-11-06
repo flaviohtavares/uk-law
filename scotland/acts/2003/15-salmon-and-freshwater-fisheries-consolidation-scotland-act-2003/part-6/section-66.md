@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Application of Leases Act 1449[^key-f52eca835f559acbbf370c1e802700d9]
+## 66. Application of Leases Act 1449[^c-f52eca835f559acbbf370c1e802700d9]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f52eca835f559acbbf370c1e802700d9]: Commencement: S. 66 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-f52eca835f559acbbf370c1e802700d9]: Commencement: S. 66 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

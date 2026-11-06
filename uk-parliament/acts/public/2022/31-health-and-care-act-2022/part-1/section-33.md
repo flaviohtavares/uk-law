@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Abolition of Monitor and transfer of functions to NHS England[^key-ffece9192b12f2838a020bb2b2192b94][^key-19d391b94c93e84a479c0f45fdc870fe]
+## 33. Abolition of Monitor and transfer of functions to NHS England[^c-ffece9192b12f2838a020bb2b2192b94][^c-19d391b94c93e84a479c0f45fdc870fe]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ffece9192b12f2838a020bb2b2192b94]: Commencement: S. 33 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ffece9192b12f2838a020bb2b2192b94]: Commencement: S. 33 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-19d391b94c93e84a479c0f45fdc870fe]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/31/section/33) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-19d391b94c93e84a479c0f45fdc870fe]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/31/section/33) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

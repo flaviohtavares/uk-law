@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Notice of declaration of a dividend[^key-8625165a688b34ec7471c80273c72416]
+## 69. Notice of declaration of a dividend[^c-8625165a688b34ec7471c80273c72416]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8625165a688b34ec7471c80273c72416]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2013/3208/rule/69) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8625165a688b34ec7471c80273c72416]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2013/3208/rule/69) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Regulation by the Law Society of conveyancing and executry services[^c13712751][^key-8245746efd934892b6153e3f44218348]
+## 16. Regulation by the Law Society of conveyancing and executry services[^c13712751][^c-8245746efd934892b6153e3f44218348]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c13712751]: Commencement: S. 16 wholly in force at 1.4.1991. See s. 75(2) and [S.I. 1991/822](https://www.legislation.gov.uk/uksi/1991/822), [art. 3](https://www.legislation.gov.uk/uksi/1991/822/article/3), [Sch](https://www.legislation.gov.uk/uksi/1991/822/schedule)edule.
 
-[^key-8245746efd934892b6153e3f44218348]: Textual amendment: S. 16 substituted (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-8245746efd934892b6153e3f44218348]: Textual amendment: S. 16 substituted (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12/2); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)

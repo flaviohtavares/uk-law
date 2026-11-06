@@ -24,7 +24,7 @@ Section 54
 
 ### PART 1 — New Part 8B of FSMA 2000
 
-**1.**[^key-bcec9d790252b17c3aa25eaa0b852198] After Part 8A of FSMA 2000 (short selling) insert—
+**1.**[^c-bcec9d790252b17c3aa25eaa0b852198] After Part 8A of FSMA 2000 (short selling) insert—
 
 > **PART 8B — Cash access services**
 >
@@ -356,40 +356,40 @@ Section 54
 
 ### PART 2 — Consequential amendments to FSMA 2000
 
-**2.**[^key-8120b2f3bf56fef5dd68a1104911b285] FSMA 2000 is amended as follows.
+**2.**[^c-8120b2f3bf56fef5dd68a1104911b285] FSMA 2000 is amended as follows.
 
-**3.**[^key-2a758e49764170eb30eb237184ffe147] In section 3D (duty of FCA and PRA to ensure co-ordinated exercise of functions), in subsection (4), after “operational objectives”, insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1))”.
+**3.**[^c-2a758e49764170eb30eb237184ffe147] In section 3D (duty of FCA and PRA to ensure co-ordinated exercise of functions), in subsection (4), after “operational objectives”, insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1))”.
 
-**4.**[^key-8c9baa81c730e98e70f76bd35375c500] In section 55H (variation by FCA at request of authorised person), in subsection (4), after “objectives” insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1))”.
+**4.**[^c-8c9baa81c730e98e70f76bd35375c500] In section 55H (variation by FCA at request of authorised person), in subsection (4), after “objectives” insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1))”.
 
-**5.**[^key-1c29db895ea54e99abdbad626d242470] In section 55L (imposition of requirements by FCA), in subsection (6), after “objectives” insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1))”.
+**5.**[^c-1c29db895ea54e99abdbad626d242470] In section 55L (imposition of requirements by FCA), in subsection (6), after “objectives” insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1))”.
 
-**6.**[^key-5712675a17102a7ea55e49eacffd3320] In section 55T (persons whose interests are protected), after “operational objectives,” insert “the purpose for which the FCA must exercise its functions under Part 8B,”.
+**6.**[^c-5712675a17102a7ea55e49eacffd3320] In section 55T (persons whose interests are protected), after “operational objectives,” insert “the purpose for which the FCA must exercise its functions under Part 8B,”.
 
-**7.**[^key-fb98ec6689bf8046a3f9eb60c6a10b3e] In section 232A (ombudsman scheme operator’s duty to provide information to FCA), after “objectives,” insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1)),”.
+**7.**[^c-fb98ec6689bf8046a3f9eb60c6a10b3e] In section 232A (ombudsman scheme operator’s duty to provide information to FCA), after “objectives,” insert “, or the purpose for which the FCA must exercise its functions under Part 8B (see section 131U(1)),”.
 
-**8.**[^key-4a8e10e133eb1c9932e3869ef17776ff] In section 395 (the FCA’s and PRA’s procedures), in subsection (13), after paragraph (bbzb) insert—
+**8.**[^c-4a8e10e133eb1c9932e3869ef17776ff] In section 395 (the FCA’s and PRA’s procedures), in subsection (13), after paragraph (bbzb) insert—
 
 > - (bbzc) 131W;
 
-**9.**[^key-98eb5b76b2ff8e5a247ea801b4343acd] In section 429 (Parliamentary control of statutory instruments), in subsection (2), in the list of sections beginning with “90B” insert at the appropriate place “131O(7),”.
+**9.**[^c-98eb5b76b2ff8e5a247ea801b4343acd] In section 429 (Parliamentary control of statutory instruments), in subsection (2), in the list of sections beginning with “90B” insert at the appropriate place “131O(7),”.
 
 ## Annotations
 
-[^key-bcec9d790252b17c3aa25eaa0b852198]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-bcec9d790252b17c3aa25eaa0b852198]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/1) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-8120b2f3bf56fef5dd68a1104911b285]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/2) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-8120b2f3bf56fef5dd68a1104911b285]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/2) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-2a758e49764170eb30eb237184ffe147]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/3) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-2a758e49764170eb30eb237184ffe147]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/3) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-8c9baa81c730e98e70f76bd35375c500]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/4) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-8c9baa81c730e98e70f76bd35375c500]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/4) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-1c29db895ea54e99abdbad626d242470]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/5) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-1c29db895ea54e99abdbad626d242470]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/5) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-5712675a17102a7ea55e49eacffd3320]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/6) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-5712675a17102a7ea55e49eacffd3320]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/6) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-fb98ec6689bf8046a3f9eb60c6a10b3e]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/7) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-fb98ec6689bf8046a3f9eb60c6a10b3e]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/7) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-4a8e10e133eb1c9932e3869ef17776ff]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/8) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-4a8e10e133eb1c9932e3869ef17776ff]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/8) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
 
-[^key-98eb5b76b2ff8e5a247ea801b4343acd]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/9) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)
+[^c-98eb5b76b2ff8e5a247ea801b4343acd]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/8/paragraph/9) in force at 29.8.2023, see [s. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/c)

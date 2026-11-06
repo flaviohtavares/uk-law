@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Works
 
-### 1. Power to construct Forth Crossing etc.[^key-731e7f1565eb1e75c856ad20b8405bf6]
+### 1. Power to construct Forth Crossing etc.[^c-731e7f1565eb1e75c856ad20b8405bf6]
 
 (1) Ministers may—
 
@@ -49,7 +49,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) The principal works and the ancillary works are together referred to in this Act as the “Forth Crossing works”.
 
-### 2. Bridge proportions[^key-6c8e85ef93958c6417a90205d6f85f3a]
+### 2. Bridge proportions[^c-6c8e85ef93958c6417a90205d6f85f3a]
 
 Ministers, when carrying out or maintaining the principal works, must ensure—
 
@@ -62,7 +62,7 @@ Ministers, when carrying out or maintaining the principal works, must ensure—
 - (e) that the height of the Central Tower does not exceed 220 metres above ordnance datum (Newlyn), and
 - (f) that the height of the North Tower and the South Tower does not exceed 210 metres above ordnance datum (Newlyn).
 
-### 3. Maximum construction height[^key-8c4062479f246e7f6621e3d683a541e3]
+### 3. Maximum construction height[^c-8c4062479f246e7f6621e3d683a541e3]
 
 Ministers, when carrying out or maintaining the principal works, may not operate above the maximum construction height without the consent of the airport operator of Edinburgh Airport.
 
@@ -71,7 +71,7 @@ Ministers, when carrying out or maintaining the principal works, may not operate
 - (a) for works associated with the Central Tower, 235 metres above ordnance datum (Newlyn), and
 - (b) for works associated with the North Tower, the South Tower and any other part of the Forth Crossing, 225 metres above ordnance datum (Newlyn).
 
-### 4. Limits of deviation etc.[^key-6dfe8af362df01bae58e0e6d1969f91c]
+### 4. Limits of deviation etc.[^c-6dfe8af362df01bae58e0e6d1969f91c]
 
 (1) Subject to sections 2 and 3, Ministers, when carrying out or maintaining the principal works, may—
 
@@ -80,7 +80,7 @@ Ministers, when carrying out or maintaining the principal works, may not operate
 
 (2) Ministers may carry out and maintain the ancillary works only within the Act limits.
 
-### 5. Bridge marking and lighting[^key-74388e4f0624f37a144f331946bd9af1]
+### 5. Bridge marking and lighting[^c-74388e4f0624f37a144f331946bd9af1]
 
 (1) Ministers must—
 
@@ -106,7 +106,7 @@ Ministers, when carrying out or maintaining the principal works, may not operate
 - (c) specifies the enactment and any other relevant material by virtue of which the obligation arises, and
 - (d) is not inconsistent with any other obligation on Ministers under any enactment.
 
-### 6. Interference with navigation[^key-708dbe79f32359f382e282c51fb832f7]
+### 6. Interference with navigation[^c-708dbe79f32359f382e282c51fb832f7]
 
 (1) Ministers, when carrying out the Forth Crossing works, may interfere with a right of navigation in the Firth of Forth (within the Act limits) but only—
 
@@ -129,24 +129,24 @@ Ministers, when carrying out or maintaining the principal works, may not operate
 
 (4) Ministers are not liable for any loss arising (including any costs or expenses sustained) as a direct or indirect result of exercising their powers under this section.
 
-### 7. Dredging etc.[^key-d0d71653b99eb216eaf17840db0e3854]
+### 7. Dredging etc.[^c-d0d71653b99eb216eaf17840db0e3854]
 
 (1) Ministers, when carrying out or maintaining the Forth Crossing works, may deepen, widen, dredge, scour, cleanse, alter, improve, or blast rock on any part of the bed of the Firth of Forth (within the limits of deviation).
 
 (2) Ministers may use, appropriate or dispose of anything removed in exercise of the power conferred by this section.
 
-### 8. Marine (Scotland) Act 2010[^key-a1d18dce78b082e6e49cb6892eac3036]
+### 8. Marine (Scotland) Act 2010[^c-a1d18dce78b082e6e49cb6892eac3036]
 
 No activity authorised by this Act constitutes a licensable marine activity for the purposes of Part 4 of the Marine (Scotland) Act 2010 (asp 5).
 
-### 9. Interference with railways[^key-e1c35337970c30f47c157aec4cea0614]
+### 9. Interference with railways[^c-e1c35337970c30f47c157aec4cea0614]
 
 Ministers must—
 
 - (a) consult the relevant railway undertaker before beginning any ancillary works which they consider may interfere with a railway, and
 - (b) consider any representations by the undertaker on the carrying out of those works.
 
-### 10. Trees and shrubs[^key-8c847de6109244252ec803fad9cb8d3e]
+### 10. Trees and shrubs[^c-8c847de6109244252ec803fad9cb8d3e]
 
 (1) Ministers may cut down or lop, or cut back the roots of, any tree or shrub near any part of the Forth Crossing works where they consider that such action is reasonably necessary in order to prevent the tree or shrub from—
 
@@ -165,7 +165,7 @@ has effect in relation to anything Ministers do for the purposes of the Forth Cr
 
 ## Part 2 — Roads
 
-### 11. Special roads[^key-981014f1d5b65177072f20957191c4bb]
+### 11. Special roads[^c-981014f1d5b65177072f20957191c4bb]
 
 (1) Ministers may designate any road or proposed road identified in schedule 3 (or any part of such a road) as a special road for the use by traffic falling within such classes set out in Schedule 3 to the 1984 Act as are specified in column (4) of schedule 3.
 
@@ -180,7 +180,7 @@ has effect in relation to anything Ministers do for the purposes of the Forth Cr
 
 (4) This section is, for the purposes of section 145 of the 1984 Act, to be treated as a scheme made under section 7 of the 1984 Act (and section 145 of the 1984 Act accordingly operates, with necessary modifications, to allow the repeal or other modification of this section).
 
-### 12. Trunk roads[^key-08b3cb894e48a9f9d4ad4fdba1803e75]
+### 12. Trunk roads[^c-08b3cb894e48a9f9d4ad4fdba1803e75]
 
 (1) Each proposed road identified in schedule 3 or 4 becomes a trunk road on the date this subsection comes into force.
 
@@ -201,7 +201,7 @@ has effect in relation to anything Ministers do for the purposes of the Forth Cr
 
 (7) In the definition of “trunk road” in section 151(1) of the 1984 Act, after “Town and Country Planning (Scotland) Act 1997” insert “ or by virtue of section 12 of the Forth Crossing Act 2011 (asp 2) ”.
 
-### 13. Roads to be transferred to local roads authorities[^key-319fea262dd90298aae223bb3ec6fe44]
+### 13. Roads to be transferred to local roads authorities[^c-319fea262dd90298aae223bb3ec6fe44]
 
 (1) Ministers must, before beginning a work specified in column (3) of schedule 6—
 
@@ -214,7 +214,7 @@ has effect in relation to anything Ministers do for the purposes of the Forth Cr
 
 (4) Section 112 of the 1984 Act applies (with any necessary modifications) to the transfer of such a road to the local roads authority, whether or not the road in question is a trunk road.
 
-### 14. Stopping up of roads[^key-bca69ab5a0d09763e32557e5cd49cfde]
+### 14. Stopping up of roads[^c-bca69ab5a0d09763e32557e5cd49cfde]
 
 (1) Ministers may, when carrying out the Forth Crossing works, stop up each road identified in schedule 7.
 
@@ -232,7 +232,7 @@ has effect in relation to anything Ministers do for the purposes of the Forth Cr
 - (a) notify the local authority for each area through which the road runs, and
 - (b) take such steps as they consider reasonable to bring the opening, and the date from which it takes effect, to the attention of the public.
 
-### 15. Stopping up of means of access[^key-1a49012e4bc793c326dd1a7b18c6d05c]
+### 15. Stopping up of means of access[^c-1a49012e4bc793c326dd1a7b18c6d05c]
 
 (1) Ministers may, when carrying out the Forth Crossing works, stop up each means of access to land identified in schedule 8.
 
@@ -259,11 +259,11 @@ has effect in relation to anything Ministers do for the purposes of the Forth Cr
   - (i) the date of final Lands Tribunal decision, or
   - (ii) the date of final settlement of the matter.
 
-### 16. Extinction of rights of way[^key-6840a70bfd782bc12d0ce2d0561cbce4]
+### 16. Extinction of rights of way[^c-6840a70bfd782bc12d0ce2d0561cbce4]
 
 All rights of way over any part of a road or means of access stopped up under section 14 or 15 are extinguished.
 
-### 17. Solum of stopped up road[^key-a1862dba1aed3723cb6e7348e4f90302]
+### 17. Solum of stopped up road[^c-a1862dba1aed3723cb6e7348e4f90302]
 
 (1) The solum of a stopped up road is to vest—
 
@@ -274,7 +274,7 @@ All rights of way over any part of a road or means of access stopped up under se
 
 (2) Any dispute arising under this section as to the vesting of the solum may be referred on summary application by any interested party to the sheriff in whose sheriffdom the land is located; and the decision of the sheriff on the matter is final.
 
-### 18. Works in roads where Ministers are not the roads authority[^key-d854625313f6f0f94c01e690c1d756a3]
+### 18. Works in roads where Ministers are not the roads authority[^c-d854625313f6f0f94c01e690c1d756a3]
 
 (1) This section applies to Forth Crossing works in a road for which Ministers are not the roads authority.
 
@@ -295,7 +295,7 @@ All rights of way over any part of a road or means of access stopped up under se
 
 (4) Any dispute between Ministers and the roads authority as to the rights and liabilities in respect of the carrying out of the works is to be resolved by arbitration.
 
-### 19. Access to public roads[^key-f707f7aa2472739cee70bf6f83b63986]
+### 19. Access to public roads[^c-f707f7aa2472739cee70bf6f83b63986]
 
 (1) Roads authority consent is not required for Forth Crossing works consisting of works to provide new, or to improve an existing, means of access to or from a public road.
 
@@ -304,7 +304,7 @@ All rights of way over any part of a road or means of access stopped up under se
 - (a) consult the local roads authority for the public road, and
 - (b) consider any representations by the authority on the carrying out of those works.
 
-### 20. Application of the Roads (Scotland) Act 1984[^key-6e67d0a3322d23c1a7678fae869af091]
+### 20. Application of the Roads (Scotland) Act 1984[^c-6e67d0a3322d23c1a7678fae869af091]
 
 (1) Section 10 (certain special roads to be trunk roads) of the 1984 Act does not apply to the creation of a special road under this Act.
 
@@ -316,7 +316,7 @@ All rights of way over any part of a road or means of access stopped up under se
 
 ## Part 3 — Land
 
-### 21. Incorporation of enactments[^key-39becbbd81ad8b2396b004c261947857]
+### 21. Incorporation of enactments[^c-39becbbd81ad8b2396b004c261947857]
 
 (1) The Lands Clauses Acts are incorporated with this Act, except sections 15, 16, 18, 20 to 60, 62 to 66, 83 to 88, 90, 116, 120 to 124 and 142 and 143 of the 1845 Lands Act.
 
@@ -333,7 +333,7 @@ All rights of way over any part of a road or means of access stopped up under se
 
 (5) The Lands Clauses Acts, by virtue of subsection (4)(d), accordingly apply (subject to any necessary modifications) to the compulsory acquisition of a servitude or other right in or over land under this Act (whether by acquiring existing rights or creating new rights).
 
-### 22. Compulsory acquisition of land[^key-e815d164d1360e76a536bb5334ba23da]
+### 22. Compulsory acquisition of land[^c-e815d164d1360e76a536bb5334ba23da]
 
 Ministers may acquire compulsorily any land—
 
@@ -342,7 +342,7 @@ Ministers may acquire compulsorily any land—
 
 which they require for the purposes of the Forth Crossing works.
 
-### 23. Acquisition of land by agreement[^key-58e809c9e1ad8e3069073c76d54767cf]
+### 23. Acquisition of land by agreement[^c-58e809c9e1ad8e3069073c76d54767cf]
 
 (1) Ministers may acquire by agreement any land—
 
@@ -357,7 +357,7 @@ This subsection does not affect any other power of Ministers to acquire the land
 - (a) at the end of section 24(6), insert “ or authorised by the Forth Crossing Act 2011 ”, and
 - (b) at the end of section 25(5), insert “ or any works authorised by the Forth Crossing Act 2011 ”.
 
-### 24. Acquisition of servitudes and other rights[^key-172534105f587e967bbc85c567a33bed]
+### 24. Acquisition of servitudes and other rights[^c-172534105f587e967bbc85c567a33bed]
 
 (1) Ministers may acquire servitudes or other rights in land under section 22 or 23—
 
@@ -366,7 +366,7 @@ This subsection does not affect any other power of Ministers to acquire the land
 
 (2) Ministers, when compulsorily acquiring servitudes or other rights in or over land under section 22, are not required to acquire any other part of, or interest in, the land concerned.
 
-### 25. Extinction of real burdens and servitudes etc.[^key-8174cbc677a7957312265117fd07a1a9]
+### 25. Extinction of real burdens and servitudes etc.[^c-8174cbc677a7957312265117fd07a1a9]
 
 Where Ministers acquire land compulsorily under section 22 (and section 24 does not apply)—
 
@@ -375,11 +375,11 @@ Where Ministers acquire land compulsorily under section 22 (and section 24 does 
 
 on the registration of the relevant conveyance.
 
-### 26. Persons under a disability may grant servitudes, etc.[^key-e29402201ad59012b5b568ea3e919438]
+### 26. Persons under a disability may grant servitudes, etc.[^c-e29402201ad59012b5b568ea3e919438]
 
 Any person who is entitled by section 7 of the 1845 Lands Act (as incorporated with this Act) to dispose of land may, for any purpose connected with this Act, create a new servitude or other right in relation to such land. But this section does not permit the creation of a servitude or other right in relation to water in which a person other than the creator has an interest.
 
-### 27. Registration of servitudes and other rights[^key-84d6b2df51cfac6425bd7f3970cf7d77]
+### 27. Registration of servitudes and other rights[^c-84d6b2df51cfac6425bd7f3970cf7d77]
 
 (1) A servitude or other right acquired by Ministers under this Act is to be treated for all purposes as benefiting—
 
@@ -388,7 +388,7 @@ Any person who is entitled by section 7 of the 1845 Lands Act (as incorporated w
 
 (2) Despite section 75(1) of the Title Conditions (Scotland) Act 2003 (asp 9), the deed which creates a servitude so acquired is effective regardless of whether it is registered against the benefited property.
 
-### 28. Minerals[^key-77928fc780dda85829c92679c6293c1b]
+### 28. Minerals[^c-77928fc780dda85829c92679c6293c1b]
 
 Any conveyance transferring land to Ministers in pursuance of a compulsory acquisition under section 22 is deemed to except all mines of coal, ironstone, slate, or other minerals under the land other than—
 
@@ -400,7 +400,7 @@ Any conveyance transferring land to Ministers in pursuance of a compulsory acqui
   in the carrying out of the Forth Crossing works, and
 - (b) those expressly specified in the conveyance transferring the land.
 
-### 29. Time limit for compulsory acquisition[^key-2724ac26b416998f9f67a08172394901]
+### 29. Time limit for compulsory acquisition[^c-2724ac26b416998f9f67a08172394901]
 
 Ministers' power to acquire land compulsorily under section 22 ceases to have effect 5 years after Royal Assent. This section does not apply to any land in respect of which a notice to treat is served, or a general vesting declaration is made, in pursuance of section 22 within 5 years of Royal Assent.
 
@@ -408,7 +408,7 @@ Ministers' power to acquire land compulsorily under section 22 ceases to have ef
 
 ### Notice to treat procedure
 
-#### 30. Service of a notice to treat[^key-5afc422d15400ac630a37cc1310f4b69]
+#### 30. Service of a notice to treat[^c-5afc422d15400ac630a37cc1310f4b69]
 
 (1) This section applies where Ministers choose to acquire any land under this Act by serving a notice under section 17 of the 1845 Lands Act as incorporated with this Act (a “notice to treat”).
 
@@ -418,7 +418,7 @@ Ministers' power to acquire land compulsorily under section 22 ceases to have ef
 - (b) describe the land to which the notice relates, and
 - (c) identify itself plainly as a document of importance.
 
-#### 31. Partial acquisitions using notice to treat procedure[^key-44d0acf5ebdd4ff65b89ff153a79a60d]
+#### 31. Partial acquisitions using notice to treat procedure[^c-44d0acf5ebdd4ff65b89ff153a79a60d]
 
 (1) A person may, within 28 days of service of a notice to treat in respect of a partial acquisition, object to the partial acquisition.
 
@@ -436,7 +436,7 @@ Ministers' power to acquire land compulsorily under section 22 ceases to have ef
 
 (4) If Ministers fail to act under subsection (3) within 3 months of an objection being served, the notice to treat is to be treated as withdrawn.
 
-#### 32. Severance disputes (notice to treat procedure): Lands Tribunal[^key-ec68fd1000559076fb5a4f4fe52547f1]
+#### 32. Severance disputes (notice to treat procedure): Lands Tribunal[^c-ec68fd1000559076fb5a4f4fe52547f1]
 
 (1) The Lands Tribunal, on receiving a referral under section 31(3)(c), must consider—
 
@@ -459,11 +459,11 @@ and the notice to treat is deemed to cover that land (regardless of whether any 
 
 (4) Ministers may withdraw a notice to treat within 6 weeks of a Lands Tribunal determination under subsection (3) by notifying the objector to that effect.
 
-#### 33. Severance of agricultural land[^key-fcd907488906924438925b502e1bff28]
+#### 33. Severance of agricultural land[^c-fcd907488906924438925b502e1bff28]
 
 Nothing in sections 31 or 32 affects the application of sections 49 and 50 of the Land Compensation (Scotland) Act 1973 (c.56) in relation to agricultural land.
 
-#### 34. Notice to treat: time limit[^key-23e3158c0048198bbaae443c159a26f3]
+#### 34. Notice to treat: time limit[^c-23e3158c0048198bbaae443c159a26f3]
 
 (1) A notice to treat served in pursuance of this Act becomes invalid 3 years (or such longer period as may be agreed under subsection (2)) after it is served, unless—
 
@@ -483,7 +483,7 @@ Nothing in sections 31 or 32 affects the application of sections 49 and 50 of th
 
 ### General vesting declarations
 
-#### 35. General vesting declarations[^key-28ac5e81efb5f048db241772f58e803e]
+#### 35. General vesting declarations[^c-28ac5e81efb5f048db241772f58e803e]
 
 (1) Ministers may vest in themselves by a general vesting declaration any land which they are authorised to acquire compulsorily under section 22.
 
@@ -494,7 +494,7 @@ Nothing in sections 31 or 32 affects the application of sections 49 and 50 of th
 - (c) section 36 of this Act applies instead of paragraph 2, and
 - (d) in the definition of land in paragraph 39, “**relevant enactments**” means this Act.
 
-#### 36. Duty to publicise general vesting declarations[^key-777c89e6eda82071ce60f92f63c39ec2]
+#### 36. Duty to publicise general vesting declarations[^c-777c89e6eda82071ce60f92f63c39ec2]
 
 (1) Before making a general vesting declaration, Ministers must—
 
@@ -515,7 +515,7 @@ Nothing in sections 31 or 32 affects the application of sections 49 and 50 of th
 
 ## Part 5 — Powers to enter and use land
 
-### 37. Temporary possession of land[^key-8f256b117a9808cb4993785d683c3857]
+### 37. Temporary possession of land[^c-8f256b117a9808cb4993785d683c3857]
 
 (1) Ministers may, when carrying out the Forth Crossing works, enter and take temporary possession of any land specified in columns (1), (2) and (3) of schedule 10—
 
@@ -529,7 +529,7 @@ Nothing in sections 31 or 32 affects the application of sections 49 and 50 of th
 
 (3) Where the land is subject to a lease (including a sub-lease), the lease is terminated on the date on which Ministers first enter the land.
 
-### 38. Power to enter land for other purposes[^key-922a50b7851ec325f51af4c986201919]
+### 38. Power to enter land for other purposes[^c-922a50b7851ec325f51af4c986201919]
 
 Ministers may, for any purposes connected with this Act, enter any land in order to—
 
@@ -539,14 +539,14 @@ Ministers may, for any purposes connected with this Act, enter any land in order
 - (d) protect the Forth Crossing works, or
 - (e) protect or remove any flora or fauna, or to protect any building or other property, which may be affected by the carrying out of the Forth Crossing works.
 
-### 39. Advance entry on land to be acquired[^key-c8839e341bd474c09507f72b61419e0c]
+### 39. Advance entry on land to be acquired[^c-c8839e341bd474c09507f72b61419e0c]
 
 Ministers may enter and take possession of any land (or any part of any land) in respect of which—
 
 - (a) a notice to treat has been served in accordance with section 30, or
 - (b) a general vesting declaration has been served in accordance with paragraph 4 of Schedule 15 to the 1997 Act (as applied by section 35).
 
-### 40. Notice of entry[^key-4c290a46eb5fd9a2e972c7c1708ff343]
+### 40. Notice of entry[^c-4c290a46eb5fd9a2e972c7c1708ff343]
 
 (1) Ministers must give the owners and occupiers of land—
 
@@ -558,7 +558,7 @@ Ministers may enter and take possession of any land (or any part of any land) in
 
 (3) This section does not apply where Ministers consider that they need to enter land under section 38(d) or (e) urgently in order to protect the Forth Crossing works, any flora or fauna, or any building or other property.
 
-### 41. Use of land[^key-a0d0e9a90c771287625b9255fff8499c]
+### 41. Use of land[^c-a0d0e9a90c771287625b9255fff8499c]
 
 (1) Ministers may take such action on or in relation to land which they enter under this Part as they think appropriate for the purpose for which they entered the land.
 
@@ -574,7 +574,7 @@ Ministers may enter and take possession of any land (or any part of any land) in
   - (ii) the presence of minerals, or
   - (iii) the nature of any mining operations or other activity taking place beneath the surface.
 
-### 42. Duty to remedy damage etc.[^key-56a3b2200ec4d067b3020280cece29a8]
+### 42. Duty to remedy damage etc.[^c-56a3b2200ec4d067b3020280cece29a8]
 
 (1) Ministers must take all reasonably practicable steps—
 
@@ -584,11 +584,11 @@ Ministers may enter and take possession of any land (or any part of any land) in
 
 (2) But this section does not require Ministers to replace any building, apparatus or vegetation removed from the land.
 
-### 43. No power to enter homes[^key-6cf239a682bd3c7d85edde3913a05830]
+### 43. No power to enter homes[^c-6cf239a682bd3c7d85edde3913a05830]
 
 Nothing in section 37 or 38 authorises Ministers to enter any house or other building (excluding any garden or other land belonging to the house or other building) which is for the time being occupied as a residence.
 
-### 44. Warrants authorising entry[^key-352c66dee6f0ad934eb1f4fcd24bab4f]
+### 44. Warrants authorising entry[^c-352c66dee6f0ad934eb1f4fcd24bab4f]
 
 (1) A sheriff or justice of the peace may by warrant authorise Ministers to exercise a right conferred by this Part, if necessary using reasonable force, in accordance with the warrant.
 
@@ -609,7 +609,7 @@ Nothing in section 37 or 38 authorises Ministers to enter any house or other bui
 - (a) when it is no longer required for the purpose for which it is granted, or
 - (b) if earlier, on the expiry of such period as may be specified in it.
 
-### 45. Obstruction[^key-f67a0a694ce8fc96fc0f48635a03a790]
+### 45. Obstruction[^c-f67a0a694ce8fc96fc0f48635a03a790]
 
 (1) It is an offence intentionally to prevent or obstruct Ministers from doing anything which they are authorised to do by virtue of this Part.
 
@@ -617,7 +617,7 @@ Nothing in section 37 or 38 authorises Ministers to enter any house or other bui
 
 (3) A person guilty of an offence under this section is liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
 
-### 46. Suspension of real burdens and servitudes etc.[^key-e3fad044b1beeeb44e012dfc00c9d48e]
+### 46. Suspension of real burdens and servitudes etc.[^c-e3fad044b1beeeb44e012dfc00c9d48e]
 
 (1) Where Ministers take possession of land under section 37 or 39—
 
@@ -635,7 +635,7 @@ for the period of possession.
 
 ## Part 6 — Compensation
 
-### 47. Land Compensation (Scotland) Act 1963[^key-709e739b594f614ee998aeb277489fb2]
+### 47. Land Compensation (Scotland) Act 1963[^c-709e739b594f614ee998aeb277489fb2]
 
 The application of the 1963 Act to the compulsory acquisition of land under section 22 is subject to the following modifications—
 
@@ -646,7 +646,7 @@ The application of the 1963 Act to the compulsory acquisition of land under sect
 - (e) this Act is to be treated as an “**enactment**” for the purposes of section 22(4) of the 1963 Act, and
 - (f) the terms of this Act.
 
-### 48. Matters to be considered when assessing compensation[^key-7706413ea089db0dde24b00802400f50]
+### 48. Matters to be considered when assessing compensation[^c-7706413ea089db0dde24b00802400f50]
 
 In assessing the compensation payable in respect of the compulsory acquisition of land under section 22, the Lands Tribunal must—
 
@@ -654,7 +654,7 @@ In assessing the compensation payable in respect of the compulsory acquisition o
 - (b) where a road is widened as part of the Forth Crossing works, set off against the value of the land to be acquired any increase in the value of other land belonging to the same person which will accrue to him by reason of the creation of a frontage to the road as widened,
 - (c) take into account, and embody in its award, any undertaking given by Ministers as to the use to which the land, or any part of it, will be put.
 
-### 49. Matters to be ignored when assessing compensation[^key-10fdd9aae8d149656f66e02b8369c5cb]
+### 49. Matters to be ignored when assessing compensation[^c-10fdd9aae8d149656f66e02b8369c5cb]
 
 (1) In assessing the compensation payable in respect of the compulsory acquisition of land under section 22, the Lands Tribunal must not take into account—
 
@@ -668,13 +668,13 @@ if it is satisfied that the interest in land was created, or that the work givin
 - (a) the land acquired, or
 - (b) any other land with which the person to be compensated is, or was when the work was done, directly or indirectly concerned.
 
-### 50. Compensation: partial acquisition etc.[^key-0ecb85d207a3cd487dbbe4f3d4515476]
+### 50. Compensation: partial acquisition etc.[^c-0ecb85d207a3cd487dbbe4f3d4515476]
 
 (1) Compensation for a partial acquisition must include compensation for any loss sustained by the owner due to the severance of the house, building, factory or other land (in addition to the value of the interest to be acquired).
 
 (2) Where Ministers withdraw a notice to treat under section 32(4), the owner of the land which was subject to that notice is entitled to be compensated for any loss arising as a result of the giving and withdrawing of the notice (with any dispute about entitlement to, or amount of, such compensation to be determined by the Lands Tribunal).
 
-### 51. Compensation: servitudes and other rights[^key-3189f11eae092db331373eb3d2075004]
+### 51. Compensation: servitudes and other rights[^c-3189f11eae092db331373eb3d2075004]
 
 (1) In assessing the compensation payable in respect of the acquisition or extinguishment of any servitude or other right in pursuance of this Act, account is to be taken of any new servitude or real burden created by Ministers for purposes connected with the Forth Crossing works.
 
@@ -687,7 +687,7 @@ if it is satisfied that the interest in land was created, or that the work givin
 
 is to be determined by the Lands Tribunal in accordance with the 1963 Act as if it were a question of disputed compensation for the compulsory acquisition of land (and sections 8, 9, 11 and 12 of the 1963 Act accordingly have effect in relation to such a dispute so far as applicable and subject to any necessary modifications).
 
-### 52. Compensation: cutting down or lopping, or cutting back roots of, trees or shrubs[^key-45573c56209c430e84951ec0533f2920]
+### 52. Compensation: cutting down or lopping, or cutting back roots of, trees or shrubs[^c-45573c56209c430e84951ec0533f2920]
 
 (1) A person is entitled to compensation from Ministers for any loss arising as a result of Ministers taking action under section 10(1) in relation to a tree or shrub.
 
@@ -698,7 +698,7 @@ is to be determined by the Lands Tribunal in accordance with the 1963 Act as if 
 
 is to be determined by the Lands Tribunal in accordance with the 1963 Act as if it were a question of disputed compensation for the compulsory acquisition of land (and sections 8, 9, 11 and 12 of the 1963 Act accordingly have effect in relation to such a dispute so far as applicable and subject to any necessary modifications).
 
-### 53. Compensation: stopping up[^key-1d003f77070a4a7ab7494096a8cea56b]
+### 53. Compensation: stopping up[^c-1d003f77070a4a7ab7494096a8cea56b]
 
 (1) A person with an interest in land is entitled to compensation from Ministers for any loss, or any disturbance in that person's enjoyment of such land, arising as a result of action taken by Ministers under section 14 or 15 in relation to that land.
 
@@ -711,7 +711,7 @@ is to be determined by the Lands Tribunal in accordance with the 1963 Act as if 
 
 (3) In assessing the compensation payable under this section, account must be taken of any new road or means of access which is provided as an alternative to the road or means of access which is stopped up.
 
-### 54. Compensation: entering and using land temporarily[^key-d9b219002ff2827c07ecad94e85295b2]
+### 54. Compensation: entering and using land temporarily[^c-d9b219002ff2827c07ecad94e85295b2]
 
 (1) A person with an interest in land is entitled to compensation from Ministers for any loss, or any disturbance in that person's enjoyment of such land, arising as a result of—
 
@@ -740,7 +740,7 @@ is to be determined by the Lands Tribunal.
 
 but compensation is not payable for the same matter under this section and that other enactment.
 
-### 55. Compensation: advance entry[^key-3b743aff4f927405c939b48e20554a53]
+### 55. Compensation: advance entry[^c-3b743aff4f927405c939b48e20554a53]
 
 (1) Where Ministers enter and take possession of land under section 39, compensation is payable—
 
@@ -749,7 +749,7 @@ but compensation is not payable for the same matter under this section and that 
 
 (2) Nothing in section 39 or this section affects a person's rights to advance payment under section 48 of the Land Compensation (Scotland) Act 1973 (c.56).
 
-### 56. Compensation where notice to treat becomes invalid[^key-ffc60c4c1d10f7193bf7b809c139d08f]
+### 56. Compensation where notice to treat becomes invalid[^c-ffc60c4c1d10f7193bf7b809c139d08f]
 
 (1) Where a notice to treat is invalidated under section 34, any person to whom notice is to be given under subsection (3) of that section is entitled to compensation from Ministers for any loss arising as a result of the giving of the notice and its invalidation.
 
@@ -764,7 +764,7 @@ is to be determined by the Lands Tribunal.
 
 ## Part 7 — Statutory undertakers
 
-### 57. Apparatus affected by works[^key-3ea7bd945220c7407fe87d0436fb4788]
+### 57. Apparatus affected by works[^c-3ea7bd945220c7407fe87d0436fb4788]
 
 (1) The following provisions of the 1997 Act apply in relation to land acquired, appropriated or used (or about to be used) by Ministers for purposes connected with this Act as they apply in relation to land acquired or appropriated as mentioned in section 224(1) and 225(1) of the 1997 Act—
 
@@ -777,7 +777,7 @@ is to be determined by the Lands Tribunal.
 
 (4) This section does not apply to apparatus as respects which section 142 or 143 of the 1991 Act applies (by virtue of section 58 of this Act or otherwise). The provisions of the 1997 Act mentioned in subsection (1) accordingly have no effect in relation to such apparatus.
 
-### 58. Works for roads purposes[^key-c1f70213da31ead445f9a71ca5c71b9e]
+### 58. Works for roads purposes[^c-c1f70213da31ead445f9a71ca5c71b9e]
 
 For the purposes of sections 142 to 144 of the 1991 Act—
 
@@ -785,7 +785,7 @@ For the purposes of sections 142 to 144 of the 1991 Act—
 - (b) “major works for roads purposes” include all Forth Crossing works executed in relation to a road which consists of or includes a carriageway which fall within any of paragraphs (a) to (d), (f) and (g) of section 145(3) of the 1991 Act, and
 - (c) references to the authority executing works are, where those works are Forth Crossing works, to be read as references to Ministers.
 
-### 59. Compensation for removal of water, gas, electricity or communications apparatus[^key-4096d7e30d4821d5ae44fd97f1b4976e]
+### 59. Compensation for removal of water, gas, electricity or communications apparatus[^c-4096d7e30d4821d5ae44fd97f1b4976e]
 
 (1) An owner or occupier of premises supplied by apparatus removed in pursuance of section 57 is entitled to be compensated by Ministers in respect of reasonable costs incurred in connecting the premises to other apparatus from which a supply is given.
 
@@ -799,7 +799,7 @@ For the purposes of sections 142 to 144 of the 1991 Act—
 
 (3) This section does not apply where the apparatus removed is a public sewer.
 
-### 60. Compensation for removal of public sewer[^key-5b6989a93c7b7625ec7ec0a9da4d933c]
+### 60. Compensation for removal of public sewer[^c-5b6989a93c7b7625ec7ec0a9da4d933c]
 
 (1) An owner or occupier of premises with drains which communicated with a public sewer removed in pursuance of section 57 is entitled to be compensated by Ministers in respect of reasonable costs incurred—
 
@@ -811,7 +811,7 @@ For the purposes of sections 142 to 144 of the 1991 Act—
 - (a) in linking the private sewer with any other public sewer or a private sewage disposal plan, or
 - (b) in constructing a private sewage disposal plant and linking the private sewer to that plant.
 
-### 61. Apparatus in stopped up roads[^key-69f8399d95d9c3bc7b99c144f00afae0]
+### 61. Apparatus in stopped up roads[^c-69f8399d95d9c3bc7b99c144f00afae0]
 
 (1) A statutory undertaker (within the meaning of the 1984 Act)—
 
@@ -826,7 +826,7 @@ For the purposes of sections 142 to 144 of the 1991 Act—
 
 ## Part 8 — Planning permission, listed buildings and conservation areas
 
-### 62. Planning permission[^key-8f60875eb4edf90597f4a75f07b9e364]
+### 62. Planning permission[^c-8f60875eb4edf90597f4a75f07b9e364]
 
 (1) Planning permission for the carrying out of the Forth Crossing works is deemed to have been granted by Ministers on an application referred to them under section 46 of the 1997 Act.
 
@@ -834,7 +834,7 @@ For the purposes of sections 142 to 144 of the 1991 Act—
 
 (3) The 1997 Act (except section 58 and Part 11) and all other enactments relating to planning permission apply accordingly.
 
-### 63. Relaxation of listed building controls[^key-1fb8dcfa6171c54c9839d309f9d7ef08]
+### 63. Relaxation of listed building controls[^c-1fb8dcfa6171c54c9839d309f9d7ef08]
 
 (1) Section 6 of the Listed Buildings Act does not apply to authorised listed building works.
 
@@ -853,14 +853,14 @@ For the purposes of sections 142 to 144 of the 1991 Act—
   - (a) in relation to a listed building which was not such a building immediately before 1 January 2009, any works carried out in pursuance of this Act, and
   - (b) in relation to a listed building specified in the table in schedule 11, the works described in the third column of that table.
 
-### 64. Demolition in conservation areas[^key-ed079256c9ad73c6d0a4a8dc26bd48d9]
+### 64. Demolition in conservation areas[^c-ed079256c9ad73c6d0a4a8dc26bd48d9]
 
 Section 66 of the Listed Buildings Act does not apply to the demolition in pursuance of this Act of a building which—
 
 - (a) is included in a conservation area after 1 January 2009 (but was not so included immediately before that date), and
 - (b) is not a listed building.
 
-### 65. Interpretation of Part 8[^key-fd9a9dfcfdf81f1677a229e7a782dee2]
+### 65. Interpretation of Part 8[^c-fd9a9dfcfdf81f1677a229e7a782dee2]
 
 In this Part, “**the Listed Buildings Act**” means the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (c.9). The following terms have the same meaning in this Part as they have in that Act—
 
@@ -871,18 +871,18 @@ In this Part, “**the Listed Buildings Act**” means the Planning (Listed Buil
 
 ## Part 9 — Environmental matters
 
-### 66. Mitigation of environmental impact[^key-7c892544da9b74df7d813137abc46605]
+### 66. Mitigation of environmental impact[^c-7c892544da9b74df7d813137abc46605]
 
 Ministers must do everything which is reasonably practicable in order to ensure that the environmental impact of the construction and operation of the Forth Crossing works is not worse than the residual impact identified in the environmental statement.
 
-### 67. Compliance with code of construction practice and noise and vibration policy[^key-433c839df8f2fd10e6460ecf0fc9565c]
+### 67. Compliance with code of construction practice and noise and vibration policy[^c-433c839df8f2fd10e6460ecf0fc9565c]
 
 Ministers must do everything which is reasonably practicable in order to ensure that the Forth Crossing works—
 
 - (a) are carried out in accordance with the code of construction practice, and
 - (b) operate in accordance with the noise and vibration policy.
 
-### 68. Amendment of code of construction practice and noise and vibration policy[^key-a7f344331437ae4d50920fcabf5d50aa]
+### 68. Amendment of code of construction practice and noise and vibration policy[^c-a7f344331437ae4d50920fcabf5d50aa]
 
 (1) Ministers may amend or replace—
 
@@ -907,11 +907,11 @@ but an amended or replacement document must not reduce the standards of mitigati
 - (e) the Scottish Environment Protection Agency, and
 - (f) Scottish Natural Heritage.
 
-### 69. Protection of water environment[^key-5a527be7d7c066fb593ff2d075629685]
+### 69. Protection of water environment[^c-5a527be7d7c066fb593ff2d075629685]
 
-Nothing in this Act exempts Ministers from having to carry out the Forth Crossing works in accordance with any regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014[^key-bdb3f793fd0753cac8e72e63b55e7f5b].
+Nothing in this Act exempts Ministers from having to carry out the Forth Crossing works in accordance with any regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014[^c-bdb3f793fd0753cac8e72e63b55e7f5b].
 
-### 70. Control of noise: Control of Pollution Act 1974[^key-434f13ccf64ba2a86465a939cb0443a9]
+### 70. Control of noise: Control of Pollution Act 1974[^c-434f13ccf64ba2a86465a939cb0443a9]
 
 (1) Section 60 of the Control of Pollution Act 1974 (c.40) applies to the Forth Crossing works with the following modifications—
 
@@ -922,9 +922,9 @@ Nothing in this Act exempts Ministers from having to carry out the Forth Crossin
 
 (2) Section 61(9) of that Act does not apply to a consent given under section 61 of that Act in relation to Forth Crossing works.
 
-(3)[^key-4e25ea5c155a1823d7f0ddcdd4e49a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4e25ea5c155a1823d7f0ddcdd4e49a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 71. Statutory nuisance: noise under the Environmental Protection Act 1990[^key-892785bf7847512580dc8b3a84f6277d]
+### 71. Statutory nuisance: noise under the Environmental Protection Act 1990[^c-892785bf7847512580dc8b3a84f6277d]
 
 (1) In this section “**statutory nuisance**” has the meaning given by section 79(1)(g) or (ga) of the Environmental Protection Act 1990 (c.43).
 
@@ -940,11 +940,11 @@ Nothing in this Act exempts Ministers from having to carry out the Forth Crossin
 
 ## Part 10 — Miscellaneous
 
-### 72. Blighted land[^key-1c9e7c02974d7e32d856d3040dbe0629]
+### 72. Blighted land[^c-1c9e7c02974d7e32d856d3040dbe0629]
 
 Land which Ministers may acquire compulsorily under section 22 is to be treated as “**blighted land**” for the purposes of Chapter 2 of Part 5 of the 1997 Act.
 
-### 73. Certification of Parliamentary plans, etc.[^key-f5e1b140dd99de140b5ad73eac678f7a]
+### 73. Certification of Parliamentary plans, etc.[^c-f5e1b140dd99de140b5ad73eac678f7a]
 
 (1) Ministers must, as soon as practicable after this Act comes into force, submit copies of the following documents to the Clerk of the Scottish Parliament—
 
@@ -956,7 +956,7 @@ Land which Ministers may acquire compulsorily under section 22 is to be treated 
 
 (3) A certified document is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 74. Changes to Parliamentary plans or book of reference[^key-853a1fd9f58504084c048d2d945fbc82]
+### 74. Changes to Parliamentary plans or book of reference[^c-853a1fd9f58504084c048d2d945fbc82]
 
 (1) The sheriff, if satisfied on a summary application by Ministers that the Parliamentary plans or the book of reference are inaccurate in their description of any land (or in their description and statement of the ownership or occupation of any land), must certify—
 
@@ -982,7 +982,7 @@ Land which Ministers may acquire compulsorily under section 22 is to be treated 
 
 (6) A summary application made under this section must be made to the sheriff for the sheriffdom in which the land concerned is situated.
 
-### 75. Provision of information on the progress of the Forth Crossing works[^key-335042abf0691652a348022b72a3fd72]
+### 75. Provision of information on the progress of the Forth Crossing works[^c-335042abf0691652a348022b72a3fd72]
 
 (1) Ministers must do everything which is reasonably practicable to ensure that those persons referred to in subsection (2) are kept informed of the progress of the carrying out of the Forth Crossing works and the implications of the works for those persons.
 
@@ -994,7 +994,7 @@ Land which Ministers may acquire compulsorily under section 22 is to be treated 
 - (d) members of the Scottish Parliament representing the constituencies in which the Forth Crossing works are situated, and
 - (e) any other such persons, businesses or community representatives in the areas in which the Forth Crossing works are situated as Ministers consider appropriate.
 
-### 76. Formal communications[^key-3ccc64f4f1843f965e66b7461cfefc3f]
+### 76. Formal communications[^c-3ccc64f4f1843f965e66b7461cfefc3f]
 
 (1) A “**formal communication**” means any notice (or counter-notice) or objection served or given under this Act.
 
@@ -1036,7 +1036,7 @@ Land which Ministers may acquire compulsorily under section 22 is to be treated 
 
 (4) Any other statutory instrument containing such an order is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
-### 78. Crown application[^key-5f9ccabd770218b138d79a685b5febdc]
+### 78. Crown application[^c-5f9ccabd770218b138d79a685b5febdc]
 
 (1) The appropriate authority may agree to any provision of this Act applying (with or without modifications) in relation to—
 
@@ -1055,11 +1055,11 @@ Land which Ministers may acquire compulsorily under section 22 is to be treated 
 (3) In this section, “the appropriate authority”, in the case of—
 
 - (a) land belonging to Her Majesty in right of the Crown and forming part of the Crown estate, means the Crown Estate Commissioners,
-- (b) other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration who, or the government department which, has management of the land or the relevant person[^key-03e755ad5ca35e43c4ed3f0c19dacbd3],
+- (b) other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration who, or the government department which, has management of the land or the relevant person[^c-03e755ad5ca35e43c4ed3f0c19dacbd3],
 - (c) land belonging to an office-holder in the Scottish Administration (or held by such an office-holder in trust for Her Majesty for the purposes of the Scottish Administration), means that office-holder,
 - (d) land belonging to a government department (or held in trust for Her Majesty for the purposes of a government department), means that government department.
 
-(3A)[^key-d0758b6c3fbd6261f4f358c6218cb172] In subsection (3), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(3A)[^c-d0758b6c3fbd6261f4f358c6218cb172] In subsection (3), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (4) Where Ministers are the appropriate authority, their agreement is deemed to be given for the purposes of this section when they exercise their powers under the relevant provision of this Act.
 
@@ -1152,7 +1152,7 @@ Land which Ministers may acquire compulsorily under section 22 is to be treated 
 
 This Act is called the Forth Crossing Act 2011.
 
-## SCHEDULE 1 — Principal works[^key-e61fe52ae5c02925dd16ed47c45bfa9c]
+## SCHEDULE 1 — Principal works[^c-e61fe52ae5c02925dd16ed47c45bfa9c]
 
 (introduced by section 1)
 
@@ -1324,31 +1324,31 @@ This Act is called the Forth Crossing Act 2011.
 
 (introduced by section 1)
 
-**1.**[^key-cd14d0f86ae080a87227ffce12ee25c3] Works for accommodation of apparatus, plant or machinery.
+**1.**[^c-cd14d0f86ae080a87227ffce12ee25c3] Works for accommodation of apparatus, plant or machinery.
 
-**2.**[^key-f89c90d76ce2a7c5a409c2d47e70bded] Works for accommodation of site compounds (for example, compounds to include offices and other staff facilities, visitor facilities and facilities for manufacturing processes).
+**2.**[^c-f89c90d76ce2a7c5a409c2d47e70bded] Works for accommodation of site compounds (for example, compounds to include offices and other staff facilities, visitor facilities and facilities for manufacturing processes).
 
-**3.**[^key-c19721008df3237d2863c270bbb80553] Works to strengthen, underpin, protect, alter or demolish any building.
+**3.**[^c-c19721008df3237d2863c270bbb80553] Works to strengthen, underpin, protect, alter or demolish any building.
 
-**4.**[^key-e193d141ad87e57d3f765e6683615aed] Works to stabilise the condition of any land.
+**4.**[^c-e193d141ad87e57d3f765e6683615aed] Works to stabilise the condition of any land.
 
-**5.**[^key-d716bdef8203c13b5826ad8f07e5386a] Works for the purposes of flood prevention.
+**5.**[^c-d716bdef8203c13b5826ad8f07e5386a] Works for the purposes of flood prevention.
 
-**6.**[^key-c5e26bc4c4f86a8cc008a8f897d463c9] Works to alter the position of any existing apparatus or street furniture (including mains and cables).
+**6.**[^c-c5e26bc4c4f86a8cc008a8f897d463c9] Works to alter the position of any existing apparatus or street furniture (including mains and cables).
 
-**7.**[^key-6f77d6541a98234ab51ec4b141da76af] Works to install or provide lighting, apparatus, street furniture or intelligent transport systems.
+**7.**[^c-6f77d6541a98234ab51ec4b141da76af] Works to install or provide lighting, apparatus, street furniture or intelligent transport systems.
 
-**8.**[^key-1f391ab7ea37c8ebe32c93f56f1887d7] Works to provide new, or to improve existing, means of access to any road or premises.
+**8.**[^c-1f391ab7ea37c8ebe32c93f56f1887d7] Works to provide new, or to improve existing, means of access to any road or premises.
 
-**9.**[^key-37a4d361547102813abae87a5aab8f29] Landscaping, drainage, ecological or other works to mitigate any adverse effects arising from the carrying out, maintenance or operation of the principal works.
+**9.**[^c-37a4d361547102813abae87a5aab8f29] Landscaping, drainage, ecological or other works to mitigate any adverse effects arising from the carrying out, maintenance or operation of the principal works.
 
-**10.**[^key-a6b5caf6e993e52c81b43c7c7c42638a] Works for the benefit or protection of premises affected by the principal works.
+**10.**[^c-a6b5caf6e993e52c81b43c7c7c42638a] Works for the benefit or protection of premises affected by the principal works.
 
 **Not yet in force.**
 
 **11.** Works to remove any works carried out under this Act which are temporary works or which are no longer required.
 
-## SCHEDULE 3 — Special roads[^key-6b89377e156fd1478aa3e198b174eb55]
+## SCHEDULE 3 — Special roads[^c-6b89377e156fd1478aa3e198b174eb55]
 
 (introduced by section 11)
 
@@ -1376,7 +1376,7 @@ This Act is called the Forth Crossing Act 2011.
 | Rosyth, Fife | W16 | Work No. N46 | I and II |
 | Rosyth, Fife | W16 | Work No. N47 | I and II |
 
-## SCHEDULE 4 — Proposed trunk roads[^key-11ad7bfc81f266f9b4b73268aeebffc7]
+## SCHEDULE 4 — Proposed trunk roads[^c-11ad7bfc81f266f9b4b73268aeebffc7]
 
 (introduced by section 12(1))
 
@@ -1395,7 +1395,7 @@ This Act is called the Forth Crossing Act 2011.
 | Inverkeithing, Fife | W14 | Work No. N13a |
 | Inverkeithing, Fife | W14 | Work No. N14b |
 
-## SCHEDULE 5 — Existing roads to become trunk roads on date determined by Ministers[^key-b18ca2ba311b7a4abfa465b74efb7011]
+## SCHEDULE 5 — Existing roads to become trunk roads on date determined by Ministers[^c-b18ca2ba311b7a4abfa465b74efb7011]
 
 (introduced by section 12(2))
 
@@ -1418,7 +1418,7 @@ This Act is called the Forth Crossing Act 2011.
 | Rosyth, Fife | W16 | Road between the A90 and Admiralty Roundabout | Between points R1602 and R1603 |
 | Rosyth, Fife | W16 | Road between Admiralty Roundabout and the A90 | Between points R1604 and R1605 |
 
-## SCHEDULE 6 — Roads to be transferred to local roads authorities[^key-c6fe0f4560f1cfbc66b98d70a0b4bf83]
+## SCHEDULE 6 — Roads to be transferred to local roads authorities[^c-c6fe0f4560f1cfbc66b98d70a0b4bf83]
 
 (introduced by section 13)
 
@@ -1440,7 +1440,7 @@ This Act is called the Forth Crossing Act 2011.
 
 (introduced by section 14)
 
-### Part 1 — Stopped up roads for which no substitute is listed[^key-ab9034b028726421a913c8ef30520b2b]
+### Part 1 — Stopped up roads for which no substitute is listed[^c-ab9034b028726421a913c8ef30520b2b]
 
 | *(1) Location* | *(2) Parliamentary plan reference* | *(3) Road to be stopped up* | *(4) Length of road to be stopped up* |
 | --- | --- | --- | --- |
@@ -1449,7 +1449,7 @@ This Act is called the Forth Crossing Act 2011.
 | North Queensferry, Fife | W14 | Footpath between the B981 and car park | Between points P1404 and P1405 |
 | Rosyth, Fife | W14 | Lay-by at Castlandhill Road (B980) | Between points P1427 and P1428 |
 
-### Part 2 — Stopped up roads for which substitute roads are listed[^key-563e1519bf5d7bfaf16e98ecddb01fb6]
+### Part 2 — Stopped up roads for which substitute roads are listed[^c-563e1519bf5d7bfaf16e98ecddb01fb6]
 
 | *(1) Location* | *(2) Parliamentary plan reference* | *(3) Road to be stopped up* | *(4) Length of road to be stopped up* | *(5) Substitute road* |
 | --- | --- | --- | --- | --- |
@@ -1490,7 +1490,7 @@ This Act is called the Forth Crossing Act 2011.
 
 (introduced by section 15)
 
-### Part 1 — Means of access for which no substitute is listed[^key-5aa432cd99f83523d0bb596df5530d4d]
+### Part 1 — Means of access for which no substitute is listed[^c-5aa432cd99f83523d0bb596df5530d4d]
 
 | *(1) Location* | *(2) Parliamentary plan reference* | *(3) Access to be stopped up* | *(4) Length of access to be stopped up* |
 | --- | --- | --- | --- |
@@ -1510,7 +1510,7 @@ This Act is called the Forth Crossing Act 2011.
 | North Queensferry, Fife | W15 | Access track between Dunfermline Waste Water Treatment Works and St Margaret's Marsh | Between points P1508 and P1509 |
 | Rosyth, Fife | W16 | Access between Castlandhill Road (B980) and the A90 | Between points P1601 and P1602 |
 
-### Part 2 — Means of access for which a substitute is listed[^key-47ee949d5169c21641358a60388aa9d2]
+### Part 2 — Means of access for which a substitute is listed[^c-47ee949d5169c21641358a60388aa9d2]
 
 | *(1) Location* | *(2)Parliamentary plan reference* | *(3) Access to be stopped up* | *(4) Length of access to be stopped up* | *(5) Substitute access* |
 | --- | --- | --- | --- | --- |
@@ -1541,7 +1541,7 @@ This Act is called the Forth Crossing Act 2011.
 
 (introduced by section 22)
 
-### Part 1 — Acquisition of land[^key-1f72229f23b5c436fe2f9a45c41fa841]
+### Part 1 — Acquisition of land[^c-1f72229f23b5c436fe2f9a45c41fa841]
 
 | *Location* | *Sheet of Parliamentary plans* | *Number of land shown on plans* |
 | --- | --- | --- |
@@ -1641,7 +1641,7 @@ This Act is called the Forth Crossing Act 2011.
 | Halbeath, Fife | L21 | 2143 |
 | Halbeath, Fife | L23 | 2305 |
 
-### Part 2 — Acquisition of rights[^key-2f0cd24dbb9a579c38dbad84386f59c3]
+### Part 2 — Acquisition of rights[^c-2f0cd24dbb9a579c38dbad84386f59c3]
 
 | *Location* | *Sheet of Parliamentary plans* | *Number of rights shown on plans* |
 | --- | --- | --- |
@@ -1706,7 +1706,7 @@ This Act is called the Forth Crossing Act 2011.
 | Rosyth, Fife | L15 | 1529 |
 | Rosyth, Fife | L15 | 1530 |
 
-## SCHEDULE 10 — Temporary possession of land[^key-e90639352e1ab0720b382e1f30a9e5bb]
+## SCHEDULE 10 — Temporary possession of land[^c-e90639352e1ab0720b382e1f30a9e5bb]
 
 (introduced by section 37)
 
@@ -1859,7 +1859,7 @@ This Act is called the Forth Crossing Act 2011.
 | Inverkeithing, Fife | L16 | 1647 | Construction works and for all other necessary and ancillary purposes | N1b and N14a |
 | Dunfermline, Fife | L19 | 1919 | Construction works and for all other necessary and ancillary purposes | N32 |
 
-## SCHEDULE 11 — Listed buildings: authorised works[^key-90f1b1dbb8e38a84a8515c14671c5512]
+## SCHEDULE 11 — Listed buildings: authorised works[^c-90f1b1dbb8e38a84a8515c14671c5512]
 
 (introduced by section 63(5))
 
@@ -1872,210 +1872,210 @@ This Act is called the Forth Crossing Act 2011.
 
 ## Annotations
 
-[^key-731e7f1565eb1e75c856ad20b8405bf6]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/2/section/1) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-731e7f1565eb1e75c856ad20b8405bf6]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/2/section/1) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6c8e85ef93958c6417a90205d6f85f3a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/2/section/2) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6c8e85ef93958c6417a90205d6f85f3a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/2/section/2) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-8c4062479f246e7f6621e3d683a541e3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/2/section/3) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-8c4062479f246e7f6621e3d683a541e3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/2/section/3) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6dfe8af362df01bae58e0e6d1969f91c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/2/section/4) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6dfe8af362df01bae58e0e6d1969f91c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/2/section/4) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-74388e4f0624f37a144f331946bd9af1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/2/section/5) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-74388e4f0624f37a144f331946bd9af1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/2/section/5) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-708dbe79f32359f382e282c51fb832f7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/2/section/6) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-708dbe79f32359f382e282c51fb832f7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/2/section/6) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-d0d71653b99eb216eaf17840db0e3854]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/2/section/7) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-d0d71653b99eb216eaf17840db0e3854]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/2/section/7) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-a1d18dce78b082e6e49cb6892eac3036]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/2/section/8) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a1d18dce78b082e6e49cb6892eac3036]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/2/section/8) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-e1c35337970c30f47c157aec4cea0614]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/2/section/9) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e1c35337970c30f47c157aec4cea0614]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/2/section/9) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-8c847de6109244252ec803fad9cb8d3e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/2/section/10) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-8c847de6109244252ec803fad9cb8d3e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/2/section/10) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-981014f1d5b65177072f20957191c4bb]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/2/section/11) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-981014f1d5b65177072f20957191c4bb]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/2/section/11) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-08b3cb894e48a9f9d4ad4fdba1803e75]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/2/section/12) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-08b3cb894e48a9f9d4ad4fdba1803e75]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/2/section/12) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-319fea262dd90298aae223bb3ec6fe44]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/2/section/13) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-319fea262dd90298aae223bb3ec6fe44]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/2/section/13) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-bca69ab5a0d09763e32557e5cd49cfde]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/2/section/14) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-bca69ab5a0d09763e32557e5cd49cfde]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/2/section/14) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-1a49012e4bc793c326dd1a7b18c6d05c]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/2/section/15) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-1a49012e4bc793c326dd1a7b18c6d05c]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/2/section/15) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6840a70bfd782bc12d0ce2d0561cbce4]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/2/section/16) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6840a70bfd782bc12d0ce2d0561cbce4]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/2/section/16) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-a1862dba1aed3723cb6e7348e4f90302]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/2/section/17) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a1862dba1aed3723cb6e7348e4f90302]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/2/section/17) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-d854625313f6f0f94c01e690c1d756a3]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/2/section/18) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-d854625313f6f0f94c01e690c1d756a3]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/2/section/18) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-f707f7aa2472739cee70bf6f83b63986]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/2/section/19) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-f707f7aa2472739cee70bf6f83b63986]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/2/section/19) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6e67d0a3322d23c1a7678fae869af091]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/2/section/20) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6e67d0a3322d23c1a7678fae869af091]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/2/section/20) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-39becbbd81ad8b2396b004c261947857]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/2/section/21) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-39becbbd81ad8b2396b004c261947857]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/2/section/21) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-e815d164d1360e76a536bb5334ba23da]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2011/2/section/22) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e815d164d1360e76a536bb5334ba23da]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2011/2/section/22) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-58e809c9e1ad8e3069073c76d54767cf]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/2/section/23) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-58e809c9e1ad8e3069073c76d54767cf]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/2/section/23) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-172534105f587e967bbc85c567a33bed]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/2/section/24) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-172534105f587e967bbc85c567a33bed]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/2/section/24) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-8174cbc677a7957312265117fd07a1a9]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/2/section/25) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-8174cbc677a7957312265117fd07a1a9]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/2/section/25) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-e29402201ad59012b5b568ea3e919438]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/2/section/26) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e29402201ad59012b5b568ea3e919438]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/2/section/26) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-84d6b2df51cfac6425bd7f3970cf7d77]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2011/2/section/27) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-84d6b2df51cfac6425bd7f3970cf7d77]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2011/2/section/27) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-77928fc780dda85829c92679c6293c1b]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2011/2/section/28) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-77928fc780dda85829c92679c6293c1b]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2011/2/section/28) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-2724ac26b416998f9f67a08172394901]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/2/section/29) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-2724ac26b416998f9f67a08172394901]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/2/section/29) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-5afc422d15400ac630a37cc1310f4b69]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2011/2/section/30) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-5afc422d15400ac630a37cc1310f4b69]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2011/2/section/30) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-44d0acf5ebdd4ff65b89ff153a79a60d]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2011/2/section/31) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-44d0acf5ebdd4ff65b89ff153a79a60d]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2011/2/section/31) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-ec68fd1000559076fb5a4f4fe52547f1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2011/2/section/32) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-ec68fd1000559076fb5a4f4fe52547f1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2011/2/section/32) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-fcd907488906924438925b502e1bff28]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/2/section/33) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-fcd907488906924438925b502e1bff28]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/2/section/33) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-23e3158c0048198bbaae443c159a26f3]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2011/2/section/34) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-23e3158c0048198bbaae443c159a26f3]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2011/2/section/34) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-28ac5e81efb5f048db241772f58e803e]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2011/2/section/35) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-28ac5e81efb5f048db241772f58e803e]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2011/2/section/35) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-777c89e6eda82071ce60f92f63c39ec2]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/2/section/36) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-777c89e6eda82071ce60f92f63c39ec2]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/2/section/36) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-8f256b117a9808cb4993785d683c3857]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/2/section/37) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-8f256b117a9808cb4993785d683c3857]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/2/section/37) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-922a50b7851ec325f51af4c986201919]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2011/2/section/38) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-922a50b7851ec325f51af4c986201919]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2011/2/section/38) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-c8839e341bd474c09507f72b61419e0c]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2011/2/section/39) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-c8839e341bd474c09507f72b61419e0c]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2011/2/section/39) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-4c290a46eb5fd9a2e972c7c1708ff343]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2011/2/section/40) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-4c290a46eb5fd9a2e972c7c1708ff343]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2011/2/section/40) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-a0d0e9a90c771287625b9255fff8499c]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2011/2/section/41) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a0d0e9a90c771287625b9255fff8499c]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2011/2/section/41) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-56a3b2200ec4d067b3020280cece29a8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2011/2/section/42) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-56a3b2200ec4d067b3020280cece29a8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2011/2/section/42) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6cf239a682bd3c7d85edde3913a05830]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2011/2/section/43) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6cf239a682bd3c7d85edde3913a05830]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2011/2/section/43) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-352c66dee6f0ad934eb1f4fcd24bab4f]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2011/2/section/44) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-352c66dee6f0ad934eb1f4fcd24bab4f]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2011/2/section/44) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-f67a0a694ce8fc96fc0f48635a03a790]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2011/2/section/45) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-f67a0a694ce8fc96fc0f48635a03a790]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2011/2/section/45) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-e3fad044b1beeeb44e012dfc00c9d48e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2011/2/section/46) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e3fad044b1beeeb44e012dfc00c9d48e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2011/2/section/46) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-709e739b594f614ee998aeb277489fb2]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2011/2/section/47) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-709e739b594f614ee998aeb277489fb2]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2011/2/section/47) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-7706413ea089db0dde24b00802400f50]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2011/2/section/48) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-7706413ea089db0dde24b00802400f50]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2011/2/section/48) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-10fdd9aae8d149656f66e02b8369c5cb]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2011/2/section/49) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-10fdd9aae8d149656f66e02b8369c5cb]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2011/2/section/49) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-0ecb85d207a3cd487dbbe4f3d4515476]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2011/2/section/50) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-0ecb85d207a3cd487dbbe4f3d4515476]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2011/2/section/50) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-3189f11eae092db331373eb3d2075004]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2011/2/section/51) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-3189f11eae092db331373eb3d2075004]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2011/2/section/51) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-45573c56209c430e84951ec0533f2920]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2011/2/section/52) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-45573c56209c430e84951ec0533f2920]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2011/2/section/52) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-1d003f77070a4a7ab7494096a8cea56b]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2011/2/section/53) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-1d003f77070a4a7ab7494096a8cea56b]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2011/2/section/53) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-d9b219002ff2827c07ecad94e85295b2]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2011/2/section/54) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-d9b219002ff2827c07ecad94e85295b2]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2011/2/section/54) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-3b743aff4f927405c939b48e20554a53]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2011/2/section/55) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-3b743aff4f927405c939b48e20554a53]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2011/2/section/55) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-ffc60c4c1d10f7193bf7b809c139d08f]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2011/2/section/56) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-ffc60c4c1d10f7193bf7b809c139d08f]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2011/2/section/56) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-3ea7bd945220c7407fe87d0436fb4788]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2011/2/section/57) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-3ea7bd945220c7407fe87d0436fb4788]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2011/2/section/57) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-c1f70213da31ead445f9a71ca5c71b9e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2011/2/section/58) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-c1f70213da31ead445f9a71ca5c71b9e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2011/2/section/58) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-4096d7e30d4821d5ae44fd97f1b4976e]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2011/2/section/59) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-4096d7e30d4821d5ae44fd97f1b4976e]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2011/2/section/59) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-5b6989a93c7b7625ec7ec0a9da4d933c]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2011/2/section/60) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-5b6989a93c7b7625ec7ec0a9da4d933c]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2011/2/section/60) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-69f8399d95d9c3bc7b99c144f00afae0]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2011/2/section/61) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-69f8399d95d9c3bc7b99c144f00afae0]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2011/2/section/61) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-8f60875eb4edf90597f4a75f07b9e364]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2011/2/section/62) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-8f60875eb4edf90597f4a75f07b9e364]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2011/2/section/62) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-1fb8dcfa6171c54c9839d309f9d7ef08]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2011/2/section/63) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-1fb8dcfa6171c54c9839d309f9d7ef08]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2011/2/section/63) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-ed079256c9ad73c6d0a4a8dc26bd48d9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2011/2/section/64) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-ed079256c9ad73c6d0a4a8dc26bd48d9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2011/2/section/64) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-fd9a9dfcfdf81f1677a229e7a782dee2]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2011/2/section/65) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-fd9a9dfcfdf81f1677a229e7a782dee2]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2011/2/section/65) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-7c892544da9b74df7d813137abc46605]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2011/2/section/66) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-7c892544da9b74df7d813137abc46605]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2011/2/section/66) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-433c839df8f2fd10e6460ecf0fc9565c]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2011/2/section/67) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-433c839df8f2fd10e6460ecf0fc9565c]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2011/2/section/67) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-a7f344331437ae4d50920fcabf5d50aa]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2011/2/section/68) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a7f344331437ae4d50920fcabf5d50aa]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2011/2/section/68) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-5a527be7d7c066fb593ff2d075629685]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2011/2/section/69) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-5a527be7d7c066fb593ff2d075629685]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2011/2/section/69) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-bdb3f793fd0753cac8e72e63b55e7f5b]: Textual amendment: Words in [s. 69](https://www.legislation.gov.uk/asp/2011/2/section/69) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 7](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/7) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-bdb3f793fd0753cac8e72e63b55e7f5b]: Textual amendment: Words in [s. 69](https://www.legislation.gov.uk/asp/2011/2/section/69) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 7](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/7) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-434f13ccf64ba2a86465a939cb0443a9]: Commencement: S. 70 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-434f13ccf64ba2a86465a939cb0443a9]: Commencement: S. 70 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-4e25ea5c155a1823d7f0ddcdd4e49a90]: Textual amendment: [S. 70(3)](https://www.legislation.gov.uk/asp/2011/2/section/70/3) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 38](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/38); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-4e25ea5c155a1823d7f0ddcdd4e49a90]: Textual amendment: [S. 70(3)](https://www.legislation.gov.uk/asp/2011/2/section/70/3) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 38](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/38); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-892785bf7847512580dc8b3a84f6277d]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2011/2/section/71) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-892785bf7847512580dc8b3a84f6277d]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2011/2/section/71) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-1c9e7c02974d7e32d856d3040dbe0629]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2011/2/section/72) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-1c9e7c02974d7e32d856d3040dbe0629]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2011/2/section/72) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-f5e1b140dd99de140b5ad73eac678f7a]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2011/2/section/73) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-f5e1b140dd99de140b5ad73eac678f7a]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2011/2/section/73) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-853a1fd9f58504084c048d2d945fbc82]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2011/2/section/74) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-853a1fd9f58504084c048d2d945fbc82]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2011/2/section/74) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-335042abf0691652a348022b72a3fd72]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2011/2/section/75) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-335042abf0691652a348022b72a3fd72]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2011/2/section/75) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-3ccc64f4f1843f965e66b7461cfefc3f]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2011/2/section/76) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-3ccc64f4f1843f965e66b7461cfefc3f]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2011/2/section/76) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-5f9ccabd770218b138d79a685b5febdc]: Commencement: S. 78 in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-5f9ccabd770218b138d79a685b5febdc]: Commencement: S. 78 in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-03e755ad5ca35e43c4ed3f0c19dacbd3]: Textual amendment: Words in s. 78(3)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 43(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/43/a)
+[^c-03e755ad5ca35e43c4ed3f0c19dacbd3]: Textual amendment: Words in s. 78(3)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 43(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/43/a)
 
-[^key-d0758b6c3fbd6261f4f358c6218cb172]: Textual amendment: S. 78(3A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 43(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/43/b)
+[^c-d0758b6c3fbd6261f4f358c6218cb172]: Textual amendment: S. 78(3A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 43(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/43/b)
 
-[^key-e61fe52ae5c02925dd16ed47c45bfa9c]: Commencement: Sch. 1 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e61fe52ae5c02925dd16ed47c45bfa9c]: Commencement: Sch. 1 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-cd14d0f86ae080a87227ffce12ee25c3]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/1) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-cd14d0f86ae080a87227ffce12ee25c3]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/1) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-f89c90d76ce2a7c5a409c2d47e70bded]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/2) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-f89c90d76ce2a7c5a409c2d47e70bded]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/2) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-c19721008df3237d2863c270bbb80553]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/3) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-c19721008df3237d2863c270bbb80553]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/3) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-e193d141ad87e57d3f765e6683615aed]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/4) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e193d141ad87e57d3f765e6683615aed]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/4) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-d716bdef8203c13b5826ad8f07e5386a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/5) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-d716bdef8203c13b5826ad8f07e5386a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/5) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-c5e26bc4c4f86a8cc008a8f897d463c9]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/6) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-c5e26bc4c4f86a8cc008a8f897d463c9]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/6) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6f77d6541a98234ab51ec4b141da76af]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/7) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6f77d6541a98234ab51ec4b141da76af]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/7) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-1f391ab7ea37c8ebe32c93f56f1887d7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/8) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-1f391ab7ea37c8ebe32c93f56f1887d7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/8) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-37a4d361547102813abae87a5aab8f29]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/9) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-37a4d361547102813abae87a5aab8f29]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/9) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-a6b5caf6e993e52c81b43c7c7c42638a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/10) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a6b5caf6e993e52c81b43c7c7c42638a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2011/2/schedule/2/paragraph/10) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-6b89377e156fd1478aa3e198b174eb55]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2011/2/schedule/3) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-6b89377e156fd1478aa3e198b174eb55]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2011/2/schedule/3) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-11ad7bfc81f266f9b4b73268aeebffc7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2011/2/schedule/4) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-11ad7bfc81f266f9b4b73268aeebffc7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2011/2/schedule/4) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-b18ca2ba311b7a4abfa465b74efb7011]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2011/2/schedule/5) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-b18ca2ba311b7a4abfa465b74efb7011]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2011/2/schedule/5) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-c6fe0f4560f1cfbc66b98d70a0b4bf83]: Commencement: [Sch. 6](https://www.legislation.gov.uk/asp/2011/2/schedule/6) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-c6fe0f4560f1cfbc66b98d70a0b4bf83]: Commencement: [Sch. 6](https://www.legislation.gov.uk/asp/2011/2/schedule/6) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-ab9034b028726421a913c8ef30520b2b]: Commencement: Sch. 7 Pt. 1 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-ab9034b028726421a913c8ef30520b2b]: Commencement: Sch. 7 Pt. 1 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-563e1519bf5d7bfaf16e98ecddb01fb6]: Commencement: Sch. 7 Pt. 2 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-563e1519bf5d7bfaf16e98ecddb01fb6]: Commencement: Sch. 7 Pt. 2 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-5aa432cd99f83523d0bb596df5530d4d]: Commencement: Sch. 8 Pt. 1 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-5aa432cd99f83523d0bb596df5530d4d]: Commencement: Sch. 8 Pt. 1 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-47ee949d5169c21641358a60388aa9d2]: Commencement: Sch. 8 Pt. 2 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-47ee949d5169c21641358a60388aa9d2]: Commencement: Sch. 8 Pt. 2 in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-1f72229f23b5c436fe2f9a45c41fa841]: Commencement: Sch. 9 Pt. 1 in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-1f72229f23b5c436fe2f9a45c41fa841]: Commencement: Sch. 9 Pt. 1 in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-2f0cd24dbb9a579c38dbad84386f59c3]: Commencement: Sch. 9 Pt. 2 in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-2f0cd24dbb9a579c38dbad84386f59c3]: Commencement: Sch. 9 Pt. 2 in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-e90639352e1ab0720b382e1f30a9e5bb]: Commencement: [Sch. 10](https://www.legislation.gov.uk/asp/2011/2/schedule/10) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e90639352e1ab0720b382e1f30a9e5bb]: Commencement: [Sch. 10](https://www.legislation.gov.uk/asp/2011/2/schedule/10) in force at 3.2.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-90f1b1dbb8e38a84a8515c14671c5512]: Commencement: [Sch. 11](https://www.legislation.gov.uk/asp/2011/2/schedule/11) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-90f1b1dbb8e38a84a8515c14671c5512]: Commencement: [Sch. 11](https://www.legislation.gov.uk/asp/2011/2/schedule/11) in force at 18.3.2011 by [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)

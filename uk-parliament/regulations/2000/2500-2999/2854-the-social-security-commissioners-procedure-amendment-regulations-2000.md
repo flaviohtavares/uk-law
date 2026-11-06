@@ -29,7 +29,7 @@ SOCIAL SECURITY
 
 TAXES
 
-The Social Security Commissioners (Procedure) (Amendment) Regulations 2000 (revoked)[^key-68d526c8336a4ad6d504948f681e6d35]
+The Social Security Commissioners (Procedure) (Amendment) Regulations 2000 (revoked)[^c-68d526c8336a4ad6d504948f681e6d35]
 
 Made
 
@@ -43,52 +43,52 @@ Coming into force
 
 10th November 2000
 
-[^key-68d526c8336a4ad6d504948f681e6d35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68d526c8336a4ad6d504948f681e6d35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-68d526c8336a4ad6d504948f681e6d35]
+## 1. Citation, commencement and effect[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-68d526c8336a4ad6d504948f681e6d35]
+## 2. Interpretation[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the principal Regulations[^key-68d526c8336a4ad6d504948f681e6d35]
+## 3. Amendments to the principal Regulations[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-68d526c8336a4ad6d504948f681e6d35]
+## 4.[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-68d526c8336a4ad6d504948f681e6d35]
+## 5.[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-68d526c8336a4ad6d504948f681e6d35]
+## 6.[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-68d526c8336a4ad6d504948f681e6d35]
+## 7.[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-68d526c8336a4ad6d504948f681e6d35]
+## 8.[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-68d526c8336a4ad6d504948f681e6d35]
+## 9.[^c-68d526c8336a4ad6d504948f681e6d35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68d526c8336a4ad6d504948f681e6d35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68d526c8336a4ad6d504948f681e6d35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-68d526c8336a4ad6d504948f681e6d35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68d526c8336a4ad6d504948f681e6d35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68d526c8336a4ad6d504948f681e6d35]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2000/2854) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-68d526c8336a4ad6d504948f681e6d35]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2000/2854) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)

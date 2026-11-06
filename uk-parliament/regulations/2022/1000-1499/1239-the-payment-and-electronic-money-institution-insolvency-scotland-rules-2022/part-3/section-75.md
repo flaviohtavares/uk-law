@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Removal[^key-c319c06d8e6708cdf07386b36d223604]
+## 75. Removal[^c-c319c06d8e6708cdf07386b36d223604]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c319c06d8e6708cdf07386b36d223604]: Commencement: Rule 75 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c319c06d8e6708cdf07386b36d223604]: Commencement: Rule 75 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

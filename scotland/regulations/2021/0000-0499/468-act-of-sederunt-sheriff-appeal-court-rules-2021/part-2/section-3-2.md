@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.2. Sanctions where a party is in default[^key-7860c78c381d052f4f0c9c18d416f818]
+## 3.2. Sanctions where a party is in default[^c-7860c78c381d052f4f0c9c18d416f818]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7860c78c381d052f4f0c9c18d416f818]: Commencement: Para. 3.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7860c78c381d052f4f0c9c18d416f818]: Commencement: Para. 3.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -35,22 +35,22 @@ supplementing Regulation (EU) 2017/2402 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-d73f6a3c0aeb560ffb6c274544469014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d73f6a3c0aeb560ffb6c274544469014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Homogeneity of underlying exposures[^key-d73f6a3c0aeb560ffb6c274544469014]
+## Article 1. Homogeneity of underlying exposures[^c-d73f6a3c0aeb560ffb6c274544469014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Homogeneity factors[^key-d73f6a3c0aeb560ffb6c274544469014]
+## Article 2. Homogeneity factors[^c-d73f6a3c0aeb560ffb6c274544469014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d73f6a3c0aeb560ffb6c274544469014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d73f6a3c0aeb560ffb6c274544469014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d73f6a3c0aeb560ffb6c274544469014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d73f6a3c0aeb560ffb6c274544469014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d73f6a3c0aeb560ffb6c274544469014]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/iii)
+[^c-d73f6a3c0aeb560ffb6c274544469014]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/iii)

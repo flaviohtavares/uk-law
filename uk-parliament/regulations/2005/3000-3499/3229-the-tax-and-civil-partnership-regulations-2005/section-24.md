@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24.[^key-fe7a58b7668156d94a81fe95fdd03cfd]
+## 24.[^c-fe7a58b7668156d94a81fe95fdd03cfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 126 (charge to tax on disposal of trees or underwood), in subsection 
 
 ## Annotations
 
-[^key-fe7a58b7668156d94a81fe95fdd03cfd]: Commencement: Reg. 24 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-fe7a58b7668156d94a81fe95fdd03cfd]: Commencement: Reg. 24 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

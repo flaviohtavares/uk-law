@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1030B. Section 1030A: effect of company not being dissolved, etc[^key-a14bd18953b14bb5d9496b206185f78c]
+## 1030B. Section 1030A: effect of company not being dissolved, etc[^c-a14bd18953b14bb5d9496b206185f78c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a14bd18953b14bb5d9496b206185f78c]: Textual amendment: Ss. 1030A, 1030B and cross-heading inserted (with effect in accordance with art. 18 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [16(3)](https://www.legislation.gov.uk/uksi/2012/266/article/16/3)
+[^c-a14bd18953b14bb5d9496b206185f78c]: Textual amendment: Ss. 1030A, 1030B and cross-heading inserted (with effect in accordance with art. 18 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [16(3)](https://www.legislation.gov.uk/uksi/2012/266/article/16/3)

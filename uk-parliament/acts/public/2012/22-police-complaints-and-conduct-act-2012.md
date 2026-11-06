@@ -87,7 +87,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (10) Nothing in this paragraph prevents or restricts the holding of interviews to which regulations under this paragraph do not apply during the course of any investigation under this Schedule.
 
-(3)[^key-161d81b991f3c815ad5e747935437cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-161d81b991f3c815ad5e747935437cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 108(7) (provisions of Act which extend to the United Kingdom) before paragraph (a) insert—
 
@@ -160,4 +160,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-161d81b991f3c815ad5e747935437cfd]: Textual amendment: S. 1(3) omitted (31.3.2017 for specified purposes, 31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss.](https://www.legislation.gov.uk/ukpga/2017/3/section), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/52); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-161d81b991f3c815ad5e747935437cfd]: Textual amendment: S. 1(3) omitted (31.3.2017 for specified purposes, 31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss.](https://www.legislation.gov.uk/ukpga/2017/3/section), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/52); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

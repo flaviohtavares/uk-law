@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Learning agreements[^key-1be72fd85b2fc786bd9e132fadb46deb][^key-f4db660f59ba70612fb4f2cb9b6d816d]
+## 182. Learning agreements[^c-1be72fd85b2fc786bd9e132fadb46deb][^c-f4db660f59ba70612fb4f2cb9b6d816d]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1be72fd85b2fc786bd9e132fadb46deb]: Commencement: S. 182 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-1be72fd85b2fc786bd9e132fadb46deb]: Commencement: S. 182 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-f4db660f59ba70612fb4f2cb9b6d816d]: Commencement: S. 182 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-f4db660f59ba70612fb4f2cb9b6d816d]: Commencement: S. 182 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)

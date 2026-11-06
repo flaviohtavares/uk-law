@@ -54,7 +54,7 @@ Section 193.
 
 ### Lands Tribunal Act 1949 (c. 42)
 
-**3.**[^key-eea291b067f7eead6900c632b847e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eea291b067f7eead6900c632b847e0a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Landlord and Tenant Act 1954 (c. 56)
 
@@ -70,11 +70,11 @@ Section 193.
 
 ### Land Compensation Act 1961 (c. 33)
 
-**5.**[^c13887241] (1) Sections [^key-9b7161f33afea4d3798f74da16570e0a]... 19(3) of the [^c13887251]Land Compensation Act 1961 shall continue to be amended as mentioned in this paragraph notiwithstanding the repeal by this Act of paragraph 4(1) to (3) and (5) of Schedule 10 to the [^c13887261]Community Land Act 1975.
+**5.**[^c13887241] (1) Sections [^c-9b7161f33afea4d3798f74da16570e0a]... 19(3) of the [^c13887251]Land Compensation Act 1961 shall continue to be amended as mentioned in this paragraph notiwithstanding the repeal by this Act of paragraph 4(1) to (3) and (5) of Schedule 10 to the [^c13887261]Community Land Act 1975.
 
-(2)[^key-e2eae872544dca43652dfd237aba1fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e2eae872544dca43652dfd237aba1fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e2eae872544dca43652dfd237aba1fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e2eae872544dca43652dfd237aba1fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 19(3) of the Land Compensation Act 1961 (extension of sections 17 and 18 to special cases) there shall be substituted for the words “paragraph (a)" the words “paragraphs (a) and (b)” and for the words “paragraph (b)" the words “paragraph (c)”.
 
@@ -137,19 +137,19 @@ This sub-paragraph shall have effect only in relation to applications made after
 
 [^c13887191]: Modification: The text of Schs. 2, 3, Sch. 4 paras. 1(1)(2)–(4), 10, Sch. 5, Sch. 6 paras. 1, 4–6, 10–16, 21, Sch. 7 Pt. I paras. 2(2)(5)(6), 3(2)(4), 6, 7, 8, Sch. 7 Pt. II paras. 14(1), 15, Sch. 23 Pt. II para. 2, Pt. III paras. 3–7, Pt. V paras. 12–20, Pt. VI para. 21, Sch. 25 Pt. II para. 7, Pt. III para. 8, Pt. IV para. 9, Sch. 26 para. 18, Sch. 33 paras. 1–5, 7, 13, 14 Sch. 34, Sch. 32 Pt. III para. 19 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-eea291b067f7eead6900c632b847e0a1]: Textual amendment: [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/3) repealed (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1307/schedule/4) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-eea291b067f7eead6900c632b847e0a1]: Textual amendment: [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/3) repealed (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1307/schedule/4) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c13887231]: Modification: The text of Schs. 2, 3, Sch. 4 paras. 1(1)(2)–(4), 10, Sch. 5, Sch. 6 paras. 1, 4–6, 10–16, 21, Sch. 7 Pt. I paras. 2(2)(5)(6), 3(2)(4), 6, 7, 8, Sch. 7 Pt. II paras. 14(1), 15, Sch. 23 Pt. II para. 2, Pt. III paras. 3–7, Pt. V paras. 12–20, Pt. VI para. 21, Sch. 25 Pt. II para. 7, Pt. III para. 8, Pt. IV para. 9, Sch. 26 para. 18, Sch. 33 paras. 1–5, 7, 13, 14 Sch. 34, Sch. 32 Pt. III para. 19 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
 [^c13887241]: Modification: The text of Schs. 2, 3, Sch. 4 paras. 1(1)(2)–(4), 10, Sch. 5, Sch. 6 paras. 1, 4–6, 10–16, 21, Sch. 7 Pt. I paras. 2(2)(5)(6), 3(2)(4), 6, 7, 8, Sch. 7 Pt. II paras. 14(1), 15, Sch. 23 Pt. II para. 2, Pt. III paras. 3–7, Pt. V paras. 12–20, Pt. VI para. 21, Sch. 25 Pt. II para. 7, Pt. III para. 8, Pt. IV para. 9, Sch. 26 para. 18, Sch. 33 paras. 1–5, 7, 13, 14 Sch. 34, Sch. 32 Pt. III para. 19 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-9b7161f33afea4d3798f74da16570e0a]: Textual amendment: Words in [Sch. 33 para. 5(1)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/5/1) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-9b7161f33afea4d3798f74da16570e0a]: Textual amendment: Words in [Sch. 33 para. 5(1)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/5/1) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c13887251]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
 [^c13887261]: Marginal citation: [1975 c. 77](https://www.legislation.gov.uk/ukpga/1975/77).
 
-[^key-e2eae872544dca43652dfd237aba1fdf]: Textual amendment: [Sch. 33 para. 5(2)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/5/2)[(3)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/5/3) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-e2eae872544dca43652dfd237aba1fdf]: Textual amendment: [Sch. 33 para. 5(2)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/5/2)[(3)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/33/paragraph/5/3) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c13887271]: Textual amendment: [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/1980/65/schedule/16/paragraph/10) repealed by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31), [s. 83(5)](https://www.legislation.gov.uk/ukpga/1986/31/section/83/5), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1986/31/schedule/6/part/I)
 

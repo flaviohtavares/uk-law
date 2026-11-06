@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Fixed penalty notices: Wales[^key-a556146d77e199a91c808508b2f6767a]
+## 40. Fixed penalty notices: Wales[^c-a556146d77e199a91c808508b2f6767a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a556146d77e199a91c808508b2f6767a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2026/18/section/40) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-a556146d77e199a91c808508b2f6767a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2026/18/section/40) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

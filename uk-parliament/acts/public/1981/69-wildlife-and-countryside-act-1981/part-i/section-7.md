@@ -79,7 +79,7 @@ he shall be guilty of an offence.
 
 - (a) an offence under this Part (being an offence relating to the protection of birds or other animals); [^c19411261]. . .
 - (b) any other offence involving their ill-treatment; or[^c19411301]
-- (c) any offence under the Control of Trade in Endangered Species Regulations 2018 ([^key-bc60608e94173674d3e2e3bee7400b49][S.I. 2018/703](https://www.legislation.gov.uk/uksi/2018/703)) relating to birds (other than an offence under paragraph 2 of Schedule 1 to those Regulations which consists of the conduct specified in the table in that paragraph[^key-1b21f8df10ee81b121d3cf2dc402543b] as the subject-matter of Regulation 8(6) of those Regulations)
+- (c) any offence under the Control of Trade in Endangered Species Regulations 2018 ([^c-bc60608e94173674d3e2e3bee7400b49][S.I. 2018/703](https://www.legislation.gov.uk/uksi/2018/703)) relating to birds (other than an offence under paragraph 2 of Schedule 1 to those Regulations which consists of the conduct specified in the table in that paragraph[^c-1b21f8df10ee81b121d3cf2dc402543b] as the subject-matter of Regulation 8(6) of those Regulations)
 
 he shall be guilty of an offence.
 
@@ -87,11 +87,11 @@ he shall be guilty of an offence.
 
 (5) No account shall be taken for the purposes of subsections (3) and (4) of any conviction which has become spent for the purpose of the [^c4939441]Rehabilitation of Offenders Act 1974.
 
-(5A)[^key-f8f8078d427dcd809418e7cc22537bcc] Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section shall be guilty of an offence.
+(5A)[^c-f8f8078d427dcd809418e7cc22537bcc] Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section shall be guilty of an offence.
 
-(6)[^key-067fae23c59d8a36bc5c264b3556f1d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-067fae23c59d8a36bc5c264b3556f1d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-067fae23c59d8a36bc5c264b3556f1d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-067fae23c59d8a36bc5c264b3556f1d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -129,14 +129,14 @@ he shall be guilty of an offence.
 
 [^c19411301]: Textual amendment: S. 7(3)(c) and preceding word inserted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 7(b)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/7/b); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-bc60608e94173674d3e2e3bee7400b49]: Textual amendment: Words in s. 7(3)(c) substituted (S.) (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/2/a)
+[^c-bc60608e94173674d3e2e3bee7400b49]: Textual amendment: Words in s. 7(3)(c) substituted (S.) (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/2/a)
 
-[^key-1b21f8df10ee81b121d3cf2dc402543b]: Textual amendment: Words in s. 7(3)(c) substituted (S.) (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/2/b)
+[^c-1b21f8df10ee81b121d3cf2dc402543b]: Textual amendment: Words in s. 7(3)(c) substituted (S.) (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/2/b)
 
 [^c19397031]: Textual amendment: S. 7(4)(a)(b) substituted (S.) (26.3.2003) for words by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 77](https://www.legislation.gov.uk/asp/2003/7/section/77), [89(2)(b)](https://www.legislation.gov.uk/asp/2003/7/section/89/2/b), [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2003/7/schedule/3/paragraph/3)
 
 [^c4939441]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-f8f8078d427dcd809418e7cc22537bcc]: Textual amendment: S. 7(5A) inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 21(3)](https://www.legislation.gov.uk/asp/2011/6/section/21/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-f8f8078d427dcd809418e7cc22537bcc]: Textual amendment: S. 7(5A) inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 21(3)](https://www.legislation.gov.uk/asp/2011/6/section/21/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
 
-[^key-067fae23c59d8a36bc5c264b3556f1d6]: Textual amendment: S. 7(6)(7) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(3)](https://www.legislation.gov.uk/asp/2011/6/section/22/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
+[^c-067fae23c59d8a36bc5c264b3556f1d6]: Textual amendment: S. 7(6)(7) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(3)](https://www.legislation.gov.uk/asp/2011/6/section/22/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)

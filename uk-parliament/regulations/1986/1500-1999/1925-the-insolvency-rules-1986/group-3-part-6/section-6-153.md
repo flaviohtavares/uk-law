@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.153. Meetings of the committee[^key-5d3fd831a2433f2e708cbbfacf5f71bc]
+## 6.153. Meetings of the committee[^c-5d3fd831a2433f2e708cbbfacf5f71bc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Waiver may be signified either at or before the meeting.
 
 ## Annotations
 
-[^key-5d3fd831a2433f2e708cbbfacf5f71bc]: Commencement: [Rule 6.153](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.153) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5d3fd831a2433f2e708cbbfacf5f71bc]: Commencement: [Rule 6.153](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.153) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

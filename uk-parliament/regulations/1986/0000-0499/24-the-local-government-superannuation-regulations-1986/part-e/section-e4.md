@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E4. Ill-health retirement grant[^key-f55c6d7adb399c2ea000920654f3c132]
+## E4. Ill-health retirement grant[^c-f55c6d7adb399c2ea000920654f3c132]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ whichever is the lesser amount.
 
 ## Annotations
 
-[^key-f55c6d7adb399c2ea000920654f3c132]: Commencement: [Reg. E4](https://www.legislation.gov.uk/uksi/1986/24/regulation/E4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f55c6d7adb399c2ea000920654f3c132]: Commencement: [Reg. E4](https://www.legislation.gov.uk/uksi/1986/24/regulation/E4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Direct payments for health care[^key-5cf0020500a40825f24b33e9feeae532]
+## 11. Direct payments for health care[^c-5cf0020500a40825f24b33e9feeae532]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ In Part 1 of the National Health Service Act 2006 (c. 41), after section 12 inse
 
 ## Annotations
 
-[^key-5cf0020500a40825f24b33e9feeae532]: Commencement: S. 11 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
+[^c-5cf0020500a40825f24b33e9feeae532]: Commencement: S. 11 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)

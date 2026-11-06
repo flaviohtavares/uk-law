@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Option for pension credit member to commute whole pension (serious ill-health)[^key-dcad62f23f32021c7e7ccd2f004fa029]
+## 98. Option for pension credit member to commute whole pension (serious ill-health)[^c-dcad62f23f32021c7e7ccd2f004fa029]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcad62f23f32021c7e7ccd2f004fa029]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2014/1964/regulation/98) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-dcad62f23f32021c7e7ccd2f004fa029]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2014/1964/regulation/98) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Protective provisions[^key-a120f2889b2ee310c5bdbd6298298bb9]
+## 44. Protective provisions[^c-a120f2889b2ee310c5bdbd6298298bb9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 15 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-a120f2889b2ee310c5bdbd6298298bb9]: Commencement: Art. 44 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-a120f2889b2ee310c5bdbd6298298bb9]: Commencement: Art. 44 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

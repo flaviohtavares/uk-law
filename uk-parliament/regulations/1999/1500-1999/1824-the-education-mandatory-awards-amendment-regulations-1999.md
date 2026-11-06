@@ -31,42 +31,42 @@ EDUCATION, ENGLAND
 
 EDUCATION, WALES
 
-The Education (Mandatory Awards) (Amendment) Regulations 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+The Education (Mandatory Awards) (Amendment) Regulations 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-Made *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+Made *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-28th June 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+28th June 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-29th June 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+29th June 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-Coming into force *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+Coming into force *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-20th July 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+20th July 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-The Secretary of State for Education and Employment, in exercise of the powers conferred by sections 1 and 4(2) of the Education Act 1962 *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5][^f00001] hereby makes the following Regulations:– *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+The Secretary of State for Education and Employment, in exercise of the powers conferred by sections 1 and 4(2) of the Education Act 1962 *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5][^f00001] hereby makes the following Regulations:– *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-**1 (Extent: E) (affected by repeal, see note).**[^key-51c706af6153e48d38e6c0b536914789][^key-fc4e500cda0ae57cfa6c395d0f8f20b5] These Regulations may be cited as the Education (Mandatory Awards) (Amendment) Regulations 1999 and shall come into force on 20th July 1999. *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+**1 (Extent: E) (affected by repeal, see note).**[^c-51c706af6153e48d38e6c0b536914789][^c-fc4e500cda0ae57cfa6c395d0f8f20b5] These Regulations may be cited as the Education (Mandatory Awards) (Amendment) Regulations 1999 and shall come into force on 20th July 1999. *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-**2 (Extent: E) (affected by repeal, see note).**[^key-82653e1a68e2227b2ecde0a802f6ac70][^key-fc4e500cda0ae57cfa6c395d0f8f20b5] The Education (Mandatory Awards) Regulations 1998 *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5][^f00002] shall be amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+**2 (Extent: E) (affected by repeal, see note).**[^c-82653e1a68e2227b2ecde0a802f6ac70][^c-fc4e500cda0ae57cfa6c395d0f8f20b5] The Education (Mandatory Awards) Regulations 1998 *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5][^f00002] shall be amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-**3 (Extent: E) (affected by repeal, see note).**[^key-11ca57ffe6ab67e58530ce9459c7514a][^key-fc4e500cda0ae57cfa6c395d0f8f20b5] In regulation 15– *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+**3 (Extent: E) (affected by repeal, see note).**[^c-11ca57ffe6ab67e58530ce9459c7514a][^c-fc4e500cda0ae57cfa6c395d0f8f20b5] In regulation 15– *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] in paragraph (1) insert after the word “An” the word “old”; *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
-- (b (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] insert after paragraph (1) the following paragraph: *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+- (a (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] in paragraph (1) insert after the word “An” the word “old”; *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
+- (b (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] insert after paragraph (1) the following paragraph: *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-  > (1A (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] A transitional award shall terminate at the end of the first year of the course. *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+  > (1A (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] A transitional award shall terminate at the end of the first year of the course. *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-**4 (Extent: E) (affected by repeal, see note).**[^key-cb1a8608d3eacb54bd46bce617af7634][^key-fc4e500cda0ae57cfa6c395d0f8f20b5] In paragraph 1(1)(d) of Schedule 3– *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+**4 (Extent: E) (affected by repeal, see note).**[^c-cb1a8608d3eacb54bd46bce617af7634][^c-fc4e500cda0ae57cfa6c395d0f8f20b5] In paragraph 1(1)(d) of Schedule 3– *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] after the word “disability” insert the words “or incapacity”; *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
-- (b (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] delete all the words following the words “or by any other person”. *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+- (a (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] after the word “disability” insert the words “or incapacity”; *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
+- (b (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] delete all the words following the words “or by any other person”. *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-**5 (Extent: E) (affected by repeal, see note).**[^key-d7c65994c76ff180e94ef0998d2a1316][^key-fc4e500cda0ae57cfa6c395d0f8f20b5] In Schedule 5– *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+**5 (Extent: E) (affected by repeal, see note).**[^c-d7c65994c76ff180e94ef0998d2a1316][^c-fc4e500cda0ae57cfa6c395d0f8f20b5] In Schedule 5– *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] in paragraph 1(2) for the words “for which he is in gainful employment” substitute the words “during which the student is employed”; *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
-- (b (Extent: E) (affected by repeal, see note))[^key-fc4e500cda0ae57cfa6c395d0f8f20b5] in paragraph 2 after the words “the prescribed proportion of” insert the word “the”. *(Extent: E)* *(affected by repeal, see note)*[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]
+- (a (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] in paragraph 1(2) for the words “for which he is in gainful employment” substitute the words “during which the student is employed”; *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
+- (b (Extent: E) (affected by repeal, see note))[^c-fc4e500cda0ae57cfa6c395d0f8f20b5] in paragraph 2 after the words “the prescribed proportion of” insert the word “the”. *(Extent: E)* *(affected by repeal, see note)*[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]
 
 George Mudie
 
@@ -88,18 +88,18 @@ An amendment provides that modern language students employed for a period in a c
 
 ## Annotations
 
-[^key-fc4e500cda0ae57cfa6c395d0f8f20b5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/1824) revoked (E.) (15.2.2024) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [65(1)(a)](https://www.legislation.gov.uk/uksi/2024/85/regulation/65/1/a)
+[^c-fc4e500cda0ae57cfa6c395d0f8f20b5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/1824) revoked (E.) (15.2.2024) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [65(1)(a)](https://www.legislation.gov.uk/uksi/2024/85/regulation/65/1/a)
 
 [^f00001]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); the relevant provisions, as amended, are set out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20); section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4; section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2; the entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the transitional and saving provisions set out in the Teaching and Higher Education Act 1998 (Commencement and Transitional Provisions) Order 1998 (S.I. [1998/3237 (C. 81)](https://www.legislation.gov.uk/uksi/1998/3237)), article 4.
 
-[^key-51c706af6153e48d38e6c0b536914789]: Commencement: Reg. 1 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
+[^c-51c706af6153e48d38e6c0b536914789]: Commencement: Reg. 1 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
 
-[^key-82653e1a68e2227b2ecde0a802f6ac70]: Commencement: Reg. 2 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
+[^c-82653e1a68e2227b2ecde0a802f6ac70]: Commencement: Reg. 2 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
 
 [^f00002]: Footnote: S.I. [1998/1166](https://www.legislation.gov.uk/uksi/1998/1166), amended by the Education (Mandatory Awards) Regulations 1998 (Amendment) Regulations 1998 (S.I. [1998/1972](https://www.legislation.gov.uk/uksi/1998/1972)); the entire Regulations are revoked by the Education (Mandatory Awards) Regulations 1999 (S.I. [1999/1494](https://www.legislation.gov.uk/uksi/1999/1494)) with effect from 1st September 1999.
 
-[^key-11ca57ffe6ab67e58530ce9459c7514a]: Commencement: Reg. 3 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
+[^c-11ca57ffe6ab67e58530ce9459c7514a]: Commencement: Reg. 3 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
 
-[^key-cb1a8608d3eacb54bd46bce617af7634]: Commencement: Reg. 4 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
+[^c-cb1a8608d3eacb54bd46bce617af7634]: Commencement: Reg. 4 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
 
-[^key-d7c65994c76ff180e94ef0998d2a1316]: Commencement: Reg. 5 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)
+[^c-d7c65994c76ff180e94ef0998d2a1316]: Commencement: Reg. 5 in force at 20.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1824/regulation/1)

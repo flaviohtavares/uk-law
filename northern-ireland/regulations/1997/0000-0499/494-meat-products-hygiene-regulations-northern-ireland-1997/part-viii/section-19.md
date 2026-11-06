@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Supervision and enforcement[^key-f6f61f725d3b6c0da9cf8dcf6a7db486]
+## 19. Supervision and enforcement[^c-f6f61f725d3b6c0da9cf8dcf6a7db486]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6f61f725d3b6c0da9cf8dcf6a7db486]: Commencement: Reg. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-f6f61f725d3b6c0da9cf8dcf6a7db486]: Commencement: Reg. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

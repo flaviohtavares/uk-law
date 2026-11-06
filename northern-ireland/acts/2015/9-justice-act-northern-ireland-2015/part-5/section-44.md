@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Electronic transmission of applications[^key-9401e818dc100db9ac65b0933e12027e]
+## 44. Electronic transmission of applications[^c-9401e818dc100db9ac65b0933e12027e]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9401e818dc100db9ac65b0933e12027e]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2015/9/section/44) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/358/article/2/f)
+[^c-9401e818dc100db9ac65b0933e12027e]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2015/9/section/44) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/358/article/2/f)

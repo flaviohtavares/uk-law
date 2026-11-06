@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment of the National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013[^key-a1d8c176faad30068b94b72ca63194d4]
+## 63. Amendment of the National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013[^c-a1d8c176faad30068b94b72ca63194d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1d8c176faad30068b94b72ca63194d4]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2023/1071/regulation/63) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-a1d8c176faad30068b94b72ca63194d4]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2023/1071/regulation/63) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00052]: Footnote: [S.I. 2013/364](https://www.legislation.gov.uk/uksi/2013/364), to which there are amendments not relevant to these Regulations.

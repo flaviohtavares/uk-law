@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Underprovision of proportions of mandatory services[^key-ea934958affbe06c4cfb28393601d393]
+## 19. Underprovision of proportions of mandatory services[^c-ea934958affbe06c4cfb28393601d393]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea934958affbe06c4cfb28393601d393]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2026/37/regulation/19) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ea934958affbe06c4cfb28393601d393]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2026/37/regulation/19) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

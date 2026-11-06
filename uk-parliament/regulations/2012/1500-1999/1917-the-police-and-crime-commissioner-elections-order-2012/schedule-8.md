@@ -28,12 +28,12 @@ Article 52
 
 In this Schedule—
 
-- “**election address**”, in relation to a candidate at a[^key-94cd7202a642fb089ff6392a28052de9] PCC election, means a statement that is prepared on behalf of the candidate for inclusion on the website;
+- “**election address**”, in relation to a candidate at a[^c-94cd7202a642fb089ff6392a28052de9] PCC election, means a statement that is prepared on behalf of the candidate for inclusion on the website;
 - “**the website**” means the website of election addresses referred to in article 52(1).
 
 #### 2. Deadline for submission of election addresses to police area returning officer
 
-As soon as reasonably practicable after the publication of notice of a[^key-caf35fc2952235bfa790bf6f3a7ce513] PCC election, the police area returning officer must give public notice of the latest time for the submission of election addresses of candidates to the officer.
+As soon as reasonably practicable after the publication of notice of a[^c-caf35fc2952235bfa790bf6f3a7ce513] PCC election, the police area returning officer must give public notice of the latest time for the submission of election addresses of candidates to the officer.
 
 #### 3. Content of election address to be determined by candidate
 
@@ -59,12 +59,12 @@ Subject to the requirements imposed by paragraphs 4, 5 and 6, the candidate may 
 
 #### 5. Content of election address
 
-(1) An election address must specify the candidate's name and must contain matter relating to the [^key-a44fb413b36b6c1e84b60fa68f1ae905]... PCC election only.
+(1) An election address must specify the candidate's name and must contain matter relating to the [^c-a44fb413b36b6c1e84b60fa68f1ae905]... PCC election only.
 
 (2) In particular, an election address must not contain—
 
 - (a) any advertising material (other than material promoting the candidate as a candidate at the PCC election), or
-- (b) any material referring to any other candidate for election at the [^key-fd1e92259984792d0d907286a4c24147]... PCC election, or
+- (b) any material referring to any other candidate for election at the [^c-fd1e92259984792d0d907286a4c24147]... PCC election, or
 - (c) any material appearing to the police area returning officer—
   - (i) to be included with a view to commercial gain, or
   - (ii) to be indecent, obscene or offensive, or
@@ -92,7 +92,7 @@ Subject to the requirements imposed by paragraphs 4, 5 and 6, the candidate may 
 
 - (a) in relation to any part of the form in Part 2 in which a maximum number of words is specified, not exceed the number of words there specified,
 - (b) comply with the requirements as to formatting which are specified in the form, and
-- (c) comply with such other requirements as the Secretary of State[^key-8eb00bc908a41c668b1f158ec459e8bc] may specify with a view to facilitating its inclusion on the website.
+- (c) comply with such other requirements as the Secretary of State[^c-8eb00bc908a41c668b1f158ec459e8bc] may specify with a view to facilitating its inclusion on the website.
 
 (2) An election address must also be capable of being produced in hard copy form.
 
@@ -109,19 +109,19 @@ Subject to the requirements imposed by paragraphs 4, 5 and 6, the candidate may 
 
 (4) A candidate's election agent may re-submit an election address at any time before the time specified by the police area returning officer under paragraph 2.
 
-(5) Once the police area returning officer is satisfied that an election address complies with the relevant requirements, the officer must send the address to the Secretary of State[^key-a19bfb9b4a3c7c4c5584b45fe2f220f9] together with a statement that the officer is so satisfied.
+(5) Once the police area returning officer is satisfied that an election address complies with the relevant requirements, the officer must send the address to the Secretary of State[^c-a19bfb9b4a3c7c4c5584b45fe2f220f9] together with a statement that the officer is so satisfied.
 
 (6) The police area returning officer must notify the candidate of the date on which the candidate's election address is sent to the Secretary of State and of any minor corrections which the officer has made.
 
-#### 8. Deadline for submission of election addresses to Secretary of State[^key-c850159ab6b4e40c4a7b8341cdc421b2]
+#### 8. Deadline for submission of election addresses to Secretary of State[^c-c850159ab6b4e40c4a7b8341cdc421b2]
 
-(1) No election address may be included on the website unless it is received by the Secretary of State[^key-4120f234721e7b891da014d6975c7439] before midnight on the 18th day before the day of the election.
+(1) No election address may be included on the website unless it is received by the Secretary of State[^c-4120f234721e7b891da014d6975c7439] before midnight on the 18th day before the day of the election.
 
 (2) But the Secretary of State may include on the website an election address which is delivered on or after the time specified in sub-paragraph (1) if the Secretary of State is satisfied there is good reason for its late delivery.
 
 #### 9. Candidate's right to comment in advance on the election address in template form
 
-(1) As soon as reasonably practicable after the receipt of an election address submitted in accordance with paragraphs 7 and 8, the Secretary of State[^key-832ff7a6648a1a941c07b409826a7100] must provide the police area returning officer with a copy of the election address as it will appear on the website.
+(1) As soon as reasonably practicable after the receipt of an election address submitted in accordance with paragraphs 7 and 8, the Secretary of State[^c-832ff7a6648a1a941c07b409826a7100] must provide the police area returning officer with a copy of the election address as it will appear on the website.
 
 (2) The police area returning officer must forward each copy of the election address provided under sub-paragraph (1) to the election agent of the candidate whose election address it is, together with a notice which—
 
@@ -133,13 +133,13 @@ Subject to the requirements imposed by paragraphs 4, 5 and 6, the candidate may 
 - (a) must make such changes to the copy of the address provided under sub-paragraph (1) as the officer considers to be consistent with the requirements imposed by paragraphs 4, 5 and 6, and
 - (b) may make any typographical corrections which the officer considers necessary.
 
-(4) As soon as reasonably practicable after the time specified under sub-paragraph (2)(b), the police area returning officer must return the copy of the election address to the Secretary of State[^key-9065e81fe56627331c01e2a88137253d] with such changes (if any) as have been made to the address under this paragraph.
+(4) As soon as reasonably practicable after the time specified under sub-paragraph (2)(b), the police area returning officer must return the copy of the election address to the Secretary of State[^c-9065e81fe56627331c01e2a88137253d] with such changes (if any) as have been made to the address under this paragraph.
 
 #### 10. Election addresses included in the website
 
 (1) This paragraph applies where—
 
-- (a) a copy of the election address of a candidate for any police area is returned to the Secretary of State[^key-92e56dc6b0b2a92768456ff1b7d213b1] under paragraph 9(4), and
+- (a) a copy of the election address of a candidate for any police area is returned to the Secretary of State[^c-92e56dc6b0b2a92768456ff1b7d213b1] under paragraph 9(4), and
 - (b) the candidate's name is shown in the statement of persons nominated for that area [^c21344621].
 
 (2) The election address is to be included on the website.
@@ -157,14 +157,14 @@ is to incur any civil or criminal liability in respect of the publication of the
 
 #### 12. The website
 
-(1) The Secretary of State[^key-cbd9b1f213d4fa10b77027bb433aba2c] must take all reasonable steps to ensure that the website is generally accessible and properly protected.
+(1) The Secretary of State[^c-cbd9b1f213d4fa10b77027bb433aba2c] must take all reasonable steps to ensure that the website is generally accessible and properly protected.
 
 (2) The website must be capable of being searched according to—
 
 - (a) candidate name;
 - (b) police area;
 - (c) postcode;
-- (d) such other criteria as the Secretary of State[^key-41b0009a05612b8932a1364d02a5a05a] considers appropriate.
+- (d) such other criteria as the Secretary of State[^c-41b0009a05612b8932a1364d02a5a05a] considers appropriate.
 
 (3) Any list of the names of candidates for a police area which results from a search carried out on the website must appear in alphabetical order.
 
@@ -181,13 +181,13 @@ is to incur any civil or criminal liability in respect of the publication of the
 
 - (a) the name and contact details of the police area returning officer,
 - (b) the name and contact details of the website provider, and
-- (c) any other information for voters which the Commission may supply to the Secretary of State[^key-724994c391ca8d248aaf886d88e44af6] which is appropriate for inclusion on the website.
+- (c) any other information for voters which the Commission may supply to the Secretary of State[^c-724994c391ca8d248aaf886d88e44af6] which is appropriate for inclusion on the website.
 
 (7) The information referred to in sub-paragraph (6)(c) may include information about the office of police and crime commissioner, the system of voting to be used at PCC elections and how to vote in a manner to ensure that the vote is validly given.
 
 #### 13. Request for printed version of election addresses
 
-(1) The Secretary of State[^key-9c99cdf856fc7844897127e82c98b7cc] must, on a request made by any person, send to that person a printed version of the election addresses of candidates for any police area in which the person is entitled to vote as an elector.
+(1) The Secretary of State[^c-9c99cdf856fc7844897127e82c98b7cc] must, on a request made by any person, send to that person a printed version of the election addresses of candidates for any police area in which the person is entitled to vote as an elector.
 
 (2) The police area returning officer must forward to the Secretary of State any request for a printed version which is received by the officer.
 
@@ -202,7 +202,7 @@ is to incur any civil or criminal liability in respect of the publication of the
 - (a) on request in large print, braille and on audio tape;
 - (b) in the offices of each local authority wholly or partly comprised in the police area;
 - (c) in public libraries in the police area;
-- (d)[^key-35602188d523e59e44c86c3b232bbd3e] in any other premises to which the public normally have access in the police area.
+- (d)[^c-35602188d523e59e44c86c3b232bbd3e] in any other premises to which the public normally have access in the police area.
 
 ### PART 2 — Form in which election address to be submitted
 
@@ -210,38 +210,38 @@ is to incur any civil or criminal liability in respect of the publication of the
 
 ## Annotations
 
-[^key-94cd7202a642fb089ff6392a28052de9]: Textual amendment: Word in Sch. 8 para. 1 substituted (24.7.2014) by [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/a)
+[^c-94cd7202a642fb089ff6392a28052de9]: Textual amendment: Word in Sch. 8 para. 1 substituted (24.7.2014) by [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/a)
 
-[^key-caf35fc2952235bfa790bf6f3a7ce513]: Textual amendment: Word in [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/2) substituted (24.7.2014) by [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/b)
+[^c-caf35fc2952235bfa790bf6f3a7ce513]: Textual amendment: Word in [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/2) substituted (24.7.2014) by [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/b)
 
-[^key-a44fb413b36b6c1e84b60fa68f1ae905]: Textual amendment: Word in [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/5/1) omitted (24.7.2014) by virtue of [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(c)(i)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/c/i)
+[^c-a44fb413b36b6c1e84b60fa68f1ae905]: Textual amendment: Word in [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/5/1) omitted (24.7.2014) by virtue of [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(c)(i)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/c/i)
 
-[^key-fd1e92259984792d0d907286a4c24147]: Textual amendment: Word in [Sch. 8 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/5/2/b) omitted (24.7.2014) by virtue of [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/c/ii)
+[^c-fd1e92259984792d0d907286a4c24147]: Textual amendment: Word in [Sch. 8 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/5/2/b) omitted (24.7.2014) by virtue of [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/c/ii)
 
 [^c21344611]: Marginal citation: Section 28A and 28B were inserted by section 49(1) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-8eb00bc908a41c668b1f158ec459e8bc]: Textual amendment: Words in [Sch. 8 para. 6(1)(c)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/6/1/c) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-8eb00bc908a41c668b1f158ec459e8bc]: Textual amendment: Words in [Sch. 8 para. 6(1)(c)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/6/1/c) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-a19bfb9b4a3c7c4c5584b45fe2f220f9]: Textual amendment: Words in [Sch. 8 para. 7(5)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/7/5)[(6)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/7/6) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-a19bfb9b4a3c7c4c5584b45fe2f220f9]: Textual amendment: Words in [Sch. 8 para. 7(5)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/7/5)[(6)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/7/6) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-c850159ab6b4e40c4a7b8341cdc421b2]: Textual amendment: Words in [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/8) heading substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-c850159ab6b4e40c4a7b8341cdc421b2]: Textual amendment: Words in [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/8) heading substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-4120f234721e7b891da014d6975c7439]: Textual amendment: Words in [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/8/1)[(2)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/8/2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-4120f234721e7b891da014d6975c7439]: Textual amendment: Words in [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/8/1)[(2)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/8/2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-832ff7a6648a1a941c07b409826a7100]: Textual amendment: Words in [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/9/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-832ff7a6648a1a941c07b409826a7100]: Textual amendment: Words in [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/9/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-9065e81fe56627331c01e2a88137253d]: Textual amendment: Words in [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/9/4) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-9065e81fe56627331c01e2a88137253d]: Textual amendment: Words in [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/9/4) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-92e56dc6b0b2a92768456ff1b7d213b1]: Textual amendment: Words in [Sch. 8 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/10/1/a) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-92e56dc6b0b2a92768456ff1b7d213b1]: Textual amendment: Words in [Sch. 8 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/10/1/a) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c21344621]: Marginal citation: See rule 13 of the PCC elections rules in Schedule 3.
 
-[^key-cbd9b1f213d4fa10b77027bb433aba2c]: Textual amendment: Words in [Sch. 8 para. 12(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/12/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-cbd9b1f213d4fa10b77027bb433aba2c]: Textual amendment: Words in [Sch. 8 para. 12(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/12/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-41b0009a05612b8932a1364d02a5a05a]: Textual amendment: Words in [Sch. 8 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/12/2/d) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-41b0009a05612b8932a1364d02a5a05a]: Textual amendment: Words in [Sch. 8 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/12/2/d) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-724994c391ca8d248aaf886d88e44af6]: Textual amendment: Words in [Sch. 8 para. 12(6)(c)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/12/6/c) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-724994c391ca8d248aaf886d88e44af6]: Textual amendment: Words in [Sch. 8 para. 12(6)(c)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/12/6/c) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-9c99cdf856fc7844897127e82c98b7cc]: Textual amendment: Words in [Sch. 8 para. 13(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/13/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-9c99cdf856fc7844897127e82c98b7cc]: Textual amendment: Words in [Sch. 8 para. 13(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/8/paragraph/13/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(j)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/j) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-35602188d523e59e44c86c3b232bbd3e]: Textual amendment: Sch. 8 para. 13(4)(d) inserted (24.7.2014) by [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(d)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/d)
+[^c-35602188d523e59e44c86c3b232bbd3e]: Textual amendment: Sch. 8 para. 13(4)(d) inserted (24.7.2014) by [The Police and Crime Commissioner Elections (Amendment) (No. 2) Order 2014 (S.I. 2014/1963)](https://www.legislation.gov.uk/uksi/2014/1963), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1963/article/1/3), [4(d)](https://www.legislation.gov.uk/uksi/2014/1963/article/4/d)

@@ -33,7 +33,7 @@ This Statutory Instrument has been printed in substitution of [SI 2010/310](http
 
 National Health Service, England
 
-The Buckinghamshire Hospitals National Health Service Trust (Trust Funds: Appointment of Trustees) Revocation Order 2010 (revoked)[^key-e069b9308e21d71d740b192203cd208c]
+The Buckinghamshire Hospitals National Health Service Trust (Trust Funds: Appointment of Trustees) Revocation Order 2010 (revoked)[^c-e069b9308e21d71d740b192203cd208c]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 8th March 2010
 
-[^key-e069b9308e21d71d740b192203cd208c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e069b9308e21d71d740b192203cd208c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e069b9308e21d71d740b192203cd208c]
+## 1. Citation and commencement[^c-e069b9308e21d71d740b192203cd208c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-e069b9308e21d71d740b192203cd208c]
+## 2. Revocation[^c-e069b9308e21d71d740b192203cd208c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e069b9308e21d71d740b192203cd208c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e069b9308e21d71d740b192203cd208c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e069b9308e21d71d740b192203cd208c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e069b9308e21d71d740b192203cd208c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e069b9308e21d71d740b192203cd208c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/417) revoked (1.4.2017) by [The National Health Service Trusts (Trust Funds: Appointment of Trustees) (Revocation) and the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) (Amendment) Order 2017 (S.I. 2017/424)](https://www.legislation.gov.uk/uksi/2017/424), [arts. 1](https://www.legislation.gov.uk/uksi/2017/424/article/1), [2](https://www.legislation.gov.uk/uksi/2017/424/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/424/schedule)
+[^c-e069b9308e21d71d740b192203cd208c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/417) revoked (1.4.2017) by [The National Health Service Trusts (Trust Funds: Appointment of Trustees) (Revocation) and the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) (Amendment) Order 2017 (S.I. 2017/424)](https://www.legislation.gov.uk/uksi/2017/424), [arts. 1](https://www.legislation.gov.uk/uksi/2017/424/article/1), [2](https://www.legislation.gov.uk/uksi/2017/424/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/424/schedule)

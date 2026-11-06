@@ -31,10 +31,10 @@ summary: ''
 
 of 24 July 1998 on the treatment for national accounts purposes of VAT fraud (the discrepancies between theoretical VAT receipts and actual VAT receipts) (notified under document number C(1998) 2202) (Text with EEA relevance) (revoked)
 
-[^key-4c031449a18354d1be456e89fbc26a98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c031449a18354d1be456e89fbc26a98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-4c031449a18354d1be456e89fbc26a98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-4c031449a18354d1be456e89fbc26a98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c031449a18354d1be456e89fbc26a98]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/18)
+[^c-4c031449a18354d1be456e89fbc26a98]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/18)

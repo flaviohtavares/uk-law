@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Steps required after review, or review and revision, of the safety case[^key-91a8d890aed2db9092cc961ebb843c11]
+## 81. Steps required after review, or review and revision, of the safety case[^c-91a8d890aed2db9092cc961ebb843c11]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91a8d890aed2db9092cc961ebb843c11]: Commencement: Reg. 81 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-91a8d890aed2db9092cc961ebb843c11]: Commencement: Reg. 81 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

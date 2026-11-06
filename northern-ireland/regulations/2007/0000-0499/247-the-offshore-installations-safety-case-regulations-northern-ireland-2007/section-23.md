@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Exemptions[^key-21125ca436ae341fc27525d543d7f744]
+## 23. Exemptions[^c-21125ca436ae341fc27525d543d7f744]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 ## Annotations
 
-[^key-21125ca436ae341fc27525d543d7f744]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/247/regulation/23) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-21125ca436ae341fc27525d543d7f744]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/247/regulation/23) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
 
 [^f00016]: Footnote: O.J. No. L348, 28.11.92, p. 9

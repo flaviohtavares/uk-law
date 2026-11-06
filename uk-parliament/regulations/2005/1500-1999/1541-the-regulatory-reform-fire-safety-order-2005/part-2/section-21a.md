@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21A. Provision of information to residents of domestic premises[^key-071140996f11ae035942972fa7dbd9de]
+## 21A. Provision of information to residents of domestic premises[^c-071140996f11ae035942972fa7dbd9de]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-071140996f11ae035942972fa7dbd9de]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2005/1541/article/21A) inserted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/6), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-071140996f11ae035942972fa7dbd9de]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2005/1541/article/21A) inserted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/6), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)

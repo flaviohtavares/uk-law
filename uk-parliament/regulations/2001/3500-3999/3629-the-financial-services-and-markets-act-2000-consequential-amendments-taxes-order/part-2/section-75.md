@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Introduction[^key-2c64395f5136350b34e0785b1ebae311]
+## 75. Introduction[^c-2c64395f5136350b34e0785b1ebae311]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 1993 in accordance with Articles 76 to 82.
 
 ## Annotations
 
-[^key-2c64395f5136350b34e0785b1ebae311]: Commencement: Art. 75 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-2c64395f5136350b34e0785b1ebae311]: Commencement: Art. 75 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

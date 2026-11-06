@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Regulations: death, incapacity or insolvency of person carrying on a business[^key-00473fcb9410bacb51b36b89de2ec834][^key-bcdbab76cfa5157e0bff6a43b50dae81]
+## 57. Regulations: death, incapacity or insolvency of person carrying on a business[^c-00473fcb9410bacb51b36b89de2ec834][^c-bcdbab76cfa5157e0bff6a43b50dae81]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00473fcb9410bacb51b36b89de2ec834]: Commencement: S. 57 in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
+[^c-00473fcb9410bacb51b36b89de2ec834]: Commencement: S. 57 in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
 
-[^key-bcdbab76cfa5157e0bff6a43b50dae81]: Commencement: S. 57 in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-bcdbab76cfa5157e0bff6a43b50dae81]: Commencement: S. 57 in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

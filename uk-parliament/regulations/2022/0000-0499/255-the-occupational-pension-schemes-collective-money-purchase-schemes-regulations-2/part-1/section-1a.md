@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1A. Application[^key-61eef8374e5b182fdeb8c0433cc8b68b]
+## 1A. Application[^c-61eef8374e5b182fdeb8c0433cc8b68b]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61eef8374e5b182fdeb8c0433cc8b68b]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2022/255/regulation/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [59](https://www.legislation.gov.uk/uksi/2025/1313/regulation/59)
+[^c-61eef8374e5b182fdeb8c0433cc8b68b]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2022/255/regulation/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [59](https://www.legislation.gov.uk/uksi/2025/1313/regulation/59)

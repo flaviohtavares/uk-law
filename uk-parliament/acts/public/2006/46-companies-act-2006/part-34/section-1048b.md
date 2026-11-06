@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1048B. Identity verification of directors[^key-6b7a83befc705c11a29b1ce7f1092e3d]
+## 1048B. Identity verification of directors[^c-6b7a83befc705c11a29b1ce7f1092e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b7a83befc705c11a29b1ce7f1092e3d]: Textual amendment: [S. 1048B](https://www.legislation.gov.uk/ukpga/2006/46/section/1048B) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 101](https://www.legislation.gov.uk/ukpga/2023/56/section/101), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-6b7a83befc705c11a29b1ce7f1092e3d]: Textual amendment: [S. 1048B](https://www.legislation.gov.uk/ukpga/2006/46/section/1048B) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 101](https://www.legislation.gov.uk/ukpga/2023/56/section/101), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

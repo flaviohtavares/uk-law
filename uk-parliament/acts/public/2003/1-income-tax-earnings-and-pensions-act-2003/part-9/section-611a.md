@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 611A. Exemptions from sections 609 to 611[^key-85176fe448c7253f961b27d932e51bbc]
+## 611A. Exemptions from sections 609 to 611[^c-85176fe448c7253f961b27d932e51bbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85176fe448c7253f961b27d932e51bbc]: Textual amendment: [S. 611A](https://www.legislation.gov.uk/ukpga/2003/1/section/611A) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/21)
+[^c-85176fe448c7253f961b27d932e51bbc]: Textual amendment: [S. 611A](https://www.legislation.gov.uk/ukpga/2003/1/section/611A) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/21)

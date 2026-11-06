@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**50.**[^key-7157a7ceef17cff9df631568a058bc92] (1) The Schedules to these Rules set out, with modifications, certain provisions previously contained in the Rules of the Supreme Court 1965[^f00083] and the County Court Rules 1981[^f00084].
+**50.**[^c-7157a7ceef17cff9df631568a058bc92] (1) The Schedules to these Rules set out, with modifications, certain provisions previously contained in the Rules of the Supreme Court 1965[^f00083] and the County Court Rules 1981[^f00084].
 
 (2) These Rules apply in relation to the proceedings to which the Schedules apply subject to the provisions in the Schedules and the relevant practice directions.
 
@@ -32,7 +32,7 @@ summary: ''
 
 - (a) is headed “CCR”;
 - (b) is numbered with the Order and rule numbers it bore as part of the CCR; and
-- (c) unless otherwise stated in the Schedules or the relevant practice direction, applies only to proceedings in the County Court[^key-58ddedc447e45f27157c93586a6e9864] .
+- (c) unless otherwise stated in the Schedules or the relevant practice direction, applies only to proceedings in the County Court[^c-58ddedc447e45f27157c93586a6e9864] .
 
 (5) A reference in a Schedule to a rule by number alone is a reference to the rule so numbered in the Order in which the reference occurs.
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7157a7ceef17cff9df631568a058bc92]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/1998/3132/rule/50) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-7157a7ceef17cff9df631568a058bc92]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/1998/3132/rule/50) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
 [^f00083]: Footnote: [S.I. 1965/1776](https://www.legislation.gov.uk/uksi/1965/1776).
 
 [^f00084]: Footnote: [S.I. 1981/1687](https://www.legislation.gov.uk/uksi/1981/1687).
 
-[^key-58ddedc447e45f27157c93586a6e9864]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1998/3132) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-58ddedc447e45f27157c93586a6e9864]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1998/3132) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Registration of information about trusts[^key-22b5ed65acb0412e36b6e163adfeb2de]
+## 159. Registration of information about trusts[^c-22b5ed65acb0412e36b6e163adfeb2de]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b5ed65acb0412e36b6e163adfeb2de]: Commencement: S. 159 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-22b5ed65acb0412e36b6e163adfeb2de]: Commencement: S. 159 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -35,22 +35,22 @@ amending Regulation (EU) No 9/2010 as regards the minimum content of a preparati
 
 (Text with EEA relevance) (revoked)
 
-[^key-d03f46746e30e195ae8242305fddcf47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d03f46746e30e195ae8242305fddcf47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d03f46746e30e195ae8242305fddcf47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d03f46746e30e195ae8242305fddcf47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d03f46746e30e195ae8242305fddcf47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d03f46746e30e195ae8242305fddcf47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d03f46746e30e195ae8242305fddcf47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d03f46746e30e195ae8242305fddcf47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d03f46746e30e195ae8242305fddcf47]
+## ANNEX[^c-d03f46746e30e195ae8242305fddcf47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d03f46746e30e195ae8242305fddcf47]: Textual amendment: Regulation revoked (E.) (22.12.2023) by [The Feed Additives (Authorisations) (England) Regulations 2023 (S.I. 2023/1196)](https://www.legislation.gov.uk/uksi/2023/1196), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1196/schedule/14/part/1); Regulation revoked (S.) (22.12.2023) by [The Feed Additives (Authorisations) (Scotland) Regulations 2023 (S.S.I. 2023/339)](https://www.legislation.gov.uk/ssi/2023/339), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1), [sch. 14 para. 9](https://www.legislation.gov.uk/ssi/2023/339/schedule/14/paragraph/9); and Regulation revoked (W.) (22.12.2023) by [The Feed Additives (Authorisations) (Wales) Regulations 2023 (S.I. 2023/1276)](https://www.legislation.gov.uk/wsi/2023/1276), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c), [Sch. 14](https://www.legislation.gov.uk/wsi/2023/1276/schedule/14) (with [reg. 4](https://www.legislation.gov.uk/wsi/2023/1276/regulation/4))
+[^c-d03f46746e30e195ae8242305fddcf47]: Textual amendment: Regulation revoked (E.) (22.12.2023) by [The Feed Additives (Authorisations) (England) Regulations 2023 (S.I. 2023/1196)](https://www.legislation.gov.uk/uksi/2023/1196), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1196/regulation/1/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1196/schedule/14/part/1); Regulation revoked (S.) (22.12.2023) by [The Feed Additives (Authorisations) (Scotland) Regulations 2023 (S.S.I. 2023/339)](https://www.legislation.gov.uk/ssi/2023/339), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1), [sch. 14 para. 9](https://www.legislation.gov.uk/ssi/2023/339/schedule/14/paragraph/9); and Regulation revoked (W.) (22.12.2023) by [The Feed Additives (Authorisations) (Wales) Regulations 2023 (S.I. 2023/1276)](https://www.legislation.gov.uk/wsi/2023/1276), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/1276/regulation/1/2/c), [Sch. 14](https://www.legislation.gov.uk/wsi/2023/1276/schedule/14) (with [reg. 4](https://www.legislation.gov.uk/wsi/2023/1276/regulation/4))

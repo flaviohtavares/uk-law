@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Commencement and application[^key-ba2f9b964ccbbbb92b013460f71031e7]
+## 2. Commencement and application[^c-ba2f9b964ccbbbb92b013460f71031e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ the LLP is not exempt from the requirements of the Act as applied to LLPs by the
 
 ## Annotations
 
-[^key-ba2f9b964ccbbbb92b013460f71031e7]: Commencement: Reg. 2 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-ba2f9b964ccbbbb92b013460f71031e7]: Commencement: Reg. 2 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00011]: Footnote: Section 444 as applied to LLPs is amended by regulation 12 of these Regulations. Section 445 as applied to LLPs is amended by regulation 13 of these Regulations.
 

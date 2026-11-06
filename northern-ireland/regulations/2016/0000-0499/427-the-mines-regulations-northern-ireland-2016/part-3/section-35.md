@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Mine workings in potentially hazardous areas[^key-be8243de3f8bea0b17687535bfeadfbc]
+## 35. Mine workings in potentially hazardous areas[^c-be8243de3f8bea0b17687535bfeadfbc]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ the mine operator shall assess the risk of the occurrence of an inrush to determ
 
 ## Annotations
 
-[^key-be8243de3f8bea0b17687535bfeadfbc]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2016/427/regulation/35) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-be8243de3f8bea0b17687535bfeadfbc]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2016/427/regulation/35) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

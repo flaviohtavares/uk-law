@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A32. Record keeping[^key-82d3c6c758d83fd0e16d7ad856543ec3]
+## A32. Record keeping[^c-82d3c6c758d83fd0e16d7ad856543ec3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d3c6c758d83fd0e16d7ad856543ec3]: Textual amendment: Reg. A32 inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/538/regulation/23)
+[^c-82d3c6c758d83fd0e16d7ad856543ec3]: Textual amendment: Reg. A32 inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/538/regulation/23)

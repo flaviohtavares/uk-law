@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Safeguards for processing for research etc purposes[^key-839f9453acf5200f06271beb8dd8eba1][^key-74c42858c4ffb3fe4790a8c244196aff]
+## 86. Safeguards for processing for research etc purposes[^c-839f9453acf5200f06271beb8dd8eba1][^c-74c42858c4ffb3fe4790a8c244196aff]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-839f9453acf5200f06271beb8dd8eba1]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-839f9453acf5200f06271beb8dd8eba1]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-74c42858c4ffb3fe4790a8c244196aff]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2025/18/section/86) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-74c42858c4ffb3fe4790a8c244196aff]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2025/18/section/86) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)

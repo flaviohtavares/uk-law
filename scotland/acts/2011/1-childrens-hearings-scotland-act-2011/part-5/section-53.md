@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Power of Principal Reporter to terminate order[^key-c49f87d19fb2c33e70d14d6421ea69da]
+## 53. Power of Principal Reporter to terminate order[^c-c49f87d19fb2c33e70d14d6421ea69da]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c49f87d19fb2c33e70d14d6421ea69da]: Commencement: S. 53 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-c49f87d19fb2c33e70d14d6421ea69da]: Commencement: S. 53 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

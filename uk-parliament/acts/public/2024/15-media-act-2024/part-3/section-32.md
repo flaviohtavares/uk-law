@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. S4C’s powers and public service remit[^key-5454520ad4ede3f9be70ba29f5ddf67a][^key-809d6496dcb6e57c1eeda9e2a5f7ae0f]
+## 32. S4C’s powers and public service remit[^c-5454520ad4ede3f9be70ba29f5ddf67a][^c-809d6496dcb6e57c1eeda9e2a5f7ae0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5454520ad4ede3f9be70ba29f5ddf67a]: Commencement: S. 32 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
+[^c-5454520ad4ede3f9be70ba29f5ddf67a]: Commencement: S. 32 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
 
-[^key-809d6496dcb6e57c1eeda9e2a5f7ae0f]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2024/15/section/32) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/r)
+[^c-809d6496dcb6e57c1eeda9e2a5f7ae0f]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2024/15/section/32) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/r)

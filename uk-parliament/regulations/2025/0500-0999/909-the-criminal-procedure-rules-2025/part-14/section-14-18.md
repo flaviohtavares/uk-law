@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.18. Exercise of court’s powers: extension of pre-charge bail[^key-bc374b162854a1cc8bd96b3c67f6f22c]
+## 14.18. Exercise of court’s powers: extension of pre-charge bail[^c-bc374b162854a1cc8bd96b3c67f6f22c]
 
 *Extent: E+W*
 
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bc374b162854a1cc8bd96b3c67f6f22c]: Commencement: [Rule 14.18](https://www.legislation.gov.uk/uksi/2025/909/rule/14.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bc374b162854a1cc8bd96b3c67f6f22c]: Commencement: [Rule 14.18](https://www.legislation.gov.uk/uksi/2025/909/rule/14.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00376]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); sections 47ZA and 47ZB were inserted by section 63 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3). Section 47ZB was amended by paragraphs 24 and 26 of Schedule 4 to the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 

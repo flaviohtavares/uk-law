@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153.[^key-02a7af8e7cd87e2272c241a8a2ba0bff]
+## 153.[^c-02a7af8e7cd87e2272c241a8a2ba0bff]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In the Annex in the Model Letter accompanying an application for Flavourings—
 
 ## Annotations
 
-[^key-02a7af8e7cd87e2272c241a8a2ba0bff]: Commencement: Reg. 153 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-02a7af8e7cd87e2272c241a8a2ba0bff]: Commencement: Reg. 153 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

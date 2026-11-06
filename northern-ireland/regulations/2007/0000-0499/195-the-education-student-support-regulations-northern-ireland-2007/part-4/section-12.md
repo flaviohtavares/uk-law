@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Current system students[^key-dcbff403b548ebb13487542b476ca0fb]
+## 12. Current system students[^c-dcbff403b548ebb13487542b476ca0fb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A current system student qualifies for a fee loan in respect of the fees payable
 
 ## Annotations
 
-[^key-dcbff403b548ebb13487542b476ca0fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/195/regulation/12) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-dcbff403b548ebb13487542b476ca0fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/195/regulation/12) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Secured creditors[^key-eb583471035c9754e161a1f844c1bffe]
+## 70. Secured creditors[^c-eb583471035c9754e161a1f844c1bffe]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.094 of the 1991 Rules.
 
 ## Annotations
 
-[^key-eb583471035c9754e161a1f844c1bffe]: Commencement: Rule 70 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-eb583471035c9754e161a1f844c1bffe]: Commencement: Rule 70 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

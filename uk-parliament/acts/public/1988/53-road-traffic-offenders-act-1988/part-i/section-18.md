@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a person’s name was, or was not, in the register,
 - (b) the entry of a person’s name was made in the register or a person’s name was removed from it,
-- (ba)[^key-94af6a3c03a91d2c8e4895d2a48a9e86] a person's registration was, or was not, suspended,
+- (ba)[^c-94af6a3c03a91d2c8e4895d2a48a9e86] a person's registration was, or was not, suspended,
 - (c) a person was, or was not, the holder of a current licence under section 129 of the Road Traffic Act 1988, or
 - (d) a licence under that section granted to a person came into force or ceased to be in force,
 
@@ -36,6 +36,6 @@ shall be evidence, and in Scotland sufficient evidence, of the facts stated in t
 
 ## Annotations
 
-[^key-94af6a3c03a91d2c8e4895d2a48a9e86]: Textual amendment: [S. 18(1)(ba)](https://www.legislation.gov.uk/ukpga/1988/53/section/18/1/ba) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/4); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-94af6a3c03a91d2c8e4895d2a48a9e86]: Textual amendment: [S. 18(1)(ba)](https://www.legislation.gov.uk/ukpga/1988/53/section/18/1/ba) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/4); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
 [^c18158741]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).

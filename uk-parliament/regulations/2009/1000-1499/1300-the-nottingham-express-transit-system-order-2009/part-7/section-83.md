@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Repeals of the 1994 Act[^key-5b2da2ba4add8054130718c9010e78d3]
+## 83. Repeals of the 1994 Act[^c-5b2da2ba4add8054130718c9010e78d3]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ together with all necessary works and conveniences connected with those works.
 
 ## Annotations
 
-[^key-5b2da2ba4add8054130718c9010e78d3]: Commencement: Art. 83 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-5b2da2ba4add8054130718c9010e78d3]: Commencement: Art. 83 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

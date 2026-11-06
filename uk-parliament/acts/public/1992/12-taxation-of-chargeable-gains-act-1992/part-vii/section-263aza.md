@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263AZA. Renewables obligation certificates for domestic microgeneration[^key-7797bfcf38e1482d76ce6121f0ee3394]
+## 263AZA. Renewables obligation certificates for domestic microgeneration[^c-7797bfcf38e1482d76ce6121f0ee3394]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,13 +29,13 @@ summary: ''
 (2) In subsection (1)—
 
 - “**domestic premises**” means premises used wholly or mainly as a separate private dwelling,
-- “[^key-f7515e7300a19e122aef1c08ad8ecbf5]**microgeneration system**” means any plant (including any equipment, apparatus or appliance) or system of plant for generating electricity or producing heat—
+- “[^c-f7515e7300a19e122aef1c08ad8ecbf5]**microgeneration system**” means any plant (including any equipment, apparatus or appliance) or system of plant for generating electricity or producing heat—
   - (a) which, in generating electricity or (as the case may be) producing heat, relies wholly or mainly on a source of energy or a technology mentioned in subsection (7) of section 82 of the Energy Act 2004, and
   - (b) whose capacity to generate electricity or (as the case may be) to produce heat does not exceed the capacity mentioned in subsection (8) of that section,
 - “**renewables obligation certificate**” means a certificate issued under section 32B of the Electricity Act 1989 or Article 54 of the Energy (Northern Ireland) Order 2003.
 
 ## Annotations
 
-[^key-7797bfcf38e1482d76ce6121f0ee3394]: Textual amendment: S. 263AZA inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/21/2)
+[^c-7797bfcf38e1482d76ce6121f0ee3394]: Textual amendment: S. 263AZA inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/21/2)
 
-[^key-f7515e7300a19e122aef1c08ad8ecbf5]: Textual amendment: Words in s. 263AZA(2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/3/a), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-f7515e7300a19e122aef1c08ad8ecbf5]: Textual amendment: Words in s. 263AZA(2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/3/a), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)

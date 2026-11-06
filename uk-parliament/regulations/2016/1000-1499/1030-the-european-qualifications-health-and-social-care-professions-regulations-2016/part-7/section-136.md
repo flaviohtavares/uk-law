@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Insertion of section 90A (English text)[^key-90bd07e651b3a7e21d6bead3c8307bc5]
+## 136. Insertion of section 90A (English text)[^c-90bd07e651b3a7e21d6bead3c8307bc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In the English language text, after section 90, insert—
 
 ## Annotations
 
-[^key-90bd07e651b3a7e21d6bead3c8307bc5]: Commencement: Reg. 136 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-90bd07e651b3a7e21d6bead3c8307bc5]: Commencement: Reg. 136 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

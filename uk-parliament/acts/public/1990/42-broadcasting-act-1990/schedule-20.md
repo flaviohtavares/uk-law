@@ -74,19 +74,19 @@ Section 203(1).
 
 ### Licensing Act 1964 (c. 26)
 
-**7.**[^key-728b5898a7508219e22aa7075d7f8122] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-728b5898a7508219e22aa7075d7f8122] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Private Places of Entertainment (Licensing) Act 1967 (c. 19)
 
-**8.**[^key-f1e667b72a923f0567d51fbd370ca301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f1e667b72a923f0567d51fbd370ca301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Wireless Telegraphy Act 1967 (c. 72)
 
-**9.**[^key-8e7609df37529d98066824f943c9b4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8e7609df37529d98066824f943c9b4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### London Cab Act 1968 (c. 7)
 
-**10.**[^key-c5e0b956245b19814e154cbd077ca05b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c5e0b956245b19814e154cbd077ca05b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Trade Descriptions Act 1968 (c. 29)
 
@@ -149,7 +149,7 @@ Section 203(1).
 
 ### Fair Trading Act 1973 (c. 41)
 
-**20.**[^key-94a3136785cd1bebd8a56db9c0afbe3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-94a3136785cd1bebd8a56db9c0afbe3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Procedure (Scotland) Act 1975 (c. 21)
 
@@ -179,7 +179,7 @@ Section 203(1).
   ;
 - (c) in subsection (9)—
   - (i) for “a programme contractor, they shall consult the Independent Broadcasting Authority” substitute “ the holder of a relevant licence, they shall consult the appropriate authority ”; and
-  - (ii)[^key-ee95d65be45ae8bba84ce322a2ac85ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-ee95d65be45ae8bba84ce322a2ac85ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) omit subsection (9A);
 - (e) in subsection (10), for “programme contractor” substitute “ holder of a relevant licence ”; and
 - (f) for subsection (11) substitute—
@@ -245,25 +245,25 @@ Section 203(1).
 
 ### Competition Act 1980 (c. 21)
 
-**28.**[^key-04fb56ff574f4b9a9e5a5a35e6b68323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-04fb56ff574f4b9a9e5a5a35e6b68323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Magistrates’ Courts Act 1980 (c. 43)
 
-**29.** (1) In section 8 (restrictions on reports of committal proceedings)— *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57]
+**29.** (1) In section 8 (restrictions on reports of committal proceedings)— *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57]
 
-- (a) in subsection (1), for “broadcast or include in a cable programme” substitute *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57] “ include in a relevant programme for reception ” *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57];
-- (b) in subsections (2B), (4), (5) and (8), for “broadcast or included in a cable programme”, in each place where those words occur, substitute *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57] “ or included in a relevant programme ” *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57];
-- (c) in subsection (3), for “broadcast or include in a cable programme”, in each place where those words occur, substitute *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57] “ or include in a relevant programme ” *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57];
-- (d) in subsection (5), for paragraphs (c) and (d) substitute— *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57]
+- (a) in subsection (1), for “broadcast or include in a cable programme” substitute *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57] “ include in a relevant programme for reception ” *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57];
+- (b) in subsections (2B), (4), (5) and (8), for “broadcast or included in a cable programme”, in each place where those words occur, substitute *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57] “ or included in a relevant programme ” *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57];
+- (c) in subsection (3), for “broadcast or include in a cable programme”, in each place where those words occur, substitute *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57] “ or include in a relevant programme ” *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57];
+- (d) in subsection (5), for paragraphs (c) and (d) substitute— *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57]
 
-  > - (c) in the case of the inclusion of a report in a relevant programme, any body corporate which provides the service in which the programme is included and any person having functions in relation to the programme corresponding to those of an editor of a newspaper, *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57]
+  > - (c) in the case of the inclusion of a report in a relevant programme, any body corporate which provides the service in which the programme is included and any person having functions in relation to the programme corresponding to those of an editor of a newspaper, *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57]
 
   ;
-- (e) in subsection (10), omit the definitions of “broadcast” and “cable programme” and after the definition of “publish” insert— *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57]
+- (e) in subsection (10), omit the definitions of “broadcast” and “cable programme” and after the definition of “publish” insert— *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57]
 
-  > “**relevant programme *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57]**” means a programme included in a programme service (within the meaning of the Broadcasting Act 1990). *(affected by repeal, see note)*[^key-6a8a4c26506645fe2365ad5647214f57]
+  > “**relevant programme *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57]**” means a programme included in a programme service (within the meaning of the Broadcasting Act 1990). *(affected by repeal, see note)*[^c-6a8a4c26506645fe2365ad5647214f57]
 
-(2)[^key-a5d435837c1b20dddf8af0b420029280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a5d435837c1b20dddf8af0b420029280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Indecent Displays (Control) Act 1981 (c. 42)
 
@@ -355,7 +355,7 @@ and
 
 - (b) omit subsection (3).
 
-(5)[^key-f381c867f60df54ed977876f856ada24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f381c867f60df54ed977876f856ada24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Audit Act 1983 (c. 44)
 
@@ -369,7 +369,7 @@ and
 
 ### Telecommunications Act 1984 (c. 12)
 
-**38.**[^key-0c30f3f494a3466e9e79568d53d73797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-0c30f3f494a3466e9e79568d53d73797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Video Recordings Act 1984 (c. 39)
 
@@ -381,7 +381,7 @@ and
 
 ### Bankruptcy (Scotland) Act 1985 (c. 66)
 
-**41.**[^key-e45e7f6ae6d02f5d05dc011b84085c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-e45e7f6ae6d02f5d05dc011b84085c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (S.I. 1985/1204 (N.I.11))
 
@@ -432,11 +432,11 @@ and
 
 ### Consumer Protection Act 1987 (c. 43)
 
-**48.**[^key-4eeaa68217823dfc5da4afc8842198c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-4eeaa68217823dfc5da4afc8842198c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Consumer Protection (Northern Ireland) Order 1987 (S.I.1987/2049 (N.I.20))
 
-**49.**[^key-466cc28bc9bd207bda12f900b1ce478f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-466cc28bc9bd207bda12f900b1ce478f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Copyright, Designs and Patents Act 1988 (c. 48)
 
@@ -542,7 +542,7 @@ and
 
 ### Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19))
 
-**54.**[^key-55c36763d49fd45cb885fc5eead3830a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-55c36763d49fd45cb885fc5eead3830a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -552,13 +552,13 @@ and
 
 [^c16554141]: Textual amendment: Words in Sch. 20 para. 3(2) repealed (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/11); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1) Appendix C
 
-[^key-728b5898a7508219e22aa7075d7f8122]: Textual amendment: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/7) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-728b5898a7508219e22aa7075d7f8122]: Textual amendment: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/7) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-f1e667b72a923f0567d51fbd370ca301]: Textual amendment: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-f1e667b72a923f0567d51fbd370ca301]: Textual amendment: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-8e7609df37529d98066824f943c9b4a9]: Textual amendment: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/9) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8e7609df37529d98066824f943c9b4a9]: Textual amendment: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/9) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c5e0b956245b19814e154cbd077ca05b]: Textual amendment: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/10) repealed (1.6.2003) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/b)
+[^c-c5e0b956245b19814e154cbd077ca05b]: Textual amendment: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/10) repealed (1.6.2003) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/b)
 
 [^c16554161]: Textual amendment: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/14) repealed (6.5.1992) by [Bingo Act 1992 (c. 10)](https://www.legislation.gov.uk/ukpga/1992/10), [ss. 1(9)](https://www.legislation.gov.uk/ukpga/1992/10/section/1/9), [2(2)](https://www.legislation.gov.uk/ukpga/1992/10/section/2/2)
 
@@ -568,34 +568,34 @@ and
 
 [^c16554231]: Textual amendment: [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/19) repealed (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 100(2)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/2), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-94a3136785cd1bebd8a56db9c0afbe3d]: Textual amendment: [Sch. 20 para. 20](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/20) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-94a3136785cd1bebd8a56db9c0afbe3d]: Textual amendment: [Sch. 20 para. 20](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/20) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c16554251]: Textual amendment: [Sch. 20 para. 22](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/22) repealed (06.01.1992) by [British Technology Group Act 1991 (c. 66, SIF 64)](https://www.legislation.gov.uk/ukpga/1991/66), [s. 17(2)](https://www.legislation.gov.uk/ukpga/1991/66/section/17/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1991/66/schedule/2), [Pt.I](https://www.legislation.gov.uk/ukpga/1991/66/part/I); [S.I. 1991/2721](https://www.legislation.gov.uk/uksi/1991/2721), [art.2](https://www.legislation.gov.uk/uksi/1991/2721/article/2).
 
-[^key-ee95d65be45ae8bba84ce322a2ac85ed]: Textual amendment: [Sch. 20 para. 24(c)(ii)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/24/c/ii) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ee95d65be45ae8bba84ce322a2ac85ed]: Textual amendment: [Sch. 20 para. 24(c)(ii)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/24/c/ii) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c16554271]: Textual amendment: [Sch. 20 para. 27(1)(a)(3)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/27/1/a/3) repealed (9.1.1995) by [S.I. 1994/2795](https://www.legislation.gov.uk/uksi/1994/2795) (NI 15), art. 26(3), Sch. 3; [S.R. 1994/446](https://www.legislation.gov.uk/nisr/1994/446), [art. 2](https://www.legislation.gov.uk/nisr/1994/446/article/2)
 
-[^key-04fb56ff574f4b9a9e5a5a35e6b68323]: Textual amendment: [Sch. 20 para. 28](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/28) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-04fb56ff574f4b9a9e5a5a35e6b68323]: Textual amendment: [Sch. 20 para. 28](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/28) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-6a8a4c26506645fe2365ad5647214f57]: Textual amendment: Sch. 20 para. 29(1) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+[^c-6a8a4c26506645fe2365ad5647214f57]: Textual amendment: Sch. 20 para. 29(1) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
-[^key-a5d435837c1b20dddf8af0b420029280]: Textual amendment: Sch. 20 para. 29(2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a5d435837c1b20dddf8af0b420029280]: Textual amendment: Sch. 20 para. 29(2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-f381c867f60df54ed977876f856ada24]: Textual amendment: [Sch. 20 para. 35(5)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/35/5) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f381c867f60df54ed977876f856ada24]: Textual amendment: [Sch. 20 para. 35(5)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/35/5) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c16554361]: Textual amendment: [Sch. 20 para. 37](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/37) repealed (1.9.1994) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15)
 
-[^key-0c30f3f494a3466e9e79568d53d73797]: Textual amendment: [Sch. 20 para. 38](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/38) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0c30f3f494a3466e9e79568d53d73797]: Textual amendment: [Sch. 20 para. 38](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/38) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e45e7f6ae6d02f5d05dc011b84085c56]: Textual amendment: [Sch. 20 para. 41](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/41) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-e45e7f6ae6d02f5d05dc011b84085c56]: Textual amendment: [Sch. 20 para. 41](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/41) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c16554371]: Textual amendment: [Sch. 20 para. 47](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/47) repealed (4.7.1996 with effect in accordance with ss. 44, 72, [Sch. 3](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3) of the amending Act) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [s. 80](https://www.legislation.gov.uk/ukpga/1996/25/section/80), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5/paragraph/12) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1))
 
-[^key-4eeaa68217823dfc5da4afc8842198c6]: Textual amendment: [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/48) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-4eeaa68217823dfc5da4afc8842198c6]: Textual amendment: [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/48) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-466cc28bc9bd207bda12f900b1ce478f]: Textual amendment: [Sch. 20 para. 49](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/49) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-466cc28bc9bd207bda12f900b1ce478f]: Textual amendment: [Sch. 20 para. 49](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/49) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^c16554391]: Textual amendment: [Sch. 20 para. 50](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/50) repealed (1.10.1996) by [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), [s. 148](https://www.legislation.gov.uk/ukpga/1996/55/section/148), [Sch. 11 Pt. I](https://www.legislation.gov.uk/ukpga/1996/55/schedule/11/part/I) (with [s. 43(1)(6)](https://www.legislation.gov.uk/ukpga/1996/55/section/43/1/6)); [S.I. 1996/2120](https://www.legislation.gov.uk/uksi/1996/2120), [art. 4](https://www.legislation.gov.uk/uksi/1996/2120/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2120/schedule/1)
 
-[^key-55c36763d49fd45cb885fc5eead3830a]: Textual amendment: [Sch. 20 para. 54](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/54) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-55c36763d49fd45cb885fc5eead3830a]: Textual amendment: [Sch. 20 para. 54](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/54) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

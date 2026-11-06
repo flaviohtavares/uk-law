@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Restriction on Winding-Up Petitions: Great Britain[^key-4e4feb4bf65476512c139e62c1964626]
+## SCHEDULE 10 — Restriction on Winding-Up Petitions: Great Britain[^c-4e4feb4bf65476512c139e62c1964626]
 
 *Extent: E+W+S*
 
@@ -133,4 +133,4 @@ unless conditions A to D are met (subject to sub-paragraphs (9) to (11)).
 
 ## Annotations
 
-[^key-4e4feb4bf65476512c139e62c1964626]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10) substituted (1.10.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) (No. 2) Regulations 2021 (S.I. 2021/1091)](https://www.legislation.gov.uk/uksi/2021/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1091/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2021/1091/regulation/3)
+[^c-4e4feb4bf65476512c139e62c1964626]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10) substituted (1.10.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) (No. 2) Regulations 2021 (S.I. 2021/1091)](https://www.legislation.gov.uk/uksi/2021/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1091/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2021/1091/regulation/3)

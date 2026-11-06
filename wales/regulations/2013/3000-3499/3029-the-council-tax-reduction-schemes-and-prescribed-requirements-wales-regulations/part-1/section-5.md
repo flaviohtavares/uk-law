@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Polygamous marriages[^key-589cb46b307444466e69f8f45197dc5c]
+## 5. Polygamous marriages[^c-589cb46b307444466e69f8f45197dc5c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-589cb46b307444466e69f8f45197dc5c]: Commencement: Reg. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-589cb46b307444466e69f8f45197dc5c]: Commencement: Reg. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

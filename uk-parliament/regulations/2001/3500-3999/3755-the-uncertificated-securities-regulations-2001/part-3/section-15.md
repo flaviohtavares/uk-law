@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15.[^key-477bed73aedf03be1ea159b47203f7c5]
+## 15.[^c-477bed73aedf03be1ea159b47203f7c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ This regulation applies to a class of shares if a company’s articles of associ
 
 ## Annotations
 
-[^key-477bed73aedf03be1ea159b47203f7c5]: Commencement: Reg. 15 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-477bed73aedf03be1ea159b47203f7c5]: Commencement: Reg. 15 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

@@ -44,7 +44,7 @@ Section 2(4).
 
 **4.** A person may be removed from office as chairman, deputy chairman or other member only if—
 
-- (a) he has been made[^key-573ea8186f700d4a4cb092a59cd005e3] bankrupt,has had a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986),[^key-01f6d3a244c8886a08f285e598655023] has had his estate sequestrated or has made a composition or arrangement with, or granted a trust deed for, his creditors; or
+- (a) he has been made[^c-573ea8186f700d4a4cb092a59cd005e3] bankrupt,has had a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986),[^c-01f6d3a244c8886a08f285e598655023] has had his estate sequestrated or has made a composition or arrangement with, or granted a trust deed for, his creditors; or
 - (b) he is failing to carry out the duties of his office or is otherwise unable or unfit to carry out those duties.
 
 ### Remuneration, pensions, etc. of members of the Agency
@@ -96,9 +96,9 @@ shall be received in evidence and shall, unless the contrary is proved, be taken
 
 ## Annotations
 
-[^key-573ea8186f700d4a4cb092a59cd005e3]: Textual amendment: Word in [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/1/paragraph/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-573ea8186f700d4a4cb092a59cd005e3]: Textual amendment: Word in [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/1/paragraph/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-01f6d3a244c8886a08f285e598655023]: Textual amendment: Words in Sch. 1 para. 4(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/43) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-01f6d3a244c8886a08f285e598655023]: Textual amendment: Words in Sch. 1 para. 4(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/43) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c1312490]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 

@@ -44,7 +44,7 @@ A draft of the instrument has been laid before each House of Parliament, a perio
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation and commencement[^key-4f245a72bec2591af5f092296e2d603e]
+## 1. Citation and commencement[^c-4f245a72bec2591af5f092296e2d603e]
 
 (1) This Order may be cited as the Leeds (Electoral Changes) Order 2017.
 
@@ -55,13 +55,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 - (a) for the purpose of proceedings preliminary, or relating, to the election of councillors, on the day after the day on which it is made;
 - (b) for all other purposes, on the ordinary day of election of councillors in England and Wales[^f00003] in 2018.
 
-## 2. Interpretation[^key-0a14dc86976c063aeca8cad04f364686]
+## 2. Interpretation[^c-0a14dc86976c063aeca8cad04f364686]
 
-(1)[^key-205305b823aa3ade26503a037c690c95] In this Order, “the map” means the map held by the Local Government Boundary Commission for England, which is marked “Revised Map (2018) referred to in the Leeds (Electoral Changes) Order 2017.
+(1)[^c-205305b823aa3ade26503a037c690c95] In this Order, “the map” means the map held by the Local Government Boundary Commission for England, which is marked “Revised Map (2018) referred to in the Leeds (Electoral Changes) Order 2017.
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Wards of the city of Leeds and number of councillors[^key-98c852b18752fe164f6d6078b620740f][^key-d7f10d6377380a78b81865c124f014e9]
+## 3. Wards of the city of Leeds and number of councillors[^c-98c852b18752fe164f6d6078b620740f][^c-d7f10d6377380a78b81865c124f014e9]
 
 (1) The existing wards of the city of Leeds are abolished.
 
@@ -105,7 +105,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) Three councillors are to be elected for each ward.
 
-## 4. Elections of the council of the city of Leeds[^key-b03889206da793209385cf61a57613e4][^key-8293be4d4b3285c14c6a47c1a686665e]
+## 4. Elections of the council of the city of Leeds[^c-b03889206da793209385cf61a57613e4][^c-8293be4d4b3285c14c6a47c1a686665e]
 
 (1) Elections of all councillors for each ward of the city of Leeds are to be held simultaneously on the ordinary day of election of councillors in 2018.
 
@@ -156,18 +156,18 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act 2009.
 
-[^key-4f245a72bec2591af5f092296e2d603e]: Commencement: Art. 1 in force at 9.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/2)
+[^c-4f245a72bec2591af5f092296e2d603e]: Commencement: Art. 1 in force at 9.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/2)
 
 [^f00003]: Footnote: The ordinary day of election of councillors is prescribed by section 37(1) of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2) as amended by section 18(2) of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-0a14dc86976c063aeca8cad04f364686]: Commencement: Art. 2 in force at 9.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/2)
+[^c-0a14dc86976c063aeca8cad04f364686]: Commencement: Art. 2 in force at 9.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/2)
 
-[^key-205305b823aa3ade26503a037c690c95]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2017/1077/article/2/1) substituted (1.12.2018) by [The Leeds (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1273)](https://www.legislation.gov.uk/uksi/2018/1273), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1273/article/1), [2](https://www.legislation.gov.uk/uksi/2018/1273/article/2)
+[^c-205305b823aa3ade26503a037c690c95]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2017/1077/article/2/1) substituted (1.12.2018) by [The Leeds (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1273)](https://www.legislation.gov.uk/uksi/2018/1273), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1273/article/1), [2](https://www.legislation.gov.uk/uksi/2018/1273/article/2)
 
-[^key-98c852b18752fe164f6d6078b620740f]: Commencement: Art. 3 in force at 9.11.2017 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/a)
+[^c-98c852b18752fe164f6d6078b620740f]: Commencement: Art. 3 in force at 9.11.2017 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/a)
 
-[^key-d7f10d6377380a78b81865c124f014e9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/1077/article/3) in force at 3.5.2018 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/b)
+[^c-d7f10d6377380a78b81865c124f014e9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/1077/article/3) in force at 3.5.2018 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/b)
 
-[^key-b03889206da793209385cf61a57613e4]: Commencement: Art. 4 in force at 9.11.2017 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/a)
+[^c-b03889206da793209385cf61a57613e4]: Commencement: Art. 4 in force at 9.11.2017 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/a)
 
-[^key-8293be4d4b3285c14c6a47c1a686665e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/1077/article/4) in force at 3.5.2018 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/b)
+[^c-8293be4d4b3285c14c6a47c1a686665e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/1077/article/4) in force at 3.5.2018 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/1077/article/1/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 232. Compensation for damage caused in removing or obliterating placard or poster[^key-db101c232b77d9482f2b57527af6b19f]
+## 232. Compensation for damage caused in removing or obliterating placard or poster[^c-db101c232b77d9482f2b57527af6b19f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db101c232b77d9482f2b57527af6b19f]: Commencement: S. 232 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-db101c232b77d9482f2b57527af6b19f]: Commencement: S. 232 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Transfer schemes: general provisions[^key-26d9b06f9660d47ad99a285514a216ac]
+## 193. Transfer schemes: general provisions[^c-26d9b06f9660d47ad99a285514a216ac]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26d9b06f9660d47ad99a285514a216ac]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2011/20/section/193) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(z)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-26d9b06f9660d47ad99a285514a216ac]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2011/20/section/193) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(z)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

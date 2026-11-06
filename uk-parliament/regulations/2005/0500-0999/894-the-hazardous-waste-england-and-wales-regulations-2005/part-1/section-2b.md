@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2B. Meaning of the “Mining Waste Directive”[^key-e5b63180f02a9cc06022e720014e1d42]
+## 2B. Meaning of the “Mining Waste Directive”[^c-e5b63180f02a9cc06022e720014e1d42]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b63180f02a9cc06022e720014e1d42]: Textual amendment: Regs. 2A, 2B inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [11(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/11/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)(5)(a)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2/5/a/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5b63180f02a9cc06022e720014e1d42]: Textual amendment: Regs. 2A, 2B inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [11(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/11/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)(5)(a)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2/5/a/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

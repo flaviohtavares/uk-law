@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38B. Section 38 contribution notice issued by reference to material detriment test: defence[^key-9098695fa1910af70de0317a13b9d922]
+## 38B. Section 38 contribution notice issued by reference to material detriment test: defence[^c-9098695fa1910af70de0317a13b9d922]
 
 *Extent: E+W+S*
 
@@ -73,7 +73,7 @@ the acts or failures within paragraph (b) are not to count for the purposes of s
 (12) In this section—
 
 - (a) “**a warning notice**” means a notice given as mentioned in section 96(2)(a);
-- (b)[^key-4844eb80bb279e323d81f88f17ee5bc7] a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure;
+- (b)[^c-4844eb80bb279e323d81f88f17ee5bc7] a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure;
 - (c) any reference to the accrued scheme benefits being received has the same meaning as in section 38A;
 
 and subsection (9) of section 38A applies for the purposes of conditions A to C as it applies for the purposes of that section.
@@ -82,6 +82,6 @@ and subsection (9) of section 38A applies for the purposes of conditions A to C 
 
 ## Annotations
 
-[^key-9098695fa1910af70de0317a13b9d922]: Textual amendment: Ss. 38A, 38B inserted (for specified purposes and with effect in accordance with Sch. 9 para. 15(1) of the amending Act and 29.6.2009 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/3), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/2/2); S.I. 2009/1566, art. 2(1)(b)(ii)
+[^c-9098695fa1910af70de0317a13b9d922]: Textual amendment: Ss. 38A, 38B inserted (for specified purposes and with effect in accordance with Sch. 9 para. 15(1) of the amending Act and 29.6.2009 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/3), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/2/2); S.I. 2009/1566, art. 2(1)(b)(ii)
 
-[^key-4844eb80bb279e323d81f88f17ee5bc7]: Textual amendment: [S. 38B(12)(b)](https://www.legislation.gov.uk/ukpga/2004/35/section/38B/12/b) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/3); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
+[^c-4844eb80bb279e323d81f88f17ee5bc7]: Textual amendment: [S. 38B(12)(b)](https://www.legislation.gov.uk/ukpga/2004/35/section/38B/12/b) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/3); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)

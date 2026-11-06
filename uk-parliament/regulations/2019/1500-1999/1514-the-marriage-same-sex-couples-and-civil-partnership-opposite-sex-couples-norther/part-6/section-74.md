@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Welfare Reform (Northern Ireland) Order 2015[^key-2b54c3fba6bf495905c8e5fe159ec862]
+## 74. Welfare Reform (Northern Ireland) Order 2015[^c-2b54c3fba6bf495905c8e5fe159ec862]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b54c3fba6bf495905c8e5fe159ec862]: Commencement: Reg. 74 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-2b54c3fba6bf495905c8e5fe159ec862]: Commencement: Reg. 74 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00133]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).

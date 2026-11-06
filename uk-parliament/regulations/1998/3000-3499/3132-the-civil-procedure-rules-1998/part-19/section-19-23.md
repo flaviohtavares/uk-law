@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.23. Effect of the GLO[^M_F_11e0c79c-2741-434d-fa6c-6ca6462fbdaf][^key-6c58b0869f0ebc19dbb7b6951a04bc4a][^key-f81645039664bf70184edcf2dc4f1093]
+## 19.23. Effect of the GLO[^M_F_11e0c79c-2741-434d-fa6c-6ca6462fbdaf][^c-6c58b0869f0ebc19dbb7b6951a04bc4a][^c-f81645039664bf70184edcf2dc4f1093]
 
 *Extent: E+W*
 
@@ -43,9 +43,9 @@ but may apply to the court for an order that the judgment or order is not bindin
 
 [^M_F_11e0c79c-2741-434d-fa6c-6ca6462fbdaf]: Textual amendment: Rule 19.12 renumbered as rule 19.23 (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(24)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/24)
 
-[^key-6c58b0869f0ebc19dbb7b6951a04bc4a]: Textual amendment: Rules 19.9-19.9F substituted for rule 19.9 (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2204/schedule/1) (with [rule 21](https://www.legislation.gov.uk/uksi/2007/2204/rule/21))
+[^c-6c58b0869f0ebc19dbb7b6951a04bc4a]: Textual amendment: Rules 19.9-19.9F substituted for rule 19.9 (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2204/schedule/1) (with [rule 21](https://www.legislation.gov.uk/uksi/2007/2204/rule/21))
 
-[^key-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)
+[^c-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)
 
 [^M_F_5b4ec635-3681-4591-d898-d34866c89b02]: Textual amendment: Word in rule 19.23(2) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(24)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/24)
 

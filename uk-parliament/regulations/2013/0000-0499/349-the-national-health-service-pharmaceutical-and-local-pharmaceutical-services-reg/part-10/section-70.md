@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where an NHS chemist (C) breaches a term of service and the breach is capable of remedy, NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] may by a notice (“a remedial notice”) require C to remedy the breach.
+(1) Where an NHS chemist (C) breaches a term of service and the breach is capable of remedy, NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] may by a notice (“a remedial notice”) require C to remedy the breach.
 
 (2) To be valid, the remedial notice must include—
 
@@ -50,10 +50,10 @@ summary: ''
 - (a) a statement of the reasons for the decision; and
 - (b) an explanation of how C's rights of appeal under regulation 77(1)(b) may be exercised.
 
-(8)[^key-5af5b68ae57a7ef146274de746b0e149] NHS England may rescind a remedial notice at any time.
+(8)[^c-5af5b68ae57a7ef146274de746b0e149] NHS England may rescind a remedial notice at any time.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-5af5b68ae57a7ef146274de746b0e149]: Textual amendment: Reg. 70(8) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/4/2)
+[^c-5af5b68ae57a7ef146274de746b0e149]: Textual amendment: Reg. 70(8) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/4/2)

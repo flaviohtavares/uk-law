@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 57. General functions of the Council[^key-e1cf69cf8eed0cc898868395a93a49fd]
+## 57. General functions of the Council[^c-e1cf69cf8eed0cc898868395a93a49fd]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1cf69cf8eed0cc898868395a93a49fd]: Commencement: [S. 57](https://www.legislation.gov.uk/ukcm/2007/1/section/57) in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-e1cf69cf8eed0cc898868395a93a49fd]: Commencement: [S. 57](https://www.legislation.gov.uk/ukcm/2007/1/section/57) in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops

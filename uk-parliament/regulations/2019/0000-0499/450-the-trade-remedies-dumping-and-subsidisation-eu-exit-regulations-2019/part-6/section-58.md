@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Verification visit[^key-430ace83ece53f87a762cc3a4561e3aa]
+## 58. Verification visit[^c-430ace83ece53f87a762cc3a4561e3aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-430ace83ece53f87a762cc3a4561e3aa]: Commencement: Reg. 58 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-430ace83ece53f87a762cc3a4561e3aa]: Commencement: Reg. 58 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Regulations[^key-bd9872fc5a5f0966bf6055744d1e60a5]
+## 64. Regulations[^c-bd9872fc5a5f0966bf6055744d1e60a5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd9872fc5a5f0966bf6055744d1e60a5]: Commencement: S. 64 in force at 19.5.2026, see [s. 66(1)](https://www.legislation.gov.uk/asp/2026/17/section/66/1)
+[^c-bd9872fc5a5f0966bf6055744d1e60a5]: Commencement: S. 64 in force at 19.5.2026, see [s. 66(1)](https://www.legislation.gov.uk/asp/2026/17/section/66/1)

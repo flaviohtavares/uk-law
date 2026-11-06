@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Supplementary provisions relating to offences under s. 97[^key-8484b27647cf1a679d9ac3badbab2447][^key-5a85e455a6425faae22a03cf393c1979]
+## 98. Supplementary provisions relating to offences under s. 97[^c-8484b27647cf1a679d9ac3badbab2447][^c-5a85e455a6425faae22a03cf393c1979]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ he (as well as the firm) is guilty of that offence and shall be liable to be pro
 
 ## Annotations
 
-[^key-8484b27647cf1a679d9ac3badbab2447]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2004/20/section/98) in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-8484b27647cf1a679d9ac3badbab2447]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2004/20/section/98) in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-5a85e455a6425faae22a03cf393c1979]: Modification: [Ss. 95-98](https://www.legislation.gov.uk/ukpga/2004/20/section/95) applied (E.W.) (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/wsi/2021/1478), [arts. 1](https://www.legislation.gov.uk/wsi/2021/1478/article/1), [43(3)](https://www.legislation.gov.uk/wsi/2021/1478/article/43/3)[(4)](https://www.legislation.gov.uk/wsi/2021/1478/article/43/4) (with [arts. 15](https://www.legislation.gov.uk/wsi/2021/1478/article/15), [50](https://www.legislation.gov.uk/wsi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/wsi/2021/1478/schedule/11/paragraph/29))
+[^c-5a85e455a6425faae22a03cf393c1979]: Modification: [Ss. 95-98](https://www.legislation.gov.uk/ukpga/2004/20/section/95) applied (E.W.) (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/wsi/2021/1478), [arts. 1](https://www.legislation.gov.uk/wsi/2021/1478/article/1), [43(3)](https://www.legislation.gov.uk/wsi/2021/1478/article/43/3)[(4)](https://www.legislation.gov.uk/wsi/2021/1478/article/43/4) (with [arts. 15](https://www.legislation.gov.uk/wsi/2021/1478/article/15), [50](https://www.legislation.gov.uk/wsi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/wsi/2021/1478/schedule/11/paragraph/29))

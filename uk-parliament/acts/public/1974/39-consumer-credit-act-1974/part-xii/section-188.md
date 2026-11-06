@@ -26,8 +26,8 @@ summary: ''
 
 (3) In the case of conflict between Schedule 2 and any other provision of this Act, that other provision shall prevail.
 
-(4) The Treasury[^key-7c21ea5552a896198c5b61449315784b] may by order amend Schedule 2 by adding further examples or in any other way.
+(4) The Treasury[^c-7c21ea5552a896198c5b61449315784b] may by order amend Schedule 2 by adding further examples or in any other way.
 
 ## Annotations
 
-[^key-7c21ea5552a896198c5b61449315784b]: Textual amendment: Word in s. 188(4) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(21)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/21)
+[^c-7c21ea5552a896198c5b61449315784b]: Textual amendment: Word in s. 188(4) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(21)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/21)

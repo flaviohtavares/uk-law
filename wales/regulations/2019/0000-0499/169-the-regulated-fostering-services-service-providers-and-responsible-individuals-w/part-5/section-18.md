@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Compliance with foster care agreement[^key-158c67a32f9aecfafcfe96a95349934a]
+## 18. Compliance with foster care agreement[^c-158c67a32f9aecfafcfe96a95349934a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must monitor the foster parents' compliance with the requir
 
 ## Annotations
 
-[^key-158c67a32f9aecfafcfe96a95349934a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/169/regulation/18) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-158c67a32f9aecfafcfe96a95349934a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/169/regulation/18) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

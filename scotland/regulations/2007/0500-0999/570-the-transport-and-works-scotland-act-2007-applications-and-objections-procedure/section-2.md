@@ -23,7 +23,7 @@ summary: ''
 (1) In these Rules (unless the context otherwise requires)–
 
 - “**the Act**” means the Transport and Works (Scotland) Act 2007;
-- “additional information” means—[^key-60c07cb31edbaacb5b6050e0873ecc9c]
+- “additional information” means—[^c-60c07cb31edbaacb5b6050e0873ecc9c]
   - (a) supplementary information required in accordance with rule 15(2); or
   - (b) any other information provided by the applicant which, in the opinion of the Scottish Ministers is substantive information about a matter to be included in the EIA report in accordance with rule 9(2);
 - “**applicant**” means a person making, or proposing to make, an application;
@@ -31,7 +31,7 @@ summary: ''
 - “**the appropriate authority**” has the same meaning as in section 3(4) of the Act (Crown land);
 - “**benefited property**” has the same meaning as in section 122(1) of the Title Conditions (Scotland) Act 2003 (interpretation) [^c19038421];
 - “**bridleway**” has the same meaning as in section 47 of the Countryside (Scotland) Act 1967 (interpretation) [^c19038431];
-- “the consultation bodies” means—[^key-4ec9b7935392be72c0608388b5674c66]
+- “the consultation bodies” means—[^c-4ec9b7935392be72c0608388b5674c66]
   - (a) every local authority in whose area the works would be carried out were the order for which an applicant proposes to apply under section 4 or the Scottish Ministers propose to make under section 6 of the Act to be made;
   - (b) every National Park authority for a National Park in which the works would be carried out were the order for which an applicant proposes to apply under section 4 or the Scottish Ministers propose to make under section 6 of the Act to be made;
   - (c) the Scottish Environment Protection Agency;
@@ -40,11 +40,11 @@ summary: ''
 - “**Crown interest**” has the same meaning as in section 3(3) of the Act;
 - “**cycle track**” has the same meaning as in section 151 of the Roads (Scotland) Act 1984 (interpretation) [^c19038441];
 - “**development management scheme**” has the same meaning as in section 71(3) of the Title Conditions (Scotland) Act 2003;
-- “**the Directive**” means [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092)[^key-a5925ca0addb2b56c2bebee6d08986f7] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by Council[^key-4746fb18904a8810aa267052f959c4e4] [Directive 2014/52/EU](https://www.legislation.gov.uk/eudr/2014/0052);
+- “**the Directive**” means [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092)[^c-a5925ca0addb2b56c2bebee6d08986f7] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by Council[^c-4746fb18904a8810aa267052f959c4e4] [Directive 2014/52/EU](https://www.legislation.gov.uk/eudr/2014/0052);
 - “**documents**” includes photographs, drawings, maps and plans;
-- “[^key-77c9f38c441fdbd38902d7dcef4706bf]EEA State”, in relation to any time, means—
+- “[^c-77c9f38c441fdbd38902d7dcef4706bf]EEA State”, in relation to any time, means—
   - (a) a state which at that time is a member State; or
-  - (b) any other State which at that time is a party to the EEA Agreement[^key-b6da26419acf4f69c1f12f5a85eb39d8];
+  - (b) any other State which at that time is a party to the EEA Agreement[^c-b6da26419acf4f69c1f12f5a85eb39d8];
 - “EIA application” means an application under section 4 of the Act for works which—
   - (a) would constitute a project of a type mentioned in Annex I to the Directive; or
   - (b) would constitute a project of a type mentioned in Annex II to the Directive and are likely to have significant effects on the environment by virtue of factors such as its nature, size or location;
@@ -68,8 +68,8 @@ summary: ''
 - “**personal real burden**” has the same meaning as in section 122(1) of the Title Conditions (Scotland) Act 2003;
 - “**planning authority**” has the same meaning as for the purposes of Part 3 of the Town and Country Planning (Scotland) Act 1997 (control over development) [^c19038471];
 - “**regional Transport Partnership**” means a Transport Partnership created under section 1(1)(b) of the Transport (Scotland) Act 2005 [^c19038481];
-- “relevant assessment” means an assessment, or verification, of effects on the environment carried out pursuant to[^key-6e0b1277bba0325b09a8e03737fa7799] legislation in Scotland[^key-9fa5dece04fc9060c5ab2b2b63437958] (other than legislation implementing the requirements of the Directive) which is relevant to the assessment of the environmental impacts of the proposed development;
-- “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests;[^key-3b9a3c6977e0b0ac82b0ac7e94253305]
+- “relevant assessment” means an assessment, or verification, of effects on the environment carried out pursuant to[^c-6e0b1277bba0325b09a8e03737fa7799] legislation in Scotland[^c-9fa5dece04fc9060c5ab2b2b63437958] (other than legislation implementing the requirements of the Directive) which is relevant to the assessment of the environmental impacts of the proposed development;
+- “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests;[^c-3b9a3c6977e0b0ac82b0ac7e94253305]
 - “**river**” means any river (including any part of a river which is tidal or which has been canalised), loch, lake, stream, burn, ditch, culvert, drain, sluice, weir or any other passage by which water drains, but does not include–
   - (a) a canal or inland navigation which is not a canalised part of a river;
   - (b) a public sewer or a sewer or pipe used primarily for the drainage of a building or any premises appurtenant to a building, or of a road;
@@ -83,7 +83,7 @@ summary: ''
   - (b) the internal waters of the United Kingdom as are in or adjacent to Scotland insofar as they are tidal or constitute part of the sea;
 - “**title condition**” has the same meaning as in section 122(1) of the Title Conditions (Scotland) Act 2003;
 - “**transport system**” means a railway, tramway or trolley vehicle system or any system (other than a railway or tramway) using a mode of guided transport;
-- [^key-86383bb841aae3e497cc489bcd9719b4]...
+- [^c-86383bb841aae3e497cc489bcd9719b4]...
 - “**works**” means any works that may be authorised by an order made under section 1 of the Act but in rules 5, 6, 9 and 14, Schedule 1 and in paragraphs 6, 9, 16(f), 29 and 30 of Schedule 5, shall also include any matter that may be authorised by such an order; and
 - “**works affecting**”, in relation to any land, means works proposed to be carried out in, on, over or adjacent to that land.
 
@@ -93,27 +93,27 @@ summary: ''
 - (b) in a version of that form adapted to meet the circumstances of the particular case; or
 - (c) in a form which has substantially the same effect as that form (whether the form is adapted or not),
 
-and, except where these Rules require that the notice in question be published in a newspaper or on a website[^key-d11f0fab57146baa8b1dd9f4026d572c], duly signed by or on behalf of the person required to serve the notice.
+and, except where these Rules require that the notice in question be published in a newspaper or on a website[^c-d11f0fab57146baa8b1dd9f4026d572c], duly signed by or on behalf of the person required to serve the notice.
 
 ## Annotations
 
-[^key-60c07cb31edbaacb5b6050e0873ecc9c]: Textual amendment: Words in rule 2(1) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/i) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-60c07cb31edbaacb5b6050e0873ecc9c]: Textual amendment: Words in rule 2(1) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/i) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
 [^c19038421]: Marginal citation: [2003 asp 9](https://www.legislation.gov.uk/asp/2003/9).
 
 [^c19038431]: Marginal citation: [1967 c. 86](https://www.legislation.gov.uk/ukpga/1967/86); section 47 was relevantly amended by the [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [schedule 2](https://www.legislation.gov.uk/asp/2003/2/schedule/2), [paragraph 5](https://www.legislation.gov.uk/asp/2003/2/paragraph/5).
 
-[^key-4ec9b7935392be72c0608388b5674c66]: Textual amendment: Words in rule 2(1) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(iii)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/iii) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-4ec9b7935392be72c0608388b5674c66]: Textual amendment: Words in rule 2(1) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(iii)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/iii) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
 [^c19038441]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-a5925ca0addb2b56c2bebee6d08986f7]: Textual amendment: Words in rule 2(1) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/ii) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-a5925ca0addb2b56c2bebee6d08986f7]: Textual amendment: Words in rule 2(1) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/ii) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
-[^key-4746fb18904a8810aa267052f959c4e4]: Textual amendment: Words in rule 2(1) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/2/a)
+[^c-4746fb18904a8810aa267052f959c4e4]: Textual amendment: Words in rule 2(1) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/2/a)
 
-[^key-77c9f38c441fdbd38902d7dcef4706bf]: Textual amendment: Words in rule 2(1) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(iv)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/iv) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-77c9f38c441fdbd38902d7dcef4706bf]: Textual amendment: Words in rule 2(1) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(iv)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/iv) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
-[^key-b6da26419acf4f69c1f12f5a85eb39d8]: Textual amendment: Words in rule 2(1) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/2/b)
+[^c-b6da26419acf4f69c1f12f5a85eb39d8]: Textual amendment: Words in rule 2(1) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/2/b)
 
 [^c19038461]: Marginal citation: The definition of “holder” was amended by [S.S.I. 2003/503](https://www.legislation.gov.uk/ssi/2003/503).
 
@@ -121,11 +121,11 @@ and, except where these Rules require that the notice in question be published i
 
 [^c19038481]: Marginal citation: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
 
-[^key-6e0b1277bba0325b09a8e03737fa7799]: Textual amendment: Words in rule 2(1) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(v)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/v) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-6e0b1277bba0325b09a8e03737fa7799]: Textual amendment: Words in rule 2(1) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(a)(v)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/a/v) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
-[^key-9fa5dece04fc9060c5ab2b2b63437958]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/ssi/2007/570/rule/2/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fa5dece04fc9060c5ab2b2b63437958]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/ssi/2007/570/rule/2/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b9a3c6977e0b0ac82b0ac7e94253305]: Textual amendment: Words in rule 2(1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 107(2)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/107/2)
+[^c-3b9a3c6977e0b0ac82b0ac7e94253305]: Textual amendment: Words in rule 2(1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 107(2)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/107/2)
 
 [^c19038491]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
@@ -135,6 +135,6 @@ and, except where these Rules require that the notice in question be published i
 
 [^c19038521]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-86383bb841aae3e497cc489bcd9719b4]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/ssi/2007/570/rule/2/1) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86383bb841aae3e497cc489bcd9719b4]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/ssi/2007/570/rule/2/1) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d11f0fab57146baa8b1dd9f4026d572c]: Textual amendment: Words in rule 2(2) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/b) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-d11f0fab57146baa8b1dd9f4026d572c]: Textual amendment: Words in rule 2(2) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/74/rule/3/b) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Conduct inconsistent with the licensing objectives[^key-0f964e929085b168de3194f3fd9f8c8d]
+## 84. Conduct inconsistent with the licensing objectives[^c-0f964e929085b168de3194f3fd9f8c8d]
 
 *Extent: S*
 
@@ -47,7 +47,7 @@ summary: ''
 
 make an order under subsection (7).
 
-(6A)[^key-7acdfe73307595842ae3955b4db2d98a] Subsection (6) is subject to subsection (7A).
+(6A)[^c-7acdfe73307595842ae3955b4db2d98a] Subsection (6) is subject to subsection (7A).
 
 (7) That is an order—
 
@@ -57,9 +57,9 @@ make an order under subsection (7).
 
 the personal licence held by the licence holder concerned.
 
-(7A)[^key-a6b14ec591f6a11f6e8709a6fd4c5a6d] Where, at the hearing, the Licensing Board are satisfied that, having regard to the licensing objectives, the licence holder is not a fit and proper person to be the holder of a personal licence, the Board must make an order revoking the licence.
+(7A)[^c-a6b14ec591f6a11f6e8709a6fd4c5a6d] Where, at the hearing, the Licensing Board are satisfied that, having regard to the licensing objectives, the licence holder is not a fit and proper person to be the holder of a personal licence, the Board must make an order revoking the licence.
 
-(8) Where the Licensing Board makes an order under subsection (7) or (7A)[^key-f4f998062441b941241204ac02ebd1ef] , the Board must give—
+(8) Where the Licensing Board makes an order under subsection (7) or (7A)[^c-f4f998062441b941241204ac02ebd1ef] , the Board must give—
 
 - (a) the licence holder concerned,
 - (b) where the hearing was held in pursuance of a notice given under subsection (3)(b), the Licensing Board which gave the notice, and
@@ -69,10 +69,10 @@ notice of the order and of the reasons for making it.
 
 ## Annotations
 
-[^key-0f964e929085b168de3194f3fd9f8c8d]: Commencement: S. 84 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-0f964e929085b168de3194f3fd9f8c8d]: Commencement: S. 84 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-7acdfe73307595842ae3955b4db2d98a]: Textual amendment: S. 84(6A) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 48(2)(a)](https://www.legislation.gov.uk/asp/2015/10/section/48/2/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-7acdfe73307595842ae3955b4db2d98a]: Textual amendment: S. 84(6A) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 48(2)(a)](https://www.legislation.gov.uk/asp/2015/10/section/48/2/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
 
-[^key-a6b14ec591f6a11f6e8709a6fd4c5a6d]: Textual amendment: S. 84(7A) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 48(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/48/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-a6b14ec591f6a11f6e8709a6fd4c5a6d]: Textual amendment: S. 84(7A) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 48(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/48/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
 
-[^key-f4f998062441b941241204ac02ebd1ef]: Textual amendment: Words in s. 84(8) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 48(2)(c)](https://www.legislation.gov.uk/asp/2015/10/section/48/2/c), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-f4f998062441b941241204ac02ebd1ef]: Textual amendment: Words in s. 84(8) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 48(2)(c)](https://www.legislation.gov.uk/asp/2015/10/section/48/2/c), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

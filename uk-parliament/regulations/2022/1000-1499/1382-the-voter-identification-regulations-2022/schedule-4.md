@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Prescribed form of ballot paper refusal list at parliamentary elections[^key-96726a06a83e8d65972dd58f40923b7d]
+## SCHEDULE 4 — Prescribed form of ballot paper refusal list at parliamentary elections[^c-96726a06a83e8d65972dd58f40923b7d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Regulation 31
 
 ## Annotations
 
-[^key-96726a06a83e8d65972dd58f40923b7d]: Commencement: Sch. 4 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-96726a06a83e8d65972dd58f40923b7d]: Commencement: Sch. 4 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

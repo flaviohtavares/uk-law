@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Functions of the Commissioners[^key-ca3c3ea24dd9bbd2011a5112ab44de8f]
+## 2. Functions of the Commissioners[^c-ca3c3ea24dd9bbd2011a5112ab44de8f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3c3ea24dd9bbd2011a5112ab44de8f]: Textual amendment: S. 2 omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/2)
+[^c-ca3c3ea24dd9bbd2011a5112ab44de8f]: Textual amendment: S. 2 omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/2)

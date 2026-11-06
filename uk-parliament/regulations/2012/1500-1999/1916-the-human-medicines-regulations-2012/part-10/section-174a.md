@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174A. Conditions of temporary authorisations under regulation 174[^key-18cd1e131be9db2763a414b3654bc84f]
+## 174A. Conditions of temporary authorisations under regulation 174[^c-18cd1e131be9db2763a414b3654bc84f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18cd1e131be9db2763a414b3654bc84f]: Textual amendment: Reg. 174A inserted (17.10.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1125/regulation/6) and reg. 174A inserted (17.10.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/3), [6](https://www.legislation.gov.uk/nisr/2020/349/regulation/6)
+[^c-18cd1e131be9db2763a414b3654bc84f]: Textual amendment: Reg. 174A inserted (17.10.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1125/regulation/6) and reg. 174A inserted (17.10.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/3), [6](https://www.legislation.gov.uk/nisr/2020/349/regulation/6)

@@ -34,7 +34,7 @@ Disabled Persons
 
 Transport
 
-The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) Exemption Order 2011 (revoked)[^key-b5197a7fb06e6c7a472dce3df9182ab8]
+The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) Exemption Order 2011 (revoked)[^c-b5197a7fb06e6c7a472dce3df9182ab8]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 14th February 2011
 
-[^key-b5197a7fb06e6c7a472dce3df9182ab8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5197a7fb06e6c7a472dce3df9182ab8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b5197a7fb06e6c7a472dce3df9182ab8]
+## 1. Citation and commencement[^c-b5197a7fb06e6c7a472dce3df9182ab8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b5197a7fb06e6c7a472dce3df9182ab8]
+## 2. Interpretation[^c-b5197a7fb06e6c7a472dce3df9182ab8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption relating to boarding devices at wheelchair compatible doorways[^key-b5197a7fb06e6c7a472dce3df9182ab8]
+## 3. Exemption relating to boarding devices at wheelchair compatible doorways[^c-b5197a7fb06e6c7a472dce3df9182ab8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Expiry[^key-b5197a7fb06e6c7a472dce3df9182ab8]
+## 4. Expiry[^c-b5197a7fb06e6c7a472dce3df9182ab8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5197a7fb06e6c7a472dce3df9182ab8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5197a7fb06e6c7a472dce3df9182ab8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b5197a7fb06e6c7a472dce3df9182ab8]
+## SCHEDULE[^c-b5197a7fb06e6c7a472dce3df9182ab8]
 
 Articles 3 and 4
 
@@ -80,8 +80,8 @@ Articles 3 and 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5197a7fb06e6c7a472dce3df9182ab8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5197a7fb06e6c7a472dce3df9182ab8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5197a7fb06e6c7a472dce3df9182ab8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/70) revoked (1.9.2013) by [The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) (Boarding Devices) Exemption Order 2013 (S.I. 2013/1931)](https://www.legislation.gov.uk/uksi/2013/1931), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1931/article/1), [5](https://www.legislation.gov.uk/uksi/2013/1931/article/5)
+[^c-b5197a7fb06e6c7a472dce3df9182ab8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/70) revoked (1.9.2013) by [The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) (Boarding Devices) Exemption Order 2013 (S.I. 2013/1931)](https://www.legislation.gov.uk/uksi/2013/1931), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1931/article/1), [5](https://www.legislation.gov.uk/uksi/2013/1931/article/5)

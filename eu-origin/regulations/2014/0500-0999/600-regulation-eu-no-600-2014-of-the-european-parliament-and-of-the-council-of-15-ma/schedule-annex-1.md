@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 (affected by repeal, see note) — PROFESSIONAL CLIENTS FOR THE PURPOSES OF THIS REGULATION (affected by repeal, see note)[^key-a0ab25ef69e293a6e9d2fc6fdc3f170b][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+## SCHEDULE 1 (affected by repeal, see note) — PROFESSIONAL CLIENTS FOR THE PURPOSES OF THIS REGULATION (affected by repeal, see note)[^c-a0ab25ef69e293a6e9d2fc6fdc3f170b][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,6 +107,6 @@ may be relied on for the purposes of the assessment. *(affected by repeal, see n
 
 ## Annotations
 
-[^key-a0ab25ef69e293a6e9d2fc6fdc3f170b]: Textual amendment: [Schs. 1](https://www.legislation.gov.uk/eur/2014/600/schedule/1), [2](https://www.legislation.gov.uk/eur/2014/600/schedule/2) inserted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1403/regulation/36) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0ab25ef69e293a6e9d2fc6fdc3f170b]: Textual amendment: [Schs. 1](https://www.legislation.gov.uk/eur/2014/600/schedule/1), [2](https://www.legislation.gov.uk/eur/2014/600/schedule/2) inserted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1403/regulation/36) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]: Textual amendment: Regulation revoked (5.4.2024 for the revocation of Sch. 3 paras. 17, 34-39, 1.12.2025 for the revocation of Art. 18b, 30.3.2026 for the revocation of Arts. 4, 4a) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [regs. 4(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/4/b), [6(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/6/b)

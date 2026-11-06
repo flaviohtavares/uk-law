@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Prohibitions relating to the associated provision of financial services and funds[^key-8d79c5a6e6fdfaddf053bb1406d2cb41]
+## 40. Prohibitions relating to the associated provision of financial services and funds[^c-8d79c5a6e6fdfaddf053bb1406d2cb41]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d79c5a6e6fdfaddf053bb1406d2cb41]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-8d79c5a6e6fdfaddf053bb1406d2cb41]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

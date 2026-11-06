@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Further provisions about power in section 56[^key-80ce091c097d5e82cf7b5056f8e31e08][^key-432e2d347a0f826d8f497ddb27af6179]
+## 57. Further provisions about power in section 56[^c-80ce091c097d5e82cf7b5056f8e31e08][^c-432e2d347a0f826d8f497ddb27af6179]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,21 +61,21 @@ summary: ''
 
 (8) But nothing in section 56 authorises the making of a disclosure which—
 
-- (a) contravenes the data protection legislation[^key-2dce7b6149da22249a0a9fa089aba0ba], or
+- (a) contravenes the data protection legislation[^c-2dce7b6149da22249a0a9fa089aba0ba], or
 - (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 (9) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (8)(b) has effect as if it included a reference to that Part.
 
 (10) Section 56 does not limit the circumstances in which information may be disclosed apart from that section.
 
-(11)[^key-6c513574312d7dfe0deaa310f003faf4] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(11)[^c-6c513574312d7dfe0deaa310f003faf4] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
-[^key-80ce091c097d5e82cf7b5056f8e31e08]: Commencement: S. 57 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/u)
+[^c-80ce091c097d5e82cf7b5056f8e31e08]: Commencement: S. 57 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/u)
 
-[^key-432e2d347a0f826d8f497ddb27af6179]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/30/section/57) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/p)
+[^c-432e2d347a0f826d8f497ddb27af6179]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/30/section/57) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/p)
 
-[^key-2dce7b6149da22249a0a9fa089aba0ba]: Textual amendment: Words in s. 57(8)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 220(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/220/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-2dce7b6149da22249a0a9fa089aba0ba]: Textual amendment: Words in s. 57(8)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 220(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/220/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-6c513574312d7dfe0deaa310f003faf4]: Textual amendment: S. 57(11) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 220(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/220/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-6c513574312d7dfe0deaa310f003faf4]: Textual amendment: S. 57(11) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 220(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/220/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

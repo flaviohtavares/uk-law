@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 19(3)
 
-### 1. Basic selection criteria: general principles[^key-17ed5ff4e7328bf62ffc6d35837feb33]
+### 1. Basic selection criteria: general principles[^c-17ed5ff4e7328bf62ffc6d35837feb33]
 
 (1) The basic selection criteria which must be met by a provider may relate to—
 
@@ -36,11 +36,11 @@ Regulation 19(3)
 
 (4) All requirements must be related and proportionate to the subject-matter of the contract or framework agreement.
 
-### 2. Authorisations or memberships[^key-e367d8f4b6a64a8f0d7065d493b4ee42]
+### 2. Authorisations or memberships[^c-e367d8f4b6a64a8f0d7065d493b4ee42]
 
 In so far as a relevant authority determines that providers have to possess a particular authorisation or to be members of a particular organisation in order to be able to perform in their country of origin the service concerned, a relevant authority may require a provider to prove that they hold such authorisation or membership.
 
-### 3. Economic and financial standing[^key-ef56c0a3ae8195d634f484723d054610]
+### 3. Economic and financial standing[^c-ef56c0a3ae8195d634f484723d054610]
 
 (1) With regard to economic and financial standing, a relevant authority may impose requirements ensuring that a provider possesses the necessary economic and financial capacity to perform the contract or perform contracts based on the framework agreement.
 
@@ -52,7 +52,7 @@ In so far as a relevant authority determines that providers have to possess a pa
 
 (3) The minimum yearly turnover that a provider is required to have must not exceed twice the estimated contract or framework agreement value unless the relevant authority is satisfied that a higher minimum is appropriate and proportionate to the subject-matter of the contract or framework agreement, for example where the nature of the subject-matter creates a special risk.
 
-### 4. Technical and professional ability[^key-23bb4a36948f434eec0887589ee8a417]
+### 4. Technical and professional ability[^c-23bb4a36948f434eec0887589ee8a417]
 
 (1) With regard to technical and professional ability, a relevant authority may impose requirements ensuring that a provider possesses the necessary human and technical resources and experience to perform the contract, or contracts based on the framework agreement to an appropriate quality standard.
 
@@ -62,10 +62,10 @@ In so far as a relevant authority determines that providers have to possess a pa
 
 ## Annotations
 
-[^key-17ed5ff4e7328bf62ffc6d35837feb33]: Commencement: Sch. 16 para. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-17ed5ff4e7328bf62ffc6d35837feb33]: Commencement: Sch. 16 para. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-e367d8f4b6a64a8f0d7065d493b4ee42]: Commencement: Sch. 16 para. 2 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-e367d8f4b6a64a8f0d7065d493b4ee42]: Commencement: Sch. 16 para. 2 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-ef56c0a3ae8195d634f484723d054610]: Commencement: Sch. 16 para. 3 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-ef56c0a3ae8195d634f484723d054610]: Commencement: Sch. 16 para. 3 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-23bb4a36948f434eec0887589ee8a417]: Commencement: Sch. 16 para. 4 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-23bb4a36948f434eec0887589ee8a417]: Commencement: Sch. 16 para. 4 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

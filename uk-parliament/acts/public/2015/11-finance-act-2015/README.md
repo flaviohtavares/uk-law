@@ -196,31 +196,31 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 - [Section 76 — The bank levy: rates from 1 April 2015](part-2/section-76.md)
 
-### PART 3 — Diverted profits tax[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+### PART 3 — Diverted profits tax[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
-#### Introduction and overview[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Introduction and overview[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
 - [Section 77 — Introduction to the tax](part-3/section-77.md)
 - [Section 78 — Overview of Part 3](part-3/section-78.md)
 
-#### Charge to tax[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Charge to tax[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
 - [Section 79 — Charge to tax](part-3/section-79.md)
 
-#### Involvement of entities or transactions lacking economic substance[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Involvement of entities or transactions lacking economic substance[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
 - [Section 80 — UK company: involvement of entities or transactions lacking economic substance](part-3/section-80.md)
 - [Section 81 — Non-UK company: involvement of entities or transactions lacking economic substance](part-3/section-81.md)
 
-#### Calculation of taxable diverted profits: section 80 or 81 cases[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Calculation of taxable diverted profits: section 80 or 81 cases[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
@@ -229,14 +229,14 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 84 — Section 80 or 81: calculation of profits by reference to the actual provision](part-3/section-84.md)
 - [Section 85 — Section 80 or 81: calculation of profits by reference to the relevant alternative provision](part-3/section-85.md)
 
-#### Avoidance of a UK taxable presence[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Avoidance of a UK taxable presence[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
 - [Section 86 — Non-UK company avoiding a UK taxable presence](part-3/section-86.md)
 - [Section 87 — Exception for companies with limited UK-related sales or expenses](part-3/section-87.md)
 
-#### Calculation of taxable diverted profits: section 86 cases[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Calculation of taxable diverted profits: section 86 cases[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
@@ -245,13 +245,13 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 90 — Section 86: mismatch condition is met: calculation of profits by reference to the actual provision](part-3/section-90.md)
 - [Section 91 — Section 86: mismatch condition is met: calculation of profits by reference to the relevant alternative provision](part-3/section-91.md)
 
-#### Duty to notify if within scope[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Duty to notify if within scope[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
 - [Section 92 — Duty to notify if potentially within scope of tax](part-3/section-92.md)
 
-#### Process for imposing charge[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Process for imposing charge[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
@@ -261,7 +261,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 96 — Section 80 or 81 cases: estimating profits for preliminary and charging notices](part-3/section-96.md)
 - [Section 97 — Section 86 cases: estimating profits for preliminary and charging notices](part-3/section-97.md)
 
-#### Payment and recovery of tax[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Payment and recovery of tax[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -272,7 +272,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 100 — Credits for tax on the same profits](part-3/section-100.md)
 - [Section 100A — Relief from corporation tax](part-3/section-100a.md)
 
-#### Review and appeals[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Review and appeals[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -284,7 +284,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 101C — Closure notices: rules during review period](part-3/section-101c.md)
 - [Section 102 — Appeal against charging notice or supplementary charging notice](part-3/section-102.md)
 
-#### Administration of tax[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Administration of tax[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
@@ -292,7 +292,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 104 — Penalties etc](part-3/section-104.md)
 - [Section 105 — Information and inspection powers etc](part-3/section-105.md)
 
-#### Interpretation[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Interpretation[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -310,7 +310,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 114 — Other defined terms in Part 3](part-3/section-114.md)
 - [Section 114A — Application of section 124 of TIOPA 2010 in relation to diverted profits tax](part-3/section-114a.md)
 
-#### Final provisions[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+#### Final provisions[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 **No longer in force.**
 
@@ -368,4 +368,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2015/11/part/3) repealed (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/3)
+[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2015/11/part/3) repealed (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/3)

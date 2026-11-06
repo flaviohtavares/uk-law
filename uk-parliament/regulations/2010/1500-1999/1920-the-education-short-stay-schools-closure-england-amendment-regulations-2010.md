@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (Short Stay Schools) (Closure) (England) (Amendment) Regulations 2010 (revoked)[^key-c3c273cc37dc33e0b185420499d705ed]
+The Education (Short Stay Schools) (Closure) (England) (Amendment) Regulations 2010 (revoked)[^c-c3c273cc37dc33e0b185420499d705ed]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st September 2010
 
-[^key-c3c273cc37dc33e0b185420499d705ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c273cc37dc33e0b185420499d705ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c3c273cc37dc33e0b185420499d705ed]
+## 1. Citation and commencement[^c-c3c273cc37dc33e0b185420499d705ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provision: references to “short stay school”[^key-c3c273cc37dc33e0b185420499d705ed]
+## 2. Transitional provision: references to “short stay school”[^c-c3c273cc37dc33e0b185420499d705ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3c273cc37dc33e0b185420499d705ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c273cc37dc33e0b185420499d705ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3c273cc37dc33e0b185420499d705ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c273cc37dc33e0b185420499d705ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3c273cc37dc33e0b185420499d705ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1920) revoked (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/1825/regulation/5)
+[^c-c3c273cc37dc33e0b185420499d705ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1920) revoked (1.9.2012) by [The Pupil Referral Units (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1825)](https://www.legislation.gov.uk/uksi/2012/1825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1825/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/1825/regulation/5)

@@ -31,7 +31,7 @@ summary: ''
 - (e) a brief general description of the use, as specified in Section 3.5 of Annex VI;
 - (f) information on risk management measures applied and recommended to the user in accordance with paragraph 4.
 
-Except in cases covered under Article 25(3) or Article 27(6)[^key-153dc16ac06af2dc9f1f46b12ebe9bd6] , the registrant shall be in legitimate possession of or have permission to refer to the full study report summarised under (d) for the purpose of registration.
+Except in cases covered under Article 25(3) or Article 27(6)[^c-153dc16ac06af2dc9f1f46b12ebe9bd6] , the registrant shall be in legitimate possession of or have permission to refer to the full study report summarised under (d) for the purpose of registration.
 
 The registration shall be accompanied by the fee required in accordance with Title IX.
 
@@ -54,4 +54,4 @@ If the conditions listed in the first subparagraph are not fulfilled, the regist
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Official Journal of the European Union L 396 of 30 December 2006)](https://www.legislation.gov.uk/eur/2006/1907/pdfs/eurcs_20061907_en_001.pdf).
 
-[^key-153dc16ac06af2dc9f1f46b12ebe9bd6]: Textual amendment: Words in [Art. 18(2)](https://www.legislation.gov.uk/eur/2006/1907/article/18/2) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-153dc16ac06af2dc9f1f46b12ebe9bd6]: Textual amendment: Words in [Art. 18(2)](https://www.legislation.gov.uk/eur/2006/1907/article/18/2) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Welsh Ministers’ power to provide support[^key-ba3fba16d081f3bf14ca0b98f5f5eed7]
+## 8. Welsh Ministers’ power to provide support[^c-ba3fba16d081f3bf14ca0b98f5f5eed7]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba3fba16d081f3bf14ca0b98f5f5eed7]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/4/section/8) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-ba3fba16d081f3bf14ca0b98f5f5eed7]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/4/section/8) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

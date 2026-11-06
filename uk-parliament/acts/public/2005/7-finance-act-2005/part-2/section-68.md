@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Exit event Z: a relevant disposal at an undervalue[^key-344be5071fe6446d6655d11c6fa6faaf]
+## 68. Exit event Z: a relevant disposal at an undervalue[^c-344be5071fe6446d6655d11c6fa6faaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-344be5071fe6446d6655d11c6fa6faaf]: Textual amendment: Ss. 58-71 repealed (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)
+[^c-344be5071fe6446d6655d11c6fa6faaf]: Textual amendment: Ss. 58-71 repealed (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Rules about modifying schemes[^c24459011][^key-681f47bb2616a7969fa25d88fd5a72c6]
+## 24. Rules about modifying schemes[^c24459011][^c-681f47bb2616a7969fa25d88fd5a72c6]
 
 *Extent: E+W+S*
 
@@ -90,4 +90,4 @@ summary: ''
 
 [^c24459011]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/1/section/24) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-681f47bb2616a7969fa25d88fd5a72c6]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/1/section/24) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-681f47bb2616a7969fa25d88fd5a72c6]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/1/section/24) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

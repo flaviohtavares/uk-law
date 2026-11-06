@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Rejection: substantive defects[^key-1ab84082910dddc87b89f2de9cd66104]
+## 13. Rejection: substantive defects[^c-1ab84082910dddc87b89f2de9cd66104]
 
 *Extent: E+W+S*
 
 (1) Tribunal staff must refer a claim to the Tribunal if they consider that the claim, or part of it, may be—
 
 - (a) one which the Tribunal has no jurisdiction to consider,
-- (b)[^key-273021ff94e9a9ee58866c3fa4f27878] one which does not contain any grounds on which the claimant relies, cannot sensibly be responded to or is an abuse of process,
+- (b)[^c-273021ff94e9a9ee58866c3fa4f27878] one which does not contain any grounds on which the claimant relies, cannot sensibly be responded to or is an abuse of process,
 - (c) one which institutes relevant proceedings and is made on a claim form that does not contain either an early conciliation number or confirmation that an early conciliation exemption applies,
 - (d) one which institutes relevant proceedings and is made on a claim form which contains confirmation that one of the early conciliation exemptions applies, and an early conciliation exemption does not apply,
 - (e) one which institutes relevant proceedings and the early conciliation number on the claim form is not the same as the early conciliation number on the early conciliation certificate,
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab84082910dddc87b89f2de9cd66104]: Commencement: Rule 13 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-1ab84082910dddc87b89f2de9cd66104]: Commencement: Rule 13 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-273021ff94e9a9ee58866c3fa4f27878]: Textual amendment: Rule 13(1)(b) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/5)
+[^c-273021ff94e9a9ee58866c3fa4f27878]: Textual amendment: Rule 13(1)(b) substituted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/5)

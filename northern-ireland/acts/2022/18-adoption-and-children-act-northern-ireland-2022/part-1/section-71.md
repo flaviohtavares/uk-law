@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Protection of trustees and personal representatives[^key-79380693ac99cf176b4a0ae17da1d91d]
+## 71. Protection of trustees and personal representatives[^c-79380693ac99cf176b4a0ae17da1d91d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79380693ac99cf176b4a0ae17da1d91d]: Commencement: S. 71 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-79380693ac99cf176b4a0ae17da1d91d]: Commencement: S. 71 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

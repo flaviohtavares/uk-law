@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Correction of procedural errors[^key-81a15cfb749bb626ca9671f544a74b7e]
+## 90. Correction of procedural errors[^c-81a15cfb749bb626ca9671f544a74b7e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81a15cfb749bb626ca9671f544a74b7e]: Commencement: Art. 90 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-81a15cfb749bb626ca9671f544a74b7e]: Commencement: Art. 90 in force at 16.12.2015 in accordance with art. 1(1)

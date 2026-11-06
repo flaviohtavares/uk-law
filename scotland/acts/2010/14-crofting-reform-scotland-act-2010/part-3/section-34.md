@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Duties of certain owner-occupiers of crofts[^key-9baac621ca46aae9e99ff85a0c7cf523][^key-e25ccf19d64e2d2a654caf24518012ec][^key-a9178de3169593b3472fa297b5c79c8c][^key-2796eb0e718ba2a3965feb91ed56b351]
+## 34. Duties of certain owner-occupiers of crofts[^c-9baac621ca46aae9e99ff85a0c7cf523][^c-e25ccf19d64e2d2a654caf24518012ec][^c-a9178de3169593b3472fa297b5c79c8c][^c-2796eb0e718ba2a3965feb91ed56b351]
 
 *Extent: S*
 
@@ -116,10 +116,10 @@ After section 19A of the 1993 Act insert—
 
 ## Annotations
 
-[^key-9baac621ca46aae9e99ff85a0c7cf523]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 22.12.2010 for specified purposes by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
+[^c-9baac621ca46aae9e99ff85a0c7cf523]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 22.12.2010 for specified purposes by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
 
-[^key-e25ccf19d64e2d2a654caf24518012ec]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(2)](https://www.legislation.gov.uk/ssi/2011/334/article/5/2), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
+[^c-e25ccf19d64e2d2a654caf24518012ec]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(2)](https://www.legislation.gov.uk/ssi/2011/334/article/5/2), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
 
-[^key-a9178de3169593b3472fa297b5c79c8c]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(q)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/q)[4(2)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/4/2))
+[^c-a9178de3169593b3472fa297b5c79c8c]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(q)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/q)[4(2)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/4/2))
 
-[^key-2796eb0e718ba2a3965feb91ed56b351]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/4/1))
+[^c-2796eb0e718ba2a3965feb91ed56b351]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/14/section/34) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/4/1))

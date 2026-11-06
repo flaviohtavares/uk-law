@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-4d7afd4a27c81bc8d1fd3e9a450d0e73] Where original official certificates or documents are required by the rules referred to in Article 1(2) to accompany consignments of the categories of animals and goods in Article 47(1), these—
+1.[^c-4d7afd4a27c81bc8d1fd3e9a450d0e73] Where original official certificates or documents are required by the rules referred to in Article 1(2) to accompany consignments of the categories of animals and goods in Article 47(1), these—
 
 - (a) must be presented to, and kept by, the competent authorities, unless otherwise provided for in the rules referred to in Article 1(2);
 - (b) may be in paper, electronic or digital form, unless otherwise provided for in the rules referred to in Article 1(2).
 
-2.[^key-ad86735272a96edc8135e6e9852775f4] The competent authorities must issue the operator responsible for the consignment with, as appropriate—
+2.[^c-ad86735272a96edc8135e6e9852775f4] The competent authorities must issue the operator responsible for the consignment with, as appropriate—
 
 - (a) an authenticated paper copy of the official certificates or documents referred to in paragraph 1;
 - (b) an electronic copy of the official certificates or documents referred to in paragraph 1;
@@ -34,12 +34,12 @@ summary: ''
 
 3. Consignments shall not be split until official controls have been performed and the Common Health Entry Document (CHED) referred to in Article 56 has been finalised in accordance with Article 56(5) and Article 57.
 
-4. The appropriate authority may make regulations[^key-664d64dc503e2bc2aaf102a59da565ed] to supplement this Regulation concerning rules establishing the cases where, and the conditions under which, the CHED is required to accompany consignments of the categories of animals and goods referred to in Article 47(1) to the place of destination.
+4. The appropriate authority may make regulations[^c-664d64dc503e2bc2aaf102a59da565ed] to supplement this Regulation concerning rules establishing the cases where, and the conditions under which, the CHED is required to accompany consignments of the categories of animals and goods referred to in Article 47(1) to the place of destination.
 
 ## Annotations
 
-[^key-4d7afd4a27c81bc8d1fd3e9a450d0e73]: Textual amendment: [Art. 50(1)](https://www.legislation.gov.uk/eur/2017/625/article/50/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [12(2)](https://www.legislation.gov.uk/uksi/2025/102/regulation/12/2)
+[^c-4d7afd4a27c81bc8d1fd3e9a450d0e73]: Textual amendment: [Art. 50(1)](https://www.legislation.gov.uk/eur/2017/625/article/50/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [12(2)](https://www.legislation.gov.uk/uksi/2025/102/regulation/12/2)
 
-[^key-ad86735272a96edc8135e6e9852775f4]: Textual amendment: [Art. 50(2)](https://www.legislation.gov.uk/eur/2017/625/article/50/2) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [12(3)](https://www.legislation.gov.uk/uksi/2025/102/regulation/12/3)
+[^c-ad86735272a96edc8135e6e9852775f4]: Textual amendment: [Art. 50(2)](https://www.legislation.gov.uk/eur/2017/625/article/50/2) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [12(3)](https://www.legislation.gov.uk/uksi/2025/102/regulation/12/3)
 
-[^key-664d64dc503e2bc2aaf102a59da565ed]: Textual amendment: Words in [Art. 50(4)](https://www.legislation.gov.uk/eur/2017/625/article/50/4) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-664d64dc503e2bc2aaf102a59da565ed]: Textual amendment: Words in [Art. 50(4)](https://www.legislation.gov.uk/eur/2017/625/article/50/4) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

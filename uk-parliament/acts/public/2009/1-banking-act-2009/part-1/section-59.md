@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Third party compensation: discretionary provision[^M_I_45fd633e-cc42-40f3-a0f2-6186cfa57026][^key-ec86cfdc37727b01523bffd02b26f23d]
+## 59. Third party compensation: discretionary provision[^M_I_45fd633e-cc42-40f3-a0f2-6186cfa57026][^c-ec86cfdc37727b01523bffd02b26f23d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_I_45fd633e-cc42-40f3-a0f2-6186cfa57026]: Commencement: S. 59 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-ec86cfdc37727b01523bffd02b26f23d]: Commencement: S. 59 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-ec86cfdc37727b01523bffd02b26f23d]: Commencement: S. 59 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

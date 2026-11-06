@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 528. Reduction in amount charged on basis of non-UK residence where individual liable for tax[^M_C_150220f5-99e6-4d2b-f965-c973ff442768][^key-0f042c249e4d076c69b060ff1bb5d63e][^key-7ade8d52c766765466fd0f6385260cab]
+## 528. Reduction in amount charged on basis of non-UK residence where individual liable for tax[^M_C_150220f5-99e6-4d2b-f965-c973ff442768][^c-0f042c249e4d076c69b060ff1bb5d63e][^c-7ade8d52c766765466fd0f6385260cab]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsection (2) applies if—
 
 - (a) an individual is liable for tax charged on a gain from a policy of life insurance or a capital redemption policy, and
-- (b) there are one or more days in the material interest period that are foreign days[^key-0fcf51478c2085e6e79d085adadb241f].
+- (b) there are one or more days in the material interest period that are foreign days[^c-0fcf51478c2085e6e79d085adadb241f].
 
-(1A)[^key-93fd04bbd91a7bfe843dd8d8c7b63a3f] Foreign days” are—
+(1A)[^c-93fd04bbd91a7bfe843dd8d8c7b63a3f] Foreign days” are—
 
 - (a) days falling within any tax year for which the individual is not UK resident, and
 - (b) days falling within the overseas part of any tax year that is a split year as respects the individual.
@@ -38,7 +38,7 @@ summary: ''
 
 where—
 
-A is the number of days in the material interest period which are foreign days[^key-3411eedc56bce93fc5e070dd651de08f], and
+A is the number of days in the material interest period which are foreign days[^c-3411eedc56bce93fc5e070dd651de08f], and
 
 B is the number of days in the material interest period.
 
@@ -53,7 +53,7 @@ B is the number of days in the material interest period.
 - (a) during which the assignor meets condition A, B or C in section 465 in relation to the policy, and
 - (b) which is not included in the material interest period under subsection (5).
 
-(8) In relation to any period added to the material interest period under subsection (7), in subsection (1A)(a) and (b)[^key-d7be691924bb55309302d9d89762e0ee] the reference to the individual is to be read as a reference to the assignor.
+(8) In relation to any period added to the material interest period under subsection (7), in subsection (1A)(a) and (b)[^c-d7be691924bb55309302d9d89762e0ee] the reference to the individual is to be read as a reference to the assignor.
 
 (9) For the purposes of subsections (5) and (7), in section 465(2) to (4) references to the rights under the policy are to be read as including references to a share of those rights.
 
@@ -72,14 +72,14 @@ and so on; and in subsections (5) to (9) references to the policy are to be read
 
 [^M_C_150220f5-99e6-4d2b-f965-c973ff442768]: Modification: S. 528 (as in force immediately before its substitution by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/3), so far as that section as so in force continues to have effect after the substitution) amended (with effect in accordance with [Sch. 45 para. 153(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/153/2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(7)-(10)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/7)
 
-[^key-0f042c249e4d076c69b060ff1bb5d63e]: Modification: Ss. 528, 528A excluded by 1988 c. 1, s. 552(14) (as inserted (with effect in accordance with Sch. 8 para. 7 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/6))
+[^c-0f042c249e4d076c69b060ff1bb5d63e]: Modification: Ss. 528, 528A excluded by 1988 c. 1, s. 552(14) (as inserted (with effect in accordance with Sch. 8 para. 7 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/6))
 
-[^key-7ade8d52c766765466fd0f6385260cab]: Textual amendment: Ss. 528, 528A substituted for s. 528 (with effect in accordance with Sch. 8 para. 7 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/3)
+[^c-7ade8d52c766765466fd0f6385260cab]: Textual amendment: Ss. 528, 528A substituted for s. 528 (with effect in accordance with Sch. 8 para. 7 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/3)
 
-[^key-0fcf51478c2085e6e79d085adadb241f]: Textual amendment: Words in s. 528(1)(b) substituted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/3)
+[^c-0fcf51478c2085e6e79d085adadb241f]: Textual amendment: Words in s. 528(1)(b) substituted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/3)
 
-[^key-93fd04bbd91a7bfe843dd8d8c7b63a3f]: Textual amendment: S. 528(1A) inserted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/4)
+[^c-93fd04bbd91a7bfe843dd8d8c7b63a3f]: Textual amendment: S. 528(1A) inserted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/4)
 
-[^key-3411eedc56bce93fc5e070dd651de08f]: Textual amendment: Words in s. 528(3) substituted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/5)
+[^c-3411eedc56bce93fc5e070dd651de08f]: Textual amendment: Words in s. 528(3) substituted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/5)
 
-[^key-d7be691924bb55309302d9d89762e0ee]: Textual amendment: Words in s. 528(8) substituted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/6)
+[^c-d7be691924bb55309302d9d89762e0ee]: Textual amendment: Words in s. 528(8) substituted (with effect in accordance with Sch. 45 paras. 86(2), 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 86(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/86/6)

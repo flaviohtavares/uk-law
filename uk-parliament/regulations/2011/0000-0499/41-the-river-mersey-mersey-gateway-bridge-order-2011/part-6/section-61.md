@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. No double recovery[^key-c202540cc07f6cdc665f41925f193f33]
+## 61. No double recovery[^c-c202540cc07f6cdc665f41925f193f33]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Compensation shall not be payable in respect of the same matter both under this 
 
 ## Annotations
 
-[^key-c202540cc07f6cdc665f41925f193f33]: Commencement: Art. 61 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-c202540cc07f6cdc665f41925f193f33]: Commencement: Art. 61 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -181,7 +181,7 @@ Regulation 4(4)
 
 | *1. **Area*** | *2. **Name of Persons*** |
 | --- | --- |
-| England | Auto-Cycle Union<br>British Horse Society<br>Byways and Bridleways Trust<br>Open Spaces Society<br>Ramblers Association<br>Cyclists Touring Club<br>The fire and rescue authority under the Fire and Rescue Services Act 2004[^key-3214f7f26e5b58b387b5efefecbfaa4a] for the area in which the land to which the order relates is situated |
+| England | Auto-Cycle Union<br>British Horse Society<br>Byways and Bridleways Trust<br>Open Spaces Society<br>Ramblers Association<br>Cyclists Touring Club<br>The fire and rescue authority under the Fire and Rescue Services Act 2004[^c-3214f7f26e5b58b387b5efefecbfaa4a] for the area in which the land to which the order relates is situated |
 | The counties of Cheshire, Derbyshire, Greater Manchester, Lancashire, Merseyside, South Yorkshire, Staffordshire and West Yorkshire | Peak and Northern Footpaths Society |
 | Within the county of Bedfordshire: the borough of Luton and the districts of Mid Bedfordshire and South Bedfordshire.<br>Within the county of Buckinghamshire: the districts of Chiltern, Wycombe, South Bucks and Aylesbury Vale.<br>Within the county of Hertfordshire: the borough of Dacorum and the districts of Three Rivers and North Hertfordshire.<br>Within the county of Oxfordshire: the district of South Oxfordshire. | Chiltern Society |
 
@@ -221,4 +221,4 @@ regulation 6 prescribes requirements with regard to claims for compensation unde
 
 [^f00010]: Footnote: Section 121(2) of the Act was amended by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 2, paragraph 6, and by the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), Schedule 6, paragraph 14.
 
-[^key-3214f7f26e5b58b387b5efefecbfaa4a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/1479/schedule/3) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [69](https://www.legislation.gov.uk/uksi/2004/3168/article/69)
+[^c-3214f7f26e5b58b387b5efefecbfaa4a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/1479/schedule/3) substituted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [69](https://www.legislation.gov.uk/uksi/2004/3168/article/69)

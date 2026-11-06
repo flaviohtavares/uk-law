@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Transfer schemes[^key-ed3d40be4941c20f9b0b5684555df164][^key-72b9f851d746041b60a24559fc57c217]
+## 24. Transfer schemes[^c-ed3d40be4941c20f9b0b5684555df164][^c-72b9f851d746041b60a24559fc57c217]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 2 makes provision about schemes for the transfer of staff and property,
 
 ## Annotations
 
-[^key-ed3d40be4941c20f9b0b5684555df164]: Commencement: S. 24 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-ed3d40be4941c20f9b0b5684555df164]: Commencement: S. 24 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-72b9f851d746041b60a24559fc57c217]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2022/1/section/24) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(i)](https://www.legislation.gov.uk/wsi/2023/919/article/2/i)
+[^c-72b9f851d746041b60a24559fc57c217]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2022/1/section/24) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(i)](https://www.legislation.gov.uk/wsi/2023/919/article/2/i)

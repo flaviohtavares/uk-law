@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Revocations[^key-efd091263ebe7d9c67678abcfbc1a126]
+## 15. Revocations[^c-efd091263ebe7d9c67678abcfbc1a126]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The instruments listed in Schedule 6 are revoked to the extent there specified.
 
 ## Annotations
 
-[^key-efd091263ebe7d9c67678abcfbc1a126]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2009/462/article/15) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-efd091263ebe7d9c67678abcfbc1a126]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2009/462/article/15) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

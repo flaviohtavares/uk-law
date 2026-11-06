@@ -53,7 +53,7 @@ In accordance with section 45AZC(5) of the Act, the Secretary of State has consu
 - (c) English waste disposal authorities, and
 - (d) anyone else the Secretary of State considered appropriate.
 
-## 1. Citation, commencement and extent[^key-1c5a2535d53ed0b3b68e90c216d0e8a0]
+## 1. Citation, commencement and extent[^c-1c5a2535d53ed0b3b68e90c216d0e8a0]
 
 (1) These Regulations may be cited as the Separation of Waste (England) Regulations 2025.
 
@@ -61,11 +61,11 @@ In accordance with section 45AZC(5) of the Act, the Secretary of State has consu
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Interpretation[^key-8ed917f3157d0795d526ae389150785e]
+## 2. Interpretation[^c-8ed917f3157d0795d526ae389150785e]
 
 In these Regulations, “**the 1990 Act**” means the Environmental Protection Act 1990.
 
-## 3. Exemptions from the condition in sections 45A(5), 45AZA(5) and 45AZB(5) of the Act[^key-99459ffcbd78a05ed781a474f2fba3ec]
+## 3. Exemptions from the condition in sections 45A(5), 45AZA(5) and 45AZB(5) of the Act[^c-99459ffcbd78a05ed781a474f2fba3ec]
 
 (1) The condition in section 45A(5) of the 1990 Act does not apply in respect of the collection together by an English waste collection authority of—
 
@@ -87,7 +87,7 @@ In these Regulations, “**the 1990 Act**” means the Environmental Protection 
 - (b) glass, or
 - (c) plastic.
 
-## 4. Exemption from the application of sections 45AZA and 45AZB of the Act[^key-477cc5dc85510e81ffe1741eb1f89232]
+## 4. Exemption from the application of sections 45AZA and 45AZB of the Act[^c-477cc5dc85510e81ffe1741eb1f89232]
 
 (1) Sections 45AZA and 45AZB of the Act do not apply in relation to arrangements for the collection of waste from businesses which are micro-firms until 31st March 2027.
 
@@ -125,10 +125,10 @@ A full impact assessment of the effect that this instrument will have on busines
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 45AZC of the Environmental Protection Act 1990 (“**the 1990 Act**”) was inserted by section 57(4) of the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), which substituted section 45A of the 1990 Act with sections 45A-45AZG of that Act.
 
-[^key-1c5a2535d53ed0b3b68e90c216d0e8a0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/140/regulation/1) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
+[^c-1c5a2535d53ed0b3b68e90c216d0e8a0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/140/regulation/1) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
 
-[^key-8ed917f3157d0795d526ae389150785e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/140/regulation/2) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
+[^c-8ed917f3157d0795d526ae389150785e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/140/regulation/2) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
 
-[^key-99459ffcbd78a05ed781a474f2fba3ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/140/regulation/3) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
+[^c-99459ffcbd78a05ed781a474f2fba3ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/140/regulation/3) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
 
-[^key-477cc5dc85510e81ffe1741eb1f89232]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/140/regulation/4) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)
+[^c-477cc5dc85510e81ffe1741eb1f89232]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/140/regulation/4) in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2)

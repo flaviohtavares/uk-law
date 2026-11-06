@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Offsetting[^key-f90b6c1a8e9940d4f8ba7330ddf3e7dc]
+## 82. Offsetting[^c-f90b6c1a8e9940d4f8ba7330ddf3e7dc]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f90b6c1a8e9940d4f8ba7330ddf3e7dc]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/1992/1814/regulation/82) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-f90b6c1a8e9940d4f8ba7330ddf3e7dc]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/1992/1814/regulation/82) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Service of notices[^key-ae09194039bb4aabec15b794a753eb95]
+## 36. Service of notices[^c-ae09194039bb4aabec15b794a753eb95]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae09194039bb4aabec15b794a753eb95]: Commencement: Reg. 36 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-ae09194039bb4aabec15b794a753eb95]: Commencement: Reg. 36 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

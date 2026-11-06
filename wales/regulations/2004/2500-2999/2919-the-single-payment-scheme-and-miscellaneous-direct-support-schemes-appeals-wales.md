@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Single Payment Scheme and Miscellaneous Direct Support Schemes (Appeals) (Wales) Regulations 2004 (revoked)[^key-0e9416891bb657cd32f2218cba1c9303]
+The Single Payment Scheme and Miscellaneous Direct Support Schemes (Appeals) (Wales) Regulations 2004 (revoked)[^c-0e9416891bb657cd32f2218cba1c9303]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 30 November 2004
 
-[^key-0e9416891bb657cd32f2218cba1c9303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e9416891bb657cd32f2218cba1c9303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and Commencement[^key-0e9416891bb657cd32f2218cba1c9303]
+## 1. Title and Commencement[^c-0e9416891bb657cd32f2218cba1c9303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-0e9416891bb657cd32f2218cba1c9303]
+## 2. Application[^c-0e9416891bb657cd32f2218cba1c9303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-0e9416891bb657cd32f2218cba1c9303]
+## 3. Interpretation[^c-0e9416891bb657cd32f2218cba1c9303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision of appeals procedure[^key-0e9416891bb657cd32f2218cba1c9303]
+## 4. Provision of appeals procedure[^c-0e9416891bb657cd32f2218cba1c9303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e9416891bb657cd32f2218cba1c9303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e9416891bb657cd32f2218cba1c9303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0e9416891bb657cd32f2218cba1c9303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e9416891bb657cd32f2218cba1c9303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e9416891bb657cd32f2218cba1c9303]: Textual amendment: Regulations revoked (1.1.2007) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006 (S.I. 2006/3342)](https://www.legislation.gov.uk/uksi/2006/3342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3342/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/3342/regulation/5)
+[^c-0e9416891bb657cd32f2218cba1c9303]: Textual amendment: Regulations revoked (1.1.2007) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006 (S.I. 2006/3342)](https://www.legislation.gov.uk/uksi/2006/3342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3342/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/3342/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Inspection in connection with licences[^key-d8933f3d9850c1f206f93f362466764b][^key-632f4f1f9bf0413a247e802fc38a8149]
+## 26. Inspection in connection with licences[^c-d8933f3d9850c1f206f93f362466764b][^c-632f4f1f9bf0413a247e802fc38a8149]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8933f3d9850c1f206f93f362466764b]: Commencement: S. 26 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
+[^c-d8933f3d9850c1f206f93f362466764b]: Commencement: S. 26 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
 
-[^key-632f4f1f9bf0413a247e802fc38a8149]: Commencement: S. 26 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-632f4f1f9bf0413a247e802fc38a8149]: Commencement: S. 26 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

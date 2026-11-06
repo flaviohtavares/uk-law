@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Guarantees in respect of payment of compensation[^key-b5fa700612bd351da28806eaff28d915]
+## 9. Guarantees in respect of payment of compensation[^c-b5fa700612bd351da28806eaff28d915]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5fa700612bd351da28806eaff28d915]: Commencement: Art. 9 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-b5fa700612bd351da28806eaff28d915]: Commencement: Art. 9 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

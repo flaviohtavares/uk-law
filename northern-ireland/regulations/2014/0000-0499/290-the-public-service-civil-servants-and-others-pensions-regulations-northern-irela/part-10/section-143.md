@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Application for a statement of entitlement[^key-f313ede92dbb7c88984852ce55fce9d5]
+## 143. Application for a statement of entitlement[^c-f313ede92dbb7c88984852ce55fce9d5]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f313ede92dbb7c88984852ce55fce9d5]: Commencement: [Reg. 143](https://www.legislation.gov.uk/nisr/2014/290/regulation/143) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-f313ede92dbb7c88984852ce55fce9d5]: Commencement: [Reg. 143](https://www.legislation.gov.uk/nisr/2014/290/regulation/143) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00077]: Footnote: Regulation 6(3) of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619)) provides that a member may not make a second application within this period unless the rules of the scheme provide otherwise.

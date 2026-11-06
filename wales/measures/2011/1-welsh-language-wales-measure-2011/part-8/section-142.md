@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Restrictions[^key-873c08ae524b0260be0341672123d93d]
+## 142. Restrictions[^c-873c08ae524b0260be0341672123d93d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-873c08ae524b0260be0341672123d93d]: Commencement: [S. 142](https://www.legislation.gov.uk/mwa/2011/1/section/142) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-873c08ae524b0260be0341672123d93d]: Commencement: [S. 142](https://www.legislation.gov.uk/mwa/2011/1/section/142) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)

@@ -162,7 +162,7 @@ but does not include any amount in respect of VAT.
 
 #### Connected persons
 
-**8.** Section 1122 of CTA 2010[^key-0d1698a1956bcb41dac2ce849ee93a66] (connected persons) applies for the purposes of this Schedule.
+**8.** Section 1122 of CTA 2010[^c-0d1698a1956bcb41dac2ce849ee93a66] (connected persons) applies for the purposes of this Schedule.
 
 #### Receipt of payments
 
@@ -371,4 +371,4 @@ W is the whole of the consideration for the grant of the right.
 
 ## Annotations
 
-[^key-0d1698a1956bcb41dac2ce849ee93a66]: Textual amendment: Words in Sch. 3 para. 8 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 713](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/713) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0d1698a1956bcb41dac2ce849ee93a66]: Textual amendment: Words in Sch. 3 para. 8 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 713](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/713) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Duties of the Commission in carrying out functions[^key-fa5fe942a395ad6b47a1bf4d2bd72bb2][^key-75b0b0cc2ae8edfa81c5ffa5a794a79f][^key-3f9aff0122e108ff0ad1c59e56d20e9e]
+## 91. Duties of the Commission in carrying out functions[^c-fa5fe942a395ad6b47a1bf4d2bd72bb2][^c-75b0b0cc2ae8edfa81c5ffa5a794a79f][^c-3f9aff0122e108ff0ad1c59e56d20e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,14 +85,14 @@ summary: ''
 >
 > (1B) In subsection (1A), “**the reporting period**” means the period to which the report relates.
 
-(5) The Information Commission[^key-78f322c156b34c5d4c65252e7fc2cec4] must prepare and publish a strategy in accordance with section 120C of the 2018 Act before the end of the period of 18 months beginning with the day on which this section comes into force.
+(5) The Information Commission[^c-78f322c156b34c5d4c65252e7fc2cec4] must prepare and publish a strategy in accordance with section 120C of the 2018 Act before the end of the period of 18 months beginning with the day on which this section comes into force.
 
 ## Annotations
 
-[^key-fa5fe942a395ad6b47a1bf4d2bd72bb2]: Commencement: S. 91 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-fa5fe942a395ad6b47a1bf4d2bd72bb2]: Commencement: S. 91 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-75b0b0cc2ae8edfa81c5ffa5a794a79f]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2025/18/section/91) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/e)
+[^c-75b0b0cc2ae8edfa81c5ffa5a794a79f]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2025/18/section/91) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/e)
 
-[^key-3f9aff0122e108ff0ad1c59e56d20e9e]: Textual amendment: Word in s. 91 heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)(3)(f)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-3f9aff0122e108ff0ad1c59e56d20e9e]: Textual amendment: Word in s. 91 heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)(3)(f)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-78f322c156b34c5d4c65252e7fc2cec4]: Textual amendment: Word in s. 91(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2)[(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/3/f/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-78f322c156b34c5d4c65252e7fc2cec4]: Textual amendment: Word in s. 91(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2)[(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/3/f/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

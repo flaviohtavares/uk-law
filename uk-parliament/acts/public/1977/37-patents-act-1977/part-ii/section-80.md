@@ -31,7 +31,7 @@ summary: ''
 
 unless before that use or the doing of the act the corrected translation has been published by the Patent Office or the proprietor or applicant has sent the corrected translation by post or delivered it to the government department who made use or authorised the use of the invention or, as the case may be, to the person alleged to have done that act.
 
-(4)[^key-459c059dd9c6ecc2f8dad7a9bb69e2c6] Where a correction of a translation is published under subsection (3) above and before it is so published a person—
+(4)[^c-459c059dd9c6ecc2f8dad7a9bb69e2c6] Where a correction of a translation is published under subsection (3) above and before it is so published a person—
 
 - (a) begins in good faith to do an act which would not constitute an infringement of the patent as originally translated, or of the rights conferred by publication of the application as originally translated, but would do so under the amended translation, or
 - (b) makes in good faith effective and serious preparations to do such an act,
@@ -51,4 +51,4 @@ he shall have the right to continue to do the act or, as the case may be, to do 
 
 ## Annotations
 
-[^key-459c059dd9c6ecc2f8dad7a9bb69e2c6]: Textual amendment: S. 80(4)-(7) substituted for s. 80(4) (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/4); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
+[^c-459c059dd9c6ecc2f8dad7a9bb69e2c6]: Textual amendment: S. 80(4)-(7) substituted for s. 80(4) (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/4); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)

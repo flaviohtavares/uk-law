@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Limit of compensatory award etc.[^c16332441][^key-2b7844f4c8ed740a52bf7f23cd360d17]
+## 124. Limit of compensatory award etc.[^c16332441][^c-2b7844f4c8ed740a52bf7f23cd360d17]
 
 *Extent: E+W+S*
 
@@ -25,11 +25,11 @@ summary: ''
 - (a) any compensation awarded to a person under section 117(1) and (2), or
 - (b) a compensatory award to a person calculated in accordance with section 123,
 
-shall not exceed the amount specified in subsection (1ZA)[^key-e17533c9bbf4f1ef7d1d2432a03b729c].
+shall not exceed the amount specified in subsection (1ZA)[^c-e17533c9bbf4f1ef7d1d2432a03b729c].
 
-(1ZA)[^key-a2204392e2094dd5c40866c69376d997] The amount specified in this subsection is the lower of—
+(1ZA)[^c-a2204392e2094dd5c40866c69376d997] The amount specified in this subsection is the lower of—
 
-- (a) £123,543[^key-b8342a5a44b807192d2688058d4cdad9], and
+- (a) £123,543[^c-b8342a5a44b807192d2688058d4cdad9], and
 - (b) 52 multiplied by a week’s pay of the person concerned.
 
 (1A)[^c16332471] Subsection (1) shall not apply to compensation awarded, or a compensatory award made, to a person in a case where he is regarded as unfairly dismissed by virtue of section 100, 103A, 105(3) or 105(6A).
@@ -54,7 +54,7 @@ the limit imposed by this section on the compensatory award may be exceeded to t
 
 [^c16332441]: Modification: Ss. 117-127A applied (with modifications) (2.7.1999) by [S.I. 1999/1548](https://www.legislation.gov.uk/uksi/1999/1548), [reg. 3](https://www.legislation.gov.uk/uksi/1999/1548/regulation/3)
 
-[^key-2b7844f4c8ed740a52bf7f23cd360d17]: Modification: S. 124 power to amend conferred (25.4.2013 for specified purposes, 25.6.2013 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 15(1)-(9)](https://www.legislation.gov.uk/ukpga/2013/24/section/15/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/4))
+[^c-2b7844f4c8ed740a52bf7f23cd360d17]: Modification: S. 124 power to amend conferred (25.4.2013 for specified purposes, 25.6.2013 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 15(1)-(9)](https://www.legislation.gov.uk/ukpga/2013/24/section/15/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/4))
 
 [^c16332451]: Modification: S. 124(1) applied (1.11.1998) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [s. 24(4)(b)](https://www.legislation.gov.uk/ukpga/1998/39/section/24/4/b); [S.I. 1998/2574](https://www.legislation.gov.uk/uksi/1998/2574), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2574/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2574/schedule/1)
 
@@ -62,11 +62,11 @@ the limit imposed by this section on the compensatory award may be exceeded to t
 
     S. 124(1) applied (6.6.2000) by [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52), [s. 70A](https://www.legislation.gov.uk/ukpga/1992/52/section/70A), [Sch. A1 para. 160(2)(b)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1/paragraph/160/2/b) (as inserted (6.6.2000) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 1](https://www.legislation.gov.uk/ukpga/1999/26/section/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/1); [S.I. 2000/1338](https://www.legislation.gov.uk/uksi/2000/1338), [art. 2](https://www.legislation.gov.uk/uksi/2000/1338/article/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/1338/article/3))
 
-[^key-e17533c9bbf4f1ef7d1d2432a03b729c]: Textual amendment: Words in s. 124(1) substituted (29.7.2013) by [The Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013 (S.I. 2013/1949)](https://www.legislation.gov.uk/uksi/2013/1949), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1949/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1949/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1949/article/4))
+[^c-e17533c9bbf4f1ef7d1d2432a03b729c]: Textual amendment: Words in s. 124(1) substituted (29.7.2013) by [The Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013 (S.I. 2013/1949)](https://www.legislation.gov.uk/uksi/2013/1949), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1949/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1949/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1949/article/4))
 
-[^key-a2204392e2094dd5c40866c69376d997]: Textual amendment: S. 124(1ZA) inserted (29.7.2013) by [The Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013 (S.I. 2013/1949)](https://www.legislation.gov.uk/uksi/2013/1949), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1949/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1949/article/2/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1949/article/4))
+[^c-a2204392e2094dd5c40866c69376d997]: Textual amendment: S. 124(1ZA) inserted (29.7.2013) by [The Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013 (S.I. 2013/1949)](https://www.legislation.gov.uk/uksi/2013/1949), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1949/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1949/article/2/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1949/article/4))
 
-[^key-b8342a5a44b807192d2688058d4cdad9]: Textual amendment: Sum in [s. 124(1ZA)(a)](https://www.legislation.gov.uk/ukpga/1996/18/section/124/1ZA/a) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-b8342a5a44b807192d2688058d4cdad9]: Textual amendment: Sum in [s. 124(1ZA)(a)](https://www.legislation.gov.uk/ukpga/1996/18/section/124/1ZA/a) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
 
 [^c16332471]: Textual amendment: S. 124(1A) inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 37(1)](https://www.legislation.gov.uk/ukpga/1999/26/section/37/1); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^key-0f2ca51e0b8e9dde824afd56ed92754a]
+## 91. Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^c-0f2ca51e0b8e9dde824afd56ed92754a]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Social Security (Child Maintenance Bonus) Regulations 
 
 ## Annotations
 
-[^key-0f2ca51e0b8e9dde824afd56ed92754a]: Commencement: Reg. 91 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-0f2ca51e0b8e9dde824afd56ed92754a]: Commencement: Reg. 91 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00152]: Footnote: [S.R. (N.I.) 1996/622](https://www.legislation.gov.uk/nisr/1996/622). In regulation 1(2), the definition of “couple” was substituted by [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

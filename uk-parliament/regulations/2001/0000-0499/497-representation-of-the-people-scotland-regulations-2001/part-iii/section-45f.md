@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45F. Certificate of anonymous registration[^key-a6cf39ee2f48a767abab5b051a6d4fa8]
+## 45F. Certificate of anonymous registration[^c-a6cf39ee2f48a767abab5b051a6d4fa8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6cf39ee2f48a767abab5b051a6d4fa8]: Textual amendment: [Regs. 45A-45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2007/925/regulation/18)
+[^c-a6cf39ee2f48a767abab5b051a6d4fa8]: Textual amendment: [Regs. 45A-45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2007/925/regulation/18)

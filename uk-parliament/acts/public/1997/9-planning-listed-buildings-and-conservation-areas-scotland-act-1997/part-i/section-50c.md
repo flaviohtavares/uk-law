@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50C. Notices of renewal[^key-ac70f497146b71c71fe678e9f5e22dd5]
+## 50C. Notices of renewal[^c-ac70f497146b71c71fe678e9f5e22dd5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac70f497146b71c71fe678e9f5e22dd5]: Textual amendment: [Ss. 50A-50G](https://www.legislation.gov.uk/ukpga/1997/9/section/50A) and cross-heading inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 26(3)](https://www.legislation.gov.uk/asp/2011/3/section/26/3), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-ac70f497146b71c71fe678e9f5e22dd5]: Textual amendment: [Ss. 50A-50G](https://www.legislation.gov.uk/ukpga/1997/9/section/50A) and cross-heading inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 26(3)](https://www.legislation.gov.uk/asp/2011/3/section/26/3), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Notification orders: Scotland[^key-2af3d0f1534c1b797b1f7767d19ee381][^key-366e69f3aa7086eea05b378a073d8526]
+## 170. Notification orders: Scotland[^c-2af3d0f1534c1b797b1f7767d19ee381][^c-366e69f3aa7086eea05b378a073d8526]
 
 *Extent: S*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2af3d0f1534c1b797b1f7767d19ee381]: Commencement: S. 170 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-2af3d0f1534c1b797b1f7767d19ee381]: Commencement: S. 170 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-366e69f3aa7086eea05b378a073d8526]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2022/32/section/170) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/c)
+[^c-366e69f3aa7086eea05b378a073d8526]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2022/32/section/170) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Revocations[^key-e52ed83b96d12ad2f248b4d5aa8dd6b2]
+## 93. Revocations[^c-e52ed83b96d12ad2f248b4d5aa8dd6b2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52ed83b96d12ad2f248b4d5aa8dd6b2]: Commencement: Art. 93 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e52ed83b96d12ad2f248b4d5aa8dd6b2]: Commencement: Art. 93 in force at 16.12.2015 in accordance with art. 1(1)

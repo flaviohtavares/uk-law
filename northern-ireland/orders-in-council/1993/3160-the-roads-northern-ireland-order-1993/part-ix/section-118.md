@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Power to obtain information as to ownership of land[^key-c62d34fb550f23a4891300db501563dc]
+## 118. Power to obtain information as to ownership of land[^c-c62d34fb550f23a4891300db501563dc]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c62d34fb550f23a4891300db501563dc]: Modification: [Art. 118](https://www.legislation.gov.uk/nisi/1993/3160/article/118) applied (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 40(1)](https://www.legislation.gov.uk/nia/2011/11/section/40/1), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(j)](https://www.legislation.gov.uk/nisr/2013/104/article/2/j)
+[^c-c62d34fb550f23a4891300db501563dc]: Modification: [Art. 118](https://www.legislation.gov.uk/nisi/1993/3160/article/118) applied (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 40(1)](https://www.legislation.gov.uk/nia/2011/11/section/40/1), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(j)](https://www.legislation.gov.uk/nisr/2013/104/article/2/j)
 
 [^c16867961]: Textual amendment: [2005 NI 14](https://www.legislation.gov.uk/nisi/2005)

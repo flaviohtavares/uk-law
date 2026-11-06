@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Amendment to the International Recovery of Maintenance (Hague Convention 2007) (Rules of Court) Regulations 2012[^key-7848bd0f326aac7a9ea03cf1be44de70]
+## 134. Amendment to the International Recovery of Maintenance (Hague Convention 2007) (Rules of Court) Regulations 2012[^c-7848bd0f326aac7a9ea03cf1be44de70]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Omit regulation 2 of the International Recovery of Maintenance (Hague Convention
 
 ## Annotations
 
-[^key-7848bd0f326aac7a9ea03cf1be44de70]: Commencement: Art. 134 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-7848bd0f326aac7a9ea03cf1be44de70]: Commencement: Art. 134 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00041]: Footnote: [S.I. 2012/1770](https://www.legislation.gov.uk/uksi/2012/1770).

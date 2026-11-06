@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256AA. Supervision after end of sentence of prisoners serving less than 2 years[^key-8f15de60a778c12df927f097e84b5355][^key-9c31f233c791ff866b09ac9cf31ff91f]
+## 256AA. Supervision after end of sentence of prisoners serving less than 2 years[^c-8f15de60a778c12df927f097e84b5355][^c-9c31f233c791ff866b09ac9cf31ff91f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f15de60a778c12df927f097e84b5355]: Textual amendment: Ss. 256AA-256AC omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/1/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-8f15de60a778c12df927f097e84b5355]: Textual amendment: Ss. 256AA-256AC omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/1/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-9c31f233c791ff866b09ac9cf31ff91f]: Textual amendment: S. 256AA and cross-heading inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2014/11/section/2/2), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/40/article/2/b)
+[^c-9c31f233c791ff866b09ac9cf31ff91f]: Textual amendment: S. 256AA and cross-heading inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2014/11/section/2/2), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/40/article/2/b)

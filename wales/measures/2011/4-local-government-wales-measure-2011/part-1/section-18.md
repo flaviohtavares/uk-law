@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Reports and recommendations by head of democratic services[^key-460206474f88ec7e3bbfd1c83f104209]
+## 18. Reports and recommendations by head of democratic services[^c-460206474f88ec7e3bbfd1c83f104209]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-460206474f88ec7e3bbfd1c83f104209]: Commencement: S. 18 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-460206474f88ec7e3bbfd1c83f104209]: Commencement: S. 18 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

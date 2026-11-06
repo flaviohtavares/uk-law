@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122E. Retention of documents taken under section 122D[^key-6fd0432ab398d8bfa3958d489ec58a52]
+## 122E. Retention of documents taken under section 122D[^c-6fd0432ab398d8bfa3958d489ec58a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
+[^c-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)

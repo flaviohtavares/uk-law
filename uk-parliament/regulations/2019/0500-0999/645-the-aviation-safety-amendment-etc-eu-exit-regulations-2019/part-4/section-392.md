@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 392. Amendment of Subpart D of Annex 1 to [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^key-e97a15fa492ae11c5a93182d18c33b1d]
+## 392. Amendment of Subpart D of Annex 1 to [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^c-e97a15fa492ae11c5a93182d18c33b1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Subpart D (air traffic controller training) of Annex 1, in each place the wor
 
 ## Annotations
 
-[^key-e97a15fa492ae11c5a93182d18c33b1d]: Commencement: Reg. 392 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e97a15fa492ae11c5a93182d18c33b1d]: Commencement: Reg. 392 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

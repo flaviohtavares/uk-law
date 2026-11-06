@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 71. Flexibility provisions[^key-fdff330ea4091cdafb8c123cc86ddf8a]
+## Article 71. Flexibility provisions[^c-fdff330ea4091cdafb8c123cc86ddf8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Exemptions granted under paragraph 1 of this Article may include such conditions
 
 ## Annotations
 
-[^key-fdff330ea4091cdafb8c123cc86ddf8a]: Textual amendment: [Art. 71](https://www.legislation.gov.uk/eur/2018/1139/article/71) substituted (1.5.2026) by [The Aviation Safety (Amendment) Regulations 2026 (S.I. 2026/460)](https://www.legislation.gov.uk/uksi/2026/460), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/460/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/460/regulation/3/2)
+[^c-fdff330ea4091cdafb8c123cc86ddf8a]: Textual amendment: [Art. 71](https://www.legislation.gov.uk/eur/2018/1139/article/71) substituted (1.5.2026) by [The Aviation Safety (Amendment) Regulations 2026 (S.I. 2026/460)](https://www.legislation.gov.uk/uksi/2026/460), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/460/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/460/regulation/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6H. Code of practice on expenditure of candidates at Scottish parliamentary elections[^key-1238e85c7736cb0f69edf48b359f9fff]
+## 6H. Code of practice on expenditure of candidates at Scottish parliamentary elections[^c-1238e85c7736cb0f69edf48b359f9fff]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ for the purposes of any order under section 12(1) of the Scotland Act 1998 in so
 
 ## Annotations
 
-[^key-1238e85c7736cb0f69edf48b359f9fff]: Textual amendment: S. 6H inserted (S.) (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 9](https://www.legislation.gov.uk/asp/2020/12/section/9), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-1238e85c7736cb0f69edf48b359f9fff]: Textual amendment: S. 6H inserted (S.) (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 9](https://www.legislation.gov.uk/asp/2020/12/section/9), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)

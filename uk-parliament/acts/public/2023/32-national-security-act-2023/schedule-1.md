@@ -22,7 +22,7 @@ summary: ''
 
 Section 16
 
-### Part 1 — Relevant electoral offences[^key-92f0946eb7a9e4d8a19be36d0f0a59d5][^key-32a4f58c65bbd09a27de74c570c25199]
+### Part 1 — Relevant electoral offences[^c-92f0946eb7a9e4d8a19be36d0f0a59d5][^c-32a4f58c65bbd09a27de74c570c25199]
 
 Offences under the [Electoral Law Act (Northern Ireland) 1962 (c.14 (N.I.))](https://www.legislation.gov.uk/apni/1962/14)
 
@@ -72,7 +72,7 @@ Offences under the Political Parties, Elections and Referendums Act 2000
 
 ### Part 2 — Amendments
 
-#### 1. [Electoral Law Act (Northern Ireland) 1962 (c.14 (N.I.))](https://www.legislation.gov.uk/apni/1962/14)[^key-c83dcffc5ea0469b0684f06b61129a8d][^key-789e86f5f471424c6f1eb4580ced9ce3]
+#### 1. [Electoral Law Act (Northern Ireland) 1962 (c.14 (N.I.))](https://www.legislation.gov.uk/apni/1962/14)[^c-c83dcffc5ea0469b0684f06b61129a8d][^c-789e86f5f471424c6f1eb4580ced9ce3]
 
 (1) The [Electoral Law Act (Northern Ireland) 1962 (c.14 (N.I.))](https://www.legislation.gov.uk/apni/1962/14) is amended as follows.
 
@@ -98,7 +98,7 @@ Offences under the Political Parties, Elections and Referendums Act 2000
 
 > (4) This section does not apply where section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies in relation to the electoral misdemeanour.
 
-#### 2. [Representation of the People Act 1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^key-5c52ee14b42a2c0d4acc61a426dbecdb][^key-137b1f7598513d34c292fade92bf06f8]
+#### 2. [Representation of the People Act 1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^c-5c52ee14b42a2c0d4acc61a426dbecdb][^c-137b1f7598513d34c292fade92bf06f8]
 
 (1) The Representation of the People Act 1983 is amended as follows.
 
@@ -114,7 +114,7 @@ Offences under the Political Parties, Elections and Referendums Act 2000
 
 > (1A) Subsection (1) does not apply where section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies in relation to the offence.
 
-#### 3. [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^key-86b6b60b63bb239adf479af4ee206187][^key-cddc4dacb6abea771ee72b1c360abcc1]
+#### 3. [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^c-86b6b60b63bb239adf479af4ee206187][^c-cddc4dacb6abea771ee72b1c360abcc1]
 
 (1) The Political Parties, Elections and Referendums Act 2000 is amended as follows.
 
@@ -131,18 +131,18 @@ Offences under the Political Parties, Elections and Referendums Act 2000
 
 ## Annotations
 
-[^key-92f0946eb7a9e4d8a19be36d0f0a59d5]: Commencement: Sch. 1 Pt. 1 not in force at Royal Assent, see 100(1)
+[^c-92f0946eb7a9e4d8a19be36d0f0a59d5]: Commencement: Sch. 1 Pt. 1 not in force at Royal Assent, see 100(1)
 
-[^key-32a4f58c65bbd09a27de74c570c25199]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/part/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-32a4f58c65bbd09a27de74c570c25199]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/part/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-c83dcffc5ea0469b0684f06b61129a8d]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see 100(1)
+[^c-c83dcffc5ea0469b0684f06b61129a8d]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-789e86f5f471424c6f1eb4580ced9ce3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-789e86f5f471424c6f1eb4580ced9ce3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-5c52ee14b42a2c0d4acc61a426dbecdb]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see 100(1)
+[^c-5c52ee14b42a2c0d4acc61a426dbecdb]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-137b1f7598513d34c292fade92bf06f8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-137b1f7598513d34c292fade92bf06f8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-86b6b60b63bb239adf479af4ee206187]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see 100(1)
+[^c-86b6b60b63bb239adf479af4ee206187]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-cddc4dacb6abea771ee72b1c360abcc1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-cddc4dacb6abea771ee72b1c360abcc1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

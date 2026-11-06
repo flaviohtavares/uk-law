@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105C. Non-mayoral combined authority: consent to budget[^key-2944973a25670f04387d5156c9eca745]
+## 105C. Non-mayoral combined authority: consent to budget[^c-2944973a25670f04387d5156c9eca745]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2944973a25670f04387d5156c9eca745]: Textual amendment: [S. 105C](https://www.legislation.gov.uk/ukpga/2009/20/section/105C) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-2944973a25670f04387d5156c9eca745]: Textual amendment: [S. 105C](https://www.legislation.gov.uk/ukpga/2009/20/section/105C) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

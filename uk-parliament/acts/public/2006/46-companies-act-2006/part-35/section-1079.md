@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1079. Effect of failure to give public notice[^c19692951][^c18893801][^M_C_0f9f8425-a5b2-48a1-aa47-6f3a89797892][^M_C_566e2fb5-d97f-49a3-c3b7-8789c8dac24b][^key-08589b3c84c09b7a732c2d284e555f46]
+## 1079. Effect of failure to give public notice[^c19692951][^c18893801][^M_C_0f9f8425-a5b2-48a1-aa47-6f3a89797892][^M_C_566e2fb5-d97f-49a3-c3b7-8789c8dac24b][^c-08589b3c84c09b7a732c2d284e555f46]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ the company is not entitled to rely on the happening of the event as against a p
 (4) “**Official notification**” means—
 
 - (a) in relation to an amendment of the company's articles, notification in accordance with section 1077 (public notice of receipt by registrar of certain documents) of the amendment and the amended text of the articles;
-- (b) in relation to anything else stated in an enhanced disclosure document[^key-7447dfc5e154f70a5057eb91343de088], notification of that document in accordance with that section;
+- (b) in relation to anything else stated in an enhanced disclosure document[^c-7447dfc5e154f70a5057eb91343de088], notification of that document in accordance with that section;
 - (c) in relation to the appointment of a liquidator in a voluntary winding up, notification of that event in accordance with section 109 of the Insolvency Act 1986 (c. 45) or Article 95 of the Insolvency (Northern Ireland) Order 1989 (S.I.1989/2405 (N.I. 19)).
 
 ## Annotations
@@ -56,6 +56,6 @@ the company is not entitled to rely on the happening of the event as against a p
 
 [^M_C_566e2fb5-d97f-49a3-c3b7-8789c8dac24b]: Modification: Ss. 1077-1079 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/19) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2)) (as amended (1.10.2012 with application in accordance with reg. 2 of the amending S.I.) by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), regs. 1, 23 and as amended (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), reg. 1, Sch. 2 para. 3)
 
-[^key-08589b3c84c09b7a732c2d284e555f46]: Modification: S. 1079 power to apply (with or without modifications) conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-08589b3c84c09b7a732c2d284e555f46]: Modification: S. 1079 power to apply (with or without modifications) conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
 
-[^key-7447dfc5e154f70a5057eb91343de088]: Textual amendment: Words in s. 1079(4)(b) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7447dfc5e154f70a5057eb91343de088]: Textual amendment: Words in s. 1079(4)(b) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

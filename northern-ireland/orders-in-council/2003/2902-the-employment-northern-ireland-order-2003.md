@@ -976,7 +976,7 @@ Regulation 34 of the Employment Equality (Sexual Orientation) Regulations (North
 
 Regulation 41 of the Employment Equality (Age) Regulations (Northern Ireland) 2006 (discrimination in the employment field)[^c20172641]
 
-[^key-3e296eb2e3dbbcca55b4506dd9b5e9e3]...[^c20586811]
+[^c-3e296eb2e3dbbcca55b4506dd9b5e9e3]...[^c20586811]
 
 Regulation 33 of the Information and Consultation of Employees Regulations (Northern Ireland) 2005 (detriment: enforcement and subsidiary provisions)
 
@@ -986,9 +986,9 @@ Regulation 51 of the Companies (Cross-Border Mergers) Regulations 2007 (detrimen
 
 Regulation 17 of the Cross-border Railways Services (Working Time) Regulations (Northern Ireland) 2008 (breach of regulations)[^c21172841]
 
-Regulation 32 of the European Public Limited-Liability Company (Employment Involvement) (Northern Ireland) Regulations 2009[^key-ab3f32257064826e30e13b59d4f4b698]
+Regulation 32 of the European Public Limited-Liability Company (Employment Involvement) (Northern Ireland) Regulations 2009[^c-ab3f32257064826e30e13b59d4f4b698]
 
-Regulation 9 of the Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (detriment connected with prohibited list).[^key-1b900f3e662a324223a2a9711541c69d]
+Regulation 9 of the Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (detriment connected with prohibited list).[^c-1b900f3e662a324223a2a9711541c69d]
 
 ## SCHEDULE 3[^c22342421][^c22342421]
 
@@ -1112,7 +1112,7 @@ Section 24 of the National Minimum Wage Act 1998 (c. 39) (detriment in relation 
 
 The Industrial Tribunals Extension of Jurisdiction Order (Northern Ireland) 1994 (SR 1994/308) (breach of employment contract and termination).
 
-Regulation 43 of the Working Time Regulations (Northern Ireland) 2016 (breach of regulations)[^key-d11e021cef2d35b00243e81a477b6de9]
+Regulation 43 of the Working Time Regulations (Northern Ireland) 2016 (breach of regulations)[^c-d11e021cef2d35b00243e81a477b6de9]
 
 Regulation 32 of the Transnational Information and Consultation of Employees Regulations 1999 (S.I. 1999/3323) (detriment relating to European Works Councils)
 
@@ -1120,7 +1120,7 @@ Regulation 34 of the Employment Equality (Sexual Orientation) Regulations (North
 
 Regulation 41 of the Employment Equality (Age) Regulations (Northern Ireland) 2006 (discrimination in the employment field)[^c20172681]
 
-[^key-585c438ecbcbac975f80560f2d98c515]...[^c20586981]
+[^c-585c438ecbcbac975f80560f2d98c515]...[^c20586981]
 
 Regulation 33 of the Information and Consultation of Employees Regulations (Northern Ireland) 2005 (detriment: enforcement and subsidiary provisions)
 
@@ -1130,7 +1130,7 @@ Regulation 51 of the Companies (Cross-Border Mergers) Regulations 2007 (detrimen
 
 Regulation 17 of the Cross-border Railways Services (Working Time) Regulations (Northern Ireland) 2008 (breach of regulations)[^c21173211]
 
-Regulation 32 of the European Public Limited-Liability Company (Employment Involvement) (Northern Ireland) Regulations 2009[^key-7f433b719d7313e654365c721d0dfc93]
+Regulation 32 of the European Public Limited-Liability Company (Employment Involvement) (Northern Ireland) Regulations 2009[^c-7f433b719d7313e654365c721d0dfc93]
 
 *Schedule 5—Amendments*
 
@@ -1180,7 +1180,7 @@ Regulation 32 of the European Public Limited-Liability Company (Employment Invol
 
 [^c20172641]: Textual amendment: Words in Sch. 2 inserted (1.10.2006) by [Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [53(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/53/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/6/a) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
 
-[^key-3e296eb2e3dbbcca55b4506dd9b5e9e3]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/2003/2902/schedule/2) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(1)(a)](https://www.legislation.gov.uk/nia/2016/15/section/26/1/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) (with [s. 26(2)](https://www.legislation.gov.uk/nia/2016/15/section/26/2)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)(o)(iii)
+[^c-3e296eb2e3dbbcca55b4506dd9b5e9e3]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/2003/2902/schedule/2) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(1)(a)](https://www.legislation.gov.uk/nia/2016/15/section/26/1/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) (with [s. 26(2)](https://www.legislation.gov.uk/nia/2016/15/section/26/2)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)(o)(iii)
 
 [^c20586811]: Textual amendment: Words in Sch. 2 added (6.4.2007) by [Employment (Northern Ireland) Order 2003 (Amendment of Schedules 2, 3 and 4) Order (Northern Ireland) 2007 (S.R. 2007/91)](https://www.legislation.gov.uk/nisr/2007/91), [art. 3(a)](https://www.legislation.gov.uk/nisr/2007/91/article/3/a) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/nisr/2007/91/article/4))
 
@@ -1188,9 +1188,9 @@ Regulation 32 of the European Public Limited-Liability Company (Employment Invol
 
 [^c21172841]: Textual amendment: Words in Sch. 2 inserted (1.10.2008) by Cross-border [Railway Services (Working Time) Regulations (Northern Ireland) 2008 (S.R. 2008/315)](https://www.legislation.gov.uk/nisr/2008/315), [reg. 19](https://www.legislation.gov.uk/nisr/2008/315/regulation/19), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/3/a)
 
-[^key-ab3f32257064826e30e13b59d4f4b698]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/2003/2902/schedule/2) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(1)(b)](https://www.legislation.gov.uk/nia/2016/15/section/26/1/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2) (with [s. 26(2)](https://www.legislation.gov.uk/nia/2016/15/section/26/2)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
+[^c-ab3f32257064826e30e13b59d4f4b698]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/2003/2902/schedule/2) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(1)(b)](https://www.legislation.gov.uk/nia/2016/15/section/26/1/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2) (with [s. 26(2)](https://www.legislation.gov.uk/nia/2016/15/section/26/2)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
 
-[^key-1b900f3e662a324223a2a9711541c69d]: Textual amendment: Words in Sch. 2 inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [17(6)](https://www.legislation.gov.uk/nisr/2014/88/regulation/17/6)
+[^c-1b900f3e662a324223a2a9711541c69d]: Textual amendment: Words in Sch. 2 inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [17(6)](https://www.legislation.gov.uk/nisr/2014/88/regulation/17/6)
 
 [^c22342421]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisi/2003/2902/schedule/3) repealed (3.4.2011) by [Employment Act (Northern Ireland) 2011 (c. 13)](https://www.legislation.gov.uk/nia/2011/13), [ss. 16](https://www.legislation.gov.uk/nia/2011/13/section/16), [17(1)](https://www.legislation.gov.uk/nia/2011/13/section/17/1), [Sch. 4](https://www.legislation.gov.uk/nia/2011/13/schedule/4); [S.R. 2011/159](https://www.legislation.gov.uk/nisr/2011/159), [art. 2](https://www.legislation.gov.uk/nisr/2011/159/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/159/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/159/schedule))
 
@@ -1206,13 +1206,13 @@ Regulation 32 of the European Public Limited-Liability Company (Employment Invol
 
 [^c20586991]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-d11e021cef2d35b00243e81a477b6de9]: Textual amendment: Words in Sch. 4 substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(4)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/4) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-d11e021cef2d35b00243e81a477b6de9]: Textual amendment: Words in Sch. 4 substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(4)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/4) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
 
 [^c20587011]: Textual amendment: SR 2003/497
 
 [^c20172681]: Textual amendment: Words in Sch. 4 inserted (1.10.2006) by [Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [53(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/53/1), [Sch. 7 para. 6(c)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/6/c) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
 
-[^key-585c438ecbcbac975f80560f2d98c515]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/2003/2902/schedule/4) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(3)(a)](https://www.legislation.gov.uk/nia/2016/15/section/26/3/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) (with [s. 26(4)](https://www.legislation.gov.uk/nia/2016/15/section/26/4)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)(o)(iii)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
+[^c-585c438ecbcbac975f80560f2d98c515]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/2003/2902/schedule/4) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(3)(a)](https://www.legislation.gov.uk/nia/2016/15/section/26/3/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) (with [s. 26(4)](https://www.legislation.gov.uk/nia/2016/15/section/26/4)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)(o)(iii)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
 
 [^c20586981]: Textual amendment: Words in Sch. 4 added (6.4.2007) by [Employment (Northern Ireland) Order 2003 (Amendment of Schedules 2, 3 and 4) Order (Northern Ireland) 2007 (S.R. 2007/91)](https://www.legislation.gov.uk/nisr/2007/91), [art. 3(c)](https://www.legislation.gov.uk/nisr/2007/91/article/3/c) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/nisr/2007/91/article/4))
 
@@ -1220,4 +1220,4 @@ Regulation 32 of the European Public Limited-Liability Company (Employment Invol
 
 [^c21173211]: Textual amendment: Words in Sch. 4 inserted (1.10.2008) by Cross-border [Railway Services (Working Time) Regulations (Northern Ireland) 2008 (S.R. 2008/315)](https://www.legislation.gov.uk/nisr/2008/315), [reg. 19](https://www.legislation.gov.uk/nisr/2008/315/regulation/19), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/3/c)
 
-[^key-7f433b719d7313e654365c721d0dfc93]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/2003/2902/schedule/4) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(3)(b)](https://www.legislation.gov.uk/nia/2016/15/section/26/3/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2) (with [s. 26(4)](https://www.legislation.gov.uk/nia/2016/15/section/26/4)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
+[^c-7f433b719d7313e654365c721d0dfc93]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/2003/2902/schedule/4) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 26(3)(b)](https://www.legislation.gov.uk/nia/2016/15/section/26/3/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2) (with [s. 26(4)](https://www.legislation.gov.uk/nia/2016/15/section/26/4)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)

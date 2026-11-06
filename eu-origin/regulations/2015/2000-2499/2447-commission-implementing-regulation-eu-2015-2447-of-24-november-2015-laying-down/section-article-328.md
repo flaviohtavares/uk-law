@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 328. Risk analysis(Article 264 of the Code)[^key-54ca20ede467ed976850f4a16b62789e]
+## Article 328. Risk analysis(Article 264 of the Code)[^c-54ca20ede467ed976850f4a16b62789e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54ca20ede467ed976850f4a16b62789e]: Modification: [Art. 328](https://www.legislation.gov.uk/eur/2015/2447/article/328) excluded (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2020 (S.I. 2020/1613)](https://www.legislation.gov.uk/uksi/2020/1613), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1613/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1613/regulation/2/7/b)
+[^c-54ca20ede467ed976850f4a16b62789e]: Modification: [Art. 328](https://www.legislation.gov.uk/eur/2015/2447/article/328) excluded (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2020 (S.I. 2020/1613)](https://www.legislation.gov.uk/uksi/2020/1613), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1613/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1613/regulation/2/7/b)

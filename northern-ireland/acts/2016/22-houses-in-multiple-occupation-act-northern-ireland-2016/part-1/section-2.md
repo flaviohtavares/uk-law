@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Definition of living accommodation[^key-910a008ab0ab052fbb2fecf58310bed9]
+## 2. Definition of living accommodation[^c-910a008ab0ab052fbb2fecf58310bed9]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ the building or part is to be treated as being owned by the director as well as 
 
 ## Annotations
 
-[^key-910a008ab0ab052fbb2fecf58310bed9]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/22/section/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-910a008ab0ab052fbb2fecf58310bed9]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/22/section/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

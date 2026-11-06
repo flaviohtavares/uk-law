@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Establishment[^key-8c8001db61dfa5a26c7281d13ed87fd5]
+## 3. Establishment[^c-8c8001db61dfa5a26c7281d13ed87fd5]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8001db61dfa5a26c7281d13ed87fd5]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/15/section/3) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-8c8001db61dfa5a26c7281d13ed87fd5]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/15/section/3) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Stop notices: procedure[^key-b1e0c79c83314e34b22901544195610a]
+## 74. Stop notices: procedure[^c-b1e0c79c83314e34b22901544195610a]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e0c79c83314e34b22901544195610a]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2011/9/section/74) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-b1e0c79c83314e34b22901544195610a]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2011/9/section/74) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

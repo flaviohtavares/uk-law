@@ -26,7 +26,7 @@ summary: ''
 
 **1.**[^c20352561] The 1983 Act is amended as follows.
 
-**2.**[^key-10b44016faae12ec6115958fc315d75f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-10b44016faae12ec6115958fc315d75f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -83,7 +83,7 @@ summary: ''
 
 [^c20352561]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2006/14/schedule/2/paragraph/1) wholly in force at 17.2.2007, see [s. 63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2) and [S.S.I. 2007/26](https://www.legislation.gov.uk/ssi/2007/26), [art. 3(1)(i)](https://www.legislation.gov.uk/ssi/2007/26/article/3/1/i) (with transitional provisions in [art. 3(2)](https://www.legislation.gov.uk/ssi/2007/26/article/3/2))
 
-[^key-10b44016faae12ec6115958fc315d75f]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2006/14/schedule/2/paragraph/2) repealed (9.2.2012) by [The Local Electoral Administration (Scotland) Act 2011 (Consequential Amendments) Order 2012 (S.S.I. 2012/31)](https://www.legislation.gov.uk/ssi/2012/31), [arts. 2](https://www.legislation.gov.uk/ssi/2012/31/article/2), [4](https://www.legislation.gov.uk/ssi/2012/31/article/4)
+[^c-10b44016faae12ec6115958fc315d75f]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2006/14/schedule/2/paragraph/2) repealed (9.2.2012) by [The Local Electoral Administration (Scotland) Act 2011 (Consequential Amendments) Order 2012 (S.S.I. 2012/31)](https://www.legislation.gov.uk/ssi/2012/31), [arts. 2](https://www.legislation.gov.uk/ssi/2012/31/article/2), [4](https://www.legislation.gov.uk/ssi/2012/31/article/4)
 
 [^c20352581]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2006/14/schedule/2/paragraph/5) wholly in force at 17.2.2007, see [s. 63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2) and [S.S.I. 2007/26](https://www.legislation.gov.uk/ssi/2007/26), [art. 3(1)(i)](https://www.legislation.gov.uk/ssi/2007/26/article/3/1/i) (with transitional provisions in [art. 3(2)](https://www.legislation.gov.uk/ssi/2007/26/article/3/2))
 

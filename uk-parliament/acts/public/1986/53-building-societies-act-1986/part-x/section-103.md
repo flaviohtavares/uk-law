@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Cancellation of registration.[^key-789de2618a02ae0db3b67e3be8e918a8]
+## 103. Cancellation of registration.[^c-789de2618a02ae0db3b67e3be8e918a8]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where , having consulted the[^key-53dd6b6f4131d48d0fc02ab685c38547] PRA, the FCA[^key-1f5e448653d9079ae88b36b24c55a709] is satisfied, with respect to a building society—
+(1) Where , having consulted the[^c-53dd6b6f4131d48d0fc02ab685c38547] PRA, the FCA[^c-1f5e448653d9079ae88b36b24c55a709] is satisfied, with respect to a building society—
 
 - (a) that the society has been dissolved by virtue of section 93(5), 94(10), 97(9) or 97(10), or
-- (b) that the society has been wound up under the applicable winding up legislation and dissolved, or[^key-742ada5aeeafc26bb8314f2bc77ef5a1]
+- (b) that the society has been wound up under the applicable winding up legislation and dissolved, or[^c-742ada5aeeafc26bb8314f2bc77ef5a1]
 - (c) that the society has been dissolved following building society insolvency or building society special administration.
 
 the FCA shall cancel the registration of the society.
 
-(2) Where , having consulted the[^key-c94be24dfbafd0d3491a973d1538759e] PRA, the FCA is satisfied, with respect to a building society—
+(2) Where , having consulted the[^c-c94be24dfbafd0d3491a973d1538759e] PRA, the FCA is satisfied, with respect to a building society—
 
-- (a) that a certificate of incorporation has been obtained for the society by fraud or mistake and that the society does not have permission under[^c15516701] Part 4A[^key-a2e02517eb494a002e53e3679f167e80] of the Financial Services and Markets Act 2000 to accept deposits, or
+- (a) that a certificate of incorporation has been obtained for the society by fraud or mistake and that the society does not have permission under[^c15516701] Part 4A[^c-a2e02517eb494a002e53e3679f167e80] of the Financial Services and Markets Act 2000 to accept deposits, or
 - (b) that the society has ceased to exist,
 
 the FCA may cancel the registration of the society.
 
-(3) Without prejudice to subsection (2) above, the FCA may, if it thinks fit after consulting the[^key-f3c2b28afe7dc1b7ca7b90ee0cd1bf65] PRA, cancel the registration of a building society at the request of the society, evidenced in such manner as the FCA may direct.
+(3) Without prejudice to subsection (2) above, the FCA may, if it thinks fit after consulting the[^c-f3c2b28afe7dc1b7ca7b90ee0cd1bf65] PRA, cancel the registration of a building society at the request of the society, evidenced in such manner as the FCA may direct.
 
 (4) Before cancelling the registration of a building society under subsection (2) above, the FCA shall give to the society not less than two months’ previous notice, specifying briefly the grounds of the proposed cancellation.
 
@@ -56,20 +56,20 @@ and on any such appeal the High Court or the Court of Session, as the case may b
 
 ## Annotations
 
-[^key-789de2618a02ae0db3b67e3be8e918a8]: Modification: [S. 103](https://www.legislation.gov.uk/ukpga/1986/53/section/103) excluded by 2009 c. 1, s. 84D(7) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
+[^c-789de2618a02ae0db3b67e3be8e918a8]: Modification: [S. 103](https://www.legislation.gov.uk/ukpga/1986/53/section/103) excluded by 2009 c. 1, s. 84D(7) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
 
-[^key-53dd6b6f4131d48d0fc02ab685c38547]: Textual amendment: Words in s. 103(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-53dd6b6f4131d48d0fc02ab685c38547]: Textual amendment: Words in s. 103(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-1f5e448653d9079ae88b36b24c55a709]: Textual amendment: Word in s. 103 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-1f5e448653d9079ae88b36b24c55a709]: Textual amendment: Word in s. 103 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-742ada5aeeafc26bb8314f2bc77ef5a1]: Textual amendment: S. 103(1)(c) and preceding word inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 10](https://www.legislation.gov.uk/uksi/2009/805/article/10)
+[^c-742ada5aeeafc26bb8314f2bc77ef5a1]: Textual amendment: S. 103(1)(c) and preceding word inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 10](https://www.legislation.gov.uk/uksi/2009/805/article/10)
 
-[^key-c94be24dfbafd0d3491a973d1538759e]: Textual amendment: Words in s. 103(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-c94be24dfbafd0d3491a973d1538759e]: Textual amendment: Words in s. 103(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15516701]: Textual amendment: Words in s. 103(2)(a) substituted (17.8.2001 for specified purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [art. 13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 187(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/187/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/a)
 
-[^key-a2e02517eb494a002e53e3679f167e80]: Textual amendment: Words in s. 103(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a2e02517eb494a002e53e3679f167e80]: Textual amendment: Words in s. 103(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-f3c2b28afe7dc1b7ca7b90ee0cd1bf65]: Textual amendment: Words in s. 103(3) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-f3c2b28afe7dc1b7ca7b90ee0cd1bf65]: Textual amendment: Words in s. 103(3) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 45(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/44/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15516751]: Modification: S. 103(5)(6)(7) applied by [S.I. 1986/2168](https://www.legislation.gov.uk/uksi/1986/2168), [art. 10(3)](https://www.legislation.gov.uk/uksi/1986/2168/article/10/3)(*b*)

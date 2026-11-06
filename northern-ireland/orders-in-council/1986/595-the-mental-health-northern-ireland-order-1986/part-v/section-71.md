@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Applications to the tribunal under Part II[^key-660e6e74d4cc43d9ad0d8a1c592c23d7][^key-e9b89bb7daa80c600cd735717ce2cea2]
+## 71. Applications to the tribunal under Part II[^c-660e6e74d4cc43d9ad0d8a1c592c23d7][^c-e9b89bb7daa80c600cd735717ce2cea2]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ the nearest relative of the patient may apply to the Review Tribunal in respect 
 
 ## Annotations
 
-[^key-660e6e74d4cc43d9ad0d8a1c592c23d7]: Modification: Art. 71 applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/5/a), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-660e6e74d4cc43d9ad0d8a1c592c23d7]: Modification: Art. 71 applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/5/a), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-e9b89bb7daa80c600cd735717ce2cea2]: Modification: Art. 71 applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(5)(a)(i)-(iv)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/5/a/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-e9b89bb7daa80c600cd735717ce2cea2]: Modification: Art. 71 applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(5)(a)(i)-(iv)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/5/a/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)

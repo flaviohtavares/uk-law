@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 537. Revocation of spent provision[^key-9f4b54cd22ec433478606bce89cd7318]
+## 537. Revocation of spent provision[^c-9f4b54cd22ec433478606bce89cd7318]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 1 to the Housing Act 1996 (Consequential Provisions) Order 1996 (rep
 
 ## Annotations
 
-[^key-9f4b54cd22ec433478606bce89cd7318]: Commencement: Art. 537 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9f4b54cd22ec433478606bce89cd7318]: Commencement: Art. 537 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

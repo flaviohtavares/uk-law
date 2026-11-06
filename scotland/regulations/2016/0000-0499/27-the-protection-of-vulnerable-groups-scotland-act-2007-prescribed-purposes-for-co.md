@@ -32,7 +32,7 @@ summary: ''
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Prescribed Purposes for Consideration of Suitability) Regulations 2016 (revoked)[^key-d13fc042637425271da21aff809ab827]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Prescribed Purposes for Consideration of Suitability) Regulations 2016 (revoked)[^c-d13fc042637425271da21aff809ab827]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2016
 
-[^key-d13fc042637425271da21aff809ab827]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d13fc042637425271da21aff809ab827]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d13fc042637425271da21aff809ab827]
+## 1. Citation, commencement and interpretation[^c-d13fc042637425271da21aff809ab827]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed purpose[^key-d13fc042637425271da21aff809ab827]
+## 2. Prescribed purpose[^c-d13fc042637425271da21aff809ab827]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d13fc042637425271da21aff809ab827]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d13fc042637425271da21aff809ab827]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d13fc042637425271da21aff809ab827]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d13fc042637425271da21aff809ab827]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d13fc042637425271da21aff809ab827]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/27) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/19) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-d13fc042637425271da21aff809ab827]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/27) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/19) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

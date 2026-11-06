@@ -197,7 +197,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 74 — Duty to notify police of female genital mutilation](part-5/section-74.md)
 - [Section 75 — Guidance about female genital mutilation](part-5/section-75.md)
 
-#### Strangulation or suffocation[^key-a86717825e4ee352acfaf0eae1590772]
+#### Strangulation or suffocation[^c-a86717825e4ee352acfaf0eae1590772]
 
 *Extent: E+W*
 
@@ -244,4 +244,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a86717825e4ee352acfaf0eae1590772]: Textual amendment: [Ss. 75A](https://www.legislation.gov.uk/ukpga/2015/9/section/75A), [75B](https://www.legislation.gov.uk/ukpga/2015/9/section/75B) and cross-heading inserted (E.W.) (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 70(1)](https://www.legislation.gov.uk/ukpga/2021/17/section/70/1), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/a)
+[^c-a86717825e4ee352acfaf0eae1590772]: Textual amendment: [Ss. 75A](https://www.legislation.gov.uk/ukpga/2015/9/section/75A), [75B](https://www.legislation.gov.uk/ukpga/2015/9/section/75B) and cross-heading inserted (E.W.) (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 70(1)](https://www.legislation.gov.uk/ukpga/2021/17/section/70/1), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/a)

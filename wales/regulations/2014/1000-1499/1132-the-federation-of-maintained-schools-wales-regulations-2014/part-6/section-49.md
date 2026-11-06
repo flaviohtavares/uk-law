@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Charitable status of federations[^key-b35eb7921e263094b255aba2c56a0cfc]
+## 49. Charitable status of federations[^c-b35eb7921e263094b255aba2c56a0cfc]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ must also be an exempt charity for the purposes of the Charities Act 2011.
 
 ## Annotations
 
-[^key-b35eb7921e263094b255aba2c56a0cfc]: Commencement: Reg. 49 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-b35eb7921e263094b255aba2c56a0cfc]: Commencement: Reg. 49 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00022]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-228b19b98809a821eba828fef0902f5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-228b19b98809a821eba828fef0902f5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where it appears to the Faculty of Advocates that any rule of conduct in relation to the exercise of an advocate’s right of audience in the Court of Session is more restrictive than the equivalent rule in relation to the exercise of the equivalent right in the sheriff court, they may submit that rule to the Secretary of State for his approval, and the Secretary of State shall consult the CMA[^key-b2060d61db1cac47b1b9fa6b546872ad] in accordance with section 40 of this Act, and thereafter, having—
+(2) Where it appears to the Faculty of Advocates that any rule of conduct in relation to the exercise of an advocate’s right of audience in the Court of Session is more restrictive than the equivalent rule in relation to the exercise of the equivalent right in the sheriff court, they may submit that rule to the Secretary of State for his approval, and the Secretary of State shall consult the CMA[^c-b2060d61db1cac47b1b9fa6b546872ad] in accordance with section 40 of this Act, and thereafter, having—
 
 - (a) considered any advice tendered to him by the CMA;
 - (b) compared the rule applicable in the Court of Session with the equivalent rule applicable in the sheriff court; and
@@ -47,6 +47,6 @@ he may approve or refuse to approve the rule.
 
 ## Annotations
 
-[^key-228b19b98809a821eba828fef0902f5c]: Textual amendment: S. 31(1) repealed (1.6.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 122(4)](https://www.legislation.gov.uk/asp/2010/16/section/122/4), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(c)](https://www.legislation.gov.uk/ssi/2011/180/article/5/c)
+[^c-228b19b98809a821eba828fef0902f5c]: Textual amendment: S. 31(1) repealed (1.6.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 122(4)](https://www.legislation.gov.uk/asp/2010/16/section/122/4), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 5(c)](https://www.legislation.gov.uk/ssi/2011/180/article/5/c)
 
-[^key-b2060d61db1cac47b1b9fa6b546872ad]: Textual amendment: Word in [s. 31(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/31/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/47); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b2060d61db1cac47b1b9fa6b546872ad]: Textual amendment: Word in [s. 31(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/31/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/47); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

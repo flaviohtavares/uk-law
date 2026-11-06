@@ -26,10 +26,10 @@ Section 13
 
 **1.** (1) The Commission is to consist of—
 
-- (a) a person appointed by the Secretary of State[^key-32c20bea461b79910ec9af07f50cce53] to chair the Commission, and
+- (a) a person appointed by the Secretary of State[^c-32c20bea461b79910ec9af07f50cce53] to chair the Commission, and
 - (b) at least 4, but not more than 8, other members appointed by the Secretary of State.
 
-(2) The Secretary of State[^key-7c8757431f86ab5f14f4cf6aec5aad16] must exercise the power in sub-paragraph (1) so as to secure that—
+(2) The Secretary of State[^c-7c8757431f86ab5f14f4cf6aec5aad16] must exercise the power in sub-paragraph (1) so as to secure that—
 
 - (a) the knowledge and experience of the members of the Commission (taken together) includes knowledge and experience of the matters mentioned in sub-paragraph (3),
 - (b) at least two members have a 7 year general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990, and
@@ -53,10 +53,10 @@ Section 13
 
 (2) A person holding office as a member of the Commission—
 
-- (a) may resign that office by giving notice in writing to the Secretary of State[^key-7c673af1cfb0c9c471efb4d911b55c32], and
-- (b) may be removed from office by the Secretary of State[^key-823c2a3fb7803f38c44eaeda018f1f26] on the ground of incapacity or misbehaviour.
+- (a) may resign that office by giving notice in writing to the Secretary of State[^c-7c673af1cfb0c9c471efb4d911b55c32], and
+- (b) may be removed from office by the Secretary of State[^c-823c2a3fb7803f38c44eaeda018f1f26] on the ground of incapacity or misbehaviour.
 
-(3) Before removing a member of the Commission the Secretary of State[^key-816b4240a7ab05f2fa3f90a944b8713e] must consult—
+(3) Before removing a member of the Commission the Secretary of State[^c-816b4240a7ab05f2fa3f90a944b8713e] must consult—
 
 - (a) the Commission, and
 - (b) if the member was appointed following consultation with the Welsh Ministers, the Welsh Ministers.
@@ -65,16 +65,16 @@ Section 13
 
 (5) For the purposes of sub-paragraph (4), time spent holding office as a Charity Commissioner for England and Wales counts as time spent holding office as a member of the Commission.
 
-**4.** (1) The Commission must pay to its members such remuneration, and such other allowances, as may be determined by the Secretary of State[^key-7efd9fedc6c0d4eee79c6bdcaf102612].
+**4.** (1) The Commission must pay to its members such remuneration, and such other allowances, as may be determined by the Secretary of State[^c-7efd9fedc6c0d4eee79c6bdcaf102612].
 
-(2) The Commission must, if required to do so by the Secretary of State[^key-4ceb7fb32e9fb4b9c8522a4d14bc47ea]—
+(2) The Commission must, if required to do so by the Secretary of State[^c-4ceb7fb32e9fb4b9c8522a4d14bc47ea]—
 
-- (a) pay such pension, allowances or gratuities as may be determined by the Secretary of State[^key-aec60654c9aa5e8033521835de309780] to or in respect of a person who is or has been a member of the Commission, or
+- (a) pay such pension, allowances or gratuities as may be determined by the Secretary of State[^c-aec60654c9aa5e8033521835de309780] to or in respect of a person who is or has been a member of the Commission, or
 - (b) make such payments as may be so determined towards provision for the payment of a pension, allowances or gratuities to or in respect of such a person.
 
-(3) Sub-paragraph (4) applies if the Secretary of State[^key-301801d58e715c4815abb0c424b34bdf] determines that there are special circumstances which make it right for a person ceasing to hold office as a member of the Commission to receive compensation.
+(3) Sub-paragraph (4) applies if the Secretary of State[^c-301801d58e715c4815abb0c424b34bdf] determines that there are special circumstances which make it right for a person ceasing to hold office as a member of the Commission to receive compensation.
 
-(4) The Commission must pay to the person a sum by way of compensation of such amount as may be determined by the Secretary of State[^key-261a33e56e51219149557efb587e22db].
+(4) The Commission must pay to the person a sum by way of compensation of such amount as may be determined by the Secretary of State[^c-261a33e56e51219149557efb587e22db].
 
 ### Staff
 
@@ -196,22 +196,22 @@ during that year.
 
 ## Annotations
 
-[^key-32c20bea461b79910ec9af07f50cce53]: Textual amendment: Words in [Sch. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/1/1/a) [(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/1/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-32c20bea461b79910ec9af07f50cce53]: Textual amendment: Words in [Sch. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/1/1/a) [(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/1/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-7c8757431f86ab5f14f4cf6aec5aad16]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/1/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-7c8757431f86ab5f14f4cf6aec5aad16]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/1/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-7c673af1cfb0c9c471efb4d911b55c32]: Textual amendment: Words in [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/3/2/a) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-7c673af1cfb0c9c471efb4d911b55c32]: Textual amendment: Words in [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/3/2/a) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-823c2a3fb7803f38c44eaeda018f1f26]: Textual amendment: Words in [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/3/2/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-823c2a3fb7803f38c44eaeda018f1f26]: Textual amendment: Words in [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/3/2/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-816b4240a7ab05f2fa3f90a944b8713e]: Textual amendment: Words in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/3/3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-816b4240a7ab05f2fa3f90a944b8713e]: Textual amendment: Words in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/3/3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-7efd9fedc6c0d4eee79c6bdcaf102612]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-7efd9fedc6c0d4eee79c6bdcaf102612]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-4ceb7fb32e9fb4b9c8522a4d14bc47ea]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-4ceb7fb32e9fb4b9c8522a4d14bc47ea]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-aec60654c9aa5e8033521835de309780]: Textual amendment: Words in [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/2/a) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-aec60654c9aa5e8033521835de309780]: Textual amendment: Words in [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/2/a) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-301801d58e715c4815abb0c424b34bdf]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-301801d58e715c4815abb0c424b34bdf]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-261a33e56e51219149557efb587e22db]: Textual amendment: Words in [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-261a33e56e51219149557efb587e22db]: Textual amendment: Words in [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/1/paragraph/4/4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(oo)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/oo) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

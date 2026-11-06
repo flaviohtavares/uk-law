@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19.[^key-dbfb824f02bd0730b3a731e0c7383430]
+## 19.[^c-dbfb824f02bd0730b3a731e0c7383430]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dbfb824f02bd0730b3a731e0c7383430]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dbfb824f02bd0730b3a731e0c7383430]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882821]: Marginal citation: Section 58(2) was amended by paragraphs 1 and 36 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013, paragraphs 1 and 13 of Schedule 8 to the Consumer Rights Act 2015, [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261) and [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Obstruction of construction of authorised works[^key-427066e3f3080d4b415b2dc971e13cc8]
+## 53. Obstruction of construction of authorised works[^c-427066e3f3080d4b415b2dc971e13cc8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-427066e3f3080d4b415b2dc971e13cc8]: Commencement: Art. 53 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-427066e3f3080d4b415b2dc971e13cc8]: Commencement: Art. 53 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

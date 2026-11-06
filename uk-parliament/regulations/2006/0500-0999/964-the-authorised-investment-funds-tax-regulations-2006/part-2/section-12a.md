@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Deduction of expenses[^key-6e405012e9563948d042783c45a8dc7e]
+## 12A. Deduction of expenses[^c-6e405012e9563948d042783c45a8dc7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where an authorised investment fund makes an interest distribution for a distrib
 
 ## Annotations
 
-[^key-6e405012e9563948d042783c45a8dc7e]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2006/964/regulation/12A) inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2015 (S.I. 2015/485)](https://www.legislation.gov.uk/uksi/2015/485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/485/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/485/regulation/2/3)
+[^c-6e405012e9563948d042783c45a8dc7e]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2006/964/regulation/12A) inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2015 (S.I. 2015/485)](https://www.legislation.gov.uk/uksi/2015/485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/485/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/485/regulation/2/3)

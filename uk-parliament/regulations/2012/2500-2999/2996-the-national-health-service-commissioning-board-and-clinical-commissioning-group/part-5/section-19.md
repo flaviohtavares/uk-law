@@ -24,8 +24,8 @@ summary: ''
 
 (2) Consultation undertaken before the coming into force of this Part is as effective for the purposes of regulation 18 as consultation undertaken after the coming into force of this Part.
 
-(3)[^key-48e8a52af438b7b74d3b9f7ae17f7033] Consultation undertaken before 1st July 2022 is as effective for the purposes of regulation 18 as consultation undertaken after 1st July 2022.
+(3)[^c-48e8a52af438b7b74d3b9f7ae17f7033] Consultation undertaken before 1st July 2022 is as effective for the purposes of regulation 18 as consultation undertaken after 1st July 2022.
 
 ## Annotations
 
-[^key-48e8a52af438b7b74d3b9f7ae17f7033]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/19/3) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/3)
+[^c-48e8a52af438b7b74d3b9f7ae17f7033]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/19/3) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/3)

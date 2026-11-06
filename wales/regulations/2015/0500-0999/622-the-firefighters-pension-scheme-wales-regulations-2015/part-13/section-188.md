@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188. Payment on behalf of members of lifetime allowance charge[^key-681117738e25d90f9591ccf8e5377558]
+## 188. Payment on behalf of members of lifetime allowance charge[^c-681117738e25d90f9591ccf8e5377558]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-681117738e25d90f9591ccf8e5377558]: Commencement: Reg. 188 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-681117738e25d90f9591ccf8e5377558]: Commencement: Reg. 188 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

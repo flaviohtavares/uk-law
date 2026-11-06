@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**17.**[^key-3d315674ee4068ea8a5e67ec2c68358b] After Schedule 4 insert the following Schedule—
+**17.**[^c-3d315674ee4068ea8a5e67ec2c68358b] After Schedule 4 insert the following Schedule—
 
 > **SCHEDULE 4A — SURVIVING CIVIL PARTNERS' PENSIONS: TRANSITIONAL PROVISIONS**
 >
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d315674ee4068ea8a5e67ec2c68358b]: Commencement: Art. 17 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-3d315674ee4068ea8a5e67ec2c68358b]: Commencement: Art. 17 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00007]: Footnote: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15).

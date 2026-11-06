@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Committee of creditors[^key-ad0a451fd686d67e79a5269343106f3d]
+## 24. Committee of creditors[^c-ad0a451fd686d67e79a5269343106f3d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 59(1) (committee of creditors), for the words from the beginning to â
 
 ## Annotations
 
-[^key-ad0a451fd686d67e79a5269343106f3d]: Commencement: S. 24 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-ad0a451fd686d67e79a5269343106f3d]: Commencement: S. 24 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

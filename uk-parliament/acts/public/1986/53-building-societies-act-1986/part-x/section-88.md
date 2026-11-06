@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A building society may be wound up voluntarily under the applicable winding up legislation if it resolves by special resolution that it be wound up voluntarily, but a resolution may not be passed if—[^key-3561bc5dd1b8f99ab72a3cda787d781d]
+(1) A building society may be wound up voluntarily under the applicable winding up legislation if it resolves by special resolution that it be wound up voluntarily, but a resolution may not be passed if—[^c-3561bc5dd1b8f99ab72a3cda787d781d]
 
 - (a) the conditions in section 90D are not satisfied, or
 - (b) the society is in building society insolvency or building society special administration.
 
-(1A)[^key-bcf4de877495a6a3ebe19220074290dd] A resolution under subsection (1) shall have no effect without the prior approval of the court.
+(1A)[^c-bcf4de877495a6a3ebe19220074290dd] A resolution under subsection (1) shall have no effect without the prior approval of the court.
 
-(2) A copy of any special resolution passed for the voluntary winding up of a building society"shall be sent by the society to the[^key-4ea02acffbf0adfe2d3ac3580fb2530e] FCA and, if the society is a PRA-authorised person, the PRA within 15 days after it is passed; and the FCA[^key-4c661ea7560cc13c1d8c76f5d15e1006] must keep a copy in the public file of the society.
+(2) A copy of any special resolution passed for the voluntary winding up of a building society"shall be sent by the society to the[^c-4ea02acffbf0adfe2d3ac3580fb2530e] FCA and, if the society is a PRA-authorised person, the PRA within 15 days after it is passed; and the FCA[^c-4c661ea7560cc13c1d8c76f5d15e1006] must keep a copy in the public file of the society.
 
 (3) A copy of any such resolution shall be annexed to every copy of the memorandum or of the rules issued after the passing of the resolution.
 
@@ -37,10 +37,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3561bc5dd1b8f99ab72a3cda787d781d]: Textual amendment: Words in s. 88(1) inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 4](https://www.legislation.gov.uk/uksi/2009/805/article/4)
+[^c-3561bc5dd1b8f99ab72a3cda787d781d]: Textual amendment: Words in s. 88(1) inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 4](https://www.legislation.gov.uk/uksi/2009/805/article/4)
 
-[^key-bcf4de877495a6a3ebe19220074290dd]: Textual amendment: S. 88(1A) inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 4](https://www.legislation.gov.uk/uksi/2009/805/article/4)
+[^c-bcf4de877495a6a3ebe19220074290dd]: Textual amendment: S. 88(1A) inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 4](https://www.legislation.gov.uk/uksi/2009/805/article/4)
 
-[^key-4ea02acffbf0adfe2d3ac3580fb2530e]: Textual amendment: Words in s. 88(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 32(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/32/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-4ea02acffbf0adfe2d3ac3580fb2530e]: Textual amendment: Words in s. 88(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 32(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/32/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-4c661ea7560cc13c1d8c76f5d15e1006]: Textual amendment: Words in s. 88(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 32(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/32/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-4c661ea7560cc13c1d8c76f5d15e1006]: Textual amendment: Words in s. 88(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 32(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/32/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Electronic monitoring requirement[^key-e3ce029bc2794ae98208820450a5022b][^key-89ac3901aaa31923093b1f56a4c4eb71]
+## 40. Electronic monitoring requirement[^c-e3ce029bc2794ae98208820450a5022b][^c-89ac3901aaa31923093b1f56a4c4eb71]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ of the time when the period is to begin.
 
 ## Annotations
 
-[^key-e3ce029bc2794ae98208820450a5022b]: Modification: [Art. 40](https://www.legislation.gov.uk/nisi/2008/1216/article/40) modified (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [97(3)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/97/3)
+[^c-e3ce029bc2794ae98208820450a5022b]: Modification: [Art. 40](https://www.legislation.gov.uk/nisi/2008/1216/article/40) modified (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [97(3)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/97/3)
 
-[^key-89ac3901aaa31923093b1f56a4c4eb71]: Modification: [Arts. 40-43](https://www.legislation.gov.uk/nisi/2008/1216/article/40) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [107(4)(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/107/4/b)
+[^c-89ac3901aaa31923093b1f56a4c4eb71]: Modification: [Arts. 40-43](https://www.legislation.gov.uk/nisi/2008/1216/article/40) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [107(4)(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/107/4/b)

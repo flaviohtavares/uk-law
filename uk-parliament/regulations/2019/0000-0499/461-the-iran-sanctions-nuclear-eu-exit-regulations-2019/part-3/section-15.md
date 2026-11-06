@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Making economic resources available to designated person[^key-1a4f9fd871b00045b3d04792b9f26952][^key-4f9f00b1c0f0c6f46ea248a0d4ae0ee2]
+## 15. Making economic resources available to designated person[^c-1a4f9fd871b00045b3d04792b9f26952][^c-4f9f00b1c0f0c6f46ea248a0d4ae0ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a4f9fd871b00045b3d04792b9f26952]: Commencement: Reg. 15 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-1a4f9fd871b00045b3d04792b9f26952]: Commencement: Reg. 15 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-4f9f00b1c0f0c6f46ea248a0d4ae0ee2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/461/regulation/15) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f9f00b1c0f0c6f46ea248a0d4ae0ee2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/461/regulation/15) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Register of enforcement notices, other enforcement action and stop notices[^key-fff5d3ac2a9c77d031aedd0b4dedfe92]
+## 154. Register of enforcement notices, other enforcement action and stop notices[^c-fff5d3ac2a9c77d031aedd0b4dedfe92]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff5d3ac2a9c77d031aedd0b4dedfe92]: Commencement: S. 154 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fff5d3ac2a9c77d031aedd0b4dedfe92]: Commencement: S. 154 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -39,7 +39,7 @@ and for the purposes of paragraph (b) above 1,100 cubic metres of gas at a tempe
 
 (3)[^c10743071] The accumulated capital expenditure of a participator in an oil field at the end of any chargeable period is the total amount of expenditure taken into account under section 2(9)(b)(i) and (c)(i) of this Act in computing the assessable profit or allowable loss accruing to him in that period and all earlier chargeable periods excluding all expenditure so taken into account which was not allowed as qualifying for supplement under section 2(9)(b)(ii) or (c)(ii).
 
-(4)[^key-52c6f1337df3d328dd9eef46ee19948d][^c10743121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-52c6f1337df3d328dd9eef46ee19948d][^c10743121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -61,6 +61,6 @@ and for the purposes of paragraph (b) above 1,100 cubic metres of gas at a tempe
 
 [^c10743101]: Textual amendment: Words substituted by [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 64(2)](https://www.legislation.gov.uk/ukpga/1987/16/section/64/2) and Sch. 13 Part II para. 3
 
-[^key-52c6f1337df3d328dd9eef46ee19948d]: Textual amendment: S. 9(4) omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/3)
+[^c-52c6f1337df3d328dd9eef46ee19948d]: Textual amendment: S. 9(4) omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/3)
 
 [^c10743121]: Modification: [See Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 117(4)](https://www.legislation.gov.uk/ukpga/1981/35/section/117/4)

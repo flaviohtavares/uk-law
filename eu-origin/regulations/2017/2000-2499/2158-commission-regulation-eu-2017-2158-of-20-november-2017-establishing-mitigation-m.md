@@ -113,7 +113,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Scope
 
-1. Without prejudice to the applicable provisions of the [^key-ea0a577bd82aaf99e12b70e09d7ab325]... law in food area, food business operators which produce and place on the market foodstuffs listed in paragraph 2 shall in accordance with Article 2 apply the mitigation measures set out in Annexes I and II, in view of achieving levels of acrylamide as low as reasonably achievable below the benchmark levels set out in Annex IV.
+1. Without prejudice to the applicable provisions of the [^c-ea0a577bd82aaf99e12b70e09d7ab325]... law in food area, food business operators which produce and place on the market foodstuffs listed in paragraph 2 shall in accordance with Article 2 apply the mitigation measures set out in Annexes I and II, in view of achieving levels of acrylamide as low as reasonably achievable below the benchmark levels set out in Annex IV.
 
 2. Foodstuffs referred to in paragraph 1 are as follows:
 
@@ -144,7 +144,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 - ((1)) the definitions of ‘food’, ‘food business operator’, ‘retail’‘placing on the market’ and ‘final consumer’ laid down in Articles 2 and 3 of Regulation (EC) No 178/2002 of the European Parliament and of the Council[^f00007];
 - ((2)) ‘benchmark levels’ means performance indicators used to verify the effectiveness of the mitigation measures and are based on experience and occurrence for broad food categories.
-- ((3)) “[^key-99e5890df6741655104832bd280b71ff]**competent authority**” means the central authority competent to ensure compliance with the requirements of this Regulation or any other authority to which that central authority has delegated competence;
+- ((3)) “[^c-99e5890df6741655104832bd280b71ff]**competent authority**” means the central authority competent to ensure compliance with the requirements of this Regulation or any other authority to which that central authority has delegated competence;
 - ((4)) “appropriate authority” means—
   - ((a)) in relation to England, the Secretary of State;
   - ((b)) in relation to Wales, the Welsh Ministers;
@@ -166,9 +166,9 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 ## Article 5. Review of the levels of acrylamide
 
-The benchmark levels of acrylamide presence in foodstuffs set out in Annex IV shall be reviewed by the appropriate authority[^key-e7a336c5a7de2bac100c96482dc32a32] every three years and the first time within three years after the entry into application of this Regulation.
+The benchmark levels of acrylamide presence in foodstuffs set out in Annex IV shall be reviewed by the appropriate authority[^c-e7a336c5a7de2bac100c96482dc32a32] every three years and the first time within three years after the entry into application of this Regulation.
 
-The review of the benchmark levels shall be based on the occurrence data of acrylamide [^key-c5e4a3d3055cbc53c67942ef3fb82964]....
+The review of the benchmark levels shall be based on the occurrence data of acrylamide [^c-c5e4a3d3055cbc53c67942ef3fb82964]....
 
 ## Article 6. Entry into force and application
 
@@ -176,7 +176,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 11 April 2018.
 
-[^key-3220b05e1aa8501b1bedebb612e4d95a]...
+[^c-3220b05e1aa8501b1bedebb612e4d95a]...
 
 Done at Brussels, 20 November 2017.
 
@@ -935,19 +935,19 @@ Benchmark levels for the presence of acrylamide in foodstuffs referred to in Art
 
 [^f00005]: Footnote: Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules ([OJ L 165, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.165.01.0001.01.ENG)).
 
-[^key-ea0a577bd82aaf99e12b70e09d7ab325]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2017/2158/article/1) omitted (31.12.2020) by virtue of by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [28](https://www.legislation.gov.uk/uksi/2019/642/regulation/28) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/11/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea0a577bd82aaf99e12b70e09d7ab325]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2017/2158/article/1) omitted (31.12.2020) by virtue of by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [28](https://www.legislation.gov.uk/uksi/2019/642/regulation/28) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/11/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 ([OJ L 181, 29.6.2013, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.181.01.0035.01.ENG)).
 
 [^f00007]: Footnote: Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ([OJ L 31, 1.2.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.031.01.0001.01.ENG)).
 
-[^key-99e5890df6741655104832bd280b71ff]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/eur/2017/2158/article/3/3)[(4)](https://www.legislation.gov.uk/eur/2017/2158/article/3/4) inserted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [29](https://www.legislation.gov.uk/uksi/2019/642/regulation/29) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/11/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99e5890df6741655104832bd280b71ff]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/eur/2017/2158/article/3/3)[(4)](https://www.legislation.gov.uk/eur/2017/2158/article/3/4) inserted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [29](https://www.legislation.gov.uk/uksi/2019/642/regulation/29) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [11(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/11/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7a336c5a7de2bac100c96482dc32a32]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2017/2158/article/5) substituted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2019/642/regulation/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7a336c5a7de2bac100c96482dc32a32]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2017/2158/article/5) substituted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2019/642/regulation/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5e4a3d3055cbc53c67942ef3fb82964]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2017/2158/article/5) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2019/642/regulation/30/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5e4a3d3055cbc53c67942ef3fb82964]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2017/2158/article/5) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2019/642/regulation/30/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3220b05e1aa8501b1bedebb612e4d95a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/2158/signature) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/642/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3220b05e1aa8501b1bedebb612e4d95a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/2158/signature) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/642/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: Regulation (EC) No 1332/2008 of the European Parliament and of the Council of 16 December 2008 on food enzymes and amending Council Directive 83/417/EEC, Council Regulation (EC) No 1493/1999, Directive 2000/13/EC, Council Directive 2001/112/EC and Regulation (EC) No 258/97 ([OJ L 354, 31.12.2008, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.354.01.0007.01.ENG)).
 

@@ -35,20 +35,20 @@ amending Regulation (EC) No 862/2007 on Community statistics on migration and in
 
 (Text with EEA relevance) (revoked)
 
-[^key-6be4e9a5f195df10eceffe8370577fd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6be4e9a5f195df10eceffe8370577fd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EC) No 862/2007[^key-6be4e9a5f195df10eceffe8370577fd7]
+## Article 1. Amendments to Regulation (EC) No 862/2007[^c-6be4e9a5f195df10eceffe8370577fd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force and application[^key-6be4e9a5f195df10eceffe8370577fd7]
+## Article 2. Entry into force and application[^c-6be4e9a5f195df10eceffe8370577fd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6be4e9a5f195df10eceffe8370577fd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6be4e9a5f195df10eceffe8370577fd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6be4e9a5f195df10eceffe8370577fd7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 129](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/129)
+[^c-6be4e9a5f195df10eceffe8370577fd7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 129](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/129)

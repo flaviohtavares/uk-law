@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Extension of certain provisions to Northern Ireland bodies[^key-33666f98be5409af47a20fb5f24853f6]
+## 104. Extension of certain provisions to Northern Ireland bodies[^c-33666f98be5409af47a20fb5f24853f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33666f98be5409af47a20fb5f24853f6]: Commencement: S. 104 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(x)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/x)
+[^c-33666f98be5409af47a20fb5f24853f6]: Commencement: S. 104 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(x)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/x)

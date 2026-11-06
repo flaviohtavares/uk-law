@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Ability to carry out daily living activities or mobility activities[^key-d003b0914e402e320be2b6d281e387e9]
+## 85. Ability to carry out daily living activities or mobility activities[^c-d003b0914e402e320be2b6d281e387e9]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d003b0914e402e320be2b6d281e387e9]: Commencement: [Art. 85](https://www.legislation.gov.uk/nisi/2015/2006/article/85) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/b)
+[^c-d003b0914e402e320be2b6d281e387e9]: Commencement: [Art. 85](https://www.legislation.gov.uk/nisi/2015/2006/article/85) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/b)

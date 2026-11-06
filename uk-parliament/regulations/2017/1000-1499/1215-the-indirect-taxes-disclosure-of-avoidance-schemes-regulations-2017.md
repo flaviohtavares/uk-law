@@ -48,16 +48,16 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 ## PART 1 — Introduction
 
-### 1. Citation and coming into force[^key-6706fca50b103f61cf0f25d00213d8a4]
+### 1. Citation and coming into force[^c-6706fca50b103f61cf0f25d00213d8a4]
 
 These Regulations may be cited as the Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 and come into force on 1st January 2018.
 
-### 2. Interpretation[^key-d94fb398207ac561332171394f08a967]
+### 2. Interpretation[^c-d94fb398207ac561332171394f08a967]
 
 In these Regulations—
 
 - “element”, in relation to a notifiable arrangement, includes the way in which the arrangement is structured;
-- “relevant indirect tax” means each indirect tax, except customs duties, relevant to a [^key-026566854a87d414a12e4c4d0723bdca]... proposal or [^key-026566854a87d414a12e4c4d0723bdca]... arrangement;
+- “relevant indirect tax” means each indirect tax, except customs duties, relevant to a [^c-026566854a87d414a12e4c4d0723bdca]... proposal or [^c-026566854a87d414a12e4c4d0723bdca]... arrangement;
 - “the Schedule” means Schedule 17 to the Finance (No. 2) Act 2017[^f00001];
 - “tax identifier number” means—
   - (a) any registration number provided by HMRC to a person in respect of each relevant indirect tax; or
@@ -65,7 +65,7 @@ In these Regulations—
 
 ## PART 2 — Persons not to be treated as promoters
 
-### 3. Provision of services to members of the same group[^key-1e52e53527b8bceaf2c12b79658c8153]
+### 3. Provision of services to members of the same group[^c-1e52e53527b8bceaf2c12b79658c8153]
 
 (1) A person (“A”) who carries on a relevant business is not to be treated as a promoter in relation to a notifiable proposal or a notifiable arrangement[^f00002] where—
 
@@ -82,7 +82,7 @@ In these Regulations—
 
 (3) In paragraph (1)(c), whether B is a member of the same group as A is to be determined in accordance with paragraph 8(7) of the Schedule.
 
-### 4. Employees[^key-36d6d5d7510688a42a06fe9095880855]
+### 4. Employees[^c-36d6d5d7510688a42a06fe9095880855]
 
 (1) Subject to paragraph (4), a person (“C”) is not to be treated as a promoter[^f00003] in relation to a notifiable proposal or a notifiable arrangement where C is an employee of an employer (“D”) and—
 
@@ -100,11 +100,11 @@ In these Regulations—
 
 (5) In this regulation, D is connected with E where D is closely bound to E by financial, economic or organisational links.
 
-### 5. Legal professional privilege[^key-f50d3663292301be7a7fdfb5d47c543e][^key-5fc4ed178934b6e0645741ac5d55a926]
+### 5. Legal professional privilege[^c-f50d3663292301be7a7fdfb5d47c543e][^c-5fc4ed178934b6e0645741ac5d55a926]
 
 A person (“F”) is not to be treated as a promoter in relation to a notifiable proposal or a notifiable arrangement where F’s involvement with the notifiable proposal or notifiable arrangement is such that F is not required by virtue of paragraph 32 of the Schedule to provide all of the prescribed information under paragraph 11(1) or 12(1) of the Schedule.
 
-### 6. Other circumstances[^key-b8af069e71525bc1ce46638936d6d37a]
+### 6. Other circumstances[^c-b8af069e71525bc1ce46638936d6d37a]
 
 (1) This regulation applies to a person (“G”) who, but for the following paragraphs, would be a promoter in relation to a notifiable proposal or a notifiable arrangement by virtue of paragraph 8(2)(a) or (3)(a) of the Schedule.
 
@@ -126,7 +126,7 @@ A person (“F”) is not to be treated as a promoter in relation to a notifiabl
 
 ## PART 3 — Prescribed information, periods and times in relation to notifiable proposals and notifiable arrangements
 
-### 7. Paragraphs 11(1), 12(1), 17(2) and 18(2) of the Schedule – duties on promoters and others[^key-81db7d439bdab5ff74621667e7e9ae06]
+### 7. Paragraphs 11(1), 12(1), 17(2) and 18(2) of the Schedule – duties on promoters and others[^c-81db7d439bdab5ff74621667e7e9ae06]
 
 (1) For the purposes of paragraphs 11(1), 12(1), 17(2) and 18(2) of the Schedule, the prescribed information is—
 
@@ -156,7 +156,7 @@ A person (“F”) is not to be treated as a promoter in relation to a notifiabl
 
 the person is not required to provide that information in relation to the other notifiable proposals or notifiable arrangements.
 
-### 8. Paragraph 18(2) of the Schedule - notifiable arrangements not involving promoters[^key-fe6f9fc26a5961e9b28c982cbf3704a5]
+### 8. Paragraph 18(2) of the Schedule - notifiable arrangements not involving promoters[^c-fe6f9fc26a5961e9b28c982cbf3704a5]
 
 (1) This regulation prescribes times for the purposes of paragraph 18(2) of the Schedule.
 
@@ -166,24 +166,24 @@ the person is not required to provide that information in relation to the other 
 
 (4) In this regulation, “relevant day” means the day after the day on which the person enters into the first transaction forming part of the notifiable arrangements.
 
-### 9. Paragraphs 23(2), 23A(2) and 24(3) – duties of promoters, clients and others[^key-dfa917354dcb53a9e413a6f46bdf83a3][^key-922a1ce94206f3648d64a414290c1969]
+### 9. Paragraphs 23(2), 23A(2) and 24(3) – duties of promoters, clients and others[^c-dfa917354dcb53a9e413a6f46bdf83a3][^c-922a1ce94206f3648d64a414290c1969]
 
-(1) For the purposes of paragraphs 23(2) , 23A(2)[^key-c0b05a1a109171e8bdc809b3f960c003] and 24(3) of the Schedule, the prescribed information is—
+(1) For the purposes of paragraphs 23(2) , 23A(2)[^c-c0b05a1a109171e8bdc809b3f960c003] and 24(3) of the Schedule, the prescribed information is—
 
-- (a) the name and address of the promoter or the person under the duty in paragraph 23A(2) of the Schedule[^key-e539f73b01b38d9113b3c1f887bc0c0f];
-- (b) a summary of the proposal or arrangement[^key-674df827a132e3ffb5fee1e1495f3845] and any name by which it is known;
-- (c)[^key-eea5b328d9d63fb5529e32bc44cf10ca] the reference number (or, if more than one, any one reference number) allocated by HMRC under paragraph 22(5) of the Schedule;
-- (d) the date that the[^key-2d9f08b3f353b3c5fa35e4b0c082e8db] reference number was sent to the client.
+- (a) the name and address of the promoter or the person under the duty in paragraph 23A(2) of the Schedule[^c-e539f73b01b38d9113b3c1f887bc0c0f];
+- (b) a summary of the proposal or arrangement[^c-674df827a132e3ffb5fee1e1495f3845] and any name by which it is known;
+- (c)[^c-eea5b328d9d63fb5529e32bc44cf10ca] the reference number (or, if more than one, any one reference number) allocated by HMRC under paragraph 22(5) of the Schedule;
+- (d) the date that the[^c-2d9f08b3f353b3c5fa35e4b0c082e8db] reference number was sent to the client.
 
 (2) In paragraph (1)—
 
 - (a) where paragraph 23(2) of the Schedule applies, “the client” has the same meaning as in paragraph 23(1) of the Schedule;
-- (aa)[^key-77aab45dfc1209c34036274465aabf7c] where paragraph 23A(2) of the Schedule applies, “the client” has the same meaning as in paragraph 23A(1) of the Schedule;
+- (aa)[^c-77aab45dfc1209c34036274465aabf7c] where paragraph 23A(2) of the Schedule applies, “the client” has the same meaning as in paragraph 23A(1) of the Schedule;
 
   or
 - (b) where paragraph 24(3) of the Schedule applies, “the client” has the same meaning as in paragraph 24(1) of the Schedule.
 
-### 10. Paragraph 25(2) of the Schedule – duties of clients to provide information ...[^key-706dbf7c5f4a4d075434950c1bc3c101][^key-6b579fdfd7771e58f9803d178e6c1681]
+### 10. Paragraph 25(2) of the Schedule – duties of clients to provide information ...[^c-706dbf7c5f4a4d075434950c1bc3c101][^c-6b579fdfd7771e58f9803d178e6c1681]
 
 (1) For the purposes of paragraph 25(2) of the Schedule, the prescribed information is that described in paragraph (2) or (3).
 
@@ -193,7 +193,7 @@ the person is not required to provide that information in relation to the other 
 
 (4) In this regulation, “the client” has the same meaning as in paragraph 25(1) of the Schedule.
 
-### 11. Paragraph 26(1) and (3) of the Schedule – duty of parties to ... arrangements to notify HMRC of number etc[^key-f98c16d5dd40806e64c428ca55b76ebb][^key-087644c7b3b083ab9db64f810c4af178]
+### 11. Paragraph 26(1) and (3) of the Schedule – duty of parties to ... arrangements to notify HMRC of number etc[^c-f98c16d5dd40806e64c428ca55b76ebb][^c-087644c7b3b083ab9db64f810c4af178]
 
 (1) For the purposes of paragraph 26(1) of the Schedule, the prescribed information is—
 
@@ -203,27 +203,27 @@ the person is not required to provide that information in relation to the other 
 - (d) each tax identifier number provided to P;
 - (e) a declaration made by P which confirms the accuracy and completeness of the information provided and which states whether P is also—
   - (i) a client;
-  - (ii) another party to the [^key-43fd11defe07a94db475c0f8fbb21a24]... proposal or [^key-43fd11defe07a94db475c0f8fbb21a24]... arrangement; or
-  - (iii) an introducer[^f00007] or a promoter in relation to the [^key-ff61984ae9fea81c6eddc88dc7bd6799]... proposal or [^key-ff61984ae9fea81c6eddc88dc7bd6799]... arrangement.
+  - (ii) another party to the [^c-43fd11defe07a94db475c0f8fbb21a24]... proposal or [^c-43fd11defe07a94db475c0f8fbb21a24]... arrangement; or
+  - (iii) an introducer[^f00007] or a promoter in relation to the [^c-ff61984ae9fea81c6eddc88dc7bd6799]... proposal or [^c-ff61984ae9fea81c6eddc88dc7bd6799]... arrangement.
 
-(2) In paragraph (1), “client” has the same meaning as in paragraph 23(1) , 23A(1)[^key-d35b17b07908f5dc047b631bc9968d86] or 24(1) of the Schedule, as the case may be.
+(2) In paragraph (1), “client” has the same meaning as in paragraph 23(1) , 23A(1)[^c-d35b17b07908f5dc047b631bc9968d86] or 24(1) of the Schedule, as the case may be.
 
 (3) HMRC may by notice prescribe the time for the giving of the prescribed information described in paragraph (1) in such cases as are prescribed in the notice, how that information must be provided to HMRC and the address to which it must be sent.
 
-### 12. Paragraph 27(3) of the Schedule – duty to provide details of clients: prescribed information[^key-d02395dac403184aa17eca1b1b0fa307][^key-264c7073b56878e68238d3890de4206b]
+### 12. Paragraph 27(3) of the Schedule – duty to provide details of clients: prescribed information[^c-d02395dac403184aa17eca1b1b0fa307][^c-264c7073b56878e68238d3890de4206b]
 
-(1) For the purposes of paragraph 27(3) of the Schedule, the following information is prescribed in relation to the arrangement or proposed arrangement to which paragraph 27(1) or (1A)[^key-fb00bcdce052c3c27f38bbedb944ddc5] of the Schedule applies—
+(1) For the purposes of paragraph 27(3) of the Schedule, the following information is prescribed in relation to the arrangement or proposed arrangement to which paragraph 27(1) or (1A)[^c-fb00bcdce052c3c27f38bbedb944ddc5] of the Schedule applies—
 
 - (a) each reference number;
 - (b) the name and address of each client;
-- (c) the prescribed information (if any) provided by the client to the promoter or provider[^key-7b453461eccebf1dc3cbca46c7f01bde] as described in regulation 10;
-- (d) the name and address of the promoter or provider[^key-38320469dfb0f0db7d0fb4b9a1b0e32d]; and
+- (c) the prescribed information (if any) provided by the client to the promoter or provider[^c-7b453461eccebf1dc3cbca46c7f01bde] as described in regulation 10;
+- (d) the name and address of the promoter or provider[^c-38320469dfb0f0db7d0fb4b9a1b0e32d]; and
 - (e) the date of the end of the relevant period in relation to which the information is provided.
 
 (2) In paragraph (1)(b), the name and address of a client is—
 
-- (a) the address to which the promoter or provider[^key-437751aeb58321c7220fa70b77ee122a] has sent, or would have sent, the prescribed information described in regulation 11(1) in compliance with paragraph 23(2) or 23A(2)[^key-13a14ece72a3d4ef2c74d6fb2bfb0571] of the Schedule; or
-- (b) the address of the client shown on any register held by HMRC for the indirect tax to which the [^key-c2d99902465c5316a17c7767c046b56a]... arrangement relates or most closely relates.
+- (a) the address to which the promoter or provider[^c-437751aeb58321c7220fa70b77ee122a] has sent, or would have sent, the prescribed information described in regulation 11(1) in compliance with paragraph 23(2) or 23A(2)[^c-13a14ece72a3d4ef2c74d6fb2bfb0571] of the Schedule; or
+- (b) the address of the client shown on any register held by HMRC for the indirect tax to which the [^c-c2d99902465c5316a17c7767c046b56a]... arrangement relates or most closely relates.
 
 (3) Paragraph (4) applies on the expiry of the prescribed period of 30 days referred to in regulation 13(2), where the prescribed period is extended to 60 days under regulation 13(3).
 
@@ -236,7 +236,7 @@ the person is not required to provide that information in relation to the other 
 
 (6) Where this paragraph applies, the prescribed information is a written statement that the client has not complied with paragraph 25(2) of the Schedule.
 
-### 13. Paragraph 27(3) and (4) of the Schedule – duty to provide details of clients: prescribed period[^key-ced16ef3f1c37802edf14f92b47c39ed][^key-46b6c6aca3e70d4fc38db50b25d9e06e]
+### 13. Paragraph 27(3) and (4) of the Schedule – duty to provide details of clients: prescribed period[^c-ced16ef3f1c37802edf14f92b47c39ed][^c-46b6c6aca3e70d4fc38db50b25d9e06e]
 
 (1) Paragraphs (2) and (3) prescribe the period for the purposes of paragraph 27(3) of the Schedule.
 
@@ -251,17 +251,17 @@ the prescribed period in respect of the prescribed information described in regu
 
 (4) The prescribed period for the purposes of the relevant period (as defined in paragraph 27(4) of the Schedule) is each calendar quarter.
 
-### 14. Paragraph 28(2) of the Schedule – enquiry by HMRC[^key-5aee7eb26e32879aa3e3fad8a526b950]
+### 14. Paragraph 28(2) of the Schedule – enquiry by HMRC[^c-5aee7eb26e32879aa3e3fad8a526b950]
 
 For the purposes of paragraph 28(2) of the Schedule, where HMRC has given a written notice further to that paragraph, the prescribed information is—
 
 - (a) the name and address of any person (“P”) other than the client, as described in paragraph 28(2) of the Schedule, who—
-  - (i) sells, or is likely to sell, the [^key-68a5389aed34668fd7b8c75a492a0ac5]... proposal or [^key-68a5389aed34668fd7b8c75a492a0ac5]... arrangement; or
-  - (ii) has achieved, or is likely to achieve, a tax advantage by implementing the [^key-5316db31e62cd53f517a30f788853be3]... proposal or [^key-5316db31e62cd53f517a30f788853be3]... arrangement;
+  - (i) sells, or is likely to sell, the [^c-68a5389aed34668fd7b8c75a492a0ac5]... proposal or [^c-68a5389aed34668fd7b8c75a492a0ac5]... arrangement; or
+  - (ii) has achieved, or is likely to achieve, a tax advantage by implementing the [^c-5316db31e62cd53f517a30f788853be3]... proposal or [^c-5316db31e62cd53f517a30f788853be3]... arrangement;
 - (b) each tax identifier number provided to P; and
-- (c) sufficient information as might reasonably be expected to enable an officer of HMRC to comprehend the manner in which P is involved in the [^key-31118436f2858c8f9296e7a96388cce9]... proposal or [^key-31118436f2858c8f9296e7a96388cce9]... arrangement.
+- (c) sufficient information as might reasonably be expected to enable an officer of HMRC to comprehend the manner in which P is involved in the [^c-31118436f2858c8f9296e7a96388cce9]... proposal or [^c-31118436f2858c8f9296e7a96388cce9]... arrangement.
 
-### 15. Paragraph 31(2) of the Schedule – provision of information to HMRC by introducers[^key-ff6a11c406426e78ad1c0fbccb6a167c]
+### 15. Paragraph 31(2) of the Schedule – provision of information to HMRC by introducers[^c-ff6a11c406426e78ad1c0fbccb6a167c]
 
 For the purposes of paragraph 31(2) of the Schedule, the prescribed information is the name and address of—
 
@@ -277,11 +277,11 @@ Two of the Commissioners for Her Majesty’s Revenue and Customs
 
 7th December 2017
 
-## SCHEDULE — Powers[^key-a07954d02d437aec1a6cb636d6ffa652]
+## SCHEDULE — Powers[^c-a07954d02d437aec1a6cb636d6ffa652]
 
 Preamble
 
-[^key-a07954d02d437aec1a6cb636d6ffa652]
+[^c-a07954d02d437aec1a6cb636d6ffa652]
 
 These Regulations are made in exercise of the powers contained in the following paragraphs of Schedule 17 to the Finance (No. 2) Act 2017—
 
@@ -343,96 +343,96 @@ A Tax Information and Impact Note covering this instrument was published on 5 De
 
 ## Annotations
 
-[^key-6706fca50b103f61cf0f25d00213d8a4]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-6706fca50b103f61cf0f25d00213d8a4]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-d94fb398207ac561332171394f08a967]: Commencement: Reg. 2 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-d94fb398207ac561332171394f08a967]: Commencement: Reg. 2 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-026566854a87d414a12e4c4d0723bdca]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1215/regulation/2) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/979/regulation/3)
+[^c-026566854a87d414a12e4c4d0723bdca]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1215/regulation/2) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/979/regulation/3)
 
 [^f00001]: Footnote: [2017 c. 32](https://www.legislation.gov.uk/ukpga/2017/32).
 
-[^key-1e52e53527b8bceaf2c12b79658c8153]: Commencement: Reg. 3 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-1e52e53527b8bceaf2c12b79658c8153]: Commencement: Reg. 3 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
 [^f00002]: Footnote: See paragraph 3 of the Schedule for the definitions of “notifiable proposal” and “notifiable arrangements”.
 
-[^key-36d6d5d7510688a42a06fe9095880855]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-36d6d5d7510688a42a06fe9095880855]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
 [^f00003]: Footnote: See paragraph 8 of the Schedule for the definition of “promoter”.
 
 [^f00004]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). See section 3(2), which provides that “the employment income Parts” are Part 2 and Parts 3 to 7A. Section 3(2) was amended by paragraphs 2 and 4 of Schedule 2 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-f50d3663292301be7a7fdfb5d47c543e]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-f50d3663292301be7a7fdfb5d47c543e]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-5fc4ed178934b6e0645741ac5d55a926]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1215/regulation/5) excluded (1.1.2018) by [The Indirect Taxes (Notifiable Arrangements) Regulations 2017 (S.I. 2017/1216)](https://www.legislation.gov.uk/uksi/2017/1216), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/9/4)
+[^c-5fc4ed178934b6e0645741ac5d55a926]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1215/regulation/5) excluded (1.1.2018) by [The Indirect Taxes (Notifiable Arrangements) Regulations 2017 (S.I. 2017/1216)](https://www.legislation.gov.uk/uksi/2017/1216), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/9/4)
 
-[^key-b8af069e71525bc1ce46638936d6d37a]: Commencement: Reg. 6 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-b8af069e71525bc1ce46638936d6d37a]: Commencement: Reg. 6 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-81db7d439bdab5ff74621667e7e9ae06]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-81db7d439bdab5ff74621667e7e9ae06]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2017/1216](https://www.legislation.gov.uk/uksi/2017/1216).
 
-[^key-fe6f9fc26a5961e9b28c982cbf3704a5]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-fe6f9fc26a5961e9b28c982cbf3704a5]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-dfa917354dcb53a9e413a6f46bdf83a3]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-dfa917354dcb53a9e413a6f46bdf83a3]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-922a1ce94206f3648d64a414290c1969]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9) heading substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/a)
+[^c-922a1ce94206f3648d64a414290c1969]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9) heading substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/a)
 
-[^key-c0b05a1a109171e8bdc809b3f960c003]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/b)
+[^c-c0b05a1a109171e8bdc809b3f960c003]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/b)
 
-[^key-e539f73b01b38d9113b3c1f887bc0c0f]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/a) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/c)
+[^c-e539f73b01b38d9113b3c1f887bc0c0f]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/a) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/c)
 
-[^key-674df827a132e3ffb5fee1e1495f3845]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/b) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/d)
+[^c-674df827a132e3ffb5fee1e1495f3845]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/b) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/d)
 
-[^key-eea5b328d9d63fb5529e32bc44cf10ca]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/c) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/e)
+[^c-eea5b328d9d63fb5529e32bc44cf10ca]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/c) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/e)
 
-[^key-2d9f08b3f353b3c5fa35e4b0c082e8db]: Textual amendment: Word in [reg. 9(1)(d)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/d) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/f)
+[^c-2d9f08b3f353b3c5fa35e4b0c082e8db]: Textual amendment: Word in [reg. 9(1)(d)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/1/d) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/f)
 
-[^key-77aab45dfc1209c34036274465aabf7c]: Textual amendment: [Reg. 9(2)(aa)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/2/aa) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/g)
+[^c-77aab45dfc1209c34036274465aabf7c]: Textual amendment: [Reg. 9(2)(aa)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/9/2/aa) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2021/979/regulation/4/g)
 
-[^key-706dbf7c5f4a4d075434950c1bc3c101]: Commencement: Reg. 10 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-706dbf7c5f4a4d075434950c1bc3c101]: Commencement: Reg. 10 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-6b579fdfd7771e58f9803d178e6c1681]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2017/1215/regulation/10) heading omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/979/regulation/5)
+[^c-6b579fdfd7771e58f9803d178e6c1681]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2017/1215/regulation/10) heading omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/979/regulation/5)
 
-[^key-f98c16d5dd40806e64c428ca55b76ebb]: Commencement: Reg. 11 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-f98c16d5dd40806e64c428ca55b76ebb]: Commencement: Reg. 11 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-087644c7b3b083ab9db64f810c4af178]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11) heading omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/a)
+[^c-087644c7b3b083ab9db64f810c4af178]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11) heading omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/a)
 
-[^key-43fd11defe07a94db475c0f8fbb21a24]: Textual amendment: Word in [reg. 11(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11/1/e/ii) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/b)
+[^c-43fd11defe07a94db475c0f8fbb21a24]: Textual amendment: Word in [reg. 11(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11/1/e/ii) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/b)
 
 [^f00007]: Footnote: See paragraph 9 of the Schedule for the definition of “introducer”.
 
-[^key-ff61984ae9fea81c6eddc88dc7bd6799]: Textual amendment: Word in [reg. 11(1)(e)(iii)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11/1/e/iii) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/c)
+[^c-ff61984ae9fea81c6eddc88dc7bd6799]: Textual amendment: Word in [reg. 11(1)(e)(iii)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11/1/e/iii) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/c)
 
-[^key-d35b17b07908f5dc047b631bc9968d86]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11/2) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/d)
+[^c-d35b17b07908f5dc047b631bc9968d86]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/11/2) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2021/979/regulation/6/d)
 
-[^key-d02395dac403184aa17eca1b1b0fa307]: Commencement: Reg. 12 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-d02395dac403184aa17eca1b1b0fa307]: Commencement: Reg. 12 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-264c7073b56878e68238d3890de4206b]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12) heading substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/a)
+[^c-264c7073b56878e68238d3890de4206b]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12) heading substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/a)
 
-[^key-fb00bcdce052c3c27f38bbedb944ddc5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/1) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/b)
+[^c-fb00bcdce052c3c27f38bbedb944ddc5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/1) substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/b)
 
-[^key-7b453461eccebf1dc3cbca46c7f01bde]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/1/c) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/c)
+[^c-7b453461eccebf1dc3cbca46c7f01bde]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/1/c) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/c)
 
-[^key-38320469dfb0f0db7d0fb4b9a1b0e32d]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/1/d) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/d)
+[^c-38320469dfb0f0db7d0fb4b9a1b0e32d]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/1/d) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/d)
 
-[^key-437751aeb58321c7220fa70b77ee122a]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/2/a) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(e)(i)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/e/i)
+[^c-437751aeb58321c7220fa70b77ee122a]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/2/a) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(e)(i)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/e/i)
 
-[^key-13a14ece72a3d4ef2c74d6fb2bfb0571]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/2/a) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(e)(ii)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/e/ii)
+[^c-13a14ece72a3d4ef2c74d6fb2bfb0571]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/2/a) inserted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(e)(ii)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/e/ii)
 
-[^key-c2d99902465c5316a17c7767c046b56a]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/2/b) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(f)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/f)
+[^c-c2d99902465c5316a17c7767c046b56a]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/12/2/b) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [7(f)](https://www.legislation.gov.uk/uksi/2021/979/regulation/7/f)
 
-[^key-ced16ef3f1c37802edf14f92b47c39ed]: Commencement: Reg. 13 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-ced16ef3f1c37802edf14f92b47c39ed]: Commencement: Reg. 13 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-46b6c6aca3e70d4fc38db50b25d9e06e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/1215/regulation/13) heading substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [8](https://www.legislation.gov.uk/uksi/2021/979/regulation/8)
+[^c-46b6c6aca3e70d4fc38db50b25d9e06e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/1215/regulation/13) heading substituted (30.9.2021) by [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [8](https://www.legislation.gov.uk/uksi/2021/979/regulation/8)
 
-[^key-5aee7eb26e32879aa3e3fad8a526b950]: Commencement: Reg. 14 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-5aee7eb26e32879aa3e3fad8a526b950]: Commencement: Reg. 14 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-68a5389aed34668fd7b8c75a492a0ac5]: Textual amendment: Word in [reg. 14(a)(i)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/14/a/i) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/9/a)
+[^c-68a5389aed34668fd7b8c75a492a0ac5]: Textual amendment: Word in [reg. 14(a)(i)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/14/a/i) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/979/regulation/9/a)
 
-[^key-5316db31e62cd53f517a30f788853be3]: Textual amendment: Word in [reg. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/14/a/ii) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/9/b)
+[^c-5316db31e62cd53f517a30f788853be3]: Textual amendment: Word in [reg. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/14/a/ii) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2021/979/regulation/9/b)
 
-[^key-31118436f2858c8f9296e7a96388cce9]: Textual amendment: Word in [reg. 14(c)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/14/c) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/9/c)
+[^c-31118436f2858c8f9296e7a96388cce9]: Textual amendment: Word in [reg. 14(c)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/14/c) omitted (30.9.2021) by virtue of [The Indirect Taxes (Disclosure of Avoidance Schemes) (Amendment) Regulations 2021 (S.I. 2021/979)](https://www.legislation.gov.uk/uksi/2021/979), [regs. 1](https://www.legislation.gov.uk/uksi/2021/979/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2021/979/regulation/9/c)
 
-[^key-ff6a11c406426e78ad1c0fbccb6a167c]: Commencement: Reg. 15 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-ff6a11c406426e78ad1c0fbccb6a167c]: Commencement: Reg. 15 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
 
-[^key-a07954d02d437aec1a6cb636d6ffa652]: Commencement: Sch. in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)
+[^c-a07954d02d437aec1a6cb636d6ffa652]: Commencement: Sch. in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1)

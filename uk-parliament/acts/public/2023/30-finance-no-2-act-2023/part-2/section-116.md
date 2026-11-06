@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Temporary provision: cider[^M_I_f0b76a38-75b8-4a54-c03e-9e93b9aed657][^key-ddc9d5d8f321d0825c8f7a9398333456]
+## 116. Temporary provision: cider[^M_I_f0b76a38-75b8-4a54-c03e-9e93b9aed657][^c-ddc9d5d8f321d0825c8f7a9398333456]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Alcohol duty is not charged on cider which is produced—
 
 [^M_I_f0b76a38-75b8-4a54-c03e-9e93b9aed657]: Commencement: S. 116 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-ddc9d5d8f321d0825c8f7a9398333456]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2023/30/section/116) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/k) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-ddc9d5d8f321d0825c8f7a9398333456]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2023/30/section/116) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/k) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

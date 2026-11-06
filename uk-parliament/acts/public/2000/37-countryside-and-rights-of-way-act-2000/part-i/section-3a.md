@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Power to extend to coastal land etc: England[^key-a73cd5be612b12cfd37ce8ddd2a2746c]
+## 3A. Power to extend to coastal land etc: England[^c-a73cd5be612b12cfd37ce8ddd2a2746c]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ and references to the exclusion or restriction under Chapter 2 of access to any 
 
 ## Annotations
 
-[^key-a73cd5be612b12cfd37ce8ddd2a2746c]: Textual amendment: S. 3A inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 303(5)](https://www.legislation.gov.uk/ukpga/2009/23/section/303/5), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-a73cd5be612b12cfd37ce8ddd2a2746c]: Textual amendment: S. 3A inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 303(5)](https://www.legislation.gov.uk/ukpga/2009/23/section/303/5), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

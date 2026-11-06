@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 266. Recovery orders[^key-2d550cbb63f7615f3846a2eb6b4d00ef]
+## 266. Recovery orders[^c-2d550cbb63f7615f3846a2eb6b4d00ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,9 +52,9 @@ summary: ''
 
 (8) A recovery order may impose conditions as to the manner in which the trustee for civil recovery may deal with any property vested by the order for the purpose of realising it.
 
-(8ZA)[^key-716fe7e61d676c68096ddb935b8eafe9] If the recoverable property in respect of which the Court of Session makes a recovery order includes heritable property, the Court of Session must, on the application of the enforcement authority, also grant decree of removing and warrant for ejection, enforceable by the trustee for civil recovery, in relation to any persons occupying the heritable property.
+(8ZA)[^c-716fe7e61d676c68096ddb935b8eafe9] If the recoverable property in respect of which the Court of Session makes a recovery order includes heritable property, the Court of Session must, on the application of the enforcement authority, also grant decree of removing and warrant for ejection, enforceable by the trustee for civil recovery, in relation to any persons occupying the heritable property.
 
-(8A)[^key-90676305b756a99c9427a8232ea86309] A recovery order made by a court in England and Wales or Northern Ireland may provide for payment under section 280 of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
+(8A)[^c-90676305b756a99c9427a8232ea86309] A recovery order made by a court in England and Wales or Northern Ireland may provide for payment under section 280 of reasonable legal expenses that a person has reasonably incurred, or may reasonably incur, in respect of—
 
 - (a) the proceedings under this Part in which the order is made, or
 - (b) any related proceedings under this Part.
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2d550cbb63f7615f3846a2eb6b4d00ef]: Commencement: S. 266 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-2d550cbb63f7615f3846a2eb6b4d00ef]: Commencement: S. 266 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-716fe7e61d676c68096ddb935b8eafe9]: Textual amendment: [S. 266(8ZA)](https://www.legislation.gov.uk/ukpga/2002/29/section/266/8ZA) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/3), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)
+[^c-716fe7e61d676c68096ddb935b8eafe9]: Textual amendment: [S. 266(8ZA)](https://www.legislation.gov.uk/ukpga/2002/29/section/266/8ZA) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/3), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)
 
-[^key-90676305b756a99c9427a8232ea86309]: Textual amendment: S. 266(8A)(8B) inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/15); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)
+[^c-90676305b756a99c9427a8232ea86309]: Textual amendment: S. 266(8A)(8B) inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/15); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)

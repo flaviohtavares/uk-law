@@ -22,17 +22,17 @@ summary: ''
 
 (1) Chapter 3 of Part 15 of CTA 2009 (film tax relief) is amended as follows.
 
-(2)[^key-f6c297ccc80be3c61c616121dbfc29c4] In section 1198 (UK expenditure), in subsection (1), for “25%” substitute “ 10% ”.
+(2)[^c-f6c297ccc80be3c61c616121dbfc29c4] In section 1198 (UK expenditure), in subsection (1), for “25%” substitute “ 10% ”.
 
-(3)[^key-eb5f6a075569fe566a9db30ac528b473][^key-f6c297ccc80be3c61c616121dbfc29c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eb5f6a075569fe566a9db30ac528b473][^c-f6c297ccc80be3c61c616121dbfc29c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The amendment made by subsection (2) has[^key-8fe7b48cfa91bb49b5dfe28652737a43] effect in relation to films the principal photography of which is not completed before such day as the Treasury may specify by order.
+(4) The amendment made by subsection (2) has[^c-8fe7b48cfa91bb49b5dfe28652737a43] effect in relation to films the principal photography of which is not completed before such day as the Treasury may specify by order.
 
-(5)[^key-f36c4b7529112a3bf3a1b0c6f65f1269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f36c4b7529112a3bf3a1b0c6f65f1269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A specified day may be before the day on which the order is made, but may not be before 1 April 2014.
 
-(7) The Treasury may by order amend section 1198(1)[^key-9cee9054adffa3d0423150cee245b70d] of CTA 2009 (as amended and inserted by this section) in connection with an application for State aid approval.
+(7) The Treasury may by order amend section 1198(1)[^c-9cee9054adffa3d0423150cee245b70d] of CTA 2009 (as amended and inserted by this section) in connection with an application for State aid approval.
 
 (8) In this section “**State aid approval**” means approval that the provision made by this section, to the extent that it constitutes the granting of aid to which any of the provisions of Article 107 or 108 of the Treaty on the Functioning of the European Union applies, is, or would be, compatible with the internal market, within the meaning of Article 107 of that Treaty.
 
@@ -43,12 +43,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f6c297ccc80be3c61c616121dbfc29c4]: Commencement: S. 32(2)(3) in force at 1.4.2014 for the purposes of the amendments made by those sub-sections by [S.I. 2014/2880](https://www.legislation.gov.uk/uksi/2014/2880), [art. 2](https://www.legislation.gov.uk/uksi/2014/2880/article/2)
+[^c-f6c297ccc80be3c61c616121dbfc29c4]: Commencement: S. 32(2)(3) in force at 1.4.2014 for the purposes of the amendments made by those sub-sections by [S.I. 2014/2880](https://www.legislation.gov.uk/uksi/2014/2880), [art. 2](https://www.legislation.gov.uk/uksi/2014/2880/article/2)
 
-[^key-eb5f6a075569fe566a9db30ac528b473]: Textual amendment: S. 32(3) omitted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/a); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-eb5f6a075569fe566a9db30ac528b473]: Textual amendment: S. 32(3) omitted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/a); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
 
-[^key-8fe7b48cfa91bb49b5dfe28652737a43]: Textual amendment: Words in s. 32(4) substituted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/b); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-8fe7b48cfa91bb49b5dfe28652737a43]: Textual amendment: Words in s. 32(4) substituted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/b); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
 
-[^key-f36c4b7529112a3bf3a1b0c6f65f1269]: Textual amendment: S. 32(5) omitted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/c); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-f36c4b7529112a3bf3a1b0c6f65f1269]: Textual amendment: S. 32(5) omitted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/c); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
 
-[^key-9cee9054adffa3d0423150cee245b70d]: Textual amendment: Words in s. 32(7) substituted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(d)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/d); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-9cee9054adffa3d0423150cee245b70d]: Textual amendment: Words in s. 32(7) substituted (1.4.2015, with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(7)(d)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/7/d); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)

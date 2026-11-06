@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4B — Transfers of value by trustees linked with trustee borrowing[^key-0db68eb140b277f1c5da0b5be05cf4d5]
+## SCHEDULE 4B — Transfers of value by trustees linked with trustee borrowing[^c-0db68eb140b277f1c5da0b5be05cf4d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 **1.** (1) This Schedule applies where trustees of a settlement—
 
-- (a) make a transfer of value (see paragraph 2) in a year of assessment in which the settlement is within section [^key-2341a0d75864cba2a777713a99b2d693]... 86 or 87 (see paragraph 3), and
+- (a) make a transfer of value (see paragraph 2) in a year of assessment in which the settlement is within section [^c-2341a0d75864cba2a777713a99b2d693]... 86 or 87 (see paragraph 3), and
 - (b) in accordance with this Schedule the transfer of value is treated as linked with trustee borrowing (see paragraphs 4 to 9).
 
 (2) Where this Schedule applies the trustees are treated as disposing of and immediately reacquiring the whole or a proportion of each of the chargeable assets that continue to form part of the settled property (see paragraphs 10 to 13).
@@ -54,11 +54,11 @@ The effective completion of a transfer means the point at which the person acqui
 
 (6) References in this paragraph to the value of an asset are to its value immediately before the material time, unless the asset does not exist before that time in which case its value immediately after that time shall be taken.
 
-### Settlements within section ... 86 or 87[^key-7ba701c6f3903b941203b7bc09b924cd]
+### Settlements within section ... 86 or 87[^c-7ba701c6f3903b941203b7bc09b924cd]
 
-**3.** (1) This paragraph explains what is meant in this Schedule by a settlement being “within section [^key-dc09c47901d20907d7714514760a0b61]... 86 or 87” in a year of assessment.
+**3.** (1) This paragraph explains what is meant in this Schedule by a settlement being “within section [^c-dc09c47901d20907d7714514760a0b61]... 86 or 87” in a year of assessment.
 
-(2)[^key-2165580f7e4f8ec421a237e568a3200d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2165580f7e4f8ec421a237e568a3200d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A settlement is “within section 86” in a year of assessment if, assuming—
 
@@ -69,7 +69,7 @@ chargeable gains would, under that section, be treated as accruing to the settlo
 
 Expressions used in this sub-paragraph have the same meaning as in section 86.
 
-(4)[^key-72543019fc7e6882abee8dea477123a6] A settlement is “within section 87” for a tax year if—
+(4)[^c-72543019fc7e6882abee8dea477123a6] A settlement is “within section 87” for a tax year if—
 
 - (a) section 87 applies to the settlement for that year, or
 - (b) chargeable gains would be treated under section 89(2) as accruing in that year to a beneficiary who received a capital payment from the trustees of the settlement in that year.
@@ -255,14 +255,14 @@ References to the value or market value of such an asset are to its amount.
 
 ## Annotations
 
-[^key-0db68eb140b277f1c5da0b5be05cf4d5]: Textual amendment: Sch. 4B inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 92(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/92/2), [Sch. 25](https://www.legislation.gov.uk/ukpga/2000/17/schedule/25)
+[^c-0db68eb140b277f1c5da0b5be05cf4d5]: Textual amendment: Sch. 4B inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 92(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/92/2), [Sch. 25](https://www.legislation.gov.uk/ukpga/2000/17/schedule/25)
 
-[^key-2341a0d75864cba2a777713a99b2d693]: Textual amendment: Word in Sch. 4B para. 1(1) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/2)
+[^c-2341a0d75864cba2a777713a99b2d693]: Textual amendment: Word in Sch. 4B para. 1(1) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/2)
 
-[^key-7ba701c6f3903b941203b7bc09b924cd]: Textual amendment: Word in Sch. 4B para. 3 cross-heading omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/3)
+[^c-7ba701c6f3903b941203b7bc09b924cd]: Textual amendment: Word in Sch. 4B para. 3 cross-heading omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/3)
 
-[^key-dc09c47901d20907d7714514760a0b61]: Textual amendment: Word in Sch. 4B para. 3(1) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/3/a)
+[^c-dc09c47901d20907d7714514760a0b61]: Textual amendment: Word in Sch. 4B para. 3(1) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/3/a)
 
-[^key-2165580f7e4f8ec421a237e568a3200d]: Textual amendment: Sch. 4B para. 3(2) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/3/b)
+[^c-2165580f7e4f8ec421a237e568a3200d]: Textual amendment: Sch. 4B para. 3(2) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/8/3/b)
 
-[^key-72543019fc7e6882abee8dea477123a6]: Textual amendment: Sch. 4B para. 3(4)(5) substituted for Sch. 4B para. 3(4) (with effect in accordance with Sch. 7 para. 147 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 130](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/130) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))
+[^c-72543019fc7e6882abee8dea477123a6]: Textual amendment: Sch. 4B para. 3(4)(5) substituted for Sch. 4B para. 3(4) (with effect in accordance with Sch. 7 para. 147 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 130](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/130) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))

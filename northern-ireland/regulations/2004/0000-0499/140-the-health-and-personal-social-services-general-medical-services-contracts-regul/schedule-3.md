@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — LIST OF PRESCRIBED MEDICAL CERTIFICATES[^key-eb4e06b766ef5fd634863e762c3041b4]
+## SCHEDULE 3 — LIST OF PRESCRIBED MEDICAL CERTIFICATES[^c-eb4e06b766ef5fd634863e762c3041b4]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ Regulation 21
 
 ## Annotations
 
-[^key-eb4e06b766ef5fd634863e762c3041b4]: Commencement: Sch. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-eb4e06b766ef5fd634863e762c3041b4]: Commencement: Sch. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00050]: Footnote: [28 & 29 Vict. c. 73](https://www.legislation.gov.uk/ukpga/1865/73).
 

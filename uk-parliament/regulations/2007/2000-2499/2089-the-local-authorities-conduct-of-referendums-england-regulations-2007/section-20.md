@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Non-domestic rating: premises used for referendum purposes[^key-f949a042313fa36875fe8368de1982a1]
+## 20. Non-domestic rating: premises used for referendum purposes[^c-f949a042313fa36875fe8368de1982a1]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In relation to premises in a voting area, section 65(6) of the Local Government 
 
 ## Annotations
 
-[^key-f949a042313fa36875fe8368de1982a1]: Commencement: Reg. 20 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-f949a042313fa36875fe8368de1982a1]: Commencement: Reg. 20 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00029]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); there are no relevant amendments.

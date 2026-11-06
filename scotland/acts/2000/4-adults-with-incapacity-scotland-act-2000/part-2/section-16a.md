@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16A. Continuing and welfare power of attorney: accompanying certificate[^key-2f109f8db69b3c6a67e1975b3d78e1fa]
+## 16A. Continuing and welfare power of attorney: accompanying certificate[^c-2f109f8db69b3c6a67e1975b3d78e1fa]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ the validity requirements imposed by sections 15(3)(c) and 16(3)(c) may be satis
 
 ## Annotations
 
-[^key-2f109f8db69b3c6a67e1975b3d78e1fa]: Textual amendment: S. 16A inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 57(3)](https://www.legislation.gov.uk/asp/2007/10/section/57/3), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-2f109f8db69b3c6a67e1975b3d78e1fa]: Textual amendment: S. 16A inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 57(3)](https://www.legislation.gov.uk/asp/2007/10/section/57/3), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

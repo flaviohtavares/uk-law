@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Provision for pensioners and persons who are not pensioners[^key-e30276c2d7902158f1da4da8535fcea3]
+## 34. Provision for pensioners and persons who are not pensioners[^c-e30276c2d7902158f1da4da8535fcea3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e30276c2d7902158f1da4da8535fcea3]: Commencement: Reg. 34 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e30276c2d7902158f1da4da8535fcea3]: Commencement: Reg. 34 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

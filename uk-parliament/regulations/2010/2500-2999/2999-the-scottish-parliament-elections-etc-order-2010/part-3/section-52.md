@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Penalty for sitting or voting where no return and declaration is transmitted[^key-7bc89eb72e7bb51a4ed947821cd2e45c]
+## 52. Penalty for sitting or voting where no return and declaration is transmitted[^c-7bc89eb72e7bb51a4ed947821cd2e45c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bc89eb72e7bb51a4ed947821cd2e45c]: Commencement: Art. 52 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7bc89eb72e7bb51a4ed947821cd2e45c]: Commencement: Art. 52 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

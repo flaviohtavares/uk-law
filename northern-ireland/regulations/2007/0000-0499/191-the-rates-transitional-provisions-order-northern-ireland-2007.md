@@ -43,7 +43,7 @@ The Department of Finance and Personnel, in exercise of the powers conferred by 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-473e8cedc074a3c8b7d2eb4c572d2367]
+### 1. Citation, commencement and interpretation[^c-473e8cedc074a3c8b7d2eb4c572d2367]
 
 (1) This Order may be cited as the Rates (Transitional Provisions) Order (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
 
@@ -51,7 +51,7 @@ The Department of Finance and Personnel, in exercise of the powers conferred by 
 
 ## PART 2 — Specified hereditaments
 
-### 2. Interpretation of Part 2[^key-1a808fd9e5c26ad3ed4ae131562ca10b]
+### 2. Interpretation of Part 2[^c-1a808fd9e5c26ad3ed4ae131562ca10b]
 
 In this Part—
 
@@ -68,7 +68,7 @@ In this Part—
   which, immediately before the coming into operation of this Order, is included in the valuation list then in force;
 - “transitional net annual value” shall be construed in accordance with Article 3.
 
-### 3. Transitional net annual value[^key-d44f51142b450e213509f0b8dece0a99]
+### 3. Transitional net annual value[^c-d44f51142b450e213509f0b8dece0a99]
 
 The transitional net annual value of a specified hereditament shall be determined in accordance with the formula—
 
@@ -80,7 +80,7 @@ where—
 - *B* is the conversion factor for the district in which the hereditament is situated as set out in the Schedule; and
 - *C* is the transitional net annual value.
 
-### 4. Liability to be rated according to transitional net annual value[^key-d0ea56b883410b99c0596947fc935523]
+### 4. Liability to be rated according to transitional net annual value[^c-d0ea56b883410b99c0596947fc935523]
 
 (1) Subject to paragraphs (2) and (3), a person shall be chargeable to rates in respect of a specified hereditament according to its transitional net annual value rather than its rateable net annual value.
 
@@ -90,7 +90,7 @@ where—
 
 ## PART 3 — Applications under Article 49 of the 1977 Order
 
-### 5. Applications under Article 49 of the 1977 Order[^key-f84d9a1daea0daad966cc7508f3a0289]
+### 5. Applications under Article 49 of the 1977 Order[^c-f84d9a1daea0daad966cc7508f3a0289]
 
 (1) Paragraph 8 of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006 shall not have any effect in relation to an application for revision of a valuation list in relation to any hereditament which is served on the district valuer under Article 49 of the 1977 Order before the coming into operation of this Order.
 
@@ -102,7 +102,7 @@ Brian McClure
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — Conversion factors for districts[^key-f36d94f56d6762dfc13e47c26b4c378a]
+## SCHEDULE — Conversion factors for districts[^c-f36d94f56d6762dfc13e47c26b4c378a]
 
 Article 3
 
@@ -150,11 +150,11 @@ Article 5 of this Order provides that the provisions of the 2006 Order relating 
 
 [^f00001]: Footnote: [S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954)
 
-[^key-473e8cedc074a3c8b7d2eb4c572d2367]: Commencement: Art. 1 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
+[^c-473e8cedc074a3c8b7d2eb4c572d2367]: Commencement: Art. 1 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)
 
-[^key-1a808fd9e5c26ad3ed4ae131562ca10b]: Commencement: Art. 2 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
+[^c-1a808fd9e5c26ad3ed4ae131562ca10b]: Commencement: Art. 2 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
 
 [^f00003]: Footnote: Paragraph 4ZA was inserted by paragraph 41(6) of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006
 
@@ -162,10 +162,10 @@ Article 5 of this Order provides that the provisions of the 2006 Order relating 
 
 [^f00005]: Footnote: Paragraph 4A of Schedule 5 was inserted by Article 8 of the Rates (Amendment) (Northern Ireland) Order 1998 ([S.I. 1998/3164 (N.I. 22)](https://www.legislation.gov.uk/nisi/1998/3164)) and was repealed by paragraph 41(7) of Schedule 2 and Schedule 3 to the Rates (Amendment) (Northern Ireland) Order 2006
 
-[^key-d44f51142b450e213509f0b8dece0a99]: Commencement: Art. 3 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
+[^c-d44f51142b450e213509f0b8dece0a99]: Commencement: Art. 3 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
 
-[^key-d0ea56b883410b99c0596947fc935523]: Commencement: Art. 4 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
+[^c-d0ea56b883410b99c0596947fc935523]: Commencement: Art. 4 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
 
-[^key-f84d9a1daea0daad966cc7508f3a0289]: Commencement: Art. 5 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
+[^c-f84d9a1daea0daad966cc7508f3a0289]: Commencement: Art. 5 in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
 
-[^key-f36d94f56d6762dfc13e47c26b4c378a]: Commencement: Sch. in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)
+[^c-f36d94f56d6762dfc13e47c26b4c378a]: Commencement: Sch. in operation at 1.4.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2007/191/article/1/1)

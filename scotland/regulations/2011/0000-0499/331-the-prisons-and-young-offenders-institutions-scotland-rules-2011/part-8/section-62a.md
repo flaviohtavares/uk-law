@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62A. Communication by authorised personal communication device[^key-b3b7721b35febb609ad348f84ac4d692]
+## 62A. Communication by authorised personal communication device[^c-b3b7721b35febb609ad348f84ac4d692]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b7721b35febb609ad348f84ac4d692]: Textual amendment: Rules 62, 62A substituted for rule 62 (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/6)
+[^c-b3b7721b35febb609ad348f84ac4d692]: Textual amendment: Rules 62, 62A substituted for rule 62 (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24G. Meaning of “infringing article”[^key-1100f7756af3f614817029d759c5864c]
+## 24G. Meaning of “infringing article”[^c-1100f7756af3f614817029d759c5864c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,15 +33,15 @@ summary: ''
 
 (5) Nothing in subsection (3) shall be construed as applying to an article which—
 
-- (a)[^key-37ed46ab8b3baae25e05b2569b9e0a83] may be lawfully imported into the United Kingdom by virtue of anything which forms part of assimilated law as a result of section 3 of the European Union (Withdrawal) Act 2018, or
+- (a)[^c-37ed46ab8b3baae25e05b2569b9e0a83] may be lawfully imported into the United Kingdom by virtue of anything which forms part of assimilated law as a result of section 3 of the European Union (Withdrawal) Act 2018, or
 - (b) has been or is proposed to be imported into the United Kingdom after being put on the market in the European Economic Area by or with the consent of the proprietor of the registered design.
 
-(6)[^key-564b6a2505b4a9c407ed9d1c708b4e48] In subsection (5)(a), the reference to assimilated law is to be read, until the coming into force of paragraph 2(6) of Schedule 2 to the Retained EU Law (Revocation and Reform) Act 2023, as a reference to retained EU law.
+(6)[^c-564b6a2505b4a9c407ed9d1c708b4e48] In subsection (5)(a), the reference to assimilated law is to be read, until the coming into force of paragraph 2(6) of Schedule 2 to the Retained EU Law (Revocation and Reform) Act 2023, as a reference to retained EU law.
 
 ## Annotations
 
-[^key-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)
+[^c-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)
 
-[^key-37ed46ab8b3baae25e05b2569b9e0a83]: Textual amendment: [S. 24G(5)(a)(b)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24G/5) substituted for words (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/2/a)
+[^c-37ed46ab8b3baae25e05b2569b9e0a83]: Textual amendment: [S. 24G(5)(a)(b)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24G/5) substituted for words (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [2(a)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/2/a)
 
-[^key-564b6a2505b4a9c407ed9d1c708b4e48]: Textual amendment: [S. 24G(6)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24G/6) inserted (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/2/b)
+[^c-564b6a2505b4a9c407ed9d1c708b4e48]: Textual amendment: [S. 24G(6)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24G/6) inserted (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/2/b)

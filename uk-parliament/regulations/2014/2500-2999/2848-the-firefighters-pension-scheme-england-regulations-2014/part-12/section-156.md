@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Reference of appeal to the board[^key-589b1a429eff36dce06f2b8aa15de97c]
+## 156. Reference of appeal to the board[^c-589b1a429eff36dce06f2b8aa15de97c]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-589b1a429eff36dce06f2b8aa15de97c]: Commencement: [Reg. 156](https://www.legislation.gov.uk/uksi/2014/2848/regulation/156) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-589b1a429eff36dce06f2b8aa15de97c]: Commencement: [Reg. 156](https://www.legislation.gov.uk/uksi/2014/2848/regulation/156) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

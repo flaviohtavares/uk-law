@@ -28,7 +28,7 @@ This is subject to paragraphs (2) to (4).
 
 (3) The Board may, in particular, grant approval under paragraph (1) if, as respects any year in which a person is both an employed earner and a self-employed earner, the condition in paragraph (4) is satisfied.
 
-(4) The condition is that the Board are satisfied that the total amounts of primary Class 1 contributions and Class 2 contributions[^key-34dca4ecfa8be446c7bcc252515a0da1] likely to be paid by or in respect of that person in respect of that year will exceed the amount equal to 53 primary Class 1 contributions payable on earnings at the upper earnings limit for that year at the main primary percentage[^key-19bc8973071d5fd4d3f6a85b493ef72a].
+(4) The condition is that the Board are satisfied that the total amounts of primary Class 1 contributions and Class 2 contributions[^c-34dca4ecfa8be446c7bcc252515a0da1] likely to be paid by or in respect of that person in respect of that year will exceed the amount equal to 53 primary Class 1 contributions payable on earnings at the upper earnings limit for that year at the main primary percentage[^c-19bc8973071d5fd4d3f6a85b493ef72a].
 
 (5) The provisions of these Regulations shall, subject to the provisions of the arrangements, apply to the person affected by the arrangements.
 
@@ -36,6 +36,6 @@ This is subject to paragraphs (2) to (4).
 
 ## Annotations
 
-[^key-34dca4ecfa8be446c7bcc252515a0da1]: Textual amendment: Words in reg. 90(4) substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2003/193/regulation/10/a)
+[^c-34dca4ecfa8be446c7bcc252515a0da1]: Textual amendment: Words in reg. 90(4) substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2003/193/regulation/10/a)
 
-[^key-19bc8973071d5fd4d3f6a85b493ef72a]: Textual amendment: Words in reg. 90(4) substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2003/193/regulation/10/b)
+[^c-19bc8973071d5fd4d3f6a85b493ef72a]: Textual amendment: Words in reg. 90(4) substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2003/193/regulation/10/b)

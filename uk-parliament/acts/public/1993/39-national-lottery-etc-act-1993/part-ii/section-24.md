@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-At such times as the Secretary of State thinks appropriate, payments of such amounts as he thinks appropriate may be made to a body specified in section 23 or in an order under section 29A[^key-0bf5f81d38747eac025b61ba92070564] out of so much of any money in the Distribution Fund as is held for distribution by that body.
+At such times as the Secretary of State thinks appropriate, payments of such amounts as he thinks appropriate may be made to a body specified in section 23 or in an order under section 29A[^c-0bf5f81d38747eac025b61ba92070564] out of so much of any money in the Distribution Fund as is held for distribution by that body.
 
 ## Annotations
 
-[^key-0bf5f81d38747eac025b61ba92070564]: Textual amendment: Words in s. 24 inserted (1.10.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/8/2), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/b)
+[^c-0bf5f81d38747eac025b61ba92070564]: Textual amendment: Words in s. 24 inserted (1.10.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/8/2), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/b)

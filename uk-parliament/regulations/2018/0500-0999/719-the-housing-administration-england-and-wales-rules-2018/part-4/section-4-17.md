@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.17. Procedure for examination[^key-ec0f9fc655cdb8727bbac1fb5cd4a279]
+## 4.17. Procedure for examination[^c-ec0f9fc655cdb8727bbac1fb5cd4a279]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec0f9fc655cdb8727bbac1fb5cd4a279]: Commencement: Rule 4.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-ec0f9fc655cdb8727bbac1fb5cd4a279]: Commencement: Rule 4.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

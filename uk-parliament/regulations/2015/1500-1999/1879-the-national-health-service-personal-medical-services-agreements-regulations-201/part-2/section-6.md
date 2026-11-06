@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where NHS England[^key-9520329cffeb7671913a444ac58ebf84] considers that the conditions in regulation 5 for entering into an agreement are not met, it must give notice in writing to the person or persons intending to enter into the agreement of—
+(1) Where NHS England[^c-9520329cffeb7671913a444ac58ebf84] considers that the conditions in regulation 5 for entering into an agreement are not met, it must give notice in writing to the person or persons intending to enter into the agreement of—
 
 - (a) its view and the reasons for that view; and
 - (b) the right of appeal under regulation 7.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

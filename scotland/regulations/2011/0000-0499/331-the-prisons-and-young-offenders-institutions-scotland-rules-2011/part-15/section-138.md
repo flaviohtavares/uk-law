@@ -26,7 +26,7 @@ summary: ''
 - (b) the manner in which the Governor must consider an application for any form of temporary release;
 - (c) the manner in which the Governor must assess the risk that the prisoner may abscond or pose a danger to the public;
 - (d) the relevant criteria about which the Governor must be satisfied before granting any form of temporary release;
-- (e)[^key-f528161170ceafb6d6fbc138278174e9] the conditions or types of conditions which may be imposed by the Governor on any grant of temporary release;
+- (e)[^c-f528161170ceafb6d6fbc138278174e9] the conditions or types of conditions which may be imposed by the Governor on any grant of temporary release;
 - (f) the timing and duration of any form of temporary release and the frequency with which it may be granted to an eligible prisoner; and
 - (g) the persons who are to be treated as a near relative of the prisoner.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f528161170ceafb6d6fbc138278174e9]: Textual amendment: Rule 138(1)(e) substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(15)](https://www.legislation.gov.uk/ssi/2012/26/article/2/15)
+[^c-f528161170ceafb6d6fbc138278174e9]: Textual amendment: Rule 138(1)(e) substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(15)](https://www.legislation.gov.uk/ssi/2012/26/article/2/15)

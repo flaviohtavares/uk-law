@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The South Sudan (European Union Financial Sanctions) Regulations 2014 (revoked)[^key-9697caa8de2fe854f93059af6785b9ce]
+The South Sudan (European Union Financial Sanctions) Regulations 2014 (revoked)[^c-9697caa8de2fe854f93059af6785b9ce]
 
 Made
 
@@ -46,122 +46,122 @@ Coming into force
 
 *at 3.30 p.m.* on 11th July 2014
 
-[^key-9697caa8de2fe854f93059af6785b9ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9697caa8de2fe854f93059af6785b9ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-9697caa8de2fe854f93059af6785b9ce]
+## PART 1 — General[^c-9697caa8de2fe854f93059af6785b9ce]
 
-### 1. Citation, commencement and application[^key-9697caa8de2fe854f93059af6785b9ce]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-9697caa8de2fe854f93059af6785b9ce]
+### 1. Citation, commencement and application[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Funds and Economic Resources[^key-9697caa8de2fe854f93059af6785b9ce]
-
-### 3. Freezing of funds and economic resources[^key-9697caa8de2fe854f93059af6785b9ce]
+### 2. Interpretation[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Making funds available to a designated person[^key-9697caa8de2fe854f93059af6785b9ce]
+## PART 2 — Funds and Economic Resources[^c-9697caa8de2fe854f93059af6785b9ce]
+
+### 3. Freezing of funds and economic resources[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Making funds available for the benefit of a designated person[^key-9697caa8de2fe854f93059af6785b9ce]
+### 4. Making funds available to a designated person[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Making economic resources available to a designated person[^key-9697caa8de2fe854f93059af6785b9ce]
+### 5. Making funds available for the benefit of a designated person[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Making economic resources available for the benefit of a designated person[^key-9697caa8de2fe854f93059af6785b9ce]
+### 6. Making economic resources available to a designated person[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Credits to a frozen account[^key-9697caa8de2fe854f93059af6785b9ce]
+### 7. Making economic resources available for the benefit of a designated person[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Licences[^key-9697caa8de2fe854f93059af6785b9ce]
+### 8. Credits to a frozen account[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Offences[^key-9697caa8de2fe854f93059af6785b9ce]
-
-### 10. Contravention and circumvention of prohibitions[^key-9697caa8de2fe854f93059af6785b9ce]
+### 9. Licences[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Officers of a body corporate etc.[^key-9697caa8de2fe854f93059af6785b9ce]
+## PART 3 — Offences[^c-9697caa8de2fe854f93059af6785b9ce]
+
+### 10. Contravention and circumvention of prohibitions[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Penalties[^key-9697caa8de2fe854f93059af6785b9ce]
+### 11. Officers of a body corporate etc.[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Proceedings[^key-9697caa8de2fe854f93059af6785b9ce]
+### 12. Penalties[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Consent to prosecution[^key-9697caa8de2fe854f93059af6785b9ce]
+### 13. Proceedings[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-9697caa8de2fe854f93059af6785b9ce]
-
-### 15. Information provisions[^key-9697caa8de2fe854f93059af6785b9ce]
+### 14. Consent to prosecution[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Notices[^key-9697caa8de2fe854f93059af6785b9ce]
+## PART 4 — Miscellaneous[^c-9697caa8de2fe854f93059af6785b9ce]
+
+### 15. Information provisions[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. The Crown[^key-9697caa8de2fe854f93059af6785b9ce]
+### 16. Notices[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9697caa8de2fe854f93059af6785b9ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. The Crown[^c-9697caa8de2fe854f93059af6785b9ce]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9697caa8de2fe854f93059af6785b9ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information Provisions[^key-9697caa8de2fe854f93059af6785b9ce]
+## SCHEDULE — Information Provisions[^c-9697caa8de2fe854f93059af6785b9ce]
 
 Regulation 15
 
-### 1. Reporting obligations of relevant institutions[^key-9697caa8de2fe854f93059af6785b9ce]
+### 1. Reporting obligations of relevant institutions[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-9697caa8de2fe854f93059af6785b9ce]
+### 2. Powers to request information[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-9697caa8de2fe854f93059af6785b9ce]
+### 3. Production of documents[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-9697caa8de2fe854f93059af6785b9ce]
+### 4. Failure to comply with request for information[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General powers to disclose information[^key-9697caa8de2fe854f93059af6785b9ce]
+### 5. General powers to disclose information[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-9697caa8de2fe854f93059af6785b9ce]
+### 6. Application of provisions[^c-9697caa8de2fe854f93059af6785b9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9697caa8de2fe854f93059af6785b9ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9697caa8de2fe854f93059af6785b9ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9697caa8de2fe854f93059af6785b9ce]: Textual amendment: Regulations revoked (with effect in accordance with reg. 1 of the amending S.I.) by [The South Sudan (European Union Financial Sanctions) (No. 2) Regulations 2015 (S.I. 2015/1361)](https://www.legislation.gov.uk/uksi/2015/1361), [reg. 18](https://www.legislation.gov.uk/uksi/2015/1361/regulation/18) (with [regs. 17](https://www.legislation.gov.uk/uksi/2015/1361/regulation/17), [19](https://www.legislation.gov.uk/uksi/2015/1361/regulation/19))
+[^c-9697caa8de2fe854f93059af6785b9ce]: Textual amendment: Regulations revoked (with effect in accordance with reg. 1 of the amending S.I.) by [The South Sudan (European Union Financial Sanctions) (No. 2) Regulations 2015 (S.I. 2015/1361)](https://www.legislation.gov.uk/uksi/2015/1361), [reg. 18](https://www.legislation.gov.uk/uksi/2015/1361/regulation/18) (with [regs. 17](https://www.legislation.gov.uk/uksi/2015/1361/regulation/17), [19](https://www.legislation.gov.uk/uksi/2015/1361/regulation/19))

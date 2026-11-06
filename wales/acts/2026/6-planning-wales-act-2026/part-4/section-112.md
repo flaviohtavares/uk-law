@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Expressions used in connection with enforcement[^key-c4aa6857fa469c3db37c2dc36c6344b0]
+## 112. Expressions used in connection with enforcement[^c-c4aa6857fa469c3db37c2dc36c6344b0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4aa6857fa469c3db37c2dc36c6344b0]: Commencement: S. 112 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c4aa6857fa469c3db37c2dc36c6344b0]: Commencement: S. 112 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

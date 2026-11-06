@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171F. Temporary stop notice: restrictions[^key-20342f9292d6e85d7b7d691d6b50d95f]
+## 171F. Temporary stop notice: restrictions[^c-20342f9292d6e85d7b7d691d6b50d95f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20342f9292d6e85d7b7d691d6b50d95f]: Textual amendment: Ss. 171E-171H and cross-heading inserted (6.8.2004 for specified purposes, 7.3.2005 for E. so far as not already in force, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 52](https://www.legislation.gov.uk/ukpga/2004/5/section/52), [s. 121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)
+[^c-20342f9292d6e85d7b7d691d6b50d95f]: Textual amendment: Ss. 171E-171H and cross-heading inserted (6.8.2004 for specified purposes, 7.3.2005 for E. so far as not already in force, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 52](https://www.legislation.gov.uk/ukpga/2004/5/section/52), [s. 121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)

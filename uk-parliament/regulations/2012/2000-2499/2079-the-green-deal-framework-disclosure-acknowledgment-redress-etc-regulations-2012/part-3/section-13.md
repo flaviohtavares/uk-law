@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Green deal installer certification bodies[^key-ea8df2cbe3d469bfd0f0b1356216112f]
+## 13. Green deal installer certification bodies[^c-ea8df2cbe3d469bfd0f0b1356216112f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea8df2cbe3d469bfd0f0b1356216112f]: Commencement: Reg. 13 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-ea8df2cbe3d469bfd0f0b1356216112f]: Commencement: Reg. 13 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

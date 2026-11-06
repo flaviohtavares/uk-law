@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273A. Insurance company liable as scheme administrator[^key-1b62e0f8ae29686c9d4177e623bcee40]
+## 273A. Insurance company liable as scheme administrator[^c-1b62e0f8ae29686c9d4177e623bcee40]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Board of Inland Revenue may make regulations in relation to cases where an insurance company makes a payment of—
 
 - (a) a pension protection lump sum death benefit,
-- (b) an annuity protection lump sum death benefit, [^key-3b36179c5b35bef7d3dfa37565ac0ecb]...
-- (c)[^key-b03819bbad1958dd8e2278905decca9e] a drawdown pension fund lump sum death benefit, or[^key-af1ca99a5d118f2ccf0253533fbf9f7a]
+- (b) an annuity protection lump sum death benefit, [^c-3b36179c5b35bef7d3dfa37565ac0ecb]...
+- (c)[^c-b03819bbad1958dd8e2278905decca9e] a drawdown pension fund lump sum death benefit, or[^c-af1ca99a5d118f2ccf0253533fbf9f7a]
 - (d) a flexi-access drawdown fund lump sum death benefit,
 
 which (by virtue of section 161(3) and (4)) is treated for the purposes of Chapter 3 as made by a registered pension scheme.
@@ -38,10 +38,10 @@ which (by virtue of section 161(3) and (4)) is treated for the purposes of Chapt
 
 ## Annotations
 
-[^key-1b62e0f8ae29686c9d4177e623bcee40]: Textual amendment: S. 273A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 49(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/49/1), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-1b62e0f8ae29686c9d4177e623bcee40]: Textual amendment: S. 273A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 49(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/49/1), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-3b36179c5b35bef7d3dfa37565ac0ecb]: Textual amendment: Word in s. 273A(1)(b) omitted (17.12.2014) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/17/a)
+[^c-3b36179c5b35bef7d3dfa37565ac0ecb]: Textual amendment: Word in s. 273A(1)(b) omitted (17.12.2014) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/17/a)
 
-[^key-b03819bbad1958dd8e2278905decca9e]: Textual amendment: S. 273A(1)(c) substituted (with effect in accordance with Sch. 16 paras. 85, 103 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 76](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/76)
+[^c-b03819bbad1958dd8e2278905decca9e]: Textual amendment: S. 273A(1)(c) substituted (with effect in accordance with Sch. 16 paras. 85, 103 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 76](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/76)
 
-[^key-af1ca99a5d118f2ccf0253533fbf9f7a]: Textual amendment: S. 273A(1)(d) and preceding word inserted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/17/b)
+[^c-af1ca99a5d118f2ccf0253533fbf9f7a]: Textual amendment: S. 273A(1)(d) and preceding word inserted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/17/b)

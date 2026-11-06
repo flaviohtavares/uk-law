@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Consultation and parliamentary procedure[^key-b909ba439bb6a12e5b6a875f4c30e4a5][^key-047d8ff3b14163de73007744b587c97c]
+## 173. Consultation and parliamentary procedure[^c-b909ba439bb6a12e5b6a875f4c30e4a5][^c-047d8ff3b14163de73007744b587c97c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ on a draft of the statement.
 
 ## Annotations
 
-[^key-b909ba439bb6a12e5b6a875f4c30e4a5]: Commencement: S. 173 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b909ba439bb6a12e5b6a875f4c30e4a5]: Commencement: S. 173 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-047d8ff3b14163de73007744b587c97c]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2023/50/section/173) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-047d8ff3b14163de73007744b587c97c]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2023/50/section/173) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

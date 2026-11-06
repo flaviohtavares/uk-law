@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^key-e113793fbacb7fafd4f854e4e5a0f6d2]
+## 90. Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^c-e113793fbacb7fafd4f854e4e5a0f6d2]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ire
 
 ## Annotations
 
-[^key-e113793fbacb7fafd4f854e4e5a0f6d2]: Commencement: Reg. 90 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e113793fbacb7fafd4f854e4e5a0f6d2]: Commencement: Reg. 90 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00151]: Footnote: [S.R. (N.I.) 1996/618](https://www.legislation.gov.uk/nisr/1996/618). Paragraph 6 of Schedule 2 was substituted by [S.R. (N.I.) 1997/160](https://www.legislation.gov.uk/nisr/1997/160) and amended by [S.R. (N.I.) 2016/158](https://www.legislation.gov.uk/nisr/2016/158).

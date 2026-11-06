@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England
 
-The Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products (Amendment) (England) Regulations 2009 (revoked)[^key-3dc670e038111787ebbfe333f03ce2c9]
+The Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products (Amendment) (England) Regulations 2009 (revoked)[^c-3dc670e038111787ebbfe333f03ce2c9]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 23rd December 2009
 
-[^key-3dc670e038111787ebbfe333f03ce2c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3dc670e038111787ebbfe333f03ce2c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-3dc670e038111787ebbfe333f03ce2c9]
+## 1. Citation, application and commencement[^c-3dc670e038111787ebbfe333f03ce2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2005[^key-3dc670e038111787ebbfe333f03ce2c9]
+## 2. Amendment to the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2005[^c-3dc670e038111787ebbfe333f03ce2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3dc670e038111787ebbfe333f03ce2c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3dc670e038111787ebbfe333f03ce2c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3dc670e038111787ebbfe333f03ce2c9]EXPLANATORY NOTE
+[^c-3dc670e038111787ebbfe333f03ce2c9]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ A full regulatory impact assessment was produced in relation to the Volatile Org
 
 ## Annotations
 
-[^key-3dc670e038111787ebbfe333f03ce2c9]: Textual amendment: Regulations revoked (27.7.2012) by [The Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012 (S.I. 2012/1715)](https://www.legislation.gov.uk/uksi/2012/1715), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/10/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3))
+[^c-3dc670e038111787ebbfe333f03ce2c9]: Textual amendment: Regulations revoked (27.7.2012) by [The Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012 (S.I. 2012/1715)](https://www.legislation.gov.uk/uksi/2012/1715), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2012/1715/regulation/10/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/1715/regulation/3))

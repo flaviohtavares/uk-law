@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8ZA. Qualifying investments for a Lifetime ISA component[^key-5669c6f96dacb542979fa1b104a8ee69]
+## 8ZA. Qualifying investments for a Lifetime ISA component[^c-5669c6f96dacb542979fa1b104a8ee69]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The kind of investments (â€œqualifying investments for a Lifetime ISA componentâ
 
 ## Annotations
 
-[^key-5669c6f96dacb542979fa1b104a8ee69]: Textual amendment: [Reg. 8ZA](https://www.legislation.gov.uk/uksi/1998/1870/regulation/8ZA) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [19](https://www.legislation.gov.uk/uksi/2017/466/regulation/19)
+[^c-5669c6f96dacb542979fa1b104a8ee69]: Textual amendment: [Reg. 8ZA](https://www.legislation.gov.uk/uksi/1998/1870/regulation/8ZA) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [19](https://www.legislation.gov.uk/uksi/2017/466/regulation/19)

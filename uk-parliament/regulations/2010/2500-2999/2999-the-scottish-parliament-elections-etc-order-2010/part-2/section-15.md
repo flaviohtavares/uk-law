@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Officers of councils to be placed at disposal of returning officers[^key-6a1c1bf126d621f2f0f2c03b48468eed]
+## 15. Officers of councils to be placed at disposal of returning officers[^c-6a1c1bf126d621f2f0f2c03b48468eed]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a1c1bf126d621f2f0f2c03b48468eed]: Commencement: Art. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6a1c1bf126d621f2f0f2c03b48468eed]: Commencement: Art. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

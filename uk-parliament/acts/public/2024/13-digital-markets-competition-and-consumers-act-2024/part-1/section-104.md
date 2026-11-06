@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Extension etc of periods[^key-7e1de1036c3c06e42f03ce3339e60f67][^key-ce9947a21467587ff7b9938e3b7d6e6a]
+## 104. Extension etc of periods[^c-7e1de1036c3c06e42f03ce3339e60f67][^c-ce9947a21467587ff7b9938e3b7d6e6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ the designation period for the existing designation is extended until the end of
 
 ## Annotations
 
-[^key-7e1de1036c3c06e42f03ce3339e60f67]: Commencement: S. 104 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7e1de1036c3c06e42f03ce3339e60f67]: Commencement: S. 104 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ce9947a21467587ff7b9938e3b7d6e6a]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2024/13/section/104) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-ce9947a21467587ff7b9938e3b7d6e6a]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2024/13/section/104) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

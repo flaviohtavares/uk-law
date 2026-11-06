@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12B. References in the Companies Act 2006 to a certificate of incorporation[^key-7747034605bf75d530e0415da5647a7c]
+## 12B. References in the Companies Act 2006 to a certificate of incorporation[^c-7747034605bf75d530e0415da5647a7c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7747034605bf75d530e0415da5647a7c]: Textual amendment: [Regs. 12A](https://www.legislation.gov.uk/uksi/2004/2326/regulation/12A), [12B](https://www.legislation.gov.uk/uksi/2004/2326/regulation/12B) inserted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1298/regulation/8) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/b), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7747034605bf75d530e0415da5647a7c]: Textual amendment: [Regs. 12A](https://www.legislation.gov.uk/uksi/2004/2326/regulation/12A), [12B](https://www.legislation.gov.uk/uksi/2004/2326/regulation/12B) inserted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1298/regulation/8) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/b), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -34,7 +34,7 @@ An Act to make provision for a railway transport system running from Maidenhead,
 
 \[22nd July 2008\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9646423f1638b59ce38ac0ec78cd808e]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9646423f1638b59ce38ac0ec78cd808e]
 
 ## Contents
 
@@ -151,4 +151,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-9646423f1638b59ce38ac0ec78cd808e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/18) construed as one with SI 2014/310 (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18)
+[^c-9646423f1638b59ce38ac0ec78cd808e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/18) construed as one with SI 2014/310 (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18)

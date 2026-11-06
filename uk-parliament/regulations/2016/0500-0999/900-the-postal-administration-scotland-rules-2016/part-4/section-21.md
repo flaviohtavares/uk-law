@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Quorum at meeting of creditors[^key-5fa94ab83f2c5799bbf9d7823c2d6213]
+## 21. Quorum at meeting of creditors[^c-5fa94ab83f2c5799bbf9d7823c2d6213]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ the meeting shall not commence until at least the expiry of 15 minutes after the
 
 ## Annotations
 
-[^key-5fa94ab83f2c5799bbf9d7823c2d6213]: Commencement: Rule 21 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-5fa94ab83f2c5799bbf9d7823c2d6213]: Commencement: Rule 21 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00011]: Footnote: Section 323 was amended by [S.I. 2009/1632](https://www.legislation.gov.uk/uksi/2009/1632), regulation 6.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Establishment of new public schemes and transfer of rights[^key-c40f5b631432af273d5c942c3035233e]
+## 112. Establishment of new public schemes and transfer of rights[^c-c40f5b631432af273d5c942c3035233e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c40f5b631432af273d5c942c3035233e]: Commencement: S. 112 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)
+[^c-c40f5b631432af273d5c942c3035233e]: Commencement: S. 112 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)

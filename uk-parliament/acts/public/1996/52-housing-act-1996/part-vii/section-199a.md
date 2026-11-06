@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199A. Duties to the applicant whose case is considered for referral or referred under section 198(A1)[^key-262b57ad5d2d6f2cb943ac6e06af6958]
+## 199A. Duties to the applicant whose case is considered for referral or referred under section 198(A1)[^c-262b57ad5d2d6f2cb943ac6e06af6958]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ The authority may secure that accommodation is available for the applicant's occ
 
 ## Annotations
 
-[^key-262b57ad5d2d6f2cb943ac6e06af6958]: Textual amendment: [S. 199A](https://www.legislation.gov.uk/ukpga/1996/52/section/199A) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(9)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/9), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-262b57ad5d2d6f2cb943ac6e06af6958]: Textual amendment: [S. 199A](https://www.legislation.gov.uk/ukpga/1996/52/section/199A) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(9)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/9), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))

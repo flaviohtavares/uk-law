@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Liability of Keeper in respect of extracts, information and lost documents etc.[^key-73cb1e001c1ca8d679cb2e13354ec1cb]
+## 106. Liability of Keeper in respect of extracts, information and lost documents etc.[^c-73cb1e001c1ca8d679cb2e13354ec1cb]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73cb1e001c1ca8d679cb2e13354ec1cb]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2012/5/section/106) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-73cb1e001c1ca8d679cb2e13354ec1cb]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2012/5/section/106) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

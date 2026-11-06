@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Depositaries[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+## SCHEDULE 2 — Depositaries[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 5(3)
 
-### 1. Appointment[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### 1. Appointment[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-be67a84e1c11d0fcbb3d21f09c403e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-be67a84e1c11d0fcbb3d21f09c403e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Retirement[^key-be67a84e1c11d0fcbb3d21f09c403e05]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Rights[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### 3. Retirement[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Statement by depositary ceasing to hold office[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### 4. Rights[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-be67a84e1c11d0fcbb3d21f09c403e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 5. Statement by depositary ceasing to hold office[^c-be67a84e1c11d0fcbb3d21f09c403e05]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-be67a84e1c11d0fcbb3d21f09c403e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be67a84e1c11d0fcbb3d21f09c403e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/251) revoked (1.11.2004) by [Open-Ended Investment Companies Regulations (Northern Ireland) 2004 (S.R. 2004/335)](https://www.legislation.gov.uk/nisr/2004/335), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b), [84(1)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/1) (with [reg. 84(2)(3)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/2))
+[^c-be67a84e1c11d0fcbb3d21f09c403e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/251) revoked (1.11.2004) by [Open-Ended Investment Companies Regulations (Northern Ireland) 2004 (S.R. 2004/335)](https://www.legislation.gov.uk/nisr/2004/335), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b), [84(1)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/1) (with [reg. 84(2)(3)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/2))

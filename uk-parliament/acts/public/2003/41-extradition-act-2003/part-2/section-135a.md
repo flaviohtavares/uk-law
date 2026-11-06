@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135A (Extent: E+W). Appropriate amount: England and Wales (Extent: E+W)[^key-380b59cc7f21349d9efe20390cf60ebb]
+## 135A (Extent: E+W). Appropriate amount: England and Wales (Extent: E+W)[^c-380b59cc7f21349d9efe20390cf60ebb]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-380b59cc7f21349d9efe20390cf60ebb]: Textual amendment: Ss. 135A, 135B inserted (E.W.) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/18) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+[^c-380b59cc7f21349d9efe20390cf60ebb]: Textual amendment: Ss. 135A, 135B inserted (E.W.) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/18) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)

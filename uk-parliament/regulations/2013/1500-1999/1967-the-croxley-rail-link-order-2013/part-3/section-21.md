@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Power to acquire subsoil or airspace only[^key-6434c5c1c355080518a991a2c8dba17d]
+## 21. Power to acquire subsoil or airspace only[^c-6434c5c1c355080518a991a2c8dba17d]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6434c5c1c355080518a991a2c8dba17d]: Commencement: Art. 21 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-6434c5c1c355080518a991a2c8dba17d]: Commencement: Art. 21 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

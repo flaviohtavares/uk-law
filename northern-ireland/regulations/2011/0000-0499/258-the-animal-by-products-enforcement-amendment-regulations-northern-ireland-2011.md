@@ -34,7 +34,7 @@ Animals
 
 Animal Health
 
-The Animal By-Products (Enforcement) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-dff281c1e1e279abec3c4bb42f3a7982]
+The Animal By-Products (Enforcement) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-dff281c1e1e279abec3c4bb42f3a7982]
 
 Made
 
@@ -44,26 +44,26 @@ Coming into operation
 
 7th July 2011
 
-[^key-dff281c1e1e279abec3c4bb42f3a7982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dff281c1e1e279abec3c4bb42f3a7982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dff281c1e1e279abec3c4bb42f3a7982]
+## 1. Citation and commencement[^c-dff281c1e1e279abec3c4bb42f3a7982]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dff281c1e1e279abec3c4bb42f3a7982]
+## 2. Interpretation[^c-dff281c1e1e279abec3c4bb42f3a7982]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011[^key-dff281c1e1e279abec3c4bb42f3a7982]
+## 3. Amendment of the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011[^c-dff281c1e1e279abec3c4bb42f3a7982]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dff281c1e1e279abec3c4bb42f3a7982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dff281c1e1e279abec3c4bb42f3a7982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dff281c1e1e279abec3c4bb42f3a7982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dff281c1e1e279abec3c4bb42f3a7982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dff281c1e1e279abec3c4bb42f3a7982]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/258) revoked (14.10.2015) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/332)](https://www.legislation.gov.uk/nisr/2015/332), [reg. 30(2)(b)](https://www.legislation.gov.uk/nisr/2015/332/regulation/30/2/b)
+[^c-dff281c1e1e279abec3c4bb42f3a7982]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/258) revoked (14.10.2015) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/332)](https://www.legislation.gov.uk/nisr/2015/332), [reg. 30(2)(b)](https://www.legislation.gov.uk/nisr/2015/332/regulation/30/2/b)

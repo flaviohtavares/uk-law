@@ -46,32 +46,32 @@ These Regulations are made by the Secretary of State in exercise of the powers c
 
 ## PART 1 — General and Interpretation
 
-### 1. Citation and commencement[^key-eb34d09786443108e9c0f751c3dbe852]
+### 1. Citation and commencement[^c-eb34d09786443108e9c0f751c3dbe852]
 
 These Regulations may be cited as the National Minimum Wage Regulations 2015 and come into force on 6th April 2015.
 
-### 2. Revocations[^key-9df28d7f9e688c6c51e1359af8069709]
+### 2. Revocations[^c-9df28d7f9e688c6c51e1359af8069709]
 
 The instruments specified in the Schedule are revoked.
 
-### 3. General interpretative provisions[^key-999a6fc471a8c05b14c402441b84f498]
+### 3. General interpretative provisions[^c-999a6fc471a8c05b14c402441b84f498]
 
 In these Regulations—
 
 - “the Act” means the National Minimum Wage Act 1998[^f00006];
-- “basic hours” has the meaning given in regulation 21(3)[^key-21cd197c8c442f9cf5f08cb085416ab3];
+- “basic hours” has the meaning given in regulation 21(3)[^c-21cd197c8c442f9cf5f08cb085416ab3];
 - “compulsory school age” has the meaning given in section 8 of the Education Act 1996[^f00007];
 - “days” includes a fraction of a day, other than as specified in regulation 16(2) (amount for provision of living accommodation);
 - “further education course” means—
   - (a) in England, a course of education, other than a higher education course, that is suitable to the requirements of persons who are over compulsory school age and that—
-    - (i) is funded by the Secretary of State under section 14 of the Education Act 2002[^f00008] or section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^key-d382afd2baa892461a5cb5325ea4e00b],
-    - (ii) [^key-0e3acc08094c7b38e90f9f317870f707]...
+    - (i) is funded by the Secretary of State under section 14 of the Education Act 2002[^f00008] or section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^c-d382afd2baa892461a5cb5325ea4e00b],
+    - (ii) [^c-0e3acc08094c7b38e90f9f317870f707]...
     - (iii) is funded by a local authority,
     - (iv) leads to a qualification to which Part 7 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00010] applies which is awarded or authenticated by a body which is recognised by the Office of Qualifications and Examinations Regulation under section 132 of that Act in respect of the qualification, or
     - (v) leads to a qualification that is approved pursuant to section 98 of the Learning and Skills Act 2000[^f00011];
   - (b) in Wales, a course of education, other than a higher education course, that is suitable to the requirements of persons who are over compulsory school age and that—
     - (i) is funded by the Welsh Ministers,
-    - (ii) is funded by a local authority, or[^key-2442d144a0ea53ba72a400967fd9af91]
+    - (ii) is funded by a local authority, or[^c-2442d144a0ea53ba72a400967fd9af91]
     - (iii) leads to a qualification awarded by a body in respect of the award of which it is recognised by Qualifications Wales under Part 3 of the Qualifications Wales Act 2015;
   - (c) in Scotland, a course of “fundable further education” as defined in section 5(1) and (2) of the Further and Higher Education (Scotland) Act 2005[^f00014];
   - (d) in Northern Ireland, a course of education or training as defined in article 3(1) and (2) of the Further Education (Northern Ireland) Order 1997[^f00015];
@@ -83,40 +83,40 @@ In these Regulations—
 - “hours of work” has the meaning given in regulation 17;
 - “output work” has the meaning given in regulation 36;
 - “pay reference period” has the meaning given in regulation 6;
-- “performance bonus” has the meaning given in regulation 21(8)[^key-211afaba260c21843c8e026b3d25aa5f];
+- “performance bonus” has the meaning given in regulation 21(8)[^c-211afaba260c21843c8e026b3d25aa5f];
 - “remuneration” has the meaning given in regulation 8;
 - “salaried hours work” has the meaning given in regulation 21;
-- “salary premium” has the meaning given in regulation 21(9);[^key-2554194bc1401d58f342c0d6e825fb71]
+- “salary premium” has the meaning given in regulation 21(9);[^c-2554194bc1401d58f342c0d6e825fb71]
 - “time work” has the meaning given in regulation 30;
 - “unmeasured work” has the meaning given in regulation 44;
 - “work” is to be construed subject to regulations 57 and 58.
 
 ## PART 2 — Rates of the National Minimum Wage and Pay Reference Period
 
-### 4. The national living wage[^key-687f3bdbdf892f93064e5c00029bd589]
+### 4. The national living wage[^c-687f3bdbdf892f93064e5c00029bd589]
 
-The single hourly rate of the national minimum wage for the purposes of section 1(3) of the Act (“the national living wage rate”) is £12.71[^key-1c53a5a009f6f19902608f77b9df1569].
+The single hourly rate of the national minimum wage for the purposes of section 1(3) of the Act (“the national living wage rate”) is £12.71[^c-1c53a5a009f6f19902608f77b9df1569].
 
 ### 4A. Workers who qualify for the national minimum wage at a different rate
 
 (1) The hourly rate of the national minimum wage is—
 
-- (a)[^key-f81b75eb1b78b886e4737a1bd8335c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) £10.85[^key-2723edc50e67bec76f8b54119f7ef261] for a worker who is aged 18 years or over (but is not yet aged 21 years);
-- (c) £8.00[^key-2c677b94f93d57b3779c6947c79d5ded] for a worker who is aged under 18 years;
-- (d) £8.00[^key-a5ba18d70bc5a8c0e201425638c3fce6] for a worker to whom the apprenticeship rate applies, as determined in accordance with regulation 5.
+- (a)[^c-f81b75eb1b78b886e4737a1bd8335c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) £10.85[^c-2723edc50e67bec76f8b54119f7ef261] for a worker who is aged 18 years or over (but is not yet aged 21 years);
+- (c) £8.00[^c-2c677b94f93d57b3779c6947c79d5ded] for a worker who is aged under 18 years;
+- (d) £8.00[^c-a5ba18d70bc5a8c0e201425638c3fce6] for a worker to whom the apprenticeship rate applies, as determined in accordance with regulation 5.
 
-(2) If the rate in paragraph (1)(d) applies to a worker, the national living wage rate and the rates in paragraph 1(b) and (c)[^key-67f152b12c37f87464386107a56372cb] of this regulation do not apply to that worker.
+(2) If the rate in paragraph (1)(d) applies to a worker, the national living wage rate and the rates in paragraph 1(b) and (c)[^c-67f152b12c37f87464386107a56372cb] of this regulation do not apply to that worker.
 
 ### 4B. Determining the applicable national minimum wage rate
 
 The hourly rate of the national minimum wage at which a worker is entitled to be remunerated as respects work, in a pay reference period, is the rate which applies to the worker on the first day of that period.
 
-### 5. Determining whether the apprenticeship rate applies[^key-0296b71409b120e8261df5154ff3c481]
+### 5. Determining whether the apprenticeship rate applies[^c-0296b71409b120e8261df5154ff3c481]
 
 (1) The apprenticeship rate applies to a worker—
 
-- (a) who is employed under a contract of apprenticeship ,[^key-b5b338a71677b80fe12ae499fba7317b] apprenticeship agreement (within the meaning of section 32 of the Apprenticeships, Skills, Children and Learning Act 2009) or approved English apprenticeship agreement (within the meaning of section A1(3) of the Apprenticeships, Skills, Children and Learning Act 2009)[^key-9084854db23a7c477ab4f5467a46f704], or is treated as employed under a contract of apprenticeship, and
+- (a) who is employed under a contract of apprenticeship ,[^c-b5b338a71677b80fe12ae499fba7317b] apprenticeship agreement (within the meaning of section 32 of the Apprenticeships, Skills, Children and Learning Act 2009) or approved English apprenticeship agreement (within the meaning of section A1(3) of the Apprenticeships, Skills, Children and Learning Act 2009)[^c-9084854db23a7c477ab4f5467a46f704], or is treated as employed under a contract of apprenticeship, and
 - (b) who is within the first 12 months after the commencement of that employment or under 19 years of age.
 
 (2) A worker is treated as employed under a contract of apprenticeship if the worker is engaged—
@@ -138,13 +138,13 @@ The hourly rate of the national minimum wage at which a worker is entitled to be
 - (b) “Trailblazer Apprenticeship” means an agreement between an employer and a worker which provides for the worker to perform work for that employer and for the employer, or another person, to provide training in order to assist the worker to achieve the apprenticeship standard in the work done under the agreement;
 - (c) “apprenticeship standard” means the standard published by the Secretary of State in connection with the Government arrangements known as Trailblazer Apprenticeships, which applies as respects the work done under the agreement.
 
-### 6. Pay reference period[^key-0980eb343b65c1fcfd5e45f6af71d39c]
+### 6. Pay reference period[^c-0980eb343b65c1fcfd5e45f6af71d39c]
 
 A “pay reference period”[^f00021] is a month, or in the case of a worker who is paid wages by reference to a period shorter than a month, that period.
 
 ## PART 3 — Calculation of the hourly rate
 
-### 7. Calculation to determine whether the national minimum wage has been paid[^key-327a98156ba9057459e5e4819ef368d7]
+### 7. Calculation to determine whether the national minimum wage has been paid[^c-327a98156ba9057459e5e4819ef368d7]
 
 A worker is to be treated as remunerated by the employer in a pay reference period at the hourly rate determined by the calculation—
 
@@ -157,13 +157,13 @@ where—
 
 ## PART 4 — Remuneration for the Purposes of the National Minimum Wage
 
-### 8. Remuneration in a pay reference period[^key-a13d391c778ba38cf6b6ce744d0b5885]
+### 8. Remuneration in a pay reference period[^c-a13d391c778ba38cf6b6ce744d0b5885]
 
 The remuneration in the pay reference period is the payments from the employer to the worker as respects the pay reference period, determined in accordance with Chapter 1, less reductions determined in accordance with Chapter 2.
 
 ### CHAPTER 1 — Payments from the employer to the worker
 
-#### 9. Payments as respects the pay reference period[^key-9ad84ab2ca14c2a742830428360286cb]
+#### 9. Payments as respects the pay reference period[^c-9ad84ab2ca14c2a742830428360286cb]
 
 (1) The following payments and amounts, except as provided in regulation 10, are to be treated as payments by the employer to the worker as respects the pay reference period—
 
@@ -182,7 +182,7 @@ The remuneration in the pay reference period is the payments from the employer t
 - (c) the worker has failed to give the record to the employer before the fourth working day before the end of that following pay reference period, and
 - (d) the payment is paid in either the pay reference period in which the record is given to the employer or the pay reference period after that.
 
-#### 10. Payments and benefits in kind which do not form part of a worker’s remuneration[^key-71178580173f0aaacd8127fe806c8432]
+#### 10. Payments and benefits in kind which do not form part of a worker’s remuneration[^c-71178580173f0aaacd8127fe806c8432]
 
 The following payments and benefits in kind do not form part of a worker’s remuneration—
 
@@ -205,17 +205,17 @@ The following payments and benefits in kind do not form part of a worker’s rem
 - (l) payments paid by the employer to the worker as respects the worker’s expenditure in connection with the employment;
 - (m) payments paid by the employer to the worker representing amounts paid by customers by way of a service charge, tip, gratuity or cover charge;
 - (n) payments paid by the employer to the worker as respects travelling expenses that are allowed as deductions from earnings under section 338 of the Income Tax (Earnings and Pensions) Act 2003[^f00022];
-- (o)[^key-abba4f0ad003b341bc8b66bca8254217] payment of a salary premium.
+- (o)[^c-abba4f0ad003b341bc8b66bca8254217] payment of a salary premium.
 
 ### CHAPTER 2 — Reductions
 
-#### 11. Determining the reductions which reduce the worker’s remuneration[^key-8dcb9317600691103da0d23ef0d28172]
+#### 11. Determining the reductions which reduce the worker’s remuneration[^c-8dcb9317600691103da0d23ef0d28172]
 
 (1) In regulation 8, the reductions in the pay reference period are determined by adding together all of the payments or deductions treated as reductions in that period in accordance with this Chapter.
 
 (2) To the extent that any payment or deduction is required to be subtracted by virtue of more than one provision in this Chapter, it is to be subtracted only once.
 
-#### 12. Deductions or payments for the employer’s own use and benefit[^key-1993999d3e870cb7e84c6e2c4844730d]
+#### 12. Deductions or payments for the employer’s own use and benefit[^c-1993999d3e870cb7e84c6e2c4844730d]
 
 (1) Deductions made by the employer in the pay reference period, or payments due from the worker to the employer in the pay reference period, for the employer’s own use and benefit are treated as reductions except as specified in paragraph (2) and regulation 14 (deductions or payments as respects living accommodation).
 
@@ -225,11 +225,11 @@ The following payments and benefits in kind do not form part of a worker’s rem
 - (b) deductions, or payments, on account of an advance under an agreement for a loan or an advance of wages;
 - (c) deductions, or payments, as respects an accidental overpayment of wages made by the employer to the worker;
 - (d) deductions, or payments, as respects the purchase by the worker of shares, other securities or share options, or of a share in a partnership;
-- (e)[^key-2506887159699ba9856fed9d0b838556] payments as respects the purchase by the worker of goods or services from the employer, unless—
+- (e)[^c-2506887159699ba9856fed9d0b838556] payments as respects the purchase by the worker of goods or services from the employer, unless—
   - (i) the purchase is made in order to comply with a requirement imposed by the employer in connection with the worker’s employment; and
   - (ii) the payment is not met, or intended to be met, by a payment paid to the worker by the employer.
 
-#### 13. Deductions or payments as respects a worker’s expenditure[^key-14352830991b277979779f58f9653ca2]
+#### 13. Deductions or payments as respects a worker’s expenditure[^c-14352830991b277979779f58f9653ca2]
 
 Deductions or payments as respects a worker’s expenditure
 
@@ -242,7 +242,7 @@ Deductions or payments as respects a worker’s expenditure
 
 (2) The payments referred to in subparagraph (1)(b) are not to be treated as reductions if the expenditure is met, or intended to be met, by a payment paid to the worker by the employer.
 
-#### 14. Deductions or payments as respects living accommodation[^key-22b9bb7180b8aa97d9e4e4faa54e1e13]
+#### 14. Deductions or payments as respects living accommodation[^c-22b9bb7180b8aa97d9e4e4faa54e1e13]
 
 (1) The amount of any deduction the employer is entitled to make, or payment the employer is entitled to receive from the worker, as respects the provision of living accommodation by the employer to the worker in the pay reference period, as adjusted, where applicable, in accordance with regulation 15, is treated as a reduction to the extent that it exceeds the amount determined in accordance with regulation 16, unless the payment or deduction falls within paragraph (2).
 
@@ -266,7 +266,7 @@ Deductions or payments as respects a worker’s expenditure
   - (b) in Scotland, a body registered in the register maintained under section 20(1) of the Housing (Scotland) Act 2010[^f00030];
   - (c) in Northern Ireland, a housing association registered under Chapter II of Part II of the Housing (Northern Ireland) Order 1992[^f00031].
 
-#### 15. Deductions or payments as respects living accommodation adjusted for absences[^key-f91f9da62ef73fd92877a6a80ba078bc]
+#### 15. Deductions or payments as respects living accommodation adjusted for absences[^c-f91f9da62ef73fd92877a6a80ba078bc]
 
 (1) The amount referred to in regulation 14 is to be adjusted in accordance with paragraph (2) if, in the pay reference period, a worker is absent from work and all of the following conditions are met—
 
@@ -287,9 +287,9 @@ where—
 
 ### CHAPTER 3 — Accommodation Offset Amount
 
-#### 16. Amount for provision of living accommodation[^key-72b5e26587ca104e819f3c23b8bda2eb]
+#### 16. Amount for provision of living accommodation[^c-72b5e26587ca104e819f3c23b8bda2eb]
 
-(1) In regulations 9(1)(e), 14 and 15, the amount as respects the provision of living accommodation is the amount resulting from multiplying the number of days in the pay reference period for which accommodation was provided by £11.10[^key-d44a02e8f0064d4c9182c790b8a32eb9].
+(1) In regulations 9(1)(e), 14 and 15, the amount as respects the provision of living accommodation is the amount resulting from multiplying the number of days in the pay reference period for which accommodation was provided by £11.10[^c-d44a02e8f0064d4c9182c790b8a32eb9].
 
 (2) Living accommodation is provided for a day only if it is provided for the whole of a day.
 
@@ -299,7 +299,7 @@ where—
 
 ### CHAPTER 1 — Determining the Hours of Work
 
-#### 17. Hours of work for determining whether the national minimum wage has been paid[^key-40b263dbca02f96ca39327645f45f7a9]
+#### 17. Hours of work for determining whether the national minimum wage has been paid[^c-40b263dbca02f96ca39327645f45f7a9]
 
 In regulation 7 (calculation to determine whether the national minimum wage has been paid), the hours of work in the pay reference period are the hours worked or treated as worked by the worker in the pay reference period as determined—
 
@@ -308,11 +308,11 @@ In regulation 7 (calculation to determine whether the national minimum wage has 
 - (c) for output work, in accordance with Chapter 4;
 - (d) for unmeasured work, in accordance with Chapter 5.
 
-#### 18. Hours where payment due on submission of a record[^key-5cacabaed390feb8ad36c193923c957d]
+#### 18. Hours where payment due on submission of a record[^c-5cacabaed390feb8ad36c193923c957d]
 
 If the worker is only entitled to payment for hours of work when a record of the hours has been given to the employer, then the hours of work in the pay reference period do not include hours of work in respect of which that record has not been submitted.
 
-#### 19. Hours spent training[^key-69abc6d629ce61847f57bf4656a49857]
+#### 19. Hours spent training[^c-69abc6d629ce61847f57bf4656a49857]
 
 (1) In this Part, references to “training” include hours when the worker is—
 
@@ -322,7 +322,7 @@ If the worker is only entitled to payment for hours of work when a record of the
 
 (2) In paragraph (1), hours when the worker would “otherwise be working” include any hours when the worker is attending at a place or travelling where it is uncertain whether the worker would otherwise be working because the worker’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 20. Hours spent travelling[^key-00b644d161d60ba2654747dd6f4aad5d]
+#### 20. Hours spent travelling[^c-00b644d161d60ba2654747dd6f4aad5d]
 
 In this Part, references to “travelling” include hours when the worker is—
 
@@ -333,27 +333,27 @@ In this Part, references to “travelling” include hours when the worker is—
 
 ### CHAPTER 2 — Salaried hours work
 
-#### 21. The meaning of salaried hours work[^key-ecd0444b94eec7e0ef1c9cbc75d1724f]
+#### 21. The meaning of salaried hours work[^c-ecd0444b94eec7e0ef1c9cbc75d1724f]
 
 (1) “Salaried hours work” is work which is done under a worker’s contract and which meets the conditions in paragraphs (2) to (5) of this regulation.
 
-(2)[^key-f1212682f8fc5a8f5f716c2ed67851f1] The first condition is that the worker is entitled under their contract to be paid—
+(2)[^c-f1212682f8fc5a8f5f716c2ed67851f1] The first condition is that the worker is entitled under their contract to be paid—
 
 - (a) an annual salary; or
 - (b) an annual salary and one or both of—
   - (i) a performance bonus; and
   - (ii) a salary premium.
 
-(3) The second condition is that the worker is entitled under their contract to be paid that salary or salary and performance bonus or salary premium (or all three)[^key-9722609c132a1c0e624531a6e2ca184a] in respect of a number of hours in a year, whether those hours are specified in or ascertained in accordance with their contract (“the basic hours”).
+(3) The second condition is that the worker is entitled under their contract to be paid that salary or salary and performance bonus or salary premium (or all three)[^c-9722609c132a1c0e624531a6e2ca184a] in respect of a number of hours in a year, whether those hours are specified in or ascertained in accordance with their contract (“the basic hours”).
 
-(4)[^key-a1cd353122da4fe71aaf47e6e700024a] The third condition is that the worker is not entitled under their contract to a payment in respect of the basic hours other than—
+(4)[^c-a1cd353122da4fe71aaf47e6e700024a] The third condition is that the worker is not entitled under their contract to a payment in respect of the basic hours other than—
 
 - (a) an annual salary; or
 - (b) an annual salary and one or both of—
   - (i) a performance bonus; and
   - (ii) a salary premium.
 
-(5)[^key-6d633df08085981d7022a82e079b5a58] The fourth condition is that the worker is entitled under their contract to be paid, where practicable and regardless of the number of hours actually worked in a particular week, month or other period, in instalments which—
+(5)[^c-6d633df08085981d7022a82e079b5a58] The fourth condition is that the worker is entitled under their contract to be paid, where practicable and regardless of the number of hours actually worked in a particular week, month or other period, in instalments which—
 
 - (a) are equal and occur not more often than weekly and not less often than monthly; or
 - (b) occur monthly and vary but have the result that the worker is entitled to be paid an equal amount in each quarter.
@@ -361,10 +361,10 @@ In this Part, references to “travelling” include hours when the worker is—
 (6) Circumstances where it may not be practicable to pay a worker by equal instalments, or by an equal amount in each quarter, include where—
 
 - (a) a performance bonus is awarded;
-- (aa)[^key-a158614b8cf76d1825a3f0fb9ad29c4e] a salary premium is paid;
+- (aa)[^c-a158614b8cf76d1825a3f0fb9ad29c4e] a salary premium is paid;
 - (b) the annual salary is varied;
 - (c) a payment is made in respect of hours in addition to basic hours; or
-- (d)[^key-8f3eb494c10cbf5e9f888159a6f312bb] the employment starts or terminates during a week, month or other period provided for in paragraph (5)(a) with the result that the worker is paid a proportionate amount of their annual salary for that week, month or other period.
+- (d)[^c-8f3eb494c10cbf5e9f888159a6f312bb] the employment starts or terminates during a week, month or other period provided for in paragraph (5)(a) with the result that the worker is paid a proportionate amount of their annual salary for that week, month or other period.
 
 (7) Work may be salaried hours work whether or not—
 
@@ -374,7 +374,7 @@ In this Part, references to “travelling” include hours when the worker is—
 
 (8) A “performance bonus” is a payment paid to a worker on merit attributable to the quality or amount of work done in the course of more than one pay reference period.
 
-(9)[^key-027654d5acdaea28c5aeebacf592b705] A “salary premium” is—
+(9)[^c-027654d5acdaea28c5aeebacf592b705] A “salary premium” is—
 
 - (a) an amount of pay which is—
   - (i) in addition to the annual salary; or
@@ -389,13 +389,13 @@ In this Part, references to “travelling” include hours when the worker is—
   - (vi) on a particular task; or
   - (vii) subject to a particular responsibility.
 
-#### 22. Determining hours of salaried hours work in a pay reference period[^key-28958dac37538292d4c184eb837dc387]
+#### 22. Determining hours of salaried hours work in a pay reference period[^c-28958dac37538292d4c184eb837dc387]
 
 (1) The hours of salaried hours work in a pay reference period are to be calculated in accordance with the following paragraphs.
 
 (2) Where the pay reference period is a week, the hours of salaried hours work in that period are the basic hours divided by 52.
 
-(2A)[^key-2a64b976e31778fca50d727a3bcef244] Where the pay reference period is two weeks, the hours of salaried hours work in that period are the basic hours divided by 26.
+(2A)[^c-2a64b976e31778fca50d727a3bcef244] Where the pay reference period is two weeks, the hours of salaried hours work in that period are the basic hours divided by 26.
 
 (2B) Where the pay reference period is four weeks, the hours of salaried hours work in that period are the basic hours divided by 13.
 
@@ -408,15 +408,15 @@ In this Part, references to “travelling” include hours when the worker is—
 (6) The hours of salaried hours work in a pay reference period are to be ascertained in accordance with regulations 24 to 28 if the worker—
 
 - (a) during or before the payment reference period, works additional hours in excess of the basic hours in the calculation year, and
-- (b)[^key-6214ca3b1bd44f8b1894b90d49a9d38d] is not entitled to be paid more than annual salary, a performance bonus and a salary premium for those additional hours.
+- (b)[^c-6214ca3b1bd44f8b1894b90d49a9d38d] is not entitled to be paid more than annual salary, a performance bonus and a salary premium for those additional hours.
 
-(7)[^key-aae4a481405b1f11fce0ca1b1d99ee89] The hours of salaried hours work in a pay reference period are to be determined in accordance with regulation 29 if—
+(7)[^c-aae4a481405b1f11fce0ca1b1d99ee89] The hours of salaried hours work in a pay reference period are to be determined in accordance with regulation 29 if—
 
 - (a) the employment terminates before the end of the calculation year;
 - (b) the contract is varied before the end of the calculation year so that it is no longer a contract for salaried hours work; or
 - (c) the calculation year is changed by the employer as provided for in regulation 24(5) to (8).
 
-#### 23. Absences from work to be reduced from the salaried hours work in a pay reference period[^key-b8cce2bb83a40f3431280ff240a954d9]
+#### 23. Absences from work to be reduced from the salaried hours work in a pay reference period[^c-b8cce2bb83a40f3431280ff240a954d9]
 
 (1) The hours a worker is absent from work are to be subtracted from the hours of salaried hours work in a pay reference period if all of the following conditions are met—
 
@@ -425,11 +425,11 @@ In this Part, references to “travelling” include hours when the worker is—
 
 (2) The hours during which a worker takes industrial action are to be subtracted from the hours of salaried hours work in a pay reference period if an annual salary was payable for those hours, or would have been payable but for the industrial action.
 
-#### 24. The meaning of the calculation year[^key-3e85f3456ff194264e9d9f42e854d13b]
+#### 24. The meaning of the calculation year[^c-3e85f3456ff194264e9d9f42e854d13b]
 
 (1) In this Chapter, “the calculation year” has the meaning given in the following paragraphs.
 
-(1A)[^key-2a293604cf1ddadfec0f2519580d88ff] Paragraphs (2) to (4) apply unless an alternative calculation year takes effect in accordance with paragraphs (5) to (8).
+(1A)[^c-2a293604cf1ddadfec0f2519580d88ff] Paragraphs (2) to (4) apply unless an alternative calculation year takes effect in accordance with paragraphs (5) to (8).
 
 (2) For a worker who commenced the employment before 1st April 1999, then for so long as the worker continues in that employment the calculation year is a year beginning on an anniversary of the commencement of that employment.
 
@@ -442,12 +442,12 @@ In this Part, references to “travelling” include hours when the worker is—
   - (i) the period beginning with that day and ending with the day before the first anniversary of the first day of the next month;
   - (ii) in each subsequent year, a year beginning on an anniversary of the first day of that month.
 
-(4) For a worker whose annual salary is payable other than monthly[^key-3d96082eeb43c8c74ca0332718757d8a] and who commenced the employment after 31st March 1999, then for so long as the worker continues in that employment the calculation year is—
+(4) For a worker whose annual salary is payable other than monthly[^c-3d96082eeb43c8c74ca0332718757d8a] and who commenced the employment after 31st March 1999, then for so long as the worker continues in that employment the calculation year is—
 
 - (a) the year beginning with the first day of employment;
 - (b) in each subsequent year, a year beginning on an anniversary of that day.
 
-(5)[^key-06135eab13f69c61387d458165ed6d18] Where the requirements specified in paragraph (6) are met (subject to the exception in paragraph (7)), the employer may change a worker’s calculation year by specifying an alternative calculation year in a written notice given to the worker.
+(5)[^c-06135eab13f69c61387d458165ed6d18] Where the requirements specified in paragraph (6) are met (subject to the exception in paragraph (7)), the employer may change a worker’s calculation year by specifying an alternative calculation year in a written notice given to the worker.
 
 (6) The requirements referred to in paragraph (5) are that—
 
@@ -466,7 +466,7 @@ In this Part, references to “travelling” include hours when the worker is—
 
 (9) Where a worker’s calculation year is changed as provided for in paragraphs (5) to (8), regulation 29 is to apply as if the employment of the worker had been terminated and the last day of the worker’s final pay reference period had fallen on the day before the day on which the new calculation year begins.
 
-#### 25. Determining the basic hours in the calculation year[^key-ad2177cc85badea4157f9f243e94523b]
+#### 25. Determining the basic hours in the calculation year[^c-ad2177cc85badea4157f9f243e94523b]
 
 (1) In this Chapter, the basic hours in a calculation year are determined in accordance with the following paragraphs.
 
@@ -491,18 +491,18 @@ where—
 - “D” means the number of days in the period;
 - “H” means the basic hours in the calculation year which have effect in that period.
 
-#### 26. Determining whether the worker works more than the basic hours in the calculation year[^key-ac1f8e43f0c798675fbb1edb74066b63]
+#### 26. Determining whether the worker works more than the basic hours in the calculation year[^c-ac1f8e43f0c798675fbb1edb74066b63]
 
 (1) For the purposes of this regulation and regulations 22(6) and 28, a worker works more than the basic hours in a calculation year if all of the following hours added together are more than the basic hours in a calculation year—
 
 - (a) hours worked which form part of the basic hours in the calculation year;
 - (b) hours when the worker was absent from work which form part of the basic hours in the calculation year;
-- (c) hours worked in the calculation year which do not form part of the basic hours in the calculation year in respect of which the worker had no entitlement under their contract to a payment other than annual salary or annual salary and a performance bonus or salary premium (or all three)[^key-5635d7523aa3e6109e6f899d482f02f6];
-- (d) hours treated as worked in accordance with regulation 27 to the extent that such hours consist of hours in respect of which the worker had no entitlement under their contract to a payment other than annual salary or annual salary and a performance bonus or salary premium (or all three)[^key-3de722682872ce2a9d09c37d01d1266d].
+- (c) hours worked in the calculation year which do not form part of the basic hours in the calculation year in respect of which the worker had no entitlement under their contract to a payment other than annual salary or annual salary and a performance bonus or salary premium (or all three)[^c-5635d7523aa3e6109e6f899d482f02f6];
+- (d) hours treated as worked in accordance with regulation 27 to the extent that such hours consist of hours in respect of which the worker had no entitlement under their contract to a payment other than annual salary or annual salary and a performance bonus or salary premium (or all three)[^c-3de722682872ce2a9d09c37d01d1266d].
 
 (2) Hours during which the worker was taking part in industrial action are not to be included in sub-paragraphs (a) to (d).
 
-#### 27. Hours treated as worked for the purpose of determining whether the worker works more than the basic hours in the calculation year and, where the worker does, the number of salaried hours work in that year[^key-609084d986133cfe8598aa31bf386a44]
+#### 27. Hours treated as worked for the purpose of determining whether the worker works more than the basic hours in the calculation year and, where the worker does, the number of salaried hours work in that year[^c-609084d986133cfe8598aa31bf386a44]
 
 (1) The hours listed in sub-paragraphs (a) to (c) are treated as worked for the purposes of determining whether the worker works more than the basic hours in the calculation year (in accordance with regulation 26(1)(d)) and, where the worker does, the number of hours of salaried hours work in that year (in accordance with regulation 28)—
 
@@ -519,7 +519,7 @@ where—
 - (a) hours when the worker is travelling for the purpose of carrying out assignments to be carried out at different places between which the worker is obliged to travel, and which are not places occupied by the employer;
 - (b) hours when the worker is travelling where it is uncertain whether the worker would otherwise be working because the worker’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 28. Determining hours of salaried hours work if the worker works more than the basic hours in the calculation year[^key-fef6f1629026523b46eb1498fd06f196]
+#### 28. Determining hours of salaried hours work if the worker works more than the basic hours in the calculation year[^c-fef6f1629026523b46eb1498fd06f196]
 
 (1) If, in a pay reference period, a worker has worked more than the basic hours in the calculation year, the hours of salaried hours work in that pay reference period are calculated by adding together all of the following hours—
 
@@ -547,7 +547,7 @@ where—
 
 (5) Regulation 23 (absences from work to be reduced from the hours of salaried hours work in a pay reference period) does not apply to the calculation in paragraph (4)(a).
 
-#### 29. Hours of salaried hours work if the employment terminates before the end of the calculation year (or contract is varied so it is no longer a contract for salaried hours work)[^key-39f8a739cb2e32a5749c6d24ae73f284]
+#### 29. Hours of salaried hours work if the employment terminates before the end of the calculation year (or contract is varied so it is no longer a contract for salaried hours work)[^c-39f8a739cb2e32a5749c6d24ae73f284]
 
 (1) Where the employment terminates before the end of a calculation year the hours of salaried hours work in the final pay reference period are calculated in accordance with the following paragraphs.
 
@@ -571,7 +571,7 @@ where—
 
 ### CHAPTER 3 — Time work
 
-#### 30. The meaning of time work[^key-3082eafcbea2fb42541a16316f064916]
+#### 30. The meaning of time work[^c-3082eafcbea2fb42541a16316f064916]
 
 Time work is work, other than salaried hours work, in respect of which a worker is entitled under their contract to be paid—
 
@@ -579,21 +579,21 @@ Time work is work, other than salaried hours work, in respect of which a worker 
 - (b) by reference to a measure of output in a period of time where the worker is required to work for the whole of that period; or
 - (c) for work that would fall within sub-paragraph (b) but for the worker having an entitlement to be paid by reference to the period of time alone when the output does not exceed a particular level.
 
-#### 31. Determining hours of time work in a pay reference period[^key-1f4eb09178e6f8345c10d39b69aa38fb]
+#### 31. Determining hours of time work in a pay reference period[^c-1f4eb09178e6f8345c10d39b69aa38fb]
 
 The hours of time work in a pay reference period are the total number of hours of time work worked by the worker or treated under this Chapter as hours of time work in that period.
 
-#### 32. Time work where worker is available at or near a place of work[^key-fea0b4c956de336ab552395b9813b1b2]
+#### 32. Time work where worker is available at or near a place of work[^c-fea0b4c956de336ab552395b9813b1b2]
 
 (1) Time work includes hours when a worker is available, and required to be available, at or near a place of work for the purposes of working unless the worker is at home.
 
 (2) In paragraph (1), hours when a worker is “available” only includes hours when the worker is awake for the purposes of working, even if a worker by arrangement sleeps at or near a place of work and the employer provides suitable facilities for sleeping.
 
-#### 33. Training treated as hours of time work[^key-e1c000615b697e0e2ecbd63de2f7dfa4]
+#### 33. Training treated as hours of time work[^c-e1c000615b697e0e2ecbd63de2f7dfa4]
 
 The hours a worker spends training, when the worker would otherwise be doing time work, are treated as hours of time work.
 
-#### 34. Travelling treated as hours of time work[^key-d78bf22ab7c0a67bb5753d5360d3baa8]
+#### 34. Travelling treated as hours of time work[^c-d78bf22ab7c0a67bb5753d5360d3baa8]
 
 (1) The hours when a worker is travelling for the purposes of time work, where the worker would otherwise be working, are treated as hours of time work unless the travelling is between—
 
@@ -605,7 +605,7 @@ The hours a worker spends training, when the worker would otherwise be doing tim
 - (a) hours when the worker is travelling for the purpose of carrying out assignments to be carried out at different places between which the worker is obliged to travel, and which are not places occupied by the employer;
 - (b) hours when the worker is travelling where it is uncertain whether the worker would otherwise be working because the worker’s hours of work vary either as to their length or in respect of the time at which they are performed.
 
-#### 35. Hours not treated as time work[^key-a347143887e77e47cc36411d61ff1126]
+#### 35. Hours not treated as time work[^c-a347143887e77e47cc36411d61ff1126]
 
 (1) The hours a worker is absent from work are not treated as hours of time work, except as specified in regulations 32 to 34.
 
@@ -615,13 +615,13 @@ The hours a worker spends training, when the worker would otherwise be doing tim
 
 (4) A worker is not to be treated as taking a rest break during hours which, in accordance with regulation 34, are treated as hours of time work.
 
-### CHAPTER 4 — Output work[^key-3395c46953b77602a22fdbb2a3be4dde][^key-ed06a3366ac2bd246a19af62b7ca0406]
+### CHAPTER 4 — Output work[^c-3395c46953b77602a22fdbb2a3be4dde][^c-ed06a3366ac2bd246a19af62b7ca0406]
 
-#### 36. The meaning of output work[^key-37be1330140f31adcb69e4330127be6d]
+#### 36. The meaning of output work[^c-37be1330140f31adcb69e4330127be6d]
 
 Output work is work, other than time work, in respect of which a worker is entitled under their contract to be paid by reference to a measure of output by the worker, including a number of pieces made or processed, or a number of tasks performed.
 
-#### 37. Determining hours of output work in a pay reference period[^key-503c3c938b80f1b2bf1903db541f445a]
+#### 37. Determining hours of output work in a pay reference period[^c-503c3c938b80f1b2bf1903db541f445a]
 
 The hours of output work in a pay reference period are the total number of hours—
 
@@ -629,11 +629,11 @@ The hours of output work in a pay reference period are the total number of hours
 - (b) of output work in that period which is not rated output work; and
 - (c) treated as hours of output work in that period as determined in accordance with regulations 38 and 39.
 
-#### 38. Training treated as hours of output work[^key-14a8dfb651000a95b8419fba5943e049]
+#### 38. Training treated as hours of output work[^c-14a8dfb651000a95b8419fba5943e049]
 
 The hours when a worker is training, if the worker would otherwise be doing output work, are treated as hours of output work.
 
-#### 39. Travelling treated as hours of output work[^key-8700bd1ae27e51ed7099bffce08cc47e]
+#### 39. Travelling treated as hours of output work[^c-8700bd1ae27e51ed7099bffce08cc47e]
 
 (1) The hours when a worker is travelling for the purposes of output work are treated as hours of output work unless the travelling is between—
 
@@ -642,11 +642,11 @@ The hours when a worker is training, if the worker would otherwise be doing outp
 
 (2) If a worker does output work at home or a place where the worker is temporarily residing the hours when a worker is travelling between that place and premises at which the worker reports are to be treated as hours of output work.
 
-#### 40. Industrial action not treated as output work[^key-a8b060783581161736c92497f1f62b26]
+#### 40. Industrial action not treated as output work[^c-a8b060783581161736c92497f1f62b26]
 
 The hours when a worker is taking part in industrial action are not to be treated as hours of output work.
 
-#### 41. Requirements for rated output work[^key-fc23654990d52976f54b01fcddfe18d5]
+#### 41. Requirements for rated output work[^c-fc23654990d52976f54b01fcddfe18d5]
 
 (1) In this Chapter, output work is “rated output work” if all of the following requirements are met—
 
@@ -665,7 +665,7 @@ The hours when a worker is taking part in industrial action are not to be treate
   - (iv) the rate to be paid to the worker for a single measure of output;
   - (v) the telephone number for the Secretary of State’s helpline for workers and employers on workers’ pay and rights at work as published, from time to time, by the Secretary of State.
 
-#### 42. The meaning of average hourly output rate (rated output work)[^key-39c7d33c325aa99449b3f9294cd6328d]
+#### 42. The meaning of average hourly output rate (rated output work)[^c-39c7d33c325aa99449b3f9294cd6328d]
 
 (1) In this Chapter, the “average hourly output rate” is the mean number (including any fraction) of the measure of output per hour.
 
@@ -692,36 +692,36 @@ The hours when a worker is taking part in industrial action are not to be treate
 
 (5) If there are changes in the number or identity of workers who do the output work, the employer is not required to conduct a further test or make a further estimate unless the employer has reason to believe that the changes materially affect the average hourly output rate.
 
-#### 43. Determining hours of rated output work in a pay reference period[^key-d314d212c8b9fb0f850b1a7b808ad059]
+#### 43. Determining hours of rated output work in a pay reference period[^c-d314d212c8b9fb0f850b1a7b808ad059]
 
 Where output work is rated output work, the time spent by the worker doing the output work during the pay reference period is 120 per cent of the number of hours that a worker, doing the work at the average hourly output rate, would have taken to produce the same measure of output in that period.
 
 ### CHAPTER 5 — Unmeasured work
 
-#### 44. The meaning of unmeasured work[^key-cece8dcc76ef2fc8c0a2c569aa3e7e49]
+#### 44. The meaning of unmeasured work[^c-cece8dcc76ef2fc8c0a2c569aa3e7e49]
 
 Unmeasured work is any other work that is not time work, salaried hours work or output work.
 
-#### 45. Determining hours of unmeasured work in a pay reference period[^key-280529faeb314ae6ce50d19ebc543b5e]
+#### 45. Determining hours of unmeasured work in a pay reference period[^c-280529faeb314ae6ce50d19ebc543b5e]
 
 The hours of unmeasured work in a pay reference period are the total number of hours—
 
 - (a) which are worked (or treated as hours of unmeasured work in accordance with regulations 46 and 47) by the worker in that period; or
 - (b) which the worker is treated as working under a daily average agreement in that period, as determined in accordance with regulation 50.
 
-#### 46. Training treated as hours of unmeasured work[^key-db4a0d947b8a5b77af1de2bc4fac6a7b]
+#### 46. Training treated as hours of unmeasured work[^c-db4a0d947b8a5b77af1de2bc4fac6a7b]
 
 The hours when a worker is training, where the worker would otherwise be doing unmeasured work, are to be treated as hours of unmeasured work.
 
-#### 47. Travelling treated as hours of unmeasured work[^key-7fe4e8d2f6a5bf50fa26d0e768773f17]
+#### 47. Travelling treated as hours of unmeasured work[^c-7fe4e8d2f6a5bf50fa26d0e768773f17]
 
 The hours when a worker is travelling for the purposes of unmeasured work are to be treated as hours of unmeasured work.
 
-#### 48. Industrial action not to be unmeasured work[^key-c0749c495b549432de1cab6d78e6a42f]
+#### 48. Industrial action not to be unmeasured work[^c-c0749c495b549432de1cab6d78e6a42f]
 
 The hours when a worker takes part in industrial action are not to be treated as hours of unmeasured work.
 
-#### 49. The daily average agreement[^key-9a9b6e5aa1d162ab41d4a221ba0b159c]
+#### 49. The daily average agreement[^c-9a9b6e5aa1d162ab41d4a221ba0b159c]
 
 (1) A “daily average agreement” is an agreement between a worker and employer—
 
@@ -732,7 +732,7 @@ The hours when a worker takes part in industrial action are not to be treated as
 
 (3) Unless the worker and employer agree otherwise, the daily average agreement has effect solely for the purpose of determining the amount of unmeasured work the worker is to be treated as having worked for the purposes of these Regulations.
 
-#### 50. Determining the hours treated as worked under a daily average agreement[^key-56d96fc0d5119945862d70f38bd94152]
+#### 50. Determining the hours treated as worked under a daily average agreement[^c-56d96fc0d5119945862d70f38bd94152]
 
 The hours treated as worked under a daily average agreement for each day on which the worker worked in the pay reference period are—
 
@@ -741,7 +741,7 @@ The hours treated as worked under a daily average agreement for each day on whic
 
 ## PART 6 — Exclusions
 
-### 51. Schemes for training, work experience, temporary work or for seeking or obtaining work[^key-ebf92070bd7751d134c6fd19ab9c28a9]
+### 51. Schemes for training, work experience, temporary work or for seeking or obtaining work[^c-ebf92070bd7751d134c6fd19ab9c28a9]
 
 (1) A person who is participating in a scheme which meets the requirements in paragraph (2) does not qualify for the national minimum wage for work done as part of that scheme.
 
@@ -749,14 +749,14 @@ The hours treated as worked under a daily average agreement for each day on whic
 
 - (a) is designed to provide training, work experience or temporary work, or to assist in the seeking or obtaining of work, and
 - (b) is, in whole or in part, made or funded by—
-  - (i) the Secretary of State under section 2 of the Employment and Training Act 1973[^f00032] ,[^key-963fbef20c8cbb16c987f6a801565d51] section 17B of the Jobseekers Act 1995 or section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^key-9329bb66ce84f4bde04faa15644c2dc1][^f00033];
+  - (i) the Secretary of State under section 2 of the Employment and Training Act 1973[^f00032] ,[^c-963fbef20c8cbb16c987f6a801565d51] section 17B of the Jobseekers Act 1995 or section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^c-9329bb66ce84f4bde04faa15644c2dc1][^f00033];
   - (ii) the Scottish Ministers or the Welsh Ministers under section 2 of the Employment and Training Act 1973;
-  - (iii)[^key-c70084e30bee199748c651c2ad355278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-c70084e30bee199748c651c2ad355278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) Scottish Enterprise or Highlands and Islands Enterprise under section 2 of the Enterprise and New Towns (Scotland) Act 1990[^f00034];
   - (v) the Department for Employment and Learning under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00035]; or
   - (vi) the European Social Fund established under Article 162 of the Treaty on the Functioning of the European Union[^f00036] .
 
-### 52. Schemes for trial periods of work[^key-a95a200d0c96a65c8d6cc4ec3916e5b8]
+### 52. Schemes for trial periods of work[^c-a95a200d0c96a65c8d6cc4ec3916e5b8]
 
 (1) A person who is participating in a trial period of work with an employer for a period of six weeks or less, as part of a scheme which meets the requirements in paragraph (2), does not qualify for the national minimum wage for the work done for that employer in that period.
 
@@ -764,18 +764,18 @@ The hours treated as worked under a daily average agreement for each day on whic
 
 - (a) is designed to provide training, work experience or temporary work, or to assist in the seeking or obtaining of work, and
 - (b) is, in whole or in part, made or funded by—
-  - (i) the Secretary of State under section 2 of the Employment and Training Act 1973 ,[^key-3a895646ac3aea8f78c832de7d9791e4] section 17B of the Jobseekers Act 1995 or section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^key-e26c760b0b26b65788cbe232a98e6280];
+  - (i) the Secretary of State under section 2 of the Employment and Training Act 1973 ,[^c-3a895646ac3aea8f78c832de7d9791e4] section 17B of the Jobseekers Act 1995 or section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^c-e26c760b0b26b65788cbe232a98e6280];
   - (ii) the Scottish Ministers or the Welsh Ministers under section 2 of the Employment and Training Act 1973;
-  - (iii)[^key-b49dfa7565082216c778a0b255e9236b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-b49dfa7565082216c778a0b255e9236b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) Scottish Enterprise or Highlands and Islands Enterprise under section 2 of the Enterprise and New Towns (Scotland) Act 1990;
   - (v) the Department for Employment and Learning under section 1 of the Employment and Training Act (Northern Ireland) 1950; or
   - (vi) the European Social Fund established under Article 162 of the Treaty on the Functioning of the European Union.
 
-### 53. Work experience as part of a higher or further education course[^key-0c0adbdd44e8593bde92275ae8787d29]
+### 53. Work experience as part of a higher or further education course[^c-0c0adbdd44e8593bde92275ae8787d29]
 
 A person who undertakes a higher education course or further education course, and before the course ends is required, as part of that course, to attend a period of work experience not exceeding one year, does not qualify for the national minimum wage as respects work done for the employer as part of that course.
 
-### 54. Traineeships in England[^key-8395a9d09e668d27ee5bb8372df7d103]
+### 54. Traineeships in England[^c-8395a9d09e668d27ee5bb8372df7d103]
 
 (1) A worker does not qualify for the national minimum wage for work done as part of that worker’s participation in a traineeship in England to which paragraph (2) applies.
 
@@ -786,16 +786,16 @@ A person who undertakes a higher education course or further education course, a
 - (c) the programme is government funded; and
 - (d) the programme is open to persons who on the first day of the traineeship have attained the age of 16 but not 25 years old.
 
-### 55. Work schemes for provision of accommodation to the homeless[^key-cd6d9fda60f3c119966d3f1502fb2811]
+### 55. Work schemes for provision of accommodation to the homeless[^c-cd6d9fda60f3c119966d3f1502fb2811]
 
 (1) A worker, who meets the requirements in paragraph (2), does not qualify for the national minimum wage for work done for an employer, under a scheme which meets the requirements in paragraph (3), if the worker is provided with accommodation and other benefits (which may include money) under that scheme.
 
 (2) The requirements are that immediately before entry into the scheme the worker was homeless or residing in a hostel for homeless persons and—
 
 - (a) was in receipt of, or entitled to any of the following benefits—
-  - (i) universal credit (payable under Part 1 of the Welfare Reform Act 2012[^f00037]) or Part 2 of the Welfare Reform (Northern Ireland) Order 2015[^key-673e42580c9941720dfc74e268cbef6e],
-  - (ii) income support (payable under Part VII of the Social Security Contributions and Benefits Act 1992[^f00038]) or Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^key-7a9e25001a82e6941f623b8ace655afc],
-  - (iii) income-based jobseeker’s allowance (payable under Part I of the Jobseekers Act 1995[^f00039]) or Part II of the Jobseekers (Northern Ireland) Order 1995[^key-8f9656e471741b67cd073f7fda89dc13],
+  - (i) universal credit (payable under Part 1 of the Welfare Reform Act 2012[^f00037]) or Part 2 of the Welfare Reform (Northern Ireland) Order 2015[^c-673e42580c9941720dfc74e268cbef6e],
+  - (ii) income support (payable under Part VII of the Social Security Contributions and Benefits Act 1992[^f00038]) or Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c-7a9e25001a82e6941f623b8ace655afc],
+  - (iii) income-based jobseeker’s allowance (payable under Part I of the Jobseekers Act 1995[^f00039]) or Part II of the Jobseekers (Northern Ireland) Order 1995[^c-8f9656e471741b67cd073f7fda89dc13],
   - (iv) income-related employment and support allowance (payable under Part 1 of the Welfare Reform Act 2007[^f00040] or Part 1 of the Welfare Reform Act (Northern Ireland) 2007[^f00041]); or
 - (b) was not entitled to receive any of those benefits only because the worker was not habitually resident in the United Kingdom.
 
@@ -808,7 +808,7 @@ A person who undertakes a higher education course or further education course, a
 - (c) the accommodation available under the scheme is provided by the person operating the scheme or under arrangements made between that person and another person; and
 - (d) the work done under the scheme is both provided by, and performed for, the person operating the scheme.
 
-### 56. European Union programmes[^key-b940f24c6a095819a4017cc8497534d5]
+### 56. European Union programmes[^c-b940f24c6a095819a4017cc8497534d5]
 
 A worker does not qualify for the national minimum wage for work that is done as a participant in any of the following programmes—
 
@@ -818,9 +818,9 @@ A worker does not qualify for the national minimum wage for work that is done as
 - (d) the European Community Erasmus Programme or Comenius Programme (both established pursuant to Decision No [1720/2006/EC](https://www.legislation.gov.uk/european/decision/2006/1720) of the European Parliament and the Council of the European Union establishing an action programme in the field of lifelong learning);
 - (e) Erasmus+ established pursuant to Regulation (EU) No.1288/2013 of the European Parliament and of the Council of 11th December 2013 establishing ‘Erasmus+’: the Union programme for education, training, youth and sport[^f00045].
 
-### 57. Work does not include work relating to family household[^key-9fa8fc1d194e5a1283c74d14316674c5]
+### 57. Work does not include work relating to family household[^c-9fa8fc1d194e5a1283c74d14316674c5]
 
-(1) In these Regulations, “work” does not include any work done by a worker in relation to an employer’s family household if the requirements in paragraph (2)[^key-699e97f1c83a9c6dcda029734efdadbf] are met.
+(1) In these Regulations, “work” does not include any work done by a worker in relation to an employer’s family household if the requirements in paragraph (2)[^c-699e97f1c83a9c6dcda029734efdadbf] are met.
 
 (2) The requirements are all of the following—
 
@@ -828,9 +828,9 @@ A worker does not qualify for the national minimum wage for work that is done as
 - (b) the worker resides in the family home of the employer;
 - (c) the worker shares in the tasks and activities of the family.
 
-(3)[^key-22bcf3df9fa3712dc76bf6d63afb95d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-22bcf3df9fa3712dc76bf6d63afb95d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 58. Work does not include work relating to family business[^key-144d94002cde7b3701d34ec660342d40]
+### 58. Work does not include work relating to family business[^c-144d94002cde7b3701d34ec660342d40]
 
 “Work” does not include any work done by a worker in relation to an employer’s family business if the worker—
 
@@ -840,7 +840,7 @@ A worker does not qualify for the national minimum wage for work that is done as
 
 ## PART 7 — Records
 
-### 59. Records to be kept by an employer[^key-47762b250d81a7375922cce625424b06]
+### 59. Records to be kept by an employer[^c-47762b250d81a7375922cce625424b06]
 
 (1) The employer of a worker who qualifies for the national minimum wage must keep in respect of that worker records sufficient to establish that the employer is remunerating the worker at a rate at least equal to the national minimum wage.
 
@@ -860,7 +860,7 @@ A worker does not qualify for the national minimum wage for work that is done as
 
 (7) Where under paragraph (5) an employer is required to keep records in respect of a worker in addition to those the employer is required to keep under paragraph (1), those additional records are to be in a form which enables the information kept under paragraph (5) about a worker in respect of a pay reference period to be produced in a single document.
 
-(8) The records required to be kept by this regulation must be kept by the employer for a period of six years[^key-80e4c342ee07d9aad9d4874f23d6b2ad] beginning with the day upon which the pay reference period immediately following that to which they relate ends.
+(8) The records required to be kept by this regulation must be kept by the employer for a period of six years[^c-80e4c342ee07d9aad9d4874f23d6b2ad] beginning with the day upon which the pay reference period immediately following that to which they relate ends.
 
 (9) The records required to be kept by this regulation may be kept by means of a computer.
 
@@ -872,7 +872,7 @@ Department for Business, Innovation and Skills
 
 9th March 2015
 
-## SCHEDULE — Revocations[^key-6436a2ec693deef9bce28cc8e5b5548e]
+## SCHEDULE — Revocations[^c-6436a2ec693deef9bce28cc8e5b5548e]
 
 Regulation 2
 
@@ -947,29 +947,29 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00005]: Footnote: [S.I. 1977/2151 (N.I. 22)](https://www.legislation.gov.uk/nisi/1977/2151). Article 8A(1) was inserted by the National Minimum Wage Act [1998 (c.39)](https://www.legislation.gov.uk/ukpga/1998/39), Schedule 2, paragraph 26.
 
-[^key-eb34d09786443108e9c0f751c3dbe852]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-eb34d09786443108e9c0f751c3dbe852]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-9df28d7f9e688c6c51e1359af8069709]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-9df28d7f9e688c6c51e1359af8069709]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-999a6fc471a8c05b14c402441b84f498]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-999a6fc471a8c05b14c402441b84f498]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00006]: Footnote: [1998 c.39](https://www.legislation.gov.uk/ukpga/1998/39).
 
-[^key-21cd197c8c442f9cf5f08cb085416ab3]: Textual amendment: Word in reg. 3 substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/3/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-21cd197c8c442f9cf5f08cb085416ab3]: Textual amendment: Word in reg. 3 substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/3/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
 [^f00007]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56); section 8 had words substituted by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), section 52.
 
 [^f00008]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32); in section 14, the heading and subsection (2) were amended, and subsection (2A) inserted, by the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), section 59; subsection (2ZA) was inserted, and subsection (3) was amended, by the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18), Schedule 14, paragraph 23; subsection (2)(ca) was inserted and subsection (2ZA) was amended by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), section 15(2); section 14 and subsection (3) were amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-d382afd2baa892461a5cb5325ea4e00b]: Textual amendment: Words in reg. 3 inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/2/a)
+[^c-d382afd2baa892461a5cb5325ea4e00b]: Textual amendment: Words in reg. 3 inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/2/a)
 
-[^key-0e3acc08094c7b38e90f9f317870f707]: Textual amendment: Words in reg. 3 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(2)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/2/b)
+[^c-0e3acc08094c7b38e90f9f317870f707]: Textual amendment: Words in reg. 3 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(2)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/2/b)
 
 [^f00010]: Footnote: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22); Part 7 was amended by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), section 22 and 23 and Schedule 8, paragraph 23 and 24.
 
 [^f00011]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21); subsection (1) of section 98 was amended, subsection (2A) was repealed and subsection (2B)and (2C) were inserted, by the Apprenticeships, Skills, Children and Learning Act 2009, section 44, Schedule 16, Part 2 and Schedule 12, paragraph 28; subsections (4), (7) and (8) were omitted by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), section 159 and Schedule 16, paragraph 14.
 
-[^key-2442d144a0ea53ba72a400967fd9af91]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/621/regulation/3/b) substituted (E.W.) (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/uksi/2016/236), [regs. 1](https://www.legislation.gov.uk/uksi/2016/236/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/236/regulation/19); which amendment is extended to S. and N.I. (1.4.2017) by [The Qualifications Wales Act 2015 (Consequential Provision) Order 2017 (S.I. 2017/121)](https://www.legislation.gov.uk/uksi/2017/121), [arts. 1](https://www.legislation.gov.uk/uksi/2017/121/article/1), [3](https://www.legislation.gov.uk/uksi/2017/121/article/3)
+[^c-2442d144a0ea53ba72a400967fd9af91]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/621/regulation/3/b) substituted (E.W.) (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/uksi/2016/236), [regs. 1](https://www.legislation.gov.uk/uksi/2016/236/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/236/regulation/19); which amendment is extended to S. and N.I. (1.4.2017) by [The Qualifications Wales Act 2015 (Consequential Provision) Order 2017 (S.I. 2017/121)](https://www.legislation.gov.uk/uksi/2017/121), [arts. 1](https://www.legislation.gov.uk/uksi/2017/121/article/1), [3](https://www.legislation.gov.uk/uksi/2017/121/article/3)
 
 [^f00014]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).
 
@@ -977,29 +977,29 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00016]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-211afaba260c21843c8e026b3d25aa5f]: Textual amendment: Word in reg. 3 substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/3/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-211afaba260c21843c8e026b3d25aa5f]: Textual amendment: Word in reg. 3 substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/3/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-2554194bc1401d58f342c0d6e825fb71]: Textual amendment: Words in reg. 3 inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/3/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-2554194bc1401d58f342c0d6e825fb71]: Textual amendment: Words in reg. 3 inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/3/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-687f3bdbdf892f93064e5c00029bd589]: Textual amendment: Regs. 4-4B substituted for reg. 4 (1.4.2016) by [The National Minimum Wage (Amendment) Regulations 2016 (S.I. 2016/68)](https://www.legislation.gov.uk/uksi/2016/68), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/68/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2016/68/regulation/3)
+[^c-687f3bdbdf892f93064e5c00029bd589]: Textual amendment: Regs. 4-4B substituted for reg. 4 (1.4.2016) by [The National Minimum Wage (Amendment) Regulations 2016 (S.I. 2016/68)](https://www.legislation.gov.uk/uksi/2016/68), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/68/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2016/68/regulation/3)
 
-[^key-1c53a5a009f6f19902608f77b9df1569]: Textual amendment: Sum in reg. 4 substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/2)
+[^c-1c53a5a009f6f19902608f77b9df1569]: Textual amendment: Sum in reg. 4 substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/2)
 
-[^key-f81b75eb1b78b886e4737a1bd8335c4f]: Textual amendment: Reg. 4A(1)(a) omitted (1.4.2024) by virtue of [The National Minimum Wage (Amendment) (No. 2) Regulations 2024 (S.I. 2024/432)](https://www.legislation.gov.uk/uksi/2024/432), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/432/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/432/regulation/2/3/a)
+[^c-f81b75eb1b78b886e4737a1bd8335c4f]: Textual amendment: Reg. 4A(1)(a) omitted (1.4.2024) by virtue of [The National Minimum Wage (Amendment) (No. 2) Regulations 2024 (S.I. 2024/432)](https://www.legislation.gov.uk/uksi/2024/432), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/432/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/432/regulation/2/3/a)
 
-[^key-2723edc50e67bec76f8b54119f7ef261]: Textual amendment: Sum in reg. 4A(1)(b) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/3/a)
+[^c-2723edc50e67bec76f8b54119f7ef261]: Textual amendment: Sum in reg. 4A(1)(b) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/3/a)
 
-[^key-2c677b94f93d57b3779c6947c79d5ded]: Textual amendment: Sum in reg. 4A(1)(c) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/3/b)
+[^c-2c677b94f93d57b3779c6947c79d5ded]: Textual amendment: Sum in reg. 4A(1)(c) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/3/b)
 
-[^key-a5ba18d70bc5a8c0e201425638c3fce6]: Textual amendment: Sum in reg. 4A(1)(d) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/3/c)
+[^c-a5ba18d70bc5a8c0e201425638c3fce6]: Textual amendment: Sum in reg. 4A(1)(d) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/3/c)
 
-[^key-67f152b12c37f87464386107a56372cb]: Textual amendment: Words in [reg. 4A(2)](https://www.legislation.gov.uk/uksi/2015/621/regulation/4A/2) substituted (1.4.2024) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2024 (S.I. 2024/432)](https://www.legislation.gov.uk/uksi/2024/432), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/432/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/432/regulation/2/4)
+[^c-67f152b12c37f87464386107a56372cb]: Textual amendment: Words in [reg. 4A(2)](https://www.legislation.gov.uk/uksi/2015/621/regulation/4A/2) substituted (1.4.2024) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2024 (S.I. 2024/432)](https://www.legislation.gov.uk/uksi/2024/432), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/432/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/432/regulation/2/4)
 
-[^key-0296b71409b120e8261df5154ff3c481]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-0296b71409b120e8261df5154ff3c481]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-b5b338a71677b80fe12ae499fba7317b]: Textual amendment: Reg. 5(1)(a): comma substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/3/2/a)
+[^c-b5b338a71677b80fe12ae499fba7317b]: Textual amendment: Reg. 5(1)(a): comma substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/3/2/a)
 
-[^key-9084854db23a7c477ab4f5467a46f704]: Textual amendment: Words in reg. 5(1)(a) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/3/2/b)
+[^c-9084854db23a7c477ab4f5467a46f704]: Textual amendment: Words in reg. 5(1)(a) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/3/2/b)
 
 [^f00017]: Footnote: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the Employment Act [1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25; subsections (3A) to (3B) were inserted by the Trade Union Reform and Employment Rights Act [1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), section 47; subsections (2) and (6) were repealed by the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), section 29(4) and Schedule 7, paragraph 1; the powers under section 2 are exercisable by the Welsh Ministers concurrently with the Secretary of State by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) .
 
@@ -1009,31 +1009,31 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00020]: Footnote: [1950 c.29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); the powers of the Department under section 1 were extended by [S.I. 1974/2144 (N.I.7)](https://www.legislation.gov.uk/nisi/1974/2144), Article 7; subsections (1) to (1C) were substituted for subsections (1)to (1A) by [S.I. 1988/1087 (N.I. 10](https://www.legislation.gov.uk/nisi/1988/1087),; subsections (2) and (3) were amended by [S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200), Article 5; section 1(1A)(d) was amended by the Employment Act (Northern Ireland) [2010 c.12 (N.I.)](https://www.legislation.gov.uk/nia/2010/12), Schedule 1, paragraph 1.
 
-[^key-0980eb343b65c1fcfd5e45f6af71d39c]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-0980eb343b65c1fcfd5e45f6af71d39c]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00021]: Footnote: This is the period prescribed for the purpose of section 1(4) of the Act.
 
-[^key-327a98156ba9057459e5e4819ef368d7]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-327a98156ba9057459e5e4819ef368d7]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-a13d391c778ba38cf6b6ce744d0b5885]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-a13d391c778ba38cf6b6ce744d0b5885]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-9ad84ab2ca14c2a742830428360286cb]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-9ad84ab2ca14c2a742830428360286cb]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-71178580173f0aaacd8127fe806c8432]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-71178580173f0aaacd8127fe806c8432]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00022]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-abba4f0ad003b341bc8b66bca8254217]: Textual amendment: Words in reg. 10 inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/339/regulation/4) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-abba4f0ad003b341bc8b66bca8254217]: Textual amendment: Words in reg. 10 inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/339/regulation/4) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-8dcb9317600691103da0d23ef0d28172]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-8dcb9317600691103da0d23ef0d28172]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-1993999d3e870cb7e84c6e2c4844730d]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-1993999d3e870cb7e84c6e2c4844730d]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-2506887159699ba9856fed9d0b838556]: Textual amendment: Reg. 12(2)(e) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/339/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2020/339/regulation/17))
+[^c-2506887159699ba9856fed9d0b838556]: Textual amendment: Reg. 12(2)(e) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/339/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2020/339/regulation/17))
 
-[^key-14352830991b277979779f58f9653ca2]: Textual amendment: Reg. 13 substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/339/regulation/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2020/339/regulation/17))
+[^c-14352830991b277979779f58f9653ca2]: Textual amendment: Reg. 13 substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/339/regulation/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2020/339/regulation/17))
 
-[^key-22b9bb7180b8aa97d9e4e4faa54e1e13]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-22b9bb7180b8aa97d9e4e4faa54e1e13]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00023]: Footnote: A “16 to 19 Academy” is defined in section 1B of the Academies Act [2010 (c.32)](https://www.legislation.gov.uk/ukpga/2010/32), which was inserted by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), section 53(7).
 
@@ -1053,125 +1053,125 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00031]: Footnote: [S.I. 1992/1725 (N.I.15)](https://www.legislation.gov.uk/nisi/1992/1725); Article 20 was amended, Article 21to 21C were substituted for Article 21, and words were inserted in Article 23(2), by the Housing (Amendment) Act (Northern Ireland) [2011 (c.22) (N.I.)](https://www.legislation.gov.uk/nia/2011/22), section 6, section 7 and Schedule 1, paragraph 1; Article 29 was amended by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194); Articles 23 and Articles 27 to 29 were amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-f91f9da62ef73fd92877a6a80ba078bc]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-f91f9da62ef73fd92877a6a80ba078bc]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-72b5e26587ca104e819f3c23b8bda2eb]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-72b5e26587ca104e819f3c23b8bda2eb]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-d44a02e8f0064d4c9182c790b8a32eb9]: Textual amendment: Sum in reg. 16(1) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/4)
+[^c-d44a02e8f0064d4c9182c790b8a32eb9]: Textual amendment: Sum in reg. 16(1) substituted (1.4.2026) by [The National Minimum Wage (Amendment) Regulations 2026 (S.I. 2026/357)](https://www.legislation.gov.uk/uksi/2026/357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/401/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/401/regulation/2/4)
 
-[^key-40b263dbca02f96ca39327645f45f7a9]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-40b263dbca02f96ca39327645f45f7a9]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-5cacabaed390feb8ad36c193923c957d]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-5cacabaed390feb8ad36c193923c957d]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-69abc6d629ce61847f57bf4656a49857]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-69abc6d629ce61847f57bf4656a49857]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-00b644d161d60ba2654747dd6f4aad5d]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-00b644d161d60ba2654747dd6f4aad5d]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-ecd0444b94eec7e0ef1c9cbc75d1724f]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-ecd0444b94eec7e0ef1c9cbc75d1724f]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-f1212682f8fc5a8f5f716c2ed67851f1]: Textual amendment: Reg. 21(2) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-f1212682f8fc5a8f5f716c2ed67851f1]: Textual amendment: Reg. 21(2) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-9722609c132a1c0e624531a6e2ca184a]: Textual amendment: Words in reg. 21(3) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-9722609c132a1c0e624531a6e2ca184a]: Textual amendment: Words in reg. 21(3) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-a1cd353122da4fe71aaf47e6e700024a]: Textual amendment: Reg. 21(4) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-a1cd353122da4fe71aaf47e6e700024a]: Textual amendment: Reg. 21(4) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-6d633df08085981d7022a82e079b5a58]: Textual amendment: Reg. 21(5) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/d) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-6d633df08085981d7022a82e079b5a58]: Textual amendment: Reg. 21(5) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/d) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-a158614b8cf76d1825a3f0fb9ad29c4e]: Textual amendment: Reg. 21(6)(aa) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(e)(i)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/e/i) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-a158614b8cf76d1825a3f0fb9ad29c4e]: Textual amendment: Reg. 21(6)(aa) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(e)(i)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/e/i) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-8f3eb494c10cbf5e9f888159a6f312bb]: Textual amendment: Reg. 21(6)(d) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/e/ii) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-8f3eb494c10cbf5e9f888159a6f312bb]: Textual amendment: Reg. 21(6)(d) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/e/ii) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-027654d5acdaea28c5aeebacf592b705]: Textual amendment: Reg. 21(9) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/f) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-027654d5acdaea28c5aeebacf592b705]: Textual amendment: Reg. 21(9) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2020/339/regulation/5/f) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-28958dac37538292d4c184eb837dc387]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-28958dac37538292d4c184eb837dc387]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-2a64b976e31778fca50d727a3bcef244]: Textual amendment: Reg. 22(2A)(2B) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/6/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-2a64b976e31778fca50d727a3bcef244]: Textual amendment: Reg. 22(2A)(2B) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/6/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-6214ca3b1bd44f8b1894b90d49a9d38d]: Textual amendment: Reg. 22(6)(b) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/6/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-6214ca3b1bd44f8b1894b90d49a9d38d]: Textual amendment: Reg. 22(6)(b) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/6/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-aae4a481405b1f11fce0ca1b1d99ee89]: Textual amendment: Reg. 22(7) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/6/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-aae4a481405b1f11fce0ca1b1d99ee89]: Textual amendment: Reg. 22(7) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/6/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-b8cce2bb83a40f3431280ff240a954d9]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-b8cce2bb83a40f3431280ff240a954d9]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-3e85f3456ff194264e9d9f42e854d13b]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-3e85f3456ff194264e9d9f42e854d13b]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-2a293604cf1ddadfec0f2519580d88ff]: Textual amendment: Reg. 24(1A) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/7/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-2a293604cf1ddadfec0f2519580d88ff]: Textual amendment: Reg. 24(1A) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/339/regulation/7/a) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-3d96082eeb43c8c74ca0332718757d8a]: Textual amendment: Words in reg. 24(4) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/7/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-3d96082eeb43c8c74ca0332718757d8a]: Textual amendment: Words in reg. 24(4) substituted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/339/regulation/7/b) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-06135eab13f69c61387d458165ed6d18]: Textual amendment: Reg. 24(5)-(9) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/7/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-06135eab13f69c61387d458165ed6d18]: Textual amendment: Reg. 24(5)-(9) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/339/regulation/7/c) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-ad2177cc85badea4157f9f243e94523b]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-ad2177cc85badea4157f9f243e94523b]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-ac1f8e43f0c798675fbb1edb74066b63]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-ac1f8e43f0c798675fbb1edb74066b63]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-5635d7523aa3e6109e6f899d482f02f6]: Textual amendment: Words in reg. 26(1)(c) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/339/regulation/8) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-5635d7523aa3e6109e6f899d482f02f6]: Textual amendment: Words in reg. 26(1)(c) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/339/regulation/8) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-3de722682872ce2a9d09c37d01d1266d]: Textual amendment: Words in reg. 26(1)(d) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/339/regulation/8) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
+[^c-3de722682872ce2a9d09c37d01d1266d]: Textual amendment: Words in reg. 26(1)(d) inserted (6.4.2020) by [The National Minimum Wage (Amendment) (No. 2) Regulations 2020 (S.I. 2020/339)](https://www.legislation.gov.uk/uksi/2020/339), [regs. 1](https://www.legislation.gov.uk/uksi/2020/339/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/339/regulation/8) (with [regs. 11-16](https://www.legislation.gov.uk/uksi/2020/339/regulation/11))
 
-[^key-609084d986133cfe8598aa31bf386a44]: Commencement: Reg. 27 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-609084d986133cfe8598aa31bf386a44]: Commencement: Reg. 27 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-fef6f1629026523b46eb1498fd06f196]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-fef6f1629026523b46eb1498fd06f196]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-39f8a739cb2e32a5749c6d24ae73f284]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-39f8a739cb2e32a5749c6d24ae73f284]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-3082eafcbea2fb42541a16316f064916]: Commencement: Reg. 30 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-3082eafcbea2fb42541a16316f064916]: Commencement: Reg. 30 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-1f4eb09178e6f8345c10d39b69aa38fb]: Commencement: Reg. 31 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-1f4eb09178e6f8345c10d39b69aa38fb]: Commencement: Reg. 31 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-fea0b4c956de336ab552395b9813b1b2]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-fea0b4c956de336ab552395b9813b1b2]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-e1c000615b697e0e2ecbd63de2f7dfa4]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-e1c000615b697e0e2ecbd63de2f7dfa4]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-d78bf22ab7c0a67bb5753d5360d3baa8]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-d78bf22ab7c0a67bb5753d5360d3baa8]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-a347143887e77e47cc36411d61ff1126]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-a347143887e77e47cc36411d61ff1126]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-3395c46953b77602a22fdbb2a3be4dde]: Modification: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2015/621/part/5/chapter/4) applied (with modifications) (E.W.S.) (31.3.2017) by [The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017 (S.I. 2017/353)](https://www.legislation.gov.uk/uksi/2017/353), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/353/regulation/1/1), [Sch. 1 para. 7(6)](https://www.legislation.gov.uk/uksi/2017/353/schedule/1/paragraph/7/6)[(7)](https://www.legislation.gov.uk/uksi/2017/353/schedule/1/paragraph/7/7) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/5))
+[^c-3395c46953b77602a22fdbb2a3be4dde]: Modification: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2015/621/part/5/chapter/4) applied (with modifications) (E.W.S.) (31.3.2017) by [The Equality Act 2010 (Specific Duties and Public Authorities) Regulations 2017 (S.I. 2017/353)](https://www.legislation.gov.uk/uksi/2017/353), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/353/regulation/1/1), [Sch. 1 para. 7(6)](https://www.legislation.gov.uk/uksi/2017/353/schedule/1/paragraph/7/6)[(7)](https://www.legislation.gov.uk/uksi/2017/353/schedule/1/paragraph/7/7) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2017/353/regulation/2/5))
 
-[^key-ed06a3366ac2bd246a19af62b7ca0406]: Modification: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2015/621/part/5/chapter/4) applied (with modifications) (E.W.S.) (6.4.2017) by [The Equality Act 2010 (Gender Pay Gap Information) Regulations 2017 (S.I. 2017/172)](https://www.legislation.gov.uk/uksi/2017/172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/172/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/172/regulation/7/5)
+[^c-ed06a3366ac2bd246a19af62b7ca0406]: Modification: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/uksi/2015/621/part/5/chapter/4) applied (with modifications) (E.W.S.) (6.4.2017) by [The Equality Act 2010 (Gender Pay Gap Information) Regulations 2017 (S.I. 2017/172)](https://www.legislation.gov.uk/uksi/2017/172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/172/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/172/regulation/7/5)
 
-[^key-37be1330140f31adcb69e4330127be6d]: Commencement: Reg. 36 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-37be1330140f31adcb69e4330127be6d]: Commencement: Reg. 36 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-503c3c938b80f1b2bf1903db541f445a]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-503c3c938b80f1b2bf1903db541f445a]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-14a8dfb651000a95b8419fba5943e049]: Commencement: Reg. 38 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-14a8dfb651000a95b8419fba5943e049]: Commencement: Reg. 38 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-8700bd1ae27e51ed7099bffce08cc47e]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-8700bd1ae27e51ed7099bffce08cc47e]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-a8b060783581161736c92497f1f62b26]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-a8b060783581161736c92497f1f62b26]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-fc23654990d52976f54b01fcddfe18d5]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-fc23654990d52976f54b01fcddfe18d5]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-39c7d33c325aa99449b3f9294cd6328d]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-39c7d33c325aa99449b3f9294cd6328d]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-d314d212c8b9fb0f850b1a7b808ad059]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-d314d212c8b9fb0f850b1a7b808ad059]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-cece8dcc76ef2fc8c0a2c569aa3e7e49]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-cece8dcc76ef2fc8c0a2c569aa3e7e49]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-280529faeb314ae6ce50d19ebc543b5e]: Commencement: Reg. 45 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-280529faeb314ae6ce50d19ebc543b5e]: Commencement: Reg. 45 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-db4a0d947b8a5b77af1de2bc4fac6a7b]: Commencement: Reg. 46 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-db4a0d947b8a5b77af1de2bc4fac6a7b]: Commencement: Reg. 46 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-7fe4e8d2f6a5bf50fa26d0e768773f17]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-7fe4e8d2f6a5bf50fa26d0e768773f17]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-c0749c495b549432de1cab6d78e6a42f]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-c0749c495b549432de1cab6d78e6a42f]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-9a9b6e5aa1d162ab41d4a221ba0b159c]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-9a9b6e5aa1d162ab41d4a221ba0b159c]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-56d96fc0d5119945862d70f38bd94152]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-56d96fc0d5119945862d70f38bd94152]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-ebf92070bd7751d134c6fd19ab9c28a9]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-ebf92070bd7751d134c6fd19ab9c28a9]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00032]: Footnote: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the Employment Act [1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25; subsection (3A) and (3B) were inserted by the Trade Union Reform and Employment Rights Act [1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), section 47; subsections (2) and (6) were repealed by the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), Schedule 7, paragraph 1. The powers under section 2 are exercisable by the Scottish Ministers concurrently with the Secretary of State by virtue of section 56(1)(g) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The powers under section 2 are exercisable by the Welsh Ministers concurrently with the Secretary of State by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-963fbef20c8cbb16c987f6a801565d51]: Textual amendment: Reg. 51(2)(b)(i): comma substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/3/a/i)
+[^c-963fbef20c8cbb16c987f6a801565d51]: Textual amendment: Reg. 51(2)(b)(i): comma substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/3/a/i)
 
-[^key-9329bb66ce84f4bde04faa15644c2dc1]: Textual amendment: Words in reg. 51(2)(b)(i) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/3/a/ii)
+[^c-9329bb66ce84f4bde04faa15644c2dc1]: Textual amendment: Words in reg. 51(2)(b)(i) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/3/a/ii)
 
 [^f00033]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18). Section 17B was inserted by the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24), section 1.
 
-[^key-c70084e30bee199748c651c2ad355278]: Textual amendment: Reg. 51(2)(b)(iii) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(3)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/3/b)
+[^c-c70084e30bee199748c651c2ad355278]: Textual amendment: Reg. 51(2)(b)(iii) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(3)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/3/b)
 
 [^f00034]: Footnote: [1990 c.35 (S.)](https://www.legislation.gov.uk/ukpga/1990/35); subsection (3)(b) and (c) and (4) of section 2 were amended, and subsection (3)(d) was inserted, by the Trade Union Reform and Employment Rights Act [1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), section 47 and Schedule 10, paragraph 1; subsection (4)(a) was amended by the Equality Act [2010 (c.15)](https://www.legislation.gov.uk/ukpga/2010/15), Schedule 26(1), paragraph 20; subsection (6) was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
@@ -1179,37 +1179,37 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00036]: Footnote: OJ No C83, 30.3.2010, p.47.
 
-[^key-a95a200d0c96a65c8d6cc4ec3916e5b8]: Commencement: Reg. 52 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-a95a200d0c96a65c8d6cc4ec3916e5b8]: Commencement: Reg. 52 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-3a895646ac3aea8f78c832de7d9791e4]: Textual amendment: [Reg. 52(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/621/regulation/52/2/b/i): comma substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/4/a/i)
+[^c-3a895646ac3aea8f78c832de7d9791e4]: Textual amendment: [Reg. 52(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/621/regulation/52/2/b/i): comma substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/4/a/i)
 
-[^key-e26c760b0b26b65788cbe232a98e6280]: Textual amendment: Words in [reg. 52(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/621/regulation/52/2/b/i) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/4/a/ii)
+[^c-e26c760b0b26b65788cbe232a98e6280]: Textual amendment: Words in [reg. 52(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/621/regulation/52/2/b/i) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/4/a/ii)
 
-[^key-b49dfa7565082216c778a0b255e9236b]: Textual amendment: [Reg. 52(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/621/regulation/52/2/b/iii) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(4)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/4/b)
+[^c-b49dfa7565082216c778a0b255e9236b]: Textual amendment: [Reg. 52(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/621/regulation/52/2/b/iii) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 33(4)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/33/4/b)
 
-[^key-0c0adbdd44e8593bde92275ae8787d29]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-0c0adbdd44e8593bde92275ae8787d29]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-8395a9d09e668d27ee5bb8372df7d103]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-8395a9d09e668d27ee5bb8372df7d103]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-cd6d9fda60f3c119966d3f1502fb2811]: Commencement: Reg. 55 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-cd6d9fda60f3c119966d3f1502fb2811]: Commencement: Reg. 55 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00037]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-673e42580c9941720dfc74e268cbef6e]: Textual amendment: Words in [reg. 55(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/621/regulation/55/2/a/i) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [46(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/46/a)
+[^c-673e42580c9941720dfc74e268cbef6e]: Textual amendment: Words in [reg. 55(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/621/regulation/55/2/a/i) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [46(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/46/a)
 
 [^f00038]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); Part VII was amended by the Housing Act [1991 (c.52)](https://www.legislation.gov.uk/ukpga/1991/52), Schedule 19; the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 9 and Schedule 14; the Social Security (Incapacity for Work) Act [1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), Schedules 1 and Schedule 2; the Local Government etc (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedules 13 and 14; the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2 and 3; the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 19(6); the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 8(IV); the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15), Schedule 6(3); the State Pension Credit Act [2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2 and 3; the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6; the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6; the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24(3) and Schedule 30; the Welfare Reform Act 2007 (c.5), Sections 30(2) and 31(1), Schedule 3, 5 and 8; the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24), section 3; the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), section 69 and Schedule 14(1); [S.I. 2002/1397](https://www.legislation.gov.uk/uksi/2002/1397); [S.I. 2008/632](https://www.legislation.gov.uk/uksi/2008/632); [S.I.2009/497](https://www.legislation.gov.uk/uksi/2009/497)and [S.I. 2012/780](https://www.legislation.gov.uk/uksi/2012/780); Part VII was repealed for certain purposes by the Welfare Reform Act 2012, schedule 14 and [S.I,2013/358](https://www.legislation.gov.uk/uksi/2013/358).
 
-[^key-7a9e25001a82e6941f623b8ace655afc]: Textual amendment: Words in [reg. 55(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/621/regulation/55/2/a/ii) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [46(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/46/b)
+[^c-7a9e25001a82e6941f623b8ace655afc]: Textual amendment: Words in [reg. 55(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/621/regulation/55/2/a/ii) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [46(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/46/b)
 
 [^f00039]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18); Part I was amended by the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18), Schedule 1; the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), Schedules 7 and 8; the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedules 1, 7, 8 and 13; the State Pension Credit Act [2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2(3); the National Insurance Contributions Act [2002 (c.19)](https://www.legislation.gov.uk/ukpga/2002/19), Schedule 1; the Income Tax (Earnings and Pensions) Act [2003 (c.18)](https://www.legislation.gov.uk/ukpga/2003/18), Schedule 6; the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24(7) and [S.I. 2006/343](https://www.legislation.gov.uk/uksi/2006/343); the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), Schedule 3; the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24), sections 1, 4, 12, 32to 33, Schedule 2, Schedule 7(1), Schedule 7(3) and [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293); Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10), Schedule 24; Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), sections 44, 46, 49, 61, Schedule 2, Schedule 5, Schedule 7, and Schedule 14(1) to (3); [S.I. 2011/1498](https://www.legislation.gov.uk/uksi/2011/1498); Part I was modified by [S.I. 2003/2438](https://www.legislation.gov.uk/uksi/2003/2438), [S.I. 2006/962](https://www.legislation.gov.uk/uksi/2006/962), [S.I. 1998/2825](https://www.legislation.gov.uk/uksi/1998/2825), [S.I. 2000/3134](https://www.legislation.gov.uk/uksi/2000/3134), [S.I. 1995/3276](https://www.legislation.gov.uk/uksi/1995/3276), [S.I. 1996/2567](https://www.legislation.gov.uk/uksi/1996/2567), [S.I. 1996/3182](https://www.legislation.gov.uk/uksi/1996/3182), [S.I. 2006/343](https://www.legislation.gov.uk/uksi/2006/343), [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207) and [S.I. 2013/378](https://www.legislation.gov.uk/uksi/2013/378).
 
-[^key-8f9656e471741b67cd073f7fda89dc13]: Textual amendment: Words in [reg. 55(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/621/regulation/55/2/a/iii) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [46(c)](https://www.legislation.gov.uk/nisr/2016/236/regulation/46/c)
+[^c-8f9656e471741b67cd073f7fda89dc13]: Textual amendment: Words in [reg. 55(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/621/regulation/55/2/a/iii) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [46(c)](https://www.legislation.gov.uk/nisr/2016/236/regulation/46/c)
 
 [^f00040]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5); Part I was amended by the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24), sections 3, 10 and 28, and Schedule 3(2), and the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), sections 50to 57 and 60, Schedules 3 and 14; Part I was modified by [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794), [S.I. 2010/875](https://www.legislation.gov.uk/uksi/2010/875), [S.I. 2010/1907](https://www.legislation.gov.uk/uksi/2010/1907) and [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379).
 
 [^f00041]: Footnote: [2007 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2); Part I was modified by [S.I. 2010/312](https://www.legislation.gov.uk/uksi/2010/312); Part I was amended by the Welfare Reform Act (Northern Ireland) [2010 (c.13)(N.I.)](https://www.legislation.gov.uk/nia/2010/13), sections 3, 10, and 22.
 
-[^key-b940f24c6a095819a4017cc8497534d5]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-b940f24c6a095819a4017cc8497534d5]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
 [^f00042]: Footnote: OJ L 146, 11/6/1999, p. 33, as amended by Council Regulation [(EC) No 885/2004](https://www.legislation.gov.uk/european/regulation/2004/0885) (OJ L 168, 01/05/2004, p.1) and European Parliament and Council Regulation No 1882/2003 (OJ L 284, 31/10/2003, p.1 ).
 
@@ -1219,16 +1219,16 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00045]: Footnote: OJ L 347, 20.12.2013, p.50.
 
-[^key-9fa8fc1d194e5a1283c74d14316674c5]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-9fa8fc1d194e5a1283c74d14316674c5]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-699e97f1c83a9c6dcda029734efdadbf]: Textual amendment: Words in reg. 57(1) substituted (1.4.2024) by [The National Minimum Wage (Amendment) Regulations 2024 (S.I. 2024/75)](https://www.legislation.gov.uk/uksi/2024/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/75/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/75/regulation/2/2/a)
+[^c-699e97f1c83a9c6dcda029734efdadbf]: Textual amendment: Words in reg. 57(1) substituted (1.4.2024) by [The National Minimum Wage (Amendment) Regulations 2024 (S.I. 2024/75)](https://www.legislation.gov.uk/uksi/2024/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/75/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/75/regulation/2/2/a)
 
-[^key-22bcf3df9fa3712dc76bf6d63afb95d0]: Textual amendment: Reg. 57(3) omitted (1.4.2024) by virtue of [The National Minimum Wage (Amendment) Regulations 2024 (S.I. 2024/75)](https://www.legislation.gov.uk/uksi/2024/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/75/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/75/regulation/2/2/b)
+[^c-22bcf3df9fa3712dc76bf6d63afb95d0]: Textual amendment: Reg. 57(3) omitted (1.4.2024) by virtue of [The National Minimum Wage (Amendment) Regulations 2024 (S.I. 2024/75)](https://www.legislation.gov.uk/uksi/2024/75), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/75/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/75/regulation/2/2/b)
 
-[^key-144d94002cde7b3701d34ec660342d40]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-144d94002cde7b3701d34ec660342d40]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-47762b250d81a7375922cce625424b06]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-47762b250d81a7375922cce625424b06]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
 
-[^key-80e4c342ee07d9aad9d4874f23d6b2ad]: Textual amendment: Words in reg. 59(8) substituted (1.4.2021) by [The National Minimum Wage (Amendment) Regulations 2021 (S.I. 2021/329)](https://www.legislation.gov.uk/uksi/2021/329), [regs. 1](https://www.legislation.gov.uk/uksi/2021/329/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/329/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/329/regulation/3))
+[^c-80e4c342ee07d9aad9d4874f23d6b2ad]: Textual amendment: Words in reg. 59(8) substituted (1.4.2021) by [The National Minimum Wage (Amendment) Regulations 2021 (S.I. 2021/329)](https://www.legislation.gov.uk/uksi/2021/329), [regs. 1](https://www.legislation.gov.uk/uksi/2021/329/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/329/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/329/regulation/3))
 
-[^key-6436a2ec693deef9bce28cc8e5b5548e]: Commencement: Sch. in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)
+[^c-6436a2ec693deef9bce28cc8e5b5548e]: Commencement: Sch. in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1)

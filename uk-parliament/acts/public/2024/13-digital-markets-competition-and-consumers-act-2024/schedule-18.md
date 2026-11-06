@@ -22,7 +22,7 @@ summary: ''
 
 Section 214
 
-### 1. Estate Agents Act 1979[^key-a43660c1decab24625b48b3b5c94cc6a][^key-7630f57dc68864d17b4e5d4b74e23e92]
+### 1. Estate Agents Act 1979[^c-a43660c1decab24625b48b3b5c94cc6a][^c-7630f57dc68864d17b4e5d4b74e23e92]
 
 In section 3 of the Estate Agents Act 1979 (orders prohibiting unfit persons from doing estate agency work), in subsection (1)—
 
@@ -34,7 +34,7 @@ In section 3 of the Estate Agents Act 1979 (orders prohibiting unfit persons fro
 
   .
 
-### 2. Companies Act 1985[^key-17b276d5a9cc55ee3dc31cfee08e5715][^key-b39ab0080cb4ba129660463f24f3dc2f]
+### 2. Companies Act 1985[^c-17b276d5a9cc55ee3dc31cfee08e5715][^c-b39ab0080cb4ba129660463f24f3dc2f]
 
 (1) Schedule 15D to the Companies Act 1985 is amended as follows.
 
@@ -45,25 +45,25 @@ In section 3 of the Estate Agents Act 1979 (orders prohibiting unfit persons fro
 
 (3) In paragraph 27 for “section 230(2) of the Enterprise Act 2002” substitute “section 171(2) of the Digital Markets, Competition and Consumers Act 2024”.
 
-### 3. Enterprise Act 2002[^key-a70dd7757e720c19e8960c96822eb085][^key-da475463dfec2b57b3f12e5bbd8b9887]
+### 3. Enterprise Act 2002[^c-a70dd7757e720c19e8960c96822eb085][^c-da475463dfec2b57b3f12e5bbd8b9887]
 
 EA 2002 is amended as follows.
 
-**4.**[^key-fa069ddde5615c5dcb1acc4e28facb65][^key-0e4343c9ccc2a453666f700795ab2b36] Omit Part 8 (including Schedule 13).
+**4.**[^c-fa069ddde5615c5dcb1acc4e28facb65][^c-0e4343c9ccc2a453666f700795ab2b36] Omit Part 8 (including Schedule 13).
 
-**5.**[^key-9873da55a56e72b3b8e0aba086645664][^key-af262889427f9d0fe41e8a30f12146e0] In section 238 (information), in subsection (1), in paragraph (a) for “, 7 or 8” substitute “or 7”.
+**5.**[^c-9873da55a56e72b3b8e0aba086645664][^c-af262889427f9d0fe41e8a30f12146e0] In section 238 (information), in subsection (1), in paragraph (a) for “, 7 or 8” substitute “or 7”.
 
-**6.**[^key-b933e203fcda8ce6f6fd876213089f8e][^key-fc1ac127e61fe38543f333f8a92f94ff] In section 243 (overseas disclosures), in subsection (3)(a) for the words from “designated” to the end substitute “a private designated enforcer for the purposes of Chapter 3 of Part 3 of the Digital Markets, Competition and Consumers Act 2024”.
+**6.**[^c-b933e203fcda8ce6f6fd876213089f8e][^c-fc1ac127e61fe38543f333f8a92f94ff] In section 243 (overseas disclosures), in subsection (3)(a) for the words from “designated” to the end substitute “a private designated enforcer for the purposes of Chapter 3 of Part 3 of the Digital Markets, Competition and Consumers Act 2024”.
 
-**7.**[^key-00254d9cc0fc7e0377f74b93fa243b1a][^key-38ff925380e458ef265c0230d386a49f] In Schedule 14 (provisions about disclosure of information) at the appropriate place insert—
-
-> - Chapters 3 and 4 of Part 3 of the Digital Markets, Competition and Consumers Act 2024.
-
-**8.**[^key-58b72946c0c5572758f6ac3b7cb5eb25][^key-1e8ed94340d78c5ec629d9354e24e017] In Schedule 15 (enactments conferring functions) at the appropriate place insert—
+**7.**[^c-00254d9cc0fc7e0377f74b93fa243b1a][^c-38ff925380e458ef265c0230d386a49f] In Schedule 14 (provisions about disclosure of information) at the appropriate place insert—
 
 > - Chapters 3 and 4 of Part 3 of the Digital Markets, Competition and Consumers Act 2024.
 
-### 9. Companies Act 2006[^key-ab9a608994d91b5b14ea36f61e8a22af][^key-936a8c6968b4aaa7b9417631021117f1]
+**8.**[^c-58b72946c0c5572758f6ac3b7cb5eb25][^c-1e8ed94340d78c5ec629d9354e24e017] In Schedule 15 (enactments conferring functions) at the appropriate place insert—
+
+> - Chapters 3 and 4 of Part 3 of the Digital Markets, Competition and Consumers Act 2024.
+
+### 9. Companies Act 2006[^c-ab9a608994d91b5b14ea36f61e8a22af][^c-936a8c6968b4aaa7b9417631021117f1]
 
 (1) The Companies Act 2006 is amended as follows.
 
@@ -79,7 +79,7 @@ EA 2002 is amended as follows.
 - (a) in paragraph 42, for the words after “under” to the end substitute “Chapter 3 or 4 of Part 3 of the Digital Markets, Competition and Consumers Act 2024 (enforcement of consumer protection law)”;
 - (b) in paragraph 51 for the words after “under” to the end substitute “section 171(2) of the Digital Markets, Competition and Consumers Act 2024 (notice of intention to prosecute etc)”.
 
-### 10. Regulatory Enforcement and Sanctions Act 2008[^key-86afddf91fb6dd7d07daf64a3a9005fc][^key-4e673a7774fe8b8973dc4c621c6a45ef]
+### 10. Regulatory Enforcement and Sanctions Act 2008[^c-86afddf91fb6dd7d07daf64a3a9005fc][^c-4e673a7774fe8b8973dc4c621c6a45ef]
 
 In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008, at the appropriate place insert—
 
@@ -87,7 +87,7 @@ In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008, at the appro
 
 .
 
-### 11. Consumer Rights Act 2015[^key-e191189aa8fdbfa9256415be57057266][^key-c4408e0118ef5f15adb703d58412e935]
+### 11. Consumer Rights Act 2015[^c-e191189aa8fdbfa9256415be57057266][^c-c4408e0118ef5f15adb703d58412e935]
 
 (1) Schedule 5 to CRA 2015 (investigatory powers) is amended as follows.
 
@@ -252,46 +252,46 @@ In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008, at the appro
 
 ## Annotations
 
-[^key-a43660c1decab24625b48b3b5c94cc6a]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a43660c1decab24625b48b3b5c94cc6a]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7630f57dc68864d17b4e5d4b74e23e92]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/1) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-7630f57dc68864d17b4e5d4b74e23e92]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/1) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-17b276d5a9cc55ee3dc31cfee08e5715]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-17b276d5a9cc55ee3dc31cfee08e5715]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b39ab0080cb4ba129660463f24f3dc2f]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/2) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-b39ab0080cb4ba129660463f24f3dc2f]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/2) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-a70dd7757e720c19e8960c96822eb085]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a70dd7757e720c19e8960c96822eb085]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-da475463dfec2b57b3f12e5bbd8b9887]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/3) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-da475463dfec2b57b3f12e5bbd8b9887]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/3) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-fa069ddde5615c5dcb1acc4e28facb65]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-fa069ddde5615c5dcb1acc4e28facb65]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-0e4343c9ccc2a453666f700795ab2b36]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/4) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-0e4343c9ccc2a453666f700795ab2b36]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/4) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-9873da55a56e72b3b8e0aba086645664]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9873da55a56e72b3b8e0aba086645664]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-af262889427f9d0fe41e8a30f12146e0]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/5) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-af262889427f9d0fe41e8a30f12146e0]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/5) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-b933e203fcda8ce6f6fd876213089f8e]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b933e203fcda8ce6f6fd876213089f8e]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fc1ac127e61fe38543f333f8a92f94ff]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/6) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-fc1ac127e61fe38543f333f8a92f94ff]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/6) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-00254d9cc0fc7e0377f74b93fa243b1a]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-00254d9cc0fc7e0377f74b93fa243b1a]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-38ff925380e458ef265c0230d386a49f]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/7) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-38ff925380e458ef265c0230d386a49f]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/7) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-58b72946c0c5572758f6ac3b7cb5eb25]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-58b72946c0c5572758f6ac3b7cb5eb25]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-1e8ed94340d78c5ec629d9354e24e017]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/8) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-1e8ed94340d78c5ec629d9354e24e017]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/8) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-ab9a608994d91b5b14ea36f61e8a22af]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ab9a608994d91b5b14ea36f61e8a22af]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-936a8c6968b4aaa7b9417631021117f1]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/9) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-936a8c6968b4aaa7b9417631021117f1]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/9) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-86afddf91fb6dd7d07daf64a3a9005fc]: Commencement: Sch. 18 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-86afddf91fb6dd7d07daf64a3a9005fc]: Commencement: Sch. 18 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4e673a7774fe8b8973dc4c621c6a45ef]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/10) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-4e673a7774fe8b8973dc4c621c6a45ef]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/10) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-e191189aa8fdbfa9256415be57057266]: Commencement: Sch. 18 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e191189aa8fdbfa9256415be57057266]: Commencement: Sch. 18 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c4408e0118ef5f15adb703d58412e935]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/11) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-c4408e0118ef5f15adb703d58412e935]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/11) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)

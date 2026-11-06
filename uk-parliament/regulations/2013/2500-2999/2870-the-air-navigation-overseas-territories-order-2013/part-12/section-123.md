@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Enforcement powers[^key-5daeddeb46dc97e5c5ce4adb10be1399]
+## 123. Enforcement powers[^c-5daeddeb46dc97e5c5ce4adb10be1399]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5daeddeb46dc97e5c5ce4adb10be1399]: Commencement: [Art. 123](https://www.legislation.gov.uk/uksi/2013/2870/article/123) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-5daeddeb46dc97e5c5ce4adb10be1399]: Commencement: [Art. 123](https://www.legislation.gov.uk/uksi/2013/2870/article/123) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

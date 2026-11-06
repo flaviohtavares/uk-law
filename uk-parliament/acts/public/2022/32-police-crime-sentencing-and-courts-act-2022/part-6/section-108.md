@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Giving a community caution[^key-c7e3f0389e29a543598d9a4a219b914b]
+## 108. Giving a community caution[^c-c7e3f0389e29a543598d9a4a219b914b]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e3f0389e29a543598d9a4a219b914b]: Commencement: S. 108 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-c7e3f0389e29a543598d9a4a219b914b]: Commencement: S. 108 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

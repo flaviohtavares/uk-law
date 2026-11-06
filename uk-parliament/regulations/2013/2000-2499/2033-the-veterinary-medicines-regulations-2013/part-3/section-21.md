@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-1b5de1f97f4583aff496a6f120f9dc1d] The holder of a manufacturing authorisation must record the following information in respect of any veterinary medicinal product supplied by the holder—
+(1)[^c-1b5de1f97f4583aff496a6f120f9dc1d] The holder of a manufacturing authorisation must record the following information in respect of any veterinary medicinal product supplied by the holder—
 
 - (a) the name of the veterinary medicinal product and marketing authorisation number if applicable;
 - (b) the pharmaceutical form and strength of the product;
@@ -31,7 +31,7 @@ summary: ''
 
 (2) The holder must keep with the record all certification provided by the qualified person (manufacture) in relation to that batch.
 
-(3) The holder must keep all records and certificates for at least five years from the date the veterinary medicinal product is placed on the market or for one year after the date of expiry of the batch, whichever is the longer.[^key-991aec0f5d82b9403eefcd71c060d559].
+(3) The holder must keep all records and certificates for at least five years from the date the veterinary medicinal product is placed on the market or for one year after the date of expiry of the batch, whichever is the longer.[^c-991aec0f5d82b9403eefcd71c060d559].
 
 ## 21. Records by a holder of a manufacturing authorisation[^M_E_fe548e8b-bf53-4e06-ff43-52504846f43b]
 
@@ -53,8 +53,8 @@ summary: ''
 
 [^M_E_0be44e3a-5467-4a6b-eff7-5d3b971a9faf]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1b5de1f97f4583aff496a6f120f9dc1d]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/21/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/12/a)
+[^c-1b5de1f97f4583aff496a6f120f9dc1d]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/21/1) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/567/regulation/12/a)
 
-[^key-991aec0f5d82b9403eefcd71c060d559]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/21/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/12/b)
+[^c-991aec0f5d82b9403eefcd71c060d559]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/21/3) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/12/b)
 
 [^M_E_fe548e8b-bf53-4e06-ff43-52504846f43b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

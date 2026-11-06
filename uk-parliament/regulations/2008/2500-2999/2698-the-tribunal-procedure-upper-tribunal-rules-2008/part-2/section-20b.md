@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## 20B. Application for an authorised costs order[^key-b6b050dcaef9d2b4feb919ec8a48e718]
+## 20B. Application for an authorised costs order[^c-b6b050dcaef9d2b4feb919ec8a48e718]
 
 (1) This rule applies to an application by a charity or charity trustees of a charity for an order under section 324A (power to authorise costs to be incurred in relation to proceedings) of the Charities Act 2011 (“authorised costs order”).
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b050dcaef9d2b4feb919ec8a48e718]: Textual amendment: [Rule 20B](https://www.legislation.gov.uk/uksi/2008/2698/rule/20B) inserted (1.11.2022) by [The Tribunal Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/1030)](https://www.legislation.gov.uk/uksi/2022/1030), [rules 1](https://www.legislation.gov.uk/uksi/2022/1030/rule/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/1030/rule/5/2)
+[^c-b6b050dcaef9d2b4feb919ec8a48e718]: Textual amendment: [Rule 20B](https://www.legislation.gov.uk/uksi/2008/2698/rule/20B) inserted (1.11.2022) by [The Tribunal Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/1030)](https://www.legislation.gov.uk/uksi/2022/1030), [rules 1](https://www.legislation.gov.uk/uksi/2022/1030/rule/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/1030/rule/5/2)

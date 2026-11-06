@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Shirenewton and Mynyddbach — combination of community wards[^key-831340ff3502b0bc2c1a613bf879287d][^key-45396879215cc120df2b45e1a30af1a4]
+## 212. Shirenewton and Mynyddbach — combination of community wards[^c-831340ff3502b0bc2c1a613bf879287d][^c-45396879215cc120df2b45e1a30af1a4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The area of the existing Shirenewton ward of the community of Shirenewton as cha
 
 ## Annotations
 
-[^key-831340ff3502b0bc2c1a613bf879287d]: Commencement: Art. 212 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-831340ff3502b0bc2c1a613bf879287d]: Commencement: Art. 212 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-45396879215cc120df2b45e1a30af1a4]: Commencement: [Art. 212](https://www.legislation.gov.uk/wsi/2021/1227/article/212) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-45396879215cc120df2b45e1a30af1a4]: Commencement: [Art. 212](https://www.legislation.gov.uk/wsi/2021/1227/article/212) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

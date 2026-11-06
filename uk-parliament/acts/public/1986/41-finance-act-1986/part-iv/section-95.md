@@ -25,9 +25,9 @@ summary: ''
 - (a) to a company which at the time of the transfer falls within subsection (6) of section 67 above [^c22551351]. . . , and
 - (b) from a company which at that time falls within that subsection [^c22551351]. . . ,
 
-[^key-276d5ff859781b0b903d2aad313920e7]... there shall be no charge to tax under section 93 above in respect of the transfer.
+[^c-276d5ff859781b0b903d2aad313920e7]... there shall be no charge to tax under section 93 above in respect of the transfer.
 
-(2)[^c22551311] There shall be no charge to tax under section 93 above in respect of a transfer[^key-554e156b5bea6db4b97d6c4d7260826e]... or appropriation of a UK bearer instrument, except in the case of—
+(2)[^c22551311] There shall be no charge to tax under section 93 above in respect of a transfer[^c-554e156b5bea6db4b97d6c4d7260826e]... or appropriation of a UK bearer instrument, except in the case of—
 
 - (a) an instrument within the exemption conferred by paragraph 16 of Schedule 15 to the Finance Act 1999 (renounceable letters of allotment etc. where rights are renounceable not later than six months after issue), or
 - (b) an instrument within the exemption conferred by paragraph 17 of that Schedule (non-sterling instruments) which—
@@ -62,11 +62,11 @@ summary: ''
 
 and which, in either case, do not carry any rights (of conversion or otherwise) by the exercise of which chargeable securities other than relevant securities may be obtained.
 
-(3)[^key-33eddb984e7c29b7310b0a73c305aca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-33eddb984e7c29b7310b0a73c305aca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-33eddb984e7c29b7310b0a73c305aca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-33eddb984e7c29b7310b0a73c305aca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-33eddb984e7c29b7310b0a73c305aca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-33eddb984e7c29b7310b0a73c305aca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c22551291] Where an arrangement is entered into under which—
 
@@ -75,22 +75,22 @@ and which, in either case, do not carry any rights (of conversion or otherwise) 
 
 the issue shall be treated for the purposes of this section as an issue of securities in exchange for securities issued by the other company.
 
-(7)[^key-9464e68698ba7029bb0b7873a8a01c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-9464e68698ba7029bb0b7873a8a01c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c22551351]: Textual amendment: Words in s. 95(1) repealed (with effect in as mentioned in [s. 134(5)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [ss. 134(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/3), [156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. III](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/III)
 
-[^key-276d5ff859781b0b903d2aad313920e7]: Textual amendment: Words in s. 95(1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/a)
+[^c-276d5ff859781b0b903d2aad313920e7]: Textual amendment: Words in s. 95(1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/a)
 
 [^c22551311]: Textual amendment: S. 95(2) substituted (with application as mentioned in [s. 113(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/113/4) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 113(3)](https://www.legislation.gov.uk/ukpga/1999/16/section/113/3), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/1999/16/schedule/16/paragraph/7) (with [s. 123(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/123/4))
 
-[^key-554e156b5bea6db4b97d6c4d7260826e]: Textual amendment: Word in s. 95(2) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/b)
+[^c-554e156b5bea6db4b97d6c4d7260826e]: Textual amendment: Word in s. 95(2) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/b)
 
 [^c22551271]: Textual amendment: S. 95(2A)-(2D) inserted (with application as mentioned in [s. 117(7)](https://www.legislation.gov.uk/ukpga/1999/16/section/117/7) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1999/16/section/117/2) (with [s. 123(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/123/4))
 
-[^key-33eddb984e7c29b7310b0a73c305aca5]: Textual amendment: S. 95(3)-(5) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/c)
+[^c-33eddb984e7c29b7310b0a73c305aca5]: Textual amendment: S. 95(3)-(5) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/c)
 
 [^c22551291]: Textual amendment: S. 95(6) substituted (with application as mentioned in [s. 117(7)](https://www.legislation.gov.uk/ukpga/1999/16/section/117/7) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 117(3)](https://www.legislation.gov.uk/ukpga/1999/16/section/117/3) (with [s. 123(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/123/4))
 
-[^key-9464e68698ba7029bb0b7873a8a01c58]: Textual amendment: S. 95(7) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/d)
+[^c-9464e68698ba7029bb0b7873a8a01c58]: Textual amendment: S. 95(7) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 9(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/9/d)

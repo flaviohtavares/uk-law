@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Offence of encouraging or assisting serious self-harm[^key-af7184d73d7343c9c73a656129eba9f7][^key-c27f82068bff8f6297e885a4cbc55098]
+## 184. Offence of encouraging or assisting serious self-harm[^c-af7184d73d7343c9c73a656129eba9f7][^c-c27f82068bff8f6297e885a4cbc55098]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ and includes successive acts of self-harm which cumulatively reach that threshol
 
 ## Annotations
 
-[^key-af7184d73d7343c9c73a656129eba9f7]: Commencement: S. 184 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-af7184d73d7343c9c73a656129eba9f7]: Commencement: S. 184 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-c27f82068bff8f6297e885a4cbc55098]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2023/50/section/184) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-c27f82068bff8f6297e885a4cbc55098]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2023/50/section/184) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Financial management or governance targets for registered social landlords[^key-19cf7ff376a424df4d744af43a176ff8]
+## 37. Financial management or governance targets for registered social landlords[^c-19cf7ff376a424df4d744af43a176ff8]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ This subsection does not apply where—
 
 ## Annotations
 
-[^key-19cf7ff376a424df4d744af43a176ff8]: Commencement: S. 37 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-19cf7ff376a424df4d744af43a176ff8]: Commencement: S. 37 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

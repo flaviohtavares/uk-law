@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107L. Local growth plans[^key-f97ba8514d720f5c4a17ce2ecf863dd1]
+## 107L. Local growth plans[^c-f97ba8514d720f5c4a17ce2ecf863dd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f97ba8514d720f5c4a17ce2ecf863dd1]: Textual amendment: [Ss. 107L](https://www.legislation.gov.uk/ukpga/2009/20/section/107L), [107M](https://www.legislation.gov.uk/ukpga/2009/20/section/107M) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 22 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/1) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-f97ba8514d720f5c4a17ce2ecf863dd1]: Textual amendment: [Ss. 107L](https://www.legislation.gov.uk/ukpga/2009/20/section/107L), [107M](https://www.legislation.gov.uk/ukpga/2009/20/section/107M) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 22 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/1) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

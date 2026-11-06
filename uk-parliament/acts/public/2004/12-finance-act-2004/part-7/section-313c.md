@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313C. Provision of information to HMRC by introducers[^key-6258f8094febf4a6694b06b9996dc01e][^key-711b4ab7766ba573cceb9b3097abef56]
+## 313C. Provision of information to HMRC by introducers[^c-6258f8094febf4a6694b06b9996dc01e][^c-711b4ab7766ba573cceb9b3097abef56]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8b9b877a78ef85ee7e970b938a400b7c] This section applies where HMRC suspect—
+(1)[^c-8b9b877a78ef85ee7e970b938a400b7c] This section applies where HMRC suspect—
 
 - (a) that a person (“P”) is an introducer in relation to a proposal, and
 - (b) that the proposal may be notifiable.
@@ -32,17 +32,17 @@ summary: ''
 
 (2) A notice must specify the proposal to which it relates.
 
-(3) P must comply with a requirement under subsection (1A)[^key-81f64659a2aebf643378bb882c189044] within—
+(3) P must comply with a requirement under subsection (1A)[^c-81f64659a2aebf643378bb882c189044] within—
 
 - (a) the prescribed period, or
 - (b) such longer period as HMRC may direct.
 
 ## Annotations
 
-[^key-6258f8094febf4a6694b06b9996dc01e]: Textual amendment: S. 313C inserted (1.1.2011) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/17/paragraph/9); [S.I. 2010/3019](https://www.legislation.gov.uk/uksi/2010/3019), [art. 2](https://www.legislation.gov.uk/uksi/2010/3019/article/2)
+[^c-6258f8094febf4a6694b06b9996dc01e]: Textual amendment: S. 313C inserted (1.1.2011) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/17/paragraph/9); [S.I. 2010/3019](https://www.legislation.gov.uk/uksi/2010/3019), [art. 2](https://www.legislation.gov.uk/uksi/2010/3019/article/2)
 
-[^key-711b4ab7766ba573cceb9b3097abef56]: Textual amendment: S. 313C heading substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 12(4)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/12/4)
+[^c-711b4ab7766ba573cceb9b3097abef56]: Textual amendment: S. 313C heading substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 12(4)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/12/4)
 
-[^key-8b9b877a78ef85ee7e970b938a400b7c]: Textual amendment: S. 313C(1)(1A) substituted for s. 313C(1) (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 12(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/12/2)
+[^c-8b9b877a78ef85ee7e970b938a400b7c]: Textual amendment: S. 313C(1)(1A) substituted for s. 313C(1) (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 12(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/12/2)
 
-[^key-81f64659a2aebf643378bb882c189044]: Textual amendment: Words in s. 313C(3) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 12(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/12/3)
+[^c-81f64659a2aebf643378bb882c189044]: Textual amendment: Words in s. 313C(3) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 12(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/12/3)

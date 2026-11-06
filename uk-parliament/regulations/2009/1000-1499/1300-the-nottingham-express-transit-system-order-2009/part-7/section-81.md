@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. No double recovery[^key-da9b7163148de3966a3db0ba3f09791c]
+## 81. No double recovery[^c-da9b7163148de3966a3db0ba3f09791c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Compensation shall not be payable in respect of the same matter both under this 
 
 ## Annotations
 
-[^key-da9b7163148de3966a3db0ba3f09791c]: Commencement: Art. 81 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-da9b7163148de3966a3db0ba3f09791c]: Commencement: Art. 81 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

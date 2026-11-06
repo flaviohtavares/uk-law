@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — PROGRESSIVE MEDICAL CONDITIONS[^key-1bb05a051897bfb8db9f6a3b3bed56a9]
+## SCHEDULE 4 — PROGRESSIVE MEDICAL CONDITIONS[^c-1bb05a051897bfb8db9f6a3b3bed56a9]
 
 *Extent: N.I.*
 
 Regulation 48(14)
 
-[^key-1bb05a051897bfb8db9f6a3b3bed56a9]
+[^c-1bb05a051897bfb8db9f6a3b3bed56a9]
 
 - The progressive medical conditions mentioned in regulation 48(14) are:
 - AIDS;
@@ -39,4 +39,4 @@ Regulation 48(14)
 
 ## Annotations
 
-[^key-1bb05a051897bfb8db9f6a3b3bed56a9]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2009/79/schedule/4) in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/section/1/2)[(3)](https://www.legislation.gov.uk/nisr/2009/79/section/1/3)
+[^c-1bb05a051897bfb8db9f6a3b3bed56a9]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2009/79/schedule/4) in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/section/1/2)[(3)](https://www.legislation.gov.uk/nisr/2009/79/section/1/3)

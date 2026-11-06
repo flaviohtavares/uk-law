@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Information[^key-2f6c065484780a385f7f895b4797846e]
+## 33. Information[^c-2f6c065484780a385f7f895b4797846e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f6c065484780a385f7f895b4797846e]: Textual amendment: Reg. 33 revoked (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/501/regulation/12)
+[^c-2f6c065484780a385f7f895b4797846e]: Textual amendment: Reg. 33 revoked (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/501/regulation/12)

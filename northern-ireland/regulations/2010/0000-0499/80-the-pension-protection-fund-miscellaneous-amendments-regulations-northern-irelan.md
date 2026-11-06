@@ -40,14 +40,14 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 164A(1) and (5), 188(4)(a), 189(2) and 287(2) and (3) of, and paragraphs 25(1) and 33 of Schedule 6 to, the Pensions (Northern Ireland) Order 2005[^f00001].
 
-## 1. Citation and commencement[^key-9eb72e114d29b804b3fceebef5a47025][^key-9eb72e114d29b804b3fceebef5a47025]
+## 1. Citation and commencement[^c-9eb72e114d29b804b3fceebef5a47025][^c-9eb72e114d29b804b3fceebef5a47025]
 
 These Regulations may be cited as the Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 and shall come into operation—
 
 - (a) for the purposes of this regulation and regulations 2, 3 and 5, on 1st April 2010, and
 - (b) for the purposes of regulation 4, on 6th April 2010.
 
-## 2. Amendment of Schedule 8 to the Pensions (Northern Ireland) Order[^key-1a392ba31e3088a367f14c6dd2edf7fc][^key-1a392ba31e3088a367f14c6dd2edf7fc]
+## 2. Amendment of Schedule 8 to the Pensions (Northern Ireland) Order[^c-1a392ba31e3088a367f14c6dd2edf7fc][^c-1a392ba31e3088a367f14c6dd2edf7fc]
 
 In Schedule 8 to the Pensions (Northern Ireland) Order 2005 (reviewable matters) after paragraph 19A[^f00002] insert—
 
@@ -55,7 +55,7 @@ In Schedule 8 to the Pensions (Northern Ireland) Order 2005 (reviewable matters)
 
 .
 
-## 3. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^key-7cb320dc1ecc24dd2c514b739fb2168c][^key-7cb320dc1ecc24dd2c514b739fb2168c]
+## 3. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^c-7cb320dc1ecc24dd2c514b739fb2168c][^c-7cb320dc1ecc24dd2c514b739fb2168c]
 
 In the Schedule to the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations (Northern Ireland) 2005[^f00004] (interested person[^f00005]) after paragraph 19A[^f00006] insert—
 
@@ -65,13 +65,13 @@ In the Schedule to the Pension Protection Fund (Review and Reconsideration of Re
 
 .
 
-## 4. Amendment of the Pension Protection Fund (Compensation) Regulations[^key-b4d128ddfddfdc845679f509a18a7d69]
+## 4. Amendment of the Pension Protection Fund (Compensation) Regulations[^c-b4d128ddfddfdc845679f509a18a7d69]
 
 (1) The Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^f00007] are amended in accordance with paragraphs (2) to (4).
 
 (2) In regulation 2 (circumstances where a person shall be entitled to early payment of compensation)—
 
-- (a)[^key-e340f0a033787c95bd80ead9477029e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e340f0a033787c95bd80ead9477029e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (3)—
   - (i) in sub-paragraph (a)—
     - (aa) for head (ii) substitute—
@@ -224,7 +224,7 @@ In the Schedule to the Pension Protection Fund (Review and Reconsideration of Re
 
 .
 
-## 5. Amendment of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations[^key-d0329fe8c66495b1c695883c94eb06a6][^key-d0329fe8c66495b1c695883c94eb06a6]
+## 5. Amendment of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations[^c-d0329fe8c66495b1c695883c94eb06a6][^c-d0329fe8c66495b1c695883c94eb06a6]
 
 After regulation 19 of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^f00010] (collection of the pension protection levy by instalments) insert—
 
@@ -308,15 +308,15 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 164A was inserted by paragraph 4 of Schedule 9 to the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-9eb72e114d29b804b3fceebef5a47025]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+[^c-9eb72e114d29b804b3fceebef5a47025]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
 
-[^key-1a392ba31e3088a367f14c6dd2edf7fc]: Commencement: Reg. 2 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+[^c-1a392ba31e3088a367f14c6dd2edf7fc]: Commencement: Reg. 2 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
 
 [^f00002]: Footnote: Paragraph 19A was inserted by regulation 8 of [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)
 
 [^f00003]: Footnote: [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155); regulation 19A is inserted by regulation 5 of these Regulations
 
-[^key-7cb320dc1ecc24dd2c514b739fb2168c]: Commencement: Reg. 3 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+[^c-7cb320dc1ecc24dd2c514b739fb2168c]: Commencement: Reg. 3 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
 
 [^f00004]: Footnote: [S.R. 2005 No. 138](https://www.legislation.gov.uk/nisr/2005/138); relevant amending Regulations are [S.R. 2005 Nos. 357](https://www.legislation.gov.uk/nisr/2005/357) and [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)
 
@@ -324,13 +324,13 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00006]: Footnote: Paragraph 19A was inserted by regulation 9 of [S.R. 2007 No. 157](https://www.legislation.gov.uk/nisr/2007/157)
 
-[^key-b4d128ddfddfdc845679f509a18a7d69]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b)
+[^c-b4d128ddfddfdc845679f509a18a7d69]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/b)
 
 [^f00007]: Footnote: [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149); relevant amending Regulations are [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155)
 
-[^key-e340f0a033787c95bd80ead9477029e7]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/a) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/c)
+[^c-e340f0a033787c95bd80ead9477029e7]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/4/2/a) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/c)
 
-[^key-d0329fe8c66495b1c695883c94eb06a6]: Commencement: Reg. 5 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
+[^c-d0329fe8c66495b1c695883c94eb06a6]: Commencement: Reg. 5 in operation at 1.4.2010, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a)
 
 [^f00010]: Footnote: [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155) to which there are amendments not relevant to these Regulations
 

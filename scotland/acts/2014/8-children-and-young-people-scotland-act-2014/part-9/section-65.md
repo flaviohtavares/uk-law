@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Reports by Scottish Ministers[^key-eea1ead4eb37db923051e4856683e7ef]
+## 65. Reports by Scottish Ministers[^c-eea1ead4eb37db923051e4856683e7ef]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eea1ead4eb37db923051e4856683e7ef]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/8/section/65) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-eea1ead4eb37db923051e4856683e7ef]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/8/section/65) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

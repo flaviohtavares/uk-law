@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Power to prescribe drink-driving limits[^key-5e277d2ce09a60877527f4a77a07545f]
+## 20. Power to prescribe drink-driving limits[^c-5e277d2ce09a60877527f4a77a07545f]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Road Traffic Act 1988 is amended as follows.
 
-(2)[^key-b6046e5c1a8dec20e629442e6caf5dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b6046e5c1a8dec20e629442e6caf5dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b6046e5c1a8dec20e629442e6caf5dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b6046e5c1a8dec20e629442e6caf5dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b6046e5c1a8dec20e629442e6caf5dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b6046e5c1a8dec20e629442e6caf5dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Section 11 (interpretation of sections 3A to 10) is amended as follows.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e277d2ce09a60877527f4a77a07545f]: Commencement: S. 20 in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/j)
+[^c-5e277d2ce09a60877527f4a77a07545f]: Commencement: S. 20 in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/j)
 
-[^key-b6046e5c1a8dec20e629442e6caf5dfc]: Textual amendment: S. 20(2)-(4) omitted (10.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/1/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-b6046e5c1a8dec20e629442e6caf5dfc]: Textual amendment: S. 20(2)-(4) omitted (10.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/1/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)

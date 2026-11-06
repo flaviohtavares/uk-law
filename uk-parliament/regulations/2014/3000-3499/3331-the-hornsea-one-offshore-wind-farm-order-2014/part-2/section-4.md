@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Maintenance of authorised project[^key-c385dc2ffa98c5d876cbefc4afff1bd1]
+## 4. Maintenance of authorised project[^c-c385dc2ffa98c5d876cbefc4afff1bd1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the other terms of this Order, the undertaker may at any time maintai
 
 ## Annotations
 
-[^key-c385dc2ffa98c5d876cbefc4afff1bd1]: Commencement: Art. 4 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-c385dc2ffa98c5d876cbefc4afff1bd1]: Commencement: Art. 4 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

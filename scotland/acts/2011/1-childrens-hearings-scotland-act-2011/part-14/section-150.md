@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Movement restriction conditions: regulations etc.[^key-243bfc134383d1b65230960f8b550595]
+## 150. Movement restriction conditions: regulations etc.[^c-243bfc134383d1b65230960f8b550595]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ that may be imposed as part of a movement restriction condition.
 
 ## Annotations
 
-[^key-243bfc134383d1b65230960f8b550595]: Commencement: S. 150 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-243bfc134383d1b65230960f8b550595]: Commencement: S. 150 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

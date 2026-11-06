@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 258. General use of websites to deliver notices and other documents[^key-4ed293262027af092eb63907881ce413]
+## 258. General use of websites to deliver notices and other documents[^c-4ed293262027af092eb63907881ce413]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed293262027af092eb63907881ce413]: Commencement: Rule 258 not in operation at made date, see [rule 2(3)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/3)
+[^c-4ed293262027af092eb63907881ce413]: Commencement: Rule 258 not in operation at made date, see [rule 2(3)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/3)

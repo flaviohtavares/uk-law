@@ -22,7 +22,7 @@ summary: ''
 
 Article 62
 
-### 1. Interpretation[^key-1864a326d2cfba9b8c1ef84a0098d6fc]
+### 1. Interpretation[^c-1864a326d2cfba9b8c1ef84a0098d6fc]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “**relevant authority**” means, subject to article 62(5), any person, authority or body named in any of the provisions of this Order and whose consent, agreement or approval is sought; and
 - “**consultee**” means any body or authority named in a requirement or condition as a body to be consulted by the relevant authority in discharging that requirement or condition.
 
-### 2. Applications made under provisions of this Order[^key-04f103ab6a0bafe8d8818ac92d7f4f2a]
+### 2. Applications made under provisions of this Order[^c-04f103ab6a0bafe8d8818ac92d7f4f2a]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required or contemplated by any of the provisions of this Order (except as provided in article 62(5)) the relevant authority must give notice to the undertaker of their decision on the application within—
 
@@ -56,7 +56,7 @@ then the application is to be taken to have been refused by the relevant authori
 
 (5) The undertaker must include in any application made to the relevant authority for any consent, agreement or approval required or contemplated by any of the provisions of this Order (except as provided in article 62(5)) a statement that the provisions of sub-paragraph (3) apply and, if the application fails to do so, it is to be null and void.
 
-### 3. Further information and consultation[^key-3b8f4dc189676ff179c8728c1b0c9f60]
+### 3. Further information and consultation[^c-3b8f4dc189676ff179c8728c1b0c9f60]
 
 (1) In relation to any application submitted pursuant to a requirement in Schedule 2 (requirements) or condition in schedule 3 (deemed marine licence), the relevant authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -66,7 +66,7 @@ then the application is to be taken to have been refused by the relevant authori
 
 (4) In the event that the relevant authority does not give notification as specified in sub-paragraph (2) or (3) it is to be deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Appeals[^key-aa17cec017b78469537bb8d08a0ffa2d]
+### 4. Appeals[^c-aa17cec017b78469537bb8d08a0ffa2d]
 
 (1) The undertaker may (except as provided in article 62(5)) appeal in the event that—
 
@@ -108,7 +108,7 @@ and may deal with the application as if it had been made to him in the first ins
 
 (12) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-f0cb5bd336850b4fbc53a8f78c8db23d]
+### 5. Fees[^c-f0cb5bd336850b4fbc53a8f78c8db23d]
 
 (1) Where an application is made to the relevant planning authority for the discharge of a requirement in Schedule 2 (requirements), a fee is to apply and must be paid to the relevant planning authority in accordance with sub-paragraph (2).
 
@@ -125,12 +125,12 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-1864a326d2cfba9b8c1ef84a0098d6fc]: Commencement: Sch. 17 para. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-1864a326d2cfba9b8c1ef84a0098d6fc]: Commencement: Sch. 17 para. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-04f103ab6a0bafe8d8818ac92d7f4f2a]: Commencement: Sch. 17 para. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-04f103ab6a0bafe8d8818ac92d7f4f2a]: Commencement: Sch. 17 para. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-3b8f4dc189676ff179c8728c1b0c9f60]: Commencement: Sch. 17 para. 3 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-3b8f4dc189676ff179c8728c1b0c9f60]: Commencement: Sch. 17 para. 3 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-aa17cec017b78469537bb8d08a0ffa2d]: Commencement: Sch. 17 para. 4 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-aa17cec017b78469537bb8d08a0ffa2d]: Commencement: Sch. 17 para. 4 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-f0cb5bd336850b4fbc53a8f78c8db23d]: Commencement: Sch. 17 para. 5 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-f0cb5bd336850b4fbc53a8f78c8db23d]: Commencement: Sch. 17 para. 5 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

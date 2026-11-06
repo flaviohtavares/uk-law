@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.3. Evidence by video link or other means[^key-3f69d2fb7cfd58ec12f904df2c0d5af1]
+## 32.3. Evidence by video link or other means[^c-3f69d2fb7cfd58ec12f904df2c0d5af1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may allow a witness to give evidence through a video link or by other 
 
 ## Annotations
 
-[^key-3f69d2fb7cfd58ec12f904df2c0d5af1]: Commencement: [Rule 32.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-3f69d2fb7cfd58ec12f904df2c0d5af1]: Commencement: [Rule 32.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

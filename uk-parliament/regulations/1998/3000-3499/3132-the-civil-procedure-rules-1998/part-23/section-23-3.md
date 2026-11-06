@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.3. Application notice to be filed[^key-5cefe36dd01cdb12f0fb7771b9512de4]
+## 23.3. Application notice to be filed[^c-5cefe36dd01cdb12f0fb7771b9512de4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An applicant must file an application notice unless—
 
 ## Annotations
 
-[^key-5cefe36dd01cdb12f0fb7771b9512de4]: Textual amendment: Rule 23.3 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [14(4)](https://www.legislation.gov.uk/uksi/2023/788/rule/14/4)
+[^c-5cefe36dd01cdb12f0fb7771b9512de4]: Textual amendment: Rule 23.3 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [14(4)](https://www.legislation.gov.uk/uksi/2023/788/rule/14/4)

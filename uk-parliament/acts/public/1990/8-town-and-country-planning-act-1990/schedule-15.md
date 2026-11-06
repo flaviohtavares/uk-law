@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Preliminary[^key-0ffdb7fbdf5b3b35c02731801a83d698]
+## SCHEDULE 15 — Preliminary[^c-0ffdb7fbdf5b3b35c02731801a83d698]
 
 *Extent: E+W*
 
@@ -121,6 +121,6 @@ Section 302(5).
 
 ## Annotations
 
-[^key-0ffdb7fbdf5b3b35c02731801a83d698]: Textual amendment: Sch. 13 para. 26 and cross-heading inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(2)(b)](https://www.legislation.gov.uk/asc/2024/3/section/99/2/b), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-0ffdb7fbdf5b3b35c02731801a83d698]: Textual amendment: Sch. 13 para. 26 and cross-heading inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(2)(b)](https://www.legislation.gov.uk/asc/2024/3/section/99/2/b), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
 
 [^c14043771]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

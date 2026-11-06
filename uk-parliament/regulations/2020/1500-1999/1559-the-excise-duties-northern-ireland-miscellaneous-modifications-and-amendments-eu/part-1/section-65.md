@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**65.**[^key-270ed294c73fef3d6ce53bdd5f7c7c43] Before regulation 76 in the heading “Tax representatives – approval and registration” insert “NI” before “Tax representatives” and for “Tax” substitute “tax”.
+**65.**[^c-270ed294c73fef3d6ce53bdd5f7c7c43] Before regulation 76 in the heading “Tax representatives – approval and registration” insert “NI” before “Tax representatives” and for “Tax” substitute “tax”.
 
 ## Annotations
 
-[^key-270ed294c73fef3d6ce53bdd5f7c7c43]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-270ed294c73fef3d6ce53bdd5f7c7c43]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

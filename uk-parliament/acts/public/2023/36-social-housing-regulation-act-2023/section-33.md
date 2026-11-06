@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Extension of powers to charities who have not received public assistance[^key-9a5661a2fe2d8fe03c938ec49b4ae3ca][^key-2f38d2351f0f9d4ce0b0006fadbc85d9]
+## 33. Extension of powers to charities who have not received public assistance[^c-9a5661a2fe2d8fe03c938ec49b4ae3ca][^c-2f38d2351f0f9d4ce0b0006fadbc85d9]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In the Housing and Regeneration Act 2008 omit—
 
 ## Annotations
 
-[^key-9a5661a2fe2d8fe03c938ec49b4ae3ca]: Commencement: S. 33 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-9a5661a2fe2d8fe03c938ec49b4ae3ca]: Commencement: S. 33 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-2f38d2351f0f9d4ce0b0006fadbc85d9]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/36/section/33) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/n)
+[^c-2f38d2351f0f9d4ce0b0006fadbc85d9]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/36/section/33) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/n)

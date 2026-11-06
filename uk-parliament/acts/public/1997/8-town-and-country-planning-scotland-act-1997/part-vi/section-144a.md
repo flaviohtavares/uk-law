@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 144A. Temporary stop notices[^key-4ef06b335df9170b00f395d744540aa9]
+## 144A. Temporary stop notices[^c-4ef06b335df9170b00f395d744540aa9]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ they may issue a temporary stop notice.
 
 ## Annotations
 
-[^key-4ef06b335df9170b00f395d744540aa9]: Textual amendment: Ss. 144A-144D and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 26(1)](https://www.legislation.gov.uk/asp/2006/17/section/26/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-4ef06b335df9170b00f395d744540aa9]: Textual amendment: Ss. 144A-144D and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 26(1)](https://www.legislation.gov.uk/asp/2006/17/section/26/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

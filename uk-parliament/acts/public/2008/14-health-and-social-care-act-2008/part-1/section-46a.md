@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Reviews and performance assessments: local authorities[^key-c61c4e152fcf3f87e114eedbcbaf1b3d]
+## 46A. Reviews and performance assessments: local authorities[^c-c61c4e152fcf3f87e114eedbcbaf1b3d]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c61c4e152fcf3f87e114eedbcbaf1b3d]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/2008/14/section/46A) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 163(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/163/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/e)
+[^c-c61c4e152fcf3f87e114eedbcbaf1b3d]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/2008/14/section/46A) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 163(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/163/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/e)

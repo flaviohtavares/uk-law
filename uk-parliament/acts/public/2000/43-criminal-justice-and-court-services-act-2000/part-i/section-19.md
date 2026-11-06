@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Property.[^key-49f1f7fea92045c3e169db87d350b37e]
+## 19. Property.[^c-49f1f7fea92045c3e169db87d350b37e]
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-8d8f488d47ccb1cae912dac245ecb367] may by order make a scheme—
+(1) The Secretary of State[^c-8d8f488d47ccb1cae912dac245ecb367] may by order make a scheme—
 
 - (a) for the transfer to the Secretary of State or the Service of any property belonging to the old employer,
 - (b) for the transfer to the Secretary of State or the Service of any liabilities to which the old employer is subject,
@@ -48,9 +48,9 @@ summary: ''
 
 ## Annotations
 
-[^key-49f1f7fea92045c3e169db87d350b37e]: Modification: S. 19: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
+[^c-49f1f7fea92045c3e169db87d350b37e]: Modification: S. 19: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
 
-[^key-8d8f488d47ccb1cae912dac245ecb367]: Textual amendment: Words in s. 19 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/2)
+[^c-8d8f488d47ccb1cae912dac245ecb367]: Textual amendment: Words in s. 19 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/2)
 
 [^c10578101]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 

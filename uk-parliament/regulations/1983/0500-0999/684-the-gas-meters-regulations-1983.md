@@ -43,22 +43,22 @@ Coming into Operation
 
 1st June 1983
 
-The Secretary of State, in exercise of his powers under section 30(2), (3), (6)(a), (d) and (e) of the Gas Act 1972[^f00001] and of all other powers in that behalf enabling him, hereby makes the following Regulations:—[^key-f22fb1c2da2e10c26b7dc85d492a74eb]
+The Secretary of State, in exercise of his powers under section 30(2), (3), (6)(a), (d) and (e) of the Gas Act 1972[^f00001] and of all other powers in that behalf enabling him, hereby makes the following Regulations:—[^c-f22fb1c2da2e10c26b7dc85d492a74eb]
 
-## 1. Citation and commencement[^key-ec5c42c2914114d971e1914757e81443]
+## 1. Citation and commencement[^c-ec5c42c2914114d971e1914757e81443]
 
 These Regulations may be cited as the Gas (Meters) Regulations 1983 and shall come into operation on 1st June 1983.
 
-## 2. Interpretation[^key-f7acacf1dd7684855a380776646b3777]
+## 2. Interpretation[^c-f7acacf1dd7684855a380776646b3777]
 
 In these Regulations—
 
 - “**the Act**” means the Gas Act 1972;
 - “**diaphragm meter**” means a meter constructed so that it contains a flexible partition;
 - “**meter examiner**” means a meter examiner appointed under section 30(3) of the Act;
-- “modified prototype” means a prototype which was examined by a meter examiner prior to modification.[^key-620f3db1dce8d9ecab946b1cdd157baa]
+- “modified prototype” means a prototype which was examined by a meter examiner prior to modification.[^c-620f3db1dce8d9ecab946b1cdd157baa]
 
-## 3. Prescribed standards for meters[^key-fd18145af719c7c4d2427173b9223349]
+## 3. Prescribed standards for meters[^c-fd18145af719c7c4d2427173b9223349]
 
 (1) The standards with which a meter examiner is to be satisfied that a meter conforms so that he may stamp, or authorise the stamping of, the meter in accordance with section 30(2) of the Act are as follows:—
 
@@ -81,10 +81,10 @@ In these Regulations—
   <tr><td>150</td><td>Exceeding 65</td></tr>
   </tbody>
   </table>
-- (c) in the case of a meter other than a diaphragm meter, where that meter is designed for a maximum rate of flow exceeding 10 cubic metres per hour,[^key-84c0f0660540e3820718d143788c1de6] the meter, when used for the purpose of ascertaining the quantity of either gas or air passing through it—
+- (c) in the case of a meter other than a diaphragm meter, where that meter is designed for a maximum rate of flow exceeding 10 cubic metres per hour,[^c-84c0f0660540e3820718d143788c1de6] the meter, when used for the purpose of ascertaining the quantity of either gas or air passing through it—
   - (i) at any rate of flow not less than 1/5th of the greatest rate of flow for which it is designed and not more than that greatest rate of flow, will register such quantity of gas or air as does not differ from the actual quantity of gas or air passing through the meter by more than 1 per cent of that actual quantity; and
   - (ii) at any rate of flow not less than the smallest rate of flow for which it is designed and less than 1/5th of the greatest rate of flow for which it is designed, will register such quantity of gas or air as does not differ from the actual quantity of gas or air passing through the meter by more than 2 per cent of that actual quantity;
-- (cc)[^key-929979ab5009cb57144a77932e6c039b] in the case of a meter other than a diaphragm meter, where that meter is designed for a maximum rate of flow which does not exceed 10 cubic metres per hour, the meter, when used for the purpose of ascertaining the quantity of gas or air passing through it—
+- (cc)[^c-929979ab5009cb57144a77932e6c039b] in the case of a meter other than a diaphragm meter, where that meter is designed for a maximum rate of flow which does not exceed 10 cubic metres per hour, the meter, when used for the purpose of ascertaining the quantity of gas or air passing through it—
   - (i) at any rate of flow not less than
 
     [formula: see source](https://www.legislation.gov.uk/uksi/1983/684)
@@ -129,7 +129,7 @@ In these Regulations—
   </tbody>
   </table>
 
-(2) A meter shall be deemed to conform with a standard prescribed by paragraph (1)(b) (c) or (cc) above[^key-c8091467e5284d229ae8385c9024606b], notwithstanding that gas instead of air is passing through the meter, where the results of testing for that standard show that if it had been conducted with air passing through the meter—
+(2) A meter shall be deemed to conform with a standard prescribed by paragraph (1)(b) (c) or (cc) above[^c-c8091467e5284d229ae8385c9024606b], notwithstanding that gas instead of air is passing through the meter, where the results of testing for that standard show that if it had been conducted with air passing through the meter—
 
 - (a) at a density of 1.2 kilograms per cubic metre, or
 - (b) in a case where the meter is marked in such manner as is approved by the Secretary of State so as to indicate that the meter is to be used only for the purpose of ascertaining the quantity of gas supplied to any person at a specified range of densities of which the lower limit exceeds 1.2 kilograms per cubic metre, at the higher and lower limits of that range,
@@ -138,9 +138,9 @@ the meter would have conformed with that standard.
 
 (3) A meter shall be deemed to conform with a standard prescribed by paragraph (1)(d) or (e) above, notwithstanding that gas instead of air is passing through the meter, where the results of testing for that standard show that, if it had been conducted with air passing through the meter at a density of 1.2 kilograms per cubic metre, the meter would have conformed with that standard.
 
-## 3A. Meters not stamped by, or on the authority of, a meter examiner[^key-ad38c9bbc484666be359a14f7aaa8e2b]
+## 3A. Meters not stamped by, or on the authority of, a meter examiner[^c-ad38c9bbc484666be359a14f7aaa8e2b]
 
-(1) For the purposes of section 17(1) of the Gas Act 1986 and subject to paragraph (2) below, a meter to which regulation 3(1)(cc) above applies which is manufactured or repaired in a member state of the European Communities [^key-c94ca70c20f3a78a26c1e0a11200ca29]... may be stamped by, or on the authority of, a person other than a meter examiner, if that person is authorised by the Secretary of State for the purposes of this regulation (“an authorised person”).
+(1) For the purposes of section 17(1) of the Gas Act 1986 and subject to paragraph (2) below, a meter to which regulation 3(1)(cc) above applies which is manufactured or repaired in a member state of the European Communities [^c-c94ca70c20f3a78a26c1e0a11200ca29]... may be stamped by, or on the authority of, a person other than a meter examiner, if that person is authorised by the Secretary of State for the purposes of this regulation (“an authorised person”).
 
 (2) An authorised person shall not stamp, or authorise the stamping of, any meter unless—
 
@@ -154,7 +154,7 @@ the meter would have conformed with that standard.
 
 (4) For the purposes of this regulation, a body making an examination report in respect of a meter is an “approved body” if it is the body in the member state in which the meter has been manufactured or repaired which has responsibility for the metrological control of gas volume meters or is a laboratory which has been accredited in that member state as being a body which conforms with the criteria set out in EN 45001.
 
-## 3B. Periodic overhaul of meters[^key-1096c12084efdca9af004296dbdf1f42]
+## 3B. Periodic overhaul of meters[^c-1096c12084efdca9af004296dbdf1f42]
 
 (1) Subject to paragraph (2) below, the Secretary of State may require, on approving the pattern and construction of any meter under section 17(3) of the Gas Act 1986 or for the purpose of regulation 3A(2)(a) above, that meters of the approved pattern and construction which are used for the purpose of ascertaining the quantity of gas supplied through pipes to any person shall be overhauled in a specified manner at specified intervals during the period of such use.
 
@@ -164,19 +164,19 @@ the meter would have conformed with that standard.
 
 (4) The Secretary of State may at any time withdraw a requirement imposed under paragraph (1) above by publishing a notice of withdrawal in the London and Edinburgh Gazettes.
 
-## 4. Re-examination of disputed meters[^key-6dc343b21ba1194c3bff1eb10ebf88c9][^key-b0cb99e2fecdf7687ae6fff34c82014e]
+## 4. Re-examination of disputed meters[^c-6dc343b21ba1194c3bff1eb10ebf88c9][^c-b0cb99e2fecdf7687ae6fff34c82014e]
 
-(1) Where there is a dispute between any person to whom gas is supplied and the person supplying the gas as to the accuracy with which a meter stamped under section 30 of the Act registered the quantity of gas supplied to that person and either party to the dispute requires a meter examiner in the civil service of the Crown[^key-f99bd0521048da3baf51ed56b4977c4c] appointed under that section to re-examine the meter, and the names and addresses of both parties to the dispute are communicated in writing to the meter examiner, it shall be the duty of the meter examiner on payment of the requisite fee[^key-015aeddfbe0cd11a154f0cfa414d7ecb] to re-examine the meter.
+(1) Where there is a dispute between any person to whom gas is supplied and the person supplying the gas as to the accuracy with which a meter stamped under section 30 of the Act registered the quantity of gas supplied to that person and either party to the dispute requires a meter examiner in the civil service of the Crown[^c-f99bd0521048da3baf51ed56b4977c4c] appointed under that section to re-examine the meter, and the names and addresses of both parties to the dispute are communicated in writing to the meter examiner, it shall be the duty of the meter examiner on payment of the requisite fee[^c-015aeddfbe0cd11a154f0cfa414d7ecb] to re-examine the meter.
 
 (2) If a meter examiner, on re-examining the meter, is satisfied that the meter does not conform with the standards prescribed by Regulation 3 above, it shall be the duty of the meter examiner to cancel the stamp with which the meter is already stamped by defacing it.
 
-(3) If a meter examiner on re-examining a meter is satisfied that the meter does not conform [^key-e3759663ab32a055bea9b5a080bc3683]... with the standard prescribed by paragraph (1)(b)(i) or a standard prescribed by paragraph (1)(c) or (cc)[^key-aa7f623d74d268f400d227290e202552] of Regulation 3 above, it shall be the duty of the meter examiner to give to each of the parties to the dispute a certificate signed by the meter examiner stating the degree exceeding the degree permissible for that standard to which the meter when re-examined registered erroneously.
+(3) If a meter examiner on re-examining a meter is satisfied that the meter does not conform [^c-e3759663ab32a055bea9b5a080bc3683]... with the standard prescribed by paragraph (1)(b)(i) or a standard prescribed by paragraph (1)(c) or (cc)[^c-aa7f623d74d268f400d227290e202552] of Regulation 3 above, it shall be the duty of the meter examiner to give to each of the parties to the dispute a certificate signed by the meter examiner stating the degree exceeding the degree permissible for that standard to which the meter when re-examined registered erroneously.
 
-(4) If a meter examiner on re-examining a meter is satisfied that the meter conforms [^key-e3759663ab32a055bea9b5a080bc3683]... with the standard prescribed by paragraph (1)(b)(i) or the standards prescribed by paragraph (1)(c) or (cc) of Regulation 3 above, it shall be the duty of the meter examiner to give to each of the parties to the dispute a certificate signed by the meter examiner stating that the meter when re-examined registered accurately
+(4) If a meter examiner on re-examining a meter is satisfied that the meter conforms [^c-e3759663ab32a055bea9b5a080bc3683]... with the standard prescribed by paragraph (1)(b)(i) or the standards prescribed by paragraph (1)(c) or (cc) of Regulation 3 above, it shall be the duty of the meter examiner to give to each of the parties to the dispute a certificate signed by the meter examiner stating that the meter when re-examined registered accurately
 
 (5) If a meter examiner on re-examining a meter is satisfied that the meter is so defective that he cannot examine it for conformity with the standard prescribed by paragraph (1)(b)(i) or the standards prescribed by paragraph (1)(c) or (cc) of Regulation 3 above, it shall be the duty of the meter examiner to give to each of the parties to the dispute a certificate signed by the meter examiner stating that the meter when re-examined could not be so examined and to cancel the stamp with which the meter is already stamped by defacing it.
 
-## 4A. Revocation of approval of pattern and construction[^key-db8136ab078b4cc21a0cae2da7ebcc38]
+## 4A. Revocation of approval of pattern and construction[^c-db8136ab078b4cc21a0cae2da7ebcc38]
 
 (1) The Secretary of State may, after consultation with such persons appearing to him to be interested as he thinks fit, revoke any approval of pattern and construction which was granted under section 17(3) of the Gas Act 1986 or for the purpose of regulation 3A(2)(a) above after the date on which these Regulations come into force if he considers that—
 
@@ -203,7 +203,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (3) In any proceedings for an offence under paragraph (1) above it shall be a defence for the person charged to prove that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
-## 5. Fees[^key-1f356b517cee10bf42fae0977b945aa1]
+## 5. Fees[^c-1f356b517cee10bf42fae0977b945aa1]
 
 (1) Subject to the provisions of paragraphs (3) to (6) and (8) below, the fee to be paid to the Secretary of State for examining or re-examining by a meter examiner, with or without stamping, a meter (not being a prototype or modified prototype) of measuring capacity specified in column 1 of Schedule 1 to these Regulations used or intended to be used for ascertaining the quantity of gas supplied to any person shall be the corresponding fee specified in column 2 of that Schedule.
 
@@ -244,9 +244,9 @@ there shall be paid to the Secretary of State, in addition to any fee payable un
 
 (11) Any fee payable under paragraph (10) above shall be paid on demand by the person who requires the meter to be stamped.
 
-(12)[^key-841e2ba1d0d35c22d1182cbe59f48acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-841e2ba1d0d35c22d1182cbe59f48acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-47327a49fa94b6c526364c0158e303e0]
+## 6. Revocations[^c-47327a49fa94b6c526364c0158e303e0]
 
 The Regulations specified in columns 1 and 2 of Schedule 2 to these Regulations are hereby revoked to the extent specified in column 3 of the Schedule.
 
@@ -256,7 +256,7 @@ Minister of State
 
 Department of Energy
 
-## SCHEDULE 1 — (FEES)[^key-3c53aba97b14176ff8777a31ae77b9e2]
+## SCHEDULE 1 — (FEES)[^c-3c53aba97b14176ff8777a31ae77b9e2]
 
 Regulation 5(1) and (10)
 
@@ -275,7 +275,7 @@ Regulation 5(1) and (10)
 </tbody>
 </table>
 
-## SCHEDULE 2 — REVOCATIONS[^key-69fd736c94e9219982d1cdab0179a18e]
+## SCHEDULE 2 — REVOCATIONS[^c-69fd736c94e9219982d1cdab0179a18e]
 
 Regulation 6
 
@@ -319,48 +319,48 @@ Regulation 6 and Schedule 2 to the Regulations provide for the revocation of the
 
 [^f00001]: Footnote: [1972 c. 60](https://www.legislation.gov.uk/ukpga/1972/60).
 
-[^key-f22fb1c2da2e10c26b7dc85d492a74eb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1983/684) excluded in part (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/4/5) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-f22fb1c2da2e10c26b7dc85d492a74eb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1983/684) excluded in part (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/4/5) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
-[^key-ec5c42c2914114d971e1914757e81443]: Commencement: Reg. 1 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
+[^c-ec5c42c2914114d971e1914757e81443]: Commencement: Reg. 1 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
 
-[^key-f7acacf1dd7684855a380776646b3777]: Commencement: Reg. 2 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
+[^c-f7acacf1dd7684855a380776646b3777]: Commencement: Reg. 2 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
 
-[^key-620f3db1dce8d9ecab946b1cdd157baa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1983/684/regulation/2) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [3](https://www.legislation.gov.uk/uksi/1993/1521/regulation/3)
+[^c-620f3db1dce8d9ecab946b1cdd157baa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1983/684/regulation/2) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [3](https://www.legislation.gov.uk/uksi/1993/1521/regulation/3)
 
-[^key-fd18145af719c7c4d2427173b9223349]: Commencement: Reg. 3 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
+[^c-fd18145af719c7c4d2427173b9223349]: Commencement: Reg. 3 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
 
-[^key-84c0f0660540e3820718d143788c1de6]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3/1/c) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/4/1/a)
+[^c-84c0f0660540e3820718d143788c1de6]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3/1/c) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/4/1/a)
 
-[^key-929979ab5009cb57144a77932e6c039b]: Textual amendment: [Reg. 3(1)(cc)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3/1/cc) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/4/1/b)
+[^c-929979ab5009cb57144a77932e6c039b]: Textual amendment: [Reg. 3(1)(cc)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3/1/cc) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/4/1/b)
 
-[^key-c8091467e5284d229ae8385c9024606b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3/2) substituted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/4/2)
+[^c-c8091467e5284d229ae8385c9024606b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3/2) substituted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/4/2)
 
-[^key-ad38c9bbc484666be359a14f7aaa8e2b]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1983/684/regulation/3A) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [5](https://www.legislation.gov.uk/uksi/1993/1521/regulation/5)
+[^c-ad38c9bbc484666be359a14f7aaa8e2b]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1983/684/regulation/3A) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [5](https://www.legislation.gov.uk/uksi/1993/1521/regulation/5)
 
-[^key-c94ca70c20f3a78a26c1e0a11200ca29]: Textual amendment: Words in [reg. 3A(1)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3A/1) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c94ca70c20f3a78a26c1e0a11200ca29]: Textual amendment: Words in [reg. 3A(1)](https://www.legislation.gov.uk/uksi/1983/684/regulation/3A/1) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1096c12084efdca9af004296dbdf1f42]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/1983/684/regulation/3B) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [6](https://www.legislation.gov.uk/uksi/1993/1521/regulation/6)
+[^c-1096c12084efdca9af004296dbdf1f42]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/1983/684/regulation/3B) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [6](https://www.legislation.gov.uk/uksi/1993/1521/regulation/6)
 
-[^key-6dc343b21ba1194c3bff1eb10ebf88c9]: Commencement: Reg. 4 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
+[^c-6dc343b21ba1194c3bff1eb10ebf88c9]: Commencement: Reg. 4 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
 
-[^key-b0cb99e2fecdf7687ae6fff34c82014e]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/1983/684/regulation/4) modified (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 4(6)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/4/6) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-b0cb99e2fecdf7687ae6fff34c82014e]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/1983/684/regulation/4) modified (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 4(6)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/4/6) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
-[^key-f99bd0521048da3baf51ed56b4977c4c]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/1) inserted (6.6.1995) by [The Gas (Meters) (Amendment) Regulations 1995 (S.I. 1995/1251)](https://www.legislation.gov.uk/uksi/1995/1251), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1251/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1995/1251/regulation/3/a)
+[^c-f99bd0521048da3baf51ed56b4977c4c]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/1) inserted (6.6.1995) by [The Gas (Meters) (Amendment) Regulations 1995 (S.I. 1995/1251)](https://www.legislation.gov.uk/uksi/1995/1251), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1251/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1995/1251/regulation/3/a)
 
-[^key-015aeddfbe0cd11a154f0cfa414d7ecb]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/1) substituted (6.6.1995) by [The Gas (Meters) (Amendment) Regulations 1995 (S.I. 1995/1251)](https://www.legislation.gov.uk/uksi/1995/1251), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1251/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1995/1251/regulation/3/b)
+[^c-015aeddfbe0cd11a154f0cfa414d7ecb]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/1) substituted (6.6.1995) by [The Gas (Meters) (Amendment) Regulations 1995 (S.I. 1995/1251)](https://www.legislation.gov.uk/uksi/1995/1251), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1251/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1995/1251/regulation/3/b)
 
-[^key-e3759663ab32a055bea9b5a080bc3683]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/4) omitted (12.7.1993) by virtue of [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/7/a)
+[^c-e3759663ab32a055bea9b5a080bc3683]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/4) omitted (12.7.1993) by virtue of [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/7/a)
 
-[^key-aa7f623d74d268f400d227290e202552]: Textual amendment: Words in [reg. 4(3)-(5)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/3) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/7/b)
+[^c-aa7f623d74d268f400d227290e202552]: Textual amendment: Words in [reg. 4(3)-(5)](https://www.legislation.gov.uk/uksi/1983/684/regulation/4/3) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1993/1521/regulation/7/b)
 
-[^key-db8136ab078b4cc21a0cae2da7ebcc38]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/uksi/1983/684/regulation/4A), [4B](https://www.legislation.gov.uk/uksi/1983/684/regulation/4B) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [8](https://www.legislation.gov.uk/uksi/1993/1521/regulation/8)
+[^c-db8136ab078b4cc21a0cae2da7ebcc38]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/uksi/1983/684/regulation/4A), [4B](https://www.legislation.gov.uk/uksi/1983/684/regulation/4B) inserted (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [8](https://www.legislation.gov.uk/uksi/1993/1521/regulation/8)
 
-[^key-1f356b517cee10bf42fae0977b945aa1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1983/684/regulation/5) substituted (19.7.1991) by [The Gas (Meters) (Amendment) Regulations 1991 (S.I. 1991/1471)](https://www.legislation.gov.uk/uksi/1991/1471), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1471/regulation/1), [3](https://www.legislation.gov.uk/uksi/1991/1471/regulation/3)
+[^c-1f356b517cee10bf42fae0977b945aa1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1983/684/regulation/5) substituted (19.7.1991) by [The Gas (Meters) (Amendment) Regulations 1991 (S.I. 1991/1471)](https://www.legislation.gov.uk/uksi/1991/1471), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1471/regulation/1), [3](https://www.legislation.gov.uk/uksi/1991/1471/regulation/3)
 
-[^key-841e2ba1d0d35c22d1182cbe59f48acc]: Textual amendment: [Reg. 5(12)](https://www.legislation.gov.uk/uksi/1983/684/regulation/5/12) revoked (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [9](https://www.legislation.gov.uk/uksi/1993/1521/regulation/9)
+[^c-841e2ba1d0d35c22d1182cbe59f48acc]: Textual amendment: [Reg. 5(12)](https://www.legislation.gov.uk/uksi/1983/684/regulation/5/12) revoked (12.7.1993) by [The Gas (Meters) (Amendment) Regulations 1993 (S.I. 1993/1521)](https://www.legislation.gov.uk/uksi/1993/1521), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1521/regulation/1), [9](https://www.legislation.gov.uk/uksi/1993/1521/regulation/9)
 
-[^key-47327a49fa94b6c526364c0158e303e0]: Commencement: Reg. 6 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
+[^c-47327a49fa94b6c526364c0158e303e0]: Commencement: Reg. 6 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
 
-[^key-3c53aba97b14176ff8777a31ae77b9e2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1983/684/schedule/1) substituted (19.7.1991) by [The Gas (Meters) (Amendment) Regulations 1991 (S.I. 1991/1471)](https://www.legislation.gov.uk/uksi/1991/1471), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1471/regulation/1), [4](https://www.legislation.gov.uk/uksi/1991/1471/regulation/4)
+[^c-3c53aba97b14176ff8777a31ae77b9e2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1983/684/schedule/1) substituted (19.7.1991) by [The Gas (Meters) (Amendment) Regulations 1991 (S.I. 1991/1471)](https://www.legislation.gov.uk/uksi/1991/1471), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1471/regulation/1), [4](https://www.legislation.gov.uk/uksi/1991/1471/regulation/4)
 
-[^key-69fd736c94e9219982d1cdab0179a18e]: Commencement: Sch. 2 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)
+[^c-69fd736c94e9219982d1cdab0179a18e]: Commencement: Sch. 2 in force at 1.6.1983, see [reg. 1](https://www.legislation.gov.uk/uksi/1983/684/regulation/1)

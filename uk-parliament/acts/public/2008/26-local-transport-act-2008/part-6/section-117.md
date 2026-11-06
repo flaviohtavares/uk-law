@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-7fc7083764dddcd2437497dfed48dfc9][^key-9517dc9121711c4c9f752aa101cbc3fb] After section 177 of the TA 2000 insert—
+(1)[^c-7fc7083764dddcd2437497dfed48dfc9][^c-9517dc9121711c4c9f752aa101cbc3fb] After section 177 of the TA 2000 insert—
 
 > **177A. Power to require information**
 >
@@ -32,7 +32,7 @@ summary: ''
 
 .
 
-(2)[^key-d5e9a3e4335eab7c086763f33a959bf4] In Schedule 23 to the GLA Act 1999 (road user charging) after paragraph 34A (information) insert—
+(2)[^c-d5e9a3e4335eab7c086763f33a959bf4] In Schedule 23 to the GLA Act 1999 (road user charging) after paragraph 34A (information) insert—
 
 > **34B. Power to require information**
 >
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7fc7083764dddcd2437497dfed48dfc9]: Commencement: S. 117(1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-7fc7083764dddcd2437497dfed48dfc9]: Commencement: S. 117(1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-9517dc9121711c4c9f752aa101cbc3fb]: Commencement: S. 117(1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/579/article/2/r)
+[^c-9517dc9121711c4c9f752aa101cbc3fb]: Commencement: S. 117(1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/579/article/2/r)
 
-[^key-d5e9a3e4335eab7c086763f33a959bf4]: Commencement: S. 117(2) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-d5e9a3e4335eab7c086763f33a959bf4]: Commencement: S. 117(2) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307. Power to provide for other persons to have accreditation functions etc[^key-06c4b4480aafc9decfcb34a12649f00f][^key-3800cbd518690c2e1a7a55e334c268b0]
+## 307. Power to provide for other persons to have accreditation functions etc[^c-06c4b4480aafc9decfcb34a12649f00f][^c-3800cbd518690c2e1a7a55e334c268b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06c4b4480aafc9decfcb34a12649f00f]: Commencement: S. 307 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-06c4b4480aafc9decfcb34a12649f00f]: Commencement: S. 307 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-3800cbd518690c2e1a7a55e334c268b0]: Commencement: [S. 307](https://www.legislation.gov.uk/ukpga/2024/13/section/307) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-3800cbd518690c2e1a7a55e334c268b0]: Commencement: [S. 307](https://www.legislation.gov.uk/ukpga/2024/13/section/307) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

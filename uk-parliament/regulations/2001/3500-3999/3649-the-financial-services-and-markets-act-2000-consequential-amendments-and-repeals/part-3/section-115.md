@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Repeal of spent amendments[^key-eb06c6850468f40456e7a93422fc4f60]
+## 115. Repeal of spent amendments[^c-eb06c6850468f40456e7a93422fc4f60]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The following provisions of Schedule 6 to the Judicial Pensions and Retirement A
 
 ## Annotations
 
-[^key-eb06c6850468f40456e7a93422fc4f60]: Commencement: Art. 115 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-eb06c6850468f40456e7a93422fc4f60]: Commencement: Art. 115 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

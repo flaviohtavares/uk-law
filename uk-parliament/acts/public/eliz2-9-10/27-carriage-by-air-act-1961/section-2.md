@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Designation of High Contracting Parties.[^key-7f3831fa572f65eff8951699416b945b][^key-b896076181947ad7e8e4c4a5ceffcff4]
+## 2. Designation of High Contracting Parties.[^c-7f3831fa572f65eff8951699416b945b][^c-b896076181947ad7e8e4c4a5ceffcff4]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,9 +42,9 @@ summary: ''
 
 ## Annotations
 
-[^key-7f3831fa572f65eff8951699416b945b]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/2) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-7f3831fa572f65eff8951699416b945b]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/2) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-b896076181947ad7e8e4c4a5ceffcff4]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/2) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/1)[(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-b896076181947ad7e8e4c4a5ceffcff4]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/2) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/1)[(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c12406121]: Textual amendment: Words inserted (*prosp.*) with saving by Carriage by [Air and Road Act 1979 (c. 28, SIF 9)](https://www.legislation.gov.uk/ukpga/1979/28), [ss. 1(2)(3)](https://www.legislation.gov.uk/ukpga/1979/28/section/1/2/3), [7(2)](https://www.legislation.gov.uk/ukpga/1979/28/section/7/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1979/28/schedule/2/paragraph/2)
 

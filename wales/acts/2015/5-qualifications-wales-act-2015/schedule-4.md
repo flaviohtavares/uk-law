@@ -24,7 +24,7 @@ summary: ''
 
 ### Education Act 1996 (c.56)
 
-**1.**[^key-5585d76fca47d810719700e33f7a7550] (1) The Education Act 1996 is amended as follows.
+**1.**[^c-5585d76fca47d810719700e33f7a7550] (1) The Education Act 1996 is amended as follows.
 
 (2) In section 408—
 
@@ -41,7 +41,7 @@ summary: ''
 
 ### Education Act 1997 (c.44)
 
-**2.**[^key-614340722dcdd1c267ae0bb55a9e0d34] (1) The Education Act 1997 is amended as follows.
+**2.**[^c-614340722dcdd1c267ae0bb55a9e0d34] (1) The Education Act 1997 is amended as follows.
 
 (2) In section 29, after subsection (6) insert—
 
@@ -60,7 +60,7 @@ summary: ''
 
 ### Learning and Skills Act 2000 (c.21)
 
-**3.**[^key-32f3096f4a75a57ecb34ad1b68f3167f] (1) The Learning and Skills Act 2000 is amended as follows.
+**3.**[^c-32f3096f4a75a57ecb34ad1b68f3167f] (1) The Learning and Skills Act 2000 is amended as follows.
 
 (2) In section 96—
 
@@ -93,19 +93,19 @@ summary: ''
 
 ### Education Act 2002 (c.32)
 
-**4.**[^key-b78834723dde4a25a0ff2f52fc12487e] Omit paragraph 7 of Schedule 17 to the Education Act 2002.
+**4.**[^c-b78834723dde4a25a0ff2f52fc12487e] Omit paragraph 7 of Schedule 17 to the Education Act 2002.
 
 ### National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)
 
-**5.**[^key-44a0cb908c119063564c0167095f601b] Omit paragraph 72 of Schedule 1 to the National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005.
+**5.**[^c-44a0cb908c119063564c0167095f601b] Omit paragraph 72 of Schedule 1 to the National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005.
 
 ### Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)
 
-**6.**[^key-3e714000bc430f1db4f4965d2c5d12a9] Omit paragraphs 14, 15, 18(c), (d) and (e) and 30 of Schedule 1 to the Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005.
+**6.**[^c-3e714000bc430f1db4f4965d2c5d12a9] Omit paragraphs 14, 15, 18(c), (d) and (e) and 30 of Schedule 1 to the Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005.
 
 ### Government of Wales Act 2006 (c.32)
 
-**7.**[^key-e636abb0dda62316845329a0a3795ecc] In section 148 of the Government of Wales Act 2006, after subsection (2)(l) insert—
+**7.**[^c-e636abb0dda62316845329a0a3795ecc] In section 148 of the Government of Wales Act 2006, after subsection (2)(l) insert—
 
 > - (la) Qualifications Wales,
 
@@ -113,11 +113,11 @@ summary: ''
 
 ### Education and Skills Act 2008 (c.25)
 
-**8.**[^key-cb86436e4ff707ebf508c79ea122f138] Omit sections 160(1) and (3) and 162 of the Education and Skills Act 2008.
+**8.**[^c-cb86436e4ff707ebf508c79ea122f138] Omit sections 160(1) and (3) and 162 of the Education and Skills Act 2008.
 
 ### Apprenticeships, Skills, Children and Learning Act 2009 (c.22)
 
-**9.**[^key-90e2846ff33a87ec1de5f5a8966c180d] (1) The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
+**9.**[^c-90e2846ff33a87ec1de5f5a8966c180d] (1) The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
 
 (2) In section 253A(6) in the definition of “relevant qualification”, for “by section 30(5) of the Education Act 1997” substitute “ to “qualification” by section 56 of the Qualifications Wales Act 2015 ”.
 
@@ -127,11 +127,11 @@ summary: ''
 
 ### Education Act 2011 (c.21)
 
-**10.**[^key-b3a16837fa754cf957021e52476b98e3] Omit section 24 of the Education Act 2011.
+**10.**[^c-b3a16837fa754cf957021e52476b98e3] Omit section 24 of the Education Act 2011.
 
 ### Counter-Terrorism and Security Act 2015 (c.6)
 
-**11.**[^key-750666cdfc5f3f8b0eedad58c9dd9caa] (1) The Counter-Terrorism and Security Act 2015 is amended as follows.
+**11.**[^c-750666cdfc5f3f8b0eedad58c9dd9caa] (1) The Counter-Terrorism and Security Act 2015 is amended as follows.
 
 (2) In section 32, in subsection (1), in the definition of “relevant further education body”, for the words from “Regulation” to the end of paragraph (b) substitute “ , or to qualifications awarded by bodies in respect of the award of which they are recognised by Qualifications Wales under Part 3 of the Qualifications Wales Act 2015; ”.
 
@@ -141,24 +141,24 @@ summary: ''
 
 ## Annotations
 
-[^key-5585d76fca47d810719700e33f7a7550]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/1) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-5585d76fca47d810719700e33f7a7550]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/1) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-614340722dcdd1c267ae0bb55a9e0d34]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/2) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-614340722dcdd1c267ae0bb55a9e0d34]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/2) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-32f3096f4a75a57ecb34ad1b68f3167f]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-32f3096f4a75a57ecb34ad1b68f3167f]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-b78834723dde4a25a0ff2f52fc12487e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/4) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-b78834723dde4a25a0ff2f52fc12487e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/4) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-44a0cb908c119063564c0167095f601b]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/5) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-44a0cb908c119063564c0167095f601b]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/5) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-3e714000bc430f1db4f4965d2c5d12a9]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/6) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-3e714000bc430f1db4f4965d2c5d12a9]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/6) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-e636abb0dda62316845329a0a3795ecc]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/7) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-e636abb0dda62316845329a0a3795ecc]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/7) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-cb86436e4ff707ebf508c79ea122f138]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/8) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-cb86436e4ff707ebf508c79ea122f138]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/8) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-90e2846ff33a87ec1de5f5a8966c180d]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/9) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-90e2846ff33a87ec1de5f5a8966c180d]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/9) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-b3a16837fa754cf957021e52476b98e3]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/10) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-b3a16837fa754cf957021e52476b98e3]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/10) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-750666cdfc5f3f8b0eedad58c9dd9caa]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/11) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-750666cdfc5f3f8b0eedad58c9dd9caa]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/11) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

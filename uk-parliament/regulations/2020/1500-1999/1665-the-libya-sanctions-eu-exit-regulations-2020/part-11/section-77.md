@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Power to stop, board, search etc.[^key-401afa9b5ffaf6ea9c0e21e69eafc0a7]
+## 77. Power to stop, board, search etc.[^c-401afa9b5ffaf6ea9c0e21e69eafc0a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-401afa9b5ffaf6ea9c0e21e69eafc0a7]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-401afa9b5ffaf6ea9c0e21e69eafc0a7]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

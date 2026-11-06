@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Effect of penalty notice[^key-3f7d5aa39284662dae036a85a89aec59]
+## 62. Effect of penalty notice[^c-3f7d5aa39284662dae036a85a89aec59]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ a sum equal to one and a half times the amount of the penalty may be registered 
 
 ## Annotations
 
-[^key-3f7d5aa39284662dae036a85a89aec59]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2011/24/section/62) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-3f7d5aa39284662dae036a85a89aec59]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2011/24/section/62) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

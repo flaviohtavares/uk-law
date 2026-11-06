@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Further provision about implied terms and liability for costs[^key-fb4de4ab7a7a733a91a69338691819df]
+## 72. Further provision about implied terms and liability for costs[^c-fb4de4ab7a7a733a91a69338691819df]
 
 *Extent: E+W*
 
@@ -164,4 +164,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb4de4ab7a7a733a91a69338691819df]: Commencement: S. 72 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-fb4de4ab7a7a733a91a69338691819df]: Commencement: S. 72 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

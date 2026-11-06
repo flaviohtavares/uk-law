@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Connected persons[^M_I_39b2dfe7-f278-40ed-d68a-8a4e82332726][^key-4eacc12cf663bc1a815c673212c33552]
+## 70. Connected persons[^M_I_39b2dfe7-f278-40ed-d68a-8a4e82332726][^c-4eacc12cf663bc1a815c673212c33552]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_I_39b2dfe7-f278-40ed-d68a-8a4e82332726]: Commencement: S. 70 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-4eacc12cf663bc1a815c673212c33552]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/30/section/70) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-4eacc12cf663bc1a815c673212c33552]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/30/section/70) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

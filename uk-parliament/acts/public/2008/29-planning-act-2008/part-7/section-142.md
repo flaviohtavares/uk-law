@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Use of underground gas storage facilities[^key-ab25f77cfcfc9e1e159196da154e23c1]
+## 142. Use of underground gas storage facilities[^c-ab25f77cfcfc9e1e159196da154e23c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An order granting development consent may include provision authorising the use 
 
 ## Annotations
 
-[^key-ab25f77cfcfc9e1e159196da154e23c1]: Commencement: S. 142 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-ab25f77cfcfc9e1e159196da154e23c1]: Commencement: S. 142 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

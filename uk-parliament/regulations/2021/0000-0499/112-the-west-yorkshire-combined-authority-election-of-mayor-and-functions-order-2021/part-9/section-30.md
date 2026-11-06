@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Transitional provision[^key-f63f0456aa2ca739912fdfe11c5053c0]
+## 30. Transitional provision[^c-f63f0456aa2ca739912fdfe11c5053c0]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f63f0456aa2ca739912fdfe11c5053c0]: Commencement: Art. 30 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-f63f0456aa2ca739912fdfe11c5053c0]: Commencement: Art. 30 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24433931]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 

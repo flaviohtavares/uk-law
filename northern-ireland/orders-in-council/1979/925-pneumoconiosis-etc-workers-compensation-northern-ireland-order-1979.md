@@ -43,7 +43,7 @@ This Order may be cited as the Pneumoconiosis, etc., (Workers' Compensation) (No
 
 - “the appropriate percentage” means, in the case of any disease, the percentage specified in subsection (1) of section 57 of the Social Security (Northern Ireland) Act 1975 or, if regulations have been made under section 77 of that Act specifying a different percentage in relation to that disease, the percentage specified in the regulations;[^c17045571]
 - “the appropriate period” means, in the case of any disease, the period specified in subsection (4) of the said section 57 or, if regulations have been made under the said section 77 specifying a different period in relation to that disease, the period specified in the regulations;
-- [^key-a06a5f4bd51dd514ede473d3a9f9f8ff]...
+- [^c-a06a5f4bd51dd514ede473d3a9f9f8ff]...
 - “Department” means the Department of Manpower Services;
 - “disablement benefit” means disablement benefit under section 76 of the Social Security (Northern Ireland) Act 1975 or section 108 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c17045591] or under any corresponding provision of the former Industrial Injuries Acts;
 - “former Industrial Injuries Acts” means the National Insurance (Industrial Injuries) Act (Northern Ireland) 1946 [^m00002] and the National Insurance (Industrial Injuries) Act (Northern Ireland) 1966 [^m00003];
@@ -76,7 +76,7 @@ may make a claim in accordance with paragraph (2) for a payment under paragraph 
 
 - (a) that disablement benefit is payable in respect of the disease to the person so disabled or, subject to paragraph (3A), would be payable to him in respect of it but for his disablement amounting to less than the appropriate percentage[^c17045711];
 - (b) that every relevant employer of the person so disabled[^c20368931] has ceased to carry on business;
-- (ba)[^key-b201928d30d476261fe7cae6d96dc1de] that no application has been made for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
+- (ba)[^c-b201928d30d476261fe7cae6d96dc1de] that no application has been made for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
 - (c) that the person so disabled has not brought any action, or compromised any claim, for damages in respect of the disablement,
 
 the Department shall pay the person so disabled the prescribed sum.
@@ -108,12 +108,12 @@ may make a claim in accordance with paragraph (2) for a payment under paragraph 
 (3) If, on such a claim, the Department is satisfied—
 
 - (a) that no payment under Article 3 in respect of the disease has been made to the deceased;
-- (b) [^key-5eebc139bc5fd31cadbbfbfad3cf5503]... that disablement benefit was payable to the deceased in respect of the disease immediately before he died or, subject to paragraph (3A), would have been so payable to him—[^c17045811]
+- (b) [^c-5eebc139bc5fd31cadbbfbfad3cf5503]... that disablement benefit was payable to the deceased in respect of the disease immediately before he died or, subject to paragraph (3A), would have been so payable to him—[^c17045811]
   - (i) but for his disablement amounting to less than the appropriate percentage; or
   - (ii) but for his not having claimed the benefit; or
   - (iii) but for his having died before he had suffered from the disease for the appropriate period;
 - (c) that every person who employed the deceased at any time during the period during which he was developing the disease and against whom the deceased might have had a claim for damages in respect of the disablement, has ceased to carry on business;
-- (ca)[^key-6354a5ad786d383cf2b780ac7f5620e6] that no application has been made by the deceased, or any dependant, for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
+- (ca)[^c-6354a5ad786d383cf2b780ac7f5620e6] that no application has been made by the deceased, or any dependant, for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
 - (d) that neither the deceased, his personal representatives, nor any relative of his, has brought any action, or compromised any claim, for damages in respect of the disablement or death,
 
 the Department shall pay the dependant the prescribed sum.
@@ -139,7 +139,7 @@ the Department shall pay the dependant the prescribed sum.
 - (b) under the age of 21 and not gainfully employed full-time; or
 - (c) permanently incapable of self-support.
 
-(2A)[^key-8aa0a42a744b09f7406767f289531c1e] For the purposes of paragraph (1)(c), two persons are in a qualifying relationship if they are living together as if spouses of each other.
+(2A)[^c-8aa0a42a744b09f7406767f289531c1e] For the purposes of paragraph (1)(c), two persons are in a qualifying relationship if they are living together as if spouses of each other.
 
 (3) In this Article—
 
@@ -270,7 +270,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 [^c17045571]: Textual amendment: [1986 NI 18](https://www.legislation.gov.uk/nisi/1986)
 
-[^key-a06a5f4bd51dd514ede473d3a9f9f8ff]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1979/925/article/2/2) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-a06a5f4bd51dd514ede473d3a9f9f8ff]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1979/925/article/2/2) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
 
 [^c17045591]: Textual amendment: [1992 c. 9](https://www.legislation.gov.uk/ukpga/1992/9)
 
@@ -286,15 +286,15 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 [^c20368931]: Textual amendment: Words in art. 3(3)(b) substituted (19.7.2007 for certain purposes and 10.8.2007 otherwise) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 52(3)](https://www.legislation.gov.uk/nia/2007/2/section/52/3), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2007/335](https://www.legislation.gov.uk/nisr/2007/335), [art. 2](https://www.legislation.gov.uk/nisr/2007/335/article/2)
 
-[^key-b201928d30d476261fe7cae6d96dc1de]: Textual amendment: [Art. 3(3)(ba)](https://www.legislation.gov.uk/nisi/1979/925/article/3/3/ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/4); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-b201928d30d476261fe7cae6d96dc1de]: Textual amendment: [Art. 3(3)(ba)](https://www.legislation.gov.uk/nisi/1979/925/article/3/3/ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/4); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
 [^c17045751]: Textual amendment: [1985 NI 16](https://www.legislation.gov.uk/nisi/1985)
 
-[^key-5eebc139bc5fd31cadbbfbfad3cf5503]: Textual amendment: Words in [art. 4(3)(b)](https://www.legislation.gov.uk/nisi/1979/925/article/4/3/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-5eebc139bc5fd31cadbbfbfad3cf5503]: Textual amendment: Words in [art. 4(3)(b)](https://www.legislation.gov.uk/nisi/1979/925/article/4/3/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
 
 [^c17045811]: Textual amendment: [1986 NI 18](https://www.legislation.gov.uk/nisi/1986)
 
-[^key-6354a5ad786d383cf2b780ac7f5620e6]: Textual amendment: Art. 4(3)(ca) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/5); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-6354a5ad786d383cf2b780ac7f5620e6]: Textual amendment: Art. 4(3)(ca) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/5); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
 [^c17045851]: Textual amendment: SR 2005/479
 
@@ -302,7 +302,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 [^c17045951]: Textual amendment: [1985 NI 16](https://www.legislation.gov.uk/nisi/1985)
 
-[^key-8aa0a42a744b09f7406767f289531c1e]: Textual amendment: [Art. 5(2A)](https://www.legislation.gov.uk/nisi/1979/925/article/5/2A) substituted for [art. 5(2A)(2B)](https://www.legislation.gov.uk/nisi/1979/925/article/5/2A) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [62](https://www.legislation.gov.uk/uksi/2019/1514/regulation/62) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-8aa0a42a744b09f7406767f289531c1e]: Textual amendment: [Art. 5(2A)](https://www.legislation.gov.uk/nisi/1979/925/article/5/2A) substituted for [art. 5(2A)(2B)](https://www.legislation.gov.uk/nisi/1979/925/article/5/2A) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [62](https://www.legislation.gov.uk/uksi/2019/1514/regulation/62) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^m00004]: Marginal citation: 1969 c.22
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Absent voting at elections: miscellaneous[^key-32034075dce7664e38aedac06845d39b]
+## 12. Absent voting at elections: miscellaneous[^c-32034075dce7664e38aedac06845d39b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32034075dce7664e38aedac06845d39b]: Commencement: Art. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-32034075dce7664e38aedac06845d39b]: Commencement: Art. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00026]: Footnote: Section 59 was amended by the Representation of the People Act [1993 (c.29)](https://www.legislation.gov.uk/ukpga/1993/29), section 1; the 2000 Act, Schedule 1, paragraph 16 and the 2006 Act, section 13.

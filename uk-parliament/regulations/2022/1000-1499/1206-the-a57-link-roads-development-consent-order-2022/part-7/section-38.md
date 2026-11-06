@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Trees subject to tree preservation orders[^key-0de75481953dd879340ff06536d9705d]
+## 38. Trees subject to tree preservation orders[^c-0de75481953dd879340ff06536d9705d]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0de75481953dd879340ff06536d9705d]: Commencement: Art. 38 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-0de75481953dd879340ff06536d9705d]: Commencement: Art. 38 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
 [^f00075]: Footnote: Section 206(1) was amended by section 192(8) of, and paragraphs 7 and 11 of Schedule 8 to, the 2008 Act.

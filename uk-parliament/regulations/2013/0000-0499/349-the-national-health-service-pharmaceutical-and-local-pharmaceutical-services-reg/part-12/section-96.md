@@ -24,11 +24,11 @@ summary: ''
 
 (2) For the purposes of paragraph (1), a claim for repayment is only valid if duly made—
 
-- (a) in such form and manner as the Secretary of State has determined for an application for such a repayment under regulation 18(2)(b)[^key-565dbc94764d5407fef135c779e899df] of the Charges Regulations [^c21647141] (repayment of charges); or
+- (a) in such form and manner as the Secretary of State has determined for an application for such a repayment under regulation 18(2)(b)[^c-565dbc94764d5407fef135c779e899df] of the Charges Regulations [^c21647141] (repayment of charges); or
 - (b) on an equivalent form issued in Scotland, Wales or Northern Ireland.
 
 ## Annotations
 
-[^key-565dbc94764d5407fef135c779e899df]: Textual amendment: Words in [reg. 96(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/96/2/a) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/3)
+[^c-565dbc94764d5407fef135c779e899df]: Textual amendment: Words in [reg. 96(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/96/2/a) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/3)
 
 [^c21647141]: Marginal citation: Regulation 10 has been amended by [S.I. 2000/3189](https://www.legislation.gov.uk/uksi/2000/3189), 2002/2352 and 2004/696.

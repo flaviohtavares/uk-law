@@ -54,7 +54,7 @@ The Secretary of State, in exercise of the powers conferred by sections 111, 113
 - [Section 2 — Interpretation: proceedings and parties](part-1/section-2.md)
 - [Section 3 — Interpretation: general](part-1/section-3.md)
 
-### PART 1A — THE OVERRIDING OBJECTIVE[^key-729dde755c7f22113efa9feff46ab727]
+### PART 1A — THE OVERRIDING OBJECTIVE[^c-729dde755c7f22113efa9feff46ab727]
 
 - [Section 3A — The overriding objective](part-1a/section-3a.md)
 - [Section 3B — The duty of the participants in a case](part-1a/section-3b.md)
@@ -197,7 +197,7 @@ The Secretary of State, in exercise of the powers conferred by sections 111, 113
 - [Section 83 — Application for special measures direction permitting admission of video recorded evidence in chief](part-12/section-83.md)
 - [Section 84 — Variation or discharge of special measures direction](part-12/section-84.md)
 
-#### CHAPTER 7 — Use of specimens in proceedings for offences relating to alcohol and drugs[^key-db47d92d487f19fcf7add32ff6c2ef87]
+#### CHAPTER 7 — Use of specimens in proceedings for offences relating to alcohol and drugs[^c-db47d92d487f19fcf7add32ff6c2ef87]
 
 - [Section 84A — Application and interpretation](part-12/section-84a.md)
 - [Section 84B — Use of specimens](part-12/section-84b.md)
@@ -224,7 +224,7 @@ The Secretary of State, in exercise of the powers conferred by sections 111, 113
 - [Section 98 — Mitigation of sentence](part-14/section-98.md)
 - [Section 99 — Pronouncement of sentence](part-14/section-99.md)
 
-### Part 14A — Variation Proceedings[^key-ad473a5694dcb2fae3b714b92603f878]
+### Part 14A — Variation Proceedings[^c-ad473a5694dcb2fae3b714b92603f878]
 
 - [Section 99A — Application of Part 14A](part-14a/section-99a.md)
 - [Section 99B — Interpretation of Part 14A](part-14a/section-99b.md)
@@ -250,7 +250,7 @@ The Secretary of State, in exercise of the powers conferred by sections 111, 113
 - [Section 107 — Remission of fine](part-15/section-107.md)
 - [Section 108 — Certification of contempt of court](part-15/section-108.md)
 
-#### CHAPTER 3 — Driving Disqualification Orders[^key-c1961b47b91acd69cfd574ca66ff6ca4]
+#### CHAPTER 3 — Driving Disqualification Orders[^c-c1961b47b91acd69cfd574ca66ff6ca4]
 
 - [Section 108A — Application to remove a disqualification](part-15/section-108a.md)
 - [Section 108B — Information to be supplied on order for disqualification, etc.](part-15/section-108b.md)
@@ -320,10 +320,10 @@ Part 17 makes transitory and transitional provisions. Rule 111 provides that unt
 
 [^c19687671]: Marginal citation: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-729dde755c7f22113efa9feff46ab727]: Textual amendment: Pt. 1A inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2022/1263/rule/8)
+[^c-729dde755c7f22113efa9feff46ab727]: Textual amendment: Pt. 1A inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2022/1263/rule/8)
 
-[^key-db47d92d487f19fcf7add32ff6c2ef87]: Textual amendment: [Ch. 7](https://www.legislation.gov.uk/uksi/2009/1209/chapter/7) inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [22](https://www.legislation.gov.uk/uksi/2013/2527/article/22)
+[^c-db47d92d487f19fcf7add32ff6c2ef87]: Textual amendment: [Ch. 7](https://www.legislation.gov.uk/uksi/2009/1209/chapter/7) inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [22](https://www.legislation.gov.uk/uksi/2013/2527/article/22)
 
-[^key-ad473a5694dcb2fae3b714b92603f878]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/1209/part/14A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1097/rule/5)
+[^c-ad473a5694dcb2fae3b714b92603f878]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/1209/part/14A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1097/rule/5)
 
-[^key-c1961b47b91acd69cfd574ca66ff6ca4]: Textual amendment: Pt. 15 Ch. 3 inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/209/regulation/14)
+[^c-c1961b47b91acd69cfd574ca66ff6ca4]: Textual amendment: Pt. 15 Ch. 3 inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/209/regulation/14)

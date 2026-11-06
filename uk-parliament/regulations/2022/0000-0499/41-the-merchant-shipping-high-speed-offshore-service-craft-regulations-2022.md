@@ -44,11 +44,11 @@ Coming into force-
 
 9th February 2022
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 85(1), (1B), (3), (5), (6) and (7) and 86(1) of the Merchant Shipping Act 1995[^f00001].[^key-c0eae87eaa8b5aaba8dee483a167434d]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 85(1), (1B), (3), (5), (6) and (7) and 86(1) of the Merchant Shipping Act 1995[^f00001].[^c-c0eae87eaa8b5aaba8dee483a167434d]
 
-The Secretary of State has consulted the persons referred to in section 86(4) of that Act.[^key-c0eae87eaa8b5aaba8dee483a167434d]
+The Secretary of State has consulted the persons referred to in section 86(4) of that Act.[^c-c0eae87eaa8b5aaba8dee483a167434d]
 
-## 1. Citation, commencement and extent[^key-efb1e4356eefd4f975dfff1f3900a3b8]
+## 1. Citation, commencement and extent[^c-efb1e4356eefd4f975dfff1f3900a3b8]
 
 (1) These Regulations may be cited as the Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022.
 
@@ -56,14 +56,14 @@ The Secretary of State has consulted the persons referred to in section 86(4) of
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Definitions[^key-aceab47d8aeae00e56886af77856fcb3]
+## 2. Definitions[^c-aceab47d8aeae00e56886af77856fcb3]
 
 In these Regulations—
 
 - “**HSOSC**” has the meaning given in regulation 3;
 - “**Merchant Shipping Notice**” means a notice, described as such, issued by the Secretary of State, and includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
 
-## 3. Application[^key-e974993632abf8d50cd5cb15cfe7f105]
+## 3. Application[^c-e974993632abf8d50cd5cb15cfe7f105]
 
 (1) These Regulations apply to high speed offshore service craft (“**HSOSC**”).
 
@@ -74,43 +74,43 @@ In these Regulations—
   - (i) at sea, or
   - (ii) in Category A, B, C or D waters,
 - (c) is of less than 500 tons gross tonnage,
-- (d)[^key-d09bbe66fd14c1cc9f47e37a5ab56c32] is engaged in an operation to transport an aggregate of more than 12 persons consisting of industrial personnel, special personnel and passengers where at least one person is industrial personnel, from one place to another, including any part of that operation where they are not on board,
+- (d)[^c-d09bbe66fd14c1cc9f47e37a5ab56c32] is engaged in an operation to transport an aggregate of more than 12 persons consisting of industrial personnel, special personnel and passengers where at least one person is industrial personnel, from one place to another, including any part of that operation where they are not on board,
 - (e) is not, during that operation, carrying more than 60 persons on board at any point in time, whoever those persons are, and
 - (f) is not—
   - (i) a pleasure vessel,
   - (ii) a warship, naval auxiliary or another craft owned or operated by a State and used, for the time being, only on government non-commercial service,
   - (iii) propelled other than by mechanical means,
   - (iv) a wooden craft of primitive build,
-  - (v) a fishing vessel, [^key-a30b233be8f1f6c9b86bd6fa756e1fdf]...
-  - (vi) engaged in a voyage from a port in one State to a port in another State , or[^key-95f5c7f3cd43b140e8954d25f987d9b7]
-  - (vii)[^key-118c8dd76db8880a9212374cb16737b4] a high speed passenger craft
+  - (v) a fishing vessel, [^c-a30b233be8f1f6c9b86bd6fa756e1fdf]...
+  - (vi) engaged in a voyage from a port in one State to a port in another State , or[^c-95f5c7f3cd43b140e8954d25f987d9b7]
+  - (vii)[^c-118c8dd76db8880a9212374cb16737b4] a high speed passenger craft
 
 (3) In this regulation—
 
 - “**Category A, B, C or D waters**” means waters specified as such in the Merchant Shipping Notice entitled MSN 1837 (M) Amendment 2[^f00002];
 - “**craft**” means ships and hovercraft;
 - “**gross tonnage**” has the meaning given by regulation 6 of the Merchant Shipping (Tonnage) Regulations 1997[^f00003];
-- “[^key-a2f0a28671fa8a34e5b1f4eed2bd13c7]**high speed craft**” has the meaning given to it in regulation 1.3 of Chapter X in the Annex to the International Convention for the Safety of Life at Sea, 1974;
-- “[^key-d1e773cb69f41b08f7b5b5240fa5b6f6]**high speed passenger craft**” means a high speed craft which carries more than 12 passengers;
+- “[^c-a2f0a28671fa8a34e5b1f4eed2bd13c7]**high speed craft**” has the meaning given to it in regulation 1.3 of Chapter X in the Annex to the International Convention for the Safety of Life at Sea, 1974;
+- “[^c-d1e773cb69f41b08f7b5b5240fa5b6f6]**high speed passenger craft**” means a high speed craft which carries more than 12 passengers;
 - “**industrial personnel**” means persons who are transported or accommodated on board for the purpose of offshore industrial activities performed on board other ships or on offshore facilities;
-- “**offshore industrial activities**” means the construction, maintenance, decommissioning, operation or servicing of offshore facilities related , but not limited to,[^key-a8972780fd816104d051ef6502b64ada] to the exploration and exploitation of resources by the renewable or hydrocarbon energy sectors, aquaculture, ocean mining or similar activities;
-- “[^key-ef31053ee7d3d922e94de22c854b712e]**passenger**” means a person other than—
+- “**offshore industrial activities**” means the construction, maintenance, decommissioning, operation or servicing of offshore facilities related , but not limited to,[^c-a8972780fd816104d051ef6502b64ada] to the exploration and exploitation of resources by the renewable or hydrocarbon energy sectors, aquaculture, ocean mining or similar activities;
+- “[^c-ef31053ee7d3d922e94de22c854b712e]**passenger**” means a person other than—
   - (a) the master and the members of the crew or other persons employed or engaged in any capacity on board an HSOSC on the business of that HSOSC;
   - (b) industrial personnel;
   - (c) special personnel; or
   - (d) a child under one year of age;
 - “**pleasure vessel**” has the same meaning as in the Merchant Shipping (Survey and Certification) Regulations 2015[^f00005] (see regulation 3(1) of those Regulations);
-- “[^key-da37b570fcfe1f33ecfc42a8c29d9397]**special personnel**” means a person who is carried on board a ship in connection with the special purpose of that ship or because of special work being carried out on board that ship, but who is not a member of the crew;
+- “[^c-da37b570fcfe1f33ecfc42a8c29d9397]**special personnel**” means a person who is carried on board a ship in connection with the special purpose of that ship or because of special work being carried out on board that ship, but who is not a member of the crew;
 - “**United Kingdom high speed craft**” means a high speed craft which is a United Kingdom ship or hovercraft registered in the United Kingdom.
 
-## 4. Compliance and exemptions[^key-6db92af1134cbb3277b41be0a02d0953]
+## 4. Compliance and exemptions[^c-6db92af1134cbb3277b41be0a02d0953]
 
-(A1)[^key-0691e22eeb38723e88ad4af4ea885d6a] An owner or master of an HSOSC must apply for certification of the HSOSC under—
+(A1)[^c-0691e22eeb38723e88ad4af4ea885d6a] An owner or master of an HSOSC must apply for certification of the HSOSC under—
 
 - (a) regulation 13A of the Merchant Shipping (Survey and Certification) Regulations 2015 (issue of certificates to HSOSC), or
 - (b) regulation 13(2) of the Merchant Shipping (High Speed Craft) Regulations 2022 (High Speed Craft Safety Certificate).
 
-(1) An HSOSC which is certified as described in paragraph (A1)(a)[^key-f92dfae4768577f29576f0cc5cdd89ca] must comply with the HSOSC Code, subject to paragraph (3).
+(1) An HSOSC which is certified as described in paragraph (A1)(a)[^c-f92dfae4768577f29576f0cc5cdd89ca] must comply with the HSOSC Code, subject to paragraph (3).
 
 (2) The HSOSC Code is the Secretary of State’s Code for high speed offshore service craft (of less than 500GT carrying up to 60 persons), published on 9th February 2022[^f00006], and includes any document amending or replacing it which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
 
@@ -137,7 +137,7 @@ In these Regulations—
 
 (10) Before varying an exemption, the Secretary of State must be satisfied that it will continue to provide the level of safety mentioned in paragraph (5).
 
-## 5. Offences, penalties and detention[^key-79da8c421a6bc142bac3ea08067ffec0]
+## 5. Offences, penalties and detention[^c-79da8c421a6bc142bac3ea08067ffec0]
 
 (1) The owner and master of an HSOSC each commits an offence where there is a contravention of regulation 4 in respect of that HSOSC.
 
@@ -158,7 +158,7 @@ In these Regulations—
 - (a) each reference to a ship is to be read as if it were a reference to an HSOSC;
 - (b) in both subsections (1) and (6), each reference to “this Act” is to be read as if it were a reference to regulation 5(5) of these Regulations.
 
-## 6. Survey and certification[^key-686e01f661df913aa8ead7202433d8f0]
+## 6. Survey and certification[^c-686e01f661df913aa8ead7202433d8f0]
 
 (1) The Merchant Shipping (Survey and Certification) Regulations 2015[^f00008] are amended as follows.
 
@@ -271,7 +271,7 @@ In these Regulations—
 - (b) in paragraph (2), for “to (5)” substitute “to (5B)”;
 - (c) in paragraph (5), after “regulation 25” insert “or 25A”.
 
-## 7. Review[^key-5053f5db6a363f8e51f41953c1d607f8]
+## 7. Review[^c-5053f5db6a363f8e51f41953c1d607f8]
 
 (1) The Secretary of State must from time to time—
 
@@ -291,7 +291,7 @@ In these Regulations—
 
 (5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-## 8. Consequential amendment[^key-fc8959ada6931fda0efde42a8026f5c4]
+## 8. Consequential amendment[^c-fc8959ada6931fda0efde42a8026f5c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -325,51 +325,51 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21) (“**the 1995 Act**”). Section 85(1)(b) was substituted by section 8(2) of the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) (“**the 1997 Act**”). Section 85(1B) was inserted by section 8(3) of the 1997 Act. Section 85(3) was amended by section 8(4)(b) of the 1997 Act. The 1995 Act applies to hovercraft by virtue of [S.I. 1972/971](https://www.legislation.gov.uk/uksi/1972/971).
 
-[^key-c0eae87eaa8b5aaba8dee483a167434d]: Modification: Regulations excluded (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-c0eae87eaa8b5aaba8dee483a167434d]: Modification: Regulations excluded (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
-[^key-efb1e4356eefd4f975dfff1f3900a3b8]: Commencement: Reg. 1 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-efb1e4356eefd4f975dfff1f3900a3b8]: Commencement: Reg. 1 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
-[^key-aceab47d8aeae00e56886af77856fcb3]: Commencement: Reg. 2 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-aceab47d8aeae00e56886af77856fcb3]: Commencement: Reg. 2 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
-[^key-e974993632abf8d50cd5cb15cfe7f105]: Commencement: Reg. 3 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-e974993632abf8d50cd5cb15cfe7f105]: Commencement: Reg. 3 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
-[^key-d09bbe66fd14c1cc9f47e37a5ab56c32]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/d) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-d09bbe66fd14c1cc9f47e37a5ab56c32]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/d) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-a30b233be8f1f6c9b86bd6fa756e1fdf]: Textual amendment: Word in [reg. 3(2)(f)(v)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/v) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/aa) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-a30b233be8f1f6c9b86bd6fa756e1fdf]: Textual amendment: Word in [reg. 3(2)(f)(v)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/v) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/aa) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-95f5c7f3cd43b140e8954d25f987d9b7]: Textual amendment: Word in [reg. 3(2)(f)(vi)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/vi) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/bb) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-95f5c7f3cd43b140e8954d25f987d9b7]: Textual amendment: Word in [reg. 3(2)(f)(vi)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/vi) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/bb) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-118c8dd76db8880a9212374cb16737b4]: Textual amendment: [Reg. 3(2)(f)(vii)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/vii) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/cc) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-118c8dd76db8880a9212374cb16737b4]: Textual amendment: [Reg. 3(2)(f)(vii)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/vii) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/cc) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
 [^f00002]: Footnote: A copy of this notice may be seen at https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
 
 [^f00003]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), to which there are amendments not relevant to these Regulations.
 
-[^key-a2f0a28671fa8a34e5b1f4eed2bd13c7]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-a2f0a28671fa8a34e5b1f4eed2bd13c7]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-d1e773cb69f41b08f7b5b5240fa5b6f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-d1e773cb69f41b08f7b5b5240fa5b6f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-a8972780fd816104d051ef6502b64ada]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-a8972780fd816104d051ef6502b64ada]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-ef31053ee7d3d922e94de22c854b712e]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/iv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-ef31053ee7d3d922e94de22c854b712e]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/iv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
 [^f00005]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), amended by [S.I. 2018/53](https://www.legislation.gov.uk/uksi/2018/53). There are other amendments but none are relevant.
 
-[^key-da37b570fcfe1f33ecfc42a8c29d9397]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(v)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/v) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-da37b570fcfe1f33ecfc42a8c29d9397]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(v)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/v) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-6db92af1134cbb3277b41be0a02d0953]: Commencement: Reg. 4 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-6db92af1134cbb3277b41be0a02d0953]: Commencement: Reg. 4 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
-[^key-0691e22eeb38723e88ad4af4ea885d6a]: Textual amendment: [Reg. 4(A1)](https://www.legislation.gov.uk/uksi/2022/41/regulation/4/A1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-0691e22eeb38723e88ad4af4ea885d6a]: Textual amendment: [Reg. 4(A1)](https://www.legislation.gov.uk/uksi/2022/41/regulation/4/A1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-f92dfae4768577f29576f0cc5cdd89ca]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/41/regulation/4/1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/19/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-f92dfae4768577f29576f0cc5cdd89ca]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/41/regulation/4/1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/19/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
 [^f00006]: Footnote: A copy of this Code may be seen at www.gov.uk or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
 
-[^key-79da8c421a6bc142bac3ea08067ffec0]: Commencement: Reg. 5 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-79da8c421a6bc142bac3ea08067ffec0]: Commencement: Reg. 5 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
 [^f00007]: Footnote: Section 284 was amended by paragraph 5 of Schedule 1 to the 1997 Act and by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-686e01f661df913aa8ead7202433d8f0]: Commencement: Reg. 6 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-686e01f661df913aa8ead7202433d8f0]: Commencement: Reg. 6 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), amended by [S.I. 2018/53](https://www.legislation.gov.uk/uksi/2018/53) and [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221).
 
@@ -377,8 +377,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00010]: Footnote: A copy of this Code may be seen at www.gov.uk or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
 
-[^key-5053f5db6a363f8e51f41953c1d607f8]: Commencement: Reg. 7 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+[^c-5053f5db6a363f8e51f41953c1d607f8]: Commencement: Reg. 7 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
 
 [^f00011]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-fc8959ada6931fda0efde42a8026f5c4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/41/regulation/8) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-fc8959ada6931fda0efde42a8026f5c4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/41/regulation/8) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))

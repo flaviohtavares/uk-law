@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police (Performance and Conduct) (Amendment: Metropolitan Police) Regulations 2011 (revoked)[^key-35f6b361af7dd22baca75fa7533228b1]
+The Police (Performance and Conduct) (Amendment: Metropolitan Police) Regulations 2011 (revoked)[^c-35f6b361af7dd22baca75fa7533228b1]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 16th January 2012
 
-[^key-35f6b361af7dd22baca75fa7533228b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35f6b361af7dd22baca75fa7533228b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-35f6b361af7dd22baca75fa7533228b1]
+## 1. Citation, commencement and extent[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-35f6b361af7dd22baca75fa7533228b1]
+## 2. Interpretation[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Efficiency Regulations[^key-35f6b361af7dd22baca75fa7533228b1]
+## 3. Amendments to the Efficiency Regulations[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Performance Regulations[^key-35f6b361af7dd22baca75fa7533228b1]
+## 4. Amendments to the Performance Regulations[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the 2004 Conduct Regulations[^key-35f6b361af7dd22baca75fa7533228b1]
+## 5. Amendments to the 2004 Conduct Regulations[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the 2008 Conduct Regulations[^key-35f6b361af7dd22baca75fa7533228b1]
+## 6. Amendments to the 2008 Conduct Regulations[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cases already being dealt with under the 2004 Conduct Regulations[^key-35f6b361af7dd22baca75fa7533228b1]
+## 7. Cases already being dealt with under the 2004 Conduct Regulations[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Cases already being dealt with under the 2008 Conduct Regulations[^key-35f6b361af7dd22baca75fa7533228b1]
+## 8. Cases already being dealt with under the 2008 Conduct Regulations[^c-35f6b361af7dd22baca75fa7533228b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35f6b361af7dd22baca75fa7533228b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35f6b361af7dd22baca75fa7533228b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-35f6b361af7dd22baca75fa7533228b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35f6b361af7dd22baca75fa7533228b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35f6b361af7dd22baca75fa7533228b1]: Textual amendment: Regulations revoked (22.11.2012) by [The Police (Performance) Regulations 2012 (S.I. 2012/2631)](https://www.legislation.gov.uk/uksi/2012/2631), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2631/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2012/2631/regulation/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2012/2631/regulation/2), [3(2)(3)](https://www.legislation.gov.uk/uksi/2012/2631/regulation/3))
+[^c-35f6b361af7dd22baca75fa7533228b1]: Textual amendment: Regulations revoked (22.11.2012) by [The Police (Performance) Regulations 2012 (S.I. 2012/2631)](https://www.legislation.gov.uk/uksi/2012/2631), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2631/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2012/2631/regulation/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2012/2631/regulation/2), [3(2)(3)](https://www.legislation.gov.uk/uksi/2012/2631/regulation/3))

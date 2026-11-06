@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62A. Functions to be exercised by CMA groups[^key-d7edcf2c866b4e6123c0ab519de1c624][^key-a9c039fd9f867f6f6debb7cbc5bf86f1]
+## 62A. Functions to be exercised by CMA groups[^c-d7edcf2c866b4e6123c0ab519de1c624][^c-a9c039fd9f867f6f6debb7cbc5bf86f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ Where a reference is made to the chair of the CMA under section 62 for the const
 
 ## Annotations
 
-[^key-d7edcf2c866b4e6123c0ab519de1c624]: Textual amendment: S. 62A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 105](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/105) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d7edcf2c866b4e6123c0ab519de1c624]: Textual amendment: S. 62A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 105](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/105) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a9c039fd9f867f6f6debb7cbc5bf86f1]: Modification: S. 62A modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 47(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/47/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a9c039fd9f867f6f6debb7cbc5bf86f1]: Modification: S. 62A modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 47(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/47/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

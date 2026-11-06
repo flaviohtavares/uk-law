@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Anonymous registration: amendments to procedure on issue of postal ballot papers[^key-f9ac811cc863e325ed0ed844a92a94f0]
+## 21. Anonymous registration: amendments to procedure on issue of postal ballot papers[^c-f9ac811cc863e325ed0ed844a92a94f0]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f9ac811cc863e325ed0ed844a92a94f0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2006/2910/regulation/21) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-f9ac811cc863e325ed0ed844a92a94f0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2006/2910/regulation/21) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00041]: Footnote: Regulation 72 was amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871) and [2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 

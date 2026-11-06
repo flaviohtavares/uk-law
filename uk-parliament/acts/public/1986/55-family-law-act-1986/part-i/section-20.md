@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The condition referred to in section 19(1)(b)(ii)[^key-cc865a72c0ac80fd0dff82960d017613] of this Act is that on the relevant date the child concerned—
+(1) The condition referred to in section 19(1)(b)(ii)[^c-cc865a72c0ac80fd0dff82960d017613] of this Act is that on the relevant date the child concerned—
 
 - (a) is habitually resident in Northern Ireland, or
 - (b) is present in Northern Ireland and is not habitually resident in any part of the United Kingdom,
 
 and, in either case, the jurisdiction of the court is not excluded by subsection (2) below.
 
-(2) For the purposes of subsection (1) above. the jurisdiction or the court is excluded if, on the relevant date, matrimonial proceedings[^c13384701] or civil partnership proceedings[^key-3d16377fcd3441799333274b5e9ecc89] are continuing in a court in England and Wales or Scotland in respect of the marriage or civil partnership[^key-5391d5a9a7db648b179543e523779c2e] of the parents of the child concerned.
+(2) For the purposes of subsection (1) above. the jurisdiction or the court is excluded if, on the relevant date, matrimonial proceedings[^c13384701] or civil partnership proceedings[^c-3d16377fcd3441799333274b5e9ecc89] are continuing in a court in England and Wales or Scotland in respect of the marriage or civil partnership[^c-5391d5a9a7db648b179543e523779c2e] of the parents of the child concerned.
 
 (3) Subsection (2) above shall not apply if the court in which the other proceedings there referred to are continuing has made—
 
@@ -44,13 +44,13 @@ and that order is in force.
 
 ## Annotations
 
-[^key-cc865a72c0ac80fd0dff82960d017613]: Textual amendment: Words in s. 20(1) substituted (1.3.2005) by [The European Communities (Jurisdiction and Judgments in Matrimonial and Parental Responsibility Matters) Regulations 2005 (S.I. 2005/265)](https://www.legislation.gov.uk/uksi/2005/265), [regs. 1](https://www.legislation.gov.uk/uksi/2005/265/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/265/regulation/14) (with [reg. 20](https://www.legislation.gov.uk/uksi/2005/265/regulation/20))
+[^c-cc865a72c0ac80fd0dff82960d017613]: Textual amendment: Words in s. 20(1) substituted (1.3.2005) by [The European Communities (Jurisdiction and Judgments in Matrimonial and Parental Responsibility Matters) Regulations 2005 (S.I. 2005/265)](https://www.legislation.gov.uk/uksi/2005/265), [regs. 1](https://www.legislation.gov.uk/uksi/2005/265/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/265/regulation/14) (with [reg. 20](https://www.legislation.gov.uk/uksi/2005/265/regulation/20))
 
 [^c13384701]: Textual amendment: Words in s. 20(2) substituted (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 125(b)](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/125/b); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
 
-[^key-3d16377fcd3441799333274b5e9ecc89]: Textual amendment: Words in s. 20(2) inserted (5.12.2005) by [The Civil Partnership (Family Proceedings and Housing Consequential Amendments) Order 2005 (S.I. 2005/3336)](https://www.legislation.gov.uk/uksi/2005/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3336/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2005/3336/article/15/a) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/3336/article/2/4))
+[^c-3d16377fcd3441799333274b5e9ecc89]: Textual amendment: Words in s. 20(2) inserted (5.12.2005) by [The Civil Partnership (Family Proceedings and Housing Consequential Amendments) Order 2005 (S.I. 2005/3336)](https://www.legislation.gov.uk/uksi/2005/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3336/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2005/3336/article/15/a) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/3336/article/2/4))
 
-[^key-5391d5a9a7db648b179543e523779c2e]: Textual amendment: Words in s. 20(2) inserted (5.12.2005) by [The Civil Partnership (Family Proceedings and Housing Consequential Amendments) Order 2005 (S.I. 2005/3336)](https://www.legislation.gov.uk/uksi/2005/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3336/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2005/3336/article/15/b) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/3336/article/2/4))
+[^c-5391d5a9a7db648b179543e523779c2e]: Textual amendment: Words in s. 20(2) inserted (5.12.2005) by [The Civil Partnership (Family Proceedings and Housing Consequential Amendments) Order 2005 (S.I. 2005/3336)](https://www.legislation.gov.uk/uksi/2005/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3336/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2005/3336/article/15/b) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/3336/article/2/4))
 
 [^c13384711]: Textual amendment: Figure in s. 20(3)(a) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 13 para. 68(c)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/68/c) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 

@@ -31,10 +31,10 @@ summary: ''
 
 of 9 June 1980 approving the conclusion by the Commission of the International Convention on the physical protection of nuclear material (revoked)
 
-[^key-82b8e147d0ccd6fe4bbdadf0feb57dd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82b8e147d0ccd6fe4bbdadf0feb57dd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-82b8e147d0ccd6fe4bbdadf0feb57dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-82b8e147d0ccd6fe4bbdadf0feb57dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82b8e147d0ccd6fe4bbdadf0feb57dd9]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-82b8e147d0ccd6fe4bbdadf0feb57dd9]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-54365463fff4f99bbe0d398fe5a297d5]
+## 1. Citation, commencement and interpretation[^c-54365463fff4f99bbe0d398fe5a297d5]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54365463fff4f99bbe0d398fe5a297d5]: Commencement: Art. 1 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-54365463fff4f99bbe0d398fe5a297d5]: Commencement: Art. 1 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00002]: Footnote: [1972 c.18](https://www.legislation.gov.uk/ukpga/1972/18).

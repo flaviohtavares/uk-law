@@ -64,7 +64,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Payments to 
 - “**insurance policy**” means—
   - (a) in relation to an earmarked scheme a contract on human life or a contract of annuity on human life; and
   - (b) in any other case, a contract on human life or a contract of annuity on human life, but excluding a contract which is linked to investment funds;
-- “money purchase benefits” has the meaning given by section 181(1) of the Pension Schemes Act 1993 (general interpretation);[^key-6365da4f072531e56bbe034e00fb8d1b]
+- “money purchase benefits” has the meaning given by section 181(1) of the Pension Schemes Act 1993 (general interpretation);[^c-6365da4f072531e56bbe034e00fb8d1b]
 - “**money purchase scheme**” means a pension scheme under which all the benefits that may be provided, other than death benefits, are money purchase benefits;
 - “**regulatory own funds scheme**” means a scheme in which the scheme, and not any employer in relation to that scheme—
   - (a) underwrites any liability to cover against biometric risk;
@@ -173,7 +173,7 @@ to a scheme which has no active members, references to the employer have effect 
 The classes of prescribed person for the purposes of section 37(3)(a) of the 1995 Act are in the case of a scheme that is subject to Part 3 of the 2004 Act (scheme funding)—
 
 - (a) where the scheme is a scheme for which an actuary is required to be appointed under section 47(1)(b) of the 1995 Act (professional advisers), the actuary appointed under that section; or
-- (b) where it is a scheme which is exempt from the application of section 47(1)(b) of the 1995 Act by virtue of regulations made under subsection (5) of that section, a Fellow of the Institute and Faculty of Actuaries.[^key-1683c144fb21c8267f2b8b65fdb01c70]
+- (b) where it is a scheme which is exempt from the application of section 47(1)(b) of the 1995 Act by virtue of regulations made under subsection (5) of that section, a Fellow of the Institute and Faculty of Actuaries.[^c-1683c144fb21c8267f2b8b65fdb01c70]
   - (i) a Fellow of the Faculty of Actuaries [^c1545352]; or
   - (ii) a Fellow of the Institute of Actuaries [^c1545353].
 
@@ -221,7 +221,7 @@ from the effective date of the valuation.
 
 (3) A notice under section 37(3)(g) of the 1995 Act does not have to be given to any excluded person.
 
-(4)[^key-ab4d12dde9a4d9c47cdbf1c6a6799e1a] The trustees of the scheme may give the notice mentioned in paragraph (1) and provide a copy of the relevant valuation certificate mentioned in paragraph (2) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
+(4)[^c-ab4d12dde9a4d9c47cdbf1c6a6799e1a] The trustees of the scheme may give the notice mentioned in paragraph (1) and provide a copy of the relevant valuation certificate mentioned in paragraph (2) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
 
 ### 11. Notification to the Regulator
 
@@ -280,7 +280,7 @@ In relation to a scheme to which regulation 3(1)(b) applies, section 37 of the 1
 - (a) the address at which he was last known to be living; or
 - (b) in the case of a person who was an active member, immediately before the commencement of the winding up of the scheme, an address at which he is currently known to be employed.
 
-(6)[^key-57c1d002a8e27112d33b7539a2507c31] A notice under this regulation may be sent in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013.
+(6)[^c-57c1d002a8e27112d33b7539a2507c31] A notice under this regulation may be sent in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013.
 
 ### 16. Circumstances in which the Regulator must be satisfied that requirements of section 76 of the 1995 Act are met
 
@@ -418,7 +418,7 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1545347]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). Section 318(1) is cited for the meaning there given to “modifications”, “prescribed” and “regulations”.
 
-[^key-6365da4f072531e56bbe034e00fb8d1b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/802/regulation/2) substituted (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2014/1711/regulation/39) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
+[^c-6365da4f072531e56bbe034e00fb8d1b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/802/regulation/2) substituted (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2014/1711/regulation/39) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
 
 [^c1545348]: Marginal citation: Section 41 was amended by section 1(2)(a) of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [paragraph 12(1)](https://www.legislation.gov.uk/ukpga/1998/8/paragraph/12/1) of Part I to Schedule 5 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [paragraphs 34](https://www.legislation.gov.uk/ukpga/2000/19/paragraph/34) and 52 of Schedule 12, and Part I of Schedule 13 to the Pensions Act 2004 and [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053) and 3331.
 
@@ -428,12 +428,12 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1545351]: Marginal citation: [Section 74(3)(c)](https://www.legislation.gov.uk/uksi/2006/802/section/74/3/c) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-1683c144fb21c8267f2b8b65fdb01c70]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/802/regulation/6/b) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2012/692/regulation/16)
+[^c-1683c144fb21c8267f2b8b65fdb01c70]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/802/regulation/6/b) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2012/692/regulation/16)
 
 [^c1545352]: Marginal citation: The Faculty of Actuaries is located at Faculty of Actuaries, Maclaurin House, 18 Dublin Street, Edinburgh EH1 3PP.
 
 [^c1545353]: Marginal citation: The Institute of Actuaries is located at Institute of Actuaries, Staple Inn Hall, High Holborn, London WC1V 7QJ.
 
-[^key-ab4d12dde9a4d9c47cdbf1c6a6799e1a]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2006/802/regulation/10/4) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 16(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/16/2)
+[^c-ab4d12dde9a4d9c47cdbf1c6a6799e1a]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2006/802/regulation/10/4) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 16(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/16/2)
 
-[^key-57c1d002a8e27112d33b7539a2507c31]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2006/802/regulation/15/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 16(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/16/3)
+[^c-57c1d002a8e27112d33b7539a2507c31]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2006/802/regulation/15/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 16(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/16/3)

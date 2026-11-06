@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55AA. Shared additional pension because of a new state scheme pension credit[^key-54dc6eb9927a6dc57a8b52d21a1a4b9e][^key-0ac2b1b61e67e72de1097bf557f079d3]
+## 55AA. Shared additional pension because of a new state scheme pension credit[^c-54dc6eb9927a6dc57a8b52d21a1a4b9e][^c-0ac2b1b61e67e72de1097bf557f079d3]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54dc6eb9927a6dc57a8b52d21a1a4b9e]: Modification: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/7/section/55AA): sums amended (coming into force in accordance with art. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [4(5)](https://www.legislation.gov.uk/nisr/2026/59/article/4/5)
+[^c-54dc6eb9927a6dc57a8b52d21a1a4b9e]: Modification: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/7/section/55AA): sums amended (coming into force in accordance with art. 1(2)(3)(a), 7 of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [4(5)](https://www.legislation.gov.uk/nisr/2026/59/article/4/5)
 
-[^key-0ac2b1b61e67e72de1097bf557f079d3]: Textual amendment: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/7/section/55AA) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 5](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/5)
+[^c-0ac2b1b61e67e72de1097bf557f079d3]: Textual amendment: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/7/section/55AA) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 5](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/5)

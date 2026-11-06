@@ -24,13 +24,13 @@ Article 62
 
 ### General
 
-**1.**[^key-6f46111006583ad2d6ce752f599a4252] The provisions of this Schedule shall, unless otherwise agreed in writing between the Harbour Authority and the Trinity House, have effect for the protection of the Trinity House, and the users of the river.
+**1.**[^c-6f46111006583ad2d6ce752f599a4252] The provisions of this Schedule shall, unless otherwise agreed in writing between the Harbour Authority and the Trinity House, have effect for the protection of the Trinity House, and the users of the river.
 
-**2.**[^key-d68e4565afd074967290bbcbef8c72f8] Nothing in this Order shall prejudice or derogate from any of the powers, jurisdiction, authority, rights, duties or privileges of the Trinity House.
+**2.**[^c-d68e4565afd074967290bbcbef8c72f8] Nothing in this Order shall prejudice or derogate from any of the powers, jurisdiction, authority, rights, duties or privileges of the Trinity House.
 
 ### Indemnity
 
-**3.**[^key-36d06c86f477030a478e75c22789ff41] (1) The Harbour Authority shall be responsible for and reimburse the Trinity House for all costs, charges, damages, expenses and losses of whatsoever nature reasonably incurred by the Trinity House—
+**3.**[^c-36d06c86f477030a478e75c22789ff41] (1) The Harbour Authority shall be responsible for and reimburse the Trinity House for all costs, charges, damages, expenses and losses of whatsoever nature reasonably incurred by the Trinity House—
 
 - (a) by reason of the temporary repositioning of buoys in connection with the carrying out of works authorised by article 13 (power to dredge); or
 - (b) by reason of any act or omission of the Harbour Authority, its employees, contractors or agents or others whilst engaged upon the construction or maintenance of the works authorised by article 13 (power to dredge);
@@ -39,8 +39,8 @@ and the Harbour Authority shall indemnify the Trinity House from and against all
 
 ## Annotations
 
-[^key-6f46111006583ad2d6ce752f599a4252]: Commencement: Sch. 9 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-6f46111006583ad2d6ce752f599a4252]: Commencement: Sch. 9 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-d68e4565afd074967290bbcbef8c72f8]: Commencement: Sch. 9 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d68e4565afd074967290bbcbef8c72f8]: Commencement: Sch. 9 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-36d06c86f477030a478e75c22789ff41]: Commencement: Sch. 9 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-36d06c86f477030a478e75c22789ff41]: Commencement: Sch. 9 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

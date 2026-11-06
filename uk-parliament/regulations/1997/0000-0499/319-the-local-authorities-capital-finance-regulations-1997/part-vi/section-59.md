@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Payment made to redeem landlord’s share[^key-c4ec1afcc8fb7f31f6a57db82c334908]
+## 59. Payment made to redeem landlord’s share[^c-c4ec1afcc8fb7f31f6a57db82c334908]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ A sum received by a local authority in respect of an interim or final payment ma
 
 ## Annotations
 
-[^key-c4ec1afcc8fb7f31f6a57db82c334908]: Commencement: Reg. 59 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c4ec1afcc8fb7f31f6a57db82c334908]: Commencement: Reg. 59 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00051]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Schedule 6A was inserted by Schedule 16 to the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28).

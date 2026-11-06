@@ -35,11 +35,11 @@ summary: ''
 
 - (a) any employment such as is mentioned in section 159 (whether as originally enacted or as modified by an order under section 209(1)),
 - (b) any employment remunerated out of the revenue of the Duchy of Lancaster or the Duchy of Cornwall,
-- (c) any employment remunerated out of the Sovereign Grant[^key-d9b89095ab6d4d3eda21a793515b0be6], and
+- (c) any employment remunerated out of the Sovereign Grant[^c-d9b89095ab6d4d3eda21a793515b0be6], and
 - (d) any employment remunerated out of Her Majesty’s Privy Purse.
 
 ## Annotations
 
 [^c16333651]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-d9b89095ab6d4d3eda21a793515b0be6]: Textual amendment: Words in s. 171(3)(c) substituted (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/31)
+[^c-d9b89095ab6d4d3eda21a793515b0be6]: Textual amendment: Words in s. 171(3)(c) substituted (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Duty to report the appointment of manager to SCW and the Welsh Ministers[^key-ad678fb52f8f7fc7408e2aaba1210527]
+## 54. Duty to report the appointment of manager to SCW and the Welsh Ministers[^c-ad678fb52f8f7fc7408e2aaba1210527]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad678fb52f8f7fc7408e2aaba1210527]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2019/169/regulation/54) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-ad678fb52f8f7fc7408e2aaba1210527]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2019/169/regulation/54) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

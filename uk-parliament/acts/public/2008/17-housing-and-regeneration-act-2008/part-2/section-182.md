@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Interpretation: “remained in the social rented sector”[^key-cf994dfec64dca90a53fb861ab547bdd]
+## 182. Interpretation: “remained in the social rented sector”[^c-cf994dfec64dca90a53fb861ab547bdd]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) A person is within this subsection if the person is—
 
-- (a) a private registered provider[^key-0e76d3f18d582211ecc210b196d9725a],
+- (a) a private registered provider[^c-0e76d3f18d582211ecc210b196d9725a],
 - (b) a registered social landlord, or
 - (c) a public sector landlord.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf994dfec64dca90a53fb861ab547bdd]: Commencement: S. 182 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-cf994dfec64dca90a53fb861ab547bdd]: Commencement: S. 182 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-0e76d3f18d582211ecc210b196d9725a]: Textual amendment: Words in s. 182(3)(a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/45)
+[^c-0e76d3f18d582211ecc210b196d9725a]: Textual amendment: Words in s. 182(3)(a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/45)

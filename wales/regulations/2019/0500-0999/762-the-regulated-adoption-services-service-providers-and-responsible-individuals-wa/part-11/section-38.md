@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Restrictions on appointing a manager for more than one service[^key-60ce6b8a570d0d64ca35711b0a7b289b]
+## 38. Restrictions on appointing a manager for more than one service[^c-60ce6b8a570d0d64ca35711b0a7b289b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60ce6b8a570d0d64ca35711b0a7b289b]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2019/762/regulation/38) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-60ce6b8a570d0d64ca35711b0a7b289b]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2019/762/regulation/38) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

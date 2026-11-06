@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63A. Visits to prisoners – coronavirus[^key-570ec75cdece3ae909f0b4c67e192185]
+## 63A. Visits to prisoners – coronavirus[^c-570ec75cdece3ae909f0b4c67e192185]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-570ec75cdece3ae909f0b4c67e192185]: Textual amendment: Rule 63A inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(13)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/13)
+[^c-570ec75cdece3ae909f0b4c67e192185]: Textual amendment: Rule 63A inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(13)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/13)

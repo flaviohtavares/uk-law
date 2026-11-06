@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Interpretation of Part 12[^key-6b5898445178d81a5fbce1feb4f08d39]
+## 70. Interpretation of Part 12[^c-6b5898445178d81a5fbce1feb4f08d39]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The following expressions have the same meaning in this Part as they have in Par
 
 ## Annotations
 
-[^key-6b5898445178d81a5fbce1feb4f08d39]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/8/section/70) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-6b5898445178d81a5fbce1feb4f08d39]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/8/section/70) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

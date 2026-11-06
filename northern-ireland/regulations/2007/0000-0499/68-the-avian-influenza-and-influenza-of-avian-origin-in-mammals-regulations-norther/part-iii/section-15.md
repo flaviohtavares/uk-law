@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Measures in a temporary movement restriction zone[^key-24a665b809f9aa6b8142978141d9fde4]
+## 15. Measures in a temporary movement restriction zone[^c-24a665b809f9aa6b8142978141d9fde4]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24a665b809f9aa6b8142978141d9fde4]: Commencement: Reg. 15 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-24a665b809f9aa6b8142978141d9fde4]: Commencement: Reg. 15 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

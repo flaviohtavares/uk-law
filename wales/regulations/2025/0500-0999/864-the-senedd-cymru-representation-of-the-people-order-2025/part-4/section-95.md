@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Petition at issue[^key-4bb93d195f83d4dad81a3c09814bc5ab]
+## 95. Petition at issue[^c-4bb93d195f83d4dad81a3c09814bc5ab]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Senedd election petition will be at issue—
 
 ## Annotations
 
-[^key-4bb93d195f83d4dad81a3c09814bc5ab]: Commencement: Art. 95 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4bb93d195f83d4dad81a3c09814bc5ab]: Commencement: Art. 95 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

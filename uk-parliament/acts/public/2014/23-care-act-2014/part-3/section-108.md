@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Tariffs[^key-771b0d0f8aa31f3fc69652acb27650f2]
+## 108. Tariffs[^c-771b0d0f8aa31f3fc69652acb27650f2]
 
 *Extent: E+W*
 
@@ -39,15 +39,15 @@ summary: ''
 
 (8) If it is revoked, the Secretary of State must publish a statement to that effect.
 
-(9) Where a tariff sets an approved price for a particular description of education or training, payments made by [^key-e14cea44b39dd5ee5a10cb206b8e6301]... NHS England[^key-e20eb3b2e6f669ddea25571201f59784] in respect of the provision of that description of education or training must be made—
+(9) Where a tariff sets an approved price for a particular description of education or training, payments made by [^c-e14cea44b39dd5ee5a10cb206b8e6301]... NHS England[^c-e20eb3b2e6f669ddea25571201f59784] in respect of the provision of that description of education or training must be made—
 
 - (a) by reference to the approved price, or
 - (b) where the approved price has been varied in accordance with a variation procedure that has effect in relation to it, by reference to the price as varied.
 
 ## Annotations
 
-[^key-771b0d0f8aa31f3fc69652acb27650f2]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2014/23/section/108) in force at 1.4.2015 by [S.I. 2014/3186](https://www.legislation.gov.uk/uksi/2014/3186), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3186/article/2/d)
+[^c-771b0d0f8aa31f3fc69652acb27650f2]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2014/23/section/108) in force at 1.4.2015 by [S.I. 2014/3186](https://www.legislation.gov.uk/uksi/2014/3186), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3186/article/2/d)
 
-[^key-e14cea44b39dd5ee5a10cb206b8e6301]: Textual amendment: Words in [s. 108(9)](https://www.legislation.gov.uk/ukpga/2014/23/section/108/9) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 90(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/90/5), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e14cea44b39dd5ee5a10cb206b8e6301]: Textual amendment: Words in [s. 108(9)](https://www.legislation.gov.uk/ukpga/2014/23/section/108/9) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 90(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/90/5), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-e20eb3b2e6f669ddea25571201f59784]: Textual amendment: Words in [s. 108(9)](https://www.legislation.gov.uk/ukpga/2014/23/section/108/9) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-e20eb3b2e6f669ddea25571201f59784]: Textual amendment: Words in [s. 108(9)](https://www.legislation.gov.uk/ukpga/2014/23/section/108/9) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

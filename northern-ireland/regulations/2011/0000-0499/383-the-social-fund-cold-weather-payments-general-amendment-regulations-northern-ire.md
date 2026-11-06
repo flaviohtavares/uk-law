@@ -42,17 +42,17 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-c4bae3e4a8e93b62b25950fcd3627b63]
+## 1. Citation, commencement and interpretation[^c-c4bae3e4a8e93b62b25950fcd3627b63]
 
 (1) These Regulations may be cited as the Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2011 and shall come into operation on 1st November 2011.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^key-279e5e46aee84a97f4480014a7a9c996]
+## 2. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^c-279e5e46aee84a97f4480014a7a9c996]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-921bbd397852590fad0464d99b68a81b]
+## 3. Revocation[^c-921bbd397852590fad0464d99b68a81b]
 
 Regulation 2(5) of the Social Fund (Cold Weather Payment) (General) (Amendment) Regulations (Northern Ireland) 2010[^f00005] is revoked.
 
@@ -64,7 +64,7 @@ Anne Mc Cleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE[^key-3e5a392c9dc921126b00c560f47b5373]
+## SCHEDULE[^c-3e5a392c9dc921126b00c560f47b5373]
 
 Regulation 2
 
@@ -110,14 +110,14 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-c4bae3e4a8e93b62b25950fcd3627b63]: Commencement: Reg. 1 in operation at 1.11.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/383/regulation/1/1)
+[^c-c4bae3e4a8e93b62b25950fcd3627b63]: Commencement: Reg. 1 in operation at 1.11.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/383/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-279e5e46aee84a97f4480014a7a9c996]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/383/regulation/2) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
+[^c-279e5e46aee84a97f4480014a7a9c996]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/383/regulation/2) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
 
-[^key-921bbd397852590fad0464d99b68a81b]: Commencement: Reg. 3 in operation at 1.11.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/383/regulation/1/1)
+[^c-921bbd397852590fad0464d99b68a81b]: Commencement: Reg. 3 in operation at 1.11.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/383/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2010 No. 344](https://www.legislation.gov.uk/nisr/2010/344)
 
-[^key-3e5a392c9dc921126b00c560f47b5373]: Commencement: Sch. in operation at 1.11.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/383/regulation/1/1)
+[^c-3e5a392c9dc921126b00c560f47b5373]: Commencement: Sch. in operation at 1.11.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/383/regulation/1/1)

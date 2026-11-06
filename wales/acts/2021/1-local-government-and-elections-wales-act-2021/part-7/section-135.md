@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Duties of restructuring councils to facilitate transfer[^key-254cf1362ebc35c6fe14eea50b332fa0]
+## 135. Duties of restructuring councils to facilitate transfer[^c-254cf1362ebc35c6fe14eea50b332fa0]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-254cf1362ebc35c6fe14eea50b332fa0]: Commencement: S. 135 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-254cf1362ebc35c6fe14eea50b332fa0]: Commencement: S. 135 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

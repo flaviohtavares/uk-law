@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Deemed marine licence[^key-ca49b8a43e2b2613d54416f5661b5810]
+## 50. Deemed marine licence[^c-ca49b8a43e2b2613d54416f5661b5810]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The undertaker is granted a deemed marine licence under Part 4 (marine licensing
 
 ## Annotations
 
-[^key-ca49b8a43e2b2613d54416f5661b5810]: Commencement: Art. 50 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-ca49b8a43e2b2613d54416f5661b5810]: Commencement: Art. 50 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00032]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23); there are amendments that are not relevant to this Order.

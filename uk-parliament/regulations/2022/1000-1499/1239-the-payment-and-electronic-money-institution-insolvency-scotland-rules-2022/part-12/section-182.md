@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Application of Chapter 4[^key-9204a934bab7b8f4b1cf46da347dc540]
+## 182. Application of Chapter 4[^c-9204a934bab7b8f4b1cf46da347dc540]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies where a return, notice, document or other information is to
 
 ## Annotations
 
-[^key-9204a934bab7b8f4b1cf46da347dc540]: Commencement: Rule 182 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-9204a934bab7b8f4b1cf46da347dc540]: Commencement: Rule 182 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

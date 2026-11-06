@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A person who knowingly gives or causes to be given to a person acting on behalf of SFRS[^key-639e3fc0aaf53815a689d39df67f3152] a false alarm of—
+(1) A person who knowingly gives or causes to be given to a person acting on behalf of SFRS[^c-639e3fc0aaf53815a689d39df67f3152] a false alarm of—
 
 - (a) fire;
 - (b) a road traffic accident; or
@@ -36,4 +36,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-639e3fc0aaf53815a689d39df67f3152]: Textual amendment: Word in s. 85(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(25)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/25); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-639e3fc0aaf53815a689d39df67f3152]: Textual amendment: Word in s. 85(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(25)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/25); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

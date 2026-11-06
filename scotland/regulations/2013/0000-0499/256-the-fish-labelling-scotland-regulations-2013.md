@@ -63,7 +63,7 @@ These Regulations may be cited as the Fish Labelling (Scotland) Regulations 2013
 - (a) references to the EU Regulations are references to the EU Regulations as amended from time to time; and
 - (b) terms used have the same meaning as in the EU Regulations.
 
-(2)[^key-a56547165fe63509237f8287981c3a3f] In these Regulations—
+(2)[^c-a56547165fe63509237f8287981c3a3f] In these Regulations—
 
 - “the Act” means the Food Safety Act 1990;
 - “consumer information requirement” has the meaning given in regulation 3(1)(a);
@@ -77,25 +77,25 @@ These Regulations may be cited as the Fish Labelling (Scotland) Regulations 2013
 
 (1) In these Regulations—
 
-- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), except where disapplied or modified by virtue of paragraph [^key-3097c5f6588dad9c2417c06b8d246915]... (6) or (7); and
+- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), except where disapplied or modified by virtue of paragraph [^c-3097c5f6588dad9c2417c06b8d246915]... (6) or (7); and
 - (b) “**traceability requirement**” means a requirement referred to in paragraph (3), except where disapplied by virtue of paragraph (7).
 
 (2) Paragraph (1)(a) refers to—
 
-- (a)[^key-7687882f34d1346a2902c3d17a9aa8d9] a requirement specified in any of the following Articles of Regulation 1379/2013—
+- (a)[^c-7687882f34d1346a2902c3d17a9aa8d9] a requirement specified in any of the following Articles of Regulation 1379/2013—
   - (i) Article 35 (mandatory information) as read with Article 38 (indication of the catch or production area); and
   - (ii) Article 39(3) or (4) (additional voluntary information) as read with paragraph (1) of that Article; and
 - (b) a requirement specified in Article 58(6) of Regulation 1224/2009 as read with Articles 67(13) and 68 of Regulation 404/2011.
 
-(3) Paragraph (1)(b) refers to a requirement specified in Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation ,[^key-1f1369b1a767cc16f67e3dd632ba7524] Article 67(1) to (3), (5) to (7) and (9) to (13) of Regulation 404/2011[^key-c414341c7b72cd252e261bbe1201e782] and Articles 35(1)(c) and 38 of Regulation 1379/2013.
+(3) Paragraph (1)(b) refers to a requirement specified in Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation ,[^c-1f1369b1a767cc16f67e3dd632ba7524] Article 67(1) to (3), (5) to (7) and (9) to (13) of Regulation 404/2011[^c-c414341c7b72cd252e261bbe1201e782] and Articles 35(1)(c) and 38 of Regulation 1379/2013.
 
-(4)[^key-90e77840b50119f9c023f825e7256c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-90e77840b50119f9c023f825e7256c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-90e77840b50119f9c023f825e7256c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-90e77840b50119f9c023f825e7256c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ab342b51125dcd0fa2481e420c598a4d] The requirements referred to in paragraph (2)(a) do not apply in circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) (traceability) of Regulation 1224/2009, where the sale does not exceed £45[^key-74c5df7cd7c56fa56aaf040f8f53de77] per day.
+(6)[^c-ab342b51125dcd0fa2481e420c598a4d] The requirements referred to in paragraph (2)(a) do not apply in circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) (traceability) of Regulation 1224/2009, where the sale does not exceed £45[^c-74c5df7cd7c56fa56aaf040f8f53de77] per day.
 
-(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^key-02032be19a0c3c8dc8f1c46b80177cab] per day.
+(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^c-02032be19a0c3c8dc8f1c46b80177cab] per day.
 
 ## 4. Obligation to keep and produce records
 
@@ -113,7 +113,7 @@ These Regulations may be cited as the Fish Labelling (Scotland) Regulations 2013
 
 (3) A person who fails to comply with an obligation in regulation 4 commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(4) A person who at any stage of marketing fails to comply with Article 58 of[^key-1b39c0eaee4c3ea5ea394914b0a2a02e] Regulation 1224/2009 (traceability) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(4) A person who at any stage of marketing fails to comply with Article 58 of[^c-1b39c0eaee4c3ea5ea394914b0a2a02e] Regulation 1224/2009 (traceability) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 ## 6. Enforcement
 
@@ -185,25 +185,25 @@ A partial business regulatory impact assessment of the effect that this instrume
 
 [^c21889571]: Marginal citation: OJ L 31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14).
 
-[^key-a56547165fe63509237f8287981c3a3f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2013/256/regulation/2/2) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/2)
+[^c-a56547165fe63509237f8287981c3a3f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2013/256/regulation/2/2) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/2)
 
-[^key-3097c5f6588dad9c2417c06b8d246915]: Textual amendment: Words in reg. 3(1)(a) omitted (15.3.2015) by virtue of [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/a)
+[^c-3097c5f6588dad9c2417c06b8d246915]: Textual amendment: Words in reg. 3(1)(a) omitted (15.3.2015) by virtue of [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/a)
 
-[^key-7687882f34d1346a2902c3d17a9aa8d9]: Textual amendment: Reg. 3(2)(a) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/b)
+[^c-7687882f34d1346a2902c3d17a9aa8d9]: Textual amendment: Reg. 3(2)(a) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/b)
 
-[^key-1f1369b1a767cc16f67e3dd632ba7524]: Textual amendment: Words in reg. 3(3) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/c)
+[^c-1f1369b1a767cc16f67e3dd632ba7524]: Textual amendment: Words in reg. 3(3) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/c)
 
-[^key-c414341c7b72cd252e261bbe1201e782]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2013/256/regulation/3/3) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c414341c7b72cd252e261bbe1201e782]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2013/256/regulation/3/3) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90e77840b50119f9c023f825e7256c56]: Textual amendment: Reg. 3(4)(5) omitted (15.3.2015) by virtue of [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/d)
+[^c-90e77840b50119f9c023f825e7256c56]: Textual amendment: Reg. 3(4)(5) omitted (15.3.2015) by virtue of [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/d)
 
-[^key-ab342b51125dcd0fa2481e420c598a4d]: Textual amendment: Reg. 3(6) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/e)
+[^c-ab342b51125dcd0fa2481e420c598a4d]: Textual amendment: Reg. 3(6) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/e)
 
-[^key-74c5df7cd7c56fa56aaf040f8f53de77]: Textual amendment: Word in reg. 3(6) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74c5df7cd7c56fa56aaf040f8f53de77]: Textual amendment: Word in reg. 3(6) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02032be19a0c3c8dc8f1c46b80177cab]: Textual amendment: Word in reg. 3(7) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02032be19a0c3c8dc8f1c46b80177cab]: Textual amendment: Word in reg. 3(7) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b39c0eaee4c3ea5ea394914b0a2a02e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2013/256/regulation/5/4) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/4)
+[^c-1b39c0eaee4c3ea5ea394914b0a2a02e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2013/256/regulation/5/4) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/4)
 
 [^c21889621]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2013/256/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 

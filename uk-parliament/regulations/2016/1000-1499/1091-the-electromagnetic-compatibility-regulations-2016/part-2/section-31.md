@@ -27,7 +27,7 @@ summary: ''
 (3) The information and documentation referred to in paragraph (1) —
 
 - (a) may be provided in paper or electronic form; and
-- (b) must be clear, legible and in easily understandable English[^key-6586d34b52606aaa69d3304079f68bf0].
+- (b) must be clear, legible and in easily understandable English[^c-6586d34b52606aaa69d3304079f68bf0].
 
 (4) A distributor must, at the request of the enforcing authority, co-operate with the authority on any action taken to—
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^M_E_4036ebb4-60bb-4d91-d60d-be67860115c3]: Extent: This version of this provision extends to England, Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-6586d34b52606aaa69d3304079f68bf0]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/31/3/b) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 20 para. 20](https://www.legislation.gov.uk/uksi/2019/696/schedule/20/paragraph/20) (with [Sch. 20 para. 33](https://www.legislation.gov.uk/uksi/2019/696/schedule/20/paragraph/33)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6586d34b52606aaa69d3304079f68bf0]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/31/3/b) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 20 para. 20](https://www.legislation.gov.uk/uksi/2019/696/schedule/20/paragraph/20) (with [Sch. 20 para. 33](https://www.legislation.gov.uk/uksi/2019/696/schedule/20/paragraph/33)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. “Associated property”[^key-47026e0925f2eecf620c8690b3e7283d]
+## 146. “Associated property”[^c-47026e0925f2eecf620c8690b3e7283d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47026e0925f2eecf620c8690b3e7283d]: Commencement: [Art. 146](https://www.legislation.gov.uk/uksi/2005/3181/article/146) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-47026e0925f2eecf620c8690b3e7283d]: Commencement: [Art. 146](https://www.legislation.gov.uk/uksi/2005/3181/article/146) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

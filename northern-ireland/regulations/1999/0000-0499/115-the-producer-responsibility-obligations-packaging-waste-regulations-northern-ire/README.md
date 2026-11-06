@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC HEALTH
 
-The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 1999 (revoked)[^key-51399172263124734739acfa53c6d96c]
+The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 1999 (revoked)[^c-51399172263124734739acfa53c6d96c]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 1st June 1999
 
-[^key-51399172263124734739acfa53c6d96c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51399172263124734739acfa53c6d96c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-51399172263124734739acfa53c6d96c]
+### PART I — GENERAL[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ Coming into operation
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation and notices](part-i/section-2.md)
 
-### PART II — PRODUCERS AND OBLIGATIONS[^key-51399172263124734739acfa53c6d96c]
+### PART II — PRODUCERS AND OBLIGATIONS[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -63,7 +63,7 @@ Coming into operation
 - [Section 3 — Producers and producer responsibility obligations](part-ii/section-3.md)
 - [Section 4 — Exclusions and limitations](part-ii/section-4.md)
 
-### PART III — REGISTRATION[^key-51399172263124734739acfa53c6d96c]
+### PART III — REGISTRATION[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -83,7 +83,7 @@ Coming into operation
 - [Section 16 — Refusal to register a scheme](part-iii/section-16.md)
 - [Section 17 — Cancellation of registration of a scheme](part-iii/section-17.md)
 
-### PART IV — REGISTRATION OF SCHEMES — APPEALS[^key-51399172263124734739acfa53c6d96c]
+### PART IV — REGISTRATION OF SCHEMES — APPEALS[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -94,7 +94,7 @@ Coming into operation
 - [Section 20 — Determination of appeals](part-iv/section-20.md)
 - [Section 21 — Status pending appeal](part-iv/section-21.md)
 
-### PART V — RECORDS, RETURNS AND CERTIFICATE[^key-51399172263124734739acfa53c6d96c]
+### PART V — RECORDS, RETURNS AND CERTIFICATE[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -104,7 +104,7 @@ Coming into operation
 - [Section 23 — Producers — certifying obligation](part-v/section-23.md)
 - [Section 24 — Schemes — records and returns](part-v/section-24.md)
 
-### PART VI — POWERS AND DUTIES OF THE DEPARTMENT[^key-51399172263124734739acfa53c6d96c]
+### PART VI — POWERS AND DUTIES OF THE DEPARTMENT[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -115,7 +115,7 @@ Coming into operation
 - [Section 27 — Approval of persons to issue certificates of compliance](part-vi/section-27.md)
 - [Section 28 — Entry and inspection](part-vi/section-28.md)
 
-### PART VII — GROUPS OF COMPANIES AND MID-YEAR CHANGES[^key-51399172263124734739acfa53c6d96c]
+### PART VII — GROUPS OF COMPANIES AND MID-YEAR CHANGES[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -124,7 +124,7 @@ Coming into operation
 - [Section 29 — Groups of companies](part-vii/section-29.md)
 - [Section 30 — Mid-year changes](part-vii/section-30.md)
 
-### PART VIII — COMPETITION SCRUTINY[^key-51399172263124734739acfa53c6d96c]
+### PART VIII — COMPETITION SCRUTINY[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -132,7 +132,7 @@ Coming into operation
 
 - [Section 31 — Competition scrutiny](part-viii/section-31.md)
 
-### PART IX — THE RESTRICTIVE TRADE PRACTICES ACT 1976[^key-51399172263124734739acfa53c6d96c]
+### PART IX — THE RESTRICTIVE TRADE PRACTICES ACT 1976[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -141,7 +141,7 @@ Coming into operation
 - [Section 32 — The 1976 Act](part-ix/section-32.md)
 - [Section 33 — Agreement to which the 1976 Act applies](part-ix/section-33.md)
 
-### PART X — OFFENCES[^key-51399172263124734739acfa53c6d96c]
+### PART X — OFFENCES[^c-51399172263124734739acfa53c6d96c]
 
 *Extent: N.I.*
 
@@ -165,14 +165,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-51399172263124734739acfa53c6d96c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51399172263124734739acfa53c6d96c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-51399172263124734739acfa53c6d96c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51399172263124734739acfa53c6d96c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51399172263124734739acfa53c6d96c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/115) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356),, [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"
+[^c-51399172263124734739acfa53c6d96c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/115) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356),, [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"

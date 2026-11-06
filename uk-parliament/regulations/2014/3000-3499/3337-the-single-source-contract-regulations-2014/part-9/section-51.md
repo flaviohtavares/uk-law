@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Matters on which the SSRO must give an opinion[^key-58a6fb141af0459c3897ab9d429fed4c]
+## 51. Matters on which the SSRO must give an opinion[^c-58a6fb141af0459c3897ab9d429fed4c]
 
 *Extent: E+W+S+N.I.*
 
 (1) The matters relating to a proposed contract which are specified for the purposes of section 35(1)(a) (matters on which the SSRO must give an opinion) are—
 
 - (a) where the proposed contract is to be priced using a default pricing method—
-  - (i) the appropriate amount of adjustment that should be made under step 2, 3 or 4[^key-766e9432588a951bafd12c78a562b23f] of regulation 11;
+  - (i) the appropriate amount of adjustment that should be made under step 2, 3 or 4[^c-766e9432588a951bafd12c78a562b23f] of regulation 11;
   - (ii) the appropriate amount of a group cost risk adjustment (regulation 13(2)), the deduction from costs associated with group profits (regulation 13(4)) or group capital servicing adjustment (regulation 13(5));
   - (iii) any question relevant to the cost recovery rates that should be used to estimate likely allowable costs;
   - (iv) the extent to which a particular cost would be an allowable cost;
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58a6fb141af0459c3897ab9d429fed4c]: Textual amendment: Reg. 51 substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/420/regulation/39)
+[^c-58a6fb141af0459c3897ab9d429fed4c]: Textual amendment: Reg. 51 substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2024/420/regulation/39)
 
-[^key-766e9432588a951bafd12c78a562b23f]: Textual amendment: Words in reg. 51(1)(a)(i) substituted (5.6.2026) by [The Single Source Contract (Amendment) Regulations 2026 (S.I. 2026/510)](https://www.legislation.gov.uk/uksi/2026/510), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/510/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/510/regulation/3/2)
+[^c-766e9432588a951bafd12c78a562b23f]: Textual amendment: Words in reg. 51(1)(a)(i) substituted (5.6.2026) by [The Single Source Contract (Amendment) Regulations 2026 (S.I. 2026/510)](https://www.legislation.gov.uk/uksi/2026/510), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/510/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/510/regulation/3/2)

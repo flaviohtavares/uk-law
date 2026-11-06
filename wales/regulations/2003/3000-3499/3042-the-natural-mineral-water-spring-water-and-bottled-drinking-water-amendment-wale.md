@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) (Wales) Regulations 2003 (revoked)[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) (Wales) Regulations 2003 (revoked)[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 Made
 
@@ -41,104 +41,104 @@ Coming into force
 
 1st December 2003
 
-[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 1. Title, commencement and application[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 3.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 4.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 5.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 6.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 7.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 8.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 9.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 10.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 11.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 12.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 13.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 14.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 15.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 16.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 17.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 18.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 19.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 20.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21.[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 21.[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Consequential amendments[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]
+## 22. Consequential amendments[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5dcc2fbf7fc4bdd35bcd395706e023c]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/806/schedule/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-a5dcc2fbf7fc4bdd35bcd395706e023c]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/806/schedule/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

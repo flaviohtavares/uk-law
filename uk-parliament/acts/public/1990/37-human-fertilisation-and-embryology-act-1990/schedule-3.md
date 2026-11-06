@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Consents to use OR STORAGE OF GAMETES, EMBRYOS OR HUMAN ADMIXED EMBRYOS ETC[^c271747][^key-962773cc0f4b9a90bad6faf6fc650d12][^key-bfac9099fa3041af87a946d27f37d0c4]
+## SCHEDULE 3 — Consents to use OR STORAGE OF GAMETES, EMBRYOS OR HUMAN ADMIXED EMBRYOS ETC[^c271747][^c-962773cc0f4b9a90bad6faf6fc650d12][^c-bfac9099fa3041af87a946d27f37d0c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,29 +24,29 @@ Section 12 etc.
 
 ### Consent
 
-**1.**[^key-d4f491e068a0b778e8d8d6c8637156dc] (1) A consent under this Schedule, any renewal of consent,[^key-0ecf4a94d9fa2c65e2baa09db3483d8a] and any notice under paragraph 4 varying or withdrawing a consent under this Schedule, must be in writing and, subject to sub-paragraph (2), must be signed by the person giving it.
+**1.**[^c-d4f491e068a0b778e8d8d6c8637156dc] (1) A consent under this Schedule, any renewal of consent,[^c-0ecf4a94d9fa2c65e2baa09db3483d8a] and any notice under paragraph 4 varying or withdrawing a consent under this Schedule, must be in writing and, subject to sub-paragraph (2), must be signed by the person giving it.
 
-(2) A consent under this Schedule by a person who is unable to sign because of illness, injury or physical disability (a “person unable to sign”), any renewal of consent by a person unable to sign,[^key-5daf3a1b7107ad7ea21260f8fffefda4] and any notice under paragraph 4 by a person unable to sign varying or withdrawing a consent under this Schedule, is to be taken to comply with the requirement of sub-paragraph (1) as to signature if it is signed at the direction of the person unable to sign, in the presence of the person unable to sign and in the presence of at least one witness who attests the signature.
+(2) A consent under this Schedule by a person who is unable to sign because of illness, injury or physical disability (a “person unable to sign”), any renewal of consent by a person unable to sign,[^c-5daf3a1b7107ad7ea21260f8fffefda4] and any notice under paragraph 4 by a person unable to sign varying or withdrawing a consent under this Schedule, is to be taken to comply with the requirement of sub-paragraph (1) as to signature if it is signed at the direction of the person unable to sign, in the presence of the person unable to sign and in the presence of at least one witness who attests the signature.
 
 (3) In this Schedule—
 
-- (a)[^key-c02d743d868a3b52a083eea98078a01a] “**effective consent**” means a consent under this Schedule which has not been withdrawn;
-- (b)[^key-02806df50014aaa90c533c6cf6dd99a4] references to renewal of consent are to renewal of consent to the storage of any gametes or embryo under paragraph 11A or 11C.
+- (a)[^c-c02d743d868a3b52a083eea98078a01a] “**effective consent**” means a consent under this Schedule which has not been withdrawn;
+- (b)[^c-02806df50014aaa90c533c6cf6dd99a4] references to renewal of consent are to renewal of consent to the storage of any gametes or embryo under paragraph 11A or 11C.
 
 **2.**[^c271749] (1) A consent to the use of any embryo must specify one or more of the following purposes—
 
 - (a) use in providing treatment services to the person giving consent, or that person and another specified person together,
 - (b) use in providing treatment services to persons not including the person giving consent,
-- (ba)[^key-e3a7b37809ac5c24364b0bbac19dc35a] use for the purpose of training persons in embryo biopsy, embryo storage or other embryological techniques, or
+- (ba)[^c-e3a7b37809ac5c24364b0bbac19dc35a] use for the purpose of training persons in embryo biopsy, embryo storage or other embryological techniques, or
 - (c) use for the purposes of any project of research,
 
 and may specify conditions subject to which the embryo may be so used.
 
-(1A)[^key-1f52f854fb1917c9308b7fe544739904] A consent to the use of any human admixed embryo must specify use for the purposes of any project of research and may specify conditions subject to which the human admixed embryo may be so used.
+(1A)[^c-1f52f854fb1917c9308b7fe544739904] A consent to the use of any human admixed embryo must specify use for the purposes of any project of research and may specify conditions subject to which the human admixed embryo may be so used.
 
-(2)[^key-18be52e9567478d0e61c87d3f6e72101] A consent to the storage of any gametes, any embryo or any human admixed embryo must—
+(2)[^c-18be52e9567478d0e61c87d3f6e72101] A consent to the storage of any gametes, any embryo or any human admixed embryo must—
 
-- (a) specify the maximum period of storage (if less than the period for which, by virtue of section 14(3), the gametes, embryo or human admixed embryo may be stored under the licence[^key-3b876889c220097e5c8299fd22ab2954]),
+- (a) specify the maximum period of storage (if less than the period for which, by virtue of section 14(3), the gametes, embryo or human admixed embryo may be stored under the licence[^c-3b876889c220097e5c8299fd22ab2954]),
 - (b) except in a case falling within paragraph (c), state what is to be done with the gametes, embryo or human admixed embryo if the person who gave the consent dies or is unable, because the person lacks capacity to do so, to vary the terms of the consent or to withdraw it, and
 - (c) where the consent is given by virtue of paragraph 8(2A) or 13(2), state what is to be done with the embryo or human admixed embryo if the person to whom the consent relates dies,
 
@@ -61,7 +61,7 @@ and may (in any case) specify conditions subject to which the gametes, embryo or
 
 (3) A consent under this Schedule must provide for such other matters as the Authority may specify in directions.
 
-(4)[^key-8389047c36e8ead5967125311b4dc70e] A consent under this Schedule may apply—
+(4)[^c-8389047c36e8ead5967125311b4dc70e] A consent under this Schedule may apply—
 
 - (a) to the use or storage of a particular embryo or human admixed embryo, or
 - (b) in the case of a person providing gametes or human cells, to the use or storage of—
@@ -75,30 +75,30 @@ and may (in any case) specify conditions subject to which the gametes, embryo or
 
 ### Procedure for giving consent
 
-**3.**[^c271750] (1) Before a person gives or renews[^key-d7890c6c06e21f2b00a81e72dd8850b3] consent under this Schedule—
+**3.**[^c271750] (1) Before a person gives or renews[^c-d7890c6c06e21f2b00a81e72dd8850b3] consent under this Schedule—
 
 - (a) he must be given a suitable opportunity to receive proper counselling about the implications of taking the proposed steps, and
 - (b) he must be provided with such relevant information as is proper.
 
-(2) Before a person gives consent under this Schedule he must be informed of the effect of paragraph 4 and, if relevant, paragraph 4A[^key-2d72d4a8dd0939447f35c9dfc765f231] below.
+(2) Before a person gives consent under this Schedule he must be informed of the effect of paragraph 4 and, if relevant, paragraph 4A[^c-2d72d4a8dd0939447f35c9dfc765f231] below.
 
 ### Variation and withdrawal of consent
 
-**4.**[^c271751][^key-58d9a8decffefd47af9f97b4bcef4944] (1) The terms of any consent under this Schedule may from time to time be varied, and the consent may be withdrawn, by notice given by the person who gave the consent to the person keeping the gametes, human cells, embryo or human admixed embryo[^key-8bd8d122472f73a7baa4bb01d9bfcac1] to which the consent is relevant.
+**4.**[^c271751][^c-58d9a8decffefd47af9f97b4bcef4944] (1) The terms of any consent under this Schedule may from time to time be varied, and the consent may be withdrawn, by notice given by the person who gave the consent to the person keeping the gametes, human cells, embryo or human admixed embryo[^c-8bd8d122472f73a7baa4bb01d9bfcac1] to which the consent is relevant.
 
-(2) Subject to sub-paragraph (3), the[^key-03275c5a6fdcda16cb7390909a2bb2b6] terms of any consent to the use of any embryo cannot be varied, and such consent cannot be withdrawn, once the embryo has been used—
+(2) Subject to sub-paragraph (3), the[^c-03275c5a6fdcda16cb7390909a2bb2b6] terms of any consent to the use of any embryo cannot be varied, and such consent cannot be withdrawn, once the embryo has been used—
 
 - (a) in providing treatment services,
-- (aa)[^key-86969cfc4252f08f61cc7b69ae30fbb8] in training persons in embryo biopsy, embryo storage or other embryological techniques, or
+- (aa)[^c-86969cfc4252f08f61cc7b69ae30fbb8] in training persons in embryo biopsy, embryo storage or other embryological techniques, or
 - (b) for the purposes of any project of research.
 
-(3)[^key-01710fb6474861051324ddadae21282f] Where the terms of any consent to the use of an embryo (“embryo A”) include consent to the use of an embryo or human admixed embryo whose creation may be brought about *in vitro* using embryo A, that consent to the use of that subsequent embryo or human admixed embryo cannot be varied or withdrawn once embryo A has been used for one or more of the purposes mentioned in sub-paragraph (2)(a) or (b).
+(3)[^c-01710fb6474861051324ddadae21282f] Where the terms of any consent to the use of an embryo (“embryo A”) include consent to the use of an embryo or human admixed embryo whose creation may be brought about *in vitro* using embryo A, that consent to the use of that subsequent embryo or human admixed embryo cannot be varied or withdrawn once embryo A has been used for one or more of the purposes mentioned in sub-paragraph (2)(a) or (b).
 
 (4) Subject to sub-paragraph (5), the terms of any consent to the use of any human admixed embryo cannot be varied, and such consent cannot be withdrawn, once the human admixed embryo has been used for the purposes of any project of research.
 
 (5) Where the terms of any consent to the use of a human admixed embryo (“human admixed embryo A”) include consent to the use of a human admixed embryo or embryo whose creation may be brought about *in vitro* using human admixed embryo A, that consent to the use of that subsequent human admixed embryo or embryo cannot be varied or withdrawn once human admixed embryo A has been used for the purposes of any project of research.
 
-**4A.**[^key-644f16b6ed7967dd6db93e43da8d28a8] (1) This paragraph applies where—
+**4A.**[^c-644f16b6ed7967dd6db93e43da8d28a8] (1) This paragraph applies where—
 
 - (a) a permitted embryo, the creation of which was brought about *in vitro*, is in storage,
 - (b) it was created for use in providing treatment services,
@@ -118,7 +118,7 @@ and may (in any case) specify conditions subject to which the gametes, embryo or
 
 ### Use of gametes for treatment of others
 
-**5.**[^c271752] (1) A person’s gametes must not be used for the purposes of treatment services or non-medical fertility services[^key-59715284bb647496dcdd9988a6ae134a] unless there is an effective consent by that person to their being so used and they are used in accordance with the terms of the consent.
+**5.**[^c271752] (1) A person’s gametes must not be used for the purposes of treatment services or non-medical fertility services[^c-59715284bb647496dcdd9988a6ae134a] unless there is an effective consent by that person to their being so used and they are used in accordance with the terms of the consent.
 
 (2) A person’s gametes must not be received for use for those purposes unless there is an effective consent by that person to their being so used.
 
@@ -126,13 +126,13 @@ and may (in any case) specify conditions subject to which the gametes, embryo or
 
 ### In vitro fertilisation and subsequent use of embryo
 
-**6.**[^c271753] (1) A person’s gametes or human cells[^key-80551208145de87b29b856ed5ca7b22d] must not be used to bring about the creation of any embryo*in vitro* unless there is an effective consent by that person to any embryo,[^key-4ce068c2f592ecdb5270cbfaea9b01c6] the creation of which may be brought about with the use of those gametes or human cells,[^key-c0d9177e1f54878f6a3643cbf46d6824] being used for one or more of the purposes mentioned in paragraph 2(1)(a), (b) and (c)[^key-298594d1e5cb95fd9f1fd7d92f5ca18f] above.
+**6.**[^c271753] (1) A person’s gametes or human cells[^c-80551208145de87b29b856ed5ca7b22d] must not be used to bring about the creation of any embryo*in vitro* unless there is an effective consent by that person to any embryo,[^c-4ce068c2f592ecdb5270cbfaea9b01c6] the creation of which may be brought about with the use of those gametes or human cells,[^c-c0d9177e1f54878f6a3643cbf46d6824] being used for one or more of the purposes mentioned in paragraph 2(1)(a), (b) and (c)[^c-298594d1e5cb95fd9f1fd7d92f5ca18f] above.
 
-(2) An embryo the creation of which was brought about *in vitro* must not be received by any person unless there is an effective consent by each relevant person in relation to[^key-e5947dd8e40e6e82edd05cfb8ca7e866] the embryo to the use for one or more of the purposes mentioned in paragraph 2(1)(a), (b), (ba) and (c)[^key-74204d0e887199158eb19153b56de1b0] above of the embryo.
+(2) An embryo the creation of which was brought about *in vitro* must not be received by any person unless there is an effective consent by each relevant person in relation to[^c-e5947dd8e40e6e82edd05cfb8ca7e866] the embryo to the use for one or more of the purposes mentioned in paragraph 2(1)(a), (b), (ba) and (c)[^c-74204d0e887199158eb19153b56de1b0] above of the embryo.
 
-(3) An embryo the creation of which was brought about *in vitro* must not be used for any purpose unless there is an effective consent by each relevant person in relation to[^key-212923872e368d0402c88aa6ec86ba4d] the embryo to the use for that purpose of the embryo and the embryo is used in accordance with those consents.
+(3) An embryo the creation of which was brought about *in vitro* must not be used for any purpose unless there is an effective consent by each relevant person in relation to[^c-212923872e368d0402c88aa6ec86ba4d] the embryo to the use for that purpose of the embryo and the embryo is used in accordance with those consents.
 
-(3A)[^key-37e9bb4bc1216539925adf7449313aa8] If the Authority is satisfied that the parental consent conditions in paragraph 15 are met in relation to the proposed use under a licence of the human cells of a person who has not attained the age of 18 years (“C”), the Authority may in the licence authorise the application of sub-paragraph (3B) in relation to C.
+(3A)[^c-37e9bb4bc1216539925adf7449313aa8] If the Authority is satisfied that the parental consent conditions in paragraph 15 are met in relation to the proposed use under a licence of the human cells of a person who has not attained the age of 18 years (“C”), the Authority may in the licence authorise the application of sub-paragraph (3B) in relation to C.
 
 (3B) Where the licence authorises the application of this sub-paragraph, the effective consent of a person having parental responsibility for C—
 
@@ -159,17 +159,17 @@ is to be treated for the purposes of sub-paragraphs (1) to (3) as the effective 
 
 (2) An embryo taken from a woman must not be received by any person for use for any purpose unless there is an effective consent by her to the use of the embryo for that purpose.
 
-(3) Sub-paragraphs (1) and (2) do[^key-92a68f70efbaa2c4423309468f1ecf34] not apply to the use, for the purpose of providing a woman with treatment services, of an embryo taken from her.
+(3) Sub-paragraphs (1) and (2) do[^c-92a68f70efbaa2c4423309468f1ecf34] not apply to the use, for the purpose of providing a woman with treatment services, of an embryo taken from her.
 
-(4)[^key-63aa1e8784e4486e4e6d6234683ddae2] An embryo taken from a woman must not be used to bring about the creation of any embryo *in vitro* or any human admixed embryo *in vitro*.
+(4)[^c-63aa1e8784e4486e4e6d6234683ddae2] An embryo taken from a woman must not be used to bring about the creation of any embryo *in vitro* or any human admixed embryo *in vitro*.
 
 ### Storage of gametes and embryos
 
 **8.**[^c271755] (1) A person’s gametes must not be kept in storage unless there is an effective consent by that person to their storage and they are stored in accordance with the consent.
 
-(2) An embryo the creation of which was brought about *in vitro* must not be kept in storage unless there is an effective consent, by each relevant person in relation to[^key-ab7ffb86589ba270966f6131c9c9a399] the embryo, to the storage of the embryo and the embryo is stored in accordance with those consents.
+(2) An embryo the creation of which was brought about *in vitro* must not be kept in storage unless there is an effective consent, by each relevant person in relation to[^c-ab7ffb86589ba270966f6131c9c9a399] the embryo, to the storage of the embryo and the embryo is stored in accordance with those consents.
 
-(2A)[^key-b940e0b2e4ba3b90bdaf2ac440bddf6c] Where a licence authorises the application of paragraph 6(3B) in relation to a person who has not attained the age of 18 years (“C”), the effective consent of a person having parental responsibility for C to the storage of an embryo in relation to which C is a relevant person by reason only of the use of C's human cells is to be treated for the purposes of sub-paragraph (2) as the effective consent of C.
+(2A)[^c-b940e0b2e4ba3b90bdaf2ac440bddf6c] Where a licence authorises the application of paragraph 6(3B) in relation to a person who has not attained the age of 18 years (“C”), the effective consent of a person having parental responsibility for C to the storage of an embryo in relation to which C is a relevant person by reason only of the use of C's human cells is to be treated for the purposes of sub-paragraph (2) as the effective consent of C.
 
 (2B) If C attains the age of 18 years or the condition in paragraph 15(3) ceases to be met in relation to C, paragraph 4 has effect in relation to C as if any effective consent previously given under sub-paragraph (2) by a person having parental responsibility for C had been given by C but, subject to that, sub-paragraph (2A) ceases to apply in relation to C.
 
@@ -181,9 +181,9 @@ is to be treated for the purposes of sub-paragraphs (1) to (3) as the effective 
 
 (3) An embryo taken from a woman must not be kept in storage unless there is an effective consent by her to its storage and it is stored in accordance with the consent.
 
-(4)[^key-e37d5d4821c043cdbe2c42fe2ad353ae] Sub-paragraph (1) has effect subject to paragraphs 9 and 10; and sub-paragraph (2) has effect subject to paragraphs 4A(4), 16 and 20.
+(4)[^c-e37d5d4821c043cdbe2c42fe2ad353ae] Sub-paragraph (1) has effect subject to paragraphs 9 and 10; and sub-paragraph (2) has effect subject to paragraphs 4A(4), 16 and 20.
 
-### Cases where consent not required for storage[^key-0fcc651a7d6542474c1797a0900357b0]
+### Cases where consent not required for storage[^c-0fcc651a7d6542474c1797a0900357b0]
 
 **9.** (1) The gametes of a person (“C”) may be kept in storage without C's consent if the following conditions are met.
 
@@ -239,7 +239,7 @@ is to be treated for the purposes of sub-paragraphs (1) to (3) as the effective 
 
 **11.** A person's gametes must not be kept in storage by virtue of paragraph 9 or 10 after the person's death.
 
-### Renewal of consent to storage of gametes[^key-42aa20c34a4087f3b7fcb01602a06acb]
+### Renewal of consent to storage of gametes[^c-42aa20c34a4087f3b7fcb01602a06acb]
 
 **11A.** (1) This paragraph applies where—
 
@@ -401,7 +401,7 @@ But this is subject to sub-paragraphs (9) and (10).
 
 (4) In paragraph 11C, in relation to Scotland, references to a person lacking or having capacity to renew consent are to be read as references to the person being or not being incapable (within the meaning of section 1(6) of the Adults with Incapacity (Scotland) Act 2000) of renewing consent.
 
-### Creation, use and storage of human admixed embryos[^key-7bb30be6d6c05f1a51cc1cd87e7869ed]
+### Creation, use and storage of human admixed embryos[^c-7bb30be6d6c05f1a51cc1cd87e7869ed]
 
 **12.** (1) A person's gametes or human cells must not be used to bring about the creation of any human admixed embryo *in vitro* unless there is an effective consent by that person to any human admixed embryo, the creation of which may be brought about with the use of those gametes or human cells, being used for the purposes of any project of research.
 
@@ -442,7 +442,7 @@ is to be treated for the purposes of sub-paragraphs (1) to (3) as the effective 
 - (b) each person whose gametes or human cells were used to bring about the creation of any embryo, the creation of which was brought about *in vitro*, which was used to bring about the creation of human admixed embryo A, and
 - (c) each person whose gametes or human cells were used to bring about the creation of any other human admixed embryo, the creation of which was brought about *in vitro*, which was used to bring about the creation of human admixed embryo A.
 
-### Parental consent conditions[^key-da0173ceee1c009af556495e942dc5ab]
+### Parental consent conditions[^c-da0173ceee1c009af556495e942dc5ab]
 
 **15.** (1) In relation to a person who has not attained the age of 18 years (“C”), the parental consent conditions referred to in paragraphs 6(3A) and 12(4) are as follows.
 
@@ -606,9 +606,9 @@ the Authority may in the licence authorise the application of this paragraph in 
 
 (8) Paragraphs 1 to 4 of this Schedule do not apply in relation to a consent given for the purposes of sub-paragraph (3)(c).
 
-### Interpretation[^key-f5267160dbbad8f23e6fa12cd0d5df89]
+### Interpretation[^c-f5267160dbbad8f23e6fa12cd0d5df89]
 
-**22.**[^key-b99b86a306d1d4d7e3aaab19a8735eb0] (1) In this Schedule references to human cells are to human cells which are not—
+**22.**[^c-b99b86a306d1d4d7e3aaab19a8735eb0] (1) In this Schedule references to human cells are to human cells which are not—
 
 - (a) cells of the female or male germ line, or
 - (b) cells of an embryo.
@@ -637,96 +637,96 @@ the Authority may in the licence authorise the application of this paragraph in 
 
 [^c271747]: Commencement: Schedule 3 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-962773cc0f4b9a90bad6faf6fc650d12]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3) modified (10.5.2024) by [The Health and Care Act 2022 (Storage of Gametes and Embryos) (Transitional Provision) Regulations 2024 (S.I. 2024/625)](https://www.legislation.gov.uk/uksi/2024/625), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/625/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/625/regulation/2), [3](https://www.legislation.gov.uk/uksi/2024/625/regulation/3)
+[^c-962773cc0f4b9a90bad6faf6fc650d12]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3) modified (10.5.2024) by [The Health and Care Act 2022 (Storage of Gametes and Embryos) (Transitional Provision) Regulations 2024 (S.I. 2024/625)](https://www.legislation.gov.uk/uksi/2024/625), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/625/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/625/regulation/2), [3](https://www.legislation.gov.uk/uksi/2024/625/regulation/3)
 
-[^key-bfac9099fa3041af87a946d27f37d0c4]: Textual amendment: Words in Sch. 3 heading substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-bfac9099fa3041af87a946d27f37d0c4]: Textual amendment: Words in Sch. 3 heading substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-d4f491e068a0b778e8d8d6c8637156dc]: Textual amendment: Sch. 3 para. 1 substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-d4f491e068a0b778e8d8d6c8637156dc]: Textual amendment: Sch. 3 para. 1 substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-0ecf4a94d9fa2c65e2baa09db3483d8a]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/a) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-0ecf4a94d9fa2c65e2baa09db3483d8a]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/a) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
-[^key-5daf3a1b7107ad7ea21260f8fffefda4]: Textual amendment: Words in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/2) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/b) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-5daf3a1b7107ad7ea21260f8fffefda4]: Textual amendment: Words in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/2) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/b) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
-[^key-c02d743d868a3b52a083eea98078a01a]: Textual amendment: Words in [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/3/a) renumbered as Sch. 3 para. 1(3)(a) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/c/i) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-c02d743d868a3b52a083eea98078a01a]: Textual amendment: Words in [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/3/a) renumbered as Sch. 3 para. 1(3)(a) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/c/i) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
-[^key-02806df50014aaa90c533c6cf6dd99a4]: Textual amendment: [Sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/3/b) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/c/ii) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-02806df50014aaa90c533c6cf6dd99a4]: Textual amendment: [Sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/1/3/b) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/2/c/ii) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
 [^c271749]: Commencement: Schedule 3 para. 2 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-e3a7b37809ac5c24364b0bbac19dc35a]: Textual amendment: Sch. 3 para. 2(1)(ba) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-e3a7b37809ac5c24364b0bbac19dc35a]: Textual amendment: Sch. 3 para. 2(1)(ba) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-1f52f854fb1917c9308b7fe544739904]: Textual amendment: Sch. 3 para. 2(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-1f52f854fb1917c9308b7fe544739904]: Textual amendment: Sch. 3 para. 2(1A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-18be52e9567478d0e61c87d3f6e72101]: Textual amendment: Sch. 3 para. 2(2)-(2B) substituted for Sch. 3 para. 2(2) (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-18be52e9567478d0e61c87d3f6e72101]: Textual amendment: Sch. 3 para. 2(2)-(2B) substituted for Sch. 3 para. 2(2) (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-3b876889c220097e5c8299fd22ab2954]: Textual amendment: Words in [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/2/2/a) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/4) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-3b876889c220097e5c8299fd22ab2954]: Textual amendment: Words in [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/2/2/a) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/4) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
-[^key-8389047c36e8ead5967125311b4dc70e]: Textual amendment: Sch. 3 para. 2(4)(5) substituted for Sch. 3 para. 2(4) (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-8389047c36e8ead5967125311b4dc70e]: Textual amendment: Sch. 3 para. 2(4)(5) substituted for Sch. 3 para. 2(4) (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/4/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
 [^c271750]: Commencement: Schedule 3 para. 3 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-d7890c6c06e21f2b00a81e72dd8850b3]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/3/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/3) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-d7890c6c06e21f2b00a81e72dd8850b3]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/ukpga/1990/37/schedule/3/paragraph/3/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/3) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
-[^key-2d72d4a8dd0939447f35c9dfc765f231]: Textual amendment: Words in Sch. 3 para. 3(2) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-2d72d4a8dd0939447f35c9dfc765f231]: Textual amendment: Words in Sch. 3 para. 3(2) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
 [^c271751]: Commencement: Schedule 3 para. 4 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-58d9a8decffefd47af9f97b4bcef4944]: Modification: Sch. 3 para. 4 applied (with modifications) (29.10.2015) by [The Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 (S.I. 2015/572)](https://www.legislation.gov.uk/uksi/2015/572), [regs. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/572/regulation/16)
+[^c-58d9a8decffefd47af9f97b4bcef4944]: Modification: Sch. 3 para. 4 applied (with modifications) (29.10.2015) by [The Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 (S.I. 2015/572)](https://www.legislation.gov.uk/uksi/2015/572), [regs. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/572/regulation/16)
 
-[^key-8bd8d122472f73a7baa4bb01d9bfcac1]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-8bd8d122472f73a7baa4bb01d9bfcac1]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-03275c5a6fdcda16cb7390909a2bb2b6]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/3/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-03275c5a6fdcda16cb7390909a2bb2b6]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/3/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-86969cfc4252f08f61cc7b69ae30fbb8]: Textual amendment: Sch. 3 para. 4(2)(aa) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/3/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-86969cfc4252f08f61cc7b69ae30fbb8]: Textual amendment: Sch. 3 para. 4(2)(aa) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/3/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-01710fb6474861051324ddadae21282f]: Textual amendment: Sch. 3 para. 4(3)-(5) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-01710fb6474861051324ddadae21282f]: Textual amendment: Sch. 3 para. 4(3)-(5) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/6/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-644f16b6ed7967dd6db93e43da8d28a8]: Textual amendment: Sch. 3 para. 4A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/7); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-644f16b6ed7967dd6db93e43da8d28a8]: Textual amendment: Sch. 3 para. 4A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/7); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
 [^c271752]: Commencement: Schedule 3 para. 5 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-59715284bb647496dcdd9988a6ae134a]: Textual amendment: Words in Sch. 3 para. 5 inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/8); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-59715284bb647496dcdd9988a6ae134a]: Textual amendment: Words in Sch. 3 para. 5 inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/8); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
 [^c271753]: Commencement: Schedule 3 para. 6 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-80551208145de87b29b856ed5ca7b22d]: Textual amendment: Words in Sch. 3 para. 6(1) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-80551208145de87b29b856ed5ca7b22d]: Textual amendment: Words in Sch. 3 para. 6(1) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-4ce068c2f592ecdb5270cbfaea9b01c6]: Textual amendment: Comma in Sch. 3 para. 6(1) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-4ce068c2f592ecdb5270cbfaea9b01c6]: Textual amendment: Comma in Sch. 3 para. 6(1) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-c0d9177e1f54878f6a3643cbf46d6824]: Textual amendment: Words in Sch. 3 para. 6(1) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(c)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/c); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-c0d9177e1f54878f6a3643cbf46d6824]: Textual amendment: Words in Sch. 3 para. 6(1) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(c)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/c); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-298594d1e5cb95fd9f1fd7d92f5ca18f]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(d)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/d); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-298594d1e5cb95fd9f1fd7d92f5ca18f]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(2)(d)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/2/d); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-e5947dd8e40e6e82edd05cfb8ca7e866]: Textual amendment: Words in Sch. 3 para. 6(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/3/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-e5947dd8e40e6e82edd05cfb8ca7e866]: Textual amendment: Words in Sch. 3 para. 6(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/3/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-74204d0e887199158eb19153b56de1b0]: Textual amendment: Words in Sch. 3 para. 6(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/3/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-74204d0e887199158eb19153b56de1b0]: Textual amendment: Words in Sch. 3 para. 6(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/3/b); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-212923872e368d0402c88aa6ec86ba4d]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-212923872e368d0402c88aa6ec86ba4d]: Textual amendment: Words in Sch. 3 para. 6(3) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-37e9bb4bc1216539925adf7449313aa8]: Textual amendment: Sch. 3 para. 6(3A)-(3E) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-37e9bb4bc1216539925adf7449313aa8]: Textual amendment: Sch. 3 para. 6(3A)-(3E) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/9/5); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
 [^c271754]: Commencement: Schedule 3 para. 7 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 29(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/29/2)
 
-[^key-92a68f70efbaa2c4423309468f1ecf34]: Textual amendment: Words in Sch. 3 para. 7(3) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/10/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-92a68f70efbaa2c4423309468f1ecf34]: Textual amendment: Words in Sch. 3 para. 7(3) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/10/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-63aa1e8784e4486e4e6d6234683ddae2]: Textual amendment: Sch. 3 para. 7(4) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/10/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-63aa1e8784e4486e4e6d6234683ddae2]: Textual amendment: Sch. 3 para. 7(4) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/10/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
 [^c271755]: Commencement: Schedule 3 para. 8 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-ab7ffb86589ba270966f6131c9c9a399]: Textual amendment: Words in Sch. 3 para. 8(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/11/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-ab7ffb86589ba270966f6131c9c9a399]: Textual amendment: Words in Sch. 3 para. 8(2) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/11/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-b940e0b2e4ba3b90bdaf2ac440bddf6c]: Textual amendment: Sch. 3 para. 8(2A)-(2C) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/11/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-b940e0b2e4ba3b90bdaf2ac440bddf6c]: Textual amendment: Sch. 3 para. 8(2A)-(2C) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/11/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-e37d5d4821c043cdbe2c42fe2ad353ae]: Textual amendment: Sch. 3 para. 8(4) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/11/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-e37d5d4821c043cdbe2c42fe2ad353ae]: Textual amendment: Sch. 3 para. 8(4) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/11/4); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-0fcc651a7d6542474c1797a0900357b0]: Textual amendment: Sch. 3 paras. 9-11 and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/12); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-0fcc651a7d6542474c1797a0900357b0]: Textual amendment: Sch. 3 paras. 9-11 and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/12); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-42aa20c34a4087f3b7fcb01602a06acb]: Textual amendment: Sch. 3 paras. 11A-11D and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/4) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
+[^c-42aa20c34a4087f3b7fcb01602a06acb]: Textual amendment: Sch. 3 paras. 11A-11D and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3), [Sch. 17 para. 7(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/paragraph/7/4) (with [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/17/part/2))
 
-[^key-7bb30be6d6c05f1a51cc1cd87e7869ed]: Textual amendment: Sch. 3 paras. 12-14 and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/13); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-7bb30be6d6c05f1a51cc1cd87e7869ed]: Textual amendment: Sch. 3 paras. 12-14 and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/13); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-da0173ceee1c009af556495e942dc5ab]: Textual amendment: Sch. 3 paras. 15-21 and cross-headings inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/14); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-da0173ceee1c009af556495e942dc5ab]: Textual amendment: Sch. 3 paras. 15-21 and cross-headings inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/14); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-f5267160dbbad8f23e6fa12cd0d5df89]: Textual amendment: Sch. 3 para. 22 and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/15); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
+[^c-f5267160dbbad8f23e6fa12cd0d5df89]: Textual amendment: Sch. 3 para. 22 and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2008/22/schedule/3/paragraph/15); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(w)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/w)
 
-[^key-b99b86a306d1d4d7e3aaab19a8735eb0]: Modification: Sch. 3 para. 22 applied (with modifications) (29.10.2015) by [The Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 (S.I. 2015/572)](https://www.legislation.gov.uk/uksi/2015/572), [regs. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/572/regulation/17)
+[^c-b99b86a306d1d4d7e3aaab19a8735eb0]: Modification: Sch. 3 para. 22 applied (with modifications) (29.10.2015) by [The Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 (S.I. 2015/572)](https://www.legislation.gov.uk/uksi/2015/572), [regs. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/572/regulation/17)

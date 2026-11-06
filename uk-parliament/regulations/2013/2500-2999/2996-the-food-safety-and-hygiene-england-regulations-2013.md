@@ -70,16 +70,16 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 - “**the Act**” means the Food Safety Act 1990 [^c21954471];
 - “**the Agency**” means the Food Standards Agency;
 - “**authorised officer**”, in relation to an enforcement authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under the Hygiene Regulations and Regulation 178/2002;
-- ”the EU Hygiene Regulations” mean Regulation 852/2004, Regulation 853/2004, Regulation 2073/2005, Regulation 2015/1375, Regulation 2017/185 and Regulation 2017/625 and the Regulation 2017/625 package insofar as it and they apply to food;[^key-92b1aaa96d5a4cb670da525a7174cf05]
-- [^key-60f62b2a249d91c7c9f7591e10593180]...
+- ”the EU Hygiene Regulations” mean Regulation 852/2004, Regulation 853/2004, Regulation 2073/2005, Regulation 2015/1375, Regulation 2017/185 and Regulation 2017/625 and the Regulation 2017/625 package insofar as it and they apply to food;[^c-92b1aaa96d5a4cb670da525a7174cf05]
+- [^c-60f62b2a249d91c7c9f7591e10593180]...
 - “**enforcement authority**” means the authority which, by virtue of regulation 5, is responsible for executing and enforcing the Hygiene Regulations and Regulation 178/2002;
 - “**food authority**” has the meaning that it bears by virtue of section 5(1) of the Act except that it does not include the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and Middle Temple);
 - “**the Hygiene Regulations**” means these Regulations and the EU Hygiene Regulations;
 - “**premises**” includes any establishment, any place, vehicle, stall or moveable structure and any ship or aircraft; and
-- “the Regulation 2017/625 package” means Regulation 2017/625 and the other EU Regulations listed in Schedule 1 under the heading “The Regulation 2017/625 package”;[^key-613f38b1362ef5f257bcb81330d2a39b]
+- “the Regulation 2017/625 package” means Regulation 2017/625 and the other EU Regulations listed in Schedule 1 under the heading “The Regulation 2017/625 package”;[^c-613f38b1362ef5f257bcb81330d2a39b]
 - “**specified EU provision**” means any provision of Regulation 178/2002 or the EU Hygiene Regulations that is specified in column 1 of Schedule 2 and whose subject-matter is described in column 2 of that Schedule.
 
-(1A)[^key-84aabd1097303a5a607a6e8d3c807129] Any reference in these Regulations to Directives or Regulations referred to in Schedule 1 have the meanings respectively given to them in that Schedule.
+(1A)[^c-84aabd1097303a5a607a6e8d3c807129] Any reference in these Regulations to Directives or Regulations referred to in Schedule 1 have the meanings respectively given to them in that Schedule.
 
 (2) Subject to paragraph (3), any expression other than one defined in paragraph (1) that is used both in these Regulations and in the Act has the meaning it bears in the Act.
 
@@ -100,7 +100,7 @@ any reference in these Regulations to a food authority is to be construed, so fa
 
 that day is to be excluded from the period.
 
-(6) In these Regulations, any reference to an EU instrument defined in Schedule 1 is a reference to that instrument as [^key-9b646497051a98e507cf0aa08c004e15]... amended from time to time.
+(6) In these Regulations, any reference to an EU instrument defined in Schedule 1 is a reference to that instrument as [^c-9b646497051a98e507cf0aa08c004e15]... amended from time to time.
 
 ## 3. Presumptions that food is intended for human consumption
 
@@ -167,13 +167,13 @@ the food authority in whose area the collection centre or tannery concerned is s
 (9) In this regulation —
 
 - “**cutting plant**” means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-d2c1adcbef1d88e43099fe7cf65e8404]; or
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-d2c1adcbef1d88e43099fe7cf65e8404]; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation 853/2004) was, on 31st December 2005, operating as licensed cutting premises under the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c21954521] or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 [^c21954531];
 - “**game-handling establishment**” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-9072acebc7767e73b455d1be3ffc0e3f]; or
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-9072acebc7767e73b455d1be3ffc0e3f]; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation 853/2004) was, on 31st December 2005, operating as a licensed wild game processing facility under the Wild Game Meat (Hygiene and Inspection) Regulations 1995 [^c21954541];
 - “**slaughterhouse**” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-bc18b55598de0601e3f23e9bb209be8f]; or
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-bc18b55598de0601e3f23e9bb209be8f]; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation 853/2004) was, on 31st December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995.
 
 ## 6. Hygiene improvement notices
@@ -483,16 +483,16 @@ whichever is the earlier.
 
 ## 19. Offences and penalties
 
-(1) Subject to paragraphs (4) to (9)[^key-d6fc91d2e9575f57b499981cd607c073], any person who contravenes or fails to comply with any of the specified EU provisions commits an offence.
+(1) Subject to paragraphs (4) to (9)[^c-d6fc91d2e9575f57b499981cd607c073], any person who contravenes or fails to comply with any of the specified EU provisions commits an offence.
 
-(2) Subject to paragraphs (3) and (3A)[^key-838ecf44d630e38b3eeed95b186dab2e], a person guilty of an offence under these Regulations is liable —
+(2) Subject to paragraphs (3) and (3A)[^c-838ecf44d630e38b3eeed95b186dab2e], a person guilty of an offence under these Regulations is liable —
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
 
 (3) A person guilty of an offence under regulation 17 is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
-(3A)[^key-039cb959a0e795d4687919f4c505c040] A person guilty of an offence under paragraph 1A or 1B of Schedule 6 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(3A)[^c-039cb959a0e795d4687919f4c505c040] A person guilty of an offence under paragraph 1A or 1B of Schedule 6 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (4) Provided the requirements of Schedule 3 are complied with, a person shall be considered not to have contravened or failed to comply with Article 4(2) of Regulation 852/2004 as read with paragraph 4 of Chapter IV of Annex II to that Regulation (bulk foodstuffs in liquid, granulate or powder form to be transported in receptacles and/or containers/tankers reserved for the transport of foodstuffs).
 
@@ -504,14 +504,14 @@ whichever is the earlier.
 
 (8) Provided the requirements of Part 4 of Schedule 7 are complied with, a person shall be considered not to have contravened or failed to comply with Article 3(1) or 4(1)(a) of Regulation 853/2004 as read in either case with paragraph 6(b) of Chapter II of Section II of Annex III to that Regulation (food business operators to ensure that slaughterhouses in which poultry or lagomorphs are slaughtered have a separate place with appropriate facilities for the cleaning, washing and disinfection of means of transport unless officially authorised places and facilities exist nearby).
 
-(9)[^key-f53be6f07423fa8eb078b3dd3f8d906a] A person is to be considered not to have contravened or failed to comply with Article 5(1) of Regulation 853/2004 if—
+(9)[^c-f53be6f07423fa8eb078b3dd3f8d906a] A person is to be considered not to have contravened or failed to comply with Article 5(1) of Regulation 853/2004 if—
 
 - (a) in the case of a health mark—
   - (i) the health mark was applied to a product of animal origin in accordance with Article 5(1) before IP completion day; and
   - (ii) the health mark complied with Article 5(1) as that Article applied immediately before IP completion day;
 - (b) in the case of an identification mark—
   - (i) the identification mark was applied to a product of animal origin subject to Article 5(1) before IP completion day; or
-  - (ii) the identification mark is applied to a product of animal origin in accordance with Article 5(1) as that Article applied immediately before IP completion day, no later than 31 December 2023[^key-878b04d5a70e03dd0f074cb4119a9acf], using a label, wrapping or packaging bearing that identification mark which is owned by the food business operator immediately before IP completion day.
+  - (ii) the identification mark is applied to a product of animal origin in accordance with Article 5(1) as that Article applied immediately before IP completion day, no later than 31 December 2023[^c-878b04d5a70e03dd0f074cb4119a9acf], using a label, wrapping or packaging bearing that identification mark which is owned by the food business operator immediately before IP completion day.
 
 ## 20. Offences by bodies corporate
 
@@ -674,7 +674,7 @@ Schedule 5 (direct supply by the producer of small quantities of meat from poult
 
 Schedule 6 (restrictions on the sale of raw milk intended for direct human consumption) has effect.
 
-## 35. Special health mark[^key-870eb3438db9492b60f91723cc3311a0]
+## 35. Special health mark[^c-870eb3438db9492b60f91723cc3311a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -704,8 +704,8 @@ In section 9(5)(a) of the Act [^c21954571], after “section 7” insert “ , r
 
 The Animal By-Products (Enforcement) (England) Regulations 2013 [^c21954611] are amended as follows —
 
-- (a) In regulation 10(2)(a)[^key-b37e096e09b8d2df0663a3119dccdd17], for “regulation 5(6) of the Food Hygiene (England) Regulations 2006” substitute “ regulation 5(9) of the Food Safety and Hygiene (England) Regulations 2013 ”;
-- (b) In regulation 21(8)[^key-50472b1ddc8d871a652a420a5661b0f8], for “regulation 5(2) of the Food Hygiene (England) Regulations 2006” substitute “ regulation 5(2) of the Food Safety and Hygiene (England) Regulations 2013 ”.
+- (a) In regulation 10(2)(a)[^c-b37e096e09b8d2df0663a3119dccdd17], for “regulation 5(6) of the Food Hygiene (England) Regulations 2006” substitute “ regulation 5(9) of the Food Safety and Hygiene (England) Regulations 2013 ”;
+- (b) In regulation 21(8)[^c-50472b1ddc8d871a652a420a5661b0f8], for “regulation 5(2) of the Food Hygiene (England) Regulations 2006” substitute “ regulation 5(2) of the Food Safety and Hygiene (England) Regulations 2013 ”.
 
 ## 39. Consequential amendment to the Trade in Animals and Related Products Regulations 2011
 
@@ -723,7 +723,7 @@ In so far as they apply in relation to England, the instruments listed in the fi
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Agency must, so far as is reasonably practicable, have regard to how the EU instruments mentioned in paragraph (1)[^key-f3afa2261155a5fb5592cb9a7db00dfc] as read with paragraph (6)[^key-e25d626ee3f3da428791fe08d1c17ce7] of regulation 2 are executed and enforced in other Member States.
+(2) In carrying out the review the Agency must, so far as is reasonably practicable, have regard to how the EU instruments mentioned in paragraph (1)[^c-f3afa2261155a5fb5592cb9a7db00dfc] as read with paragraph (6)[^c-e25d626ee3f3da428791fe08d1c17ce7] of regulation 2 are executed and enforced in other Member States.
 
 (3) The report must in particular —
 
@@ -743,7 +743,7 @@ Parliamentary Under Secretary of State,
 
 Department of Health
 
-## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^key-847be84e9b641e6a3622c8be53f95ccf]
+## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^c-847be84e9b641e6a3622c8be53f95ccf]
 
 Regulation 2(1)
 
@@ -789,9 +789,9 @@ Regulation 2(1)
 - “Regulation 2020/466” means Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of Member States’ control systems due to coronavirus disease;
 - “Regulation 2020/1158” means Commission Implementing Regulation (EU) 2020/1158 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station.
 
-## Schedule 2 — Specified EU provisions[^key-aa73a71c8c6c1afa301e2ae6f517ee66]
+## Schedule 2 — Specified EU provisions[^c-aa73a71c8c6c1afa301e2ae6f517ee66]
 
-| *1. Provision of assimilated[^key-9f4beda4e83de1326b48298377a0493b] law* | *2. Subject matter* |
+| *1. Provision of assimilated[^c-9f4beda4e83de1326b48298377a0493b] law* | *2. Subject matter* |
 | --- | --- |
 | Article 12 of Regulation 178/2002, as it relates to food | Requirement that food exported or re-exported from Great Britain to third countries must comply with the relevant requirements of food law, except in certain specified circumstances. |
 | Article 14(1) of Regulation 178/2002 | Requirement that unsafe food must not be placed on the market. |
@@ -835,17 +835,17 @@ Regulations 19(4) and 31
 
 A person who contravenes or fails to comply with any of the requirements of this Schedule commits an offence.
 
-### 2. Liquid oils or fats[^key-930995639a73d79aa9fbf6857c8374e8]
+### 2. Liquid oils or fats[^c-930995639a73d79aa9fbf6857c8374e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-71df4cafd92677662647382a48c396e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-71df4cafd92677662647382a48c396e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-af0e970115ea08ce7ecea534dea3c7a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-af0e970115ea08ce7ecea534dea3c7a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4e307668e0f90e8d7f291d14d0ea2164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4e307668e0f90e8d7f291d14d0ea2164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6718d66582ab6b330ff4b0ccb587df5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6718d66582ab6b330ff4b0ccb587df5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Raw sugar
 
@@ -871,9 +871,9 @@ The bulk transport by sea of raw sugar which is not intended for use as food or 
 
 ### 14. Interpretation
 
-(1) For the purposes of this Schedule any words or expressions used both in this Schedule and in [^key-31ed591d71865679b22587bc6b7a2d42]... Commission Directive [98/28/EC](https://www.legislation.gov.uk/european/directive/1998/0028) granting a derogation from certain provisions of Directive [93/43/EEC](https://www.legislation.gov.uk/european/directive/1993/0043) on the hygiene of foodstuffs as regards the transport by sea of bulk raw sugar shall bear the same meanings as they respectively have in those Directives.
+(1) For the purposes of this Schedule any words or expressions used both in this Schedule and in [^c-31ed591d71865679b22587bc6b7a2d42]... Commission Directive [98/28/EC](https://www.legislation.gov.uk/european/directive/1998/0028) granting a derogation from certain provisions of Directive [93/43/EEC](https://www.legislation.gov.uk/european/directive/1993/0043) on the hygiene of foodstuffs as regards the transport by sea of bulk raw sugar shall bear the same meanings as they respectively have in those Directives.
 
-(2)[^key-fa41231ba13db573ae538ab3b7cf1051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fa41231ba13db573ae538ab3b7cf1051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Temperature control requirements
 
@@ -991,7 +991,7 @@ In this Schedule —
 - “**Council Regulation 1907/90**” means Council Regulation [(EEC) No. 1907/90](https://www.legislation.gov.uk/eur/1990/1907) on certain marketing standards for eggs as last amended by Council Regulation [(EC) No. 2052/2003](https://www.legislation.gov.uk/eur/2003/2052) amending Regulation [(EEC) No. 1907/90](https://www.legislation.gov.uk/eur/1990/1907) on certain marketing standards for eggs;
 - “**recommended temperature**” means a specified temperature which has been recommended in accordance with sub-paragraph (1)(a)(i) of paragraph 4; and
 - “**shelf life**” means—
-  - (a) in relation to food for which a date of minimum durability is required in accordance with Article 9(1)(f) of Regulation ([^key-a32e5b9a858efbc96ef9d8b778ca15d6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required date of minimum durability;
+  - (a) in relation to food for which a date of minimum durability is required in accordance with Article 9(1)(f) of Regulation ([^c-a32e5b9a858efbc96ef9d8b778ca15d6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required date of minimum durability;
   - (b) in relation to food for which a “use by” date is required in accordance with Article 9(1)(f) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council, as read with Article 24(1) and (2) of that Regulation, the period up to and including the required “use by” date; and
   - (c) in relation to food which is not required to bear an indication of minimum durability or a “use by” date, the period for which the food can be expected to remain fit for sale if it is kept in a manner which is consistent with food safety.
 
@@ -1023,7 +1023,7 @@ Regulation 34
 
 **1.** Any person who sells raw milk intended for direct human consumption in contravention of paragraph 5 commits an offence.
 
-**1A.**[^key-2291ca53fc63932e91147a9e270f17c6] Any person who sells raw milk in contravention of paragraph 7A commits an offence.
+**1A.**[^c-2291ca53fc63932e91147a9e270f17c6] Any person who sells raw milk in contravention of paragraph 7A commits an offence.
 
 **1B.** Any person who sells raw milk in contravention of paragraph 7B commits an offence.
 
@@ -1059,7 +1059,7 @@ Regulation 34
 
 **7.** In any case where the Agency carries out sampling, analysis and examination of raw cows' milk in accordance with paragraph 6, there shall be due to the Agency from the occupier of the production holding who is selling the milk a fee of £63, which is payable by the occupier to the Agency on demand.
 
-**7A.**[^key-6e24a5f837e4be8a22fd80fbbbb023b4] Subject to paragraph 7C, and except in cases to which paragraph 7B applies, the container in which any raw milk intended for direct human consumption is sold must be marked or labelled with the words “This milk has not been heat-treated and may therefore contain organisms harmful to health.
+**7A.**[^c-6e24a5f837e4be8a22fd80fbbbb023b4] Subject to paragraph 7C, and except in cases to which paragraph 7B applies, the container in which any raw milk intended for direct human consumption is sold must be marked or labelled with the words “This milk has not been heat-treated and may therefore contain organisms harmful to health.
 
 **7B.** Subject to paragraph 7C, in the case of any raw milk intended for direct human consumption which is not prepacked and is sold at a catering establishment there must appear—
 
@@ -1072,12 +1072,12 @@ the words “Milk supplied in this establishment has not been heat-treated and m
 
 **8.** In this Schedule —
 
-- “catering establishment” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the final consumer and is ready for consumption without further preparation;[^key-915c9c77d4929c682332142de4bccaf6]
+- “catering establishment” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the final consumer and is ready for consumption without further preparation;[^c-915c9c77d4929c682332142de4bccaf6]
 - “**distributor**” means a person who sells raw cows' milk that has been produced on a production holding of which he is not the occupier;
 - “**farm premises**” means a farm occupied by the occupier of a production holding as a single farm and includes the production holding and any other building situated on that farm and occupied by the same occupier;
-- “labelling”, in relation to a food, includes any words, particulars, trade mark, brand name, pictorial matter or symbol relating to the food and appearing on the packaging of the food or on any document, notice, label, ring or collar accompanying the food;[^key-9412174a10019424a4660b1737c6fae8]
+- “labelling”, in relation to a food, includes any words, particulars, trade mark, brand name, pictorial matter or symbol relating to the food and appearing on the packaging of the food or on any document, notice, label, ring or collar accompanying the food;[^c-9412174a10019424a4660b1737c6fae8]
 - “**occupier**” means any person carrying on the business of producing or handling raw cows' milk or his duly authorised representative;
-- “prepacked”, in relation to a food, means put into packaging before being offered for sale in such a way that the food, whether wholly or only partly enclosed, cannot be altered without opening or changing the packaging and is ready for sale to the final consumer or to a catering establishment, and includes a food which is wholly enclosed in packaging before being offered for sale and which is intended to be cooked without opening the packaging and which is ready for sale to the final consumer or to a catering establishment;[^key-6c2b34a05ce8c704a4134aa25d81e9c0]
+- “prepacked”, in relation to a food, means put into packaging before being offered for sale in such a way that the food, whether wholly or only partly enclosed, cannot be altered without opening or changing the packaging and is ready for sale to the final consumer or to a catering establishment, and includes a food which is wholly enclosed in packaging before being offered for sale and which is intended to be cooked without opening the packaging and which is ready for sale to the final consumer or to a catering establishment;[^c-6c2b34a05ce8c704a4134aa25d81e9c0]
 - “**production holding**” means premises at which milk-producing cows are kept; and
 - “**shop premises**” means premises from which any food is sold to the final consumer.
 
@@ -1097,7 +1097,7 @@ Regulation 19
   - (ii) name and address of alternative detention facility;
   - (iii) number of carcases or cuts; and
   - (iv) species of animal; and
-- (e) no processing for human consumption of bovine animals that, in accordance with point 2 of Part I of Chapter A of Annex III to the EU TSE Regulation, require BSE testing at slaughter or of swine (domestic and farmed game), solipeds and other species susceptible to Trichinosis that, under Article 18(2) of Regulation 2017/625 as read with Article 31 of Regulation 2019/627, require that examination for Trichinella takes place in accordance with Article 2 of Regulation 2015/1375[^key-51c075685ca8fb681a2194efb3185dcb].
+- (e) no processing for human consumption of bovine animals that, in accordance with point 2 of Part I of Chapter A of Annex III to the EU TSE Regulation, require BSE testing at slaughter or of swine (domestic and farmed game), solipeds and other species susceptible to Trichinosis that, under Article 18(2) of Regulation 2017/625 as read with Article 31 of Regulation 2019/627, require that examination for Trichinella takes place in accordance with Article 2 of Regulation 2015/1375[^c-51c075685ca8fb681a2194efb3185dcb].
 
 **2.** For the purposes of this Part the “**EU TSE Regulation**” means Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies [^c21954851], as read with —
 
@@ -1137,15 +1137,15 @@ Regulation 19
 - (c) the food business operator at the slaughterhouse retains the undertaking referred to in paragraph (b) for one year; and
 - (d) the food business operator at the slaughterhouse acknowledges to the official veterinarian that he may be required under animal health rules to cease operating at the slaughterhouse in the event of an animal disease outbreak.
 
-## SCHEDULE 8 — The Special Health Mark[^key-d13c94bdfc34029cb4bb2b21c32097a3]
+## SCHEDULE 8 — The Special Health Mark[^c-d13c94bdfc34029cb4bb2b21c32097a3]
 
 **No longer in force.**
 
 Regulation 35
 
-**1.**[^key-d13c94bdfc34029cb4bb2b21c32097a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d13c94bdfc34029cb4bb2b21c32097a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d13c94bdfc34029cb4bb2b21c32097a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d13c94bdfc34029cb4bb2b21c32097a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 9 — Revocations
 
@@ -1237,13 +1237,13 @@ Regulation 40
 
 [^c21954471]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-92b1aaa96d5a4cb670da525a7174cf05]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [34(a)(i)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/34/a/i)
+[^c-92b1aaa96d5a4cb670da525a7174cf05]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [34(a)(i)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/34/a/i)
 
-[^key-60f62b2a249d91c7c9f7591e10593180]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/a/i)
+[^c-60f62b2a249d91c7c9f7591e10593180]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/a/i)
 
-[^key-613f38b1362ef5f257bcb81330d2a39b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/a/ii)
+[^c-613f38b1362ef5f257bcb81330d2a39b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/a/ii)
 
-[^key-84aabd1097303a5a607a6e8d3c807129]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/b)
+[^c-84aabd1097303a5a607a6e8d3c807129]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/2/1A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/5/2/b)
 
 [^c21954481]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the Food Safety Act 1990.
 
@@ -1253,35 +1253,35 @@ Regulation 40
 
 [^c21954511]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-9b646497051a98e507cf0aa08c004e15]: Textual amendment: Words in reg. 2(6) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/34/b)
+[^c-9b646497051a98e507cf0aa08c004e15]: Textual amendment: Words in reg. 2(6) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/34/b)
 
-[^key-d2c1adcbef1d88e43099fe7cf65e8404]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/a)
+[^c-d2c1adcbef1d88e43099fe7cf65e8404]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/a)
 
 [^c21954521]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
 
 [^c21954531]: Marginal citation: [S.I. 1995/540](https://www.legislation.gov.uk/uksi/1995/540), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059)
 
-[^key-9072acebc7767e73b455d1be3ffc0e3f]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/b)
+[^c-9072acebc7767e73b455d1be3ffc0e3f]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/b)
 
 [^c21954541]: Marginal citation: [S.I. 1995/2148](https://www.legislation.gov.uk/uksi/1995/2148), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059)
 
-[^key-bc18b55598de0601e3f23e9bb209be8f]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(c)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/c)
+[^c-bc18b55598de0601e3f23e9bb209be8f]: Textual amendment: Words in reg. 5(9) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [35(c)](https://www.legislation.gov.uk/uksi/2019/1476/regulation/35/c)
 
 [^c21954551]: Marginal citation: [S.I. 2013/264](https://www.legislation.gov.uk/uksi/2013/264).
 
 [^c21954561]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-d6fc91d2e9575f57b499981cd607c073]: Textual amendment: Word in reg. 19(1) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [3A(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/3A/a) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6fc91d2e9575f57b499981cd607c073]: Textual amendment: Word in reg. 19(1) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [3A(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/3A/a) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-838ecf44d630e38b3eeed95b186dab2e]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/2/a)
+[^c-838ecf44d630e38b3eeed95b186dab2e]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/2/a)
 
-[^key-039cb959a0e795d4687919f4c505c040]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/3A) inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/2/b)
+[^c-039cb959a0e795d4687919f4c505c040]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/3A) inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/2/b)
 
-[^key-f53be6f07423fa8eb078b3dd3f8d906a]: Textual amendment: Reg. 19(9) inserted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [3A(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/3A/b) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f53be6f07423fa8eb078b3dd3f8d906a]: Textual amendment: Reg. 19(9) inserted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [3A(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/3A/b) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-878b04d5a70e03dd0f074cb4119a9acf]: Textual amendment: Words in [reg. 19(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/9/b/ii) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/938/regulation/6)
+[^c-878b04d5a70e03dd0f074cb4119a9acf]: Textual amendment: Words in [reg. 19(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/19/9/b/ii) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/938/regulation/6)
 
-[^key-870eb3438db9492b60f91723cc3311a0]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/2996/regulation/35) revoked (11.11.2014) by [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/3)
+[^c-870eb3438db9492b60f91723cc3311a0]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/2996/regulation/35) revoked (11.11.2014) by [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/3)
 
 [^c21954571]: Marginal citation: [Section 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/2996/section/9/5/a) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -1293,51 +1293,51 @@ Regulation 40
 
 [^c21954611]: Marginal citation: [S.I. 2013/2952](https://www.legislation.gov.uk/uksi/2013/2952).
 
-[^key-b37e096e09b8d2df0663a3119dccdd17]: Textual amendment: Words in [reg. 38(a)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/a) substituted (15.10.2016) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2016 (S.I. 2016/868)](https://www.legislation.gov.uk/uksi/2016/868), [regs. 1](https://www.legislation.gov.uk/uksi/2016/868/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/868/regulation/2/5/a)
+[^c-b37e096e09b8d2df0663a3119dccdd17]: Textual amendment: Words in [reg. 38(a)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/a) substituted (15.10.2016) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2016 (S.I. 2016/868)](https://www.legislation.gov.uk/uksi/2016/868), [regs. 1](https://www.legislation.gov.uk/uksi/2016/868/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/868/regulation/2/5/a)
 
-[^key-50472b1ddc8d871a652a420a5661b0f8]: Textual amendment: Words in [reg. 38(b)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/b) substituted (15.10.2016) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2016 (S.I. 2016/868)](https://www.legislation.gov.uk/uksi/2016/868), [regs. 1](https://www.legislation.gov.uk/uksi/2016/868/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2016/868/regulation/2/5/b)
+[^c-50472b1ddc8d871a652a420a5661b0f8]: Textual amendment: Words in [reg. 38(b)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/b) substituted (15.10.2016) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2016 (S.I. 2016/868)](https://www.legislation.gov.uk/uksi/2016/868), [regs. 1](https://www.legislation.gov.uk/uksi/2016/868/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2016/868/regulation/2/5/b)
 
 [^c21954621]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197).
 
-[^key-f3afa2261155a5fb5592cb9a7db00dfc]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/41/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/3/a)
+[^c-f3afa2261155a5fb5592cb9a7db00dfc]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/41/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/3/a)
 
-[^key-e25d626ee3f3da428791fe08d1c17ce7]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/41/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/3/b)
+[^c-e25d626ee3f3da428791fe08d1c17ce7]: Textual amendment: Word in [reg. 41(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/41/2) substituted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/3/b)
 
-[^key-847be84e9b641e6a3622c8be53f95ccf]: Textual amendment: Sch. 1 substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1410/schedule/5)
+[^c-847be84e9b641e6a3622c8be53f95ccf]: Textual amendment: Sch. 1 substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1410/schedule/5)
 
-[^key-aa73a71c8c6c1afa301e2ae6f517ee66]: Textual amendment: Sch. 2 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [reg. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/641/schedule) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa73a71c8c6c1afa301e2ae6f517ee66]: Textual amendment: Sch. 2 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [reg. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/641/schedule) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f4beda4e83de1326b48298377a0493b]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2996/schedule/2) table substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/3)
+[^c-9f4beda4e83de1326b48298377a0493b]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2996/schedule/2) table substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/3)
 
-[^key-930995639a73d79aa9fbf6857c8374e8]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/2) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+[^c-930995639a73d79aa9fbf6857c8374e8]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/2) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
 
-[^key-71df4cafd92677662647382a48c396e6]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/3) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+[^c-71df4cafd92677662647382a48c396e6]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/3) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
 
-[^key-af0e970115ea08ce7ecea534dea3c7a4]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/4) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+[^c-af0e970115ea08ce7ecea534dea3c7a4]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/4) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
 
-[^key-4e307668e0f90e8d7f291d14d0ea2164]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/5) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+[^c-4e307668e0f90e8d7f291d14d0ea2164]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/5) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
 
-[^key-6718d66582ab6b330ff4b0ccb587df5a]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/6) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
+[^c-6718d66582ab6b330ff4b0ccb587df5a]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/6) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/a)
 
-[^key-31ed591d71865679b22587bc6b7a2d42]: Textual amendment: Words in [Sch. 3 para. 14(1)](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/14/1) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/b)
+[^c-31ed591d71865679b22587bc6b7a2d42]: Textual amendment: Words in [Sch. 3 para. 14(1)](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/14/1) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/b)
 
-[^key-fa41231ba13db573ae538ab3b7cf1051]: Textual amendment: [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/14/2) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/c)
+[^c-fa41231ba13db573ae538ab3b7cf1051]: Textual amendment: [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/2996/schedule/3/paragraph/14/2) omitted (11.11.2014) by virtue of [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/6/c)
 
-[^key-a32e5b9a858efbc96ef9d8b778ca15d6]: Textual amendment: Words in Sch. 4 para. 8 substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 59](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/59)
+[^c-a32e5b9a858efbc96ef9d8b778ca15d6]: Textual amendment: Words in Sch. 4 para. 8 substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 59](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/59)
 
-[^key-2291ca53fc63932e91147a9e270f17c6]: Textual amendment: Sch. 6 paras. 1A, 1B inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/a)
+[^c-2291ca53fc63932e91147a9e270f17c6]: Textual amendment: Sch. 6 paras. 1A, 1B inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/a)
 
-[^key-6e24a5f837e4be8a22fd80fbbbb023b4]: Textual amendment: Sch. 6 paras. 7A-7C inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/b)
+[^c-6e24a5f837e4be8a22fd80fbbbb023b4]: Textual amendment: Sch. 6 paras. 7A-7C inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/b)
 
-[^key-915c9c77d4929c682332142de4bccaf6]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/i)
+[^c-915c9c77d4929c682332142de4bccaf6]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/i)
 
-[^key-9412174a10019424a4660b1737c6fae8]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/ii)
+[^c-9412174a10019424a4660b1737c6fae8]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/ii)
 
-[^key-6c2b34a05ce8c704a4134aa25d81e9c0]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/iii)
+[^c-6c2b34a05ce8c704a4134aa25d81e9c0]: Textual amendment: Words in Sch. 6 para. 8 inserted (13.12.2014) by [The Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2885)](https://www.legislation.gov.uk/uksi/2014/2885), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2885/regulation/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/2885/regulation/2/4/c/iii)
 
 [^c21954841]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
 
-[^key-51c075685ca8fb681a2194efb3185dcb]: Textual amendment: Words in Sch. 7 para. 1(e) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/1476/regulation/37)
+[^c-51c075685ca8fb681a2194efb3185dcb]: Textual amendment: Words in Sch. 7 para. 1(e) substituted (14.12.2019) by [The Official Feed and Food Controls (England) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1476)](https://www.legislation.gov.uk/uksi/2019/1476), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1476/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/1476/regulation/37)
 
 [^c21954851]: Marginal citation: OJ No. L147, 31.5.2001, p.1. This instrument was last amended by Commission Regulation (EU) No. 630/2013 (OJ No. L179, 29.6.2013, p.60).
 
@@ -1349,4 +1349,4 @@ Regulation 40
 
 [^c21954891]: Marginal citation: [S.I. 1995/540](https://www.legislation.gov.uk/uksi/1995/540), revoked by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
 
-[^key-d13c94bdfc34029cb4bb2b21c32097a3]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2013/2996/schedule/8) revoked (11.11.2014) by [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/7)
+[^c-d13c94bdfc34029cb4bb2b21c32097a3]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2013/2996/schedule/8) revoked (11.11.2014) by [The Official Feed and Food Controls (England) and the Food Safety and Hygiene (England) (Amendment) Regulations 2014 (S.I. 2014/2748)](https://www.legislation.gov.uk/uksi/2014/2748), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2748/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/2748/regulation/3/7)

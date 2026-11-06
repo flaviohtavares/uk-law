@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Turnover of an undertaking[^key-a766b93c39193d9fef5e8b7ee0697a98][^key-8ad9e8c7e107bc4d52a02b834d499256]
+## 8. Turnover of an undertaking[^c-a766b93c39193d9fef5e8b7ee0697a98][^c-8ad9e8c7e107bc4d52a02b834d499256]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a766b93c39193d9fef5e8b7ee0697a98]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-a766b93c39193d9fef5e8b7ee0697a98]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-8ad9e8c7e107bc4d52a02b834d499256]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2024/13/section/8) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-8ad9e8c7e107bc4d52a02b834d499256]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2024/13/section/8) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

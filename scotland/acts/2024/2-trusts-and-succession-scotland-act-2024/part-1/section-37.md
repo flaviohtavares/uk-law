@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Errors in distribution: circumstances in which trustee not personally liable[^key-7d499d81d0ec28bcd2ee8150b8ae4498]
+## 37. Errors in distribution: circumstances in which trustee not personally liable[^c-7d499d81d0ec28bcd2ee8150b8ae4498]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d499d81d0ec28bcd2ee8150b8ae4498]: Commencement: S. 37 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-7d499d81d0ec28bcd2ee8150b8ae4498]: Commencement: S. 37 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

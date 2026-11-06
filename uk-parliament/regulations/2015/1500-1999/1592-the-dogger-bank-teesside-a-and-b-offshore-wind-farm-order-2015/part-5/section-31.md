@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Statutory undertakers[^key-b08c6d0144cfe07800fc45cd95140d4a]
+## 31. Statutory undertakers[^c-b08c6d0144cfe07800fc45cd95140d4a]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b08c6d0144cfe07800fc45cd95140d4a]: Commencement: Art. 31 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-b08c6d0144cfe07800fc45cd95140d4a]: Commencement: Art. 31 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
 
 [^f00037]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).

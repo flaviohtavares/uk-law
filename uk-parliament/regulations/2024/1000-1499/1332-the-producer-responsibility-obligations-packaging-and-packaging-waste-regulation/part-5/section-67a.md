@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Late assessment of disposal and administration fees[^key-10c2b9283a6d4f074ac7386388fe2e62]
+## 67A. Late assessment of disposal and administration fees[^c-10c2b9283a6d4f074ac7386388fe2e62]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c2b9283a6d4f074ac7386388fe2e62]: Textual amendment: [Reg. 67A](https://www.legislation.gov.uk/uksi/2024/1332/regulation/67A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1369/schedule/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-10c2b9283a6d4f074ac7386388fe2e62]: Textual amendment: [Reg. 67A](https://www.legislation.gov.uk/uksi/2024/1332/regulation/67A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1369/schedule/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

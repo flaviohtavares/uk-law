@@ -34,43 +34,43 @@ Section 120.
 
 #### Regional and local fisheries advisory committees
 
-**3.**[^key-9b1a124efdd38a251231aee7a9034460] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9b1a124efdd38a251231aee7a9034460] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Charging schemes
 
-**4.** (1 (Extent: S) (affected by repeal, see note))[^key-7d3d4297965d390604bc0e589269dbb1] Without prejudice to section 55 of this Act, any charging scheme— *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
+**4.** (1 (Extent: S) (affected by repeal, see note))[^c-7d3d4297965d390604bc0e589269dbb1] Without prejudice to section 55 of this Act, any charging scheme— *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-7d3d4297965d390604bc0e589269dbb1] which relates to any transferred functions, *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
-- (b (Extent: S) (affected by repeal, see note))[^key-7d3d4297965d390604bc0e589269dbb1] which was made before the transfer date, and *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
-- (c (Extent: S) (affected by repeal, see note))[^key-7d3d4297965d390604bc0e589269dbb1] which is in force immediately before that date or would (apart from this Act) have come into force at any time after that date, *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
+- (a (Extent: S) (affected by repeal, see note))[^c-7d3d4297965d390604bc0e589269dbb1] which relates to any transferred functions, *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
+- (b (Extent: S) (affected by repeal, see note))[^c-7d3d4297965d390604bc0e589269dbb1] which was made before the transfer date, and *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
+- (c (Extent: S) (affected by repeal, see note))[^c-7d3d4297965d390604bc0e589269dbb1] which is in force immediately before that date or would (apart from this Act) have come into force at any time after that date, *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
 
-shall, subject to the provisions of section 41 of this Act, have effect on and after the transfer date, with any necessary modifications, and for the remainder of the period for which the charging scheme would have been in force apart from any repeal made by this Act, as a scheme made under that section by the transferee in accordance with section 42 of this Act. *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
+shall, subject to the provisions of section 41 of this Act, have effect on and after the transfer date, with any necessary modifications, and for the remainder of the period for which the charging scheme would have been in force apart from any repeal made by this Act, as a scheme made under that section by the transferee in accordance with section 42 of this Act. *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-7d3d4297965d390604bc0e589269dbb1] Any costs or expenses incurred before the transfer date by any person in carrying out functions transferred to a new Agency by or under this Act may be treated for the purposes of subsections (3) and (4) of section 42 of this Act as costs or expenses incurred by that new Agency in carrying out those functions. *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
+(2 (Extent: S) (affected by repeal, see note))[^c-7d3d4297965d390604bc0e589269dbb1] Any costs or expenses incurred before the transfer date by any person in carrying out functions transferred to a new Agency by or under this Act may be treated for the purposes of subsections (3) and (4) of section 42 of this Act as costs or expenses incurred by that new Agency in carrying out those functions. *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-7d3d4297965d390604bc0e589269dbb1] In this paragraph— *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
+(3 (Extent: S) (affected by repeal, see note))[^c-7d3d4297965d390604bc0e589269dbb1] In this paragraph— *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
 
-- “ *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**charging scheme *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**” means a scheme specifying, or providing for the determination of, any fees or charges; *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
-- “ *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**new Agency *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**” means the Agency or *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]; *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
-- “ *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**transferred functions *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**” means any functions which, by virtue of any provision made by or under this Act, become functions of a new Agency and “ *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**the transferee *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]**” means the new Agency whose functions they so become. *(Extent: S)* *(affected by repeal, see note)*[^key-7d3d4297965d390604bc0e589269dbb1]
+- “ *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**charging scheme *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**” means a scheme specifying, or providing for the determination of, any fees or charges; *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
+- “ *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**new Agency *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**” means the Agency or *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]; *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
+- “ *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**transferred functions *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**” means any functions which, by virtue of any provision made by or under this Act, become functions of a new Agency and “ *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**the transferee *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]**” means the new Agency whose functions they so become. *(Extent: S)* *(affected by repeal, see note)*[^c-7d3d4297965d390604bc0e589269dbb1]
 
 #### Preparation of reports
 
-**5.**[^key-132b864b038a54dce679c00ae650b57c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-132b864b038a54dce679c00ae650b57c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Preparation of accounts
 
-**6.** Notwithstanding the repeal by this Act of subsection (9) of section 135 of the *(Extent: S)* *(affected by repeal, see note)*[^key-2c18ab54b41cf3b93d732fdfa3869f86] [^c14550161]Local Government (Scotland) Act 1973 (application to river purification board of certain provisions of that Act), the provisions applied to a river purification board by virtue of that section shall, as respects the period between the end of the last financial year in respect of which accounts have been made up by the board and the transfer date, continue to apply in relation to the board; but anything which shall or may be done or enjoyed, or any access, inspection or copying which shall or may be allowed, under or by virtue of any of those provisions or of section 118 of that Act (financial returns) by, or by an officer of, the board shall, or as the case may be may, after the transfer date, be done, enjoyed or allowed by, or by an officer of, *(Extent: S)* *(affected by repeal, see note)*[^key-2c18ab54b41cf3b93d732fdfa3869f86] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-2c18ab54b41cf3b93d732fdfa3869f86] in place of the board or of an officer of the board. *(Extent: S)* *(affected by repeal, see note)*[^key-2c18ab54b41cf3b93d732fdfa3869f86]
+**6.** Notwithstanding the repeal by this Act of subsection (9) of section 135 of the *(Extent: S)* *(affected by repeal, see note)*[^c-2c18ab54b41cf3b93d732fdfa3869f86] [^c14550161]Local Government (Scotland) Act 1973 (application to river purification board of certain provisions of that Act), the provisions applied to a river purification board by virtue of that section shall, as respects the period between the end of the last financial year in respect of which accounts have been made up by the board and the transfer date, continue to apply in relation to the board; but anything which shall or may be done or enjoyed, or any access, inspection or copying which shall or may be allowed, under or by virtue of any of those provisions or of section 118 of that Act (financial returns) by, or by an officer of, the board shall, or as the case may be may, after the transfer date, be done, enjoyed or allowed by, or by an officer of, *(Extent: S)* *(affected by repeal, see note)*[^c-2c18ab54b41cf3b93d732fdfa3869f86] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-2c18ab54b41cf3b93d732fdfa3869f86] in place of the board or of an officer of the board. *(Extent: S)* *(affected by repeal, see note)*[^c-2c18ab54b41cf3b93d732fdfa3869f86]
 
-#### ...[^key-b6225723862d1cdae7bb156226e0f9d2]
+#### ...[^c-b6225723862d1cdae7bb156226e0f9d2]
 
 **Not yet in force.**
 
-[^key-b6225723862d1cdae7bb156226e0f9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6225723862d1cdae7bb156226e0f9d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Alkali, &c., Works Regulation Act 1906
 
-**8.** Any dispensation which was granted under the proviso to subsection (5) of section 9 of the *(Extent: S)* *(affected by repeal, see note)*[^key-e0726c1de399c5fe3d84ad76feba319c] [^c14550171]Alkali, &c, Works Regulation Act 1906 before the transfer date and which would, apart from this Act, have been in force on that date shall have effect on and after that date notwithstanding the repeal of that proviso by this Act. *(Extent: S)* *(affected by repeal, see note)*[^key-e0726c1de399c5fe3d84ad76feba319c]
+**8.** Any dispensation which was granted under the proviso to subsection (5) of section 9 of the *(Extent: S)* *(affected by repeal, see note)*[^c-e0726c1de399c5fe3d84ad76feba319c] [^c14550171]Alkali, &c, Works Regulation Act 1906 before the transfer date and which would, apart from this Act, have been in force on that date shall have effect on and after that date notwithstanding the repeal of that proviso by this Act. *(Extent: S)* *(affected by repeal, see note)*[^c-e0726c1de399c5fe3d84ad76feba319c]
 
 #### The Public Records Act 1958
 
@@ -88,7 +88,7 @@ shall, subject to the provisions of section 41 of this Act, have effect on and a
 
 #### The Local Government Act 1974
 
-**11.**[^key-706a7f04d1fd67ab3f59999e0ebc0cb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-706a7f04d1fd67ab3f59999e0ebc0cb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** (1) Nothing in this Act shall prevent the completion on or after the transfer date by a Local Commissioner of any investigation which he began to conduct before that date and which is an investigation under Part III of the [^c14550221]Local Government Act 1974 in pursuance of a complaint made in relation to the National Rivers Authority.
 
@@ -128,11 +128,11 @@ be taken for the purposes of section 14 of that Act, as substituted by paragraph
 - “**the substitution date**” means the date on which paragraph 13 of Schedule 15 to this Act comes into force;
 - “**the transfer date**” means the date which, by virtue of section 56(1) of this Act, is the transfer date for the purposes of Part I of this Act as it applies in relation to the Agency.
 
-#### ...[^key-a6a350c477232a1ec8d79367731599b6]
+#### ...[^c-a6a350c477232a1ec8d79367731599b6]
 
 **Not yet in force.**
 
-[^key-a6a350c477232a1ec8d79367731599b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6a350c477232a1ec8d79367731599b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Environmental Protection Act 1990
 
@@ -145,59 +145,59 @@ be taken for the purposes of section 14 of that Act, as substituted by paragraph
 
 **17.** If, at the transfer date, the content of the strategy required by section 44B of that Act has not been finally determined, any plan or modification under section 50 of that Act, in its application to Scotland, whose content has been finally determined before that date shall continue in force until the contents of the strategy are finally determined, notwithstanding the repeal by this Act of that section.
 
-**18.** (1 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] This paragraph applies to— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+**18.** (1 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] This paragraph applies to— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] any resolution of a waste regulation authority under section 54 of that Act (special provision for land occupied by disposal authorities in Scotland); *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-- (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] any resolution of a waste disposal authority having effect by virtue of subsection (16) of that section as if it were a resolution of a waste regulation authority under that section, *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+- (a (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] any resolution of a waste regulation authority under section 54 of that Act (special provision for land occupied by disposal authorities in Scotland); *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+- (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] any resolution of a waste disposal authority having effect by virtue of subsection (16) of that section as if it were a resolution of a waste regulation authority under that section, *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-which is in force on the transfer date. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+which is in force on the transfer date. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] A resolution to which this paragraph applies shall continue in force— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(2 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] A resolution to which this paragraph applies shall continue in force— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] where no application is made under section 36(1) of that Act for a waste management licence in respect of the site or mobile plant covered by the resolution, until the end of the period of 6 months commencing with the transfer date; *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-- (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] where an application as mentioned in sub-paragraph (a) above is made, until— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-  - (i (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] the application is withdrawn; *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-  - (ii (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] the application is rejected and no appeal against the rejection is timeously lodged under section 43 of that Act; *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-  - (iii (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] any appeal against a rejection of the application is withdrawn or rejected; or *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-  - (iv (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] the application is granted. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+- (a (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] where no application is made under section 36(1) of that Act for a waste management licence in respect of the site or mobile plant covered by the resolution, until the end of the period of 6 months commencing with the transfer date; *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+- (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] where an application as mentioned in sub-paragraph (a) above is made, until— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+  - (i (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] the application is withdrawn; *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+  - (ii (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] the application is rejected and no appeal against the rejection is timeously lodged under section 43 of that Act; *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+  - (iii (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] any appeal against a rejection of the application is withdrawn or rejected; or *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+  - (iv (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] the application is granted. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] In relation to a resolution continued in force by sub-paragraph (2) above, the said section 54 shall have effect subject to the amendments set out in the following provisions of this paragraph. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(3 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] In relation to a resolution continued in force by sub-paragraph (2) above, the said section 54 shall have effect subject to the amendments set out in the following provisions of this paragraph. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] In subsection (2), for paragraph (b) there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(4 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] In subsection (2), for paragraph (b) there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-> - (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] specified in a resolution passed by a waste regulation authority, or by a waste disposal authority under Part I of the *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] [^c14550321]Control of Pollution Act 1974, before the transfer date within the meaning of section 56(1) of the Environment Act 1995 *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> - (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] specified in a resolution passed by a waste regulation authority, or by a waste disposal authority under Part I of the *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] [^c14550321]Control of Pollution Act 1974, before the transfer date within the meaning of section 56(1) of the Environment Act 1995 *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(5 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] In subsection (3) for paragraph (b) there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(5 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] In subsection (3) for paragraph (b) there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-> - (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] by another person, that it is on land which is the subject of a resolution, that it is with the consent of the waste disposal authority and that any conditions to which such consent is subject are within the terms of the resolution. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> - (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] by another person, that it is on land which is the subject of a resolution, that it is with the consent of the waste disposal authority and that any conditions to which such consent is subject are within the terms of the resolution. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(6 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] Subsections (4) to (7) shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(6 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] Subsections (4) to (7) shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(7 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] For subsections (8) and (9) there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(7 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] For subsections (8) and (9) there shall be substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-> (8 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] Subject to subsection (9) below, a resolution continued in force by paragraph 18 of Schedule 23 to the Environment Act 1995 may be varied or rescinded by *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] by a resolution passed by it. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> (8 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] Subject to subsection (9) below, a resolution continued in force by paragraph 18 of Schedule 23 to the Environment Act 1995 may be varied or rescinded by *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] by a resolution passed by it. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 >
-> (9 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] Before passing a resolution under subsection (8) above varying a resolution, *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] shall— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> (9 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] Before passing a resolution under subsection (8) above varying a resolution, *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] shall— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] prepare a statement of the variation which it proposes to make; *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-> - (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] refer that statement to the Health and Safety Executive and to the waste disposal authority in whose area the site is situated or, as the case may be, which is operating the plant; and *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-> - (c (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] consider any representations about the variation which the Health and Safety Executive or the waste disposal authority makes to it during the allowed period. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> - (a (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] prepare a statement of the variation which it proposes to make; *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+> - (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] refer that statement to the Health and Safety Executive and to the waste disposal authority in whose area the site is situated or, as the case may be, which is operating the plant; and *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+> - (c (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] consider any representations about the variation which the Health and Safety Executive or the waste disposal authority makes to it during the allowed period. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 >
-> (9A (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] The period allowed to the Health and Safety Executive and the waste disposal authority for the making of representations under subsection (9)(c) above is the period of 28 days beginning with that on which the statement is received by that body, or such longer period as *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] and that body agree in writing. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> (9A (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] The period allowed to the Health and Safety Executive and the waste disposal authority for the making of representations under subsection (9)(c) above is the period of 28 days beginning with that on which the statement is received by that body, or such longer period as *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] and that body agree in writing. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 >
-> (9B (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] may— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> (9B (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] may— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] postpone the reference under subsection (9)(b) above so far as it considers that by reason of an emergency it is appropriate to do so; *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-> - (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] disregard the Health and Safety Executive in relation to a resolution which in *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]’s opinion will not affect the Health and Safety Executive. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+> - (a (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] postpone the reference under subsection (9)(b) above so far as it considers that by reason of an emergency it is appropriate to do so; *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+> - (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] disregard the Health and Safety Executive in relation to a resolution which in *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe] SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]’s opinion will not affect the Health and Safety Executive. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(8 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] In subsection (10)— *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(8 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] In subsection (10)— *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] for the words “the authority which passed the resolution” and “the waste regulation authority” there shall be substituted the words “ *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]SEPA *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]”; *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
-- (b (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] the words “the waste disposal authority to discontinue the activities and of” shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+- (a (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] for the words “the authority which passed the resolution” and “the waste regulation authority” there shall be substituted the words “ *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]SEPA *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]”; *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
+- (b (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] the words “the waste disposal authority to discontinue the activities and of” shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
-(9 (Extent: S) (affected by repeal, see note))[^key-6c833fbe251afd469d3350af8a0d32fe] Subsections (11) to (15) shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^key-6c833fbe251afd469d3350af8a0d32fe]
+(9 (Extent: S) (affected by repeal, see note))[^c-6c833fbe251afd469d3350af8a0d32fe] Subsections (11) to (15) shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^c-6c833fbe251afd469d3350af8a0d32fe]
 
 #### The Water Industry Act 1991
 
@@ -257,19 +257,19 @@ the scheme or committee shall continue to be so treated or, as the case may be, 
 
 [^c14550131]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-9b1a124efdd38a251231aee7a9034460]: Textual amendment: [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/3) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9b1a124efdd38a251231aee7a9034460]: Textual amendment: [Sch. 23 para. 3](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/3) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7d3d4297965d390604bc0e589269dbb1]: Textual amendment: [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/4) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-7d3d4297965d390604bc0e589269dbb1]: Textual amendment: [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/4) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
 
-[^key-132b864b038a54dce679c00ae650b57c]: Textual amendment: Sch. 23 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-132b864b038a54dce679c00ae650b57c]: Textual amendment: Sch. 23 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-2c18ab54b41cf3b93d732fdfa3869f86]: Textual amendment: [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/6) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-2c18ab54b41cf3b93d732fdfa3869f86]: Textual amendment: [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/6) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
 
 [^c14550161]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-b6225723862d1cdae7bb156226e0f9d2]: Textual amendment: [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/7) and cross-heading omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(9)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/9/a)
+[^c-b6225723862d1cdae7bb156226e0f9d2]: Textual amendment: [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/7) and cross-heading omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(9)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/9/a)
 
-[^key-e0726c1de399c5fe3d84ad76feba319c]: Textual amendment: [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/8) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(c)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/c); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-e0726c1de399c5fe3d84ad76feba319c]: Textual amendment: [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/8) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(c)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/c); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
 
 [^c14550171]: Marginal citation: [1906 c. 14](https://www.legislation.gov.uk/ukpga/1906/14).
 
@@ -277,7 +277,7 @@ the scheme or committee shall continue to be so treated or, as the case may be, 
 
 [^c14550191]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-706a7f04d1fd67ab3f59999e0ebc0cb1]: Textual amendment: [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/11) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(9)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/9/b)
+[^c-706a7f04d1fd67ab3f59999e0ebc0cb1]: Textual amendment: [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/11) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(9)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/9/b)
 
 [^c14550221]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -293,11 +293,11 @@ the scheme or committee shall continue to be so treated or, as the case may be, 
 
 [^c14550281]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).
 
-[^key-a6a350c477232a1ec8d79367731599b6]: Textual amendment: [Sch. 23 para. 15 and cross-heading](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/part/I/crossheading/the-local-government-finance-act-1988) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(9)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/9/c)
+[^c-a6a350c477232a1ec8d79367731599b6]: Textual amendment: [Sch. 23 para. 15 and cross-heading](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/part/I/crossheading/the-local-government-finance-act-1988) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(9)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/9/c)
 
 [^c14550311]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-6c833fbe251afd469d3350af8a0d32fe]: Textual amendment: [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/18) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(d)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/d); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-6c833fbe251afd469d3350af8a0d32fe]: Textual amendment: [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/1995/25/schedule/23/paragraph/18) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(11)(d)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/11/d); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
 
 [^c14550321]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 

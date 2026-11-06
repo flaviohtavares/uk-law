@@ -48,11 +48,11 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred upon him by sections 414 and 415 of the Insolvency Act 1986[^f00001], and with the sanction of the Treasury, makes the following Order:—
 
-## 1. Citation and commencement[^key-bab0e99db96f4a215c3ed16cc983362f]
+## 1. Citation and commencement[^c-bab0e99db96f4a215c3ed16cc983362f]
 
 This Order may be cited as the Insolvency Proceedings (Fees) (Amendment) Order 2008 and shall come into force on 6th April 2008 (“the commencement date”).
 
-## 2. Amendment to the Insolvency Proceedings (Fees) Order 2004[^key-c6e90d27da1c3ff6918fa8584ef8061c]
+## 2. Amendment to the Insolvency Proceedings (Fees) Order 2004[^c-c6e90d27da1c3ff6918fa8584ef8061c]
 
 (1) Subject to article 3 of this Order, the Insolvency Proceedings (Fees) Order 2004[^f00002] (“the principal Order”) is amended as set out below.
 
@@ -70,7 +70,7 @@ This Order may be cited as the Insolvency Proceedings (Fees) (Amendment) Order 2
 - (b) in respect of the fee designated as fee W1, for “£2,090” prescribed as the amount of that fee, there is substituted “£2,160”; and
 - (c) in respect of the fee designated as fee W2, in the description of the fee and the circumstances in which it is charged in the second column, for the figure “£100,000”, there is substituted “£80,000”.
 
-## 3. Transitional provisions[^key-f01ede6fb54a73884ab0833360ab7014]
+## 3. Transitional provisions[^c-f01ede6fb54a73884ab0833360ab7014]
 
 (1) The amendments made by article 2 of this Order shall apply as set out below.
 
@@ -118,10 +118,10 @@ No regulatory impact assessment has been prepared for this Order.
 
 [^f00001]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-bab0e99db96f4a215c3ed16cc983362f]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/714/article/1)
+[^c-bab0e99db96f4a215c3ed16cc983362f]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/714/article/1)
 
-[^key-c6e90d27da1c3ff6918fa8584ef8061c]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/714/article/1)
+[^c-c6e90d27da1c3ff6918fa8584ef8061c]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/714/article/1)
 
 [^f00002]: Footnote: [S.I. 2004/593](https://www.legislation.gov.uk/uksi/2004/593), as amended by [S.I. 2005/544](https://www.legislation.gov.uk/uksi/2005/544), [S.I. 2006/561](https://www.legislation.gov.uk/uksi/2006/561) and [S.I. 2007/521](https://www.legislation.gov.uk/uksi/2007/521).
 
-[^key-f01ede6fb54a73884ab0833360ab7014]: Commencement: Art. 3 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/714/article/1)
+[^c-f01ede6fb54a73884ab0833360ab7014]: Commencement: Art. 3 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/714/article/1)

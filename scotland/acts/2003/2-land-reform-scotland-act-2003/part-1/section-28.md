@@ -35,11 +35,11 @@ summary: ''
 
 (5) The local authority are entitled to be a party to proceedings for a declaration.
 
-(6) Where the person seeking a declaration is the owner of the land, it is not necessary to serve the application on any person but the local authority unless subsection (7A) applies[^key-99ba3006fd93db4f3f67195ba66e59de].
+(6) Where the person seeking a declaration is the owner of the land, it is not necessary to serve the application on any person but the local authority unless subsection (7A) applies[^c-99ba3006fd93db4f3f67195ba66e59de].
 
 (7) In any other case, the person seeking the declaration shall serve the application on the owner of the land.
 
-(7A)[^key-b4e2244cec7fead14e749b6a53723e8e] Where a declaration is being sought under subsection (1)(b)(i), the person seeking the declaration must also serve the application on the person whose exercise or purported exercise of access rights is in question.
+(7A)[^c-b4e2244cec7fead14e749b6a53723e8e] Where a declaration is being sought under subsection (1)(b)(i), the person seeking the declaration must also serve the application on the person whose exercise or purported exercise of access rights is in question.
 
 (8) Rules of court shall provide—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99ba3006fd93db4f3f67195ba66e59de]: Textual amendment: Words in s. 28(6) inserted (31.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 84(2)](https://www.legislation.gov.uk/asp/2016/18/section/84/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/372/regulation/4))
+[^c-99ba3006fd93db4f3f67195ba66e59de]: Textual amendment: Words in s. 28(6) inserted (31.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 84(2)](https://www.legislation.gov.uk/asp/2016/18/section/84/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/372/regulation/4))
 
-[^key-b4e2244cec7fead14e749b6a53723e8e]: Textual amendment: S. 28(7A) inserted (31.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 84(3)](https://www.legislation.gov.uk/asp/2016/18/section/84/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/372/regulation/4))
+[^c-b4e2244cec7fead14e749b6a53723e8e]: Textual amendment: S. 28(7A) inserted (31.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 84(3)](https://www.legislation.gov.uk/asp/2016/18/section/84/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/372/regulation/4))

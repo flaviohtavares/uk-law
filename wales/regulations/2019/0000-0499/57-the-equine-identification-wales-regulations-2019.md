@@ -49,7 +49,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 1 — Introductory
 
-### 1. Title, commencement and application[^key-8116c6db91b8fa2ee02232bbb4dce9f3]
+### 1. Title, commencement and application[^c-8116c6db91b8fa2ee02232bbb4dce9f3]
 
 (1) The title of these Regulations is the Equine Identification (Wales) Regulations 2019 and, except for regulation 13(3)(c), these Regulations come into force on 12 February 2019.
 
@@ -57,7 +57,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-bafbb89d8de69bad24f6882ee4bfc7ff]
+### 2. Interpretation[^c-bafbb89d8de69bad24f6882ee4bfc7ff]
 
 In these Regulations—
 
@@ -93,11 +93,11 @@ In these Regulations—
 
 ## PART 2 — Administrative and procedural provisions and requirements
 
-### 3. Competent authority and zootechnical authority for the purposes of the EU Regulation[^key-25ed4583c6c0cf5afe46c8f922df0a8c]
+### 3. Competent authority and zootechnical authority for the purposes of the EU Regulation[^c-25ed4583c6c0cf5afe46c8f922df0a8c]
 
 The Welsh Ministers are the competent authority and the zootechnical authority for the purposes of the EU Regulation.
 
-### 4. Transfer of ownership of equines[^key-d686fd701876b77e0ecdea2bc6181e78]
+### 4. Transfer of ownership of equines[^c-d686fd701876b77e0ecdea2bc6181e78]
 
 (1) A person who transfers the ownership of an equine to another person (the “transferee”) must provide that equine’s ID to the transferee at the time of the transfer.
 
@@ -108,13 +108,13 @@ The Welsh Ministers are the competent authority and the zootechnical authority f
   - (ii) the transferee’s name, address and contact details; and
 - (b) send the ID for the equine concerned to the issuing body.
 
-### 5. Identification of equines[^key-ae0522e492809013006581b27f5d5ce5]
+### 5. Identification of equines[^c-ae0522e492809013006581b27f5d5ce5]
 
 A person must not keep an equine unless it is identified in accordance with the EU Regulation and these Regulations.
 
-### 6. Applications for IDs[^key-f354ce1df99d590372938d708a325cf1]
+### 6. Applications for IDs[^c-f354ce1df99d590372938d708a325cf1]
 
-(1) For the purposes of Articles 3(3) and 11(2), the owner of an equine born in a member State or in the United Kingdom[^key-302fc8d2f8afea1e814e3a6ec4364fd9] and located on a holding in Wales must ensure that an application for an ID for that equine is received by an issuing body no later than 30 days prior to the final date for issuing an ID as set out in paragraph (2).
+(1) For the purposes of Articles 3(3) and 11(2), the owner of an equine born in a member State or in the United Kingdom[^c-302fc8d2f8afea1e814e3a6ec4364fd9] and located on a holding in Wales must ensure that an application for an ID for that equine is received by an issuing body no later than 30 days prior to the final date for issuing an ID as set out in paragraph (2).
 
 (2) The final date is the later of—
 
@@ -123,15 +123,15 @@ A person must not keep an equine unless it is identified in accordance with the 
 
 (3) An application must be accompanied by such fee specified by the issuing body to which it is submitted.
 
-### 7. Completion of existing IDs for equines imported into the Great Britain from a country other than Northern Ireland or a member State[^key-907106b49ad5d19789d6ab0d0d899d00][^key-60329c78a00daa3263c25375fc395642]
+### 7. Completion of existing IDs for equines imported into the Great Britain from a country other than Northern Ireland or a member State[^c-907106b49ad5d19789d6ab0d0d899d00][^c-60329c78a00daa3263c25375fc395642]
 
 The keeper must provide to the issuing body all information necessary to allow the body to complete an existing ID for the purposes of Article 15(2), subject to Article 15(3), so that it complies with the requirements of Article 7(2).
 
-### 8. Modification of identity details in IDs[^key-872d7b326da112b0121738f9d32f2802]
+### 8. Modification of identity details in IDs[^c-872d7b326da112b0121738f9d32f2802]
 
-If the owner[^key-b1b88ae1c79ef9a6319604af47131b40] believes that any identity details contained in the equine’s ID require modification or updating, whether pursuant to Article 27(1) or otherwise, the owner must ask the issuing body to modify or update the ID.
+If the owner[^c-b1b88ae1c79ef9a6319604af47131b40] believes that any identity details contained in the equine’s ID require modification or updating, whether pursuant to Article 27(1) or otherwise, the owner must ask the issuing body to modify or update the ID.
 
-### 9. Format and content of IDs[^key-631b8e4c1a7201eae5c1c7de9c8b7ee3]
+### 9. Format and content of IDs[^c-631b8e4c1a7201eae5c1c7de9c8b7ee3]
 
 (1) An issuing body—
 
@@ -156,40 +156,40 @@ complies with paragraph (2).
 
 (6) An ID or any part of it may be in an additional language.
 
-### 10. Verification of IDs[^key-be36c8e57b023b628e4e6cff6ccba886]
+### 10. Verification of IDs[^c-be36c8e57b023b628e4e6cff6ccba886]
 
 Upon request from the Welsh Ministers, an issuing body must verify whether an ID that has been, or which appears to have been, issued by it is unique, genuine and authentic.
 
-### 11. Requirement to provide ID to a veterinary surgeon treating an equine[^key-01abacc8bbe6eb17e89be6471a31baf9]
+### 11. Requirement to provide ID to a veterinary surgeon treating an equine[^c-01abacc8bbe6eb17e89be6471a31baf9]
 
 (1) This regulation applies if a veterinary surgeon is treating an equine.
 
 (2) Upon reasonable request from the veterinary surgeon, the responsible person must provide the equine’s ID to the veterinary surgeon without delay.
 
-### 12. Slaughter, death or loss of an equine[^key-a8eab1994cf4978f642acdd8fb67f4a2]
+### 12. Slaughter, death or loss of an equine[^c-a8eab1994cf4978f642acdd8fb67f4a2]
 
 (1) Where, in accordance with Article 34(1)(c)(ii), an official veterinarian, or a person acting under the supervision of an official veterinarian, is required to return an invalidated ID to the issuing body, the official veterinarian, or the person acting under his or her supervision, must return that ID to the issuing body as soon as is reasonably practicable.
 
 (2) Where, in accordance with Article 35(1), a keeper is required to return an ID to the issuing body, the keeper must return that ID to the issuing body within a period of 30 days of the death or loss of the equine.
 
-### 13. Transponders[^key-3326cc2f89f2700f9d22e1b304eb7233][^key-841c8a31f57ade350f7334113a5e7325]
+### 13. Transponders[^c-3326cc2f89f2700f9d22e1b304eb7233][^c-841c8a31f57ade350f7334113a5e7325]
 
-(1)[^key-3326cc2f89f2700f9d22e1b304eb7233] For the purposes of Article 18(3), the minimum qualification required for the person entrusted with the implantation of a transponder is membership of the Royal College of Veterinary Surgeons, and in this regulation that person is referred to as a “veterinary surgeon”.
+(1)[^c-3326cc2f89f2700f9d22e1b304eb7233] For the purposes of Article 18(3), the minimum qualification required for the person entrusted with the implantation of a transponder is membership of the Royal College of Veterinary Surgeons, and in this regulation that person is referred to as a “veterinary surgeon”.
 
-(2)[^key-3326cc2f89f2700f9d22e1b304eb7233] A veterinary surgeon who implants a transponder into an equine must take the measures set out in Articles 16 and 17(1) on behalf of an issuing body.
+(2)[^c-3326cc2f89f2700f9d22e1b304eb7233] A veterinary surgeon who implants a transponder into an equine must take the measures set out in Articles 16 and 17(1) on behalf of an issuing body.
 
 (3) For the purposes of Article 18(5), the responsible person must arrange for a veterinary surgeon to implant a transponder into an equine that is deemed to be identified in accordance with Articles 4(2) or 43(1) if—
 
-- (a)[^key-3326cc2f89f2700f9d22e1b304eb7233] a previously implanted and recorded transponder ceases to function;
-- (b)[^key-3326cc2f89f2700f9d22e1b304eb7233] the equine arrives in Wales having been subject to an alternative method of identity verification authorised by a member State or Northern Ireland[^key-001dfafb85ccab2ef50b9c5ac7e07a63] under Article 21; or
-- (c)[^key-841c8a31f57ade350f7334113a5e7325] the equine—
+- (a)[^c-3326cc2f89f2700f9d22e1b304eb7233] a previously implanted and recorded transponder ceases to function;
+- (b)[^c-3326cc2f89f2700f9d22e1b304eb7233] the equine arrives in Wales having been subject to an alternative method of identity verification authorised by a member State or Northern Ireland[^c-001dfafb85ccab2ef50b9c5ac7e07a63] under Article 21; or
+- (c)[^c-841c8a31f57ade350f7334113a5e7325] the equine—
   - (i) does not fall within sub-paragraphs (a) or (b);
   - (ii) has not already had a transponder implanted in compliance with the requirements or specifications as to transponders set out in the EU Regulation or [Commission Regulation (EC) No 504/2008](https://www.legislation.gov.uk/european/regulation/2008/0504)[^f00009] of 6 June 2008 implementing Council Directives [90/426/EEC](https://www.legislation.gov.uk/european/directive/1990/0426) and [90/427/EEC](https://www.legislation.gov.uk/european/directive/1990/0427) as regards methods for the identification of equidae; and
   - (iii) was born on or before 30 June 2009.
 
-(4)[^key-3326cc2f89f2700f9d22e1b304eb7233] A veterinary surgeon who implants a transponder into an equine must ensure that the transponder displays a code that is unique to the transponder.
+(4)[^c-3326cc2f89f2700f9d22e1b304eb7233] A veterinary surgeon who implants a transponder into an equine must ensure that the transponder displays a code that is unique to the transponder.
 
-### 14. Smart cards[^key-6c628c52bd9fed1374d1acb541ad1852]
+### 14. Smart cards[^c-6c628c52bd9fed1374d1acb541ad1852]
 
 (1) An equine in respect of which an ID has been issued may be moved or transported within Wales, or into Wales from other parts of the United Kingdom, without being accompanied by its ID if it is accompanied by a smart card issued in accordance with Article 25.
 
@@ -197,7 +197,7 @@ Upon request from the Welsh Ministers, an issuing body must verify whether an ID
 
 (3) In this regulation, “smart card” has the meaning given in Article 2.
 
-### 15. Databases[^key-6594444deb7f8f6182eefcc6e1292f48]
+### 15. Databases[^c-6594444deb7f8f6182eefcc6e1292f48]
 
 (1) An issuing body must provide the following information to the central database—
 
@@ -220,7 +220,7 @@ Upon request from the Welsh Ministers, an issuing body must verify whether an ID
 
 ## PART 3 — Equines living under wild or semi-wild conditions
 
-### 16. Exceptions in respect of certain wild or semi-wild equines[^key-68cf5765ec926f64741ab68e55f3caf3]
+### 16. Exceptions in respect of certain wild or semi-wild equines[^c-68cf5765ec926f64741ab68e55f3caf3]
 
 (1) The derogation in Article 13 applies in relation to equines that are—
 
@@ -233,18 +233,18 @@ Upon request from the Welsh Ministers, an issuing body must verify whether an ID
 
 (4) Wild or semi-wild equines living on a designated area must be identified with an ID when they are brought into domestic use.
 
-### 17. Requirement for ID and transponder for wild or semi-wild equines treated with veterinary medicinal products[^key-3d9b4bfafc85a14333ba44092e3b20bb]
+### 17. Requirement for ID and transponder for wild or semi-wild equines treated with veterinary medicinal products[^c-3d9b4bfafc85a14333ba44092e3b20bb]
 
 If a wild or semi-wild equine without an ID in a designated area is treated with any veterinary medicinal product, the responsible person must ensure that the equine has an ID and is implanted with a transponder—
 
 - (a) in accordance with the EU Regulation; and
 - (b) within 30 days of the treatment.
 
-### 18. Wild and semi-wild equines: requirement for ID for movement from designated area[^key-9532b12aa0df51a42ee4cb25ff41238d]
+### 18. Wild and semi-wild equines: requirement for ID for movement from designated area[^c-9532b12aa0df51a42ee4cb25ff41238d]
 
 Subject to regulation 19, the responsible person may not move a wild or semi-wild equine without an ID out of a designated area.
 
-### 19. Exception to requirement for ID: wild or semi-wild equines moved for welfare reasons or for slaughter[^key-b41ff57f571fb863aa7c035b196861b6]
+### 19. Exception to requirement for ID: wild or semi-wild equines moved for welfare reasons or for slaughter[^c-b41ff57f571fb863aa7c035b196861b6]
 
 (1) The responsible person may move a wild or semi-wild equine out of a designated area without an ID if—
 
@@ -257,7 +257,7 @@ Subject to regulation 19, the responsible person may not move a wild or semi-wil
 
 (2) The responsible person must ensure that an equine falling within paragraph (1)(b) is slaughtered within 7 days of the date shown on the sticker.
 
-### 20. Requirements for wild or semi-wild equines aged 12 months or over moved for slaughter[^key-a48e80aad3c4eca2b5ead7e4eb756ed9]
+### 20. Requirements for wild or semi-wild equines aged 12 months or over moved for slaughter[^c-a48e80aad3c4eca2b5ead7e4eb756ed9]
 
 (1) This regulation applies to a wild or semi-wild equine that is—
 
@@ -268,7 +268,7 @@ Subject to regulation 19, the responsible person may not move a wild or semi-wil
 
 (3) The responsible person must ensure that an equine falling within paragraph (1) is slaughtered within 7 days of the date shown on the sticker.
 
-### 21. Requirements for wild or semi-wild equines moved other than for slaughter[^key-27a2db8ec387fd3bfecccf8670687aaf]
+### 21. Requirements for wild or semi-wild equines moved other than for slaughter[^c-27a2db8ec387fd3bfecccf8670687aaf]
 
 (1) This regulation applies to a wild or semi-wild equine that is—
 
@@ -285,7 +285,7 @@ Subject to regulation 19, the responsible person may not move a wild or semi-wil
 
 ## PART 4 — Criminal offences
 
-### 22. General[^key-a4202c45fcc6868bf4187f2ad5f292f7]
+### 22. General[^c-a4202c45fcc6868bf4187f2ad5f292f7]
 
 (1) An owner is guilty of an offence if the owner breaches a prohibition, or fails to comply with a requirement, which applies to an owner (including an owner as a responsible person) in Parts 2 and 3 or in the EU Regulation.
 
@@ -297,11 +297,11 @@ Subject to regulation 19, the responsible person may not move a wild or semi-wil
 
 (5) A veterinary surgeon is not guilty of any offence for failing to enter information into, or failing to update, an ID if the veterinary surgeon has asked the responsible person for the ID for that purpose and the responsible person does not provide, or has not provided, the ID to the veterinary surgeon.
 
-### 23. Withholding ID from the responsible person[^key-6f88c8fdd35481f7d704b3ab7d9e8b10]
+### 23. Withholding ID from the responsible person[^c-6f88c8fdd35481f7d704b3ab7d9e8b10]
 
 A person is guilty of an offence if the person, without reasonable excuse, withholds an equine’s ID from the responsible person.
 
-### 24. Provision of false or misleading information[^key-65a61aa3c7adfa51096f5eb5ba92b205]
+### 24. Provision of false or misleading information[^c-65a61aa3c7adfa51096f5eb5ba92b205]
 
 A person is guilty of an offence if the person makes a statement or provides information that is false or misleading—
 
@@ -309,13 +309,13 @@ A person is guilty of an offence if the person makes a statement or provides inf
 - (b) in relation to the entering of information into an ID or the registration of an ID; or
 - (c) to any person acting in relation to the enforcement of these Regulations or the EU Regulation.
 
-### 25. Possession of a forged ID[^key-3c377036646da8c627f02505890e1385]
+### 25. Possession of a forged ID[^c-3c377036646da8c627f02505890e1385]
 
 (1) A person is guilty of an offence if the person is in possession of an ID knowing it to be a forgery.
 
 (2) Paragraph (1) does not apply if the person, at the time concerned, holds a forged ID simply for the purpose of destroying it or providing it to an enforcing authority, the police or the Welsh Ministers.
 
-### 26. Improper destruction, defacement or alteration, etc[^key-d956cd53c1002a7481ebec65252529bd]
+### 26. Improper destruction, defacement or alteration, etc[^c-d956cd53c1002a7481ebec65252529bd]
 
 A person is guilty of an offence if the person, otherwise than in accordance with any entitlement, obligation or requirement to do so in these Regulations or the EU Regulation—
 
@@ -323,7 +323,7 @@ A person is guilty of an offence if the person, otherwise than in accordance wit
 - (b) alters any entry in an ID; or
 - (c) defaces, obliterates or removes any mark applied under regulation 33, except under the written authority of an inspector.
 
-### 27. Offences relating to implantation of transponder[^key-2784279ffc679eb7f8bcec9a74021b1a]
+### 27. Offences relating to implantation of transponder[^c-2784279ffc679eb7f8bcec9a74021b1a]
 
 A person is guilty of an offence if the person knowingly—
 
@@ -332,7 +332,7 @@ A person is guilty of an offence if the person knowingly—
   - (ii) has previously been implanted into, or used for, another animal; or
 - (b) tampers with, or otherwise alters, a transponder with intent to deceive.
 
-### 28. Obstruction[^key-230185fd42557d702b37ca783c0b1f07]
+### 28. Obstruction[^c-230185fd42557d702b37ca783c0b1f07]
 
 A person is guilty of an offence if the person—
 
@@ -340,7 +340,7 @@ A person is guilty of an offence if the person—
 - (b) without reasonable cause, fails to give to an inspector acting in the course of enforcing these Regulations or the EU Regulation any assistance or information that the inspector may reasonably require for that purpose; or
 - (c) fails to produce a document, record or ID when required to do so to any person acting in the course of enforcing these Regulations or the EU Regulation.
 
-### 29. Offences by bodies corporate[^key-c516852023b8124aa5a6e18951d4082f]
+### 29. Offences by bodies corporate[^c-c516852023b8124aa5a6e18951d4082f]
 
 (1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -351,7 +351,7 @@ that person (as well as the body corporate) is also guilty of the offence.
 
 (2) In this regulation “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
 
-### 30. Offences by partnerships and unincorporated associations[^key-0e0facc338c414b120a79d0c08b71172]
+### 30. Offences by partnerships and unincorporated associations[^c-0e0facc338c414b120a79d0c08b71172]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or an unincorporated association may be brought in the name of the partnership or association.
 
@@ -372,17 +372,17 @@ that person (as well as the body corporate) is also guilty of the offence.
 
 ## PART 5 — Enforcement and penalties
 
-### 31. Enforcing authorities[^key-b1fe5bfb4ee351ab8abb4a27ced121af]
+### 31. Enforcing authorities[^c-b1fe5bfb4ee351ab8abb4a27ced121af]
 
 (1) These Regulations and the EU Regulation are enforced by the local authority.
 
 (2) The Welsh Ministers may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on the local authority under this regulation must be discharged by the Welsh Ministers and not by the local authority and in such cases, the Welsh Ministers will be the enforcing authority for the purposes of these Regulations.
 
-### 32. Appointment of inspectors[^key-124d2f1803ef116f5349b5ced9e16b78]
+### 32. Appointment of inspectors[^c-124d2f1803ef116f5349b5ced9e16b78]
 
 The Welsh Ministers or an enforcing authority may appoint a person (an “inspector”) for the purpose of enforcing these Regulations or the EU Regulation.
 
-### 33. Inspectors: powers of entry and general powers[^key-e99e41eef6397e35883e9e6fd4ea05e0]
+### 33. Inspectors: powers of entry and general powers[^c-e99e41eef6397e35883e9e6fd4ea05e0]
 
 (1) An inspector may, on producing a duly authenticated authorisation if required, enter any land, premises (excluding any premises not containing any equine and used only as a dwelling) or property for the purpose of administering and enforcing these Regulations or the EU Regulation; and, for the purposes of this regulation, “premises” includes any vehicle or container.
 
@@ -396,13 +396,13 @@ The Welsh Ministers or an enforcing authority may appoint a person (an “inspec
 
 (3) Where an inspector has entered any premises and it is not reasonably practicable to determine whether documents on those premises are relevant to these Regulations or the EU Regulation, the inspector may seize them to ascertain whether or not they are relevant.
 
-(4)[^key-b6ad9d6f609f97f098ad780a6c159279] The inspector may be accompanied by such other persons as the inspector considers necessary.
+(4)[^c-b6ad9d6f609f97f098ad780a6c159279] The inspector may be accompanied by such other persons as the inspector considers necessary.
 
-### 34. Criminal penalties[^key-43f41e570b51f67d5bc3b78b4d2bf9ca]
+### 34. Criminal penalties[^c-43f41e570b51f67d5bc3b78b4d2bf9ca]
 
 Subject to regulation 35, a person who is guilty of an offence under these Regulations is liable, on summary conviction, to a fine.
 
-### 35. Choosing to pursue civil sanctions instead of criminal penalties[^key-1ba9e21dfac7fb45779ce6f5494ac501]
+### 35. Choosing to pursue civil sanctions instead of criminal penalties[^c-1ba9e21dfac7fb45779ce6f5494ac501]
 
 (1) An enforcing authority may impose a civil sanction, or a combination of civil sanctions, under Part 6 against a person (an “offender”) if the authority is satisfied beyond reasonable doubt that the offender is guilty of an offence described in Part 4.
 
@@ -418,17 +418,17 @@ Subject to regulation 35, a person who is guilty of an offence under these Regul
 
 ## PART 6 — Civil sanctions
 
-### 36. Application[^key-b35ae29a78c55ba7c5240b0810189dbf]
+### 36. Application[^c-b35ae29a78c55ba7c5240b0810189dbf]
 
 This Part applies if an enforcing authority decides, under regulation 35(1), to impose a civil sanction, or a combination of civil sanctions, on an offender.
 
-### 37. Compliance notice[^key-8b852276bf22a8b23480d503a96f64c3]
+### 37. Compliance notice[^c-8b852276bf22a8b23480d503a96f64c3]
 
 (1) An enforcing authority may, by way of serving a written notice (a “compliance notice”) on the offender, require the offender to take such steps as the authority may specify, within such periods as may be specified, to secure that the act or omission giving rise to the offence does not continue or recur.
 
 (2) A compliance notice may not be served if a fixed monetary penalty notice has been served on the offender for the same act or omission.
 
-### 38. Non-compliance penalty notice[^key-fc07bd809abec0539f0f80edcd88314a]
+### 38. Non-compliance penalty notice[^c-fc07bd809abec0539f0f80edcd88314a]
 
 (1) If an offender fails to comply with a compliance notice, the enforcing authority may, by way of serving a written notice (a “non-compliance penalty notice”) on the offender, require the offender to pay to the authority such sum (the “non-compliance penalty”) as the authority may specify in respect of that failure to comply.
 
@@ -439,7 +439,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 
 (3) If the requirements of a compliance notice are met before the payment period specified in a related non-compliance penalty notice expires, liability to pay the non-compliance penalty is discharged.
 
-### 39. Fixed monetary penalty notice[^key-11027b268aec53ff6e16ec9df911dd92]
+### 39. Fixed monetary penalty notice[^c-11027b268aec53ff6e16ec9df911dd92]
 
 (1) An enforcing authority may, by way of serving a written notice (a “fixed monetary penalty notice”) on an offender, require the offender to pay to the authority such sum (the “fixed monetary penalty”) as the authority may specify in relation to the act or omission giving rise to the offence.
 
@@ -453,7 +453,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 - (a) the amount of the fixed monetary penalty, but this must not exceed the amount which corresponds with level 1 on the standard scale; and
 - (b) whether any discount is offered in relation to early payment and, if so, the amount of any such discount (but see regulation 41(2)).
 
-### 40. Enforcement costs recovery notice[^key-f76df7ddbe13d3bba0c653cba89eb34f]
+### 40. Enforcement costs recovery notice[^c-f76df7ddbe13d3bba0c653cba89eb34f]
 
 (1) An enforcing authority may, by way of serving a written notice (an “enforcement costs recovery notice”) on an offender on whom a compliance notice has been served, require the offender to pay the costs incurred by the authority in relation to the compliance notice up to the time of its service on the offender.
 
@@ -465,7 +465,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 
 (3) An enforcing authority must provide a detailed breakdown of the costs specified in an enforcement costs recovery notice if requested to do so by the offender.
 
-### 41. Information to be provided in or with a notice[^key-0b825c3d0856aa0c926a46dbd96d5a22]
+### 41. Information to be provided in or with a notice[^c-0b825c3d0856aa0c926a46dbd96d5a22]
 
 (1) If serving a notice, the enforcing authority must ensure that the notice contains, or is served with, the following information—
 
@@ -486,7 +486,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 - (c) a fixed monetary penalty notice; or
 - (d) an enforcement costs recovery notice.
 
-### 42. Withdrawing and re-issuing a notice[^key-cf5121ad5bb203c0144bff3c1ea406c6]
+### 42. Withdrawing and re-issuing a notice[^c-cf5121ad5bb203c0144bff3c1ea406c6]
 
 (1) An enforcing authority may, at any time, in writing, withdraw a notice served by the authority under this Part.
 
@@ -503,7 +503,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 
 (6) In this regulation, “notice” has the meaning given in regulation 41(3).
 
-### 43. Appeals[^key-cf44198e23dde3738a1670f062fc0284]
+### 43. Appeals[^c-cf44198e23dde3738a1670f062fc0284]
 
 (1) A person may appeal against the following decisions of an enforcing authority—
 
@@ -524,7 +524,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 
 (5) On appeal the First-tier Tribunal may cancel, confirm or vary the notice appealed against.
 
-### 44. Period within which payment is required and power to recover payments[^key-a37bd77d1a03b96ba5e783f1e8f7a4b4]
+### 44. Period within which payment is required and power to recover payments[^c-a37bd77d1a03b96ba5e783f1e8f7a4b4]
 
 (1) To the extent that a decision to impose a non-compliance penalty, a fixed monetary penalty, or a decision to recover enforcement costs is upheld on appeal, or if the appeal is withdrawn, the penalty or costs must be paid before the expiry of the period of 28 days (“the period in which payment is required”) beginning with the day on which the appeal is determined or withdrawn.
 
@@ -533,7 +533,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 - (a) as a civil debt; or
 - (b) on the order of the court, as if payable under a court order.
 
-### 45. Receipts[^key-9774a67e47609f98dccac1733b5c5942]
+### 45. Receipts[^c-9774a67e47609f98dccac1733b5c5942]
 
 (1) Subject to paragraph (2) and (3), an enforcing authority may retain sums (“receipts”) paid in respect of enforcement notices served under this Part.
 
@@ -553,7 +553,7 @@ This Part applies if an enforcing authority decides, under regulation 35(1), to 
 
 ## PART 7 — Miscellaneous
 
-### 46. Revocation of the Equine Identification (Wales) Regulations 2009[^key-1bddb551bd335b4914fa590904ff174c]
+### 46. Revocation of the Equine Identification (Wales) Regulations 2009[^c-1bddb551bd335b4914fa590904ff174c]
 
 The Equine Identification (Wales) Regulations 2009[^f00012] are revoked.
 
@@ -587,9 +587,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 to the European Communities Act 1972 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006. It was amended by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388). It is prospectively repealed by section 1 of the European Union (Withdrawal) Act 2018 from exit day (see section 20 of that Act).
 
-[^key-8116c6db91b8fa2ee02232bbb4dce9f3]: Commencement: Reg. 1 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-8116c6db91b8fa2ee02232bbb4dce9f3]: Commencement: Reg. 1 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-bafbb89d8de69bad24f6882ee4bfc7ff]: Commencement: Reg. 2 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-bafbb89d8de69bad24f6882ee4bfc7ff]: Commencement: Reg. 2 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
 [^f00004]: Footnote: OJ No. L.59, 3.3.2015, p. 1.
 
@@ -601,110 +601,110 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-25ed4583c6c0cf5afe46c8f922df0a8c]: Commencement: Reg. 3 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-25ed4583c6c0cf5afe46c8f922df0a8c]: Commencement: Reg. 3 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-d686fd701876b77e0ecdea2bc6181e78]: Commencement: Reg. 4 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-d686fd701876b77e0ecdea2bc6181e78]: Commencement: Reg. 4 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-ae0522e492809013006581b27f5d5ce5]: Commencement: Reg. 5 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-ae0522e492809013006581b27f5d5ce5]: Commencement: Reg. 5 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-f354ce1df99d590372938d708a325cf1]: Commencement: Reg. 6 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-f354ce1df99d590372938d708a325cf1]: Commencement: Reg. 6 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-302fc8d2f8afea1e814e3a6ec4364fd9]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/6/1) substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/wsi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/250/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/250/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-302fc8d2f8afea1e814e3a6ec4364fd9]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/6/1) substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/wsi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/250/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/250/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-907106b49ad5d19789d6ab0d0d899d00]: Commencement: Reg. 7 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-907106b49ad5d19789d6ab0d0d899d00]: Commencement: Reg. 7 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-60329c78a00daa3263c25375fc395642]: Textual amendment: Words in reg. 7 heading substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/uksi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/250/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/250/regulation/2/3) (as amended by [S.I. 2020/1240](https://www.legislation.gov.uk/uksi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60329c78a00daa3263c25375fc395642]: Textual amendment: Words in reg. 7 heading substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/uksi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/250/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/250/regulation/2/3) (as amended by [S.I. 2020/1240](https://www.legislation.gov.uk/uksi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-872d7b326da112b0121738f9d32f2802]: Commencement: Reg. 8 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-872d7b326da112b0121738f9d32f2802]: Commencement: Reg. 8 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-b1b88ae1c79ef9a6319604af47131b40]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/wsi/2019/57/regulation/8) substituted (28.3.2019) by [The Equine Identification (Wales) (Amendment) Regulations 2019 (S.I. 2019/614)](https://www.legislation.gov.uk/wsi/2019/614), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/614/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/614/regulation/2)
+[^c-b1b88ae1c79ef9a6319604af47131b40]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/wsi/2019/57/regulation/8) substituted (28.3.2019) by [The Equine Identification (Wales) (Amendment) Regulations 2019 (S.I. 2019/614)](https://www.legislation.gov.uk/wsi/2019/614), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/614/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/614/regulation/2)
 
-[^key-631b8e4c1a7201eae5c1c7de9c8b7ee3]: Commencement: Reg. 9 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-631b8e4c1a7201eae5c1c7de9c8b7ee3]: Commencement: Reg. 9 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-be36c8e57b023b628e4e6cff6ccba886]: Commencement: Reg. 10 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-be36c8e57b023b628e4e6cff6ccba886]: Commencement: Reg. 10 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-01abacc8bbe6eb17e89be6471a31baf9]: Commencement: Reg. 11 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-01abacc8bbe6eb17e89be6471a31baf9]: Commencement: Reg. 11 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-a8eab1994cf4978f642acdd8fb67f4a2]: Commencement: Reg. 12 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-a8eab1994cf4978f642acdd8fb67f4a2]: Commencement: Reg. 12 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-3326cc2f89f2700f9d22e1b304eb7233]: Commencement: Reg. 13(1)(2)(3)(a)(b)(4) in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-3326cc2f89f2700f9d22e1b304eb7233]: Commencement: Reg. 13(1)(2)(3)(a)(b)(4) in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-841c8a31f57ade350f7334113a5e7325]: Commencement: [Reg. 13(3)(c)](https://www.legislation.gov.uk/wsi/2019/57/regulation/13/3/c) in force at 12.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/2)
+[^c-841c8a31f57ade350f7334113a5e7325]: Commencement: [Reg. 13(3)(c)](https://www.legislation.gov.uk/wsi/2019/57/regulation/13/3/c) in force at 12.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/2)
 
-[^key-001dfafb85ccab2ef50b9c5ac7e07a63]: Textual amendment: Words in reg. 13(3)(b) substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/uksi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/250/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/250/regulation/2/4) (as substituted by [S.I. 2020/1240](https://www.legislation.gov.uk/uksi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-001dfafb85ccab2ef50b9c5ac7e07a63]: Textual amendment: Words in reg. 13(3)(b) substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/uksi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/250/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/250/regulation/2/4) (as substituted by [S.I. 2020/1240](https://www.legislation.gov.uk/uksi/2020/1240), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1240/regulation/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: OJ No. L 149, 7.6.2008, p.3.
 
-[^key-6c628c52bd9fed1374d1acb541ad1852]: Commencement: Reg. 14 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-6c628c52bd9fed1374d1acb541ad1852]: Commencement: Reg. 14 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-6594444deb7f8f6182eefcc6e1292f48]: Commencement: Reg. 15 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-6594444deb7f8f6182eefcc6e1292f48]: Commencement: Reg. 15 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-68cf5765ec926f64741ab68e55f3caf3]: Commencement: Reg. 16 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-68cf5765ec926f64741ab68e55f3caf3]: Commencement: Reg. 16 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-3d9b4bfafc85a14333ba44092e3b20bb]: Commencement: Reg. 17 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-3d9b4bfafc85a14333ba44092e3b20bb]: Commencement: Reg. 17 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-9532b12aa0df51a42ee4cb25ff41238d]: Commencement: Reg. 18 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-9532b12aa0df51a42ee4cb25ff41238d]: Commencement: Reg. 18 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-b41ff57f571fb863aa7c035b196861b6]: Commencement: Reg. 19 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-b41ff57f571fb863aa7c035b196861b6]: Commencement: Reg. 19 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-a48e80aad3c4eca2b5ead7e4eb756ed9]: Commencement: Reg. 20 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-a48e80aad3c4eca2b5ead7e4eb756ed9]: Commencement: Reg. 20 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-27a2db8ec387fd3bfecccf8670687aaf]: Commencement: Reg. 21 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-27a2db8ec387fd3bfecccf8670687aaf]: Commencement: Reg. 21 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-a4202c45fcc6868bf4187f2ad5f292f7]: Commencement: Reg. 22 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-a4202c45fcc6868bf4187f2ad5f292f7]: Commencement: Reg. 22 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-6f88c8fdd35481f7d704b3ab7d9e8b10]: Commencement: Reg. 23 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-6f88c8fdd35481f7d704b3ab7d9e8b10]: Commencement: Reg. 23 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-65a61aa3c7adfa51096f5eb5ba92b205]: Commencement: Reg. 24 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-65a61aa3c7adfa51096f5eb5ba92b205]: Commencement: Reg. 24 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-3c377036646da8c627f02505890e1385]: Commencement: Reg. 25 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-3c377036646da8c627f02505890e1385]: Commencement: Reg. 25 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-d956cd53c1002a7481ebec65252529bd]: Commencement: Reg. 26 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-d956cd53c1002a7481ebec65252529bd]: Commencement: Reg. 26 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-2784279ffc679eb7f8bcec9a74021b1a]: Commencement: Reg. 27 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-2784279ffc679eb7f8bcec9a74021b1a]: Commencement: Reg. 27 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-230185fd42557d702b37ca783c0b1f07]: Commencement: Reg. 28 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-230185fd42557d702b37ca783c0b1f07]: Commencement: Reg. 28 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-c516852023b8124aa5a6e18951d4082f]: Commencement: Reg. 29 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-c516852023b8124aa5a6e18951d4082f]: Commencement: Reg. 29 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-0e0facc338c414b120a79d0c08b71172]: Commencement: Reg. 30 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-0e0facc338c414b120a79d0c08b71172]: Commencement: Reg. 30 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
 [^f00010]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Relevant amending enactments are Schedule 6 to the Magistrates’ Court Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55) and Schedule 8 to the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23).
 
 [^f00011]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-b1fe5bfb4ee351ab8abb4a27ced121af]: Commencement: Reg. 31 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-b1fe5bfb4ee351ab8abb4a27ced121af]: Commencement: Reg. 31 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-124d2f1803ef116f5349b5ced9e16b78]: Commencement: Reg. 32 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-124d2f1803ef116f5349b5ced9e16b78]: Commencement: Reg. 32 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-e99e41eef6397e35883e9e6fd4ea05e0]: Commencement: Reg. 33 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-e99e41eef6397e35883e9e6fd4ea05e0]: Commencement: Reg. 33 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-b6ad9d6f609f97f098ad780a6c159279]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/wsi/2019/57/regulation/33/4) substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/uksi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/250/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/250/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6ad9d6f609f97f098ad780a6c159279]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/wsi/2019/57/regulation/33/4) substituted (W.) (31.12.2020) by [The Equine Identification (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/250)](https://www.legislation.gov.uk/uksi/2019/250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/250/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/250/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43f41e570b51f67d5bc3b78b4d2bf9ca]: Commencement: Reg. 34 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-43f41e570b51f67d5bc3b78b4d2bf9ca]: Commencement: Reg. 34 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-1ba9e21dfac7fb45779ce6f5494ac501]: Commencement: Reg. 35 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-1ba9e21dfac7fb45779ce6f5494ac501]: Commencement: Reg. 35 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-b35ae29a78c55ba7c5240b0810189dbf]: Commencement: Reg. 36 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-b35ae29a78c55ba7c5240b0810189dbf]: Commencement: Reg. 36 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-8b852276bf22a8b23480d503a96f64c3]: Commencement: Reg. 37 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-8b852276bf22a8b23480d503a96f64c3]: Commencement: Reg. 37 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-fc07bd809abec0539f0f80edcd88314a]: Commencement: Reg. 38 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-fc07bd809abec0539f0f80edcd88314a]: Commencement: Reg. 38 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-11027b268aec53ff6e16ec9df911dd92]: Commencement: Reg. 39 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-11027b268aec53ff6e16ec9df911dd92]: Commencement: Reg. 39 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-f76df7ddbe13d3bba0c653cba89eb34f]: Commencement: Reg. 40 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-f76df7ddbe13d3bba0c653cba89eb34f]: Commencement: Reg. 40 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-0b825c3d0856aa0c926a46dbd96d5a22]: Commencement: Reg. 41 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-0b825c3d0856aa0c926a46dbd96d5a22]: Commencement: Reg. 41 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-cf5121ad5bb203c0144bff3c1ea406c6]: Commencement: Reg. 42 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-cf5121ad5bb203c0144bff3c1ea406c6]: Commencement: Reg. 42 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-cf44198e23dde3738a1670f062fc0284]: Commencement: Reg. 43 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-cf44198e23dde3738a1670f062fc0284]: Commencement: Reg. 43 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-a37bd77d1a03b96ba5e783f1e8f7a4b4]: Commencement: Reg. 44 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-a37bd77d1a03b96ba5e783f1e8f7a4b4]: Commencement: Reg. 44 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-9774a67e47609f98dccac1733b5c5942]: Commencement: Reg. 45 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-9774a67e47609f98dccac1733b5c5942]: Commencement: Reg. 45 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
-[^key-1bddb551bd335b4914fa590904ff174c]: Commencement: Reg. 46 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
+[^c-1bddb551bd335b4914fa590904ff174c]: Commencement: Reg. 46 in force at 12.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/57/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2009/2470 (W. 199)](https://www.legislation.gov.uk/wsi/2009/2470).

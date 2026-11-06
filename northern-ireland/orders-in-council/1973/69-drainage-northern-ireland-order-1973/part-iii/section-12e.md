@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12E. Assistance in the preparation of an environmental statement[^key-86d9fb9a0eac092d7d47ff1b6dc50001]
+## 12E. Assistance in the preparation of an environmental statement[^c-86d9fb9a0eac092d7d47ff1b6dc50001]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86d9fb9a0eac092d7d47ff1b6dc50001]: Textual amendment: Arts. 12, 12ZA, 12A-12I substituted (16.5.2017) for arts. 12-12H by [The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/88)](https://www.legislation.gov.uk/nisr/2017/88), [regs. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1), [21](https://www.legislation.gov.uk/nisr/2017/88/regulation/21)
+[^c-86d9fb9a0eac092d7d47ff1b6dc50001]: Textual amendment: Arts. 12, 12ZA, 12A-12I substituted (16.5.2017) for arts. 12-12H by [The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/88)](https://www.legislation.gov.uk/nisr/2017/88), [regs. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1), [21](https://www.legislation.gov.uk/nisr/2017/88/regulation/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46A. Modification of the Social Services and Well-being (Wales) Act 2014 in relation to adoption[^key-0e4fa1a9b96ea6c2f1d1484a6bf9d8f4]
+## 46A. Modification of the Social Services and Well-being (Wales) Act 2014 in relation to adoption[^c-0e4fa1a9b96ea6c2f1d1484a6bf9d8f4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e4fa1a9b96ea6c2f1d1484a6bf9d8f4]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/46A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(8)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/8)
+[^c-0e4fa1a9b96ea6c2f1d1484a6bf9d8f4]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/46A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(8)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/8)

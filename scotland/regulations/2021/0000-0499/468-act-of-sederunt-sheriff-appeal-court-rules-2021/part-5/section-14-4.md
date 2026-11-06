@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14.4. Lodging unopposed motions[^key-2a368cfaf937f8c8769661eb1b97b305]
+## 14.4. Lodging unopposed motions[^c-2a368cfaf937f8c8769661eb1b97b305]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a368cfaf937f8c8769661eb1b97b305]: Commencement: Para. 14.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-2a368cfaf937f8c8769661eb1b97b305]: Commencement: Para. 14.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

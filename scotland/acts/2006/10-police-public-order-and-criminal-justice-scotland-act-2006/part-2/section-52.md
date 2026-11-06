@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-(1) The chief constable of the Police Service of Scotland[^key-eda2611de9d19a16ea7fce849e8ba5fe] may apply for a football banning order against any person—
+(1) The chief constable of the Police Service of Scotland[^c-eda2611de9d19a16ea7fce849e8ba5fe] may apply for a football banning order against any person—
 
-- (a)[^key-53293f9c81197fe911aac0d9a8f7291f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-53293f9c81197fe911aac0d9a8f7291f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-53293f9c81197fe911aac0d9a8f7291f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-53293f9c81197fe911aac0d9a8f7291f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An application under subsection (1) may be made to any sheriff—
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eda2611de9d19a16ea7fce849e8ba5fe]: Textual amendment: Words in s. 52(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(12)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/12/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-eda2611de9d19a16ea7fce849e8ba5fe]: Textual amendment: Words in s. 52(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(12)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/12/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-53293f9c81197fe911aac0d9a8f7291f]: Textual amendment: S. 52(1)(a)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(12)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/12/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-53293f9c81197fe911aac0d9a8f7291f]: Textual amendment: S. 52(1)(a)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(12)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/12/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

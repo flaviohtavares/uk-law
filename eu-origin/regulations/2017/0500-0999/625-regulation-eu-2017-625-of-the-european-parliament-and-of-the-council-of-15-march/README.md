@@ -27,7 +27,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-de5ff0f070322a5fc8297758922202da]Regulation (EU) 2017/625 of the European Parliament and of the Council
+[^c-de5ff0f070322a5fc8297758922202da]Regulation (EU) 2017/625 of the European Parliament and of the Council
 
 of 15 March 2017
 
@@ -459,7 +459,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 2 — Official controls and other official activities](section-article-2.md)
 - [Section Article 3 — Definitions](section-article-3.md)
 
-### TITLE II — OFFICIAL CONTROLS AND OTHER OFFICIAL ACTIVITIES ...[^key-6f47a0bf0bb5affa669d3c5df6df9234]
+### TITLE II — OFFICIAL CONTROLS AND OTHER OFFICIAL ACTIVITIES ...[^c-6f47a0bf0bb5affa669d3c5df6df9234]
 
 *Extent: E+W+S+N.I.*
 
@@ -531,7 +531,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 41 — Powers to adopt derogations from the condition for the mandatory accreditation of all the methods of laboratory analysis, test and diagnosis used by official laboratories](section-article-41.md)
 - [Section Article 42 — Temporary derogations from the conditions of the mandatory accreditation for official laboratories](section-article-42.md)
 
-#### CHAPTER V — Official controls on animals and goods entering Great Britain[^key-dddb056f37aeb5f02c3e0b93d34f4341]
+#### CHAPTER V — Official controls on animals and goods entering Great Britain[^c-dddb056f37aeb5f02c3e0b93d34f4341]
 
 *Extent: E+W+S+N.I.*
 
@@ -568,7 +568,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 63 — Suspension of the designation of border control posts](section-article-63.md)
 - [Section Article 64 — Minimum requirements for border control posts](section-article-64.md)
 
-##### Section III — Action in the event of suspicion of Non-compliance and of Non-compliance of animals and goods entering Great Britain[^key-1e485021388024dcb9621d278d0a6f42]
+##### Section III — Action in the event of suspicion of Non-compliance and of Non-compliance of animals and goods entering Great Britain[^c-1e485021388024dcb9621d278d0a6f42]
 
 *Extent: E+W+S+N.I.*
 
@@ -664,11 +664,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 114 — Annual reports by the Commission](section-article-114.md)
 - [Section Article 115 — Contingency plans for food and feed](section-article-115.md)
 
-### TITLE VI — ACTIVITIES IN RELATION TO CONTROLS[^key-5da2b018f062f96a1c958a2b6fb3b527]
+### TITLE VI — ACTIVITIES IN RELATION TO CONTROLS[^c-5da2b018f062f96a1c958a2b6fb3b527]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER I — Controls in third countries[^key-e7400f0a0101796cf3d8b84bf02378e9]
+#### CHAPTER I — Controls in third countries[^c-e7400f0a0101796cf3d8b84bf02378e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -682,7 +682,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 123 — Programme of ... controls in third countries](section-article-123.md)
 - [Section Article 124 — Third-country controls in Member States](section-article-124.md)
 
-#### CHAPTER II — Conditions for the entry into Great Britain of animals and goods[^key-8bb442cc2bffcf39c008f4c061b41a45]
+#### CHAPTER II — Conditions for the entry into Great Britain of animals and goods[^c-8bb442cc2bffcf39c008f4c061b41a45]
 
 *Extent: E+W+S+N.I.*
 
@@ -722,7 +722,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 139 — Penalties](section-article-139.md)
 - [Section Article 140 — Reporting of infringements](section-article-140.md)
 
-#### CHAPTER II — ... enforcement measures[^key-00ea6de8676a219d4c2bced71e6f74e3]
+#### CHAPTER II — ... enforcement measures[^c-00ea6de8676a219d4c2bced71e6f74e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -779,11 +779,11 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-47393d21d4122a69a43de52cc97ac5c5]...
+[^c-47393d21d4122a69a43de52cc97ac5c5]...
 
 ## Annotations
 
-[^key-de5ff0f070322a5fc8297758922202da]: Modification: Regulation applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
+[^c-de5ff0f070322a5fc8297758922202da]: Modification: Regulation applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
 
 [^f00001]: Footnote: [OJ C 67, 6.3.2014, p. 166](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2014.067.01.0166.01.ENG).
 
@@ -875,18 +875,18 @@ HAVE ADOPTED THIS REGULATION:
 
 [^f00045]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers ([OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG)).
 
-[^key-6f47a0bf0bb5affa669d3c5df6df9234]: Textual amendment: Words in [Title 2](https://www.legislation.gov.uk/eur/2017/625/title/II) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/4/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-6f47a0bf0bb5affa669d3c5df6df9234]: Textual amendment: Words in [Title 2](https://www.legislation.gov.uk/eur/2017/625/title/II) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/4/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-dddb056f37aeb5f02c3e0b93d34f4341]: Textual amendment: Words in [Title 2 Ch. 5](https://www.legislation.gov.uk/eur/2017/625/title/II/chapter/V) title substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/9/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-dddb056f37aeb5f02c3e0b93d34f4341]: Textual amendment: Words in [Title 2 Ch. 5](https://www.legislation.gov.uk/eur/2017/625/title/II/chapter/V) title substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/9/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-1e485021388024dcb9621d278d0a6f42]: Textual amendment: Words in [Title 2 Ch. 5 s. 3](https://www.legislation.gov.uk/eur/2017/625/title/II/chapter/V/section/III) title substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [12(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/12/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-1e485021388024dcb9621d278d0a6f42]: Textual amendment: Words in [Title 2 Ch. 5 s. 3](https://www.legislation.gov.uk/eur/2017/625/title/II/chapter/V/section/III) title substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [12(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/12/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-5da2b018f062f96a1c958a2b6fb3b527]: Textual amendment: [Title 6](https://www.legislation.gov.uk/eur/2017/625/title/VI) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-5da2b018f062f96a1c958a2b6fb3b527]: Textual amendment: [Title 6](https://www.legislation.gov.uk/eur/2017/625/title/VI) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-e7400f0a0101796cf3d8b84bf02378e9]: Textual amendment: [Title 6 Ch. 1](https://www.legislation.gov.uk/eur/2017/625/title/VI/chapter/I) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-e7400f0a0101796cf3d8b84bf02378e9]: Textual amendment: [Title 6 Ch. 1](https://www.legislation.gov.uk/eur/2017/625/title/VI/chapter/I) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-8bb442cc2bffcf39c008f4c061b41a45]: Textual amendment: Words in [Title 6 Ch. 2](https://www.legislation.gov.uk/eur/2017/625/title/VI/chapter/II) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [22(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/22/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-8bb442cc2bffcf39c008f4c061b41a45]: Textual amendment: Words in [Title 6 Ch. 2](https://www.legislation.gov.uk/eur/2017/625/title/VI/chapter/II) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [22(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/22/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-00ea6de8676a219d4c2bced71e6f74e3]: Textual amendment: Word in [Title 7 Ch. 2](https://www.legislation.gov.uk/eur/2017/625/title/VII/chapter/II) title omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [26(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/26/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-00ea6de8676a219d4c2bced71e6f74e3]: Textual amendment: Word in [Title 7 Ch. 2](https://www.legislation.gov.uk/eur/2017/625/title/VII/chapter/II) title omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [26(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/26/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-47393d21d4122a69a43de52cc97ac5c5]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/625/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(10)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/10) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-47393d21d4122a69a43de52cc97ac5c5]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/625/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(10)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/10) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

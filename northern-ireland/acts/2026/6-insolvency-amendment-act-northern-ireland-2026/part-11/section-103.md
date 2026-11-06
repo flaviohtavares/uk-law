@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Notice of proposed resolution for voluntary winding up[^key-f37ecdb7f8184c11b2c7f67bcce0fad5]
+## 103. Notice of proposed resolution for voluntary winding up[^c-f37ecdb7f8184c11b2c7f67bcce0fad5]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f37ecdb7f8184c11b2c7f67bcce0fad5]: Commencement: S. 103 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f37ecdb7f8184c11b2c7f67bcce0fad5]: Commencement: S. 103 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

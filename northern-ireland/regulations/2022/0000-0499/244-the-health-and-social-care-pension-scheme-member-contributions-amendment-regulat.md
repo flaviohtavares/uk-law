@@ -52,7 +52,7 @@ In accordance 3(5) of the 2014 Act the Regulations are made with the consent of 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-9a4c7c86be7a85a094831452b67ca82a]
+### 1. Citation and commencement[^c-9a4c7c86be7a85a094831452b67ca82a]
 
 (1) These Regulations may be cited as the Health and Social Care Pension Scheme (Member Contributions) (Amendment) Regulations (Northern Ireland) 2022.
 
@@ -60,11 +60,11 @@ In accordance 3(5) of the 2014 Act the Regulations are made with the consent of 
 
 ## PART 2 — Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
 
-### 2. General[^key-85bccbd1e1bad131714af60661672cdb]
+### 2. General[^c-85bccbd1e1bad131714af60661672cdb]
 
 The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00002] are amended as provided by regulations 3 to 8.
 
-### 3. Amendment of regulation 30[^key-4c216e2e7c9006958230739da5cabd89]
+### 3. Amendment of regulation 30[^c-4c216e2e7c9006958230739da5cabd89]
 
 (1) Regulation 30 (Members’ contributions: employees)[^f00003] is amended as provided by paragraphs (2) to (4).
 
@@ -111,7 +111,7 @@ The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f
 
 (4) In paragraph (4), for “Table” substitute “tables”.
 
-### 4. Amendment of regulation 31[^key-b7492e79c8837a2804b55923a5a0e1a3]
+### 4. Amendment of regulation 31[^c-b7492e79c8837a2804b55923a5a0e1a3]
 
 (1) Regulation 31 (Members’ contributions: practitioners and non-GP providers)[^f00004] is amended as provided by paragraphs (2) to (5).
 
@@ -158,7 +158,7 @@ The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f
 
 (6) In paragraph (10), for “the Table” substitute “the relevant table”.
 
-### 5. Amendment of regulation 37[^key-6f6d5f141326c4ecfc231912742690f0]
+### 5. Amendment of regulation 37[^c-6f6d5f141326c4ecfc231912742690f0]
 
 (1) Regulation 37 (Members’ contributions: supplementary: medical practitioners and non-GP providers) is amended as provided by paragraphs (2) and (3).
 
@@ -169,7 +169,7 @@ The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f
 
 (3) In paragraph (4), for “Table” substitute “relevant table”.
 
-### 6. Amendment of regulation 38[^key-8e85242a9761097133f927907bfd1b8e]
+### 6. Amendment of regulation 38[^c-8e85242a9761097133f927907bfd1b8e]
 
 (1) Regulation 38 (Members’ contributions: supplementary: dental practitioners) is amended as provided by paragraphs (2) and (3).
 
@@ -180,7 +180,7 @@ The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f
 
 (3) In paragraph (4), for “Table” substitute “relevant table in regulation 31”.
 
-### 7. Amendment of Schedule 9[^key-aecc343aa7c7c0ecbbbea8a3302fc4d4]
+### 7. Amendment of Schedule 9[^c-aecc343aa7c7c0ecbbbea8a3302fc4d4]
 
 (1) Schedule 9 (Determination of pensionable earnings: setting contribution rates) is amended as provided by paragraphs (2) to (6).
 
@@ -273,7 +273,7 @@ The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f
 
 (6) In sub-paragraph (7), for from “(6)” to the end substitute “(6) is to be taken as such amount as the employing authority considers appropriate for the current scheme year.”.
 
-### 8. Amendment of Schedule 10[^key-ddbf7696bc71666fcfacc8171cc936c8]
+### 8. Amendment of Schedule 10[^c-ddbf7696bc71666fcfacc8171cc936c8]
 
 In Schedule 10 (Practitioner contribution payments), in paragraph 4 (Information to be provided to scheme manager) after sub-paragraph (4) add—
 
@@ -313,24 +313,24 @@ They also provide a mechanism for the pensionable earnings bands that determine 
 
 [^f00001]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-9a4c7c86be7a85a094831452b67ca82a]: Commencement: Reg. 1 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-9a4c7c86be7a85a094831452b67ca82a]: Commencement: Reg. 1 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
-[^key-85bccbd1e1bad131714af60661672cdb]: Commencement: Reg. 2 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-85bccbd1e1bad131714af60661672cdb]: Commencement: Reg. 2 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
 [^f00002]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120) as amended by [S.R. 2016 No.384](https://www.legislation.gov.uk/nisr/2016/384) and [S.R 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62)
 
-[^key-4c216e2e7c9006958230739da5cabd89]: Commencement: Reg. 3 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-4c216e2e7c9006958230739da5cabd89]: Commencement: Reg. 3 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
 [^f00003]: Footnote: Regulation 30 as amended by [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62), regulation 14+
 
-[^key-b7492e79c8837a2804b55923a5a0e1a3]: Commencement: Reg. 4 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-b7492e79c8837a2804b55923a5a0e1a3]: Commencement: Reg. 4 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
 [^f00004]: Footnote: Regulation 31 as amended by [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62), regulation 15
 
-[^key-6f6d5f141326c4ecfc231912742690f0]: Commencement: Reg. 5 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-6f6d5f141326c4ecfc231912742690f0]: Commencement: Reg. 5 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
-[^key-8e85242a9761097133f927907bfd1b8e]: Commencement: Reg. 6 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-8e85242a9761097133f927907bfd1b8e]: Commencement: Reg. 6 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
-[^key-aecc343aa7c7c0ecbbbea8a3302fc4d4]: Commencement: Reg. 7 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-aecc343aa7c7c0ecbbbea8a3302fc4d4]: Commencement: Reg. 7 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
 
-[^key-ddbf7696bc71666fcfacc8171cc936c8]: Commencement: Reg. 8 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)
+[^c-ddbf7696bc71666fcfacc8171cc936c8]: Commencement: Reg. 8 in operation at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2)

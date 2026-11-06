@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## 19. Confidentiality in social security and child support cases[^key-f3276bb4077fbf78159b9e4a1ec8c8b0]
+## 19. Confidentiality in social security and child support cases[^c-f3276bb4077fbf78159b9e4a1ec8c8b0]
 
 (1) Paragraph (4) applies to an appeal against a decision of the First-tier Tribunal—
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f3276bb4077fbf78159b9e4a1ec8c8b0]: Textual amendment: Rule 19 substituted (20.10.2014) by [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [rules 1(b)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/b), [7](https://www.legislation.gov.uk/uksi/2014/2128/rule/7)
+[^c-f3276bb4077fbf78159b9e4a1ec8c8b0]: Textual amendment: Rule 19 substituted (20.10.2014) by [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [rules 1(b)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/b), [7](https://www.legislation.gov.uk/uksi/2014/2128/rule/7)
 
 [^c1943660]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 

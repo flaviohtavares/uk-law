@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 11 — NEW SCHEDULE 20 TO BE INSERTED INTO THE 2018 REGULATIONS[^key-48c2b21fdc8d8d4174f2201b7d251659][^key-7621ee71d4b387a47ea309e209ce93a3]
+## SCHEDULE 11 — NEW SCHEDULE 20 TO BE INSERTED INTO THE 2018 REGULATIONS[^c-48c2b21fdc8d8d4174f2201b7d251659][^c-7621ee71d4b387a47ea309e209ce93a3]
 
 *Extent: S*
 
@@ -634,9 +634,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-48c2b21fdc8d8d4174f2201b7d251659]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/11) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-48c2b21fdc8d8d4174f2201b7d251659]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/11) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-7621ee71d4b387a47ea309e209ce93a3]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/11) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-7621ee71d4b387a47ea309e209ce93a3]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/11) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00067]: Footnote: OJ L 327, 22.12.2000, p.1 as amended by Decision No [2455/2001/EC](https://www.legislation.gov.uk/european/decision/2455/2001) (OJ L331, 15.12.2001, p.1), [Directive 2008/32/EC](https://www.legislation.gov.uk/european/directive/2008/0032) (OJ L 81, 20.3.2008, p. 60), [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) (OJ L 348, 24.12.2008, p. 84), [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) (OJ L 140, 5.6. 2009, p. 114), Directive 2013/39 (OJ L 226, 24.8.2013, p. 1), [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) (OJ L 353, 28.12.2013, p. 8), and [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101) (OJ L 311, 31.10.2014 at p 32).
 

@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (ECSC Decision of 9th April 1979 on Supplementary Revenues) Order 1979 (revoked)[^key-0cbad80503b53726ccb165bd440da876]
+The European Communities (Definition of Treaties) (ECSC Decision of 9th April 1979 on Supplementary Revenues) Order 1979 (revoked)[^c-0cbad80503b53726ccb165bd440da876]
 
 Laid before Parliament in draft
 
@@ -41,24 +41,24 @@ Made
 
 Coming into Operation in accordance with Article 1
 
-[^key-0cbad80503b53726ccb165bd440da876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cbad80503b53726ccb165bd440da876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-0cbad80503b53726ccb165bd440da876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0cbad80503b53726ccb165bd440da876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0cbad80503b53726ccb165bd440da876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0cbad80503b53726ccb165bd440da876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0cbad80503b53726ccb165bd440da876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cbad80503b53726ccb165bd440da876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0cbad80503b53726ccb165bd440da876]
+## SCHEDULE[^c-0cbad80503b53726ccb165bd440da876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0cbad80503b53726ccb165bd440da876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cbad80503b53726ccb165bd440da876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0cbad80503b53726ccb165bd440da876]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1979/932) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cbad80503b53726ccb165bd440da876]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1979/932) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

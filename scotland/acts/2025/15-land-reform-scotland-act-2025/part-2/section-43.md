@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Succession to tenancy[^key-47518f6a09cf1f7f2486edf993192491]
+## 43. Succession to tenancy[^c-47518f6a09cf1f7f2486edf993192491]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47518f6a09cf1f7f2486edf993192491]: Commencement: S. 43 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-47518f6a09cf1f7f2486edf993192491]: Commencement: S. 43 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

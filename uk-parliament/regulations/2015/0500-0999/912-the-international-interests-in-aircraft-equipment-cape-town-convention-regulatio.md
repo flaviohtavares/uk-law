@@ -554,7 +554,7 @@ In the application of regulation 16(7) and regulations 27 to 34 to Scotland—
 
 (3) References in this regulation to the “insolvency office holder” are references to that person in an official, not in a personal capacity.
 
-(3A)[^key-0963aa26bfd028f25694b535182595e3] Where the insolvency-related event is the coming into force of a moratorium for a company under Part A1 of the Insolvency Act 1986, references in this regulation to the “insolvency office holder” are to the company.
+(3A)[^c-0963aa26bfd028f25694b535182595e3] Where the insolvency-related event is the coming into force of a moratorium for a company under Part A1 of the Insolvency Act 1986, references in this regulation to the “insolvency office holder” are to the company.
 
 (4) Unless and until the creditor is given the opportunity to take possession under paragraph (1)—
 
@@ -580,7 +580,7 @@ In the application of regulation 16(7) and regulations 27 to 34 to Scotland—
 
 (12) In the application of this regulation—
 
-- (a) the provisions of this regulation are in addition to the provisions of [^key-cd89483e64651f55bae7b67ab5550810]... Schedule B1 to that Act (in the case of administration);
+- (a) the provisions of this regulation are in addition to the provisions of [^c-cd89483e64651f55bae7b67ab5550810]... Schedule B1 to that Act (in the case of administration);
 - (b) paragraph 43 (moratorium on other legal process) and paragraph 44 (interim moratorium) of Schedule B1 do not apply after the end of the waiting period under this regulation;
 - (c) a payment made for the purpose of maintaining and preserving the aircraft object in accordance with paragraph (4) is an expense of administration;
 - (d) a payment made for the purpose of curing a default as mentioned in paragraph (6) for the purpose of retaining possession is an expense of administration;
@@ -588,11 +588,11 @@ In the application of regulation 16(7) and regulations 27 to 34 to Scotland—
 - (f) the end of the waiting period under this regulation is without prejudice to the continuation of insolvency proceedings in respect of assets to which these Regulations do not apply;
 - (g) the notice under paragraph 46 of Schedule B1 must include a statement that this regulation applies, together with a statement of the effect of the application of this regulation;
 - (h) the statement of the administrator's proposals under paragraph 49 of Schedule B1 must include details of what the administrator proposes in respect of assets to which this regulation applies;
-- (i)[^key-143df91d9a68ad7e6231b16107caac3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-143df91d9a68ad7e6231b16107caac3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) sections 254(1)(b) and 256(4) and (5) of the 1986 Act (individual voluntary arrangements: interim orders) do not apply after the end of the waiting period under this regulation.
 - (k) the statement of information under section 256(2)(b)(ii) must include a statement that this regulation applies, together with a statement of the effect of the application of this regulation.
 
-(12A)[^key-ccf87f15f84c6975d7de7cfefaee0dee] Where this regulation applies by virtue of a moratorium for a company coming into force under Part A1 of the Insolvency Act 1986—
+(12A)[^c-ccf87f15f84c6975d7de7cfefaee0dee] Where this regulation applies by virtue of a moratorium for a company coming into force under Part A1 of the Insolvency Act 1986—
 
 - (a) the provisions of this regulation are in addition to the provisions of Part A1 of that Act;
 - (b) the notices under section A8 of that Act must include a statement that this regulation applies, together with a statement of the effect of the application of this regulation;
@@ -921,7 +921,7 @@ Regulation 50
   ; and
 - (b) in paragraph 2(2) for “shall be served” substitute “ may be served by any reasonable electronic means or ”.
 
-#### 4. Air Navigation Order 2009[^key-8446dd7e32c39e727f32e390efd869c3]
+#### 4. Air Navigation Order 2009[^c-8446dd7e32c39e727f32e390efd869c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -975,15 +975,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22480981]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-0963aa26bfd028f25694b535182595e3]: Textual amendment: Reg. 37(3A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-0963aa26bfd028f25694b535182595e3]: Textual amendment: Reg. 37(3A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c22480991]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-cd89483e64651f55bae7b67ab5550810]: Textual amendment: Words in reg. 37(12)(a) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/3/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-cd89483e64651f55bae7b67ab5550810]: Textual amendment: Words in reg. 37(12)(a) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/3/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-143df91d9a68ad7e6231b16107caac3d]: Textual amendment: Reg. 37(12)(i) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(3)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/3/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-143df91d9a68ad7e6231b16107caac3d]: Textual amendment: Reg. 37(12)(i) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(3)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/3/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-ccf87f15f84c6975d7de7cfefaee0dee]: Textual amendment: Reg. 37(12A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-ccf87f15f84c6975d7de7cfefaee0dee]: Textual amendment: Reg. 37(12A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 55(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/55/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c22481001]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -993,7 +993,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22481541]: Marginal citation: [S.I. 2001/494](https://www.legislation.gov.uk/uksi/2001/494).
 
-[^key-8446dd7e32c39e727f32e390efd869c3]: Textual amendment: Sch. 5 para. 4 revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-8446dd7e32c39e727f32e390efd869c3]: Textual amendment: Sch. 5 para. 4 revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^c22481561]: Marginal citation: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038).
 

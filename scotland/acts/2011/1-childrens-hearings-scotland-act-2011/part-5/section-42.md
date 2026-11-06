@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Parental responsibilities and rights directions[^key-1390cf3019ee7a12a504f1ebbb15624e]
+## 42. Parental responsibilities and rights directions[^c-1390cf3019ee7a12a504f1ebbb15624e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1390cf3019ee7a12a504f1ebbb15624e]: Commencement: S. 42 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-1390cf3019ee7a12a504f1ebbb15624e]: Commencement: S. 42 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

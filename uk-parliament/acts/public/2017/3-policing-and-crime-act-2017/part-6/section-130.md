@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Authorised lending and possession of firearms for hunting etc[^c22719691][^key-7b43adec96362ba4b15a0be3ce67b8da]
+## 130. Authorised lending and possession of firearms for hunting etc[^c22719691][^c-7b43adec96362ba4b15a0be3ce67b8da]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c22719691]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2017/3/section/130) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7b43adec96362ba4b15a0be3ce67b8da]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2017/3/section/130) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/f)
+[^c-7b43adec96362ba4b15a0be3ce67b8da]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2017/3/section/130) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/f)

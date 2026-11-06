@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357VC. Relevant Northern Ireland IP profits: SMEs that are not Northern Ireland employers and large companies[^key-daff5b22d7ee6f395950067d2a1daa9d][^key-c671ab689499490f878b3b96fbade878]
+## 357VC. Relevant Northern Ireland IP profits: SMEs that are not Northern Ireland employers and large companies[^c-daff5b22d7ee6f395950067d2a1daa9d][^c-c671ab689499490f878b3b96fbade878]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) the company is a Northern Ireland company in the relevant period by virtue of the[^key-0c5b5e27a1487a2a6cd39f23bc6b0a1a] SME (election) condition or the large company condition in section 357KA, and
+- (a) the company is a Northern Ireland company in the relevant period by virtue of the[^c-0c5b5e27a1487a2a6cd39f23bc6b0a1a] SME (election) condition or the large company condition in section 357KA, and
 - (b) the trade is a qualifying trade by virtue of section 357KB(1) (trade other than excluded trade).
 
 (2) The company has “relevant Northern Ireland IP profits” for the period only if IP-related profits that (in accordance with Chapters 6 to 8) form part of its Northern Ireland profits or Northern Ireland losses for the period amount to Northern Ireland profits (rather than losses).
@@ -46,8 +46,8 @@ P is the IP-related profits.
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-c671ab689499490f878b3b96fbade878]: Textual amendment: Words in s. 357VC heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 13(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/13/2)
+[^c-c671ab689499490f878b3b96fbade878]: Textual amendment: Words in s. 357VC heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 13(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/13/2)
 
-[^key-0c5b5e27a1487a2a6cd39f23bc6b0a1a]: Textual amendment: Words in [s. 357VC(1)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357VC/1/a) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 13(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/13/3)
+[^c-0c5b5e27a1487a2a6cd39f23bc6b0a1a]: Textual amendment: Words in [s. 357VC(1)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357VC/1/a) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 13(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/13/3)

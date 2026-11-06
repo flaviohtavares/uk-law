@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## 33A. Amendments and additional grounds resulting in transfer of proceedings to the High Court in England and Wales[^key-f57563658f1de7bd822c8af12637f282]
+## 33A. Amendments and additional grounds resulting in transfer of proceedings to the High Court in England and Wales[^c-f57563658f1de7bd822c8af12637f282]
 
 (1) This rule applies only to judicial review proceedings arising under the law of England and Wales.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f57563658f1de7bd822c8af12637f282]: Textual amendment: [Rule 33A](https://www.legislation.gov.uk/uksi/2008/2698/rule/33A) inserted (17.10.2011) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2011 (S.I. 2011/2343)](https://www.legislation.gov.uk/uksi/2011/2343), [rules 1](https://www.legislation.gov.uk/uksi/2011/2343/article/1), [11](https://www.legislation.gov.uk/uksi/2011/2343/rule/11)
+[^c-f57563658f1de7bd822c8af12637f282]: Textual amendment: [Rule 33A](https://www.legislation.gov.uk/uksi/2008/2698/rule/33A) inserted (17.10.2011) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2011 (S.I. 2011/2343)](https://www.legislation.gov.uk/uksi/2011/2343), [rules 1](https://www.legislation.gov.uk/uksi/2011/2343/article/1), [11](https://www.legislation.gov.uk/uksi/2011/2343/rule/11)

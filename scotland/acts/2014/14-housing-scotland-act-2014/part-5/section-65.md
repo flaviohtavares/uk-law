@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Issue, renewal, transfer and transmission of a Part 1A site licence[^key-2825b078bec2f669d7ff0d12b6e7d2fe][^key-11ee476cb202c542c1543236be2f08dc]
+## 65. Issue, renewal, transfer and transmission of a Part 1A site licence[^c-2825b078bec2f669d7ff0d12b6e7d2fe][^c-11ee476cb202c542c1543236be2f08dc]
 
 *Extent: S*
 
@@ -148,6 +148,6 @@ After section 32C of the 1960 Act (inserted by section 64), insert—
 
 ## Annotations
 
-[^key-2825b078bec2f669d7ff0d12b6e7d2fe]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/14/section/65) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-2825b078bec2f669d7ff0d12b6e7d2fe]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/14/section/65) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-11ee476cb202c542c1543236be2f08dc]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/14/section/65) in force at 1.5.2017 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-11ee476cb202c542c1543236be2f08dc]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/14/section/65) in force at 1.5.2017 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

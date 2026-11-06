@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 235. Retention of proxies[^key-79969dbf9edcf3ca14ab42b329d91692]
+## 235. Retention of proxies[^c-79969dbf9edcf3ca14ab42b329d91692]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 8.4 of the 1991 Rules.
 
 ## Annotations
 
-[^key-79969dbf9edcf3ca14ab42b329d91692]: Commencement: Rule 235 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-79969dbf9edcf3ca14ab42b329d91692]: Commencement: Rule 235 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

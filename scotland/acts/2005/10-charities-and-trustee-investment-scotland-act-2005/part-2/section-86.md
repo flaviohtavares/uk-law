@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Local authority consents[^key-414164eaf77ae25f28c210324dc8342c]
+## 86. Local authority consents[^c-414164eaf77ae25f28c210324dc8342c]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 before the proposed date of the collection.
 
-(2) Before determining such an application, the local authority must consult the chief constable of the Police Service of Scotland[^key-c6342eb9180714237f808f948e5e7654] and may make other inquiries.
+(2) Before determining such an application, the local authority must consult the chief constable of the Police Service of Scotland[^c-c6342eb9180714237f808f948e5e7654] and may make other inquiries.
 
 (3) On such an application the local authority may—
 
@@ -74,6 +74,6 @@ including the reasons for the authority's decision and information about the org
 
 ## Annotations
 
-[^key-414164eaf77ae25f28c210324dc8342c]: Commencement: S. 86 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-414164eaf77ae25f28c210324dc8342c]: Commencement: S. 86 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
-[^key-c6342eb9180714237f808f948e5e7654]: Textual amendment: Words in [s. 86(2)](https://www.legislation.gov.uk/asp/2005/10/section/86/2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 27](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/27); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-c6342eb9180714237f808f948e5e7654]: Textual amendment: Words in [s. 86(2)](https://www.legislation.gov.uk/asp/2005/10/section/86/2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 27](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/27); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

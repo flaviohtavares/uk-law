@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Repeal of old authorising enactments[^key-6c86cb79fb935d266aacc3065d31a3e0]
+## 212. Repeal of old authorising enactments[^c-6c86cb79fb935d266aacc3065d31a3e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following shall cease to have effect—
 
 ## Annotations
 
-[^key-6c86cb79fb935d266aacc3065d31a3e0]: Commencement: S. 212 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-6c86cb79fb935d266aacc3065d31a3e0]: Commencement: S. 212 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

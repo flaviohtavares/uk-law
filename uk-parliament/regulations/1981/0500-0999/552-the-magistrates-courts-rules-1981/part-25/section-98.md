@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Form of summons[^key-d13999be7b96d2f72c2a8ebfc74e27c7]
+## 98. Form of summons[^c-d13999be7b96d2f72c2a8ebfc74e27c7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d13999be7b96d2f72c2a8ebfc74e27c7]: Textual amendment: [Rule 98](https://www.legislation.gov.uk/uksi/1981/552/rule/98) substituted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2019/1367/rule/7) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))
+[^c-d13999be7b96d2f72c2a8ebfc74e27c7]: Textual amendment: [Rule 98](https://www.legislation.gov.uk/uksi/1981/552/rule/98) substituted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2019/1367/rule/7) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))

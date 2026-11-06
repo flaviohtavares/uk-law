@@ -39,14 +39,14 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Introductory
 
-#### 1. Meaning of “steel undertaking”[^key-a1dba963b2d67003705921d3c269cca3]
+#### 1. Meaning of “steel undertaking”[^c-a1dba963b2d67003705921d3c269cca3]
 
 In this Act, “**steel undertaking**” means an undertaking that carries on a business consisting of or including—
 
 - (a) the manufacture or processing of steel, or
 - (b) the manufacture or processing of iron to be used solely for the purposes of, or in connection with, the manufacture of steel.
 
-#### 2. Exercise of principal transfer powers in the public interest[^key-a5f0498c72edd891bd5f6ef62888e7e6]
+#### 2. Exercise of principal transfer powers in the public interest[^c-a5f0498c72edd891bd5f6ef62888e7e6]
 
 (1) The Secretary of State may exercise a principal transfer power in respect of a steel undertaking only if the Secretary of State considers it necessary to do so in the public interest.
 
@@ -61,7 +61,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (a) section 4(1) (share transfer regulations);
 - (b) section 15(1) (property transfer regulations).
 
-#### 3. Sunset for exercise of principal transfer powers[^key-c6e8520c4f5e74d96fea96e4cb072c59]
+#### 3. Sunset for exercise of principal transfer powers[^c-c6e8520c4f5e74d96fea96e4cb072c59]
 
 (1) The Secretary of State may not exercise a principal transfer power after the end of the period of 2 years beginning with the day on which this Act is passed.
 
@@ -78,7 +78,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 ### Transfer of securities into public ownership
 
-#### 4. Share transfer regulations[^key-4ea1fa8c3367bb0dd411041b6c79a4fa]
+#### 4. Share transfer regulations[^c-4ea1fa8c3367bb0dd411041b6c79a4fa]
 
 (1) The Secretary of State may make regulations (“**share transfer regulations**”) which provide for securities issued by a specified steel undertaking to be transferred to—
 
@@ -97,7 +97,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) Share transfer regulations are subject to the negative procedure.
 
-#### 5. Meaning of “securities”[^key-b72ae81b8cb0d8e059e67dd772d14419]
+#### 5. Meaning of “securities”[^c-b72ae81b8cb0d8e059e67dd772d14419]
 
 (1) In this Part, “**securities**” includes anything falling within any of the following classes.
 
@@ -113,7 +113,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (4) Class 3: warrants or other instruments that entitle the holder to acquire anything in Class 1 or 2.
 
-#### 6. Effect of share transfer[^key-e16d0c7d5c37d094da5bafe0c12174f9]
+#### 6. Effect of share transfer[^c-e16d0c7d5c37d094da5bafe0c12174f9]
 
 (1) In this section, “**transfer**” means a transfer provided for by share transfer regulations.
 
@@ -130,7 +130,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) Share transfer regulations may extinguish rights to acquire securities falling within Class 1 or 2 (see section 5).
 
-#### 7. Continuity[^key-13fec864a808c05eb014fd497ede62fc]
+#### 7. Continuity[^c-13fec864a808c05eb014fd497ede62fc]
 
 (1) Share transfer regulations may provide for a transferee to be treated for any purpose connected with the transfer as the same person as the transferor.
 
@@ -149,7 +149,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (7) In this section, “**transfer date**” means the date or time on or at which share transfer regulations take effect (or the relevant part of those regulations takes effect).
 
-#### 8. Conversion and delisting[^key-5ccaee88a0316ac40571dd21e230e13c]
+#### 8. Conversion and delisting[^c-5ccaee88a0316ac40571dd21e230e13c]
 
 (1) Share transfer regulations may provide for securities to be converted from one form or class to another.
 
@@ -160,7 +160,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (a) [section 96](https://www.legislation.gov.uk/ukpga/2000/8/section/96) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents) (obligations of issuers of listed securities), and
 - (b) [paragraph 23](https://www.legislation.gov.uk/ukpga/2000/8/schedule/1ZA/paragraph/23)[(6)](https://www.legislation.gov.uk/ukpga/2000/8/schedule/1ZA/paragraph/23) of [Schedule 1ZA](https://www.legislation.gov.uk/ukpga/2000/8/schedule/1ZA) to [that Act](https://www.legislation.gov.uk/ukpga/2000/8/contents) (fees payable in respect of functions of the Financial Conduct Authority).
 
-#### 9. Directors and senior managers[^key-807848b3961c6ee88cc775bc4163d2dd]
+#### 9. Directors and senior managers[^c-807848b3961c6ee88cc775bc4163d2dd]
 
 (1) Share transfer regulations may enable the Secretary of State—
 
@@ -175,7 +175,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
   - (a) exercises executive functions within a specified steel undertaking, and
   - (b) is responsible, and directly accountable to the directors, for the day-to-day management of that undertaking.
 
-#### 10. Ancillary instruments[^key-2f91dcf8723d62fd1db949c4ac46b4c8]
+#### 10. Ancillary instruments[^c-2f91dcf8723d62fd1db949c4ac46b4c8]
 
 (1) Share transfer regulations may permit or require the execution, issue or delivery of an instrument.
 
@@ -193,7 +193,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (a) entitle a transferee to be registered in respect of transferred securities;
 - (b) require a person to effect registration.
 
-#### 11. Termination rights[^key-1aec5eeae0a095a0e10ba0e090ad71e4]
+#### 11. Termination rights[^c-1aec5eeae0a095a0e10ba0e090ad71e4]
 
 (1) Share transfer regulations may provide—
 
@@ -236,7 +236,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) For the purposes of subsection (5)(b), a thing is not done by virtue of regulations merely by virtue of being done under a contract or other agreement rights or obligations under which have been transferred by the regulations.
 
-#### 12. Supplemental share transfer regulations[^key-9fb0a4d18410d11ff0be173975d5535b]
+#### 12. Supplemental share transfer regulations[^c-9fb0a4d18410d11ff0be173975d5535b]
 
 (1) This section applies where the Secretary of State has made share transfer regulations under section 4 in respect of securities issued by a steel undertaking (“**the original regulations**”).
 
@@ -251,7 +251,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) The possibility of making supplemental share transfer regulations in reliance on subsection (2) is without prejudice to the possibility of making new regulations under section 4(1) (instead of regulations under subsection (2)).
 
-#### 13. Onward share transfer[^key-680252562081e04268a4bd65716c73cf]
+#### 13. Onward share transfer[^c-680252562081e04268a4bd65716c73cf]
 
 (1) This section applies where the Secretary of State has made share transfer regulations under section 4 in respect of securities issued by a steel undertaking (“**the original regulations**”).
 
@@ -268,7 +268,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) Subject to subsection (4), onward share transfer regulations are to be treated in the same way as any other share transfer regulations for all other purposes, including for the purposes of the application of a power under this Part.
 
-#### 14. Reverse share transfer[^key-3b9e82647911244f0c0be00bda05f77a]
+#### 14. Reverse share transfer[^c-3b9e82647911244f0c0be00bda05f77a]
 
 (1) This section applies where the Secretary of State has made share transfer regulations in respect of a steel undertaking under section 4 (“**the original regulations**”).
 
@@ -289,7 +289,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 ### Transfer of property into public ownership
 
-#### 15. Property transfer regulations[^key-0ab4c1db1c5786b70357d862d638e08c]
+#### 15. Property transfer regulations[^c-0ab4c1db1c5786b70357d862d638e08c]
 
 (1) The Secretary of State may make regulations (“**property transfer regulations**”) providing for property, rights or liabilities of a specified steel undertaking to be transferred to—
 
@@ -310,7 +310,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) Property transfer regulations are subject to the negative procedure.
 
-#### 16. Effect of property transfer[^key-f65fdf6cd0dd9c2065a11aa5a7d873dc]
+#### 16. Effect of property transfer[^c-f65fdf6cd0dd9c2065a11aa5a7d873dc]
 
 (1) In this section, “**transfer**” means a transfer provided for by property transfer regulations.
 
@@ -348,7 +348,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (10) In subsection (8), references to the transferor are references to the transferor under the property transfer regulations.
 
-#### 17. Transferable property[^key-2ebf26b8efab219c2c2688eec65f4fa4]
+#### 17. Transferable property[^c-2ebf26b8efab219c2c2688eec65f4fa4]
 
 (1) Property transfer regulations may transfer any property, rights or liabilities including, in particular—
 
@@ -360,7 +360,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (2) In this section and section 18, “**transfer date**” means the date or time on or at which property transfer regulations take effect (or the relevant part of those regulations takes effect).
 
-#### 18. Continuity[^key-bd0ce416096cba1bf9153abf306f2b28]
+#### 18. Continuity[^c-bd0ce416096cba1bf9153abf306f2b28]
 
 (1) Property transfer regulations may provide—
 
@@ -389,7 +389,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (9) Obligations imposed under subsection (8) are enforceable as if created by contract between the transferor and the transferee.
 
-#### 19. Directors and senior managers[^key-3c5ea7744e82b4108d21cf9092778d2b]
+#### 19. Directors and senior managers[^c-3c5ea7744e82b4108d21cf9092778d2b]
 
 (1) Property transfer regulations may enable the Secretary of State—
 
@@ -404,7 +404,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
   - (a) exercises executive functions within a specified steel undertaking, and
   - (b) is responsible, and directly accountable to the directors, for the day-to-day management of that undertaking.
 
-#### 20. Company names[^key-752f8a79ae85fc702790cc6999e9a519]
+#### 20. Company names[^c-752f8a79ae85fc702790cc6999e9a519]
 
 (1) This section applies where a transferor under property transfer regulations is a company.
 
@@ -426,7 +426,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) In this section, “**the registrar of companies**” has the meaning given by [section 1060](https://www.legislation.gov.uk/ukpga/2006/46/section/1060)[(3)](https://www.legislation.gov.uk/ukpga/2006/46/section/1060) of the [Companies Act 2006](https://www.legislation.gov.uk/ukpga/2006/46/contents).
 
-#### 21. Licences[^key-6d3aa02ef06505224d7309df83425fce]
+#### 21. Licences[^c-6d3aa02ef06505224d7309df83425fce]
 
 (1) A licence in respect of anything transferred by property transfer regulations continues to have effect despite the transfer.
 
@@ -436,7 +436,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (4) In this section, “**licence**” includes permission and approval and any other permissive document in respect of anything transferred.
 
-#### 22. Termination rights[^key-9af13a03853c7f7a6eee2d5081378577]
+#### 22. Termination rights[^c-9af13a03853c7f7a6eee2d5081378577]
 
 (1) Property transfer regulations may provide—
 
@@ -479,7 +479,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) For the purposes of subsection (5)(b), a thing is not done by virtue of regulations merely by virtue of being done under a contract or other agreement rights or obligations under which have been transferred by the regulations.
 
-#### 23. Foreign property[^key-b0e5c723ecfe48c0fa6a14b5d08f1e98]
+#### 23. Foreign property[^c-b0e5c723ecfe48c0fa6a14b5d08f1e98]
 
 (1) This section applies where property transfer regulations transfer foreign property.
 
@@ -513,7 +513,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (10) In this section, “**foreign law**” means the law of a country or territory outside the United Kingdom.
 
-#### 24. Property transfer regulations: delisting[^key-922da4d6eba0cac19680006f0776ca9f]
+#### 24. Property transfer regulations: delisting[^c-922da4d6eba0cac19680006f0776ca9f]
 
 (1) Property transfer regulations may provide for the listing of securities, under [section 74](https://www.legislation.gov.uk/ukpga/2000/8/section/74) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents) (the official list), to be discontinued or suspended.
 
@@ -522,7 +522,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (a) [section 96](https://www.legislation.gov.uk/ukpga/2000/8/section/96) of the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents) (obligations of issuers of listed securities), and
 - (b) [paragraph 23](https://www.legislation.gov.uk/ukpga/2000/8/schedule/1ZA/paragraph/23)[(6)](https://www.legislation.gov.uk/ukpga/2000/8/schedule/1ZA/paragraph/23) of [Schedule 1ZA](https://www.legislation.gov.uk/ukpga/2000/8/schedule/1ZA) to [that Act](https://www.legislation.gov.uk/ukpga/2000/8/contents) (fees payable in respect of functions of the Financial Conduct Authority).
 
-#### 25. Supplemental property transfer regulations[^key-411b9a67a09154e366a5ac291100dc6f]
+#### 25. Supplemental property transfer regulations[^c-411b9a67a09154e366a5ac291100dc6f]
 
 (1) This section applies where the Secretary of State has made property transfer regulations under section 15 in respect of property, rights or liabilities of a steel undertaking (the “**original regulations**”).
 
@@ -537,7 +537,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) The possibility of making supplemental property transfer regulations in reliance on subsection (2) is without prejudice to the possibility of making of new regulations in accordance with section 15 (and not in reliance on subsection (2) above).
 
-#### 26. Onward property transfer[^key-8aae9b459726a8c6762a0a335d7aa4f8]
+#### 26. Onward property transfer[^c-8aae9b459726a8c6762a0a335d7aa4f8]
 
 (1) This section applies where the Secretary of State has made property transfer regulations in respect of a steel undertaking under section 15 (“**the original regulations**”).
 
@@ -554,7 +554,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) Subject to subsection (5), onward property transfer regulations are to be treated in the same way as any other property transfer regulations for all other purposes, including for the purposes of the application of a power under this Part.
 
-#### 27. Reverse property transfer[^key-80f288c5788727a246d56af5e04d2e56]
+#### 27. Reverse property transfer[^c-80f288c5788727a246d56af5e04d2e56]
 
 (1) This section applies where the Secretary of State has made property transfer regulations in respect of a steel undertaking under section 15 (“**the original regulations**”).
 
@@ -573,7 +573,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (7) Reverse property transfer regulations are to be treated in the same way as any other property transfer regulations for all other purposes, including for the purposes of the application of a power under this Part.
 
-#### 28. Property transfer connected with share transfer[^key-392423aaa8a2712233fdbb805f2b93a7]
+#### 28. Property transfer connected with share transfer[^c-392423aaa8a2712233fdbb805f2b93a7]
 
 (1) This section applies where the Secretary of State has made share transfer regulations under section 4 in respect of securities issued by a steel undertaking.
 
@@ -588,7 +588,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) Section 25 (power to make supplemental property transfer regulations) applies to connected property transfer regulations as it applies to property transfer regulations made under section 15.
 
-#### 29. Connected reverse property transfer regulations[^key-f9872fcb230d5b1910db2fcbda8d8d5f]
+#### 29. Connected reverse property transfer regulations[^c-f9872fcb230d5b1910db2fcbda8d8d5f]
 
 (1) This section applies where the Secretary of State has made connected property transfer regulations under section 28(2) (“**the original regulations**”).
 
@@ -608,7 +608,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) Section 25 (power to make supplemental property transfer regulations) applies to connected reverse property transfer regulations as it applies to property transfer regulations made under section 15.
 
-#### 30. Creation of liabilities[^key-328aff024e552affcc4c7d57812bc101]
+#### 30. Creation of liabilities[^c-328aff024e552affcc4c7d57812bc101]
 
 (1) The provision that may be made by property transfer regulations includes provision for the creation of liabilities.
 
@@ -616,7 +616,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 ### Connected persons
 
-#### 31. Exercise of transfer powers in respect of connected persons[^key-dcf0bb3992d39260d7d2d9667bab1adb]
+#### 31. Exercise of transfer powers in respect of connected persons[^c-dcf0bb3992d39260d7d2d9667bab1adb]
 
 (1) The Secretary of State may exercise a principal transfer power in respect of a person who is connected with a steel undertaking (a “connected person”).
 
@@ -639,7 +639,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) Subject to subsection (5), any provision of this Act which refers to a power conferred by this Part or to regulations made in the exercise of such a power has effect, in its application for the purposes of this section in respect of a connected person, as if any reference in that provision to a steel undertaking were a reference to the connected person.
 
-#### 32. Meaning of “responsible person” and “associate” in section 31[^key-079fa0c946989b148ef68a05bba39d23]
+#### 32. Meaning of “responsible person” and “associate” in section 31[^c-079fa0c946989b148ef68a05bba39d23]
 
 (1) This section applies for the purposes of section 31.
 
@@ -712,7 +712,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 ### Continuity obligations
 
-#### 33. General continuity obligations: property transfers[^key-01f08a44b09cac6251128be5d726f6a9]
+#### 33. General continuity obligations: property transfers[^c-01f08a44b09cac6251128be5d726f6a9]
 
 (1) This section applies where all or part of the business of a steel undertaking (the “residual steel undertaking”) has been transferred in accordance with property transfer regulations.
 
@@ -751,7 +751,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (d) composition with creditors;
 - (e) a scheme of arrangement.
 
-#### 34. Special continuity obligations: property transfers[^key-cd02a737187f342b991976420c4b62e8]
+#### 34. Special continuity obligations: property transfers[^c-cd02a737187f342b991976420c4b62e8]
 
 (1) The Secretary of State may—
 
@@ -774,7 +774,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) For the purposes of subsection (1), “**third party**” includes a group company.
 
-#### 35. Continuity obligations: onward property transfers[^key-8b45783387da2b57449a8c40fedd19f3]
+#### 35. Continuity obligations: onward property transfers[^c-8b45783387da2b57449a8c40fedd19f3]
 
 (1) In this section—
 
@@ -810,7 +810,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (a) reading any reference to transferred business as if it were a reference to the business transferred by means of the onward transfer, and
 - (b) with any other necessary modification.
 
-#### 36. General continuity obligation: share transfers[^key-22942e0135ccda0a76353a2d02dd5ddb]
+#### 36. General continuity obligation: share transfers[^c-22942e0135ccda0a76353a2d02dd5ddb]
 
 (1) This section applies where all or part of the ownership of a steel undertaking (the “transferred steel undertaking”) has been transferred in accordance with share transfer regulations.
 
@@ -847,7 +847,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (d) composition with creditors;
 - (e) a scheme of arrangement.
 
-#### 37. Special continuity obligations: share transfers[^key-b30fa2960d6d6be44361967566098db1]
+#### 37. Special continuity obligations: share transfers[^c-b30fa2960d6d6be44361967566098db1]
 
 (1) The Secretary of State may—
 
@@ -868,7 +868,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) For the purposes of subsection (1), “**third party**” includes a former group company.
 
-#### 38. Continuity obligations: onward share transfers[^key-02e69815cabb8699177cd8b86196b553]
+#### 38. Continuity obligations: onward share transfers[^c-02e69815cabb8699177cd8b86196b553]
 
 (1) In this section, “**onward transfer**” means a transfer (whether or not under a power in this Part) of securities issued by a steel undertaking where—
 
@@ -899,7 +899,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (6) Sections 36(4) to (9) and 37(2) and (3) apply to an obligation as applied under subsection (2) with any necessary modification.
 
-#### 39. Continuity obligations: consideration and terms[^key-dfa394f3c72db1c68a8b2986f33eaf45]
+#### 39. Continuity obligations: consideration and terms[^c-dfa394f3c72db1c68a8b2986f33eaf45]
 
 (1) The Secretary of State may by regulations specify matters which are to be or not to be considered in determining—
 
@@ -913,7 +913,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 - (a) the affirmative procedure, or
 - (b) if the Secretary of State thinks it necessary to make regulations without using the affirmative procedure, the made affirmative procedure.
 
-#### 40. Continuity obligations: termination[^key-50c7a3837c911504988c93d150c26508]
+#### 40. Continuity obligations: termination[^c-50c7a3837c911504988c93d150c26508]
 
 (1) The Secretary of State may by notice terminate an obligation arising under section 33 or 36.
 
@@ -926,7 +926,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 ### Further provision relating to transfers
 
-#### 41. Suspension of obligations[^key-2f199ab56ee89383111008e842d5c9e1]
+#### 41. Suspension of obligations[^c-2f199ab56ee89383111008e842d5c9e1]
 
 (1) The Secretary of State may suspend obligations to make a payment, or delivery, under a contract where one of the parties to the contract is a steel undertaking in respect of which the Secretary of State is exercising a transfer power.
 
@@ -942,7 +942,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (5) In this section and sections 42 and 43, “**business day**” means any day other than a Saturday, a Sunday, or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
-#### 42. Restriction of security interests[^key-485f6ccb6af68caef0fda6bbc5c0e877]
+#### 42. Restriction of security interests[^c-485f6ccb6af68caef0fda6bbc5c0e877]
 
 (1) Where the Secretary of State is exercising a transfer power in respect of a steel undertaking, the Secretary of State may suspend the rights of a secured creditor of the steel undertaking to enforce any security interest the creditor has in relation to any assets of the steel undertaking.
 
@@ -955,7 +955,7 @@ In this Act, “**steel undertaking**” means an undertaking that carries on a 
 
 (4) For the purposes of this section, “**security interest**” means an interest or right held for the purpose of securing the payment of money or the performance of any other obligation.
 
-#### 43. Suspension of termination rights[^key-7a3ab0f669369be5538591f5d9fb61a4]
+#### 43. Suspension of termination rights[^c-7a3ab0f669369be5538591f5d9fb61a4]
 
 (1) The Secretary of State may suspend the termination right of any party to a qualifying contract.
 
@@ -988,7 +988,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 - (b) a right to accelerate obligations, or any similar provision that suspends, modifies or extinguishes an obligation of a party to the contract, or
 - (c) a provision that prevents an obligation from arising under the contract.
 
-#### 44. Pensions[^key-9fe0b1c5c9df3e5e3a4338bc9b665354]
+#### 44. Pensions[^c-9fe0b1c5c9df3e5e3a4338bc9b665354]
 
 (1) Share transfer regulations or property transfer regulations may make provision—
 
@@ -1010,7 +1010,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 
 (5) In subsection (4)(b), the reference to a group company of a steel undertaking is a reference to anything that is or was a group undertaking in relation to the steel undertaking within the meaning given by section 1161(5) of the Companies Act 2006.
 
-#### 45. Enforcement[^key-bdceb90d451c362306ecaf7442f9d6da]
+#### 45. Enforcement[^c-bdceb90d451c362306ecaf7442f9d6da]
 
 (1) The Secretary of State may by regulations make provision for the enforcement of obligations imposed by or under share transfer regulations or property transfer regulations.
 
@@ -1022,7 +1022,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 
 (3) Regulations under this section are subject to the made affirmative procedure.
 
-#### 46. Detrimental transactions[^key-d8f3ec07557bef461b41a9f01bcb209c]
+#### 46. Detrimental transactions[^c-d8f3ec07557bef461b41a9f01bcb209c]
 
 (1) The court may, on an application by the Secretary of State, make an order under this section if—
 
@@ -1066,7 +1066,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 - “**relevant date**” means the date on which the regulations made in exercise of the transfer power in question come into force;
 - “**relevant period**” means the period of 6 months ending with the relevant date (and that period may include a period falling before the day on which this Act is passed).
 
-#### 47. Disputes[^key-051020e11563e4b76de4d44071a66b0e]
+#### 47. Disputes[^c-051020e11563e4b76de4d44071a66b0e]
 
 (1) Share transfer regulations or property transfer regulations may include provision for disputes to be determined in a specified manner.
 
@@ -1075,7 +1075,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 - (a) confer jurisdiction on a court or tribunal;
 - (b) confer discretion on a specified person.
 
-#### 48. Tax[^key-1e1585ef655e3b310ae832557b072c7a]
+#### 48. Tax[^c-1e1585ef655e3b310ae832557b072c7a]
 
 (1) The Treasury may by regulations make provision about the fiscal consequences of the exercise of a transfer power.
 
@@ -1121,7 +1121,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 
 (8) Regulations under this section may not be made unless a draft has been laid before and approved by resolution of the House of Commons.
 
-#### 49. Recognition and enforcement of foreign judgments[^key-488048cea22703a859ce9a3e6035fc63]
+#### 49. Recognition and enforcement of foreign judgments[^c-488048cea22703a859ce9a3e6035fc63]
 
 (1) A trust, liability or other encumbrance that is extinguished by share transfer regulations or property transfer regulations cannot be recognised or enforced in the United Kingdom under a relevant rule of law.
 
@@ -1130,7 +1130,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 - (a) is not set out in legislation, and
 - (b) provides for the recognition or enforcement of a judgment given by a court or tribunal outside the United Kingdom.
 
-#### 50. Power to modify law in connection with share or property transfers[^key-b1cb58443d2b888225d46b07be1fe4d4]
+#### 50. Power to modify law in connection with share or property transfers[^c-b1cb58443d2b888225d46b07be1fe4d4]
 
 (1) The Secretary of State may, by regulations, modify the law for the purpose of enabling the powers conferred on the Secretary of State by this Part to be used effectively.
 
@@ -1150,7 +1150,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 
 ### Interpretation
 
-#### 51. Interpretation of Part 1[^key-327933e06ce7010aab6fab87b4d1ac38]
+#### 51. Interpretation of Part 1[^c-327933e06ce7010aab6fab87b4d1ac38]
 
 In this Part—
 
@@ -1190,7 +1190,7 @@ In this Part—
 
 ## Part 2 — Compensation
 
-### 52. Compensation scheme regulations[^key-f993602ec87a85a59c4ca4afb51e7237]
+### 52. Compensation scheme regulations[^c-f993602ec87a85a59c4ca4afb51e7237]
 
 (1) The Secretary of State—
 
@@ -1218,7 +1218,7 @@ In this Part—
 - “**principal transfer power**” has the same meaning as in Part 1 (see section 2(3));
 - “**transferor**” means a person from whom securities or (as the case may be) property, rights or liabilities have been transferred by regulations made in the exercise of a transfer power.
 
-### 53. Independent valuation of compensation[^key-85749669e792d3cc04f6658cb4e9cc22]
+### 53. Independent valuation of compensation[^c-85749669e792d3cc04f6658cb4e9cc22]
 
 (1) Compensation scheme regulations must provide for any valuation for the purposes of the regulations to be carried out by a person appointed in accordance with the regulations.
 
@@ -1238,7 +1238,7 @@ In this Part—
 
 (6) Compensation scheme regulations must include provision for resignation and replacement of an independent valuer (and subsections (3) and (4) apply to replacement as to the first appointment).
 
-### 54. Further provision about independent valuation[^key-067dd28f75aab493283c3c253ffa193a]
+### 54. Further provision about independent valuation[^c-067dd28f75aab493283c3c253ffa193a]
 
 (1) Compensation scheme regulations may—
 
@@ -1312,7 +1312,7 @@ In this Part—
 - (a) that a specified activity or transaction, or an activity or transaction of a specified description, is or is not to be treated as financial assistance for the purposes of any provision of the regulations;
 - (b) that a reference in any provision of the regulations to financial assistance does not include a reference to financial assistance provided before a specified date.
 
-### 55. Independent valuer: supplementary[^key-7d40c9ec68f6574a7ba3cd8d75b37408]
+### 55. Independent valuer: supplementary[^c-7d40c9ec68f6574a7ba3cd8d75b37408]
 
 (1) An independent valuer may do anything necessary or desirable for the purposes of or in connection with the performance of the functions of the office.
 
@@ -1339,7 +1339,7 @@ In this Part—
 
 (7) Records of an independent valuer are public records for the purposes of the Public Records Act 1958.
 
-### 56. Independent valuer etc: remuneration[^key-9292fa61272170176ef454f501deca9b]
+### 56. Independent valuer etc: remuneration[^c-9292fa61272170176ef454f501deca9b]
 
 (1) Compensation scheme regulations may provide for the payment by the Secretary of State of remuneration and allowances to—
 
@@ -1361,7 +1361,7 @@ In this Part—
 
 (5) An independent valuer (and its staff) is not liable for damages in respect of anything done in good faith for the purposes of or in connection with the functions of the appointment (subject to [section 8](https://www.legislation.gov.uk/ukpga/1998/42/section/8) of the [Human Rights Act 1998](https://www.legislation.gov.uk/ukpga/1998/42/contents)).
 
-### 57. Procedure for compensation scheme regulations[^key-3c250c83bcab5606bec40cce210bba9a]
+### 57. Procedure for compensation scheme regulations[^c-3c250c83bcab5606bec40cce210bba9a]
 
 Compensation scheme regulations are subject to the affirmative procedure.
 
@@ -1369,7 +1369,7 @@ Compensation scheme regulations are subject to the affirmative procedure.
 
 ### Financial assistance
 
-#### 58. Financial assistance[^key-f9a6c23e5521e5fde551a77a1c9a93e0]
+#### 58. Financial assistance[^c-f9a6c23e5521e5fde551a77a1c9a93e0]
 
 (1) The Secretary of State may provide financial assistance to any person in connection with, or in consequence of, the exercise of a power conferred by Part 1 in relation to a steel undertaking.
 
@@ -1391,7 +1391,7 @@ Compensation scheme regulations are subject to the affirmative procedure.
 
 (5) “**Minister of the Crown**” has the same meaning as in the [Ministers of the Crown Act 1975](https://www.legislation.gov.uk/ukpga/1975/26/contents) (see section 8(1) of that Act).
 
-#### 59. Reporting[^key-d75c7c44e0d74adf647c3095f0279254]
+#### 59. Reporting[^c-d75c7c44e0d74adf647c3095f0279254]
 
 (1) The Secretary of State must prepare reports about financial assistance provided under section 58.
 
@@ -1411,7 +1411,7 @@ but no report is required for a period in respect of which there is nothing to r
 
 ### Repeal of SISMA 2025
 
-#### 60. Repeal of [SISMA 2025](https://www.legislation.gov.uk/ukpga/2025/13/contents)[^key-277a3c5ee397abcf259c34bd7893aef9]
+#### 60. Repeal of [SISMA 2025](https://www.legislation.gov.uk/ukpga/2025/13/contents)[^c-277a3c5ee397abcf259c34bd7893aef9]
 
 **Not yet in force.**
 
@@ -1419,7 +1419,7 @@ The [Steel Industry (Special Measures) Act 2025](https://www.legislation.gov.uk/
 
 ## Part 4 — General
 
-### 61. Regulations[^key-d9e4bf8fa11446fe5a01cf636cdf7460]
+### 61. Regulations[^c-d9e4bf8fa11446fe5a01cf636cdf7460]
 
 (1) Regulations under this Act are to be made by statutory instrument.
 
@@ -1452,11 +1452,11 @@ The [Steel Industry (Special Measures) Act 2025](https://www.legislation.gov.uk/
 
 (11) If a draft of a statutory instrument containing regulations under this Act would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
 
-### 62. Extent[^key-406d0154444cb3f50ae6d868414461e2]
+### 62. Extent[^c-406d0154444cb3f50ae6d868414461e2]
 
 This Act extends to England and Wales, Scotland and Northern Ireland.
 
-### 63. Commencement[^key-1e6cc51df43723d39515ef7fbcc99183]
+### 63. Commencement[^c-1e6cc51df43723d39515ef7fbcc99183]
 
 (1) Except as provided by subsection (2), this Act comes into force on the day on which it is passed.
 
@@ -1466,136 +1466,136 @@ This Act extends to England and Wales, Scotland and Northern Ireland.
 
 (4) The Secretary of State may, by regulations, make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
 
-### 64. Short title[^key-2f952f471230f00b90664856aac17468]
+### 64. Short title[^c-2f952f471230f00b90664856aac17468]
 
 This Act may be cited as the Steel Industry (Nationalisation) Act 2026.
 
 ## Annotations
 
-[^key-a1dba963b2d67003705921d3c269cca3]: Commencement: S. 1 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-a1dba963b2d67003705921d3c269cca3]: Commencement: S. 1 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-a5f0498c72edd891bd5f6ef62888e7e6]: Commencement: S. 2 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-a5f0498c72edd891bd5f6ef62888e7e6]: Commencement: S. 2 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-c6e8520c4f5e74d96fea96e4cb072c59]: Commencement: S. 3 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-c6e8520c4f5e74d96fea96e4cb072c59]: Commencement: S. 3 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-4ea1fa8c3367bb0dd411041b6c79a4fa]: Commencement: S. 4 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-4ea1fa8c3367bb0dd411041b6c79a4fa]: Commencement: S. 4 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-b72ae81b8cb0d8e059e67dd772d14419]: Commencement: S. 5 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-b72ae81b8cb0d8e059e67dd772d14419]: Commencement: S. 5 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-e16d0c7d5c37d094da5bafe0c12174f9]: Commencement: S. 6 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-e16d0c7d5c37d094da5bafe0c12174f9]: Commencement: S. 6 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-13fec864a808c05eb014fd497ede62fc]: Commencement: S. 7 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-13fec864a808c05eb014fd497ede62fc]: Commencement: S. 7 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-5ccaee88a0316ac40571dd21e230e13c]: Commencement: S. 8 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-5ccaee88a0316ac40571dd21e230e13c]: Commencement: S. 8 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-807848b3961c6ee88cc775bc4163d2dd]: Commencement: S. 9 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-807848b3961c6ee88cc775bc4163d2dd]: Commencement: S. 9 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-2f91dcf8723d62fd1db949c4ac46b4c8]: Commencement: S. 10 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-2f91dcf8723d62fd1db949c4ac46b4c8]: Commencement: S. 10 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-1aec5eeae0a095a0e10ba0e090ad71e4]: Commencement: S. 11 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-1aec5eeae0a095a0e10ba0e090ad71e4]: Commencement: S. 11 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-9fb0a4d18410d11ff0be173975d5535b]: Commencement: S. 12 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-9fb0a4d18410d11ff0be173975d5535b]: Commencement: S. 12 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-680252562081e04268a4bd65716c73cf]: Commencement: S. 13 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-680252562081e04268a4bd65716c73cf]: Commencement: S. 13 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-3b9e82647911244f0c0be00bda05f77a]: Commencement: S. 14 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-3b9e82647911244f0c0be00bda05f77a]: Commencement: S. 14 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-0ab4c1db1c5786b70357d862d638e08c]: Commencement: S. 15 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-0ab4c1db1c5786b70357d862d638e08c]: Commencement: S. 15 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-f65fdf6cd0dd9c2065a11aa5a7d873dc]: Commencement: S. 16 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-f65fdf6cd0dd9c2065a11aa5a7d873dc]: Commencement: S. 16 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-2ebf26b8efab219c2c2688eec65f4fa4]: Commencement: S. 17 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-2ebf26b8efab219c2c2688eec65f4fa4]: Commencement: S. 17 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-bd0ce416096cba1bf9153abf306f2b28]: Commencement: S. 18 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-bd0ce416096cba1bf9153abf306f2b28]: Commencement: S. 18 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-3c5ea7744e82b4108d21cf9092778d2b]: Commencement: S. 19 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-3c5ea7744e82b4108d21cf9092778d2b]: Commencement: S. 19 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-752f8a79ae85fc702790cc6999e9a519]: Commencement: S. 20 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-752f8a79ae85fc702790cc6999e9a519]: Commencement: S. 20 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-6d3aa02ef06505224d7309df83425fce]: Commencement: S. 21 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-6d3aa02ef06505224d7309df83425fce]: Commencement: S. 21 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-9af13a03853c7f7a6eee2d5081378577]: Commencement: S. 22 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-9af13a03853c7f7a6eee2d5081378577]: Commencement: S. 22 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-b0e5c723ecfe48c0fa6a14b5d08f1e98]: Commencement: S. 23 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-b0e5c723ecfe48c0fa6a14b5d08f1e98]: Commencement: S. 23 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-922da4d6eba0cac19680006f0776ca9f]: Commencement: S. 24 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-922da4d6eba0cac19680006f0776ca9f]: Commencement: S. 24 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-411b9a67a09154e366a5ac291100dc6f]: Commencement: S. 25 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-411b9a67a09154e366a5ac291100dc6f]: Commencement: S. 25 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-8aae9b459726a8c6762a0a335d7aa4f8]: Commencement: S. 26 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-8aae9b459726a8c6762a0a335d7aa4f8]: Commencement: S. 26 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-80f288c5788727a246d56af5e04d2e56]: Commencement: S. 27 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-80f288c5788727a246d56af5e04d2e56]: Commencement: S. 27 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-392423aaa8a2712233fdbb805f2b93a7]: Commencement: S. 28 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-392423aaa8a2712233fdbb805f2b93a7]: Commencement: S. 28 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-f9872fcb230d5b1910db2fcbda8d8d5f]: Commencement: S. 29 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-f9872fcb230d5b1910db2fcbda8d8d5f]: Commencement: S. 29 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-328aff024e552affcc4c7d57812bc101]: Commencement: S. 30 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-328aff024e552affcc4c7d57812bc101]: Commencement: S. 30 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-dcf0bb3992d39260d7d2d9667bab1adb]: Commencement: S. 31 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-dcf0bb3992d39260d7d2d9667bab1adb]: Commencement: S. 31 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-079fa0c946989b148ef68a05bba39d23]: Commencement: S. 32 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-079fa0c946989b148ef68a05bba39d23]: Commencement: S. 32 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-01f08a44b09cac6251128be5d726f6a9]: Commencement: S. 33 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-01f08a44b09cac6251128be5d726f6a9]: Commencement: S. 33 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-cd02a737187f342b991976420c4b62e8]: Commencement: S. 34 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-cd02a737187f342b991976420c4b62e8]: Commencement: S. 34 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-8b45783387da2b57449a8c40fedd19f3]: Commencement: S. 35 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-8b45783387da2b57449a8c40fedd19f3]: Commencement: S. 35 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-22942e0135ccda0a76353a2d02dd5ddb]: Commencement: S. 36 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-22942e0135ccda0a76353a2d02dd5ddb]: Commencement: S. 36 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-b30fa2960d6d6be44361967566098db1]: Commencement: S. 37 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-b30fa2960d6d6be44361967566098db1]: Commencement: S. 37 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-02e69815cabb8699177cd8b86196b553]: Commencement: S. 38 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-02e69815cabb8699177cd8b86196b553]: Commencement: S. 38 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-dfa394f3c72db1c68a8b2986f33eaf45]: Commencement: S. 39 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-dfa394f3c72db1c68a8b2986f33eaf45]: Commencement: S. 39 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-50c7a3837c911504988c93d150c26508]: Commencement: S. 40 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-50c7a3837c911504988c93d150c26508]: Commencement: S. 40 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-2f199ab56ee89383111008e842d5c9e1]: Commencement: S. 41 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-2f199ab56ee89383111008e842d5c9e1]: Commencement: S. 41 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-485f6ccb6af68caef0fda6bbc5c0e877]: Commencement: S. 42 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-485f6ccb6af68caef0fda6bbc5c0e877]: Commencement: S. 42 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-7a3ab0f669369be5538591f5d9fb61a4]: Commencement: S. 43 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-7a3ab0f669369be5538591f5d9fb61a4]: Commencement: S. 43 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-9fe0b1c5c9df3e5e3a4338bc9b665354]: Commencement: S. 44 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-9fe0b1c5c9df3e5e3a4338bc9b665354]: Commencement: S. 44 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-bdceb90d451c362306ecaf7442f9d6da]: Commencement: S. 45 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-bdceb90d451c362306ecaf7442f9d6da]: Commencement: S. 45 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-d8f3ec07557bef461b41a9f01bcb209c]: Commencement: S. 46 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-d8f3ec07557bef461b41a9f01bcb209c]: Commencement: S. 46 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-051020e11563e4b76de4d44071a66b0e]: Commencement: S. 47 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-051020e11563e4b76de4d44071a66b0e]: Commencement: S. 47 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-1e1585ef655e3b310ae832557b072c7a]: Commencement: S. 48 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-1e1585ef655e3b310ae832557b072c7a]: Commencement: S. 48 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-488048cea22703a859ce9a3e6035fc63]: Commencement: S. 49 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-488048cea22703a859ce9a3e6035fc63]: Commencement: S. 49 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-b1cb58443d2b888225d46b07be1fe4d4]: Commencement: S. 50 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-b1cb58443d2b888225d46b07be1fe4d4]: Commencement: S. 50 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-327933e06ce7010aab6fab87b4d1ac38]: Commencement: S. 51 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-327933e06ce7010aab6fab87b4d1ac38]: Commencement: S. 51 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-f993602ec87a85a59c4ca4afb51e7237]: Commencement: S. 52 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-f993602ec87a85a59c4ca4afb51e7237]: Commencement: S. 52 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-85749669e792d3cc04f6658cb4e9cc22]: Commencement: S. 53 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-85749669e792d3cc04f6658cb4e9cc22]: Commencement: S. 53 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-067dd28f75aab493283c3c253ffa193a]: Commencement: S. 54 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-067dd28f75aab493283c3c253ffa193a]: Commencement: S. 54 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-7d40c9ec68f6574a7ba3cd8d75b37408]: Commencement: S. 55 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-7d40c9ec68f6574a7ba3cd8d75b37408]: Commencement: S. 55 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-9292fa61272170176ef454f501deca9b]: Commencement: S. 56 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-9292fa61272170176ef454f501deca9b]: Commencement: S. 56 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-3c250c83bcab5606bec40cce210bba9a]: Commencement: S. 57 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-3c250c83bcab5606bec40cce210bba9a]: Commencement: S. 57 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-f9a6c23e5521e5fde551a77a1c9a93e0]: Commencement: S. 58 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-f9a6c23e5521e5fde551a77a1c9a93e0]: Commencement: S. 58 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-d75c7c44e0d74adf647c3095f0279254]: Commencement: S. 59 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-d75c7c44e0d74adf647c3095f0279254]: Commencement: S. 59 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-277a3c5ee397abcf259c34bd7893aef9]: Commencement: S. 60 not in force at Royal Assent, see [s. 63(2)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/2)
+[^c-277a3c5ee397abcf259c34bd7893aef9]: Commencement: S. 60 not in force at Royal Assent, see [s. 63(2)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/2)
 
-[^key-d9e4bf8fa11446fe5a01cf636cdf7460]: Commencement: S. 61 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-d9e4bf8fa11446fe5a01cf636cdf7460]: Commencement: S. 61 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-406d0154444cb3f50ae6d868414461e2]: Commencement: S. 62 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-406d0154444cb3f50ae6d868414461e2]: Commencement: S. 62 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-1e6cc51df43723d39515ef7fbcc99183]: Commencement: S. 63 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-1e6cc51df43723d39515ef7fbcc99183]: Commencement: S. 63 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
-[^key-2f952f471230f00b90664856aac17468]: Commencement: S. 64 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-2f952f471230f00b90664856aac17468]: Commencement: S. 64 in force at Royal Assent, see [s. 63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C16. Limitation of payments[^key-000d490ae5b3b40df2c041f25d376651]
+## C16. Limitation of payments[^c-000d490ae5b3b40df2c041f25d376651]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 has effect for the limitation, in certain circumstances, of payments 
 
 ## Annotations
 
-[^key-000d490ae5b3b40df2c041f25d376651]: Commencement: [Reg. C16](https://www.legislation.gov.uk/uksi/1986/24/regulation/C16) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-000d490ae5b3b40df2c041f25d376651]: Commencement: [Reg. C16](https://www.legislation.gov.uk/uksi/1986/24/regulation/C16) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

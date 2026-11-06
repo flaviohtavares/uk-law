@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) Order 2008 (revoked)[^key-22fec43fec74dc4e43af3e0bc865285e]
+The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) Order 2008 (revoked)[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 22nd September 2008
 
-[^key-22fec43fec74dc4e43af3e0bc865285e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22fec43fec74dc4e43af3e0bc865285e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-22fec43fec74dc4e43af3e0bc865285e]
+## 1. Citation, commencement and interpretation[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification of relevant enactments[^key-22fec43fec74dc4e43af3e0bc865285e]
+## 2. Specification of relevant enactments[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of responsible authorities and functions[^key-22fec43fec74dc4e43af3e0bc865285e]
+## 3. Designation of responsible authorities and functions[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-22fec43fec74dc4e43af3e0bc865285e]
+## 4. Revocation[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-22fec43fec74dc4e43af3e0bc865285e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22fec43fec74dc4e43af3e0bc865285e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-22fec43fec74dc4e43af3e0bc865285e]
+## SCHEDULE 1[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-22fec43fec74dc4e43af3e0bc865285e]
+## SCHEDULE 2[^c-22fec43fec74dc4e43af3e0bc865285e]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-22fec43fec74dc4e43af3e0bc865285e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22fec43fec74dc4e43af3e0bc865285e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22fec43fec74dc4e43af3e0bc865285e]: Textual amendment: Order revoked (1.12.2011) by [The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011 (S.S.I. 2011/368)](https://www.legislation.gov.uk/ssi/2011/368), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/368/article/1/1), [4](https://www.legislation.gov.uk/ssi/2011/368/article/4)
+[^c-22fec43fec74dc4e43af3e0bc865285e]: Textual amendment: Order revoked (1.12.2011) by [The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011 (S.S.I. 2011/368)](https://www.legislation.gov.uk/ssi/2011/368), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/368/article/1/1), [4](https://www.legislation.gov.uk/ssi/2011/368/article/4)

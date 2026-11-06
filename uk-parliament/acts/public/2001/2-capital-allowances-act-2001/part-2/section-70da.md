@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70DA. Transfer and long funding leaseback: restrictions on lessee's allowances[^key-9141a546381cfc2549ba3e104d907a0e][^key-1dfc5aa0249178ecbf946313acb2db3c]
+## 70DA. Transfer and long funding leaseback: restrictions on lessee's allowances[^c-9141a546381cfc2549ba3e104d907a0e][^c-1dfc5aa0249178ecbf946313acb2db3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (5) If S is required to bring a disposal value into account under this Part because of the transfer referred to in subsection (1)(a), D is that disposal value.
 
-(5A)[^key-4a2bccf794df3ec92a7bada78a4931d1] D is nil if—
+(5A)[^c-4a2bccf794df3ec92a7bada78a4931d1] D is nil if—
 
 - (a) S is not required to bring a disposal value into account under this Part because of the transfer referred to in subsection (1)(a), and
 - (b) at any time before that transfer S or a linked person became owner of the plant or machinery without incurring either capital expenditure or qualifying revenue expenditure on its provision.
@@ -49,7 +49,7 @@ summary: ''
 
 (8) For the purposes of this section a transfer involving the grant of a lease takes place on the commencement of the term of the lease.
 
-(9)[^key-14e14e1b192afeb18050a7922623d0e2] “Linked person”, in relation to plant or machinery, means a person—
+(9)[^c-14e14e1b192afeb18050a7922623d0e2] “Linked person”, in relation to plant or machinery, means a person—
 
 - (a) who owned the plant or machinery at any time before the transfer referred to in subsection (1)(a), and
 - (b) who was connected with S at any time between—
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9141a546381cfc2549ba3e104d907a0e]: Textual amendment: S. 70DA inserted (with effect in accordance with Sch. 32 para. 17 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 15](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/15)
+[^c-9141a546381cfc2549ba3e104d907a0e]: Textual amendment: S. 70DA inserted (with effect in accordance with Sch. 32 para. 17 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 15](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/15)
 
-[^key-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
+[^c-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
 
-[^key-4a2bccf794df3ec92a7bada78a4931d1]: Textual amendment: S. 70DA(5A) inserted (with effect in accordance with Sch. 10 para. 2(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/2/2)
+[^c-4a2bccf794df3ec92a7bada78a4931d1]: Textual amendment: S. 70DA(5A) inserted (with effect in accordance with Sch. 10 para. 2(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/2/2)
 
-[^key-14e14e1b192afeb18050a7922623d0e2]: Textual amendment: S. 70DA(9)(10) inserted (with effect in accordance with Sch. 10 para. 2(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/2/3)
+[^c-14e14e1b192afeb18050a7922623d0e2]: Textual amendment: S. 70DA(9)(10) inserted (with effect in accordance with Sch. 10 para. 2(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/2/3)

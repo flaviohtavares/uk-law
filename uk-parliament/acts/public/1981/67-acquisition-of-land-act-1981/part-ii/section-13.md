@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Confirmation of order: no objections[^key-a9973dfd55593ed0c291cf7096d3b143]
+## 13. Confirmation of order: no objections[^c-a9973dfd55593ed0c291cf7096d3b143]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9973dfd55593ed0c291cf7096d3b143]: Textual amendment: Ss. 13-13C substituted for s. 13 (6.8.2004 for specified purposes, 31.10.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/6) (with [s. 100(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/8)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-a9973dfd55593ed0c291cf7096d3b143]: Textual amendment: Ss. 13-13C substituted for s. 13 (6.8.2004 for specified purposes, 31.10.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/6) (with [s. 100(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/8)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

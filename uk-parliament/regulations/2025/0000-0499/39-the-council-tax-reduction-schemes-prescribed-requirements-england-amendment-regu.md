@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 113(1) and (2) of, and paragraph 2 of Schedule 1A to, the Local Government Finance Act 1992[^f00001].
 
-## 1. Citation, commencement, extent and application[^key-d2a75a9d5e5484c9fac5ea82c43bd86c]
+## 1. Citation, commencement, extent and application[^c-d2a75a9d5e5484c9fac5ea82c43bd86c]
 
 (1) These Regulations may be cited as the Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2025 and come into force on 11th February 2025.
 
@@ -56,11 +56,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations apply in relation to council tax reduction schemes[^f00002] made by billing authorities for financial years beginning on or after 1st April 2025.
 
-## 2. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^key-7979aae264612b5e7a14b2706874c192]
+## 2. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^c-7979aae264612b5e7a14b2706874c192]
 
 The Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 2[^key-c04a63d603a6327f287c4d6a4fe1af92]
+## 3. Amendment of regulation 2[^c-c04a63d603a6327f287c4d6a4fe1af92]
 
 In regulation 2(1) (interpretation)—
 
@@ -75,7 +75,7 @@ In regulation 2(1) (interpretation)—
 
   .
 
-## 4. Amendment of regulation 3[^key-192b21635d69f36e2a617f83b89b66e2]
+## 4. Amendment of regulation 3[^c-192b21635d69f36e2a617f83b89b66e2]
 
 In regulation 3(2) (meaning of “**pensioner**” and “**person who is not a pensioner**”) for “during the relevant period” substitute—
 
@@ -86,7 +86,7 @@ In regulation 3(2) (meaning of “**pensioner**” and “**person who is not a 
 
 .
 
-## 5. Amendment of Schedule 1[^key-f5ace8f536ceb18296bb0ba2f02afc2b]
+## 5. Amendment of Schedule 1[^c-f5ace8f536ceb18296bb0ba2f02afc2b]
 
 (1) Schedule 1 (pensioners: matters that must be included in an authority’s scheme) is amended as follows.
 
@@ -163,7 +163,7 @@ In regulation 3(2) (meaning of “**pensioner**” and “**person who is not a 
 
   .
 
-## 6. Amendment of Schedule 2[^key-1d04170065741f2df4f1e8430bc994c1]
+## 6. Amendment of Schedule 2[^c-1d04170065741f2df4f1e8430bc994c1]
 
 (1) Schedule 2 (applicable amounts) is amended as follows.
 
@@ -242,7 +242,7 @@ In regulation 3(2) (meaning of “**pensioner**” and “**person who is not a 
   - (iv) in paragraph (3) for “£80.01” substitute “£81.37”;
   - (v) in paragraph (4) for “£45.60” substitute “£46.40”.
 
-## 7. Amendment of Schedule 3[^key-3fee88fcdb320d0600c0e1c6169d8ead]
+## 7. Amendment of Schedule 3[^c-3fee88fcdb320d0600c0e1c6169d8ead]
 
 In Schedule 3 (amount of alternative maximum council tax reduction)—
 
@@ -251,7 +251,7 @@ In Schedule 3 (amount of alternative maximum council tax reduction)—
   - (ii) in sub-paragraph (b)(ii) for “£265.00” and “£344.00” substitute “£276.00” and “£358.00” respectively;
 - (b) in paragraph 2, for the words from “the following” to “or (10)” substitute “there must be disregarded from that income any allowance or payment to which paragraph 8(9)”.
 
-## 8. Amendment of Schedule 4[^key-3bc92c62fca782396983c909231dbf6d]
+## 8. Amendment of Schedule 4[^c-3bc92c62fca782396983c909231dbf6d]
 
 In Schedule 4, in paragraph 5(1)(a) (sums disregarded from applicant’s earnings) after sub-paragraph (iii) insert—
 
@@ -260,7 +260,7 @@ In Schedule 4, in paragraph 5(1)(a) (sums disregarded from applicant’s earning
 
 .
 
-## 9. Amendment of Schedule 5[^key-7dfffc996c4b974380200d98eaf88e7e]
+## 9. Amendment of Schedule 5[^c-7dfffc996c4b974380200d98eaf88e7e]
 
 In Schedule 5 (amounts to be disregarded in the calculation of income other than earnings)—
 
@@ -271,7 +271,7 @@ In Schedule 5 (amounts to be disregarded in the calculation of income other than
 
   .
 
-## 10. Amendment of Schedule 6[^key-2db5b96203fa6d646ffdfaddc5a69629]
+## 10. Amendment of Schedule 6[^c-2db5b96203fa6d646ffdfaddc5a69629]
 
 In paragraph 16 of Schedule 6 (capital to be disregarded) after sub-paragraph (1G) insert—
 
@@ -311,32 +311,32 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 113(1) and (2) was amended by paragraphs 2 and 9(a) of Schedule 1 to the Local Government Act [1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27); paragraphs 40 and 52 of Schedule 7 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26); section 80 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), [2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), [2016/997](https://www.legislation.gov.uk/uksi/2016/997) and [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265). Schedule 1A was inserted by Schedule 4 to the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17) and was amended by [S.I. 2017/1305](https://www.legislation.gov.uk/uksi/2017/1305).
 
-[^key-d2a75a9d5e5484c9fac5ea82c43bd86c]: Commencement: Reg. 1 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-d2a75a9d5e5484c9fac5ea82c43bd86c]: Commencement: Reg. 1 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
 [^f00002]: Footnote: See section 13A(9) of the Local Government Finance Act 1992 for the definition of “council tax reduction scheme”. Section 13A was inserted by section 10 of the Local Government Finance Act 2012.
 
-[^key-7979aae264612b5e7a14b2706874c192]: Commencement: Reg. 2 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-7979aae264612b5e7a14b2706874c192]: Commencement: Reg. 2 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2012/2885](https://www.legislation.gov.uk/uksi/2012/2885); relevant amending instruments are [S.I. 2012/3085](https://www.legislation.gov.uk/uksi/2012/3085), [2013/3181](https://www.legislation.gov.uk/uksi/2013/3181), [2014/448](https://www.legislation.gov.uk/uksi/2014/448), [2014/3312](https://www.legislation.gov.uk/uksi/2014/3312), [2015/2041](https://www.legislation.gov.uk/uksi/2015/2041), [2016/1262](https://www.legislation.gov.uk/uksi/2016/1262), [2017/1305](https://www.legislation.gov.uk/uksi/2017/1305), [2018/1346](https://www.legislation.gov.uk/uksi/2018/1346), [2020/23](https://www.legislation.gov.uk/uksi/2020/23), [2021/29](https://www.legislation.gov.uk/uksi/2021/29), [2022/25](https://www.legislation.gov.uk/uksi/2022/25), [2023/16](https://www.legislation.gov.uk/uksi/2023/16) and [2024/29](https://www.legislation.gov.uk/uksi/2024/29).
 
-[^key-c04a63d603a6327f287c4d6a4fe1af92]: Commencement: Reg. 3 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-c04a63d603a6327f287c4d6a4fe1af92]: Commencement: Reg. 3 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302).
 
 [^f00005]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
 
-[^key-192b21635d69f36e2a617f83b89b66e2]: Commencement: Reg. 4 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-192b21635d69f36e2a617f83b89b66e2]: Commencement: Reg. 4 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230). Regulation 60A was inserted by [S.I. 2024/611](https://www.legislation.gov.uk/uksi/2024/611).
 
-[^key-f5ace8f536ceb18296bb0ba2f02afc2b]: Commencement: Reg. 5 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-f5ace8f536ceb18296bb0ba2f02afc2b]: Commencement: Reg. 5 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
-[^key-1d04170065741f2df4f1e8430bc994c1]: Commencement: Reg. 6 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-1d04170065741f2df4f1e8430bc994c1]: Commencement: Reg. 6 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
-[^key-3fee88fcdb320d0600c0e1c6169d8ead]: Commencement: Reg. 7 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-3fee88fcdb320d0600c0e1c6169d8ead]: Commencement: Reg. 7 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
-[^key-3bc92c62fca782396983c909231dbf6d]: Commencement: Reg. 8 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-3bc92c62fca782396983c909231dbf6d]: Commencement: Reg. 8 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
-[^key-7dfffc996c4b974380200d98eaf88e7e]: Commencement: Reg. 9 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-7dfffc996c4b974380200d98eaf88e7e]: Commencement: Reg. 9 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
 
-[^key-2db5b96203fa6d646ffdfaddc5a69629]: Commencement: Reg. 10 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)
+[^c-2db5b96203fa6d646ffdfaddc5a69629]: Commencement: Reg. 10 in force at 11.2.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/39/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any internal drainage board or local authority may, with the consent of the appropriate agency[^key-444600e8425df5c001761d7888039d23], operate any drainage works under the control of the board or authority so as to manage the level of water in a watercourse for the purpose of facilitating spray irrigation.
+(1) Any internal drainage board or local authority may, with the consent of the appropriate agency[^c-444600e8425df5c001761d7888039d23], operate any drainage works under the control of the board or authority so as to manage the level of water in a watercourse for the purpose of facilitating spray irrigation.
 
 (2) Subsection (1) above is without prejudice to—
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c1415564]: Textual amendment: S. 61F inserted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 193](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/193) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/186](https://www.legislation.gov.uk/uksi/1995/186), [art. 3](https://www.legislation.gov.uk/uksi/1995/186/article/3)
 
-[^key-444600e8425df5c001761d7888039d23]: Textual amendment: Words in [s. 61F](https://www.legislation.gov.uk/ukpga/1991/59/section/61F) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 332](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/332) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-444600e8425df5c001761d7888039d23]: Textual amendment: Words in [s. 61F](https://www.legislation.gov.uk/ukpga/1991/59/section/61F) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 332](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/332) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

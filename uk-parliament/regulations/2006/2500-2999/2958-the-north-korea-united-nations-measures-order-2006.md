@@ -32,7 +32,7 @@ summary: ''
 
 United nations
 
-The North Korea (United Nations Measures) Order 2006 (revoked)[^key-0b4d5366d43a9bfd224ffb811664bb86]
+The North Korea (United Nations Measures) Order 2006 (revoked)[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 Made
 
@@ -52,116 +52,116 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-0b4d5366d43a9bfd224ffb811664bb86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b4d5366d43a9bfd224ffb811664bb86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary and general[^key-0b4d5366d43a9bfd224ffb811664bb86]
+## PART 1 — Preliminary and general[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
-### 1. Citation, commencement, extent and application[^key-0b4d5366d43a9bfd224ffb811664bb86]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 1. Citation, commencement, extent and application[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Designated persons and directions[^key-0b4d5366d43a9bfd224ffb811664bb86]
-
-### 3. Designated persons[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 2. Interpretation[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Treasury's power to designate persons[^key-0b4d5366d43a9bfd224ffb811664bb86]
+## PART 2 — Designated persons and directions[^c-0b4d5366d43a9bfd224ffb811664bb86]
+
+### 3. Designated persons[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Directions: further provisions[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 4. Treasury's power to designate persons[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Prohibitions and licences[^key-0b4d5366d43a9bfd224ffb811664bb86]
-
-### 6. Freezing funds and economic resources of designated persons[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 5. Directions: further provisions[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Making funds or economic resources available to designated persons etc.[^key-0b4d5366d43a9bfd224ffb811664bb86]
+## PART 3 — Prohibitions and licences[^c-0b4d5366d43a9bfd224ffb811664bb86]
+
+### 6. Freezing funds and economic resources of designated persons[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Exceptions[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 7. Making funds or economic resources available to designated persons etc.[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Circumventing prohibitions etc.[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 8. Exceptions[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Licences[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 9. Circumventing prohibitions etc.[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-0b4d5366d43a9bfd224ffb811664bb86]
-
-### 11. Evidence and information[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 10. Licences[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Penalties[^key-0b4d5366d43a9bfd224ffb811664bb86]
+## PART 4 — Miscellaneous[^c-0b4d5366d43a9bfd224ffb811664bb86]
+
+### 11. Evidence and information[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Proceedings[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 12. Penalties[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Notices[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 13. Proceedings[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Functions of the Treasury[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 14. Notices[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Postponement etc. of the operation of the Security Council Resolutions[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 15. Functions of the Treasury[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. The Crown[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 16. Postponement etc. of the operation of the Security Council Resolutions[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Transitional provisions[^key-0b4d5366d43a9bfd224ffb811664bb86]
+### 17. The Crown[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b4d5366d43a9bfd224ffb811664bb86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 18. Transitional provisions[^c-0b4d5366d43a9bfd224ffb811664bb86]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0b4d5366d43a9bfd224ffb811664bb86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Evidence and Information[^key-0b4d5366d43a9bfd224ffb811664bb86]
+## SCHEDULE — Evidence and Information[^c-0b4d5366d43a9bfd224ffb811664bb86]
 
 Article 11
 
-**1.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0b4d5366d43a9bfd224ffb811664bb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b4d5366d43a9bfd224ffb811664bb86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b4d5366d43a9bfd224ffb811664bb86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b4d5366d43a9bfd224ffb811664bb86]: Textual amendment: Order revoked (31.12.2020) by [The United Nations Sanctions (Revocations) Order 2020 (S.I. 2020/1585)](https://www.legislation.gov.uk/uksi/2020/1585), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1585/article/1/1/a), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1585/schedule/5)
+[^c-0b4d5366d43a9bfd224ffb811664bb86]: Textual amendment: Order revoked (31.12.2020) by [The United Nations Sanctions (Revocations) Order 2020 (S.I. 2020/1585)](https://www.legislation.gov.uk/uksi/2020/1585), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1585/article/1/1/a), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1585/schedule/5)

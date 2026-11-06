@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Affidavits[^key-757cb65b7b450770843ace594048d846]
+## 77. Affidavits[^c-757cb65b7b450770843ace594048d846]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-757cb65b7b450770843ace594048d846]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2007/3141/rule/77) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-757cb65b7b450770843ace594048d846]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2007/3141/rule/77) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

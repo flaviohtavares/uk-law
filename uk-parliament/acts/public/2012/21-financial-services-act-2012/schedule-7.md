@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Application of provisions of FSMA 2000 to Bank of England etc[^key-b515c2e8b00cbff2f87cef89ee88980c][^key-113db69e1b66ef505204bcf9696afd90][^key-b40d99dc16670834fee5de7d3b4bffa4]
+## SCHEDULE 7 — Application of provisions of FSMA 2000 to Bank of England etc[^c-b515c2e8b00cbff2f87cef89ee88980c][^c-113db69e1b66ef505204bcf9696afd90][^c-b40d99dc16670834fee5de7d3b4bffa4]
 
 *Extent: E+W+S+N.I.*
 
 Section 29
 
-[^key-b515c2e8b00cbff2f87cef89ee88980c][^key-113db69e1b66ef505204bcf9696afd90][^key-b40d99dc16670834fee5de7d3b4bffa4]
+[^c-b515c2e8b00cbff2f87cef89ee88980c][^c-113db69e1b66ef505204bcf9696afd90][^c-b40d99dc16670834fee5de7d3b4bffa4]
 
 This is the Schedule 17A to be inserted in FSMA 2000 after Schedule 17—
 
@@ -378,8 +378,8 @@ This is the Schedule 17A to be inserted in FSMA 2000 after Schedule 17—
 
 ## Annotations
 
-[^key-b515c2e8b00cbff2f87cef89ee88980c]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/7) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-b515c2e8b00cbff2f87cef89ee88980c]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/7) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-113db69e1b66ef505204bcf9696afd90]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/7) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-113db69e1b66ef505204bcf9696afd90]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/7) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-b40d99dc16670834fee5de7d3b4bffa4]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/7) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b40d99dc16670834fee5de7d3b4bffa4]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/7) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

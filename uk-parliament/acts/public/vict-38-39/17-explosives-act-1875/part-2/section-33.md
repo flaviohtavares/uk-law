@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. General rules as to packing of gunpowder for conveyance.[^key-a70fd9b9b197075b08f8acfcbfb2393f][^c5687201]
+## 33. General rules as to packing of gunpowder for conveyance.[^c-a70fd9b9b197075b08f8acfcbfb2393f][^c5687201]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a70fd9b9b197075b08f8acfcbfb2393f]: Textual amendment: S. 33 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/3), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-a70fd9b9b197075b08f8acfcbfb2393f]: Textual amendment: S. 33 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/3), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^c5687201]: Textual amendment: S. 33 repealed (E.W.S.) (1.3.1992) by [S.I. 1991/2097](https://www.legislation.gov.uk/uksi/1991/2097), [reg. 14(2)](https://www.legislation.gov.uk/uksi/1991/2097/regulation/14/2)

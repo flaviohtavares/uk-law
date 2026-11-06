@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Amendment of Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency[^key-0b1e2f39082a938f77ea89378e46a252]
+## 25. Amendment of Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency[^c-0b1e2f39082a938f77ea89378e46a252]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In Article 15 of Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/e
 
 ## Annotations
 
-[^key-0b1e2f39082a938f77ea89378e46a252]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-0b1e2f39082a938f77ea89378e46a252]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)

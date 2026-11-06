@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Notification of absence from sole or main residence[^key-622a3154a262354bd475cbd55481782a]
+## 119. Notification of absence from sole or main residence[^c-622a3154a262354bd475cbd55481782a]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-622a3154a262354bd475cbd55481782a]: Commencement: S. 119 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-622a3154a262354bd475cbd55481782a]: Commencement: S. 119 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

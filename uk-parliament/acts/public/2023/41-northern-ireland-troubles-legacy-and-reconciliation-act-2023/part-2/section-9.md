@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Requests for reviews of deaths[^key-ab0ca244dd5b524a0bb15186ce69c2dc][^key-f9e9c10dc20721af275a0b9369ed519a]
+## 9. Requests for reviews of deaths[^c-ab0ca244dd5b524a0bb15186ce69c2dc][^c-f9e9c10dc20721af275a0b9369ed519a]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0ca244dd5b524a0bb15186ce69c2dc]: Commencement: S. 9 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-ab0ca244dd5b524a0bb15186ce69c2dc]: Commencement: S. 9 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-f9e9c10dc20721af275a0b9369ed519a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/41/section/9) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-f9e9c10dc20721af275a0b9369ed519a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/41/section/9) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

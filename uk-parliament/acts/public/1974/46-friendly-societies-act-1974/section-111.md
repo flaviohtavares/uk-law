@@ -24,8 +24,8 @@ summary: ''
 
 - “**amendment of rule**” includes a new rule and a resolution rescinding a rule;
 - “**annual return**” shall be construed in accordance with section 43 above;
-- [^key-923d6513d91d674c7964054a55a5c90d]...
-- “the appropriate authority” means—[^key-dca5bb786871b906e2a5d3fb56dd312e]
+- [^c-923d6513d91d674c7964054a55a5c90d]...
+- “the appropriate authority” means—[^c-dca5bb786871b906e2a5d3fb56dd312e]
   - (a) in relation to a society which is a PRA -authorised person, the PRA; and
   - (b) in relation to a society which is not a PRA -authorised person, the FCA;
 - “branch” means any number of the members of a society, under the control of a central body, having a separate fund administered by themselves or by a committee or officers appointed by themselves, and bound to contribute to a fund under the control of a central body;
@@ -33,7 +33,7 @@ summary: ''
 - [^c1073688]...
 - [^c1073688]...
 - “committee” means the committee of management or other directing body of a society or branch;
-- [^key-c5e6422ae40ce4ac4eb396d37fb4691a]...
+- [^c-c5e6422ae40ce4ac4eb396d37fb4691a]...
 - “exempt society” and “exempt branch” shall be construed in accordance with section 31(4) above;
 - “the FCA” means the Financial Conduct Authority;
 - “Gazette”, in relation to a registered society or branch, means—
@@ -57,7 +57,7 @@ summary: ''
 
 (2) Any reference in this Act to a particular type of society shall be construed in accordance with section 7(1) above.
 
-(3)[^c1073697] Any reference in this Act to the seal of the FCA[^key-bccfb56af198ae78833dbc0980af3683] is a reference to the seal provided for in regulations made under section 109(1)(b) (and not to the FCA[^key-7c1426b88a79ab1be5620e16e1f1693c] ’s common seal).
+(3)[^c1073697] Any reference in this Act to the seal of the FCA[^c-bccfb56af198ae78833dbc0980af3683] is a reference to the seal provided for in regulations made under section 109(1)(b) (and not to the FCA[^c-7c1426b88a79ab1be5620e16e1f1693c] ’s common seal).
 
 (4) In this Act “**year of account**” in relation to a registered society or branch, means, with respect to the year in which it is first registered, the period beginning with the date of registration and ending with 31st December of that year and, in any other case, a period of twelve months ending with 31st December; and
 
@@ -72,13 +72,13 @@ summary: ''
 
 ## Annotations
 
-[^key-923d6513d91d674c7964054a55a5c90d]: Textual amendment: Definition in s. 111(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 25(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/25/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-923d6513d91d674c7964054a55a5c90d]: Textual amendment: Definition in s. 111(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 25(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/25/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-dca5bb786871b906e2a5d3fb56dd312e]: Textual amendment: Definitions in s. 111(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 25(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/25/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-dca5bb786871b906e2a5d3fb56dd312e]: Textual amendment: Definitions in s. 111(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 25(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/25/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c1073688]: Textual amendment: S. 111(1): definitions of “the central registration area”, “collecting society” and “Commission” repealed (17.8.2001 for certain purposes, otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(1)(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1/2), [Sch. 3 Pt. I para. 48(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/48/a/ii), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-c5e6422ae40ce4ac4eb396d37fb4691a]: Textual amendment: Definition in s. 111(1) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 29(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/29/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c5e6422ae40ce4ac4eb396d37fb4691a]: Textual amendment: Definition in s. 111(1) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 29(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/29/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^M_F_f4716cce-f298-4da3-96ce-0152c022c7a9]: Textual amendment: S. 111(1): words in para. (a) of definition of “Gazette” substituted (17.8.2001 for certain purposes, otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. I para. 48(a)(iii)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/48/a/iii) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -90,8 +90,8 @@ summary: ''
 
 [^c1073697]: Textual amendment: S. 111(3) substituted (17.8.2001 for certain purposes, otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. I para. 48(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/48/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-bccfb56af198ae78833dbc0980af3683]: Textual amendment: Words in s. 111(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(w)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/w) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-bccfb56af198ae78833dbc0980af3683]: Textual amendment: Words in s. 111(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(w)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/w) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-7c1426b88a79ab1be5620e16e1f1693c]: Textual amendment: Words in s. 111(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/b)[(2)(w)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/w) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7c1426b88a79ab1be5620e16e1f1693c]: Textual amendment: Words in s. 111(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/b)[(2)(w)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/w) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c1073698]: Textual amendment: S. 111(6) repealed (1.1.1994) by [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 120(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/120/2), [Sch. 22 Pt. I](https://www.legislation.gov.uk/ukpga/1992/40/schedule/22/part/I) (with ss. 7(5) and 93(4)); [S.I. 1993/3226](https://www.legislation.gov.uk/uksi/1993/3226), [art. 2](https://www.legislation.gov.uk/uksi/1993/3226/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/3226/schedule/2) appendix.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Vessels entering harbour or dock to be dismantled as harbour master shall direct.[^key-8074068b41e409bac9000a13d5b3d2dd]
+## 59. Vessels entering harbour or dock to be dismantled as harbour master shall direct.[^c-8074068b41e409bac9000a13d5b3d2dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Before any vessel shall enter the harbour or dock, or approach the pier, the mas
 
 ## Annotations
 
-[^key-8074068b41e409bac9000a13d5b3d2dd]: Modification: Ss. 54-59 incorporated (with modifications) (S.) (18.3.2016) by [The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016 (S.S.I. 2016/156)](https://www.legislation.gov.uk/ssi/2016/156), [arts. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1), [3](https://www.legislation.gov.uk/ssi/2016/156/article/3) (with [arts. 31](https://www.legislation.gov.uk/ssi/2016/156/article/31), [32](https://www.legislation.gov.uk/ssi/2016/156/article/32))
+[^c-8074068b41e409bac9000a13d5b3d2dd]: Modification: Ss. 54-59 incorporated (with modifications) (S.) (18.3.2016) by [The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016 (S.S.I. 2016/156)](https://www.legislation.gov.uk/ssi/2016/156), [arts. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1), [3](https://www.legislation.gov.uk/ssi/2016/156/article/3) (with [arts. 31](https://www.legislation.gov.uk/ssi/2016/156/article/31), [32](https://www.legislation.gov.uk/ssi/2016/156/article/32))
 
 [^c559602]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)

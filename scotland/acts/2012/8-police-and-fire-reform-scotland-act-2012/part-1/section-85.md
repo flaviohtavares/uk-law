@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Scrutiny and investigations: co-operation and information sharing[^key-445987aee89af0b356ff6ff5a45e32fd]
+## 85. Scrutiny and investigations: co-operation and information sharing[^c-445987aee89af0b356ff6ff5a45e32fd]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-445987aee89af0b356ff6ff5a45e32fd]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2012/8/section/85) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(10)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/10)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))
+[^c-445987aee89af0b356ff6ff5a45e32fd]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2012/8/section/85) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(10)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/10)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))

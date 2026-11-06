@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Transactions for the provision of a building and heating services[^key-b159e59d60f64110f88026f9b9ace5df]
+## 42. Transactions for the provision of a building and heating services[^c-b159e59d60f64110f88026f9b9ace5df]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b159e59d60f64110f88026f9b9ace5df]: Commencement: Reg. 42 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-b159e59d60f64110f88026f9b9ace5df]: Commencement: Reg. 42 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

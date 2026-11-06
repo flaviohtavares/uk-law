@@ -33,17 +33,17 @@ summary: ''
 
   shall be transferred to and vested in the Agency by and in accordance with the scheme.
 
-(2)[^key-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c1d3a162a775ed2ba2022b741fea02d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Schedule 2 to this Act shall have effect in relation to transfers by or under this section.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c14535951]: Commencement: S. 3 not in force at Royal Assent see s. 125(3); s. 3(2)-(8) in force at 28.7.1995 by [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 2](https://www.legislation.gov.uk/uksi/1995/1983/article/2); s. 3(1) in force at 1.4.1996 by [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-c1d3a162a775ed2ba2022b741fea02d0]: Textual amendment: S. 3(2)-(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-c1d3a162a775ed2ba2022b741fea02d0]: Textual amendment: S. 3(2)-(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

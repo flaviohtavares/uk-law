@@ -32,7 +32,7 @@ Section 32.
 - “**intermediate leasehold interest**” means the interest of the tenant under a lease which is superior to the lease held by a qualifying tenant of a flat contained in the specified premises, to the extent that—
   - (a) any such interest is to be acquired by the nominee purchaser by virtue of section 2(1)(a), and
   - (b) it is an interest in the specified premises;
-- [^key-b691cddbe7755e87b206e35e5deb1e1c]...
+- [^c-b691cddbe7755e87b206e35e5deb1e1c]...
 
 (2) Parts II to IV of this Schedule have effect subject to the provisions of Parts V and VI (which relate to interests with negative values).
 
@@ -50,7 +50,7 @@ Section 32.
 
 #### Value of freeholder’s interest
 
-**3.** (1) Subject to the provisions of this paragraph, the value of the freeholder’s interest in the specified premises is the amount which at the relevant date[^key-34804afbe93673b8730e96733240fafc] that interest might be expected to realise if sold on the open market by a willing seller (with no person who falls within sub-paragraph (1A)[^c17027791] buying or seeking to buy) on the following assumptions—
+**3.** (1) Subject to the provisions of this paragraph, the value of the freeholder’s interest in the specified premises is the amount which at the relevant date[^c-34804afbe93673b8730e96733240fafc] that interest might be expected to realise if sold on the open market by a willing seller (with no person who falls within sub-paragraph (1A)[^c17027791] buying or seeking to buy) on the following assumptions—
 
 - (a) on the assumption that the vendor is selling for an estate in fee simple—
   - (i) subject to any leases subject to which the freeholder’s interest in the premises is to be acquired by the nominee purchaser, but
@@ -90,7 +90,7 @@ and each of those values shall, so far as is appropriate, be determined in like 
 
 **4.** (1) The marriage value is the amount referred to in sub-paragraph (2), and the freeholder’s share of the marriage value is 50 per cent. of that amount[^c17108431].
 
-(2)[^key-24f7305891db7099ee85d9625fa48741][^key-005760e0153751d99c4a49980fe3ffc2] Subject to sub-paragraph (2A),[^c17108471] the marriage value is any increase in the aggregate value of the freehold and every intermediate leasehold interest in the specified premises, when regarded as being (in consequence of their being acquired by the nominee purchaser) interests under the control of the participating tenants, as compared with the aggregate value of those interests when held by the persons from whom they are to be so acquired, being an increase in value—
+(2)[^c-24f7305891db7099ee85d9625fa48741][^c-005760e0153751d99c4a49980fe3ffc2] Subject to sub-paragraph (2A),[^c17108471] the marriage value is any increase in the aggregate value of the freehold and every intermediate leasehold interest in the specified premises, when regarded as being (in consequence of their being acquired by the nominee purchaser) interests under the control of the participating tenants, as compared with the aggregate value of those interests when held by the persons from whom they are to be so acquired, being an increase in value—
 
 - (a) which is attributable to the potential ability of the participating tenants, once those interests have been so acquired, to have new leases granted to them without payment of any premium and without restriction as to length of term, and
 - (b) which, if those interests were being sold to the nominee purchaser on the open market by willing sellers, the nominee purchaser would have to agree to share with the sellers in order to reach agreement as to price.
@@ -189,7 +189,7 @@ and each of those values shall, so far as is appropriate, be determined in like 
 
 - “(aa) an owner of a freehold interest in the specified premises, or”
 
-(2)[^key-9d836a743939ef03b690ea3467a4aacc] The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).
+(2)[^c-9d836a743939ef03b690ea3467a4aacc] The value of an intermediate leasehold interest which is the interest of the tenant under a minor intermediate lease is to be calculated in accordance with regulations made by the appropriate national authority instead of in accordance with sub-paragraph (1).
 
 (3) “**A minor intermediate lease**” means a lease complying with the following requirements, namely—
 
@@ -200,16 +200,16 @@ and, in the case of a lease which is in immediate reversion on two or more lease
 
 (4) Where a minor intermediate lease is in immediate reversion on two or more leases—
 
-- (a) the calculation method mentioned in sub-paragraph (2)[^key-5b902f7e0f590470119065949bcebb75] shall be applied in relation to each of those sub-leases (and sub-paragraphs (5) and (6) shall also so apply); and
-- (b) the value of the interest of the tenant under the minor intermediate lease shall accordingly be the aggregate of the amounts calculated in accordance with that method[^key-b2669eaffb7f5ff0325ab81a7cb3d920].
+- (a) the calculation method mentioned in sub-paragraph (2)[^c-5b902f7e0f590470119065949bcebb75] shall be applied in relation to each of those sub-leases (and sub-paragraphs (5) and (6) shall also so apply); and
+- (b) the value of the interest of the tenant under the minor intermediate lease shall accordingly be the aggregate of the amounts calculated in accordance with that method[^c-b2669eaffb7f5ff0325ab81a7cb3d920].
 
 (5) “**Profit rent**” means an amount equal to that of the rent payable under the lease on which the minor intermediate lease is in immediate reversion, less that of the rent payable under the minor intermediate lease.
 
 (6) Where the minor intermediate lease or that on which it is in immediate reversion comprises property other than a flat held by a qualifying tenant, then in sub-paragraph (5) the reference to the rent payable under it means so much of that rent as is apportioned to any such flat.
 
-(7)[^key-6e4a50697d22b4175c053b33c502cdea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-6e4a50697d22b4175c053b33c502cdea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-6e4a50697d22b4175c053b33c502cdea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-6e4a50697d22b4175c053b33c502cdea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) For the purposes of this paragraph the expectation of possession carried by a lease in relation to a lease (“**the sub-lease**”) on which it is in immediate reversion is the expectation of possession which it carries at the relevant date after the sub-lease, on the basis that—
 
@@ -218,7 +218,7 @@ and, in the case of a lease which is in immediate reversion on two or more lease
 
 (10) In a case where before the relevant date for the purposes of this Chapter the landlord of any such qualifying tenant as is mentioned in sub-paragraph (9)(a) had given notice to quit terminating the tenant’s sub-lease on a date earlier than that date, the date specified in the notice to quit shall be substituted for the date specified in that provision.
 
-(11)[^key-16a728f292804bdd855bc79386f0e7f5] In sub-paragraph (2) “**appropriate national authority**” means—
+(11)[^c-16a728f292804bdd855bc79386f0e7f5] In sub-paragraph (2) “**appropriate national authority**” means—
 
 - (a) in relation to a leasehold interest of land in England, the Secretary of State;
 - (b) in relation to a leasehold interest of land in Wales, the Welsh Ministers.
@@ -543,13 +543,13 @@ but sub-paragraph (1) shall apply in the first instance in relation to any amoun
 
 [^c17027751]: Textual amendment: Definition in Sch. 6 para. 1(1) repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 10 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/18/2/a), [Sch. 19 Pt.V](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/V); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-b691cddbe7755e87b206e35e5deb1e1c]: Textual amendment: Words in Sch. 6 para. 1(1) repealed (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/j); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)
+[^c-b691cddbe7755e87b206e35e5deb1e1c]: Textual amendment: Words in Sch. 6 para. 1(1) repealed (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/j); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)
 
 [^c17027771]: Textual amendment: Words in Sch. 6 para. 2(1) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/18/3/a); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
 [^c17027781]: Textual amendment: Words in Sch. 6 para. 2(1) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/18/3/b); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-34804afbe93673b8730e96733240fafc]: Textual amendment: Words in Sch. 6 substituted (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/126/1), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/a) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/1)[(1A)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/1A)) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), art. 2); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/1353/article/3/2))
+[^c-34804afbe93673b8730e96733240fafc]: Textual amendment: Words in Sch. 6 substituted (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/126/1), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/a) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/1)[(1A)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/1A)) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), art. 2); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/1353/article/3/2))
 
 [^c17027791]: Textual amendment: Words in Sch. 6 para. 3(1) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 109(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/109/2); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
@@ -559,9 +559,9 @@ but sub-paragraph (1) shall apply in the first instance in relation to any amoun
 
 [^c17108431]: Textual amendment: Words in s. Sch. 6 para. 4(1) substituted (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 127](https://www.legislation.gov.uk/ukpga/2002/15/section/127); S.I. 2002 1912, {art. 2(b)(i)} (subject to Sch. 2); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-24f7305891db7099ee85d9625fa48741]: Modification: Sch. 6 para. 4(2) modified (temp.) (28.2.2005) by [The Commonhold and Leasehold Reform Act 2002 (Commencement No.5 and Saving and Transitional Provision) Order 2004 (S.I. 2004/3056)](https://www.legislation.gov.uk/uksi/2004/3056), [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/1)
+[^c-24f7305891db7099ee85d9625fa48741]: Modification: Sch. 6 para. 4(2) modified (temp.) (28.2.2005) by [The Commonhold and Leasehold Reform Act 2002 (Commencement No.5 and Saving and Transitional Provision) Order 2004 (S.I. 2004/3056)](https://www.legislation.gov.uk/uksi/2004/3056), [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/1)
 
-[^key-005760e0153751d99c4a49980fe3ffc2]: Modification: Sch. 6 para. 4(2) modified (temp.) (17.5.2005) by [The Commonhold and Leasehold Reform Act 2002 (Commencement No. 3 and Saving and Transitional Provision) (Wales) Order 2005 (S.I. 2005/1353)](https://www.legislation.gov.uk/uksi/2005/1353), [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/1353/article/3/1)
+[^c-005760e0153751d99c4a49980fe3ffc2]: Modification: Sch. 6 para. 4(2) modified (temp.) (17.5.2005) by [The Commonhold and Leasehold Reform Act 2002 (Commencement No. 3 and Saving and Transitional Provision) (Wales) Order 2005 (S.I. 2005/1353)](https://www.legislation.gov.uk/uksi/2005/1353), [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/1353/article/3/1)
 
 [^c17108471]: Textual amendment: Words in Sch. 6 para. 4(2) inserted (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 128(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/128/2); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912) {art. 2(b)(i)} (subject to Sch. 2); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/i) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
@@ -577,15 +577,15 @@ but sub-paragraph (1) shall apply in the first instance in relation to any amoun
 
 [^c17027861]: Textual amendment: Sch. 6 para. 7(1A) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 109(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/109/4); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with saving in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-9d836a743939ef03b690ea3467a4aacc]: Textual amendment: Sch. 6 para. 7(2) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/2) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
+[^c-9d836a743939ef03b690ea3467a4aacc]: Textual amendment: Sch. 6 para. 7(2) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/2) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
 
-[^key-5b902f7e0f590470119065949bcebb75]: Textual amendment: Words in Sch. 6 para. 7(4) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/3/a) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
+[^c-5b902f7e0f590470119065949bcebb75]: Textual amendment: Words in Sch. 6 para. 7(4) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/3/a) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
 
-[^key-b2669eaffb7f5ff0325ab81a7cb3d920]: Textual amendment: Words in Sch. 6 para. 7(4) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/3/b) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
+[^c-b2669eaffb7f5ff0325ab81a7cb3d920]: Textual amendment: Words in Sch. 6 para. 7(4) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/3/b) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
 
-[^key-6e4a50697d22b4175c053b33c502cdea]: Textual amendment: Sch. 6 para. 7(7)(8) omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/4) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
+[^c-6e4a50697d22b4175c053b33c502cdea]: Textual amendment: Sch. 6 para. 7(7)(8) omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/4) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
 
-[^key-16a728f292804bdd855bc79386f0e7f5]: Textual amendment: Sch. 6 para. 7(11) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/5) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
+[^c-16a728f292804bdd855bc79386f0e7f5]: Textual amendment: Sch. 6 para. 7(11) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c), [Sch. 10 para. 4(5)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/5) (with [Sch. 10 para. 4(6)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/10/paragraph/4/6))
 
 [^c17027871]: Textual amendment: Sch. 6 para. 8 substitued (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 18(6)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/18/6); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 

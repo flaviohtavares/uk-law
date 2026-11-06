@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Service of charge and execution of diligence or warrant void where officer of court has interest.[^key-0cc536b6296f4e6b67fdd035a506c533]
+## 83. Service of charge and execution of diligence or warrant void where officer of court has interest.[^c-0cc536b6296f4e6b67fdd035a506c533]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc536b6296f4e6b67fdd035a506c533]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1987/18/section/83) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-0cc536b6296f4e6b67fdd035a506c533]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1987/18/section/83) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

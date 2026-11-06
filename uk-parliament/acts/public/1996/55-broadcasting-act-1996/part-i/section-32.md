@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by order provide for OFCOM[^key-4fc9e10f94d2a15348a1cb31625ba257] to include in no more than one relevant multiplex licence such conditions relating to the broadcasting of programmes in Gaelic for reception wholly or mainly in Scotland as may be specified in, or determined by them under, the order.
+(1) The Secretary of State may by order provide for OFCOM[^c-4fc9e10f94d2a15348a1cb31625ba257] to include in no more than one relevant multiplex licence such conditions relating to the broadcasting of programmes in Gaelic for reception wholly or mainly in Scotland as may be specified in, or determined by them under, the order.
 
 (2) The Secretary of State may by order require the holder of a multiplex licence (“**the holder**”), in complying with any such conditions, to broadcast programmes in Gaelic supplied by each of the persons mentioned in subsection (4) (“**the suppliers**”) amounting to such minimum number of hours (if any) of transmission time per year as may be specified in the order in relation to that supplier.
 
@@ -40,7 +40,7 @@ summary: ''
 
 (6) The holder may broadcast any programme supplied by virtue of subsection (3) on one occasion only.
 
-(7) The holder shall consult Seirbheis nam Meadhanan Gàidhlig[^key-22c56291199760f8974327feaaa79a0b] and the suppliers about—
+(7) The holder shall consult Seirbheis nam Meadhanan Gàidhlig[^c-22c56291199760f8974327feaaa79a0b] and the suppliers about—
 
 - (a) the quantity of programmes likely to be requested by the holder from each supplier by virtue of subsection (3), and
 - (b) the schedules proposed for the broadcast by the holder of programmes supplied by virtue of that subsection,
@@ -49,7 +49,7 @@ and shall have regard to any comments made as a result of such consultation.
 
 (8) Any order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(9)[^key-6ba4083b1dbc86303410c5a5f3959025] In this section—
+(9)[^c-6ba4083b1dbc86303410c5a5f3959025] In this section—
 
 “**Gaelic**” means the Gaelic language as spoken in Scotland;
 
@@ -59,8 +59,8 @@ and shall have regard to any comments made as a result of such consultation.
 
 ## Annotations
 
-[^key-4fc9e10f94d2a15348a1cb31625ba257]: Textual amendment: Words in s. 32(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 97(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/97/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4fc9e10f94d2a15348a1cb31625ba257]: Textual amendment: Words in s. 32(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 97(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/97/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-22c56291199760f8974327feaaa79a0b]: Textual amendment: Words in s. 32(7) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 97(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/97/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-22c56291199760f8974327feaaa79a0b]: Textual amendment: Words in s. 32(7) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 97(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/97/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6ba4083b1dbc86303410c5a5f3959025]: Textual amendment: S. 32(9) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 97(4)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/97/4) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6ba4083b1dbc86303410c5a5f3959025]: Textual amendment: S. 32(9) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 97(4)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/97/4) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

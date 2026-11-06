@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144C. Matters to consider when making CRR rules[^key-1d139ba8727fe31ad3d8eeecde729a2f]
+## 144C. Matters to consider when making CRR rules[^c-1d139ba8727fe31ad3d8eeecde729a2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d139ba8727fe31ad3d8eeecde729a2f]: Modification: [S. 144C](https://www.legislation.gov.uk/ukpga/2000/8/section/144C) modified (temp.) (22.8.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 5](https://www.legislation.gov.uk/uksi/2023/936/regulation/5)
+[^c-1d139ba8727fe31ad3d8eeecde729a2f]: Modification: [S. 144C](https://www.legislation.gov.uk/ukpga/2000/8/section/144C) modified (temp.) (22.8.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 5](https://www.legislation.gov.uk/uksi/2023/936/regulation/5)

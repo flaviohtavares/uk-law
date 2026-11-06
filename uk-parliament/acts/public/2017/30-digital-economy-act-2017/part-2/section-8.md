@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Regulation of dynamic spectrum access services[^key-8859c082a9773553d364b7578e7317f8]
+## 8. Regulation of dynamic spectrum access services[^c-8859c082a9773553d364b7578e7317f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -384,4 +384,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8859c082a9773553d364b7578e7317f8]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/30/section/8) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/c)
+[^c-8859c082a9773553d364b7578e7317f8]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/30/section/8) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/c)

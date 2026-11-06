@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Appointment to be for fixed period[^key-1057f7a4fcb37b410c24fd8e3fa245e2]
+## 43. Appointment to be for fixed period[^c-1057f7a4fcb37b410c24fd8e3fa245e2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1057f7a4fcb37b410c24fd8e3fa245e2]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2019/14/section/43) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/283/regulation/3))
+[^c-1057f7a4fcb37b410c24fd8e3fa245e2]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2019/14/section/43) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/283/regulation/3))

@@ -183,7 +183,7 @@ whichever is the latest.
 
 #### 9. Registration of vested land
 
-(1) The Keeper of the Registers of Scotland may, without prejudice to Part 2 of the Land Registration[^key-31542cd382372f0c9f53da00596137af] etc. (Scotland) Act 2012 (asp 5), register any land vested under section 6, 7 or 8 on receiving the material specified in subsection (2).
+(1) The Keeper of the Registers of Scotland may, without prejudice to Part 2 of the Land Registration[^c-31542cd382372f0c9f53da00596137af] etc. (Scotland) Act 2012 (asp 5), register any land vested under section 6, 7 or 8 on receiving the material specified in subsection (2).
 
 (2) The material referred to in subsection (1) is—
 
@@ -376,7 +376,7 @@ as may be required for any purpose for which the land may be acquired under that
 
 shall be entitled to compensation to be determined, in case of dispute, under the 1963 Act.
 
-(6)[^key-e5c8d7b3638bdd89e3ae5b45bbb044db] The powers conferred by this section constitute a real right.
+(6)[^c-e5c8d7b3638bdd89e3ae5b45bbb044db] The powers conferred by this section constitute a real right.
 
 #### 21. Temporary use of land for construction of works
 
@@ -1897,6 +1897,6 @@ Table
 
 ## Annotations
 
-[^key-31542cd382372f0c9f53da00596137af]: Textual amendment: Words in s. 9(1) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 54(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/54/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-31542cd382372f0c9f53da00596137af]: Textual amendment: Words in s. 9(1) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 54(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/54/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-e5c8d7b3638bdd89e3ae5b45bbb044db]: Textual amendment: S. 20(6) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 54(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/54/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e5c8d7b3638bdd89e3ae5b45bbb044db]: Textual amendment: S. 20(6) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 54(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/54/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

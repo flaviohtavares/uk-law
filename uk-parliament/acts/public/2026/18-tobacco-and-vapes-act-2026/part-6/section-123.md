@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Internet services[^key-9bb0720ba812e86609bfdd44d8c62ae6]
+## 123. Internet services[^c-9bb0720ba812e86609bfdd44d8c62ae6]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bb0720ba812e86609bfdd44d8c62ae6]: Commencement: S. 123 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-9bb0720ba812e86609bfdd44d8c62ae6]: Commencement: S. 123 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

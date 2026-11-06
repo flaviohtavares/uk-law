@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.6. Right to attend hearing[^key-c7455c7392a36204cce8ba69d78f6733]
+## 41.6. Right to attend hearing[^c-c7455c7392a36204cce8ba69d78f6733]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7455c7392a36204cce8ba69d78f6733]: Commencement: [Rule 41.6](https://www.legislation.gov.uk/uksi/2025/909/rule/41.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c7455c7392a36204cce8ba69d78f6733]: Commencement: [Rule 41.6](https://www.legislation.gov.uk/uksi/2025/909/rule/41.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

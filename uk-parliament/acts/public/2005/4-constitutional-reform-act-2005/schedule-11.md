@@ -55,12 +55,12 @@ Section 59
 - the Bills of Sale Act 1878 (c. 31), sections 10, 13 and 17
 - the Sheriffs Act 1887 (c. 55)
 - the Public Trustee Act 1906 (c. 55)
-- [^key-7d653e1833b3aada14e59b80df263409]...
+- [^c-7d653e1833b3aada14e59b80df263409]...
 - the Law of Property Act 1922 (c. 16)
 - the Settled Land Act 1925 (c. 18)
 - the Trustee Act 1925 (c. 19)
 - the Law of Property Act 1925 (c. 20)
-- [^key-c45505523854ba32168da8b3d550864c]...
+- [^c-c45505523854ba32168da8b3d550864c]...
 - the Registered Designs Act 1949 (c. 88)
 - the Justices of the Peace Act 1949 (c. 101)
 - the Mines and Quarries Act 1954 (c. 70)
@@ -152,8 +152,8 @@ Section 59
 - the Prosecution of Offences (Northern Ireland) Order 1972 (S.I. 1972/ 538 (N.I. 1))
 - the Administration of Justice Act 1973 (c. 15)
 - the Northern Ireland Constitution Act 1973 (c. 36)
-- [^key-7aa5c1f3b508e28f6796e8d057e1e5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-d8d7f735b5dcbc63a8f549e55ce00be8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-7aa5c1f3b508e28f6796e8d057e1e5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-d8d7f735b5dcbc63a8f549e55ce00be8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - the Solicitors (Northern Ireland) Order 1976 (S.I. 1976/582 (N.I. 12))
 - the Judicature (Northern Ireland) Act 1978 (c. 23), including section 68A(1)(a) inserted by section 10 of this Act, and any amendment to—
   - (i) the Lands Clauses Consolidation Act 1845 (c. 18), except section 3
@@ -164,7 +164,7 @@ Section 59
 - the County Courts (Northern Ireland) Order 1980 (S.I. 1980/397 (N.I. 3))
 - the Rules of the Supreme Court (Northern Ireland) (Revision) 1980 (S.R. 1980/346)
 - the Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (N.I. 6))
-- [^key-b21a83a7caf9cc3599df6428dace65b7]...
+- [^c-b21a83a7caf9cc3599df6428dace65b7]...
 - the Medical Act 1983 (c. 54)
 - the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/ 595 (N.I. 4))
 - [^c20298481]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -188,9 +188,9 @@ Section 59
 
 (3) In sections 46, 49 and 50 for “the said court” in each place substitute “ the said courts ”.
 
-#### ...[^key-6aa156bdc96b3a3eeac8d4506df739ae]
+#### ...[^c-6aa156bdc96b3a3eeac8d4506df739ae]
 
-**8.**[^key-6aa156bdc96b3a3eeac8d4506df739ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6aa156bdc96b3a3eeac8d4506df739ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Lands Clauses Consolidation Act 1845 (c. 18)
 
@@ -380,7 +380,7 @@ Section 59
 
 #### Income and Corporation Taxes Act 1988 (c. 1)
 
-**29.**[^key-136862668beaa976e03e78f94369fb20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-136862668beaa976e03e78f94369fb20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Taxation of Chargeable Gains Act 1992 (c. 12)
 
@@ -428,26 +428,26 @@ Section 59
 
 [^c20298321]: Textual amendment: Sch. 11 para. 1(2) repealed (prosp.) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)) (which amendment fell (12.11.2009) by virtue of the repeal of the amending provision by [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177](https://www.legislation.gov.uk/ukpga/2009/25/section/177), [178](https://www.legislation.gov.uk/ukpga/2009/25/section/178), [182(1)(h)(j)(v)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/h/j/v), [Sch. 21 para. 97](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/97), [Sch. 23 Pt. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/9) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)))
 
-[^key-7d653e1833b3aada14e59b80df263409]: Textual amendment: Entry in Sch. 11 para. 4(3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(19)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/19/b) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-7d653e1833b3aada14e59b80df263409]: Textual amendment: Entry in Sch. 11 para. 4(3) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(19)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/19/b) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
-[^key-c45505523854ba32168da8b3d550864c]: Textual amendment: Words in Sch. 11 para. 4(3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/23); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-c45505523854ba32168da8b3d550864c]: Textual amendment: Words in Sch. 11 para. 4(3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/23); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c20294571]: Textual amendment: Sch. 11 para. 4(3): entries repealed (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c20298411]: Textual amendment: Sch. 11 para. 6(3): entry repealed (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(5)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1307/schedule/4)
 
-[^key-7aa5c1f3b508e28f6796e8d057e1e5cc]: Textual amendment: Sch. 11 para. 6(3) entry repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
+[^c-7aa5c1f3b508e28f6796e8d057e1e5cc]: Textual amendment: Sch. 11 para. 6(3) entry repealed (1.4.2010) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/2); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2010/708/article/4/2/d)
 
-[^key-d8d7f735b5dcbc63a8f549e55ce00be8]: Textual amendment: Sch. 11 para. 6(3) entry repealed (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
+[^c-d8d7f735b5dcbc63a8f549e55ce00be8]: Textual amendment: Sch. 11 para. 6(3) entry repealed (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
 
-[^key-b21a83a7caf9cc3599df6428dace65b7]: Textual amendment: Entry in Sch. 11 para. 6(3) repealed (N.I) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
+[^c-b21a83a7caf9cc3599df6428dace65b7]: Textual amendment: Entry in Sch. 11 para. 6(3) repealed (N.I) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
 
 [^c20298481]: Textual amendment: Sch. 11 para. 6(3): entry repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6aa156bdc96b3a3eeac8d4506df739ae]: Textual amendment: [Sch. 11 para. 8 and cross-heading](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/part/4/crossheading/ecclesiastical-houses-of-residence-act-1842-c-26) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-6aa156bdc96b3a3eeac8d4506df739ae]: Textual amendment: [Sch. 11 para. 8 and cross-heading](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/part/4/crossheading/ecclesiastical-houses-of-residence-act-1842-c-26) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c19679191]: Textual amendment: [Sch. 11 para. 21(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/21/3) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
 [^c19679201]: Textual amendment: [Sch. 11 para. 23(2)(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/23/2/3) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-136862668beaa976e03e78f94369fb20]: Textual amendment: [Sch. 11 para. 29](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/29) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-136862668beaa976e03e78f94369fb20]: Textual amendment: [Sch. 11 para. 29](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/29) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

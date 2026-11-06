@@ -34,7 +34,7 @@ Regulations 4(2) and 7(3) of this Statutory Instrument are being made in consequ
 
 Agriculture, England
 
-The Direct Payments to Farmers (Reductions and Simplifications) (England) (Amendment) Regulations 2021 (revoked)[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+The Direct Payments to Farmers (Reductions and Simplifications) (England) (Amendment) Regulations 2021 (revoked)[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 Made
 
@@ -44,46 +44,46 @@ Coming into force
 
 26th March 2021
 
-[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 1. Citation, commencement and application[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulation (EU) No 1306/2013[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 2. Amendment of Regulation (EU) No 1306/2013[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Regulation (EU) No 1307/2013[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 3. Amendment of Regulation (EU) No 1307/2013[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Commission Delegated Regulation (EU) No 640/2014[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 4. Amendment of Commission Delegated Regulation (EU) No 640/2014[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Commission Implementing Regulation (EU) No 809/2014[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 5. Amendment of Commission Implementing Regulation (EU) No 809/2014[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Commission Implementing Regulation (EU) No 908/2014[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 6. Amendment of Commission Implementing Regulation (EU) No 908/2014[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 7. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]
+## 8. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4d3b1f64fdf85512b6d34fbd22fe2d26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/407) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-4d3b1f64fdf85512b6d34fbd22fe2d26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/407) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

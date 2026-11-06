@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Registration of busway services and substitute road services[^key-ab7241e4f5b49adc9f7e686bead25e4d]
+## 47. Registration of busway services and substitute road services[^c-ab7241e4f5b49adc9f7e686bead25e4d]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7241e4f5b49adc9f7e686bead25e4d]: Commencement: Art. 47 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-ab7241e4f5b49adc9f7e686bead25e4d]: Commencement: Art. 47 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00026]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).

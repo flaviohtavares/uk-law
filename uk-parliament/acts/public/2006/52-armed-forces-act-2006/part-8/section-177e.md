@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177E. Exercise of power to make deprivation order[^key-b6456bc364a337471eeaa9dd5ac010d5]
+## 177E. Exercise of power to make deprivation order[^c-b6456bc364a337471eeaa9dd5ac010d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6456bc364a337471eeaa9dd5ac010d5]: Textual amendment: Ss. 177B-177F and cross-heading inserted (1.5.2022 for specified purposes, 22.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2021/35/section/14/4), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)
+[^c-b6456bc364a337471eeaa9dd5ac010d5]: Textual amendment: Ss. 177B-177F and cross-heading inserted (1.5.2022 for specified purposes, 22.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2021/35/section/14/4), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Interpretation of Part 9[^key-0f7825a3aeac2f4eba316cccb8d25896]
+## 74. Interpretation of Part 9[^c-0f7825a3aeac2f4eba316cccb8d25896]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f7825a3aeac2f4eba316cccb8d25896]: Commencement: Reg. 74 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-0f7825a3aeac2f4eba316cccb8d25896]: Commencement: Reg. 74 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

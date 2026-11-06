@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 818. Charge to tax on gains from transactions in land[^key-9f84b6f9d67d317e41e7965a1716d88e]
+## 818. Charge to tax on gains from transactions in land[^c-9f84b6f9d67d317e41e7965a1716d88e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f84b6f9d67d317e41e7965a1716d88e]: Textual amendment: Pt. 18 omitted (with effect in accordance with s. 81 of the amending Act and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/4)
+[^c-9f84b6f9d67d317e41e7965a1716d88e]: Textual amendment: Pt. 18 omitted (with effect in accordance with s. 81 of the amending Act and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Power to acquire land[^key-aec0c17100c9e54f086258a3b91fb464]
+## 31. Power to acquire land[^c-aec0c17100c9e54f086258a3b91fb464]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aec0c17100c9e54f086258a3b91fb464]: Commencement: Art. 31 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-aec0c17100c9e54f086258a3b91fb464]: Commencement: Art. 31 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

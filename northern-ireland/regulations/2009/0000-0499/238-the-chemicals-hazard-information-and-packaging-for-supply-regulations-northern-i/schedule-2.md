@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — INDICATIONS OF DANGER AND SYMBOLS FOR DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^key-35565bc3f3a1c1ea044c5e01d823d2c1]
+## SCHEDULE 2 — INDICATIONS OF DANGER AND SYMBOLS FOR DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^c-35565bc3f3a1c1ea044c5e01d823d2c1]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ Regulations 2(1), 8(2) and 10(6)
 
 ## Annotations
 
-[^key-35565bc3f3a1c1ea044c5e01d823d2c1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-35565bc3f3a1c1ea044c5e01d823d2c1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)

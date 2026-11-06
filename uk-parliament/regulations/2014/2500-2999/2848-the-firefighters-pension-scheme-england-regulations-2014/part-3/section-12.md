@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Opting into this scheme[^key-416f58a5dbdc25ca6e2d3cdf9c7cf4c6]
+## 12. Opting into this scheme[^c-416f58a5dbdc25ca6e2d3cdf9c7cf4c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-416f58a5dbdc25ca6e2d3cdf9c7cf4c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/2848/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-416f58a5dbdc25ca6e2d3cdf9c7cf4c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/2848/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

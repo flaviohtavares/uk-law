@@ -22,7 +22,7 @@ summary: ''
 
 Section 25
 
-### 1. Highways Act 1980: delegation of functions relating to trunk roads[^key-58ce40109dbc0f429d657668db4421db]
+### 1. Highways Act 1980: delegation of functions relating to trunk roads[^c-58ce40109dbc0f429d657668db4421db]
 
 (1) Section 6 of the Highways Act 1980 (delegation etc of functions with respect to trunk roads) is amended in accordance with this paragraph.
 
@@ -92,7 +92,7 @@ Section 25
 >   - (a) a county council, or
 >   - (b) a unitary district council.
 
-### 2. Highways Act 1980: agreements for doing certain works[^key-7abb599451209312894b4a27d1cd8fb3]
+### 2. Highways Act 1980: agreements for doing certain works[^c-7abb599451209312894b4a27d1cd8fb3]
 
 (1) Section 8 of the Highways Act 1980 (agreements between local highway authorities and strategic highways companies for doing of certain works) is amended in accordance with this paragraph.
 
@@ -125,6 +125,6 @@ Section 25
 
 ## Annotations
 
-[^key-58ce40109dbc0f429d657668db4421db]: Commencement: Sch. 8 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-58ce40109dbc0f429d657668db4421db]: Commencement: Sch. 8 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-7abb599451209312894b4a27d1cd8fb3]: Commencement: Sch. 8 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-7abb599451209312894b4a27d1cd8fb3]: Commencement: Sch. 8 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

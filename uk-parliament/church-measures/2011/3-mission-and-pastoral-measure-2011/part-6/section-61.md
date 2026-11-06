@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 61. Use seeking period[^key-68e980f635d002f9f44c9a11d27ba47b]
+## 61. Use seeking period[^c-68e980f635d002f9f44c9a11d27ba47b]
 
 *Extent: E*
 
@@ -31,12 +31,12 @@ Provided that the Commissioners shall not prepare a pastoral (church buildings d
 - (c) the said board may with the consent of the bishop and of the incumbent or priest in charge of the benefice in the area of which the building closed for regular public worship is situated permit the building to be used occasionally for worship, including worship by persons belonging to other Christian Churches;
 - (d) while incurring no financial obligation, the incumbent or priest in charge and churchwardens of the parish in which the building closed for regular public worship is situated shall give the diocesan board of finance every assistance in providing for reasonable supervision of the building against damage.
 
-(3) On a declaration of closure for regular public worship taking effect, any liability of a parochial church council or rector (including a lay rector) for the repair and maintenance of the building closed for regular public worship and the safe keeping of its contents shall cease, and sections 45 to 48 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^key-4c9b8dcf9a3a509352fcad31cf70d83e] shall cease to apply to the building.
+(3) On a declaration of closure for regular public worship taking effect, any liability of a parochial church council or rector (including a lay rector) for the repair and maintenance of the building closed for regular public worship and the safe keeping of its contents shall cease, and sections 45 to 48 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^c-4c9b8dcf9a3a509352fcad31cf70d83e] shall cease to apply to the building.
 
 (4) Where the diocesan board of finance transfers any of the contents of the building closed for regular public worship to some other place, the board shall serve a notice on the Commissioners, the Church Buildings Council, the Churches Conservation Trust and the registrar of the diocese informing them of the transfer and giving particulars of the contents transferred and the address of the place in question, and shall serve a similar notice on any incumbent, priest in charge, parochial church council or sequestrators concerned.
 
 ## Annotations
 
-[^key-68e980f635d002f9f44c9a11d27ba47b]: Commencement: S. 61 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-68e980f635d002f9f44c9a11d27ba47b]: Commencement: S. 61 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-4c9b8dcf9a3a509352fcad31cf70d83e]: Textual amendment: Words in s. 61(3) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/18) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-4c9b8dcf9a3a509352fcad31cf70d83e]: Textual amendment: Words in s. 61(3) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/18) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

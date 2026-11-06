@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Intervention in case of functions relating to water etc.[^key-bbe38779ee537702ff8089be309eae5a]
+## 152. Intervention in case of functions relating to water etc.[^c-bbe38779ee537702ff8089be309eae5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbe38779ee537702ff8089be309eae5a]: Textual amendment: S. 152 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 52(1)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/52/1/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/k)
+[^c-bbe38779ee537702ff8089be309eae5a]: Textual amendment: S. 152 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 52(1)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/52/1/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/k)

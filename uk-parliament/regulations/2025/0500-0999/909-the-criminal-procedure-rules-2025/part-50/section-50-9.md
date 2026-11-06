@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.9. Preliminary hearing after arrest[^key-cfbb26ea107999930884db946e431a06]
+## 50.9. Preliminary hearing after arrest[^c-cfbb26ea107999930884db946e431a06]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cfbb26ea107999930884db946e431a06]: Commencement: [Rule 50.9](https://www.legislation.gov.uk/uksi/2025/909/rule/50.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cfbb26ea107999930884db946e431a06]: Commencement: [Rule 50.9](https://www.legislation.gov.uk/uksi/2025/909/rule/50.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01338]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 72 was amended by paragraph 16 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48).
 

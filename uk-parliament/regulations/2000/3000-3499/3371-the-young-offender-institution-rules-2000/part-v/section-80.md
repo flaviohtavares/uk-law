@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The independent monitoring board[^key-a0ab931e484e1577d5341bf30d778deb] for a young offender institution shall meet at the institution at least once a month.
+(1) The independent monitoring board[^c-a0ab931e484e1577d5341bf30d778deb] for a young offender institution shall meet at the institution at least once a month.
 
 (2) The board may fix a quorum of not fewer than three members for proceedings.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0ab931e484e1577d5341bf30d778deb]: Textual amendment: Words in [rule 80(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/80/1) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)
+[^c-a0ab931e484e1577d5341bf30d778deb]: Textual amendment: Words in [rule 80(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/80/1) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)

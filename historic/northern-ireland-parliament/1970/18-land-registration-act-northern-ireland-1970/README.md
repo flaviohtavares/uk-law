@@ -38,7 +38,7 @@ Land Registration Act (Northern Ireland) 1970
 
 (b) section 85(3)( *m*) authorises the making of Land Registry Rules providing for the taxation of costs by the taxing master of the Court of Judicature[^c21314741].
 
-And Whereas the Clerk of the Parliaments has certified accordingly pursuant to section 1 of the Legislative Procedure Act (Northern Ireland) 1933 [^c17510801], as applied by section 12(4) of the Northern Ireland Act 1962 for the purposes of the said section 12(2)(b).[^key-71893eeddd7a9c8ee1c09286822211b6]
+And Whereas the Clerk of the Parliaments has certified accordingly pursuant to section 1 of the Legislative Procedure Act (Northern Ireland) 1933 [^c17510801], as applied by section 12(4) of the Northern Ireland Act 1962 for the purposes of the said section 12(2)(b).[^c-71893eeddd7a9c8ee1c09286822211b6]
 
 ## Contents
 
@@ -268,4 +268,4 @@ SCHEDULES
 
 [^c17510801]: Marginal citation: [1933 c. 4](https://www.legislation.gov.uk/ukpga/1933/4)
 
-[^key-71893eeddd7a9c8ee1c09286822211b6]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/18) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/a)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-71893eeddd7a9c8ee1c09286822211b6]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/18) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/a)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))

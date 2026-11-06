@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Obligation of licensing authority in case of change of classification[^key-492f9f05b510952e1058ff717058fa0a]
+## 70. Obligation of licensing authority in case of change of classification[^c-492f9f05b510952e1058ff717058fa0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ After regulation 64, insert—
 >
 > (2) This regulation applies where—
 >
-> - (a)[^key-393a5b4e4b2c2b39308cd46b2edeb396] the licensing authority grants or varies—
+> - (a)[^c-393a5b4e4b2c2b39308cd46b2edeb396] the licensing authority grants or varies—
 >   - (i) a UK marketing authorisation;
 >   - (ii) an Article 126a authorisation;
 >   - (iii) a traditional herbal registration; or
@@ -42,6 +42,6 @@ After regulation 64, insert—
 
 ## Annotations
 
-[^key-492f9f05b510952e1058ff717058fa0a]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-492f9f05b510952e1058ff717058fa0a]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-393a5b4e4b2c2b39308cd46b2edeb396]: Textual amendment: Words in reg. 70 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/53)
+[^c-393a5b4e4b2c2b39308cd46b2edeb396]: Textual amendment: Words in reg. 70 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/53)

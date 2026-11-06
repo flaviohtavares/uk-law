@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Duration[^key-0ec358300f340490144b2812aec11aeb]
+## 14. Duration[^c-0ec358300f340490144b2812aec11aeb]
 
 *Extent: N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The circumstances referred to in paragraph (1) are that the Board wishes to enter into a temporary contract for a period not exceeding twelve months for the provision of services to the former patients of a contractor, following the termination of that contractor’s contract.
 
-(3) Either party to a prospective contract to which paragraph (2) applies may, if it wishes to do so, invite the Local Medical Committee for the area [^key-85930cba723915b61f91b926cc2b8217]...to participate in the negotiations intending to lead to such a contract.
+(3) Either party to a prospective contract to which paragraph (2) applies may, if it wishes to do so, invite the Local Medical Committee for the area [^c-85930cba723915b61f91b926cc2b8217]...to participate in the negotiations intending to lead to such a contract.
 
 ## Annotations
 
-[^key-0ec358300f340490144b2812aec11aeb]: Commencement: Reg. 14 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-0ec358300f340490144b2812aec11aeb]: Commencement: Reg. 14 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-85930cba723915b61f91b926cc2b8217]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/nisr/2004/140/regulation/14/3) deleted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2013/59/regulation/5)
+[^c-85930cba723915b61f91b926cc2b8217]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/nisr/2004/140/regulation/14/3) deleted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2013/59/regulation/5)

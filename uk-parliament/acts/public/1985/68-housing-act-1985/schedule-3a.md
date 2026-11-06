@@ -56,7 +56,7 @@ and a certificate under sub-paragraph (b) shall be accompanied by a copy of the 
 
 - (a) such details of their proposal as the authority consider appropriate, but including the identity of the person to whom the disposal is to be made,
 - (b) the likely consequences of the disposal for the tenant, and
-- (c) the effect of the provisions of this Schedule and , in the case of a secure tenant,[^c15084281] of a dwelling-house in England[^key-70023765c7fce2b77469adb62570bdb3] of sections 171A to 171H (preservation of right to buy on disposal to private sector landlord),
+- (c) the effect of the provisions of this Schedule and , in the case of a secure tenant,[^c15084281] of a dwelling-house in England[^c-70023765c7fce2b77469adb62570bdb3] of sections 171A to 171H (preservation of right to buy on disposal to private sector landlord),
 
 and informing him that he may, within such reasonable period as may be specified in the notice, make representations to the authority.
 
@@ -118,7 +118,7 @@ and informing him of the effect of paragraph 5 (consent to be withheld if majori
 
 [^c15084281]: Textual amendment: Words in Sch. 3A para. 3(2)(c) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 3(l)(ii)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/3/l/ii)
 
-[^key-70023765c7fce2b77469adb62570bdb3]: Textual amendment: Words in [Sch. 3A para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/1985/68/schedule/3A/paragraph/3/2/c) inserted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(o)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/o) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-70023765c7fce2b77469adb62570bdb3]: Textual amendment: Words in [Sch. 3A para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/1985/68/schedule/3A/paragraph/3/2/c) inserted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(o)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/o) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
 
 [^c19919661]: Textual amendment: Sch. 3A para. 3(4)-(6) inserted (22.9.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 294(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/294/2), [325(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/2) (with [s. 294(5)(6)](https://www.legislation.gov.uk/ukpga/2008/17/section/294/5/6))
 

@@ -40,185 +40,185 @@ Coming into operation
 
 1st January 2015
 
-[^key-e5e09759352bd87f95bb024f392d7b84]The Department of the Environment and the Department of Agriculture and Rural Development, being departments designated [^c22292501] for the purposes of section 2(2) of the European Communities Act 1972([^c22292511] in relation to the environment, acting jointly in exercise of the powers conferred upon them by that section and the Department of the Environment in exercise of the powers conferred on it by Article 32 of the Waste and Contaminated Land (Northern Ireland) Order 1997([^c22292521] and, in accordance with Article 32(3) of that Order, the Department of the Environment having published a notice indicating the effect of these Regulations and having taken into consideration the representations made to it in accordance with the notice, make the following Regulations.
+[^c-e5e09759352bd87f95bb024f392d7b84]The Department of the Environment and the Department of Agriculture and Rural Development, being departments designated [^c22292501] for the purposes of section 2(2) of the European Communities Act 1972([^c22292511] in relation to the environment, acting jointly in exercise of the powers conferred upon them by that section and the Department of the Environment in exercise of the powers conferred on it by Article 32 of the Waste and Contaminated Land (Northern Ireland) Order 1997([^c22292521] and, in accordance with Article 32(3) of that Order, the Department of the Environment having published a notice indicating the effect of these Regulations and having taken into consideration the representations made to it in accordance with the notice, make the following Regulations.
 
-## PART 1 — Preliminary[^key-e5e09759352bd87f95bb024f392d7b84]
-
-**No longer in force.**
-
-### 1. Citation and commencement[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Purpose of and application of Regulations[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Interpretation[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — General[^key-e5e09759352bd87f95bb024f392d7b84]
+## PART 1 — Preliminary[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 4. Duty of the controller to prevent water pollution[^key-e5e09759352bd87f95bb024f392d7b84]
+### 1. Citation and commencement[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Duty of the controller to comply with these Regulations[^key-e5e09759352bd87f95bb024f392d7b84]
+### 2. Purpose of and application of Regulations[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Exemptions granted by the Department[^key-e5e09759352bd87f95bb024f392d7b84]
+### 3. Interpretation[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Prevention of water pollution from the application of fertilisers[^key-e5e09759352bd87f95bb024f392d7b84]
+## PART 2 — General[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 7. Periods when the land application of fertiliser is prohibited[^key-e5e09759352bd87f95bb024f392d7b84]
+### 4. Duty of the controller to prevent water pollution[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Requirements as to the manner of land application of fertiliser to any agricultural land[^key-e5e09759352bd87f95bb024f392d7b84]
+### 5. Duty of the controller to comply with these Regulations[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. General measures governing the limits on land application of nitrogen fertiliser[^key-e5e09759352bd87f95bb024f392d7b84]
+### 6. Exemptions granted by the Department[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Measures governing the limits on land application of nitrogen fertiliser to grassland[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Measures governing the limits on land application of nitrogen fertiliser to land other than grassland[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. Derogation from the measures governing the limits on land application of livestock manure[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Measures governing the limits on land application of organic manures with a high proportion of phosphorus[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — Storage requirements[^key-e5e09759352bd87f95bb024f392d7b84]
+## PART 3 — Prevention of water pollution from the application of fertilisers[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 14. General obligations as to storage facilities for livestock manure and silage effluent[^key-e5e09759352bd87f95bb024f392d7b84]
+### 7. Periods when the land application of fertiliser is prohibited[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Obligations as to livestock manure storage capacity on pig and poultry enterprises[^key-e5e09759352bd87f95bb024f392d7b84]
+### 8. Requirements as to the manner of land application of fertiliser to any agricultural land[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Manner of storage of slurry[^key-e5e09759352bd87f95bb024f392d7b84]
+### 9. General measures governing the limits on land application of nitrogen fertiliser[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Manner of storage of farmyard manure and location of storage facilities[^key-e5e09759352bd87f95bb024f392d7b84]
+### 10. Measures governing the limits on land application of nitrogen fertiliser to grassland[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Manner of storage of poultry litter and location of storage facilities[^key-e5e09759352bd87f95bb024f392d7b84]
+### 11. Measures governing the limits on land application of nitrogen fertiliser to land other than grassland[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Manner of storage of dirty water[^key-e5e09759352bd87f95bb024f392d7b84]
+### 12. Derogation from the measures governing the limits on land application of livestock manure[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Calculation of livestock manure storage capacity[^key-e5e09759352bd87f95bb024f392d7b84]
+### 13. Measures governing the limits on land application of organic manures with a high proportion of phosphorus[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Making and storage of silage[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 5 — Measures relating to land management[^key-e5e09759352bd87f95bb024f392d7b84]
+## PART 4 — Storage requirements[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 22. Cover in winter[^key-e5e09759352bd87f95bb024f392d7b84]
+### 14. General obligations as to storage facilities for livestock manure and silage effluent[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Crop management[^key-e5e09759352bd87f95bb024f392d7b84]
+### 15. Obligations as to livestock manure storage capacity on pig and poultry enterprises[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Crop management for derogated holdings[^key-e5e09759352bd87f95bb024f392d7b84]
+### 16. Manner of storage of slurry[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Record keeping and compliance monitoring[^key-e5e09759352bd87f95bb024f392d7b84]
+### 17. Manner of storage of farmyard manure and location of storage facilities[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Manner of storage of poultry litter and location of storage facilities[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Manner of storage of dirty water[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Calculation of livestock manure storage capacity[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Making and storage of silage[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Measures relating to land management[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 25. Type of records required[^key-e5e09759352bd87f95bb024f392d7b84]
+### 22. Cover in winter[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Duty of the controller not to provide false or misleading information[^key-e5e09759352bd87f95bb024f392d7b84]
+### 23. Crop management[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Enforcement[^key-e5e09759352bd87f95bb024f392d7b84]
+### 24. Crop management for derogated holdings[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Record keeping and compliance monitoring[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 27. Enforcement[^key-e5e09759352bd87f95bb024f392d7b84]
+### 25. Type of records required[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Notices[^key-e5e09759352bd87f95bb024f392d7b84]
+### 26. Duty of the controller not to provide false or misleading information[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Appeals against notices requiring works etc.[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 30. Offences[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 31. Penalties[^key-e5e09759352bd87f95bb024f392d7b84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 8 — Powers, duties and functions of the Departments[^key-e5e09759352bd87f95bb024f392d7b84]
+## PART 7 — Enforcement[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 32. Reporting[^key-e5e09759352bd87f95bb024f392d7b84]
+### 27. Enforcement[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Reviewing[^key-e5e09759352bd87f95bb024f392d7b84]
+### 28. Notices[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 9 — Miscellaneous[^key-e5e09759352bd87f95bb024f392d7b84]
+### 29. Appeals against notices requiring works etc.[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Offences[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Penalties[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Powers, duties and functions of the Departments[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
-### 34. Transitional provisions[^key-e5e09759352bd87f95bb024f392d7b84]
+### 32. Reporting[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Consequential amendments[^key-e5e09759352bd87f95bb024f392d7b84]
+### 33. Reviewing[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Revocations[^key-e5e09759352bd87f95bb024f392d7b84]
+## PART 9 — Miscellaneous[^c-e5e09759352bd87f95bb024f392d7b84]
+
+**No longer in force.**
+
+### 34. Transitional provisions[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Consequential amendments[^c-e5e09759352bd87f95bb024f392d7b84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Revocations[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -244,9 +244,9 @@ SCHEDULES
 
 Regulations 3(2), 9(2) to (5), 10,11, 12(4) and (7), 13(2),20(3) and (6) and 25(2)
 
-Table 1a *(affected by repeal, see note)*[^key-e5e09759352bd87f95bb024f392d7b84]
+Table 1a *(affected by repeal, see note)*[^c-e5e09759352bd87f95bb024f392d7b84]
 
-Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for grazing livestock *(affected by repeal, see note)*[^key-e5e09759352bd87f95bb024f392d7b84]
+Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for grazing livestock *(affected by repeal, see note)*[^c-e5e09759352bd87f95bb024f392d7b84]
 
 <table>
 <tbody>
@@ -286,9 +286,9 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
-[^key-e5e09759352bd87f95bb024f392d7b84]...
+[^c-e5e09759352bd87f95bb024f392d7b84]...
 
 <table>
 <tfoot>
@@ -314,7 +314,7 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
 <table>
 <tfoot>
@@ -336,7 +336,7 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
 <table>
 <tfoot>
@@ -371,17 +371,17 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
 |  |  |
 | --- | --- |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
-| [^key-e5e09759352bd87f95bb024f392d7b84]. . . | [^key-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
+| [^c-e5e09759352bd87f95bb024f392d7b84]. . . | [^c-e5e09759352bd87f95bb024f392d7b84]. . . |
 
 <table>
 <tfoot>
@@ -394,7 +394,7 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
 <table>
 <tfoot>
@@ -411,7 +411,7 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
 <table>
 <tfoot>
@@ -449,71 +449,71 @@ Regulations 9, 12 and 20 - Nitrogen (N) and phosphorus (P) excretion rates for g
 </tbody>
 </table>
 
-[^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84][^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84][^c-e5e09759352bd87f95bb024f392d7b84]
 
-[^key-e5e09759352bd87f95bb024f392d7b84]
+[^c-e5e09759352bd87f95bb024f392d7b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Requirements for slurry storage systems[^key-e5e09759352bd87f95bb024f392d7b84]
+## SCHEDULE 2 — Requirements for slurry storage systems[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
 Regulation 16(1)
 
-**1.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Requirements for silos[^key-e5e09759352bd87f95bb024f392d7b84]
+## SCHEDULE 3 — Requirements for silos[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
 Regulation 21(1)(a)
 
-**1.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Risk assessment for fertiliser application to steeply sloping land[^key-e5e09759352bd87f95bb024f392d7b84]
+## SCHEDULE 4 — Risk assessment for fertiliser application to steeply sloping land[^c-e5e09759352bd87f95bb024f392d7b84]
 
 **No longer in force.**
 
 Regulation 8(2)(f)
 
-**10.**[^key-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e5e09759352bd87f95bb024f392d7b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -585,7 +585,7 @@ Copies of Council Directive [91/676/EEC](https://www.legislation.gov.uk/european
 
 ## Annotations
 
-[^key-e5e09759352bd87f95bb024f392d7b84]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2014/307) revoked (except Sch. 1 Table 1a which continues to have effect until 31.12.2019) (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [reg. 38(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/38/1/a) (with [regs. 36](https://www.legislation.gov.uk/nisr/2019/81/regulation/36), [38(2)](https://www.legislation.gov.uk/nisr/2019/81/regulation/38/2))
+[^c-e5e09759352bd87f95bb024f392d7b84]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2014/307) revoked (except Sch. 1 Table 1a which continues to have effect until 31.12.2019) (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [reg. 38(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/38/1/a) (with [regs. 36](https://www.legislation.gov.uk/nisr/2019/81/regulation/36), [38(2)](https://www.legislation.gov.uk/nisr/2019/81/regulation/38/2))
 
 [^c22292501]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301)
 

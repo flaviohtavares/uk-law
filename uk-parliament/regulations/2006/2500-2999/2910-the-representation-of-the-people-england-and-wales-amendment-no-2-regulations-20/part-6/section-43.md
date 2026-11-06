@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Additional requirements for certain proxy applications for a particular election[^key-1055219f7d26513dc1af83b1e29e0d3e]
+## 43. Additional requirements for certain proxy applications for a particular election[^c-1055219f7d26513dc1af83b1e29e0d3e]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1055219f7d26513dc1af83b1e29e0d3e]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2006/2910/regulation/43) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-1055219f7d26513dc1af83b1e29e0d3e]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2006/2910/regulation/43) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00068]: Footnote: Regulation 55 has been amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

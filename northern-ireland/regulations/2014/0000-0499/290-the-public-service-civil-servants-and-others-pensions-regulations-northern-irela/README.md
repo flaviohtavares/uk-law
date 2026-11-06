@@ -225,7 +225,7 @@ In accordance with section 21 of that Act, the Department of Finance and Personn
 - [Section 68 — Annual rate of partial retirement pension](part-6/section-68.md)
 - [Section 69 — Annual rate of full retirement pension](part-6/section-69.md)
 
-#### CHAPTER 4 — Ill-Health benefits[^key-649b84b48f66c7f3105ba93abf0c635e]
+#### CHAPTER 4 — Ill-Health benefits[^c-649b84b48f66c7f3105ba93abf0c635e]
 
 *Extent: N.I.*
 
@@ -520,4 +520,4 @@ An impact assessment has not been prepared for this rule as no impact on the cos
 
 [^f00004]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-649b84b48f66c7f3105ba93abf0c635e]: Textual amendment: Word in [Ch. 4](https://www.legislation.gov.uk/nisr/2014/290/chapter/4) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [21](https://www.legislation.gov.uk/nisr/2022/67/regulation/21)
+[^c-649b84b48f66c7f3105ba93abf0c635e]: Textual amendment: Word in [Ch. 4](https://www.legislation.gov.uk/nisr/2014/290/chapter/4) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [21](https://www.legislation.gov.uk/nisr/2022/67/regulation/21)

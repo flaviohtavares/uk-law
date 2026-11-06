@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. The Sheriff Appeal Court[^key-f4804ad350be3008e1245651e44fce72][^key-fc3348d22ce03b05c02e8a4323da959a]
+## 46. The Sheriff Appeal Court[^c-f4804ad350be3008e1245651e44fce72][^c-fc3348d22ce03b05c02e8a4323da959a]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4804ad350be3008e1245651e44fce72]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/18/section/46) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-f4804ad350be3008e1245651e44fce72]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/18/section/46) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-fc3348d22ce03b05c02e8a4323da959a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/18/section/46) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-fc3348d22ce03b05c02e8a4323da959a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/18/section/46) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

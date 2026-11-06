@@ -31,7 +31,7 @@ Bills of Sale Act (1878) Amendment Act 1882
 
 An Act to amend the Bills of Sale Act 1878.
 
-\[18th August 1882\][^c570349][^c570350][^key-8722206d72dcc9081f9196b84fb54632]
+\[18th August 1882\][^c570349][^c570350][^c-8722206d72dcc9081f9196b84fb54632]
 
 ## 1. Short title.
 
@@ -69,7 +69,7 @@ Personal chattels assigned under a bill of sale shall not be liable to be seized
 
 (1) If the grantor shall make default in payment of the sum or sums of money thereby secured at the time therein provided for payment, or in the performance of any covenant or agreement contained in the bill of sale and necessary for maintaining the security;
 
-(2) If the grantor shall become bankrupt, or suffer the said goods or any of them to be distrained , or taken control of using the power in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007,[^key-0a7a73bffd89ac03268e318518194663] for rent, rates, or taxes;
+(2) If the grantor shall become bankrupt, or suffer the said goods or any of them to be distrained , or taken control of using the power in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007,[^c-0a7a73bffd89ac03268e318518194663] for rent, rates, or taxes;
 
 (3) If the grantor shall fraudulently either remove or suffer the said goods, or any of them, to be removed from the premises;
 
@@ -102,9 +102,9 @@ The execution of every bill of sale by the grantor shall be attested by one or m
 
 ## 11. Local registration of contents of bills of sale.[^c570356]
 
-Where the affidavit (which under section ten of the principal Act is required to accompany a bill of sale when presented for registration) describes the residence of the person making or giving the same or of the person against whom the process is issued to be in some place outside the London insolvency district[^c570357] or where the bill of sale describes the chattels enumerated therein as being in some place outside the London insolvency district, the registrar under the principal Act shall forthwith and within three clear days after registration in the principal registry, and in accordance with the prescribed directions, transmit an abstract in the prescribed form of the contents of such bill of sale to the county court[^key-f457f1a2a7ab63d45752f4d0c7bbcd6d].
+Where the affidavit (which under section ten of the principal Act is required to accompany a bill of sale when presented for registration) describes the residence of the person making or giving the same or of the person against whom the process is issued to be in some place outside the London insolvency district[^c570357] or where the bill of sale describes the chattels enumerated therein as being in some place outside the London insolvency district, the registrar under the principal Act shall forthwith and within three clear days after registration in the principal registry, and in accordance with the prescribed directions, transmit an abstract in the prescribed form of the contents of such bill of sale to the county court[^c-f457f1a2a7ab63d45752f4d0c7bbcd6d].
 
-Every abstract so transmitted shall be filed, kept, and indexed by the [^key-62320fe33b03b72bb421e18d4b4609e8]... county court in the prescribed manner, and any person may search, inspect, make extracts from, and obtain copies of the abstract so registered in the like manner, and upon the like terms as to payment or otherwise as near as may be as in the case of bills of sale registered by the registrar under the principal Act.
+Every abstract so transmitted shall be filed, kept, and indexed by the [^c-62320fe33b03b72bb421e18d4b4609e8]... county court in the prescribed manner, and any person may search, inspect, make extracts from, and obtain copies of the abstract so registered in the like manner, and upon the like terms as to payment or otherwise as near as may be as in the case of bills of sale registered by the registrar under the principal Act.
 
 ## 12. Bill of sale under 30l. to be void.
 
@@ -116,7 +116,7 @@ All personal chattels seized or of which possession is taken . . . . . . [^c5703
 
 ## 14. Bill of sale not to protect chattels against poor and parochial rates.[^c570360]
 
-A bill of sale to which this Act applies shall be no protection in respect of personal chattels included in such bill of sale which but for such bill of sale would have been liable to distress under a warrant , or subject to a warrant of control,[^key-90fde082df52259d63b307d0f0c4b123] for the recovery of taxes and poor and other parochial rates.
+A bill of sale to which this Act applies shall be no protection in respect of personal chattels included in such bill of sale which but for such bill of sale would have been liable to distress under a warrant , or subject to a warrant of control,[^c-90fde082df52259d63b307d0f0c4b123] for the recovery of taxes and poor and other parochial rates.
 
 ## 15. Repeal of part of Bills of Sale Act, 1878.
 
@@ -152,13 +152,13 @@ Signed and sealed by the said*A.B.* in the presence of me *E.F.* \[*add witnessâ
 
 [^c570350]: Modification: Preamble omitted under authority of [Statute Law Revision Act 1898 (c. 22)](https://www.legislation.gov.uk/ukpga/1898/22)
 
-[^key-8722206d72dcc9081f9196b84fb54632]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/45-46/43) excluded (23.3.2015) by [The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015 (S.I. 2015/912)](https://www.legislation.gov.uk/uksi/2015/912), [reg. 2](https://www.legislation.gov.uk/uksi/2015/912/regulation/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2015/912/schedule/5/paragraph/7) (with [reg. 51](https://www.legislation.gov.uk/uksi/2015/912/regulation/51))
+[^c-8722206d72dcc9081f9196b84fb54632]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/45-46/43) excluded (23.3.2015) by [The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015 (S.I. 2015/912)](https://www.legislation.gov.uk/uksi/2015/912), [reg. 2](https://www.legislation.gov.uk/uksi/2015/912/regulation/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2015/912/schedule/5/paragraph/7) (with [reg. 51](https://www.legislation.gov.uk/uksi/2015/912/regulation/51))
 
 [^c570351]: Marginal citation: [1878 c. 31](https://www.legislation.gov.uk/ukpga/1878/31).
 
 [^c570352]: Marginal citation: [1878 c. 31](https://www.legislation.gov.uk/ukpga/1878/31).
 
-[^key-0a7a73bffd89ac03268e318518194663]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/7/2) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/18) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-0a7a73bffd89ac03268e318518194663]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/7/2) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/18) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c570353]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/7A) added by [Consumer Credit Act 1974 (c. 39, SIF 60)](https://www.legislation.gov.uk/ukpga/1974/39), [s. 192(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/192/4), [Sch. 4 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1974/39/schedule/4/part/I/paragraph/1)
 
@@ -170,15 +170,15 @@ Signed and sealed by the said*A.B.* in the presence of me *E.F.* \[*add witnessâ
 
 [^c570357]: Textual amendment: Words substituted by [Insolvency Act 1985 (c. 65, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/65), [s. 235(1)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/1), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/1), and by [Insolvency Act 1986 (c.45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 437](https://www.legislation.gov.uk/ukpga/1986/45/section/437), [Sch. 11 para. 10(2)](https://www.legislation.gov.uk/ukpga/1986/45/schedule/11/paragraph/10/2)
 
-[^key-f457f1a2a7ab63d45752f4d0c7bbcd6d]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/11) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/15/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f457f1a2a7ab63d45752f4d0c7bbcd6d]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/11) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/15/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-62320fe33b03b72bb421e18d4b4609e8]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/11) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/15/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-62320fe33b03b72bb421e18d4b4609e8]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/11) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/15/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c570359]: Textual amendment: Words repealed by [Statute Law Revision Act 1898 (c. 22)](https://www.legislation.gov.uk/ukpga/1898/22)
 
 [^c570360]: Modification: Reference to poor and other parochial rates, except in application of section to City of London and Temples, to be construed as reference to general rate: [General Rate Act 1967 (c. 9)](https://www.legislation.gov.uk/ukpga/1967/9), [s. 116(2)](https://www.legislation.gov.uk/ukpga/1967/9/section/116/2)
 
-[^key-90fde082df52259d63b307d0f0c4b123]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/14) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/19) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-90fde082df52259d63b307d0f0c4b123]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/Vict/45-46/43/section/14) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/19) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c570361]: Textual amendment: Words repealed by [Statute Law Revision Act 1898 (c. 22)](https://www.legislation.gov.uk/ukpga/1898/22)
 

@@ -42,102 +42,102 @@ establishing the ecological criteria for the award of the EU Ecolabel for conver
 
 (2014/256/EU) (repealed) (revoked)
 
-[^key-34a8d02522541418622a90e264e8ba23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34a8d02522541418622a90e264e8ba23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-34a8d02522541418622a90e264e8ba23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — FRAMEWORK[^key-34a8d02522541418622a90e264e8ba23]
+## ANNEX — FRAMEWORK[^c-34a8d02522541418622a90e264e8ba23]
 
-[^key-34a8d02522541418622a90e264e8ba23] The aims of the criteria
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-34a8d02522541418622a90e264e8ba23] CRITERIA
+[^c-34a8d02522541418622a90e264e8ba23] The aims of the criteria
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 1 — Substrate
+[^c-34a8d02522541418622a90e264e8ba23] CRITERIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Part A — Paper Substrate
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 1 — Substrate
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Part B — Board Substrate
+[^c-34a8d02522541418622a90e264e8ba23] Part A — Paper Substrate
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion B1 — Emissions to water and to air
+[^c-34a8d02522541418622a90e264e8ba23] Part B — Board Substrate
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion B2 — Energy use
+[^c-34a8d02522541418622a90e264e8ba23] Criterion B1 — Emissions to water and to air
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion B3 — Excluded or limited substances and mixtures
+[^c-34a8d02522541418622a90e264e8ba23] Criterion B2 — Energy use
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion B4 — Waste management
+[^c-34a8d02522541418622a90e264e8ba23] Criterion B3 — Excluded or limited substances and mixtures
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 2 — Fibres: sustainable forest management
+[^c-34a8d02522541418622a90e264e8ba23] Criterion B4 — Waste management
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criteria applicable to converting processes
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 2 — Fibres: sustainable forest management
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 3 — Excluded or limited substances and mixtures
+[^c-34a8d02522541418622a90e264e8ba23] Criteria applicable to converting processes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 4 — Recyclability
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 3 — Excluded or limited substances and mixtures
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 5 — Emissions
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 4 — Recyclability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 6 — Waste
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 5 — Emissions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 7 — Energy use
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 6 — Waste
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 8 — Training
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 7 — Energy use
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 9 — Fitness for use
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 8 — Training
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 10 — Information on the paper carrier bags
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 9 — Fitness for use
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34a8d02522541418622a90e264e8ba23] Criterion 11 — Information appearing on the EU Ecolabel
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 10 — Information on the paper carrier bags
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-34a8d02522541418622a90e264e8ba23] Criterion 11 — Information appearing on the EU Ecolabel
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34a8d02522541418622a90e264e8ba23]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34a8d02522541418622a90e264e8ba23]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

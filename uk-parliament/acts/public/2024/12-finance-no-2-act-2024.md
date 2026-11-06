@@ -108,25 +108,25 @@ the entitlement to those amounts is to be treated for the purposes of Chapter 8 
 
 (1) In section 1H of TCGA 1992 (the main rates of CGT)—
 
-- (a)[^key-e15516da867ad6567eb1e28453cb3f7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e15516da867ad6567eb1e28453cb3f7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (2), omit paragraph (a) together with the “or” at the end of the paragraph,
-- (c)[^key-ad083acf43917e1760791fca3e4a2a87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ad083acf43917e1760791fca3e4a2a87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in subsection (5), omit paragraph (a) together with the “or” at the end of the paragraph, and
-- (e)[^key-9cc5c4c1cdbc8098c931d7497e0a8261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-9cc5c4c1cdbc8098c931d7497e0a8261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 1I of that Act (income taxed at higher rates or gains exceeding unused basic rate band)—
 
 - (a) in subsection (1)—
-  - (i)[^key-0d7b085d724ec997883df43881700bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-0d7b085d724ec997883df43881700bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in that paragraph, omit “residential property gains or”,
 - (b) in subsection (2), in the words after paragraph (b)—
-  - (i)[^key-393890a02b525ea8c5b5b88db41cb10a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-393890a02b525ea8c5b5b88db41cb10a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) omit “residential property gains or”,
 - (c) in subsection (5)—
-  - (i)[^key-dad23a16f96b9982699039914f242750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-dad23a16f96b9982699039914f242750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in that paragraph, omit “residential property gains or”, and
 - (d) in subsection (9)—
-  - (i)[^key-af6909bef623c666d881994cdf3977c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-af6909bef623c666d881994cdf3977c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in that paragraph, omit “residential property gains or”.
 
 (3) The amendments made by this section have effect in relation to disposals made on or after 6 April 2024.
@@ -429,7 +429,7 @@ For the purposes of Part 3A of CTA 2010, for the financial year 2025—
 
 (3) The amendments made by section 14(5) have effect only in relation to expenditure incurred on or after 1 April 2024.
 
-(4)[^key-2c84150bfc2ad1c1706b9825869dc93a] An application for a low-budget certificate may not be made before the appointed day.
+(4)[^c-2c84150bfc2ad1c1706b9825869dc93a] An application for a low-budget certificate may not be made before the appointed day.
 
 (5) The appointed day is a day before 1 April 2025 to be appointed by the Secretary of State by regulations made by statutory instrument with the approval of the Treasury.
 
@@ -440,7 +440,7 @@ For the purposes of Part 3A of CTA 2010, for the financial year 2025—
 
 (7) If a low-budget certificate is granted in reliance on subsection (6), the existing certificate ceases to have effect, but not (despite section 1179DJ(8) of CTA 2009) in respect of any completed accounting period.
 
-(8)[^key-1b1d77a23f52061f36951c6bf2479505] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1b1d77a23f52061f36951c6bf2479505] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this section, “**a low-budget certificate**” means a certificate granted in accordance with section 1179DJA(1) of CTA 2009.
 
@@ -820,20 +820,20 @@ This Act may be cited as the Finance (No. 2) Act 2024.
 
 ## Annotations
 
-[^key-e15516da867ad6567eb1e28453cb3f7a]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/1/a) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-e15516da867ad6567eb1e28453cb3f7a]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/1/a) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-ad083acf43917e1760791fca3e4a2a87]: Textual amendment: [S. 6(1)(c)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/1/c) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-ad083acf43917e1760791fca3e4a2a87]: Textual amendment: [S. 6(1)(c)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/1/c) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-9cc5c4c1cdbc8098c931d7497e0a8261]: Textual amendment: [S. 6(1)(e)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/1/e) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-9cc5c4c1cdbc8098c931d7497e0a8261]: Textual amendment: [S. 6(1)(e)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/1/e) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-0d7b085d724ec997883df43881700bb8]: Textual amendment: [S. 6(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/a/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-0d7b085d724ec997883df43881700bb8]: Textual amendment: [S. 6(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/a/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-393890a02b525ea8c5b5b88db41cb10a]: Textual amendment: [S. 6(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/b/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-393890a02b525ea8c5b5b88db41cb10a]: Textual amendment: [S. 6(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/b/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-dad23a16f96b9982699039914f242750]: Textual amendment: [S. 6(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/c/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-dad23a16f96b9982699039914f242750]: Textual amendment: [S. 6(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/c/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-af6909bef623c666d881994cdf3977c0]: Textual amendment: [S. 6(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/d/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-af6909bef623c666d881994cdf3977c0]: Textual amendment: [S. 6(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2024/12/section/6/2/d/i) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-2c84150bfc2ad1c1706b9825869dc93a]: Subordinate legislation: [S. 15(4)](https://www.legislation.gov.uk/ukpga/2024/12/section/15/4): 30.10.2024 appointed for the purposes of s. 15(4) (30.10.2024) by [S.I. 2024/1010](https://www.legislation.gov.uk/uksi/2024/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1010/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1010/regulation/2)
+[^c-2c84150bfc2ad1c1706b9825869dc93a]: Subordinate legislation: [S. 15(4)](https://www.legislation.gov.uk/ukpga/2024/12/section/15/4): 30.10.2024 appointed for the purposes of s. 15(4) (30.10.2024) by [S.I. 2024/1010](https://www.legislation.gov.uk/uksi/2024/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1010/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1010/regulation/2)
 
-[^key-1b1d77a23f52061f36951c6bf2479505]: Textual amendment: [S. 15(8)](https://www.legislation.gov.uk/ukpga/2024/12/section/15/8) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(13)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/13) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))
+[^c-1b1d77a23f52061f36951c6bf2479505]: Textual amendment: [S. 15(8)](https://www.legislation.gov.uk/ukpga/2024/12/section/15/8) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(13)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/13) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))

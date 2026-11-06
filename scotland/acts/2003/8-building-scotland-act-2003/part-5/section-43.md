@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Unlawful occupation of evacuated buildings[^key-b3184d8dda1cab7f223b26156bd381a7]
+## 43. Unlawful occupation of evacuated buildings[^c-b3184d8dda1cab7f223b26156bd381a7]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ is guilty of an offence unless notice under section 42(7) has been given to the 
 
 ## Annotations
 
-[^key-b3184d8dda1cab7f223b26156bd381a7]: Commencement: S. 43 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-b3184d8dda1cab7f223b26156bd381a7]: Commencement: S. 43 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

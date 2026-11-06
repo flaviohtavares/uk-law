@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115.[^key-d1ee247d6b53c0d499977e535b8eb670]
+## 115.[^c-d1ee247d6b53c0d499977e535b8eb670]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,12 +56,12 @@ summary: ''
 - (a) for “Article 8F(8)(a) and (b)” substitute “ Article 8F(8) ”;
 - (b) for “Article 8F(8)(b)” substitute “ Article 8F(8) ”.
 
-(9) Where immediately before IP completion day[^key-45b045a161aecc996bc303f7125bb981], the Northern Ireland Authority for Utility Regulation has made a preliminary decision under Article 8K of the Gas (Northern Ireland) Order 1996 on a review under Article 8I(2), (4) or (6) but not a final decision under Article 3 of Regulation [(EC) No. 715/2009](https://www.legislation.gov.uk/eur/2009/715) of the European Parliament and of the Council of 13 July 2009 on conditions for access to the natural gas transmission networks and repealing Regulation [(EC) No. 1775/2005](https://www.legislation.gov.uk/eur/2005/1775), the Authority's preliminary decision is to be treated on and after IP completion day as if it were a final decision under Article 3 made immediately before IP completion day.
+(9) Where immediately before IP completion day[^c-45b045a161aecc996bc303f7125bb981], the Northern Ireland Authority for Utility Regulation has made a preliminary decision under Article 8K of the Gas (Northern Ireland) Order 1996 on a review under Article 8I(2), (4) or (6) but not a final decision under Article 3 of Regulation [(EC) No. 715/2009](https://www.legislation.gov.uk/eur/2009/715) of the European Parliament and of the Council of 13 July 2009 on conditions for access to the natural gas transmission networks and repealing Regulation [(EC) No. 1775/2005](https://www.legislation.gov.uk/eur/2005/1775), the Authority's preliminary decision is to be treated on and after IP completion day as if it were a final decision under Article 3 made immediately before IP completion day.
 
 (10) If a preliminary decision of the Northern Ireland Authority for Utility Regulation is treated as a final decision to continue a certification, or to withdraw a certification, because of paragraph (9), the Authority must publish, in such manner as it considers appropriate, a document setting out that decision and the reasons for it.
 
 ## Annotations
 
-[^key-d1ee247d6b53c0d499977e535b8eb670]: Commencement: Reg. 115 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d1ee247d6b53c0d499977e535b8eb670]: Commencement: Reg. 115 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-45b045a161aecc996bc303f7125bb981]: Textual amendment: Words in reg. 115(9) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(36)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/36)
+[^c-45b045a161aecc996bc303f7125bb981]: Textual amendment: Words in reg. 115(9) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(36)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/36)

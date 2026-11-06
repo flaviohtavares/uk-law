@@ -33,18 +33,18 @@ of 13 June 2005
 
 amending Regulation (EC) No 827/2004 as regards the prohibition of imports of Atlantic bigeye tuna from Cambodia, Equatorial Guinea and Sierra Leone, and repealing Regulation (EC) No 826/2004 prohibiting imports of blue-fin tuna from Equatorial Guinea and Sierra Leone and Regulation (EC) No 828/2004 prohibiting imports of swordfish from Sierra Leone (revoked)
 
-[^key-fe24e15804644326beba33ab1eb11f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe24e15804644326beba33ab1eb11f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fe24e15804644326beba33ab1eb11f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fe24e15804644326beba33ab1eb11f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fe24e15804644326beba33ab1eb11f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fe24e15804644326beba33ab1eb11f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fe24e15804644326beba33ab1eb11f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fe24e15804644326beba33ab1eb11f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe24e15804644326beba33ab1eb11f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe24e15804644326beba33ab1eb11f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe24e15804644326beba33ab1eb11f2e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-fe24e15804644326beba33ab1eb11f2e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

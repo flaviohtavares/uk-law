@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Commencement[^c22796041][^key-438f3638e0167b7bbf2b2b35e36a1442]
+## 59. Commencement[^c22796041][^c-438f3638e0167b7bbf2b2b35e36a1442]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c22796041]: Commencement: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/32/part/3): s. 59 in force at Royal Assent for specified purposes, see [s. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/59/1/a)
 
-[^key-438f3638e0167b7bbf2b2b35e36a1442]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/32/section/59) in force at 1.4.2019 in so far as not already in force by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/1)
+[^c-438f3638e0167b7bbf2b2b35e36a1442]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2017/32/section/59) in force at 1.4.2019 in so far as not already in force by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/1)

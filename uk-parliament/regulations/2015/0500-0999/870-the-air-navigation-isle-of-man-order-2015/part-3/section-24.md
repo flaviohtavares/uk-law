@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Requirement for a certificate of release to service for aircraft[^key-59bb4dac9cae18b1d5e7d00ea8e269b1]
+## 24. Requirement for a certificate of release to service for aircraft[^c-59bb4dac9cae18b1d5e7d00ea8e269b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ it may fly to a place that satisfies each of the criteria in paragraph (5).
 
 ## Annotations
 
-[^key-59bb4dac9cae18b1d5e7d00ea8e269b1]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2015/870/article/24) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-59bb4dac9cae18b1d5e7d00ea8e269b1]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2015/870/article/24) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

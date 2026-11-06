@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. The offshore marketing condition[^key-d508dfe5f2c3ffbe6c2668452f2000f1]
+## 33A. The offshore marketing condition[^c-d508dfe5f2c3ffbe6c2668452f2000f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The offshore marketing condition is met with respect to a class of units if—
 
 ## Annotations
 
-[^key-d508dfe5f2c3ffbe6c2668452f2000f1]: Textual amendment: Reg. 33A inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2994/regulation/4)
+[^c-d508dfe5f2c3ffbe6c2668452f2000f1]: Textual amendment: Reg. 33A inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2994/regulation/4)

@@ -31,8 +31,8 @@ summary: ''
 - (b) the new shares had been issued by the new company at the time when the old shares were issued to the individual by the old company, and
 - (c) any requirements of this Chapter which were met at any time before the exchange by the old company had been met at that time by the new company.
 
-(3)[^key-72572682c7d5aa2cd9811a9a27853ed1] Nothing in subsection (2) applies in relation to section 195(7) as applied by section 137(7) for the purposes mentioned in section 137(8).
+(3)[^c-72572682c7d5aa2cd9811a9a27853ed1] Nothing in subsection (2) applies in relation to section 195(7) as applied by section 137(7) for the purposes mentioned in section 137(8).
 
 ## Annotations
 
-[^key-72572682c7d5aa2cd9811a9a27853ed1]: Textual amendment: S. 146(3) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(6)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/6), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
+[^c-72572682c7d5aa2cd9811a9a27853ed1]: Textual amendment: S. 146(3) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(6)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/6), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)

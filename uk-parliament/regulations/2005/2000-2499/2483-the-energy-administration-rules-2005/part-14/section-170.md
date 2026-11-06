@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Non-receipt of notice of meeting[^key-4c87410c1607eaf8b4f1d916ee3dfef2]
+## 170. Non-receipt of notice of meeting[^c-4c87410c1607eaf8b4f1d916ee3dfef2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in accordance with the 1986 Act, Schedule B1 to the 1986 Act or the Rules 
 
 ## Annotations
 
-[^key-4c87410c1607eaf8b4f1d916ee3dfef2]: Commencement: Rule 170 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-4c87410c1607eaf8b4f1d916ee3dfef2]: Commencement: Rule 170 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

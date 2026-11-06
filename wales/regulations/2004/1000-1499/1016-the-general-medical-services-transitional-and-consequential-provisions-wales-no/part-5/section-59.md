@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Approvals of out of hours arrangements under general medical services contracts and default contracts[^key-1e444d0895369681a27fbb022a42cd21]
+## 59. Approvals of out of hours arrangements under general medical services contracts and default contracts[^c-1e444d0895369681a27fbb022a42cd21]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ that approval shall, if the medical practitioner meets the requirements in artic
 
 ## Annotations
 
-[^key-1e444d0895369681a27fbb022a42cd21]: Commencement: Art. 59 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-1e444d0895369681a27fbb022a42cd21]: Commencement: Art. 59 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

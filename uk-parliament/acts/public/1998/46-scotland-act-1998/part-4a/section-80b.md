@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80B. Power to add new devolved taxes[^key-af17c17310905c28ed55bf5db3825706]
+## 80B. Power to add new devolved taxes[^c-af17c17310905c28ed55bf5db3825706]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ as Her Majesty considers necessary or expedient in connection with other provisi
 
 ## Annotations
 
-[^key-af17c17310905c28ed55bf5db3825706]: Textual amendment: Pt. 4A inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/23/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)
+[^c-af17c17310905c28ed55bf5db3825706]: Textual amendment: Pt. 4A inserted (1.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/23/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)

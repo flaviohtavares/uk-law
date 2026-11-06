@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356D. Reduction of adjusted ring fence profits[^key-85a4309dc4c6cdaa460c0f2040952fa9]
+## 356D. Reduction of adjusted ring fence profits[^c-85a4309dc4c6cdaa460c0f2040952fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ C is any amount carried forward to the period under section 356DA.
 
 ## Annotations
 
-[^key-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)
+[^c-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)

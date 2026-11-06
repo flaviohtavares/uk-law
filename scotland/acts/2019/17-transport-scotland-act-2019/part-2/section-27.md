@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Application of penalty charges[^key-f52579b808cbbdf23b158ca0a99f07fd]
+## 27. Application of penalty charges[^c-f52579b808cbbdf23b158ca0a99f07fd]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Any monies received from penalty charges in respect of a low emission zone schem
 
 ## Annotations
 
-[^key-f52579b808cbbdf23b158ca0a99f07fd]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/17/section/27) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-f52579b808cbbdf23b158ca0a99f07fd]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/17/section/27) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

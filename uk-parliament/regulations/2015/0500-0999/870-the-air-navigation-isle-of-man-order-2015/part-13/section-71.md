@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Exceptions concerning carriage of weapons and munitions of war[^key-300282848b6c6aa938bd75629bf1edde]
+## 71. Exceptions concerning carriage of weapons and munitions of war[^c-300282848b6c6aa938bd75629bf1edde]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Part applies to any sporting weapon or munition of war taken or 
 
 ## Annotations
 
-[^key-300282848b6c6aa938bd75629bf1edde]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2015/870/article/71) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-300282848b6c6aa938bd75629bf1edde]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2015/870/article/71) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

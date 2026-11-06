@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Advice and guidance by the Scottish Ministers as regards MPAs[^key-67b60f7da46a50995ee0f26f8e1566c4]
+## 81. Advice and guidance by the Scottish Ministers as regards MPAs[^c-67b60f7da46a50995ee0f26f8e1566c4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67b60f7da46a50995ee0f26f8e1566c4]: Commencement: S. 81 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-67b60f7da46a50995ee0f26f8e1566c4]: Commencement: S. 81 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

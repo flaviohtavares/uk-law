@@ -41,15 +41,15 @@ An Act to enable local authorities responsible for community care services to ma
 
 *Extent: E+W*
 
-### 1. Direct payments.[^key-52c6d882883e5b5f4e70c5655e06ec69]
+### 1. Direct payments.[^c-52c6d882883e5b5f4e70c5655e06ec69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Relationship with other functions.[^key-52c6d882883e5b5f4e70c5655e06ec69]
+### 2. Relationship with other functions.[^c-52c6d882883e5b5f4e70c5655e06ec69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Consequential amendments.[^key-52c6d882883e5b5f4e70c5655e06ec69]
+### 3. Consequential amendments.[^c-52c6d882883e5b5f4e70c5655e06ec69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,7 +57,7 @@ An Act to enable local authorities responsible for community care services to ma
 
 *Extent: S*
 
-### 4. Direct payments.[^key-4804d334bc12be8eef853a0d726faa77]
+### 4. Direct payments.[^c-4804d334bc12be8eef853a0d726faa77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,7 +84,7 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c11041631]Nor
 
 (3) The Secretary of State may by order made by statutory instrument provide that this Act shall have effect in its application to the Isles of Scilly with such modifications as are specified in the order.
 
-(4)[^key-e30156f5c9c131d5e85b58bd7f12693e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e30156f5c9c131d5e85b58bd7f12693e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Sections 4 and 5 above extend to Scotland only.
 
@@ -96,9 +96,9 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c11041631]Nor
 
 [^c11041251]: Modification: Act: certain functions transferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-52c6d882883e5b5f4e70c5655e06ec69]: Textual amendment: Ss. 1-3 repealed (8.4.2003 for E., 1.11.2004 for W.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/15/schedule/6/part/3) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2003/850](https://www.legislation.gov.uk/uksi/2003/850), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2003/850/article/3/2/d); [S.I. 2004/1754](https://www.legislation.gov.uk/wsi/2004/1754), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/1754/article/2/e)
+[^c-52c6d882883e5b5f4e70c5655e06ec69]: Textual amendment: Ss. 1-3 repealed (8.4.2003 for E., 1.11.2004 for W.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/15/schedule/6/part/3) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2003/850](https://www.legislation.gov.uk/uksi/2003/850), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2003/850/article/3/2/d); [S.I. 2004/1754](https://www.legislation.gov.uk/wsi/2004/1754), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/1754/article/2/e)
 
-[^key-4804d334bc12be8eef853a0d726faa77]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1996/30/section/4) repealed (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90)](https://www.legislation.gov.uk/ssi/2014/90), [art. 1](https://www.legislation.gov.uk/ssi/2014/90/article/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/90/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/90/article/3))
+[^c-4804d334bc12be8eef853a0d726faa77]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1996/30/section/4) repealed (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90)](https://www.legislation.gov.uk/ssi/2014/90), [art. 1](https://www.legislation.gov.uk/ssi/2014/90/article/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/90/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/90/article/3))
 
 [^c11041621]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
@@ -106,4 +106,4 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c11041631]Nor
 
 [^c11041641]: Subordinate legislation: S. 7(2) power fully exercised (10.3.1997): 1.4.1997 appointed day by [S.I. 1997/756](https://www.legislation.gov.uk/uksi/1997/756), [art. 2](https://www.legislation.gov.uk/uksi/1997/756/article/2)
 
-[^key-e30156f5c9c131d5e85b58bd7f12693e]: Textual amendment: S. 7(4) repealed (8.4.2003 for E., 1.11.2004 for W.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/15/schedule/6/part/3) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2003/850](https://www.legislation.gov.uk/uksi/2003/850), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2003/850/article/3/2/d); [S.I. 2004/1754](https://www.legislation.gov.uk/wsi/2004/1754), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/1754/article/2/e)
+[^c-e30156f5c9c131d5e85b58bd7f12693e]: Textual amendment: S. 7(4) repealed (8.4.2003 for E., 1.11.2004 for W.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/15/schedule/6/part/3) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2003/850](https://www.legislation.gov.uk/uksi/2003/850), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2003/850/article/3/2/d); [S.I. 2004/1754](https://www.legislation.gov.uk/wsi/2004/1754), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/1754/article/2/e)

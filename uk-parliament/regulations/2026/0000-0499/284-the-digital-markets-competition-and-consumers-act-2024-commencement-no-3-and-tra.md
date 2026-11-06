@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 339(1), (5) and (6) of the Digital Markets, Competition and Consumers Act 2024[^f00001].
 
-## 1. Citation and Interpretation[^key-cad7f13bc19687f83aa7e307efdcf667]
+## 1. Citation and Interpretation[^c-cad7f13bc19687f83aa7e307efdcf667]
 
 (1) These Regulations may be cited as the Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) Regulations 2026.
 
@@ -46,7 +46,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**the Act**” means the Digital Markets, Competition and Consumers Act 2024;
 - “**the commencement date**” means 6th April 2026.
 
-## 2. Provision of the Act coming into force on the commencement date[^key-b56efdead49e9b1eefe2b2c28dea80a3]
+## 2. Provision of the Act coming into force on the commencement date[^c-b56efdead49e9b1eefe2b2c28dea80a3]
 
 (1) The provisions of the Act specified in the following paragraphs of this regulation come into force on the commencement date, to the extent that they are not in force immediately before that date, subject to the transitional provisions in regulations 3 and 4.
 
@@ -58,7 +58,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (5) Schedule 27 (consequential amendments etc).
 
-## 3. Transitional provisions relating to ADR providers[^key-e3f0aeb9d74c1fe80e1158c434d36afa]
+## 3. Transitional provisions relating to ADR providers[^c-e3f0aeb9d74c1fe80e1158c434d36afa]
 
 (1) The prohibition on carrying out ADR[^f00003] in section 293(1) (prohibitions relating to acting as ADR provider) of the Act does not apply to ADR carried out by an ADR provider[^f00004] where the ADR started during the relevant period.
 
@@ -68,10 +68,10 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 - (a) the ADR is to be taken as starting when the consumer contract dispute[^f00005] was first referred to the ADR provider in accordance with that provider’s rules or procedures;
 - (b) “**the relevant period**” means the period beginning on the commencement date and ending—
-  - (i) on 7th January 2027[^key-909367616a78bb94690c5df67b9aeb50]; or
-  - (ii) if, before 7th January 2027[^key-7e9195dd406c3aed48f1c52aa7fc4e7a], the ADR provider makes an application for accreditation under section 296 (application for accreditation) of the Act, on the date that application is granted, refused or withdrawn.
+  - (i) on 7th January 2027[^c-909367616a78bb94690c5df67b9aeb50]; or
+  - (ii) if, before 7th January 2027[^c-7e9195dd406c3aed48f1c52aa7fc4e7a], the ADR provider makes an application for accreditation under section 296 (application for accreditation) of the Act, on the date that application is granted, refused or withdrawn.
 
-## 4. Transitional provisions relating to special ADR arrangements[^key-70d8af83c4f07a78a73d111023780a8e]
+## 4. Transitional provisions relating to special ADR arrangements[^c-70d8af83c4f07a78a73d111023780a8e]
 
 (1) The prohibition on charging fees to consumers in section 294(3) of the Act does not apply to ADR carried out by an ADR provider under special ADR arrangements[^f00006] where the ADR started during the relevant period.
 
@@ -151,13 +151,13 @@ The following provisions of the Digital Markets, Competition and Consumers Act [
 
 [^f00001]: Footnote: [2024 c. 13](https://www.legislation.gov.uk/ukpga/2024/13).
 
-[^key-cad7f13bc19687f83aa7e307efdcf667]: Commencement: Reg. 1 in force at made date
+[^c-cad7f13bc19687f83aa7e307efdcf667]: Commencement: Reg. 1 in force at made date
 
-[^key-b56efdead49e9b1eefe2b2c28dea80a3]: Commencement: Reg. 2 in force at made date
+[^c-b56efdead49e9b1eefe2b2c28dea80a3]: Commencement: Reg. 2 in force at made date
 
 [^f00002]: Footnote: Section 310 makes transitional provisions in respect of Chapter 4 of Part 4 of the Act.
 
-[^key-e3f0aeb9d74c1fe80e1158c434d36afa]: Commencement: Reg. 3 in force at made date
+[^c-e3f0aeb9d74c1fe80e1158c434d36afa]: Commencement: Reg. 3 in force at made date
 
 [^f00003]: Footnote: See section 291(2) to (5) of the Act for the definition of “ADR”.
 
@@ -165,11 +165,11 @@ The following provisions of the Digital Markets, Competition and Consumers Act [
 
 [^f00005]: Footnote: See section 292(11) to (13) of the Act for the definition of “consumer contract dispute”.
 
-[^key-909367616a78bb94690c5df67b9aeb50]: Textual amendment: Words in [reg. 3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/284/regulation/3/3/b/i) substituted (17.9.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/1040)](https://www.legislation.gov.uk/uksi/2026/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1040/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/1040/regulation/2)
+[^c-909367616a78bb94690c5df67b9aeb50]: Textual amendment: Words in [reg. 3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/284/regulation/3/3/b/i) substituted (17.9.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/1040)](https://www.legislation.gov.uk/uksi/2026/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1040/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/1040/regulation/2)
 
-[^key-7e9195dd406c3aed48f1c52aa7fc4e7a]: Textual amendment: Words in [reg. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/284/regulation/3/3/b/ii) substituted (17.9.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/1040)](https://www.legislation.gov.uk/uksi/2026/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1040/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/1040/regulation/2)
+[^c-7e9195dd406c3aed48f1c52aa7fc4e7a]: Textual amendment: Words in [reg. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/284/regulation/3/3/b/ii) substituted (17.9.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/1040)](https://www.legislation.gov.uk/uksi/2026/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1040/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/1040/regulation/2)
 
-[^key-70d8af83c4f07a78a73d111023780a8e]: Commencement: Reg. 4 in force at made date
+[^c-70d8af83c4f07a78a73d111023780a8e]: Commencement: Reg. 4 in force at made date
 
 [^f00006]: Footnote: See section 291(7) of the Act for the definition of “special ADR arrangements”.
 

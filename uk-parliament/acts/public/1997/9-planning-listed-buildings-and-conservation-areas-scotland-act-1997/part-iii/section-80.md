@@ -27,7 +27,7 @@ summary: ''
 
 the Minister responsible for the administration of that service may pay that authority a contribution of such amount as he may with the consent of the Treasury determine.
 
-(2)[^key-17b8b4a9bc9b3ae05480afb650d0a37b] Any local authority and any statutory undertakers may contribute towards any expenses incurred by a planning authority in or in connection with the performance of any of their functions under the provisions of sections 1 to 24, 28 to 47, 50, 53, 54, 56, 59, 77 and 78 and Schedules 1 and 2.
+(2)[^c-17b8b4a9bc9b3ae05480afb650d0a37b] Any local authority and any statutory undertakers may contribute towards any expenses incurred by a planning authority in or in connection with the performance of any of their functions under the provisions of sections 1 to 24, 28 to 47, 50, 53, 54, 56, 59, 77 and 78 and Schedules 1 and 2.
 
 (3) In the application of subsection (2) to a local authority, “**planning authority**” means a planning authority other than that local authority.
 
@@ -46,4 +46,4 @@ the Minister responsible for the administration of that service may pay that aut
 
 ## Annotations
 
-[^key-17b8b4a9bc9b3ae05480afb650d0a37b]: Modification: [S. 80(2)](https://www.legislation.gov.uk/ukpga/1997/9/section/80/2) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-17b8b4a9bc9b3ae05480afb650d0a37b]: Modification: [S. 80(2)](https://www.legislation.gov.uk/ukpga/1997/9/section/80/2) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))

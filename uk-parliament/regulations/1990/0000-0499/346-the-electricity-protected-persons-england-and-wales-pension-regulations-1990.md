@@ -43,13 +43,13 @@ Coming into force
 
 31st March 1990
 
-The Secretary of State, in exercise of the powers conferred by section 104 of, and paragraphs 2, 3(3), 4(1) and 5(3)[^f00001] of Schedule 14 to, the Electricity Act 1989[^f00002], and of all other enabling powers, hereby makes the following Regulations:-[^key-577022e49aa56ddf1b836f047cd6f871]
+The Secretary of State, in exercise of the powers conferred by section 104 of, and paragraphs 2, 3(3), 4(1) and 5(3)[^f00001] of Schedule 14 to, the Electricity Act 1989[^f00002], and of all other enabling powers, hereby makes the following Regulations:-[^c-577022e49aa56ddf1b836f047cd6f871]
 
-## 1. Citation and commencement[^key-ee0b36ed172b97a848713213770bb825]
+## 1. Citation and commencement[^c-ee0b36ed172b97a848713213770bb825]
 
 These Regulations may be cited as the Electricity (Protected Persons) (England and Wales) Pension Regulations 1990 and shall come into force on 31st March 1990.
 
-## 2. Interpretation[^key-aad472a994724558ed680f068a93e7e4]
+## 2. Interpretation[^c-aad472a994724558ed680f068a93e7e4]
 
 (1) In these Regulations–
 
@@ -87,7 +87,7 @@ These Regulations may be cited as the Electricity (Protected Persons) (England a
 
 (4) Where a relevant scheme provides different benefits for different categories of protected persons, any reference in these Regulations to that scheme shall be construed as a reference to that part of that scheme which relates to the category of which the protected person is a member or (in the case of a person transferring to that scheme) would be entitled to be a member.
 
-## 3. Protected employee[^key-49ac2af6e373ac743cf719b75658ca1b]
+## 3. Protected employee[^c-49ac2af6e373ac743cf719b75658ca1b]
 
 (1) Subject to paragraph (2), this regulation applies to any person who–
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Electricity (Protected Persons) (England a
 - (b) if he would have ceased to be a protected employee as a result of a representation by or on behalf of his employer or prospective employer that the action by that person which would but for this sub-paragraph have caused him to cease to be a protected employee would not have that effect; or
 - (c) if, following any resolution to wind up the relevant scheme in which that person participates, he transfers to the relevant scheme provided under regulation 10, 11 or 12.
 
-## 4. Protected beneficiary[^key-d28039fd6f0ed50b6906c2ca5ce52cb7]
+## 4. Protected beneficiary[^c-d28039fd6f0ed50b6906c2ca5ce52cb7]
 
 (1) Subject to paragraph (2), this regulation applies to any person–
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Electricity (Protected Persons) (England a
 - (a) elects under regulation 17 to cease to be a protected beneficiary; or
 - (b) withdraws or requires a transfer payment to be made in respect of all or any part of his accrued pension rights from a relevant scheme otherwise than by way of a transfer to another relevant scheme provided by his employer, except in respect of the accrued pension rights not so withdrawn or transferred.
 
-## 5. Continuity of employment[^key-f7e18b63d445647ac80e34a10874daac]
+## 5. Continuity of employment[^c-f7e18b63d445647ac80e34a10874daac]
 
 (1) Subject to paragraph (2), references in these Regulations to a protected employee being in continuous employment shall be construed in accordance with paragraph 4 of Schedule 14 to the Act.
 
@@ -144,7 +144,7 @@ These Regulations may be cited as the Electricity (Protected Persons) (England a
 - “approved retirement benefits scheme” has the same meaning as in Chapter I of Part XIV of the Taxes Act;
 - “approved personal pension scheme” has the same meaning as in Chapter IV of that Part of that Act.
 
-## 6. Accrued pension rights[^key-6ef7268399f908379edd9585ba39f100]
+## 6. Accrued pension rights[^c-6ef7268399f908379edd9585ba39f100]
 
 (1) Subject to paragraphs (2) and (3), the employer of a protected person shall at all times ensure that, in respect of each protected person in his employment, the assets of the relevant scheme provided by the employer in respect of that person are such that, in the event of the winding up of that scheme, there would be available to provide accrued pension rights for such protected person a sum equal to or exceeding the liability of that scheme in respect of those accrued pension rights.
 
@@ -166,7 +166,7 @@ and if the valuation required under this paragraph shall indicate that the asset
 
 (6) To the extent that an employer is unable to provide a relevant scheme which satisfies paragraphs (4) and (5), he shall ensure that the accrued pension rights of each protected person in his employment are secured by other suitable means in accordance with regulation 9 to the same extent and at the same level as such rights would have been secured if he had provided a relevant scheme.
 
-## 7. Future pension rights[^key-72d717d445ec0a15df195a4cd0f5ee0d]
+## 7. Future pension rights[^c-72d717d445ec0a15df195a4cd0f5ee0d]
 
 (1) The rights described in paragraphs (2) and (3) are the future pension rights for the purpose of these Regulations.
 
@@ -192,7 +192,7 @@ there shall be substituted in paragraph (3) for the reference to transfer date r
 
 (5) Where the pension rights of protected employees in a relevant scheme are worse than the transfer date rights, any reference in these Regulations, in relation to a protected employee joining that scheme, to the pension rights of protected employees in that scheme shall be construed as a reference to the transfer date rights.
 
-## 8. Alternative scheme[^key-64c0a300f93f4670ee51a8de8dc84d08]
+## 8. Alternative scheme[^c-64c0a300f93f4670ee51a8de8dc84d08]
 
 (1) This regulation applies to any retirement benefits scheme which–
 
@@ -206,7 +206,7 @@ there shall be substituted in paragraph (3) for the reference to transfer date r
 
 (2) Subject to regulation 9, any scheme which ceases to satisfy the provisions of any sub-paragraph of paragraph (1) shall cease to be an alternative scheme for the purposes of these Regulations.
 
-## 9. Other suitable means[^key-6e4c4c6eee306f429b809d1f4ca8f3af]
+## 9. Other suitable means[^c-6e4c4c6eee306f429b809d1f4ca8f3af]
 
 (1) Where an employer is required by any provision of these Regulations to provide a relevant scheme and–
 
@@ -239,13 +239,13 @@ the employer shall be deemed to have fulfilled his obligation in respect of thos
 - (b) to the extent (if any) that the accrued pension rights or future pension rights referred to in sub-paragraph (a) of this paragraph are not provided on a basis equivalent to that mentioned in that sub-paragraph, the employer complies with paragraph (2) in respect of the balance of those pension rights; and
 - (c) the contributions payable by the protected employee under any scheme required to be provided by the employer make due allowance for the amount which the protected employee is required to pay in order to accrue those future pension rights under that state scheme.
 
-## 10. Partial winding up of the Pension Scheme[^key-967f400a7c57e7955202b884e09c2eab]
+## 10. Partial winding up of the Pension Scheme[^c-967f400a7c57e7955202b884e09c2eab]
 
 (1) If the employer of a protected employee shall be given notice under the rules of the Pension Scheme that he is not permitted to continue to be a participating employer in that Scheme (except by reason of his liquidation otherwise than for the purposes of reconstruction or amalgamation), he shall forthwith, and in any event prior to the expiry of that notice, provide an alternative scheme and enable each protected employee to participate in that scheme with effect from a date not later than the expiry date of the notice.
 
 (2) For the purposes of paragraph (1), the future pension rights to be provided by the alternative scheme for protected employees shall be no worse than the future pension rights provided for those employees under the Pension Scheme immediately prior to the date upon which they cease to participate in that Scheme.
 
-## 11. Total winding up of the Pension Scheme[^key-e71a42a6e89418ea6860555fc1f5bfc0]
+## 11. Total winding up of the Pension Scheme[^c-e71a42a6e89418ea6860555fc1f5bfc0]
 
 (1) If any action is taken under the rules of the Pension Scheme to cause the total winding up of that Scheme, each employer who–
 
@@ -258,7 +258,7 @@ shall forthwith notify each of his protected employees of the alternative arrang
 
 (3) For the purpose of this regulation the future pension rights to be provided by the alternative scheme of each employer for his protected employees shall be no worse than the future pension rights provided for those employees under the Pension Scheme immediately prior to the date upon which they cease to participate in that Scheme.
 
-## 12. Total or partial winding up of an alternative scheme[^key-b2c292ceba94f9e9b81f4416229a3272]
+## 12. Total or partial winding up of an alternative scheme[^c-b2c292ceba94f9e9b81f4416229a3272]
 
 (1) If an alternative scheme is partially or totally wound up, each employer of protected employees who participates in that scheme shall forthwith notify each of his protected employees of the alternative arrangements he proposes to make and shall as soon as practicable provide a relevant scheme and enable such employees to participate in that scheme.
 
@@ -269,7 +269,7 @@ shall forthwith notify each of his protected employees of the alternative arrang
 - (a) the relevant scheme provided under paragraph (1) is the Pension Scheme; and
 - (b) the employer joins a pension group, other participants in which employ protected employees, the future pension rights of the persons for whom the scheme is provided under this regulation shall be no worse than those provided for the existing protected employees of that pension group in the Pension Scheme.
 
-## 13. Change of employer[^key-2914c1029b6716ef22ffecccd18d83a1]
+## 13. Change of employer[^c-2914c1029b6716ef22ffecccd18d83a1]
 
 (1) This regulation shall apply for the benefit of any protected employee who, prior to the total winding up of the Pension Scheme–
 
@@ -293,7 +293,7 @@ which, in either case, participates or participate in the Pension Scheme shall u
 
 (5) This regulation shall not apply in respect of any change of employment which is made, other than at the requirement of the employer, to a new employer which is not a company in the same company group as the former employer.
 
-## 14. Provision of alternative scheme[^key-8b76ff6986423b6d67205df40e02606d]
+## 14. Provision of alternative scheme[^c-8b76ff6986423b6d67205df40e02606d]
 
 (1) If the application of the new employer under paragraph (2) of regulation 13 to participate in the Pension Scheme is refused, the new employer shall, so far as reasonably practicable, provide an alternative scheme for the benefit of the protected employee.
 
@@ -304,7 +304,7 @@ which, in either case, participates or participate in the Pension Scheme shall u
 
 (3) If it shall not be reasonably practicable for the new employer to provide an alternative scheme under paragraph (1), he shall secure by other suitable means in accordance with regulation 9 that the protected employee continues to be able to acquire future pension rights at least equivalent to those required under paragraph (2).
 
-## 15. Provision of relevant scheme[^key-df48a4ce7e9fa7d4fdd449b176a67524]
+## 15. Provision of relevant scheme[^c-df48a4ce7e9fa7d4fdd449b176a67524]
 
 (1) This regulation applies where a protected employee changes his employer–
 
@@ -317,7 +317,7 @@ which, in either case, participates or participate in the Pension Scheme shall u
 
 (4) The future pension rights to be provided by any scheme required under this regulation shall be no worse than transfer date rights.
 
-## 16. Amendment of relevant scheme rules[^key-0be89e8e192e52ad4de764cc9eb33f00]
+## 16. Amendment of relevant scheme rules[^c-0be89e8e192e52ad4de764cc9eb33f00]
 
 (1) Subject to paragraph (2), no amendment shall be made to a relevant scheme which would result in the accrued pension rights or future pension rights of protected persons in that scheme being reduced or the contributions to that scheme to be made by protected employees being increased.
 
@@ -327,7 +327,7 @@ which, in either case, participates or participate in the Pension Scheme shall u
 - (b) that notice specifies the proposed amendment, states the effect of that amendment and gives not less than 21 days notice of the meeting specifying the time and place at which it will be held and the arrangements by which any person who is unable to attend can register a vote by proxy; and
 - (c) the amendment is approved at that meeting by a majority of not less than two thirds of those persons to whom notice of the meeting has been given under sub-paragraph (a) of this paragraph who vote, whether in person or by proxy, on the resolution in respect of that amendment.
 
-## 17. Termination of protection[^key-1bbb9c83bcd6802d37628e69637f8a97]
+## 17. Termination of protection[^c-1bbb9c83bcd6802d37628e69637f8a97]
 
 (1) A protected employee may at any time elect–
 
@@ -344,7 +344,7 @@ and a protected beneficiary may at any time elect that he does not wish to be a 
 
 (5) Unless the elector, within 21 days of the receipt of such acknowledgement, notifies the employer in writing that he wishes to withdraw the notice served under paragraph (2) (in which event that notice shall be deemed never to have been given) such notice shall take effect upon the date stated therein and shall thereafter be irrevocable.
 
-## 18. Methods of providing a relevant scheme[^key-c2db06bf9b277a40570e91a7a29f0144]
+## 18. Methods of providing a relevant scheme[^c-c2db06bf9b277a40570e91a7a29f0144]
 
 Any duty imposed by these Regulations to provide a relevant scheme for a protected person may be satisfied by the employer as soon as reasonably practicable–
 
@@ -355,7 +355,7 @@ Any duty imposed by these Regulations to provide a relevant scheme for a protect
 
   and, in any such case, enabling the protected person to participate in that scheme with effect, whether actual or deemed, from the date upon which the duty to provide that scheme arose.
 
-## 19. Persons owing a duty[^key-8a3009cbe60bb3cbd0a4777830fb90ed]
+## 19. Persons owing a duty[^c-8a3009cbe60bb3cbd0a4777830fb90ed]
 
 (1) Any duty imposed by these Regulations on the employer of a protected person shall also be a duty owed by–
 
@@ -367,7 +367,7 @@ Any duty imposed by these Regulations to provide a relevant scheme for a protect
 
 (2) If a protected employee changes his employer and does not require the accrued pension rights to which he is entitled immediately before the change to be transferred to the relevant scheme provided by his new employer in accordance with these Regulations, any former employer of whose relevant scheme those rights remain a liability shall be treated as the employer of that person for the purposes of these Regulations in respect of those rights until they are transferred to another relevant scheme.
 
-## 20. Indemnities in relation to breaches of duty[^key-f9bee146895441069748a8c8542c01b8]
+## 20. Indemnities in relation to breaches of duty[^c-f9bee146895441069748a8c8542c01b8]
 
 (1) The following provisions of this regulation shall have effect in the event of any employer of a protected person being in breach of any duty imposed by these Regulations.
 
@@ -384,7 +384,7 @@ Any duty imposed by these Regulations to provide a relevant scheme for a protect
 
 (6) If any successor company mentioned in paragraph (1)(e) of regulation 19 is required to fulfill a relevant duty, that successor company shall be entitled to a joint and several indemnity from the relevant employer, the parent company (if any) of that employer, any successor company mentioned in paragraph (1)(b) or (c) of that regulation and any parent company of any such successor company.
 
-## 21. Arbitration[^key-6777e95a78802298a24d100fed59b0ae]
+## 21. Arbitration[^c-6777e95a78802298a24d100fed59b0ae]
 
 (1) Any dispute arising under these Regulations between a protected person and the employer of that protected person or a person owing a duty to that protected person under regulation 19, or between the persons referred to in regulation 19, shall be referred to arbitration in accordance with the provisions of this regulation.
 
@@ -408,7 +408,7 @@ Secretary of State for Energy
 
 24th February 1990
 
-## SCHEDULE 1[^key-46b23fbd863e3ec041da312289b524b4]
+## SCHEDULE 1[^c-46b23fbd863e3ec041da312289b524b4]
 
 Regulation 17(2)
 
@@ -416,7 +416,7 @@ NOTICE OF ELECTION
 
 [image: see source](https://www.legislation.gov.uk/uksi/1990/346/images/uksi_19900346_en_001)
 
-## SCHEDULE 2[^key-138e1808d926fbd9f3d899f92c2161ec]
+## SCHEDULE 2[^c-138e1808d926fbd9f3d899f92c2161ec]
 
 Regulation 17(4)
 
@@ -485,58 +485,58 @@ Regulation 21 provides that any dispute arising under the Regulations shall be r
 
 [^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-577022e49aa56ddf1b836f047cd6f871]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/346) modified (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/219/regulation/4)
+[^c-577022e49aa56ddf1b836f047cd6f871]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/346) modified (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/219/regulation/4)
 
-[^key-ee0b36ed172b97a848713213770bb825]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-ee0b36ed172b97a848713213770bb825]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-aad472a994724558ed680f068a93e7e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1990/346/regulation/2) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-aad472a994724558ed680f068a93e7e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1990/346/regulation/2) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
 [^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00004]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-49ac2af6e373ac743cf719b75658ca1b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/346/regulation/3) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-49ac2af6e373ac743cf719b75658ca1b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/346/regulation/3) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-d28039fd6f0ed50b6906c2ca5ce52cb7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/346/regulation/4) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-d28039fd6f0ed50b6906c2ca5ce52cb7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/346/regulation/4) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-f7e18b63d445647ac80e34a10874daac]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/346/regulation/5) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-f7e18b63d445647ac80e34a10874daac]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/346/regulation/5) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-6ef7268399f908379edd9585ba39f100]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1990/346/regulation/6) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-6ef7268399f908379edd9585ba39f100]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1990/346/regulation/6) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
 [^f00005]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); sections 56A and 56E were inserted by the Social Security Act [1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), section 3 and Schedule 2.
 
-[^key-72d717d445ec0a15df195a4cd0f5ee0d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1990/346/regulation/7) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-72d717d445ec0a15df195a4cd0f5ee0d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1990/346/regulation/7) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-64c0a300f93f4670ee51a8de8dc84d08]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1990/346/regulation/8) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-64c0a300f93f4670ee51a8de8dc84d08]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1990/346/regulation/8) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-6e4c4c6eee306f429b809d1f4ca8f3af]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1990/346/regulation/9) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-6e4c4c6eee306f429b809d1f4ca8f3af]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1990/346/regulation/9) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-967f400a7c57e7955202b884e09c2eab]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1990/346/regulation/10) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-967f400a7c57e7955202b884e09c2eab]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1990/346/regulation/10) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-e71a42a6e89418ea6860555fc1f5bfc0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1990/346/regulation/11) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-e71a42a6e89418ea6860555fc1f5bfc0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1990/346/regulation/11) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-b2c292ceba94f9e9b81f4416229a3272]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1990/346/regulation/12) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-b2c292ceba94f9e9b81f4416229a3272]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1990/346/regulation/12) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-2914c1029b6716ef22ffecccd18d83a1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1990/346/regulation/13) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-2914c1029b6716ef22ffecccd18d83a1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1990/346/regulation/13) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-8b76ff6986423b6d67205df40e02606d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1990/346/regulation/14) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-8b76ff6986423b6d67205df40e02606d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1990/346/regulation/14) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-df48a4ce7e9fa7d4fdd449b176a67524]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1990/346/regulation/15) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-df48a4ce7e9fa7d4fdd449b176a67524]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1990/346/regulation/15) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-0be89e8e192e52ad4de764cc9eb33f00]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1990/346/regulation/16) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-0be89e8e192e52ad4de764cc9eb33f00]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1990/346/regulation/16) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-1bbb9c83bcd6802d37628e69637f8a97]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/346/regulation/17) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-1bbb9c83bcd6802d37628e69637f8a97]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/346/regulation/17) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-c2db06bf9b277a40570e91a7a29f0144]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1990/346/regulation/18) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-c2db06bf9b277a40570e91a7a29f0144]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1990/346/regulation/18) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-8a3009cbe60bb3cbd0a4777830fb90ed]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1990/346/regulation/19) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-8a3009cbe60bb3cbd0a4777830fb90ed]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1990/346/regulation/19) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
 [^f00006]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
-[^key-f9bee146895441069748a8c8542c01b8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1990/346/regulation/20) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-f9bee146895441069748a8c8542c01b8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1990/346/regulation/20) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-6777e95a78802298a24d100fed59b0ae]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/346/regulation/21) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-6777e95a78802298a24d100fed59b0ae]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/346/regulation/21) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-46b23fbd863e3ec041da312289b524b4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1990/346/schedule/1) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-46b23fbd863e3ec041da312289b524b4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1990/346/schedule/1) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
 
-[^key-138e1808d926fbd9f3d899f92c2161ec]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1990/346/schedule/2) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)
+[^c-138e1808d926fbd9f3d899f92c2161ec]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1990/346/schedule/2) in force at 31.3.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/346/regulation/1)

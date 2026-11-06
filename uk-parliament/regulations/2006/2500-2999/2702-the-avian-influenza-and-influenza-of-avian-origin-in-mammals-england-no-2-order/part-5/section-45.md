@@ -26,7 +26,7 @@ summary: ''
 - (b) apply the measures in Schedule 1 to premises which he considers to be suspect premises (because of their epidemiological link with the premises of origin); and
 - (c) apply the measures in Schedule 2 to the premises of origin, unless he is satisfied (having considered the results of veterinary inquiries) that this is not necessary.
 
-(2) If the Secretary of State suspects that highly pathogenic avian influenza exists at any border control[^key-e3c51152fc3716c765908ca3b4e36afb] post or if the Chief Veterinary Officer has confirmed that it exists there, the Secretary of State must apply the measures in Schedule 1 to premises which he considers to be suspect premises because of their epidemiological link with the border control post.
+(2) If the Secretary of State suspects that highly pathogenic avian influenza exists at any border control[^c-e3c51152fc3716c765908ca3b4e36afb] post or if the Chief Veterinary Officer has confirmed that it exists there, the Secretary of State must apply the measures in Schedule 1 to premises which he considers to be suspect premises because of their epidemiological link with the border control post.
 
 (3) The Secretary of State must apply measures under this article by notice to the occupier of the relevant premises.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3c51152fc3716c765908ca3b4e36afb]: Textual amendment: Word in [art. 45(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/45/2) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(25)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/25)
+[^c-e3c51152fc3716c765908ca3b4e36afb]: Textual amendment: Word in [art. 45(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/45/2) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(25)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Compliance notices[^key-35a967cdcf5f428a57a8bdaadf757efb][^key-badd19773b79588716701bef4025c0cd]
+## 28. Compliance notices[^c-35a967cdcf5f428a57a8bdaadf757efb][^c-badd19773b79588716701bef4025c0cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35a967cdcf5f428a57a8bdaadf757efb]: Commencement: S. 28 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-35a967cdcf5f428a57a8bdaadf757efb]: Commencement: S. 28 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-badd19773b79588716701bef4025c0cd]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/46/section/28) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-badd19773b79588716701bef4025c0cd]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/46/section/28) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

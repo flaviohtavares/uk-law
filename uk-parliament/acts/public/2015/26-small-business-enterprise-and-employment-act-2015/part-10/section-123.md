@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Abolition of requirements to hold meetings: individual insolvency[^key-5d76a091be3ce6b5d7bb93a9ce564654][^key-1f8a3f7a325a53c5b413f2a22d63b7f7]
+## 123. Abolition of requirements to hold meetings: individual insolvency[^c-5d76a091be3ce6b5d7bb93a9ce564654][^c-1f8a3f7a325a53c5b413f2a22d63b7f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -146,6 +146,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d76a091be3ce6b5d7bb93a9ce564654]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2015/26/section/123) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
+[^c-5d76a091be3ce6b5d7bb93a9ce564654]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2015/26/section/123) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
 
-[^key-1f8a3f7a325a53c5b413f2a22d63b7f7]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2015/26/section/123) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by S.I. 2017/363, reg. 3)
+[^c-1f8a3f7a325a53c5b413f2a22d63b7f7]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2015/26/section/123) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by S.I. 2017/363, reg. 3)

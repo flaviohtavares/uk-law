@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19ZA. Council to review list of specified qualifications[^key-9cfe513a45c6a6ae12e619e270a82e63]
+## 19ZA. Council to review list of specified qualifications[^c-9cfe513a45c6a6ae12e619e270a82e63]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council must review the list of specified qualifications and report to the W
 
 ## Annotations
 
-[^key-9cfe513a45c6a6ae12e619e270a82e63]: Textual amendment: [Reg. 19ZA](https://www.legislation.gov.uk/wsi/2015/140/regulation/19ZA) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [11](https://www.legislation.gov.uk/wsi/2024/613/article/11)
+[^c-9cfe513a45c6a6ae12e619e270a82e63]: Textual amendment: [Reg. 19ZA](https://www.legislation.gov.uk/wsi/2015/140/regulation/19ZA) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [11](https://www.legislation.gov.uk/wsi/2024/613/article/11)

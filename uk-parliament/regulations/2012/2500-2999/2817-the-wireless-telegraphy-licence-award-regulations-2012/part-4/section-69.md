@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Notification of results of principal stage and refund of deposits[^key-b9f5a735b39c839673f50d873ee9ad28]
+## 69. Notification of results of principal stage and refund of deposits[^c-b9f5a735b39c839673f50d873ee9ad28]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Following the determination of the winning principal stage bids under regulation
 
 ## Annotations
 
-[^key-b9f5a735b39c839673f50d873ee9ad28]: Commencement: Reg. 69 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-b9f5a735b39c839673f50d873ee9ad28]: Commencement: Reg. 69 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

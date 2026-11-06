@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Issuing of temporary electoral identity documents[^key-c5c080d42e988c9a1ec6dbed5f3a3aaf]
+## 18. Issuing of temporary electoral identity documents[^c-c5c080d42e988c9a1ec6dbed5f3a3aaf]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5c080d42e988c9a1ec6dbed5f3a3aaf]: Commencement: Reg. 18 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-c5c080d42e988c9a1ec6dbed5f3a3aaf]: Commencement: Reg. 18 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

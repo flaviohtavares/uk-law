@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 351. Registration of social landlords[^key-6605387fa974bf6379ab6ad4e324b461]
+## 351. Registration of social landlords[^c-6605387fa974bf6379ab6ad4e324b461]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 3(3) of the Housing Act 1996 (recording of registration as a social l
 
 ## Annotations
 
-[^key-6605387fa974bf6379ab6ad4e324b461]: Commencement: Art. 351 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6605387fa974bf6379ab6ad4e324b461]: Commencement: Art. 351 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

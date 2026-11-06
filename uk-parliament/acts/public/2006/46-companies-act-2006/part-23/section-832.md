@@ -36,7 +36,7 @@ summary: ''
 
 (5) The following conditions must also be met—
 
-- (a)[^c21353641] the company's shares must be shares admitted to trading on a UK regulated market[^key-34e67798c4d036b57ebe38c317ae62f7];
+- (a)[^c21353641] the company's shares must be shares admitted to trading on a UK regulated market[^c-34e67798c4d036b57ebe38c317ae62f7];
 - (b) during the relevant period it must not have—
   - (i) [^c21353661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) applied any unrealised profits [^c21353681]. . . in paying up debentures or amounts unpaid on its issued shares;
@@ -61,7 +61,7 @@ summary: ''
 
 [^c21353641]: Textual amendment: S. 832(5)(a) substituted (6.4.2012) by [The Companies Act 2006 (Amendment of Part 23) (Investment Companies) Regulations 2012 (S.I. 2012/952)](https://www.legislation.gov.uk/uksi/2012/952), [regs. 1](https://www.legislation.gov.uk/uksi/2012/952/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/952/regulation/2/2/a)
 
-[^key-34e67798c4d036b57ebe38c317ae62f7]: Textual amendment: Words in [s. 832(5)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/832/5/a) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/12) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/348/schedule/4/paragraph/3)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/523/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34e67798c4d036b57ebe38c317ae62f7]: Textual amendment: Words in [s. 832(5)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/832/5/a) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/12) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/348/schedule/4/paragraph/3)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/523/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21353661]: Textual amendment: S. 832(5)(b)(i) and following word omitted (6.4.2012) by virtue of [The Companies Act 2006 (Amendment of Part 23) (Investment Companies) Regulations 2012 (S.I. 2012/952)](https://www.legislation.gov.uk/uksi/2012/952), [regs. 1](https://www.legislation.gov.uk/uksi/2012/952/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/952/regulation/2/2/b)
 

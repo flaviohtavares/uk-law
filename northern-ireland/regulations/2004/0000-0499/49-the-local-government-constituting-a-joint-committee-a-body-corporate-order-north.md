@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2004 (revoked)[^key-6478878a516d03e5a2bffe92ee6769bc]
+The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2004 (revoked)[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 Made
 
@@ -41,50 +41,50 @@ Coming into operation
 
 15th March 2004
 
-[^key-6478878a516d03e5a2bffe92ee6769bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6478878a516d03e5a2bffe92ee6769bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 1. Citation and commencement[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 2. Interpretation[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Constitution of a joint committee as a body corporate[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 3. Constitution of a joint committee as a body corporate[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of arc21[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 4. Functions of arc21[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Power of acquiring, holding or disposing of land[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 5. Power of acquiring, holding or disposing of land[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Miscellaneous functions[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 6. Miscellaneous functions[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6A.**[^key-6478878a516d03e5a2bffe92ee6769bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6A.**[^c-6478878a516d03e5a2bffe92ee6769bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6478878a516d03e5a2bffe92ee6769bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6478878a516d03e5a2bffe92ee6769bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power to establish or participate in companies[^key-6478878a516d03e5a2bffe92ee6769bc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Indemnification of members and officers[^key-6478878a516d03e5a2bffe92ee6769bc]
+## 8. Power to establish or participate in companies[^c-6478878a516d03e5a2bffe92ee6769bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6478878a516d03e5a2bffe92ee6769bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 9. Indemnification of members and officers[^c-6478878a516d03e5a2bffe92ee6769bc]
 
-[^key-6478878a516d03e5a2bffe92ee6769bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6478878a516d03e5a2bffe92ee6769bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6478878a516d03e5a2bffe92ee6769bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6478878a516d03e5a2bffe92ee6769bc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/49) revoked (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [art. 10](https://www.legislation.gov.uk/nisr/2012/10/article/10)
+[^c-6478878a516d03e5a2bffe92ee6769bc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/49) revoked (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [art. 10](https://www.legislation.gov.uk/nisr/2012/10/article/10)

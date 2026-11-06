@@ -29,39 +29,39 @@ Farm and Garden Chemicals Act 1967 (repealed)
 
 1967 c.50
 
-[^key-8d098d1adadb70b5d6c248e1510de56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d098d1adadb70b5d6c248e1510de56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Regulations as to labelling and marking of farm and garden chemicals.[^key-8d098d1adadb70b5d6c248e1510de56e][^key-8d098d1adadb70b5d6c248e1510de56e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Substances to which this Act applies.[^key-8d098d1adadb70b5d6c248e1510de56e][^key-8d098d1adadb70b5d6c248e1510de56e]
+## 1. Regulations as to labelling and marking of farm and garden chemicals.[^c-8d098d1adadb70b5d6c248e1510de56e][^c-8d098d1adadb70b5d6c248e1510de56e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transactions in unlabelled products.[^key-8d098d1adadb70b5d6c248e1510de56e][^key-8d098d1adadb70b5d6c248e1510de56e]
+## 2. Substances to which this Act applies.[^c-8d098d1adadb70b5d6c248e1510de56e][^c-8d098d1adadb70b5d6c248e1510de56e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Evidence of analysis of products.[^key-8d098d1adadb70b5d6c248e1510de56e][^key-8d098d1adadb70b5d6c248e1510de56e]
+## 3. Transactions in unlabelled products.[^c-8d098d1adadb70b5d6c248e1510de56e][^c-8d098d1adadb70b5d6c248e1510de56e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interpretation.[^key-8d098d1adadb70b5d6c248e1510de56e][^key-8d098d1adadb70b5d6c248e1510de56e]
+## 4. Evidence of analysis of products.[^c-8d098d1adadb70b5d6c248e1510de56e][^c-8d098d1adadb70b5d6c248e1510de56e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title and extent.[^key-8d098d1adadb70b5d6c248e1510de56e][^key-8d098d1adadb70b5d6c248e1510de56e]
+## 5. Interpretation.[^c-8d098d1adadb70b5d6c248e1510de56e][^c-8d098d1adadb70b5d6c248e1510de56e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Short title and extent.[^c-8d098d1adadb70b5d6c248e1510de56e][^c-8d098d1adadb70b5d6c248e1510de56e]
 
 **No longer in force.**
 
@@ -69,4 +69,4 @@ Farm and Garden Chemicals Act 1967 (repealed)
 
 ## Annotations
 
-[^key-8d098d1adadb70b5d6c248e1510de56e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/50) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 24](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/24)
+[^c-8d098d1adadb70b5d6c248e1510de56e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/50) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 24](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/24)

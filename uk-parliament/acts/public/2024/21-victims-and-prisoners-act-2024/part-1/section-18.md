@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Restricting parental responsibility where one parent kills the other[^key-96e722485c71af194f4df36d0cd3b08e]
+## 18. Restricting parental responsibility where one parent kills the other[^c-96e722485c71af194f4df36d0cd3b08e]
 
 *Extent: E+W*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96e722485c71af194f4df36d0cd3b08e]: Commencement: S. 18 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-96e722485c71af194f4df36d0cd3b08e]: Commencement: S. 18 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

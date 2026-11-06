@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 73g. Clearing Processes[^key-8caeccc7bf5926cb7d0417dd2b3bb55a]
+## Article 73g. Clearing Processes[^c-8caeccc7bf5926cb7d0417dd2b3bb55a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8caeccc7bf5926cb7d0417dd2b3bb55a]: Textual amendment: [Title 3](https://www.legislation.gov.uk/eur/2013/389/title/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/511/regulation/6)
+[^c-8caeccc7bf5926cb7d0417dd2b3bb55a]: Textual amendment: [Title 3](https://www.legislation.gov.uk/eur/2013/389/title/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/511/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Injunction to restrain prohibited activity[^key-59cd4850f3417b20f1db22bb14963d55][^key-be813eade83bf06ce302c666fb15aff4]
+## 122. Injunction to restrain prohibited activity[^c-59cd4850f3417b20f1db22bb14963d55][^c-be813eade83bf06ce302c666fb15aff4]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59cd4850f3417b20f1db22bb14963d55]: Commencement: S. 122 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-59cd4850f3417b20f1db22bb14963d55]: Commencement: S. 122 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-be813eade83bf06ce302c666fb15aff4]: Commencement: [S. 122](https://www.legislation.gov.uk/asc/2024/3/section/122) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-be813eade83bf06ce302c666fb15aff4]: Commencement: [S. 122](https://www.legislation.gov.uk/asc/2024/3/section/122) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

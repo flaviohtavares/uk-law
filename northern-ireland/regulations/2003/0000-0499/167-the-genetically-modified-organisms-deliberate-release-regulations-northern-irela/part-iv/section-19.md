@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Duty of the applicant after applying for consent to release or to market[^key-0c064b42836793eb702555be08f6ddd4]
+## 19. Duty of the applicant after applying for consent to release or to market[^c-0c064b42836793eb702555be08f6ddd4]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c064b42836793eb702555be08f6ddd4]: Commencement: Reg. 19 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-0c064b42836793eb702555be08f6ddd4]: Commencement: Reg. 19 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Updating information produced under section 8[^key-0c758a80b7f7f65c8d97f9e93b80c799][^key-53a46576181fa00baf6c59abfb0009e0]
+## 11. Updating information produced under section 8[^c-0c758a80b7f7f65c8d97f9e93b80c799][^c-53a46576181fa00baf6c59abfb0009e0]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) The third condition is that, by virtue of section 8(4)(b) or (c), the framework regulations specify a document of a description other than one falling within subsection (3) or (4).
 
-(6) The framework regulations may make provision as to the circumstances in which—[^key-dfc5221cba708fe22339d7edef4760f3]
+(6) The framework regulations may make provision as to the circumstances in which—[^c-dfc5221cba708fe22339d7edef4760f3]
 
 - (a) data from which a document of a description falling within subsection (3) or (4) may be produced, or
 - (b) a document of a description falling within subsection (5),
@@ -47,14 +47,14 @@ is required to be updated or further updated in accordance with provision made b
 
 (8) In subsection (4) “**the 2008 Regulations**” has the same meaning as in section 10.
 
-(9) In this section references to a document or data[^key-18ae55d097c805fa1b2c9be973b90fce] being required to be updated or further updated include references to a document or data being required to be replaced by a document or data of the same description.
+(9) In this section references to a document or data[^c-18ae55d097c805fa1b2c9be973b90fce] being required to be updated or further updated include references to a document or data being required to be replaced by a document or data of the same description.
 
 ## Annotations
 
-[^key-0c758a80b7f7f65c8d97f9e93b80c799]: Commencement: S. 11 in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-0c758a80b7f7f65c8d97f9e93b80c799]: Commencement: S. 11 in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-53a46576181fa00baf6c59abfb0009e0]: Commencement: S. 11 in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
+[^c-53a46576181fa00baf6c59abfb0009e0]: Commencement: S. 11 in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
 
-[^key-dfc5221cba708fe22339d7edef4760f3]: Textual amendment: Words in s. 11(6) substituted (25.1.2013) by [The Energy Act 2011 (Amendment) (Energy Performance of Buildings) Regulations 2012 (S.I. 2012/3170)](https://www.legislation.gov.uk/uksi/2012/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/2/2)
+[^c-dfc5221cba708fe22339d7edef4760f3]: Textual amendment: Words in s. 11(6) substituted (25.1.2013) by [The Energy Act 2011 (Amendment) (Energy Performance of Buildings) Regulations 2012 (S.I. 2012/3170)](https://www.legislation.gov.uk/uksi/2012/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/2/2)
 
-[^key-18ae55d097c805fa1b2c9be973b90fce]: Textual amendment: Words in s. 11(9) inserted (25.1.2013) by [The Energy Act 2011 (Amendment) (Energy Performance of Buildings) Regulations 2012 (S.I. 2012/3170)](https://www.legislation.gov.uk/uksi/2012/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/2/3)
+[^c-18ae55d097c805fa1b2c9be973b90fce]: Textual amendment: Words in s. 11(9) inserted (25.1.2013) by [The Energy Act 2011 (Amendment) (Energy Performance of Buildings) Regulations 2012 (S.I. 2012/3170)](https://www.legislation.gov.uk/uksi/2012/3170), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/3170/regulation/2/3)

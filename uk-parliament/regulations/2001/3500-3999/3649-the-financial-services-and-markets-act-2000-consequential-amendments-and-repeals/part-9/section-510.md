@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 510. Interpretation of Schedule 1[^key-795446202f45530af1e4ea0dce09f91d]
+## 510. Interpretation of Schedule 1[^c-795446202f45530af1e4ea0dce09f91d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In Schedule 1 to the Public Offers of Securities Regulations 1995 (Form and cont
 
 ## Annotations
 
-[^key-795446202f45530af1e4ea0dce09f91d]: Commencement: Art. 510 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-795446202f45530af1e4ea0dce09f91d]: Commencement: Art. 510 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

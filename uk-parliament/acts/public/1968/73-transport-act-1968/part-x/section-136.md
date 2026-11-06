@@ -33,7 +33,7 @@ summary: ''
 (3) In relation to the Scottish Group, references to the Minister—
 
 - (a) in the said section 73 and, for the purposes of orders relating only to that Group, in the said section 74 and in subsection (2) of this section shall be construed as references to the Secretary of State;
-- (aa)[^key-ff29d38c3eaeb42e30e1c4ceeea56c9d] in the case of the Waterways Board, to the Scottish Ministers,
+- (aa)[^c-ff29d38c3eaeb42e30e1c4ceeea56c9d] in the case of the Waterways Board, to the Scottish Ministers,
 - (b) in the said section 74 and subsection (2), for the purposes of orders relating both to that Group and to other authorities, shall be construed as references to the Minister and the Secretary of State acting jointly.
 
 (4)[^c15335191] Any person who—
@@ -52,6 +52,6 @@ shall not in consequence cease to be eligible to participate in any pension sche
 
 [^c15335191]: Modification: S. 136(2)(4) extended by [Transport Act 1978 (c. 55)](https://www.legislation.gov.uk/ukpga/1978/55), [s. 15(4)](https://www.legislation.gov.uk/ukpga/1978/55/section/15/4)
 
-[^key-ff29d38c3eaeb42e30e1c4ceeea56c9d]: Textual amendment: S. 137(3)(aa) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/51/2/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-ff29d38c3eaeb42e30e1c4ceeea56c9d]: Textual amendment: S. 137(3)(aa) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/51/2/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15335211]: Textual amendment: Words in s. 136(4)(a) repealed (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 150(1)(o)](https://www.legislation.gov.uk/ukpga/1993/43/section/150/1/o), [152(3)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/3), [Sch.14](https://www.legislation.gov.uk/ukpga/1993/43/schedule/14); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)

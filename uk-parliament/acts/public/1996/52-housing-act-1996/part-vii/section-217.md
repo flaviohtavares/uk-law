@@ -24,10 +24,10 @@ summary: ''
 
 - “[^c13154841]**private landlord**” means a landlord who is not within section 80(1) of the Housing Act 1985 (c. 68) (the landlord condition for secure tenancies);
 - “**relevant authority**” means a local housing authority or a social services authority; and
-- “**social services authority**” means—[^key-ffb9aff2781b08bc772373be222dcd57]
+- “**social services authority**” means—[^c-ffb9aff2781b08bc772373be222dcd57]
 
 - (a) in relation to England a local authority for the purposes of the [^c13154851]Local Authority Social Services Act 1970, as defined in section 1 of that Act.
-- (b) in relation to Wales, a local authority exercising social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014.[^key-9b9dd80fcbd2b7c0d38abe5d4bd81ed5]
+- (b) in relation to Wales, a local authority exercising social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014.[^c-9b9dd80fcbd2b7c0d38abe5d4bd81ed5]
 
 (2) In this Part, in relation to Scotland—
 
@@ -45,11 +45,11 @@ summary: ''
 
 [^c13154841]: Textual amendment: S. 217(1): definition inserted (31.7.2002 for E. and 30.9.2002 for W.) by [2002 c. 7](https://www.legislation.gov.uk/ukpga/2002/7), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2002/7/section/18/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2002/7/schedule/1/paragraph/20) (with [s. 20(4)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/4)); [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-ffb9aff2781b08bc772373be222dcd57]: Textual amendment: Words in s. 217 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [151(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/151/a)
+[^c-ffb9aff2781b08bc772373be222dcd57]: Textual amendment: Words in s. 217 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [151(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/151/a)
 
 [^c13154851]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
 
-[^key-9b9dd80fcbd2b7c0d38abe5d4bd81ed5]: Textual amendment: Words in s. 217 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [151(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/151/b)
+[^c-9b9dd80fcbd2b7c0d38abe5d4bd81ed5]: Textual amendment: Words in s. 217 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [151(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/151/b)
 
 [^c13154861]: Marginal citation: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43).
 

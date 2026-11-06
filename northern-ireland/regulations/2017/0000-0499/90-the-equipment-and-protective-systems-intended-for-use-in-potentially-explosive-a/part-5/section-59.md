@@ -25,7 +25,7 @@ summary: ''
 - (a) the CE marking—
   - (i) where required, has not been affixed; or
   - (ii) has been affixed otherwise than in accordance with regulations 36 (Prohibition on improper use of CE marking) and 41 (CE marking);
-- (aa)[^key-549c254c18eb18339ad1975b1d061a71] the UK(NI) indication—
+- (aa)[^c-549c254c18eb18339ad1975b1d061a71] the UK(NI) indication—
   - (i) has not been affixed, in contravention of regulation 41A; or
   - (ii) has been affixed other than in accordance with regulation 41A;
 - (b) where a notified body is involved in the production control phase for the product, the identification number of the notified body—
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-549c254c18eb18339ad1975b1d061a71]: Textual amendment: [Reg. 59(1)(aa)](https://www.legislation.gov.uk/nisr/2017/90/regulation/59/1/aa) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(5)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/5)
+[^c-549c254c18eb18339ad1975b1d061a71]: Textual amendment: [Reg. 59(1)(aa)](https://www.legislation.gov.uk/nisr/2017/90/regulation/59/1/aa) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(5)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/5)

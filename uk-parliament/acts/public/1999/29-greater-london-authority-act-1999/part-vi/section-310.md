@@ -54,7 +54,7 @@ summary: ''
 >
 > The metropolitan police and forces outside London.
 
-(2)[^key-03686bbe0295c3051dc2a3243e35eb80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-03686bbe0295c3051dc2a3243e35eb80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c12806951]: Marginal citation: [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25).
 
-[^key-03686bbe0295c3051dc2a3243e35eb80]: Textual amendment: S. 310(2) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-03686bbe0295c3051dc2a3243e35eb80]: Textual amendment: S. 310(2) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

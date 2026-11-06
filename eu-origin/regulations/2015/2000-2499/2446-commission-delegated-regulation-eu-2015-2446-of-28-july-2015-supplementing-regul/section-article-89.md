@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 89. Suspension of the time-limit for payment in case of application for remission(Article 108(3)(a) of the Code)[^key-4a2b57892667a3ab2d4c782b176c12be]
+## Article 89. Suspension of the time-limit for payment in case of application for remission(Article 108(3)(a) of the Code)[^c-4a2b57892667a3ab2d4c782b176c12be]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a2b57892667a3ab2d4c782b176c12be]: Modification: [Art. 89](https://www.legislation.gov.uk/eur/2015/2446/article/89) modified (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-4a2b57892667a3ab2d4c782b176c12be]: Modification: [Art. 89](https://www.legislation.gov.uk/eur/2015/2446/article/89) modified (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

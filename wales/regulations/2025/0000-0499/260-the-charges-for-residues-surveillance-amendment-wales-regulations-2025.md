@@ -31,7 +31,7 @@ summary: ''
 
 Food, Wales
 
-The Charges for Residues Surveillance (Amendment) (Wales) Regulations 2025 (revoked)[^key-d0d049ff22011e0824caee32147d855f]
+The Charges for Residues Surveillance (Amendment) (Wales) Regulations 2025 (revoked)[^c-d0d049ff22011e0824caee32147d855f]
 
 Made
 
@@ -45,15 +45,15 @@ Coming into force
 
 28 March 2025
 
-[^key-d0d049ff22011e0824caee32147d855f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0d049ff22011e0824caee32147d855f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Title, application and coming into force[^key-d0d049ff22011e0824caee32147d855f]
+## 1. Title, application and coming into force[^c-d0d049ff22011e0824caee32147d855f]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Charges for Residues Surveillance Regulations 2006[^key-d0d049ff22011e0824caee32147d855f]
+## 2. Amendment to the Charges for Residues Surveillance Regulations 2006[^c-d0d049ff22011e0824caee32147d855f]
 
 **Not yet in force.**
 
@@ -61,12 +61,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0d049ff22011e0824caee32147d855f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0d049ff22011e0824caee32147d855f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0d049ff22011e0824caee32147d855f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0d049ff22011e0824caee32147d855f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0d049ff22011e0824caee32147d855f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2025/260) revoked (27.3.2025) by [The Charges for Residues Surveillance (Amendment and Revocation) (Wales) Regulations 2025 (S.I. 2025/370)](https://www.legislation.gov.uk/wsi/2025/370), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/370/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2025/370/regulation/3)
+[^c-d0d049ff22011e0824caee32147d855f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2025/260) revoked (27.3.2025) by [The Charges for Residues Surveillance (Amendment and Revocation) (Wales) Regulations 2025 (S.I. 2025/370)](https://www.legislation.gov.uk/wsi/2025/370), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/370/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2025/370/regulation/3)

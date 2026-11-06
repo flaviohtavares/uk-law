@@ -480,7 +480,7 @@ In Article 38 of the Solicitors Order (powers of Council on complaint of undue d
 
 ## 16. Solicitors' discipline
 
-(1)[^key-60851350b49b293b73dac3c7be4e61b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-60851350b49b293b73dac3c7be4e61b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After the Article 41A inserted in the Solicitors Order by paragraph (1) there shall be inserted—
 
@@ -502,7 +502,7 @@ In Article 38 of the Solicitors Order (powers of Council on complaint of undue d
 
 .
 
-## 17. Lay observers[^key-64615e304f271f43be5c9838927c84cd]
+## 17. Lay observers[^c-64615e304f271f43be5c9838927c84cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1165,7 +1165,7 @@ In Schedule 1 to the Solicitors Order (property in control or possession of cert
 - (e) in paragraph 22 after “banking” there shall be inserted “ or building society ”;
 - (f) in paragraph 23(1) after “all banking” there shall be inserted “ or building society ” and “ banking ” in the last two places where it occurs shall cease to have effect.
 
-## 26. Consequential amendments relating to legal aid, advice and assistance[^key-48e567ff33e1228f17f898625e6bb51f]
+## 26. Consequential amendments relating to legal aid, advice and assistance[^c-48e567ff33e1228f17f898625e6bb51f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1255,9 +1255,9 @@ Article 27(2).
 
 [^c16982531]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-60851350b49b293b73dac3c7be4e61b6]: Textual amendment: [Art. 16(1)](https://www.legislation.gov.uk/nisi/1989/1343/article/16/1) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/3), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-60851350b49b293b73dac3c7be4e61b6]: Textual amendment: [Art. 16(1)](https://www.legislation.gov.uk/nisi/1989/1343/article/16/1) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/3), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-64615e304f271f43be5c9838927c84cd]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/nisi/1989/1343/article/17) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/4), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-64615e304f271f43be5c9838927c84cd]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/nisi/1989/1343/article/17) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/4), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c16982541]: Textual amendment: [1981 NI 8](https://www.legislation.gov.uk/1981/ni8)
 
@@ -1281,7 +1281,7 @@ Article 27(2).
 
 [^c16982641]: Textual amendment: [1976 NI 12](https://www.legislation.gov.uk/1976/ni12)
 
-[^key-48e567ff33e1228f17f898625e6bb51f]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/nisi/1989/1343/article/26) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-48e567ff33e1228f17f898625e6bb51f]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/nisi/1989/1343/article/26) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c16982671]: Textual amendment: [1981 NI 8](https://www.legislation.gov.uk/1981/ni8)
 

@@ -46,7 +46,7 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 A draft of these Regulations has been laid before Parliament in accordance with sections 3(12), 5(6) and 6(5) of the Civil Liability Act 2018, and has been approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-017d324120e92c5d54ba69e43631efeb]
+## 1. Citation, commencement and interpretation[^c-017d324120e92c5d54ba69e43631efeb]
 
 (1) These Regulations may be cited as the Whiplash Injury Regulations 2021 and come into force on 31st May 2021.
 
@@ -54,18 +54,18 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 (3) In these Regulations, “the Act” means the Civil Liability Act 2018.
 
-## 2. Damages for whiplash injuries[^key-a8340fe71bf3508ac1625dcf230950df]
+## 2. Damages for whiplash injuries[^c-a8340fe71bf3508ac1625dcf230950df]
 
 (1) Subject to regulation 3—
 
-- (a) the total amount of damages for pain, suffering and loss of amenity payable in relation to one or more whiplash injuries, taken together (“the tariff amount” for the purposes of section 5(7)(a) of the Act), is the figure specified in the second column of —[^key-3ae65f7bb92b0e659b66f12108949e54]
+- (a) the total amount of damages for pain, suffering and loss of amenity payable in relation to one or more whiplash injuries, taken together (“the tariff amount” for the purposes of section 5(7)(a) of the Act), is the figure specified in the second column of —[^c-3ae65f7bb92b0e659b66f12108949e54]
   - (i) Table 1 where the cause of action accrues before 31st May 2025;
   - (ii) Table 2 where the cause of action accrues on or after 31st May 2025; and
-- (b) the total amount of damages for pain, suffering and loss of amenity payable in relation to both one or more whiplash injuries and one or more minor psychological injuries suffered on the same occasion as the whiplash injury or injuries, taken together (“the tariff amount” for the purposes of section 5(7)(b) of the Act), is the figure specified in the third column of —[^key-c714e8f3df269d4bcf515b5da7da2167]
+- (b) the total amount of damages for pain, suffering and loss of amenity payable in relation to both one or more whiplash injuries and one or more minor psychological injuries suffered on the same occasion as the whiplash injury or injuries, taken together (“the tariff amount” for the purposes of section 5(7)(b) of the Act), is the figure specified in the third column of —[^c-c714e8f3df269d4bcf515b5da7da2167]
   - (i) Table 1 where the cause of action accrues before 31st May 2025;
   - (ii) Table 2 where the cause of action accrues on or after 31st May 2025
 
-  Table 1[^key-3cfe2c8435d664b45f8386626f1c9cfd]
+  Table 1[^c-3cfe2c8435d664b45f8386626f1c9cfd]
 
   | Duration of injury | Amount - Regulation 2(1)(a) | Amount - Regulation 2(1)(b) |
   | --- | --- | --- |
@@ -96,7 +96,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 if the person were to take, or had taken, reasonable steps to mitigate the effect of that injury or those injuries.
 
-## 3. Uplift in exceptional circumstances[^key-2dae890e3e70d597bdd612f6b9d7a5c0]
+## 3. Uplift in exceptional circumstances[^c-2dae890e3e70d597bdd612f6b9d7a5c0]
 
 (1) Subject to paragraphs (2) and (3), a court—
 
@@ -117,7 +117,7 @@ if the person were to take, or had taken, reasonable steps to mitigate the effec
 
 (3) The greater amount in paragraph (1)(a), (b) or (c) may not exceed the relevant tariff amount by more than 20%.
 
-## 4. Settlement of a whiplash claim[^key-fa8a3728791ed3f62887116a22fe2d8f]
+## 4. Settlement of a whiplash claim[^c-fa8a3728791ed3f62887116a22fe2d8f]
 
 (1) For the purposes of section 6 of the Act, “appropriate evidence of an injury” means—
 
@@ -167,16 +167,16 @@ These Regulations further specify the medical evidence that must be provided bef
 
 [^f00001]: Footnote: [2018 c. 29](https://www.legislation.gov.uk/ukpga/2018/29).
 
-[^key-017d324120e92c5d54ba69e43631efeb]: Commencement: Reg. 1 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+[^c-017d324120e92c5d54ba69e43631efeb]: Commencement: Reg. 1 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
 
-[^key-a8340fe71bf3508ac1625dcf230950df]: Commencement: Reg. 2 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+[^c-a8340fe71bf3508ac1625dcf230950df]: Commencement: Reg. 2 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
 
-[^key-3ae65f7bb92b0e659b66f12108949e54]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1) substituted (31.5.2025) by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/b)
+[^c-3ae65f7bb92b0e659b66f12108949e54]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1) substituted (31.5.2025) by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/b)
 
-[^key-c714e8f3df269d4bcf515b5da7da2167]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1/a) substituted (31.5.2025) by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/a)
+[^c-c714e8f3df269d4bcf515b5da7da2167]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1/a) substituted (31.5.2025) by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/a)
 
-[^key-3cfe2c8435d664b45f8386626f1c9cfd]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1/b): Tables 1, 2 substituted (31.5.2025) for Table by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/a)
+[^c-3cfe2c8435d664b45f8386626f1c9cfd]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1/b): Tables 1, 2 substituted (31.5.2025) for Table by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/a)
 
-[^key-2dae890e3e70d597bdd612f6b9d7a5c0]: Commencement: Reg. 3 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+[^c-2dae890e3e70d597bdd612f6b9d7a5c0]: Commencement: Reg. 3 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
 
-[^key-fa8a3728791ed3f62887116a22fe2d8f]: Commencement: Reg. 4 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+[^c-fa8a3728791ed3f62887116a22fe2d8f]: Commencement: Reg. 4 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)

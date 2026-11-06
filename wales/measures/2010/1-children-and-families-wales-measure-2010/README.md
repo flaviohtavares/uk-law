@@ -170,11 +170,11 @@ A Measure of the National Assembly for Wales to make provision about contributin
 - [Section 55 — Notices](part-2/section-55.md)
 - [Section 56 — Death of registered person](part-2/section-56.md)
 
-### PART 3 — INTEGRATED FAMILY SUPPORT TEAMS[^key-ceee0127a430d51960c175b1ef8dc46c]
+### PART 3 — INTEGRATED FAMILY SUPPORT TEAMS[^c-ceee0127a430d51960c175b1ef8dc46c]
 
 *Extent: E+W*
 
-#### Teams[^key-ceee0127a430d51960c175b1ef8dc46c]
+#### Teams[^c-ceee0127a430d51960c175b1ef8dc46c]
 
 **No longer in force.**
 
@@ -183,26 +183,26 @@ A Measure of the National Assembly for Wales to make provision about contributin
 - [Section 59 — Resources for integrated family support teams](part-3/section-59.md)
 - [Section 60 — Composition of integrated family support teams](part-3/section-60.md)
 
-#### Boards[^key-ceee0127a430d51960c175b1ef8dc46c]
+#### Boards[^c-ceee0127a430d51960c175b1ef8dc46c]
 
 **No longer in force.**
 
 - [Section 61 — Establishment of integrated family support boards](part-3/section-61.md)
 - [Section 62 — Functions of integrated family support boards](part-3/section-62.md)
 
-#### Regulations[^key-ceee0127a430d51960c175b1ef8dc46c]
+#### Regulations[^c-ceee0127a430d51960c175b1ef8dc46c]
 
 **No longer in force.**
 
 - [Section 63 — Regulations about integrated family support teams and boards](part-3/section-63.md)
 
-#### Reports[^key-ceee0127a430d51960c175b1ef8dc46c]
+#### Reports[^c-ceee0127a430d51960c175b1ef8dc46c]
 
 **No longer in force.**
 
 - [Section 64 — Annual reports on integrated family support teams](part-3/section-64.md)
 
-#### Guidance[^key-ceee0127a430d51960c175b1ef8dc46c]
+#### Guidance[^c-ceee0127a430d51960c175b1ef8dc46c]
 
 **No longer in force.**
 
@@ -244,4 +244,4 @@ A Measure of the National Assembly for Wales to make provision about contributin
 
 ## Annotations
 
-[^key-ceee0127a430d51960c175b1ef8dc46c]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/mwa/2010/1/part/3) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [276](https://www.legislation.gov.uk/wsi/2016/413/regulation/276)
+[^c-ceee0127a430d51960c175b1ef8dc46c]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/mwa/2010/1/part/3) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [276](https://www.legislation.gov.uk/wsi/2016/413/regulation/276)

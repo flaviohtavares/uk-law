@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Enforcement: general[^key-ee2d22a783c468c383608d646f3555d3]
+## 187. Enforcement: general[^c-ee2d22a783c468c383608d646f3555d3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2d22a783c468c383608d646f3555d3]: Commencement: S. 187 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ee2d22a783c468c383608d646f3555d3]: Commencement: S. 187 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Guidance[^key-994721dc2269a8feaaa295a5a61f0ed0]
+## 84. Guidance[^c-994721dc2269a8feaaa295a5a61f0ed0]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-994721dc2269a8feaaa295a5a61f0ed0]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2007/14/section/84) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-994721dc2269a8feaaa295a5a61f0ed0]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2007/14/section/84) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

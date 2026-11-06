@@ -33,7 +33,7 @@ summary: ''
 
 Pensions
 
-The Occupational and Personal Pension Schemes (Levies – Amendment) Regulations 2012 (revoked)[^key-88f21c7b33072eec4677bb710272c4a8]
+The Occupational and Personal Pension Schemes (Levies – Amendment) Regulations 2012 (revoked)[^c-88f21c7b33072eec4677bb710272c4a8]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 1st April 2012
 
-[^key-88f21c7b33072eec4677bb710272c4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88f21c7b33072eec4677bb710272c4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-88f21c7b33072eec4677bb710272c4a8]
+## 1. Citation and commencement[^c-88f21c7b33072eec4677bb710272c4a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005[^key-88f21c7b33072eec4677bb710272c4a8]
+## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005[^c-88f21c7b33072eec4677bb710272c4a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Levies) Regulations 2005[^key-88f21c7b33072eec4677bb710272c4a8]
+## 3. Amendment of the Occupational Pension Schemes (Levies) Regulations 2005[^c-88f21c7b33072eec4677bb710272c4a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88f21c7b33072eec4677bb710272c4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88f21c7b33072eec4677bb710272c4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-88f21c7b33072eec4677bb710272c4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88f21c7b33072eec4677bb710272c4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88f21c7b33072eec4677bb710272c4a8]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/539) revoked (1.4.2017) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (S.I. 2017/203)](https://www.legislation.gov.uk/uksi/2017/203), [reg. 3](https://www.legislation.gov.uk/uksi/2017/203/regulation/3)
+[^c-88f21c7b33072eec4677bb710272c4a8]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/539) revoked (1.4.2017) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (S.I. 2017/203)](https://www.legislation.gov.uk/uksi/2017/203), [reg. 3](https://www.legislation.gov.uk/uksi/2017/203/regulation/3)

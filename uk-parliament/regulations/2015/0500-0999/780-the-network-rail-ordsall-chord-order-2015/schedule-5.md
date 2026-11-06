@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS TO BE STOPPED UP (FOR WHICH A SUBSTITUTE IS TO BE PROVIDED)[^key-9e27cb92c5a167ce0c853a262d7499f3]
+## SCHEDULE 5 — STREETS TO BE STOPPED UP (FOR WHICH A SUBSTITUTE IS TO BE PROVIDED)[^c-9e27cb92c5a167ce0c853a262d7499f3]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 11
 
 ## Annotations
 
-[^key-9e27cb92c5a167ce0c853a262d7499f3]: Commencement: Sch. 5 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-9e27cb92c5a167ce0c853a262d7499f3]: Commencement: Sch. 5 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Loss or delay during transfer[^key-06d811e024c386ded94eec0f68480d3a]
+## 23. Loss or delay during transfer[^c-06d811e024c386ded94eec0f68480d3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An operator must send a special report to the ONR under regulation 16 as soon as
 
 ## Annotations
 
-[^key-06d811e024c386ded94eec0f68480d3a]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-06d811e024c386ded94eec0f68480d3a]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

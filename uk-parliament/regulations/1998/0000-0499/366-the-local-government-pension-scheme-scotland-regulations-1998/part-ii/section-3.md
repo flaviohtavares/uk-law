@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. General eligibility for membership: employees of Scheme employers etc.[^key-09b18a3799c38a4bf25e00a8fd145c0e]
+## 3. General eligibility for membership: employees of Scheme employers etc.[^c-09b18a3799c38a4bf25e00a8fd145c0e]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b18a3799c38a4bf25e00a8fd145c0e]: Commencement: Reg. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-09b18a3799c38a4bf25e00a8fd145c0e]: Commencement: Reg. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

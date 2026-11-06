@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Notices[^key-13a3f079df76976722e1a23ca2deab93]
+## 96. Notices[^c-13a3f079df76976722e1a23ca2deab93]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13a3f079df76976722e1a23ca2deab93]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2007/3141/rule/96) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-13a3f079df76976722e1a23ca2deab93]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2007/3141/rule/96) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

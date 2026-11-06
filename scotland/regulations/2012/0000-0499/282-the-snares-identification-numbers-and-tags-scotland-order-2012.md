@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Snares (Identification Numbers and Tags) (Scotland) Order 2012 (revoked)[^key-e63227bb2d5be7ca8272104198190f62]
+The Snares (Identification Numbers and Tags) (Scotland) Order 2012 (revoked)[^c-e63227bb2d5be7ca8272104198190f62]
 
 Made
 
@@ -46,45 +46,45 @@ Coming into force
 
 22nd November 2012
 
-[^key-e63227bb2d5be7ca8272104198190f62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e63227bb2d5be7ca8272104198190f62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-e63227bb2d5be7ca8272104198190f62]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-e63227bb2d5be7ca8272104198190f62]
+## 1. Citation and commencement[^c-e63227bb2d5be7ca8272104198190f62]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application for an identification number[^key-e63227bb2d5be7ca8272104198190f62]
+## 2. Interpretation[^c-e63227bb2d5be7ca8272104198190f62]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Evidence of training[^key-e63227bb2d5be7ca8272104198190f62]
+## 3. Application for an identification number[^c-e63227bb2d5be7ca8272104198190f62]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Issuing of identification numbers[^key-e63227bb2d5be7ca8272104198190f62]
+## 4. Evidence of training[^c-e63227bb2d5be7ca8272104198190f62]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Record keeping[^key-e63227bb2d5be7ca8272104198190f62]
+## 5. Issuing of identification numbers[^c-e63227bb2d5be7ca8272104198190f62]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Tags[^key-e63227bb2d5be7ca8272104198190f62]
+## 6. Record keeping[^c-e63227bb2d5be7ca8272104198190f62]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Tags[^c-e63227bb2d5be7ca8272104198190f62]
 
 **No longer in force.**
 
@@ -92,11 +92,11 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-e63227bb2d5be7ca8272104198190f62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e63227bb2d5be7ca8272104198190f62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Form of application for an identification number[^key-e63227bb2d5be7ca8272104198190f62]
+## SCHEDULE — Form of application for an identification number[^c-e63227bb2d5be7ca8272104198190f62]
 
 Article 3
 
@@ -104,8 +104,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-e63227bb2d5be7ca8272104198190f62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e63227bb2d5be7ca8272104198190f62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e63227bb2d5be7ca8272104198190f62]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/282) revoked (25.11.2024) by [The Wildlife Management (Consequential Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/268)](https://www.legislation.gov.uk/ssi/2024/268), [regs. 1](https://www.legislation.gov.uk/ssi/2024/268/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/268/regulation/3/a)
+[^c-e63227bb2d5be7ca8272104198190f62]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/282) revoked (25.11.2024) by [The Wildlife Management (Consequential Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/268)](https://www.legislation.gov.uk/ssi/2024/268), [regs. 1](https://www.legislation.gov.uk/ssi/2024/268/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/268/regulation/3/a)

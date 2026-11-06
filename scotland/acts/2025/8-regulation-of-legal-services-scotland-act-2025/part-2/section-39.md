@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Requirement for legal businesses to be authorised to provide legal services[^key-048201ad0ccda9daf830b122fd229d39][^key-3fdda2e8327fb9f397d92b14d13f1266][^key-93ed3f7024206e03f46b70f86062cb55]
+## 39. Requirement for legal businesses to be authorised to provide legal services[^c-048201ad0ccda9daf830b122fd229d39][^c-3fdda2e8327fb9f397d92b14d13f1266][^c-93ed3f7024206e03f46b70f86062cb55]
 
 *Extent: S*
 
@@ -77,8 +77,8 @@ summary: ''
 
 ## Annotations
 
-[^key-048201ad0ccda9daf830b122fd229d39]: Commencement: S. 39 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-048201ad0ccda9daf830b122fd229d39]: Commencement: S. 39 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-3fdda2e8327fb9f397d92b14d13f1266]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/8/section/39) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-3fdda2e8327fb9f397d92b14d13f1266]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/8/section/39) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-93ed3f7024206e03f46b70f86062cb55]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/8/section/39) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-93ed3f7024206e03f46b70f86062cb55]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/8/section/39) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

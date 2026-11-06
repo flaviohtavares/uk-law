@@ -52,7 +52,7 @@ summary: ''
 
 (3) Section 58(5)(b) (prohibition of declarations of illegitimacy) shall be omitted.
 
-(4)[^key-4d3957f1832f6c8fe0b4ad9692b4be50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4d3957f1832f6c8fe0b4ad9692b4be50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Schedule 8 (which makes amendments consequential on subsection (1)) shall have effect.
 
@@ -69,7 +69,7 @@ which are pending immediately before the commencement of this section.
 
 [^c11422361]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
 
-[^key-4d3957f1832f6c8fe0b4ad9692b4be50]: Textual amendment: S. 83(4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4d3957f1832f6c8fe0b4ad9692b4be50]: Textual amendment: S. 83(4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c11422371]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 

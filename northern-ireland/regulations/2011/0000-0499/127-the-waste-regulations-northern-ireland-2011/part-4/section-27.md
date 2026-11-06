@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Amendment to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^key-8ca115b6fe9df9bdb9d36a2d77798583]
+## 27. Amendment to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^c-8ca115b6fe9df9bdb9d36a2d77798583]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ca115b6fe9df9bdb9d36a2d77798583]: Commencement: Reg. 27 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-8ca115b6fe9df9bdb9d36a2d77798583]: Commencement: Reg. 27 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00013]: Footnote: [S.R.1999 No.73](https://www.legislation.gov.uk/nisr/1999/73)

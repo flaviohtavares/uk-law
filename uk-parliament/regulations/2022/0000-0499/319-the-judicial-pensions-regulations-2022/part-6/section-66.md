@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Effect of allocation election[^key-1c1ed72dce2b2126cb1dbd2b09c2df8c]
+## 66. Effect of allocation election[^c-1c1ed72dce2b2126cb1dbd2b09c2df8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c1ed72dce2b2126cb1dbd2b09c2df8c]: Commencement: Reg. 66 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-1c1ed72dce2b2126cb1dbd2b09c2df8c]: Commencement: Reg. 66 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

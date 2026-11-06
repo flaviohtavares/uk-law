@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362K. Variation and discharge of interim freezing order[^key-3de4c3b300c2d60220830e5e8d325676]
+## 362K. Variation and discharge of interim freezing order[^c-3de4c3b300c2d60220830e5e8d325676]
 
 *Extent: E+W+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) The “applicable 48 hour period” is to be read as follows—
 
-- (a) in a case where the respondent complies, or purports to comply, with the requirements imposed by an unexplained wealth order before the end of the response period, it is the period of 48 hours beginning with the day after the day with which the determination period (see section 362D(3))[^key-f4c3f1194c7269bf7ffc3fadb8399705] ends;
+- (a) in a case where the respondent complies, or purports to comply, with the requirements imposed by an unexplained wealth order before the end of the response period, it is the period of 48 hours beginning with the day after the day with which the determination period (see section 362D(3))[^c-f4c3f1194c7269bf7ffc3fadb8399705] ends;
 - (b) in any other case, it is the period of 48 hours beginning with the day after the day with which the response period ends.
 
 (7) In calculating a period of 48 hours for the purposes of subsection (6), no account is to be taken of—
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3de4c3b300c2d60220830e5e8d325676]: Textual amendment: [S. 362J 362R and cross-heading](https://www.legislation.gov.uk/ukpga/2002/29/chapter/2/crossheading/unexplained-wealth-orders-interim-freezing-of-property) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2017/22/section/2), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
+[^c-3de4c3b300c2d60220830e5e8d325676]: Textual amendment: [S. 362J 362R and cross-heading](https://www.legislation.gov.uk/ukpga/2002/29/chapter/2/crossheading/unexplained-wealth-orders-interim-freezing-of-property) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2017/22/section/2), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
 
-[^key-f4c3f1194c7269bf7ffc3fadb8399705]: Textual amendment: Words in [s. 362K(6)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/362K/6/a) substituted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2022/10/section/49/4), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-f4c3f1194c7269bf7ffc3fadb8399705]: Textual amendment: Words in [s. 362K(6)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/362K/6/a) substituted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2022/10/section/49/4), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)

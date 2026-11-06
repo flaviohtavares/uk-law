@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71I. Regulated transaction involving unauthorised participant[^c20235041][^key-87813912cabb3eecfce6b60ae359d14f][^c20234671][^c20069971]
+## 71I. Regulated transaction involving unauthorised participant[^c20235041][^c-87813912cabb3eecfce6b60ae359d14f][^c20234671][^c20069971]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ the transaction is void and subsections (3) to (5) apply with effect from the ti
 
 [^c20235041]: Editorial: The insertion of the new heading "Chapter 1" in Pt. 4A on 1.7.2008 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under that new heading.
 
-[^key-87813912cabb3eecfce6b60ae359d14f]: Modification: S. 71I modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/12); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-87813912cabb3eecfce6b60ae359d14f]: Modification: S. 71I modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/12); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20234671]: Textual amendment: Pt. 4A (ss. 71F-71Y) renumbered (1.7.2008) as Pt. 4A Ch. 1 by [The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008 (S.I. 2008/1319)](https://www.legislation.gov.uk/uksi/2008/1319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/1319/article/3/1)
 

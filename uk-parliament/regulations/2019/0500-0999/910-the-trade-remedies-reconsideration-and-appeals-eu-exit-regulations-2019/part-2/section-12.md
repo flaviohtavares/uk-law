@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Initiation of reconsideration[^key-2d283ee87b8c1e05fd04868ceacefa50]
+## 12. Initiation of reconsideration[^c-2d283ee87b8c1e05fd04868ceacefa50]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d283ee87b8c1e05fd04868ceacefa50]: Commencement: Reg. 12 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-2d283ee87b8c1e05fd04868ceacefa50]: Commencement: Reg. 12 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

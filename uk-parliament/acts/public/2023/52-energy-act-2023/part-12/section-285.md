@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Guidance: criminal and civil sanctions[^key-bf18665275c16bd0603dc627dc801164][^key-200050bec76f24b4dec53f82437aec19]
+## 285. Guidance: criminal and civil sanctions[^c-bf18665275c16bd0603dc627dc801164][^c-200050bec76f24b4dec53f82437aec19]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf18665275c16bd0603dc627dc801164]: Commencement: S. 285 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-bf18665275c16bd0603dc627dc801164]: Commencement: S. 285 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-200050bec76f24b4dec53f82437aec19]: Commencement: [S. 285](https://www.legislation.gov.uk/ukpga/2023/52/section/285) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/viii)
+[^c-200050bec76f24b4dec53f82437aec19]: Commencement: [S. 285](https://www.legislation.gov.uk/ukpga/2023/52/section/285) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/viii)

@@ -48,13 +48,13 @@ This Order makes provision for a purpose mentioned in section 2(2) of the Europe
 
 The Department of Agriculture and Rural Development makes the following Order in exercise of the powers conferred on it by Article 8(1), (2) and (5) of the Diseases of Animals (Northern Ireland) Order 1981[^f00004] and section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972 having consulted with bodies which appeared to it to be substantially representative of the interests concerned and with the approval of the Department of Finance and Personnel.
 
-## 1. Citation and commencement[^key-d41e5bd29a41dea51f4f450ac6258656]
+## 1. Citation and commencement[^c-d41e5bd29a41dea51f4f450ac6258656]
 
 This Order may be cited as the Northern Ireland Poultry Health Assurance Scheme Order (Northern Ireland) 2011 and shall come into operation on 1st January 2012.
 
-## 2. The Northern Ireland Poultry Health Assurance Scheme[^key-1b31626a99edcd25da7d6f6440fc48b1]
+## 2. The Northern Ireland Poultry Health Assurance Scheme[^c-1b31626a99edcd25da7d6f6440fc48b1]
 
-For the purposes of approving and monitoring poultry establishments engaging in trade with[^key-355e89b334460dc6a98d1bfb6b6df4c9] Member States of poultry and hatching eggs as required by Article 6 of, and Annex II to, Council Directive [2009/158/EC](https://www.legislation.gov.uk/european/directive/2009/0158) (on animal conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs) the Department hereby makes the Scheme set out in the Schedule.
+For the purposes of approving and monitoring poultry establishments engaging in trade with[^c-355e89b334460dc6a98d1bfb6b6df4c9] Member States of poultry and hatching eggs as required by Article 6 of, and Annex II to, Council Directive [2009/158/EC](https://www.legislation.gov.uk/european/directive/2009/0158) (on animal conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs) the Department hereby makes the Scheme set out in the Schedule.
 
 Sealed with the Official Seal of the Department of Agriculture and Rural Development on 21st December 2011.
 
@@ -74,7 +74,7 @@ Article 2
 
 ### PART I — INTRODUCTION
 
-#### 1. Interpretation[^key-2e091bd86d9a6c70dd38617243af29e6]
+#### 1. Interpretation[^c-2e091bd86d9a6c70dd38617243af29e6]
 
 For the purposes of this Schedule—
 
@@ -82,14 +82,14 @@ For the purposes of this Schedule—
 - “designated laboratory” means a laboratory designated by the Department for the purposes of this Order;
 - “the Department” means the Department of Agriculture and Rural Development;
 - “the Directive” means Council Directive [2009/158/EC](https://www.legislation.gov.uk/european/directive/2009/0158) (on animal health conditions governing intra-Community trade in, and imports from third countries, of poultry and hatching eggs) as amended from time to time;
-- “ “[^key-7a3ff93038adccce6100a5ec6cebfed4]**Fees Order**” means The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2012; and
+- “ “[^c-7a3ff93038adccce6100a5ec6cebfed4]**Fees Order**” means The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2012; and
 - “inspector” means a person appointed to be an inspector for the purposes of this Order by the Department and includes a veterinary inspector.
 
-#### 2. Competent Authority[^key-26ce694a6b5e2c5866adf9e0de2f4d18]
+#### 2. Competent Authority[^c-26ce694a6b5e2c5866adf9e0de2f4d18]
 
 The Department is the competent authority for the purposes of the Directive.
 
-#### 3. Approvals and notices[^key-daf8f06af86a6a1d9b2e53ed7ddebb74]
+#### 3. Approvals and notices[^c-daf8f06af86a6a1d9b2e53ed7ddebb74]
 
 Any approval granted or notice issued by the Department under this Order—
 
@@ -97,9 +97,9 @@ Any approval granted or notice issued by the Department under this Order—
 - (b) shall be in writing; and
 - (c) may be amended, suspended or withdrawn by a further notice in writing served on the same person at any time.
 
-#### 4. Exports[^key-f1ad0ddc8aa8f4a5edda5db70af51c4a]
+#### 4. Exports[^c-f1ad0ddc8aa8f4a5edda5db70af51c4a]
 
-(1) A person shall not export to a[^key-7ed5df60f69708f2901b2e22f14f57df] Member State any hatching eggs, day-old chicks or poultry to which Article 6 of the Directive applies unless they originate from an establishment that—
+(1) A person shall not export to a[^c-7ed5df60f69708f2901b2e22f14f57df] Member State any hatching eggs, day-old chicks or poultry to which Article 6 of the Directive applies unless they originate from an establishment that—
 
 - (a) is a member of the monitoring scheme, known as the Northern Ireland Poultry Health Assurance Scheme, operated by the Department in accordance with this scheme; and
 - (b) conforms with the requirements of Annex II to the Directive,
@@ -120,22 +120,22 @@ and to do so is an offence under regulation 5(1) of the Trade in Animals and Rel
 
 (5) In the event of a notice served under paragraph (3) or (4) not being complied with, an inspector may seize or cause to be seized any hatching eggs, day-old chicks or poultry to which it relates and arrange for the requirements of the notice to be complied with.
 
-#### 5. Powers of inspectors[^key-b152cee560cbddd10f20fe25d9c1ae5e]
+#### 5. Powers of inspectors[^c-b152cee560cbddd10f20fe25d9c1ae5e]
 
 (1) An inspector may, on producing, if required to do so, some duly authenticated document showing his authority, at all reasonable hours enter any land or premises for the purposes of ascertaining whether there is or has been on the premises any contravention of this Order.
 
 (2) An inspector may carry out all checks and examinations necessary for the enforcement of the Directive, and in particular may—
 
 - (a) carry out inspections of any processes used for the marking and identification of animals, any premises and any installation;
-- (b) take samples (and, if necessary, send the samples for laboratory testing) from any hatching eggs, day-old chicks or poultry being transported in the course of trade with the EU[^key-05f015e7bd564b226ae6171529467f15] ;
+- (b) take samples (and, if necessary, send the samples for laboratory testing) from any hatching eggs, day-old chicks or poultry being transported in the course of trade with the EU[^c-05f015e7bd564b226ae6171529467f15] ;
 - (c) examine documentary or data processing material relevant to the checks carried out under this Order; and
-- (d)[^key-7eda302941b179ca56829cb30a7b4579] be accompanied by such persons as the inspector considers necessary
+- (d)[^c-7eda302941b179ca56829cb30a7b4579] be accompanied by such persons as the inspector considers necessary
 
 (3) In this paragraph “premises” includes any place, installation, road, or rail vehicle, ship, vessel, boat, craft, hovercraft or aircraft.
 
 ### PART II — THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME
 
-#### 6. Membership[^key-e5f0f65790ecdc67255e2483a68d27df]
+#### 6. Membership[^c-e5f0f65790ecdc67255e2483a68d27df]
 
 (1) Any application for an establishment to become a member of the Northern Ireland Poultry Health Assurance Scheme shall be accompanied by the registration fee, as set out in the Fees Order.
 
@@ -146,16 +146,16 @@ and to do so is an offence under regulation 5(1) of the Trade in Animals and Rel
   - (ii) the establishment meets the requirements regarding facilities in Chapter II of Annex II to the Directive; and
 - (b) the operator of the establishment, having been notified that the Department is satisfied that the requirements in sub-paragraph (a) are met and has paid the registration fee, which includes the first year membership fee as set out in the Fees Order.
 
-**7.**[^key-7df4ae06af03c083483b3ce5b70ebf4b] (1) The disease surveillance programme referred to in paragraph (b) of point 1 of Chapter I of Annex II to the Directive shall—
+**7.**[^c-7df4ae06af03c083483b3ce5b70ebf4b] (1) The disease surveillance programme referred to in paragraph (b) of point 1 of Chapter I of Annex II to the Directive shall—
 
 - (a) consist of the disease surveillance measures specified in Chapter III of Annex II to the Directive; and
 - (b) any additional testing requirements that a veterinary inspector notifies in writing to an establishment as being requirements that he believes are necessary to avoid the spreading of contagious disease through trade with member States[^M_F_e9442f99-d573-4e4c-b2e9-ed68b88231e6] taking into account the particular circumstances at that establishment.
 
-**8.**[^key-9b607309798271bf0bf8b52d9d7faf3f] On acceptance of membership to the Northern Ireland Poultry Health Assurance Scheme the Department shall issue the establishment’s membership certificate which shall include the establishment’s membership number.
+**8.**[^c-9b607309798271bf0bf8b52d9d7faf3f] On acceptance of membership to the Northern Ireland Poultry Health Assurance Scheme the Department shall issue the establishment’s membership certificate which shall include the establishment’s membership number.
 
-**9.**[^key-a3a4ef85d4ed8bff889636cd68dd9cfb] The operator of an establishment that is a member of the Northern Ireland Poultry Health Assurance Scheme shall pay the annual membership fee each year and shall pay any re-inspection fee, when it becomes due.
+**9.**[^c-a3a4ef85d4ed8bff889636cd68dd9cfb] The operator of an establishment that is a member of the Northern Ireland Poultry Health Assurance Scheme shall pay the annual membership fee each year and shall pay any re-inspection fee, when it becomes due.
 
-#### 10. Annual Inspection and Supplementary Audit Inspection[^key-ae2e8d7af0743388842f452c431925a3]
+#### 10. Annual Inspection and Supplementary Audit Inspection[^c-ae2e8d7af0743388842f452c431925a3]
 
 (1) In order to ensure that operators and their establishments continue to meet the requirements for membership of the Northern Ireland Poultry Health Assurance Scheme, and generally to ensure compliance with the requirements of point 1 of Chapter I of Annex II to the Directive, an annual inspection of the establishment shall be carried out by an Authorised Veterinary Inspector (AVI).
 
@@ -167,7 +167,7 @@ and to do so is an offence under regulation 5(1) of the Trade in Animals and Rel
 
 (5) In this paragraph “AVI” means a private veterinary practitioner authorised by the Department for the purposes of this Order.
 
-#### 11. Re-inspection[^key-458116a05a553681dcc56b3c51ed2a3f]
+#### 11. Re-inspection[^c-458116a05a553681dcc56b3c51ed2a3f]
 
 (1) Without prejudice to any action which may be taken under paragraph 12, where, at the annual veterinary inspection of an operator’s establishment, that operator or the establishment, do not appear to the Department to meet the requirements—
 
@@ -181,7 +181,7 @@ a veterinary inspector directly employed by the Department shall carry out such 
 - (a) be charged for each such re-inspection; and
 - (b) become due upon the receipt of an invoice for that fee by the operator concerned.
 
-#### 12. Withdrawal of membership[^key-d26ee8367a749c9542f3d2cda7a2af64]
+#### 12. Withdrawal of membership[^c-d26ee8367a749c9542f3d2cda7a2af64]
 
 The Department shall by notice—
 
@@ -194,18 +194,18 @@ The Department shall by notice—
 
 ### PART III — DESIGNATION OF LABORATORIES UNDER THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME
 
-#### 13. Designation of laboratories[^key-718545e9637ff193948b737180002ee7]
+#### 13. Designation of laboratories[^c-718545e9637ff193948b737180002ee7]
 
 (1) The Department may designate any laboratory that it considers to be suitable for the purpose of carrying out Salmonella and Mycoplasma testing under the Northern Ireland Poultry Health Assurance Scheme.
 
 (2) A laboratory must be accredited to ISO 17025 in order to be designated under the Scheme.
 
-**14.**[^key-fd0b487800e8d18b13345f760cbfe731] The Department may, by notice, suspend or revoke a designation granted to a laboratory under paragraph 13 where—
+**14.**[^c-fd0b487800e8d18b13345f760cbfe731] The Department may, by notice, suspend or revoke a designation granted to a laboratory under paragraph 13 where—
 
 - (a) it considers that the laboratory cannot meet the conditions on which the designation was granted; or
 - (b) if in its opinion the laboratory otherwise appears no longer suitable for the purposes of carrying out Salmonella and Mycoplasma testing under the Northern Ireland Poultry Health Assurance Scheme.
 
-**15.**[^key-2928c009ac9d16b8cf44ec5857ae03ad] The Department may, by notice, end a suspension of a designation imposed under paragraph 14 if it is satisfied that the laboratory concerned has taken adequate measures to enable it to fulfil the conditions of the designation.
+**15.**[^c-2928c009ac9d16b8cf44ec5857ae03ad] The Department may, by notice, end a suspension of a designation imposed under paragraph 14 if it is satisfied that the laboratory concerned has taken adequate measures to enable it to fulfil the conditions of the designation.
 
 EXPLANATORY NOTE
 
@@ -227,50 +227,50 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00004]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
 
-[^key-d41e5bd29a41dea51f4f450ac6258656]: Commencement: Art. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-d41e5bd29a41dea51f4f450ac6258656]: Commencement: Art. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-1b31626a99edcd25da7d6f6440fc48b1]: Commencement: Art. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-1b31626a99edcd25da7d6f6440fc48b1]: Commencement: Art. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-355e89b334460dc6a98d1bfb6b6df4c9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/nisr/2011/436/article/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-355e89b334460dc6a98d1bfb6b6df4c9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/nisr/2011/436/article/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e091bd86d9a6c70dd38617243af29e6]: Commencement: Sch. para. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-2e091bd86d9a6c70dd38617243af29e6]: Commencement: Sch. para. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-7a3ff93038adccce6100a5ec6cebfed4]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/1) substituted (27.8.2012) by [The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2012 (S.R. 2012/305)](https://www.legislation.gov.uk/nisr/2012/305), [arts. 1](https://www.legislation.gov.uk/nisr/2012/305/article/1), [4](https://www.legislation.gov.uk/nisr/2012/305/article/4)
+[^c-7a3ff93038adccce6100a5ec6cebfed4]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/1) substituted (27.8.2012) by [The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2012 (S.R. 2012/305)](https://www.legislation.gov.uk/nisr/2012/305), [arts. 1](https://www.legislation.gov.uk/nisr/2012/305/article/1), [4](https://www.legislation.gov.uk/nisr/2012/305/article/4)
 
-[^key-26ce694a6b5e2c5866adf9e0de2f4d18]: Commencement: Sch. para. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-26ce694a6b5e2c5866adf9e0de2f4d18]: Commencement: Sch. para. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-daf8f06af86a6a1d9b2e53ed7ddebb74]: Commencement: Sch. para. 3 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-daf8f06af86a6a1d9b2e53ed7ddebb74]: Commencement: Sch. para. 3 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-f1ad0ddc8aa8f4a5edda5db70af51c4a]: Commencement: Sch. para. 4 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-f1ad0ddc8aa8f4a5edda5db70af51c4a]: Commencement: Sch. para. 4 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-7ed5df60f69708f2901b2e22f14f57df]: Textual amendment: Word in [Sch. para. 4(1)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/4/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ed5df60f69708f2901b2e22f14f57df]: Textual amendment: Word in [Sch. para. 4(1)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/4/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [S.R. 2011 No. 438](https://www.legislation.gov.uk/nisr/2011/438)
 
-[^key-b152cee560cbddd10f20fe25d9c1ae5e]: Commencement: Sch. para. 5 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-b152cee560cbddd10f20fe25d9c1ae5e]: Commencement: Sch. para. 5 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-05f015e7bd564b226ae6171529467f15]: Textual amendment: Words in [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/5/2/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05f015e7bd564b226ae6171529467f15]: Textual amendment: Words in [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/5/2/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7eda302941b179ca56829cb30a7b4579]: Textual amendment: [Sch. para. 5(2)(d)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/5/2/d) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(3)(c)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7eda302941b179ca56829cb30a7b4579]: Textual amendment: [Sch. para. 5(2)(d)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/5/2/d) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(3)(c)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5f0f65790ecdc67255e2483a68d27df]: Commencement: Sch. para. 6 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-e5f0f65790ecdc67255e2483a68d27df]: Commencement: Sch. para. 6 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-7df4ae06af03c083483b3ce5b70ebf4b]: Commencement: Sch. para. 7 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-7df4ae06af03c083483b3ce5b70ebf4b]: Commencement: Sch. para. 7 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
 [^M_F_e9442f99-d573-4e4c-b2e9-ed68b88231e6]: Textual amendment: Words in [Sch. para. 7(1)(b)](https://www.legislation.gov.uk/nisr/2011/436/schedule/paragraph/5/2/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/811/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b607309798271bf0bf8b52d9d7faf3f]: Commencement: Sch. para. 8 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-9b607309798271bf0bf8b52d9d7faf3f]: Commencement: Sch. para. 8 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-a3a4ef85d4ed8bff889636cd68dd9cfb]: Commencement: Sch. para. 9 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-a3a4ef85d4ed8bff889636cd68dd9cfb]: Commencement: Sch. para. 9 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-ae2e8d7af0743388842f452c431925a3]: Commencement: Sch. para. 10 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-ae2e8d7af0743388842f452c431925a3]: Commencement: Sch. para. 10 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-458116a05a553681dcc56b3c51ed2a3f]: Commencement: Sch. para. 11 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-458116a05a553681dcc56b3c51ed2a3f]: Commencement: Sch. para. 11 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-d26ee8367a749c9542f3d2cda7a2af64]: Commencement: Sch. para. 12 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-d26ee8367a749c9542f3d2cda7a2af64]: Commencement: Sch. para. 12 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-718545e9637ff193948b737180002ee7]: Commencement: Sch. para. 13 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-718545e9637ff193948b737180002ee7]: Commencement: Sch. para. 13 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-fd0b487800e8d18b13345f760cbfe731]: Commencement: Sch. para. 14 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-fd0b487800e8d18b13345f760cbfe731]: Commencement: Sch. para. 14 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
 
-[^key-2928c009ac9d16b8cf44ec5857ae03ad]: Commencement: Sch. para. 15 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)
+[^c-2928c009ac9d16b8cf44ec5857ae03ad]: Commencement: Sch. para. 15 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/436/article/1)

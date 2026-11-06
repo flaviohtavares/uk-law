@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Expenses[^key-d0f9f047027b7e8e7819545e355da7c3]
+## 37. Expenses[^c-d0f9f047027b7e8e7819545e355da7c3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In proceedings before it under sections 34 to 36 in relation to a charity, the C
 
 ## Annotations
 
-[^key-d0f9f047027b7e8e7819545e355da7c3]: Commencement: S. 37 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-d0f9f047027b7e8e7819545e355da7c3]: Commencement: S. 37 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

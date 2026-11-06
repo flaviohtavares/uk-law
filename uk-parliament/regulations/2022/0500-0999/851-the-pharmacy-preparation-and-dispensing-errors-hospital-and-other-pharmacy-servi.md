@@ -58,7 +58,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## PART 1 — General provisions
 
-### 1. Citation, commencement and interpretation[^key-aa5145c52e8f0e9d4afb331ad7e422c2]
+### 1. Citation, commencement and interpretation[^c-aa5145c52e8f0e9d4afb331ad7e422c2]
 
 (1) This Order may be cited as the Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022.
 
@@ -70,7 +70,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (5) In this Order, “**the 1968 Act**” means the Medicines Act 1968[^f00002].
 
-### 2. Extent[^key-f214750ef4a0f4e6739e5410168fe38f]
+### 2. Extent[^c-f214750ef4a0f4e6739e5410168fe38f]
 
 (1) Subject to paragraphs (2) and (3), this Order extends to England, Wales, Scotland and Northern Ireland.
 
@@ -78,7 +78,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (3) Article 10(2) extends to Northern Ireland only.
 
-### 3. Transitional and saving provisions[^key-f781e490662a14e597b6bc9beccd6444]
+### 3. Transitional and saving provisions[^c-f781e490662a14e597b6bc9beccd6444]
 
 (1) In connection with the commencement of any provision of Part 2 or 3, the Privy Council may by order make such transitional or saving provisions as it considers appropriate.
 
@@ -91,7 +91,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 - (b) in relation to all cases to which the power extends or in relation to those cases subject to specified exceptions; and
 - (c) so as to make any supplementary, incidental or consequential provisions which the Privy Council considers necessary or expedient.
 
-### 4. Privy Council procedures and legislative procedures[^key-a767b22a43e1a805e608bbdd055e9616]
+### 4. Privy Council procedures and legislative procedures[^c-a767b22a43e1a805e608bbdd055e9616]
 
 (1) Any power vested in the Privy Council to make an order under this Part may be exercised by any two or more members of the Privy Council.
 
@@ -110,7 +110,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## PART 2 — Amendment of the Medicines Act 1968
 
-### 5. Amendment of section 67A of the 1968 Act[^key-4b9f7edc22cc76bd2978b7df92a31d62][^key-6b7feb0b053ce77b31d6f594c4fea1ef]
+### 5. Amendment of section 67A of the 1968 Act[^c-4b9f7edc22cc76bd2978b7df92a31d62][^c-6b7feb0b053ce77b31d6f594c4fea1ef]
 
 (1) Section 67A of the 1968 Act[^f00004] (defence to offence of contravening section 63(a) or (b): product not sold or supplied) is amended as follows.
 
@@ -130,7 +130,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 .
 
-### 6. Amendment of section 67B of the 1968 Act[^key-6ab07e6a1975057f40efe9d0545e92aa][^key-6e420ad4136312a837801d7480023d43]
+### 6. Amendment of section 67B of the 1968 Act[^c-6ab07e6a1975057f40efe9d0545e92aa][^c-6e420ad4136312a837801d7480023d43]
 
 (1) Section 67B of the 1968 Act[^f00005] (defence to offence of contravening section 63(a) or (b): product sold or supplied) is amended as follows.
 
@@ -146,7 +146,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (4) In subsection (6), in paragraph (b), after “retail pharmacy business” insert “, or the relevant pharmacy service,”.
 
-### 7. Amendment of section 67C of the 1968 Act[^key-b5ca6d71b50d5e91bd70c5feb54e9e67][^key-741ebcb6389fee41861bfcd9ddf30395]
+### 7. Amendment of section 67C of the 1968 Act[^c-b5ca6d71b50d5e91bd70c5feb54e9e67][^c-741ebcb6389fee41861bfcd9ddf30395]
 
 (1) Section 67C of the 1968 Act[^f00006] (defence to offence of contravening section 64) is amended as follows.
 
@@ -162,11 +162,11 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (4) In subsection (6), in paragraph (b), after “retail pharmacy business” insert “, or the relevant pharmacy service,”.
 
-### 8. Amendment of section 67D of the 1968 Act[^key-66246772492303c2870233a0d139e0d1][^key-c422769806e4d2f112fa68d87070a98d]
+### 8. Amendment of section 67D of the 1968 Act[^c-66246772492303c2870233a0d139e0d1][^c-c422769806e4d2f112fa68d87070a98d]
 
 In section 67D of the 1968 Act[^f00007] (defences under sections 67A, 67B and 67C: evidence etc) in subsection (4), after “pharmacy” insert “or a relevant pharmacy service”.
 
-### 9. New section 67F of the 1968 Act[^key-953557a3399dc035e74f049b4270296e][^key-db705c9d78c886a203d0c6e498d3038a]
+### 9. New section 67F of the 1968 Act[^c-953557a3399dc035e74f049b4270296e][^c-db705c9d78c886a203d0c6e498d3038a]
 
 (1) After section 67E of the 1968 Act[^f00008] (sections 67A to 67D: interpretation) insert—
 
@@ -213,7 +213,7 @@ In section 67D of the 1968 Act[^f00007] (defences under sections 67A, 67B and 67
 
 ## PART 3 — Amendment of the Pharmacy Order 2010 and the Pharmacy (Northern Ireland) Order 1976
 
-### 10. Standards of conduct, ethics and performance[^key-285afc4679708b781fd9b848b4791239][^key-d6f035bf9efab9c4bf3f6a90ae6d5a59]
+### 10. Standards of conduct, ethics and performance[^c-285afc4679708b781fd9b848b4791239][^c-d6f035bf9efab9c4bf3f6a90ae6d5a59]
 
 *Extent: E+W+S*
 
@@ -267,45 +267,45 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 has been amended by: the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) (“**the 2002 Act**”), section 26(9); the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“**the 2008 Act**”), Schedule 8, paragraph 1, Schedule 10, paragraph 10, and Schedule 15, Part 2; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), sections 209, 210 and 213(7)(i), and Schedule 15, paragraphs 60 and 72; the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16) (“**the 2017 Act**”), section 61, and Schedule 5, paragraph 47(h); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254, 2010/231 and 2012/1916. Section 62 has been amended by: the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), section 48; the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“**the 2003 Act**”), Schedule 14, Part 2; the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 4; and the 2008 Act, Schedule 8, paragraph 2, and Schedule 10, paragraph 11. Schedule 3 has been amended by: the 2002 Act, sections 26(10) and 35; the 2003 Act, Schedule 11, paragraph 67, and Schedule 14, Part 4; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 33 and Schedule 9; the 2008 Act, Schedule 8, paragraphs 3 to 10, and Schedule 15, Part 2; the 2012 Act, section 211 and Schedule 15, paragraphs 61 and 72(4); the 2017 Act, section 61(1) and (4); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254. See the definition of “the relevant regulatory body” in section 60(2B) of the Health Act 1999, inserted by the 2008 Act, Schedule 8, paragraph 1, which is relevant to the powers being exercised.
 
-[^key-aa5145c52e8f0e9d4afb331ad7e422c2]: Commencement: Art. 1 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+[^c-aa5145c52e8f0e9d4afb331ad7e422c2]: Commencement: Art. 1 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
 
 [^f00002]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-f214750ef4a0f4e6739e5410168fe38f]: Commencement: Art. 2 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+[^c-f214750ef4a0f4e6739e5410168fe38f]: Commencement: Art. 2 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
 
-[^key-f781e490662a14e597b6bc9beccd6444]: Commencement: Art. 3 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+[^c-f781e490662a14e597b6bc9beccd6444]: Commencement: Art. 3 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
 
-[^key-a767b22a43e1a805e608bbdd055e9616]: Commencement: Art. 4 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+[^c-a767b22a43e1a805e608bbdd055e9616]: Commencement: Art. 4 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
 
 [^f00003]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1 was amended by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2, and the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 10, paragraphs 1 and 2.
 
-[^key-4b9f7edc22cc76bd2978b7df92a31d62]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+[^c-4b9f7edc22cc76bd2978b7df92a31d62]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
 
-[^key-6b7feb0b053ce77b31d6f594c4fea1ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/851/article/5) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-6b7feb0b053ce77b31d6f594c4fea1ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/851/article/5) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
 [^f00004]: Footnote: Section 67A was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
 
-[^key-6ab07e6a1975057f40efe9d0545e92aa]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+[^c-6ab07e6a1975057f40efe9d0545e92aa]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
 
-[^key-6e420ad4136312a837801d7480023d43]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2022/851/article/6) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-6e420ad4136312a837801d7480023d43]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2022/851/article/6) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
 [^f00005]: Footnote: Section 67B was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
 
-[^key-b5ca6d71b50d5e91bd70c5feb54e9e67]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+[^c-b5ca6d71b50d5e91bd70c5feb54e9e67]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
 
-[^key-741ebcb6389fee41861bfcd9ddf30395]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/851/article/7) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-741ebcb6389fee41861bfcd9ddf30395]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/851/article/7) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
 [^f00006]: Footnote: Section 67C was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
 
-[^key-66246772492303c2870233a0d139e0d1]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+[^c-66246772492303c2870233a0d139e0d1]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
 
-[^key-c422769806e4d2f112fa68d87070a98d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/851/article/8) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-c422769806e4d2f112fa68d87070a98d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/851/article/8) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
 [^f00007]: Footnote: Section 67D was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
 
-[^key-953557a3399dc035e74f049b4270296e]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+[^c-953557a3399dc035e74f049b4270296e]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
 
-[^key-db705c9d78c886a203d0c6e498d3038a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2022/851/article/9) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-db705c9d78c886a203d0c6e498d3038a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2022/851/article/9) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
 [^f00008]: Footnote: Section 67E was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181) and amended by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
@@ -325,9 +325,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00016]: Footnote: Section 2 has been amended by [S.I. 1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344), 1998/1504 (N.I. 9) and 2005/1965 (N.I. 15).
 
-[^key-285afc4679708b781fd9b848b4791239]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+[^c-285afc4679708b781fd9b848b4791239]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
 
-[^key-d6f035bf9efab9c4bf3f6a90ae6d5a59]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2022/851/article/10) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-d6f035bf9efab9c4bf3f6a90ae6d5a59]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2022/851/article/10) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
 [^f00017]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 

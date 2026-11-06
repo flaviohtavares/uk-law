@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Variation of Agreement: matters to be taken into account[^key-744f4784b7246b72b8592ccd652c24f2]
+## 39. Variation of Agreement: matters to be taken into account[^c-744f4784b7246b72b8592ccd652c24f2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In giving a direction under Article 12(6)(b) or (d) of the Order an adjudication
 
 ## Annotations
 
-[^key-744f4784b7246b72b8592ccd652c24f2]: Commencement: Reg. 39 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-744f4784b7246b72b8592ccd652c24f2]: Commencement: Reg. 39 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

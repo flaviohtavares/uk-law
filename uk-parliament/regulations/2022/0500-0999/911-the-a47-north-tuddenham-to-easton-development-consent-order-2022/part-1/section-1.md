@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-70181c9d9467b94bc92a8ebc309d23f6]
+## 1. Citation and commencement[^c-70181c9d9467b94bc92a8ebc309d23f6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A47 North Tuddenham to Easton Development Consent
 
 ## Annotations
 
-[^key-70181c9d9467b94bc92a8ebc309d23f6]: Commencement: Art. 1 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-70181c9d9467b94bc92a8ebc309d23f6]: Commencement: Art. 1 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

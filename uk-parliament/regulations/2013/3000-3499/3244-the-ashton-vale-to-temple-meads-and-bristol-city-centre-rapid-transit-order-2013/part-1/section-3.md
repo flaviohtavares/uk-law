@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Application of enactments relating to railways[^key-6bb430f16d4b15a2fd67d5af7075312a]
+## 3. Application of enactments relating to railways[^c-6bb430f16d4b15a2fd67d5af7075312a]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6bb430f16d4b15a2fd67d5af7075312a]: Commencement: Art. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-6bb430f16d4b15a2fd67d5af7075312a]: Commencement: Art. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00011]: Footnote: [1840 c. 97](https://www.legislation.gov.uk/ukpga/1840/97), [1842 c. 55](https://www.legislation.gov.uk/ukpga/1842/55), [1868 c. 119](https://www.legislation.gov.uk/ukpga/1868/119), [1873 c. 48](https://www.legislation.gov.uk/ukpga/1873/48) and [1889 c. 57](https://www.legislation.gov.uk/ukpga/1889/57).
 

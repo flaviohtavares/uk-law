@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 132. Provision of offices, etc. by principal councils.[^c15108831][^c15108841][^c18858501][^key-a93457fd8dd7c93a6863d7a1316512e8]
+## 132. Provision of offices, etc. by principal councils.[^c15108831][^c15108841][^c18858501][^c-a93457fd8dd7c93a6863d7a1316512e8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ A principal council may acquire or provide and furnish halls, offices and other 
 
     S. 132 modified (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [art. 29(1)(a)](https://www.legislation.gov.uk/uksi/2004/1778/article/29/1/a)
 
-[^key-a93457fd8dd7c93a6863d7a1316512e8]: Modification: S. 132 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-a93457fd8dd7c93a6863d7a1316512e8]: Modification: S. 132 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)

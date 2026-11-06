@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4
 
-**1.**[^key-b15d961a69ef777695794b87342c1b85] (1) The Measuring Container Bottles (EEC Requirements) Regulations 1977 [^c24373191] are amended as follows.
+**1.**[^c-b15d961a69ef777695794b87342c1b85] (1) The Measuring Container Bottles (EEC Requirements) Regulations 1977 [^c24373191] are amended as follows.
 
 (2) In the Schedule (adaptation for Northern Ireland)—
 
@@ -59,7 +59,7 @@ Regulation 4
 
   .
 
-**2.**[^key-acbcb6712959db79bc0f17adf4cbc2bb] (1) The Noise Emissions in the Environment by Equipment for Use Outdoors Regulations 2001 [^c24373211] are amended as follows.
+**2.**[^c-acbcb6712959db79bc0f17adf4cbc2bb] (1) The Noise Emissions in the Environment by Equipment for Use Outdoors Regulations 2001 [^c24373211] are amended as follows.
 
 (2) In regulation 2(2) after the definition of “sound power level LWA” insert—
 
@@ -100,7 +100,7 @@ Regulation 4
 
   .
 
-**3.**[^key-02d41b14b226965c4bb7da9b7d3b650c] (1) The Supply of Machinery (Safety) Regulations 2008 [^c24373221] are amended as follows.
+**3.**[^c-02d41b14b226965c4bb7da9b7d3b650c] (1) The Supply of Machinery (Safety) Regulations 2008 [^c24373221] are amended as follows.
 
 (2) In regulation 2(2) after the definition of “safety component” insert—
 
@@ -151,7 +151,7 @@ Regulation 4
 
 (6) In regulation 22(3)(a) for “or (f)” substitute “ , (f), (2A) or (2B) ”.
 
-**4.**[^key-65fb0b1ef907b91a96a563c916643ed9] (1) The Aerosol Dispensers Regulations 2009 [^c24373231] are amended as follows.
+**4.**[^c-65fb0b1ef907b91a96a563c916643ed9] (1) The Aerosol Dispensers Regulations 2009 [^c24373231] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “relevant aerosol dispenser” insert—
 
@@ -179,7 +179,7 @@ Regulation 4
 
   .
 
-**5.**[^key-37d4cc954a8b6c0968b23fa68c47a330] (1) The Toys (Safety) Regulations 2011 [^c24373251] are amended as follows.
+**5.**[^c-37d4cc954a8b6c0968b23fa68c47a330] (1) The Toys (Safety) Regulations 2011 [^c24373251] are amended as follows.
 
 (2) In regulation 3, after the definition of “toy” insert—
 
@@ -248,7 +248,7 @@ Regulation 4
 
 .
 
-**6.**[^key-0335e657b8b7b8ae8f90274dc4801a40] (1) The Pyrotechnic Articles (Safety) Regulations 2015 [^c24373261] are amended as follows.
+**6.**[^c-0335e657b8b7b8ae8f90274dc4801a40] (1) The Pyrotechnic Articles (Safety) Regulations 2015 [^c24373261] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “theatrical pyrotechnic article” insert—
 
@@ -307,7 +307,7 @@ Regulation 4
 
   .
 
-**7.**[^key-6db03388b753c1e695d19b6af1fe41f3] (1) The Electromagnetic Compatibility Regulations 2016 [^c24373271] are amended as follows.
+**7.**[^c-6db03388b753c1e695d19b6af1fe41f3] (1) The Electromagnetic Compatibility Regulations 2016 [^c24373271] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “technical specification” insert—
 
@@ -369,7 +369,7 @@ Regulation 4
 
   .
 
-**8.**[^key-779539cd9ce58a3f5ce45b81034ef875] (1) The Simple Pressure Vessels (Safety) Regulations 2016 [^c24373281] are amended as follows.
+**8.**[^c-779539cd9ce58a3f5ce45b81034ef875] (1) The Simple Pressure Vessels (Safety) Regulations 2016 [^c24373281] are amended as follows.
 
 (2) In regulation 2(4), after the definition of “technical specification” insert—
 
@@ -435,7 +435,7 @@ Regulation 4
 
   .
 
-**9.**[^key-ff08161e5262bb610a994a2ce7ca971e] (1) The Lifts Regulations 2016 [^c24373291] are amended as follows.
+**9.**[^c-ff08161e5262bb610a994a2ce7ca971e] (1) The Lifts Regulations 2016 [^c24373291] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “technical specification” insert—
 
@@ -497,7 +497,7 @@ Regulation 4
 
   .
 
-**10.**[^key-3044ba042df61536caecdbcba8853c2d] (1) The Pressure Equipment (Safety) Regulations 2016 [^c24373301] are amended as follows.
+**10.**[^c-3044ba042df61536caecdbcba8853c2d] (1) The Pressure Equipment (Safety) Regulations 2016 [^c24373301] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “technical specification” insert—
 
@@ -559,7 +559,7 @@ Regulation 4
 
   .
 
-**11.**[^key-2a76b9e110ce46a5522006933db72a12] (1) The Non-Automatic Weighing Instruments Regulations 2016 [^c24373311] are amended as follows.
+**11.**[^c-2a76b9e110ce46a5522006933db72a12] (1) The Non-Automatic Weighing Instruments Regulations 2016 [^c24373311] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “technical specification” insert—
 
@@ -618,7 +618,7 @@ Regulation 4
 
 .
 
-**12.**[^key-a20387aff3045e1ecbdfb69c3cd2fc22] (1) The Measuring Instruments Regulations 2016 [^c24373321] are amended as follows.
+**12.**[^c-a20387aff3045e1ecbdfb69c3cd2fc22] (1) The Measuring Instruments Regulations 2016 [^c24373321] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “thermal energy meter” insert—
 
@@ -677,7 +677,7 @@ Regulation 4
 
 .
 
-**13.**[^key-8c723a4d04595fc5253e74890ec9490c] (1) The Recreational Craft Regulations 2017 [^c24373331] are amended as follows.
+**13.**[^c-8c723a4d04595fc5253e74890ec9490c] (1) The Recreational Craft Regulations 2017 [^c24373331] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “technical documentation” insert—
 
@@ -740,7 +740,7 @@ Regulation 4
 >
 > A person guilty of an offence under regulation 73(2) insofar as the requirement relates to a UK(NI) indication is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-**14.**[^key-56f64241aa239667fa20a1ca8548e1e1] (1) The Radio Equipment Regulations 2017 [^c24373341] are amended as follows.
+**14.**[^c-56f64241aa239667fa20a1ca8548e1e1] (1) The Radio Equipment Regulations 2017 [^c24373341] are amended as follows.
 
 (2) In regulation 2(1) after the definition of “technical specification” insert—
 
@@ -811,7 +811,7 @@ Regulation 4
 
   .
 
-**15.**[^key-6431def9da0ab540c3acf441ba9a7c45] (1) The Personal Protective Equipment (Enforcement) Regulations [^c24373351] are amended as follows.
+**15.**[^c-6431def9da0ab540c3acf441ba9a7c45] (1) The Personal Protective Equipment (Enforcement) Regulations [^c24373351] are amended as follows.
 
 (2) After Part 3 insert—
 
@@ -888,7 +888,7 @@ Regulation 4
 
 .
 
-**16.**[^key-199a4a70b71abe9b2d1ff9bc365d6aa1] (1) The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 [^c24373361] are amended as follows.
+**16.**[^c-199a4a70b71abe9b2d1ff9bc365d6aa1] (1) The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 [^c24373361] are amended as follows.
 
 (2) After Part 3 insert—
 
@@ -967,70 +967,70 @@ Regulation 4
 
 ## Annotations
 
-[^key-b15d961a69ef777695794b87342c1b85]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b15d961a69ef777695794b87342c1b85]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373191]: Marginal citation: [S.I. 1977/932](https://www.legislation.gov.uk/uksi/1977/932), amended by [S.I. 1985/306](https://www.legislation.gov.uk/uksi/1985/306) and [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630) and saved by virtue of section 2(2)(a) of the European Union (Withdrawal) Act 2018. Amendments extending to Great Britain only are also made prospectively, with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).
 
 [^c24373201]: Marginal citation: [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460).
 
-[^key-acbcb6712959db79bc0f17adf4cbc2bb]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-acbcb6712959db79bc0f17adf4cbc2bb]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373211]: Marginal citation: [S.I. 2001/1701](https://www.legislation.gov.uk/uksi/2001/1701), amended by [S.I. 2005/3525](https://www.legislation.gov.uk/uksi/2005/3525), [S.I](https://www.legislation.gov.uk/uksi/2005/3525/section/I). 2008/1597, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2015/98; amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-02d41b14b226965c4bb7da9b7d3b650c]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-02d41b14b226965c4bb7da9b7d3b650c]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373221]: Marginal citation: [S.I. 2008/1597](https://www.legislation.gov.uk/uksi/2008/1597), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2011/2157; amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-65fb0b1ef907b91a96a563c916643ed9]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-65fb0b1ef907b91a96a563c916643ed9]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373231]: Marginal citation: [S.I. 2009/2824](https://www.legislation.gov.uk/uksi/2009/2824), amended by [S.I. 2014/1130](https://www.legislation.gov.uk/uksi/2014/1130), [S.I](https://www.legislation.gov.uk/uksi/2014/1130/section/I). 2018/29; amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
 [^c24373241]: Marginal citation: [1987 c.43](https://www.legislation.gov.uk/ukpga/1987/43).
 
-[^key-37d4cc954a8b6c0968b23fa68c47a330]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-37d4cc954a8b6c0968b23fa68c47a330]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373251]: Marginal citation: [S.I. 2011/1881](https://www.legislation.gov.uk/uksi/2011/1881), amended by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630); amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-0335e657b8b7b8ae8f90274dc4801a40]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0335e657b8b7b8ae8f90274dc4801a40]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373261]: Marginal citation: [S.I. 2015/1553](https://www.legislation.gov.uk/uksi/2015/1553); amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-6db03388b753c1e695d19b6af1fe41f3]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6db03388b753c1e695d19b6af1fe41f3]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373271]: Marginal citation: [S.I. 2016/1091](https://www.legislation.gov.uk/uksi/2016/1091), amended by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206); amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-779539cd9ce58a3f5ce45b81034ef875]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-779539cd9ce58a3f5ce45b81034ef875]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373281]: Marginal citation: [S.I. 2016/1092](https://www.legislation.gov.uk/uksi/2016/1092), amended by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206), [S.I](https://www.legislation.gov.uk/uksi/2017/1206/section/I). 2018/966; amendments extending only to Northern Ireland are made prospectively with effect from IP completion day by [S.I. 2020/678](https://www.legislation.gov.uk/uksi/2020/678) and amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-ff08161e5262bb610a994a2ce7ca971e]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ff08161e5262bb610a994a2ce7ca971e]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373291]: Marginal citation: [S.I. 2016/1093](https://www.legislation.gov.uk/uksi/2016/1093), amended by [S.I. 2016/1186](https://www.legislation.gov.uk/uksi/2016/1186) and [S.I. 2018/389](https://www.legislation.gov.uk/uksi/2018/389); amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-3044ba042df61536caecdbcba8853c2d]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3044ba042df61536caecdbcba8853c2d]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373301]: Marginal citation: [S.I. 2016/1105](https://www.legislation.gov.uk/uksi/2016/1105), amended by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206); amendments extending only to Northern Ireland are made prospectively with effect from IP completion day by [S.I. 2020/678](https://www.legislation.gov.uk/uksi/2020/678) and amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-2a76b9e110ce46a5522006933db72a12]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2a76b9e110ce46a5522006933db72a12]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373311]: Marginal citation: [S.I. 2016/1152](https://www.legislation.gov.uk/uksi/2016/1152); amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a20387aff3045e1ecbdfb69c3cd2fc22]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a20387aff3045e1ecbdfb69c3cd2fc22]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373321]: Marginal citation: [S.I. 2016/1153](https://www.legislation.gov.uk/uksi/2016/1153); amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-8c723a4d04595fc5253e74890ec9490c]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8c723a4d04595fc5253e74890ec9490c]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373331]: Marginal citation: [S.I. 2017/737](https://www.legislation.gov.uk/uksi/2017/737), amended by [S.I. 2018/389](https://www.legislation.gov.uk/uksi/2018/389); amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-56f64241aa239667fa20a1ca8548e1e1]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-56f64241aa239667fa20a1ca8548e1e1]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373341]: Marginal citation: [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206), amended by [S.I. 2018/389](https://www.legislation.gov.uk/uksi/2018/389); amendments extending only to Great Britain are also made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-6431def9da0ab540c3acf441ba9a7c45]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6431def9da0ab540c3acf441ba9a7c45]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373351]: Marginal citation: [S.I. 2018/390](https://www.legislation.gov.uk/uksi/2018/390); amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-199a4a70b71abe9b2d1ff9bc365d6aa1]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-199a4a70b71abe9b2d1ff9bc365d6aa1]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24373361]: Marginal citation: [S.I. 2018/389](https://www.legislation.gov.uk/uksi/2018/389); amendments extending only to Great Britain are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); the instrument was saved by virtue of section 2(2)(a) of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).

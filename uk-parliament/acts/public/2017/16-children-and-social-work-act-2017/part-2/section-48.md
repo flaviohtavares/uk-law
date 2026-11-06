@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Approval of courses for approved mental health professionals[^key-d236bd7009709cab832a9162a4ac171f]
+## 48. Approval of courses for approved mental health professionals[^c-d236bd7009709cab832a9162a4ac171f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d236bd7009709cab832a9162a4ac171f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2017/16/section/48) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(p)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/p)
+[^c-d236bd7009709cab832a9162a4ac171f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2017/16/section/48) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(p)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/p)

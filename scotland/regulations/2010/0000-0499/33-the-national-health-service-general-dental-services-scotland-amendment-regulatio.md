@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2010 (revoked)[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]
+The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2010 (revoked)[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2010
 
-[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]
+## 1. Citation and commencement[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 1996[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]
+## 2. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 1996[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-418cabdaa4a2bb2fce6b5d9e02e18aad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/33) revoked (2.7.2010) by [The National Health Service (General Dental Services) (Scotland) Regulations 2010 (S.S.I. 2010/208)](https://www.legislation.gov.uk/ssi/2010/208), [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1), [sch. 7](https://www.legislation.gov.uk/ssi/2010/208/schedule/7) (with [reg. 33(2)](https://www.legislation.gov.uk/ssi/2010/208/regulation/33/2)[(3)](https://www.legislation.gov.uk/ssi/2010/208/regulation/33/3))
+[^c-418cabdaa4a2bb2fce6b5d9e02e18aad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/33) revoked (2.7.2010) by [The National Health Service (General Dental Services) (Scotland) Regulations 2010 (S.S.I. 2010/208)](https://www.legislation.gov.uk/ssi/2010/208), [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1), [sch. 7](https://www.legislation.gov.uk/ssi/2010/208/schedule/7) (with [reg. 33(2)](https://www.legislation.gov.uk/ssi/2010/208/regulation/33/2)[(3)](https://www.legislation.gov.uk/ssi/2010/208/regulation/33/3))

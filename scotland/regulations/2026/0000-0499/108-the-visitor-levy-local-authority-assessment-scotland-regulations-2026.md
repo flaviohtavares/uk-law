@@ -44,11 +44,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 45(4) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-9a637370c817700c9c7662459435b45d]
+## 1. Citation and commencement[^c-9a637370c817700c9c7662459435b45d]
 
 These Regulations may be cited as the Visitor Levy (Local Authority Assessment) (Scotland) Regulations 2026 and come into force on 1 April 2026.
 
-## 2. Interpretation[^key-0ab9ea05c039842280bd0086add9c896]
+## 2. Interpretation[^c-0ab9ea05c039842280bd0086add9c896]
 
 In these Regulations—
 
@@ -59,13 +59,13 @@ In these Regulations—
 - “**local authority**” means a relevant local authority within the meaning of section 24(2) of the 2024 Act, or, where two or more local authorities are acting jointly in relation to a visitor levy scheme, those authorities acting jointly,
 - “**relevant period**” has the meaning given in section 26(4) of the 2024 Act.
 
-## 3. Circumstances in which an assessment of liability to visitor levy may be made by a local authority[^key-500829aa49a5111737ce12f6b9e95809]
+## 3. Circumstances in which an assessment of liability to visitor levy may be made by a local authority[^c-500829aa49a5111737ce12f6b9e95809]
 
 (1) A local authority may make an assessment of the levy payable by a person where the authority has reason to believe that the person is liable to pay the levy, but the person has not made a return to the local authority under section 26 of the 2024 Act by the end of the period of 30 days beginning with the last day of the relevant period.
 
 (2) A local authority may make its own assessment of the visitor levy payable by a person where the authority honestly and reasonably believes that a return that has been made by the person is incorrect by reason of careless or deliberate miscalculation.
 
-## 4. Notice of intention of local authority to make an assessment[^key-ff0284f065031ffc4f3edf95a3b9df5d]
+## 4. Notice of intention of local authority to make an assessment[^c-ff0284f065031ffc4f3edf95a3b9df5d]
 
 (1) Before making an assessment a local authority must issue a notice advising the person—
 
@@ -78,7 +78,7 @@ In these Regulations—
 - (a) in the case of an assessment made in accordance with regulation 3(1), the end of the period of 30 days beginning with the last day of the relevant period,
 - (b) in the case of an assessment made in accordance with regulation 3(2), the day on which the return was sent.
 
-## 5. Local authority notice of outcome of assessment[^key-9d50b553deaedd526d4fdc20da8579d5]
+## 5. Local authority notice of outcome of assessment[^c-9d50b553deaedd526d4fdc20da8579d5]
 
 (1) Subject to paragraph (5), a local authority must send to the person notice of the outcome of an assessment made in accordance with regulation 3 on or before the last day of the period of six months beginning with the day on which the notice under regulation 4 was sent.
 
@@ -87,9 +87,9 @@ In these Regulations—
 - (a) the date of issue of the notice,
 - (b) the amount of the levy due, if any,
 - (c) the date by which any amount of the levy due must be paid, determined in accordance with regulation 7(1), and
-- (d) the deadline[^key-e3548fa884278d6e2b2fbb436e472f1e] for requesting a review of any of the matters set out in regulation 3(2)(b) of the Reviews and Appeals Regulations, as set out in regulation 4(1) of those Regulations.
+- (d) the deadline[^c-e3548fa884278d6e2b2fbb436e472f1e] for requesting a review of any of the matters set out in regulation 3(2)(b) of the Reviews and Appeals Regulations, as set out in regulation 4(1) of those Regulations.
 
-(3) A notice [^key-70d00603762b07c8f5dd18c0c13d8d2a]... of the outcome of an assessment made in accordance with regulation 3(2) must set out—
+(3) A notice [^c-70d00603762b07c8f5dd18c0c13d8d2a]... of the outcome of an assessment made in accordance with regulation 3(2) must set out—
 
 - (a) the date of issue of the notice,
 - (b) where the outcome of the assessment is that an additional amount or a lower amount of the levy is due, the difference in the amount as between that set out in the return, and the actual amount payable,
@@ -103,7 +103,7 @@ In these Regulations—
 
 (6) This paragraph applies where the local authority reasonably considers that it has been unable to send the notice of the outcome of the assessment within the period provided for in paragraph (1), as a result of the failure of the person subject to the assessment to co-operate with the exercise of investigatory powers under Chapter 1 of Part 5 of the 2024 Act.
 
-## 6. Alteration of outcome of an assessment and replacement notice[^key-832859a5c69865bd753d6cb4b032d8b1]
+## 6. Alteration of outcome of an assessment and replacement notice[^c-832859a5c69865bd753d6cb4b032d8b1]
 
 (1) The outcome of a local authority assessment may only be altered as a result of a review requested under regulation 3 of the Reviews and Appeals Regulations or an appeal brought under regulation 7 of those Regulations, or to correct an error made by the local authority in the notice of the outcome of the assessment as originally issued.
 
@@ -111,13 +111,13 @@ In these Regulations—
 
 (3) The replacement notice will supersede the original notice.
 
-## 7. Deadline for paying or reimbursing an amount of visitor levy due as a result of an assessment[^key-44a3e0477a8a555f1cdb7c690f34588e]
+## 7. Deadline for paying or reimbursing an amount of visitor levy due as a result of an assessment[^c-44a3e0477a8a555f1cdb7c690f34588e]
 
 (1) Where a notice issued under regulation 5 requires payment of an amount of the levy, that amount must be paid on or before the last day of the period of 30 days beginning with the day on which the notice is received, or the last day of such longer period as may be agreed with the local authority.
 
 (2) Where a notice issued under regulation 5 indicates that a lesser amount of the levy is due, the local authority must reimburse the amount owed on or before the last day of the period of 30 days beginning with the day on which the notice is issued.
 
-## 8. Imposition of penalties[^key-509117f5bb2c6d07a92fef73c11884f5]
+## 8. Imposition of penalties[^c-509117f5bb2c6d07a92fef73c11884f5]
 
 (1) A local authority may not impose a penalty under section 48, 49 or 50 of the 2024 Act once the local authority has issued notice of the outcome of the assessment in accordance with regulation 5.
 
@@ -133,11 +133,11 @@ Where no return has been made before the end of the period provided for in secti
 
 .
 
-## 9. Electronic communication[^key-00bc9dc62aecc4a52a16e445a7d7e6a6]
+## 9. Electronic communication[^c-00bc9dc62aecc4a52a16e445a7d7e6a6]
 
 Any notice or document required by these Regulations to be sent may be sent by means of electronic communication where—
 
-- (a) the recipient[^key-3adbb321ecd6de85b2eecf7652f796db] consents either—
+- (a) the recipient[^c-3adbb321ecd6de85b2eecf7652f796db] consents either—
   - (i) implicitly by using electronic communication in communications with the local authority in relation to the levy, or
   - (ii) explicitly by giving notice in writing to the local authority, and
 - (b) any notice or document sent by electronic communication—
@@ -177,30 +177,30 @@ Regulation 9 makes provision for documents or notices required by these Regulati
 
 [^f00001]: Footnote: [2024 asp 8](https://www.legislation.gov.uk/asp/2024/8). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-9a637370c817700c9c7662459435b45d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-9a637370c817700c9c7662459435b45d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-0ab9ea05c039842280bd0086add9c896]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/108/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-0ab9ea05c039842280bd0086add9c896]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/108/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2026/109](https://www.legislation.gov.uk/ssi/2026/109).
 
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-500829aa49a5111737ce12f6b9e95809]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/108/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-500829aa49a5111737ce12f6b9e95809]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/108/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-ff0284f065031ffc4f3edf95a3b9df5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/108/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-ff0284f065031ffc4f3edf95a3b9df5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/108/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-9d50b553deaedd526d4fdc20da8579d5]: Commencement: Reg. 5 in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-9d50b553deaedd526d4fdc20da8579d5]: Commencement: Reg. 5 in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-e3548fa884278d6e2b2fbb436e472f1e]: Textual amendment: Word in reg. 5(2)(d) substituted (24.9.2026) by [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/2/a)
+[^c-e3548fa884278d6e2b2fbb436e472f1e]: Textual amendment: Word in reg. 5(2)(d) substituted (24.9.2026) by [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/2/a)
 
-[^key-70d00603762b07c8f5dd18c0c13d8d2a]: Textual amendment: Word in reg. 5(3) omitted (24.9.2026) by virtue of [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/2/b)
+[^c-70d00603762b07c8f5dd18c0c13d8d2a]: Textual amendment: Word in reg. 5(3) omitted (24.9.2026) by virtue of [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/2/b)
 
-[^key-832859a5c69865bd753d6cb4b032d8b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/108/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-832859a5c69865bd753d6cb4b032d8b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/108/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-44a3e0477a8a555f1cdb7c690f34588e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2026/108/regulation/7) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-44a3e0477a8a555f1cdb7c690f34588e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2026/108/regulation/7) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-509117f5bb2c6d07a92fef73c11884f5]: Textual amendment: Regs. 8, 8A substituted for reg. 8 (24.9.2026) by [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/3)
+[^c-509117f5bb2c6d07a92fef73c11884f5]: Textual amendment: Regs. 8, 8A substituted for reg. 8 (24.9.2026) by [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/3)
 
-[^key-00bc9dc62aecc4a52a16e445a7d7e6a6]: Commencement: Reg. 9 in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
+[^c-00bc9dc62aecc4a52a16e445a7d7e6a6]: Commencement: Reg. 9 in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/108/regulation/1)
 
-[^key-3adbb321ecd6de85b2eecf7652f796db]: Textual amendment: Words in reg. 9(a) substituted (24.9.2026) by [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/4)
+[^c-3adbb321ecd6de85b2eecf7652f796db]: Textual amendment: Words in reg. 9(a) substituted (24.9.2026) by [The Visitor Levy (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/268)](https://www.legislation.gov.uk/ssi/2026/268), [regs. 1](https://www.legislation.gov.uk/ssi/2026/268/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/268/regulation/2/4)

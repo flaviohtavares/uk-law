@@ -24,7 +24,7 @@ summary: ''
 
 ### Relief for compulsory purchase facilitating development
 
-**1.**[^key-d50d6bf3cf086d59ee80a2eb6993fa1e] (1) A compulsory purchase facilitating development is relieved from tax.
+**1.**[^c-d50d6bf3cf086d59ee80a2eb6993fa1e] (1) A compulsory purchase facilitating development is relieved from tax.
 
 (2) In this paragraph—
 
@@ -35,7 +35,7 @@ summary: ''
 
 ### Relief for compliance with planning obligations
 
-**2.**[^key-6f69d274819313fcafe610844e699d42] (1) A land transaction that is entered into in order to comply with a planning obligation or a modification of a planning obligation is relieved from tax if—
+**2.**[^c-6f69d274819313fcafe610844e699d42] (1) A land transaction that is entered into in order to comply with a planning obligation or a modification of a planning obligation is relieved from tax if—
 
 - (a) the planning obligation or modification is enforceable against the seller,
 - (b) the buyer is a public body, and
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d50d6bf3cf086d59ee80a2eb6993fa1e]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/21/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d50d6bf3cf086d59ee80a2eb6993fa1e]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/21/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6f69d274819313fcafe610844e699d42]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/21/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6f69d274819313fcafe610844e699d42]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/21/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

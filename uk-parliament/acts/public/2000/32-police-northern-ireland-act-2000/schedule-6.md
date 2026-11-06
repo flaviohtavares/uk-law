@@ -111,7 +111,7 @@ Section 78.
 
 (4) In Article 32(4)(b) for “Police Authority” substitute “ Policing Board ”.
 
-(5)[^key-bf624b39c9f294cb2b4404902a8e859b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bf624b39c9f294cb2b4404902a8e859b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Aviation and Maritime Security Act 1990 (c. 31)
 
@@ -125,7 +125,7 @@ Section 78.
 
 **12.** (1) The Police Act 1996 shall be amended as follows.
 
-(2)[^key-26751c81fe7edad68fe0bd69d14f9a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-26751c81fe7edad68fe0bd69d14f9a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 97(1)(f) and (7)(b) for “Royal Ulster Constabulary” substitute “ Police Service of Northern Ireland ”.
 
@@ -148,7 +148,7 @@ Section 78.
 
 ### Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**14.**[^key-ca00833308e42a2231a99945119b7fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ca00833308e42a2231a99945119b7fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Proceeds of Crime (Northern Ireland) Order 1996 (NI 9)
 
@@ -199,13 +199,13 @@ Section 78.
 
 (3) In that Act for “Police Authority for Northern Ireland” (wherever occurring) substitute “ Northern Ireland Policing Board ”.
 
-(4)[^key-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2ea5c1a0cb9023437820bf2b9240c4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
 
@@ -313,7 +313,7 @@ Section 78.
 
 .
 
-(4)[^key-5880c9086734aaf64565a1e6b74eb1fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5880c9086734aaf64565a1e6b74eb1fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Freedom of Information Act 2000 (c. )
 
@@ -324,7 +324,7 @@ Section 78.
 - (a) for “Policing Authority for Northern Ireland” substitute “ Northern Ireland Policing Board ”; and
 - (b) for “Royal Ulster Constabulary” substitute “ Police Service of Northern Ireland ”.
 
-(3)[^key-38476eeb54064519f02f07b7e74c426f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-38476eeb54064519f02f07b7e74c426f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -332,15 +332,15 @@ Section 78.
 
 [^c1055593]: Commencement: Sch. 6 para. 4 wholly in force at 4.11.2001; Sch. 6 para. 4(3) in force at Royal Assent see. s. 79(2)(f); Sch. 6 para. 4 in force to the extent not already in force (4.11.2001) by [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-bf624b39c9f294cb2b4404902a8e859b]: Textual amendment: Sch. 6 para. 10(5) repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
+[^c-bf624b39c9f294cb2b4404902a8e859b]: Textual amendment: Sch. 6 para. 10(5) repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
 
-[^key-26751c81fe7edad68fe0bd69d14f9a7c]: Textual amendment: [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/12/2) repealed (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(f)(bb)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/bb)[(vi)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/vi)
+[^c-26751c81fe7edad68fe0bd69d14f9a7c]: Textual amendment: [Sch. 6 para. 12(2)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/12/2) repealed (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(f)(bb)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/bb)[(vi)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/vi)
 
-[^key-ca00833308e42a2231a99945119b7fec]: Textual amendment: Sch. 6 para. 14 repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-ca00833308e42a2231a99945119b7fec]: Textual amendment: Sch. 6 para. 14 repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
 
 [^M_I_49bfd395-5f73-428c-d310-3d6bfabb63e9]: Commencement: Sch. 6 para. 20 wholly in force at 4.11.2001; Sch. 6 para. 20 not in force at Royal Assent, see s. 79(1)(2); Sch. 6 para. 20(6) in force at 22.12.2000 by [S.R. 2000/412](https://www.legislation.gov.uk/nisr/2000/412), [art. 2](https://www.legislation.gov.uk/nisr/2000/412/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2000/412/schedule); Sch. 6 para. 20 in force in so far as not already in force at 4.11.2001 by [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), art. Sch.
 
-[^key-2ea5c1a0cb9023437820bf2b9240c4fb]: Textual amendment: Sch. 6 para. 20(4)-(7) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(jj)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/jj)
+[^c-2ea5c1a0cb9023437820bf2b9240c4fb]: Textual amendment: Sch. 6 para. 20(4)-(7) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(jj)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/jj)
 
 [^M_I_3c54ab13-ade4-4269-aa08-21b36b71a57d]: Commencement: Sch. 6 para. 23 wholly in force at 4.11.2001; Sch. 6 para. 23 not in force at Royal Assent, see s. 79(1)(2); Sch. 6 para. 23(6)(a) in force at 22.12.2000 by [S.R. 2000/412](https://www.legislation.gov.uk/nisr/2000/412), [art. 2](https://www.legislation.gov.uk/nisr/2000/412/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2000/412/schedule); Sch. 6 para. 23 in force in so far as not already in force at 4.11.2001 by [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), art. Sch.
 
@@ -350,6 +350,6 @@ Section 78.
 
 [^c1055597]: Commencement: Sch. 6 para. 24 wholly in force at 4.11.2001; Sch. 6 para. 24 not in force at Royal Assent see s. 79(2)(f)(g); Sch. 6 para. 24(3) in force (30.3.2001) by [S.R. 2001/132](https://www.legislation.gov.uk/nisr/2001/132), [art. 2](https://www.legislation.gov.uk/nisr/2001/132/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/132/schedule); Sch. 6 para. 24 in force to the extent not already in force (4.11.2001) by [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-5880c9086734aaf64565a1e6b74eb1fd]: Textual amendment: [Sch. 6 para. 24(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/24/4) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(1)](https://www.legislation.gov.uk/uksi/2010/976/article/27/1) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-5880c9086734aaf64565a1e6b74eb1fd]: Textual amendment: [Sch. 6 para. 24(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/24/4) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(1)](https://www.legislation.gov.uk/uksi/2010/976/article/27/1) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-38476eeb54064519f02f07b7e74c426f]: Textual amendment: Sch. 6 para. 25(3) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-38476eeb54064519f02f07b7e74c426f]: Textual amendment: Sch. 6 para. 25(3) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)

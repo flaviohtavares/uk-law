@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Existing claimants[^key-801b0903e6496da86ade345dd8cd5f81]
+## 22. Existing claimants[^c-801b0903e6496da86ade345dd8cd5f81]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-801b0903e6496da86ade345dd8cd5f81]: Commencement: Reg. 22 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-801b0903e6496da86ade345dd8cd5f81]: Commencement: Reg. 22 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00096]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109)

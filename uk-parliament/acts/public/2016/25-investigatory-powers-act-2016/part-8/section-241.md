@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Codes of practice[^key-bbfe1d91d3ba30b8f3a81151ff3a0a88]
+## 241. Codes of practice[^c-bbfe1d91d3ba30b8f3a81151ff3a0a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (codes of practice) has effect.
 
 ## Annotations
 
-[^key-bbfe1d91d3ba30b8f3a81151ff3a0a88]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2016/25/section/241) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/n)
+[^c-bbfe1d91d3ba30b8f3a81151ff3a0a88]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2016/25/section/241) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/n)

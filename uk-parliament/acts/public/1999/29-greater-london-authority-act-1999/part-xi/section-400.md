@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 1 of the [^c12808311]Local Government (Overseas Assistance) Act 1993 (power of local authorities to provide advice and assistance overseas) shall be amended as follows.
 
-(2)[^key-1dbe153d1c006357647f030ed1c578cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1dbe153d1c006357647f030ed1c578cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (9)(a) (authorities given power to provide assistance) after “Wales,” there shall be inserted “ the Greater London Authority, ”.
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c12808311]: Marginal citation: [1993 c. 25](https://www.legislation.gov.uk/ukpga/1993/25).
 
-[^key-1dbe153d1c006357647f030ed1c578cf]: Textual amendment: S. 400(2) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-1dbe153d1c006357647f030ed1c578cf]: Textual amendment: S. 400(2) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)

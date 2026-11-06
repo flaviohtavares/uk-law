@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140A. Interpretation of Part 11A[^key-9753772f84013983d28350ff3d1e0e57]
+## 140A. Interpretation of Part 11A[^c-9753772f84013983d28350ff3d1e0e57]
 
 *Extent: E+W*
 
-(1)[^key-9fafaa7782b0c98391a79b8c595d1eef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9fafaa7782b0c98391a79b8c595d1eef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this Part, the intensity of study is calculated as follows and expressed as a percentage—
 
@@ -46,6 +46,6 @@ where—
 
 ## Annotations
 
-[^key-9753772f84013983d28350ff3d1e0e57]: Textual amendment: Pt. 11A heading and ss. 140A, 140B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2018/472/regulation/16)
+[^c-9753772f84013983d28350ff3d1e0e57]: Textual amendment: Pt. 11A heading and ss. 140A, 140B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2018/472/regulation/16)
 
-[^key-9fafaa7782b0c98391a79b8c595d1eef]: Textual amendment: [Reg. 140A(1)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/140A/1) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/4/b)
+[^c-9fafaa7782b0c98391a79b8c595d1eef]: Textual amendment: [Reg. 140A(1)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/140A/1) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/4/b)

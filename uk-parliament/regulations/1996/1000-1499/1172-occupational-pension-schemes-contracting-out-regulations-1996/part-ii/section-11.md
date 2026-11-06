@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Special circumstances in which the Secretary of State may determine earners to have been in contracted-out employment[^key-8c489bfd2b75a1a92bdf42a1d01d0ef4]
+## 11. Special circumstances in which the Secretary of State may determine earners to have been in contracted-out employment[^c-8c489bfd2b75a1a92bdf42a1d01d0ef4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c489bfd2b75a1a92bdf42a1d01d0ef4]: Textual amendment: Reg. 11 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/a)
+[^c-8c489bfd2b75a1a92bdf42a1d01d0ef4]: Textual amendment: Reg. 11 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Grants and loans by Historic Environment Scotland[^key-7624439d11263e431140c815ce5f92c9]
+## 11. Grants and loans by Historic Environment Scotland[^c-7624439d11263e431140c815ce5f92c9]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7624439d11263e431140c815ce5f92c9]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/19/section/11) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-7624439d11263e431140c815ce5f92c9]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/19/section/11) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

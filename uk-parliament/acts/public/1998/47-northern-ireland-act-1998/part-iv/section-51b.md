@@ -20,36 +20,36 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-64279c847a3ae66892c6456d4bf1d21c] This section applies if— *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(1)[^c-64279c847a3ae66892c6456d4bf1d21c] This section applies if— *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-- (a) the Monitoring Commission has, or members of that Commission have under the agreement establishing it, made a report containing a recommendation about steps the Assembly might consider taking; *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
-- (b) the taking of those steps by the Assembly requires the passing by it of a resolution under section 51A(1), (2) or (3) in relation to a political party; and *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
-- (c) the first motion for a resolution under that provision in relation to the political party concerned that is put to the vote after the making of the report does not attract cross-community support. *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+- (a) the Monitoring Commission has, or members of that Commission have under the agreement establishing it, made a report containing a recommendation about steps the Assembly might consider taking; *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
+- (b) the taking of those steps by the Assembly requires the passing by it of a resolution under section 51A(1), (2) or (3) in relation to a political party; and *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
+- (c) the first motion for a resolution under that provision in relation to the political party concerned that is put to the vote after the making of the report does not attract cross-community support. *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(2) Where this section applies because of the failure of a motion for a resolution under section 51A(1), the Secretary of State may by direction provide that the whole or a specified part of any financial assistance payable for a specified period under the Financial Assistance for Political Parties Act (Northern Ireland) 2000 to the political party concerned shall not be payable (subject to subsection (5)). *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(2) Where this section applies because of the failure of a motion for a resolution under section 51A(1), the Secretary of State may by direction provide that the whole or a specified part of any financial assistance payable for a specified period under the Financial Assistance for Political Parties Act (Northern Ireland) 2000 to the political party concerned shall not be payable (subject to subsection (5)). *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(3) Where this section applies because of the failure of a motion for a resolution under section 51A(2) to extend the period by reference to which a reduction under section 51A(1) falls to be made, the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (5)). *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(3) Where this section applies because of the failure of a motion for a resolution under section 51A(2) to extend the period by reference to which a reduction under section 51A(1) falls to be made, the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (5)). *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(4) Where this section applies because of the failure of a motion for a resolution under section 51A(3) to extend the period by reference to which provision for non-payability under subsection (2) applies, the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (5)). *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(4) Where this section applies because of the failure of a motion for a resolution under section 51A(3) to extend the period by reference to which provision for non-payability under subsection (2) applies, the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (5)). *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(5) The Secretary of State may exercise the power under subsection (2), (3) or (4) only if he is satisfied that the political party concerned— *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(5) The Secretary of State may exercise the power under subsection (2), (3) or (4) only if he is satisfied that the political party concerned— *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-- (a) is not committed to non-violence and exclusively peaceful and democratic means; or *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
-- (b) is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office. *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+- (a) is not committed to non-violence and exclusively peaceful and democratic means; or *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
+- (b) is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office. *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(6) The period by reference to which provision for non-payability under subsection (2) applies shall come to an end if— *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(6) The period by reference to which provision for non-payability under subsection (2) applies shall come to an end if— *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-- (a) the Secretary of State by direction so provides; or *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
-- (b) the Assembly is dissolved. *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+- (a) the Secretary of State by direction so provides; or *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
+- (b) the Assembly is dissolved. *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(7) In subsection (1)(a) “ *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]**the Monitoring Commission *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]**” means the Commission mentioned in section 1 of the Northern Ireland (Monitoring Commission *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c] etc. *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]) Act 2003. *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(7) In subsection (1)(a) “ *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]**the Monitoring Commission *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]**” means the Commission mentioned in section 1 of the Northern Ireland (Monitoring Commission *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c] etc. *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]) Act 2003. *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-(8) In this section a reference to— *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+(8) In this section a reference to— *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-- (a) the period by reference to which provision for non-payability under subsection (2) applies, or *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
-- (b) the period by reference to which a reduction under section 51A(1) falls to be made, *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+- (a) the period by reference to which provision for non-payability under subsection (2) applies, or *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
+- (b) the period by reference to which a reduction under section 51A(1) falls to be made, *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
-is, where the period has been extended, a reference to the period as extended. *(affected by repeal, see note)*[^key-64279c847a3ae66892c6456d4bf1d21c]
+is, where the period has been extended, a reference to the period as extended. *(affected by repeal, see note)*[^c-64279c847a3ae66892c6456d4bf1d21c]
 
 ## Annotations
 
@@ -57,4 +57,4 @@ is, where the period has been extended, a reference to the period as extended. *
 
 [^c20116601]: Textual amendment: Ss. 51A-51C inserted (7.1.2004) by Northern Ireland (Monitoring Commission etc.) Act 2003, {ss. 8}, 12; [S.I. 2004/83](https://www.legislation.gov.uk/uksi/2004/83), [art. 2](https://www.legislation.gov.uk/uksi/2004/83/article/2)
 
-[^key-64279c847a3ae66892c6456d4bf1d21c]: Textual amendment: S. 51B ceases to have effect (31.3.2011 at the end of the day) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2)
+[^c-64279c847a3ae66892c6456d4bf1d21c]: Textual amendment: S. 51B ceases to have effect (31.3.2011 at the end of the day) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2)

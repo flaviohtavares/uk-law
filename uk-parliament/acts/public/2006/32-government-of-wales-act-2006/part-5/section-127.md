@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If a Budget resolution for a financial year is not passed before the beginning of the financial year, the following are deemed to have been authorised by a Budget resolution of the Senedd[^key-60edd79c70d763519861630d1afb7962] for that year—
+(1) If a Budget resolution for a financial year is not passed before the beginning of the financial year, the following are deemed to have been authorised by a Budget resolution of the Senedd[^c-60edd79c70d763519861630d1afb7962] for that year—
 
 - (a) the use in the year for any service or purpose of the relevant percentage of the amount of the resources authorised to be used in the preceding financial year for the service or purpose,
 - (b) the retention in the year for use for any service or purpose of the relevant percentage of the amount of the resources authorised to be retained in the previous financial year for use for the service or purpose, and
@@ -35,4 +35,4 @@ summary: ''
 
 [^c16542931]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

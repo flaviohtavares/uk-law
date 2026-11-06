@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Street votes: modifications of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^key-24cfa65575a16de4a881ccaae2678259]
+## 108. Street votes: modifications of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^c-24cfa65575a16de4a881ccaae2678259]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State may by regulations make provision modifying the applicati
 
 ## Annotations
 
-[^key-24cfa65575a16de4a881ccaae2678259]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/55/section/108) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-24cfa65575a16de4a881ccaae2678259]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/55/section/108) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

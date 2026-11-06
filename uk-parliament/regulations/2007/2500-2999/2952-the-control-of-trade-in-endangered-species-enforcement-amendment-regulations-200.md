@@ -32,7 +32,7 @@ summary: ''
 
 wildlife
 
-The Control of Trade in Endangered Species (Enforcement) (Amendment) Regulations 2007 (revoked)[^key-a72f99455fb4e5b68a95fa414c3dd578]
+The Control of Trade in Endangered Species (Enforcement) (Amendment) Regulations 2007 (revoked)[^c-a72f99455fb4e5b68a95fa414c3dd578]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 10th November 2007
 
-[^key-a72f99455fb4e5b68a95fa414c3dd578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a72f99455fb4e5b68a95fa414c3dd578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a72f99455fb4e5b68a95fa414c3dd578]
+## 1. Title and commencement[^c-a72f99455fb4e5b68a95fa414c3dd578]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Control of Trade in Endangered Species (Enforcement) Regulations 1997[^key-a72f99455fb4e5b68a95fa414c3dd578]
+## 2. Amendment to the Control of Trade in Endangered Species (Enforcement) Regulations 1997[^c-a72f99455fb4e5b68a95fa414c3dd578]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a72f99455fb4e5b68a95fa414c3dd578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a72f99455fb4e5b68a95fa414c3dd578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a72f99455fb4e5b68a95fa414c3dd578]EXPLANATORY NOTE
+[^c-a72f99455fb4e5b68a95fa414c3dd578]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-a72f99455fb4e5b68a95fa414c3dd578]: Textual amendment: Regulations revoked (1.10.2018) by [The Control of Trade in Endangered Species Regulations 2018 (S.I. 2018/703)](https://www.legislation.gov.uk/uksi/2018/703), [regs. 1](https://www.legislation.gov.uk/uksi/2018/703/regulation/1), [14(1)(d)](https://www.legislation.gov.uk/uksi/2018/703/regulation/14/1/d)
+[^c-a72f99455fb4e5b68a95fa414c3dd578]: Textual amendment: Regulations revoked (1.10.2018) by [The Control of Trade in Endangered Species Regulations 2018 (S.I. 2018/703)](https://www.legislation.gov.uk/uksi/2018/703), [regs. 1](https://www.legislation.gov.uk/uksi/2018/703/regulation/1), [14(1)(d)](https://www.legislation.gov.uk/uksi/2018/703/regulation/14/1/d)

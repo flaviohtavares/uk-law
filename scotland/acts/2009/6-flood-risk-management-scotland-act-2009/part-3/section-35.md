@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Local flood risk management plans: publicity and consultation[^key-fa413ab12ca41badcf0d1c526a8346ff]
+## 35. Local flood risk management plans: publicity and consultation[^c-fa413ab12ca41badcf0d1c526a8346ff]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ which are received by the lead authority before the expiry of the period determi
 
 ## Annotations
 
-[^key-fa413ab12ca41badcf0d1c526a8346ff]: Commencement: S. 35 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-fa413ab12ca41badcf0d1c526a8346ff]: Commencement: S. 35 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Notices[^key-9026f7aa80580d4da1b262a487d37790]
+## 156. Notices[^c-9026f7aa80580d4da1b262a487d37790]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9026f7aa80580d4da1b262a487d37790]: Commencement: Rule 156 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-9026f7aa80580d4da1b262a487d37790]: Commencement: Rule 156 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

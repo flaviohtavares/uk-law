@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Committee may require any person from whom any payment due under regulations 70 to 76[^key-5128c6ad088ad326296c92f4dc250d2c] (employing authority's contributions or payments) is overdue to pay interest on that amount.
+(1) The Committee may require any person from whom any payment due under regulations 70 to 76[^c-5128c6ad088ad326296c92f4dc250d2c] (employing authority's contributions or payments) is overdue to pay interest on that amount.
 
-(2) The date on which any amount due under regulations 70 (special circumstances where revised actuarial valuations and certificates shall be obtained), 71 (apportionment of liabilities),[^key-3ea3101ec465eba7493cb0aa7ade3eed] 73 (contributing body's contributions), 74 (employing authority's further payments), 76 (additional costs arising from employing authority's level of performance) is overdue is 10 days[^key-e82711d91381eee5bffa3d87f101199b] from the date specified by the Committee for payment.
+(2) The date on which any amount due under regulations 70 (special circumstances where revised actuarial valuations and certificates shall be obtained), 71 (apportionment of liabilities),[^c-3ea3101ec465eba7493cb0aa7ade3eed] 73 (contributing body's contributions), 74 (employing authority's further payments), 76 (additional costs arising from employing authority's level of performance) is overdue is 10 days[^c-e82711d91381eee5bffa3d87f101199b] from the date specified by the Committee for payment.
 
 (3) The date on which any amount due under regulation 75 (payment by employing authorities to the Committee) (other than an extra charge payable under regulation 74 and referred to in regulation 75(1)(b)) is overdue is the day after the date when that payment is due.
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5128c6ad088ad326296c92f4dc250d2c]: Textual amendment: Words in [reg. 77(1)](https://www.legislation.gov.uk/nisr/2014/188/regulation/77/1) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [20(a)](https://www.legislation.gov.uk/nisr/2015/162/regulation/20/a)
+[^c-5128c6ad088ad326296c92f4dc250d2c]: Textual amendment: Words in [reg. 77(1)](https://www.legislation.gov.uk/nisr/2014/188/regulation/77/1) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [20(a)](https://www.legislation.gov.uk/nisr/2015/162/regulation/20/a)
 
-[^key-3ea3101ec465eba7493cb0aa7ade3eed]: Textual amendment: Words in [reg. 77(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/77/2) inserted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/nisr/2015/162/regulation/20/b/i)
+[^c-3ea3101ec465eba7493cb0aa7ade3eed]: Textual amendment: Words in [reg. 77(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/77/2) inserted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/nisr/2015/162/regulation/20/b/i)
 
-[^key-e82711d91381eee5bffa3d87f101199b]: Textual amendment: Words in [reg. 77(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/77/2) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/nisr/2015/162/regulation/20/b/ii)
+[^c-e82711d91381eee5bffa3d87f101199b]: Textual amendment: Words in [reg. 77(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/77/2) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/nisr/2015/162/regulation/20/b/ii)

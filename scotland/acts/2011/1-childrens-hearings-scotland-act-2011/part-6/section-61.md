@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Constable's duty to provide information to Principal Reporter[^key-eb82a59a018c6d0d5eeb33476563e7bc]
+## 61. Constable's duty to provide information to Principal Reporter[^c-eb82a59a018c6d0d5eeb33476563e7bc]
 
 *Extent: S*
 
@@ -27,10 +27,10 @@ summary: ''
 
 (2) The constable must give the Principal Reporter all relevant information which the constable has been able to discover in relation to the child.
 
-(3) If the constable makes a report under section 20(1)(d) of the Police and Fire Reform (Scotland) Act 2012 (asp 8)[^key-f65d849cb84f53e0028205b6133701de] in relation to the child, the constable must also make the report to the Principal Reporter.
+(3) If the constable makes a report under section 20(1)(d) of the Police and Fire Reform (Scotland) Act 2012 (asp 8)[^c-f65d849cb84f53e0028205b6133701de] in relation to the child, the constable must also make the report to the Principal Reporter.
 
 ## Annotations
 
-[^key-eb82a59a018c6d0d5eeb33476563e7bc]: Commencement: S. 61 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-eb82a59a018c6d0d5eeb33476563e7bc]: Commencement: S. 61 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-f65d849cb84f53e0028205b6133701de]: Textual amendment: Words in s. 61(3) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 44](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/44); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-f65d849cb84f53e0028205b6133701de]: Textual amendment: Words in s. 61(3) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 44](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/44); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

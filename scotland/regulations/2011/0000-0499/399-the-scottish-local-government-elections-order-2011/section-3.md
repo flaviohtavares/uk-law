@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Local government elections rules[^key-9443845b4fa238d0042db00bd080d385]
+## 3. Local government elections rules[^c-9443845b4fa238d0042db00bd080d385]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9443845b4fa238d0042db00bd080d385]: Commencement: Art. 3 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-9443845b4fa238d0042db00bd080d385]: Commencement: Art. 3 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00011]: Footnote: [1985 c.50](https://www.legislation.gov.uk/ukpga/1985/50).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30E. Incapacity benefit: reduction for councillor’s allowance.[^key-bc0c0930807c7d227209e7083b9d70f6]
+## 30E. Incapacity benefit: reduction for councillor’s allowance.[^c-bc0c0930807c7d227209e7083b9d70f6]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ and where any such allowance is paid otherwise than weekly, an amount calculated
 
 ## Annotations
 
-[^key-bc0c0930807c7d227209e7083b9d70f6]: Textual amendment: Ss. 30C-30E inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/18/section/3/1), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310))
+[^c-bc0c0930807c7d227209e7083b9d70f6]: Textual amendment: Ss. 30C-30E inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/18/section/3/1), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310))

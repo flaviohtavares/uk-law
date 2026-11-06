@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122A. Anonymity of victims of forced marriage: England and Wales[^key-0ac83a48a513da32630025ed0412938c]
+## 122A. Anonymity of victims of forced marriage: England and Wales[^c-0ac83a48a513da32630025ed0412938c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6A (anonymity of victims of forced marriage) has effect.
 
 ## Annotations
 
-[^key-0ac83a48a513da32630025ed0412938c]: Textual amendment: [S. 122A](https://www.legislation.gov.uk/ukpga/2014/12/section/122A) inserted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 173(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/173/1), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [(6)(d)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/d)
+[^c-0ac83a48a513da32630025ed0412938c]: Textual amendment: [S. 122A](https://www.legislation.gov.uk/ukpga/2014/12/section/122A) inserted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 173(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/173/1), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [(6)(d)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/d)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Colours in Food (Amendment) (Wales) Regulations 2000 (revoked)[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]
+The Colours in Food (Amendment) (Wales) Regulations 2000 (revoked)[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 8th July 2000
 
-[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]
+## 1. Citation, commencement, application and interpretation[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]
+## 2. Amendment of the principal Regulations[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential provision[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]
+## 3. Consequential provision[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ab73fd1c85fdf59fcbc54437c7d3ede]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1799) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-2ab73fd1c85fdf59fcbc54437c7d3ede]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1799) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

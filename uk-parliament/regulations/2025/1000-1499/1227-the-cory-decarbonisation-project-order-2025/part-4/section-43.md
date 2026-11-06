@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Application of landlord and tenant law[^key-9996126b9b1e0d727ba02f698f857277]
+## 43. Application of landlord and tenant law[^c-9996126b9b1e0d727ba02f698f857277]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9996126b9b1e0d727ba02f698f857277]: Commencement: Art. 43 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-9996126b9b1e0d727ba02f698f857277]: Commencement: Art. 43 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If on any day (“[^key-932641356325384b5edc4f09159604c1]**the relevant day**”) a company (“C”) is entitled to a single-dwelling interest in a dwelling and another person (“P”) who is connected with C is entitled to a different single-dwelling interest in the same dwelling, this Part has effect—
+(1) If on any day (“[^c-932641356325384b5edc4f09159604c1]**the relevant day**”) a company (“C”) is entitled to a single-dwelling interest in a dwelling and another person (“P”) who is connected with C is entitled to a different single-dwelling interest in the same dwelling, this Part has effect—
 
 - (a) in relation to C as if C were on that day entitled to P's single-dwelling interest as well as C's single-dwelling interest, and
 - (b) (if P is a company) in relation to P as if P were on that day entitled to C's single-dwelling interest as well as P's single-dwelling interest.
 
 (2) This subsection provides for an exception to subsection (1).
 
-Where P is an individual, C is not treated [^key-fd9e031652d4e04d1624e546175cdee0]... as entitled to P's single-dwelling interest on the relevant day[^key-d81925b6b7ef16857b5a401ddc05d251] unless on that day C is entitled to a single-dwelling interest in the dwelling that is a freehold or leasehold interest with a taxable value of more than £250,000[^key-c65ed05ffc70a9e6dacc5ee8794444a0].
+Where P is an individual, C is not treated [^c-fd9e031652d4e04d1624e546175cdee0]... as entitled to P's single-dwelling interest on the relevant day[^c-d81925b6b7ef16857b5a401ddc05d251] unless on that day C is entitled to a single-dwelling interest in the dwelling that is a freehold or leasehold interest with a taxable value of more than £250,000[^c-c65ed05ffc70a9e6dacc5ee8794444a0].
 
-(2A)[^key-3584e94b43d0c126fa58c420838858f7] Subsection (2B) applies in any case where—
+(2A)[^c-3584e94b43d0c126fa58c420838858f7] Subsection (2B) applies in any case where—
 
 - (a) C would (without subsection (2B)) be treated, as a result of subsection (1) (read with section 109), as entitled to a single-dwelling interest with a taxable value (on the relevant day) of more than £2 million, but
 - (b) C would not be so treated if the value specified in subsection (2) were £500,000 (instead of £250,000).
@@ -63,12 +63,12 @@ Where P is an individual, C is not treated [^key-fd9e031652d4e04d1624e546175cdee
 
 ## Annotations
 
-[^key-932641356325384b5edc4f09159604c1]: Textual amendment: Words in s. 110(1) inserted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/2)
+[^c-932641356325384b5edc4f09159604c1]: Textual amendment: Words in s. 110(1) inserted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/2)
 
-[^key-fd9e031652d4e04d1624e546175cdee0]: Textual amendment: Words in s. 110(2) omitted (with effect in accordance with s. 72(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(3)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/3/a)
+[^c-fd9e031652d4e04d1624e546175cdee0]: Textual amendment: Words in s. 110(2) omitted (with effect in accordance with s. 72(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(3)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/3/a)
 
-[^key-d81925b6b7ef16857b5a401ddc05d251]: Textual amendment: Words in s. 110(2) inserted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/3/b)
+[^c-d81925b6b7ef16857b5a401ddc05d251]: Textual amendment: Words in s. 110(2) inserted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/3/b)
 
-[^key-c65ed05ffc70a9e6dacc5ee8794444a0]: Textual amendment: Word in s. 110(2) substituted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(3)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/3/c)
+[^c-c65ed05ffc70a9e6dacc5ee8794444a0]: Textual amendment: Word in s. 110(2) substituted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(3)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/3/c)
 
-[^key-3584e94b43d0c126fa58c420838858f7]: Textual amendment: S. 110(2A)(2B) inserted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/4)
+[^c-3584e94b43d0c126fa58c420838858f7]: Textual amendment: S. 110(2A)(2B) inserted (with effect in accordance with s. 72(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 72(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/72/4)

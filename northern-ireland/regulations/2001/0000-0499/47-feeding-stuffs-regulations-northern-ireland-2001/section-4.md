@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Matters required or permitted to be contained in a statutory statement or otherwise declared[^key-15fe9a7552f6b94d473ac02ca05cf9d2]
+## 4. Matters required or permitted to be contained in a statutory statement or otherwise declared[^c-15fe9a7552f6b94d473ac02ca05cf9d2]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ The particulars, information and instructions required, and the particulars, inf
 
 ## Annotations
 
-[^key-15fe9a7552f6b94d473ac02ca05cf9d2]: Commencement: Reg. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-15fe9a7552f6b94d473ac02ca05cf9d2]: Commencement: Reg. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

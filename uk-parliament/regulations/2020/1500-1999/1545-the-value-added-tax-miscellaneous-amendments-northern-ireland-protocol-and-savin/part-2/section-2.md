@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Value Added Tax (Imported Goods) Relief Order 1984[^key-72b365e7159f1c33c816aa6f4528a195]
+## 2. Amendment of the Value Added Tax (Imported Goods) Relief Order 1984[^c-72b365e7159f1c33c816aa6f4528a195]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-72b365e7159f1c33c816aa6f4528a195]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-72b365e7159f1c33c816aa6f4528a195]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394771]: Marginal citation: [S.I. 1984/746](https://www.legislation.gov.uk/uksi/1984/746). Amended by [S.I. 1987/2108](https://www.legislation.gov.uk/uksi/1987/2108), 1988/1193, 1988/2212, 1992/3120, section 77(1) of the [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [section 199](https://www.legislation.gov.uk/ukpga/2011/11/section/199) of the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [S.I](https://www.legislation.gov.uk/ukpga/2012/14/section/I). 2011/1043, 2014/2364, 2018/1376, 2019/59 and paragraph 18 of Schedule 3 to the [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26) (“TPTPA”). Paragraph 28 of Schedule 3 to TPTPA also inserts a new Schedule 9ZC into the Value Added Tax Act 1994 (c.23; “VATA”) which modifies Schedule 2 to [S.I. 1984/746](https://www.legislation.gov.uk/uksi/1984/746) (see [Part 2](https://www.legislation.gov.uk/uksi/1984/746/part/2) of the new Schedule 9ZC). [S.I. 2018/1376](https://www.legislation.gov.uk/uksi/2018/1376) is revoked by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495). [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59) is not yet in force and is amended by this instrument.
 

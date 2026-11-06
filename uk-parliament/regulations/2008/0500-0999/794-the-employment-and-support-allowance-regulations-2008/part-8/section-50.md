@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Determination of the place of the work-focused health-related assessment[^key-ead292060cdae51b1a347ac49806161a]
+## 50. Determination of the place of the work-focused health-related assessment[^c-ead292060cdae51b1a347ac49806161a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ead292060cdae51b1a347ac49806161a]: Textual amendment: Reg. 50 omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(12)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/12)
+[^c-ead292060cdae51b1a347ac49806161a]: Textual amendment: Reg. 50 omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(12)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/12)

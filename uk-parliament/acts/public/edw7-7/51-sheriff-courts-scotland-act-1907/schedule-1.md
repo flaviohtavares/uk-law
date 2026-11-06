@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## First Schedule — ORDINARY CAUSE RULES 1993[^c15188221][^key-eed57851ded7da4b5ba7eb101e3987a4][^key-73a83fb7e3a2695b846d90e16d4c2119][^M_C_a1e52cba-9455-4ca5-e4d3-6370c06775a8]
+## First Schedule — ORDINARY CAUSE RULES 1993[^c15188221][^c-eed57851ded7da4b5ba7eb101e3987a4][^c-73a83fb7e3a2695b846d90e16d4c2119][^M_C_a1e52cba-9455-4ca5-e4d3-6370c06775a8]
 
 *Extent: S*
 
@@ -32,14 +32,14 @@ These Rules may be cited as the Ordinary Cause Rules 1993.
 
 (1) In these Rules, unless the context otherwise requires—
 
-- “[^key-677ad751626e72622de3a5103036f0c0]**attend**”, “**attendance**” and “**attend personally**” are construed in accordance with Chapter 4A (mode of attendance at hearings);
+- “[^c-677ad751626e72622de3a5103036f0c0]**attend**”, “**attendance**” and “**attend personally**” are construed in accordance with Chapter 4A (mode of attendance at hearings);
 - “**document**” has the meaning assigned to it in section 9 of the [^c15188231]Civil Evidence (Scotland) Act 1988;
 - “[^c20735621]**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament;
-- “[^key-06c8e734b228479fff99fd47da348f3c]**Full Case Management Hearing**” means a hearing under rules 33.36P or 33A.36P (Full Case Management Hearing), as the case may be;
+- “[^c-06c8e734b228479fff99fd47da348f3c]**Full Case Management Hearing**” means a hearing under rules 33.36P or 33A.36P (Full Case Management Hearing), as the case may be;
 - “**Initial Case Management Hearing**” means a hearing under rules 33.36J or 33A.36J (Initial Case Management Hearing), as the case may be;
 - “**period of notice**” means the period determined under rule 3.6 (period of notice after citation).
 - “[^c20680401]**the Act of 2004**” means the Vulnerable Witnesses (Scotland) Act 2004
-- “[^key-531c8065442105118fa1118c4566c994]**the 2014 Act**” means the Courts Reform (Scotland) Act 2014;
+- “[^c-531c8065442105118fa1118c4566c994]**the 2014 Act**” means the Courts Reform (Scotland) Act 2014;
 - “**the all-Scotland sheriff court**” means the sheriff court specified in the All-Scotland Sheriff Court (Sheriff Personal Injury Court) Order 2015 so far as the court is constituted by a sheriff sitting in the exercise of the sheriff’s all-Scotland jurisdiction for the purpose of dealing with civil proceedings of a type specified in that Order.
 
 (2) For the purposes of these Rules—
@@ -53,24 +53,24 @@ These Rules may be cited as the Ordinary Cause Rules 1993.
 
 (5) Unless the context otherwise requires, a reference to a specified Chapter, Part, rule or form, is a reference to the Chapter, Part, rule or form in Appendix 1, so specified in these Rules; and a reference to a specified paragraph, sub-paragraph or head is a reference to that paragraph of the rule or form, that sub-paragraph of that paragraph or that head of that sub-paragraph, in which the reference occurs.
 
-(7)[^key-a2b33fa8d15f634308cc0ed26fd83772] In these Rules—
+(7)[^c-a2b33fa8d15f634308cc0ed26fd83772] In these Rules—
 
 - (a) references to a sheriff’s all-Scotland jurisdiction are to be construed in accordance with section 42(3) of the 2014 Act;
 - (b) references to a sheriff’s local jurisdiction are to be construed in accordance with section 42(4) of the 2014 Act.
 
-(8)[^key-9635d98e37ce4377a651d9ce35955224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9635d98e37ce4377a651d9ce35955224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 1.3. Representation
 
 (1) Subject to paragraph (2), a party to any proceedings arising solely under the provisions of the [^c15188241]Debtors (Scotland) Act 1987 shall be entitled to be represented by a person other than a solicitor or an advocate provided that the sheriff is satisfied that such person is a suitable representative and is duly authorised to represent that party.
 
-(2)[^key-3476c30461cfec234ea91a6ff8a471e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3476c30461cfec234ea91a6ff8a471e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c20735641] A party may be represented by any person authorised under any enactment to conduct proceedings in the sheriff court in accordance with the terms of that enactment.
 
 (4) The person referred to in paragraph (3) may do everything for the preparation and conduct of an action as may have been done by an individual conducting his own action.
 
-##### 1.3A. Lay support[^key-32b678d7ba9171962e90d1ae388bfba8]
+##### 1.3A. Lay support[^c-32b678d7ba9171962e90d1ae388bfba8]
 
 (1) At any time during proceedings the sheriff may, on the request of a party litigant, permit a named individual to assist the litigant in the conduct of the proceedings by sitting beside or behind (as the litigant chooses) the litigant at hearings in court or in chambers and doing such of the following for the litigant as he or she requires—
 
@@ -106,7 +106,7 @@ which is in his or her possession in connection with the proceedings without bei
 
 Where there is a reference to the use of a form in these Rules, that form in Appendix 1 or Appendix 2, as the case may be, to these Rules, or a form substantially to the same effect, shall be used with such variation as circumstances may require.
 
-#### CHAPTER 1A — LAY REPRESENTATION[^key-d0ff6d87015080996da70a1ae0dc3ddb]
+#### CHAPTER 1A — LAY REPRESENTATION[^c-d0ff6d87015080996da70a1ae0dc3ddb]
 
 ##### 1A.1. Application and interpretation
 
@@ -120,14 +120,14 @@ Where there is a reference to the use of a form in these Rules, that form in App
 
 ##### 1A.2. Lay representation for party litigants
 
-(1) In any proceedings in respect of which no provision as mentioned in rule 1A.1(1) is in force, the sheriff may, on the request of a party litigant, permit a named individual (a “lay representative”) to appear, along with the litigant, at a specified hearing for the purpose of representing[^key-6e084fe9b81b9510aa13ec1eea37ac5d] the litigant at that hearing.
+(1) In any proceedings in respect of which no provision as mentioned in rule 1A.1(1) is in force, the sheriff may, on the request of a party litigant, permit a named individual (a “lay representative”) to appear, along with the litigant, at a specified hearing for the purpose of representing[^c-6e084fe9b81b9510aa13ec1eea37ac5d] the litigant at that hearing.
 
 (2) An application under paragraph (1)—
 
-- (a) is to be made orally on the date of the first hearing at which the litigant wishes a named individual to represent the litigant[^key-b4f6403e70916221e9d6109d4a867154]; and
+- (a) is to be made orally on the date of the first hearing at which the litigant wishes a named individual to represent the litigant[^c-b4f6403e70916221e9d6109d4a867154]; and
 - (b) is to be accompanied by a document, signed by the named individual, in Form 1A.2.
 
-(3) The sheriff may grant an application under paragraph (1) only if the sheriff is of the opinion that it would be in the interests of justice[^key-643e42551bdcef9c8dacc33820df06cc] to grant it.
+(3) The sheriff may grant an application under paragraph (1) only if the sheriff is of the opinion that it would be in the interests of justice[^c-643e42551bdcef9c8dacc33820df06cc] to grant it.
 
 (4) It is a condition of permission granted by the sheriff that the lay representative does not receive directly or indirectly from the litigant any remuneration or other reward for his or her assistance.
 
@@ -135,7 +135,7 @@ Where there is a reference to the use of a form in these Rules, that form in App
 
 (6) The sheriff may, of his or her own accord or on the motion of a party to the proceedings, withdraw permission granted under paragraph (1).
 
-(6A)[^key-de7370cc5d692c96f3823b0cc0ebad2b] Where permission is granted under paragraph (1), the lay representative may do anything in the preparation or conduct of the hearing that the litigant may do.
+(6A)[^c-de7370cc5d692c96f3823b0cc0ebad2b] Where permission is granted under paragraph (1), the lay representative may do anything in the preparation or conduct of the hearing that the litigant may do.
 
 (7) Where permission has been granted under paragraph (1), the litigant may—
 
@@ -154,7 +154,7 @@ which is in his or her possession in connection with the proceedings without bei
 
 (2) Where the sheriff relieves a party from the consequences of a failure to comply with a provision in these Rules under paragraph (1), he may make such order as he thinks fit to enable the cause to proceed as if the failure to comply with the provision had not occurred.
 
-#### CHAPTER 3 — COMMENCEMENT OF CAUSES[^key-95577fd184ee725107e66f6e4c1fe81f]
+#### CHAPTER 3 — COMMENCEMENT OF CAUSES[^c-95577fd184ee725107e66f6e4c1fe81f]
 
 ##### 3.1. Form of initial writ
 
@@ -163,7 +163,7 @@ which is in his or her possession in connection with the proceedings without bei
 - (a) in the case of an ordinary cause, by initial writ in Form G1; or
 - (b) in the case of a commercial action within the meaning of Chapter 40, by initial writ in Form G1A. ; or[^M_F_459c5a41-f096-4748-9d11-d66319a0280b]
 - (c) in the case of a personal injuries action within the meaning of Part AI of Chapter 36, by initial writ in Form PI1.
-- (d)[^key-bd1c981d99d8be057ad0e77ac5d7c2cf] in the case of a personal injuries action appointed to proceed in accordance with Chapter 36A under rule 36.C1, by initial writ in Form G1 which includes an interlocutor in Form PI4.
+- (d)[^c-bd1c981d99d8be057ad0e77ac5d7c2cf] in the case of a personal injuries action appointed to proceed in accordance with Chapter 36A under rule 36.C1, by initial writ in Form G1 which includes an interlocutor in Form PI4.
 
 (2) The initial writ shall be written, typed or printed on A4 size paper of durable quality and shall not be backed or folded.
 
@@ -176,7 +176,7 @@ which is in his or her possession in connection with the proceedings without bei
 - (a) the ground of jurisdiction; and
 - (b) the facts upon which the ground of jurisdiction is based.
 
-(5A)[^key-4d5368b93cc32e374d538ffc7f22f90e] Where a personal injuries action within the meaning of Part A1 of Chapter 36 is raised in Edinburgh Sheriff Court the initial writ must include an averment indicating whether the proceedings are for determination in the exercise of the sheriff’s all-Scotland jurisdiction or the sheriff’s local jurisdiction.
+(5A)[^c-4d5368b93cc32e374d538ffc7f22f90e] Where a personal injuries action within the meaning of Part A1 of Chapter 36 is raised in Edinburgh Sheriff Court the initial writ must include an averment indicating whether the proceedings are for determination in the exercise of the sheriff’s all-Scotland jurisdiction or the sheriff’s local jurisdiction.
 
 (5B) Where an averment is included indicating that the proceedings are for determination in the exercise of the sheriff’s all-Scotland jurisdiction, the heading of the initial writ must state that the action is being raised in the all-Scotland sheriff court.
 
@@ -193,7 +193,7 @@ which is in his or her possession in connection with the proceedings without bei
 - (a) where the action relates to any heritable right or title; and
 - (b) in any other case, where the sheriff so orders.
 
-(3)[^key-09acb2555eddbcc5ae345c55ab36391e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-09acb2555eddbcc5ae345c55ab36391e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 3.2A. Actions relating to regulated agreements[^c22730711]
 
@@ -209,7 +209,7 @@ In an action which relates to a regulated agreement within the meaning given by 
 - (a) a family action within the meaning of rule 33.1(1),
 - (b) an action of multiplepoinding,
 - (c) an action in which a time to pay direction under the Debtors (Scotland) Act 1987 or a time order under the Consumer Credit Act 1974[^c20735661] may be applied for by the defender,
-- (d)[^key-00db8d9c112ceaeec159c75673de5822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-00db8d9c112ceaeec159c75673de5822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e)[^c20726611] a civil partnership action within the meaning of rule 33A.1(1).
 
 shall be in Form O1[^c15188341].
@@ -218,7 +218,7 @@ shall be in Form O1[^c15188341].
 
 (3) In a cause in which a warrant of citation in accordance with Form O2 is appropriate, there shall be served on the defender (with the initial writ and warrant) a notice in Form O3.
 
-(4)[^key-e42f78a2c434d7f1549bdd16e359c5ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e42f78a2c434d7f1549bdd16e359c5ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 3.4. Warrants for arrestment to found jurisdiction
 
@@ -243,7 +243,7 @@ shall be in Form O1[^c15188341].
 
 (4) Where a period of notice expires on a Saturday, Sunday, or public or court holiday, the period of notice shall be deemed to expire on the next day on which the sheriff clerk’s office is open for civil court business.
 
-#### CHAPTER 3A — PERSONAL INJURY PRE-ACTION PROTOCOL[^key-18449963ea40edf6c69cdacc4d6a2f8e]
+#### CHAPTER 3A — PERSONAL INJURY PRE-ACTION PROTOCOL[^c-18449963ea40edf6c69cdacc4d6a2f8e]
 
 ##### 3A.1. Application and interpretation
 
@@ -306,7 +306,7 @@ A person may lodge a caveat against—
 
 (3) Where a caveat has been lodged and has not expired, no order in respect of which the caveat was lodged may be pronounced unless the sheriff is satisfied that all reasonable steps have been taken to afford the person lodging the caveat an opportunity of being heard; and the sheriff may continue the hearing on such an order until he is satisfied that such steps have been taken.
 
-#### CHAPTER 4A — MODE OF ATTENDANCE AT HEARINGS[^key-167436a7653043ecc8e430f0c1e3c53b]
+#### CHAPTER 4A — MODE OF ATTENDANCE AT HEARINGS[^c-167436a7653043ecc8e430f0c1e3c53b]
 
 ##### 4A.1. Application
 
@@ -338,7 +338,7 @@ An order under rule 4A.3(1) or (2) may include provision for a person to attend 
 
 and at different times or dates.
 
-#### CHAPTER 5 — CITATION, SERVICE AND INTIMATION[^key-28e9c9a699356a03602f5ae43e423038]
+#### CHAPTER 5 — CITATION, SERVICE AND INTIMATION[^c-28e9c9a699356a03602f5ae43e423038]
 
 ##### 5.1. Signature of warrants
 
@@ -347,11 +347,11 @@ and at different times or dates.
 (2) The following warrants shall be signed by the sheriff:—
 
 - (a) a warrant containing an order shortening or extending the period of notice or any other order other than a warrant which the sheriff clerk may sign;
-- (b)[^c20720001] a warrant for arrestment to found jurisdiction (including the arrestment of a ship)[^key-f9bd4bb09bc80d4833f7634e78a7e0d2];
+- (b)[^c20720001] a warrant for arrestment to found jurisdiction (including the arrestment of a ship)[^c-f9bd4bb09bc80d4833f7634e78a7e0d2];
 - (ba) a warrant for arrestment on the dependence;
 - (c) a warrant for intimation ordered under rule 33.8 (intimation where alleged[^c20726681] association).
 - (d)[^c20726741] a warrant for intimation ordered under rule 33A.8 (intimation where alleged association).
-- (e)[^key-8d87b3f1f395d8fe541339495b0cc4d5] a warrant for arrestment of a ship to found jurisdiction;
+- (e)[^c-8d87b3f1f395d8fe541339495b0cc4d5] a warrant for arrestment of a ship to found jurisdiction;
 - (f) a warrant for arrestment of a ship or cargo *in rem*;
 - (g) a warrant for arrestment of cargo.
 
@@ -365,13 +365,13 @@ and at different times or dates.
 - (aa)[^c20726901] a civil partnership action within the meaning of rule 33A.1(1);
 - (b) an action of multiplepoinding, [^c17810601]. . .
 - (c) an action in which a time to pay direction under the Debtors (Scotland) Act 1987 or a time order under the Consumer Credit Act 1974[^c20735711] may be applied for by the defender, or[^c17810631]
-- (d)[^key-198946031ab25ffc40e19a84e6b3e822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-198946031ab25ffc40e19a84e6b3e822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 citation of[^c15188411] any person shall be in Form O4 which shall be attached to a copy of the initial[^c15188421] writ and warrant of citation and shall have appended to it a notice of intention to defend in Form O7.
 
 (2) In a cause in which a time to pay direction under the Debtors (Scotland) Act 1987 or a time order under the Consumer Credit Act 1974[^c20735731] may be applied for by the defender, citation shall be in Form O5 which shall be attached to a copy of the initial writ and warrant of citation and shall have appended to it a notice of intention to defend in Form O7.
 
-(2A)[^key-7c8348648ff34c0a49f56549ee25300e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-7c8348648ff34c0a49f56549ee25300e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The certificate of citation in any cause other than a family action within the meaning of rule 33.1(1) or an action of multiplepoinding shall be in Form O6 which shall be attached to the initial writ.
 
@@ -410,7 +410,7 @@ citation of[^c15188411] any person shall be in Form O4 which shall be attached t
 (3) Where a sheriff officer has been unsuccessful in executing service in accordance with paragraph (1), he may, after making diligent enquiries, serve the document in question—
 
 - (a) by depositing it in that person’s dwelling place or place of business; or
-- (b)[^key-ebd110df9a49c1baf6d78e0245c9414b] by leaving it at that person’s dwelling place or place of business in such a way that it is likely to come to the attention of that person.
+- (b)[^c-ebd110df9a49c1baf6d78e0245c9414b] by leaving it at that person’s dwelling place or place of business in such a way that it is likely to come to the attention of that person.
 
 (4) Subject to rule 6.1 (service of schedule of arrestment), where service is executed under paragraph (3), the sheriff officer shall, as soon as possible after such service, send a letter containing a copy of the document by ordinary first class post to the address at which he thinks it most likely that the person on whom service has been executed may be found.
 
@@ -419,7 +419,7 @@ citation of[^c15188411] any person shall be in Form O4 which shall be attached t
 - (a) the document or a copy of it certified as correct by the pursuer’s solicitor, the sheriff officer may serve the document upon the defender without having the document or certified copy in his possession, in which case he shall if required to do so by the person on whom service is executed and within a reasonable time of being so required, show the document or certified copy to the person; or
 - (b) a certified copy of the interlocutor pronounced allowing service of the document, the sheriff officer may serve the document without having in his possession the certified copy interlocutor if he has in his possession a facsimile copy of the certified copy interlocutor (which he shall show, if required, to the person on whom service is executed).
 
-(6)[^key-b369a3044abd788a472fe1620faed88f] Where service is executed under paragraphs (1)(b) or (3), the document and the citation or notice of intimation, as the case may be, must be placed in an envelope bearing the notice “This envelope contains a citation to or intimation from (*insert name of sheriff court)*”and sealed by the sheriff officer.
+(6)[^c-b369a3044abd788a472fe1620faed88f] Where service is executed under paragraphs (1)(b) or (3), the document and the citation or notice of intimation, as the case may be, must be placed in an envelope bearing the notice “This envelope contains a citation to or intimation from (*insert name of sheriff court)*”and sealed by the sheriff officer.
 
 ##### 5.5. Service on persons furth of Scotland
 
@@ -430,8 +430,8 @@ citation of[^c15188411] any person shall be in Form O4 which shall be attached t
   - (ii) by posting in Scotland a copy of the document in question in a registered letter addressed to the person at his residence or place of business;
 - (b) in a country which is a party to the [^c15188461]Hague Convention on the Service Abroad of Judicial and Extra-Judicial Documents in Civil or Commercial Matters dated 15th November 1965 or the Convention in Schedule 1 or 3C to the [^c15188471]Civil Jurisdiction and Judgments Act 1982—
   - (i) by a method prescribed by the internal law of the country where service is to be executed for the service of documents in domestic actions upon persons who are within its territory;
-  - (ii) by or through the central, or other appropriate, authority in the country where service is to be executed at the request of the Scottish Ministers[^key-01443eee82f8792c46ab4cdb7cd8be56]:
-  - (iii) by or through a British Consular Office in the country where service is to be executed at the request of the Secretary of State for Foreign, Commonwealth and Development Affairs[^key-b726076736058dc6c1f473dbff8643f5];
+  - (ii) by or through the central, or other appropriate, authority in the country where service is to be executed at the request of the Scottish Ministers[^c-01443eee82f8792c46ab4cdb7cd8be56]:
+  - (iii) by or through a British Consular Office in the country where service is to be executed at the request of the Secretary of State for Foreign, Commonwealth and Development Affairs[^c-b726076736058dc6c1f473dbff8643f5];
   - (iv) where the law of the country in which the person resides permits, by posting in Scotland a copy of the document in a registered letter addressed to the person at his residence; or
   - (v) where the law of the country in which service is to be executed permits, service by an huissier, other judicial officer or competent official of the country where service is to be executed; [^c20667651]... or[^c20720231]
 - (c) in a country with which the United Kingdom has a convention on the service of writs in that country other than the conventions mentioned in sub-paragraph (b), by one of the methods approved in the relevant convention. ; or[^c20667671]
@@ -446,7 +446,7 @@ citation of[^c15188411] any person shall be in Form O4 which shall be attached t
 
 (3) In the case of service by a method referred to in paragraph (1)(b)(ii) and (iii), the pursuer shall—
 
-- (a) send a copy of the writ and warrant of service with citation attached, or other document, as the case may be, with a request for service by the method indicated in the request to the Scottish Ministers or, as the case may be,[^key-4160e7eff0b6f0fc61aa4c4d017d6e07] the Secretary of State for Foreign, Commonwealth and Development Affairs[^key-64e3b8e28cf4b53851a4df32796a70de]; and
+- (a) send a copy of the writ and warrant of service with citation attached, or other document, as the case may be, with a request for service by the method indicated in the request to the Scottish Ministers or, as the case may be,[^c-4160e7eff0b6f0fc61aa4c4d017d6e07] the Secretary of State for Foreign, Commonwealth and Development Affairs[^c-64e3b8e28cf4b53851a4df32796a70de]; and
 - (b) lodge in process a certificate signed by the authority which executed service stating that it has been, and the manner in which it was, served.
 
 (4) In the case of service by a method referred to in paragraph (1)(b)(v), the pursuer or the sheriff officer, shall—
@@ -543,14 +543,14 @@ In this Chapter–
 
 ##### 6.A4. Recall etc of arrestment or inhibition
 
-(1)[^key-7451ad62e35eee8357aca66498027325] An application by any person having an interest–
+(1)[^c-7451ad62e35eee8357aca66498027325] An application by any person having an interest–
 
 - (a) to loose, restrict, vary or recall an arrestment or an interim attachment; or
 - (b) to recall, in whole or in part, or vary, an inhibition,
 
 shall be made by motion.
 
-(2)[^key-818946a49aaf6ed91110eadd3b224271] A motion under paragraph (1) shall—
+(2)[^c-818946a49aaf6ed91110eadd3b224271] A motion under paragraph (1) shall—
 
 - (a) specify the name and address of each of the parties;
 - (b) where it relates to an inhibition, contain a description of the inhibition including the date of registration in the Register of Inhibitions and Adjudications.
@@ -584,7 +584,7 @@ and the sheriff officer shall, on the certificate of execution, certifiy that th
 
 **6.2** [^c20738681]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6.3 Movement of arrested property[^key-eaaebfee30a7ec442dda30266d43e106]
+##### 6.3 Movement of arrested property[^c-eaaebfee30a7ec442dda30266d43e106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -647,9 +647,9 @@ the sheriff may, on the pursuer endorsing a minute for decree on the initial wri
 
 ##### 7.4. Decree for expenses
 
-(1)[^key-6e2d5227c78f14f013c2801642c49822] On granting decree in abence or thereafter, the sheriff may grant decree for expenses.
+(1)[^c-6e2d5227c78f14f013c2801642c49822] On granting decree in abence or thereafter, the sheriff may grant decree for expenses.
 
-(2)[^key-1bd6c3588c0a0f23c74a78d77c3e8153] Where the pursuer elects, in the minute for decree, to claim expenses comprising—
+(2)[^c-1bd6c3588c0a0f23c74a78d77c3e8153] Where the pursuer elects, in the minute for decree, to claim expenses comprising—
 
 - (a) the inclusive charges set out in Part 1 of Table 1 in schedule 4 of the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019; and
 - (b) outlays comprising only—
@@ -688,13 +688,13 @@ The following rules in Chapter 15 (motions) shall not apply to an action in whic
 - rule 15.3 (opposition to motions),
 - rule 15.5 (hearing of motions).
 
-#### CHAPTER 8 — REPONING[^key-c9f259eca2a5b8c6183faeafc1b5c634]
+#### CHAPTER 8 — REPONING[^c-c9f259eca2a5b8c6183faeafc1b5c634]
 
 ##### 8.1. Reponing
 
 (1) In any cause other than—
 
-- (a) a cause mentioned in rule 33.1(a) to (h) or (n) to (p)[^key-73c0f36770d3ffa034fc982d51012efe] (certain family actions), or
+- (a) a cause mentioned in rule 33.1(a) to (h) or (n) to (p)[^c-73c0f36770d3ffa034fc982d51012efe] (certain family actions), or
 - (aa)[^c20726961] a cause mentioned in rule 33A.1(a), (b) or (f) (certain civil partnership actions);
 - (b) a cause to which Chapter 37 (causes under the Presumption of death (Scotland) Act 1977) applies,
 
@@ -717,11 +717,11 @@ the defender or any party with a statutory title or interest[^c20720991] may app
 
 (5) Any interlocutor or order recalling, or incidental to the recall of, a decree in absence shall be final and not subject to appeal.
 
-#### CHAPTER 9 — STANDARD PROCEDURE IN DEFENDED CAUSES[^key-d05f68f23803233c950b47af7dd79ea8]
+#### CHAPTER 9 — STANDARD PROCEDURE IN DEFENDED CAUSES[^c-d05f68f23803233c950b47af7dd79ea8]
 
 ##### 9.1. Notice of intention to defend
 
-(1) Subject to rule[^key-eca3f244a181c82608295533e459e4e2] 35.8 (lodging of notice of appearance in action of multiplepoinding), where the defender intends to—
+(1) Subject to rule[^c-eca3f244a181c82608295533e459e4e2] 35.8 (lodging of notice of appearance in action of multiplepoinding), where the defender intends to—
 
 - (a) challenge the jurisdiction of the court,
 - (b) state a defence, or
@@ -731,15 +731,15 @@ he shall, before the expiry of the period of notice, lodge with the sheriff cler
 
 (2) The lodging of a notice of intention to defend shall not imply acceptance of the jurisdiction of the court.
 
-(3)[^c15188701] This Chapter shall not apply to a commercial action within the meaning of Chapter 40 or a family or civil partnership action within the meaning of Chapters 33 and 33A[^key-ec15acb3a0b491aca64ec89757b6841b].
+(3)[^c15188701] This Chapter shall not apply to a commercial action within the meaning of Chapter 40 or a family or civil partnership action within the meaning of Chapters 33 and 33A[^c-ec15acb3a0b491aca64ec89757b6841b].
 
 ##### 9.2. Fixing date for Options Hearing
 
-(1) [^key-c2093d9f1466f3db4831a3a424edc8d7]... On the lodging of a notice of intention to defend, the sheriff clerk shall fix a date and time for an Options Hearing which date shall be on the first suitable court day occurring not sooner than 10 weeks after the expiry of the period of notice.
+(1) [^c-c2093d9f1466f3db4831a3a424edc8d7]... On the lodging of a notice of intention to defend, the sheriff clerk shall fix a date and time for an Options Hearing which date shall be on the first suitable court day occurring not sooner than 10 weeks after the expiry of the period of notice.
 
-(1A)[^key-9af3bcfbdc8ec221bfac66178ba0f191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-9af3bcfbdc8ec221bfac66178ba0f191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-b85f9c183e53598fa2a375118d5fe047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-b85f9c183e53598fa2a375118d5fe047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) On fixing the date for the Options Hearing, the sheriff clerk shall—
 
@@ -805,11 +805,11 @@ Where any hearing, whether by motion or otherwise, is fixed before the Options H
 
 ##### 9.6. Defences
 
-(1) Where a notice of intention to defend has been lodged, the defender shall [^key-d0c505354f6b75d2544122726677c8d2]... lodge defences within 14 days after the expiry of the period of notice.
+(1) Where a notice of intention to defend has been lodged, the defender shall [^c-d0c505354f6b75d2544122726677c8d2]... lodge defences within 14 days after the expiry of the period of notice.
 
 (2) Subject to rule 19.1(3) (form of defences where counterclaim included), defences shall be in the form of answers in numbered paragraphs corresponding to the articles of the condescendence and shall have appended a note of the pleas-in-law of the defender.
 
-(3)[^key-8632c63bc1f9bb84ef7033d6f531f1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8632c63bc1f9bb84ef7033d6f531f1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 9.7. Implied admissions
 
@@ -860,7 +860,7 @@ The sheriff may, at any time before the closing of the record in a cause to whic
 - (c) after having heard parties and considered any note lodged under rule 22.1, appoint the cause to a debate if satisfied that there is a preliminary matter of law which if established following debate would lead to decree in favour of any party, or to limitation of proof to any substantial degree[^c20721241].
 - (d)[^M_F_83b724d0-72ae-4ec7-9176-d88fbab797af] consider any child witness notice or vulnerable witness application that has been lodged where no order has been made, or
 - (e) ascertain whether there is or is likely to be a vulnerable witness within the meaning of section 11(1) of the Act of 2004 who is to give evidence at any proof or hearing and whether any order under section 12(1) of the Act of 2004 requires to be made.
-- (f)[^key-43220fa454d0c15c9a61c88fc6976c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-43220fa454d0c15c9a61c88fc6976c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) At the Options Hearing the sheriff may, having heard parties—
 
@@ -876,11 +876,11 @@ order that the cause proceed under the procedure in Chapter 10 (additional proce
 - (a) where there are no adjustments made since the lodging of the record under rule 9.11.(2), that record shall become the closed record; and
 - (b) where there are such adjustments, the sheriff may order that a closed record including such adjustments be lodged within 7 days after the date of the interlocutor closing the record.
 
-(7) For the purposes of rule[^key-bfa27fe43513281583d4996d791194c3] 16.2 (decrees where party in default) [^key-afb2a946642c14d5dc5ab32da22fd5be]... an Options Hearing shall be a diet in accordance with those rules.
+(7) For the purposes of rule[^c-bfa27fe43513281583d4996d791194c3] 16.2 (decrees where party in default) [^c-afb2a946642c14d5dc5ab32da22fd5be]... an Options Hearing shall be a diet in accordance with those rules.
 
 (8)[^c20727071] Where the cause is appointed, under paragraph (3), to a proof or proof before answer, the sheriff shall consider whether a pre-proof hearing should be fixed under rule 28A.1.
 
-(9)[^key-a2b1a2f8786d3701d1e524167b074efc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-a2b1a2f8786d3701d1e524167b074efc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 9.13. Inspection and recovery of documents[^c20721291]
 
@@ -988,13 +988,13 @@ The sheriff may, at any time before the closing of the record in a cause to whic
 - (c) after having heard the parties and considered any note lodged under rule 22.1, appoint the cause to a debate if satisfied that there is a preliminary matter of law which if established following debate would lead to decree in favour of any party, or to limitation of proof to any substantial degree[^c20721331].
 - (d)[^c20683241] consider any child witness notice or vulnerable witness application that has been lodged where no order has been made, or
 - (e) ascertain whether there is or is likely to be a vulnerable witness within the meaning of section 11(1) of the Act of 2004 who is to give evidence at any proof or hearing and whether any order under section 12(1) of the Act of 2004 requires to be made.
-- (f)[^key-c7b206700c42eb9490b70a27ae452fd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-c7b206700c42eb9490b70a27ae452fd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of rules 16.2 (decrees where party in default), 33.37 (decree by default in family action) and 33A.37 (decree by default in civil partnership action)[^c20728531], a Procedural Hearing shall be a diet in accordance with those rules[^c20728581].
 
 (5)[^c20728601] Where the cause is appointed, under paragraph (3), to a proof or proof before answer, the sheriff shall consider whether a pre-proof hearing should be fixed under rule 28A.1
 
-(6)[^key-c51035fa6379f319089b0f8d81cedf14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c51035fa6379f319089b0f8d81cedf14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### CHAPTER 11 — THE PROCESS
 
@@ -1061,7 +1061,7 @@ Where any part of process is lost or destroyed, a copy of it, authenticated in s
 
 ##### 11.7. Retention and disposal of parts of process by sheriff clerk
 
-(1) Where any cause has been finally determined and the period for making[^key-be654acffab54ed68029c7b77d9f4732] an appeal has expired without an appeal having been made[^key-31ef2b643597c0aa2cba5ab881b5fed7], the sheriff clerk shall—
+(1) Where any cause has been finally determined and the period for making[^c-be654acffab54ed68029c7b77d9f4732] an appeal has expired without an appeal having been made[^c-31ef2b643597c0aa2cba5ab881b5fed7], the sheriff clerk shall—
 
 - (a) retain—
   - (i) the initial writ;
@@ -1074,11 +1074,11 @@ Where any part of process is lost or destroyed, a copy of it, authenticated in s
   - (viii) any extended shorthand notes of the proof; and
 - (b) dispose of all other parts of process (except productions) in such a manner as seems appropriate.
 
-(2) Where an appeal has been made[^key-c5024f8d2ddb7995dbff3da94c42f001] on the final determination of the cause, the sheriff clerk shall exercise his duties mentioned in paragraph (1) after the final disposal of the appeal and any subsequent procedure.
+(2) Where an appeal has been made[^c-c5024f8d2ddb7995dbff3da94c42f001] on the final determination of the cause, the sheriff clerk shall exercise his duties mentioned in paragraph (1) after the final disposal of the appeal and any subsequent procedure.
 
 ##### 11.8. Uplifting of productions from process
 
-(1)[^key-d00ebd9f7988471b34817c3ad141e87a] Where a party has lodged productions in a cause, that party must uplift the productions from process within the period specified in paragraph (1A).
+(1)[^c-d00ebd9f7988471b34817c3ad141e87a] Where a party has lodged productions in a cause, that party must uplift the productions from process within the period specified in paragraph (1A).
 
 (1A) The period is within 14 days after—
 
@@ -1101,7 +1101,7 @@ In accordance with any directions given by the sheriff principal, any interlocut
 - (a) any interlocutor written and signed by a sheriff clerk shall be treated for all purposes as if it had been written and signed by the sheriff; and
 - (b) any extract of such an interlocutor shall not be invalid by reason only of its being written and signed by a sheriff clerk.
 
-##### 12.2. Further provisions in relation to interlocutors[^key-aeee15240939d54202a8e8130e6f23d1]
+##### 12.2. Further provisions in relation to interlocutors[^c-aeee15240939d54202a8e8130e6f23d1]
 
 (1) The sheriff may sign an interlocutor when outwith his or her sheriffdom.
 
@@ -1178,7 +1178,7 @@ In accordance with any directions given by the sheriff principal, any interlocut
 
 (5) Where the sheriff grants an application under rule 13.1 in a personal injuries action which is subject to personal injuries procedure, the sheriff may make such further order as he thinks fit.
 
-#### CHAPTER 13A — STATUTORY INTERVENERS[^key-524df1aca600f6f63526e42f22c939db]
+#### CHAPTER 13A — STATUTORY INTERVENERS[^c-524df1aca600f6f63526e42f22c939db]
 
 ##### 13A.1. Interpretation
 
@@ -1236,27 +1236,27 @@ In accordance with any directions given by the sheriff principal, any interlocut
 
 (4) Where a diet is fixed pursuant to paragraph (3)(b), the sheriff clerk is to give written intimation of the diet to the statutory intervener and all the parties.
 
-#### CHAPTER 13B — INTERVENTIONS BY THE SCOTTISH COMMISSION FOR HUMAN RIGHTS[^key-524df1aca600f6f63526e42f22c939db]
+#### CHAPTER 13B — INTERVENTIONS BY THE SCOTTISH COMMISSION FOR HUMAN RIGHTS[^c-524df1aca600f6f63526e42f22c939db]
 
-##### 13B.1. Interpretation[^key-524df1aca600f6f63526e42f22c939db]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 13B.2. Application to intervene[^key-524df1aca600f6f63526e42f22c939db]
+##### 13B.1. Interpretation[^c-524df1aca600f6f63526e42f22c939db]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 13B.3. Invitation to intervene[^key-524df1aca600f6f63526e42f22c939db]
+##### 13B.2. Application to intervene[^c-524df1aca600f6f63526e42f22c939db]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 13B.4. Form of intervention[^key-524df1aca600f6f63526e42f22c939db]
+##### 13B.3. Invitation to intervene[^c-524df1aca600f6f63526e42f22c939db]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 13B.4. Form of intervention[^c-524df1aca600f6f63526e42f22c939db]
 
 **No longer in force.**
 
@@ -1382,11 +1382,11 @@ Where a minute has been determined in accordance with rule 14.8 (hearing of minu
 
 (2) The interlocutor fixing a hearing under paragraph (1) shall specify whether the sheriff will hear evidence at the hearing or receive evidence by affidavit.
 
-##### 14.10A. Orders under section 11 of the Children (Scotland) Act 1995[^key-99da3e4c0e3bb9364413ccd808335bb7]
+##### 14.10A. Orders under section 11 of the Children (Scotland) Act 1995[^c-99da3e4c0e3bb9364413ccd808335bb7]
 
 (1) This rule applies where a notice of opposition or answers are lodged in respect of a minute including a crave for an order under section 11 of the Children (Scotland) Act 1995 (court orders relating to parental responsibilities etc.).
 
-(2) The sheriff, having regard to the measures referred to in rules 33.36J or 33A.36J (Initial Case Management Hearing)[^key-a5f0880cba2cb755229eb048961d82e8], may make such orders as the sheriff considers appropriate to ensure the expeditious resolution of the issues in dispute.
+(2) The sheriff, having regard to the measures referred to in rules 33.36J or 33A.36J (Initial Case Management Hearing)[^c-a5f0880cba2cb755229eb048961d82e8], may make such orders as the sheriff considers appropriate to ensure the expeditious resolution of the issues in dispute.
 
 ##### 14.11. Procedure for hearing[^c15189031]
 
@@ -1422,7 +1422,7 @@ the sheriff, on granting the minute, may order a hearing under rule 9.12 (Option
 
 #### CHAPTER 15 — MOTIONS[^c20690711][^c15189071]
 
-##### 15.A1. Application of this Chapter[^key-e70c312ec5ee20f7c2bcaa44cdb87749]
+##### 15.A1. Application of this Chapter[^c-e70c312ec5ee20f7c2bcaa44cdb87749]
 
 This Chapter applies to any cause other than a cause to which Chapter 15A applies.
 
@@ -1527,7 +1527,7 @@ Where a party consents to a written motion, he shall endorse the motion, or give
 
 (2) A motion under paragraph (1) shall—
 
-- (a) include a statement of the grounds on which it is proposed that the motion should be allowed [^key-160af0215bd515db4a8821d0de989cc2]...; and
+- (a) include a statement of the grounds on which it is proposed that the motion should be allowed [^c-160af0215bd515db4a8821d0de989cc2]...; and
 - (b) be lodged in accordance with rule 15.1.
 
 (3) A notice of opposition to the motion in Form G9 shall include a statement of the grounds of opposition to the motion.
@@ -1539,7 +1539,7 @@ Where a party consents to a written motion, he shall endorse the motion, or give
 
 (5) In determining whether or not to dismiss an action under paragraph (4), the court shall take account of the procedural consequences, both for the parties and for the work of the court, of allowing the action to proceed.
 
-#### CHAPTER 15A — MOTIONS INTIMATED AND LODGED BY EMAIL[^key-4d505eb810e2c4774df1e2028b61fb35]
+#### CHAPTER 15A — MOTIONS INTIMATED AND LODGED BY EMAIL[^c-4d505eb810e2c4774df1e2028b61fb35]
 
 ##### 15A.1. Application of this Chapter
 
@@ -1747,13 +1747,13 @@ This Chapter applies to any action other than—
 
 - (a) a family action within the meaning of rule 33.1(1);
 - (aa)[^c20728901] a civil partnership action within the meaning of rule 33A.1(1);
-- (ab)[^key-b47df0d14d28d5560c48617b406eddd3] an action of proving the tenor;
+- (ab)[^c-b47df0d14d28d5560c48617b406eddd3] an action of proving the tenor;
 - (b) an action of multiplepoinding; or
 - (c) a cause under the Presumption of Death (Scotland) Act 1977.
 
-##### 17.2. Applications for summary decree[^key-21cfda897485a3f4319c30fca88608fd]
+##### 17.2. Applications for summary decree[^c-21cfda897485a3f4319c30fca88608fd]
 
-(1) Subject to paragraphs (2) to (4), a party to an action may, at any time after defences have been lodged, apply by motion for summary decree in accordance with rule 15.1(1)(b) (lodging of motions) or rule 15A.7 (lodging unopposed motions by email) or rule 15A.8 (lodging opposed motions by email) as the case may be.[^key-a943f7b13084397d0a370bc12e73a276]
+(1) Subject to paragraphs (2) to (4), a party to an action may, at any time after defences have been lodged, apply by motion for summary decree in accordance with rule 15.1(1)(b) (lodging of motions) or rule 15A.7 (lodging unopposed motions by email) or rule 15A.8 (lodging opposed motions by email) as the case may be.[^c-a943f7b13084397d0a370bc12e73a276]
 
 (2) An application may only be made on the grounds that—
 
@@ -1776,7 +1776,7 @@ This Chapter applies to any action other than—
 
 (5) Notwithstanding the refusal of all or part of a motion for summary decree, a subsequent motion may be made where there has been a change in circumstances.
 
-##### 17.3. Application of summary decree to counterclaims, etc.[^key-21cfda897485a3f4319c30fca88608fd]
+##### 17.3. Application of summary decree to counterclaims, etc.[^c-21cfda897485a3f4319c30fca88608fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2034,23 +2034,23 @@ Where a party fails to lodge a document in accordance with rule 21.1(1), he may 
 
 (2) Where an objection is stated under paragraph (1) and an action of reduction would otherwise have been competent, the sheriff may order the party stating the objection to find caution or give such other security as the sheriff thinks fit.
 
-(3)[^key-3cb681d091d0dd63d488b40601c5600e] An objection may not be stated by exception if the sheriff considers that the objection would be more conveniently disposed of in a separate action of reduction.
+(3)[^c-3cb681d091d0dd63d488b40601c5600e] An objection may not be stated by exception if the sheriff considers that the objection would be more conveniently disposed of in a separate action of reduction.
 
 #### CHAPTER 22 — PRELIMINARY PLEAS
 
 ##### 22.1. Note of basis of preliminary plea
 
-(1) A party intending to insist on a preliminary plea shall, not later than 3 days before the Options Hearing under rule 9.12, the Procedural Hearing under rule 10.6 or the Full Case Management Hearing under rule 33.36P or rule 33A.36P[^key-33141bc78923fca582dd56099dc954e6]—
+(1) A party intending to insist on a preliminary plea shall, not later than 3 days before the Options Hearing under rule 9.12, the Procedural Hearing under rule 10.6 or the Full Case Management Hearing under rule 33.36P or rule 33A.36P[^c-33141bc78923fca582dd56099dc954e6]—
 
 - (a) lodge in process a note of the basis for the plea; and
 - (b) intimate a copy of it to every other party.
 
-(2)[^key-b3335d7867db02248391c2de4180f69c] Where the Options Hearing or Full Case Management Hearing is continued under rules 9.12(5) or 33.36P(7) and a preliminary plea is added by adjustment, a party intending to insist on that plea shall, not later than 3 days before the date of the Options Hearing or Full Case Management Hearing so continued—
+(2)[^c-b3335d7867db02248391c2de4180f69c] Where the Options Hearing or Full Case Management Hearing is continued under rules 9.12(5) or 33.36P(7) and a preliminary plea is added by adjustment, a party intending to insist on that plea shall, not later than 3 days before the date of the Options Hearing or Full Case Management Hearing so continued—
 
 - (a) lodge in process a note of the basis for the plea; and
 - (b) intimate a copy of it to every other party.
 
-(3)[^c15189351] If a party fails to comply with paragraph (1) or (2)[^c15189361], the party is[^key-5d53f8c290766f1382560156d833f6ea] deemed to be no longer insisting on the preliminary plea; and the plea shall be repelled by the sheriff at the Options Hearing , Procedural Hearing or Full Case Management Hearing[^key-12b293a8a82b774a46dee1f3c27b0a9e].
+(3)[^c15189351] If a party fails to comply with paragraph (1) or (2)[^c15189361], the party is[^c-5d53f8c290766f1382560156d833f6ea] deemed to be no longer insisting on the preliminary plea; and the plea shall be repelled by the sheriff at the Options Hearing , Procedural Hearing or Full Case Management Hearing[^c-12b293a8a82b774a46dee1f3c27b0a9e].
 
 (4) At any proof before answer or debate, parties may on cause shown[^c15189381] raise matters in addition to those set out in the note mentioned in paragraph (1) or (2).
 
@@ -2116,7 +2116,7 @@ Where a party dies or comes under legal incapacity while a cause is depending, a
 
 ##### 26.1. Transfer to another sheriff court
 
-(1) The sheriff may, on cause shown, transfer[^key-28b8c218c6415813ec8060cd9da85c13] any cause to another sheriff court.
+(1) The sheriff may, on cause shown, transfer[^c-28b8c218c6415813ec8060cd9da85c13] any cause to another sheriff court.
 
 (2) Subject to paragraph (4), where a cause in which there are two or more defenders has been brought in the sheriff court of the residence or place of business of one of them, the sheriff may transfer the cause to any other sheriff court which has jurisdiction over any of the defenders.
 
@@ -2136,9 +2136,9 @@ Where a party dies or comes under legal incapacity while a cause is depending, a
 
 (7) A transferred cause shall proceed in all respects as if it had been originally brought in the court to which it is transferred.
 
-(8)[^key-60b5c7f18b68f4adba8473bea6ec06d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-60b5c7f18b68f4adba8473bea6ec06d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 26.1A. Remit and transfer of summary cause proceedings to all-Scotland sheriff court[^key-f1ab84c96df98438da1ab8ed6846e635]
+##### 26.1A. Remit and transfer of summary cause proceedings to all-Scotland sheriff court[^c-f1ab84c96df98438da1ab8ed6846e635]
 
 (1) This rule applies where the sheriff directs that a summary cause is to be treated as an ordinary cause and, at the same time, makes an order transferring the action to the all-Scotland sheriff court.
 
@@ -2148,7 +2148,7 @@ Where a party dies or comes under legal incapacity while a cause is depending, a
 
 (4) Following the making of a direction and order mentioned in paragraph (1), the action is to be treated as a personal injuries action within the meaning of Part A1 of Chapter 36.
 
-##### 26.2. Remit to the Court of Session: proceedings to which section 39 of the 2014 Act does not apply[^key-842f7809b5a318ba29f80e2ed43af606]
+##### 26.2. Remit to the Court of Session: proceedings to which section 39 of the 2014 Act does not apply[^c-842f7809b5a318ba29f80e2ed43af606]
 
 (1) An application under section 92(2) of the 2014 Act (remit of cases to the Court of Session) is to be made by motion.
 
@@ -2190,7 +2190,7 @@ Where a party dies or comes under legal incapacity while a cause is depending, a
 
 ##### 26.3. Remit from Court of Session
 
-On receipt of the process in an action which has been remitted from the Court of Session under section 93 of the[^key-755fa9a91f91a25d60e7767392e86501] 2014 Act (remit of cases from the Court of Session), the sheriff clerk shall—
+On receipt of the process in an action which has been remitted from the Court of Session under section 93 of the[^c-755fa9a91f91a25d60e7767392e86501] 2014 Act (remit of cases from the Court of Session), the sheriff clerk shall—
 
 - (a) record the date of receipt on the interlocutor sheet;
 - (b) fix a hearing to determine further procedure on the first suitable court day occurring not earlier than 14 days after the date of receipt of the process; and
@@ -2250,7 +2250,7 @@ A bond of caution or other security shall be given only by a person who is an �
 
 Where caution has been found by bond of caution or security has been given by guarantee and the cautioner or guarantor, as the case may be—
 
-- (a) becomes apparently insolvent within the meaning assigned by section 16 of the Bankruptcy (Scotland) Act 2016 (meaning of apparent insolvency)[^key-0416f06d3e1d7b7e9271ad262c2c4bf6],
+- (a) becomes apparently insolvent within the meaning assigned by section 16 of the Bankruptcy (Scotland) Act 2016 (meaning of apparent insolvency)[^c-0416f06d3e1d7b7e9271ad262c2c4bf6],
 - (b) calls a meeting of his creditors to consider the state of his affairs,
 - (c) dies unrepresented, or
 - (d) is a company and—
@@ -2267,14 +2267,14 @@ Where a party fails to find caution or give other security (in this rule referre
 - (a) where the party in default is a pursuer, for decree of absolvitor; or
 - (b) where the party in default is a defender or a third party, for decree by default or for such other finding or order as the sheriff thinks fit.
 
-#### CHAPTER 27A — PURSUERS’ OFFERS[^key-d9a0e755888cbeb2374afd4bc41cea6c]
+#### CHAPTER 27A — PURSUERS’ OFFERS[^c-d9a0e755888cbeb2374afd4bc41cea6c]
 
 ##### 27A.1. Interpretation of this Chapter
 
 In this Chapter—
 
 - “appropriate date” means the date by which a pursuer’s offer could reasonably have been accepted;
-- “charges” means charges for work carried out by the pursuer’s solicitor, and includes any additional charge;[^key-cd8151646f35146a7bbdebdf2659ed4d]
+- “charges” means charges for work carried out by the pursuer’s solicitor, and includes any additional charge;[^c-cd8151646f35146a7bbdebdf2659ed4d]
 - “pursuer’s offer” means an offer by a pursuer to settle a claim against a defender made in accordance with this Chapter;
 - “relevant period” means the period from the appropriate date to the date of acceptance of the pursuer’s offer or, as the case may be, to the date on which judgment was given, or on which the verdict was applied.
 
@@ -2372,7 +2372,7 @@ A pursuer’s offer must—
 
 ##### 27A.9. Extent of defender’s liability
 
-The sum that may be decerned for under rule 27A.7(2)(b) or rule 27A.8(3) is a sum corresponding to half the charges[^key-b4e725a7c260595e94cc1be1a5105790] allowed on taxation of the pursuer’s account of expenses, in so far as those charges are attributable to the relevant period, or in so far they can reasonably be attributed to that period.
+The sum that may be decerned for under rule 27A.7(2)(b) or rule 27A.8(3) is a sum corresponding to half the charges[^c-b4e725a7c260595e94cc1be1a5105790] allowed on taxation of the pursuer’s account of expenses, in so far as those charges are attributable to the relevant period, or in so far they can reasonably be attributed to that period.
 
 #### CHAPTER 28 — RECOVERY OF EVIDENCE
 
@@ -2412,7 +2412,7 @@ shall be lodged in process.
 
 (5)[^c20737421] The Advocate General for Scotland or the Lord Advocate or both, as appropriate, may appear at the hearing of any motion under paragraph (1).
 
-##### 28.3. Optional procedure before executing commission and diligence[^key-b14939a48ebed65fd4dc2b05d3301919]
+##### 28.3. Optional procedure before executing commission and diligence[^c-b14939a48ebed65fd4dc2b05d3301919]
 
 (1) Subject to rule 28.3A (optional procedure where there is a party litigant), this rule applies where a party has obtained a commission and diligence for the recovery of a document on an application made under rule 28.2(1)(a).
 
@@ -2482,7 +2482,7 @@ he may execute the commission and diligence under rule 28.4.
 - (a) give written intimation of the return of the document to every other party; and
 - (b) if no other party uplifts the document within 14 days after the date of intimation, return it to the haver.
 
-(9) Any such document lodged in process is to be returned to the haver by the party lodging it within 14 days after the expiry of any period allowed for appeal or, where an appeal has been made[^key-8d0667350333dbfe694793ce1c7e072a], from the disposal of any such appeal.
+(9) Any such document lodged in process is to be returned to the haver by the party lodging it within 14 days after the expiry of any period allowed for appeal or, where an appeal has been made[^c-8d0667350333dbfe694793ce1c7e072a], from the disposal of any such appeal.
 
 (10) If any party fails to return any such document as provided for in paragraph (8) or (9), the haver may apply by motion (whether or not the cause is in dependence) for an order that the document be returned to him and for the expenses occasioned by that motion.
 
@@ -2565,7 +2565,7 @@ he may execute the commission and diligence under rule 28.4.
 
 ##### 28.8. Confidentiality
 
-(1)[^key-bfb3f713a0c4a00cb3fd7004968d41c7] Where confidentiality is claimed for any evidence sought to be recovered under any of the following rules, such evidence is to be, where practicable, enclosed in a sealed packet—
+(1)[^c-bfb3f713a0c4a00cb3fd7004968d41c7] Where confidentiality is claimed for any evidence sought to be recovered under any of the following rules, such evidence is to be, where practicable, enclosed in a sealed packet—
 
 - (a) rule 28.3 (optional procedure before executing commission and diligence),
 - (b) rule 28.3A (optional procedure where there is a party litigant),
@@ -2584,9 +2584,9 @@ he may execute the commission and diligence under rule 28.4.
 (2) A motion to have such a sealed packet opened up or such recovery allowed[^c15189751] may be lodged by—
 
 - (a) the party who obtained the commission and diligence; or
-- (b)[^key-6583d9cc6a20a7b2a8706db498953202] any other party after the date of intimation under rule 28.3(5), 28.3A(8) or 28.4(10).
+- (b)[^c-6583d9cc6a20a7b2a8706db498953202] any other party after the date of intimation under rule 28.3(5), 28.3A(8) or 28.4(10).
 
-(3) In addition to complying with rule 15.2 (intimation of motions) or rule 15A.4 (intimation of motions by email)[^key-8217d3498a78b874461483e492126e61], the party lodging such a motion shall intimate the terms of the motion to the haver by post by the first class recorded delivery service.
+(3) In addition to complying with rule 15.2 (intimation of motions) or rule 15A.4 (intimation of motions by email)[^c-8217d3498a78b874461483e492126e61], the party lodging such a motion shall intimate the terms of the motion to the haver by post by the first class recorded delivery service.
 
 (4) The person claiming confidentiality may oppose a motion made under paragraph (2).
 
@@ -2705,11 +2705,11 @@ for which an order could be obtained from the sheriff.
 
 then the applicant shall, before the issue of the letter of request, lodge in process a translation of that letter and any interrogatories and cross-interrogatories into the official language of that court or tribunal.
 
-(6) The letter of request when issued, any interrogatories and cross-interrogatories adjusted as required by rule 28.11 and the translations (if any), shall be forwarded by the sheriff clerk to the Scottish Ministers[^key-7e8a1ecf7cf5a9dd823d697a14b8f281] or to such person and in such manner as the sheriff may direct.
+(6) The letter of request when issued, any interrogatories and cross-interrogatories adjusted as required by rule 28.11 and the translations (if any), shall be forwarded by the sheriff clerk to the Scottish Ministers[^c-7e8a1ecf7cf5a9dd823d697a14b8f281] or to such person and in such manner as the sheriff may direct.
 
 (7)[^c20668901] This rule does not apply to any request for the taking of evidence under Council Regulation [(EC) No. 1206/2001](https://www.legislation.gov.uk/european/regulation/2001/1206) of 28th May 2001 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters.
 
-##### 28.14A. Taking of evidence in the European Union[^c20669181][^key-1865b5cb2c3138ab686c91f73a215a62]
+##### 28.14A. Taking of evidence in the European Union[^c20669181][^c-1865b5cb2c3138ab686c91f73a215a62]
 
 (1) This rule applies to any request–
 
@@ -2732,16 +2732,16 @@ The following rules shall apply to the citation of a witness or haver to a commi
 
 ##### 28A.1. Pre-proof hearing
 
-(1) Subject to paragraph (1A)[^key-a9d5c9b862f874edf511d860e00490b3] on the appointment of a cause to a proof or proof before answer or thereafter on the motion of any party or of his own motion, the sheriff may appoint the cause to a pre-proof hearing.
+(1) Subject to paragraph (1A)[^c-a9d5c9b862f874edf511d860e00490b3] on the appointment of a cause to a proof or proof before answer or thereafter on the motion of any party or of his own motion, the sheriff may appoint the cause to a pre-proof hearing.
 
-(1A)[^key-e75341de700a95796efacac3bfef2f2b] In a family action which must follow the procedure set out in Part III of Chapter 33 or 33A (defended family actions), the sheriff will fix a pre-proof hearing at the Full Case Management Hearing.
+(1A)[^c-e75341de700a95796efacac3bfef2f2b] In a family action which must follow the procedure set out in Part III of Chapter 33 or 33A (defended family actions), the sheriff will fix a pre-proof hearing at the Full Case Management Hearing.
 
 (2) It shall be the duty of the parties to provide the sheriff with sufficient information to enable him to conduct the hearing as provided for in this rule.
 
 (3) At a pre-proof hearing the sheriff shall ascertain, so far as is reasonably practicable, whether the cause is likely to proceed to proof on the date fixed for that purpose and, in particular–
 
 - (a) the state of preparation of the parties; and
-- (b)[^key-5162e9ac10cd5d594748a161dd1241f8] the extent to which the parties have complied with their duties under rules 9A.2, 9A.3, 29.11 and 29.15 and any orders made by the sheriff under—
+- (b)[^c-5162e9ac10cd5d594748a161dd1241f8] the extent to which the parties have complied with their duties under rules 9A.2, 9A.3, 29.11 and 29.15 and any orders made by the sheriff under—
   - (i) rules 9.12(3)(a), (b), (d) or (e);
   - (ii) rules 10.6(3)(a) or (b);
   - (iii) rules 33.36P(4)(a), (b), (d) or (6); or
@@ -2909,7 +2909,7 @@ The sheriff shall administer the oath to a witness in Form G14 or, where the wit
 
 A proof shall be taken continuously so far as possible; but the sheriff may adjourn the diet from time to time.
 
-##### 29.17A. Proof management hearing[^key-0064fe02821b4f7356274f9a9b328c25]
+##### 29.17A. Proof management hearing[^c-0064fe02821b4f7356274f9a9b328c25]
 
 (1) Where a proof diet has been—
 
@@ -2990,7 +2990,7 @@ and copies of it may be obtained by any party from the shorthand writer or as th
 
 (13) This rule shall, with the necessary modifications, apply to the recording of evidence at a commis sion as it applies to the recording of evidence at a proof.
 
-##### 29.19. Rulings on admissibility of evidence: leave to appeal[^key-cac699881ac64f31ac61bca38482ba66]
+##### 29.19. Rulings on admissibility of evidence: leave to appeal[^c-cac699881ac64f31ac61bca38482ba66]
 
 (1) This rule applies where a party or any other person objects to—
 
@@ -3017,20 +3017,20 @@ In this Chapter, “decree” includes any judgment, deliverance, interlocutor, 
 
 ##### 30.3. Decrees for payment in foreign currency
 
-(1) Where decree has been granted for payment of a sum of money in a foreign currency or the sterling equivalent, a party requesting extract of the decree shall do so by minute endorsed on or annexed to the initial writ [^key-f1f76c2058ce7299328a0370c7a8de93]....
+(1) Where decree has been granted for payment of a sum of money in a foreign currency or the sterling equivalent, a party requesting extract of the decree shall do so by minute endorsed on or annexed to the initial writ [^c-f1f76c2058ce7299328a0370c7a8de93]....
 
-(2)[^key-f8b9f846f76a0292f48f4815d31ec1bb] A declaration in Form G18 stating—
+(2)[^c-f8b9f846f76a0292f48f4815d31ec1bb] A declaration in Form G18 stating—
 
 - (a) the rate of exchange on the date of the decree sought to be extracted or the date, within 3 days before the date, on which extract is ordered; and
 - (b) the sterling equivalent;
 
 must be lodged with the minute requesting extract of the decree.
 
-(2A)[^key-ebcf08f791526951419c9061e3d6daf9] The declaration required under paragraph (2) must specify the source of the rate of exchange relied upon in the declaration.
+(2A)[^c-ebcf08f791526951419c9061e3d6daf9] The declaration required under paragraph (2) must specify the source of the rate of exchange relied upon in the declaration.
 
 (2B) On receipt of Form G18, the sheriff clerk must, if satisfied with the terms of the form, sign and date the docquet in Form G18.
 
-(3) The extract decree issued by the sheriff clerk shall mention any declaration[^key-d9a25d7f9bb3b1266ac1fb50c92be6e4] referred to in paragraph (2).
+(3) The extract decree issued by the sheriff clerk shall mention any declaration[^c-d9a25d7f9bb3b1266ac1fb50c92be6e4] referred to in paragraph (2).
 
 ##### 30.4. When decrees extractable
 
@@ -3040,7 +3040,7 @@ must be lodged with the minute requesting extract of the decree.
 - (b) subject to sub-paragraph (c), any decree pronounced in a defended cause may be extracted at any time after whichever is the later of the following:—
   - (i) the expiry of the period within which an application for leave to appeal may be made and no such application has been made;
   - (ii) the date on which leave to appeal has been refused and there is no right of appeal from such refusal;
-  - (iii) the expiry of the period within which an appeal may be made[^key-a8075bf04d75ddd724088673845f8bbf] and no appeal has been made; or
+  - (iii) the expiry of the period within which an appeal may be made[^c-a8075bf04d75ddd724088673845f8bbf] and no appeal has been made; or
   - (iv) the date on which an appeal has been finally disposed of; and
 - (c) where the sheriff has, in pronouncing decree, reserved any question of expenses, extract of that decree may be issued only after the expiry of 14 days from the date of the interlocutor disposing of the question of expenses unless the sheriff otherwise directs.
 
@@ -3055,7 +3055,7 @@ must be lodged with the minute requesting extract of the decree.
 
 ##### 30.5. Extract of certain awards notwithstanding appeal
 
-The sheriff clerk may issue an extract of an order under section 11 of the Children (Scotland) Act 1995(1) or in respect of aliment[^key-c495ffbd4ad2aec28c22fa21f5cccbbe] notwithstanding that an appeal has[^key-426224aa3ff1ba26d220b009634e1536] been made against an interlocutor containing such an award unless an order under rule 31.9 (appeals in connection with orders under section 11 of the Children (Scotland) Act 1995 or aliment)[^key-032c571656040e8dc640332570c4bcbb] has been made excusing obedience to or implement of that interlocutor.
+The sheriff clerk may issue an extract of an order under section 11 of the Children (Scotland) Act 1995(1) or in respect of aliment[^c-c495ffbd4ad2aec28c22fa21f5cccbbe] notwithstanding that an appeal has[^c-426224aa3ff1ba26d220b009634e1536] been made against an interlocutor containing such an award unless an order under rule 31.9 (appeals in connection with orders under section 11 of the Children (Scotland) Act 1995 or aliment)[^c-032c571656040e8dc640332570c4bcbb] has been made excusing obedience to or implement of that interlocutor.
 
 ##### 30.6. Form of extract decree
 
@@ -3069,7 +3069,7 @@ An extract of a decree on which execution may proceed shall include a warrant fo
 
 ##### 30.8. Date of decree in extract
 
-(1) Where the Sheriff Appeal Court[^key-905c76ecf1e862e84ae7d725283e097b] has adhered to the decision of the sheriff following an appeal, the date to be inserted in the extract decree as the date of decree shall be the date of the decision of the Sheriff Appeal Court.
+(1) Where the Sheriff Appeal Court[^c-905c76ecf1e862e84ae7d725283e097b] has adhered to the decision of the sheriff following an appeal, the date to be inserted in the extract decree as the date of decree shall be the date of the decision of the Sheriff Appeal Court.
 
 (2) Where a decree has more than one date it shall not be necessary to specify in an extract what was done on each date.
 
@@ -3097,7 +3097,7 @@ may be awarded any expenses or outlays to which a party litigant may be found en
 
 #### CHAPTER 31 — APPEALS
 
-##### 31.1. Time limit for appeal[^key-ce3dc4344641c8409e1a0bb479aefec9]
+##### 31.1. Time limit for appeal[^c-ce3dc4344641c8409e1a0bb479aefec9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -3105,7 +3105,7 @@ may be awarded any expenses or outlays to which a party litigant may be found en
 
 (1) Where leave to appeal is required, applications for leave to appeal against an interlocutor of a sheriff shall be made within 7 days after the date of the interlocutor against which it is sought to appeal unless the interlocutor has been extracted following a motion under rule 30.4(2) (early extract).
 
-(2)[^key-0dd1954b7f8c4c59d5a128867df534bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0dd1954b7f8c4c59d5a128867df534bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c20738221] An application for leave to appeal from a decision in relation to–
 
@@ -3115,54 +3115,54 @@ may be awarded any expenses or outlays to which a party litigant may be found en
 
 shall specify the question of law on which the appeal is made.
 
-##### 31.2A. Appeals in connection with interim diligence[^key-c3d6cc2c0069e5b9880026ce5d1663ba]
+##### 31.2A. Appeals in connection with interim diligence[^c-c3d6cc2c0069e5b9880026ce5d1663ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31.3. Form of appeal to Court of Session[^key-692441459d71db23c7b960f0d453186a]
+##### 31.3. Form of appeal to Court of Session[^c-692441459d71db23c7b960f0d453186a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31.4. Form of appeal to the sheriff principal[^key-692441459d71db23c7b960f0d453186a]
+##### 31.4. Form of appeal to the sheriff principal[^c-692441459d71db23c7b960f0d453186a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31.5. Transmission of process and notice to parties[^key-692441459d71db23c7b960f0d453186a]
+##### 31.5. Transmission of process and notice to parties[^c-692441459d71db23c7b960f0d453186a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31.6. Record of pleadings etc.[^key-692441459d71db23c7b960f0d453186a]
+##### 31.6. Record of pleadings etc.[^c-692441459d71db23c7b960f0d453186a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31.7. Determination of appeal[^key-692441459d71db23c7b960f0d453186a]
+##### 31.7. Determination of appeal[^c-692441459d71db23c7b960f0d453186a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31.8. Fixing of Options Hearing or making other order following appeal[^key-692441459d71db23c7b960f0d453186a]
+##### 31.8. Fixing of Options Hearing or making other order following appeal[^c-692441459d71db23c7b960f0d453186a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 31.9. Appeals in connection with orders under section 11 of the Children (Scotland) Act 1995 or aliment[^c15190081]
 
-Where an appeal is marked against an interlocutor making an order under section 11 of the [^c15190091]Children (Scotland) Act 1995(court orders relating to parental responsibilities etc.) or in respect of aliment, the marking of that appeal shall not excuse obedience to or implement of that order unless by order of the sheriff or the Sheriff Appeal Court[^key-70331ed67b89f7f5bbe37dd777eba7ca].
+Where an appeal is marked against an interlocutor making an order under section 11 of the [^c15190091]Children (Scotland) Act 1995(court orders relating to parental responsibilities etc.) or in respect of aliment, the marking of that appeal shall not excuse obedience to or implement of that order unless by order of the sheriff or the Sheriff Appeal Court[^c-70331ed67b89f7f5bbe37dd777eba7ca].
 
 ##### 31.10. Interim possession etc. pending appeal[^c15190101]
 
-(1) Notwithstanding an appeal, the sheriff [^key-dad7ede7abef06340ca992782f7f9606]... from whose decision an appeal has been taken shall have power—
+(1) Notwithstanding an appeal, the sheriff [^c-dad7ede7abef06340ca992782f7f9606]... from whose decision an appeal has been taken shall have power—
 
 - (a) to regulate all matters relating to interim possession;
 - (b) to make any order for the preservation of any property to which the action relates or for its sale if perishable;
 - (c) to make provision for the preservation of evidence; or
 - (d) to make any interim order which a due regard to the interests of the parties may require.
 
-(2)[^key-5cd90ee887afcb1c9b51a6eb32700c34] An order made under paragraph (1) may be reviewed by the Sheriff Appeal Court.
+(2)[^c-5cd90ee887afcb1c9b51a6eb32700c34] An order made under paragraph (1) may be reviewed by the Sheriff Appeal Court.
 
-##### 31.11. Abandonment of appeal[^key-af55d76bd7242b50edc3cc2dd0d6a275]
+##### 31.11. Abandonment of appeal[^c-af55d76bd7242b50edc3cc2dd0d6a275]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 31A — QUALIFIED ONE-WAY COSTS SHIFTING[^key-0b4ff143c7aa5a3bc97c39e58a632690]
+#### CHAPTER 31A — QUALIFIED ONE-WAY COSTS SHIFTING[^c-0b4ff143c7aa5a3bc97c39e58a632690]
 
 ##### 31A.1. Application and interpretation of this Chapter
 
@@ -3236,11 +3236,11 @@ Section 8(2) of the Act does not prevent the sheriff from making an award of exp
 
 ##### 32.1. Taxation before decree for expenses
 
-(1)[^key-3ae10608bdae20ab418f20eb8d14bce0] Expenses allowed in any cause, whether in absence or in foro contentioso, unless modified at a fixed amount, shall be taxed before decree is granted for them.
+(1)[^c-3ae10608bdae20ab418f20eb8d14bce0] Expenses allowed in any cause, whether in absence or in foro contentioso, unless modified at a fixed amount, shall be taxed before decree is granted for them.
 
-(2)[^key-1c4c8874224d27752f5c2541ff594c6d] Paragraph (1) applies subject to rule 7.4(2).
+(2)[^c-1c4c8874224d27752f5c2541ff594c6d] Paragraph (1) applies subject to rule 7.4(2).
 
-##### 32.1A. Time for lodging account of expenses[^key-a6619b87bc1969b3cd09b3fefeb98e24]
+##### 32.1A. Time for lodging account of expenses[^c-a6619b87bc1969b3cd09b3fefeb98e24]
 
 (1) A party found entitled to expenses must lodge an account of expenses in process—
 
@@ -3255,7 +3255,7 @@ Section 8(2) of the Act does not prevent the sheriff from making an award of exp
 
 The sheriff may allow a decree for expenses to be extracted in the name of the solicitor who conducted the cause.
 
-##### 32.3. Diet of taxation[^key-cc600bc86958314aafb66e4143d36df1]
+##### 32.3. Diet of taxation[^c-cc600bc86958314aafb66e4143d36df1]
 
 (1) Where an account of expenses awarded in a cause is lodged for taxation, the sheriff clerk must transmit the account and the process to the auditor of court.
 
@@ -3275,7 +3275,7 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 - (a) the party found entitled to expenses; and
 - (b) the party found liable in expenses.
 
-(5) The party found liable in expenses may, not later than 1600 hours[^key-711cc081c1f4ddd08117040092e4bedb] on the fifteenth[^key-36588cf54ae47035c24af5cecd242aad] day before the diet of taxation, intimate to the auditor of court and to the party found entitled to expenses particular points of objection, specifying each item objected to and stating concisely the nature and ground of objection.
+(5) The party found liable in expenses may, not later than 1600 hours[^c-711cc081c1f4ddd08117040092e4bedb] on the fifteenth[^c-36588cf54ae47035c24af5cecd242aad] day before the diet of taxation, intimate to the auditor of court and to the party found entitled to expenses particular points of objection, specifying each item objected to and stating concisely the nature and ground of objection.
 
 (6) Subject to paragraph (7), if the party found liable in expenses fails to intimate points of objection under paragraph (5) within the time limit set out there, the auditor of court must not take account of them at the diet of taxation.
 
@@ -3283,7 +3283,7 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 
 (8) At the diet of taxation, or within such reasonable period of time thereafter as the auditor of court may allow, the party found entitled to expenses must make available to the auditor of court all documents, drafts or copies of documents sought by the auditor and relevant to the taxation.
 
-(9)[^key-a339adf615e42d08ad964c7e9aaaf74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-a339adf615e42d08ad964c7e9aaaf74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 32.3A. Auditor’s statement
 
@@ -3331,9 +3331,9 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 
 (2) Without prejudice to the sheriff’s other powers in relation to interest, the decree pronounced may require the party decerned against to pay interest on the taxed expenses, or any part thereof, from a date no earlier than 28 days after the date on which the account of expenses was lodged.
 
-#### CHAPTER 32A — LIVE LINKS[^key-2d2e9c4c5297d86ada587dfd9a79ba30]
+#### CHAPTER 32A — LIVE LINKS[^c-2d2e9c4c5297d86ada587dfd9a79ba30]
 
-**32A.1.**[^key-2d2e9c4c5297d86ada587dfd9a79ba30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32A.1.**[^c-2d2e9c4c5297d86ada587dfd9a79ba30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Special provisions in relation to particular causes
 
@@ -3353,8 +3353,8 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 - (f) an action of declarator of non-parentage;
 - (g) an action of declarator of legitimation;
 - (h)[^c15190201] an action or application for, or in respect of, an order under section 11 of the Children (Scotland) Act 1995 (court orders relating to parental responsibilities etc.), except–
-  - (i) an application for the appointment of a judicial factor mentioned in section 11(2)(g) of the Act of 1995 to which Part I of the Act of Sederunt (Judicial Factors Rules) 1992 applies; [^key-4cf8cbca18d49653f9c18a79dda503e1]...
-  - (ii)[^key-f24a872d0b74914b22c2d5951aeb6b7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) an application for the appointment of a judicial factor mentioned in section 11(2)(g) of the Act of 1995 to which Part I of the Act of Sederunt (Judicial Factors Rules) 1992 applies; [^c-4cf8cbca18d49653f9c18a79dda503e1]...
+  - (ii)[^c-f24a872d0b74914b22c2d5951aeb6b7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) an action of affiliation and aliment;
 - (j) an action of, or application for or in respect of, aliment;
 - (k) an action or application for financial provision after a divorce or annulment in an overseas country within the meaning of Part IV of the [^c15190211]Martimonial and Family Proceedings Act 1984;
@@ -3362,9 +3362,9 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 - (m) an application for the variation or recall of an order mentioned in section 8(1) of the [^c15190221]Law Reform (Miscellaneous Provisions) (Scotland) Act 1966.
 - (n)[^M_F_25f9b00b-cb2e-4ed9-b610-f65ce1c2da6d] an action of declarator of marriage;
 - (o) an action of declarator of nullity of marriage;
-- (p)[^key-aee6649bcba469209cffa265453ed026] an action for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of section 7(9) of the Domicile and Matrimonial Proceedings Act 1973;
-- (q)[^key-61328d8e77a4d11a5cc24637c259135f] an application under section 28 or 29 of the Act of 2006 (financial provision for former co-habitants).
-- (r)[^key-7dccdbb0aa748399ddad67989264b9b4] an action for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of paragraph 1 of Schedule 1B to the Domicile and Matrimonial Proceedings Act 1973, or of a judgment to which paragraph 2(1)(b) of that Schedule refers.
+- (p)[^c-aee6649bcba469209cffa265453ed026] an action for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of section 7(9) of the Domicile and Matrimonial Proceedings Act 1973;
+- (q)[^c-61328d8e77a4d11a5cc24637c259135f] an application under section 28 or 29 of the Act of 2006 (financial provision for former co-habitants).
+- (r)[^c-7dccdbb0aa748399ddad67989264b9b4] an action for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of paragraph 1 of Schedule 1B to the Domicile and Matrimonial Proceedings Act 1973, or of a judgment to which paragraph 2(1)(b) of that Schedule refers.
 
 (2) In this Chapter, unless the context otherwise requires—
 
@@ -3373,11 +3373,11 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
 - “the Act of 1981” means the [^c15190251]Matrimonial Homes (Family Protection) (Scotland) Act 1981;
 - “the Act of 1985” means the [^c15190261]Family Law (Scotland) Act 1985;
 - “the Act of 1995” means the Children (Scotland) Act 1995;[^c15190271]
-- “the[^key-5fd919794fe216e7efa2389ff5512814] Act of 2006” means the Family Law (Scotland) Act 2006;
+- “the[^c-5fd919794fe216e7efa2389ff5512814] Act of 2006” means the Family Law (Scotland) Act 2006;
 - “contact order” has the meaning assigned in section 11(2)(d) of the Act of 1995;
 - “full gender recognition certificate” and “interim gender recognition certificate” mean the certificates issued as such under section 4 or 5 of the Gender Recognition Act 2004[^c20679131] [^c20679171];
 - “**Gender Recognition Panel**” is to be construed in accordance with Schedule 1 to the Gender Recognition Act 2004;
-- “incapable” means incapable, by reason of mental disorder, of—[^key-44eef577f0ec91cc660ec5c407b438f5]
+- “incapable” means incapable, by reason of mental disorder, of—[^c-44eef577f0ec91cc660ec5c407b438f5]
   - (a) acting;
   - (b) making decisions;
   - (c) communicating decisions;
@@ -3408,7 +3408,7 @@ The sheriff may allow a decree for expenses to be extracted in the name of the s
   - (ii) the date of commencement;
   - (iii) the names of the parties;
   - (iv) the date, or expected date of any proof (or its equivalent) in the proceedings; and
-  - (v) such other facts as may be relevant to the question of whether or not the action before the sheriff should be sisted under Schedule 3 to the Domicile and Matrimonial Proceedings Act 1973 [^key-ba421bcf0cabd99993d87e640226d75a]... or the[^key-1065cba3db74e9c2a060dd087a3e6a54] 1996 Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children, signed at the Hague on 19th October 1996.
+  - (v) such other facts as may be relevant to the question of whether or not the action before the sheriff should be sisted under Schedule 3 to the Domicile and Matrimonial Proceedings Act 1973 [^c-ba421bcf0cabd99993d87e640226d75a]... or the[^c-1065cba3db74e9c2a060dd087a3e6a54] 1996 Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children, signed at the Hague on 19th October 1996.
 
 (3) Where—
 
@@ -3483,7 +3483,7 @@ In a family action in which an order for aliment or periodical allowance is soug
 - (a) include averments stating that such a decision has been made and giving details of that decision; and
 - (b) unless the sheriff on cause shown otherwise directs, be accompanied by any document issued by the Secretary of State to the parties intimating that decision.
 
-###### 33.6ZA. Averments where divorce sought on ground of issue of interim gender recognition certificate[^key-cf82ddca8e172b90676eefae589f92a3]
+###### 33.6ZA. Averments where divorce sought on ground of issue of interim gender recognition certificate[^c-cf82ddca8e172b90676eefae589f92a3]
 
 (1) This rule applies to an action of divorce in which divorce is sought on the ground that an interim gender recognition certificate has been issued to either party.
 
@@ -3494,7 +3494,7 @@ In a family action in which an order for aliment or periodical allowance is soug
   - (i) since the issue of the interim gender recognition certificate, the pursuer has made a statutory declaration consenting to the marriage continuing, and
   - (ii) the Gender Recognition Panel has given the pursuer notice of the issue of a full gender recognition certificate to the defender.
 
-###### 33.6A. Application by survivor for provision on intestacy[^key-2f89454cadc4bc201a1d68ff189ca92b]
+###### 33.6A. Application by survivor for provision on intestacy[^c-2f89454cadc4bc201a1d68ff189ca92b]
 
 (1) In an action for an order under section 29(2) of the Act of 2006 (application by survivor for provision on intestacy), the pursuer shall call the deceased’s executor as a defender.
 
@@ -3504,14 +3504,14 @@ In a family action in which an order for aliment or periodical allowance is soug
 
 ###### 33.7. Warrants and forms for intimation
 
-(1) Subject to[^c15190461] paragraph (5) and rule 33.7A (warrants and forms for intimation to a child and for seeking a child’s views)[^key-e59ef0d5de56eabae8ddece56be72844], in the initial writ in a family action, the pursuer shall include a crave for a warrant for intimation—
+(1) Subject to[^c15190461] paragraph (5) and rule 33.7A (warrants and forms for intimation to a child and for seeking a child’s views)[^c-e59ef0d5de56eabae8ddece56be72844], in the initial writ in a family action, the pursuer shall include a crave for a warrant for intimation—
 
 - (a) in an action where the address of the defender is not known to the pursuer and cannot reasonably be ascertained, to—
-  - (i) every person who is a child of the family (as defined in section 12(4)(a) of the Act of 1995)[^key-cd57b19b7532038d1b24b0a475e8b229] [^key-d1569eebde8f767386cdbee3573a376b]... who has reached the age of 16 years, and
+  - (i) every person who is a child of the family (as defined in section 12(4)(a) of the Act of 1995)[^c-cd57b19b7532038d1b24b0a475e8b229] [^c-d1569eebde8f767386cdbee3573a376b]... who has reached the age of 16 years, and
   - (ii) one of the next-of-kin of the defender who has reached that age,
 
   unless the address of such a person is not known to the pursuer and cannot reasonably be ascertained, and a notice of intimation in Form F1 shall be attached to the copy of the initial writ intimated to any such person;
-- (b) in an action of divorce[^key-e520494a7422f7db5d876e99340e80ba] where the pursuer alleges that the defender has committed adultery with another person, to that person, unless—
+- (b) in an action of divorce[^c-e520494a7422f7db5d876e99340e80ba] where the pursuer alleges that the defender has committed adultery with another person, to that person, unless—
   - (i) that person is not named in the initial writ and, if the adultery is relied on for the purposes of section 1(2)(a) of the Act of 1976 (irretrievable breakdown of marriage by reason of adultery), the initial writ contains an averment that his or her identity is not known to the pursuer and cannot reasonably be ascertained, or
   - (ii) the pursuer alleges that the defender has been guilty of rape upon or incest with, that named person,
 
@@ -3532,8 +3532,8 @@ In a family action in which an order for aliment or periodical allowance is soug
   - (ii) who, being a child of one party to the marriage, has been accepted as a child of the family by the other party to the marriage and who is liable to be maintained by a third party, to that third party, and a notice of intimation in Form F5 shall be attached to the initial writ intimated to that third party; or
   - (iii) in respect of whom a third party in fact exercises care or control[^c15190491], to that third party, and a notice of intimation in Form F6 shall be attached to the initial writ intimated to that third party;
 - (f) in an action where the pursuer craves a section 11 order[^c15190501], to any parent or guardian of the child who is not a party to the action, and a notice of intimation in Form F7 shall be attached to the initial writ intimated to any such parent or guardian;
-- (g)[^key-7475e3589f4c70d4905f5ebbd6be5979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-f8f6e1017fcd38e241c270930bc2879f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-7475e3589f4c70d4905f5ebbd6be5979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-f8f6e1017fcd38e241c270930bc2879f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) in an action where the pursuer makes an application for an order under section 8(1)(aa) of the [^c15190541]Act of 1985 (transfer of property) and—
   - (i) the consent of a third party to such a transfer is necessary by virtue of an obligation, enactment or rule of law, or
   - (ii) the property is subject to a security,
@@ -3549,13 +3549,13 @@ In a family action in which an order for aliment or periodical allowance is soug
   - (ii) where the application is under section 2(1)(e), 2(4)(a), 3(1), 3(2), 4, 7, 13 or 18 of that Act, and the entitled spouse or entitled partner is a tenant or occupies the matrimonial home by permission of a third party, to the landlord or the third party, as the case may be,
 
   and a notice of intimation in Form F12 shall be attached to the initial writ intimated to any such person ;[^M_F_ed5017ff-aa68-4302-d3be-42fa22b84530]
-- (l)[^c15190581] in an action where the pursuer makes an application for an order under section 8(1)(ba) of the [^c15190591]Act of 1985 (orders under section 12A of the Act of 1985 for pension lump sum), to the person responsible for the pension arrangement[^M_F_e6e3bfe1-b3b2-466d-873e-b62b3d7eb54d], and a notice of intimation in Form F12A shall be attached to the initial writ intimated to any such person. ;[^M_F_ee4bbf20-7462-4361-ea3e-8387700ffdb9] [^key-ec6094355f896597ed83a0fb03259b56]...
+- (l)[^c15190581] in an action where the pursuer makes an application for an order under section 8(1)(ba) of the [^c15190591]Act of 1985 (orders under section 12A of the Act of 1985 for pension lump sum), to the person responsible for the pension arrangement[^M_F_e6e3bfe1-b3b2-466d-873e-b62b3d7eb54d], and a notice of intimation in Form F12A shall be attached to the initial writ intimated to any such person. ;[^M_F_ee4bbf20-7462-4361-ea3e-8387700ffdb9] [^c-ec6094355f896597ed83a0fb03259b56]...
 - (m) in an action where a pursuer makes an application for an order under section 8(1)(baa) of the Act of 1985 (pension sharing orders), to the person responsible for the pension arrangement and a notice of intimation in Form F12B shall be attached to the initial writ intimated to any such person
-- (n)[^key-5829cb2b9693e0ca95118f7106226c7b] in an action where a pursuer makes an application for an order under section 8(1)(bab) of the Act of 1985 (pension compensation sharing order), to the Board of the Pension Protection Fund, and a notice of intimation in Form F12C shall be attached to the initial writ intimated to that Board; and
+- (n)[^c-5829cb2b9693e0ca95118f7106226c7b] in an action where a pursuer makes an application for an order under section 8(1)(bab) of the Act of 1985 (pension compensation sharing order), to the Board of the Pension Protection Fund, and a notice of intimation in Form F12C shall be attached to the initial writ intimated to that Board; and
 - (o) in an action where a pursuer makes an application for an order under section 8(1)(bb) of the Act of 1985 (an order under section 12B(2) of the Act of 1985 for pension compensation), to the Board of the Pension Protection Fund and a notice of intimation in Form F12D shall be attached to the initial writ intimated to that Board.
-- (p)[^key-c90d9f552d5fdadeb072b6b3bdf025d4] in an action where a pursuer makes an application for an order under section 29(2) of the Act of 2006 (application by survivor for provision on intestacy) to any person having an interest in the deceased’s net estate, and a notice of intimation in Form F12E shall be attached to the initial writ intimated to any such person.
+- (p)[^c-c90d9f552d5fdadeb072b6b3bdf025d4] in an action where a pursuer makes an application for an order under section 29(2) of the Act of 2006 (application by survivor for provision on intestacy) to any person having an interest in the deceased’s net estate, and a notice of intimation in Form F12E shall be attached to the initial writ intimated to any such person.
 
-(2)[^key-c2244f012255c6ed7e025b976dcc05b4] Expressions used in—
+(2)[^c-c2244f012255c6ed7e025b976dcc05b4] Expressions used in—
 
 - (a) paragraph (1)(k) which are also used in the Act of 1981; and
 - (b) paragraph (1)(p) which are also used in section 29 of the Act of 2006,
@@ -3564,15 +3564,15 @@ shall have the same meanings as in that Act or section, as the case may be.
 
 (3) A notice of intimation under paragraph (1) shall be on a period of notice of 21 days unless the sheriff otherwise orders; but the sheriff shall not order a period of notice of less than 2 days.
 
-(4)[^key-b2d231578803f6822af8a57f87cb491c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b2d231578803f6822af8a57f87cb491c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where the address of a person mentioned in paragraph (1)(b), (d), (e), (f), [^key-59b4ad8a0010e36e8c9ceb3ff03ee4dd]... (i), (j) , (k)[^c15190611] , (l)[^M_F_9ae2e8e4-f0c4-46aa-d58d-fe5515c7d56e] , (m) or (p)[^key-85f61fa737d5dfcc3922e533ee17511e] or a child mentioned in rule 33.7A(1)[^key-68d58e1a61491a3480fdeac832597918] is not known and cannot reasonably be ascertained, the pursuer shall include a crave in the initial writ to dispense with intimation; and the sheriff may grant that crave or make such other order as he thinks fit.
+(5) Where the address of a person mentioned in paragraph (1)(b), (d), (e), (f), [^c-59b4ad8a0010e36e8c9ceb3ff03ee4dd]... (i), (j) , (k)[^c15190611] , (l)[^M_F_9ae2e8e4-f0c4-46aa-d58d-fe5515c7d56e] , (m) or (p)[^c-85f61fa737d5dfcc3922e533ee17511e] or a child mentioned in rule 33.7A(1)[^c-68d58e1a61491a3480fdeac832597918] is not known and cannot reasonably be ascertained, the pursuer shall include a crave in the initial writ to dispense with intimation; and the sheriff may grant that crave or make such other order as he thinks fit.
 
 (6) Where the identity or address of a person to whom intimation of a family action is required becomes known during the course of the action, the party who would have been required to insert a warrant for intimation to that person shall lodge a motion for a warrant for intimation to that person or to dispense with such intimation.
 
-(7)[^key-2d4266e0b8de9e233fbd82a74cc2c425] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2d4266e0b8de9e233fbd82a74cc2c425] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 33.7A. Warrants and forms for intimation to a child and for seeking a child’s views[^key-9affbcd83a32a302905c48f78f45b4dc]
+###### 33.7A. Warrants and forms for intimation to a child and for seeking a child’s views[^c-9affbcd83a32a302905c48f78f45b4dc]
 
 (1) Subject to paragraph (2), in an action which includes a crave for a section 11 order in respect of a child who is not a party to the action, the pursuer must—
 
@@ -3614,13 +3614,13 @@ shall have the same meanings as in that Act or section, as the case may be.
 
 (4) In paragraph (1), “[^M_F_a10f10e2-2204-4498-da8a-800ad1ce3bbf]... association” means sodomy, incest or any homosexual relationship.
 
-###### 33.9. Productions in action of divorce or where a section 11 order or order for financial provision may be made[^key-60cf721ca53af0dc100af34140bf6066]
+###### 33.9. Productions in action of divorce or where a section 11 order or order for financial provision may be made[^c-60cf721ca53af0dc100af34140bf6066]
 
 Unless the sheriff otherwise directs—
 
 - (a) in an action of divorce or declarator of nullity of marriage[^M_F_cf7c966a-f269-463a-aed0-343625cbc0d6], a warrant for citation shall not be granted without there being produced with the initial writ an extract of the relevant entry in the register of marriages or an equivalent document; and
 - (b) in a family action which includes a crave for a section 11 order[^c15190641], a warrant for citation shall not be granted without there being produced with the initial writ an extract of the relevant entry in the register of births or an equivalent document.
-- (c)[^key-b02b89b27bb19b0bcf49f819fb28fe65] in an action which includes a crave for an order for financial provision, the pursuer must lodge a completed Form F13A signed by the pursuer with the initial writ or minute of amendment as the case may be.
+- (c)[^c-b02b89b27bb19b0bcf49f819fb28fe65] in an action which includes a crave for an order for financial provision, the pursuer must lodge a completed Form F13A signed by the pursuer with the initial writ or minute of amendment as the case may be.
 
 ###### 33.9A. Productions in action of divorce on ground of issue of interim gender recognition certificate[^c20678051]
 
@@ -3652,7 +3652,7 @@ The warrant of citation in a family action shall be in Form F14.
 
 (2) The certificate of citation shall be in Form F16 which shall be attached to the initial writ.
 
-###### 33.12. Intimation to local authority[^key-4a0f9e856d67a9247c6bb4b9d0bfc875]
+###### 33.12. Intimation to local authority[^c-4a0f9e856d67a9247c6bb4b9d0bfc875]
 
 (1) In any family action where the pursuer craves a residence order in respect of a child, the sheriff may, if the sheriff thinks fit, order intimation to the local authority in which area the pursuer resides; and such intimation shall be in Form F8.
 
@@ -3697,36 +3697,36 @@ as he thinks fit.
 
 ###### 33.15. Orders for intimation[^c15190731]
 
-(1) Except in relation to intimation to a child in Form F9, in any[^key-5646c2daca18c5642dda31545bc8ea41] family action, the sheriff may, at any time–
+(1) Except in relation to intimation to a child in Form F9, in any[^c-5646c2daca18c5642dda31545bc8ea41] family action, the sheriff may, at any time–
 
-- (a) [^key-aa78712273d386f96f28adb597896acc]... order intimation to be made on such person as he thinks fit;
+- (a) [^c-aa78712273d386f96f28adb597896acc]... order intimation to be made on such person as he thinks fit;
 - (b) postpone intimation, where he considers that such postponement is appropriate and, in that case, the sheriff shall make such order in respect of postponement of intimation as he thinks fit; or
 - (c) dispense with intimation, where he considers that such dispensation is appropriate.
 
-(2)[^key-3f9d0dcce871dae3092ecb76e42efd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3f9d0dcce871dae3092ecb76e42efd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a party makes a crave or averment in a family action which, had it been made in an initial writ, would have required a warrant for intimation under rule 33.7, that party shall include a crave in his writ for a warrant for intimation or to dispense with such intimation; and rule 33.7 shall, with the necessary modifications, apply to a crave for a warrant under this paragraph as it applies to a crave for a warrant under that rule.
 
 ###### 33.16. Appointment of curators ad litem to defenders
 
-(1) This rule applies to a family action[^key-18e1502b3687479859ec07beefd72757] where it appears to the court that the defender has[^key-5a15d74c9fdf4a8f79e4d23f1aaf2c91] a mental disorder.
+(1) This rule applies to a family action[^c-18e1502b3687479859ec07beefd72757] where it appears to the court that the defender has[^c-5a15d74c9fdf4a8f79e4d23f1aaf2c91] a mental disorder.
 
-(2) In an action to which this rule applies, the sheriff shall , after the expiry of the period for lodging a notice of intention to defend[^key-27be8814dc9d8100b1fd6e42a995e46b]—
+(2) In an action to which this rule applies, the sheriff shall , after the expiry of the period for lodging a notice of intention to defend[^c-27be8814dc9d8100b1fd6e42a995e46b]—
 
 - (a) appoint a curator ad litem to the defender;
-- (b)[^key-62627dbd8443bdb2e5ec1c5181830e1c] make an order requiring the curator *ad litem* to lodge in process a report, based on medical evidence, stating whether or not, in the opinion of a suitably qualified medical practitioner, the defender is incapable of instructing a solicitor to represent the defender’s interests.
+- (b)[^c-62627dbd8443bdb2e5ec1c5181830e1c] make an order requiring the curator *ad litem* to lodge in process a report, based on medical evidence, stating whether or not, in the opinion of a suitably qualified medical practitioner, the defender is incapable of instructing a solicitor to represent the defender’s interests.
 
 (3) Within 7 days after the appointment of a curator ad litem under paragraph (2)(a), the pursuer shall send to him—
 
 - (a) a copy of the initial writ and any defences (including any adjustments and amendments) lodged; and
-- (b) a copy of any notice[^c15190741] in Form G5A sent to the curator[^key-dff5352aae975827a885cd5f5c98342c] *ad litem* by the sheriff[^c15190751] clerk.
+- (b) a copy of any notice[^c15190741] in Form G5A sent to the curator[^c-dff5352aae975827a885cd5f5c98342c] *ad litem* by the sheriff[^c15190751] clerk.
 
-(4)[^key-40ebc16f9c61bc64173b74667fdc437a] On lodging a report under paragraph (2)(b), the curator *ad litem* must intimate that this has been done to—
+(4)[^c-40ebc16f9c61bc64173b74667fdc437a] On lodging a report under paragraph (2)(b), the curator *ad litem* must intimate that this has been done to—
 
 - (a) the pursuer; and
 - (b) the solicitor for the defender, if known.
 
-(5)[^key-a96360547e288f865cf3dbd9cf052af5] Within 14 days after the report required under paragraph (2)(b) has been lodged, the curator *ad litem* must lodge in process one of the writs mentioned in paragraph (6).
+(5)[^c-a96360547e288f865cf3dbd9cf052af5] Within 14 days after the report required under paragraph (2)(b) has been lodged, the curator *ad litem* must lodge in process one of the writs mentioned in paragraph (6).
 
 (6) The writs referred to in paragraph (5) are—
 
@@ -3737,7 +3737,7 @@ as he thinks fit.
 
 (7) Notwithstanding that he has lodged a minute stating that he does not intend to lodge defences, a curator ad litem may appear at any stage of the action to protect the interests of the defender.
 
-(8)[^key-f304c3376fcd56a586dc6be1381d2548] At such intervals as the curator *ad litem* considers reasonable having regard to the nature of the defender’s mental disorder, the curator *ad litem* must review whether there appears to have been any change in the defender’s capacity to instruct a solicitor, in order to ascertain whether it is appropriate for the appointment to continue.
+(8)[^c-f304c3376fcd56a586dc6be1381d2548] At such intervals as the curator *ad litem* considers reasonable having regard to the nature of the defender’s mental disorder, the curator *ad litem* must review whether there appears to have been any change in the defender’s capacity to instruct a solicitor, in order to ascertain whether it is appropriate for the appointment to continue.
 
 (8A) If it appears to the curator *ad litem* that the defender may no longer be incapable, the curator *ad litem* must by motion seek the sheriff’s permission to obtain an opinion on the matter from a suitably qualified medical practitioner.
 
@@ -3749,7 +3749,7 @@ as he thinks fit.
 
 - (a) he lodges a minute stating that he does not intend to lodge defences;
 - (b) he decides to instruct the lodging of defences or a minute adopting defences already lodged; or
-- (c) being satisfied after investigation that the defender is not incapable of instructing a solicitor[^key-87a81ed29d12b244e6567fb4973e6035], he is discharged.
+- (c) being satisfied after investigation that the defender is not incapable of instructing a solicitor[^c-87a81ed29d12b244e6567fb4973e6035], he is discharged.
 
 ###### 33.17. Applications for sist
 
@@ -3771,7 +3771,7 @@ An application for a sist, or the recall of a sist, under Schedule 3 to the [^c1
 
 (7) If a motion under paragraph (5) is granted and the sist is not recalled or renewed within a period of 6 months from the date of the interlocutor granting the sist, the pursuer shall be deemed to have abandoned the action and the action shall be dismissed.
 
-###### 33.19. Views of the child – undefended actions[^key-16dc8b81fa093423f93b9209552635d8]
+###### 33.19. Views of the child – undefended actions[^c-16dc8b81fa093423f93b9209552635d8]
 
 (1) This rule applies to undefended actions in which a section 11 order is sought and warrant has been granted for intimation and the seeking of the child’s views in Form F9.
 
@@ -3849,7 +3849,7 @@ the sheriff must not grant any order unless an opportunity has been given for th
 - (d) not be opened by any person other than a sheriff; and
 - (e) not form a borrowable part of the process.
 
-###### 33.21. Child welfare reporters[^key-76176cff5df6b1f419826ba693f9ba0c]
+###### 33.21. Child welfare reporters[^c-76176cff5df6b1f419826ba693f9ba0c]
 
 (1) At any stage of a family action the sheriff may, in relation to any matter affecting a child, appoint a person (referred to in this rule as a “child welfare reporter”)—
 
@@ -3865,8 +3865,8 @@ the sheriff must not grant any order unless an opportunity has been given for th
 
 - (a) specify a date by which the report is to be submitted to the court;
 - (b) include a direction as to the fees and outlays of the child welfare reporter;
-- (c) where the appointment is under paragraph (1)(a), specify the issues in respect of which the child’s views are to be sought and include a direction as to whether a copy of the report is to be provided to the parties under paragraph (9)(d)[^key-ea873dbf8f94db233ec10a7cf2afee82]; [^key-7d73b814576dad995dce57bcfbee06b5]...
-- (d) where the appointment is under paragraph (1)(b), specify the enquiries to be undertaken, and the issues requiring to be addressed in the report ; and[^key-bb67ed9a5bfbe25dd51ac1ade8906a66]
+- (c) where the appointment is under paragraph (1)(a), specify the issues in respect of which the child’s views are to be sought and include a direction as to whether a copy of the report is to be provided to the parties under paragraph (9)(d)[^c-ea873dbf8f94db233ec10a7cf2afee82]; [^c-7d73b814576dad995dce57bcfbee06b5]...
+- (d) where the appointment is under paragraph (1)(b), specify the enquiries to be undertaken, and the issues requiring to be addressed in the report ; and[^c-bb67ed9a5bfbe25dd51ac1ade8906a66]
 - (e) where the appointment is under paragraph (1)(b) and seeking the views of the child forms part of the enquiries to be undertaken, include a direction as to whether the views of the child should be recorded in a separate report and, if so, whether a copy of that report is to be provided to the parties under paragraph (9)(d).
 
 (4) An interlocutor complies with subparagraph (c) or (d) of paragraph (3) if the issues or, as the case may be the enquiries, referred to in that subparagraph are specified in an annex to the interlocutor in Form F44.
@@ -3928,7 +3928,7 @@ the sheriff must not grant any order unless an opportunity has been given for th
 - (a) send the report to the sheriff clerk; and
 - (b) unless otherwise directed by the sheriff, send a copy of the report to each party to the proceedings.
 
-###### 33.22. Referral to family mediation[^key-f803fc9fe88c717799d04e07cfa13b9c]
+###### 33.22. Referral to family mediation[^c-f803fc9fe88c717799d04e07cfa13b9c]
 
 (1) In any family action, where the sheriff considers it appropriate to do so, the sheriff may, at any stage of the action, refer the action, or part thereof, to a mediator accredited to a specified family mediation organisation.
 
@@ -3944,9 +3944,9 @@ the sheriff must not grant any order unless an opportunity has been given for th
 - (b) on the lodging of a notice of intention to defend in a family action, the defender seeks a section 11 order which is not craved by the pursuer, or
 - (c) in any other circumstances in a family action, the sheriff considers that a Child Welfare Hearing should be fixed and makes an order (whether at his own instance or on the motion of a party) that such a hearing shall be fixed,
 
-the sheriff clerk shall fix a date and time for a Child Welfare Hearing to be heard either at the same time as the Initial Case Management Hearing or[^key-4ec43faa74ab695ef946dfd01e0922e4] on the first suitable court date occurring not sooner than 21 days and not later than 49 days after the last date for lodging of the notice of intention to defend[^key-d8eb956375a55332832f98a59d9f83fe], unless the sheriff directs the hearing to be held on an earlier date.
+the sheriff clerk shall fix a date and time for a Child Welfare Hearing to be heard either at the same time as the Initial Case Management Hearing or[^c-4ec43faa74ab695ef946dfd01e0922e4] on the first suitable court date occurring not sooner than 21 days and not later than 49 days after the last date for lodging of the notice of intention to defend[^c-d8eb956375a55332832f98a59d9f83fe], unless the sheriff directs the hearing to be held on an earlier date.
 
-(2)[^key-de2c619e66179a030db4c811eb1f89e3] On fixing the date for the Child Welfare Hearing, the sheriff clerk must—
+(2)[^c-de2c619e66179a030db4c811eb1f89e3] On fixing the date for the Child Welfare Hearing, the sheriff clerk must—
 
 - (a) if the Child Welfare Hearing is to be heard at the same time as the Initial Case Management Hearing, intimate the date on which both hearings will take place to the parties in Form G5A; or
 - (b) if the Child Welfare Hearing is to be heard at a different time from the Initial Case Management Hearing, intimate the date of the Child Welfare Hearing to the parties in Form F41.
@@ -4002,8 +4002,8 @@ Where the sheriff, at his own instance[^c15190941] or on the motion of a party, 
 Where any parties have reached agreement in relation to—
 
 - (a) a section 11 order[^c15190981],
-- (b) aliment for a child, [^key-f7f880803c4e78c4f916deb0a5820d63]...
-- (c) an order for financial provision, or[^key-e82dabb3b8ef70c65f59a55d7ca38a2b]
+- (b) aliment for a child, [^c-f7f880803c4e78c4f916deb0a5820d63]...
+- (c) an order for financial provision, or[^c-e82dabb3b8ef70c65f59a55d7ca38a2b]
 - (d) an order under section 28 or 29 of the Act of 2006.
 
 a joint minute may be entered into expressing that agreement; and, subject to rule 33.19(3) (no order before views of child expressed),the sheriff[^c15190991] may grant decree in respect of those parts of the joint minute in relation to which he could otherwise make an order, whether or not such a decree would include a matter for which there was no crave.
@@ -4027,9 +4027,9 @@ An application under section 3A(1) (application for postponement of decree where
   - (ii) of affiliation and aliment;
   - (iii) for financial provision after an overseas divorce or annulment within the meaning of Part IV of the [^c15191041]Matrimonial and Family Proceedings Act 1984; or
   - (iv) for an order under the [^c15191051]Act of 1981;
-  - (v)[^key-b6fca02e83700f2cba9157c7b0e8c16a] for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of section 7(9) of the Domicile and Matrimonial Proceedings Act 1973;
-  - (vi)[^key-536fe25edae165f932285d34516d5243] for an order under section 28 or 29 of the Act of 2006;
-  - (vii)[^key-49905574763a159af2a94bf62c293d4d] for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of paragraph 1 of Schedule 1B to the Domicile and Matrimonial Proceedings Act 1973, or of a judgment to which paragraph 2(1)(b) of that Schedule refers.
+  - (v)[^c-b6fca02e83700f2cba9157c7b0e8c16a] for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of section 7(9) of the Domicile and Matrimonial Proceedings Act 1973;
+  - (vi)[^c-536fe25edae165f932285d34516d5243] for an order under section 28 or 29 of the Act of 2006;
+  - (vii)[^c-49905574763a159af2a94bf62c293d4d] for declarator of recognition, or non-recognition, of a relevant foreign decree within the meaning of paragraph 1 of Schedule 1B to the Domicile and Matrimonial Proceedings Act 1973, or of a judgment to which paragraph 2(1)(b) of that Schedule refers.
 - (b) applies to a family action in which a curator ad litem has been appointed under rule 33.16 where the curator ad litem to the defender has lodged a minute intimating that he does not intend to lodge defences;
 - (c) applies to any family action which proceeds at any stage as undefended where the sheriff so directs;
 - (d) applies to the merits of a family action which is undefended on the merits where the sheriff so directs, notwithstanding that the action is defended on an ancillary matter.
@@ -4072,7 +4072,7 @@ Other than rule 15.1(1),[^c15191081]Chapter 15 (motions) shall not apply to a fa
 
 ###### 33.33A. Late appearance and application for recall by defenders[^c20689981]
 
-(1) In a cause mentioned in rule 33.1(a) to[^key-cc0da8157f2efaf37f602d47a470087f] (g)[^key-8f8f93bb4d70e3ec61044dd50ea5b62f] or (n) to (q)[^key-e19bfc1e2ace55c55227394c765df6f4] or rule 33.7A(1) (warrants and forms for intimation to a child and for seeking a child’s views)[^key-97ae8a5b6533bd5d01f224f048c89eb6], the sheriff may, at any stage of the action before the granting of final decree, make an order with such conditions, if any, as he thinks fit–
+(1) In a cause mentioned in rule 33.1(a) to[^c-cc0da8157f2efaf37f602d47a470087f] (g)[^c-8f8f93bb4d70e3ec61044dd50ea5b62f] or (n) to (q)[^c-e19bfc1e2ace55c55227394c765df6f4] or rule 33.7A(1) (warrants and forms for intimation to a child and for seeking a child’s views)[^c-97ae8a5b6533bd5d01f224f048c89eb6], the sheriff may, at any stage of the action before the granting of final decree, make an order with such conditions, if any, as he thinks fit–
 
 - (a) directing that a defender who has not lodged a notice of intention to defend be treated as if he had lodged such a notice and the period of notice had expired on the date on which the order was made; or
 - (b) allowing a defender who has not lodged a notice of intention to defend to appear and be heard at a diet of proof although he has not lodged defences, but he shall not, in that event, be allowed to lead evidence without the pursuer's consent.
@@ -4083,7 +4083,7 @@ Other than rule 15.1(1),[^c15191081]Chapter 15 (motions) shall not apply to a fa
 
 (4) Where the sheriff makes an order under paragraph (3), the cause shall thereafter proceed as if the defender had lodged a notice of intention to defend and the period of notice had expired on the date on which the decree was recalled.
 
-(4A)[^key-d79c568f4cd3478835e9ada5fb6f1552] Where the sheriff makes an order under paragraph (1) or (3), the sheriff must order any steps to be taken that the sheriff considers appropriate to obtain or hear the views of the child in relation to any section 11 order sought by the defender.
+(4A)[^c-d79c568f4cd3478835e9ada5fb6f1552] Where the sheriff makes an order under paragraph (1) or (3), the sheriff must order any steps to be taken that the sheriff considers appropriate to obtain or hear the views of the child in relation to any section 11 order sought by the defender.
 
 (5) An application under paragraph (1) or (3) shall be made by note setting out the proposed defence and explaining the defender's failure to appear.
 
@@ -4093,7 +4093,7 @@ Other than rule 15.1(1),[^c15191081]Chapter 15 (motions) shall not apply to a fa
 
 ##### PART III — DEFENDED FAMILY ACTIONS
 
-###### 33.33B. General provisions[^key-8962e37596690d534e4f9cd530ca1958]
+###### 33.33B. General provisions[^c-8962e37596690d534e4f9cd530ca1958]
 
 (1) Chapters 9 (standard procedure in defended causes) and 10 (additional procedure) do not apply to a family action in which a notice of intention to defend has been lodged in accordance with rule 33.34 (notice of intention to defend and defences etc.).
 
@@ -4101,16 +4101,16 @@ Other than rule 15.1(1),[^c15191081]Chapter 15 (motions) shall not apply to a fa
 
 (3) The sheriff may, in exceptional circumstances, of the sheriff’s own motion or on the motion of a party, disapply any rule mentioned in this Part of this Chapter.
 
-###### 33.34. Notice of intention to defend and defences etc.[^key-61962b133316717dd5438e3cfbdc7f3c]
+###### 33.34. Notice of intention to defend and defences etc.[^c-61962b133316717dd5438e3cfbdc7f3c]
 
 (1) This rule applies where the defender in a family action seeks—
 
 - (a) to oppose any crave in the initial writ;
 - (b) to make a claim for—
   - (i) aliment;
-  - (ii) an order for financial provision within the meaning of section 8(3) of the Act of 1985; [^key-0285f1eb346c28beadba4beef6f92c98]...
-  - (iii) a section 11 order[^c15191111]; [^key-c65d488321c001d4f9b4ddbf65997f48]...
-  - (iv)[^key-f995070e6f90a56666b67cbd0b15f1e1] an order for financial provision under section 28 or 29 of the Family Law (Scotland) Act 2006; or
+  - (ii) an order for financial provision within the meaning of section 8(3) of the Act of 1985; [^c-0285f1eb346c28beadba4beef6f92c98]...
+  - (iii) a section 11 order[^c15191111]; [^c-c65d488321c001d4f9b4ddbf65997f48]...
+  - (iv)[^c-f995070e6f90a56666b67cbd0b15f1e1] an order for financial provision under section 28 or 29 of the Family Law (Scotland) Act 2006; or
 - (c) an order—
   - (i) under section 16(1)(b) or (3) of the [^c15191121]Act of 1985 (setting aside or varying agreement as to financial provision);
   - (ii) under section 18 of the Act of 1985 (which relates to avoidance transactions); or
@@ -4119,17 +4119,17 @@ Other than rule 15.1(1),[^c15191081]Chapter 15 (motions) shall not apply to a fa
 
 (2) In an action to which this rule applies, the defender shall—
 
-- (a) lodge a notice of intention to defend in Form F26 before the expiry of the period of notice and, at the same time, send a copy to the pursuer[^key-d34d0c5ca3de5cb65180d5eebca98549]; and
+- (a) lodge a notice of intention to defend in Form F26 before the expiry of the period of notice and, at the same time, send a copy to the pursuer[^c-d34d0c5ca3de5cb65180d5eebca98549]; and
 - (b) make any claim or seek any order referred to in paragraph (1), as the case may be, in those defences by setting out in his defences—
   - (i) craves;
   - (ii) averments in the answers to the condescendence in support of those craves; and
   - (iii) appropriate pleas-in-law.
 
-(3)[^key-882ba031631ccd9cd9568777a1257b61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-882ba031631ccd9cd9568777a1257b61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1bba0d103316af8d4a1ef44d4823f01b] Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii), the defender must lodge a completed Form F13A signed by the defender with the defences, minute of amendment or answers as the case may be.
+(4)[^c-1bba0d103316af8d4a1ef44d4823f01b] Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii), the defender must lodge a completed Form F13A signed by the defender with the defences, minute of amendment or answers as the case may be.
 
-(4A)[^key-1a8ee09b6bfa7ae9b559399d6b5f0ed4] Subject to paragraph (4B), where a defender intends to make an application for a section 11 order in respect of a child who is not a party to the action [^key-fd2b9029af811f925d0685ee2f681f5b]... the defender must—
+(4A)[^c-1a8ee09b6bfa7ae9b559399d6b5f0ed4] Subject to paragraph (4B), where a defender intends to make an application for a section 11 order in respect of a child who is not a party to the action [^c-fd2b9029af811f925d0685ee2f681f5b]... the defender must—
 
 - (a) include in the notice of intention to defend a crave for a warrant for intimation and the seeking of the child’s views in Form F9;
 - (b) when lodging the notice of intention to defend, submit a draft Form F9, showing the details that the defender proposes to include when the form is sent to the child.
@@ -4152,11 +4152,11 @@ Other than rule 15.1(1),[^c15191081]Chapter 15 (motions) shall not apply to a fa
 
 Notwithstanding abandonment by a pursuer, the court may allow a defender to pursue an order or claim sought in his defences; and the proceedings in relation to that order or claim shall continue in dependence as if a separate cause.
 
-###### 33.36. Attendance of parties at Case Management Hearings[^key-9e5beecd777f9916012759375c010550]
+###### 33.36. Attendance of parties at Case Management Hearings[^c-9e5beecd777f9916012759375c010550]
 
 All parties must, except on cause shown, attend personally case management hearings under rules 33.36J (Initial Case Management Hearing) and 33.36P (Full Case Management Hearing).
 
-###### 33.36A. Fixing of date and time for Initial Case Management Hearing[^key-a4e99b8cd65a18a8449ce32aa948150b]
+###### 33.36A. Fixing of date and time for Initial Case Management Hearing[^c-a4e99b8cd65a18a8449ce32aa948150b]
 
 (1) On the lodging of a notice of intention to defend under rule 33.34 (notice of intention to defend and defences etc.), the sheriff clerk must fix a date and time for an Initial Case Management Hearing which date must be on the first suitable court day occurring not sooner than 21 days and not later than 49 days after the last date for the lodging of the notice of intention to defend.
 
@@ -4435,8 +4435,8 @@ that party shall be in default.
 
 (2) Where a party is in default under paragraph (1), the sheriff may—
 
-- (a) where the family action is one mentioned in rule 33.1(a) to (h) or (n) to (p)[^key-ef5c27f558612e2712880461efa2067a], allow that action to proceed as undefended under Part II of this Chapter; or
-- (b) where the family action is one mentioned in rule 33.1(1)(i) to (m) or (q)[^key-274d7e5f619ac1f42a93fa8cd4d0f50a], grant decree as craved; or
+- (a) where the family action is one mentioned in rule 33.1(a) to (h) or (n) to (p)[^c-ef5c27f558612e2712880461efa2067a], allow that action to proceed as undefended under Part II of this Chapter; or
+- (b) where the family action is one mentioned in rule 33.1(1)(i) to (m) or (q)[^c-274d7e5f619ac1f42a93fa8cd4d0f50a], grant decree as craved; or
 - (c) grant decree of absolvitor; or
 - (d) dismiss the family action or any claim made or order sought; or[^c20732131]
 - (da)[^c20732171] make such other order as he thinks fit to secure the expeditious progress of the cause; and
@@ -4487,7 +4487,7 @@ shall be made by motion.
 
 (2) Where a minute has been lodged under paragraph (1), any party may apply by motion for any interim order which may be made pending the determination of the application.
 
-###### 33.44A. Warrants for intimation to child and permission to seek views[^key-f77dfc2115c9aa803462c6b710451fa5]
+###### 33.44A. Warrants for intimation to child and permission to seek views[^c-f77dfc2115c9aa803462c6b710451fa5]
 
 (1) Subject to paragraph (2), when lodging a minute under rule 14.3 (lodging of minutes) which includes a crave after final decree for, or the variation or recall of, a section 11 order in respect of a child who is not a party to the action, the minuter must—
 
@@ -4610,8 +4610,8 @@ An application for, or for the variation or recall of, an order for interim alim
   - (i) section 8(1) for periodical allowance,
   - (ii) section 12(1)(b) (payment of capital sum or transfer of property),
   - (iii) section 12(4) (variation of date or method of payment of capital sum or date of transfer of property), or
-  - (iv) section 13(4) (variation, recall, backdating or conversion of periodical allowance), [^key-0fb3e119d537c95e7c87699810e35e05]...
-  - (v)[^key-f738d3ed2e5a89917998c40c84dd54e0] section 14(1) (incidental orders), or
+  - (iv) section 13(4) (variation, recall, backdating or conversion of periodical allowance), [^c-0fb3e119d537c95e7c87699810e35e05]...
+  - (v)[^c-f738d3ed2e5a89917998c40c84dd54e0] section 14(1) (incidental orders), or
 - (b) after the grant or refusal of an application under—
   - (i) section 8(1) or 14(3) for an incidental order, or
   - (ii) section 14(4) (variation or recall of incidental order),
@@ -4623,8 +4623,8 @@ An application for, or for the variation or recall of, an order for interim alim
 (3)[^c15191321] An application under–
 
 - (a) paragraph (5) of section 12A of the Act of 1985 [^c15191331] (recall or variation of order in respect of a pension lump sum), [^c20669981]. . .
-- (b) paragraph (7) of that section (variation of order in respect of pension lump sum to substitute trustees or managers), [^key-7976dabe58052896cc033588340b6c1d]...[^c20670191]
-- (ba)[^key-ccc71ccc2f3a6bd0f62d1a73c58dfa14] section 12B(4) of the Act of 1985 (recall or variation of a capital sum order), or
+- (b) paragraph (7) of that section (variation of order in respect of pension lump sum to substitute trustees or managers), [^c-7976dabe58052896cc033588340b6c1d]...[^c20670191]
+- (ba)[^c-ccc71ccc2f3a6bd0f62d1a73c58dfa14] section 12B(4) of the Act of 1985 (recall or variation of a capital sum order), or
 - (c) section 28(10) or 48(9) of the Welfare Reform and Pensions Act 1999 [^c20670211],
 
 shall be made by minute in the process of the action to which the application relates.
@@ -4793,7 +4793,7 @@ An application, in an action depending before the sheriff to which this Part app
 
 (2) Where a minute has been lodged under paragraph (1), any party may apply by motion for an interim order pending the determination of the application.
 
-(3)[^key-0fe34870fb46d5bd9da3f303d2c06985] Rules 33.44A (warrants for intimation to child and permission to seek views) to 33.44D (views of the child – craves relating to a section 11 order sought by both minuter and respondent) apply (with the necessary modifications) to the seeking of the child’s views in relation to a minute lodged in accordance with this rule.
+(3)[^c-0fe34870fb46d5bd9da3f303d2c06985] Rules 33.44A (warrants for intimation to child and permission to seek views) to 33.44D (views of the child – craves relating to a section 11 order sought by both minuter and respondent) apply (with the necessary modifications) to the seeking of the child’s views in relation to a minute lodged in accordance with this rule.
 
 ###### 33.65A. Application for leave[^c20691531]
 
@@ -4933,7 +4933,7 @@ The applicant shall send a simplified divorce application to the sheriff clerk w
 (4)[^c15191651] The citation or intimation required by paragraph (2) shall be made–
 
 - (a) by the sheriff clerk by registered post or the first class recorded delivery service in accordance with rule 5.3 (postal service or intimation);
-- (b) on payment of an additional fee, by a sheriff officer in accordance with rule 5.4(1) to (4)[^key-430f976cd0e968877e77645a873f3ea7] (service within Scotland by sheriff officer); or
+- (b) on payment of an additional fee, by a sheriff officer in accordance with rule 5.4(1) to (4)[^c-430f976cd0e968877e77645a873f3ea7] (service within Scotland by sheriff officer); or
 - (c) where necessary, by the sheriff clerk in accordance with rule 5.5 (service on persons furth of Scotland).
 
 (5)[^c15191661] Where citation or intimation is made in accordance with paragraph (4)(c), the translation into an official language of the country in which service is to be executed required by rule 5.5(6) shall be provided by the party lodging the simplified divorce application.
@@ -4971,9 +4971,9 @@ Parole evidence shall not be given in a simplified divorce application.
 
 ###### 33.81. Appeals
 
-(1)[^key-071b56a76995576323977b234d44f07b] Any appeal against an interlocutor granting decree of divorce under rule 33.80 (decree) may be made, within 14 days after the date of decree, by sending a letter to the court giving reasons for the appeal.
+(1)[^c-071b56a76995576323977b234d44f07b] Any appeal against an interlocutor granting decree of divorce under rule 33.80 (decree) may be made, within 14 days after the date of decree, by sending a letter to the court giving reasons for the appeal.
 
-(2)[^key-5b7eb79becbc676f7386f646bda657ab] Within 4 days after receiving an appeal, the sheriff clerk must transmit to the Clerk of the Sheriff Appeal Court—
+(2)[^c-5b7eb79becbc676f7386f646bda657ab] Within 4 days after receiving an appeal, the sheriff clerk must transmit to the Clerk of the Sheriff Appeal Court—
 
 - (a) the appeal;
 - (b) all documents and productions in the simplified divorce application.
@@ -5023,7 +5023,7 @@ Any application to the court after decree of divorce has been granted in a simpl
 
 (1) Where decree has been granted or the cause otherwise disposed of—
 
-- (a) and the period for making[^key-9865ecae539f34c1b929dd0a716badda] an appeal has elapsed without an appeal being made[^key-b65f538ed534c04981cc6f8cbe142669], or
+- (a) and the period for making[^c-9865ecae539f34c1b929dd0a716badda] an appeal has elapsed without an appeal being made[^c-b65f538ed534c04981cc6f8cbe142669], or
 - (b) after the determination of the cause on any appeal,
 
 the sheriff clerk shall transmit to the Court of Session the sheriff court process and the documents from the process of the cause in the Court of Session which have been lodged in the sheriff court process.
@@ -5067,21 +5067,21 @@ The sheriff clerk shall, on receiving notification that a maintenance calculatio
 
 .
 
-###### 33.91A. Applications to recall or vary an interdict[^key-1b3373ebdcceea1bab02a1efed19eaae]
+###### 33.91A. Applications to recall or vary an interdict[^c-1b3373ebdcceea1bab02a1efed19eaae]
 
 An application under section 32L(11)(b) of the Act of 1991 (orders preventing avoidance) for the variation or recall of an order for interdict is to be made by minute in the process of the action to which the application relates.
 
-##### PART XIV — REFERRALS TO PRINCIPAL REPORTER[^key-46ac0a78197071f3665a7af5b6e752fb]
+##### PART XIV — REFERRALS TO PRINCIPAL REPORTER[^c-46ac0a78197071f3665a7af5b6e752fb]
 
-###### 33.92.[^key-46ac0a78197071f3665a7af5b6e752fb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-###### 33.93.[^key-46ac0a78197071f3665a7af5b6e752fb]
+###### 33.92.[^c-46ac0a78197071f3665a7af5b6e752fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 33.94.[^key-46ac0a78197071f3665a7af5b6e752fb]
+###### 33.93.[^c-46ac0a78197071f3665a7af5b6e752fb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 33.94.[^c-46ac0a78197071f3665a7af5b6e752fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -5089,11 +5089,11 @@ An application under section 32L(11)(b) of the Act of 1991 (orders preventing a
 
 **33.95.** Where the sheriff has made an order under section 13 of the Act of 1995 (awards of damages to children), an application by a person for an order by virtue of section 11(1)(d) of that Act (administration of child’s property) may be made in the process of the cause in which the order under section 13 of that Act was made.
 
-##### PART XVI — ACTION OF DECLARATOR OF RECOGNITION OR NON-RECOGNITION OF A FOREIGN DECREE[^key-aa62946ad0cd41e6c0dd7468f6cfa01a]
+##### PART XVI — ACTION OF DECLARATOR OF RECOGNITION OR NON-RECOGNITION OF A FOREIGN DECREE[^c-aa62946ad0cd41e6c0dd7468f6cfa01a]
 
 ###### 33.96. Action of declarator in relation to certain foreign decrees
 
-(1)[^key-52dd458802f77eb7885f6b82f90c5919] This rule applies to an action for declarator of recognition, or non-recognition, of a decree of divorce, nullity or separation granted outwith the United Kingdom, the Channel Islands or the Isle of Man.
+(1)[^c-52dd458802f77eb7885f6b82f90c5919] This rule applies to an action for declarator of recognition, or non-recognition, of a decree of divorce, nullity or separation granted outwith the United Kingdom, the Channel Islands or the Isle of Man.
 
 (2) In an action to which this rule applies, the pursuer shall state in the condescendence of the initial writ**—**
 
@@ -5150,7 +5150,7 @@ An application under section 32L(11)(b) of the Act of 1991 (orders preventing a
 - “**civil partnership**” has the meaning assigned in section 1(1) of the Act of 2004;
 - “**contact order**” has the meaning assigned in section 11(2)(d) of the Act of 1995;
 - “**Gender Recognition Panel**” is to be construed in accordance with Schedule 1 to the Gender Recognition Act 2004 [^c20677621];
-- “incapable” means incapable, by reason of mental disorder, of—[^key-6344fff3c982be0f43c7514b7c8e4573]
+- “incapable” means incapable, by reason of mental disorder, of—[^c-6344fff3c982be0f43c7514b7c8e4573]
   - (a) acting;
   - (b) making decisions;
   - (c) communicating decisions;
@@ -5253,7 +5253,7 @@ In a civil partnership action in which an order for aliment or periodical allowa
 
 ###### 33A.7. Warrants and forms for intimation
 
-(1) Subject to paragraph (5) and rule[^key-2f45954e653399aed3c7cfaeaf4d4bfc] 33A.7A (warrants and forms for intimation to a child and for seeking a child’s views), in the initial writ in a civil partnership action, the pursuer shall include a crave for a warrant for intimation–
+(1) Subject to paragraph (5) and rule[^c-2f45954e653399aed3c7cfaeaf4d4bfc] 33A.7A (warrants and forms for intimation to a child and for seeking a child’s views), in the initial writ in a civil partnership action, the pursuer shall include a crave for a warrant for intimation–
 
 - (a) in an action where the address of the defender is not known to the pursuer and cannot reasonably be ascertained, to–
   - (i) every person who was a child of the family (within the meaning of section 101(7) of the Act of 2004) and who has reached the age of 16 years, and
@@ -5270,8 +5270,8 @@ In a civil partnership action in which an order for aliment or periodical allowa
   - (ii) who, being a child of one party to the civil partnership, has been accepted as a child of the family by the other party to the civil partnership and who is liable to be maintained by a third party, to that third party, and a notice of intimation in Form CP3 shall be attached to the initial writ intimated to that third party; or
   - (iii) in respect of whom a third party in fact exercises care or control, to that third party, and a notice of intimation in Form CP4 shall be attached to the initial writ intimated to that third party;
 - (d) in an action where the pursuer craves a section 11 order, to any parent or guardian of the child who is not a party to the action, and a notice of intimation in Form CP5 shall be attached to the initial writ intimated to any such parent or guardian;
-- (e)[^key-94dddc36811453c2c341df9bc903bf68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-83e68fd052c23d33341a9171c13317cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-94dddc36811453c2c341df9bc903bf68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-83e68fd052c23d33341a9171c13317cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) in an action where the pursuer makes an application for an order under section 8(1)(aa) of the Act of 1985 [^c20677701] (transfer of property) and–
   - (i) the consent of a third party to such a transfer is necessary by virtue of an obligation, enactment or rule of law, or
   - (ii) the property is subject to a security,
@@ -5283,24 +5283,24 @@ In a civil partnership action in which an order for aliment or periodical allowa
 
   and a notice of intimation in Form CP9 shall be attached to the initial writ intimated to any such person;
 - (i) in an action where the pursuer makes an application for an order under Chapter 3 of Part 3 of the Act of 2004, where the application is under section 102(1)(e), 102(4)(a), 103(1), 103(2), 104, 107 or 112 of that Act, and the entitled civil partner is a tenant or occupies the family home by permission of a third party, to the landlord or the third party, as the case may be and a notice of intimation in Form CP10 shall be attached to the initial writ intimated to any such person;
-- (j) in an action where the pursuer makes an application for an order under section 8(1)(ba) of the Act of 1985 [^c20677711] (orders under section 12A of the Act of 1985 for pension lump sum), to the person responsible for the pension arrangement, and a notice of intimation in Form CP11 shall be attached to the initial writ intimated to any such person; [^key-b888ad5c2f24bfcd315371720b626d10]...
+- (j) in an action where the pursuer makes an application for an order under section 8(1)(ba) of the Act of 1985 [^c20677711] (orders under section 12A of the Act of 1985 for pension lump sum), to the person responsible for the pension arrangement, and a notice of intimation in Form CP11 shall be attached to the initial writ intimated to any such person; [^c-b888ad5c2f24bfcd315371720b626d10]...
 - (k) in an action where a pursuer makes an application for an order under section 8(1)(baa) of the Act of 1985 [^c20677721] (pension sharing orders), to the person responsible for the pension arrangement and a notice of intimation in Form CP12 shall be attached to the initial writ intimated to any such person.
-- (l)[^key-b6b6dfdb2b073fa1ea04c85eca39248b] in an action where a pursuer makes an application for an order under section 8(1)(bab) of the Act of 1985 (pension compensation sharing order), to the Board of the Pension Protection Fund, and a notice of intimation in Form CP12A shall be attached to the initial writ intimated to that Board; and
+- (l)[^c-b6b6dfdb2b073fa1ea04c85eca39248b] in an action where a pursuer makes an application for an order under section 8(1)(bab) of the Act of 1985 (pension compensation sharing order), to the Board of the Pension Protection Fund, and a notice of intimation in Form CP12A shall be attached to the initial writ intimated to that Board; and
 - (m) in an action where a pursuer makes an application for an order under section 8(1)(bb) of the Act of 1985 (an order under section 12B(2) of the Act of 1985 for pension compensation), to the Board of the Pension Protection Fund and a notice of intimation in Form CP12B shall be attached to the initial writ intimated to that Board.
 
 (2) Expressions used in paragraph (1)(i) which are also used in Chapter 3 of Part 3 of the Act of 2004 have the same meaning as in that Chapter.
 
 (3) A notice of intimation under paragraph (1) shall be on a period of notice of 21 days unless the sheriff otherwise orders; but the sheriff shall not order a period of notice of less than 2 days.
 
-(4)[^key-0fab2337430599cba370165ace47708a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0fab2337430599cba370165ace47708a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where the address of a person mentioned in paragraph (1)(c), (d), [^key-009c827b0edd5cc37f7210df95190efb]... (g), (h), (i), (j) or (k) or a child mentioned in rule 33A.7A(1)[^key-d88d92337c4eea872c3ab25312a41022] is not known and cannot reasonably be ascertained, the pursuer shall include a crave in the initial writ to dispense with intimation; and the sheriff may grant that crave or make such other order as he thinks fit.
+(5) Where the address of a person mentioned in paragraph (1)(c), (d), [^c-009c827b0edd5cc37f7210df95190efb]... (g), (h), (i), (j) or (k) or a child mentioned in rule 33A.7A(1)[^c-d88d92337c4eea872c3ab25312a41022] is not known and cannot reasonably be ascertained, the pursuer shall include a crave in the initial writ to dispense with intimation; and the sheriff may grant that crave or make such other order as he thinks fit.
 
 (6) Where the identity or address of a person to whom intimation of a civil partnership action is required becomes known during the course of the action, the party who would have been required to insert a warrant for intimation to that person shall lodge a motion for a warrant for intimation to that person or to dispense with such intimation.
 
-(7)[^key-3f06792253b80960e3693cd5ad8eb9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3f06792253b80960e3693cd5ad8eb9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 33A.7A. Warrants and forms for intimation to a child and for seeking a child’s views[^key-03f1f9270abdd81c76add6f92052d88d]
+###### 33A.7A. Warrants and forms for intimation to a child and for seeking a child’s views[^c-03f1f9270abdd81c76add6f92052d88d]
 
 (1) Subject to paragraph (2), in an action which includes a crave for a section 11 order in respect of a child who is not a party to the action, the pursuer must—
 
@@ -5342,7 +5342,7 @@ In a civil partnership action in which an order for aliment or periodical allowa
 
 (4) In paragraph (1), “**association**” means sodomy, incest, or any homosexual or heterosexual relationship.
 
-###### 33A.9. Productions in action of dissolution of civil partnership or where a section 11 order or order for financial provision may be made[^key-f6606af337516a4174db54871d73469b]
+###### 33A.9. Productions in action of dissolution of civil partnership or where a section 11 order or order for financial provision may be made[^c-f6606af337516a4174db54871d73469b]
 
 (1) This rule applies unless the sheriff directs otherwise.
 
@@ -5357,7 +5357,7 @@ In a civil partnership action in which an order for aliment or periodical allowa
 
 (4) For the purposes of this rule, a certified copy of an interim gender recognition certificate shall be a copy of that certificate sealed with the seal of the Gender Recognition Panels and certified to be a true copy by an officer authorised by the President of Gender Recognition Panels.
 
-(5)[^key-35445fb6e807d17122f5f9d87db6e556] In a civil partnership action which includes a crave for an order for financial provision, the pursuer must lodge a completed Form CP13A signed by the pursuer with the initial writ or minute of amendment as the case may be.
+(5)[^c-35445fb6e807d17122f5f9d87db6e556] In a civil partnership action which includes a crave for an order for financial provision, the pursuer must lodge a completed Form CP13A signed by the pursuer with the initial writ or minute of amendment as the case may be.
 
 ###### 33A.10. Warrant of citation
 
@@ -5369,7 +5369,7 @@ The warrant of citation in a civil partnership action shall be in Form CP14.
 
 (2) The certificate of citation shall be in Form CP17 which shall be attached to the initial writ.
 
-###### 33A.12. Intimation to local authority[^key-85f68e37e9a5867fcbf635c16887dba5]
+###### 33A.12. Intimation to local authority[^c-85f68e37e9a5867fcbf635c16887dba5]
 
 (1) In any civil partnership action where the pursuer craves a residence order in respect of a child, the sheriff may, if the sheriff thinks fit, order intimation to the local authority in which area the pursuer resides; and such intimation shall be in Form CP6.
 
@@ -5414,36 +5414,36 @@ as he thinks fit.
 
 ###### 33A.15. Orders for intimation
 
-(1) Except in relation to intimation to a child in Form F9, in any[^key-afa5fb9876e37cf41ca0499dba6bd700] civil partnership action, the sheriff may, at any time–
+(1) Except in relation to intimation to a child in Form F9, in any[^c-afa5fb9876e37cf41ca0499dba6bd700] civil partnership action, the sheriff may, at any time–
 
-- (a) [^key-d788a911779d82372272d27ef11cc09e]... order intimation to be made on such person as he thinks fit;
+- (a) [^c-d788a911779d82372272d27ef11cc09e]... order intimation to be made on such person as he thinks fit;
 - (b) postpone intimation, where he considers that such postponement is appropriate and, in that case, the sheriff shall make such order in respect of postponement of intimation as he thinks fit; or
 - (c) dispense with intimation, where he considers that such dispensation is appropriate.
 
-(2)[^key-75bee56d27c79be0fb51528327686687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-75bee56d27c79be0fb51528327686687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a party makes a crave or averment in a civil partnership action which, had it been made in an initial writ, would have required a warrant for intimation under rule 33.7, that party shall include a crave in his writ for a warrant for intimation or to dispense with such intimation; and rule 33A.7 shall, with the necessary modifications, apply to a crave for a warrant under this paragraph as it applies to a crave for a warrant under that rule.
 
 ###### 33A.16. Appointment of curators ad litem to defenders
 
-(1) This rule applies to a civil partnership action[^key-4a5a1358ad45ccae6eabd28f96944438] where it appears to the court that the defender has[^key-6f13ace3a9088a99a18b49de8b4d3d29] a mental disorder.
+(1) This rule applies to a civil partnership action[^c-4a5a1358ad45ccae6eabd28f96944438] where it appears to the court that the defender has[^c-6f13ace3a9088a99a18b49de8b4d3d29] a mental disorder.
 
-(2) In an action to which this rule applies, the sheriff shall , after the expiry of the period for lodging a notice of intention to defend[^key-34e8db836caec12be3e80aeb90cab862]–
+(2) In an action to which this rule applies, the sheriff shall , after the expiry of the period for lodging a notice of intention to defend[^c-34e8db836caec12be3e80aeb90cab862]–
 
 - (a) appoint a curator *ad litem* to the defender;
-- (b)[^key-577da0487ce69ae8908a77bb49d574be] make an order requiring the curator *ad litem* to lodge in process a report, based on medical evidence, stating whether or not, in the opinion of a suitably qualified medical practitioner, the defender is incapable of instructing a solicitor to represent the defender’s interests.
+- (b)[^c-577da0487ce69ae8908a77bb49d574be] make an order requiring the curator *ad litem* to lodge in process a report, based on medical evidence, stating whether or not, in the opinion of a suitably qualified medical practitioner, the defender is incapable of instructing a solicitor to represent the defender’s interests.
 
 (3) Within 7 days after the appointment of a curator *ad litem* under paragraph (2)(a), the pursuer shall send to him—
 
 - (a) a copy of the initial writ and any defences (including any adjustments and amendments) lodged; and
-- (b) a copy of any notice in Form G5A sent to the[^key-f0800007354bc48b1442ab5eb52059a5] *curator ad litem* by the sheriff clerk.
+- (b) a copy of any notice in Form G5A sent to the[^c-f0800007354bc48b1442ab5eb52059a5] *curator ad litem* by the sheriff clerk.
 
-(4)[^key-9b077bfd45e06f38b4acd988575233db] On lodging a report under paragraph (2)(b), the curator *ad litem* must intimate that this has been done to—
+(4)[^c-9b077bfd45e06f38b4acd988575233db] On lodging a report under paragraph (2)(b), the curator *ad litem* must intimate that this has been done to—
 
 - (a) the pursuer; and
 - (b) the solicitor for the defender, if known.
 
-(5)[^key-daa5e8ecb7d51e07ccbc9638f56c9b62] Within 14 days after the report required under paragraph (2)(b) has been lodged, the curator *ad litem* must lodge in process one of the writs mentioned in paragraph (6).
+(5)[^c-daa5e8ecb7d51e07ccbc9638f56c9b62] Within 14 days after the report required under paragraph (2)(b) has been lodged, the curator *ad litem* must lodge in process one of the writs mentioned in paragraph (6).
 
 (6) The writs referred to in paragraph (5) are–
 
@@ -5454,7 +5454,7 @@ as he thinks fit.
 
 (7) Notwithstanding that he has lodged a minute stating that he does not intend to lodge defences, a curator *ad litem* may appear at any stage of the action to protect the interests of the defender.
 
-(8)[^key-0b2cb0b10a5e479eae698c37cbb54e60] At such intervals as the curator *ad litem* considers reasonable having regard to the nature of the defender’s mental disorder, the curator *ad litem* must review the defender’s capacity to instruct a solicitor, in order to ascertain whether it is appropriate for the appointment to continue.
+(8)[^c-0b2cb0b10a5e479eae698c37cbb54e60] At such intervals as the curator *ad litem* considers reasonable having regard to the nature of the defender’s mental disorder, the curator *ad litem* must review the defender’s capacity to instruct a solicitor, in order to ascertain whether it is appropriate for the appointment to continue.
 
 (8A) If it appears to the curator *ad litem* that the defender may no longer be incapable, the curator *ad litem* must by motion seek the sheriff’s permission to obtain an opinion on the matter from a suitably qualified medical practitioner.
 
@@ -5466,7 +5466,7 @@ as he thinks fit.
 
 - (a) he lodges a minute stating that he does not intend to lodge defences;
 - (b) he decides to instruct the lodging of defences or a minute adopting defences already lodged; or
-- (c) being satisfied after investigation that the defender is not incapable of instructing a solicitor[^key-ededef017bbfd3aa3edbf83484e4c228], he is discharged.
+- (c) being satisfied after investigation that the defender is not incapable of instructing a solicitor[^c-ededef017bbfd3aa3edbf83484e4c228], he is discharged.
 
 ###### 33A.17. Applications for sist
 
@@ -5488,7 +5488,7 @@ An application for a sist, or the recall of a sist, under Part XIII of this Chap
 
 (7) If a motion under paragraph (5) is granted and the sist is not recalled or renewed within a period of 6 months from the date of the interlocutor granting the sist, the pursuer shall be deemed to have abandoned the action and the action shall be dismissed.
 
-###### 33A.19. Views of the child – undefended actions[^key-7e179ac212428670704a8cf2a29d2fbb]
+###### 33A.19. Views of the child – undefended actions[^c-7e179ac212428670704a8cf2a29d2fbb]
 
 (1) This rule applies to undefended actions in which a section 11 order is sought and warrant has been granted for intimation and the seeking of the child’s views in Form F9.
 
@@ -5566,7 +5566,7 @@ the sheriff must not grant any order unless an opportunity has been given for th
 - (d) not be opened by any person other than a sheriff; and
 - (e) not form a borrowable part of the process.
 
-###### 33A.21. Child welfare reporters[^key-08d73953ccb5368701a8847544e92b29]
+###### 33A.21. Child welfare reporters[^c-08d73953ccb5368701a8847544e92b29]
 
 (1) At any stage of a civil partnership action the sheriff may, in relation to any matter affecting a child, appoint a person (referred to in this rule as a “child welfare reporter”)—
 
@@ -5582,15 +5582,15 @@ the sheriff must not grant any order unless an opportunity has been given for th
 
 - (a) specify a date by which the report is to be submitted to the court;
 - (b) include a direction as to the fees and outlays of the child welfare reporter;
-- (c) where the appointment is under paragraph (1)(a), specify the issues in respect of which the child’s views are to be sought and include a direction as to whether a copy of the report is to be provided to the parties under paragraph (9)(d)[^key-29eaa928bd18739e78fbb4c6a76299f0]; [^key-86277ac885ed18646f1ea3d223ed06eb]...
-- (d) where the appointment is under paragraph (1)(b), specify the enquiries to be undertaken, and the issues requiring to be addressed in the report ; and[^key-6a575e99d87bfef525626acd0364806b]
+- (c) where the appointment is under paragraph (1)(a), specify the issues in respect of which the child’s views are to be sought and include a direction as to whether a copy of the report is to be provided to the parties under paragraph (9)(d)[^c-29eaa928bd18739e78fbb4c6a76299f0]; [^c-86277ac885ed18646f1ea3d223ed06eb]...
+- (d) where the appointment is under paragraph (1)(b), specify the enquiries to be undertaken, and the issues requiring to be addressed in the report ; and[^c-6a575e99d87bfef525626acd0364806b]
 - (e) where the appointment is under paragraph (1)(b) and seeking the views of the child forms part of the enquiries to be undertaken, include a direction as to whether the views of the child should be recorded in a separate report and, if so, whether a copy of that report is to be provided to the parties under paragraph (9)(d).
 
 (4) An interlocutor complies with subparagraph (c) or (d) of paragraph (3) if the issues or, as the case may be the enquiries, referred to in that subparagraph are specified in an annex to the interlocutor in Form CP38.
 
 (5) Where the sheriff has appointed a child welfare reporter with a view to the report being considered at an assigned hearing, the date specified in accordance with paragraph (3)(a) must be a date no less than three clear days before that hearing, excluding any day on which the sheriff clerk’s office is not open for civil court business, unless cause exists for specifying a later date.
 
-(6) On appointing a child welfare reporter[^key-0a8b506ed7eb8137fe6c973fa45037c1] the sheriff may also—
+(6) On appointing a child welfare reporter[^c-0a8b506ed7eb8137fe6c973fa45037c1] the sheriff may also—
 
 - (a) make such further order as may be required to facilitate the discharge of the child welfare reporter’s functions;
 - (b) direct that a party to the proceedings is to be responsible for providing the child welfare reporter with copies of such documents lodged in the process as may be specified; and
@@ -5645,7 +5645,7 @@ the sheriff must not grant any order unless an opportunity has been given for th
 - (a) send the report to the sheriff clerk; and
 - (b) unless otherwise directed by the sheriff, send a copy of the report to each party to the proceedings.
 
-###### 33A.22. Referral to family mediation[^key-53c91bed368d201e6e1322d66864a8ac]
+###### 33A.22. Referral to family mediation[^c-53c91bed368d201e6e1322d66864a8ac]
 
 (1) In any civil partnership action, where the sheriff considers it appropriate to do so the sheriff may, at any stage of the action, refer the action, or part thereof, to a mediator accredited to a specified family mediation organisation.
 
@@ -5661,9 +5661,9 @@ the sheriff must not grant any order unless an opportunity has been given for th
 - (b) on the lodging of a notice of intention to defend in a civil partnership action, the defender seeks a section 11 order which is not craved by the pursuer, or
 - (c) in any other circumstances in a civil partnership action, the sheriff considers that a Child Welfare Hearing should be fixed and makes an order (whether at his own instance or on the motion of a party) that such a hearing shall be fixed,
 
-the sheriff clerk shall fix a date and time for a Child Welfare Hearing to be heard either at the same time as the Initial Case Management Hearing or[^key-bcca8008afd392783ec603e1a03579dd] on the first suitable court date occurring not sooner than 21 days and not later than 49 days after the last date for lodging of the notice of intention to defend[^key-c8742d6eef416fb6402d3f54d391d478], unless the sheriff directs the hearing to be held on an earlier date.
+the sheriff clerk shall fix a date and time for a Child Welfare Hearing to be heard either at the same time as the Initial Case Management Hearing or[^c-bcca8008afd392783ec603e1a03579dd] on the first suitable court date occurring not sooner than 21 days and not later than 49 days after the last date for lodging of the notice of intention to defend[^c-c8742d6eef416fb6402d3f54d391d478], unless the sheriff directs the hearing to be held on an earlier date.
 
-(2)[^key-1ff542ac4c0e6279337a13cf27a45aa0] On fixing the date for the Child Welfare Hearing the sheriff clerk must—
+(2)[^c-1ff542ac4c0e6279337a13cf27a45aa0] On fixing the date for the Child Welfare Hearing the sheriff clerk must—
 
 - (a) if the Child Welfare Hearing is to be heard at the same time as the Initial Case Management Hearing, intimate the date on which both hearings will take place to parties in Form G5A; or
 - (b) if the Child Welfare Hearing is to be heard at a different time from the Initial Case Management Hearing, intimate the date of the Child Welfare Hearing to parties in Form F41.
@@ -5781,7 +5781,7 @@ Other than rule 15.1(1), Chapter 15 (motions) shall not apply to a civil partner
 
 (4) Where the sheriff makes an order under paragraph (3), the cause shall thereafter proceed as if the defender had lodged a notice of intention to defend and the period of notice had expired on the date on which the decree was recalled.
 
-(4A)[^key-8704f6b72ecc62b9cfd4cb4cc022cf86] Where the sheriff makes an order under paragraph (1) or (3), the sheriff must order any steps to be taken that the sheriff considers appropriate to obtain or hear the views of the child in relation to any section 11 order sought by the defender.
+(4A)[^c-8704f6b72ecc62b9cfd4cb4cc022cf86] Where the sheriff makes an order under paragraph (1) or (3), the sheriff must order any steps to be taken that the sheriff considers appropriate to obtain or hear the views of the child in relation to any section 11 order sought by the defender.
 
 (5) An application under paragraph (1) or (3) shall be made by note setting out the proposed defence and explaining the defender's failure to appear.
 
@@ -5791,7 +5791,7 @@ Other than rule 15.1(1), Chapter 15 (motions) shall not apply to a civil partner
 
 ##### PART III — DEFENDED CIVIL PARTNERSHIP ACTIONS
 
-###### 33A.33B. General provisions[^key-0e506d62f738cdfed14b7cc18caa239c]
+###### 33A.33B. General provisions[^c-0e506d62f738cdfed14b7cc18caa239c]
 
 (1) Chapters 9 (standard procedure in defended causes) and 10 (additional procedure) do not apply to a civil partnership action in which a notice of intention to defend has been lodged in accordance with rule 33A.34 (notice of intention to defend and defences etc.).
 
@@ -5799,7 +5799,7 @@ Other than rule 15.1(1), Chapter 15 (motions) shall not apply to a civil partner
 
 (3) The sheriff may, in exceptional circumstances, of the sheriff’s own motion or on the motion of a party, disapply any rule mentioned in this Part of this Chapter.
 
-###### 33A.34. Notice of intention to defend and defences etc.[^key-4db1438a3d6b7f09d77e98202f00c300]
+###### 33A.34. Notice of intention to defend and defences etc.[^c-4db1438a3d6b7f09d77e98202f00c300]
 
 (1) This rule applies where the defender in a civil partnership action seeks–
 
@@ -5816,17 +5816,17 @@ Other than rule 15.1(1), Chapter 15 (motions) shall not apply to a civil partner
 
 (2) In an action to which this rule applies, the defender shall–
 
-- (a) lodge a notice of intention to defend in Form CP16 before the expiry of the period of notice and, at the same time, send a copy to the pursuer[^key-5a13dab8b164a1a6f7abfb47701a5977]; and
+- (a) lodge a notice of intention to defend in Form CP16 before the expiry of the period of notice and, at the same time, send a copy to the pursuer[^c-5a13dab8b164a1a6f7abfb47701a5977]; and
 - (b) make any claim or seek any order referred to in paragraph (1), as the case may be, in those defences by setting out in his defences–
   - (i) craves;
   - (ii) averments in the answers to the condescendence in support of those craves; and
   - (iii) appropriate pleas-in-law.
 
-(3)[^key-bab28b0cb4a93657f7fffe68a21633f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bab28b0cb4a93657f7fffe68a21633f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e141c4ca46dce64eae2490974ee05969] Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii), the defender must lodge a completed Form CP13A signed by the defender with the defences, minute of amendment or answers as the case may be.
+(4)[^c-e141c4ca46dce64eae2490974ee05969] Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii), the defender must lodge a completed Form CP13A signed by the defender with the defences, minute of amendment or answers as the case may be.
 
-(4A)[^key-3981ae2e109c71f2bdb716bb291fd35d] Subject to paragraph (4B), where a defender intends to make an application for a section 11 order in respect of a child who is not a party to the action [^key-4df70be6414604eb9910f7453d7dfc2f]... the defender must—
+(4A)[^c-3981ae2e109c71f2bdb716bb291fd35d] Subject to paragraph (4B), where a defender intends to make an application for a section 11 order in respect of a child who is not a party to the action [^c-4df70be6414604eb9910f7453d7dfc2f]... the defender must—
 
 - (a) include in the notice of intention to defend a crave for a warrant for intimation and the seeking of the child’s views in Form F9;
 - (b) when lodging the notice of intention to defend, submit a draft Form F9, showing the details that the defender proposes to include when the form is sent to the child.
@@ -5849,11 +5849,11 @@ Other than rule 15.1(1), Chapter 15 (motions) shall not apply to a civil partner
 
 Notwithstanding abandonment by a pursuer of a civil partnership action, the court may allow a defender to pursue an order or claim sought in his defences; and the proceedings in relation to that order or claim shall continue in dependence as if a separate cause.
 
-###### 33A.36. Attendance of parties at Case Management Hearings[^key-68752ae25cc03f190747ff1702d7ae66]
+###### 33A.36. Attendance of parties at Case Management Hearings[^c-68752ae25cc03f190747ff1702d7ae66]
 
 All parties must, except on cause shown, attend personally case management hearings under rules 33A.36J (Initial Case Management Hearing) and 33A.36P (Full Case Management Hearing).
 
-###### 33A.36A. Fixing of date and time for Initial Case Management Hearing[^key-9c9aefb198b438b0313b902e74b00d70]
+###### 33A.36A. Fixing of date and time for Initial Case Management Hearing[^c-9c9aefb198b438b0313b902e74b00d70]
 
 (1) On the lodging of a notice of intention to defend under rule 33A.34 (notice of intention to defend and defences etc.) the sheriff clerk must fix a date and time for an Initial Case Management Hearing which date must be on the first suitable court day occurring not sooner than 21 days and not later than 49 days after the last date for the lodging of the notice of intention to defend.
 
@@ -6176,7 +6176,7 @@ shall be made by motion.
 
 (2) Where a minute has been lodged under paragraph (1), any party may apply by motion for any interim order which may be made pending the determination of the application.
 
-###### 33A.41A. Warrants for intimation to child and permission to seek views[^key-38663f6cf5b768904921f291893331a3]
+###### 33A.41A. Warrants for intimation to child and permission to seek views[^c-38663f6cf5b768904921f291893331a3]
 
 (1) Subject to paragraph (2), when lodging a minute under rule 14.3 (lodging of minutes) which includes a crave after final decree for, or the variation or recall of, a section 11 order in respect of a child who is not a party to the action, the minuter must—
 
@@ -6300,8 +6300,8 @@ An application for, or for the variation or recall of, an order for interim alim
   - (i) section 8(1) for periodical allowance;
   - (ii) section 12(1)(b) (payment of capital sum or transfer of property);
   - (iii) section 12(4) (variation of date or method of payment of capital sum or date of transfer of property); or
-  - (iv) section 13(4) (variation, recall, backdating or conversion of periodical allowance); [^key-c67395a08465feaf41aae77db0b1ba51]...
-  - (v)[^key-696fef61cda57c4989e14a2356204a3d] section 14(1) (incidental orders), or
+  - (iv) section 13(4) (variation, recall, backdating or conversion of periodical allowance); [^c-c67395a08465feaf41aae77db0b1ba51]...
+  - (v)[^c-696fef61cda57c4989e14a2356204a3d] section 14(1) (incidental orders), or
 - (b) after the grant or refusal of an application under–
   - (i) section 8(1) or 14(3) for an incidental order; or
   - (ii) section 14(4) (variation or recall of incidental order),
@@ -6313,8 +6313,8 @@ shall be made by minute in the process of the action to which the application re
 (3) An application under–
 
 - (a) paragraph (5) of section 12A of the Act of 1985 [^c20677791] (recall or variation of order in respect of a pension lump sum);
-- (b) paragraph (7) of that section [^c20677801] (variation of order in respect of pension lump sum to substitute trustees or managers); [^key-b87f47d27b2af2ba6409e0077d75965a]...
-- (ba)[^key-dcc60cf94f96a428cb52a971d80f464f] section 12B(4) of the Act of 1985 (recall or variation of a capital sum order); or
+- (b) paragraph (7) of that section [^c20677801] (variation of order in respect of pension lump sum to substitute trustees or managers); [^c-b87f47d27b2af2ba6409e0077d75965a]...
+- (ba)[^c-dcc60cf94f96a428cb52a971d80f464f] section 12B(4) of the Act of 1985 (recall or variation of a capital sum order); or
 - (c) section 28(10) or 48(9) of the Welfare Reform and Pensions Act 1999,
 
 shall be made by minute in the process of the action to which the application relates.
@@ -6439,7 +6439,7 @@ An application, in an action depending before the sheriff to which this Part app
 
 (2) Where a minute has been lodged under paragraph (1), any party may apply by motion for an interim order pending the determination of the application.
 
-(3)[^key-46622c2c715420d42855fe055da0ece0] Rules 33A.41A (warrants for intimation to child and permission to seek views) to 33A.41D (views of the child – craves relating to a section 11 order sought by both minuter and respondent) apply (with the necessary modifications) to the seeking of the child’s views in relation to a minute lodged in accordance with this rule.
+(3)[^c-46622c2c715420d42855fe055da0ece0] Rules 33A.41A (warrants for intimation to child and permission to seek views) to 33A.41D (views of the child – craves relating to a section 11 order sought by both minuter and respondent) apply (with the necessary modifications) to the seeking of the child’s views in relation to a minute lodged in accordance with this rule.
 
 ###### 33A.57A Application for leave[^c20691591]
 
@@ -6534,7 +6534,7 @@ Unless the sheriff otherwise directs, the sist of an action by virtue of section
 - (a) that party relies on the facts set out in section 117(3)(c) (no cohabitation for one year[^c20735421] with consent of defender to decree), section 117(3)(d) (no cohabitation for two[^c20735441] years), or section 117(2)(b) (issue of interim gender recognition certificate) of the Act of 2004;
 - (b) in an application under section 117(3)(c) of the Act of 2004, the other party consents to decree of dissolution of civil partnership being granted;
 - (c) no other proceedings are pending in any court which could have the effect of bringing the civil partnership to an end;
-- (d) there is no child of the family (as defined in section 12(4)(b) of the Act of 1995[^key-f0435b952aee320affcda6dec5e1862f]) under the age of 16 years;
+- (d) there is no child of the family (as defined in section 12(4)(b) of the Act of 1995[^c-f0435b952aee320affcda6dec5e1862f]) under the age of 16 years;
 - (e) neither party to the civil partnership applies for an order for financial provision on dissolution of civil partnership; and
 - (f) neither party to the civil partnership suffers from mental disorder.
 
@@ -6576,7 +6576,7 @@ The applicant shall send a simplified dissolution of civil partnership applicati
 (4) The citation or intimation required by paragraph (2) shall be made–
 
 - (a) by the sheriff clerk by registered post or the first class recorded delivery service in accordance with rule 5.3 (postal service or intimation);
-- (b) on payment of an additional fee, by a sheriff officer in accordance with rule 5.4(1) to (4)[^key-bc20e921cb905f8a74ee4ed6aa800d92] (service within Scotland by sheriff officer); or
+- (b) on payment of an additional fee, by a sheriff officer in accordance with rule 5.4(1) to (4)[^c-bc20e921cb905f8a74ee4ed6aa800d92] (service within Scotland by sheriff officer); or
 - (c) where necessary, by the sheriff clerk in accordance with rule 5.5 (service on persons furth of Scotland).
 
 (5) Where citation or intimation is made in accordance with paragraph (4)(c), the translation into an official language of the country in which service is to be executed required by rule 5.5(6) shall be provided by the party lodging the simplified dissolution of civil partnership application.
@@ -6587,7 +6587,7 @@ The applicant shall send a simplified dissolution of civil partnership applicati
 
 - (a) citation shall be executed by displaying a copy of the application and a notice in Form CP35 on the walls of court on a period of notice of 21 days; and
 - (b) intimation shall be made to–
-  - (i) every person who was a child of the family (within the meaning of section 12(4)(b) of the Act of 1995[^key-21ec854e0f8e27690985fb3a99b31caf]) who has reached the age of 16 years, and
+  - (i) every person who was a child of the family (within the meaning of section 12(4)(b) of the Act of 1995[^c-21ec854e0f8e27690985fb3a99b31caf]) who has reached the age of 16 years, and
   - (ii) one of the next of kin of the other party to the civil partnership who has reached that age, unless the address of such person is not known and cannot reasonably be ascertained.
 
 (2) Intimation to a person referred to in paragraph (1)(b) shall be given by intimating a copy of the application and a notice of intimation in Form CP36.
@@ -6614,9 +6614,9 @@ Parole evidence shall not be given in a simplified dissolution of civil partners
 
 ###### 33A.74. Appeals
 
-(1)[^key-05f1a43ce6545709a8c7fa83c22a3ef3] Any appeal against an interlocutor granting decree of dissolution of civil partnership under rule 33A.73 (decree) may be made, within 14 days after the date of decree, by sending a letter to the court giving reasons for the appeal.
+(1)[^c-05f1a43ce6545709a8c7fa83c22a3ef3] Any appeal against an interlocutor granting decree of dissolution of civil partnership under rule 33A.73 (decree) may be made, within 14 days after the date of decree, by sending a letter to the court giving reasons for the appeal.
 
-(2)[^key-fb94eb1ece672ec5feba8473cdf8b0d1] Within 4 days after receiving an appeal, the sheriff clerk must transmit to the Clerk of the Sheriff Appeal Court—
+(2)[^c-fb94eb1ece672ec5feba8473cdf8b0d1] Within 4 days after receiving an appeal, the sheriff clerk must transmit to the Clerk of the Sheriff Appeal Court—
 
 - (a) the appeal;
 - (b) all documents and productions in the simplified dissolution of civil partnership application.
@@ -6627,17 +6627,17 @@ Parole evidence shall not be given in a simplified dissolution of civil partners
 
 Any application to the court after decree of dissolution of civil partnership has been granted in a simplified dissolution of civil partnership application which could have been made if it had been made in an action of dissolution of civil partnership shall be made by minute.
 
-##### PART XII — REFERRALS TO PRINCIPAL REPORTER[^key-6c906ab306359e9d33b210ccc214b549]
+##### PART XII — REFERRALS TO PRINCIPAL REPORTER[^c-6c906ab306359e9d33b210ccc214b549]
 
-###### 33A.76.[^key-6c906ab306359e9d33b210ccc214b549]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-###### 33A.77.[^key-6c906ab306359e9d33b210ccc214b549]
+###### 33A.76.[^c-6c906ab306359e9d33b210ccc214b549]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 33A.78.[^key-6c906ab306359e9d33b210ccc214b549]
+###### 33A.77.[^c-6c906ab306359e9d33b210ccc214b549]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 33A.78.[^c-6c906ab306359e9d33b210ccc214b549]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -6726,35 +6726,35 @@ the sheriff may then if he thinks fit sist that action.
 - (b) to enforce a relevant order as respects any period when it is or was in force; or
 - (c) to make a relevant order in connection with an action which was, but is no longer, sisted.
 
-#### CHAPTER 33AA — EXPEDITIOUS RESOLUTION OF CERTAIN CAUSES[^key-6ba4098206a216e4e832f21fa42de6df]
+#### CHAPTER 33AA — EXPEDITIOUS RESOLUTION OF CERTAIN CAUSES[^c-6ba4098206a216e4e832f21fa42de6df]
 
-##### 33AA.1.[^key-6ba4098206a216e4e832f21fa42de6df]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-##### 33AA.2.[^key-6ba4098206a216e4e832f21fa42de6df]
+##### 33AA.1.[^c-6ba4098206a216e4e832f21fa42de6df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 33AA.3.[^key-6ba4098206a216e4e832f21fa42de6df]
+##### 33AA.2.[^c-6ba4098206a216e4e832f21fa42de6df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 33AA.4.[^key-6ba4098206a216e4e832f21fa42de6df]
+##### 33AA.3.[^c-6ba4098206a216e4e832f21fa42de6df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 33B — FINANCIAL PROVISION FOR FORMER COHABITANTS[^key-9dbc1e8954d152004b136625983a8fc1]
+##### 33AA.4.[^c-6ba4098206a216e4e832f21fa42de6df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### CHAPTER 33B — FINANCIAL PROVISION FOR FORMER COHABITANTS[^c-9dbc1e8954d152004b136625983a8fc1]
 
 **No longer in force.**
 
-##### 33B.1. Interpretation of this Chapter[^key-9dbc1e8954d152004b136625983a8fc1]
+##### 33B.1. Interpretation of this Chapter[^c-9dbc1e8954d152004b136625983a8fc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33B.2.**[^key-9dbc1e8954d152004b136625983a8fc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33B.2.**[^c-9dbc1e8954d152004b136625983a8fc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 33C — REFERRALS TO PRINCIPAL REPORTER[^key-08223fd1b0802c5828db62c4f6443fd2]
+#### CHAPTER 33C — REFERRALS TO PRINCIPAL REPORTER[^c-08223fd1b0802c5828db62c4f6443fd2]
 
 ##### 33C.1. Application and interpretation of this Part
 
@@ -6852,7 +6852,7 @@ posting the notice by registered post or the first class recorded delivery servi
 
 (2) Where there is no lease, a certificate of the sending of such notice shall be endorsed on a copy of the notice or letter of removal.
 
-###### 34.10. Disposal of applications under Part II of the Conveyancing and Feudal Reform (Scotland) Act 1970 for non-residential purposes[^key-838a71f9df64d00d53e5c73b7f4dc69e]
+###### 34.10. Disposal of applications under Part II of the Conveyancing and Feudal Reform (Scotland) Act 1970 for non-residential purposes[^c-838a71f9df64d00d53e5c73b7f4dc69e]
 
 (1) This rule applies to an application or counter-application made by virtue of paragraph 3(2)(a) of the Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010.
 
@@ -6875,11 +6875,11 @@ posting the notice by registered post or the first class recorded delivery servi
 - (a) affixing a copy of the initial writ and a citation in Form H5 addressed to “the occupiers” to the main door or other conspicuous part of the premises, and if practicable, depositing a copy of each of those documents in the premises; or
 - (b) in the case of land only, inserting stakes in the ground at conspicuous parts of the occupied land to each of which is attached a sealed transparent envelope containing a copy of the initial writ and a citation in Form H5 addressed to “the occupiers”.
 
-###### 34.12. Applications under the Mortgage Rights (Scotland) Act 2001[^key-d38c08e801a15c80e842cb5047a2b123]
+###### 34.12. Applications under the Mortgage Rights (Scotland) Act 2001[^c-d38c08e801a15c80e842cb5047a2b123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### PART III — EXECUTION OF DEEDS[^key-616235f0b967f8ae5da0a324da88befe]
+##### PART III — EXECUTION OF DEEDS[^c-616235f0b967f8ae5da0a324da88befe]
 
 ###### 34.12. Form of application under section 87 of the Courts Reform (Scotland) Act 2014
 
@@ -7062,7 +7062,7 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 - (a) warrants for intimation so far as permitted under these Rules, and
 - (b) a specification of documents in Form PI2.
 
-###### 36.C1. Actions based on clinical negligence[^key-28a9d428c6b28757c6dc9dbc036185e5]
+###### 36.C1. Actions based on clinical negligence[^c-28a9d428c6b28757c6dc9dbc036185e5]
 
 (1) This rule applies to a personal injuries action based on alleged clinical negligence.
 
@@ -7114,7 +7114,7 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 
 ###### Personal injuries action: application of other rules and withdrawal from personal injuries procedure
 
-###### 36.E1. Application of other rules[^key-6fd476a95ebc0574139187627a60553a]
+###### 36.E1. Application of other rules[^c-6fd476a95ebc0574139187627a60553a]
 
 (1) A defended personal injuries action will, instead of proceeding in accordance with Chapter 9 (standard procedure in defended causes), proceed in accordance with personal injuries procedure.
 
@@ -7164,7 +7164,7 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 
 ###### 36.F1. Disapplication of personal injuries procedure
 
-(1) Any party to a personal injuries action proceeding in accordance with personal injuries procedure may, within 28 days of the lodging of defences (or, where there is more than one defender the first lodging of defences), by motion apply to have the action withdrawn from personal injuries procedure and appointed to the procedure in Chapter 36A[^key-90d34e336cffee9b944749f72752f4a2].
+(1) Any party to a personal injuries action proceeding in accordance with personal injuries procedure may, within 28 days of the lodging of defences (or, where there is more than one defender the first lodging of defences), by motion apply to have the action withdrawn from personal injuries procedure and appointed to the procedure in Chapter 36A[^c-90d34e336cffee9b944749f72752f4a2].
 
 (2) No motion under paragraph (1) shall be granted unless the sheriff is satisfied that there are exceptional reasons for not following personal injuries procedure.
 
@@ -7174,7 +7174,7 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 - (b) the length of time required for preparation of the action; and
 - (c) any other relevant circumstances.
 
-(4)[^key-9a4d2bfd60cc9fd2534632ce60005048] Where the sheriff appoints the cause to the procedure in Chapter 36A under paragraph (1)—
+(4)[^c-9a4d2bfd60cc9fd2534632ce60005048] Where the sheriff appoints the cause to the procedure in Chapter 36A under paragraph (1)—
 
 - (a) the pursuer must within 14 days lodge a revised initial writ in Form G1 (form of initial writ);
 - (b) the defender must adjust the defences so as to comply with rule 9.6(2) (defences); and
@@ -7184,7 +7184,7 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 
 ###### 36.G1. Allocation of diets and timetables
 
-(1)[^key-f1a40107caba8805fa4ea522fc594a9a] The sheriff clerk shall, on the lodging of defences in the action or, where there is more than one defender, the first lodging of defences—
+(1)[^c-f1a40107caba8805fa4ea522fc594a9a] The sheriff clerk shall, on the lodging of defences in the action or, where there is more than one defender, the first lodging of defences—
 
 - (a) allocate a diet of proof of the action, which shall be no earlier than 4 months (unless the sheriff on cause shown directs an earlier diet to be fixed) and no later than 9 months from the date of the first lodging of defences; and
 - (b) issue a timetable stating—
@@ -7194,19 +7194,19 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 (1A) Those procedural steps are—
 
 - (a) application for a third party notice under rule 20.1;
-- (b) the pursuer serving[^key-6cccf1c0cf177e5fe3a89eea60ac3a77] a commission for recovery of documents under rule 36.D1;
+- (b) the pursuer serving[^c-6cccf1c0cf177e5fe3a89eea60ac3a77] a commission for recovery of documents under rule 36.D1;
 - (c) the parties adjusting their pleadings;
 - (d) the pursuer lodging a statement of valuation of claim in process;
 - (e) the pursuer lodging a record;
 - (f) the defender (and any third party to the action) lodging a statement of valuation of claim in process;
 - (g) the parties each lodging in process a list of witnesses together with any productions upon which they wish to rely; and
-- (h) the pursuer lodging in process the minute of the pre-trial meeting[^key-bb1bd8ed78d97d975723094be7a8cef5].
+- (h) the pursuer lodging in process the minute of the pre-trial meeting[^c-bb1bd8ed78d97d975723094be7a8cef5].
 
 (1B) The dates mentioned in paragraph (1)(b)(ii) are to be calculated by reference to periods specified in Appendix 3, which, with the exception of the period specified in rule 36.K1(2), the sheriff principal may vary for his sheriffdom or for any court within his sheriffdom.
 
 (2) A timetable issued under paragraph (1)(b) shall be in Form PI5 and shall be treated for all purposes as an interlocutor signed by the sheriff; and so far as the timetable is inconsistent with any provision in these Rules which relates to a matter to which the timetable relates, the timetable shall prevail.
 
-(3) Where a party fails to comply with any requirement of a timetable other than that referred to in [^key-6e4db5242aab5e1c47762e7a95c3da7d]... rule 36.K1(3), the sheriff clerk may fix a date and time for the parties to be heard by the sheriff.
+(3) Where a party fails to comply with any requirement of a timetable other than that referred to in [^c-6e4db5242aab5e1c47762e7a95c3da7d]... rule 36.K1(3), the sheriff clerk may fix a date and time for the parties to be heard by the sheriff.
 
 (4) The pursuer shall lodge a certified copy of the record, which shall consist of the pleadings of the parties, in process by the date specified in the timetable and shall at the same time send one copy to the defender and any other parties.
 
@@ -7214,20 +7214,20 @@ The sheriff may at any time, of his own motion or on the motion of any party, or
 
 - (a) to allow to parties a preliminary proof on specified matters;
 - (b) to allow a proof; or
-- (ba)[^key-d40dc2bbe012e1444e490707c0c12692] to allow a jury trial;
+- (ba)[^c-d40dc2bbe012e1444e490707c0c12692] to allow a jury trial;
 - (c) to make some other specified order.
 
-(6)[^key-ced6ba376c92fe8fcd20f57337ce8bb0] The motion lodged under paragraph (5) must specify the anticipated length of the preliminary proof, proof, or jury trial, as the case may be.
+(6)[^c-ced6ba376c92fe8fcd20f57337ce8bb0] The motion lodged under paragraph (5) must specify the anticipated length of the preliminary proof, proof, or jury trial, as the case may be.
 
-(7) In the event that any party proposes to crave the court to make any order other than an order allowing a proof under paragraph (5)(b) or a jury trial under paragraph (5)(ba)[^key-e0feeaf01e6402d73edeabfb5f79900f], that party shall, on making or opposing (as the case may be) the pursuer’s motion, specify the order to be sought and give full notice in the motion or the notice of opposition thereto of the grounds thereof.
+(7) In the event that any party proposes to crave the court to make any order other than an order allowing a proof under paragraph (5)(b) or a jury trial under paragraph (5)(ba)[^c-e0feeaf01e6402d73edeabfb5f79900f], that party shall, on making or opposing (as the case may be) the pursuer’s motion, specify the order to be sought and give full notice in the motion or the notice of opposition thereto of the grounds thereof.
 
-(8)[^key-70ee4b4766424937cfacdab716a8c11b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-70ee4b4766424937cfacdab716a8c11b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8A)[^key-3d4f9ae96fbc9a0110964e357b61af11] A party who seeks to rely on the evidence of a person not on his or her list lodged in accordance with paragraph (1A)(g) must, if any other party objects to such evidence being admitted, seek leave of the sheriff to admit that evidence whether it is to be given orally or not; and such leave may be granted on such conditions, if any, as the sheriff thinks fit.
+(8A)[^c-3d4f9ae96fbc9a0110964e357b61af11] A party who seeks to rely on the evidence of a person not on his or her list lodged in accordance with paragraph (1A)(g) must, if any other party objects to such evidence being admitted, seek leave of the sheriff to admit that evidence whether it is to be given orally or not; and such leave may be granted on such conditions, if any, as the sheriff thinks fit.
 
 (8B) The list of witnesses intimated in accordance with paragraph (1A)(g) must include the name, occupation (where known) and address of each intended witness and indicate whether the witness is considered to be a vulnerable witness within the meaning of section 11(1) of the Act of 2004 and whether any child witness notice or vulnerable witness application has been lodged in respect of that witness.
 
-(9) A production which is not lodged in accordance with paragraph (1A)(g)[^key-cf32e7feed9d73201aba123a52df8506] shall not be used or put in evidence at proof unless—
+(9) A production which is not lodged in accordance with paragraph (1A)(g)[^c-cf32e7feed9d73201aba123a52df8506] shall not be used or put in evidence at proof unless—
 
 - (a) by consent of parties; or
 - (b) with the leave of the sheriff on cause shown and on such conditions, if any, as to expenses or otherwise as the court thinks fit.
@@ -7243,14 +7243,14 @@ appoint that cause or any part of those causes to be the leading cause and to si
 
 ###### 36.H1. Applications for sist or for variation of timetable
 
-(1) The action may be sisted or the timetable varied by the sheriff on an application by any party to the action by motion [^key-6a945d1257654ae25299c3e4a4d47a2f]....
+(1) The action may be sisted or the timetable varied by the sheriff on an application by any party to the action by motion [^c-6a945d1257654ae25299c3e4a4d47a2f]....
 
 (2) An application under paragraph (1)—
 
 - (a) shall be placed before the sheriff; and
-- (b) shall be granted only on [^key-738af57524f7fa6a0a54deca4493b652]... cause shown.
+- (b) shall be granted only on [^c-738af57524f7fa6a0a54deca4493b652]... cause shown.
 
-(2A)[^key-9d1ded121a7830523af7cccdc82f1696] The sheriff may, on the sheriff’s own motion, vary the timetable where satisfied that the efficient determination of the action would be served by doing so and in consequence may—
+(2A)[^c-9d1ded121a7830523af7cccdc82f1696] The sheriff may, on the sheriff’s own motion, vary the timetable where satisfied that the efficient determination of the action would be served by doing so and in consequence may—
 
 - (a) discharge a diet ordered pursuant to rule 36.G1(5) or (7) (allocation of diets and timetables); or
 - (b) sist the action.
@@ -7282,7 +7282,7 @@ appoint that cause or any part of those causes to be the leading cause and to si
 - (a) where the party in default is the pursuer, dismiss the action; or
 - (b) where the party in default is the defender, grant decree against the defender for an amount not exceeding the pursuer’s valuation.
 
-###### 36.K1. Pre-trial meetings[^key-89b0188ab3ee289cce06362254ff31b8]
+###### 36.K1. Pre-trial meetings[^c-89b0188ab3ee289cce06362254ff31b8]
 
 (1) For the purposes of this rule, a pre-trial meeting is a meeting between the parties to—
 
@@ -7304,7 +7304,7 @@ appoint that cause or any part of those causes to be the leading cause and to si
 
 ###### 36.L1. Incidental hearings
 
-(1) Where the sheriff clerk fixes a date and time for a hearing under paragraph (3) of rule 36.G1 or paragraph (4) of rule 36.K1[^key-71890bf8e1c45d39be50c56989a06508] he shall—
+(1) Where the sheriff clerk fixes a date and time for a hearing under paragraph (3) of rule 36.G1 or paragraph (4) of rule 36.K1[^c-71890bf8e1c45d39be50c56989a06508] he shall—
 
 - (a) fix a date not less than seven days after the date of the notice referred to in subparagraph (b);
 - (b) give notice to the parties to the action—
@@ -7323,13 +7323,13 @@ appoint that cause or any part of those causes to be the leading cause and to si
 
 (1) This Part applies to an action of damages in which, following the death of any person from personal injuries, damages are claimed—
 
-- (a) [^key-b8e40a474425707f01948343d959da10]... in respect of the injuries from which the deceased died; or
-- (b) [^key-10c137b64de5d3c389f60b3734792a34]... in respect of the death of the deceased.
+- (a) [^c-b8e40a474425707f01948343d959da10]... in respect of the injuries from which the deceased died; or
+- (b) [^c-10c137b64de5d3c389f60b3734792a34]... in respect of the death of the deceased.
 
 (2) In this Part—
 
 - “connected person” means a person, not being a party to the action, who has title to sue the defender in respect of the personal injuries from which the deceased died or in respect of his death;
-- [^key-51ed0ea63c7db19d8ac263c9793cb414]...
+- [^c-51ed0ea63c7db19d8ac263c9793cb414]...
 
 ###### 36.2. Averments
 
@@ -7510,17 +7510,17 @@ In making an order under rule 36.14(1), the sheriff may—
 
 (4) Any sum of money invested by the sheriff clerk under this Part shall be invested in a manner in which trustees are authorised to invest by virtue of the [^c15191921]Trustee Investments Act 1961.
 
-##### PART IVA — PRODUCTIONS IN CERTAIN ACTIONS OF DAMAGES[^key-8face503105b101c1f295c06ee301aaf]
+##### PART IVA — PRODUCTIONS IN CERTAIN ACTIONS OF DAMAGES[^c-8face503105b101c1f295c06ee301aaf]
 
-###### 36.17A.[^key-8face503105b101c1f295c06ee301aaf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-###### 36.17B.[^key-8face503105b101c1f295c06ee301aaf]
+###### 36.17A.[^c-8face503105b101c1f295c06ee301aaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 36.17C.[^key-8face503105b101c1f295c06ee301aaf]
+###### 36.17B.[^c-8face503105b101c1f295c06ee301aaf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 36.17C.[^c-8face503105b101c1f295c06ee301aaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -7538,7 +7538,7 @@ In making an order under rule 36.14(1), the sheriff may—
 
 ###### 36.19. Mesothelioma actions: special provisions
 
-(1) This Part applies where liability to a relative of the pursuer may arise under section 5 of the Damages (Scotland) Act 2011 (discharge of liability to pay damages: exception for mesothelioma)[^key-d141ddbb5ee0979def5838116e551de1].
+(1) This Part applies where liability to a relative of the pursuer may arise under section 5 of the Damages (Scotland) Act 2011 (discharge of liability to pay damages: exception for mesothelioma)[^c-d141ddbb5ee0979def5838116e551de1].
 
 (2) On settlement of the pursuer’s claim, the pursuer may apply by motion for all or any of the following—
 
@@ -7556,7 +7556,7 @@ In making an order under rule 36.14(1), the sheriff may—
 
 (7) On expiration of the period of any sist pronounced on a motion under paragraph (2), the sheriff clerk may fix a date and time for the parties to be heard by the sheriff.
 
-#### CHAPTER 36A — CASE MANAGEMENT OF CERTAIN PERSONAL INJURIES ACTIONS[^key-1711c236ad5f2deb82e72baf9c26e0ad]
+#### CHAPTER 36A — CASE MANAGEMENT OF CERTAIN PERSONAL INJURIES ACTIONS[^c-1711c236ad5f2deb82e72baf9c26e0ad]
 
 ##### 36A.1. Application and interpretation of this Chapter
 
@@ -7739,7 +7739,7 @@ Each party must, no later than 7 days before the Procedural Hearing fixed under 
   - (i) a date for a pre-proof hearing;
   - (ii) the last date for the lodging of a draft valuation and vouchings by the pursuer;
 - (b) no later than 20 weeks before the proof, the last date for the lodging of a draft valuation and vouchings by the defender;
-- (c) no later than 16 weeks before the proof, the last date for the lodging of witness lists and productions, including a paginated joint bundle of medical records[^key-7de83009e2e1c8ccdfa5fd5224bd5c56], by the parties;
+- (c) no later than 16 weeks before the proof, the last date for the lodging of witness lists and productions, including a paginated joint bundle of medical records[^c-7de83009e2e1c8ccdfa5fd5224bd5c56], by the parties;
 - (d) no later than 12 weeks before the proof, the last date for a pre-trial meeting;
 - (e) no later than 8 weeks before the proof, a date for a further pre-proof hearing.
 
@@ -7763,7 +7763,7 @@ where the sheriff considers that the efficient determination of the action would
 
 (2) In particular, the sheriff may make orders to resolve any matters arising or outstanding from the written statements lodged by the parties under rule 36A.8 or the pre-proof timetable fixed under rule 36A.9(5)(b).
 
-#### CHAPTER 36B — JURY TRIALS[^key-edd36ca6e8cd1c8f5148ea7382a8a4e6]
+#### CHAPTER 36B — JURY TRIALS[^c-edd36ca6e8cd1c8f5148ea7382a8a4e6]
 
 ##### 36B.1. Application and interpretation of this Chapter
 
@@ -7995,12 +7995,12 @@ Where no minute has been lodged indicating knowledge of the present whereabouts 
 - “appeal” includes an application for leave to appeal;
 - “the European Court” means the Court of Justice of the European Union;
 - “reference” means a reference to the European Court for—
-  - (a) a preliminary ruling under Article 267 of the Treaty on the Functioning of the European Union[^key-07cf14ef174e3664ca1a660908fafe6e], Article 150 of the Euratom Treaty, or Article 41 of the E.C.S.C. Treaty; or
+  - (a) a preliminary ruling under Article 267 of the Treaty on the Functioning of the European Union[^c-07cf14ef174e3664ca1a660908fafe6e], Article 150 of the Euratom Treaty, or Article 41 of the E.C.S.C. Treaty; or
   - (b) a ruling on the interpretation of the Conventions, as defined in section 1(1) of the [^c15192091]Civil Jurisdiction and Judgments Act 1982, under Article 3 of Schedule 2 to that Act.
 
-(2) The expressions [^key-60b60daa8ce57a4717b794e4baabe15b]... “Euratom Treaty” and “E.C.S.C. Treaty” have the meanings assigned respectively in Schedule 1 to the [^c15192101]European Communities Act 1972.
+(2) The expressions [^c-60b60daa8ce57a4717b794e4baabe15b]... “Euratom Treaty” and “E.C.S.C. Treaty” have the meanings assigned respectively in Schedule 1 to the [^c15192101]European Communities Act 1972.
 
-(3)[^key-aca05cca1d582f8df2490eccc363ef3e] In paragraph (1), “the Treaty on the Functioning of the European Union” means the treaty referred to in section 1(2)(s) of the European Communities Act 1972.
+(3)[^c-aca05cca1d582f8df2490eccc363ef3e] In paragraph (1), “the Treaty on the Functioning of the European Union” means the treaty referred to in section 1(2)(s) of the European Communities Act 1972.
 
 ##### 38.2. Applications for reference
 
@@ -8058,7 +8058,7 @@ a note of any adjustments he seeks to have made in the draft reference.
 
 #### CHAPTER 40 — COMMERCIAL ACTIONS[^c15192161]
 
-##### 40.1. Application and interpretation of this Chapter[^key-9532f4847eaf29c573f251b2f2fa0feb]
+##### 40.1. Application and interpretation of this Chapter[^c-9532f4847eaf29c573f251b2f2fa0feb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -8140,7 +8140,7 @@ he shall, before the expiry of the period of notice lodge with the sheriff clerk
 
 (3) The fixing of the date of the Case Management Conference shall not affect the right of a party to make application by motion, to the court.
 
-##### 40.11. Applications for summary decree in a commercial action[^key-9532f4847eaf29c573f251b2f2fa0feb]
+##### 40.11. Applications for summary decree in a commercial action[^c-9532f4847eaf29c573f251b2f2fa0feb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -8244,7 +8244,7 @@ All parts of process lodged in a commercial action shall be clearly marked “Co
   - (i) a copy of the application for the power of arrest;
   - (ii) a copy of the interlocutor granting it; and
   - (iii) a copy of the certificate of service of the power of arrest and the documents that required to be served along with it in accordance with section 2(1).
-- (e)[^key-8c21ed795fdf7916ec5eff4e519e3f51] where a determination has previously been made in respect of such interdict under section 3(1) of the Domestic Abuse (Scotland) Act 2011, a copy of the interlocutor in Form DA1.
+- (e)[^c-8c21ed795fdf7916ec5eff4e519e3f51] where a determination has previously been made in respect of such interdict under section 3(1) of the Domestic Abuse (Scotland) Act 2011, a copy of the interlocutor in Form DA1.
 
 ##### 41.3. Extension or recall of power of arrest
 
@@ -8263,7 +8263,7 @@ Where an interdict to which a power of arrest has been attached under section 1(
 
 Where a person is in any circumstances required to comply with section 3(1) he shall, after such compliance, lodge in process a certificate of delivery in Form PA1.
 
-#### CHAPTER 41A — DOMESTIC ABUSE (SCOTLAND) ACT 2011[^key-ced0b4d43fec1c822b55aa73cf8ab862]
+#### CHAPTER 41A — DOMESTIC ABUSE (SCOTLAND) ACT 2011[^c-ced0b4d43fec1c822b55aa73cf8ab862]
 
 ##### 41A.1. Interpretation and application of this Chapter
 
@@ -8291,14 +8291,14 @@ Where a person is in any circumstances required to comply with section 3(1) he s
 - (a) a power of arrest under section 1 of the Protection from Abuse (Scotland) Act 2001 is in effect; and
 - (b) a determination under section 3(1) of the 2011 Act is made.
 
-(7) Where a determination is made or where such determination is recalled, the sheriff must appoint a person to send forthwith to the chief constable of the Police Service of Scotland[^key-51a28b46c99d892b2036ce2b2c11e696] a copy of—
+(7) Where a determination is made or where such determination is recalled, the sheriff must appoint a person to send forthwith to the chief constable of the Police Service of Scotland[^c-51a28b46c99d892b2036ce2b2c11e696] a copy of—
 
 - (a) the interlocutor in Form DA1 and the certificate of service in Form DA2; or
 - (b) the interlocutor in Form DA3,
 
 as the case may be.
 
-(8) Where a person is required by virtue of this Chapter to send documents to the chief constable[^key-8ef6d814d0bebe86828b48862a064192], such person must, after each such compliance, lodge in process a certificate of sending in Form DA4.
+(8) Where a person is required by virtue of this Chapter to send documents to the chief constable[^c-8ef6d814d0bebe86828b48862a064192], such person must, after each such compliance, lodge in process a certificate of sending in Form DA4.
 
 #### CHAPTER 42[^c20675851]
 
@@ -8313,7 +8313,7 @@ In this Chapter–
 
 ##### 42.2. Transfer of proceedings to the Tribunal
 
-(1)[^key-beea017c71f408932c0aad21e0d2c506] Where proceedings (or any part of them) relate to an infringement issue, within the meaning of section 16(6) of the Enterprise Act 2002, the sheriff may make an order transferring those proceedings (or that part of them) to the Tribunal—
+(1)[^c-beea017c71f408932c0aad21e0d2c506] Where proceedings (or any part of them) relate to an infringement issue, within the meaning of section 16(6) of the Enterprise Act 2002, the sheriff may make an order transferring those proceedings (or that part of them) to the Tribunal—
 
 - (a) of the sheriff’s own accord, or
 - (b) on the motion of a party.
@@ -8328,7 +8328,7 @@ In this Chapter–
 
 (3) Transmission of the process under paragraph (2)(a) shall be valid notwithstanding any failure by the sheriff clerk to comply with paragraph (2)(b) and (c).
 
-#### CHAPTER 42A — APPLICATIONS IN COMPETITION PROCEEDINGS[^key-4270964d70e5cd38b0735406f04af6b4]
+#### CHAPTER 42A — APPLICATIONS IN COMPETITION PROCEEDINGS[^c-4270964d70e5cd38b0735406f04af6b4]
 
 ##### 42A.1. Interpretation of this Chapter
 
@@ -8371,16 +8371,16 @@ must be made by motion.
 
 (3) The hearing of a motion enrolled under paragraph (1) must be held in private and only the persons mentioned in paragraph (2)(a) and (b) may appear at that hearing.
 
-#### CHAPTER 43 — CAUSES RELATING TO ARTICLES 101 AND 102 OF THE TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION[^key-12826031ef22c89e587b4ab4b6055272][^c20680071]
+#### CHAPTER 43 — CAUSES RELATING TO ARTICLES 101 AND 102 OF THE TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION[^c-12826031ef22c89e587b4ab4b6055272][^c20680071]
 
 ##### 43.1 Intimation of actions to the Office of Fair Trading
 
 (1) In this rule–
 
-- “the Treaty” means the Treaty on the Functioning of the European Union, as referred to in section 1(2)(s) of the European Communities Act 1972;[^key-2d4409e5eb3f9bd605fdb4176a8fa593] and
+- “the Treaty” means the Treaty on the Functioning of the European Union, as referred to in section 1(2)(s) of the European Communities Act 1972;[^c-2d4409e5eb3f9bd605fdb4176a8fa593] and
 - “**the OFT**” means the Office of Fair Trading.
 
-(2) In an action where an issue under Article 101 or 102[^key-17c4431a30bc1ba580048341cec308af] of the Treaty is raised–
+(2) In an action where an issue under Article 101 or 102[^c-17c4431a30bc1ba580048341cec308af] of the Treaty is raised–
 
 - (a) by the pursuer in the initial writ;
 - (b) by the defender in the defences;
@@ -8388,7 +8388,7 @@ must be made by motion.
 
 intimation of the action shall be given to the OFT by the party raising the issue by a notice of intimation in Form OFT1.
 
-(3) The initial writ, defences or pleadings in which the issue under Article 101 or 102[^key-1d33fe9ef9c93d20804e02e12d9c5d09] of the Treaty is raised shall include a crave for warrant for intimation to the OFT.
+(3) The initial writ, defences or pleadings in which the issue under Article 101 or 102[^c-1d33fe9ef9c93d20804e02e12d9c5d09] of the Treaty is raised shall include a crave for warrant for intimation to the OFT.
 
 (4) A certified copy of an interlocutor granting a warrant under paragraph (3) shall be sufficient authority for the party to intimate by notice in Form OFT1.
 
@@ -8620,7 +8620,7 @@ Where interrogatories have been dispensed with, the party citing or intending to
 
 An application for leave for a party to be present in the room where the commission proceedings are taking place shall be by motion.
 
-#### CHAPTER 46 — COMPANIES ACT 2006[^key-d3fbee6263833b82512afcddf05ca20d]
+#### CHAPTER 46 — COMPANIES ACT 2006[^c-d3fbee6263833b82512afcddf05ca20d]
 
 ##### 46.1. Leave to raise derivative proceedings
 
@@ -8644,7 +8644,7 @@ An application for leave for a party to be present in the room where the commiss
 
 An application under section 267(2) (application to continue proceedings as derivative proceedings) of the 2006 Act is to be in the form of a minute and Chapter 14 (applications by minute) applies with the necessary modifications.
 
-#### CHAPTER 47 — ACTIONS OF DIVISION AND SALE AND ORDERS FOR DIVISION AND/OR SALE OF PROPERTY[^key-0461e36a493524bd5facd2ce4b3d106a]
+#### CHAPTER 47 — ACTIONS OF DIVISION AND SALE AND ORDERS FOR DIVISION AND/OR SALE OF PROPERTY[^c-0461e36a493524bd5facd2ce4b3d106a]
 
 ##### 47.1. Remit to reporter to examine heritable property
 
@@ -8701,7 +8701,7 @@ An application under section 267(2) (application to continue proceedings as der
 - (b) deal with any question as to the expenses of process or of sale; and
 - (c) make such other order as the sheriff thinks fit.
 
-#### CHAPTER 48 — REPORTING RESTRICTIONS[^key-c2eabaaf12396bdae0a05c1efcbc6b14]
+#### CHAPTER 48 — REPORTING RESTRICTIONS[^c-c2eabaaf12396bdae0a05c1efcbc6b14]
 
 ##### 48.1. Interpretation and application of this Chapter
 
@@ -8712,23 +8712,23 @@ An application under section 267(2) (application to continue proceedings as der
 - (a) who has asked to see any order made by the sheriff which restricts the reporting of proceedings, including an interim order; and
 - (b) whose name is included on a list kept by the Lord President for the purposes of this Chapter.
 
-##### 48.1A. Application for an order[^key-ef7f258bede775a742b613a08d8a01b1]
+##### 48.1A. Application for an order[^c-ef7f258bede775a742b613a08d8a01b1]
 
 (1) A party to the proceedings may apply to the court for an order under this Chapter to restrict the reporting of the proceedings.
 
 (2) An application for an order under this Chapter must be made by motion and be accompanied by Form 48.1A.
 
-##### 48.2. Interim orders[^key-ebf3170b5f33801d383f9c6039c1f3f1]
+##### 48.2. Interim orders[^c-ebf3170b5f33801d383f9c6039c1f3f1]
 
-(1) Where the sheriff is considering making an order, the sheriff must first[^key-c8a03f512ca18a29caca49bb35a8ac62] make an interim order.
+(1) Where the sheriff is considering making an order, the sheriff must first[^c-c8a03f512ca18a29caca49bb35a8ac62] make an interim order.
 
-(2) [^key-3f8970ec271ead22d21845fbbe798b68]... the sheriff clerk shall immediately send a copy of the interim order to any interested person.
+(2) [^c-3f8970ec271ead22d21845fbbe798b68]... the sheriff clerk shall immediately send a copy of the interim order to any interested person.
 
 (3) The sheriff shall specify in the interim order why the sheriff is considering making an order.
 
-##### 48.3. Representations[^key-4523feeb5f072b076d4a3d946d8f13d8]
+##### 48.3. Representations[^c-4523feeb5f072b076d4a3d946d8f13d8]
 
-(1)[^key-7319356392797c1b9bad223eee75f2f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7319356392797c1b9bad223eee75f2f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An interested person who would be directly affected by the making of an order shall have an opportunity to make representations to the sheriff before an order is made.
 
@@ -8777,7 +8777,7 @@ Where the court makes an order, the sheriff clerk shall immediately—
 
 (4) The hearing shall, so far as reasonably practicable, be before the sheriff who made the order.
 
-#### CHAPTER 49 — ADMIRALTY ACTIONS[^key-139cd30876bc290cc46efc10d1a2f5e0]
+#### CHAPTER 49 — ADMIRALTY ACTIONS[^c-139cd30876bc290cc46efc10d1a2f5e0]
 
 ##### 49.1. Interpretation of this Chapter
 
@@ -9001,7 +9001,7 @@ lodge in process the documents, if any, mentioned in paragraph (2).
 
 Before the service of an Admiralty action, where it is craved in the initial writ, the pursuer may apply by motion for warrant for arrestment of any of the types of arrestment mentioned in this Chapter.
 
-### CHAPTER 50 — LODGING AUDIO OR AUDIO-VISUAL RECORDINGS OF CHILDREN[^key-ff01881a044f9fa621bc7d5791f8422a]
+### CHAPTER 50 — LODGING AUDIO OR AUDIO-VISUAL RECORDINGS OF CHILDREN[^c-ff01881a044f9fa621bc7d5791f8422a]
 
 #### 50.1. Interpretation
 
@@ -9049,9 +9049,9 @@ In this Chapter “child” is a person under the age of 16 on the date of comme
 - (d) allowing a copy of the recording to be made (in the same or different format) and arrangements for the safe-keeping and disposal of such copy;
 - (e) arrangements for the return of the recording and re-sealing the envelope.
 
-(3)[^key-52f9d29d8da1bc62f6f2df1c8537ff69] An application for leave to appeal against the decision of the sheriff on that motion must be made immediately.
+(3)[^c-52f9d29d8da1bc62f6f2df1c8537ff69] An application for leave to appeal against the decision of the sheriff on that motion must be made immediately.
 
-#### 50.6. Incidental appeal against rulings on access to a recording of a child[^key-268915c366c45a74a36c7bb7caa0aac0]
+#### 50.6. Incidental appeal against rulings on access to a recording of a child[^c-268915c366c45a74a36c7bb7caa0aac0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -9072,7 +9072,7 @@ In this Chapter “child” is a person under the age of 16 on the date of comme
 - (b) rule 11.6(1) (intimation of parts of process and adjustments), in so far as it would otherwise require a party to deliver a copy of a recording of a child to every other party;
 - (c) rule 29.12(1) (copy productions).
 
-### CHAPTER 51 — LAND REGISTRATION ETC.[^key-ff063c1bf28b670d049cec5616dae205]
+### CHAPTER 51 — LAND REGISTRATION ETC.[^c-ff063c1bf28b670d049cec5616dae205]
 
 #### 51.1. Interpretation of this Chapter
 
@@ -9117,41 +9117,41 @@ A certified copy of an order in Form 51.3-A may be registered in the Register of
 
 An order for rectification under section 8 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 in respect of a document which has been registered in the Land Register of Scotland shall be in Form 51.5.
 
-### ...[^key-90b561524603993a6afaf762595d9c97]
+### ...[^c-90b561524603993a6afaf762595d9c97]
 
-[^key-90b561524603993a6afaf762595d9c97]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90b561524603993a6afaf762595d9c97]
+[^c-90b561524603993a6afaf762595d9c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 53 — PROVING THE TENOR[^key-7c68c8bfbf2b80668b2de9ee808cb312]
+[^c-90b561524603993a6afaf762595d9c97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 53 — PROVING THE TENOR[^c-7c68c8bfbf2b80668b2de9ee808cb312]
 
 #### 53.1. Application of this Chapter
 
@@ -9251,11 +9251,11 @@ The sheriff may, with the consent of the parties, hold production to be satisfie
 
 Rule 1.4
 
-[^M_F_c4477a83-0208-47fd-a6d2-20651a330dc9]Form 1A.2[^key-915f09357253f0b54f4ff5f81f417f7e]
+[^M_F_c4477a83-0208-47fd-a6d2-20651a330dc9]Form 1A.2[^c-915f09357253f0b54f4ff5f81f417f7e]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_075.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_076.gif)
 
-Form G1[^key-9a700f6732a80e2798aff82528ed37f7]
+Form G1[^c-9a700f6732a80e2798aff82528ed37f7]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_116.gif)
 
@@ -9287,7 +9287,7 @@ Form G3 and Form G4
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_082)
 
-Form G5A[^key-b3aedf038a68c99e7074d32e06d9774c]
+Form G5A[^c-b3aedf038a68c99e7074d32e06d9774c]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_135.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_136.gif)
 
@@ -9295,11 +9295,11 @@ Form G6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_083)
 
-Form G6A[^key-d6c1ebc459de6ef8cc93174e4d1a16a2]
+Form G6A[^c-d6c1ebc459de6ef8cc93174e4d1a16a2]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_095.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_096.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_097.gif)
 
-Form G6B[^key-a8079dafe26a9496be059f568c2681d6]
+Form G6B[^c-a8079dafe26a9496be059f568c2681d6]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_137.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_138.gif)
 
@@ -9327,7 +9327,7 @@ Form G6B[^key-a8079dafe26a9496be059f568c2681d6]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_173)
 
-Form G9A[^key-744c78642a002595f7e8e8ecec9afe8a]
+Form G9A[^c-744c78642a002595f7e8e8ecec9afe8a]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_098.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_099.gif)
 
@@ -9335,7 +9335,7 @@ Form G9A[^key-744c78642a002595f7e8e8ecec9afe8a]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_087)
 
-Form G11[^key-a28354fa23551fc359452ab6977783c1]
+Form G11[^c-a28354fa23551fc359452ab6977783c1]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_077.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_084.gif)
 
@@ -9365,7 +9365,7 @@ Form G11D
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_283)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_284)
 
-Form G13A[^key-b7329dc8903a5b72fdfe3f3a99b523bb]
+Form G13A[^c-b7329dc8903a5b72fdfe3f3a99b523bb]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_100.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_101.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_102.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_103.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_104.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_105.gif)
 
@@ -9381,7 +9381,7 @@ Form G17
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_092)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_093)
 
-[^key-1c6cf018a0a66cee61b7e2f88d277336]Form G18
+[^c-1c6cf018a0a66cee61b7e2f88d277336]Form G18
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_148.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_149.gif)
 
@@ -9409,11 +9409,11 @@ Form G23
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_095)
 
-[^key-d675de2d8dc491e45c1c7a5e701fa4d8]Form O2A
+[^c-d675de2d8dc491e45c1c7a5e701fa4d8]Form O2A
 
 ...
 
-[^c22731061][^M_F_55d0cc78-a285-4a11-cb1f-32dd70448b2a][^key-82dad5d756b94a14136332e255f081a3][^key-3615d8408fd7b51566c3d9826c706bea]Form O3
+[^c22731061][^M_F_55d0cc78-a285-4a11-cb1f-32dd70448b2a][^c-82dad5d756b94a14136332e255f081a3][^c-3615d8408fd7b51566c3d9826c706bea]Form O3
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_302)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_303)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_304)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_305)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_306)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_307)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_308)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_309)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_310)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_311)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_312)
 
@@ -9429,11 +9429,11 @@ Form G23
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_178)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_179)
 
-[^key-bf617f4ce8fa2dad8f3a303909454377]Form O5A
+[^c-bf617f4ce8fa2dad8f3a303909454377]Form O5A
 
 ...
 
-[^M_F_b89039b3-c68e-47f7-c5e8-06239d62956b][^M_F_07db3149-15ff-462c-82d2-6a837194a575][^key-d0ee08b17b56feef184d33a98ee068ad]Form O6
+[^M_F_b89039b3-c68e-47f7-c5e8-06239d62956b][^M_F_07db3149-15ff-462c-82d2-6a837194a575][^c-d0ee08b17b56feef184d33a98ee068ad]Form O6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_181)
 
@@ -9441,15 +9441,15 @@ Form G23
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_182)
 
-[^key-4826f3b23e1b6d53ab4619413b70a31a]Form O7A
+[^c-4826f3b23e1b6d53ab4619413b70a31a]Form O7A
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_146.gif)
 
-[^key-d6b8fcd85747a554ad6a240fbab02d88]Form O7B
+[^c-d6b8fcd85747a554ad6a240fbab02d88]Form O7B
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_147.gif)
 
-[^key-f1de7896ad0d533a5f81796688de5c9f]Form O7C
+[^c-f1de7896ad0d533a5f81796688de5c9f]Form O7C
 
 ...
 
@@ -9465,7 +9465,7 @@ Form O9
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_105)
 
-[^key-c656c7d58fa9fbe7225581aac14c46e5]...
+[^c-c656c7d58fa9fbe7225581aac14c46e5]...
 
 Form F1
 
@@ -9495,19 +9495,19 @@ Form F4
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_186)
 
-[^M_F_bc82b182-f7f1-4c48-ae3a-209dc87235ae][^key-097ef17fb177af3872725185e9b376fd][^key-7185199884b06d6503b678860d2a7f4e]Form F8
+[^M_F_bc82b182-f7f1-4c48-ae3a-209dc87235ae][^c-097ef17fb177af3872725185e9b376fd][^c-7185199884b06d6503b678860d2a7f4e]Form F8
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_187)
 
-Form F9[^key-cad1fc7ee91d5c086ce487b97d688c37]
+Form F9[^c-cad1fc7ee91d5c086ce487b97d688c37]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_124.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_126.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_127.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_128.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_129.gif)
 
-Form F9A[^key-69e87eee1af0349542b1bc8372177e7b]
+Form F9A[^c-69e87eee1af0349542b1bc8372177e7b]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_130.gif)
 
-Form F9B[^key-1dd5c8d9e9f33683215f08ba28e22d83]
+Form F9B[^c-1dd5c8d9e9f33683215f08ba28e22d83]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_131.gif)
 
@@ -9531,15 +9531,15 @@ Form F11
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_048.gif)
 
-[^key-97979f624eac03a076ab57fd876b0248]Form F12C
+[^c-97979f624eac03a076ab57fd876b0248]Form F12C
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_049.gif)
 
-[^key-0ef4f83722d389c4be171891f1c538da]Form F12D
+[^c-0ef4f83722d389c4be171891f1c538da]Form F12D
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_050.gif)
 
-[^M_F_cbb5f8e9-b72d-4ff6-e82d-ed22e64db24f] [^key-bc9175a4ee72ddbdff0874c4eb9d16a9][^key-0ffeb12164c65b3bdeb9f9adcfae76e3]Form F12E[^key-d8888d52c46d88d1ecdc6326ca920312]
+[^M_F_cbb5f8e9-b72d-4ff6-e82d-ed22e64db24f] [^c-bc9175a4ee72ddbdff0874c4eb9d16a9][^c-0ffeb12164c65b3bdeb9f9adcfae76e3]Form F12E[^c-d8888d52c46d88d1ecdc6326ca920312]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_281)
 
@@ -9547,11 +9547,11 @@ Form F13
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_118)
 
-Form F13A[^key-fac06a89631ec0b5db6a237cef1cf93c]
+Form F13A[^c-fac06a89631ec0b5db6a237cef1cf93c]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_072.gif)
 
-Form F14[^key-290a82527032e7f72d3641157a98989a]
+Form F14[^c-290a82527032e7f72d3641157a98989a]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_132.gif)
 
@@ -9659,11 +9659,11 @@ Form F39 and F40
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_197)
 
-[^key-cea68af8a24cd523abdd8ede4ecd6a8d]...
+[^c-cea68af8a24cd523abdd8ede4ecd6a8d]...
 
-[^key-cea68af8a24cd523abdd8ede4ecd6a8d]...
+[^c-cea68af8a24cd523abdd8ede4ecd6a8d]...
 
-[^M_F_b56821b2-e9b3-4789-ae10-6e6a32649ae1][^M_F_b1adfd82-b614-4223-fc43-a28854d00abd]Form F44[^key-de3ebc2b87d0b7a2a2558d5d9df04614]
+[^M_F_b56821b2-e9b3-4789-ae10-6e6a32649ae1][^M_F_b1adfd82-b614-4223-fc43-a28854d00abd]Form F44[^c-de3ebc2b87d0b7a2a2558d5d9df04614]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_117.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_118.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_133.gif)
 
@@ -9687,11 +9687,11 @@ Form F39 and F40
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_215)
 
-[^M_F_2a75bae1-6f59-4a3a-896b-bba84e308afc][^key-de6e679c3136572b9d6f43630ef12daf][^key-ceb894339035955f6743b8a01133f92f]Form CP6
+[^M_F_2a75bae1-6f59-4a3a-896b-bba84e308afc][^c-de6e679c3136572b9d6f43630ef12daf][^c-ceb894339035955f6743b8a01133f92f]Form CP6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_216)
 
-[^key-b60225ceeaf79e8c0c9676576bd122dc]...
+[^c-b60225ceeaf79e8c0c9676576bd122dc]...
 
 [^M_F_2a75bae1-6f59-4a3a-896b-bba84e308afc]Form CP8
 
@@ -9713,11 +9713,11 @@ Form F39 and F40
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_224)
 
-[^key-9b5805821f0acbf4b1dae43957432856]Form CP12A
+[^c-9b5805821f0acbf4b1dae43957432856]Form CP12A
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_051.gif)
 
-[^key-9eedaa02e64d90102c373ca05c237b92]Form CP12B
+[^c-9eedaa02e64d90102c373ca05c237b92]Form CP12B
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_052.gif)
 
@@ -9725,11 +9725,11 @@ Form F39 and F40
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_225)
 
-Form CP13A[^key-d24cb19a36ccc414e8c662ab9b5f494f]
+Form CP13A[^c-d24cb19a36ccc414e8c662ab9b5f494f]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_073.gif)
 
-Form CP14[^key-e3ce32b3d6fb9944a6317b755e349003]
+Form CP14[^c-e3ce32b3d6fb9944a6317b755e349003]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_122.gif)
 
@@ -9825,7 +9825,7 @@ Form CP14[^key-e3ce32b3d6fb9944a6317b755e349003]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_266)
 
-[^M_F_4b73c735-74fb-4b96-dff8-04788248a670][^M_F_02c9bb65-c65a-421d-c110-88182bd0fcb8]Form CP38[^key-863a262c7fe553153b49f153b0ba894e]
+[^M_F_4b73c735-74fb-4b96-dff8-04788248a670][^M_F_02c9bb65-c65a-421d-c110-88182bd0fcb8]Form CP38[^c-863a262c7fe553153b49f153b0ba894e]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_119.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_120.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_134.gif)
 
@@ -9861,7 +9861,7 @@ Form M6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_161)
 
-[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]Form PI1[^key-99cb185dcbba2a3ad1ac1fafd9cbb3dd]
+[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]Form PI1[^c-99cb185dcbba2a3ad1ac1fafd9cbb3dd]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_106.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_107.gif)
 
@@ -9869,11 +9869,11 @@ Form M6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_004.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_005.gif)
 
-[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439][^key-75051f66beeb06ce0992628b8aaa1662]Form PI3
+[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439][^c-75051f66beeb06ce0992628b8aaa1662]Form PI3
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_006.gif)
 
-[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]Form PI4[^key-12ba05c95a407926cabf43f3c45700e5]
+[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]Form PI4[^c-12ba05c95a407926cabf43f3c45700e5]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_108.gif)
 
@@ -9881,15 +9881,15 @@ Form M6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_008.gif)
 
-[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439][^key-b46aad35ca7686fc4ac9d84dc58a7299][^key-5e8e14abf95bcd6d115c2c47021f4893]Form PI6
+[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439][^c-b46aad35ca7686fc4ac9d84dc58a7299][^c-5e8e14abf95bcd6d115c2c47021f4893]Form PI6
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_009.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_010.gif)
 
-[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]Form PI7[^key-16aa6697b7904b7ad6cc43ce2ac72f8b]
+[^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]Form PI7[^c-16aa6697b7904b7ad6cc43ce2ac72f8b]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_109.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_110.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_111.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_112.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_113.gif)
 
-Form PI8[^key-74cb8db931c8ee3624ddbe978582962b]
+Form PI8[^c-74cb8db931c8ee3624ddbe978582962b]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_114.gif)
 
@@ -9921,19 +9921,19 @@ Form P2
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_208)
 
-[^key-afa37ea5842f92ce109a9c0e33164510][^M_F_a10bc891-ca3c-45ce-d82d-96f414c7fccc]Form DA1
+[^c-afa37ea5842f92ce109a9c0e33164510][^M_F_a10bc891-ca3c-45ce-d82d-96f414c7fccc]Form DA1
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_053.gif)
 
-[^key-d8b32e63cf9f4cd1242644422345c88d]Form DA2
+[^c-d8b32e63cf9f4cd1242644422345c88d]Form DA2
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_054.gif)
 
-[^key-2d0668a634ef0271b7dd4e14cf77572c][^M_F_0a6ebf26-6936-4c4e-d4c7-6a67db5e3b0c]Form DA3
+[^c-2d0668a634ef0271b7dd4e14cf77572c][^M_F_0a6ebf26-6936-4c4e-d4c7-6a67db5e3b0c]Form DA3
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_055.gif)
 
-[^key-a2bac87379700a6f02745aee4e56b0c7][^M_F_e5ef1b90-606d-4c9f-9740-62edabc9eaad][^M_F_0932c576-ff5f-4288-f3c0-e9a2a2b4d667]Form DA4
+[^c-a2bac87379700a6f02745aee4e56b0c7][^M_F_e5ef1b90-606d-4c9f-9740-62edabc9eaad][^M_F_0932c576-ff5f-4288-f3c0-e9a2a2b4d667]Form DA4
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_056.gif)
 
@@ -9941,11 +9941,11 @@ Form P2
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_282)
 
-Form 48.1A[^key-d8974863a05d47f9af8b8fbbdc22403d]
+Form 48.1A[^c-d8974863a05d47f9af8b8fbbdc22403d]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_139.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_140.gif)
 
-Form 49.6[^key-e894a98f46677528ce34f588a7ceb7be]
+Form 49.6[^c-e894a98f46677528ce34f588a7ceb7be]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_057.gif)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_058.gif)
 
@@ -9991,7 +9991,7 @@ Form 49.11H
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_071.gif)
 
-Form 51.3-A[^key-f1234a1038ba373f06d1fc0a8a3e81c2]
+Form 51.3-A[^c-f1234a1038ba373f06d1fc0a8a3e81c2]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_085.gif)
 
@@ -10003,13 +10003,13 @@ Form 51.3-C
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_087.gif)
 
-Form 51.5[^key-91a528644273eac6f35f2c07a6b63e1f]
+Form 51.5[^c-91a528644273eac6f35f2c07a6b63e1f]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_088.gif)
 
-[^key-91b17057722ad19ebcf841d1aab28d17]...
+[^c-91b17057722ad19ebcf841d1aab28d17]...
 
-Form 53.4[^key-c26b7cda55e22653434848bb3fd336cf]
+Form 53.4[^c-c26b7cda55e22653434848bb3fd336cf]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_epp_093.gif)
 
@@ -10019,7 +10019,7 @@ Rule 30.6(1)
 
 [image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_314)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_315)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_316)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_317)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_318)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_319)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_320)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_321)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_322)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_323)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_324)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_325)[image: see source](https://www.legislation.gov.uk/ukpga/Edw7/7/51/images/ukpga_19070051_en_sld_326)
 
-### Appendix 3 — SCHEDULE OF TIMETABLE UNDER PERSONAL INJURIES PROCEDURE[^key-850ee85141bae3bf3bb22117020b8907]
+### Appendix 3 — SCHEDULE OF TIMETABLE UNDER PERSONAL INJURIES PROCEDURE[^c-850ee85141bae3bf3bb22117020b8907]
 
 Rule 36.G1(1B)
 
@@ -10040,7 +10040,7 @@ Rule 36.G1(1B)
 </tbody>
 </table>
 
-[^key-2ff026fa355fc9a5a7eed6b9108d76d2]
+[^c-2ff026fa355fc9a5a7eed6b9108d76d2]
 
 ## Annotations
 
@@ -10050,67 +10050,67 @@ Rule 36.G1(1B)
 
     Sch. 1 extended (14.2.2000) by [S.I. 2000/124](https://www.legislation.gov.uk/uksi/2000/124), [reg. 30(5)](https://www.legislation.gov.uk/uksi/2000/124/regulation/30/5)
 
-[^key-eed57851ded7da4b5ba7eb101e3987a4]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) applied (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [ss. 121(5)](https://www.legislation.gov.uk/asp/2016/21/section/121/5), [237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-eed57851ded7da4b5ba7eb101e3987a4]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) applied (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [ss. 121(5)](https://www.legislation.gov.uk/asp/2016/21/section/121/5), [237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-73a83fb7e3a2695b846d90e16d4c2119]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) modified (1.12.2025) by [Act of Sederunt (Intimation and Service) 2025 (S.S.I. 2025/301)](https://www.legislation.gov.uk/ssi/2025/301), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/2), [(4)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/4), [2](https://www.legislation.gov.uk/ssi/2025/301/paragraph/2) (with [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/5))
+[^c-73a83fb7e3a2695b846d90e16d4c2119]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) modified (1.12.2025) by [Act of Sederunt (Intimation and Service) 2025 (S.S.I. 2025/301)](https://www.legislation.gov.uk/ssi/2025/301), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/2), [(4)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/4), [2](https://www.legislation.gov.uk/ssi/2025/301/paragraph/2) (with [para. 1(5)](https://www.legislation.gov.uk/ssi/2025/301/paragraph/1/5))
 
 [^M_C_a1e52cba-9455-4ca5-e4d3-6370c06775a8]: Modification: Sch. 1 modified (1.12.2025) by [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [2(1)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/2/1), [3-5](https://www.legislation.gov.uk/ssi/2014/302/paragraph/3)
 
-[^key-677ad751626e72622de3a5103036f0c0]: Textual amendment: Words in Sch. 1 rule 1.2(1) inserted (3.7.2023) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Attendance at Hearings) 2023 (S.S.I. 2023/168)](https://www.legislation.gov.uk/ssi/2023/168), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/3/2)
+[^c-677ad751626e72622de3a5103036f0c0]: Textual amendment: Words in Sch. 1 rule 1.2(1) inserted (3.7.2023) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Attendance at Hearings) 2023 (S.S.I. 2023/168)](https://www.legislation.gov.uk/ssi/2023/168), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/3/2)
 
 [^c15188231]: Marginal citation: [1988 c.32](https://www.legislation.gov.uk/ukpga/1988/32).
 
 [^c20735621]: Textual amendment: Sch. 1 rule 1.2(1): entry relating to "enactment" inserted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(2)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/2)
 
-[^key-06c8e734b228479fff99fd47da348f3c]: Textual amendment: Words in Sch. 1 rule 1.2(1) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-06c8e734b228479fff99fd47da348f3c]: Textual amendment: Words in Sch. 1 rule 1.2(1) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20680401]: Textual amendment: Sch. 1 rule 1.2(1): definition of "the Act of 2004" inserted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), para. 2(2)
 
-[^key-531c8065442105118fa1118c4566c994]: Textual amendment: Words in Sch. 1 rule 1.2(1) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/2/a)
+[^c-531c8065442105118fa1118c4566c994]: Textual amendment: Words in Sch. 1 rule 1.2(1) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/2/a)
 
-[^key-a2b33fa8d15f634308cc0ed26fd83772]: Textual amendment: Sch. 1 rule 1.2(7) inserted (22.9.2015) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/2/b)
+[^c-a2b33fa8d15f634308cc0ed26fd83772]: Textual amendment: Sch. 1 rule 1.2(7) inserted (22.9.2015) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/2/b)
 
-[^key-9635d98e37ce4377a651d9ce35955224]: Textual amendment: [Sch. 1 rule 1.2(8)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/1.2/8) omitted (1.12.2025) by virtue of [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/6/2) (with [para. 2](https://www.legislation.gov.uk/ssi/2025/302/paragraph/2))
+[^c-9635d98e37ce4377a651d9ce35955224]: Textual amendment: [Sch. 1 rule 1.2(8)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/1.2/8) omitted (1.12.2025) by virtue of [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/6/2) (with [para. 2](https://www.legislation.gov.uk/ssi/2025/302/paragraph/2))
 
 [^c15188241]: Marginal citation: [1987 c.18](https://www.legislation.gov.uk/ukpga/1987/18).
 
-[^key-3476c30461cfec234ea91a6ff8a471e1]: Textual amendment: Sch. 1 rule 1.3(2) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-3476c30461cfec234ea91a6ff8a471e1]: Textual amendment: Sch. 1 rule 1.3(2) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c20735641]: Textual amendment: Sch. 1 rule 1.3(3)(4) inserted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(3)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/3)
 
-[^key-32b678d7ba9171962e90d1ae388bfba8]: Textual amendment: Sch. 1 rule 1.3A inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/2/2)
+[^c-32b678d7ba9171962e90d1ae388bfba8]: Textual amendment: Sch. 1 rule 1.3A inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/2/2)
 
-[^key-d0ff6d87015080996da70a1ae0dc3ddb]: Textual amendment: Sch. 1 Ch. 1A inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/2/2)
+[^c-d0ff6d87015080996da70a1ae0dc3ddb]: Textual amendment: Sch. 1 Ch. 1A inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/2/2)
 
-[^key-6e084fe9b81b9510aa13ec1eea37ac5d]: Textual amendment: Word in Sch. 1 rule 1A.2(1) substituted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/a)
+[^c-6e084fe9b81b9510aa13ec1eea37ac5d]: Textual amendment: Word in Sch. 1 rule 1A.2(1) substituted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/a)
 
-[^key-b4f6403e70916221e9d6109d4a867154]: Textual amendment: Words in Sch. 1 rule 1A.2(2)(a) substituted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/b)
+[^c-b4f6403e70916221e9d6109d4a867154]: Textual amendment: Words in Sch. 1 rule 1A.2(2)(a) substituted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/b)
 
-[^key-643e42551bdcef9c8dacc33820df06cc]: Textual amendment: Words in Sch. 1 rule 1A.2(3) substituted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(c)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/c)
+[^c-643e42551bdcef9c8dacc33820df06cc]: Textual amendment: Words in Sch. 1 rule 1A.2(3) substituted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(c)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/c)
 
-[^key-de7370cc5d692c96f3823b0cc0ebad2b]: Textual amendment: Sch. 1 rule 1A.2(6A) inserted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(d)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/d)
+[^c-de7370cc5d692c96f3823b0cc0ebad2b]: Textual amendment: Sch. 1 rule 1A.2(6A) inserted (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(2)(d)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/2/d)
 
-[^key-95577fd184ee725107e66f6e4c1fe81f]: Modification: [Sch. 1 Ch. 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/3) excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
+[^c-95577fd184ee725107e66f6e4c1fe81f]: Modification: [Sch. 1 Ch. 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/3) excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
 
 [^c15188291]: Textual amendment: Sch. 1 rule 3.1(1)(a)(b) substituted for rule 3.1(1) (1.3.2001) by [S.S.I. 2001/8](https://www.legislation.gov.uk/ssi/2001/8), [para. 2(1)(2)](https://www.legislation.gov.uk/ssi/2001/8/paragraph/2/1/2)
 
 [^M_F_459c5a41-f096-4748-9d11-d66319a0280b]: Textual amendment: Sch. 1 rule 3.1(1)(c) and word inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
-[^key-bd1c981d99d8be057ad0e77ac5d7c2cf]: Textual amendment: Sch. 1 rule 3.1(1)(d) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/3/a) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-bd1c981d99d8be057ad0e77ac5d7c2cf]: Textual amendment: Sch. 1 rule 3.1(1)(d) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/3/a) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
 [^c15188301]: Textual amendment: Word in sch. 1 rule 3.1(3) substituted (1.1.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/2/a/i)
 
 [^c15188311]: Textual amendment: Word in sch. 1 rule 3.1(3)-(5) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(2)(a)(ii)(b)(c)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/2/a/ii)
 
-[^key-4d5368b93cc32e374d538ffc7f22f90e]: Textual amendment: Sch. 1 rule 3.1(5A)(5B) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(3)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/3/b) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-4d5368b93cc32e374d538ffc7f22f90e]: Textual amendment: Sch. 1 rule 3.1(5A)(5B) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(3)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/3/b) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-09acb2555eddbcc5ae345c55ab36391e]: Textual amendment: Sch. 1 rule 3.2(3) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/7) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-09acb2555eddbcc5ae345c55ab36391e]: Textual amendment: Sch. 1 rule 3.2(3) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/7) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^c22730711]: Textual amendment: [Sch. 1 rule 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/3).2A inserted (1.12.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/2/2) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))
 
 [^c20735661]: Textual amendment: Words in Sch. 1 rule 3.3(1)(c) inserted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(4)(a)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/4/a)
 
-[^key-00db8d9c112ceaeec159c75673de5822]: Textual amendment: Sch. 1 rule 3.3(1)(d) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/8/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-00db8d9c112ceaeec159c75673de5822]: Textual amendment: Sch. 1 rule 3.3(1)(d) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/8/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^c20726611]: Textual amendment: Sch. 1 rule 3.3(1)(e) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(2)}
 
@@ -10118,33 +10118,33 @@ Rule 36.G1(1B)
 
 [^c20735681]: Textual amendment: Words in Sch. 1 rule 3.3(2) inserted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(4)(b)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/4/b)
 
-[^key-e42f78a2c434d7f1549bdd16e359c5ae]: Textual amendment: Sch. 1 rule 3.3(4) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/8/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-e42f78a2c434d7f1549bdd16e359c5ae]: Textual amendment: Sch. 1 rule 3.3(4) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/8/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^c15188381]: Textual amendment: Word in [rule 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/3).4(1) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(4)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/4)
 
 [^c20738621]: Textual amendment: [Sch. 1 rule 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/3).5 revoked (1.4.2008) by [Act of Sederunt (Sheriff Court Rules Amendment) (Diligence) 2008 (S.S.I. 2008/121)](https://www.legislation.gov.uk/ssi/2008/121), [para. 5(2)](https://www.legislation.gov.uk/ssi/2008/121/paragraph/5/2)
 
-[^key-18449963ea40edf6c69cdacc4d6a2f8e]: Textual amendment: Sch. 1 Ch. 3A inserted (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Personal Injury Pre-Action Protocol) 2016 (S.S.I. 2016/215)](https://www.legislation.gov.uk/ssi/2016/215), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/2/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2016/215/paragraph/4))
+[^c-18449963ea40edf6c69cdacc4d6a2f8e]: Textual amendment: Sch. 1 Ch. 3A inserted (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Personal Injury Pre-Action Protocol) 2016 (S.S.I. 2016/215)](https://www.legislation.gov.uk/ssi/2016/215), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/2/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2016/215/paragraph/4))
 
 [^c20679601]: Textual amendment: [Sch. 1 Ch. 4](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/4) omitted (28.4.2006) by virtue of the [Act of Sederunt (Sheriff Court Caveat Rules) 2006 (S.S.I. 2006/198)](https://www.legislation.gov.uk/ssi/2006/198), [para. 4(2)](https://www.legislation.gov.uk/ssi/2006/198/paragraph/4/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/198/article/5))
 
 [^c15188391]: Marginal citation: [1972 c.59](https://www.legislation.gov.uk/ukpga/1972/59).
 
-[^key-167436a7653043ecc8e430f0c1e3c53b]: Textual amendment: Sch. 1 Ch. 4A inserted (3.7.2023) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Attendance at Hearings) 2023 (S.S.I. 2023/168)](https://www.legislation.gov.uk/ssi/2023/168), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/3/3)
+[^c-167436a7653043ecc8e430f0c1e3c53b]: Textual amendment: Sch. 1 Ch. 4A inserted (3.7.2023) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Attendance at Hearings) 2023 (S.S.I. 2023/168)](https://www.legislation.gov.uk/ssi/2023/168), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/3/3)
 
-[^key-28e9c9a699356a03602f5ae43e423038]: Modification: [Sch. 1 Ch. 5](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/5) excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
+[^c-28e9c9a699356a03602f5ae43e423038]: Modification: [Sch. 1 Ch. 5](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/5) excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
 
 [^c20719961]: Textual amendment: Words in Sch. 1 rule 5.1(1) substituted (21.5.2004) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2004 (S.S.I. 2004/197)](https://www.legislation.gov.uk/ssi/2004/197), [para. 2(3)(a)](https://www.legislation.gov.uk/ssi/2004/197/article/2/3/a)
 
 [^c20720001]: Textual amendment: Sch. 1 rule 5.1(2)(b)(ba) substituted (21.5.2004) for Sch. 1 rule 5.1(2)(b) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2004 (S.S.I. 2004/197)](https://www.legislation.gov.uk/ssi/2004/197), [para. 2(3)(b)](https://www.legislation.gov.uk/ssi/2004/197/article/2/3/b)
 
-[^key-f9bd4bb09bc80d4833f7634e78a7e0d2]: Textual amendment: Words in Sch. 1 rule 5.1(2)(b) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/2/a)
+[^c-f9bd4bb09bc80d4833f7634e78a7e0d2]: Textual amendment: Words in Sch. 1 rule 5.1(2)(b) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/2/a)
 
 [^c20726681]: Textual amendment: Word in Sch. 1 rule 5.1(2)(c) substituted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(3)(a)
 
 [^c20726741]: Textual amendment: [Sch. 1 rule 5](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/5).1(2)(d) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(3)(b)
 
-[^key-8d87b3f1f395d8fe541339495b0cc4d5]: Textual amendment: Sch. 1 rule 5.1(2)(e)-(g) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/2/b)
+[^c-8d87b3f1f395d8fe541339495b0cc4d5]: Textual amendment: Sch. 1 rule 5.1(2)(e)-(g) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/2/b)
 
 [^c20726901]: Textual amendment: Sch. 1 rule 5.2(1)(aa) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(4)}
 
@@ -10154,7 +10154,7 @@ Rule 36.G1(1B)
 
 [^c17810631]: Textual amendment: Word in rule 5.2(1)(c) inserted (17.1.2002) by Act of Sederunt (Amendment of Ordinary Cause Rules and Summary Applications, Statutory Applications and Appeals etc. Rules) (Applications under the Mortgage Rights (Scotland) Act 2001) 2002 ([S.S.I. 2002/7](https://www.legislation.gov.uk/ssi/2002/7)), {para. 2(4)(b)}
 
-[^key-198946031ab25ffc40e19a84e6b3e822]: Textual amendment: Sch. 1 rule 5.2(1)(d) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/9/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-198946031ab25ffc40e19a84e6b3e822]: Textual amendment: Sch. 1 rule 5.2(1)(d) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/9/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^c15188411]: Textual amendment: Words in rule 5.2(1) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(5)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/5/a)
 
@@ -10162,23 +10162,23 @@ Rule 36.G1(1B)
 
 [^c20735731]: Textual amendment: Words in Sch. 1 rule 5.2(2) inserted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(5)(b)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/5/b)
 
-[^key-7c8348648ff34c0a49f56549ee25300e]: Textual amendment: Sch. 1 rule 5.2(2A) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/9/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-7c8348648ff34c0a49f56549ee25300e]: Textual amendment: Sch. 1 rule 5.2(2A) omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/9/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^c15188431]: Marginal citation: [1882 c.77](https://www.legislation.gov.uk/ukpga/1882/77).
 
-[^key-ebd110df9a49c1baf6d78e0245c9414b]: Textual amendment: Sch. 1 rule 5.4(3)(b) substituted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/2/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-ebd110df9a49c1baf6d78e0245c9414b]: Textual amendment: Sch. 1 rule 5.4(3)(b) substituted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/2/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c20667631]: Textual amendment: Sch. 1 rule 5.4(5) inserted (24.1.2003) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2003 (S.I. 2003/26)](https://www.legislation.gov.uk/uksi/2003/26), [para. 2(3)](https://www.legislation.gov.uk/uksi/2003/26/paragraph/2/3)
 
-[^key-b369a3044abd788a472fe1620faed88f]: Textual amendment: Sch. 1 rule 5.4(6) inserted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/2/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-b369a3044abd788a472fe1620faed88f]: Textual amendment: Sch. 1 rule 5.4(6) inserted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/2/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c15188461]: Marginal citation: Cmnd. 3986 (1969).
 
 [^c15188471]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27); [Schedule 3C](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/3C) was inserted by the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12), [section 1(3)](https://www.legislation.gov.uk/ukpga/1991/12/section/1/3).
 
-[^key-01443eee82f8792c46ab4cdb7cd8be56]: Textual amendment: Words in Sch. 1 rule 5.5(1)(b)(ii) substituted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [6](https://www.legislation.gov.uk/ssi/2011/193/paragraph/6) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-01443eee82f8792c46ab4cdb7cd8be56]: Textual amendment: Words in Sch. 1 rule 5.5(1)(b)(ii) substituted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [6](https://www.legislation.gov.uk/ssi/2011/193/paragraph/6) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-b726076736058dc6c1f473dbff8643f5]: Textual amendment: Words in Sch. 1 rule 5.5(1)(b)(iii) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/1)
+[^c-b726076736058dc6c1f473dbff8643f5]: Textual amendment: Words in Sch. 1 rule 5.5(1)(b)(iii) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/1)
 
 [^c20667651]: Textual amendment: Word in Sch. 1 rule 5.5 omitted (24.1.2003) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2003 (S.I. 2003/26)](https://www.legislation.gov.uk/uksi/2003/26), [para. 2(4)(a)](https://www.legislation.gov.uk/uksi/2003/26/article/2/4/a)
 
@@ -10192,9 +10192,9 @@ Rule 36.G1(1B)
 
 [^M_F_50040344-2211-47d5-8062-1e9e8a048237]: Textual amendment: Words in Sch. 1 rule 5.5(1A) substituted (1.12.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2008 (S.S.I. 2008/365)](https://www.legislation.gov.uk/ssi/2008/365), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/1/3), [7(a)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/7/a)
 
-[^key-4160e7eff0b6f0fc61aa4c4d017d6e07]: Textual amendment: Words in Sch. 1 rule 5.5(3)(a) inserted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [7](https://www.legislation.gov.uk/ssi/2011/193/paragraph/7) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-4160e7eff0b6f0fc61aa4c4d017d6e07]: Textual amendment: Words in Sch. 1 rule 5.5(3)(a) inserted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [7](https://www.legislation.gov.uk/ssi/2011/193/paragraph/7) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-64e3b8e28cf4b53851a4df32796a70de]: Textual amendment: Words in Sch. 1 rule 5.5(3)(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/1)
+[^c-64e3b8e28cf4b53851a4df32796a70de]: Textual amendment: Words in Sch. 1 rule 5.5(3)(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/1)
 
 [^c20720411]: Textual amendment: Words in Sch. 1 rule 5.5(6) omitted (21.5.2004) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2004 (S.S.I. 2004/197)](https://www.legislation.gov.uk/ssi/2004/197), [para. 2(4)(c)](https://www.legislation.gov.uk/ssi/2004/197/article/2/4/c)
 
@@ -10222,9 +10222,9 @@ Rule 36.G1(1B)
 
 [^c20691341]: Textual amendment: [1868 c. 101](https://www.legislation.gov.uk/ukpga/1868/101).Section 155(2) was substituted by the Bankruptcy and Diligence etc. (Scotland) Act 2007, section 149.
 
-[^key-7451ad62e35eee8357aca66498027325]: Textual amendment: Sch. 1 rule 6.A4 renumbered as Sch. 1 rule 6.A4(1) (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2014/291/article/3/2/a)
+[^c-7451ad62e35eee8357aca66498027325]: Textual amendment: Sch. 1 rule 6.A4 renumbered as Sch. 1 rule 6.A4(1) (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2014/291/article/3/2/a)
 
-[^key-818946a49aaf6ed91110eadd3b224271]: Textual amendment: Sch. 1 rule 6.A4(2) inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2014/291/article/3/2/b)
+[^c-818946a49aaf6ed91110eadd3b224271]: Textual amendment: Sch. 1 rule 6.A4(2) inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2014/291/article/3/2/b)
 
 [^c20691411]: Textual amendment: [Sch. 1 rule 6](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/6).A6 revoked (22.4.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Diligence) 2009 (S.S.I. 2009/107)](https://www.legislation.gov.uk/ssi/2009/107), [para. 3(3)](https://www.legislation.gov.uk/ssi/2009/107/paragraph/3/3)
 
@@ -10232,7 +10232,7 @@ Rule 36.G1(1B)
 
 [^c20738681]: Textual amendment: [Sch. 1 rule 6](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/6).2 revoked (1.4.2008) by [Act of Sederunt (Sheriff Court Rules Amendment) (Diligence) 2008 (S.S.I. 2008/121)](https://www.legislation.gov.uk/ssi/2008/121), [para. 5(6)](https://www.legislation.gov.uk/ssi/2008/121/paragraph/5/6)
 
-[^key-eaaebfee30a7ec442dda30266d43e106]: Textual amendment: Sch. 1 rule 6.3 omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/3)
+[^c-eaaebfee30a7ec442dda30266d43e106]: Textual amendment: Sch. 1 rule 6.3 omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/3)
 
 [^c15188551]: Marginal citation: [1987 c.18](https://www.legislation.gov.uk/ukpga/1987/18).
 
@@ -10262,9 +10262,9 @@ Rule 36.G1(1B)
 
 [^c22730761]: Textual amendment: [Sch. 1 rule 7](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/7).3(4)-(4B) substituted (1.12.2009) for rule 7.3(4) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/2/3/b) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))
 
-[^key-6e2d5227c78f14f013c2801642c49822]: Textual amendment: Sch. 1 rule 7.4 renumbered as Sch. 1 rule 7.4(1) (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/2/a) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-6e2d5227c78f14f013c2801642c49822]: Textual amendment: Sch. 1 rule 7.4 renumbered as Sch. 1 rule 7.4(1) (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/2/a) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
-[^key-1bd6c3588c0a0f23c74a78d77c3e8153]: Textual amendment: Sch. 1 rule 7.4(2) inserted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/2/b) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-1bd6c3588c0a0f23c74a78d77c3e8153]: Textual amendment: Sch. 1 rule 7.4(2) inserted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/2/b) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
 [^c15188621]: Marginal citation: [1974 c.38](https://www.legislation.gov.uk/ukpga/1974/38).
 
@@ -10276,9 +10276,9 @@ Rule 36.G1(1B)
 
 [^c15188661]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/7).7 inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(11)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/11)
 
-[^key-c9f259eca2a5b8c6183faeafc1b5c634]: Modification: [Sch. 1 Ch. 8](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/8) excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
+[^c-c9f259eca2a5b8c6183faeafc1b5c634]: Modification: [Sch. 1 Ch. 8](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/8) excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
 
-[^key-73c0f36770d3ffa034fc982d51012efe]: Textual amendment: Words in Sch. 1 rule 8.1(1)(a) substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/2)
+[^c-73c0f36770d3ffa034fc982d51012efe]: Textual amendment: Words in Sch. 1 rule 8.1(1)(a) substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/2)
 
 [^c20726961]: Textual amendment: [Sch. 1 rule 8](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/8).1(1)(aa) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(5)(b)
 
@@ -10296,29 +10296,29 @@ Rule 36.G1(1B)
 
 [^c15188671]: Textual amendment: Sch. 1 rule 8.1(4A) inserted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(2)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/2)
 
-[^key-d05f68f23803233c950b47af7dd79ea8]: Modification: Sch. 1 Ch. 9 excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
+[^c-d05f68f23803233c950b47af7dd79ea8]: Modification: Sch. 1 Ch. 9 excluded (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [(6)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/6)
 
-[^key-eca3f244a181c82608295533e459e4e2]: Textual amendment: Word in Sch. 1 rule 9.1(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/3/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-eca3f244a181c82608295533e459e4e2]: Textual amendment: Word in Sch. 1 rule 9.1(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/3/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15188691]: Textual amendment: Words in Sch. 1 rule 9.1(1) inserted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2167/schedule) [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2)
 
 [^c15188701]: Textual amendment: Sch. 1 rule 9.1(3) inserted (1.3.2001) by [S.S.I. 2001/8](https://www.legislation.gov.uk/ssi/2001/8), [para. 2(1)(3)](https://www.legislation.gov.uk/ssi/2001/8/paragraph/2/1/3)
 
-[^key-ec15acb3a0b491aca64ec89757b6841b]: Textual amendment: Words in Sch. 1 rule 9.1(3) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/3/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-ec15acb3a0b491aca64ec89757b6841b]: Textual amendment: Words in Sch. 1 rule 9.1(3) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/3/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-c2093d9f1466f3db4831a3a424edc8d7]: Textual amendment: Words in Sch. 1 rule 9.2(1) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/4/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-c2093d9f1466f3db4831a3a424edc8d7]: Textual amendment: Words in Sch. 1 rule 9.2(1) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/4/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-9af3bcfbdc8ec221bfac66178ba0f191]: Textual amendment: Sch. 1 rule 9.2(1A) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/4/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-9af3bcfbdc8ec221bfac66178ba0f191]: Textual amendment: Sch. 1 rule 9.2(1A) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/4/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-b85f9c183e53598fa2a375118d5fe047]: Textual amendment: Sch. 1 rule 9.2(1B) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/4/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-b85f9c183e53598fa2a375118d5fe047]: Textual amendment: Sch. 1 rule 9.2(1B) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/4/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15188761]: Textual amendment: Words in Sch. 1 rule 9.2(3) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(12)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/12)
 
 [^c20727191]: Textual amendment: Sch. 1 rule 9.2A substituted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(2)](https://www.legislation.gov.uk/ssi/2006/410/paragraph/2/2)
 
-[^key-d0c505354f6b75d2544122726677c8d2]: Textual amendment: Words in Sch. 1 rule 9.6(1) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/5/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-d0c505354f6b75d2544122726677c8d2]: Textual amendment: Words in Sch. 1 rule 9.6(1) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/5/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-8632c63bc1f9bb84ef7033d6f531f1ef]: Textual amendment: Sch. 1 rule 9.6(3) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/5/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-8632c63bc1f9bb84ef7033d6f531f1ef]: Textual amendment: Sch. 1 rule 9.6(3) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/5/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15188801]: Textual amendment: Sch. 1 rule 9.11(3) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(14)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/14)
 
@@ -10326,15 +10326,15 @@ Rule 36.G1(1B)
 
 [^M_F_83b724d0-72ae-4ec7-9176-d88fbab797af]: Textual amendment: Sch. 1 rule 9.12(3)(d)(e) inserted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), para. 2(3)
 
-[^key-43220fa454d0c15c9a61c88fc6976c76]: Textual amendment: Sch. 1 rule 9.12(3)(f) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-43220fa454d0c15c9a61c88fc6976c76]: Textual amendment: Sch. 1 rule 9.12(3)(f) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-bfa27fe43513281583d4996d791194c3]: Textual amendment: Word in Sch. 1 rule 9.12(7) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/b/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-bfa27fe43513281583d4996d791194c3]: Textual amendment: Word in Sch. 1 rule 9.12(7) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/b/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-afb2a946642c14d5dc5ab32da22fd5be]: Textual amendment: Words in Sch. 1 rule 9.12(7) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/b/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-afb2a946642c14d5dc5ab32da22fd5be]: Textual amendment: Words in Sch. 1 rule 9.12(7) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/b/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20727071]: Textual amendment: Sch. 1 rule 9.12(8) inserted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(3)](https://www.legislation.gov.uk/ssi/2006/410/article/2/3)
 
-[^key-a2b1a2f8786d3701d1e524167b074efc]: Textual amendment: Sch. 1 rule 9.12(9) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(c)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/c) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-a2b1a2f8786d3701d1e524167b074efc]: Textual amendment: Sch. 1 rule 9.12(9) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(6)(c)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/6/c) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20721291]: Textual amendment: Sch. 1 rule 9.13 omitted (21.5.2004) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2004 (S.S.I. 2004/197)](https://www.legislation.gov.uk/ssi/2004/197), [para. 2(7)](https://www.legislation.gov.uk/ssi/2004/197/article/2/7)
 
@@ -10354,7 +10354,7 @@ Rule 36.G1(1B)
 
 [^c20683241]: Textual amendment: Sch. 1 rule 10.6(3)(d)(e) inserted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), para. 2(5)
 
-[^key-c7b206700c42eb9490b70a27ae452fd1]: Textual amendment: Sch. 1 rule 10.6(3)(f) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(7)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/7/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-c7b206700c42eb9490b70a27ae452fd1]: Textual amendment: Sch. 1 rule 10.6(3)(f) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(7)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/7/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20728531]: Textual amendment: Words in Sch. 1 rule 10.6(4) substituted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2006/410/article/2/4/a/i)
 
@@ -10362,7 +10362,7 @@ Rule 36.G1(1B)
 
 [^c20728601]: Textual amendment: Sch. 1 rule 10.6(5) inserted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(4)(b)](https://www.legislation.gov.uk/ssi/2006/410/article/2/4/b)
 
-[^key-c51035fa6379f319089b0f8d81cedf14]: Textual amendment: Sch. 1 rule 10.6(6) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(7)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/7/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-c51035fa6379f319089b0f8d81cedf14]: Textual amendment: Sch. 1 rule 10.6(6) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(7)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/7/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15188871]: Textual amendment: Words in [rule 11](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/11).2(3) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(15)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/15)
 
@@ -10370,15 +10370,15 @@ Rule 36.G1(1B)
 
 [^c15188891]: Textual amendment: Words in [rule 11](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/11).6(4) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(16)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/16/b)
 
-[^key-be654acffab54ed68029c7b77d9f4732]: Textual amendment: Word in Sch. 1 rule 11.7(1) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(3)(a)(i)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/3/a/i) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-be654acffab54ed68029c7b77d9f4732]: Textual amendment: Word in Sch. 1 rule 11.7(1) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(3)(a)(i)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/3/a/i) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-31ef2b643597c0aa2cba5ab881b5fed7]: Textual amendment: Word in Sch. 1 rule 11.7(1) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/3/a/ii) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-31ef2b643597c0aa2cba5ab881b5fed7]: Textual amendment: Word in Sch. 1 rule 11.7(1) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/3/a/ii) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-c5024f8d2ddb7995dbff3da94c42f001]: Textual amendment: Word in Sch. 1 rule 11.7(2) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/3/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-c5024f8d2ddb7995dbff3da94c42f001]: Textual amendment: Word in Sch. 1 rule 11.7(2) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/3/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-d00ebd9f7988471b34817c3ad141e87a]: Textual amendment: Sch. 1 rule 11.8(1)(1A) substituted for Sch. 1 rule 11.8(1) (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/3/2)
+[^c-d00ebd9f7988471b34817c3ad141e87a]: Textual amendment: Sch. 1 rule 11.8(1)(1A) substituted for Sch. 1 rule 11.8(1) (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/3/2)
 
-[^key-aeee15240939d54202a8e8130e6f23d1]: Textual amendment: Sch. 1 rules 12.2-12.4 substituted for Sch. 1 rule 12.2 (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/2/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-aeee15240939d54202a8e8130e6f23d1]: Textual amendment: Sch. 1 rules 12.2-12.4 substituted for Sch. 1 rule 12.2 (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/2/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^M_F_0d384d13-93d9-47ec-e9ae-2cf46d762451]: Textual amendment: Words in sch. 1 rule 13.1(4) inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/3) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
@@ -10386,7 +10386,7 @@ Rule 36.G1(1B)
 
 [^M_F_54b9d44d-acec-4595-c544-6695207215cd]: Textual amendment: Sch. 1 rule 13.2(4)(5) inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/4) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
-[^key-524df1aca600f6f63526e42f22c939db]: Textual amendment: [Sch. 1 Ch. 13A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/13A) substituted for Chs. 13A, 13B (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/4/2)
+[^c-524df1aca600f6f63526e42f22c939db]: Textual amendment: [Sch. 1 Ch. 13A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/13A) substituted for Chs. 13A, 13B (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/4/2)
 
 [^c15188921]: Textual amendment: Word in [rule 14](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/14).1(2)(a) omitted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(19)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/19/a)
 
@@ -10410,9 +10410,9 @@ Rule 36.G1(1B)
 
 [^c15189021]: Textual amendment: [Rules 14](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/14).4-14.13 inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(21)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/21)
 
-[^key-99da3e4c0e3bb9364413ccd808335bb7]: Textual amendment: Sch. 1 rule 14.10A inserted (3.6.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2013 (S.S.I. 2013/139)](https://www.legislation.gov.uk/ssi/2013/139), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/139/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2013/139/rule/2/4) (with [para. 6](https://www.legislation.gov.uk/ssi/2013/139/article/6))
+[^c-99da3e4c0e3bb9364413ccd808335bb7]: Textual amendment: Sch. 1 rule 14.10A inserted (3.6.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2013 (S.S.I. 2013/139)](https://www.legislation.gov.uk/ssi/2013/139), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/139/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2013/139/rule/2/4) (with [para. 6](https://www.legislation.gov.uk/ssi/2013/139/article/6))
 
-[^key-a5f0880cba2cb755229eb048961d82e8]: Textual amendment: Words in Sch. 1 rule 14.10A(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/8) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-a5f0880cba2cb755229eb048961d82e8]: Textual amendment: Words in Sch. 1 rule 14.10A(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/8) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15189031]: Textual amendment: [Rules 14](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/14).4-14.13 inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(21)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/21)
 
@@ -10424,7 +10424,7 @@ Rule 36.G1(1B)
 
 [^c15189071]: Textual amendment: Ch. 15 substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(22)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/22)
 
-[^key-e70c312ec5ee20f7c2bcaa44cdb87749]: Textual amendment: Sch. 1 rule 15.A1 inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(4)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/4)
+[^c-e70c312ec5ee20f7c2bcaa44cdb87749]: Textual amendment: Sch. 1 rule 15.A1 inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(4)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/4)
 
 [^c17182011]: Textual amendment: [Chapter 15](https://www.legislation.gov.uk/ukpga/Edw7/7/51/part/15) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(22)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/22)
 
@@ -10440,9 +10440,9 @@ Rule 36.G1(1B)
 
 [^c22730781]: Textual amendment: Sch. 1 rule 15.7 inserted (1.10.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/1), [14](https://www.legislation.gov.uk/ssi/2009/294/paragraph/14)
 
-[^key-160af0215bd515db4a8821d0de989cc2]: Textual amendment: Words in Sch. 1 rule 15.7(2)(a) omitted (29.7.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [7(1)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/7/1)
+[^c-160af0215bd515db4a8821d0de989cc2]: Textual amendment: Words in Sch. 1 rule 15.7(2)(a) omitted (29.7.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [7(1)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/7/1)
 
-[^key-4d505eb810e2c4774df1e2028b61fb35]: Textual amendment: Sch. 1 Ch. 15A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(5)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/5) (as amended by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/2))
+[^c-4d505eb810e2c4774df1e2028b61fb35]: Textual amendment: Sch. 1 Ch. 15A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(5)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/5) (as amended by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/2))
 
 [^c15189101]: Textual amendment: Word in [rule 16](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/16).1 substituted (1.3.2001) by [S.S.I. 2001/8](https://www.legislation.gov.uk/ssi/2001/8), [para. 2(1)(4)(a)](https://www.legislation.gov.uk/ssi/2001/8/paragraph/2/1/4/a)
 
@@ -10462,11 +10462,11 @@ Rule 36.G1(1B)
 
 [^c20728901]: Textual amendment: Sch. 1 rule 17.1(aa) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(12)
 
-[^key-b47df0d14d28d5560c48617b406eddd3]: Textual amendment: Sch. 1 rule 17.1(ab) inserted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/2/2)
+[^c-b47df0d14d28d5560c48617b406eddd3]: Textual amendment: Sch. 1 rule 17.1(ab) inserted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/2/2)
 
-[^key-21cfda897485a3f4319c30fca88608fd]: Textual amendment: Sch. 1 rule 17.2 substituted for Sch. 1 rules 17.2, 17.3 (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-21cfda897485a3f4319c30fca88608fd]: Textual amendment: Sch. 1 rule 17.2 substituted for Sch. 1 rules 17.2, 17.3 (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-a943f7b13084397d0a370bc12e73a276]: Textual amendment: Words in Sch. 1 rule 17.2 inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(6)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/6)
+[^c-a943f7b13084397d0a370bc12e73a276]: Textual amendment: Words in Sch. 1 rule 17.2 inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(6)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/6)
 
 [^c15189161]: Textual amendment: Words in [rule 18](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/18).1(1) omitted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(23)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/23)
 
@@ -10502,19 +10502,19 @@ Rule 36.G1(1B)
 
 [^M_F_ce4a888c-9320-4a49-ee69-1a8c733288bb]: Textual amendment: Words in sch. 1 rule 21.1(1)(a) inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/5) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
-[^key-3cb681d091d0dd63d488b40601c5600e]: Textual amendment: [Sch. 1 rule 21.3(3)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/21.3/3) inserted (25.5.2015) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Proving the Tenor and Reduction) 2015 (S.S.I. 2015/176)](https://www.legislation.gov.uk/ssi/2015/176), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/2/2)
+[^c-3cb681d091d0dd63d488b40601c5600e]: Textual amendment: [Sch. 1 rule 21.3(3)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/21.3/3) inserted (25.5.2015) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Proving the Tenor and Reduction) 2015 (S.S.I. 2015/176)](https://www.legislation.gov.uk/ssi/2015/176), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/2/2)
 
-[^key-33141bc78923fca582dd56099dc954e6]: Textual amendment: Words in Sch. 1 rule 22.1(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-33141bc78923fca582dd56099dc954e6]: Textual amendment: Words in Sch. 1 rule 22.1(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-b3335d7867db02248391c2de4180f69c]: Textual amendment: Sch. 1 rule 22.1(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-b3335d7867db02248391c2de4180f69c]: Textual amendment: Sch. 1 rule 22.1(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15189351]: Textual amendment: Rule 22.1(2)(3) renumbered as rule 22.1(3)(4) (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(29)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/29/a)
 
 [^c15189361]: Textual amendment: Words in rule 22.1(3)(4) (as renumbered) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(29)(c)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/29/c)
 
-[^key-5d53f8c290766f1382560156d833f6ea]: Textual amendment: Words in Sch. 1 rule 22.1(3) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(c)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/c/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-5d53f8c290766f1382560156d833f6ea]: Textual amendment: Words in Sch. 1 rule 22.1(3) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(c)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/c/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-12b293a8a82b774a46dee1f3c27b0a9e]: Textual amendment: Words in Sch. 1 rule 22.1(3) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(c)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/c/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-12b293a8a82b774a46dee1f3c27b0a9e]: Textual amendment: Words in Sch. 1 rule 22.1(3) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(9)(c)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/9/c/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15189381]: Textual amendment: Words in Sch. 1 rule 22.1(4) inserted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(8)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/8)
 
@@ -10536,15 +10536,15 @@ Rule 36.G1(1B)
 
 [^c15189471]: Textual amendment: [Rule 25](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/25).2(2) omitted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(30)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/30/b)
 
-[^key-28b8c218c6415813ec8060cd9da85c13]: Textual amendment: Word in Sch. 1 rule 26.1(1) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/2)
+[^c-28b8c218c6415813ec8060cd9da85c13]: Textual amendment: Word in Sch. 1 rule 26.1(1) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/2)
 
-[^key-60b5c7f18b68f4adba8473bea6ec06d9]: Textual amendment: Sch. 1 rule 26.1(8) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/5) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-60b5c7f18b68f4adba8473bea6ec06d9]: Textual amendment: Sch. 1 rule 26.1(8) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/5) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-f1ab84c96df98438da1ab8ed6846e635]: Textual amendment: Sch. 1 rule 26.1A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/3)
+[^c-f1ab84c96df98438da1ab8ed6846e635]: Textual amendment: Sch. 1 rule 26.1A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/3)
 
-[^key-842f7809b5a318ba29f80e2ed43af606]: Textual amendment: Sch. 1 rules 26.2-26.2B substituted for Sch. 1 rule 26.2 (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/4) (with [para. 10(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/10/2))
+[^c-842f7809b5a318ba29f80e2ed43af606]: Textual amendment: Sch. 1 rules 26.2-26.2B substituted for Sch. 1 rule 26.2 (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/4) (with [para. 10(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/10/2))
 
-[^key-755fa9a91f91a25d60e7767392e86501]: Textual amendment: Words in Sch. 1 rule 26.3 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(5)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/5) (with [para. 10(1)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/10/1))
+[^c-755fa9a91f91a25d60e7767392e86501]: Textual amendment: Words in Sch. 1 rule 26.3 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [7(5)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/7/5) (with [para. 10(1)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/10/1))
 
 [^c15189491]: Marginal citation: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2); [section 136](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/136) was amended by the [Representation of the People Act 1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), [Schedule 4](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4), [paragraph 48](https://www.legislation.gov.uk/ukpga/1985/50/paragraph/48).
 
@@ -10570,17 +10570,17 @@ Rule 36.G1(1B)
 
 [^c15189601]: Modification: Rule 27.8 applied (with modifications) (1.1.1994) by [S.I. 1993/3128](https://www.legislation.gov.uk/uksi/1993/3128), [para. 3(2)](https://www.legislation.gov.uk/uksi/1993/3128/paragraph/3/2).
 
-[^key-0416f06d3e1d7b7e9271ad262c2c4bf6]: Textual amendment: Words in Sch. 1 rule 27.8(a) substituted (30.11.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Bankruptcy (Scotland) Act 2016) 2016 (S.S.I. 2016/312)](https://www.legislation.gov.uk/ssi/2016/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/312/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2016/312/paragraph/5/2)
+[^c-0416f06d3e1d7b7e9271ad262c2c4bf6]: Textual amendment: Words in Sch. 1 rule 27.8(a) substituted (30.11.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Bankruptcy (Scotland) Act 2016) 2016 (S.S.I. 2016/312)](https://www.legislation.gov.uk/ssi/2016/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/312/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2016/312/paragraph/5/2)
 
 [^c22730921]: Textual amendment: Words in Sch. 1 rule 27.8(d)(i) substituted (1.10.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/1), [16](https://www.legislation.gov.uk/ssi/2009/294/paragraph/16)
 
 [^c15189621]: Marginal citation: [1986 c.65](https://www.legislation.gov.uk/ukpga/1986/65).
 
-[^key-d9a0e755888cbeb2374afd4bc41cea6c]: Textual amendment: Sch. 1 Ch. 27A inserted (3.4.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Pursuers’ Offers) 2017 (S.S.I. 2017/52)](https://www.legislation.gov.uk/ssi/2017/52), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/52/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/52/paragraph/3/2)
+[^c-d9a0e755888cbeb2374afd4bc41cea6c]: Textual amendment: Sch. 1 Ch. 27A inserted (3.4.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Pursuers’ Offers) 2017 (S.S.I. 2017/52)](https://www.legislation.gov.uk/ssi/2017/52), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/52/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/52/paragraph/3/2)
 
-[^key-cd8151646f35146a7bbdebdf2659ed4d]: Textual amendment: Words in Sch. 1 rule 27A.1 substituted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/3) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-cd8151646f35146a7bbdebdf2659ed4d]: Textual amendment: Words in Sch. 1 rule 27A.1 substituted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/3) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
-[^key-b4e725a7c260595e94cc1be1a5105790]: Textual amendment: Word in Sch. 1 rule 27A.9 substituted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/4) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-b4e725a7c260595e94cc1be1a5105790]: Textual amendment: Word in Sch. 1 rule 27A.9 substituted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/4) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
 [^c15189631]: Marginal citation: [1972 c.59](https://www.legislation.gov.uk/ukpga/1972/59).
 
@@ -10594,9 +10594,9 @@ Rule 36.G1(1B)
 
 [^c20737421]: Textual amendment: Sch. 1 rule 28.2(5) substituted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(10)(b)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/10/b)
 
-[^key-b14939a48ebed65fd4dc2b05d3301919]: Textual amendment: Sch. 1 rules 28.3, 28.3A substituted for Sch. 1 rule 28.3 (7.7.2014) by [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/2)
+[^c-b14939a48ebed65fd4dc2b05d3301919]: Textual amendment: Sch. 1 rules 28.3, 28.3A substituted for Sch. 1 rule 28.3 (7.7.2014) by [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/2)
 
-[^key-8d0667350333dbfe694793ce1c7e072a]: Textual amendment: Word in Sch. 1 rule 28.3A(9) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/6) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-8d0667350333dbfe694793ce1c7e072a]: Textual amendment: Word in Sch. 1 rule 28.3A(9) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/6) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c15189711]: Textual amendment: Words in rule 28.4(4) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(34)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/34/a)
 
@@ -10604,13 +10604,13 @@ Rule 36.G1(1B)
 
 [^c15189731]: Textual amendment: Words in rule 28.7(1) omitted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(35)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/35)
 
-[^key-bfb3f713a0c4a00cb3fd7004968d41c7]: Textual amendment: Sch. 1 rule 28.8(1) substituted (7.7.2014) by [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/3)
+[^c-bfb3f713a0c4a00cb3fd7004968d41c7]: Textual amendment: Sch. 1 rule 28.8(1) substituted (7.7.2014) by [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/3)
 
 [^c15189751]: Textual amendment: Words in rule 28.8(2) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(36)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/36/b)
 
-[^key-6583d9cc6a20a7b2a8706db498953202]: Textual amendment: Sch. 1 rule 28.8(2)(b) substituted (1.8.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/201)](https://www.legislation.gov.uk/ssi/2014/201), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/201/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2014/201/article/3/2)
+[^c-6583d9cc6a20a7b2a8706db498953202]: Textual amendment: Sch. 1 rule 28.8(2)(b) substituted (1.8.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/201)](https://www.legislation.gov.uk/ssi/2014/201), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/201/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2014/201/article/3/2)
 
-[^key-8217d3498a78b874461483e492126e61]: Textual amendment: Words in Sch. 1 rule 28.8(3) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(7)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/7)
+[^c-8217d3498a78b874461483e492126e61]: Textual amendment: Words in Sch. 1 rule 28.8(3) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(7)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/7)
 
 [^c15189761]: Textual amendment: Word in rule 28.10(1)(a)(iii) omitted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(37)(a)(i)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/37/a/i)
 
@@ -10634,21 +10634,21 @@ Rule 36.G1(1B)
 
 [^c15189831]: Textual amendment: Words in Sch. 1 rule 28.14(4) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(38)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/38/b)
 
-[^key-7e8a1ecf7cf5a9dd823d697a14b8f281]: Textual amendment: Words in Sch. 1 rule 28.14(6) substituted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [8](https://www.legislation.gov.uk/ssi/2011/193/paragraph/8) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-7e8a1ecf7cf5a9dd823d697a14b8f281]: Textual amendment: Words in Sch. 1 rule 28.14(6) substituted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [8](https://www.legislation.gov.uk/ssi/2011/193/paragraph/8) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c20668901]: Textual amendment: Sch. 1 rule 28.14(7) inserted (1.1.2004) by [Act of Sederunt (Taking of Evidence in the European Community) 2003 (S.S.I. 2003/601)](https://www.legislation.gov.uk/ssi/2003/601), [para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2003/601/article/4/2/b)
 
 [^c20669181]: Textual amendment: Sch. 1 rule 28.14A inserted (1.1.2004) by [Act of Sederunt (Taking of Evidence in the European Community) 2003 (S.S.I. 2003/601)](https://www.legislation.gov.uk/ssi/2003/601), [para. 4(3)](https://www.legislation.gov.uk/ssi/2003/601/rule/4/3)
 
-[^key-1865b5cb2c3138ab686c91f73a215a62]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-1865b5cb2c3138ab686c91f73a215a62]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^c20686691]: Textual amendment: Sch. 1 Chapter 28A inserted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(6)](https://www.legislation.gov.uk/ssi/2006/410/article/2/6)
 
-[^key-a9d5c9b862f874edf511d860e00490b3]: Textual amendment: Words in Sch. 1 rule 28A.1(1) inserted (3.6.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2013 (S.S.I. 2013/139)](https://www.legislation.gov.uk/ssi/2013/139), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/139/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2013/139/rule/2/5/a) (with [para. 6](https://www.legislation.gov.uk/ssi/2013/139/article/6))
+[^c-a9d5c9b862f874edf511d860e00490b3]: Textual amendment: Words in Sch. 1 rule 28A.1(1) inserted (3.6.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2013 (S.S.I. 2013/139)](https://www.legislation.gov.uk/ssi/2013/139), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/139/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2013/139/rule/2/5/a) (with [para. 6](https://www.legislation.gov.uk/ssi/2013/139/article/6))
 
-[^key-e75341de700a95796efacac3bfef2f2b]: Textual amendment: Sch. 1 rule 28A.1(1A) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(10)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/10/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-e75341de700a95796efacac3bfef2f2b]: Textual amendment: Sch. 1 rule 28A.1(1A) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(10)(a)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/10/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-5162e9ac10cd5d594748a161dd1241f8]: Textual amendment: Sch. 1 rule 28A.1(3)(b) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(10)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/10/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-5162e9ac10cd5d594748a161dd1241f8]: Textual amendment: Sch. 1 rule 28A.1(3)(b) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(10)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/10/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^M_F_abcfc44e-3177-43d6-dbbd-8070111f5232]: Textual amendment: Sch. 1 rule 28A.1(3)(c) and word inserted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), para. 2(6)(b)
 
@@ -10674,89 +10674,89 @@ Rule 36.G1(1B)
 
 [^c15189891]: Textual amendment: [Sch. 1 rule 29](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/29).14(7)(8) inserted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(14)(b)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/14/b)
 
-[^key-0064fe02821b4f7356274f9a9b328c25]: Textual amendment: Sch. 1 rule 29.17A inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/3/2)
+[^c-0064fe02821b4f7356274f9a9b328c25]: Textual amendment: Sch. 1 rule 29.17A inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/3/2)
 
 [^c15189911]: Textual amendment: [Rule 29](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/29).18: “-(1)” inserted after “29.18” (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(40)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/40/a)
 
 [^c15189921]: Textual amendment: Word in [rule 29](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/29).18(6)(b) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(40)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/40/b)
 
-[^key-cac699881ac64f31ac61bca38482ba66]: Textual amendment: Sch. 1 rule 29.19 substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(7)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/7) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-cac699881ac64f31ac61bca38482ba66]: Textual amendment: Sch. 1 rule 29.19 substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(7)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/7) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c15189931]: Marginal citation: [1893 c.44](https://www.legislation.gov.uk/ukpga/1893/44).
 
-[^key-f1f76c2058ce7299328a0370c7a8de93]: Textual amendment: Words in [Sch. 1 rule 30.3(1)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/1) omitted (30.4.2025) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(a)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/a) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
+[^c-f1f76c2058ce7299328a0370c7a8de93]: Textual amendment: Words in [Sch. 1 rule 30.3(1)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/1) omitted (30.4.2025) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(a)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/a) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
 
-[^key-f8b9f846f76a0292f48f4815d31ec1bb]: Textual amendment: [Sch. 1 rule 30.3(2)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/2) substituted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(b)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/b) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
+[^c-f8b9f846f76a0292f48f4815d31ec1bb]: Textual amendment: [Sch. 1 rule 30.3(2)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/2) substituted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(b)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/b) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
 
-[^key-ebcf08f791526951419c9061e3d6daf9]: Textual amendment: [Sch. 1 rule 30.3(2A)(2B)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/2A) inserted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(c)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/c) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
+[^c-ebcf08f791526951419c9061e3d6daf9]: Textual amendment: [Sch. 1 rule 30.3(2A)(2B)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/2A) inserted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(c)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/c) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
 
-[^key-d9a25d7f9bb3b1266ac1fb50c92be6e4]: Textual amendment: Word in [Sch. 1 rule 30.3(3)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/3) substituted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(d)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/d) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
+[^c-d9a25d7f9bb3b1266ac1fb50c92be6e4]: Textual amendment: Word in [Sch. 1 rule 30.3(3)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30.3/3) substituted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(2)(d)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/2/d) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
 
 [^c15189951]: Textual amendment: Words in rule 30.4(1)(a)(b) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(41)(a)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/41/a/b)
 
-[^key-a8075bf04d75ddd724088673845f8bbf]: Textual amendment: Word in Sch. 1 rule 30.4(1)(b)(iii) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(8)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/8) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-a8075bf04d75ddd724088673845f8bbf]: Textual amendment: Word in Sch. 1 rule 30.4(1)(b)(iii) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(8)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/8) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-c495ffbd4ad2aec28c22fa21f5cccbbe]: Textual amendment: Words in Sch. 1 rule 30.5 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/6/2/a)
+[^c-c495ffbd4ad2aec28c22fa21f5cccbbe]: Textual amendment: Words in Sch. 1 rule 30.5 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/6/2/a)
 
-[^key-426224aa3ff1ba26d220b009634e1536]: Textual amendment: Word in Sch. 1 rule 30.5 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/6/2/b)
+[^c-426224aa3ff1ba26d220b009634e1536]: Textual amendment: Word in Sch. 1 rule 30.5 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/6/2/b)
 
-[^key-032c571656040e8dc640332570c4bcbb]: Textual amendment: Words in Sch. 1 rule 30.5 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/6/2/c)
+[^c-032c571656040e8dc640332570c4bcbb]: Textual amendment: Words in Sch. 1 rule 30.5 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/6/2/c)
 
 [^c15189971]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/3).7 renumbered as rule 30.7 (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(42)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/42)
 
-[^key-905c76ecf1e862e84ae7d725283e097b]: Textual amendment: Words in Sch. 1 rule 30.8(1) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(9)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/9) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-905c76ecf1e862e84ae7d725283e097b]: Textual amendment: Words in Sch. 1 rule 30.8(1) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(9)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/9) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c20737901]: Textual amendment: [Sch. 1 rule 30](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/30).10 inserted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(11)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/11)
 
 [^c20738011]: Textual amendment: [1975 c. 47](https://www.legislation.gov.uk/ukpga/1975/47).
 
-[^key-ce3dc4344641c8409e1a0bb479aefec9]: Textual amendment: Sch. 1 rule 31.1 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-ce3dc4344641c8409e1a0bb479aefec9]: Textual amendment: Sch. 1 rule 31.1 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-0dd1954b7f8c4c59d5a128867df534bf]: Textual amendment: Sch. 1 rule 31.2(2) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-0dd1954b7f8c4c59d5a128867df534bf]: Textual amendment: Sch. 1 rule 31.2(2) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c20738221]: Textual amendment: Sch. 1 rule 31.2(3) substituted (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [para. 2(12)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/12)
 
-[^key-c3d6cc2c0069e5b9880026ce5d1663ba]: Textual amendment: Sch. 1 rule 31.2A omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(c)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/c) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-c3d6cc2c0069e5b9880026ce5d1663ba]: Textual amendment: Sch. 1 rule 31.2A omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(c)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/c) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-692441459d71db23c7b960f0d453186a]: Textual amendment: Sch. 1 rules 31.3-31.8 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(d)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/d) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-692441459d71db23c7b960f0d453186a]: Textual amendment: Sch. 1 rules 31.3-31.8 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(d)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/d) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c15190081]: Textual amendment: Sch. 1 rule 31.9 inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(43)(d)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/43/d)
 
 [^c15190091]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-70331ed67b89f7f5bbe37dd777eba7ca]: Textual amendment: Words in Sch. 1 rule 31.9 substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(e)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/e) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-70331ed67b89f7f5bbe37dd777eba7ca]: Textual amendment: Words in Sch. 1 rule 31.9 substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(e)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/e) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c15190101]: Textual amendment: Sch. 1 rule 31.6 renumbered as Sch. 1 rule 31.10 (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(43)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/43/b)
 
-[^key-dad7ede7abef06340ca992782f7f9606]: Textual amendment: Words in Sch. 1 rule 31.10(1) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(f)(i)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/f/i) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-dad7ede7abef06340ca992782f7f9606]: Textual amendment: Words in Sch. 1 rule 31.10(1) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(f)(i)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/f/i) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-5cd90ee887afcb1c9b51a6eb32700c34]: Textual amendment: Sch. 1 rule 31.10(2) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(f)(ii)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/f/ii) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-5cd90ee887afcb1c9b51a6eb32700c34]: Textual amendment: Sch. 1 rule 31.10(2) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(f)(ii)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/f/ii) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-af55d76bd7242b50edc3cc2dd0d6a275]: Textual amendment: Sch. 1 rule 31.11 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(g)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/g) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-af55d76bd7242b50edc3cc2dd0d6a275]: Textual amendment: Sch. 1 rule 31.11 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(10)(g)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/10/g) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-0b4ff143c7aa5a3bc97c39e58a632690]: Textual amendment: Sch. 1 Ch. 31A inserted (30.6.2021) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Qualified One-Way Costs Shifting) 2021 (S.S.I. 2021/226)](https://www.legislation.gov.uk/ssi/2021/226), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/5/2)
+[^c-0b4ff143c7aa5a3bc97c39e58a632690]: Textual amendment: Sch. 1 Ch. 31A inserted (30.6.2021) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Qualified One-Way Costs Shifting) 2021 (S.S.I. 2021/226)](https://www.legislation.gov.uk/ssi/2021/226), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/5/2)
 
-[^key-3ae10608bdae20ab418f20eb8d14bce0]: Textual amendment: Sch. 1 rule 32.1 renumbered as Sch. 1 rule 32.1(1) (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(5)(a)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/5/a) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-3ae10608bdae20ab418f20eb8d14bce0]: Textual amendment: Sch. 1 rule 32.1 renumbered as Sch. 1 rule 32.1(1) (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(5)(a)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/5/a) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
-[^key-1c4c8874224d27752f5c2541ff594c6d]: Textual amendment: Sch. 1 rule 32.1(2) inserted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/5/b) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-1c4c8874224d27752f5c2541ff594c6d]: Textual amendment: Sch. 1 rule 32.1(2) inserted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/5/b) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
-[^key-a6619b87bc1969b3cd09b3fefeb98e24]: Textual amendment: Sch. 1 rule 32.1A substituted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/6) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-a6619b87bc1969b3cd09b3fefeb98e24]: Textual amendment: Sch. 1 rule 32.1A substituted (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/6) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
-[^key-cc600bc86958314aafb66e4143d36df1]: Textual amendment: Sch. 1 rules 32.3, 32.3A, 32.4, 32.5 substituted for rules 32.3, 32.4 (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/7) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
+[^c-cc600bc86958314aafb66e4143d36df1]: Textual amendment: Sch. 1 rules 32.3, 32.3A, 32.4, 32.5 substituted for rules 32.3, 32.4 (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/3/7) (with [para. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2))
 
-[^key-711cc081c1f4ddd08117040092e4bedb]: Textual amendment: Words in [Sch. 1 rule 32.3(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/32.3/5) substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Ordinary Cause Rules 1993 Amendment) (Taxation of Judicial Expenses) 2024 (S.S.I. 2024/323)](https://www.legislation.gov.uk/ssi/2024/323), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/5/2/a/i) (with [para. 2](https://www.legislation.gov.uk/ssi/2024/323/paragraph/2))
+[^c-711cc081c1f4ddd08117040092e4bedb]: Textual amendment: Words in [Sch. 1 rule 32.3(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/32.3/5) substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Ordinary Cause Rules 1993 Amendment) (Taxation of Judicial Expenses) 2024 (S.S.I. 2024/323)](https://www.legislation.gov.uk/ssi/2024/323), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/5/2/a/i) (with [para. 2](https://www.legislation.gov.uk/ssi/2024/323/paragraph/2))
 
-[^key-36588cf54ae47035c24af5cecd242aad]: Textual amendment: Word in [Sch. 1 rule 32.3(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/32.3/5) substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Ordinary Cause Rules 1993 Amendment) (Taxation of Judicial Expenses) 2024 (S.S.I. 2024/323)](https://www.legislation.gov.uk/ssi/2024/323), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/5/2/a/ii) (with [para. 2](https://www.legislation.gov.uk/ssi/2024/323/paragraph/2))
+[^c-36588cf54ae47035c24af5cecd242aad]: Textual amendment: Word in [Sch. 1 rule 32.3(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/32.3/5) substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Ordinary Cause Rules 1993 Amendment) (Taxation of Judicial Expenses) 2024 (S.S.I. 2024/323)](https://www.legislation.gov.uk/ssi/2024/323), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/5/2/a/ii) (with [para. 2](https://www.legislation.gov.uk/ssi/2024/323/paragraph/2))
 
-[^key-a339adf615e42d08ad964c7e9aaaf74f]: Textual amendment: [Sch. 1 rule 32.3(9)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/32.3/9) omitted (1.1.2025) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Ordinary Cause Rules 1993 Amendment) (Taxation of Judicial Expenses) 2024 (S.S.I. 2024/323)](https://www.legislation.gov.uk/ssi/2024/323), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/5/2/b) (with [para. 2](https://www.legislation.gov.uk/ssi/2024/323/paragraph/2))
+[^c-a339adf615e42d08ad964c7e9aaaf74f]: Textual amendment: [Sch. 1 rule 32.3(9)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/32.3/9) omitted (1.1.2025) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Ordinary Cause Rules 1993 Amendment) (Taxation of Judicial Expenses) 2024 (S.S.I. 2024/323)](https://www.legislation.gov.uk/ssi/2024/323), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2024/323/paragraph/5/2/b) (with [para. 2](https://www.legislation.gov.uk/ssi/2024/323/paragraph/2))
 
-[^key-2d2e9c4c5297d86ada587dfd9a79ba30]: Textual amendment: Sch. 1 Ch. 32A revoked (3.7.2023) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Attendance at Hearings) 2023 (S.S.I. 2023/168)](https://www.legislation.gov.uk/ssi/2023/168), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/3/4) (with [para. 4(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/4/2))
+[^c-2d2e9c4c5297d86ada587dfd9a79ba30]: Textual amendment: Sch. 1 Ch. 32A revoked (3.7.2023) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Attendance at Hearings) 2023 (S.S.I. 2023/168)](https://www.legislation.gov.uk/ssi/2023/168), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/3/4) (with [para. 4(2)](https://www.legislation.gov.uk/ssi/2023/168/paragraph/4/2))
 
 [^c15190201]: Textual amendment: Sch. 1 rule 33.1(1)(h) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2167/schedule) [para. 4(a)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/4/a)
 
-[^key-4cf8cbca18d49653f9c18a79dda503e1]: Textual amendment: Word in Sch. 1 rule 33.01(1)(h)(i) omitted (4.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/13/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-4cf8cbca18d49653f9c18a79dda503e1]: Textual amendment: Word in Sch. 1 rule 33.01(1)(h)(i) omitted (4.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/13/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-f24a872d0b74914b22c2d5951aeb6b7e]: Textual amendment: Sch. 1 rule 33.01(1)(h)(ii) omitted (4.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/13/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-f24a872d0b74914b22c2d5951aeb6b7e]: Textual amendment: Sch. 1 rule 33.01(1)(h)(ii) omitted (4.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/13/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c15190211]: Marginal citation: [1984 c.42](https://www.legislation.gov.uk/ukpga/1984/42); Part IV was amended by the [Family Law (Scotland) Act 1985 (c.37)](https://www.legislation.gov.uk/ukpga/1985/37), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1), [paragraphs 12](https://www.legislation.gov.uk/ukpga/1985/37/paragraph/12) and 13.
 
@@ -10764,11 +10764,11 @@ Rule 36.G1(1B)
 
 [^M_F_25f9b00b-cb2e-4ed9-b610-f65ce1c2da6d]: Textual amendment: Sch. 1 rule 33.1(1)(n)(o) inserted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(14)(a)](https://www.legislation.gov.uk/ssi/2006/207/article/2/14/a)
 
-[^key-aee6649bcba469209cffa265453ed026]: Textual amendment: Sch. 1 rule 33.1(1)(p) inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/3)
+[^c-aee6649bcba469209cffa265453ed026]: Textual amendment: Sch. 1 rule 33.1(1)(p) inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/3)
 
-[^key-61328d8e77a4d11a5cc24637c259135f]: Textual amendment: Sch. 1 rule 33.1(1)(q) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/2/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-61328d8e77a4d11a5cc24637c259135f]: Textual amendment: Sch. 1 rule 33.1(1)(q) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/2/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-7dccdbb0aa748399ddad67989264b9b4]: Textual amendment: Sch. 1 rule 33.1(1)(r) inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302)](https://www.legislation.gov.uk/ssi/2014/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/5/2)
+[^c-7dccdbb0aa748399ddad67989264b9b4]: Textual amendment: Sch. 1 rule 33.1(1)(r) inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302)](https://www.legislation.gov.uk/ssi/2014/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/5/2)
 
 [^c15190231]: Marginal citation: [1975 c.72](https://www.legislation.gov.uk/ukpga/1975/72).
 
@@ -10780,13 +10780,13 @@ Rule 36.G1(1B)
 
 [^c15190271]: Textual amendment: Sch. 1 rule 33.1(2): definitions of "the Act of 1995" and "contact order" inserted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 4(b)(i)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/4/b/i)
 
-[^key-5fd919794fe216e7efa2389ff5512814]: Textual amendment: Words in Sch. 1 rule 33.1(2) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/2/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-5fd919794fe216e7efa2389ff5512814]: Textual amendment: Words in Sch. 1 rule 33.1(2) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/2/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20679131]: Textual amendment: Sch. 1 rule 33.1(2): Definition of "full gender recognition certificate" and "interim gender recognition certificate" inserted (4.4.2005) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Gender Recognition Act 2004) 2005 (S.S.I. 2005/189)](https://www.legislation.gov.uk/ssi/2005/189), [para. 2(2)](https://www.legislation.gov.uk/ssi/2005/189/article/2/2)
 
 [^c20679171]: Textual amendment: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-44eef577f0ec91cc660ec5c407b438f5]: Textual amendment: Words in Sch. 1 rule 33.1(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-44eef577f0ec91cc660ec5c407b438f5]: Textual amendment: Words in Sch. 1 rule 33.1(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
 [^c15190281]: Textual amendment: Sch. 1 rule 33.1(2): definition of "child" omitted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2167/schedule) [para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/4/b/ii)
 
@@ -10806,9 +10806,9 @@ Rule 36.G1(1B)
 
 [^M_F_b59024f7-6b63-4ce2-8b4f-8f69c0d5dcc5]: Textual amendment: Words in Sch. 1 rule 33.2(1) substituted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(15)(ii)](https://www.legislation.gov.uk/ssi/2006/207/article/2/15)
 
-[^key-ba421bcf0cabd99993d87e640226d75a]: Textual amendment: Words in Sch. 1 rule 33.2(2)(b)(v) omitted (1.3.2021) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2021 (S.S.I. 2021/75)](https://www.legislation.gov.uk/ssi/2021/75), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2021/75/paragraph/4))
+[^c-ba421bcf0cabd99993d87e640226d75a]: Textual amendment: Words in Sch. 1 rule 33.2(2)(b)(v) omitted (1.3.2021) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2021 (S.S.I. 2021/75)](https://www.legislation.gov.uk/ssi/2021/75), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2021/75/paragraph/4))
 
-[^key-1065cba3db74e9c2a060dd087a3e6a54]: Textual amendment: Words in Sch. 1 rule 33.2(2)(b)(v) inserted (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/9/2)
+[^c-1065cba3db74e9c2a060dd087a3e6a54]: Textual amendment: Words in Sch. 1 rule 33.2(2)(b)(v) inserted (1.11.2012) by [Act of Sederunt (Jurisdiction in Respect of Parental Responsibility and Measures for the Protection of Children Rules) 2011 (S.S.I. 2011/192)](https://www.legislation.gov.uk/ssi/2011/192), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2011/192/paragraph/9/2)
 
 [^c15190361]: Textual amendment: Words in Sch. 1 rule 33.3 heading substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2167/schedule) [para. 5(a)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/5/a)
 
@@ -10832,19 +10832,19 @@ Rule 36.G1(1B)
 
 [^c20675511]: Textual amendment: Words in Sch. 1 rule 33.6(2)(4) substituted (24.1.2003) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2003 (S.I. 2003/26)](https://www.legislation.gov.uk/uksi/2003/26), [para. 2(8)(b)](https://www.legislation.gov.uk/uksi/2003/26/article/2/8/b)
 
-[^key-cf82ddca8e172b90676eefae589f92a3]: Textual amendment: Sch. 1 rule 33.6ZA inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302)](https://www.legislation.gov.uk/ssi/2014/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/5/3)
+[^c-cf82ddca8e172b90676eefae589f92a3]: Textual amendment: Sch. 1 rule 33.6ZA inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302)](https://www.legislation.gov.uk/ssi/2014/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/5/3)
 
-[^key-2f89454cadc4bc201a1d68ff189ca92b]: Textual amendment: Sch. 1 rule 33.6A inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-2f89454cadc4bc201a1d68ff189ca92b]: Textual amendment: Sch. 1 rule 33.6A inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c15190461]: Textual amendment: Words in Sch. 1 rule 33.7(1) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2167/schedule) [para. 6(a)(i)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/6/a/i)
 
-[^key-e59ef0d5de56eabae8ddece56be72844]: Textual amendment: Words in Sch. 1 rule 33.7(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-e59ef0d5de56eabae8ddece56be72844]: Textual amendment: Words in Sch. 1 rule 33.7(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-cd57b19b7532038d1b24b0a475e8b229]: Textual amendment: Words in Sch. 1 rule 33.7(1)(a)(i) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-cd57b19b7532038d1b24b0a475e8b229]: Textual amendment: Words in Sch. 1 rule 33.7(1)(a)(i) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-d1569eebde8f767386cdbee3573a376b]: Textual amendment: Words in Sch. 1 rule 33.7(1)(a)(i) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2012/221/paragraph/4))
+[^c-d1569eebde8f767386cdbee3573a376b]: Textual amendment: Words in Sch. 1 rule 33.7(1)(a)(i) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2012/221/paragraph/4))
 
-[^key-e520494a7422f7db5d876e99340e80ba]: Textual amendment: Words in Sch. 1 rule 33.7(1)(b) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-e520494a7422f7db5d876e99340e80ba]: Textual amendment: Words in Sch. 1 rule 33.7(1)(b) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^M_F_4ff9510b-4e8f-46d4-b99e-051e85723c0c]: Textual amendment: Word in Sch. 1 rule 33.7(1)(c)(i) omitted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(17)(a)](https://www.legislation.gov.uk/ssi/2006/207/article/17/a)
 
@@ -10860,9 +10860,9 @@ Rule 36.G1(1B)
 
 [^c15190501]: Textual amendment: Words in Sch. 1 rule 33.7(1)(f) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 6(a)(iv)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/6/a/iv)
 
-[^key-7475e3589f4c70d4905f5ebbd6be5979]: Textual amendment: Sch. 1 rule 33.7(1)(g) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/2/a/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-7475e3589f4c70d4905f5ebbd6be5979]: Textual amendment: Sch. 1 rule 33.7(1)(g) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/2/a/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-f8f6e1017fcd38e241c270930bc2879f]: Textual amendment: Sch. 1 rule 33.7(1)(h) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-f8f6e1017fcd38e241c270930bc2879f]: Textual amendment: Sch. 1 rule 33.7(1)(h) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c15190541]: Marginal citation: [1985 c.37](https://www.legislation.gov.uk/ukpga/1985/37); [section 8(1)(aa)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/8/1/aa) was inserted by the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40), [Schedule 8](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8), [paragraph 34](https://www.legislation.gov.uk/ukpga/1990/40/paragraph/34).
 
@@ -10880,29 +10880,29 @@ Rule 36.G1(1B)
 
 [^M_F_ee4bbf20-7462-4361-ea3e-8387700ffdb9]: Textual amendment: Sch. 1 rule 33.7(1)(m) and word inserted (1.12.2000) by [Act of Sederunt (Ordinary Cause Rules) Amendment (No. 2) (Pension Sharing on Divorce etc.) 2000 (S.S.I. 2000/408)](https://www.legislation.gov.uk/ssi/2000/408), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/408/paragraph/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2000/408/paragraph/2/2/b/ii)
 
-[^key-ec6094355f896597ed83a0fb03259b56]: Textual amendment: Word in Sch. 1 rule 33.7(1)(l) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-ec6094355f896597ed83a0fb03259b56]: Textual amendment: Word in Sch. 1 rule 33.7(1)(l) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-5829cb2b9693e0ca95118f7106226c7b]: Textual amendment: Sch. 1 rule 33.07(1)(n)(o) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-5829cb2b9693e0ca95118f7106226c7b]: Textual amendment: Sch. 1 rule 33.07(1)(n)(o) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-c90d9f552d5fdadeb072b6b3bdf025d4]: Textual amendment: Sch. 1 rule 33.7(1)(p) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(c)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/c) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-c90d9f552d5fdadeb072b6b3bdf025d4]: Textual amendment: Sch. 1 rule 33.7(1)(p) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(c)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/c) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-c2244f012255c6ed7e025b976dcc05b4]: Textual amendment: Sch. 1 rule 33.7(2) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(d)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/d) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-c2244f012255c6ed7e025b976dcc05b4]: Textual amendment: Sch. 1 rule 33.7(2) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(d)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/d) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-b2d231578803f6822af8a57f87cb491c]: Textual amendment: Sch. 1 rule 33.7(4) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/2/a/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-b2d231578803f6822af8a57f87cb491c]: Textual amendment: Sch. 1 rule 33.7(4) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/2/a/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-59b4ad8a0010e36e8c9ceb3ff03ee4dd]: Textual amendment: Word in Sch. 1 rule 33.7(5) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-59b4ad8a0010e36e8c9ceb3ff03ee4dd]: Textual amendment: Word in Sch. 1 rule 33.7(5) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c15190611]: Textual amendment: Words in Sch. 1 rule 33.7(5) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(45)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/45/b)
 
 [^M_F_9ae2e8e4-f0c4-46aa-d58d-fe5515c7d56e]: Textual amendment: Words in Sch. 1 rule 33.7(5) substituted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(17)(d)](https://www.legislation.gov.uk/ssi/2006/207/article/17/d)
 
-[^key-85f61fa737d5dfcc3922e533ee17511e]: Textual amendment: Words in Sch. 1 rule 33.7(5) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(e)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/e) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-85f61fa737d5dfcc3922e533ee17511e]: Textual amendment: Words in Sch. 1 rule 33.7(5) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(4)(e)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/4/e) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-68d58e1a61491a3480fdeac832597918]: Textual amendment: Words in Sch. 1 rule 33.7(5) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-68d58e1a61491a3480fdeac832597918]: Textual amendment: Words in Sch. 1 rule 33.7(5) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-2d4266e0b8de9e233fbd82a74cc2c425]: Textual amendment: Sch. 1 rule 33.7(7) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-2d4266e0b8de9e233fbd82a74cc2c425]: Textual amendment: Sch. 1 rule 33.7(7) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(2)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/2/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-9affbcd83a32a302905c48f78f45b4dc]: Textual amendment: Sch. 1 rule 33.7A inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/3) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-9affbcd83a32a302905c48f78f45b4dc]: Textual amendment: Sch. 1 rule 33.7A inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/3) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^M_F_54899870-f4b6-4512-c415-2e5f801789f2]: Textual amendment: Word in Sch. 1 rule 33.8 heading substituted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(18)(a)](https://www.legislation.gov.uk/ssi/2006/207/article/2/18/a)
 
@@ -10910,17 +10910,17 @@ Rule 36.G1(1B)
 
 [^M_F_a10f10e2-2204-4498-da8a-800ad1ce3bbf]: Textual amendment: Word in Sch. 1 rule 33.8(4) omitted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(18)(c)](https://www.legislation.gov.uk/ssi/2006/207/article/2/18/c)
 
-[^key-60cf721ca53af0dc100af34140bf6066]: Textual amendment: Sch. 1 rule 33.9 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/2/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-60cf721ca53af0dc100af34140bf6066]: Textual amendment: Sch. 1 rule 33.9 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/2/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^M_F_cf7c966a-f269-463a-aed0-343625cbc0d6]: Textual amendment: Word in Sch. 1 rule 33.9(a) inserted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(19)](https://www.legislation.gov.uk/ssi/2006/207/article/2/19)
 
 [^c15190641]: Textual amendment: Words in rule 33.9(b) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/7/b)
 
-[^key-b02b89b27bb19b0bcf49f819fb28fe65]: Textual amendment: Sch. 1 rule 33.9(c) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/2/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-b02b89b27bb19b0bcf49f819fb28fe65]: Textual amendment: Sch. 1 rule 33.9(c) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/2/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20678051]: Textual amendment: Sch. 1 rules 33.9A, 33.9B inserted (4.4.2005) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Gender Recognition Act 2004) 2005 (S.S.I. 2005/189)](https://www.legislation.gov.uk/ssi/2005/189), [para. 2(3)](https://www.legislation.gov.uk/ssi/2005/189/article/2/3)
 
-[^key-4a0f9e856d67a9247c6bb4b9d0bfc875]: Textual amendment: Sch. 1 rule 33.12 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/2/b) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-4a0f9e856d67a9247c6bb4b9d0bfc875]: Textual amendment: Sch. 1 rule 33.12 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/2/b) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
 [^c15190711]: Marginal citation: [1976 c.39](https://www.legislation.gov.uk/ukpga/1976/39).
 
@@ -10934,59 +10934,59 @@ Rule 36.G1(1B)
 
 [^c15190731]: Textual amendment: Sch. 1 rule 33.15 substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/9)
 
-[^key-5646c2daca18c5642dda31545bc8ea41]: Textual amendment: Words in Sch. 1 rule 33.15(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/4/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-5646c2daca18c5642dda31545bc8ea41]: Textual amendment: Words in Sch. 1 rule 33.15(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/4/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-aa78712273d386f96f28adb597896acc]: Textual amendment: Words in Sch. 1 rule 33.15(1)(a) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/4/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-aa78712273d386f96f28adb597896acc]: Textual amendment: Words in Sch. 1 rule 33.15(1)(a) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/4/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-3f9d0dcce871dae3092ecb76e42efd06]: Textual amendment: Sch. 1 rule 33.15(2) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/4/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-3f9d0dcce871dae3092ecb76e42efd06]: Textual amendment: Sch. 1 rule 33.15(2) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/4/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-18e1502b3687479859ec07beefd72757]: Textual amendment: Words in Sch. 1 rule 33.16(1) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(5)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/5) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-18e1502b3687479859ec07beefd72757]: Textual amendment: Words in Sch. 1 rule 33.16(1) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(5)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/5) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-5a15d74c9fdf4a8f79e4d23f1aaf2c91]: Textual amendment: Word in Sch. 1 rule 33.16(1) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-5a15d74c9fdf4a8f79e4d23f1aaf2c91]: Textual amendment: Word in Sch. 1 rule 33.16(1) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-27be8814dc9d8100b1fd6e42a995e46b]: Textual amendment: Words in Sch. 1 rule 33.16(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-27be8814dc9d8100b1fd6e42a995e46b]: Textual amendment: Words in Sch. 1 rule 33.16(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-62627dbd8443bdb2e5ec1c5181830e1c]: Textual amendment: Sch. 1 rule 33.16(2)(b) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-62627dbd8443bdb2e5ec1c5181830e1c]: Textual amendment: Sch. 1 rule 33.16(2)(b) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
 [^c15190741]: Textual amendment: Words in Sch. 1 rule 33.16(3)(b) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(47)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/47/a)
 
-[^key-dff5352aae975827a885cd5f5c98342c]: Textual amendment: Words in Sch. 1 rule 33.16(3)(b) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/11) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-dff5352aae975827a885cd5f5c98342c]: Textual amendment: Words in Sch. 1 rule 33.16(3)(b) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/11) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15190751]: Textual amendment: Word in Sch. 1 rule 33.16(3)(b) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(47)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/47/b)
 
-[^key-40ebc16f9c61bc64173b74667fdc437a]: Textual amendment: Sch. 1 rule 33.16(4) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(c)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-40ebc16f9c61bc64173b74667fdc437a]: Textual amendment: Sch. 1 rule 33.16(4) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(c)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-a96360547e288f865cf3dbd9cf052af5]: Textual amendment: Sch. 1 rule 33.16(5) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(d)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/d) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-a96360547e288f865cf3dbd9cf052af5]: Textual amendment: Sch. 1 rule 33.16(5) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(d)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/d) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-f304c3376fcd56a586dc6be1381d2548]: Textual amendment: Sch. 1 rule 33.16(8)-(8C) substituted for Sch. 1 rule 33.16(8) (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(e)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/e) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/paragraph/4))
+[^c-f304c3376fcd56a586dc6be1381d2548]: Textual amendment: Sch. 1 rule 33.16(8)-(8C) substituted for Sch. 1 rule 33.16(8) (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(e)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/e) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/paragraph/4))
 
-[^key-87a81ed29d12b244e6567fb4973e6035]: Textual amendment: Words in Sch. 1 rule 33.16(9)(c) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(f)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/f) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-87a81ed29d12b244e6567fb4973e6035]: Textual amendment: Words in Sch. 1 rule 33.16(9)(c) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(3)(f)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/3/f) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
 [^c15190761]: Marginal citation: [1973 c.45](https://www.legislation.gov.uk/ukpga/1973/45); [Schedule 3](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/3) was amended by the [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c.12)](https://www.legislation.gov.uk/ukpga/1983/12), [Schedule 1](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1), [paragraphs 19](https://www.legislation.gov.uk/ukpga/1983/12/paragraph/19) and 20.
 
 [^M_F_2205cc59-906e-414a-aed6-07a30d0276fb]: Textual amendment: Words in Sch. 1 rule 33.18(1) substituted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), [paras. 1](https://www.legislation.gov.uk/ssi/2006/207/article/1), [2(23)](https://www.legislation.gov.uk/ssi/2006/207/article/2/23)
 
-[^key-16dc8b81fa093423f93b9209552635d8]: Textual amendment: Sch. 1 rules 33.19-33.19D substituted for Sch. 1 rule 33.19 (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/5) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-16dc8b81fa093423f93b9209552635d8]: Textual amendment: Sch. 1 rules 33.19-33.19D substituted for Sch. 1 rule 33.19 (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/5) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c15190791]: Textual amendment: Sch. 1 rule 33.20 substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/10)
 
-[^key-76176cff5df6b1f419826ba693f9ba0c]: Textual amendment: Sch. 1 rules 33.21, 33.21A substituted for Sch. 1 rule 33.21 (26.10.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Child Welfare Reporters) 2015 (S.S.I. 2015/312)](https://www.legislation.gov.uk/ssi/2015/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/4/2) (with [para. 5](https://www.legislation.gov.uk/ssi/2015/312/paragraph/5))
+[^c-76176cff5df6b1f419826ba693f9ba0c]: Textual amendment: Sch. 1 rules 33.21, 33.21A substituted for Sch. 1 rule 33.21 (26.10.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Child Welfare Reporters) 2015 (S.S.I. 2015/312)](https://www.legislation.gov.uk/ssi/2015/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/4/2) (with [para. 5](https://www.legislation.gov.uk/ssi/2015/312/paragraph/5))
 
-[^key-ea873dbf8f94db233ec10a7cf2afee82]: Textual amendment: Words in Sch. 1 rule 33.21(3)(c) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(6)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/6/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-ea873dbf8f94db233ec10a7cf2afee82]: Textual amendment: Words in Sch. 1 rule 33.21(3)(c) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(6)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/6/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-7d73b814576dad995dce57bcfbee06b5]: Textual amendment: Word in Sch. 1 rule 33.21(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(6)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/6/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-7d73b814576dad995dce57bcfbee06b5]: Textual amendment: Word in Sch. 1 rule 33.21(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(6)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/6/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-bb67ed9a5bfbe25dd51ac1ade8906a66]: Textual amendment: Sch. 1 rule 33.21(3)(e) and word inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(6)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/6/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-bb67ed9a5bfbe25dd51ac1ade8906a66]: Textual amendment: Sch. 1 rule 33.21(3)(e) and word inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(6)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/6/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-f803fc9fe88c717799d04e07cfa13b9c]: Textual amendment: Sch. 1 rule 33.22 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(12)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/12) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-f803fc9fe88c717799d04e07cfa13b9c]: Textual amendment: Sch. 1 rule 33.22 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(12)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/12) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15190861]: Textual amendment: Sch. 1 rules 33.22, 33.22A substituted (1.11.1996) for Sch. 1 rule 33.22 by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2167/schedule) [para. 12](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/12)
 
-[^key-4ec43faa74ab695ef946dfd01e0922e4]: Textual amendment: Words in Sch. 1 rule 33.22A(1) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(13)(a)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/13/a/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-4ec43faa74ab695ef946dfd01e0922e4]: Textual amendment: Words in Sch. 1 rule 33.22A(1) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(13)(a)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/13/a/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-d8eb956375a55332832f98a59d9f83fe]: Textual amendment: Words in Sch. 1 rule 33.22A(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/13/a/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-d8eb956375a55332832f98a59d9f83fe]: Textual amendment: Words in Sch. 1 rule 33.22A(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/13/a/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-de2c619e66179a030db4c811eb1f89e3]: Textual amendment: Sch. 1 rule 33.22A(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(13)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/13/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-de2c619e66179a030db4c811eb1f89e3]: Textual amendment: Sch. 1 rule 33.22A(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(13)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/13/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c15190871]: Marginal citation: [1986 c.55](https://www.legislation.gov.uk/ukpga/1986/55).
 
@@ -11010,9 +11010,9 @@ Rule 36.G1(1B)
 
 [^c15190981]: Textual amendment: Words in Sch. 1 rule 33.26(a) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/15/a)
 
-[^key-f7f880803c4e78c4f916deb0a5820d63]: Textual amendment: Word in [Sch. 1 rule 33](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33).26(b) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(6)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/6/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-f7f880803c4e78c4f916deb0a5820d63]: Textual amendment: Word in [Sch. 1 rule 33](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33).26(b) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(6)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/6/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-e82dabb3b8ef70c65f59a55d7ca38a2b]: Textual amendment: [Sch. 1 rule 33](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33).26(d) and word inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(6)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/6/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-e82dabb3b8ef70c65f59a55d7ca38a2b]: Textual amendment: [Sch. 1 rule 33](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33).26(d) and word inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(6)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/6/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c15190991]: Textual amendment: Words in Sch. 1 rule 33.26 substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/15/b)
 
@@ -11024,11 +11024,11 @@ Rule 36.G1(1B)
 
 [^c15191051]: Marginal citation: [1981 c.59](https://www.legislation.gov.uk/ukpga/1981/59).
 
-[^key-b6fca02e83700f2cba9157c7b0e8c16a]: Textual amendment: Sch. 1 rule 33.28(1)(a)(v) inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/4)
+[^c-b6fca02e83700f2cba9157c7b0e8c16a]: Textual amendment: Sch. 1 rule 33.28(1)(a)(v) inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/4)
 
-[^key-536fe25edae165f932285d34516d5243]: Textual amendment: Sch. 1 rule 33.28(1)(a)(vi) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(7)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/7) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-536fe25edae165f932285d34516d5243]: Textual amendment: Sch. 1 rule 33.28(1)(a)(vi) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(7)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/7) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-49905574763a159af2a94bf62c293d4d]: Textual amendment: Sch. 1 rule 33.28(1)(a)(vii) inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302)](https://www.legislation.gov.uk/ssi/2014/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/5/4)
+[^c-49905574763a159af2a94bf62c293d4d]: Textual amendment: Sch. 1 rule 33.28(1)(a)(vii) inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302)](https://www.legislation.gov.uk/ssi/2014/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/5/4)
 
 [^c20729881]: Textual amendment: Word in Sch. 1 rule 33.30 substituted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(26)}
 
@@ -11042,43 +11042,43 @@ Rule 36.G1(1B)
 
 [^c20689981]: Textual amendment: Sch. 1 rule 33.33A inserted (1.7.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 (S.S.I. 2008/223)](https://www.legislation.gov.uk/ssi/2008/223), [para. 2(2)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/2/2)
 
-[^key-cc0da8157f2efaf37f602d47a470087f]: Textual amendment: Words in Sch. 1 rule 33.33A(1) substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/5)
+[^c-cc0da8157f2efaf37f602d47a470087f]: Textual amendment: Words in Sch. 1 rule 33.33A(1) substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/5)
 
-[^key-8f8f93bb4d70e3ec61044dd50ea5b62f]: Textual amendment: Word in Sch. 1 rule 33.33A(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/7/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-8f8f93bb4d70e3ec61044dd50ea5b62f]: Textual amendment: Word in Sch. 1 rule 33.33A(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/7/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-e19bfc1e2ace55c55227394c765df6f4]: Textual amendment: Words in Sch. 1 rule 33.33A(1) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(8)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/8) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-e19bfc1e2ace55c55227394c765df6f4]: Textual amendment: Words in Sch. 1 rule 33.33A(1) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(8)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/8) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-97ae8a5b6533bd5d01f224f048c89eb6]: Textual amendment: Words in Sch. 1 rule 33.33A(1) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/7/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-97ae8a5b6533bd5d01f224f048c89eb6]: Textual amendment: Words in Sch. 1 rule 33.33A(1) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/7/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-d79c568f4cd3478835e9ada5fb6f1552]: Textual amendment: Sch. 1 rule 33.33A(4A) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(7)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/7/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-d79c568f4cd3478835e9ada5fb6f1552]: Textual amendment: Sch. 1 rule 33.33A(4A) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(7)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/7/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-8962e37596690d534e4f9cd530ca1958]: Textual amendment: Sch. 1 rule 33.33B inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(14)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/14) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-8962e37596690d534e4f9cd530ca1958]: Textual amendment: Sch. 1 rule 33.33B inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(14)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/14) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-61962b133316717dd5438e3cfbdc7f3c]: Textual amendment: Sch. 1 rule 33.34 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-61962b133316717dd5438e3cfbdc7f3c]: Textual amendment: Sch. 1 rule 33.34 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-0285f1eb346c28beadba4beef6f92c98]: Textual amendment: Word in Sch. 1 rule 33.34(1)(b)(ii) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(9)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/9/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-0285f1eb346c28beadba4beef6f92c98]: Textual amendment: Word in Sch. 1 rule 33.34(1)(b)(ii) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(9)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/9/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c15191111]: Textual amendment: Words in Sch. 1 rule 33.34(1)(b)(iii) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/18/a)
 
-[^key-c65d488321c001d4f9b4ddbf65997f48]: Textual amendment: Word in Sch. 1 rule 33.34(1)(b)(iii) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(9)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/9/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-c65d488321c001d4f9b4ddbf65997f48]: Textual amendment: Word in Sch. 1 rule 33.34(1)(b)(iii) omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(9)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/9/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-f995070e6f90a56666b67cbd0b15f1e1]: Textual amendment: Sch. 1 rule 33.34(1)(b)(iv) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(9)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/9/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-f995070e6f90a56666b67cbd0b15f1e1]: Textual amendment: Sch. 1 rule 33.34(1)(b)(iv) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(9)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/9/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c15191121]: Marginal citation: [1985 c.37](https://www.legislation.gov.uk/ukpga/1985/37).
 
-[^key-d34d0c5ca3de5cb65180d5eebca98549]: Textual amendment: Words in Sch. 1 rule 33.34(2)(a) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(8)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/8/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-d34d0c5ca3de5cb65180d5eebca98549]: Textual amendment: Words in Sch. 1 rule 33.34(2)(a) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(8)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/8/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-882ba031631ccd9cd9568777a1257b61]: Textual amendment: Sch. 1 rule 33.34(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(8)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/8/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-882ba031631ccd9cd9568777a1257b61]: Textual amendment: Sch. 1 rule 33.34(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(8)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/8/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-1bba0d103316af8d4a1ef44d4823f01b]: Textual amendment: Sch. 1 rule 33.34(4) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15)) (as amended by [S.S.I. 2012/221](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/a))
+[^c-1bba0d103316af8d4a1ef44d4823f01b]: Textual amendment: Sch. 1 rule 33.34(4) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15)) (as amended by [S.S.I. 2012/221](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/a))
 
-[^key-1a8ee09b6bfa7ae9b559399d6b5f0ed4]: Textual amendment: Sch. 1 rule 33.34(4A)-(4E) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(8)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/8/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-1a8ee09b6bfa7ae9b559399d6b5f0ed4]: Textual amendment: Sch. 1 rule 33.34(4A)-(4E) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(8)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/8/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-fd2b9029af811f925d0685ee2f681f5b]: Textual amendment: Words in Sch. 1 rule 33.34(4A) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(15)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/15) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-fd2b9029af811f925d0685ee2f681f5b]: Textual amendment: Words in Sch. 1 rule 33.34(4A) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(15)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/15) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-9e5beecd777f9916012759375c010550]: Textual amendment: Sch. 1 rule 33.36 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(16)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/16) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-9e5beecd777f9916012759375c010550]: Textual amendment: Sch. 1 rule 33.36 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(16)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/16) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-a4e99b8cd65a18a8449ce32aa948150b]: Textual amendment: Sch. 1 rules 33.36A-33.36Q inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(17)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/17) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-a4e99b8cd65a18a8449ce32aa948150b]: Textual amendment: Sch. 1 rules 33.36A-33.36Q inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(17)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/17) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20732031]: Textual amendment: Word in Sch. 1 rule 33.37(1)(b) omitted (18.8.2006) by virtue of [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(9)(a)](https://www.legislation.gov.uk/ssi/2006/410/paragraph/2/9/a)
 
@@ -11086,9 +11086,9 @@ Rule 36.G1(1B)
 
 [^c20732061]: Textual amendment: Sch. 1 rule 33.37(1)(d) and word inserted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(9)(b)](https://www.legislation.gov.uk/ssi/2006/410/paragraph/2/9/b)
 
-[^key-ef5c27f558612e2712880461efa2067a]: Textual amendment: Words in Sch. 1 rule 33.37(2)(a) substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(6)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/6)
+[^c-ef5c27f558612e2712880461efa2067a]: Textual amendment: Words in Sch. 1 rule 33.37(2)(a) substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(6)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/6)
 
-[^key-274d7e5f619ac1f42a93fa8cd4d0f50a]: Textual amendment: Words in Sch. 1 rule 33.37(2)(b) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(10)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/10) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-274d7e5f619ac1f42a93fa8cd4d0f50a]: Textual amendment: Words in Sch. 1 rule 33.37(2)(b) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [5(10)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5/10) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20732131]: Textual amendment: Word in Sch. 1 rule 33.37(2)(d) substituted (18.8.2006) by [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [para. 2(9)(c)](https://www.legislation.gov.uk/ssi/2006/410/paragraph/2/9/c)
 
@@ -11116,15 +11116,15 @@ Rule 36.G1(1B)
 
 [^c15191291]: Textual amendment: Words Sch. 1 rule 33.44(1) inserted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [Sch. para. 3(15)](https://www.legislation.gov.uk/ssi/2000/239/schedule/paragraph/3/15)
 
-[^key-f77dfc2115c9aa803462c6b710451fa5]: Textual amendment: Sch. 1 rules 33.44A-33.44D inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(9)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/9) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-f77dfc2115c9aa803462c6b710451fa5]: Textual amendment: Sch. 1 rules 33.44A-33.44D inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(9)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/9) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c15191301]: Marginal citation: [1985 c.37](https://www.legislation.gov.uk/ukpga/1985/37).
 
 [^c15191311]: Marginal citation: [1981 c.59](https://www.legislation.gov.uk/ukpga/1981/59); [section 13](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/13) was amended by the [Family Law (Scotland) Act 1985 (c.37)](https://www.legislation.gov.uk/ukpga/1985/37), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1), [paragraph 11](https://www.legislation.gov.uk/ukpga/1985/37/paragraph/11) and the [Housing (Scotland) Act 1987 (c.26)](https://www.legislation.gov.uk/ukpga/1987/26), [Schedule 23](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23), [paragraph 26](https://www.legislation.gov.uk/ukpga/1987/26/paragraph/26).
 
-[^key-0fb3e119d537c95e7c87699810e35e05]: Textual amendment: Word in Sch. 1 rule 33.51(1)(a)(iv) omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/2/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-0fb3e119d537c95e7c87699810e35e05]: Textual amendment: Word in Sch. 1 rule 33.51(1)(a)(iv) omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/2/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-f738d3ed2e5a89917998c40c84dd54e0]: Textual amendment: Sch. 1 rule 33.51(1)(a)(v) inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/2/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-f738d3ed2e5a89917998c40c84dd54e0]: Textual amendment: Sch. 1 rule 33.51(1)(a)(v) inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/2/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
 [^c15191321]: Textual amendment: Sch. 1 rule 33.51(3) inserted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(50)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/50)
 
@@ -11132,11 +11132,11 @@ Rule 36.G1(1B)
 
 [^c20669981]: Textual amendment: Word in Sch. 1 rule 33.51(3)(a) omitted (24.1.2003) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2003 (S.S.I. 2003/26)](https://www.legislation.gov.uk/ssi/2003/26), [para. 2(9)(a)](https://www.legislation.gov.uk/ssi/2003/26/article/2/9/a)
 
-[^key-7976dabe58052896cc033588340b6c1d]: Textual amendment: Word in Sch. 1 rule 33.51(3)(b) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(3)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/3/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-7976dabe58052896cc033588340b6c1d]: Textual amendment: Word in Sch. 1 rule 33.51(3)(b) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(3)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/3/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c20670191]: Textual amendment: Sch. 1 rule 33.51(3)(c) and word inserted (24.1.2003) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2003 (S.S.I. 2003/26)](https://www.legislation.gov.uk/ssi/2003/26), [para. 2(9)(b)](https://www.legislation.gov.uk/ssi/2003/26/article/2/9/b)
 
-[^key-ccc71ccc2f3a6bd0f62d1a73c58dfa14]: Textual amendment: Sch. 1 rule 33.51(3)(ba) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(3)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/3/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-ccc71ccc2f3a6bd0f62d1a73c58dfa14]: Textual amendment: Sch. 1 rule 33.51(3)(ba) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(3)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/3/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c20670211]: Textual amendment: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -11186,7 +11186,7 @@ Rule 36.G1(1B)
 
 [^c15191561]: Textual amendment: Sch. 1 rule 33.65(1) substituted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/32)
 
-[^key-0fe34870fb46d5bd9da3f303d2c06985]: Textual amendment: Sch. 1 rule 33.65(3) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(10)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/10) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-0fe34870fb46d5bd9da3f303d2c06985]: Textual amendment: Sch. 1 rule 33.65(3) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(10)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/10) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c20691531]: Textual amendment: Sch. 1 rule 33.65A inserted (28.9.2009) by Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 ([S.S.I. 2009/284](https://www.legislation.gov.uk/ssi/2009/284)), {para. 3(4)}
 
@@ -11246,7 +11246,7 @@ Rule 36.G1(1B)
 
 [^c15191651]: Textual amendment: Sch. 1 rule 33.76(4) substituted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(17)(a)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/17/a)
 
-[^key-430f976cd0e968877e77645a873f3ea7]: Textual amendment: Words in Sch. 1 rule 33.76(4)(b) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2010/279/paragraph/2)
+[^c-430f976cd0e968877e77645a873f3ea7]: Textual amendment: Words in Sch. 1 rule 33.76(4)(b) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2010/279/paragraph/2)
 
 [^c15191661]: Textual amendment: Sch. 1 rule 33.76(5) inserted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(17)(b)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/17/b)
 
@@ -11256,17 +11256,17 @@ Rule 36.G1(1B)
 
 [^c15191671]: Marginal citation: Cmnd. 3986 (1969).
 
-[^key-071b56a76995576323977b234d44f07b]: Textual amendment: Sch. 1 rule 33.81 renumbered as Sch. 1 rule 33.81(1) (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(11)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/11/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-071b56a76995576323977b234d44f07b]: Textual amendment: Sch. 1 rule 33.81 renumbered as Sch. 1 rule 33.81(1) (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(11)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/11/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-5b7eb79becbc676f7386f646bda657ab]: Textual amendment: Sch. 1 rule 33.81(2)(3) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(11)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/11/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-5b7eb79becbc676f7386f646bda657ab]: Textual amendment: Sch. 1 rule 33.81(2)(3) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(11)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/11/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c15191681]: Marginal citation: [1966 c.19](https://www.legislation.gov.uk/ukpga/1966/19); [section 8](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/8) was amended by the [Guardianship Act 1973 (c.29)](https://www.legislation.gov.uk/ukpga/1973/29), [Schedule 5](https://www.legislation.gov.uk/ukpga/1973/29/schedule/5), the [Divorce (Scotland) Act 1976 (c.39)](https://www.legislation.gov.uk/ukpga/1976/39), [Schedule 1](https://www.legislation.gov.uk/ukpga/1976/39/schedule/1), the [Matrimonial and Family Proceedings Act 1984 (c.42)](https://www.legislation.gov.uk/ukpga/1984/42), [Schedule 1](https://www.legislation.gov.uk/ukpga/1984/42/schedule/1), [paragraph 7](https://www.legislation.gov.uk/ukpga/1984/42/paragraph/7), the [Family Law (Scotland) Act 1985 (c.37)](https://www.legislation.gov.uk/ukpga/1985/37), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1), [paragraph 5](https://www.legislation.gov.uk/ukpga/1985/37/paragraph/5) and the [Family Law Act 1986 (c.53)](https://www.legislation.gov.uk/ukpga/1986/53), [Schedule 1](https://www.legislation.gov.uk/ukpga/1986/53/schedule/1), [paragraph 8](https://www.legislation.gov.uk/ukpga/1986/53/paragraph/8) and Schedule 2.
 
 [^c15191691]: Textual amendment: Words in Sch. 1 rule 33.84(5) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(55)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/55)
 
-[^key-9865ecae539f34c1b929dd0a716badda]: Textual amendment: Word in Sch. 1 rule 33.86(1)(a) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(12)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/12/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-9865ecae539f34c1b929dd0a716badda]: Textual amendment: Word in Sch. 1 rule 33.86(1)(a) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(12)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/12/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-b65f538ed534c04981cc6f8cbe142669]: Textual amendment: Word in Sch. 1 rule 33.86(1)(a) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(12)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/12/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-b65f538ed534c04981cc6f8cbe142669]: Textual amendment: Word in Sch. 1 rule 33.86(1)(a) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(12)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/12/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^c15191711]: Textual amendment: Sch. 1 rule 33.88: “-(1)” at the beginning is omitted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(56)(a)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/56/a)
 
@@ -11284,15 +11284,15 @@ Rule 36.G1(1B)
 
 [^c20676041]: Textual amendment: Word in Sch. 1 rule 33.91 substituted (24.1.2003) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2003 (S.I. 2003/26)](https://www.legislation.gov.uk/uksi/2003/26), [art. 2(12)(b)](https://www.legislation.gov.uk/uksi/2003/26/article/2/12/b)
 
-[^key-1b3373ebdcceea1bab02a1efed19eaae]: Textual amendment: Sch. 1 rule 33.91A inserted (6.4.2010) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Child Maintenance and Other Payments Act 2008) 2010 (S.S.I. 2010/120)](https://www.legislation.gov.uk/ssi/2010/120), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/120/paragraph/1/1), [2](https://www.legislation.gov.uk/ssi/2010/120/paragraph/2)
+[^c-1b3373ebdcceea1bab02a1efed19eaae]: Textual amendment: Sch. 1 rule 33.91A inserted (6.4.2010) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Child Maintenance and Other Payments Act 2008) 2010 (S.S.I. 2010/120)](https://www.legislation.gov.uk/ssi/2010/120), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/120/paragraph/1/1), [2](https://www.legislation.gov.uk/ssi/2010/120/paragraph/2)
 
-[^key-46ac0a78197071f3665a7af5b6e752fb]: Textual amendment: Sch. 1 Ch. 33 Pt. 14 revoked (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/5/3/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-46ac0a78197071f3665a7af5b6e752fb]: Textual amendment: Sch. 1 Ch. 33 Pt. 14 revoked (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/5/3/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
 [^c15191741]: Textual amendment: Sch. 1 Ch. 33 Pts. 14, 15 inserted (1.11.1996) by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/33)
 
-[^key-aa62946ad0cd41e6c0dd7468f6cfa01a]: Textual amendment: Sch. 1 Ch. 33 Pt. 16 inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(7)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/7)
+[^c-aa62946ad0cd41e6c0dd7468f6cfa01a]: Textual amendment: Sch. 1 Ch. 33 Pt. 16 inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [8(7)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/8/7)
 
-[^key-52dd458802f77eb7885f6b82f90c5919]: Textual amendment: Sch. 1 rule 33.96(1) substituted (1.3.2021) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2021 (S.S.I. 2021/75)](https://www.legislation.gov.uk/ssi/2021/75), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/3/3)
+[^c-52dd458802f77eb7885f6b82f90c5919]: Textual amendment: Sch. 1 rule 33.96(1) substituted (1.3.2021) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2021 (S.S.I. 2021/75)](https://www.legislation.gov.uk/ssi/2021/75), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2021/75/paragraph/3/3)
 
 [^c20734691]: Textual amendment: Sch. 1 rule 33A.1(1)(f) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(41)}
 
@@ -11304,7 +11304,7 @@ Rule 36.G1(1B)
 
 [^c20677621]: Marginal citation: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-6344fff3c982be0f43c7514b7c8e4573]: Textual amendment: Words in Sch. 1 rule 33A.1(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/4) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-6344fff3c982be0f43c7514b7c8e4573]: Textual amendment: Words in Sch. 1 rule 33A.1(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/4) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
 [^c20677631]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39); [section 2(2)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/2/2) was amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232(1)](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/232/1).
 
@@ -11326,43 +11326,43 @@ Rule 36.G1(1B)
 
 [^c20677681]: Textual amendment: [Section 8](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/8) was amended by [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192).
 
-[^key-2f45954e653399aed3c7cfaeaf4d4bfc]: Textual amendment: Words in Sch. 1 rule 33A.7(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-2f45954e653399aed3c7cfaeaf4d4bfc]: Textual amendment: Words in Sch. 1 rule 33A.7(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c20677691]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
 [^c20735501]: Textual amendment: Words in Sch. 1 rule 33A.7(1)(c) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(44)
 
-[^key-94dddc36811453c2c341df9bc903bf68]: Textual amendment: Sch. 1 rule 33A.7(1)(e) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(3)(a)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/3/a/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-94dddc36811453c2c341df9bc903bf68]: Textual amendment: Sch. 1 rule 33A.7(1)(e) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(3)(a)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/3/a/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-83e68fd052c23d33341a9171c13317cf]: Textual amendment: Sch. 1 rule 33A.7(1)(f) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-83e68fd052c23d33341a9171c13317cf]: Textual amendment: Sch. 1 rule 33A.7(1)(f) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c20677701]: Marginal citation: [Section 8(1)(aa)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/8/1/aa) was inserted by the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40), [section 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74) and Schedule 8, paragraph 34(b).
 
 [^c20677711]: Marginal citation: [Section 8(1)(ba)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/8/1/ba) was inserted by the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 167(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/167/1).
 
-[^key-b888ad5c2f24bfcd315371720b626d10]: Textual amendment: Word in Sch. 1 rule 33A.07(1)(j) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(4)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/4/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-b888ad5c2f24bfcd315371720b626d10]: Textual amendment: Word in Sch. 1 rule 33A.07(1)(j) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(4)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/4/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c20677721]: Marginal citation: [Section 8(1)(baa)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/8/1/baa) was inserted by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 20(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/20/1).
 
-[^key-b6b6dfdb2b073fa1ea04c85eca39248b]: Textual amendment: Sch. 1 rule 33A.7(1)(l)(m) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(4)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/4/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-b6b6dfdb2b073fa1ea04c85eca39248b]: Textual amendment: Sch. 1 rule 33A.7(1)(l)(m) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(4)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/4/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-0fab2337430599cba370165ace47708a]: Textual amendment: Sch. 1 rule 33A.7(4) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/3/a/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-0fab2337430599cba370165ace47708a]: Textual amendment: Sch. 1 rule 33A.7(4) omitted (1.1.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/3/a/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-009c827b0edd5cc37f7210df95190efb]: Textual amendment: Word in Sch. 1 rule 33A.7(5) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(b)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-009c827b0edd5cc37f7210df95190efb]: Textual amendment: Word in Sch. 1 rule 33A.7(5) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(b)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-d88d92337c4eea872c3ab25312a41022]: Textual amendment: Words in Sch. 1 rule 33A.7(5) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-d88d92337c4eea872c3ab25312a41022]: Textual amendment: Words in Sch. 1 rule 33A.7(5) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-3f06792253b80960e3693cd5ad8eb9e4]: Textual amendment: Sch. 1 rule 33A.7(7) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-3f06792253b80960e3693cd5ad8eb9e4]: Textual amendment: Sch. 1 rule 33A.7(7) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(11)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/11/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-03f1f9270abdd81c76add6f92052d88d]: Textual amendment: Sch. 1 rule 33A.7A inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(12)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/12) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-03f1f9270abdd81c76add6f92052d88d]: Textual amendment: Sch. 1 rule 33A.7A inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(12)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/12) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-f6606af337516a4174db54871d73469b]: Textual amendment: Sch. 1 rule 33A.9 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/4/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-f6606af337516a4174db54871d73469b]: Textual amendment: Sch. 1 rule 33A.9 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/4/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20735561]: Textual amendment: Words in Sch. 1 rule 33A.9(2) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(45)
 
-[^key-35445fb6e807d17122f5f9d87db6e556]: Textual amendment: Sch. 1 rule 33A.9(5) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/4/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-35445fb6e807d17122f5f9d87db6e556]: Textual amendment: Sch. 1 rule 33A.9(5) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/4/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-85f68e37e9a5867fcbf635c16887dba5]: Textual amendment: Sch. 1 rule 33A.12 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/3/b) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-85f68e37e9a5867fcbf635c16887dba5]: Textual amendment: Sch. 1 rule 33A.12 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/3/b) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
 [^c20734711]: Textual amendment: Words in Sch. 1 rule 33A.14(1)(a) substituted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(46)(a)}
 
@@ -11370,51 +11370,51 @@ Rule 36.G1(1B)
 
 [^c20734771]: Textual amendment: Sch. 1 rule 33A.14(1)(c) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(46)(c)}
 
-[^key-afa5fb9876e37cf41ca0499dba6bd700]: Textual amendment: Words in Sch. 1 rule 33A.15(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(13)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/13/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-afa5fb9876e37cf41ca0499dba6bd700]: Textual amendment: Words in Sch. 1 rule 33A.15(1) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(13)(a)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/13/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-d788a911779d82372272d27ef11cc09e]: Textual amendment: Words in Sch. 1 rule 33A.15(1)(a) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/13/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-d788a911779d82372272d27ef11cc09e]: Textual amendment: Words in Sch. 1 rule 33A.15(1)(a) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/13/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-75bee56d27c79be0fb51528327686687]: Textual amendment: Sch. 1 rule 33A.15(2) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(13)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/13/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-75bee56d27c79be0fb51528327686687]: Textual amendment: Sch. 1 rule 33A.15(2) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(13)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/13/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-4a5a1358ad45ccae6eabd28f96944438]: Textual amendment: Words in Sch. 1 rule 33A.16 substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/6/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-4a5a1358ad45ccae6eabd28f96944438]: Textual amendment: Words in Sch. 1 rule 33A.16 substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/6/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-6f13ace3a9088a99a18b49de8b4d3d29]: Textual amendment: Word in Sch. 1 rule 33A.16(1) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-6f13ace3a9088a99a18b49de8b4d3d29]: Textual amendment: Word in Sch. 1 rule 33A.16(1) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-34e8db836caec12be3e80aeb90cab862]: Textual amendment: Words in Sch. 1 rule 33A.16(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-34e8db836caec12be3e80aeb90cab862]: Textual amendment: Words in Sch. 1 rule 33A.16(2) inserted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/b/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-577da0487ce69ae8908a77bb49d574be]: Textual amendment: Sch. 1 rule 33A.16(2)(b) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-577da0487ce69ae8908a77bb49d574be]: Textual amendment: Sch. 1 rule 33A.16(2)(b) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/b/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-f0800007354bc48b1442ab5eb52059a5]: Textual amendment: Words in Sch. 1 rule 33A.16(3)(b) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(18)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/18) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-f0800007354bc48b1442ab5eb52059a5]: Textual amendment: Words in Sch. 1 rule 33A.16(3)(b) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(18)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/18) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-9b077bfd45e06f38b4acd988575233db]: Textual amendment: Sch. 1 rule 33A.16(4) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(c)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-9b077bfd45e06f38b4acd988575233db]: Textual amendment: Sch. 1 rule 33A.16(4) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(c)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-daa5e8ecb7d51e07ccbc9638f56c9b62]: Textual amendment: Sch. 1 rule 33A.16(5) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(d)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/d) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-daa5e8ecb7d51e07ccbc9638f56c9b62]: Textual amendment: Sch. 1 rule 33A.16(5) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(d)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/d) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
-[^key-0b2cb0b10a5e479eae698c37cbb54e60]: Textual amendment: Sch. 1 rule 33A.16(8)-(8C) substituted for Sch. 1 rule 33A.16(8) (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(e)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/e) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/paragraph/4))
+[^c-0b2cb0b10a5e479eae698c37cbb54e60]: Textual amendment: Sch. 1 rule 33A.16(8)-(8C) substituted for Sch. 1 rule 33A.16(8) (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(e)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/e) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/paragraph/4))
 
-[^key-ededef017bbfd3aa3edbf83484e4c228]: Textual amendment: Words in Sch. 1 rule 33A.16(9)(c) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(f)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/f) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
+[^c-ededef017bbfd3aa3edbf83484e4c228]: Textual amendment: Words in Sch. 1 rule 33A.16(9)(c) substituted (1.6.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Curators ad litem) 2017 (S.S.I. 2017/132)](https://www.legislation.gov.uk/ssi/2017/132), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/1/2), [2(5)(f)](https://www.legislation.gov.uk/ssi/2017/132/paragraph/2/5/f) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/132/rule/4))
 
 [^c20734831]: Textual amendment: Words in Sch. 1 rule 33A.18(1) substituted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(48)}
 
-[^key-7e179ac212428670704a8cf2a29d2fbb]: Textual amendment: Sch. 1 rules 33A.19-33A.19D substituted for Sch. 1 rule 33A.19 (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(14)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/14) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-7e179ac212428670704a8cf2a29d2fbb]: Textual amendment: Sch. 1 rules 33A.19-33A.19D substituted for Sch. 1 rule 33A.19 (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(14)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/14) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-08d73953ccb5368701a8847544e92b29]: Textual amendment: Sch. 1 rules 33A.21, 33A.21A substituted for rule 33A.21 (21.3.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/102)](https://www.legislation.gov.uk/ssi/2016/102), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/3/2) (with [para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5))
+[^c-08d73953ccb5368701a8847544e92b29]: Textual amendment: Sch. 1 rules 33A.21, 33A.21A substituted for rule 33A.21 (21.3.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/102)](https://www.legislation.gov.uk/ssi/2016/102), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/3/2) (with [para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5))
 
-[^key-29eaa928bd18739e78fbb4c6a76299f0]: Textual amendment: Words in Sch. 1 rule 33A.21(3)(c) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(15)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/15/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-29eaa928bd18739e78fbb4c6a76299f0]: Textual amendment: Words in Sch. 1 rule 33A.21(3)(c) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(15)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/15/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-86277ac885ed18646f1ea3d223ed06eb]: Textual amendment: Word in Sch. 1 rule 33A.21(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(15)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/15/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-86277ac885ed18646f1ea3d223ed06eb]: Textual amendment: Word in Sch. 1 rule 33A.21(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(15)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/15/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-6a575e99d87bfef525626acd0364806b]: Textual amendment: Sch. 1 rule 33A.21(3)(e) and word inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(15)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/15/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-6a575e99d87bfef525626acd0364806b]: Textual amendment: Sch. 1 rule 33A.21(3)(e) and word inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(15)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/15/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-0a8b506ed7eb8137fe6c973fa45037c1]: Textual amendment: Words in Sch. 1 rule 33A.21(6) substituted (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/3/3)
+[^c-0a8b506ed7eb8137fe6c973fa45037c1]: Textual amendment: Words in Sch. 1 rule 33A.21(6) substituted (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/3/3)
 
-[^key-53c91bed368d201e6e1322d66864a8ac]: Textual amendment: Sch. 1 rule 33A.22 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(19)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/19) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-53c91bed368d201e6e1322d66864a8ac]: Textual amendment: Sch. 1 rule 33A.22 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(19)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/19) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-bcca8008afd392783ec603e1a03579dd]: Textual amendment: Words in Sch. 1 rule 33A.23(1) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(20)(a)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/20/a/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-bcca8008afd392783ec603e1a03579dd]: Textual amendment: Words in Sch. 1 rule 33A.23(1) inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(20)(a)(i)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/20/a/i) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-c8742d6eef416fb6402d3f54d391d478]: Textual amendment: Words in Sch. 1 rule 33A.23(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(20)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/20/a/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-c8742d6eef416fb6402d3f54d391d478]: Textual amendment: Words in Sch. 1 rule 33A.23(1) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(20)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/20/a/ii) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-1ff542ac4c0e6279337a13cf27a45aa0]: Textual amendment: Sch. 1 rule 33A.23(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(20)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/20/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-1ff542ac4c0e6279337a13cf27a45aa0]: Textual amendment: Sch. 1 rule 33A.23(2) substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(20)(b)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/20/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20687021]: Textual amendment: Sch. 1 rule 33A.23(4) substituted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), art. 2(10)
 
@@ -11426,27 +11426,27 @@ Rule 36.G1(1B)
 
 [^c20690051]: Textual amendment: Sch. 1 rule 33A.33A inserted (1.7.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 (S.S.I. 2008/223)](https://www.legislation.gov.uk/ssi/2008/223), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/223/article/2/3)
 
-[^key-8704f6b72ecc62b9cfd4cb4cc022cf86]: Textual amendment: Sch. 1 rule 33A.33A(4A) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(16)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/16) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-8704f6b72ecc62b9cfd4cb4cc022cf86]: Textual amendment: Sch. 1 rule 33A.33A(4A) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(16)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/16) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-0e506d62f738cdfed14b7cc18caa239c]: Textual amendment: Sch. 1 rule 33A.33B inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(21)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/21) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-0e506d62f738cdfed14b7cc18caa239c]: Textual amendment: Sch. 1 rule 33A.33B inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(21)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/21) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-4db1438a3d6b7f09d77e98202f00c300]: Textual amendment: Sch. 1 rule 33A.34 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-4db1438a3d6b7f09d77e98202f00c300]: Textual amendment: Sch. 1 rule 33A.34 heading substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20677771]: Marginal citation: [Section 16(3)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/16/3) was amended by the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [Schedule 3](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3), [paragraph 5](https://www.legislation.gov.uk/ukpga/2000/19/paragraph/5).
 
-[^key-5a13dab8b164a1a6f7abfb47701a5977]: Textual amendment: Words in Sch. 1 rule 33A.34(2)(a) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(17)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/17/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-5a13dab8b164a1a6f7abfb47701a5977]: Textual amendment: Words in Sch. 1 rule 33A.34(2)(a) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(17)(a)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/17/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-bab28b0cb4a93657f7fffe68a21633f5]: Textual amendment: Sch. 1 rule 33A.34(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(17)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/17/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-bab28b0cb4a93657f7fffe68a21633f5]: Textual amendment: Sch. 1 rule 33A.34(3) omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(17)(b)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/17/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-e141c4ca46dce64eae2490974ee05969]: Textual amendment: Sch. 1 rule 33A.34(4) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15)) (as amended by [S.S.I. 2012/221](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/b))
+[^c-e141c4ca46dce64eae2490974ee05969]: Textual amendment: Sch. 1 rule 33A.34(4) inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15)) (as amended by [S.S.I. 2012/221](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/b))
 
-[^key-3981ae2e109c71f2bdb716bb291fd35d]: Textual amendment: Sch. 1 rule 33A.34(4A)-(4E) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(17)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/17/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-3981ae2e109c71f2bdb716bb291fd35d]: Textual amendment: Sch. 1 rule 33A.34(4A)-(4E) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(17)(c)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/17/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-4df70be6414604eb9910f7453d7dfc2f]: Textual amendment: Words in Sch. 1 rule 33A.34(4A) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(22)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/22) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-4df70be6414604eb9910f7453d7dfc2f]: Textual amendment: Words in Sch. 1 rule 33A.34(4A) omitted (25.9.2023) by virtue of [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(22)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/22) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-68752ae25cc03f190747ff1702d7ae66]: Textual amendment: Sch. 1 rule 33A.36 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(23)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/23) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-68752ae25cc03f190747ff1702d7ae66]: Textual amendment: Sch. 1 rule 33A.36 substituted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(23)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/23) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-9c9aefb198b438b0313b902e74b00d70]: Textual amendment: Sch. 1 rules 33A.36A-33A.36Q inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(24)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/24) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-9c9aefb198b438b0313b902e74b00d70]: Textual amendment: Sch. 1 rules 33A.36A-33A.36Q inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(24)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/24) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20734981]: Textual amendment: Word in [Sch. 1 rule 33](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33).37(1)(b) omitted (18.8.2006) by virtue of [Act of Sederunt (Ordinary Cause and Summary Application Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/410)](https://www.legislation.gov.uk/ssi/2006/410), [art. 2(10)(a)](https://www.legislation.gov.uk/ssi/2006/410/article/2/10/a)
 
@@ -11460,27 +11460,27 @@ Rule 36.G1(1B)
 
 [^c20735241]: Textual amendment: Words in Sch. 1 rule 33A.38 inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(50)}
 
-[^key-38663f6cf5b768904921f291893331a3]: Textual amendment: Sch. 1 rules 33A.41A-33A.41D inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(18)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/18) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-38663f6cf5b768904921f291893331a3]: Textual amendment: Sch. 1 rules 33A.41A-33A.41D inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(18)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/18) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c20735261]: Textual amendment: Words in [Sch. 1 rule 33A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33A).44(1) inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(51)}
 
-[^key-c67395a08465feaf41aae77db0b1ba51]: Textual amendment: Word in Sch. 1 rule 33A.48(1)(a)(iv) omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/3/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-c67395a08465feaf41aae77db0b1ba51]: Textual amendment: Word in Sch. 1 rule 33A.48(1)(a)(iv) omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/3/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-696fef61cda57c4989e14a2356204a3d]: Textual amendment: Sch. 1 rule 33A.48(1)(a)(v) inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/3/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-696fef61cda57c4989e14a2356204a3d]: Textual amendment: Sch. 1 rule 33A.48(1)(a)(v) inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/3/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
 [^c20677791]: Textual amendment: [Section 12A(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/12A/5) was inserted by the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 167(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/167/3) and amended by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 84](https://www.legislation.gov.uk/ukpga/1999/30/section/84) and Schedule 12, Part 1, paragraph 9(1)(6).
 
 [^c20677801]: Textual amendment: [Section 12A(7)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/12A/7) was inserted by the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 167(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/167/3) and amended by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 84](https://www.legislation.gov.uk/ukpga/1999/30/section/84) and Schedule 12, Part 1, paragraph 9(1)(8).
 
-[^key-b87f47d27b2af2ba6409e0077d75965a]: Textual amendment: Word in Sch. 1 rule 33A.48(3)(b) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(5)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/5/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-b87f47d27b2af2ba6409e0077d75965a]: Textual amendment: Word in Sch. 1 rule 33A.48(3)(b) omitted (6.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(5)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/5/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-dcc60cf94f96a428cb52a971d80f464f]: Textual amendment: Sch. 1 rule 33A.48(3)(ba) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(5)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/5/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-dcc60cf94f96a428cb52a971d80f464f]: Textual amendment: Sch. 1 rule 33A.48(3)(ba) inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(5)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/5/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^c20690181]: Textual amendment: [Sch. 1 rule 33A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33A).48A inserted (1.7.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 (S.S.I. 2008/223)](https://www.legislation.gov.uk/ssi/2008/223), [para. 3(3)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/3/3)
 
 [^c20735281]: Textual amendment: Words in [Sch. 1 rule 33A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33A).54 inserted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {para. 2(52)}
 
-[^key-46622c2c715420d42855fe055da0ece0]: Textual amendment: Sch. 1 rule 33A.57(3) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(19)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/19) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-46622c2c715420d42855fe055da0ece0]: Textual amendment: Sch. 1 rule 33A.57(3) inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(19)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/19) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^c20691591]: Textual amendment: [Sch. 1 rule 33A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33A).57A inserted (28.9.2009) by Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 ([S.S.I. 2009/284](https://www.legislation.gov.uk/ssi/2009/284)), {art. 3(5)}
 
@@ -11492,31 +11492,31 @@ Rule 36.G1(1B)
 
 [^c20735441]: Textual amendment: Word in Sch. 1 rule 33A.66(1)(a) substituted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207)](https://www.legislation.gov.uk/ssi/2006/207), para. 2(55)(b)
 
-[^key-f0435b952aee320affcda6dec5e1862f]: Textual amendment: Words in Sch. 1 rule 33A.66(1)(d) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-f0435b952aee320affcda6dec5e1862f]: Textual amendment: Words in Sch. 1 rule 33A.66(1)(d) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9/2) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20735461]: Textual amendment: Words in [Sch. 1 rule 33A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33A).67(1) substituted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(56)(a)}
 
 [^c20735481]: Textual amendment: Word in [Sch. 1 rule 33A](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/33A).67(2) substituted (4.5.2006) by Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 ([S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), {rule 2(56)(b)}
 
-[^key-bc20e921cb905f8a74ee4ed6aa800d92]: Textual amendment: Words in Sch. 1 rule 33A.69(4)(b) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2010/279/paragraph/3)
+[^c-bc20e921cb905f8a74ee4ed6aa800d92]: Textual amendment: Words in Sch. 1 rule 33A.69(4)(b) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2010/279/paragraph/3)
 
 [^c20735541]: Textual amendment: Word in Sch. 1 rule 33A.70(1) substituted (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207)](https://www.legislation.gov.uk/ssi/2006/207), para. 2(57)
 
-[^key-21ec854e0f8e27690985fb3a99b31caf]: Textual amendment: Words in Sch. 1 rule 33A.70(1)(b)(i) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-21ec854e0f8e27690985fb3a99b31caf]: Textual amendment: Words in Sch. 1 rule 33A.70(1)(b)(i) substituted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20677811]: Textual amendment: Cmnd. 3986 (1969).
 
-[^key-05f1a43ce6545709a8c7fa83c22a3ef3]: Textual amendment: Sch. 1 rule 33A.74 renumbered as Sch. 1 rule 33A.74(1) (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(13)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/13/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-05f1a43ce6545709a8c7fa83c22a3ef3]: Textual amendment: Sch. 1 rule 33A.74 renumbered as Sch. 1 rule 33A.74(1) (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(13)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/13/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-fb94eb1ece672ec5feba8473cdf8b0d1]: Textual amendment: Sch. 1 rule 33A.74(2)(3) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(13)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/13/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-fb94eb1ece672ec5feba8473cdf8b0d1]: Textual amendment: Sch. 1 rule 33A.74(2)(3) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(13)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/13/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-6c906ab306359e9d33b210ccc214b549]: Textual amendment: Sch. 1 Ch. 33A Pt. 12 revoked (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/5/3/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-6c906ab306359e9d33b210ccc214b549]: Textual amendment: Sch. 1 Ch. 33A Pt. 12 revoked (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/5/3/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-6ba4098206a216e4e832f21fa42de6df]: Textual amendment: Sch. 1 Ch. 33AA revoked (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(25)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/25) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-6ba4098206a216e4e832f21fa42de6df]: Textual amendment: Sch. 1 Ch. 33AA revoked (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [2(25)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/2/25) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-9dbc1e8954d152004b136625983a8fc1]: Textual amendment: Sch. 1 Ch. 33B omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [7](https://www.legislation.gov.uk/ssi/2012/188/paragraph/7) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-9dbc1e8954d152004b136625983a8fc1]: Textual amendment: Sch. 1 Ch. 33B omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [7](https://www.legislation.gov.uk/ssi/2012/188/paragraph/7) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-08223fd1b0802c5828db62c4f6443fd2]: Textual amendment: Sch. 1 Ch. 33C inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/5/2) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-08223fd1b0802c5828db62c4f6443fd2]: Textual amendment: Sch. 1 Ch. 33C inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/5/2) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
 [^c20738591]: Textual amendment: [Sch. 1 Ch. 34 Pt. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/34/part/1) revoked (1.4.2008) by [Act of Sederunt (Sheriff Court Rules Amendment) (Diligence) 2008 (S.S.I. 2008/121)](https://www.legislation.gov.uk/ssi/2008/121), [para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/121/paragraph/2/1/a) (with [para. 2(2)](https://www.legislation.gov.uk/ssi/2008/121/paragraph/2/2))
 
@@ -11532,61 +11532,61 @@ Rule 36.G1(1B)
 
 [^c15191831]: Textual amendment: Words in [rule 34](https://www.legislation.gov.uk/ukpga/Edw7/7/51/rule/34).8 substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(61)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/61)
 
-[^key-838a71f9df64d00d53e5c73b7f4dc69e]: Textual amendment: Sch. 1 rule 34.10 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/3) (with [para. 3(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/1), [(2)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/2), [(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/4))
+[^c-838a71f9df64d00d53e5c73b7f4dc69e]: Textual amendment: Sch. 1 rule 34.10 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/3) (with [para. 3(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/1), [(2)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/2), [(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/3/4))
 
 [^c15191871]: Textual amendment: [Sch. 1 rule 34](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/34).11 inserted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(18)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/18)
 
-[^key-d38c08e801a15c80e842cb5047a2b123]: Textual amendment: Sch. 1 rule 34.12 omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(10)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/10) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-d38c08e801a15c80e842cb5047a2b123]: Textual amendment: Sch. 1 rule 34.12 omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(10)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/10) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
-[^key-616235f0b967f8ae5da0a324da88befe]: Textual amendment: Sch. 1 Ch. 34 Pt. 3 inserted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/2/2)
+[^c-616235f0b967f8ae5da0a324da88befe]: Textual amendment: Sch. 1 Ch. 34 Pt. 3 inserted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/2/2)
 
 [^c20687041]: Textual amendment: [Sch. 1 rule 35](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/35).10(2) substituted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), {art. 2(11)}
 
 [^M_F_6326e07e-3792-418e-db25-c918e9723db2]: Textual amendment: Sch. 1 Ch. 36 Pt. A1 inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/6) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
-[^key-28a9d428c6b28757c6dc9dbc036185e5]: Textual amendment: Sch. 1 rule 36.C1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(8)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/8) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-28a9d428c6b28757c6dc9dbc036185e5]: Textual amendment: Sch. 1 rule 36.C1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(8)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/8) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-6fd476a95ebc0574139187627a60553a]: Textual amendment: Sch. 1 rule 36.E1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(9)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/9) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-6fd476a95ebc0574139187627a60553a]: Textual amendment: Sch. 1 rule 36.E1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(9)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/9) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-90d34e336cffee9b944749f72752f4a2]: Textual amendment: Words in Sch. 1 rule 36.F1(1) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(10)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/10/a) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-90d34e336cffee9b944749f72752f4a2]: Textual amendment: Words in Sch. 1 rule 36.F1(1) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(10)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/10/a) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-9a4d2bfd60cc9fd2534632ce60005048]: Textual amendment: Sch. 1 rule 36.F1(4) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(10)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/10/b) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-9a4d2bfd60cc9fd2534632ce60005048]: Textual amendment: Sch. 1 rule 36.F1(4) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(10)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/10/b) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-f1a40107caba8805fa4ea522fc594a9a]: Textual amendment: Sch. 1 rule 36.G1(1)(1A)(1B) substituted for Sch. 1 rule 36.G1(1) (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/3/a) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-f1a40107caba8805fa4ea522fc594a9a]: Textual amendment: Sch. 1 rule 36.G1(1)(1A)(1B) substituted for Sch. 1 rule 36.G1(1) (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/3/a) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-6cccf1c0cf177e5fe3a89eea60ac3a77]: Textual amendment: Word in Sch. 1 rule 36.G1(1A)(b) substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/4/2) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-6cccf1c0cf177e5fe3a89eea60ac3a77]: Textual amendment: Word in Sch. 1 rule 36.G1(1A)(b) substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/4/2) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-bb1bd8ed78d97d975723094be7a8cef5]: Textual amendment: Words in Sch. 1 rule 36.G1(1A)(h) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/a) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-bb1bd8ed78d97d975723094be7a8cef5]: Textual amendment: Words in Sch. 1 rule 36.G1(1A)(h) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/a) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-6e4db5242aab5e1c47762e7a95c3da7d]: Textual amendment: Words in Sch. 1 rule 36.G1(3) omitted (7.7.2014) by virtue of [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/4/a)
+[^c-6e4db5242aab5e1c47762e7a95c3da7d]: Textual amendment: Words in Sch. 1 rule 36.G1(3) omitted (7.7.2014) by virtue of [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/4/a)
 
-[^key-d40dc2bbe012e1444e490707c0c12692]: Textual amendment: Sch. 1 rule 36.G1(5)(ba) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/b)
+[^c-d40dc2bbe012e1444e490707c0c12692]: Textual amendment: Sch. 1 rule 36.G1(5)(ba) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/b)
 
-[^key-ced6ba376c92fe8fcd20f57337ce8bb0]: Textual amendment: Sch. 1 rule 36.G1(6) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(c)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/c)
+[^c-ced6ba376c92fe8fcd20f57337ce8bb0]: Textual amendment: Sch. 1 rule 36.G1(6) substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(c)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/c)
 
-[^key-e0feeaf01e6402d73edeabfb5f79900f]: Textual amendment: Words in Sch. 1 rule 36.G1(7) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(d)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/d)
+[^c-e0feeaf01e6402d73edeabfb5f79900f]: Textual amendment: Words in Sch. 1 rule 36.G1(7) inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(11)(d)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/11/d)
 
-[^key-70ee4b4766424937cfacdab716a8c11b]: Textual amendment: Sch. 1 rule 36.G1(8) omitted (7.7.2014) by virtue of [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/4/b)
+[^c-70ee4b4766424937cfacdab716a8c11b]: Textual amendment: Sch. 1 rule 36.G1(8) omitted (7.7.2014) by virtue of [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/4/b)
 
-[^key-3d4f9ae96fbc9a0110964e357b61af11]: Textual amendment: Sch. 1 rule 36.G1(8A)(8B) inserted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/3/b) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8), [(9)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/9))
+[^c-3d4f9ae96fbc9a0110964e357b61af11]: Textual amendment: Sch. 1 rule 36.G1(8A)(8B) inserted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/3/b) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8), [(9)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/9))
 
-[^key-cf32e7feed9d73201aba123a52df8506]: Textual amendment: Words in sch. 1 rule 36.G1(9) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(3)(c)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/3/c) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-cf32e7feed9d73201aba123a52df8506]: Textual amendment: Words in sch. 1 rule 36.G1(9) substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(3)(c)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/3/c) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-6a945d1257654ae25299c3e4a4d47a2f]: Textual amendment: Words in Sch. 1 rule 36.H1(1) omitted (29.7.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/4) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-6a945d1257654ae25299c3e4a4d47a2f]: Textual amendment: Words in Sch. 1 rule 36.H1(1) omitted (29.7.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/4) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-738af57524f7fa6a0a54deca4493b652]: Textual amendment: Word in Sch. 1 rule 36.H1(2)(b) omitted (7.7.2014) by virtue of [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/5)
+[^c-738af57524f7fa6a0a54deca4493b652]: Textual amendment: Word in Sch. 1 rule 36.H1(2)(b) omitted (7.7.2014) by virtue of [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/article/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/5)
 
-[^key-9d1ded121a7830523af7cccdc82f1696]: Textual amendment: Sch. 1 rule 36.H1(2A) inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/3/3)
+[^c-9d1ded121a7830523af7cccdc82f1696]: Textual amendment: Sch. 1 rule 36.H1(2A) inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/3/3)
 
-[^key-89b0188ab3ee289cce06362254ff31b8]: Textual amendment: Sch. 1 rule 36.K1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(12)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/12) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-89b0188ab3ee289cce06362254ff31b8]: Textual amendment: Sch. 1 rule 36.K1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(12)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/12) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-71890bf8e1c45d39be50c56989a06508]: Textual amendment: Words in Sch. 1 rule 36.L1(1) substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/2/3)
+[^c-71890bf8e1c45d39be50c56989a06508]: Textual amendment: Words in Sch. 1 rule 36.L1(1) substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2016/229/paragraph/2/3)
 
-[^key-b8e40a474425707f01948343d959da10]: Textual amendment: Words in Sch. 1 rule 36.1(1)(a) omitted (7.7.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/2/a)
+[^c-b8e40a474425707f01948343d959da10]: Textual amendment: Words in Sch. 1 rule 36.1(1)(a) omitted (7.7.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/2/a)
 
-[^key-10c137b64de5d3c389f60b3734792a34]: Textual amendment: Words in Sch. 1 rule 36.1(1)(b) omitted (7.7.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/2/b)
+[^c-10c137b64de5d3c389f60b3734792a34]: Textual amendment: Words in Sch. 1 rule 36.1(1)(b) omitted (7.7.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/2/b)
 
-[^key-51ed0ea63c7db19d8ac263c9793cb414]: Textual amendment: Words in Sch. 1 rule 36.1(2) omitted (7.7.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(2)(c)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/2/c)
+[^c-51ed0ea63c7db19d8ac263c9793cb414]: Textual amendment: Words in Sch. 1 rule 36.1(2) omitted (7.7.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(2)(c)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/2/c)
 
 [^c15191891]: Textual amendment: Words in sch. 1 rule 36.6(4) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(62)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/62)
 
@@ -11602,19 +11602,19 @@ Rule 36.G1(1B)
 
 [^c15191921]: Marginal citation: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-8face503105b101c1f295c06ee301aaf]: Textual amendment: Sch. 1 Ch. 36 Pt. 4A omitted (22.9.2015) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(13)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/13) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-8face503105b101c1f295c06ee301aaf]: Textual amendment: Sch. 1 Ch. 36 Pt. 4A omitted (22.9.2015) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(13)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/13) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
 [^M_F_1ea277ae-735e-4ad5-eb1e-c3afa220a0e6]: Textual amendment: Words in Sch. 1 rule 36.18(2) substituted (1.11.1996) by [S.I. 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(63)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/63)
 
 [^M_F_69cea8ee-9e94-47d1-91b9-feed74388b4d]: Textual amendment: Sch. 1 Ch. 36 Pt. 6 inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2009/285/paragraph/2/7) (with [para. 3](https://www.legislation.gov.uk/ssi/2009/285/paragraph/3))
 
-[^key-d141ddbb5ee0979def5838116e551de1]: Textual amendment: Words in Sch. 1 rule 36.19 substituted (7.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/3) (with [para. 2(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/4))
+[^c-d141ddbb5ee0979def5838116e551de1]: Textual amendment: Words in Sch. 1 rule 36.19 substituted (7.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/3) (with [para. 2(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/2/4))
 
-[^key-1711c236ad5f2deb82e72baf9c26e0ad]: Textual amendment: Sch. 1 Ch. 36A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(14)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/14) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/3)) (as amended by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/2))
+[^c-1711c236ad5f2deb82e72baf9c26e0ad]: Textual amendment: Sch. 1 Ch. 36A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(14)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/14) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/3)) (as amended by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/4/2))
 
-[^key-7de83009e2e1c8ccdfa5fd5224bd5c56]: Textual amendment: Word in Sch. 1 rule 36A.10(1)(c) substituted (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/367)](https://www.legislation.gov.uk/ssi/2016/367), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/2/2)
+[^c-7de83009e2e1c8ccdfa5fd5224bd5c56]: Textual amendment: Word in Sch. 1 rule 36A.10(1)(c) substituted (28.11.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/367)](https://www.legislation.gov.uk/ssi/2016/367), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2016/367/paragraph/2/2)
 
-[^key-edd36ca6e8cd1c8f5148ea7382a8a4e6]: Textual amendment: Sch. 1 Ch. 36B inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(15)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/15)
+[^c-edd36ca6e8cd1c8f5148ea7382a8a4e6]: Textual amendment: Sch. 1 Ch. 36B inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(15)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/15)
 
 [^c15192001]: Marginal citation: [1977 c.27](https://www.legislation.gov.uk/ukpga/1977/27).
 
@@ -11626,15 +11626,15 @@ Rule 36.G1(1B)
 
 [^c15192051]: Textual amendment: [S.I. 1992/272](https://www.legislation.gov.uk/uksi/1992/272).
 
-[^key-07cf14ef174e3664ca1a660908fafe6e]: Textual amendment: Words in Sch. 1 rule 38.1(1) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/2/a)
+[^c-07cf14ef174e3664ca1a660908fafe6e]: Textual amendment: Words in Sch. 1 rule 38.1(1) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/2/a)
 
 [^c15192091]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27); [section 1(1)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/1/1) was amended by section 2 of, and Schedule 2 by section 3 of, and Schedule 2 to, the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12).
 
-[^key-60b60daa8ce57a4717b794e4baabe15b]: Textual amendment: Words in Sch. 1 rule 38.1(2) omitted (1.11.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/2/b)
+[^c-60b60daa8ce57a4717b794e4baabe15b]: Textual amendment: Words in Sch. 1 rule 38.1(2) omitted (1.11.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/2/b)
 
 [^c15192101]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-aca05cca1d582f8df2490eccc363ef3e]: Textual amendment: Sch. 1 rule 38.1(3) inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/2/c)
+[^c-aca05cca1d582f8df2490eccc363ef3e]: Textual amendment: Sch. 1 rule 38.1(3) inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/2/c)
 
 [^c15192111]: Textual amendment: [Sch. 1 rule 38](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/38).2(2) omitted (2.10.2000) by virtue of [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(1)(22)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/1/22)
 
@@ -11648,7 +11648,7 @@ Rule 36.G1(1B)
 
 [^c15192161]: Textual amendment: Sch. 1 Ch. 40 inserted (1.3.2001) by [S.S.I. 2001/8](https://www.legislation.gov.uk/ssi/2001/8), [para. 2(5)](https://www.legislation.gov.uk/ssi/2001/8/paragraph/2/5)
 
-[^key-9532f4847eaf29c573f251b2f2fa0feb]: Textual amendment: Sch. 1 rule 40.11 omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-9532f4847eaf29c573f251b2f2fa0feb]: Textual amendment: Sch. 1 rule 40.11 omitted (1.8.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
 [^c20687211]: Textual amendment: [Sch. 1 rule 40](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/rule/40).12(2)(c) and word inserted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), {art. 2(12)}
 
@@ -11660,31 +11660,31 @@ Rule 36.G1(1B)
 
 [^c20735601]: Marginal citation: [Section 1(1A)](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/1/1A) was inserted by the Family Law (Scotland) Act 2006 (asp2)
 
-[^key-8c21ed795fdf7916ec5eff4e519e3f51]: Textual amendment: Sch. 1 rule 41.2(3)(e) inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/2)
+[^c-8c21ed795fdf7916ec5eff4e519e3f51]: Textual amendment: Sch. 1 rule 41.2(3)(e) inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/2)
 
-[^key-ced0b4d43fec1c822b55aa73cf8ab862]: Textual amendment: Sch. 1 Ch. 41A inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/3)
+[^c-ced0b4d43fec1c822b55aa73cf8ab862]: Textual amendment: Sch. 1 Ch. 41A inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/3)
 
-[^key-51a28b46c99d892b2036ce2b2c11e696]: Textual amendment: Words in Sch. 1 rule 41A.2(7) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/2/a)
+[^c-51a28b46c99d892b2036ce2b2c11e696]: Textual amendment: Words in Sch. 1 rule 41A.2(7) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/2/a)
 
-[^key-8ef6d814d0bebe86828b48862a064192]: Textual amendment: Words in Sch. 1 rule 41A.2(8) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/2/b)
+[^c-8ef6d814d0bebe86828b48862a064192]: Textual amendment: Words in Sch. 1 rule 41A.2(8) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/2/b)
 
 [^c20675851]: Textual amendment: [Sch. 1 Ch. 42](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/42) inserted (20.8.2004) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Competition Appeal Tribunal) 2004 (S.S.I. 2004/350)](https://www.legislation.gov.uk/ssi/2004/350), [para. 2](https://www.legislation.gov.uk/ssi/2004/350/paragraph/2)
 
 [^c20675871]: Textual amendment: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).
 
-[^key-beea017c71f408932c0aad21e0d2c506]: Textual amendment: Sch. 1 rule 42.2(1)(1A) substituted for Sch. 1 rule 42.2(1) (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/2/2)
+[^c-beea017c71f408932c0aad21e0d2c506]: Textual amendment: Sch. 1 rule 42.2(1)(1A) substituted for Sch. 1 rule 42.2(1) (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/2/2)
 
-[^key-4270964d70e5cd38b0735406f04af6b4]: Textual amendment: Sch. 1 Ch. 42A inserted (26.5.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Competition Proceedings) 2017 (S.S.I. 2017/130)](https://www.legislation.gov.uk/ssi/2017/130), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/130/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/130/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/130/paragraph/4))
+[^c-4270964d70e5cd38b0735406f04af6b4]: Textual amendment: Sch. 1 Ch. 42A inserted (26.5.2017) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Competition Proceedings) 2017 (S.S.I. 2017/130)](https://www.legislation.gov.uk/ssi/2017/130), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/130/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/130/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2017/130/paragraph/4))
 
-[^key-12826031ef22c89e587b4ab4b6055272]: Textual amendment: Sch. 1 Ch. 43 heading substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/4)
+[^c-12826031ef22c89e587b4ab4b6055272]: Textual amendment: Sch. 1 Ch. 43 heading substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/4)
 
 [^c20680071]: Textual amendment: Sch. 1 Ch. 43 inserted (16.6.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Causes Relating to Articles 81 and 82 of the Treaty Establishing the European Community) 2006 (S.S.I. 2006/293)](https://www.legislation.gov.uk/ssi/2006/293), [para. 2](https://www.legislation.gov.uk/ssi/2006/293/paragraph/2)
 
-[^key-2d4409e5eb3f9bd605fdb4176a8fa593]: Textual amendment: Words in Sch. 1 rule 43.1(1) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/3/a)
+[^c-2d4409e5eb3f9bd605fdb4176a8fa593]: Textual amendment: Words in Sch. 1 rule 43.1(1) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/3/a)
 
-[^key-17c4431a30bc1ba580048341cec308af]: Textual amendment: Words in Sch. 1 rule 43.1(2) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/3/b)
+[^c-17c4431a30bc1ba580048341cec308af]: Textual amendment: Words in Sch. 1 rule 43.1(2) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/3/b)
 
-[^key-1d33fe9ef9c93d20804e02e12d9c5d09]: Textual amendment: Words in Sch. 1 rule 43.1(3) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/3/b)
+[^c-1d33fe9ef9c93d20804e02e12d9c5d09]: Textual amendment: Words in Sch. 1 rule 43.1(3) substituted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/3/b)
 
 [^c20680101]: Textual amendment: Sch. 1 Ch. 44 inserted (3.11.2006) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [art. 2(3)](https://www.legislation.gov.uk/ssi/2006/509/article/2/3)
 
@@ -11700,45 +11700,45 @@ Rule 36.G1(1B)
 
 [^c20680381]: Textual amendment: [Sch. 1 Ch. 45](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/45) inserted (1.11.2007) by Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 ([S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), {art. 2(13)}
 
-[^key-d3fbee6263833b82512afcddf05ca20d]: Textual amendment: Sch. 1 Ch. 46 inserted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [5](https://www.legislation.gov.uk/ssi/2010/279/paragraph/5)
+[^c-d3fbee6263833b82512afcddf05ca20d]: Textual amendment: Sch. 1 Ch. 46 inserted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [5](https://www.legislation.gov.uk/ssi/2010/279/paragraph/5)
 
-[^key-0461e36a493524bd5facd2ce4b3d106a]: Textual amendment: Sch. 1 Ch. 47 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/4) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-0461e36a493524bd5facd2ce4b3d106a]: Textual amendment: Sch. 1 Ch. 47 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/2/4) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-c2eabaaf12396bdae0a05c1efcbc6b14]: Textual amendment: Sch. 1 Ch. 48 substituted (1.4.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Reporting Restrictions) 2015 (S.S.I. 2015/85)](https://www.legislation.gov.uk/ssi/2015/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/3/2)
+[^c-c2eabaaf12396bdae0a05c1efcbc6b14]: Textual amendment: Sch. 1 Ch. 48 substituted (1.4.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Reporting Restrictions) 2015 (S.S.I. 2015/85)](https://www.legislation.gov.uk/ssi/2015/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/3/2)
 
-[^key-ef7f258bede775a742b613a08d8a01b1]: Textual amendment: Sch. 1 rule 48.1A inserted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/5/2)
+[^c-ef7f258bede775a742b613a08d8a01b1]: Textual amendment: Sch. 1 rule 48.1A inserted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/5/2)
 
-[^key-ebf3170b5f33801d383f9c6039c1f3f1]: Textual amendment: Sch. 1 rule 48.2 heading substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/a/i)
+[^c-ebf3170b5f33801d383f9c6039c1f3f1]: Textual amendment: Sch. 1 rule 48.2 heading substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/a/i)
 
-[^key-c8a03f512ca18a29caca49bb35a8ac62]: Textual amendment: Words in Sch. 1 rule 48.2(1) substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/a/ii)
+[^c-c8a03f512ca18a29caca49bb35a8ac62]: Textual amendment: Words in Sch. 1 rule 48.2(1) substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/a/ii)
 
-[^key-3f8970ec271ead22d21845fbbe798b68]: Textual amendment: Words in Sch. 1 rule 48.2(2) omitted (2.3.2020) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/a/iii)
+[^c-3f8970ec271ead22d21845fbbe798b68]: Textual amendment: Words in Sch. 1 rule 48.2(2) omitted (2.3.2020) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/a/iii)
 
-[^key-4523feeb5f072b076d4a3d946d8f13d8]: Textual amendment: Sch. 1 rule 48.3 heading substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/b/i)
+[^c-4523feeb5f072b076d4a3d946d8f13d8]: Textual amendment: Sch. 1 rule 48.3 heading substituted (2.3.2020) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/b/i)
 
-[^key-7319356392797c1b9bad223eee75f2f2]: Textual amendment: Sch. 1 rule 48.3(1) omitted (2.3.2020) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/b/ii)
+[^c-7319356392797c1b9bad223eee75f2f2]: Textual amendment: Sch. 1 rule 48.3(1) omitted (2.3.2020) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Reporting Restrictions) 2020 (S.S.I. 2020/28)](https://www.legislation.gov.uk/ssi/2020/28), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/28/paragraph/4/2/b/ii)
 
-[^key-139cd30876bc290cc46efc10d1a2f5e0]: Textual amendment: Sch. 1 Ch. 49 inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(4)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/4)
+[^c-139cd30876bc290cc46efc10d1a2f5e0]: Textual amendment: Sch. 1 Ch. 49 inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(4)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/4)
 
-[^key-ff01881a044f9fa621bc7d5791f8422a]: Textual amendment: Sch. 1 Ch. 50 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/2/2)
+[^c-ff01881a044f9fa621bc7d5791f8422a]: Textual amendment: Sch. 1 Ch. 50 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/2/2)
 
-[^key-52f9d29d8da1bc62f6f2df1c8537ff69]: Textual amendment: Sch. 1 rule 50.5(3) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(14)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/14) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-52f9d29d8da1bc62f6f2df1c8537ff69]: Textual amendment: Sch. 1 rule 50.5(3) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(14)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/14) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-268915c366c45a74a36c7bb7caa0aac0]: Textual amendment: Sch. 1 rule 50.6 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(15)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/15) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-268915c366c45a74a36c7bb7caa0aac0]: Textual amendment: Sch. 1 rule 50.6 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(15)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/15) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-ff063c1bf28b670d049cec5616dae205]: Textual amendment: Sch. 1 Ch. 51 inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/article/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2014/291/article/3/3)
+[^c-ff063c1bf28b670d049cec5616dae205]: Textual amendment: Sch. 1 Ch. 51 inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/article/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2014/291/article/3/3)
 
-[^key-90b561524603993a6afaf762595d9c97]: Textual amendment: Sch. 1 Ch. 52 omitted (1.12.2022) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/3/2)
+[^c-90b561524603993a6afaf762595d9c97]: Textual amendment: Sch. 1 Ch. 52 omitted (1.12.2022) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/3/2)
 
-[^key-7c68c8bfbf2b80668b2de9ee808cb312]: Textual amendment: [Sch. 1 Chs. 53](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/53), [54](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/54) inserted (25.5.2015) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Proving the Tenor and Reduction) 2015 (S.S.I. 2015/176)](https://www.legislation.gov.uk/ssi/2015/176), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/2/3)
+[^c-7c68c8bfbf2b80668b2de9ee808cb312]: Textual amendment: [Sch. 1 Chs. 53](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/53), [54](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/chapter/54) inserted (25.5.2015) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Proving the Tenor and Reduction) 2015 (S.S.I. 2015/176)](https://www.legislation.gov.uk/ssi/2015/176), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/2/3)
 
 [^c15192171]: Textual amendment: Sch. 1 (with Appendices 1, 2) substituted (1.1.1994) for Sch. 1 (with Appendix) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules) 1993 (S.I. 1993/1956)](https://www.legislation.gov.uk/uksi/1993/1956), [para. 2](https://www.legislation.gov.uk/uksi/1993/1956/paragraph/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1956/schedule/1)
 
 [^M_F_c4477a83-0208-47fd-a6d2-20651a330dc9]: Textual amendment: Sch. 1 Appendix 1 Form 1A.2 the words “permission to represent” substituted for “to make oral submissions on behalf of” (3.7.2017) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Lay Representation) 2017 (S.S.I. 2017/186)](https://www.legislation.gov.uk/ssi/2017/186), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2017/186/paragraph/4/3)
 
-[^key-915f09357253f0b54f4ff5f81f417f7e]: Textual amendment: Sch. 1 Appendix 1 Form 1A.2 inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2013/91/article/2/3), [sch. 1](https://www.legislation.gov.uk/ssi/2013/91/schedule/1)
+[^c-915f09357253f0b54f4ff5f81f417f7e]: Textual amendment: Sch. 1 Appendix 1 Form 1A.2 inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2013/91/article/2/3), [sch. 1](https://www.legislation.gov.uk/ssi/2013/91/schedule/1)
 
-[^key-9a700f6732a80e2798aff82528ed37f7]: Textual amendment: Sch. 1 Appendix 1 Form G1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/a), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-9a700f6732a80e2798aff82528ed37f7]: Textual amendment: Sch. 1 Appendix 1 Form G1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(a)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/a), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
 [^c20973351]: Textual amendment: Sch. 1 Appendix 1 Form G1A inserted (1.3.2001) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Commercial Actions) 2001 (S.S.I. 2001/8)](https://www.legislation.gov.uk/ssi/2001/8), [para. 2(6)](https://www.legislation.gov.uk/ssi/2001/8/paragraph/2/6), [Sch.](https://www.legislation.gov.uk/ssi/2001/8/schedule)
 
@@ -11750,11 +11750,11 @@ Rule 36.G1(1B)
 
 [^c20968911]: Textual amendment: Sch. 1 Appendix 1: forms G5, G10, G11, G12, O4, O10, F12, F17, F31 amended (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(a)(d)(e)(f)(g)(h)(j)(l)(m)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/a/d/e/f/g/h/j/l/m)
 
-[^key-b3aedf038a68c99e7074d32e06d9774c]: Textual amendment: Sch. 1 Appendix 1 Form G5A inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/289/schedule) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-b3aedf038a68c99e7074d32e06d9774c]: Textual amendment: Sch. 1 Appendix 1 Form G5A inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/289/schedule) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
-[^key-d6c1ebc459de6ef8cc93174e4d1a16a2]: Textual amendment: Sch. 1 Appendix 1 Form G6A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/b), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
+[^c-d6c1ebc459de6ef8cc93174e4d1a16a2]: Textual amendment: Sch. 1 Appendix 1 Form G6A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(b)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/b), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
 
-[^key-a8079dafe26a9496be059f568c2681d6]: Textual amendment: Sch. 1 Appendix 1 Form G6B inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/289/schedule) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
+[^c-a8079dafe26a9496be059f568c2681d6]: Textual amendment: Sch. 1 Appendix 1 Form G6B inserted (25.9.2023) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment) (Case Management of Defended Family and Civil Partnership Actions) 2022 (S.S.I. 2022/289)](https://www.legislation.gov.uk/ssi/2022/289), [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/289/paragraph/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/289/schedule) (with [para. 3](https://www.legislation.gov.uk/ssi/2022/289/paragraph/3))
 
 [^c20969761]: Textual amendment: Sch. 1 Appendix 1: forms G7, G8, G9 substituted (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/b)
 
@@ -11764,35 +11764,35 @@ Rule 36.G1(1B)
 
 [^M_F_1ffbe8dd-a968-4b8b-c44c-afc0f3553b94]: Textual amendment: Sch. 1 Appendix 1 Form G9 substituted (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(b)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/b)
 
-[^key-744c78642a002595f7e8e8ecec9afe8a]: Textual amendment: Sch. 1 Appendix 1 Form G9A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(c)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/c), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
+[^c-744c78642a002595f7e8e8ecec9afe8a]: Textual amendment: Sch. 1 Appendix 1 Form G9A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(c)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/c), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
 
 [^M_F_d5e9c7d8-aad8-4e59-9218-6f525c247a51]: Textual amendment: Sch. 1 Appendix 1 Form G10 amended (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(d)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/d)
 
-[^key-a28354fa23551fc359452ab6977783c1]: Textual amendment: Sch. 1 Appendix 1 Forms G11, G11A, G11B, G11C, G11D substituted for Sch. 1 Appendix 1 Form G11 (7.7.2014) by [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/6), [sch.](https://www.legislation.gov.uk/ssi/2014/152/schedule)
+[^c-a28354fa23551fc359452ab6977783c1]: Textual amendment: Sch. 1 Appendix 1 Forms G11, G11A, G11B, G11C, G11D substituted for Sch. 1 Appendix 1 Form G11 (7.7.2014) by [Act of Sederunt (Rules of the Court of Session, Ordinary Cause Rules and Summary Cause Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/152)](https://www.legislation.gov.uk/ssi/2014/152), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2014/152/paragraph/3/6), [sch.](https://www.legislation.gov.uk/ssi/2014/152/schedule)
 
 [^M_F_34f0f298-9e4a-4e9d-8a60-44c69e416036]: Textual amendment: Sch. 1 Appendix 1 Form G12 amended (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(f)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/f)
 
 [^M_F_8fccce10-3dd8-4931-dd57-1d914c45d142]: Textual amendment: Sch. 1 Appendix 1 Form G13 substituted (1.11.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 (S.S.I. 2007/463](https://www.legislation.gov.uk/ssi/2007/463)), Sch. 1 para. 2(14)(a)
 
-[^key-b7329dc8903a5b72fdfe3f3a99b523bb]: Textual amendment: Sch. 1 Appendix 1 Form G13A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(d)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/d), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
+[^c-b7329dc8903a5b72fdfe3f3a99b523bb]: Textual amendment: Sch. 1 Appendix 1 Form G13A inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(d)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/d), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
 
 [^M_F_60a7c18d-405e-49f9-9255-666e162e4fe7]: Textual amendment: Sch. 1 Appendix 1 Form G16 substituted (1.1.2004) by [The Act of Sederunt (Taking of Evidence in the European Community) 2003 (S.S.I. 2003/601)](https://www.legislation.gov.uk/ssi/2003/601), [para. 4(4)](https://www.legislation.gov.uk/ssi/2003/601/paragraph/4/4), [Sch.](https://www.legislation.gov.uk/ssi/2003/601/schedule)
 
-[^key-1c6cf018a0a66cee61b7e2f88d277336]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form G18 substituted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/3), [sch. 4](https://www.legislation.gov.uk/ssi/2025/80/schedule/4) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
+[^c-1c6cf018a0a66cee61b7e2f88d277336]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form G18 substituted (30.4.2025) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Miscellaneous) 2025 (S.S.I. 2025/80)](https://www.legislation.gov.uk/ssi/2025/80), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2025/80/paragraph/4/3), [sch. 4](https://www.legislation.gov.uk/ssi/2025/80/schedule/4) (with [para. 5](https://www.legislation.gov.uk/ssi/2025/80/paragraph/5))
 
 [^M_F_2c2047cc-e750-44f4-e34c-e548c01cf345]: Textual amendment: Sch. 1 Appendix 1 Form G19 in para. 3 the word “eighteen" is substituted for "sixteen" (1.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 3) (Miscellaneous) 2015 (S.S.I. 2015/283)](https://www.legislation.gov.uk/ssi/2015/283), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/283/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2015/283/paragraph/3/2)
 
 [^M_F_48d9d44b-e891-4864-ec07-130d0dfeacdf]: Textual amendment: Sch. 1 Appendix 1 Form O2 amended (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(1)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/1/1), [2(16)(a)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2/16/a)
 
-[^key-d675de2d8dc491e45c1c7a5e701fa4d8]: Textual amendment: Sch. 1 Appendix 1 Form O2A omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-d675de2d8dc491e45c1c7a5e701fa4d8]: Textual amendment: Sch. 1 Appendix 1 Form O2A omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^c22731061]: Textual amendment: Sch. 1 Appendix 1 Forms O3, O3A substituted (1.12.2009) for Form O3 by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/2/4), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/294/schedule/1) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))
 
 [^M_F_55d0cc78-a285-4a11-cb1f-32dd70448b2a]: Textual amendment: Sch. 1 Appendix 1 Form O3 amended (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/1/1), [2(16)(b)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/2/16/b)
 
-[^key-82dad5d756b94a14136332e255f081a3]: Textual amendment: Sch. 1 Appendix 1 Form O3 Pt. B s. 5 heading: words “(Please attach a copy of the agreement if you have retained it and insert details of the agreement where known)” inserted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/9/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-82dad5d756b94a14136332e255f081a3]: Textual amendment: Sch. 1 Appendix 1 Form O3 Pt. B s. 5 heading: words “(Please attach a copy of the agreement if you have retained it and insert details of the agreement where known)” inserted (4.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/9/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-3615d8408fd7b51566c3d9826c706bea]: Textual amendment: Sch. 1 Appendix 1 Form O3 words “(Please attach a copy of the agreement)” after s. 5(b) omitted (4.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/9/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-3615d8408fd7b51566c3d9826c706bea]: Textual amendment: Sch. 1 Appendix 1 Form O3 words “(Please attach a copy of the agreement)” after s. 5(b) omitted (4.4.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/9/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^M_F_38a755ae-5ef5-466f-829d-583ea94ef130]: Textual amendment: Sch. 1 Appendix 1 Form O4 substituted (2.10.2000) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 2000 (S.S.I. 2000/239)](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(25)(d)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/25/d), [Sch. 1](https://www.legislation.gov.uk/ssi/2000/239/schedule/1)
 
@@ -11804,27 +11804,27 @@ Rule 36.G1(1B)
 
 [^M_F_09e95bcd-0ad3-4054-ce8d-9ebbcda20b22]: Textual amendment: Sch. 1 Appendix 1 Form O5 amended (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1), [2(16)(c)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/16/c)
 
-[^key-bf617f4ce8fa2dad8f3a303909454377]: Textual amendment: Sch. 1 Appendix 1 Form O5A omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-bf617f4ce8fa2dad8f3a303909454377]: Textual amendment: Sch. 1 Appendix 1 Form O5A omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(a)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/a) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^M_F_b89039b3-c68e-47f7-c5e8-06239d62956b]: Textual amendment: Sch. 1 Appendix 1 Form O6 substituted (17.1.2002) by [Act of Sederunt (Amendment of Ordinary Cause Rules and Summary Applications, Statutory Applications and Appeals etc. Rules) (Applications under the Mortgage Rights (Scotland) Act 2001) 2002 (S.S.I. 2002/7](https://www.legislation.gov.uk/ssi/2002/7)), para. 2(6)(c), Sch. 1
 
 [^M_F_07db3149-15ff-462c-82d2-6a837194a575]: Textual amendment: Sch. 1 Appendix 1 Form O6 amended (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1), [2(16)(d)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/16/d)
 
-[^key-d0ee08b17b56feef184d33a98ee068ad]: Textual amendment: Sch. 1 Appendix 1 Form O6: words “(In actions to which rule 3.2(3) applies, state whether Form O2A was sent in accordance with rule 3.3)” omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
+[^c-d0ee08b17b56feef184d33a98ee068ad]: Textual amendment: Sch. 1 Appendix 1 Form O6: words “(In actions to which rule 3.2(3) applies, state whether Form O2A was sent in accordance with rule 3.3)” omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(11)(b)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/11/b) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12), [(13)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/13))
 
 [^M_F_cea211d2-c329-4db4-cd6e-42d7dedb9953]: Textual amendment: Sch. 1 Appendix 1 Form O7 substituted (2.10.2000) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 2000 (S.S.I. 2000/239)](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(25)(d)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/25/d), [Sch. 1](https://www.legislation.gov.uk/ssi/2000/239/schedule/1)
 
-[^key-4826f3b23e1b6d53ab4619413b70a31a]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7A substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [para. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2024/353/schedule/3/part/1)
+[^c-4826f3b23e1b6d53ab4619413b70a31a]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7A substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [para. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2024/353/schedule/3/part/1)
 
-[^key-d6b8fcd85747a554ad6a240fbab02d88]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7B substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [para. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [sch. 3 Pt. 2](https://www.legislation.gov.uk/ssi/2024/353/schedule/3/part/2)
+[^c-d6b8fcd85747a554ad6a240fbab02d88]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7B substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [para. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [sch. 3 Pt. 2](https://www.legislation.gov.uk/ssi/2024/353/schedule/3/part/2)
 
-[^key-f1de7896ad0d533a5f81796688de5c9f]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7C omitted (1.1.2025) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [4(3)(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/4/3/c)
+[^c-f1de7896ad0d533a5f81796688de5c9f]: Textual amendment: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1/appendix/1) Form O7C omitted (1.1.2025) by virtue of [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [4(3)(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/4/3/c)
 
 [^M_F_97d3fa61-7029-4f7f-8656-ad7cb6340971]: Textual amendment: Sch. 1 Appendix 1 Form O8 amended (29.1.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1), [2(16)(e)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/2/16/e)
 
 [^M_F_2aee819c-f453-474b-89ac-d0c4943b97e0]: Textual amendment: Sch. 1 Appendix 1 Form O10 amended (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(h)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/h)
 
-[^key-c656c7d58fa9fbe7225581aac14c46e5]: Textual amendment: Sch. 1 Appendix 1 Form A1 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(16)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/15) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-c656c7d58fa9fbe7225581aac14c46e5]: Textual amendment: Sch. 1 Appendix 1 Form A1 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [5(16)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/5/15) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
 [^M_F_48852919-96dc-4124-d9cb-72fccae6c94b]: Textual amendment: Sch. 1 Appendix 1 Form F5 substituted (1.11.1996) by [Act of Sederunt (Family Proceedings in the Sheriff Court) 1996 (S.I. 1996/2167)](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 35(a)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/35/a)
 
@@ -11834,15 +11834,15 @@ Rule 36.G1(1B)
 
 [^M_F_bc82b182-f7f1-4c48-ae3a-209dc87235ae]: Textual amendment: Sch. 1 Appendix 1 Form F8 substituted (1.11.1996) by [Act of Sederunt (Family Proceedings in the Sheriff Court) 1996 (S.I. 1996/2167)](https://www.legislation.gov.uk/uksi/1996/2167), [para. 2](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/2), [Sch. para. 35(a)](https://www.legislation.gov.uk/uksi/1996/2167/schedule/paragraph/35/a)
 
-[^key-097ef17fb177af3872725185e9b376fd]: Textual amendment: Sch. 1 Appendix 1 Form F8 heading substituted to become “Form of notice to local authority” (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/a/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-097ef17fb177af3872725185e9b376fd]: Textual amendment: Sch. 1 Appendix 1 Form F8 heading substituted to become “Form of notice to local authority” (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/a/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-7185199884b06d6503b678860d2a7f4e]: Textual amendment: Sch. 1 Appendix 1 Form F8 para. 2 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(a)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/a/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-7185199884b06d6503b678860d2a7f4e]: Textual amendment: Sch. 1 Appendix 1 Form F8 para. 2 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(a)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/a/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-cad1fc7ee91d5c086ce487b97d688c37]: Textual amendment: Sch. 1 Appendix 1 Form F9 substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 4](https://www.legislation.gov.uk/ssi/2019/123/schedule/4) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-cad1fc7ee91d5c086ce487b97d688c37]: Textual amendment: Sch. 1 Appendix 1 Form F9 substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 4](https://www.legislation.gov.uk/ssi/2019/123/schedule/4) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-69e87eee1af0349542b1bc8372177e7b]: Textual amendment: Sch. 1 Appendix 1 Form F9A inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2019/123/schedule/5) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-69e87eee1af0349542b1bc8372177e7b]: Textual amendment: Sch. 1 Appendix 1 Form F9A inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2019/123/schedule/5) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-1dd5c8d9e9f33683215f08ba28e22d83]: Textual amendment: Sch. 1 Appendix 1 Form F9B inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 6](https://www.legislation.gov.uk/ssi/2019/123/schedule/6) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-1dd5c8d9e9f33683215f08ba28e22d83]: Textual amendment: Sch. 1 Appendix 1 Form F9B inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 6](https://www.legislation.gov.uk/ssi/2019/123/schedule/6) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^M_F_6dd343c9-d6ab-4a83-cd1a-b07d29f7b553]: Textual amendment: Sch. 1 Appendix 1 Form F12 amended (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(j)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/j)
 
@@ -11852,21 +11852,21 @@ Rule 36.G1(1B)
 
 [^M_F_78e70ad1-e66e-413f-f369-52cf572425b7]: Textual amendment: Sch. 1 Appendix 1 Form 12B inserted (1.12.2000) by [Act of Sederunt (Ordinary Cause Rules) Amendment (No. 2) (Pension Sharing on Divorce etc.) 2000 (S.S.I. 2000/408)](https://www.legislation.gov.uk/ssi/2000/408), [para. 1(1)](https://www.legislation.gov.uk/ssi/2000/408/paragraph/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2000/408/schedule)
 
-[^key-97979f624eac03a076ab57fd876b0248]: Textual amendment: Sch. 1 Appendix 1 Form F12C inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/a), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-97979f624eac03a076ab57fd876b0248]: Textual amendment: Sch. 1 Appendix 1 Form F12C inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/a), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-0ef4f83722d389c4be171891f1c538da]: Textual amendment: Sch. 1 Appendix 1 Form F12D inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/a), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-0ef4f83722d389c4be171891f1c538da]: Textual amendment: Sch. 1 Appendix 1 Form F12D inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(a)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/a), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
 [^M_F_cbb5f8e9-b72d-4ff6-e82d-ed22e64db24f]: Textual amendment: Sch. 1 Appendix 1 Form CO1 amended (4.5.2006) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Family Law (Scotland) Act 2006 etc.) 2006 (S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207)), para. 2(60)
 
-[^key-bc9175a4ee72ddbdff0874c4eb9d16a9]: Textual amendment: Sch. 1 Appendix 1 Form F12E moved to position following Form F12D (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-bc9175a4ee72ddbdff0874c4eb9d16a9]: Textual amendment: Sch. 1 Appendix 1 Form F12E moved to position following Form F12D (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8/3) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-0ffeb12164c65b3bdeb9f9adcfae76e3]: Textual amendment: Sch. 1 Appendix 1 Form 12E: the words “Rule 33.7(1)(p)” substituted for “Rule 33B.2(2)(b)” (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8/2/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-0ffeb12164c65b3bdeb9f9adcfae76e3]: Textual amendment: Sch. 1 Appendix 1 Form 12E: the words “Rule 33.7(1)(p)” substituted for “Rule 33B.2(2)(b)” (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8/2/b) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-d8888d52c46d88d1ecdc6326ca920312]: Textual amendment: Sch. 1 Appendix 1 Form CO1 renumbered as Sch. 1 Appendix 1 Form F12E (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8/2/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
+[^c-d8888d52c46d88d1ecdc6326ca920312]: Textual amendment: Sch. 1 Appendix 1 Form CO1 renumbered as Sch. 1 Appendix 1 Form F12E (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8/2/a) (with [para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15))
 
-[^key-fac06a89631ec0b5db6a237cef1cf93c]: Textual amendment: Sch. 1 Appendix 1 Form F13A inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(6)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/6/a), [sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1)
+[^c-fac06a89631ec0b5db6a237cef1cf93c]: Textual amendment: Sch. 1 Appendix 1 Form F13A inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(6)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/6/a), [sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1)
 
-[^key-290a82527032e7f72d3641157a98989a]: Textual amendment: Sch. 1 Appendix 1 Form F14 substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2019/123/schedule/7) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-290a82527032e7f72d3641157a98989a]: Textual amendment: Sch. 1 Appendix 1 Form F14 substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2019/123/schedule/7) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^M_F_df4ed0a4-b3b8-418c-eff8-97b2966f8164]: Textual amendment: Sch. 1 Appendix 1 Form F17 amended (1.11.1996) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 1996 (S.I. 1996/2445)](https://www.legislation.gov.uk/uksi/1996/2445), [para. 3(65)(l)](https://www.legislation.gov.uk/uksi/1996/2445/paragraph/3/65/l)
 
@@ -11968,29 +11968,29 @@ Rule 36.G1(1B)
 
 [^M_F_f6bfb935-a0b6-47a8-ee5d-c2c0103cd1b0]: Textual amendment: Sch. 1 Appendix 1 Form F41 substituted (2.10.2000) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 2000 (S.S.I. 2000/239)](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(25)(b)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/25/b), [Sch. 1](https://www.legislation.gov.uk/ssi/2000/239/schedule/1)
 
-[^key-cea68af8a24cd523abdd8ede4ecd6a8d]: Textual amendment: Sch. 1 Appendix 1 Forms F42, F43 omitted (26.10.2015) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Child Welfare Reporters) 2015 (S.S.I. 2015/312)](https://www.legislation.gov.uk/ssi/2015/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/4/3/a) (with [para. 5](https://www.legislation.gov.uk/ssi/2015/312/paragraph/5))
+[^c-cea68af8a24cd523abdd8ede4ecd6a8d]: Textual amendment: Sch. 1 Appendix 1 Forms F42, F43 omitted (26.10.2015) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Child Welfare Reporters) 2015 (S.S.I. 2015/312)](https://www.legislation.gov.uk/ssi/2015/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/4/3/a) (with [para. 5](https://www.legislation.gov.uk/ssi/2015/312/paragraph/5))
 
 [^M_F_b56821b2-e9b3-4789-ae10-6e6a32649ae1]: Textual amendment: Sch. 1 Appendix 1 Form F44 at the end of Pt. 1 words inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(f)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/f/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^M_F_b1adfd82-b614-4223-fc43-a28854d00abd]: Textual amendment: Sch. 1 Appendix 1 Form F44 at the end of Pt. 3 words inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(f)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/f/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-de3ebc2b87d0b7a2a2558d5d9df04614]: Textual amendment: Sch. 1 Appendix 1 Form F44 inserted (26.10.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Child Welfare Reporters) 2015 (S.S.I. 2015/312)](https://www.legislation.gov.uk/ssi/2015/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/4/3/b), [sch. 2](https://www.legislation.gov.uk/ssi/2015/312/schedule/2) (with [para. 5](https://www.legislation.gov.uk/ssi/2015/312/paragraph/5))
+[^c-de3ebc2b87d0b7a2a2558d5d9df04614]: Textual amendment: Sch. 1 Appendix 1 Form F44 inserted (26.10.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Child Welfare Reporters) 2015 (S.S.I. 2015/312)](https://www.legislation.gov.uk/ssi/2015/312), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2015/312/paragraph/4/3/b), [sch. 2](https://www.legislation.gov.uk/ssi/2015/312/schedule/2) (with [para. 5](https://www.legislation.gov.uk/ssi/2015/312/paragraph/5))
 
 [^M_F_2a75bae1-6f59-4a3a-896b-bba84e308afc]: Textual amendment: Sch. 1 Appendix 1 Forms CP1-CP37 inserted (8.12.2005) by [Act of Sederunt (Ordinary Cause Rules) Amendment (Civil Partnership Act 2004) 2005 (S.S.I. 2005/638)](https://www.legislation.gov.uk/ssi/2005/638), [para. 2(3)](https://www.legislation.gov.uk/ssi/2005/638/paragraph/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2005/638/schedule)
 
-[^key-de6e679c3136572b9d6f43630ef12daf]: Textual amendment: Sch. 1 Appendix 1 Form CP6 heading substituted to become “Form of notice to local authority” (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/b/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-de6e679c3136572b9d6f43630ef12daf]: Textual amendment: Sch. 1 Appendix 1 Form CP6 heading substituted to become “Form of notice to local authority” (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/b/ii) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-ceb894339035955f6743b8a01133f92f]: Textual amendment: Sch. 1 Appendix 1 Form CP6 para. 2 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(b)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/b/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
+[^c-ceb894339035955f6743b8a01133f92f]: Textual amendment: Sch. 1 Appendix 1 Form CP6 para. 2 substituted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [7(4)(b)(i)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/4/b/i) (with [para. 7(5)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/7/5))
 
-[^key-b60225ceeaf79e8c0c9676576bd122dc]: Textual amendment: Sch. 1 Appendix 1 Form CP7 omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(g)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/g) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-b60225ceeaf79e8c0c9676576bd122dc]: Textual amendment: Sch. 1 Appendix 1 Form CP7 omitted (24.6.2019) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(g)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/g) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-9b5805821f0acbf4b1dae43957432856]: Textual amendment: Sch. 1 Appendix 1 Form CP12A inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/b), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-9b5805821f0acbf4b1dae43957432856]: Textual amendment: Sch. 1 Appendix 1 Form CP12A inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/b), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-9eedaa02e64d90102c373ca05c237b92]: Textual amendment: Sch. 1 Appendix 1 Form CP12B inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/b), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
+[^c-9eedaa02e64d90102c373ca05c237b92]: Textual amendment: Sch. 1 Appendix 1 Form CP12B inserted (6.4.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2011 (S.S.I. 2011/193)](https://www.legislation.gov.uk/ssi/2011/193), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/1/2), [15(6)(b)](https://www.legislation.gov.uk/ssi/2011/193/paragraph/15/6/b), [sch.](https://www.legislation.gov.uk/ssi/2011/193/schedule) (with [para. 20](https://www.legislation.gov.uk/ssi/2011/193/paragraph/20))
 
-[^key-d24cb19a36ccc414e8c662ab9b5f494f]: Textual amendment: Sch. 1 Appendix 1 Form CP13A inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(6)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/6/b), [sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1)
+[^c-d24cb19a36ccc414e8c662ab9b5f494f]: Textual amendment: Sch. 1 Appendix 1 Form CP13A inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [4(6)(b)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/6/b), [sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1)
 
-[^key-e3ce32b3d6fb9944a6317b755e349003]: Textual amendment: Sch. 1 Appendix 1 Form CP14 substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(h)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/h), [sch. 8](https://www.legislation.gov.uk/ssi/2019/123/schedule/8) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
+[^c-e3ce32b3d6fb9944a6317b755e349003]: Textual amendment: Sch. 1 Appendix 1 Form CP14 substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(h)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/h), [sch. 8](https://www.legislation.gov.uk/ssi/2019/123/schedule/8) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
 [^M_F_18c5c5f2-659b-4f4a-b23d-0f0ce71d71c1]: Textual amendment: Sch. 1 Appendix 1 Form CP16 Pt. E craves (1) and (2) substituted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(i)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/i)[(iii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/iii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
@@ -12038,27 +12038,27 @@ Rule 36.G1(1B)
 
 [^M_F_02c9bb65-c65a-421d-c110-88182bd0fcb8]: Textual amendment: Sch. 1 Appendix 1 Form CP38 at the end of Pt. 3 words inserted (24.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Ordinary Cause Rules 1993 Amendment) (Views of the Child) 2019 (S.S.I. 2019/123)](https://www.legislation.gov.uk/ssi/2019/123), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/1/2), [3(20)(j)(ii)](https://www.legislation.gov.uk/ssi/2019/123/paragraph/3/20/j/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/123/paragraph/4))
 
-[^key-863a262c7fe553153b49f153b0ba894e]: Textual amendment: Sch. 1 Appendix 1 Form CP38 inserted (21.3.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/102)](https://www.legislation.gov.uk/ssi/2016/102), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/3/3), [sch.](https://www.legislation.gov.uk/ssi/2016/102/schedule) (with [para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5))
+[^c-863a262c7fe553153b49f153b0ba894e]: Textual amendment: Sch. 1 Appendix 1 Form CP38 inserted (21.3.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/102)](https://www.legislation.gov.uk/ssi/2016/102), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/3/3), [sch.](https://www.legislation.gov.uk/ssi/2016/102/schedule) (with [para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5))
 
 [^M_F_16e2abf9-3555-436a-bcaa-90ebd2a7f7f0]: Textual amendment: Sch. 1 Appendix 1 Form H5 inserted (2.10.2000) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 2000 (S.S.I. 2000/239)](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(25)(c)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/25/c), [Sch. 1](https://www.legislation.gov.uk/ssi/2000/239/schedule/1)
 
 [^M_F_c73c9e60-2a68-4864-faba-e6ef5920a439]: Textual amendment: Sch. 1 Appendix 1 Forms PI1-PI7 inserted (2.11.2009) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Personal Injuries Actions) 2009 (S.S.I. 2009/285)](https://www.legislation.gov.uk/ssi/2009/285), [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2167/paragraph/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2167/schedule/1)
 
-[^key-99cb185dcbba2a3ad1ac1fafd9cbb3dd]: Textual amendment: Sch. 1 Appendix 1 Form PI1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(e)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/e), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-99cb185dcbba2a3ad1ac1fafd9cbb3dd]: Textual amendment: Sch. 1 Appendix 1 Form PI1 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(e)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/e), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-75051f66beeb06ce0992628b8aaa1662]: Textual amendment: Sch. 1 Appendix 1 Form PI3: words “Court ref. no ( )” inserted below the title (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(6)(a)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/6/a) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-75051f66beeb06ce0992628b8aaa1662]: Textual amendment: Sch. 1 Appendix 1 Form PI3: words “Court ref. no ( )” inserted below the title (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(6)(a)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/6/a) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-12ba05c95a407926cabf43f3c45700e5]: Textual amendment: Sch. 1 Appendix 1 Form PI4 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(f)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/f), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-12ba05c95a407926cabf43f3c45700e5]: Textual amendment: Sch. 1 Appendix 1 Form PI4 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(f)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/f), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
 [^M_F_ade502c4-4e64-4b72-8650-3bd4932e0166]: Textual amendment: Sch. 1 Appendix 1 Form PI5 the words “pre-trial minute” substituted for “pre-proof minute” (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(g)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/g) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-b46aad35ca7686fc4ac9d84dc58a7299]: Textual amendment: Sch. 1 Appendix 1 Form PI6: words “Court ref. no ( )” inserted below the title (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(6)(a)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/6/a) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-b46aad35ca7686fc4ac9d84dc58a7299]: Textual amendment: Sch. 1 Appendix 1 Form PI6: words “Court ref. no ( )” inserted below the title (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(6)(a)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/6/a) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-5e8e14abf95bcd6d115c2c47021f4893]: Textual amendment: Sch. 1 Appendix 1 Form PI6 amended (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(6)(c)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/6/c) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-5e8e14abf95bcd6d115c2c47021f4893]: Textual amendment: Sch. 1 Appendix 1 Form PI6 amended (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(6)(c)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/6/c) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-16aa6697b7904b7ad6cc43ce2ac72f8b]: Textual amendment: Sch. 1 Appendix 1 Form PI7 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(h)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/h), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
+[^c-16aa6697b7904b7ad6cc43ce2ac72f8b]: Textual amendment: Sch. 1 Appendix 1 Form PI7 substituted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(h)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/h), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2) (with [para. 11(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/11/3))
 
-[^key-74cb8db931c8ee3624ddbe978582962b]: Textual amendment: Sch. 1 Appendix 1 Forms PI8, PI9 inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(i)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/i), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
+[^c-74cb8db931c8ee3624ddbe978582962b]: Textual amendment: Sch. 1 Appendix 1 Forms PI8, PI9 inserted (22.9.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Personal Injury and Remits) 2015 (S.S.I. 2015/227)](https://www.legislation.gov.uk/ssi/2015/227), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/1/2), [8(16)(i)](https://www.legislation.gov.uk/ssi/2015/227/paragraph/8/16/i), [sch. 2](https://www.legislation.gov.uk/ssi/2015/227/schedule/2)
 
 [^M_F_d31d7999-1e81-4af6-93c2-af5554528fda]: Textual amendment: Sch. 1 Appendix 1 Form P1 amended (2.10.2000) by [Act of Sederunt (Sheriff Court Ordinary Cause Rules Amendment) (Miscellaneous) 2000 (S.S.I. 2000/239)](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(25)(e)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/25/e)
 
@@ -12068,17 +12068,17 @@ Rule 36.G1(1B)
 
 [^M_F_8b160824-e12b-4e73-85a6-5609c6e88ad3]: Textual amendment: Sch. 1 Appendix 1 Form PA1: the words “the chief constable of the Police Service of Scotland” substituted for “(insert name and address) chief constable of (*insert name of constabulary*)” (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/3/a)
 
-[^key-afa37ea5842f92ce109a9c0e33164510]: Textual amendment: Sch. 1 Appendix 1 Form DA1 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
+[^c-afa37ea5842f92ce109a9c0e33164510]: Textual amendment: Sch. 1 Appendix 1 Form DA1 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
 
 [^M_F_a10bc891-ca3c-45ce-d82d-96f414c7fccc]: Textual amendment: Sch. 1 Appendix 1 Form DA1: the words “the chief constable of the Police Service of Scotland” substituted for “(*insert name(s) and address(es) of chief constable(s)*)\*” (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/3/b/i)
 
-[^key-d8b32e63cf9f4cd1242644422345c88d]: Textual amendment: Sch. 1 Appendix 1 Form DA2 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
+[^c-d8b32e63cf9f4cd1242644422345c88d]: Textual amendment: Sch. 1 Appendix 1 Form DA2 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
 
-[^key-2d0668a634ef0271b7dd4e14cf77572c]: Textual amendment: Sch. 1 Appendix 1 Form DA3 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
+[^c-2d0668a634ef0271b7dd4e14cf77572c]: Textual amendment: Sch. 1 Appendix 1 Form DA3 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
 
 [^M_F_0a6ebf26-6936-4c4e-d4c7-6a67db5e3b0c]: Textual amendment: Sch. 1 Appendix 1 Form DA3: the words “the chief constable of the Police Service of Scotland” substituted for “(*insert name(s) and address(es) of chief constable(s)*)\*” (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/3/b/ii)
 
-[^key-a2bac87379700a6f02745aee4e56b0c7]: Textual amendment: Sch. 1 Appendix 1 Form DA4 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
+[^c-a2bac87379700a6f02745aee4e56b0c7]: Textual amendment: Sch. 1 Appendix 1 Form DA4 inserted (20.7.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2011 (S.S.I. 2011/289)](https://www.legislation.gov.uk/ssi/2011/289), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2011/289/paragraph/5/4), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/289/schedule/part/1)
 
 [^M_F_e5ef1b90-606d-4c9f-9740-62edabc9eaad]: Textual amendment: Sch. 1 Appendix 1 Form DA4: the words "the chief constable of the Police Service of Scotland” substituted for “(*insert name and address) of chief constable(s)*) chief constable(s) of (*insert name(s) of constabulary*)" (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [4(3)(c)(i)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/4/3/c/i)
 
@@ -12088,17 +12088,17 @@ Rule 36.G1(1B)
 
 [^M_F_17dcaaf3-eb41-46bc-bc9d-3a17aa0dc431]: Textual amendment: Sch. 1 Appendix 1 Form OFT1: the words "Article 101 or 102 of the Treaty on the Functioning of the European Union” substituted for "Article 81 or 82 of the Treaty establishing the European Community” (1.11.2012) by the [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [para. 6(5)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/6/5)
 
-[^key-d8974863a05d47f9af8b8fbbdc22403d]: Textual amendment: Sch. 1 Appendix 1 Form 48.1A inserted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [para. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [sch. 4](https://www.legislation.gov.uk/ssi/2023/196/schedule/4)
+[^c-d8974863a05d47f9af8b8fbbdc22403d]: Textual amendment: Sch. 1 Appendix 1 Form 48.1A inserted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [para. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [sch. 4](https://www.legislation.gov.uk/ssi/2023/196/schedule/4)
 
-[^key-e894a98f46677528ce34f588a7ceb7be]: Textual amendment: Sch. 1 Appendix 1 Forms 49.6-49.11-H inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(5)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/5), [sch. 2](https://www.legislation.gov.uk/ssi/2012/188/schedule/2)
+[^c-e894a98f46677528ce34f588a7ceb7be]: Textual amendment: Sch. 1 Appendix 1 Forms 49.6-49.11-H inserted (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [10(5)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10/5), [sch. 2](https://www.legislation.gov.uk/ssi/2012/188/schedule/2)
 
-[^key-f1234a1038ba373f06d1fc0a8a3e81c2]: Textual amendment: Sch. 1 Appendix 1 Forms 51.3-A - 51.3-C inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/3/4), [sch. 2](https://www.legislation.gov.uk/ssi/2014/291/schedule/2)
+[^c-f1234a1038ba373f06d1fc0a8a3e81c2]: Textual amendment: Sch. 1 Appendix 1 Forms 51.3-A - 51.3-C inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/3/4), [sch. 2](https://www.legislation.gov.uk/ssi/2014/291/schedule/2)
 
-[^key-91a528644273eac6f35f2c07a6b63e1f]: Textual amendment: Sch. 1 Appendix 1 Form 51.5 inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/3/4), [sch. 2](https://www.legislation.gov.uk/ssi/2014/291/schedule/2)
+[^c-91a528644273eac6f35f2c07a6b63e1f]: Textual amendment: Sch. 1 Appendix 1 Form 51.5 inserted (8.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Miscellaneous) 2014 (S.S.I. 2014/291)](https://www.legislation.gov.uk/ssi/2014/291), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2014/291/paragraph/3/4), [sch. 2](https://www.legislation.gov.uk/ssi/2014/291/schedule/2)
 
-[^key-91b17057722ad19ebcf841d1aab28d17]: Textual amendment: Sch. 1 Appendix 1 Forms 52.2 to 52.7 omitted (1.12.2022) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/3/3)
+[^c-91b17057722ad19ebcf841d1aab28d17]: Textual amendment: Sch. 1 Appendix 1 Forms 52.2 to 52.7 omitted (1.12.2022) by virtue of [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Civil Protection Measures (EU Exit)) 2022 (S.S.I. 2022/329)](https://www.legislation.gov.uk/ssi/2022/329), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2022/329/paragraph/3/3)
 
-[^key-c26b7cda55e22653434848bb3fd336cf]: Textual amendment: Sch. 1 Appendix 1 Form 53.4 inserted (25.5.2015) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Proving the Tenor and Reduction) 2015 (S.S.I. 2015/176)](https://www.legislation.gov.uk/ssi/2015/176), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/2/4), [sch.](https://www.legislation.gov.uk/ssi/2015/176/schedule)
+[^c-c26b7cda55e22653434848bb3fd336cf]: Textual amendment: Sch. 1 Appendix 1 Form 53.4 inserted (25.5.2015) by [Act of Sederunt (Ordinary Cause Rules Amendment) (Proving the Tenor and Reduction) 2015 (S.S.I. 2015/176)](https://www.legislation.gov.uk/ssi/2015/176), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2015/176/paragraph/2/4), [sch.](https://www.legislation.gov.uk/ssi/2015/176/schedule)
 
 [^c15192461]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) (with appendices 1 and 2) substituted (1.1.1994) for Sch. 1 (with appendix) by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956), [para. 2](https://www.legislation.gov.uk/uksi/1993/1956/paragraph/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1956/schedule/1)
 
@@ -12106,6 +12106,6 @@ Rule 36.G1(1B)
 
     [Sch. 1](https://www.legislation.gov.uk/ukpga/Edw7/7/51/schedule/1) Appendix 2: forms 10, 11, 12 substituted, form 13 omitted (2.10.2000) by [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239), [para. 3(26)(a)(b)](https://www.legislation.gov.uk/ssi/2000/239/paragraph/3/26/a/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2000/239/schedule/2)
 
-[^key-850ee85141bae3bf3bb22117020b8907]: Textual amendment: Sch. 1 Appendix 3 substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(7)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/7), [sch.](https://www.legislation.gov.uk/ssi/2010/279/schedule) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
+[^c-850ee85141bae3bf3bb22117020b8907]: Textual amendment: Sch. 1 Appendix 3 substituted (29.7.2010) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2010 (S.S.I. 2010/279)](https://www.legislation.gov.uk/ssi/2010/279), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/1/2), [4(7)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/7), [sch.](https://www.legislation.gov.uk/ssi/2010/279/schedule) (with [para. 4(8)](https://www.legislation.gov.uk/ssi/2010/279/paragraph/4/8))
 
-[^key-2ff026fa355fc9a5a7eed6b9108d76d2]: Textual amendment: Word in Sch. 1 Appendix 3 substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/5/2) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-2ff026fa355fc9a5a7eed6b9108d76d2]: Textual amendment: Word in Sch. 1 Appendix 3 substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/5/2) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

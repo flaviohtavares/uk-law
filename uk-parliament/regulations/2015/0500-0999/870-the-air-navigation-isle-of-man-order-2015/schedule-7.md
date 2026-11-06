@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Documents to be carried[^key-ee84f8bdf0bec0a9394c3a30082ffd88]
+## SCHEDULE 7 — Documents to be carried[^c-ee84f8bdf0bec0a9394c3a30082ffd88]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ For the purposes of this Schedule—
 
 ## Annotations
 
-[^key-ee84f8bdf0bec0a9394c3a30082ffd88]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2015/870/schedule/7) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [21](https://www.legislation.gov.uk/uksi/2016/155/article/21)
+[^c-ee84f8bdf0bec0a9394c3a30082ffd88]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2015/870/schedule/7) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [21](https://www.legislation.gov.uk/uksi/2016/155/article/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 606. Construction of the 2001 Order—“relevant institution”[^key-51b6c2448e81d71004d1ac2fd7a1d549]
+## 606. Construction of the 2001 Order—“relevant institution”[^c-51b6c2448e81d71004d1ac2fd7a1d549]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51b6c2448e81d71004d1ac2fd7a1d549]: Commencement: Art. 606 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-51b6c2448e81d71004d1ac2fd7a1d549]: Commencement: Art. 606 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

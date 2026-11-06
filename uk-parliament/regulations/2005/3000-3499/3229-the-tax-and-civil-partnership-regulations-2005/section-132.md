@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132.[^key-5007aae970cb3bc69469ca30fba57f46]
+## 132.[^c-5007aae970cb3bc69469ca30fba57f46]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 15 (the corporate venturing scheme), in paragraphs 8(5), 18(2) and 9
 
 ## Annotations
 
-[^key-5007aae970cb3bc69469ca30fba57f46]: Commencement: Reg. 132 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-5007aae970cb3bc69469ca30fba57f46]: Commencement: Reg. 132 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

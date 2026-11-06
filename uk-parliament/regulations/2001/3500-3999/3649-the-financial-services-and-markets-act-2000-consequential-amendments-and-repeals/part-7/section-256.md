@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Definitions of terms[^key-fc51a6aba5a1d5c027f1ae43fdba591f]
+## 256. Definitions of terms[^c-fc51a6aba5a1d5c027f1ae43fdba591f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc51a6aba5a1d5c027f1ae43fdba591f]: Commencement: Art. 256 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fc51a6aba5a1d5c027f1ae43fdba591f]: Commencement: Art. 256 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00175]: Footnote: Amended by [S.I. 1999/3259](https://www.legislation.gov.uk/uksi/1999/3259).

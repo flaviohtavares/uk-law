@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20A — Lloyd’s underwriters: conversion to underwriting through partnership or company[^key-2c82fec7bb20be5ae2b8316992fcb58e][^key-ba62ec9eb420725ed4e6e057ac651b1c][^key-eb476568fcdd8c3d0cc52b5444fa9f13]
+## SCHEDULE 20A — Lloyd’s underwriters: conversion to underwriting through partnership or company[^c-2c82fec7bb20be5ae2b8316992fcb58e][^c-ba62ec9eb420725ed4e6e057ac651b1c][^c-eb476568fcdd8c3d0cc52b5444fa9f13]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ Section 179B
 
 (5) Condition 4 is that the syndicate capacity disposal is made in consideration solely of the issue to the member of shares in the successor company.
 
-(6) Condition 5 is that the successor company starts to carry on its underwriting business in the underwriting year [^key-68960f98ad883b590d30248caed5f26a]... next following the member’s last underwriting year.
+(6) Condition 5 is that the successor company starts to carry on its underwriting business in the underwriting year [^c-68960f98ad883b590d30248caed5f26a]... next following the member’s last underwriting year.
 
 (7) In this paragraph “**the member’s last underwriting year**”, in relation to a member who gives notice of his resignation from membership of Lloyd's, means the underwriting year during which, or at the end of which, he ceases to be an underwriting member and becomes a non-underwriting member in accordance with the rules or practice of Lloyd's.
 
@@ -61,11 +61,11 @@ Section 179B
   - (i) the member controls the successor company, and
   - (ii) more than 50% of the ordinary share capital of the successor company is beneficially owned by the member.
 
-(2) Section 83 of ITA 2007[^key-73d0142b2bfc4f225f6c55202d057189] shall apply as if the income so derived were profits on which the member was assessed under Part 2 of the Income Tax (Trading and Other Income) Act 2005[^key-12e2524be9e8250511afd173f269429a] in respect of the member’s underwriting business for that year.
+(2) Section 83 of ITA 2007[^c-73d0142b2bfc4f225f6c55202d057189] shall apply as if the income so derived were profits on which the member was assessed under Part 2 of the Income Tax (Trading and Other Income) Act 2005[^c-12e2524be9e8250511afd173f269429a] in respect of the member’s underwriting business for that year.
 
-(3)[^key-2cff86683be66e5e1cfd3a14e8e335c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2cff86683be66e5e1cfd3a14e8e335c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2cff86683be66e5e1cfd3a14e8e335c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2cff86683be66e5e1cfd3a14e8e335c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Capital gains tax: roll-over relief on disposal of syndicate capacity
 
@@ -123,7 +123,7 @@ and if the issued shares are not all of the same class, the apportionment betwee
 - (a) subject to sub-paragraph (6) below, the amount of the ATF assets gain, and
 - (b) the aggregate amount of any sums which would be allowable as a deduction under section 38(1)(a) of the Gains Tax Act if the issued shares were disposed of as a whole by the member in circumstances giving rise to a chargeable gain.
 
-(6) If the market value, immediately before the ATF disposal, of the assets disposed of under that disposal exceeds 120% of[^key-8f708a53b25220bb6212935392ac324a] the amount of the ATF assets required, the amount of the ATF assets gain shall for the purposes of sub-paragraph (5)(a) above be reduced by multiplying it by—
+(6) If the market value, immediately before the ATF disposal, of the assets disposed of under that disposal exceeds 120% of[^c-8f708a53b25220bb6212935392ac324a] the amount of the ATF assets required, the amount of the ATF assets gain shall for the purposes of sub-paragraph (5)(a) above be reduced by multiplying it by—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1993/34)
 
@@ -133,9 +133,9 @@ R is the amount of the ATF assets required, and
 
 T is the market value, immediately before the ATF disposal, of the assets disposed of under that disposal.
 
-(7) In sub-paragraph (6) above “**the amount of the ATF assets required**” means the appropriate percentage of the amount of security required to be provided by the successor company in respect of its underwriting business in the underwriting year in which the ATF disposal is made.[^key-b9f2d479911c0f0fd85fe5e0a100600a]
+(7) In sub-paragraph (6) above “**the amount of the ATF assets required**” means the appropriate percentage of the amount of security required to be provided by the successor company in respect of its underwriting business in the underwriting year in which the ATF disposal is made.[^c-b9f2d479911c0f0fd85fe5e0a100600a]
 
-(7A)[^key-cd820b84be26625647b2f9def4bfe186] In sub-paragraph (7) above “the appropriate percentage” means the percentage that equates to the percentage of the ordinary share capital of the successor company that is beneficially owned by the member immediately before the ATF disposal.
+(7A)[^c-cd820b84be26625647b2f9def4bfe186] In sub-paragraph (7) above “the appropriate percentage” means the percentage that equates to the percentage of the ordinary share capital of the successor company that is beneficially owned by the member immediately before the ATF disposal.
 
 (8) This paragraph applies only on the first occasion on or after 6th April 2004 on which the member makes an ATF disposal.
 
@@ -145,11 +145,11 @@ T is the market value, immediately before the ATF disposal, of the assets dispos
 
 **5.** (1) In this Part of this Schedule—
 
-- “**control**” shall be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^key-6c9362e3e8ec38b17d3d706df38295b3];
-- “**ordinary share capital**” has the meaning given by section 989 of ITA 2007[^key-7bf603a5fa1c155d22a5a7fb3cce4a48];
+- “**control**” shall be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^c-6c9362e3e8ec38b17d3d706df38295b3];
+- “**ordinary share capital**” has the meaning given by section 989 of ITA 2007[^c-7bf603a5fa1c155d22a5a7fb3cce4a48];
 - “**successor company**” means a corporate member (within the meaning of Chapter 5 of Part 4 of the Finance Act 1994) which is a successor member;
-- [^key-f6aec0b9260a5f3641c99729dd80100a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-f6aec0b9260a5f3641c99729dd80100a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f6aec0b9260a5f3641c99729dd80100a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f6aec0b9260a5f3641c99729dd80100a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**the syndicate capacity disposal**” has the meaning given by paragraph 1(3) above;
 - “**underwriting business**”, in relation to a successor company, has the same meaning as in Chapter 5 of Part 4 of the Finance Act 1994.
 
@@ -160,7 +160,7 @@ T is the market value, immediately before the ATF disposal, of the assets dispos
 
 (3) Paragraphs 3 and 4 above (and paragraph 1 above so far as relating to those paragraphs) are to be construed as one with the Gains Tax Act.
 
-### PART 1A — CONVERSION OF PARTNERSHIPS TO UNDERWRITING THROUGH SUCCESSOR COMPANIES[^key-7d1f68cbebe459282eceb4be506954bc]
+### PART 1A — CONVERSION OF PARTNERSHIPS TO UNDERWRITING THROUGH SUCCESSOR COMPANIES[^c-7d1f68cbebe459282eceb4be506954bc]
 
 #### Introduction
 
@@ -183,7 +183,7 @@ T is the market value, immediately before the ATF disposal, of the assets dispos
 
 (6) Condition 4 is that the syndicate capacity disposal is made in consideration solely of the issue to the converting partners of shares in the successor company.
 
-(7) Condition 5 is that the successor company starts to carry on its underwriting business in the underwriting year [^key-5096218d839ff9ffb1d6b3c986ada859]... next following the partnership’s last underwriting year.
+(7) Condition 5 is that the successor company starts to carry on its underwriting business in the underwriting year [^c-5096218d839ff9ffb1d6b3c986ada859]... next following the partnership’s last underwriting year.
 
 (8) In this paragraph “the partnership’s last underwriting year”, in relation to a partnership which gives notice of its resignation from Lloyd’s, means the underwriting year during which, or at the end of which, the partnership ceases to be an underwriting member and becomes a non-underwriting member in accordance with the rules or practice of Lloyd’s.
 
@@ -248,7 +248,7 @@ and if the issued shares are not all of the same class, the apportionment betwee
 - (a) subject to sub-paragraph (6), the amount of the ATF assets gain, and
 - (b) the aggregate amount of any sums which would be allowable as a deduction under section 38(1)(a) of the Gains Tax Act if the issued shares were disposed of as a whole by the relevant partner in circumstances giving rise to a chargeable gain.
 
-(6) If the market value, immediately before the ATF disposal, of the assets disposed of under that disposal exceeds 120% of[^key-c53ae4b2314478aa8fd848d9945f97c7] the amount of the ATF assets required, the amount of the ATF assets gain shall for the purposes of sub-paragraph (5)(a) be reduced by multiplying it by—
+(6) If the market value, immediately before the ATF disposal, of the assets disposed of under that disposal exceeds 120% of[^c-c53ae4b2314478aa8fd848d9945f97c7] the amount of the ATF assets required, the amount of the ATF assets gain shall for the purposes of sub-paragraph (5)(a) be reduced by multiplying it by—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1993/34)
 
@@ -257,9 +257,9 @@ where—
 - R is the amount of the ATF assets required, and
 - T is the market value, immediately before the ATF disposal, of the assets disposed of under that disposal.
 
-(7) In sub-paragraph (6) above “the amount of the ATF assets required” means the appropriate percentage of the amount of security required to be provided by the successor company in respect of its underwriting business in the underwriting year in which the ATF disposal is made.[^key-156157a4a527fea09cb01cc75fdc4ea3]
+(7) In sub-paragraph (6) above “the amount of the ATF assets required” means the appropriate percentage of the amount of security required to be provided by the successor company in respect of its underwriting business in the underwriting year in which the ATF disposal is made.[^c-156157a4a527fea09cb01cc75fdc4ea3]
 
-(7A)[^key-51231c93e02d4e14cfd5d11afb658284] In sub-paragraph (7) above “the appropriate percentage” means the percentage that equates to the percentage of the ordinary share capital of the successor company that is beneficially owned by the relevant partner immediately before the ATF disposal.
+(7A)[^c-51231c93e02d4e14cfd5d11afb658284] In sub-paragraph (7) above “the appropriate percentage” means the percentage that equates to the percentage of the ordinary share capital of the successor company that is beneficially owned by the relevant partner immediately before the ATF disposal.
 
 (8) This paragraph applies—
 
@@ -280,9 +280,9 @@ where—
   - (a) means any person who, immediately before the disposal, is a partner in, or member of, the partnership and pursuant to the partnership agreement is treated at that time as having an interest in the partnership’s syndicate capacity, but
   - (b) does not include any partner or member whose resignation from the partnership takes effect on the day of the disposal;
 - “ordinary share capital” has the meaning given by section 989 of ITA 2007;
-- [^key-f456e7b448eab9646c6279dd90cebf8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f456e7b448eab9646c6279dd90cebf8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “successor company” means a corporate member (within the meaning of Chapter 5 of Part 4 of the Finance Act 1994) which is a successor member;
-- [^key-f456e7b448eab9646c6279dd90cebf8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f456e7b448eab9646c6279dd90cebf8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “syndicate capacity disposal” has the meaning given by paragraph 5A(3);
 - “underwriting business”—
   - (a) in relation to a Lloyd’s partnership, means the partnership’s underwriting business as a member of Lloyd’s, and
@@ -327,7 +327,7 @@ where—
 - (a) the member’s total income for a year of assessment includes profits of the successor partnership’s underwriting business, and
 - (b) throughout the period beginning with the time of the syndicate capacity disposal and ending with the end of that year of assessment, the member is beneficially entitled to more than 50% of the profits of that business.
 
-(2) Section 83 of ITA 2007[^key-35bb6af3db6483747aa5d57a42caf0a0] (carry-forward of trading losses against subsequent profits) shall have effect, in its application in relation to the losses of the old underwriting business, as if the profits of the successor partnership’s underwriting business to which the member is beneficially entitled for that year were profits on which the member was assessed under Part 2 of the Income Tax (Trading and Other Income) Act 2005[^key-307a7e4fbb8e5959838187d1509d4384] in respect of the old underwriting business for that year.
+(2) Section 83 of ITA 2007[^c-35bb6af3db6483747aa5d57a42caf0a0] (carry-forward of trading losses against subsequent profits) shall have effect, in its application in relation to the losses of the old underwriting business, as if the profits of the successor partnership’s underwriting business to which the member is beneficially entitled for that year were profits on which the member was assessed under Part 2 of the Income Tax (Trading and Other Income) Act 2005[^c-307a7e4fbb8e5959838187d1509d4384] in respect of the old underwriting business for that year.
 
 (3) In sub-paragraph (2) above “**the old underwriting business**” means the member’s underwriting business carried on otherwise than through the successor partnership.
 
@@ -335,7 +335,7 @@ where—
 
 **8.** In this Part of this Schedule—
 
-- “ successor partnership” means—[^key-0d4d638e4f1cc57fd3cfb25bf0ce33d6]
+- “ successor partnership” means—[^c-0d4d638e4f1cc57fd3cfb25bf0ce33d6]
   - (a) a limited partnership formed under the law of Scotland which is a successor member, or
   - (b) a limited liability partnership formed under the law of any part of the United Kingdom which is a successor member.
 - “**the syndicate capacity disposal**” has the meaning given by paragraph 6(3) above.
@@ -346,7 +346,7 @@ where—
 
 **9.** (1) This paragraph applies if a member—
 
-- (a) makes a claim for relief under or by virtue of Part 1 or 2 of[^key-9c4cd6f7044a3e9ab985560b88a7cc32] this Schedule, and
+- (a) makes a claim for relief under or by virtue of Part 1 or 2 of[^c-9c4cd6f7044a3e9ab985560b88a7cc32] this Schedule, and
 - (b) subsequently withdraws the notice of his resignation from membership of Lloyd's.
 
 (2) The member must give written notice of such withdrawal to an officer of the Board.
@@ -359,7 +359,7 @@ where—
 
 (6) In this paragraph “**tax**” means income tax, capital gains tax or inheritance tax.
 
-**9A.**[^key-1a4cf23f1484324b7e701c6e08b46497] (1) This paragraph applies if—
+**9A.**[^c-1a4cf23f1484324b7e701c6e08b46497] (1) This paragraph applies if—
 
 - (a) a person makes a claim for relief under or by virtue of Part 1A of this Schedule, and
 - (b) the Lloyd’s partnership in respect of which the claim is made withdraws the notice of its resignation from Lloyd’s.
@@ -385,7 +385,7 @@ where—
 
 - “**conversion arrangement**” means a conversion arrangement made under the rules or practice of Lloyd's;
 - “**successor member**” has the meaning given by the rules or practice of Lloyd's;
-- “syndicate capacity”, in relation to a member or Lloyd’s partnership, means an asset comprising the rights of the member or partnership under a syndicate in which the member or partnership participates.[^key-12fd9faa3ce4c8b818ec9f3cdf95cd90]
+- “syndicate capacity”, in relation to a member or Lloyd’s partnership, means an asset comprising the rights of the member or partnership under a syndicate in which the member or partnership participates.[^c-12fd9faa3ce4c8b818ec9f3cdf95cd90]
 
 #### Application of this Schedule
 
@@ -393,7 +393,7 @@ where—
 
 (2) Paragraph 4 above (and the other provisions of this Schedule so far as relating to that paragraph) have effect in relation to ATF disposals (within the meaning of that paragraph) made on or after 6th April 2004 (even if the syndicate capacity disposal mentioned in that paragraph was made before that date).
 
-(2A)[^key-65490a31eddf89446879f51d497bae1f] Paragraph 5B above (and the other provisions of this Schedule so far as relating to that paragraph) have effect in relation to syndicate capacity disposals (within the meaning of Part 1A of this Schedule) made on or after 19th December 2014.
+(2A)[^c-65490a31eddf89446879f51d497bae1f] Paragraph 5B above (and the other provisions of this Schedule so far as relating to that paragraph) have effect in relation to syndicate capacity disposals (within the meaning of Part 1A of this Schedule) made on or after 19th December 2014.
 
 (2B) Paragraph 5C above (and the other provisions of this Schedule so far as relating to that paragraph) have effect in relation to ATF disposals (within the meaning of that paragraph) made on or after 19th December 2014 (even if the syndicate capacity disposal was made before that date).
 
@@ -401,54 +401,54 @@ where—
 
 ## Annotations
 
-[^key-2c82fec7bb20be5ae2b8316992fcb58e]: Textual amendment: Sch. 20A inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 25 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/25/paragraph/3)
+[^c-2c82fec7bb20be5ae2b8316992fcb58e]: Textual amendment: Sch. 20A inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 25 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/25/paragraph/3)
 
-[^key-ba62ec9eb420725ed4e6e057ac651b1c]: Textual amendment: Words in Sch. 20A heading inserted (16.6.2016) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/597/regulation/9)
+[^c-ba62ec9eb420725ed4e6e057ac651b1c]: Textual amendment: Words in Sch. 20A heading inserted (16.6.2016) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/597/regulation/9)
 
-[^key-eb476568fcdd8c3d0cc52b5444fa9f13]: Textual amendment: Sch. 20A heading substituted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/7)
+[^c-eb476568fcdd8c3d0cc52b5444fa9f13]: Textual amendment: Sch. 20A heading substituted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/7)
 
-[^key-68960f98ad883b590d30248caed5f26a]: Textual amendment: Words in Sch. 20A para. 1(6) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/597/regulation/3)
+[^c-68960f98ad883b590d30248caed5f26a]: Textual amendment: Words in Sch. 20A para. 1(6) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/597/regulation/3)
 
-[^key-73d0142b2bfc4f225f6c55202d057189]: Textual amendment: Words in Sch. 20A para. 2(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-73d0142b2bfc4f225f6c55202d057189]: Textual amendment: Words in Sch. 20A para. 2(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-12e2524be9e8250511afd173f269429a]: Textual amendment: Words in Sch. 20A para. 2(2) substituted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 466(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/466/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-12e2524be9e8250511afd173f269429a]: Textual amendment: Words in Sch. 20A para. 2(2) substituted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 466(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/466/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-2cff86683be66e5e1cfd3a14e8e335c2]: Textual amendment: Sch. 20A para. 2(3)(4) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/2/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-2cff86683be66e5e1cfd3a14e8e335c2]: Textual amendment: Sch. 20A para. 2(3)(4) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/2/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8f708a53b25220bb6212935392ac324a]: Textual amendment: Words in Sch. 20A para. 4(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/597/regulation/4/a)
+[^c-8f708a53b25220bb6212935392ac324a]: Textual amendment: Words in Sch. 20A para. 4(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/597/regulation/4/a)
 
-[^key-b9f2d479911c0f0fd85fe5e0a100600a]: Textual amendment: Words in Sch. 20A para. 4(7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/597/regulation/4/b)
+[^c-b9f2d479911c0f0fd85fe5e0a100600a]: Textual amendment: Words in Sch. 20A para. 4(7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/597/regulation/4/b)
 
-[^key-cd820b84be26625647b2f9def4bfe186]: Textual amendment: Sch. 20A para. 4(7A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/597/regulation/4/c)
+[^c-cd820b84be26625647b2f9def4bfe186]: Textual amendment: Sch. 20A para. 4(7A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/597/regulation/4/c)
 
-[^key-6c9362e3e8ec38b17d3d706df38295b3]: Textual amendment: Words in Sch. 20A para. 5(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 279](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/279) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6c9362e3e8ec38b17d3d706df38295b3]: Textual amendment: Words in Sch. 20A para. 5(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 279](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/279) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-7bf603a5fa1c155d22a5a7fb3cce4a48]: Textual amendment: Words in Sch. 20A para. 5(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-7bf603a5fa1c155d22a5a7fb3cce4a48]: Textual amendment: Words in Sch. 20A para. 5(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f6aec0b9260a5f3641c99729dd80100a]: Textual amendment: Words in Sch. 20A para. 5(1) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/597/regulation/5)
+[^c-f6aec0b9260a5f3641c99729dd80100a]: Textual amendment: Words in Sch. 20A para. 5(1) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/597/regulation/5)
 
-[^key-7d1f68cbebe459282eceb4be506954bc]: Textual amendment: Sch. 20A Pt. 1A inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/2)
+[^c-7d1f68cbebe459282eceb4be506954bc]: Textual amendment: Sch. 20A Pt. 1A inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/2)
 
-[^key-5096218d839ff9ffb1d6b3c986ada859]: Textual amendment: Words in Sch. 20A para. 5A(7) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/597/regulation/6)
+[^c-5096218d839ff9ffb1d6b3c986ada859]: Textual amendment: Words in Sch. 20A para. 5A(7) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/597/regulation/6)
 
-[^key-c53ae4b2314478aa8fd848d9945f97c7]: Textual amendment: Words in Sch. 20A para. 5C(6) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/597/regulation/7/a)
+[^c-c53ae4b2314478aa8fd848d9945f97c7]: Textual amendment: Words in Sch. 20A para. 5C(6) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/597/regulation/7/a)
 
-[^key-156157a4a527fea09cb01cc75fdc4ea3]: Textual amendment: Words in Sch. 20A para. 5C(7) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/597/regulation/7/b)
+[^c-156157a4a527fea09cb01cc75fdc4ea3]: Textual amendment: Words in Sch. 20A para. 5C(7) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/597/regulation/7/b)
 
-[^key-51231c93e02d4e14cfd5d11afb658284]: Textual amendment: Sch. 20A para. 5C(7A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/597/regulation/7/c)
+[^c-51231c93e02d4e14cfd5d11afb658284]: Textual amendment: Sch. 20A para. 5C(7A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/597/regulation/7/c)
 
-[^key-f456e7b448eab9646c6279dd90cebf8d]: Textual amendment: Words in Sch. 20A para. 5D(1) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2016/597/regulation/8)
+[^c-f456e7b448eab9646c6279dd90cebf8d]: Textual amendment: Words in Sch. 20A para. 5D(1) omitted (16.6.2016) by virtue of [The Lloyds Underwriters (Roll-over Relief on Disposal of Assets of Ancillary Trust Fund) (Tax) Regulations 2016 (S.I. 2016/597)](https://www.legislation.gov.uk/uksi/2016/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/597/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2016/597/regulation/8)
 
-[^key-35bb6af3db6483747aa5d57a42caf0a0]: Textual amendment: Words in Sch. 20A para. 7(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(4)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-35bb6af3db6483747aa5d57a42caf0a0]: Textual amendment: Words in Sch. 20A para. 7(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 361(4)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/361/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-307a7e4fbb8e5959838187d1509d4384]: Textual amendment: Words in Sch. 20A para. 7(2) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 466(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/466/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-307a7e4fbb8e5959838187d1509d4384]: Textual amendment: Words in Sch. 20A para. 7(2) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 466(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/466/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-0d4d638e4f1cc57fd3cfb25bf0ce33d6]: Textual amendment: Words in Sch. 20A para. 8 substituted (14.2.2006) by [The Lloyds Underwriters (Conversion to Limited Liability Underwriting) (Tax) Regulations 2006 (S.I. 2006/112)](https://www.legislation.gov.uk/uksi/2006/112), [regs. 1](https://www.legislation.gov.uk/uksi/2006/112/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/112/regulation/2)
+[^c-0d4d638e4f1cc57fd3cfb25bf0ce33d6]: Textual amendment: Words in Sch. 20A para. 8 substituted (14.2.2006) by [The Lloyds Underwriters (Conversion to Limited Liability Underwriting) (Tax) Regulations 2006 (S.I. 2006/112)](https://www.legislation.gov.uk/uksi/2006/112), [regs. 1](https://www.legislation.gov.uk/uksi/2006/112/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/112/regulation/2)
 
-[^key-9c4cd6f7044a3e9ab985560b88a7cc32]: Textual amendment: Words in Sch. 20A para. 9(1)(a) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/3)
+[^c-9c4cd6f7044a3e9ab985560b88a7cc32]: Textual amendment: Words in Sch. 20A para. 9(1)(a) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/3)
 
-[^key-1a4cf23f1484324b7e701c6e08b46497]: Textual amendment: Sch. 20A para. 9A inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/4)
+[^c-1a4cf23f1484324b7e701c6e08b46497]: Textual amendment: Sch. 20A para. 9A inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/4)
 
-[^key-12fd9faa3ce4c8b818ec9f3cdf95cd90]: Textual amendment: Words in Sch. 20A para. 10 substituted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/5)
+[^c-12fd9faa3ce4c8b818ec9f3cdf95cd90]: Textual amendment: Words in Sch. 20A para. 10 substituted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/5)
 
-[^key-65490a31eddf89446879f51d497bae1f]: Textual amendment: Sch. 20A para. 11(2A)(2B) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/6)
+[^c-65490a31eddf89446879f51d497bae1f]: Textual amendment: Sch. 20A para. 11(2A)(2B) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/5/6)

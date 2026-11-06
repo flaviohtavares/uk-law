@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the power conferred on him by section 355 of the Proceeds of Crime Act 2002[^f00001], hereby makes the following Order:
 
-## 1. Citation and commencement[^key-02b1bc00cfdaaaac615a84a6bf1c6d1e]
+## 1. Citation and commencement[^c-02b1bc00cfdaaaac615a84a6bf1c6d1e]
 
 This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984 and Police and Criminal Evidence (Northern Ireland) Order 1989) Order 2003 and shall come into force on 24th February 2003.
 
-## 2. Application of section 15 of the Police and Criminal Evidence Act 1984[^key-bcb1c90ce8bf88db996e4446e845d865]
+## 2. Application of section 15 of the Police and Criminal Evidence Act 1984[^c-bcb1c90ce8bf88db996e4446e845d865]
 
 (1) Section 15 of the Police and Criminal Evidence Act 1984[^f00002] (search warrants—safeguards) applies to search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -74,7 +74,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
 - (i) in subsection (6), at the beginning of paragraph (b), there is inserted “in the case of a warrant which is issued because the judge is satisfied that the requirement in section 352(6)(a) of the Proceeds of Crime Act 2002 is satisfied (production order made and not complied with),”;
 - (j) in subsection (6)(b), for “articles or persons”, there is substituted “material”.
 
-## 3. Application of section 16 of the Police and Criminal Evidence Act 1984[^key-e625f3bc6550a49454479881b8af35ee][^M_C_6200acab-fb6a-4565-cecd-e35a236a4d9c]
+## 3. Application of section 16 of the Police and Criminal Evidence Act 1984[^c-e625f3bc6550a49454479881b8af35ee][^M_C_6200acab-fb6a-4565-cecd-e35a236a4d9c]
 
 (1) Section 16[^f00003] of the Police and Criminal Evidence Act 1984 (execution of warrants) applies to search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -91,7 +91,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
 - (i) for sub-paragraphs (i) and (ii) of subsection (10), there is substituted “to an officer of the court at which it was issued.”;
 - (j) for paragraphs (a) and (b) of subsection (11), there is substituted “by an officer of the court at which it was issued.”.
 
-## 4. Application of section 21 of the Police and Criminal Evidence Act 1984[^key-8e05e7a960ea3bd040e8e1538fcc2b1a][^M_C_5902c7d3-a114-47e1-990b-f13540e69064]
+## 4. Application of section 21 of the Police and Criminal Evidence Act 1984[^c-8e05e7a960ea3bd040e8e1538fcc2b1a][^M_C_5902c7d3-a114-47e1-990b-f13540e69064]
 
 (1) Section 21 of the Police and Criminal Evidence Act 1984 (access and copying) applies to powers of seizure under search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -112,7 +112,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
 - (m) in subsection (8)(b), the words “other than the offence for the purposes of investigating which the thing was seized” are omitted;
 - (n) in subsection (8)(c), after “criminal proceedings”, there is inserted “(including proceedings related to the making of a confiscation order)”.
 
-## 5. Application of section 22 of the Police and Criminal Evidence Act 1984[^key-cd5461ff1329bf27a68e12d4882da65e][^M_C_802106d6-2f47-4d4e-8836-5a329f368538]
+## 5. Application of section 22 of the Police and Criminal Evidence Act 1984[^c-cd5461ff1329bf27a68e12d4882da65e][^M_C_802106d6-2f47-4d4e-8836-5a329f368538]
 
 (1) Section 22[^f00004] of the Police and Criminal Evidence Act 1984 (retention) applies to powers of seizure under search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -133,7 +133,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
   ;
 - (i) subsections (3), (5) and (6) are omitted.
 
-## 6. Application of article 17 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-db38624143f9b82d723c0033e1445556]
+## 6. Application of article 17 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-db38624143f9b82d723c0033e1445556]
 
 (1) Article 17 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00008] (search warrants—safeguards) applies to search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -159,7 +159,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
 - (j) in paragraph (6)(b), for “articles or persons”, there is substituted “material”;
 - (k) in paragraph (8), the words “justice of the peace or” are omitted.
 
-## 7. Application of article 18 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-4df68f218293b6c3050be672a08ac55c]
+## 7. Application of article 18 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-4df68f218293b6c3050be672a08ac55c]
 
 (1) Article 18 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (execution of warrants) applies to search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -175,7 +175,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
 - (h) in paragraph (9)(b), for “articles were seized, other than articles which were”, there is substituted “material was seized, other than material which was”;
 - (i) in paragraph (10), for “clerk of petty sessions for the petty sessions district in which the premises are situated”, there is substituted “chief clerk for the county court division in which the property is situated”.
 
-## 8. Application of article 23 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-030a762414f9371b406c8a0041170904]
+## 8. Application of article 23 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-030a762414f9371b406c8a0041170904]
 
 (1) Article 23 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (access and copying) applies to powers of seizure under search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -196,7 +196,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
 - (m) in paragraph (8)(b), the words “other than the offence for the purposes of investigating which the thing was seized” are omitted;
 - (n) in paragraph (8)(c), after “criminal proceedings”, there is inserted “(including proceedings related to the making of a confiscation order)”.
 
-## 9. Application of article 24 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-05fb04de16ab74620fc312e828c879a0]
+## 9. Application of article 24 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-05fb04de16ab74620fc312e828c879a0]
 
 (1) Article 24[^f00009] of the Police and Criminal Evidence (Northern Ireland) Order 1989 (retention) applies to powers of seizure under search and seizure warrants sought for the purposes of a confiscation investigation or a money laundering investigation, with the modifications in paragraph (2).
 
@@ -217,7 +217,7 @@ This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police
   ;
 - (i) paragraphs (3), (5) and (6) are omitted.
 
-**10.**[^key-37e88836ab290b474ea5422df4171de7] For ease of reference—
+**10.**[^c-37e88836ab290b474ea5422df4171de7] For ease of reference—
 
 - (a) sections 15, 16, 21 and 22 of the Police and Criminal Evidence Act 1984, as modified by articles 2 to 5 of this Order, are set out in Schedule 1 to this Order; and
 - (b) articles 17, 18, 23 and 24 of the Police and Criminal Evidence (Northern Ireland) Order 1989, as modified by articles 6 to 9 of this Order, are set out in Schedule 2 to this Order.
@@ -236,7 +236,7 @@ Article 10
 
 ### Search warrants—safeguards
 
-**15.**[^key-dcedad9d621f5094c9d4bd3069c67bfb] (1) This section and section 16 have effect in relation to the issue to an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) of a search and seizure warrant under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation and an entry on or search of premises under such a warrant is unlawful unless it complies with this section and is executed in accordance with section 16.
+**15.**[^c-dcedad9d621f5094c9d4bd3069c67bfb] (1) This section and section 16 have effect in relation to the issue to an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) of a search and seizure warrant under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation and an entry on or search of premises under such a warrant is unlawful unless it complies with this section and is executed in accordance with section 16.
 
 (2) Where an appropriate officer applies for any such warrant, it shall be his duty—
 
@@ -267,7 +267,7 @@ Article 10
 
 ### Execution of warrants
 
-**16.**[^key-7bb805fb8a2fafedaa2d2eeb0fe5fe86] (1)
+**16.**[^c-7bb805fb8a2fafedaa2d2eeb0fe5fe86] (1)
 
 (2) A search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 may authorise persons to accompany any appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who is executing it.
 
@@ -308,7 +308,7 @@ shall be returned to an officer of the court at which it was issued.
 
 ### Access and copying
 
-**21.**[^key-48bbbb2216ea75f08a5a5081765d248d] (1) An appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who seizes anything under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation shall, if so requested by a person showing himself—
+**21.**[^c-48bbbb2216ea75f08a5a5081765d248d] (1) An appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who seizes anything under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation shall, if so requested by a person showing himself—
 
 - (a) to be the occupier of premises on which it was seized; or
 - (b) to have had custody or control of it immediately before the seizure,
@@ -345,7 +345,7 @@ is made to the appropriate officer in charge of the investigation by a person wh
 
 ### Retention
 
-**22.**[^key-154bfa0edf3172634a686392a53055f0] (1) Subject to subsection (4) below, anything which has been seized by an appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) or taken away by an appropriate person under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation may be retained by the appropriate person or an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) so long as is necessary in all the circumstances.
+**22.**[^c-154bfa0edf3172634a686392a53055f0] (1) Subject to subsection (4) below, anything which has been seized by an appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) or taken away by an appropriate person under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation may be retained by the appropriate person or an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) so long as is necessary in all the circumstances.
 
 (2) Without prejudice to the generality of subsection (1) above—
 
@@ -370,7 +370,7 @@ Article 10
 
 ### Search warrants—safeguards
 
-**17.**[^key-d8baffd60c981882a9aa17c69307778b] (1) This article and article 18 have effect in relation to the issue to an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) of a search and seizure warrant under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation and an entry on or search of premises under such a warrant is unlawful unless the warrant complies with this article and is executed in accordance with article 18.
+**17.**[^c-d8baffd60c981882a9aa17c69307778b] (1) This article and article 18 have effect in relation to the issue to an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) of a search and seizure warrant under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation and an entry on or search of premises under such a warrant is unlawful unless the warrant complies with this article and is executed in accordance with article 18.
 
 (2) Where an appropriate officer applies for any such warrant, it shall be his duty—
 
@@ -401,7 +401,7 @@ Article 10
 
 ### Execution of warrants
 
-**18.**[^key-633b297262241099f6c766ce1dde881c] (1)
+**18.**[^c-633b297262241099f6c766ce1dde881c] (1)
 
 (2) A search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 may authorise persons to accompany any appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who is executing it.
 
@@ -444,7 +444,7 @@ shall be returned to the chief clerk for the county court division in which the 
 
 ### Access and copying
 
-**23.**[^key-8d19dbd83572d9d8465e015a38b86761] (1) An appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who seizes anything under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation shall, if so requested by a person showing himself—
+**23.**[^c-8d19dbd83572d9d8465e015a38b86761] (1) An appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who seizes anything under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation shall, if so requested by a person showing himself—
 
 - (a) to be the occupier of premises on which it was seized; or
 - (b) to have had custody or control of it immediately before the seizure,
@@ -481,7 +481,7 @@ is made to the appropriate officer in charge of the investigation by a person wh
 
 ### Retention
 
-**24.**[^key-22f738f205872ef4dfa41cec3b542250] (1) Subject to paragraph (4), anything which has been seized by an appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) or taken away by an appropriate person under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation may be retained by the appropriate person or an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) so long as is necessary in all the circumstances.
+**24.**[^c-22f738f205872ef4dfa41cec3b542250] (1) Subject to paragraph (4), anything which has been seized by an appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) or taken away by an appropriate person under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation or a money laundering investigation may be retained by the appropriate person or an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) so long as is necessary in all the circumstances.
 
 (2) Without prejudice to the generality of paragraph (1)—
 
@@ -508,23 +508,23 @@ This Order applies, with specified modifications, certain provisions of the Poli
 
 [^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-02b1bc00cfdaaaac615a84a6bf1c6d1e]: Commencement: Art. 1 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-02b1bc00cfdaaaac615a84a6bf1c6d1e]: Commencement: Art. 1 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-bcb1c90ce8bf88db996e4446e845d865]: Commencement: Art. 2 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-bcb1c90ce8bf88db996e4446e845d865]: Commencement: Art. 2 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
 [^f00002]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-e625f3bc6550a49454479881b8af35ee]: Commencement: Art. 3 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-e625f3bc6550a49454479881b8af35ee]: Commencement: Art. 3 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
 [^M_C_6200acab-fb6a-4565-cecd-e35a236a4d9c]: Modification: [Art. 3-5](https://www.legislation.gov.uk/uksi/2003/174/article/3) modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 5](https://www.legislation.gov.uk/uksi/2003/425/article/5), [6](https://www.legislation.gov.uk/uksi/2003/425/article/6), [15](https://www.legislation.gov.uk/uksi/2003/425/article/15), [25](https://www.legislation.gov.uk/uksi/2003/425/article/25)
 
 [^f00003]: Footnote: Section 16 was amended by section 90 of and Schedule 13 to the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
 
-[^key-8e05e7a960ea3bd040e8e1538fcc2b1a]: Commencement: Art. 4 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-8e05e7a960ea3bd040e8e1538fcc2b1a]: Commencement: Art. 4 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
 [^M_C_5902c7d3-a114-47e1-990b-f13540e69064]: Modification: [Art. 3-5](https://www.legislation.gov.uk/uksi/2003/174/article/3) modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 5](https://www.legislation.gov.uk/uksi/2003/425/article/5), [6](https://www.legislation.gov.uk/uksi/2003/425/article/6), [15](https://www.legislation.gov.uk/uksi/2003/425/article/15), [25](https://www.legislation.gov.uk/uksi/2003/425/article/25)
 
-[^key-cd5461ff1329bf27a68e12d4882da65e]: Commencement: Art. 5 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-cd5461ff1329bf27a68e12d4882da65e]: Commencement: Art. 5 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
 [^M_C_802106d6-2f47-4d4e-8836-5a329f368538]: Modification: [Art. 3-5](https://www.legislation.gov.uk/uksi/2003/174/article/3) modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 5](https://www.legislation.gov.uk/uksi/2003/425/article/5), [6](https://www.legislation.gov.uk/uksi/2003/425/article/6), [15](https://www.legislation.gov.uk/uksi/2003/425/article/15), [25](https://www.legislation.gov.uk/uksi/2003/425/article/25)
 
@@ -536,15 +536,15 @@ This Order applies, with specified modifications, certain provisions of the Poli
 
 [^f00007]: Footnote: [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37).
 
-[^key-db38624143f9b82d723c0033e1445556]: Commencement: Art. 6 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-db38624143f9b82d723c0033e1445556]: Commencement: Art. 6 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
 [^f00008]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
 
-[^key-4df68f218293b6c3050be672a08ac55c]: Commencement: Art. 7 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-4df68f218293b6c3050be672a08ac55c]: Commencement: Art. 7 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-030a762414f9371b406c8a0041170904]: Commencement: Art. 8 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-030a762414f9371b406c8a0041170904]: Commencement: Art. 8 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-05fb04de16ab74620fc312e828c879a0]: Commencement: Art. 9 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-05fb04de16ab74620fc312e828c879a0]: Commencement: Art. 9 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
 [^f00009]: Footnote: Article 24 was amended by section 74 of and Schedule 4 to the Police (Northern Ireland) Act [1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32) and section 169 of and Schedule14 to the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
 
@@ -552,20 +552,20 @@ This Order applies, with specified modifications, certain provisions of the Poli
 
 [^f00011]: Footnote: S.I. [1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299).
 
-[^key-37e88836ab290b474ea5422df4171de7]: Commencement: Art. 10 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-37e88836ab290b474ea5422df4171de7]: Commencement: Art. 10 in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-dcedad9d621f5094c9d4bd3069c67bfb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-dcedad9d621f5094c9d4bd3069c67bfb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-7bb805fb8a2fafedaa2d2eeb0fe5fe86]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-7bb805fb8a2fafedaa2d2eeb0fe5fe86]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-48bbbb2216ea75f08a5a5081765d248d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-48bbbb2216ea75f08a5a5081765d248d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-154bfa0edf3172634a686392a53055f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-154bfa0edf3172634a686392a53055f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/174/schedule/1) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-d8baffd60c981882a9aa17c69307778b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-d8baffd60c981882a9aa17c69307778b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-633b297262241099f6c766ce1dde881c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-633b297262241099f6c766ce1dde881c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-8d19dbd83572d9d8465e015a38b86761]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-8d19dbd83572d9d8465e015a38b86761]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
 
-[^key-22f738f205872ef4dfa41cec3b542250]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)
+[^c-22f738f205872ef4dfa41cec3b542250]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/174/schedule/2) in force at 24.2.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/174/article/1)

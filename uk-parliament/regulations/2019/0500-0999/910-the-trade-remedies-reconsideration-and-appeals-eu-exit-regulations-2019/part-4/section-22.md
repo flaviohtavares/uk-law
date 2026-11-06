@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22.[^key-d119f17fd34ebe773611a8220d297124]
+## 22.[^c-d119f17fd34ebe773611a8220d297124]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 6 (permitted disclosure) has effect as if—
 
 ## Annotations
 
-[^key-d119f17fd34ebe773611a8220d297124]: Commencement: Reg. 22 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-d119f17fd34ebe773611a8220d297124]: Commencement: Reg. 22 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

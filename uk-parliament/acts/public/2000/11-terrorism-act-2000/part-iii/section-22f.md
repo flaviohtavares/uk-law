@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22F. Code of practice about certain information orders[^key-6219f3c5d88da865ea6c0d196e0ef0e7]
+## 22F. Code of practice about certain information orders[^c-6219f3c5d88da865ea6c0d196e0ef0e7]
 
 *Extent: E+W+S+N.I.*
 
-[^key-f6b3fa722e7b14107c070a37f1c63c88][^key-e7208c11596b15cb0fe6e47f6419e56e]
+[^c-f6b3fa722e7b14107c070a37f1c63c88][^c-e7208c11596b15cb0fe6e47f6419e56e]
 
 (1) The Secretary of State must make a code of practice in connection with the exercise of the following functions by the Director General of the National Crime Agency or an authorised NCA officer—
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6219f3c5d88da865ea6c0d196e0ef0e7]: Textual amendment: S. 22F inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(13)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/13), [219(2)(i)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/i)
+[^c-6219f3c5d88da865ea6c0d196e0ef0e7]: Textual amendment: S. 22F inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(13)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/13), [219(2)(i)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/i)
 
-[^key-f6b3fa722e7b14107c070a37f1c63c88]: Textual amendment: Word in [s. 22B cross-heading](https://www.legislation.gov.uk/ukpga/2000/11/part/III/crossheading/further-information-orders) substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(15)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/15/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/e)
+[^c-f6b3fa722e7b14107c070a37f1c63c88]: Textual amendment: Word in [s. 22B cross-heading](https://www.legislation.gov.uk/ukpga/2000/11/part/III/crossheading/further-information-orders) substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(15)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/15/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/e)
 
-[^key-e7208c11596b15cb0fe6e47f6419e56e]: Textual amendment: Word in [s. 22B](https://www.legislation.gov.uk/ukpga/2000/11/part/III/crossheading/further-information-orders) heading substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/e)
+[^c-e7208c11596b15cb0fe6e47f6419e56e]: Textual amendment: Word in [s. 22B](https://www.legislation.gov.uk/ukpga/2000/11/part/III/crossheading/further-information-orders) heading substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Land and buildings transaction tax: amounts of penalties for failure to pay tax[^key-b8f2427127abd087d9b588792a90bc20]
+## 169. Land and buildings transaction tax: amounts of penalties for failure to pay tax[^c-b8f2427127abd087d9b588792a90bc20]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f2427127abd087d9b588792a90bc20]: Commencement: [S. 169](https://www.legislation.gov.uk/asp/2014/16/section/169) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-b8f2427127abd087d9b588792a90bc20]: Commencement: [S. 169](https://www.legislation.gov.uk/asp/2014/16/section/169) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125A. List of approved countries for traditional use of a herbal medicinal product[^key-9c2b5302ac46b9a43b34bfb1f06a50dc]
+## 125A. List of approved countries for traditional use of a herbal medicinal product[^c-9c2b5302ac46b9a43b34bfb1f06a50dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2b5302ac46b9a43b34bfb1f06a50dc]: Textual amendment: [Reg. 125A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/125A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/775/regulation/111); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c2b5302ac46b9a43b34bfb1f06a50dc]: Textual amendment: [Reg. 125A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/125A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/775/regulation/111); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -31,22 +31,22 @@ Fraudulent Mediums Act 1951 (repealed)
 
 1951 c.33
 
-[^key-33810f7f45c68fe1f6479146ef9e3d20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33810f7f45c68fe1f6479146ef9e3d20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[22nd June 1951\]
 
 **No longer in force.**
 
-## 1. Punishment of fraudulent mediums, &c.[^key-33810f7f45c68fe1f6479146ef9e3d20][^key-33810f7f45c68fe1f6479146ef9e3d20]
+## 1. Punishment of fraudulent mediums, &c.[^c-33810f7f45c68fe1f6479146ef9e3d20][^c-33810f7f45c68fe1f6479146ef9e3d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-33810f7f45c68fe1f6479146ef9e3d20][^key-33810f7f45c68fe1f6479146ef9e3d20]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-33810f7f45c68fe1f6479146ef9e3d20][^c-33810f7f45c68fe1f6479146ef9e3d20]
 
-## 3. Short title and extent.[^key-33810f7f45c68fe1f6479146ef9e3d20][^key-33810f7f45c68fe1f6479146ef9e3d20]
+## 3. Short title and extent.[^c-33810f7f45c68fe1f6479146ef9e3d20][^c-33810f7f45c68fe1f6479146ef9e3d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33810f7f45c68fe1f6479146ef9e3d20]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/14-15/33) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/3), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-33810f7f45c68fe1f6479146ef9e3d20]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/14-15/33) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/3), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Establishment of pension accounts: general[^key-97bd56000194a955b8c3089b7066d9ae]
+## 37. Establishment of pension accounts: general[^c-97bd56000194a955b8c3089b7066d9ae]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97bd56000194a955b8c3089b7066d9ae]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-97bd56000194a955b8c3089b7066d9ae]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

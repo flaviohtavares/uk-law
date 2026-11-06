@@ -47,9 +47,9 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by section 1(1) of the Consular Fees Act 1980[^f00001] is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-**1.**[^key-511e844b9c43aea66f34ec4857cced60] This Order may be cited as the Consular Fees Order 2008 and shall come into force on 1 April 2008.
+**1.**[^c-511e844b9c43aea66f34ec4857cced60] This Order may be cited as the Consular Fees Order 2008 and shall come into force on 1 April 2008.
 
-**2.**[^key-ff0c68fc0a4ef4ae9d4453869c053128] In this Order—
+**2.**[^c-ff0c68fc0a4ef4ae9d4453869c053128] In this Order—
 
 - “British overseas territory” means a territory as defined in section 50(1) of the British Nationality Act 1981[^f00002] and includes the territories listed in Schedule 6 to that Act;
 - “Commonwealth country” means a country listed in Schedule 3 to the British Nationality Act 1981;
@@ -64,9 +64,9 @@ Her Majesty, in exercise of the powers conferred on Her by section 1(1) of the C
 - “premium service” in relation to legalisation means the same day service for the processing by a London legalisation office dedicated for companies, solicitors and notaries of applications made in person;
 - “standard service” in relation to legalisation means the 24 hour service for the processing by the main legalisation office, whether situated in London or Milton Keynes, or by consular officers at consular posts, of applications made in person and the processing of postal applications within a reasonable time period.
 
-**3.**[^key-42e44781647c52cbecb7e586035e31e4] The fees set forth in the table in Schedule 1 to this Order are prescribed to be levied by consular officers and by marriage officers under the Foreign Marriage Act 1892[^f00003] and the Marriage with Foreigners Act 1906[^f00004] in the execution of their duties.
+**3.**[^c-42e44781647c52cbecb7e586035e31e4] The fees set forth in the table in Schedule 1 to this Order are prescribed to be levied by consular officers and by marriage officers under the Foreign Marriage Act 1892[^f00003] and the Marriage with Foreigners Act 1906[^f00004] in the execution of their duties.
 
-**4.**[^key-166c8abfc8f899d56132eae88a7f39ed] The statutory instruments listed in Schedule 2 to this Order are revoked by this Order.
+**4.**[^c-166c8abfc8f899d56132eae88a7f39ed] The statutory instruments listed in Schedule 2 to this Order are revoked by this Order.
 
 Judith Simpson
 
@@ -74,7 +74,7 @@ Clerk of the Privy Council
 
 ## SCHEDULE 1 — TABLE OF CONSULAR FEES
 
-### PART I — LEGALISATION[^key-2e9c8185a66cc837cff2eaf542d86d0e]
+### PART I — LEGALISATION[^c-2e9c8185a66cc837cff2eaf542d86d0e]
 
 <table>
 <thead>
@@ -90,7 +90,7 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART II — NOTARIAL AND RELATED MATTERS[^key-847e84b6e24c47935f46caf1ff11e1c6]
+### PART II — NOTARIAL AND RELATED MATTERS[^c-847e84b6e24c47935f46caf1ff11e1c6]
 
 <table>
 <thead>
@@ -131,7 +131,7 @@ Clerk of the Privy Council
 
 [^f01000][^f01001][^f01002]
 
-### PART III — PASSPORT APPLICATIONS MADE TO THE FOREIGN AND COMMONWEALTH OFFICE[^key-e454e38e818b0d146f080304c850a3f9]
+### PART III — PASSPORT APPLICATIONS MADE TO THE FOREIGN AND COMMONWEALTH OFFICE[^c-e454e38e818b0d146f080304c850a3f9]
 
 <table>
 <thead>
@@ -147,7 +147,7 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART IV — PASSPORT APPLICATIONS MADE IN THE UNITED KINGDOM[^key-f1859a8bbf773ed36ca7c0db17ee130a]
+### PART IV — PASSPORT APPLICATIONS MADE IN THE UNITED KINGDOM[^c-f1859a8bbf773ed36ca7c0db17ee130a]
 
 <table>
 <thead>
@@ -177,7 +177,7 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART V — OTHER DOCUMENTS RELATING TO TRAVEL OR ENTRY INTO THE UK, COMMONWEALTH, OVERSEAS TERRITORIES AND CROWN DEPENDENCIES[^key-eca37850ec1eb8308b43141f25817c5b]
+### PART V — OTHER DOCUMENTS RELATING TO TRAVEL OR ENTRY INTO THE UK, COMMONWEALTH, OVERSEAS TERRITORIES AND CROWN DEPENDENCIES[^c-eca37850ec1eb8308b43141f25817c5b]
 
 <table>
 <thead>
@@ -202,7 +202,7 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART VI — BIRTHS, DEATHS, MARRIAGES AND CIVIL PARTNERSHIPS[^key-71a42bd45b64d8585c6cd059ca77ea83]
+### PART VI — BIRTHS, DEATHS, MARRIAGES AND CIVIL PARTNERSHIPS[^c-71a42bd45b64d8585c6cd059ca77ea83]
 
 <table>
 <thead>
@@ -230,7 +230,7 @@ Clerk of the Privy Council
 
 [^f01003][^f01004][^f01005][^f01006][^f01007]
 
-### PART VII — SEARCHES[^key-38d5d734faa45522f08a1cdff38b1771]
+### PART VII — SEARCHES[^c-38d5d734faa45522f08a1cdff38b1771]
 
 <table>
 <thead>
@@ -246,7 +246,7 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART VIII — NATIONALITY AND REGISTRATION[^key-41fb95bf444486b27ec7a89f077f8978]
+### PART VIII — NATIONALITY AND REGISTRATION[^c-41fb95bf444486b27ec7a89f077f8978]
 
 <table>
 <thead>
@@ -265,14 +265,14 @@ Clerk of the Privy Council
 
 [^f01008]
 
-### PART IX — ESTATES[^key-84f3f5536f75f3db396bc83ad2b53c80]
+### PART IX — ESTATES[^c-84f3f5536f75f3db396bc83ad2b53c80]
 
 | Fee |  | £ |
 | --- | --- | --- |
 | 42\. | Administering fully or partly, safeguarding, or arranging the transmission of all or part of the personal effects and other estate of a deceased person or if sold, the proceeds, except for the wages and personal effects of a seaman. Except where the gross current market value is less than £1,000; charge based on the amount of the gross current market value | 2%<br>rounded to the nearest £10.00 |
 |  | However where a local lawyer is employed and consular officer’s actions are nominal | 76.00 |
 
-### PART X — ATTENDANCES[^key-aeb815c0f0a4b1a897a956f04809b613]
+### PART X — ATTENDANCES[^c-aeb815c0f0a4b1a897a956f04809b613]
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART XI — MATTERS RELATING TO LEGAL PROCEEDINGS[^key-39155845e5f3f415b86e1c09368b6c3a]
+### PART XI — MATTERS RELATING TO LEGAL PROCEEDINGS[^c-39155845e5f3f415b86e1c09368b6c3a]
 
 <table>
 <thead>
@@ -307,14 +307,14 @@ Clerk of the Privy Council
 </tbody>
 </table>
 
-### PART XII — REPATRIATION AND FINANCIAL ASSISTANCE[^key-de9f862cfe868b34c747daffa5dd7f78]
+### PART XII — REPATRIATION AND FINANCIAL ASSISTANCE[^c-de9f862cfe868b34c747daffa5dd7f78]
 
 | Fee |  | £ |
 | --- | --- | --- |
 | 48\. | Arranging the repatriation of a person or members of the same family travelling together | 121.00 |
 | 49\. | Arranging for currency to be made available against the deposit of funds with Her Majesty’s Government by any means (in addition to fee 43 where payable) | 61.00 |
 
-### PART XIII — SHIPPING, SEAMEN AND RELATED MATTERS[^key-81079598cae8c15aa369b807d301183a]
+### PART XIII — SHIPPING, SEAMEN AND RELATED MATTERS[^c-81079598cae8c15aa369b807d301183a]
 
 <table>
 <thead>
@@ -345,7 +345,7 @@ Clerk of the Privy Council
 
 [^f01009]
 
-## SCHEDULE 2[^key-7b39501972fc4dba1edd728b69cd5972]
+## SCHEDULE 2[^c-7b39501972fc4dba1edd728b69cd5972]
 
 | Statutory Instruments revoked | References |
 | --- | --- |
@@ -377,23 +377,23 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1980 c.23](https://www.legislation.gov.uk/ukpga/1980/23).
 
-[^key-511e844b9c43aea66f34ec4857cced60]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-511e844b9c43aea66f34ec4857cced60]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-ff0c68fc0a4ef4ae9d4453869c053128]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-ff0c68fc0a4ef4ae9d4453869c053128]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
 [^f00002]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-42e44781647c52cbecb7e586035e31e4]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-42e44781647c52cbecb7e586035e31e4]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
 [^f00003]: Footnote: [1892 c.23](https://www.legislation.gov.uk/ukpga/1892/23).
 
 [^f00004]: Footnote: [1906 c.40](https://www.legislation.gov.uk/ukpga/1906/40).
 
-[^key-166c8abfc8f899d56132eae88a7f39ed]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-166c8abfc8f899d56132eae88a7f39ed]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-2e9c8185a66cc837cff2eaf542d86d0e]: Commencement: Sch. 1 Pt. I in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-2e9c8185a66cc837cff2eaf542d86d0e]: Commencement: Sch. 1 Pt. I in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-847e84b6e24c47935f46caf1ff11e1c6]: Commencement: Sch. 1 Pt. II in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-847e84b6e24c47935f46caf1ff11e1c6]: Commencement: Sch. 1 Pt. II in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
 [^f01000]: Footnote: (a)
 
@@ -407,13 +407,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
     [1913 c.16](https://www.legislation.gov.uk/ukpga/1913/16).
 
-[^key-e454e38e818b0d146f080304c850a3f9]: Commencement: Sch. 1 Pt. III in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-e454e38e818b0d146f080304c850a3f9]: Commencement: Sch. 1 Pt. III in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-f1859a8bbf773ed36ca7c0db17ee130a]: Commencement: Sch. 1 Pt. IV in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-f1859a8bbf773ed36ca7c0db17ee130a]: Commencement: Sch. 1 Pt. IV in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-eca37850ec1eb8308b43141f25817c5b]: Commencement: Sch. 1 Pt. V in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-eca37850ec1eb8308b43141f25817c5b]: Commencement: Sch. 1 Pt. V in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-71a42bd45b64d8585c6cd059ca77ea83]: Commencement: Sch. 1 Pt. VI in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-71a42bd45b64d8585c6cd059ca77ea83]: Commencement: Sch. 1 Pt. VI in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
 [^f01003]: Footnote: (d)
 
@@ -435,26 +435,26 @@ A full regulatory impact assessment of the effect that this instrument will have
 
     [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761).
 
-[^key-38d5d734faa45522f08a1cdff38b1771]: Commencement: Sch. 1 Pt. VII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-38d5d734faa45522f08a1cdff38b1771]: Commencement: Sch. 1 Pt. VII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-41fb95bf444486b27ec7a89f077f8978]: Commencement: Sch. 1 Pt. VIII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-41fb95bf444486b27ec7a89f077f8978]: Commencement: Sch. 1 Pt. VIII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
 [^f01008]: Footnote: (i)
 
     [1981. c.61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-84f3f5536f75f3db396bc83ad2b53c80]: Commencement: Sch. 1 Pt. IX in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-84f3f5536f75f3db396bc83ad2b53c80]: Commencement: Sch. 1 Pt. IX in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-aeb815c0f0a4b1a897a956f04809b613]: Commencement: Sch. 1 Pt. X in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-aeb815c0f0a4b1a897a956f04809b613]: Commencement: Sch. 1 Pt. X in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-39155845e5f3f415b86e1c09368b6c3a]: Commencement: Sch. 1 Pt. XI in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-39155845e5f3f415b86e1c09368b6c3a]: Commencement: Sch. 1 Pt. XI in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-de9f862cfe868b34c747daffa5dd7f78]: Commencement: Sch. 1 Pt. XII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-de9f862cfe868b34c747daffa5dd7f78]: Commencement: Sch. 1 Pt. XII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
-[^key-81079598cae8c15aa369b807d301183a]: Commencement: Sch. 1 Pt. XIII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-81079598cae8c15aa369b807d301183a]: Commencement: Sch. 1 Pt. XIII in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
 
 [^f01009]: Footnote: (k)
 
     [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-7b39501972fc4dba1edd728b69cd5972]: Commencement: Sch. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)
+[^c-7b39501972fc4dba1edd728b69cd5972]: Commencement: Sch. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/676/article/1)

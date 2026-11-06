@@ -41,21 +41,21 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-398d952cc22c40caedd298abe831bfdf]
+## 1. Citation[^c-398d952cc22c40caedd298abe831bfdf]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2015 and comes into force on the day after the day on which it is made.
 
-## 2. Interpretation[^key-600135c8a39d88c04ed78a3db3ae642d]
+## 2. Interpretation[^c-600135c8a39d88c04ed78a3db3ae642d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of school[^key-959b0208f7e56c7a0b04ac320e0da8f2]
+## 3. Designation of school[^c-959b0208f7e56c7a0b04ac320e0da8f2]
 
 (1) The Homeschool, Manifold Way, Wednesbury WS10 0GB is designated as a school having a religious character.
 
 (2) The religion in accordance with whose tenets the school is conducted is Seventh Day Adventist Church.
 
-## 4. Revocations[^key-7051706e58e688ac37b2755b38f8f336]
+## 4. Revocations[^c-7051706e58e688ac37b2755b38f8f336]
 
 The instruments listed in column (1) of the Schedule (which have the references listed in column (2)) are revoked to the extent indicated in column (3).
 
@@ -69,7 +69,7 @@ Department for Education
 
 23rd December 2015
 
-## SCHEDULE — Revocations[^key-8d211e6324deb3083daba673315bf427]
+## SCHEDULE — Revocations[^c-8d211e6324deb3083daba673315bf427]
 
 Article 4
 
@@ -98,12 +98,12 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-398d952cc22c40caedd298abe831bfdf]: Commencement: Art. 1 in force at 24.12.2015 in accordance with art. 1
+[^c-398d952cc22c40caedd298abe831bfdf]: Commencement: Art. 1 in force at 24.12.2015 in accordance with art. 1
 
-[^key-600135c8a39d88c04ed78a3db3ae642d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2015/2075/article/2) revoked (31.3.2016) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2016 (S.I. 2016/477)](https://www.legislation.gov.uk/uksi/2016/477), [art. 1](https://www.legislation.gov.uk/uksi/2016/477/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/477/schedule)
+[^c-600135c8a39d88c04ed78a3db3ae642d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2015/2075/article/2) revoked (31.3.2016) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2016 (S.I. 2016/477)](https://www.legislation.gov.uk/uksi/2016/477), [art. 1](https://www.legislation.gov.uk/uksi/2016/477/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/477/schedule)
 
-[^key-959b0208f7e56c7a0b04ac320e0da8f2]: Commencement: Art. 3 in force at 24.12.2015 in accordance with art. 1
+[^c-959b0208f7e56c7a0b04ac320e0da8f2]: Commencement: Art. 3 in force at 24.12.2015 in accordance with art. 1
 
-[^key-7051706e58e688ac37b2755b38f8f336]: Commencement: Art. 4 in force at 24.12.2015 in accordance with art. 1
+[^c-7051706e58e688ac37b2755b38f8f336]: Commencement: Art. 4 in force at 24.12.2015 in accordance with art. 1
 
-[^key-8d211e6324deb3083daba673315bf427]: Commencement: Sch. in force at 24.12.2015 in accordance with art. 1
+[^c-8d211e6324deb3083daba673315bf427]: Commencement: Sch. in force at 24.12.2015 in accordance with art. 1

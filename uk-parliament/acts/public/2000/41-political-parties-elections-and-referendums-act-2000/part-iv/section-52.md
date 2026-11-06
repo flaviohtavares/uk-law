@@ -24,7 +24,7 @@ summary: ''
 
 - (a) [^c20070381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any grant under section 170 of the [^c10573801]Criminal Justice and Public Order Act 1994 (security costs at party conferences);
-- (c)[^key-013e792470b7114d7509c598444f3340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-013e792470b7114d7509c598444f3340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the transmission by a broadcaster, free of charge, of a party political broadcast or a referendum campaign broadcast (within the meaning of section 127);
 - (e) any other facilities provided in pursuance of any right conferred on candidates or a party at an election or a referendum by any enactment;
 - (f) the provision of assistance by a person appointed under section 9 of the [^c10573811]Local Government and Housing Act 1989;
@@ -38,7 +38,7 @@ summary: ''
 
 (3) Nothing in section 50 or 51 shall have the result that a payment made in respect of the hire of a stand at a party conference organised by or on behalf of a registered party is to constitute a donation to the party for the purposes of this Part if or to the extent that the payment does not exceed such of the maximum rates which the Commission determine to be reasonable for the hire of stands at party conferences as is applicable to the hire of the stand in question.
 
-(4)[^key-3fbee4c2b0fff57ace1c8ec92bf6f692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3fbee4c2b0fff57ace1c8ec92bf6f692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -50,7 +50,7 @@ summary: ''
 
 [^c10573801]: Marginal citation: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-013e792470b7114d7509c598444f3340]: Textual amendment: [S. 52(1)(c)](https://www.legislation.gov.uk/ukpga/2000/41/section/52/1/c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-013e792470b7114d7509c598444f3340]: Textual amendment: [S. 52(1)(c)](https://www.legislation.gov.uk/ukpga/2000/41/section/52/1/c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c10573811]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c20215821]: Textual amendment: Sum in s. 52(2)(b) substituted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/20/1), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
 
-[^key-3fbee4c2b0fff57ace1c8ec92bf6f692]: Textual amendment: [S. 52(4)](https://www.legislation.gov.uk/ukpga/2000/41/section/52/4) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-3fbee4c2b0fff57ace1c8ec92bf6f692]: Textual amendment: [S. 52(4)](https://www.legislation.gov.uk/ukpga/2000/41/section/52/4) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

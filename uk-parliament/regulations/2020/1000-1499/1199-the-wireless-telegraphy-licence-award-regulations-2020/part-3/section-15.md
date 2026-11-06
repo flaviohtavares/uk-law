@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Additional deposit before the first principal stage round[^key-f00771da4bee3ff61884ffd40f8edd8d]
+## 15. Additional deposit before the first principal stage round[^c-f00771da4bee3ff61884ffd40f8edd8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f00771da4bee3ff61884ffd40f8edd8d]: Commencement: Reg. 15 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f00771da4bee3ff61884ffd40f8edd8d]: Commencement: Reg. 15 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

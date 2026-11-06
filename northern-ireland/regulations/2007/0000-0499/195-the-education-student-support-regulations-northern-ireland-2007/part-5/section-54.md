@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Amount of the grant for travel – overseas study[^key-bf440b02c27531a370472e09c21620ac]
+## 54. Amount of the grant for travel – overseas study[^c-bf440b02c27531a370472e09c21620ac]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The amount of grant payable under regulation 53 in respect of an academic year i
 
 ## Annotations
 
-[^key-bf440b02c27531a370472e09c21620ac]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2007/195/regulation/54) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-bf440b02c27531a370472e09c21620ac]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2007/195/regulation/54) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

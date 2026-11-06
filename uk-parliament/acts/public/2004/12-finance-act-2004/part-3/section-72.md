@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Penalties: false statements and documentation[^key-b722efcb29a5426abf9e610cbbf1ac3f][^key-0c3770751eff8a4fa606bf128e17fae9]
+## 72. Penalties: false statements and documentation[^c-b722efcb29a5426abf9e610cbbf1ac3f][^c-0c3770751eff8a4fa606bf128e17fae9]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ for the purpose of enabling or facilitating B to become registered for gross pay
 
 ## Annotations
 
-[^key-b722efcb29a5426abf9e610cbbf1ac3f]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/2004/12/section/72) substituted (with effect in accordance with Sch. 6 para. 8 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/7)
+[^c-b722efcb29a5426abf9e610cbbf1ac3f]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/2004/12/section/72) substituted (with effect in accordance with Sch. 6 para. 8 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/6/paragraph/7)
 
-[^key-0c3770751eff8a4fa606bf128e17fae9]: Textual amendment: Words in [s. 72](https://www.legislation.gov.uk/ukpga/2004/12/section/72) heading inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/4), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)
+[^c-0c3770751eff8a4fa606bf128e17fae9]: Textual amendment: Words in [s. 72](https://www.legislation.gov.uk/ukpga/2004/12/section/72) heading inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/4), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)

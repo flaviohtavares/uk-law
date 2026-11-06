@@ -34,7 +34,7 @@ Regulations made by the Secretary of State, laid before Parliament under section
 
 SANCTIONS
 
-The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2024 (revoked)[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]
+The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2024 (revoked)[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]
 
 Made
 
@@ -48,22 +48,22 @@ Coming into force
 
 24th May 2024
 
-[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]
+## 1. Citation and commencement[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Syria (Sanctions) (EU Exit) Regulations 2019[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]
+## 2. Amendment of the Syria (Sanctions) (EU Exit) Regulations 2019[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d20c758c63f0e10e5a3a85a4d2b1c33f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/677) revoked (31.7.2024) by [The Syria (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/833)](https://www.legislation.gov.uk/uksi/2024/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/833/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/833/regulation/3)
+[^c-d20c758c63f0e10e5a3a85a4d2b1c33f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/677) revoked (31.7.2024) by [The Syria (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/833)](https://www.legislation.gov.uk/uksi/2024/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/833/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/833/regulation/3)

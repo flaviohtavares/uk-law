@@ -36,7 +36,7 @@ Bankruptcy
 
 Debt
 
-The Bankruptcy Fees (Scotland) Regulations 2017 (revoked)[^key-d76798c05593f3c8f5944beb540bc349]
+The Bankruptcy Fees (Scotland) Regulations 2017 (revoked)[^c-d76798c05593f3c8f5944beb540bc349]
 
 Made
 
@@ -50,71 +50,71 @@ Coming into force
 
 3rd April 2017
 
-[^key-d76798c05593f3c8f5944beb540bc349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d76798c05593f3c8f5944beb540bc349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-d76798c05593f3c8f5944beb540bc349]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-d76798c05593f3c8f5944beb540bc349]
+## 1. Citation and commencement[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees and outlays as interim trustee or trustee[^key-d76798c05593f3c8f5944beb540bc349]
+## 2. Interpretation[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Other fees[^key-d76798c05593f3c8f5944beb540bc349]
+## 3. Fees and outlays as interim trustee or trustee[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Manner of payment[^key-d76798c05593f3c8f5944beb540bc349]
+**5.**[^c-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Waiver of fees[^key-d76798c05593f3c8f5944beb540bc349]
+## 6. Other fees[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Repayment of fees - refusal of bankruptcy restrictions order[^key-d76798c05593f3c8f5944beb540bc349]
+**7.**[^c-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Manner of payment[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Interest on unpaid fees[^key-d76798c05593f3c8f5944beb540bc349]
+**9.**[^c-d76798c05593f3c8f5944beb540bc349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Waiver of fees[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Sequestrations and trust deeds before 3rd April 2017[^key-d76798c05593f3c8f5944beb540bc349]
+## 11. Repayment of fees - refusal of bankruptcy restrictions order[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Revocations[^key-d76798c05593f3c8f5944beb540bc349]
+## 12. Interest on unpaid fees[^c-d76798c05593f3c8f5944beb540bc349]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Sequestrations and trust deeds before 3rd April 2017[^c-d76798c05593f3c8f5944beb540bc349]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Revocations[^c-d76798c05593f3c8f5944beb540bc349]
 
 **Not yet in force.**
 
@@ -122,26 +122,26 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-d76798c05593f3c8f5944beb540bc349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d76798c05593f3c8f5944beb540bc349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## SCHEDULE — TABLE OF FEES - BANKRUPTCY[^key-d76798c05593f3c8f5944beb540bc349]
+## SCHEDULE — TABLE OF FEES - BANKRUPTCY[^c-d76798c05593f3c8f5944beb540bc349]
 
 Regulations 3 and 6
 
-### PART 1 — Fees for Accountant in Bankruptcy as interim trustee or trustee in sequestration[^key-d76798c05593f3c8f5944beb540bc349]
+### PART 1 — Fees for Accountant in Bankruptcy as interim trustee or trustee in sequestration[^c-d76798c05593f3c8f5944beb540bc349]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Fees for other functions of the Accountant in Bankruptcy[^key-d76798c05593f3c8f5944beb540bc349]
+### PART 2 — Fees for other functions of the Accountant in Bankruptcy[^c-d76798c05593f3c8f5944beb540bc349]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d76798c05593f3c8f5944beb540bc349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d76798c05593f3c8f5944beb540bc349]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d76798c05593f3c8f5944beb540bc349]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2017/37) revoked (28.3.2017) by [The Bankruptcy Fees (Scotland) Revocation Regulations 2017 (S.S.I. 2017/97)](https://www.legislation.gov.uk/ssi/2017/97), [regs. 1](https://www.legislation.gov.uk/ssi/2017/97/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/97/regulation/2)
+[^c-d76798c05593f3c8f5944beb540bc349]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2017/37) revoked (28.3.2017) by [The Bankruptcy Fees (Scotland) Revocation Regulations 2017 (S.S.I. 2017/97)](https://www.legislation.gov.uk/ssi/2017/97), [regs. 1](https://www.legislation.gov.uk/ssi/2017/97/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/97/regulation/2)

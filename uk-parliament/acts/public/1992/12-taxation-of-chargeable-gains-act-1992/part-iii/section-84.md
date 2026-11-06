@@ -23,7 +23,7 @@ summary: ''
 (1) Section 152 shall not apply where—
 
 - (a) the new assets are, or the interest in them is, acquired by the trustees of a settlement,
-- (b) at the time of the acquisition the trustees are resident [^key-15729c3c090f5699e279368842dade3c]... in the United Kingdom and fall to be regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom,
+- (b) at the time of the acquisition the trustees are resident [^c-15729c3c090f5699e279368842dade3c]... in the United Kingdom and fall to be regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom,
 - (c) the assets are of a description specified in the arrangements, and
 - (d) were the trustees to dispose of the assets immediately after the acquisition, the trustees would fall to be regarded for the purposes of the arrangements as not liable in the United Kingdom to tax on gains accruing to them on the disposal.
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15729c3c090f5699e279368842dade3c]: Textual amendment: Words in s. 84(1)(b) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 89](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/89)
+[^c-15729c3c090f5699e279368842dade3c]: Textual amendment: Words in s. 84(1)(b) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 89](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/89)

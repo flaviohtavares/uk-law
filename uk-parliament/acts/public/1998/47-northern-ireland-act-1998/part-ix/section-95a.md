@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Directions under sections 30A, 47B and 51B[^key-2ad1244202df877b22331290d7c7a3b6]
+## 95A. Directions under sections 30A, 47B and 51B[^c-2ad1244202df877b22331290d7c7a3b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad1244202df877b22331290d7c7a3b6]: Textual amendment: S. 95A repealed (1.4.2011) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(j)](https://www.legislation.gov.uk/uksi/2011/978/article/5/j)
+[^c-2ad1244202df877b22331290d7c7a3b6]: Textual amendment: S. 95A repealed (1.4.2011) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(j)](https://www.legislation.gov.uk/uksi/2011/978/article/5/j)

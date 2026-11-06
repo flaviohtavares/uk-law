@@ -41,9 +41,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) Paragraph 2 becomes sub-paragraph (1) of that paragraph.
 
-(3)[^key-e987e5ba7d886f39f86039272171e797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e987e5ba7d886f39f86039272171e797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f603fdef1e6ecc04c045f95deb43f1c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f603fdef1e6ecc04c045f95deb43f1c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Citation, commencement and extent
 
@@ -62,6 +62,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-e987e5ba7d886f39f86039272171e797]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2014/8/section/1/3) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/36/schedule/1/paragraph/4); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-e987e5ba7d886f39f86039272171e797]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2014/8/section/1/3) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/36/schedule/1/paragraph/4); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-f603fdef1e6ecc04c045f95deb43f1c9]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/2014/8/section/1/4) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-f603fdef1e6ecc04c045f95deb43f1c9]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/2014/8/section/1/4) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))

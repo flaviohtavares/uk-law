@@ -55,10 +55,10 @@ with a consolidated authorisation.
 - (a) made in writing and in such form as SEPA may from time to time require; and
 - (b) accompanied by any fee payable in accordance with a charging scheme.
 
-(9A)[^key-6c40f1bcfdb7b9561ab7c5b4c3202d6f] Where SEPA carries out a SEPA initiated consolidation under paragraph (2) or (4), any fee payable under a charging scheme for that consolidation is payable by the authorised person.
+(9A)[^c-6c40f1bcfdb7b9561ab7c5b4c3202d6f] Where SEPA carries out a SEPA initiated consolidation under paragraph (2) or (4), any fee payable under a charging scheme for that consolidation is payable by the authorised person.
 
 (10) SEPA must grant or refuse an application made under this regulation and notify the applicant of its decision in accordance with regulation 65.
 
 ## Annotations
 
-[^key-6c40f1bcfdb7b9561ab7c5b4c3202d6f]: Textual amendment: [Reg. 64(9A)](https://www.legislation.gov.uk/ssi/2018/219/regulation/64/9A) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [32](https://www.legislation.gov.uk/ssi/2025/165/regulation/32) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6c40f1bcfdb7b9561ab7c5b4c3202d6f]: Textual amendment: [Reg. 64(9A)](https://www.legislation.gov.uk/ssi/2018/219/regulation/64/9A) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [32](https://www.legislation.gov.uk/ssi/2025/165/regulation/32) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

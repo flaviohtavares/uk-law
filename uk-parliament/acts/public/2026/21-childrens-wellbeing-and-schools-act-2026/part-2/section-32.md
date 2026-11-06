@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Free school lunches: eligibility[^key-bc712daccce8c16806d14b83aae8323e][^key-123c1b84ac67aac26dfc8d3995eb34ec]
+## 32. Free school lunches: eligibility[^c-bc712daccce8c16806d14b83aae8323e][^c-123c1b84ac67aac26dfc8d3995eb34ec]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ In [section 512ZB](https://www.legislation.gov.uk/ukpga/1996/56/section/512ZB) o
 
 ## Annotations
 
-[^key-bc712daccce8c16806d14b83aae8323e]: Commencement: S. 32 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-bc712daccce8c16806d14b83aae8323e]: Commencement: S. 32 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-123c1b84ac67aac26dfc8d3995eb34ec]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2026/21/section/32) in force at 17.8.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 4](https://www.legislation.gov.uk/uksi/2026/803/regulation/4)
+[^c-123c1b84ac67aac26dfc8d3995eb34ec]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2026/21/section/32) in force at 17.8.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 4](https://www.legislation.gov.uk/uksi/2026/803/regulation/4)

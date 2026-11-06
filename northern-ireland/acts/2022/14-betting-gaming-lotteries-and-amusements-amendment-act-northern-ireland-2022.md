@@ -38,17 +38,17 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Interpretation
 
-### 1. Interpretation[^key-84d3560c5abb651fc981e966df357ce1]
+### 1. Interpretation[^c-84d3560c5abb651fc981e966df357ce1]
 
 In this Act “**the 1985 Order**” means the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985.
 
 ## Betting
 
-### 2. Opening of licensed offices on Sunday and Good Friday[^key-8d74da505210794bd33e9321e71971c9]
+### 2. Opening of licensed offices on Sunday and Good Friday[^c-8d74da505210794bd33e9321e71971c9]
 
 In Article 31(1) of the 1985 Order (days when licensed office not to open) for “Sunday, Christmas Day or Good Friday” substitute “Christmas Day”.
 
-### 3. Sunday working in licensed office[^key-45ff7382f4a332fa523ae4b3fcb5591b]
+### 3. Sunday working in licensed office[^c-45ff7382f4a332fa523ae4b3fcb5591b]
 
 (1) Schedule 8A to the 1985 Order (rights of betting workers as regards Sunday working) is amended as follows.
 
@@ -71,7 +71,7 @@ In Article 31(1) of the 1985 Order (days when licensed office not to open) for �
 
 (5) In Article 53B of the 1985 Order (Sunday observance) at the end insert “or having effected a betting transaction on a non-sporting event at a licensed office which is open on a Sunday.”.
 
-### 4. Pool betting[^key-0a00815c34492439df824d92afa2a11c]
+### 4. Pool betting[^c-0a00815c34492439df824d92afa2a11c]
 
 In Article 44 of the 1985 Order (restriction of pool betting), in paragraph (2) for “paragraph (3)” substitute “paragraphs (3) and (3A)” and after paragraph (3) insert—
 
@@ -88,7 +88,7 @@ In Article 44 of the 1985 Order (restriction of pool betting), in paragraph (2) 
 
 ## Bingo clubs
 
-### 5. Persons who may participate in bingo at bingo club[^key-c4a8575c1e5d2c0f6c642e062d924b68]
+### 5. Persons who may participate in bingo at bingo club[^c-c4a8575c1e5d2c0f6c642e062d924b68]
 
 In Article 75 of the 1985 Order (persons who may participate in bingo) the following provisions are repealed—
 
@@ -96,7 +96,7 @@ In Article 75 of the 1985 Order (persons who may participate in bingo) the follo
 - (b) in paragraph (3)(b) the words “and who, at the time when the guest begins to take part in the bingo, is eligible to take part in it”;
 - (c) paragraph (4).
 
-### 6⁠. Days when bingo and use of gaming machines permitted on bingo club premises[^key-3c7fa707f5a6d981302e23d96d221445]
+### 6⁠. Days when bingo and use of gaming machines permitted on bingo club premises[^c-3c7fa707f5a6d981302e23d96d221445]
 
 (1) In Article 76(7) of the 1985 Order (days when bingo may not take place on bingo club premises) for “Sunday, Christmas Day or Good Friday” substitute “Christmas Day”.
 
@@ -104,7 +104,7 @@ In Article 75 of the 1985 Order (persons who may participate in bingo) the follo
 
 ## Gaming machines
 
-### 7. Offence of inviting, etc. person under 18 to play gaming machine[^key-b5616e1bfe29be65e243648dce94dd74][^key-bfc03b119c3c9ea4c3c7b3b492214b99]
+### 7. Offence of inviting, etc. person under 18 to play gaming machine[^c-b5616e1bfe29be65e243648dce94dd74][^c-bfc03b119c3c9ea4c3c7b3b492214b99]
 
 (1) After Article 124 of the 1985 Order insert—
 
@@ -129,7 +129,7 @@ In Article 75 of the 1985 Order (persons who may participate in bingo) the follo
 
 .
 
-### 8. Gaming machines: charges and prize limits[^key-3d33d92167e2bef635ef38d26db612a7]
+### 8. Gaming machines: charges and prize limits[^c-3d33d92167e2bef635ef38d26db612a7]
 
 (1) Article 108 of the 1985 Order (use of gaming machines) is amended in accordance with subsections (2) to (7).
 
@@ -170,7 +170,7 @@ In Article 75 of the 1985 Order (persons who may participate in bingo) the follo
 
 ## Lotteries
 
-### 9. Arrangements not requiring persons to pay to participate[^key-15e19dcb145dd26791b763f508c19ea9]
+### 9. Arrangements not requiring persons to pay to participate[^c-15e19dcb145dd26791b763f508c19ea9]
 
 (1) Renumber Article 131 of the 1985 Order (illegality of lotteries) as paragraph (1) of that Article and after that paragraph insert—
 
@@ -180,7 +180,7 @@ In Article 75 of the 1985 Order (persons who may participate in bingo) the follo
 
 (2) After Schedule 15 to the 1985 Order insert the Schedule set out in the Schedule to this Act.
 
-### 10. Rules for societies’ lotteries[^key-fe148ad92f2ad5f763307c3aa35d1336]
+### 10. Rules for societies’ lotteries[^c-fe148ad92f2ad5f763307c3aa35d1336]
 
 In Article 137 of the 1985 Order (rules for societies’ lotteries)—
 
@@ -194,7 +194,7 @@ In Article 137 of the 1985 Order (rules for societies’ lotteries)—
 
 ## Miscellaneous amendments of 1985 Order
 
-### 11. Qualifications by age, residence or corporate status for licences, certificates and permits[^key-af468a700371c2c461996b0398b2ff26]
+### 11. Qualifications by age, residence or corporate status for licences, certificates and permits[^c-af468a700371c2c461996b0398b2ff26]
 
 (1) In the following provisions of the 1985 Order—
 
@@ -223,7 +223,7 @@ for “**21**” (the minimum age restriction) substitute “18”.
 
 (5) In Article 155(2) of the 1985 Order (which limits the grant of pleasure permits to certain corporate bodies) for “a company registered under the Companies Act 2006 in Northern Ireland” substitute “a body corporate”.
 
-### 12. Prize competitions not requiring persons to pay to participate[^key-80fd640843b33ff7550a425b1c084451]
+### 12. Prize competitions not requiring persons to pay to participate[^c-80fd640843b33ff7550a425b1c084451]
 
 (1) Article 168 of the 1985 Order (prize competitions) is amended as follows.
 
@@ -235,7 +235,7 @@ for “**21**” (the minimum age restriction) substitute “18”.
 
 .
 
-### 13. Cheating[^key-ff75c57e1071ddad62c22725b2b0e802][^key-bf009334593cfdb579b240e5ec128af8]
+### 13. Cheating[^c-ff75c57e1071ddad62c22725b2b0e802][^c-bf009334593cfdb579b240e5ec128af8]
 
 For Article 169 of the 1985 Order (offence of cheating) substitute—
 
@@ -262,7 +262,7 @@ For Article 169 of the 1985 Order (offence of cheating) substitute—
 
 .
 
-### 14. Enforceability of gambling contracts[^key-86bde89b005f8036ac55d8899f01ea3f]
+### 14. Enforceability of gambling contracts[^c-86bde89b005f8036ac55d8899f01ea3f]
 
 (1) The following provisions of the 1985 Order are repealed—
 
@@ -277,7 +277,7 @@ For Article 169 of the 1985 Order (offence of cheating) substitute—
 
 (5) In this section “**gambling**” means gaming, betting or participating in a lottery (within the meaning of the 1985 Order).”.
 
-### 15. Industry levy[^key-c86b542b2c9621aa4ae680a308d49f91]
+### 15. Industry levy[^c-c86b542b2c9621aa4ae680a308d49f91]
 
 **Not yet in force.**
 
@@ -332,7 +332,7 @@ For Article 169 of the 1985 Order (offence of cheating) substitute—
   ;
 - (b) in paragraph (4) for “paragraph (3)” substitute “paragraphs (3) and (3A)”.
 
-### 16. Code of practice[^key-70c02819e5903642ca8c0baf14d482e2][^key-9aa42285b9c56b04f5966fdae27db785]
+### 16. Code of practice[^c-70c02819e5903642ca8c0baf14d482e2][^c-9aa42285b9c56b04f5966fdae27db785]
 
 (1) After Article 180 of the 1985 Order insert—
 
@@ -421,7 +421,7 @@ For Article 169 of the 1985 Order (offence of cheating) substitute—
 
 ## Short title and commencement
 
-### 17. Short title and commencement[^key-f8528b9c84e9b520406df2545f0e5e3e]
+### 17. Short title and commencement[^c-f8528b9c84e9b520406df2545f0e5e3e]
 
 (1) This Act may be cited as the Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022.
 
@@ -431,7 +431,7 @@ For Article 169 of the 1985 Order (offence of cheating) substitute—
 
 (4) An order under subsection (3) may contain transitional provisions and savings in connection with any provision brought into operation by the order.
 
-## SCHEDULE — Schedule 15A to the 1985 Order, as inserted[^key-a7a7395bc96d463e091690123a2e9872]
+## SCHEDULE — Schedule 15A to the 1985 Order, as inserted[^c-a7a7395bc96d463e091690123a2e9872]
 
 Section 9
 
@@ -496,44 +496,44 @@ Section 9
 
 ## Annotations
 
-[^key-84d3560c5abb651fc981e966df357ce1]: Commencement: S. 1 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-84d3560c5abb651fc981e966df357ce1]: Commencement: S. 1 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-8d74da505210794bd33e9321e71971c9]: Commencement: S. 2 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-8d74da505210794bd33e9321e71971c9]: Commencement: S. 2 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-45ff7382f4a332fa523ae4b3fcb5591b]: Commencement: S. 3 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-45ff7382f4a332fa523ae4b3fcb5591b]: Commencement: S. 3 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-0a00815c34492439df824d92afa2a11c]: Commencement: S. 4 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-0a00815c34492439df824d92afa2a11c]: Commencement: S. 4 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-c4a8575c1e5d2c0f6c642e062d924b68]: Commencement: S. 5 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-c4a8575c1e5d2c0f6c642e062d924b68]: Commencement: S. 5 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-3c7fa707f5a6d981302e23d96d221445]: Commencement: S. 6 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-3c7fa707f5a6d981302e23d96d221445]: Commencement: S. 6 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-b5616e1bfe29be65e243648dce94dd74]: Commencement: S. 7 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
+[^c-b5616e1bfe29be65e243648dce94dd74]: Commencement: S. 7 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
 
-[^key-bfc03b119c3c9ea4c3c7b3b492214b99]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/14/section/7) in operation at 1.10.2023 by [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-bfc03b119c3c9ea4c3c7b3b492214b99]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/14/section/7) in operation at 1.10.2023 by [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
 
-[^key-3d33d92167e2bef635ef38d26db612a7]: Commencement: S. 8 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-3d33d92167e2bef635ef38d26db612a7]: Commencement: S. 8 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-15e19dcb145dd26791b763f508c19ea9]: Commencement: S. 9 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-15e19dcb145dd26791b763f508c19ea9]: Commencement: S. 9 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-fe148ad92f2ad5f763307c3aa35d1336]: Commencement: S. 10 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-fe148ad92f2ad5f763307c3aa35d1336]: Commencement: S. 10 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-af468a700371c2c461996b0398b2ff26]: Commencement: S. 11 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-af468a700371c2c461996b0398b2ff26]: Commencement: S. 11 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-80fd640843b33ff7550a425b1c084451]: Commencement: S. 12 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-80fd640843b33ff7550a425b1c084451]: Commencement: S. 12 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-ff75c57e1071ddad62c22725b2b0e802]: Commencement: S. 13 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
+[^c-ff75c57e1071ddad62c22725b2b0e802]: Commencement: S. 13 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
 
-[^key-bf009334593cfdb579b240e5ec128af8]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/14/section/13) in operation at 1.10.2023 by [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-bf009334593cfdb579b240e5ec128af8]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/14/section/13) in operation at 1.10.2023 by [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
 
-[^key-86bde89b005f8036ac55d8899f01ea3f]: Commencement: S. 14 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-86bde89b005f8036ac55d8899f01ea3f]: Commencement: S. 14 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-c86b542b2c9621aa4ae680a308d49f91]: Commencement: S. 15 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
+[^c-c86b542b2c9621aa4ae680a308d49f91]: Commencement: S. 15 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
 
-[^key-70c02819e5903642ca8c0baf14d482e2]: Commencement: S. 16 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
+[^c-70c02819e5903642ca8c0baf14d482e2]: Commencement: S. 16 not in operation at Royal Assent, see [s. 17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3)
 
-[^key-9aa42285b9c56b04f5966fdae27db785]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/14/section/16) in operation at 1.10.2023 by [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-9aa42285b9c56b04f5966fdae27db785]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/14/section/16) in operation at 1.10.2023 by [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
 
-[^key-f8528b9c84e9b520406df2545f0e5e3e]: Commencement: S. 17 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-f8528b9c84e9b520406df2545f0e5e3e]: Commencement: S. 17 in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-a7a7395bc96d463e091690123a2e9872]: Commencement: Sch. in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-a7a7395bc96d463e091690123a2e9872]: Commencement: Sch. in operation at 27.4.2022, see [s. 17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

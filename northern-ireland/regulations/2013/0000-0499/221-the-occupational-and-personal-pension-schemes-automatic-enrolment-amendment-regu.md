@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 17(1)(c) and 113(2) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation and commencement[^key-3b565c0844a1fe80bdccc6cad32267e9]
+## 1. Citation and commencement[^c-3b565c0844a1fe80bdccc6cad32267e9]
 
 These Regulations may be cited as the Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2013 and shall come into operation on 14th September 2013.
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^key-69c629d125eda514bf33fd3768561c4d]
+## 2. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^c-69c629d125eda514bf33fd3768561c4d]
 
 In regulation 35 of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^f00002] (further conditions applicable to automatic enrolment schemes)—
 
@@ -103,8 +103,8 @@ Regulation 2 amends regulation 35 of those Regulations to—
 
 [^f00001]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-3b565c0844a1fe80bdccc6cad32267e9]: Commencement: Reg. 1 in operation at 14.9.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/221/regulation/1)
+[^c-3b565c0844a1fe80bdccc6cad32267e9]: Commencement: Reg. 1 in operation at 14.9.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/221/regulation/1)
 
-[^key-69c629d125eda514bf33fd3768561c4d]: Commencement: Reg. 2 in operation at 14.9.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/221/regulation/1)
+[^c-69c629d125eda514bf33fd3768561c4d]: Commencement: Reg. 2 in operation at 14.9.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/221/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122); regulation 35 was substituted by regulation 2(4) of [S.R. 2012 No. 237](https://www.legislation.gov.uk/nisr/2012/237)

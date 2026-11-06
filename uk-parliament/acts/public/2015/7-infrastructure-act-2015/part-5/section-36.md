@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Transfer of power to nominate member of Rule Committee[^key-07d2a0346b09e05dea8a3d5dcd120e59]
+## 36. Transfer of power to nominate member of Rule Committee[^c-07d2a0346b09e05dea8a3d5dcd120e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07d2a0346b09e05dea8a3d5dcd120e59]: Commencement: S. 36 in force at 12.4.2015, see s. 57(5)(e)
+[^c-07d2a0346b09e05dea8a3d5dcd120e59]: Commencement: S. 36 in force at 12.4.2015, see s. 57(5)(e)

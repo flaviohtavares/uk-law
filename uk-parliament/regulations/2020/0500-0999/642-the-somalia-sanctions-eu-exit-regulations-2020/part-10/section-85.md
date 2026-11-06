@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Transitional provision: pending applications for trade licences[^key-d092b532db3ff0ae6b34e69a0fb6a7d2]
+## 85. Transitional provision: pending applications for trade licences[^c-d092b532db3ff0ae6b34e69a0fb6a7d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d092b532db3ff0ae6b34e69a0fb6a7d2]: Commencement: Reg. 85 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-d092b532db3ff0ae6b34e69a0fb6a7d2]: Commencement: Reg. 85 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

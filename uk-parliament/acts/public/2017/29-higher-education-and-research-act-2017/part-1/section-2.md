@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. General duties[^key-9aa2546d5afb3ec9c39bd125958037ec]
+## 2. General duties[^c-9aa2546d5afb3ec9c39bd125958037ec]
 
 *Extent: E+W*
 
 (1) In performing its functions, the OfS must have regard to—
 
 - (a) the need to protect the institutional autonomy of English higher education providers,
-- (aa)[^key-e393a8009864c31385b511852b63801a] the need to promote the importance of freedom of speech within the law in the provision of higher education by English higher education providers,
+- (aa)[^c-e393a8009864c31385b511852b63801a] the need to promote the importance of freedom of speech within the law in the provision of higher education by English higher education providers,
 - (ab) the need to protect the academic freedom of academic staff at English higher education providers,
 - (b) the need to promote quality, and greater choice and opportunities for students, in the provision of higher education by English higher education providers,
 - (c) the need to encourage competition between English higher education providers in connection with the provision of higher education where that competition is in the interests of students and employers, while also having regard to the benefits for students and employers resulting from collaboration between such providers,
@@ -42,7 +42,7 @@ summary: ''
 
 (3) In performing its functions, including its duties under subsection (1), the OfS must have regard to guidance given to it by the Secretary of State.
 
-(4) In giving such guidance, the Secretary of State must have regard to the need to protect the institutional autonomy of English higher education providers and the academic freedom of academic staff at such providers[^key-d50c777b060775155f6b24fad2600788].
+(4) In giving such guidance, the Secretary of State must have regard to the need to protect the institutional autonomy of English higher education providers and the academic freedom of academic staff at such providers[^c-d50c777b060775155f6b24fad2600788].
 
 (5) The guidance may, in particular, be framed by reference to particular courses of study but, whether or not the guidance is framed in that way, it must not relate to—
 
@@ -58,23 +58,23 @@ summary: ''
 
 (8) In this Part, “**the institutional autonomy of English higher education providers**” means—
 
-- (a) the freedom of English higher education providers within the law to conduct their day to day management in an effective and competent way, and[^key-c5427f32b56aaf9629869fa10e49eb8e]
+- (a) the freedom of English higher education providers within the law to conduct their day to day management in an effective and competent way, and[^c-c5427f32b56aaf9629869fa10e49eb8e]
 - (b) the freedom of English higher education providers—
   - (i) to determine the content of particular courses and the manner in which they are taught, supervised and assessed,
   - (ii) to determine the criteria for the selection, appointment and dismissal of academic staff and apply those criteria in particular cases, and
-  - (iii) to determine the criteria for the admission of students and apply those criteria in particular cases, [^key-cc8250a553b82f5ad18aa5404351f839]...
-- (c)[^key-c9d0c78c4026cc1ce24825c2af3b6e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) to determine the criteria for the admission of students and apply those criteria in particular cases, [^c-cc8250a553b82f5ad18aa5404351f839]...
+- (c)[^c-c9d0c78c4026cc1ce24825c2af3b6e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9aa2546d5afb3ec9c39bd125958037ec]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/29/section/2) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/a)
+[^c-9aa2546d5afb3ec9c39bd125958037ec]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/29/section/2) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/a)
 
-[^key-e393a8009864c31385b511852b63801a]: Textual amendment: [S. 2(1)(aa)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/1/aa)[(ab)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/1/ab) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2023/16/section/5/1), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/d)
+[^c-e393a8009864c31385b511852b63801a]: Textual amendment: [S. 2(1)(aa)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/1/aa)[(ab)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/1/ab) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2023/16/section/5/1), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/d)
 
-[^key-d50c777b060775155f6b24fad2600788]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/4) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/2); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iii)
+[^c-d50c777b060775155f6b24fad2600788]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/4) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/2); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iii)
 
-[^key-c5427f32b56aaf9629869fa10e49eb8e]: Textual amendment: Word in [s. 2(8)(a)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/8/a) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/4/a); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iv)
+[^c-c5427f32b56aaf9629869fa10e49eb8e]: Textual amendment: Word in [s. 2(8)(a)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/8/a) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/4/a); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iv)
 
-[^key-cc8250a553b82f5ad18aa5404351f839]: Textual amendment: Word in [s. 2(8)(b)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/8/b) omitted (1.8.2025) by virtue of [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/4/b); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iv)
+[^c-cc8250a553b82f5ad18aa5404351f839]: Textual amendment: Word in [s. 2(8)(b)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/8/b) omitted (1.8.2025) by virtue of [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/4/b); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iv)
 
-[^key-c9d0c78c4026cc1ce24825c2af3b6e0f]: Textual amendment: [S. 2(8)(c)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/8/c) omitted (1.8.2025) by virtue of [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/4/c); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iv)
+[^c-c9d0c78c4026cc1ce24825c2af3b6e0f]: Textual amendment: [S. 2(8)(c)](https://www.legislation.gov.uk/ukpga/2017/29/section/2/8/c) omitted (1.8.2025) by virtue of [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/2/4/c); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/iv)

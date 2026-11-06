@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Communications likely to confuse as to autonomous capability[^key-72631dabcaaf75ac6822ed1028eb0330]
+## 79. Communications likely to confuse as to autonomous capability[^c-72631dabcaaf75ac6822ed1028eb0330]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72631dabcaaf75ac6822ed1028eb0330]: Commencement: S. 79 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-72631dabcaaf75ac6822ed1028eb0330]: Commencement: S. 79 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

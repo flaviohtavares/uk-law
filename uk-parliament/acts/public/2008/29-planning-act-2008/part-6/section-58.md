@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Certifying compliance with section 56[^key-84346caa471c736292766c76893220c0]
+## 58. Certifying compliance with section 56[^c-84346caa471c736292766c76893220c0]
 
 *Extent: E+W+S*
 
 (1) Subsection (2) applies where—
 
-- (a) the Secretary of State[^key-e9b4f1305a1d95f6d9f57b9c8a3461a6] has accepted an application for an order granting development consent, and
+- (a) the Secretary of State[^c-e9b4f1305a1d95f6d9f57b9c8a3461a6] has accepted an application for an order granting development consent, and
 - (b) the applicant has complied with section 56 in relation to the application.
 
-(2) The applicant must, in such form and manner as may be prescribed, certify to the Secretary of State[^key-2d15dc86c9e8fcd73a2e17c5f265971b] that the applicant has complied with section 56 in relation to the application.
+(2) The applicant must, in such form and manner as may be prescribed, certify to the Secretary of State[^c-2d15dc86c9e8fcd73a2e17c5f265971b] that the applicant has complied with section 56 in relation to the application.
 
 (3) A person commits an offence if the person issues a certificate which—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-84346caa471c736292766c76893220c0]: Commencement: S. 58 in force at 1.10.2009 by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/c)
+[^c-84346caa471c736292766c76893220c0]: Commencement: S. 58 in force at 1.10.2009 by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/c)
 
-[^key-e9b4f1305a1d95f6d9f57b9c8a3461a6]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/58/1) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/15); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-e9b4f1305a1d95f6d9f57b9c8a3461a6]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/58/1) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/15); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-2d15dc86c9e8fcd73a2e17c5f265971b]: Textual amendment: Words in [s. 58(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/58/2) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/15); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-2d15dc86c9e8fcd73a2e17c5f265971b]: Textual amendment: Words in [s. 58(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/58/2) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/15); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

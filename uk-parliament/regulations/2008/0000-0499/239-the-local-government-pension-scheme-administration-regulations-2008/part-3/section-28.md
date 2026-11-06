@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Cost of calculations of additional pension where no notification given under regulation 26(4)[^key-2f95bb001ba1d554471893307445426a]
+## 28. Cost of calculations of additional pension where no notification given under regulation 26(4)[^c-2f95bb001ba1d554471893307445426a]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f95bb001ba1d554471893307445426a]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-2f95bb001ba1d554471893307445426a]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

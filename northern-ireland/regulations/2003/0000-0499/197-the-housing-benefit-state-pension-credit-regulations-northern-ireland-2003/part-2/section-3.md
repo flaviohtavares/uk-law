@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Interpretation[^key-db5bc63ae36321409b01fb8dd9b76642]
+## 3. Interpretation[^c-db5bc63ae36321409b01fb8dd9b76642]
 
 *Extent: N.I.*
 
@@ -70,7 +70,7 @@ summary: ''
 
 ## Annotations
 
-[^key-db5bc63ae36321409b01fb8dd9b76642]: Commencement: Reg. 3 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-db5bc63ae36321409b01fb8dd9b76642]: Commencement: Reg. 3 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00008]: Footnote: Definition of “the Registered Homes Order” was inserted by regulation 3(2) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 

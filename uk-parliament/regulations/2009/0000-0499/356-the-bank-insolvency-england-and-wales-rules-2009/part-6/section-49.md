@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Expenses of summoning meetings[^key-64edecd8ad857e03f2f087a1b05aa7c0]
+## 49. Expenses of summoning meetings[^c-64edecd8ad857e03f2f087a1b05aa7c0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.61 of the 1986 Rules.[^f00017]
 
 ## Annotations
 
-[^key-64edecd8ad857e03f2f087a1b05aa7c0]: Commencement: Rule 49 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-64edecd8ad857e03f2f087a1b05aa7c0]: Commencement: Rule 49 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00017]: Footnote: Paragraphs (3) and (4) were amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

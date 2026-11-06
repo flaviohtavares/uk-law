@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Continuity obligations: consideration and terms[^M_I_0681b107-a041-44af-db13-daa5867812e4][^key-edede2349219ded4cfa9b18ea4b08c92]
+## 69. Continuity obligations: consideration and terms[^M_I_0681b107-a041-44af-db13-daa5867812e4][^c-edede2349219ded4cfa9b18ea4b08c92]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_I_0681b107-a041-44af-db13-daa5867812e4]: Commencement: S. 69 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-edede2349219ded4cfa9b18ea4b08c92]: Commencement: S. 69 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-edede2349219ded4cfa9b18ea4b08c92]: Commencement: S. 69 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

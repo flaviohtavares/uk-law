@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Power to apply section 45A to Welsh waste collection authorities[^key-177608a86c0f582e0996c37df427f5be]
+## 45B. Power to apply section 45A to Welsh waste collection authorities[^c-177608a86c0f582e0996c37df427f5be]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-177608a86c0f582e0996c37df427f5be]: Textual amendment: S. 45B omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/14/3); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-177608a86c0f582e0996c37df427f5be]: Textual amendment: S. 45B omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/14/3); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)

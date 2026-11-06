@@ -43,7 +43,7 @@ the Treasury may, if they think fit, direct that subsection (1) above shall appl
 
 *Extent: N.I.*
 
-(5)[^key-e82da05d2391342932045559e02640d4] Section 5(7) accordingly applies for the purposes of this section in a case within section 5(6)(c), but as if the reference in section 5(7)(b) to the benefits payable on the deceased’s death included a reference to benefits payable to surviving dependants of the deceased.
+(5)[^c-e82da05d2391342932045559e02640d4] Section 5(7) accordingly applies for the purposes of this section in a case within section 5(6)(c), but as if the reference in section 5(7)(b) to the benefits payable on the deceased’s death included a reference to benefits payable to surviving dependants of the deceased.
 
 ## Annotations
 
@@ -57,4 +57,4 @@ the Treasury may, if they think fit, direct that subsection (1) above shall appl
 
 [^c20857291]: Textual amendment: S. 8(3) substituted (5.12.2005) by [The Civil Partnership (Judicial Pensions and Church Pensions, etc.) Order 2005 (S.I. 2005/3325)](https://www.legislation.gov.uk/uksi/2005/3325), [art. 72(4)](https://www.legislation.gov.uk/uksi/2005/3325/article/72/4)
 
-[^key-e82da05d2391342932045559e02640d4]: Textual amendment: S. 8(5) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/12/5) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160)) and (N.I.) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/11/5)
+[^c-e82da05d2391342932045559e02640d4]: Textual amendment: S. 8(5) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/12/5) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160)) and (N.I.) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/11/5)

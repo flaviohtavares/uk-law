@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Injunction to restrain unauthorised works or failure to comply with condition of consent[^key-2fa6faf82cfffb3acdc316f427004aae][^key-c117a76015f222f3a61f4ebf31cf68d7]
+## 135. Injunction to restrain unauthorised works or failure to comply with condition of consent[^c-2fa6faf82cfffb3acdc316f427004aae][^c-c117a76015f222f3a61f4ebf31cf68d7]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fa6faf82cfffb3acdc316f427004aae]: Commencement: S. 135 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2fa6faf82cfffb3acdc316f427004aae]: Commencement: S. 135 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-c117a76015f222f3a61f4ebf31cf68d7]: Commencement: [S. 135](https://www.legislation.gov.uk/asc/2023/3/section/135) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-c117a76015f222f3a61f4ebf31cf68d7]: Commencement: [S. 135](https://www.legislation.gov.uk/asc/2023/3/section/135) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

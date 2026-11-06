@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 70C. Application of a reduction to a new award[^key-a45342a60b3a0d4977f96bc50d5b95f3]
+## 70C. Application of a reduction to a new award[^c-a45342a60b3a0d4977f96bc50d5b95f3]
 
 (1) Subject to paragraph (4), this regulation applies where—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a45342a60b3a0d4977f96bc50d5b95f3]: Textual amendment: [Regs. 70A-70C](https://www.legislation.gov.uk/uksi/1996/207/regulation/70A) inserted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/4)
+[^c-a45342a60b3a0d4977f96bc50d5b95f3]: Textual amendment: [Regs. 70A-70C](https://www.legislation.gov.uk/uksi/1996/207/regulation/70A) inserted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/4)

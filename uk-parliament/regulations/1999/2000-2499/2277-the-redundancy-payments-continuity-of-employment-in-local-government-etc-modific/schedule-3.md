@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — REVOCATIONS[^key-4a99115f6b53384e34528e4a161d5d16]
+## SCHEDULE 3 — REVOCATIONS[^c-4a99115f6b53384e34528e4a161d5d16]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 4
 
 ## Annotations
 
-[^key-4a99115f6b53384e34528e4a161d5d16]: Commencement: Sch. 3 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-4a99115f6b53384e34528e4a161d5d16]: Commencement: Sch. 3 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)

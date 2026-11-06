@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Procedure for examination[^key-38ac96ed5f7926c87b186f948443cd77]
+## 150. Procedure for examination[^c-38ac96ed5f7926c87b186f948443cd77]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38ac96ed5f7926c87b186f948443cd77]: Commencement: Rule 150 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-38ac96ed5f7926c87b186f948443cd77]: Commencement: Rule 150 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

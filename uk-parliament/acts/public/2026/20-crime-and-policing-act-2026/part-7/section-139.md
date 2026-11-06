@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Safeguarding vulnerable groups: regulated activity[^key-fc81236ea1b064b4597133884271a09b][^key-e96ef8f8ba70eac02466c0e06b17f4ff]
+## 139. Safeguarding vulnerable groups: regulated activity[^c-fc81236ea1b064b4597133884271a09b][^c-e96ef8f8ba70eac02466c0e06b17f4ff]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc81236ea1b064b4597133884271a09b]: Commencement: S. 139 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fc81236ea1b064b4597133884271a09b]: Commencement: S. 139 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e96ef8f8ba70eac02466c0e06b17f4ff]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2026/20/section/139) in force at 1.9.2026 by [S.I. 2026/939](https://www.legislation.gov.uk/uksi/2026/939), [reg. 2](https://www.legislation.gov.uk/uksi/2026/939/regulation/2)
+[^c-e96ef8f8ba70eac02466c0e06b17f4ff]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2026/20/section/139) in force at 1.9.2026 by [S.I. 2026/939](https://www.legislation.gov.uk/uksi/2026/939), [reg. 2](https://www.legislation.gov.uk/uksi/2026/939/regulation/2)

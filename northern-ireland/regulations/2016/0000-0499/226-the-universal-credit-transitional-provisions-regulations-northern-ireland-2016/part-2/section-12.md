@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Appeals etc relating to certain existing benefits[^key-f5b53dad6bb49aa8ddd21b1615d99984]
+## 12. Appeals etc relating to certain existing benefits[^c-f5b53dad6bb49aa8ddd21b1615d99984]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (2) Where the claimant is a new claimant partner and, as a result of determination of the appeal or, as the case may be, revision or supersession of the decision the claimant would (were it not for the effect of these Regulations) be entitled to income support or housing benefit during the relevant period mentioned in regulation 5(3), awards of those benefits are to terminate in accordance with regulation 5.
 
-(3) Where the claimant is a not a new claimant partner and, as a result of determination of the appeal or, as the case may be, revision or supersession, variation or cancellation of the decision, the claimant would (were it not for the effect of these Regulations) be entitled to a relevant benefit on the date on which the claim for universal credit was made, awards of relevant benefits are to terminate in accordance with regulation 6 or 47[^key-9e9b472845c5ea89a2fc0442772e7145].
+(3) Where the claimant is a not a new claimant partner and, as a result of determination of the appeal or, as the case may be, revision or supersession, variation or cancellation of the decision, the claimant would (were it not for the effect of these Regulations) be entitled to a relevant benefit on the date on which the claim for universal credit was made, awards of relevant benefits are to terminate in accordance with regulation 6 or 47[^c-9e9b472845c5ea89a2fc0442772e7145].
 
 (4) The Department is to consider whether it is appropriate to revise under Article 10 of the Social Security Order 1998 the decision in relation to entitlement to universal credit or, if that decision has been superseded under Article 11 of that Order, the decision as so superseded (in either case, “the UC decision”).
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b53dad6bb49aa8ddd21b1615d99984]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/226/regulation/12) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-f5b53dad6bb49aa8ddd21b1615d99984]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/226/regulation/12) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00030]: Footnote: [2000 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4).
 
 [^f00031]: Footnote: Section 21A was inserted by [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886).
 
-[^key-9e9b472845c5ea89a2fc0442772e7145]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2016/226/regulation/12/3) substituted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [Sch. para. 1(6)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/1/6)
+[^c-9e9b472845c5ea89a2fc0442772e7145]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2016/226/regulation/12/3) substituted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [Sch. para. 1(6)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/1/6)

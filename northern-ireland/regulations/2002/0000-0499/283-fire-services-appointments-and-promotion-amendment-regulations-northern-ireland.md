@@ -31,7 +31,7 @@ summary: ''
 
 FIRE SERVICES
 
-Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-845de9fa80e2cfa72fcd28fff05a2088]
+Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-845de9fa80e2cfa72fcd28fff05a2088]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st October 2002
 
-[^key-845de9fa80e2cfa72fcd28fff05a2088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-845de9fa80e2cfa72fcd28fff05a2088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-845de9fa80e2cfa72fcd28fff05a2088]
+## 1. Citation and commencement[^c-845de9fa80e2cfa72fcd28fff05a2088]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fire Services (Appointments and Promotion) Regulations (Northern Ireland) 1979[^key-845de9fa80e2cfa72fcd28fff05a2088]
+## 2. Amendment of the Fire Services (Appointments and Promotion) Regulations (Northern Ireland) 1979[^c-845de9fa80e2cfa72fcd28fff05a2088]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-845de9fa80e2cfa72fcd28fff05a2088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-845de9fa80e2cfa72fcd28fff05a2088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-845de9fa80e2cfa72fcd28fff05a2088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-845de9fa80e2cfa72fcd28fff05a2088]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-845de9fa80e2cfa72fcd28fff05a2088]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/283) revoked (25.4.2003) by [Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/207)](https://www.legislation.gov.uk/nisr/2003/207), [regs. 1](https://www.legislation.gov.uk/nisr/2003/207/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/207/regulation/3)
+[^c-845de9fa80e2cfa72fcd28fff05a2088]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/283) revoked (25.4.2003) by [Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/207)](https://www.legislation.gov.uk/nisr/2003/207), [regs. 1](https://www.legislation.gov.uk/nisr/2003/207/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/207/regulation/3)

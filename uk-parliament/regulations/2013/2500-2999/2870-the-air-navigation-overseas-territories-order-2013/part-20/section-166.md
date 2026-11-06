@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Journey Log[^key-45dc9734ca704d795b70df68efbbe8f1]
+## 166. Journey Log[^c-45dc9734ca704d795b70df68efbbe8f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45dc9734ca704d795b70df68efbbe8f1]: Commencement: [Art. 166](https://www.legislation.gov.uk/uksi/2013/2870/article/166) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-45dc9734ca704d795b70df68efbbe8f1]: Commencement: [Art. 166](https://www.legislation.gov.uk/uksi/2013/2870/article/166) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

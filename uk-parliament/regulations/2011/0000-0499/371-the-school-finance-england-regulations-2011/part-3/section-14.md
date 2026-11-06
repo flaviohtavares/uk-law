@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Pupil numbers[^key-3e08ffface074d08931878bb298f463a]
+## 14. Pupil numbers[^c-3e08ffface074d08931878bb298f463a]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ a local authority may determine a number representing the number of pupils who w
 
 ## Annotations
 
-[^key-3e08ffface074d08931878bb298f463a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/371/regulation/14) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-3e08ffface074d08931878bb298f463a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/371/regulation/14) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

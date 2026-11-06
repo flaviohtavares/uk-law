@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Interpretation[^key-304f4b7663fbc7a70525f63edb42eb8c]
+## 88. Interpretation[^c-304f4b7663fbc7a70525f63edb42eb8c]
 
 *Extent: N.I.*
 
@@ -65,7 +65,7 @@ summary: ''
 
 (3) In subsection (2)—
 
-- (a) a “couple” is two persons who are married to each other or are civil partners, or who live together as if spouses of each other[^key-d5c4eefdea5bb2b49f552b23364e76f8] ,
+- (a) a “couple” is two persons who are married to each other or are civil partners, or who live together as if spouses of each other[^c-d5c4eefdea5bb2b49f552b23364e76f8] ,
 - (b) “**relative**” means parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece,
 - (c) a relationship of the half-blood is to be treated as a relationship of the whole blood, and
 - (d) the stepchild of a person is to be treated as that person's child.
@@ -93,6 +93,6 @@ then, for the purposes of the definition of “managing agent” in subsection (
 
 ## Annotations
 
-[^key-304f4b7663fbc7a70525f63edb42eb8c]: Commencement: S. 88 in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-304f4b7663fbc7a70525f63edb42eb8c]: Commencement: S. 88 in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-d5c4eefdea5bb2b49f552b23364e76f8]: Textual amendment: Words in [s. 88(3)(a)](https://www.legislation.gov.uk/nia/2016/22/section/88/3/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [148](https://www.legislation.gov.uk/uksi/2019/1514/regulation/148) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-d5c4eefdea5bb2b49f552b23364e76f8]: Textual amendment: Words in [s. 88(3)(a)](https://www.legislation.gov.uk/nia/2016/22/section/88/3/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [148](https://www.legislation.gov.uk/uksi/2019/1514/regulation/148) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

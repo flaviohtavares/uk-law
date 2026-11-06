@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164A. Duty of other persons to co-operate and provide information[^key-d22bd8ab3b0786d11ae4c61d97d64e50]
+## 164A. Duty of other persons to co-operate and provide information[^c-d22bd8ab3b0786d11ae4c61d97d64e50]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ summary: ''
 
 - (a) a local authority in England;
 - (b) a local housing authority in England;
-- (c)[^key-2c2ea6399076f81b447f59b909899620] NHS England;
-- (d) any integrated care board[^key-2b45997f2f2128377666e3780b0bf6dd], Special Health Authority, NHS Foundation Trust, or NHS trust in England established under section 25 of the National Health Service Act 2006;
+- (c)[^c-2c2ea6399076f81b447f59b909899620] NHS England;
+- (d) any integrated care board[^c-2b45997f2f2128377666e3780b0bf6dd], Special Health Authority, NHS Foundation Trust, or NHS trust in England established under section 25 of the National Health Service Act 2006;
 - (e) any other persons—
   - (i) as regulations may specify, or
   - (ii) of a description as regulations may specify.
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d22bd8ab3b0786d11ae4c61d97d64e50]: Textual amendment: S. 164A inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [312](https://www.legislation.gov.uk/wsi/2016/413/regulation/312)
+[^c-d22bd8ab3b0786d11ae4c61d97d64e50]: Textual amendment: S. 164A inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [312](https://www.legislation.gov.uk/wsi/2016/413/regulation/312)
 
-[^key-2c2ea6399076f81b447f59b909899620]: Textual amendment: Words in [s. 164A(4)](https://www.legislation.gov.uk/anaw/2014/4/section/164A/4) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/29/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2c2ea6399076f81b447f59b909899620]: Textual amendment: Words in [s. 164A(4)](https://www.legislation.gov.uk/anaw/2014/4/section/164A/4) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/29/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-2b45997f2f2128377666e3780b0bf6dd]: Textual amendment: Words in [s. 164A(4)(d)](https://www.legislation.gov.uk/anaw/2014/4/section/164A/4/d) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 223(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/223/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2b45997f2f2128377666e3780b0bf6dd]: Textual amendment: Words in [s. 164A(4)(d)](https://www.legislation.gov.uk/anaw/2014/4/section/164A/4/d) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 223(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/223/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

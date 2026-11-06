@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 23(2) and (3) of the Post-16 Education (Scotland) Act 2013[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-ca0b2e8dafee905f63d134e73c3b8780]
+## 1. Citation, commencement and interpretation[^c-ca0b2e8dafee905f63d134e73c3b8780]
 
 (1) This Order may be cited as the Post-16 Education (Scotland) Act 2013 (Commencement No. 3 and Transitory and Savings Provisions) Order 2014 and comes into force on 3rd March 2014.
 
@@ -56,13 +56,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “college of further education” has the same meaning as in section 35(1) of the 2005 Act (interpretation)[^f00002]; and
 - “regional strategic body” has the same meaning as in section 35(1) of the 2005 Act[^f00003].
 
-## 2. Appointed day[^key-0abad9954811e1377b5b43ab81c63e77]
+## 2. Appointed day[^c-0abad9954811e1377b5b43ab81c63e77]
 
 (1) 3rd March 2014 is the day appointed for the coming into force of the provisions of the Act specified in column 1 of Schedule 1 to this Order (the subject matter of which is described in column 2 of that Schedule), in so far as they are not already in force.
 
 (2) Where a purpose is specified in column 3 of Schedule 1 in relation to any provision, that provision comes into force on 3rd March 2014 for that purpose only.
 
-## 3. Transitory modification: regional strategic bodies[^key-1c2b475a4d61ac4d57ef91da3a586ea2]
+## 3. Transitory modification: regional strategic bodies[^c-1c2b475a4d61ac4d57ef91da3a586ea2]
 
 (1) Until section 8(1) of the Act (regional strategic bodies) comes into force for the purpose of inserting any regional strategic body into schedule 2A to the 2005 Act, section 14A(6) and 19A(7) of the 2005 Act[^f00004] are to be read as if subsection (b) in each were omitted.
 
@@ -79,13 +79,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (4) Until section 12 of the Act (regional boards: mismanagement) comes into force for all purposes, paragraphs 5A(1)(c) and 5B(3) of Schedule 2 to the 1992 Act[^f00012] and paragraph 4(2)(c) of schedule 1 to the 2005 Act[^f00013] are to be read as if the words from “or” to the end were omitted.
 
-## 4. Transitory modification: colleges of further education[^key-7629c3ee01360c567382c6c971f1eb83]
+## 4. Transitory modification: colleges of further education[^c-7629c3ee01360c567382c6c971f1eb83]
 
 (1) Subject to paragraph (2), section 26A of the 2005 Act (equal opportunities: post-16 education bodies etc.)[^f00014] has no effect in relation to a college of further education listed in Schedule 2 to this Order until the date on which the college of further education is first either designated as a regional college by order made under section 7A of the 2005 Act (regional colleges)[^f00015] or assigned to a regional strategic body by order made under section 7C of the 2005 Act (assignation of colleges)[^f00016].
 
 (2) This article ceases to have effect from the date on which paragraph 8(6) of the schedule to the Act comes into force for the purpose of inserting section 7D(7) to (9) into the 2005 Act.
 
-## 5. Transitory savings: colleges of further education[^key-8e305001f54f0fab3959a0fdfff0bde9]
+## 5. Transitory savings: colleges of further education[^c-8e305001f54f0fab3959a0fdfff0bde9]
 
 (1) Subject to paragraph (4), this article applies in relation to a college of further education listed in Schedule 2 to this Order until the date on which the college of further education is first either designated as a regional college by order made under section 7A of the 2005 Act or assigned to a regional strategic body by order made under section 7C of the 2005 Act.
 
@@ -105,7 +105,7 @@ Edinburgh
 
 22nd January 2014
 
-## SCHEDULE 1[^key-54f97178a21ea6d1f8e262dc4570f193]
+## SCHEDULE 1[^c-54f97178a21ea6d1f8e262dc4570f193]
 
 Article 2
 
@@ -146,14 +146,14 @@ Article 2
 | Schedule, paragraph 8(22)(c) | Modification of enactments | For the purpose of inserting paragraphs (bb), (bc), (bd) and (be) into section 34(4) of the 2005 Act. |
 | Schedule, paragraph 8(23) to (24) | Modification of enactments |  |
 
-## SCHEDULE 2[^key-a12241c0b19fb8ca9d8a4c8f3143d93c]
+## SCHEDULE 2[^c-a12241c0b19fb8ca9d8a4c8f3143d93c]
 
 Articles 4 and 5
 
-[^key-a12241c0b19fb8ca9d8a4c8f3143d93c]
+[^c-a12241c0b19fb8ca9d8a4c8f3143d93c]
 
 - — The Board of Management of City of Glasgow College[^f00017]
-- [^key-3f4c71232df506ab71acef8ec913b0b4]...
+- [^c-3f4c71232df506ab71acef8ec913b0b4]...
 - The Board of Management of Glasgow Clyde College[^f00019]
 - The Board of Management of Glasgow Kelvin College[^f00020]
 - The Board of Management of Inverness College[^f00021]
@@ -205,15 +205,15 @@ The Bill for the Act received Royal Assent on 7th August 2013. Section 23(1) of 
 
 [^f00001]: Footnote: [2013 asp 12](https://www.legislation.gov.uk/asp/2013/12).
 
-[^key-ca0b2e8dafee905f63d134e73c3b8780]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/21/article/1) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-ca0b2e8dafee905f63d134e73c3b8780]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/21/article/1) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
 [^f00002]: Footnote: This definition is inserted into the 2005 Act by paragraph 8(23)(a)(i) of the schedule to the Act (as commenced by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348)).
 
 [^f00003]: Footnote: This definition is inserted into the 2005 Act by paragraph 8(23)(a)(iv) of the schedule to the Act (as commenced by this Order).
 
-[^key-0abad9954811e1377b5b43ab81c63e77]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-0abad9954811e1377b5b43ab81c63e77]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
-[^key-1c2b475a4d61ac4d57ef91da3a586ea2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/21/article/3) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-1c2b475a4d61ac4d57ef91da3a586ea2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/21/article/3) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
 [^f00004]: Footnote: Section 14A is inserted into the 2005 Act by section 17 of the Act and section 19A is inserted by section 16 of the Act (as commenced by this Order).
 
@@ -235,7 +235,7 @@ The Bill for the Act received Royal Assent on 7th August 2013. Section 23(1) of 
 
 [^f00013]: Footnote: Paragraph 4(2)(c) of Schedule 1 is inserted into the 2005 Act by paragraph 8(24) of the schedule to the Act (as commenced by this Order).
 
-[^key-7629c3ee01360c567382c6c971f1eb83]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/21/article/4) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-7629c3ee01360c567382c6c971f1eb83]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/21/article/4) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
 [^f00014]: Footnote: Section 26A is inserted into the 2005 Act by section 19 of the Act (as commenced by this Order).
 
@@ -243,15 +243,15 @@ The Bill for the Act received Royal Assent on 7th August 2013. Section 23(1) of 
 
 [^f00016]: Footnote: Section 7C is inserted into the 2005 Act by section 8(3) of the Act (as commenced by this Order).
 
-[^key-8e305001f54f0fab3959a0fdfff0bde9]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/21/article/5) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-8e305001f54f0fab3959a0fdfff0bde9]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/21/article/5) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
-[^key-54f97178a21ea6d1f8e262dc4570f193]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-54f97178a21ea6d1f8e262dc4570f193]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
-[^key-a12241c0b19fb8ca9d8a4c8f3143d93c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
+[^c-a12241c0b19fb8ca9d8a4c8f3143d93c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2) in force at 3.3.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/21/article/1/1)
 
 [^f00017]: Footnote: City of Glasgow College was established by [S.S.I. 2004/274](https://www.legislation.gov.uk/ssi/2004/274). The name of City of Glasgow College was changed from Glasgow Metropolitan College on 1st August 2012 in accordance with section 3(4) of the 1992 Act. Section 3(4) of the 1992 Act was amended by section 30 of the 2005 Act.
 
-[^key-3f4c71232df506ab71acef8ec913b0b4]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2) omitted (1.4.2014) by virtue of [The Coatbridge College (Transfer and Closure) (Scotland) Order 2014 (S.S.I. 2014/52)](https://www.legislation.gov.uk/ssi/2014/52), [arts. 1](https://www.legislation.gov.uk/ssi/2014/52/article/1), [7](https://www.legislation.gov.uk/ssi/2014/52/article/7)
+[^c-3f4c71232df506ab71acef8ec913b0b4]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2) omitted (1.4.2014) by virtue of [The Coatbridge College (Transfer and Closure) (Scotland) Order 2014 (S.S.I. 2014/52)](https://www.legislation.gov.uk/ssi/2014/52), [arts. 1](https://www.legislation.gov.uk/ssi/2014/52/article/1), [7](https://www.legislation.gov.uk/ssi/2014/52/article/7)
 
 [^f00019]: Footnote: Glasgow Clyde College is prescribed by [S.I. 1992/1597](https://www.legislation.gov.uk/uksi/1992/1597). The name of Glasgow Clyde College was changed from Cardonald College on 1st August 2013 in accordance with section 3(4) of the 1992 Act. Section 3(4) of the 1992 Act was amended by section 30 of the 2005 Act.
 

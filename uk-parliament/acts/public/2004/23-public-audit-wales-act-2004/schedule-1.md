@@ -213,7 +213,7 @@ Section 50
 > - (a) that fact, and
 > - (b) any action taken by the authority as a result of the report.
 
-**14.**[^key-c96cfdf70620df29344110b11c1fae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c96cfdf70620df29344110b11c1fae72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** In section 25 (coordination of inspections etc.), in subsection (2) after paragraph (a) insert—
 
@@ -243,4 +243,4 @@ Section 50
 
 [^c20968741]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2004/23/schedule/1/paragraph/7) wholly in force at 1.4.2005; [para. 7](https://www.legislation.gov.uk/ukpga/2004/23/paragraph/7) not in force at Royal Assent see [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73); [para. 7](https://www.legislation.gov.uk/ukpga/2004/23/paragraph/7) in force for certain purposes at 31.1.2005 by [S.I. 2005/71](https://www.legislation.gov.uk/uksi/2005/71), [art. 2](https://www.legislation.gov.uk/uksi/2005/71/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/71/schedule); [para. 7](https://www.legislation.gov.uk/ukpga/2004/23/paragraph/7) otherwise in force at 1.4.2005 by [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
 
-[^key-c96cfdf70620df29344110b11c1fae72]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2004/23/schedule/1/paragraph/14) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-c96cfdf70620df29344110b11c1fae72]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2004/23/schedule/1/paragraph/14) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

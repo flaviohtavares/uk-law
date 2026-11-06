@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Categories of student[^key-fed41c9d74e64ebbd02577423d9908bf]
+## 80. Categories of student[^c-fed41c9d74e64ebbd02577423d9908bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In this Part—
 
 ## Annotations
 
-[^key-fed41c9d74e64ebbd02577423d9908bf]: Commencement: Reg. 80 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-fed41c9d74e64ebbd02577423d9908bf]: Commencement: Reg. 80 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

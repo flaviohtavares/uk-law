@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Debts of institution to rank equally[^key-07b5cba0571b131331fd8c1475b5912b]
+## 116. Debts of institution to rank equally[^c-07b5cba0571b131331fd8c1475b5912b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Debts, other than preferential debts, rank equally between themselves in the spe
 
 ## Annotations
 
-[^key-07b5cba0571b131331fd8c1475b5912b]: Commencement: [Rule 116](https://www.legislation.gov.uk/nisr/2026/11/rule/116) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-07b5cba0571b131331fd8c1475b5912b]: Commencement: [Rule 116](https://www.legislation.gov.uk/nisr/2026/11/rule/116) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

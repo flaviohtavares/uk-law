@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Trustee’s powers[^key-51b8e225cdc2c8e3d94c0a9692daf2d7]
+## 82. Trustee’s powers[^c-51b8e225cdc2c8e3d94c0a9692daf2d7]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In Article 287 (powers of trustee)—
 
 ## Annotations
 
-[^key-51b8e225cdc2c8e3d94c0a9692daf2d7]: Commencement: S. 82 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-51b8e225cdc2c8e3d94c0a9692daf2d7]: Commencement: S. 82 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

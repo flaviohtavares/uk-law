@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Power to operate and use railway[^key-f0a3b27a527968a22e4fa204947f2e9a]
+## 42. Power to operate and use railway[^c-f0a3b27a527968a22e4fa204947f2e9a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a3b27a527968a22e4fa204947f2e9a]: Commencement: Art. 42 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-f0a3b27a527968a22e4fa204947f2e9a]: Commencement: Art. 42 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

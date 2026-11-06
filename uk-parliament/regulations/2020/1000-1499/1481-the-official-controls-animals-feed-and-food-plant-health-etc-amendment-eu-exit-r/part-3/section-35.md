@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendments to Commission Delegated Regulation (EU) 2019/2122 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers' personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market[^key-2458df6d98094dfb3af1687d775a9f93]
+## 35. Amendments to Commission Delegated Regulation (EU) 2019/2122 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers' personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market[^c-2458df6d98094dfb3af1687d775a9f93]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,7 +110,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2458df6d98094dfb3af1687d775a9f93]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-2458df6d98094dfb3af1687d775a9f93]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368921]: Marginal citation: The definitions of ‘entry into Great Britain’ and ‘entering Great Britain’ in Article 3 of Regulation (EU) 2017/625 are inserted by regulation 3 of the [Official Controls (Animals, Feed and Food, Plant Health etc) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481).
 

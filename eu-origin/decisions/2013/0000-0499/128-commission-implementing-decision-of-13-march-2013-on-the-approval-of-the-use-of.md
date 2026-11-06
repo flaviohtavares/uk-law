@@ -101,7 +101,7 @@ HAS ADOPTED THIS DECISION:
 
 2. The CO<sub>2</sub> reduction from the use of LEDs in the lighting functions referred to in paragraph 1 shall be determined using the methodology set out in the Annex. The CO<sub>2</sub> reduction shall be determined as the total reduction of the combination of the use of LEDs in the three lighting functions specified.
 
-**Article 2.**[^key-13a12ffe90216a8cae42f5dbb2a3093b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-13a12ffe90216a8cae42f5dbb2a3093b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 13 March 2013.
 
@@ -242,7 +242,7 @@ The statistical significance of the measured effects is to be determined by calc
 
 [^f00005]: Footnote: [OJ L 199, 28.7.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.199.01.0001.01.ENG).
 
-[^key-13a12ffe90216a8cae42f5dbb2a3093b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2013/128/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13a12ffe90216a8cae42f5dbb2a3093b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2013/128/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: Electric energy consumption as determined in the Technical Guidelines for the preparation of applications for the approval of innovative technologies pursuant to Regulation (EC) No 443/2009, ‘the Technical Guidelines’.
 

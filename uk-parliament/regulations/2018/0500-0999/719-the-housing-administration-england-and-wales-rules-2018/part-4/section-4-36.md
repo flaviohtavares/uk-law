@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.36. Final costs certificate[^key-855f337a2312eccb9dc364bfdfefaa16]
+## 4.36. Final costs certificate[^c-855f337a2312eccb9dc364bfdfefaa16]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-855f337a2312eccb9dc364bfdfefaa16]: Commencement: Rule 4.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-855f337a2312eccb9dc364bfdfefaa16]: Commencement: Rule 4.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE ZA1 — MORATORIUM: ELIGIBLE COMPANIES[^M_C_a76197b8-1d30-4537-84e7-96fc66b12f24][^M_C_7ea576e3-dffb-445d-ce42-c82275ae7c3c][^key-69768d1c22d59000a6205b12b15b90a5]
+## SCHEDULE ZA1 — MORATORIUM: ELIGIBLE COMPANIES[^M_C_a76197b8-1d30-4537-84e7-96fc66b12f24][^M_C_7ea576e3-dffb-445d-ce42-c82275ae7c3c][^c-69768d1c22d59000a6205b12b15b90a5]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ Article 13AA
 
 ### Parties to capital market arrangement
 
-**13.**[^key-9f6bf0a89a8b9e594d99599c584ba0b3][^key-85fc1348dfcd6b33f9dddd6c0ea79e80] (1) A company is excluded from being eligible if, on the filing date—
+**13.**[^c-9f6bf0a89a8b9e594d99599c584ba0b3][^c-85fc1348dfcd6b33f9dddd6c0ea79e80] (1) A company is excluded from being eligible if, on the filing date—
 
 - (a) it is a party to an agreement which is or forms part of a capital market arrangement (see sub-paragraph (2)),
 - (b) a party has incurred, or when the agreement was entered into was expected to incur, a debt of at least £10 million under the arrangement (at any time during the life of the capital market arrangement), and
@@ -190,7 +190,7 @@ Article 13AA
 (5) Condition B is that the investment consists of a bond or commercial paper issued to one or more of the following—
 
 - (a) an investment professional within the meaning of article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (S.I. 2005/1529);
-- (b) a person who, when the agreement mentioned in paragraph 13(1) is entered into, is a [^key-cdba3e8efc14003758f4796e7408a8c9]... high net worth individual in relation to a communication within the meaning of article 48(2) of that Order;
+- (b) a person who, when the agreement mentioned in paragraph 13(1) is entered into, is a [^c-cdba3e8efc14003758f4796e7408a8c9]... high net worth individual in relation to a communication within the meaning of article 48(2) of that Order;
 - (c) a person to whom article 49(2) of that Order applies (high net worth company, etc);
 - (d) a person who, when the agreement mentioned in paragraph 13(1) is entered into, is a certified sophisticated investor in relation to a communication within the meaning of article 50(1) of that Order;
 - (e) a person in a State other than the United Kingdom who under the law of that State is not prohibited from investing in bonds or commercial paper.
@@ -209,7 +209,7 @@ Article 13AA
 
 ### Public-private partnership project companies
 
-**15.**[^key-8a51521c0f560c4b959b4fbd5cc0ae43][^key-315f5350a9e7f006884360e69713afa5] (1) A company is excluded from being eligible if, on the filing date, it is a project company of a project which—
+**15.**[^c-8a51521c0f560c4b959b4fbd5cc0ae43][^c-315f5350a9e7f006884360e69713afa5] (1) A company is excluded from being eligible if, on the filing date, it is a project company of a project which—
 
 - (a) is a public-private partnership project (see paragraph 16), and
 - (b) includes step-in rights (see paragraph 17).
@@ -265,7 +265,7 @@ Article 13AA
 
 ### Overseas companies with corresponding functions
 
-**18.**[^M_C_76db95d6-2338-475c-f6d6-40fd318eacc1][^key-b461af35759e6fb37e822d282a0a6492] A company is excluded from being eligible if its registered office or head office is outside the United Kingdom and—
+**18.**[^M_C_76db95d6-2338-475c-f6d6-40fd318eacc1][^c-b461af35759e6fb37e822d282a0a6492] A company is excluded from being eligible if its registered office or head office is outside the United Kingdom and—
 
 - (a) its functions correspond to those of a company mentioned in any of the previous paragraphs of this Schedule apart from paragraph 2 and, if it were a company registered under the Companies Act 2006 in Northern Ireland, it would be excluded from being eligible by that paragraph, or
 - (b) it has entered into a transaction or done anything else that, if done in Northern Ireland by a company registered under the Companies Act 2006 in Northern Ireland, would result in the company being excluded by any of the previous paragraphs of this Schedule apart from paragraph 2.
@@ -300,18 +300,18 @@ Article 13AA
 
 [^M_C_7ea576e3-dffb-445d-ce42-c82275ae7c3c]: Modification: Sch. ZA1 modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 8 para. 7(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/7/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/1))
 
-[^key-69768d1c22d59000a6205b12b15b90a5]: Textual amendment: [Sch. ZA1](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2020/12/schedule/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [13](https://www.legislation.gov.uk/ukpga/2020/12/section/13))
+[^c-69768d1c22d59000a6205b12b15b90a5]: Textual amendment: [Sch. ZA1](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2020/12/schedule/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [13](https://www.legislation.gov.uk/ukpga/2020/12/section/13))
 
-[^key-9f6bf0a89a8b9e594d99599c584ba0b3]: Modification: [Sch. ZA1 para. 13](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/13) modified (14.12.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2020 (S.R. 2020/320)](https://www.legislation.gov.uk/nisr/2020/320), [regs. 1](https://www.legislation.gov.uk/nisr/2020/320/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2020/320/regulation/2/5/a)
+[^c-9f6bf0a89a8b9e594d99599c584ba0b3]: Modification: [Sch. ZA1 para. 13](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/13) modified (14.12.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2020 (S.R. 2020/320)](https://www.legislation.gov.uk/nisr/2020/320), [regs. 1](https://www.legislation.gov.uk/nisr/2020/320/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2020/320/regulation/2/5/a)
 
-[^key-85fc1348dfcd6b33f9dddd6c0ea79e80]: Modification: [Sch. ZA1 para. 13](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/13) modified (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2021 (S.R. 2021/106)](https://www.legislation.gov.uk/nisr/2021/106), [regs. 1](https://www.legislation.gov.uk/nisr/2021/106/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2021/106/regulation/2/5/a)
+[^c-85fc1348dfcd6b33f9dddd6c0ea79e80]: Modification: [Sch. ZA1 para. 13](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/13) modified (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2021 (S.R. 2021/106)](https://www.legislation.gov.uk/nisr/2021/106), [regs. 1](https://www.legislation.gov.uk/nisr/2021/106/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2021/106/regulation/2/5/a)
 
-[^key-cdba3e8efc14003758f4796e7408a8c9]: Textual amendment: Word in [Sch. ZA1 para. 14(5)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/14/5/b) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/17/2)
+[^c-cdba3e8efc14003758f4796e7408a8c9]: Textual amendment: Word in [Sch. ZA1 para. 14(5)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/14/5/b) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/17/2)
 
-[^key-8a51521c0f560c4b959b4fbd5cc0ae43]: Modification: [Sch. ZA1 para. 15](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/15) modified (14.12.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2020 (S.R. 2020/320)](https://www.legislation.gov.uk/nisr/2020/320), [regs. 1](https://www.legislation.gov.uk/nisr/2020/320/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2020/320/regulation/2/5/b)
+[^c-8a51521c0f560c4b959b4fbd5cc0ae43]: Modification: [Sch. ZA1 para. 15](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/15) modified (14.12.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2020 (S.R. 2020/320)](https://www.legislation.gov.uk/nisr/2020/320), [regs. 1](https://www.legislation.gov.uk/nisr/2020/320/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2020/320/regulation/2/5/b)
 
-[^key-315f5350a9e7f006884360e69713afa5]: Modification: [Sch. ZA1 para. 15](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/15) modified (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2021 (S.R. 2021/106)](https://www.legislation.gov.uk/nisr/2021/106), [regs. 1](https://www.legislation.gov.uk/nisr/2021/106/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2021/106/regulation/2/5/b)
+[^c-315f5350a9e7f006884360e69713afa5]: Modification: [Sch. ZA1 para. 15](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/15) modified (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2021 (S.R. 2021/106)](https://www.legislation.gov.uk/nisr/2021/106), [regs. 1](https://www.legislation.gov.uk/nisr/2021/106/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2021/106/regulation/2/5/b)
 
 [^M_C_76db95d6-2338-475c-f6d6-40fd318eacc1]: Modification: Sch. ZA1 para. 18 modified (14.12.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2020 (S.R. 2020/320)](https://www.legislation.gov.uk/nisr/2020/320), [regs. 1](https://www.legislation.gov.uk/nisr/2020/320/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2020/320/regulation/2/5/d)
 
-[^key-b461af35759e6fb37e822d282a0a6492]: Modification: [Sch. ZA1 para. 18](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/18) modified (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2021 (S.R. 2021/106)](https://www.legislation.gov.uk/nisr/2021/106), [regs. 1](https://www.legislation.gov.uk/nisr/2021/106/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2021/106/regulation/2/5/c)
+[^c-b461af35759e6fb37e822d282a0a6492]: Modification: [Sch. ZA1 para. 18](https://www.legislation.gov.uk/nisi/1989/2405/schedule/ZA1/paragraph/18) modified (29.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading) Regulations (Northern Ireland) 2021 (S.R. 2021/106)](https://www.legislation.gov.uk/nisr/2021/106), [regs. 1](https://www.legislation.gov.uk/nisr/2021/106/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2021/106/regulation/2/5/c)

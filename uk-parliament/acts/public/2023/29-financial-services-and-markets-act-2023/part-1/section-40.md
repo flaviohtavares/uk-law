@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Duty to co-operate and consult in exercising functions[^key-4e4092cea530177aa229087e8e6aeaee][^key-41bdf1339303828c4b6281df5b432442]
+## 40. Duty to co-operate and consult in exercising functions[^c-4e4092cea530177aa229087e8e6aeaee][^c-41bdf1339303828c4b6281df5b432442]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e4092cea530177aa229087e8e6aeaee]: Commencement: S. 40 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4e4092cea530177aa229087e8e6aeaee]: Commencement: S. 40 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-41bdf1339303828c4b6281df5b432442]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/29/section/40) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/dd)
+[^c-41bdf1339303828c4b6281df5b432442]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/29/section/40) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/dd)

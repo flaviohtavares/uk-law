@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Authority to survey and investigate the land[^key-2da950a5f31f355ea3e56c16b3b6baa3]
+## 21. Authority to survey and investigate the land[^c-2da950a5f31f355ea3e56c16b3b6baa3]
 
 *Extent: E+W+S*
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
 
-- (a) survey, monitor or investigate the land[^key-2f168916c047008cf2e28c8442cba9e3]... (including any watercourses, groundwater, static water bodies or vegetation on the land);
+- (a) survey, monitor or investigate the land[^c-2f168916c047008cf2e28c8442cba9e3]... (including any watercourses, groundwater, static water bodies or vegetation on the land);
 - (b) without prejudice to the generality of sub-paragraph (a), survey, monitor or investigate the land and any buildings on that land for the purpose of investigating the potential effects of the authorised development on that land or buildings on that land or for enabling the construction, use and maintenance of the authorised development;
 - (c) without limitation on the scope of sub-paragraph (a), make trial holes, boreholes, excavations or take horizontal cores in such positions on the land as the undertaker thinks fit to investigate the nature of the surface layer, subsoil, groundwater and other materials below ground level or remove soil, rock, water or other material samples and discharge water from sampling operations on to the land;
 - (d) without limitation on the scope of sub-paragraph (a), carry out ecological or archaeological investigations and monitoring on the land, including making any excavations or trial holes on the land for such purposes; and
@@ -69,6 +69,6 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-2da950a5f31f355ea3e56c16b3b6baa3]: Commencement: Art. 21 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-2da950a5f31f355ea3e56c16b3b6baa3]: Commencement: Art. 21 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-2f168916c047008cf2e28c8442cba9e3]: Textual amendment: Art. 21(1)(a): semicolon omitted (12.6.2024) by virtue of [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-2f168916c047008cf2e28c8442cba9e3]: Textual amendment: Art. 21(1)(a): semicolon omitted (12.6.2024) by virtue of [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)

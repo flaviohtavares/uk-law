@@ -78,7 +78,7 @@ summary: ''
 (2) In section 12 of that Act (information about chargeable gains)—
 
 - (a) in subsection (1) for the words “Section 8” there shall be substituted the words “ Sections 8 and 8A ” and for the words “it applies” there shall be substituted the words “ they apply ”;
-- (b)[^key-e7c51db22a7086acd59614174e66563b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e7c51db22a7086acd59614174e66563b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (4) the words “**of income of a partnership**” shall be omitted.
 
 (3) In section 93 of that Act (penalties) in subsection (1) for the words “9 of this Act (or either” there shall be substituted the words “ 8A or 9 of this Act (or any ”.
@@ -91,4 +91,4 @@ summary: ''
 
 [^c12830971]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-e7c51db22a7086acd59614174e66563b]: Textual amendment: [S. 90(2)(b)](https://www.legislation.gov.uk/ukpga/1990/29/section/90/2/b) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(d)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/d)
+[^c-e7c51db22a7086acd59614174e66563b]: Textual amendment: [S. 90(2)(b)](https://www.legislation.gov.uk/ukpga/1990/29/section/90/2/b) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(d)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/d)

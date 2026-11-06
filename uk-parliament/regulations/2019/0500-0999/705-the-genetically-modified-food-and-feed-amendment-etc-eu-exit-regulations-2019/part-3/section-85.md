@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Amendment of Commission Decision [2007/703/EC](https://www.legislation.gov.uk/eud/2007/703)[^key-83ec65ab836804385c3a0e00b72850ac]
+## 85. Amendment of Commission Decision [2007/703/EC](https://www.legislation.gov.uk/eud/2007/703)[^c-83ec65ab836804385c3a0e00b72850ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision [2007/703/EC](https://www.legislation.gov.uk/eud/2007/703) a
 
 ## Annotations
 
-[^key-83ec65ab836804385c3a0e00b72850ac]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-83ec65ab836804385c3a0e00b72850ac]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

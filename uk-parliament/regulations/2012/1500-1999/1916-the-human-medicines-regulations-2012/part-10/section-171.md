@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-086d38c3153b5ea130f4fc742ba7dceb] This regulation does not apply to an MM medicinal product or a POC medicinal product.
+(A1)[^c-086d38c3153b5ea130f4fc742ba7dceb] This regulation does not apply to an MM medicinal product or a POC medicinal product.
 
 (1) The prohibitions in regulation 46 (requirement for authorisation) do not apply in relation to an advanced therapy medicinal product (an “exempt advanced therapy medicinal product”) if the following conditions are met.
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) on a non-routine basis;
 - (b) in the United Kingdom; and
-- (c) according to specific quality standards equivalent to those provided for advanced therapy medicinal products authorised under regulation 49(1)[^key-bee2023cb091b6e21ccc8e3ed93f2eb1].
+- (c) according to specific quality standards equivalent to those provided for advanced therapy medicinal products authorised under regulation 49(1)[^c-bee2023cb091b6e21ccc8e3ed93f2eb1].
 
 (3) Condition B is that the product is used—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-086d38c3153b5ea130f4fc742ba7dceb]: Textual amendment: [Reg. 171(A1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/171/A1) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/87/regulation/24)
+[^c-086d38c3153b5ea130f4fc742ba7dceb]: Textual amendment: [Reg. 171(A1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/171/A1) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/87/regulation/24)
 
-[^key-bee2023cb091b6e21ccc8e3ed93f2eb1]: Textual amendment: Words in [reg. 171(2)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/171/2/c) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [72](https://www.legislation.gov.uk/uksi/2024/832/regulation/72)
+[^c-bee2023cb091b6e21ccc8e3ed93f2eb1]: Textual amendment: Words in [reg. 171(2)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/171/2/c) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [72](https://www.legislation.gov.uk/uksi/2024/832/regulation/72)

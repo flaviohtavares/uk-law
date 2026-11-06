@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendments to the Disqualification from Caring for Children (England) Regulations 2002[^key-28849499aee7f72486b35372c8661c0c]
+## 38. Amendments to the Disqualification from Caring for Children (England) Regulations 2002[^c-28849499aee7f72486b35372c8661c0c]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28849499aee7f72486b35372c8661c0c]: Commencement: Reg. 38 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-28849499aee7f72486b35372c8661c0c]: Commencement: Reg. 38 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00041]: Footnote: [S.I. 2002/635](https://www.legislation.gov.uk/uksi/2002/635); relevant amending instruments are [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581), [2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), [2018/48](https://www.legislation.gov.uk/uksi/2018/48), [2019/237](https://www.legislation.gov.uk/uksi/2019/237).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Assurance as regards prosecution for person served with enforcement notice[^key-c6d356cf6ed041c73176dc4f2a2a2213]
+## 125. Assurance as regards prosecution for person served with enforcement notice[^c-c6d356cf6ed041c73176dc4f2a2a2213]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In the Town and Country Planning Act 1990 after section 172 (issue and service o
 
 ## Annotations
 
-[^key-c6d356cf6ed041c73176dc4f2a2a2213]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2011/20/section/125) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-c6d356cf6ed041c73176dc4f2a2a2213]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2011/20/section/125) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

@@ -51,7 +51,7 @@ The title of these Regulations is the Landfill Disposals Tax (Tax Rates) (Wales)
 
 ## 2. Application
 
-These Regulations have effect in relation to a taxable disposal made on or after 1 April 2019 but before 1 April 2020[^key-139b3b90a888e6f9fc3565e69b02dbc9].
+These Regulations have effect in relation to a taxable disposal made on or after 1 April 2019 but before 1 April 2020[^c-139b3b90a888e6f9fc3565e69b02dbc9].
 
 ## 3. Rates of landfill disposals tax
 
@@ -83,6 +83,6 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23529601]: Marginal citation: 2017 anaw 3.
 
-[^key-139b3b90a888e6f9fc3565e69b02dbc9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/1209/regulation/2) inserted (1.4.2020) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/95)](https://www.legislation.gov.uk/wsi/2020/95), [regs. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1), [4](https://www.legislation.gov.uk/wsi/2020/95/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/95/regulation/2))
+[^c-139b3b90a888e6f9fc3565e69b02dbc9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/1209/regulation/2) inserted (1.4.2020) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/95)](https://www.legislation.gov.uk/wsi/2020/95), [regs. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1), [4](https://www.legislation.gov.uk/wsi/2020/95/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/95/regulation/2))
 
 [^c23529611]: Marginal citation: [S.I. 2018/131](https://www.legislation.gov.uk/uksi/2018/131) (W. 33).

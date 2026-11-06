@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. School admissions: supplementary[^key-89a41217db1d4e7450b2c4606e7817b6][^key-f79fdb881edd61d8f79003e01a71fd2c]
+## 153. School admissions: supplementary[^c-89a41217db1d4e7450b2c4606e7817b6][^c-f79fdb881edd61d8f79003e01a71fd2c]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89a41217db1d4e7450b2c4606e7817b6]: Commencement: S. 153 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a)
+[^c-89a41217db1d4e7450b2c4606e7817b6]: Commencement: S. 153 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a)
 
-[^key-f79fdb881edd61d8f79003e01a71fd2c]: Commencement: S. 153 in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a)
+[^c-f79fdb881edd61d8f79003e01a71fd2c]: Commencement: S. 153 in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a)

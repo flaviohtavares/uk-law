@@ -22,7 +22,7 @@ summary: ''
 
 (1) A medical practitioner, in the course of treating a patient to whom the practitioner is providing treatment under the agreement, must comply with the following paragraphs.
 
-(2) The medical practitioner must not order on a listed prescription items[^key-7a5fb085a8b4cb2b695b0a9d675f2a66] voucher, prescription form or a repeatable prescription a drug, medicine or other substance specified in any directions given by the Secretary of State under section 88 of the Act (GMS contracts: prescription of drugs etc) as being a drug, medicine or other substance which may not be ordered for patients in the provision of medical services under a general medical services contract.
+(2) The medical practitioner must not order on a listed prescription items[^c-7a5fb085a8b4cb2b695b0a9d675f2a66] voucher, prescription form or a repeatable prescription a drug, medicine or other substance specified in any directions given by the Secretary of State under section 88 of the Act (GMS contracts: prescription of drugs etc) as being a drug, medicine or other substance which may not be ordered for patients in the provision of medical services under a general medical services contract.
 
 (3) The medical practitioner must not order on a listed prescription items voucher, a prescription form or repeatable prescription a drug, medicine or other substance specified in any directions given by the Secretary of State under section 88 of the Act (GMS contracts: prescription of drugs etc) as being a drug, medicine or other substance which can be ordered for specified patients and specified purposes unless—
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) the drug, medicine or other substance is prescribed for that patient only for the specified purpose; and
 - (c) if the order is on a prescription form, the practitioner includes on the form—
   - (i) the reference “SLS”, or
-  - (ii) if the order is under arrangements made by the Secretary of State or NHS England[^key-9520329cffeb7671913a444ac58ebf84] for the distribution of a listed prescription item[^key-c08e9f58315d66ba475b39a47f5ead6e] free of charge, the reference “ACP”.
+  - (ii) if the order is under arrangements made by the Secretary of State or NHS England[^c-9520329cffeb7671913a444ac58ebf84] for the distribution of a listed prescription item[^c-c08e9f58315d66ba475b39a47f5ead6e] free of charge, the reference “ACP”.
 
 (4) The medical practitioner must not order on a prescription form or repeatable prescription a restricted availability appliance unless—
 
@@ -48,11 +48,11 @@ summary: ''
 
 ## Annotations
 
-[^key-7a5fb085a8b4cb2b695b0a9d675f2a66]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2015/1879/regulation/54) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/23/2)
+[^c-7a5fb085a8b4cb2b695b0a9d675f2a66]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2015/1879/regulation/54) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/23/2)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-c08e9f58315d66ba475b39a47f5ead6e]: Textual amendment: Words in [reg. 54(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/54/3/c/ii) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [23(3)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/23/3)
+[^c-c08e9f58315d66ba475b39a47f5ead6e]: Textual amendment: Words in [reg. 54(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/54/3/c/ii) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [23(3)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/23/3)
 
 [^c22690241]: Marginal citation: [1971 c.38](https://www.legislation.gov.uk/ukpga/1971/38).
 

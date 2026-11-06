@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Recording of broadcast for archival purposes[^key-07cabe7a7f43891f931284b40bbc5025]
+## 75. Recording of broadcast for archival purposes[^c-07cabe7a7f43891f931284b40bbc5025]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07cabe7a7f43891f931284b40bbc5025]: Textual amendment: S. 75 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/8/1)
+[^c-07cabe7a7f43891f931284b40bbc5025]: Textual amendment: S. 75 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/8/1)

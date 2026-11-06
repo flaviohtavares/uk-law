@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Minors and persons under disability[^key-1dbb4716c2dd7ba24e5eb02b1a282b65]
+## 37. Minors and persons under disability[^c-1dbb4716c2dd7ba24e5eb02b1a282b65]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ in which case the Director of Savings may sell, or pay the amount repayable in r
 
 ## Annotations
 
-[^key-1dbb4716c2dd7ba24e5eb02b1a282b65]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-1dbb4716c2dd7ba24e5eb02b1a282b65]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

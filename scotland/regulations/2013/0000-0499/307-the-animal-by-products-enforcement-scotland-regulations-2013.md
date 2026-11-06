@@ -70,7 +70,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**authorised person**” has the meaning given in regulation 23;
 - “**competent authority**” has the meaning given in regulation 3;
 - “**enforcement authority**” has the meaning given in regulation 22(5);
-- “**EU Control Regulation**” means Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation) [^c21932331], as last amended by Council Regulation (EU) No 1385/2013[^key-8d5eeea31375c6fc86538d1948cbd6b4];
+- “**EU Control Regulation**” means Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation) [^c21932331], as last amended by Council Regulation (EU) No 1385/2013[^c-8d5eeea31375c6fc86538d1948cbd6b4];
 - “**EU Implementing Regulation**” means Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive, as amended from time to time [^c21932341];
 - “**premises**” includes—
   - (a) any land, building (including any domestic premises), shed or pen;
@@ -140,7 +140,7 @@ The body or part of a body of any farmed animal that has not been slaughtered fo
 
 In relation to Article 18(1) of the EU Control Regulation (special feeding purposes) and in accordance with Article 13 of the EU Implementing Regulation (special feeding rules), as read with point 3 of Section 1 of Chapter II of Annex VI to that Regulation, the use of a processing plant for Category 2 material which is approved for the purpose of being a collection centre for Category 2 material is authorised as a collection centre.
 
-### 7A. Disposal by means referred to in Article 19(1)(b) of the EU Control Regulation[^key-7f5bb39645fc62211f593ce753d0755c]
+### 7A. Disposal by means referred to in Article 19(1)(b) of the EU Control Regulation[^c-7f5bb39645fc62211f593ce753d0755c]
 
 (1) Subject to paragraph (2), for the purposes of Article 19(1)(b) of the EU Control Regulation (disposal by burning or by burial on site or by other means), the disposal by means referred to in Article 19(1)(b) of Category 1 material referred to in Article 8(a)(v) and (b)(ii) of that Regulation, Category 2 and Category 3 materials in remote areas is authorised.
 
@@ -213,7 +213,7 @@ Operators must report to the Scottish Ministers the results of any tests carried
 - (d) any animal by-product which is moved immediately after generation, via a sealed and leak-proof pipe, to a processing or incineration establishment or plant approved under Article 24(1)(a), (b) or (c) of the EU Control Regulation; or
 - (e) an entire animal body, except an entire poultry body.
 
-(6)[^key-766bb997066bf5e0cc753230125337c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-766bb997066bf5e0cc753230125337c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Registration and approval
 
@@ -383,7 +383,7 @@ An authorised person may, on production, if so required, of his or her duly auth
 - (h) require any person to afford such facilities and assistance with respect to any matters or things within that person's control or in relation to which that person has responsibilities as are necessary to enable the authorised person to exercise any of the powers conferred on the authorised person by this regulation; or
 - (i) mark any animal or animal by-product as the authorised person considers necessary.
 
-(3) Where an authorised person proposes to exercise the power in paragraph (2)(f)(i)[^key-88119e163da6b56c96585f59d475a351] in the case of any article or substance found in or on any premises, the authorised person must—
+(3) Where an authorised person proposes to exercise the power in paragraph (2)(f)(i)[^c-88119e163da6b56c96585f59d475a351] in the case of any article or substance found in or on any premises, the authorised person must—
 
 - (a) if so requested by a person who at the time is present and has responsibilities in relation to those premises, cause anything which is to be done by virtue of that power, to be done in that person's presence; and
 - (b) consult such persons as appear to the authorised person appropriate for the purpose of ascertaining what dangers, if any, there may be in doing anything which is proposed under that power.
@@ -468,7 +468,7 @@ The instruments specified in column 1 of Schedule 3 are revoked to the extent sp
 
 Notwithstanding their revocation, the Animal By-Products (Enforcement) (Scotland) Regulations 2011 [^c21932401] continue to have effect in relation to any amendments made by regulation 28 (consequential amendments) of, and paragraphs 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 38, 39, 40, 41, 42, 43, 44, 45, 51, 52, 53, 54, 55 and 56 of Schedule 2 to, those Regulations.
 
-### 32. Small quantities[^key-776b57394056ce9ceaa7cd3daff03000]
+### 32. Small quantities[^c-776b57394056ce9ceaa7cd3daff03000]
 
 (1) By way of derogation from Article 14 of the EU Control Regulation (disposal and use of Category 3 material), the collection, transport and disposal of small quantities of Category 3 materials as mentioned in Article 10(f) of that Regulation (products or foodstuffs of animal origin no longer intended for human consumption), by means referred to in Article 19(1)(d) of that Regulation (means other than burning or burial on site), is authorised under Article 15 of the EU Implementing Regulation (special rules on collection and disposal), where the requirements of paragraph (2) are satisfied.
 
@@ -550,7 +550,7 @@ Regulation 2(1)
 </tbody>
 </table>
 
-[^key-509075fb01deb8cb9d0d2999cc754e76][^key-85b447a8aaa321bc53afe38790166b8f][^key-75fb33bfec941f49b25ec83d1684143b][^key-f92a62f6fb13e9767211d67fdfc270fd][^key-fee12b8c149543e775e1d71f572dccda]
+[^c-509075fb01deb8cb9d0d2999cc754e76][^c-85b447a8aaa321bc53afe38790166b8f][^c-75fb33bfec941f49b25ec83d1684143b][^c-f92a62f6fb13e9767211d67fdfc270fd][^c-fee12b8c149543e775e1d71f572dccda]
 
 ## SCHEDULE 2 — Consequential amendments
 
@@ -558,9 +558,9 @@ Regulation 29
 
 ### The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991
 
-**1.**[^key-923db46e309358e0cf0f76cf9adc6b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-923db46e309358e0cf0f76cf9adc6b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0db4a188d93bd0d7f418f4d3cf47c990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0db4a188d93bd0d7f418f4d3cf47c990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Older Cattle (Disposal) (Scotland) Regulations 2006
 
@@ -709,7 +709,7 @@ Regulation 29
 
 ### The Waste Management Licensing (Scotland) Regulations 2011
 
-**23.**[^key-a587da6bd82135db15832a714dd85531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a587da6bd82135db15832a714dd85531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Revocations
 
@@ -759,7 +759,7 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^c21932331]: Marginal citation: OJ L 300, 14.11.2009, p.1, amended by Directive 2010/63/EU (OJ L 276, 20.10.2010, p.33).
 
-[^key-8d5eeea31375c6fc86538d1948cbd6b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/2/1) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [13](https://www.legislation.gov.uk/ssi/2019/71/regulation/13)
+[^c-8d5eeea31375c6fc86538d1948cbd6b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/2/1) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [13](https://www.legislation.gov.uk/ssi/2019/71/regulation/13)
 
 [^c21932341]: Marginal citation: OJ L 54, 26.2.2011, p.1.
 
@@ -767,35 +767,35 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^c21932361]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [sections 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406) and 411(2) and (3) and Schedule 17, paragraph 158.
 
-[^key-7f5bb39645fc62211f593ce753d0755c]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2013/307/regulation/7A) inserted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/2)
+[^c-7f5bb39645fc62211f593ce753d0755c]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2013/307/regulation/7A) inserted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/2)
 
 [^c21932371]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3), to which there are amendments not relevant to these Regulations.
 
-[^key-766bb997066bf5e0cc753230125337c2]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2013/307/regulation/11/6) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-766bb997066bf5e0cc753230125337c2]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2013/307/regulation/11/6) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21932381]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), [section 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1) and Schedule 22, paragraph 232(1).
 
 [^c21932391]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3).
 
-[^key-88119e163da6b56c96585f59d475a351]: Textual amendment: Words in reg. 25(3) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/3)
+[^c-88119e163da6b56c96585f59d475a351]: Textual amendment: Words in reg. 25(3) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/3)
 
 [^c21932401]: Marginal citation: [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171) as amended by [S.S.I. 2012/179](https://www.legislation.gov.uk/ssi/2012/179).
 
-[^key-776b57394056ce9ceaa7cd3daff03000]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/ssi/2013/307/regulation/32) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/4)
+[^c-776b57394056ce9ceaa7cd3daff03000]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/ssi/2013/307/regulation/32) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/4)
 
-[^key-509075fb01deb8cb9d0d2999cc754e76]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-509075fb01deb8cb9d0d2999cc754e76]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85b447a8aaa321bc53afe38790166b8f]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85b447a8aaa321bc53afe38790166b8f]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-75fb33bfec941f49b25ec83d1684143b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75fb33bfec941f49b25ec83d1684143b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f92a62f6fb13e9767211d67fdfc270fd]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f92a62f6fb13e9767211d67fdfc270fd]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fee12b8c149543e775e1d71f572dccda]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/5)
+[^c-fee12b8c149543e775e1d71f572dccda]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/5)
 
-[^key-923db46e309358e0cf0f76cf9adc6b32]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/1) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-923db46e309358e0cf0f76cf9adc6b32]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/1) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0db4a188d93bd0d7f418f4d3cf47c990]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0db4a188d93bd0d7f418f4d3cf47c990]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c21932431]: Marginal citation: [S.S.I. 2006/4](https://www.legislation.gov.uk/ssi/2006/4).
 
@@ -811,4 +811,4 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^c21932491]: Marginal citation: [S.S.I. 2010/177](https://www.legislation.gov.uk/ssi/2010/177) relevantly amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171).
 
-[^key-a587da6bd82135db15832a714dd85531]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/23) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a587da6bd82135db15832a714dd85531]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/23) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

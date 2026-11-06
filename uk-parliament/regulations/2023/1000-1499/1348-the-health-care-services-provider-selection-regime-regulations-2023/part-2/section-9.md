@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Direct Award Process C[^key-aabc28265aa104e2d65434e02e8d30f4]
+## 9. Direct Award Process C[^c-aabc28265aa104e2d65434e02e8d30f4]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Step 1 is that the relevant authority decides, taking into account the key criteria and applying the basic selection criteria, whether it is content that the existing provider is satisfying the original contract and will likely satisfy the proposed contract to a sufficient standard.
 
-(3) If the relevant authority is so content, step 2 is that the relevant authority submits for publication on the central digital platform[^key-a8503bf0ac33f83f2a259811483d9665] a notice of intention to make an award to the existing provider.
+(3) If the relevant authority is so content, step 2 is that the relevant authority submits for publication on the central digital platform[^c-a8503bf0ac33f83f2a259811483d9665] a notice of intention to make an award to the existing provider.
 
 (4) The notice referred to in paragraph (3) must include the information set out in Schedule 3.
 
@@ -44,7 +44,7 @@ summary: ''
 
 (9) Step 5 is that the relevant authority enters into the contract after the standstill period has ended in accordance with regulation 12(9) or (10).
 
-(10) Step 6 is that the relevant authority submits for publication on the central digital platform[^key-f78324b4d36ecbbeec1152af6fc3585f] a notice of the award of the contract.
+(10) Step 6 is that the relevant authority submits for publication on the central digital platform[^c-f78324b4d36ecbbeec1152af6fc3585f] a notice of the award of the contract.
 
 (11) The notice referred to in paragraph (10) must—
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aabc28265aa104e2d65434e02e8d30f4]: Commencement: Reg. 9 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-aabc28265aa104e2d65434e02e8d30f4]: Commencement: Reg. 9 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-a8503bf0ac33f83f2a259811483d9665]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/9/3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-a8503bf0ac33f83f2a259811483d9665]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/9/3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
 
-[^key-f78324b4d36ecbbeec1152af6fc3585f]: Textual amendment: Words in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/9/10) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-f78324b4d36ecbbeec1152af6fc3585f]: Textual amendment: Words in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/9/10) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Notice of no dividend or no further dividend[^key-eb28d5aad6486991f4d0a6125345450d]
+## 181. Notice of no dividend or no further dividend[^c-eb28d5aad6486991f4d0a6125345450d]
 
 *Extent: E+W*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) The notice to creditors in paragraph (1) shall also be given to—
 
-- (a) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-702c818f196ea0afae56d5ecc405a78f];
+- (a) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-702c818f196ea0afae56d5ecc405a78f];
 - (b) in a special administration (bank administration), the FSCS; and
 - (c) in a special administration (bank administration), in a case where the Bank of England consented to a distribution, to the Bank of England.
 
 ## Annotations
 
-[^key-eb28d5aad6486991f4d0a6125345450d]: Commencement: [Rule 181](https://www.legislation.gov.uk/uksi/2011/1301/rule/181) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-eb28d5aad6486991f4d0a6125345450d]: Commencement: [Rule 181](https://www.legislation.gov.uk/uksi/2011/1301/rule/181) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-702c818f196ea0afae56d5ecc405a78f]: Textual amendment: Words in [art. 181(2)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/181/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xvii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xvii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-702c818f196ea0afae56d5ecc405a78f]: Textual amendment: Words in [art. 181(2)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/181/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xvii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xvii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

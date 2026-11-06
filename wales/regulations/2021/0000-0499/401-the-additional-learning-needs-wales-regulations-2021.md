@@ -45,7 +45,7 @@ In accordance with section 98(3) of that Act, a draft of these Regulations was l
 
 ## PART 1 — GENERAL
 
-### 1. Title, commencement and revocation[^key-8dec9704f42b0a67f140d21de30accb6]
+### 1. Title, commencement and revocation[^c-8dec9704f42b0a67f140d21de30accb6]
 
 (1) The title of these Regulations is the Additional Learning Needs (Wales) Regulations 2021.
 
@@ -53,7 +53,7 @@ In accordance with section 98(3) of that Act, a draft of these Regulations was l
 
 (3) The Additional Learning Needs Co-ordinator (Wales) Regulations 2020[^f00003] are revoked.
 
-### 2. General interpretation[^key-dc891500ca67aca2d87c9d9ef33da68c]
+### 2. General interpretation[^c-dc891500ca67aca2d87c9d9ef33da68c]
 
 (1) In these Regulations, “the 2018 Act” means the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
 
@@ -63,7 +63,7 @@ In accordance with section 98(3) of that Act, a draft of these Regulations was l
 
 (4) Where these Regulations provide for a period within which, or before the end of which, something is required to be done and the last day of that period is not a working day, the period is extended to include the following working day.
 
-### 3. Giving notice etc. under these Regulations[^key-185214d291d0cbbd7b95f1b489f86ce7]
+### 3. Giving notice etc. under these Regulations[^c-185214d291d0cbbd7b95f1b489f86ce7]
 
 (1) Paragraph (2) applies where a provision of these Regulations requires or authorises (in whatever terms) a governing body, local authority or the Welsh Ministers to—
 
@@ -76,7 +76,7 @@ In accordance with section 98(3) of that Act, a draft of these Regulations was l
 - (b) references in that section to a governing body or local authority were to a governing body, local authority or the Welsh Ministers, and
 - (c) the reference in section 88(4) to section 7 of the Interpretation Act 1978[^f00005] (references to service by post) were to section 13 of the Legislation (Wales) Act 2019[^f00006] (service of documents by post or electronically).
 
-### 4. Giving notice etc. under Part 2 of the 2018 Act: amendment of section 88[^key-27c3818338765d562984aeb368ff4a7e]
+### 4. Giving notice etc. under Part 2 of the 2018 Act: amendment of section 88[^c-27c3818338765d562984aeb368ff4a7e]
 
 At the end of section 88 of the 2018 Act insert—
 
@@ -84,13 +84,13 @@ At the end of section 88 of the 2018 Act insert—
 
 ## PART 2 — INDIVIDUAL DEVELOPMENT PLANS
 
-### 5. Categories of looked after child prescribed under section 15 of the 2018 Act[^key-3a31163ca044d7549a14f240bf7e6ed0]
+### 5. Categories of looked after child prescribed under section 15 of the 2018 Act[^c-3a31163ca044d7549a14f240bf7e6ed0]
 
 A child is not to be treated as looked after for the purposes of the 2018 Act if by or under section 83 of the Social Services and Well-being (Wales) Act 2014[^f00007] (looked after and accommodated children) a personal education plan (within the meaning given by section 83(2A) of that Act) is not required to be included as part of the child’s care and support plan under that section.
 
 ### Local authority decisions on necessity of individual development plans for young people
 
-#### 6. Interpretation of regulations 6 to 9 and Schedule 1[^key-9a8d826fd9326c0cd9825d7afd2b48fa]
+#### 6. Interpretation of regulations 6 to 9 and Schedule 1[^c-9a8d826fd9326c0cd9825d7afd2b48fa]
 
 (1) In this regulation, regulations 7 to 9 and Schedule 1—
 
@@ -110,7 +110,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
   - (ii) the young person is expected to complete or otherwise cease receiving the further education or training;
 - (b) if the duration of the further education or training, or part of it, lasts for at least 38 weeks in any one year period, it, or that part of it, is treated as taking place over one year.
 
-#### 7. Potential programme of study[^key-34fb875438e6134a2f7daeb3c039443b]
+#### 7. Potential programme of study[^c-34fb875438e6134a2f7daeb3c039443b]
 
 (1) This regulation applies to a local authority’s decision under section 14(1)(c)(ii) or 31(6)(b) of the 2018 Act on whether an individual development plan is necessary for a young person who is neither a registered pupil at a maintained school in Wales nor enrolled as a student at an institution in the further education sector in Wales.
 
@@ -140,7 +140,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (8) Regulation 9 applies to all other cases.
 
-#### 8. Necessity of a plan: programmes of study at maintained schools and further education institutions in Wales and certain institutions in England[^key-c64d8de1628d3ac5a920e271e2e73876]
+#### 8. Necessity of a plan: programmes of study at maintained schools and further education institutions in Wales and certain institutions in England[^c-c64d8de1628d3ac5a920e271e2e73876]
 
 (1) It is necessary for the local authority to prepare and maintain, or continue to maintain, an individual development plan for the young person if the local authority, in preparing or maintaining the plan for the young person, would be or is under the duty in section 14(6) of the 2018 Act to describe provision of a kind listed in section 14(7) of that Act.
 
@@ -162,7 +162,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (7) References in this regulation to additional learning provision are to the additional learning provision which is called for by the young person’s additional learning needs in order to undertake, or continue to undertake, the programme of study.
 
-#### 9. Other cases: reasonable needs for education or training and necessity of an individual development plan[^key-de7db69531517e5f5fcb52e7254f0995]
+#### 9. Other cases: reasonable needs for education or training and necessity of an individual development plan[^c-de7db69531517e5f5fcb52e7254f0995]
 
 (1) The young person has reasonable needs for education or training where the duration of the suitable programme of study that it is proposed the young person undertake, or continue to undertake, together with any other further education or training undertaken by the young person is not more than 2 years.
 
@@ -179,7 +179,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (6) Otherwise it is not necessary for the local authority to prepare and maintain, or continue to maintain, an individual development plan for the young person.
 
-#### 10. Notification of decision under section 14(1)(c)(ii) of the 2018 Act that plan not necessary[^key-68d03fa3e6eec099fee82f976b308e57]
+#### 10. Notification of decision under section 14(1)(c)(ii) of the 2018 Act that plan not necessary[^c-68d03fa3e6eec099fee82f976b308e57]
 
 (1) This regulation applies where a local authority decides under section 14(1)(c)(ii) of the 2018 Act that it is not necessary to prepare and maintain an individual development plan for a young person.
 
@@ -202,7 +202,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 ### Time limits for section 20 referrals and requesting reconsideration of decision to cease to maintain plans
 
-#### 11. Time limit for NHS body responding to section 20 referral[^key-8a607eb2cf6c929afa74f6a56ac475f0]
+#### 11. Time limit for NHS body responding to section 20 referral[^c-8a607eb2cf6c929afa74f6a56ac475f0]
 
 (1) An NHS body under a duty to inform under section 21(1) or (2) of the 2018 Act (individual development plans: Local Health Boards and NHS trusts) must comply with that duty promptly and in any event within the period prescribed by paragraph (2).
 
@@ -213,7 +213,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (3) The NHS body need not comply with the duty to inform under section 21(1) or (2) within the period prescribed by paragraph (2) if it is impractical to do so due to circumstances beyond its control.
 
-#### 12. Time limit for requesting reconsideration of decision to cease to maintain plan[^key-61b601d1acdf0b52158aca03f37542c8]
+#### 12. Time limit for requesting reconsideration of decision to cease to maintain plan[^c-61b601d1acdf0b52158aca03f37542c8]
 
 (1) The period prescribed for the purposes of section 32(1)(b) of the 2018 Act (reconsideration by local authorities of decisions of governing bodies under section 31)—
 
@@ -224,7 +224,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 ### Transfer of responsibility for individual development plans
 
-#### 13. Local authority request to transfer plan to governing body of further education institution[^key-21e82a89e27691bca952a3776a7c53fd]
+#### 13. Local authority request to transfer plan to governing body of further education institution[^c-21e82a89e27691bca952a3776a7c53fd]
 
 (1) A request by a local authority under section 36(2) of the 2018 Act that a governing body of an institution in the further education sector becomes responsible for maintaining an individual development plan for a young person who is enrolled as a student at the institution must be—
 
@@ -245,7 +245,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (4) In paragraph (2), “term time day” in relation to an institution in the further education sector means a day on which the institution is due to meet for the purpose of teaching students provided that day is within a time period in which the institution delivers the majority of its full-time courses.
 
-#### 14. Local authority referral to the Welsh Ministers to determine whether governing body of further education institution should maintain plan[^key-f24bd6dfd8689b77b4a7be44afeb93c1]
+#### 14. Local authority referral to the Welsh Ministers to determine whether governing body of further education institution should maintain plan[^c-f24bd6dfd8689b77b4a7be44afeb93c1]
 
 (1) This regulation applies in relation to a referral under section 36 of the 2018 Act by a local authority to the Welsh Ministers for a determination as to whether a governing body of an institution in the further education sector should maintain an individual development plan for a young person who is enrolled as a student at the institution.
 
@@ -268,7 +268,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 - (a) on the day which may be specified in the notification under paragraph (4);
 - (b) otherwise on the day on which that notification is received by the governing body.
 
-#### 15. Giving copies of individual development plans in transfer situations[^key-7ba8bf3263ed33256fe3cbf7fad88d0f]
+#### 15. Giving copies of individual development plans in transfer situations[^c-7ba8bf3263ed33256fe3cbf7fad88d0f]
 
 (1) Paragraph (2) applies in each of the following circumstances—
 
@@ -280,7 +280,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (3) But where the old body is not aware of the circumstances giving rise to the transfer of responsibility for the plan, the duty in paragraph (2) does not apply until the old body is aware of those circumstances.
 
-#### 16. Review periods where child has become looked after or child or young person has ceased to be looked after[^key-3e522696d669d018949ce5d621a7ce62]
+#### 16. Review periods where child has become looked after or child or young person has ceased to be looked after[^c-3e522696d669d018949ce5d621a7ce62]
 
 (1) Paragraph (2) applies in each of the following circumstances—
 
@@ -289,7 +289,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (2) For the purposes of determining the review period within which the local authority must, under section 24(1) (for a case within paragraph (1)(a)) or 23(1) (for a case within paragraph (1)(b)) of the 2018 Act, first review the plan following the transfer, sections 23 and 24 of that Act apply (despite section 23(12) for a case within paragraph (1)(a)) as they did immediately before the transfer.
 
-#### 17. Securing other provision where transfer of responsibility for plan[^key-198d54814004564de1fa9322537f6dbe]
+#### 17. Securing other provision where transfer of responsibility for plan[^c-198d54814004564de1fa9322537f6dbe]
 
 (1) Paragraphs (2) and (3) apply where—
 
@@ -302,7 +302,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 ### Detained persons
 
-#### 18. Necessity of individual development plan for detained person upon release[^key-cf78bcd04450b92886b66f7184bbb9c1]
+#### 18. Necessity of individual development plan for detained person upon release[^c-cf78bcd04450b92886b66f7184bbb9c1]
 
 (1) This regulation applies for the purpose of a home authority’s decision under section 40(2)(b) of the 2018 Act.
 
@@ -332,7 +332,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 - (d) details of the home authority’s arrangements for the provision of independent advocacy services under section 69 of the 2018 Act;
 - (e) information about the right to appeal to the Education Tribunal under section 72 of the 2018 Act against the decision.
 
-#### 19. Amendments to section 44 of the 2018 Act[^key-c9afe1f6fd08f1bad58b60ad7a70d1d5]
+#### 19. Amendments to section 44 of the 2018 Act[^c-c9afe1f6fd08f1bad58b60ad7a70d1d5]
 
 (1) Section 44 of the 2018 Act (certain provisions of Part 2 not to apply to children and young persons in detention) is amended as follows—
 
@@ -349,7 +349,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 ### Detention under Part 3 of Mental Health Act 1983; application of 2018 Act
 
-#### 20. Interpretation of regulations 20 to 25 and Schedule 2[^key-3cd95d61cc51872dea9023244d182d53]
+#### 20. Interpretation of regulations 20 to 25 and Schedule 2[^c-3cd95d61cc51872dea9023244d182d53]
 
 (1) For the purposes of this regulation, regulations 21 to 25 and Schedule 2—
 
@@ -363,7 +363,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (3) For the purposes of the definition of “beginning of the detention in hospital” in paragraph (1), it is immaterial whether or not the period of detention is pursuant to a single order.
 
-#### 21. Relevant local authority[^key-f7ca2b0e0fcf1318980b7bdcf462b02e]
+#### 21. Relevant local authority[^c-f7ca2b0e0fcf1318980b7bdcf462b02e]
 
 (1) Where the child or young person was a detained person immediately before the beginning of the child or young person’s detention in hospital under Part 3 of the 1983 Act, “the relevant local authority” means the child or young person’s home authority.
 
@@ -380,7 +380,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (6) In determining for the purpose of paragraph (2) where a child or young person is ordinarily resident, any period when the person is subject to a detention order is to be disregarded.
 
-#### 22. Child or young person with individual development plan prior to detention in hospital[^key-e96311ad0549ddce8361d0d098f197ff]
+#### 22. Child or young person with individual development plan prior to detention in hospital[^c-e96311ad0549ddce8361d0d098f197ff]
 
 (1) This regulation applies where—
 
@@ -413,7 +413,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 - (c) notification of a decision that the child or young person no longer has additional learning needs;
 - (d) if the person is a young person, notification of a decision that it is no longer necessary to maintain the plan to meet the young person’s reasonable needs for education or training.
 
-#### 23. Child or young person without individual development plan prior to detention in hospital[^key-e268be095d5bdc24db6b37dfb15245e9]
+#### 23. Child or young person without individual development plan prior to detention in hospital[^c-e268be095d5bdc24db6b37dfb15245e9]
 
 (1) This regulation applies where—
 
@@ -430,7 +430,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (3) The 2018 Act and other provisions under Part 2 of that Act (including these Regulations) apply with the modifications provided for in Schedule 2 in relation to the child or young person while that child or young person is subject to a detention order and detained in hospital under Part 3 of the 1983 Act (in particular, see section 13).
 
-#### 24. Release of child or young person detained in hospital[^key-8e3f6d1e83dd88dcee3c8deea82e5e56]
+#### 24. Release of child or young person detained in hospital[^c-8e3f6d1e83dd88dcee3c8deea82e5e56]
 
 (1) This regulation applies where—
 
@@ -441,7 +441,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 (2) The local authority mentioned in paragraph (1)(c) must maintain the individual development plan; and the plan is to be treated as maintained under section 14 of the 2018 Act for the purposes of Part 2 of that Act.
 
-#### 25. Child or young person transfers from hospital detention to detention in relevant youth accommodation[^key-a1399a9286635d745eba5132d2ee7d12]
+#### 25. Child or young person transfers from hospital detention to detention in relevant youth accommodation[^c-a1399a9286635d745eba5132d2ee7d12]
 
 (1) This regulation applies where a child or young person subject to a detention order transfers from detention in hospital under Part 3 of the 1983 Act to detention in relevant youth accommodation in Wales or England (for where such a child or young person transfers to detention in accommodation other than relevant youth accommodation in Wales or England, see section 562 of the Education Act 1996[^f00012] and section 44 of the 2018 Act).
 
@@ -451,7 +451,7 @@ A child is not to be treated as looked after for the purposes of the 2018 Act if
 
 ### Additional learning needs co-ordinator
 
-#### 26. Interpretation of regulations 26 to 30[^key-7d640c0570fba11e9fd2a983c2e42a79]
+#### 26. Interpretation of regulations 26 to 30[^c-7d640c0570fba11e9fd2a983c2e42a79]
 
 In this regulation and regulations 27 to 30—
 
@@ -468,18 +468,18 @@ In this regulation and regulations 27 to 30—
 - “school teacher” (“*athro neu athrawes ysgol*”) means a person who is registered with the Education Workforce Council in the category of school teacher as described in table 1 of Schedule 2 to the 2014 Act and does not include a person registered on a provisional basis under section 9(5) of that Act;
 - “special educational needs co-ordinator” (“*cydlynydd anghenion addysgol arbennig*”) means a person having responsibility for co-ordinating the provision for pupils identified as having special educational needs under Part 4 of the Education Act 1996[^f00014].
 
-#### 27. Prescribed qualification or experience of an additional learning needs co-ordinator at a school[^key-4c5b03dc9a94ebbb9c6941e9eef507ee]
+#### 27. Prescribed qualification or experience of an additional learning needs co-ordinator at a school[^c-4c5b03dc9a94ebbb9c6941e9eef507ee]
 
 The governing body of a school may designate a person as an additional learning needs co-ordinator under section 60(2) of the 2018 Act only if that person—
 
 - (a) is a school teacher, or
 - (b) was a special educational needs co-ordinator within the school immediately prior to 4 January 2021[^f00015].
 
-#### 28. Prescribed qualification of an additional learning needs co-ordinator at an institution in the further education sector[^key-701e280af0138c869f26862771eebb09]
+#### 28. Prescribed qualification of an additional learning needs co-ordinator at an institution in the further education sector[^c-701e280af0138c869f26862771eebb09]
 
 The governing body of an institution in the further education sector may designate a person as an additional learning needs co-ordinator under section 60(2) of the 2018 Act only if that person is a further education teacher.
 
-#### 29. Additional learning needs co-ordinator functions at a school[^key-f7f58f2d47f383fac8752d5f8a065cfe]
+#### 29. Additional learning needs co-ordinator functions at a school[^c-f7f58f2d47f383fac8752d5f8a065cfe]
 
 The tasks an additional learning needs co-ordinator at a school is responsible for carrying out, or ensuring are carried out, are—
 
@@ -492,7 +492,7 @@ The tasks an additional learning needs co-ordinator at a school is responsible f
 - (g) supervising and training school learning support workers who work with pupils with additional learning needs, and
 - (h) contributing to in-service training for school teachers at the school to assist the additional learning needs co-ordinator in carrying out the tasks referred to in paragraphs (a) to (e).
 
-#### 30. Additional learning needs co-ordinator functions at an institution in the further education sector[^key-770f8faab6615010d7c51ae2549ae35a]
+#### 30. Additional learning needs co-ordinator functions at an institution in the further education sector[^c-770f8faab6615010d7c51ae2549ae35a]
 
 The tasks an additional learning needs co-ordinator at an institution in the further education sector is responsible for carrying out, or ensuring are carried out, are—
 
@@ -507,7 +507,7 @@ The tasks an additional learning needs co-ordinator at an institution in the fur
 
 ### Time limit for complying with section 65 request
 
-#### 31. Time limit for complying with local authority request for information or other help[^key-e3cc69634a16e2df8dd73beb1b752bf5]
+#### 31. Time limit for complying with local authority request for information or other help[^c-e3cc69634a16e2df8dd73beb1b752bf5]
 
 (1) A person under a duty to comply with a local authority’s request under section 65 of the 2018 Act (duties to provide information and other help) must comply with the request promptly and in any event within the period prescribed by paragraph (2).
 
@@ -523,7 +523,7 @@ The tasks an additional learning needs co-ordinator at an institution in the fur
 
 ### Goods and services
 
-#### 32. Provision of goods or services in relation to additional learning provision[^key-4bcfdc6cfa830233fb3a00ef17d60547]
+#### 32. Provision of goods or services in relation to additional learning provision[^c-4bcfdc6cfa830233fb3a00ef17d60547]
 
 (1) A local authority may supply goods or services to—
 
@@ -538,13 +538,13 @@ provided that the supply of those goods or services is for the purpose of the ex
 
 ### Arrangements for the avoidance and resolution of disputes and independent advocacy services for detained persons
 
-#### 33. Amendment to section 68 of the 2018 Act[^key-00ad3ad3eff6cc5c9e24d4043cb45672]
+#### 33. Amendment to section 68 of the 2018 Act[^c-00ad3ad3eff6cc5c9e24d4043cb45672]
 
 In section 68(8) of the 2018 Act (arrangements for the avoidance and resolution of disagreements), after “area” insert “and detained persons for whom it is the home authority”.
 
 ## PART 4 — PARENTS AND YOUNG PEOPLE LACKING CAPACITY
 
-### 34. Interpretation of this Part[^key-7cb45782e886b8843a1b1075ee1a35aa]
+### 34. Interpretation of this Part[^c-7cb45782e886b8843a1b1075ee1a35aa]
 
 In this Part—
 
@@ -555,7 +555,7 @@ In this Part—
   - (c) an attorney in whom an enduring power of attorney (within the meaning of Schedule 4 to the Mental Capacity Act 2005[^f00017]) created by the parent or young person is vested, where the power of attorney is registered in accordance with paragraphs 4 and 13 of that Schedule or an application for registration of the power of attorney has been made;
   - (d) the young person’s parent, where the young person does not have a representative listed in paragraph (a), (b) or (c).
 
-### 35. When a child’s parent lacks capacity[^key-ef3ae1f1f24a9676a6d5272c143a9812]
+### 35. When a child’s parent lacks capacity[^c-ef3ae1f1f24a9676a6d5272c143a9812]
 
 (1) When a child’s parent lacks capacity at the relevant time, references in the provisions of the 2018 Act listed below to a child’s parent are to be read as references to a representative of that parent—
 
@@ -577,14 +577,14 @@ In this Part—
 
 (3) When a child’s parent lacks capacity at the relevant time, the reference in regulation 22(5)(b) to the child’s parent is to be read as a reference to a representative of that parent.
 
-### 36. When a parent of a child who is a detained person lacks capacity[^key-b23e40ed8df1995fbce2c69b8374ba2b]
+### 36. When a parent of a child who is a detained person lacks capacity[^c-b23e40ed8df1995fbce2c69b8374ba2b]
 
 When a parent of a detained person who is a child lacks capacity at the relevant time—
 
 - (a) references in sections 40(4) and (5)(b) and 42(6) of the 2018 Act to the parent of a detained person who is a child are to be read as references to a representative of that parent;
 - (b) the reference in regulation 18(6) to the child’s parent is to be read as a reference to a representative of that parent.
 
-### 37. When a young person lacks capacity[^key-39862bfbd5c7dc3409c7666ec16558c9]
+### 37. When a young person lacks capacity[^c-39862bfbd5c7dc3409c7666ec16558c9]
 
 (1) When a young person lacks capacity at the relevant time, references to a young person in the provisions of the 2018 Act listed below are to be read as references to the representative of the young person—
 
@@ -615,7 +615,7 @@ When a parent of a detained person who is a child lacks capacity at the relevant
 - (b) regulation 14(3) and (4);
 - (c) regulation 22(5)(a).
 
-### 38. When a detained person who is a young person lacks capacity[^key-f2e55b113db839b2e17df38fc0115331]
+### 38. When a detained person who is a young person lacks capacity[^c-f2e55b113db839b2e17df38fc0115331]
 
 When a detained person who is a young person lacks capacity at the relevant time, the references in the provisions below are to be read as references to a representative of that young person—
 
@@ -626,19 +626,19 @@ When a detained person who is a young person lacks capacity at the relevant time
 - (e) the reference to a young person in the second place it occurs in regulation 18(4)(b);
 - (f) the reference to a detained person in the first place it occurs in regulation 18(6).
 
-### 39. Arrangements for avoidance and resolution of disagreements under section 68 of the 2018 Act[^key-6d808037a8750c5f5cfbbb2418aead51]
+### 39. Arrangements for avoidance and resolution of disagreements under section 68 of the 2018 Act[^c-6d808037a8750c5f5cfbbb2418aead51]
 
 When a child’s parent or a young person lacks capacity at the relevant time, arrangements made by a local authority under section 68 of the 2018 Act must provide for a representative to engage in the arrangements on behalf of that child’s parent or that young person.
 
-### 40. Independent advocacy services under section 69 of the 2018 Act[^key-6b74dc79461545d877bd0494cea090ff]
+### 40. Independent advocacy services under section 69 of the 2018 Act[^c-6b74dc79461545d877bd0494cea090ff]
 
 When a young person for whom a local authority is responsible lacks capacity at the relevant time, that local authority must refer that young person’s representative to an independent advocacy service if the representative requests an independent advocacy service.
 
-### 41. Representation in appeals[^key-cfa8a9ce3351306cb5e1068147bcf0bf]
+### 41. Representation in appeals[^c-cfa8a9ce3351306cb5e1068147bcf0bf]
 
 When a child’s parent, or a parent of a detained person who is a child, lacks capacity at the relevant time, or a young person, or detained person who is a young person, lacks capacity at the relevant time, their representative may appeal to the Education Tribunal for Wales on their behalf and sections 70 and 72 of the 2018 Act are to be interpreted accordingly.
 
-### 42. Mental Capacity Act 2005[^key-1fab1d59a5937b6972c60cad28cd233a]
+### 42. Mental Capacity Act 2005[^c-1fab1d59a5937b6972c60cad28cd233a]
 
 Regulations 35, 36, 37 and 39 have effect despite section 27(1)(g) of the Mental Capacity Act 2005[^f00018].
 
@@ -652,7 +652,7 @@ At 1.40 p.m. on 24 March 2021
 
 Regulations 6, 7 and 9
 
-### 1. Suitable programme of study[^key-96923bd7d65251b8a45e60d50a76e5f3]
+### 1. Suitable programme of study[^c-96923bd7d65251b8a45e60d50a76e5f3]
 
 (1) The factors that the local authority must take into account when determining whether there is a realistic prospect that undertaking a proposed programme of study or continuing to undertake a programme of study (with any proposed modifications to it) would enable the young person to meet the person’s desired outcomes are—
 
@@ -667,7 +667,7 @@ Regulations 6, 7 and 9
 - (c) the proprietor of the educational institution at which a proposed programme of study may be undertaken;
 - (d) persons who provide, or who are employed by bodies that provide, services pursuant to arrangements made or directions given under section 10 of the Employment and Training Act 1973[^f00019] (provision of careers services).
 
-### 2. Additional factors where young person on programme of study[^key-1e43765cf2b17baf6f6f410319b40f36]
+### 2. Additional factors where young person on programme of study[^c-1e43765cf2b17baf6f6f410319b40f36]
 
 Where the young person is already undertaking the programme of study, the local authority may not conclude that there is no longer a realistic prospect that continuing to undertake the programme of study as intended at the outset would enable the young person to meet the person’s desired outcomes unless it has taken into account the following factors—
 
@@ -675,7 +675,7 @@ Where the young person is already undertaking the programme of study, the local 
 - (b) the young person’s expectation of having the opportunity to complete the programme of study as intended at the outset;
 - (c) whether the young person’s capability to learn has been affected by a significant change in the young person’s personal circumstances or needs.
 
-### 3. Programme of study intended to last for more than 2 years[^key-8a22d82307e533401caf5be3884842e8]
+### 3. Programme of study intended to last for more than 2 years[^c-8a22d82307e533401caf5be3884842e8]
 
 (1) The duration of the suitable programme of study that it is proposed the young person undertake (including where it is an additional programme of study under paragraph 5(1)) is intended at the outset to take place over a period of more than 2 years.
 
@@ -686,7 +686,7 @@ Where the young person is already undertaking the programme of study, the local 
   - (ii) whether the young person requires additional time in comparison to the majority of other young people who do not have additional learning needs, to complete the course;
 - (b) where the programme of study is specially designed to provide additional learning provision for the young person, whether there are any exceptional reasons relating to the young person’s capability to learn such that the person’s desired outcomes cannot realistically be met within the period of 2 years.
 
-### 4. Extension to a programme of study[^key-caf27d917c73e850894d0b8cba4b57bd]
+### 4. Extension to a programme of study[^c-caf27d917c73e850894d0b8cba4b57bd]
 
 (1) The young person has been unable to complete a programme of study (including where it is an additional programme of study under paragraph 5(1)) within the programme’s duration as intended at the outset and it is proposed to extend the programme to enable the young person to meet the person’s desired outcomes at the start of the programme (“original outcomes”) or ones that are substantially similar to the original outcomes (“adjusted outcomes”).
 
@@ -700,7 +700,7 @@ Where the young person is already undertaking the programme of study, the local 
   - (i) whether the proposed extension arises from the same facts as the previous one, and
   - (ii) whether there are exceptional reasons why the young person was unable to achieve the outcomes during the previous extension.
 
-### 5. Additional programme of study[^key-de0911c1547f805cd8d1ce4a6fd0393f]
+### 5. Additional programme of study[^c-de0911c1547f805cd8d1ce4a6fd0393f]
 
 (1) The programme of study that it is proposed the young person undertake is additional to further education or training which the young person has already undertaken.
 
@@ -714,7 +714,7 @@ Where the young person is already undertaking the programme of study, the local 
 - (c) where the duration of the previous education or training was less than 2 years, the total duration of that previous education or training and that of the proposed programme of study and whether the extent to which that total duration exceeds 2 years is reasonable in all the circumstances;
 - (d) whether there are any other exceptional circumstances to suggest that the young person has not received effective access to further education or training.
 
-### 6. Other exceptional circumstances[^key-f60a2ebb3554ebd24fa400ff0b570bdf]
+### 6. Other exceptional circumstances[^c-f60a2ebb3554ebd24fa400ff0b570bdf]
 
 (1) The circumstances are substantially similar to one or more of the circumstances set out in paragraph 3(1), 4(1) or 5(1).
 
@@ -724,7 +724,7 @@ Where the young person is already undertaking the programme of study, the local 
 
 Regulations 20, 22 and 23
 
-**1.**[^key-d46668739126f5fa07ba26efeeda3405] (1) The powers and duties conferred or imposed on a local authority by Part 2 of the 2018 Act, by these Regulations or otherwise under that Part, to the extent that they would not apply in relation to a child or young person within sub-paragraph (3) because of section 562 of the Education Act 1996 or section 44(1) of the 2018 Act, apply to the child or young person with the modifications provided for in sub-paragraph (4).
+**1.**[^c-d46668739126f5fa07ba26efeeda3405] (1) The powers and duties conferred or imposed on a local authority by Part 2 of the 2018 Act, by these Regulations or otherwise under that Part, to the extent that they would not apply in relation to a child or young person within sub-paragraph (3) because of section 562 of the Education Act 1996 or section 44(1) of the 2018 Act, apply to the child or young person with the modifications provided for in sub-paragraph (4).
 
 (2) Other provisions of the 2018 Act, these Regulations and any other provisions under Part 2 of that Act, in so far as they apply for the purposes of those powers and duties or otherwise relate to the child or young person, apply in relation to the child or young person with the modifications provided for in sub-paragraph (4).
 
@@ -778,59 +778,59 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The references in section 98(3) to the National Assembly for Wales now have effect as references to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-8dec9704f42b0a67f140d21de30accb6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/401/regulation/1) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-8dec9704f42b0a67f140d21de30accb6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/401/regulation/1) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2020/1351 (W. 299)](https://www.legislation.gov.uk/wsi/2020/1351).
 
-[^key-dc891500ca67aca2d87c9d9ef33da68c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/401/regulation/2) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-dc891500ca67aca2d87c9d9ef33da68c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/401/regulation/2) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). These subsections have been amended by the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), Schedule 4, Part 1, paragraph 47, the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 49 and [S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413), regulations 153 and 157.
 
-[^key-185214d291d0cbbd7b95f1b489f86ce7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/401/regulation/3) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-185214d291d0cbbd7b95f1b489f86ce7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/401/regulation/3) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00006]: Footnote: [2019 anaw 4](https://www.legislation.gov.uk/anaw/2019/4). Section 13 is amended by the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), Schedule 1, paragraph 5(1), (3)(b) and (4)(a). There are other amendments to section 13 which are not relevant.
 
-[^key-27c3818338765d562984aeb368ff4a7e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/401/regulation/4) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-27c3818338765d562984aeb368ff4a7e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/401/regulation/4) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-3a31163ca044d7549a14f240bf7e6ed0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/401/regulation/5) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-3a31163ca044d7549a14f240bf7e6ed0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/401/regulation/5) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00007]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). Section 83(2A) was inserted by, and section 83 more generally amended by, section 16 of the 2018 Act.
 
-[^key-9a8d826fd9326c0cd9825d7afd2b48fa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/401/regulation/6) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-9a8d826fd9326c0cd9825d7afd2b48fa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/401/regulation/6) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-34fb875438e6134a2f7daeb3c039443b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/401/regulation/7) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-34fb875438e6134a2f7daeb3c039443b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/401/regulation/7) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-c64d8de1628d3ac5a920e271e2e73876]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/401/regulation/8) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-c64d8de1628d3ac5a920e271e2e73876]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/401/regulation/8) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-de7db69531517e5f5fcb52e7254f0995]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/401/regulation/9) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-de7db69531517e5f5fcb52e7254f0995]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/401/regulation/9) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-68d03fa3e6eec099fee82f976b308e57]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/401/regulation/10) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-68d03fa3e6eec099fee82f976b308e57]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/401/regulation/10) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-8a607eb2cf6c929afa74f6a56ac475f0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/401/regulation/11) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-8a607eb2cf6c929afa74f6a56ac475f0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/401/regulation/11) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-61b601d1acdf0b52158aca03f37542c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/401/regulation/12) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-61b601d1acdf0b52158aca03f37542c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/401/regulation/12) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-21e82a89e27691bca952a3776a7c53fd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/401/regulation/13) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-21e82a89e27691bca952a3776a7c53fd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/401/regulation/13) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-f24bd6dfd8689b77b4a7be44afeb93c1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2021/401/regulation/14) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-f24bd6dfd8689b77b4a7be44afeb93c1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2021/401/regulation/14) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-7ba8bf3263ed33256fe3cbf7fad88d0f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2021/401/regulation/15) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-7ba8bf3263ed33256fe3cbf7fad88d0f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2021/401/regulation/15) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-3e522696d669d018949ce5d621a7ce62]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2021/401/regulation/16) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-3e522696d669d018949ce5d621a7ce62]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2021/401/regulation/16) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-198d54814004564de1fa9322537f6dbe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2021/401/regulation/17) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-198d54814004564de1fa9322537f6dbe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2021/401/regulation/17) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-cf78bcd04450b92886b66f7184bbb9c1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2021/401/regulation/18) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-cf78bcd04450b92886b66f7184bbb9c1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2021/401/regulation/18) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-c9afe1f6fd08f1bad58b60ad7a70d1d5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2021/401/regulation/19) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-c9afe1f6fd08f1bad58b60ad7a70d1d5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2021/401/regulation/19) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-3cd95d61cc51872dea9023244d182d53]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2021/401/regulation/20) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-3cd95d61cc51872dea9023244d182d53]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2021/401/regulation/20) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00008]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). The Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), section 46 inserted sections 45A and 45B into Part 3. There are other amendments to Part 3 which are not relevant.
 
-[^key-f7ca2b0e0fcf1318980b7bdcf462b02e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2021/401/regulation/21) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-f7ca2b0e0fcf1318980b7bdcf462b02e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2021/401/regulation/21) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00009]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 562J was inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 50. Relevant amendments to it are made by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, Part 1, paragraph 16(1), (2) and (4).
 
@@ -838,74 +838,74 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Sections 22(1) and 105(4) provide for the interpretation of references to a child who is looked after. Section 22(1) has been amended by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), Schedule 5, paragraph 19, the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2(1) and (2) and [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413), regulations 55 and 69(a). Section 105(4) was substituted by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413), regulations 55 and 106(b).
 
-[^key-e96311ad0549ddce8361d0d098f197ff]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2021/401/regulation/22) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-e96311ad0549ddce8361d0d098f197ff]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2021/401/regulation/22) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-e268be095d5bdc24db6b37dfb15245e9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2021/401/regulation/23) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-e268be095d5bdc24db6b37dfb15245e9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2021/401/regulation/23) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-8e3f6d1e83dd88dcee3c8deea82e5e56]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2021/401/regulation/24) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-8e3f6d1e83dd88dcee3c8deea82e5e56]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2021/401/regulation/24) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-a1399a9286635d745eba5132d2ee7d12]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2021/401/regulation/25) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-a1399a9286635d745eba5132d2ee7d12]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2021/401/regulation/25) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00012]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 562 has been amended by the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), Schedule 4, Part 1, paragraph 47, the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 49, [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, Part 1, paragraph 7(1) to (3) and [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413), regulations 153 and 157.
 
-[^key-7d640c0570fba11e9fd2a983c2e42a79]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2021/401/regulation/26) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-7d640c0570fba11e9fd2a983c2e42a79]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2021/401/regulation/26) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00013]: Footnote: [2014 anaw 5](https://www.legislation.gov.uk/anaw/2014/5).
 
 [^f00014]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-4c5b03dc9a94ebbb9c6941e9eef507ee]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/401/regulation/27) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-4c5b03dc9a94ebbb9c6941e9eef507ee]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/401/regulation/27) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00015]: Footnote: The Additional Learning Needs Co-ordinator (Wales) Regulations 2020 ([S.I. 2020/1351 (W. 299)](https://www.legislation.gov.uk/wsi/2020/1351)) came into force on 4 January 2021.
 
-[^key-701e280af0138c869f26862771eebb09]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2021/401/regulation/28) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-701e280af0138c869f26862771eebb09]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2021/401/regulation/28) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-f7f58f2d47f383fac8752d5f8a065cfe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2021/401/regulation/29) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-f7f58f2d47f383fac8752d5f8a065cfe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2021/401/regulation/29) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-770f8faab6615010d7c51ae2549ae35a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2021/401/regulation/30) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-770f8faab6615010d7c51ae2549ae35a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2021/401/regulation/30) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-e3cc69634a16e2df8dd73beb1b752bf5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/401/regulation/31) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-e3cc69634a16e2df8dd73beb1b752bf5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/401/regulation/31) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-4bcfdc6cfa830233fb3a00ef17d60547]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2021/401/regulation/32) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-4bcfdc6cfa830233fb3a00ef17d60547]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2021/401/regulation/32) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-00ad3ad3eff6cc5c9e24d4043cb45672]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2021/401/regulation/33) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-00ad3ad3eff6cc5c9e24d4043cb45672]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2021/401/regulation/33) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-7cb45782e886b8843a1b1075ee1a35aa]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2021/401/regulation/34) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-7cb45782e886b8843a1b1075ee1a35aa]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2021/401/regulation/34) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00016]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
 [^f00017]: Footnote: Relevant amendments to Schedule 4 are made by [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404), Schedule 2, paragraph 53(1) and (6).
 
-[^key-ef3ae1f1f24a9676a6d5272c143a9812]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2021/401/regulation/35) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-ef3ae1f1f24a9676a6d5272c143a9812]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2021/401/regulation/35) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-b23e40ed8df1995fbce2c69b8374ba2b]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2021/401/regulation/36) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-b23e40ed8df1995fbce2c69b8374ba2b]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2021/401/regulation/36) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-39862bfbd5c7dc3409c7666ec16558c9]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2021/401/regulation/37) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-39862bfbd5c7dc3409c7666ec16558c9]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2021/401/regulation/37) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-f2e55b113db839b2e17df38fc0115331]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2021/401/regulation/38) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-f2e55b113db839b2e17df38fc0115331]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2021/401/regulation/38) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-6d808037a8750c5f5cfbbb2418aead51]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2021/401/regulation/39) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-6d808037a8750c5f5cfbbb2418aead51]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2021/401/regulation/39) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-6b74dc79461545d877bd0494cea090ff]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2021/401/regulation/40) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-6b74dc79461545d877bd0494cea090ff]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2021/401/regulation/40) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-cfa8a9ce3351306cb5e1068147bcf0bf]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2021/401/regulation/41) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-cfa8a9ce3351306cb5e1068147bcf0bf]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2021/401/regulation/41) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-1fab1d59a5937b6972c60cad28cd233a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2021/401/regulation/42) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-1fab1d59a5937b6972c60cad28cd233a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2021/401/regulation/42) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00018]: Footnote: Section 27(1)(g) does not permit decisions on discharging parental responsibilities in matters not relating to a child’s property to be made on a person’s behalf.
 
-[^key-96923bd7d65251b8a45e60d50a76e5f3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/1) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-96923bd7d65251b8a45e60d50a76e5f3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/1) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
 [^f00019]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 10 was substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 45 and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, Part 2, paragraph 28(1) and (2). The Secretary of State’s functions under section 10, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2 and Schedule 1 and then to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-1e43765cf2b17baf6f6f410319b40f36]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/2) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-1e43765cf2b17baf6f6f410319b40f36]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/2) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-8a22d82307e533401caf5be3884842e8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/3) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-8a22d82307e533401caf5be3884842e8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/3) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-caf27d917c73e850894d0b8cba4b57bd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/4) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-caf27d917c73e850894d0b8cba4b57bd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/4) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-de0911c1547f805cd8d1ce4a6fd0393f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/5) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-de0911c1547f805cd8d1ce4a6fd0393f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/5) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-f60a2ebb3554ebd24fa400ff0b570bdf]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/6) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-f60a2ebb3554ebd24fa400ff0b570bdf]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2021/401/schedule/1/paragraph/6) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
 
-[^key-d46668739126f5fa07ba26efeeda3405]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2021/401/schedule/2/paragraph/1) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)
+[^c-d46668739126f5fa07ba26efeeda3405]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2021/401/schedule/2/paragraph/1) in force at 1.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2)

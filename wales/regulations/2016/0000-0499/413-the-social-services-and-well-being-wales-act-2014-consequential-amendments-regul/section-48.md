@@ -18,14 +18,14 @@ summary: ''
 
 *Extent: E+W*
 
-**48.**[^key-006f7c03426e8757a38c259fd6bfd3f1] In section 3 (assessment by local authorities in Wales or Scotland of needs of disabled persons)—
+**48.**[^c-006f7c03426e8757a38c259fd6bfd3f1] In section 3 (assessment by local authorities in Wales or Scotland of needs of disabled persons)—
 
 - (a) in subsection (1)[^f00053] omit “Wales or”;
 - (b) in the heading to the section[^f00054] omit “Wales or”.
 
 ## Annotations
 
-[^key-006f7c03426e8757a38c259fd6bfd3f1]: Commencement: Reg. 48 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-006f7c03426e8757a38c259fd6bfd3f1]: Commencement: Reg. 48 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00053]: Footnote: Section 3(1) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914) Schedule, paragraphs 36, 38(1).
 

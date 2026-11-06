@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Sale of aerosol paint to children[^key-f78f622170a4f6c771eb08daeb717354]
+## 32. Sale of aerosol paint to children[^c-f78f622170a4f6c771eb08daeb717354]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ In the Anti-social Behaviour Act 2003 (c. 38), after section 54 (sale of aerosol
 
 ## Annotations
 
-[^key-f78f622170a4f6c771eb08daeb717354]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2005/16/section/32) in force at 1.7.2005 by [S.I. 2005/1675](https://www.legislation.gov.uk/uksi/2005/1675), [art. 2](https://www.legislation.gov.uk/uksi/2005/1675/article/2)
+[^c-f78f622170a4f6c771eb08daeb717354]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2005/16/section/32) in force at 1.7.2005 by [S.I. 2005/1675](https://www.legislation.gov.uk/uksi/2005/1675), [art. 2](https://www.legislation.gov.uk/uksi/2005/1675/article/2)

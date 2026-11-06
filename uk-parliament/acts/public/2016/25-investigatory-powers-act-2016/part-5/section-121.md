@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Notification of modifications[^key-a8a957e5bded16ea63be1870d35c0adc]
+## 121. Notification of modifications[^c-a8a957e5bded16ea63be1870d35c0adc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,13 +30,13 @@ summary: ''
 
 (3) Where a modification is made by a senior official in accordance with section 119(1) or section 120(5)(a)(ii), the Secretary of State or (in the case of a warrant issued by the Scottish Ministers) a member of the Scottish Government must be notified personally of the modification and the reasons for making it.
 
-(4)[^key-21ee70ea168d8b77450300e32a529d6b] But subsection (3) does not apply where the modification—
+(4)[^c-21ee70ea168d8b77450300e32a529d6b] But subsection (3) does not apply where the modification—
 
 - (a) is made in accordance with section 119(1), and
 - (b) is to remove any matter, name or description included in the warrant in accordance with section 115(3) to (5).
 
 ## Annotations
 
-[^key-a8a957e5bded16ea63be1870d35c0adc]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2016/25/section/121) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/k)
+[^c-a8a957e5bded16ea63be1870d35c0adc]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2016/25/section/121) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/k)
 
-[^key-21ee70ea168d8b77450300e32a529d6b]: Textual amendment: [S. 121(4)](https://www.legislation.gov.uk/ukpga/2016/25/section/121/4) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 25](https://www.legislation.gov.uk/ukpga/2024/9/section/25), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/w)
+[^c-21ee70ea168d8b77450300e32a529d6b]: Textual amendment: [S. 121(4)](https://www.legislation.gov.uk/ukpga/2016/25/section/121/4) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 25](https://www.legislation.gov.uk/ukpga/2024/9/section/25), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/w)

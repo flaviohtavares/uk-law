@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Safety case for dismantling fixed installation[^key-2ba81c2090f2e79e43910cbea9e03dca]
+## 20. Safety case for dismantling fixed installation[^c-2ba81c2090f2e79e43910cbea9e03dca]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba81c2090f2e79e43910cbea9e03dca]: Commencement: Reg. 20 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-2ba81c2090f2e79e43910cbea9e03dca]: Commencement: Reg. 20 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

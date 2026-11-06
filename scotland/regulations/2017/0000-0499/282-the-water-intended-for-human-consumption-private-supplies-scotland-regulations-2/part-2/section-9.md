@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Access to information[^key-ccf18d4adfe4ac419e5ed54006b6e126]
+## 9. Access to information[^c-ccf18d4adfe4ac419e5ed54006b6e126]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ details of, or copies of, such information included in the register as they may 
 
 ## Annotations
 
-[^key-ccf18d4adfe4ac419e5ed54006b6e126]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/282/regulation/9) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-ccf18d4adfe4ac419e5ed54006b6e126]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/282/regulation/9) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

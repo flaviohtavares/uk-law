@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2B — INTERNATIONAL TRADE MARKS PROTECTED IN THE EUROPEAN UNION[^key-08333d3cd16c29daba77f4cf78955ebd]
+## SCHEDULE 2B — INTERNATIONAL TRADE MARKS PROTECTED IN THE EUROPEAN UNION[^c-08333d3cd16c29daba77f4cf78955ebd]
 
 *Extent: E+W+S+N.I.*
 
@@ -657,4 +657,4 @@ the seniority claimed for the relevant mark is to be treated as if it never had 
 
 ## Annotations
 
-[^key-08333d3cd16c29daba77f4cf78955ebd]: Textual amendment: Sch. 2B inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/3) (with [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08333d3cd16c29daba77f4cf78955ebd]: Textual amendment: Sch. 2B inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/3) (with [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

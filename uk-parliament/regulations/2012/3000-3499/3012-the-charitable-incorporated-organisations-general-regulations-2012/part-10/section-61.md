@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Pre-merger vesting declarations[^key-100d85603bbc46a85942b2358281d6a8]
+## 61. Pre-merger vesting declarations[^c-100d85603bbc46a85942b2358281d6a8]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (3) In section 312 in subsection (1) omit the words from “and (b)” to the end of the subsection.
 
-(4)[^key-4e914f2a3eefe02e17e493bc9b9435ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4e914f2a3eefe02e17e493bc9b9435ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-100d85603bbc46a85942b2358281d6a8]: Commencement: Reg. 61 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-100d85603bbc46a85942b2358281d6a8]: Commencement: Reg. 61 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-4e914f2a3eefe02e17e493bc9b9435ff]: Textual amendment: Reg. 61(4) omitted (31.10.2022) by virtue of [The Charities Act 2022 (Commencement No. 1, Consequential and Saving Provision) Regulations 2022 (S.I. 2022/1109)](https://www.legislation.gov.uk/uksi/2022/1109), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1109/regulation/4)
+[^c-4e914f2a3eefe02e17e493bc9b9435ff]: Textual amendment: Reg. 61(4) omitted (31.10.2022) by virtue of [The Charities Act 2022 (Commencement No. 1, Consequential and Saving Provision) Regulations 2022 (S.I. 2022/1109)](https://www.legislation.gov.uk/uksi/2022/1109), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1109/regulation/4)

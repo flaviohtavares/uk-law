@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18C. Appeal to the First-tier Tribunal in relation to certain decisions[^key-91ff469bf3293e605c1d851af8eb826e]
+## 18C. Appeal to the First-tier Tribunal in relation to certain decisions[^c-91ff469bf3293e605c1d851af8eb826e]
 
 *Extent: E+W*
 
 (1) Where, in relation to work which is not higher-risk building work, a person (“**the appellant**”) has—
 
-- (a) notified the regulator under regulation 16(4) of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024[^key-38670b78db4eb9d68c7c610e77594a04] and the regulator has refused to give a certificate under regulation 17 (completion certificates);
+- (a) notified the regulator under regulation 16(4) of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024[^c-38670b78db4eb9d68c7c610e77594a04] and the regulator has refused to give a certificate under regulation 17 (completion certificates);
 - (b) notified the regulator under regulation 16(5) and the regulator has refused to give a certificate under regulation 17A (certificate for building occupied before work is completed); or
 - (c) applied to the regulator under regulation 18(2) (unauthorised building work) for a certificate and the regulator has refused to give the certificate,
 
@@ -41,6 +41,6 @@ they may appeal to the First-tier Tribunal against the decision of the regulator
 
 ## Annotations
 
-[^key-91ff469bf3293e605c1d851af8eb826e]: Textual amendment: Regs. 18A-18E inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-91ff469bf3293e605c1d851af8eb826e]: Textual amendment: Regs. 18A-18E inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-38670b78db4eb9d68c7c610e77594a04]: Textual amendment: Words in reg. 18C(1)(a) inserted (7.10.2025) by [The Building Regulations etc. (Amendment) (England) Regulations 2025 (S.I. 2025/1017)](https://www.legislation.gov.uk/uksi/2025/1017), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/10/3)
+[^c-38670b78db4eb9d68c7c610e77594a04]: Textual amendment: Words in reg. 18C(1)(a) inserted (7.10.2025) by [The Building Regulations etc. (Amendment) (England) Regulations 2025 (S.I. 2025/1017)](https://www.legislation.gov.uk/uksi/2025/1017), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/10/3)

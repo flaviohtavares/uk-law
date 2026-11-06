@@ -101,7 +101,7 @@ These Regulations may be cited as the Weights and Measures (Specified Quantities
   - (ii) for “net weight” substitute “net volume”; and
 - (b) in paragraph 5, for “3” substitute “3(2)(b)”.
 
-## 3. Amendment to the Weights and Measures (Knitting Yarns) Order 1988[^key-9c08e2ea32044de703fdcf2b2ffab0e0]
+## 3. Amendment to the Weights and Measures (Knitting Yarns) Order 1988[^c-9c08e2ea32044de703fdcf2b2ffab0e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,7 +235,7 @@ Regulation 4 implements those requirements of the Directive relating to nominal 
 
 [^f00003]: Footnote: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72); Schedule 5, paragraph 3(1) and Schedule 7, paragraph 5 were amended by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), article 3.
 
-[^key-9c08e2ea32044de703fdcf2b2ffab0e0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/663/regulation/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/16/2), [115(3)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/b)
+[^c-9c08e2ea32044de703fdcf2b2ffab0e0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/663/regulation/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/16/2), [115(3)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/b)
 
 [^f00005]: Footnote: [S.I. 1988/2039](https://www.legislation.gov.uk/uksi/1988/2039); Schedule 1 was amended by [S.I. 1990/1550](https://www.legislation.gov.uk/uksi/1990/1550).
 

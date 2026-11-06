@@ -30,59 +30,59 @@ Budget (No. 2) Act (Northern Ireland) 2012 (repealed)
 
 2012 CHAPTER 4
 
-[^key-91d54858bffd6263223cb6dd693b15b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91d54858bffd6263223cb6dd693b15b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Issue of sum out of the Consolidated Fund for the year ending 31st March 2013 and appropriation of that sum[^key-91d54858bffd6263223cb6dd693b15b0]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Power of the Department of Finance and Personnel to borrow[^key-91d54858bffd6263223cb6dd693b15b0]
+## 1. Issue of sum out of the Consolidated Fund for the year ending 31st March 2013 and appropriation of that sum[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources (other than accruing resources) in year ending 31st March 2013[^key-91d54858bffd6263223cb6dd693b15b0]
+## 2. Power of the Department of Finance and Personnel to borrow[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Limit on use of accruing resources in year ending 31st March 2013[^key-91d54858bffd6263223cb6dd693b15b0]
+## 3. Use of resources (other than accruing resources) in year ending 31st March 2013[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Resource excesses for the year ending 31st March 2011[^key-91d54858bffd6263223cb6dd693b15b0]
+## 4. Limit on use of accruing resources in year ending 31st March 2013[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Repeal of spent provisions[^key-91d54858bffd6263223cb6dd693b15b0]
+## 5. Resource excesses for the year ending 31st March 2011[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Interpretation[^key-91d54858bffd6263223cb6dd693b15b0]
+## 6. Repeal of spent provisions[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Short title[^key-91d54858bffd6263223cb6dd693b15b0]
+## 7. Interpretation[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91d54858bffd6263223cb6dd693b15b0]Schedules
+## 8. Short title[^c-91d54858bffd6263223cb6dd693b15b0]
 
-## Schedule 1 — Sums granted for the year ending 31st March 2013[^key-91d54858bffd6263223cb6dd693b15b0]
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-91d54858bffd6263223cb6dd693b15b0]Schedules
+
+## Schedule 1 — Sums granted for the year ending 31st March 2013[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
@@ -90,7 +90,7 @@ Section 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 2 — Amounts of resources authorised for use and amounts of accruing resources which may be used in year ending 31st March 2013[^key-91d54858bffd6263223cb6dd693b15b0]
+## Schedule 2 — Amounts of resources authorised for use and amounts of accruing resources which may be used in year ending 31st March 2013[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
@@ -98,7 +98,7 @@ Sections 3 and 4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 3 — Excess amounts of resources authorised for use in year ending 31st March 2011[^key-91d54858bffd6263223cb6dd693b15b0]
+## Schedule 3 — Excess amounts of resources authorised for use in year ending 31st March 2011[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
@@ -106,7 +106,7 @@ Section 5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 4 — Repeals[^key-91d54858bffd6263223cb6dd693b15b0]
+## Schedule 4 — Repeals[^c-91d54858bffd6263223cb6dd693b15b0]
 
 **No longer in force.**
 
@@ -116,4 +116,4 @@ Section 6.
 
 ## Annotations
 
-[^key-91d54858bffd6263223cb6dd693b15b0]: Textual amendment: Act repealed (24.7.2015) by [Budget (No. 2) Act (Northern Ireland) 2015 (c. 7)](https://www.legislation.gov.uk/nia/2015/7), [Sch. 4](https://www.legislation.gov.uk/nia/2015/7/schedule/4)
+[^c-91d54858bffd6263223cb6dd693b15b0]: Textual amendment: Act repealed (24.7.2015) by [Budget (No. 2) Act (Northern Ireland) 2015 (c. 7)](https://www.legislation.gov.uk/nia/2015/7), [Sch. 4](https://www.legislation.gov.uk/nia/2015/7/schedule/4)

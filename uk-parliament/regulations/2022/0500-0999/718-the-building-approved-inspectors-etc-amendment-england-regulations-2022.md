@@ -32,7 +32,7 @@ summary: ''
 
 Building And Buildings, England
 
-The Building (Approved Inspectors etc.) (Amendment) (England) Regulations 2022 (revoked)[^key-3d6506d7ffbef941af38ee941c1158a0]
+The Building (Approved Inspectors etc.) (Amendment) (England) Regulations 2022 (revoked)[^c-3d6506d7ffbef941af38ee941c1158a0]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force - -
 
 28th July 2022
 
-[^key-3d6506d7ffbef941af38ee941c1158a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d6506d7ffbef941af38ee941c1158a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-3d6506d7ffbef941af38ee941c1158a0]
+## 1. Citation, extent and commencement[^c-3d6506d7ffbef941af38ee941c1158a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^key-3d6506d7ffbef941af38ee941c1158a0]
+## 2. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^c-3d6506d7ffbef941af38ee941c1158a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d6506d7ffbef941af38ee941c1158a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d6506d7ffbef941af38ee941c1158a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d6506d7ffbef941af38ee941c1158a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d6506d7ffbef941af38ee941c1158a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d6506d7ffbef941af38ee941c1158a0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/718) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(d)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/d) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-3d6506d7ffbef941af38ee941c1158a0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/718) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(d)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/d) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))

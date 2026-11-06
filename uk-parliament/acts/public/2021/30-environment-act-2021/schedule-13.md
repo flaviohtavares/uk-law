@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Modifying water and sewerage undertakers’ appointments: procedure for appeals[^key-165c99d8c0d71e9f9d1326ed1e5e69c9][^key-443efb001a6b238ef3580d2d732ebe69]
+## SCHEDULE 13 — Modifying water and sewerage undertakers’ appointments: procedure for appeals[^c-165c99d8c0d71e9f9d1326ed1e5e69c9][^c-443efb001a6b238ef3580d2d732ebe69]
 
 *Extent: E+W+S+N.I.*
 
 Section 86
 
-[^key-443efb001a6b238ef3580d2d732ebe69]
+[^c-443efb001a6b238ef3580d2d732ebe69]
 
 > **SCHEDULE 2ZA — Procedure for appeals under section 12D**
 >
@@ -298,6 +298,6 @@ Section 86
 
 ## Annotations
 
-[^key-165c99d8c0d71e9f9d1326ed1e5e69c9]: Commencement: Sch. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-165c99d8c0d71e9f9d1326ed1e5e69c9]: Commencement: Sch. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-443efb001a6b238ef3580d2d732ebe69]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/13) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/r)
+[^c-443efb001a6b238ef3580d2d732ebe69]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/13) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/r)

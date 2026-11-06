@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Further consequences of placement orders[^key-8c272b66b6043df96466a85d8390f763]
+## 26. Further consequences of placement orders[^c-8c272b66b6043df96466a85d8390f763]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ may be made in respect of the child.
 
 ## Annotations
 
-[^key-8c272b66b6043df96466a85d8390f763]: Commencement: S. 26 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8c272b66b6043df96466a85d8390f763]: Commencement: S. 26 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

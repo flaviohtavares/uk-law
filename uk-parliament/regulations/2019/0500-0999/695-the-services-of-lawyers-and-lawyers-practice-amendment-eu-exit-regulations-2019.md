@@ -36,7 +36,7 @@ Legal Profession, England And Wales
 
 Legal Profession, Northern Ireland
 
-The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-61804aeb57a39c9b4031b2bc15d7141d]
+The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-61804aeb57a39c9b4031b2bc15d7141d]
 
 Made
 
@@ -44,21 +44,21 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-61804aeb57a39c9b4031b2bc15d7141d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61804aeb57a39c9b4031b2bc15d7141d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-61804aeb57a39c9b4031b2bc15d7141d]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-61804aeb57a39c9b4031b2bc15d7141d]
+## 1. Citation, commencement and extent[^c-61804aeb57a39c9b4031b2bc15d7141d]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Revocation Regulations[^key-61804aeb57a39c9b4031b2bc15d7141d]
+## 2. Interpretation[^c-61804aeb57a39c9b4031b2bc15d7141d]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendments to the Revocation Regulations[^c-61804aeb57a39c9b4031b2bc15d7141d]
 
 **Not yet in force.**
 
@@ -66,12 +66,12 @@ Coming into force in accordance with regulation 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-61804aeb57a39c9b4031b2bc15d7141d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61804aeb57a39c9b4031b2bc15d7141d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61804aeb57a39c9b4031b2bc15d7141d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61804aeb57a39c9b4031b2bc15d7141d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61804aeb57a39c9b4031b2bc15d7141d]: Textual amendment: Regulations revoked (24.11.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/3/d) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-61804aeb57a39c9b4031b2bc15d7141d]: Textual amendment: Regulations revoked (24.11.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/3/d) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))

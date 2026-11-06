@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 152. Short absence[^key-b0234cf99a89f3663042905dfebe7b96]
+## 152. Short absence[^c-b0234cf99a89f3663042905dfebe7b96]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A claimant is to continue to be entitled to an employment and support allowance 
 
 ## Annotations
 
-[^key-b0234cf99a89f3663042905dfebe7b96]: Commencement: [Reg. 152](https://www.legislation.gov.uk/nisr/2008/280/regulation/152) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-b0234cf99a89f3663042905dfebe7b96]: Commencement: [Reg. 152](https://www.legislation.gov.uk/nisr/2008/280/regulation/152) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

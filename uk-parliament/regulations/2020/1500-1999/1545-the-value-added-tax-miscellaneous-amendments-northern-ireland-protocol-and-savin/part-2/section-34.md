@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Part 3 (VAT invoices and other invoicing requirements)[^key-56650859dd465d2fc31b397475c01272]
+## 34. Part 3 (VAT invoices and other invoicing requirements)[^c-56650859dd465d2fc31b397475c01272]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ In regulation 13 [^c24395081] (obligation to provide a VAT invoice)—
 
 ## Annotations
 
-[^key-56650859dd465d2fc31b397475c01272]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-56650859dd465d2fc31b397475c01272]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395081]: Marginal citation: Relevantly amended by [S.I. 1996/1250](https://www.legislation.gov.uk/uksi/1996/1250), 2003/3220, 2007/2085, 2012/2951, 2019/59 and paragraph 20 of Schedule 3 to TPTPA. The amendments made by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59) are not yet in force and are omitted by this instrument. Section 18C of VATA applies to a Northern Ireland fiscal warehousing regime or Northern Ireland warehousing regime by virtue of paragraph 21 of Schedule 9ZB to VATA.

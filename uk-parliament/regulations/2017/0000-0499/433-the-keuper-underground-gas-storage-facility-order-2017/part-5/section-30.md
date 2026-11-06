@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Private rights[^key-65d952042c25808666fa774602ca985a]
+## 30. Private rights[^c-65d952042c25808666fa774602ca985a]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ it will be effective in respect of the persons so deriving title, whether the ti
 
 ## Annotations
 
-[^key-65d952042c25808666fa774602ca985a]: Commencement: Art. 30 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-65d952042c25808666fa774602ca985a]: Commencement: Art. 30 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
 
 [^f00022]: Footnote: Section 11 is amended by section 34 of, and Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of Schedule 1 to the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71) and paragraph 64 of Schedule 1 to the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)).

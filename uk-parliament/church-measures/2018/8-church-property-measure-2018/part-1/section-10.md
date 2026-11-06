@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 10. Loans by Church Commissioners[^key-5651c0bbec9a434e03d8e34c28e52c03]
+## 10. Loans by Church Commissioners[^c-5651c0bbec9a434e03d8e34c28e52c03]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5651c0bbec9a434e03d8e34c28e52c03]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2018/8/section/10) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-5651c0bbec9a434e03d8e34c28e52c03]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2018/8/section/10) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

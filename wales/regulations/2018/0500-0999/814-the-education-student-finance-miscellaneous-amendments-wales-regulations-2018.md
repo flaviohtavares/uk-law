@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of powers conferred on the Secretary of State u
 
 ## PART 1 — TITLE AND COMMENCEMENT
 
-### 1. Title and commencement[^key-f49ad7c39ecc8ab8ca6a54859bbb010f]
+### 1. Title and commencement[^c-f49ad7c39ecc8ab8ca6a54859bbb010f]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018.
 
@@ -55,18 +55,18 @@ The Welsh Ministers, in exercise of powers conferred on the Secretary of State u
 
 ## PART 2 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2018
 
-### 2. Amendments to the Education (Student Support) (Wales) Regulations 2018[^key-2ea9a03c00eb50d72c6d5e1fe5be4d85]
+### 2. Amendments to the Education (Student Support) (Wales) Regulations 2018[^c-2ea9a03c00eb50d72c6d5e1fe5be4d85]
 
 The Education (Student Support) (Wales) Regulations 2018[^f00005] are amended in accordance with regulations 3 to 20.
 
-### 3.[^key-dd589d5b8004cf420af049f3e0d84d6b]
+### 3.[^c-dd589d5b8004cf420af049f3e0d84d6b]
 
 In regulation 14 (maximum period of eligibility – tuition fee loans and grants for new students), in paragraph (2)—
 
 - (a) for “, a disabled student’s grant,” substitute “or”; and
 - (b) omit “or a grant for dependants”.
 
-### 4.[^key-6254da8cb6eb1988cb33348786ca1338]
+### 4.[^c-6254da8cb6eb1988cb33348786ca1338]
 
 In regulation 16 (maximum period of eligibility – tuition fee loans and grants for certain continuing students)—
 
@@ -87,7 +87,7 @@ In regulation 16 (maximum period of eligibility – tuition fee loans and grants
   > - (b) Certificate of Higher Education, or
   > - (c) Higher National Diploma or Higher National Certificate of either the Business and Technology Education Council or the Scottish Qualification Authority.
 
-### 5.[^key-895b0f7507f3cd8d140bff17a427c6bf]
+### 5.[^c-895b0f7507f3cd8d140bff17a427c6bf]
 
 After regulation 22 (refugees who cease to have leave to remain) insert—
 
@@ -107,11 +107,11 @@ After regulation 22 (refugees who cease to have leave to remain) insert—
 >
 > (2) Where this regulation applies, P’s status as an eligible student terminates immediately before the first day of the academic year in respect of which P is applying for support.
 
-### 6.[^key-0a41f3028d000217f6d1dbbd50cbb81d]
+### 6.[^c-0a41f3028d000217f6d1dbbd50cbb81d]
 
 In the Welsh text of regulation 30, in paragraph (4), after “unrhyw fenthyciad cynhaliaeth” for “a” substitute “neu”.
 
-### 7.[^key-cac762767b4336a8b0ab759ab26f6f82]
+### 7.[^c-cac762767b4336a8b0ab759ab26f6f82]
 
 After regulation 34 (Welsh Ministers’ decision on an application) insert—
 
@@ -123,7 +123,7 @@ After regulation 34 (Welsh Ministers’ decision on an application) insert—
 >
 > (2) Despite the notification incorrectly stating that P is an eligible student, the Welsh Ministers may, for the purposes of these Regulations, treat P as being an eligible student.
 
-### 8.[^key-1c46770a4b61df8047a1d1214bc09caf]
+### 8.[^c-1c46770a4b61df8047a1d1214bc09caf]
 
 In regulation 40 (amount of tuition fee loan)—
 
@@ -149,29 +149,29 @@ In regulation 40 (amount of tuition fee loan)—
     </tbody>
     </table>
 
-### 9.[^key-f2d8e6718be450cb4c5faa80ca4ba656]
+### 9.[^c-f2d8e6718be450cb4c5faa80ca4ba656]
 
 In regulation 47 (amount of maintenance grant: part-time students), in paragraph (4), for “exceeds £59,200” substitute “is £59,200 or more”.
 
-### 10.[^key-117d3df237dbf26301cc86253c539b51]
+### 10.[^c-117d3df237dbf26301cc86253c539b51]
 
 In regulation 54 (qualifying conditions for a maintenance loan), omit Exception 5.
 
-### 11.[^key-90eea42eaeb48f28f67fa80d55d18551]
+### 11.[^c-90eea42eaeb48f28f67fa80d55d18551]
 
 In regulation 65 (grant for travel for medical students), in paragraph (3)—
 
 - (a) for “£59,200 or less” substitute “less than £59,200”; and
 - (b) for “more than £59,200” substitute “£59,200 or more”.
 
-### 12.[^key-716a23efe6afbb8872fb545111dba836]
+### 12.[^c-716a23efe6afbb8872fb545111dba836]
 
 In regulation 66 (grant for travel for study or work overseas), in paragraph (2)—
 
 - (a) for “£59,200 or less” substitute “less than £59,200”; and
 - (b) for “more than £59,200” substitute “£59,200 or more”.
 
-### 13.[^key-df9ef71c5481274e4a5be7a466791de9]
+### 13.[^c-df9ef71c5481274e4a5be7a466791de9]
 
 In regulation 80 (qualifying for a tuition fee loan during the academic year)—
 
@@ -182,11 +182,11 @@ In regulation 80 (qualifying for a tuition fee loan during the academic year)—
 
   .
 
-### 14.[^key-8da1af8300a7517e54c19ca8d27cbe55]
+### 14.[^c-8da1af8300a7517e54c19ca8d27cbe55]
 
 In regulation 81 (qualifying for grants or maintenance loan during the academic year), paragraph (3), sub-paragraph (b)(i), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 15.[^key-13d4bebf9997d2491718eef610dbf5d6]
+### 15.[^c-13d4bebf9997d2491718eef610dbf5d6]
 
 In Schedule 1, paragraph 6(1), in the definition of “close relative” after paragraph (c) insert—
 
@@ -194,7 +194,7 @@ In Schedule 1, paragraph 6(1), in the definition of “close relative” after p
 
 .
 
-### 16.[^key-a096c7f81cf056d0ff4b01f720b84722]
+### 16.[^c-a096c7f81cf056d0ff4b01f720b84722]
 
 In Schedule 2—
 
@@ -263,7 +263,7 @@ In Schedule 2—
 
   .
 
-### 17.[^key-4b05ef441d53ffea7d2759d621a9055e]
+### 17.[^c-4b05ef441d53ffea7d2759d621a9055e]
 
 In Schedule 4—
 
@@ -293,14 +293,14 @@ In Schedule 4—
 
   .
 
-### 18.[^key-01bbf41865f16881c271cd86ba51924e]
+### 18.[^c-01bbf41865f16881c271cd86ba51924e]
 
 In the Welsh text of Schedule 4—
 
 - (a) in paragraph 2(2)(c), omit “gan Gyngor Cyllido Addysg Uwch Cymru”; and
 - (b) in paragraph 9(c), for “yn dod yn fyfyriwr cwmwys” substitute “hefyd yn cymhwyso i gael cymorth”.
 
-### 19.[^key-ae9ff42ebe178b6e4c9b28369cbaf5c0]
+### 19.[^c-ae9ff42ebe178b6e4c9b28369cbaf5c0]
 
 In Schedule 5, paragraph 4—
 
@@ -311,7 +311,7 @@ In Schedule 5, paragraph 4—
 
   .
 
-### 20.[^key-8835c2f45e3e01be320d0e584afde3f9]
+### 20.[^c-8835c2f45e3e01be320d0e584afde3f9]
 
 In Schedule 7 (index of defined terms), Table 16, in the appropriate places insert—
 
@@ -322,11 +322,11 @@ In Schedule 7 (index of defined terms), Table 16, in the appropriate places inse
 
 ## PART 3 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2017
 
-### 21. Amendments to the Education (Student Support) (Wales) Regulations 2017[^key-4eb1f772a3ff21a1481d96431e6f8947]
+### 21. Amendments to the Education (Student Support) (Wales) Regulations 2017[^c-4eb1f772a3ff21a1481d96431e6f8947]
 
 The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in accordance with regulations 22 to 38.
 
-**22.**[^key-c4e4223619fc7f861cba4cdd3faddb63] In regulation 2 (interpretation), in paragraph (1)—
+**22.**[^c-c4e4223619fc7f861cba4cdd3faddb63] In regulation 2 (interpretation), in paragraph (1)—
 
 - (a) in the appropriate places insert—
 
@@ -361,7 +361,7 @@ The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in
 
   .
 
-**23.**[^key-eaeea43ca4ce901d198e3a36d52deec0] In regulation 4 (eligible students)—
+**23.**[^c-eaeea43ca4ce901d198e3a36d52deec0] In regulation 4 (eligible students)—
 
 - (a) after paragraph (9) insert—
 
@@ -377,7 +377,7 @@ The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in
   ;
 - (b) in paragraph (11), for “Paragraphs (9) and (10)” substitute “Paragraphs (9), (9A) and (10)”.
 
-**24.**[^key-05496a07ae784067f9e850954d8794a8] In regulation 6 (period of eligibility)—
+**24.**[^c-05496a07ae784067f9e850954d8794a8] In regulation 6 (period of eligibility)—
 
 - (a) in paragraphs (8) and (11), for “or a grant for living costs” substitute “, grant for travel, maintenance grant or a special support grant”;
 - (b) in paragraph (10)—
@@ -388,7 +388,7 @@ The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in
 
     .
 
-**25.**[^key-54d2730d3559bc67211d8977a220e79d] In regulation 13 (fee support generally)—
+**25.**[^c-54d2730d3559bc67211d8977a220e79d] In regulation 13 (fee support generally)—
 
 - (a) in paragraph (5), at the beginning, insert “Subject to paragraph (5A),”;
 - (b) after paragraph (5) insert—
@@ -404,13 +404,13 @@ The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in
 
   > (7) But paragraph (6) does not apply where the student is undertaking the course outside the United Kingdom because the student or a close relative of the student is serving as a member of the armed forces.
 
-**26.**[^key-470bd37748fb84ce7509365672ebd0e5] In regulation 15 (events), paragraph (b), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
+**26.**[^c-470bd37748fb84ce7509365672ebd0e5] In regulation 15 (events), paragraph (b), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 27.[^key-911496ba2506c4d93b8e5d022f01a7d2]
+### 27.[^c-911496ba2506c4d93b8e5d022f01a7d2]
 
 In regulation 23 (general qualifying conditions for grants for living costs), paragraph (12)(b), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 28.[^key-ce0df8c86ffc1061ee459df34e34640f]
+### 28.[^c-ce0df8c86ffc1061ee459df34e34640f]
 
 In regulation 24 (grants for disabled students’ living costs)—
 
@@ -428,15 +428,15 @@ In regulation 24 (grants for disabled students’ living costs)—
 
   > (5A) But paragraph (5) does not apply where the student is undertaking the course outside the United Kingdom because the student or a close relative of the student is serving as a member of the armed forces.
 
-### 29.[^key-c7d82b2d4fd385758cc9f3937e40e536]
+### 29.[^c-c7d82b2d4fd385758cc9f3937e40e536]
 
 In regulation 41 (qualifying conditions for loans for living costs), omit paragraph (4).
 
-### 30.[^key-7808f72c52b015a05eb8d81bc06a3156]
+### 30.[^c-7808f72c52b015a05eb8d81bc06a3156]
 
 In regulation 49 (students becoming eligible during the course of an academic year), paragraph (2)(b), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 31.[^key-621ea803ae688b1d01f21d9663cd1c2d]
+### 31.[^c-621ea803ae688b1d01f21d9663cd1c2d]
 
 In regulation 64 (eligible distance learning students)—
 
@@ -452,11 +452,11 @@ In regulation 64 (eligible distance learning students)—
   ;
 - (b) in paragraph (12), for “paragraphs (10) and (11)” substitute “paragraphs (10), (10A) and (11)”.
 
-### 32.[^key-98e68132873e9f8dd800b3e5a5dbb9cd]
+### 32.[^c-98e68132873e9f8dd800b3e5a5dbb9cd]
 
 In regulation 65 (students becoming eligible during the course of the academic year), in paragraph (4)(b) after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 33.[^key-9e8867e0a36e9ed3b0c4a4aa3944d182]
+### 33.[^c-9e8867e0a36e9ed3b0c4a4aa3944d182]
 
 In regulation 81 (eligible part-time students)—
 
@@ -484,11 +484,11 @@ In regulation 81 (eligible part-time students)—
 
   > (15A) But paragraph (15) does not apply to support under regulations 85 to 88 where the student is undertaking the course outside the United Kingdom because the student or a close relative of the student is serving as a member of the armed forces.
 
-### 34.[^key-181c94b213fbc0b84aa320c2805dd4cb]
+### 34.[^c-181c94b213fbc0b84aa320c2805dd4cb]
 
 In regulation 82 (students becoming eligible during the course of the academic year), in paragraph (4)(b), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 35.[^key-562ebc195b1edd3a1d9c93397e17db24]
+### 35.[^c-562ebc195b1edd3a1d9c93397e17db24]
 
 In regulation 110 (eligible postgraduate students)—
 
@@ -504,11 +504,11 @@ In regulation 110 (eligible postgraduate students)—
   ;
 - (b) in paragraph (12)(a), for “refugee” substitute “person with leave to enter or remain” in both places where it occurs.
 
-### 36.[^key-465ac158423fe5240ef445a8859da990]
+### 36.[^c-465ac158423fe5240ef445a8859da990]
 
 In regulation 111 (students becoming eligible during the course of the academic year), in paragraph (2)(b), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
-### 37.[^key-bc9e3d75130403baaec90c43e0ce0aa0]
+### 37.[^c-bc9e3d75130403baaec90c43e0ce0aa0]
 
 In Schedule 1—
 
@@ -561,24 +561,24 @@ In Schedule 1—
 
     > (4) In this paragraph, “leave application date” means the date on which the person with leave to enter or remain made the application that led to that person being granted leave to enter or remain in the United Kingdom.
 
-### 38.[^key-375b9bd19d3288adc492fbeed6379413]
+### 38.[^c-375b9bd19d3288adc492fbeed6379413]
 
 In Schedule 4, in paragraph 6(a), after “is recognised as a refugee or” insert “becomes a person granted stateless leave or”.
 
 ## Part 4 — Amendments relating to the immigration status of students
 
-### 39. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^key-9403436030de1c6ae84e97579bce11d6]
+### 39. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^c-9403436030de1c6ae84e97579bce11d6]
 
 The Education (Fees and Awards) (Wales) Regulations 2007[^f00016] are amended in accordance with regulations 40 and 41.
 
-### 40.[^key-3d96522d60805d146ad6fb7329c6c0e5]
+### 40.[^c-3d96522d60805d146ad6fb7329c6c0e5]
 
 In regulation 5 (awards by local authorities), in paragraph (1)—
 
 - (a) in sub-paragraph (b), for “within paragraph 5” substitute “within paragraphs 4A and 5”;
 - (b) in sub-paragraph (c), for “within paragraphs 5 and 9” substitute “within paragraphs 4A, 5 and 9.”
 
-### 41.[^key-0b792008bf4499e0858ff61ce312ed24]
+### 41.[^c-0b792008bf4499e0858ff61ce312ed24]
 
 In the Schedule—
 
@@ -655,19 +655,19 @@ In the Schedule—
 
     > (4) In this paragraph, “leave application date” means the date on which the person with leave to enter or remain made the application that led to that person being granted leave to enter or remain in the United Kingdom.
 
-### 42. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-49849334628904de5b106cc7a3730b39]
+### 42. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-49849334628904de5b106cc7a3730b39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43.[^key-49849334628904de5b106cc7a3730b39]
+### 43.[^c-49849334628904de5b106cc7a3730b39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44.[^key-49849334628904de5b106cc7a3730b39]
+### 44.[^c-49849334628904de5b106cc7a3730b39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45.[^key-9bcf415f803592adc3f091154cc3e949]
+### 45.[^c-9bcf415f803592adc3f091154cc3e949]
 
 In Schedule 1—
 
@@ -720,11 +720,11 @@ In Schedule 1—
 
     > (4) In this paragraph, “leave application date” means the date on which the person with leave to enter or remain made the application that led to that person being granted leave to enter or remain in the United Kingdom.
 
-### 46. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^key-d77eae297e19dde459f5d307f5ecde20]
+### 46. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^c-d77eae297e19dde459f5d307f5ecde20]
 
 The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00022] are amended in accordance with regulations 47 to 49.
 
-### 47.[^key-32c0ec9b53f83deb0888acb9ee3ed45c]
+### 47.[^c-32c0ec9b53f83deb0888acb9ee3ed45c]
 
 In regulation 2 (interpretation), in paragraph (1)—
 
@@ -746,7 +746,7 @@ In regulation 2 (interpretation), in paragraph (1)—
   >   - (b) regulation 5(6) of the 2017 Regulations applies and which falls within the description of a course in that regulation; or
   >   - (c) regulation 6(4) of the 2018 Regulations applies and which falls within the description of a course in regulation 6(3) of the 2018 Regulations.
 
-### 48.[^key-1114d9ce1e33e9ed5833b7648563f0b4]
+### 48.[^c-1114d9ce1e33e9ed5833b7648563f0b4]
 
 In regulation 4 (prescribed description of a qualifying person), for paragraph (1) substitute—
 
@@ -757,7 +757,7 @@ In regulation 4 (prescribed description of a qualifying person), for paragraph (
 > - (c) a person who is not eligible for support under the 2018 Regulations because they are a person to whom Exception 3, paragraph (a), Exception 4, Exception 5 or Exception 6 listed in regulation 10(1) of those Regulations applies; or
 > - (d) a person mentioned in paragraphs (2), (3), or (8).
 
-### 49.[^key-e9b654840e85e3e482aa8d33fa0327fb]
+### 49.[^c-e9b654840e85e3e482aa8d33fa0327fb]
 
 In the Schedule—
 
@@ -831,11 +831,11 @@ In the Schedule—
 
     > (4) In this paragraph “leave application date” means the date on which the person with leave to enter or remain made the application that led to that person being granted leave to enter or remain in the United Kingdom.
 
-### 50. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^key-f88171ad453a9a1055680ca21e413cf0]
+### 50. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^c-f88171ad453a9a1055680ca21e413cf0]
 
 The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f00026] are amended in accordance with regulations 51 to 53.
 
-**51.**[^key-4cc73a7e0846f07621aff787806b11b0] In regulation 2 (interpretation), in paragraph (1)—
+**51.**[^c-4cc73a7e0846f07621aff787806b11b0] In regulation 2 (interpretation), in paragraph (1)—
 
 - (a) in the appropriate places insert—
 
@@ -858,9 +858,9 @@ The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f
 
   .
 
-**52.**[^key-06d38bafb14f58c88e672bfe496ae170] In regulation 8 (events), in paragraph (b), after “is recognised as a refugee or” insert “a person granted stateless leave or”.
+**52.**[^c-06d38bafb14f58c88e672bfe496ae170] In regulation 8 (events), in paragraph (b), after “is recognised as a refugee or” insert “a person granted stateless leave or”.
 
-**53.**[^key-9c0e16b2f37eec19ea900e1d29cd9248] In Schedule 1—
+**53.**[^c-9c0e16b2f37eec19ea900e1d29cd9248] In Schedule 1—
 
 - (a) after paragraph 4 (refugees and their family members) insert—
 
@@ -911,11 +911,11 @@ The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f
 
     > (4) In this paragraph, “leave application date” means the date on which the person with leave to enter or remain made the application that led to that person being granted leave to enter or remain in the United Kingdom.
 
-### 54. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^key-f44fb14f45a79e7fe77ae7321eff53e9]
+### 54. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^c-f44fb14f45a79e7fe77ae7321eff53e9]
 
 The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00028] are amended in accordance with regulations 55 and 56.
 
-### 55.[^key-37d804801acea7370f8b8d1ef9fbadca]
+### 55.[^c-37d804801acea7370f8b8d1ef9fbadca]
 
 In regulation 2 (interpretation), in paragraph (1), for paragraphs (a) and (b) of the definition of “person with leave to enter or remain”, substitute—
 
@@ -927,7 +927,7 @@ In regulation 2 (interpretation), in paragraph (1), for paragraphs (a) and (b) o
 
 .
 
-### 56.[^key-5dbf17bcad1480a33726e9d4ea462ecb]
+### 56.[^c-5dbf17bcad1480a33726e9d4ea462ecb]
 
 In Schedule 1, paragraph 6 (persons with leave to enter or remain and their family members)—
 
@@ -1038,154 +1038,154 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1).
 
-[^key-f49ad7c39ecc8ab8ca6a54859bbb010f]: Commencement: Reg. 1 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-f49ad7c39ecc8ab8ca6a54859bbb010f]: Commencement: Reg. 1 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-2ea9a03c00eb50d72c6d5e1fe5be4d85]: Commencement: Reg. 2 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-2ea9a03c00eb50d72c6d5e1fe5be4d85]: Commencement: Reg. 2 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191).
 
-[^key-dd589d5b8004cf420af049f3e0d84d6b]: Commencement: Reg. 3 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-dd589d5b8004cf420af049f3e0d84d6b]: Commencement: Reg. 3 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-6254da8cb6eb1988cb33348786ca1338]: Commencement: Reg. 4 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-6254da8cb6eb1988cb33348786ca1338]: Commencement: Reg. 4 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-895b0f7507f3cd8d140bff17a427c6bf]: Commencement: Reg. 5 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-895b0f7507f3cd8d140bff17a427c6bf]: Commencement: Reg. 5 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00006]: Footnote: *See* Appendix AR: administrative review.
 
-[^key-0a41f3028d000217f6d1dbbd50cbb81d]: Commencement: Reg. 6 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-0a41f3028d000217f6d1dbbd50cbb81d]: Commencement: Reg. 6 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-cac762767b4336a8b0ab759ab26f6f82]: Commencement: Reg. 7 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-cac762767b4336a8b0ab759ab26f6f82]: Commencement: Reg. 7 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-1c46770a4b61df8047a1d1214bc09caf]: Commencement: Reg. 8 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-1c46770a4b61df8047a1d1214bc09caf]: Commencement: Reg. 8 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-f2d8e6718be450cb4c5faa80ca4ba656]: Commencement: Reg. 9 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-f2d8e6718be450cb4c5faa80ca4ba656]: Commencement: Reg. 9 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-117d3df237dbf26301cc86253c539b51]: Commencement: Reg. 10 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-117d3df237dbf26301cc86253c539b51]: Commencement: Reg. 10 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-90eea42eaeb48f28f67fa80d55d18551]: Commencement: Reg. 11 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-90eea42eaeb48f28f67fa80d55d18551]: Commencement: Reg. 11 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-716a23efe6afbb8872fb545111dba836]: Commencement: Reg. 12 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-716a23efe6afbb8872fb545111dba836]: Commencement: Reg. 12 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-df9ef71c5481274e4a5be7a466791de9]: Commencement: Reg. 13 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-df9ef71c5481274e4a5be7a466791de9]: Commencement: Reg. 13 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-8da1af8300a7517e54c19ca8d27cbe55]: Commencement: Reg. 14 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-8da1af8300a7517e54c19ca8d27cbe55]: Commencement: Reg. 14 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-13d4bebf9997d2491718eef610dbf5d6]: Commencement: Reg. 15 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-13d4bebf9997d2491718eef610dbf5d6]: Commencement: Reg. 15 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-a096c7f81cf056d0ff4b01f720b84722]: Commencement: Reg. 16 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-a096c7f81cf056d0ff4b01f720b84722]: Commencement: Reg. 16 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00007]: Footnote: Paragraph 276BE(2) of the immigration rules refers.
 
 [^f00008]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-4b05ef441d53ffea7d2759d621a9055e]: Commencement: Reg. 17 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-4b05ef441d53ffea7d2759d621a9055e]: Commencement: Reg. 17 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00009]: Footnote: *See* Appendix AR :administrative review.
 
-[^key-01bbf41865f16881c271cd86ba51924e]: Commencement: Reg. 18 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-01bbf41865f16881c271cd86ba51924e]: Commencement: Reg. 18 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-ae9ff42ebe178b6e4c9b28369cbaf5c0]: Commencement: Reg. 19 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-ae9ff42ebe178b6e4c9b28369cbaf5c0]: Commencement: Reg. 19 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-8835c2f45e3e01be320d0e584afde3f9]: Commencement: Reg. 20 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-8835c2f45e3e01be320d0e584afde3f9]: Commencement: Reg. 20 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-4eb1f772a3ff21a1481d96431e6f8947]: Commencement: Reg. 21 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-4eb1f772a3ff21a1481d96431e6f8947]: Commencement: Reg. 21 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47) as amended by [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191).
 
-[^key-c4e4223619fc7f861cba4cdd3faddb63]: Commencement: Reg. 22 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-c4e4223619fc7f861cba4cdd3faddb63]: Commencement: Reg. 22 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00011]: Footnote: Paragraph 276BE(2) of the immigration rules refers.
 
-[^key-eaeea43ca4ce901d198e3a36d52deec0]: Commencement: Reg. 23 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-eaeea43ca4ce901d198e3a36d52deec0]: Commencement: Reg. 23 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00012]: Footnote: *See* Appendix AR: administrative review.
 
-[^key-05496a07ae784067f9e850954d8794a8]: Commencement: Reg. 24 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-05496a07ae784067f9e850954d8794a8]: Commencement: Reg. 24 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-54d2730d3559bc67211d8977a220e79d]: Commencement: Reg. 25 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-54d2730d3559bc67211d8977a220e79d]: Commencement: Reg. 25 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-470bd37748fb84ce7509365672ebd0e5]: Commencement: Reg. 26 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-470bd37748fb84ce7509365672ebd0e5]: Commencement: Reg. 26 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-911496ba2506c4d93b8e5d022f01a7d2]: Commencement: Reg. 27 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-911496ba2506c4d93b8e5d022f01a7d2]: Commencement: Reg. 27 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-ce0df8c86ffc1061ee459df34e34640f]: Commencement: Reg. 28 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-ce0df8c86ffc1061ee459df34e34640f]: Commencement: Reg. 28 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-c7d82b2d4fd385758cc9f3937e40e536]: Commencement: Reg. 29 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-c7d82b2d4fd385758cc9f3937e40e536]: Commencement: Reg. 29 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-7808f72c52b015a05eb8d81bc06a3156]: Commencement: Reg. 30 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-7808f72c52b015a05eb8d81bc06a3156]: Commencement: Reg. 30 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-621ea803ae688b1d01f21d9663cd1c2d]: Commencement: Reg. 31 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-621ea803ae688b1d01f21d9663cd1c2d]: Commencement: Reg. 31 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00013]: Footnote: *See* Appendix AR: administrative review.
 
-[^key-98e68132873e9f8dd800b3e5a5dbb9cd]: Commencement: Reg. 32 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-98e68132873e9f8dd800b3e5a5dbb9cd]: Commencement: Reg. 32 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-9e8867e0a36e9ed3b0c4a4aa3944d182]: Commencement: Reg. 33 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-9e8867e0a36e9ed3b0c4a4aa3944d182]: Commencement: Reg. 33 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00014]: Footnote: *See* Appendix AR: administrative review.
 
-[^key-181c94b213fbc0b84aa320c2805dd4cb]: Commencement: Reg. 34 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-181c94b213fbc0b84aa320c2805dd4cb]: Commencement: Reg. 34 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-562ebc195b1edd3a1d9c93397e17db24]: Commencement: Reg. 35 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-562ebc195b1edd3a1d9c93397e17db24]: Commencement: Reg. 35 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00015]: Footnote: *See* Appendix AR: administrative review.
 
-[^key-465ac158423fe5240ef445a8859da990]: Commencement: Reg. 36 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-465ac158423fe5240ef445a8859da990]: Commencement: Reg. 36 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-bc9e3d75130403baaec90c43e0ce0aa0]: Commencement: Reg. 37 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-bc9e3d75130403baaec90c43e0ce0aa0]: Commencement: Reg. 37 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-375b9bd19d3288adc492fbeed6379413]: Commencement: Reg. 38 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-375b9bd19d3288adc492fbeed6379413]: Commencement: Reg. 38 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-9403436030de1c6ae84e97579bce11d6]: Commencement: Reg. 39 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-9403436030de1c6ae84e97579bce11d6]: Commencement: Reg. 39 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142) and [S.I. 2011/1978 (W. 218)](https://www.legislation.gov.uk/wsi/2011/1978); there are other amending instruments but none is relevant.
 
-[^key-3d96522d60805d146ad6fb7329c6c0e5]: Commencement: Reg. 40 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-3d96522d60805d146ad6fb7329c6c0e5]: Commencement: Reg. 40 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-0b792008bf4499e0858ff61ce312ed24]: Commencement: Reg. 41 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-0b792008bf4499e0858ff61ce312ed24]: Commencement: Reg. 41 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00017]: Footnote: Paragraph 276BE(2) of the immigration rules refers.
 
 [^f00018]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004, Schedules 2 and 4, the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), section 19, [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21) and the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), Schedule 9.
 
-[^key-49849334628904de5b106cc7a3730b39]: Textual amendment: [Regs. 42-45](https://www.legislation.gov.uk/wsi/2018/814/regulation/42) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(b)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/b)
+[^c-49849334628904de5b106cc7a3730b39]: Textual amendment: [Regs. 42-45](https://www.legislation.gov.uk/wsi/2018/814/regulation/42) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(b)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/b)
 
-[^key-9bcf415f803592adc3f091154cc3e949]: Commencement: Reg. 45 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-9bcf415f803592adc3f091154cc3e949]: Commencement: Reg. 45 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-d77eae297e19dde459f5d307f5ecde20]: Commencement: Reg. 46 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-d77eae297e19dde459f5d307f5ecde20]: Commencement: Reg. 46 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), as amended by [S.I. 2016/276 (W. 100)](https://www.legislation.gov.uk/wsi/2016/276).
 
-[^key-32c0ec9b53f83deb0888acb9ee3ed45c]: Commencement: Reg. 47 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-32c0ec9b53f83deb0888acb9ee3ed45c]: Commencement: Reg. 47 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47).
 
 [^f00024]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191).
 
-[^key-1114d9ce1e33e9ed5833b7648563f0b4]: Commencement: Reg. 48 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-1114d9ce1e33e9ed5833b7648563f0b4]: Commencement: Reg. 48 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-e9b654840e85e3e482aa8d33fa0327fb]: Commencement: Reg. 49 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-e9b654840e85e3e482aa8d33fa0327fb]: Commencement: Reg. 49 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00025]: Footnote: Paragraph 276BE(2) of the immigration rules refers.
 
-[^key-f88171ad453a9a1055680ca21e413cf0]: Commencement: Reg. 50 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-f88171ad453a9a1055680ca21e413cf0]: Commencement: Reg. 50 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2017/523 (W. 109)](https://www.legislation.gov.uk/wsi/2017/523), as amended by [S.I. 2017/712 (W. 169)](https://www.legislation.gov.uk/wsi/2017/712) and [S.I. 2018/277 (W. 53)](https://www.legislation.gov.uk/wsi/2018/277).
 
-[^key-4cc73a7e0846f07621aff787806b11b0]: Commencement: Reg. 51 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-4cc73a7e0846f07621aff787806b11b0]: Commencement: Reg. 51 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00027]: Footnote: Paragraph 276BE(2) of the immigration rules refers.
 
-[^key-06d38bafb14f58c88e672bfe496ae170]: Commencement: Reg. 52 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-06d38bafb14f58c88e672bfe496ae170]: Commencement: Reg. 52 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-9c0e16b2f37eec19ea900e1d29cd9248]: Commencement: Reg. 53 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-9c0e16b2f37eec19ea900e1d29cd9248]: Commencement: Reg. 53 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
-[^key-f44fb14f45a79e7fe77ae7321eff53e9]: Commencement: Reg. 54 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-f44fb14f45a79e7fe77ae7321eff53e9]: Commencement: Reg. 54 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656).
 
-[^key-37d804801acea7370f8b8d1ef9fbadca]: Commencement: Reg. 55 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-37d804801acea7370f8b8d1ef9fbadca]: Commencement: Reg. 55 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
 
 [^f00029]: Footnote: Paragraph 376BE(2) of the immigration rules refers.
 
-[^key-5dbf17bcad1480a33726e9d4ea462ecb]: Commencement: Reg. 56 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)
+[^c-5dbf17bcad1480a33726e9d4ea462ecb]: Commencement: Reg. 56 in force at 30.7.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2)

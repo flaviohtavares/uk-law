@@ -37,13 +37,13 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order.
 
-## 1. Title and interpretation[^key-ed2792297e0f136531a0cc94c3df4ec6]
+## 1. Title and interpretation[^c-ed2792297e0f136531a0cc94c3df4ec6]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 1) Order 2020.
 
 (2) In this Order, “the Act” means the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
 
-## 2. Provisions coming into force on 2 November 2020[^key-d132758fc8e32347121888a57a2e7524]
+## 2. Provisions coming into force on 2 November 2020[^c-d132758fc8e32347121888a57a2e7524]
 
 The following provisions of the Act come into force on 2 November 2020—
 
@@ -56,7 +56,7 @@ The following provisions of the Act come into force on 2 November 2020—
 - (g) section 74;
 - (h) section 82.
 
-## 3. Provisions coming into force on 2 November 2020 for the purpose of the exercise of powers[^key-f06cae6b020a994f556b6219ba429f71]
+## 3. Provisions coming into force on 2 November 2020 for the purpose of the exercise of powers[^c-f06cae6b020a994f556b6219ba429f71]
 
 (1) The following provisions of the Act come into force on 2 November 2020 only for the purposes of making regulations—
 
@@ -81,7 +81,7 @@ The following provisions of the Act come into force on 2 November 2020—
 - (b) sections 7 and 8;
 - (c) section 47.
 
-## 4. Provisions coming into force on 4 January 2021[^key-62e9b3d7cd1a27c5731b8031a92baf7f]
+## 4. Provisions coming into force on 4 January 2021[^c-62e9b3d7cd1a27c5731b8031a92baf7f]
 
 (1) Sections 61 and 62 of the Act come into force on 4 January 2021.
 
@@ -113,14 +113,14 @@ Article 4 brings into force on 4 January 2021 provisions of the Act related to t
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-ed2792297e0f136531a0cc94c3df4ec6]: Commencement: Art. 1 in force at made date
+[^c-ed2792297e0f136531a0cc94c3df4ec6]: Commencement: Art. 1 in force at made date
 
-[^key-d132758fc8e32347121888a57a2e7524]: Commencement: Art. 2 in force at made date
+[^c-d132758fc8e32347121888a57a2e7524]: Commencement: Art. 2 in force at made date
 
-[^key-f06cae6b020a994f556b6219ba429f71]: Commencement: Art. 3 in force at made date
+[^c-f06cae6b020a994f556b6219ba429f71]: Commencement: Art. 3 in force at made date
 
 [^f00002]: Footnote: There are amendments to section 91 which are not relevant to this Order.
 
 [^f00003]: Footnote: There are amendments to section 4 made by the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), Schedule 19, paragraph 226.
 
-[^key-62e9b3d7cd1a27c5731b8031a92baf7f]: Commencement: Art. 4 in force at made date
+[^c-62e9b3d7cd1a27c5731b8031a92baf7f]: Commencement: Art. 4 in force at made date

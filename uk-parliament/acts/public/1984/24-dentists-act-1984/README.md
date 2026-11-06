@@ -33,7 +33,7 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 
 \[26th June 1984\]
 
-[^c10221261][^c10221271][^c10221281]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9e5317f03e482da1d911cfa0a3d3607d]
+[^c10221261][^c10221271][^c10221281]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9e5317f03e482da1d911cfa0a3d3607d]
 
 ## Contents
 
@@ -111,7 +111,7 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 - [Section 24 — Erasure on grounds of fraud or error](part-iii/section-24.md)
 - [Section 25 — Alteration of names and addresses.](part-iii/section-25.md)
 
-#### Registration appeals[^key-fea539dbed9f016a41aeaf3d4b780d37]
+#### Registration appeals[^c-fea539dbed9f016a41aeaf3d4b780d37]
 
 - [Section 25A — Registration appeals](part-iii/section-25a.md)
 
@@ -119,7 +119,7 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 
 - [Section 26 — Use of titles and descriptions.](part-iii/section-26.md)
 
-#### Insurance[^key-1f5743057e49c1f6117a3c7bd94e5dc1]
+#### Insurance[^c-1f5743057e49c1f6117a3c7bd94e5dc1]
 
 - [Section 26A — Indemnity arrangements](part-iii/section-26a.md)
 
@@ -142,7 +142,7 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 - [Section 31 — Special provisions where directions replace, or extend periods under, previous directions.](part-iii/section-31.md)
 - [Section 32 — Interim orders](part-iii/section-32.md)
 
-#### Supplementary provisions[^key-0deb801c8c9a0efce04ca8367a0dcc81]
+#### Supplementary provisions[^c-0deb801c8c9a0efce04ca8367a0dcc81]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,34 +160,34 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 - [Section 34AA — Limits on section 34A as respects visiting dentists from relevant European States](part-iii/section-34aa.md)
 - [Section 34B — Restoration of name to the register: professional training and development](part-iii/section-34b.md)
 
-#### Effect of disqualification in a relevant European State[^key-7ebf7a2e74b3d1df1606c96fcdf552d7]
+#### Effect of disqualification in a relevant European State[^c-7ebf7a2e74b3d1df1606c96fcdf552d7]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 35 — Effect on registration of disqualification in a relevant European State.](part-iii/section-35.md)
 
-#### Visiting dentists from relevant European States[^key-86773406c1081913fcc9f97d87eb85fb]
+#### Visiting dentists from relevant European States[^c-86773406c1081913fcc9f97d87eb85fb]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 36 — Visiting dentists from relevant European States.](part-iii/section-36.md)
 
-#### The Directive: designation of competent authority etc.[^key-a0a5be9ee3342c8643ead20100a7e6d3]
+#### The Directive: designation of competent authority etc.[^c-a0a5be9ee3342c8643ead20100a7e6d3]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 36ZA — The Directive: designation of competent authority etc.](part-iii/section-36za.md)
 - [Section 36ZB — Fees for provision of certificates](part-iii/section-36zb.md)
 
-### PART 3A — Professions Complementary to Dentistry[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+### PART 3A — Professions Complementary to Dentistry[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 *Extent: E+W+S+N.I.*
 
-#### Introductory[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+#### Introductory[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 - [Section 36A — Professions complementary to dentistry](part-3a/section-36a.md)
 
-#### Education and registration[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+#### Education and registration[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -198,34 +198,34 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 - [Section 36CC — Requisite knowledge and skill: recognition of relevant qualifications](part-3a/section-36cc.md)
 - [Section 36D — Education and training for members of professions complementary to dentistry](part-3a/section-36d.md)
 
-#### Procedure for registration[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+#### Procedure for registration[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 - [Section 36E — Rules relating to the dental care professionals register](part-3a/section-36e.md)
 - [Section 36EA — Applications by specified state professionals under section 36C](part-3a/section-36ea.md)
 - [Section 36F — Fees](part-3a/section-36f.md)
 
-#### Publication of the dental care professionals register[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+#### Publication of the dental care professionals register[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 - [Section 36G — Publication of the dental care professionals register](part-3a/section-36g.md)
 
-#### Erasures and alterations in the dental care professionals register[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+#### Erasures and alterations in the dental care professionals register[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 - [Section 36H — Erasure of names of deceased persons and of those who have ceased to practise](part-3a/section-36h.md)
 - [Section 36I — Erasure on grounds of fraud or error](part-3a/section-36i.md)
 
-#### Registration appeals[^key-d9935ccd217b3c00723b8aa5740af0c8]
+#### Registration appeals[^c-d9935ccd217b3c00723b8aa5740af0c8]
 
 - [Section 36J — Registration appeals](part-3a/section-36j.md)
 
-#### Use of titles and descriptions[^key-ab4407b8a03d50859e6c0a0648ea6539]
+#### Use of titles and descriptions[^c-ab4407b8a03d50859e6c0a0648ea6539]
 
 - [Section 36K — Use of titles and descriptions](part-3a/section-36k.md)
 
-#### Insurance[^key-ab4407b8a03d50859e6c0a0648ea6539]
+#### Insurance[^c-ab4407b8a03d50859e6c0a0648ea6539]
 
 - [Section 36L — Indemnity arrangements](part-3a/section-36l.md)
 
-#### Professional conduct and fitness to practise[^key-ab4407b8a03d50859e6c0a0648ea6539]
+#### Professional conduct and fitness to practise[^c-ab4407b8a03d50859e6c0a0648ea6539]
 
 *Extent: E+W+S+N.I.*
 
@@ -243,19 +243,19 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 - [Section 36U — Orders for immediate suspension and immediate conditional registration](part-3a/section-36u.md)
 - [Section 36V — Interim orders](part-3a/section-36v.md)
 
-#### Supplementary provisions[^key-84ce568102ea760cb7689856b060f120]
+#### Supplementary provisions[^c-84ce568102ea760cb7689856b060f120]
 
 - [Section 36W — Supplementary provisions relating to fitness to practise cases](part-3a/section-36w.md)
 - [Section 36X — Recording of suspension or conditional registration etc.](part-3a/section-36x.md)
 - [Section 36Y — The Council’s power to require disclosure of information](part-3a/section-36y.md)
 - [Section 36Z — Notification and disclosure by the Council](part-3a/section-36z.md)
 
-#### Professional training and development requirements[^key-42c405af04e447020df6997e3feb4c07]
+#### Professional training and development requirements[^c-42c405af04e447020df6997e3feb4c07]
 
 - [Section 36Z1 — Professional training and development requirements](part-3a/section-36z1.md)
 - [Section 36Z2 — Restoration of names to the dental care professionals register: professional training and development](part-3a/section-36z2.md)
 
-#### Visiting dental care professionals from relevant European States[^key-f7b7d3aa62d2b90c46dedc982a6c690d]
+#### Visiting dental care professionals from relevant European States[^c-f7b7d3aa62d2b90c46dedc982a6c690d]
 
 *Extent: E+W+S+N.I.*
 
@@ -284,7 +284,7 @@ An Act to consolidate the Dentists Acts 1957 to 1983, with an amendment to give 
 - [Section 44A — Supplementary provisions relating to financial penalties under sections 43B and 44](part-iv/section-44a.md)
 - [Section 44B — Appeals relating to financial penalties](part-iv/section-44b.md)
 
-### Part V — Dental Auxiliaries[^key-a8df7d3dd16947bde80564569fe87683]
+### Part V — Dental Auxiliaries[^c-a8df7d3dd16947bde80564569fe87683]
 
 *Extent: E+W+S+N.I.*
 
@@ -344,32 +344,32 @@ SCHEDULES
 
 [^c10221281]: Commencement: Act partly in force 26.7.1984 and wholly in force 1.1.1985; see s. 55
 
-[^key-9e5317f03e482da1d911cfa0a3d3607d]: Modification: Act: transitional provisions for effects of SI 2005/2011 (31.7.2006) by [The Dentists Act 1984 (Amendment) Order 2005 Transitional Provisions Order of Council 2006 (S.I. 2006/1671)](https://www.legislation.gov.uk/uksi/2006/1671), [arts. 1-11](https://www.legislation.gov.uk/uksi/2006/1671/article/1)
+[^c-9e5317f03e482da1d911cfa0a3d3607d]: Modification: Act: transitional provisions for effects of SI 2005/2011 (31.7.2006) by [The Dentists Act 1984 (Amendment) Order 2005 Transitional Provisions Order of Council 2006 (S.I. 2006/1671)](https://www.legislation.gov.uk/uksi/2006/1671), [arts. 1-11](https://www.legislation.gov.uk/uksi/2006/1671/article/1)
 
-[^key-fea539dbed9f016a41aeaf3d4b780d37]: Textual amendment: S. 25A and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 14](https://www.legislation.gov.uk/uksi/2005/2011/article/14) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-fea539dbed9f016a41aeaf3d4b780d37]: Textual amendment: S. 25A and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 14](https://www.legislation.gov.uk/uksi/2005/2011/article/14) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-1f5743057e49c1f6117a3c7bd94e5dc1]: Textual amendment: S. 26A and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 16](https://www.legislation.gov.uk/uksi/2005/2011/article/16) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-1f5743057e49c1f6117a3c7bd94e5dc1]: Textual amendment: S. 26A and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 16](https://www.legislation.gov.uk/uksi/2005/2011/article/16) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-0deb801c8c9a0efce04ca8367a0dcc81]: Textual amendment: S. 33 and cross-heading substituted for s. 33 (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 24](https://www.legislation.gov.uk/uksi/2005/2011/article/24) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-0deb801c8c9a0efce04ca8367a0dcc81]: Textual amendment: S. 33 and cross-heading substituted for s. 33 (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 24](https://www.legislation.gov.uk/uksi/2005/2011/article/24) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
 [^c10221871]: Textual amendment: Ss. 34A, 34B and preceding cross-heading inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2001/3926](https://www.legislation.gov.uk/uksi/2001/3926), [art. 8](https://www.legislation.gov.uk/uksi/2001/3926/article/8)
 
-[^key-7ebf7a2e74b3d1df1606c96fcdf552d7]: Textual amendment: Words in s. 35 cross-heading substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [119(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/119/a)
+[^c-7ebf7a2e74b3d1df1606c96fcdf552d7]: Textual amendment: Words in s. 35 cross-heading substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [119(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/119/a)
 
-[^key-86773406c1081913fcc9f97d87eb85fb]: Textual amendment: S. 36 cross-heading substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [120(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/120/a)
+[^c-86773406c1081913fcc9f97d87eb85fb]: Textual amendment: S. 36 cross-heading substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [120(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/120/a)
 
-[^key-a0a5be9ee3342c8643ead20100a7e6d3]: Textual amendment: Ss. 36ZA, 36ZB and cross-heading inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [121](https://www.legislation.gov.uk/uksi/2007/3101/regulation/121)
+[^c-a0a5be9ee3342c8643ead20100a7e6d3]: Textual amendment: Ss. 36ZA, 36ZB and cross-heading inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [121](https://www.legislation.gov.uk/uksi/2007/3101/regulation/121)
 
-[^key-1d96b1e0984e692736dfc03f35ac8d7a]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 29](https://www.legislation.gov.uk/uksi/2005/2011/article/29) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-1d96b1e0984e692736dfc03f35ac8d7a]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 29](https://www.legislation.gov.uk/uksi/2005/2011/article/29) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-d9935ccd217b3c00723b8aa5740af0c8]: Textual amendment: S. 36J and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 30](https://www.legislation.gov.uk/uksi/2005/2011/article/30) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-d9935ccd217b3c00723b8aa5740af0c8]: Textual amendment: S. 36J and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 30](https://www.legislation.gov.uk/uksi/2005/2011/article/30) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-ab4407b8a03d50859e6c0a0648ea6539]: Textual amendment: Ss. 36K-36V and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 31](https://www.legislation.gov.uk/uksi/2005/2011/article/31) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-ab4407b8a03d50859e6c0a0648ea6539]: Textual amendment: Ss. 36K-36V and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 31](https://www.legislation.gov.uk/uksi/2005/2011/article/31) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-84ce568102ea760cb7689856b060f120]: Textual amendment: S. 36W and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 32](https://www.legislation.gov.uk/uksi/2005/2011/article/32) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-84ce568102ea760cb7689856b060f120]: Textual amendment: S. 36W and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 32](https://www.legislation.gov.uk/uksi/2005/2011/article/32) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-42c405af04e447020df6997e3feb4c07]: Textual amendment: Ss. 36X-36Z2 inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 33](https://www.legislation.gov.uk/uksi/2005/2011/article/33) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-42c405af04e447020df6997e3feb4c07]: Textual amendment: Ss. 36X-36Z2 inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 33](https://www.legislation.gov.uk/uksi/2005/2011/article/33) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-f7b7d3aa62d2b90c46dedc982a6c690d]: Textual amendment: Ss. 36Z3, 36Z4 and cross-heading inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [126](https://www.legislation.gov.uk/uksi/2007/3101/regulation/126)
+[^c-f7b7d3aa62d2b90c46dedc982a6c690d]: Textual amendment: Ss. 36Z3, 36Z4 and cross-heading inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [126](https://www.legislation.gov.uk/uksi/2007/3101/regulation/126)
 
-[^key-a8df7d3dd16947bde80564569fe87683]: Textual amendment: Pt. V repealed (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 40](https://www.legislation.gov.uk/uksi/2005/2011/article/40) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-a8df7d3dd16947bde80564569fe87683]: Textual amendment: Pt. V repealed (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 40](https://www.legislation.gov.uk/uksi/2005/2011/article/40) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

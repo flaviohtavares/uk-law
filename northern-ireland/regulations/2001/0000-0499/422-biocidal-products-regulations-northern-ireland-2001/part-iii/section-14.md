@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Provisional registration[^key-987b6a30226462f465791d20187fa0d5]
+## 14. Provisional registration[^c-987b6a30226462f465791d20187fa0d5]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-987b6a30226462f465791d20187fa0d5]: Commencement: Reg. 14 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-987b6a30226462f465791d20187fa0d5]: Commencement: Reg. 14 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 382. Effect and validity of correction notice[^key-8b10fd3922ad4b1c4ec2536c8e81952d]
+## 382. Effect and validity of correction notice[^c-8b10fd3922ad4b1c4ec2536c8e81952d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b10fd3922ad4b1c4ec2536c8e81952d]: Commencement: S. 382 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8b10fd3922ad4b1c4ec2536c8e81952d]: Commencement: S. 382 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

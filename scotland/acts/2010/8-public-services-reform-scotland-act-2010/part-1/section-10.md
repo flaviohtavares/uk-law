@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Delegation of Ministerial functions under section 5 of Science and Technology Act 1965[^key-9052cf0f336d3ed875d9a7a2c109f005]
+## 10. Delegation of Ministerial functions under section 5 of Science and Technology Act 1965[^c-9052cf0f336d3ed875d9a7a2c109f005]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ After subsection (1) of section 5 of the Science and Technology Act 1965 (c. 4) 
 
 ## Annotations
 
-[^key-9052cf0f336d3ed875d9a7a2c109f005]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2010/8/section/10) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-9052cf0f336d3ed875d9a7a2c109f005]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2010/8/section/10) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

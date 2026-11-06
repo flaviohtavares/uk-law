@@ -22,8 +22,8 @@ summary: ''
 
 (1) Except as respects royalties, this Part does not apply to an intangible fixed asset so far as it is held for the purposes of any mutual trade or business.
 
-(2)[^key-433443f05c0c515332e5b2e05cfa90c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-433443f05c0c515332e5b2e05cfa90c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-433443f05c0c515332e5b2e05cfa90c2]: Textual amendment: S. 810(2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 176](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/176)
+[^c-433443f05c0c515332e5b2e05cfa90c2]: Textual amendment: S. 810(2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 176](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/176)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.212A. Annulment under section 261[^key-aafa31548d413a99e3c511729ff2ef28]
+## 6.212A. Annulment under section 261[^c-aafa31548d413a99e3c511729ff2ef28]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aafa31548d413a99e3c511729ff2ef28]: Textual amendment: [Rule 6.212A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.212A) revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/43) (with [rule 9(3)(a)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/3/a))
+[^c-aafa31548d413a99e3c511729ff2ef28]: Textual amendment: [Rule 6.212A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.212A) revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/43) (with [rule 9(3)(a)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/3/a))

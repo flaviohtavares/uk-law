@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Power of planning authority to issue temporary stop notice[^key-648b7feca498b598879d7a0d17e93f03]
+## 120. Power of planning authority to issue temporary stop notice[^c-648b7feca498b598879d7a0d17e93f03]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-648b7feca498b598879d7a0d17e93f03]: Commencement: S. 120 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-648b7feca498b598879d7a0d17e93f03]: Commencement: S. 120 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

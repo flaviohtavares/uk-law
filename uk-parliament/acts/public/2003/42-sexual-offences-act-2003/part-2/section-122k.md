@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122K. Sexual risk orders and interim sexual risk orders: supplementary[^key-c92bef4baad8882688e94afe22e1faca]
+## 122K. Sexual risk orders and interim sexual risk orders: supplementary[^c-c92bef4baad8882688e94afe22e1faca]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c92bef4baad8882688e94afe22e1faca]: Textual amendment: Ss. 122A-122K and cross-heading inserted (8.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2014/12/schedule/5/paragraph/4) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [114(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/114/1)[(3)-(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/114/3)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-c92bef4baad8882688e94afe22e1faca]: Textual amendment: Ss. 122A-122K and cross-heading inserted (8.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2014/12/schedule/5/paragraph/4) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [114(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/114/1)[(3)-(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/114/3)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)

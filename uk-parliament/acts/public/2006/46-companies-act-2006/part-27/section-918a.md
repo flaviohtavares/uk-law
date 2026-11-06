@@ -36,9 +36,9 @@ summary: ''
 - (a) the members, or holders of other securities, of a company, and
 - (b) whether shares or other securities carry a right to vote in general meetings of the company,
 
-are determined as at the date of the relevant application[^key-eba7e91fe53e57356ce15a0fa3afdecd].
+are determined as at the date of the relevant application[^c-eba7e91fe53e57356ce15a0fa3afdecd].
 
-(3)[^key-ba6b42db681c6f592ebbf0aeca0fda58] In subsection (2) “the relevant application” means—
+(3)[^c-ba6b42db681c6f592ebbf0aeca0fda58] In subsection (2) “the relevant application” means—
 
 - (a) in the case of a compromise or arrangement to be sanctioned under Part 26, the application to the court under section 896;
 - (b) in the case of a compromise or arrangement to be sanctioned under Part 26A, the application to the court under section 901C(1).
@@ -55,6 +55,6 @@ are determined as at the date of the relevant application[^key-eba7e91fe53e57356
 
 [^c21176541]: Textual amendment: S. 918A(1A) inserted (1.8.2011 with application in accordance with reg. 1(2)) by [The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011 (S.I. 2011/1606)](https://www.legislation.gov.uk/uksi/2011/1606), [reg. 18(3)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/18/3)
 
-[^key-eba7e91fe53e57356ce15a0fa3afdecd]: Textual amendment: Words in s. 918A(2) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(9)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/9/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-eba7e91fe53e57356ce15a0fa3afdecd]: Textual amendment: Words in s. 918A(2) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(9)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/9/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-ba6b42db681c6f592ebbf0aeca0fda58]: Textual amendment: S. 918A(3) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(9)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/9/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-ba6b42db681c6f592ebbf0aeca0fda58]: Textual amendment: S. 918A(3) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(9)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/9/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

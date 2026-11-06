@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Calculation of initial pre-commencement personal contributions amount: service credit days[^key-a34bc09b5cd87a1eb643464d564aa38f]
+## 54A. Calculation of initial pre-commencement personal contributions amount: service credit days[^c-a34bc09b5cd87a1eb643464d564aa38f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ The initial pre-commencement personal contributions amount in respect of service
 
 ## Annotations
 
-[^key-a34bc09b5cd87a1eb643464d564aa38f]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/uksi/2017/522/regulation/54A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2023/403/regulation/35)
+[^c-a34bc09b5cd87a1eb643464d564aa38f]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/uksi/2017/522/regulation/54A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2023/403/regulation/35)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144A. Regulated home reversion plans[^key-5d0246740230fa024a47902641446adc]
+## 144A. Regulated home reversion plans[^c-5d0246740230fa024a47902641446adc]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d0246740230fa024a47902641446adc]: Textual amendment: S. 144A inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/2)
+[^c-5d0246740230fa024a47902641446adc]: Textual amendment: S. 144A inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/2)

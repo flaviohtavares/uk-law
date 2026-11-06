@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Commission Regulation [(EC) No 2870/2000](https://www.legislation.gov.uk/eur/2000/2870)[^key-e3254baf4754fb8f4a2773a43545d2c6]
+## 16. Commission Regulation [(EC) No 2870/2000](https://www.legislation.gov.uk/eur/2000/2870)[^c-e3254baf4754fb8f4a2773a43545d2c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e3254baf4754fb8f4a2773a43545d2c6]: Commencement: Reg. 16 in force at 31.12.2020, see reg. 1(7)
+[^c-e3254baf4754fb8f4a2773a43545d2c6]: Commencement: Reg. 16 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414111]: Marginal citation: EUR 2000/2870. Prospective amendments were included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. Those prospective amendments are omitted by regulation 6 of this instrument and are replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 16 of this instrument.
 

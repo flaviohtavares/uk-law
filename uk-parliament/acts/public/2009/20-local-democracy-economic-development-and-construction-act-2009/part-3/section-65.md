@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Electoral changes consequential on boundary change in England[^key-a25eff12681ef35be0fd081beab5d97d]
+## 65. Electoral changes consequential on boundary change in England[^c-a25eff12681ef35be0fd081beab5d97d]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a25eff12681ef35be0fd081beab5d97d]: Commencement: S. 65 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(l)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/l)
+[^c-a25eff12681ef35be0fd081beab5d97d]: Commencement: S. 65 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(l)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/l)

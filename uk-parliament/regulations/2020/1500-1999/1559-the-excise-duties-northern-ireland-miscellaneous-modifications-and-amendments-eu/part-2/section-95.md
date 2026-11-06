@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Amendments to the Duty Stamps Regulations 2006[^key-50bdc3b62b488e27fdd15fd887612b17]
+## 95. Amendments to the Duty Stamps Regulations 2006[^c-50bdc3b62b488e27fdd15fd887612b17]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50bdc3b62b488e27fdd15fd887612b17]: Textual amendment: [Reg. 95](https://www.legislation.gov.uk/uksi/2020/1559/regulation/95) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(f)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/f)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-50bdc3b62b488e27fdd15fd887612b17]: Textual amendment: [Reg. 95](https://www.legislation.gov.uk/uksi/2020/1559/regulation/95) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(f)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/f)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))

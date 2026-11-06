@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Other investigatory powers[^key-c941acc08f3409814da63e9ff518401a]
+## 23. Other investigatory powers[^c-c941acc08f3409814da63e9ff518401a]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ which would, in legal proceedings, be protected from disclosure by virtue of any
 
 ## Annotations
 
-[^key-c941acc08f3409814da63e9ff518401a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2008/5/section/23) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-c941acc08f3409814da63e9ff518401a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2008/5/section/23) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

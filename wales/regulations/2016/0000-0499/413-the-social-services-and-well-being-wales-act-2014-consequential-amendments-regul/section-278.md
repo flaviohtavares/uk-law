@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**278.**[^key-d99d8e08ac1d5f168e2f7c60ce4d676d] The Social Care Charges (Wales) Measure 2010 is repealed.
+**278.**[^c-d99d8e08ac1d5f168e2f7c60ce4d676d] The Social Care Charges (Wales) Measure 2010 is repealed.
 
 ## Annotations
 
-[^key-d99d8e08ac1d5f168e2f7c60ce4d676d]: Commencement: Reg. 278 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d99d8e08ac1d5f168e2f7c60ce4d676d]: Commencement: Reg. 278 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

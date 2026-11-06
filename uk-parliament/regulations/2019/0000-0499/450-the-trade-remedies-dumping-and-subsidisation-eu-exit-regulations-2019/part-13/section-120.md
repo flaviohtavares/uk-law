@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120.[^key-a96259d4947f823dd87d2da30ced6dab]
+## 120.[^c-a96259d4947f823dd87d2da30ced6dab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Chapter 3 of Part 7 (TRA recommendation and decision of the Secretary of State) 
 
 ## Annotations
 
-[^key-a96259d4947f823dd87d2da30ced6dab]: Commencement: Reg. 120 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-a96259d4947f823dd87d2da30ced6dab]: Commencement: Reg. 120 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

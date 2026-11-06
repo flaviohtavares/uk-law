@@ -43,7 +43,7 @@ summary: ''
 
 **5.** (1) Regulations may provide for two or more applications for a variation with respect to the same application for a maintenance calculation to be considered together.
 
-(2)[^key-05aa1d1e179bbe2a29c37eb98ae229d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-05aa1d1e179bbe2a29c37eb98ae229d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An appeal tribunal considering an application for a variation under Article 28D(1)(b) may consider it at the same time as an appeal under Article 22 in connection with an interim maintenance decision, if it considers that to be appropriate.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^M_F_d101ed16-93cc-412c-8dde-704e8f6f32d3]: Textual amendment: Sch. 4A substituted (22.11.2000 and 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 6(1)](https://www.legislation.gov.uk/nia/2000/4/section/6/1), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/nia/2000/4/schedule/2/part/I); [S.R. 2000/358](https://www.legislation.gov.uk/nisr/2000/358), [art. 2(b)](https://www.legislation.gov.uk/nisr/2000/358/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2000/358/schedule/part/II); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
-[^key-05aa1d1e179bbe2a29c37eb98ae229d7]: Textual amendment: [Sch. 4A para. 5(2)](https://www.legislation.gov.uk/nisi/1991/2628/schedule/4A/paragraph/5/2) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-05aa1d1e179bbe2a29c37eb98ae229d7]: Textual amendment: [Sch. 4A para. 5(2)](https://www.legislation.gov.uk/nisi/1991/2628/schedule/4A/paragraph/5/2) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))

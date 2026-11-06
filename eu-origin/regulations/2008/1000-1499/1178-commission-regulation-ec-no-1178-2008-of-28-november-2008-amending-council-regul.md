@@ -36,60 +36,60 @@ amending Council Regulation (EC) No 1165/98 concerning short-term statistics and
 
 (Text with EEA relevance) (revoked)
 
-[^key-b157b19e25544bc364b20517dc0428f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b157b19e25544bc364b20517dc0428f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment to Regulation (EC) No 1165/98[^key-b157b19e25544bc364b20517dc0428f8]
+## Article 1. Amendment to Regulation (EC) No 1165/98[^c-b157b19e25544bc364b20517dc0428f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Regulation (EC) No 1503/2006[^key-b157b19e25544bc364b20517dc0428f8]
+## Article 2. Amendment to Regulation (EC) No 1503/2006[^c-b157b19e25544bc364b20517dc0428f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 657/2007[^key-b157b19e25544bc364b20517dc0428f8]
+## Article 3. Amendment to Regulation (EC) No 657/2007[^c-b157b19e25544bc364b20517dc0428f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-b157b19e25544bc364b20517dc0428f8]
+## Article 4. Entry into force[^c-b157b19e25544bc364b20517dc0428f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b157b19e25544bc364b20517dc0428f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b157b19e25544bc364b20517dc0428f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-b157b19e25544bc364b20517dc0428f8]
+## ANNEX I[^c-b157b19e25544bc364b20517dc0428f8]
 
-[^key-b157b19e25544bc364b20517dc0428f8]
+[^c-b157b19e25544bc364b20517dc0428f8]
 
 Annex A to Regulation (EC) No 1165/98 is amended as follows:
 
-[^key-b157b19e25544bc364b20517dc0428f8]1.
+[^c-b157b19e25544bc364b20517dc0428f8]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b157b19e25544bc364b20517dc0428f8]2.
+[^c-b157b19e25544bc364b20517dc0428f8]2.
 
 The text under heading (f) Level of detail is amended as follows:
 
-[^key-b157b19e25544bc364b20517dc0428f8]2.1.
+[^c-b157b19e25544bc364b20517dc0428f8]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b157b19e25544bc364b20517dc0428f8]2.2.
+[^c-b157b19e25544bc364b20517dc0428f8]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-b157b19e25544bc364b20517dc0428f8]
+## ANNEX II[^c-b157b19e25544bc364b20517dc0428f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-b157b19e25544bc364b20517dc0428f8]
+## ANNEX III[^c-b157b19e25544bc364b20517dc0428f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b157b19e25544bc364b20517dc0428f8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 140](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/140); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b157b19e25544bc364b20517dc0428f8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 140](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/140); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Application and investment of SCAVCs[^key-ac92f55e8379e53e0505781a5d34c05b]
+## 69. Application and investment of SCAVCs[^c-ac92f55e8379e53e0505781a5d34c05b]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac92f55e8379e53e0505781a5d34c05b]: Commencement: Reg. 69 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-ac92f55e8379e53e0505781a5d34c05b]: Commencement: Reg. 69 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

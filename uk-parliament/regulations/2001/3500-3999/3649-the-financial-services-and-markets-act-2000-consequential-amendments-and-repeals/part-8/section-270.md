@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Registered securities to which section 1 of the Act applies[^key-636f0d9f347d2e5dadd162cbf114ac25]
+## 270. Registered securities to which section 1 of the Act applies[^c-636f0d9f347d2e5dadd162cbf114ac25]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 1(4) of the Stock Transfer Act 1963 (registered securities which may 
 
 ## Annotations
 
-[^key-636f0d9f347d2e5dadd162cbf114ac25]: Commencement: Art. 270 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-636f0d9f347d2e5dadd162cbf114ac25]: Commencement: Art. 270 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00190]: Footnote: The words being substituted were in turn substituted by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 4.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 325. Administrator’s security[^key-64f24ce907c8fd6029b22a47361bad20]
+## 325. Administrator’s security[^c-64f24ce907c8fd6029b22a47361bad20]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64f24ce907c8fd6029b22a47361bad20]: Commencement: [Rule 325](https://www.legislation.gov.uk/uksi/2011/1301/rule/325) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-64f24ce907c8fd6029b22a47361bad20]: Commencement: [Rule 325](https://www.legislation.gov.uk/uksi/2011/1301/rule/325) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

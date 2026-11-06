@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Large Combustion Plants (Scotland) Regulations 2002 (revoked)[^key-e2ceb473e96c01b4014483cf563c2408]
+The Large Combustion Plants (Scotland) Regulations 2002 (revoked)[^c-e2ceb473e96c01b4014483cf563c2408]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 27th November 2002
 
-[^key-e2ceb473e96c01b4014483cf563c2408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ceb473e96c01b4014483cf563c2408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-e2ceb473e96c01b4014483cf563c2408]
+## 1. Citation, commencement and extent[^c-e2ceb473e96c01b4014483cf563c2408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e2ceb473e96c01b4014483cf563c2408]
+## 2. Interpretation[^c-e2ceb473e96c01b4014483cf563c2408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Pollution Prevention and Control (Scotland) Regulations 2000[^key-e2ceb473e96c01b4014483cf563c2408]
+## 3. Amendment to the Pollution Prevention and Control (Scotland) Regulations 2000[^c-e2ceb473e96c01b4014483cf563c2408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Authorisation to operate new plants[^key-e2ceb473e96c01b4014483cf563c2408]
+## 4. Authorisation to operate new plants[^c-e2ceb473e96c01b4014483cf563c2408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Deemed conditions in authorisations and permits[^key-e2ceb473e96c01b4014483cf563c2408]
+## 5. Deemed conditions in authorisations and permits[^c-e2ceb473e96c01b4014483cf563c2408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2ceb473e96c01b4014483cf563c2408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ceb473e96c01b4014483cf563c2408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e2ceb473e96c01b4014483cf563c2408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ceb473e96c01b4014483cf563c2408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2ceb473e96c01b4014483cf563c2408]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-e2ceb473e96c01b4014483cf563c2408]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

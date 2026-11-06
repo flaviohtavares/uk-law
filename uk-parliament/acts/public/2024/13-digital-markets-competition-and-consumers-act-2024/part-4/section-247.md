@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Meaning of “average consumer”: vulnerable persons[^key-2f0e071e88a74f69e2deba6ce1f8b0e0][^key-001f64a249dcbce868a298db55c10029]
+## 247. Meaning of “average consumer”: vulnerable persons[^c-2f0e071e88a74f69e2deba6ce1f8b0e0][^c-001f64a249dcbce868a298db55c10029]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0e071e88a74f69e2deba6ce1f8b0e0]: Commencement: S. 247 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2f0e071e88a74f69e2deba6ce1f8b0e0]: Commencement: S. 247 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-001f64a249dcbce868a298db55c10029]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2024/13/section/247) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-001f64a249dcbce868a298db55c10029]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2024/13/section/247) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Keeping of advice[^key-bc37ec0354240c223eb6f7f18ccd0594]
+## 42. Keeping of advice[^c-bc37ec0354240c223eb6f7f18ccd0594]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An occupier must keep a copy of any advice from a person who is a member of the 
 
 ## Annotations
 
-[^key-bc37ec0354240c223eb6f7f18ccd0594]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2021/77/regulation/42) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-bc37ec0354240c223eb6f7f18ccd0594]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2021/77/regulation/42) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

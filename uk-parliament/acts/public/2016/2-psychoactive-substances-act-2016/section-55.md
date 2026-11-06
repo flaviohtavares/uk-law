@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Application of Customs and Excise Management Act 1979[^key-bc0c7964c9bf1318dc495f9470ccfe36]
+## 55. Application of Customs and Excise Management Act 1979[^c-bc0c7964c9bf1318dc495f9470ccfe36]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc0c7964c9bf1318dc495f9470ccfe36]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/2/section/55) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-bc0c7964c9bf1318dc495f9470ccfe36]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/2/section/55) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

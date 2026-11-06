@@ -29,7 +29,7 @@ summary: ''
 
 (3) Design right is infringed by a person who without the licence of the design right owner does, or authorises another to do, anything which by virtue of this section is the exclusive right of the design right owner.
 
-(3A)[^key-9d866bff334846daa1433a5ecd5af7cf] But design right in a design is not infringed where a person does, or authorises another to do, anything relating to an article that is made to the design if the article has been put on the market in the United Kingdom or the European Economic Area with the licence of the design right owner.
+(3A)[^c-9d866bff334846daa1433a5ecd5af7cf] But design right in a design is not infringed where a person does, or authorises another to do, anything relating to an article that is made to the design if the article has been put on the market in the United Kingdom or the European Economic Area with the licence of the design right owner.
 
 (4) For the purposes of this section reproduction may be direct or indirect, and it is immaterial whether any intervening acts themselves infringe the design right.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d866bff334846daa1433a5ecd5af7cf]: Textual amendment: S. 226(3A) inserted (31.12.2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/4/3)
+[^c-9d866bff334846daa1433a5ecd5af7cf]: Textual amendment: S. 226(3A) inserted (31.12.2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/4/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Powers of forfeiture in respect of offence[^key-633df2ec4c156883bbe43fb79432703d]
+## 26. Powers of forfeiture in respect of offence[^c-633df2ec4c156883bbe43fb79432703d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-633df2ec4c156883bbe43fb79432703d]: Commencement: S. 26 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-633df2ec4c156883bbe43fb79432703d]: Commencement: S. 26 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)

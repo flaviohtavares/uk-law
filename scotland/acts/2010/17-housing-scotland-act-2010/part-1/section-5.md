@@ -22,19 +22,19 @@ summary: ''
 
 (1) Where the Regulator considers it appropriate, it must—
 
-- (a)[^key-df700d5d21e82c99b199fb09a224020b] consult representative bodies about the performance of its general functions (for example, by holding meetings), and
-- (b)[^key-9777dc920d9691fed63ae60f7d04b9f5] involve representative bodies in the performance of its general functions (for example, by appointing them to committees).
+- (a)[^c-df700d5d21e82c99b199fb09a224020b] consult representative bodies about the performance of its general functions (for example, by holding meetings), and
+- (b)[^c-9777dc920d9691fed63ae60f7d04b9f5] involve representative bodies in the performance of its general functions (for example, by appointing them to committees).
 
-(2)[^key-df700d5d21e82c99b199fb09a224020b] The representative bodies referred to in subsection (1) are—
+(2)[^c-df700d5d21e82c99b199fb09a224020b] The representative bodies referred to in subsection (1) are—
 
 - (a) representatives of homeless persons,
 - (b) representatives of tenants of social landlords, and
 - (c) representatives of recipients of housing services.
 
-(3)[^key-df700d5d21e82c99b199fb09a224020b] The Regulator must publish a statement about how it intends to comply with subsection (1).
+(3)[^c-df700d5d21e82c99b199fb09a224020b] The Regulator must publish a statement about how it intends to comply with subsection (1).
 
 ## Annotations
 
-[^key-df700d5d21e82c99b199fb09a224020b]: Commencement: S. 5(1)(a)(2)(3) in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-df700d5d21e82c99b199fb09a224020b]: Commencement: S. 5(1)(a)(2)(3) in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-9777dc920d9691fed63ae60f7d04b9f5]: Commencement: S. 5(1)(b) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-9777dc920d9691fed63ae60f7d04b9f5]: Commencement: S. 5(1)(b) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

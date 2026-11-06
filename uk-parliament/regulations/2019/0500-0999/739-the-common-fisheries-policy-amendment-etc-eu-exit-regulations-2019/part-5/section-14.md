@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Council Regulation [(EC) No 1100/2007](https://www.legislation.gov.uk/eur/2007/1100) establishing measures for the recovery of the stock of European Eel[^key-4f75fe7c291f046435881f679ed742c6]
+## 14. Council Regulation [(EC) No 1100/2007](https://www.legislation.gov.uk/eur/2007/1100) establishing measures for the recovery of the stock of European Eel[^c-4f75fe7c291f046435881f679ed742c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,7 +75,7 @@ summary: ''
   - (iv) for “as defined by Member States according to Article 2(1)” substitute “ in accordance with Eel Management Plans ”;
 - (b) omit paragraph 2;
 - (c) in paragraph 3—
-  - (i) for “the respective percentages set out in paragraph 2[^key-8bbf341f6feb745a52ca0f78cb593d5e],” substitute “ 60% ”, and
+  - (i) for “the respective percentages set out in paragraph 2[^c-8bbf341f6feb745a52ca0f78cb593d5e],” substitute “ 60% ”, and
   - (ii) for “Member States” substitute “ a fisheries administration ”;
 - (d) in paragraph 4 for “Article 2” substitute “ Article 1A ”;
 - (e) omit paragraph 5;
@@ -131,8 +131,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f75fe7c291f046435881f679ed742c6]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-4f75fe7c291f046435881f679ed742c6]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
 
 [^c23688081]: Marginal citation: OJ No. L 248, 22.9.2007, p.17.
 
-[^key-8bbf341f6feb745a52ca0f78cb593d5e]: Textual amendment: Word in reg. 14(7)(c)(i) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bbf341f6feb745a52ca0f78cb593d5e]: Textual amendment: Word in reg. 14(7)(c)(i) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

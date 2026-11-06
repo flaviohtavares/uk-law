@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Exercise of maritime enforcement powers[^key-ab27fcd2ac564e3ee7e4f95b73f35395][^key-7993fb8bff4a17a6825d7f73f11c38f1]
+## 119. Exercise of maritime enforcement powers[^c-ab27fcd2ac564e3ee7e4f95b73f35395][^c-7993fb8bff4a17a6825d7f73f11c38f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 (2) The maritime enforcement powers may be exercised for the purpose of enforcing any of the followingâ€”
 
-- (a) a prohibition in any of regulations 35 to 39 (trade sanctions relating to restricted goods and restricted technology) [^key-a9a77c2de23facbdae1b3dbb4e73efa9]...;
-- (b) a prohibition in any of regulations 43 to 52 (trade sanctions relating to goods and technology other than restricted goods and technology) , except for the prohibitions in regulation 50(3) (acquisition or transfer of fishing rights)[^key-18ccbdb783c07215f7e4a9e7735506a8];
+- (a) a prohibition in any of regulations 35 to 39 (trade sanctions relating to restricted goods and restricted technology) [^c-a9a77c2de23facbdae1b3dbb4e73efa9]...;
+- (b) a prohibition in any of regulations 43 to 52 (trade sanctions relating to goods and technology other than restricted goods and technology) , except for the prohibitions in regulation 50(3) (acquisition or transfer of fishing rights)[^c-18ccbdb783c07215f7e4a9e7735506a8];
 - (c) a prohibition imposed by a condition of a trade licence in relation to a prohibition mentioned in sub-paragraph (a) or (b).
 
 (3) The maritime enforcement powers may also be exercised in relation to a relevant ship for the purpose ofâ€”
@@ -45,10 +45,10 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 ## Annotations
 
-[^key-ab27fcd2ac564e3ee7e4f95b73f35395]: Commencement: Reg. 119 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-ab27fcd2ac564e3ee7e4f95b73f35395]: Commencement: Reg. 119 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-7993fb8bff4a17a6825d7f73f11c38f1]: Commencement: Reg. 119 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7993fb8bff4a17a6825d7f73f11c38f1]: Commencement: Reg. 119 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9a77c2de23facbdae1b3dbb4e73efa9]: Textual amendment: Words in [reg. 119(2)(a)](https://www.legislation.gov.uk/uksi/2019/411/regulation/119/2/a) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/11/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-a9a77c2de23facbdae1b3dbb4e73efa9]: Textual amendment: Words in [reg. 119(2)(a)](https://www.legislation.gov.uk/uksi/2019/411/regulation/119/2/a) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/11/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
 
-[^key-18ccbdb783c07215f7e4a9e7735506a8]: Textual amendment: Words in [reg. 119(2)(b)](https://www.legislation.gov.uk/uksi/2019/411/regulation/119/2/b) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/11/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-18ccbdb783c07215f7e4a9e7735506a8]: Textual amendment: Words in [reg. 119(2)(b)](https://www.legislation.gov.uk/uksi/2019/411/regulation/119/2/b) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/11/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

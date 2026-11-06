@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Building societies: power to make provision about ring-fencing[^key-19a4d2f03662c0d282adb00638e4609f]
+## 7. Building societies: power to make provision about ring-fencing[^c-19a4d2f03662c0d282adb00638e4609f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19a4d2f03662c0d282adb00638e4609f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/33/section/7) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/f)
+[^c-19a4d2f03662c0d282adb00638e4609f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/33/section/7) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 190. Information about payment of annual allowance charge[^key-fc657d7f794a1004700c489b1f9a4e03]
+## 190. Information about payment of annual allowance charge[^c-fc657d7f794a1004700c489b1f9a4e03]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fc657d7f794a1004700c489b1f9a4e03]: Commencement: Reg. 190 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-fc657d7f794a1004700c489b1f9a4e03]: Commencement: Reg. 190 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00087]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567); regulation 14A was inserted by regulations 2 and 8 of [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797). It was amended by the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), section 1 and Schedule 1, paragraph 88.
 

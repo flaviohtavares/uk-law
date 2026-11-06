@@ -33,7 +33,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford, Leicester, and North of England) (Amendment) Regulations 2020 (revoked)[^key-99748674317f5b9ad9a9b2c44578b371]
+The Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford, Leicester, and North of England) (Amendment) Regulations 2020 (revoked)[^c-99748674317f5b9ad9a9b2c44578b371]
 
 Approved by both Houses of Parliament
 
@@ -49,32 +49,32 @@ Coming into force
 
 8th September 2020
 
-[^key-99748674317f5b9ad9a9b2c44578b371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99748674317f5b9ad9a9b2c44578b371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-99748674317f5b9ad9a9b2c44578b371]
+## 1. Citation and commencement[^c-99748674317f5b9ad9a9b2c44578b371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) Regulations 2020[^key-99748674317f5b9ad9a9b2c44578b371]
+## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) Regulations 2020[^c-99748674317f5b9ad9a9b2c44578b371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020[^key-99748674317f5b9ad9a9b2c44578b371]
+## 3. Amendment of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020[^c-99748674317f5b9ad9a9b2c44578b371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020[^key-99748674317f5b9ad9a9b2c44578b371]
+## 4. Amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020[^c-99748674317f5b9ad9a9b2c44578b371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99748674317f5b9ad9a9b2c44578b371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99748674317f5b9ad9a9b2c44578b371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-99748674317f5b9ad9a9b2c44578b371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99748674317f5b9ad9a9b2c44578b371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99748674317f5b9ad9a9b2c44578b371]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (S.I. 2020/1104)](https://www.legislation.gov.uk/uksi/2020/1104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1104/regulation/1/2), [Sch. 3 para. 4(2)(f)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/4/2/f) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1104/regulation/9))
+[^c-99748674317f5b9ad9a9b2c44578b371]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (S.I. 2020/1104)](https://www.legislation.gov.uk/uksi/2020/1104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1104/regulation/1/2), [Sch. 3 para. 4(2)(f)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/4/2/f) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1104/regulation/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Change of form of investigation: provision of documentation and evidence[^key-cee43969c980cbb123c99d1761b0f143]
+## 39. Change of form of investigation: provision of documentation and evidence[^c-cee43969c980cbb123c99d1761b0f143]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cee43969c980cbb123c99d1761b0f143]: Commencement: Reg. 39 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-cee43969c980cbb123c99d1761b0f143]: Commencement: Reg. 39 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Round price for 800 MHz paired frequency lots[^key-19e8d1b1f22697d0ecff25897c665178]
+## 34. Round price for 800 MHz paired frequency lots[^c-19e8d1b1f22697d0ecff25897c665178]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19e8d1b1f22697d0ecff25897c665178]: Commencement: Reg. 34 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-19e8d1b1f22697d0ecff25897c665178]: Commencement: Reg. 34 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

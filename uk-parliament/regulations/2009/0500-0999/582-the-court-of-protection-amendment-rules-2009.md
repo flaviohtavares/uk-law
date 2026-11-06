@@ -32,7 +32,7 @@ summary: ''
 
 Mental Capacity, England And Wales
 
-The Court of Protection (Amendment) Rules 2009 (revoked)[^key-dcdd7c33443931d47e0c483b7d49b057]
+The Court of Protection (Amendment) Rules 2009 (revoked)[^c-dcdd7c33443931d47e0c483b7d49b057]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 1st April 2009
 
-[^key-dcdd7c33443931d47e0c483b7d49b057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcdd7c33443931d47e0c483b7d49b057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dcdd7c33443931d47e0c483b7d49b057]
+## 1. Citation and commencement[^c-dcdd7c33443931d47e0c483b7d49b057]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Court of Protection Rules 2007[^key-dcdd7c33443931d47e0c483b7d49b057]
+## 2. Amendments to the Court of Protection Rules 2007[^c-dcdd7c33443931d47e0c483b7d49b057]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dcdd7c33443931d47e0c483b7d49b057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dcdd7c33443931d47e0c483b7d49b057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-dcdd7c33443931d47e0c483b7d49b057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dcdd7c33443931d47e0c483b7d49b057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-dcdd7c33443931d47e0c483b7d49b057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-dcdd7c33443931d47e0c483b7d49b057] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcdd7c33443931d47e0c483b7d49b057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcdd7c33443931d47e0c483b7d49b057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dcdd7c33443931d47e0c483b7d49b057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcdd7c33443931d47e0c483b7d49b057]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcdd7c33443931d47e0c483b7d49b057]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/582) revoked (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rule 24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/1035/schedule)
+[^c-dcdd7c33443931d47e0c483b7d49b057]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/582) revoked (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rule 24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/1035/schedule)

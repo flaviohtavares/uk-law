@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Pig Carcase (Grading) Amendment (Scotland) Regulations 2006 (revoked)[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]
+The Pig Carcase (Grading) Amendment (Scotland) Regulations 2006 (revoked)[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 26th September 2006
 
-[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]
+## 1. Citation, commencement and extent[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Pig Carcase (Grading) Regulations 1994[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]
+## 2. Amendments to the Pig Carcase (Grading) Regulations 1994[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5f848262a6b2dc56b99a4a9bf6d13c6]: Textual amendment: Regulations revoked (9.10.2010) by [The Beef and Pig Carcase Classification (Scotland) Regulations 2010 (S.S.I. 2010/330)](https://www.legislation.gov.uk/ssi/2010/330), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2010/330/schedule/5)
+[^c-c5f848262a6b2dc56b99a4a9bf6d13c6]: Textual amendment: Regulations revoked (9.10.2010) by [The Beef and Pig Carcase Classification (Scotland) Regulations 2010 (S.S.I. 2010/330)](https://www.legislation.gov.uk/ssi/2010/330), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/1/2), [sch. 5](https://www.legislation.gov.uk/ssi/2010/330/schedule/5)

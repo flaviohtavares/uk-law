@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 28 — Repeals and revocations[^key-bcc0d64ca416b0151596efd4af17ec92]
+## SCHEDULE 28 — Repeals and revocations[^c-bcc0d64ca416b0151596efd4af17ec92]
 
 *Extent: E+W*
 
@@ -242,4 +242,4 @@ Section 413
 
 ## Annotations
 
-[^key-bcc0d64ca416b0151596efd4af17ec92]: Commencement: Sch. 28 in force at 1.12.2020 (except for the repeal of 2000 c. 6, s. 159 for specified purposes, see s. 416(9)) by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bcc0d64ca416b0151596efd4af17ec92]: Commencement: Sch. 28 in force at 1.12.2020 (except for the repeal of 2000 c. 6, s. 159 for specified purposes, see s. 416(9)) by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

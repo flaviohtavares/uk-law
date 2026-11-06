@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.9. Representation of interested persons who cannot be ascertained etc.[^M_F_615d3cbc-4152-4de2-b159-88bc59d0308a][^key-f81645039664bf70184edcf2dc4f1093]
+## 19.9. Representation of interested persons who cannot be ascertained etc.[^M_F_615d3cbc-4152-4de2-b159-88bc59d0308a][^c-f81645039664bf70184edcf2dc4f1093]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^M_F_615d3cbc-4152-4de2-b159-88bc59d0308a]: Textual amendment: Rule 19.7 renumbered as rule 19.9 (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(10)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/10)
 
-[^key-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)
+[^c-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)

@@ -26,7 +26,7 @@ summary: ''
 
 #### Certain restrictive measures
 
-**1.**[^key-b6c90f147c4e560badb36a58efaaf490] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**1.**[^c-b6c90f147c4e560badb36a58efaaf490] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 209, after subsection (7A) there is inserted—
 
@@ -39,7 +39,7 @@ summary: ''
 
 .
 
-**2.**[^key-6a354ff0da2e8a3383edc4bd04e80c7b] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**2.**[^c-6a354ff0da2e8a3383edc4bd04e80c7b] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 227A, after paragraph (i) of subsection (2) there is inserted—
 
@@ -90,13 +90,13 @@ summary: ''
 - (b) in paragraph (a), at the beginning there is inserted “in the case of any restricted movement requirement imposed by the order,”,
 - (c) in paragraph (b), for the words “where the only requirement” there is substituted “ in the case of a restricted movement requirement imposed under section 227ZC(7)(d), where the only requirement (apart from the restricted movement requirement) ”.
 
-**3.**[^key-89c65eed2539af281b41f89e6fc6825d] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**3.**[^c-89c65eed2539af281b41f89e6fc6825d] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 234AZA, in paragraph (a) of subsection (4), after the word “consider” there is inserted “ the question of ”.
 
 #### Notification, reports and addresses
 
-**4.**[^key-914a968ef55556a3fd4ad87d60602d55] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**4.**[^c-914a968ef55556a3fd4ad87d60602d55] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) After section 245D there is inserted—
 
@@ -122,7 +122,7 @@ summary: ''
 
 .
 
-**5.**[^key-912f2be61750303f74cb5da78b1eeaa5] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**5.**[^c-912f2be61750303f74cb5da78b1eeaa5] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 227ZG, in subsection (2)—
 
@@ -164,11 +164,11 @@ summary: ''
 
 ### PART 2 — Consequential provisions
 
-**6.**[^key-c175a99a1ef0e73f14e11d85af98c1d6] (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
+**6.**[^c-c175a99a1ef0e73f14e11d85af98c1d6] (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
 
 (2) In section 12AB, subsections (3) to (7) are repealed.
 
-**7.**[^key-7032713dc768f4bf711688a56e37c36c] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**7.**[^c-7032713dc768f4bf711688a56e37c36c] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) These sections are repealed—
 
@@ -187,36 +187,36 @@ summary: ''
 - (c) in the title of section 234CA, the word “remote” is repealed,
 - (d) in section 245A, in paragraph (a) of subsection (4), the words from “, including” to the end are repealed.
 
-**8.**[^key-e8d3368c6b0fb52fa853f39bac725e27] (1) The Crime and Punishment (Scotland) Act 1997 is amended as follows.
+**8.**[^c-e8d3368c6b0fb52fa853f39bac725e27] (1) The Crime and Punishment (Scotland) Act 1997 is amended as follows.
 
 (2) In section 63, paragraph (a)(i) of subsection (1) is repealed.
 
-**9.**[^key-5cffa0b5cd528c1d44472e0995cd6e3f] (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+**9.**[^c-5cffa0b5cd528c1d44472e0995cd6e3f] (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
 (2) Section 40 is repealed.
 
-**10.**[^key-71da09f3cdecda85080635d6b969625f] (1) The Custodial Sentences and Weapons (Scotland) Act 2007 is amended as follows.
+**10.**[^c-71da09f3cdecda85080635d6b969625f] (1) The Custodial Sentences and Weapons (Scotland) Act 2007 is amended as follows.
 
 (2) Section 49 is repealed.
 
 ## Annotations
 
-[^key-b6c90f147c4e560badb36a58efaaf490]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/1) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-b6c90f147c4e560badb36a58efaaf490]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/1) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-6a354ff0da2e8a3383edc4bd04e80c7b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/2) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/2))
+[^c-6a354ff0da2e8a3383edc4bd04e80c7b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/2) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/2))
 
-[^key-89c65eed2539af281b41f89e6fc6825d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/3) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-89c65eed2539af281b41f89e6fc6825d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/3) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-914a968ef55556a3fd4ad87d60602d55]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/4) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-914a968ef55556a3fd4ad87d60602d55]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/4) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-912f2be61750303f74cb5da78b1eeaa5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/5) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-912f2be61750303f74cb5da78b1eeaa5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/5) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-c175a99a1ef0e73f14e11d85af98c1d6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/6) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/3))
+[^c-c175a99a1ef0e73f14e11d85af98c1d6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/6) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/3))
 
-[^key-7032713dc768f4bf711688a56e37c36c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/7) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/4))
+[^c-7032713dc768f4bf711688a56e37c36c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/7) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/4))
 
-[^key-e8d3368c6b0fb52fa853f39bac725e27]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/8) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/5))
+[^c-e8d3368c6b0fb52fa853f39bac725e27]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/8) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/5))
 
-[^key-5cffa0b5cd528c1d44472e0995cd6e3f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/9) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/6))
+[^c-5cffa0b5cd528c1d44472e0995cd6e3f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/9) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/6))
 
-[^key-71da09f3cdecda85080635d6b969625f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/10) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-71da09f3cdecda85080635d6b969625f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/10) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

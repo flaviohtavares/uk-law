@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Details of the asset pool, safeguarding measures and reconciliation[^key-d5e715625cd9fb0ebc25b40507ff0bfc]
+## 20. Details of the asset pool, safeguarding measures and reconciliation[^c-d5e715625cd9fb0ebc25b40507ff0bfc]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d5e715625cd9fb0ebc25b40507ff0bfc]: Commencement: Rule 20 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-d5e715625cd9fb0ebc25b40507ff0bfc]: Commencement: Rule 20 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00011]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), amended by [S.I. 2017/1173](https://www.legislation.gov.uk/uksi/2017/1173), [2018/1021](https://www.legislation.gov.uk/uksi/2018/1021). There are other amending instruments but none is relevant.
 

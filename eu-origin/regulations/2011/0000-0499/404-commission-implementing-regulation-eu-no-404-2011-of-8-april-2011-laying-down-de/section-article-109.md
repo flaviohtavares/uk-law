@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. When a vehicle or a container has been sealed to avoid manipulation of the cargo, competent authorities of a fisheries administration must[^key-737d23ca3ef0570e7c593f3a7626536c] ensure that serial numbers of seals are noted on the transport document. Officials shall inspect that the seals are intact and that the serial numbers correspond with the details on the transport document.
+1. When a vehicle or a container has been sealed to avoid manipulation of the cargo, competent authorities of a fisheries administration must[^c-737d23ca3ef0570e7c593f3a7626536c] ensure that serial numbers of seals are noted on the transport document. Officials shall inspect that the seals are intact and that the serial numbers correspond with the details on the transport document.
 
 2. Where seals are removed to facilitate inspection of the cargo before the cargo arrives at the final destination, officials shall replace the original seal with a fresh seal, recording the seal details in the transport document and the reasons for the removal of the original seal.
 
 ## Annotations
 
-[^key-737d23ca3ef0570e7c593f3a7626536c]: Textual amendment: Words in [Art. 109](https://www.legislation.gov.uk/eur/2011/404/article/109) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(81)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/81); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-737d23ca3ef0570e7c593f3a7626536c]: Textual amendment: Words in [Art. 109](https://www.legislation.gov.uk/eur/2011/404/article/109) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(81)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/81); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

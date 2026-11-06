@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. “Meaning of “service reduction percentage”[^key-09960ac192e1db6bf605c62829601e7d]
+## 23A. “Meaning of “service reduction percentage”[^c-09960ac192e1db6bf605c62829601e7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Where—
 
 ## Annotations
 
-[^key-09960ac192e1db6bf605c62829601e7d]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/23A) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/5/3)
+[^c-09960ac192e1db6bf605c62829601e7d]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/23A) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/5/3)

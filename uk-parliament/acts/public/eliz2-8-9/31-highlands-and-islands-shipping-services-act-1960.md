@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: S*
 
-[^key-567241d49c4748c9b3b127423a75374d]Highlands and Islands Shipping Services Act 1960
+[^c-567241d49c4748c9b3b127423a75374d]Highlands and Islands Shipping Services Act 1960
 
 1960 c.31
 
@@ -95,7 +95,7 @@ and the former districts of Arran and Cumbrae.
 
 ## Annotations
 
-[^key-567241d49c4748c9b3b127423a75374d]: Textual amendment: Act ceases to have effect (10.10.2005) by virtue of [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 45(1)](https://www.legislation.gov.uk/asp/2005/12/section/45/1)[(2)](https://www.legislation.gov.uk/asp/2005/12/section/45/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-567241d49c4748c9b3b127423a75374d]: Textual amendment: Act ceases to have effect (10.10.2005) by virtue of [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 45(1)](https://www.legislation.gov.uk/asp/2005/12/section/45/1)[(2)](https://www.legislation.gov.uk/asp/2005/12/section/45/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
 [^c624443]: Marginal citation: [1937 c. 28](https://www.legislation.gov.uk/ukpga/1937/28).
 

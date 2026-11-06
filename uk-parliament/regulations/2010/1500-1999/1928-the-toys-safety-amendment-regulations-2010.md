@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Toys (Safety) (Amendment) Regulations 2010 (revoked)[^key-99e5e2eb1df5f8b53149664dd43e1506]
+The Toys (Safety) (Amendment) Regulations 2010 (revoked)[^c-99e5e2eb1df5f8b53149664dd43e1506]
 
 Made
 
@@ -52,28 +52,28 @@ Remainder
 
 1st December 2010
 
-[^key-99e5e2eb1df5f8b53149664dd43e1506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99e5e2eb1df5f8b53149664dd43e1506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-99e5e2eb1df5f8b53149664dd43e1506]
+## 1. Citation, commencement and interpretation[^c-99e5e2eb1df5f8b53149664dd43e1506]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 1995 Regulations taking effect on 27th August 2010[^key-99e5e2eb1df5f8b53149664dd43e1506]
+## 2. Amendments to the 1995 Regulations taking effect on 27th August 2010[^c-99e5e2eb1df5f8b53149664dd43e1506]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the 1995 Regulations taking effect on 1st December 2010[^key-99e5e2eb1df5f8b53149664dd43e1506]
+## 3. Amendments to the 1995 Regulations taking effect on 1st December 2010[^c-99e5e2eb1df5f8b53149664dd43e1506]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99e5e2eb1df5f8b53149664dd43e1506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99e5e2eb1df5f8b53149664dd43e1506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-99e5e2eb1df5f8b53149664dd43e1506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99e5e2eb1df5f8b53149664dd43e1506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99e5e2eb1df5f8b53149664dd43e1506]: Textual amendment: Regulations revoked (19.8.2011) by [The Toys (Safety) Regulations 2011 (S.I. 2011/1881)](https://www.legislation.gov.uk/uksi/2011/1881), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/2/1)
+[^c-99e5e2eb1df5f8b53149664dd43e1506]: Textual amendment: Regulations revoked (19.8.2011) by [The Toys (Safety) Regulations 2011 (S.I. 2011/1881)](https://www.legislation.gov.uk/uksi/2011/1881), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/2/1)

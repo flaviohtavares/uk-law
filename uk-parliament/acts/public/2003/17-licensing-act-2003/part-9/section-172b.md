@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 172B. Procedural requirements for early morning alcohol restriction order[^key-bcc51c55539c3a3caf93fd5b4224a2c3]
+## 172B. Procedural requirements for early morning alcohol restriction order[^c-bcc51c55539c3a3caf93fd5b4224a2c3]
 
 *Extent: E+W*
 
@@ -45,8 +45,8 @@ summary: ''
 - (a) the licensing authority and any other licensing authority in whose area part of any affected premises is situated,
 - (b) the chief officer of police for a police area any part of which is in the area specified in the order,
 - (c) the fire and rescue authority for an area any part of which is in the area specified in the order,
-- (d) the [^key-d8594d3f28b5ebc93470ffba47dfb8d9]... Local Health Board for an area any part of which is in the area specified in the order,
-- (da)[^key-f9eff5b97cf69a86b34cbdc34b05f749] the local authority in England whose public health functions within the meaning of the National Health Service Act 2006 are exercisable in respect of an area any part of which is in the area specified in the order,
+- (d) the [^c-d8594d3f28b5ebc93470ffba47dfb8d9]... Local Health Board for an area any part of which is in the area specified in the order,
+- (da)[^c-f9eff5b97cf69a86b34cbdc34b05f749] the local authority in England whose public health functions within the meaning of the National Health Service Act 2006 are exercisable in respect of an area any part of which is in the area specified in the order,
 - (e) the local weights and measures authority for any such area,
 - (f) the enforcing authority within the meaning given by section 18 of the Health and Safety at Work etc Act 1974 for any such area,
 - (g) the local planning authority within the meaning given by the Town and Country Planning Act 1990 for any such area,
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc51c55539c3a3caf93fd5b4224a2c3]: Textual amendment: Ss. 172A-172E substituted (31.10.2012) for ss. 172A-172E as inserted by Crime and Security Act 2010 (c. 17), s. 55(2) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a) (as amended by S.I. 2012/1659, art. 1(2), Sch. 3 para. 22 (with arts. 4-6))
+[^c-bcc51c55539c3a3caf93fd5b4224a2c3]: Textual amendment: Ss. 172A-172E substituted (31.10.2012) for ss. 172A-172E as inserted by Crime and Security Act 2010 (c. 17), s. 55(2) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a) (as amended by S.I. 2012/1659, art. 1(2), Sch. 3 para. 22 (with arts. 4-6))
 
-[^key-d8594d3f28b5ebc93470ffba47dfb8d9]: Textual amendment: Words in s. 172B(4)(d) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 116(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/116/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d8594d3f28b5ebc93470ffba47dfb8d9]: Textual amendment: Words in s. 172B(4)(d) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 116(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/116/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f9eff5b97cf69a86b34cbdc34b05f749]: Textual amendment: S. 172B(4)(da) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 116(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/116/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f9eff5b97cf69a86b34cbdc34b05f749]: Textual amendment: S. 172B(4)(da) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 116(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/116/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Local toilets strategies: interim progress statement[^key-6c0bce400ceebcdd300767e866871457]
+## 114. Local toilets strategies: interim progress statement[^c-6c0bce400ceebcdd300767e866871457]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0bce400ceebcdd300767e866871457]: Commencement: [S. 114](https://www.legislation.gov.uk/anaw/2017/2/section/114) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)
+[^c-6c0bce400ceebcdd300767e866871457]: Commencement: [S. 114](https://www.legislation.gov.uk/anaw/2017/2/section/114) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)

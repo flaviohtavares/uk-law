@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D1A. Members’ contributions: redundancy[^key-7e8cad1c82dca14adf0a97c232a29b04]
+## D1A. Members’ contributions: redundancy[^c-7e8cad1c82dca14adf0a97c232a29b04]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e8cad1c82dca14adf0a97c232a29b04]: Textual amendment: [Reg. D1A](https://www.legislation.gov.uk/uksi/1995/300/regulation/D1A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2015/96/regulation/6)
+[^c-7e8cad1c82dca14adf0a97c232a29b04]: Textual amendment: [Reg. D1A](https://www.legislation.gov.uk/uksi/1995/300/regulation/D1A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2015/96/regulation/6)

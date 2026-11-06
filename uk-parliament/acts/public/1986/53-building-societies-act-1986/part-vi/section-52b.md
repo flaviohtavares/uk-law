@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A justice of the peace may issue a warrant under section 176 of the Financial Services and Markets Act 2000 if satisfied on information on oath given by or on behalf of the FCA[^key-a4fd88d0cc38b5ee80b248bfc64ee191] or the PRA , an authorised officer within the meaning of section 52(5A) above, or a person appointed as an investigator under section 55(1) below or as an inspector under section 56(1) below, that there are reasonable grounds for believing that the first or second set of conditions below is satisfied.
+(1) A justice of the peace may issue a warrant under section 176 of the Financial Services and Markets Act 2000 if satisfied on information on oath given by or on behalf of the FCA[^c-a4fd88d0cc38b5ee80b248bfc64ee191] or the PRA , an authorised officer within the meaning of section 52(5A) above, or a person appointed as an investigator under section 55(1) below or as an inspector under section 56(1) below, that there are reasonable grounds for believing that the first or second set of conditions below is satisfied.
 
 (2) The first set of conditions is that—
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c15503201]: Textual amendment: S. 52B substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) for s. 52A by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(a)(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/a/b), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 para. 151](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/paragraph/151) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-a4fd88d0cc38b5ee80b248bfc64ee191]: Textual amendment: Words in s. 52B(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 17](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/17) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a4fd88d0cc38b5ee80b248bfc64ee191]: Textual amendment: Words in s. 52B(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 17](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/17) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

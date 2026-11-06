@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.4. Notice to introduce evidence of a defendant’s bad character[^key-3bdd2a50f77b45434f886461e8770094]
+## 21.4. Notice to introduce evidence of a defendant’s bad character[^c-3bdd2a50f77b45434f886461e8770094]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdd2a50f77b45434f886461e8770094]: Commencement: [Rule 21.4](https://www.legislation.gov.uk/uksi/2025/909/rule/21.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3bdd2a50f77b45434f886461e8770094]: Commencement: [Rule 21.4](https://www.legislation.gov.uk/uksi/2025/909/rule/21.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

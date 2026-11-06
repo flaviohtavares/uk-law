@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Special provision in relation to Northern Ireland recipients[^key-2be521e7e6bb34b1015549756c34631c]
+## 14. Special provision in relation to Northern Ireland recipients[^c-2be521e7e6bb34b1015549756c34631c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 contains amendments of the 2000 Act relating to donations received by
 
 ## Annotations
 
-[^key-2be521e7e6bb34b1015549756c34631c]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2006/33/section/14) substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/1/a), [28(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/i)
+[^c-2be521e7e6bb34b1015549756c34631c]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2006/33/section/14) substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/1/a), [28(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/i)

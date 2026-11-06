@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.2. Persons entitled to act on official receiver's behalf[^key-c35b89eb77dea3d6bdaa3083ce6f8ef0]
+## 10.2. Persons entitled to act on official receiver's behalf[^c-c35b89eb77dea3d6bdaa3083ce6f8ef0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c35b89eb77dea3d6bdaa3083ce6f8ef0]: Commencement: [Rule 10.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/10.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c35b89eb77dea3d6bdaa3083ce6f8ef0]: Commencement: [Rule 10.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/10.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

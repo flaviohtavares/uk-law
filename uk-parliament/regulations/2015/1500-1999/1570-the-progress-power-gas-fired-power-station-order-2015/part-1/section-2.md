@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-8074ddfd8e2d4f60bf3b08e6ab8015af]
+## 2. Interpretation[^c-8074ddfd8e2d4f60bf3b08e6ab8015af]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 - “the flood risk assessment” means the flood risk assessment submitted with the application as revision 0 dated December 2014 and certified as such by the Secretary of State for the purposes of this Order;
 - “footpath” and “footway” have the same meaning as in the 1980 Act;
 - “gas turbine generator” means either one or two gas turbines which drive a single electricity generator for the purposes of generating electricity;
-- “gross rated electrical output” means the aggregate of gross electrical power as measured at the terminals of each generator in accordance with standards agreed with the regulating authority under the Environmental Permitting (England and Wales) Regulations 2016[^key-e220eb6e29bc1e9297c2f204f9290b69];
+- “gross rated electrical output” means the aggregate of gross electrical power as measured at the terminals of each generator in accordance with standards agreed with the regulating authority under the Environmental Permitting (England and Wales) Regulations 2016[^c-e220eb6e29bc1e9297c2f204f9290b69];
 - “highway” and “highway authority” have the same meaning as in the 1980 Act;
 - “important hedgerow plan” means the important hedgerow plan submitted as revision 1.0 dated December 2014 and certified as such by the Secretary of State for the purposes of this Order;
 - “the land plans” means the plans submitted as revision 0 dated December 2014 and certified as the land plans by the Secretary of State for the purposes of this Order;
@@ -94,7 +94,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8074ddfd8e2d4f60bf3b08e6ab8015af]: Commencement: Art. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-8074ddfd8e2d4f60bf3b08e6ab8015af]: Commencement: Art. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). There are amendments to the 1961 Act which are not relevant to this Order.
 
@@ -106,7 +106,7 @@ summary: ''
 
 [^f00008]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22). Section 48(3A) was inserted by section 124 of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26). Sections 78(4), 80(4), and 83(4) were amended by section 40 of, and Schedule 1 to, the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-e220eb6e29bc1e9297c2f204f9290b69]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1570/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 96(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/96/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e220eb6e29bc1e9297c2f204f9290b69]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1570/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 96(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/96/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00010]: Footnote: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16). Section 1 was amended by section 311(2) and (3) of the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 

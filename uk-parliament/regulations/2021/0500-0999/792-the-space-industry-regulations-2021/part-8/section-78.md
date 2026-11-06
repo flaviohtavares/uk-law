@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Interpretation[^key-36f8d766a5f398848e86af0007a7cdec]
+## 78. Interpretation[^c-36f8d766a5f398848e86af0007a7cdec]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36f8d766a5f398848e86af0007a7cdec]: Commencement: Reg. 78 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-36f8d766a5f398848e86af0007a7cdec]: Commencement: Reg. 78 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

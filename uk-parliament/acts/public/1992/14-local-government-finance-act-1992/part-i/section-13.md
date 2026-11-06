@@ -30,7 +30,7 @@ summary: ''
 - (a) is less than the amount it would be apart from the regulations; and
 - (b) is determined in accordance with prescribed rules.
 
-(3) This section applies whether the amount mentioned in subsection (1) above is determined under section 10 above or under that section read with section 11 , 11A[^c18761271], 11B[^key-04d8e303200d7bb789b33164aa9f13cc] , 11C[^key-8ba64347fddb87bd67773174d8584a7d] , 12, 12A or 12B[^key-64b299d2bb5276b55476c53b3905f73d] above.
+(3) This section applies whether the amount mentioned in subsection (1) above is determined under section 10 above or under that section read with section 11 , 11A[^c18761271], 11B[^c-04d8e303200d7bb789b33164aa9f13cc] , 11C[^c-8ba64347fddb87bd67773174d8584a7d] , 12, 12A or 12B[^c-64b299d2bb5276b55476c53b3905f73d] above.
 
 (4) The conditions mentioned in subsection (1) above may be prescribed by reference to such factors as the Secretary of State thinks fit; and in particular such factors may include the making of an application by the person concerned and all or any of—
 
@@ -66,18 +66,18 @@ summary: ''
 
 (10) In subsection (9) above “**social security instrument**” means
 
-- (a)[^key-7b8acc32eda1492dd3407c4098a87506] an order or regulations made, or falling to be made, by the Secretary of State under the Social Security Acts, that is to say, the [^c12072961]Social Security Contributions and Benefits Act 1992 and the [^c12072971]Social Security Administration Act 1992; or[^key-f61485c0155fae4fa8566b0626a406f3]
+- (a)[^c-7b8acc32eda1492dd3407c4098a87506] an order or regulations made, or falling to be made, by the Secretary of State under the Social Security Acts, that is to say, the [^c12072961]Social Security Contributions and Benefits Act 1992 and the [^c12072971]Social Security Administration Act 1992; or[^c-f61485c0155fae4fa8566b0626a406f3]
 - (b) regulations made, or falling to be made, under Part 4 of the Welfare Reform Act 2012.
 
 ## Annotations
 
 [^c18761271]: Textual amendment: Words in s. 13(3) inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/42)
 
-[^key-04d8e303200d7bb789b33164aa9f13cc]: Textual amendment: Word in s. 13(3) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(5)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/5)
+[^c-04d8e303200d7bb789b33164aa9f13cc]: Textual amendment: Word in s. 13(3) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(5)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/5)
 
-[^key-8ba64347fddb87bd67773174d8584a7d]: Textual amendment: Word in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1992/14/section/13/3) inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 80(3)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/3/c), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-8ba64347fddb87bd67773174d8584a7d]: Textual amendment: Word in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1992/14/section/13/3) inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 80(3)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/3/c), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-64b299d2bb5276b55476c53b3905f73d]: Textual amendment: Words in s. 13(3) substituted (16.12.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 29(4)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/29/4); [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
+[^c-64b299d2bb5276b55476c53b3905f73d]: Textual amendment: Words in s. 13(3) substituted (16.12.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 29(4)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/29/4); [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
 
 [^c12072951]: Modification: S. 13(5) modified (W.) (7.2.1996) by [S.I.1996/56](https://www.legislation.gov.uk/uksi/1996/56), art, 2(1)
 
@@ -89,10 +89,10 @@ summary: ''
 
     S. 13(5) modified (26.2.1999) by [S.I. 1999/259](https://www.legislation.gov.uk/uksi/1999/259), [reg. 4](https://www.legislation.gov.uk/uksi/1999/259/regulation/4)
 
-[^key-7b8acc32eda1492dd3407c4098a87506]: Textual amendment: Words in s. 13(10) renumbered as s. 13(10)(a) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/2/a)
+[^c-7b8acc32eda1492dd3407c4098a87506]: Textual amendment: Words in s. 13(10) renumbered as s. 13(10)(a) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/2/a)
 
 [^c12072961]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^c12072971]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-f61485c0155fae4fa8566b0626a406f3]: Textual amendment: S. 13(10)(b) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/2/b)
+[^c-f61485c0155fae4fa8566b0626a406f3]: Textual amendment: S. 13(10)(b) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/2/b)

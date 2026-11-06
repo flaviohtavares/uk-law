@@ -65,7 +65,7 @@ summary: ''
 
 #### Transition committees for restructuring councils
 
-**4.**[^key-0303eb3e252e65fda4a22337bed1c62c] (1) After giving notice as described in section 129(6), the Welsh Ministers may direct two or more restructuring councils to establish a transition committee.
+**4.**[^c-0303eb3e252e65fda4a22337bed1c62c] (1) After giving notice as described in section 129(6), the Welsh Ministers may direct two or more restructuring councils to establish a transition committee.
 
 (2) The Welsh Ministers may specify in a direction under sub-paragraph (1) the functions and membership of a transition committee established in accordance with the direction.
 
@@ -73,7 +73,7 @@ summary: ''
 
 #### Sub-committees of transition committees for merging councils or restructuring councils
 
-**5.**[^c24533161][^key-26f98c46134839140ca92d064be409ac] (1) A transition committee may establish one or more sub-committees.
+**5.**[^c24533161][^c-26f98c46134839140ca92d064be409ac] (1) A transition committee may establish one or more sub-committees.
 
 (2) The function of a sub-committee of a transition committee is to advise the transition committee on matters referred to the sub-committee by the transition committee.
 
@@ -83,7 +83,7 @@ summary: ''
 
 #### Provision of funding, facilities and information etc. to transition committees for merging councils or restructuring councils
 
-**6.**[^c24533171][^key-9f98b6b3eff754d509796216ec5ab8bf] (1) The merging councils or restructuring councils must meet the costs of a transition committee in the proportions which they agree or, in default of agreement, which are determined by the Welsh Ministers.
+**6.**[^c24533171][^c-9f98b6b3eff754d509796216ec5ab8bf] (1) The merging councils or restructuring councils must meet the costs of a transition committee in the proportions which they agree or, in default of agreement, which are determined by the Welsh Ministers.
 
 (2) The merging councils or restructuring councils must provide to a transition committee the facilities and resources (including staff), information and documents reasonably requested by the transition committee (or any sub-committee of the transition committee) in order to enable it to exercise its functions.
 
@@ -91,18 +91,18 @@ summary: ''
 
 **7.**[^c24533181][^c24533191][^c24533211][^c24533231][^c24533241] (1) The Welsh Ministers may direct a transition committee to exercise its functions in accordance with the direction.
 
-(2)[^key-bf0c601f8bc5ef3584a929162ef30ff2] Neither a governance and audit committee nor an overview and scrutiny committee of a merging council or restructuring council may exercise any of its functions in relation to anything done by a transition committee; and for this purpose—
+(2)[^c-bf0c601f8bc5ef3584a929162ef30ff2] Neither a governance and audit committee nor an overview and scrutiny committee of a merging council or restructuring council may exercise any of its functions in relation to anything done by a transition committee; and for this purpose—
 
 - “**governance and audit committee**” (“***pwyllgor llywodraethu ac archwilio***”) has the meaning given by section 81 of the 2011 Measure;
 - “**overview and scrutiny committee**” (“***pwyllgor trosolwg a chraffu***”) has the meaning given by section 21(1) of the 2000 Act.
 
 (3) In this Part of this Schedule—
 
-- (a)[^key-bf0c601f8bc5ef3584a929162ef30ff2] “**transition committee**” means a transition committee established in accordance with paragraph 1 or by virtue of paragraph 4;
+- (a)[^c-bf0c601f8bc5ef3584a929162ef30ff2] “**transition committee**” means a transition committee established in accordance with paragraph 1 or by virtue of paragraph 4;
 - (b) a reference to a merging council in relation to a transition committee is to a merging council by which the transition committee is established;
-- (c)[^key-22a7b05dc298c835a7fc87d136b0f280] a reference to a restructuring council in relation to a transition committee is to a restructuring council by which the transition committee is established.
+- (c)[^c-22a7b05dc298c835a7fc87d136b0f280] a reference to a restructuring council in relation to a transition committee is to a restructuring council by which the transition committee is established.
 
-(4)[^key-61dbdeee41b2a2b2c448801e31a64fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-61dbdeee41b2a2b2c448801e31a64fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -112,15 +112,15 @@ summary: ''
 
 [^c24533151]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/11/paragraph/3) in force at 21.1.2021, see [s. 175(1)(f)(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2)
 
-[^key-0303eb3e252e65fda4a22337bed1c62c]: Commencement: Sch. 11 para. 4 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
+[^c-0303eb3e252e65fda4a22337bed1c62c]: Commencement: Sch. 11 para. 4 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
 
 [^c24533161]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/11/paragraph/5) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/7)
 
-[^key-26f98c46134839140ca92d064be409ac]: Commencement: Sch. 11 para. 5 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
+[^c-26f98c46134839140ca92d064be409ac]: Commencement: Sch. 11 para. 5 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
 
 [^c24533171]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/11/paragraph/6) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/7)
 
-[^key-9f98b6b3eff754d509796216ec5ab8bf]: Commencement: Sch. 11 para. 6 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
+[^c-9f98b6b3eff754d509796216ec5ab8bf]: Commencement: Sch. 11 para. 6 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
 
 [^c24533181]: Commencement: Sch. 11 para. 7(1) in force at 21.1.2021, see [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
@@ -132,8 +132,8 @@ summary: ''
 
 [^c24533241]: Commencement: Sch. 11 para. 7(4) in force at 21.1.2021, see [s. 175(1)(f)(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2)
 
-[^key-bf0c601f8bc5ef3584a929162ef30ff2]: Commencement: Sch. 11 para. 7(2)(3)(a) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
+[^c-bf0c601f8bc5ef3584a929162ef30ff2]: Commencement: Sch. 11 para. 7(2)(3)(a) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
 
-[^key-22a7b05dc298c835a7fc87d136b0f280]: Commencement: Sch. 11 para. 7(3)(c) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
+[^c-22a7b05dc298c835a7fc87d136b0f280]: Commencement: Sch. 11 para. 7(3)(c) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(i)](https://www.legislation.gov.uk/uksi/2021/297/article/2/i)
 
-[^key-61dbdeee41b2a2b2c448801e31a64fa1]: Textual amendment: Sch. 11 para. 7(4) omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 10 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/10/paragraph/10); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(h)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/h)
+[^c-61dbdeee41b2a2b2c448801e31a64fa1]: Textual amendment: Sch. 11 para. 7(4) omitted (1.4.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 10 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/10/paragraph/10); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(h)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/h)

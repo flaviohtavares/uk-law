@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) (Wales) Regulations 2001 (revoked)[^key-ea4d5b668690ae5b305e16e38022eee8]
+The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) (Wales) Regulations 2001 (revoked)[^c-ea4d5b668690ae5b305e16e38022eee8]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st July 2002
 
-[^key-ea4d5b668690ae5b305e16e38022eee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea4d5b668690ae5b305e16e38022eee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-ea4d5b668690ae5b305e16e38022eee8]
+## 1. Title and commencement[^c-ea4d5b668690ae5b305e16e38022eee8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of previous Regulations in relation to Wales[^key-ea4d5b668690ae5b305e16e38022eee8]
+## 2. Amendment of previous Regulations in relation to Wales[^c-ea4d5b668690ae5b305e16e38022eee8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea4d5b668690ae5b305e16e38022eee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea4d5b668690ae5b305e16e38022eee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea4d5b668690ae5b305e16e38022eee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea4d5b668690ae5b305e16e38022eee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea4d5b668690ae5b305e16e38022eee8]: Textual amendment: Regulations revoked (6.3.2005) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004 (S.I. 2004/314)](https://www.legislation.gov.uk/uksi/2004/314), [regs. 1](https://www.legislation.gov.uk/uksi/2004/314/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2004/314/regulation/13/2)
+[^c-ea4d5b668690ae5b305e16e38022eee8]: Textual amendment: Regulations revoked (6.3.2005) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004 (S.I. 2004/314)](https://www.legislation.gov.uk/uksi/2004/314), [regs. 1](https://www.legislation.gov.uk/uksi/2004/314/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2004/314/regulation/13/2)

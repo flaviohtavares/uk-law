@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Bids made by an excluded bidder[^key-e1b3e147050b570e091b062332f29329]
+## 113. Bids made by an excluded bidder[^c-e1b3e147050b570e091b062332f29329]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b3e147050b570e091b062332f29329]: Commencement: Reg. 113 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e1b3e147050b570e091b062332f29329]: Commencement: Reg. 113 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

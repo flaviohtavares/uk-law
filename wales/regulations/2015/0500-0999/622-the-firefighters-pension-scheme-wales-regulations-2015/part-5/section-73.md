@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Annual rate of retirement pension after exercise of partial retirement option[^key-4131e0db00fc61664b0c7366838c4b49]
+## 73. Annual rate of retirement pension after exercise of partial retirement option[^c-4131e0db00fc61664b0c7366838c4b49]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4131e0db00fc61664b0c7366838c4b49]: Commencement: Reg. 73 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-4131e0db00fc61664b0c7366838c4b49]: Commencement: Reg. 73 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

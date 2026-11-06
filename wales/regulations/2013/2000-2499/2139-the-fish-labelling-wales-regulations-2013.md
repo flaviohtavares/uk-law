@@ -58,56 +58,56 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement, application and extent[^key-a417ec66afff069535ba6c93a7181d6c]
+### 1. Title, commencement, application and extent[^c-a417ec66afff069535ba6c93a7181d6c]
 
 (1) The title of these Regulations is the Fish Labelling (Wales) Regulations 2013.
 
 (2) These Regulations come into force on 26 September 2013 and they apply to Wales.
 
-### 2. Interpretation[^key-f8782ce3f12c70eb23416da5c5d814b1]
+### 2. Interpretation[^c-f8782ce3f12c70eb23416da5c5d814b1]
 
-(1)[^key-d13b2eeb30df015dfe27f4bfd731f9d7] In these Regulations—
+(1)[^c-d13b2eeb30df015dfe27f4bfd731f9d7] In these Regulations—
 
-- [^key-3fb50208d8ca49c0044d6fee2b3bdad5]...
+- [^c-3fb50208d8ca49c0044d6fee2b3bdad5]...
 - “Regulation 1224/2009” (“*Rheoliad >1224/2009*”) means Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy;
 - “Regulation 404/2011” (“*Rheoliad >404/2011*”) means Commission Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy;
 - “Regulation 1379/2013” (“*Rheoliad >1379/2013*”) means Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products.
-- “the specified Regulations” (“[^key-1dded4a04f6728441ad73185467e8e70]*y Rheoliadau Penodedig*”) means Regulation 1224/2009, Regulation 404/2011 and Regulation 1379/2013.
+- “the specified Regulations” (“[^c-1dded4a04f6728441ad73185467e8e70]*y Rheoliadau Penodedig*”) means Regulation 1224/2009, Regulation 404/2011 and Regulation 1379/2013.
 
 (2) In these Regulations—
 
-- (a) references to any of the specified[^key-6b646825acd1030ebbc0b1edd7bac50c] Regulations are references to the specified Regulations in question as amended from time to time; and
+- (a) references to any of the specified[^c-6b646825acd1030ebbc0b1edd7bac50c] Regulations are references to the specified Regulations in question as amended from time to time; and
 - (b) terms used that are also used in any of the specified Regulations have the same meaning as in the specified Regulations in question.
 
 ## PART 2 — Consumer information and traceability requirements in Wales
 
-### 3. Interpretation of Part 3[^key-6e93fc29ee460f4aabc764ae4c45d5bf]
+### 3. Interpretation of Part 3[^c-6e93fc29ee460f4aabc764ae4c45d5bf]
 
 In this Part, “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990.
 
-### 4. Consumer information and traceability requirements[^key-08d0cd2059b134f8b4cb7397548b5f0b]
+### 4. Consumer information and traceability requirements[^c-08d0cd2059b134f8b4cb7397548b5f0b]
 
 (1) In this Part—
 
-- (a) “consumer information requirement” (“*gofyniad gwybodaeth i ddefnyddwyr*”) means a requirement referred to in paragraph (2), subject to paragraphs (6) and[^key-3b385d5e3da1756d74eb159820ccb31f] (7); and
+- (a) “consumer information requirement” (“*gofyniad gwybodaeth i ddefnyddwyr*”) means a requirement referred to in paragraph (2), subject to paragraphs (6) and[^c-3b385d5e3da1756d74eb159820ccb31f] (7); and
 - (b) “traceability requirement” (“*gofyniad gallu i olrhain*”) means a requirement referred to in paragraph (3), subject to paragraph (7).
 
 (2) For the purposes of paragraph (1)(a), the requirements are—
 
-- (a)[^key-61f56245efd0517f11196ee779e5a451] a requirement specified in Article 35 of Regulation 1379/2013 (provision of consumer information) as read with Article 38 of that Regulation, and a requirement as specified in Article 39(3) or (4) of Regulation 1379/2013 as read with paragraph (1) of that Article;
+- (a)[^c-61f56245efd0517f11196ee779e5a451] a requirement specified in Article 35 of Regulation 1379/2013 (provision of consumer information) as read with Article 38 of that Regulation, and a requirement as specified in Article 39(3) or (4) of Regulation 1379/2013 as read with paragraph (1) of that Article;
 - (b) a requirement specified in Article 58(6) of Regulation 1224/2009 as read with Articles 67(13) and 68 of Regulation 404/2011.
 
-(3) For the purposes of paragraph (1)(b), the requirements are Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation , Article 67(1) to (3)[^key-c0059e7c0d666e685a1533b7b7c1903b] , (5) to (7) and (9)[^key-f41226d391506adbc2820e8de2b8719f] to (13) of Regulation 404/2011 and Articles 35(1)(c) and 38 of Regulation 1379/2013.
+(3) For the purposes of paragraph (1)(b), the requirements are Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation , Article 67(1) to (3)[^c-c0059e7c0d666e685a1533b7b7c1903b] , (5) to (7) and (9)[^c-f41226d391506adbc2820e8de2b8719f] to (13) of Regulation 404/2011 and Articles 35(1)(c) and 38 of Regulation 1379/2013.
 
-(4)[^key-eb6f4f6394753fd51815d747b2a83f34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-eb6f4f6394753fd51815d747b2a83f34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-eb6f4f6394753fd51815d747b2a83f34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eb6f4f6394753fd51815d747b2a83f34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-b9a300ebdc31da54dbb26eef8cc817bf] The requirement referred to in paragraph (2)(a) does not apply in circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) of Regulation 1224/2009.
+(6)[^c-b9a300ebdc31da54dbb26eef8cc817bf] The requirement referred to in paragraph (2)(a) does not apply in circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) of Regulation 1224/2009.
 
-(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^key-16f9ba31532ea1a15c757f927cee4ba6] per day.
+(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^c-16f9ba31532ea1a15c757f927cee4ba6] per day.
 
-### 5. Improvement notice[^key-df970beebbd720aae0a3d21547a1b17f]
+### 5. Improvement notice[^c-df970beebbd720aae0a3d21547a1b17f]
 
 (1) Section 10 of the Act (improvement notices) applies for the purposes of these Regulations with the following modifications.
 
@@ -120,18 +120,18 @@ In this Part, “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990.
 > - (c) specify the measures which, in the officer’s opinion, the operator must take in order to secure compliance; and
 > - (d) require the operator to take those measures, or measures which are at least equivalent to them, within such period as may be specified in the notice.
 
-(3)[^key-471a8179632d48948470bbfe2be703b5] For subsection (3), substitute—
+(3)[^c-471a8179632d48948470bbfe2be703b5] For subsection (3), substitute—
 
 > (3) In this section—
 >
 > - (a) “consumer information requirement” and “traceability requirement” have the meanings given by regulation 4(1) of the Fish Labelling (Wales) Regulations 2013;
-> - (b) “operator” has the same meaning as in the specified[^key-e66008fcc57a3c248211bc7fd1a93460] Regulations as defined in regulation 2(1) of the Fish Labelling (Wales) Regulations 2013 as read with regulation 2(2)(a) of those Regulations.
+> - (b) “operator” has the same meaning as in the specified[^c-e66008fcc57a3c248211bc7fd1a93460] Regulations as defined in regulation 2(1) of the Fish Labelling (Wales) Regulations 2013 as read with regulation 2(2)(a) of those Regulations.
 
-### 6. Appeal to the magistrates’ court[^key-d0924df00a000b7abe4a9fe44c73c62b]
+### 6. Appeal to the magistrates’ court[^c-d0924df00a000b7abe4a9fe44c73c62b]
 
 (1) Section 37 of the Act[^f00014] (appeals to magistrates’ court or sheriff) applies for the purposes of these Regulations with the following modifications.
 
-(2)[^key-be5e471a3f866f00a26168cd827d4fa2] For subsection (1), substitute—
+(2)[^c-be5e471a3f866f00a26168cd827d4fa2] For subsection (1), substitute—
 
 > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10, as applied by regulation 5 of the Fish Labelling (Wales) Regulations 2013, may appeal to the magistrates’ court.
 
@@ -139,17 +139,17 @@ In this Part, “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990.
 
 (4) In subsection (6), for “(3) or (4)”, substitute “(1)”.
 
-### 7. Appeals against improvement notices[^key-dfd8afdb8f8e6272d854090c9d3cf287]
+### 7. Appeals against improvement notices[^c-dfd8afdb8f8e6272d854090c9d3cf287]
 
 (1) Section 39 of the Act (appeals against improvement notices) applies for the purposes of these Regulations with the following modifications.
 
-(2)[^key-53fed9dd791808588e53bae2326f83d6] For subsection (1), substitute—
+(2)[^c-53fed9dd791808588e53bae2326f83d6] For subsection (1), substitute—
 
 > (1) On an appeal against an improvement notice served under section 10, as applied by regulation 5 of the Fish Labelling (Wales) Regulations 2013, the court may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the court may in the circumstances think fit.
 
 (3) In subsection (3), omit “for want of prosecution”.
 
-### 8. Requirement to keep records[^key-dbbd2b961522d726b3948b8825349935]
+### 8. Requirement to keep records[^c-dbbd2b961522d726b3948b8825349935]
 
 (1) For the purposes of Article 58(4) of Regulation 1224/2009, an operator must keep a record of the information referred to in that Article as read with Article 67(4) of Regulation 404/2011.
 
@@ -157,25 +157,25 @@ In this Part, “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990.
 
 (3) It is an offence to fail to comply with this regulation.
 
-### 9. Requirement to produce records[^key-56a9f24aafa9e1e8edb9b8e30bb68169]
+### 9. Requirement to produce records[^c-56a9f24aafa9e1e8edb9b8e30bb68169]
 
 An operator who fails to comply with the second sentence of Article 58(4) of Regulation 1224/2009 is guilty of an offence.
 
-### 10. Penalties[^key-73b85b73294ba90b907f0f1fe59e5394]
+### 10. Penalties[^c-73b85b73294ba90b907f0f1fe59e5394]
 
 A person guilty of an offence under regulation 8 or 9 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 11. Application and modification of the Act[^key-3b041c8c4d102a11d89a7896d963dfda]
+### 11. Application and modification of the Act[^c-3b041c8c4d102a11d89a7896d963dfda]
 
 The Schedule (application and modification of the Act) has effect.
 
-### 12. Enforcement[^key-b91c58168ceba1ca0c159f752a87bd61]
+### 12. Enforcement[^c-b91c58168ceba1ca0c159f752a87bd61]
 
 (1) Each food authority must enforce and execute these Regulations in its area.
 
 (2) Each food authority is the competent authority in its area for the purposes of Article 58(4) of Regulation 1224/2009 and Article 67(5) of Regulation 404/2011.
 
-### 13. Revocation[^key-4caadf8b1172e48378c0909ebe9b89eb]
+### 13. Revocation[^c-4caadf8b1172e48378c0909ebe9b89eb]
 
 The Fish Labelling (Wales) Regulations 2010[^f00015] are revoked.
 
@@ -189,7 +189,7 @@ Regulation 11
 
 ### PART 1 — General
 
-**1.**[^key-7b622cbc54630a665c919dc171feccf1][^M_C_3c1af187-3665-4670-f88c-f98e3c9cc8f1] The following provisions of the Act apply for the purposes of these Regulations with the following modifications—
+**1.**[^c-7b622cbc54630a665c919dc171feccf1][^M_C_3c1af187-3665-4670-f88c-f98e3c9cc8f1] The following provisions of the Act apply for the purposes of these Regulations with the following modifications—
 
 <table>
 <thead>
@@ -212,10 +212,10 @@ Regulation 11
 
 ### PART 2 — Powers of entry
 
-**2.**[^key-3065aefe485c4ede304f090d4a742748] For the purpose of enabling an authorised officer of an enforcement authority to ascertain whether there is, or has been, any contravention of a consumer information requirement or a traceability requirement, section 32 of the Act[^f00019] (powers of entry) is modified in its application to these Regulations as follows—
+**2.**[^c-3065aefe485c4ede304f090d4a742748] For the purpose of enabling an authorised officer of an enforcement authority to ascertain whether there is, or has been, any contravention of a consumer information requirement or a traceability requirement, section 32 of the Act[^f00019] (powers of entry) is modified in its application to these Regulations as follows—
 
 - (a) in subsection (1)(a), after “made under it” insert “, or of a consumer information requirement or a traceability requirement”;
-- (b)[^key-cfd9b6bf590f0c9d85f30f98ae67b3d9] after subsection (9), insert—
+- (b)[^c-cfd9b6bf590f0c9d85f30f98ae67b3d9] after subsection (9), insert—
 
   > (10) In this section, “consumer information requirement” and “traceability requirement” have the meanings given by regulation 4(1) of the Fish Labelling (Wales) Regulations 2013.
 
@@ -265,67 +265,67 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00013]: Footnote: OJ No L 31, 1.2.2002, p 1, as last amended by OJ No L 188, 18.7.2009, p 14.
 
-[^key-a417ec66afff069535ba6c93a7181d6c]: Commencement: Reg. 1 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-a417ec66afff069535ba6c93a7181d6c]: Commencement: Reg. 1 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-f8782ce3f12c70eb23416da5c5d814b1]: Commencement: Reg. 2 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-f8782ce3f12c70eb23416da5c5d814b1]: Commencement: Reg. 2 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-d13b2eeb30df015dfe27f4bfd731f9d7]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2/1) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/2)
+[^c-d13b2eeb30df015dfe27f4bfd731f9d7]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2/1) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/2)
 
-[^key-3fb50208d8ca49c0044d6fee2b3bdad5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2) omitted (31.12.2020) by virtue of [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3fb50208d8ca49c0044d6fee2b3bdad5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2) omitted (31.12.2020) by virtue of [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dded4a04f6728441ad73185467e8e70]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2) inserted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1dded4a04f6728441ad73185467e8e70]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2) inserted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b646825acd1030ebbc0b1edd7bac50c]: Textual amendment: Word in [reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2/2/b) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(2)(c)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b646825acd1030ebbc0b1edd7bac50c]: Textual amendment: Word in [reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/2/2/b) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(2)(c)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e93fc29ee460f4aabc764ae4c45d5bf]: Commencement: Reg. 3 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-6e93fc29ee460f4aabc764ae4c45d5bf]: Commencement: Reg. 3 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-08d0cd2059b134f8b4cb7397548b5f0b]: Commencement: Reg. 4 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-08d0cd2059b134f8b4cb7397548b5f0b]: Commencement: Reg. 4 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-3b385d5e3da1756d74eb159820ccb31f]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/1/a) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/a)
+[^c-3b385d5e3da1756d74eb159820ccb31f]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/1/a) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/a)
 
-[^key-61f56245efd0517f11196ee779e5a451]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/2/a) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/b)
+[^c-61f56245efd0517f11196ee779e5a451]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/2/a) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/b)
 
-[^key-c0059e7c0d666e685a1533b7b7c1903b]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/3) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/c)
+[^c-c0059e7c0d666e685a1533b7b7c1903b]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/3) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/c)
 
-[^key-f41226d391506adbc2820e8de2b8719f]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/3) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f41226d391506adbc2820e8de2b8719f]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/3) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb6f4f6394753fd51815d747b2a83f34]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/4)[(5)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/5) omitted (13.12.2014) by virtue of [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/d)
+[^c-eb6f4f6394753fd51815d747b2a83f34]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/4)[(5)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/5) omitted (13.12.2014) by virtue of [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/d)
 
-[^key-b9a300ebdc31da54dbb26eef8cc817bf]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/6) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/e)
+[^c-b9a300ebdc31da54dbb26eef8cc817bf]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/6) substituted (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/2/3/e)
 
-[^key-16f9ba31532ea1a15c757f927cee4ba6]: Textual amendment: Sum in [reg. 4(7)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/7) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16f9ba31532ea1a15c757f927cee4ba6]: Textual amendment: Sum in [reg. 4(7)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/4/7) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df970beebbd720aae0a3d21547a1b17f]: Commencement: Reg. 5 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-df970beebbd720aae0a3d21547a1b17f]: Commencement: Reg. 5 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-471a8179632d48948470bbfe2be703b5]: Modification: [Reg. 5(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/5/3) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
+[^c-471a8179632d48948470bbfe2be703b5]: Modification: [Reg. 5(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/5/3) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
 
-[^key-e66008fcc57a3c248211bc7fd1a93460]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/5/3) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(4)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e66008fcc57a3c248211bc7fd1a93460]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/5/3) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [4(4)](https://www.legislation.gov.uk/wsi/2019/435/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0924df00a000b7abe4a9fe44c73c62b]: Commencement: Reg. 6 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-d0924df00a000b7abe4a9fe44c73c62b]: Commencement: Reg. 6 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
 [^f00014]: Footnote: Section 37 was amended by section 48(1) of, and paragraph 13(1) and (3) of Schedule 8 to, the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and by section 146 of, and Part 1 of Schedule 23 to, that Act.
 
-[^key-be5e471a3f866f00a26168cd827d4fa2]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/6/2) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
+[^c-be5e471a3f866f00a26168cd827d4fa2]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/6/2) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
 
-[^key-dfd8afdb8f8e6272d854090c9d3cf287]: Commencement: Reg. 7 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-dfd8afdb8f8e6272d854090c9d3cf287]: Commencement: Reg. 7 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-53fed9dd791808588e53bae2326f83d6]: Modification: [Reg. 7(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/7/2) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
+[^c-53fed9dd791808588e53bae2326f83d6]: Modification: [Reg. 7(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/7/2) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
 
-[^key-dbbd2b961522d726b3948b8825349935]: Commencement: Reg. 8 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-dbbd2b961522d726b3948b8825349935]: Commencement: Reg. 8 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-56a9f24aafa9e1e8edb9b8e30bb68169]: Commencement: Reg. 9 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-56a9f24aafa9e1e8edb9b8e30bb68169]: Commencement: Reg. 9 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-73b85b73294ba90b907f0f1fe59e5394]: Commencement: Reg. 10 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-73b85b73294ba90b907f0f1fe59e5394]: Commencement: Reg. 10 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-3b041c8c4d102a11d89a7896d963dfda]: Commencement: Reg. 11 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-3b041c8c4d102a11d89a7896d963dfda]: Commencement: Reg. 11 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-b91c58168ceba1ca0c159f752a87bd61]: Commencement: Reg. 12 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-b91c58168ceba1ca0c159f752a87bd61]: Commencement: Reg. 12 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
-[^key-4caadf8b1172e48378c0909ebe9b89eb]: Commencement: Reg. 13 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-4caadf8b1172e48378c0909ebe9b89eb]: Commencement: Reg. 13 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2010/797 (W.78)](https://www.legislation.gov.uk/wsi/2010/797), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-7b622cbc54630a665c919dc171feccf1]: Commencement: Sch. para. 1 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-7b622cbc54630a665c919dc171feccf1]: Commencement: Sch. para. 1 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
 [^M_C_3c1af187-3665-4670-f88c-f98e3c9cc8f1]: Modification: Sch. para. 1 modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
 
@@ -335,8 +335,8 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: Section 35 was amended by section 280(2) of, and paragraph 42 of Schedule 26 to, the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44) and [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235) and [2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-3065aefe485c4ede304f090d4a742748]: Commencement: Sch. para. 2 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
+[^c-3065aefe485c4ede304f090d4a742748]: Commencement: Sch. para. 2 in force at 26.9.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2)
 
 [^f00019]: Footnote: Section 32 was amended by section 70 of, and paragraph 18 of Part 2 of Schedule 2 to, the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-cfd9b6bf590f0c9d85f30f98ae67b3d9]: Modification: Sch. para. 2(b) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)
+[^c-cfd9b6bf590f0c9d85f30f98ae67b3d9]: Modification: Sch. para. 2(b) modified (13.12.2014) by [The Fish Labelling (Wales) (Amendment) Regulations 2014 (S.I. 2014/3079)](https://www.legislation.gov.uk/wsi/2014/3079), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/3079/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2014/3079/regulation/3)

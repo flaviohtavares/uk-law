@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Proxies at Senedd elections[^key-ba982df647b3561f1acb0f3d910009f7]
+## 9. Proxies at Senedd elections[^c-ba982df647b3561f1acb0f3d910009f7]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ and that the proxy is capable of being, and willing to be, appointed.
 
 ## Annotations
 
-[^key-ba982df647b3561f1acb0f3d910009f7]: Commencement: Art. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ba982df647b3561f1acb0f3d910009f7]: Commencement: Art. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

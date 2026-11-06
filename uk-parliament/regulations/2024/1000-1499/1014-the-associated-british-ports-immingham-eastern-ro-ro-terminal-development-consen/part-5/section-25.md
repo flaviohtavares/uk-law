@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Powers to dredge[^key-fd92f14e0f289daee94c9a6659b00ddb]
+## 25. Powers to dredge[^c-fd92f14e0f289daee94c9a6659b00ddb]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd92f14e0f289daee94c9a6659b00ddb]: Commencement: Art. 25 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-fd92f14e0f289daee94c9a6659b00ddb]: Commencement: Art. 25 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00049]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

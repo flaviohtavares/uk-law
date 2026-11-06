@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Costs of inquiries[^key-2d86f82cc826bddaaada23945bc08c01]
+## 39. Costs of inquiries[^c-2d86f82cc826bddaaada23945bc08c01]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d86f82cc826bddaaada23945bc08c01]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/34/section/39) in force at 18.2.2026, see [s. 118(1)(v)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/v)
+[^c-2d86f82cc826bddaaada23945bc08c01]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/34/section/39) in force at 18.2.2026, see [s. 118(1)(v)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/v)

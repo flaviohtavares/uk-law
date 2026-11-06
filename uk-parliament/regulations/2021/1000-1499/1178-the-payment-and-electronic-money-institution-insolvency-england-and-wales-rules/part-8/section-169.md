@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Remuneration of new administrator[^key-eca90c7ccbcaa5e20fd1c2be645b42ee]
+## 169. Remuneration of new administrator[^c-eca90c7ccbcaa5e20fd1c2be645b42ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a new administrator is appointed in place of another, any determination, reso
 
 ## Annotations
 
-[^key-eca90c7ccbcaa5e20fd1c2be645b42ee]: Commencement: Rule 169 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-eca90c7ccbcaa5e20fd1c2be645b42ee]: Commencement: Rule 169 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Providing money for illegal purposes[^key-217844e3ac0a932dc4a761a35e6f0ee6]
+## 76. Providing money for illegal purposes[^c-217844e3ac0a932dc4a761a35e6f0ee6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ except where the payment or the incurring of the expenses may have been previous
 
 ## Annotations
 
-[^key-217844e3ac0a932dc4a761a35e6f0ee6]: Commencement: Art. 76 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-217844e3ac0a932dc4a761a35e6f0ee6]: Commencement: Art. 76 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00050]: Footnote: Section 167 is applied by article 84 of and Schedule 6 to this Order. Section 167(1A) was inserted by the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), section 24 and amended by the 2000 Political Parties Act, Schedule 18, paragraph 18(5).

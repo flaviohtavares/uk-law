@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Principal objectives and general duties of Secretary of State and economic regulator[^key-43f924d5e6658154ff106c6289758e2d]
+## 1. Principal objectives and general duties of Secretary of State and economic regulator[^c-43f924d5e6658154ff106c6289758e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43f924d5e6658154ff106c6289758e2d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/52/section/1) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-43f924d5e6658154ff106c6289758e2d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/52/section/1) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

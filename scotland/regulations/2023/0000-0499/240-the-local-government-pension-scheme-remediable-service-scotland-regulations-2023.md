@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 21(1) of the Public Service Pensions Act 2013, the Scottish Ministers have consulted such persons or the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.
 
-These Regulations are made in accordance with Treasury Directions made under section 85 of the Public Service Pensions and Judicial Offices Act 2022.[^key-7d53e30d3da866a782f6d05e7d782303]
+These Regulations are made in accordance with Treasury Directions made under section 85 of the Public Service Pensions and Judicial Offices Act 2022.[^c-7d53e30d3da866a782f6d05e7d782303]
 
 ## PART 1 — General provision
 
-### 1. Citation, commencement, extent and interpretation[^key-bd375c5ac82d08e32584b99559161a4d]
+### 1. Citation, commencement, extent and interpretation[^c-bd375c5ac82d08e32584b99559161a4d]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023.
 
@@ -67,7 +67,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 ## PART 2 — Amendments relating to the statutory underpin
 
-### 2. Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014[^key-5395674f194bbae00d282333132d4e4e]
+### 2. Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014[^c-5395674f194bbae00d282333132d4e4e]
 
 (1) The 2014 Regulations are amended as follows.
 
@@ -547,7 +547,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (6) Omit regulation 24(4)(a) (underpin age for a person in relation to whom regulation 16A to 16D of the Benefits Regulations has effect).
 
-### 3. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2018[^key-c8860521b1848b0e1511f36bb7239c13]
+### 3. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2018[^c-c8860521b1848b0e1511f36bb7239c13]
 
 (1) The 2018 Regulations are amended as follows.
 
@@ -755,7 +755,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 ## PART 3 — Retrospective application
 
-### 4. Retrospective application and interpretation of this Part[^key-6104cd64238990e245ce8f91ad8511f0]
+### 4. Retrospective application and interpretation of this Part[^c-6104cd64238990e245ce8f91ad8511f0]
 
 (1) A person in category A is a person—
 
@@ -775,7 +775,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 - (a) who has, or, in the case of a deceased person or a person who transferred out of the 2015 Scheme, had, remediable service;
 - (b) to whom regulation 4 of the 2014 Regulations applied;
 - (c) who died, or in relation to whom one of the dates set out in regulation 4H(1) of the 2014 Regulations (final underpin dates) occurred, before 1 October 2023; and
-- (d) who was, or, if they had not died[^key-1def7621b550014ddb38079074292c86], would have been, entitled to an increase in their pension account under regulation 4 of the 2014 Regulations.
+- (d) who was, or, if they had not died[^c-1def7621b550014ddb38079074292c86], would have been, entitled to an increase in their pension account under regulation 4 of the 2014 Regulations.
 
 (4) In their application in relation to the person in accordance with this Part, the amendments made by regulations 2 and 3 have effect as if they were in force from 1 April 2015.
 
@@ -785,7 +785,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (7) References to being entitled to an increase in their pension account under regulation 4 of the 2014 Regulations in paragraphs (2)(d) and (3)(d) include an entitlement to an increase in respect of the person under that regulation which was added to a survivor member account.
 
-### 5. Members who retired or died before 1 October 2023[^key-2f49d06be4819f3d422694480b49c91c]
+### 5. Members who retired or died before 1 October 2023[^c-2f49d06be4819f3d422694480b49c91c]
 
 (1) This regulation applies to a person in category A, B or C.
 
@@ -797,11 +797,11 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (5) Where the person is in category A or B and died before 1 October 2023, any final guarantee amount to which the person was entitled is to be paid to the person’s personal representatives without undue delay.
 
-(6) Where the person is in category C, died before 1 October 2023 and was entitled to a final guarantee amount that exceeds the amount by which their pension was, or would, if they had not died[^key-d22fb3ecca859ebb2310493cd86d45dd], have been, increased under regulation 4 of the 2014 Regulations, the difference is to be paid to the person’s personal representatives without undue delay.
+(6) Where the person is in category C, died before 1 October 2023 and was entitled to a final guarantee amount that exceeds the amount by which their pension was, or would, if they had not died[^c-d22fb3ecca859ebb2310493cd86d45dd], have been, increased under regulation 4 of the 2014 Regulations, the difference is to be paid to the person’s personal representatives without undue delay.
 
 (7) Where the person elects or elected to commute the amount of pension payable under regulation 32 of the 2018 Regulations (election for lump sum instead of pension), that regulation is to be applied in relation to the final guarantee amount or, as the case may be, the difference between that and the amount payable under regulation 4 of the 2014 Regulations.
 
-### 6. Death grants in respect of members who died before 1 October 2023[^key-eff4145acf3a7b7f95ecc7631f71ebc4]
+### 6. Death grants in respect of members who died before 1 October 2023[^c-eff4145acf3a7b7f95ecc7631f71ebc4]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -821,12 +821,12 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (6) In this regulation “**deferred guarantee amount**” has the meaning given in regulation 4N(3) of the 2014 Regulations.
 
-### 7. Pensioner member death grants in respect of members who died before 1 October 2023[^key-b78e571881c3fb88719b774376efe4b5]
+### 7. Pensioner member death grants in respect of members who died before 1 October 2023[^c-b78e571881c3fb88719b774376efe4b5]
 
 (1) This regulation applies to a person in category A, B or C—
 
 - (a) who died before 1 October 2023; and
-- (b) in respect of whom a death grant was calculated under regulation 44 of the 2018 Regulations and paid, whether or not under that regulation[^key-1d21339d6573a55e27e9bbca8c07565f].
+- (b) in respect of whom a death grant was calculated under regulation 44 of the 2018 Regulations and paid, whether or not under that regulation[^c-1d21339d6573a55e27e9bbca8c07565f].
 
 (2) Where a final guarantee amount is to be paid in respect of the person under regulation 5(5) or (6), the death grant is to be recalculated in accordance with regulation 44 of the 2018 Regulations, with the final guarantee amount included in the amount the person would have been entitled to receive as retirement pension annually, but with any increase under regulation 4 excluded, for the purposes of the recalculation.
 
@@ -835,7 +835,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 - (a) where there was a single recipient of the death grant, to that recipient; or
 - (b) where there was more than one recipient, to those recipients in the same proportions as they were paid the death grant.
 
-### 8. Survivor benefits in respect of members who died before 1 October 2023[^key-f5b9b72127b1bcc106c87b51ccd4de2c]
+### 8. Survivor benefits in respect of members who died before 1 October 2023[^c-f5b9b72127b1bcc106c87b51ccd4de2c]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -853,7 +853,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (5) In this regulation “**survivor guarantee amount**” has the meaning given in regulation 4M(3) of the 2014 Regulations.
 
-### 9. Members who transferred into the fund before 1 October 2023[^key-75e5386289b11d6ef2f2eae0843a7ba3]
+### 9. Members who transferred into the fund before 1 October 2023[^c-75e5386289b11d6ef2f2eae0843a7ba3]
 
 (1) This regulation applies to a transfer of remediable service into the 2015 Scheme—
 
@@ -870,7 +870,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 that transfer is to be treated as a transfer to which regulation 9(1A) and, as the case may be, (1B) of the 2014 Regulations applies.
 
-### 10. Members who took a transfer out of the fund before 1 October 2023[^key-cd48a081ac033b21069d595380430c60]
+### 10. Members who took a transfer out of the fund before 1 October 2023[^c-cd48a081ac033b21069d595380430c60]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -895,7 +895,7 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 - “Club Memorandum” and “Club Transfer” have the meanings given in schedule 1 of the 2018 Regulations;
 - “**new scheme**” has the meaning given in regulation 93(1) of the 2018 Regulations.
 
-### 11. Commutation payments taken before 1 October 2023[^key-04b82188d9b138027dea906d91b7ea17]
+### 11. Commutation payments taken before 1 October 2023[^c-04b82188d9b138027dea906d91b7ea17]
 
 (1) This regulation applies to a person in category A, B or C in respect of whom a lump sum is calculated under regulation 33(1) of the 2018 Regulations (trivial commutation) before 1 October 2023 (“**the original payment**”).
 
@@ -905,7 +905,7 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 
 (4) Notwithstanding regulation 33(3) of the 2018 Regulations (member entitled to no further benefits after payment), where the recalculated payment exceeds the original payment, the difference is to be paid to the person without undue delay.
 
-### 12. Divorce or dissolution of civil partnership before 1 October 2023[^key-a6c31c4a81c3b6a056ff3d21c9a0abd2]
+### 12. Divorce or dissolution of civil partnership before 1 October 2023[^c-a6c31c4a81c3b6a056ff3d21c9a0abd2]
 
 (1) This regulation applies to a person with remediable service—
 
@@ -914,12 +914,12 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 
 (2) The cash equivalent value of the person’s relevant benefits for the purpose of section 29 of the Welfare Reform and Pensions Act 1999 is to be recalculated as at the date on which the original calculation was made in accordance with actuarial guidance issued by the Scottish Ministers.
 
-(3)[^key-4e41c503eeec800abcc0df289c30067c] Where one of the dates set out in regulation 4H(1) of the 2014 Regulations (statutory underpin: final underpin date) occurred in relation to the person before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect—
+(3)[^c-4e41c503eeec800abcc0df289c30067c] Where one of the dates set out in regulation 4H(1) of the 2014 Regulations (statutory underpin: final underpin date) occurred in relation to the person before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect—
 
 - (a) regulations 4A to 4T of the 2014 Regulations are to be applied in relation to the person; and
 - (b) the recalculation must take into account any final guarantee amount to which the person is entitled.
 
-(4)[^key-a25eecbe5728709a61c93bedc49d5786] Where one of the dates set out in regulation 4G of the 2014 Regulations (statutory underpin: underpin date) occurred in relation to the person before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect but not one of the dates in regulation 4H of those Regulations—
+(4)[^c-a25eecbe5728709a61c93bedc49d5786] Where one of the dates set out in regulation 4G of the 2014 Regulations (statutory underpin: underpin date) occurred in relation to the person before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect but not one of the dates in regulation 4H of those Regulations—
 
 - (a) regulations 4A to 4T of the 2014 Regulations are to be applied in relation to the person; and
 - (b) the recalculation must take into account the provisional assumed benefits and provisional underpin amount calculated under regulations 4I and 4J respectively of the 2014 Regulations.
@@ -936,7 +936,7 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 - “**pension sharing order**” has the meaning given in schedule 1 of the 2018 Regulations;
 - “**relevant benefits**” has the same meaning as in section 29 of the Welfare Reform and Pensions Act 1999.
 
-### 13. Persons with underpin dates before 1 October 2023[^key-1c704576858bf3eb8d004e74c9649933]
+### 13. Persons with underpin dates before 1 October 2023[^c-1c704576858bf3eb8d004e74c9649933]
 
 (1) This regulation applies to a person—
 
@@ -944,7 +944,7 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 - (b) in relation to whom one of the dates set out in regulation 4H(1) of those Regulations (statutory underpin: final underpin date) has not occurred before 1 October 2023; and
 - (c) who was not deceased before 1 October 2023.
 
-(2) The 2014 Regulations (as applied by regulation 4(4))[^key-1b80228d2ca302fb8b51fbd2363d237b] apply in relation to the person with the following modifications[^key-e3b0f55d0a7141aabed7b69d478999d7]....
+(2) The 2014 Regulations (as applied by regulation 4(4))[^c-1b80228d2ca302fb8b51fbd2363d237b] apply in relation to the person with the following modifications[^c-e3b0f55d0a7141aabed7b69d478999d7]....
 
 (3) Regulation 4H (final underpin date) applies as if in paragraph (1), for the words before sub-paragraph (a), there were substituted—
 
@@ -964,9 +964,9 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 
 .
 
-### 14. Interest on payments under the statutory underpin[^key-ece1b2cec2c00e0b1e8c3a4256ba4352]
+### 14. Interest on payments under the statutory underpin[^c-ece1b2cec2c00e0b1e8c3a4256ba4352]
 
-(1) This regulation applies in relation to a person to whom regulation 5(3), (4), (5) , (6) or (7)[^key-adca3b59f2bd4e569528e347b6e28ce5] , 6(5), 7(3), 8(4)(a) or (b), 10(5), 11(4) or 12(6)(b) applies.
+(1) This regulation applies in relation to a person to whom regulation 5(3), (4), (5) , (6) or (7)[^c-adca3b59f2bd4e569528e347b6e28ce5] , 6(5), 7(3), 8(4)(a) or (b), 10(5), 11(4) or 12(6)(b) applies.
 
 (2) An administering authority must pay interest in respect of the following sums—
 
@@ -978,7 +978,7 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 - (f) the amount to be paid to the member under regulation 11(4) (commutation payments);
 - (g) the amount to be added under regulation 12(6)(b) (difference between recalculated pension credit and pension in payment) relating to the period beginning with the date on which the pension credit member’s pension was put into payment and ending with the date on which the difference between the recalculated annual pension and the pension in payment is to be added to the retirement pension account under regulation 12(6)(b).
 
-(3) An administering authority must take reasonable steps to pay interest in respect of the amount to be paid to the scheme under regulation 10(5) (transfers out) , unless the scheme is a chapter 1 scheme, a judicial scheme, or another local government scheme[^key-2e566693a83bbb9426696e8369be5fe5].
+(3) An administering authority must take reasonable steps to pay interest in respect of the amount to be paid to the scheme under regulation 10(5) (transfers out) , unless the scheme is a chapter 1 scheme, a judicial scheme, or another local government scheme[^c-2e566693a83bbb9426696e8369be5fe5].
 
 (4) The interest is to be paid—
 
@@ -994,8 +994,8 @@ that transfer is to be treated as a transfer to which regulation 9(1A) and, as t
 (6) The “relevant date” is—
 
 - (a) where regulation 5(3), (4), (5) or (6) applies, the day that falls half-way through the period beginning with the day after the member’s final underpin date and ending with the date on which payment is made;
-- (aa)[^key-ab3294818c85673fb99cd12d29a7fda4] where regulation 5(7) applies, the earliest day from which the administering authority would have been able to make the payment for a lump sum paid under regulation 5(7);
-- (b) where regulation 6(5), 7(3), 10(5) or 11(4) applies, the day [^key-7008c31240f5c3a50543326ead9d5e32]...;
+- (aa)[^c-ab3294818c85673fb99cd12d29a7fda4] where regulation 5(7) applies, the earliest day from which the administering authority would have been able to make the payment for a lump sum paid under regulation 5(7);
+- (b) where regulation 6(5), 7(3), 10(5) or 11(4) applies, the day [^c-7008c31240f5c3a50543326ead9d5e32]...;
 - (c) where regulation 8(4)(a) or (b) applies, the day that falls half-way through the period beginning with the day after the person’s date of death and ending with the date on which payment is made;
 - (d) where regulation 12(6)(b) applies, the day that falls half-way through the period beginning with the day on which the pension credit member’s pension was put into payment and ending with the date on which payment is made.
 
@@ -1120,15 +1120,15 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00002]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-7d53e30d3da866a782f6d05e7d782303]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2023/240) excluded in part (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2024/374/regulation/6)
+[^c-7d53e30d3da866a782f6d05e7d782303]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2023/240) excluded in part (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2024/374/regulation/6)
 
-[^key-bd375c5ac82d08e32584b99559161a4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/240/regulation/1) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-bd375c5ac82d08e32584b99559161a4d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/240/regulation/1) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
 [^f00003]: Footnote: [S.S.I. 2014/233](https://www.legislation.gov.uk/ssi/2014/233).
 
 [^f00004]: Footnote: [S.S.I. 2018/141](https://www.legislation.gov.uk/ssi/2018/141).
 
-[^key-5395674f194bbae00d282333132d4e4e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/240/regulation/2) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-5395674f194bbae00d282333132d4e4e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/240/regulation/2) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
 [^f00005]: Footnote: The\_Public\_Service\_Pensions\_\_Exercise\_of\_Powers\_Compensation\_and\_Information\_\_Directions\_2022.pdf (publishing.service.gov.uk) . A hard copy is available on request to His Majesty’s Treasury, 1 Horse Guards Road, London, SW1A 2HQ.
 
@@ -1168,48 +1168,48 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00023]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 was substituted by section 273 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) and amended by section 16 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22).
 
-[^key-c8860521b1848b0e1511f36bb7239c13]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/240/regulation/3) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-c8860521b1848b0e1511f36bb7239c13]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/240/regulation/3) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-6104cd64238990e245ce8f91ad8511f0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/240/regulation/4) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-6104cd64238990e245ce8f91ad8511f0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/240/regulation/4) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-1def7621b550014ddb38079074292c86]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/ssi/2023/240/regulation/4/3/d) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2024/374/regulation/8)
+[^c-1def7621b550014ddb38079074292c86]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/ssi/2023/240/regulation/4/3/d) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2024/374/regulation/8)
 
-[^key-2f49d06be4819f3d422694480b49c91c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/240/regulation/5) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-2f49d06be4819f3d422694480b49c91c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/240/regulation/5) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-d22fb3ecca859ebb2310493cd86d45dd]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/5/6) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2024/374/regulation/9)
+[^c-d22fb3ecca859ebb2310493cd86d45dd]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/ssi/2023/240/regulation/5/6) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2024/374/regulation/9)
 
-[^key-eff4145acf3a7b7f95ecc7631f71ebc4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/240/regulation/6) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-eff4145acf3a7b7f95ecc7631f71ebc4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/240/regulation/6) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-b78e571881c3fb88719b774376efe4b5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/240/regulation/7) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-b78e571881c3fb88719b774376efe4b5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/240/regulation/7) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-1d21339d6573a55e27e9bbca8c07565f]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/ssi/2023/240/regulation/7/1/b) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2024/374/regulation/10)
+[^c-1d21339d6573a55e27e9bbca8c07565f]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/ssi/2023/240/regulation/7/1/b) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2024/374/regulation/10)
 
-[^key-f5b9b72127b1bcc106c87b51ccd4de2c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/240/regulation/8) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-f5b9b72127b1bcc106c87b51ccd4de2c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/240/regulation/8) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-75e5386289b11d6ef2f2eae0843a7ba3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/240/regulation/9) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-75e5386289b11d6ef2f2eae0843a7ba3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/240/regulation/9) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-cd48a081ac033b21069d595380430c60]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/240/regulation/10) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-cd48a081ac033b21069d595380430c60]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/240/regulation/10) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-04b82188d9b138027dea906d91b7ea17]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/240/regulation/11) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-04b82188d9b138027dea906d91b7ea17]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/240/regulation/11) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-a6c31c4a81c3b6a056ff3d21c9a0abd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/240/regulation/12) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-a6c31c4a81c3b6a056ff3d21c9a0abd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/240/regulation/12) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-4e41c503eeec800abcc0df289c30067c]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/ssi/2023/240/regulation/12/3) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [11(a)](https://www.legislation.gov.uk/ssi/2024/374/regulation/11/a)
+[^c-4e41c503eeec800abcc0df289c30067c]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/ssi/2023/240/regulation/12/3) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [11(a)](https://www.legislation.gov.uk/ssi/2024/374/regulation/11/a)
 
-[^key-a25eecbe5728709a61c93bedc49d5786]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/ssi/2023/240/regulation/12/4) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [11(b)](https://www.legislation.gov.uk/ssi/2024/374/regulation/11/b)
+[^c-a25eecbe5728709a61c93bedc49d5786]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/ssi/2023/240/regulation/12/4) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [11(b)](https://www.legislation.gov.uk/ssi/2024/374/regulation/11/b)
 
-[^key-1c704576858bf3eb8d004e74c9649933]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/240/regulation/13) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-1c704576858bf3eb8d004e74c9649933]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/240/regulation/13) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-1b80228d2ca302fb8b51fbd2363d237b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/13/2) inserted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [12(a)](https://www.legislation.gov.uk/ssi/2024/374/regulation/12/a)
+[^c-1b80228d2ca302fb8b51fbd2363d237b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/13/2) inserted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [12(a)](https://www.legislation.gov.uk/ssi/2024/374/regulation/12/a)
 
-[^key-e3b0f55d0a7141aabed7b69d478999d7]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/13/2) omitted (6.2.2025 with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2024/374/regulation/12/b)
+[^c-e3b0f55d0a7141aabed7b69d478999d7]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/13/2) omitted (6.2.2025 with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2024/374/regulation/12/b)
 
-[^key-ece1b2cec2c00e0b1e8c3a4256ba4352]: Commencement: Reg. 14 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
+[^c-ece1b2cec2c00e0b1e8c3a4256ba4352]: Commencement: Reg. 14 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2)
 
-[^key-adca3b59f2bd4e569528e347b6e28ce5]: Textual amendment: Words in reg. 14(1) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(a)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/a)
+[^c-adca3b59f2bd4e569528e347b6e28ce5]: Textual amendment: Words in reg. 14(1) substituted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(a)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/a)
 
-[^key-2e566693a83bbb9426696e8369be5fe5]: Textual amendment: Words in reg. 14(3) inserted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(b)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/b)
+[^c-2e566693a83bbb9426696e8369be5fe5]: Textual amendment: Words in reg. 14(3) inserted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(b)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/b)
 
-[^key-ab3294818c85673fb99cd12d29a7fda4]: Textual amendment: Reg. 14(6)(aa) inserted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(c)(i)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/c/i)
+[^c-ab3294818c85673fb99cd12d29a7fda4]: Textual amendment: Reg. 14(6)(aa) inserted (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(c)(i)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/c/i)
 
-[^key-7008c31240f5c3a50543326ead9d5e32]: Textual amendment: Words in reg. 14(6)(b) omitted (6.2.2025 with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(c)(ii)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/c/ii)
+[^c-7008c31240f5c3a50543326ead9d5e32]: Textual amendment: Words in reg. 14(6)(b) omitted (6.2.2025 with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [13(c)(ii)](https://www.legislation.gov.uk/ssi/2024/374/regulation/13/c/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Duties to give debtors information and statements[^key-b2300a3a58a8dcb50310df52d19b42f5]
+## 27. Duties to give debtors information and statements[^c-b2300a3a58a8dcb50310df52d19b42f5]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2300a3a58a8dcb50310df52d19b42f5]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/16/section/27) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)
+[^c-b2300a3a58a8dcb50310df52d19b42f5]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/16/section/27) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)

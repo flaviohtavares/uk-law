@@ -42,7 +42,7 @@ Coming into force
 
 1st December 1996
 
-The Secretary of State for Transport as respects England and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred by sections 35C(3) and (4), 46A(3) and (4) and 124(1) of, and Part III of Schedule 9 to, the Road Traffic Regulation Act 1984[^c17769171] and by paragraphs 6(3) and 7(1) of Schedule 5 to the Local Government Act 1985[^c17769181] and of all other powers enabling them in that behalf, and after consultation with representative organisations in accordance with section 134(2) of the Road Traffic Regulation Act 1984, hereby make the following Regulations:[^key-c8e9f79d0ebe9e0a38056224ccd747fb][^key-187a989fdefb0a8a7446bda832a0a597]
+The Secretary of State for Transport as respects England and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred by sections 35C(3) and (4), 46A(3) and (4) and 124(1) of, and Part III of Schedule 9 to, the Road Traffic Regulation Act 1984[^c17769171] and by paragraphs 6(3) and 7(1) of Schedule 5 to the Local Government Act 1985[^c17769181] and of all other powers enabling them in that behalf, and after consultation with representative organisations in accordance with section 134(2) of the Road Traffic Regulation Act 1984, hereby make the following Regulations:[^c-c8e9f79d0ebe9e0a38056224ccd747fb][^c-187a989fdefb0a8a7446bda832a0a597]
 
 ## PART I — GENERAL
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Local Authorities’ Traffic Orders (Proce
 - (a) in relation to England—
   - (i) the council of a county, district, or London borough;
   - (ii) the Common Council of the City of London;
-  - (iiA)[^key-24ef93b1ad92e874aede05fb80e15aa8] Transport for London,
+  - (iiA)[^c-24ef93b1ad92e874aede05fb80e15aa8] Transport for London,
   - (iii) the Council of the Isles of Scilly; or
   - (iv) a parish council;
 - (b) in relation to Wales—
@@ -91,9 +91,9 @@ These Regulations may be cited as the Local Authorities’ Traffic Orders (Proce
 
 “local service" has the meaning given by section 2 of the Transport Act 1985 [^c17769231];
 
-“London authority" means Transport for London,[^key-a7545ff5c8bbcc3fa095ac7d8d76c681] a London borough council or the Common Council of the City of London;
+“London authority" means Transport for London,[^c-a7545ff5c8bbcc3fa095ac7d8d76c681] a London borough council or the Common Council of the City of London;
 
-“London bus service” means a local service with one or more stopping places in Greater London which is not an excursion or tour as defined by section 134 of the Transport Act 1985;[^key-07e42cb00061bf7f8f6006e75431a919]
+“London bus service” means a local service with one or more stopping places in Greater London which is not an excursion or tour as defined by section 134 of the Transport Act 1985;[^c-07e42cb00061bf7f8f6006e75431a919]
 
 “minor order" has the meaning given by regulation 21(1)(b);
 
@@ -128,7 +128,7 @@ includes a reference to the variation, revocation or application (as the case ma
 
 ### 4. Application of Regulations
 
-(1) This Part and Parts II, III , IV and VI[^M_F_8efc20bc-fd0f-4cf3-fcc5-9a027431fe1d] IV and VII[^key-f80ae7d921c9c4234534728a63dc2506] of these Regulations apply to orders made or proposed to be made by a local authority under section 1, 6, 9, 19, 29, 32, 35, 37, 38, 45, 46, 49, 61, 83(2) or 84 of the 1984 Act and this Part and , Part V and Part VI[^key-5e19148190c0b243ca7f577a1345aabc] Part V and Part VII[^key-537a44b8bee18e12c9854e083eedd15d] apply to notices given or proposed to be given under section 35C or 46A of that Act.
+(1) This Part and Parts II, III , IV and VI[^M_F_8efc20bc-fd0f-4cf3-fcc5-9a027431fe1d] IV and VII[^c-f80ae7d921c9c4234534728a63dc2506] of these Regulations apply to orders made or proposed to be made by a local authority under section 1, 6, 9, 19, 29, 32, 35, 37, 38, 45, 46, 49, 61, 83(2) or 84 of the 1984 Act and this Part and , Part V and Part VI[^c-5e19148190c0b243ca7f577a1345aabc] Part V and Part VII[^c-537a44b8bee18e12c9854e083eedd15d] apply to notices given or proposed to be given under section 35C or 46A of that Act.
 
 (2) Except as provided by regulation 14(2)(a), these Regulations apply to orders made or proposed to be made pursuant to a direction by the Secretary of State under Part I of Schedule 9 to the 1984 Act as they apply to orders not so made.
 
@@ -136,7 +136,7 @@ includes a reference to the variation, revocation or application (as the case ma
 
 ### 5. Preliminary
 
-This Part of these Regulations has effect subject to the provisions of Parts IV and VI[^M_F_09f3b02c-9f57-48f3-b2c3-f5959ee16b88] Parts IV and VII[^key-88c742790ef77d1302475f9b122110f6].
+This Part of these Regulations has effect subject to the provisions of Parts IV and VI[^M_F_09f3b02c-9f57-48f3-b2c3-f5959ee16b88] Parts IV and VII[^c-88c742790ef77d1302475f9b122110f6].
 
 ### 6. Consultation
 
@@ -159,21 +159,21 @@ TABLE
 </tbody>
 </table>
 
-[^key-990ec8dea970e13749da8d0bd9e56dac][^key-d1364c260757d92036e7c0f8c2daf171][^key-7848e5a0a5eb3298bf7bb881b0b8d76d]
+[^c-990ec8dea970e13749da8d0bd9e56dac][^c-d1364c260757d92036e7c0f8c2daf171][^c-7848e5a0a5eb3298bf7bb881b0b8d76d]
 
 (2) In paragraph (1)—
 
-- “appropriate NHS trust" or[^key-2873422a0c3bc85f2b8d4e2dcfb89935] NHS foundation trust in relation to a road or place means the National Health Service trust or NHS foundation trust providing an emergency ambulance service in the area in which the road or place is situated and “National Health Service trust" has the meaning given by section 128(1) of the National Health Service Act 1977 [^c17769251];
+- “appropriate NHS trust" or[^c-2873422a0c3bc85f2b8d4e2dcfb89935] NHS foundation trust in relation to a road or place means the National Health Service trust or NHS foundation trust providing an emergency ambulance service in the area in which the road or place is situated and “National Health Service trust" has the meaning given by section 128(1) of the National Health Service Act 1977 [^c17769251];
 - “concessionaire" has the meaning given by section 1(1) of the 1991 Act;
-- “ fire and rescue authority” means the fire and rescue authority under the Fire and Rescue Services Act 2004 for the area in which the road or place is situated;[^key-bb42172eb61115e58346662e85f94721]
+- “ fire and rescue authority” means the fire and rescue authority under the Fire and Rescue Services Act 2004 for the area in which the road or place is situated;[^c-bb42172eb61115e58346662e85f94721]
 - “highway authority" has the same meaning as in the Highways Act 1980 [^c17769271];
 - “road subject to a concession" has the meaning given by section 1(2) of the 1991 Act; and
-- “trolley vehicle" does not include a duobus as defined in the Tramcar and Trolley Vehicles (Modification of Enactments) Regulations 1992 [^c17769281] and[^key-d73c4c07750a3703c393c42dd1722518] NHS foundation trust has the meaning given by section 1(1) of the Health and Social Care (Community Health and Standards) Act 2003.
+- “trolley vehicle" does not include a duobus as defined in the Tramcar and Trolley Vehicles (Modification of Enactments) Regulations 1992 [^c17769281] and[^c-d73c4c07750a3703c393c42dd1722518] NHS foundation trust has the meaning given by section 1(1) of the Health and Social Care (Community Health and Standards) Act 2003.
 
 (3) The requirements of this regulation are without prejudice to the provisions of—
 
 - (a) paragraph 20 of Schedule 9 to the 1984 Act (consultation with the chief officer of police);
-- (b) paragraph 6(3)(c) of Schedule 5 to the 1985 Act (consultation required of [^key-60ec44bda382a7cfaba216bc769b8acf]... metropolitan district councils); and
+- (b) paragraph 6(3)(c) of Schedule 5 to the 1985 Act (consultation required of [^c-60ec44bda382a7cfaba216bc769b8acf]... metropolitan district councils); and
 - (c) any other provision of the 1984 Act requiring consultation.
 
 ### 7. Publication of proposals
@@ -224,7 +224,7 @@ and an objection under paragraph (2) shall in addition state whether or not it i
   and an objection has been made to the order (other than one which the order making authority is satisfied is frivolous or irrelevant) and not withdrawn; or
 - (b) its effect is to prohibit or restrict the passage of public service vehicles along a road and an objection has been made to the order in accordance with regulation 8—
   - (i) in the case of a road outside Greater London, by the operator of a local service the route of which includes that road; or
-  - (ii) in the case of a road in Greater London, by the operator of a London bus service the route of which includes that road or by Transport for London[^key-5d1a67c20d58de85c5cf2f9f597a3377].
+  - (ii) in the case of a road in Greater London, by the operator of a London bus service the route of which includes that road or by Transport for London[^c-5d1a67c20d58de85c5cf2f9f597a3377].
 
 (4) For the purposes of paragraph (3)(a), an order shall not be taken to have the effect of prohibiting loading at any time to the extent that it—
 
@@ -237,7 +237,7 @@ unless the effect of the order taken with prohibitions already imposed is to pro
 
 - (a) if it is an experimental order;
 - (b) made under section 84 of the 1984 Act (speed limits on roads other than restricted roads); or
-- (c)[^key-4691065a3097ad005d65d50427bf87cf] to the extent that it relates to a GLA road or GLA side road.
+- (c)[^c-4691065a3097ad005d65d50427bf87cf] to the extent that it relates to a GLA road or GLA side road.
 
 (6) In this regulation “public service vehicle" has the meaning given by section 1 of the Public Passenger Vehicles Act 1981 [^c17769291].
 
@@ -317,7 +317,7 @@ Before making an order, the order making authority shall consider—
 
 ### 15. Preliminary
 
-This Part of these Regulations has effect subject to the provisions of Parts IV and VI\][^M_F_a1767865-ec1b-4225-d838-b5a10a254ced] Parts IV and VII[^key-b7534e5da30ea8f8950241c6a7a42cec].
+This Part of these Regulations has effect subject to the provisions of Parts IV and VI\][^M_F_a1767865-ec1b-4225-d838-b5a10a254ced] Parts IV and VII[^c-b7534e5da30ea8f8950241c6a7a42cec].
 
 ### 16. Making an order and bringing it into force
 
@@ -357,11 +357,11 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 
 (3) This regulation is without prejudice to section 85 of the 1984 Act [^c17769311] (traffic signs for indicating speed limits).
 
-(4)[^key-09e4be4ac9936662a14afbd6b2ec51e7] Nothing in this regulation requires the placing of any traffic sign on or near a road, or the maintenance of such signs, in a special enforcement area in England for the purpose of providing information to road users as to the effect of section 85 or 86 of the Traffic Management Act 2004 in that area.
+(4)[^c-09e4be4ac9936662a14afbd6b2ec51e7] Nothing in this regulation requires the placing of any traffic sign on or near a road, or the maintenance of such signs, in a special enforcement area in England for the purpose of providing information to road users as to the effect of section 85 or 86 of the Traffic Management Act 2004 in that area.
 
-(4A)[^key-ca742e602060efa6122375ad300e185a] Nothing in this regulation requires the placing of any traffic sign on or near a road, or the maintenance of such signs, in a special enforcement area in Wales, for the purpose of providing information to road users as to the effect of section 85 or 86 of the Traffic Management Act 2004 in that area.
+(4A)[^c-ca742e602060efa6122375ad300e185a] Nothing in this regulation requires the placing of any traffic sign on or near a road, or the maintenance of such signs, in a special enforcement area in Wales, for the purpose of providing information to road users as to the effect of section 85 or 86 of the Traffic Management Act 2004 in that area.
 
-(5) In paragraph (4) *(Extent: W)* *(affected by repeal, see note)*[^key-c2c894d2960ba22e425f409b21f8f4f3] In paragraphs (4) and (4A) *(Extent: W)* a “special enforcement area” means an area designated as a special enforcement area by means of—
+(5) In paragraph (4) *(Extent: W)* *(affected by repeal, see note)*[^c-c2c894d2960ba22e425f409b21f8f4f3] In paragraphs (4) and (4A) *(Extent: W)* a “special enforcement area” means an area designated as a special enforcement area by means of—
 
 - (a) an order made under paragraph 1(1) or 3(1) of Schedule 10 to the Traffic Management Act 2004; or
 - (b) an order which, by virtue of paragraph 1(5) or 3(5) of that Schedule, has effect as if it were an order so made.
@@ -437,7 +437,7 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 
 (3) The provisions of Parts II and III (except regulation 18 where appropriate) of these Regulations shall not apply to a consolidation order or to a minor order.
 
-(4) The order making authority shall , subject to Part VI[^M_F_d5b1f349-9a78-4f4c-9435-de65d1e69a8a] , subject to Part VII,[^key-70c74819026c2e66cdfe38e8c8c3dc02]—
+(4) The order making authority shall , subject to Part VI[^M_F_d5b1f349-9a78-4f4c-9435-de65d1e69a8a] , subject to Part VII,[^c-70c74819026c2e66cdfe38e8c8c3dc02]—
 
 - (a) within 14 days of making a consolidation order or a minor order, publish in a newspaper circulating in the area in which any road or place to which the order relates is situated a notice containing the following particulars—
   - (i) the name of the order making authority;
@@ -459,7 +459,7 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 
 (2) No provision of an experimental order shall come into force before the expiration of the period of seven days beginning with the day on which a notice of making in relation to the order is published.
 
-(3) The order making authority shall , subject to Part VI,[^M_F_4b6c7f93-7677-462e-c399-b242649d0535] , subject to Part VII,[^key-a093aa60ee3e3d0ce8b2822e913cd3b0] comply with the requirements of Schedule 2 as to the making of deposited documents relating to an experimental order available for public inspection.
+(3) The order making authority shall , subject to Part VI,[^M_F_4b6c7f93-7677-462e-c399-b242649d0535] , subject to Part VII,[^c-a093aa60ee3e3d0ce8b2822e913cd3b0] comply with the requirements of Schedule 2 as to the making of deposited documents relating to an experimental order available for public inspection.
 
 (4) Deposited documents shall be so made available, at the times and at the places specified in the notice of making in relation to the experimental order, for a period beginning with the date on which that advertisement is first published and ending when the order ceases to have effect.
 
@@ -472,7 +472,7 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 (3) The requirements are that—
 
 - (a) the notice of making contained the statements specified in Schedule 5;
-- (b) deposited documents (including the documents referred to in sub-paragraphs (c) and (e)) were kept available for inspection , subject to Part VI,[^M_F_708ed372-9224-404a-a50f-2f7d9fbebc67] , subject to Part VII,[^key-3b4dd8f0b1cf9edc40518b1f5a825980] in accordance with Schedule 2 throughout the whole of the period specified in regulation 22(4);
+- (b) deposited documents (including the documents referred to in sub-paragraphs (c) and (e)) were kept available for inspection , subject to Part VI,[^M_F_708ed372-9224-404a-a50f-2f7d9fbebc67] , subject to Part VII,[^c-3b4dd8f0b1cf9edc40518b1f5a825980] in accordance with Schedule 2 throughout the whole of the period specified in regulation 22(4);
 - (c) the deposited documents included a statement of the order making authority’s reasons for making the experimental order;
 - (d) no variation or modification of the experimental order was made more than 12 months after the order was made; and
 - (e) where the experimental order has been modified in accordance with section 10(2) of the 1984 Act, a statement of the effect of each such modification has been included with the deposited documents.
@@ -484,7 +484,7 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 
 ### 24. Objections to Part IV orders under Schedule 5 to the Local Government Act 1985
 
-(1) This regulation applies where the order making authority is [^key-13e0c3adb983c334ecf4602ca8cc5d03]... a metropolitan district council and another such authority (“the other authority") is required to be consulted by virtue of paragraph 6(3)(c) of Part II of Schedule 5 to the 1985 Act in connection with an order.
+(1) This regulation applies where the order making authority is [^c-13e0c3adb983c334ecf4602ca8cc5d03]... a metropolitan district council and another such authority (“the other authority") is required to be consulted by virtue of paragraph 6(3)(c) of Part II of Schedule 5 to the 1985 Act in connection with an order.
 
 (2) Where, by virtue of the provisions of this Part of these Regulations, regulation 7 does not apply to an order, the order making authority shall nevertheless, before making the order, send to the other authority a notice containing the particulars specified in Parts I and II of Schedule 1 and the other authority may object to the order during the period beginning with the date on which that notice is sent and ending 21 days later.
 
@@ -498,7 +498,7 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 
 (2) Where a local authority proposes to give a notice of variation which would be likely to have a direct effect on traffic, or any class of traffic, on a road for which it is not the traffic authority, the local authority shall, before giving the notice, send a draft of it to the traffic authority for that road.
 
-(3) A notice of variation shall , subject to Part VI,[^M_F_4c5919e5-c9ce-4fc6-eadd-34601ee83d8a] , subject to Part VII,[^key-5da09319ad117fe7cc153b6cfbdf1125] be given by publishing it at least once in a newspaper circulating in the area in which the parking places to which the notice relates are situated at least 21 days before it is due to come into force.
+(3) A notice of variation shall , subject to Part VI,[^M_F_4c5919e5-c9ce-4fc6-eadd-34601ee83d8a] , subject to Part VII,[^c-5da09319ad117fe7cc153b6cfbdf1125] be given by publishing it at least once in a newspaper circulating in the area in which the parking places to which the notice relates are situated at least 21 days before it is due to come into force.
 
 (4) A notice of variation shall—
 
@@ -515,7 +515,7 @@ This Part of these Regulations has effect subject to the provisions of Parts IV 
 
 (6) Where a notice of variation relates to an on-street parking place, the local authority shall, if it thinks fit, cause copies of the notice to be displayed in prominent positions in the road in which the parking place is situated.
 
-## PART VI — TEMPORARY PROVISIONS APPLICABLE DURING THE CORONAVIRUS PANDEMIC[^key-d3c043d1261c6f0b44469f72975bf734]
+## PART VI — TEMPORARY PROVISIONS APPLICABLE DURING THE CORONAVIRUS PANDEMIC[^c-d3c043d1261c6f0b44469f72975bf734]
 
 *Extent: E*
 
@@ -560,7 +560,7 @@ and the notice has been published or the documents made available for inspection
 
 (2) Where this paragraph applies the notice and documents are to be treated after that date as having been published, or made available for inspection, under those regulations as if they had not been modified by regulation 27.
 
-## PART VII — TEMPORARY PROVISIONS APPLICABLE DURING THE CORONAVIRUS PANDEMIC (WALES)[^key-5c62dfc9164f9ec8bdd93724686a76a9]
+## PART VII — TEMPORARY PROVISIONS APPLICABLE DURING THE CORONAVIRUS PANDEMIC (WALES)[^c-5c62dfc9164f9ec8bdd93724686a76a9]
 
 *Extent: W*
 
@@ -731,7 +731,7 @@ in so far as the variation is necessary to make the order compatible with any re
 **7.** The variation of an order to the extent appearing to the order making authority necessary or expedient as a consequence of the coming into force of—
 
 - (a) a designation order made under section 76(1) of the Road Traffic Act 1991 (special parking areas in London); or
-- (aa)[^key-652779164cff632bdcfa7fd7c93d869d] an order made under section 76A(1) of the Road Traffic Act 1991 (variation of special parking areas by order made by the Mayor of London);
+- (aa)[^c-652779164cff632bdcfa7fd7c93d869d] an order made under section 76A(1) of the Road Traffic Act 1991 (variation of special parking areas by order made by the Mayor of London);
 - (b) a designation order made under Schedule 3 to that Act (permitted or special parking areas outside London).
 
 **8.** The revocation or variation of a provision included in an order under section 35(1)(iv), 46(2)(e) or 53(3) of the 1984 Act authorising a person to remove or arrange for the removal of a vehicle from a parking place.
@@ -797,9 +797,9 @@ Schedules 1 to 3 specify the information to be contained in press notices, the d
 
 [^c17769181]: Marginal citation: [1985 c.51](https://www.legislation.gov.uk/ukpga/1985/51). Paragraph 6(3) of Schedule 5 was amended by paragraph 116 of Schedule 8 to the New Roads and Street Works Act 1991.
 
-[^key-c8e9f79d0ebe9e0a38056224ccd747fb]: Modification: Regulations applied (with modifications) (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [17(4)(5)](https://www.legislation.gov.uk/uksi/2017/430/article/17/4)
+[^c-c8e9f79d0ebe9e0a38056224ccd747fb]: Modification: Regulations applied (with modifications) (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [17(4)(5)](https://www.legislation.gov.uk/uksi/2017/430/article/17/4)
 
-[^key-187a989fdefb0a8a7446bda832a0a597]: Modification: Regulations applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [17(4)(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/17/4)
+[^c-187a989fdefb0a8a7446bda832a0a597]: Modification: Regulations applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [17(4)(5)](https://www.legislation.gov.uk/uksi/2023/1432/article/17/4)
 
 [^c17769191]: Marginal citation: [S.I. 1989/1120](https://www.legislation.gov.uk/uksi/1989/1120).
 
@@ -809,51 +809,51 @@ Schedules 1 to 3 specify the information to be contained in press notices, the d
 
 [^c17769221]: Marginal citation: [Section 131(7)](https://www.legislation.gov.uk/uksi/1996/2489/section/131/7) was amended by the New Roads and Street Works Act 1991, Schedule 8, paragraph 75.
 
-[^key-24ef93b1ad92e874aede05fb80e15aa8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/3/1) inserted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/1/2)
+[^c-24ef93b1ad92e874aede05fb80e15aa8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/3/1) inserted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/1/2)
 
 [^c17769231]: Marginal citation: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-a7545ff5c8bbcc3fa095ac7d8d76c681]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/3/1) inserted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/1/3)
+[^c-a7545ff5c8bbcc3fa095ac7d8d76c681]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/3/1) inserted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/1/3)
 
-[^key-07e42cb00061bf7f8f6006e75431a919]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/3/1) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/1/4)
+[^c-07e42cb00061bf7f8f6006e75431a919]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/3/1) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/1/4)
 
 [^c17769241]: Marginal citation: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14). Section 1 was amended by the Transport Act 1985, Schedule 8.
 
 [^M_F_8efc20bc-fd0f-4cf3-fcc5-9a027431fe1d]: Textual amendment: Words in reg. 4(1) substituted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/2/a)
 
-[^key-f80ae7d921c9c4234534728a63dc2506]: Textual amendment: Words in reg. 4(1) substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/2/a)
+[^c-f80ae7d921c9c4234534728a63dc2506]: Textual amendment: Words in reg. 4(1) substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/2/a)
 
-[^key-5e19148190c0b243ca7f577a1345aabc]: Textual amendment: Words in reg. 4(1) substituted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/2/b)
+[^c-5e19148190c0b243ca7f577a1345aabc]: Textual amendment: Words in reg. 4(1) substituted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/2/b)
 
-[^key-537a44b8bee18e12c9854e083eedd15d]: Textual amendment: Words in reg. 4(1) substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/2/b)
+[^c-537a44b8bee18e12c9854e083eedd15d]: Textual amendment: Words in reg. 4(1) substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/2/b)
 
 [^M_F_09f3b02c-9f57-48f3-b2c3-f5959ee16b88]: Textual amendment: Words in reg. 5 substituted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/3)
 
-[^key-88c742790ef77d1302475f9b122110f6]: Textual amendment: Words in reg. 5 substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/3)
+[^c-88c742790ef77d1302475f9b122110f6]: Textual amendment: Words in reg. 5 substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/3)
 
-[^key-990ec8dea970e13749da8d0bd9e56dac]: Textual amendment: Words in reg. 6(1) table substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/2/2)
+[^c-990ec8dea970e13749da8d0bd9e56dac]: Textual amendment: Words in reg. 6(1) table substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/2/2)
 
-[^key-d1364c260757d92036e7c0f8c2daf171]: Textual amendment: Words in reg. 6(1) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2004/696/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/696/schedule/2)
+[^c-d1364c260757d92036e7c0f8c2daf171]: Textual amendment: Words in reg. 6(1) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2004/696/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/696/schedule/2)
 
-[^key-7848e5a0a5eb3298bf7bb881b0b8d76d]: Textual amendment: Words in reg. 6(1) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [38(a)](https://www.legislation.gov.uk/uksi/2004/3168/article/38/a); and words in reg. 6(1) substituted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [38(a)](https://www.legislation.gov.uk/wsi/2005/2929/article/38/a)
+[^c-7848e5a0a5eb3298bf7bb881b0b8d76d]: Textual amendment: Words in reg. 6(1) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [38(a)](https://www.legislation.gov.uk/uksi/2004/3168/article/38/a); and words in reg. 6(1) substituted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [38(a)](https://www.legislation.gov.uk/wsi/2005/2929/article/38/a)
 
-[^key-2873422a0c3bc85f2b8d4e2dcfb89935]: Textual amendment: Words in reg. 6(2) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2004/696/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/696/schedule/2)
+[^c-2873422a0c3bc85f2b8d4e2dcfb89935]: Textual amendment: Words in reg. 6(2) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2004/696/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/696/schedule/2)
 
 [^c17769251]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49). The definition of “National Health Service trust" in section 128(1) was inserted by section 26(2)(d) of the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-bb42172eb61115e58346662e85f94721]: Textual amendment: Words in reg. 6(2) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [38(b)](https://www.legislation.gov.uk/uksi/2004/3168/article/38/b); and words in reg. 6(2) substituted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [38(b)](https://www.legislation.gov.uk/wsi/2005/2929/article/38/b)
+[^c-bb42172eb61115e58346662e85f94721]: Textual amendment: Words in reg. 6(2) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [38(b)](https://www.legislation.gov.uk/uksi/2004/3168/article/38/b); and words in reg. 6(2) substituted (W.) (25.10.2005) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/wsi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/2929/article/1/1), [38(b)](https://www.legislation.gov.uk/wsi/2005/2929/article/38/b)
 
 [^c17769271]: Marginal citation: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66).
 
 [^c17769281]: Marginal citation: [S.I. 1992/1217](https://www.legislation.gov.uk/uksi/1992/1217).
 
-[^key-d73c4c07750a3703c393c42dd1722518]: Textual amendment: Words in reg. 6(2) added (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2004/696/schedule/1/paragraph/25)
+[^c-d73c4c07750a3703c393c42dd1722518]: Textual amendment: Words in reg. 6(2) added (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2004/696/schedule/1/paragraph/25)
 
-[^key-60ec44bda382a7cfaba216bc769b8acf]: Textual amendment: Words in reg. 6(3)(b) omitted (3.7.2000) by virtue of [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/2/3)
+[^c-60ec44bda382a7cfaba216bc769b8acf]: Textual amendment: Words in reg. 6(3)(b) omitted (3.7.2000) by virtue of [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/2/3)
 
-[^key-5d1a67c20d58de85c5cf2f9f597a3377]: Textual amendment: Words in [reg. 9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/9/3/b/ii) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/3/2)
+[^c-5d1a67c20d58de85c5cf2f9f597a3377]: Textual amendment: Words in [reg. 9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/9/3/b/ii) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/3/2)
 
-[^key-4691065a3097ad005d65d50427bf87cf]: Textual amendment: [Reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/9/5/c) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/3/3)
+[^c-4691065a3097ad005d65d50427bf87cf]: Textual amendment: [Reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/9/5/c) substituted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/3/3)
 
 [^c17769291]: Marginal citation: [Section 85](https://www.legislation.gov.uk/uksi/1996/2489/section/85) was amended by the New Roads and Street Works Act 1991, Schedule 8, paragraph 62 and by the Road Traffic Act 1991, Schedule 4, paragraph 30 and Schedule 8.
 
@@ -861,41 +861,41 @@ Schedules 1 to 3 specify the information to be contained in press notices, the d
 
 [^M_F_a1767865-ec1b-4225-d838-b5a10a254ced]: Textual amendment: Words in reg. 15 substituted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/3)
 
-[^key-b7534e5da30ea8f8950241c6a7a42cec]: Textual amendment: Words in reg. 15 substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/3)
+[^c-b7534e5da30ea8f8950241c6a7a42cec]: Textual amendment: Words in reg. 15 substituted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/3)
 
 [^c17769311]: Marginal citation: Part I of [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
 
-[^key-09e4be4ac9936662a14afbd6b2ec51e7]: Textual amendment: Reg. 18(4)(5) inserted (E.) (1.6.2009) by [The Local Authorities’ Traffic Orders (Procedure) (England and Wales) (Amendment) (England) Regulations 2009 (S.I. 2009/1116)](https://www.legislation.gov.uk/uksi/2009/1116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1116/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1116/regulation/2)
+[^c-09e4be4ac9936662a14afbd6b2ec51e7]: Textual amendment: Reg. 18(4)(5) inserted (E.) (1.6.2009) by [The Local Authorities’ Traffic Orders (Procedure) (England and Wales) (Amendment) (England) Regulations 2009 (S.I. 2009/1116)](https://www.legislation.gov.uk/uksi/2009/1116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1116/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1116/regulation/2)
 
-[^key-ca742e602060efa6122375ad300e185a]: Textual amendment: Reg. 18(4A) inserted (W.) (1.12.2010) by [The Local Authorities' Traffic Orders (Procedure) (England and Wales) (Amendment) (Wales) Regulations 2010 (S.I. 2010/2657)](https://www.legislation.gov.uk/uksi/2010/2657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2657/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/2657/regulation/2/1)
+[^c-ca742e602060efa6122375ad300e185a]: Textual amendment: Reg. 18(4A) inserted (W.) (1.12.2010) by [The Local Authorities' Traffic Orders (Procedure) (England and Wales) (Amendment) (Wales) Regulations 2010 (S.I. 2010/2657)](https://www.legislation.gov.uk/uksi/2010/2657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2657/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/2657/regulation/2/1)
 
-[^key-c2c894d2960ba22e425f409b21f8f4f3]: Textual amendment: Words in reg. 18(5) substituted (W.) (1.12.2010) by [The Local Authorities' Traffic Orders (Procedure) (England and Wales) (Amendment) (Wales) Regulations 2010 (S.I. 2010/2657)](https://www.legislation.gov.uk/wsi/2010/2657), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/2657/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2010/2657/regulation/2/2)
+[^c-c2c894d2960ba22e425f409b21f8f4f3]: Textual amendment: Words in reg. 18(5) substituted (W.) (1.12.2010) by [The Local Authorities' Traffic Orders (Procedure) (England and Wales) (Amendment) (Wales) Regulations 2010 (S.I. 2010/2657)](https://www.legislation.gov.uk/wsi/2010/2657), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2010/2657/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2010/2657/regulation/2/2)
 
 [^M_F_d5b1f349-9a78-4f4c-9435-de65d1e69a8a]: Textual amendment: Words in reg. 21(4) inserted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/4)
 
-[^key-70c74819026c2e66cdfe38e8c8c3dc02]: Textual amendment: Words in reg. 21(4) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/4)
+[^c-70c74819026c2e66cdfe38e8c8c3dc02]: Textual amendment: Words in reg. 21(4) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/4)
 
 [^M_F_4b6c7f93-7677-462e-c399-b242649d0535]: Textual amendment: Words in reg. 22(3) inserted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/5)
 
-[^key-a093aa60ee3e3d0ce8b2822e913cd3b0]: Textual amendment: Words in reg. 22(3) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/5)
+[^c-a093aa60ee3e3d0ce8b2822e913cd3b0]: Textual amendment: Words in reg. 22(3) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/5)
 
 [^M_F_708ed372-9224-404a-a50f-2f7d9fbebc67]: Textual amendment: Words in reg. 23(3)(b) inserted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/6)
 
-[^key-3b4dd8f0b1cf9edc40518b1f5a825980]: Textual amendment: Words in reg. 23(3)(b) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(6)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/6)
+[^c-3b4dd8f0b1cf9edc40518b1f5a825980]: Textual amendment: Words in reg. 23(3)(b) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(6)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/6)
 
-[^key-13e0c3adb983c334ecf4602ca8cc5d03]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/24/1) omitted (3.7.2000) by virtue of [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/4)
+[^c-13e0c3adb983c334ecf4602ca8cc5d03]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1996/2489/regulation/24/1) omitted (3.7.2000) by virtue of [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/4)
 
 [^M_F_4c5919e5-c9ce-4fc6-eadd-34601ee83d8a]: Textual amendment: Words in reg. 25(3) inserted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/7)
 
-[^key-5da09319ad117fe7cc153b6cfbdf1125]: Textual amendment: Words in reg. 25(3) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(7)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/7)
+[^c-5da09319ad117fe7cc153b6cfbdf1125]: Textual amendment: Words in reg. 25(3) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/wsi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2020/802/regulation/1/1), [3(7)](https://www.legislation.gov.uk/wsi/2020/802/regulation/3/7)
 
-[^key-d3c043d1261c6f0b44469f72975bf734]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/1996/2489/part/6) inserted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/8)
+[^c-d3c043d1261c6f0b44469f72975bf734]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/1996/2489/part/6) inserted (E.) (23.5.2020) by [The Traffic Orders Procedure (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/536)](https://www.legislation.gov.uk/uksi/2020/536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/536/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2020/536/regulation/3/8)
 
-[^key-5c62dfc9164f9ec8bdd93724686a76a9]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/1996/2489/part/7) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/uksi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/802/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2020/802/regulation/3/8)
+[^c-5c62dfc9164f9ec8bdd93724686a76a9]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/1996/2489/part/7) inserted (W.) (31.7.2020) by [The Traffic Orders Procedure (Amendment) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/802)](https://www.legislation.gov.uk/uksi/2020/802), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/802/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2020/802/regulation/3/8)
 
 [^c17769321]: Marginal citation: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078), to which there are amendments not relevant to these Regulations.
 
-[^key-652779164cff632bdcfa7fd7c93d869d]: Textual amendment: [Sch. 4 para. 7(aa)](https://www.legislation.gov.uk/uksi/1996/2489/schedule/4/paragraph/7/aa) inserted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/5)
+[^c-652779164cff632bdcfa7fd7c93d869d]: Textual amendment: [Sch. 4 para. 7(aa)](https://www.legislation.gov.uk/uksi/1996/2489/schedule/4/paragraph/7/aa) inserted (3.7.2000) by [The Greater London Highways and Road Traffic (Various Provisions) Order 2000 (S.I. 2000/1547)](https://www.legislation.gov.uk/uksi/2000/1547), [art. 1](https://www.legislation.gov.uk/uksi/2000/1547/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/1547/schedule/1/paragraph/5)
 
 [^c17769331]: Marginal citation: Part I of [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
 

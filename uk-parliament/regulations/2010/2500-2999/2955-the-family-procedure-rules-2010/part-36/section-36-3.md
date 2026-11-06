@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36.3. Temporary modifications for coronavirus or other emergency[^key-686bcaf1de4257c4dcbad27553c73878]
+## 36.3. Temporary modifications for coronavirus or other emergency[^c-686bcaf1de4257c4dcbad27553c73878]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ in order to address issues for the work of the courts arising from the coronavir
 
 ## Annotations
 
-[^key-686bcaf1de4257c4dcbad27553c73878]: Textual amendment: [Rule 36.3](https://www.legislation.gov.uk/uksi/2010/2955/rule/36.3) inserted (6.4.2021) by [The Family Procedure (Amendment) Rules 2021 (S.I. 2021/155)](https://www.legislation.gov.uk/uksi/2021/155), [rules 1](https://www.legislation.gov.uk/uksi/2021/155/rule/1), [4](https://www.legislation.gov.uk/uksi/2021/155/rule/4)
+[^c-686bcaf1de4257c4dcbad27553c73878]: Textual amendment: [Rule 36.3](https://www.legislation.gov.uk/uksi/2010/2955/rule/36.3) inserted (6.4.2021) by [The Family Procedure (Amendment) Rules 2021 (S.I. 2021/155)](https://www.legislation.gov.uk/uksi/2021/155), [rules 1](https://www.legislation.gov.uk/uksi/2021/155/rule/1), [4](https://www.legislation.gov.uk/uksi/2021/155/rule/4)

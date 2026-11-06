@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Saving and transitional provision[^key-80855e928201424c97216e8453f03806]
+## 42. Saving and transitional provision[^c-80855e928201424c97216e8453f03806]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80855e928201424c97216e8453f03806]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/12/section/42) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-80855e928201424c97216e8453f03806]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/12/section/42) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)

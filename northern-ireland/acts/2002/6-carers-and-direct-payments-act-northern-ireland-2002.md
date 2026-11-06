@@ -59,7 +59,7 @@ the authority—
 - (a) by virtue of a contract of employment or other contract with any person; or
 - (b) as a volunteer for a voluntary organisation.
 
-(4)[^key-5c784e450e1e9acc56990b5acbb7c466] An assessment under this section is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
+(4)[^c-5c784e450e1e9acc56990b5acbb7c466] An assessment under this section is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
 
 (5) For the purposes of an assessment under this section, the authority may take into account, so far as it considers it to be material, any other assessment made under this section or Article 18A of the Children Order.
 
@@ -288,7 +288,7 @@ the authority shall notify the carer that he may be entitled to request an asses
 
 (2) A person falls within this subsection if the authority has decided—
 
-- (a) under the 1972 Order that his needs call for the provision by it of a particular social care service[^key-e91097df5870b96f9e15cc1db2590d95]; or
+- (a) under the 1972 Order that his needs call for the provision by it of a particular social care service[^c-e91097df5870b96f9e15cc1db2590d95]; or
 - (b) under section 2(1) to provide him with a particular service under that section.
 
 (3) Regulations under this section may, in particular, make provision—
@@ -322,7 +322,7 @@ the authority shall notify the carer that he may be entitled to request an asses
 
 *Subs. (7)—Repeals*
 
-(8)[^key-4d7bd87637d1f58f284553c556475afa] In this section “**social care service**” means a service designed to secure any of the objects of section 2(1)(b) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.
+(8)[^c-4d7bd87637d1f58f284553c556475afa] In this section “**social care service**” means a service designed to secure any of the objects of section 2(1)(b) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.
 
 ### 9. Direct payments in respect of children
 
@@ -400,7 +400,7 @@ After Article 18B of the Children Order there shall be inserted—
 
 (2) Subject to subsection (1), this Act shall be construed as one with the 1972 Order.
 
-(3)[^key-ceefb3bf1540bdea56666ac489714b61] In this Act “**authority**”, in relation to a person, means the HSC trusting whose area the person resides.
+(3)[^c-ceefb3bf1540bdea56666ac489714b61] In this Act “**authority**”, in relation to a person, means the HSC trusting whose area the person resides.
 
 (4) References in this Act (however expressed) to services provided by an authority include services which the authority arranges to provide, where it has power to do so.
 
@@ -424,7 +424,7 @@ This Act may be cited as the Carers and Direct Payments Act (Northern Ireland) 2
 
 [^c21432531]: Textual amendment: Words in Act substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-5c784e450e1e9acc56990b5acbb7c466]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/nia/2002/6/section/1/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 190(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/190/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5c784e450e1e9acc56990b5acbb7c466]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/nia/2002/6/section/1/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 190(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/190/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21432721]: Textual amendment: Words in Act substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -440,10 +440,10 @@ This Act may be cited as the Carers and Direct Payments Act (Northern Ireland) 2
 
 [^c21432871]: Textual amendment: Words in Act substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-e91097df5870b96f9e15cc1db2590d95]: Textual amendment: Words in [s. 8(2)(a)](https://www.legislation.gov.uk/nia/2002/6/section/8/2/a) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 3(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/3/a)
+[^c-e91097df5870b96f9e15cc1db2590d95]: Textual amendment: Words in [s. 8(2)(a)](https://www.legislation.gov.uk/nia/2002/6/section/8/2/a) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 3(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/3/a)
 
-[^key-4d7bd87637d1f58f284553c556475afa]: Textual amendment: [S. 8(8)](https://www.legislation.gov.uk/nia/2002/6/section/8/8) inserted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 3(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/3/b)
+[^c-4d7bd87637d1f58f284553c556475afa]: Textual amendment: [S. 8(8)](https://www.legislation.gov.uk/nia/2002/6/section/8/8) inserted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 3(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/3/b)
 
-[^key-ceefb3bf1540bdea56666ac489714b61]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/nia/2002/6/section/10/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 190(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/190/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ceefb3bf1540bdea56666ac489714b61]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/nia/2002/6/section/10/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 190(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/190/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c11656381]: Textual amendment: partly exercised by SR 2003/201; 2004/119

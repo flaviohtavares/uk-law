@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Introductory[^key-b4aacde8dc8548656a4644fefd5cd5c6]
+## 46. Introductory[^c-b4aacde8dc8548656a4644fefd5cd5c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Dentists Act 1984[^f00031] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-b4aacde8dc8548656a4644fefd5cd5c6]: Commencement: Reg. 46 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b4aacde8dc8548656a4644fefd5cd5c6]: Commencement: Reg. 46 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00031]: Footnote: c. 24.

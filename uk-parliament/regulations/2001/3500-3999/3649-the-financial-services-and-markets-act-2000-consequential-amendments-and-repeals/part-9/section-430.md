@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 430. Meaning of “the reference banks”[^key-cdf386e4a2709b542008d909ced48b99]
+## 430. Meaning of “the reference banks”[^c-cdf386e4a2709b542008d909ced48b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf386e4a2709b542008d909ced48b99]: Commencement: Art. 430 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cdf386e4a2709b542008d909ced48b99]: Commencement: Art. 430 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

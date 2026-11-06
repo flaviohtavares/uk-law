@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Extension of administrator’s term of office[^key-c17eaffb2375d0dd5376f5d0c443e3f0]
+## 88. Extension of administrator’s term of office[^c-c17eaffb2375d0dd5376f5d0c443e3f0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In paragraph 77(2)(b) of Schedule B1 (administrator’s term of office may be ex
 
 ## Annotations
 
-[^key-c17eaffb2375d0dd5376f5d0c443e3f0]: Commencement: S. 88 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c17eaffb2375d0dd5376f5d0c443e3f0]: Commencement: S. 88 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

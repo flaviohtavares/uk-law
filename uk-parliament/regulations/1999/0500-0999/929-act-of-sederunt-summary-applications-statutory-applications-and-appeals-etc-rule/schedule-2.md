@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — REVOCATIONS[^key-8924ccf3d60ecc49ac899249540ef7bc]
+## SCHEDULE 2 — REVOCATIONS[^c-8924ccf3d60ecc49ac899249540ef7bc]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ Rule 1.3
 
 ## Annotations
 
-[^key-8924ccf3d60ecc49ac899249540ef7bc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/929/schedule/2) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-8924ccf3d60ecc49ac899249540ef7bc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/929/schedule/2) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

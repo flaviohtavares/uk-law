@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Timing of automatic re-enrolment[^c21291281][^key-bdf680b45054c73e243413fad2deadf5]
+## 8. Timing of automatic re-enrolment[^c21291281][^c-bdf680b45054c73e243413fad2deadf5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In section 6 of the Pensions (No. 2) Act (Northern Ireland) 2008 (timing of auto
 
 [^c21291281]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2012/3/section/8) partly in operation; [s. 8](https://www.legislation.gov.uk/nia/2012/3/section/8) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-bdf680b45054c73e243413fad2deadf5]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2012/3/section/8) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/206](https://www.legislation.gov.uk/nisr/2015/206), [art. 2](https://www.legislation.gov.uk/nisr/2015/206/article/2)
+[^c-bdf680b45054c73e243413fad2deadf5]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2012/3/section/8) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/206](https://www.legislation.gov.uk/nisr/2015/206), [art. 2](https://www.legislation.gov.uk/nisr/2015/206/article/2)

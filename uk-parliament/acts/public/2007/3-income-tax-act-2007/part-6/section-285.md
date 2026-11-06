@@ -22,19 +22,19 @@ summary: ''
 
 (1) Chapter 4 has effect for interpreting references in this Chapter to a “qualifying holding”.
 
-(2) In this Chapter and the following Chapters of this Part “**securities**”, in relation to a company, includes any liability of the company in respect of a loan [^key-83fe5b6eae176328d55a6288ad352ee0]..., except that it does not include—
+(2) In this Chapter and the following Chapters of this Part “**securities**”, in relation to a company, includes any liability of the company in respect of a loan [^c-83fe5b6eae176328d55a6288ad352ee0]..., except that it does not include—
 
 - (a) any liability of the company in respect of a loan which has been made to the company on terms which allow any person to require—
   - (i) the loan to be repaid, or
   - (ii) any stock or security relating to the loan to be re-purchased or redeemed,
 
   within the period of 5 years from the making of the loan or, as the case may be, the issue of the stock or security, or
-- (b) any stock or security relating to a loan which has been made to the company on terms which allow any person to require the loan to be repaid, or the stock or security to be re-purchased or redeemed, within that period , or[^key-72faa194804936759b768f112c479fac]
+- (b) any stock or security relating to a loan which has been made to the company on terms which allow any person to require the loan to be repaid, or the stock or security to be re-purchased or redeemed, within that period , or[^c-72faa194804936759b768f112c479fac]
 - (c) any liability of the company in respect of a loan to which subsection (2A) applies that has been made to the company.
 
 But see sections 317(4) and 328(2).
 
-(2A)[^key-5176ea5e71cede0f3d35d5038428e427] This subsection applies to a loan if—
+(2A)[^c-5176ea5e71cede0f3d35d5038428e427] This subsection applies to a loan if—
 
 - (a) the return on the loan represents more than a commercial rate of return, or
 - (b) the loan is made on terms which grant to a person or allow a person to acquire—
@@ -65,7 +65,7 @@ But see sections 317(4) and 328(2).
 - (a) subsections (2A)(a) and (2B) apply, until the relevant matters are ascertained, on the basis of what amounts can reasonably be expected to be payable;
 - (b) when those matters are ascertained, any necessary adjustments must be made by making or amending assessments or by repayment or discharge of tax (regardless of any limitation on the time within which assessments or amendments may be made).
 
-(3A)[^key-9542d199c3ca6558f2aa526e6b200ea8] For the purposes of this Chapter, shares in a company are “eligible” unless they carry—
+(3A)[^c-9542d199c3ca6558f2aa526e6b200ea8] For the purposes of this Chapter, shares in a company are “eligible” unless they carry—
 
 - (a) a present or future preferential right to dividends that is within subsection (3B),
 - (b) a present or future preferential right to the company's assets on its winding up, or
@@ -95,10 +95,10 @@ But see sections 317(4) and 328(2).
 
 ## Annotations
 
-[^key-83fe5b6eae176328d55a6288ad352ee0]: Textual amendment: Words in s. 285(2) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7/2/a), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
+[^c-83fe5b6eae176328d55a6288ad352ee0]: Textual amendment: Words in s. 285(2) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7/2/a), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
 
-[^key-72faa194804936759b768f112c479fac]: Textual amendment: S. 285(2)(c) and word inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7/2/b), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
+[^c-72faa194804936759b768f112c479fac]: Textual amendment: S. 285(2)(c) and word inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7/2/b), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
 
-[^key-5176ea5e71cede0f3d35d5038428e427]: Textual amendment: S. 285(2A)-(2E) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7/3), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
+[^c-5176ea5e71cede0f3d35d5038428e427]: Textual amendment: S. 285(2A)-(2E) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7/3), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
 
-[^key-9542d199c3ca6558f2aa526e6b200ea8]: Textual amendment: S. 285(3A)(3B) substituted (6.4.2011) for s. 285(3) (with effect in accordance with Sch. 2 paras. 6, 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/6); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-9542d199c3ca6558f2aa526e6b200ea8]: Textual amendment: S. 285(3A)(3B) substituted (6.4.2011) for s. 285(3) (with effect in accordance with Sch. 2 paras. 6, 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/6); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

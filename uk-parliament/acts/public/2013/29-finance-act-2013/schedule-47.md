@@ -182,7 +182,7 @@ Section 220
 
 **16.** Part 9A of TIOPA 2010 (controlled foreign companies) is amended as follows.
 
-**17.**[^key-26bb32038fa0ab4096f640ffc0e4e05b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-26bb32038fa0ab4096f640ffc0e4e05b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** Chapter 9 (exemptions for profits from qualifying loan relationships) is amended as follows.
 
@@ -248,4 +248,4 @@ Section 220
 
 ## Annotations
 
-[^key-26bb32038fa0ab4096f640ffc0e4e05b]: Textual amendment: Sch. 47 para. 17 omitted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/4)
+[^c-26bb32038fa0ab4096f640ffc0e4e05b]: Textual amendment: Sch. 47 para. 17 omitted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 21(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/21/4)

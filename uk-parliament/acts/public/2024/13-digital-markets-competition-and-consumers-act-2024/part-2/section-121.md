@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Duty to preserve documents relevant to investigations[^key-8463b01f53395df6882a767d6150ca86][^key-88c2904099cf0a12d4f91f752f1d3e59]
+## 121. Duty to preserve documents relevant to investigations[^c-8463b01f53395df6882a767d6150ca86][^c-88c2904099cf0a12d4f91f752f1d3e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8463b01f53395df6882a767d6150ca86]: Commencement: S. 121 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-8463b01f53395df6882a767d6150ca86]: Commencement: S. 121 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-88c2904099cf0a12d4f91f752f1d3e59]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2024/13/section/121) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-88c2904099cf0a12d4f91f752f1d3e59]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2024/13/section/121) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

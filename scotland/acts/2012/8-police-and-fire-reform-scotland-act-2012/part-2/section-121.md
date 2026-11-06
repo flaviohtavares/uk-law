@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Transfer of staff, property etc.[^key-ce5a9e66bf569f7d801ecaf9afee6de5]
+## 121. Transfer of staff, property etc.[^c-ce5a9e66bf569f7d801ecaf9afee6de5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6 makes provision about the transfer of staff, property, rights, liabil
 
 ## Annotations
 
-[^key-ce5a9e66bf569f7d801ecaf9afee6de5]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2012/8/section/121) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-ce5a9e66bf569f7d801ecaf9afee6de5]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2012/8/section/121) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

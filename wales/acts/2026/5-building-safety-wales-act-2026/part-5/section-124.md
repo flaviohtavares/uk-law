@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Power to direct building safety authorities to arrange for delegation of functions[^key-e2485433e6495422871285b8d95ad32b]
+## 124. Power to direct building safety authorities to arrange for delegation of functions[^c-e2485433e6495422871285b8d95ad32b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2485433e6495422871285b8d95ad32b]: Commencement: S. 124 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e2485433e6495422871285b8d95ad32b]: Commencement: S. 124 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

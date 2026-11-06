@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77A. Endorsement of driving records where penalty paid[^key-b000cdb07bd7122c065f6cdb249252b0]
+## 77A. Endorsement of driving records where penalty paid[^c-b000cdb07bd7122c065f6cdb249252b0]
 
 *Extent: E+W+S*
 
 (1) Where—
 
-- (a)[^key-cb6b9308391ecd0c4a90a8a4b22b91af] a conditional offer has been issued to a person (“the alleged offender”) under section 75(1), (2) or (3),
-- (b) proceedings against the alleged offender for the offence to which the conditional offer relates are excluded by section 76(2)[^key-3e9dfa4f827912f6c62042135ab497b5] of this Act,
+- (a)[^c-cb6b9308391ecd0c4a90a8a4b22b91af] a conditional offer has been issued to a person (“the alleged offender”) under section 75(1), (2) or (3),
+- (b) proceedings against the alleged offender for the offence to which the conditional offer relates are excluded by section 76(2)[^c-3e9dfa4f827912f6c62042135ab497b5] of this Act,
 
-the fixed penalty clerk must forthwith send to the Secretary of State notice of the relevant particulars to be endorsed on the alleged offender's driving record [^key-7d0ed006ea8af7d9a045ea12fb23d63c]....
+the fixed penalty clerk must forthwith send to the Secretary of State notice of the relevant particulars to be endorsed on the alleged offender's driving record [^c-7d0ed006ea8af7d9a045ea12fb23d63c]....
 
-(2) The Secretary of State must endorse the relevant particulars on a person's driving record [^key-771a491be053b8878a46291773689e75]...—
+(2) The Secretary of State must endorse the relevant particulars on a person's driving record [^c-771a491be053b8878a46291773689e75]...—
 
 - (a) on receiving notice under subsection (1) above, or
-- (b)[^key-97b5d66246025c59ea928246d9d21c8b] in a case where—
+- (b)[^c-97b5d66246025c59ea928246d9d21c8b] in a case where—
   - (i) a conditional offer is issued to a person (“the alleged offender”) under section 75(1A) or (3B), and
   - (ii) proceedings against the alleged offender are excluded by section 76(2).
 
@@ -66,14 +66,14 @@ the fixed penalty clerk must forthwith send to the Secretary of State notice of 
 
 ## Annotations
 
-[^key-b000cdb07bd7122c065f6cdb249252b0]: Textual amendment: S. 77A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2006/49/schedule/2/paragraph/27); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
+[^c-b000cdb07bd7122c065f6cdb249252b0]: Textual amendment: S. 77A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2006/49/schedule/2/paragraph/27); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
 
-[^key-cb6b9308391ecd0c4a90a8a4b22b91af]: Textual amendment: [S. 77A(1)(a)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/1/a) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-cb6b9308391ecd0c4a90a8a4b22b91af]: Textual amendment: [S. 77A(1)(a)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/1/a) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-3e9dfa4f827912f6c62042135ab497b5]: Textual amendment: Word in [s. 77A(1)(b)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/1/b) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-3e9dfa4f827912f6c62042135ab497b5]: Textual amendment: Word in [s. 77A(1)(b)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/1/b) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-7d0ed006ea8af7d9a045ea12fb23d63c]: Textual amendment: Words in [s. 77A(1)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/1) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-7d0ed006ea8af7d9a045ea12fb23d63c]: Textual amendment: Words in [s. 77A(1)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/1) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-771a491be053b8878a46291773689e75]: Textual amendment: Words in [s. 77A(2)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/2) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/d), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-771a491be053b8878a46291773689e75]: Textual amendment: Words in [s. 77A(2)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/2) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/d), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-97b5d66246025c59ea928246d9d21c8b]: Textual amendment: [S. 77A(2)(b)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/2/b) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/e), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-97b5d66246025c59ea928246d9d21c8b]: Textual amendment: [S. 77A(2)(b)](https://www.legislation.gov.uk/ukpga/1988/53/section/77A/2/b) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 94(4)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/94/4/e), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

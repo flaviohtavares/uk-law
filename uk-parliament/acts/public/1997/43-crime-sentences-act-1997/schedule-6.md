@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Repeals[^c11471191][^c11471201][^key-9d8deed510c833cef434dbc9352af1ad][^key-73a171923a83557035a929ef5a1f5e46]
+## SCHEDULE 6 — Repeals[^c11471191][^c11471201][^c-9d8deed510c833cef434dbc9352af1ad][^c-73a171923a83557035a929ef5a1f5e46]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,8 +48,8 @@ Section 56(2).
 
 [^c11471201]: Modification: Sch. 6 excluded (1.1.1998) by [S.I. 1997/2200](https://www.legislation.gov.uk/uksi/1997/2200), [art. 5(1)(6)](https://www.legislation.gov.uk/uksi/1997/2200/article/5/1/6)
 
-[^key-9d8deed510c833cef434dbc9352af1ad]: Commencement: Sch. 6 in force at 4.4.2005 for specified purposes by [S.I. 2005/932](https://www.legislation.gov.uk/uksi/2005/932), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/932/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2005/932/article/2/2/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/932/article/2/3))
+[^c-9d8deed510c833cef434dbc9352af1ad]: Commencement: Sch. 6 in force at 4.4.2005 for specified purposes by [S.I. 2005/932](https://www.legislation.gov.uk/uksi/2005/932), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/932/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2005/932/article/2/2/b) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/932/article/2/3))
 
-[^key-73a171923a83557035a929ef5a1f5e46]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/43/schedule/6) in force at 3.12.2012 for specified purposes by [S.I. 2012/2901](https://www.legislation.gov.uk/uksi/2012/2901), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2901/article/2/b)
+[^c-73a171923a83557035a929ef5a1f5e46]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/43/schedule/6) in force at 3.12.2012 for specified purposes by [S.I. 2012/2901](https://www.legislation.gov.uk/uksi/2012/2901), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2901/article/2/b)
 
 [^c11471211]: Textual amendment: Entries in Sch. 6 repealed (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 8 para. 139](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/139), [Sch.10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(2)(pp)(3)(x)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/2/pp/3/x).

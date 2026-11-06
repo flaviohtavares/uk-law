@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Meeting remediation costs of insolvent landlord[^key-5d10e0fdc1398fc06de3f7a3988f5b92]
+## 125. Meeting remediation costs of insolvent landlord[^c-5d10e0fdc1398fc06de3f7a3988f5b92]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d10e0fdc1398fc06de3f7a3988f5b92]: Textual amendment: [S. 125](https://www.legislation.gov.uk/ukpga/2022/30/section/125) omitted (24.7.2024) by virtue of [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/1), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-5d10e0fdc1398fc06de3f7a3988f5b92]: Textual amendment: [S. 125](https://www.legislation.gov.uk/ukpga/2022/30/section/125) omitted (24.7.2024) by virtue of [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/1), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)

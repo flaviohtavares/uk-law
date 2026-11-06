@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.32. Abstract of receipts and payments[^key-338fc8941da8b341218a55a4fd795893]
+## 3.32. Abstract of receipts and payments[^c-338fc8941da8b341218a55a4fd795893]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-338fc8941da8b341218a55a4fd795893]: Commencement: [Rule 3.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-338fc8941da8b341218a55a4fd795893]: Commencement: [Rule 3.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00030]: Marginal citation: \[FORM 3.6\]

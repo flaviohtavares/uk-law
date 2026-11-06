@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Certification of plans and documents, etc.[^key-219d53de742d0c898533415d825b8088]
+## 41. Certification of plans and documents, etc.[^c-219d53de742d0c898533415d825b8088]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-219d53de742d0c898533415d825b8088]: Commencement: Art. 41 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-219d53de742d0c898533415d825b8088]: Commencement: Art. 41 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

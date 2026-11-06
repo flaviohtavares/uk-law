@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18.2. Registrar’s power to refer to chancellor[^key-26fedf53be6412e3787900879f9b2614]
+## 18.2. Registrar’s power to refer to chancellor[^c-26fedf53be6412e3787900879f9b2614]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ Where, in relation to proceedings in a consistory court, a step is to be taken b
 
 ## Annotations
 
-[^key-26fedf53be6412e3787900879f9b2614]: Commencement: [Rule 18.2](https://www.legislation.gov.uk/uksi/2015/1568/article/18.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-26fedf53be6412e3787900879f9b2614]: Commencement: [Rule 18.2](https://www.legislation.gov.uk/uksi/2015/1568/article/18.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

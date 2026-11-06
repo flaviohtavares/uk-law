@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Application of section 174 where guarantee disallowed[^key-c757b9b8c346bd24e2acc47909116da5]
+## 175. Application of section 174 where guarantee disallowed[^c-c757b9b8c346bd24e2acc47909116da5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c757b9b8c346bd24e2acc47909116da5]: Textual amendment: [S. 175](https://www.legislation.gov.uk/ukpga/2010/8/section/175) substituted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(8)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/8), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-c757b9b8c346bd24e2acc47909116da5]: Textual amendment: [S. 175](https://www.legislation.gov.uk/ukpga/2010/8/section/175) substituted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(8)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/8), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)

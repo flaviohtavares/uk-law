@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Tunnels etc[^key-e262fed93b4cb30439ad1a421111187b]
+## 2A. Tunnels etc[^c-e262fed93b4cb30439ad1a421111187b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e262fed93b4cb30439ad1a421111187b]: Textual amendment: S. 2A inserted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/9); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g)
+[^c-e262fed93b4cb30439ad1a421111187b]: Textual amendment: S. 2A inserted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/9); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g)

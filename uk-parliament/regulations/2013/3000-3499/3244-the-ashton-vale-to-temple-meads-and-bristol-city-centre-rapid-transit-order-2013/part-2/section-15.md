@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Guided busway highway crossings[^key-f1c1d0c9f58a050b96067839393f7ed4]
+## 15. Guided busway highway crossings[^c-f1c1d0c9f58a050b96067839393f7ed4]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c1d0c9f58a050b96067839393f7ed4]: Commencement: Art. 15 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-f1c1d0c9f58a050b96067839393f7ed4]: Commencement: Art. 15 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

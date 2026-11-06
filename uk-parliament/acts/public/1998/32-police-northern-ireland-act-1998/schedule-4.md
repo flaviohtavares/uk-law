@@ -40,7 +40,7 @@ Section 74.
 
 ### The Police (Scotland) Act 1967 (c. 77)
 
-**4.**[^key-a4d020af591d39859677ce8c9f3be337] (1) The Police (Scotland) Act 1967 shall be amended as follows.
+**4.**[^c-a4d020af591d39859677ce8c9f3be337] (1) The Police (Scotland) Act 1967 shall be amended as follows.
 
 (2) In section 38A(1) after paragraph (c) there shall be inserted—
 
@@ -82,7 +82,7 @@ Section 74.
 
 ### The House of Commons Disqualification Act 1975 (c. 24)
 
-**8.**[^key-1844db5ba31643b3181431bb6058bd48] In Part III of Schedule 1 to the House of Commons Disqualification Act 1975 the following entry shall be inserted at the appropriate place in alphabetical order—
+**8.**[^c-1844db5ba31643b3181431bb6058bd48] In Part III of Schedule 1 to the House of Commons Disqualification Act 1975 the following entry shall be inserted at the appropriate place in alphabetical order—
 
 > The Police Ombudsman for Northern Ireland.
 
@@ -90,7 +90,7 @@ Section 74.
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
-**9.**[^key-a825b04a536606436520eaf4deef56dd] In Part III of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 the following entry shall be inserted at the appropriate place in alphabetical order—
+**9.**[^c-a825b04a536606436520eaf4deef56dd] In Part III of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 the following entry shall be inserted at the appropriate place in alphabetical order—
 
 > The Police Ombudsman for Northern Ireland.
 
@@ -132,7 +132,7 @@ Section 74.
 
 *Extent: N.I.*
 
-**15.**[^key-c106413eac4a3878f8fa0531cc0f7a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c106413eac4a3878f8fa0531cc0f7a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Ministry of Defence Police Act 1987 (c. 4)
 
@@ -156,7 +156,7 @@ Section 74.
 
 (5)[^c1372011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ea742ecf9fdafc1b454757984918ee55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ea742ecf9fdafc1b454757984918ee55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Criminal Justice (Northern Ireland) Order 1994 (NI 15)
 
@@ -175,15 +175,15 @@ Section 74.
 
 (2) In section 63(1A)(a) for “section 21 of the Police Act (Northern Ireland) 1970” there shall be substituted “ section 27 of the Police (Northern Ireland) Act 1998 ”.
 
-(3)[^key-4ded061e4d685f029bd289df0294384a] In section 97(1) after paragraph (e) there shall be inserted—
+(3)[^c-4ded061e4d685f029bd289df0294384a] In section 97(1) after paragraph (e) there shall be inserted—
 
 > - (ea) temporary service with the Police Ombudsman for Northern Ireland on which a person is engaged in accordance with arrangements made under paragraph 8 of Schedule 3 to the Police (Northern Ireland) Act 1998;
 
 .
 
-(4)[^key-4ded061e4d685f029bd289df0294384a] In section 97(6)(c) after “paragraph” insert “ (ea) or ”.
+(4)[^c-4ded061e4d685f029bd289df0294384a] In section 97(6)(c) after “paragraph” insert “ (ea) or ”.
 
-(5)[^key-4ded061e4d685f029bd289df0294384a] In section 97(7)(b) after “by or on behalf of” there shall be inserted “ the Police Ombudsman for Northern Ireland or (as the case may be) ”.
+(5)[^c-4ded061e4d685f029bd289df0294384a] In section 97(7)(b) after “by or on behalf of” there shall be inserted “ the Police Ombudsman for Northern Ireland or (as the case may be) ”.
 
 (6)[^c1372016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -191,7 +191,7 @@ Section 74.
 
 *Extent: N.I.*
 
-**21.**[^key-e039afdb17684251d434d4d4ae9e4c1e] In Schedule 2 to the Juries (Northern Ireland) Order 1996 for the entry “Members and staff of the Independent Commission for Police Complaints for Northern Ireland” there shall be substituted—
+**21.**[^c-e039afdb17684251d434d4d4ae9e4c1e] In Schedule 2 to the Juries (Northern Ireland) Order 1996 for the entry “Members and staff of the Independent Commission for Police Complaints for Northern Ireland” there shall be substituted—
 
 > The Police Ombudsman for Northern Ireland and persons employed by him.
 
@@ -199,7 +199,7 @@ Section 74.
 
 ### The Police Act 1997 (c. 50)
 
-**22.**[^key-38e88a847651796d4df9fe5161275740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-38e88a847651796d4df9fe5161275740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
 
@@ -225,17 +225,17 @@ Section 74.
 
 [^c1372004]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/3) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-a4d020af591d39859677ce8c9f3be337]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/4) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
+[^c-a4d020af591d39859677ce8c9f3be337]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/4) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
 
-[^key-1844db5ba31643b3181431bb6058bd48]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/8) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
+[^c-1844db5ba31643b3181431bb6058bd48]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/8) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
 
-[^key-a825b04a536606436520eaf4deef56dd]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/9) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
+[^c-a825b04a536606436520eaf4deef56dd]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/9) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
 
 [^c1372005]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/10) repealed (1.3.1999) by [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162), [art. 105(4)](https://www.legislation.gov.uk/nisi/1998/3162/article/105/4), [Sch. 5](https://www.legislation.gov.uk/nisi/1998/3162/schedule/5); [S.R. 1999/81](https://www.legislation.gov.uk/nisr/1999/81), [art. 3](https://www.legislation.gov.uk/nisr/1999/81/article/3)
 
 [^c1372007]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/12) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-c106413eac4a3878f8fa0531cc0f7a1b]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/15) repealed (1.2.2005) by [The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702)](https://www.legislation.gov.uk/nisi/2004/702), [art. 1(3)](https://www.legislation.gov.uk/nisi/2004/702/article/1/3), [Sch. 8](https://www.legislation.gov.uk/nisi/2004/702/schedule/8) (with [art. 81](https://www.legislation.gov.uk/nisi/2004/702/article/81)); [S.R. 2005/4](https://www.legislation.gov.uk/nisr/2005/4), [art. 3](https://www.legislation.gov.uk/nisr/2005/4/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/nisr/2005/4/article/4))
+[^c-c106413eac4a3878f8fa0531cc0f7a1b]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/15) repealed (1.2.2005) by [The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702)](https://www.legislation.gov.uk/nisi/2004/702), [art. 1(3)](https://www.legislation.gov.uk/nisi/2004/702/article/1/3), [Sch. 8](https://www.legislation.gov.uk/nisi/2004/702/schedule/8) (with [art. 81](https://www.legislation.gov.uk/nisi/2004/702/article/81)); [S.R. 2005/4](https://www.legislation.gov.uk/nisr/2005/4), [art. 3](https://www.legislation.gov.uk/nisr/2005/4/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/nisr/2005/4/article/4))
 
 [^c1372008]: Modification: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/17) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
@@ -243,17 +243,17 @@ Section 74.
 
 [^c1372011]: Textual amendment: Sch. 4 para. 18(2)(4)(5) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-ea742ecf9fdafc1b454757984918ee55]: Textual amendment: [Sch. 4 para. 18(6)](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/18/6) repealed (8.6.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [art. 1(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/3), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisi/2008/1216/schedule/6/part/2)
+[^c-ea742ecf9fdafc1b454757984918ee55]: Textual amendment: [Sch. 4 para. 18(6)](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/18/6) repealed (8.6.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [art. 1(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/3), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisi/2008/1216/schedule/6/part/2)
 
 [^c1372015]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/20) partly in force; [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/20) not in force at Royal Assent see [s. 75(1)](https://www.legislation.gov.uk/ukpga/1998/32/section/75/1); it is provided by [S.R. 1999/48](https://www.legislation.gov.uk/nisr/1999/48), [art. 3](https://www.legislation.gov.uk/nisr/1999/48/article/3) that Sch. 4 para. 20(2)(3)(4)(5) and (9) shall come into operation on 9.2.1999 and it is provided by [S.R. 1999/176](https://www.legislation.gov.uk/nisr/1999/176), [art. 3](https://www.legislation.gov.uk/nisr/1999/176/article/3) that Sch. 4 para. 20 except sub-paras. (3)-(5) shall come into operation on 1.4.1999
 
-[^key-4ded061e4d685f029bd289df0294384a]: Commencement: [Sch. 4 para. 20(3)-(5)](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/20/3) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
+[^c-4ded061e4d685f029bd289df0294384a]: Commencement: [Sch. 4 para. 20(3)-(5)](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/20/3) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
 
 [^c1372016]: Textual amendment: [Sch. 4 para. 20(6)](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/20/6) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-e039afdb17684251d434d4d4ae9e4c1e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/21) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
+[^c-e039afdb17684251d434d4d4ae9e4c1e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/21) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
 
-[^key-38e88a847651796d4df9fe5161275740]: Textual amendment: Sch. 4 para. 22 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(ff)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/ff)
+[^c-38e88a847651796d4df9fe5161275740]: Textual amendment: Sch. 4 para. 22 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(ff)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/ff)
 
 [^c1372024]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4/paragraph/24) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 

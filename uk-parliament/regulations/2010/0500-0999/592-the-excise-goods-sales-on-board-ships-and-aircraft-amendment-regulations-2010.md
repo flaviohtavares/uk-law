@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Excise Goods (Sales on Board Ships and Aircraft) (Amendment) Regulations 2010 (revoked)[^key-5abd19dec02ee3e50146365809650804]
+The Excise Goods (Sales on Board Ships and Aircraft) (Amendment) Regulations 2010 (revoked)[^c-5abd19dec02ee3e50146365809650804]
 
 Made
 
@@ -46,39 +46,39 @@ Coming into force
 
 1st April 2010
 
-[^key-5abd19dec02ee3e50146365809650804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5abd19dec02ee3e50146365809650804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and transitional[^key-5abd19dec02ee3e50146365809650804]
+## 1. Citation, commencement and transitional[^c-5abd19dec02ee3e50146365809650804]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-5abd19dec02ee3e50146365809650804]
+## 2. Amendment[^c-5abd19dec02ee3e50146365809650804]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5abd19dec02ee3e50146365809650804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5abd19dec02ee3e50146365809650804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5abd19dec02ee3e50146365809650804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5abd19dec02ee3e50146365809650804]EXPLANATORY NOTE
+[^c-5abd19dec02ee3e50146365809650804]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -108,4 +108,4 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 ## Annotations
 
-[^key-5abd19dec02ee3e50146365809650804]: Textual amendment: Regulations revoked (31.12.2020) by The Travellers’ [Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1412/regulation/18)
+[^c-5abd19dec02ee3e50146365809650804]: Textual amendment: Regulations revoked (31.12.2020) by The Travellers’ [Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1412/regulation/18)

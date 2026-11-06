@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Power to grant consent subject to conditions[^key-4f4cb952ba3b7fa05d0db4e9fd026e63][^key-48dbc642fa4373292f28789109eff7d9]
+## 97. Power to grant consent subject to conditions[^c-4f4cb952ba3b7fa05d0db4e9fd026e63][^c-48dbc642fa4373292f28789109eff7d9]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f4cb952ba3b7fa05d0db4e9fd026e63]: Commencement: S. 97 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4f4cb952ba3b7fa05d0db4e9fd026e63]: Commencement: S. 97 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-48dbc642fa4373292f28789109eff7d9]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2023/3/section/97) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-48dbc642fa4373292f28789109eff7d9]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2023/3/section/97) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

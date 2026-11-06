@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Report of decisions to High Court[^key-2808554605a31a262d65e803a0d8b6e8]
+## 67. Report of decisions to High Court[^c-2808554605a31a262d65e803a0d8b6e8]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2808554605a31a262d65e803a0d8b6e8]: Commencement: S. 67 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2808554605a31a262d65e803a0d8b6e8]: Commencement: S. 67 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

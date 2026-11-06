@@ -40,7 +40,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### 1. Abolition of statement of tenancy terms
 
-Article 4 of the Private Tenancies Order (tenant to be given notice regarding certain matters) is repealed. *(affected by repeal, see note)*[^key-93c37c427edc4327486e603378bd5cbd]
+Article 4 of the Private Tenancies Order (tenant to be given notice regarding certain matters) is repealed. *(affected by repeal, see note)*[^c-93c37c427edc4327486e603378bd5cbd]
 
 ### 2. Tenancy deposit schemes
 
@@ -118,24 +118,24 @@ After Article 5 of the Private Tenancies Order insert—
 
 ### 3. Length of notice to quit
 
-(1)[^key-b3aedb04e33569cde5a51e90fb3b4c4b] Article 14 of the Private Tenancies Order (length of notice to quit) is amended as follows. *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
+(1)[^c-b3aedb04e33569cde5a51e90fb3b4c4b] Article 14 of the Private Tenancies Order (length of notice to quit) is amended as follows. *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
 
-(2) In paragraph (1) for “4 weeks” substitute *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b] “ the relevant period ” *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b].
+(2) In paragraph (1) for “4 weeks” substitute *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b] “ the relevant period ” *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b].
 
-(3) After that paragraph insert— *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
+(3) After that paragraph insert— *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
 
-> (1A) For the purposes of paragraph (1) the relevant period is— *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
+> (1A) For the purposes of paragraph (1) the relevant period is— *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
 >
-> - (a) 4 weeks, if the tenancy has not been in existence for more than 5 years; *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
-> - (b) 8 weeks, if the tenancy has been in existence for more than 5 years but not for more than 10 years; *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
-> - (c) 12 weeks, if the tenancy has been in existence for more than 10 years. *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
+> - (a) 4 weeks, if the tenancy has not been in existence for more than 5 years; *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
+> - (b) 8 weeks, if the tenancy has been in existence for more than 5 years but not for more than 10 years; *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
+> - (c) 12 weeks, if the tenancy has been in existence for more than 10 years. *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
 
 .
 
-(4) This section— *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
+(4) This section— *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
 
-- (a) applies whether the private tenancy was granted before or after the date on which this section comes into operation; but *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
-- (b) does not apply in relation to a notice to quit given before that date. *(affected by repeal, see note)*[^key-b3aedb04e33569cde5a51e90fb3b4c4b]
+- (a) applies whether the private tenancy was granted before or after the date on which this section comes into operation; but *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
+- (b) does not apply in relation to a notice to quit given before that date. *(affected by repeal, see note)*[^c-b3aedb04e33569cde5a51e90fb3b4c4b]
 
 ### 4. Power of entry to inspect dwelling-house
 
@@ -331,11 +331,11 @@ In Article 72 of the Private Tenancies Order (regulations) for paragraph (3) sub
 
 ## Houses in multiple occupation
 
-### 10. Houses in multiple occupation: evidence of family relationship[^key-f5db64ac6e2247fd333d14c3f73fd70f]
+### 10. Houses in multiple occupation: evidence of family relationship[^c-f5db64ac6e2247fd333d14c3f73fd70f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Houses in multiple occupation: increase in fine for failure to register[^key-b44ae5310de75c73c0172cbbabee11d3]
+### 11. Houses in multiple occupation: increase in fine for failure to register[^c-b44ae5310de75c73c0172cbbabee11d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -377,7 +377,7 @@ In Article 72 of the Private Tenancies Order (regulations) for paragraph (3) sub
 
 (2) The amendment made by this section applies in relation to applications for consent under Article 32A of that Order (assignments by way of exchange) which are made on or after the day on which this section comes into operation.
 
-### 13. Disclosure of information as to orders, etc. in respect of anti-social behaviour[^key-0bd7606e8782ad966abe48e590a2ce8b]
+### 13. Disclosure of information as to orders, etc. in respect of anti-social behaviour[^c-0bd7606e8782ad966abe48e590a2ce8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -590,14 +590,14 @@ This Act may be cited as the Housing (Amendment) Act (Northern Ireland) 2011.
 
 ## Annotations
 
-[^key-93c37c427edc4327486e603378bd5cbd]: Textual amendment: [S. 1](https://www.legislation.gov.uk/nia/2011/22/section/1) omitted (28.4.2022 for specified purposes, 1.4.2023 in so far as not already in operation) by virtue of [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 1(5)](https://www.legislation.gov.uk/nia/2022/20/section/1/5), [14(2)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/a); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-93c37c427edc4327486e603378bd5cbd]: Textual amendment: [S. 1](https://www.legislation.gov.uk/nia/2011/22/section/1) omitted (28.4.2022 for specified purposes, 1.4.2023 in so far as not already in operation) by virtue of [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 1(5)](https://www.legislation.gov.uk/nia/2022/20/section/1/5), [14(2)(a)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/a); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
-[^key-b3aedb04e33569cde5a51e90fb3b4c4b]: Textual amendment: [S. 3](https://www.legislation.gov.uk/nia/2011/22/section/3) omitted (28.4.2022 for specified purposes) by virtue of [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(8)](https://www.legislation.gov.uk/nia/2022/20/section/11/8), [14(2)(g)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g)
+[^c-b3aedb04e33569cde5a51e90fb3b4c4b]: Textual amendment: [S. 3](https://www.legislation.gov.uk/nia/2011/22/section/3) omitted (28.4.2022 for specified purposes) by virtue of [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(8)](https://www.legislation.gov.uk/nia/2022/20/section/11/8), [14(2)(g)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g)
 
-[^key-f5db64ac6e2247fd333d14c3f73fd70f]: Textual amendment: [S. 10](https://www.legislation.gov.uk/nia/2011/22/section/10) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f5db64ac6e2247fd333d14c3f73fd70f]: Textual amendment: [S. 10](https://www.legislation.gov.uk/nia/2011/22/section/10) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-b44ae5310de75c73c0172cbbabee11d3]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2011/22/section/11) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-b44ae5310de75c73c0172cbbabee11d3]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2011/22/section/11) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-0bd7606e8782ad966abe48e590a2ce8b]: Textual amendment: [S. 13](https://www.legislation.gov.uk/nia/2011/22/section/13) repealed (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 2(9)](https://www.legislation.gov.uk/nia/2016/17/section/2/9), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
+[^c-0bd7606e8782ad966abe48e590a2ce8b]: Textual amendment: [S. 13](https://www.legislation.gov.uk/nia/2011/22/section/13) repealed (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 2(9)](https://www.legislation.gov.uk/nia/2016/17/section/2/9), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
 
 [^c22529241]: Subordinate legislation: [S. 25(1)](https://www.legislation.gov.uk/nia/2011/22/section/25/1) power partly exercised: 30.6.2011 and 1.9.2011 appointed for specified provisions by [S.R. 2011/241](https://www.legislation.gov.uk/nisr/2011/241), [art. 2](https://www.legislation.gov.uk/nisr/2011/241/article/2), [Schs. 1](https://www.legislation.gov.uk/nisr/2011/241/schedule/1), [2](https://www.legislation.gov.uk/nisr/2011/241/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Interpretation of Chapter 2[^key-69e0a2cf0478e19405583a830bee99e9]
+## 71. Interpretation of Chapter 2[^c-69e0a2cf0478e19405583a830bee99e9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69e0a2cf0478e19405583a830bee99e9]: Commencement: S. 71 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-69e0a2cf0478e19405583a830bee99e9]: Commencement: S. 71 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

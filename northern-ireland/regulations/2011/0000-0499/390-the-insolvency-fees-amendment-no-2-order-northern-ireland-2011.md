@@ -46,23 +46,23 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment [^f00001], with the concurrence of the Department of Finance and Personnel, makes the following Order in exercise of the powers conferred by Article 361(1) and (3) of the Insolvency (Northern Ireland) Order 1989[^f00002].
 
-## 1. Citation and commencement[^key-2ed9c7ac7d0ebedc5ac3331d9c91b20f]
+## 1. Citation and commencement[^c-2ed9c7ac7d0ebedc5ac3331d9c91b20f]
 
 This Order may be cited as the Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 and comes into operation on 31st January 2012.
 
-## 2. Amendment of the Insolvency (Fees) Order (Northern Ireland) 2006[^key-b3373985ece92005fa181f64c47bc83d]
+## 2. Amendment of the Insolvency (Fees) Order (Northern Ireland) 2006[^c-b3373985ece92005fa181f64c47bc83d]
 
 Subject to article 6, the Insolvency (Fees) Order (Northern Ireland) 2006[^f00003] is amended in accordance with articles 3, 4 and 5.
 
-## 3. Fees payable to an insolvency practitioner appointed under Article 247[^key-ae6aa31e59a16077f19aeed111638434]
+## 3. Fees payable to an insolvency practitioner appointed under Article 247[^c-ae6aa31e59a16077f19aeed111638434]
 
 In article 5 for “£345” substitute “£450”.
 
-## 4. Reduction and refund of fees – individual voluntary arrangement following bankruptcy[^key-228e2ab92c0473c929ffaee7db0ccadc]
+## 4. Reduction and refund of fees – individual voluntary arrangement following bankruptcy[^c-228e2ab92c0473c929ffaee7db0ccadc]
 
 In article 6 for “£462.50” substitute “£525”.
 
-## 5. Fees payable in connection with bankruptcies, debt relief orders, individual voluntary arrangements... and winding up[^key-da78876bba7351cf71324528fcb5e1b3][^key-87d2d889eb1cd29bad552a3e13b98ec9]
+## 5. Fees payable in connection with bankruptcies, debt relief orders, individual voluntary arrangements... and winding up[^c-da78876bba7351cf71324528fcb5e1b3][^c-87d2d889eb1cd29bad552a3e13b98ec9]
 
 In Schedule 2, in paragraph 2, in the Table of Fees—
 
@@ -85,7 +85,7 @@ In Schedule 2, in paragraph 2, in the Table of Fees—
 
   .
 
-## 6. Transitional provisions[^key-4a5ff27653c85b5b751a83ac580d8238]
+## 6. Transitional provisions[^c-4a5ff27653c85b5b751a83ac580d8238]
 
 (1) The amendments made by articles 3 to 5 apply as set out in paragraphs (2) to (4).
 
@@ -141,18 +141,18 @@ A Regulatory Impact Assessment has not been prepared in relation to this Order. 
 
 [^f00002]: Footnote: [S.I.1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); there are amendments to Article 361 which are not relevant to this Order.
 
-[^key-2ed9c7ac7d0ebedc5ac3331d9c91b20f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
+[^c-2ed9c7ac7d0ebedc5ac3331d9c91b20f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
 
-[^key-b3373985ece92005fa181f64c47bc83d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2011/390/article/2) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
+[^c-b3373985ece92005fa181f64c47bc83d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2011/390/article/2) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
 
 [^f00003]: Footnote: [S.R. 2006 No. 54](https://www.legislation.gov.uk/nisr/2006/54), as amended by [S.R. 2009 No. 201](https://www.legislation.gov.uk/nisr/2009/201) and [S.R. 2011 No. 14](https://www.legislation.gov.uk/nisr/2011/14).
 
-[^key-ae6aa31e59a16077f19aeed111638434]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/390/article/3) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
+[^c-ae6aa31e59a16077f19aeed111638434]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/390/article/3) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
 
-[^key-228e2ab92c0473c929ffaee7db0ccadc]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2011/390/article/4) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
+[^c-228e2ab92c0473c929ffaee7db0ccadc]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2011/390/article/4) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
 
-[^key-da78876bba7351cf71324528fcb5e1b3]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2011/390/article/5) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
+[^c-da78876bba7351cf71324528fcb5e1b3]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2011/390/article/5) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
 
-[^key-87d2d889eb1cd29bad552a3e13b98ec9]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/nisr/2011/390/article/5) heading omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [art. 8](https://www.legislation.gov.uk/nisr/2021/140/article/8), [reg. 1](https://www.legislation.gov.uk/nisr/2021/140/regulation/1)
+[^c-87d2d889eb1cd29bad552a3e13b98ec9]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/nisr/2011/390/article/5) heading omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [art. 8](https://www.legislation.gov.uk/nisr/2021/140/article/8), [reg. 1](https://www.legislation.gov.uk/nisr/2021/140/regulation/1)
 
-[^key-4a5ff27653c85b5b751a83ac580d8238]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)
+[^c-4a5ff27653c85b5b751a83ac580d8238]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6) in operation at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 218. Notification of new administrator[^key-154305691e81f504a5b4f88f05f194bd]
+## 218. Notification of new administrator[^c-154305691e81f504a5b4f88f05f194bd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-154305691e81f504a5b4f88f05f194bd]: Commencement: [Rule 218](https://www.legislation.gov.uk/uksi/2011/1301/rule/218) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-154305691e81f504a5b4f88f05f194bd]: Commencement: [Rule 218](https://www.legislation.gov.uk/uksi/2011/1301/rule/218) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

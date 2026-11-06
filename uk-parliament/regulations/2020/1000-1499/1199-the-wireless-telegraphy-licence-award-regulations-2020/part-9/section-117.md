@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Entitlement to the grant of licences[^key-6fd6c6ab430e16e02d330a50c59249ba]
+## 117. Entitlement to the grant of licences[^c-6fd6c6ab430e16e02d330a50c59249ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd6c6ab430e16e02d330a50c59249ba]: Commencement: Reg. 117 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-6fd6c6ab430e16e02d330a50c59249ba]: Commencement: Reg. 117 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

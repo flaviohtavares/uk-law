@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation: general[^key-a77c1fbb3a5fed1ca82addfba1a831cb]
+## 2. Interpretation: general[^c-a77c1fbb3a5fed1ca82addfba1a831cb]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-a77c1fbb3a5fed1ca82addfba1a831cb]: Commencement: Reg. 2 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-a77c1fbb3a5fed1ca82addfba1a831cb]: Commencement: Reg. 2 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
 
 [^f00002]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Section 27(1) has been amended as follows: paragraphs (ca) and (cb) were inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraph 25; paragraph (ca) was amended, and paragraph (cc) was inserted, by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), Schedule 7, paragraph 30; paragraph (fa) was inserted by [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93), regulation 1.
 

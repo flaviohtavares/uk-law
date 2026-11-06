@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Corporate parenting duty: collaborative working[^key-58c3443e3966268dcea0bf4504f4a59f]
+## 25. Corporate parenting duty: collaborative working[^c-58c3443e3966268dcea0bf4504f4a59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58c3443e3966268dcea0bf4504f4a59f]: Commencement: S. 25 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-58c3443e3966268dcea0bf4504f4a59f]: Commencement: S. 25 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

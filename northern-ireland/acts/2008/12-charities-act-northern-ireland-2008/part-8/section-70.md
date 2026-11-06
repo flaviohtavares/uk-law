@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Every charity shall prepare in respect of each of its financial years an annual return in such form, and containing such information, as may be prescribed by regulations made by the Commission[^key-e7fe39066ada486170f1b1b5fc15befd].
+(1) Every charity shall prepare in respect of each of its financial years an annual return in such form, and containing such information, as may be prescribed by regulations made by the Commission[^c-e7fe39066ada486170f1b1b5fc15befd].
 
 (2) Any such return shall be transmitted to the Commission by the date by which the charity trustees are, by virtue of section 68(3), required to transmit to the Commission the annual report required to be prepared in respect of the financial year in question.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7fe39066ada486170f1b1b5fc15befd]: Textual amendment: Word in [s. 70(1)](https://www.legislation.gov.uk/nia/2008/12/section/70/1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/15)
+[^c-e7fe39066ada486170f1b1b5fc15befd]: Textual amendment: Word in [s. 70(1)](https://www.legislation.gov.uk/nia/2008/12/section/70/1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/15)

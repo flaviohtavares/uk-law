@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Quarterly tax periods[^key-76556915e136d2d3d089a8faeaef5ae2]
+## 31. Quarterly tax periods[^c-76556915e136d2d3d089a8faeaef5ae2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 70(3) (quarterly tax periods), in the definition of “P”, befor
 
 ## Annotations
 
-[^key-76556915e136d2d3d089a8faeaef5ae2]: Commencement: Reg. 31 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-76556915e136d2d3d089a8faeaef5ae2]: Commencement: Reg. 31 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

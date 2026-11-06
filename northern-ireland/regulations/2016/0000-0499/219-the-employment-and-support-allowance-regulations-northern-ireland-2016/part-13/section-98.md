@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Entitlement for less than a week – amount of an employment and support allowance payable[^key-79bc514e18c47ae8dd2baa7487f2f5f9]
+## 98. Entitlement for less than a week – amount of an employment and support allowance payable[^c-79bc514e18c47ae8dd2baa7487f2f5f9]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ where—
 
 ## Annotations
 
-[^key-79bc514e18c47ae8dd2baa7487f2f5f9]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2016/219/regulation/98) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-79bc514e18c47ae8dd2baa7487f2f5f9]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2016/219/regulation/98) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

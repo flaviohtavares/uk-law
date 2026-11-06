@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259KB. Meaning of “dual territory double deduction”, “excessive PE deduction” and “PE jurisdiction”[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259KB. Meaning of “dual territory double deduction”, “excessive PE deduction” and “PE jurisdiction”[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) is actually made, or
   - (ii) is (in substance) treated as being made for tax purposes.
 
-(3A)[^key-05f1f39dbd81d46f00934bbdc299833c] For the purposes of this section a “**PE deduction**” does not include—
+(3A)[^c-05f1f39dbd81d46f00934bbdc299833c] For the purposes of this section a “**PE deduction**” does not include—
 
 - (a) a debit in respect of amortisation that is brought into account under section 729 or 731 of CTA 2009 (writing down the capitalised cost of an intangible fixed asset), or
 - (b) an amount that is deductible in respect of amortisation under a provision of the law of a territory outside the United Kingdom that is equivalent to either of those sections.
@@ -44,7 +44,7 @@ summary: ''
 - (a) any increases, resulting from the circumstances giving rise to the PE deduction, in the taxable profits of the company, for a permitted taxable period, for the purposes of a tax charged under the law of the parent jurisdiction, and
 - (b) any amounts by which a loss made by the company, for a permitted taxable period, for the purposes of a tax charged under the law of the parent jurisdiction, is reduced as a result of the circumstances giving rise to the PE deduction.
 
-(4A)[^key-8e846833b95d86ce5d2df5430ee9929c] For the purposes of subsection (4) any increase in taxable profits or reduction of losses is to be ignored in any case where tax is charged at a nil rate under the law of the parent jurisdiction.
+(4A)[^c-8e846833b95d86ce5d2df5430ee9929c] For the purposes of subsection (4) any increase in taxable profits or reduction of losses is to be ignored in any case where tax is charged at a nil rate under the law of the parent jurisdiction.
 
 (5) A taxable period of the company is “**permitted**” for the purposes of subsection (4) if—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-05f1f39dbd81d46f00934bbdc299833c]: Textual amendment: S. 259KB(3A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(9)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/9)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
+[^c-05f1f39dbd81d46f00934bbdc299833c]: Textual amendment: S. 259KB(3A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(9)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/9)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
 
-[^key-8e846833b95d86ce5d2df5430ee9929c]: Textual amendment: S. 259KB(4A) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/6)
+[^c-8e846833b95d86ce5d2df5430ee9929c]: Textual amendment: S. 259KB(4A) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/6)

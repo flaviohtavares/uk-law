@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. Costs of proving[^key-c7c7deacc40ec4a67c77a86af26951e4]
+## 153. Costs of proving[^c-c7c7deacc40ec4a67c77a86af26951e4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the court otherwise orders—
 
 ## Annotations
 
-[^key-c7c7deacc40ec4a67c77a86af26951e4]: Commencement: [Rule 153](https://www.legislation.gov.uk/uksi/2011/1301/rule/153) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-c7c7deacc40ec4a67c77a86af26951e4]: Commencement: [Rule 153](https://www.legislation.gov.uk/uksi/2011/1301/rule/153) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

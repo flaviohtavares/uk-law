@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Circumstances in which an authority is to be treated as having carried out a financial assessment (including light touch assessments)[^key-61ad522d3c488c4829296ce25fa3c911]
+## 10. Circumstances in which an authority is to be treated as having carried out a financial assessment (including light touch assessments)[^c-61ad522d3c488c4829296ce25fa3c911]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61ad522d3c488c4829296ce25fa3c911]: Commencement: Reg. 10 in force at 1.4.2015 in accordance with reg. 1
+[^c-61ad522d3c488c4829296ce25fa3c911]: Commencement: Reg. 10 in force at 1.4.2015 in accordance with reg. 1
 
 [^f00017]: Footnote: *See* section 17(10) of the Act as to the meaning of “the financial limit”.

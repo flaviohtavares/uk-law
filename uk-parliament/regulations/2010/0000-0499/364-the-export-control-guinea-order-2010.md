@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Guinea) Order 2010 (revoked)[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+The Export Control (Guinea) Order 2010 (revoked)[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 20th February 2010
 
-[^key-68cc6a89c4ee2de8470e8aa6d4002146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68cc6a89c4ee2de8470e8aa6d4002146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 1. Citation, commencement and interpretation[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences related to equipment which might be used for internal repression[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 2. Offences related to equipment which might be used for internal repression[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences related to military items[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 3. Offences related to military items[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences related to EU authorisations[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 4. Offences related to EU authorisations[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Overlap with Export Control Order 2008[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 5. Overlap with Export Control Order 2008[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 6. Penalties[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of the 1979 Act[^key-68cc6a89c4ee2de8470e8aa6d4002146]
+## 7. Application of the 1979 Act[^c-68cc6a89c4ee2de8470e8aa6d4002146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68cc6a89c4ee2de8470e8aa6d4002146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68cc6a89c4ee2de8470e8aa6d4002146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-68cc6a89c4ee2de8470e8aa6d4002146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68cc6a89c4ee2de8470e8aa6d4002146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68cc6a89c4ee2de8470e8aa6d4002146]: Textual amendment: Order revoked (11.8.2015) by [The Export Control (Democratic Republic of Congo Sanctions and Miscellaneous Amendments and Revocations) Order 2015 (S.I. 2015/1546)](https://www.legislation.gov.uk/uksi/2015/1546), art. 1(1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1546/schedule)
+[^c-68cc6a89c4ee2de8470e8aa6d4002146]: Textual amendment: Order revoked (11.8.2015) by [The Export Control (Democratic Republic of Congo Sanctions and Miscellaneous Amendments and Revocations) Order 2015 (S.I. 2015/1546)](https://www.legislation.gov.uk/uksi/2015/1546), art. 1(1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1546/schedule)

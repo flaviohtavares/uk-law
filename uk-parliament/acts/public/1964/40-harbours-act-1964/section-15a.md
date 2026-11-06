@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15A. Ministers’ powers to make orders about port appointments.[^c7737251][^key-1b1e43046c552957387cc88397f3bb63][^c7737241]
+## 15A. Ministers’ powers to make orders about port appointments.[^c7737251][^c-1b1e43046c552957387cc88397f3bb63][^c7737241]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ and where the constitution of a harbour authority provides for the appointment b
 
 [^c7737251]: Modification: S. 15A: transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-1b1e43046c552957387cc88397f3bb63]: Modification: Ss. 14-17: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/ii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
+[^c-1b1e43046c552957387cc88397f3bb63]: Modification: Ss. 14-17: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/ii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
 
 [^c7737241]: Textual amendment: S. 15A inserted by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/5/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Licensing of works[^key-a4d15d8ceee2d197bb4925dbf456c63f]
+## 23. Licensing of works[^c-a4d15d8ceee2d197bb4925dbf456c63f]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ without the consent of the statutory undertaker concerned.
 
 ## Annotations
 
-[^key-a4d15d8ceee2d197bb4925dbf456c63f]: Commencement: Art. 23 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-a4d15d8ceee2d197bb4925dbf456c63f]: Commencement: Art. 23 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

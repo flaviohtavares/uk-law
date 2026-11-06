@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Notices of street works[^key-0384a8516cd30762fcf21fdd2c472a4f][^key-9e7580396dc2f477aae30958b0bba4d7]
+## 49. Notices of street works[^c-0384a8516cd30762fcf21fdd2c472a4f][^c-9e7580396dc2f477aae30958b0bba4d7]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0384a8516cd30762fcf21fdd2c472a4f]: Commencement: S. 49 in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/1890/article/5))
+[^c-0384a8516cd30762fcf21fdd2c472a4f]: Commencement: S. 49 in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2007/1890/article/5))
 
-[^key-9e7580396dc2f477aae30958b0bba4d7]: Commencement: S. 49 in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/3174/article/6))
+[^c-9e7580396dc2f477aae30958b0bba4d7]: Commencement: S. 49 in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/3174/article/6))

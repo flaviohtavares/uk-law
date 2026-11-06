@@ -25,7 +25,7 @@ summary: ''
 (2) A statutory instrument containing an order or regulations made in exercise of such a power, other than—
 
 - (a) an order under section 5,
-- (b)[^key-f48957b4e1a9317c1e2ac5a15308bc06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f48957b4e1a9317c1e2ac5a15308bc06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an order under section 111,
 - (d) an order under section 116, or
 - (e) an order under paragraph 26 or 27 of Schedule 8,
@@ -40,4 +40,4 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 ## Annotations
 
-[^key-f48957b4e1a9317c1e2ac5a15308bc06]: Textual amendment: [S. 121(2)(b)](https://www.legislation.gov.uk/ukpga/2006/36/section/121/2/b) omitted (27.6.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 259(7)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/259/7/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))
+[^c-f48957b4e1a9317c1e2ac5a15308bc06]: Textual amendment: [S. 121(2)(b)](https://www.legislation.gov.uk/ukpga/2006/36/section/121/2/b) omitted (27.6.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 259(7)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/259/7/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))

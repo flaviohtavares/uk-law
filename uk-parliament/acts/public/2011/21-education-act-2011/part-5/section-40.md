@@ -36,7 +36,7 @@ summary: ''
 - (a) omit “to which section 5 applies”;
 - (b) for “that section” substitute “ section 5 ”.
 
-(4)[^key-19e6a8a92b09cec3d5020cc90879a4c5] In section 8 (other inspections), at the end insert—
+(4)[^c-19e6a8a92b09cec3d5020cc90879a4c5] In section 8 (other inspections), at the end insert—
 
 > (3) If the Chief Inspector carries out an inspection of a school under subsection (2) in response to a request from the appropriate authority for the school, the Chief Inspector may charge the appropriate authority for the cost of the inspection.
 >
@@ -81,4 +81,4 @@ summary: ''
 
 [^c2114841]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/21/section/40) partly in force: s. 40(1)-(3)(5)-(9) in force at Royal Assent
 
-[^key-19e6a8a92b09cec3d5020cc90879a4c5]: Commencement: [S. 40(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/40/4) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-19e6a8a92b09cec3d5020cc90879a4c5]: Commencement: [S. 40(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/40/4) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

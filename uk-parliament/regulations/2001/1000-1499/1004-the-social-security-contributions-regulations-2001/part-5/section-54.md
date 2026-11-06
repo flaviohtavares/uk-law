@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Return of Class 1 contributions paid at the non-contracted out rate instead of at the contracted-out rate[^key-ccd785909007c5c3e85b6a87bace6975]
+## 54. Return of Class 1 contributions paid at the non-contracted out rate instead of at the contracted-out rate[^c-ccd785909007c5c3e85b6a87bace6975]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccd785909007c5c3e85b6a87bace6975]: Textual amendment: [Reg. 54](https://www.legislation.gov.uk/uksi/2001/1004/regulation/54) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [14](https://www.legislation.gov.uk/uksi/2016/352/regulation/14) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-ccd785909007c5c3e85b6a87bace6975]: Textual amendment: [Reg. 54](https://www.legislation.gov.uk/uksi/2001/1004/regulation/54) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [14](https://www.legislation.gov.uk/uksi/2016/352/regulation/14) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))

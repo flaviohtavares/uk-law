@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27AA. Disclosure of information about NHS earnings: jobholders[^key-c439fc3453f8f22506154ee9448deed6]
+## 27AA. Disclosure of information about NHS earnings: jobholders[^c-c439fc3453f8f22506154ee9448deed6]
 
 *Extent: E+W*
 
@@ -71,19 +71,19 @@ summary: ''
   - (iii) use reasonable endeavours to include the term specified in paragraph (5) in any sub-contract which S has entered into with P before the amendment of the sub-contract pursuant to paragraph (8);
 - (b) a term which prevents S from sub-contracting to P obligations to provide clinical services under the contract unless the sub-contract entered into by S includes the term specified in paragraph (5).
 
-(10) A contract must also contain a term requiring the contractor to use reasonable endeavours to include in a third party contract (whenever entered into) a term requiring the third party (“**T**”) —[^key-de7c4af9caf16aa28d7f887db29038a7]
+(10) A contract must also contain a term requiring the contractor to use reasonable endeavours to include in a third party contract (whenever entered into) a term requiring the third party (“**T**”) —[^c-de7c4af9caf16aa28d7f887db29038a7]
 
 - (a) to include the term specified in paragraph (6) in any contract of engagement which T enters into with a jobholder on or after entering into the contract with the contractor;
 - (b) to use reasonable endeavours to include that term in any contract of engagement which T has entered into prior to entering into the contract with the contractor.
 
 (11) A contract must also contain a term which prevents the contractor from sub-contracting any of its obligations to provide clinical services under the contract, unless the sub-contract requires S to use reasonable endeavours to—
 
-- (a) include in a third party contract (whenever entered into) a term requiring T —[^key-a696f4e254a4d0a2223e8c4e9536084f]
+- (a) include in a third party contract (whenever entered into) a term requiring T —[^c-a696f4e254a4d0a2223e8c4e9536084f]
   - (i) to include the term specified in paragraph (6) in any contract of engagement which T enters into with a jobholder on or after entering into the contract with S;
   - (ii) to use reasonable endeavours to include that term in any contract of engagement which T has entered into prior to entering into the contract with S; and
-- (b) include in any sub-contract between S and P a term requiring P to use reasonable endeavours to[^key-23146a9dd309f94abf9c8222fd1b1176] include in any third party contract (whenever entered into) the term specified in paragraph (12).
+- (b) include in any sub-contract between S and P a term requiring P to use reasonable endeavours to[^c-23146a9dd309f94abf9c8222fd1b1176] include in any third party contract (whenever entered into) the term specified in paragraph (12).
 
-(12)[^key-814a3867994ff4d901a70e4bd3b1b0c8] The term is one which requires T—
+(12)[^c-814a3867994ff4d901a70e4bd3b1b0c8] The term is one which requires T—
 
 - (a) to include the term specified in paragraph (6) in any contract of engagement which T enters into with a jobholder on or after entering into the contract with P;
 - (b) to use reasonable endeavours to include that term in any contract of engagement which T has entered into prior to entering into the contract with P.
@@ -95,12 +95,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c439fc3453f8f22506154ee9448deed6]: Textual amendment: [Reg. 27AA](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/10)
+[^c-c439fc3453f8f22506154ee9448deed6]: Textual amendment: [Reg. 27AA](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/10)
 
-[^key-de7c4af9caf16aa28d7f887db29038a7]: Textual amendment: Words in [reg. 27AA(10)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/10) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/2)
+[^c-de7c4af9caf16aa28d7f887db29038a7]: Textual amendment: Words in [reg. 27AA(10)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/10) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/2)
 
-[^key-a696f4e254a4d0a2223e8c4e9536084f]: Textual amendment: Words in [reg. 27AA(11)(a)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/11/a) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/3/a)
+[^c-a696f4e254a4d0a2223e8c4e9536084f]: Textual amendment: Words in [reg. 27AA(11)(a)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/11/a) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/3/a)
 
-[^key-23146a9dd309f94abf9c8222fd1b1176]: Textual amendment: Words in [reg. 27AA(11)(b)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/11/b) inserted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/3/b)
+[^c-23146a9dd309f94abf9c8222fd1b1176]: Textual amendment: Words in [reg. 27AA(11)(b)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/11/b) inserted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/3/b)
 
-[^key-814a3867994ff4d901a70e4bd3b1b0c8]: Textual amendment: [Reg. 27AA(12)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/12) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/4)
+[^c-814a3867994ff4d901a70e4bd3b1b0c8]: Textual amendment: [Reg. 27AA(12)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27AA/12) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2023/449/schedule/1/paragraph/4/4)

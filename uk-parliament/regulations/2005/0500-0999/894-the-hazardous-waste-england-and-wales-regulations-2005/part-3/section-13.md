@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Asbestos waste[^key-ea484e3b705dac6ecbe610aba649843c]
+## 13. Asbestos waste[^c-ea484e3b705dac6ecbe610aba649843c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea484e3b705dac6ecbe610aba649843c]: Textual amendment: Reg. 13 substituted (6.4.2009) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2009 (S.I. 2009/507)](https://www.legislation.gov.uk/uksi/2009/507), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2009/507/regulation/5)
+[^c-ea484e3b705dac6ecbe610aba649843c]: Textual amendment: Reg. 13 substituted (6.4.2009) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2009 (S.I. 2009/507)](https://www.legislation.gov.uk/uksi/2009/507), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2009/507/regulation/5)

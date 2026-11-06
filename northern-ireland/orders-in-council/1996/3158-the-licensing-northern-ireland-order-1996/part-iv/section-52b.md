@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52B. Local producer’s licence: sales on own premises[^key-788764c5b72924182f13d55a2936d767]
+## 52B. Local producer’s licence: sales on own premises[^c-788764c5b72924182f13d55a2936d767]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ that person and the holder of the licence, if the consumption is with the holder
 
 ## Annotations
 
-[^key-788764c5b72924182f13d55a2936d767]: Textual amendment: [Arts. 52B-52D](https://www.legislation.gov.uk/nisi/1996/3158/article/52B) and heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 10(3)](https://www.legislation.gov.uk/nia/2021/7/section/10/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-788764c5b72924182f13d55a2936d767]: Textual amendment: [Arts. 52B-52D](https://www.legislation.gov.uk/nisi/1996/3158/article/52B) and heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 10(3)](https://www.legislation.gov.uk/nia/2021/7/section/10/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

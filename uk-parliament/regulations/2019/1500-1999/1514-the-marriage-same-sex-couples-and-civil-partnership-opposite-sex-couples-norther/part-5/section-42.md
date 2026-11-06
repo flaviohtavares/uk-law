@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Alternative grounds for granting certificates in Northern Ireland[^key-955d90daa7247bdc067a865aafa7085d]
+## 42. Alternative grounds for granting certificates in Northern Ireland[^c-955d90daa7247bdc067a865aafa7085d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 .
 
-**43.**[^key-ec8b71a9e64fd9f1168c4260be001a36][^key-955d90daa7247bdc067a865aafa7085d] (1) Sections 2(3C), 3(11), 3E and 3F[^f00061] (alternative grounds: person party to Scottish relationship but resident in England or Wales) extend also to Northern Ireland.
+**43.**[^c-ec8b71a9e64fd9f1168c4260be001a36][^c-955d90daa7247bdc067a865aafa7085d] (1) Sections 2(3C), 3(11), 3E and 3F[^f00061] (alternative grounds: person party to Scottish relationship but resident in England or Wales) extend also to Northern Ireland.
 
 (2) In the headings of sections 3E and 3F, after “Welsh” insert “and Northern Ireland”.
 
@@ -60,10 +60,10 @@ summary: ''
 
 ## Annotations
 
-[^key-955d90daa7247bdc067a865aafa7085d]: Commencement: Reg. 42 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-955d90daa7247bdc067a865aafa7085d]: Commencement: Reg. 42 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00060]: Footnote: Sections 2(3A), 3(9), 3A and 3B, and paragraph 4(3) of Schedule 1, were inserted (with England and Wales, and Scotland, extent) by Part 2 of Schedule 5 to the Marriage (Same Sex Couples) Act 2013. Section 3B is amended by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 
-[^key-ec8b71a9e64fd9f1168c4260be001a36]: Commencement: Reg. 43 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-ec8b71a9e64fd9f1168c4260be001a36]: Commencement: Reg. 43 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00061]: Footnote: Sections 2(3C), 3(11), 3E and 3F were inserted (with England and Wales, and Scotland, extent) by paragraph 15(1) to (4) of Schedule 5 to [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Recommendations from quality assessor and training provider[^key-bb3e29f6b3474ac7af843375fa043740]
+## 102. Recommendations from quality assessor and training provider[^c-bb3e29f6b3474ac7af843375fa043740]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb3e29f6b3474ac7af843375fa043740]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2016/1/section/102) in force at 10.1.2020 by [S.S.I. 2019/363](https://www.legislation.gov.uk/ssi/2019/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2019/363/article/3/b)
+[^c-bb3e29f6b3474ac7af843375fa043740]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2016/1/section/102) in force at 10.1.2020 by [S.S.I. 2019/363](https://www.legislation.gov.uk/ssi/2019/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2019/363/article/3/b)

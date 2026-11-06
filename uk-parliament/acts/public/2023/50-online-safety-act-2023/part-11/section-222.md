@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Powers to amend Schedules 5, 6 and 7[^key-d1f68c3ed91c38c7e908fce03814719e]
+## 222. Powers to amend Schedules 5, 6 and 7[^c-d1f68c3ed91c38c7e908fce03814719e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ But an offence may be added to that Schedule only on the grounds in subsection (
   - (i) the infringement of intellectual property rights,
   - (ii) the safety or quality of goods (as opposed to what kind of goods they are), or
   - (iii) the performance of a service by a person not qualified to perform it; or
-- (b) it is an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-2d1456e5e1c56a055aff6c6123151839].
+- (b) it is an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-2d1456e5e1c56a055aff6c6123151839].
 
 (7) The Secretary of State must consult the Scottish Ministers before making regulations under subsection (3) which—
 
@@ -69,6 +69,6 @@ But an offence may be added to that Schedule only on the grounds in subsection (
 
 ## Annotations
 
-[^key-d1f68c3ed91c38c7e908fce03814719e]: Commencement: S. 222 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
+[^c-d1f68c3ed91c38c7e908fce03814719e]: Commencement: S. 222 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
 
-[^key-2d1456e5e1c56a055aff6c6123151839]: Textual amendment: Words in [s. 222(6)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/222/6/b) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 13(5)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/13/5) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
+[^c-2d1456e5e1c56a055aff6c6123151839]: Textual amendment: Words in [s. 222(6)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/222/6/b) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 13(5)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/13/5) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)

@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security Benefits Up-rating Regulations 2020 (revoked)[^key-76ff1b6216ef5d430d184f14d42b3b67]
+The Social Security Benefits Up-rating Regulations 2020 (revoked)[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 *6*th April 2020
 
-[^key-76ff1b6216ef5d430d184f14d42b3b67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76ff1b6216ef5d430d184f14d42b3b67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 1. Citation, commencement, extent and interpretation[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 3. Persons not ordinarily resident in Great Britain[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 5. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-76ff1b6216ef5d430d184f14d42b3b67]
+## 7. Revocation[^c-76ff1b6216ef5d430d184f14d42b3b67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76ff1b6216ef5d430d184f14d42b3b67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76ff1b6216ef5d430d184f14d42b3b67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-76ff1b6216ef5d430d184f14d42b3b67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76ff1b6216ef5d430d184f14d42b3b67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76ff1b6216ef5d430d184f14d42b3b67]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/266) revoked (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2022/342/regulation/7/a)
+[^c-76ff1b6216ef5d430d184f14d42b3b67]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/266) revoked (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2022/342/regulation/7/a)

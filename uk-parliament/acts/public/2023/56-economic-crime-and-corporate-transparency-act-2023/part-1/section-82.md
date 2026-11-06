@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Records relating to dissolved companies etc[^key-95ec5c63a5d0bae06e4a257dd7d88a23][^key-a48657b24dc7ca6345d64f3213f940e2]
+## 82. Records relating to dissolved companies etc[^c-95ec5c63a5d0bae06e4a257dd7d88a23][^c-a48657b24dc7ca6345d64f3213f940e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95ec5c63a5d0bae06e4a257dd7d88a23]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-95ec5c63a5d0bae06e4a257dd7d88a23]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a48657b24dc7ca6345d64f3213f940e2]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/56/section/82) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z24)
+[^c-a48657b24dc7ca6345d64f3213f940e2]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/56/section/82) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z24)

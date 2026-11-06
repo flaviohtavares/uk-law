@@ -28,7 +28,7 @@ The taxable maximum is equal to one half of the applicable amount.
 
 The taxable maximum is equal to one half of the amount which is included in the applicable amount in respect of the relevant couple.
 
-(2A)[^key-14392e172eed9650b87266e8ae4b6b2c] A claimant’s taxable maximum for a week is determined under this subsection if the claimant is not a member of a couple.
+(2A)[^c-14392e172eed9650b87266e8ae4b6b2c] A claimant’s taxable maximum for a week is determined under this subsection if the claimant is not a member of a couple.
 
 The taxable maximum is equal to the applicable amount.
 
@@ -56,4 +56,4 @@ TMW is the taxable maximum for the whole week determined under step 2.
 
 ## Annotations
 
-[^key-14392e172eed9650b87266e8ae4b6b2c]: Textual amendment: S. 668(2A) inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Taxation of Northern Ireland Welfare Supplementary Payments Regulations 2017 (S.I. 2017/338)](https://www.legislation.gov.uk/uksi/2017/338), [regs. 1](https://www.legislation.gov.uk/uksi/2017/338/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/338/regulation/10)
+[^c-14392e172eed9650b87266e8ae4b6b2c]: Textual amendment: S. 668(2A) inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Taxation of Northern Ireland Welfare Supplementary Payments Regulations 2017 (S.I. 2017/338)](https://www.legislation.gov.uk/uksi/2017/338), [regs. 1](https://www.legislation.gov.uk/uksi/2017/338/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/338/regulation/10)

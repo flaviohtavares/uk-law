@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-ea551eca64e4f0ff482a097267783ec6]
+Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-ea551eca64e4f0ff482a097267783ec6]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 10th April 2000
 
-[^key-ea551eca64e4f0ff482a097267783ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea551eca64e4f0ff482a097267783ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ea551eca64e4f0ff482a097267783ec6]
+## 1. Citation and commencement[^c-ea551eca64e4f0ff482a097267783ec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ea551eca64e4f0ff482a097267783ec6]
+## 2. Interpretation[^c-ea551eca64e4f0ff482a097267783ec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Oil and Fibre Plant Seeds Regulations (Northern Ireland) 1994[^key-ea551eca64e4f0ff482a097267783ec6]
+## 3. Amendment of the Oil and Fibre Plant Seeds Regulations (Northern Ireland) 1994[^c-ea551eca64e4f0ff482a097267783ec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-ea551eca64e4f0ff482a097267783ec6]
+## 4. Transitional provisions[^c-ea551eca64e4f0ff482a097267783ec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea551eca64e4f0ff482a097267783ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea551eca64e4f0ff482a097267783ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea551eca64e4f0ff482a097267783ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea551eca64e4f0ff482a097267783ec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea551eca64e4f0ff482a097267783ec6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/55) revoked (31.12.2009) by [The Oil and Fibre Plant Seeds Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/386)](https://www.legislation.gov.uk/nisr/2009/386), [regs. 1](https://www.legislation.gov.uk/nisr/2009/386/regulation/1), [32(1)(c)](https://www.legislation.gov.uk/nisr/2009/386/regulation/32/1/c)
+[^c-ea551eca64e4f0ff482a097267783ec6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/55) revoked (31.12.2009) by [The Oil and Fibre Plant Seeds Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/386)](https://www.legislation.gov.uk/nisr/2009/386), [regs. 1](https://www.legislation.gov.uk/nisr/2009/386/regulation/1), [32(1)(c)](https://www.legislation.gov.uk/nisr/2009/386/regulation/32/1/c)

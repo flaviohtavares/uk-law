@@ -24,7 +24,7 @@ Regulations 14, 25, 35 and 54
 
 ### PART 1 — Preliminary matters
 
-#### 1. General principles[^key-6a015888fb93bab3f6278d015107c906]
+#### 1. General principles[^c-6a015888fb93bab3f6278d015107c906]
 
 Except in so far as these Regulations provide to the contrary, the Welsh Ministers may determine an appeal submitted to them in such manner as they think fit and may, in particular—
 
@@ -37,7 +37,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
   - (ii) does not disclose any reasonable grounds of appeal, or
   - (iii) is otherwise vexatious or frivolous.
 
-#### 2. Oral hearings[^key-37f655619a271b9767ede7f12a502b32]
+#### 2. Oral hearings[^c-37f655619a271b9767ede7f12a502b32]
 
 (1) The Welsh Ministers may require an oral hearing to be held if they consider that it is necessary to hear oral representations before determining an appeal submitted to them.
 
@@ -56,7 +56,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 
 ### PART 2 — Appeals against decisions determining controlled localities
 
-#### 3. Right of appeal to the Welsh Ministers[^key-1618f087b535a7aad7266965ce6fb253]
+#### 3. Right of appeal to the Welsh Ministers[^c-1618f087b535a7aad7266965ce6fb253]
 
 (1) Where a Local Health Board has decided that an application by a Local Medical Committee or a Local Pharmaceutical Committee cannot be considered by virtue of regulation 13(3) (areas that are controlled localities), the applicant may submit a notice of appeal against that decision to the Welsh Ministers.
 
@@ -78,7 +78,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 - (b) it is sent to the Welsh Ministers within 30 days of the date on which notice of the decision being appealed was sent by the Local Health Board to the person making the appeal, and
 - (c) it contains a statement of the grounds of appeal.
 
-#### 4. Notification of appeals[^key-aacd28c44bb26833223e3dc6a843d8e6]
+#### 4. Notification of appeals[^c-aacd28c44bb26833223e3dc6a843d8e6]
 
 (1) The Welsh Ministers must on receipt of a notice of appeal submitted under paragraph 3(1) send a copy of the notice to the Local Health Board.
 
@@ -92,7 +92,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 - (a) that they may within 30 days of the date on which the notice of appeal was sent to them, make representations on the appeal in writing to the Welsh Ministers, and
 - (b) of the circumstances in which the Welsh Ministers may require an oral hearing to be held.
 
-#### 5. Decision on appeals[^key-a7e37ea8ee2d2ba19e82b08465952332]
+#### 5. Decision on appeals[^c-a7e37ea8ee2d2ba19e82b08465952332]
 
 (1) The Welsh Ministers must after reaching a decision on an appeal submitted under paragraph 3 give written notice of their decision together with the reasons for it to those persons sent a copy of the notice of appeal under paragraph 4.
 
@@ -110,7 +110,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 
 ### PART 3 — Appeals against decisions for inclusion in or amendment to pharmaceutical lists and dispensing doctor lists
 
-#### 6. Right of appeal to the Welsh Ministers[^key-701b5967158c3119320737a863d7f368]
+#### 6. Right of appeal to the Welsh Ministers[^c-701b5967158c3119320737a863d7f368]
 
 (1) For applications to which paragraph 8(1)(a) and (c) of Schedule 3 apply, the persons entitled to submit a notice of appeal against the decision of the Local Health Board to the Welsh Ministers are—
 
@@ -136,7 +136,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 - (b) it is sent to the Welsh Ministers within 30 days of the date on which notice of the decision being appealed was sent by the Local Health Board to the person making the appeal, and
 - (c) it contains a statement of the grounds of appeal which do not amount to a challenge to the legality or reasonableness of a pharmaceutical needs assessment, or to the fairness of the process by which the Local Health Board undertook that assessment.
 
-#### 7. Notification of appeals[^key-fc9cfe7b71822edf5a04eb45f8a9be81]
+#### 7. Notification of appeals[^c-fc9cfe7b71822edf5a04eb45f8a9be81]
 
 (1) The Welsh Ministers must, on receipt of a notice of appeal submitted under paragraph 6(1), send a copy of the notice to—
 
@@ -156,7 +156,7 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 - (b) of the circumstances in which the Welsh Ministers may require an oral hearing to be held, and
 - (c) where the Welsh Ministers intend to consider two or more appeals together and in relation to each other, of that intention.
 
-#### 8. Decision on appeals[^key-e871b31292b2f253db6363874dd3f385]
+#### 8. Decision on appeals[^c-e871b31292b2f253db6363874dd3f385]
 
 (1) On determining an appeal made under paragraph 6, the Welsh Ministers must either—
 
@@ -172,26 +172,26 @@ Except in so far as these Regulations provide to the contrary, the Welsh Ministe
 
 (3) The Welsh Ministers must after reaching a decision on an appeal, including the imposition of conditions under sub-paragraph (2), give written notice of their decision together with the reasons for it to those persons sent a copy of the notice of appeal under paragraph 7.
 
-#### 9. Effect of decisions by the Welsh Ministers[^key-5614368976cd17302e2c92dc146fb551]
+#### 9. Effect of decisions by the Welsh Ministers[^c-5614368976cd17302e2c92dc146fb551]
 
 For the purposes of these Regulations, the Welsh Ministers’ decision becomes the Local Health Board’s decision on the matter (but no further appeal to the Welsh Ministers on that decision is possible, unless the Welsh Ministers’ decision is overruled by a court).
 
 ## Annotations
 
-[^key-6a015888fb93bab3f6278d015107c906]: Commencement: Sch. 4 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-6a015888fb93bab3f6278d015107c906]: Commencement: Sch. 4 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-37f655619a271b9767ede7f12a502b32]: Commencement: Sch. 4 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-37f655619a271b9767ede7f12a502b32]: Commencement: Sch. 4 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-1618f087b535a7aad7266965ce6fb253]: Commencement: Sch. 4 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-1618f087b535a7aad7266965ce6fb253]: Commencement: Sch. 4 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-aacd28c44bb26833223e3dc6a843d8e6]: Commencement: Sch. 4 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-aacd28c44bb26833223e3dc6a843d8e6]: Commencement: Sch. 4 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-a7e37ea8ee2d2ba19e82b08465952332]: Commencement: Sch. 4 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-a7e37ea8ee2d2ba19e82b08465952332]: Commencement: Sch. 4 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-701b5967158c3119320737a863d7f368]: Commencement: Sch. 4 para. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-701b5967158c3119320737a863d7f368]: Commencement: Sch. 4 para. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-fc9cfe7b71822edf5a04eb45f8a9be81]: Commencement: Sch. 4 para. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-fc9cfe7b71822edf5a04eb45f8a9be81]: Commencement: Sch. 4 para. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-e871b31292b2f253db6363874dd3f385]: Commencement: Sch. 4 para. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-e871b31292b2f253db6363874dd3f385]: Commencement: Sch. 4 para. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-5614368976cd17302e2c92dc146fb551]: Commencement: Sch. 4 para. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-5614368976cd17302e2c92dc146fb551]: Commencement: Sch. 4 para. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

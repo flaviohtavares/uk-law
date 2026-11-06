@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12A. Removal of domiciliary care designation[^key-23386d4c376aba58c72221e210f7a037]
+## 12A. Removal of domiciliary care designation[^c-23386d4c376aba58c72221e210f7a037]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
 - (e) the dentist was suspended by direction of the Tribunal or was suspended by the Health Board; or
 - (f) the dentist was performing personal dental services in connection with a pilot scheme.
 
-(4)[^key-5c7333c42a6d7ce9c2f7feb1e0ab03a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5c7333c42a6d7ce9c2f7feb1e0ab03a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A Health Board must remove the designation of a domiciliary care dentist if—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23386d4c376aba58c72221e210f7a037]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/ssi/2010/208/regulation/12A) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [12](https://www.legislation.gov.uk/ssi/2019/174/regulation/12)
+[^c-23386d4c376aba58c72221e210f7a037]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/ssi/2010/208/regulation/12A) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [12](https://www.legislation.gov.uk/ssi/2019/174/regulation/12)
 
-[^key-5c7333c42a6d7ce9c2f7feb1e0ab03a3]: Textual amendment: [Reg. 12A(4)](https://www.legislation.gov.uk/ssi/2010/208/regulation/12A/4) omitted (31.1.2026) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2025/380/regulation/12)
+[^c-5c7333c42a6d7ce9c2f7feb1e0ab03a3]: Textual amendment: [Reg. 12A(4)](https://www.legislation.gov.uk/ssi/2010/208/regulation/12A/4) omitted (31.1.2026) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2025/380/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Remittance of charges[^key-1bb1ddc1311bdee04dedca4589545b31][^key-63ad5c558875446736ece8261622b4a6]
+## 37. Remittance of charges[^c-1bb1ddc1311bdee04dedca4589545b31][^c-63ad5c558875446736ece8261622b4a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1bb1ddc1311bdee04dedca4589545b31]: Commencement: Art. 37 in force at 12.11.2020, see art. 2(1)
+[^c-1bb1ddc1311bdee04dedca4589545b31]: Commencement: Art. 37 in force at 12.11.2020, see art. 2(1)
 
-[^key-63ad5c558875446736ece8261622b4a6]: Textual amendment: [Art. 37](https://www.legislation.gov.uk/uksi/2020/1265/article/37) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [21](https://www.legislation.gov.uk/uksi/2020/1557/article/21)
+[^c-63ad5c558875446736ece8261622b4a6]: Textual amendment: [Art. 37](https://www.legislation.gov.uk/uksi/2020/1265/article/37) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [21](https://www.legislation.gov.uk/uksi/2020/1557/article/21)

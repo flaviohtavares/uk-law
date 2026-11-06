@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.5. Preliminary hearing after arrest[^key-240ff16ddaacdc63e760930e8d4e734e]
+## 50.5. Preliminary hearing after arrest[^c-240ff16ddaacdc63e760930e8d4e734e]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-240ff16ddaacdc63e760930e8d4e734e]: Commencement: [Rule 50.5](https://www.legislation.gov.uk/uksi/2025/909/rule/50.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-240ff16ddaacdc63e760930e8d4e734e]: Commencement: [Rule 50.5](https://www.legislation.gov.uk/uksi/2025/909/rule/50.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01334]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 6 was amended by section 77 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). Section 7 was amended by paragraph 16 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and section 77 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). Section 8 was amended by paragraph 16 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and section 155 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 

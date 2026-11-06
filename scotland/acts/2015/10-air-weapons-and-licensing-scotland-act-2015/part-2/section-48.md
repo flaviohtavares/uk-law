@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Personal licence holders: conduct inconsistent with the licensing objectives[^key-9f07558d7d85f286e18fc485ef5d492d]
+## 48. Personal licence holders: conduct inconsistent with the licensing objectives[^c-9f07558d7d85f286e18fc485ef5d492d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f07558d7d85f286e18fc485ef5d492d]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/10/section/48) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-9f07558d7d85f286e18fc485ef5d492d]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/10/section/48) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

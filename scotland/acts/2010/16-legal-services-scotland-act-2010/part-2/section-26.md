@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. More about compensation arrangements[^key-515717f6b0187cda673d89315f7a8dd6]
+## 26. More about compensation arrangements[^c-515717f6b0187cda673d89315f7a8dd6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515717f6b0187cda673d89315f7a8dd6]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2010/16/section/26) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-515717f6b0187cda673d89315f7a8dd6]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2010/16/section/26) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

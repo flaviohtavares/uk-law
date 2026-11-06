@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Arrangements and reconstructions: LLPs in financial difficulty[^key-fb6205fd1b2e27c2e45575895efbd78c]
+## 45A. Arrangements and reconstructions: LLPs in financial difficulty[^c-fb6205fd1b2e27c2e45575895efbd78c]
 
 *Extent: E+W+S+N.I.*
 
@@ -296,4 +296,4 @@ Sections 901A to 901J apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-fb6205fd1b2e27c2e45575895efbd78c]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45A) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-fb6205fd1b2e27c2e45575895efbd78c]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45A) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))

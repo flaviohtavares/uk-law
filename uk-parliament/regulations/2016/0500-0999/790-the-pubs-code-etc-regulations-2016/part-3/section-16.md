@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Contents of the rent proposal[^key-ae80039a97f7ad2a6a960ade790a2fcb]
+## 16. Contents of the rent proposal[^c-ae80039a97f7ad2a6a960ade790a2fcb]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae80039a97f7ad2a6a960ade790a2fcb]: Commencement: Reg. 16 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-ae80039a97f7ad2a6a960ade790a2fcb]: Commencement: Reg. 16 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

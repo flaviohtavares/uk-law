@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Repeal of section 42[^key-4255eb4cf83ccb7456a84341dc675a55]
+## 38. Repeal of section 42[^c-4255eb4cf83ccb7456a84341dc675a55]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 42 (restriction on bodies corporate) is hereby repealed.
 
 ## Annotations
 
-[^key-4255eb4cf83ccb7456a84341dc675a55]: Commencement: Art. 38 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-4255eb4cf83ccb7456a84341dc675a55]: Commencement: Art. 38 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

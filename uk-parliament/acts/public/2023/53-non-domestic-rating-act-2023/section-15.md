@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-a22b1441fd515b33d4bc799cdae8c6e2][^key-9419d020453ea20d230699c8d0d47645] Schedule 7 to the Act (non-domestic rating multipliers) is amended as follows.
+(1)[^c-a22b1441fd515b33d4bc799cdae8c6e2][^c-9419d020453ea20d230699c8d0d47645] Schedule 7 to the Act (non-domestic rating multipliers) is amended as follows.
 
-(2)[^key-a15e421c32e33c08ae7d384525d12733] Before Part 1 insert—
+(2)[^c-a15e421c32e33c08ae7d384525d12733] Before Part 1 insert—
 
 > **PART A1 — Non-Domestic Rating Multipliers: England**
 >
@@ -148,18 +148,18 @@ summary: ''
 >
 > (2) A statutory instrument containing regulations under paragraph A10(4)(b) is subject to annulment in pursuance of a resolution of the House of Commons.
 
-(3)[^key-4d31d3a8de081c7c1a1471e17909b954] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4d31d3a8de081c7c1a1471e17909b954] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c95abb43303013dc2d1fabe02c7d811f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c95abb43303013dc2d1fabe02c7d811f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a22b1441fd515b33d4bc799cdae8c6e2]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/1) in force at 21.11.2023 for specified purposes by [S.I. 2023/1188](https://www.legislation.gov.uk/wsi/2023/1188), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/1188/regulation/2/a)
+[^c-a22b1441fd515b33d4bc799cdae8c6e2]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/1) in force at 21.11.2023 for specified purposes by [S.I. 2023/1188](https://www.legislation.gov.uk/wsi/2023/1188), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/1188/regulation/2/a)
 
-[^key-9419d020453ea20d230699c8d0d47645]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/1) in force at 22.11.2023 for specified purposes by [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-9419d020453ea20d230699c8d0d47645]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/1) in force at 22.11.2023 for specified purposes by [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-a15e421c32e33c08ae7d384525d12733]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/2) in force at 22.11.2023 by [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
+[^c-a15e421c32e33c08ae7d384525d12733]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/2) in force at 22.11.2023 by [S.I. 2023/1248](https://www.legislation.gov.uk/uksi/2023/1248), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1248/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1248/regulation/3))
 
-[^key-4d31d3a8de081c7c1a1471e17909b954]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/3) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 12(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/12/2)
+[^c-4d31d3a8de081c7c1a1471e17909b954]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/3) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 12(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/12/2)
 
-[^key-c95abb43303013dc2d1fabe02c7d811f]: Textual amendment: [S. 15(4)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/4) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 12(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/12/2)
+[^c-c95abb43303013dc2d1fabe02c7d811f]: Textual amendment: [S. 15(4)](https://www.legislation.gov.uk/ukpga/2023/53/section/15/4) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 12(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/12/2)

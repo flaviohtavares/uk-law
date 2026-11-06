@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Minimum conditions for early release under section 246(1) of Criminal Justice Act 2003[^key-20229f0516f0f67138c54fa2dc4ad724]
+## 24. Minimum conditions for early release under section 246(1) of Criminal Justice Act 2003[^c-20229f0516f0f67138c54fa2dc4ad724]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In section 246(2) of the Criminal Justice Act 2003 (c. 44) (minimum conditions f
 
 ## Annotations
 
-[^key-20229f0516f0f67138c54fa2dc4ad724]: Commencement: S. 24 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/11)
+[^c-20229f0516f0f67138c54fa2dc4ad724]: Commencement: S. 24 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/11)

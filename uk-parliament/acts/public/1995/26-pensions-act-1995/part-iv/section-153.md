@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Right to guaranteed cash equivalent.[^key-e396c37715a949353b19bdb23c0b5085][^key-b57431c2979e3292144a5dbf86a134c3]
+## 153. Right to guaranteed cash equivalent.[^c-e396c37715a949353b19bdb23c0b5085][^c-b57431c2979e3292144a5dbf86a134c3]
 
 *Extent: E+W+S*
 
@@ -39,8 +39,8 @@ After section 93 of the [^c2136358]Pension Schemes Act 1993 there is inserted—
 
 ## Annotations
 
-[^key-e396c37715a949353b19bdb23c0b5085]: Commencement: S. 153 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
+[^c-e396c37715a949353b19bdb23c0b5085]: Commencement: S. 153 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
 
-[^key-b57431c2979e3292144a5dbf86a134c3]: Commencement: S. 153 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-b57431c2979e3292144a5dbf86a134c3]: Commencement: S. 153 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136358]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

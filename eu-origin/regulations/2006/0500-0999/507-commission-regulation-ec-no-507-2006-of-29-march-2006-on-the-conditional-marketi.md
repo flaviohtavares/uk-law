@@ -35,64 +35,64 @@ on the conditional marketing authorisation for medicinal products for human use 
 
 (Text with EEA relevance) (revoked)
 
-[^key-bf015b28e93428d89ca6b11e107064cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf015b28e93428d89ca6b11e107064cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 1. Subject matter[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Scope[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 2. Scope[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Requests or proposals[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 3. Requests or proposals[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Requirements[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 4. Requirements[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Specific obligations[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 5. Specific obligations[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Renewal[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 6. Renewal[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Marketing authorisation not subject to specific obligations[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 7. Marketing authorisation not subject to specific obligations[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Product Information[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 8. Product Information[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Periodic safety update reports[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 9. Periodic safety update reports[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Agency advice prior to marketing authorisation application[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 10. Agency advice prior to marketing authorisation application[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Guidelines[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 11. Guidelines[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Transitional provision[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 12. Transitional provision[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Entry into force[^key-bf015b28e93428d89ca6b11e107064cb]
+## Article 13. Entry into force[^c-bf015b28e93428d89ca6b11e107064cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf015b28e93428d89ca6b11e107064cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf015b28e93428d89ca6b11e107064cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf015b28e93428d89ca6b11e107064cb]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(k)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/k) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf015b28e93428d89ca6b11e107064cb]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(k)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/k) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

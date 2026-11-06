@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Power of constables to obtain names and addresses of drivers and others, and to require production of evidence of insurance ... and test certificates.[^c13997081][^c13997091][^c13997101][^c13997111][^key-8c6cbc33d7d4782aaf24bc766a13f13f]
+## 165. Power of constables to obtain names and addresses of drivers and others, and to require production of evidence of insurance ... and test certificates.[^c13997081][^c13997091][^c13997101][^c13997111][^c-8c6cbc33d7d4782aaf24bc766a13f13f]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ must, on being so required by a constable or vehicle examiner, give his name and
 
 (2) Those documents are—
 
-- (a) the relevant certificate of insurance [^key-f0b8afe892d481c4258cbd16034399db]... (within the meaning of Part VI of this Act), or such other evidence that the vehicle is not or was not being driven in contravention of section 143 of this Act as may be prescribed by regulations made by the Secretary of State,
+- (a) the relevant certificate of insurance [^c-f0b8afe892d481c4258cbd16034399db]... (within the meaning of Part VI of this Act), or such other evidence that the vehicle is not or was not being driven in contravention of section 143 of this Act as may be prescribed by regulations made by the Secretary of State,
 - (b) in relation to a vehicle to which section 47 of this Act applies, a test certificate issued in respect of the vehicle as mentioned in subsection (1) of that section, and
 - (c) in relation to a goods vehicle the use of which on a road without a plating certificate or goods vehicle test certificate is an offence under section 53(1) or (2) of this Act, any such certificate issued in respect of that vehicle or any trailer drawn by it.
 
@@ -79,7 +79,7 @@ must, on being so required by a constable or vehicle examiner, give his name and
 
 [^c13997111]: Modification: S. 165 excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(1)(b)(2)(b)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/1/b/2/b)
 
-[^key-8c6cbc33d7d4782aaf24bc766a13f13f]: Textual amendment: Words in s. 165 heading omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 23(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/23/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-8c6cbc33d7d4782aaf24bc766a13f13f]: Textual amendment: Words in s. 165 heading omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 23(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/23/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
 [^c13997121]: Modification: S. 165(1) extended (S.) (21.3.1999) by [S.I. 1999/854](https://www.legislation.gov.uk/uksi/1999/854), [art. 3(3)](https://www.legislation.gov.uk/uksi/1999/854/article/3/3)
 
@@ -93,7 +93,7 @@ must, on being so required by a constable or vehicle examiner, give his name and
 
 [^c13997141]: Textual amendment: Words in s. 165(1)(b) inserted (3.4.2000) by [S.I. 2000/726](https://www.legislation.gov.uk/uksi/2000/726), [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/726/article/2/5)
 
-[^key-f0b8afe892d481c4258cbd16034399db]: Textual amendment: Words in [s. 165(2)(a)](https://www.legislation.gov.uk/ukpga/1988/52/section/165/2/a) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/23/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-f0b8afe892d481c4258cbd16034399db]: Textual amendment: Words in [s. 165(2)(a)](https://www.legislation.gov.uk/ukpga/1988/52/section/165/2/a) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/23/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
 [^c20985101]: Textual amendment: S. 165(2A)-(2D) inserted (30.4.2010) by [The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117)](https://www.legislation.gov.uk/uksi/2010/1117), [art. 6](https://www.legislation.gov.uk/uksi/2010/1117/article/6)
 

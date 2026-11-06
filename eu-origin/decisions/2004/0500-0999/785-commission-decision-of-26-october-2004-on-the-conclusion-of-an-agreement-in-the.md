@@ -35,34 +35,34 @@ on the conclusion of an Agreement in the form of an exchange of letters between 
 
 (2004/785/EC) (revoked)
 
-[^key-ec05deb793c934f4da92b7e42bb220a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec05deb793c934f4da92b7e42bb220a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ec05deb793c934f4da92b7e42bb220a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ec05deb793c934f4da92b7e42bb220a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ec05deb793c934f4da92b7e42bb220a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ec05deb793c934f4da92b7e42bb220a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec05deb793c934f4da92b7e42bb220a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec05deb793c934f4da92b7e42bb220a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ec05deb793c934f4da92b7e42bb220a7]
+## ANNEX[^c-ec05deb793c934f4da92b7e42bb220a7]
 
-[^key-ec05deb793c934f4da92b7e42bb220a7]AGREEMENT IN THE FORM OF AN EXCHANGE OF LETTERS between the European Community and the United Mexican States concerning amendments of Annex II of the Agreement between the European Community and the United Mexican States on the mutual recognition and protection of designations for spirit drinks
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-ec05deb793c934f4da92b7e42bb220a7]LETTER No 1
+[^c-ec05deb793c934f4da92b7e42bb220a7]AGREEMENT IN THE FORM OF AN EXCHANGE OF LETTERS between the European Community and the United Mexican States concerning amendments of Annex II of the Agreement between the European Community and the United Mexican States on the mutual recognition and protection of designations for spirit drinks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec05deb793c934f4da92b7e42bb220a7]LETTER No 2
-
-[^key-ec05deb793c934f4da92b7e42bb220a7]Letter from the United Mexican States
+[^c-ec05deb793c934f4da92b7e42bb220a7]LETTER No 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec05deb793c934f4da92b7e42bb220a7]ANNEX
+[^c-ec05deb793c934f4da92b7e42bb220a7]LETTER No 2
+
+[^c-ec05deb793c934f4da92b7e42bb220a7]Letter from the United Mexican States
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ec05deb793c934f4da92b7e42bb220a7]ANNEX
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec05deb793c934f4da92b7e42bb220a7]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec05deb793c934f4da92b7e42bb220a7]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

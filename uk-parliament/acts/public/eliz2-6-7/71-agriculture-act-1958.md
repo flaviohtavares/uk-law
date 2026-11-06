@@ -33,7 +33,7 @@ An Act to amend the Agriculture Act, 1947, the Agricultural Holdings Act, 1948, 
 
 \[1st August 1958\] [^c1583245][^c1583246]
 
-## 1. Repeal of powers of supervision, direction and dispossession under Part II of Agriculture Act, 1947, and Part II of Agriculture (Scotland) Act 1948.[^key-b0505fdc0acdee508a80ab1e2b6c5b41]
+## 1. Repeal of powers of supervision, direction and dispossession under Part II of Agriculture Act, 1947, and Part II of Agriculture (Scotland) Act 1948.[^c-b0505fdc0acdee508a80ab1e2b6c5b41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,7 +45,7 @@ An Act to amend the Agriculture Act, 1947, the Agricultural Holdings Act, 1948, 
 
 ## 5. Transfer to Lord Chancellor of Minister’s functions as respects Agricultural Land Tribunals.
 
-The functions conferred on the Minister in relation to Agricultural Land Tribunals by section seventy-three of the Act of 1947 shall be exercisable as provided for in that section[^key-e3314d58a96f006822f72c9a70d84c9e] , so however that the duty of providing the said Tribunals with the necessary officers and servants and of paying salaries, fees and allowances shall remain with the Minister.
+The functions conferred on the Minister in relation to Agricultural Land Tribunals by section seventy-three of the Act of 1947 shall be exercisable as provided for in that section[^c-e3314d58a96f006822f72c9a70d84c9e] , so however that the duty of providing the said Tribunals with the necessary officers and servants and of paying salaries, fees and allowances shall remain with the Minister.
 
 ## 6. Provisions as to succession to holdings in Scotland.
 
@@ -59,7 +59,7 @@ The functions conferred on the Minister in relation to Agricultural Land Tribuna
 
 ## 8. Minor and consequential amendments.
 
-(1) The enactments specified in Part I of the First Schedule to this Act (being enactments applying to England and Wales) [^key-33b4575419d0ac6f9a65d7b148810c5a]... shall have effect subject to the amendments specified in that Schedule, being minor amendments or amendments consequential on the foregoing provisions of this Act.
+(1) The enactments specified in Part I of the First Schedule to this Act (being enactments applying to England and Wales) [^c-33b4575419d0ac6f9a65d7b148810c5a]... shall have effect subject to the amendments specified in that Schedule, being minor amendments or amendments consequential on the foregoing provisions of this Act.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1583257]
 
@@ -69,15 +69,15 @@ The functions conferred on the Minister in relation to Agricultural Land Tribuna
 
 - “**Act of 1947**” means the [^c1583258]Agriculture Act, 1947;
 - “**Act of 1948**” means the [^c1583259]Agricultural Holdings Act, 1948;
-- [^key-d82d8910408947033e822e7ac2cf494f]...
-- [^key-eb654740df30ad412744bd8d3d905d3a]...
+- [^c-d82d8910408947033e822e7ac2cf494f]...
+- [^c-eb654740df30ad412744bd8d3d905d3a]...
 - [^c1583260]...
-- [^key-d82d8910408947033e822e7ac2cf494f]...
-- [^key-d82d8910408947033e822e7ac2cf494f]...
-- [^key-d82d8910408947033e822e7ac2cf494f]...
+- [^c-d82d8910408947033e822e7ac2cf494f]...
+- [^c-d82d8910408947033e822e7ac2cf494f]...
+- [^c-d82d8910408947033e822e7ac2cf494f]...
 - “**the Minister**” means the Minister of Agriculture, Fisheries and Food;
-- [^key-d82d8910408947033e822e7ac2cf494f]...
-- [^key-d82d8910408947033e822e7ac2cf494f]...
+- [^c-d82d8910408947033e822e7ac2cf494f]...
+- [^c-d82d8910408947033e822e7ac2cf494f]...
 
 (2) References in this Act to any enactment shall be construed, except where the context otherwise requires, as references to that enactment as amended by or under any other enactment, including this Act.
 
@@ -85,13 +85,13 @@ The functions conferred on the Minister in relation to Agricultural Land Tribuna
 
 (1)[^c1583265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-1d992f07ad438603c4ac73f32beaf53e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1d992f07ad438603c4ac73f32beaf53e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c1583266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-96eeb1a7ab874798e972d315f130449d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-96eeb1a7ab874798e972d315f130449d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-96eeb1a7ab874798e972d315f130449d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-96eeb1a7ab874798e972d315f130449d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c1583268] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -119,7 +119,7 @@ Section 8.
 
 #### Agriculture Act, 1947
 
-**2.**[^key-1c80c4b9ac3cdec6cc23a55e568503c6][^c1583272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1c80c4b9ac3cdec6cc23a55e568503c6][^c1583272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** In section seventy-three (which provides for the establishment, constitution and procedure of Agricultural Land Tribunals)—
 
@@ -271,9 +271,9 @@ Section 8.
 
 Section 10.
 
-**1.**[^key-a7471722e74366e423fdcaa82014c95e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a7471722e74366e423fdcaa82014c95e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1f0eab2f6537038654810af4b08ff211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1f0eab2f6537038654810af4b08ff211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Notwithstanding the repeal by this Act of section fifteen of the Act of 1947, subsection (6) of that section shall continue to have effect as respects the right of a tenant to compensation for an improvement carried out before the passing of this Act.
 
@@ -301,15 +301,15 @@ Section 10.
 
 **9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1583341]
 
-**10.**[^key-7fbbc24a35b31fe805295388ee689d6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7fbbc24a35b31fe805295388ee689d6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1583342]
 
 **12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1583343]
 
-**13.**[^key-7d35c49825a1dc29a5284dc27274601a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7d35c49825a1dc29a5284dc27274601a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6af2e93fa6c716be12fe3cfd855301b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6af2e93fa6c716be12fe3cfd855301b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -317,7 +317,7 @@ Section 10.
 
 [^c1583246]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
 
-[^key-b0505fdc0acdee508a80ab1e2b6c5b41]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-b0505fdc0acdee508a80ab1e2b6c5b41]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583249]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/2) repealed (S.) by [Agricultural Holdings (Amendment) (Scotland) Act 1983 (c. 46, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1983/46), [s. 6](https://www.legislation.gov.uk/ukpga/1983/46/section/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/1983/46/schedule/2) and (E.W.) by [Agricultural Holdings Act 1984 (c. 41)](https://www.legislation.gov.uk/ukpga/1984/41), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1984/41/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1984/41/schedule/4)
 
@@ -325,7 +325,7 @@ Section 10.
 
 [^c1583252]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/4) repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/I)
 
-[^key-e3314d58a96f006822f72c9a70d84c9e]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/49); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-e3314d58a96f006822f72c9a70d84c9e]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/49); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
 [^c1583253]: Textual amendment: [S. 6(1)(2)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/6/1/2) repealed with savings by [Succession (Scotland) Act 1964 (c. 41)](https://www.legislation.gov.uk/ukpga/1964/41), [s. 34(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/34/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1964/41/schedule/3)
 
@@ -335,7 +335,7 @@ Section 10.
 
 [^c1583256]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/7) repealed by [Weeds Act 1959 (c. 54)](https://www.legislation.gov.uk/ukpga/1959/54), [Sch.](https://www.legislation.gov.uk/ukpga/1959/54/schedule)
 
-[^key-33b4575419d0ac6f9a65d7b148810c5a]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/8/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-33b4575419d0ac6f9a65d7b148810c5a]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/8/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583257]: Textual amendment: S. 8(2) repealed by [House of Commons Disqualification Act 1975 (c. 24, SIF 89)](https://www.legislation.gov.uk/ukpga/1975/24), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1975/24/section/10/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3)
 
@@ -343,19 +343,19 @@ Section 10.
 
 [^c1583259]: Marginal citation: [1948 c. 63](https://www.legislation.gov.uk/ukpga/1948/63).
 
-[^key-d82d8910408947033e822e7ac2cf494f]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/9/1) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-d82d8910408947033e822e7ac2cf494f]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/section/9/1) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-eb654740df30ad412744bd8d3d905d3a]: Textual amendment: Words in s. 9(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-eb654740df30ad412744bd8d3d905d3a]: Textual amendment: Words in s. 9(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583260]: Textual amendment: Words repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/1)
 
 [^c1583265]: Textual amendment: S. 10(1) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
-[^key-1d992f07ad438603c4ac73f32beaf53e]: Textual amendment: S. 10(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-1d992f07ad438603c4ac73f32beaf53e]: Textual amendment: S. 10(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583266]: Textual amendment: S. 10(3) repealed (with saving) by [Mineral Workings Act 1985 (c. 12, SIF 86)](https://www.legislation.gov.uk/ukpga/1985/12), [ss. 4(1)(7)](https://www.legislation.gov.uk/ukpga/1985/12/section/4/1/7), [10](https://www.legislation.gov.uk/ukpga/1985/12/section/10), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/12/schedule/2)
 
-[^key-96eeb1a7ab874798e972d315f130449d]: Textual amendment: S. 10(4)(5) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-96eeb1a7ab874798e972d315f130449d]: Textual amendment: S. 10(4)(5) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c1583268]: Textual amendment: S. 10(6) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
@@ -365,7 +365,7 @@ Section 10.
 
 [^c1583271]: Modification: The text of Sch. 1 paras. 1, 2, 3(b)–(e), 5(2)(4), 9(a), 12, 26, 27(a), 29–34, 35(b)(c), 36(a)(b), 37–40, 41(b)(c), 42, 43(b), 44, 45(b)(c), 46 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-1c80c4b9ac3cdec6cc23a55e568503c6]: Textual amendment: Sch. 1 para. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-1c80c4b9ac3cdec6cc23a55e568503c6]: Textual amendment: Sch. 1 para. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583272]: Modification: The text of Sch. 1 paras. 1, 2, 3(b)–(e), 5(2)(4), 9(a), 12, 26, 27(a), 29–34, 35(b)(c), 36(a)(b), 37–40, 41(b)(c), 42, 43(b), 44, 45(b)(c), 46 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -449,9 +449,9 @@ Section 10.
 
 [^c1583338]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/2) and Sch. 3 repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1973/39/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
-[^key-a7471722e74366e423fdcaa82014c95e]: Textual amendment: Sch. FOURTH para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-a7471722e74366e423fdcaa82014c95e]: Textual amendment: Sch. FOURTH para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-1f0eab2f6537038654810af4b08ff211]: Textual amendment: Sch. FOURTH para. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-1f0eab2f6537038654810af4b08ff211]: Textual amendment: Sch. FOURTH para. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583339]: Textual amendment: [Sch. 1 paras. 6](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/7), [14–18](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/14), [20](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/20), [21](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/21) and Sch. 4 paras. 5, 9, 11 repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/1)
 
@@ -459,12 +459,12 @@ Section 10.
 
 [^c1583341]: Textual amendment: [Sch. 1 paras. 6](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/7), [14–18](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/14), [20](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/20), [21](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/21) and Sch. 4 paras. 5, 9, 11 repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/1)
 
-[^key-7fbbc24a35b31fe805295388ee689d6e]: Textual amendment: Sch. FOURTH para.10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-7fbbc24a35b31fe805295388ee689d6e]: Textual amendment: Sch. FOURTH para.10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1583342]: Textual amendment: [Sch. 1 paras. 6](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/7), [14–18](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/14), [20](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/20), [21](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/1/paragraph/21) and Sch. 4 paras. 5, 9, 11 repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/1)
 
 [^c1583343]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/71/schedule/4/paragraph/12) repealed by [Weeds Act 1959 (c. 54)](https://www.legislation.gov.uk/ukpga/1959/54), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1959/54/section/10/1), [Sch.](https://www.legislation.gov.uk/ukpga/1959/54/schedule)
 
-[^key-7d35c49825a1dc29a5284dc27274601a]: Textual amendment: Sch. FOURTH para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-7d35c49825a1dc29a5284dc27274601a]: Textual amendment: Sch. FOURTH para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-6af2e93fa6c716be12fe3cfd855301b2]: Textual amendment: Sch. FOURTH para. 14 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-6af2e93fa6c716be12fe3cfd855301b2]: Textual amendment: Sch. FOURTH para. 14 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

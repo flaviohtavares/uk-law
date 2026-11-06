@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 223. Cancellation of a caution—application by the proprietor etc[^key-9c8e3ccbe12bde56e2f3c4ea1f9e264d]
+## 223. Cancellation of a caution—application by the proprietor etc[^c-9c8e3ccbe12bde56e2f3c4ea1f9e264d]
 
 *Extent: E+W*
 
 (1) A person may apply to the registrar for the cancellation of a caution if he is—
 
 - (a) the proprietor of the registered estate or a registered charge to which the caution relates, or
-- (b)[^key-f1bf205e6e6931a5703460eaed17b772] a person who is, or but for the existence of the caution would be, entitled to be registered as the proprietor of that estate or charge.
+- (b)[^c-f1bf205e6e6931a5703460eaed17b772] a person who is, or but for the existence of the caution would be, entitled to be registered as the proprietor of that estate or charge.
 
 (2) An application for the cancellation of a caution must be in Form CCD.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c8e3ccbe12bde56e2f3c4ea1f9e264d]: Modification: Rule 223 restricted (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [20](https://www.legislation.gov.uk/uksi/2003/1953/article/20)
+[^c-9c8e3ccbe12bde56e2f3c4ea1f9e264d]: Modification: Rule 223 restricted (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [20](https://www.legislation.gov.uk/uksi/2003/1953/article/20)
 
-[^key-f1bf205e6e6931a5703460eaed17b772]: Textual amendment: Rule 223(1)(b) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/75) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-f1bf205e6e6931a5703460eaed17b772]: Textual amendment: Rule 223(1)(b) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/75) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

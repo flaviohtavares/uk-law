@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45P. Power to amend conditions[^key-6aa16e7ac2126dc9496420ac1a7c09ad]
+## 45P. Power to amend conditions[^c-6aa16e7ac2126dc9496420ac1a7c09ad]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Treasury may by regulations change the conditions that must be met in order for expenditure to be first-year qualifying expenditure under section 45O (whether by adding, removing or altering conditions).
 
-(2) Regulations under this section may not remove the requirement for the plant or machinery to be for use primarily in an area which, at the time the expenditure is incurred, is a special tax site[^key-1e27f8f66258447a1d39d8ffa89eaa59].
+(2) Regulations under this section may not remove the requirement for the plant or machinery to be for use primarily in an area which, at the time the expenditure is incurred, is a special tax site[^c-1e27f8f66258447a1d39d8ffa89eaa59].
 
 (3) Regulations under this section may, among other things—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aa16e7ac2126dc9496420ac1a7c09ad]: Textual amendment: Ss. 45O-45R inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/22/paragraph/3)
+[^c-6aa16e7ac2126dc9496420ac1a7c09ad]: Textual amendment: Ss. 45O-45R inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/22/paragraph/3)
 
-[^key-1e27f8f66258447a1d39d8ffa89eaa59]: Textual amendment: Words in [ss. 45O-45R](https://www.legislation.gov.uk/ukpga/2001/2/section/45O) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 11(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/11/b)
+[^c-1e27f8f66258447a1d39d8ffa89eaa59]: Textual amendment: Words in [ss. 45O-45R](https://www.legislation.gov.uk/ukpga/2001/2/section/45O) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 11(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/11/b)

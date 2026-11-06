@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Interpretation of Part 5[^key-fe7b2b55e60172e84fefc22f88b7557d]
+## 151. Interpretation of Part 5[^c-fe7b2b55e60172e84fefc22f88b7557d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ In this Part—
 
 ## Annotations
 
-[^key-fe7b2b55e60172e84fefc22f88b7557d]: Commencement: S. 151 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-fe7b2b55e60172e84fefc22f88b7557d]: Commencement: S. 151 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

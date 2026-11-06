@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 212. Power of Accountant in Bankruptcy to cure defects in procedure[^key-d2426d9cf714fd82d7d57e10d9e93ef0]
+## 212. Power of Accountant in Bankruptcy to cure defects in procedure[^c-d2426d9cf714fd82d7d57e10d9e93ef0]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2426d9cf714fd82d7d57e10d9e93ef0]: Commencement: S. 212 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-d2426d9cf714fd82d7d57e10d9e93ef0]: Commencement: S. 212 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

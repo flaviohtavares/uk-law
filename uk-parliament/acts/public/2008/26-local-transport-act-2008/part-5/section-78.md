@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Power to establish a new ITA[^c1952763][^key-5224698ae60072d4da755bb66d99544c]
+## 78. Power to establish a new ITA[^c1952763][^c-5224698ae60072d4da755bb66d99544c]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ as the Secretary of State considers appropriate.
 
 [^c1952763]: Commencement: S. 78 partly in force; s. 78 in force at Royal Assent for certain purposes see s. 134
 
-[^key-5224698ae60072d4da755bb66d99544c]: Commencement: S. 78 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-5224698ae60072d4da755bb66d99544c]: Commencement: S. 78 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

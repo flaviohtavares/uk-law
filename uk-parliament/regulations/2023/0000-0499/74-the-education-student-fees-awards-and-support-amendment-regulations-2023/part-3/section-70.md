@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-4d6e3d5883c67a188a37b459135d511f]
+## 70. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-4d6e3d5883c67a188a37b459135d511f]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ In regulation 9 (eligible students)[^f00061]—
 - (a) in paragraph (11C)(a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (11D)(a), after “Ukraine Schemes” insert “or the spouse civil partner, child or step-child of such a person”.
 
-**71.**[^key-d5b922e666c3381e0be6cc92f6068b07] (1) Schedule 1 (eligible students)[^f00062] is amended as follows.
+**71.**[^c-d5b922e666c3381e0be6cc92f6068b07] (1) Schedule 1 (eligible students)[^f00062] is amended as follows.
 
 (2) In Part 1 (interpretation), in paragraph 1(1) (as amended by regulations 67 and 69 of these Regulations)—
 
@@ -98,10 +98,10 @@ In regulation 9 (eligible students)[^f00061]—
 
 ## Annotations
 
-[^key-4d6e3d5883c67a188a37b459135d511f]: Commencement: Reg. 70 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-4d6e3d5883c67a188a37b459135d511f]: Commencement: Reg. 70 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00061]: Footnote: Paragraph (11C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph (11D) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-d5b922e666c3381e0be6cc92f6068b07]: Commencement: Reg. 71 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-d5b922e666c3381e0be6cc92f6068b07]: Commencement: Reg. 71 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00062]: Footnote: Paragraph 5A inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 5C was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

@@ -37,7 +37,7 @@ on the use of a common European format for safety certificates and application d
 
 (Text with EEA relevance) (repealed)
 
-[^c000003][^key-cf4e382c7bf704cca0d917c2cbdc4fe4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c000003][^c-cf4e382c7bf704cca0d917c2cbdc4fe4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -167,4 +167,4 @@ Counter
 
 [^c000003]: Textual amendment: Repealed by [Commission Implementing Regulation (EU) 2018/763 of 9 April 2018 establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/763).
 
-[^key-cf4e382c7bf704cca0d917c2cbdc4fe4]: Textual amendment: Regulation expressed to be further revoked save in respect of the tunnel system (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/837/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf4e382c7bf704cca0d917c2cbdc4fe4]: Textual amendment: Regulation expressed to be further revoked save in respect of the tunnel system (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/837/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

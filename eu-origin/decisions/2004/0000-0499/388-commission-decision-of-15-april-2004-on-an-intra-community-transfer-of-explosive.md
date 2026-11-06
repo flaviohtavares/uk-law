@@ -38,28 +38,28 @@ on an Intra-Community transfer of explosives document
 
 (2004/388/EC) (revoked)
 
-[^key-d5f061f3171acab806ebd4b80c2f8db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5f061f3171acab806ebd4b80c2f8db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3a.**[^key-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3a.**[^c-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d5f061f3171acab806ebd4b80c2f8db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Intra-Community transfer of explosives document — (Article 9(5) and (6) of Directive 93/15/EEC)[^key-d5f061f3171acab806ebd4b80c2f8db2]
+## ANNEX — Intra-Community transfer of explosives document — (Article 9(5) and (6) of Directive 93/15/EEC)[^c-d5f061f3171acab806ebd4b80c2f8db2]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2004/388/images/eudn_20040388_2010-10-29_en_001)[image: see source](https://www.legislation.gov.uk/eudn/2004/388/images/eudn_20040388_2010-10-29_en_002)[image: see source](https://www.legislation.gov.uk/eudn/2004/388/images/eudn_20040388_2010-10-29_en_003)
 
 ## Annotations
 
-[^key-d5f061f3171acab806ebd4b80c2f8db2]: Textual amendment: Decision revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 36(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/36/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5f061f3171acab806ebd4b80c2f8db2]: Textual amendment: Decision revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 36(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/36/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

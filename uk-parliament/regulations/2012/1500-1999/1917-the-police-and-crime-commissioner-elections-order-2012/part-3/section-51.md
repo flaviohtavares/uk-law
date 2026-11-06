@@ -27,7 +27,7 @@ summary: ''
   - (ii) property, goods, services or facilities is or are provided for the use or benefit of the candidate free of charge or at a discount of more than 10 per cent of the commercial rate for the use of the property or for the provision of the goods, services or facilities, and
 - (b) the property, goods, services or facilities is or are made use of by or on behalf of the candidate in circumstances such that, if any expenses were to be (or are) actually incurred by or on behalf of the candidate in respect of that use, they would be (or are) election expenses incurred by or on behalf of the candidate.
 
-(1A)[^key-fef6636812f9766e517f2a4185a37530] For the purposes of paragraph (1)(b), property, goods, services or facilities is or are made use of on behalf of a candidate only if their use on behalf of the candidate is directed, authorised or encouraged by the candidate or the candidate’s election agent.
+(1A)[^c-fef6636812f9766e517f2a4185a37530] For the purposes of paragraph (1)(b), property, goods, services or facilities is or are made use of on behalf of a candidate only if their use on behalf of the candidate is directed, authorised or encouraged by the candidate or the candidate’s election agent.
 
 (2) Where this article applies, and subject to Part 2 of Schedule 7—
 
@@ -56,4 +56,4 @@ as is reasonably attributable to the use made of the property, goods, services o
 
 ## Annotations
 
-[^key-fef6636812f9766e517f2a4185a37530]: Textual amendment: [Art. 51(1A)](https://www.legislation.gov.uk/uksi/2012/1917/article/51/1A) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/3) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/3/2))
+[^c-fef6636812f9766e517f2a4185a37530]: Textual amendment: [Art. 51(1A)](https://www.legislation.gov.uk/uksi/2012/1917/article/51/1A) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/3) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/3/2))

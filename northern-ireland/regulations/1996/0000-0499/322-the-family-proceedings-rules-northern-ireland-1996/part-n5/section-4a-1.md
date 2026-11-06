@@ -42,7 +42,7 @@ summary: ''
 - “**interim order**” means an order under Article 26;
 - “**the Master**” means the Master (Care and Protection) or, as the case may be, the chief clerk;
 - “**medical practitioner**” has the meaning assigned by Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00343];
-- “**the Office**” means the Office of Care and Protection or, where appropriate, the office of the chief clerk [^key-545d9a09f870192ad965336429cee74a]...;
+- “**the Office**” means the Office of Care and Protection or, where appropriate, the office of the chief clerk [^c-545d9a09f870192ad965336429cee74a]...;
 - “**order authorising a proposed foreign adoption**” means an order under Article 57;
 - “**receiving State**” means the State in which it is proposed that the child will become habitually resident;
 - “**regular armed forces of the Crown**” means the Royal Navy, the Regular Armed Forces as defined by section 225 of the Army Act 1955[^f00344], the Regular Air Force as defined by section 223 of the Air Force Act 1955[^f00345], the Queen Alexandra’s Royal Naval Nursing Service and the Women’s Royal Naval Service;
@@ -66,7 +66,7 @@ summary: ''
 
 [^f00343]: Footnote: [S.I. 1972/1265 (N.I. 11)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-545d9a09f870192ad965336429cee74a]: Textual amendment: Words in [rule 4A.1](https://www.legislation.gov.uk/nisr/1996/322/rule/4A.1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(25)](https://www.legislation.gov.uk/nisr/2016/301/article/2/25); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-545d9a09f870192ad965336429cee74a]: Textual amendment: Words in [rule 4A.1](https://www.legislation.gov.uk/nisr/1996/322/rule/4A.1) omitted (31.10.2016) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(25)](https://www.legislation.gov.uk/nisr/2016/301/article/2/25); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00344]: Footnote: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18)
 

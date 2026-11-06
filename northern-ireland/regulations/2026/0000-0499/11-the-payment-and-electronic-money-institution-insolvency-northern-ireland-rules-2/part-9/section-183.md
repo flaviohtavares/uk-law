@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 183. Application to court by creditor[^key-cb632d71bf993adf95f087bdcd587458]
+## 183. Application to court by creditor[^c-cb632d71bf993adf95f087bdcd587458]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb632d71bf993adf95f087bdcd587458]: Commencement: [Rule 183](https://www.legislation.gov.uk/nisr/2026/11/rule/183) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-cb632d71bf993adf95f087bdcd587458]: Commencement: [Rule 183](https://www.legislation.gov.uk/nisr/2026/11/rule/183) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

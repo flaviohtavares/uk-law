@@ -37,7 +37,7 @@ summary: ''
 
 ### Scotland (Extent: S) (affected by repeal, see note)[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
 
-**2 (Extent: S) (affected by repeal, see note).**[^key-77de5d6c4123bfe33fbc34d46e1f8eee][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
+**2 (Extent: S) (affected by repeal, see note).**[^c-77de5d6c4123bfe33fbc34d46e1f8eee][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
 
 ## Annotations
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c377620]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56)**(28:1)**
 
-[^key-77de5d6c4123bfe33fbc34d46e1f8eee]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1967/10/schedule/4/paragraph/2) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/45); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2
+[^c-77de5d6c4123bfe33fbc34d46e1f8eee]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1967/10/schedule/4/paragraph/2) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/45); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2

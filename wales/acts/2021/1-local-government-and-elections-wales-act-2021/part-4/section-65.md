@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Making information available to overview and scrutiny committees[^key-6bd6b09d1162a0fe8da49dc5c7abc804]
+## 65. Making information available to overview and scrutiny committees[^c-6bd6b09d1162a0fe8da49dc5c7abc804]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 22(10) of the 2000 Act (power to require information to be made avail
 
 ## Annotations
 
-[^key-6bd6b09d1162a0fe8da49dc5c7abc804]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2021/1/section/65) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)
+[^c-6bd6b09d1162a0fe8da49dc5c7abc804]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2021/1/section/65) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(n)](https://www.legislation.gov.uk/wsi/2021/231/article/6/n)

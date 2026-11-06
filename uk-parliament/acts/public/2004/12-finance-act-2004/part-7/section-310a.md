@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310A. Duty to provide further information requested by HMRC[^key-aeb6c93c725323ad54836f7098ac80b3]
+## 310A. Duty to provide further information requested by HMRC[^c-aeb6c93c725323ad54836f7098ac80b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeb6c93c725323ad54836f7098ac80b3]: Textual amendment: Ss. 310A, 310B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 284(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2) (with [s. 284(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2))
+[^c-aeb6c93c725323ad54836f7098ac80b3]: Textual amendment: Ss. 310A, 310B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 284(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2) (with [s. 284(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2))

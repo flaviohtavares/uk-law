@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192R. Grant of approval[^key-4d512704618ed9bb6b40a3628ede6e5b]
+## 192R. Grant of approval[^c-4d512704618ed9bb6b40a3628ede6e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 (3) Condition A is that the internal arrangements and distribution of tasks within the group of which the company is part are—
 
-- (a) adequate for the purpose of complying with the requirements imposed by [Directive 2013/36/EU](https://www.legislation.gov.uk/eudr/2013/0036) UK law , CRR rules[^key-e17be0ddb8416a6f28113325965df2f5] [^key-651465f055678a2763fa0761b5760c8b]... and the capital requirements regulation on a consolidated or sub-consolidated basis, [^key-651465f055678a2763fa0761b5760c8b]...
-- (aa)[^key-aa6950e5a184d516c97862831c9d4c64] adequate for the purpose of complying with section 192XA rules, and
+- (a) adequate for the purpose of complying with the requirements imposed by [Directive 2013/36/EU](https://www.legislation.gov.uk/eudr/2013/0036) UK law , CRR rules[^c-e17be0ddb8416a6f28113325965df2f5] [^c-651465f055678a2763fa0761b5760c8b]... and the capital requirements regulation on a consolidated or sub-consolidated basis, [^c-651465f055678a2763fa0761b5760c8b]...
+- (aa)[^c-aa6950e5a184d516c97862831c9d4c64] adequate for the purpose of complying with section 192XA rules, and
 - (b) effective to—
   - (i) co-ordinate all the subsidiary undertakings of the company, including, where necessary, through an adequate distribution of tasks among subsidiary institutions;
   - (ii) prevent or manage intra-group conflicts; and
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4d512704618ed9bb6b40a3628ede6e5b]: Textual amendment: Pt. 12B inserted (28.12.2020 for specified purposes, 29.12.2020 in so far as not already in force) by [The Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1406)](https://www.legislation.gov.uk/uksi/2020/1406), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1406/regulation/5))
+[^c-4d512704618ed9bb6b40a3628ede6e5b]: Textual amendment: Pt. 12B inserted (28.12.2020 for specified purposes, 29.12.2020 in so far as not already in force) by [The Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1406)](https://www.legislation.gov.uk/uksi/2020/1406), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1406/regulation/5))
 
-[^key-e17be0ddb8416a6f28113325965df2f5]: Textual amendment: Words in [s. 192R(3)(a)](https://www.legislation.gov.uk/ukpga/2000/8/section/192R/3/a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [4(9)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/4/9)
+[^c-e17be0ddb8416a6f28113325965df2f5]: Textual amendment: Words in [s. 192R(3)(a)](https://www.legislation.gov.uk/ukpga/2000/8/section/192R/3/a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [4(9)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/4/9)
 
-[^key-651465f055678a2763fa0761b5760c8b]: Textual amendment: Words in s. 192R(3)(a) omitted (9.6.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/15/a) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-651465f055678a2763fa0761b5760c8b]: Textual amendment: Words in s. 192R(3)(a) omitted (9.6.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/15/a) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-aa6950e5a184d516c97862831c9d4c64]: Textual amendment: S. 192R(3)(aa) inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/15/b) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-aa6950e5a184d516c97862831c9d4c64]: Textual amendment: S. 192R(3)(aa) inserted (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/15/b) (with [Sch. 3 Pt. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/part/4)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)

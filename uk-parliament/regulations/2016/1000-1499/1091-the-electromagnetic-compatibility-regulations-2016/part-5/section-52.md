@@ -35,10 +35,10 @@ summary: ''
 
 (3) In Northern Ireland, these Regulations may be enforced in relation to electricity meters, other than those which are wireless telegraphy apparatus, by the Northern Ireland Authority for Energy Regulation or a person appointed by the Northern Ireland Authority for Energy Regulation.
 
-(4)[^key-6a65b27f00d9ecc9ae8508bf1282e893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6a65b27f00d9ecc9ae8508bf1282e893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Scotland, only the Lord Advocate may commence proceedings for an offence.
 
 ## Annotations
 
-[^key-6a65b27f00d9ecc9ae8508bf1282e893]: Textual amendment: [Reg. 52(4)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/52/4) omitted (26.12.2017) by virtue of [The Radio Equipment Regulations 2017 (S.I. 2017/1206)](https://www.legislation.gov.uk/uksi/2017/1206), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1206/regulation/1), [81(3)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/81/3) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/3), [77](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77))
+[^c-6a65b27f00d9ecc9ae8508bf1282e893]: Textual amendment: [Reg. 52(4)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/52/4) omitted (26.12.2017) by virtue of [The Radio Equipment Regulations 2017 (S.I. 2017/1206)](https://www.legislation.gov.uk/uksi/2017/1206), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1206/regulation/1), [81(3)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/81/3) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/3), [77](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77))

@@ -24,20 +24,20 @@ Section 54
 
 ### Introduction
 
-**1.**[^key-cbffda926a524e17cfcf5a30fd5b196e] (1) This Schedule makes provision for the enforcement of regulatory requirements imposed by OFCOM in carrying out their functions in relation to postal services.
+**1.**[^c-cbffda926a524e17cfcf5a30fd5b196e] (1) This Schedule makes provision for the enforcement of regulatory requirements imposed by OFCOM in carrying out their functions in relation to postal services.
 
 (2) “**Regulatory requirement**” means—
 
 - (a) a regulatory condition, or
 - (b) a direction under—
   - (i) section 89A or 116(2A) of the Postal Services Act 2000 (schemes as to terms and conditions for provision of postal services, and the Postcode Address File), or
-  - (ii) section 25(5) of the Consumers, Estate Agents and Redress Act 2007 (enforcement of requirements to give information to the Citizens Advice[^key-728a2622eb81b9ad5a601fa9514e1d43] etc).
+  - (ii) section 25(5) of the Consumers, Estate Agents and Redress Act 2007 (enforcement of requirements to give information to the Citizens Advice[^c-728a2622eb81b9ad5a601fa9514e1d43] etc).
 
 (3) The reference to the enforcement of a regulatory condition includes the enforcement of an access condition containing provision as a result of paragraph 6 of Schedule 3 against the person (B) who has made the arrangements with a postal operator mentioned in that paragraph.
 
 ### Notification of contravention of regulatory requirements
 
-**2.**[^key-8cb28d4db991eae348762ec2fdd4c652] (1) OFCOM may give a person a notification under this paragraph if they determine that there are reasonable grounds for believing that the person is contravening, or has contravened, a regulatory requirement.
+**2.**[^c-8cb28d4db991eae348762ec2fdd4c652] (1) OFCOM may give a person a notification under this paragraph if they determine that there are reasonable grounds for believing that the person is contravening, or has contravened, a regulatory requirement.
 
 (2) A notification under this paragraph must—
 
@@ -63,7 +63,7 @@ Section 54
 
 (6) OFCOM may (on one or more occasions) extend the specified period.
 
-**3.**[^key-d2a97bb30a7eed3024471284149a3a95] (1) A notification under paragraph 2—
+**3.**[^c-d2a97bb30a7eed3024471284149a3a95] (1) A notification under paragraph 2—
 
 - (a) may be given in respect of more than one contravention, and
 - (b) if it is given in respect of a continuing contravention, may be given in respect of any period during which the contravention has continued.
@@ -74,7 +74,7 @@ Section 54
 - (b) the contravention is a continuing one and the subsequent notification is in respect of so much of a period as falls after a period to which the earlier notification relates, or
 - (c) the earlier notification has been withdrawn without a penalty having been imposed in respect of the notified contravention.
 
-**4.**[^key-3f76cb2a75f6fd455f5f1165a323b619][^key-e4d4dd2121b6225db34f9ab1b52a587f] (1) Before giving a notification under paragraph 2, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
+**4.**[^c-3f76cb2a75f6fd455f5f1165a323b619][^c-e4d4dd2121b6225db34f9ab1b52a587f] (1) Before giving a notification under paragraph 2, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
 
 (2) OFCOM must not give a notification under paragraph 2 if they consider that it would be more appropriate to proceed under the Competition Act 1998.
 
@@ -82,7 +82,7 @@ Section 54
 
 ### Enforcement notification for contravention of regulatory requirements
 
-**5.**[^key-a2c0a68e4c6548e361f45fd02bb75f12] (1) This paragraph applies if—
+**5.**[^c-a2c0a68e4c6548e361f45fd02bb75f12] (1) This paragraph applies if—
 
 - (a) a person has been given a notification under paragraph 2,
 - (b) OFCOM have allowed the person an opportunity of making representations about the matters notified, and
@@ -115,7 +115,7 @@ Section 54
 
 ### Penalties for contravention of regulatory requirements
 
-**6.**[^key-398d76f8c8d723f9ec3b0180a4182815] (1) This paragraph applies (in addition to paragraph 5) if—
+**6.**[^c-398d76f8c8d723f9ec3b0180a4182815] (1) This paragraph applies (in addition to paragraph 5) if—
 
 - (a) a person has been given a notification under paragraph 2,
 - (b) OFCOM have allowed the person an opportunity of making representations about the matters notified, and
@@ -139,7 +139,7 @@ Section 54
 - (a) must be paid to OFCOM, and
 - (b) if not paid within the period fixed by them, is to be recoverable by them accordingly.
 
-**7.**[^key-fa6752cd8ac3c2dd1df295f83703d05c] (1) The amount of a penalty imposed under paragraph 6 on a person is to be such amount as OFCOM determine to be—
+**7.**[^c-fa6752cd8ac3c2dd1df295f83703d05c] (1) The amount of a penalty imposed under paragraph 6 on a person is to be such amount as OFCOM determine to be—
 
 - (a) appropriate, and
 - (b) proportionate to the contravention in respect of which it is imposed.
@@ -164,7 +164,7 @@ Section 54
 
 ### Power to deal with urgent cases
 
-**8.**[^key-bdd166987caa4959807de0728d2d7cb3] (1) This paragraph applies if OFCOM determine—
+**8.**[^c-bdd166987caa4959807de0728d2d7cb3] (1) This paragraph applies if OFCOM determine—
 
 - (a) that they are entitled to give a notification under paragraph 2 with respect to a contravention by a person (“the contravening person”) of a regulatory requirement,
 - (b) that there are reasonable grounds for suspecting that the case is urgent, and
@@ -183,7 +183,7 @@ Section 54
 - (a) is suspended (either generally or in relation to particular services), or
 - (b) is restricted in the respects set out in the direction.
 
-**9.**[^key-27747a04ee863f5fcd7580608d9b73f0] (1) Unless it provides otherwise, a direction under paragraph 8 takes effect for an indefinite period beginning with the time at which it is notified to the person to whom it is given.
+**9.**[^c-27747a04ee863f5fcd7580608d9b73f0] (1) Unless it provides otherwise, a direction under paragraph 8 takes effect for an indefinite period beginning with the time at which it is notified to the person to whom it is given.
 
 (2) A direction under paragraph 8—
 
@@ -201,7 +201,7 @@ Section 54
 - (b) subject to compliance with such requirements as they may specify, and
 - (c) to such extent and in relation to such services, or parts of a service, as they may determine.
 
-**10.**[^key-38af5a4acf4ae82763fcc4db261d6984] (1) As soon as reasonably practicable after giving a direction under paragraph 8 to a person, OFCOM must give the person—
+**10.**[^c-38af5a4acf4ae82763fcc4db261d6984] (1) As soon as reasonably practicable after giving a direction under paragraph 8 to a person, OFCOM must give the person—
 
 - (a) an opportunity of making representations to them about the grounds on which it was given, and
 - (b) an opportunity of proposing steps to remedy the situation.
@@ -221,7 +221,7 @@ Section 54
 
 ### Suspending service provision for contravention of regulatory requirements
 
-**11.**[^key-f9cb3b3a385a8cc77217e100e5b2a839] (1) OFCOM may give a direction under this paragraph to any person who is providing one or more postal services (“the contravening person”).
+**11.**[^c-f9cb3b3a385a8cc77217e100e5b2a839] (1) OFCOM may give a direction under this paragraph to any person who is providing one or more postal services (“the contravening person”).
 
 (2) A direction under this paragraph is a direction that the entitlement of the contravening person to provide postal services—
 
@@ -239,7 +239,7 @@ Section 54
 - (a) appropriate, and
 - (b) proportionate to the seriousness (when repeated as they have been) of the contraventions.
 
-**12.**[^key-abba55f2606f12e6ef5402f817752f39] (1) Unless it provides otherwise, a direction under paragraph 11 takes effect for an indefinite period beginning with the time at which it is notified to the person to whom it is given.
+**12.**[^c-abba55f2606f12e6ef5402f817752f39] (1) Unless it provides otherwise, a direction under paragraph 11 takes effect for an indefinite period beginning with the time at which it is notified to the person to whom it is given.
 
 (2) A direction under paragraph 11—
 
@@ -263,7 +263,7 @@ Section 54
 - (b) in the period of 12 months following the day of the making of that determination, one or more further notifications have been given to that person in respect of contraventions of a regulatory requirement, and
 - (c) the previous notification and the subsequent ones all relate to contraventions of the same regulatory requirement (whether the same contravention or different ones).
 
-**13.**[^key-c28f286ae8cd5382ed2b1642aa374f28] (1) OFCOM are not to give a direction under paragraph 11 unless they have—
+**13.**[^c-c28f286ae8cd5382ed2b1642aa374f28] (1) OFCOM are not to give a direction under paragraph 11 unless they have—
 
 - (a) notified the contravening person of the proposed direction and of the conditions (if any) which they are proposing to impose by that direction,
 - (b) provided the contravening person with an opportunity of making representations about the proposals and of proposing steps for remedying the situation, and
@@ -273,7 +273,7 @@ Section 54
 
 (3) This paragraph does not apply in an urgent case (as to which, see paragraph 14).
 
-**14.**[^key-7ccf4ad6d477ee25c64b6b9770cc4aa6] (1) In an urgent case, OFCOM must, as soon as reasonably practicable after giving a direction under paragraph 11, give the contravening person—
+**14.**[^c-7ccf4ad6d477ee25c64b6b9770cc4aa6] (1) In an urgent case, OFCOM must, as soon as reasonably practicable after giving a direction under paragraph 11, give the contravening person—
 
 - (a) an opportunity of making representations to them about the effect of the direction and of any of its conditions, and
 - (b) an opportunity of proposing steps to remedy the situation.
@@ -291,7 +291,7 @@ Section 54
 
 ### Enforcement of directions under paragraph 8 or 11
 
-**15.**[^key-991c4a97e89ae59fda97ef7312f9dcca] (1) A person commits an offence if the person provides any service—
+**15.**[^c-991c4a97e89ae59fda97ef7312f9dcca] (1) A person commits an offence if the person provides any service—
 
 - (a) while the person's entitlement to do so is suspended by a direction under paragraph 8 or 11, or
 - (b) in contravention of a restriction contained in a direction under either of those paragraphs.
@@ -303,7 +303,7 @@ Section 54
 
 ### Civil liability for breach of regulatory requirements etc.
 
-**16.**[^key-d75be6c3a16925b643ad9536942b9f0e] (1) The duty of a person to comply with—
+**16.**[^c-d75be6c3a16925b643ad9536942b9f0e] (1) The duty of a person to comply with—
 
 - (a) regulatory requirements,
 - (b) requirements imposed by an enforcement notification under paragraph 5, or
@@ -335,38 +335,38 @@ to avoid contravening the requirement or condition in question.
 
 ## Annotations
 
-[^key-cbffda926a524e17cfcf5a30fd5b196e]: Commencement: Sch. 7 para. 1 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-cbffda926a524e17cfcf5a30fd5b196e]: Commencement: Sch. 7 para. 1 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-728a2622eb81b9ad5a601fa9514e1d43]: Textual amendment: Words in Sch. 7 para. 1(2)(b)(ii) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 13(8)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/13/8) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-728a2622eb81b9ad5a601fa9514e1d43]: Textual amendment: Words in Sch. 7 para. 1(2)(b)(ii) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 13(8)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/13/8) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-8cb28d4db991eae348762ec2fdd4c652]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-8cb28d4db991eae348762ec2fdd4c652]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-d2a97bb30a7eed3024471284149a3a95]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d2a97bb30a7eed3024471284149a3a95]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-3f76cb2a75f6fd455f5f1165a323b619]: Commencement: Sch. 7 para. 4 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-3f76cb2a75f6fd455f5f1165a323b619]: Commencement: Sch. 7 para. 4 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-e4d4dd2121b6225db34f9ab1b52a587f]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/19); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e4d4dd2121b6225db34f9ab1b52a587f]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/19); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a2c0a68e4c6548e361f45fd02bb75f12]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/5) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a2c0a68e4c6548e361f45fd02bb75f12]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/5) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-398d76f8c8d723f9ec3b0180a4182815]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/6) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-398d76f8c8d723f9ec3b0180a4182815]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/6) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-fa6752cd8ac3c2dd1df295f83703d05c]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/7) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-fa6752cd8ac3c2dd1df295f83703d05c]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/7) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-bdd166987caa4959807de0728d2d7cb3]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/8) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-bdd166987caa4959807de0728d2d7cb3]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/8) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-27747a04ee863f5fcd7580608d9b73f0]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/9) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-27747a04ee863f5fcd7580608d9b73f0]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/9) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-38af5a4acf4ae82763fcc4db261d6984]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/10) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-38af5a4acf4ae82763fcc4db261d6984]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/10) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-f9cb3b3a385a8cc77217e100e5b2a839]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/11) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f9cb3b3a385a8cc77217e100e5b2a839]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/11) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-abba55f2606f12e6ef5402f817752f39]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/12) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-abba55f2606f12e6ef5402f817752f39]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/12) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-c28f286ae8cd5382ed2b1642aa374f28]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/13) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-c28f286ae8cd5382ed2b1642aa374f28]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/13) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-7ccf4ad6d477ee25c64b6b9770cc4aa6]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/14) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-7ccf4ad6d477ee25c64b6b9770cc4aa6]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/14) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-991c4a97e89ae59fda97ef7312f9dcca]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/15) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-991c4a97e89ae59fda97ef7312f9dcca]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/15) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-d75be6c3a16925b643ad9536942b9f0e]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/16) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d75be6c3a16925b643ad9536942b9f0e]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2011/5/schedule/7/paragraph/16) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

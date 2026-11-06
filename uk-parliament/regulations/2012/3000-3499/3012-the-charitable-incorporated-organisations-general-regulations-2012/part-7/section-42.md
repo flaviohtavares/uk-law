@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Records as evidence of members’ decisions[^key-62848728098c899927d2815f00e9f5cc]
+## 42. Records as evidence of members’ decisions[^c-62848728098c899927d2815f00e9f5cc]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62848728098c899927d2815f00e9f5cc]: Commencement: Reg. 42 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-62848728098c899927d2815f00e9f5cc]: Commencement: Reg. 42 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

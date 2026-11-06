@@ -25,10 +25,10 @@ summary: ''
 - (a) during any absence, incapacity or suspension from duty of the Chief Constable; or
 - (b) during any vacancy in the office of Chief Constable.
 
-(2) The deputy Chief Constable shall not have power to act by virtue of subsection (1) for a continuous period exceeding 3 months except with the consent of the Department of Justice[^key-349b79f6cc7860f220a92b91a059c53b].
+(2) The deputy Chief Constable shall not have power to act by virtue of subsection (1) for a continuous period exceeding 3 months except with the consent of the Department of Justice[^c-349b79f6cc7860f220a92b91a059c53b].
 
 (3) Subsection (1) is in addition to, and not in substitution for, any other statutory provision which makes provision for the exercise by any other person of functions of the Chief Constable.
 
 ## Annotations
 
-[^key-349b79f6cc7860f220a92b91a059c53b]: Textual amendment: Words in s. 34(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 60](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/60) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-349b79f6cc7860f220a92b91a059c53b]: Textual amendment: Words in s. 34(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 60](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/60) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

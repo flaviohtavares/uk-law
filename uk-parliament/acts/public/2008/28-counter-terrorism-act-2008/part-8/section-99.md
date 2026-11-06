@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Repeals and revocations[^key-7205fe8cf4c49758c671d74457319cb5][^key-9fc607ef448925cd0d023bb73ec594e7]
+## 99. Repeals and revocations[^c-7205fe8cf4c49758c671d74457319cb5][^c-9fc607ef448925cd0d023bb73ec594e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The enactments specified in Schedule 9, which include enactments that are spent,
 
 ## Annotations
 
-[^key-7205fe8cf4c49758c671d74457319cb5]: Commencement: S. 99 in force at 16.2.2009 for specified purposes by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/58/article/2/i)
+[^c-7205fe8cf4c49758c671d74457319cb5]: Commencement: S. 99 in force at 16.2.2009 for specified purposes by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/58/article/2/i)
 
-[^key-9fc607ef448925cd0d023bb73ec594e7]: Commencement: S. 99 in force at 18.6.2009 for specified purposes by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/d)
+[^c-9fc607ef448925cd0d023bb73ec594e7]: Commencement: S. 99 in force at 18.6.2009 for specified purposes by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/d)

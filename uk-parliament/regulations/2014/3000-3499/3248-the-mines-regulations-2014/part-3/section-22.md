@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Explosive atmospheres[^key-b0895a6373848ae29f3a615362cd1446]
+## 22. Explosive atmospheres[^c-b0895a6373848ae29f3a615362cd1446]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0895a6373848ae29f3a615362cd1446]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/3248/regulation/22) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-b0895a6373848ae29f3a615362cd1446]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/3248/regulation/22) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

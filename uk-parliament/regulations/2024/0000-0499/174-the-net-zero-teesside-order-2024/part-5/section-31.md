@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Temporary use of land for carrying out the authorised development[^key-20c509dec98867a70d60e6fd7e31930f]
+## 31. Temporary use of land for carrying out the authorised development[^c-20c509dec98867a70d60e6fd7e31930f]
 
 *Extent: E+W+S*
 
-(1) Subject to article 21A (supplemental land), the undertaker may[^key-ed5680b92c38dc15a6faedfabadec31d], in connection with the carrying out of the authorised development—
+(1) Subject to article 21A (supplemental land), the undertaker may[^c-ed5680b92c38dc15a6faedfabadec31d], in connection with the carrying out of the authorised development—
 
 - (a) enter on and take possession of—
   - (i) so much of the land specified in column (1) of Table 8 in Schedule 9 (land of which temporary possession may be taken) for the purpose specified in relation to that land in column (2) of that Table 8;
@@ -34,7 +34,7 @@ summary: ''
 
 (3) The notice in paragraph (2) must specify—
 
-- (a) the period after the end of which the undertaker may take temporary possession of the land provided that such period must not end earlier than the end of the period of 28 days beginning with the day on which the notice is given; and[^key-dec641d0edcfeed335f786fe20c3fa28]
+- (a) the period after the end of which the undertaker may take temporary possession of the land provided that such period must not end earlier than the end of the period of 28 days beginning with the day on which the notice is given; and[^c-dec641d0edcfeed335f786fe20c3fa28]
 - (b) subject to paragraph (4) the period for which the undertaker is to take temporary possession of the land, provided that such periods may be varied from time to time by agreement between the undertaker and the owner or occupier.
 
 (4) The undertaker may not, without the agreement of the owners of the land, remain in possession of any land under this article—
@@ -71,10 +71,10 @@ summary: ''
 
 ## Annotations
 
-[^key-20c509dec98867a70d60e6fd7e31930f]: Commencement: Art. 31 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-20c509dec98867a70d60e6fd7e31930f]: Commencement: Art. 31 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-ed5680b92c38dc15a6faedfabadec31d]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2024/174/article/31/1) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [11](https://www.legislation.gov.uk/uksi/2025/1143/article/11)
+[^c-ed5680b92c38dc15a6faedfabadec31d]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2024/174/article/31/1) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [11](https://www.legislation.gov.uk/uksi/2025/1143/article/11)
 
-[^key-dec641d0edcfeed335f786fe20c3fa28]: Textual amendment: Word in [art. 31(3)(a)](https://www.legislation.gov.uk/uksi/2024/174/article/31/3/a) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-dec641d0edcfeed335f786fe20c3fa28]: Textual amendment: Word in [art. 31(3)(a)](https://www.legislation.gov.uk/uksi/2024/174/article/31/3/a) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
 [^f00040]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

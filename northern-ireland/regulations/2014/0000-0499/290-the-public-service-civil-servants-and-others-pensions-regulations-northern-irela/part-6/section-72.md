@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Meaning of “lower tier payment threshold”[^key-46ec53e85c11c099ded0ca4ac009924b]
+## 72. Meaning of “lower tier payment threshold”[^c-46ec53e85c11c099ded0ca4ac009924b]
 
 *Extent: N.I.*
 
 An active member of this scheme meets the lower tier threshold for payment of an ill-health pension (“lower tier payment threshold”) if—
 
 - (a) the member’s breakdown in health involves incapacity for employment; or
-- (b) [^key-ea55728f05b6f1796c02d36e5f852e1b]... the member is partially retired, the member’s breakdown in health involves total incapacity for employment.
+- (b) [^c-ea55728f05b6f1796c02d36e5f852e1b]... the member is partially retired, the member’s breakdown in health involves total incapacity for employment.
 
 ## Annotations
 
-[^key-46ec53e85c11c099ded0ca4ac009924b]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2014/290/regulation/72) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-46ec53e85c11c099ded0ca4ac009924b]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2014/290/regulation/72) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-ea55728f05b6f1796c02d36e5f852e1b]: Textual amendment: Word in [reg. 72(b)](https://www.legislation.gov.uk/nisr/2014/290/regulation/72/b) omitted (with effect in accordance with of the amending Rule) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2022/67/regulation/22)
+[^c-ea55728f05b6f1796c02d36e5f852e1b]: Textual amendment: Word in [reg. 72(b)](https://www.legislation.gov.uk/nisr/2014/290/regulation/72/b) omitted (with effect in accordance with of the amending Rule) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2022/67/regulation/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Expenditure of amounts representing budget share[^key-b9fc92c710992ccc61814f9b89db806a]
+## 37. Expenditure of amounts representing budget share[^c-b9fc92c710992ccc61814f9b89db806a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to any provision made by or under a scheme made under section 48(1) of S
 
 ## Annotations
 
-[^key-b9fc92c710992ccc61814f9b89db806a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/1035/regulation/37) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-b9fc92c710992ccc61814f9b89db806a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/1035/regulation/37) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

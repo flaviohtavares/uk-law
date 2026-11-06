@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Property in respect of which realisation order is made[^key-cf35e8f6cbc65bdd16e703e9273b8d57]
+## 83. Property in respect of which realisation order is made[^c-cf35e8f6cbc65bdd16e703e9273b8d57]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf35e8f6cbc65bdd16e703e9273b8d57]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2016/21/section/83) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-cf35e8f6cbc65bdd16e703e9273b8d57]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2016/21/section/83) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Ability to pay[^key-f036fd9c54eb7b902ca8b5d966648911]
+## 82. Ability to pay[^c-f036fd9c54eb7b902ca8b5d966648911]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In deciding whether to make a costs order, preparation time order, or wasted cos
 
 ## Annotations
 
-[^key-f036fd9c54eb7b902ca8b5d966648911]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2024/1155/rule/82) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-f036fd9c54eb7b902ca8b5d966648911]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2024/1155/rule/82) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

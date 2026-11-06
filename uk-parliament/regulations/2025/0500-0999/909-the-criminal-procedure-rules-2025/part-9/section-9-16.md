@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.16. Sending back or referring case for magistrates’ court trial[^key-1497a4486abfda52398d59db45a0a95a]
+## 9.16. Sending back or referring case for magistrates’ court trial[^c-1497a4486abfda52398d59db45a0a95a]
 
 *Extent: E+W*
 
@@ -84,7 +84,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1497a4486abfda52398d59db45a0a95a]: Commencement: [Rule 9.16](https://www.legislation.gov.uk/uksi/2025/909/rule/9.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1497a4486abfda52398d59db45a0a95a]: Commencement: [Rule 9.16](https://www.legislation.gov.uk/uksi/2025/909/rule/9.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00293]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 46ZA was inserted by section 11 of the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Documents to be certified[^key-3641a6f593ad90affcc53ab300fe77da]
+## 55. Documents to be certified[^c-3641a6f593ad90affcc53ab300fe77da]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3641a6f593ad90affcc53ab300fe77da]: Commencement: Art. 55 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-3641a6f593ad90affcc53ab300fe77da]: Commencement: Art. 55 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

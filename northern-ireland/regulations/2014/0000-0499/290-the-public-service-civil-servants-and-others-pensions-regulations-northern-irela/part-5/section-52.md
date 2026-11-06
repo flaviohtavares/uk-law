@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Amount of full retirement pension[^key-03b5d58f3e373536c26f7eedf342bda6]
+## 52. Amount of full retirement pension[^c-03b5d58f3e373536c26f7eedf342bda6]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03b5d58f3e373536c26f7eedf342bda6]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2014/290/regulation/52) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-03b5d58f3e373536c26f7eedf342bda6]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2014/290/regulation/52) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

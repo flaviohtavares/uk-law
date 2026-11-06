@@ -30,9 +30,9 @@ summary: ''
 
 (3) As soon as practicable after making a determination under this Part, the Secretary of State shall send a copy of the determination to the local housing authority or authorities to which it relates.
 
-(4)[^key-5db45702c664f0a2ed747ad376889a4b][^key-ebe9495d0141c7665510a58747f8bde1][^c15398091] References in this section to sending to a local housing authority a copy of a determination under this Part include references to using electronic communications for sending a copy of a determination to such address as may for the time being be notified to the Secretary of State by that authority for that purpose.
+(4)[^c-5db45702c664f0a2ed747ad376889a4b][^c-ebe9495d0141c7665510a58747f8bde1][^c15398091] References in this section to sending to a local housing authority a copy of a determination under this Part include references to using electronic communications for sending a copy of a determination to such address as may for the time being be notified to the Secretary of State by that authority for that purpose.
 
-(5)[^c15398101][^key-5db45702c664f0a2ed747ad376889a4b][^key-ebe9495d0141c7665510a58747f8bde1] For the purposes of this section a copy of a determination under this Part is also to be treated as sent to a local housing authority where—
+(5)[^c15398101][^c-5db45702c664f0a2ed747ad376889a4b][^c-ebe9495d0141c7665510a58747f8bde1] For the purposes of this section a copy of a determination under this Part is also to be treated as sent to a local housing authority where—
 
 - (a) the Secretary of State and that authority have agreed to the authority instead having access to determinations on a web site;
 - (b) the determination is a determination to which that agreement applies;
@@ -42,17 +42,17 @@ summary: ''
   - (ii) the address of that web site; and
   - (iii) the place on that web site where the determination may be accessed, and how it may be accessed.
 
-(6)[^c15398111][^key-5db45702c664f0a2ed747ad376889a4b][^key-ebe9495d0141c7665510a58747f8bde1] A local housing authority which is no longer willing to accept electronic communications for the sending of copies of determinations under this Part, may withdraw a notification of an address given to the Secretary of State for the purposes of subsection (4) above and such a withdrawal shall take effect on a date specified by the authority being a date no less than one month after the date on which the authority informs the Secretary of State that it wants to withdraw the notification of the address given.
+(6)[^c15398111][^c-5db45702c664f0a2ed747ad376889a4b][^c-ebe9495d0141c7665510a58747f8bde1] A local housing authority which is no longer willing to accept electronic communications for the sending of copies of determinations under this Part, may withdraw a notification of an address given to the Secretary of State for the purposes of subsection (4) above and such a withdrawal shall take effect on a date specified by the authority being a date no less than one month after the date on which the authority informs the Secretary of State that it wants to withdraw the notification of the address given.
 
-(7)[^c15398121][^key-5db45702c664f0a2ed747ad376889a4b][^key-ebe9495d0141c7665510a58747f8bde1] A local housing authority which has entered into an agreement with the Secretary of State under paragraph (a) of subsection (5) above may revoke the agreement and such a revocation shall take effect on a date specified by the authority being a date no less than one month after the date on which the authority informs the Secretary of State that it wants to revoke the agreement.
+(7)[^c15398121][^c-5db45702c664f0a2ed747ad376889a4b][^c-ebe9495d0141c7665510a58747f8bde1] A local housing authority which has entered into an agreement with the Secretary of State under paragraph (a) of subsection (5) above may revoke the agreement and such a revocation shall take effect on a date specified by the authority being a date no less than one month after the date on which the authority informs the Secretary of State that it wants to revoke the agreement.
 
 ## Annotations
 
 [^c15398081]: Modification: S. 87 extended (W.) (1.4.2001) by [S.I. 2001/605](https://www.legislation.gov.uk/uksi/2001/605), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/605/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2001/605/schedule)
 
-[^key-5db45702c664f0a2ed747ad376889a4b]: Modification: [S. 87(4)-(7)](https://www.legislation.gov.uk/ukpga/1989/42/section/87/4) applied (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 173(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/173/5), [240(5)(n)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/n)
+[^c-5db45702c664f0a2ed747ad376889a4b]: Modification: [S. 87(4)-(7)](https://www.legislation.gov.uk/ukpga/1989/42/section/87/4) applied (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 173(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/173/5), [240(5)(n)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/n)
 
-[^key-ebe9495d0141c7665510a58747f8bde1]: Modification: [S. 87(4)-(7)](https://www.legislation.gov.uk/ukpga/1989/42/section/87/4) applied (18.11.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 136(5)](https://www.legislation.gov.uk/anaw/2014/7/section/136/5), [145(2)](https://www.legislation.gov.uk/anaw/2014/7/section/145/2)
+[^c-ebe9495d0141c7665510a58747f8bde1]: Modification: [S. 87(4)-(7)](https://www.legislation.gov.uk/ukpga/1989/42/section/87/4) applied (18.11.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 136(5)](https://www.legislation.gov.uk/anaw/2014/7/section/136/5), [145(2)](https://www.legislation.gov.uk/anaw/2014/7/section/145/2)
 
 [^c15398091]: Textual amendment: S. 87(4)-(7) inserted (E.) (10.12.2000) by [S.I. 2000/3056](https://www.legislation.gov.uk/uksi/2000/3056), [art. 3](https://www.legislation.gov.uk/uksi/2000/3056/article/3) and the said insertion extended to Wales (1.4.2001) by [S.I. 2001/605](https://www.legislation.gov.uk/uksi/2001/605), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/605/article/2/2)
 

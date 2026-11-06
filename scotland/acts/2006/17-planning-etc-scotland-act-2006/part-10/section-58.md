@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Supplementary and consequential provision[^key-1d35e52569aa6a9ddd318cbfa33f0a7e]
+## 58. Supplementary and consequential provision[^c-1d35e52569aa6a9ddd318cbfa33f0a7e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ which they consider necessary or expedient for the purposes of, in consequence o
 
 ## Annotations
 
-[^key-1d35e52569aa6a9ddd318cbfa33f0a7e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2006/17/section/58) in force at 6.2.2007 by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-1d35e52569aa6a9ddd318cbfa33f0a7e]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2006/17/section/58) in force at 6.2.2007 by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)

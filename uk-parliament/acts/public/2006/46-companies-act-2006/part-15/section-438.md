@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 438. Public companies: offence of failure to lay accounts and reports[^c19892031][^c19892091][^c19892101][^c20617251][^key-60504bf6a9a26fdc6f079589576080e8]
+## 438. Public companies: offence of failure to lay accounts and reports[^c19892031][^c19892091][^c19892101][^c20617251][^c-60504bf6a9a26fdc6f079589576080e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) It is not a defence to prove that the documents in question were not in fact prepared as required by this Part.
 
-(4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-8803d28671cf2d78d3217407e6c00e91]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
+(4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-8803d28671cf2d78d3217407e6c00e91]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
 
 ## Annotations
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c20617251]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-60504bf6a9a26fdc6f079589576080e8]: Modification: Ss. 430-438 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2) (as amended (with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/3) of the amending [S.I](https://www.legislation.gov.uk/uksi/2013/1972/section/I).) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
+[^c-60504bf6a9a26fdc6f079589576080e8]: Modification: Ss. 430-438 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2) (as amended (with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/3) of the amending [S.I](https://www.legislation.gov.uk/uksi/2013/1972/section/I).) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
 
-[^key-8803d28671cf2d78d3217407e6c00e91]: Textual amendment: Words in s. 438(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/12) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-8803d28671cf2d78d3217407e6c00e91]: Textual amendment: Words in s. 438(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/12) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

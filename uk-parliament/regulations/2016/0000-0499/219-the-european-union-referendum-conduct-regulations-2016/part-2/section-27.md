@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Keeping of order in polling station[^key-e697660f43aeead96519f1d459185532]
+## 27. Keeping of order in polling station[^c-e697660f43aeead96519f1d459185532]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e697660f43aeead96519f1d459185532]: Commencement: Reg. 27 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-e697660f43aeead96519f1d459185532]: Commencement: Reg. 27 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66CA. Determinations by Authority[^key-fe5e3319ba8a23ca748332acc417cf51][^c19901941]
+## 66CA. Determinations by Authority[^c-fe5e3319ba8a23ca748332acc417cf51][^c19901941]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ the Authority must consult the Welsh Ministers, not the Secretary of State.
 
 ## Annotations
 
-[^key-fe5e3319ba8a23ca748332acc417cf51]: Textual amendment: S. 66CA inserted (1.4.2017 for specified purposes) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/2); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/ii)
+[^c-fe5e3319ba8a23ca748332acc417cf51]: Textual amendment: S. 66CA inserted (1.4.2017 for specified purposes) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/2); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/ii)
 
 [^c19901941]: Textual amendment: Pt. 3 Ch. 2A inserted (1.4.2004 for specified provisions and purposes and 1.12.2005 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 56](https://www.legislation.gov.uk/ukpga/2003/37/section/56), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/4/paragraph/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/641/article/3/l), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/641/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/a) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8))

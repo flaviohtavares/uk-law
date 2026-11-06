@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019[^key-010f53c26a85aa7cf8ed0a35c6fc5a7b]
+## 61. The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019[^c-010f53c26a85aa7cf8ed0a35c6fc5a7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-010f53c26a85aa7cf8ed0a35c6fc5a7b]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2020/1385/regulation/61) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-010f53c26a85aa7cf8ed0a35c6fc5a7b]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2020/1385/regulation/61) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00051]: Footnote: [S.I. 2019/681](https://www.legislation.gov.uk/uksi/2019/681).
 

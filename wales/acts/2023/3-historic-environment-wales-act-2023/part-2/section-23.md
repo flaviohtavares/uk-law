@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Determination of amount recoverable under section 22[^key-11fb55a753cdfcc503ce2cf405610471][^key-4f499cc93867cb200348aea61028790a]
+## 23. Determination of amount recoverable under section 22[^c-11fb55a753cdfcc503ce2cf405610471][^c-4f499cc93867cb200348aea61028790a]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11fb55a753cdfcc503ce2cf405610471]: Commencement: S. 23 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-11fb55a753cdfcc503ce2cf405610471]: Commencement: S. 23 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-4f499cc93867cb200348aea61028790a]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2023/3/section/23) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-4f499cc93867cb200348aea61028790a]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2023/3/section/23) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

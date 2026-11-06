@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 207. Costs of officers charged with executions of writs or other process[^key-c34514e88e483cda38f8f7def1fb611e]
+## 207. Costs of officers charged with executions of writs or other process[^c-c34514e88e483cda38f8f7def1fb611e]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c34514e88e483cda38f8f7def1fb611e]: Commencement: Rule 207 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-c34514e88e483cda38f8f7def1fb611e]: Commencement: Rule 207 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00073]: Footnote: Paragraph (1) was amended by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

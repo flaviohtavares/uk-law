@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 3(2), (2A), (3) and (5), 5(1), 6(1), 8(1), 9(1), 14(1), 17(1) and (2), 19(1) to (3), 22(5), 119 and 171(1) to (4) of, and paragraphs 4(a), 6(1) and 8(1)(a), (m) and (q) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 142(12) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, and with the concurrence of the Inland Revenue in so far as their concurrence is required, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d0d2840c57f7318a2ab9ef078276bdf0]
+## 1. Citation, commencement and interpretation[^c-d0d2840c57f7318a2ab9ef078276bdf0]
 
 (1) These Regulations may be cited as the Social Security (Contributions and Credits) (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 and shall come into operation—
 
@@ -47,7 +47,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (2) In these Regulations “the principal Regulations” means the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00004].
 
-## 2. Amendment of the Social Security (Credits) Regulations[^key-8313c262c6c31296a909b977aea024d6]
+## 2. Amendment of the Social Security (Credits) Regulations[^c-8313c262c6c31296a909b977aea024d6]
 
 In the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00005]—
 
@@ -100,7 +100,7 @@ for “upon which” in each place where it occurs there shall be substituted �
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 36 of the principal Regulations[^key-ab26c7a5490c90b9135a0d65b6add496]
+## 14. Amendment of regulation 36 of the principal Regulations[^c-ab26c7a5490c90b9135a0d65b6add496]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -150,7 +150,7 @@ Two of the Commissioners of Inland Revenue
 
 15th March 1999
 
-## SCHEDULE — Revocations[^key-dd108a560c942ab545a75cb399d62d8f]
+## SCHEDULE — Revocations[^c-dd108a560c942ab545a75cb399d62d8f]
 
 Regulation 21
 
@@ -226,13 +226,13 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-d0d2840c57f7318a2ab9ef078276bdf0]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b)
+[^c-d0d2840c57f7318a2ab9ef078276bdf0]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b)
 
 [^f00003]: Footnote: [S.R. 1999 No. 117](https://www.legislation.gov.uk/nisr/1999/117)
 
 [^f00004]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1980 No. 463](https://www.legislation.gov.uk/nisr/1980/463), [S.R. 1981 No. 30](https://www.legislation.gov.uk/nisr/1981/30), [S.R. 1982 Nos. 69](https://www.legislation.gov.uk/nisr/1982/69) and [267](https://www.legislation.gov.uk/nisr/1982/267), [S.R. 1983 No. 64](https://www.legislation.gov.uk/nisr/1983/64), [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), [S.R. 1985 Nos. 61](https://www.legislation.gov.uk/nisr/1985/61) and [260](https://www.legislation.gov.uk/nisr/1985/260), [S.R. 1987 Nos. 143](https://www.legislation.gov.uk/nisr/1987/143) and [468](https://www.legislation.gov.uk/nisr/1987/468), [S.R. 1989 Nos. 70](https://www.legislation.gov.uk/nisr/1989/70) and [384](https://www.legislation.gov.uk/nisr/1989/384), [S.R. 1991 Nos. 106](https://www.legislation.gov.uk/nisr/1991/106) and [404](https://www.legislation.gov.uk/nisr/1991/404), [S.R. 1992 Nos. 41](https://www.legislation.gov.uk/nisr/1992/41) and [280](https://www.legislation.gov.uk/nisr/1992/280), [S.R. 1996 Nos. 108](https://www.legislation.gov.uk/nisr/1996/108) and [433](https://www.legislation.gov.uk/nisr/1996/433), [S.R. 1997 No. 163](https://www.legislation.gov.uk/nisr/1997/163), [S.R. 1998 Nos. 72](https://www.legislation.gov.uk/nisr/1998/72) and [317](https://www.legislation.gov.uk/nisr/1998/317) and [S.R. 1999 No. 117](https://www.legislation.gov.uk/nisr/1999/117)
 
-[^key-8313c262c6c31296a909b977aea024d6]: Commencement: Reg. 2 in operation at 6.4.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b)
+[^c-8313c262c6c31296a909b977aea024d6]: Commencement: Reg. 2 in operation at 6.4.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b)
 
 [^f00005]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending regulations are [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153) and [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
@@ -242,8 +242,8 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^M_F_2b1bd046-4302-40e0-e045-0257d17bfa18]: Textual amendment: Regs. 3-13 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
 
-[^key-ab26c7a5490c90b9135a0d65b6add496]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/1999/118/regulation/14) revoked (6.4.2001) by [The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 (S.R. 2001/102)](https://www.legislation.gov.uk/nisr/2001/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2001/102/regulation/11), [Sch.](https://www.legislation.gov.uk/nisr/2001/102/schedule)
+[^c-ab26c7a5490c90b9135a0d65b6add496]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/1999/118/regulation/14) revoked (6.4.2001) by [The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 (S.R. 2001/102)](https://www.legislation.gov.uk/nisr/2001/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/102/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2001/102/regulation/11), [Sch.](https://www.legislation.gov.uk/nisr/2001/102/schedule)
 
 [^M_F_f42841a9-36b9-4074-dd53-7389d8c51fda]: Textual amendment: Regs. 15-21 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
 
-[^key-dd108a560c942ab545a75cb399d62d8f]: Commencement: Sch. in operation at 6.4.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b)
+[^c-dd108a560c942ab545a75cb399d62d8f]: Commencement: Sch. in operation at 6.4.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b)

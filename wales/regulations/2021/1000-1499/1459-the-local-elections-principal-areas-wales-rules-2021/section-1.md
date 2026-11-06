@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title and commencement[^key-7de51ae32f01dbc8fb3ac78e283f1166][^key-c766754d31525ec66061991e62c902fe]
+## 1. Title and commencement[^c-7de51ae32f01dbc8fb3ac78e283f1166][^c-c766754d31525ec66061991e62c902fe]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The title of these Rules is the Local Elections (Principal Areas) (Wales) Rules 
 
 ## Annotations
 
-[^key-7de51ae32f01dbc8fb3ac78e283f1166]: Commencement: Rule 1 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-7de51ae32f01dbc8fb3ac78e283f1166]: Commencement: Rule 1 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-c766754d31525ec66061991e62c902fe]: Modification: [Rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1) applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/22) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-c766754d31525ec66061991e62c902fe]: Modification: [Rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1) applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/22) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))

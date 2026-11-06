@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Disclosure of information by civil registration officials[^key-84b84559a9308ccab5e54bbb19f8f2a2][^key-676a8e37e463a1edf3618f308e0d5d9c]
+## 46. Disclosure of information by civil registration officials[^c-84b84559a9308ccab5e54bbb19f8f2a2][^c-676a8e37e463a1edf3618f308e0d5d9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -143,6 +143,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84b84559a9308ccab5e54bbb19f8f2a2]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/30/section/46) in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/o)
+[^c-84b84559a9308ccab5e54bbb19f8f2a2]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/30/section/46) in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/o)
 
-[^key-676a8e37e463a1edf3618f308e0d5d9c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/30/section/46) in force at 1.5.2018 in so far as not already in force except for the purposes of N.I. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
+[^c-676a8e37e463a1edf3618f308e0d5d9c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/30/section/46) in force at 1.5.2018 in so far as not already in force except for the purposes of N.I. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)

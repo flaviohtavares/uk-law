@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**206.**[^key-98e41e20debbf70e6ce61bd284a2be3d] In section 115 (complaints regulations: supplementary) in subsection (1) omit “or (3)”.
+**206.**[^c-98e41e20debbf70e6ce61bd284a2be3d] In section 115 (complaints regulations: supplementary) in subsection (1) omit “or (3)”.
 
 ## Annotations
 
-[^key-98e41e20debbf70e6ce61bd284a2be3d]: Commencement: Reg. 206 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-98e41e20debbf70e6ce61bd284a2be3d]: Commencement: Reg. 206 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Removal[^key-803988c1ee621ed9c48fd9a029a6e911]
+## 125. Removal[^c-803988c1ee621ed9c48fd9a029a6e911]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.170 of the 1991 Rules.
 
 ## Annotations
 
-[^key-803988c1ee621ed9c48fd9a029a6e911]: Commencement: Rule 125 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-803988c1ee621ed9c48fd9a029a6e911]: Commencement: Rule 125 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

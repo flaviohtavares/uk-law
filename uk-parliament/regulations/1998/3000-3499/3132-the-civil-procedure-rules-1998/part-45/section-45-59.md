@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.59. Disbursements – Section VI[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.59. Disbursements – Section VI[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
-Subject to rule 45.15A, in a claim[^key-f94246b75bb018c169f7dc56883070aa] to which Section VI applies, the court may allow a claim for a disbursement of a type in mentioned in paragraphs (a) and (b)—[^key-7a216f4363b47981916b423e433bada9]
+Subject to rule 45.15A, in a claim[^c-f94246b75bb018c169f7dc56883070aa] to which Section VI applies, the court may allow a claim for a disbursement of a type in mentioned in paragraphs (a) and (b)—[^c-7a216f4363b47981916b423e433bada9]
 
 - (a) in a claim started under a relevant Protocol to which Section IV applies—
   - (i) the applicable disbursements referred to in rule 45.58(a) and (b) and (d) to (f);
@@ -34,8 +34,8 @@ Subject to rule 45.15A, in a claim[^key-f94246b75bb018c169f7dc56883070aa] to whi
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-f94246b75bb018c169f7dc56883070aa]: Textual amendment: Words in rule 45.59 substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(8)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/8)
+[^c-f94246b75bb018c169f7dc56883070aa]: Textual amendment: Words in rule 45.59 substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(8)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/8)
 
-[^key-7a216f4363b47981916b423e433bada9]: Textual amendment: Words in rule 45.59 substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(9)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/9)
+[^c-7a216f4363b47981916b423e433bada9]: Textual amendment: Words in rule 45.59 substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(9)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/9)

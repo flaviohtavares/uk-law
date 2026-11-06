@@ -24,15 +24,15 @@ Section 38
 
 ### Part 1 — Eligibility to be UK representative
 
-**1.**[^key-63a05d5f5d18ff1ee5b6ee9352a10b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-63a05d5f5d18ff1ee5b6ee9352a10b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-63a05d5f5d18ff1ee5b6ee9352a10b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-63a05d5f5d18ff1ee5b6ee9352a10b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Eligibility to be agent of independent status
 
 #### FA 2003
 
-**3.**[^key-68908ed72caa7310864d260e23f7c6e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-68908ed72caa7310864d260e23f7c6e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### ITA 2007
 
@@ -60,11 +60,11 @@ Section 38
 
 #### FA 2003
 
-**7.**[^key-d7c5a01421620f32e69b828301c8fde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d7c5a01421620f32e69b828301c8fde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d7c5a01421620f32e69b828301c8fde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d7c5a01421620f32e69b828301c8fde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d7c5a01421620f32e69b828301c8fde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d7c5a01421620f32e69b828301c8fde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### ITA 2007
 
@@ -76,9 +76,9 @@ Section 38
 
 ### Part 4 — Commencement
 
-**11.** (1)[^key-569c7c913f1da3acbb2804966891a25d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.** (1)[^c-569c7c913f1da3acbb2804966891a25d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-324437c6ca95a079d0d2791d04ba35b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-324437c6ca95a079d0d2791d04ba35b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The amendments made by paragraph 10 have effect for the tax year 2008-09 and subsequent tax years.
 
@@ -101,12 +101,12 @@ continue to have effect until such time as the first regulations under the new r
 
 ## Annotations
 
-[^key-63a05d5f5d18ff1ee5b6ee9352a10b32]: Textual amendment: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/2) repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-63a05d5f5d18ff1ee5b6ee9352a10b32]: Textual amendment: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/2) repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-68908ed72caa7310864d260e23f7c6e9]: Textual amendment: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-68908ed72caa7310864d260e23f7c6e9]: Textual amendment: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d7c5a01421620f32e69b828301c8fde2]: Textual amendment: [Sch. 16 paras. 7-9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d7c5a01421620f32e69b828301c8fde2]: Textual amendment: [Sch. 16 paras. 7-9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-569c7c913f1da3acbb2804966891a25d]: Textual amendment: [Sch. 16 para. 11(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/11/1) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-569c7c913f1da3acbb2804966891a25d]: Textual amendment: [Sch. 16 para. 11(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/11/1) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 11](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/11) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-324437c6ca95a079d0d2791d04ba35b6]: Textual amendment: [Sch. 16 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/11/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-324437c6ca95a079d0d2791d04ba35b6]: Textual amendment: [Sch. 16 para. 11(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/11/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

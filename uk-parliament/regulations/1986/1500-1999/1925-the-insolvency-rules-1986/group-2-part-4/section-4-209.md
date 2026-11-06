@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.209. Accounting[^key-f2164f35b27913ba8aac6a62bb3b52b5]
+## 4.209. Accounting[^c-f2164f35b27913ba8aac6a62bb3b52b5]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2164f35b27913ba8aac6a62bb3b52b5]: Commencement: [Rule 4.209](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.209) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f2164f35b27913ba8aac6a62bb3b52b5]: Commencement: [Rule 4.209](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.209) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

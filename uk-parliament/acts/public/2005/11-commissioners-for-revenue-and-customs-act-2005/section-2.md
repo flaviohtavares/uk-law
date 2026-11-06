@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Officers of Revenue and Customs[^key-4a81ca8c336269512ce2aa7f060f4d47]
+## 2. Officers of Revenue and Customs[^c-4a81ca8c336269512ce2aa7f060f4d47]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) An officer of Revenue and Customs shall comply with directions of the Commissioners (whether he is exercising a function conferred on officers of Revenue and Customs or exercising a function on behalf of the Commissioners).
 
-(4)[^key-25adc09d9cacf1c9e9cb9d3aa5322193][^key-ebde7c3e3982057af914138c5971e81c] Anything (including anything in relation to legal proceedings) begun by or in relation to one officer of Revenue and Customs may be continued by or in relation to another.
+(4)[^c-25adc09d9cacf1c9e9cb9d3aa5322193][^c-ebde7c3e3982057af914138c5971e81c] Anything (including anything in relation to legal proceedings) begun by or in relation to one officer of Revenue and Customs may be continued by or in relation to another.
 
 (5) Appointments under subsection (1) may be made only with the approval of the Minister for the Civil Service as to terms and conditions of service.
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4a81ca8c336269512ce2aa7f060f4d47]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/11/section/2) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-4a81ca8c336269512ce2aa7f060f4d47]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/11/section/2) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-25adc09d9cacf1c9e9cb9d3aa5322193]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2005/11/section/2/4) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 11(7)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/11/7/a), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-25adc09d9cacf1c9e9cb9d3aa5322193]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2005/11/section/2/4) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 11(7)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/11/7/a), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-ebde7c3e3982057af914138c5971e81c]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2005/11/section/2/4) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/8/a), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-ebde7c3e3982057af914138c5971e81c]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2005/11/section/2/4) modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/8/a), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 7
 
-**1.**[^key-55f3a6fba7595aba6fb73cb2eae908fd] (1) The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 are amended as follows.
+**1.**[^c-55f3a6fba7595aba6fb73cb2eae908fd] (1) The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -51,4 +51,4 @@ Regulation 7
 
 ## Annotations
 
-[^key-55f3a6fba7595aba6fb73cb2eae908fd]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 immediately before the coming into force of regulation 10 of the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019, see reg. 1(3)
+[^c-55f3a6fba7595aba6fb73cb2eae908fd]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 immediately before the coming into force of regulation 10 of the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019, see reg. 1(3)

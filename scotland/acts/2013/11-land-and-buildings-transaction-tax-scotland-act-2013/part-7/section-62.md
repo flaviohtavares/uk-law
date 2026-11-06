@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Meaning of “market value”[^key-97b8a922ce1124a88c8a131cd6c5c13e]
+## 62. Meaning of “market value”[^c-97b8a922ce1124a88c8a131cd6c5c13e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purpose of this Act “market value” is to be determined as for the pu
 
 ## Annotations
 
-[^key-97b8a922ce1124a88c8a131cd6c5c13e]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2013/11/section/62) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-97b8a922ce1124a88c8a131cd6c5c13e]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2013/11/section/62) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

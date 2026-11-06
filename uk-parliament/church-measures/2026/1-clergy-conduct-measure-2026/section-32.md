@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 32. Vexatious litigant: application for restraint order[^key-2ef469fd53386303b7544a96dac46791]
+## 32. Vexatious litigant: application for restraint order[^c-2ef469fd53386303b7544a96dac46791]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ef469fd53386303b7544a96dac46791]: Commencement: S. 32 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-2ef469fd53386303b7544a96dac46791]: Commencement: S. 32 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Pharmaceutical Services) Regulations 2012 (revoked)[^key-81b85aa034d40da87d71a3093c19ff17]
+The National Health Service (Pharmaceutical Services) Regulations 2012 (revoked)[^c-81b85aa034d40da87d71a3093c19ff17]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 1st September 2012
 
-[^key-81b85aa034d40da87d71a3093c19ff17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81b85aa034d40da87d71a3093c19ff17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 1 — Introductory[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Pharmaceutical needs assessments[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 2 — Pharmaceutical needs assessments[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ Coming into force
 - [Section 8 — Consultation on pharmaceutical needs assessments](part-2/section-8.md)
 - [Section 9 — Matters for consideration when making assessments](part-2/section-9.md)
 
-### PART 3 — General matters relating to pharmaceutical lists and applications in respect of them[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 3 — General matters relating to pharmaceutical lists and applications in respect of them[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -93,7 +93,7 @@ Coming into force
 - [Section 21 — Future improvements or better access: consequences of additional matters](part-3/section-21.md)
 - [Section 22 — Refusal of routine applications that are based on neither a pharmaceutical needs assessment nor unforeseen benefits](part-3/section-22.md)
 
-### PART 4 — Excepted applications[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 4 — Excepted applications[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -107,7 +107,7 @@ Coming into force
 - [Section 28 — Applications from persons exercising a right of return to a pharmaceutical list](part-4/section-28.md)
 - [Section 29 — Applications relating to emergencies requiring the flexible provision of pharmaceutical services](part-4/section-29.md)
 
-### PART 5 — Specific grounds for refusal or deferral of applications under Parts 3 and 4 which are not linked to fitness grounds[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 5 — Specific grounds for refusal or deferral of applications under Parts 3 and 4 which are not linked to fitness grounds[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -117,7 +117,7 @@ Coming into force
 - [Section 31 — Refusal: same or adjacent premises](part-5/section-31.md)
 - [Section 32 — Deferrals arising out of LPS designations](part-5/section-32.md)
 
-### PART 6 — Refusal, deferral and conditional inclusion in pharmaceutical lists of chemists on fitness grounds[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 6 — Refusal, deferral and conditional inclusion in pharmaceutical lists of chemists on fitness grounds[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -127,7 +127,7 @@ Coming into force
 - [Section 34 — Deferral of consideration of applications for inclusion in a pharmaceutical list on fitness grounds](part-6/section-34.md)
 - [Section 35 — Granting applications for inclusion in a pharmaceutical list subject to efficiency conditions and conditions to combat fraud](part-6/section-35.md)
 
-### PART 7 — Areas that are controlled localities and reserved locations, and new pharmacies within them[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 7 — Areas that are controlled localities and reserved locations, and new pharmacies within them[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -144,7 +144,7 @@ Coming into force
 - [Section 44 — Prejudice test in respect of routine applications for new pharmacy premises in a part of a controlled locality that is not a reserved location](part-7/section-44.md)
 - [Section 45 — Appeals against decisions under Part 7](part-7/section-45.md)
 
-### PART 8 — Dispensing doctors[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 8 — Dispensing doctors[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -169,7 +169,7 @@ Coming into force
 - [Section 62 — Persons barred from taking part in decision making with regard to applications for outline consent or premises approval](part-8/section-62.md)
 - [Section 63 — Appeals against decisions under Part 8](part-8/section-63.md)
 
-### PART 9 — Conditional inclusion in pharmaceutical lists: certain specific conditions that do not relate to fitness or performance[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 9 — Conditional inclusion in pharmaceutical lists: certain specific conditions that do not relate to fitness or performance[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -181,7 +181,7 @@ Coming into force
 - [Section 67 — Conditions relating to voluntary closure of premises](part-9/section-67.md)
 - [Section 68 — Conditions relating to local resolution of disputes over terms of service](part-9/section-68.md)
 
-### PART 10 — Performance related sanctions and market exit[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 10 — Performance related sanctions and market exit[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -197,7 +197,7 @@ Coming into force
 - [Section 76 — Limitation on withdrawal from pharmaceutical lists while fitness investigations or proceedings are ongoing](part-10/section-76.md)
 - [Section 77 — Appeals against decisions under Part 10](part-10/section-77.md)
 
-### PART 11 — Enforcement, reviews and appeals relating to fitness matters[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 11 — Enforcement, reviews and appeals relating to fitness matters[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -215,7 +215,7 @@ Coming into force
 - [Section 87 — Review periods for national disqualifications](part-11/section-87.md)
 - [Section 88 — Wider notifications of fitness decisions](part-11/section-88.md)
 
-### PART 12 — Remuneration, charges and refunds[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 12 — Remuneration, charges and refunds[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -232,7 +232,7 @@ Coming into force
 - [Section 97 — Reward scheme](part-12/section-97.md)
 - [Section 98 — Payments to suspended chemists](part-12/section-98.md)
 
-### PART 13 — Miscellaneous[^key-81b85aa034d40da87d71a3093c19ff17]
+### PART 13 — Miscellaneous[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -259,14 +259,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-81b85aa034d40da87d71a3093c19ff17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81b85aa034d40da87d71a3093c19ff17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-81b85aa034d40da87d71a3093c19ff17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81b85aa034d40da87d71a3093c19ff17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81b85aa034d40da87d71a3093c19ff17]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/11/1/a) (with [Sch. 9](https://www.legislation.gov.uk/uksi/2013/349/schedule/9))
+[^c-81b85aa034d40da87d71a3093c19ff17]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/11/1/a) (with [Sch. 9](https://www.legislation.gov.uk/uksi/2013/349/schedule/9))

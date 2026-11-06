@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Striking out[^key-9884828cbeee1a38c2b7f4d20b58ecc7]
+## 38. Striking out[^c-9884828cbeee1a38c2b7f4d20b58ecc7]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9884828cbeee1a38c2b7f4d20b58ecc7]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2024/1155/rule/38) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-9884828cbeee1a38c2b7f4d20b58ecc7]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2024/1155/rule/38) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

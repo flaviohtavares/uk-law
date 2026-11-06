@@ -49,7 +49,7 @@ In accordance with section 104(2) of the Water Act 2003 and section 90(3) of the
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-9f373f3852ea6fade488bc6af093e973]
+### 1. Citation, commencement and interpretation[^c-9f373f3852ea6fade488bc6af093e973]
 
 (1) This Order may be cited as the Water Act 2014 (Consequential Amendments etc.) Order 2017 and comes into force on the day after the day on which it is made.
 
@@ -60,15 +60,15 @@ In accordance with section 104(2) of the Water Act 2003 and section 90(3) of the
 
 ## PART 2 — Consequential amendments to primary legislation
 
-### 2. Telecommunications Act 1984[^key-823ea69128b3606014918946d822d73f]
+### 2. Telecommunications Act 1984[^c-823ea69128b3606014918946d822d73f]
 
 In section 101(3)(j) of the Telecommunications Act 1984[^f00004], at the end insert “or the Water Act 2014”.
 
-### 3. Airports Act 1986[^key-babe0a126ccd4933f47e6b570e2359b1]
+### 3. Airports Act 1986[^c-babe0a126ccd4933f47e6b570e2359b1]
 
 In section 74(3)(k) of the Airports Act 1986[^f00005], at the end insert “or the Water Act 2014”.
 
-### 4. Water Act 1989[^key-4665337b166b1fde8fbf004f7828ba81]
+### 4. Water Act 1989[^c-4665337b166b1fde8fbf004f7828ba81]
 
 In section 174(2) of the Water Act 1989[^f00006]—
 
@@ -76,11 +76,11 @@ In section 174(2) of the Water Act 1989[^f00006]—
 - (b) in paragraph (b), after “by or under this Act” insert “, the Water Act 2014”;
 - (c) in paragraph (j), after “the Water Act 2003” insert “, the Water Act 2014”.
 
-### 5. Food Safety Act 1990[^key-9a44c77f298e28d70990f19eb6cc1196]
+### 5. Food Safety Act 1990[^c-9a44c77f298e28d70990f19eb6cc1196]
 
 In section 55(b) of the Food Safety Act 1990[^f00007], for “licensed water supplier” substitute “water supply licensee”.
 
-### 6. The 1991 Act[^key-4b51cd239131913bc3988ff22bc8c34f]
+### 6. The 1991 Act[^c-4b51cd239131913bc3988ff22bc8c34f]
 
 (1) The 1991 Act is amended as follows.
 
@@ -114,7 +114,7 @@ In section 55(b) of the Food Safety Act 1990[^f00007], for “licensed water sup
   - (i) after “the Water Act 2003”, in the first place it occurs, insert “, the Water Act 2014”;
   - (ii) for “or the Water Act 2003” substitute “, the Water Act 2003 or the Water Act 2014”.
 
-### 7. Water Resources Act 1991[^key-36247e6914cdfa766327521451f26021]
+### 7. Water Resources Act 1991[^c-36247e6914cdfa766327521451f26021]
 
 In section 204(2) of the Water Resources Act 1991[^f00015]—
 
@@ -124,7 +124,7 @@ In section 204(2) of the Water Resources Act 1991[^f00015]—
   - (i) after “the Water Act 2003”, in the first place it occurs, insert “, the Water Act 2014”;
   - (ii) for “or the Water Act 2003” substitute “, the Water Act 2003 or the Water Act 2014”.
 
-### 8. Railways Act 1993[^key-bacf8ab2d7ffbdbc5a362fcfed683d49]
+### 8. Railways Act 1993[^c-bacf8ab2d7ffbdbc5a362fcfed683d49]
 
 In section 145 of the Railways Act 1993[^f00016]—
 
@@ -140,7 +140,7 @@ In section 145 of the Railways Act 1993[^f00016]—
 
   .
 
-### 9. Coal Industry Act 1994[^key-4cf6e3b206983e25dfce82ca72425a4d]
+### 9. Coal Industry Act 1994[^c-4cf6e3b206983e25dfce82ca72425a4d]
 
 In section 59(4) of the Coal Industry Act 1994[^f00017], after paragraph (s) insert—
 
@@ -148,7 +148,7 @@ In section 59(4) of the Coal Industry Act 1994[^f00017], after paragraph (s) ins
 
 .
 
-### 10. Environment Act 1995[^key-3f89b553589bf2d0673ae73a868c792e]
+### 10. Environment Act 1995[^c-3f89b553589bf2d0673ae73a868c792e]
 
 (1) The Environment Act 1995 is amended as follows.
 
@@ -164,7 +164,7 @@ In section 59(4) of the Coal Industry Act 1994[^f00017], after paragraph (s) ins
 - (a) as it applies to England and Wales, at the end insert “or regulations under section 61 of the Water Act 2014 extending to England and Wales”;
 - (b) as it applies to Scotland, after “extending to Scotland” insert “, under section 61 of the Water Act 2014 extending to Scotland”.
 
-### 11. Greater London Authority Act 1999[^key-4381980d25b62687f64516ceec1277e9]
+### 11. Greater London Authority Act 1999[^c-4381980d25b62687f64516ceec1277e9]
 
 In section 235 of the Greater London Authority Act 1999[^f00021]—
 
@@ -185,11 +185,11 @@ In section 235 of the Greater London Authority Act 1999[^f00021]—
 
     .
 
-### 12. Utilities Act 2000[^key-6328b90fd86572d95ffa43731961ca82]
+### 12. Utilities Act 2000[^c-6328b90fd86572d95ffa43731961ca82]
 
 In section 105(6)(l) of the Utilities Act 2000[^f00022], at the end insert “or the Water Act 2014”.
 
-### 13. Transport Act 2000[^key-bb628aadf967d97d3926ff0a34d681a0]
+### 13. Transport Act 2000[^c-bb628aadf967d97d3926ff0a34d681a0]
 
 In paragraph 3(3) of Schedule 9 to the Transport Act 2000[^f00023], after paragraph (rg) insert—
 
@@ -197,7 +197,7 @@ In paragraph 3(3) of Schedule 9 to the Transport Act 2000[^f00023], after paragr
 
 .
 
-### 14. Enterprise Act 2002[^key-159adc96428bb43cc94b379c6f53395c]
+### 14. Enterprise Act 2002[^c-159adc96428bb43cc94b379c6f53395c]
 
 In Schedule 15 to the Enterprise Act 2002[^f00024], after the entry relating to the Energy Act 2013 insert—
 
@@ -205,7 +205,7 @@ In Schedule 15 to the Enterprise Act 2002[^f00024], after the entry relating to 
 
 .
 
-### 15. Regulatory Enforcement and Sanctions Act 2008[^key-3c7c90e426237cd725130b2f78c81241]
+### 15. Regulatory Enforcement and Sanctions Act 2008[^c-3c7c90e426237cd725130b2f78c81241]
 
 In Schedule 7 to the Regulatory Enforcement and Sanctions Act 2008[^f00025], after the entry relating to the Vehicle Excise and Registration Act 1994 insert—
 
@@ -213,7 +213,7 @@ In Schedule 7 to the Regulatory Enforcement and Sanctions Act 2008[^f00025], aft
 
 .
 
-### 16. Civil Aviation Act 2012[^key-9e3c5d4a32ade55d7e5a0548e33fa897]
+### 16. Civil Aviation Act 2012[^c-9e3c5d4a32ade55d7e5a0548e33fa897]
 
 In paragraph 4(3) of Schedule 6 to the Civil Aviation Act 2012[^f00026], after the entry for the Enterprise and Regulatory Reform Act 2013 insert—
 
@@ -223,11 +223,11 @@ In paragraph 4(3) of Schedule 6 to the Civil Aviation Act 2012[^f00026], after t
 
 ## PART 3 — Consequential amendments and modifications to secondary legislation
 
-### 17. The Water Supply (Water Fittings) Regulations 1999[^key-9f26397fa10b33cb6cbb5b323049e788]
+### 17. The Water Supply (Water Fittings) Regulations 1999[^c-9f26397fa10b33cb6cbb5b323049e788]
 
 In regulations 2, 3, 5 and 12(1)(aa) of, and Schedules 1 and 2 to, the Water Supply (Water Fittings) Regulations 1999[^f00027], for “licensed water supplier”, in each place it occurs, substitute “water supply licensee”.
 
-### 18. The Drinking Water (Undertakings) (England and Wales) Regulations 2000[^key-fb276c3aa825ca604818d72c274aa47a]
+### 18. The Drinking Water (Undertakings) (England and Wales) Regulations 2000[^c-fb276c3aa825ca604818d72c274aa47a]
 
 (1) The Drinking Water (Undertakings) (England and Wales) Regulations 2000[^f00028] are amended as follows.
 
@@ -249,7 +249,7 @@ In regulations 2, 3, 5 and 12(1)(aa) of, and Schedules 1 and 2 to, the Water Sup
 
 (4) In regulation 4(d), for “company” substitute “person”.
 
-### 19. The Water Industry (Determination of Turnover for Penalties) Order 2005[^key-3e5db57334a61cab9d2b2e6d9462b3f9]
+### 19. The Water Industry (Determination of Turnover for Penalties) Order 2005[^c-3e5db57334a61cab9d2b2e6d9462b3f9]
 
 (1) The Water Industry (Determination of Turnover for Penalties) Order 2005[^f00030] is amended as follows.
 
@@ -293,7 +293,7 @@ In regulations 2, 3, 5 and 12(1)(aa) of, and Schedules 1 and 2 to, the Water Sup
 
     .
 
-### 20. The Water Supply (Fluoridation Indemnities) (England) Regulations 2005[^key-adf63fb1824feda6dc0800bdb47e5b9c]
+### 20. The Water Supply (Fluoridation Indemnities) (England) Regulations 2005[^c-adf63fb1824feda6dc0800bdb47e5b9c]
 
 (1) The Water Supply (Fluoridation Indemnities) (England) Regulations 2005[^f00033] are amended as follows.
 
@@ -306,11 +306,11 @@ In regulations 2, 3, 5 and 12(1)(aa) of, and Schedules 1 and 2 to, the Water Sup
 - (a) in the heading, for “LICENSED WATER SUPPLIERS” substitute “WATER SUPPLY LICENSEES”;
 - (b) for “licensed water supplier”, in each place it occurs, substitute “water supply licensee”.
 
-### 21. The Water Supply (Exceptions from Supply System Prohibitions) Regulations 2005[^key-0da2c1604ebf24b2059423a12fb4aaa0]
+### 21. The Water Supply (Exceptions from Supply System Prohibitions) Regulations 2005[^c-0da2c1604ebf24b2059423a12fb4aaa0]
 
 In regulation 3(3)(a)(i) of the Water Supply (Exceptions from Supply System Prohibitions) Regulations 2005[^f00034], for “licensed water supplier” substitute “water supply licensee”.
 
-### 22. The Water Supply Licence (New Customer Exception) Regulations 2005[^key-d3b2d24d734e767f6dc6f60e762a6e2b]
+### 22. The Water Supply Licence (New Customer Exception) Regulations 2005[^c-d3b2d24d734e767f6dc6f60e762a6e2b]
 
 (1) The Water Supply Licence (New Customer Exception) Regulations 2005[^f00035] are amended as follows.
 
@@ -320,7 +320,7 @@ In regulation 3(3)(a)(i) of the Water Supply (Exceptions from Supply System Proh
 
 (4) In regulation 5(1), for “licensed water supplier”, in each place it occurs, substitute “water supply licensee”.
 
-### 23. The Water Resale Order 2006[^key-1144caf14a2d6870e5ba2191734b59ea]
+### 23. The Water Resale Order 2006[^c-1144caf14a2d6870e5ba2191734b59ea]
 
 In the Water Resale Order 2006[^f00036] made under section 150 of the 1991 Act[^f00037] by the Director General of Water Services[^f00038]—
 
@@ -332,19 +332,19 @@ In the Water Resale Order 2006[^f00036] made under section 150 of the 1991 Act[^
   ;
 - (c) in paragraphs 6 and 9, “licensed water supplier”, in each place it occurs, has effect as if it read “water supply licensee or sewerage licensee”.
 
-### 24. The Cross-Border Insolvency Regulations 2006[^key-d720a7042ec0c39120866ae1eeeeb5e3]
+### 24. The Cross-Border Insolvency Regulations 2006[^c-d720a7042ec0c39120866ae1eeeeb5e3]
 
 In Article 1 of Schedule 1 to the Cross-Border Insolvency Regulations 2006[^f00039], in paragraph 2(a), for “licensed water supplier” substitute “water supply licensee”.
 
-### 25. The Water Industry (Special Administration) Rules 2009[^key-f951ba0ea0b64c7d342cd453dc0794bd]
+### 25. The Water Industry (Special Administration) Rules 2009[^c-f951ba0ea0b64c7d342cd453dc0794bd]
 
 In rules 3(1), 7(3) and (4)(b) and 8(1)(a) of the Water Industry (Special Administration) Rules 2009[^f00040], for “licensed water supplier” substitute “water supply licensee”.
 
-### 26. The Flood Risk Regulations 2009[^key-de78e3e137ed5dbeffb769d7da3bf760]
+### 26. The Flood Risk Regulations 2009[^c-de78e3e137ed5dbeffb769d7da3bf760]
 
 In regulation 36(3)(e) of the Flood Risk Regulations 2009[^f00041], after “the Water Industry Act 1991 or” insert “a person who holds”.
 
-### 27. The Private Water Supplies (Wales) Regulations 2010[^key-a0a2e848afea06794dbe987ff7d078d0]
+### 27. The Private Water Supplies (Wales) Regulations 2010[^c-a0a2e848afea06794dbe987ff7d078d0]
 
 (1) Regulation 8 of the Private Water Supplies (Wales) Regulations 2010[^f00042] is amended as follows—
 
@@ -355,11 +355,11 @@ In regulation 36(3)(e) of the Flood Risk Regulations 2009[^f00041], after “the
   - (i) in the heading, for “gyflenwyr dŵr trwyddedig” substitute “drwyddedeion cyflenwi dŵr”;
   - (ii) for “gyflenwr dŵr trwyddedig”, in both places it occurs, substitute “drwyddedai cyflenwi dŵr”.
 
-### 28. The Water Supply (Water Quality) Regulations 2010[^key-59eef35e674961668dc28b00692263e5]
+### 28. The Water Supply (Water Quality) Regulations 2010[^c-59eef35e674961668dc28b00692263e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. The Postal Services Act 2011 (Disclosure of Information) Order 2012[^key-f8b423eb89cbfd9a259eb1f56369b7b6]
+### 29. The Postal Services Act 2011 (Disclosure of Information) Order 2012[^c-f8b423eb89cbfd9a259eb1f56369b7b6]
 
 In article 4 of the Postal Services Act 2011 (Disclosure of Information) Order 2012[^f00045], after the entry for the Energy Act 2013 insert—
 
@@ -367,7 +367,7 @@ In article 4 of the Postal Services Act 2011 (Disclosure of Information) Order 2
 
 .
 
-### 30. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^key-17097f03ef5f1b87f5e1b36c11a7379f]
+### 30. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^c-17097f03ef5f1b87f5e1b36c11a7379f]
 
 (1) The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^f00046] are amended as follows.
 
@@ -544,11 +544,11 @@ In article 4 of the Postal Services Act 2011 (Disclosure of Information) Order 2
 
 (16) In paragraph 16(2)(a)(i), in paragraph (a)(i) of the definition of “customer or potential customer” as it has effect as substituted by that paragraph, for “licensed water supplier” substitute “water supply licensee or sewerage licensee”.
 
-### 31. The Insolvency (Protection of Essential Supplies) Order 2015[^key-3b0a61e7b32cb8de813a2111f7eeccdd]
+### 31. The Insolvency (Protection of Essential Supplies) Order 2015[^c-3b0a61e7b32cb8de813a2111f7eeccdd]
 
 In article 2 of the Insolvency (Protection of Essential Supplies) Order 2015[^f00056], omit paragraph (4).
 
-### 32. The Water Supply (Water Quality) Regulations 2016[^key-f2374e4f0db38441fe4663806779ce51]
+### 32. The Water Supply (Water Quality) Regulations 2016[^c-f2374e4f0db38441fe4663806779ce51]
 
 (1) The Water Supply (Water Quality) Regulations 2016[^f00057] are amended as follows.
 
@@ -579,7 +579,7 @@ In article 2 of the Insolvency (Protection of Essential Supplies) Order 2015[^f0
 
 .
 
-### 33. The Private Water Supplies (England) Regulations 2016[^key-dcf9eeea6ec915eb4ab408ebfc75bf3e]
+### 33. The Private Water Supplies (England) Regulations 2016[^c-dcf9eeea6ec915eb4ab408ebfc75bf3e]
 
 (1) The Private Water Supplies (England) Regulations 2016[^f00059] are amended as follows.
 
@@ -592,7 +592,7 @@ In article 2 of the Insolvency (Protection of Essential Supplies) Order 2015[^f0
 
 ## PART 4 — Transitional provision
 
-### 34. The 1991 Act[^key-050aa4ff14c23f3a626c80b56fc748d8]
+### 34. The 1991 Act[^c-050aa4ff14c23f3a626c80b56fc748d8]
 
 The amendments made to section 185 of the 1991 Act[^f00060] by article 6(5) do not have effect—
 
@@ -623,27 +623,27 @@ Impact assessments of the effect that the 2014 Act will have on the costs of bus
 
 [^f00002]: Footnote: [2014 c. 21](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-9f373f3852ea6fade488bc6af093e973]: Commencement: Art. 1 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-9f373f3852ea6fade488bc6af093e973]: Commencement: Art. 1 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00003]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-823ea69128b3606014918946d822d73f]: Commencement: Art. 2 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-823ea69128b3606014918946d822d73f]: Commencement: Art. 2 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00004]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12); section 101(3)(j) was inserted by the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), Schedule 25, paragraph 68(2) and amended by the Water Consolidation (Consequential Provisions) Act [1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60), Schedule 1, paragraph 38(2) and the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), Schedule 7, paragraph 23(b).
 
-[^key-babe0a126ccd4933f47e6b570e2359b1]: Commencement: Art. 3 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-babe0a126ccd4933f47e6b570e2359b1]: Commencement: Art. 3 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00005]: Footnote: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31); section 74(3)(k) was inserted by the Water Act 1989, Schedule 25, paragraph 76(b) and amended by the Water Consolidation (Consequential Provisions) Act 1991, Schedule 1, paragraph 44 and the Water Act 2003, Schedule 7, paragraph 24(b).
 
-[^key-4665337b166b1fde8fbf004f7828ba81]: Commencement: Art. 4 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-4665337b166b1fde8fbf004f7828ba81]: Commencement: Art. 4 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00006]: Footnote: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15); section 174(2)(a) was amended by the Water Consolidation (Consequential Provisions) Act 1991, Schedule 1, paragraph 50(2), the Water Act 2003, Schedule 7, paragraph 26(2)(a) and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755), [2014/892](https://www.legislation.gov.uk/uksi/2014/892). Section 174(2)(b) was amended by the Water Consolidation (Consequential Provisions) Act 1991, Schedule 1, paragraph 50(2), the Water Act 2003, Schedule 8, paragraph 1(2) and the 2014 Act, Schedule 7, paragraph 1(2). Section 174(2)(j) was amended by the Water Consolidation (Consequential Provisions) Act 1991, Schedule 1, paragraph 50(2), the Water Act 2003, Schedule 7, paragraph 26(2)(a) and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593).
 
-[^key-9a44c77f298e28d70990f19eb6cc1196]: Commencement: Art. 5 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-9a44c77f298e28d70990f19eb6cc1196]: Commencement: Art. 5 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00007]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); section 55 was substituted by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035).
 
-[^key-4b51cd239131913bc3988ff22bc8c34f]: Commencement: Art. 6 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-4b51cd239131913bc3988ff22bc8c34f]: Commencement: Art. 6 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00008]: Footnote: Sections 2A and 2B were substituted by the 2014 Act, section 24(1).
 
@@ -659,19 +659,19 @@ Impact assessments of the effect that the 2014 Act will have on the costs of bus
 
 [^f00014]: Footnote: Section 206(3)(a) was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 121(2), the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), Schedule 2, paragraph 7 and Schedule 3, the Water Act 2003, section 36(2) and Schedule 7, paragraph 27(5) and [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755), [2014/892](https://www.legislation.gov.uk/uksi/2014/892). Section 206(3)(b) was amended by the Water Act 2003, section 36(2) and Schedule 7, paragraph 27(5) and Schedule 8, paragraph 47(2), the 2014 Act, Schedule 7, paragraph 116(2) and [S.I. 2016/744](https://www.legislation.gov.uk/uksi/2016/744). Section 206(3)(j) was amended by the Water Act 2003, Schedule 7, paragraph 27(5).
 
-[^key-36247e6914cdfa766327521451f26021]: Commencement: Art. 7 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-36247e6914cdfa766327521451f26021]: Commencement: Art. 7 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00015]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); section 204(2)(a) was amended by the Environment Act 1995, Schedule 22, paragraph 173(2), the Pollution Prevention and Control Act 1999, Schedule 2, paragraph 8 and Schedule 3, the Water Act 2003, Schedule 7, paragraph 28(3) and [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755), [2014/892](https://www.legislation.gov.uk/uksi/2014/892). Section 204(2)(b) was amended by the Water Act 2003, Schedule 7, paragraph 28(3) and Schedule 8, paragraph 53(3)(a), the 2014 Act, Schedule 7, paragraph 126(2) and [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755). Section 204(2)(j) was amended by the Water Act 2003, Schedule 7, paragraph 28(3)(a).
 
-[^key-bacf8ab2d7ffbdbc5a362fcfed683d49]: Commencement: Art. 8 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-bacf8ab2d7ffbdbc5a362fcfed683d49]: Commencement: Art. 8 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00016]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43); section 145(3)(t) was inserted by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).
 
-[^key-4cf6e3b206983e25dfce82ca72425a4d]: Commencement: Art. 9 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-4cf6e3b206983e25dfce82ca72425a4d]: Commencement: Art. 9 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00017]: Footnote: [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21); section 59(4)(s) was inserted by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).
 
-[^key-3f89b553589bf2d0673ae73a868c792e]: Commencement: Art. 10 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-3f89b553589bf2d0673ae73a868c792e]: Commencement: Art. 10 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00018]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25); paragraph (d) of the definition of “local enforcing authority” in section 108(15) was inserted by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973). The opening words of the definition of ““pollution control functions”, in relation to the Agency, the Natural Resources Body for Wales or SEPA” were amended by [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755) and paragraph (n) was inserted, in relation to Scotland, by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) and amended by the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), Schedule 3, paragraph 5(3).
 
@@ -679,41 +679,41 @@ Impact assessments of the effect that the 2014 Act will have on the costs of bus
 
 [^f00020]: Footnote: Section 114(2)(a)(viii) was inserted by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973) and, in relation to Scotland, by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) and amended, in relation to Scotland, by the Regulatory Reform (Scotland) Act 2014, Schedule 3, paragraph 5(4).
 
-[^key-4381980d25b62687f64516ceec1277e9]: Commencement: Art. 11 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-4381980d25b62687f64516ceec1277e9]: Commencement: Art. 11 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00021]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29); section 235(3)(u) was inserted by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).
 
-[^key-6328b90fd86572d95ffa43731961ca82]: Commencement: Art. 12 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-6328b90fd86572d95ffa43731961ca82]: Commencement: Art. 12 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00022]: Footnote: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27); section 105(6)(l) was amended by the Water Act 2003, Schedule 7, paragraph 34(b) and [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336).
 
-[^key-bb628aadf967d97d3926ff0a34d681a0]: Commencement: Art. 13 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-bb628aadf967d97d3926ff0a34d681a0]: Commencement: Art. 13 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00023]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38); paragraph 3(3)(rg) of Schedule 9 was inserted by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).
 
-[^key-159adc96428bb43cc94b379c6f53395c]: Commencement: Art. 14 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-159adc96428bb43cc94b379c6f53395c]: Commencement: Art. 14 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00024]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40); the entry relating to the Energy Act 2013 was inserted by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
 
-[^key-3c7c90e426237cd725130b2f78c81241]: Commencement: Art. 15 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-3c7c90e426237cd725130b2f78c81241]: Commencement: Art. 15 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00025]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13).
 
-[^key-9e3c5d4a32ade55d7e5a0548e33fa897]: Commencement: Art. 16 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-9e3c5d4a32ade55d7e5a0548e33fa897]: Commencement: Art. 16 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00026]: Footnote: [2012 c. 19](https://www.legislation.gov.uk/ukpga/2012/19); the entry relating to the Enterprise and Regulatory Reform Act 2013 was inserted by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).
 
-[^key-9f26397fa10b33cb6cbb5b323049e788]: Commencement: Art. 17 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-9f26397fa10b33cb6cbb5b323049e788]: Commencement: Art. 17 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00027]: Footnote: [S.I. 1999/1148](https://www.legislation.gov.uk/uksi/1999/1148), amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035); there are other amending instruments but none is relevant.
 
-[^key-fb276c3aa825ca604818d72c274aa47a]: Commencement: Art. 18 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-fb276c3aa825ca604818d72c274aa47a]: Commencement: Art. 18 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00028]: Footnote: [S.I. 2000/1297](https://www.legislation.gov.uk/uksi/2000/1297), amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035); there are other amending instruments but none is relevant.
 
 [^f00029]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); section 17A was substituted by the 2014 Act, section 1(1).
 
-[^key-3e5db57334a61cab9d2b2e6d9462b3f9]: Commencement: Art. 19 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-3e5db57334a61cab9d2b2e6d9462b3f9]: Commencement: Art. 19 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00030]: Footnote: [S.I. 2005/477](https://www.legislation.gov.uk/uksi/2005/477), to which there is an amendment not relevant to this Order.
 
@@ -721,19 +721,19 @@ Impact assessments of the effect that the 2014 Act will have on the costs of bus
 
 [^f00032]: Footnote: Section 17BA was inserted by the 2014 Act, section 4(1) and is amended by the 2014 Act, Schedule 5, paragraph 7(2) from a date to be appointed.
 
-[^key-adf63fb1824feda6dc0800bdb47e5b9c]: Commencement: Art. 20 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-adf63fb1824feda6dc0800bdb47e5b9c]: Commencement: Art. 20 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00033]: Footnote: [S.I. 2005/920](https://www.legislation.gov.uk/uksi/2005/920).
 
-[^key-0da2c1604ebf24b2059423a12fb4aaa0]: Commencement: Art. 21 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-0da2c1604ebf24b2059423a12fb4aaa0]: Commencement: Art. 21 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00034]: Footnote: [S.I. 2005/3075](https://www.legislation.gov.uk/uksi/2005/3075).
 
-[^key-d3b2d24d734e767f6dc6f60e762a6e2b]: Commencement: Art. 22 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-d3b2d24d734e767f6dc6f60e762a6e2b]: Commencement: Art. 22 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00035]: Footnote: [S.I. 2005/3076](https://www.legislation.gov.uk/uksi/2005/3076).
 
-[^key-1144caf14a2d6870e5ba2191734b59ea]: Commencement: Art. 23 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-1144caf14a2d6870e5ba2191734b59ea]: Commencement: Art. 23 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00036]: Footnote: See page 16 of the document found at http://www.ofwat.gov.uk/wp-content/uploads/2015/10/prs\_lft\_guidetowresale.pdf. A copy may be obtained from the Water Services Regulation Authority, Centre City Tower, 7 Hill Street, Birmingham B5 4UA.
 
@@ -741,29 +741,29 @@ Impact assessments of the effect that the 2014 Act will have on the costs of bus
 
 [^f00038]: Footnote: The functions of the Director General of Water Services were transferred to the Water Services Regulation Authority (see section 1A(1) of the 1991 Act) on 1st April 2006 in accordance with section 36 of, and Schedule 3 to, the Water Act 2003.
 
-[^key-d720a7042ec0c39120866ae1eeeeb5e3]: Commencement: Art. 24 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-d720a7042ec0c39120866ae1eeeeb5e3]: Commencement: Art. 24 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00039]: Footnote: [S.I. 2006/1030](https://www.legislation.gov.uk/uksi/2006/1030), to which there are amendments not relevant to this Order.
 
-[^key-f951ba0ea0b64c7d342cd453dc0794bd]: Commencement: Art. 25 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-f951ba0ea0b64c7d342cd453dc0794bd]: Commencement: Art. 25 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00040]: Footnote: [S.I. 2009/2477](https://www.legislation.gov.uk/uksi/2009/2477).
 
-[^key-de78e3e137ed5dbeffb769d7da3bf760]: Commencement: Art. 26 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-de78e3e137ed5dbeffb769d7da3bf760]: Commencement: Art. 26 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00041]: Footnote: [S.I. 2009/3042](https://www.legislation.gov.uk/uksi/2009/3042), to which there are amendments not relevant to this Order.
 
-[^key-a0a2e848afea06794dbe987ff7d078d0]: Commencement: Art. 27 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-a0a2e848afea06794dbe987ff7d078d0]: Commencement: Art. 27 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00042]: Footnote: [S.I. 2010/66 (W. 16)](https://www.legislation.gov.uk/wsi/2010/66), to which there are amendments not relevant to this Order.
 
-[^key-59eef35e674961668dc28b00692263e5]: Textual amendment: Art. 28 revoked (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
+[^c-59eef35e674961668dc28b00692263e5]: Textual amendment: Art. 28 revoked (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
 
-[^key-f8b423eb89cbfd9a259eb1f56369b7b6]: Commencement: Art. 29 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-f8b423eb89cbfd9a259eb1f56369b7b6]: Commencement: Art. 29 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00045]: Footnote: [S.I. 2012/1128](https://www.legislation.gov.uk/uksi/2012/1128), amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469); there are other amending instruments but none is relevant.
 
-[^key-17097f03ef5f1b87f5e1b36c11a7379f]: Commencement: Art. 30 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-17097f03ef5f1b87f5e1b36c11a7379f]: Commencement: Art. 30 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00046]: Footnote: [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102), [2016/275](https://www.legislation.gov.uk/uksi/2016/275).
 
@@ -785,20 +785,20 @@ Impact assessments of the effect that the 2014 Act will have on the costs of bus
 
 [^f00055]: Footnote: Sections 144ZE and 144ZF were inserted by the 2014 Act, section 38.
 
-[^key-3b0a61e7b32cb8de813a2111f7eeccdd]: Commencement: Art. 31 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-3b0a61e7b32cb8de813a2111f7eeccdd]: Commencement: Art. 31 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00056]: Footnote: [S.I. 2015/989](https://www.legislation.gov.uk/uksi/2015/989).
 
-[^key-f2374e4f0db38441fe4663806779ce51]: Commencement: Art. 32 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-f2374e4f0db38441fe4663806779ce51]: Commencement: Art. 32 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00057]: Footnote: [S.I. 2016/614](https://www.legislation.gov.uk/uksi/2016/614).
 
 [^f00058]: Footnote: Schedule 2A was inserted by the 2014 Act, Schedule 1 and is amended by the 2014 Act, Schedule 5, paragraph 54 from a date to be appointed.
 
-[^key-dcf9eeea6ec915eb4ab408ebfc75bf3e]: Commencement: Art. 33 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-dcf9eeea6ec915eb4ab408ebfc75bf3e]: Commencement: Art. 33 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00059]: Footnote: [S.I. 2016/618](https://www.legislation.gov.uk/uksi/2016/618).
 
-[^key-050aa4ff14c23f3a626c80b56fc748d8]: Commencement: Art. 34 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
+[^c-050aa4ff14c23f3a626c80b56fc748d8]: Commencement: Art. 34 in force at 31.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1)
 
 [^f00060]: Footnote: Section 185(6) and (7) was amended by the Water Act 2003, section 36(2).

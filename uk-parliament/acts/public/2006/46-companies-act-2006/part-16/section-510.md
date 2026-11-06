@@ -32,7 +32,7 @@ summary: ''
 - (a) of his appointment as auditor, or
 - (b) of any appointment terminating with that as auditor.
 
-(4)[^key-75642db580e22fcf2f286769f9660c81] An auditor may not be removed from office before the expiration of his term of office except—
+(4)[^c-75642db580e22fcf2f286769f9660c81] An auditor may not be removed from office before the expiration of his term of office except—
 
 - (a) by resolution under this section, or
 - (b) in accordance with section 511A.
@@ -43,4 +43,4 @@ summary: ''
 
 [^c19906621]: Modification: Ss. 510-512 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 43](https://www.legislation.gov.uk/uksi/2008/1911/regulation/43); (as amended (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-75642db580e22fcf2f286769f9660c81]: Textual amendment: S. 510(4) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/21/2) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))
+[^c-75642db580e22fcf2f286769f9660c81]: Textual amendment: S. 510(4) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/21/2) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))

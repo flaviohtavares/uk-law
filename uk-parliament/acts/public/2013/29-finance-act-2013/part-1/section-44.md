@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Financing costs and income: group treasury companies[^key-ffddc7008edc3f7c006d862f62f03a4b]
+## 44. Financing costs and income: group treasury companies[^c-ffddc7008edc3f7c006d862f62f03a4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffddc7008edc3f7c006d862f62f03a4b]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2013/29/section/44) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/d)
+[^c-ffddc7008edc3f7c006d862f62f03a4b]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2013/29/section/44) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/d)

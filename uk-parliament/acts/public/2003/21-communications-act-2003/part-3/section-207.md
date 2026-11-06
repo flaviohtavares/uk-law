@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. S4C finances[^key-96926e1d45974b73d37ee5fdbd4502b4][^key-4aaed0d689869d548ffff3b1ffed7885]
+## 207. S4C finances[^c-96926e1d45974b73d37ee5fdbd4502b4][^c-4aaed0d689869d548ffff3b1ffed7885]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ca57fe73f52a19e1f3d2bdd90bd9625d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ca57fe73f52a19e1f3d2bdd90bd9625d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-69379caeafa560e7cdeb6df34e2e64d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-69379caeafa560e7cdeb6df34e2e64d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The power of S4C[^key-ae2a281fb74ea3c716cfed857c9bf1a1] to do anything that appears to them to be conducive or incidental to the carrying out of their functions includes power, subject to subsection (4), to borrow money.
+(3) The power of S4C[^c-ae2a281fb74ea3c716cfed857c9bf1a1] to do anything that appears to them to be conducive or incidental to the carrying out of their functions includes power, subject to subsection (4), to borrow money.
 
-(4) S4C[^key-f648b4ca4611490498fc3904202f9b9e] are not to borrow money except with the approval of the Secretary of State.
+(4) S4C[^c-f648b4ca4611490498fc3904202f9b9e] are not to borrow money except with the approval of the Secretary of State.
 
 (5) The consent of the Treasury is to be required for the giving of an approval for the purposes of subsection (4).
 
-(6) S4C[^key-b20c65fa5dad56bf91018cf1a22fa2ab] are to be liable to pay OFCOM such sums in respect of the carrying out by OFCOM of their functions in relation to S4C[^key-cc1010c25c6319451f175deaf8844cbe] as may be—
+(6) S4C[^c-b20c65fa5dad56bf91018cf1a22fa2ab] are to be liable to pay OFCOM such sums in respect of the carrying out by OFCOM of their functions in relation to S4C[^c-cc1010c25c6319451f175deaf8844cbe] as may be—
 
 - (a) agreed from time to time between S4C and OFCOM; or
 - (b) (in default of agreement) fixed by the Secretary of State.
@@ -44,28 +44,28 @@ summary: ''
 
 .
 
-(8)[^key-3c10690f71d611f3ae43373aec7dff06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3c10690f71d611f3ae43373aec7dff06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-c9fb844c0b40d3b8773a8e049098e798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c9fb844c0b40d3b8773a8e049098e798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96926e1d45974b73d37ee5fdbd4502b4]: Commencement: S. 207 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-96926e1d45974b73d37ee5fdbd4502b4]: Commencement: S. 207 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4aaed0d689869d548ffff3b1ffed7885]: Textual amendment: Word in [s. 207](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/1/crossheading/the-welsh-authority) heading substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(6)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/6); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-4aaed0d689869d548ffff3b1ffed7885]: Textual amendment: Word in [s. 207](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/1/crossheading/the-welsh-authority) heading substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(6)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/6); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-ca57fe73f52a19e1f3d2bdd90bd9625d]: Textual amendment: [S. 207(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/1) omitted (1.1.2026) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/32/3), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/r)
+[^c-ca57fe73f52a19e1f3d2bdd90bd9625d]: Textual amendment: [S. 207(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/1) omitted (1.1.2026) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/32/3), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/r)
 
-[^key-69379caeafa560e7cdeb6df34e2e64d1]: Textual amendment: [S. 207(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/2) omitted (1.1.2026) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/32/3), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/r)
+[^c-69379caeafa560e7cdeb6df34e2e64d1]: Textual amendment: [S. 207(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/2) omitted (1.1.2026) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/32/3), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/r)
 
-[^key-ae2a281fb74ea3c716cfed857c9bf1a1]: Textual amendment: Word in [s. 207(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/3) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-ae2a281fb74ea3c716cfed857c9bf1a1]: Textual amendment: Word in [s. 207(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/3) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-f648b4ca4611490498fc3904202f9b9e]: Textual amendment: Word in [s. 207(4)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/4) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(3)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-f648b4ca4611490498fc3904202f9b9e]: Textual amendment: Word in [s. 207(4)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/4) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(3)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-b20c65fa5dad56bf91018cf1a22fa2ab]: Textual amendment: Word in [s. 207(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/6) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(3)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-b20c65fa5dad56bf91018cf1a22fa2ab]: Textual amendment: Word in [s. 207(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/6) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(3)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-cc1010c25c6319451f175deaf8844cbe]: Textual amendment: Word in [s. 207(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/6) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/4); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-cc1010c25c6319451f175deaf8844cbe]: Textual amendment: Word in [s. 207(6)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/6) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/4); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-3c10690f71d611f3ae43373aec7dff06]: Textual amendment: [S. 207(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/8) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(5)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/5); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-3c10690f71d611f3ae43373aec7dff06]: Textual amendment: [S. 207(8)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/8) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(5)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/5); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-c9fb844c0b40d3b8773a8e049098e798]: Textual amendment: [S. 207(9)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/9) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(5)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/5); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-c9fb844c0b40d3b8773a8e049098e798]: Textual amendment: [S. 207(9)](https://www.legislation.gov.uk/ukpga/2003/21/section/207/9) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 33(5)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33/5); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)

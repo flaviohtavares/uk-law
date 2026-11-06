@@ -45,7 +45,7 @@ Coming into force
 
 [^c1541218]These Regulations are made for the purpose only of consolidating other regulations revoked in the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 .
 
-In accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.[^key-86bbd7cc73b8739988ea7f6d4c5f31ee][^key-4814beda92e55f83f71cadd1a85e7175]
+In accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.[^c-86bbd7cc73b8739988ea7f6d4c5f31ee][^c-4814beda92e55f83f71cadd1a85e7175]
 
 ## Contents
 
@@ -281,6 +281,6 @@ The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulatio
 
 [^c1541218]: Marginal citation: *See* section 172 of, and paragraph 10 of Part I of Schedule 7 to, the Social Security Administration Act 1992.
 
-[^key-86bbd7cc73b8739988ea7f6d4c5f31ee]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2006/215) applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
+[^c-86bbd7cc73b8739988ea7f6d4c5f31ee]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2006/215) applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
 
-[^key-4814beda92e55f83f71cadd1a85e7175]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2006/215) continued (with modifications) (19.2.2013) by [The Welfare Reform Act 2012 (Commencement No.8 and Savings and Transitional Provisions) Order 2013 (S.I. 2013/358)](https://www.legislation.gov.uk/uksi/2013/358), [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10(1)(a)](https://www.legislation.gov.uk/uksi/2013/358/article/10/1/a), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2013/358/schedule/5/part/1)
+[^c-4814beda92e55f83f71cadd1a85e7175]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2006/215) continued (with modifications) (19.2.2013) by [The Welfare Reform Act 2012 (Commencement No.8 and Savings and Transitional Provisions) Order 2013 (S.I. 2013/358)](https://www.legislation.gov.uk/uksi/2013/358), [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10(1)(a)](https://www.legislation.gov.uk/uksi/2013/358/article/10/1/a), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2013/358/schedule/5/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Powers to amend or repeal provisions relating to exempt content or services[^key-d64ce5d4db9b28df157a5674c99bcb1f][^key-a8000964390510504494558ccc48352d]
+## 220. Powers to amend or repeal provisions relating to exempt content or services[^c-d64ce5d4db9b28df157a5674c99bcb1f][^c-a8000964390510504494558ccc48352d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ if the Secretary of State considers that it is appropriate to do so because of t
 
 ## Annotations
 
-[^key-d64ce5d4db9b28df157a5674c99bcb1f]: Commencement: S. 220 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d64ce5d4db9b28df157a5674c99bcb1f]: Commencement: S. 220 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a8000964390510504494558ccc48352d]: Commencement: [S. 220](https://www.legislation.gov.uk/ukpga/2023/50/section/220) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z34)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z34)
+[^c-a8000964390510504494558ccc48352d]: Commencement: [S. 220](https://www.legislation.gov.uk/ukpga/2023/50/section/220) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z34)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z34)

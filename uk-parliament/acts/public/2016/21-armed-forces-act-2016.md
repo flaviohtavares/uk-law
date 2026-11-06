@@ -38,13 +38,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Duration of Armed Forces Act 2006
 
-### 1. Duration of Armed Forces Act 2006[^key-ec97f0760b0f2b432be7490a2baa09c3]
+### 1. Duration of Armed Forces Act 2006[^c-ec97f0760b0f2b432be7490a2baa09c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Alcohol and drugs
 
-### 2. Commanding officer's power to require preliminary alcohol and drugs tests[^key-d5fb66b5daa34c78b52d9dfc85abc37a][^key-93c2aaf26c06b9db73726c492398715a]
+### 2. Commanding officer's power to require preliminary alcohol and drugs tests[^c-d5fb66b5daa34c78b52d9dfc85abc37a][^c-93c2aaf26c06b9db73726c492398715a]
 
 (1) In the heading of Chapter 3A of Part 3 of AFA 2006 (testing for alcohol and drugs on suspicion of offence), for “on suspicion of offence” substitute “ in connection with a suspected offence or accident ”.
 
@@ -157,7 +157,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Investigation and charging
 
-### 3. Duty of service policeman following investigation[^key-0984156ee5be7590ee05d34df4301ecf][^key-1a2893637d396684e695d86d0c7213f4]
+### 3. Duty of service policeman following investigation[^c-0984156ee5be7590ee05d34df4301ecf][^c-1a2893637d396684e695d86d0c7213f4]
 
 (1) In section 116(2) of AFA 2006 (cases that must be referred to the Director of Service Prosecutions following investigation by service or civilian police)—
 
@@ -241,7 +241,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) In consequence of the substitution of section 117(3) of AFA 2006, omit paragraph 5(2) of Schedule 3 to the Armed Forces Act 2011.
 
-### 4. Power of commanding officer to charge etc[^key-283ae94b343c92fd358127984864372f][^key-bd77535c0c0e4b90c8b656c221256ce9]
+### 4. Power of commanding officer to charge etc[^c-283ae94b343c92fd358127984864372f][^c-bd77535c0c0e4b90c8b656c221256ce9]
 
 (1) In section 120 of AFA 2006 (power of commanding officer to charge etc), in subsection (5) (referral of certain cases to the Director of Service Prosecutions)—
 
@@ -250,7 +250,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) In section 121(1) of AFA 2006 (power of the Director of Service Prosecutions to direct bringing of charges etc), in paragraph (b), after “120(3)” insert “ or (5) ”.
 
-### 5. Power of Director of Service Prosecutions to charge etc[^key-93198a528bf4a7a62b4e4e2c9a2d5edf][^key-acde57a954e81c840de8b25bcb6c3c8f]
+### 5. Power of Director of Service Prosecutions to charge etc[^c-93198a528bf4a7a62b4e4e2c9a2d5edf][^c-acde57a954e81c840de8b25bcb6c3c8f]
 
 (1) In section 121 of AFA 2006 (power of the Director of Service Prosecutions to direct bringing of charges etc)—
 
@@ -284,7 +284,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Suspended sentences of service detention
 
-### 6. Period for which sentence of service detention may be suspended[^key-106b151be95ea4479579772c5af59202]
+### 6. Period for which sentence of service detention may be suspended[^c-106b151be95ea4479579772c5af59202]
 
 (1) In section 190 of AFA 2006 (suspension of sentence of service detention), for subsection (2) (length of period of suspension) substitute—
 
@@ -309,7 +309,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Offenders assisting investigations and prosecutions
 
-### 7. Immunity from prosecution[^key-9e8c1aee75d988ba2d9777243eba54da]
+### 7. Immunity from prosecution[^c-9e8c1aee75d988ba2d9777243eba54da]
 
 In AFA 2006, after Part 12 insert—
 
@@ -328,7 +328,7 @@ In AFA 2006, after Part 12 insert—
 >
 > (4) An immunity notice ceases to have effect in relation to the person to whom it is given if the person fails to comply with any conditions specified in the notice.
 
-### 8. Undertakings as to use of evidence[^key-5f55225fdd4c0377c584e22570b610c2]
+### 8. Undertakings as to use of evidence[^c-5f55225fdd4c0377c584e22570b610c2]
 
 After section 304A of AFA 2006 insert—
 
@@ -352,7 +352,7 @@ After section 304A of AFA 2006 insert—
 >
 > (5) In this section “**relevant service offence**” has the same meaning as in section 304A.
 
-### 9. Reduction in sentence[^key-e8267c393b542e10d19ea0c140186fe2]
+### 9. Reduction in sentence[^c-e8267c393b542e10d19ea0c140186fe2]
 
 After section 304B of AFA 2006 insert—
 
@@ -373,7 +373,7 @@ After section 304B of AFA 2006 insert—
 >
 > (6) In this section, references to assisting the prosecutor are to assisting the Director or any other prosecutor.
 
-### 10. Review of sentence following offer of assistance[^key-aa8f33eec2165ae610245d971655f782][^key-99687204cbbbb13a9696e2df6aa3517d]
+### 10. Review of sentence following offer of assistance[^c-aa8f33eec2165ae610245d971655f782][^c-99687204cbbbb13a9696e2df6aa3517d]
 
 After section 304C of AFA 2006 insert—
 
@@ -429,7 +429,7 @@ After section 304C of AFA 2006 insert—
 > - (a) “**discounted sentence**” means a sentence passed in accordance with section 304C or this section;
 > - (b) references to assisting the prosecutor are to assisting the Director or any other prosecutor.
 
-### 11. Review of sentence following failure to assist[^key-2477556e1cf27d4e5467213155f68139][^key-ef192d62ac8d2dd39301202eb1dc3b13]
+### 11. Review of sentence following failure to assist[^c-2477556e1cf27d4e5467213155f68139][^c-ef192d62ac8d2dd39301202eb1dc3b13]
 
 After section 304D of AFA 2006 insert—
 
@@ -473,7 +473,7 @@ After section 304D of AFA 2006 insert—
 > - (a) “**discounted sentence**” means a sentence passed in accordance with section 304C or 304D;
 > - (b) references to assisting the prosecutor are to assisting the Director or any other prosecutor.
 
-### 12. Supplementary provision[^key-b10beabc9ea8295954364d50073cbb4a]
+### 12. Supplementary provision[^c-b10beabc9ea8295954364d50073cbb4a]
 
 After section 304E of AFA 2006 insert—
 
@@ -565,7 +565,7 @@ After section 304E of AFA 2006 insert—
 
 ## War pensions committees
 
-### 15. War pensions committees and armed and reserve forces compensation schemes[^key-b4aa494f90c873039de3c6e80f527596]
+### 15. War pensions committees and armed and reserve forces compensation schemes[^c-b4aa494f90c873039de3c6e80f527596]
 
 (1) Section 25 of the Social Security Act 1989 (establishment and functions of war pensions committees) is amended as follows.
 
@@ -809,40 +809,40 @@ subject to sub-paragraph (2).
 
 ## Annotations
 
-[^key-ec97f0760b0f2b432be7490a2baa09c3]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2016/21/section/1) omitted (15.12.2021) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2021/35/section/1/2), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)
+[^c-ec97f0760b0f2b432be7490a2baa09c3]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2016/21/section/1) omitted (15.12.2021) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2021/35/section/1/2), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)
 
-[^key-d5fb66b5daa34c78b52d9dfc85abc37a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/21/section/2) in force at 19.7.2018 for specified purposes by [S.I. 2018/876](https://www.legislation.gov.uk/uksi/2018/876), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/a)
+[^c-d5fb66b5daa34c78b52d9dfc85abc37a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/21/section/2) in force at 19.7.2018 for specified purposes by [S.I. 2018/876](https://www.legislation.gov.uk/uksi/2018/876), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/a)
 
-[^key-93c2aaf26c06b9db73726c492398715a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/21/section/2) in force at 1.1.2019 in so far as not already in force by [S.I. 2018/876](https://www.legislation.gov.uk/uksi/2018/876), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/b)
+[^c-93c2aaf26c06b9db73726c492398715a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/21/section/2) in force at 1.1.2019 in so far as not already in force by [S.I. 2018/876](https://www.legislation.gov.uk/uksi/2018/876), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/876/regulation/2/b)
 
-[^key-0984156ee5be7590ee05d34df4301ecf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/21/section/3) in force at 22.5.2019 for specified purposes by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-0984156ee5be7590ee05d34df4301ecf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/21/section/3) in force at 22.5.2019 for specified purposes by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-1a2893637d396684e695d86d0c7213f4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/21/section/3) in force at 1.7.2019 in so far as not already in force by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-1a2893637d396684e695d86d0c7213f4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/21/section/3) in force at 1.7.2019 in so far as not already in force by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-283ae94b343c92fd358127984864372f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/21/section/4) in force at 22.5.2019 for specified purposes by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-283ae94b343c92fd358127984864372f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/21/section/4) in force at 22.5.2019 for specified purposes by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-bd77535c0c0e4b90c8b656c221256ce9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/21/section/4) in force at 1.7.2019 in so far as not already in force by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-bd77535c0c0e4b90c8b656c221256ce9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/21/section/4) in force at 1.7.2019 in so far as not already in force by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-93198a528bf4a7a62b4e4e2c9a2d5edf]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/21/section/5) in force at 22.5.2019 for specified purposes by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-93198a528bf4a7a62b4e4e2c9a2d5edf]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/21/section/5) in force at 22.5.2019 for specified purposes by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-acde57a954e81c840de8b25bcb6c3c8f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/21/section/5) in force at 1.7.2019 in so far as not already in force by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-acde57a954e81c840de8b25bcb6c3c8f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/21/section/5) in force at 1.7.2019 in so far as not already in force by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-106b151be95ea4479579772c5af59202]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/21/section/6) in force at 1.7.2019 by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/2)
+[^c-106b151be95ea4479579772c5af59202]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/21/section/6) in force at 1.7.2019 by [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/2)
 
-[^key-9e8c1aee75d988ba2d9777243eba54da]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-9e8c1aee75d988ba2d9777243eba54da]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
 
-[^key-5f55225fdd4c0377c584e22570b610c2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/21/section/8) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-5f55225fdd4c0377c584e22570b610c2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/21/section/8) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
 
-[^key-e8267c393b542e10d19ea0c140186fe2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/21/section/9) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-e8267c393b542e10d19ea0c140186fe2]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/21/section/9) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
 
-[^key-aa8f33eec2165ae610245d971655f782]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/21/section/10) in force at 17.4.2024 for specified purposes by [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/562/regulation/2/a)
+[^c-aa8f33eec2165ae610245d971655f782]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/21/section/10) in force at 17.4.2024 for specified purposes by [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/562/regulation/2/a)
 
-[^key-99687204cbbbb13a9696e2df6aa3517d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/21/section/10) in force at 16.10.2024 in so far as not already in force by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/2)
+[^c-99687204cbbbb13a9696e2df6aa3517d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/21/section/10) in force at 16.10.2024 in so far as not already in force by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/2)
 
-[^key-2477556e1cf27d4e5467213155f68139]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/21/section/11) in force at 17.4.2024 for specified purposes by [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/562/regulation/2/b)
+[^c-2477556e1cf27d4e5467213155f68139]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/21/section/11) in force at 17.4.2024 for specified purposes by [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/562/regulation/2/b)
 
-[^key-ef192d62ac8d2dd39301202eb1dc3b13]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/21/section/11) in force at 16.10.2024 in so far as not already in force by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/2)
+[^c-ef192d62ac8d2dd39301202eb1dc3b13]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/21/section/11) in force at 16.10.2024 in so far as not already in force by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/2)
 
-[^key-b10beabc9ea8295954364d50073cbb4a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/21/section/12) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-b10beabc9ea8295954364d50073cbb4a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/21/section/12) in force at 16.10.2024 by [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
 
-[^key-b4aa494f90c873039de3c6e80f527596]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/21/section/15) in force at 21.11.2017 by [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-b4aa494f90c873039de3c6e80f527596]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/21/section/15) in force at 21.11.2017 by [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)

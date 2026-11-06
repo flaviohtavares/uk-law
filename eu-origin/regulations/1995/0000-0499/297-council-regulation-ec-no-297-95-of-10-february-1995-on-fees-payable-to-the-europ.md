@@ -41,7 +41,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-fbcb1382f30c88c98cbb643930d3a7c4]Council Regulation (EC) No 297/95
+[^c-fbcb1382f30c88c98cbb643930d3a7c4]Council Regulation (EC) No 297/95
 
 of 10 February 1995
 
@@ -342,7 +342,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## Annotations
 
-[^key-fbcb1382f30c88c98cbb643930d3a7c4]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/b) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbcb1382f30c88c98cbb643930d3a7c4]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/b) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Editorial: Inserted by [Corrigendum, OJ No L 75, 4.4.1995, p. 29 (297/95)](https://www.legislation.gov.uk/eur/1995/297/pdfs/eurcs_19950297_en_001.pdf).
 

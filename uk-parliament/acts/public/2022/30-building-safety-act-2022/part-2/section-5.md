@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Duty to keep safety and standard of buildings under review[^key-2686d1a7380b95e629eb77f7314ec730][^key-9a34ffb7c6848ca9fcc5c1a425af6df3]
+## 5. Duty to keep safety and standard of buildings under review[^c-2686d1a7380b95e629eb77f7314ec730][^c-9a34ffb7c6848ca9fcc5c1a425af6df3]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The regulator must keep under review—
 
 ## Annotations
 
-[^key-2686d1a7380b95e629eb77f7314ec730]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-2686d1a7380b95e629eb77f7314ec730]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-9a34ffb7c6848ca9fcc5c1a425af6df3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/30/section/5) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/a)
+[^c-9a34ffb7c6848ca9fcc5c1a425af6df3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/30/section/5) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/a)

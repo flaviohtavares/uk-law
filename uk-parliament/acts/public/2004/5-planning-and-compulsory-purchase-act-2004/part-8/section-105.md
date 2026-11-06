@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 105. Power to require information[^key-25aab0b282eab8fbd0c0600bceb2e2a1]
+## 105. Power to require information[^c-25aab0b282eab8fbd0c0600bceb2e2a1]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25aab0b282eab8fbd0c0600bceb2e2a1]: Commencement: S. 105 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-25aab0b282eab8fbd0c0600bceb2e2a1]: Commencement: S. 105 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

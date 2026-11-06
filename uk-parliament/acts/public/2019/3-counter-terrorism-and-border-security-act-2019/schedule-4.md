@@ -83,7 +83,7 @@ Section 23
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**7.**[^key-ae8e1ac02e16fda4e20fa7f0d621ca77][^key-a9f5a8d47b1ae3e21e07ceecc3ef11ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ae8e1ac02e16fda4e20fa7f0d621ca77][^c-a9f5a8d47b1ae3e21e07ceecc3ef11ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Licensing Act 2003 (c. 17)
 
@@ -110,7 +110,7 @@ Section 23
 - (k) paragraph 63E;
 - (l) paragraph 63F.
 
-(3)[^key-6e366ab8d343065de3d19ae19b6413b1][^key-a8c35046befdbaa7177f9fd4ff62b18d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6e366ab8d343065de3d19ae19b6413b1][^c-a8c35046befdbaa7177f9fd4ff62b18d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Domestic Violence, Crime and Victims Act 2004 (c. 28)
 
@@ -222,13 +222,13 @@ Section 23
 
 #### Children and Young Persons Act 1933 (c. 12)
 
-**17.**[^key-a02a4601a8b883254dcacf042755a713] In section 34 of the Children and Young Persons Act 1933 (attendance at court of parent of child or young person charged with an offence), after subsection (11) insert—
+**17.**[^c-a02a4601a8b883254dcacf042755a713] In section 34 of the Children and Young Persons Act 1933 (attendance at court of parent of child or young person charged with an offence), after subsection (11) insert—
 
 > (12) The reference in subsection (2) to a child or young person who is in police detention includes a reference to a child or young person who has been detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019; and in subsection (3) “**arrest**” includes such detention.
 
 #### Police and Criminal Evidence Act 1984 (c. 60)
 
-**18.**[^key-b30a855dbb6f7e60d0d318d00bfd2043] (1) The Police and Criminal Evidence Act 1984 is amended as follows.
+**18.**[^c-b30a855dbb6f7e60d0d318d00bfd2043] (1) The Police and Criminal Evidence Act 1984 is amended as follows.
 
 (2) In section 51 (savings)—
 
@@ -266,27 +266,27 @@ Section 23
 
 #### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
 
-**20.** (1)[^key-64426007d6f34b55aa95e98e3df3ade9] The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as follows.
+**20.** (1)[^c-64426007d6f34b55aa95e98e3df3ade9] The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as follows.
 
-(2)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 51 (savings), after paragraph (b) insert—
+(2)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 51 (savings), after paragraph (b) insert—
 
 > - (ba) the powers conferred by virtue of Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 (powers of detention);
 
 .
 
-(3)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 57 (right to have someone informed when arrested), in paragraph (10) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
+(3)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 57 (right to have someone informed when arrested), in paragraph (10) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
 
-(4)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 59 (access to legal advice), in paragraph (12) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
+(4)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 59 (access to legal advice), in paragraph (12) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
 
-(5)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 61 (fingerprinting), in paragraph (9)(b) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
+(5)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 61 (fingerprinting), in paragraph (9)(b) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
 
-(6)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 61A (impressions of footwear), in paragraph (8)(a) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
+(6)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 61A (impressions of footwear), in paragraph (8)(a) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
 
-(7)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 62 (intimate samples), after paragraph (12) insert—
+(7)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 62 (intimate samples), after paragraph (12) insert—
 
 > (13) Nothing in this Article applies to a person detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019; and paragraph (1A) does not apply where the non-intimate samples mentioned in that paragraph were taken under Part 2 of that Schedule.
 
-(8)[^key-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 63 (other samples), in paragraph (11) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
+(8)[^c-ddf31a0057fe1f0a4d758fa9036ca1dd] In Article 63 (other samples), in paragraph (11) after “terrorism provisions” insert “ or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”.
 
 (9) In Article 63R (as inserted by Schedule 2 to the Criminal Justice Act (Northern Ireland) 2013 (c. 7 (N.I.))), after paragraph (4) insert—
 
@@ -294,7 +294,7 @@ Section 23
 
 #### Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)
 
-**21.**[^key-695ecb2da13871f326772e4d56a185e1] (1) For paragraph 3 of Schedule 4 to the Channel Tunnel (International Arrangements) Order 1993 substitute—
+**21.**[^c-695ecb2da13871f326772e4d56a185e1] (1) For paragraph 3 of Schedule 4 to the Channel Tunnel (International Arrangements) Order 1993 substitute—
 
 > **3.** (1) The Terrorism Act 2000 is modified as follows.
 >
@@ -386,7 +386,7 @@ Section 23
 
 #### Criminal Procedure (Scotland) Act 1995 (c. 46)
 
-**22.**[^key-81f9cbb53e976b7f8c61c54b62b90165] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**22.**[^c-81f9cbb53e976b7f8c61c54b62b90165] (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
 (2) In section 18G (retention of samples etc: national security), in subsection (1)—
 
@@ -400,7 +400,7 @@ Section 23
 
 #### Terrorism Act 2000 (c. 11)
 
-**23.**[^key-d0650d2de9876af8695a9c5af5e12282] (1) The Terrorism Act 2000 is amended as follows.
+**23.**[^c-d0650d2de9876af8695a9c5af5e12282] (1) The Terrorism Act 2000 is amended as follows.
 
 (2) In section 41 (arrest without warrant), in subsection (3)(b) after “Schedule 7” insert “ , or under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019, ”.
 
@@ -412,11 +412,11 @@ Section 23
 
 #### Regulation of Investigatory Powers Act 2000 (c. 23)
 
-**24.**[^key-a75c3c374b82a8878af1ac80ff344971] In section 3 of the Regulation of Investigatory Powers Act 2000 (lawful interception without an interception warrant), in subsection (3B) at the end insert “ or under paragraph 9 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 (border security) ”.
+**24.**[^c-a75c3c374b82a8878af1ac80ff344971] In section 3 of the Regulation of Investigatory Powers Act 2000 (lawful interception without an interception warrant), in subsection (3B) at the end insert “ or under paragraph 9 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 (border security) ”.
 
 #### Postal Services Act 2000 (c. 26)
 
-**25.**[^key-5b6ee446632ac3b17d9463b02d8be2c4] In section 104 of the Postal Services Act 2000 (inviolability of mails), in subsection (3)—
+**25.**[^c-5b6ee446632ac3b17d9463b02d8be2c4] In section 104 of the Postal Services Act 2000 (inviolability of mails), in subsection (3)—
 
 - (a) omit “or” at the end of paragraph (d);
 - (b) at the end of paragraph (e) insert
@@ -427,7 +427,7 @@ Section 23
 
 #### Counter-Terrorism Act 2008 (c. 28)
 
-**26.**[^key-d4dee28c9974a9352e963fae0d40b897] In section 18 of the Counter-Terrorism Act 2008 (destruction of national security material not subject to existing statutory restrictions), in subsection (8) after paragraph (j) insert—
+**26.**[^c-d4dee28c9974a9352e963fae0d40b897] In section 18 of the Counter-Terrorism Act 2008 (destruction of national security material not subject to existing statutory restrictions), in subsection (8) after paragraph (j) insert—
 
 > - (k) paragraphs 43 to 51 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019.
 
@@ -448,7 +448,7 @@ Section 23
 
 #### Terrorism Prevention and Investigation Measures Act 2011 (c. 23)
 
-**28.**[^key-8520a1fa576c4c981e518d44c3127f81] In Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011 (fingerprints and samples), in paragraph 5, after sub-paragraph (d) insert—
+**28.**[^c-8520a1fa576c4c981e518d44c3127f81] In Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011 (fingerprints and samples), in paragraph 5, after sub-paragraph (d) insert—
 
 > - (da) any fingerprints or samples taken under paragraph 34 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 or any information derived from such a sample,
 > - (db) any relevant physical data taken or provided by virtue of paragraph 42 of that Schedule, any samples taken by virtue of that paragraph or any information derived from such a sample,
@@ -457,7 +457,7 @@ Section 23
 
 #### Protection of Freedoms Act 2012 (c. 9)
 
-**29.**[^key-a47a96096a237e814bd570f452df18ab] In section 20 of the Protection of Freedoms Act 2012 (function of the Commissioner for the Retention and Use of Biometric Material to keep under review national security determinations)—
+**29.**[^c-a47a96096a237e814bd570f452df18ab] In section 20 of the Protection of Freedoms Act 2012 (function of the Commissioner for the Retention and Use of Biometric Material to keep under review national security determinations)—
 
 - (a) in subsection (2), in paragraph (a) after sub-paragraph (iv) insert—
 
@@ -481,7 +481,7 @@ Section 23
 
 #### Criminal Legal Aid (General) Regulations 2013 (S.I. 2013/9)
 
-**30.**[^key-ed0031812984e66208ca420436a844b8] (1) In the Criminal Legal Aid (General) Regulations 2013, in regulation 12(2) (prescribed conditions)—
+**30.**[^c-ed0031812984e66208ca420436a844b8] (1) In the Criminal Legal Aid (General) Regulations 2013, in regulation 12(2) (prescribed conditions)—
 
 - (a) omit “or” at the end of paragraph (j);
 - (b) at the end of paragraph (k) insert
@@ -494,7 +494,7 @@ Section 23
 
 #### Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 (S.R. (N.I.) 2015 No. 196)
 
-**31.**[^key-ec06cac128f5c3e3500df5126acbdefc] (1) In regulation 4(2) of the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 (exceptions from requirement to make a determination in respect of an individual's financial resources), after sub-paragraph (a) insert—
+**31.**[^c-ec06cac128f5c3e3500df5126acbdefc] (1) In regulation 4(2) of the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 (exceptions from requirement to make a determination in respect of an individual's financial resources), after sub-paragraph (a) insert—
 
 > - (aa) is detained under Schedule 7 to the Terrorism Act 2000 or under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019;
 
@@ -504,7 +504,7 @@ Section 23
 
 #### Civil Legal Services (Remuneration) Order (Northern Ireland) 2015 (S.R. (N.I.) 2015 No. 201)
 
-**32.**[^key-13fd9a2286235729cf911a8136b557c9] (1) In Schedule 2 to the Civil Legal Services (Remuneration) Order (Northern Ireland) 2015 (advice and assistance)—
+**32.**[^c-13fd9a2286235729cf911a8136b557c9] (1) In Schedule 2 to the Civil Legal Services (Remuneration) Order (Northern Ireland) 2015 (advice and assistance)—
 
 - (a) for the title to Part 2 substitute “ Matters other than those relating to PACE, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019 ”;
 - (b) in the title to Part 3 after “matters” insert “ , Schedule 7 to the Terrorism Act 2000 matters or Schedule 3 to the Counter-Terrorism and Border Security Act 2019 matters ”;
@@ -514,7 +514,7 @@ Section 23
 
 #### Investigatory Powers Act 2016 (c. 25)
 
-**33.**[^key-2317fea08745568e6f294a260c166d78] In section 47 of the Investigatory Powers Act 2016 (postal services: interception for enforcement purposes), in subsection (2) at the end insert “ or under paragraph 9 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 (border security) ”.
+**33.**[^c-2317fea08745568e6f294a260c166d78] In section 47 of the Investigatory Powers Act 2016 (postal services: interception for enforcement purposes), in subsection (2) at the end insert “ or under paragraph 9 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019 (border security) ”.
 
 ### PART 4 — Other minor and consequential amendments
 
@@ -628,42 +628,42 @@ Section 23
 
 ## Annotations
 
-[^key-ae8e1ac02e16fda4e20fa7f0d621ca77]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ae8e1ac02e16fda4e20fa7f0d621ca77]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a9f5a8d47b1ae3e21e07ceecc3ef11ac]: Modification: Sch. 4 para. 7 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-a9f5a8d47b1ae3e21e07ceecc3ef11ac]: Modification: Sch. 4 para. 7 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-6e366ab8d343065de3d19ae19b6413b1]: Textual amendment: [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/9/3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6e366ab8d343065de3d19ae19b6413b1]: Textual amendment: [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/9/3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a8c35046befdbaa7177f9fd4ff62b18d]: Modification: Sch. 4 para. 9(3) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-a8c35046befdbaa7177f9fd4ff62b18d]: Modification: Sch. 4 para. 9(3) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-a02a4601a8b883254dcacf042755a713]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/17) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-a02a4601a8b883254dcacf042755a713]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/17) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-b30a855dbb6f7e60d0d318d00bfd2043]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/18) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-b30a855dbb6f7e60d0d318d00bfd2043]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/18) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-64426007d6f34b55aa95e98e3df3ade9]: Commencement: [Sch. 4 para. 20(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/1) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-64426007d6f34b55aa95e98e3df3ade9]: Commencement: [Sch. 4 para. 20(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/1) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-ddf31a0057fe1f0a4d758fa9036ca1dd]: Commencement: [Sch. 4 para. 20(2)-(8)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/2) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-ddf31a0057fe1f0a4d758fa9036ca1dd]: Commencement: [Sch. 4 para. 20(2)-(8)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/2) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-695ecb2da13871f326772e4d56a185e1]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/21) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-695ecb2da13871f326772e4d56a185e1]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/21) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-81f9cbb53e976b7f8c61c54b62b90165]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/22) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-81f9cbb53e976b7f8c61c54b62b90165]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/22) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-d0650d2de9876af8695a9c5af5e12282]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/23) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-d0650d2de9876af8695a9c5af5e12282]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/23) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-a75c3c374b82a8878af1ac80ff344971]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/24) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-a75c3c374b82a8878af1ac80ff344971]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/24) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-5b6ee446632ac3b17d9463b02d8be2c4]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/25) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-5b6ee446632ac3b17d9463b02d8be2c4]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/25) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-d4dee28c9974a9352e963fae0d40b897]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/26) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-d4dee28c9974a9352e963fae0d40b897]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/26) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-8520a1fa576c4c981e518d44c3127f81]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/28) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-8520a1fa576c4c981e518d44c3127f81]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/28) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-a47a96096a237e814bd570f452df18ab]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/29) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-a47a96096a237e814bd570f452df18ab]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/29) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-ed0031812984e66208ca420436a844b8]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/30) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-ed0031812984e66208ca420436a844b8]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/30) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-ec06cac128f5c3e3500df5126acbdefc]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/31) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-ec06cac128f5c3e3500df5126acbdefc]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/31) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-13fd9a2286235729cf911a8136b557c9]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-13fd9a2286235729cf911a8136b557c9]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-2317fea08745568e6f294a260c166d78]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/33) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-2317fea08745568e6f294a260c166d78]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/33) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)

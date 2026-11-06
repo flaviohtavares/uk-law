@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-608425681223ea4be6c41e91e0afe141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-608425681223ea4be6c41e91e0afe141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-608425681223ea4be6c41e91e0afe141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-608425681223ea4be6c41e91e0afe141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^M_F_488b9bd0-5601-42c5-e265-228bf6da78bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-608425681223ea4be6c41e91e0afe141]: Textual amendment: S. 237(1)(2) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 231(1)](https://www.legislation.gov.uk/ukpga/2007/28/section/231/1), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 18](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/18); [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)
+[^c-608425681223ea4be6c41e91e0afe141]: Textual amendment: S. 237(1)(2) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 231(1)](https://www.legislation.gov.uk/ukpga/2007/28/section/231/1), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 18](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/18); [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)
 
 [^M_F_488b9bd0-5601-42c5-e265-228bf6da78bf]: Textual amendment: S. 237(3)-(9) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 230(1)](https://www.legislation.gov.uk/ukpga/2007/28/section/231/1), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 18](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/18); [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)

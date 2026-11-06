@@ -33,7 +33,7 @@ An Act to provide for the establishment and functions of the Gas and Electricity
 
 \[28th July 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-843e0976e18219ab87633f3e319c0313]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-843e0976e18219ab87633f3e319c0313]
 
 ## Contents
 
@@ -280,4 +280,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-843e0976e18219ab87633f3e319c0313]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/27) transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/a), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-843e0976e18219ab87633f3e319c0313]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/27) transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/a), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

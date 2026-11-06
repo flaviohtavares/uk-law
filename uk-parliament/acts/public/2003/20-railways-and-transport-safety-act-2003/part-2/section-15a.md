@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Change of name[^key-f613998f10de2e45f03d2443834c1425]
+## 15A. Change of name[^c-f613998f10de2e45f03d2443834c1425]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f613998f10de2e45f03d2443834c1425]: Textual amendment: S. 15A inserted (12.2.2015 for specified purposes, 5.3.2015 in so far as not already in force) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 10(9)](https://www.legislation.gov.uk/ukpga/2015/7/section/10/9), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-f613998f10de2e45f03d2443834c1425]: Textual amendment: S. 15A inserted (12.2.2015 for specified purposes, 5.3.2015 in so far as not already in force) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 10(9)](https://www.legislation.gov.uk/ukpga/2015/7/section/10/9), [57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

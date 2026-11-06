@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Application of Part 2 to old cases[^key-ea7914b5af9103ab917675ea06d31927]
+## 28A. Application of Part 2 to old cases[^c-ea7914b5af9103ab917675ea06d31927]
 
 *Extent: E+W*
 
-(1) The Director General[^key-afeadc20d670d2afc8c7d5b14ed823a8] may, if the Director General[^key-04604f14c97cef394a50b4dd1df24183] considers that there are exceptional circumstances—
+(1) The Director General[^c-afeadc20d670d2afc8c7d5b14ed823a8] may, if the Director General[^c-04604f14c97cef394a50b4dd1df24183] considers that there are exceptional circumstances—
 
 - (a) direct that a relevant transitional provision does not apply in relation to a pre-commencement matter, and
 - (b) direct the appropriate authority to record the matter under this Part.
@@ -33,7 +33,7 @@ summary: ''
 
 (3) “**Relevant transitional provision**” means article 2, 3 or 4 of the Independent Police Complaints Commission (Transitional Provisions) Order 2004 (S.I. 2004/671).
 
-(4) The Director General may, if the Director General[^key-a9b70e55f3164241f5bfb0ce6f8d8543] considers that there are exceptional circumstances, direct that a matter to which subsection (5) applies should be treated as a conduct matter or a DSI matter.
+(4) The Director General may, if the Director General[^c-a9b70e55f3164241f5bfb0ce6f8d8543] considers that there are exceptional circumstances, direct that a matter to which subsection (5) applies should be treated as a conduct matter or a DSI matter.
 
 (5) This subsection applies to a matter which—
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) a complaint made before 1 April 2004, or
 - (b) a complaint made on or after that date to which a relevant transitional provision applied.
 
-(6A)[^key-b41dde5792ceec32279fd8a591b9b973] On and after the day on which section 45 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 comes into force, this section—
+(6A)[^c-b41dde5792ceec32279fd8a591b9b973] On and after the day on which section 45 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 comes into force, this section—
 
 - (a) ceases to apply to a pre-commencement matter or a matter to which subsection (5) applies (if the direction under subsection (1) or (4) relating to the matter was given before that day), or
 - (b) does not apply to a pre-commencement matter or matter to which subsection (5) applies (if the direction under subsection (1) or (4) relating to the matter is given on or after that day),
@@ -65,12 +65,12 @@ insofar as the matter relates to conduct forming part of the Troubles.
 
 ## Annotations
 
-[^key-ea7914b5af9103ab917675ea06d31927]: Textual amendment: S. 28A inserted (19.12.2012) by [Police (Complaints and Conduct) Act 2012 (c. 22)](https://www.legislation.gov.uk/ukpga/2012/22), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2012/22/section/2/2), [3(3)](https://www.legislation.gov.uk/ukpga/2012/22/section/3/3)
+[^c-ea7914b5af9103ab917675ea06d31927]: Textual amendment: S. 28A inserted (19.12.2012) by [Police (Complaints and Conduct) Act 2012 (c. 22)](https://www.legislation.gov.uk/ukpga/2012/22), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2012/22/section/2/2), [3(3)](https://www.legislation.gov.uk/ukpga/2012/22/section/3/3)
 
-[^key-afeadc20d670d2afc8c7d5b14ed823a8]: Textual amendment: Words in s. 28A substituted in part (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 39(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/39/2); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-afeadc20d670d2afc8c7d5b14ed823a8]: Textual amendment: Words in s. 28A substituted in part (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 39(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/39/2); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-04604f14c97cef394a50b4dd1df24183]: Textual amendment: Words in s. 28A(1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 39(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/39/3); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-04604f14c97cef394a50b4dd1df24183]: Textual amendment: Words in s. 28A(1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 39(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/39/3); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-a9b70e55f3164241f5bfb0ce6f8d8543]: Textual amendment: Words in s. 28A(4) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 39(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/39/4); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-a9b70e55f3164241f5bfb0ce6f8d8543]: Textual amendment: Words in s. 28A(4) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 39(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/39/4); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-b41dde5792ceec32279fd8a591b9b973]: Textual amendment: [S. 28A(6A)](https://www.legislation.gov.uk/ukpga/2002/30/section/28A/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2002/30/section/28A/6B) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2023/41/section/45/2), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-b41dde5792ceec32279fd8a591b9b973]: Textual amendment: [S. 28A(6A)](https://www.legislation.gov.uk/ukpga/2002/30/section/28A/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2002/30/section/28A/6B) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2023/41/section/45/2), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

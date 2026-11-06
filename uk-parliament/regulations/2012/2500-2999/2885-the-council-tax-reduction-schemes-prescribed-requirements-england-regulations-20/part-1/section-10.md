@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Remunerative work[^key-8eca88dd34952f106f8de6ad88ba3538]
+## 10. Remunerative work[^c-8eca88dd34952f106f8de6ad88ba3538]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) A person on income support, an income-based jobseeker’s allowance or an income-related employment and support allowance for more than 3 days in any reduction week must be treated as not being in remunerative work in that week.
 
-(7) A person must not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave , shared parental leave[^key-2ecbef550f368a8bfd4837c0943ca2a4] , parental bereavement leave[^key-ef36287d1d3d2f8fe0c028338d804c65] , neonatal care leave[^key-f312cfd29ce855293e10e217aac60aeb] or adoption leave, or is absent from work because he is ill.
+(7) A person must not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave , shared parental leave[^c-2ecbef550f368a8bfd4837c0943ca2a4] , parental bereavement leave[^c-ef36287d1d3d2f8fe0c028338d804c65] , neonatal care leave[^c-f312cfd29ce855293e10e217aac60aeb] or adoption leave, or is absent from work because he is ill.
 
 (8) A person must not be treated as engaged in remunerative work on any day on which he is engaged in an activity in respect of which—
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8eca88dd34952f106f8de6ad88ba3538]: Commencement: Reg. 10 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-8eca88dd34952f106f8de6ad88ba3538]: Commencement: Reg. 10 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-2ecbef550f368a8bfd4837c0943ca2a4]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/10/7) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/27/3)
+[^c-2ecbef550f368a8bfd4837c0943ca2a4]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/10/7) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/27/3)
 
-[^key-ef36287d1d3d2f8fe0c028338d804c65]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/10/7) inserted (11.2.2020 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2020 (S.I. 2020/23)](https://www.legislation.gov.uk/uksi/2020/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/23/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/23/regulation/5)
+[^c-ef36287d1d3d2f8fe0c028338d804c65]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/10/7) inserted (11.2.2020 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2020 (S.I. 2020/23)](https://www.legislation.gov.uk/uksi/2020/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/23/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/23/regulation/5)
 
-[^key-f312cfd29ce855293e10e217aac60aeb]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/10/7) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2025/201/regulation/18/3)
+[^c-f312cfd29ce855293e10e217aac60aeb]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/10/7) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2025/201/regulation/18/3)

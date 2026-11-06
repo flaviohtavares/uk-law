@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Lease premiums[^key-ba1c58b9c0e082fd9c30b05aa45ad27a]
+## 105A. Lease premiums[^c-ba1c58b9c0e082fd9c30b05aa45ad27a]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ C is the net amount payable by P in relation to the lease by way of lease premiu
 
 ## Annotations
 
-[^key-ba1c58b9c0e082fd9c30b05aa45ad27a]: Textual amendment: Ss. 105A, 105B inserted (with effect in accordance with s. 71(4)-(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/71/3)
+[^c-ba1c58b9c0e082fd9c30b05aa45ad27a]: Textual amendment: Ss. 105A, 105B inserted (with effect in accordance with s. 71(4)-(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/71/3)

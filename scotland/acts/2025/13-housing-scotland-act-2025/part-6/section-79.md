@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Power to make provision about the declaration of a national housing emergency[^key-48d132cb73573c1701118977db626a00]
+## 79. Power to make provision about the declaration of a national housing emergency[^c-48d132cb73573c1701118977db626a00]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48d132cb73573c1701118977db626a00]: Commencement: S. 79 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-48d132cb73573c1701118977db626a00]: Commencement: S. 79 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

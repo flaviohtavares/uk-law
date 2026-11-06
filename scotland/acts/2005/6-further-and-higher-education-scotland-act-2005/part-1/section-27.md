@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Remit of the Scottish Public Services Ombudsman[^key-27420df35e964f59da7872609a942362]
+## 27. Remit of the Scottish Public Services Ombudsman[^c-27420df35e964f59da7872609a942362]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27420df35e964f59da7872609a942362]: Commencement: S. 27 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-27420df35e964f59da7872609a942362]: Commencement: S. 27 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

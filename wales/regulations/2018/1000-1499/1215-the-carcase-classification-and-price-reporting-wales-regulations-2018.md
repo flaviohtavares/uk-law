@@ -71,19 +71,19 @@ These Regulations make provision for a purpose mentioned in that section and it 
 - “**adult bovine animal**” (“***anifail buchol llawn-dwf***”) means a bovine animal aged eight months or more;
 - “**approved slaughterhouse**” (“***lladd-dy cymeradwy***”) means an establishment used for slaughtering adult bovine animals or pigs, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 4 of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c23544981];
 - “**authorised officer**” (“***swyddog awdurdodedig***”) means a person authorised by the Welsh Ministers for the purposes of these Regulations, but does not include a person appointed for the purpose of considering an appeal under regulation 10;
-- “**bovine carcase**” (“***carcas buchol***”) means a carcase or half-carcase of a slaughtered adult bovine animal bearing a health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-7c40b225ccc0cbfd238c47016be6b6ad]; and in this definition—
+- “**bovine carcase**” (“***carcas buchol***”) means a carcase or half-carcase of a slaughtered adult bovine animal bearing a health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-7c40b225ccc0cbfd238c47016be6b6ad]; and in this definition—
   - (a) “**carcase**” means the whole body of a slaughtered animal as presented after bleeding, evisceration and skinning, and
   - (b) “**half-carcase**” means the product obtained by separating the carcase symmetrically through the middle of each cervical, dorsal, lumbar and sacral vertebra and through the middle of the sternum and ischiopubic symphysis;
 - “**classification**” (“***dosbarthu***”) means—
-  - (a) the classification of bovine carcases in accordance with the assimilated[^key-43efea60742995aae4bd76902afb22b3] beef provisions, or
+  - (a) the classification of bovine carcases in accordance with the assimilated[^c-43efea60742995aae4bd76902afb22b3] beef provisions, or
   - (b) the classification of pig carcases in accordance with the assimilated pig provisions and with regulation 14,
 
   as the case may be and cognate terms are to be construed accordingly;
 - “**clean pig**” (“***mochyn glân***”) means a pig which has not been used for breeding;
 - “**Commission Delegated Regulation**” (“***Rheoliad Dirprwyedig y Comisiwn***”) means Commission Delegated Regulation (EU) No 2017/1182 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases of live animals [^c23545001];
 - “**Commission Implementing Regulation**” (“***Rheoliad Gweithredu'r Comisiwn***”) means Commission Implementing Regulation (EU) No 2017/1184 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals [^c23545011];
-- “[^key-c18e5341111b8c17139376ff23f29082]**assimilated beef provision**” (“***darpariaeth cig eidion a gymathwyd***”) means a provision which is specified in column (2) of Schedule 1, the subject matter of which is described in column (3) of that Schedule;
-- “[^key-b460fbcc7cf49da5f6063d08871f45b2]**assimilated pig provision**” (“***darpariaeth moch a gymathwyd***”) means a provision which is specified in column (2) of Schedule 2, the subject matter of which is described in column (3) of that Schedule;
+- “[^c-c18e5341111b8c17139376ff23f29082]**assimilated beef provision**” (“***darpariaeth cig eidion a gymathwyd***”) means a provision which is specified in column (2) of Schedule 1, the subject matter of which is described in column (3) of that Schedule;
+- “[^c-b460fbcc7cf49da5f6063d08871f45b2]**assimilated pig provision**” (“***darpariaeth moch a gymathwyd***”) means a provision which is specified in column (2) of Schedule 2, the subject matter of which is described in column (3) of that Schedule;
 - “**operator**” (“***gweithredwr***”) means a person carrying on the business of an approved slaughterhouse;
 - “**pig carcase**” (“***carcas mochyn***”) means the body of a slaughtered clean pig, bled and eviscerated, whole or divided down the mid-line;
 - “**prescribed communication**” (“***cyfathrebiad rhagnodedig***”) means a communication of the results of the classification as required by Article 1 of the Commission Implementing Regulation;
@@ -172,7 +172,7 @@ is deemed to have given notice under paragraph (1).
 (2) The Welsh Ministers are responsible for—
 
 - (a) Article 10 of the Commission Delegated Regulation (authorisation of automated grading methods);
-- (b)[^key-3503221afd625d86f724734cb765a734] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3503221afd625d86f724734cb765a734] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) on-the-spot checks as described in Articles 2 and 3 of the Commission Implementing Regulation.
 
 ### 8. Licence to carry out classification
@@ -252,7 +252,7 @@ is deemed to have given notice under paragraph (1).
 (2) The Welsh Ministers are responsible for—
 
 - (a) Article 11 of the Commission Delegated Regulation (authorisation of automated grading methods);
-- (b)[^key-42abc7187fd397aee78bf7dac71284f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-42abc7187fd397aee78bf7dac71284f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the on-the-spot checks as described in Articles 2 and 3 of the Commission Implementing Regulation.
 
 ### 14. Authorised grading methods
@@ -266,7 +266,7 @@ is deemed to have given notice under paragraph (1).
 
 ### 15. Records instead of marking
 
-An operator or the person responsible for the classification of pigs may, instead of marking a carcase in accordance with the assimilated[^key-b7aa812cb8d94fb7c4c39526c18b874f] pig provisions set out in Part 2 of Schedule 2, draw up a record for that carcase which comprises at least—
+An operator or the person responsible for the classification of pigs may, instead of marking a carcase in accordance with the assimilated[^c-b7aa812cb8d94fb7c4c39526c18b874f] pig provisions set out in Part 2 of Schedule 2, draw up a record for that carcase which comprises at least—
 
 - (a) the individual identification of the carcase by any unalterable means;
 - (b) the warm weight of the carcase; and
@@ -392,27 +392,27 @@ An authorised officer entering premises under these Regulations may—
 
 (3) Where a penalty notice is withdrawn, the Welsh Ministers must repay any penalty paid under the penalty notice to the person named in the penalty notice within 28 days, beginning with the date on which notice of the withdrawal of the penalty notice was sent.
 
-### 26. Offences: assimilated beef provisions[^key-7dd3c5b0573a1dd646e5353f4df9d529][^key-12661ea15efde11ab73e9b1fc0b6652c]
+### 26. Offences: assimilated beef provisions[^c-7dd3c5b0573a1dd646e5353f4df9d529][^c-12661ea15efde11ab73e9b1fc0b6652c]
 
 Any person who—
 
-- (a) fails to comply with any requirement under a assimilated[^key-27847a753e67c3ae3c7e86e7dec6e622] beef provision; or
-- (b) contravenes any prohibition contained in a assimilated[^key-344ef6e9a4b1b60645171b8e140f2f4a] beef provision,
+- (a) fails to comply with any requirement under a assimilated[^c-27847a753e67c3ae3c7e86e7dec6e622] beef provision; or
+- (b) contravenes any prohibition contained in a assimilated[^c-344ef6e9a4b1b60645171b8e140f2f4a] beef provision,
 
 is guilty of an offence.
 
-### 27. Offences: assimilated pig provisions[^key-e6675d453702d99e2e7b602219d1b447][^key-9abd3ccb14753de848e133471bd0e74d]
+### 27. Offences: assimilated pig provisions[^c-e6675d453702d99e2e7b602219d1b447][^c-9abd3ccb14753de848e133471bd0e74d]
 
 (1) Any person who—
 
-- (a) fails to comply with any requirement under a assimilated[^key-17182f69e3823e75fd6ae5e2a1762c7e] pig provision; or
-- (b) contravenes any prohibition contained in a assimilated[^key-5bd307051759bbfe44d789f94343e530] pig provision,
+- (a) fails to comply with any requirement under a assimilated[^c-17182f69e3823e75fd6ae5e2a1762c7e] pig provision; or
+- (b) contravenes any prohibition contained in a assimilated[^c-5bd307051759bbfe44d789f94343e530] pig provision,
 
 is guilty of an offence.
 
-(2) But where an operator or the person responsible for the classification of pig carcases draws up a record in compliance with the conditions referred to in regulation 15 (records instead of marking) no offence is committed by failure to comply with or contravening a Part 2 assimilated[^key-b410f0437ceabc47817b5203adc5156e] pig provision.
+(2) But where an operator or the person responsible for the classification of pig carcases draws up a record in compliance with the conditions referred to in regulation 15 (records instead of marking) no offence is committed by failure to comply with or contravening a Part 2 assimilated[^c-b410f0437ceabc47817b5203adc5156e] pig provision.
 
-(3) In this regulation, “**Part 2 assimilated[^key-eefddc7ccb3d077a6841ec0f8c194fb0] pig provision**” means a provision which is specified in column (2) of Part 2 of Schedule 2.
+(3) In this regulation, “**Part 2 assimilated[^c-eefddc7ccb3d077a6841ec0f8c194fb0] pig provision**” means a provision which is specified in column (2) of Part 2 of Schedule 2.
 
 ### 28. Offences: notifications by operators
 
@@ -497,8 +497,8 @@ It is a defence for a person charged with an offence under these Regulations (�
 (1) A person guilty of an offence under—
 
 - (a) regulation 20(3) (enforcement notices),
-- (b) regulation 26 (assimilated[^key-369918a59eb0707d31044b5ebef09d4f] beef provisions),
-- (c) regulation 27 (assimilated[^key-a91b3a59f0df5ed550958baa92b1b25a] pig provisions),
+- (b) regulation 26 (assimilated[^c-369918a59eb0707d31044b5ebef09d4f] beef provisions),
+- (c) regulation 27 (assimilated[^c-a91b3a59f0df5ed550958baa92b1b25a] pig provisions),
 - (d) regulation 28 (notifications by operators),
 - (e) regulation 29 (licences (bovine carcases)),
 - (f) regulation 30 (authorised grading methods: pig carcases)),
@@ -516,16 +516,16 @@ Lesley Griffiths
 
 Cabinet Secretary for Energy, Planning and Rural Affairs, one of the Welsh Ministers
 
-## SCHEDULE 1 — ASSIMILATED PROVISIONS: BOVINE CARCASES[^key-85dbc48709f1e1e5e3d1bc953d93af1e][^key-a6887ef3ef4c04bfe24fda17b07c7c29]
+## SCHEDULE 1 — ASSIMILATED PROVISIONS: BOVINE CARCASES[^c-85dbc48709f1e1e5e3d1bc953d93af1e][^c-a6887ef3ef4c04bfe24fda17b07c7c29]
 
 Regulation 2
 
-| *(1) Regulation containing assimilated[^key-0e71f66aa62e32e49d68ec9a1fe47db9] provision* | *(2) Provision* | *(3) Subject matter* |
+| *(1) Regulation containing assimilated[^c-0e71f66aa62e32e49d68ec9a1fe47db9] provision* | *(2) Provision* | *(3) Subject matter* |
 | --- | --- | --- |
 | Regulation (EU) 2013 | Article 10 and Annex IV, point A(II), together with Article 1 of the Commission Delegated Regulation (read with the Cattle Identification (Wales) Regulations 2007 [^c23545051]) | Requirement to indicate the category of carcase as specified in these provisions |
 |  | Article 10 and Annex IV, point A(III), together with Article 3(1) of, and Annex 1 to, the Commission Delegated Regulation | Requirement to indicate, in relation to a carcase, the class of conformation and fat cover as specified in these provisions |
 |  | Article 10 and Annex IV, point A(IV) | Requirement to present carcases in the specified manner |
-|  | Article 10 and Annex IV, point A(V), first sub-paragraph | Requirement for approved slaughterhouses to classify and identify carcases in accordance with the United Kingdom[^key-db7f4a8ab9c6a40cd154933db287265f] scale |
+|  | Article 10 and Annex IV, point A(V), first sub-paragraph | Requirement for approved slaughterhouses to classify and identify carcases in accordance with the United Kingdom[^c-db7f4a8ab9c6a40cd154933db287265f] scale |
 | Commission Delegated Regulation | Article 6(1) | Prohibition on removing fat, muscle or other tissue before weighing, grading and marking |
 |  | Article 6(3) | Requirement to present carcase in specified manner, for the purpose of establishing market prices |
 |  | Article 7(1) | Requirement as to the place and time of classification |
@@ -543,17 +543,17 @@ Regulation 2
 |  | Article 7 | Requirement as to classes for recording of market prices for beef carcases |
 |  | Article 8(1), (3) and (4) | Requirement as to recording of market prices |
 
-## SCHEDULE 2 — ASSIMILATED PROVISIONS: PIG CARCASES[^key-56f386791fcb29d116e9aecddf1bf2aa][^key-3c64136d891df22e9186be7fb0648fcb]
+## SCHEDULE 2 — ASSIMILATED PROVISIONS: PIG CARCASES[^c-56f386791fcb29d116e9aecddf1bf2aa][^c-3c64136d891df22e9186be7fb0648fcb]
 
 Regulations 2, 15 and 27
 
 ### PART 1
 
-| *(1) Regulation containing assimilated[^key-b6d35b07fae38bacb45796d77ef1c66a] provision* | *(2) Provision* | *(3) Subject matter* |
+| *(1) Regulation containing assimilated[^c-b6d35b07fae38bacb45796d77ef1c66a] provision* | *(2) Provision* | *(3) Subject matter* |
 | --- | --- | --- |
 | Regulation (EU) 2013 | Article 10 and Annex IV, point B(II) | Requirement to classify carcases into one of the specified classes |
 |  | Article 10 and Annex IV, point B(III), as modified by Articles 3 and 4 of Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom [^c23545061] | Requirement to present carcases in the specified manner |
-|  | Article 10 and Annex IV, point B(IV), sub-paragraph 1, together with Article 1 of, and Annex I to, Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to grade carcases by authorised methods[^key-0114b5df70fe329a5d39e95523c3a100] |
+|  | Article 10 and Annex IV, point B(IV), sub-paragraph 1, together with Article 1 of, and Annex I to, Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to grade carcases by authorised methods[^c-0114b5df70fe329a5d39e95523c3a100] |
 | Commission Delegated Regulation | Article 6(1) | Prohibition on removing fat, muscle or other tissue before weighing, grading and marking |
 |  | Article 7(1) | Requirement as to the place and time of classification |
 |  | Article 7(3)(b) and 7(4)(a) | Requirements as to weighing of carcase and weight adjustments |
@@ -568,7 +568,7 @@ Regulations 2, 15 and 27
 
 ### PART 2
 
-| *(1) Regulation containing assimilated[^key-0f896f3708d04ddbf1780ec08098a748] provision* | *(2) Provision* | *(3) Subject matter* |
+| *(1) Regulation containing assimilated[^c-0f896f3708d04ddbf1780ec08098a748] provision* | *(2) Provision* | *(3) Subject matter* |
 | --- | --- | --- |
 | Commission Delegated Regulation | Article 8(1), 8(2)(b), Article 8(3)(c) read with the second paragraph of that Article and Article 8(4) | Requirements as to marking or labelling of carcases |
 |  | Article 8(5) | Requirements in relation to labelling of a carcase |
@@ -662,72 +662,72 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23544981]: Marginal citation: OJ No L 139, 30.4.2004, p 55, as last amended by Commission Regulation (EU) No 2017/1981 (OJ No L 285, 1.11.2017, p. 10).
 
-[^key-7c40b225ccc0cbfd238c47016be6b6ad]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [26](https://www.legislation.gov.uk/wsi/2020/44/regulation/26)
+[^c-7c40b225ccc0cbfd238c47016be6b6ad]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [26](https://www.legislation.gov.uk/wsi/2020/44/regulation/26)
 
-[^key-43efea60742995aae4bd76902afb22b3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/2/a)
+[^c-43efea60742995aae4bd76902afb22b3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/2/a)
 
 [^c23545001]: Marginal citation: OJ No L 171, 4.7.2017, p. 74.
 
 [^c23545011]: Marginal citation: OJ No L 171, 4.7.2017, p. 103
 
-[^key-c18e5341111b8c17139376ff23f29082]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/2/b)
+[^c-c18e5341111b8c17139376ff23f29082]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/2/b)
 
-[^key-b460fbcc7cf49da5f6063d08871f45b2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/2/c)
+[^c-b460fbcc7cf49da5f6063d08871f45b2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/2/c)
 
 [^c23545021]: Marginal citation: OJ No L 347, 20.12.2013, p. 671, as last amended by Regulation (EU) No 2017/2393 (OJ No L 350, 29.12.2017, p. 15).
 
 [^c23545031]: Marginal citation: [S.I. 2013/3270](https://www.legislation.gov.uk/uksi/2013/3270) (W. 320).
 
-[^key-3503221afd625d86f724734cb765a734]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/7/2/b) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3503221afd625d86f724734cb765a734]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/7/2/b) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42abc7187fd397aee78bf7dac71284f9]: Textual amendment: [Reg. 13(2)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/13/2/b) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(4)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42abc7187fd397aee78bf7dac71284f9]: Textual amendment: [Reg. 13(2)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/13/2/b) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(4)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7aa812cb8d94fb7c4c39526c18b874f]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/wsi/2018/1215/regulation/15) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(3)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/3)
+[^c-b7aa812cb8d94fb7c4c39526c18b874f]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/wsi/2018/1215/regulation/15) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(3)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/3)
 
 [^c23545041]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); [sections 51](https://www.legislation.gov.uk/wsi/2018/1215/section/51) and 52 have been substituted by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 47](https://www.legislation.gov.uk/ukpga/2003/39/section/47).
 
-[^key-7dd3c5b0573a1dd646e5353f4df9d529]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(6)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7dd3c5b0573a1dd646e5353f4df9d529]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(6)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12661ea15efde11ab73e9b1fc0b6652c]: Textual amendment: Word in [reg. 26](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/4/a)
+[^c-12661ea15efde11ab73e9b1fc0b6652c]: Textual amendment: Word in [reg. 26](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/4/a)
 
-[^key-27847a753e67c3ae3c7e86e7dec6e622]: Textual amendment: Word in [reg. 26(a)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(4)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/4/b)
+[^c-27847a753e67c3ae3c7e86e7dec6e622]: Textual amendment: Word in [reg. 26(a)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(4)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/4/b)
 
-[^key-344ef6e9a4b1b60645171b8e140f2f4a]: Textual amendment: Word in [reg. 26(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(4)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/4/c)
+[^c-344ef6e9a4b1b60645171b8e140f2f4a]: Textual amendment: Word in [reg. 26(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/26/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(4)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/4/c)
 
-[^key-e6675d453702d99e2e7b602219d1b447]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(7)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6675d453702d99e2e7b602219d1b447]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(7)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9abd3ccb14753de848e133471bd0e74d]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/a)
+[^c-9abd3ccb14753de848e133471bd0e74d]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/a)
 
-[^key-17182f69e3823e75fd6ae5e2a1762c7e]: Textual amendment: Word in [reg. 27(1)(a)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/b/i)
+[^c-17182f69e3823e75fd6ae5e2a1762c7e]: Textual amendment: Word in [reg. 27(1)(a)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/b/i)
 
-[^key-5bd307051759bbfe44d789f94343e530]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/b/ii)
+[^c-5bd307051759bbfe44d789f94343e530]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/b/ii)
 
-[^key-b410f0437ceabc47817b5203adc5156e]: Textual amendment: Word in [reg. 27(2)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/c)
+[^c-b410f0437ceabc47817b5203adc5156e]: Textual amendment: Word in [reg. 27(2)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/c)
 
-[^key-eefddc7ccb3d077a6841ec0f8c194fb0]: Textual amendment: Word in [reg. 27(3)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(d)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/d)
+[^c-eefddc7ccb3d077a6841ec0f8c194fb0]: Textual amendment: Word in [reg. 27(3)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/27/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(5)(d)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/5/d)
 
-[^key-369918a59eb0707d31044b5ebef09d4f]: Textual amendment: Word in [reg. 36(1)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/36/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(6)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/6/a)
+[^c-369918a59eb0707d31044b5ebef09d4f]: Textual amendment: Word in [reg. 36(1)(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/36/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(6)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/6/a)
 
-[^key-a91b3a59f0df5ed550958baa92b1b25a]: Textual amendment: Word in [reg. 36(1)(c)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/36/1/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(6)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/6/b)
+[^c-a91b3a59f0df5ed550958baa92b1b25a]: Textual amendment: Word in [reg. 36(1)(c)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/36/1/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(6)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/6/b)
 
-[^key-85dbc48709f1e1e5e3d1bc953d93af1e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/7/a)
+[^c-85dbc48709f1e1e5e3d1bc953d93af1e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/7/a)
 
-[^key-a6887ef3ef4c04bfe24fda17b07c7c29]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(9)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6887ef3ef4c04bfe24fda17b07c7c29]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(9)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23545051]: Marginal citation: [S.I. 2007/842](https://www.legislation.gov.uk/uksi/2007/842) (W. 74). The Cattle Identification (Wales) Regulations 2007 establish a bovine animal identification and registration system in Wales, as specified in Article 1 of Regulation (EU) 2013.
 
-[^key-db7f4a8ab9c6a40cd154933db287265f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db7f4a8ab9c6a40cd154933db287265f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e71f66aa62e32e49d68ec9a1fe47db9]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/7/b)
+[^c-0e71f66aa62e32e49d68ec9a1fe47db9]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/7/b)
 
-[^key-56f386791fcb29d116e9aecddf1bf2aa]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(8)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/8/a)
+[^c-56f386791fcb29d116e9aecddf1bf2aa]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(8)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/8/a)
 
-[^key-3c64136d891df22e9186be7fb0648fcb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(10)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c64136d891df22e9186be7fb0648fcb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(10)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23545061]: Marginal citation: OJ No L 116, 22.4.2004, p. 32, as last amended by Commission Decision 2006/374/EC (OJ No L 142, 30.5.2006, p. 34).
 
-[^key-0114b5df70fe329a5d39e95523c3a100]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2/part/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(10)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0114b5df70fe329a5d39e95523c3a100]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2/part/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [9(10)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/9/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b6d35b07fae38bacb45796d77ef1c66a]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2/part/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(8)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/8/b)
+[^c-b6d35b07fae38bacb45796d77ef1c66a]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2/part/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(8)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/8/b)
 
-[^key-0f896f3708d04ddbf1780ec08098a748]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2/part/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(8)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/8/c)
+[^c-0f896f3708d04ddbf1780ec08098a748]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2018/1215/schedule/2/part/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [20(8)(c)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/20/8/c)

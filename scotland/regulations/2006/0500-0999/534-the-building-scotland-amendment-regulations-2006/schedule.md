@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE[^key-62ed6427ad39801067fded05ac02bd1e]
+## SCHEDULE[^c-62ed6427ad39801067fded05ac02bd1e]
 
 *Extent: S*
 
@@ -97,7 +97,7 @@ Regulation 2(c)
 >
 > A paved area or hardstanding. **Except**–A paved area or hardstanding exceeding 200 square metres in area. A paved area forming part of an access to meet a requirement of these Regulations.
 >
-> **SCHEDULE 2 — CONVERSIONS TO WHICH THE REGULATIONS APPLY[^key-deb9db1cc8ad42f3ecb73bd5785df7e2]**
+> **SCHEDULE 2 — CONVERSIONS TO WHICH THE REGULATIONS APPLY[^c-deb9db1cc8ad42f3ecb73bd5785df7e2]**
 >
 > Regulation 4
 >
@@ -740,7 +740,7 @@ Regulation 2(c)
 > - (a) This standard does not apply to–
 >   - (i) buildings which do not use fuel or power for controlling the temperature of the internal environment;
 >   - (ii) non-domestic buildings and buildings that are ancillary to a dwelling that are stand-alone having an area less than 50 square metres;
->   - (iii)[^key-3410eef5bd6ae18055354da67cec9741] conversions, alterations and extensions to buildings other than alterations and extensions to stand-alone buildings having an area less than 50 square metres that would increase the area to 50 square metres or more, or alterations to buildings involving the fit-out of the building shell which is the subject of a continuing requirement;
+>   - (iii)[^c-3410eef5bd6ae18055354da67cec9741] conversions, alterations and extensions to buildings other than alterations and extensions to stand-alone buildings having an area less than 50 square metres that would increase the area to 50 square metres or more, or alterations to buildings involving the fit-out of the building shell which is the subject of a continuing requirement;
 >   - (iv) limited life buildings which have an intended life of less than 2 years.
 > - (b) Standard 6.9(c) only applies to buildings with a floor area of more than 1000 square metres, which are occupied by public authorities and institutions providing public services, which can be visited by the public.
 >
@@ -748,7 +748,7 @@ Regulation 2(c)
 >
 > Every building must be designed and constructed in such a way that each part of a building designed for different occupation is fitted with fuel consumption meters.
 >
-> **Limitation[^key-fdcb61dc2ffead12589101d979c7b995]**
+> **Limitation[^c-fdcb61dc2ffead12589101d979c7b995]**
 >
 > This standard does not apply to–
 >
@@ -779,7 +779,7 @@ Regulation 2(c)
 
 ## Annotations
 
-[^key-62ed6427ad39801067fded05ac02bd1e]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
+[^c-62ed6427ad39801067fded05ac02bd1e]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
 
 [^f00003]: Footnote: S.I. [2005/1082](https://www.legislation.gov.uk/uksi/2005/1082).
 
@@ -791,7 +791,7 @@ Regulation 2(c)
 
 [^f00007]: Footnote: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38). Section 73 was amended by the [National Health Service ( Scotland) Act 1972 ( c.58)](https://www.legislation.gov.uk/ukpga/1972/58) Schedule 6, paragraph 56.
 
-[^key-deb9db1cc8ad42f3ecb73bd5785df7e2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) substituted (28.3.2007) by [The Building (Scotland) Amendment Regulations 2007 (S.S.I. 2007/166)](https://www.legislation.gov.uk/ssi/2007/166), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/166/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2007/166/regulation/2/a), [Sch.](https://www.legislation.gov.uk/ssi/2007/166/schedule)
+[^c-deb9db1cc8ad42f3ecb73bd5785df7e2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) substituted (28.3.2007) by [The Building (Scotland) Amendment Regulations 2007 (S.S.I. 2007/166)](https://www.legislation.gov.uk/ssi/2007/166), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/166/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2007/166/regulation/2/a), [Sch.](https://www.legislation.gov.uk/ssi/2007/166/schedule)
 
 [^f00008]: Footnote: S.I. [1984/467](https://www.legislation.gov.uk/uksi/1984/467).
 
@@ -803,6 +803,6 @@ Regulation 2(c)
 
 [^f00012]: Footnote: O.J. L 001, 4.1.2003, p.65–71.
 
-[^key-3410eef5bd6ae18055354da67cec9741]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) substituted (28.3.2007) by [The Building (Scotland) Amendment Regulations 2007 (S.S.I. 2007/166)](https://www.legislation.gov.uk/ssi/2007/166), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/166/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/ssi/2007/166/regulation/2/b/i)
+[^c-3410eef5bd6ae18055354da67cec9741]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) substituted (28.3.2007) by [The Building (Scotland) Amendment Regulations 2007 (S.S.I. 2007/166)](https://www.legislation.gov.uk/ssi/2007/166), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/166/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/ssi/2007/166/regulation/2/b/i)
 
-[^key-fdcb61dc2ffead12589101d979c7b995]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) substituted (28.3.2007) by [The Building (Scotland) Amendment Regulations 2007 (S.S.I. 2007/166)](https://www.legislation.gov.uk/ssi/2007/166), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/166/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/ssi/2007/166/regulation/2/b/ii)
+[^c-fdcb61dc2ffead12589101d979c7b995]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) substituted (28.3.2007) by [The Building (Scotland) Amendment Regulations 2007 (S.S.I. 2007/166)](https://www.legislation.gov.uk/ssi/2007/166), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/166/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/ssi/2007/166/regulation/2/b/ii)

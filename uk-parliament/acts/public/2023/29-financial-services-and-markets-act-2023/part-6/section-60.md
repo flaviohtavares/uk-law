@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Formerly authorised persons[^key-69a01f38f3f9ca771b224641d816e210]
+## 60. Formerly authorised persons[^c-69a01f38f3f9ca771b224641d816e210]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69a01f38f3f9ca771b224641d816e210]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/29/section/60) in force at 29.8.2023, see [s. 86(2)(f)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/f)
+[^c-69a01f38f3f9ca771b224641d816e210]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/29/section/60) in force at 29.8.2023, see [s. 86(2)(f)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/f)

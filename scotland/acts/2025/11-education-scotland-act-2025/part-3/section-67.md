@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Short title[^key-bc23abdbd9a08069a2a14516f8dea4a1]
+## 67. Short title[^c-bc23abdbd9a08069a2a14516f8dea4a1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Education (Scotland) Act 2025.
 
 ## Annotations
 
-[^key-bc23abdbd9a08069a2a14516f8dea4a1]: Commencement: S. 67 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)
+[^c-bc23abdbd9a08069a2a14516f8dea4a1]: Commencement: S. 67 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)

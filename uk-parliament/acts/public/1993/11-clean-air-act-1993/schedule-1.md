@@ -30,7 +30,7 @@ Section 18(4).
 
 *Extent: E+W*
 
-**1A.**[^key-90b8d5719e618069139e7b26f7094621] If the local authority is in Wales, it must also publish the notice electronically and keep it published throughout the period mentioned in paragraph 1(b).
+**1A.**[^c-90b8d5719e618069139e7b26f7094621] If the local authority is in Wales, it must also publish the notice electronically and keep it published throughout the period mentioned in paragraph 1(b).
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ Section 18(4).
 
 **4.** Subject to paragraphs 5 and 6, an order shall come into operation on such date not less than six months after it is made as may be specified in it.
 
-**5.** An order varying a previous order so as to exempt specified buildings or classes of building or specified fireplaces or classes of fireplace from the operation of Schedule 1A (penalty for emission of smoke in England or Wales)[^key-c5fed193600b815f1f8f8e3ea85f69a8] may come into operation on, or at any time after, the date on which it is made.
+**5.** An order varying a previous order so as to exempt specified buildings or classes of building or specified fireplaces or classes of fireplace from the operation of Schedule 1A (penalty for emission of smoke in England or Wales)[^c-c5fed193600b815f1f8f8e3ea85f69a8] may come into operation on, or at any time after, the date on which it is made.
 
 **6.** If, before the date on which the order is to come into operation, the local authority—
 
@@ -51,12 +51,12 @@ Section 18(4).
 
 the order shall, unless its coming into operation is again postponed under this paragraph, come into operation on the date specified in the resolution.
 
-**6A.**[^key-df25602866f3d3e5068b08ca441b1e39] When a local authority in England has made an order, the authority must—
+**6A.**[^c-df25602866f3d3e5068b08ca441b1e39] When a local authority in England has made an order, the authority must—
 
 - (a) inform the Secretary of State that it has done so, and
 - (b) provide the date on which the order is to come, or came, into operation.
 
-**6B.**[^key-a1cd9a7e44a96b9f58d3ea44bc7de380] When a local authority in Wales has made an order, the authority must—
+**6B.**[^c-a1cd9a7e44a96b9f58d3ea44bc7de380] When a local authority in Wales has made an order, the authority must—
 
 - (a) inform the Welsh Ministers that it has done so, and
 - (b) provide the date on which the order is to come, or came, into operation.
@@ -65,10 +65,10 @@ the order shall, unless its coming into operation is again postponed under this 
 
 ## Annotations
 
-[^key-90b8d5719e618069139e7b26f7094621]: Textual amendment: Sch. 1 paras. 1A, 1B inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-90b8d5719e618069139e7b26f7094621]: Textual amendment: Sch. 1 paras. 1A, 1B inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-c5fed193600b815f1f8f8e3ea85f69a8]: Textual amendment: Words in Sch. 1 para. 5 substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-c5fed193600b815f1f8f8e3ea85f69a8]: Textual amendment: Words in Sch. 1 para. 5 substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-df25602866f3d3e5068b08ca441b1e39]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/1993/11/schedule/1/paragraph/6A) inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 24(3)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/24/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-df25602866f3d3e5068b08ca441b1e39]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/1993/11/schedule/1/paragraph/6A) inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 24(3)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/24/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-a1cd9a7e44a96b9f58d3ea44bc7de380]: Textual amendment: Sch. 1 para. 6B inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 21(c)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21/c); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-a1cd9a7e44a96b9f58d3ea44bc7de380]: Textual amendment: Sch. 1 para. 6B inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 21(c)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/21/c); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)

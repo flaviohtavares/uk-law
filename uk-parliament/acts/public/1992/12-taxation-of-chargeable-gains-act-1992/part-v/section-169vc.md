@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169VC. Investors' relief[^key-da6373f53cd2a48dadc69f2b31893233]
+## 169VC. Investors' relief[^c-da6373f53cd2a48dadc69f2b31893233]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) a chargeable gain accrues to the qualifying person on the disposal, and
 - (b) a claim for relief under this section is made,
 
-the rate of capital gains tax in respect of the relevant gain is 18%[^key-2ef92d8c1ceaf369de28d5dc21dce8b2].
+the rate of capital gains tax in respect of the relevant gain is 18%[^c-2ef92d8c1ceaf369de28d5dc21dce8b2].
 
 (3) In subsection (2) “**the relevant gain**” means—
 
@@ -55,6 +55,6 @@ the rate of capital gains tax in respect of the relevant gain is 18%[^key-2ef92d
 
 ## Annotations
 
-[^key-da6373f53cd2a48dadc69f2b31893233]: Textual amendment: Pt. 5 Ch. 5 inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/2)
+[^c-da6373f53cd2a48dadc69f2b31893233]: Textual amendment: Pt. 5 Ch. 5 inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/2)
 
-[^key-2ef92d8c1ceaf369de28d5dc21dce8b2]: Textual amendment: Word in s. 169VC(2) substituted (with effect in accordance with s. 9(8) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 9(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/9/5)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/9/8) (with [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/3))
+[^c-2ef92d8c1ceaf369de28d5dc21dce8b2]: Textual amendment: Word in s. 169VC(2) substituted (with effect in accordance with s. 9(8) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 9(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/9/5)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/9/8) (with [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/3))

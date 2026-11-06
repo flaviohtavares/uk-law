@@ -41,17 +41,17 @@ Coming into force
 
 Whereas Clydeport Operations Limited, a company incorporated under the Companies Act 1985[^f00001] with the number 134759 has applied in writing for a harbour revision order under section 14 of the Harbours Act 1964[^f00002];
 
-And whereas no objections to the application have been made pursuant to paragraph 10(2)(f) of Schedule 3 to the said Act[^f00003];[^key-796b63944345b67fdc058b71cd28ff40]
+And whereas no objections to the application have been made pursuant to paragraph 10(2)(f) of Schedule 3 to the said Act[^f00003];[^c-796b63944345b67fdc058b71cd28ff40]
 
-Now, therefore, the Scottish Ministers in exercise of the powers conferred on them by section 14 of the said Act[^f00004] and of all other powers enabling them in that behalf and being satisfied that the making of the order is desirable on the grounds that Yorkhill Basin is surplus to the requirements of the Company and would be capable of being put to other beneficial uses in connection with the development and regeneration of the area, hereby make the following Order:[^key-796b63944345b67fdc058b71cd28ff40]
+Now, therefore, the Scottish Ministers in exercise of the powers conferred on them by section 14 of the said Act[^f00004] and of all other powers enabling them in that behalf and being satisfied that the making of the order is desirable on the grounds that Yorkhill Basin is surplus to the requirements of the Company and would be capable of being put to other beneficial uses in connection with the development and regeneration of the area, hereby make the following Order:[^c-796b63944345b67fdc058b71cd28ff40]
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-42f88112103d634bd2b0a6605aa88203]
+### 1. Citation, commencement and extent[^c-42f88112103d634bd2b0a6605aa88203]
 
 This Order may be cited as the Clydeport (Closure of Yorkhill Basin) Harbour Revision Order 2002 and shall come into force on 12th March 2002.
 
-### 2. Interpretation[^key-a670d32d0642586289f37b4ec9147e7e]
+### 2. Interpretation[^c-a670d32d0642586289f37b4ec9147e7e]
 
 In this Order–
 
@@ -62,11 +62,11 @@ In this Order–
 
 ## PART II — CLOSURE OF YORKHILL BASIN
 
-### 3. Closure of Yorkhill Basin[^key-3b3dbf42ac28bf297b28eb5b034f9b67]
+### 3. Closure of Yorkhill Basin[^c-3b3dbf42ac28bf297b28eb5b034f9b67]
 
 Subject to the provisions of this Order, the Company may close Yorkhill Basin.
 
-### 4. Removal of vessels from Yorkhill Basin[^key-e0f590b7c1542836ab0aaf4cc88d63e8]
+### 4. Removal of vessels from Yorkhill Basin[^c-e0f590b7c1542836ab0aaf4cc88d63e8]
 
 (1) Before exercising the power conferred on them by Article 3 (closure of Yorkhill Basin) of this Order to close Yorkhill Basin the Company shall–
 
@@ -85,11 +85,11 @@ Subject to the provisions of this Order, the Company may close Yorkhill Basin.
 
 (5) The powers conferred on the Company and the harbourmaster by this Article shall be in addition to and without prejudice to the powers as to the removal of vessels conferred upon them by sections 64 and 65 of the Harbours, Docks and Piers Clauses Act 1847[^f00006].
 
-### 5. As to vessels entering Yorkhill Basin after date of closure[^key-f4966759847150f87757c611cc0cfb2c]
+### 5. As to vessels entering Yorkhill Basin after date of closure[^c-f4966759847150f87757c611cc0cfb2c]
 
 If any vessel enters Yorkhill Basin after the date specified in accordance with paragraph (2)(b) of Article 4 (removal of vessels from Yorkhill Basin) of this Order, the harbourmaster may direct the master of such vessel forthwith to remove the vessel from Yorkhill Basin, and if the master of such vessel does not forthwith comply with such directions the provisions of paragraphs (3) to (5) inclusive of the said Article 4 shall apply to and in respect of such vessel as if such vessel had been within Yorkhill Basin before the said date.
 
-### 6. Rights of navigation on Yorkhill Basin extinguished[^key-61131c290ea6a95e16e2269aa188d86e]
+### 6. Rights of navigation on Yorkhill Basin extinguished[^c-61131c290ea6a95e16e2269aa188d86e]
 
 (1) After the date specified in accordance with paragraph 2(b) of Article 4 any right of navigation on Yorkhill Basin shall be extinguished.
 
@@ -115,22 +115,22 @@ This Order empowers Clydeport Operations Limited to close Yorkhill Basin, exting
 
 [^f00003]: Footnote: Paragraph 10(2)(f) was inserted by the Harbour Works (Environmental Impact Assessment) Regulations (S.I. [1999/3445](https://www.legislation.gov.uk/uksi/1999/3445)), Regulation 15(4) and Schedule 3.
 
-[^key-796b63944345b67fdc058b71cd28ff40]: Modification: Order applied (with modifications) (temp.) (13.10.2021) by [The Clydeport (COP 26 etc.) Harbour Revision Order 2021 (S.S.I. 2021/358)](https://www.legislation.gov.uk/ssi/2021/358), [arts. 1](https://www.legislation.gov.uk/ssi/2021/358/article/1), [16](https://www.legislation.gov.uk/ssi/2021/358/article/16), [17](https://www.legislation.gov.uk/ssi/2021/358/article/17) (with [art. 18](https://www.legislation.gov.uk/ssi/2021/358/article/18))
+[^c-796b63944345b67fdc058b71cd28ff40]: Modification: Order applied (with modifications) (temp.) (13.10.2021) by [The Clydeport (COP 26 etc.) Harbour Revision Order 2021 (S.S.I. 2021/358)](https://www.legislation.gov.uk/ssi/2021/358), [arts. 1](https://www.legislation.gov.uk/ssi/2021/358/article/1), [16](https://www.legislation.gov.uk/ssi/2021/358/article/16), [17](https://www.legislation.gov.uk/ssi/2021/358/article/17) (with [art. 18](https://www.legislation.gov.uk/ssi/2021/358/article/18))
 
 [^f00004]: Footnote: The Scottish Ministers are the “appropriate Minister” under section 14(7) of the Harbours Act [1964 (c. 46)](https://www.legislation.gov.uk/ukpga/1964/46).
 
-[^key-42f88112103d634bd2b0a6605aa88203]: Commencement: Art. 1 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
+[^c-42f88112103d634bd2b0a6605aa88203]: Commencement: Art. 1 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
 
-[^key-a670d32d0642586289f37b4ec9147e7e]: Commencement: Art. 2 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
+[^c-a670d32d0642586289f37b4ec9147e7e]: Commencement: Art. 2 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
 
 [^f00005]: Footnote: [1965 c.xlv](https://www.legislation.gov.uk/ukla/1965/45).
 
-[^key-3b3dbf42ac28bf297b28eb5b034f9b67]: Commencement: Art. 3 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
+[^c-3b3dbf42ac28bf297b28eb5b034f9b67]: Commencement: Art. 3 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
 
-[^key-e0f590b7c1542836ab0aaf4cc88d63e8]: Commencement: Art. 4 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
+[^c-e0f590b7c1542836ab0aaf4cc88d63e8]: Commencement: Art. 4 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
 
 [^f00006]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
-[^key-f4966759847150f87757c611cc0cfb2c]: Commencement: Art. 5 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
+[^c-f4966759847150f87757c611cc0cfb2c]: Commencement: Art. 5 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
 
-[^key-61131c290ea6a95e16e2269aa188d86e]: Commencement: Art. 6 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)
+[^c-61131c290ea6a95e16e2269aa188d86e]: Commencement: Art. 6 in force at 12.3.2002, see [art. 1](https://www.legislation.gov.uk/ssi/2002/121/article/1)

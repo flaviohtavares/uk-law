@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Report of investigation[^key-72d63d922658091fe3488f73ec791a26]
+## 21. Report of investigation[^c-72d63d922658091fe3488f73ec791a26]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) provide an accurate summary of the evidence;
 - (b) attach or refer to any relevant documents;
 - (c) indicate the investigator's opinion as to whether there is a case to answer in respect of misconduct or gross misconduct or whether there is no case to answer, and
-- (d) where the investigator's opinion under sub-paragraph (c) is that there is no case to answer, indicate the investigator's opinion as to whether the matter should be referred to be dealt with under the Vetting Regulations,[^key-7c5542041c98ab1a7249f9c331492d3a] the Performance Regulations or the reflective practice review process.
+- (d) where the investigator's opinion under sub-paragraph (c) is that there is no case to answer, indicate the investigator's opinion as to whether the matter should be referred to be dealt with under the Vetting Regulations,[^c-7c5542041c98ab1a7249f9c331492d3a] the Performance Regulations or the reflective practice review process.
 
 (3) If at any time during the investigation the investigator believes that the appropriate authority would, on consideration of the matter, be likely to determine that the special conditions are satisfied, the investigator must, whether or not the investigation is complete, submit to the appropriate authority—
 
@@ -38,7 +38,7 @@ summary: ''
 
 - (a) a statement of the investigator's belief and the grounds for it;
 - (b) a written report on the investigation to that point, and
-- (c) a statement of the investigator's opinion as to whether the matter should be referred to be dealt with under the Vetting Regulations,[^key-d71833b1e51a059bf1f0e20d8810320c] the Performance Regulations or the reflective practice review process.
+- (c) a statement of the investigator's opinion as to whether the matter should be referred to be dealt with under the Vetting Regulations,[^c-d71833b1e51a059bf1f0e20d8810320c] the Performance Regulations or the reflective practice review process.
 
 (5) Where a report is submitted to the appropriate authority under paragraph (4), the appropriate authority must make a further severity assessment under regulation 14.
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-72d63d922658091fe3488f73ec791a26]: Commencement: Reg. 21 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-72d63d922658091fe3488f73ec791a26]: Commencement: Reg. 21 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-7c5542041c98ab1a7249f9c331492d3a]: Textual amendment: Words in reg. 21(2)(d) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/11/2) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-7c5542041c98ab1a7249f9c331492d3a]: Textual amendment: Words in reg. 21(2)(d) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/11/2) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-d71833b1e51a059bf1f0e20d8810320c]: Textual amendment: Words in reg. 21(4)(c) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/11/3) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-d71833b1e51a059bf1f0e20d8810320c]: Textual amendment: Words in reg. 21(4)(c) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2025/558/regulation/11/3) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))

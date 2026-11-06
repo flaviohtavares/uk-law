@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Planning applications of potential strategic importance[^key-47cf0da93190cffd2bf6b55f7c0045fc]
+## 33. Planning applications of potential strategic importance[^c-47cf0da93190cffd2bf6b55f7c0045fc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 14 confers on mayors of combined authorities and CCAs functions in rela
 
 ## Annotations
 
-[^key-47cf0da93190cffd2bf6b55f7c0045fc]: Commencement: S. 33 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-47cf0da93190cffd2bf6b55f7c0045fc]: Commencement: S. 33 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

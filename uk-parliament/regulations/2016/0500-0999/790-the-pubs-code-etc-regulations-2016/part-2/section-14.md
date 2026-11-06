@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Short agreements[^key-cf0d3d8641a8d7ed8c005c0d3e4d1532]
+## 14. Short agreements[^c-cf0d3d8641a8d7ed8c005c0d3e4d1532]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf0d3d8641a8d7ed8c005c0d3e4d1532]: Commencement: Reg. 14 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-cf0d3d8641a8d7ed8c005c0d3e4d1532]: Commencement: Reg. 14 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

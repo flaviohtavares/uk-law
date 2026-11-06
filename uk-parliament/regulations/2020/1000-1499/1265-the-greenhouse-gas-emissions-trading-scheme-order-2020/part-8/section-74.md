@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Procedure for appeals[^key-1fd598f9b26ba80e2c482b864492c56f]
+## 74. Procedure for appeals[^c-1fd598f9b26ba80e2c482b864492c56f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd598f9b26ba80e2c482b864492c56f]: Commencement: Art. 74 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-1fd598f9b26ba80e2c482b864492c56f]: Commencement: Art. 74 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

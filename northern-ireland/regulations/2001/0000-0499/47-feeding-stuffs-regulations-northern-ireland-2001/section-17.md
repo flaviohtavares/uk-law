@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Control of feeding stuffs intended for particular nutritional purposes and supplementary provisions relating to statutory statement[^key-1c3e662b97d7fb58cd85c2b2fe313535]
+## 17. Control of feeding stuffs intended for particular nutritional purposes and supplementary provisions relating to statutory statement[^c-1c3e662b97d7fb58cd85c2b2fe313535]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c3e662b97d7fb58cd85c2b2fe313535]: Commencement: Reg. 17 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-1c3e662b97d7fb58cd85c2b2fe313535]: Commencement: Reg. 17 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

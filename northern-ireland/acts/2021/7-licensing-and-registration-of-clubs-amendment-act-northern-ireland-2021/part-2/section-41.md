@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Code of practice[^key-cf16facb5d14e0acca135244f1198ce5][^key-6a236fec75920c15005a507985172cfc]
+## 41. Code of practice[^c-cf16facb5d14e0acca135244f1198ce5][^c-6a236fec75920c15005a507985172cfc]
 
 *Extent: N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf16facb5d14e0acca135244f1198ce5]: Commencement: S. 41 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-cf16facb5d14e0acca135244f1198ce5]: Commencement: S. 41 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-6a236fec75920c15005a507985172cfc]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2021/7/section/41) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-6a236fec75920c15005a507985172cfc]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2021/7/section/41) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

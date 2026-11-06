@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to the right of the owner of copyright in a literary, dramatic, musical or artistic work, sound recording or film to grant or refuse authorisation for cable re-transmission of a wireless[^c19373471] broadcast from an[^key-20708abd24a43f80379900d7d7feb23b] EEA [^c19452391]. . . state in which the work is included. That right is referred to below as “cable re-transmission right”.
+(1) This section applies to the right of the owner of copyright in a literary, dramatic, musical or artistic work, sound recording or film to grant or refuse authorisation for cable re-transmission of a wireless[^c19373471] broadcast from an[^c-20708abd24a43f80379900d7d7feb23b] EEA [^c19452391]. . . state in which the work is included. That right is referred to below as “cable re-transmission right”.
 
 (2) Cable re-transmission right may be exercised against a cable operator only through a licensing body.
 
@@ -43,7 +43,7 @@ summary: ''
 
 [^c19373471]: Textual amendment: Word in s. 144A(1) inserted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 5(6)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/5/6) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-20708abd24a43f80379900d7d7feb23b]: Textual amendment: Word in s. 144A(1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/605/regulation/13) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-20708abd24a43f80379900d7d7feb23b]: Textual amendment: Word in s. 144A(1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/605/regulation/13) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
 [^c19452391]: Textual amendment: Word in s. 144A(1) repealed (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2006/1028/regulation/2/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/4)
 

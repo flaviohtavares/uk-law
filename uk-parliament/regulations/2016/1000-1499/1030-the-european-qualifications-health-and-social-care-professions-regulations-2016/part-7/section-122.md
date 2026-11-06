@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Amendment of section 74 (English text)[^key-57b9e044b6caa8f55bbf524316144e25]
+## 122. Amendment of section 74 (English text)[^c-57b9e044b6caa8f55bbf524316144e25]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57b9e044b6caa8f55bbf524316144e25]: Commencement: Reg. 122 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-57b9e044b6caa8f55bbf524316144e25]: Commencement: Reg. 122 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

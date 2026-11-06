@@ -50,17 +50,17 @@ Whereas a draft of this Order has been laid before and approved by a resolution 
 
 Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by sections 30(3) and 113 of the Scotland Act 1998[^f00001] and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation and commencement[^key-0cae96b42f5d9fcbe5f2032c5c849b82]
+## 1. Citation and commencement[^c-0cae96b42f5d9fcbe5f2032c5c849b82]
 
 This Order may be cited as the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 and shall come into force on 30th June 1999.
 
-## 2. Interpretation[^key-27f6bb0b00147639f374ae85f614b0e4]
+## 2. Interpretation[^c-27f6bb0b00147639f374ae85f614b0e4]
 
 (1) In this Order–
 
 - “the 1949 Act” means the Wireless Telegraphy Act 1949[^f00002]
 - “the 1984 Act” means the Repatriation of Prisoners Act 1984[^f00003]
-- [^key-16c5deb4834c3424a82c909c2e317cd1]...
+- [^c-16c5deb4834c3424a82c909c2e317cd1]...
 - “the 1989 Act” means the Prisons (Scotland) Act 1989[^f00005]
 - “the 1991 Act” means the Criminal Justice Act 1991[^f00006]
 - “the 1993 Act” means the Prisoners and Criminal Proceedings (Scotland) Act 1993[^f00007]
@@ -77,19 +77,19 @@ This Order may be cited as the Scotland Act 1998 (Functions Exercisable in or as
 
 (2) Any word or expression used in this Order in referring to any enactment and also used in the enactment has the same meaning as it has in the enactment.
 
-## 3. General[^key-604ff115c812f7bbb63d9fe6ebc2bca1]
+## 3. General[^c-604ff115c812f7bbb63d9fe6ebc2bca1]
 
 The functions specified in Schedule 1 to this Order are to be treated, for such purposes of the 1998 Act as may be so specified in relation to that function, as being or, as the case may be, not being functions which are exercisable in or as regards Scotland.
 
-## 4. Prisoners etc.[^key-07fa95a91090e08df71161f9643149e6]
+## 4. Prisoners etc.[^c-07fa95a91090e08df71161f9643149e6]
 
 (1) Any function under the 1984 Act, the 1993 Act, the 1997 Act or the 1998 Order which is specified in Schedule 2 to this Order is to be treated for the purposes of section 53 of the 1998 Act as being a function exercisable in or as regards Scotland if the function is exercisable in the case mentioned in relation to that function.
 
 (2) Any function under the 1989 Act or the 1993 Act which is specified in Schedule 3 to this Order is to be treated for the purposes of section 53 of the 1998 Act as being a function exercisable in or as regards Scotland if the function is exercisable in the case mentioned in relation to that function.
 
-## 5. Fisheries and aquaculture[^key-7efc29d6f6f1cb868ca869cc9ee4e835]
+## 5. Fisheries and aquaculture[^c-7efc29d6f6f1cb868ca869cc9ee4e835]
 
-So far as a function under assimilated[^key-361ed941ee9e1e18789f32213bb102c4][^key-659c6a4d66870044dc5be6a6d1d7bf95] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable–
+So far as a function under assimilated[^c-361ed941ee9e1e18789f32213bb102c4][^c-659c6a4d66870044dc5be6a6d1d7bf95] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable–
 
 - (a) in relation to fishing or aquaculture in the Scottish zone;
 - (b) in relation to fishing outside that zone by Scottish fishing boats;
@@ -97,7 +97,7 @@ So far as a function under assimilated[^key-361ed941ee9e1e18789f32213bb102c4][^k
 
 it shall be treated for all purposes of the 1998 Act as exercisable in or as regards Scotland.
 
-## 6. Agriculture[^key-0303346d25310c8b0e1b4b3c9c2b2e01]
+## 6. Agriculture[^c-0303346d25310c8b0e1b4b3c9c2b2e01]
 
 (1) So far as a specified function under EU[^M_F_8de4b8b4-b34d-4195-ab9d-cb3d93f75598] law, or a function to which section 53(2)(a) of the 1998 Act applies, is exercisable in relation to a Scottish farmer it shall be treated for all purposes of the 1998 Act as exercisable in or as regards Scotland.
 
@@ -106,11 +106,11 @@ it shall be treated for all purposes of the 1998 Act as exercisable in or as reg
 - “Scottish farmer” means a farmer whose holding is situated wholly or partly in Scotland and “farmer” and “holding” shall have the same meaning as in Article 1.4 of Council Regulation 3508/92 establishing an integrated administration and control system for certain Community aid schemes; and
 - “specified function under EU law” means any function related to the implementation of any legislative instrument of the European Union adopted in pursuance of its common agricultural policy, which applies in relation to agricultural activities by reference to a holding.
 
-## 7. Marine dredging[^key-92315a5439fc680f0a161b2cf0f49e9a]
+## 7. Marine dredging[^c-92315a5439fc680f0a161b2cf0f49e9a]
 
-So far as a function under assimilated[^key-5505b16d37cf27108d99fbabfa952786][^key-b7a46864ced384a653ab23e4b1765c7e] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable in relation to the extraction of minerals by dredging in the Scottish zone, it shall be treated for all purposes of the 1998 Act as exercisable in or as regards Scotland.
+So far as a function under assimilated[^c-5505b16d37cf27108d99fbabfa952786][^c-b7a46864ced384a653ab23e4b1765c7e] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable in relation to the extraction of minerals by dredging in the Scottish zone, it shall be treated for all purposes of the 1998 Act as exercisable in or as regards Scotland.
 
-## 8. Functions not exercisable in or as regards Scotland: prisoners etc.[^key-213979e94c157c1b564581bb3cf76fd3]
+## 8. Functions not exercisable in or as regards Scotland: prisoners etc.[^c-213979e94c157c1b564581bb3cf76fd3]
 
 (1) Where a function under a particular provision of the 1984 Act, the 1993 Act the 1997 Act or the 1998 Order is specified in Schedule 2 to this Order, any further function under that provision is to be treated for the purposes of section 53 of the 1998 Act as not being a function exercisable in or as regards Scotland.
 
@@ -124,78 +124,78 @@ Clerk of the Privy Council
 
 Article 3
 
-### 1. Wireless Telegraphy Act [1949 (c. 54)](https://www.legislation.gov.uk/ukpga/1949/54)[^key-5142118ead84f7d3255a0c895341ae9c]
+### 1. Wireless Telegraphy Act [1949 (c. 54)](https://www.legislation.gov.uk/ukpga/1949/54)[^c-5142118ead84f7d3255a0c895341ae9c]
 
-(1) The function of the Secretary of State under section 5(1)(b)[^key-fe87b044077e2416a9800ab1fb24e1d2] of the 1949 Act (misleading messages and interception and disclosure of messages) is, for the purposes of section 63 of the 1998 Act, to be treated–
+(1) The function of the Secretary of State under section 5(1)(b)[^c-fe87b044077e2416a9800ab1fb24e1d2] of the 1949 Act (misleading messages and interception and disclosure of messages) is, for the purposes of section 63 of the 1998 Act, to be treated–
 
 - (a) as a function exercisable in or as regards Scotland if it is exercisable in the class of case mentioned in sub-paragraph (2) below; but
 - (b) as otherwise not being exercisable in or as regards Scotland.
 
-(2) The class of case mentioned in this sub-paragraph constitutes any case where an authorisation of the Secretary of State under section 5(1)(b)[^key-7f4be4b806ae4551dad7d8d7ec3136c3] of the 1949 Act would authorise a person–
+(2) The class of case mentioned in this sub-paragraph constitutes any case where an authorisation of the Secretary of State under section 5(1)(b)[^c-7f4be4b806ae4551dad7d8d7ec3136c3] of the 1949 Act would authorise a person–
 
-- (a) to use any wireless telegraphy apparatus with intent to obtain information as to the contents, sender or addressee of any message (whether sent by means of wireless telegraphy or not) of which neither the person using the apparatus nor a person on whose behalf he is acting is an intended recipient[^key-e5941bebc3a57c161721d3fc03e81a84] where–
+- (a) to use any wireless telegraphy apparatus with intent to obtain information as to the contents, sender or addressee of any message (whether sent by means of wireless telegraphy or not) of which neither the person using the apparatus nor a person on whose behalf he is acting is an intended recipient[^c-e5941bebc3a57c161721d3fc03e81a84] where–
   - (i) the person authorised to use the wireless telegraphy apparatus is in Scotland; and
   - (ii) the person who is the sender or addressee of any such message is, or is reasonably believed by the person authorised to use the wireless telegraphy apparatus to be, located in Scotland when the apparatus is used with intent to obtain information as to the contents, sender or addressee of the message; and
 - (b) to disclose any information as to the contents, sender or addressee of any such message.
 
-### 2. Pharmacy Act [1954 (c. 61)](https://www.legislation.gov.uk/ukpga/1954/61)[^key-249b33da2ff344cf338cc2389c0b69d4]
+### 2. Pharmacy Act [1954 (c. 61)](https://www.legislation.gov.uk/ukpga/1954/61)[^c-249b33da2ff344cf338cc2389c0b69d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Medicines Act [1968 (c. 67)](https://www.legislation.gov.uk/ukpga/1968/67)[^key-1c8e2854c02036a26c21e617ecbbf11d]
+### 3. Medicines Act [1968 (c. 67)](https://www.legislation.gov.uk/ukpga/1968/67)[^c-1c8e2854c02036a26c21e617ecbbf11d]
 
 (1) The function of the Ministers under section 2 of the Medicines Act 1968 of appointing members of the Medicines Commission is to be treated, for the purposes of section 63 of the 1998 Act, as exercisable in or as regards Scotland.
 
 (2) The function of the Ministers, the Health Ministers or the Agriculture Ministers under section 4(1) and (5) of the Medicines Act 1968 of establishing committees and appointing the members and chairmen of such committees is to be treated, for the purposes of section 63 of the 1998 Act, as exercisable in or as regards Scotland.
 
-### 4. Taxes Management Act [1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9)[^key-975d6dc7fda8cd9cc6d2c07e3ce87e03]
+### 4. Taxes Management Act [1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9)[^c-975d6dc7fda8cd9cc6d2c07e3ce87e03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Data Protection Act [1984 (c. 35)](https://www.legislation.gov.uk/ukpga/1984/35)[^key-b10efc0f3628162d96f8a90ca93c3de2]
+### 5. Data Protection Act [1984 (c. 35)](https://www.legislation.gov.uk/ukpga/1984/35)[^c-b10efc0f3628162d96f8a90ca93c3de2]
 
 The Secretary of State’s functions under section 3(3)(a) and (b) of the Data Protection Act [1984 (c. 35)](https://www.legislation.gov.uk/ukpga/1984/35)[^f00017] (functions of being consulted by the Lord Chancellor on appointments of chairman and deputy chairman of the Data Protection Tribunal) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 6. Interception of Communications Act [1985 (c. 56)](https://www.legislation.gov.uk/ukpga/1985/56)[^key-d69c77590f1634b7ceec28f528561f7f]
+### 6. Interception of Communications Act [1985 (c. 56)](https://www.legislation.gov.uk/ukpga/1985/56)[^c-d69c77590f1634b7ceec28f528561f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)[^key-7f33e4173de050be41d1c8f3613e0fda]
+### 7. Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)[^c-7f33e4173de050be41d1c8f3613e0fda]
 
 The Secretary of State’s functions under paragraph 15 of Schedule 4[^f00019] to the Transport Act 1985 (function of being consulted by the Lord Chancellor on appointments of president and chairman of the Transport Tribunals removal of such persons from office and determining their terms and conditions) are to be treated, for the purposes of section 63 of the 1998 Act, as being functions which are exercisable in or as regards Scotland.
 
-### 8. Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53)[^key-fac80a8c3c41d0144057c97773d9f224]
+### 8. Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53)[^c-fac80a8c3c41d0144057c97773d9f224]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60)[^key-15f90a09b1db63100b51831a2bd644eb]
+### 9. Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60)[^c-15f90a09b1db63100b51831a2bd644eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^key-3993c221378eb9ffe4281516c6bf4075]
+### 10. Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^c-3993c221378eb9ffe4281516c6bf4075]
 
 The Secretary of State’s functions under sections 145 and 150 of the Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^f00020] (functions of being consulted by the Lord Chancellor on appointments of chairman and deputy chairman of the Copyright Tribunal and on rules for regulating proceedings before that Tribunal) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 11. Education (Student Loans) Act [1990 (c. 6)](https://www.legislation.gov.uk/ukpga/1990/6)[^key-c1921335d91531ddfca7f140b8aa4480]
+### 11. Education (Student Loans) Act [1990 (c. 6)](https://www.legislation.gov.uk/ukpga/1990/6)[^c-c1921335d91531ddfca7f140b8aa4480]
 
 The Secretary of State’s functions under the Education (Student Loans) Act 1990[^f00021] are to be treated, for the purposes of section 53 of the 1998 Act, as exercisable in or as regards Scotland only where they relate to a loan–
 
 - (a) to a student whose earliest available home address in the computer records of the Student Loans Company Limited as at 1st July 1999 is in Scotland; or
 - (b) to a student who obtains a loan for the first time after 1st July 1999 and who gives an address in Scotland as the home address in the first application for a loan.
 
-### 12. Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48)[^key-92454d8b9d38ce757de02dc32706caaa]
+### 12. Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48)[^c-92454d8b9d38ce757de02dc32706caaa]
 
 The Secretary of State’s functions under sections 22(3), 24(9), 25(6) and 45(6) of and paragraph 7 of Schedule 4 to, the Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48) (functions of being consulted by the Lord Chancellor on regulations about proceedings before the Child Support Commissioners, and about appeals to and from those Commissioners; on orders abolishing appeal tribunals, and on removal of those Commissioners and appointments of deputy Child Support Commissioners), are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 13. Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5)[^key-480684849b7d0df50441135a2d84c5bb]
+### 13. Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5)[^c-480684849b7d0df50441135a2d84c5bb]
 
 The Secretary of State’s functions under sections 51, 52 and 189(10) of, and paragraph 1 of Schedule 2 to, the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5)[^f00022] (functions of being consulted by the Lord Chancellor on appointments of President and chairman of tribunals and deputy Social Security Commissioners; on regulations under the Act generally; and on removal of Social Security Commissioners or the President or a chairman of tribunals) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 14. Finance (No.2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48)[^key-4169b04734cfee42538468b9a8c2a02f]
+### 14. Finance (No.2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48)[^c-4169b04734cfee42538468b9a8c2a02f]
 
 The function of the Secretary of State under section 75(1) of the Finance (No.2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48) (function of consenting to regulations by the Lord Chancellor providing for Commissioners to hold office by a different name) is to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 15. Intelligence Services Act [1994 (c. 13)](https://www.legislation.gov.uk/ukpga/1994/13)[^key-0cda47c88ef13a28cf4bf82cb6766f46]
+### 15. Intelligence Services Act [1994 (c. 13)](https://www.legislation.gov.uk/ukpga/1994/13)[^c-0cda47c88ef13a28cf4bf82cb6766f46]
 
 (1) The function of the Secretary of State under section 5 of the Intelligence Services Act 1994 (warrants: general) is, for the purposes of section 63 of the 1998 Act, to be treated–
 
@@ -217,35 +217,35 @@ The function of the Secretary of State under section 75(1) of the Finance (No.2)
 - (a) the function is exercisable in relation to a warrant issued under section 5 of the said Act of 1994; and
 - (b) the function of issuing such a warrant is, under sub-paragraphs (1) and (2) above, to be treated for the purposes of section 63 of the 1998 Act as a case where the function is, for those purposes, treated as being exercisable in or as regards Scotland.
 
-### 16. Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23)[^key-4acc0db2f1003f540be3164fbce00cce]
+### 16. Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23)[^c-4acc0db2f1003f540be3164fbce00cce]
 
 The Secretary of State’s functions under paragraphs 2, 3 and 9 of Schedule 12 to the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) (functions of being consulted by the Lord Chancellor on appointment of President of VAT tribunals, on his continuation in, or removal from, office and on rules for procedure before VAT tribunals) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 17. Trade Marks Act [1994 (c. 26)](https://www.legislation.gov.uk/ukpga/1994/26)[^key-febcdb06a3afd38240502fcef78b7866]
+### 17. Trade Marks Act [1994 (c. 26)](https://www.legislation.gov.uk/ukpga/1994/26)[^c-febcdb06a3afd38240502fcef78b7866]
 
 The Secretary of State’s functions under section 77(4) of the Trade Marks Act [1994 (c. 26)](https://www.legislation.gov.uk/ukpga/1994/26) (function of being consulted by the Lord Chancellor on appointments as persons to hear appeals under the Act and removal of such persons from office) are to be treated for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 18. Reserve Forces Act [1996 (c. 14)](https://www.legislation.gov.uk/ukpga/1996/14)[^key-22367c2bc57e80725568e6345e792113]
+### 18. Reserve Forces Act [1996 (c. 14)](https://www.legislation.gov.uk/ukpga/1996/14)[^c-22367c2bc57e80725568e6345e792113]
 
 The functions of the Lord Chancellor and the Secretary of State under sections 90(1) and (3) and 91(1) and (3) of the Reserve Forces Act [1996 (c. 14)](https://www.legislation.gov.uk/ukpga/1996/14) (functions of appointing panels of chairmen and ordinary members of reserve forces appeal tribunals and determining their terms of office) are to be treated for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 19. Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14)[^key-0fabb768b2ba7af81ac7fd218f8921e8]
+### 19. Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14)[^c-0fabb768b2ba7af81ac7fd218f8921e8]
 
 The Secretary of State’s functions under sections 5(1) and 79(2) of, and paragraph 1(4) of Schedule 1 and paragraph 8 of Schedule 4 to, the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) (functions of being consulted by the Lord Chancellor on appointment and removal of President of appeal tribunals, appointments of deputy Commissioners, removal of Commissioners and on regulations under the Act generally) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 20. Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)[^key-c6b1a2c80babdbcb46efaff2a80b0de7]
+### 20. Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)[^c-c6b1a2c80babdbcb46efaff2a80b0de7]
 
 The Secretary of State’s functions under section 6(4)(a) and (b) of the Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29) (functions of being consulted by the Lord Chancellor on appointments of chairman and deputy chairmen of the Data Protection Tribunal) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 21. Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41)[^key-24ccf8f23665476b7c35b5a03f8682d1]
+### 21. Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41)[^c-24ccf8f23665476b7c35b5a03f8682d1]
 
 The Secretary of State’s functions under paragraphs 2(4) and 4(4) of Schedule 7 to the Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41) (function of being consulted by the Secretary of State on appointments to the panel of chairmen of the Competition Commission and on appointment of the President of the Competition Commission Appeal Tribunals) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 22. Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2)[^key-136ab13de009f7d2f18a5f7722f69761]
+### 22. Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2)[^c-136ab13de009f7d2f18a5f7722f69761]
 
 The Secretary of State’s functions under section 13(1) of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2) (function of concurring in regulations by the Board concerning appeals to the tax appeal Commissioners) are to be treated, for the purposes of section 63 of the 1998 Act, as being exercisable in or as regards Scotland.
 
-### 23. Building Societies Appeal Tribunal Regulations 1987 (S.I. [1987/891](https://www.legislation.gov.uk/uksi/1987/891))[^key-64d34e8a15daf02576a9aecab64e1fe8]
+### 23. Building Societies Appeal Tribunal Regulations 1987 (S.I. [1987/891](https://www.legislation.gov.uk/uksi/1987/891))[^c-64d34e8a15daf02576a9aecab64e1fe8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -253,7 +253,7 @@ The Secretary of State’s functions under section 13(1) of the Social Security 
 
 Articles 4(1) and 8(1)
 
-### 1. Repatriation of Prisoners Act 1984[^key-ae2bc78d087abebf36eb23f0010990ee]
+### 1. Repatriation of Prisoners Act 1984[^c-ae2bc78d087abebf36eb23f0010990ee]
 
 (1) The functions of the Secretary of State under the following provisions of the 1984 Act.
 
@@ -283,7 +283,7 @@ Articles 4(1) and 8(1)
 
 (11) Paragraph 2 of the Schedule (operation of certain enactments in relation to the prisoner) as it has effect by virtue of paragraphs 5 to 7 of Schedule 2 to the 1997 Act (repatriation of prisoners to the British Islands: prisoners repatriated to Scotland), where the warrant provides for the transfer of a prisoner to Scotland.
 
-### 2. Prisoners and Criminal Proceedings (Scotland) Act 1993[^key-1075b761af3e6eaebf3d6c92fff298d9]
+### 2. Prisoners and Criminal Proceedings (Scotland) Act 1993[^c-1075b761af3e6eaebf3d6c92fff298d9]
 
 (1) The function of the Secretary of State under section 14(2) of the 1993 Act (supervised release of short-term prisoners) in so far as it relates to the making of a supervised release order in respect of a prisoner transferred to a prison in Scotland to serve his sentence.
 
@@ -297,7 +297,7 @@ Articles 4(1) and 8(1)
 
 (6) The function of the Secretary of State under section 15(3) of the 1993 Act (variation of supervised release of short-term prisoners) in so far as it relates to the informing under 15(3)(a)(i) of that Act of a person subject to a supervised release order of a variation under section 15(1) of a designation under section 14(4) of that Act of an appropriate authority, or, as the case may be, justices for the purposes of a supervised release order in respect of a short term prisoner, and the second designee authority, or as the case may be, justices, is or are out-with Scotland, or the sending of a copy under section 15(3)(a)(ii) of that Act to the second designee, or the first designee sending under section 15(3)(b) to the second designee the relevant documents and information in relation to such a designation.
 
-### 3. Crime (Sentences) Act 1997[^key-a87c58e9243819339738201cccfa6589]
+### 3. Crime (Sentences) Act 1997[^c-a87c58e9243819339738201cccfa6589]
 
 (1) The following functions of the Secretary of State under Schedule 1 to the 1997 Act (transfer of prisoners within the British Islands).
 
@@ -331,7 +331,7 @@ Articles 4(1) and 8(1)
 
 (16) The function under paragraph 17(5) in relation to a person unlawfully at large who is liable to be detained in a prison in another part of the United Kingdom and who is sentenced to imprisonment by a court in Scotland.
 
-### 4. The Transfer of Prisoners (Restricted Transfers) (Channel Islands and Isle of Man) Order 1998[^key-ef367435844e0211edba7bd85b4696a6]
+### 4. The Transfer of Prisoners (Restricted Transfers) (Channel Islands and Isle of Man) Order 1998[^c-ef367435844e0211edba7bd85b4696a6]
 
 (1) The following functions of the Secretary of State under the 1998 Order.
 
@@ -347,7 +347,7 @@ Article 4(2)
 
 ### PART I — TRANSFERRED PRISONERS WHO ARE SENTENCED ON OR AFTER 1ST OCTOBER 1993
 
-#### 1. Restricted transfers from Scotland to England and Wales[^key-51507f4f745b2450a4ab8c377435a007]
+#### 1. Restricted transfers from Scotland to England and Wales[^c-51507f4f745b2450a4ab8c377435a007]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act (transfer of prisoners: general, for trial and for other judicial purposes) from Scotland to England and Wales is a restricted transfer, the functions of the Secretary of State under the following provisions of the 1993 Act but only to the extent it is applied by paragraph 10(2) of Schedule 1 to the 1997 Act[^f00023]–
 
@@ -357,7 +357,7 @@ Article 4(2)
 
 - sections 1A, 2(4), 3A, 11 to 13, 15 to 21, 26A and 27 and Schedules 2 and 6, or, as the case may require, sections 2(4), 11 to 13 and 17.
 
-#### 2. Restricted transfers from Scotland to Northern Ireland[^key-e5e7f48599b5c90ce39df15de9b71107]
+#### 2. Restricted transfers from Scotland to Northern Ireland[^c-e5e7f48599b5c90ce39df15de9b71107]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to Northern Ireland is a restricted transfer, the functions of the Secretary of State under the following provisions of the 1993 Act but only to the extent it is applied by paragraph 11(2) of Schedule 1 to the 1997 Act[^f00026]–
 
@@ -367,7 +367,7 @@ Article 4(2)
 
 - sections 1A, 3A, 11 to 13, 15 to 21, 26A and 27 and Schedules 2 and 6 or, as the case may require, sections 2(4), 11 to 13 and 17.
 
-#### 3. Restricted transfers from Scotland to Guernsey or Jersey[^key-1a8c2f322c4c0f31fa1d2aac3dcb0821]
+#### 3. Restricted transfers from Scotland to Guernsey or Jersey[^c-1a8c2f322c4c0f31fa1d2aac3dcb0821]
 
 (1) Where a person’s transfer under paragraph 1(1)(b) of 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to Guernsey or Jersey is a restricted transfer, the functions of the Secretary of State under the 1993 Act but only to the extent it is applied by paragraphs 5(2)(a) and 7(2)(a) of Schedule 1 to the 1998 Order–
 
@@ -377,7 +377,7 @@ Article 4(2)
 
 - sections 1A, 3A, 11 to 13, 15, 16 (but not subsections (3) and (4) of that section), 17 to 21, 26A and 27 and Schedules 2 and 6 or, as the case may require, sections 2(4), 11 to 13 and 17.
 
-#### 4. Restricted transfers from Scotland to the Isle of Man[^key-dc69a55a9bab0cec34f70a3e5d760b17]
+#### 4. Restricted transfers from Scotland to the Isle of Man[^c-dc69a55a9bab0cec34f70a3e5d760b17]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to the Isle of Man[^f00028] is a restricted transfer, the functions of the Secretary of State under the following provisions of the 1993 Act but only to the extent it is applied by paragraph 6(2) of Schedule 1 to the 1998 Order–
 
@@ -389,7 +389,7 @@ Article 4(2)
 
 ### PART II — TRANSFERRED PRISONERS WHO ARE SENTENCED BEFORE 1ST OCTOBER 1993
 
-#### 5. Restricted transfers from Scotland to England and Wales[^key-0f2511fa0581d459d2c95074eec536d8]
+#### 5. Restricted transfers from Scotland to England and Wales[^c-0f2511fa0581d459d2c95074eec536d8]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to England and Wales is a restricted transfer and he is a person to whom the existing provisions apply when the transfer is made, the functions of the Secretary of State under the provisions of the 1989 and 1993 Acts specified below but only to the extent they are applied by paragraph 10(2)(a) of Schedule 1 to the 1997 Act (as read with paragraph 11(2)(a) of Schedule 5 to the 1997 Act)[^f00030]–
 
@@ -401,7 +401,7 @@ Article 4(2)
 - (a) in the 1989 Act, sections 18, 22, 28, 30, 32 and 43; and
 - (b) in the 1993 Act, Schedule 6.
 
-#### 6. Restricted transfers from Scotland to Northern Ireland[^key-3afc49574964655efc0a1f0d60a2e623]
+#### 6. Restricted transfers from Scotland to Northern Ireland[^c-3afc49574964655efc0a1f0d60a2e623]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to Northern Ireland is a restricted transfer and he is a person to whom the existing provisions apply when the transfer is made, the functions of the Secretary of State under the following provisions of the 1989 and 1993 Acts specified below but only to the extent they are applied by paragraph 11(2) of Schedule 1 to the 1997 Act (as read with paragraph 12(2)(a) of Schedule 5 to the 1997 Act)[^f00031]–
 
@@ -413,7 +413,7 @@ Article 4(2)
 - (a) in the 1989 Act, sections 18, 22, 28, 30, 32 and 43; and
 - (b) in the 1993 Act, Schedule 6.
 
-#### 7. Restricted transfers from Scotland to Guernsey or Jersey[^key-e037e2060ce46efdedadc8c9170960fe]
+#### 7. Restricted transfers from Scotland to Guernsey or Jersey[^c-e037e2060ce46efdedadc8c9170960fe]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to Guernsey or Jersey is a restricted transfer and he is a person to whom the existing provisions apply when the transfer is made, the functions of the Secretary of State under the 1989 and 1993 Acts specified below but only to the extent they are applied by paragraph 5(2) of Schedule 1 to the 1998 Order (as read with paragraphs 6(1)(a) and 8(1)(a) of Schedule 2 to the 1998 Order)–
 
@@ -425,7 +425,7 @@ Article 4(2)
 - (a) in the 1989 Act, sections 18, 22, 28, 30, 32 and 43; and
 - (b) in the 1993 Act, Schedule 6.
 
-#### 8. Restricted transfers from Scotland to the Isle of Man[^key-b211ee99ff3aa82281419329d38c8288]
+#### 8. Restricted transfers from Scotland to the Isle of Man[^c-b211ee99ff3aa82281419329d38c8288]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Scotland to the Isle of Man[^f00032] and he is a person to whom the existing provisions apply when the transfer is made, the functions of the Secretary of State under the following provisions of the 1989 Act but only to the extent it is applied by paragraph 6(2) of Schedule 1 to the 1998 Order (as read with paragraph 7(1)(a) of Schedule 2 to the 1998 Order)–
 
@@ -438,17 +438,17 @@ Article 4(2)
 
 ### PART III — PRISONERS SUPERVISED BY PROBATION OFFICERS UNDER THE 1989 AND 1993 ACTS
 
-#### 9. Prisons (Scotland) Act 1989[^key-1871e0baa6f4985d039534f5a324a52d]
+#### 9. Prisons (Scotland) Act 1989[^c-1871e0baa6f4985d039534f5a324a52d]
 
-Where a person’s licence under section 22 of the 1989 Act (release on licence, etc.) includes a condition requiring that the person subject to it shall be under the supervision of a probation officer appointed for or assigned to such local justice area[^key-1c995f221f97b8d93cc10444951f0498] as may be specified in the licence, the functions of the Secretary of State under the following provisions of the 1989 Act–
+Where a person’s licence under section 22 of the 1989 Act (release on licence, etc.) includes a condition requiring that the person subject to it shall be under the supervision of a probation officer appointed for or assigned to such local justice area[^c-1c995f221f97b8d93cc10444951f0498] as may be specified in the licence, the functions of the Secretary of State under the following provisions of the 1989 Act–
 
 - sections 18, 22, 28, 30, 32 and 43.
 
-#### 10. Prisoners and Criminal Proceedings (Scotland) Act 1993[^key-e1d0a71e96953a35341bd03b41916009]
+#### 10. Prisoners and Criminal Proceedings (Scotland) Act 1993[^c-e1d0a71e96953a35341bd03b41916009]
 
 (1) The functions of the Secretary of State under the following provisions of the 1993 Act.
 
-(2) Where a person’s licence under section 12 of the 1993 Act (conditions in licence) includes a condition requiring that the person subject to it shall be under the supervision of a probation officer appointed for or assigned to such local justice area[^key-af65d5aed2f9716f1149084f88398361] as may be specified in the licence, the functions of the Secretary of State under the following provisions of the 1993 Act–
+(2) Where a person’s licence under section 12 of the 1993 Act (conditions in licence) includes a condition requiring that the person subject to it shall be under the supervision of a probation officer appointed for or assigned to such local justice area[^c-af65d5aed2f9716f1149084f88398361] as may be specified in the licence, the functions of the Secretary of State under the following provisions of the 1993 Act–
 
 - sections 1A, 2(4), 3A, 11 to 13, 15 to 21, 26A and 27 and Schedules 2 and 6 or, as the case may require, sections 2(4), 11 to 13 and 17.
 
@@ -462,7 +462,7 @@ Article 8(2)
 
 ### PART I — PRISONERS TRANSFERRED TO SCOTLAND
 
-#### 1. Restricted transfers from England and Wales to Scotland[^key-243325659a24351e18d9baade1b026cc]
+#### 1. Restricted transfers from England and Wales to Scotland[^c-243325659a24351e18d9baade1b026cc]
 
 (1) Where a person’s transfer under paragraph 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act (transfer of prisoners: general; for trial and other judicial purposes) from England and Wales to Scotland is a restricted transfer, the functions of the Secretary of State under the following provisions of the enactments specified below but only to the extent they are applied by paragraph 8(2)(a) of Schedule 1 to the 1997 Act[^f00034]–
 
@@ -472,7 +472,7 @@ Article 8(2)
 
 - sections 37 to 39, 43 to 46 and 65 of the 1991 Act, paragraphs 8, 10 to 13 and 19 of Schedule 12 to that Act and sections 76 and 77 of the Crime and Disorder Act 1998 or, as the case may require, sections 31, 32 and 34 of the 1997 Act.
 
-#### 2. Restricted transfers from Northern Ireland to Scotland[^key-8955ec37d62d1490e3b472b3ed26e36e]
+#### 2. Restricted transfers from Northern Ireland to Scotland[^c-8955ec37d62d1490e3b472b3ed26e36e]
 
 (1) Where a person’s transfer under paragraphs 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from Northern Ireland to Scotland is a restricted transfer, the functions of the Secretary of State under the following provisions of the enactments specified below but only to the extent they are applied by paragraph 13(2) of Schedule 1 to the 1997 Act–
 
@@ -482,7 +482,7 @@ Article 8(2)
 
 - sections 13(7), 23 and 24 of the Prison Act (Northern Ireland) 1953, Articles 3 to 6 of the Treatment of Offenders (Northern Ireland) Order 1976, Articles 26 to 28 of the Criminal Justice (Northern Ireland) Order 1996 or, as the case may require, section 1 of the Northern Ireland (Remission of Sentences) Act 1995 and section 9 of the Northern Ireland (Sentences) Act 1998.
 
-#### 3. Restricted transfers from Jersey to Scotland[^key-221f81928776ec746b8782ec6dd53e38]
+#### 3. Restricted transfers from Jersey to Scotland[^c-221f81928776ec746b8782ec6dd53e38]
 
 (1) Where a person’s transfer under paragraph 1(2)(b), 2(2)(b) or 3(2)(b) of Schedule 1 to the 1997 Act from Jersey to Scotland is a restricted transfer, the functions of the Secretary of State under the following provisions of the enactments specified below but only to the extent they are applied by paragraph 18(2) of Schedule 1 to the 1998 Order–
 
@@ -492,7 +492,7 @@ Article 8(2)
 
 - Article 19 of the 1957 Law (as amended by the Prison (Amendment No. 3) (Jersey) Law 1994) and Article 10 of the 1994 Law (as amended by the Transfer of Functions (Health and Social Services Committee) (Jersey) Act 1995).
 
-#### 4. Restricted transfers from Guernsey to Scotland[^key-eceb1cf80a073cad4de90e9ae700569e]
+#### 4. Restricted transfers from Guernsey to Scotland[^c-eceb1cf80a073cad4de90e9ae700569e]
 
 (1) Where a person’s transfer under paragraph 1(2)(b), 2(2)(b) or (3)(2)(b) of Schedule 1 to the 1997 Act from Guernsey to Scotland is a restricted transfer, the functions of the Secretary of State under the following provisions of the enactments specified below but only to the extent they are applied by paragraph 12(2) of Schedule 1 to the 1998 Order–
 
@@ -502,7 +502,7 @@ Article 8(2)
 
 - section 3(5) of the 1949 Law (as substituted by section 1 of the Prison Administration (Amendment) (Guernsey) Law, 1957), and the Schedule to the 1949 Law, sections 2, 3 and 4 of the Parole Review Committee (Guernsey) Law, 1989, section 4 of the 1990 Law, and the 1991 Ordinance (as amended by the Parole Review Committee (Amendment) Ordinance, 1993) (but not section 6 of the 1991 Ordinance).
 
-#### 5. Restricted transfers from the Isle of Man to Scotland[^key-4433e4ec052e9430563390e3178c0ba2]
+#### 5. Restricted transfers from the Isle of Man to Scotland[^c-4433e4ec052e9430563390e3178c0ba2]
 
 (1) Where a person’s transfer under paragraph 1(2)(b), 2(2)(b) or 3(2)(b) of Schedule 1 to the 1997 Act[^f00036] from the Isle of Man to Scotland is a restricted transfer the functions of the Secretary of State under the following provisions of the enactments specified below but only to the extent they are applied by paragraph 15(2) of Schedule 1 to the 1998 Order–
 
@@ -514,7 +514,7 @@ paragraphs 8 to 10, 14 and 15 of Schedule 2 to the 1995 Act and, where applicabl
 
 ### PART II — PRISONERS TRANSFERRED BEFORE THE COMMENCEMENT OF CHAPTER II OF PART II OF THE 1997 ACT
 
-#### 6. Restricted transfers from England and Wales to Scotland[^key-894ad242bf5ac1167a72000708bc7bfa]
+#### 6. Restricted transfers from England and Wales to Scotland[^c-894ad242bf5ac1167a72000708bc7bfa]
 
 (1) Where a person’s transfer under paragraphs 1(1)(b), 2(1)(b) or 3(1)(b) of Schedule 1 to the 1997 Act from England and Wales to Scotland is a restricted transfer and he is a person to whom Chapter II of Part II of the 1991 Act does not apply when the transfer is made, the functions of the Secretary of State under the following provisions of the 1991 Act but only to the extent that it is applied by paragraph 8(2) of Schedule 1 to the 1997 Act (as read with paragraph 9(2)(a) of Schedule 5 to the 1997 Act)–
 
@@ -534,15 +534,15 @@ In particular, the Order makes provision to the effect that certain functions sp
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0cae96b42f5d9fcbe5f2032c5c849b82]: Commencement: Art. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-0cae96b42f5d9fcbe5f2032c5c849b82]: Commencement: Art. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-27f6bb0b00147639f374ae85f614b0e4]: Commencement: Art. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-27f6bb0b00147639f374ae85f614b0e4]: Commencement: Art. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00002]: Footnote: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54).
 
 [^f00003]: Footnote: [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47).
 
-[^key-16c5deb4834c3424a82c909c2e317cd1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1748/article/2/1) omitted (15.12.2000) by virtue of [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+[^c-16c5deb4834c3424a82c909c2e317cd1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1748/article/2/1) omitted (15.12.2000) by virtue of [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 
 [^f00005]: Footnote: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
 
@@ -562,101 +562,101 @@ In particular, the Order makes provision to the effect that certain functions sp
 
 [^f00013]: Footnote: [1998 c. 35](https://www.legislation.gov.uk/ukpga/1998/35).
 
-[^key-604ff115c812f7bbb63d9fe6ebc2bca1]: Commencement: Art. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-604ff115c812f7bbb63d9fe6ebc2bca1]: Commencement: Art. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-07fa95a91090e08df71161f9643149e6]: Commencement: Art. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-07fa95a91090e08df71161f9643149e6]: Commencement: Art. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-7efc29d6f6f1cb868ca869cc9ee4e835]: Commencement: Art. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-7efc29d6f6f1cb868ca869cc9ee4e835]: Commencement: Art. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-361ed941ee9e1e18789f32213bb102c4]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/uksi/1999/1748/article/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/1/a)
+[^c-361ed941ee9e1e18789f32213bb102c4]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/uksi/1999/1748/article/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/1/a)
 
-[^key-659c6a4d66870044dc5be6a6d1d7bf95]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/1999/1748/article/5) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-659c6a4d66870044dc5be6a6d1d7bf95]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/1999/1748/article/5) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0303346d25310c8b0e1b4b3c9c2b2e01]: Commencement: Art. 6 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-0303346d25310c8b0e1b4b3c9c2b2e01]: Commencement: Art. 6 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^M_F_8de4b8b4-b34d-4195-ab9d-cb3d93f75598]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-92315a5439fc680f0a161b2cf0f49e9a]: Commencement: Art. 7 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-92315a5439fc680f0a161b2cf0f49e9a]: Commencement: Art. 7 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-5505b16d37cf27108d99fbabfa952786]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/1999/1748/article/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/1/b)
+[^c-5505b16d37cf27108d99fbabfa952786]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/uksi/1999/1748/article/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/1/b)
 
-[^key-b7a46864ced384a653ab23e4b1765c7e]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1999/1748/article/7) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7a46864ced384a653ab23e4b1765c7e]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/1999/1748/article/7) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-213979e94c157c1b564581bb3cf76fd3]: Commencement: Art. 8 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-213979e94c157c1b564581bb3cf76fd3]: Commencement: Art. 8 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00014]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-5142118ead84f7d3255a0c895341ae9c]: Commencement: Sch. 1 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-5142118ead84f7d3255a0c895341ae9c]: Commencement: Sch. 1 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-fe87b044077e2416a9800ab1fb24e1d2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/1/1) substituted (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/b/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+[^c-fe87b044077e2416a9800ab1fb24e1d2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/1/1) substituted (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/b/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 
-[^key-7f4be4b806ae4551dad7d8d7ec3136c3]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/1/2) substituted (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/b/ii) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+[^c-7f4be4b806ae4551dad7d8d7ec3136c3]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/1/2) substituted (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/b/ii) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 
-[^key-e5941bebc3a57c161721d3fc03e81a84]: Textual amendment: Words in [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/1/2/a) substituted (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/b/iii) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+[^c-e5941bebc3a57c161721d3fc03e81a84]: Textual amendment: Words in [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/1/2/a) substituted (15.12.2000) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/b/iii) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 
-[^key-249b33da2ff344cf338cc2389c0b69d4]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/2) omitted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/22)
+[^c-249b33da2ff344cf338cc2389c0b69d4]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/2) omitted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/22)
 
-[^key-1c8e2854c02036a26c21e617ecbbf11d]: Commencement: Sch. 1 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-1c8e2854c02036a26c21e617ecbbf11d]: Commencement: Sch. 1 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-975d6dc7fda8cd9cc6d2c07e3ce87e03]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/72)
+[^c-975d6dc7fda8cd9cc6d2c07e3ce87e03]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/72)
 
-[^key-b10efc0f3628162d96f8a90ca93c3de2]: Commencement: Sch. 1 para. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-b10efc0f3628162d96f8a90ca93c3de2]: Commencement: Sch. 1 para. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00017]: Footnote: The whole Act is repealed (prospectively) by the Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29), Schedule 16, Part I.
 
-[^key-d69c77590f1634b7ceec28f528561f7f]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/6) omitted (15.12.2000) by virtue of [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
+[^c-d69c77590f1634b7ceec28f528561f7f]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/6) omitted (15.12.2000) by virtue of [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 2000 (S.I. 2000/3253)](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2000/3253/article/4/2/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 
-[^key-7f33e4173de050be41d1c8f3613e0fda]: Commencement: Sch. 1 para. 7 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-7f33e4173de050be41d1c8f3613e0fda]: Commencement: Sch. 1 para. 7 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00019]: Footnote: Paragraph 15 was amended by S.I. [1989/495](https://www.legislation.gov.uk/uksi/1989/495).
 
-[^key-fac80a8c3c41d0144057c97773d9f224]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/8) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [262(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/262/a), [582(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/582/a)
+[^c-fac80a8c3c41d0144057c97773d9f224]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/8) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [262(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/262/a), [582(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/582/a)
 
-[^key-15f90a09b1db63100b51831a2bd644eb]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/9) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [262(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/262/b), [582(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/582/b)
+[^c-15f90a09b1db63100b51831a2bd644eb]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/9) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [262(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/262/b), [582(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/582/b)
 
-[^key-3993c221378eb9ffe4281516c6bf4075]: Commencement: Sch. 1 para. 10 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-3993c221378eb9ffe4281516c6bf4075]: Commencement: Sch. 1 para. 10 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00020]: Footnote: Section 145 was amended by the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), Schedule 10, paragraph 73. Section 150 was amended by the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), Schedule 3, paragraph 50.
 
-[^key-c1921335d91531ddfca7f140b8aa4480]: Commencement: Sch. 1 para. 11 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-c1921335d91531ddfca7f140b8aa4480]: Commencement: Sch. 1 para. 11 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00021]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6); amended by the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8, paragraph 67; by the Further and Higher Education (Scotland) Act [1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), Schedule 9, paragraphs 12(2) and (3); by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 9; by the Education (Student Loans) Act [1996 (c. 9)](https://www.legislation.gov.uk/ukpga/1996/9), section 1(1) and the Schedule; by the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 98 and Schedule 38; and by the Education (Student Loans) Act [1998 (c. 1)](https://www.legislation.gov.uk/ukpga/1998/1), sections 1 to 3 and repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4 subject to transitional and savings provisions specified in article 3 of the Teaching and Higher Education Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998 (S.I. [1998/2004](https://www.legislation.gov.uk/uksi/1998/2004)).
 
-[^key-92454d8b9d38ce757de02dc32706caaa]: Commencement: Sch. 1 para. 12 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-92454d8b9d38ce757de02dc32706caaa]: Commencement: Sch. 1 para. 12 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-480684849b7d0df50441135a2d84c5bb]: Commencement: Sch. 1 para. 13 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-480684849b7d0df50441135a2d84c5bb]: Commencement: Sch. 1 para. 13 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00022]: Footnote: Paragraph 1 of Schedule 2 was amended by the Judicial Pensions and Retirement Act [1993 (c. 8)](https://www.legislation.gov.uk/ukpga/1993/8), Schedule 6, paragraph 21. Sections 51, 52 and 189(10) and Schedule 2 are repealed (prospectively) by the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), Schedule 8.
 
-[^key-4169b04734cfee42538468b9a8c2a02f]: Commencement: Sch. 1 para. 14 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-4169b04734cfee42538468b9a8c2a02f]: Commencement: Sch. 1 para. 14 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-0cda47c88ef13a28cf4bf82cb6766f46]: Commencement: Sch. 1 para. 15 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-0cda47c88ef13a28cf4bf82cb6766f46]: Commencement: Sch. 1 para. 15 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-4acc0db2f1003f540be3164fbce00cce]: Commencement: Sch. 1 para. 16 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-4acc0db2f1003f540be3164fbce00cce]: Commencement: Sch. 1 para. 16 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-febcdb06a3afd38240502fcef78b7866]: Commencement: Sch. 1 para. 17 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-febcdb06a3afd38240502fcef78b7866]: Commencement: Sch. 1 para. 17 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-22367c2bc57e80725568e6345e792113]: Commencement: Sch. 1 para. 18 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-22367c2bc57e80725568e6345e792113]: Commencement: Sch. 1 para. 18 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-0fabb768b2ba7af81ac7fd218f8921e8]: Commencement: Sch. 1 para. 19 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-0fabb768b2ba7af81ac7fd218f8921e8]: Commencement: Sch. 1 para. 19 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-c6b1a2c80babdbcb46efaff2a80b0de7]: Commencement: Sch. 1 para. 20 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-c6b1a2c80babdbcb46efaff2a80b0de7]: Commencement: Sch. 1 para. 20 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-24ccf8f23665476b7c35b5a03f8682d1]: Commencement: Sch. 1 para. 21 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-24ccf8f23665476b7c35b5a03f8682d1]: Commencement: Sch. 1 para. 21 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-136ab13de009f7d2f18a5f7722f69761]: Commencement: Sch. 1 para. 22 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-136ab13de009f7d2f18a5f7722f69761]: Commencement: Sch. 1 para. 22 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-64d34e8a15daf02576a9aecab64e1fe8]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/23) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [262(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/262/a), [582(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/582/a)
+[^c-64d34e8a15daf02576a9aecab64e1fe8]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/1999/1748/schedule/1/paragraph/23) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [262(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/262/a), [582(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/582/a)
 
-[^key-ae2bc78d087abebf36eb23f0010990ee]: Commencement: Sch. 2 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-ae2bc78d087abebf36eb23f0010990ee]: Commencement: Sch. 2 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-1075b761af3e6eaebf3d6c92fff298d9]: Commencement: Sch. 2 para. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-1075b761af3e6eaebf3d6c92fff298d9]: Commencement: Sch. 2 para. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-a87c58e9243819339738201cccfa6589]: Commencement: Sch. 2 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-a87c58e9243819339738201cccfa6589]: Commencement: Sch. 2 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-ef367435844e0211edba7bd85b4696a6]: Commencement: Sch. 2 para. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-ef367435844e0211edba7bd85b4696a6]: Commencement: Sch. 2 para. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-51507f4f745b2450a4ab8c377435a007]: Commencement: Sch. 3 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-51507f4f745b2450a4ab8c377435a007]: Commencement: Sch. 3 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00023]: Footnote: Paragraph 10(2) was amended by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 135(5).
 
@@ -664,60 +664,60 @@ In particular, the Order makes provision to the effect that certain functions sp
 
 [^f00025]: Footnote: Paragraph 10(5) was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 135(5).
 
-[^key-e5e7f48599b5c90ce39df15de9b71107]: Commencement: Sch. 3 para. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-e5e7f48599b5c90ce39df15de9b71107]: Commencement: Sch. 3 para. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00026]: Footnote: Paragraph 11(2) was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 135(6).
 
 [^f00027]: Footnote: Paragraph 11(4) was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 135(6).
 
-[^key-1a8c2f322c4c0f31fa1d2aac3dcb0821]: Commencement: Sch. 3 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-1a8c2f322c4c0f31fa1d2aac3dcb0821]: Commencement: Sch. 3 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-dc69a55a9bab0cec34f70a3e5d760b17]: Commencement: Sch. 3 para. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-dc69a55a9bab0cec34f70a3e5d760b17]: Commencement: Sch. 3 para. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00028]: Footnote: Paragraph 1(1)(b), 2(1)(b) and 3(1)(b) were extended to the Isle of Man by S.I. [1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
 [^f00029]: Footnote: Paragraph 4(1) was extended to the Isle of Man by S.I. [1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
-[^key-0f2511fa0581d459d2c95074eec536d8]: Commencement: Sch. 3 para. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-0f2511fa0581d459d2c95074eec536d8]: Commencement: Sch. 3 para. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00030]: Footnote: Paragraph 11(2) was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 138(2).
 
-[^key-3afc49574964655efc0a1f0d60a2e623]: Commencement: Sch. 3 para. 6 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-3afc49574964655efc0a1f0d60a2e623]: Commencement: Sch. 3 para. 6 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00031]: Footnote: Paragraph 12 of Schedule 5 was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 138(3).
 
-[^key-e037e2060ce46efdedadc8c9170960fe]: Commencement: Sch. 3 para. 7 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-e037e2060ce46efdedadc8c9170960fe]: Commencement: Sch. 3 para. 7 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-b211ee99ff3aa82281419329d38c8288]: Commencement: Sch. 3 para. 8 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-b211ee99ff3aa82281419329d38c8288]: Commencement: Sch. 3 para. 8 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00032]: Footnote: Paragraphs 1(1)(b), 2(1)(b) and 3(1)(b) were extended to the Isle of Man by S.I. [1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
 [^f00033]: Footnote: Paragraph 4(1) was extended to the Isle of Man by S.I. [1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
-[^key-1871e0baa6f4985d039534f5a324a52d]: Commencement: Sch. 3 para. 9 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-1871e0baa6f4985d039534f5a324a52d]: Commencement: Sch. 3 para. 9 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-1c995f221f97b8d93cc10444951f0498]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/1999/1748/schedule/3/paragraph/9) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 178](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/178)
+[^c-1c995f221f97b8d93cc10444951f0498]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/1999/1748/schedule/3/paragraph/9) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 178](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/178)
 
-[^key-e1d0a71e96953a35341bd03b41916009]: Commencement: Sch. 3 para. 10 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-e1d0a71e96953a35341bd03b41916009]: Commencement: Sch. 3 para. 10 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-af65d5aed2f9716f1149084f88398361]: Textual amendment: Words in [Sch. 3 para. 10(2)(3)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/3/paragraph/10/2/3) substituted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 178](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/178)
+[^c-af65d5aed2f9716f1149084f88398361]: Textual amendment: Words in [Sch. 3 para. 10(2)(3)](https://www.legislation.gov.uk/uksi/1999/1748/schedule/3/paragraph/10/2/3) substituted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 178](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/178)
 
-[^key-243325659a24351e18d9baade1b026cc]: Commencement: Sch. 4 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-243325659a24351e18d9baade1b026cc]: Commencement: Sch. 4 para. 1 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00034]: Footnote: Paragraph 8(2)(a) was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 135(3).
 
 [^f00035]: Footnote: Paragraph 8(4) was amended by the Crime and Disorder Act 1998, Schedule 8, paragraph 135(3).
 
-[^key-8955ec37d62d1490e3b472b3ed26e36e]: Commencement: Sch. 4 para. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-8955ec37d62d1490e3b472b3ed26e36e]: Commencement: Sch. 4 para. 2 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-221f81928776ec746b8782ec6dd53e38]: Commencement: Sch. 4 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-221f81928776ec746b8782ec6dd53e38]: Commencement: Sch. 4 para. 3 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-eceb1cf80a073cad4de90e9ae700569e]: Commencement: Sch. 4 para. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-eceb1cf80a073cad4de90e9ae700569e]: Commencement: Sch. 4 para. 4 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
-[^key-4433e4ec052e9430563390e3178c0ba2]: Commencement: Sch. 4 para. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-4433e4ec052e9430563390e3178c0ba2]: Commencement: Sch. 4 para. 5 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
 
 [^f00036]: Footnote: Paragraph 1(2)(a), 2(2)(a) and 3(2)(a) were extended to the Isle of Man by S.I. [1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
 [^f00037]: Footnote: Paragraph 4(2) was extended to the Isle of Man by S.I. [1997/1775](https://www.legislation.gov.uk/uksi/1997/1775).
 
-[^key-894ad242bf5ac1167a72000708bc7bfa]: Commencement: Sch. 4 para. 6 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)
+[^c-894ad242bf5ac1167a72000708bc7bfa]: Commencement: Sch. 4 para. 6 in force at 30.6.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1748/article/1)

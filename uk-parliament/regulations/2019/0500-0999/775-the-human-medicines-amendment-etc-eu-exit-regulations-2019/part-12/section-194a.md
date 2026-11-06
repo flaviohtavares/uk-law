@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194A. Amendment of regulation 251 (compliance with standards specified in certain publications)[^M_I_f2d1b4ce-1aa2-494e-f297-bc901578ddfd][^key-254b8600a3e36cb5a16ca2bba71546b6]
+## 194A. Amendment of regulation 251 (compliance with standards specified in certain publications)[^M_I_f2d1b4ce-1aa2-494e-f297-bc901578ddfd][^c-254b8600a3e36cb5a16ca2bba71546b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In regulation 251 (compliance with standards specified in certain publications),
 
 [^M_I_f2d1b4ce-1aa2-494e-f297-bc901578ddfd]: Commencement: Reg. 194A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-254b8600a3e36cb5a16ca2bba71546b6]: Textual amendment: Reg. 194A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 149](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/149)
+[^c-254b8600a3e36cb5a16ca2bba71546b6]: Textual amendment: Reg. 194A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 149](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/149)

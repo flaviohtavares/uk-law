@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Railway and navigation undertakings[^key-181eea39bf0a4e977b564b32c9542f20]
+## 38. Railway and navigation undertakings[^c-181eea39bf0a4e977b564b32c9542f20]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ except with the consent of the undertaker or authority or, as the case may be, o
 
 ## Annotations
 
-[^key-181eea39bf0a4e977b564b32c9542f20]: Commencement: Art. 38 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-181eea39bf0a4e977b564b32c9542f20]: Commencement: Art. 38 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

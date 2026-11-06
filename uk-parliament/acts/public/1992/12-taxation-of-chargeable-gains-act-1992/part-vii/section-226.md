@@ -26,9 +26,9 @@ summary: ''
 
 (3) If in a case within subsection (1) above the dwelling-house or part ceases, whether before 6th April 1988 or later, to be the sole residence (provided as mentioned above) of the dependent relative, any subsequent period of residence beginning on or after that date by that or any other dependent relative shall be disregarded for the purposes of subsection (2) above.
 
-(4) Not more than one dwelling-house (or part of a dwelling-house) may qualify for relief as being the residence of a dependent relative of the claimant at any one time nor, in the case of an individual and his spouse or civil partner living with him[^key-4dbd8fac28da784c3ffd4805a87eece1], as being the residence of a dependent relative of the claimant or of the claimant’s spouse or civil partner[^key-2903e89cfc8119b34b46bcc657ee714f] at any one time.
+(4) Not more than one dwelling-house (or part of a dwelling-house) may qualify for relief as being the residence of a dependent relative of the claimant at any one time nor, in the case of an individual and his spouse or civil partner living with him[^c-4dbd8fac28da784c3ffd4805a87eece1], as being the residence of a dependent relative of the claimant or of the claimant’s spouse or civil partner[^c-2903e89cfc8119b34b46bcc657ee714f] at any one time.
 
-(5)[^key-cf7ec32bd86eb0f5f0d95994990aef4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cf7ec32bd86eb0f5f0d95994990aef4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this section “**dependent relative**” means, in relation to an individual—
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4dbd8fac28da784c3ffd4805a87eece1]: Textual amendment: Words in s. 226(4) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [118(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/118/a)
+[^c-4dbd8fac28da784c3ffd4805a87eece1]: Textual amendment: Words in s. 226(4) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [118(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/118/a)
 
-[^key-2903e89cfc8119b34b46bcc657ee714f]: Textual amendment: Words in s. 226(4) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [118(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/118/b)
+[^c-2903e89cfc8119b34b46bcc657ee714f]: Textual amendment: Words in s. 226(4) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [118(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/118/b)
 
-[^key-cf7ec32bd86eb0f5f0d95994990aef4a]: Textual amendment: S. 226(5) repealed (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 61](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/61), [Sch. 41 Pt. V(10)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/10)
+[^c-cf7ec32bd86eb0f5f0d95994990aef4a]: Textual amendment: S. 226(5) repealed (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 61](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/61), [Sch. 41 Pt. V(10)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/10)

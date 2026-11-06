@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Applications involving temporary relocation[^key-d903ff575cb60b111771b195e5e598d7]
+## 21. Applications involving temporary relocation[^c-d903ff575cb60b111771b195e5e598d7]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d903ff575cb60b111771b195e5e598d7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2020/1073/regulation/21) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-d903ff575cb60b111771b195e5e598d7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2020/1073/regulation/21) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

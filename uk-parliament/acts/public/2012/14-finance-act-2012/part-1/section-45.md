@@ -22,9 +22,9 @@ summary: ''
 
 (1) Part 2 of CAA 2001 (plant and machinery allowances) is amended as follows.
 
-(2)[^key-1b363cb41edc8430b266026d08aa6a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1b363cb41edc8430b266026d08aa6a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a4ec7a70b00e020128ea488b8d7212cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a4ec7a70b00e020128ea488b8d7212cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 104A (special rate expenditure)—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b363cb41edc8430b266026d08aa6a70]: Textual amendment: S. 45(2) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(ix)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/ix)
+[^c-1b363cb41edc8430b266026d08aa6a70]: Textual amendment: S. 45(2) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(ix)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/ix)
 
-[^key-a4ec7a70b00e020128ea488b8d7212cb]: Textual amendment: S. 45(3) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(ix)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/ix)
+[^c-a4ec7a70b00e020128ea488b8d7212cb]: Textual amendment: S. 45(3) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(ix)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/ix)

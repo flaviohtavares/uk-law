@@ -37,7 +37,7 @@ summary: ''
   - (ii) the evidence was otherwise provided in a manner that did not comply with a direction or a practice direction; or
   - (iii) it would otherwise be unfair to admit the evidence.
 
-(2A)[^key-0efd92272131cdd6fd4aaee10034bc5e] In an asylum case or an immigration case—
+(2A)[^c-0efd92272131cdd6fd4aaee10034bc5e] In an asylum case or an immigration case—
 
 - (a) if a party wishes the Upper Tribunal to consider evidence that was not before the First-tier Tribunal, that party must send or deliver a notice to the Upper Tribunal and any other party—
   - (i) indicating the nature of the evidence; and
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0efd92272131cdd6fd4aaee10034bc5e]: Textual amendment: Rule 15(2A) inserted (15.2.2010) by [The Tribunal Procedure (Amendment No. 2) Rules 2010 (S.I. 2010/44)](https://www.legislation.gov.uk/uksi/2010/44), [rules 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1), [11](https://www.legislation.gov.uk/uksi/2010/44/rule/11)
+[^c-0efd92272131cdd6fd4aaee10034bc5e]: Textual amendment: Rule 15(2A) inserted (15.2.2010) by [The Tribunal Procedure (Amendment No. 2) Rules 2010 (S.I. 2010/44)](https://www.legislation.gov.uk/uksi/2010/44), [rules 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1), [11](https://www.legislation.gov.uk/uksi/2010/44/rule/11)

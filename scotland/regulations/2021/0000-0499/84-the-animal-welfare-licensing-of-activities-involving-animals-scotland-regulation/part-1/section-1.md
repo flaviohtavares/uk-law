@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Title and commencement[^key-96290362ede366ab7c7ed22434cc0b92]
+## 1. Title and commencement[^c-96290362ede366ab7c7ed22434cc0b92]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Animal Welfare (Licensing of Activities In
 
 ## Annotations
 
-[^key-96290362ede366ab7c7ed22434cc0b92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-96290362ede366ab7c7ed22434cc0b92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

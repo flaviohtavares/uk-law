@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020 (revoked)[^key-b5cce1382113c56a35dee36f2c7c1db6]
+The Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020 (revoked)[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 Made
 
@@ -46,138 +46,138 @@ Coming into force
 
 18th September 2020
 
-[^key-b5cce1382113c56a35dee36f2c7c1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5cce1382113c56a35dee36f2c7c1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 1. Citation, commencement, application and interpretation[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The emergency period and review of need for restrictions[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 2. The emergency period and review of need for restrictions[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement to close premises and businesses during the emergency[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 3. Requirement to close premises and businesses during the emergency[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restrictions on opening hours of businesses and services[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 4. Restrictions on opening hours of businesses and services[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restriction on service of food and drink for consumption on the premises[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 5. Restriction on service of food and drink for consumption on the premises[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on participation in gatherings in private dwellings and other indoor settings[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 6. Restrictions on participation in gatherings in private dwellings and other indoor settings[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6A. Exceptions in relation to gatherings restricted by regulation 6[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 6A. Exceptions in relation to gatherings restricted by regulation 6[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6B. Exceptions in relation to gatherings restricted by regulation 6(4) to (6)[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 6B. Exceptions in relation to gatherings restricted by regulation 6(4) to (6)[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6C. The required precautions[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 6C. The required precautions[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6D. Interpretation of regulations 6 to 6C[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 6D. Interpretation of regulations 6 to 6C[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Linked households[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 7. Linked households[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Linked childcare households[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 7A. Linked childcare households[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement of requirements[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 8. Enforcement of requirements[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences and penalties[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 9. Offences and penalties[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Fixed penalty notices[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 10. Fixed penalty notices[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Prosecutions[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 11. Prosecutions[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Expiry[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 12. Expiry[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Designations[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 13. Designations[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendments[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## 14. Amendments[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5cce1382113c56a35dee36f2c7c1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5cce1382113c56a35dee36f2c7c1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Businesses subject to closure or restrictions[^key-b5cce1382113c56a35dee36f2c7c1db6]
+## SCHEDULE — Businesses subject to closure or restrictions[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
 Regulations 3, 4 and 5
 
-### PART 1[^key-b5cce1382113c56a35dee36f2c7c1db6]
+### PART 1[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
-**1.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-b5cce1382113c56a35dee36f2c7c1db6]
+### PART 2[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
-**4.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3[^key-b5cce1382113c56a35dee36f2c7c1db6]
+### PART 3[^c-b5cce1382113c56a35dee36f2c7c1db6]
 
-**11.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-b5cce1382113c56a35dee36f2c7c1db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5cce1382113c56a35dee36f2c7c1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5cce1382113c56a35dee36f2c7c1db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5cce1382113c56a35dee36f2c7c1db6]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (S.I. 2020/1104)](https://www.legislation.gov.uk/uksi/2020/1104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1104/regulation/1/2), [Sch. 3 para. 4(1)(d)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/4/1/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1104/regulation/9), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/5/2))
+[^c-b5cce1382113c56a35dee36f2c7c1db6]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (S.I. 2020/1104)](https://www.legislation.gov.uk/uksi/2020/1104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1104/regulation/1/2), [Sch. 3 para. 4(1)(d)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/4/1/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1104/regulation/9), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/5/2))

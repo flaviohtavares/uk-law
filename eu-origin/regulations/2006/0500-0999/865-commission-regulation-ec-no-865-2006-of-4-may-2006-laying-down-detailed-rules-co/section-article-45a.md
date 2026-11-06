@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45a. Introduction, export or re-export through a non-designated customs office[^key-ed52aaec2fcb3d50d11f89ec91940b8b]
+## Article 45a. Introduction, export or re-export through a non-designated customs office[^c-ed52aaec2fcb3d50d11f89ec91940b8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed52aaec2fcb3d50d11f89ec91940b8b]: Textual amendment: [Art. 45a](https://www.legislation.gov.uk/eur/2006/865/article/45a) omitted (23.6.2026) by virtue of [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/10)
+[^c-ed52aaec2fcb3d50d11f89ec91940b8b]: Textual amendment: [Art. 45a](https://www.legislation.gov.uk/eur/2006/865/article/45a) omitted (23.6.2026) by virtue of [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/10)

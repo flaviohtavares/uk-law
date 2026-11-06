@@ -35,7 +35,7 @@ summary: ''
 
 .
 
-(4)[^key-2dcfbfe94a153acaacb09debd7304ed2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2dcfbfe94a153acaacb09debd7304ed2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (4) of sections 429, 443 and 446R, and in subsection (3) of section 449, for the words after “are not” substitute “ employment-related securities. ”; and accordingly omit sections 429(5), 443(5), 446R(5) and 449(4).
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dcfbfe94a153acaacb09debd7304ed2]: Textual amendment: S. 86(4) repealed (with effect in accordance with Sch. 11 Pt. 2(1) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/1)
+[^c-2dcfbfe94a153acaacb09debd7304ed2]: Textual amendment: S. 86(4) repealed (with effect in accordance with Sch. 11 Pt. 2(1) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/1)

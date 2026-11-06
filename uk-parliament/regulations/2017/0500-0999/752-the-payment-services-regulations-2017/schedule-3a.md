@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Application and modification of the Banking Act 2009[^key-72bc53e4e1878f871a8e398160de35ce]
+## SCHEDULE 3A — Application and modification of the Banking Act 2009[^c-72bc53e4e1878f871a8e398160de35ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ Section 93(4) of the Banking Act 2009 (interpretation: other expressions) applie
 
 ## Annotations
 
-[^key-72bc53e4e1878f871a8e398160de35ce]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2017/752/schedule/3A) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1275/regulation/7)
+[^c-72bc53e4e1878f871a8e398160de35ce]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2017/752/schedule/3A) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1275/regulation/7)

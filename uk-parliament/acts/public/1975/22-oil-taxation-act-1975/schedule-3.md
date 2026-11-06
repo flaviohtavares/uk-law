@@ -30,9 +30,9 @@ Section 1.
 - (b) the terms of the sale are not affected by any commercial relationship (other than that created by the contract itself) between the seller or any person connected with the seller and the buyer or any person connected with the buyer; and
 - (c) neither the seller nor any person connected with him has, directly or indirectly, any interest in the subsequent resale or disposal of the oil or any product derived therefrom.
 
-(2) Section 1122 of CTA 2010[^key-23ef1b864344f53f793055a1e02e9038] (connected persons) shall apply for the purposes of the preceding sub-paragraph.
+(2) Section 1122 of CTA 2010[^c-23ef1b864344f53f793055a1e02e9038] (connected persons) shall apply for the purposes of the preceding sub-paragraph.
 
-### Determination of market value: the notional delivery day for a quantity of oil[^key-683efcffc7bcb93488ce784319b7dfb4]
+### Determination of market value: the notional delivery day for a quantity of oil[^c-683efcffc7bcb93488ce784319b7dfb4]
 
 **1A.** (1) This paragraph has effect for determining, for the purposes of this Schedule, the day which is the “notional delivery day” in the case of any particular quantity of oil of any particular kind whose market value falls to be determined in accordance with the provisions of this Schedule in the case of any chargeable period.
 
@@ -92,9 +92,9 @@ The power conferred by this sub-paragraph includes power to make amendments to, 
 
 ### Definition of market value of oil
 
-**2.**[^c10747861][^key-5a5c72bb50d1ec4b57c89698f17b52bb][^key-3d9c4f67ca717e638efdee2e54cb8310][^key-f102c707ddc00e030b026b1c017b47dc] (1)[^c10747851] Except in the case of light gases[^c10747871] the market value of any particular quantity of oil of any kind on any day[^key-306b628d1da3c5f2d396582f7c59454e] shall be determined for the purposes of this Part of this Act in accordance with this paragraph and, accordingly, references in the following provisions of this paragraph to oil do not apply to light gases.
+**2.**[^c10747861][^c-5a5c72bb50d1ec4b57c89698f17b52bb][^c-3d9c4f67ca717e638efdee2e54cb8310][^c-f102c707ddc00e030b026b1c017b47dc] (1)[^c10747851] Except in the case of light gases[^c10747871] the market value of any particular quantity of oil of any kind on any day[^c-306b628d1da3c5f2d396582f7c59454e] shall be determined for the purposes of this Part of this Act in accordance with this paragraph and, accordingly, references in the following provisions of this paragraph to oil do not apply to light gases.
 
-(1A)[^key-3d2cf65cbe3f23a36072d16c36df04fa] This paragraph makes different provision according to whether the oil is—
+(1A)[^c-3d2cf65cbe3f23a36072d16c36df04fa] This paragraph makes different provision according to whether the oil is—
 
 - (a) Category 1 oil of any kind, or
 - (b) Category 2 oil of any kind.
@@ -106,7 +106,7 @@ The power conferred by this sub-paragraph includes power to make amendments to, 
 
 (1C) The Board may specify oil of any particular kind as Category 1 oil only if they are satisfied that reports of prices for sales of oil of that kind are published and widely available (whether or not on payment of a fee).
 
-(2)[^key-4e961fe42676e85de668691771530a2d] The market value of any particular quantity of Category 1 oil of any kind is the price for which that quantity of oil of that kind might reasonably have been expected to be sold under a contract of sale that meets the following conditions—
+(2)[^c-4e961fe42676e85de668691771530a2d] The market value of any particular quantity of Category 1 oil of any kind is the price for which that quantity of oil of that kind might reasonably have been expected to be sold under a contract of sale that meets the following conditions—
 
 - (a) the contract is for the sale of the oil at arm's length to a willing buyer;
 - (b) the contract is for delivery of a single standard cargo of the oil;
@@ -130,7 +130,7 @@ The terms as to payment which are to be implied in the contract are those which 
 
 The terms as to payment which are to be implied in the contract are those which are customarily contained in contracts for the sale at arm's length of oil of the kind in question.
 
-(2E)[^key-9951b5d8ae263ab2cad1a43b4b3e57dc] For the purposes of sub-paragraph (2) or (2AA) above, the price of any quantity of Category 1 or Category 2 oil of any kind shall be determined in such manner, on the basis of such information, and by reference to such factors, as may be prescribed for oil of that Category and kind in regulations made by the Board.
+(2E)[^c-9951b5d8ae263ab2cad1a43b4b3e57dc] For the purposes of sub-paragraph (2) or (2AA) above, the price of any quantity of Category 1 or Category 2 oil of any kind shall be determined in such manner, on the basis of such information, and by reference to such factors, as may be prescribed for oil of that Category and kind in regulations made by the Board.
 
 (2F) The provision that may be made by regulations under subsection (2E) above includes provision for or in connection with any or all of the following—
 
@@ -156,32 +156,32 @@ or for any other reason.
 - (a) so far as it is practicable and appropriate to do so by reference to other contracts or published prices (whether or not relating to oil of the same kind) and in accordance with the principles set out in the regulations for determining an average of prices; and
 - (b) so far as it is not practicable or appropriate to determine it as mentioned in paragraph (a) above, in such other manner as appears to the Board to be appropriate in the circumstances.
 
-(3)[^key-543506a217a54472f9029945efc6d2fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-543506a217a54472f9029945efc6d2fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^c10748031] Where all or any of the oil whose market value falls to be ascertained in accordance with sub-paragraph (1) and sub-paragraph (2) or (2AA) above[^key-503cbfeee6b94f08dd6ae6f2da87005f] has been subjected to initial treatment before being disposed of or relevantly appropriated, the appropriate initial treatment referred to in sub-paragraph (2)(d) or (2AA)(d) above[^key-7d65fa16e46361ad9b8e98b8267a63e4] shall, as respects that oil, include the whole of that treatment.
+(3A)[^c10748031] Where all or any of the oil whose market value falls to be ascertained in accordance with sub-paragraph (1) and sub-paragraph (2) or (2AA) above[^c-503cbfeee6b94f08dd6ae6f2da87005f] has been subjected to initial treatment before being disposed of or relevantly appropriated, the appropriate initial treatment referred to in sub-paragraph (2)(d) or (2AA)(d) above[^c-7d65fa16e46361ad9b8e98b8267a63e4] shall, as respects that oil, include the whole of that treatment.
 
-(4) The provisions of sub-paragraphs (2) and (2AA)[^key-781ad42113812c26b5ebb4a259a9a306] above shall apply for the ascertainment of the market value of oil in any case mentioned in paragraph 2(2) of Schedule 2 to this Act as they apply in relation to the corresponding case mentioned in those provisions.
+(4) The provisions of sub-paragraphs (2) and (2AA)[^c-781ad42113812c26b5ebb4a259a9a306] above shall apply for the ascertainment of the market value of oil in any case mentioned in paragraph 2(2) of Schedule 2 to this Act as they apply in relation to the corresponding case mentioned in those provisions.
 
-(5)[^key-f1531f04ee02f43b9525f40f691c74a9] In this paragraph “**prescribed**” means specified in, or determined in accordance with, regulations.
+(5)[^c-f1531f04ee02f43b9525f40f691c74a9] In this paragraph “**prescribed**” means specified in, or determined in accordance with, regulations.
 
-**2A.**[^c10748141] (1)[^c10748151] Paragraph 2 above shall have effect in accordance with this paragraph where the oil whose market value falls to be ascertained at any time in accordance with sub-paragraphs (1) to[^c10748161] (2I)[^key-8ac1cea28e5bf4de15a89d4325a440a8] of that paragraph [^key-29ce7df26df2f4cbce61d468bc00c188]... consists of or includes gas.
+**2A.**[^c10748141] (1)[^c10748151] Paragraph 2 above shall have effect in accordance with this paragraph where the oil whose market value falls to be ascertained at any time in accordance with sub-paragraphs (1) to[^c10748161] (2I)[^c-8ac1cea28e5bf4de15a89d4325a440a8] of that paragraph [^c-29ce7df26df2f4cbce61d468bc00c188]... consists of or includes gas.
 
 (1A)[^c10748171] Sub-paragraphs (2) and (3) below also apply where the market value of any light gases falls to be ascertained under paragraph 3A below.
 
-(2) Sub-paragraph (2)(d) or (as the case may be) (2AA)(d) of paragraph 2 above[^key-46f2b03846fd69e3a90143eb02db397d] or, as the case may require, sub-paragraph (2)(b) of paragraph 3A below[^c10748191] shall not apply to so much of the oil as consists of gas unless—
+(2) Sub-paragraph (2)(d) or (as the case may be) (2AA)(d) of paragraph 2 above[^c-46f2b03846fd69e3a90143eb02db397d] or, as the case may require, sub-paragraph (2)(b) of paragraph 3A below[^c10748191] shall not apply to so much of the oil as consists of gas unless—
 
 - (a) it has been subjected to initial treatment before being disposed of or relevantly appropriated; or
-- (b) it has, after being disposed of or relevantly appropriated, been subjected to initial treatment by or on behalf of the participator in question or by or on behalf of a person who is connected with him within the meaning of section 1122 of CTA 2010[^key-a36d52d604cb87feedbb2bd0a6fa8b95];
+- (b) it has, after being disposed of or relevantly appropriated, been subjected to initial treatment by or on behalf of the participator in question or by or on behalf of a person who is connected with him within the meaning of section 1122 of CTA 2010[^c-a36d52d604cb87feedbb2bd0a6fa8b95];
 
-and where oil consisting of gas has, whether before or after being disposed of or relevantly appropriated, been subjected to initial treatment by or on behalf of the participator in question or by or on behalf of a person who is connected with him as aforesaid the appropriate initial treatment referred to in sub-paragraph (2)(d) or (2AA)[^key-a0dafd5600ada03579ecf5f9dcfe4ce5] of paragraph 2 above or, as the case may require, sub-paragraph (2)(b) of paragraph 3A below shall include the treatment to which it has been so subjected.
+and where oil consisting of gas has, whether before or after being disposed of or relevantly appropriated, been subjected to initial treatment by or on behalf of the participator in question or by or on behalf of a person who is connected with him as aforesaid the appropriate initial treatment referred to in sub-paragraph (2)(d) or (2AA)[^c-a0dafd5600ada03579ecf5f9dcfe4ce5] of paragraph 2 above or, as the case may require, sub-paragraph (2)(b) of paragraph 3A below shall include the treatment to which it has been so subjected.
 
-(3) Where the initial treatment mentioned in sub-paragraph (2) or (2AA)[^key-9a6408180bd652339913452d2a36d0c5] above includes treatment in order to separate gas of one or more kinds which are transported and sold in normal commercial practice, the market value of the gas of each such kind which is separated shall be ascertained in accordance with sub-paragraphs (1) to (2I)[^key-d39b24486c659dd989a92550282d3108] of paragraph 2 or, as the case may require, in accordance with paragraph 3A below[^c10748241] as if that were the only oil whose market value fell to be ascertained at the time in question [^key-94b4b44abd1b01370efa8a62ec04965b]....
+(3) Where the initial treatment mentioned in sub-paragraph (2) or (2AA)[^c-9a6408180bd652339913452d2a36d0c5] above includes treatment in order to separate gas of one or more kinds which are transported and sold in normal commercial practice, the market value of the gas of each such kind which is separated shall be ascertained in accordance with sub-paragraphs (1) to (2I)[^c-d39b24486c659dd989a92550282d3108] of paragraph 2 or, as the case may require, in accordance with paragraph 3A below[^c10748241] as if that were the only oil whose market value fell to be ascertained at the time in question [^c-94b4b44abd1b01370efa8a62ec04965b]....
 
 (4)[^c10748261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Aggregate market value of oil for purposes of section 2(5)
 
-**3.**[^key-580e8594da91697dab66ed743a949b2d] (1) For the purposes of subsection (5) of section 2 of this Act, the aggregate market value of any oil falling within paragraph (b) or (c) of that subsection is arrived at as follows.
+**3.**[^c-580e8594da91697dab66ed743a949b2d] (1) For the purposes of subsection (5) of section 2 of this Act, the aggregate market value of any oil falling within paragraph (b) or (c) of that subsection is arrived at as follows.
 
 (2) In the case of oil falling within paragraph (b) of that subsection and delivered as there mentioned in the chargeable period in question—
 
@@ -195,7 +195,7 @@ and where oil consisting of gas has, whether before or after being disposed of o
 
 ### Definition of market value of light gases[^c10748301]
 
-**3A.**[^key-df791a1badd89a40763a7cb1be017afc][^key-ec1082df5cfaa2bf2e3893db532d40a9][^key-d0a656f5fea5e81a27561bf0fb39d9c2][^c10748321] (1) The market value of any light gases for the purposes of this Part of this Act is the price at which, having regard to all the circumstances relevant to the disposal or appropriation in question, light gases of that kind might reasonably have been expected to be sold under a contract of sale satisfying the conditions specified in sub-paragraph (2) below.
+**3A.**[^c-df791a1badd89a40763a7cb1be017afc][^c-ec1082df5cfaa2bf2e3893db532d40a9][^c-d0a656f5fea5e81a27561bf0fb39d9c2][^c10748321] (1) The market value of any light gases for the purposes of this Part of this Act is the price at which, having regard to all the circumstances relevant to the disposal or appropriation in question, light gases of that kind might reasonably have been expected to be sold under a contract of sale satisfying the conditions specified in sub-paragraph (2) below.
 
 (2) The conditions referred to in sub-paragraph (1) above are that—
 
@@ -222,7 +222,7 @@ section 114 of the Finance Act 1984 shall apply accordingly in relation to the n
 
 ### Oil delivered in place of royalties to be disregarded for certain purposes
 
-**4.** Oil delivered to the OGA[^key-81300ec39b7ed03d5e053e04649667de] under the terms of a licence granted under Part I of the Petroleum Act 1998[^c10748351] shall be disregarded for the purposes of section 2(5) of this Act and for the purposes of the references in section 8(3) and (4) of this Act to a participator’s share of the oil won and saved from an oil field in a chargeable period.
+**4.** Oil delivered to the OGA[^c-81300ec39b7ed03d5e053e04649667de] under the terms of a licence granted under Part I of the Petroleum Act 1998[^c10748351] shall be disregarded for the purposes of section 2(5) of this Act and for the purposes of the references in section 8(3) and (4) of this Act to a participator’s share of the oil won and saved from an oil field in a chargeable period.
 
 ### Effect of transfer to an associated company of participator’s rights etc. in connection with an oil field or relevant licence
 
@@ -231,7 +231,7 @@ section 114 of the Finance Act 1984 shall apply accordingly in relation to the n
 - (a) ownership of all or any of the participator’s share of the oil won and saved from the field is transferred to the company; and
 - (b) the company obtains or assumes all or any of the participator’s other rights, interests and obligations in connection with the field or any relevant licence.
 
-(2)[^c10748361] As regards any chargeable period in which a participator in an oil field is a party to an arrangement to which this paragraph applies, the other party to the arrangement shall be treated for all purposes of this Part of this Act (except this paragraph) and for the purposes of sections 299 to 301 of CTA 2010[^key-35c27d45177c02b262a52695f674d75f] as having been a participator in the field at all times when the actual participator was such a participator (including times before the arrangement was made), and shall be assessable and chargeable to tax and entitled to make any claim under this Part of this Act, and any deduction or claim under sections 299 to 301 of CTA 2010, accordingly.
+(2)[^c10748361] As regards any chargeable period in which a participator in an oil field is a party to an arrangement to which this paragraph applies, the other party to the arrangement shall be treated for all purposes of this Part of this Act (except this paragraph) and for the purposes of sections 299 to 301 of CTA 2010[^c-35c27d45177c02b262a52695f674d75f] as having been a participator in the field at all times when the actual participator was such a participator (including times before the arrangement was made), and shall be assessable and chargeable to tax and entitled to make any claim under this Part of this Act, and any deduction or claim under sections 299 to 301 of CTA 2010, accordingly.
 
 (3) Where a participator in an oil field is or has been a party to an arrangement to which this paragraph applies then for all purposes of this Part of this Act—
 
@@ -245,7 +245,7 @@ section 114 of the Finance Act 1984 shall apply accordingly in relation to the n
 - (a) the participator has control over or is under the control of the other company; or
 - (b) the participator and the other company are both under the control of the same person or persons;
 
-and in this sub-paragraph “**control**” has the meaning given by section 1124 of CTA 2010[^key-65c2fc851081e19b276b50bd2f6c4734].
+and in this sub-paragraph “**control**” has the meaning given by section 1124 of CTA 2010[^c-65c2fc851081e19b276b50bd2f6c4734].
 
 ### Oil owned by a person other than a participator in the oil field from which it was won
 
@@ -287,7 +287,7 @@ then, in computing the assessable profit or allowable loss accruing to the parti
 
 **8.** (1)[^c10748451] Expenditure shall not be regarded for any of the purposes of this Part of this Act as having been incurred by any person in so far as it has been or is to be met directly or indirectly by the Crown or by any government or public or local authority, whether in the United Kingdom or elsewhere, or by any person other than the first-mentioned person, unless it is so met by a grant made under Part I of the[^c10748461] [^c10748471]Industry Act 1972 or a grant made under an enactment of the Parliament of Northern Ireland or Measure of the Northern Ireland Assembly and declared by order of the Treasury under section 84 of the [^c10748481]Capital Allowances Act 1968 to correspond to a grant made under the said Part I.
 
-(1A)[^key-ecba8bf665f98be6b54b4753c1df6318] But sub-paragraph (1) above does not apply to any expenditure for which the relevant participator is liable that has been or is to be met directly or indirectly out of a payment made by the guarantor under an abandonment guarantee.
+(1A)[^c-ecba8bf665f98be6b54b4753c1df6318] But sub-paragraph (1) above does not apply to any expenditure for which the relevant participator is liable that has been or is to be met directly or indirectly out of a payment made by the guarantor under an abandonment guarantee.
 
 (1B) In sub-paragraph (1A) above—
 
@@ -296,13 +296,13 @@ then, in computing the assessable profit or allowable loss accruing to the parti
 
 (2) In considering, for the purposes of this paragraph, how far any expenditure has been or is to be met directly or indirectly by the Crown or by any authority or person other than the person incurring the expenditure, there shall be left out of account any insurance or compensation payable in respect of the loss or destruction of any asset.
 
-(3)[^key-8225ddea4b330f83c57854b9b01fbae7] This paragraph is subject to paragraph 11A (transfers of interests in oil fields: post-transfer decommissioning expenditure).
+(3)[^c-8225ddea4b330f83c57854b9b01fbae7] This paragraph is subject to paragraph 11A (transfers of interests in oil fields: post-transfer decommissioning expenditure).
 
 ### Election to have amounts mentioned in section 2(9)(b) and (c) spread
 
-**9.**[^key-db49c00647a53ee27b7b894b2fb58ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-db49c00647a53ee27b7b894b2fb58ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d9b6818a3b19d284ca9c532df40a4cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d9b6818a3b19d284ca9c532df40a4cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction of amount of reduction under section 8(1)
 
@@ -315,7 +315,7 @@ then, if the Board so direct, the reduction made under that subsection for that 
 
 In this paragraph “**the relevant time**” means the end of twelve months from the end of the claim period to which the claim mentioned in sub-paragraph (a) above relates.
 
-### Transfers of interests in oil fields: post-transfer decommissioning expenditure[^key-3934dcd48582f7740ae17f904e130f68]
+### Transfers of interests in oil fields: post-transfer decommissioning expenditure[^c-3934dcd48582f7740ae17f904e130f68]
 
 **11A.** (1) This paragraph applies if—
 
@@ -342,7 +342,7 @@ In this paragraph “**the relevant time**” means the end of twelve months fro
 
 (7) If there is, for the purposes of Schedule 17 to FA 1980, a subsequent transfer of the whole or part of an interest in the oil field mentioned in sub-paragraph (1)(a), references in this paragraph to “the old participator” include references to each participator whose interest, or part of it, in the oil field is the subject of a transfer to which this paragraph applies.
 
-### Power to make regulations under this Schedule[^key-6b6a770356a758cb50a198885ee8f994]
+### Power to make regulations under this Schedule[^c-6b6a770356a758cb50a198885ee8f994]
 
 **12.** (1) Any power to make regulations under this Schedule is exercisable by statutory instrument.
 
@@ -357,41 +357,41 @@ In this paragraph “**the relevant time**” means the end of twelve months fro
 
 [^c10747461]: Modification: Definition applied for purposes of [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 493(3)](https://www.legislation.gov.uk/ukpga/1988/1/section/493/3)
 
-[^key-23ef1b864344f53f793055a1e02e9038]: Textual amendment: Words in Sch. 3 para. 1(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-23ef1b864344f53f793055a1e02e9038]: Textual amendment: Words in Sch. 3 para. 1(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-683efcffc7bcb93488ce784319b7dfb4]: Textual amendment: Sch. 3 para. 1A and cross-heading inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/1)
+[^c-683efcffc7bcb93488ce784319b7dfb4]: Textual amendment: Sch. 3 para. 1A and cross-heading inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/1)
 
 [^c10747861]: Modification: [See Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 134](https://www.legislation.gov.uk/ukpga/1982/39/section/134) and Sch. 18; [Finance Act 1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), [s. 109](https://www.legislation.gov.uk/ukpga/1986/41/section/109)
 
-[^key-5a5c72bb50d1ec4b57c89698f17b52bb]: Modification: Sch. 3 para. 2 applied (with modifications) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [ss. 225G(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225G/6), [225J(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225J/6) (as inserted (for the tax year 2010-11 and subsequent tax years) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/1/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
+[^c-5a5c72bb50d1ec4b57c89698f17b52bb]: Modification: Sch. 3 para. 2 applied (with modifications) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [ss. 225G(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225G/6), [225J(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225J/6) (as inserted (for the tax year 2010-11 and subsequent tax years) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/1/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
 
-[^key-3d9c4f67ca717e638efdee2e54cb8310]: Modification: Sch. 3 para. 2 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 285(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3d9c4f67ca717e638efdee2e54cb8310]: Modification: Sch. 3 para. 2 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 285(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f102c707ddc00e030b026b1c017b47dc]: Modification: Sch. 3 para. 2 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 282(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f102c707ddc00e030b026b1c017b47dc]: Modification: Sch. 3 para. 2 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 282(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10747851]: Textual amendment: Sch. 3 para. 2(1)(2)(a)-(d) and part of (e) substituted for Sch. 3 para. 2(1)(2)(a) and part of (b) by [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 62(3)](https://www.legislation.gov.uk/ukpga/1987/16/section/62/3), [Sch. 11 para. 1(2)(3)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/11/paragraph/1/2/3) for chargeable periods ending after 31 December 1986
 
 [^c10747871]: Textual amendment: Words in Sch. 3 para. 2(1) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [Sch. 23 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/3/1/a) (with saving in [s. 236(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/2))
 
-[^key-306b628d1da3c5f2d396582f7c59454e]: Textual amendment: Words in Sch. 3 para. 2(1) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/3)
+[^c-306b628d1da3c5f2d396582f7c59454e]: Textual amendment: Words in Sch. 3 para. 2(1) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/3)
 
-[^key-3d2cf65cbe3f23a36072d16c36df04fa]: Textual amendment: Sch. 3 para. 2(1A)-(1C) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/4)
+[^c-3d2cf65cbe3f23a36072d16c36df04fa]: Textual amendment: Sch. 3 para. 2(1A)-(1C) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/4)
 
-[^key-4e961fe42676e85de668691771530a2d]: Textual amendment: Sch. 3 para. 2(2)(2AA) substituted for Sch. 3 para. 2(2) (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/5)
+[^c-4e961fe42676e85de668691771530a2d]: Textual amendment: Sch. 3 para. 2(2)(2AA) substituted for Sch. 3 para. 2(2) (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/5)
 
-[^key-9951b5d8ae263ab2cad1a43b4b3e57dc]: Textual amendment: Sch. 3 para. 2(2E)-(2I) substituted for Sch. 3 para. 2(2A)-(2D) (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(6)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/6)
+[^c-9951b5d8ae263ab2cad1a43b4b3e57dc]: Textual amendment: Sch. 3 para. 2(2E)-(2I) substituted for Sch. 3 para. 2(2A)-(2D) (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(6)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/6)
 
-[^key-543506a217a54472f9029945efc6d2fb]: Textual amendment: Sch. 3 para. 2(3) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(7)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/7), [Sch. 26 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5)
+[^c-543506a217a54472f9029945efc6d2fb]: Textual amendment: Sch. 3 para. 2(3) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(7)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/7), [Sch. 26 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5)
 
 [^c10748031]: Textual amendment: Sch. 3 para. 2(3A) inserted by [Finance Act 1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), [s. 109(6)](https://www.legislation.gov.uk/ukpga/1980/48/section/109/6) in relation to chargeable periods ending after 31 December 1979
 
-[^key-503cbfeee6b94f08dd6ae6f2da87005f]: Textual amendment: Words in Sch. 3 para. 2(3A) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(8)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/8/a)
+[^c-503cbfeee6b94f08dd6ae6f2da87005f]: Textual amendment: Words in Sch. 3 para. 2(3A) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(8)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/8/a)
 
-[^key-7d65fa16e46361ad9b8e98b8267a63e4]: Textual amendment: Words in Sch. 3 para. 2(3A) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(8)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/8/b)
+[^c-7d65fa16e46361ad9b8e98b8267a63e4]: Textual amendment: Words in Sch. 3 para. 2(3A) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(8)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/8/b)
 
-[^key-781ad42113812c26b5ebb4a259a9a306]: Textual amendment: Words in Sch. 3 para. 2(4) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(9)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/9)
+[^c-781ad42113812c26b5ebb4a259a9a306]: Textual amendment: Words in Sch. 3 para. 2(4) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(9)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/9)
 
-[^key-f1531f04ee02f43b9525f40f691c74a9]: Textual amendment: Sch. 3 para. 2(5) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(10)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/10)
+[^c-f1531f04ee02f43b9525f40f691c74a9]: Textual amendment: Sch. 3 para. 2(5) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 146(10)](https://www.legislation.gov.uk/ukpga/2006/25/section/146/10)
 
 [^c10748141]: Textual amendment: Sch. 3 para. 2A inserted by [Finance Act 1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), [s. 109(7)](https://www.legislation.gov.uk/ukpga/1980/48/section/109/7) in relation to chargeable periods ending after 31 December 1979
 
@@ -399,53 +399,53 @@ In this paragraph “**the relevant time**” means the end of twelve months fro
 
 [^c10748161]: Textual amendment: Words substituted by [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 62(3)](https://www.legislation.gov.uk/ukpga/1987/16/section/62/3) and Sch. 11 para. 2 for chargeable periods ending after 31 December 1986
 
-[^key-8ac1cea28e5bf4de15a89d4325a440a8]: Textual amendment: Word in Sch. 3 para. 2A(1) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/2/a)
+[^c-8ac1cea28e5bf4de15a89d4325a440a8]: Textual amendment: Word in Sch. 3 para. 2A(1) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/2/a)
 
-[^key-29ce7df26df2f4cbce61d468bc00c188]: Textual amendment: Words in Sch. 3 para. 2A(1) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/2/b), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-29ce7df26df2f4cbce61d468bc00c188]: Textual amendment: Words in Sch. 3 para. 2A(1) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/2/b), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
 [^c10748171]: Textual amendment: Sch. 3 para. 2A(1A) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [Sch. 23 para. 3(2)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/3/2) (with saving in [s. 236(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/2))
 
-[^key-46f2b03846fd69e3a90143eb02db397d]: Textual amendment: Words in Sch. 3 para. 2A(2) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/3/a)
+[^c-46f2b03846fd69e3a90143eb02db397d]: Textual amendment: Words in Sch. 3 para. 2A(2) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/3/a)
 
 [^c10748191]: Textual amendment: Words in Sch. 3 para. 2A(2) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [Sch. 23 para. 3(3)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/3/3) (with saving in [s. 236(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/2))
 
-[^key-a36d52d604cb87feedbb2bd0a6fa8b95]: Textual amendment: Words in Sch. 3 para. 2A(2)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a36d52d604cb87feedbb2bd0a6fa8b95]: Textual amendment: Words in Sch. 3 para. 2A(2)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-a0dafd5600ada03579ecf5f9dcfe4ce5]: Textual amendment: Words in Sch. 3 para. 2A(2) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/3/b)
+[^c-a0dafd5600ada03579ecf5f9dcfe4ce5]: Textual amendment: Words in Sch. 3 para. 2A(2) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/3/b)
 
-[^key-9a6408180bd652339913452d2a36d0c5]: Textual amendment: Words in Sch. 3 para. 2A(3) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/4/a)
+[^c-9a6408180bd652339913452d2a36d0c5]: Textual amendment: Words in Sch. 3 para. 2A(3) inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/4/a)
 
-[^key-d39b24486c659dd989a92550282d3108]: Textual amendment: Word in Sch. 3 para. 2A(3) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/4/b)
+[^c-d39b24486c659dd989a92550282d3108]: Textual amendment: Word in Sch. 3 para. 2A(3) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/4/b)
 
 [^c10748241]: Textual amendment: Words in Sch. 3 para. 2A(3) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [Sch. 23 para. 3(4)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/3/4) (with saving in [s. 236(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/2))
 
-[^key-94b4b44abd1b01370efa8a62ec04965b]: Textual amendment: Words in Sch. 3 para. 2A(3) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(4)(c)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/4/c), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-94b4b44abd1b01370efa8a62ec04965b]: Textual amendment: Words in Sch. 3 para. 2A(3) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 8(4)(c)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/8/4/c), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
 [^c10748261]: Textual amendment: Sch. 23 para. 2A(4) repealed (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [ss. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 23 para. 3(5)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/3/5), [Sch. 26 Pt. VI](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/VI) Note 1 (with saving in s. 236(2))
 
-[^key-580e8594da91697dab66ed743a949b2d]: Textual amendment: Sch. 3 para. 3 substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/9)
+[^c-580e8594da91697dab66ed743a949b2d]: Textual amendment: Sch. 3 para. 3 substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/9)
 
 [^c10748301]: Textual amendment: SCh. 3: Crossheading and para. 3A inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/4) (with saving in [s. 236(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/2))
 
-[^key-df791a1badd89a40763a7cb1be017afc]: Modification: Sch. 3 para. 3A applied (with modifications) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [ss. 225G(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225G/6), [225J(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225J/6) (as inserted (for the tax year 2010-11 and subsequent tax years) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/1/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
+[^c-df791a1badd89a40763a7cb1be017afc]: Modification: Sch. 3 para. 3A applied (with modifications) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [ss. 225G(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225G/6), [225J(6)(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/225J/6) (as inserted (for the tax year 2010-11 and subsequent tax years) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/1/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
 
-[^key-ec1082df5cfaa2bf2e3893db532d40a9]: Modification: Sch. 3 para. 3A applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 285(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ec1082df5cfaa2bf2e3893db532d40a9]: Modification: Sch. 3 para. 3A applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 285(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/285/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d0a656f5fea5e81a27561bf0fb39d9c2]: Modification: Sch. 3 para. 3A applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 282(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d0a656f5fea5e81a27561bf0fb39d9c2]: Modification: Sch. 3 para. 3A applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 282(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/6)[(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/282/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10748321]: Textual amendment: Sch. 3 para. 3A inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 236(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/1994/9/schedule/23/paragraph/4) (with saving in [s. 236(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/236/2))
 
 [^c10748331]: Textual amendment: Sch. 3 para. 3A(3A) inserted (*retrospectively*) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/152/1)
 
-[^key-81300ec39b7ed03d5e053e04649667de]: Textual amendment: Word in Sch. 3 para. 4 substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/9)
+[^c-81300ec39b7ed03d5e053e04649667de]: Textual amendment: Word in Sch. 3 para. 4 substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/9)
 
 [^c10748351]: Textual amendment: Words in Sch. 3 para. 4 substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 7(7)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/7/7) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 
 [^c10748361]: Modification: [See Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 128(1)](https://www.legislation.gov.uk/ukpga/1981/35/section/128/1) and Sch. 16 para. 14; [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1982/39/section/139/6), [Sch. 19 para. 20](https://www.legislation.gov.uk/ukpga/1982/39/schedule/19/paragraph/20)
 
-[^key-35c27d45177c02b262a52695f674d75f]: Textual amendment: Words in Sch. 3 para. 5(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-35c27d45177c02b262a52695f674d75f]: Textual amendment: Words in Sch. 3 para. 5(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-65c2fc851081e19b276b50bd2f6c4734]: Textual amendment: Words in Sch. 3 para. 5(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-65c2fc851081e19b276b50bd2f6c4734]: Textual amendment: Words in Sch. 3 para. 5(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 165(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/165/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10748411]: Textual amendment: Words substituted by [Finance Act 1977 (c. 36)](https://www.legislation.gov.uk/ukpga/1977/36), [s. 54(2)](https://www.legislation.gov.uk/ukpga/1977/36/section/54/2)
 
@@ -463,14 +463,14 @@ In this paragraph “**the relevant time**” means the end of twelve months fro
 
 [^c10748481]: Marginal citation: [1968 c. 3](https://www.legislation.gov.uk/ukpga/1968/3).
 
-[^key-ecba8bf665f98be6b54b4753c1df6318]: Textual amendment: Sch. 3 para. 8(1A)(1B) inserted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/3)
+[^c-ecba8bf665f98be6b54b4753c1df6318]: Textual amendment: Sch. 3 para. 8(1A)(1B) inserted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/3)
 
-[^key-8225ddea4b330f83c57854b9b01fbae7]: Textual amendment: Sch. 3 para. 8(3) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/38/3)
+[^c-8225ddea4b330f83c57854b9b01fbae7]: Textual amendment: Sch. 3 para. 8(3) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/38/3)
 
-[^key-db49c00647a53ee27b7b894b2fb58ca6]: Textual amendment: Sch. 3 para. 9 omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/2)
+[^c-db49c00647a53ee27b7b894b2fb58ca6]: Textual amendment: Sch. 3 para. 9 omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/2)
 
-[^key-d9b6818a3b19d284ca9c532df40a4cc5]: Textual amendment: Sch. 3 para. 10 omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/2)
+[^c-d9b6818a3b19d284ca9c532df40a4cc5]: Textual amendment: Sch. 3 para. 10 omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/2)
 
-[^key-3934dcd48582f7740ae17f904e130f68]: Textual amendment: Sch. 3 para. 11A and cross-heading inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 38(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/38/2)
+[^c-3934dcd48582f7740ae17f904e130f68]: Textual amendment: Sch. 3 para. 11A and cross-heading inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 38(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/38/2)
 
-[^key-6b6a770356a758cb50a198885ee8f994]: Textual amendment: Sch. 3 para. 12 and cross-heading inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/10)
+[^c-6b6a770356a758cb50a198885ee8f994]: Textual amendment: Sch. 3 para. 12 and cross-heading inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.32. Petitioner seeking dismissal or leave to withdraw[^key-abd8380698c6bbaf03159d47aa62813e]
+## 6.32. Petitioner seeking dismissal or leave to withdraw[^c-abd8380698c6bbaf03159d47aa62813e]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abd8380698c6bbaf03159d47aa62813e]: Commencement: [Rule 6.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-abd8380698c6bbaf03159d47aa62813e]: Commencement: [Rule 6.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00139]: Marginal citation: \[FORM 6.22\]

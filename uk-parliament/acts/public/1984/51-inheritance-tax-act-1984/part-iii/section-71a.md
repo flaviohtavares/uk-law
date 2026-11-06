@@ -44,18 +44,18 @@ which secure that the conditions in subsection (3) below are met.
 - (b) that, for so long as the bereaved minor is living and under the age of 18, if any of the settled property is applied for the benefit of a beneficiary, it is applied for the benefit of the bereaved minor, and
 - (c) that, for so long as the bereaved minor is living and under the age of 18, either—
   - (i) the bereaved minor is entitled to all of the income (if there is any) arising from any of the settled property, or
-  - (ii)[^key-dc10c4e503d4003eef26aacc097b569a] if any of the income arising from any of the settled property is applied for the benefit of a beneficiary, it is applied for the benefit of the bereaved minor.
+  - (ii)[^c-dc10c4e503d4003eef26aacc097b569a] if any of the income arising from any of the settled property is applied for the benefit of a beneficiary, it is applied for the benefit of the bereaved minor.
 
 (4) Trusts such as are mentioned in paragraph (a) , (b) or (c)[^c21428381] of subsection (2) above are not to be treated as failing to secure that the conditions in subsection (3) above are met by reason only of—
 
-- (za)[^key-64c23cfd89391efba4427148ad0109cd] the trustees' having powers that enable them to apply otherwise than for the benefit of the bereaved minor amounts (whether consisting of income or capital, or both) not exceeding the annual limit,
+- (za)[^c-64c23cfd89391efba4427148ad0109cd] the trustees' having powers that enable them to apply otherwise than for the benefit of the bereaved minor amounts (whether consisting of income or capital, or both) not exceeding the annual limit,
 - (a) the trustees' having the powers conferred by section 32 of the Trustee Act 1925 (powers of advancement),
 - (b) the trustees' having those powers but free from, or subject to a less restrictive limitation than, the limitation imposed by proviso (a) of subsection (1) of that section,
 - (c) the trustees' having the powers conferred by section 33 of the Trustee Act (Northern Ireland) 1958 (corresponding provision for Northern Ireland),
 - (d) the trustees' having those powers but free from, or subject to a less restrictive limitation than, the limitation imposed by subsection (1)(a) of that section, or
 - (e) the trustees' having powers to the like effect as the powers mentioned in any of paragraphs (a) to (d) above.
 
-(4A)[^key-1e48ba61eacd0405d3b7c045fd144f6a] For the purposes of this section and section 71B, the “annual limit” is whichever is the lower of the following amounts—
+(4A)[^c-1e48ba61eacd0405d3b7c045fd144f6a] For the purposes of this section and section 71B, the “annual limit” is whichever is the lower of the following amounts—
 
 - (a) £3,000, and
 - (b) 3% of the amount that is the maximum value of the settled property during the period in question.
@@ -88,10 +88,10 @@ which secure that the conditions in subsection (3) below are met.
 
 [^c21428361]: Textual amendment: S. 71A(2)(c) and preceding word inserted (8.4.2010) by Crime and Security Act 2010, ss. 48(4), 59(2)(b), {Sch. 2 para. 2(2)(a)}
 
-[^key-dc10c4e503d4003eef26aacc097b569a]: Textual amendment: S. 71A(3)(c)(ii) substituted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 2(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/2/2)
+[^c-dc10c4e503d4003eef26aacc097b569a]: Textual amendment: S. 71A(3)(c)(ii) substituted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 2(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/2/2)
 
 [^c21428381]: Textual amendment: Words in s. 71A(4) substituted (8.4.2010) by Crime and Security Act 2010, ss. 48(4), 59(2)(b), {Sch. 2 para. 2(2)(b)}
 
-[^key-64c23cfd89391efba4427148ad0109cd]: Textual amendment: S. 71A(4)(za) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/2/3)
+[^c-64c23cfd89391efba4427148ad0109cd]: Textual amendment: S. 71A(4)(za) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/2/3)
 
-[^key-1e48ba61eacd0405d3b7c045fd144f6a]: Textual amendment: Ss. 71A(4A)-(4E) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 2(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/2/4)
+[^c-1e48ba61eacd0405d3b7c045fd144f6a]: Textual amendment: Ss. 71A(4A)-(4E) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 2(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/2/4)

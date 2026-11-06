@@ -46,7 +46,7 @@ In accordance with section 4(6) of the European Union Referendum Act 2015, the C
 
 A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to section 9(2) of that Act.
 
-Accordingly, the Chancellor of the Duchy of Lancaster makes the following Regulations:[^key-3bf9bd985cdc93b064a4ccc03ea78d00][^key-34515c08d1c78eb3d790710f924890f6]
+Accordingly, the Chancellor of the Duchy of Lancaster makes the following Regulations:[^c-3bf9bd985cdc93b064a4ccc03ea78d00][^c-34515c08d1c78eb3d790710f924890f6]
 
 ## Contents
 
@@ -253,6 +253,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2015 c.36](https://www.legislation.gov.uk/ukpga/2015/36). See the definition of “the Minister” in section 11(1).
 
-[^key-3bf9bd985cdc93b064a4ccc03ea78d00]: Modification: Regulations modified (W.) (27.2.2016) by [The European Union Referendum (Welsh Forms) Order 2016 (S.I. 2016/220)](https://www.legislation.gov.uk/uksi/2016/220), [art. 4(4)](https://www.legislation.gov.uk/uksi/2016/220/article/4/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/220/schedule/2)
+[^c-3bf9bd985cdc93b064a4ccc03ea78d00]: Modification: Regulations modified (W.) (27.2.2016) by [The European Union Referendum (Welsh Forms) Order 2016 (S.I. 2016/220)](https://www.legislation.gov.uk/uksi/2016/220), [art. 4(4)](https://www.legislation.gov.uk/uksi/2016/220/article/4/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/220/schedule/2)
 
-[^key-34515c08d1c78eb3d790710f924890f6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/219): power to modify conferred (W.) (27.2.2016) by [The European Union Referendum (Welsh Forms) Order 2016 (S.I. 2016/220)](https://www.legislation.gov.uk/uksi/2016/220), [art. 3](https://www.legislation.gov.uk/uksi/2016/220/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/220/schedule/1)
+[^c-34515c08d1c78eb3d790710f924890f6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/219): power to modify conferred (W.) (27.2.2016) by [The European Union Referendum (Welsh Forms) Order 2016 (S.I. 2016/220)](https://www.legislation.gov.uk/uksi/2016/220), [art. 3](https://www.legislation.gov.uk/uksi/2016/220/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/220/schedule/1)

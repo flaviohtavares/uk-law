@@ -26,7 +26,7 @@ Section 149
 
 **1.**[^c16543211] (1) In this Schedule “**devolution issue**” means—
 
-- (a) a question whether an Assembly Measure or Act of the Senedd[^key-60edd79c70d763519861630d1afb7962], or any provision of an Assembly Measure or Act of the Senedd, is within the Senedd's legislative competence,
+- (a) a question whether an Assembly Measure or Act of the Senedd[^c-60edd79c70d763519861630d1afb7962], or any provision of an Assembly Measure or Act of the Senedd, is within the Senedd's legislative competence,
 - (b) a question whether any function (being a function which any person has purported, or is proposing, to exercise) is exercisable by the Welsh Ministers, the First Minister or the Counsel General,
 - (c) a question whether the purported or proposed exercise of a function by the Welsh Ministers, the First Minister or the Counsel General is, or would be, within the powers of the Welsh Ministers, the First Minister or the Counsel General (including a question whether a purported or proposed exercise of a function is, or would be, outside those powers by virtue of section 80(8) or 81(1)),
 - (d) a question whether there has been any failure to comply with a duty imposed on the Welsh Ministers, the First Minister or the Counsel General (including any obligation imposed by virtue of section 80(1) or (7)), or
@@ -210,7 +210,7 @@ lies to the Supreme Court, but only with permission of the court from which the 
 
 [^c16543211]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
 [^c16543231]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 

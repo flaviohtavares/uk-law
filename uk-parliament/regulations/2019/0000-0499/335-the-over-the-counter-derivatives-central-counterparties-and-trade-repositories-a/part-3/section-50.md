@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Review of models, stress testing and back testing[^key-f289688c64ab84d5104ebb9649ec5e07]
+## 50. Review of models, stress testing and back testing[^c-f289688c64ab84d5104ebb9649ec5e07]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) In paragraph 1—
 
-- (a)[^key-1def37ab0ee240718fac30f0aee81ca7] for “its competent authority and ESMA” substitute “the Bank of England”;
+- (a)[^c-1def37ab0ee240718fac30f0aee81ca7] for “its competent authority and ESMA” substitute “the Bank of England”;
 - (b) for “their” substitute “ its ”;
-- (ba)[^key-aab9d2bb350abf0d89d8806e3f844f7c] omit “1b, 1c,”.
+- (ba)[^c-aab9d2bb350abf0d89d8806e3f844f7c] omit “1b, 1c,”.
 - (c) omit from “The adopted models” to the end of the paragraph;
 
 (3) In paragraph 4—
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f289688c64ab84d5104ebb9649ec5e07]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f289688c64ab84d5104ebb9649ec5e07]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1def37ab0ee240718fac30f0aee81ca7]: Textual amendment: Reg. 50(2)(a) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(7)(a)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/7/a)
+[^c-1def37ab0ee240718fac30f0aee81ca7]: Textual amendment: Reg. 50(2)(a) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(7)(a)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/7/a)
 
-[^key-aab9d2bb350abf0d89d8806e3f844f7c]: Textual amendment: Reg. 50(2)(ba) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/7/b)
+[^c-aab9d2bb350abf0d89d8806e3f844f7c]: Textual amendment: Reg. 50(2)(ba) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/7/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Signs etc.[^key-d03857e1044f9091d35095bccaf0f1df][^key-720370fad83818aded141fe9b46f4078]
+## 41. Signs etc.[^c-d03857e1044f9091d35095bccaf0f1df][^c-720370fad83818aded141fe9b46f4078]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ is guilty of an offence and liable, on summary conviction, to a fine not exceedi
 
 ## Annotations
 
-[^key-d03857e1044f9091d35095bccaf0f1df]: Commencement: S. 41 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-d03857e1044f9091d35095bccaf0f1df]: Commencement: S. 41 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-720370fad83818aded141fe9b46f4078]: Modification: S. 41 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-720370fad83818aded141fe9b46f4078]: Modification: S. 41 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

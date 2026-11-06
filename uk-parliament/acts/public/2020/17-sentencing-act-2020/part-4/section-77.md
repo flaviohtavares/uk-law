@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Basis of opinion provisions not to affect power to mitigate sentences[^key-97340faa45c7cbb44be674f5b539406e]
+## 77. Basis of opinion provisions not to affect power to mitigate sentences[^c-97340faa45c7cbb44be674f5b539406e]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ was so serious that a community sentence could not normally be justified for the
 
 ## Annotations
 
-[^key-97340faa45c7cbb44be674f5b539406e]: Commencement: S. 77 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-97340faa45c7cbb44be674f5b539406e]: Commencement: S. 77 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

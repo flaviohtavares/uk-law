@@ -66,13 +66,13 @@ Despite its omission by regulation 2, paragraph 22 of Schedule 3 to the Act cont
 
 (1) The Treasury must from time to time—
 
-- (a) carry out a review of the regulatory system established by the Act insofar as it implements [^key-d9c7d48d388b3c850282bc1b00b74175]... the principle of equal treatment between men and women in the access to and supply of goods and services [^c21466491] in respect of insurance services,
+- (a) carry out a review of the regulatory system established by the Act insofar as it implements [^c-d9c7d48d388b3c850282bc1b00b74175]... the principle of equal treatment between men and women in the access to and supply of goods and services [^c21466491] in respect of insurance services,
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-919d9eacf1500ac52f829b14e025df04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-919d9eacf1500ac52f829b14e025df04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-919d9eacf1500ac52f829b14e025df04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-919d9eacf1500ac52f829b14e025df04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
 
@@ -104,8 +104,8 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 [^c21466481]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-d9c7d48d388b3c850282bc1b00b74175]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2992/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/305/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9c7d48d388b3c850282bc1b00b74175]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2992/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/305/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21466491]: Marginal citation: OJ L 373. 21.12.2004, p.37.
 
-[^key-919d9eacf1500ac52f829b14e025df04]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2992/regulation/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2992/regulation/4/3) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/305/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-919d9eacf1500ac52f829b14e025df04]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2992/regulation/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2992/regulation/4/3) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/305/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

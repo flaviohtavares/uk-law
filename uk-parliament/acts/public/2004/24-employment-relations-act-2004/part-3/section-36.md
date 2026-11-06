@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. National security: powers of employment tribunals[^key-f171f3cd08905b21141ea1f85cefc02e]
+## 36. National security: powers of employment tribunals[^c-f171f3cd08905b21141ea1f85cefc02e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ For subsection (6) of section 10 of the Employment Tribunals Act 1996 (c. 17)(pr
 
 ## Annotations
 
-[^key-f171f3cd08905b21141ea1f85cefc02e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2004/24/section/36) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)
+[^c-f171f3cd08905b21141ea1f85cefc02e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2004/24/section/36) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)

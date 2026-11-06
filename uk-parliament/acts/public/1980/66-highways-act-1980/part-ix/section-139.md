@@ -28,25 +28,25 @@ summary: ''
 - (b) its dimensions;
 - (c) the manner in which it is to be coated with paint and other material for the purpose of making it immediately visible to oncoming traffic;
 - (d) the care and disposal of its contents;
-- (e)[^key-b19135dc54a7fee9e143733b2095bc91] the manner in which it is to be lighted or guarded;
+- (e)[^c-b19135dc54a7fee9e143733b2095bc91] the manner in which it is to be lighted or guarded;
 - (f) its removal at the end of the period of permission.
 
-(3) If a builder’s skip is deposited on a highway without a permission granted under this section, the owner of the skip is, subject to subsection (6) below, guilty of an offence and liable to a fine not exceeding *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a] level 3 on the standard scale[^M_F_5ff47297-831b-4cb6-d5ca-4dcc76f732a0] *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a].
+(3) If a builder’s skip is deposited on a highway without a permission granted under this section, the owner of the skip is, subject to subsection (6) below, guilty of an offence and liable to a fine not exceeding *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a] level 3 on the standard scale[^M_F_5ff47297-831b-4cb6-d5ca-4dcc76f732a0] *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a].
 
-(4) Where a builder’s skip has been deposited on a highway in accordance with a permission granted under this section, the owner of the skip shall secure— *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
+(4) Where a builder’s skip has been deposited on a highway in accordance with a permission granted under this section, the owner of the skip shall secure— *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
 
-- (a) that the skip is properly lighted during the hours of darkness *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a] and, where regulations made by the Secretary of State under this section require it to be marked in accordance with the regulations (whether with reflecting or fluorescent material or otherwise), that it is so marked[^M_F_bf7c2d81-3627-4e1b-e856-5113fab1c318] *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a];
-- (b) that the skip is clearly and indelibly marked with the owner’s name and with his telephone number or address; *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
-- (c) that the skip is removed as soon as practicable after it has been filled; *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
-- (d) that each of the conditions subject to which that permission was granted is complied with; *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
+- (a) that the skip is properly lighted during the hours of darkness *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a] and, where regulations made by the Secretary of State under this section require it to be marked in accordance with the regulations (whether with reflecting or fluorescent material or otherwise), that it is so marked[^M_F_bf7c2d81-3627-4e1b-e856-5113fab1c318] *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a];
+- (b) that the skip is clearly and indelibly marked with the owner’s name and with his telephone number or address; *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
+- (c) that the skip is removed as soon as practicable after it has been filled; *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
+- (d) that each of the conditions subject to which that permission was granted is complied with; *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
 
-and, if he fails to do so, he is, subject to subsection (6) below, guilty of an offence and liable to a fine not exceeding *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a] level 3 on the standard scale[^M_F_0938c06f-58e8-4b2d-d629-14b6ca794087] *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a].
+and, if he fails to do so, he is, subject to subsection (6) below, guilty of an offence and liable to a fine not exceeding *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a] level 3 on the standard scale[^M_F_0938c06f-58e8-4b2d-d629-14b6ca794087] *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a].
 
-(5) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person is guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person. *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
+(5) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person is guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person. *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
 
-(6) In any proceedings for an offence under this section it is a defence, subject to subsection (7) below, for the person charged to prove that the commission of the offence was due to the act or default of another person and that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by himself or any person under his control. *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
+(6) In any proceedings for an offence under this section it is a defence, subject to subsection (7) below, for the person charged to prove that the commission of the offence was due to the act or default of another person and that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by himself or any person under his control. *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
 
-(7) A person charged with an offence under this section is not, without leave of the court, entitled to rely on the defence provided by subsection (6) above unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession. *(affected by repeal, see note)*[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]
+(7) A person charged with an offence under this section is not, without leave of the court, entitled to rely on the defence provided by subsection (6) above unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession. *(affected by repeal, see note)*[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]
 
 (8) Where any person is charged with an offence under any other enactment for failing to secure that a builder’s skip which has been deposited on a highway in accordance with a permission granted under this section was properly lighted during the hours of darkness, it is a defence for the person charged to prove that the commission of the offence was due to the act or default of another person and that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by himself or any person under his control.
 
@@ -66,9 +66,9 @@ and, if he fails to do so, he is, subject to subsection (6) below, guilty of an 
 
 [^c13425831]: Modification: S. 139: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-b19135dc54a7fee9e143733b2095bc91]: Modification: S. 139(2)(e) modified (18.12.2013 ss. 1(3), 3) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 10](https://www.legislation.gov.uk/ukla/2013/5/section/10)
+[^c-b19135dc54a7fee9e143733b2095bc91]: Modification: S. 139(2)(e) modified (18.12.2013 ss. 1(3), 3) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 10](https://www.legislation.gov.uk/ukla/2013/5/section/10)
 
-[^key-49a27ebdefc3f23f916aa4c0d8b99d1a]: Textual amendment: S. 139(3)-(7) ceases to have effect in part (18.12.2013 ss. 1(3), 3) by virtue of [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 9(9)](https://www.legislation.gov.uk/ukla/2013/5/section/9/9)
+[^c-49a27ebdefc3f23f916aa4c0d8b99d1a]: Textual amendment: S. 139(3)-(7) ceases to have effect in part (18.12.2013 ss. 1(3), 3) by virtue of [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 9(9)](https://www.legislation.gov.uk/ukla/2013/5/section/9/9)
 
 [^M_F_5ff47297-831b-4cb6-d5ca-4dcc76f732a0]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 

@@ -35,7 +35,7 @@ summary: ''
   - (e) an enactment contained in, or in an instrument made under, Northern Ireland legislation,
   - (f) an enactment contained in any instrument made by a member of the Scottish Government, the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Government, a Northern Ireland Minister, the First Minister in Northern Ireland, the deputy First Minister in Northern Ireland or a Northern Ireland department in exercise of prerogative or other executive functions of Her Majesty which are exercisable by such a person on behalf of Her Majesty,
   - (g) an enactment contained in, or in an instrument made under, a Measure of the Church Assembly or of the General Synod of the Church of England, and
-  - (h) any assimilated direct[^key-570bce735671fbbc66b48bfcabdb98e6] legislation;
+  - (h) any assimilated direct[^c-570bce735671fbbc66b48bfcabdb98e6] legislation;
 - “**future relationship agreement**” means—
   - (a) the Trade and Cooperation Agreement,
   - (b) the Nuclear Cooperation Agreement,
@@ -68,7 +68,7 @@ summary: ''
 - “**retrospective provision**”, in relation to provision made by regulations, means provision taking effect from a date earlier than the date on which the regulations are made;
 - “**the Security of Classified Information Agreement**” means the Agreement between the European Union and the United Kingdom of Great Britain and Northern Ireland concerning security procedures for exchanging and protecting classified information (as that agreement is modified or supplemented from time to time in accordance with any provision of it or of any other future relationship agreement);
 - “**subordinate legislation**” means any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other instrument made under any primary legislation; and (except in Part 2 of Schedule 5) includes any Order in Council, order, rules, regulations, scheme, warrant, byelaw or other instrument made on or after IP completion day (or, in the case of any assimilated direct CAP legislation, on or after exit day) under any assimilated direct legislation;
-- “**supplementing agreement**” means an agreement which constitutes a supplementing agreement by virtue of Article 2[^key-e6f82e4c85d59eb717722f8cc4d8912e] of the Trade and Cooperation Agreement;
+- “**supplementing agreement**” means an agreement which constitutes a supplementing agreement by virtue of Article 2[^c-e6f82e4c85d59eb717722f8cc4d8912e] of the Trade and Cooperation Agreement;
 - “**the Trade and Cooperation Agreement**” means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (as that agreement is modified or supplemented from time to time in accordance with any provision of it or of any other future relationship agreement);
 - “**treaty**” has the same meaning as in Part 2 of the Constitutional Reform and Governance Act 2010 (see section 25 of that Act);
 - “**tribunal**” means any tribunal in which legal proceedings may be brought.
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-570bce735671fbbc66b48bfcabdb98e6]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/2020/29/section/37) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 97](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/97)
+[^c-570bce735671fbbc66b48bfcabdb98e6]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/2020/29/section/37) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 97](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/97)
 
-[^key-e6f82e4c85d59eb717722f8cc4d8912e]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/37/1) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-e6f82e4c85d59eb717722f8cc4d8912e]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/37/1) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))

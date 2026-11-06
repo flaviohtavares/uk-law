@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Pause orders[^c24481201][^key-0fbc0632fbc24edd60cbbdc0ae6122cb][^key-bde3c0ffb0e7ac03fb4200c6fe627fab]
+## 95. Pause orders[^c24481201][^c-0fbc0632fbc24edd60cbbdc0ae6122cb][^c-bde3c0ffb0e7ac03fb4200c6fe627fab]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) a direction that no new members (or no new members of a specified description) are to be admitted to the scheme;
 - (b) a direction that no further payments (or no further payments of a specified description) are to be made towards the scheme—
-  - (i) by or on behalf of employers or , where the scheme is a single or connected employer scheme,[^key-e4d7a97402a95394de36d6a9dd261d6f] relevant former employers (or employers or relevant former employers of a specified description), or
+  - (i) by or on behalf of employers or , where the scheme is a single or connected employer scheme,[^c-e4d7a97402a95394de36d6a9dd261d6f] relevant former employers (or employers or relevant former employers of a specified description), or
   - (ii) by or in respect of members (or members of a specified description);
 - (c) a direction that an amount (or specified amount) which—
   - (i) corresponds to a payment that would be due to be made towards the scheme in respect of a member but for a direction under paragraph (b), and
@@ -80,8 +80,8 @@ unless the amounts paid out from the scheme in respect of the transfers or trans
 
 [^c24481201]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2021/1/section/95) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0fbc0632fbc24edd60cbbdc0ae6122cb]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2021/1/section/95) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-0fbc0632fbc24edd60cbbdc0ae6122cb]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2021/1/section/95) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-bde3c0ffb0e7ac03fb4200c6fe627fab]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/2021/1/section/95) modified (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [56](https://www.legislation.gov.uk/nisr/2026/151/regulation/56)
+[^c-bde3c0ffb0e7ac03fb4200c6fe627fab]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/2021/1/section/95) modified (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [56](https://www.legislation.gov.uk/nisr/2026/151/regulation/56)
 
-[^key-e4d7a97402a95394de36d6a9dd261d6f]: Textual amendment: Words in [s. 95(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/1/section/95/5/b/i) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(4)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/4)
+[^c-e4d7a97402a95394de36d6a9dd261d6f]: Textual amendment: Words in [s. 95(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/1/section/95/5/b/i) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(4)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/4)

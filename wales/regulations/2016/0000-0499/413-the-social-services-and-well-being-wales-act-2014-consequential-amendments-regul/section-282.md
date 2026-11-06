@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**282.**[^key-44f61487b40122c2fae41315ecda593e] In section 9(3)(d) (conduct of primary mental health assessments) for “Part III of the Children Act 1989” substitute “sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014”.
+**282.**[^c-44f61487b40122c2fae41315ecda593e] In section 9(3)(d) (conduct of primary mental health assessments) for “Part III of the Children Act 1989” substitute “sections 37 to 39 and Part 6 of the Social Services and Well-being (Wales) Act 2014”.
 
 ## Annotations
 
-[^key-44f61487b40122c2fae41315ecda593e]: Commencement: Reg. 282 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-44f61487b40122c2fae41315ecda593e]: Commencement: Reg. 282 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**34.**[^key-8dfad4ea36e743bf81b60d3ed0f7adb8] In regulation 3—
+**34.**[^c-8dfad4ea36e743bf81b60d3ed0f7adb8] In regulation 3—
 
 - (a) for paragraph (1)(b) substitute—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dfad4ea36e743bf81b60d3ed0f7adb8]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2024/924/regulation/34) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8dfad4ea36e743bf81b60d3ed0f7adb8]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2024/924/regulation/34) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

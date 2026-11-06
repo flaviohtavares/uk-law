@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. No-smoking signs[^c16418391][^key-a018721394b970ab76476ab1b31b9da2][^key-32af3e290a4c9a179f704f534a087368]
+## 6. No-smoking signs[^c16418391][^c-a018721394b970ab76476ab1b31b9da2][^c-32af3e290a4c9a179f704f534a087368]
 
 *Extent: E+W*
 
 (1) It is the duty of any person who occupies or is concerned in the management of smoke-free premises to make sure that no-smoking signs complying with the requirements of this section are displayed in those premises in accordance with the requirements of this section.
 
-(2) Regulations made by the Secretary of State[^key-0ec6eb4a48b2ccda2a4900d6d92f862b] may provide for a duty corresponding to that mentioned in subsection (1) in relation to—
+(2) Regulations made by the Secretary of State[^c-0ec6eb4a48b2ccda2a4900d6d92f862b] may provide for a duty corresponding to that mentioned in subsection (1) in relation to—
 
 - (a) places which are smoke-free by virtue of section 4,
 - (b) vehicles which are smoke-free by virtue of section 5.
 
 The duty is to be imposed on persons, or on persons of a description, specified in the regulations.
 
-(3) The signs must be displayed in accordance with any requirements contained in regulations made by the Secretary of State[^key-a18e54b93041a78754fd74b8faaf7ad0].
+(3) The signs must be displayed in accordance with any requirements contained in regulations made by the Secretary of State[^c-a18e54b93041a78754fd74b8faaf7ad0].
 
-(4) The signs must conform to any requirements specified in regulations made by the Secretary of State[^key-b74df5d6817c327563191110603db5cf] (for example, requirements as to content, size, design, colour, or wording).
+(4) The signs must conform to any requirements specified in regulations made by the Secretary of State[^c-b74df5d6817c327563191110603db5cf] (for example, requirements as to content, size, design, colour, or wording).
 
 (5) A person who fails to comply with the duty in subsection (1), or any corresponding duty in regulations under subsection (2), commits an offence.
 
@@ -51,12 +51,12 @@ The duty is to be imposed on persons, or on persons of a description, specified 
 
 [^c16418391]: Commencement: S. 6 in force for certain purposes at Royal Assent, see s. 83
 
-[^key-a018721394b970ab76476ab1b31b9da2]: Commencement: S. 6 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
+[^c-a018721394b970ab76476ab1b31b9da2]: Commencement: S. 6 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
 
-[^key-32af3e290a4c9a179f704f534a087368]: Commencement: S. 6 in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
+[^c-32af3e290a4c9a179f704f534a087368]: Commencement: S. 6 in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
 
-[^key-0ec6eb4a48b2ccda2a4900d6d92f862b]: Textual amendment: Words in s. 6(2) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/8); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-0ec6eb4a48b2ccda2a4900d6d92f862b]: Textual amendment: Words in s. 6(2) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/8); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
 
-[^key-a18e54b93041a78754fd74b8faaf7ad0]: Textual amendment: Words in s. 6(3) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/8); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-a18e54b93041a78754fd74b8faaf7ad0]: Textual amendment: Words in s. 6(3) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/8); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
 
-[^key-b74df5d6817c327563191110603db5cf]: Textual amendment: Words in s. 6(4) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/8); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-b74df5d6817c327563191110603db5cf]: Textual amendment: Words in s. 6(4) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/8); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-c14a7affc8c54cf2c274c72fea1db279]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-c14a7affc8c54cf2c274c72fea1db279]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 2
 
 ### In the administrative areas of Hampshire County Council and Winchester City Council and South Downs National Park Authority
 
-[^key-c14a7affc8c54cf2c274c72fea1db279]
+[^c-c14a7affc8c54cf2c274c72fea1db279]
 
 The authorised development is a nationally significant infrastructure project as defined in sections 14 and 22 of the 2008 Act[^f00085] and associated development within the meaning of section 115(2)[^f00086] of the 2008 Act, comprising—
 
@@ -221,7 +221,7 @@ In connection with the construction of any of those works, further development w
 
 ## Annotations
 
-[^key-c14a7affc8c54cf2c274c72fea1db279]: Commencement: Sch. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-c14a7affc8c54cf2c274c72fea1db279]: Commencement: Sch. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00085]: Footnote: There are amendments to section 14 but none is relevant to this Order. Section 22 was substituted by [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883) and amended by section 1(6) of, and paragraph 153 of Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 

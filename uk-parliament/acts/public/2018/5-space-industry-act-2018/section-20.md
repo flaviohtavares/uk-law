@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Investigation of accidents[^key-a22c42fc5c0acf090ad99dca6686d57e]
+## 20. Investigation of accidents[^c-a22c42fc5c0acf090ad99dca6686d57e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ This subsection does not limit subsection (1).
 
 ## Annotations
 
-[^key-a22c42fc5c0acf090ad99dca6686d57e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2018/5/section/20) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ff)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ff)
+[^c-a22c42fc5c0acf090ad99dca6686d57e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2018/5/section/20) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ff)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ff)

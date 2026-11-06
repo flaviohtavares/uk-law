@@ -45,30 +45,30 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred on them by sections 3(3), 6(6), 16(4), 37A(1) and (2) and 48(6) of the Value Added Tax Act 1983[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation and Commencement[^key-4844542d3b571b244716d2975e0b2097]
+## 1. Citation and Commencement[^c-4844542d3b571b244716d2975e0b2097]
 
 This Order may be cited as the Value Added Tax (Tour Operators) Order 1987 and shall come into force on 1st April 1988.
 
-## 2. Supplies to which this Order applies[^key-7518ec492e139f949d24b08e2c64b999]
+## 2. Supplies to which this Order applies[^c-7518ec492e139f949d24b08e2c64b999]
 
 This Order shall apply to any supply of goods or services by a tour operator where the supply is for the benefit of travellers.
 
-## 3. Meaning of “designated travel service”[^key-6b587ae7e1cc83d2b1de6779de20a25b]
+## 3. Meaning of “designated travel service”[^c-6b587ae7e1cc83d2b1de6779de20a25b]
 
-(1) Subject to paragraphs (2) [^key-81ded5eb2cb4ffcf5c5aa95fd34148ce]... and (4) of this article, a “designated travel service” is a supply of goods or services—
+(1) Subject to paragraphs (2) [^c-81ded5eb2cb4ffcf5c5aa95fd34148ce]... and (4) of this article, a “designated travel service” is a supply of goods or services—
 
 - (a) acquired for the purposes of his business; and
 - (b) supplied for the benefit of a traveller without material alteration or further processing;
 
-by a tour operator who has a business establishment, or some other fixed establishment, in the United Kingdom[^key-b2c7b966d7dd2f17b8c001f76126ca3e].
+by a tour operator who has a business establishment, or some other fixed establishment, in the United Kingdom[^c-b2c7b966d7dd2f17b8c001f76126ca3e].
 
 (2) The supply of one or more designated travel services, as part of a single transaction, shall be treated as a single supply of services.
 
-(3)[^key-334439211a381d8194e8df213b560558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-334439211a381d8194e8df213b560558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The supply of goods and services of such description as the Commissioners of Customs and Excise may specify shall be deemed not to be a designated travel service.
 
-## 4. Time of supply[^key-26f75ccb4c76ca8ebd8a5df0f7823beb]
+## 4. Time of supply[^c-26f75ccb4c76ca8ebd8a5df0f7823beb]
 
 (1) Sections 4 and 5 of the Value Added Tax Act 1983 shall not apply to any supply comprising in whole or in part a designated travel service.
 
@@ -86,19 +86,19 @@ by a tour operator who has a business establishment, or some other fixed establi
 
 notwithstanding paragraph (3), the time of any part of that supply, which has not already been determined under paragraph (2)(b), shall be determined in accordance with paragraph (2)(a).
 
-## 5. Place of supply[^key-71f3de4c0236e73b89a887f28e8916d5]
+## 5. Place of supply[^c-71f3de4c0236e73b89a887f28e8916d5]
 
 A designated travel service shall be treated for the purposes of the Value Added Tax Act 1994 as supplied in the United Kingdom regardless of the place where it is to be enjoyed.
 
-## 6.[^key-5d8d8d5bf07a2ec87eee88e4be0a2669]
+## 6.[^c-5d8d8d5bf07a2ec87eee88e4be0a2669]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Value of a designated travel service[^key-dd0b972a59aa9dcee8d61349aa57a66b]
+## 7. Value of a designated travel service[^c-dd0b972a59aa9dcee8d61349aa57a66b]
 
-Subject to articles 8, 9 and 9A[^key-587a92a431f27e3218965a73e758e556] of this Order, the value of a designated travel service shall be determined by reference to the difference between sums paid or payable to and sums paid or payable by the tour operator in respect of that service, calculated in such manner as the Commissioners of Customs and Excise shall specify.
+Subject to articles 8, 9 and 9A[^c-587a92a431f27e3218965a73e758e556] of this Order, the value of a designated travel service shall be determined by reference to the difference between sums paid or payable to and sums paid or payable by the tour operator in respect of that service, calculated in such manner as the Commissioners of Customs and Excise shall specify.
 
-## 8.[^key-92472b95192b229f86baabee138d96d6]
+## 8.[^c-92472b95192b229f86baabee138d96d6]
 
 (1) Where—
 
@@ -119,7 +119,7 @@ shall be deemed to be its open market value for the purpose of calculating the v
 
 (4) For the purposes of this article any question whether a person is connected with another shall be determined in accordance with section 533 of the Income and Corporation Taxes Act 1970[^f00003].
 
-## 9.[^key-75be9c64464cb7ce7910550647b25a82]
+## 9.[^c-75be9c64464cb7ce7910550647b25a82]
 
 (1) Where—
 
@@ -131,7 +131,7 @@ article 7 of this Order shall not apply in determining the value of that part of
 
 (2) The value of that part of the designated travel service to which, by virtue of paragraph (1) of this article, article 7 of this Order does not apply shall be calculated in accordance with section 10 of the Value Added Tax Act 1983.
 
-**9A.**[^key-80b6c0573e581f66667cd00a58a82565] (1) Where—
+**9A.**[^c-80b6c0573e581f66667cd00a58a82565] (1) Where—
 
 - (a) goods or services have been supplied to a tour operator by a taxable person before 1st January 2010,
 - (b) the tour operator claims input tax in respect of those goods or services, and
@@ -141,19 +141,19 @@ article 7 of this Order shall not apply in determining the value of that part of
 
 (2) The value of that part of a designated travel service to which, by virtue of paragraph (1), article 7 of this Order does not apply, shall be calculated in accordance with section 19 of the Value Added Tax Act 1994.
 
-## 10. Tax chargeable on certain designated travel services[^key-0f169912b71718c46a1886bbac250fb9][^key-b532a7ccfb4f26aa8c17c59a454582f6]
+## 10. Tax chargeable on certain designated travel services[^c-0f169912b71718c46a1886bbac250fb9][^c-b532a7ccfb4f26aa8c17c59a454582f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of zero-rating provisions[^key-ba63c0e4067ec622c0e2a0fe0565c9db]
+## 11. Amendment of zero-rating provisions[^c-ba63c0e4067ec622c0e2a0fe0565c9db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Disallowance of input tax[^key-48a5aaabde04e5b9dde82db623d4d2af]
+## 12. Disallowance of input tax[^c-48a5aaabde04e5b9dde82db623d4d2af]
 
-Subject to article 9A of this Order,[^key-69aad2e040e2a3a805deae34751e9b97] input tax on goods or services acquired by a tour operator for re-supply as a designated travel service shall be excluded from credit under sections 14 and 15 of the Value Added Tax Act 1983.
+Subject to article 9A of this Order,[^c-69aad2e040e2a3a805deae34751e9b97] input tax on goods or services acquired by a tour operator for re-supply as a designated travel service shall be excluded from credit under sections 14 and 15 of the Value Added Tax Act 1983.
 
-## 13. Disqualification from membership of group of companies[^key-a67cc076f5d1f05d62d371d0481a0e66]
+## 13. Disqualification from membership of group of companies[^c-a67cc076f5d1f05d62d371d0481a0e66]
 
 A tour operator shall not be eligible to be treated as a member of a group for the purposes of section 29 of the Value Added Tax Act 1983 if any other member of the proposed or existing group—
 
@@ -161,7 +161,7 @@ A tour operator shall not be eligible to be treated as a member of a group for t
 - (b) makes supplies outside the United Kingdom which would be taxable supplies if made within the United Kingdom; and
 - (c) supplies goods or services which will become, or are intended to become, a designated travel service.
 
-## 14. Option not to treat supply as designated travel service[^key-0474ef7d29862362aad917c1825a4540]
+## 14. Option not to treat supply as designated travel service[^c-0474ef7d29862362aad917c1825a4540]
 
 (1) Where a tour operator supplies a designated travel service he may treat that supply as not being a designated travel service if:
 
@@ -203,46 +203,46 @@ Article 6 amends the Value Added Tax (Place of Supply) Order 1984 to exclude the
 
 [^f00001]: Footnote: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55); section 37A was inserted by section 16 of the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16).
 
-[^key-4844542d3b571b244716d2975e0b2097]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-4844542d3b571b244716d2975e0b2097]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-7518ec492e139f949d24b08e2c64b999]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1987/1806/article/2) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-7518ec492e139f949d24b08e2c64b999]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1987/1806/article/2) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-6b587ae7e1cc83d2b1de6779de20a25b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1987/1806/article/3) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-6b587ae7e1cc83d2b1de6779de20a25b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1987/1806/article/3) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-81ded5eb2cb4ffcf5c5aa95fd34148ce]: Textual amendment: Words in art. 3(1) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/3166/article/3/a)
+[^c-81ded5eb2cb4ffcf5c5aa95fd34148ce]: Textual amendment: Words in art. 3(1) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/3166/article/3/a)
 
-[^key-b2c7b966d7dd2f17b8c001f76126ca3e]: Textual amendment: Words in art. 3(1) substituted (31.12.2020) by [The Value Added Tax (Tour Operators) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/73)](https://www.legislation.gov.uk/uksi/2019/73), [regs. 1](https://www.legislation.gov.uk/uksi/2019/73/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/73/regulation/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b2c7b966d7dd2f17b8c001f76126ca3e]: Textual amendment: Words in art. 3(1) substituted (31.12.2020) by [The Value Added Tax (Tour Operators) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/73)](https://www.legislation.gov.uk/uksi/2019/73), [regs. 1](https://www.legislation.gov.uk/uksi/2019/73/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/73/regulation/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-334439211a381d8194e8df213b560558]: Textual amendment: Art. 3(3) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/3166/article/3/b)
+[^c-334439211a381d8194e8df213b560558]: Textual amendment: Art. 3(3) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/3166/article/3/b)
 
-[^key-26f75ccb4c76ca8ebd8a5df0f7823beb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1987/1806/article/4) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-26f75ccb4c76ca8ebd8a5df0f7823beb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1987/1806/article/4) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-71f3de4c0236e73b89a887f28e8916d5]: Textual amendment: Art. 5 substituted (31.12.2020) by [The Value Added Tax (Tour Operators) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/73)](https://www.legislation.gov.uk/uksi/2019/73), [regs. 1](https://www.legislation.gov.uk/uksi/2019/73/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/73/regulation/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-71f3de4c0236e73b89a887f28e8916d5]: Textual amendment: Art. 5 substituted (31.12.2020) by [The Value Added Tax (Tour Operators) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/73)](https://www.legislation.gov.uk/uksi/2019/73), [regs. 1](https://www.legislation.gov.uk/uksi/2019/73/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/73/regulation/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-5d8d8d5bf07a2ec87eee88e4be0a2669]: Textual amendment: Art. 6 revoked (1.1.1993) by [The Value Added Tax (Tour Operators) (Amendment) Order 1992 (S.I. 1992/3125)](https://www.legislation.gov.uk/uksi/1992/3125), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3125/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/3125/article/2/b)
+[^c-5d8d8d5bf07a2ec87eee88e4be0a2669]: Textual amendment: Art. 6 revoked (1.1.1993) by [The Value Added Tax (Tour Operators) (Amendment) Order 1992 (S.I. 1992/3125)](https://www.legislation.gov.uk/uksi/1992/3125), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3125/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/3125/article/2/b)
 
-[^key-dd0b972a59aa9dcee8d61349aa57a66b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1987/1806/article/7) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-dd0b972a59aa9dcee8d61349aa57a66b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1987/1806/article/7) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-587a92a431f27e3218965a73e758e556]: Textual amendment: Words in art. 7 substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [4](https://www.legislation.gov.uk/uksi/2009/3166/article/4)
+[^c-587a92a431f27e3218965a73e758e556]: Textual amendment: Words in art. 7 substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [4](https://www.legislation.gov.uk/uksi/2009/3166/article/4)
 
-[^key-92472b95192b229f86baabee138d96d6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1987/1806/article/8) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-92472b95192b229f86baabee138d96d6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1987/1806/article/8) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
 [^f00003]: Footnote: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10).
 
-[^key-75be9c64464cb7ce7910550647b25a82]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1987/1806/article/9) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-75be9c64464cb7ce7910550647b25a82]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1987/1806/article/9) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-80b6c0573e581f66667cd00a58a82565]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/1987/1806/article/9A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [5](https://www.legislation.gov.uk/uksi/2009/3166/article/5)
+[^c-80b6c0573e581f66667cd00a58a82565]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/1987/1806/article/9A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [5](https://www.legislation.gov.uk/uksi/2009/3166/article/5)
 
-[^key-0f169912b71718c46a1886bbac250fb9]: Textual amendment: Art. 10 revoked (1.1.1996) by [The Value Added Tax (Tour Operators) (Amendment) Order 1995 (S.I. 1995/1495)](https://www.legislation.gov.uk/uksi/1995/1495), [arts. 1](https://www.legislation.gov.uk/uksi/1995/1495/article/1), [2](https://www.legislation.gov.uk/uksi/1995/1495/article/2)
+[^c-0f169912b71718c46a1886bbac250fb9]: Textual amendment: Art. 10 revoked (1.1.1996) by [The Value Added Tax (Tour Operators) (Amendment) Order 1995 (S.I. 1995/1495)](https://www.legislation.gov.uk/uksi/1995/1495), [arts. 1](https://www.legislation.gov.uk/uksi/1995/1495/article/1), [2](https://www.legislation.gov.uk/uksi/1995/1495/article/2)
 
-[^key-b532a7ccfb4f26aa8c17c59a454582f6]: Textual amendment: Art. 10 heading substituted (1.5.1990) by [The Value Added Tax (Tour Operators) (Amendment) Order 1990 (S.I. 1990/751)](https://www.legislation.gov.uk/uksi/1990/751), [arts. 1](https://www.legislation.gov.uk/uksi/1990/751/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1990/751/article/4/a)
+[^c-b532a7ccfb4f26aa8c17c59a454582f6]: Textual amendment: Art. 10 heading substituted (1.5.1990) by [The Value Added Tax (Tour Operators) (Amendment) Order 1990 (S.I. 1990/751)](https://www.legislation.gov.uk/uksi/1990/751), [arts. 1](https://www.legislation.gov.uk/uksi/1990/751/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1990/751/article/4/a)
 
-[^key-ba63c0e4067ec622c0e2a0fe0565c9db]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/1987/1806/article/11) revoked (1.9.1994) by [Value Added Tax Act 1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15) (with [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/1994/23/schedule/13/paragraph/19))
+[^c-ba63c0e4067ec622c0e2a0fe0565c9db]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/1987/1806/article/11) revoked (1.9.1994) by [Value Added Tax Act 1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15) (with [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/1994/23/schedule/13/paragraph/19))
 
-[^key-48a5aaabde04e5b9dde82db623d4d2af]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/1987/1806/article/12) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-48a5aaabde04e5b9dde82db623d4d2af]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/1987/1806/article/12) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-69aad2e040e2a3a805deae34751e9b97]: Textual amendment: Words in art. 12 inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/3166/article/6)
+[^c-69aad2e040e2a3a805deae34751e9b97]: Textual amendment: Words in art. 12 inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Tour Operators) (Amendment) Order 2009 (S.I. 2009/3166)](https://www.legislation.gov.uk/uksi/2009/3166), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3166/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/3166/article/6)
 
-[^key-a67cc076f5d1f05d62d371d0481a0e66]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1987/1806/article/13) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-a67cc076f5d1f05d62d371d0481a0e66]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1987/1806/article/13) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
 
-[^key-0474ef7d29862362aad917c1825a4540]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1987/1806/article/14) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)
+[^c-0474ef7d29862362aad917c1825a4540]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1987/1806/article/14) in force at 1.4.1988, see [art. 1](https://www.legislation.gov.uk/uksi/1987/1806/article/1)

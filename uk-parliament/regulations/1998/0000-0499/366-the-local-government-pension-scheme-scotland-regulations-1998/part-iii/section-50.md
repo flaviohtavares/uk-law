@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Scope of Part III: limits on benefits[^key-eca21a4f706b7f5a150aa37a1ed6e20a]
+## 50. Scope of Part III: limits on benefits[^c-eca21a4f706b7f5a150aa37a1ed6e20a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ exceed the amounts specified in Schedule 4.
 
 ## Annotations
 
-[^key-eca21a4f706b7f5a150aa37a1ed6e20a]: Commencement: Reg. 50 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-eca21a4f706b7f5a150aa37a1ed6e20a]: Commencement: Reg. 50 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

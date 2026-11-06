@@ -24,14 +24,14 @@ Section 40
 
 ### Introductory
 
-**1.**[^key-82810ca24d0e2591b275af53e8398c3b] In this Schedule—
+**1.**[^c-82810ca24d0e2591b275af53e8398c3b] In this Schedule—
 
 - (a) “**the Regulator**” means the Payment Systems Regulator;
 - (b) references to the functions of the Regulator are to functions conferred on it by or under this Part.
 
 ### Constitution
 
-**2.**[^key-3f133c0f4f21beffafb6f71ea79940a1] (1) The constitution of the Regulator must provide for it to have a board whose members are the directors of the Regulator.
+**2.**[^c-3f133c0f4f21beffafb6f71ea79940a1] (1) The constitution of the Regulator must provide for it to have a board whose members are the directors of the Regulator.
 
 (2) The board is to consist of the following members—
 
@@ -49,13 +49,13 @@ Section 40
 
 ### Status
 
-**3.**[^key-4e7a5b5d340b16e3d42747fb29350af8] (1) The Regulator is not to be regarded as exercising functions on behalf of the Crown.
+**3.**[^c-4e7a5b5d340b16e3d42747fb29350af8] (1) The Regulator is not to be regarded as exercising functions on behalf of the Crown.
 
 (2) The officers and staff of the Regulator are not to be regarded as Crown servants.
 
 ### Budget
 
-**4.**[^key-9c8b0b44a4c05a9fddbd18e88e68daea] (1) The Regulator must adopt an annual budget which has been approved by the FCA.
+**4.**[^c-9c8b0b44a4c05a9fddbd18e88e68daea] (1) The Regulator must adopt an annual budget which has been approved by the FCA.
 
 (2) The budget must be adopted—
 
@@ -73,7 +73,7 @@ Section 40
 
 ### Arrangements for discharging functions
 
-**5.**[^key-3677ed87b8e2b2e6447cfa20d0b08a83][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-e2d4cc093bdb0c7f1b707aba93a94c9b] (1) The Regulator may make arrangements for any of its functions to be discharged by—
+**5.**[^c-3677ed87b8e2b2e6447cfa20d0b08a83][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-e2d4cc093bdb0c7f1b707aba93a94c9b] (1) The Regulator may make arrangements for any of its functions to be discharged by—
 
 - (a) a committee, sub-committee, officer or member of staff of the Regulator;
 - (b) an officer or member of staff of the FCA.
@@ -86,14 +86,14 @@ This is subject to sub-paragraphs (2) to (4).
 
 - (a) giving general directions under section 54;
 - (b) imposing generally-imposed requirements under section 55.
-- (c)[^key-b7a3182a9a00b243c6eef3b3b3d589f6] making technical standards in accordance with section 97A; and
+- (c)[^c-b7a3182a9a00b243c6eef3b3b3d589f6] making technical standards in accordance with section 97A; and
 - (d) making EU Exit instruments under the Financial Regulators’ Powers (Technical Standards) (Amendment etc.) (EU Exit) Regulations 2018.
 
 (4) The function of issuing general guidance may not be discharged by an officer or member of staff of the Regulator or of the FCA.
 
 ### Annual plan
 
-**6.**[^key-8066983c4bbb6583ab45189f917cbe6b] (1) The Regulator must in respect of each of its financial years prepare an annual plan which has been approved by the FCA.
+**6.**[^c-8066983c4bbb6583ab45189f917cbe6b] (1) The Regulator must in respect of each of its financial years prepare an annual plan which has been approved by the FCA.
 
 (2) The plan must be prepared—
 
@@ -120,13 +120,13 @@ This is subject to sub-paragraphs (2) to (4).
 
 ### Annual report
 
-**7.**[^key-16acb29f7bb0123637f53ddf2cd95eb1][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-b5d028013d3d2cccc05cf5de8b72ae31] (1) At least once a year, the Regulator must make a report to the FCA in relation to the discharge of its functions.
+**7.**[^c-16acb29f7bb0123637f53ddf2cd95eb1][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-b5d028013d3d2cccc05cf5de8b72ae31] (1) At least once a year, the Regulator must make a report to the FCA in relation to the discharge of its functions.
 
 (2) The report must—
 
 - (a) set out the extent to which the Regulator has met its aims and priorities for the period covered by the report,
 - (b) set out the extent to which the Regulator has advanced its payment systems objectives,
-- (ba)[^key-d8ba6dc64d472e2f5694c994eaa1726b] set out any engagement with a statutory panel established under section 103(3),
+- (ba)[^c-d8ba6dc64d472e2f5694c994eaa1726b] set out any engagement with a statutory panel established under section 103(3),
 - (bb) set out how the Regulator has complied with the statement of policy on panel appointments prepared under section 104I in relation to the process for making appointments and the matters considered in determining who is appointed,
 - (c) include a copy of its latest accounts, and
 - (d) comply with any requirement specified in rules made by the FCA.
@@ -146,7 +146,7 @@ This is subject to sub-paragraphs (2) to (4).
 
 (8) The FCA's power to make rules under sub-paragraph (2)(d) is to be treated as if it were a power of the FCA to make rules under FSMA 2000 (and rules made under sub-paragraph (2)(d) are to be treated accordingly).
 
-### Other reports[^key-db76788f35b2dee95bce97d608ad08e8]
+### Other reports[^c-db76788f35b2dee95bce97d608ad08e8]
 
 **7A.** (1) The Treasury may (subject to this paragraph) at any time by direction require the Regulator to publish a report containing information about such matters as are specified in the direction.
 
@@ -177,7 +177,7 @@ This is subject to sub-paragraphs (2) to (4).
 
 ### Audit of accounts
 
-**8.**[^key-d1510c8658c56b21aedddb20fddccadc] (1) The Regulator must send a copy of its annual accounts to the Comptroller and Auditor General and the Treasury as soon as is reasonably practicable.
+**8.**[^c-d1510c8658c56b21aedddb20fddccadc] (1) The Regulator must send a copy of its annual accounts to the Comptroller and Auditor General and the Treasury as soon as is reasonably practicable.
 
 (2) The Comptroller and Auditor General must—
 
@@ -192,9 +192,9 @@ This is subject to sub-paragraphs (2) to (4).
 
 (6) In this paragraph “**annual accounts**” has the meaning given by section 471 of the Companies Act 2006.
 
-### Funding (participants in regulated payment systems)[^key-eafdb0dcff0387e7f999fe6dba789f07]
+### Funding (participants in regulated payment systems)[^c-eafdb0dcff0387e7f999fe6dba789f07]
 
-**9.**[^key-cbc3246203b34ab51812c93fdb61d767][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-eba73fb0041a7b9e03abd179fdd68faa] (1) For the purposes mentioned in sub-paragraph (2) the FCA may make rules requiring participants in regulated payment systems to pay to the FCA specified amounts or amounts calculated in a specified way.
+**9.**[^c-cbc3246203b34ab51812c93fdb61d767][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-eba73fb0041a7b9e03abd179fdd68faa] (1) For the purposes mentioned in sub-paragraph (2) the FCA may make rules requiring participants in regulated payment systems to pay to the FCA specified amounts or amounts calculated in a specified way.
 
 (2) The purposes are—
 
@@ -225,7 +225,7 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 
 (9) But the requirements to carry out a cost benefit analysis under section 138I of FSMA 2000 do not apply in relation to rules made under this paragraph.
 
-### Funding (regulated persons)[^key-478faf7e4cd2756f6e2e7c88af07f23e]
+### Funding (regulated persons)[^c-478faf7e4cd2756f6e2e7c88af07f23e]
 
 **9A.** (1) For the purposes mentioned in sub-paragraph (2), the Regulator may make rules requiring regulated persons within the meaning of regulation 2(1) of the Payment Card Interchange Fee Regulations 2015 to pay to the Regulator specified amounts or amounts calculated in a specified way.
 
@@ -249,7 +249,7 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 
 ### Penalty receipts
 
-**10.**[^key-fb397e23d3701d000c734f3f87410ba4][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-eba73fb0041a7b9e03abd179fdd68faa] (1) The Regulator must in respect of each of its financial years pay to the Treasury its penalty receipts after deducting its enforcement costs.
+**10.**[^c-fb397e23d3701d000c734f3f87410ba4][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-eba73fb0041a7b9e03abd179fdd68faa] (1) The Regulator must in respect of each of its financial years pay to the Treasury its penalty receipts after deducting its enforcement costs.
 
 (2) The Regulator's “penalty receipts” in respect of a financial year are any amounts received by it during the year by way of penalties imposed under section 73.
 
@@ -285,7 +285,7 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 
 (9) The Treasury must pay into the Consolidated Fund any sums received by them under this paragraph.
 
-**11.**[^key-e2b8d752d97851eaff6870bae97e9cb6][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-eba73fb0041a7b9e03abd179fdd68faa] (1) The Regulator must prepare and operate a scheme (“**the financial penalty scheme**”) for ensuring that the amounts that, as a result of the deduction for which paragraph 10(1) provides, are retained by the Regulator in respect of amounts paid to it by way of penalties imposed under section 73 are applied for the benefit of participants in regulated payment systems.
+**11.**[^c-e2b8d752d97851eaff6870bae97e9cb6][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-eba73fb0041a7b9e03abd179fdd68faa] (1) The Regulator must prepare and operate a scheme (“**the financial penalty scheme**”) for ensuring that the amounts that, as a result of the deduction for which paragraph 10(1) provides, are retained by the Regulator in respect of amounts paid to it by way of penalties imposed under section 73 are applied for the benefit of participants in regulated payment systems.
 
 (2) The financial penalty scheme may, in particular, make different provision with respect to different classes of participant.
 
@@ -293,7 +293,7 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 
 (4) Up-to-date details of the financial penalty scheme must be set out in a document (the “scheme details”).
 
-**12.**[^key-3f569da3ab1efff815bf11590d476be0][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-eba73fb0041a7b9e03abd179fdd68faa] (1) The scheme details must be published by the Regulator in the way appearing to it to be best calculated to bring them to the attention of the public.
+**12.**[^c-3f569da3ab1efff815bf11590d476be0][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-eba73fb0041a7b9e03abd179fdd68faa] (1) The scheme details must be published by the Regulator in the way appearing to it to be best calculated to bring them to the attention of the public.
 
 (2) Before making the financial penalty scheme, the Regulator must publish a draft of the proposed scheme in the way appearing to the Regulator to be best calculated to bring it to the attention of the public.
 
@@ -319,14 +319,14 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 
 ### Records
 
-**13.**[^key-e6ed40ecf15b53ad4c02396800766233][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-eba73fb0041a7b9e03abd179fdd68faa] The Regulator must maintain satisfactory arrangements for—
+**13.**[^c-e6ed40ecf15b53ad4c02396800766233][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-eba73fb0041a7b9e03abd179fdd68faa] The Regulator must maintain satisfactory arrangements for—
 
 - (a) recording decisions made in the exercise of its functions, and
 - (b) the safe-keeping of those records which it considers ought to be preserved.
 
 ### Exemption from liability in damages
 
-**14.**[^key-419ba7b79730fcb060a2237fd0e44c79][^key-1bd2f46ce045ed6b8c6c28e70aaddde9][^key-eba73fb0041a7b9e03abd179fdd68faa] (1) None of the following is to be liable in damages for anything done or omitted in the discharge, or purported discharge, of the Regulator's functions—
+**14.**[^c-419ba7b79730fcb060a2237fd0e44c79][^c-1bd2f46ce045ed6b8c6c28e70aaddde9][^c-eba73fb0041a7b9e03abd179fdd68faa] (1) None of the following is to be liable in damages for anything done or omitted in the discharge, or purported discharge, of the Regulator's functions—
 
 - (a) the Regulator;
 - (b) any person (“P”) who is, or is acting as, an officer or member of staff of the Regulator;
@@ -341,7 +341,7 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 - (a) if the act or omission is shown to have been in bad faith, or
 - (b) so as to prevent an award of damages made in respect of an act or omission on the ground that the act or omission was unlawful as a result of section 6(1) of the Human Rights Act 1998.
 
-### Engagement with Parliamentary Committees[^key-7fc4390698beedd582fc19467cf810d8]
+### Engagement with Parliamentary Committees[^c-7fc4390698beedd582fc19467cf810d8]
 
 **14A.** (1) This paragraph applies where the Regulator issues a relevant consultation.
 
@@ -393,62 +393,62 @@ For the purposes of paragraph (b) it does not matter when the expenses were incu
 
 ### Freedom of information
 
-**15.**[^key-68288b2d90a47b2d0fdacd6aca1ab80b] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which Act applies), at the appropriate place insert— “ The Payment Systems Regulator established under section 40 of the Financial Services (Banking Reform) Act 2013. ”
+**15.**[^c-68288b2d90a47b2d0fdacd6aca1ab80b] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which Act applies), at the appropriate place insert— “ The Payment Systems Regulator established under section 40 of the Financial Services (Banking Reform) Act 2013. ”
 
 ### Equality
 
-**16.**[^key-5c1023b3ee0e15cf55ea17fc306b98b8] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “*Industry, business, finance etc.*”, at the appropriate place insert— “ The Payment Systems Regulator established under section 40 of the Financial Services (Banking Reform) Act 2013. ”
+**16.**[^c-5c1023b3ee0e15cf55ea17fc306b98b8] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “*Industry, business, finance etc.*”, at the appropriate place insert— “ The Payment Systems Regulator established under section 40 of the Financial Services (Banking Reform) Act 2013. ”
 
 ## Annotations
 
-[^key-82810ca24d0e2591b275af53e8398c3b]: Commencement: Sch. 4 para. 1 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-82810ca24d0e2591b275af53e8398c3b]: Commencement: Sch. 4 para. 1 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-3f133c0f4f21beffafb6f71ea79940a1]: Commencement: Sch. 4 para. 2 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-3f133c0f4f21beffafb6f71ea79940a1]: Commencement: Sch. 4 para. 2 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-4e7a5b5d340b16e3d42747fb29350af8]: Commencement: Sch. 4 para. 3 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-4e7a5b5d340b16e3d42747fb29350af8]: Commencement: Sch. 4 para. 3 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-9c8b0b44a4c05a9fddbd18e88e68daea]: Commencement: Sch. 4 para. 4 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-9c8b0b44a4c05a9fddbd18e88e68daea]: Commencement: Sch. 4 para. 4 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-3677ed87b8e2b2e6447cfa20d0b08a83]: Commencement: Sch. 4 para. 5 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-3677ed87b8e2b2e6447cfa20d0b08a83]: Commencement: Sch. 4 para. 5 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-1bd2f46ce045ed6b8c6c28e70aaddde9]: Modification: [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7), [9-14](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/9) applied (with modifications) (9.12.2015) by [The Payment Card Interchange Fee Regulations 2015 (S.I. 2015/1911)](https://www.legislation.gov.uk/uksi/2015/1911), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1911/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/15/3) (as amended (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/10))
+[^c-1bd2f46ce045ed6b8c6c28e70aaddde9]: Modification: [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7), [9-14](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/9) applied (with modifications) (9.12.2015) by [The Payment Card Interchange Fee Regulations 2015 (S.I. 2015/1911)](https://www.legislation.gov.uk/uksi/2015/1911), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1911/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/15/3) (as amended (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [reg. 3(10)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/10))
 
-[^key-e2d4cc093bdb0c7f1b707aba93a94c9b]: Modification: Sch. 4 para. 5 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [136(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/136/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-e2d4cc093bdb0c7f1b707aba93a94c9b]: Modification: Sch. 4 para. 5 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [136(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/136/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-b7a3182a9a00b243c6eef3b3b3d589f6]: Textual amendment: Sch. 4 para. 5(3)(c)(d) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/5/a)
+[^c-b7a3182a9a00b243c6eef3b3b3d589f6]: Textual amendment: Sch. 4 para. 5(3)(c)(d) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/5/a)
 
-[^key-8066983c4bbb6583ab45189f917cbe6b]: Commencement: Sch. 4 para. 6 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-8066983c4bbb6583ab45189f917cbe6b]: Commencement: Sch. 4 para. 6 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-16acb29f7bb0123637f53ddf2cd95eb1]: Commencement: Sch. 4 para. 7 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-16acb29f7bb0123637f53ddf2cd95eb1]: Commencement: Sch. 4 para. 7 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-b5d028013d3d2cccc05cf5de8b72ae31]: Modification: Sch. 4 para. 7 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [136(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/136/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-b5d028013d3d2cccc05cf5de8b72ae31]: Modification: Sch. 4 para. 7 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [136(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/136/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-d8ba6dc64d472e2f5694c994eaa1726b]: Textual amendment: [Sch. 4 para. 7(2)(ba)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7/2/bb) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/11); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-d8ba6dc64d472e2f5694c994eaa1726b]: Textual amendment: [Sch. 4 para. 7(2)(ba)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7/2/bb) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/11); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-db76788f35b2dee95bce97d608ad08e8]: Textual amendment: [Sch. 4 para. 7A](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/12); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-db76788f35b2dee95bce97d608ad08e8]: Textual amendment: [Sch. 4 para. 7A](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/7A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/12); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-d1510c8658c56b21aedddb20fddccadc]: Commencement: Sch. 4 para. 8 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-d1510c8658c56b21aedddb20fddccadc]: Commencement: Sch. 4 para. 8 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-eafdb0dcff0387e7f999fe6dba789f07]: Textual amendment: Words in Sch. 4 para. 9 heading inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/5/b)
+[^c-eafdb0dcff0387e7f999fe6dba789f07]: Textual amendment: Words in Sch. 4 para. 9 heading inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/5/b)
 
-[^key-cbc3246203b34ab51812c93fdb61d767]: Commencement: Sch. 4 para. 9 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-cbc3246203b34ab51812c93fdb61d767]: Commencement: Sch. 4 para. 9 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-eba73fb0041a7b9e03abd179fdd68faa]: Modification: Sch. 4 paras. 9-14 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [136(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/136/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-eba73fb0041a7b9e03abd179fdd68faa]: Modification: Sch. 4 paras. 9-14 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [136(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/136/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-478faf7e4cd2756f6e2e7c88af07f23e]: Textual amendment: [Sch. 4 para. 9A](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/9A) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(5)(c)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/5/c)
+[^c-478faf7e4cd2756f6e2e7c88af07f23e]: Textual amendment: [Sch. 4 para. 9A](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/9A) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(5)(c)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/5/c)
 
-[^key-fb397e23d3701d000c734f3f87410ba4]: Commencement: Sch. 4 para. 10 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-fb397e23d3701d000c734f3f87410ba4]: Commencement: Sch. 4 para. 10 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-e2b8d752d97851eaff6870bae97e9cb6]: Commencement: Sch. 4 para. 11 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-e2b8d752d97851eaff6870bae97e9cb6]: Commencement: Sch. 4 para. 11 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-3f569da3ab1efff815bf11590d476be0]: Commencement: Sch. 4 para. 12 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-3f569da3ab1efff815bf11590d476be0]: Commencement: Sch. 4 para. 12 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-e6ed40ecf15b53ad4c02396800766233]: Commencement: Sch. 4 para. 13 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-e6ed40ecf15b53ad4c02396800766233]: Commencement: Sch. 4 para. 13 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-419ba7b79730fcb060a2237fd0e44c79]: Commencement: Sch. 4 para. 14 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-419ba7b79730fcb060a2237fd0e44c79]: Commencement: Sch. 4 para. 14 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-7fc4390698beedd582fc19467cf810d8]: Textual amendment: [Sch. 4 paras. 14A](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/14A), [14B](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/14B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/13); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
+[^c-7fc4390698beedd582fc19467cf810d8]: Textual amendment: [Sch. 4 paras. 14A](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/14A), [14B](https://www.legislation.gov.uk/ukpga/2013/33/schedule/4/paragraph/14B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/13); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/vi)
 
-[^key-68288b2d90a47b2d0fdacd6aca1ab80b]: Commencement: Sch. 4 para. 15 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-68288b2d90a47b2d0fdacd6aca1ab80b]: Commencement: Sch. 4 para. 15 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-5c1023b3ee0e15cf55ea17fc306b98b8]: Commencement: Sch. 4 para. 16 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-5c1023b3ee0e15cf55ea17fc306b98b8]: Commencement: Sch. 4 para. 16 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16I. Duty to inquire: child[^key-e423f8a4146c5c4f09fdd0f8ced2c2c2]
+## 16I. Duty to inquire: child[^c-e423f8a4146c5c4f09fdd0f8ced2c2c2]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e423f8a4146c5c4f09fdd0f8ced2c2c2]: Textual amendment: Ss. 16H, 16I inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 24](https://www.legislation.gov.uk/asp/2019/11/section/24), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-e423f8a4146c5c4f09fdd0f8ced2c2c2]: Textual amendment: Ss. 16H, 16I inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 24](https://www.legislation.gov.uk/asp/2019/11/section/24), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

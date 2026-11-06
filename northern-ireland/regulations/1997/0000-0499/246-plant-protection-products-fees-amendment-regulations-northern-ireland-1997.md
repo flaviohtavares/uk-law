@@ -32,7 +32,7 @@ PESTICIDES
 
 FEES AND CHARGES
 
-Plant Protection Products (Fees) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-41c29a4baee472049c551c146ce742da]
+Plant Protection Products (Fees) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-41c29a4baee472049c551c146ce742da]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 24th June 1997
 
-[^key-41c29a4baee472049c551c146ce742da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41c29a4baee472049c551c146ce742da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-41c29a4baee472049c551c146ce742da]
+## 1. Citation, commencement and interpretation[^c-41c29a4baee472049c551c146ce742da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products (Fees) Regulations (Northern Ireland) 1995[^key-41c29a4baee472049c551c146ce742da]
+## 2. Amendment of the Plant Protection Products (Fees) Regulations (Northern Ireland) 1995[^c-41c29a4baee472049c551c146ce742da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41c29a4baee472049c551c146ce742da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41c29a4baee472049c551c146ce742da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-41c29a4baee472049c551c146ce742da]
+## SCHEDULE[^c-41c29a4baee472049c551c146ce742da]
 
 Regulation 2
 
-> **SCHEDULE — Prescribed Fees[^key-41c29a4baee472049c551c146ce742da]**
+> **SCHEDULE — Prescribed Fees[^c-41c29a4baee472049c551c146ce742da]**
 >
 > Regulation 3
 >
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-41c29a4baee472049c551c146ce742da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41c29a4baee472049c551c146ce742da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41c29a4baee472049c551c146ce742da]: Textual amendment: Regulations revoked (21.10.2004) by [Plant Protection Products (Fees) Regulations (Northern Ireland) 2004 (S.R. 2004/372)](https://www.legislation.gov.uk/nisr/2004/372), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/372/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2004/372/regulation/4/1) (with [regs. 3](https://www.legislation.gov.uk/nisr/2004/372/regulation/3), [4(2)](https://www.legislation.gov.uk/nisr/2004/372/regulation/4/2))
+[^c-41c29a4baee472049c551c146ce742da]: Textual amendment: Regulations revoked (21.10.2004) by [Plant Protection Products (Fees) Regulations (Northern Ireland) 2004 (S.R. 2004/372)](https://www.legislation.gov.uk/nisr/2004/372), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/372/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2004/372/regulation/4/1) (with [regs. 3](https://www.legislation.gov.uk/nisr/2004/372/regulation/3), [4(2)](https://www.legislation.gov.uk/nisr/2004/372/regulation/4/2))

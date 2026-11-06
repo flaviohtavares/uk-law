@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Access to allotment and allotment site[^key-39ab965322830ce1a3e9c50e8bc9bd0d]
+## 114. Access to allotment and allotment site[^c-39ab965322830ce1a3e9c50e8bc9bd0d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ab965322830ce1a3e9c50e8bc9bd0d]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2015/6/section/114) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-39ab965322830ce1a3e9c50e8bc9bd0d]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2015/6/section/114) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

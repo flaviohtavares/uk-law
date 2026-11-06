@@ -39,8 +39,8 @@ summary: ''
 - (a) by virtue of regulations under subsection (3), section 9(11) applies in relation to a general dental services contract, and
 - (b) a direction as to payments is made under that provision in relation to the contract,
 
-the direction is enforceable in the county court[^key-0a82e6a8c711b6ebc029c39c886ed848] (if the court so orders) as if it were a judgment or order of that court.
+the direction is enforceable in the county court[^c-0a82e6a8c711b6ebc029c39c886ed848] (if the court so orders) as if it were a judgment or order of that court.
 
 ## Annotations
 
-[^key-0a82e6a8c711b6ebc029c39c886ed848]: Textual amendment: Words in [s. 105(5)](https://www.legislation.gov.uk/ukpga/2006/41/section/105/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0a82e6a8c711b6ebc029c39c886ed848]: Textual amendment: Words in [s. 105(5)](https://www.legislation.gov.uk/ukpga/2006/41/section/105/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

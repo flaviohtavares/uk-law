@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Consultation[^key-f8ad8518d6b759dd759d8747ff3d041d]
+## 47. Consultation[^c-f8ad8518d6b759dd759d8747ff3d041d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8ad8518d6b759dd759d8747ff3d041d]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2011/1/section/47) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-f8ad8518d6b759dd759d8747ff3d041d]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2011/1/section/47) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Overview of this Chapter[^key-8a2ffd7c5e1085da4dcb9c55c9672caa]
+## 53. Overview of this Chapter[^c-8a2ffd7c5e1085da4dcb9c55c9672caa]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2ffd7c5e1085da4dcb9c55c9672caa]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2014/7/section/53) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/4)
+[^c-8a2ffd7c5e1085da4dcb9c55c9672caa]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2014/7/section/53) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Victims and Witnesses Commissioner for Scotland[^key-6bf84a1e1533c8238d250dea6dcbbb8b][^key-018d684e75c8d112083133f431c6765a]
+## 1. Victims and Witnesses Commissioner for Scotland[^c-6bf84a1e1533c8238d250dea6dcbbb8b][^c-018d684e75c8d112083133f431c6765a]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6bf84a1e1533c8238d250dea6dcbbb8b]: Commencement: S. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6bf84a1e1533c8238d250dea6dcbbb8b]: Commencement: S. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-018d684e75c8d112083133f431c6765a]: Commencement: S. 1 in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-018d684e75c8d112083133f431c6765a]: Commencement: S. 1 in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

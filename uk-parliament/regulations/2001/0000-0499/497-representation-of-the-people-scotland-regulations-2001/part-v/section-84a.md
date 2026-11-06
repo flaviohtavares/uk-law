@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84A. Confirming receipt of postal vote and postal voting statements[^key-99fb73c3587032f8033abe5ccf9add0d][^key-73435a7ba1b521af26d224b84b4941c2]
+## 84A. Confirming receipt of postal vote and postal voting statements[^c-99fb73c3587032f8033abe5ccf9add0d][^c-73435a7ba1b521af26d224b84b4941c2]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99fb73c3587032f8033abe5ccf9add0d]: Modification: [Reg. 84A](https://www.legislation.gov.uk/uksi/2001/497/regulation/84A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 41](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/41)
+[^c-99fb73c3587032f8033abe5ccf9add0d]: Modification: [Reg. 84A](https://www.legislation.gov.uk/uksi/2001/497/regulation/84A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 41](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/41)
 
-[^key-73435a7ba1b521af26d224b84b4941c2]: Textual amendment: [Reg. 84A](https://www.legislation.gov.uk/uksi/2001/497/regulation/84A) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2007/925/regulation/40)
+[^c-73435a7ba1b521af26d224b84b4941c2]: Textual amendment: [Reg. 84A](https://www.legislation.gov.uk/uksi/2001/497/regulation/84A) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2007/925/regulation/40)

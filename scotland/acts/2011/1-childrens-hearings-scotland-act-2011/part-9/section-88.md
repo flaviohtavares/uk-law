@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Meaning of “warrant to secure attendance”[^key-7d0c2431652c68f36b612e2a72a9dd53]
+## 88. Meaning of “warrant to secure attendance”[^c-7d0c2431652c68f36b612e2a72a9dd53]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d0c2431652c68f36b612e2a72a9dd53]: Commencement: S. 88 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-7d0c2431652c68f36b612e2a72a9dd53]: Commencement: S. 88 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

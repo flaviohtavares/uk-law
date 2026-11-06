@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1771/94
 
 of 19 July 1994 laying down provisions on the introduction into the Community of pelts and manufactured goods of certain wild animal species (revoked)
 
-[^key-0d564141b4a4080a8c84cd3332fa6cbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d564141b4a4080a8c84cd3332fa6cbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-0d564141b4a4080a8c84cd3332fa6cbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-0d564141b4a4080a8c84cd3332fa6cbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d564141b4a4080a8c84cd3332fa6cbb]: Textual amendment: Regulation revoked (31.12.2020) by [The Leghold Trap and Pelt Imports (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/16)](https://www.legislation.gov.uk/uksi/2019/16), [regs. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/16/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d564141b4a4080a8c84cd3332fa6cbb]: Textual amendment: Regulation revoked (31.12.2020) by [The Leghold Trap and Pelt Imports (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/16)](https://www.legislation.gov.uk/uksi/2019/16), [regs. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/16/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86B. Timeframe for determination of appeal brought by certain non-detained appellants liable to deportation[^key-3a27b3c4ad0736f75a9bf79f638951c0][^key-ec73ebe9f0d7dc513fe212eaa2f3b910]
+## 86B. Timeframe for determination of appeal brought by certain non-detained appellants liable to deportation[^c-3a27b3c4ad0736f75a9bf79f638951c0][^c-ec73ebe9f0d7dc513fe212eaa2f3b910]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a27b3c4ad0736f75a9bf79f638951c0]: Modification: [S. 86B](https://www.legislation.gov.uk/ukpga/2002/41/section/86B) applied (with modifications) (12.8.2026) by [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61), [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1) (as amended by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50](https://www.legislation.gov.uk/ukpga/2025/31/section/50), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2))
+[^c-3a27b3c4ad0736f75a9bf79f638951c0]: Modification: [S. 86B](https://www.legislation.gov.uk/ukpga/2002/41/section/86B) applied (with modifications) (12.8.2026) by [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61), [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1) (as amended by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50](https://www.legislation.gov.uk/ukpga/2025/31/section/50), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2))
 
-[^key-ec73ebe9f0d7dc513fe212eaa2f3b910]: Textual amendment: S. 86B inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/50/1), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
+[^c-ec73ebe9f0d7dc513fe212eaa2f3b910]: Textual amendment: S. 86B inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/50/1), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)

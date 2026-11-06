@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Destroying or falsifying information[^key-901bd426684ebe8e0ba4397066447f07][^key-8ae7761fa3f0aa5922589e16989f930c]
+## 93. Destroying or falsifying information[^c-901bd426684ebe8e0ba4397066447f07][^c-8ae7761fa3f0aa5922589e16989f930c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-901bd426684ebe8e0ba4397066447f07]: Commencement: S. 93 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-901bd426684ebe8e0ba4397066447f07]: Commencement: S. 93 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8ae7761fa3f0aa5922589e16989f930c]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2024/13/section/93) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-8ae7761fa3f0aa5922589e16989f930c]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2024/13/section/93) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

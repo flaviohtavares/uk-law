@@ -124,7 +124,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article A1. Interpretation[^key-426cd25c3b3be0660ba92c365d5a4a36]
+## Article A1. Interpretation[^c-426cd25c3b3be0660ba92c365d5a4a36]
 
 In this Regulation “**electronic communications service**” has the same meaning as in the Communications Act 2003.
 
@@ -150,7 +150,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 21 December 2020.
 
-[^key-a02aa439146b0edbc4009496e2cc09c0]...
+[^c-a02aa439146b0edbc4009496e2cc09c0]...
 
 ## ANNEX — CONTRACT SUMMARY TEMPLATE
 
@@ -162,7 +162,7 @@ It shall apply from 21 December 2020.
 
 **Contract summary**
 
-- **This contract summary provides the main elements of this service offer [^key-4eb0eedc1d6c54bae2cccde2cf471252]...** .
+- **This contract summary provides the main elements of this service offer [^c-4eb0eedc1d6c54bae2cccde2cf471252]...** .
 - **It helps to make a comparison between service offers.**
 - **Complete information about the service is provided in other documents.**
 
@@ -202,7 +202,7 @@ Italic type font is used in Part A to illustrate that the abovementioned heading
 
 Section "Services and equipment"
 
-- Description of the main characteristics of the electronic communications service(s), for example, fixed voice telephony, mobile voice telephony, mobile internet access, fixed internet access, transmission service for TV-broadcasting or number-independent interpersonal communications services shall be included. For bundled contracts as defined by section 51(8) of the Communications Act 2003,[^key-2f46b9a3a4367690aa845a7bea9aa6de] also the type of terminal equipment, and services, such as for example TV packages, video-on-demand or other media services shall be described, where applicable. For transmission services for TV-broadcasting and for bundled contracts[^key-5306b762d1e6030161d51f83752f45fc] including such services, the types of TV packages offered may be described where it is not possible to list all the channels included in the package. For bundled contracts, the services shall be listed in the order mentioned in this paragraph. The description shall include, where applicable, the volume or quantity for calls, messages and data and the roaming fair use policy applied by the provider.
+- Description of the main characteristics of the electronic communications service(s), for example, fixed voice telephony, mobile voice telephony, mobile internet access, fixed internet access, transmission service for TV-broadcasting or number-independent interpersonal communications services shall be included. For bundled contracts as defined by section 51(8) of the Communications Act 2003,[^c-2f46b9a3a4367690aa845a7bea9aa6de] also the type of terminal equipment, and services, such as for example TV packages, video-on-demand or other media services shall be described, where applicable. For transmission services for TV-broadcasting and for bundled contracts[^c-5306b762d1e6030161d51f83752f45fc] including such services, the types of TV packages offered may be described where it is not possible to list all the channels included in the package. For bundled contracts, the services shall be listed in the order mentioned in this paragraph. The description shall include, where applicable, the volume or quantity for calls, messages and data and the roaming fair use policy applied by the provider.
 
 Section "Speeds of the internet service and remedies"
 
@@ -217,7 +217,7 @@ Section "Price"
 
 Section "Duration, renewal and termination"
 
-- The information on the duration of the contract in months and the main conditions for its renewal and termination due to the end of the contract duration and to early termination, where applicable, shall be included in the contract summary. Fees due on early termination, including information on unlocking the terminal equipment shall be included. This information will be without prejudice to other grounds for termination provided by an enactment or at common law[^key-33d7d77a60ff8ba1a3138c3d61fe2ce2] such as in the event of a lack of conformity with the contract.
+- The information on the duration of the contract in months and the main conditions for its renewal and termination due to the end of the contract duration and to early termination, where applicable, shall be included in the contract summary. Fees due on early termination, including information on unlocking the terminal equipment shall be included. This information will be without prejudice to other grounds for termination provided by an enactment or at common law[^c-33d7d77a60ff8ba1a3138c3d61fe2ce2] such as in the event of a lack of conformity with the contract.
 
 Section "Features for end-users with disabilities"
 
@@ -225,7 +225,7 @@ Section "Features for end-users with disabilities"
 
 Section "Other relevant information"
 
-- Any additional information required by an enactment or at common law[^key-2d706e2e6b51b11d1ee027f92ce01529] before a consumer is bound by a contract or any corresponding offer can be included by the providers.
+- Any additional information required by an enactment or at common law[^c-2d706e2e6b51b11d1ee027f92ce01529] before a consumer is bound by a contract or any corresponding offer can be included by the providers.
 
 ## Annotations
 
@@ -243,18 +243,18 @@ Section "Other relevant information"
 
 [^f00007]: Footnote: Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015 laying down measures concerning open internet access and retail charges for regulated intra-EU communications and amending Directive 2002/22/EC on universal service and users’ rights relating to electronic communications networks and services and Regulation (EU) No 531/2012 on roaming on public mobile communications networks within the Union ([OJ L 310, 26.11.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.310.01.0001.01.ENG)).
 
-[^key-426cd25c3b3be0660ba92c365d5a4a36]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eur/2019/2243/article/A1) inserted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/2)
+[^c-426cd25c3b3be0660ba92c365d5a4a36]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eur/2019/2243/article/A1) inserted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/2)
 
-[^key-a02aa439146b0edbc4009496e2cc09c0]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/3)
+[^c-a02aa439146b0edbc4009496e2cc09c0]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/3)
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Commission Implementing Regulation (EU) 2019/2243 of 17 December 2019 establishing a template for the contract summary to be used by providers of publicly available electronic communications services pursuant to Directive (EU) 2018/1972 of the European Parliament and of the Council (Official Journal of the European Union L 336 of 30 December 2019)](https://www.legislation.gov.uk/eur/2019/2243/pdfs/eurcs_20192243_en_001.pdf).
 
-[^key-4eb0eedc1d6c54bae2cccde2cf471252]: Textual amendment: Words in [Annex Pt. A](https://www.legislation.gov.uk/eur/2019/2243/annex/part/A) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/4)
+[^c-4eb0eedc1d6c54bae2cccde2cf471252]: Textual amendment: Words in [Annex Pt. A](https://www.legislation.gov.uk/eur/2019/2243/annex/part/A) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/4)
 
-[^key-2f46b9a3a4367690aa845a7bea9aa6de]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/a/i)
+[^c-2f46b9a3a4367690aa845a7bea9aa6de]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/a/i)
 
-[^key-5306b762d1e6030161d51f83752f45fc]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/a/ii)
+[^c-5306b762d1e6030161d51f83752f45fc]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/a/ii)
 
-[^key-33d7d77a60ff8ba1a3138c3d61fe2ce2]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/b)
+[^c-33d7d77a60ff8ba1a3138c3d61fe2ce2]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/b)
 
-[^key-2d706e2e6b51b11d1ee027f92ce01529]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/c)
+[^c-2d706e2e6b51b11d1ee027f92ce01529]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eur/2019/2243/annex/part/B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/c), [Sch. 3 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/3/paragraph/1/5/c)

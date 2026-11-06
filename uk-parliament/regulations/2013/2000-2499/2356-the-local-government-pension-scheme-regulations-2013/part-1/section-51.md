@@ -41,10 +41,10 @@ the member is entitled from the end of the period mentioned in sub-paragraph (a)
 
 (8) In this regulation “**contracted out employment**” shall be construed in accordance with section 8 of the Pension Schemes Act 1993.
 
-(9)[^key-ddc5036f9a511aa020bb62a4e1660b16] In this regulation “local government service” includes employment in respect of which the member satisfies the conditions in regulation 3(1)(b).
+(9)[^c-ddc5036f9a511aa020bb62a4e1660b16] In this regulation “local government service” includes employment in respect of which the member satisfies the conditions in regulation 3(1)(b).
 
 ## Annotations
 
 [^c21900361]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 14 was amended by the Proceeds of Crime Act 2002, the Pensions Act 1995, and the Social Security Contributions (Transfer of Functions, etc) Act 1999.
 
-[^key-ddc5036f9a511aa020bb62a4e1660b16]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/51/9) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2018/493/regulation/12)
+[^c-ddc5036f9a511aa020bb62a4e1660b16]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/51/9) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2018/493/regulation/12)

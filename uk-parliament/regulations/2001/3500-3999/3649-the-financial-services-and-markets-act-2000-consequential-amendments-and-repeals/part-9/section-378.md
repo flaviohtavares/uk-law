@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 378. The Scheme Manager of the Financial Services Compensation Scheme[^key-8ad72a299d125561cde89cbeca53a06e]
+## 378. The Scheme Manager of the Financial Services Compensation Scheme[^c-8ad72a299d125561cde89cbeca53a06e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad72a299d125561cde89cbeca53a06e]: Commencement: Art. 378 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8ad72a299d125561cde89cbeca53a06e]: Commencement: Art. 378 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00273]: Footnote: Amendments not relevant to this amendment were made to paragraph (2), (3), (4), (5), (6) and (7) by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 2, Schedule 1, paragraph 4(5)(a) and (b).

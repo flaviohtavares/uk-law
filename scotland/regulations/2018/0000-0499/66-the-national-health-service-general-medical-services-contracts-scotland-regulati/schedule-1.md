@@ -52,11 +52,11 @@ The contractor must provide, in relation to each additional service, such facili
 - (f) the giving of initial advice about sexual health promotion and sexually transmitted infections; and
 - (g) the referral as necessary for specialist sexual health services, including tests for sexually transmitted infections.
 
-### 4. Vaccinations and immunisations[^key-3496fe76f3a251feba2c0beb0ac5baf8]
+### 4. Vaccinations and immunisations[^c-3496fe76f3a251feba2c0beb0ac5baf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Childhood vaccinations and immunisations[^key-f70e3134ce2e0c7dc7176fc2604b520e]
+### 5. Childhood vaccinations and immunisations[^c-f70e3134ce2e0c7dc7176fc2604b520e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,8 +99,8 @@ The contractor must provide, in relation to each additional service, such facili
 
 ## Annotations
 
-[^key-3496fe76f3a251feba2c0beb0ac5baf8]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2018/66/schedule/1/paragraph/4) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [6](https://www.legislation.gov.uk/ssi/2021/302/regulation/6)
+[^c-3496fe76f3a251feba2c0beb0ac5baf8]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2018/66/schedule/1/paragraph/4) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [6](https://www.legislation.gov.uk/ssi/2021/302/regulation/6)
 
-[^key-f70e3134ce2e0c7dc7176fc2604b520e]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2018/66/schedule/1/paragraph/5) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [6](https://www.legislation.gov.uk/ssi/2021/302/regulation/6)
+[^c-f70e3134ce2e0c7dc7176fc2604b520e]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2018/66/schedule/1/paragraph/5) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [6](https://www.legislation.gov.uk/ssi/2021/302/regulation/6)
 
 [^f00075]: Footnote: David Hall and David Elliman, January 2003, Oxford University Press, ISBN 10: 01985188X, ISBN 13: 97801 98515883.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 261. Provision for obtaining order for cleansing offensive ditches lying near to, or forming, boundary of district.[^c611665][^key-448b99a8c5fd47454f74b1d27e8711c2][^key-5be86d0ad1efc28f9369fa433dbbb5c1]
+## 261. Provision for obtaining order for cleansing offensive ditches lying near to, or forming, boundary of district.[^c611665][^c-448b99a8c5fd47454f74b1d27e8711c2][^c-5be86d0ad1efc28f9369fa433dbbb5c1]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Upon a complaint by a local authority against the local authority of an adjoinin
 
     [S. 261](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/261) amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 40](https://www.legislation.gov.uk/ukpga/1993/12/section/40), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 3 Pt. I para.1](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/I/paragraph/1)
 
-[^key-448b99a8c5fd47454f74b1d27e8711c2]: Modification: [S. 261](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/261) modified by SI 2010/675 Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-448b99a8c5fd47454f74b1d27e8711c2]: Modification: [S. 261](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/261) modified by SI 2010/675 Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-5be86d0ad1efc28f9369fa433dbbb5c1]: Modification: [S. 261](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/261) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-5be86d0ad1efc28f9369fa433dbbb5c1]: Modification: [S. 261](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/261) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

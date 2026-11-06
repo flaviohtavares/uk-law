@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Interpretation[^key-28c7e6527ecf18ea093058391326b2d4]
+## 52. Interpretation[^c-28c7e6527ecf18ea093058391326b2d4]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28c7e6527ecf18ea093058391326b2d4]: Commencement: S. 52 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(ix)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/ix) (with art. 5)
+[^c-28c7e6527ecf18ea093058391326b2d4]: Commencement: S. 52 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(ix)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/ix) (with art. 5)

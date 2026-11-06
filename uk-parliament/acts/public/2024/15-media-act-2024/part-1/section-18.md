@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to require information[^key-7d3e2043dd7a50900a758ea0d9de46c4][^key-bae48af520b708dc5f1a32ab8914abaa]
+## 18. Power to require information[^c-7d3e2043dd7a50900a758ea0d9de46c4][^c-bae48af520b708dc5f1a32ab8914abaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,6 +104,6 @@ After section 338 of the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-7d3e2043dd7a50900a758ea0d9de46c4]: Commencement: S. 18 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-7d3e2043dd7a50900a758ea0d9de46c4]: Commencement: S. 18 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-bae48af520b708dc5f1a32ab8914abaa]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2024/15/section/18) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/b)
+[^c-bae48af520b708dc5f1a32ab8914abaa]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2024/15/section/18) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/b)

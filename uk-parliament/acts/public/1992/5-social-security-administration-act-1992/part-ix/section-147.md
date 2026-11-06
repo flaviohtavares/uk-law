@@ -22,16 +22,16 @@ summary: ''
 
 (1) An order under section 145 [^c24151911]... above may make such amendments of any enactment as appear to the Treasury[^M_F_cdfa0f96-90aa-41aa-e392-81f34450c993] to be necessary or expedient in consequence of any alteration made by it.
 
-(2)[^key-ebb1e00ae8c94f1f0999bd1b0e1c45fa] Where (in accordance with section 190 below) the Treasury lay[^M_F_be4d7c21-155f-4119-d3d5-cec6d33641c8] before Parliament a draft of an order under section 145 [^c24151911]... above, they[^M_F_1ba6761d-faf0-4244-c41e-67642a7ec906] shall lay with it a copy of a report by the Government Actuary or the Deputy Government Actuary on the effect which, in that Actuary's opinion, the making of such an order may be expected to have on the National Insurance Fund.
+(2)[^c-ebb1e00ae8c94f1f0999bd1b0e1c45fa] Where (in accordance with section 190 below) the Treasury lay[^M_F_be4d7c21-155f-4119-d3d5-cec6d33641c8] before Parliament a draft of an order under section 145 [^c24151911]... above, they[^M_F_1ba6761d-faf0-4244-c41e-67642a7ec906] shall lay with it a copy of a report by the Government Actuary or the Deputy Government Actuary on the effect which, in that Actuary's opinion, the making of such an order may be expected to have on the National Insurance Fund.
 
-(3)[^key-ebb1e00ae8c94f1f0999bd1b0e1c45fa] An order under section 145 [^c24151911]... above shall be made so as to come into force—
+(3)[^c-ebb1e00ae8c94f1f0999bd1b0e1c45fa] An order under section 145 [^c24151911]... above shall be made so as to come into force—
 
 - (a) on a date in the tax year in which it receives Parliamentary approval; or
 - (b) on a date in the next tax year.
 
-(4)[^key-ebb1e00ae8c94f1f0999bd1b0e1c45fa] Such an order shall have effect for the remainder of the tax year in which it comes into force and for any subsequent tax year (subject to the effect of any subsequent order under this Part of this Act).
+(4)[^c-ebb1e00ae8c94f1f0999bd1b0e1c45fa] Such an order shall have effect for the remainder of the tax year in which it comes into force and for any subsequent tax year (subject to the effect of any subsequent order under this Part of this Act).
 
-(5)[^key-ebb1e00ae8c94f1f0999bd1b0e1c45fa] Such an order shall be taken as receiving Parliamentary approval on the date on which the draft of it is approved by the second House to approve it.
+(5)[^c-ebb1e00ae8c94f1f0999bd1b0e1c45fa] Such an order shall be taken as receiving Parliamentary approval on the date on which the draft of it is approved by the second House to approve it.
 
 ## Annotations
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^M_F_cdfa0f96-90aa-41aa-e392-81f34450c993]: Textual amendment: Words in s. 147 substituted (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 3 para. 50(a)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/50/a); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
-[^key-ebb1e00ae8c94f1f0999bd1b0e1c45fa]: Modification: S. 147(2)-(5) excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 73(1)(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/73/1/3), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-ebb1e00ae8c94f1f0999bd1b0e1c45fa]: Modification: S. 147(2)-(5) excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 73(1)(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/73/1/3), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
 [^M_F_be4d7c21-155f-4119-d3d5-cec6d33641c8]: Textual amendment: Word in s. 147(2) substituted (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 3 para. 50(b)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/50/b); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Effect of misdescription[^key-e90103974961a96be395938f6b2a8258]
+## 22. Effect of misdescription[^c-e90103974961a96be395938f6b2a8258]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ affects the full operation of the document with respect to that person or place 
 
 ## Annotations
 
-[^key-e90103974961a96be395938f6b2a8258]: Commencement: Art. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e90103974961a96be395938f6b2a8258]: Commencement: Art. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

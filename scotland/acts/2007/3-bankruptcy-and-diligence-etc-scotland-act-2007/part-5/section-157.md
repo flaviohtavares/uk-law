@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies where—
 
 - (a) an inhibition executed to enforce payment of a debt has effect; and
-- (b) a sum is paid, in respect of the debt constituted by the decree or document of debt authorising the inhibition, to the creditor, an officer of court[^key-796a5af01eba26cffd084bc234fc7d57] or any other person who has authority to receive payment on behalf of the creditor.
+- (b) a sum is paid, in respect of the debt constituted by the decree or document of debt authorising the inhibition, to the creditor, an officer of court[^c-796a5af01eba26cffd084bc234fc7d57] or any other person who has authority to receive payment on behalf of the creditor.
 
 (2) Where the sum paid amounts to the sum of—
 
@@ -39,4 +39,4 @@ the inhibition ceases to have effect.
 
 ## Annotations
 
-[^key-796a5af01eba26cffd084bc234fc7d57]: Textual amendment: Words in [s. 157(1)(b)](https://www.legislation.gov.uk/asp/2007/3/section/157/1/b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 25(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/25/a); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-796a5af01eba26cffd084bc234fc7d57]: Textual amendment: Words in [s. 157(1)(b)](https://www.legislation.gov.uk/asp/2007/3/section/157/1/b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 25(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/25/a); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

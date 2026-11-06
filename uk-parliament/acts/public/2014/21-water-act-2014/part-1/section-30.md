@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-624dfcf7e6ace3b0799b7d78d0871f0a] After section 95 of the Water Industry Act 1991 there is inserted—
+(1)[^c-624dfcf7e6ace3b0799b7d78d0871f0a] After section 95 of the Water Industry Act 1991 there is inserted—
 
 > **95ZA. Standards of performance in connection with provision of sewerage services: sewerage licensees**
 >
@@ -47,9 +47,9 @@ summary: ''
 >
 > (5) Where the Authority determines any dispute in accordance with regulations under this section it must, in such manner as may be specified in the regulations, give its reasons for reaching its decision with respect to the dispute.
 
-(2)[^key-d625105c2e535ec914862e11bbabfe8b][^key-34f2ba1e13d9973959e6a8d718bcadf1] Section 95A of that Act (information as to levels of performance of sewerage undertakers) is amended in accordance with subsections (3) to (6).
+(2)[^c-d625105c2e535ec914862e11bbabfe8b][^c-34f2ba1e13d9973959e6a8d718bcadf1] Section 95A of that Act (information as to levels of performance of sewerage undertakers) is amended in accordance with subsections (3) to (6).
 
-(3)[^key-624dfcf7e6ace3b0799b7d78d0871f0a] In subsection (1) (duty of Water Services Regulation Authority to collect information)—
+(3)[^c-624dfcf7e6ace3b0799b7d78d0871f0a] In subsection (1) (duty of Water Services Regulation Authority to collect information)—
 
 - (a) the “and” following paragraph (a) is repealed;
 - (b) after paragraph (a) there is inserted—
@@ -59,20 +59,20 @@ summary: ''
   ;
 - (c) in paragraph (b), after “sewerage undertakers” there is inserted “ or sewerage licensees ”.
 
-(4)[^key-624dfcf7e6ace3b0799b7d78d0871f0a] After subsection (2) there is inserted—
+(4)[^c-624dfcf7e6ace3b0799b7d78d0871f0a] After subsection (2) there is inserted—
 
 > (2A) At such times as the Authority may direct, each sewerage licensee is to give the following information to the Authority—
 >
 > - (a) as respects each standard established by regulations under section 95ZA(1), such information with respect to the level of performance achieved by the licensee as may be specified in the direction;
 > - (b) as respects each standard prescribed by regulations under section 95ZA(2), the number of cases in which compensation was paid and the aggregate amount or value of that compensation.
 
-(5)[^key-d625105c2e535ec914862e11bbabfe8b][^key-34f2ba1e13d9973959e6a8d718bcadf1] For subsection (3) (offence of failing to comply with subsection (2)) there is substituted—
+(5)[^c-d625105c2e535ec914862e11bbabfe8b][^c-34f2ba1e13d9973959e6a8d718bcadf1] For subsection (3) (offence of failing to comply with subsection (2)) there is substituted—
 
 > (3) The requirements in subsections (2) and (2A) are enforceable by the Authority under section 18.
 
-(6)[^key-624dfcf7e6ace3b0799b7d78d0871f0a] In subsection (4) (publication of information collected), after “sewerage undertakers” there is inserted “ or sewerage licensees ”.
+(6)[^c-624dfcf7e6ace3b0799b7d78d0871f0a] In subsection (4) (publication of information collected), after “sewerage undertakers” there is inserted “ or sewerage licensees ”.
 
-(7)[^key-096421fab61ef00deb6d45064eba6674] After section 96 there is inserted—
+(7)[^c-096421fab61ef00deb6d45064eba6674] After section 96 there is inserted—
 
 > **96ZA. Procedure for regulations under section 95ZA**
 >
@@ -82,10 +82,10 @@ summary: ''
 
 ## Annotations
 
-[^key-624dfcf7e6ace3b0799b7d78d0871f0a]: Commencement: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/4)[(6)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/6) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/e)
+[^c-624dfcf7e6ace3b0799b7d78d0871f0a]: Commencement: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/4)[(6)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/6) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/e)
 
-[^key-d625105c2e535ec914862e11bbabfe8b]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/5) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/b)
+[^c-d625105c2e535ec914862e11bbabfe8b]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/5) in force at 1.1.2015 for specified purposes by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/b)
 
-[^key-34f2ba1e13d9973959e6a8d718bcadf1]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/5) in force at 1.11.2016 in so far as not already in force by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/e)
+[^c-34f2ba1e13d9973959e6a8d718bcadf1]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/5) in force at 1.11.2016 in so far as not already in force by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(e)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/e)
 
-[^key-096421fab61ef00deb6d45064eba6674]: Commencement: [S. 30(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/7) in force at 15.7.2015 by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/d)
+[^c-096421fab61ef00deb6d45064eba6674]: Commencement: [S. 30(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/30/7) in force at 15.7.2015 by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/d)

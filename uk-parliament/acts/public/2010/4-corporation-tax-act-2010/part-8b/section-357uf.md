@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357UF. Restriction on use of losses before completion period[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357UF. Restriction on use of losses before completion period[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) any Northern Ireland losses of the trade of the period, or
 - (b) any mainstream losses of the trade of the period;
 
-and references to losses in subsections (2) and (3)[^key-9bff1273c162dbb12dff6b3c292abc9d] of that section are to be read accordingly.
+and references to losses in subsections (2) and (3)[^c-9bff1273c162dbb12dff6b3c292abc9d] of that section are to be read accordingly.
 
 (3) Subsection (4) applies if a Northern Ireland company has, in an accounting period preceding the completion period—
 
@@ -45,6 +45,6 @@ and references to losses in subsections (2) and (3)[^key-9bff1273c162dbb12dff6b3
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-9bff1273c162dbb12dff6b3c292abc9d]: Textual amendment: Words in [s. 357UF(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357UF/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 104](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/104)
+[^c-9bff1273c162dbb12dff6b3c292abc9d]: Textual amendment: Words in [s. 357UF(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357UF/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 104](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/104)

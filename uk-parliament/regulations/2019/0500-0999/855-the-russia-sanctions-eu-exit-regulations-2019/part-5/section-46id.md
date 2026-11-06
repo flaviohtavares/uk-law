@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46ID. Financial services and funds relating to relevant processed iron or steel products[^key-7f56908749cb007d9b44a757bcf92283]
+## 46ID. Financial services and funds relating to relevant processed iron or steel products[^c-7f56908749cb007d9b44a757bcf92283]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f56908749cb007d9b44a757bcf92283]: Textual amendment: Pt. 5 Ch. 4CA inserted (30.9.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2023/440/regulation/3/1)
+[^c-7f56908749cb007d9b44a757bcf92283]: Textual amendment: Pt. 5 Ch. 4CA inserted (30.9.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2023/440/regulation/3/1)

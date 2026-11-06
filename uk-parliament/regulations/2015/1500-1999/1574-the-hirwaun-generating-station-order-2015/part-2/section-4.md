@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Maintenance of authorised development[^key-ca0713ff8b7e796a952f3669e0f16387]
+## 4. Maintenance of authorised development[^c-ca0713ff8b7e796a952f3669e0f16387]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca0713ff8b7e796a952f3669e0f16387]: Commencement: Art. 4 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-ca0713ff8b7e796a952f3669e0f16387]: Commencement: Art. 4 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

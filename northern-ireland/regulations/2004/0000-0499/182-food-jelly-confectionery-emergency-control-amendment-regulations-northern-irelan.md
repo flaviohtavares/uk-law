@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Jelly Confectionery) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-16edff959c75d0603132d9147802c5b7]
+Food (Jelly Confectionery) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-16edff959c75d0603132d9147802c5b7]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 19th April 2004
 
-[^key-16edff959c75d0603132d9147802c5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16edff959c75d0603132d9147802c5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-16edff959c75d0603132d9147802c5b7]
+## 1. Citation and commencement[^c-16edff959c75d0603132d9147802c5b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Jelly Confectionery) (Emergency Control) Regulations (Northern Ireland) 2002[^key-16edff959c75d0603132d9147802c5b7]
+## 2. Amendments to the Food (Jelly Confectionery) (Emergency Control) Regulations (Northern Ireland) 2002[^c-16edff959c75d0603132d9147802c5b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16edff959c75d0603132d9147802c5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16edff959c75d0603132d9147802c5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-16edff959c75d0603132d9147802c5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16edff959c75d0603132d9147802c5b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16edff959c75d0603132d9147802c5b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/182) revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/417)](https://www.legislation.gov.uk/nisr/2009/417), [regs. 1](https://www.legislation.gov.uk/nisr/2009/417/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/417/regulation/6)
+[^c-16edff959c75d0603132d9147802c5b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/182) revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/417)](https://www.legislation.gov.uk/nisr/2009/417), [regs. 1](https://www.legislation.gov.uk/nisr/2009/417/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/417/regulation/6)

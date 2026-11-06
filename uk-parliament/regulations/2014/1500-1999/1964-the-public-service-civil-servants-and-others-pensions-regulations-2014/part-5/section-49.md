@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Adjustment of provisional amount[^key-c4db1d259fa40790c1cba5886db55a9e]
+## 49. Adjustment of provisional amount[^c-c4db1d259fa40790c1cba5886db55a9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4db1d259fa40790c1cba5886db55a9e]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/1964/regulation/49) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c4db1d259fa40790c1cba5886db55a9e]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/1964/regulation/49) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -31,10 +31,10 @@ summary: ''
 
 of 7 December 2001 approving the schemes submitted by the United Kingdom and Ireland for the withdrawal of all fish in farms infected with infectious salmon anaemia (ISA) virus and repealing Decision 2001/494/EC (Text with EEA relevance) (notified under document number C(2001) 3938) (revoked)
 
-[^key-b91470fff38c4b8078b6a5795a773b06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b91470fff38c4b8078b6a5795a773b06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b91470fff38c4b8078b6a5795a773b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b91470fff38c4b8078b6a5795a773b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b91470fff38c4b8078b6a5795a773b06]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-b91470fff38c4b8078b6a5795a773b06]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

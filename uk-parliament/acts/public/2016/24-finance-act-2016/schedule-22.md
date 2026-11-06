@@ -26,7 +26,7 @@ Section 165
 
 #### Circumstances in which asset-based penalty is payable
 
-**1.**[^key-bbcce16f3c25c41fc87f9b5d3d225d4c] (1) An asset-based penalty is payable by a person (P) where—
+**1.**[^c-bbcce16f3c25c41fc87f9b5d3d225d4c] (1) An asset-based penalty is payable by a person (P) where—
 
 - (a) one or more standard offshore tax penalties have been imposed on P in relation to a tax year (see paragraphs 2 and 3), and
 - (b) the potential lost revenue threshold is met in relation to that tax year (see paragraph 4).
@@ -35,7 +35,7 @@ Section 165
 
 #### Meaning of standard offshore tax penalty
 
-**2.**[^key-d06469aa256927cc917f80ac83384147] (1) A standard offshore tax penalty is a penalty that falls within sub-paragraph (2), (3) (4)[^key-a34c9ef449507d31b315a36db1a38f79] or (4A) *(affected by repeal, see note)*[^key-b2de86107d4de16c38cb4afb42df0efe] , (4A) or (4B).
+**2.**[^c-d06469aa256927cc917f80ac83384147] (1) A standard offshore tax penalty is a penalty that falls within sub-paragraph (2), (3) (4)[^c-a34c9ef449507d31b315a36db1a38f79] or (4A) *(affected by repeal, see note)*[^c-b2de86107d4de16c38cb4afb42df0efe] , (4A) or (4B).
 
 (2) A penalty falls within this sub-paragraph if—
 
@@ -58,13 +58,13 @@ Section 165
 - (c) it is imposed for a deliberate withholding of information (whether concealed or not), and
 - (d) the tax at stake is (or includes) capital gains tax, inheritance tax or asset-based income tax.
 
-(4A)[^key-a15af229201d7acc32e0cf6902e3fd2a] A penalty falls within this paragraph *(affected by repeal, see note)*[^key-063161e65f664327bad4c5aa07ff7a03] sub-paragraph if—
+(4A)[^c-a15af229201d7acc32e0cf6902e3fd2a] A penalty falls within this paragraph *(affected by repeal, see note)*[^c-063161e65f664327bad4c5aa07ff7a03] sub-paragraph if—
 
 - (a) it is imposed on a person under paragraph 1 of Schedule 18 to FA 2017 (requirement to correct relevant offshore tax non-compliance),
 - (b) the person was aware at any time during the RTC period that at the end of the 2016-17 tax year P had relevant offshore tax non-compliance to correct, and
 - (c) the tax at stake is (or includes) capital gains tax, inheritance tax or asset-based income tax.
 
-(4B)[^key-bd69e4c6f431f02e1bb3baf50b65fe04] A penalty falls within this sub-paragraph if—
+(4B)[^c-bd69e4c6f431f02e1bb3baf50b65fe04] A penalty falls within this sub-paragraph if—
 
 - (a) it is imposed under paragraph 3 of Schedule 25 to FA 2021 (penalties for deliberately withholding information),
 - (b) it is imposed for the withholding of information involving an offshore matter or an offshore transfer, and
@@ -72,7 +72,7 @@ Section 165
 
 (5) In a case where the inaccuracy, failure or withholding of information for which a penalty is imposed involves both an offshore matter or an offshore transfer and a domestic matter, the standard offshore tax penalty is only that part of the penalty that involves the offshore matter or offshore transfer.
 
-(5A)[^key-c8853ace0440ae54fb23d40a77302f4c] Sub-paragraph (5) does not apply to a penalty imposed under paragraph 1 of Schedule 18 to FA 2017.
+(5A)[^c-c8853ace0440ae54fb23d40a77302f4c] Sub-paragraph (5) does not apply to a penalty imposed under paragraph 1 of Schedule 18 to FA 2017.
 
 (6) In a case where the tax at stake in relation to a penalty includes a tax other than capital gains tax, inheritance tax or asset-based income tax, the standard offshore tax penalty is only that part of the penalty which relates to capital gains tax, inheritance tax or asset-based income tax.
 
@@ -80,7 +80,7 @@ Section 165
 
 #### Tax year to which standard offshore tax penalty relates
 
-**3.**[^key-117fbbcb4370633edcbe9972911ad25e] (1) Where a standard offshore tax penalty is imposed under paragraph 1 of Schedule 24 to FA 2007, the tax year to which that penalty relates is—
+**3.**[^c-117fbbcb4370633edcbe9972911ad25e] (1) Where a standard offshore tax penalty is imposed under paragraph 1 of Schedule 24 to FA 2007, the tax year to which that penalty relates is—
 
 - (a) if the tax at stake as a result of the inaccuracy is income tax or capital gains tax, the tax year to which the document containing the inaccuracy relates;
 - (b) if the tax at stake as a result of the inaccuracy is inheritance tax, the year, beginning on 6 April and ending on the following 5 April, in which the liability to tax first arose.
@@ -92,18 +92,18 @@ Section 165
 - (a) if the tax at stake is income tax or capital gains tax, the tax year to which the return or document relates;
 - (b) if the tax at stake is inheritance tax, the year, beginning on 6 April and ending on the following 5 April, in which the liability to tax first arose.
 
-(4)[^key-55929a7c587f085eb4f918ecf60ecf43] Where a standard offshore penalty is imposed under paragraph 1 of Schedule 18 to FA 2017, the tax year to which that penalty relates is—
+(4)[^c-55929a7c587f085eb4f918ecf60ecf43] Where a standard offshore penalty is imposed under paragraph 1 of Schedule 18 to FA 2017, the tax year to which that penalty relates is—
 
 - (a) if the tax at stake in relation to the uncorrected relevant offshore tax non-compliance is income tax or capital gains tax, the tax year or years to which the failure or inaccuracy constituting the relevant offshore tax non-compliance in question relates;
 - (b) if the tax at stake in relation to the uncorrected relevant offshore tax non-compliance is inheritance tax, the year, beginning on 6 April and ending on the following 5 April, in which the liability to tax first arose.
 
-(4A)[^key-f2c0e86e08f2f0cb56d2dc65338ef0d1] Where a standard offshore tax penalty is imposed under paragraph 3 of Schedule 25 to FA 2021 for a failure to make a return or deliver a document listed in the table in paragraph 1 of that Schedule, the tax year to which that penalty relates is, if the tax at stake is income tax or capital gains tax, the tax year to which the return or document relates.
+(4A)[^c-f2c0e86e08f2f0cb56d2dc65338ef0d1] Where a standard offshore tax penalty is imposed under paragraph 3 of Schedule 25 to FA 2021 for a failure to make a return or deliver a document listed in the table in paragraph 1 of that Schedule, the tax year to which that penalty relates is, if the tax at stake is income tax or capital gains tax, the tax year to which the return or document relates.
 
 (5) In sub-paragraph (4) references to uncorrected relevant offshore tax non-compliance are to the relevant offshore tax non-compliance in respect of which the standard offshore penalty is imposed.
 
 #### Potential lost revenue threshold
 
-**4.**[^key-9000d91b310e5481e44214204425f545] (1) The potential lost revenue threshold is reached where the offshore PLR in relation to a tax year exceeds £25,000.
+**4.**[^c-9000d91b310e5481e44214204425f545] (1) The potential lost revenue threshold is reached where the offshore PLR in relation to a tax year exceeds £25,000.
 
 (2) The Treasury may by regulations change the figure for the time being specified in sub-paragraph (1).
 
@@ -118,16 +118,16 @@ Section 165
 
 #### Offshore PLR
 
-**5.**[^key-c1382250fe152ddd639263df1eb26bc4] (1) The offshore PLR, in relation to a tax year, is the total of—
+**5.**[^c-c1382250fe152ddd639263df1eb26bc4] (1) The offshore PLR, in relation to a tax year, is the total of—
 
-- (a) the potential lost revenue (in the case of a standard offshore tax penalty imposed under Schedule 24 to FA 2007 or Schedule 41 to FA 2008 or Schedule 18 to[^key-23f47cbea90a0e99f20c3fb924d8c4b0] FA 2017), and
-- (b) the liability to tax (in the case of a standard offshore tax penalty imposed under Schedule 55 to FA 2009 or Schedule 25 to FA 2021[^key-d083a7f01e6ade8dddfe0752a78cc463]),
+- (a) the potential lost revenue (in the case of a standard offshore tax penalty imposed under Schedule 24 to FA 2007 or Schedule 41 to FA 2008 or Schedule 18 to[^c-23f47cbea90a0e99f20c3fb924d8c4b0] FA 2017), and
+- (b) the liability to tax (in the case of a standard offshore tax penalty imposed under Schedule 55 to FA 2009 or Schedule 25 to FA 2021[^c-d083a7f01e6ade8dddfe0752a78cc463]),
 
 by reference to which all of the standard offshore tax penalties imposed on P in relation to the tax year are assessed.
 
 (2) Sub-paragraphs (3) to (5) apply where—
 
-- (a) a penalty is imposed on P under paragraph 1 of Schedule 24 to FA 2007, paragraph 1 of Schedule 41 to FA 2008 or paragraph 6 of Schedule 55 to FA 2009 *(affected by repeal, see note)*[^key-272a76350527e6975cc9945f0f1bc578] , paragraph 6 of Schedule 55 to FA 2009 or paragraph 3 of Schedule 25 to FA 2021, and
+- (a) a penalty is imposed on P under paragraph 1 of Schedule 24 to FA 2007, paragraph 1 of Schedule 41 to FA 2008 or paragraph 6 of Schedule 55 to FA 2009 *(affected by repeal, see note)*[^c-272a76350527e6975cc9945f0f1bc578] , paragraph 6 of Schedule 55 to FA 2009 or paragraph 3 of Schedule 25 to FA 2021, and
 - (b) the potential lost revenue or liability to tax by reference to which the penalty is assessed relates to a standard offshore tax penalty and one or more other penalties.
 
 In this paragraph, such a penalty is referred to as a “**combined penalty**”.
@@ -155,9 +155,9 @@ for the purposes of calculating the offshore PLR, the potential lost revenue or 
 
 #### Restriction on imposition of multiple asset-based penalties in relation to the same asset
 
-**6.**[^key-a54179953adc64ca74e8e71720ca5603] (1) Sub-paragraphs (2) and (3) apply where—
+**6.**[^c-a54179953adc64ca74e8e71720ca5603] (1) Sub-paragraphs (2) and (3) apply where—
 
-- (a) a standard offshore tax penalty (other than one imposed under paragraph 1 of Schedule 18 to[^key-9dd5347679c0cb44be8628de3ecddaf9] FA 2017) has been imposed on P, and
+- (a) a standard offshore tax penalty (other than one imposed under paragraph 1 of Schedule 18 to[^c-9dd5347679c0cb44be8628de3ecddaf9] FA 2017) has been imposed on P, and
 - (b) the potential lost revenue threshold is met,
 
 in relation to more than one tax year falling within the same investigation period.
@@ -184,7 +184,7 @@ only one asset-based penalty is payable by the person in relation to any given a
 
 #### Standard amount of asset-based penalty
 
-**7.**[^key-5c6f6ff2a05850d4895e1594f8970b67] (1) The standard amount of the asset-based penalty is the lower of—
+**7.**[^c-5c6f6ff2a05850d4895e1594f8970b67] (1) The standard amount of the asset-based penalty is the lower of—
 
 - (a) 10% of the value of the asset, and
 - (b) offshore PLR x 10.
@@ -196,7 +196,7 @@ only one asset-based penalty is payable by the person in relation to any given a
 
 #### Reductions for disclosure and co-operation
 
-**8.**[^key-7f199ecab861d011acb987df4c762465][^key-8bd1d15d65f355b3c4d750bad1b874aa] (1) HMRC must reduce the standard amount of the asset-based penalty where P does all of the following things—
+**8.**[^c-7f199ecab861d011acb987df4c762465][^c-8bd1d15d65f355b3c4d750bad1b874aa] (1) HMRC must reduce the standard amount of the asset-based penalty where P does all of the following things—
 
 - (a) makes a disclosure of the inaccuracy or failure relating to the standard offshore tax penalty;
 - (b) provides HMRC with a reasonable valuation of the asset;
@@ -226,7 +226,7 @@ only one asset-based penalty is payable by the person in relation to any given a
 
 #### Special reduction
 
-**9.**[^key-850a902c8fed90a040f4c406688d8300] (1) If HMRC think it right because of special circumstances, they may reduce the standard amount of the asset-based penalty.
+**9.**[^c-850a902c8fed90a040f4c406688d8300] (1) If HMRC think it right because of special circumstances, they may reduce the standard amount of the asset-based penalty.
 
 (2) In sub-paragraph (1) “**special circumstances**” does not include—
 
@@ -242,7 +242,7 @@ only one asset-based penalty is payable by the person in relation to any given a
 
 #### Introduction
 
-**10.**[^key-905dcfbefb590fbabdb5e4ec94f08d49] (1) This Part makes provision about the identification and valuation of the asset for the purposes of calculating the amount of the asset-based penalty.
+**10.**[^c-905dcfbefb590fbabdb5e4ec94f08d49] (1) This Part makes provision about the identification and valuation of the asset for the purposes of calculating the amount of the asset-based penalty.
 
 (2) An asset-based penalty may relate to more than one asset.
 
@@ -265,7 +265,7 @@ See also paragraph 14 (jointly held assets).
 
 #### Capital gains tax
 
-**11.**[^key-34de86a2fd8acd4ff90e58087d36892d] (1) This paragraph applies where the principal tax at stake is capital gains tax.
+**11.**[^c-34de86a2fd8acd4ff90e58087d36892d] (1) This paragraph applies where the principal tax at stake is capital gains tax.
 
 (2) The asset is the asset that is the subject of the disposal (or deemed disposal) on or by reference to which the capital gains tax to which the standard offshore penalty relates is charged.
 
@@ -277,7 +277,7 @@ See also paragraph 14 (jointly held assets).
 
 #### Inheritance tax
 
-**12.**[^key-85da641749f88d6d3ff0ba5c781f1d42] (1) This paragraph applies where the principal tax at stake is inheritance tax.
+**12.**[^c-85da641749f88d6d3ff0ba5c781f1d42] (1) This paragraph applies where the principal tax at stake is inheritance tax.
 
 (2) The asset is the property the disposition of which gave rise to the transfer of value by reason of which the inheritance tax to which the standard offshore penalty relates became chargeable.
 
@@ -287,7 +287,7 @@ See also paragraph 14 (jointly held assets).
 
 #### Asset-based income tax
 
-**13.**[^key-61c54f31b314fdb0768e5885986357f1] (1) This paragraph applies where the principal tax at stake is asset-based income tax.
+**13.**[^c-61c54f31b314fdb0768e5885986357f1] (1) This paragraph applies where the principal tax at stake is asset-based income tax.
 
 (2) Where the standard offshore tax penalty relates to income tax charged under a provision shown in column 1 of the Table, the asset is the asset mentioned in column 2 of the Table.
 
@@ -305,7 +305,7 @@ See also paragraph 14 (jointly held assets).
 | Chapter 4 of Part 5 of ITTOIA 2005 (certain telecommunication rights: non-trading income) | The relevant telecommunication right from which the income derives (see section 614 of ITTOIA 2005) |
 | Chapter 5 of Part 5 of ITTOIA 2005 (settlements: amounts treated as income of settlor) | The settlement which gives rise to the income or capital sums treated as income of a settlor |
 
-(2A)[^key-59ae87dbcb73972b34decb656c21597d] In relation to cases where the standard offshore penalty is a penalty falling within paragraph 2(4A), each reference to provisions of ITTOIA 2005 in column 1 of the Table in sub-paragraph (2) includes a reference—
+(2A)[^c-59ae87dbcb73972b34decb656c21597d] In relation to cases where the standard offshore penalty is a penalty falling within paragraph 2(4A), each reference to provisions of ITTOIA 2005 in column 1 of the Table in sub-paragraph (2) includes a reference—
 
 - (a) to the corresponding provisions of the legislation in force immediately before those provisions of ITTOIA 2005 came into force (and to any previous text of those corresponding provisions), and
 - (b) to any other provision that had the same purpose as, or a similar purpose to, any of those corresponding provisions (or any earlier text mentioned in paragraph (a)), if and so far as that other provision was in force—
@@ -335,7 +335,7 @@ See also paragraph 14 (jointly held assets).
 
 #### Jointly held assets
 
-**14.**[^key-83ea61c80e6ce6a9aafb2e5daff9613f] (1) This paragraph applies where an asset-based penalty is chargeable in relation to an asset that is jointly held by P and another person (A).
+**14.**[^c-83ea61c80e6ce6a9aafb2e5daff9613f] (1) This paragraph applies where an asset-based penalty is chargeable in relation to an asset that is jointly held by P and another person (A).
 
 (2) The value of the asset is to be taken to be the value of P's share of the asset.
 
@@ -350,7 +350,7 @@ the asset is to be taken to be jointly owned by P and A in equal shares, unless 
 
 #### Assessment
 
-**15.**[^key-9d6ff54d23057ab1b2832f0b15ecf8ec] (1) Where a person (P) becomes liable for an asset-based penalty under paragraph 1, HMRC must—
+**15.**[^c-9d6ff54d23057ab1b2832f0b15ecf8ec] (1) Where a person (P) becomes liable for an asset-based penalty under paragraph 1, HMRC must—
 
 - (a) assess the penalty,
 - (b) notify P, and
@@ -372,18 +372,18 @@ the asset is to be taken to be jointly owned by P and A in equal shares, unless 
 
 #### Appeal
 
-**16.**[^key-7417ce57849a4636ca07b3b993d30ed7] (1) P may appeal against a decision of HMRC that a penalty is payable by P.
+**16.**[^c-7417ce57849a4636ca07b3b993d30ed7] (1) P may appeal against a decision of HMRC that a penalty is payable by P.
 
 (2) P may appeal against a decision of HMRC as to the amount of a penalty payable by P.
 
-**17.**[^key-e4f8d66fc501a27fc8a76ebf1b9655e6] (1) An appeal is to be treated in the same way as an appeal against an assessment to the tax concerned (including by the application of any provision about bringing the appeal by notice to HMRC, about HMRC review of the decision or about determination of the appeal by the First-tier Tribunal or the Upper Tribunal).
+**17.**[^c-e4f8d66fc501a27fc8a76ebf1b9655e6] (1) An appeal is to be treated in the same way as an appeal against an assessment to the tax concerned (including by the application of any provision about bringing the appeal by notice to HMRC, about HMRC review of the decision or about determination of the appeal by the First-tier Tribunal or the Upper Tribunal).
 
 (2) Sub-paragraph (1) does not apply—
 
 - (a) so as to require P to pay a penalty before an appeal against the assessment of the penalty is determined, or
 - (b) in respect of any other matter expressly provided for by this Schedule.
 
-**18.**[^key-f3d765c72cf38c49c3012430dbb9b41c] (1) On an appeal under paragraph 16(1), the tribunal may affirm or cancel HMRC's decision.
+**18.**[^c-f3d765c72cf38c49c3012430dbb9b41c] (1) On an appeal under paragraph 16(1), the tribunal may affirm or cancel HMRC's decision.
 
 (2) On an appeal under paragraph 16(2), the tribunal may—
 
@@ -403,7 +403,7 @@ the asset is to be taken to be jointly owned by P and A in equal shares, unless 
 
 #### Interpretation
 
-**19.**[^key-2f218656495e96ae31023e131763a6b9] (1) In this Schedule—
+**19.**[^c-2f218656495e96ae31023e131763a6b9] (1) In this Schedule—
 
 - “**asset**” has the same meaning as in TCGA 1992 (but also includes currency in sterling);
 - “**asset-based income tax**” has the meaning given in paragraph 2(7);
@@ -413,13 +413,13 @@ the asset is to be taken to be jointly owned by P and A in equal shares, unless 
 - “**standard amount of the asset-based penalty**” has the meaning given in paragraph 7;
 - “**standard offshore tax penalty**” has the meaning given in paragraph 2.
 
-(2) Terms used in relation to a penalty imposed under Schedule 24 to FA 2007, Schedule 41 to FA 2008 Schedule 55 to[^key-aef93a39aef19bc6a8e9233a84991a02] FA 2009 or Part 1 of Schedule 18 to *(affected by repeal, see note)*[^key-d061981102a12da66c2ac1c3544ee6e0] FA 2017 *(affected by repeal, see note)*[^key-d061981102a12da66c2ac1c3544ee6e0] , Part 1 of Schedule 18 to F(No.2)A 2017 or Schedule 25 to FA 2021 have the same meaning as in the Schedule under which the penalty was imposed.
+(2) Terms used in relation to a penalty imposed under Schedule 24 to FA 2007, Schedule 41 to FA 2008 Schedule 55 to[^c-aef93a39aef19bc6a8e9233a84991a02] FA 2009 or Part 1 of Schedule 18 to *(affected by repeal, see note)*[^c-d061981102a12da66c2ac1c3544ee6e0] FA 2017 *(affected by repeal, see note)*[^c-d061981102a12da66c2ac1c3544ee6e0] , Part 1 of Schedule 18 to F(No.2)A 2017 or Schedule 25 to FA 2021 have the same meaning as in the Schedule under which the penalty was imposed.
 
 (3) References in this Schedule to capital gains tax do not include capital gains tax payable by companies in respect of chargeable gains accruing to them to the extent that those gains are NRCGT gains in respect of which the companies are chargeable to capital gains tax under section 14D or 188D of TCGA 1992 (see section 1(2A)(b) of that Act).
 
 #### Consequential amendments etc
 
-**20.**[^key-fe904f17a1b30f1ca5634a62716be1d4] (1) In section 103ZA to TMA 1970 (disapplication of sections 100 to 103 in case of certain penalties), omit the “or” at the end of paragraph (h), and at the end insert
+**20.**[^c-fe904f17a1b30f1ca5634a62716be1d4] (1) In section 103ZA to TMA 1970 (disapplication of sections 100 to 103 in case of certain penalties), omit the “or” at the end of paragraph (h), and at the end insert
 
 > , or
 >
@@ -447,82 +447,82 @@ the asset is to be taken to be jointly owned by P and A in equal shares, unless 
 >
 > - (d) a penalty under Schedule 22 to FA 2016 (asset-based penalty).
 
-**21.**[^key-55db949ef0e2459c257c6816c9361700] Section 97A of TMA 1970 (two or more tax-geared penalties in respect of same tax) does not apply in relation to an asset-based penalty imposed under this Schedule.
+**21.**[^c-55db949ef0e2459c257c6816c9361700] Section 97A of TMA 1970 (two or more tax-geared penalties in respect of same tax) does not apply in relation to an asset-based penalty imposed under this Schedule.
 
 ## Annotations
 
-[^key-bbcce16f3c25c41fc87f9b5d3d225d4c]: Commencement: Sch. 22 para. 1 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-bbcce16f3c25c41fc87f9b5d3d225d4c]: Commencement: Sch. 22 para. 1 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-d06469aa256927cc917f80ac83384147]: Commencement: Sch. 22 para. 2 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-d06469aa256927cc917f80ac83384147]: Commencement: Sch. 22 para. 2 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-a34c9ef449507d31b315a36db1a38f79]: Textual amendment: Words in Sch. 22 para. 2(1) substituted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/2/a)
+[^c-a34c9ef449507d31b315a36db1a38f79]: Textual amendment: Words in Sch. 22 para. 2(1) substituted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/2/a)
 
-[^key-b2de86107d4de16c38cb4afb42df0efe]: Textual amendment: Words in [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/2/1) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/2/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-b2de86107d4de16c38cb4afb42df0efe]: Textual amendment: Words in [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/2/1) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/2/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-a15af229201d7acc32e0cf6902e3fd2a]: Textual amendment: Sch. 22 para. 2(4A) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/2/b)
+[^c-a15af229201d7acc32e0cf6902e3fd2a]: Textual amendment: Sch. 22 para. 2(4A) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/2/b)
 
-[^key-063161e65f664327bad4c5aa07ff7a03]: Textual amendment: Word in [Sch. 22 para. 2(4A)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/2/4A) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/2/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-063161e65f664327bad4c5aa07ff7a03]: Textual amendment: Word in [Sch. 22 para. 2(4A)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/2/4A) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/2/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-bd69e4c6f431f02e1bb3baf50b65fe04]: Textual amendment: [Sch. 22 para. 2(4B)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/2/4B) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/2/c); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-bd69e4c6f431f02e1bb3baf50b65fe04]: Textual amendment: [Sch. 22 para. 2(4B)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/2/4B) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/2/c); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-c8853ace0440ae54fb23d40a77302f4c]: Textual amendment: Sch. 22 para. 2(5A) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/2/c)
+[^c-c8853ace0440ae54fb23d40a77302f4c]: Textual amendment: Sch. 22 para. 2(5A) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/2/c)
 
-[^key-117fbbcb4370633edcbe9972911ad25e]: Commencement: Sch. 22 para. 3 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-117fbbcb4370633edcbe9972911ad25e]: Commencement: Sch. 22 para. 3 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-55929a7c587f085eb4f918ecf60ecf43]: Textual amendment: Sch. 22 para. 3(4)(5) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/3)
+[^c-55929a7c587f085eb4f918ecf60ecf43]: Textual amendment: Sch. 22 para. 3(4)(5) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/3)
 
-[^key-f2c0e86e08f2f0cb56d2dc65338ef0d1]: Textual amendment: [Sch. 22 para. 3(4A)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/3/4A) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/3); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-f2c0e86e08f2f0cb56d2dc65338ef0d1]: Textual amendment: [Sch. 22 para. 3(4A)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/3/4A) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/3); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-9000d91b310e5481e44214204425f545]: Commencement: Sch. 22 para. 4 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-9000d91b310e5481e44214204425f545]: Commencement: Sch. 22 para. 4 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-c1382250fe152ddd639263df1eb26bc4]: Commencement: Sch. 22 para. 5 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-c1382250fe152ddd639263df1eb26bc4]: Commencement: Sch. 22 para. 5 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-23f47cbea90a0e99f20c3fb924d8c4b0]: Textual amendment: Words in Sch. 22 para. 5(1)(a) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/4)
+[^c-23f47cbea90a0e99f20c3fb924d8c4b0]: Textual amendment: Words in Sch. 22 para. 5(1)(a) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/4)
 
-[^key-d083a7f01e6ade8dddfe0752a78cc463]: Textual amendment: Words in [Sch. 22 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/5/1/b) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(4)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/4/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-d083a7f01e6ade8dddfe0752a78cc463]: Textual amendment: Words in [Sch. 22 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/5/1/b) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(4)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/4/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-272a76350527e6975cc9945f0f1bc578]: Textual amendment: Words in [Sch. 22 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/5/2/a) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(4)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/4/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-272a76350527e6975cc9945f0f1bc578]: Textual amendment: Words in [Sch. 22 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/5/2/a) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(4)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/4/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-a54179953adc64ca74e8e71720ca5603]: Commencement: Sch. 22 para. 6 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-a54179953adc64ca74e8e71720ca5603]: Commencement: Sch. 22 para. 6 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-9dd5347679c0cb44be8628de3ecddaf9]: Textual amendment: Words in Sch. 22 para. 6(1)(a) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/5)
+[^c-9dd5347679c0cb44be8628de3ecddaf9]: Textual amendment: Words in Sch. 22 para. 6(1)(a) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/5)
 
 [^M_F_2a4cb827-23db-49d8-a7a3-b899fe014d2a]: Textual amendment: Sch. 22 para. 6A inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/5)
 
-[^key-5c6f6ff2a05850d4895e1594f8970b67]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/7) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-5c6f6ff2a05850d4895e1594f8970b67]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/7) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-7f199ecab861d011acb987df4c762465]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/8) in force at 8.3.2017 for specified purposes by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/a)
+[^c-7f199ecab861d011acb987df4c762465]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/8) in force at 8.3.2017 for specified purposes by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/a)
 
-[^key-8bd1d15d65f355b3c4d750bad1b874aa]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/8) in force at 1.4.2017 in so far as not already in force and with effect in accordance with reg. 2(b) of the commencing S.I. by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-8bd1d15d65f355b3c4d750bad1b874aa]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/8) in force at 1.4.2017 in so far as not already in force and with effect in accordance with reg. 2(b) of the commencing S.I. by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-850a902c8fed90a040f4c406688d8300]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/9) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-850a902c8fed90a040f4c406688d8300]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/9) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-905dcfbefb590fbabdb5e4ec94f08d49]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/10) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-905dcfbefb590fbabdb5e4ec94f08d49]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/10) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-34de86a2fd8acd4ff90e58087d36892d]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/11) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-34de86a2fd8acd4ff90e58087d36892d]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/11) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-85da641749f88d6d3ff0ba5c781f1d42]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/12) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-85da641749f88d6d3ff0ba5c781f1d42]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/12) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-61c54f31b314fdb0768e5885986357f1]: Commencement: Sch. 22 para. 13 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-61c54f31b314fdb0768e5885986357f1]: Commencement: Sch. 22 para. 13 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-59ae87dbcb73972b34decb656c21597d]: Textual amendment: Sch. 22 para. 13(2A) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/7)
+[^c-59ae87dbcb73972b34decb656c21597d]: Textual amendment: Sch. 22 para. 13(2A) inserted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/7)
 
-[^key-83ea61c80e6ce6a9aafb2e5daff9613f]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/14) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-83ea61c80e6ce6a9aafb2e5daff9613f]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/14) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-9d6ff54d23057ab1b2832f0b15ecf8ec]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/15) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-9d6ff54d23057ab1b2832f0b15ecf8ec]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/15) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-7417ce57849a4636ca07b3b993d30ed7]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/16) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-7417ce57849a4636ca07b3b993d30ed7]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/16) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-e4f8d66fc501a27fc8a76ebf1b9655e6]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/17) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-e4f8d66fc501a27fc8a76ebf1b9655e6]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/17) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-f3d765c72cf38c49c3012430dbb9b41c]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/18) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-f3d765c72cf38c49c3012430dbb9b41c]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/18) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-2f218656495e96ae31023e131763a6b9]: Commencement: Sch. 22 para. 19 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-2f218656495e96ae31023e131763a6b9]: Commencement: Sch. 22 para. 19 in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-aef93a39aef19bc6a8e9233a84991a02]: Textual amendment: Words in [Sch. 22 para. 19(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/19/2) substituted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/8)
+[^c-aef93a39aef19bc6a8e9233a84991a02]: Textual amendment: Words in [Sch. 22 para. 19(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/19/2) substituted (with effect in accordance with Sch. 18 paras. 2-13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 18 para. 28(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/18/paragraph/28/8)
 
-[^key-d061981102a12da66c2ac1c3544ee6e0]: Textual amendment: Words in [Sch. 22 para. 19(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/19/2) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/5); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-d061981102a12da66c2ac1c3544ee6e0]: Textual amendment: Words in [Sch. 22 para. 19(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/19/2) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 48(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48/5); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-fe904f17a1b30f1ca5634a62716be1d4]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/20) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-fe904f17a1b30f1ca5634a62716be1d4]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/20) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
 
-[^key-55db949ef0e2459c257c6816c9361700]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/21) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)
+[^c-55db949ef0e2459c257c6816c9361700]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2016/24/schedule/22/paragraph/21) in force at 1.4.2017 with effect in accordance with reg. 2(b) by [S.I. 2017/277](https://www.legislation.gov.uk/uksi/2017/277), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/277/regulation/2/b)

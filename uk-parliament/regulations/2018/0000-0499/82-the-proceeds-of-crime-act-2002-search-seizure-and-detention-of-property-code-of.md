@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime, England And Wales
 
-The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order 2018 (revoked)[^key-8cfbc2c9864527fdb4e52b950c68fb90]
+The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order 2018 (revoked)[^c-8cfbc2c9864527fdb4e52b950c68fb90]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into force
 
 31st January 2018
 
-[^key-8cfbc2c9864527fdb4e52b950c68fb90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8cfbc2c9864527fdb4e52b950c68fb90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8cfbc2c9864527fdb4e52b950c68fb90]
+## 1. Citation and commencement[^c-8cfbc2c9864527fdb4e52b950c68fb90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-8cfbc2c9864527fdb4e52b950c68fb90]
+## 2. Revised code of practice[^c-8cfbc2c9864527fdb4e52b950c68fb90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8cfbc2c9864527fdb4e52b950c68fb90]
+## 3. Revocation[^c-8cfbc2c9864527fdb4e52b950c68fb90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8cfbc2c9864527fdb4e52b950c68fb90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8cfbc2c9864527fdb4e52b950c68fb90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8cfbc2c9864527fdb4e52b950c68fb90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8cfbc2c9864527fdb4e52b950c68fb90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8cfbc2c9864527fdb4e52b950c68fb90]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/82) revoked (26.4.2024) by [The Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Regulations 2024 (S.I. 2024/551)](https://www.legislation.gov.uk/uksi/2024/551), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/551/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/551/regulation/4/a)
+[^c-8cfbc2c9864527fdb4e52b950c68fb90]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/82) revoked (26.4.2024) by [The Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Regulations 2024 (S.I. 2024/551)](https://www.legislation.gov.uk/uksi/2024/551), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/551/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/551/regulation/4/a)

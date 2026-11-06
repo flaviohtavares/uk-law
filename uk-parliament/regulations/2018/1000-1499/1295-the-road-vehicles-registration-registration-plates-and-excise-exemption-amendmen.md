@@ -78,7 +78,7 @@ come into force on the twenty second day after the day on which these Regulation
 - (a) omit paragraph (1);
 - (b) for paragraph (2) substitute—
 
-  > (2) A registration document issued on or after IP completion day[^key-fdf2b8655f9fe82f0b504756fe2b6f70] must contain the following information, unless it is not available to the Secretary of State, and be in such form, and contain such other particulars, as the Secretary of State may specify—
+  > (2) A registration document issued on or after IP completion day[^c-fdf2b8655f9fe82f0b504756fe2b6f70] must contain the following information, unless it is not available to the Secretary of State, and be in such form, and contain such other particulars, as the Secretary of State may specify—
   >
   > - (a) the registration mark [^c23472371] of the vehicle;
   > - (b) the name and address of the keeper [^c23472381] of the vehicle;
@@ -343,7 +343,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23472361]: Marginal citation: Regulation 10A was inserted by [S.I. 2003/3073](https://www.legislation.gov.uk/uksi/2003/3073) and amended by [S.I. 2004/3298](https://www.legislation.gov.uk/uksi/2004/3298).
 
-[^key-fdf2b8655f9fe82f0b504756fe2b6f70]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles (Registration and Licensing) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1361)](https://www.legislation.gov.uk/uksi/2020/1361), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1361/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2020/1361/regulation/4/2)
+[^c-fdf2b8655f9fe82f0b504756fe2b6f70]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles (Registration and Licensing) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1361)](https://www.legislation.gov.uk/uksi/2020/1361), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1361/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2020/1361/regulation/4/2)
 
 [^c23472371]: Marginal citation: “Registration mark” is defined in section 62 of the [Vehicle Excise and Registration Act 1994 (c. 22)](https://www.legislation.gov.uk/ukpga/1994/22).
 

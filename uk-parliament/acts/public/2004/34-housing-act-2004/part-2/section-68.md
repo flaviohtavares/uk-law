@@ -27,7 +27,7 @@ summary: ''
 (3) A licence—
 
 - (a) comes into force at the time that is specified in or determined under the licence for this purpose, and
-- (b) unless previously terminated by subsection (7) or revoked under section 70 or 70A[^key-91461cf1852538b61a9f67867a6ab30c], continues in force for the period that is so specified or determined.
+- (b) unless previously terminated by subsection (7) or revoked under section 70 or 70A[^c-91461cf1852538b61a9f67867a6ab30c], continues in force for the period that is so specified or determined.
 
 (4) That period must not end more than 5 years after—
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c2051299]: Commencement: S. 68 wholly in force at 16.6.2006; s. 68 not in force at Royal Assent see s. 270(4)(5); s. 68 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 68 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-91461cf1852538b61a9f67867a6ab30c]: Textual amendment: Words in [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/68/3/b) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/4); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-91461cf1852538b61a9f67867a6ab30c]: Textual amendment: Words in [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/68/3/b) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/4); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

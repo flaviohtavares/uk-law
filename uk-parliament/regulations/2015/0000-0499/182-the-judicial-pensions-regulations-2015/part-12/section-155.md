@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Scheme manager to be scheme administrator for the purposes of Part 4 of Finance Act 2004[^key-8b02709622ec8b19763e399d84f535a6]
+## 155. Scheme manager to be scheme administrator for the purposes of Part 4 of Finance Act 2004[^c-8b02709622ec8b19763e399d84f535a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager is appointed to be responsible for all functions that are fun
 
 ## Annotations
 
-[^key-8b02709622ec8b19763e399d84f535a6]: Commencement: [Reg. 155](https://www.legislation.gov.uk/uksi/2015/182/regulation/155) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-8b02709622ec8b19763e399d84f535a6]: Commencement: [Reg. 155](https://www.legislation.gov.uk/uksi/2015/182/regulation/155) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

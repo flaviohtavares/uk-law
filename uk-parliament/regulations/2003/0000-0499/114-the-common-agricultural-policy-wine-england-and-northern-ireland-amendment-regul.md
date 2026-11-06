@@ -45,7 +45,7 @@ Coming into force
 
 17th February 2003
 
-[^key-3ce1a76f51e6e64f269b6051877353d3]The Secretary of State [^c4986971], being a Minister designated [^c4986981] for the purposes of section 2(2) of the European Communities Act 1972 [^c4986991] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on her by that section, hereby makes the following Regulations—
+[^c-3ce1a76f51e6e64f269b6051877353d3]The Secretary of State [^c4986971], being a Minister designated [^c4986981] for the purposes of section 2(2) of the European Communities Act 1972 [^c4986991] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on her by that section, hereby makes the following Regulations—
 
 ## 1. Title, extent and commencement
 
@@ -182,7 +182,7 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 ## Annotations
 
-[^key-3ce1a76f51e6e64f269b6051877353d3]: Textual amendment: Regulations revoked (E.) (30.3.2009) by [The Wine Regulations 2009 (S.I. 2009/386)](https://www.legislation.gov.uk/uksi/2009/386), [regs. 1](https://www.legislation.gov.uk/uksi/2009/386/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2009/386/regulation/17/b)
+[^c-3ce1a76f51e6e64f269b6051877353d3]: Textual amendment: Regulations revoked (E.) (30.3.2009) by [The Wine Regulations 2009 (S.I. 2009/386)](https://www.legislation.gov.uk/uksi/2009/386), [regs. 1](https://www.legislation.gov.uk/uksi/2009/386/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2009/386/regulation/17/b)
 
 [^c4986971]: Marginal citation: The functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
 

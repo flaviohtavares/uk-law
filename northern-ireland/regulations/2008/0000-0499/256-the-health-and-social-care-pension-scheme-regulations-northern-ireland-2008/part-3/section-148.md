@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Distribution of pensionable earnings between principal dental practitioners employed or engaged by the same GDS provider[^key-46d5d00836bef224f31f94bbe3112c30]
+## 148. Distribution of pensionable earnings between principal dental practitioners employed or engaged by the same GDS provider[^c-46d5d00836bef224f31f94bbe3112c30]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46d5d00836bef224f31f94bbe3112c30]: Textual amendment: [Reg. 148](https://www.legislation.gov.uk/nisr/2008/256/regulation/148) omitted (14.3.2012) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2012/42/regulation/22)
+[^c-46d5d00836bef224f31f94bbe3112c30]: Textual amendment: [Reg. 148](https://www.legislation.gov.uk/nisr/2008/256/regulation/148) omitted (14.3.2012) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2012/42/regulation/22)

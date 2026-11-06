@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Powers of 2004 Act authority employee in Scotland[^key-5ec31f8eb2227324f316ee6537356fe7]
+## 21. Powers of 2004 Act authority employee in Scotland[^c-5ec31f8eb2227324f316ee6537356fe7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ec31f8eb2227324f316ee6537356fe7]: Commencement: Art. 21 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-5ec31f8eb2227324f316ee6537356fe7]: Commencement: Art. 21 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

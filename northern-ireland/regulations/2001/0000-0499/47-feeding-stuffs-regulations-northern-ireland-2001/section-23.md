@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Modification of section 74A(3) of the Agriculture Act 1970[^key-e3430d64d558eb41984f1339dc4df77c]
+## 23. Modification of section 74A(3) of the Agriculture Act 1970[^c-e3430d64d558eb41984f1339dc4df77c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3430d64d558eb41984f1339dc4df77c]: Commencement: Reg. 23 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-e3430d64d558eb41984f1339dc4df77c]: Commencement: Reg. 23 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

@@ -31,7 +31,7 @@ summary: ''
 
 within such further period as the tribunal considers reasonable.
 
-(2A)[^key-5b586cdb8df35c61288b832430439c57] Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-5b586cdb8df35c61288b832430439c57] Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where the tribunal finds the complaint well-founded, it shall make a declaration to that effect.
 
@@ -39,4 +39,4 @@ within such further period as the tribunal considers reasonable.
 
 ## Annotations
 
-[^key-5b586cdb8df35c61288b832430439c57]: Textual amendment: [Art. 33(2A)](https://www.legislation.gov.uk/nisi/1995/1980/article/33/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/4); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-5b586cdb8df35c61288b832430439c57]: Textual amendment: [Art. 33(2A)](https://www.legislation.gov.uk/nisi/1995/1980/article/33/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/4); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

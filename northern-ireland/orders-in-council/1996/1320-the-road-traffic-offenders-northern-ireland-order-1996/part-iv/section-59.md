@@ -34,7 +34,7 @@ whichever is the less.
 - (c) the area, or sort of place, where it takes place; and
 - (d) whether the offender appears to have committed any offence or offences of a description specified in the order during a period so specified.
 
-(3)[^key-2ef3cafcce4d3589404fa9f3733beb38] Where—
+(3)[^c-2ef3cafcce4d3589404fa9f3733beb38] Where—
 
 - (a) the fixed penalty is in respect of—
   - (i) a notice under Article 60 relating to an offence involving obligatory endorsement; or
@@ -49,4 +49,4 @@ the fixed penalty is increased by the amount of the offender levy determined und
 
 [^c2048581]: Textual amendment: [Art. 59(2)](https://www.legislation.gov.uk/nisi/1996/1320/article/59/2) inserted (12.9.2011) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [22](https://www.legislation.gov.uk/nisi/2007/916/article/22); [S.R. 2011/286](https://www.legislation.gov.uk/nisr/2011/286), [art. 2](https://www.legislation.gov.uk/nisr/2011/286/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/286/schedule)
 
-[^key-2ef3cafcce4d3589404fa9f3733beb38]: Textual amendment: [Art. 59(3)](https://www.legislation.gov.uk/nisi/1996/1320/article/59/3) inserted (8.12.2016) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 5(5)](https://www.legislation.gov.uk/nia/2011/24/section/5/5), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [Sch. 6 para. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/6/paragraph/1)); [S.R. 2016/424](https://www.legislation.gov.uk/nisr/2016/424), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/424/article/2/c)
+[^c-2ef3cafcce4d3589404fa9f3733beb38]: Textual amendment: [Art. 59(3)](https://www.legislation.gov.uk/nisi/1996/1320/article/59/3) inserted (8.12.2016) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 5(5)](https://www.legislation.gov.uk/nia/2011/24/section/5/5), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [Sch. 6 para. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/6/paragraph/1)); [S.R. 2016/424](https://www.legislation.gov.uk/nisr/2016/424), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/424/article/2/c)

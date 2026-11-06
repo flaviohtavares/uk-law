@@ -22,7 +22,7 @@ summary: ''
 
 Article 4
 
-### 1. Interpretation[^key-260ab3c429c6d41708ef821b18c33d51]
+### 1. Interpretation[^c-260ab3c429c6d41708ef821b18c33d51]
 
 In this Schedule—
 
@@ -42,11 +42,11 @@ In this Schedule—
 - “**mitigation schedule**” means the document of that description referred to in Schedule 13 (documents and plans to be certified) certified by the Secretary of State as the mitigation schedule for the purposes of this Order; and
 - “**National Highways**” means National Highways Limited (company number 09346363) whose registered office is Bridge House, 1 Walnut Tree Close, Guildford, Surrey GU1 4LZ or any such successor or replacement body that may from time to time be primarily responsible for the functions, duties and responsibilities currently exercised by that statutory body.
 
-### 2. Time limit[^key-e08f498204ad5b47660ea3caa9bbcdf8]
+### 2. Time limit[^c-e08f498204ad5b47660ea3caa9bbcdf8]
 
 The authorised development must not begin after the expiry of seven years from the date on which this Order comes into force.
 
-### 3. Approved details and amendments to them[^key-cd9b6160900257be585750d39231f573]
+### 3. Approved details and amendments to them[^c-cd9b6160900257be585750d39231f573]
 
 (1) Subject to sub-paragraph (2), with respect to any plans, details or schemes which have been approved pursuant to any requirement and the percentage of any biodiversity net gain units referred to in requirement 12(3)(e) (together the “Approved Documents, Plans, Details or Schemes”), the undertaker may submit to the relevant approving body for approval in writing any amendments to any of the Approved Documents, Plans, Details or Schemes and, following approval by the relevant approving body, the relevant Approved Documents, Plans, Details or Schemes is to be taken to include the amendments as so approved pursuant to this paragraph.
 
@@ -58,7 +58,7 @@ The authorised development must not begin after the expiry of seven years from t
 - (b) for the purposes of requirements 17 (river wall) and 18 (flood risk mitigation), the Environment Agency; and
 - (c) for the purpose of requirement 19 (navigation risk assessment), the PLA.
 
-### 4. Detailed design[^key-adcb6d51f5103026872a703b90c630e1]
+### 4. Detailed design[^c-adcb6d51f5103026872a703b90c630e1]
 
 (1) No part of Work No. 1, Work No. 2 (except for internal modifications to existing plant, equipment and apparatus under Work No. 2A(iii), 2B(iii) and 2C(i)) or Work No. 5 may commence until details of the layout, scale and external appearance for that part of those Work Nos. have been submitted to and approved by the relevant planning authority in writing and that part of the authorised development must be designed and constructed in accordance with the details approved under this sub-paragraph.
 
@@ -76,15 +76,15 @@ The authorised development must not begin after the expiry of seven years from t
 
 (6) The detailed design of the authorised development must take into account the climate variables considered in the environmental statement.
 
-### 5. Permitted preliminary works[^key-54f9522c43fb7cca6829838910b724f9]
+### 5. Permitted preliminary works[^c-54f9522c43fb7cca6829838910b724f9]
 
 The permitted preliminary works must be carried out in accordance with the measures set out in appendix 2.1 of the environmental statement.
 
-### 6. Notice of date of final commissioning[^key-f380ec1927edb4532cd655a2acbad428]
+### 6. Notice of date of final commissioning[^c-f380ec1927edb4532cd655a2acbad428]
 
 Within seven days of the completion of the commissioning of Work No. 1, the undertaker must provide the relevant planning authority, the PLA and the Environment Agency with notice of the date of final commissioning.
 
-### 7. Code of construction practice[^key-d27f427ddaf75286b58c8627a469fd13]
+### 7. Code of construction practice[^c-d27f427ddaf75286b58c8627a469fd13]
 
 (1) No part of the authorised development may commence until a code of construction practice for that part has been submitted to and approved by the relevant planning authority in writing, in consultation with the WRWA and, where the code of construction practice submitted relates to construction activities in the river Thames, emergency planning or opportunities to use the river Thames to transport equipment or materials during construction, the PLA. The code of construction practice submitted for approval must be substantially in accordance with the outline code of construction practice to the extent that it is applicable to that part and must be accompanied by, or include, the following—
 
@@ -102,7 +102,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) The construction of each part of the authorised development must be undertaken in accordance with the approved code of construction practice for that part.
 
-### 8. Construction Hours[^key-ae9443fde88b110d26b3b7195c034745]
+### 8. Construction Hours[^c-ae9443fde88b110d26b3b7195c034745]
 
 (1) The construction of the authorised development must not take place on Sundays, bank holidays nor otherwise outside the hours of—
 
@@ -118,7 +118,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) In this requirement “**emergency**” means a situation where, if the relevant action is not taken, there will be adverse health, safety, security or environmental consequences that in the reasonable opinion of the undertaker would outweigh the adverse effects to the public (whether individual classes or generally as the case may be) of taking that action.
 
-### 9. Construction traffic management plan[^key-0b4dd363ba7dc6e43ebdd266381a4807]
+### 9. Construction traffic management plan[^c-0b4dd363ba7dc6e43ebdd266381a4807]
 
 (1) No part of the authorised development may commence until a construction traffic management plan (which must be substantially in accordance with the framework construction traffic management plan) for that part has been submitted to and approved by the relevant planning authority in writing, in consultation with the relevant highways authority, Dartford Borough Council, Kent County Council, National Highways and WRWA.
 
@@ -126,7 +126,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) The construction of each part of the authorised development must be undertaken in accordance with the approved construction traffic management plan for that part.
 
-### 10. Emergency preparedness and response plan[^key-ce5eff3f37e3b8049709bd9bbb527eb7]
+### 10. Emergency preparedness and response plan[^c-ce5eff3f37e3b8049709bd9bbb527eb7]
 
 (1) Work Nos. 1 and 4 must not be fully commissioned until an emergency preparedness and response plan has been submitted to and approved by the relevant planning authority in writing, in consultation with the Environment Agency, lead local flood authority, the London Fire Brigade and, in respect of Work No. 4 only, the PLA.
 
@@ -136,7 +136,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (4) The emergency preparedness and response plan must be implemented as approved under sub-paragraph (1) and maintained throughout the operation of the relevant part of Work Nos. 1 or 4 to which the plan or plans relate.
 
-### 11. Lighting strategy[^key-e253d3313f551d2028e4e5fd079cc9b6]
+### 11. Lighting strategy[^c-e253d3313f551d2028e4e5fd079cc9b6]
 
 (1) No part of the authorised development may commence until a lighting strategy for that part has been submitted to and approved by the relevant planning authority in writing, in consultation with the PLA.
 
@@ -144,7 +144,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) Any lighting strategy approved under sub-paragraph (1) must be implemented and maintained throughout the operation of the relevant part of the authorised development to which the strategy relates.
 
-### 12. Landscape, biodiversity, access and recreation delivery strategy[^key-b2efd88976714156d6dcd7b435de4e47]
+### 12. Landscape, biodiversity, access and recreation delivery strategy[^c-b2efd88976714156d6dcd7b435de4e47]
 
 (1) No part of the authorised development may commence until a written landscape, biodiversity, access and recreation delivery strategy for that part has been submitted to and approved by the relevant planning authority in writing, in consultation with TWUL.
 
@@ -177,7 +177,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 - (c) relevant information setting out the steps (being reasonable steps) that the undertaker has undertaken to secure delivery of the BNG Opportunity Area as the preferred location for offsite works and either—
   - (i) provide confirmation that the BNG Opportunity Area has been secured as the location for offsite works; or
   - (ii) where the BNG Opportunity Area has not been able to be secured as the location for offsite works, provide full details of a proposed alternative location for offsite works; and
-- (d) relevant information setting out the steps that the undertaker has taken (being reasonable steps) to secure delivery of land that could be[^key-0c64ac1aead4f59cea0960aa2f8c93cc] designated as a non-statutory site of importance for nature conservation as compensation for the area of such designated land lost as a result of the proposed development, and either—
+- (d) relevant information setting out the steps that the undertaker has taken (being reasonable steps) to secure delivery of land that could be[^c-0c64ac1aead4f59cea0960aa2f8c93cc] designated as a non-statutory site of importance for nature conservation as compensation for the area of such designated land lost as a result of the proposed development, and either—
   - (i) provide confirmation that the BNG Opportunity Area has been secured as the location for this compensation; or
   - (ii) where the BNG Opportunity Area has not been able to be secured as the location for this compensation, provide full details of any proposed alternative location for this compensation.
 
@@ -194,7 +194,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 - (a) “**offsite works**” means any works that are required to deliver the outcomes set out in sub-paragraphs (3)(e) and 3(h) as part of the landscape, biodiversity, access and recreation delivery strategy submitted for approval under sub-paragraph (1) that are to take place outside of the Order limits; and
 - (b) “**BNG Opportunity Area**” means the area labelled as such on figure 7-7 of the environmental statement.
 
-### 13. Surface and foul water drainage[^key-8be494bcdc724f95839d6b8c34987319]
+### 13. Surface and foul water drainage[^c-8be494bcdc724f95839d6b8c34987319]
 
 (1) No part of the authorised development may commence until written details of the surface and foul water drainage strategy for that part have been submitted to and approved by the relevant planning authority in writing, in consultation with the lead local flood authority.
 
@@ -202,7 +202,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) Any surface and foul water drainage strategy approved under sub-paragraph (1) must be implemented and maintained throughout the operation of the relevant part of the authorised development to which the strategy relates.
 
-### 14. Operational environmental management plan[^key-30387a6679645cbef8aa00f2a0b65a35]
+### 14. Operational environmental management plan[^c-30387a6679645cbef8aa00f2a0b65a35]
 
 (1) No part of Work No. 1 may be fully commissioned until a written operational environmental management plan for that part has been submitted to and approved by the relevant planning authority in writing.
 
@@ -217,7 +217,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) Any operational environmental management plan approved under sub-paragraph (1) must be implemented and maintained throughout the operation of the relevant part of Work No. 1 to which the plan relates.
 
-### 15. Skills and employment plan[^key-0a4e3edb07870ae2e2456541606974fd]
+### 15. Skills and employment plan[^c-0a4e3edb07870ae2e2456541606974fd]
 
 (1) No part of Work No. 1 may commence until a skills and employment plan has been submitted to and approved by the relevant planning authority in writing.
 
@@ -225,7 +225,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) The skills and employment plan must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-### 16. Jetty works environmental design scheme[^key-1aa06f443a7189e6411cf03fa24440d9]
+### 16. Jetty works environmental design scheme[^c-1aa06f443a7189e6411cf03fa24440d9]
 
 (1) Work No. 4 must not commence until a jetty works environmental design scheme has been to submitted to and approved by the relevant planning authority in writing, in consultation with the Environment Agency and the PLA.
 
@@ -240,7 +240,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (5) The undertaker must carry out and maintain Work No. 4 in accordance with the approved jetty works environmental design scheme.
 
-### 17. River wall[^key-ce8fbb94b708fbfb7ebf44f99ee23c2c]
+### 17. River wall[^c-ce8fbb94b708fbfb7ebf44f99ee23c2c]
 
 (1) Subject to sub-paragraph (4), no part of Work No. 4 may commence until a river wall condition survey on those parts of the river wall within the order limits has been submitted to and approved by the Environment Agency in writing, in consultation with the relevant planning authority.
 
@@ -250,7 +250,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (4) No river wall condition survey is required to be undertaken under sub-paragraph (1) to the extent that any parts of the river wall have already been assessed as part of any survey undertaken pursuant to requirement 20 (river wall) in Schedule 2 (requirements) to the REP Order.
 
-### 18. Flood risk mitigation[^key-10c6e4fa5eeadb2e03a86a04e46cb5b9]
+### 18. Flood risk mitigation[^c-10c6e4fa5eeadb2e03a86a04e46cb5b9]
 
 (1) The authorised development must be carried out and operated in accordance with paragraphs 8.3.20 to 8.3.33 and 8.6.9 of the flood risk assessment.
 
@@ -269,13 +269,13 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (6) The undertaker must not continue operation of Work No. 1 beyond the 50th anniversary of the date of final commissioning unless the Environment Agency has given its approval under sub-paragraph (3) and the undertaker has complied with sub-paragraph (4), unless otherwise agreed in writing by the Environment Agency.
 
-### 19. Navigation risk assessment[^key-5437f0e846ebef93352cbe712a02a7db]
+### 19. Navigation risk assessment[^c-5437f0e846ebef93352cbe712a02a7db]
 
 (1) Prior to commencement of construction of Work No. 4, the undertaker must update the preliminary navigation risk assessment to take account of the detailed design and construction methodology of Work No. 4 and submit the updated navigation risk assessment to the PLA for its written approval, which must not be unreasonably withheld or delayed.
 
 (2) The construction and operation of the authorised development must be carried out in accordance with the updated navigation risk assessment approved under sub-paragraph (1).
 
-### 20. Control of noise during operation[^key-0e87dbd20c867da9db3603b266154a87]
+### 20. Control of noise during operation[^c-0e87dbd20c867da9db3603b266154a87]
 
 (1) Prior to commissioning of any part of Work No. 1, a written noise mitigation plan must be submitted to and approved by the relevant planning authority in writing which demonstrates how the maximum permitted limit set out in columns (2) and (3) of the below table will be achieved at the locations set out in column (1) of the below table, during operation of Work No. 1.
 
@@ -298,7 +298,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
   - (i) the reasons for the emergency; and
   - (ii) how long it expects the emergency to last.
 
-### 21. Ground conditions investigations and assessments strategy[^key-43be2bcec87dcdfb71c9439e347e1557]
+### 21. Ground conditions investigations and assessments strategy[^c-43be2bcec87dcdfb71c9439e347e1557]
 
 (1) No part of the authorised development may commence until a ground conditions investigations and assessments strategy for that part has been submitted to and approved by the relevant planning authority in writing, in consultation with the Environment Agency, the WRWA, and where the ground conditions investigations and assessments strategy submitted covers investigations and assessments to be carried out in the river Thames, the PLA. Such a strategy shall include a specific remediation strategy, if necessary.
 
@@ -306,7 +306,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (3) For the purposes of this paragraph, “**commence**” includes investigations for the purpose of assessing ground conditions (including the making of trial boreholes) and archaeological surveys and investigations.
 
-### 22. Archaeological mitigation strategy[^key-4ffd9bda65b3d7064270bb36ee136358]
+### 22. Archaeological mitigation strategy[^c-4ffd9bda65b3d7064270bb36ee136358]
 
 (1) No part of the authorised development may commence until an archaeological mitigation strategy, including any required written scheme of archaeological investigation (or multiple written schemes of archaeological investigation) for that part has been submitted to and approved by the relevant planning authority in writing, in consultation with the PLA and the MMO.
 
@@ -324,7 +324,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (4) For the purposes of this paragraph, “**commence**” includes archaeological surveys and investigations.
 
-### 23. Decommissioning environmental management plan[^key-98fd8e66cec4afc5d03b3533f1a6d686]
+### 23. Decommissioning environmental management plan[^c-98fd8e66cec4afc5d03b3533f1a6d686]
 
 (1) Within 12 months of the date that the undertaker decides to decommission any part of the authorised development, the undertaker must submit to the relevant planning authority for its written approval, after consultation with the Environment Agency and if the decommissioning environmental management plan to be submitted relates to decommissioning works within the river Thames, the PLA and the MMO, a decommissioning environmental management plan for that part.
 
@@ -345,7 +345,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (5) The date that the undertaker decides to decommission any part of the authorised development must be notified to the relevant planning authority no later than one month following that decision being made.
 
-### 24. Decommissioning traffic management plan[^key-4de65f1a60b6594153494365e583477d]
+### 24. Decommissioning traffic management plan[^c-4de65f1a60b6594153494365e583477d]
 
 (1) Within 12 months of the date that the undertaker decides to decommission any part of the authorised development, the undertaker must submit to the relevant planning authority for its written approval, after consultation with the relevant highway authority and National Highways, a decommissioning traffic management plan for that part.
 
@@ -360,7 +360,7 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 (5) The date that the undertaker decides to decommission any part of the authorised development must be notified to the relevant planning authority no later than one month following that decision being made.
 
-### 25. Heat Strategy[^key-e4a8ba232c4d45d95e1a24045574a020]
+### 25. Heat Strategy[^c-e4a8ba232c4d45d95e1a24045574a020]
 
 (1) No part of the authorised development may be commenced until the undertaker has submitted a heat strategy to the relevant planning authority for its written approval.
 
@@ -384,54 +384,54 @@ Within seven days of the completion of the commissioning of Work No. 1, the unde
 
 ## Annotations
 
-[^key-260ab3c429c6d41708ef821b18c33d51]: Commencement: Sch. 2 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-260ab3c429c6d41708ef821b18c33d51]: Commencement: Sch. 2 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-e08f498204ad5b47660ea3caa9bbcdf8]: Commencement: Sch. 2 para. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e08f498204ad5b47660ea3caa9bbcdf8]: Commencement: Sch. 2 para. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-cd9b6160900257be585750d39231f573]: Commencement: Sch. 2 para. 3 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-cd9b6160900257be585750d39231f573]: Commencement: Sch. 2 para. 3 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-adcb6d51f5103026872a703b90c630e1]: Commencement: Sch. 2 para. 4 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-adcb6d51f5103026872a703b90c630e1]: Commencement: Sch. 2 para. 4 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-54f9522c43fb7cca6829838910b724f9]: Commencement: Sch. 2 para. 5 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-54f9522c43fb7cca6829838910b724f9]: Commencement: Sch. 2 para. 5 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-f380ec1927edb4532cd655a2acbad428]: Commencement: Sch. 2 para. 6 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-f380ec1927edb4532cd655a2acbad428]: Commencement: Sch. 2 para. 6 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-d27f427ddaf75286b58c8627a469fd13]: Commencement: Sch. 2 para. 7 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-d27f427ddaf75286b58c8627a469fd13]: Commencement: Sch. 2 para. 7 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-ae9443fde88b110d26b3b7195c034745]: Commencement: Sch. 2 para. 8 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-ae9443fde88b110d26b3b7195c034745]: Commencement: Sch. 2 para. 8 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-0b4dd363ba7dc6e43ebdd266381a4807]: Commencement: Sch. 2 para. 9 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-0b4dd363ba7dc6e43ebdd266381a4807]: Commencement: Sch. 2 para. 9 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-ce5eff3f37e3b8049709bd9bbb527eb7]: Commencement: Sch. 2 para. 10 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-ce5eff3f37e3b8049709bd9bbb527eb7]: Commencement: Sch. 2 para. 10 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-e253d3313f551d2028e4e5fd079cc9b6]: Commencement: Sch. 2 para. 11 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e253d3313f551d2028e4e5fd079cc9b6]: Commencement: Sch. 2 para. 11 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-b2efd88976714156d6dcd7b435de4e47]: Commencement: Sch. 2 para. 12 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-b2efd88976714156d6dcd7b435de4e47]: Commencement: Sch. 2 para. 12 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-0c64ac1aead4f59cea0960aa2f8c93cc]: Textual amendment: Words in [Sch. 2 para. 12(5)(d)](https://www.legislation.gov.uk/uksi/2025/1227/schedule/2/paragraph/12/5/d) substituted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
+[^c-0c64ac1aead4f59cea0960aa2f8c93cc]: Textual amendment: Words in [Sch. 2 para. 12(5)(d)](https://www.legislation.gov.uk/uksi/2025/1227/schedule/2/paragraph/12/5/d) substituted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
 
-[^key-8be494bcdc724f95839d6b8c34987319]: Commencement: Sch. 2 para. 13 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-8be494bcdc724f95839d6b8c34987319]: Commencement: Sch. 2 para. 13 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-30387a6679645cbef8aa00f2a0b65a35]: Commencement: Sch. 2 para. 14 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-30387a6679645cbef8aa00f2a0b65a35]: Commencement: Sch. 2 para. 14 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-0a4e3edb07870ae2e2456541606974fd]: Commencement: Sch. 2 para. 15 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-0a4e3edb07870ae2e2456541606974fd]: Commencement: Sch. 2 para. 15 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-1aa06f443a7189e6411cf03fa24440d9]: Commencement: Sch. 2 para. 16 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-1aa06f443a7189e6411cf03fa24440d9]: Commencement: Sch. 2 para. 16 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-ce8fbb94b708fbfb7ebf44f99ee23c2c]: Commencement: Sch. 2 para. 17 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-ce8fbb94b708fbfb7ebf44f99ee23c2c]: Commencement: Sch. 2 para. 17 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-10c6e4fa5eeadb2e03a86a04e46cb5b9]: Commencement: Sch. 2 para. 18 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-10c6e4fa5eeadb2e03a86a04e46cb5b9]: Commencement: Sch. 2 para. 18 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-5437f0e846ebef93352cbe712a02a7db]: Commencement: Sch. 2 para. 19 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-5437f0e846ebef93352cbe712a02a7db]: Commencement: Sch. 2 para. 19 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-0e87dbd20c867da9db3603b266154a87]: Commencement: Sch. 2 para. 20 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-0e87dbd20c867da9db3603b266154a87]: Commencement: Sch. 2 para. 20 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-43be2bcec87dcdfb71c9439e347e1557]: Commencement: Sch. 2 para. 21 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-43be2bcec87dcdfb71c9439e347e1557]: Commencement: Sch. 2 para. 21 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-4ffd9bda65b3d7064270bb36ee136358]: Commencement: Sch. 2 para. 22 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-4ffd9bda65b3d7064270bb36ee136358]: Commencement: Sch. 2 para. 22 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-98fd8e66cec4afc5d03b3533f1a6d686]: Commencement: Sch. 2 para. 23 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-98fd8e66cec4afc5d03b3533f1a6d686]: Commencement: Sch. 2 para. 23 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-4de65f1a60b6594153494365e583477d]: Commencement: Sch. 2 para. 24 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-4de65f1a60b6594153494365e583477d]: Commencement: Sch. 2 para. 24 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-e4a8ba232c4d45d95e1a24045574a020]: Commencement: Sch. 2 para. 25 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e4a8ba232c4d45d95e1a24045574a020]: Commencement: Sch. 2 para. 25 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

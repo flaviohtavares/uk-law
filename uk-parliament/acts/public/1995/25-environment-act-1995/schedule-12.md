@@ -36,7 +36,7 @@ Section 92.
 >
 > **3.** Ensuring that the network referred to in paragraph 2 above enables—
 >
-> - (a) the European Union[^key-d529988f6461459dae3cbdaabe09791c] as a whole to become self-sufficient in waste disposal, and the Member States individually to move towards that aim, taking into account geographical circumstances or the need for specialised installations for certain types of waste; and
+> - (a) the European Union[^c-d529988f6461459dae3cbdaabe09791c] as a whole to become self-sufficient in waste disposal, and the Member States individually to move towards that aim, taking into account geographical circumstances or the need for specialised installations for certain types of waste; and
 > - (b) waste to be disposed of in one of the nearest appropriate installations, by means of the most appropriate methods and technologies in order to ensure a high level of protection for the environment and public health.
 >
 > **4.** Encouraging the prevention or reduction of waste production and its harmfulness, in particular by—
@@ -52,4 +52,4 @@ Section 92.
 
 ## Annotations
 
-[^key-d529988f6461459dae3cbdaabe09791c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-d529988f6461459dae3cbdaabe09791c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

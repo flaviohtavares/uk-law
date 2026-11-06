@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Power of designated body to charge fees[^key-20b5c1fa6ca89dab45e56b94d2c066b9]
+## 67. Power of designated body to charge fees[^c-20b5c1fa6ca89dab45e56b94d2c066b9]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20b5c1fa6ca89dab45e56b94d2c066b9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/29/section/67) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/g)
+[^c-20b5c1fa6ca89dab45e56b94d2c066b9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/29/section/67) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/g)

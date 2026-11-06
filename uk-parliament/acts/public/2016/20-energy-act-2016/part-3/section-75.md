@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. International oil and gas agreements: information exchange[^key-2b04672f99f017b4b6c078c3ef356b0c]
+## 75. International oil and gas agreements: information exchange[^c-2b04672f99f017b4b6c078c3ef356b0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b04672f99f017b4b6c078c3ef356b0c]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2016/20/section/75) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-2b04672f99f017b4b6c078c3ef356b0c]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2016/20/section/75) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Abolition of combined licences[^key-653a0f29a9d5d38ada92efcfbb242006]
+## 12. Abolition of combined licences[^c-653a0f29a9d5d38ada92efcfbb242006]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 36 of the WRA (combined abstraction and impounding licences) shall cease
 
 ## Annotations
 
-[^key-653a0f29a9d5d38ada92efcfbb242006]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2003/37/section/12) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(g)](https://www.legislation.gov.uk/uksi/2006/984/article/2/g) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-653a0f29a9d5d38ada92efcfbb242006]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2003/37/section/12) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(g)](https://www.legislation.gov.uk/uksi/2006/984/article/2/g) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

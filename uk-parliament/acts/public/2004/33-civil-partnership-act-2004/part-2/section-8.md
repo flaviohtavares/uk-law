@@ -38,14 +38,14 @@ and the authorised person must attest the declaration by adding his name, descri
 
 - (a) that the proposed civil partner believes that there is no impediment of kindred or affinity or other lawful hindrance to the formation of the civil partnership;
 - (b)[^c20585551] that the proposed civil partners have for the period of 7 days immediately before the giving of the notice had their usual places of residence in the area of the registration authority, or in the areas of the registration authorities, to which notice is given.
-- (c)[^key-70c90f7a023a85b6fbdffd91bbdb5160] that the proposed civil partner believes all of the information stated in the notice, and all information and evidence supplied with the notice, is true.
+- (c)[^c-70c90f7a023a85b6fbdffd91bbdb5160] that the proposed civil partner believes all of the information stated in the notice, and all information and evidence supplied with the notice, is true.
 
 (5) Where a notice of proposed civil partnership is given to a registration authority in accordance with this section, the registration authority must ensure that the following information is recorded in the register as soon as possible—
 
 - (a) the fact that the notice has been given and the information in it;
 - (b) the fact that the authorised person has attested the declaration.
 
-(5A)[^key-e40a431b7f4d3c505c26cd953867216d] Subsection (5) is subject to section 9F.
+(5A)[^c-e40a431b7f4d3c505c26cd953867216d] Subsection (5) is subject to section 9F.
 
 (6) “**Authorised person**” means an employee or officer or other person provided by a registration authority who is authorised by that authority to attest notices of proposed civil partnership.
 
@@ -59,6 +59,6 @@ and the authorised person must attest the declaration by adding his name, descri
 
 [^c20585551]: Textual amendment: S. 8(4)(b) substituted (5.12.2005) by [The Civil Partnership (Amendments to Registration Provisions) Order 2005 (S.I. 2005/2000)](https://www.legislation.gov.uk/uksi/2005/2000), [art. 3](https://www.legislation.gov.uk/uksi/2005/2000/article/3), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2005/2000/schedule/paragraph/4/3) (subject to [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2000/article/1/3))
 
-[^key-70c90f7a023a85b6fbdffd91bbdb5160]: Textual amendment: S. 8(4)(c) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/19/2) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-70c90f7a023a85b6fbdffd91bbdb5160]: Textual amendment: S. 8(4)(c) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/19/2) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-e40a431b7f4d3c505c26cd953867216d]: Textual amendment: S. 8(5A) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 19(3)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/19/3) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-e40a431b7f4d3c505c26cd953867216d]: Textual amendment: S. 8(5A) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 19(3)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/19/3) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

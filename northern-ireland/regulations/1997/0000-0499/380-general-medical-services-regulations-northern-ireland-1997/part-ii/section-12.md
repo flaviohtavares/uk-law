@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Board’s decision on applications and inclusion in the medical list[^key-2f90dbd9531c6dfabf127403c92fa532]
+## 12. Board’s decision on applications and inclusion in the medical list[^c-2f90dbd9531c6dfabf127403c92fa532]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f90dbd9531c6dfabf127403c92fa532]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-2f90dbd9531c6dfabf127403c92fa532]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

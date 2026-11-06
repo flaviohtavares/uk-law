@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Reduction in pension debit member’s benefits[^key-c3f202076b78f7694c9aa1994d0edc11]
+## 107. Reduction in pension debit member’s benefits[^c-c3f202076b78f7694c9aa1994d0edc11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled under these Regulations
 
 ## Annotations
 
-[^key-c3f202076b78f7694c9aa1994d0edc11]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2014/2848/regulation/107) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c3f202076b78f7694c9aa1994d0edc11]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2014/2848/regulation/107) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Passports
 
-The Passport (Fees) Regulations 2018 (revoked)[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+The Passport (Fees) Regulations 2018 (revoked)[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 Made
 
@@ -42,46 +42,46 @@ Coming into force
 
 27th March 2018
 
-[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## 1. Citation and commencement[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## 2. Interpretation[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## 3. Fees[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Waivers[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## 4. Waivers[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Refund of fees[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## 4A. Refund of fees[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Consular Fees Order 2012[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## 5. Amendment to the Consular Fees Order 2012[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Fees Payable[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]
+## SCHEDULE — Fees Payable[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4e9f3b12b5b4d8c46ad052dce10b40c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/414) revoked (5.7.2022) by [The Passport (Fees) Regulations 2022 (S.I. 2022/660)](https://www.legislation.gov.uk/uksi/2022/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/660/regulation/6)
+[^c-d4e9f3b12b5b4d8c46ad052dce10b40c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/414) revoked (5.7.2022) by [The Passport (Fees) Regulations 2022 (S.I. 2022/660)](https://www.legislation.gov.uk/uksi/2022/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/660/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/660/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Transitory modification of the National Health Service (Vocational Training for General Medical Practice) Regulations 1997[^key-cf30681cc12326435eba0b7966cf3a1f]
+## 94. Transitory modification of the National Health Service (Vocational Training for General Medical Practice) Regulations 1997[^c-cf30681cc12326435eba0b7966cf3a1f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf30681cc12326435eba0b7966cf3a1f]: Textual amendment: Art. 94 revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-cf30681cc12326435eba0b7966cf3a1f]: Textual amendment: Art. 94 revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)

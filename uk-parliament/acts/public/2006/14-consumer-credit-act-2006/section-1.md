@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Definition of ‘individual’[^key-3976d3185013b325596e5c2f7bb67b7f]
+## 1. Definition of ‘individual’[^c-3976d3185013b325596e5c2f7bb67b7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 189(1) of the 1974 Act (definitions) for the definition of “individ
 
 ## Annotations
 
-[^key-3976d3185013b325596e5c2f7bb67b7f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/14/section/1) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2007/123/article/4), [5](https://www.legislation.gov.uk/uksi/2007/123/article/5))
+[^c-3976d3185013b325596e5c2f7bb67b7f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/14/section/1) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2007/123/article/4), [5](https://www.legislation.gov.uk/uksi/2007/123/article/5))

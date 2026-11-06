@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Amendment of regulation 13 of the Arrears Regulations[^key-4ab14932c2ddae9e270100e3cbe27e87]
+## 11. Amendment of regulation 13 of the Arrears Regulations[^c-4ab14932c2ddae9e270100e3cbe27e87]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ab14932c2ddae9e270100e3cbe27e87]: Textual amendment: [Regs. 7-11](https://www.legislation.gov.uk/uksi/1995/1045/regulation/7) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-4ab14932c2ddae9e270100e3cbe27e87]: Textual amendment: [Regs. 7-11](https://www.legislation.gov.uk/uksi/1995/1045/regulation/7) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))

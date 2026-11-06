@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5aee8146c5085a898b2f6627c532fc92] A person who supplies or produces a mixture on which duty is charged under section 20AAA above must notify the Commissioners of the supply or production—
+(1)[^c-5aee8146c5085a898b2f6627c532fc92] A person who supplies or produces a mixture on which duty is charged under section 20AAA above must notify the Commissioners of the supply or production—
 
 - (a) in advance, or
 - (b) within the period of seven days beginning with the date of supply or production.
 
-(2)[^key-5aee8146c5085a898b2f6627c532fc92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5aee8146c5085a898b2f6627c532fc92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Notification under subsection (1) [^key-0113839d45090ed19c961da138643417]... above must be given in such form and in such manner, and must contain such particulars, as the Commissioners may direct.
+(3) Notification under subsection (1) [^c-0113839d45090ed19c961da138643417]... above must be given in such form and in such manner, and must contain such particulars, as the Commissioners may direct.
 
 (4) Subject to subsection (7) below, where it appears to the Commissioners—
 
@@ -57,9 +57,9 @@ his failure shall attract a penalty under section 9 of the [^c11247831]Finance A
 
 [^c11247691]: Textual amendment: Ss. 20AAA, 20AAB inserted (15.11.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 6(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/6/3); [S.I. 1996/2751](https://www.legislation.gov.uk/uksi/1996/2751), [art. 2](https://www.legislation.gov.uk/uksi/1996/2751/article/2)
 
-[^key-5aee8146c5085a898b2f6627c532fc92]: Textual amendment: S. 20AAB(1) substituted for s. 20AAB(1)(2) (with effect in accordance with s. 9(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/9/2/a)
+[^c-5aee8146c5085a898b2f6627c532fc92]: Textual amendment: S. 20AAB(1) substituted for s. 20AAB(1)(2) (with effect in accordance with s. 9(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/9/2/a)
 
-[^key-0113839d45090ed19c961da138643417]: Textual amendment: Words in s. 20AAB(3) repealed (with effect in accordance with s. 9(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/9/2/b), [Sch. 42 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/1/1)
+[^c-0113839d45090ed19c961da138643417]: Textual amendment: Words in s. 20AAB(3) repealed (with effect in accordance with s. 9(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/9/2/b), [Sch. 42 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/1/1)
 
 [^c11247821]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 

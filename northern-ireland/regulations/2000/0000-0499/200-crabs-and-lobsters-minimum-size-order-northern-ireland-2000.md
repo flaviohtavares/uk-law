@@ -41,17 +41,17 @@ Coming into operation
 
 The Department of Agriculture and Rural Development in exercise of the powers conferred on it by section 127(1) and (3A) of the Fisheries Act (Northern Ireland) 1966[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-462fd9c627f05e6f2f3f660e0425e27f]
+## 1. Citation and commencement[^c-462fd9c627f05e6f2f3f660e0425e27f]
 
 This Order may be cited as the Crabs and Lobsters (Minimum Size) Order (Northern Ireland) 2000 and shall come into operation on 30th June 2000.
 
-## 2. Interpretation[^key-29c7a3e207d63106bef62a9f60b5c76b]
+## 2. Interpretation[^c-29c7a3e207d63106bef62a9f60b5c76b]
 
 (1) In this Order—
 
 - “the Act” means the Fisheries Act (Northern Ireland) 1966;
-- [^key-53cbc48846de3adf54f7c015ed999acd]...
-- “[^key-026888674c29b891448d42ad83945dc4][^key-c3d11a09b7e605fc3a90157b409e6789]**foreign fishing boat**” has the same meaning as in the Fisheries Act 2020 (see section 52 of that Act);
+- [^c-53cbc48846de3adf54f7c015ed999acd]...
+- “[^c-026888674c29b891448d42ad83945dc4][^c-c3d11a09b7e605fc3a90157b409e6789]**foreign fishing boat**” has the same meaning as in the Fisheries Act 2020 (see section 52 of that Act);
 - “lobster” means lobster of the species *Homarus gammarus*.
 
 (2) For the purposes of this Order, the size of:—
@@ -63,15 +63,15 @@ This Order may be cited as the Crabs and Lobsters (Minimum Size) Order (Northern
 - “spider crab” means crab of the species *Maia squinado*;
 - “velvet crab” means crab of the species *Necora puber*.
 
-## 3. Prescribed minimum size[^key-55bd84f7c64c5270e9c22b1ebf502490]
+## 3. Prescribed minimum size[^c-55bd84f7c64c5270e9c22b1ebf502490]
 
 For the purpose of section 127(1) of the Act there are hereby prescribed in Schedule 2 to this Order the minimum sizes in relation to lobsters, male spider crabs and velvet crabs.
 
-## 4. Exemptions[^key-e16ebeef31951d04e2196cece04ea03f]
+## 4. Exemptions[^c-e16ebeef31951d04e2196cece04ea03f]
 
 The prohibitions imposed by section 127(1) of the Act, as read with Article 3 and the Schedule, do not apply in relation to sea-fish caught by a foreign fishing boat in waters lying outside British fishery limits.
 
-## 5. Revocation[^key-c6830921310b65377a5f9f58dca4b5be]
+## 5. Revocation[^c-c6830921310b65377a5f9f58dca4b5be]
 
 The Undersized Lobsters Order (Northern Ireland) 1993[^f00002] is hereby revoked.
 
@@ -83,11 +83,11 @@ Senior Officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — Illustrations[^key-473ca837a91488d48dca2fbd2aa55fcb]
+## SCHEDULE 1 — Illustrations[^c-473ca837a91488d48dca2fbd2aa55fcb]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2000/200/images/nisr_20000200_en_001)
 
-## SCHEDULE 2 — Prescribed Minimum Size[^key-465fbfbb4fd578ced2afa1bc2ada5f7b]
+## SCHEDULE 2 — Prescribed Minimum Size[^c-465fbfbb4fd578ced2afa1bc2ada5f7b]
 
 | Species | Minimum Landing Sizes |
 | --- | --- |
@@ -109,24 +109,24 @@ A person who commits an offence under section 127 of the 1966 Act, shall be liab
 
 [^f00001]: Footnote: [1966 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17) as amended by [S.I. 1981/227 (N.I. 7)](https://www.legislation.gov.uk/nisi/1981/227) Article 10(2) and Schedule 4
 
-[^key-462fd9c627f05e6f2f3f660e0425e27f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
+[^c-462fd9c627f05e6f2f3f660e0425e27f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
 
-[^key-29c7a3e207d63106bef62a9f60b5c76b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2000/200/article/2) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
+[^c-29c7a3e207d63106bef62a9f60b5c76b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2000/200/article/2) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
 
-[^key-53cbc48846de3adf54f7c015ed999acd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2000/200/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-53cbc48846de3adf54f7c015ed999acd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2000/200/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-026888674c29b891448d42ad83945dc4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2000/200/article/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-026888674c29b891448d42ad83945dc4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2000/200/article/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-c3d11a09b7e605fc3a90157b409e6789]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2000/200/article/2/1) inserted (1.12.2018) by [The Sea Fishing (Miscellaneous Amendments and Revocations) Order (Northern Ireland) 2018 (S.R. 2018/185)](https://www.legislation.gov.uk/nisr/2018/185), [art. 1](https://www.legislation.gov.uk/nisr/2018/185/article/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2018/185/schedule/1/paragraph/1)
+[^c-c3d11a09b7e605fc3a90157b409e6789]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2000/200/article/2/1) inserted (1.12.2018) by [The Sea Fishing (Miscellaneous Amendments and Revocations) Order (Northern Ireland) 2018 (S.R. 2018/185)](https://www.legislation.gov.uk/nisr/2018/185), [art. 1](https://www.legislation.gov.uk/nisr/2018/185/article/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2018/185/schedule/1/paragraph/1)
 
-[^key-55bd84f7c64c5270e9c22b1ebf502490]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2000/200/article/3) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
+[^c-55bd84f7c64c5270e9c22b1ebf502490]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2000/200/article/3) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
 
-[^key-e16ebeef31951d04e2196cece04ea03f]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2000/200/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-e16ebeef31951d04e2196cece04ea03f]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2000/200/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 33(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/33/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-c6830921310b65377a5f9f58dca4b5be]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2000/200/article/5) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
+[^c-c6830921310b65377a5f9f58dca4b5be]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2000/200/article/5) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
 
 [^f00002]: Footnote: [S.R. 1993 No. 378](https://www.legislation.gov.uk/nisr/1993/378)
 
-[^key-473ca837a91488d48dca2fbd2aa55fcb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/200/schedule/1) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
+[^c-473ca837a91488d48dca2fbd2aa55fcb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/200/schedule/1) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
 
-[^key-465fbfbb4fd578ced2afa1bc2ada5f7b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2000/200/schedule/2) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)
+[^c-465fbfbb4fd578ced2afa1bc2ada5f7b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2000/200/schedule/2) in operation at 30.6.2000, see [art. 1](https://www.legislation.gov.uk/nisr/2000/200/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 448. Interpretation of the Schedule to the 1993 Order[^key-2e35411eb08fc705f38fa008e43d46ed]
+## 448. Interpretation of the Schedule to the 1993 Order[^c-2e35411eb08fc705f38fa008e43d46ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e35411eb08fc705f38fa008e43d46ed]: Commencement: Art. 448 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2e35411eb08fc705f38fa008e43d46ed]: Commencement: Art. 448 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

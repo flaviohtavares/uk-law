@@ -22,7 +22,7 @@ summary: ''
 
 Article 50
 
-### 1. Applications made under requirements[^key-89cc722646cae8c08a175f6598302439]
+### 1. Applications made under requirements[^c-89cc722646cae8c08a175f6598302439]
 
 (1) Where an application has been made to a relevant authority for any consent, agreement or approval required under Schedule 3 (requirements), the relevant authority must give notice to the undertaker of its decision on the application within a period of 35 days beginning with—
 
@@ -38,7 +38,7 @@ Article 50
 
 (5) If the relevant authority does not give the notification mentioned in sub-paragraph (3) or (4) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 2. Fees[^key-f4ddc5ae75c6ae54a7431b09a613f648]
+### 2. Fees[^c-f4ddc5ae75c6ae54a7431b09a613f648]
 
 (1) Where an application is made to a relevant authority for any consent, agreement or approval required under Schedule 3 (requirements), a fee must be paid to the relevant authority as follows—
 
@@ -50,7 +50,7 @@ Article 50
 - (a) the application being rejected as invalidly made; or
 - (b) the relevant authority failing to determine the application within the decision period as determined under paragraph 1, unless within that period the undertaker agrees in writing that the fee may be retained by the relevant authority and credited in respect of a future application.
 
-### 3. Appeals[^key-bcd9b6e5203d9262a8bfb38e6c61d213]
+### 3. Appeals[^c-bcd9b6e5203d9262a8bfb38e6c61d213]
 
 (1) The undertaker may appeal if—
 
@@ -78,7 +78,7 @@ Article 50
 
 (6) Any such representations must be submitted to the appointed person and made available to all appeal parties within 10 business days of the date mentioned in sub-paragraph (3).
 
-### 4. Outcome of appeals[^key-53169281b115a22c5256992ee796101b]
+### 4. Outcome of appeals[^c-53169281b115a22c5256992ee796101b]
 
 (1) On an appeal under paragraph 3 (appeals), the appointed person may—
 
@@ -101,7 +101,7 @@ Article 50
 
 (9) In considering whether to make any such direction as to the costs of the appeal parties and the terms on which it is made, the appointed person must have regard to the Planning Practice Guidance or any guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 4[^key-5ce3d56f07058c7404c206c727e19f76]
+### 5. Interpretation of Schedule 4[^c-5ce3d56f07058c7404c206c727e19f76]
 
 In this Schedule—
 
@@ -112,12 +112,12 @@ In this Schedule—
 
 ## Annotations
 
-[^key-89cc722646cae8c08a175f6598302439]: Commencement: Sch. 4 para. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-89cc722646cae8c08a175f6598302439]: Commencement: Sch. 4 para. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-f4ddc5ae75c6ae54a7431b09a613f648]: Commencement: Sch. 4 para. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-f4ddc5ae75c6ae54a7431b09a613f648]: Commencement: Sch. 4 para. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-bcd9b6e5203d9262a8bfb38e6c61d213]: Commencement: Sch. 4 para. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-bcd9b6e5203d9262a8bfb38e6c61d213]: Commencement: Sch. 4 para. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-53169281b115a22c5256992ee796101b]: Commencement: Sch. 4 para. 4 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-53169281b115a22c5256992ee796101b]: Commencement: Sch. 4 para. 4 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-5ce3d56f07058c7404c206c727e19f76]: Commencement: Sch. 4 para. 5 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-5ce3d56f07058c7404c206c727e19f76]: Commencement: Sch. 4 para. 5 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

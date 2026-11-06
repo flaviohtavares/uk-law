@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27A. Knife dealers' licences[^key-1bb1b05a0a1b9e8c99593b9be0ffdbbf]
+## 27A. Knife dealers' licences[^c-1bb1b05a0a1b9e8c99593b9be0ffdbbf]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) Those articles are—
 
-- (a) knives (other than folding pocket knives whose blades do not exceed 3.5 inches (8.91 centimetres) in length or knives[^key-33057506eeacea0ba37aeef4c3afe080] designed for domestic use);
-- (aa)[^key-2248f59b13450997f417f07398560234] daggers (other than kirpans or skean dhus whose blades do not exceed exceed 3.5 inches (8.91 centimetres) in length);
+- (a) knives (other than folding pocket knives whose blades do not exceed 3.5 inches (8.91 centimetres) in length or knives[^c-33057506eeacea0ba37aeef4c3afe080] designed for domestic use);
+- (aa)[^c-2248f59b13450997f417f07398560234] daggers (other than kirpans or skean dhus whose blades do not exceed exceed 3.5 inches (8.91 centimetres) in length);
 - (b) knife blades (other than those designed for domestic use);
 - (c) swords;
 - (d) any other article—
@@ -36,7 +36,7 @@ summary: ''
 
 (3) A knife dealer's licence shall, in addition to specifying the activity which the dealer engages in, specify the premises in or from which the activity is to be carried on.
 
-(4)[^key-5826cce397f0c3ed6571811726457ff0] In subsections (1) and (3), “**dealer**” means a person carrying on a business which consists wholly or partly of—
+(4)[^c-5826cce397f0c3ed6571811726457ff0] In subsections (1) and (3), “**dealer**” means a person carrying on a business which consists wholly or partly of—
 
 - (a) selling;
 - (b) hiring;
@@ -73,10 +73,10 @@ and “**sale**” is to be construed accordingly.
 
 ## Annotations
 
-[^key-1bb1b05a0a1b9e8c99593b9be0ffdbbf]: Textual amendment: Ss. 27A-27S and cross-heading inserted (1.11.2007 for specified purposes, 1.6.2009 for specified purposes, 1.9.2009 for specififed purposes, 1.6.2010 in so far as not already in force) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 58](https://www.legislation.gov.uk/asp/2007/17/section/58), [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule), S.S.I. 2009/197, art. 2, Sch.
+[^c-1bb1b05a0a1b9e8c99593b9be0ffdbbf]: Textual amendment: Ss. 27A-27S and cross-heading inserted (1.11.2007 for specified purposes, 1.6.2009 for specified purposes, 1.9.2009 for specififed purposes, 1.6.2010 in so far as not already in force) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 58](https://www.legislation.gov.uk/asp/2007/17/section/58), [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule), S.S.I. 2009/197, art. 2, Sch.
 
-[^key-33057506eeacea0ba37aeef4c3afe080]: Textual amendment: Words in s. 27A(2)(a) substituted (1.9.2009) by [The Knife Dealers (Exceptions) Order 2009 (S.S.I. 2009/218)](https://www.legislation.gov.uk/ssi/2009/218), [arts. 1](https://www.legislation.gov.uk/ssi/2009/218/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/218/article/2/a)
+[^c-33057506eeacea0ba37aeef4c3afe080]: Textual amendment: Words in s. 27A(2)(a) substituted (1.9.2009) by [The Knife Dealers (Exceptions) Order 2009 (S.S.I. 2009/218)](https://www.legislation.gov.uk/ssi/2009/218), [arts. 1](https://www.legislation.gov.uk/ssi/2009/218/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/218/article/2/a)
 
-[^key-2248f59b13450997f417f07398560234]: Textual amendment: S. 27A(2)(aa) inserted (1.9.2009) by [The Knife Dealers (Exceptions) Order 2009 (S.S.I. 2009/218)](https://www.legislation.gov.uk/ssi/2009/218), [arts. 1](https://www.legislation.gov.uk/ssi/2009/218/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/218/article/2/b)
+[^c-2248f59b13450997f417f07398560234]: Textual amendment: S. 27A(2)(aa) inserted (1.9.2009) by [The Knife Dealers (Exceptions) Order 2009 (S.S.I. 2009/218)](https://www.legislation.gov.uk/ssi/2009/218), [arts. 1](https://www.legislation.gov.uk/ssi/2009/218/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/218/article/2/b)
 
-[^key-5826cce397f0c3ed6571811726457ff0]: Modification: S. 27A(4) modified (1.9.2009) by [The Knife Dealers (Exceptions) Order 2009 (S.S.I. 2009/218)](https://www.legislation.gov.uk/ssi/2009/218), [arts. 1](https://www.legislation.gov.uk/ssi/2009/218/article/1), [3](https://www.legislation.gov.uk/ssi/2009/218/article/3)
+[^c-5826cce397f0c3ed6571811726457ff0]: Modification: S. 27A(4) modified (1.9.2009) by [The Knife Dealers (Exceptions) Order 2009 (S.S.I. 2009/218)](https://www.legislation.gov.uk/ssi/2009/218), [arts. 1](https://www.legislation.gov.uk/ssi/2009/218/article/1), [3](https://www.legislation.gov.uk/ssi/2009/218/article/3)

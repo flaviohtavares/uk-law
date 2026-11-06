@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. General duties relating to explosives[^key-04d01582963527765e8b10c5d9d24ef2]
+## 28. General duties relating to explosives[^c-04d01582963527765e8b10c5d9d24ef2]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04d01582963527765e8b10c5d9d24ef2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/3248/regulation/28) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-04d01582963527765e8b10c5d9d24ef2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/3248/regulation/28) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

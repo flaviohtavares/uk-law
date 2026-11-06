@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Defence to proceedings in respect of statutory nuisance[^key-0aef97a8dd021581b2e38dfb11ef22b8]
+## 9. Defence to proceedings in respect of statutory nuisance[^c-0aef97a8dd021581b2e38dfb11ef22b8]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0aef97a8dd021581b2e38dfb11ef22b8]: Commencement: Art. 9 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-0aef97a8dd021581b2e38dfb11ef22b8]: Commencement: Art. 9 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00024]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Relevant amendments are as follows: section 82 was amended by section 107 and Schedule 17 paragraph 6 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and section 5(2) of the Noise and Statutory Nuisance Act [1993 (c. 40)](https://www.legislation.gov.uk/ukpga/1993/40), and section 79 was amended by sections 101 and 102 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), by section 2 of the Noise and Statutory Nuisance Act 1993 and by section 120 and Schedule 22 paragraph 89 of the Environment Act 2005.
 

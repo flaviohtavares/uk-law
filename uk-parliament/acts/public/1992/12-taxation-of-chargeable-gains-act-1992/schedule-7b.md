@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7B — Modification of Act in relation to overseas life insurance companies[^key-e5dcd81616525d23f416ed1f19ec24cb]
+## SCHEDULE 7B — Modification of Act in relation to overseas life insurance companies[^c-e5dcd81616525d23f416ed1f19ec24cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Section 214B.
 
-**1.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6A.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6A.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6B.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6B.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7A.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7A.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9A.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9A.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e5dcd81616525d23f416ed1f19ec24cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5dcd81616525d23f416ed1f19ec24cb]: Textual amendment: Sch. 7B repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-e5dcd81616525d23f416ed1f19ec24cb]: Textual amendment: Sch. 7B repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

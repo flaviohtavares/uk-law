@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Power to acquire subsoil only[^key-42b5578e7600afce11b34494bc414fb8]
+## 24. Power to acquire subsoil only[^c-42b5578e7600afce11b34494bc414fb8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42b5578e7600afce11b34494bc414fb8]: Commencement: Art. 24 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-42b5578e7600afce11b34494bc414fb8]: Commencement: Art. 24 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

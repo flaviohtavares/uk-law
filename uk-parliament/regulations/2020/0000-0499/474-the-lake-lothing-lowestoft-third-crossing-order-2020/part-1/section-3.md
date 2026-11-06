@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Disapplication of legislation, etc.[^key-a42fcd66b4d8fed2e184b732c853469a]
+## 3. Disapplication of legislation, etc.[^c-a42fcd66b4d8fed2e184b732c853469a]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a42fcd66b4d8fed2e184b732c853469a]: Commencement: Art. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-a42fcd66b4d8fed2e184b732c853469a]: Commencement: Art. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24090991]: Marginal citation: Byelaws for the Port of Lowestoft made by the harbour authority under section 83 of the [Harbours, Docks and Piers Clauses Act 1847 (1847 c. 27)](https://www.legislation.gov.uk/ukpga/1847/27) (incorporated by section 51 of the [British Transport Docks Act 1964 (1964 c.38)](https://www.legislation.gov.uk/ukpga/1964/38)) and by section 52 of the British Transport Docks Act 1964.
 

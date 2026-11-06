@@ -43,11 +43,11 @@ Coming into force in accordance with regulation 1
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 203(5) of, paragraph 4(7) of Schedule 4 to, and paragraph 5(7) of Schedule 7 to the Renting Homes (Wales) Act 2016[^f00001].
 
-## 1. Title and commencement[^key-6036736519f6038a3b029295337cf617]
+## 1. Title and commencement[^c-6036736519f6038a3b029295337cf617]
 
-The title of these Regulations is the Renting Homes (Review of Decisions) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^key-d0b3065d6c5c94fd8159d29162db5ea7] .[^f00002]
+The title of these Regulations is the Renting Homes (Review of Decisions) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^c-d0b3065d6c5c94fd8159d29162db5ea7] .[^f00002]
 
-## 2. Interpretation[^key-84ff5637a85f2006131eca9e2c1fe537]
+## 2. Interpretation[^c-84ff5637a85f2006131eca9e2c1fe537]
 
 In these Regulations—
 
@@ -58,19 +58,19 @@ In these Regulations—
 - “**landlord**” (“***landlord***”) has the meaning given by section 244(2) of the Act (see also section 53);
 - “**review**” (“***adolygiad***”) means a review under section 203 of, paragraph 4 of Schedule 4 to, or paragraph 5 of Schedule 7 to the Act.
 
-## 3. Persons who may carry out a review[^key-b88b840dc41b01a907de111f279e1bbd]
+## 3. Persons who may carry out a review[^c-b88b840dc41b01a907de111f279e1bbd]
 
 (1) A review must be carried out by a person who was not involved in the decision under review.
 
 (2) Where the review is of a decision made by an officer of the landlord and the review is to be carried out by another such officer, the officer reviewing the decision must occupy a position within the organisation of the landlord which is senior to that of the officer who made the decision.
 
-## 4. Right to a hearing[^key-0697d455407e04a3b354919ffd537198]
+## 4. Right to a hearing[^c-0697d455407e04a3b354919ffd537198]
 
 (1) Where the contract-holder so requests, a review must be by way of a hearing.
 
 (2) Any such request must be made to the landlord before the end of the period described in section 202(3) of, paragraph 4(2) of Schedule 4 to, or paragraph 5(2) of Schedule 7 to the Act, as the case may be.
 
-## 5. Written representations[^key-13c1b67c4c80915185911c05a29330d0]
+## 5. Written representations[^c-13c1b67c4c80915185911c05a29330d0]
 
 (1) Whether or not the review is to be by way of a hearing, the contract-holder may make written representations to the landlord in connection with the review.
 
@@ -80,11 +80,11 @@ In these Regulations—
 
 (4) The landlord must consider any such representations which are received by that date.
 
-## 6. Virtual hearing[^key-556816998bb7140557297c2c5af31b69]
+## 6. Virtual hearing[^c-556816998bb7140557297c2c5af31b69]
 
 Where the contract-holder consents in writing, the hearing may be conducted by video link, telephone or other means of instantaneous two-way electronic communication.
 
-## 7. Notice of hearing[^key-8b8e25681c0b1a6c9b86a40fb0229b9d]
+## 7. Notice of hearing[^c-8b8e25681c0b1a6c9b86a40fb0229b9d]
 
 (1) Where the contract-holder requests a hearing, the landlord must give the contract-holder at least ten days’ written notice of—
 
@@ -97,7 +97,7 @@ Where the contract-holder consents in writing, the hearing may be conducted by v
 
 (4) In determining a reasonably convenient location for the hearing where a contract-holder is to be physically present at that hearing, consideration must be given to the distance between the location of the hearing and the dwelling to which the review relates.
 
-## 8. Review by way of hearing[^key-c49d37f1a634b1d05ad24411c2638c51]
+## 8. Review by way of hearing[^c-c49d37f1a634b1d05ad24411c2638c51]
 
 (1) Subject to the provisions of these Regulations, the procedure at a review hearing is to be determined by the person carrying out the review.
 
@@ -112,14 +112,14 @@ Where the contract-holder consents in writing, the hearing may be conducted by v
 
 (3) For the purposes of the proceedings, a representative of the contract-holder is to have the same rights and powers as the contract-holder under these Regulations.
 
-## 9. Absence of contract-holder or representative at hearing[^key-be27f937c6ddfa82b9d974b1fe5e55bc]
+## 9. Absence of contract-holder or representative at hearing[^c-be27f937c6ddfa82b9d974b1fe5e55bc]
 
 Where the landlord has given notice of a hearing in accordance with regulation 7 and neither the contract-holder nor any representative of the contract-holder attends on the date and at the time and, where relevant, the location notified, the person carrying out the review may—
 
 - (a) proceed with the hearing, or
 - (b) make such directions regarding the conduct of the review as that person considers appropriate, taking into account all relevant circumstances including any explanation offered for the absence.
 
-## 10. Postponement of hearing[^key-1f2a42829d18ef90cbf5026a6331fefd]
+## 10. Postponement of hearing[^c-1f2a42829d18ef90cbf5026a6331fefd]
 
 (1) Where—
 
@@ -137,7 +137,7 @@ the landlord may grant or refuse the request as the landlord sees fit.
 
 (4) In determining a reasonably convenient location for the reconvened hearing where a contract-holder is to be physically present at that hearing, consideration must be given to the distance between the location of the reconvened hearing and the dwelling to which the review relates.
 
-## 11. Adjournment of hearing[^key-f39a2fdaf047fb21daac4717898441cb]
+## 11. Adjournment of hearing[^c-f39a2fdaf047fb21daac4717898441cb]
 
 (1) Once a hearing has started, it may be adjourned at any time by the person carrying out the review, either on that person’s own initiative or at the request of the contract-holder, the contract-holder’s representative or the landlord.
 
@@ -184,30 +184,30 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). See section 252 for the definition of “prescribed”.
 
-[^key-6036736519f6038a3b029295337cf617]: Commencement: Reg. 1 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-6036736519f6038a3b029295337cf617]: Commencement: Reg. 1 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-d0b3065d6c5c94fd8159d29162db5ea7]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/245/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [10](https://www.legislation.gov.uk/wsi/2022/906/article/10)
+[^c-d0b3065d6c5c94fd8159d29162db5ea7]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/245/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [10](https://www.legislation.gov.uk/wsi/2022/906/article/10)
 
 [^f00002]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 comes into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-84ff5637a85f2006131eca9e2c1fe537]: Commencement: Reg. 2 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-84ff5637a85f2006131eca9e2c1fe537]: Commencement: Reg. 2 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
 [^f00003]: Footnote: Section 246 was amended by section 14 of, and paragraphs 1 and 5 of Schedule 5 to, the Renting Homes (Amendment) (Wales) Act [2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3).
 
-[^key-b88b840dc41b01a907de111f279e1bbd]: Commencement: Reg. 3 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-b88b840dc41b01a907de111f279e1bbd]: Commencement: Reg. 3 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-0697d455407e04a3b354919ffd537198]: Commencement: Reg. 4 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-0697d455407e04a3b354919ffd537198]: Commencement: Reg. 4 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-13c1b67c4c80915185911c05a29330d0]: Commencement: Reg. 5 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-13c1b67c4c80915185911c05a29330d0]: Commencement: Reg. 5 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-556816998bb7140557297c2c5af31b69]: Commencement: Reg. 6 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-556816998bb7140557297c2c5af31b69]: Commencement: Reg. 6 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-8b8e25681c0b1a6c9b86a40fb0229b9d]: Commencement: Reg. 7 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-8b8e25681c0b1a6c9b86a40fb0229b9d]: Commencement: Reg. 7 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-c49d37f1a634b1d05ad24411c2638c51]: Commencement: Reg. 8 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-c49d37f1a634b1d05ad24411c2638c51]: Commencement: Reg. 8 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-be27f937c6ddfa82b9d974b1fe5e55bc]: Commencement: Reg. 9 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-be27f937c6ddfa82b9d974b1fe5e55bc]: Commencement: Reg. 9 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-1f2a42829d18ef90cbf5026a6331fefd]: Commencement: Reg. 10 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-1f2a42829d18ef90cbf5026a6331fefd]: Commencement: Reg. 10 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
 
-[^key-f39a2fdaf047fb21daac4717898441cb]: Commencement: Reg. 11 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))
+[^c-f39a2fdaf047fb21daac4717898441cb]: Commencement: Reg. 11 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 10](https://www.legislation.gov.uk/uksi/2022/906/article/10))

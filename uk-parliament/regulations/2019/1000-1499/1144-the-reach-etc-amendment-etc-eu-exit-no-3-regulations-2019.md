@@ -56,15 +56,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-660eb962d4bd2b102838d5fa4219da95]
+## 1. Citation and commencement[^c-660eb962d4bd2b102838d5fa4219da95]
 
-These Regulations may be cited as the REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 and come into force immediately before Part 2 of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 comes into force[^key-b6c29721f5927b597138bb94cb6814bb].
+These Regulations may be cited as the REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 and come into force immediately before Part 2 of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 comes into force[^c-b6c29721f5927b597138bb94cb6814bb].
 
-## 2. Amendment of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2019[^key-847875790daa1f0e30228c9b2450aaf9]
+## 2. Amendment of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2019[^c-847875790daa1f0e30228c9b2450aaf9]
 
 The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amended as follows.
 
-## 3. Amendment of Schedule 1[^key-56c4fde76ab02362b4575269cfe02461]
+## 3. Amendment of Schedule 1[^c-56c4fde76ab02362b4575269cfe02461]
 
 (1) Schedule 1 (amendment of Titles 1 to 15) is amended in accordance with this regulation.
 
@@ -79,9 +79,9 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 
 .
 
-(4)[^key-1037b2017f57874f8d8370207cc9c473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1037b2017f57874f8d8370207cc9c473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1037b2017f57874f8d8370207cc9c473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1037b2017f57874f8d8370207cc9c473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph 95—
 
@@ -101,7 +101,7 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 
   .
 
-## 4. Amendment of Schedule 2[^key-17e258b83b39a8fd318ce6f00a407285]
+## 4. Amendment of Schedule 2[^c-17e258b83b39a8fd318ce6f00a407285]
 
 (1) Schedule 2 (transitional provision) is amended in accordance with this regulation.
 
@@ -217,7 +217,7 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 - (a) in paragraph 3(a), for “during the 2 year period” substitute “ in the period beginning with 29 March 2017 and ending immediately ”;
 - (b) in the second subparagraph of paragraph 5, for “during the 2 year period” substitute “ in the period beginning with 29 March 2017 and ending immediately ”.
 
-## 5. Amendment of Schedule 3[^key-b25620f1933223f930d331613c4b64bf]
+## 5. Amendment of Schedule 3[^c-b25620f1933223f930d331613c4b64bf]
 
 (1) Schedule 3 (amendment of the Annexes and Appendices to the REACH Regulation) is amended in accordance with this regulation.
 
@@ -227,9 +227,9 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 >
 > (1) In entry 51 of the table (Bis(2-ethylhexyl) phthalate (DEHP) etc.), the second column is amended as follows.
 >
-> (2) In paragraph 4(c), for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-828ec9094650279b5be127a281ee09cc]”.
+> (2) In paragraph 4(c), for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-828ec9094650279b5be127a281ee09cc]”.
 >
-> (3) In paragraph 4(g), for “Directives [90/385/EEC](https://www.legislation.gov.uk/eudr/1990/385), [93/42/EEC](https://www.legislation.gov.uk/eudr/1993/42) or [98/79/EC](https://www.legislation.gov.uk/eudr/1998/79)” substitute “ [^key-739176734e8850cd71ed06ef061a0417]... The Medical Devices Regulations 2002 [^c23810131] ”.
+> (3) In paragraph 4(g), for “Directives [90/385/EEC](https://www.legislation.gov.uk/eudr/1990/385), [93/42/EEC](https://www.legislation.gov.uk/eudr/1993/42) or [98/79/EC](https://www.legislation.gov.uk/eudr/1998/79)” substitute “ [^c-739176734e8850cd71ed06ef061a0417]... The Medical Devices Regulations 2002 [^c23810131] ”.
 >
 > (4) In paragraph 4(h), for “Directive 2011/65/EU” substitute “ the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 [^c23810141] ”.
 >
@@ -239,7 +239,7 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 
 .
 
-(3)[^key-34f2f3e7510c9638fd88861a0612cb82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-34f2f3e7510c9638fd88861a0612cb82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After paragraph 37, insert—
 
@@ -247,7 +247,7 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 >
 > (1) In entry 72 of the table (the substances listed in column 1 of the table in Appendix 12), the second column is amended as follows.
 >
-> (2) In paragraph 4, for “Regulation (EU) 2017/745” to the end substitute “ [^key-acd6f8c5ffdf0f1fe41dc97e1cec1b0c]... The Medical Devices Regulations 2002 [^c23810171] ”.
+> (2) In paragraph 4, for “Regulation (EU) 2017/745” to the end substitute “ [^c-acd6f8c5ffdf0f1fe41dc97e1cec1b0c]... The Medical Devices Regulations 2002 [^c23810171] ”.
 >
 > (3) In paragraph 6, omit “Union”.
 >
@@ -264,7 +264,7 @@ The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23810111] are amen
 >
 > (1) Appendix 12 (entry 72 – restricted substances and maximum concentration limits by weight in homogenous materials) is amended as follows.
 >
-> (2) For “Part 3 of Annex VI to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272)” wherever it occurs, substitute “ the GB[^key-0cd1427034a78339c8ed53b894647415] mandatory classification and labelling list ”.
+> (2) For “Part 3 of Annex VI to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272)” wherever it occurs, substitute “ the GB[^c-0cd1427034a78339c8ed53b894647415] mandatory classification and labelling list ”.
 
 .
 
@@ -292,25 +292,25 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23810101]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-660eb962d4bd2b102838d5fa4219da95]: Commencement: Reg. 1 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-660eb962d4bd2b102838d5fa4219da95]: Commencement: Reg. 1 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-b6c29721f5927b597138bb94cb6814bb]: Textual amendment: Words in reg. 1 substituted (18.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2)
+[^c-b6c29721f5927b597138bb94cb6814bb]: Textual amendment: Words in reg. 1 substituted (18.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2)
 
-[^key-847875790daa1f0e30228c9b2450aaf9]: Commencement: Reg. 2 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-847875790daa1f0e30228c9b2450aaf9]: Commencement: Reg. 2 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
 [^c23810111]: Marginal citation: [S.I. 2019/758](https://www.legislation.gov.uk/uksi/2019/758), amended by [S.I. 2019/858](https://www.legislation.gov.uk/uksi/2019/858).
 
-[^key-56c4fde76ab02362b4575269cfe02461]: Commencement: Reg. 3 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-56c4fde76ab02362b4575269cfe02461]: Commencement: Reg. 3 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-1037b2017f57874f8d8370207cc9c473]: Textual amendment: Reg. 3(4)(5) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/3)
+[^c-1037b2017f57874f8d8370207cc9c473]: Textual amendment: Reg. 3(4)(5) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/3)
 
-[^key-17e258b83b39a8fd318ce6f00a407285]: Commencement: Reg. 4 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-17e258b83b39a8fd318ce6f00a407285]: Commencement: Reg. 4 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-b25620f1933223f930d331613c4b64bf]: Commencement: Reg. 5 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-b25620f1933223f930d331613c4b64bf]: Commencement: Reg. 5 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-828ec9094650279b5be127a281ee09cc]: Textual amendment: Words in reg. 5(2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 42(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/42/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-828ec9094650279b5be127a281ee09cc]: Textual amendment: Words in reg. 5(2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 42(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/42/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-739176734e8850cd71ed06ef061a0417]: Textual amendment: Words in reg. 5(2) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/a)
+[^c-739176734e8850cd71ed06ef061a0417]: Textual amendment: Words in reg. 5(2) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/a)
 
 [^c23810131]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), amended by [S.I. 2003/1400](https://www.legislation.gov.uk/uksi/2003/1400), 1697, 2005/2759, 2909, 2007/400, 610, 803, 2008/530, 2936, 2009/383, 2010/557, 2012/1426, 2013/525, 2327, 2017/207, 2019/791.
 
@@ -320,10 +320,10 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23810161]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235), 1855, 2593, 2014/490, 1878, 2015/323, 570, 903, 1503, 1862, 1879, 2016/186, 190, 696, 2017/715, 1322, 2018/199, 378, 2019/62.
 
-[^key-34f2f3e7510c9638fd88861a0612cb82]: Textual amendment: Reg. 5(3) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/b)
+[^c-34f2f3e7510c9638fd88861a0612cb82]: Textual amendment: Reg. 5(3) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/b)
 
-[^key-acd6f8c5ffdf0f1fe41dc97e1cec1b0c]: Textual amendment: Words in reg. 5(4) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/c)
+[^c-acd6f8c5ffdf0f1fe41dc97e1cec1b0c]: Textual amendment: Words in reg. 5(4) omitted (18.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/c)
 
 [^c23810171]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791); there are other amending instruments but none is relevant.
 
-[^key-0cd1427034a78339c8ed53b894647415]: Textual amendment: Word in reg. 5(5) substituted (18.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(d)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/d)
+[^c-0cd1427034a78339c8ed53b894647415]: Textual amendment: Word in reg. 5(5) substituted (18.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(4)(d)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/4/d)

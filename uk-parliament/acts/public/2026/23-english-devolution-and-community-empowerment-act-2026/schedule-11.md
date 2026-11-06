@@ -24,7 +24,7 @@ Section 29
 
 ### Part 1 — Designation and directions
 
-#### 1. Designation of key route network roads: CCAs[^key-733fad8a0f153ce638c3826c5920f25d]
+#### 1. Designation of key route network roads: CCAs[^c-733fad8a0f153ce638c3826c5920f25d]
 
 (1) Section 24 of LURA 2023 (designation of key route network roads) is amended in accordance with this paragraph.
 
@@ -54,7 +54,7 @@ Section 29
 
 > (5) A CCA must maintain, and publish on its website, a record of the roads in its area which are key route network roads.
 
-#### 2. Designation of key route network roads: combined authorities[^key-db4e818a9ce221c0fc56ba3bf2c35753]
+#### 2. Designation of key route network roads: combined authorities[^c-db4e818a9ce221c0fc56ba3bf2c35753]
 
 (1) Section 107ZA of LDEDCA 2009 (designation of key route network roads) is amended in accordance with this paragraph.
 
@@ -84,7 +84,7 @@ Section 29
 
 > (5) A combined authority must maintain, and publish on its website, a record of the roads in its area which are key route network roads.
 
-#### 3. Power of direction: CCAs[^key-333be2fbb06569593abbd52e4140eb20]
+#### 3. Power of direction: CCAs[^c-333be2fbb06569593abbd52e4140eb20]
 
 (1) Section 22 of LURA 2023 (directions relating to highways and traffic functions) is amended in accordance with this paragraph.
 
@@ -122,7 +122,7 @@ Section 29
 
 (6) In subsection (11), omit “Except as provided for by section 24(7),”.
 
-**4.**[^key-8f8b864662779e07f977582d2aa8fab2] After section 23 insert—
+**4.**[^c-8f8b864662779e07f977582d2aa8fab2] After section 23 insert—
 
 > **23A. Highways and traffic functions: directions by mayors**
 >
@@ -184,7 +184,7 @@ Section 29
 >
 > (3) Any reasonable expenses incurred by the CCA in taking any steps under subsection (1) are recoverable from the authority subject to the direction as a civil debt.
 
-#### 5. Power of direction: combined authorities[^key-04877d86dab4cf2431f9d6f1abcfc392]
+#### 5. Power of direction: combined authorities[^c-04877d86dab4cf2431f9d6f1abcfc392]
 
 (1) Section 104 of LDEDCA 2009 (constitution and functions: transport) is amended in accordance with this paragraph.
 
@@ -279,7 +279,7 @@ Section 29
 
 (3) In subsection (10), omit “Except as provided for by section 107ZA(7),”.
 
-#### 6. Consequential amendments[^key-4380a7e977bf82ce048f7f94eee7dd7e]
+#### 6. Consequential amendments[^c-4380a7e977bf82ce048f7f94eee7dd7e]
 
 (1) In section 107ZA LDEDCA 2009—
 
@@ -288,7 +288,7 @@ Section 29
 
 (2) In section 107D(9), omit “Except as provided for by section 107ZA(7),”.
 
-**7.**[^key-b44b4ddc0fb2b394d61e9b2736ace55a] (1) In section 24 LURA 2023—
+**7.**[^c-b44b4ddc0fb2b394d61e9b2736ace55a] (1) In section 24 LURA 2023—
 
 - (a) omit subsections (7) and (8);
 - (b) in subsection (9), omit the definition of “eligible power”.
@@ -297,11 +297,11 @@ Section 29
 
 ### Part 2 — Transfer of duty of principal councils to make reports on Key Route Network roads
 
-#### 8. Introduction[^key-74b542473687d962fb3a6d4093ec5b2a]
+#### 8. Introduction[^c-74b542473687d962fb3a6d4093ec5b2a]
 
 The Road Traffic Reduction Act 1997 is amended in accordance with this Part of this Schedule.
 
-#### 9. New duty of mayoral combined authorities and CCAs[^key-970daa7d793ff41a644025274213c44b]
+#### 9. New duty of mayoral combined authorities and CCAs[^c-970daa7d793ff41a644025274213c44b]
 
 After section 2 insert—
 
@@ -350,7 +350,7 @@ After section 2 insert—
 >
 > (9) In this section “**the area**”, in relation to a mayoral combined authority or mayoral CCA, means that authority’s area.
 
-#### 10. Consequential amendments[^key-d2c4466c99356114b64d53d850e4f285]
+#### 10. Consequential amendments[^c-d2c4466c99356114b64d53d850e4f285]
 
 In section 1 (interpretation)—
 
@@ -377,30 +377,30 @@ In section 1 (interpretation)—
 
   .
 
-**11.**[^key-f754bcada540bb654ade12bb09958169] In section 2 (duty of principal councils to make reports), after subsection (4) insert—
+**11.**[^c-f754bcada540bb654ade12bb09958169] In section 2 (duty of principal councils to make reports), after subsection (4) insert—
 
 > (4ZA) If a principal council is a constituent council of a mayoral combined authority or mayoral CCA, the duty imposed on the council by subsection (1) does not apply to the levels of local road traffic using key route network roads in the council’s area.
 
 ## Annotations
 
-[^key-733fad8a0f153ce638c3826c5920f25d]: Commencement: Sch. 11 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-733fad8a0f153ce638c3826c5920f25d]: Commencement: Sch. 11 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-db4e818a9ce221c0fc56ba3bf2c35753]: Commencement: Sch. 11 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-db4e818a9ce221c0fc56ba3bf2c35753]: Commencement: Sch. 11 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-333be2fbb06569593abbd52e4140eb20]: Commencement: Sch. 11 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-333be2fbb06569593abbd52e4140eb20]: Commencement: Sch. 11 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-8f8b864662779e07f977582d2aa8fab2]: Commencement: Sch. 11 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-8f8b864662779e07f977582d2aa8fab2]: Commencement: Sch. 11 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-04877d86dab4cf2431f9d6f1abcfc392]: Commencement: Sch. 11 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-04877d86dab4cf2431f9d6f1abcfc392]: Commencement: Sch. 11 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-4380a7e977bf82ce048f7f94eee7dd7e]: Commencement: Sch. 11 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-4380a7e977bf82ce048f7f94eee7dd7e]: Commencement: Sch. 11 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-b44b4ddc0fb2b394d61e9b2736ace55a]: Commencement: Sch. 11 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-b44b4ddc0fb2b394d61e9b2736ace55a]: Commencement: Sch. 11 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-74b542473687d962fb3a6d4093ec5b2a]: Commencement: Sch. 11 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-74b542473687d962fb3a6d4093ec5b2a]: Commencement: Sch. 11 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-970daa7d793ff41a644025274213c44b]: Commencement: Sch. 11 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-970daa7d793ff41a644025274213c44b]: Commencement: Sch. 11 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-d2c4466c99356114b64d53d850e4f285]: Commencement: Sch. 11 para. 10 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-d2c4466c99356114b64d53d850e4f285]: Commencement: Sch. 11 para. 10 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-f754bcada540bb654ade12bb09958169]: Commencement: Sch. 11 para. 11 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-f754bcada540bb654ade12bb09958169]: Commencement: Sch. 11 para. 11 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

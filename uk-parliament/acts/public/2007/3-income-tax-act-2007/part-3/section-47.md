@@ -37,11 +37,11 @@ the individual is entitled to a tax reduction for that tax year of 10% of half t
 
 (4) In subsection (3) “**the appropriate amount**” means—
 
-- (a) if the individual's spouse or civil partner[^key-92927edcf6c170ca5706df20c0302a71] is entitled to a tax reduction under section 45, the amount specified in section 45(3)(a) [^key-9178fd0d17bfd1db98d463da502f20df]... , after any reductions under section 45(4) and 54(2), or
-- (b) if the individual's spouse or civil partner is entitled to a tax reduction under section 46, the amount specified in section 46(3)(a) [^key-9178fd0d17bfd1db98d463da502f20df]... , after any reductions under sections 46(4) and 54(2).
+- (a) if the individual's spouse or civil partner[^c-92927edcf6c170ca5706df20c0302a71] is entitled to a tax reduction under section 45, the amount specified in section 45(3)(a) [^c-9178fd0d17bfd1db98d463da502f20df]... , after any reductions under section 45(4) and 54(2), or
+- (b) if the individual's spouse or civil partner is entitled to a tax reduction under section 46, the amount specified in section 46(3)(a) [^c-9178fd0d17bfd1db98d463da502f20df]... , after any reductions under sections 46(4) and 54(2).
 
 ## Annotations
 
-[^key-92927edcf6c170ca5706df20c0302a71]: Textual amendment: Words in [s. 47(4)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/47/4/a) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [45(6)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/45/6)
+[^c-92927edcf6c170ca5706df20c0302a71]: Textual amendment: Words in [s. 47(4)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/47/4/a) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [45(6)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/45/6)
 
-[^key-9178fd0d17bfd1db98d463da502f20df]: Textual amendment: Words in s. 47(4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-9178fd0d17bfd1db98d463da502f20df]: Textual amendment: Words in s. 47(4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

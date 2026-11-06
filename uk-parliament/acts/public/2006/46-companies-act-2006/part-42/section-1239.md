@@ -53,9 +53,9 @@ and may require each person's entry to contain other specified information.
 - (b) any body designated by order under section 1252 (delegation of Secretary of State's functions),
 - (c) persons eligible for appointment as a statutory auditor,
 - (d) third country auditors,
-- (e)[^key-9d2b72c0b7a6a9ee26385c254d794f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-9d2b72c0b7a6a9ee26385c254d794f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the Independent Supervisor appointed under section 1228.
-- (g)[^key-026d2a70dc6a79fe13a66156cd5c26db] the competent authority
+- (g)[^c-026d2a70dc6a79fe13a66156cd5c26db] the competent authority
 
 (6) The regulations may include—
 
@@ -83,8 +83,8 @@ and may require each person's entry to contain other specified information.
 
 [^c19702501]: Textual amendment: S. 1239(2)(f) and preceding word inserted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 30(4)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/30/4)
 
-[^key-9d2b72c0b7a6a9ee26385c254d794f12]: Textual amendment: S. 1239(5)(e) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 37(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/37/2)
+[^c-9d2b72c0b7a6a9ee26385c254d794f12]: Textual amendment: S. 1239(5)(e) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 37(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/37/2)
 
-[^key-026d2a70dc6a79fe13a66156cd5c26db]: Textual amendment: S. 1239(5)(g) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 37(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/37/2)
+[^c-026d2a70dc6a79fe13a66156cd5c26db]: Textual amendment: S. 1239(5)(g) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 37(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/37/2)
 
 [^c19702521]: Textual amendment: Words in s. 1239(7) omitted (6.4.2008) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 30(5)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/30/5)

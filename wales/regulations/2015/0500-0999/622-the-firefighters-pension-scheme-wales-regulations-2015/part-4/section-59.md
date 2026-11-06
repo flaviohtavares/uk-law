@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Establishment of retirement account and other adjustments[^key-23d72efb027c94672ee3b815bc11549a]
+## 59. Establishment of retirement account and other adjustments[^c-23d72efb027c94672ee3b815bc11549a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23d72efb027c94672ee3b815bc11549a]: Commencement: Reg. 59 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-23d72efb027c94672ee3b815bc11549a]: Commencement: Reg. 59 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

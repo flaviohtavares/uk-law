@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Purported intimate image generators[^key-efe40aed501a5a9b01f0e9ebb8e3ac00][^key-0cdac36b7fc2604bc97f81310262c9a1]
+## 99. Purported intimate image generators[^c-efe40aed501a5a9b01f0e9ebb8e3ac00][^c-0cdac36b7fc2604bc97f81310262c9a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -163,6 +163,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efe40aed501a5a9b01f0e9ebb8e3ac00]: Commencement: S. 99 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-efe40aed501a5a9b01f0e9ebb8e3ac00]: Commencement: S. 99 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0cdac36b7fc2604bc97f81310262c9a1]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2026/20/section/99) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/i)
+[^c-0cdac36b7fc2604bc97f81310262c9a1]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2026/20/section/99) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/i)

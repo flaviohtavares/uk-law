@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Assessment of Resources) Amendment (Scotland) (No. 2) Regulations 2016 (revoked)[^key-1eb16ac0178ce3209a635b57e395e6ad]
+The National Assistance (Assessment of Resources) Amendment (Scotland) (No. 2) Regulations 2016 (revoked)[^c-1eb16ac0178ce3209a635b57e395e6ad]
 
 Made
 
@@ -44,28 +44,28 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-1eb16ac0178ce3209a635b57e395e6ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1eb16ac0178ce3209a635b57e395e6ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1eb16ac0178ce3209a635b57e395e6ad]
+## 1. Citation, commencement and extent[^c-1eb16ac0178ce3209a635b57e395e6ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 3 to the National Assistance (Assessment of Resources) Regulations 1992[^key-1eb16ac0178ce3209a635b57e395e6ad]
+## 2. Amendment of Schedule 3 to the National Assistance (Assessment of Resources) Regulations 1992[^c-1eb16ac0178ce3209a635b57e395e6ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-1eb16ac0178ce3209a635b57e395e6ad]
+## 3. Revocation[^c-1eb16ac0178ce3209a635b57e395e6ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1eb16ac0178ce3209a635b57e395e6ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1eb16ac0178ce3209a635b57e395e6ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1eb16ac0178ce3209a635b57e395e6ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1eb16ac0178ce3209a635b57e395e6ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1eb16ac0178ce3209a635b57e395e6ad]: Textual amendment: Regulations revoked (9.4.2018) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/43)](https://www.legislation.gov.uk/ssi/2018/43), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/43/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2018/43/regulation/5)
+[^c-1eb16ac0178ce3209a635b57e395e6ad]: Textual amendment: Regulations revoked (9.4.2018) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/43)](https://www.legislation.gov.uk/ssi/2018/43), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/43/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2018/43/regulation/5)

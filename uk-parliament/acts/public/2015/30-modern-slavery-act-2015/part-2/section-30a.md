@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Enforcement by Gangmasters and Labour Abuse Authority[^key-e367187e73dac62fe26788751c70ed95]
+## 30A. Enforcement by Gangmasters and Labour Abuse Authority[^c-e367187e73dac62fe26788751c70ed95]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e367187e73dac62fe26788751c70ed95]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2015/30/section/30A) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 54](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/54) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-e367187e73dac62fe26788751c70ed95]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2015/30/section/30A) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 54](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/54) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

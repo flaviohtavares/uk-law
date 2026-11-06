@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation for purposes of European Communities Act 1972[^key-322d304a2bec7151b5030b55c04068b7]
+## 6. Designation for purposes of European Communities Act 1972[^c-322d304a2bec7151b5030b55c04068b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ and to anything supplemental or incidental to those matters.
 
 ## Annotations
 
-[^key-322d304a2bec7151b5030b55c04068b7]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1997/2781/article/6) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-322d304a2bec7151b5030b55c04068b7]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1997/2781/article/6) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
 
 [^f00026]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).

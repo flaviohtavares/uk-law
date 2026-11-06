@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Repeals[^key-b550098d34e40d320755ecd5cd1811a4]
+## 52. Repeals[^c-b550098d34e40d320755ecd5cd1811a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b550098d34e40d320755ecd5cd1811a4]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2005/11/section/52) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)
+[^c-b550098d34e40d320755ecd5cd1811a4]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2005/11/section/52) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Normal value in respect of imports from particular foreign countries and territories[^key-108ca15556b035deccbfd37f949e02ff]
+## 14. Normal value in respect of imports from particular foreign countries and territories[^c-108ca15556b035deccbfd37f949e02ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108ca15556b035deccbfd37f949e02ff]: Commencement: Reg. 14 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-108ca15556b035deccbfd37f949e02ff]: Commencement: Reg. 14 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

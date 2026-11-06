@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Claim established by affidavit[^key-f33759559498ffc4c2331b33e9fd45b2]
+## 41. Claim established by affidavit[^c-f33759559498ffc4c2331b33e9fd45b2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f33759559498ffc4c2331b33e9fd45b2]: Commencement: Rule 41 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-f33759559498ffc4c2331b33e9fd45b2]: Commencement: Rule 41 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

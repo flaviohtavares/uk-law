@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Scottish Ministers’ power to direct the Accreditation Committee[^key-31dfaa45fb2be8ce6dc00fc866933650][^key-be6dfdfdee59bb5468e20f14e22c4993]
+## 26. Scottish Ministers’ power to direct the Accreditation Committee[^c-31dfaa45fb2be8ce6dc00fc866933650][^c-be6dfdfdee59bb5468e20f14e22c4993]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31dfaa45fb2be8ce6dc00fc866933650]: Commencement: S. 26 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-31dfaa45fb2be8ce6dc00fc866933650]: Commencement: S. 26 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-be6dfdfdee59bb5468e20f14e22c4993]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/11/section/26) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-be6dfdfdee59bb5468e20f14e22c4993]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/11/section/26) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

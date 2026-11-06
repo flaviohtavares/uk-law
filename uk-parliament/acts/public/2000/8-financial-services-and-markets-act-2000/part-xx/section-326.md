@@ -38,7 +38,7 @@ are met in relation to it.
 - (a) the body has power under any enactment to regulate the practice of the profession;
 - (b) being a member of the profession is a requirement under any enactment for the exercise of particular functions or the holding of a particular office;
 - (c) the body has been recognised for the purpose of any enactment other than this Act and the recognition has not been withdrawn;
-- (d)[^key-1a14d37578462d15fe59fec2a9cc8f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1a14d37578462d15fe59fec2a9cc8f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) “**Enactment**” includes an Act of the Scottish Parliament, Northern Ireland legislation and subordinate legislation (whether made under an Act, an Act of the Scottish Parliament or Northern Ireland legislation).
 
@@ -51,4 +51,4 @@ are met in relation to it.
 
 ## Annotations
 
-[^key-1a14d37578462d15fe59fec2a9cc8f30]: Textual amendment: [S. 326(5)(d)](https://www.legislation.gov.uk/ukpga/2000/8/section/326/5/d) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [63](https://www.legislation.gov.uk/uksi/2019/632/regulation/63); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a14d37578462d15fe59fec2a9cc8f30]: Textual amendment: [S. 326(5)(d)](https://www.legislation.gov.uk/ukpga/2000/8/section/326/5/d) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [63](https://www.legislation.gov.uk/uksi/2019/632/regulation/63); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

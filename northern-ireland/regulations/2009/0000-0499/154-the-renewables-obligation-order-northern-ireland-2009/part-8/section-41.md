@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Late Payments to discharge the renewables obligation[^key-e91fa44542f15efcbdc163ddfa696fd2]
+## 41. Late Payments to discharge the renewables obligation[^c-e91fa44542f15efcbdc163ddfa696fd2]
 
 *Extent: N.I.*
 
@@ -32,12 +32,12 @@ summary: ''
 
 (6) If, by the end of the late payment period, the designated electricity supplier has paid to the Authority under this Article the amount referred to in paragraph (2) and all interest required to be paid on that amount under paragraph (3), he shall be treated as having discharged his renewables obligation for the relevant period.
 
-(6A)[^key-1b2cdfaccd0447e6d4857aadaad17f8b] If, by the end of the late payment period, the designated electricity supplier has not paid to the Authority the amount referred to in paragraph (2) and all interest required to be paid on that amount under paragraph (3), the supplier will not have discharged its renewables obligation for the relevant period.
+(6A)[^c-1b2cdfaccd0447e6d4857aadaad17f8b] If, by the end of the late payment period, the designated electricity supplier has not paid to the Authority the amount referred to in paragraph (2) and all interest required to be paid on that amount under paragraph (3), the supplier will not have discharged its renewables obligation for the relevant period.
 
 (7) The Authority must not, during the late payment period, impose a penalty under Article 45 of the Energy Order on any supplier in respect of that supplier’s failure to discharge his renewables obligation in full before the 1st September in the settlement period.
 
 ## Annotations
 
-[^key-e91fa44542f15efcbdc163ddfa696fd2]: Commencement: Art. 41 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-e91fa44542f15efcbdc163ddfa696fd2]: Commencement: Art. 41 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-1b2cdfaccd0447e6d4857aadaad17f8b]: Textual amendment: [Art. 41(6A)](https://www.legislation.gov.uk/nisr/2009/154/article/41/6A) inserted (1.4.2010) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [13](https://www.legislation.gov.uk/nisr/2010/134/article/13)
+[^c-1b2cdfaccd0447e6d4857aadaad17f8b]: Textual amendment: [Art. 41(6A)](https://www.legislation.gov.uk/nisr/2009/154/article/41/6A) inserted (1.4.2010) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [13](https://www.legislation.gov.uk/nisr/2010/134/article/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Nutrient pollution standards to apply to certain sewage disposal works[^key-dde6ea2e4a45522e3c739ce5d613ad3d]
+## 168. Nutrient pollution standards to apply to certain sewage disposal works[^c-dde6ea2e4a45522e3c739ce5d613ad3d]
 
 *Extent: E+W*
 
@@ -423,4 +423,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dde6ea2e4a45522e3c739ce5d613ad3d]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2023/55/section/168) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-dde6ea2e4a45522e3c739ce5d613ad3d]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2023/55/section/168) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)

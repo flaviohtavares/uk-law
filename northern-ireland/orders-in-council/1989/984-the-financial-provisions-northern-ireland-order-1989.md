@@ -57,7 +57,7 @@ The Interpretation Act (Northern Ireland) 1954[^c547341] shall apply to Article 
 
 ## Increase of limits
 
-### 4. Loans and grants for harbour works, etc.[^key-64bfb596378d1411bb750ec425a67077]
+### 4. Loans and grants for harbour works, etc.[^c-64bfb596378d1411bb750ec425a67077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,7 +118,7 @@ Schedule — Repeals
 
 [^c547345]: Textual amendment: 1986 NI 19
 
-[^key-64bfb596378d1411bb750ec425a67077]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisi/1989/984/article/4) repealed (2.3.2021) by [Harbours (Grants and Loans Limit) Act (Northern Ireland) 2021 (c. 1)](https://www.legislation.gov.uk/nia/2021/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2021/1/section/1/2), [2](https://www.legislation.gov.uk/nia/2021/1/section/2)
+[^c-64bfb596378d1411bb750ec425a67077]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisi/1989/984/article/4) repealed (2.3.2021) by [Harbours (Grants and Loans Limit) Act (Northern Ireland) 2021 (c. 1)](https://www.legislation.gov.uk/nia/2021/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2021/1/section/1/2), [2](https://www.legislation.gov.uk/nia/2021/1/section/2)
 
 [^c547347]: Textual amendment: 1972 NI 14
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(A1)[^key-1112be9b73e7f0ca331e29c687806ed2] This regulation does not apply to sums in respect of which interest is payable under—
+(A1)[^c-1112be9b73e7f0ca331e29c687806ed2] This regulation does not apply to sums in respect of which interest is payable under—
 
 - (a) regulation 4T of the Transitional Provisions and Savings Regulations 2014; or
 - (b) regulation 14 of the Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1112be9b73e7f0ca331e29c687806ed2]: Textual amendment: [Reg. 76(A1)](https://www.legislation.gov.uk/ssi/2018/141/regulation/76/A1) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(13)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/13)
+[^c-1112be9b73e7f0ca331e29c687806ed2]: Textual amendment: [Reg. 76(A1)](https://www.legislation.gov.uk/ssi/2018/141/regulation/76/A1) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(13)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/13)
 
 [^c22970941]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).

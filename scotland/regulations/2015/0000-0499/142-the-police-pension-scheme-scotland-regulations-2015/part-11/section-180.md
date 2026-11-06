@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 180. Transfer statement[^key-ddcf4bd834a3ba99b1b23ccb5ea1fbf8]
+## 180. Transfer statement[^c-ddcf4bd834a3ba99b1b23ccb5ea1fbf8]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddcf4bd834a3ba99b1b23ccb5ea1fbf8]: Commencement: Reg. 180 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ddcf4bd834a3ba99b1b23ccb5ea1fbf8]: Commencement: Reg. 180 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

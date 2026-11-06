@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1253A. Contributions to flood and coastal erosion risk management projects: refunds etc[^key-8b86808a17a3228b4d055b4cd164c646]
+## 1253A. Contributions to flood and coastal erosion risk management projects: refunds etc[^c-8b86808a17a3228b4d055b4cd164c646]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b86808a17a3228b4d055b4cd164c646]: Textual amendment: S. 1253A inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/7)
+[^c-8b86808a17a3228b4d055b4cd164c646]: Textual amendment: S. 1253A inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.2. Expenses[^key-f4dca2b36afb2b589cadc44461143075]
+## 2.2. Expenses[^c-f4dca2b36afb2b589cadc44461143075]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The sheriff may make such an order with regard to the expenses, including the ex
 
 ## Annotations
 
-[^key-f4dca2b36afb2b589cadc44461143075]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/uksi/1997/291/rule/2.2) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-f4dca2b36afb2b589cadc44461143075]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/uksi/1997/291/rule/2.2) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Requirements of the post-construction assessment[^key-127ccd2e77a018067143619e8530977a]
+## 48. Requirements of the post-construction assessment[^c-127ccd2e77a018067143619e8530977a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A post-construction assessment must be carried out in accordance with the proces
 
 ## Annotations
 
-[^key-127ccd2e77a018067143619e8530977a]: Commencement: Reg. 48 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-127ccd2e77a018067143619e8530977a]: Commencement: Reg. 48 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

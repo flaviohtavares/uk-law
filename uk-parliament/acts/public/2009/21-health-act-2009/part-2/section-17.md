@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Trust special administrators: Primary Care Trusts[^key-6b1adaf43d17cbc561875f70849f5207]
+## 17. Trust special administrators: Primary Care Trusts[^c-6b1adaf43d17cbc561875f70849f5207]
 
 *Extent: E+W*
 
@@ -203,4 +203,4 @@ After section 65O of the National Health Service Act 2006 (c. 41) (inserted by s
 
 ## Annotations
 
-[^key-6b1adaf43d17cbc561875f70849f5207]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/21/section/17) in force at 15.2.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)
+[^c-6b1adaf43d17cbc561875f70849f5207]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2009/21/section/17) in force at 15.2.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ...[^key-cb27868fafd6ed94c4052283b4040aa0][^key-cb27868fafd6ed94c4052283b4040aa0]
+## ...[^c-cb27868fafd6ed94c4052283b4040aa0][^c-cb27868fafd6ed94c4052283b4040aa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb27868fafd6ed94c4052283b4040aa0]: Textual amendment: Title 6 Ch. 3 omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/1481/regulation/23) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-cb27868fafd6ed94c4052283b4040aa0]: Textual amendment: Title 6 Ch. 3 omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/1481/regulation/23) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

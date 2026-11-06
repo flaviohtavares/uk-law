@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Inclosure[^c1912346][^key-e1cda944b05816fe47b453bcf319d463]
+## 48. Inclosure[^c1912346][^c-e1cda944b05816fe47b453bcf319d463]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c1912346]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/26/section/48) partly in force; [s. 48](https://www.legislation.gov.uk/ukpga/2006/26/section/48) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/56/1); [s. 48](https://www.legislation.gov.uk/ukpga/2006/26/section/48) in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/c)
 
-[^key-e1cda944b05816fe47b453bcf319d463]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/26/section/48) in force at 1.4.2012 for W. by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/739/article/2/g) (with [art. 4(2)](https://www.legislation.gov.uk/wsi/2012/739/article/4/2))
+[^c-e1cda944b05816fe47b453bcf319d463]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/26/section/48) in force at 1.4.2012 for W. by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/739/article/2/g) (with [art. 4(2)](https://www.legislation.gov.uk/wsi/2012/739/article/4/2))

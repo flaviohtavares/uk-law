@@ -29,7 +29,7 @@ Dogs Act 1871
 
 1871 c.56
 
-An Act to provide further Protection against Dogs.[^key-1d236c62ed0f588daad9410bf3f6941f]
+An Act to provide further Protection against Dogs.[^c-1d236c62ed0f588daad9410bf3f6941f]
 
 \[24th July 1871\][^c5678961][^c5678971][^c5678981]
 
@@ -66,7 +66,7 @@ This Act may be cited as “**The Dogs Act, 1871.**”
 
 ## Annotations
 
-[^key-1d236c62ed0f588daad9410bf3f6941f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/34-35/56) repealed (S.) (26.2.2011) by [Control of Dogs (Scotland) Act 2010 (asp 9)](https://www.legislation.gov.uk/asp/2010/9), [Sch. 2](https://www.legislation.gov.uk/asp/2010/9/schedule/2) (with [s. 16](https://www.legislation.gov.uk/asp/2010/9/section/16))
+[^c-1d236c62ed0f588daad9410bf3f6941f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/34-35/56) repealed (S.) (26.2.2011) by [Control of Dogs (Scotland) Act 2010 (asp 9)](https://www.legislation.gov.uk/asp/2010/9), [Sch. 2](https://www.legislation.gov.uk/asp/2010/9/schedule/2) (with [s. 16](https://www.legislation.gov.uk/asp/2010/9/section/16))
 
 [^c5678961]: Modification: Preamble omitted under authority of [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54)
 

@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Health and Safety (Miscellaneous Fees Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+Health and Safety (Miscellaneous Fees Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 Made
 
@@ -40,43 +40,43 @@ Coming into operation
 
 16th June 1997
 
-[^key-2d4fa7ff0350635208e0fd138cdacb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d4fa7ff0350635208e0fd138cdacb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## 1. Citation and commencement[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## 2. Amendment of the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Road Traffic (Training of Drivers of Vehicles Carrying Dangerous Goods) Regulations (Northern Ireland) 1992[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## 3. Amendment of the Road Traffic (Training of Drivers of Vehicles Carrying Dangerous Goods) Regulations (Northern Ireland) 1992[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Notification of New Substances Regulations (Northern Ireland) 1994[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## 4. Amendment of the Notification of New Substances Regulations (Northern Ireland) 1994[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## 5. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## 6. Revocations[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d4fa7ff0350635208e0fd138cdacb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d4fa7ff0350635208e0fd138cdacb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be substituted for Schedule 4 to the Notification of New Substances Regulations (Northern Ireland) 1994[^key-2d4fa7ff0350635208e0fd138cdacb2a]
+## SCHEDULE — Schedule to be substituted for Schedule 4 to the Notification of New Substances Regulations (Northern Ireland) 1994[^c-2d4fa7ff0350635208e0fd138cdacb2a]
 
 Regulation 4
 
-> **SCHEDULE 4 — Fees for Notifications etc.[^key-2d4fa7ff0350635208e0fd138cdacb2a]**
+> **SCHEDULE 4 — Fees for Notifications etc.[^c-2d4fa7ff0350635208e0fd138cdacb2a]**
 >
 > Regulation 24
 >
@@ -84,8 +84,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d4fa7ff0350635208e0fd138cdacb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d4fa7ff0350635208e0fd138cdacb2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d4fa7ff0350635208e0fd138cdacb2a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/234) revoked (5.5.1998) by [Health and Safety (Fees) Regulations (Northern Ireland) 1998 (S.R. 1998/125)](https://www.legislation.gov.uk/nisr/1998/125), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/1998/125/regulation/12), [Sch. 9](https://www.legislation.gov.uk/nisr/1998/125/schedule/9)
+[^c-2d4fa7ff0350635208e0fd138cdacb2a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/234) revoked (5.5.1998) by [Health and Safety (Fees) Regulations (Northern Ireland) 1998 (S.R. 1998/125)](https://www.legislation.gov.uk/nisr/1998/125), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/1998/125/regulation/12), [Sch. 9](https://www.legislation.gov.uk/nisr/1998/125/schedule/9)

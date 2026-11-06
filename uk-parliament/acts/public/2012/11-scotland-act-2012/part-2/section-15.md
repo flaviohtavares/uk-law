@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to vary retrospective decisions about non-legislative acts[^key-c2f3044ed06eb8d6b9a0a3623a5e9cb8]
+## 15. Power to vary retrospective decisions about non-legislative acts[^c-c2f3044ed06eb8d6b9a0a3623a5e9cb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 102 of the 1998 Act (powers of courts or tribunals to vary retrospect
 
 ## Annotations
 
-[^key-c2f3044ed06eb8d6b9a0a3623a5e9cb8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2012/11/section/15) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/h)
+[^c-c2f3044ed06eb8d6b9a0a3623a5e9cb8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2012/11/section/15) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/h)

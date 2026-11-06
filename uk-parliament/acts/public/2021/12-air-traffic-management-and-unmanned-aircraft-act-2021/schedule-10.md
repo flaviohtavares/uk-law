@@ -24,7 +24,7 @@ Section 15
 
 ### Power to issue fixed penalty notices
 
-**1.**[^c24537991][^key-eaad25adf18814fd6ca3deefc4e2cd26] (1) This paragraph applies where a constable has reason to believe that a person (P) aged 18 or over is committing, or has committed, a fixed penalty offence.
+**1.**[^c24537991][^c-eaad25adf18814fd6ca3deefc4e2cd26] (1) This paragraph applies where a constable has reason to believe that a person (P) aged 18 or over is committing, or has committed, a fixed penalty offence.
 
 (2) The constable may give P a fixed penalty notice in respect of the fixed penalty offence if Condition A and Condition B are met.
 
@@ -43,7 +43,7 @@ when committing the fixed penalty offence.
 
 ### Fixed penalty offences
 
-**2.**[^c24538001][^key-de27715a37be63d3a70a78be09c81389] (1) The Secretary of State may, by regulations, prescribe offences as fixed penalty offences for the purposes of this Schedule.
+**2.**[^c24538001][^c-de27715a37be63d3a70a78be09c81389] (1) The Secretary of State may, by regulations, prescribe offences as fixed penalty offences for the purposes of this Schedule.
 
 (2) The Secretary of State may prescribe an offence only if it is—
 
@@ -64,7 +64,7 @@ which is triable summarily or triable either way.
 
 ### Fixed penalty notices
 
-**3.**[^c24538011][^key-fd3878b106b454509b8b9574d1032ce3] (1) A “fixed penalty notice” is a notice offering the opportunity of the discharge of any liability to conviction of the fixed penalty offence to which the notice relates by payment of a fixed penalty in accordance with this Schedule.
+**3.**[^c24538011][^c-fd3878b106b454509b8b9574d1032ce3] (1) A “fixed penalty notice” is a notice offering the opportunity of the discharge of any liability to conviction of the fixed penalty offence to which the notice relates by payment of a fixed penalty in accordance with this Schedule.
 
 (2) A fixed penalty notice must—
 
@@ -84,7 +84,7 @@ which is triable summarily or triable either way.
 
 ### Effect of fixed penalty notice
 
-**4.**[^c24538021][^key-8fb1e16b354e70ba8e90c282b62e6a09] (1) This paragraph applies if a person (P) is given a fixed penalty notice in respect of a fixed penalty offence.
+**4.**[^c24538021][^c-8fb1e16b354e70ba8e90c282b62e6a09] (1) This paragraph applies if a person (P) is given a fixed penalty notice in respect of a fixed penalty offence.
 
 (2) No proceedings may be instituted for the offence during the 21 day response period.
 
@@ -96,7 +96,7 @@ which is triable summarily or triable either way.
 
 ### Amount of fixed penalty
 
-**5.**[^c24538031][^key-cf1e95301164538a8ebc5ef563b71956] (1) The fixed penalty for a fixed penalty offence is to be prescribed by the Secretary of State by regulations; and where two amounts are specified in accordance with paragraph 3(3), the higher of those amounts must be the prescribed fixed penalty.
+**5.**[^c24538031][^c-cf1e95301164538a8ebc5ef563b71956] (1) The fixed penalty for a fixed penalty offence is to be prescribed by the Secretary of State by regulations; and where two amounts are specified in accordance with paragraph 3(3), the higher of those amounts must be the prescribed fixed penalty.
 
 (2) The fixed penalty prescribed for a fixed penalty offence may not exceed—
 
@@ -105,7 +105,7 @@ which is triable summarily or triable either way.
 
 ### Supplementary provision
 
-**6.**[^c24538041][^key-7cb7c6a7ba4c6286f8e575ed3688d4a5] (1) The Secretary of State may, by regulations, make—
+**6.**[^c24538041][^c-7cb7c6a7ba4c6286f8e575ed3688d4a5] (1) The Secretary of State may, by regulations, make—
 
 - (a) provision about the form of, and information to be included in, fixed penalty notices;
 - (b) provision about the consequences of providing false statements in connection with fixed penalty notices, including provision creating criminal offences;
@@ -115,7 +115,7 @@ which is triable summarily or triable either way.
 
 ### Issuing of registration documents
 
-**7.**[^c24538051][^key-ad4966526634ee0287bd05ccd11a1647] (1) This paragraph applies if, by the end of the 21 day response period, the person (P) given the fixed penalty notice has not—
+**7.**[^c24538051][^c-ad4966526634ee0287bd05ccd11a1647] (1) This paragraph applies if, by the end of the 21 day response period, the person (P) given the fixed penalty notice has not—
 
 - (a) paid the penalty specified in the fixed penalty notice, or
 - (b) requested a hearing.
@@ -139,7 +139,7 @@ which is triable summarily or triable either way.
 
 ### Sending of registration documents
 
-**8.**[^c24538061][^key-7013c50837e23f6ddf76ef11482da23d] (1) Where—
+**8.**[^c24538061][^c-7013c50837e23f6ddf76ef11482da23d] (1) Where—
 
 - (a) a person (P) is given a fixed penalty notice in respect of a fixed penalty offence, and
 - (b) a registration document is issued by a person (R) under paragraph 7 in respect of the penalty specified in the fixed penalty notice,
@@ -162,7 +162,7 @@ R must cause the registration document to be sent to the relevant recipient.
 
 ### Registration of fixed penalty: document sent to designated officer in England and Wales
 
-**9.**[^c24538071][^key-a0bdf27e5b7c6093d65a3c0ac6b877c5] (1) Where the designated officer for a local justice area (D) receives a registration document in respect of the penalty specified in a fixed penalty notice given to a person (P) the registration document must be dealt with in accordance with this paragraph.
+**9.**[^c24538071][^c-a0bdf27e5b7c6093d65a3c0ac6b877c5] (1) Where the designated officer for a local justice area (D) receives a registration document in respect of the penalty specified in a fixed penalty notice given to a person (P) the registration document must be dealt with in accordance with this paragraph.
 
 (2) That duty applies whether D receives the registration document under paragraph 8, this paragraph or paragraph 10 or 11.
 
@@ -197,7 +197,7 @@ R must cause the registration document to be sent to the relevant recipient.
 
 ### Registration of fixed penalty: document sent to clerk in Scotland
 
-**10.**[^c24538081][^key-1b995ec1fb355576c35f3bcf51342d04] (1) Where the clerk of a court of summary jurisdiction (C) receives a registration document in respect of the penalty specified in a fixed penalty notice given to a person (P), the registration document must be dealt with in accordance with this paragraph.
+**10.**[^c24538081][^c-1b995ec1fb355576c35f3bcf51342d04] (1) Where the clerk of a court of summary jurisdiction (C) receives a registration document in respect of the penalty specified in a fixed penalty notice given to a person (P), the registration document must be dealt with in accordance with this paragraph.
 
 (2) That duty applies whether C receives the registration document under paragraph 8 or 9, this paragraph or paragraph 11.
 
@@ -232,7 +232,7 @@ R must cause the registration document to be sent to the relevant recipient.
 
 ### Registration of fixed penalty: document sent to clerk of petty sessions in Northern Ireland
 
-**11.**[^c24538091][^key-b1ae7bc0f093b0072912dbb5ac0a281c] (1) Where the clerk of petty sessions (C) receives a registration document in respect of the penalty specified in a fixed penalty notice given to a person (P), the registration document must be dealt with in accordance with this paragraph.
+**11.**[^c24538091][^c-b1ae7bc0f093b0072912dbb5ac0a281c] (1) Where the clerk of petty sessions (C) receives a registration document in respect of the penalty specified in a fixed penalty notice given to a person (P), the registration document must be dealt with in accordance with this paragraph.
 
 (2) That duty applies whether C receives the registration document under paragraph 8, 9 or 10.
 
@@ -268,13 +268,13 @@ R must cause the registration document to be sent to the relevant recipient.
 
 ### Bodies corporate & the Crown
 
-**12.**[^c24538101][^key-f69fc62b2479e0d46705e9e08144f91e] (1) For the purposes of this Schedule, where a fixed penalty notice is given to a body corporate, the place where that body resides and the address of that body are the registered or principal office of that body.
+**12.**[^c24538101][^c-f69fc62b2479e0d46705e9e08144f91e] (1) For the purposes of this Schedule, where a fixed penalty notice is given to a body corporate, the place where that body resides and the address of that body are the registered or principal office of that body.
 
 (2) Nothing in this Schedule authorises a fixed penalty notice to be given in respect of the commission of a fixed penalty offence if, by virtue of any immunity of the Crown, no liability to a penalty for commission of the offence would arise.
 
 ### Interpretation
 
-**13.**[^c24538111][^key-406bf3d4b47d1ea25fcf6ceb115b5d3b] In this Schedule—
+**13.**[^c24538111][^c-406bf3d4b47d1ea25fcf6ceb115b5d3b] In this Schedule—
 
 - “**court of summary jurisdiction**”, in relation to Scotland, has the same meaning as in section 307(1) of the Criminal Procedure (Scotland) Act 1995;
 - “**fixed penalty notice**” has the meaning given in paragraph 3(1);
@@ -284,52 +284,52 @@ R must cause the registration document to be sent to the relevant recipient.
 
 [^c24537991]: Commencement: Sch. 10 para. 1 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-eaad25adf18814fd6ca3deefc4e2cd26]: Commencement: Sch. 10 para. 1 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-eaad25adf18814fd6ca3deefc4e2cd26]: Commencement: Sch. 10 para. 1 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538001]: Commencement: Sch. 10 para. 2 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-de27715a37be63d3a70a78be09c81389]: Commencement: Sch. 10 para. 2 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-de27715a37be63d3a70a78be09c81389]: Commencement: Sch. 10 para. 2 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538011]: Commencement: Sch. 10 para. 3 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-fd3878b106b454509b8b9574d1032ce3]: Commencement: Sch. 10 para. 3 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-fd3878b106b454509b8b9574d1032ce3]: Commencement: Sch. 10 para. 3 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538021]: Commencement: Sch. 10 para. 4 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-8fb1e16b354e70ba8e90c282b62e6a09]: Commencement: Sch. 10 para. 4 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-8fb1e16b354e70ba8e90c282b62e6a09]: Commencement: Sch. 10 para. 4 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538031]: Commencement: Sch. 10 para. 5 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-cf1e95301164538a8ebc5ef563b71956]: Commencement: Sch. 10 para. 5 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-cf1e95301164538a8ebc5ef563b71956]: Commencement: Sch. 10 para. 5 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538041]: Commencement: Sch. 10 para. 6 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-7cb7c6a7ba4c6286f8e575ed3688d4a5]: Commencement: Sch. 10 para. 6 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-7cb7c6a7ba4c6286f8e575ed3688d4a5]: Commencement: Sch. 10 para. 6 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538051]: Commencement: Sch. 10 para. 7 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-ad4966526634ee0287bd05ccd11a1647]: Commencement: Sch. 10 para. 7 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-ad4966526634ee0287bd05ccd11a1647]: Commencement: Sch. 10 para. 7 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538061]: Commencement: Sch. 10 para. 8 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-7013c50837e23f6ddf76ef11482da23d]: Commencement: Sch. 10 para. 8 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-7013c50837e23f6ddf76ef11482da23d]: Commencement: Sch. 10 para. 8 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538071]: Commencement: Sch. 10 para. 9 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-a0bdf27e5b7c6093d65a3c0ac6b877c5]: Commencement: Sch. 10 para. 9 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-a0bdf27e5b7c6093d65a3c0ac6b877c5]: Commencement: Sch. 10 para. 9 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538081]: Commencement: Sch. 10 para. 10 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-1b995ec1fb355576c35f3bcf51342d04]: Commencement: Sch. 10 para. 10 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-1b995ec1fb355576c35f3bcf51342d04]: Commencement: Sch. 10 para. 10 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538091]: Commencement: Sch. 10 para. 11 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-b1ae7bc0f093b0072912dbb5ac0a281c]: Commencement: Sch. 10 para. 11 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-b1ae7bc0f093b0072912dbb5ac0a281c]: Commencement: Sch. 10 para. 11 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538101]: Commencement: Sch. 10 para. 12 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-f69fc62b2479e0d46705e9e08144f91e]: Commencement: Sch. 10 para. 12 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-f69fc62b2479e0d46705e9e08144f91e]: Commencement: Sch. 10 para. 12 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
 
 [^c24538111]: Commencement: Sch. 10 para. 13 in force at 29.4.2021 for specified purposes, see s. 21(1)(a)
 
-[^key-406bf3d4b47d1ea25fcf6ceb115b5d3b]: Commencement: Sch. 10 para. 13 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)
+[^c-406bf3d4b47d1ea25fcf6ceb115b5d3b]: Commencement: Sch. 10 para. 13 in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/l)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If an unretired[^key-8c8f9124d22485bc03be8b68cc404b81] FPJAYS member (“M”) who is paying periodic contributions under the FPJAYS is neither married nor a civil partner and has no qualifying children at the time M retires, dies or otherwise leaves the principal scheme, M, or M's estate, is entitled to a refund in accordance with this regulation.
+(1) If an unretired[^c-8c8f9124d22485bc03be8b68cc404b81] FPJAYS member (“M”) who is paying periodic contributions under the FPJAYS is neither married nor a civil partner and has no qualifying children at the time M retires, dies or otherwise leaves the principal scheme, M, or M's estate, is entitled to a refund in accordance with this regulation.
 
 (2) The amount to be refunded must be determined in accordance with the formula
 
@@ -51,7 +51,7 @@ summary: ''
 
 M is entitled to a refund of the excess contributions.
 
-(4A)[^key-d6715625bb97fdef4cd3da409c057230] If a retired member purchases a number of added years (“**AY**”) after making an election under regulation 11C, the member is entitled to a refund of the difference between—
+(4A)[^c-d6715625bb97fdef4cd3da409c057230] If a retired member purchases a number of added years (“**AY**”) after making an election under regulation 11C, the member is entitled to a refund of the difference between—
 
 - (a) the contribution payable for AY under regulation 107; and
 - (b) the total contribution that would have been payable if, before making the election, the member had—
@@ -62,6 +62,6 @@ M is entitled to a refund of the excess contributions.
 
 ## Annotations
 
-[^key-8c8f9124d22485bc03be8b68cc404b81]: Textual amendment: Word in [reg. 113(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/113/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [55(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/55/a)
+[^c-8c8f9124d22485bc03be8b68cc404b81]: Textual amendment: Word in [reg. 113(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/113/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [55(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/55/a)
 
-[^key-d6715625bb97fdef4cd3da409c057230]: Textual amendment: [Reg. 113(4A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/113/4A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [55(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/55/b)
+[^c-d6715625bb97fdef4cd3da409c057230]: Textual amendment: [Reg. 113(4A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/113/4A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [55(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/55/b)

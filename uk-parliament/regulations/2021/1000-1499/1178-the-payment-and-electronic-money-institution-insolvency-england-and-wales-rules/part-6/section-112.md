@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Distribution plan[^key-885268281e17b03c8628ee98951555e0]
+## 112. Distribution plan[^c-885268281e17b03c8628ee98951555e0]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-885268281e17b03c8628ee98951555e0]: Commencement: Rule 112 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-885268281e17b03c8628ee98951555e0]: Commencement: Rule 112 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Prescribed forms relating to civil partnerships[^key-dd09c59abd879dbd10ff2c74eea6e987]
+## 20. Prescribed forms relating to civil partnerships[^c-dd09c59abd879dbd10ff2c74eea6e987]
 
 *Extent: N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd09c59abd879dbd10ff2c74eea6e987]: Commencement: Reg. 20 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-dd09c59abd879dbd10ff2c74eea6e987]: Commencement: Reg. 20 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00021]: Footnote: [S.R. (N.I.) 2005/482](https://www.legislation.gov.uk/nisr/2005/482). Schedule 1 was amended by regulation 2(4) of [S.R. (N.I.) 2014/297](https://www.legislation.gov.uk/nisr/2014/297).

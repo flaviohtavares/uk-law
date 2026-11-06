@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Temporary use of land for carrying out the authorised development[^key-e46cb2fe83eb4e2c9add0407616e954c]
+## 33. Temporary use of land for carrying out the authorised development[^c-e46cb2fe83eb4e2c9add0407616e954c]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e46cb2fe83eb4e2c9add0407616e954c]: Commencement: Art. 33 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e46cb2fe83eb4e2c9add0407616e954c]: Commencement: Art. 33 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091381]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2020/474/section/11) was amended by section 34(1) of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 3](https://www.legislation.gov.uk/ukpga/1981/67/section/3) of, and Part 1 of Schedule 1 to, the [Housing Consequential Provisions Act 1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), [section 14](https://www.legislation.gov.uk/ukpga/1985/71/section/14) of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measures 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

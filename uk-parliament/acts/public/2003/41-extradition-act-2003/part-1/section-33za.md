@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33ZA. Scottish devolution issue: remand in custody or on bail[^key-2003f58289a1b6945db0d2762daab96c]
+## 33ZA. Scottish devolution issue: remand in custody or on bail[^c-2003f58289a1b6945db0d2762daab96c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2003f58289a1b6945db0d2762daab96c]: Textual amendment: S. 33ZA inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/18) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/2))
+[^c-2003f58289a1b6945db0d2762daab96c]: Textual amendment: S. 33ZA inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/18) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/2))

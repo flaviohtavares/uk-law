@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Vacancy where acting commissioner acts for 6 months[^key-39d1da3d6ac90e7804b167f4a720bee7][^key-e8a20a1f5a3735454560223bd95644ab][^key-950ed698456d58c80a6e59b8d7257c63]
+## 63. Vacancy where acting commissioner acts for 6 months[^c-39d1da3d6ac90e7804b167f4a720bee7][^c-e8a20a1f5a3735454560223bd95644ab][^c-950ed698456d58c80a6e59b8d7257c63]
 
 *Extent: E+W*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-39d1da3d6ac90e7804b167f4a720bee7]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/13/section/63) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-39d1da3d6ac90e7804b167f4a720bee7]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/13/section/63) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-e8a20a1f5a3735454560223bd95644ab]: Modification: [S. 63](https://www.legislation.gov.uk/ukpga/2011/13/section/63) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/28)
+[^c-e8a20a1f5a3735454560223bd95644ab]: Modification: [S. 63](https://www.legislation.gov.uk/ukpga/2011/13/section/63) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/28)
 
-[^key-950ed698456d58c80a6e59b8d7257c63]: Modification: [S. 63](https://www.legislation.gov.uk/ukpga/2011/13/section/63) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 28](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/28)
+[^c-950ed698456d58c80a6e59b8d7257c63]: Modification: [S. 63](https://www.legislation.gov.uk/ukpga/2011/13/section/63) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 28](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/28)

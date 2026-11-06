@@ -61,7 +61,7 @@ summary: ''
 >
 > (10) A statutory instrument containing rules under this section must not be made unless a draft of the instrument has been laid before and approved by resolution of Senedd Cymru.
 
-(4)[^key-d75aafda34225f3a11af72afd330a69c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d75aafda34225f3a11af72afd330a69c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Until sections 5 to 9 of this Act come into force, section 36A(2)(d) of the 1983 Act has effect as if it made the following provision—
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d75aafda34225f3a11af72afd330a69c]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/asc/2021/1/section/13/4) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/wsi/2022/263/schedule/4/paragraph/1/a) (with [reg. 12(g)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/g))
+[^c-d75aafda34225f3a11af72afd330a69c]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/asc/2021/1/section/13/4) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/wsi/2022/263/schedule/4/paragraph/1/a) (with [reg. 12(g)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/g))

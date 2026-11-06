@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Apparatus and rights of statutory undertakers in stopped up streets[^key-f0d7424e6b749187290658323c3801ac]
+## 38. Apparatus and rights of statutory undertakers in stopped up streets[^c-f0d7424e6b749187290658323c3801ac]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-f0d7424e6b749187290658323c3801ac]: Commencement: Art. 38 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-f0d7424e6b749187290658323c3801ac]: Commencement: Art. 38 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

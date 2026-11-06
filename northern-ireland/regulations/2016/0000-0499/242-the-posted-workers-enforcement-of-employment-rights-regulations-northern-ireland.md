@@ -72,9 +72,9 @@ These Regulations may be cited as the Posted Workers (Enforcement of Employment 
 (2) For the purposes of this regulation and regulations 4 to 7—
 
 - “**contractor**” means a person with whom the employer has contracted to provide services;
-- “[^key-07796847a5234cefd3044c11d9113860]**employer**” means a service provider established in the United Kingdom or a Member State which posts or hires out workers in a manner described by paragraph 3 of Article 1 of Directive [96/71/EC](https://www.legislation.gov.uk/eudr/1996/71);
+- “[^c-07796847a5234cefd3044c11d9113860]**employer**” means a service provider established in the United Kingdom or a Member State which posts or hires out workers in a manner described by paragraph 3 of Article 1 of Directive [96/71/EC](https://www.legislation.gov.uk/eudr/1996/71);
 - “**posted worker in the construction sector**” means a worker who—
-  - (a) normally works in a Member State [^key-bca70ad0ba98d869535536f4a1cdc0fa]... but, for a limited period, carries out work on behalf of the employer in Northern Ireland; and
+  - (a) normally works in a Member State [^c-bca70ad0ba98d869535536f4a1cdc0fa]... but, for a limited period, carries out work on behalf of the employer in Northern Ireland; and
   - (b) undertakes building work relating to the construction, repair, upkeep, alteration or demolition of buildings including any of the following—
     - (i) excavation;
     - (ii) earthmoving;
@@ -90,7 +90,7 @@ These Regulations may be cited as the Posted Workers (Enforcement of Employment 
     - (xii) upkeep, painting and cleaning work; and
     - (xiii) improvements.
 
-(3)[^key-7d48e5cbcb9168a6557e277668e1feba] For the purposes of the definition of “employer” in paragraph (2), paragraph 3 of Article 1 of Directive [96/71/EC](https://www.legislation.gov.uk/eudr/1996/71) is to be read as if—
+(3)[^c-7d48e5cbcb9168a6557e277668e1feba] For the purposes of the definition of “employer” in paragraph (2), paragraph 3 of Article 1 of Directive [96/71/EC](https://www.legislation.gov.uk/eudr/1996/71) is to be read as if—
 
 - (a) in point (a)—
   - (i) after “post workers to” there were inserted “ the United Kingdom or ”;
@@ -122,7 +122,7 @@ These Regulations may be cited as the Posted Workers (Enforcement of Employment 
 
 (3) In any complaint brought under paragraph (1), it is a defence for the contractor to show that it exercised all due diligence to ensure that the worker's employer would remunerate the worker in respect of the relevant sum due to the worker.
 
-(4) Subject to paragraph (6) and regulation 5A[^key-2d167a7bdee91b85b69fe83bc4347eec] an industrial tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of three months beginning with the date of payment of the relevant wages from which the deduction was made.
+(4) Subject to paragraph (6) and regulation 5A[^c-2d167a7bdee91b85b69fe83bc4347eec] an industrial tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of three months beginning with the date of payment of the relevant wages from which the deduction was made.
 
 (5) Where a complaint is brought under this regulation in respect of a series of deductions, the reference in paragraph (4) to the deduction is to the last deduction in the series.
 
@@ -135,7 +135,7 @@ These Regulations may be cited as the Posted Workers (Enforcement of Employment 
 
 unless the tribunal dismisses the complaint under this regulation in accordance with paragraph (3).
 
-### 5A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-75192a5c41305de239aced84d55ca0e2]
+### 5A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-75192a5c41305de239aced84d55ca0e2]
 
 (1) In this regulation—
 
@@ -165,12 +165,12 @@ unless the tribunal dismisses the complaint under this regulation in accordance 
 - (a) to exclude or limit the operation of any provision of these Regulations, or
 - (b) to preclude a person from bringing proceedings under these Regulations before an industrial tribunal.
 
-(2)[^key-09fe076532febaff98ccd7f411e453cc] Paragraph (1) does not apply to—
+(2)[^c-09fe076532febaff98ccd7f411e453cc] Paragraph (1) does not apply to—
 
 - (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of Articles 20A to 20C of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation); or
 - (b) any agreement to refrain from instituting or continuing proceedings if the conditions regulating compromise agreements under these Regulations are satisfied in relation to the agreement.
 
-(3) For the purposes of paragraph (2)(b)[^key-54f2f1729b6a6927001d6df5f00c6e27] the conditions regulating compromise agreements under these Regulations are that—
+(3) For the purposes of paragraph (2)(b)[^c-54f2f1729b6a6927001d6df5f00c6e27] the conditions regulating compromise agreements under these Regulations are that—
 
 - (a) the agreement must be in writing;
 - (b) the agreement must relate to the particular complaint;
@@ -215,14 +215,14 @@ but this is subject to paragraph (5).
 
 (1) A sum payable in pursuance of an EU penalty is enforceable by the Enforcement of Judgments Office as if it were a money judgment within the meaning of the Judgments Enforcement (Northern Ireland) Order 1981 [^c22844091]
 
-(2) Where a competent authority in a Member State [^key-ef2ab0c4619f5206b8004f9a06a35399]... requests the recovery of an EU penalty, the Department is entitled to recover the amount of any sum owing as part of that EU penalty.
+(2) Where a competent authority in a Member State [^c-ef2ab0c4619f5206b8004f9a06a35399]... requests the recovery of an EU penalty, the Department is entitled to recover the amount of any sum owing as part of that EU penalty.
 
 (3) For the purposes of this regulation—
 
 - “**EU penalty**” means a financial administrative penalty or fine including fees and surcharges relating to non-compliance with Directive [96/71/EC](https://www.legislation.gov.uk/eudr/1996/71) or Directive 2014/67/EU—
-  - (a) imposed on a service provider established in the United Kingdom by a competent authority in a Member State [^key-ef2ab0c4619f5206b8004f9a06a35399]...; or
-  - (b) confirmed by an administrative or judicial body in a Member State [^key-ef2ab0c4619f5206b8004f9a06a35399]... as payable by a service provider established in the United Kingdom;
-- “**competent authority**” means a competent authority designated by a Member State [^key-ef2ab0c4619f5206b8004f9a06a35399]... for the purposes of Directive 2014/67/EU.
+  - (a) imposed on a service provider established in the United Kingdom by a competent authority in a Member State [^c-ef2ab0c4619f5206b8004f9a06a35399]...; or
+  - (b) confirmed by an administrative or judicial body in a Member State [^c-ef2ab0c4619f5206b8004f9a06a35399]... as payable by a service provider established in the United Kingdom;
+- “**competent authority**” means a competent authority designated by a Member State [^c-ef2ab0c4619f5206b8004f9a06a35399]... for the purposes of Directive 2014/67/EU.
 
 (4) Any amount received by the Department under this Part is to be paid into the Northern Ireland Consolidated Fund.
 
@@ -274,11 +274,11 @@ A transposition note and an impact assessment of the effect that these Regulatio
 
 [^c22844011]: Marginal citation: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-07796847a5234cefd3044c11d9113860]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07796847a5234cefd3044c11d9113860]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bca70ad0ba98d869535536f4a1cdc0fa]: Textual amendment: Words in reg. 3(2) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bca70ad0ba98d869535536f4a1cdc0fa]: Textual amendment: Words in reg. 3(2) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d48e5cbcb9168a6557e277668e1feba]: Textual amendment: Reg. 3(3) inserted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d48e5cbcb9168a6557e277668e1feba]: Textual amendment: Reg. 3(3) inserted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22844021]: Marginal citation: [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39); section 17 was amended by section 8 of the [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24).
 
@@ -286,13 +286,13 @@ A transposition note and an impact assessment of the effect that these Regulatio
 
 [^c22844041]: Marginal citation: [S.I.1996/1919](https://www.legislation.gov.uk/uksi/1996/1919) (N.I 16)
 
-[^key-2d167a7bdee91b85b69fe83bc4347eec]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2016/242/regulation/5/4) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 61](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/61)
+[^c-2d167a7bdee91b85b69fe83bc4347eec]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2016/242/regulation/5/4) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 61](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/61)
 
-[^key-75192a5c41305de239aced84d55ca0e2]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2016/242/regulation/5A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 62](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/62)
+[^c-75192a5c41305de239aced84d55ca0e2]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2016/242/regulation/5A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 62](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/62)
 
-[^key-09fe076532febaff98ccd7f411e453cc]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/242/regulation/7/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 63(a)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/63/a)
+[^c-09fe076532febaff98ccd7f411e453cc]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/nisr/2016/242/regulation/7/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 63(a)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/63/a)
 
-[^key-54f2f1729b6a6927001d6df5f00c6e27]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2016/242/regulation/7/3) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 63(b)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/63/b)
+[^c-54f2f1729b6a6927001d6df5f00c6e27]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/nisr/2016/242/regulation/7/3) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 63(b)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/63/b)
 
 [^c22844051]: Marginal citation: [1954 c. 33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -304,7 +304,7 @@ A transposition note and an impact assessment of the effect that these Regulatio
 
 [^c22844091]: Marginal citation: [S.I. 1981/226 (N.I.6)](https://www.legislation.gov.uk/nisi/1981/226)
 
-[^key-ef2ab0c4619f5206b8004f9a06a35399]: Textual amendment: Words in reg. 8 inserted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef2ab0c4619f5206b8004f9a06a35399]: Textual amendment: Words in reg. 8 inserted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22844101]: Marginal citation: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. Estimate of amount[^key-a4eba2be1d41292aaf04651e39adaacd]
+## 184. Estimate of amount[^c-a4eba2be1d41292aaf04651e39adaacd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ CIL regulations may require a charging authority to provide, in circumstances sp
 
 ## Annotations
 
-[^key-a4eba2be1d41292aaf04651e39adaacd]: Commencement: S. 184 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a4eba2be1d41292aaf04651e39adaacd]: Commencement: S. 184 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

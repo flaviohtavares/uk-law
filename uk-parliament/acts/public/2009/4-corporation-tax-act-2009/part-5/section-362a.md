@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362A. Corporate rescue: debt released shortly after connection arises[^key-b9f83e32bef8344b94fc11c108e374ea]
+## 362A. Corporate rescue: debt released shortly after connection arises[^c-b9f83e32bef8344b94fc11c108e374ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f83e32bef8344b94fc11c108e374ea]: Textual amendment: S. 362A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/39)
+[^c-b9f83e32bef8344b94fc11c108e374ea]: Textual amendment: S. 362A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/39)

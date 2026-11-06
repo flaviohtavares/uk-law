@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Protection of funds held for purposes of decommissioning[^key-b4957defeec81317aa617274c561f5c3][^key-550e3dc20a15be6b4996beac8257e664]
+## 110A. Protection of funds held for purposes of decommissioning[^c-b4957defeec81317aa617274c561f5c3][^c-550e3dc20a15be6b4996beac8257e664]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4957defeec81317aa617274c561f5c3]: Modification: S. 110A applied (with modifications) (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(e)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/e) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+[^c-b4957defeec81317aa617274c561f5c3]: Modification: S. 110A applied (with modifications) (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(e)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/e) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
 
-[^key-550e3dc20a15be6b4996beac8257e664]: Textual amendment: Ss. 110A, 110B inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 70(1)](https://www.legislation.gov.uk/ukpga/2008/32/section/70/1), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-550e3dc20a15be6b4996beac8257e664]: Textual amendment: Ss. 110A, 110B inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 70(1)](https://www.legislation.gov.uk/ukpga/2008/32/section/70/1), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)

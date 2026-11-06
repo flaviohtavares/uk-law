@@ -49,7 +49,7 @@ The Disability Living Allowance and Disability Working Allowance (Northern Irela
 (2) In this Order—
 
 - “the Attendance Allowance Board” means the Attendance Allowance Board for Northern Ireland;
-- [^key-f52792b7b0c7cf7714c413982bdc9096]...
+- [^c-f52792b7b0c7cf7714c413982bdc9096]...
 - “the Department” means the Department of Health and Social Services;
 - “the 1986 Order” means the [^m00003] Social Security (Northern Ireland) Order 1986;
 - “the Pensions Order” means the [^m00004] Social Security Pensions (Northern Ireland) Order 1975;
@@ -105,7 +105,7 @@ The Disability Living Allowance and Disability Working Allowance (Northern Irela
 
 [^m00002]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-f52792b7b0c7cf7714c413982bdc9096]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1991/1712/article/2/2) repealed (1.5.2015) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [s. 7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/nia/2009/3/schedule/2/paragraph/2/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/paragraph/4/3)); [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(b)(c)](https://www.legislation.gov.uk/nisr/2015/230/article/2/b/c)
+[^c-f52792b7b0c7cf7714c413982bdc9096]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1991/1712/article/2/2) repealed (1.5.2015) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [s. 7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/nia/2009/3/schedule/2/paragraph/2/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/paragraph/4/3)); [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(b)(c)](https://www.legislation.gov.uk/nisr/2015/230/article/2/b/c)
 
 [^m00003]: Marginal citation: 1986 NI 18
 

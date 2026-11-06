@@ -43,7 +43,7 @@ Coming into operation
 
 The Department for Regional Development[^f00001] makes the following Regulations in exercise of the powers conferred by Article 20(3) of the Roads (Northern Ireland) Order 1993[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-490f6aeb2e65248e189eea77a4493c7a]
+## 1. Citation, commencement and interpretation[^c-490f6aeb2e65248e189eea77a4493c7a]
 
 (1) These Regulations may be cited as The Westlink (Busways) Regulations (Northern Ireland) 2008 and shall come into operation on 24th October 2008.
 
@@ -54,24 +54,24 @@ The Department for Regional Development[^f00001] makes the following Regulations
 - “lay-by” means a surfaced area adjacent to the carriageway intended for the waiting of vehicles; and
 - “medical practitioner” means a registered person within the meaning of the Medical Act 1983[^f00005].
 
-## 2. Prohibition[^key-9767631a0406b9cf59b33044bd97a1b2]
+## 2. Prohibition[^c-9767631a0406b9cf59b33044bd97a1b2]
 
 (1) Save as provided in paragraph (2), a person shall not except upon the direction or with the permission of a constable in uniform, cause or permit traffic of Classes I-VI, VIII and X-XI of Schedule 1 to the Roads (Northern Ireland) Order 1993 to enter, proceed or wait in a busway.
 
 (2) The prohibition in paragraph (1) shall not apply to buses.
 
-## 3. Direction of driving[^key-f699b6e06a6124abff07fe1b61ac622e]
+## 3. Direction of driving[^c-f699b6e06a6124abff07fe1b61ac622e]
 
 Subject to regulation 7, a person shall not, except upon the direction or with the permission of a constable in uniform, cause or permit any bus to proceed—
 
 - (a) on the busway described in paragraph 1 of the Schedule other than in a north-easterly[^M_F_8bb22c82-a757-4f89-d8f9-59c76555761b] direction; and
 - (b) on the busway described in paragraph 2 of the Schedule other than in a westerly direction.
 
-## 4. Restriction on reversing[^key-3672ff346028bfefcd3e8072e00a0546]
+## 4. Restriction on reversing[^c-3672ff346028bfefcd3e8072e00a0546]
 
 Subject to regulation 7, a person shall not cause or permit a bus to be driven or moved backwards on a busway except insofar as it is necessary to back the bus to enable it to proceed forward along the busway or to be connected to any other vehicle.
 
-## 5. Prohibition on stopping[^key-56651362da0bcc64013038fb5f3245bb]
+## 5. Prohibition on stopping[^c-56651362da0bcc64013038fb5f3245bb]
 
 (1) Save as provided in paragraphs (2) and (3), and subject to regulation 7, a person shall not cause or permit a bus to stop or remain at rest on a busway.
 
@@ -84,7 +84,7 @@ Subject to regulation 7, a person shall not cause or permit a bus to be driven o
 
 (3) The prohibition in paragraph (1) shall not apply to a bus stopping within the limits of a bus stop in a lay-by or a bus stop as delineated by markings on the carriageway.
 
-## 6. Use of busways by pedestrians[^key-d9820eee783a2243254d26af05e92a75]
+## 6. Use of busways by pedestrians[^c-d9820eee783a2243254d26af05e92a75]
 
 A pedestrian may use a busway:—
 
@@ -92,7 +92,7 @@ A pedestrian may use a busway:—
 - (b) to gain access to a bus stop in a lay-by or a bus stop as mentioned in regulation 5(3); or
 - (c) in any of the circumstances specified in regulation 7(a), (b), (c) or (d).
 
-## 7. Exceptions[^key-39049b6b60e3b8816ae183440a266ec7]
+## 7. Exceptions[^c-39049b6b60e3b8816ae183440a266ec7]
 
 Nothing in regulations 3, 4 or 5 shall prohibit a person from using a busway in contravention of those regulations where:—
 
@@ -112,7 +112,7 @@ R Sherman
 
 A senior officer of the Department for Regional Development
 
-## SCHEDULE[^key-aee7e25bd1c9c4ee25eca11d7df3bebd]
+## SCHEDULE[^c-aee7e25bd1c9c4ee25eca11d7df3bebd]
 
 Regulation 1(2)
 
@@ -146,24 +146,24 @@ A person who acts in contravention of the Regulations shall be guilty of an offe
 
 [^f00003]: Footnote: [S.R. 1998 No. 481](https://www.legislation.gov.uk/nisr/1998/481) Article 6(*d*) and Schedule 4 Part IV
 
-[^key-490f6aeb2e65248e189eea77a4493c7a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/328/regulation/1) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-490f6aeb2e65248e189eea77a4493c7a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/328/regulation/1) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
 [^f00004]: Footnote: For the designation of these roads as special roads see Article 6(2) of, and Part IV of the Schedule to, the M1-M2 Link (Belast) Order (Northern Ireland) 2003 ([S.R. 2003 No. 149](https://www.legislation.gov.uk/nisr/2003/149))
 
 [^f00005]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-9767631a0406b9cf59b33044bd97a1b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/328/regulation/2) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-9767631a0406b9cf59b33044bd97a1b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/328/regulation/2) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
-[^key-f699b6e06a6124abff07fe1b61ac622e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/328/regulation/3) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-f699b6e06a6124abff07fe1b61ac622e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/328/regulation/3) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
 [^M_F_8bb22c82-a757-4f89-d8f9-59c76555761b]: Textual amendment: [Reg. 3(a)](https://editorial.legislation.gov.uk/nisr/2008/328/regulation/3) substituted (11.6.2014) by[The Westlink (Busways) (Amendment) Regulations (Northern Ireland) 2014](https://www.legislation.gov.uk/nisr/2014/124),[reg. 2(2)](https://editorial.legislation.gov.uk/nisr/2014/124/regulation/2/made)
 
-[^key-3672ff346028bfefcd3e8072e00a0546]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/328/regulation/4) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-3672ff346028bfefcd3e8072e00a0546]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/328/regulation/4) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
-[^key-56651362da0bcc64013038fb5f3245bb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/328/regulation/5) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-56651362da0bcc64013038fb5f3245bb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/328/regulation/5) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
-[^key-d9820eee783a2243254d26af05e92a75]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/328/regulation/6) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-d9820eee783a2243254d26af05e92a75]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/328/regulation/6) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
-[^key-39049b6b60e3b8816ae183440a266ec7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/328/regulation/7) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
+[^c-39049b6b60e3b8816ae183440a266ec7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/328/regulation/7) in operation at 24.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/328/regulation/1/1)
 
-[^key-aee7e25bd1c9c4ee25eca11d7df3bebd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/328/schedule) substituted (11.6.2014) by [The Westlink (Busways) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/124)](https://www.legislation.gov.uk/nisr/2014/124), [regs. 1](https://www.legislation.gov.uk/nisr/2014/124/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/124/regulation/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2014/124/schedule)
+[^c-aee7e25bd1c9c4ee25eca11d7df3bebd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/328/schedule) substituted (11.6.2014) by [The Westlink (Busways) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/124)](https://www.legislation.gov.uk/nisr/2014/124), [regs. 1](https://www.legislation.gov.uk/nisr/2014/124/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/124/regulation/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2014/124/schedule)

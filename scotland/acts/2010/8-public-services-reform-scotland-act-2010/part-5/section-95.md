@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Duty of SCSWIS to consult Scottish Social Services Council[^key-31d4cead88b8ae16f3ae31f06e16e1c5][^key-3580f9dcfdcccd648e1969bc7f33f12f]
+## 95. Duty of SCSWIS to consult Scottish Social Services Council[^c-31d4cead88b8ae16f3ae31f06e16e1c5][^c-3580f9dcfdcccd648e1969bc7f33f12f]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ SCSWIS must, in the exercise of its functions, consult the Scottish Social Servi
 
 ## Annotations
 
-[^key-31d4cead88b8ae16f3ae31f06e16e1c5]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/8/section/95) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-31d4cead88b8ae16f3ae31f06e16e1c5]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/8/section/95) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-3580f9dcfdcccd648e1969bc7f33f12f]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/8/section/95) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-3580f9dcfdcccd648e1969bc7f33f12f]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/8/section/95) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

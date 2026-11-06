@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43A. Local developments: schemes of delegation[^key-755f982717aa8b131ed5b4a131d601f4]
+## 43A. Local developments: schemes of delegation[^c-755f982717aa8b131ed5b4a131d601f4]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 a scheme of delegation.
 
-(5) Where an application for planning permission falls to be determined by a person so appointed, sections 27A(2), 27B(2), 30(3), 32A,[^key-ba56e16a16991d913c584cff7ab5e3d3] 37(1) to (3), 38, 39, 40[^key-a1e6509177bfc29bc9bc35c63ab05e33], 41(1) and (2), 42, 43(1) to (2), 46, 58, 59 and 60[^key-6e64444432cb4acc1ff6fbbc109b6ed0] and Part 1 of Schedule 3 apply, with any necessary modifications (including, in the case of that Part, the modification mentioned in subsection (18)), as they apply to an application which falls to be determined by the planning authority.
+(5) Where an application for planning permission falls to be determined by a person so appointed, sections 27A(2), 27B(2), 30(3), 32A,[^c-ba56e16a16991d913c584cff7ab5e3d3] 37(1) to (3), 38, 39, 40[^c-a1e6509177bfc29bc9bc35c63ab05e33], 41(1) and (2), 42, 43(1) to (2), 46, 58, 59 and 60[^c-6e64444432cb4acc1ff6fbbc109b6ed0] and Part 1 of Schedule 3 apply, with any necessary modifications (including, in the case of that Part, the modification mentioned in subsection (18)), as they apply to an application which falls to be determined by the planning authority.
 
 (6) The planning authority may, if they think fit, decide themselves to determine an application which would otherwise fall to be determined by a person so appointed.
 
@@ -50,11 +50,11 @@ a scheme of delegation.
 
 - (a) refuses an application for planning permission or for consent, agreement or approval,
 - (b) grants it subject to conditions, or
-- (c) has not determined it within such period as may be prescribed by regulations or a development order or within such extended period as may at any time be agreed upon in writing between the applicant and the person so appointed[^key-36651e12451d535e7548dace9ef5c099],
+- (c) has not determined it within such period as may be prescribed by regulations or a development order or within such extended period as may at any time be agreed upon in writing between the applicant and the person so appointed[^c-36651e12451d535e7548dace9ef5c099],
 
 the applicant may require the planning authority to review the case.
 
-(8A)[^key-e031a0e1f2e3fad73f7498bde2192c9d] A requirement to review may not be made by virtue of paragraph (c) of subsection (8) if within the period (or extended period) mentioned in that paragraph notice has been given to the applicant that—
+(8A)[^c-e031a0e1f2e3fad73f7498bde2192c9d] A requirement to review may not be made by virtue of paragraph (c) of subsection (8) if within the period (or extended period) mentioned in that paragraph notice has been given to the applicant that—
 
 - (a) the power under section 39 to decline to determine the application has been exercised; or
 - (b) the application has been referred to the Scottish Ministers in accordance with directions given under section 46.
@@ -101,14 +101,14 @@ and, subject to section 43B, as to what matters may be raised in the course of t
 
 ## Annotations
 
-[^key-755f982717aa8b131ed5b4a131d601f4]: Textual amendment: Ss. 43A, 43B inserted (12.12.2008 for specified purposes, 6.4.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 17](https://www.legislation.gov.uk/asp/2006/17/section/17), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), art. 7(1)(b)(2)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a), S.S.I. 2009/100, art. 2, sch., S.S.I. 2009/219, art. 2, sch.
+[^c-755f982717aa8b131ed5b4a131d601f4]: Textual amendment: Ss. 43A, 43B inserted (12.12.2008 for specified purposes, 6.4.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 17](https://www.legislation.gov.uk/asp/2006/17/section/17), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), art. 7(1)(b)(2)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a), S.S.I. 2009/100, art. 2, sch., S.S.I. 2009/219, art. 2, sch.
 
-[^key-ba56e16a16991d913c584cff7ab5e3d3]: Textual amendment: Words in s. 43A(5) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/i)
+[^c-ba56e16a16991d913c584cff7ab5e3d3]: Textual amendment: Words in s. 43A(5) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/i)
 
-[^key-a1e6509177bfc29bc9bc35c63ab05e33]: Textual amendment: Words in s. 43A(5) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/ii)
+[^c-a1e6509177bfc29bc9bc35c63ab05e33]: Textual amendment: Words in s. 43A(5) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/ii)
 
-[^key-6e64444432cb4acc1ff6fbbc109b6ed0]: Textual amendment: Words in s. 43A(5) substituted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/iii)
+[^c-6e64444432cb4acc1ff6fbbc109b6ed0]: Textual amendment: Words in s. 43A(5) substituted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/a/iii)
 
-[^key-36651e12451d535e7548dace9ef5c099]: Textual amendment: Words in s. 43A(8)(c) inserted (2.2.2013) by [The Public Services Reform (Planning) (Local Review Procedure) (Scotland) Order 2013 (S.S.I. 2013/24)](https://www.legislation.gov.uk/ssi/2013/24), [arts. 1](https://www.legislation.gov.uk/ssi/2013/24/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/24/article/2/2)
+[^c-36651e12451d535e7548dace9ef5c099]: Textual amendment: Words in s. 43A(8)(c) inserted (2.2.2013) by [The Public Services Reform (Planning) (Local Review Procedure) (Scotland) Order 2013 (S.S.I. 2013/24)](https://www.legislation.gov.uk/ssi/2013/24), [arts. 1](https://www.legislation.gov.uk/ssi/2013/24/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/24/article/2/2)
 
-[^key-e031a0e1f2e3fad73f7498bde2192c9d]: Textual amendment: S. 43A(8A) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/b)
+[^c-e031a0e1f2e3fad73f7498bde2192c9d]: Textual amendment: S. 43A(8A) inserted (2.2.2013) by [The Planning etc. (Scotland) Act 2006 (Supplementary and Consequential Provisions) Order 2013 (S.S.I. 2013/26)](https://www.legislation.gov.uk/ssi/2013/26), [arts. 1](https://www.legislation.gov.uk/ssi/2013/26/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2013/26/article/2/3/b)

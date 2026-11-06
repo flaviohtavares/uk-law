@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Secured creditor’s right to take possession of, or steps in relation to, corporeal property[^key-f5d3a05721e5ed715b05c8697aac5f7a][^key-588409e8dfa0c720e21c8e280c23c944][^key-7b42558dc607329ea231e134b27c67bb]
+## 67. Secured creditor’s right to take possession of, or steps in relation to, corporeal property[^c-f5d3a05721e5ed715b05c8697aac5f7a][^c-588409e8dfa0c720e21c8e280c23c944][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) This section applies in relation to corporeal property in respect of which a secured creditor in a statutory pledge has served a pledge enforcement notice.
 
@@ -58,8 +58,8 @@ but only in accordance with subsection (3) or, as the case may be, subsection (4
 
 ## Annotations
 
-[^key-f5d3a05721e5ed715b05c8697aac5f7a]: Commencement: S. 67 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-f5d3a05721e5ed715b05c8697aac5f7a]: Commencement: S. 67 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-588409e8dfa0c720e21c8e280c23c944]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2023/3/section/67) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-588409e8dfa0c720e21c8e280c23c944]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2023/3/section/67) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))

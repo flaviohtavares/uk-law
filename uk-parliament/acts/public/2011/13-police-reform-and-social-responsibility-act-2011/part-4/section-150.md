@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-da4291deb1bc65675aa66a0ebc3e7723] In section 2 of the Parks Regulation (Amendment) Act 1926 (power to make regulations), after subsection (1) insert—
+(1)[^c-da4291deb1bc65675aa66a0ebc3e7723] In section 2 of the Parks Regulation (Amendment) Act 1926 (power to make regulations), after subsection (1) insert—
 
 > (1A) Regulations under subsection (1) may include provision applying (with any necessary modifications) sections 4 to 6 of the Royal Parks (Trading) Act 2000 (seizure, retention, disposal and forfeiture of property) in relation to offences under that subsection that are not park trading offences for the purposes of that Act.
 
 .
 
-(2)[^key-69830c7850795baa692043d317aa3e30] After section 237 of the Local Government Act 1972 (offences against byelaws) insert—
+(2)[^c-69830c7850795baa692043d317aa3e30] After section 237 of the Local Government Act 1972 (offences against byelaws) insert—
 
 > **237ZA. Section 235 byelaws: powers of seizure etc**
 >
@@ -37,10 +37,10 @@ summary: ''
 
 .
 
-(3)[^key-da4291deb1bc65675aa66a0ebc3e7723] In section 385 of the Greater London Authority Act 1999 (byelaws), in subsection (4)(b) for “a trading byelaw” substitute “ any byelaw under this section ”.
+(3)[^c-da4291deb1bc65675aa66a0ebc3e7723] In section 385 of the Greater London Authority Act 1999 (byelaws), in subsection (4)(b) for “a trading byelaw” substitute “ any byelaw under this section ”.
 
 ## Annotations
 
-[^key-da4291deb1bc65675aa66a0ebc3e7723]: Commencement: [S. 150(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/3) in force at 19.12.2011 by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(j)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/j)
+[^c-da4291deb1bc65675aa66a0ebc3e7723]: Commencement: [S. 150(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/3) in force at 19.12.2011 by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(j)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/j)
 
-[^key-69830c7850795baa692043d317aa3e30]: Commencement: [S. 150(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/2) in force at 19.12.2011 for E. by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(k)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/k)
+[^c-69830c7850795baa692043d317aa3e30]: Commencement: [S. 150(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/2) in force at 19.12.2011 for E. by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(k)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/k)

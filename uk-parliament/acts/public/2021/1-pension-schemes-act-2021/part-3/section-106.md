@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Sanctions for failure to comply with a contribution notice[^key-3226fbe3b2610db02f413d8917b3f639]
+## 106. Sanctions for failure to comply with a contribution notice[^c-3226fbe3b2610db02f413d8917b3f639]
 
 *Extent: E+W+S*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3226fbe3b2610db02f413d8917b3f639]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2021/1/section/106) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/c) (with [reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1))
+[^c-3226fbe3b2610db02f413d8917b3f639]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2021/1/section/106) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/c) (with [reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1))

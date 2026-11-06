@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Tenants' energy efficiency improvements regulations[^key-61106b42c809d94d39844bbf88998b31]
+## 46. Tenants' energy efficiency improvements regulations[^c-61106b42c809d94d39844bbf88998b31]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61106b42c809d94d39844bbf88998b31]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/16/section/46) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-61106b42c809d94d39844bbf88998b31]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/16/section/46) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Ending of certain existing unrecorded public rights of way[^key-73423961407e3a98b32648111b459a2c][^key-712a9d53ab3b1923132864b7658c8747]
+## 67. Ending of certain existing unrecorded public rights of way[^c-73423961407e3a98b32648111b459a2c][^c-712a9d53ab3b1923132864b7658c8747]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ the right becomes a private right of way for mechanically propelled vehicles for
 
 ## Annotations
 
-[^key-73423961407e3a98b32648111b459a2c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/16/section/67) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
+[^c-73423961407e3a98b32648111b459a2c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/16/section/67) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
 
-[^key-712a9d53ab3b1923132864b7658c8747]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/16/section/67) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
+[^c-712a9d53ab3b1923132864b7658c8747]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/16/section/67) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)

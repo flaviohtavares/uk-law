@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Functions of the Land Commissioners: further provisions[^key-0f3bb6cb0e04a7e42f562937053dc3fe][^key-69da3e630cafab069ed45a5019270881]
+## 9. Functions of the Land Commissioners: further provisions[^c-0f3bb6cb0e04a7e42f562937053dc3fe][^c-69da3e630cafab069ed45a5019270881]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f3bb6cb0e04a7e42f562937053dc3fe]: Commencement: S. 9 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-0f3bb6cb0e04a7e42f562937053dc3fe]: Commencement: S. 9 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
 
-[^key-69da3e630cafab069ed45a5019270881]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/15/section/9) in force at 16.3.2026 by [S.S.I. 2026/119](https://www.legislation.gov.uk/ssi/2026/119), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/2/b)
+[^c-69da3e630cafab069ed45a5019270881]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/15/section/9) in force at 16.3.2026 by [S.S.I. 2026/119](https://www.legislation.gov.uk/ssi/2026/119), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2026/119/regulation/2/2/b)

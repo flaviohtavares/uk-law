@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 132(4)(b) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 14(4)(b) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004], in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5f31dc2bd7843469c5454286e3ec9353]
+## 1. Citation, commencement and interpretation[^c-5f31dc2bd7843469c5454286e3ec9353]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2002 and shall come into operation on 14th October 2002.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of capital disregard provisions for income support[^key-506e750063c3a38fefac7b27533702e0]
+## 2. Amendment of capital disregard provisions for income support[^c-506e750063c3a38fefac7b27533702e0]
 
 In paragraph 7 of Schedule 10 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00007] (capital to be disregarded) –
 
@@ -71,11 +71,11 @@ In paragraph 7 of Schedule 10 to the Income Support (General) Regulations (North
 
   .
 
-## 3. Amendment of capital disregard provisions for housing benefit[^key-f6c1d60ccc1b6ae392a50abd247ecb26]
+## 3. Amendment of capital disregard provisions for housing benefit[^c-f6c1d60ccc1b6ae392a50abd247ecb26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of capital disregard provisions for jobseeker’s allowance[^key-ae5298552d20cf39e2a4ecb1ac77fada]
+## 4. Amendment of capital disregard provisions for jobseeker’s allowance[^c-ae5298552d20cf39e2a4ecb1ac77fada]
 
 In paragraph 12 of Schedule 7 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011] (capital to be disregarded) at the beginning there shall be inserted “—(1) Subject to sub-paragraph (2),” and at the end there shall be added the following sub-paragraphs –
 
@@ -138,18 +138,18 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-5f31dc2bd7843469c5454286e3ec9353]: Commencement: Reg. 1 in operation at 14.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/295/regulation/1/1)
+[^c-5f31dc2bd7843469c5454286e3ec9353]: Commencement: Reg. 1 in operation at 14.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/295/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-506e750063c3a38fefac7b27533702e0]: Commencement: Reg. 2 in operation at 14.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/295/regulation/1/1)
+[^c-506e750063c3a38fefac7b27533702e0]: Commencement: Reg. 2 in operation at 14.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/295/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); paragraph 7 was amended by regulation 10(7) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 26 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and regulation 2(2)(b) of [S.R. 2001 No. 261](https://www.legislation.gov.uk/nisr/2001/261)
 
 [^f00008]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); the definition of “official error” was substituted by paragraph 2(b) of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176) and amended by regulation 2(2)(a) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
 
-[^key-f6c1d60ccc1b6ae392a50abd247ecb26]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/295/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-f6c1d60ccc1b6ae392a50abd247ecb26]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/295/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-ae5298552d20cf39e2a4ecb1ac77fada]: Commencement: Reg. 4 in operation at 14.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/295/regulation/1/1)
+[^c-ae5298552d20cf39e2a4ecb1ac77fada]: Commencement: Reg. 4 in operation at 14.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/295/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); paragraph 12 was amended by regulation 2(21) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503) and regulation 2(2)(c) of [S.R. 2001 No. 261](https://www.legislation.gov.uk/nisr/2001/261)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Removal during examination and retention of organs and other parts of a body[^key-7cb1ee3a17c8abf1b3a24527f67a2fcb]
+## 28. Removal during examination and retention of organs and other parts of a body[^c-7cb1ee3a17c8abf1b3a24527f67a2fcb]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ is authorised in accordance with section 29, 30, 31, 32 or, as the case may be, 
 
 ## Annotations
 
-[^key-7cb1ee3a17c8abf1b3a24527f67a2fcb]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2006/4/section/28) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-7cb1ee3a17c8abf1b3a24527f67a2fcb]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2006/4/section/28) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Assessment of needs for care and support, support for carers and preventative services[^key-616943e7089bd455a443de7964f8c60c]
+## 14. Assessment of needs for care and support, support for carers and preventative services[^c-616943e7089bd455a443de7964f8c60c]
 
 *Extent: E+W*
 
@@ -31,12 +31,12 @@ summary: ''
 
 (2) Regulations under subsection (1) may, for example, provide for the timing and review of assessments.
 
-(3)[^key-57f0a87912e3ce89a3f293e85550dcbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-57f0a87912e3ce89a3f293e85550dcbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-57f0a87912e3ce89a3f293e85550dcbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-57f0a87912e3ce89a3f293e85550dcbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-616943e7089bd455a443de7964f8c60c]: Commencement: S. 14 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-616943e7089bd455a443de7964f8c60c]: Commencement: S. 14 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-57f0a87912e3ce89a3f293e85550dcbc]: Textual amendment: S. 14(3)(4) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 33](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/33); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-57f0a87912e3ce89a3f293e85550dcbc]: Textual amendment: S. 14(3)(4) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 33](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/33); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

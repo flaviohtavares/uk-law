@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Circumstances in which a person is to be treated as liable to make payments in respect of a dwelling[^key-f01652ab2a4e58cfc4a2132eea049c31]
+## 8. Circumstances in which a person is to be treated as liable to make payments in respect of a dwelling[^c-f01652ab2a4e58cfc4a2132eea049c31]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f01652ab2a4e58cfc4a2132eea049c31]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/405/regulation/8) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-f01652ab2a4e58cfc4a2132eea049c31]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/405/regulation/8) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

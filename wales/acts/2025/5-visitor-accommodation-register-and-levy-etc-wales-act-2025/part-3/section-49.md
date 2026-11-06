@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Overnight stays that are unaffected by the introduction of, or changes to, the levy[^key-20b09dcecf8c2c9870375554d37c9f28]
+## 49. Overnight stays that are unaffected by the introduction of, or changes to, the levy[^c-20b09dcecf8c2c9870375554d37c9f28]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20b09dcecf8c2c9870375554d37c9f28]: Commencement: S. 49 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-20b09dcecf8c2c9870375554d37c9f28]: Commencement: S. 49 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

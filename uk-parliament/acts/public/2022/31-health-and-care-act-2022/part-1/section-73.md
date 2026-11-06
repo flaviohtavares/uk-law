@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Repeal of duties to promote autonomy[^key-a5045eafeafb0122f4ddce2d70c7eabf][^key-889a3def5aeab74e6585b45e6c389def]
+## 73. Repeal of duties to promote autonomy[^c-a5045eafeafb0122f4ddce2d70c7eabf][^c-889a3def5aeab74e6585b45e6c389def]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5045eafeafb0122f4ddce2d70c7eabf]: Commencement: S. 73 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-a5045eafeafb0122f4ddce2d70c7eabf]: Commencement: S. 73 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-889a3def5aeab74e6585b45e6c389def]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/31/section/73) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-889a3def5aeab74e6585b45e6c389def]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/31/section/73) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -33,7 +33,7 @@ MERCHANT SHIPPING
 
 SAFETY
 
-The Merchant Shipping (Fire Protection) Regulations 2003 (revoked)[^key-94630debc22be680ad62222a47c2ccbd]
+The Merchant Shipping (Fire Protection) Regulations 2003 (revoked)[^c-94630debc22be680ad62222a47c2ccbd]
 
 Made
 
@@ -47,50 +47,50 @@ Coming into force
 
 11th December 2003
 
-[^key-94630debc22be680ad62222a47c2ccbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94630debc22be680ad62222a47c2ccbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-94630debc22be680ad62222a47c2ccbd]
+## 1. Citation and commencement[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-94630debc22be680ad62222a47c2ccbd]
+## 2. Interpretation[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-94630debc22be680ad62222a47c2ccbd]
+## 3. Application[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Regulations[^key-94630debc22be680ad62222a47c2ccbd]
+## 4. Amendment of Regulations[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fire Protection requirements[^key-94630debc22be680ad62222a47c2ccbd]
+## 5. Fire Protection requirements[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions[^key-94630debc22be680ad62222a47c2ccbd]
+## 6. Exemptions[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Approvals[^key-94630debc22be680ad62222a47c2ccbd]
+## 7. Approvals[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences and penalties[^key-94630debc22be680ad62222a47c2ccbd]
+## 8. Offences and penalties[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Detention[^key-94630debc22be680ad62222a47c2ccbd]
+## 9. Detention[^c-94630debc22be680ad62222a47c2ccbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94630debc22be680ad62222a47c2ccbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94630debc22be680ad62222a47c2ccbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94630debc22be680ad62222a47c2ccbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94630debc22be680ad62222a47c2ccbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94630debc22be680ad62222a47c2ccbd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/2950) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-94630debc22be680ad62222a47c2ccbd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/2950) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))

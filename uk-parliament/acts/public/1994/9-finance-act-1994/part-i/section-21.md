@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Requirements about keeping records.[^key-3b44655183932dcf257b79da90fe9313][^key-897928b7f6afdc354d90d7661a6fcbe9][^key-380fa8c295ae426de46a7d4146f99722]
+## 21. Requirements about keeping records.[^c-3b44655183932dcf257b79da90fe9313][^c-897928b7f6afdc354d90d7661a6fcbe9][^c-380fa8c295ae426de46a7d4146f99722]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3b44655183932dcf257b79da90fe9313]: Modification: Pt. 1 applied (with modifications) (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1624/regulation/7)
+[^c-3b44655183932dcf257b79da90fe9313]: Modification: Pt. 1 applied (with modifications) (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1624/regulation/7)
 
-[^key-897928b7f6afdc354d90d7661a6fcbe9]: Modification: Pt. 1 continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-897928b7f6afdc354d90d7661a6fcbe9]: Modification: Pt. 1 continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-380fa8c295ae426de46a7d4146f99722]: Modification: Pt. 1 applied (with modifications) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(5)](https://www.legislation.gov.uk/uksi/2018/1248/schedule/7/paragraph/158/5) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/uksi/2020/1088/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2020/1088/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/uksi/2020/1088/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1643/regulation/9))
+[^c-380fa8c295ae426de46a7d4146f99722]: Modification: Pt. 1 applied (with modifications) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(5)](https://www.legislation.gov.uk/uksi/2018/1248/schedule/7/paragraph/158/5) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/uksi/2020/1088/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/uksi/2020/1088/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/uksi/2020/1088/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1643/regulation/9))

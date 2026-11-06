@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 630A. Exception for protected foreign-source income[^key-6eaf4023a7738388266741d55c43803d]
+## 630A. Exception for protected foreign-source income[^c-6eaf4023a7738388266741d55c43803d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eaf4023a7738388266741d55c43803d]: Textual amendment: [S. 630A](https://www.legislation.gov.uk/ukpga/2005/5/section/630A) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 7](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/7), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-6eaf4023a7738388266741d55c43803d]: Textual amendment: [S. 630A](https://www.legislation.gov.uk/ukpga/2005/5/section/630A) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 7](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/7), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

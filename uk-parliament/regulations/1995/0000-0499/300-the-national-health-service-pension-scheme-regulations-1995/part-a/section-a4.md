@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## A4. Civil partnerships and marriage of same sex couples[^key-9e6db587bb3a6d51f5ac347f4068f1bd][^key-c9a5269440f36aa28742c7513261cfaa]
+## A4. Civil partnerships and marriage of same sex couples[^c-9e6db587bb3a6d51f5ac347f4068f1bd][^c-c9a5269440f36aa28742c7513261cfaa]
 
 *Extent: E+W+S*
 
@@ -36,9 +36,9 @@ summary: ''
 
 (5) In this regulation, “civil partnership” and “civil partners” have the meanings given by section 1 of the Civil Partnership Act 2004.
 
-(5A)[^key-4daf902a64c63df396592249f80c0d8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-4daf902a64c63df396592249f80c0d8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e2b119e68234db665562b17068b88527] Where—
+(6)[^c-e2b119e68234db665562b17068b88527] Where—
 
 - (a) a deceased member of this Section of the scheme was a woman by virtue of a full gender recognition certificate having been issued under the Gender Recognition Act 2004, and
 - (b) at the time of the member’s death, she was married to a woman and that marriage subsisted before the time when the certificate was issued,
@@ -47,10 +47,10 @@ the member’s widow is to be treated for the purposes of Parts G and K of these
 
 ## Annotations
 
-[^key-9e6db587bb3a6d51f5ac347f4068f1bd]: Textual amendment: [Reg. A4](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4) inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2014/78/regulation/4)
+[^c-9e6db587bb3a6d51f5ac347f4068f1bd]: Textual amendment: [Reg. A4](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4) inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2014/78/regulation/4)
 
-[^key-c9a5269440f36aa28742c7513261cfaa]: Textual amendment: [Reg. A4](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4) heading substituted (1.7.2021 with effect from 2.12.2019) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/4/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-c9a5269440f36aa28742c7513261cfaa]: Textual amendment: [Reg. A4](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4) heading substituted (1.7.2021 with effect from 2.12.2019) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/4/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-4daf902a64c63df396592249f80c0d8f]: Textual amendment: [Reg. A4(5A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4/5A) omitted (1.7.2021 with effect from 2.12.2019) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/4/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-4daf902a64c63df396592249f80c0d8f]: Textual amendment: [Reg. A4(5A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4/5A) omitted (1.7.2021 with effect from 2.12.2019) by virtue of [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2021/631/regulation/4/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-e2b119e68234db665562b17068b88527]: Textual amendment: [Reg. A4(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4/6) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/14)
+[^c-e2b119e68234db665562b17068b88527]: Textual amendment: [Reg. A4(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/A4/6) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/14)

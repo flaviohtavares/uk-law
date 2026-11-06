@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. The application record[^key-927d7335faad4fe3a44d0ac8bce0b0cd]
+## 15. The application record[^c-927d7335faad4fe3a44d0ac8bce0b0cd]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The application record is to consist of all—
 
 ## Annotations
 
-[^key-927d7335faad4fe3a44d0ac8bce0b0cd]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2012/5/section/15) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-927d7335faad4fe3a44d0ac8bce0b0cd]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2012/5/section/15) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

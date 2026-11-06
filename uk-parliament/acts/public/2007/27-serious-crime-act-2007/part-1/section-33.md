@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Overseas bodies[^key-9fed86e2677736ab84d12fe59276fdb8]
+## 33. Overseas bodies[^c-9fed86e2677736ab84d12fe59276fdb8]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State may by order modify section 30, 31 or 32 in its applicati
 
 ## Annotations
 
-[^key-9fed86e2677736ab84d12fe59276fdb8]: Commencement: S. 33 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-9fed86e2677736ab84d12fe59276fdb8]: Commencement: S. 33 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)

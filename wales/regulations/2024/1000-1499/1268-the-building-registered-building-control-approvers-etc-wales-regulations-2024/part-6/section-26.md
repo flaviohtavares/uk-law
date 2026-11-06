@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Public body’s consultation with the fire and rescue authority[^key-9e7e2078368c708d25b704d929ec5be4]
+## 26. Public body’s consultation with the fire and rescue authority[^c-9e7e2078368c708d25b704d929ec5be4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 8 applies where a public body’s notice is given as it applies where
 
 ## Annotations
 
-[^key-9e7e2078368c708d25b704d929ec5be4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/1268/regulation/26) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-9e7e2078368c708d25b704d929ec5be4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/1268/regulation/26) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

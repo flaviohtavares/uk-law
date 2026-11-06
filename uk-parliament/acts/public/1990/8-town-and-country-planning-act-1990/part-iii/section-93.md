@@ -22,7 +22,7 @@ summary: ''
 
 (1) The authority referred to in section 91(1)(b) or 92(4) is—
 
-- (a) the local planning authority, the Welsh Ministers[^key-064b2554a7b0f1a5a0d6a13496902014] or the Secretary of State, in the case of planning permission granted by them,
+- (a) the local planning authority, the Welsh Ministers[^c-064b2554a7b0f1a5a0d6a13496902014] or the Secretary of State, in the case of planning permission granted by them,
 - (b) in the case of planning permission deemed to be granted under section 90(1), the department on whose direction planning permission is deemed to be granted, and
 - (c) in the case of planning permission deemed to be granted under section 90(2), the Secretary of State.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-064b2554a7b0f1a5a0d6a13496902014]: Textual amendment: Words in s. 93(1)(a) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/11); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
+[^c-064b2554a7b0f1a5a0d6a13496902014]: Textual amendment: Words in s. 93(1)(a) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/11); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)

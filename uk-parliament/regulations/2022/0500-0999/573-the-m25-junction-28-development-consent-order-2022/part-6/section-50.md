@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Disregard of certain improvements etc.[^key-6e9d0fe279f3488e7a2a7ac842776111]
+## 50. Disregard of certain improvements etc.[^c-6e9d0fe279f3488e7a2a7ac842776111]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-6e9d0fe279f3488e7a2a7ac842776111]: Commencement: Art. 50 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-6e9d0fe279f3488e7a2a7ac842776111]: Commencement: Art. 50 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

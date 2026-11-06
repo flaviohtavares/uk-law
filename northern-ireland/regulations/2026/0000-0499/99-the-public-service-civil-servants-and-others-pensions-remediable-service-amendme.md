@@ -48,7 +48,7 @@ To the extent required by section 27 of PSPJOA 2022, these regulations are made 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-080a578de6c865bcdc1a471d5d847210]
+### 1. Citation and commencement[^c-080a578de6c865bcdc1a471d5d847210]
 
 These Regulations—
 
@@ -57,7 +57,7 @@ These Regulations—
 
 ## PART 2 — The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014
 
-### 2. Amendment of the Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^key-334a3ef202cd103e7b3d58ac0fffaac1]
+### 2. Amendment of the Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^c-334a3ef202cd103e7b3d58ac0fffaac1]
 
 (1) The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^f00005] are amended as follows.
 
@@ -85,11 +85,11 @@ These Regulations—
 
 ## PART 3 — The Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023
 
-### 3. Amendment of the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^key-806b3a2cf328aca80fc92ff63956b2a4]
+### 3. Amendment of the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^c-806b3a2cf328aca80fc92ff63956b2a4]
 
 The Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023 are amended in accordance with this Part.
 
-### 4. Amendments to Part 2 (remediable service statements)[^key-452c9ce8f6da07cd03d85f34800ae2d8]
+### 4. Amendments to Part 2 (remediable service statements)[^c-452c9ce8f6da07cd03d85f34800ae2d8]
 
 After regulation 4 (requirements relating to remediable service statements), insert—
 
@@ -127,7 +127,7 @@ After regulation 4 (requirements relating to remediable service statements), ins
 
 .
 
-### 5. Amendments to Part 4 (provision about divorce and dissolution arrangements)[^key-444de74f321d3843f5a93c14837f341e]
+### 5. Amendments to Part 4 (provision about divorce and dissolution arrangements)[^c-444de74f321d3843f5a93c14837f341e]
 
 (1) Regulation 18 (meaning of “**alternative amount**”) is amended as follows.
 
@@ -165,7 +165,7 @@ After regulation 4 (requirements relating to remediable service statements), ins
 
 .
 
-### 6. Amendments to Part 5 (voluntary contributions)[^key-8ccca46472be35a85f75441a5003d8dd]
+### 6. Amendments to Part 5 (voluntary contributions)[^c-8ccca46472be35a85f75441a5003d8dd]
 
 (1) Regulation 30 (treatment of EPA rights) is amended as follows.
 
@@ -191,7 +191,7 @@ After regulation 4 (requirements relating to remediable service statements), ins
 
 .
 
-### 7. Amendments to Part 6 (transfers)[^key-4b114b84b9c5e4634c32074ed13e67b0]
+### 7. Amendments to Part 6 (transfers)[^c-4b114b84b9c5e4634c32074ed13e67b0]
 
 (1) In regulation 38 (transfers out before 1<sup>st</sup> October 2023)—
 
@@ -225,7 +225,7 @@ After regulation 4 (requirements relating to remediable service statements), ins
 
   .
 
-### 8. Amendments to Part 7 (provision about special cases)[^key-c0949c5eaf640c06bf4eb78b3c59a0ae]
+### 8. Amendments to Part 7 (provision about special cases)[^c-c0949c5eaf640c06bf4eb78b3c59a0ae]
 
 (1) In regulation 61 (aggregation of PCSPS(NI) membership)—
 
@@ -467,7 +467,7 @@ After regulation 4 (requirements relating to remediable service statements), ins
 
 .
 
-### 9. Amendment to Part 9 (liabilities and payment)[^key-95dcda0a126f864b73dff701fc6cbc19]
+### 9. Amendment to Part 9 (liabilities and payment)[^c-95dcda0a126f864b73dff701fc6cbc19]
 
 In regulation 69 (reduction of liabilities in relation to pension contributions), after paragraph (2) insert—
 
@@ -475,7 +475,7 @@ In regulation 69 (reduction of liabilities in relation to pension contributions)
 
 .
 
-### 10. Amendments to Schedule (eligible decision-makers for deceased members)[^key-ecb73163e3a9107e0e76df41ae9257cf]
+### 10. Amendments to Schedule (eligible decision-makers for deceased members)[^c-ecb73163e3a9107e0e76df41ae9257cf]
 
 (1) The schedule is amended in accordance with this regulation.
 
@@ -596,30 +596,30 @@ An impact assessment has not been completed for these Regulations. An equality s
 
 [^f00004]: Footnote: See section 38 of PSPJOA 2022 for the meaning of “Treasury Directions” which includes directions given by the Department of Finance, the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023 were published on 26 January 2023 and are accessible online at https://www.finance-ni.gov.uk/publications/directions-made-under-public-service-pensions-and-judicial-offices-act-2022.
 
-[^key-080a578de6c865bcdc1a471d5d847210]: Commencement: Reg. 1 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-080a578de6c865bcdc1a471d5d847210]: Commencement: Reg. 1 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
-[^key-334a3ef202cd103e7b3d58ac0fffaac1]: Commencement: Reg. 2 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-334a3ef202cd103e7b3d58ac0fffaac1]: Commencement: Reg. 2 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
 [^f00005]: Footnote: [S.R. 2014/290](https://www.legislation.gov.uk/nisr/2014/290)
 
 [^f00006]: Footnote: [S.R.2023/141](https://www.legislation.gov.uk/nisr/2023/141)
 
-[^key-806b3a2cf328aca80fc92ff63956b2a4]: Commencement: Reg. 3 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-806b3a2cf328aca80fc92ff63956b2a4]: Commencement: Reg. 3 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
-[^key-452c9ce8f6da07cd03d85f34800ae2d8]: Commencement: Reg. 4 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-452c9ce8f6da07cd03d85f34800ae2d8]: Commencement: Reg. 4 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
-[^key-444de74f321d3843f5a93c14837f341e]: Commencement: Reg. 5 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-444de74f321d3843f5a93c14837f341e]: Commencement: Reg. 5 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
 [^f00007]: Footnote: [S.R. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisr/1999/3147)
 
-[^key-8ccca46472be35a85f75441a5003d8dd]: Commencement: Reg. 6 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-8ccca46472be35a85f75441a5003d8dd]: Commencement: Reg. 6 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
-[^key-4b114b84b9c5e4634c32074ed13e67b0]: Commencement: Reg. 7 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-4b114b84b9c5e4634c32074ed13e67b0]: Commencement: Reg. 7 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
-[^key-c0949c5eaf640c06bf4eb78b3c59a0ae]: Commencement: Reg. 8 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-c0949c5eaf640c06bf4eb78b3c59a0ae]: Commencement: Reg. 8 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
 [^f00008]: Footnote: See section 1(8) of PSPJOA 2022 for the meaning of “the closing date”
 
-[^key-95dcda0a126f864b73dff701fc6cbc19]: Commencement: Reg. 9 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-95dcda0a126f864b73dff701fc6cbc19]: Commencement: Reg. 9 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
 
-[^key-ecb73163e3a9107e0e76df41ae9257cf]: Commencement: Reg. 10 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)
+[^c-ecb73163e3a9107e0e76df41ae9257cf]: Commencement: Reg. 10 in operation at 18.6.2026, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b)

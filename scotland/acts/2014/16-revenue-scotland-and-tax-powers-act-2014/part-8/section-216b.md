@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 216B. Failure to keep records of production of exempt aggregate: Scottish aggregates tax[^key-c190100c7bc291802c552a2970ea4994][^key-ef6f894bcf6aec3951e11854343a3c2d]
+## 216B. Failure to keep records of production of exempt aggregate: Scottish aggregates tax[^c-c190100c7bc291802c552a2970ea4994][^c-ef6f894bcf6aec3951e11854343a3c2d]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c190100c7bc291802c552a2970ea4994]: Textual amendment: [S. 216B](https://www.legislation.gov.uk/asp/2014/16/section/216B) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 44(2)](https://www.legislation.gov.uk/asp/2024/14/section/44/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-c190100c7bc291802c552a2970ea4994]: Textual amendment: [S. 216B](https://www.legislation.gov.uk/asp/2014/16/section/216B) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 44(2)](https://www.legislation.gov.uk/asp/2024/14/section/44/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
 
-[^key-ef6f894bcf6aec3951e11854343a3c2d]: Textual amendment: [Pt. 8 Ch. 5A](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/5A) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 43(2)](https://www.legislation.gov.uk/asp/2024/14/section/43/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-ef6f894bcf6aec3951e11854343a3c2d]: Textual amendment: [Pt. 8 Ch. 5A](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/5A) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 43(2)](https://www.legislation.gov.uk/asp/2024/14/section/43/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)

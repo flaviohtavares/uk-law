@@ -51,17 +51,17 @@ The Secretary of State is designated for the purposes of that section in relatio
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-929a9ed4439e75a45527a8c1fd0ad345]
+### 1. Citation, commencement and extent[^c-929a9ed4439e75a45527a8c1fd0ad345]
 
 (1) These Regulations may be cited as the Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 and come into force 21 days after the day on which they are laid.
 
-(2) Regulation 2 extends[^key-f7ea637e28dbce91ac85f65dc4c96c58] to Scotland only.
+(2) Regulation 2 extends[^c-f7ea637e28dbce91ac85f65dc4c96c58] to Scotland only.
 
 (3) Regulation 6 extends to England and Wales only.
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. The Wildlife and Countryside Act 1981[^key-f6d798d1c1967be47c66e4fe14db2581]
+### 2. The Wildlife and Countryside Act 1981[^c-f6d798d1c1967be47c66e4fe14db2581]
 
 *Extent: S*
 
@@ -70,7 +70,7 @@ In section 7(3)(c) [^c23898961] of the Wildlife and Countryside Act 1981 [^c2389
 - (a) for “Control of Trade in Endangered Species (Enforcement) Regulations 1997 [^c23898981] (S.I. 1997/1372)” substitute “ Control of Trade in Endangered Species Regulations 2018 [^c23898991] (S.I. 2018/703) ”;
 - (b) for “under Regulation 9 of those Regulations” substitute “ under paragraph 2 of Schedule 1 to those Regulations which consists of the conduct specified in the table in that paragraph as the subject-matter of Regulation 8(6) of those Regulations ”.
 
-### 3. The Serious Crime Act 2007[^key-189b35e8729248f38370d0ee74c91b79]
+### 3. The Serious Crime Act 2007[^c-189b35e8729248f38370d0ee74c91b79]
 
 In Schedule 1 to the Serious Crime Act 2007 [^c23899001], for each of paragraphs 13(4), 16M(4) and 29(4) substitute—
 
@@ -82,13 +82,13 @@ In Schedule 1 to the Serious Crime Act 2007 [^c23899001], for each of paragraphs
 
 ## PART 3 — Amendment of secondary legislation
 
-### 4. The Conservation (Natural Habitats, &c.) Regulations 1994[^key-cf07a3e7743188f6a5959d18232d9bc7]
+### 4. The Conservation (Natural Habitats, &c.) Regulations 1994[^c-cf07a3e7743188f6a5959d18232d9bc7]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-f61b4a1e71ea750f9d9e67f85e8b38ca]
+### 5. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-f61b4a1e71ea750f9d9e67f85e8b38ca]
 
 In the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007 [^c23899031], in Part 2—
 
@@ -99,7 +99,7 @@ In the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) 
 
   .
 
-### 6. The Conservation of Habitats and Species Regulations 2017[^key-406b5f65cf417e17b07c4b5ced1882a4]
+### 6. The Conservation of Habitats and Species Regulations 2017[^c-406b5f65cf417e17b07c4b5ced1882a4]
 
 *Extent: E+W*
 
@@ -125,7 +125,7 @@ In the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) 
 
   .
 
-### 7. The Economic Growth (Regulatory Functions) Order 2017[^key-102db083370ecf1fbc8bc03528766c94]
+### 7. The Economic Growth (Regulatory Functions) Order 2017[^c-102db083370ecf1fbc8bc03528766c94]
 
 In the Schedule to the Economic Growth (Regulatory Functions) Order 2017 [^c23899061], in Part 3—
 
@@ -156,11 +156,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23898951]: Marginal citation: [S.I. 2014/1890](https://www.legislation.gov.uk/uksi/2014/1890), which is prospectively revoked by [S.I. 2018/1011](https://www.legislation.gov.uk/uksi/2018/1011) from exit day (see [section 20](https://www.legislation.gov.uk/uksi/2018/1011/section/20) of the European Union (Withdrawal) Act 2018).
 
-[^key-929a9ed4439e75a45527a8c1fd0ad345]: Commencement: Reg. 1 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
+[^c-929a9ed4439e75a45527a8c1fd0ad345]: Commencement: Reg. 1 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
 
-[^key-f7ea637e28dbce91ac85f65dc4c96c58]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/2) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/4/2)
+[^c-f7ea637e28dbce91ac85f65dc4c96c58]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/2) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/4/2)
 
-[^key-f6d798d1c1967be47c66e4fe14db2581]: Commencement: Reg. 2 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
+[^c-f6d798d1c1967be47c66e4fe14db2581]: Commencement: Reg. 2 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
 
 [^c23898961]: Marginal citation: [Section 7(3)(c)](https://www.legislation.gov.uk/uksi/2019/1354/section/7/3/c) was inserted by paragraph 7(b) of Schedule 6 to the [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6).
 
@@ -170,24 +170,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23898991]: Marginal citation: [S.I. 2018/703](https://www.legislation.gov.uk/uksi/2018/703), to which there are amendments not relevant to these Regulations.
 
-[^key-189b35e8729248f38370d0ee74c91b79]: Commencement: Reg. 3 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
+[^c-189b35e8729248f38370d0ee74c91b79]: Commencement: Reg. 3 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
 
 [^c23899001]: Marginal citation: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27). Part 1A was inserted by paragraph 31 of Schedule 1 to the [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 
 [^c23899011]: Marginal citation: OJ No L 61, 3.3.1997, p 1, as last amended by Commission Regulation (EU) 2017/160 (OJ No L 27, 1.2.2017, p 1).
 
-[^key-cf07a3e7743188f6a5959d18232d9bc7]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1354/regulation/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/4/3)
+[^c-cf07a3e7743188f6a5959d18232d9bc7]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1354/regulation/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/4/3)
 
-[^key-f61b4a1e71ea750f9d9e67f85e8b38ca]: Commencement: Reg. 5 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
+[^c-f61b4a1e71ea750f9d9e67f85e8b38ca]: Commencement: Reg. 5 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
 
 [^c23899031]: Marginal citation: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544), to which there are amendments not relevant to these Regulations.
 
 [^c23899041]: Marginal citation: OJ No L 166, 19.6.2006, p. 1, as last amended by Commission Regulation (EU) 2019/220 (OJ No L 35, 7.2.2019, p. 3).
 
-[^key-406b5f65cf417e17b07c4b5ced1882a4]: Commencement: Reg. 6 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
+[^c-406b5f65cf417e17b07c4b5ced1882a4]: Commencement: Reg. 6 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
 
 [^c23899051]: Marginal citation: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), to which there are amendments not relevant to these Regulations.
 
-[^key-102db083370ecf1fbc8bc03528766c94]: Commencement: Reg. 7 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
+[^c-102db083370ecf1fbc8bc03528766c94]: Commencement: Reg. 7 in force at 6.11.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1/1)
 
 [^c23899061]: Marginal citation: [S.I. 2017/267](https://www.legislation.gov.uk/uksi/2017/267), to which there are amendments not relevant to these Regulations.

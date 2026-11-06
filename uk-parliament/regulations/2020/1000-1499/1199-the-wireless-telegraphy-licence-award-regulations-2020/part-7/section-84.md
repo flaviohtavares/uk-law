@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Notice to bidders before the negotiation period[^key-c01ba636904823ae9bc79c3c079fae34]
+## 84. Notice to bidders before the negotiation period[^c-c01ba636904823ae9bc79c3c079fae34]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c01ba636904823ae9bc79c3c079fae34]: Commencement: Reg. 84 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c01ba636904823ae9bc79c3c079fae34]: Commencement: Reg. 84 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

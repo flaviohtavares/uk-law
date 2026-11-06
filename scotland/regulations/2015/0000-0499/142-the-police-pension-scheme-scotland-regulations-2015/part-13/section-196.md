@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. Contracting–out rights[^key-f098135e49cbe16acae3bda17a84bb90]
+## 196. Contracting–out rights[^c-f098135e49cbe16acae3bda17a84bb90]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f098135e49cbe16acae3bda17a84bb90]: Commencement: Reg. 196 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f098135e49cbe16acae3bda17a84bb90]: Commencement: Reg. 196 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00076]: Footnote: Subsection (2B) was inserted by the Pensions Act 1995 (c.26,) section 136(3) and amended by the Social Security Contributions (Transfer of Functions, etc.) Act 1999, Schedule 1, paragraph 35.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70B. Restriction of security interests[^key-44d54e567fa9f6109219c67dc4206018][^key-f5a6ea081e468aba44d7ab0062328377][^key-13365eb4956bbeb16c14fa33a9936bc5]
+## 70B. Restriction of security interests[^c-44d54e567fa9f6109219c67dc4206018][^c-f5a6ea081e468aba44d7ab0062328377][^c-13365eb4956bbeb16c14fa33a9936bc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-44d54e567fa9f6109219c67dc4206018]: Modification: Ss. 70A-70C restricted (28.12.2020 until IP completion day when the amending provision ceases to have effect in accordance with reg. 1(4) of the amending S.I.) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [87](https://www.legislation.gov.uk/uksi/2020/1350/regulation/87) (with [reg. 88](https://www.legislation.gov.uk/uksi/2020/1350/regulation/88))
+[^c-44d54e567fa9f6109219c67dc4206018]: Modification: Ss. 70A-70C restricted (28.12.2020 until IP completion day when the amending provision ceases to have effect in accordance with reg. 1(4) of the amending S.I.) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [87](https://www.legislation.gov.uk/uksi/2020/1350/regulation/87) (with [reg. 88](https://www.legislation.gov.uk/uksi/2020/1350/regulation/88))
 
-[^key-f5a6ea081e468aba44d7ab0062328377]: Modification: Ss. 70A-70C modified (31.12.2020 immediately before IP completion day) by S.I. 2019/341, reg. 18(2) (as inserted by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2019/710/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f5a6ea081e468aba44d7ab0062328377]: Modification: Ss. 70A-70C modified (31.12.2020 immediately before IP completion day) by S.I. 2019/341, reg. 18(2) (as inserted by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2019/710/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-13365eb4956bbeb16c14fa33a9936bc5]: Textual amendment: Ss. 70A-70D inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [77](https://www.legislation.gov.uk/uksi/2014/3329/article/77)
+[^c-13365eb4956bbeb16c14fa33a9936bc5]: Textual amendment: Ss. 70A-70D inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [77](https://www.legislation.gov.uk/uksi/2014/3329/article/77)

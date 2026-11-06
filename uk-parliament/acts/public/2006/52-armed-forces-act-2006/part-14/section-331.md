@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331. Discharge etc from the regular forces and transfer to the reserve forces[^key-9c7e8fde857a078cdc342056b8fff3e5][^key-e009f74672f437e77a41b631b8a7a0e2]
+## 331. Discharge etc from the regular forces and transfer to the reserve forces[^c-9c7e8fde857a078cdc342056b8fff3e5][^c-e009f74672f437e77a41b631b8a7a0e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ to be postponed in prescribed circumstances.
 
 ## Annotations
 
-[^key-9c7e8fde857a078cdc342056b8fff3e5]: Commencement: S. 331 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-9c7e8fde857a078cdc342056b8fff3e5]: Commencement: S. 331 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e009f74672f437e77a41b631b8a7a0e2]: Commencement: S. 331 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e009f74672f437e77a41b631b8a7a0e2]: Commencement: S. 331 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -27,16 +27,16 @@ summary: ''
 
 (2) These Regulations do not apply to batteries used in—
 
-- (a) equipment connected with the protection of essential security interests[^key-9f6b91735fd2cb793a0a1dc034d76d89], such as arms, munitions and war material, and intended for specifically military purposes; or
+- (a) equipment connected with the protection of essential security interests[^c-9f6b91735fd2cb793a0a1dc034d76d89], such as arms, munitions and war material, and intended for specifically military purposes; or
 - (b) equipment designed to be sent into space.
 
-(3)[^key-b53918947a956030f0a4915e555462c7] In paragraph (2)(a)—
+(3)[^c-b53918947a956030f0a4915e555462c7] In paragraph (2)(a)—
 
 - (a) as it applies in England and Wales and Scotland, “essential security interests” means the essential security interests of the United Kingdom;
 - (b) as it applies in Northern Ireland, “essential security interests” means the essential security interests of the United Kingdom or EEA states.
 
 ## Annotations
 
-[^key-9f6b91735fd2cb793a0a1dc034d76d89]: Textual amendment: Words in reg. 6(2)(a) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 14(3A)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3A/a) (as inserted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/c))
+[^c-9f6b91735fd2cb793a0a1dc034d76d89]: Textual amendment: Words in reg. 6(2)(a) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 14(3A)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3A/a) (as inserted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/c))
 
-[^key-b53918947a956030f0a4915e555462c7]: Textual amendment: Reg. 6(3) inserted by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 14(3A)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3A/b) (as inserted) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/c))
+[^c-b53918947a956030f0a4915e555462c7]: Textual amendment: Reg. 6(3) inserted by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 14(3A)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/3A/b) (as inserted) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(8)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/8/c))

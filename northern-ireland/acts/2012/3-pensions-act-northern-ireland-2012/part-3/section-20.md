@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Indexation and revaluation[^key-7498b38f98d9de74b0405ecb46397411]
+## 20. Indexation and revaluation[^c-7498b38f98d9de74b0405ecb46397411]
 
 *Extent: N.I.*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7498b38f98d9de74b0405ecb46397411]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2012/3/section/20) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/e)
+[^c-7498b38f98d9de74b0405ecb46397411]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2012/3/section/20) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/e)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Protection of children in an emergency: cancellation of registration[^key-2e3b9b1b1dcf5962486cfd6a76fc6c51]
+## 34. Protection of children in an emergency: cancellation of registration[^c-2e3b9b1b1dcf5962486cfd6a76fc6c51]
 
 *Extent: E+W*
 
-(1) In relation to a person registered under this Part, the Welsh Ministers may apply to the family court[^key-56bc2678fd6df4c9bc4e7281e2ff8758] for an order cancelling the person's registration.
+(1) In relation to a person registered under this Part, the Welsh Ministers may apply to the family court[^c-56bc2678fd6df4c9bc4e7281e2ff8758] for an order cancelling the person's registration.
 
-(2) If it appears to the court[^key-c6cc6fef3caca5adaf50bdcdae196c3f] that a child for whom child minding or day care is being, or may be, provided by that person is suffering or is likely to suffer significant harm, the court may make the order.
+(2) If it appears to the court[^c-c6cc6fef3caca5adaf50bdcdae196c3f] that a child for whom child minding or day care is being, or may be, provided by that person is suffering or is likely to suffer significant harm, the court may make the order.
 
 (3) An application under subsection (1) may be made without notice.
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2e3b9b1b1dcf5962486cfd6a76fc6c51]: Commencement: S. 34 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-2e3b9b1b1dcf5962486cfd6a76fc6c51]: Commencement: S. 34 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
 
-[^key-56bc2678fd6df4c9bc4e7281e2ff8758]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/mwa/2010/1/section/34/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 208(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/208/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-56bc2678fd6df4c9bc4e7281e2ff8758]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/mwa/2010/1/section/34/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 208(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/208/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-c6cc6fef3caca5adaf50bdcdae196c3f]: Textual amendment: Words in [s. 34(2)](https://www.legislation.gov.uk/mwa/2010/1/section/34/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 208(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/208/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c6cc6fef3caca5adaf50bdcdae196c3f]: Textual amendment: Words in [s. 34(2)](https://www.legislation.gov.uk/mwa/2010/1/section/34/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 208(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/208/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

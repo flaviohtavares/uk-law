@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Review once only[^key-ffdd5ebed9227a09e430157529752539]
+## 45. Review once only[^c-ffdd5ebed9227a09e430157529752539]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffdd5ebed9227a09e430157529752539]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/10/section/45) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-ffdd5ebed9227a09e430157529752539]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/10/section/45) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

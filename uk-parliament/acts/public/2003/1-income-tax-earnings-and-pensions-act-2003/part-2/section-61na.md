@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61NA. Meaning of status determination statement[^key-11ec69b5264fe5a923a3f0e4ed181c23][^key-c5ed4a8550671f87f70e726d21948b20]
+## 61NA. Meaning of status determination statement[^c-11ec69b5264fe5a923a3f0e4ed181c23][^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11ec69b5264fe5a923a3f0e4ed181c23]: Textual amendment: [S. 61NA](https://www.legislation.gov.uk/ukpga/2003/1/section/61NA) inserted (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/13) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-11ec69b5264fe5a923a3f0e4ed181c23]: Textual amendment: [S. 61NA](https://www.legislation.gov.uk/ukpga/2003/1/section/61NA) inserted (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/13) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.32. Applications to be dealt with in writing[^key-fa688c4776fbc8e8037350ab7bfe6db4]
+## 33.32. Applications to be dealt with in writing[^c-fa688c4776fbc8e8037350ab7bfe6db4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Applications in restraint proceedings and receivership proceedings are to be dea
 
 ## Annotations
 
-[^key-fa688c4776fbc8e8037350ab7bfe6db4]: Commencement: [Rule 33.32](https://www.legislation.gov.uk/uksi/2025/909/rule/33.32) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fa688c4776fbc8e8037350ab7bfe6db4]: Commencement: [Rule 33.32](https://www.legislation.gov.uk/uksi/2025/909/rule/33.32) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

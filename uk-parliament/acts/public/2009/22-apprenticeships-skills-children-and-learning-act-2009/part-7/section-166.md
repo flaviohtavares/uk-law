@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Interpretation of Chapter[^key-dc3f84c3758a096d91a8d7e3b8e58bf1]
+## 166. Interpretation of Chapter[^c-dc3f84c3758a096d91a8d7e3b8e58bf1]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-dc3f84c3758a096d91a8d7e3b8e58bf1]: Commencement: S. 166 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-dc3f84c3758a096d91a8d7e3b8e58bf1]: Commencement: S. 166 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

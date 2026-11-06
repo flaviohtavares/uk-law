@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Reference to Land Court of questions on applications[^key-4f4190ae86b28b39f7346582de8c4aaa]
+## 68. Reference to Land Court of questions on applications[^c-4f4190ae86b28b39f7346582de8c4aaa]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ In section 81 of the 2003 Act (reference to Land Court of questions on applicati
 
 ## Annotations
 
-[^key-4f4190ae86b28b39f7346582de8c4aaa]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2015/6/section/68) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-4f4190ae86b28b39f7346582de8c4aaa]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2015/6/section/68) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

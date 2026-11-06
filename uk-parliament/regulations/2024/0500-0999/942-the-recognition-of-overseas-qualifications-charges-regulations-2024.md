@@ -35,7 +35,7 @@ EDUCATION
 
 FEES AND CHARGES
 
-The Recognition of Overseas Qualifications (Charges) Regulations 2024 (revoked)[^key-5b347d09ff02b9215d7a0a65fd052355]
+The Recognition of Overseas Qualifications (Charges) Regulations 2024 (revoked)[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 Made
 
@@ -49,76 +49,76 @@ Coming into force
 
 4th October 2024
 
-[^key-5b347d09ff02b9215d7a0a65fd052355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b347d09ff02b9215d7a0a65fd052355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 1. Citation, commencement and extent[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 2. Interpretation[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Charges for statements[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 3. Charges for statements[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Charges for a bundle service[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 4. Charges for a bundle service[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Charges for a subscription package[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 5. Charges for a subscription package[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charges for an ancillary service[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 6. Charges for an ancillary service[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payment of charges[^key-5b347d09ff02b9215d7a0a65fd052355]
+## 7. Payment of charges[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5b347d09ff02b9215d7a0a65fd052355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b347d09ff02b9215d7a0a65fd052355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5b347d09ff02b9215d7a0a65fd052355]Schedules
+[^c-5b347d09ff02b9215d7a0a65fd052355]Schedules
 
-## Schedule 1 — Charges for statements[^key-5b347d09ff02b9215d7a0a65fd052355]
+## Schedule 1 — Charges for statements[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 Regulation 3
 
-**1.**[^key-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 2 — Charges for a bundle service[^key-5b347d09ff02b9215d7a0a65fd052355]
+## Schedule 2 — Charges for a bundle service[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 3 — Charges for a subscription package[^key-5b347d09ff02b9215d7a0a65fd052355]
+## Schedule 3 — Charges for a subscription package[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 4 — Charges for an ancillary service[^key-5b347d09ff02b9215d7a0a65fd052355]
+## Schedule 4 — Charges for an ancillary service[^c-5b347d09ff02b9215d7a0a65fd052355]
 
 Regulation 6
 
-**1.**[^key-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5b347d09ff02b9215d7a0a65fd052355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5b347d09ff02b9215d7a0a65fd052355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b347d09ff02b9215d7a0a65fd052355]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b347d09ff02b9215d7a0a65fd052355]: Textual amendment: Regulations revoked (E.W.N.I.) (28.3.2025) by [The Recognition of Overseas Qualifications (Charges) (England and Wales and Northern Ireland) Regulations 2025 (S.I. 2025/256)](https://www.legislation.gov.uk/uksi/2025/256), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/256/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/256/regulation/9); and revoked (S.) (28.3.2025) by [The Recognition of Overseas Qualifications (Charges) (Scotland) Regulations 2025 (S.S.I. 2025/67)](https://www.legislation.gov.uk/ssi/2025/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/67/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2025/67/regulation/9)
+[^c-5b347d09ff02b9215d7a0a65fd052355]: Textual amendment: Regulations revoked (E.W.N.I.) (28.3.2025) by [The Recognition of Overseas Qualifications (Charges) (England and Wales and Northern Ireland) Regulations 2025 (S.I. 2025/256)](https://www.legislation.gov.uk/uksi/2025/256), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/256/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/256/regulation/9); and revoked (S.) (28.3.2025) by [The Recognition of Overseas Qualifications (Charges) (Scotland) Regulations 2025 (S.S.I. 2025/67)](https://www.legislation.gov.uk/ssi/2025/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/67/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2025/67/regulation/9)

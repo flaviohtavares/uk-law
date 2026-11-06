@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Adjournment of petition in case of riot[^key-099dbca4e738ac802c9b575d76ed51f3]
+## 36. Adjournment of petition in case of riot[^c-099dbca4e738ac802c9b575d76ed51f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-099dbca4e738ac802c9b575d76ed51f3]: Commencement: Reg. 36 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-099dbca4e738ac802c9b575d76ed51f3]: Commencement: Reg. 36 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

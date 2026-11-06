@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Meaning of “development”: use of dwellinghouse for short-term holiday lets[^key-8f4bc36142445d001f07a4cfe16863cf][^key-76b7501d01cb37331467202723b67df8]
+## 17. Meaning of “development”: use of dwellinghouse for short-term holiday lets[^c-8f4bc36142445d001f07a4cfe16863cf][^c-76b7501d01cb37331467202723b67df8]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f4bc36142445d001f07a4cfe16863cf]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/13/section/17) in force at 18.5.2020 for specified purposes by [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2)
+[^c-8f4bc36142445d001f07a4cfe16863cf]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/13/section/17) in force at 18.5.2020 for specified purposes by [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2)
 
-[^key-76b7501d01cb37331467202723b67df8]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/13/section/17) in force at 1.4.2021 in so far as not already in force by [S.S.I. 2021/101](https://www.legislation.gov.uk/ssi/2021/101), [reg. 2](https://www.legislation.gov.uk/ssi/2021/101/regulation/2)
+[^c-76b7501d01cb37331467202723b67df8]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/13/section/17) in force at 1.4.2021 in so far as not already in force by [S.S.I. 2021/101](https://www.legislation.gov.uk/ssi/2021/101), [reg. 2](https://www.legislation.gov.uk/ssi/2021/101/regulation/2)

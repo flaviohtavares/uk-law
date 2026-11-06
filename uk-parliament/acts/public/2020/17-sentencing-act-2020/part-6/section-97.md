@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Duration of compliance period[^key-f1fc0ce5635fd0cc579a2a1b02b33b8d]
+## 97. Duration of compliance period[^c-f1fc0ce5635fd0cc579a2a1b02b33b8d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1fc0ce5635fd0cc579a2a1b02b33b8d]: Commencement: S. 97 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f1fc0ce5635fd0cc579a2a1b02b33b8d]: Commencement: S. 97 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

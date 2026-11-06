@@ -51,7 +51,7 @@ Section 79(13).
 
 #### The Companies Act 1985 (c.6)
 
-**4.**[^key-aa3236d099c4214d4125323e612c77a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aa3236d099c4214d4125323e612c77a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Drug Trafficking Offences Act 1986 (c.32)
 
@@ -79,7 +79,7 @@ Section 79(13).
 
 #### The Criminal Justice Act 1988 (c.33)
 
-**14.**[^key-291c370ccd5801050a6985a5594841f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-291c370ccd5801050a6985a5594841f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
 
@@ -93,25 +93,25 @@ Section 79(13).
 
 **17.**[^c10499761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Orders in Council under the Northern Ireland Act 1974[^key-934fa98c8fcf15fb66ecdb4b6255ca86]
+### Part II — Orders in Council under the Northern Ireland Act 1974[^c-934fa98c8fcf15fb66ecdb4b6255ca86]
 
 **No longer in force.**
 
-#### The Companies (Northern Ireland) Order 1986 (Statutory InstrumentS.I. 1986/1032 (N.I.6))[^key-934fa98c8fcf15fb66ecdb4b6255ca86]
+#### The Companies (Northern Ireland) Order 1986 (Statutory InstrumentS.I. 1986/1032 (N.I.6))[^c-934fa98c8fcf15fb66ecdb4b6255ca86]
 
-**18.**[^key-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### The Companies (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2404 (N.I.18))[^key-934fa98c8fcf15fb66ecdb4b6255ca86]
+#### The Companies (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2404 (N.I.18))[^c-934fa98c8fcf15fb66ecdb4b6255ca86]
 
-**21.**[^key-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### The Insolvency (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2405 (N.I. 19))[^key-934fa98c8fcf15fb66ecdb4b6255ca86]
+#### The Insolvency (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2405 (N.I. 19))[^c-934fa98c8fcf15fb66ecdb4b6255ca86]
 
-**22.**[^key-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-934fa98c8fcf15fb66ecdb4b6255ca86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -129,7 +129,7 @@ Section 79(13).
 
 [^c10499601]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/3) repealed (25.8.1996) by [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1), [63(7)](https://www.legislation.gov.uk/ukpga/1996/22/section/63/7), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1996/22/schedule/7/part/I)
 
-[^key-aa3236d099c4214d4125323e612c77a1]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/4) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-aa3236d099c4214d4125323e612c77a1]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/4) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c10499611]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/5) repealed (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [ss. 67](https://www.legislation.gov.uk/ukpga/1994/37/section/67), [69(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/69/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/37/schedule/3)
 
@@ -149,10 +149,10 @@ Section 79(13).
 
 [^c10499701]: Textual amendment: [Sch. 5 paras. 7-13](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/7) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [342(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/342/a)
 
-[^key-291c370ccd5801050a6985a5594841f6]: Textual amendment: Sch. 5 para. 14 repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-291c370ccd5801050a6985a5594841f6]: Textual amendment: Sch. 5 para. 14 repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
 [^c10499741]: Textual amendment: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/15) repealed (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125(2)](https://www.legislation.gov.uk/ukpga/2000/11/section/125/2), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/11/schedule/16/part/I); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
 [^c10499761]: Textual amendment: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/1993/36/schedule/5/paragraph/17) repealed (25.8.1996) by [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1), [63(7)](https://www.legislation.gov.uk/ukpga/1996/22/section/63/7), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1996/22/schedule/7/part/I)
 
-[^key-934fa98c8fcf15fb66ecdb4b6255ca86]: Textual amendment: Sch. 5 Pt. 2 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-934fa98c8fcf15fb66ecdb4b6255ca86]: Textual amendment: Sch. 5 Pt. 2 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)

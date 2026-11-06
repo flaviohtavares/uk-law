@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Reporting under interim receiving order[^key-fbbaf2b6999794cb6d2c89c6c6c77f61]
+## 160. Reporting under interim receiving order[^c-fbbaf2b6999794cb6d2c89c6c6c77f61]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ or if he thinks that there has been any other material change of circumstances.
 
 ## Annotations
 
-[^key-fbbaf2b6999794cb6d2c89c6c6c77f61]: Commencement: [Art. 160](https://www.legislation.gov.uk/uksi/2005/3181/article/160) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-fbbaf2b6999794cb6d2c89c6c6c77f61]: Commencement: [Art. 160](https://www.legislation.gov.uk/uksi/2005/3181/article/160) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

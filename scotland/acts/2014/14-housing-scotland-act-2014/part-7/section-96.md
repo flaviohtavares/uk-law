@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Delegation of certain functions[^key-ce21f42e2792de4789622ab48709160f]
+## 96. Delegation of certain functions[^c-ce21f42e2792de4789622ab48709160f]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce21f42e2792de4789622ab48709160f]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/14/section/96) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-ce21f42e2792de4789622ab48709160f]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/14/section/96) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

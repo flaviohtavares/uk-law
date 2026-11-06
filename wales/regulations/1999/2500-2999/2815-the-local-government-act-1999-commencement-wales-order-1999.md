@@ -37,13 +37,13 @@ Made
 
 The National Assembly for Wales makes the following Order in exercise of the powers given to it by section 27(3) and (4) of the Local Government Act 1999[^f00001]
 
-## 1. Citation and interpretation[^key-e09bff72e946599e1c2fcd3d8f4fcd5d]
+## 1. Citation and interpretation[^c-e09bff72e946599e1c2fcd3d8f4fcd5d]
 
 (1) This Order may be cited as the Local Government Act 1999 (Commencement) (Wales) Order 1999.
 
 (2) In this Order “the Act” means the Local Government Act 1999.
 
-## 2. Provisions coming into force on 1st October 1999[^key-43dbbf9259923fb6e5b9c3d97bb30ab5]
+## 2. Provisions coming into force on 1st October 1999[^c-43dbbf9259923fb6e5b9c3d97bb30ab5]
 
 The following provisions of the Act shall come into force in relation to Wales on 1st October 1999 —
 
@@ -63,7 +63,7 @@ The following provisions of the Act shall come into force in relation to Wales o
 - section 25(1), (2)(a), (d), (e), (f), (g) and (h) and (3).
 - section 26.
 
-## 3. Provisions coming into force on 1st April 2000[^key-e8c005ba7711bb3059a8dc8371f656ef]
+## 3. Provisions coming into force on 1st April 2000[^c-e8c005ba7711bb3059a8dc8371f656ef]
 
 The following provisions of the Act shall come into force in relation to Wales on 1st April 2000 —
 
@@ -127,8 +127,8 @@ Article 3 of this Order brings the following provisions of the Act into force in
 
 [^f00001]: Footnote: [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27)
 
-[^key-e09bff72e946599e1c2fcd3d8f4fcd5d]: Commencement: Art. 1 in force at 28.9.1999
+[^c-e09bff72e946599e1c2fcd3d8f4fcd5d]: Commencement: Art. 1 in force at 28.9.1999
 
-[^key-43dbbf9259923fb6e5b9c3d97bb30ab5]: Commencement: Art. 2 in force at 28.9.1999
+[^c-43dbbf9259923fb6e5b9c3d97bb30ab5]: Commencement: Art. 2 in force at 28.9.1999
 
-[^key-e8c005ba7711bb3059a8dc8371f656ef]: Commencement: Art. 3 in force at 28.9.1999
+[^c-e8c005ba7711bb3059a8dc8371f656ef]: Commencement: Art. 3 in force at 28.9.1999

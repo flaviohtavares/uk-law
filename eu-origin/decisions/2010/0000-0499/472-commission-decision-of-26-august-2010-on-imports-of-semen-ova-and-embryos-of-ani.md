@@ -95,62 +95,62 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-## Article 1. Subject matter and definitions[^key-24d4f729fd3d91263e42ae788e61c3e2]
+## Article 1. Subject matter and definitions[^c-24d4f729fd3d91263e42ae788e61c3e2]
 
-(1.) This Decision sets out a list of third countries and makes provision for the specification by the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), of those third countries[^key-3f737ed13da8266ffa22fabe9c8f6c2b] or parts thereof from which the importation of consignments of semen, ova and embryos of animals of the ovine and caprine species into Great Britain is authorised.
+(1.) This Decision sets out a list of third countries and makes provision for the specification by the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), of those third countries[^c-3f737ed13da8266ffa22fabe9c8f6c2b] or parts thereof from which the importation of consignments of semen, ova and embryos of animals of the ovine and caprine species into Great Britain is authorised.
 
 It lays down certification requirements for the importation of those commodities into Great Britain.
 
 (2.) In this Decision:
 
-- [^key-2a241578e0ffdb163c402c21d7d393a1]...
+- [^c-2a241578e0ffdb163c402c21d7d393a1]...
 - — “**appropriate authority**” means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland); but the “appropriate authority” is the Secretary of State if consent is given by:
   - (a) in relation to Wales, the Welsh Ministers;
   - (b) in relation to Scotland, the Scottish Ministers;
 - — “**third country**” means any country or territory other than the British Islands.
 
-## Article 1a. Conditions[^key-8e89a68585c8c07e7cdf8d7e83915c63][^key-c7cc5571d80a3cbd5da938044ad42339]
+## Article 1a. Conditions[^c-8e89a68585c8c07e7cdf8d7e83915c63][^c-c7cc5571d80a3cbd5da938044ad42339]
 
-(1.) The Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), may impose conditions relating to the protection of public health or animal health in Great Britain on the import of a consignment of semen, ova or embryos of the ovine or caprine species into Great Britain from a third country listed in , for imports of consignments of semen, Annex 1 and, for imports of consignments of ova and embryos, Annex 3[^key-7bbbf680d334901274b5c60d94960109].
+(1.) The Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), may impose conditions relating to the protection of public health or animal health in Great Britain on the import of a consignment of semen, ova or embryos of the ovine or caprine species into Great Britain from a third country listed in , for imports of consignments of semen, Annex 1 and, for imports of consignments of ova and embryos, Annex 3[^c-7bbbf680d334901274b5c60d94960109].
 
-(2.)[^key-afb95284491ce0fc0da3d43d6a5750d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2.)[^c-afb95284491ce0fc0da3d43d6a5750d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3.) The Secretary of State must publish any conditions imposed under paragraph 1 in a document published for the purposes of this Article.
 
-## Article 2. Imports of semen[^key-57bd482cfcf9dbca80d1aecc1a1e67f3]
+## Article 2. Imports of semen[^c-57bd482cfcf9dbca80d1aecc1a1e67f3]
 
 The appropriate authority must authorise imports of consignments of semen of animals of the ovine and caprine species provided that they comply with the following conditions:
 
-- (a) they come from such third country[^key-a6f2fbe831613fb8a3e20e5ab7ad3edf] listed in Annex I , or part thereof, as the Secretary of State may, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), specify in a document published for the purposes of this Article[^key-55cd61c5fcff1d3957fe0ae435cf19c3];
+- (a) they come from such third country[^c-a6f2fbe831613fb8a3e20e5ab7ad3edf] listed in Annex I , or part thereof, as the Secretary of State may, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), specify in a document published for the purposes of this Article[^c-55cd61c5fcff1d3957fe0ae435cf19c3];
 - (b) they come from an approved semen collection or storage centre which meets conditions and standards that are at least equivalent to those described in Article 11(2) and (3) of Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065);
 - (c)) they are accompanied by the relevant health certificate, in the form published by the appropriate authority from time to time—
   - (i) for consignments of semen dispatched from an approved semen collection centre of origin of the semen; or
-  - (ii) for consignments of semen dispatched from an approved semen storage centre; [^key-543ede85182b456d13ac83eb3faa5682]...
-- (ca))[^key-60eac6372628bb2a948abc428de69222] they comply with any conditions[^key-b5487814ba27979a876f7bb997121dcc] that the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), may require under Article 1a; and
+  - (ii) for consignments of semen dispatched from an approved semen storage centre; [^c-543ede85182b456d13ac83eb3faa5682]...
+- (ca))[^c-60eac6372628bb2a948abc428de69222] they comply with any conditions[^c-b5487814ba27979a876f7bb997121dcc] that the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), may require under Article 1a; and
 - (d) they comply with the requirements set out in the relevant health certificate.
 
 ## Article 3. Imports of ova and embryos[^M_F_bb8e90d6-19bd-4483-fab1-da7abfbbc481]
 
 The appropriate authority must authorise imports of consignments of ova and embryos of animals of the ovine and caprine species provided that they comply with the following conditions:
 
-- (a)) they come from such third country[^key-9bbd489d0bfe414da19b513e3991dbbb] listed in Annex III , or part thereof, as the Secretary of State may, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), specify in a document published for the purposes of this Article[^key-3cbab9f4f04ff53f9e57a98501827204];
+- (a)) they come from such third country[^c-9bbd489d0bfe414da19b513e3991dbbb] listed in Annex III , or part thereof, as the Secretary of State may, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), specify in a document published for the purposes of this Article[^c-3cbab9f4f04ff53f9e57a98501827204];
 - (b)) they come from an approved embryo collection or production team which meets conditions and standards that are at least equivalent to those described in Article 11(2) and (3) of Directive 92/65/EEC;
 - (c)) they are accompanied by the relevant health certificate, in the form published by the appropriate authority from time to time;
-- (ca))[^key-92536254f8d1fa9745ec7b4f05c5a1cf] they comply with any conditions[^key-6e88c74a6b081797d893513969c5062a] that the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), may require under Article 1a;
+- (ca))[^c-92536254f8d1fa9745ec7b4f05c5a1cf] they comply with any conditions[^c-6e88c74a6b081797d893513969c5062a] that the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), may require under Article 1a;
 - (d)) they comply with the requirements set out in the relevant health certificate.
 
 However, where specific certification requirements are laid down in bilateral agreements between the United Kingdom and a third country, those requirements are to apply.
 
-## Article 4. General conditions concerning the transport of consignments of semen, ova and embryos to Great Britain[^key-42c996f44000159f82f7e1078b01ff85]
+## Article 4. General conditions concerning the transport of consignments of semen, ova and embryos to Great Britain[^c-42c996f44000159f82f7e1078b01ff85]
 
 1. Consignments of semen, ova and embryos of animals of the ovine and caprine species shall not be transported in the same container as other consignments of semen, ova and embryos that:
 
-- (a) are not intended for introduction into Great Britain[^key-1df1b42e7da8e989effb33ff09080c51], or
+- (a) are not intended for introduction into Great Britain[^c-1df1b42e7da8e989effb33ff09080c51], or
 - (b) are of a lower health status.
 
-2. During transport to Great Britain[^key-8f1459f8d36d05134e2e1229555d9dec], consignments of semen, ova and embryos shall be placed in closed and sealed containers and the seal must not be broken during the transport.
+2. During transport to Great Britain[^c-8f1459f8d36d05134e2e1229555d9dec], consignments of semen, ova and embryos shall be placed in closed and sealed containers and the seal must not be broken during the transport.
 
-## Article 4a. Matters relating to the exercise of powers under this Decision[^key-6e0936ce125321c0a79710f48cf6332f]
+## Article 4a. Matters relating to the exercise of powers under this Decision[^c-6e0936ce125321c0a79710f48cf6332f]
 
 (1.) The powers exercisable by the Secretary of State, with the consent of the Scottish Ministers (in relation to Scotland) and the Welsh Ministers (in relation to Wales), under the provisions listed in paragraph 2 may be exercised only where it is necessary or appropriate to do so in the light of an assessment of the risk to animal and human health in the United Kingdom, taking into account—
 
@@ -161,7 +161,7 @@ However, where specific certification requirements are laid down in bilateral ag
 
 (2.) The provisions are—
 
-- (a)) Article 1a (conditions)[^key-9dfbeb89422395086f11221d289d66f1];
+- (a)) Article 1a (conditions)[^c-9dfbeb89422395086f11221d289d66f1];
 - (b)) Article 2(a) (specification of third country or part thereof from which semen of the ovine and caprine species may be imported into Great Britain);
 - (c)) Article 3(a) (specification of third country or part thereof from which ova and embryos of the ovine and caprine species may be imported into Great Britain).
 
@@ -173,7 +173,7 @@ However, where specific certification requirements are laid down in bilateral ag
 
 Decision 2008/635/EC is repealed.
 
-## Article 6. Transitional provisions[^key-9f92d189d636afb977cdbf83ad254b9c]
+## Article 6. Transitional provisions[^c-9f92d189d636afb977cdbf83ad254b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -181,13 +181,13 @@ Decision 2008/635/EC is repealed.
 
 This Decision shall apply from 1 September 2010.
 
-## Article 8. Addressees[^key-eb93343c9c354d920d074d77fda10c62]
+## Article 8. Addressees[^c-eb93343c9c354d920d074d77fda10c62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-f0943dbbf0eb9c4a9096270128a4dae0][^c000001]
+## ANNEX I[^c-f0943dbbf0eb9c4a9096270128a4dae0][^c000001]
 
-**List of third countries [^key-474f3e029d99de9ada9a1d7d73e9e759]... from which the appropriate authority is[^key-5b2250130f1dc331797a18ff33d1f1dd] to authorise imports of consignments of semen of animals of the ovine and caprine species**
+**List of third countries [^c-474f3e029d99de9ada9a1d7d73e9e759]... from which the appropriate authority is[^c-5b2250130f1dc331797a18ff33d1f1dd] to authorise imports of consignments of semen of animals of the ovine and caprine species**
 
 <table>
 <tfoot>
@@ -211,45 +211,45 @@ This Decision shall apply from 1 September 2010.
 </tbody>
 </table>
 
-[^key-50cb1df699663d8aaa1133b419f08681][^key-417f595dc7f5d1017551ce54bdf3d3b5][^key-e1d0fb3bea6d8396ef577ce8d0e9e49c][^key-50cb1df699663d8aaa1133b419f08681][^key-3404a6c409a89f59f05ede6cdc68b20f][^key-417f595dc7f5d1017551ce54bdf3d3b5][^c000002]
+[^c-50cb1df699663d8aaa1133b419f08681][^c-417f595dc7f5d1017551ce54bdf3d3b5][^c-e1d0fb3bea6d8396ef577ce8d0e9e49c][^c-50cb1df699663d8aaa1133b419f08681][^c-3404a6c409a89f59f05ede6cdc68b20f][^c-417f595dc7f5d1017551ce54bdf3d3b5][^c000002]
 
-## ANNEX II[^key-e9c931a64634f99ae587ec8b7ef34bf3]
+## ANNEX II[^c-e9c931a64634f99ae587ec8b7ef34bf3]
 
 **No longer in force.**
 
-### PART 1[^key-e9c931a64634f99ae587ec8b7ef34bf3]
+### PART 1[^c-e9c931a64634f99ae587ec8b7ef34bf3]
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-e9c931a64634f99ae587ec8b7ef34bf3]
+### PART 2[^c-e9c931a64634f99ae587ec8b7ef34bf3]
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]**Section A**
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]**Section A**
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]**Section B**
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]**Section B**
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-5427cf286800b7f6ab7dd1fa865ca852]
+## ANNEX III[^c-5427cf286800b7f6ab7dd1fa865ca852]
 
-**List of third countries [^key-03d26a9f3e979ebc6d03e142a6b8c3a8]... from which the appropriate authority is[^key-f87d9f6346de4df09422e527a95d8b24] to authorise imports of consignments of ova and embryos of animals of the ovine and caprine species**
+**List of third countries [^c-03d26a9f3e979ebc6d03e142a6b8c3a8]... from which the appropriate authority is[^c-f87d9f6346de4df09422e527a95d8b24] to authorise imports of consignments of ova and embryos of animals of the ovine and caprine species**
 
 <table>
 <tfoot>
@@ -273,35 +273,35 @@ This Decision shall apply from 1 September 2010.
 </tbody>
 </table>
 
-[^key-6924644a4ad769e65f0e563e7a5536ee][^key-7f001eff3876d57db9666526d39574e7][^key-e2a6f061b8f7c8f08b5d8501c32c400f][^key-6924644a4ad769e65f0e563e7a5536ee][^key-9c2e8514700b17641b58b0c1871af392][^key-7f001eff3876d57db9666526d39574e7][^c000002]
+[^c-6924644a4ad769e65f0e563e7a5536ee][^c-7f001eff3876d57db9666526d39574e7][^c-e2a6f061b8f7c8f08b5d8501c32c400f][^c-6924644a4ad769e65f0e563e7a5536ee][^c-9c2e8514700b17641b58b0c1871af392][^c-7f001eff3876d57db9666526d39574e7][^c000002]
 
-## ANNEX IV[^key-f5b077ae7112c5e9e22bc7860fa3140e]
+## ANNEX IV[^c-f5b077ae7112c5e9e22bc7860fa3140e]
 
 **No longer in force.**
 
-### PART 1[^key-f5b077ae7112c5e9e22bc7860fa3140e]
+### PART 1[^c-f5b077ae7112c5e9e22bc7860fa3140e]
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-f5b077ae7112c5e9e22bc7860fa3140e]
+### PART 2[^c-f5b077ae7112c5e9e22bc7860fa3140e]
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -325,88 +325,88 @@ This Decision shall apply from 1 September 2010.
 
 [^f00010]: Footnote: [OJ L 57, 26.2.1997, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.057.01.0004.01.ENG).
 
-[^key-24d4f729fd3d91263e42ae788e61c3e2]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2010/472/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-24d4f729fd3d91263e42ae788e61c3e2]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2010/472/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-3f737ed13da8266ffa22fabe9c8f6c2b]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2010/472/article/1/1) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/2/a)
+[^c-3f737ed13da8266ffa22fabe9c8f6c2b]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2010/472/article/1/1) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/2/a)
 
-[^key-2a241578e0ffdb163c402c21d7d393a1]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2010/472/article/1/2) omitted (10.2.2025) by virtue of [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(2)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/2)
+[^c-2a241578e0ffdb163c402c21d7d393a1]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2010/472/article/1/2) omitted (10.2.2025) by virtue of [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(2)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/2)
 
-[^key-8e89a68585c8c07e7cdf8d7e83915c63]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2010/472/article/1a) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/3)
+[^c-8e89a68585c8c07e7cdf8d7e83915c63]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2010/472/article/1a) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/3)
 
-[^key-c7cc5571d80a3cbd5da938044ad42339]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2010/472/article/1a) heading substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(3)(a)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/3/a)
+[^c-c7cc5571d80a3cbd5da938044ad42339]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2010/472/article/1a) heading substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(3)(a)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/3/a)
 
-[^key-7bbbf680d334901274b5c60d94960109]: Textual amendment: Words in [Art. 1a(1)](https://www.legislation.gov.uk/eudn/2010/472/article/1a/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(3)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/3/b)
+[^c-7bbbf680d334901274b5c60d94960109]: Textual amendment: Words in [Art. 1a(1)](https://www.legislation.gov.uk/eudn/2010/472/article/1a/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(3)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/3/b)
 
-[^key-afb95284491ce0fc0da3d43d6a5750d3]: Textual amendment: [Art. 1a(2)](https://www.legislation.gov.uk/eudn/2010/472/article/1a/2) omitted (10.2.2025) by virtue of [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(3)(c)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/3/c)
+[^c-afb95284491ce0fc0da3d43d6a5750d3]: Textual amendment: [Art. 1a(2)](https://www.legislation.gov.uk/eudn/2010/472/article/1a/2) omitted (10.2.2025) by virtue of [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(3)(c)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/3/c)
 
-[^key-57bd482cfcf9dbca80d1aecc1a1e67f3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2010/472/article/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-57bd482cfcf9dbca80d1aecc1a1e67f3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2010/472/article/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-a6f2fbe831613fb8a3e20e5ab7ad3edf]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eudn/2010/472/article/2/a) substituted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/a/i)
+[^c-a6f2fbe831613fb8a3e20e5ab7ad3edf]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eudn/2010/472/article/2/a) substituted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/a/i)
 
-[^key-55cd61c5fcff1d3957fe0ae435cf19c3]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eudn/2010/472/article/2/a) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/a/ii)
+[^c-55cd61c5fcff1d3957fe0ae435cf19c3]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eudn/2010/472/article/2/a) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/a/ii)
 
-[^key-543ede85182b456d13ac83eb3faa5682]: Textual amendment: Word in [Art. 2(c)](https://www.legislation.gov.uk/eudn/2010/472/article/2/c) omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/b)
+[^c-543ede85182b456d13ac83eb3faa5682]: Textual amendment: Word in [Art. 2(c)](https://www.legislation.gov.uk/eudn/2010/472/article/2/c) omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/b)
 
-[^key-60eac6372628bb2a948abc428de69222]: Textual amendment: [Art. 2(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/2/ca) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(c)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/c)
+[^c-60eac6372628bb2a948abc428de69222]: Textual amendment: [Art. 2(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/2/ca) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(4)(c)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/4/c)
 
-[^key-b5487814ba27979a876f7bb997121dcc]: Textual amendment: Word in [Art. 2(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/2/ca) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(4)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/4)
+[^c-b5487814ba27979a876f7bb997121dcc]: Textual amendment: Word in [Art. 2(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/2/ca) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(4)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/4)
 
 [^M_F_bb8e90d6-19bd-4483-fab1-da7abfbbc481]: Textual amendment: Art. 3 substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-9bbd489d0bfe414da19b513e3991dbbb]: Textual amendment: Words in [Art. 3(a)](https://www.legislation.gov.uk/eudn/2010/472/article/3/a) substituted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(5)(a)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/5/a/i)
+[^c-9bbd489d0bfe414da19b513e3991dbbb]: Textual amendment: Words in [Art. 3(a)](https://www.legislation.gov.uk/eudn/2010/472/article/3/a) substituted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(5)(a)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/5/a/i)
 
-[^key-3cbab9f4f04ff53f9e57a98501827204]: Textual amendment: Words in [Art. 3(a)](https://www.legislation.gov.uk/eudn/2010/472/article/3/a) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/5/a/ii)
+[^c-3cbab9f4f04ff53f9e57a98501827204]: Textual amendment: Words in [Art. 3(a)](https://www.legislation.gov.uk/eudn/2010/472/article/3/a) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/5/a/ii)
 
-[^key-92536254f8d1fa9745ec7b4f05c5a1cf]: Textual amendment: [Art. 3(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/3/ca) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/5/b)
+[^c-92536254f8d1fa9745ec7b4f05c5a1cf]: Textual amendment: [Art. 3(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/3/ca) inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/5/b)
 
-[^key-6e88c74a6b081797d893513969c5062a]: Textual amendment: Word in [Art. 3(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/3/ca) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(5)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/5)
+[^c-6e88c74a6b081797d893513969c5062a]: Textual amendment: Word in [Art. 3(ca)](https://www.legislation.gov.uk/eudn/2010/472/article/3/ca) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(5)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/5)
 
-[^key-42c996f44000159f82f7e1078b01ff85]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2010/472/article/4) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(5)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/5/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-42c996f44000159f82f7e1078b01ff85]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2010/472/article/4) heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(5)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/5/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-1df1b42e7da8e989effb33ff09080c51]: Textual amendment: Words in [Art. 4(1)(a)](https://www.legislation.gov.uk/eudn/2010/472/article/4/1/a) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(5)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/5/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-1df1b42e7da8e989effb33ff09080c51]: Textual amendment: Words in [Art. 4(1)(a)](https://www.legislation.gov.uk/eudn/2010/472/article/4/1/a) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(5)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/5/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-8f1459f8d36d05134e2e1229555d9dec]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eudn/2010/472/article/4/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(5)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/5/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-8f1459f8d36d05134e2e1229555d9dec]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eudn/2010/472/article/4/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(5)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/5/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-6e0936ce125321c0a79710f48cf6332f]: Textual amendment: Art. 4a inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/6)
+[^c-6e0936ce125321c0a79710f48cf6332f]: Textual amendment: Art. 4a inserted (1.7.2022) by [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/6)
 
-[^key-9dfbeb89422395086f11221d289d66f1]: Textual amendment: Word in [Art. 4a(2)(a)](https://www.legislation.gov.uk/eudn/2010/472/article/4a/2/a) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(6)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/6)
+[^c-9dfbeb89422395086f11221d289d66f1]: Textual amendment: Word in [Art. 4a(2)(a)](https://www.legislation.gov.uk/eudn/2010/472/article/4a/2/a) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [36(6)](https://www.legislation.gov.uk/uksi/2025/102/regulation/36/6)
 
-[^key-9f92d189d636afb977cdbf83ad254b9c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2010/472/article/6) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-9f92d189d636afb977cdbf83ad254b9c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2010/472/article/6) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-eb93343c9c354d920d074d77fda10c62]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eudn/2010/472/article/8) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-eb93343c9c354d920d074d77fda10c62]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eudn/2010/472/article/8) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-f0943dbbf0eb9c4a9096270128a4dae0]: Modification: [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I): power to amend conferred (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2019/1225/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0943dbbf0eb9c4a9096270128a4dae0]: Modification: [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I): power to amend conferred (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2019/1225/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Decision of 17 July 2012 amending Decision 2010/472/EU as regards animal health requirements relating to Simbu viruses and epizootic haemorrhagic disease (notified under document C(2012) 4831) (Text with EEA relevance) (2012/411/EU)](https://www.legislation.gov.uk/eudn/2012/411).
 
-[^key-474f3e029d99de9ada9a1d7d73e9e759]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I) heading omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/a)
+[^c-474f3e029d99de9ada9a1d7d73e9e759]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I) heading omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/a)
 
-[^key-5b2250130f1dc331797a18ff33d1f1dd]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I) Table heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(7)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/7/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-5b2250130f1dc331797a18ff33d1f1dd]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I) Table heading substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(7)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/7/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-50cb1df699663d8aaa1133b419f08681]: Textual amendment: [Annex I](https://www.legislation.gov.uk/eudn/2010/472/annex/I) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(c)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/c/i)
+[^c-50cb1df699663d8aaa1133b419f08681]: Textual amendment: [Annex I](https://www.legislation.gov.uk/eudn/2010/472/annex/I) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(c)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/c/i)
 
-[^key-417f595dc7f5d1017551ce54bdf3d3b5]: Textual amendment: [Annex I](https://www.legislation.gov.uk/eudn/2010/472/annex/I) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/c/ii)
+[^c-417f595dc7f5d1017551ce54bdf3d3b5]: Textual amendment: [Annex I](https://www.legislation.gov.uk/eudn/2010/472/annex/I) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/c/ii)
 
-[^key-e1d0fb3bea6d8396ef577ce8d0e9e49c]: Textual amendment: Words in [Annex I](https://www.legislation.gov.uk/eudn/2010/472/annex/I) table omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/b)
+[^c-e1d0fb3bea6d8396ef577ce8d0e9e49c]: Textual amendment: Words in [Annex I](https://www.legislation.gov.uk/eudn/2010/472/annex/I) table omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(7)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/7/b)
 
-[^key-3404a6c409a89f59f05ede6cdc68b20f]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I) Table inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/7/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-3404a6c409a89f59f05ede6cdc68b20f]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2010/472/annex/I) Table inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/7/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000002]: Textual amendment: Deleted by [Commission Regulation (EU) No 519/2013 of 21 February 2013 adapting certain regulations and decisions in the fields of free movement of goods, freedom of movement for persons, right of establishment and freedom to provide services, company law, competition policy, agriculture, food safety, veterinary and phytosanitary policy, fisheries, transport policy, energy, taxation, statistics, social policy and employment, environment, customs union, external relations, and foreign, security and defence policy, by reason of the accession of Croatia](https://www.legislation.gov.uk/eur/2013/519).
 
-[^key-e9c931a64634f99ae587ec8b7ef34bf3]: Textual amendment: [Annex II](https://www.legislation.gov.uk/eudn/2010/472/annex/II) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(8)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/8) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-e9c931a64634f99ae587ec8b7ef34bf3]: Textual amendment: [Annex II](https://www.legislation.gov.uk/eudn/2010/472/annex/II) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(8)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/8) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-5427cf286800b7f6ab7dd1fa865ca852]: Modification: [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III): power to amend conferred (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2019/1225/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5427cf286800b7f6ab7dd1fa865ca852]: Modification: [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III): power to amend conferred (31.12.2020) by [The Trade in Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2019/1225/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03d26a9f3e979ebc6d03e142a6b8c3a8]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) heading omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/a)
+[^c-03d26a9f3e979ebc6d03e142a6b8c3a8]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) heading omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(a)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/a)
 
-[^key-f87d9f6346de4df09422e527a95d8b24]: Textual amendment: Words in Annex 3 heading substituted (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(9)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/9/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-f87d9f6346de4df09422e527a95d8b24]: Textual amendment: Words in Annex 3 heading substituted (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(9)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/9/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-6924644a4ad769e65f0e563e7a5536ee]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(c)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/c/i)
+[^c-6924644a4ad769e65f0e563e7a5536ee]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(c)(i)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/c/i)
 
-[^key-7f001eff3876d57db9666526d39574e7]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/c/ii)
+[^c-7f001eff3876d57db9666526d39574e7]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) footnote omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/c/ii)
 
-[^key-e2a6f061b8f7c8f08b5d8501c32c400f]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) Table omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/b)
+[^c-e2a6f061b8f7c8f08b5d8501c32c400f]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) Table omitted (1.7.2022) by virtue of [The Import of Animals and Animal Products and Approved Countries (Amendment) Regulations 2022 (S.I. 2022/735)](https://www.legislation.gov.uk/uksi/2022/735), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/735/regulation/1/2), [11(8)(b)](https://www.legislation.gov.uk/uksi/2022/735/regulation/11/8/b)
 
-[^key-9c2e8514700b17641b58b0c1871af392]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) Table inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/9/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-9c2e8514700b17641b58b0c1871af392]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2010/472/annex/III) Table inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/9/b/ii) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-f5b077ae7112c5e9e22bc7860fa3140e]: Textual amendment: [Annex IV](https://www.legislation.gov.uk/eudn/2010/472/annex/IV) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(10)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/10) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-f5b077ae7112c5e9e22bc7860fa3140e]: Textual amendment: [Annex IV](https://www.legislation.gov.uk/eudn/2010/472/annex/IV) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [57(10)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/57/10) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))

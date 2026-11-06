@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Revocations and amendments[^key-642174a97981bef2bc2f34d55e6fe033]
+## 44. Revocations and amendments[^c-642174a97981bef2bc2f34d55e6fe033]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-642174a97981bef2bc2f34d55e6fe033]: Commencement: Reg. 44 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-642174a97981bef2bc2f34d55e6fe033]: Commencement: Reg. 44 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00014]: Footnote: S.I. [2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
 

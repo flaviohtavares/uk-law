@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17E. Functions under sections 17A to 17D capable of exercise by single justice[^key-27e3b104a58664a577b666247e90559d]
+## 17E. Functions under sections 17A to 17D capable of exercise by single justice[^c-27e3b104a58664a577b666247e90559d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ by a magistrates' court composed of fewer than two justices.
 
 ## Annotations
 
-[^key-27e3b104a58664a577b666247e90559d]: Textual amendment: Ss. 17D, 17E inserted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/3); S.I. 2012/1320, art. 4(1)(c)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+[^c-27e3b104a58664a577b666247e90559d]: Textual amendment: Ss. 17D, 17E inserted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/3); S.I. 2012/1320, art. 4(1)(c)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)

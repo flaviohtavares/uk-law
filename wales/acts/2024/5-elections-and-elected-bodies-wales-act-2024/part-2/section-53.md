@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Publication of orders under Part 3 of the 2013 Act[^key-0df87167de5d0cc81dbe0b7f595877f0]
+## 53. Publication of orders under Part 3 of the 2013 Act[^c-0df87167de5d0cc81dbe0b7f595877f0]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0df87167de5d0cc81dbe0b7f595877f0]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2024/5/section/53) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-0df87167de5d0cc81dbe0b7f595877f0]: Commencement: [S. 53](https://www.legislation.gov.uk/asc/2024/5/section/53) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

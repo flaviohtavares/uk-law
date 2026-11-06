@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 283. Power to prescribe conditions by reference to Inland Revenue approval[^key-513d84dd28c8212c66cbc40c92443c04]
+## 283. Power to prescribe conditions by reference to Inland Revenue approval[^c-513d84dd28c8212c66cbc40c92443c04]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In section 9 of the Pension Schemes Act 1993 (requirements for certification of 
 
 ## Annotations
 
-[^key-513d84dd28c8212c66cbc40c92443c04]: Commencement: S. 283 in force at 1.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(9)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/9)
+[^c-513d84dd28c8212c66cbc40c92443c04]: Commencement: S. 283 in force at 1.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(9)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/9)

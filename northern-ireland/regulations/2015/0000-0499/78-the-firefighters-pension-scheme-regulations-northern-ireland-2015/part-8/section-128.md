@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Employer additional contribution: employer initiated retirement[^key-c140166d1e3c5ef1c4b9d866ea799ca4]
+## 128. Employer additional contribution: employer initiated retirement[^c-c140166d1e3c5ef1c4b9d866ea799ca4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c140166d1e3c5ef1c4b9d866ea799ca4]: Textual amendment: [Reg. 128](https://www.legislation.gov.uk/nisr/2015/78/regulation/128) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [5(5)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/5)
+[^c-c140166d1e3c5ef1c4b9d866ea799ca4]: Textual amendment: [Reg. 128](https://www.legislation.gov.uk/nisr/2015/78/regulation/128) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [5(5)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/5)

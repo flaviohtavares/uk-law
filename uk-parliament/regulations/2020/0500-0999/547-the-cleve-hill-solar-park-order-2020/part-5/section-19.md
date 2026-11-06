@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Private rights[^key-bf0af3de4ec2957216b6eff914d08e7d]
+## 19. Private rights[^c-bf0af3de4ec2957216b6eff914d08e7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-bf0af3de4ec2957216b6eff914d08e7d]: Commencement: Art. 19 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-bf0af3de4ec2957216b6eff914d08e7d]: Commencement: Art. 19 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-f3c6c5419e55e4c11f6a762b1d0823de][^key-283cf86a67f6e6be614fbcfa12ef93c7][^key-fab7558931c7298064a1571e8c0684c0] In the Social Security Administration Act 1992, after section 71ZA there is inserted—
+(1)[^c-f3c6c5419e55e4c11f6a762b1d0823de][^c-283cf86a67f6e6be614fbcfa12ef93c7][^c-fab7558931c7298064a1571e8c0684c0] In the Social Security Administration Act 1992, after section 71ZA there is inserted—
 
 > **Recovery of benefit payments**
 >
@@ -96,7 +96,7 @@ summary: ''
 >
 > **71ZE. Court action etc**
 >
-> (1) Where an amount is recoverable under section 71ZB from a person residing in England and Wales, the amount is, if the county court[^key-0abb1e6ebeed7b1545814cf127e3a7b1] so orders, recoverable—
+> (1) Where an amount is recoverable under section 71ZB from a person residing in England and Wales, the amount is, if the county court[^c-0abb1e6ebeed7b1545814cf127e3a7b1] so orders, recoverable—
 >
 > - (a) under section 85 of the County Courts Act 1984, or
 > - (b) otherwise as if it were payable under an order of the court.
@@ -160,9 +160,9 @@ summary: ''
 
 (2) In section 71 of that Act (overpayments - general), in subsection (11)(ab), at the end there is inserted “excluding housing credit (see section 71ZB)”.
 
-(3)[^key-dbdaef0d82a17c5c48f72e398b326367] In section 115A of that Act (penalty as alternative to prosecution), in subsection (1), after “71” there is inserted “ 71ZB ”.
+(3)[^c-dbdaef0d82a17c5c48f72e398b326367] In section 115A of that Act (penalty as alternative to prosecution), in subsection (1), after “71” there is inserted “ 71ZB ”.
 
-(4)[^key-766a08f285cdbb3a27b0b96868bdea03] In section 115B of that Act (penalty as alternative to prosecution: colluding employers etc)—
+(4)[^c-766a08f285cdbb3a27b0b96868bdea03] In section 115B of that Act (penalty as alternative to prosecution: colluding employers etc)—
 
 - (a) for subsection (4) there is substituted—
 
@@ -176,7 +176,7 @@ summary: ''
   ;
 - (b) in subsection (9), the definition of “relevant benefit” is repealed.
 
-(5)[^key-dbdaef0d82a17c5c48f72e398b326367] In Schedule 1 to the Jobseekers Act 1995 (supplementary provision)—
+(5)[^c-dbdaef0d82a17c5c48f72e398b326367] In Schedule 1 to the Jobseekers Act 1995 (supplementary provision)—
 
 - (a) in paragraph 9, at the end there is inserted—
 
@@ -189,9 +189,9 @@ summary: ''
 
   .
 
-(6)[^key-dbdaef0d82a17c5c48f72e398b326367] In section 12 of the Social Security Act 1998 (appeal to First-tier Tribunal), in subsection (4), after “71” there is inserted “ , 71ZB, 71ZG, 71ZH, ”.
+(6)[^c-dbdaef0d82a17c5c48f72e398b326367] In section 12 of the Social Security Act 1998 (appeal to First-tier Tribunal), in subsection (4), after “71” there is inserted “ , 71ZB, 71ZG, 71ZH, ”.
 
-(7)[^key-7b10b834776af2495489e538c9079d65] In Schedule 3 to that Act (decisions against which an appeal lies), after paragraph 6 there is inserted—
+(7)[^c-7b10b834776af2495489e538c9079d65] In Schedule 3 to that Act (decisions against which an appeal lies), after paragraph 6 there is inserted—
 
 > **6A.**
 >
@@ -203,16 +203,16 @@ summary: ''
 
 ## Annotations
 
-[^key-f3c6c5419e55e4c11f6a762b1d0823de]: Commencement: S. 105(1) in force at 1.7.2012 for specified purposes by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/b)
+[^c-f3c6c5419e55e4c11f6a762b1d0823de]: Commencement: S. 105(1) in force at 1.7.2012 for specified purposes by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/4/b)
 
-[^key-283cf86a67f6e6be614fbcfa12ef93c7]: Commencement: S. 105(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/a)
+[^c-283cf86a67f6e6be614fbcfa12ef93c7]: Commencement: S. 105(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/a)
 
-[^key-fab7558931c7298064a1571e8c0684c0]: Commencement: S. 105(1) in force at 29.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/358/article/5/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/a)[(3A)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3A) (as amended (24.4.2013) by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), art. 23)
+[^c-fab7558931c7298064a1571e8c0684c0]: Commencement: S. 105(1) in force at 29.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/358/article/5/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/a)[(3A)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3A) (as amended (24.4.2013) by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), art. 23)
 
-[^key-0abb1e6ebeed7b1545814cf127e3a7b1]: Textual amendment: Words in s. 105(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0abb1e6ebeed7b1545814cf127e3a7b1]: Textual amendment: Words in s. 105(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-dbdaef0d82a17c5c48f72e398b326367]: Commencement: S. 105(3)(5)(6) in force at 29.4.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/358/article/5/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/b) (as amended (24.4.2013) by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), art. 23)
+[^c-dbdaef0d82a17c5c48f72e398b326367]: Commencement: S. 105(3)(5)(6) in force at 29.4.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/358/article/5/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/b) (as amended (24.4.2013) by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), art. 23)
 
-[^key-766a08f285cdbb3a27b0b96868bdea03]: Commencement: S. 105(4) in force at 1.10.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/b)
+[^c-766a08f285cdbb3a27b0b96868bdea03]: Commencement: S. 105(4) in force at 1.10.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/b)
 
-[^key-7b10b834776af2495489e538c9079d65]: Commencement: S. 105(7) in force at 29.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/358/article/5/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/c) (as amended (24.4.2013) by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), art. 23)
+[^c-7b10b834776af2495489e538c9079d65]: Commencement: S. 105(7) in force at 29.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/358/article/5/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/c) (as amended (24.4.2013) by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), art. 23)

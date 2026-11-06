@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Recommended medical treatment[^key-a9484d8e7ec814f85317c9f0afaeb576]
+## 12. Recommended medical treatment[^c-a9484d8e7ec814f85317c9f0afaeb576]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9484d8e7ec814f85317c9f0afaeb576]: Commencement: S. 12 has effect as specified (1.1.2015) by [The Finance Act 2014, Section 12 (Appointed Day) Order 2014 (S.I. 2014/3226)](https://www.legislation.gov.uk/uksi/2014/3226), [art. 2](https://www.legislation.gov.uk/uksi/2014/3226/article/2)
+[^c-a9484d8e7ec814f85317c9f0afaeb576]: Commencement: S. 12 has effect as specified (1.1.2015) by [The Finance Act 2014, Section 12 (Appointed Day) Order 2014 (S.I. 2014/3226)](https://www.legislation.gov.uk/uksi/2014/3226), [art. 2](https://www.legislation.gov.uk/uksi/2014/3226/article/2)

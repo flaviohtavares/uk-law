@@ -45,7 +45,7 @@ which, on the assumptions mentioned in subsection (4), would have been deductibl
 
 (6) A deduction shall not be made twice, whether under subsection (2) or (3), in respect of the same mileage allowance relief.
 
-(6A)[^key-ff2bcc4bcafc9b1a98824f228964c995] If the earnings from which a deduction allowed under this section is deductible include earnings that are “excluded” within the meaning of section 15(1A)—
+(6A)[^c-ff2bcc4bcafc9b1a98824f228964c995] If the earnings from which a deduction allowed under this section is deductible include earnings that are “excluded” within the meaning of section 15(1A)—
 
 - (a) the amount of the deduction allowed is a proportion of the amount that would be allowed under this section if the tax year were not a split year, and
 - (b) that proportion is equal to the proportion that the part of the earnings that is not “excluded” bears to the total earnings.
@@ -54,4 +54,4 @@ which, on the assumptions mentioned in subsection (4), would have been deductibl
 
 ## Annotations
 
-[^key-ff2bcc4bcafc9b1a98824f228964c995]: Textual amendment: S. 232(6A) inserted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 63](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/63)
+[^c-ff2bcc4bcafc9b1a98824f228964c995]: Textual amendment: S. 232(6A) inserted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 63](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/63)

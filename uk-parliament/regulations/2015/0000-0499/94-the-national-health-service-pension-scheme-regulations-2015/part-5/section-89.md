@@ -28,7 +28,7 @@ summary: ''
 
 - (a) for paragraph (2)(a) substitute—
 
-  > - (a) where M is neither a practitioner nor a non-GP provider, if the sum of the annual rate of M's pensionable earnings in that employment and every other employment held by M on the election day is reduced (disregarding any reduction in pensionable earnings resulting from the member entering into a salary sacrifice arrangement)[^key-ba0ab7a2f61a75bb96b773c2677a9e04] to 90% or less of the sum of—
+  > - (a) where M is neither a practitioner nor a non-GP provider, if the sum of the annual rate of M's pensionable earnings in that employment and every other employment held by M on the election day is reduced (disregarding any reduction in pensionable earnings resulting from the member entering into a salary sacrifice arrangement)[^c-ba0ab7a2f61a75bb96b773c2677a9e04] to 90% or less of the sum of—
   >   - (i) M's pensionable earnings in the employment during the period of 12 months ending with the election day; and
   >   - (ii) M's pensionable earnings during that period in every other employment held by M on that day.
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) In regulation 86, for paragraph (2)(a) substitute—
 
-> - (a) where M is neither a practitioner nor a non-GP provider, the annual rate of M's pensionable earnings in the employment is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^key-c209395b158433e91dafd15d40e82f2a] to more than 90% of the sum of—
+> - (a) where M is neither a practitioner nor a non-GP provider, the annual rate of M's pensionable earnings in the employment is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^c-c209395b158433e91dafd15d40e82f2a] to more than 90% of the sum of—
 >   - (i) M's pensionable earnings in the employment during the period of 12 months ending with the election day; and
 >   - (ii) M's pensionable earnings during that period in every other employment held by M on that day.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba0ab7a2f61a75bb96b773c2677a9e04]: Textual amendment: Words in [reg. 89(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/89/3) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/27/2)
+[^c-ba0ab7a2f61a75bb96b773c2677a9e04]: Textual amendment: Words in [reg. 89(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/89/3) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/27/2)
 
-[^key-c209395b158433e91dafd15d40e82f2a]: Textual amendment: Words in [reg. 89(4)](https://www.legislation.gov.uk/uksi/2015/94/regulation/89/4) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/27/3)
+[^c-c209395b158433e91dafd15d40e82f2a]: Textual amendment: Words in [reg. 89(4)](https://www.legislation.gov.uk/uksi/2015/94/regulation/89/4) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/27/3)

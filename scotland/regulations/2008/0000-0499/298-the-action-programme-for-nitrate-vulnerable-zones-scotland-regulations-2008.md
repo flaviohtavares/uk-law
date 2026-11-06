@@ -76,24 +76,24 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - – a tendency to being water-logged;
 - “**catch crop**” means a crop which has a short growing period and which is grown in a year between other crops which have a longer growing period;
 - “**chemical fertiliser**” means nitrogen fertiliser which is manufactured by an industrial process;
-- “compost” means compost that—[^key-b56d3d5d8a1e3b056eb2f07c3fe5c740]
+- “compost” means compost that—[^c-b56d3d5d8a1e3b056eb2f07c3fe5c740]
   - (a) complies with Publicly Available Specification PAS 100:2011 (Specification for composted materials) published by the British Standards Institution, and
   - (b) does not contain livestock manure;
 - “**cover crop**” means a crop sown primarily for the purpose of taking up nitrogen from the soil and which is not harvested;
 - “**crop requirement**” means the amount of nitrogen fertiliser in kilograms (“kg”) which it is reasonable to apply to land in any year having regard to the foreseeable nitrogen requirement of the crop growing or to be grown on the land and the nitrogen supply to the crop from the soil and from other sources, including any previous applications of livestock and other organic manures;
-- “derogated farm” means a farm over which a derogation has been granted;[^key-6c942e14d09543b97ea256cd37dbb325]
+- “derogated farm” means a farm over which a derogation has been granted;[^c-6c942e14d09543b97ea256cd37dbb325]
 - “derogation” means a derogation from the annual limit of nitrogen in livestock manure that can be applied to land granted by the Scottish Ministers in accordance with regulations 14, 14A and 14B;
 - “derogation application” means an application for a derogation submitted by the occupier of a farm;
 - “**farm**” includes livestock unit;
 - “**farmyard manure**” means livestock excreta mixed with bedding material (such as straw) but does not include poultry manure other than duck manure.
-- “fertilisation accounts” means accounts providing such information relating to the management of nitrogen and phosphate inputs during the preceding calendar year as the Scottish Ministers may specify in accordance with regulation 25(3);[^key-4621644733c1b38768a87b6a27f499f1]
+- “fertilisation accounts” means accounts providing such information relating to the management of nitrogen and phosphate inputs during the preceding calendar year as the Scottish Ministers may specify in accordance with regulation 25(3);[^c-4621644733c1b38768a87b6a27f499f1]
 - “**fertiliser and manure management plan**” means a plan drawn up under regulation 5.
 - “**grassland**” means land on which the vegetation consists predominantly of grass species;
-- “grassland farm” means a farm where 80% or more of the agricultural area available for manure application is permanent grassland or temporary grassland (temporary implying leys of less than four years), including crops under-sown with grass but excluding grassland with 50% or more clover;[^key-0df3b478e3b59502d3d57db96fde8cac]
+- “grassland farm” means a farm where 80% or more of the agricultural area available for manure application is permanent grassland or temporary grassland (temporary implying leys of less than four years), including crops under-sown with grass but excluding grassland with 50% or more clover;[^c-0df3b478e3b59502d3d57db96fde8cac]
 - “grazing livestock” means cattle (with the exclusion of veal calves), sheep, deer, goats and horses;
 - “**livestock**” means any animal kept for use or profit;
 - “**livestock manure**” means waste products excreted by livestock or a mixture of litter and waste products excreted by livestock, even in processed form;
-- “nitrate vulnerable zone” means any area of land designated as a nitrate vulnerable zone by regulation 2 of the Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015;[^key-c04110805a6bb9876b5144f6141fe490]
+- “nitrate vulnerable zone” means any area of land designated as a nitrate vulnerable zone by regulation 2 of the Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015;[^c-c04110805a6bb9876b5144f6141fe490]
 - “**nitrogen fertiliser**” means any substance containing a nitrogen compound utilised on land to enhance growth of vegetation;
 - “**organic manure**” means–
   - (a) livestock manure; and
@@ -101,7 +101,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
   and includes sewage sludge and other organic wastes;
 - “**organic manure with high available nitrogen content**” means organic manure in which more than 30 per cent (“%”) of the total nitrogen content of the manure will be released in the year in which it is spread on land (such as cattle and pig slurry, poultry manure and liquid digested sludge);
-- “phosphate fertiliser” means any substance containing one or more phosphate compounds used on land to enhance growth of vegetation and includes organic[^key-3dbf0a47e51d7e483ea84665ffd33908]  manure;
+- “phosphate fertiliser” means any substance containing one or more phosphate compounds used on land to enhance growth of vegetation and includes organic[^c-3dbf0a47e51d7e483ea84665ffd33908]  manure;
 - “**poultry manure**” means a mixture of excreta produced by poultry and bedding material, unless the contrary is specified;
 - “**sandy**”, in relation to soil, means sandy, sandy loamy and loamy sand soils where in the layer up to 40 centimetres (“cm”) deep and in the layer between 40cm and 80cm deep, there is–
   - (a) more than 50 per cent by weight of sand sized particles (that is particles more than 0.06 millimetres (“mm”) and less than 2mm in diameter);
@@ -109,13 +109,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (c) less than 5 per cent by weight of organic carbon;
 - “**seasonal let**” means either a lease for grazing or mowing as defined in section 3 of the Agricultural Holdings (Scotland) Act 2003 [^c19406931] or a short limited duration tenancy as defined in section 4 of that Act for a period of no more than 2 years;
 - “**shallow**”, in relation to soil, means less than 40cm depth to rock;
-- “silage effluent” has the meaning given in[^key-ce1b18ca48d51b91e5d319ba0bb11542] Part 2 of schedule 3 of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-bf2c44a6b6830a7a254e74f78cc38e69];
+- “silage effluent” has the meaning given in[^c-ce1b18ca48d51b91e5d319ba0bb11542] Part 2 of schedule 3 of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-bf2c44a6b6830a7a254e74f78cc38e69];
 - “**slurry**” means–
   - (a) excreta, including any liquid fraction, produced by livestock whilst in a yard or building; or
   - (b) a mixture consisting wholly of or containing such excreta, bedding, feed residues, rainwater and washings from a building or yard used by livestock, dungsteads or manure heaps, high level slatted buildings and weeping wall structures or any combination of these, provided such excreta is present,
 
   of a consistency that allows it to be pumped or discharged by gravity at any stage in the handling process;
-- “soil nutrient status” means soil acidity and plant available concentrations of phosphorous, potassium and magnesium in the soil;[^key-36df7a764b60fd46320356208dfc6e73]
+- “soil nutrient status” means soil acidity and plant available concentrations of phosphorous, potassium and magnesium in the soil;[^c-36df7a764b60fd46320356208dfc6e73]
 - “soil type” means the soil types listed in Table 1 of Schedule 3;
 - “**solid manure**” means organic manure which can be stored or stacked in a freestanding heap without slumping and does not produce free drainage of liquid from within the stacked material;
 - “**surface water**” has the same meaning as it has in section 3(3) of the Water Environment and Water Services (Scotland) Act 2003 [^c19406941];
@@ -147,8 +147,8 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 (3) A fertiliser and manure management plan must consist of–
 
 - (a) a risk assessment plan in respect of organic manure;
-- (b) a calculation of the capacity of storage facilities for livestock manure required on the farm; [^key-b712e934df533c49618b55454149d009]...
-- (c) a calculation of the quantity of nitrogen fertiliser required in relation to each crop on the farm; and[^key-581d5c360fdc6c5041ca7b5bb7af2fc2]
+- (b) a calculation of the capacity of storage facilities for livestock manure required on the farm; [^c-b712e934df533c49618b55454149d009]...
+- (c) a calculation of the quantity of nitrogen fertiliser required in relation to each crop on the farm; and[^c-581d5c360fdc6c5041ca7b5bb7af2fc2]
 - (d) in respect of derogated farms, in addition to the requirements of sub-paragraphs (a) to (c)—
   - (i) a note of the number of livestock and a description of the housing and storage system that includes the volume of manure storage available;
   - (ii) a calculation of manure nitrogen (less losses in housing and storage) and phosphate produced in the farm;
@@ -170,11 +170,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (5) No nitrogen fertiliser is to be applied to any crop in any year prior to the calculation under paragraph (3)(c) being completed for that crop and that year.
 
-(6)[^key-997afe3de16051acdf6126617d02d7ff] Fertiliser and manure management plans in respect of derogated farms shall be revised no later than 7 days after any changes in agricultural practice at the farm.
+(6)[^c-997afe3de16051acdf6126617d02d7ff] Fertiliser and manure management plans in respect of derogated farms shall be revised no later than 7 days after any changes in agricultural practice at the farm.
 
-### 6. Storage of livestock manure and silage effluent[^key-34bd36ad97074de42ff07293e40a8e3e]
+### 6. Storage of livestock manure and silage effluent[^c-34bd36ad97074de42ff07293e40a8e3e]
 
-(1)[^key-06fea928e97308791a20e0b83e4d72d6] Subject to regulations 7 to 11, the capacity of storage facilities for livestock manure and silage effluent on a farm must be sufficient to store all livestock manure and silage effluent which is likely to require to be stored on the farm for such period as may be required to secure compliance with these Regulations and to avoid pollution of the water environment.
+(1)[^c-06fea928e97308791a20e0b83e4d72d6] Subject to regulations 7 to 11, the capacity of storage facilities for livestock manure and silage effluent on a farm must be sufficient to store all livestock manure and silage effluent which is likely to require to be stored on the farm for such period as may be required to secure compliance with these Regulations and to avoid pollution of the water environment.
 
 (2) Storage facilities for livestock manure and silage effluent must—
 
@@ -183,7 +183,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ### 7. Storage of slurry from housed pigs and housed cattle and manure from housed poultry
 
-(1)[^key-0a8eacba729c63623f3b87eb2af86d13] A farm must have capacity to store the total quantity of slurry likely to be produced by housed pigs or housed cattle and manure from housed poultry calculated by adding up the total figures produced for each type of livestock, in accordance with paragraph (2).
+(1)[^c-0a8eacba729c63623f3b87eb2af86d13] A farm must have capacity to store the total quantity of slurry likely to be produced by housed pigs or housed cattle and manure from housed poultry calculated by adding up the total figures produced for each type of livestock, in accordance with paragraph (2).
 
 (2) The quantity referred to in paragraph (1) shall be calculated–
 
@@ -231,10 +231,10 @@ In calculating the quantity of livestock manure for the purposes of regulations 
 - (a) any solids to be removed from slurry, other than pig slurry, by means of a slurry separator, up to a maximum of 20% of the total slurry produced;
 - (b) any solids to be removed from pig slurry, by means of a slurry separator, up to a maximum of 10% of the total slurry produced;
 - (c) any quantity of livestock manure to be moved off the farm;
-- (d)[^key-868062378b2fdcbf8fb177453b860c25] any quantity of livestock manure to be transferred to a person authorised by permit or registration under the Environmental Authorisations (Scotland) Regulations 2018 to collect, recover or dispose of manure;
+- (d)[^c-868062378b2fdcbf8fb177453b860c25] any quantity of livestock manure to be transferred to a person authorised by permit or registration under the Environmental Authorisations (Scotland) Regulations 2018 to collect, recover or dispose of manure;
 - (e) any quantity of livestock manure to be disposed of under contract to a manure processing facility or to an approved treatment or recovery outlet.
 
-### 9. Storage of livestock manure (other than slurry)[^key-378a29f773e285a495b29142b2bc09ca]
+### 9. Storage of livestock manure (other than slurry)[^c-378a29f773e285a495b29142b2bc09ca]
 
 Subject to regulation 10 the storage of livestock manure (other than slurry) must–
 
@@ -250,7 +250,7 @@ Subject to regulation 10 the storage of livestock manure (other than slurry) mus
 - (a) in any field heap for more than 12 consecutive months; or
 - (b) on the site of any previous field heap unless at least 24 months have passed since the site was last cleared.
 
-(2)[^key-bcbdbd67a3898e056b657150885a11ac] No field heap may be located—
+(2)[^c-bcbdbd67a3898e056b657150885a11ac] No field heap may be located—
 
 - (a) within 10 metres of any body of surface water;
 - (b) within 50 metres of any well, borehole or similar work sunk into underground strata for the purpose of providing a water supply;
@@ -303,7 +303,7 @@ Subject to regulation 10 the storage of livestock manure (other than slurry) mus
 
 (3) Before planting any crop which is managed grassland of a type referred to in column 1 of table 3 of Schedule 3, the maximum nitrogen which can be applied to that crop shall be calculated by identifying the appropriate site class by using table 2 of Schedule 3, and using that site class to calculate the appropriate figure in table 3 of that Schedule.
 
-(4)[^key-67b025430fce970f5b6774f5b4efdd51] Before planting any crop which is not referred to in paragraph (2) or (3), the maximum amount of nitrogen fertiliser which can be applied to that crop shall be calculated in accordance with the recommendations for that crop type specified in—
+(4)[^c-67b025430fce970f5b6774f5b4efdd51] Before planting any crop which is not referred to in paragraph (2) or (3), the maximum amount of nitrogen fertiliser which can be applied to that crop shall be calculated in accordance with the recommendations for that crop type specified in—
 
 - (a) the Scottish Agricultural College’s Technical Note TN651 (Nitrogen recommendations for cereals, oilseed rape and potatoes);
 - (b) the Scottish Agricultural College’s Technical Note TN623 (Fertiliser recommendations for soft fruit and rhubarb crops); or
@@ -315,7 +315,7 @@ and no nitrogen shall be applied in excess of that figure.
 
 (6) Subject to the other provisions in these Regulations, the overall figure calculated under paragraph (5) for each crop may be applied to that crop even in excess of the individual figure for the individual area calculated under paragraphs (2), (3) or (4), as long as the overall amount applied to the crop type on the farm does not at any time exceed the sum in paragraph (5).
 
-(7)[^key-35a12b5e8ca6976f55cc3935363fcdce] Where the calculation of the maximum amount of nitrogen fertiliser that may be applied on the farm to a crop has been adjusted upwards in accordance with paragraph (2)(c) and Schedule 3 based on an expected yield, the expected yield must be based upon—
+(7)[^c-35a12b5e8ca6976f55cc3935363fcdce] Where the calculation of the maximum amount of nitrogen fertiliser that may be applied on the farm to a crop has been adjusted upwards in accordance with paragraph (2)(c) and Schedule 3 based on an expected yield, the expected yield must be based upon—
 
 - (a) evidence of historic yields previously achieved by that crop at that farm; or
 - (b) where a new crop management system is to be introduced for that crop at that farm, evidence from another farm within the same nitrate vulnerable zone with similar soil type and soil nutrient status of historic yields previously achieved by that crop at that other farm using that crop management system.
@@ -328,13 +328,13 @@ and no nitrogen shall be applied in excess of that figure.
 
 ### 14. Annual farm limit of nitrogen in livestock manure
 
-(1) Subject to paragraph (4),[^key-79b1206fd15e6350cec036707caf750c] in any year the total nitrogen in livestock manure applied to the utilisable agricultural land area of the whole farm, whether directly by an animal or by spreading, must not exceed 170 kg per hectare (“ha”) of that area.
+(1) Subject to paragraph (4),[^c-79b1206fd15e6350cec036707caf750c] in any year the total nitrogen in livestock manure applied to the utilisable agricultural land area of the whole farm, whether directly by an animal or by spreading, must not exceed 170 kg per hectare (“ha”) of that area.
 
 (2) For the purposes of this regulation, and subject to paragraph (3), any calculation of the amount of nitrogen contained in livestock manure from animals on the farm shall be carried out using the appropriate figures in table 1 of Schedule 1, and for livestock manure brought onto the farm, shall be carried out using the appropriate figures in table 2 of that Schedule.
 
 (3) Paragraph (2) does not apply where the occupier provides evidence to the Scottish Ministers, based on such scientific evidence as the Scottish Ministers consider satisfactory, that the total nitrogen contained in the livestock manure to be applied to all land on the farm will not exceed the limit specified in paragraph (1).
 
-(4)[^key-df16c80a1d8ba9724239e5d6bb1dc33c] The occupier of any grassland farm within a nitrate vulnerable zone may apply to the Scottish Ministers for a derogation from the annual farm limit of nitrogen in livestock manure specified in paragraph (1).
+(4)[^c-df16c80a1d8ba9724239e5d6bb1dc33c] The occupier of any grassland farm within a nitrate vulnerable zone may apply to the Scottish Ministers for a derogation from the annual farm limit of nitrogen in livestock manure specified in paragraph (1).
 
 (5) Any derogation granted shall last until the conclusion of the calendar year to which it relates, and shall be subject to renewal.
 
@@ -342,7 +342,7 @@ and no nitrogen shall be applied in excess of that figure.
 
 (7) Any application for a derogation shall be made in accordance with regulation 14A and any grant of a derogation shall be subject to the conditions of regulation 14B.
 
-### 14A. Application for a derogation from the annual farm limit of nitrogen in livestock manure[^key-8dd03a93e1bc234557cc6a54116d3576]
+### 14A. Application for a derogation from the annual farm limit of nitrogen in livestock manure[^c-8dd03a93e1bc234557cc6a54116d3576]
 
 (1) The occupier of any grassland farm within a nitrate vulnerable zone who wishes to apply to the Scottish Ministers for a derogation must submit an application—
 
@@ -371,9 +371,9 @@ A derogation shall be subject to the following conditions—
 
 ### 15. Annual field limit of nitrogen in organic manure
 
-(1) Organic manure (other than compost)[^key-0273fdd05be57e24d0bd7e3710bcd38b] shall not be applied to any field where the application would result in the total nitrogen contained in organic manure (other than compost) applied in any 12 month period to any field exceeding a rate of 250 kg per hectare excluding that deposited by animals whilst grazing.
+(1) Organic manure (other than compost)[^c-0273fdd05be57e24d0bd7e3710bcd38b] shall not be applied to any field where the application would result in the total nitrogen contained in organic manure (other than compost) applied in any 12 month period to any field exceeding a rate of 250 kg per hectare excluding that deposited by animals whilst grazing.
 
-(1A)[^key-e004d769efd2fe061b3c9b223323ac49] Compost shall not be applied to any field where the application would result in the total nitrogen contained in organic manure (including compost) applied to any field in any 24 month period exceeding a rate of 500 kg per hectare, excluding that deposited by animals whilst grazing.
+(1A)[^c-e004d769efd2fe061b3c9b223323ac49] Compost shall not be applied to any field where the application would result in the total nitrogen contained in organic manure (including compost) applied to any field in any 24 month period exceeding a rate of 500 kg per hectare, excluding that deposited by animals whilst grazing.
 
 (2) For the purposes of this regulation, and subject to paragraph (3), any calculation of the amount of nitrogen contained in livestock manure shall be carried out using the appropriate figures contained in table 2 in Schedule 1.
 
@@ -428,14 +428,14 @@ Chemical fertiliser must not be applied to any land in any case, location or man
 - (a) for brassicas 100 kg per hectare;
 - (b) for winter oilseed rape the amount set out in table 1 of Schedule 3, taking into account the previous crop, crop yield and soil type.
 
-### 20. Closed periods for organic manure with high available nitrogen content[^key-222950727635476126338d15d7c9df96]
+### 20. Closed periods for organic manure with high available nitrogen content[^c-222950727635476126338d15d7c9df96]
 
 (1) Organic manure with high available nitrogen content must not be applied–
 
 - (a) on or between 1st September and 31st December, to grassland which is situated on sandy or shallow soil; or
-- (b) on or between 15th October and 31st January[^key-04a62bdef78781865a34269631a3ed80] to grassland which is situated on any other soil;
+- (b) on or between 15th October and 31st January[^c-04a62bdef78781865a34269631a3ed80] to grassland which is situated on any other soil;
 - (c) on or between 1st August and 31st December to land which is not grassland and which is situated on sandy or shallow soil; or
-- (d) on or between 1st October and 31st January[^key-072e04a3e323dacd62ea948bc1d68f52] to land which is not grassland, and which is situated on any other soil.
+- (d) on or between 1st October and 31st January[^c-072e04a3e323dacd62ea948bc1d68f52] to land which is not grassland, and which is situated on any other soil.
 
 (2) In a case where the prohibition in paragraph (1)(c) applies, organic manure with high available nitrogen content may nevertheless be applied–
 
@@ -482,10 +482,10 @@ A period of at least 3 weeks must elapse between each completed application of l
 - (d) the quantity of each type of livestock manure (whether farmyard manure, slurry, poultry manure, or other livestock manure) produced on the farm and the nitrogen content of such manure which is retained and used on the farm;
 - (e) the quantity and nitrogen content of each type of livestock manure (whether farmyard manure, slurry, poultry manure, or other livestock manure ) moved off the farm, the date of that movement and the name and address of the person receiving it;
 - (f) the quantity and nitrogen content of each type of organic manure moved onto the farm, the date of that movement and the name and address of the supplier;
-- (g) the quantity and type of chemical fertiliser brought onto the farm, used on the farm and retained on the farm; and[^key-b937eff5c9ff105dd84314d54611016f]
+- (g) the quantity and type of chemical fertiliser brought onto the farm, used on the farm and retained on the farm; and[^c-b937eff5c9ff105dd84314d54611016f]
 - (h) the location of any field heaps.
 
-(2)[^key-b4afc7cfafcc22861d114e4918a5b1ec] The occupier of a derogated farm must, in addition to the records to be kept under paragraph (1), keep records of—
+(2)[^c-b4afc7cfafcc22861d114e4918a5b1ec] The occupier of a derogated farm must, in addition to the records to be kept under paragraph (1), keep records of—
 
 - (a) the derogation application and decision;
 - (b) the fertiliser and manure management plan referred to in regulation 5;
@@ -498,7 +498,7 @@ A period of at least 3 weeks must elapse between each completed application of l
 
 ### 26. Records to be retained
 
-The occupier must retain any record kept for the purposes of regulation 25 for a period of 3 years[^key-f94fae7d5dcc2579cb8d30b7e03ef8c8] from the end of the year to which it relates.
+The occupier must retain any record kept for the purposes of regulation 25 for a period of 3 years[^c-f94fae7d5dcc2579cb8d30b7e03ef8c8] from the end of the year to which it relates.
 
 ### 27. Inspections
 
@@ -587,11 +587,11 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — Calculation of nitrogen (‘N’) and phosphate (‘P<sub>2</sub>O<sub>5</sub>’) in livestock manure[^key-89c944bc5dd693729e29c35b6cf61476]
+## SCHEDULE 1 — Calculation of nitrogen (‘N’) and phosphate (‘P<sub>2</sub>O<sub>5</sub>’) in livestock manure[^c-89c944bc5dd693729e29c35b6cf61476]
 
 Regulations 7, 14 and 15
 
-**Table 1[^key-bd9c6748ee17858e75b867a48afacaaa]**
+**Table 1[^c-bd9c6748ee17858e75b867a48afacaaa]**
 
 **Standards for the volume of excreta, nitrogen and phosphate in manure produced by livestock**
 
@@ -753,7 +753,7 @@ Regulation 7(3)(b)
 
 Regulations 12, 13 and 19
 
-Table 1[^key-912bd1d95c76bf3e38d9843b7df00e5e]
+Table 1[^c-912bd1d95c76bf3e38d9843b7df00e5e]
 
 **Nitrogen Residue Group 1** – Previous Crops in Nitrogen Residue Group 1 are: **cereals, carrots, swedes, turnips (removed) & linseed**
 
@@ -1061,7 +1061,7 @@ PART B—Poultry manure – Percentage of nitrogen available to next crop follow
 </tbody>
 </table>
 
-PART C—Cattle, Dirty Water and Pig Slurry – Percentage of nitrogen available to next crop following Cattle Slurry, Dirty Water and Pig Slurry applications (use the value in brackets for grassland and winter oilseed rape cropping).[^key-6e326f0aae64c9e99df4b4d37c45c0eb]
+PART C—Cattle, Dirty Water and Pig Slurry – Percentage of nitrogen available to next crop following Cattle Slurry, Dirty Water and Pig Slurry applications (use the value in brackets for grassland and winter oilseed rape cropping).[^c-6e326f0aae64c9e99df4b4d37c45c0eb]
 
 <table>
 <thead>
@@ -1109,8 +1109,8 @@ Percentage nitrogen content taken up by a crop per given quantity of livestock m
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
 | *Type of livestock manure* | *Percentage content of nitrogen taken up by crop until and including 31 December 2011* | *Percentage content of nitrogen taken up by crop on and from 1st January 2012* |
-| Cattle slurry | 20% | 40%[^key-7e601e303d6d227de07e025573abe109] |
-| Pig slurry | 25% | 50%[^key-16ea79c6c0a006816e659b20686843ec] |
+| Cattle slurry | 20% | 40%[^c-7e601e303d6d227de07e025573abe109] |
+| Pig slurry | 25% | 50%[^c-16ea79c6c0a006816e659b20686843ec] |
 | Poultry manure or litter | 20% | 30% |
 | Solid manure | 10% | 10% |
 
@@ -1150,88 +1150,88 @@ A Regulatory Impact Assessment in relation to these Regulations has been prepare
 
 [^c19406901]: Marginal citation: [S.S.I. 2003/169](https://www.legislation.gov.uk/ssi/2003/169).
 
-[^key-b56d3d5d8a1e3b056eb2f07c3fe5c740]: Textual amendment: Words in reg. 3(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/3/2)
+[^c-b56d3d5d8a1e3b056eb2f07c3fe5c740]: Textual amendment: Words in reg. 3(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/3/2)
 
-[^key-6c942e14d09543b97ea256cd37dbb325]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/2)
+[^c-6c942e14d09543b97ea256cd37dbb325]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/2)
 
-[^key-4621644733c1b38768a87b6a27f499f1]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/3)
+[^c-4621644733c1b38768a87b6a27f499f1]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/3)
 
-[^key-0df3b478e3b59502d3d57db96fde8cac]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/4)
+[^c-0df3b478e3b59502d3d57db96fde8cac]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/4)
 
-[^key-c04110805a6bb9876b5144f6141fe490]: Textual amendment: Words in reg. 3(1) substituted (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2015/376/regulation/5/2)
+[^c-c04110805a6bb9876b5144f6141fe490]: Textual amendment: Words in reg. 3(1) substituted (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2015/376/regulation/5/2)
 
-[^key-3dbf0a47e51d7e483ea84665ffd33908]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/5)
+[^c-3dbf0a47e51d7e483ea84665ffd33908]: Textual amendment: Words in reg. 3 inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2009/447/regulation/3/5)
 
 [^c19406931]: Marginal citation: [2003 asp 11](https://www.legislation.gov.uk/asp/2003/11).
 
-[^key-ce1b18ca48d51b91e5d319ba0bb11542]: Textual amendment: Words in reg. 3(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/3/3)
+[^c-ce1b18ca48d51b91e5d319ba0bb11542]: Textual amendment: Words in reg. 3(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/3/3)
 
-[^key-bf2c44a6b6830a7a254e74f78cc38e69]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2008/298/regulation/3/1) substituted (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2021/412/regulation/8)
+[^c-bf2c44a6b6830a7a254e74f78cc38e69]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2008/298/regulation/3/1) substituted (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2021/412/regulation/8)
 
-[^key-36df7a764b60fd46320356208dfc6e73]: Textual amendment: Words in reg. 3(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2013/123/regulation/3/4)
+[^c-36df7a764b60fd46320356208dfc6e73]: Textual amendment: Words in reg. 3(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2013/123/regulation/3/4)
 
 [^c19406941]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3).
 
 [^c19406951]: Marginal citation: O.J. No. L 375, 31.12.91, p.1.
 
-[^key-b712e934df533c49618b55454149d009]: Textual amendment: Word in reg. 5(3)(b) omitted (24.1.2010) by virtue of [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/4/2)
+[^c-b712e934df533c49618b55454149d009]: Textual amendment: Word in reg. 5(3)(b) omitted (24.1.2010) by virtue of [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/4/2)
 
-[^key-581d5c360fdc6c5041ca7b5bb7af2fc2]: Textual amendment: Reg. 5(3)(d) and preceding word inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/4/3)
+[^c-581d5c360fdc6c5041ca7b5bb7af2fc2]: Textual amendment: Reg. 5(3)(d) and preceding word inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/4/3)
 
-[^key-997afe3de16051acdf6126617d02d7ff]: Textual amendment: Reg. 5(6) inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2009/447/regulation/4/4)
+[^c-997afe3de16051acdf6126617d02d7ff]: Textual amendment: Reg. 5(6) inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2009/447/regulation/4/4)
 
-[^key-34bd36ad97074de42ff07293e40a8e3e]: Textual amendment: Reg. 6 substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2013/123/regulation/4)
+[^c-34bd36ad97074de42ff07293e40a8e3e]: Textual amendment: Reg. 6 substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2013/123/regulation/4)
 
-[^key-06fea928e97308791a20e0b83e4d72d6]: Modification: Reg. 6(1) modified (temp.) (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/376/regulation/4)
+[^c-06fea928e97308791a20e0b83e4d72d6]: Modification: Reg. 6(1) modified (temp.) (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/376/regulation/4)
 
-[^key-0a8eacba729c63623f3b87eb2af86d13]: Modification: Reg. 7(1) modified (temp.) (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/376/regulation/4)
+[^c-0a8eacba729c63623f3b87eb2af86d13]: Modification: Reg. 7(1) modified (temp.) (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/376/regulation/4)
 
-[^key-868062378b2fdcbf8fb177453b860c25]: Textual amendment: [Reg. 8(d)](https://www.legislation.gov.uk/ssi/2008/298/regulation/8/d) substituted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/17) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-868062378b2fdcbf8fb177453b860c25]: Textual amendment: [Reg. 8(d)](https://www.legislation.gov.uk/ssi/2008/298/regulation/8/d) substituted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/17) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-378a29f773e285a495b29142b2bc09ca]: Textual amendment: Words in reg. 9 substituted (1.1.2009) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2008 (S.S.I. 2008/394)](https://www.legislation.gov.uk/ssi/2008/394), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/394/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/394/regulation/2/2)
+[^c-378a29f773e285a495b29142b2bc09ca]: Textual amendment: Words in reg. 9 substituted (1.1.2009) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2008 (S.S.I. 2008/394)](https://www.legislation.gov.uk/ssi/2008/394), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/394/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/394/regulation/2/2)
 
-[^key-bcbdbd67a3898e056b657150885a11ac]: Textual amendment: Reg. 10(2) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/5/2)
+[^c-bcbdbd67a3898e056b657150885a11ac]: Textual amendment: Reg. 10(2) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/5/2)
 
-[^key-67b025430fce970f5b6774f5b4efdd51]: Textual amendment: Reg. 12(4) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/6/2)
+[^c-67b025430fce970f5b6774f5b4efdd51]: Textual amendment: Reg. 12(4) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/6/2)
 
-[^key-35a12b5e8ca6976f55cc3935363fcdce]: Textual amendment: Reg. 12(7) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/6/3)
+[^c-35a12b5e8ca6976f55cc3935363fcdce]: Textual amendment: Reg. 12(7) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/6/3)
 
-[^key-79b1206fd15e6350cec036707caf750c]: Textual amendment: Words in reg. 14(1) inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/5/2)
+[^c-79b1206fd15e6350cec036707caf750c]: Textual amendment: Words in reg. 14(1) inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/5/2)
 
-[^key-df16c80a1d8ba9724239e5d6bb1dc33c]: Textual amendment: Reg. 14(4)-(7) inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/5/3)
+[^c-df16c80a1d8ba9724239e5d6bb1dc33c]: Textual amendment: Reg. 14(4)-(7) inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/5/3)
 
-[^key-8dd03a93e1bc234557cc6a54116d3576]: Textual amendment: Regs. 14A, 14B inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2009/447/regulation/6/1)
+[^c-8dd03a93e1bc234557cc6a54116d3576]: Textual amendment: Regs. 14A, 14B inserted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2009/447/regulation/6/1)
 
-[^key-0273fdd05be57e24d0bd7e3710bcd38b]: Textual amendment: Words in reg. 15(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/7/2)
+[^c-0273fdd05be57e24d0bd7e3710bcd38b]: Textual amendment: Words in reg. 15(1) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/7/2)
 
-[^key-e004d769efd2fe061b3c9b223323ac49]: Textual amendment: Reg. 15(1A) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/7/3)
+[^c-e004d769efd2fe061b3c9b223323ac49]: Textual amendment: Reg. 15(1A) inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/7/3)
 
 [^c19406981]: Marginal citation: Designated as a nitrate vulnerable zone by regulation 3 of the [Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2002 (S.S.I. 2002/276)](https://www.legislation.gov.uk/ssi/2002/276).
 
 [^c19406991]: Marginal citation: Designated as a nitrate vulnerable zone either by regulation 3 of S.S.1. 2002/276 or regulation 3 of [S.S.I. 2002/546](https://www.legislation.gov.uk/ssi/2002/546).
 
-[^key-222950727635476126338d15d7c9df96]: Modification: Reg. 20 modified (temp.) (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/376/regulation/4)
+[^c-222950727635476126338d15d7c9df96]: Modification: Reg. 20 modified (temp.) (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/376/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/376/regulation/4)
 
-[^key-04a62bdef78781865a34269631a3ed80]: Textual amendment: Words in reg. 20(1)(b) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [8(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/8/2)
+[^c-04a62bdef78781865a34269631a3ed80]: Textual amendment: Words in reg. 20(1)(b) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [8(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/8/2)
 
-[^key-072e04a3e323dacd62ea948bc1d68f52]: Textual amendment: Words in reg. 20(1)(d) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [8(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/8/3)
+[^c-072e04a3e323dacd62ea948bc1d68f52]: Textual amendment: Words in reg. 20(1)(d) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [8(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/8/3)
 
-[^key-b937eff5c9ff105dd84314d54611016f]: Textual amendment: Reg. 25(1)(h) and preceding word inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/9/2)
+[^c-b937eff5c9ff105dd84314d54611016f]: Textual amendment: Reg. 25(1)(h) and preceding word inserted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/9/2)
 
-[^key-b4afc7cfafcc22861d114e4918a5b1ec]: Textual amendment: Reg. 25(2)-(4) substituted for reg. 25(2) (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/7/2)
+[^c-b4afc7cfafcc22861d114e4918a5b1ec]: Textual amendment: Reg. 25(2)-(4) substituted for reg. 25(2) (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/7/2)
 
-[^key-f94fae7d5dcc2579cb8d30b7e03ef8c8]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/ssi/2008/298/regulation/26) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [10(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/10/2)
+[^c-f94fae7d5dcc2579cb8d30b7e03ef8c8]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/ssi/2008/298/regulation/26) substituted (15.5.2013) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/2), [10(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/10/2)
 
 [^c19407001]: Marginal citation: The Scottish Land Court, established by section 3 of the Small Landholders (Scotland) Act 1911, and continued in being under section 1 of the [Scottish Land Court Act 1993 (c. 45)](https://www.legislation.gov.uk/ukpga/1993/45).
 
-[^key-89c944bc5dd693729e29c35b6cf61476]: Textual amendment: Sch. 1 heading substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/8/2)
+[^c-89c944bc5dd693729e29c35b6cf61476]: Textual amendment: Sch. 1 heading substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/8/2)
 
-[^key-bd9c6748ee17858e75b867a48afacaaa]: Textual amendment: Sch. 1 Table 1 substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/8/3)
+[^c-bd9c6748ee17858e75b867a48afacaaa]: Textual amendment: Sch. 1 Table 1 substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/8/3)
 
-[^key-912bd1d95c76bf3e38d9843b7df00e5e]: Textual amendment: Sch. 3 Table 1 substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/9/2)
+[^c-912bd1d95c76bf3e38d9843b7df00e5e]: Textual amendment: Sch. 3 Table 1 substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2009/447/regulation/9/2)
 
-[^key-6e326f0aae64c9e99df4b4d37c45c0eb]: Textual amendment: Sch. 3 Table 4 Pt. C substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/9/3)
+[^c-6e326f0aae64c9e99df4b4d37c45c0eb]: Textual amendment: Sch. 3 Table 4 Pt. C substituted (24.1.2010) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2009 (S.S.I. 2009/447)](https://www.legislation.gov.uk/ssi/2009/447), [regs. 1](https://www.legislation.gov.uk/ssi/2009/447/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2009/447/regulation/9/3)
 
-[^key-7e601e303d6d227de07e025573abe109]: Textual amendment: Word in Sch. 3 Table 5 substituted (1.1.2014) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/3), [11(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/11/2)
+[^c-7e601e303d6d227de07e025573abe109]: Textual amendment: Word in Sch. 3 Table 5 substituted (1.1.2014) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/3), [11(2)](https://www.legislation.gov.uk/ssi/2013/123/regulation/11/2)
 
-[^key-16ea79c6c0a006816e659b20686843ec]: Textual amendment: Word in Sch. 3 Table 5 substituted (1.1.2014) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/3), [11(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/11/3)
+[^c-16ea79c6c0a006816e659b20686843ec]: Textual amendment: Word in Sch. 3 Table 5 substituted (1.1.2014) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2013 (S.S.I. 2013/123)](https://www.legislation.gov.uk/ssi/2013/123), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/1/3), [11(3)](https://www.legislation.gov.uk/ssi/2013/123/regulation/11/3)

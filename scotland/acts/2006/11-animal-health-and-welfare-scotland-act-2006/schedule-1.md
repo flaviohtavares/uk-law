@@ -22,15 +22,15 @@ summary: ''
 
 (introduced by section 49(7))
 
-### Entry and inspection in connection with an obligation under assimilated law[^key-58e2113dafefa13178b3cf77d9d878a6][^key-f54ab916cd612fc3ffa87f2c4a814d40]
+### Entry and inspection in connection with an obligation under assimilated law[^c-58e2113dafefa13178b3cf77d9d878a6][^c-f54ab916cd612fc3ffa87f2c4a814d40]
 
-**1.**[^key-c5ead85a16cde708b40cf232446ec421] (1) An inspector may enter and inspect any premises for the purpose of ascertaining compliance with any regulations made under Part 2 which implement an[^key-5e2a52faac5aff0c8fbaaece5422888d] obligation under[^key-4743fa8f2d010315a0531797c5fbc618] assimilated[^key-aeb7c5529b040f369f46b656496b8833] law.
+**1.**[^c-c5ead85a16cde708b40cf232446ec421] (1) An inspector may enter and inspect any premises for the purpose of ascertaining compliance with any regulations made under Part 2 which implement an[^c-5e2a52faac5aff0c8fbaaece5422888d] obligation under[^c-4743fa8f2d010315a0531797c5fbc618] assimilated[^c-aeb7c5529b040f369f46b656496b8833] law.
 
 (2) Sub-paragraph (1) does not apply in relation to domestic premises.
 
 ### Entry and search where animals in distress
 
-**2.**[^key-17ba46b549ad7f7d34a78b6a6ff75035] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
+**2.**[^c-17ba46b549ad7f7d34a78b6a6ff75035] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
 
 - (a) that there are reasonable grounds for believing that there is at premises a protected animal which—
   - (i) is suffering, or
@@ -50,13 +50,13 @@ if it appears that immediate entry is appropriate in the interests of an animal.
 
 ### Entry and inspection in connection with offences
 
-**3.**[^key-2fe29c834fd06a62eb73c3d6cc08ca66] (1) An inspector may, if there are reasonable grounds for believing that an offence under Part 2 has been committed at premises, enter and inspect the premises for the purpose of ascertaining whether or not an offence under that Part has been committed there.
+**3.**[^c-2fe29c834fd06a62eb73c3d6cc08ca66] (1) An inspector may, if there are reasonable grounds for believing that an offence under Part 2 has been committed at premises, enter and inspect the premises for the purpose of ascertaining whether or not an offence under that Part has been committed there.
 
 (2) Sub-paragraph (1) does not apply in relation to domestic premises.
 
 ### Entry and search etc. in connection with offences
 
-**4.**[^key-e74c83c1f3bbf644a018f39647c1d641] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
+**4.**[^c-e74c83c1f3bbf644a018f39647c1d641] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
 
 - (a) that there are reasonable grounds for believing—
   - (i) that a relevant offence has been committed at premises, or
@@ -86,7 +86,7 @@ if it appears that delay would frustrate the purpose for which the search is to 
 
 ### Conditions for granting warrants
 
-**5.**[^key-2a9c96c2d8dc76b3a6d654e2785a5262] (1) This paragraph is complied with in relation to premises if either of the conditions specified in sub-paragraphs (2) and (3) is met.
+**5.**[^c-2a9c96c2d8dc76b3a6d654e2785a5262] (1) This paragraph is complied with in relation to premises if either of the conditions specified in sub-paragraphs (2) and (3) is met.
 
 (2) The condition is—
 
@@ -99,7 +99,7 @@ if it appears that delay would frustrate the purpose for which the search is to 
 
 (3) The condition is that the premises are unoccupied or the occupier is temporarily absent.
 
-### Supplementary powers of inspectors: evidence gathering in connection with wildlife offences[^key-b31fb56a7d22ac28b93a5b03f5f60eb1]
+### Supplementary powers of inspectors: evidence gathering in connection with wildlife offences[^c-b31fb56a7d22ac28b93a5b03f5f60eb1]
 
 **5A.** (1) An inspector, having entered non-domestic premises in exercise of a relevant power, may search for, examine and seize any thing tending to provide evidence of the commission of, or participation in, a relevant offence.
 
@@ -127,7 +127,7 @@ if it appears that delay would frustrate the purpose for which the search is to 
 
 ### Stopping and detaining vehicles etc.
 
-**6.**[^key-77abf325486b1884425ecb4774f74027] (1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
+**6.**[^c-77abf325486b1884425ecb4774f74027] (1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
 
 (2) An inspector, if accompanied by a constable in uniform, may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
 
@@ -137,19 +137,19 @@ if it appears that delay would frustrate the purpose for which the search is to 
 
 ### Entry and search etc.: supplementary
 
-**7.**[^key-d536e453beefcee77aab512b75cc23cc] A warrant granted under a provision of this schedule remains in force for one month beginning with the date on which it was granted.
+**7.**[^c-d536e453beefcee77aab512b75cc23cc] A warrant granted under a provision of this schedule remains in force for one month beginning with the date on which it was granted.
 
-**8.**[^key-b88b59b9f6066eea7b56c654fec22e6b] (1) A relevant power is exercisable only at a reasonable time.
+**8.**[^c-b88b59b9f6066eea7b56c654fec22e6b] (1) A relevant power is exercisable only at a reasonable time.
 
 (2) Sub-paragraph (1) does not apply if it appears that exercise of the power at a reasonable time would frustrate the purpose of exercising the power.
 
-**9.**[^key-a45e877709f27cbd0d42a3092819f03c] (1) A relevant power is exercisable, if necessary, by using reasonable force.
+**9.**[^c-a45e877709f27cbd0d42a3092819f03c] (1) A relevant power is exercisable, if necessary, by using reasonable force.
 
 (2) Sub-paragraph (1) does not apply to a power conferred by paragraph 1 or 3.
 
-**10.**[^key-fd9bd7aed7b2f9d7486245f7ff409581] A person exercising a relevant power must, if required, produce evidence of the person's authority.
+**10.**[^c-fd9bd7aed7b2f9d7486245f7ff409581] A person exercising a relevant power must, if required, produce evidence of the person's authority.
 
-**11.**[^key-4f41b205725cbe674fe6ba0c1b6e3687] (1) A relevant power includes power to take onto premises—
+**11.**[^c-4f41b205725cbe674fe6ba0c1b6e3687] (1) A relevant power includes power to take onto premises—
 
 - (a) such persons for assistance, and
 - (b) such equipment,
@@ -165,7 +165,7 @@ as are required for the purpose of the exercise of the power.
   - (ii) any equipment, substance or other thing,
 - (b) using a mark, microchip or another method of identifying an animal.
 
-**12.**[^key-e842461f123b9e042e7a24361dd98760] (1) A qualifying person must—
+**12.**[^c-e842461f123b9e042e7a24361dd98760] (1) A qualifying person must—
 
 - (a) comply with any reasonable direction made by a person exercising a relevant power, and
 - (b) in particular, give that person such information and assistance as that person reasonably requires.
@@ -176,15 +176,15 @@ as are required for the purpose of the exercise of the power.
 - (b) a person who appears to be responsible for animals at the premises,
 - (c) a person who appears to be under the direction or control of a person referred to in paragraph (a) or (b).
 
-**13.**[^key-8dcef6303c8291d2339018173b8f6193] A person exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the person found them.
+**13.**[^c-8dcef6303c8291d2339018173b8f6193] A person exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the person found them.
 
 ### Offences of obstruction
 
-**14.**[^key-eb3eb536d49d5eb02452e593e545105b] (1) A person commits an offence if, without reasonable excuse, the person contravenes paragraph 12(1).
+**14.**[^c-eb3eb536d49d5eb02452e593e545105b] (1) A person commits an offence if, without reasonable excuse, the person contravenes paragraph 12(1).
 
 (2) A person commits an offence if the person intentionally obstructs a person in the exercise of a relevant power.
 
-**15.**[^key-b1397094506aa5d18afec4424f543b28] (1) A person commits an offence if the person intentionally obstructs a person in the exercise of a power conferred by—
+**15.**[^c-b1397094506aa5d18afec4424f543b28] (1) A person commits an offence if the person intentionally obstructs a person in the exercise of a power conferred by—
 
 - (a) section 32,
 - (b) an order under section 34(1),
@@ -198,71 +198,71 @@ as are required for the purpose of the exercise of the power.
 
 ### Powers of constables: supplementary
 
-**16.**[^key-8bd8c3c735f0f8d829e63d5e87a0fea4][^key-f86f6723d91c8c8575fc715d11da0809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8bd8c3c735f0f8d829e63d5e87a0fea4][^c-f86f6723d91c8c8575fc715d11da0809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-8fea7c3635aa81a7bd3af398d29bc922] The powers conferred on constables by this schedule are without prejudice to any powers conferred on constables by law apart from this schedule.
+**17.**[^c-8fea7c3635aa81a7bd3af398d29bc922] The powers conferred on constables by this schedule are without prejudice to any powers conferred on constables by law apart from this schedule.
 
 ### Interpretation
 
-**18.**[^key-7f9eca2a4d94de035c3cecb85e230156] In this schedule, a “relevant power” is a power—
+**18.**[^c-7f9eca2a4d94de035c3cecb85e230156] In this schedule, a “relevant power” is a power—
 
 - (a) conferred on an inspector by—
   - (i) a provision of this schedule, or
   - (ii) a warrant granted under a provision of this schedule,
 - (b) conferred on a constable by—
-  - (i) a provision of this schedule [^key-fa086d2a9bea88f5393425bf5c81f4f0]..., or
+  - (i) a provision of this schedule [^c-fa086d2a9bea88f5393425bf5c81f4f0]..., or
   - (ii) a warrant granted under a provision of this schedule.
 
 ## Annotations
 
-[^key-58e2113dafefa13178b3cf77d9d878a6]: Textual amendment: Words in [sch. 1 para. 1 cross-heading](https://www.legislation.gov.uk/asp/2006/11/schedule/1/crossheading/entry-and-inspection-in-connection-with-community-obligations) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/34/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58e2113dafefa13178b3cf77d9d878a6]: Textual amendment: Words in [sch. 1 para. 1 cross-heading](https://www.legislation.gov.uk/asp/2006/11/schedule/1/crossheading/entry-and-inspection-in-connection-with-community-obligations) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/34/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f54ab916cd612fc3ffa87f2c4a814d40]: Textual amendment: Word in [sch. 1 para. 1 cross-heading](https://www.legislation.gov.uk/asp/2006/11/schedule/1/crossheading/entry-and-inspection-in-connection-with-community-obligations) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 6(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/6/a)
+[^c-f54ab916cd612fc3ffa87f2c4a814d40]: Textual amendment: Word in [sch. 1 para. 1 cross-heading](https://www.legislation.gov.uk/asp/2006/11/schedule/1/crossheading/entry-and-inspection-in-connection-with-community-obligations) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 6(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/6/a)
 
-[^key-c5ead85a16cde708b40cf232446ec421]: Commencement: Sch. 1 para. 1 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-c5ead85a16cde708b40cf232446ec421]: Commencement: Sch. 1 para. 1 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-5e2a52faac5aff0c8fbaaece5422888d]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-5e2a52faac5aff0c8fbaaece5422888d]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-4743fa8f2d010315a0531797c5fbc618]: Textual amendment: Words in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/1/1) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/34/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4743fa8f2d010315a0531797c5fbc618]: Textual amendment: Words in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/1/1) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/34/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aeb7c5529b040f369f46b656496b8833]: Textual amendment: Word in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/1/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 6(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/6/b)
+[^c-aeb7c5529b040f369f46b656496b8833]: Textual amendment: Word in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/1/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 6(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/6/b)
 
-[^key-17ba46b549ad7f7d34a78b6a6ff75035]: Commencement: Sch. 1 para. 2 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-17ba46b549ad7f7d34a78b6a6ff75035]: Commencement: Sch. 1 para. 2 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-2fe29c834fd06a62eb73c3d6cc08ca66]: Commencement: Sch. 1 para. 3 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-2fe29c834fd06a62eb73c3d6cc08ca66]: Commencement: Sch. 1 para. 3 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-e74c83c1f3bbf644a018f39647c1d641]: Commencement: Sch. 1 para. 4 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-e74c83c1f3bbf644a018f39647c1d641]: Commencement: Sch. 1 para. 4 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-2a9c96c2d8dc76b3a6d654e2785a5262]: Commencement: Sch. 1 para. 5 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-2a9c96c2d8dc76b3a6d654e2785a5262]: Commencement: Sch. 1 para. 5 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-b31fb56a7d22ac28b93a5b03f5f60eb1]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/5A) and cross-heading inserted (17.10.2024) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 11(4)](https://www.legislation.gov.uk/asp/2024/4/section/11/4), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/267](https://www.legislation.gov.uk/ssi/2024/267), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2024/267/regulation/2/1/a)
+[^c-b31fb56a7d22ac28b93a5b03f5f60eb1]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/5A) and cross-heading inserted (17.10.2024) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 11(4)](https://www.legislation.gov.uk/asp/2024/4/section/11/4), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/267](https://www.legislation.gov.uk/ssi/2024/267), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2024/267/regulation/2/1/a)
 
-[^key-77abf325486b1884425ecb4774f74027]: Commencement: Sch. 1 para. 6 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-77abf325486b1884425ecb4774f74027]: Commencement: Sch. 1 para. 6 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-d536e453beefcee77aab512b75cc23cc]: Commencement: Sch. 1 para. 7 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-d536e453beefcee77aab512b75cc23cc]: Commencement: Sch. 1 para. 7 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-b88b59b9f6066eea7b56c654fec22e6b]: Commencement: Sch. 1 para. 8 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-b88b59b9f6066eea7b56c654fec22e6b]: Commencement: Sch. 1 para. 8 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-a45e877709f27cbd0d42a3092819f03c]: Commencement: Sch. 1 para. 9 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-a45e877709f27cbd0d42a3092819f03c]: Commencement: Sch. 1 para. 9 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-fd9bd7aed7b2f9d7486245f7ff409581]: Commencement: Sch. 1 para. 10 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-fd9bd7aed7b2f9d7486245f7ff409581]: Commencement: Sch. 1 para. 10 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-4f41b205725cbe674fe6ba0c1b6e3687]: Commencement: Sch. 1 para. 11 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-4f41b205725cbe674fe6ba0c1b6e3687]: Commencement: Sch. 1 para. 11 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-e842461f123b9e042e7a24361dd98760]: Commencement: Sch. 1 para. 12 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-e842461f123b9e042e7a24361dd98760]: Commencement: Sch. 1 para. 12 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-8dcef6303c8291d2339018173b8f6193]: Commencement: Sch. 1 para. 13 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-8dcef6303c8291d2339018173b8f6193]: Commencement: Sch. 1 para. 13 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-eb3eb536d49d5eb02452e593e545105b]: Commencement: Sch. 1 para. 14 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-eb3eb536d49d5eb02452e593e545105b]: Commencement: Sch. 1 para. 14 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-b1397094506aa5d18afec4424f543b28]: Commencement: Sch. 1 para. 15 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-b1397094506aa5d18afec4424f543b28]: Commencement: Sch. 1 para. 15 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-8bd8c3c735f0f8d829e63d5e87a0fea4]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/16) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 20(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/20/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-8bd8c3c735f0f8d829e63d5e87a0fea4]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/16) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 20(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/20/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-f86f6723d91c8c8575fc715d11da0809]: Commencement: Sch. 1 para. 16 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-f86f6723d91c8c8575fc715d11da0809]: Commencement: Sch. 1 para. 16 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-8fea7c3635aa81a7bd3af398d29bc922]: Commencement: Sch. 1 para. 17 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-8fea7c3635aa81a7bd3af398d29bc922]: Commencement: Sch. 1 para. 17 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-7f9eca2a4d94de035c3cecb85e230156]: Commencement: Sch. 1 para. 18 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-7f9eca2a4d94de035c3cecb85e230156]: Commencement: Sch. 1 para. 18 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-fa086d2a9bea88f5393425bf5c81f4f0]: Textual amendment: Words in [sch. 1 para. 18(b)(i)](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/18/b/i) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 20(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/20/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-fa086d2a9bea88f5393425bf5c81f4f0]: Textual amendment: Words in [sch. 1 para. 18(b)(i)](https://www.legislation.gov.uk/asp/2006/11/schedule/1/paragraph/18/b/i) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 20(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/20/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

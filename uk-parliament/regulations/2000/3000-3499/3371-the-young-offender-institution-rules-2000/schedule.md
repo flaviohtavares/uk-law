@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 1 — REVOCATIONS[^key-11c5a4d0767e388c71725af14647e202]
+## Schedule 1 — REVOCATIONS[^c-11c5a4d0767e388c71725af14647e202]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Rule 89(1)
 
 ## Annotations
 
-[^key-11c5a4d0767e388c71725af14647e202]: Textual amendment: Sch. renumbered as Sch. 1 (19.10.2018) by [The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018 (S.I. 2018/960)](https://www.legislation.gov.uk/uksi/2018/960), [rules 1](https://www.legislation.gov.uk/uksi/2018/960/rule/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/960/rule/3/4)
+[^c-11c5a4d0767e388c71725af14647e202]: Textual amendment: Sch. renumbered as Sch. 1 (19.10.2018) by [The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018 (S.I. 2018/960)](https://www.legislation.gov.uk/uksi/2018/960), [rules 1](https://www.legislation.gov.uk/uksi/2018/960/rule/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/960/rule/3/4)

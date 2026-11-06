@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Regulations: further provision about public health declarations[^key-4598bf401494285cbadd4ca0963c61b4]
+## 14. Regulations: further provision about public health declarations[^c-4598bf401494285cbadd4ca0963c61b4]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4598bf401494285cbadd4ca0963c61b4]: Commencement: S. 14 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-4598bf401494285cbadd4ca0963c61b4]: Commencement: S. 14 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

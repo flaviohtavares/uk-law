@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Adjustment of active member’s account after period of unpaid family leave or unpaid sick leave[^key-2696ade2c1432b29e5df6c57c2700fb6]
+## 53. Adjustment of active member’s account after period of unpaid family leave or unpaid sick leave[^c-2696ade2c1432b29e5df6c57c2700fb6]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2696ade2c1432b29e5df6c57c2700fb6]: Commencement: Reg. 53 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2696ade2c1432b29e5df6c57c2700fb6]: Commencement: Reg. 53 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

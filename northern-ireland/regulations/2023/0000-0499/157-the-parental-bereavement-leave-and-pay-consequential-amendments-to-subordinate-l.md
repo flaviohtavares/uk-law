@@ -46,13 +46,13 @@ Coming into operation
 
 The Department for the Economy[^f00001] makes the following Regulations in exercise of the powers conferred by sections 167ZZ9, 167ZZ11, 167ZZ12 and 171(4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and Articles 112EA(1), 112ED(h) and 251(6) of the Employment Rights (Northern Ireland) Order 1996[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-b01a47e00f7930bb50b4d8e1bed93b10]
+## 1. Citation, commencement and interpretation[^c-b01a47e00f7930bb50b4d8e1bed93b10]
 
 (1) These Regulations may be cited as the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 29th September 2023.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly (but see regulations 28 to 33); and the Interpretation Act 1978[^f00005] shall not apply.
 
-## 2. Social Security (Credits) Regulations (Northern Ireland) 1975[^key-25e27670424e69aa39daedeed4051169]
+## 2. Social Security (Credits) Regulations (Northern Ireland) 1975[^c-25e27670424e69aa39daedeed4051169]
 
 Regulation 9C (credits for adoption pay period, shared parental pay period, additional pay period and maternity pay period) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00006] is amended as follows—
 
@@ -71,7 +71,7 @@ Regulation 9C (credits for adoption pay period, shared parental pay period, addi
 
   .
 
-## 3. Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^key-4d20693796be3922028e92d17162668e]
+## 3. Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^c-4d20693796be3922028e92d17162668e]
 
 In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007], in regulation 17 (meaning of “**earnings**”) in paragraph (3)—
 
@@ -82,7 +82,7 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 
   .
 
-## 4. Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^key-5e40328a8a82d651527f47b9e9098014]
+## 4. Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^c-5e40328a8a82d651527f47b9e9098014]
 
 (1) The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00008] are amended in accordance with paragraphs (2) and (3).
 
@@ -97,7 +97,7 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 
   .
 
-## 5. Income Support (General) Regulations (Northern Ireland) 1987[^key-795a21daed746516d2c2f48cf913a2b0]
+## 5. Income Support (General) Regulations (Northern Ireland) 1987[^c-795a21daed746516d2c2f48cf913a2b0]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00009] are amended in accordance with paragraphs (2) to (6).
 
@@ -131,7 +131,7 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 - (a) after “statutory adoption pay under Part XIIZB of that Act” insert “, statutory parental bereavement pay under Part 12ZD of that Act”; and
 - (b) for “or shared parental leave” substitute “, shared parental leave or parental bereavement leave”.
 
-## 6. Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^key-6cdd93510dc52de52388e6c10672e63d]
+## 6. Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^c-6cdd93510dc52de52388e6c10672e63d]
 
 (1) The Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00010] are amended in accordance with paragraphs (2) and (3).
 
@@ -146,7 +146,7 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 - (a) in paragraph (1) for “or parental leave” substitute “, parental leave or parental bereavement leave”; and
 - (b) in paragraph (4)(b) for “or parental leave” substitute “, parental leave or parental bereavement leave”.
 
-## 7. Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^key-1f57229bce53181644b9b928eca8b64b]
+## 7. Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^c-1f57229bce53181644b9b928eca8b64b]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011] are amended in accordance with paragraphs (2) to (6).
 
@@ -171,7 +171,7 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 - (a) after “statutory shared parental pay by virtue of Part 12ZC of the Benefits Act,” insert “statutory parental bereavement pay by virtue of Part 12ZD of the Benefits Act,”; and
 - (b) for “or shared parental leave” substitute “, shared parental leave or parental bereavement leave”.
 
-## 8. Social Security (Maternity Allowance) (Earnings) Regulations (Northern Ireland) 2000[^key-7a41341e58c2a338ac58482e97f0a910]
+## 8. Social Security (Maternity Allowance) (Earnings) Regulations (Northern Ireland) 2000[^c-7a41341e58c2a338ac58482e97f0a910]
 
 (1) The Social Security (Maternity Allowance) (Earnings) Regulations (Northern Ireland) 2000[^f00012] are amended in accordance with paragraph (2).
 
@@ -181,7 +181,7 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 
 .
 
-## 9. State Pension Credit Regulations (Northern Ireland) 2003[^key-51b378899c80792ebf780d5219d1b49d]
+## 9. State Pension Credit Regulations (Northern Ireland) 2003[^c-51b378899c80792ebf780d5219d1b49d]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00013] are amended in accordance with paragraphs (2) to (5).
 
@@ -205,14 +205,14 @@ In the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00007]
 
 (5) In Schedule 2 (housing costs), in paragraph 2(7) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 10. Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^key-590c5d5c3505a1a05361573c143f9149]
+## 10. Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^c-590c5d5c3505a1a05361573c143f9149]
 
 In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00014], in regulation 5 (time off in connection with childbirth and adoption)—
 
 - (a) in paragraph (1)(k), after “under section 80EA of the Employment Rights Act 1996” insert “or Article 112EA of the Employment Rights (Northern Ireland) Order 1996”; and
 - (b) in paragraph (3C) after “Part 2 of the Statutory Parental Bereavement Pay (General) Regulations 2020” insert “or Part 2 of the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023”.
 
-## 11. Housing Benefit Regulations (Northern Ireland) 2006[^key-aecd0937183660d20b44d973ffeb33b2]
+## 11. Housing Benefit Regulations (Northern Ireland) 2006[^c-aecd0937183660d20b44d973ffeb33b2]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00015] are amended in accordance with paragraphs (2) to (7).
 
@@ -242,7 +242,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (7) In regulation 73E (exception to the benefit cap: current or recent work), in paragraph (4) for “or shared parental leave” substitute “, shared parental leave or parental bereavement leave”.
 
-## 12. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^key-5fb8c289262747ed441d5aff9c355348]
+## 12. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^c-5fb8c289262747ed441d5aff9c355348]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00016] is amended in accordance with paragraphs (2) to (7).
 
@@ -277,7 +277,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (7) In regulation 34 (calculation of net earnings of employed earners), in paragraph 2(d) for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-## 13. Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-aa4c512134c82aebf52947e6f2b25e45]
+## 13. Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-aa4c512134c82aebf52947e6f2b25e45]
 
 (1) The Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00017] is amended in accordance with paragraph (2).
 
@@ -306,7 +306,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
   .
 
-## 14. New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-081ff64dd8ddda9e2364cb51f266a010]
+## 14. New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-081ff64dd8ddda9e2364cb51f266a010]
 
 (1) The Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00018] is amended in accordance with paragraphs (2) to (4).
 
@@ -332,7 +332,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 - (a) in Article 62 (final pensionable pay), in paragraph (5)(c) after “ordinary adoption leave” insert “, parental bereavement leave”; and
 - (b) in Article 63 (pension contributions), in paragraph (3) after “paternity” in both places it occurs, insert “, parental bereavement”.
 
-## 15. Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^key-fc9b2894623cd12fef5c200234296dd9]
+## 15. Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^c-fc9b2894623cd12fef5c200234296dd9]
 
 (1) The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00019] are amended in accordance with paragraphs (2) to (12).
 
@@ -440,7 +440,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 .
 
-## 16. Employment and Support Allowance Regulations (Northern Ireland) 2008[^key-13154384957c7b456ad836efb9d9dc15]
+## 16. Employment and Support Allowance Regulations (Northern Ireland) 2008[^c-13154384957c7b456ad836efb9d9dc15]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00020] are amended in accordance with paragraphs (2) to (6).
 
@@ -465,19 +465,19 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   - (i) after “12ZB” insert “or Part 12ZD”; and
   - (ii) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 17. Investment Bank Special Administration Regulations 2011[^key-4afa765349f7d5459a159ddbbded96fa]
+## 17. Investment Bank Special Administration Regulations 2011[^c-4afa765349f7d5459a159ddbbded96fa]
 
 (1) The Investment Bank Special Administration Regulations 2011[^f00021] are amended in accordance with paragraph (2).
 
 (2) In Schedule 6 (modifications and consequential amendments) in Part 1, in the list of secondary legislation after “Statutory Parental Bereavement Pay (General) Regulations 2020” insert “Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023”.
 
-## 18. Agency Workers Regulations (Northern Ireland) 2011[^key-11ef1ded2db9f612734bead180b41051]
+## 18. Agency Workers Regulations (Northern Ireland) 2011[^c-11ef1ded2db9f612734bead180b41051]
 
 (1) The Agency Workers Regulations (Northern Ireland) 2011[^f00022] are amended in accordance with paragraph (2).
 
 (2) In regulation 6 (relevant terms and conditions), in paragraph (3)(c) after “paternity” insert “, parental bereavement”.
 
-## 19. Local Government Pension Scheme Regulations (Northern Ireland) 2014[^key-92df324609797769d9547fa6e964d0c4]
+## 19. Local Government Pension Scheme Regulations (Northern Ireland) 2014[^c-92df324609797769d9547fa6e964d0c4]
 
 (1) The Local Government Pension Scheme Regulations (Northern Ireland) 2014[^f00023] are amended in accordance with paragraphs (2) to (4).
 
@@ -507,7 +507,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   ; and
 - (e) in the definition of “statutory pay” after “shared parental” insert “, parental bereavement”.
 
-## 20. Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^key-5cec3cd6fccb25548897483d7b018686]
+## 20. Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^c-5cec3cd6fccb25548897483d7b018686]
 
 (1) The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^f00024] are amended in accordance with paragraph (2).
 
@@ -526,7 +526,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
   .
 
-## 21. Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^key-e60a283fe23dfa1357a4593111bb257d]
+## 21. Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^c-e60a283fe23dfa1357a4593111bb257d]
 
 (1) The Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^f00025] are amended in accordance with paragraphs (2) to (4).
 
@@ -561,7 +561,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (4) In regulation 121 (contributions during child-related leave), in paragraph (3) after “shared parental leave” insert “, parental bereavement leave”.
 
-## 22. Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^key-90a8fecdedaebce1b0ad8d3155172a33]
+## 22. Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^c-90a8fecdedaebce1b0ad8d3155172a33]
 
 (1) The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00026] are amended in accordance with paragraphs (2) to (6).
 
@@ -598,7 +598,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (6) In Schedule 13 (definitions), in the appropriate place in Column 1, insert “parental bereavement leave”, and for the corresponding entry in Column 2 insert “means leave under Article 112EA of the Employment Rights (Northern Ireland) Order 1996”.
 
-## 23. Childcare Payments (Eligibility) Regulations 2015[^key-28a7acb18f5404f68fcd71c5c6c9fa21]
+## 23. Childcare Payments (Eligibility) Regulations 2015[^c-28a7acb18f5404f68fcd71c5c6c9fa21]
 
 (1) The Childcare Payments (Eligibility) Regulations 2015[^f00027] are amended in accordance with paragraph (2).
 
@@ -611,7 +611,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
   - (i) omit “in relation to England, Wales and Scotland only,”; and
   - (ii) after “Part 12ZD of the Social Security Contributions and Benefits Act 1992” insert” “or Part 12ZD of the Social Security Contributions and Benefits (Northern Ireland) Act 1992”.
 
-## 24. Universal Credit Regulations (Northern Ireland) 2016[^key-1dda617c0d24ab2f40ea86c813c72e95]
+## 24. Universal Credit Regulations (Northern Ireland) 2016[^c-1dda617c0d24ab2f40ea86c813c72e95]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00028] are amended in accordance with paragraphs (2) to (4).
 
@@ -633,7 +633,7 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
   .
 
-## 25. Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^key-2d38d371fcb3a2fa578cf6e9458ded21]
+## 25. Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^c-2d38d371fcb3a2fa578cf6e9458ded21]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^f00029] are amended in accordance with paragraphs (2) to (4).
 
@@ -647,13 +647,13 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 
 (4) In regulation 58 (earnings of employed earners), in paragraph (2)(c), after “shared parental leave” insert “, parental bereavement leave”.
 
-## 26. Employment and Support Allowance Regulations (Northern Ireland) 2016[^key-39a812b2b7334ef6fd1086961e7a9928]
+## 26. Employment and Support Allowance Regulations (Northern Ireland) 2016[^c-39a812b2b7334ef6fd1086961e7a9928]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2016[^f00030] are amended in accordance with paragraph (2).
 
 (2) In regulation 80 (earnings of employed earners) in paragraph (2)(b) after “107E or 107G of that Order” insert “, parental bereavement leave under Article 112EA of that Order”.
 
-## 27. Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-35d28f980129c09ecd6c0a73fc9c467e]
+## 27. Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-35d28f980129c09ecd6c0a73fc9c467e]
 
 (1) The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^f00031] are amended in accordance with paragraph (2).
 
@@ -662,11 +662,11 @@ In the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f0001
 - (a) in sub-paragraph (n) after “section 80EA of the Employment Rights Act 1996” insert “or Article 112EA of the Employment Rights (Northern Ireland) Order 1996”; and
 - (b) in sub-paragraph (o) after “Part 12ZD of the Social Security Contributions and Benefits Act 1992” insert” “or Part 12ZD of the Social Security Contributions and Benefits (Northern Ireland) Act 1992”.
 
-## 28. Transitional provisions[^key-5503bf42f33d9b7f518b4159610c038d]
+## 28. Transitional provisions[^c-5503bf42f33d9b7f518b4159610c038d]
 
 The revocation and re-enactment of provisions by these Regulations does not affect the continuity of the law.
 
-**29.**[^key-207b71cc519045d000eae0fa60fb73a6] (1) This regulation applies to a reference (expressed or implied) in these Regulations, any statutory provision, or any other instrument or document, to a provision of these Regulations.
+**29.**[^c-207b71cc519045d000eae0fa60fb73a6] (1) This regulation applies to a reference (expressed or implied) in these Regulations, any statutory provision, or any other instrument or document, to a provision of these Regulations.
 
 (2) The reference is, subject to its context, to be read as being or including a reference to any or all of the corresponding provisions, in relation to times, circumstances or purposes in relation to which those earlier provisions had effect.
 
@@ -676,7 +676,7 @@ The revocation and re-enactment of provisions by these Regulations does not affe
 - (b) the corresponding provision revoked by the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations (Northern Ireland) 2023[^f00032];
 - (c) the corresponding provision revoked by the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2022[^f00033].
 
-**30.**[^key-13f862651f098daf772929bd6e3ab167] (1) This regulation applies to a reference (expressed or implied) in any statutory provision, or any other instrument or document to—
+**30.**[^c-13f862651f098daf772929bd6e3ab167] (1) This regulation applies to a reference (expressed or implied) in any statutory provision, or any other instrument or document to—
 
 - (a) a provision revoked by these Regulations;
 - (b) a provision revoked by the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations (Northern Ireland) 2023; or
@@ -684,11 +684,11 @@ The revocation and re-enactment of provisions by these Regulations does not affe
 
 (2) The reference is, subject to its context, to be read as being or including a reference to the corresponding provision of these Regulations, in relation to times, circumstances or purposes in relation to which that provision has effect.
 
-**31.**[^key-edff18725cfcdb60377b4d360b65e0f0] (1) The revocation of any provision by these Regulations does not affect the previous operation of that provision, except as provided by regulation 32.
+**31.**[^c-edff18725cfcdb60377b4d360b65e0f0] (1) The revocation of any provision by these Regulations does not affect the previous operation of that provision, except as provided by regulation 32.
 
 (2) The revocation by these Regulations of the savings made by regulations 31 and 32 of the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations (Northern Ireland) 2023 does not affect the operation of those savings in so far as they are not specifically reproduced in these Regulations but remain capable of having effect.
 
-**32.**[^key-78bf5a7239362da048c9f271a759cc96] (1) Anything done, or having effect as if done, under (or for the purposes of or in reliance on) a provision revoked by these Regulations and in operation or effective immediately before the time these Regulations come into operation, has effect after that time as if done instead under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
+**32.**[^c-78bf5a7239362da048c9f271a759cc96] (1) Anything done, or having effect as if done, under (or for the purposes of or in reliance on) a provision revoked by these Regulations and in operation or effective immediately before the time these Regulations come into operation, has effect after that time as if done instead under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
 
 (2) Any right, privilege, obligation or liability acquired, accrued or incurred under a provision revoked by these Regulations is to be treated as having acquired, accrued or incurred instead under the corresponding provision of these Regulations.
 
@@ -706,13 +706,13 @@ includes a reference to a thing that has effect as if done under that provision,
 
 and any investigation or legal proceeding in respect of any such penalty or punishment may be instituted, continued or enforced, and any such penalty or punishment may be imposed, as if the provision had not been revoked.
 
-**33.**[^key-b9b59e18d9f56f9534cdeab1f9af2277] (1) Regulations 28 to 32 have effect in place of sections 28(2) and 29 of the Interpretation Act (Northern Ireland) 1954[^f00034] (“**1954 Act**”).
+**33.**[^c-b9b59e18d9f56f9534cdeab1f9af2277] (1) Regulations 28 to 32 have effect in place of sections 28(2) and 29 of the Interpretation Act (Northern Ireland) 1954[^f00034] (“**1954 Act**”).
 
 (2) Nothing in those regulations affects any other provision of the 1954 Act.
 
 (3) In regulations 29 and 30, “instrument” and “statutory provision” have the meaning given to them by section 1(c) and (f) of the 1954 Act.
 
-## 34. Revocation[^key-f35e1e9ca9614f45ebb3109e7403bcb6]
+## 34. Revocation[^c-f35e1e9ca9614f45ebb3109e7403bcb6]
 
 The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations (Northern Ireland) 2023 are revoked.
 
@@ -742,132 +742,132 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^f00003]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 112EA and 112ED were inserted by [2022 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2022/5), section 1.
 
-[^key-b01a47e00f7930bb50b4d8e1bed93b10]: Commencement: Reg. 1 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-b01a47e00f7930bb50b4d8e1bed93b10]: Commencement: Reg. 1 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
 [^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-25e27670424e69aa39daedeed4051169]: Commencement: Reg. 2 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-25e27670424e69aa39daedeed4051169]: Commencement: Reg. 2 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending Regulations are [S.R. 1988 No. 105](https://www.legislation.gov.uk/nisr/1988/105), [S.R. 2003 No. 151](https://www.legislation.gov.uk/nisr/2003/151), [S.R. 2012 No. 109](https://www.legislation.gov.uk/nisr/2012/109), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-4d20693796be3922028e92d17162668e]: Commencement: Reg. 3 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-4d20693796be3922028e92d17162668e]: Commencement: Reg. 3 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending Regulations are [S.R. 2002 No. 359](https://www.legislation.gov.uk/nisr/2002/359), [S.I. 2007/1154](https://www.legislation.gov.uk/uksi/2007/1154), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-5e40328a8a82d651527f47b9e9098014]: Commencement: Reg. 4 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-5e40328a8a82d651527f47b9e9098014]: Commencement: Reg. 4 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); relevant amending Regulations are [S.R. 2002 No. 359](https://www.legislation.gov.uk/nisr/2002/359), [S.I. 2007/1154](https://www.legislation.gov.uk/uksi/2007/1154), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-795a21daed746516d2c2f48cf913a2b0]: Commencement: Reg. 5 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-795a21daed746516d2c2f48cf913a2b0]: Commencement: Reg. 5 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-6cdd93510dc52de52388e6c10672e63d]: Commencement: Reg. 6 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-6cdd93510dc52de52388e6c10672e63d]: Commencement: Reg. 6 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95); relevant amending Regulations is [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-1f57229bce53181644b9b928eca8b64b]: Commencement: Reg. 7 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-1f57229bce53181644b9b928eca8b64b]: Commencement: Reg. 7 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 2002 No. 363](https://www.legislation.gov.uk/nisr/2002/363), [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), [S.R. 2014 No. 105](https://www.legislation.gov.uk/nisr/2014/105), [S.R. 2014 No. 226](https://www.legislation.gov.uk/nisr/2014/226), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-7a41341e58c2a338ac58482e97f0a910]: Commencement: Reg. 8 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-7a41341e58c2a338ac58482e97f0a910]: Commencement: Reg. 8 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2000 No. 104](https://www.legislation.gov.uk/nisr/2000/104); relevant amending Regulations are [S.R. 2002 No. 359](https://www.legislation.gov.uk/nisr/2002/359), [S.I. 2007/1154](https://www.legislation.gov.uk/uksi/2007/1154), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-51b378899c80792ebf780d5219d1b49d]: Commencement: Reg. 9 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-51b378899c80792ebf780d5219d1b49d]: Commencement: Reg. 9 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2003 No. 41](https://www.legislation.gov.uk/nisr/2003/41), [S.R. 2012 No. 121](https://www.legislation.gov.uk/nisr/2012/121), [S.R 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-590c5d5c3505a1a05361573c143f9149]: Commencement: Reg. 10 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-590c5d5c3505a1a05361573c143f9149]: Commencement: Reg. 10 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005); relevant amending Regulations are [S.I. 2002/2019](https://www.legislation.gov.uk/uksi/2002/2019), [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757), [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146), [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-aecd0937183660d20b44d973ffeb33b2]: Commencement: Reg. 11 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-aecd0937183660d20b44d973ffeb33b2]: Commencement: Reg. 11 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 2006 No. 4](https://www.legislation.gov.uk/nisr/2006/4)05; relevant amending Regulations are [S.R. 2012 No. 121](https://www.legislation.gov.uk/nisr/2012/121), [S.R. 2015 No.146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-5fb8c289262747ed441d5aff9c355348]: Commencement: Reg. 12 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-5fb8c289262747ed441d5aff9c355348]: Commencement: Reg. 12 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are [S.R. 2012 No. 121](https://www.legislation.gov.uk/nisr/2012/121), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-aa4c512134c82aebf52947e6f2b25e45]: Commencement: Reg. 13 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-aa4c512134c82aebf52947e6f2b25e45]: Commencement: Reg. 13 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 2007 No. 144](https://www.legislation.gov.uk/nisr/2007/144); relevant amending Regulation is [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-081ff64dd8ddda9e2364cb51f266a010]: Commencement: Reg. 14 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-081ff64dd8ddda9e2364cb51f266a010]: Commencement: Reg. 14 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 2007 No. 215](https://www.legislation.gov.uk/nisr/2007/215); relevant amending Regulations are [S.R. 2015 No.9](https://www.legislation.gov.uk/nisr/2015/9) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-fc9b2894623cd12fef5c200234296dd9]: Commencement: Reg. 15 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-fc9b2894623cd12fef5c200234296dd9]: Commencement: Reg. 15 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 2008 No. 256](https://www.legislation.gov.uk/nisr/2008/256); relevant amending Regulations are [S.R. 2010 No. 22](https://www.legislation.gov.uk/nisr/2010/22) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-13154384957c7b456ad836efb9d9dc15]: Commencement: Reg. 16 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-13154384957c7b456ad836efb9d9dc15]: Commencement: Reg. 16 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); relevant amending Regulations are [S.R 2012 No. 121](https://www.legislation.gov.uk/nisr/2012/121), [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-4afa765349f7d5459a159ddbbded96fa]: Commencement: Reg. 17 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-4afa765349f7d5459a159ddbbded96fa]: Commencement: Reg. 17 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245); relevant amending Regulations are [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-11ef1ded2db9f612734bead180b41051]: Commencement: Reg. 18 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-11ef1ded2db9f612734bead180b41051]: Commencement: Reg. 18 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 2011 No. 350](https://www.legislation.gov.uk/nisr/2011/350).
 
-[^key-92df324609797769d9547fa6e964d0c4]: Commencement: Reg. 19 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-92df324609797769d9547fa6e964d0c4]: Commencement: Reg. 19 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 2014 No. 188](https://www.legislation.gov.uk/nisr/2014/188); relevant amending Regulations are [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-5cec3cd6fccb25548897483d7b018686]: Commencement: Reg. 20 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-5cec3cd6fccb25548897483d7b018686]: Commencement: Reg. 20 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189); relevant amending Regulations are [S.R. 2015 No. 146](https://www.legislation.gov.uk/nisr/2015/146) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-e60a283fe23dfa1357a4593111bb257d]: Commencement: Reg. 21 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-e60a283fe23dfa1357a4593111bb257d]: Commencement: Reg. 21 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 2015 No 78](https://www.legislation.gov.uk/nisr/2015/78); relevant amending Regulations are [S.R. 2015 No 420](https://www.legislation.gov.uk/nisr/2015/420) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-90a8fecdedaebce1b0ad8d3155172a33]: Commencement: Reg. 22 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-90a8fecdedaebce1b0ad8d3155172a33]: Commencement: Reg. 22 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 2015 No. 120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-28a7acb18f5404f68fcd71c5c6c9fa21]: Commencement: Reg. 23 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-28a7acb18f5404f68fcd71c5c6c9fa21]: Commencement: Reg. 23 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2015/448](https://www.legislation.gov.uk/uksi/2015/448); relevant amending Regulations are [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354), [S.I. 2021/781](https://www.legislation.gov.uk/uksi/2021/781) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-1dda617c0d24ab2f40ea86c813c72e95]: Commencement: Reg. 24 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-1dda617c0d24ab2f40ea86c813c72e95]: Commencement: Reg. 24 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216).
 
-[^key-2d38d371fcb3a2fa578cf6e9458ded21]: Commencement: Reg. 25 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-2d38d371fcb3a2fa578cf6e9458ded21]: Commencement: Reg. 25 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 2016 No. 218](https://www.legislation.gov.uk/nisr/2016/218).
 
-[^key-39a812b2b7334ef6fd1086961e7a9928]: Commencement: Reg. 26 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-39a812b2b7334ef6fd1086961e7a9928]: Commencement: Reg. 26 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219).
 
-[^key-35d28f980129c09ecd6c0a73fc9c467e]: Commencement: Reg. 27 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-35d28f980129c09ecd6c0a73fc9c467e]: Commencement: Reg. 27 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2016/1257](https://www.legislation.gov.uk/uksi/2016/1257); relevant amending Regulations are [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354), [S.I. 2021/781](https://www.legislation.gov.uk/uksi/2021/781) and [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
-[^key-5503bf42f33d9b7f518b4159610c038d]: Commencement: Reg. 28 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-5503bf42f33d9b7f518b4159610c038d]: Commencement: Reg. 28 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
-[^key-207b71cc519045d000eae0fa60fb73a6]: Commencement: Reg. 29 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-207b71cc519045d000eae0fa60fb73a6]: Commencement: Reg. 29 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 2023 No. 56](https://www.legislation.gov.uk/nisr/2023/56).
 
 [^f00033]: Footnote: [S.R. 2022 No. 236](https://www.legislation.gov.uk/nisr/2022/236).
 
-[^key-13f862651f098daf772929bd6e3ab167]: Commencement: Reg. 30 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-13f862651f098daf772929bd6e3ab167]: Commencement: Reg. 30 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
-[^key-edff18725cfcdb60377b4d360b65e0f0]: Commencement: Reg. 31 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-edff18725cfcdb60377b4d360b65e0f0]: Commencement: Reg. 31 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
-[^key-78bf5a7239362da048c9f271a759cc96]: Commencement: Reg. 32 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-78bf5a7239362da048c9f271a759cc96]: Commencement: Reg. 32 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
-[^key-b9b59e18d9f56f9534cdeab1f9af2277]: Commencement: Reg. 33 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-b9b59e18d9f56f9534cdeab1f9af2277]: Commencement: Reg. 33 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
 
 [^f00034]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-f35e1e9ca9614f45ebb3109e7403bcb6]: Commencement: Reg. 34 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)
+[^c-f35e1e9ca9614f45ebb3109e7403bcb6]: Commencement: Reg. 34 in operation at 29.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1)

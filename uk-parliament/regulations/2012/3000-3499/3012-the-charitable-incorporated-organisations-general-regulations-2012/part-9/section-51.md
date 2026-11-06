@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. CIO’s implied agreement to receive information in electronic form[^key-bb3f9759fb529396fe2535494e206150]
+## 51. CIO’s implied agreement to receive information in electronic form[^c-bb3f9759fb529396fe2535494e206150]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb3f9759fb529396fe2535494e206150]: Commencement: Reg. 51 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-bb3f9759fb529396fe2535494e206150]: Commencement: Reg. 51 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

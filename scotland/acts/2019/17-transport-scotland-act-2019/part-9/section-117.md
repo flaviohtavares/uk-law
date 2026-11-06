@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Commencement and completion notices[^key-61bb77812594f07d5787d45696230ed7]
+## 117. Commencement and completion notices[^c-61bb77812594f07d5787d45696230ed7]
 
 *Extent: S*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61bb77812594f07d5787d45696230ed7]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2019/17/section/117) in force at 25.1.2023 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-61bb77812594f07d5787d45696230ed7]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2019/17/section/117) in force at 25.1.2023 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

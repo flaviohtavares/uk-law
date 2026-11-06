@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Effect of determining an advance application[^key-54579d2ee2f34437ea4040e6552c8645]
+## 5. Effect of determining an advance application[^c-54579d2ee2f34437ea4040e6552c8645]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ whichever is later, as if it were a decision to register or refuse registration 
 
 ## Annotations
 
-[^key-54579d2ee2f34437ea4040e6552c8645]: Commencement: Reg. 5 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-54579d2ee2f34437ea4040e6552c8645]: Commencement: Reg. 5 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

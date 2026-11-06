@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22. Action after allocation of complaint[^key-545043ad58d95f6e1f597f5952f4bc72]
+## 22. Action after allocation of complaint[^c-545043ad58d95f6e1f597f5952f4bc72]
 
 *Extent: E*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-545043ad58d95f6e1f597f5952f4bc72]: Commencement: S. 22 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-545043ad58d95f6e1f597f5952f4bc72]: Commencement: S. 22 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

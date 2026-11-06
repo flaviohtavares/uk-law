@@ -99,7 +99,7 @@ Section 1(3).
 | . . . | . . .. | . . . [^c691276]. |
 |  | . . . | . . . [^c691276] |
 | c. 2. The Betting, Gaming and Lotteries Act 1963. | Section 22(1) and (3). | Offence of sending betting advertisements to persons under 21. |
-| [^key-8d6e94afb8fe0f068bd8ef1b405ddbf6]... | [^key-8d6e94afb8fe0f068bd8ef1b405ddbf6]... | [^key-8d6e94afb8fe0f068bd8ef1b405ddbf6]... |
+| [^c-8d6e94afb8fe0f068bd8ef1b405ddbf6]... | [^c-8d6e94afb8fe0f068bd8ef1b405ddbf6]... | [^c-8d6e94afb8fe0f068bd8ef1b405ddbf6]... |
 | . . . | . . . | . . .. [^c691276] |
 
 ### Part II — Regulations and Rules
@@ -117,7 +117,7 @@ Section 1(3).
 |  | . . .. | . . . [^c691289]. |
 | . . .. | . . .. | . . . [^c691289] |
 | . . .. | . . . | . . . [^c691289]. |
-| [^key-8893dac85221f6b8291bafe0e8ee7a94] | [^key-8893dac85221f6b8291bafe0e8ee7a94] | [^key-8893dac85221f6b8291bafe0e8ee7a94]... |
+| [^c-8893dac85221f6b8291bafe0e8ee7a94] | [^c-8893dac85221f6b8291bafe0e8ee7a94] | [^c-8893dac85221f6b8291bafe0e8ee7a94]... |
 | 1965 S.I. 1839 The Registration of Births, Stillbirths, Deaths and Marriages (Prescription of Forms)(Scotland) Regulations 1965. | Schedule 24. | Recording of change of name or surname. |
 
 ## SCHEDULE 2 — Statutory Provisions Unaffected by Section 1
@@ -152,11 +152,11 @@ Section 1(4).
 
 [^c691285]: Textual amendment: Entry repealed by [Mental Health (Scotland) Act 1984 (c. 36, SIF 85)](https://www.legislation.gov.uk/ukpga/1984/36), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/1984/36/section/127/2), [128](https://www.legislation.gov.uk/ukpga/1984/36/section/128), [129](https://www.legislation.gov.uk/ukpga/1984/36/section/129), [Sch. 5](https://www.legislation.gov.uk/ukpga/1984/36/schedule/5)
 
-[^key-8d6e94afb8fe0f068bd8ef1b405ddbf6]: Textual amendment: Words in Sch. 1 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-8d6e94afb8fe0f068bd8ef1b405ddbf6]: Textual amendment: Words in Sch. 1 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c691289]: Textual amendment: Entries in Sch. I, Pt. II, except those relating to the Government Stock Regulations 1965 and the Registration of Births, Still-births, Deaths and Marriages (Prescription of Forms)(Scotland) Regulations 1965, repealed (5.11.1993) by 1993, c. 50, s. 1(1), Sch. 1, Pt. VIII
 
-[^key-8893dac85221f6b8291bafe0e8ee7a94]: Textual amendment: Sch. 1 Pt. II: entry omitted (1.7.2004) by virtue of [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 17](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/17) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-8893dac85221f6b8291bafe0e8ee7a94]: Textual amendment: Sch. 1 Pt. II: entry omitted (1.7.2004) by virtue of [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 17](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/17) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c691302]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1969/39/schedule/2/paragraph/2) repealed (5.11.1993) by 1993, c. 50, s. 1(1), Sch. 1, Pt. VIII
 

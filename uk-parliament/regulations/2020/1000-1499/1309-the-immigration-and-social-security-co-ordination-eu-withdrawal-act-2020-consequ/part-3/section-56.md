@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment of the Jobseeker's Allowance Regulations (Northern Ireland) 1996[^key-bc4e57824c1a13d2b351c75116d12ecd][^M_I_525c803b-5494-4e4d-a910-e52ef625a75a]
+## 56. Amendment of the Jobseeker's Allowance Regulations (Northern Ireland) 1996[^c-bc4e57824c1a13d2b351c75116d12ecd][^M_I_525c803b-5494-4e4d-a910-e52ef625a75a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bc4e57824c1a13d2b351c75116d12ecd]: Commencement: Reg. 56 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-bc4e57824c1a13d2b351c75116d12ecd]: Commencement: Reg. 56 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_525c803b-5494-4e4d-a910-e52ef625a75a]: Commencement: Reg. 56 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

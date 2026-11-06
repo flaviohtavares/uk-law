@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Inspection of pharmacies[^key-cf060070a238ca44d1b8800937626e26]
+## 35. Inspection of pharmacies[^c-cf060070a238ca44d1b8800937626e26]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In relation to a pharmacy, all the powers of an inspector to enforce these Regul
 
 ## Annotations
 
-[^key-cf060070a238ca44d1b8800937626e26]: Commencement: Reg. 35 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cf060070a238ca44d1b8800937626e26]: Commencement: Reg. 35 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

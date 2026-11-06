@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Special support grant[^key-4f98e8eaf61c489de020ddd4242ee9a6]
+## 38. Special support grant[^c-4f98e8eaf61c489de020ddd4242ee9a6]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4f98e8eaf61c489de020ddd4242ee9a6]: Commencement: Reg. 38 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-4f98e8eaf61c489de020ddd4242ee9a6]: Commencement: Reg. 38 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
 [^f00072]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). There are amendments to section 124 which are not relevant to these Regulations. Categories under section 124(1)(e) are prescribed by regulations. The relevant regulation is regulation 4ZA of the Income Support (General) Regulations 1987 ([S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)). Regulation 4ZA was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), amended by [S.I. 1997/2197](https://www.legislation.gov.uk/uksi/1997/2197), [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981), [S.I. 2001/3070](https://www.legislation.gov.uk/uksi/2001/3070), [S.I. 2008/1826](https://www.legislation.gov.uk/uksi/2008/1826), [S.I. 2009/2655](https://www.legislation.gov.uk/uksi/2009/2655), [S.I. 2009/3152](https://www.legislation.gov.uk/uksi/2009/3152) and [S.I. 2013/2536](https://www.legislation.gov.uk/uksi/2013/2536).
 

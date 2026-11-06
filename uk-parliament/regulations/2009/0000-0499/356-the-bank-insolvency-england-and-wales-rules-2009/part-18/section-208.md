@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Inspection of records[^key-3033f0a7603d8185d33e0714a85e1f38]
+## 208. Inspection of records[^c-3033f0a7603d8185d33e0714a85e1f38]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.28 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3033f0a7603d8185d33e0714a85e1f38]: Commencement: Rule 208 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3033f0a7603d8185d33e0714a85e1f38]: Commencement: Rule 208 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

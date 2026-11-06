@@ -34,15 +34,15 @@ An Act of the Scottish Parliament to provide for the suspension in certain circu
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th June 2001 and received Royal Assent on 25th July 2001
 
-## 1. Application to suspend enforcement of standard security[^key-d8fefa72c2a4e54efceae943cb9b1a6d]
+## 1. Application to suspend enforcement of standard security[^c-d8fefa72c2a4e54efceae943cb9b1a6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Disposal of application[^key-d8fefa72c2a4e54efceae943cb9b1a6d]
+## 2. Disposal of application[^c-d8fefa72c2a4e54efceae943cb9b1a6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Registration of order under section 2[^key-d8fefa72c2a4e54efceae943cb9b1a6d]
+## 3. Registration of order under section 2[^c-d8fefa72c2a4e54efceae943cb9b1a6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -74,11 +74,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 > - (a) in the case of a notice under subsection (3)(a), to the debtor or, as the case may be, the proprietor at his last known address,
 > - (b) in the case of a notice under subsection (3)(b), to “The Occupier” at the security subjects.
 
-(4)[^key-325bf00d1ce6ce49711966ec61576259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-325bf00d1ce6ce49711966ec61576259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-325bf00d1ce6ce49711966ec61576259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-325bf00d1ce6ce49711966ec61576259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-325bf00d1ce6ce49711966ec61576259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-325bf00d1ce6ce49711966ec61576259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The schedule to this Act, Part 1 of which amends Schedule 6 to the 1970 Act (forms to be used in relation to calling-up and default) and Part 2 of which sets out the Forms referred to in subsection (4), has effect.
 
@@ -180,16 +180,16 @@ Except so far as the context otherwise requires, expressions used in this Act an
 
 ### PART 2 — FORMS RELATING TO PROCEEDINGS UNDER SECTION 5 OF THE 1894 ACT
 
-[^key-9c999188466db2234193d52e7101474a]Form 1
+[^c-9c999188466db2234193d52e7101474a]Form 1
 
-[^key-9c999188466db2234193d52e7101474a]Form 2
+[^c-9c999188466db2234193d52e7101474a]Form 2
 
 ## Annotations
 
-[^key-d8fefa72c2a4e54efceae943cb9b1a6d]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/asp/2001/11/section/1) repealed (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(4)(a)](https://www.legislation.gov.uk/asp/2010/6/section/8/4/a), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
+[^c-d8fefa72c2a4e54efceae943cb9b1a6d]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/asp/2001/11/section/1) repealed (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(4)(a)](https://www.legislation.gov.uk/asp/2010/6/section/8/4/a), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
 
-[^key-325bf00d1ce6ce49711966ec61576259]: Textual amendment: S. 4(4)-(5A) repealed (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(4)(b)](https://www.legislation.gov.uk/asp/2010/6/section/8/4/b), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
+[^c-325bf00d1ce6ce49711966ec61576259]: Textual amendment: S. 4(4)-(5A) repealed (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(4)(b)](https://www.legislation.gov.uk/asp/2010/6/section/8/4/b), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
 
 [^c887635]: Subordinate legislation: S. 7(1)(2) power fully exercised: 3.12.2001 appointed by [S.I. 2001/418](https://www.legislation.gov.uk/uksi/2001/418), [art. 2](https://www.legislation.gov.uk/uksi/2001/418/article/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/418/article/3))
 
-[^key-9c999188466db2234193d52e7101474a]: Textual amendment: Sch. Pt. 2 Forms 1, 2 substituted (30.9.2010) by [The Home Owner and Debtor Protection (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.S.I. 2010/318)](https://www.legislation.gov.uk/ssi/2010/318), [art. 1](https://www.legislation.gov.uk/ssi/2010/318/article/1), [sch. Pt para. 2](https://www.legislation.gov.uk/ssi/2010/318/schedule/paragraph/2)
+[^c-9c999188466db2234193d52e7101474a]: Textual amendment: Sch. Pt. 2 Forms 1, 2 substituted (30.9.2010) by [The Home Owner and Debtor Protection (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.S.I. 2010/318)](https://www.legislation.gov.uk/ssi/2010/318), [art. 1](https://www.legislation.gov.uk/ssi/2010/318/article/1), [sch. Pt para. 2](https://www.legislation.gov.uk/ssi/2010/318/schedule/paragraph/2)

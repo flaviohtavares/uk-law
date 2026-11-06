@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2AC. Aqua methanol[^key-e8aaa45fb6ca045d3409ad28d1fab801]
+## 2AC. Aqua methanol[^c-e8aaa45fb6ca045d3409ad28d1fab801]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Act “**aqua methanol**” means a liquid fuel which meets each of the 
 
 ## Annotations
 
-[^key-e8aaa45fb6ca045d3409ad28d1fab801]: Textual amendment: S. 2AC inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/2), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
+[^c-e8aaa45fb6ca045d3409ad28d1fab801]: Textual amendment: S. 2AC inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/2), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)

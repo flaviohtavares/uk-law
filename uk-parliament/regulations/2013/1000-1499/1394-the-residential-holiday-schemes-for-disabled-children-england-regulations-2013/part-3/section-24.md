@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Children’s holiday scheme case records[^key-82863940d9f5cc925fc7c56e8a3b5863]
+## 24. Children’s holiday scheme case records[^c-82863940d9f5cc925fc7c56e8a3b5863]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82863940d9f5cc925fc7c56e8a3b5863]: Commencement: Reg. 24 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-82863940d9f5cc925fc7c56e8a3b5863]: Commencement: Reg. 24 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

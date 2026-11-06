@@ -37,7 +37,7 @@ Section 1.
 (4) The Secretary of State may remove a member of the Authority if he is satisfied—
 
 - (a) that that member has been absent from meetings of the Authority for a period of more than three consecutive months without the permission of the Authority;
-- (b) that that member has been made[^key-d8756b08898034894db40f1b7ac11719] bankrupt, that his estate has been sequestrated , that a debt relief order has been made in respect of him[^key-b3835ca87370a517fd3eebb08dc3c597] or that he has made a composition or arrangement with, or granted a trust deed for, his creditors; or
+- (b) that that member has been made[^c-d8756b08898034894db40f1b7ac11719] bankrupt, that his estate has been sequestrated , that a debt relief order has been made in respect of him[^c-b3835ca87370a517fd3eebb08dc3c597] or that he has made a composition or arrangement with, or granted a trust deed for, his creditors; or
 - (c) that that member is unable or unfit to carry out the functions of a member.
 
 #### Remuneration, pensions etc.
@@ -211,9 +211,9 @@ and the like insertion shall be made in Part II of Schedule 1 to the [^c10940381
 
 ## Annotations
 
-[^key-d8756b08898034894db40f1b7ac11719]: Textual amendment: Word in [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/1/paragraph/1/4/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-d8756b08898034894db40f1b7ac11719]: Textual amendment: Word in [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/1/paragraph/1/4/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-b3835ca87370a517fd3eebb08dc3c597]: Textual amendment: Words in Sch. 1 para. 1(4)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/30) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-b3835ca87370a517fd3eebb08dc3c597]: Textual amendment: Words in Sch. 1 para. 1(4)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/30) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c10940351]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Meetings of the Reconsideration Committee[^key-e631ae3455d60b32bfeba354f55ad987]
+## 27. Meetings of the Reconsideration Committee[^c-e631ae3455d60b32bfeba354f55ad987]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e631ae3455d60b32bfeba354f55ad987]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2005/669/regulation/27) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/58)
+[^c-e631ae3455d60b32bfeba354f55ad987]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2005/669/regulation/27) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/58)

@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 14A(6)(b) and (7) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-e13197baaf54268b9968fe7eb008c92f]
+## 1. Title, commencement, application and interpretation[^c-e13197baaf54268b9968fe7eb008c92f]
 
 (1) The title of these Regulations is the Care and Support (Area Planning) (Wales) Regulations 2017.
 
@@ -65,13 +65,13 @@ The Welsh Ministers, in exercise of the powers conferred by section 14A(6)(b) an
 - “the partnership arrangements regulations” (“*y rheoliadau trefniadau partneriaeth*”) means the Partnership Arrangements (Wales) Regulations 2015[^f00002];
 - “the population assessments regulations” (“*y rheoliadau asesiadau poblogaeth*”) means the Care and Support (Population Assessments) (Wales) Regulations 2015[^f00003].
 
-## 2. Publication of area plans[^key-2c091d5f8654ec11a5762b61ef4de5e2]
+## 2. Publication of area plans[^c-2c091d5f8654ec11a5762b61ef4de5e2]
 
 (1) The first area plan (or, if applicable, the first joint area plan) must be published by 1 April 2018.
 
 (2) Subsequent area plans (or, if applicable, joint area plans) must be published within one year after the date on which the most recent population assessment report is required to be published.
 
-## 3. Review[^key-a5755770506f3a4c8519aaa5fd30256b]
+## 3. Review[^c-a5755770506f3a4c8519aaa5fd30256b]
 
 In the event that an addendum to a population assessment report is issued in accordance with regulation 7 of the population assessments regulations, the relevant body which has prepared an area plan following that report (or, if applicable, the relevant bodies which have prepared a joint area plan following that report) must—
 
@@ -80,14 +80,14 @@ In the event that an addendum to a population assessment report is issued in acc
 - (c) if it is decided to revise the plan, prepare a revised plan as soon as practicable following the issue of the addendum;
 - (d) publish any revised plan.
 
-## 4. Copies of plans[^key-04a53c1baf7a81b6d25baf19460ab61b]
+## 4. Copies of plans[^c-04a53c1baf7a81b6d25baf19460ab61b]
 
 A relevant body which has prepared an area plan (or, if applicable, the relevant bodies which have prepared a joint area plan) must—
 
 - (a) include a copy of the plan (and, if applicable, a copy of any revised plan) as part of the annual report published by the relevant Regional Partnership Board in accordance with regulation 12 of the partnership arrangements regulations, and
 - (b) submit any such plan or revised plan to the Welsh Ministers.
 
-## 5. Citizen engagement[^key-d02eafb7b529a03405b528c238aefac3]
+## 5. Citizen engagement[^c-d02eafb7b529a03405b528c238aefac3]
 
 (1) In preparing an area plan or revised area plan (or, if applicable, a joint area plan or revised joint area plan), a relevant body (or, in the case of a joint area plan, the relevant bodies) must take reasonable steps to engage with—
 
@@ -99,7 +99,7 @@ A relevant body which has prepared an area plan (or, if applicable, the relevant
 
 (3) A relevant body (or, in the case of a joint area plan, the relevant bodies) must establish a procedure for the engagement required by paragraph (1).
 
-## 6. Engagement with private sector and third sector organisations and public bodies[^key-4a8986505c895212c48db44bf86d65b5]
+## 6. Engagement with private sector and third sector organisations and public bodies[^c-4a8986505c895212c48db44bf86d65b5]
 
 (1) In preparing an area plan or revised area plan (or, if applicable, a joint area plan or revised joint area plan), a relevant body (or, in the case of a joint area plan, the relevant bodies) must engage with any private sector organisation, third sector organisation or public body which it believes is concerned with or has an interest in the provision of care and support or preventative services to the population of the area covered by the plan.
 
@@ -108,7 +108,7 @@ A relevant body which has prepared an area plan (or, if applicable, the relevant
 - “public body” (“*corff cyhoeddus*”) means a body (whether corporate or unincorporated) exercising public functions. For the purpose of this definition, a public function is a function that is a function of a public nature for the purposes of the Human Rights Act 1998[^f00004];
 - “third sector organisation” (“*sefydliad trydydd sector*”) has the same meaning as in section 16(2) of the Act[^f00005].
 
-## 7. Monitoring and evaluation: annual delivery plan[^key-0d4e07342a90ffb9175e1a761c6701aa]
+## 7. Monitoring and evaluation: annual delivery plan[^c-0d4e07342a90ffb9175e1a761c6701aa]
 
 (1) A relevant body or, in the case of a joint area plan, the relevant bodies must prepare and publish an annual delivery plan which specifies the way in which the services and actions identified in the area plan or, as the case may be, the joint area plan, will be delivered or undertaken in order to meet the needs identified in the population assessment report during the next 12 months beginning with the date on which the annual delivery plan is published.
 
@@ -150,24 +150,24 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). Section 14A was inserted by the [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), Schedule 4, paragraph 34.
 
-[^key-e13197baaf54268b9968fe7eb008c92f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/56/regulation/1) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
+[^c-e13197baaf54268b9968fe7eb008c92f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/56/regulation/1) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/1989 (W. 299)](https://www.legislation.gov.uk/wsi/2015/1989).
 
 [^f00003]: Footnote: [S.I. 2015/1367 (W. 135)](https://www.legislation.gov.uk/wsi/2015/1367).
 
-[^key-2c091d5f8654ec11a5762b61ef4de5e2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/56/regulation/2) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
+[^c-2c091d5f8654ec11a5762b61ef4de5e2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/56/regulation/2) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
 
-[^key-a5755770506f3a4c8519aaa5fd30256b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/56/regulation/3) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
+[^c-a5755770506f3a4c8519aaa5fd30256b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/56/regulation/3) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
 
-[^key-04a53c1baf7a81b6d25baf19460ab61b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/56/regulation/4) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
+[^c-04a53c1baf7a81b6d25baf19460ab61b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/56/regulation/4) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
 
-[^key-d02eafb7b529a03405b528c238aefac3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/56/regulation/5) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
+[^c-d02eafb7b529a03405b528c238aefac3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/56/regulation/5) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
 
-[^key-4a8986505c895212c48db44bf86d65b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/56/regulation/6) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
+[^c-4a8986505c895212c48db44bf86d65b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/56/regulation/6) in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/56/regulation/1/2)
 
 [^f00004]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^f00005]: Footnote: In section 16(2) of the Act, “third sector organisation” means an organisation which a person might reasonably consider to exist wholly or mainly to provide benefits to society.
 
-[^key-0d4e07342a90ffb9175e1a761c6701aa]: Textual amendment: Regs. 7, 8 substituted for reg. 7 (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2024/1238/regulation/9)
+[^c-0d4e07342a90ffb9175e1a761c6701aa]: Textual amendment: Regs. 7, 8 substituted for reg. 7 (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2024/1238/regulation/9)

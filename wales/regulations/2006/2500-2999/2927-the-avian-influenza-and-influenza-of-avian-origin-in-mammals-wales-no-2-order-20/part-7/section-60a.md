@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60A. Restrictions on mammals on confirmation of influenza of avian origin[^key-c153983f9cddb85f2e95c97e6e05aa38]
+## 60A. Restrictions on mammals on confirmation of influenza of avian origin[^c-c153983f9cddb85f2e95c97e6e05aa38]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On confirmation by the Chief Veterinary Officer that influenza of avian origin e
 
 ## Annotations
 
-[^key-c153983f9cddb85f2e95c97e6e05aa38]: Textual amendment: [Art. 60A](https://www.legislation.gov.uk/wsi/2006/2927/article/60A) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [38](https://www.legislation.gov.uk/wsi/2025/1357/article/38)
+[^c-c153983f9cddb85f2e95c97e6e05aa38]: Textual amendment: [Art. 60A](https://www.legislation.gov.uk/wsi/2006/2927/article/60A) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [38](https://www.legislation.gov.uk/wsi/2025/1357/article/38)

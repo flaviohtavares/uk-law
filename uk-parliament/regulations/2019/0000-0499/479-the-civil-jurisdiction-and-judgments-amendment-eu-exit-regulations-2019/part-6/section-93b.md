@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93B. Saving for requests received before IP completion day through the European Judicial Network: application of Article 68 of the withdrawal agreement[^M_I_b436e413-eb12-440b-8b6b-a534649baaee][^key-406b27f917192e62bb15ecd39c9de47a]
+## 93B. Saving for requests received before IP completion day through the European Judicial Network: application of Article 68 of the withdrawal agreement[^M_I_b436e413-eb12-440b-8b6b-a534649baaee][^c-406b27f917192e62bb15ecd39c9de47a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Nothing in these Regulations affects the application of paragraph (c) of Article
 
 [^M_I_b436e413-eb12-440b-8b6b-a534649baaee]: Commencement: Reg. 93B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-406b27f917192e62bb15ecd39c9de47a]: Textual amendment: Regs. 93A, 93B inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/4)
+[^c-406b27f917192e62bb15ecd39c9de47a]: Textual amendment: Regs. 93A, 93B inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/4)

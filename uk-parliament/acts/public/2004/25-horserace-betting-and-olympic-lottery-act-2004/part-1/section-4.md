@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Tax[^key-64914e747a0a959417c15b063e9156f2]
+## 4. Tax[^c-64914e747a0a959417c15b063e9156f2]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64914e747a0a959417c15b063e9156f2]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/25/section/4) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-64914e747a0a959417c15b063e9156f2]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/25/section/4) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)

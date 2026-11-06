@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.16.7. Prescribed forms of application[^key-9d9cf3b73afc5cb443a087246935751a]
+## 3.16.7. Prescribed forms of application[^c-9d9cf3b73afc5cb443a087246935751a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d9cf3b73afc5cb443a087246935751a]: Textual amendment: Ch. 3 Pt. 16 inserted (2.4.2001) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adults with Incapacity) 2001 (S.S.I. 2001/142)](https://www.legislation.gov.uk/ssi/2001/142), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/3/2)
+[^c-9d9cf3b73afc5cb443a087246935751a]: Textual amendment: Ch. 3 Pt. 16 inserted (2.4.2001) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adults with Incapacity) 2001 (S.S.I. 2001/142)](https://www.legislation.gov.uk/ssi/2001/142), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/3/2)

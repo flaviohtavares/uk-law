@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Direction to change name used for criminal purposes[^key-e143b4aafbba6910b6b182ef1254ba18][^key-513e0bf864901880bf382166a7f8cd40]
+## 17. Direction to change name used for criminal purposes[^c-e143b4aafbba6910b6b182ef1254ba18][^c-513e0bf864901880bf382166a7f8cd40]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e143b4aafbba6910b6b182ef1254ba18]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e143b4aafbba6910b6b182ef1254ba18]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-513e0bf864901880bf382166a7f8cd40]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/56/section/17) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)
+[^c-513e0bf864901880bf382166a7f8cd40]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/56/section/17) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)

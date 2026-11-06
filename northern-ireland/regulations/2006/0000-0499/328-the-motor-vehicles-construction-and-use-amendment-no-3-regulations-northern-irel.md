@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-The Motor Vehicles (Construction and Use)(Amendment No. 3) Regulations (Northern Ireland) 2006 (revoked)[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]
+The Motor Vehicles (Construction and Use)(Amendment No. 3) Regulations (Northern Ireland) 2006 (revoked)[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st October 2006
 
-[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]
+## 1. Citation, commencement and interpretation[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Schedule 10 (emissions from certain motor vehicles)[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]
+## 2. Amendment to Schedule 10 (emissions from certain motor vehicles)[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]
+## 3. Revocation[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f771bd67b7c3aad7ea75a9cf4993dfcb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/328) revoked (31.10.2007) by [The Motor Vehicles (Construction and Use) (Amendment No. 3) Regulations (Northern Ireland) 2007 (S.R. 2007/404)](https://www.legislation.gov.uk/nisr/2007/404), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/404/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2007/404/regulation/3)
+[^c-f771bd67b7c3aad7ea75a9cf4993dfcb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/328) revoked (31.10.2007) by [The Motor Vehicles (Construction and Use) (Amendment No. 3) Regulations (Northern Ireland) 2007 (S.R. 2007/404)](https://www.legislation.gov.uk/nisr/2007/404), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/404/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2007/404/regulation/3)

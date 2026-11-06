@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Notification that an assignment stage form is not valid[^key-de50207d4d2dec8ba20a426cf645b1fb]
+## 67. Notification that an assignment stage form is not valid[^c-de50207d4d2dec8ba20a426cf645b1fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a bidder submits an assignment stage form which is not a valid assignment 
 
 ## Annotations
 
-[^key-de50207d4d2dec8ba20a426cf645b1fb]: Commencement: Reg. 67 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-de50207d4d2dec8ba20a426cf645b1fb]: Commencement: Reg. 67 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

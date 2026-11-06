@@ -42,21 +42,21 @@ Regulation 84
 
 #### Companies Act 1985 (c. 6)
 
-**3.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Company Directors Disqualification Act 1986 (c. 46)
 
-**9.**[^key-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6f47606695851f33a0f06a3d33fd6836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Pension Schemes Act 1993 (c. 48)
 
@@ -78,7 +78,7 @@ Regulation 84
 
 #### The Uncertificated Securities Regulations 1995 (S.I. 1995/3272)
 
-**12.**[^key-8cc1bb7cffea81e63dae4fa1311c3ef0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8cc1bb7cffea81e63dae4fa1311c3ef0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -86,8 +86,8 @@ Regulation 84
 
 [^c15603071]: Marginal citation: Paragraph (f) of section 1(4) of the 1963 Act was inserted by [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827).
 
-[^key-6f47606695851f33a0f06a3d33fd6836]: Textual amendment: Sch. 7 paras. 3-9 revoked (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2)
+[^c-6f47606695851f33a0f06a3d33fd6836]: Textual amendment: Sch. 7 paras. 3-9 revoked (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2)
 
 [^c15603151]: Marginal citation: Paragraph (d) of section 38(6) was inserted by [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827).
 
-[^key-8cc1bb7cffea81e63dae4fa1311c3ef0]: Textual amendment: Sch. 7 para. 12 revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
+[^c-8cc1bb7cffea81e63dae4fa1311c3ef0]: Textual amendment: Sch. 7 para. 12 revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)

@@ -35,7 +35,7 @@ summary: ''
 
 (4) Where more than one person is a settlor in relation to a settlement and the circumstances so require, subsection (1)(d) above shall have effect in relation to it as if the settled property were comprised in separate settlements.
 
-(4A)[^key-e2b3274aac029d418cc6595594d6747d] Where—
+(4A)[^c-e2b3274aac029d418cc6595594d6747d] Where—
 
 - (a) a charge to tax arises under or by virtue of section 74A, or
 - (b) in a case where paragraphs (a) to (d) of section 74A are satisfied, a charge to tax arises under section 64 or 65 in respect of the relevant settled property (within the meaning of section 74A),
@@ -54,4 +54,4 @@ subsection (1) of this section has effect as if the persons listed in that subse
 
 [^c13613191]: Textual amendment: [Finance Act 1987 (No.2)](https://www.legislation.gov.uk/ukcm/1987/2) Sch. 7, para. 3(3),*with effect from* 17 March 1987.
 
-[^key-e2b3274aac029d418cc6595594d6747d]: Textual amendment: S. 201(4A) inserted (20.6.2012 and with effect in accordance with s. 210(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 210(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/210/4)
+[^c-e2b3274aac029d418cc6595594d6747d]: Textual amendment: S. 201(4A) inserted (20.6.2012 and with effect in accordance with s. 210(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 210(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/210/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 319. Notifications made to other persons at the same time[^key-1d6247c10e5dc6380389f1a1f52ad766]
+## 319. Notifications made to other persons at the same time[^c-1d6247c10e5dc6380389f1a1f52ad766]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d6247c10e5dc6380389f1a1f52ad766]: Commencement: [Rule 319](https://www.legislation.gov.uk/uksi/2011/1301/rule/319) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1d6247c10e5dc6380389f1a1f52ad766]: Commencement: [Rule 319](https://www.legislation.gov.uk/uksi/2011/1301/rule/319) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

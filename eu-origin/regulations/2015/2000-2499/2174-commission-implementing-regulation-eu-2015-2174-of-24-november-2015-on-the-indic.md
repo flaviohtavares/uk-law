@@ -35,42 +35,42 @@ on the indicative compendium of environmental goods and services, the format for
 
 (Text with EEA relevance) (revoked)
 
-[^key-b391e2bd737e872beae4dff536aa8270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b391e2bd737e872beae4dff536aa8270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Indicative compendium of environmental goods and services and of economic activities[^key-b391e2bd737e872beae4dff536aa8270]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Technical format for data transmissions[^key-b391e2bd737e872beae4dff536aa8270]
+## Article 1. Indicative compendium of environmental goods and services and of economic activities[^c-b391e2bd737e872beae4dff536aa8270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Modalities, structure and periodicity of the quality reports[^key-b391e2bd737e872beae4dff536aa8270]
+## Article 2. Technical format for data transmissions[^c-b391e2bd737e872beae4dff536aa8270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b391e2bd737e872beae4dff536aa8270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-b391e2bd737e872beae4dff536aa8270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX[^key-b391e2bd737e872beae4dff536aa8270]
+## Article 3. Modalities, structure and periodicity of the quality reports[^c-b391e2bd737e872beae4dff536aa8270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b391e2bd737e872beae4dff536aa8270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b391e2bd737e872beae4dff536aa8270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-b391e2bd737e872beae4dff536aa8270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b391e2bd737e872beae4dff536aa8270] Environmental goods and services
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b391e2bd737e872beae4dff536aa8270] Environmental economic activities
+[^c-b391e2bd737e872beae4dff536aa8270] Environmental goods and services
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b391e2bd737e872beae4dff536aa8270] Environmental economic activities
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b391e2bd737e872beae4dff536aa8270]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 259](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/259); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b391e2bd737e872beae4dff536aa8270]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 259](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/259); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.20. Form of appeal notice[^key-0afdd218fef399e35a26d76c76f18056]
+## 50.20. Form of appeal notice[^c-0afdd218fef399e35a26d76c76f18056]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0afdd218fef399e35a26d76c76f18056]: Commencement: [Rule 50.20](https://www.legislation.gov.uk/uksi/2025/909/rule/50.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0afdd218fef399e35a26d76c76f18056]: Commencement: [Rule 50.20](https://www.legislation.gov.uk/uksi/2025/909/rule/50.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -20,20 +20,20 @@ summary: ''
 
 *Extent: S*
 
-(1) The Registrar General may, for the purposes of facilitating the carrying out of the functions of Health Boards, Public Health Scotland,[^key-1140bada4e5b98c667511ddbcd5b72dc] the Common Services Agency and local authorities, create and maintain, using the information mentioned in subsection (2), a register of individuals.
+(1) The Registrar General may, for the purposes of facilitating the carrying out of the functions of Health Boards, Public Health Scotland,[^c-1140bada4e5b98c667511ddbcd5b72dc] the Common Services Agency and local authorities, create and maintain, using the information mentioned in subsection (2), a register of individuals.
 
 (2) That information is—
 
 - (a) information contained in—
   - (i) the registers of births and deaths transmitted to the Registrar General under the 1965 Act;
   - (ii) the Adopted Children Register;
-- (b) such information as the Registrar General may direct a Health Board, Public Health Scotland[^key-9efe6afeff7134f00ef32b621db0032f] or the Common Services Agency to provide for the purposes of the creation and maintenance of the register referred to in subsection (1);
+- (b) such information as the Registrar General may direct a Health Board, Public Health Scotland[^c-9efe6afeff7134f00ef32b621db0032f] or the Common Services Agency to provide for the purposes of the creation and maintenance of the register referred to in subsection (1);
 - (c) information contained in a register of births, deaths or adoptions held by the Registrar General for England and Wales;
 - (d) information contained in a register held by a Minister of the Crown or a government department or an[^c20087441] NHS body which is a register of individuals which exists for the same purpose as, or a similar purpose to, a register created under subsection (1);
 - (e) information contained in a register held by the Northern Ireland Central Services Agency for the Health and Social Services which is a register of individuals which exists for the same purpose as, or a similar purpose to, a register created under subsection (1);
 - (f) such other information held by such persons, or persons within such descriptions, or contained in such places as may be prescribed.
 
-(2A)[^c20087461] In subsection (2)(d), “**NHS body**” has the same meaning as it has [^key-e0b98f42e0773673692210abf25500b4]... in the National Health Service Act 2006 (c. 41).
+(2A)[^c20087461] In subsection (2)(d), “**NHS body**” has the same meaning as it has [^c-e0b98f42e0773673692210abf25500b4]... in the National Health Service Act 2006 (c. 41).
 
 (3) An entry in a register created under subsection (1) may contain only the following information—
 
@@ -61,12 +61,12 @@ summary: ''
 
 ## Annotations
 
-[^key-1140bada4e5b98c667511ddbcd5b72dc]: Textual amendment: Words in s. 57(1) inserted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/5/2/a) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-1140bada4e5b98c667511ddbcd5b72dc]: Textual amendment: Words in s. 57(1) inserted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/5/2/a) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-9efe6afeff7134f00ef32b621db0032f]: Textual amendment: Words in s. 57(2)(b) inserted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/5/2/b) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-9efe6afeff7134f00ef32b621db0032f]: Textual amendment: Words in s. 57(2)(b) inserted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/5/2/b) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c20087441]: Textual amendment: Words in s. 57(2)(d) inserted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2007/18/section/60/2/a), [74](https://www.legislation.gov.uk/ukpga/2007/18/section/74); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c20087461]: Textual amendment: S. 57(2A) inserted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 60(2)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/60/2/b), [74](https://www.legislation.gov.uk/ukpga/2007/18/section/74); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-e0b98f42e0773673692210abf25500b4]: Textual amendment: Words in [s. 57(2A)](https://www.legislation.gov.uk/asp/2006/14/section/57/2A) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e0b98f42e0773673692210abf25500b4]: Textual amendment: Words in [s. 57(2A)](https://www.legislation.gov.uk/asp/2006/14/section/57/2A) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

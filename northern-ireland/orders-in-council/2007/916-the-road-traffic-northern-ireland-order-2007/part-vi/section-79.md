@@ -25,9 +25,9 @@ summary: ''
 (2) In the Transport Act (Northern Ireland) 1967 (c. 37)–
 
 - (a) in section 9(1) (fees for road service licences) the words “, with the approval of the Ministry of Finance,”;
-- (b)[^key-7f938b9996b33b245704308b7f9fa0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7f938b9996b33b245704308b7f9fa0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7f938b9996b33b245704308b7f9fa0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7f938b9996b33b245704308b7f9fa0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7f938b9996b33b245704308b7f9fa0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7f938b9996b33b245704308b7f9fa0f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the Order of 1981–
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f938b9996b33b245704308b7f9fa0f0]: Textual amendment: [Art. 79(2)(b)](https://www.legislation.gov.uk/nisi/2007/916/article/79/2/b)[(c)](https://www.legislation.gov.uk/nisi/2007/916/article/79/2/c)[(d)](https://www.legislation.gov.uk/nisi/2007/916/article/79/2/d) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-7f938b9996b33b245704308b7f9fa0f0]: Textual amendment: [Art. 79(2)(b)](https://www.legislation.gov.uk/nisi/2007/916/article/79/2/b)[(c)](https://www.legislation.gov.uk/nisi/2007/916/article/79/2/c)[(d)](https://www.legislation.gov.uk/nisi/2007/916/article/79/2/d) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

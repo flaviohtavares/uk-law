@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Power to remove person from the DVS register[^key-6af15f01a7bbd7d1f40d424b31197a46][^key-33dd396326df03a412d07869b3adb0fd]
+## 41. Power to remove person from the DVS register[^c-6af15f01a7bbd7d1f40d424b31197a46][^c-33dd396326df03a412d07869b3adb0fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6af15f01a7bbd7d1f40d424b31197a46]: Commencement: S. 41 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-6af15f01a7bbd7d1f40d424b31197a46]: Commencement: S. 41 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-33dd396326df03a412d07869b3adb0fd]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/18/section/41) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-33dd396326df03a412d07869b3adb0fd]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/18/section/41) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

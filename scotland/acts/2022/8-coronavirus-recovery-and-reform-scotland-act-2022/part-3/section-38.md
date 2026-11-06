@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Care services: giving of notices by SCSWIS[^key-33546dd3ea3c3aa36ee29a37d43a00a7]
+## 38. Care services: giving of notices by SCSWIS[^c-33546dd3ea3c3aa36ee29a37d43a00a7]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33546dd3ea3c3aa36ee29a37d43a00a7]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2022/8/section/38) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-33546dd3ea3c3aa36ee29a37d43a00a7]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2022/8/section/38) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

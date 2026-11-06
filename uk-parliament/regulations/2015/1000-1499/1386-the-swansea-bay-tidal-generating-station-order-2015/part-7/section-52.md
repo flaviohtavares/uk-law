@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Protection of interests[^key-921fee496c0c30b9065b90522b2ba9e3]
+## 52. Protection of interests[^c-921fee496c0c30b9065b90522b2ba9e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 8 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-921fee496c0c30b9065b90522b2ba9e3]: Commencement: Art. 52 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-921fee496c0c30b9065b90522b2ba9e3]: Commencement: Art. 52 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

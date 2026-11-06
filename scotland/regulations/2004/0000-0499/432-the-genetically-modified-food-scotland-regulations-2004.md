@@ -45,32 +45,32 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(a), (e) and (f), 17(2), 18(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001], and of all other powers enabling them in that behalf, and having had regard in accordance with section 48(4A)[^f00002] of that Act to relevant advice given by the Food Standards Agency, and after consultation in accordance with section 48(4) and (4B)[^f00003] of that Act, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-cf9b97bff0860930eaad6bc4fa7af37d]
+## 1. Citation, commencement and extent[^c-cf9b97bff0860930eaad6bc4fa7af37d]
 
 (1) These Regulations may be cited as the Genetically Modified Food (Scotland) Regulations 2004 and shall come into force on 15th November 2004.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-d44452371e9c92b80fad2baf824cc3a1]
+## 2. Interpretation[^c-d44452371e9c92b80fad2baf824cc3a1]
 
 In these Regulations–
 
 - (a) “the Act” means the Food Safety Act 1990;
   - “the Community Regulation” means Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed[^f00004];
-  - “food” has the same meaning as in the Act; [^key-5ca5b0105b66dafd6f0497a982b98a98]...
-  - “[^key-05b24d86610f16767277389ba03d090b]**third country**” means a country other than the United Kingdom; and
+  - “food” has the same meaning as in the Act; [^c-5ca5b0105b66dafd6f0497a982b98a98]...
+  - “[^c-05b24d86610f16767277389ba03d090b]**third country**” means a country other than the United Kingdom; and
   - “specified Community provision” means a provision of the Community Regulation specified in Column 1 and described in Column 2 of the Schedule to these Regulations; and
 - (b) any other expression used in these Regulations which is also used in the Community Regulation has the meaning given in the Community Regulation.
 
-## 3. Submission of applications for authorisation to market products[^key-03313f5839cde5c43fec537179c0400c]
+## 3. Submission of applications for authorisation to market products[^c-03313f5839cde5c43fec537179c0400c]
 
-The national competent authority for the purposes of Chapter II of the Community Regulation shall be the Food Standards Scotland[^key-cb199fde885caf160574dfc3bd0f4cb4].
+The national competent authority for the purposes of Chapter II of the Community Regulation shall be the Food Standards Scotland[^c-cb199fde885caf160574dfc3bd0f4cb4].
 
-## 4. Enforcement[^key-af517dd483c7ca8fb6ecc084d6c425b6]
+## 4. Enforcement[^c-af517dd483c7ca8fb6ecc084d6c425b6]
 
 It shall be the duty of each food authority to enforce and execute these Regulations and Chapter II of the Community Regulation within its area.
 
-## 5. Offences and penalties[^key-6bbde2310921d23eefd7d197bb7474b0]
+## 5. Offences and penalties[^c-6bbde2310921d23eefd7d197bb7474b0]
 
 (1) Any person who contravenes or fails to comply with any of the specified Community provisions referred to in Part I of the Schedule shall be guilty of an offence and liable–
 
@@ -79,7 +79,7 @@ It shall be the duty of each food authority to enforce and execute these Regulat
 
 (2) Any person who contravenes or fails to comply with any of the specified Community provisions referred to in Part II of the Schedule shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
 
-## 6. Application of various provisions of the Act[^key-624cad43e4c6c120f77bd8f5be53404c]
+## 6. Application of various provisions of the Act[^c-624cad43e4c6c120f77bd8f5be53404c]
 
 (1) The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in these sections to the Act or any Part thereof is deemed to be a reference to these Regulations and Chapter II of the Community Regulation:–
 
@@ -154,11 +154,11 @@ It shall be the duty of each food authority to enforce and execute these Regulat
 
 .
 
-## 7. Revocation[^key-b7e92adc45ab5c391a6423d028132fe6]
+## 7. Revocation[^c-b7e92adc45ab5c391a6423d028132fe6]
 
 The Genetically Modified and Novel Foods (Labelling) (Scotland) Regulations 2000[^f00006] are hereby revoked.
 
-## 8. Amendments to the Novel Foods and Novel Food Ingredients Regulations 1997[^key-dca225437cda286e17fbbfb0510a2d55]
+## 8. Amendments to the Novel Foods and Novel Food Ingredients Regulations 1997[^c-dca225437cda286e17fbbfb0510a2d55]
 
 In the Novel Foods and Novel Food Ingredients Regulations 1997[^f00007]–
 
@@ -181,19 +181,19 @@ St Andrew’s House, Edinburgh
 
 Regulations 2 and 5
 
-### PART I[^key-2dfd73df877ac0e4d37a7acad9d8aad5]
+### PART I[^c-2dfd73df877ac0e4d37a7acad9d8aad5]
 
 | Provision of the Community Regulation | Subject Matter |
 | --- | --- |
 | Article 4.2 | Prohibition on placing food on the market unless it is covered by an authorisation and satisfies relevant conditions of the authorisation. |
 
-### PART II[^key-0399b0716ee4b1300dbd9fca75c9ec33]
+### PART II[^c-0399b0716ee4b1300dbd9fca75c9ec33]
 
 | Provision of the Community Regulation | Subject Matter |
 | --- | --- |
-| [^key-e52e6d9981e6c1533355c7dda4d22e47]. . . | [^key-e52e6d9981e6c1533355c7dda4d22e47]. . . |
+| [^c-e52e6d9981e6c1533355c7dda4d22e47]. . . | [^c-e52e6d9981e6c1533355c7dda4d22e47]. . . |
 | Article 9.1 | Requirement that an authorisation holder and parties concerned must comply with any conditions or restrictions imposed on an authorisation for a product and with post market monitoring requirements. |
-| Article 9.3 | Requirement that an authorisation holder inform the Food Safety Authority[^key-d80f5ef37f15af59f09fc367acbdd0b0] of any new scientific or technical information relating to a product which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
+| Article 9.3 | Requirement that an authorisation holder inform the Food Safety Authority[^c-d80f5ef37f15af59f09fc367acbdd0b0] of any new scientific or technical information relating to a product which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
 | Article 13 | Requirement for certain labelling indications. |
 
 (This note is not part of the Regulations)
@@ -219,40 +219,40 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^f00003]: Footnote: Section 48(4B) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-cf9b97bff0860930eaad6bc4fa7af37d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2004/432/regulation/1) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-cf9b97bff0860930eaad6bc4fa7af37d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2004/432/regulation/1) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
-[^key-d44452371e9c92b80fad2baf824cc3a1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2004/432/regulation/2) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-d44452371e9c92b80fad2baf824cc3a1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2004/432/regulation/2) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
 [^f00004]: Footnote: O.J. No. L 268, 18.10.03, p.1.
 
-[^key-5ca5b0105b66dafd6f0497a982b98a98]: Textual amendment: Word in [reg. 2(a)](https://www.legislation.gov.uk/ssi/2004/432/regulation/2/a) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ca5b0105b66dafd6f0497a982b98a98]: Textual amendment: Word in [reg. 2(a)](https://www.legislation.gov.uk/ssi/2004/432/regulation/2/a) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05b24d86610f16767277389ba03d090b]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/ssi/2004/432/regulation/2/a) inserted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05b24d86610f16767277389ba03d090b]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/ssi/2004/432/regulation/2/a) inserted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03313f5839cde5c43fec537179c0400c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2004/432/regulation/3) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-03313f5839cde5c43fec537179c0400c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2004/432/regulation/3) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
-[^key-cb199fde885caf160574dfc3bd0f4cb4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2004/432/regulation/3) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 10](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/10)
+[^c-cb199fde885caf160574dfc3bd0f4cb4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2004/432/regulation/3) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 10](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/10)
 
-[^key-af517dd483c7ca8fb6ecc084d6c425b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2004/432/regulation/4) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-af517dd483c7ca8fb6ecc084d6c425b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2004/432/regulation/4) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
-[^key-6bbde2310921d23eefd7d197bb7474b0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2004/432/regulation/5) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-6bbde2310921d23eefd7d197bb7474b0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2004/432/regulation/5) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
-[^key-624cad43e4c6c120f77bd8f5be53404c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2004/432/regulation/6) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-624cad43e4c6c120f77bd8f5be53404c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2004/432/regulation/6) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
 [^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-b7e92adc45ab5c391a6423d028132fe6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2004/432/regulation/7) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-b7e92adc45ab5c391a6423d028132fe6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2004/432/regulation/7) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
 [^f00006]: Footnote: [S.S.I. 2000/83](https://www.legislation.gov.uk/ssi/2000/83).
 
-[^key-dca225437cda286e17fbbfb0510a2d55]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2004/432/regulation/8) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-dca225437cda286e17fbbfb0510a2d55]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2004/432/regulation/8) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335), amended by S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) and [3182](https://www.legislation.gov.uk/uksi/1999/3182) and [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62) and [83](https://www.legislation.gov.uk/ssi/2000/83).
 
-[^key-2dfd73df877ac0e4d37a7acad9d8aad5]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/I) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-2dfd73df877ac0e4d37a7acad9d8aad5]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/I) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
-[^key-0399b0716ee4b1300dbd9fca75c9ec33]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/II) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
+[^c-0399b0716ee4b1300dbd9fca75c9ec33]: Commencement: [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/II) in force at 15.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/432/regulation/1/1)
 
-[^key-e52e6d9981e6c1533355c7dda4d22e47]: Textual amendment: Words in [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/2) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e52e6d9981e6c1533355c7dda4d22e47]: Textual amendment: Words in [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/2) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d80f5ef37f15af59f09fc367acbdd0b0]: Textual amendment: Words in [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/2) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d80f5ef37f15af59f09fc367acbdd0b0]: Textual amendment: Words in [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2004/432/schedule/part/2) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

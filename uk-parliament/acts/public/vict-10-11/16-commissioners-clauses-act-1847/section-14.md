@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Declaration to be taken at the first meeting.[^c5651151][^key-e29e72cc875ae901dd64a395d2f1449d]
+## 14. Declaration to be taken at the first meeting.[^c5651151][^c-e29e72cc875ae901dd64a395d2f1449d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Every person elected or appointed a commissioner shall, at the meeting of commis
 
     [Ss. 14-16](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/14) incorporated (E.W.S.) (4.3.2002) by [S.I. 2002/306](https://www.legislation.gov.uk/uksi/2002/306), [art. 2](https://www.legislation.gov.uk/uksi/2002/306/article/2)
 
-[^key-e29e72cc875ae901dd64a395d2f1449d]: Modification: [Ss. 14-16](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/14) incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-e29e72cc875ae901dd64a395d2f1449d]: Modification: [Ss. 14-16](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/14) incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

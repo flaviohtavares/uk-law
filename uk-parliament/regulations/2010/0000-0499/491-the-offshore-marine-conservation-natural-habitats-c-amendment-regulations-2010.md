@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Offshore Marine Conservation (Natural Habitats, &c.) (Amendment) Regulations 2010 (revoked)[^key-d1a461946eac196259971d8faac5a56b]
+The Offshore Marine Conservation (Natural Habitats, &c.) (Amendment) Regulations 2010 (revoked)[^c-d1a461946eac196259971d8faac5a56b]
 
 Made
 
@@ -46,131 +46,131 @@ Coming into force
 
 1st April 2010
 
-[^key-d1a461946eac196259971d8faac5a56b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1a461946eac196259971d8faac5a56b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d1a461946eac196259971d8faac5a56b]
+## 1. Title and commencement[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^key-d1a461946eac196259971d8faac5a56b]
+## 2. Amendments to the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2[^key-d1a461946eac196259971d8faac5a56b]
+## 3. Amendments to regulation 2[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 6[^key-d1a461946eac196259971d8faac5a56b]
+## 4. Amendment to regulation 6[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to regulation 7[^key-d1a461946eac196259971d8faac5a56b]
+## 5. Amendments to regulation 7[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 8[^key-d1a461946eac196259971d8faac5a56b]
+## 6. Amendments to regulation 8[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to regulation 9[^key-d1a461946eac196259971d8faac5a56b]
+## 7. Amendments to regulation 9[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to regulation 11[^key-d1a461946eac196259971d8faac5a56b]
+## 8. Amendments to regulation 11[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to regulation 12[^key-d1a461946eac196259971d8faac5a56b]
+## 9. Amendments to regulation 12[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Classification of sites in the Scottish offshore region as special protection areas[^key-d1a461946eac196259971d8faac5a56b]
+## 10. Classification of sites in the Scottish offshore region as special protection areas[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendments to regulation 13[^key-d1a461946eac196259971d8faac5a56b]
+## 11. Amendments to regulation 13[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment to regulation 14[^key-d1a461946eac196259971d8faac5a56b]
+## 12. Amendment to regulation 14[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Hearings conducted by persons appointed by the Scottish Ministers[^key-d1a461946eac196259971d8faac5a56b]
+## 13. Hearings conducted by persons appointed by the Scottish Ministers[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendments to regulation 19[^key-d1a461946eac196259971d8faac5a56b]
+## 14. Amendments to regulation 19[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Co-ordinated management of sites[^key-d1a461946eac196259971d8faac5a56b]
+## 15. Co-ordinated management of sites[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendments to regulations 22 and 23[^key-d1a461946eac196259971d8faac5a56b]
+## 16. Amendments to regulations 22 and 23[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendments to regulation 26[^key-d1a461946eac196259971d8faac5a56b]
+## 17. Amendments to regulation 26[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendments to regulation 27[^key-d1a461946eac196259971d8faac5a56b]
+## 18. Amendments to regulation 27[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendments to regulation 28[^key-d1a461946eac196259971d8faac5a56b]
+## 19. Amendments to regulation 28[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment to regulation 29[^key-d1a461946eac196259971d8faac5a56b]
+## 20. Amendment to regulation 29[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Amendment to regulation 44[^key-d1a461946eac196259971d8faac5a56b]
+## 21. Amendment to regulation 44[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Amendment to regulation 46[^key-d1a461946eac196259971d8faac5a56b]
+## 22. Amendment to regulation 46[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Amendment to regulation 48[^key-d1a461946eac196259971d8faac5a56b]
+## 23. Amendment to regulation 48[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Amendments to regulation 49[^key-d1a461946eac196259971d8faac5a56b]
+## 24. Amendments to regulation 49[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendments to regulation 50[^key-d1a461946eac196259971d8faac5a56b]
+## 25. Amendments to regulation 50[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Amendments to regulation 52[^key-d1a461946eac196259971d8faac5a56b]
+## 26. Amendments to regulation 52[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Enforcement functions of wildlife officers appointed by the Scottish Ministers and competent authorities in Scotland[^key-d1a461946eac196259971d8faac5a56b]
+## 27. Enforcement functions of wildlife officers appointed by the Scottish Ministers and competent authorities in Scotland[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Amendments to regulation 67[^key-d1a461946eac196259971d8faac5a56b]
+## 28. Amendments to regulation 67[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 29. Amendments to regulation 69[^key-d1a461946eac196259971d8faac5a56b]
+## 29. Amendments to regulation 69[^c-d1a461946eac196259971d8faac5a56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1a461946eac196259971d8faac5a56b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1a461946eac196259971d8faac5a56b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d1a461946eac196259971d8faac5a56b]EXPLANATORY NOTE
+[^c-d1a461946eac196259971d8faac5a56b]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -212,7 +212,7 @@ A transposition note setting out how the amendments transpose the provisions of 
 
 ## Annotations
 
-[^key-d1a461946eac196259971d8faac5a56b]: Textual amendment: Regulations revoked (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [regs. 1, 83(c)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/83/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-d1a461946eac196259971d8faac5a56b]: Textual amendment: Regulations revoked (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [regs. 1, 83(c)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/83/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
 [^f00020]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 

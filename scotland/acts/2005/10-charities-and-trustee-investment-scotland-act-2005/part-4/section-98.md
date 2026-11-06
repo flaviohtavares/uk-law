@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Rate relief for registered community amateur sports clubs[^key-02f37cf11ed4eee0c6fb36e72a5c8f2d]
+## 98. Rate relief for registered community amateur sports clubs[^c-02f37cf11ed4eee0c6fb36e72a5c8f2d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f37cf11ed4eee0c6fb36e72a5c8f2d]: Commencement: S. 98 in force at 1.4.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)
+[^c-02f37cf11ed4eee0c6fb36e72a5c8f2d]: Commencement: S. 98 in force at 1.4.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/644/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. “Prospectus”, “MTF admission prospectus” and “supplementary prospectus”[^key-ac74f083a1486d3316d82a607f527920]
+## 21. “Prospectus”, “MTF admission prospectus” and “supplementary prospectus”[^c-ac74f083a1486d3316d82a607f527920]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac74f083a1486d3316d82a607f527920]: Commencement: Reg. 21 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-ac74f083a1486d3316d82a607f527920]: Commencement: Reg. 21 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

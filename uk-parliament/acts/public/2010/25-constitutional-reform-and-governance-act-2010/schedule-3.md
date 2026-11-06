@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Parliamentary Standards Act 2009: substituted Schedule 2[^key-c3f7351b12db9cf468e5fbf9e83cb808]
+## SCHEDULE 3 — Parliamentary Standards Act 2009: substituted Schedule 2[^c-c3f7351b12db9cf468e5fbf9e83cb808]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,4 +128,4 @@ Section 26
 
 ## Annotations
 
-[^key-c3f7351b12db9cf468e5fbf9e83cb808]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/3) in force at 19.4.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/c)
+[^c-c3f7351b12db9cf468e5fbf9e83cb808]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/3) in force at 19.4.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/c)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — ACCESS TO MARKED REGISTERS AND OTHER DOCUMENTS OPEN TO PUBLIC INSPECTION AFTER AN ELECTION[^key-31371df55974c814412b2a98ae4e436d]
+## SCHEDULE 8 — ACCESS TO MARKED REGISTERS AND OTHER DOCUMENTS OPEN TO PUBLIC INSPECTION AFTER AN ELECTION[^c-31371df55974c814412b2a98ae4e436d]
 
 *Extent: E+W+S+N.I.*
 
 Article 6(5)
 
-### 1. Interpretation of this Schedule[^key-1c4a553c947aa9bf9e7183fe679515f5]
+### 1. Interpretation of this Schedule[^c-1c4a553c947aa9bf9e7183fe679515f5]
 
 (1) In this Schedule references to the “marked register or lists” means any part of the marked copies of—
 
@@ -43,7 +43,7 @@ retained by the CRO under paragraph 30 of Schedule 4 (retention of postal ballot
 
 (3) Any duty of a CRO to supply records or lists or make them available for inspection under this Schedule imposes only a duty to provide that information in the form in which the CRO holds it.
 
-### 2. Supply of marked registers and lists after an election[^key-52f08fb963c51a55a2e4a8bf9fa84275]
+### 2. Supply of marked registers and lists after an election[^c-52f08fb963c51a55a2e4a8bf9fa84275]
 
 (1) Any person entitled to be supplied, in accordance with any of the provisions specified in sub-paragraph (2), with copies of the full register at the time of a Scottish parliamentary election is also a person entitled, subject to this paragraph and to paragraphs 4 and 5 (restrictions on supply, disclosure and use, etc), to request that a CRO supply copies of the relevant part (within the meaning of those provisions) of the marked register or lists the CRO is required to keep.
 
@@ -104,7 +104,7 @@ for use in respect of the purposes for which that person is entitled to obtain s
 
 (11) A processor may not disclose the marked register or lists or the information contained in them except to the person who supplied it to the processor or any other person, or an employee of such a person, who is entitled to obtain a copy of the marked register or lists under this Schedule.
 
-### 3. Inspection of documents open to public inspection[^key-f3257d43317c8d872b516369c11289fe]
+### 3. Inspection of documents open to public inspection[^c-f3257d43317c8d872b516369c11289fe]
 
 (1) Any person is entitled to request that the CRO make available for inspection a copy of any of the following documents (referred to in this Schedule as “the documents open to public inspection”)—
 
@@ -157,7 +157,7 @@ except that a person who inspects a copy of the marked register or lists may mak
 - (a) to the Security Service, the Government Communications Headquarters, or the Secret Intelligence Service;
 - (b) to a person who has inspected those documents and who is entitled to be supplied with a copy of the marked register or lists by virtue of being a person to whom regulation 108 of the 2001 Regulations applies.
 
-### 4. Restrictions on supply and disclosure of documents open to public inspection[^key-263c3e7e06fe5d6873a4ab2ae4fd52e1]
+### 4. Restrictions on supply and disclosure of documents open to public inspection[^c-263c3e7e06fe5d6873a4ab2ae4fd52e1]
 
 (1) This paragraph applies to—
 
@@ -171,7 +171,7 @@ except that a person who inspects a copy of the marked register or lists may mak
 
 otherwise than in accordance with this Schedule, or for the purposes of an election.
 
-### 5. Restriction on use of documents open to public inspection, or of information contained in them[^key-2776257381f4b12c17337afac0716f08]
+### 5. Restriction on use of documents open to public inspection, or of information contained in them[^c-2776257381f4b12c17337afac0716f08]
 
 (1) This paragraph applies to any person who has obtained access to a copy of the documents open to public inspection or information contained in them by any means.
 
@@ -193,7 +193,7 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 - (a) the prevention and detection of crime and the enforcement of the criminal law (whether in Scotland or elsewhere); or
 - (b) the vetting of a relevant person for the purpose of safeguarding national security.
 
-### 6. Calculating the fee for supply of marked registers or lists[^key-d7b38313e195f575cb6e5bb2f722bebc]
+### 6. Calculating the fee for supply of marked registers or lists[^c-d7b38313e195f575cb6e5bb2f722bebc]
 
 (1) The fee to be paid in accordance with paragraph 2(5)(b) by a person making a request for a copy of the whole or of any part of the marked register or lists is set out in sub-paragraph (2).
 
@@ -204,7 +204,7 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 (3) For the purposes of this paragraph, a request for a copy of the whole or the same part of the marked register or lists in both a printed and data form may be treated as two separate requests.
 
-### 7. Failure to comply with conditions relating to supply etc of certain documents[^key-855900dad86ec767451bf78f10e93cca]
+### 7. Failure to comply with conditions relating to supply etc of certain documents[^c-855900dad86ec767451bf78f10e93cca]
 
 (1) A person (“P”) is guilty of an offence—
 
@@ -229,15 +229,15 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 ## Annotations
 
-[^key-31371df55974c814412b2a98ae4e436d]: Modification: [Sch. 8](https://www.legislation.gov.uk/uksi/2010/2999/schedule/8) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/53)
+[^c-31371df55974c814412b2a98ae4e436d]: Modification: [Sch. 8](https://www.legislation.gov.uk/uksi/2010/2999/schedule/8) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/53)
 
-[^key-1c4a553c947aa9bf9e7183fe679515f5]: Commencement: Sch. 8 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1c4a553c947aa9bf9e7183fe679515f5]: Commencement: Sch. 8 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00108]: Footnote: See regulation 93(1) inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872).
 
 [^f00109]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-52f08fb963c51a55a2e4a8bf9fa84275]: Commencement: Sch. 8 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-52f08fb963c51a55a2e4a8bf9fa84275]: Commencement: Sch. 8 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00110]: Footnote: Regulation 99 was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872) and amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
@@ -247,14 +247,14 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 [^f00113]: Footnote: Regulation 112 was amended by [S.I. 2006/834](https://www.legislation.gov.uk/uksi/2006/834) and the Counter-Terrorism Act 2008.
 
-[^key-f3257d43317c8d872b516369c11289fe]: Commencement: Sch. 8 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f3257d43317c8d872b516369c11289fe]: Commencement: Sch. 8 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00114]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-263c3e7e06fe5d6873a4ab2ae4fd52e1]: Commencement: Sch. 8 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-263c3e7e06fe5d6873a4ab2ae4fd52e1]: Commencement: Sch. 8 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-2776257381f4b12c17337afac0716f08]: Commencement: Sch. 8 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2776257381f4b12c17337afac0716f08]: Commencement: Sch. 8 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-d7b38313e195f575cb6e5bb2f722bebc]: Commencement: Sch. 8 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d7b38313e195f575cb6e5bb2f722bebc]: Commencement: Sch. 8 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-855900dad86ec767451bf78f10e93cca]: Commencement: Sch. 8 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-855900dad86ec767451bf78f10e93cca]: Commencement: Sch. 8 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

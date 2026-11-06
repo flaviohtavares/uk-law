@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Crown application in relation to offences under section 84[^key-5fbdc1cfd58587ba883db4fb39f1564b]
+## 86. Crown application in relation to offences under section 84[^c-5fbdc1cfd58587ba883db4fb39f1564b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fbdc1cfd58587ba883db4fb39f1564b]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2021/15/section/86) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-5fbdc1cfd58587ba883db4fb39f1564b]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2021/15/section/86) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

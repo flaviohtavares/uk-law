@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Procedure etc for verifying identity[^key-9dc90f317444dd83945b45782db79483][^key-f2d4564a209c61a072601229ebc76ddc]
+## 65. Procedure etc for verifying identity[^c-9dc90f317444dd83945b45782db79483][^c-f2d4564a209c61a072601229ebc76ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9dc90f317444dd83945b45782db79483]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9dc90f317444dd83945b45782db79483]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-f2d4564a209c61a072601229ebc76ddc]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/56/section/65) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
+[^c-f2d4564a209c61a072601229ebc76ddc]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/56/section/65) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)

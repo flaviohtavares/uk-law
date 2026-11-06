@@ -20,27 +20,27 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2debcb8e8f8c410e63ad458df7e625b5] A local authority must make and publish arrangements for the purpose of ensuring that local authority meetings are able to be held by means of any equipment or other facility which—
+(1)[^c-2debcb8e8f8c410e63ad458df7e625b5] A local authority must make and publish arrangements for the purpose of ensuring that local authority meetings are able to be held by means of any equipment or other facility which—
 
 - (a) enables persons who are not in the same place to attend the meetings, and
 - (b) satisfies the conditions in subsection (2).
 
-(2)[^key-2debcb8e8f8c410e63ad458df7e625b5] The conditions are that the equipment or other facility enables persons—
+(2)[^c-2debcb8e8f8c410e63ad458df7e625b5] The conditions are that the equipment or other facility enables persons—
 
 - (a) in the case of local authority meetings that do not fall within paragraph (b), to speak to and be heard by each other (whether or not the equipment or facility enables those persons to see and be seen by each other), and
 - (b) in the case of meetings of a principal council required to be broadcast under section 46 (electronic broadcasts), or any other local authority meetings required to be broadcast by regulations made under that section, to speak to and be heard by each other and to see and be seen by each other.
 
-(3)[^key-2debcb8e8f8c410e63ad458df7e625b5] In the case of meetings of a joint committee of two or more local authorities, the authorities must make and publish arrangements under subsection (1) jointly.
+(3)[^c-2debcb8e8f8c410e63ad458df7e625b5] In the case of meetings of a joint committee of two or more local authorities, the authorities must make and publish arrangements under subsection (1) jointly.
 
-(4)[^key-2debcb8e8f8c410e63ad458df7e625b5] If a local authority revises or replaces arrangements made under subsection (1), it must publish the revised or new arrangements.
+(4)[^c-2debcb8e8f8c410e63ad458df7e625b5] If a local authority revises or replaces arrangements made under subsection (1), it must publish the revised or new arrangements.
 
-(5)[^key-2debcb8e8f8c410e63ad458df7e625b5] A local authority making arrangements required by subsection (1) must have regard to any guidance about the exercise of that function issued by the Welsh Ministers.
+(5)[^c-2debcb8e8f8c410e63ad458df7e625b5] A local authority making arrangements required by subsection (1) must have regard to any guidance about the exercise of that function issued by the Welsh Ministers.
 
-(6)[^key-2debcb8e8f8c410e63ad458df7e625b5] In this section—
+(6)[^c-2debcb8e8f8c410e63ad458df7e625b5] In this section—
 
 - “**local authority**” (“***awdurdod lleol***”) means—
   - (a) a principal council;
-  - (aa) a corporate joint committee;[^key-7c72d7bbf4c6fc928d65d1bbedc7a2bc]
+  - (aa) a corporate joint committee;[^c-7c72d7bbf4c6fc928d65d1bbedc7a2bc]
   - (b) a community council;
   - (c) a fire and rescue authority for an area in Wales;
   - (d) a National Park authority for a National Park in Wales;
@@ -53,24 +53,24 @@ summary: ''
 
   and, for the avoidance of doubt, includes a hearing held by a principal council's licensing committee established under section 6 of the Licensing Act 2003 (c. 17) or a sub-committee established by a licensing committee.
 
-(7)[^key-2debcb8e8f8c410e63ad458df7e625b5] A reference in any enactment to—
+(7)[^c-2debcb8e8f8c410e63ad458df7e625b5] A reference in any enactment to—
 
 - (a) the attendance, presence or appearance of a person at a local authority meeting includes, in relation to a meeting held by the means described in subsection (1), attendance, presence or appearance by use of those means;
 - (b) the place at which a local authority meeting is held is not to be read as limited to a single physical location.
 
-(8)[^key-8aa302f746c897ce47e8b9537266cf2e] The Welsh Ministers may by regulations amend this section so as to—
+(8)[^c-8aa302f746c897ce47e8b9537266cf2e] The Welsh Ministers may by regulations amend this section so as to—
 
 - (a) add to, amend or omit the conditions in subsection (2);
 - (b) add to the definition of “local authority” in subsection (6) a joint board which—
   - (i) is constituted under any enactment as a body corporate, and
   - (ii) discharges functions of two or more principal councils.
 
-(9)[^key-2debcb8e8f8c410e63ad458df7e625b5] Part 2 of Schedule 4 makes consequential amendments.
+(9)[^c-2debcb8e8f8c410e63ad458df7e625b5] Part 2 of Schedule 4 makes consequential amendments.
 
 ## Annotations
 
-[^key-2debcb8e8f8c410e63ad458df7e625b5]: Commencement: S. 47(1)-(7)(9) in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/354/article/2/a)
+[^c-2debcb8e8f8c410e63ad458df7e625b5]: Commencement: S. 47(1)-(7)(9) in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/354/article/2/a)
 
-[^key-7c72d7bbf4c6fc928d65d1bbedc7a2bc]: Textual amendment: Words in [s. 47(6)](https://www.legislation.gov.uk/asc/2021/1/section/47/6) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [28](https://www.legislation.gov.uk/wsi/2021/1349/regulation/28)
+[^c-7c72d7bbf4c6fc928d65d1bbedc7a2bc]: Textual amendment: Words in [s. 47(6)](https://www.legislation.gov.uk/asc/2021/1/section/47/6) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [28](https://www.legislation.gov.uk/wsi/2021/1349/regulation/28)
 
-[^key-8aa302f746c897ce47e8b9537266cf2e]: Commencement: S. 47(8) in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 2(f)](https://www.legislation.gov.uk/uksi/2021/231/article/2/f)
+[^c-8aa302f746c897ce47e8b9537266cf2e]: Commencement: S. 47(8) in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 2(f)](https://www.legislation.gov.uk/uksi/2021/231/article/2/f)

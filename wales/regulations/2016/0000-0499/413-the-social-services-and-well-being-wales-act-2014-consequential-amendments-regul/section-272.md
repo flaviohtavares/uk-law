@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**272.**[^key-11469deff65ef132e985cd4aeeb57b1c] In paragraph 4 of Schedule 5A (activity requirements relating to supervision orders) to the Policing and Crime Act 2009, in sub-paragraph (15)(b), for the definition of “social services functions” substitute—
+**272.**[^c-11469deff65ef132e985cd4aeeb57b1c] In paragraph 4 of Schedule 5A (activity requirements relating to supervision orders) to the Policing and Crime Act 2009, in sub-paragraph (15)(b), for the definition of “social services functions” substitute—
 
 > - “social services functions” means—
 >   - (a) in relation to a local authority in England, its social services functions within the meaning of the Local Authority Social Services Act 1970; and
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11469deff65ef132e985cd4aeeb57b1c]: Commencement: Reg. 272 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-11469deff65ef132e985cd4aeeb57b1c]: Commencement: Reg. 272 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

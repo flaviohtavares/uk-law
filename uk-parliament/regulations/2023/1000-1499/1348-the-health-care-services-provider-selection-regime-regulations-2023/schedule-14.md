@@ -22,40 +22,40 @@ summary: ''
 
 Regulation 14(5)(c)
 
-**1.**[^key-4ab3d5739fa86db6c9b644900a30c9c3] A statement that in the view of the relevant authority the modification was urgent.
+**1.**[^c-4ab3d5739fa86db6c9b644900a30c9c3] A statement that in the view of the relevant authority the modification was urgent.
 
-**2.**[^key-1d13b511457e9b57a8bf0e3d70585573] The contract title and reference.
+**2.**[^c-1d13b511457e9b57a8bf0e3d70585573] The contract title and reference.
 
-**3.**[^key-beec8f95c141c351405ae32fed7a387b] A description of the relevant health care services to which the contract relates, including the most relevant CPV code.
+**3.**[^c-beec8f95c141c351405ae32fed7a387b] A description of the relevant health care services to which the contract relates, including the most relevant CPV code.
 
-**4.**[^key-739ae266db8a1a197be061139387d8d0] The effective date of the modification.
+**4.**[^c-739ae266db8a1a197be061139387d8d0] The effective date of the modification.
 
-**5.**[^key-6a50b56844a8e3336bc0d410e41ed6a1] The nature of the modification, including any change in contract value or the length of contract.
+**5.**[^c-6a50b56844a8e3336bc0d410e41ed6a1] The nature of the modification, including any change in contract value or the length of contract.
 
-**6.**[^key-b53eb127513fcbbddeb742ba8a1268b7] Details of the decision-makers.
+**6.**[^c-b53eb127513fcbbddeb742ba8a1268b7] Details of the decision-makers.
 
-**7.**[^key-c3c220cf185084b60208cff569d12150] Any declared conflicts or potential conflicts of interest.
+**7.**[^c-c3c220cf185084b60208cff569d12150] Any declared conflicts or potential conflicts of interest.
 
-**8.**[^key-31d3e74eb3ec675ca50cb13f39db84c9] Information as to how any conflicts or potential conflicts of interest were managed.
+**8.**[^c-31d3e74eb3ec675ca50cb13f39db84c9] Information as to how any conflicts or potential conflicts of interest were managed.
 
-**9.**[^key-9f7c08b910cd95659dd528c35b1c90cf] The reasons why regulation 14 applied.
+**9.**[^c-9f7c08b910cd95659dd528c35b1c90cf] The reasons why regulation 14 applied.
 
 ## Annotations
 
-[^key-4ab3d5739fa86db6c9b644900a30c9c3]: Commencement: Sch. 14 para. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-4ab3d5739fa86db6c9b644900a30c9c3]: Commencement: Sch. 14 para. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-1d13b511457e9b57a8bf0e3d70585573]: Commencement: Sch. 14 para. 2 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-1d13b511457e9b57a8bf0e3d70585573]: Commencement: Sch. 14 para. 2 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-beec8f95c141c351405ae32fed7a387b]: Commencement: Sch. 14 para. 3 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-beec8f95c141c351405ae32fed7a387b]: Commencement: Sch. 14 para. 3 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-739ae266db8a1a197be061139387d8d0]: Commencement: Sch. 14 para. 4 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-739ae266db8a1a197be061139387d8d0]: Commencement: Sch. 14 para. 4 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-6a50b56844a8e3336bc0d410e41ed6a1]: Commencement: Sch. 14 para. 5 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-6a50b56844a8e3336bc0d410e41ed6a1]: Commencement: Sch. 14 para. 5 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-b53eb127513fcbbddeb742ba8a1268b7]: Commencement: Sch. 14 para. 6 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-b53eb127513fcbbddeb742ba8a1268b7]: Commencement: Sch. 14 para. 6 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-c3c220cf185084b60208cff569d12150]: Commencement: Sch. 14 para. 7 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-c3c220cf185084b60208cff569d12150]: Commencement: Sch. 14 para. 7 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-31d3e74eb3ec675ca50cb13f39db84c9]: Commencement: Sch. 14 para. 8 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-31d3e74eb3ec675ca50cb13f39db84c9]: Commencement: Sch. 14 para. 8 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-9f7c08b910cd95659dd528c35b1c90cf]: Commencement: Sch. 14 para. 9 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-9f7c08b910cd95659dd528c35b1c90cf]: Commencement: Sch. 14 para. 9 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

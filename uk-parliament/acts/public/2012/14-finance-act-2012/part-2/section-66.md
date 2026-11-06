@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Separate businesses for BLAGAB and other long-term business[^key-06dd3a7ea9a0310c67f71851e05da2fb]
+## 66. Separate businesses for BLAGAB and other long-term business[^c-06dd3a7ea9a0310c67f71851e05da2fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the company is to be treated for corporation tax purposes as carrying on a singl
 
 ## Annotations
 
-[^key-06dd3a7ea9a0310c67f71851e05da2fb]: Modification: S. 66 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/3008/regulation/8) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-06dd3a7ea9a0310c67f71851e05da2fb]: Modification: S. 66 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/3008/regulation/8) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

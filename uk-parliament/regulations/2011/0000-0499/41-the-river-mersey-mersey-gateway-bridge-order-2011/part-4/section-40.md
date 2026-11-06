@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Offences and power to make byelaws[^key-f7543aba0b4a30f76d6051acf150f2a1]
+## 40. Offences and power to make byelaws[^c-f7543aba0b4a30f76d6051acf150f2a1]
 
 *Extent: E+W+S*
 
@@ -116,6 +116,6 @@ shall be rebuttable evidence of the facts stated in the certificate.
 
 ## Annotations
 
-[^key-f7543aba0b4a30f76d6051acf150f2a1]: Commencement: Art. 40 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-f7543aba0b4a30f76d6051acf150f2a1]: Commencement: Art. 40 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00022]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).

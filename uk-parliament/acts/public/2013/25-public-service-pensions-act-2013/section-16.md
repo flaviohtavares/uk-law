@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Records[^key-2b088c22f88b95a76937814352d81d52][^key-9a0f465e0a2afb47dd6d6876f682dea4]
+## 16. Records[^c-2b088c22f88b95a76937814352d81d52][^c-9a0f465e0a2afb47dd6d6876f682dea4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b088c22f88b95a76937814352d81d52]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/25/section/16) in force at 1.11.2013 for specified purposes by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/b)
+[^c-2b088c22f88b95a76937814352d81d52]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/25/section/16) in force at 1.11.2013 for specified purposes by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/b)
 
-[^key-9a0f465e0a2afb47dd6d6876f682dea4]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/25/section/16) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/4/article/3/b)
+[^c-9a0f465e0a2afb47dd6d6876f682dea4]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/25/section/16) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/4/article/3/b)

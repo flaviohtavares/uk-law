@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Failure to maintain records[^key-c198acd69a86141f6d99240a7f6029c6]
+## 99. Failure to maintain records[^c-c198acd69a86141f6d99240a7f6029c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c198acd69a86141f6d99240a7f6029c6]: Commencement: Art. 99 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c198acd69a86141f6d99240a7f6029c6]: Commencement: Art. 99 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

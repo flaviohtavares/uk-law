@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Directions and guidance[^key-cf461ad7f9cac1e37a3230dd65564c21]
+## 94. Directions and guidance[^c-cf461ad7f9cac1e37a3230dd65564c21]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ as they think fit.
 
 ## Annotations
 
-[^key-cf461ad7f9cac1e37a3230dd65564c21]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2006/1/section/94) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-cf461ad7f9cac1e37a3230dd65564c21]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2006/1/section/94) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -53,13 +53,13 @@ In accordance with paragraph 4(a) of Schedule 2 to the European Union (Withdrawa
 
 As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23917281] there has been open and transparent public consultation during the preparation of these Regulations with regard to the amendment of the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 [^c23917291], the Eggs and Chicks (Wales) Regulations 2010 [^c23917301], the Poultrymeat (Wales) Regulations 2011 [^c23917311], the Food Information (Wales) (Amendment) (EU Exit) Regulations 2019 and the Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
-## 1. Title and commencement[^key-aceb1fbc91f92f83e50bcbaeb411f7e2]
+## 1. Title and commencement[^c-aceb1fbc91f92f83e50bcbaeb411f7e2]
 
 (1) The title of these Regulations is the Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019.
 
-(2) Save for regulations 1,[^key-36b3ac78ebc7a693fdf88110b63c39a3] 5 and 6 which come into force immediately before exit day, these Regulations come into force on exit day.
+(2) Save for regulations 1,[^c-36b3ac78ebc7a693fdf88110b63c39a3] 5 and 6 which come into force immediately before exit day, these Regulations come into force on exit day.
 
-## 2. Amendment of the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009[^key-f48ad7697bb374539f5611c5c3519345]
+## 2. Amendment of the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009[^c-f48ad7697bb374539f5611c5c3519345]
 
 In the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009, after regulation 22 insert—
 
@@ -67,7 +67,7 @@ In the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009, after 
 >
 > (1) Regulation 4 does not apply in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
 >
-> - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on the day on which IP completion day[^key-7936bbaab170132c2647c05a0f99a748] falls, and
+> - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on the day on which IP completion day[^c-7936bbaab170132c2647c05a0f99a748] falls, and
 > - (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
 >
 > (2) An authorised officer must not exercise the powers under regulation 11(1) in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
@@ -75,7 +75,7 @@ In the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009, after 
 > - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on the day on which IP completion day falls, and
 > - (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
 
-## 3. Amendment of the Eggs and Chicks (Wales) Regulations 2010[^key-ecb99b760b216f2107e0b568f49dc9e6]
+## 3. Amendment of the Eggs and Chicks (Wales) Regulations 2010[^c-ecb99b760b216f2107e0b568f49dc9e6]
 
 (1) The Eggs and Chicks (Wales) Regulations 2010 are amended as follows.
 
@@ -96,7 +96,7 @@ In the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009, after 
 
 (5) In Schedule 3, in the table, in row 1, in column 3, omit “national”.
 
-## 4. Amendment of the Poultrymeat (Wales) Regulations 2011[^key-4c498c5fc2e856d13968302c8a7e6d18]
+## 4. Amendment of the Poultrymeat (Wales) Regulations 2011[^c-4c498c5fc2e856d13968302c8a7e6d18]
 
 In the Poultrymeat (Wales) Regulations 2011, in regulation 2(1), at the appropriate place, insert the following definition—
 
@@ -106,13 +106,13 @@ In the Poultrymeat (Wales) Regulations 2011, in regulation 2(1), at the appropri
 >   - (c) the Bailiwick of Jersey;
 >   - (d) the Isle of Man.
 
-## 5. Amendment of the Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^key-ee1784b0d16433e8ad051c26292c9872]
+## 5. Amendment of the Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^c-ee1784b0d16433e8ad051c26292c9872]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Food Information (Wales) (Amendment) (EU Exit) Regulations 2019[^key-57f32d9bc4f13fc499eccce22ceb6d4c]
+## 6. Amendment of the Food Information (Wales) (Amendment) (EU Exit) Regulations 2019[^c-57f32d9bc4f13fc499eccce22ceb6d4c]
 
 **Not yet in force.**
 
@@ -158,18 +158,18 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23917311]: Marginal citation: [S.I. 2011/1719](https://www.legislation.gov.uk/uksi/2011/1719) (W. 195), amended by [S.I. 2013/3270](https://www.legislation.gov.uk/uksi/2013/3270) (W. 320). [S.I. 2011/1719](https://www.legislation.gov.uk/uksi/2011/1719) (W. 195) is also amended by [S.I. 2019/463](https://www.legislation.gov.uk/uksi/2019/463) (W. 111) and [S.I. 2019/732](https://www.legislation.gov.uk/uksi/2019/732) (W. 137) with these amendments coming into force on exit day.
 
-[^key-aceb1fbc91f92f83e50bcbaeb411f7e2]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
+[^c-aceb1fbc91f92f83e50bcbaeb411f7e2]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
 
-[^key-36b3ac78ebc7a693fdf88110b63c39a3]: Textual amendment: Word in reg. 1(2) inserted (17.12.2020) by The Direct Payments to [Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/uksi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2/b), [15](https://www.legislation.gov.uk/uksi/2020/1308/regulation/15)
+[^c-36b3ac78ebc7a693fdf88110b63c39a3]: Textual amendment: Word in reg. 1(2) inserted (17.12.2020) by The Direct Payments to [Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/uksi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2/b), [15](https://www.legislation.gov.uk/uksi/2020/1308/regulation/15)
 
-[^key-f48ad7697bb374539f5611c5c3519345]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
+[^c-f48ad7697bb374539f5611c5c3519345]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
 
-[^key-7936bbaab170132c2647c05a0f99a748]: Textual amendment: Words in reg. 2 substituted (10.12.2020) by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/2)
+[^c-7936bbaab170132c2647c05a0f99a748]: Textual amendment: Words in reg. 2 substituted (10.12.2020) by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/2)
 
-[^key-ecb99b760b216f2107e0b568f49dc9e6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
+[^c-ecb99b760b216f2107e0b568f49dc9e6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
 
-[^key-4c498c5fc2e856d13968302c8a7e6d18]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
+[^c-4c498c5fc2e856d13968302c8a7e6d18]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1308/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2)
 
-[^key-ee1784b0d16433e8ad051c26292c9872]: Textual amendment: Reg. 5 omitted (10.12.2020) by virtue of [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/3)
+[^c-ee1784b0d16433e8ad051c26292c9872]: Textual amendment: Reg. 5 omitted (10.12.2020) by virtue of [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/3)
 
-[^key-57f32d9bc4f13fc499eccce22ceb6d4c]: Textual amendment: Reg. 6 omitted (10.12.2020) by virtue of [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/4)
+[^c-57f32d9bc4f13fc499eccce22ceb6d4c]: Textual amendment: Reg. 6 omitted (10.12.2020) by virtue of [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/4)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-85cda32239bbed6425c9580a227e86b6] The register must contain the particulars set out in paragraphs (2) to (10).
+(1)[^c-85cda32239bbed6425c9580a227e86b6] The register must contain the particulars set out in paragraphs (2) to (10).
 
 (2) In relation to a prohibition notice served by the Welsh Ministers under section 110 of the Act—
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85cda32239bbed6425c9580a227e86b6]: Textual amendment: [Reg. 35(1)-(9)](https://www.legislation.gov.uk/wsi/2002/3188/regulation/35/1) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [2(16)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85cda32239bbed6425c9580a227e86b6]: Textual amendment: [Reg. 35(1)-(9)](https://www.legislation.gov.uk/wsi/2002/3188/regulation/35/1) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [2(16)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

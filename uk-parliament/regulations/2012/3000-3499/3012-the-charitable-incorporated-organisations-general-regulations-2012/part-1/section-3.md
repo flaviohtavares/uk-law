@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation: bodies corporate and associated bodies corporate[^key-598253b9e8176efe1693aecccbba2f9b]
+## 3. Interpretation: bodies corporate and associated bodies corporate[^c-598253b9e8176efe1693aecccbba2f9b]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ For the purposes of these Regulations—
 
 ## Annotations
 
-[^key-598253b9e8176efe1693aecccbba2f9b]: Commencement: Reg. 3 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-598253b9e8176efe1693aecccbba2f9b]: Commencement: Reg. 3 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). There are amendments to the Act not relevant to these Regulations.

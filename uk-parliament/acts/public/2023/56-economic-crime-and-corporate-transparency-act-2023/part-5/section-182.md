@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Money laundering: exiting and paying away exemptions[^key-0cac04e78e4f71a9f519b9e789210f48]
+## 182. Money laundering: exiting and paying away exemptions[^c-0cac04e78e4f71a9f519b9e789210f48]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cac04e78e4f71a9f519b9e789210f48]: Commencement: S. 182 in force at Royal Assent, see [s. 219(2)(f)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/f)
+[^c-0cac04e78e4f71a9f519b9e789210f48]: Commencement: S. 182 in force at Royal Assent, see [s. 219(2)(f)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/f)

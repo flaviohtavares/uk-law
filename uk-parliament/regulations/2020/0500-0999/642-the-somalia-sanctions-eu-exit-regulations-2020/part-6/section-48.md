@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Trade licences[^key-0d77411d4c84dd79062edb2673e8a353]
+## 48. Trade licences[^c-0d77411d4c84dd79062edb2673e8a353]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in Chapter 2 of Part 5 (Trade) and regulation 36 (enabling or f
 
 ## Annotations
 
-[^key-0d77411d4c84dd79062edb2673e8a353]: Commencement: Reg. 48 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-0d77411d4c84dd79062edb2673e8a353]: Commencement: Reg. 48 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

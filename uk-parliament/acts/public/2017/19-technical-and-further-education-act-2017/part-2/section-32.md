@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Education administration rules[^key-34369a542ab99f4ed72be32eaf334254]
+## 32. Education administration rules[^c-34369a542ab99f4ed72be32eaf334254]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34369a542ab99f4ed72be32eaf334254]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/19/section/32) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-34369a542ab99f4ed72be32eaf334254]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/19/section/32) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

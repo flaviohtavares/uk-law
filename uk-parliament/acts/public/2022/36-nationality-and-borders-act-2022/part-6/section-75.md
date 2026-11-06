@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Electronic travel authorisations[^key-2906c41a22323a0d498c173cd28a10f9][^key-871b849d23eab70523466d0fe83e5f3b][^key-1af81b3b6aa58e812e998e1432bec340][^key-55fd2f196f2ddb133c4ba65df0c09c2f]
+## 75. Electronic travel authorisations[^c-2906c41a22323a0d498c173cd28a10f9][^c-871b849d23eab70523466d0fe83e5f3b][^c-1af81b3b6aa58e812e998e1432bec340][^c-55fd2f196f2ddb133c4ba65df0c09c2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,10 +120,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2906c41a22323a0d498c173cd28a10f9]: Commencement: S. 75 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-2906c41a22323a0d498c173cd28a10f9]: Commencement: S. 75 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-871b849d23eab70523466d0fe83e5f3b]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/36/section/75) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/26)
+[^c-871b849d23eab70523466d0fe83e5f3b]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/36/section/75) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/26)
 
-[^key-1af81b3b6aa58e812e998e1432bec340]: Modification: [S. 75](https://www.legislation.gov.uk/ukpga/2022/36/section/75) extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Electronic Travel Authorisations) (Jersey) Order 2025 (S.I. 2025/1112)](https://www.legislation.gov.uk/uksi/2025/1112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1112/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1112/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1112/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1112/schedule/2)
+[^c-1af81b3b6aa58e812e998e1432bec340]: Modification: [S. 75](https://www.legislation.gov.uk/ukpga/2022/36/section/75) extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Electronic Travel Authorisations) (Jersey) Order 2025 (S.I. 2025/1112)](https://www.legislation.gov.uk/uksi/2025/1112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1112/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1112/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1112/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1112/schedule/2)
 
-[^key-55fd2f196f2ddb133c4ba65df0c09c2f]: Modification: [S. 75](https://www.legislation.gov.uk/ukpga/2022/36/section/75) extended in part (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2025 (S.I. 2025/1138)](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)
+[^c-55fd2f196f2ddb133c4ba65df0c09c2f]: Modification: [S. 75](https://www.legislation.gov.uk/ukpga/2022/36/section/75) extended in part (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2025 (S.I. 2025/1138)](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)

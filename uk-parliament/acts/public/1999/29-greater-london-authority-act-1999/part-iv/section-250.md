@@ -26,7 +26,7 @@ summary: ''
 - (b) to the Mayor, and
 - (c) to Transport for London.
 
-(2) The Committee shall make an annual report to the Assembly and the Secretary of State[^key-43d857a58b2c03bf9e68ad94651be2b7] .
+(2) The Committee shall make an annual report to the Assembly and the Secretary of State[^c-43d857a58b2c03bf9e68ad94651be2b7] .
 
 (3) Where the Assembly, the Mayor or Transport for London reach a decision with respect to matters dealt with in any recommendation received under subsection (1) above, the decision shall be notified to the Committee.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c12805801]: Modification: S. 250(1)(3) excluded (*temp.* from 28.6.2000 to the date defined in [S.I. 2000/1484](https://www.legislation.gov.uk/uksi/2000/1484), [art. 7(3)](https://www.legislation.gov.uk/uksi/2000/1484/article/7/3)) by [S.I. 2000/1484](https://www.legislation.gov.uk/uksi/2000/1484), [art. 7(2)](https://www.legislation.gov.uk/uksi/2000/1484/article/7/2)
 
-[^key-43d857a58b2c03bf9e68ad94651be2b7]: Textual amendment: Words in s. 250(2) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(8)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/8); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-43d857a58b2c03bf9e68ad94651be2b7]: Textual amendment: Words in s. 250(2) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(8)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/8); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

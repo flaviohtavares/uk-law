@@ -33,7 +33,7 @@ An Act to make it the duty of local authorities to abolish turnstiles in public 
 
 \[31st July 1963\][^c653765]
 
-## 1. Abolition of turnstiles.[^key-7e55aa27bb2b4c93d0e45b3034f2eceb]
+## 1. Abolition of turnstiles.[^c-7e55aa27bb2b4c93d0e45b3034f2eceb]
 
 (1) Every turnstile in any part of a public lavatory or public sanitary convenience controlled or managed by a local authority, or in any entrance or exit of such a public lavatory or convenience, shall be removed not later than six months after the passing of this Act; and after the passing of this Act no turnstile shall be installed in, or in any entrance or exit of, any such public lavatory or convenience.
 
@@ -55,7 +55,7 @@ An Act to make it the duty of local authorities to abolish turnstiles in public 
 
 [^c653765]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-7e55aa27bb2b4c93d0e45b3034f2eceb]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1963/32/section/1) excluded (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [6](https://www.legislation.gov.uk/ukla/2012/2/section/6)
+[^c-7e55aa27bb2b4c93d0e45b3034f2eceb]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1963/32/section/1) excluded (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [6](https://www.legislation.gov.uk/ukla/2012/2/section/6)
 
 [^c653771]: Textual amendment: Words substituted by virtue of (W.) [S.I. 1965/319](https://www.legislation.gov.uk/uksi/1965/319), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1965/319/article/2/1), [10(1)(a)](https://www.legislation.gov.uk/uksi/1965/319/article/10/1/a), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1965/319/schedule/1/part/I) and (E.) 1970/1681, arts. 2(1), 6(3)
 

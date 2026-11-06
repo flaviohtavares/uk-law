@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167.[^key-9ea50ce772548ed11d719285cec737da]
+## 167.[^c-9ea50ce772548ed11d719285cec737da]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In section 675 (interpretation) —
 
 ## Annotations
 
-[^key-9ea50ce772548ed11d719285cec737da]: Commencement: Reg. 167 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-9ea50ce772548ed11d719285cec737da]: Commencement: Reg. 167 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

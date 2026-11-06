@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217D. Relationship between this Part and Part 6[^key-278ba5eede2d2edf1444b4d060d7513c]
+## 217D. Relationship between this Part and Part 6[^c-278ba5eede2d2edf1444b4d060d7513c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the amount is not deductible under this Part, and nothing in this Part affects t
 
 ## Annotations
 
-[^key-278ba5eede2d2edf1444b4d060d7513c]: Textual amendment: Pt. 6A inserted (with effect in accordance with s. 22(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 22(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/22/5)
+[^c-278ba5eede2d2edf1444b4d060d7513c]: Textual amendment: Pt. 6A inserted (with effect in accordance with s. 22(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 22(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/22/5)

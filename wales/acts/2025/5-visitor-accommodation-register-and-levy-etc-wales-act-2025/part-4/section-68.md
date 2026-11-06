@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Short title[^key-87d7335d78c77eadc6414333af2182b6]
+## 68. Short title[^c-87d7335d78c77eadc6414333af2182b6]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-87d7335d78c77eadc6414333af2182b6]: Commencement: S. 68 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-87d7335d78c77eadc6414333af2182b6]: Commencement: S. 68 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

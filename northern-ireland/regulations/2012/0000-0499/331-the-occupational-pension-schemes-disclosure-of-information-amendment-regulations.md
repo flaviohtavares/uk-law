@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Occupational Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^key-158302fbfaa2a80046857aa3e23e5aa4]
+The Occupational Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^c-158302fbfaa2a80046857aa3e23e5aa4]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 1st October 2012
 
-[^key-158302fbfaa2a80046857aa3e23e5aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-158302fbfaa2a80046857aa3e23e5aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-158302fbfaa2a80046857aa3e23e5aa4]
+## 1. Citation, commencement and interpretation[^c-158302fbfaa2a80046857aa3e23e5aa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-158302fbfaa2a80046857aa3e23e5aa4]
+## 2. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-158302fbfaa2a80046857aa3e23e5aa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-158302fbfaa2a80046857aa3e23e5aa4]
+## 3. Revocations[^c-158302fbfaa2a80046857aa3e23e5aa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-158302fbfaa2a80046857aa3e23e5aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-158302fbfaa2a80046857aa3e23e5aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-158302fbfaa2a80046857aa3e23e5aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-158302fbfaa2a80046857aa3e23e5aa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-158302fbfaa2a80046857aa3e23e5aa4]: Textual amendment: Regulations revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-158302fbfaa2a80046857aa3e23e5aa4]: Textual amendment: Regulations revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)

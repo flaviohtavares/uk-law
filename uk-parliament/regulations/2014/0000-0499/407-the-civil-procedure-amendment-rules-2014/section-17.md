@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**17.**[^key-bab894621dab3f30e1c731bf03ee9c2a] In rule 42.1—
+**17.**[^c-bab894621dab3f30e1c731bf03ee9c2a] In rule 42.1—
 
 - (a) before “Where the address”, insert “(1)”;
 - (b) for “his” substitute “that party’s”; and
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bab894621dab3f30e1c731bf03ee9c2a]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2014/407/rule/17) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-bab894621dab3f30e1c731bf03ee9c2a]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2014/407/rule/17) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)

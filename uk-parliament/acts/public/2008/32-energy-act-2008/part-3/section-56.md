@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Protection of security under approved programme[^key-83fbfd9a222d6587cdd4e811241be81e]
+## 56. Protection of security under approved programme[^c-83fbfd9a222d6587cdd4e811241be81e]
 
 *Extent: E+W+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83fbfd9a222d6587cdd4e811241be81e]: Commencement: S. 56 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-83fbfd9a222d6587cdd4e811241be81e]: Commencement: S. 56 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Power to seize fish for purposes of forfeiture[^key-d8cdc3d43d586e756bd77ae413f69057]
+## 268. Power to seize fish for purposes of forfeiture[^c-d8cdc3d43d586e756bd77ae413f69057]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ to secure that the fish are not removed or otherwise interfered with until such 
 
 ## Annotations
 
-[^key-d8cdc3d43d586e756bd77ae413f69057]: Commencement: S. 268 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-d8cdc3d43d586e756bd77ae413f69057]: Commencement: S. 268 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Nothing in this Act shall be taken to impair the validity of creating, varying or discharging a real burden by the registering of a deed before the appointed day.
 
-(2)[^key-0a287e510e0dbdcd17e7c4552d78062f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0a287e510e0dbdcd17e7c4552d78062f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The repeal by this Act of section 32 of the Conveyancing (Scotland) Act 1874 (c. 94) does not affect the construction of the expression “deed of conditions” provided for in section 122(1) of this Act.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a287e510e0dbdcd17e7c4552d78062f]: Textual amendment: [S. 119(2)](https://www.legislation.gov.uk/asp/2003/9/section/119/2) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(10)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/10) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0a287e510e0dbdcd17e7c4552d78062f]: Textual amendment: [S. 119(2)](https://www.legislation.gov.uk/asp/2003/9/section/119/2) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(10)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/10) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c21073961]: Textual amendment: S. 119(9) omitted (23.10.2004) by virtue of [Tenements (Scotland) Act 2004 (asp 11)](https://www.legislation.gov.uk/asp/2004/11), [ss. 25](https://www.legislation.gov.uk/asp/2004/11/section/25), [34(3)](https://www.legislation.gov.uk/asp/2004/11/section/34/3), [Sch. 4 para. 18](https://www.legislation.gov.uk/asp/2004/11/schedule/4/paragraph/18) (with [s. 33](https://www.legislation.gov.uk/asp/2004/11/section/33))

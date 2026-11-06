@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Wardens.[^key-52204d6d12d1f2cd62a4c5b4c078d708][^key-81514baf2f6e51efd399e6b47d2d3936]
+## 18. Wardens.[^c-52204d6d12d1f2cd62a4c5b4c078d708][^c-81514baf2f6e51efd399e6b47d2d3936]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52204d6d12d1f2cd62a4c5b4c078d708]: Commencement: S. 18 in force at 21.6.2004 for W. by [S.I. 2004/1489](https://www.legislation.gov.uk/uksi/2004/1489), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/1489/article/2/a)
+[^c-52204d6d12d1f2cd62a4c5b4c078d708]: Commencement: S. 18 in force at 21.6.2004 for W. by [S.I. 2004/1489](https://www.legislation.gov.uk/uksi/2004/1489), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/1489/article/2/a)
 
-[^key-81514baf2f6e51efd399e6b47d2d3936]: Commencement: S. 18 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/e)
+[^c-81514baf2f6e51efd399e6b47d2d3936]: Commencement: S. 18 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/e)

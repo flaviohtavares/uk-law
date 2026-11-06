@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Residential leases[^key-dbfed403dee634d950aff4cb49b9013d]
+## 6. Residential leases[^c-dbfed403dee634d950aff4cb49b9013d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A lease is a “residential lease” if it is a lease of a house and the terms o
 
 ## Annotations
 
-[^key-dbfed403dee634d950aff4cb49b9013d]: Commencement: S. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-dbfed403dee634d950aff4cb49b9013d]: Commencement: S. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

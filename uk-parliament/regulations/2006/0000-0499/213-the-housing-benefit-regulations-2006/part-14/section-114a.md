@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 114A. Information to be provided to rent officers[^key-37c46e0374966a89952554be053a93be]
+## 114A. Information to be provided to rent officers[^c-37c46e0374966a89952554be053a93be]
 
 *Extent: E+W+S*
 
 (1) This paragraph applies to every claim for or award of housing benefit in the form of a rent allowance where the eligible rent has been, or is to be determined, in accordance with—
 
 - (a) regulation 12(3)(a) (rent) or 12C (eligible rent and maximum rent), as the case may require;
-- (b) regulation 12D[^key-3dc1afe1f4259a84dafaa9f27fed6474] (eligible rent and the maximum rent (LHA)) or any of regulations 12E to 12K (transitional protection for pathfinder cases), as the case may require; or
+- (b) regulation 12D[^c-3dc1afe1f4259a84dafaa9f27fed6474] (eligible rent and the maximum rent (LHA)) or any of regulations 12E to 12K (transitional protection for pathfinder cases), as the case may require; or
 - (c) regulations 12 (rent) and 13 (maximum rent) as set out in paragraph 5 of Schedule 3 to the Consequential Provisions Regulations.
 
 (2) No earlier than the first, and no later than the fifth, working day of every month a relevant authority shall provide the following information to the rent officer in relation to every claim for or award of housing benefit to which paragraph (1) applied in the preceding month—
@@ -100,7 +100,7 @@ summary: ''
 - (e) when the tenancy began and, if appropriate, when it ended;
 - (h) the landlord’s or letting agent’s name;
 - (i) the landlord’s or letting agent’s business address;
-- (j) whether the landlord is a housing association, private registered provider of social housing[^key-0dbac3d37f6e29fc158cab5e3e88f7ee] or registered social landlord; and
+- (j) whether the landlord is a housing association, private registered provider of social housing[^c-0dbac3d37f6e29fc158cab5e3e88f7ee] or registered social landlord; and
 - (k) such other information as the rent officer may reasonably require to make a determination.
 
 (9) In relation to the claimant and the other occupiers of the dwelling to which the claim or award relates, the relevant authority shall provide the following information—
@@ -108,7 +108,7 @@ summary: ''
 - (a) such information regarding the relationship of the claimant to the occupiers and the occupiers to each other, as is necessary for the rent officer to make the determination;
 - (b) the age and sex of each occupier under 18;
 - (c) whether the claimant is or may be a young individual; and
-- (ca)[^key-2d65f24b5a1c6d364bd5cae104a8f450] whether any person mentioned in regulation 13D(3A)(a)[^key-2f6e2535ccb8728aaa2df049cb04baf0] is a person who requires overnight care;
+- (ca)[^c-2d65f24b5a1c6d364bd5cae104a8f450] whether any person mentioned in regulation 13D(3A)(a)[^c-2f6e2535ccb8728aaa2df049cb04baf0] is a person who requires overnight care;
 - (d) any other information that is relevant to the rent officer in making the determination, including visits to the dwelling.
 
 (10) Where a rent officer serves a notice under article 5 (insufficient information) of the Rent Officers Order the relevant authority shall supply the further information required under this regulation, or confirm whether information already supplied is correct and, if it is not, supply the correct information.
@@ -126,12 +126,12 @@ summary: ''
 
 ## Annotations
 
-[^key-37c46e0374966a89952554be053a93be]: Textual amendment: Reg. 114A inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/3/2)
+[^c-37c46e0374966a89952554be053a93be]: Textual amendment: Reg. 114A inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/3/2)
 
-[^key-3dc1afe1f4259a84dafaa9f27fed6474]: Textual amendment: Words in reg. 114A(1)(b) substituted by SI 2007/2868 reg. 3(2) (as amended) (7.4.2008) by [The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2008/586/regulation/4/2/b)
+[^c-3dc1afe1f4259a84dafaa9f27fed6474]: Textual amendment: Words in reg. 114A(1)(b) substituted by SI 2007/2868 reg. 3(2) (as amended) (7.4.2008) by [The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2008/586/regulation/4/2/b)
 
-[^key-0dbac3d37f6e29fc158cab5e3e88f7ee]: Textual amendment: Words in reg. 114A(8)(j) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/53) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-0dbac3d37f6e29fc158cab5e3e88f7ee]: Textual amendment: Words in reg. 114A(8)(j) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/53) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-2d65f24b5a1c6d364bd5cae104a8f450]: Textual amendment: Reg. 114A(9)(ca) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/9)
+[^c-2d65f24b5a1c6d364bd5cae104a8f450]: Textual amendment: Reg. 114A(9)(ca) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/9)
 
-[^key-2f6e2535ccb8728aaa2df049cb04baf0]: Textual amendment: Words in reg. 114A(9)(ca) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/5)
+[^c-2f6e2535ccb8728aaa2df049cb04baf0]: Textual amendment: Words in reg. 114A(9)(ca) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/5)

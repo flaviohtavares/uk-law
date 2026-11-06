@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Protective work to buildings[^key-cf06a436d27f4a5193553bf6ba12b093]
+## 15. Protective work to buildings[^c-cf06a436d27f4a5193553bf6ba12b093]
 
 *Extent: E+W*
 
@@ -36,14 +36,14 @@ summary: ''
 
 (5) Before exercising—
 
-- (a) a power under paragraph (1)[^key-afc9396282c7177a6e7c001d0273c201] to carry out protective works to a building;
+- (a) a power under paragraph (1)[^c-afc9396282c7177a6e7c001d0273c201] to carry out protective works to a building;
 - (b) a power under paragraph ‎(3) to enter a building and land within its curtilage;
 - (c) a power under paragraph ‎(4)(a) to enter a building and land within its curtilage; or
 - (d) a power under paragraph ‎(4)(b) to enter land;
 
 the undertaker must, except in the case of emergency, serve on the owners and occupiers of the building or land not less than 14 days’ notice of its intention to exercise that power and, in a case falling within sub-paragraph ‎(a), ‎(c) or ‎(d), the notice must specify the protective works proposed to be carried out.
 
-(6) Where a notice is served under sub-paragraph ‎(5)(a), ‎(5)(c) or ‎(5)(d), the owner or occupier of the building or land concerned may, by serving a counter-notice within 10 days beginning with the day on which the notice was served, require the question of whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 42[^key-2f8f226cfc93e289808eb417b4c136f0] (arbitration).
+(6) Where a notice is served under sub-paragraph ‎(5)(a), ‎(5)(c) or ‎(5)(d), the owner or occupier of the building or land concerned may, by serving a counter-notice within 10 days beginning with the day on which the notice was served, require the question of whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 42[^c-2f8f226cfc93e289808eb417b4c136f0] (arbitration).
 
 (7) The undertaker must compensate the owners and occupiers of any building or land in relation to which powers under this article have been exercised for any loss or damage arising to them by reason of the exercise of the powers.
 
@@ -67,10 +67,10 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-cf06a436d27f4a5193553bf6ba12b093]: Commencement: Art. 15 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-cf06a436d27f4a5193553bf6ba12b093]: Commencement: Art. 15 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-afc9396282c7177a6e7c001d0273c201]: Textual amendment: Words in [art. 15(5)(a)](https://www.legislation.gov.uk/uksi/2024/564/article/15/5/a) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-afc9396282c7177a6e7c001d0273c201]: Textual amendment: Words in [art. 15(5)(a)](https://www.legislation.gov.uk/uksi/2024/564/article/15/5/a) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-2f8f226cfc93e289808eb417b4c136f0]: Textual amendment: Words in [art. 15(6)](https://www.legislation.gov.uk/uksi/2024/564/article/15/6) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-2f8f226cfc93e289808eb417b4c136f0]: Textual amendment: Words in [art. 15(6)](https://www.legislation.gov.uk/uksi/2024/564/article/15/6) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
 [^f00037]: Footnote: Section 13 was amended by section 139 of, and paragraph 28(2) of Schedule 13 and paragraph 1 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

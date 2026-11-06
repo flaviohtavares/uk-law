@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 15(1) and (3)(a) and 82(3)(a) of the Health and Safety at Work etc.Act 1974[^f00001] and sections 1(2)(a) and 2(2)(a) of the Offshore Safety Act 1992[^f00002] and of all other powers enabling him in that behalf, and for the purpose of giving effect without modifications to the proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the said Act of 1974 after the carrying out by the Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-49e7bd08158a19ea01e8561dc14f9d14]
+## 1. Citation and commencement[^c-49e7bd08158a19ea01e8561dc14f9d14]
 
 (1) These Regulations may be cited as the Offshore Safety (Repeals and Modifications) Regulations 1993.
 
 (2) These Regulations shall come into force on 23rd August 1993.
 
-## 2. Interpretation[^key-1ae34297be4f52a15145009404664939]
+## 2. Interpretation[^c-1ae34297be4f52a15145009404664939]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
 - “the 1987 Act” means the Petroleum Act 1987[^f00007];
 - “the Executive” means the Health and Safety Executive.
 
-## 3. Repeals and revocations[^key-ebb433de383d8ab846b66617be87b80d]
+## 3. Repeals and revocations[^c-ebb433de383d8ab846b66617be87b80d]
 
 (1) In the 1971 Act, the following are hereby repealed, namely—
 
@@ -84,7 +84,7 @@ In these Regulations—
 
 (4) The Offshore Installations (Public Inquiries) Regulations 1974[^f00008] and the Submarine Pipe-lines (Diving Operations) Regulations 1976[^f00009] are hereby revoked.
 
-## 4. Modifications with respect to Executive and Commission[^key-7e12a1f4c285eb6d82b63af68452adec]
+## 4. Modifications with respect to Executive and Commission[^c-7e12a1f4c285eb6d82b63af68452adec]
 
 (1) In sections 25 and 37(1) of the 1962 Act, references to the Minister shall be construed as references to the Executive.
 
@@ -103,7 +103,7 @@ In these Regulations—
 
 (6) In regulations 2(1) and 3(1) and (4) of the Submarine Pipe-lines (Inspectors etc.) Regulations 1977[^f00010], after “the Secretary of State” in each case there shall be inserted “or the Executive”.
 
-## 5. Modifications with respect to inspectors[^key-0bd697f507e824f3b32ad0e55c5efae3]
+## 5. Modifications with respect to inspectors[^c-0bd697f507e824f3b32ad0e55c5efae3]
 
 (1) Subject to paragraph (2) below, in any provision of an enactment, instrument or other document, references to an inspector appointed under—
 
@@ -118,7 +118,7 @@ shall, unless the contrary intention appears, be construed as references to an i
 
 > (2A) For the purpose of enforcing regulations made under subsection (2) above, an inspector appointed under subsection (1) above shall have the same powers under section 38 of the Health and Safety at Work etc. Act 1974 (institution of proceedings in England and Wales) as he would have if he were an inspector appointed by the Health and Safety Executive under section 19 of that Act who is authorised to act for the purposes of the regulations.
 
-## 6. Savings[^key-4c0ee6386dbb428de945b1c7fd126373]
+## 6. Savings[^c-4c0ee6386dbb428de945b1c7fd126373]
 
 (1) Regulations made under any provision repealed by these Regulations and in force immediately before the coming into force of these Regulations shall, subject to regulation 3(4) above, continue in force notwithstanding the repeal of that provision.
 
@@ -134,7 +134,7 @@ Department of Employment
 
 19th July 1993
 
-## THE SCHEDULE — MODIFICATION OF INSTRUMENTS[^key-e022abc64dfabf59f10b1b68012a4934]
+## THE SCHEDULE — MODIFICATION OF INSTRUMENTS[^c-e022abc64dfabf59f10b1b68012a4934]
 
 Regulation 4(5)
 
@@ -175,9 +175,9 @@ The Regulations also contain savings provisions *(regulation 6).*
 
 [^f00002]: Footnote: [1992 c. 15](https://www.legislation.gov.uk/ukpga/1992/15).
 
-[^key-49e7bd08158a19ea01e8561dc14f9d14]: Commencement: Reg. 1 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-49e7bd08158a19ea01e8561dc14f9d14]: Commencement: Reg. 1 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
 
-[^key-1ae34297be4f52a15145009404664939]: Commencement: Reg. 2 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-1ae34297be4f52a15145009404664939]: Commencement: Reg. 2 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
 
 [^f00003]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).
 
@@ -189,18 +189,18 @@ The Regulations also contain savings provisions *(regulation 6).*
 
 [^f00007]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12).
 
-[^key-ebb433de383d8ab846b66617be87b80d]: Commencement: Reg. 3 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-ebb433de383d8ab846b66617be87b80d]: Commencement: Reg. 3 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
 
 [^f00008]: Footnote: S.I. [1974/338](https://www.legislation.gov.uk/uksi/1974/338).
 
 [^f00009]: Footnote: S.I. [1976/923](https://www.legislation.gov.uk/uksi/1976/923).
 
-[^key-7e12a1f4c285eb6d82b63af68452adec]: Commencement: Reg. 4 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-7e12a1f4c285eb6d82b63af68452adec]: Commencement: Reg. 4 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
 
 [^f00010]: Footnote: S.I. [1977/835](https://www.legislation.gov.uk/uksi/1977/835), to which there are amendments not relevant to these Regulations.
 
-[^key-0bd697f507e824f3b32ad0e55c5efae3]: Commencement: Reg. 5 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-0bd697f507e824f3b32ad0e55c5efae3]: Commencement: Reg. 5 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
 
-[^key-4c0ee6386dbb428de945b1c7fd126373]: Commencement: Reg. 6 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-4c0ee6386dbb428de945b1c7fd126373]: Commencement: Reg. 6 in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
 
-[^key-e022abc64dfabf59f10b1b68012a4934]: Commencement: Sch. in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)
+[^c-e022abc64dfabf59f10b1b68012a4934]: Commencement: Sch. in force at 23.8.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2)

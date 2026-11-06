@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259DC. Hybrid transfer deduction/non-inclusion mismatches and their extent[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259DC. Hybrid transfer deduction/non-inclusion mismatches and their extent[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) section 441 of CTA 2009 (loan relationships for unallowable purposes);
 - (b) Part 4 (transfer pricing);
 - (c) this Part;
-- (d)[^key-208d9f7c5a36b680af8d3e76d7f6e61b] Part 10 (corporate interest restriction).
+- (d)[^c-208d9f7c5a36b680af8d3e76d7f6e61b] Part 10 (corporate interest restriction).
 
 (6) Case 2 applies where there are one or more amounts of ordinary income (“under-taxed amounts”) that—
 
@@ -88,6 +88,6 @@ where—
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-208d9f7c5a36b680af8d3e76d7f6e61b]: Textual amendment: S. 259DC(5)(d) substituted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/19)
+[^c-208d9f7c5a36b680af8d3e76d7f6e61b]: Textual amendment: S. 259DC(5)(d) substituted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/19)

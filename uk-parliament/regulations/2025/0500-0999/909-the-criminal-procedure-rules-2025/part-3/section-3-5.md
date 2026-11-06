@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.5. The court’s case management powers[^key-b6b4960e01c98523addf478a24751150]
+## 3.5. The court’s case management powers[^c-b6b4960e01c98523addf478a24751150]
 
 *Extent: E+W*
 
@@ -94,7 +94,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b4960e01c98523addf478a24751150]: Commencement: [Rule 3.5](https://www.legislation.gov.uk/uksi/2025/909/rule/3.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b6b4960e01c98523addf478a24751150]: Commencement: [Rule 3.5](https://www.legislation.gov.uk/uksi/2025/909/rule/3.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00095]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 19 was amended by section 166 of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 45 of, and Schedule 6 to, the Legal Aid Act [1988 (c. 34)](https://www.legislation.gov.uk/ukpga/1988/34), section 7 of, and paragraph 8 of Schedule 3 to, the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25), section 24 of, and paragraphs 27 and 28 of Schedule 4 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), sections 40 and 67 of, and paragraph 4 of Schedule 7 to, the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), section 165 of, and paragraph 99 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 378 of, and paragraph 107 of Schedule 16 to, the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), section 6 of, and paragraph 32 of Schedule 4 and paragraphs 1 and 5 of Schedule 27 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and paragraphs 22 and 23 of Schedule 5, and paragraphs 1 and 5 and Part 4 of Schedule 7, to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

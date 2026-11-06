@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — (ANNEX 1 TO THE CABLEWAY INSTALLATIONS DIRECTIVE)[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+## SCHEDULE 1 — (ANNEX 1 TO THE CABLEWAY INSTALLATIONS DIRECTIVE)[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Regulation 2(5)
 
-### SUBSYSTEMS OF AN INSTALLATION[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+### SUBSYSTEMS OF AN INSTALLATION[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.1.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.1.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.2.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.2.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.3.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.3.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.1.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.1.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.2.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.2.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.3.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.3.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.4.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.4.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.1.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.1.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.2.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.2.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.3.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.3.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.1.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.1.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.2.**[^key-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.2.**[^c-12b586cc1abd1828e2b0ba53b2b299b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/a) (with [regs. 5(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/5/4), [6(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/6/4))
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/a) (with [regs. 5(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/5/4), [6(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/6/4))

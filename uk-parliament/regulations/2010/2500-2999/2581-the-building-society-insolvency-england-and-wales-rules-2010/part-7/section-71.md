@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Secured creditors[^key-5b812f6176578709103720f465c17f90]
+## 71. Secured creditors[^c-5b812f6176578709103720f465c17f90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.88 of the 1986 Rules.
 
 ## Annotations
 
-[^key-5b812f6176578709103720f465c17f90]: Commencement: Rule 71 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-5b812f6176578709103720f465c17f90]: Commencement: Rule 71 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Retention of title creditors[^key-72f5907915a211f2536d03a5e0d1fa05]
+## 28. Retention of title creditors[^c-72f5907915a211f2536d03a5e0d1fa05]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purpose of entitlement to vote at a creditors’ meeting in PPP administ
 
 ## Annotations
 
-[^key-72f5907915a211f2536d03a5e0d1fa05]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2007/3141/rule/28) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-72f5907915a211f2536d03a5e0d1fa05]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2007/3141/rule/28) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

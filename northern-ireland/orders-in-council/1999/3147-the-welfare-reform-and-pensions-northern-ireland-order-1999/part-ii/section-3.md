@@ -22,7 +22,7 @@ summary: ''
 
 (1) A pension scheme is a stakeholder pension scheme for the purposes of this Part if it is registered as such a scheme under Article 4 and each of the following is fulfilled, namely—
 
-- (a) the conditions set out in paragraphs (2) to (9)[^key-dede3440d615ff0497b500d6d1abeed0] ; and
+- (a) the conditions set out in paragraphs (2) to (9)[^c-dede3440d615ff0497b500d6d1abeed0] ; and
 - (b) such other conditions as may be prescribed.
 
 (2) The first condition is that the scheme is established under a trust or in such other way as may be prescribed.
@@ -52,11 +52,11 @@ may be used to defray the administrative expenses of the scheme, to pay commissi
 
 (9)[^c19640211] The eighth condition is that the scheme is a registered pension scheme under section 153 of the Finance Act 2004.
 
-(10)[^key-1482cb4df1835d06bfbfccd06957d6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-1482cb4df1835d06bfbfccd06957d6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dede3440d615ff0497b500d6d1abeed0]: Textual amendment: Words in art. 3(1)(a) substituted (having effect as from 6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 37(a)](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/37/a) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-dede3440d615ff0497b500d6d1abeed0]: Textual amendment: Words in art. 3(1)(a) substituted (having effect as from 6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 37(a)](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/37/a) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
 
 [^c17090001]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
@@ -66,4 +66,4 @@ may be used to defray the administrative expenses of the scheme, to pay commissi
 
 [^c19640211]: Textual amendment: Art. 3(9) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [art. 16(2)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/16/2/b)
 
-[^key-1482cb4df1835d06bfbfccd06957d6d0]: Textual amendment: Art. 3(10) repealed (having effect as from 6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 37(b)](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/37/b), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-1482cb4df1835d06bfbfccd06957d6d0]: Textual amendment: Art. 3(10) repealed (having effect as from 6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 37(b)](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/37/b), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)

@@ -40,7 +40,7 @@ Coming into Operation
 
 4th October 1976
 
-The Secretary of State for Social Services, in exercise of powers conferred upon him by section 115(1) of, and Schedule 13 to, the Social Security Act 1975 and of all other powers enabling him in that behalf, after reference to the National Insurance Advisory Committee, hereby makes the following regulations:—[^key-d735e3f0f9728a66498d4bc83b7c516d]
+The Secretary of State for Social Services, in exercise of powers conferred upon him by section 115(1) of, and Schedule 13 to, the Social Security Act 1975 and of all other powers enabling him in that behalf, after reference to the National Insurance Advisory Committee, hereby makes the following regulations:—[^c-d735e3f0f9728a66498d4bc83b7c516d]
 
 ## 1. Citation, commencement and interpretation
 
@@ -49,83 +49,83 @@ The Secretary of State for Social Services, in exercise of powers conferred upon
 (2) In these regulations, unless the context otherwise requires—
 
 - “**the Act**” means the Social Security Act 1975;
-- “[^key-c55607875c1693ec8296b5c15c2ea779]**the Contributions and Benefits Act**” means the Social Security Contributions and Benefits Act 1992;
+- “[^c-c55607875c1693ec8296b5c15c2ea779]**the Contributions and Benefits Act**” means the Social Security Contributions and Benefits Act 1992;
 - “**doctor**” means a registered medical practitioner;
-- “[^key-fd90c9e37e932977ff4a7c6125e00e86]**healthcare professional**” means a person, not being the patient, who is—
+- “[^c-fd90c9e37e932977ff4a7c6125e00e86]**healthcare professional**” means a person, not being the patient, who is—
   - (a) a registered medical practitioner;
   - (b) a registered nurse;
   - (c) a registered occupational therapist or registered physiotherapist;
   - (d) a registered pharmacist within the meaning of article 3 of the Pharmacy Order 2010;
-- “[^key-cf1df7d2715a8a1714ab7ec292bea383]**the Employment and Support Allowance Regulations**” means the Employment and Support Allowance Regulations 2008;
-- “limited capability for work” has the meaning—[^key-11a469117fbb516d9ea1d218319fac2b]
+- “[^c-cf1df7d2715a8a1714ab7ec292bea383]**the Employment and Support Allowance Regulations**” means the Employment and Support Allowance Regulations 2008;
+- “limited capability for work” has the meaning—[^c-11a469117fbb516d9ea1d218319fac2b]
   - (a) for the purposes of employment and support allowance, given in section 1(4) of the Welfare Reform Act 2007; and
   - (b) for the purposes of universal credit, given in section 37 of the Welfare Reform Act 2012;
-- “limited capability for work assessment” means the assessment of whether a person has limited capability for work—[^key-d8dfb8ff0e97b9b2246ad6f0c255ab13]
+- “limited capability for work assessment” means the assessment of whether a person has limited capability for work—[^c-d8dfb8ff0e97b9b2246ad6f0c255ab13]
   - (a) for the purposes of old style ESA, under Part 5 of the Employment and Support Allowance Regulations;
   - (b) for the purposes of new style ESA, under Part 4 of the Employment and Support Allowance Regulations 2013;
   - (c) for the purposes of universal credit, under Part 5 of the Universal Credit Regulations 2013;
-- “[^key-7422a2ead807cd72a5dccd6922d23494]**personal capability assessment**” means the assessment provided for in section 171C of the Contributions and Benefits Act;
-- [^key-9a786fb9951c011f0b55259121080d59]...
-- “[^key-c0e47749db941e55f8eb38511d3ff0e7]**registered midwife**” means a midwife who is registered as a midwife with the Nursing and Midwifery Council under the Nursing and Midwifery Order 2001;
+- “[^c-7422a2ead807cd72a5dccd6922d23494]**personal capability assessment**” means the assessment provided for in section 171C of the Contributions and Benefits Act;
+- [^c-9a786fb9951c011f0b55259121080d59]...
+- “[^c-c0e47749db941e55f8eb38511d3ff0e7]**registered midwife**” means a midwife who is registered as a midwife with the Nursing and Midwifery Council under the Nursing and Midwifery Order 2001;
 - “**signature**” means, in relation to any statement or certificate given in accordance with these regulations, the name by which the person giving that statement or certificate, as the case may be, is usually known (any name other than the surname being either in full or otherwise indicated) written by that person in his own handwriting; and “**signed**” shall be construed accordingly.
 
 (3) Any reference in these regulations to any provisions made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modification.
 
 (4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply in relation to this instrument and in relation to the revocation effected by it as if this instrument, the regulations revoked by it and regulations revoked by the regulations so revoked were Acts of Parliament, and as if each revocation were a repeal.
 
-(5)[^key-ede857a7b43e76c6dc2d9fb2a2c7ea6f] For the purposes of the definition of “limited capability for work assessment” in paragraph (2)—
+(5)[^c-ede857a7b43e76c6dc2d9fb2a2c7ea6f] For the purposes of the definition of “limited capability for work assessment” in paragraph (2)—
 
 - (a) “old style ESA” means an allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance; and
 - (b) “new style ESA” means an allowance under Part 1 of the Welfare Reform Act 2007 as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance.
 
-## 2. Evidence of incapacity for work, limited capability for work and confinement[^key-f86987e346c79c3552e3e46dcfc79171]
+## 2. Evidence of incapacity for work, limited capability for work and confinement[^c-f86987e346c79c3552e3e46dcfc79171]
 
-(1)[^key-714b6f1d9ef702ccf205ba9df66009a7] Subject to regulation 5 and paragraph (1A) below, where a person claims to be entitled to any benefit, allowance or advantage (other than industrial injuries benefit or statutory sick pay) and entitlement to that benefit, allowance or advantage depends on that person being incapable of work or having limited capability for work, then in respect of each day until that person has been assessed for the purposes of the personal capability assessment or the limited capability for work assessment they shall provide evidence of such incapacity or limited capability by means of a statement given by a healthcare professional[^key-31e2aa163fa91bdb861f7f14bed4bf2b] in accordance with the rules set out in Part 1 of Schedule 1 to these Regulations.
+(1)[^c-714b6f1d9ef702ccf205ba9df66009a7] Subject to regulation 5 and paragraph (1A) below, where a person claims to be entitled to any benefit, allowance or advantage (other than industrial injuries benefit or statutory sick pay) and entitlement to that benefit, allowance or advantage depends on that person being incapable of work or having limited capability for work, then in respect of each day until that person has been assessed for the purposes of the personal capability assessment or the limited capability for work assessment they shall provide evidence of such incapacity or limited capability by means of a statement given by a healthcare professional[^c-31e2aa163fa91bdb861f7f14bed4bf2b] in accordance with the rules set out in Part 1 of Schedule 1 to these Regulations.
 
 (1A) Where it would be unreasonable to require a person to provide a statement in accordance with paragraph (1) above that person shall provide such other evidence as may be sufficient to show that they are incapable of work or have limited capability for work so that they should refrain (or should have refrained) from work by reason of some specific disease or bodily or mental disability.
 
-(2) Every person to whom paragraph (1) applies who has not been assessed for the purposes of the[^key-05cdd9d3a66fc833bff8bd93c9f929f4] personal capability assessment[^key-a892636bde728e9fdc115ee346323e20] or the limited capability for work assessment[^key-4087912c2df6002df9e246a6ae4a1b4f] shall, before he returns to work, furnish evidence of the date on which he will become fit to resume work either in accordance with rule 10 of Part I of Schedule 1 to these regulations, or by such other means as may be sufficient in the circumstances of the case.
+(2) Every person to whom paragraph (1) applies who has not been assessed for the purposes of the[^c-05cdd9d3a66fc833bff8bd93c9f929f4] personal capability assessment[^c-a892636bde728e9fdc115ee346323e20] or the limited capability for work assessment[^c-4087912c2df6002df9e246a6ae4a1b4f] shall, before he returns to work, furnish evidence of the date on which he will become fit to resume work either in accordance with rule 10 of Part I of Schedule 1 to these regulations, or by such other means as may be sufficient in the circumstances of the case.
 
 (3) Every woman who claims maternity benefit shall furnish evidence—
 
 - (a) where the claim is made in respect of expectation of confinement, that she is pregnant and as to the stage which she has reached in her pregnancy; or
 - (b) where the claim is made by virtue of the fact of confinement, that she has been confined,
 
-and shall furnish such evidence by means of a maternity certificate[^key-db2b50a59b6454901df81c60ba33aefb] given by a doctor or by a registered midwife not earlier than the beginning of the 20th week before the week in which she is expected to be confined,[^key-f34bdacf17d307db70fc138d19dc6748] in accordance with the rules set out in Part I of Schedule 2 to these regulations in the appropriate form as set out in Part II of that Schedule or by such other means as may be sufficient in the circumstances of any particular case.
+and shall furnish such evidence by means of a maternity certificate[^c-db2b50a59b6454901df81c60ba33aefb] given by a doctor or by a registered midwife not earlier than the beginning of the 20th week before the week in which she is expected to be confined,[^c-f34bdacf17d307db70fc138d19dc6748] in accordance with the rules set out in Part I of Schedule 2 to these regulations in the appropriate form as set out in Part II of that Schedule or by such other means as may be sufficient in the circumstances of any particular case.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations 1975[^key-82e7a2e7da469cfda7984465066bc80e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Transitional provisions and revocation[^key-0377b8c10c3c93ec5865332679815e58]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations 1975[^c-82e7a2e7da469cfda7984465066bc80e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Self-certificate for first 7 days of a spell of incapacity for work or limited capability for work[^key-4832dec867de6f50d10e52aad1351e61][^key-a73cdfdd6e40f8c6ae45a51f0293f7ed]
+## 4. Transitional provisions and revocation[^c-0377b8c10c3c93ec5865332679815e58]
 
-(1)[^key-23028ff1cfb56e548bf471db68baca54] The evidence of incapacity[^key-ab87b2c872c0294a08ebb3e971e21ba4] or limited capability for work[^key-0fe33a91741f68fc84a3ff37b352bd4e] required for the purposes of determining entitlement to a benefit, allowance or advantage referred to in regulation 2(1)–
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) for a spell of incapacity which lasts less than 8 days, [^key-cfb74573f25538c6c3e0585c397fa586]...
+## 5. Self-certificate for first 7 days of a spell of incapacity for work or limited capability for work[^c-4832dec867de6f50d10e52aad1351e61][^c-a73cdfdd6e40f8c6ae45a51f0293f7ed]
+
+(1)[^c-23028ff1cfb56e548bf471db68baca54] The evidence of incapacity[^c-ab87b2c872c0294a08ebb3e971e21ba4] or limited capability for work[^c-0fe33a91741f68fc84a3ff37b352bd4e] required for the purposes of determining entitlement to a benefit, allowance or advantage referred to in regulation 2(1)–
+
+- (a) for a spell of incapacity which lasts less than 8 days, [^c-cfb74573f25538c6c3e0585c397fa586]...
 - (b) in respect of any of the first 7 days of a longer spell of incapacity;
-- (c)[^key-2b15371f5c0fd0ead91e7c27d8c4f040] for a period of limited capability for work which lasts less than 8 days; or
+- (c)[^c-2b15371f5c0fd0ead91e7c27d8c4f040] for a period of limited capability for work which lasts less than 8 days; or
 - (d) in respect of any of the first 7 days of a longer period of limited capability for work,
 
-- may consist of a self certificate instead of a certificate in the form of a statement in writing given by a healthcare professional[^key-64de3fec77de80ae0fd576dd37c3124b] in accordance with regulation 2(1).
+- may consist of a self certificate instead of a certificate in the form of a statement in writing given by a healthcare professional[^c-64de3fec77de80ae0fd576dd37c3124b] in accordance with regulation 2(1).
 
 (2) For the purpose of this regulation-
 
-- “[^key-e4a3fac57b972fc2e359208a84bd2230]**self-certificate**” means either—
+- “[^c-e4a3fac57b972fc2e359208a84bd2230]**self-certificate**” means either—
   - (i) a declaration made by the claimant in writing, on a form approved for the purpose by the Secretary of State; or
   - (ii) where the claimant has made a claim for employment and support allowance in accordance with regulation 4G of the Social Security (Claims and Payments) Regulations 1987, an oral declaration by the claimant,
 
   that the claimant has been unfit for work from a date or for a period specified in the declaration and may include a statement that the claimant expects to continue to be unfit for work on days subsequent to the date on which it is made;.
-- “spell of incapacity” has the meaning given to it by section 171B(3) of the[^key-47f235d249b3dd8bb0420ba28626baca] Contributions and Benefits Act.
+- “spell of incapacity” has the meaning given to it by section 171B(3) of the[^c-47f235d249b3dd8bb0420ba28626baca] Contributions and Benefits Act.
 
 David Ennals
 
 Secretary of State for Social Services
 
-## SCHEDULE 1[^key-d646109ec544dc906b21814e45db287c]
+## SCHEDULE 1[^c-d646109ec544dc906b21814e45db287c]
 
 Regulation 2(1)
 
@@ -133,134 +133,134 @@ Regulation 2(1)
 
 **1.** In these rules, unless the context otherwise requires—
 
-- “assessment” means either a consultation between a patient and a healthcare professional[^key-c18c1e4028aca543ecec98c562704894] which takes place in person or by telephone or a consideration by a healthcare professional of a written report by another healthcare professional or other health [^key-2a97d39d78f59ecfb2aece8dee0a35e9]...professional;
+- “assessment” means either a consultation between a patient and a healthcare professional[^c-c18c1e4028aca543ecec98c562704894] which takes place in person or by telephone or a consideration by a healthcare professional of a written report by another healthcare professional or other health [^c-2a97d39d78f59ecfb2aece8dee0a35e9]...professional;
 - “condition” means a specific disease or bodily or mental disability;
-- [^key-b9c6f50db55d939d03292b9311718c5c]...
-- “ other health professional[^key-4708a6dc572c812361eb70cd81018ece] ” means a person (other than a healthcare professional[^key-4509cb60776091d9f99ffaea254c509d] and not being the patient) who is[^key-c1b846507aeecfaf0a832818a4af89c7]..., a registered midwife, [^key-eb8a2176fe1a295374f4877d331eadd2]... or a member of any profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002;
+- [^c-b9c6f50db55d939d03292b9311718c5c]...
+- “ other health professional[^c-4708a6dc572c812361eb70cd81018ece] ” means a person (other than a healthcare professional[^c-4509cb60776091d9f99ffaea254c509d] and not being the patient) who is[^c-c1b846507aeecfaf0a832818a4af89c7]..., a registered midwife, [^c-eb8a2176fe1a295374f4877d331eadd2]... or a member of any profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002;
 - “patient” means the person in respect of whom a statement is given in accordance with these rules.
 
-**2.** Where a healthcare professional[^key-9c4f212af3320499a2cea37a07c9650e] issues a statement to a patient in accordance with an obligation arising under a contract, agreement or arrangement under Part 4 of the National Health Service Act 2006 or Part 4 of the National Health Service (Wales) Act 2006 or Part 1 of the National Health Service (Scotland) Act 1978 the healthcare professional’s[^key-5615ff863ede724e48cb645fc16beb4e] statement shall be in a form set out at Part 2 or Part 2A[^key-3ed3c9f9daaebed45244ad7e19b867e7] of this Schedule[^key-e05678ea0f597fa5901ae74cc0ac64a6]....
+**2.** Where a healthcare professional[^c-9c4f212af3320499a2cea37a07c9650e] issues a statement to a patient in accordance with an obligation arising under a contract, agreement or arrangement under Part 4 of the National Health Service Act 2006 or Part 4 of the National Health Service (Wales) Act 2006 or Part 1 of the National Health Service (Scotland) Act 1978 the healthcare professional’s[^c-5615ff863ede724e48cb645fc16beb4e] statement shall be in a form set out at Part 2 or Part 2A[^c-3ed3c9f9daaebed45244ad7e19b867e7] of this Schedule[^c-e05678ea0f597fa5901ae74cc0ac64a6]....
 
-**3.** Where a healthcare professional[^key-f2c60ca0b2e2daea9c8c9ba947b85374] issues a statement in any case other than in accordance with rule 2, the healthcare professional’s[^key-51f6ee7b96e3b72270f8eee84e855098] statement shall be in the form set out in Part 2 or Part 2A[^key-d86ad5c883e95d7b25aef2b9945c9f5f] of this Schedule or in a form to like effect[^key-2c8a42af8de23213614b58d9372d33f8]....
+**3.** Where a healthcare professional[^c-f2c60ca0b2e2daea9c8c9ba947b85374] issues a statement in any case other than in accordance with rule 2, the healthcare professional’s[^c-51f6ee7b96e3b72270f8eee84e855098] statement shall be in the form set out in Part 2 or Part 2A[^c-d86ad5c883e95d7b25aef2b9945c9f5f] of this Schedule or in a form to like effect[^c-2c8a42af8de23213614b58d9372d33f8]....
 
-**4.** A healthcare professional’s[^key-73c21481cacb6856cabd5e2f46408212] statement must be based on an assessment made by that healthcare professional[^key-6fbc7dfbee7817602efa2800c0db051a] .
+**4.** A healthcare professional’s[^c-73c21481cacb6856cabd5e2f46408212] statement must be based on an assessment made by that healthcare professional[^c-6fbc7dfbee7817602efa2800c0db051a] .
 
-**5.** A healthcare professional’s[^key-01f7838ed803616d922689dd036a214c] statement[^key-c81744de88292a809cc0e5e6f9a2bdaf]... shall contain the following particulars—
+**5.** A healthcare professional’s[^c-01f7838ed803616d922689dd036a214c] statement[^c-c81744de88292a809cc0e5e6f9a2bdaf]... shall contain the following particulars—
 
 - (a) the patient’s name;
 - (b) the date of the assessment (whether by consultation or consideration of a report as the case may be) on which the healthcare professional’s statement is based;
-- (c) the condition in respect of which the healthcare professional[^key-02d084c537424b3cd1f781d9286a738f] advises the patient they are not fit for work;
+- (c) the condition in respect of which the healthcare professional[^c-02d084c537424b3cd1f781d9286a738f] advises the patient they are not fit for work;
 - (d) a statement, where the healthcare professional considers it appropriate, that the patient may be fit for work;
 - (e) a statement that the healthcare professional will or, as the case may be will not, need to assess the patient’s fitness for work again;
 - (f) the date on which the healthcare professional’s statement is given;
-- (g) the address of the healthcare professional ;[^key-d8abe29e902e76a48ae805f65d789458] and[^key-7d334a6b3d5bdde7ad945dab7dcc324f]
-- (h) the name of the[^key-f4929fba345eda3dad4376dcd4c83482] healthcare professional (whether in the form of a signature or otherwise); and[^key-34de327e378f713d0524ccd0eeb271ac]
-- (i)[^key-40376e5af240224126ada14fd5c490a6] the profession of the healthcare professional
+- (g) the address of the healthcare professional ;[^c-d8abe29e902e76a48ae805f65d789458] and[^c-7d334a6b3d5bdde7ad945dab7dcc324f]
+- (h) the name of the[^c-f4929fba345eda3dad4376dcd4c83482] healthcare professional (whether in the form of a signature or otherwise); and[^c-34de327e378f713d0524ccd0eeb271ac]
+- (i)[^c-40376e5af240224126ada14fd5c490a6] the profession of the healthcare professional
 
-[^key-1e5ab0b7ca97375a53742e86796671c0]...
+[^c-1e5ab0b7ca97375a53742e86796671c0]...
 
-**5A.**[^key-26efac5828cf4617b7fae57192e9f8b7] Where the healthcare professional’s statement is in the form set out in Part 2 of this Schedule—
+**5A.**[^c-26efac5828cf4617b7fae57192e9f8b7] Where the healthcare professional’s statement is in the form set out in Part 2 of this Schedule—
 
 - (a) the healthcare professional’s name shall, irrespective of their profession, be recorded next to the words “doctor’s signature”;
 - (b) the healthcare professional’s address shall, irrespective of their profession, be recorded next to the words “doctor’s address”; and
 - (c) the healthcare professional shall record their profession within the statement in such place as appears to them to be appropriate.
 
-**6.** Subject to rule 8, the condition in respect of which the healthcare professional[^key-9a3cc2f9747f9bc29d0fec645a6be324] is advising the patient is not fit for work or, as the case may be, which has caused the patient’s absence from work shall be specified as precisely as the healthcare professional’s[^key-6a5a1376aaf05b8da5801a9e6e96f215] knowledge of the patient’s condition at the time of the assessment permits.
+**6.** Subject to rule 8, the condition in respect of which the healthcare professional[^c-9a3cc2f9747f9bc29d0fec645a6be324] is advising the patient is not fit for work or, as the case may be, which has caused the patient’s absence from work shall be specified as precisely as the healthcare professional’s[^c-6a5a1376aaf05b8da5801a9e6e96f215] knowledge of the patient’s condition at the time of the assessment permits.
 
-**7.** Where a healthcare professional[^key-ba32d0a63801756aae1b8cacf4645bdd] considers that a patient may be fit for work the healthcare professional shall state the reasons for that advice and where this is considered appropriate, the arrangements which the patient might make, with their employer’s agreement, to return to work.
+**7.** Where a healthcare professional[^c-ba32d0a63801756aae1b8cacf4645bdd] considers that a patient may be fit for work the healthcare professional shall state the reasons for that advice and where this is considered appropriate, the arrangements which the patient might make, with their employer’s agreement, to return to work.
 
-**8.** The condition may be specified less precisely where, in the healthcare professional’s[^key-35c094c15258e490832b50a9750ecbd6] opinion, disclosure of the precise condition would be prejudicial to the patient’s well-being, or to the patient’s position with their employer.
+**8.** The condition may be specified less precisely where, in the healthcare professional’s[^c-35c094c15258e490832b50a9750ecbd6] opinion, disclosure of the precise condition would be prejudicial to the patient’s well-being, or to the patient’s position with their employer.
 
-**9.** A healthcare professional’s[^key-c342b00318d7d6078a3e4e24f9bded01] statement may be given on a date after the date of the assessment on which it is based, however no further statement shall be furnished in respect of that assessment other than a healthcare professional’s statement by way of replacement of an original which has been lost, in which case it shall be clearly marked “duplicate”.
+**9.** A healthcare professional’s[^c-c342b00318d7d6078a3e4e24f9bded01] statement may be given on a date after the date of the assessment on which it is based, however no further statement shall be furnished in respect of that assessment other than a healthcare professional’s statement by way of replacement of an original which has been lost, in which case it shall be clearly marked “duplicate”.
 
-**10.** Where, in the healthcare professional’s[^key-2b1f87d930f63e4f37db9596dc070bbf] opinion, the patient will become fit for work on a day not later than 14 days after the date of the assessment on which the healthcare professional’s statement is based, the healthcare professional’s statement shall specify that day.
+**10.** Where, in the healthcare professional’s[^c-2b1f87d930f63e4f37db9596dc070bbf] opinion, the patient will become fit for work on a day not later than 14 days after the date of the assessment on which the healthcare professional’s statement is based, the healthcare professional’s statement shall specify that day.
 
-**11.** Subject to rules 12 and 13, the healthcare professional’s[^key-a6d3714a7e77542925887659cda5f1f5] statement shall specify the minimum period for which, in the healthcare professional’s opinion, the patient will not be fit for work or, as the case may be, for which they may be fit for work.
+**11.** Subject to rules 12 and 13, the healthcare professional’s[^c-a6d3714a7e77542925887659cda5f1f5] statement shall specify the minimum period for which, in the healthcare professional’s opinion, the patient will not be fit for work or, as the case may be, for which they may be fit for work.
 
-**12.** The period specified shall begin on the date of the assessment on which the healthcare professional’s[^key-6fa3b599902a9d2364c39141a2ed060c] statement is based and shall not exceed 3 months unless the patient has, on the advice of a healthcare professional[^key-3f51656b62e6f9f69e369e7b7fba0d1d] , refrained from work for at least 6 months immediately preceding that date.
+**12.** The period specified shall begin on the date of the assessment on which the healthcare professional’s[^c-6fa3b599902a9d2364c39141a2ed060c] statement is based and shall not exceed 3 months unless the patient has, on the advice of a healthcare professional[^c-3f51656b62e6f9f69e369e7b7fba0d1d] , refrained from work for at least 6 months immediately preceding that date.
 
 **13.** Where—
 
-- (a) the patient has been advised by a healthcare professional[^key-6adfd4aa67e67a2d4fb83ba8f9d5286b] that they are not fit for work and, in consequence, has refrained from work for at least 6 months immediately preceding the date of the assessment on which the healthcare professional’s[^key-a04267ce9b10bb8078da2e51df03e33d] statement is based; and
+- (a) the patient has been advised by a healthcare professional[^c-6adfd4aa67e67a2d4fb83ba8f9d5286b] that they are not fit for work and, in consequence, has refrained from work for at least 6 months immediately preceding the date of the assessment on which the healthcare professional’s[^c-a04267ce9b10bb8078da2e51df03e33d] statement is based; and
 - (b) in the healthcare professional’s opinion, the patient will not be fit for work for the foreseeable future,
 
 instead of specifying a period, the healthcare professional may, having regard to the circumstances of the particular case, enter, after the words “case for”, the words “an indefinite period”.
 
-### PART 2 — FORM OF healthcare professional’s STATEMENT[^key-b8a693ecee21408cf1ff0efd8ac3cf44]
+### PART 2 — FORM OF healthcare professional’s STATEMENT[^c-b8a693ecee21408cf1ff0efd8ac3cf44]
 
 |  |  |
 | --- | --- |
 | [image: see source](https://www.legislation.gov.uk/uksi/1976/615/images/uksi_19760615_en_epp_003) |  |
 
-### PART 2A — ALTERNATIVE FORM OF healthcare professional’s STATEMENT[^key-bf1ef9ba3bdcb3a4e8d83c17c95c17ec][^key-869076aad2c17349bf3a360d524d5d32]
+### PART 2A — ALTERNATIVE FORM OF healthcare professional’s STATEMENT[^c-bf1ef9ba3bdcb3a4e8d83c17c95c17ec][^c-869076aad2c17349bf3a360d524d5d32]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1976/615/images/uksi_19760615_en_epp_004.gif)
 
  
 
-## SCHEDULE 1A[^key-9c46d34870866c93354a0824393cd3d2]
+## SCHEDULE 1A[^c-9c46d34870866c93354a0824393cd3d2]
 
 **No longer in force.**
 
 Regulation 2(1)
 
-### PART I — rules[^key-9c46d34870866c93354a0824393cd3d2]
+### PART I — rules[^c-9c46d34870866c93354a0824393cd3d2]
 
-**1.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9c46d34870866c93354a0824393cd3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — form of special statement[^key-9c46d34870866c93354a0824393cd3d2]
+### PART II — form of special statement[^c-9c46d34870866c93354a0824393cd3d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1B[^key-32bca7443b3736b15bd9c308697eaa20]
+## SCHEDULE 1B[^c-32bca7443b3736b15bd9c308697eaa20]
 
 **No longer in force.**
 
 Regulation 2(1)(c)
 
-### PART I — Rules[^key-32bca7443b3736b15bd9c308697eaa20]
+### PART I — Rules[^c-32bca7443b3736b15bd9c308697eaa20]
 
-**1.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-32bca7443b3736b15bd9c308697eaa20]
+### PART II[^c-32bca7443b3736b15bd9c308697eaa20]
 
 FORM OF DOCTOR'S STATEMENT
 
-### PART III — The Notes[^key-32bca7443b3736b15bd9c308697eaa20]
+### PART III — The Notes[^c-32bca7443b3736b15bd9c308697eaa20]
 
 The following notes shall accompany the form of doctor’s statement provided by the Secretary of State:
 
-**1.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-32bca7443b3736b15bd9c308697eaa20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-40db221a5d676a5d4f791113c5c2cb1e]
+## SCHEDULE 2[^c-40db221a5d676a5d4f791113c5c2cb1e]
 
 Regulation 2(3)
 
@@ -272,19 +272,19 @@ Regulation 2(3)
 
 **3.** The maternity certificate shall be on a form provided by the Secretary of State for the purpose and the wording shall be that set out in the appropriate part of the form specified in Part II of this Schedule.
 
-**4.** Every maternity certificate [^key-94fea8d021014098b5d19dcf68ef757b]... shall contain the following particulars—
+**4.** Every maternity certificate [^c-94fea8d021014098b5d19dcf68ef757b]... shall contain the following particulars—
 
 - (a) the woman’s name;
-- (b) the week in which the woman is expected to be confined or, if the maternity certificate is given after confinement, the date of that confinement and the date the confinement was expected to take place [^key-eb2cd518d566a7550db52472712cd864]...;
+- (b) the week in which the woman is expected to be confined or, if the maternity certificate is given after confinement, the date of that confinement and the date the confinement was expected to take place [^c-eb2cd518d566a7550db52472712cd864]...;
 - (c) the date of the examination on which the maternity certificate is based;
 - (d) the date on which the maternity certificate is signed; and
-- (e) the address of the doctor or, where the maternity certificate is signed by a registered midwife, the personal identification number given to her by the Nursing and Midwifery Council (“[^key-6dff4a0efa0083dae27231845d7c6a0f]NMC”) on her registration in the register maintained under article 5 of the Nursing and Midwifery Order 2001 and the expiry date of that registration
+- (e) the address of the doctor or, where the maternity certificate is signed by a registered midwife, the personal identification number given to her by the Nursing and Midwifery Council (“[^c-6dff4a0efa0083dae27231845d7c6a0f]NMC”) on her registration in the register maintained under article 5 of the Nursing and Midwifery Order 2001 and the expiry date of that registration
 
 and shall bear opposite the word “Signature”, the signature of the person giving the maternity certificate written after there has been entered on the maternity certificate the woman’s name and the expected date or, as the case may be, the date of the confinement.
 
 **5.** After a maternity certificate has been given, no further maternity certificate based on the same examination shall be furnished other than a maternity certificate by way of replacement of an original which has been lost or mislaid, in which case it shall be clearly marked “duplicate”.
 
-### PART II — FORM OF CERTIFICATE[^key-06216e7daa9c40e435dd70875a61c17e]
+### PART II — FORM OF CERTIFICATE[^c-06216e7daa9c40e435dd70875a61c17e]
 
 MATERNITY CERTIFICATE
 
@@ -312,7 +312,7 @@ MATERNITY CERTIFICATE
 </tbody>
 </table>
 
-[^key-1943eeafc8489e3fa9959a02e69aad50][^key-d8ea9151868e5457021105abe36233ae][^key-d2514ae43e9a715e0ef24a1baa0deb50][^key-83dc5c5460e12692ab9cfbf290cd827e][^key-92e90dbe080302371d5060d93a89e87e]
+[^c-1943eeafc8489e3fa9959a02e69aad50][^c-d8ea9151868e5457021105abe36233ae][^c-d2514ae43e9a715e0ef24a1baa0deb50][^c-83dc5c5460e12692ab9cfbf290cd827e][^c-92e90dbe080302371d5060d93a89e87e]
 
 EXPLANATORY NOTE
 
@@ -324,170 +324,170 @@ The Report of the National Insurance Advisory Committee dated 10th March 1976 on
 
 ## Annotations
 
-[^key-d735e3f0f9728a66498d4bc83b7c516d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1976/615) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-d735e3f0f9728a66498d4bc83b7c516d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1976/615) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
-[^key-c55607875c1693ec8296b5c15c2ea779]: Textual amendment: Words in reg. 1(2) added (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/2)
+[^c-c55607875c1693ec8296b5c15c2ea779]: Textual amendment: Words in reg. 1(2) added (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/2)
 
-[^key-fd90c9e37e932977ff4a7c6125e00e86]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/2) inserted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/2)
+[^c-fd90c9e37e932977ff4a7c6125e00e86]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/2) inserted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/2)
 
-[^key-cf1df7d2715a8a1714ab7ec292bea383]: Textual amendment: Words in reg. 1 inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/2)
+[^c-cf1df7d2715a8a1714ab7ec292bea383]: Textual amendment: Words in reg. 1 inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/2)
 
-[^key-11a469117fbb516d9ea1d218319fac2b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/2) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [24(a)(i)](https://www.legislation.gov.uk/uksi/2013/630/regulation/24/a/i)
+[^c-11a469117fbb516d9ea1d218319fac2b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/2) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [24(a)(i)](https://www.legislation.gov.uk/uksi/2013/630/regulation/24/a/i)
 
-[^key-d8dfb8ff0e97b9b2246ad6f0c255ab13]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/2) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [24(a)(ii)](https://www.legislation.gov.uk/uksi/2013/630/regulation/24/a/ii)
+[^c-d8dfb8ff0e97b9b2246ad6f0c255ab13]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/2) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [24(a)(ii)](https://www.legislation.gov.uk/uksi/2013/630/regulation/24/a/ii)
 
-[^key-7422a2ead807cd72a5dccd6922d23494]: Textual amendment: Words in reg. 1(2) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/5/a)
+[^c-7422a2ead807cd72a5dccd6922d23494]: Textual amendment: Words in reg. 1(2) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/5/a)
 
-[^key-9a786fb9951c011f0b55259121080d59]: Textual amendment: Words in reg. 1(2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/6/2)
+[^c-9a786fb9951c011f0b55259121080d59]: Textual amendment: Words in reg. 1(2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/6/2)
 
-[^key-c0e47749db941e55f8eb38511d3ff0e7]: Textual amendment: Words in reg. 1(2) substituted (17.4.2002) by [The Nursing and Midwifery Order 2001 (Consequential Amendments) Order 2002 (S.I. 2002/881)](https://www.legislation.gov.uk/uksi/2002/881), [art. 1](https://www.legislation.gov.uk/uksi/2002/881/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2002/881/schedule/paragraph/1)
+[^c-c0e47749db941e55f8eb38511d3ff0e7]: Textual amendment: Words in reg. 1(2) substituted (17.4.2002) by [The Nursing and Midwifery Order 2001 (Consequential Amendments) Order 2002 (S.I. 2002/881)](https://www.legislation.gov.uk/uksi/2002/881), [art. 1](https://www.legislation.gov.uk/uksi/2002/881/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2002/881/schedule/paragraph/1)
 
-[^key-ede857a7b43e76c6dc2d9fb2a2c7ea6f]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/5) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/24/b)
+[^c-ede857a7b43e76c6dc2d9fb2a2c7ea6f]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/1976/615/regulation/1/5) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/24/b)
 
-[^key-f86987e346c79c3552e3e46dcfc79171]: Textual amendment: Words in reg. 2 heading inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(3)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/3/a)
+[^c-f86987e346c79c3552e3e46dcfc79171]: Textual amendment: Words in reg. 2 heading inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(3)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/3/a)
 
-[^key-714b6f1d9ef702ccf205ba9df66009a7]: Textual amendment: [Reg. 2(1)-(1A)](https://www.legislation.gov.uk/uksi/1976/615/regulation/2/1) substituted for [reg. 2(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/2/1) (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/2)
+[^c-714b6f1d9ef702ccf205ba9df66009a7]: Textual amendment: [Reg. 2(1)-(1A)](https://www.legislation.gov.uk/uksi/1976/615/regulation/2/1) substituted for [reg. 2(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/2/1) (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/2)
 
-[^key-31e2aa163fa91bdb861f7f14bed4bf2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/2/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/3)
+[^c-31e2aa163fa91bdb861f7f14bed4bf2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/2/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/3)
 
-[^key-05cdd9d3a66fc833bff8bd93c9f929f4]: Textual amendment: Words in reg. 2(2) inserted (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/3/b)
+[^c-05cdd9d3a66fc833bff8bd93c9f929f4]: Textual amendment: Words in reg. 2(2) inserted (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/3/b)
 
-[^key-a892636bde728e9fdc115ee346323e20]: Textual amendment: Words in reg. 2(2) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/5/b)
+[^c-a892636bde728e9fdc115ee346323e20]: Textual amendment: Words in reg. 2(2) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/5/b)
 
-[^key-4087912c2df6002df9e246a6ae4a1b4f]: Textual amendment: Words in reg. 2(2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(3)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/3/c)
+[^c-4087912c2df6002df9e246a6ae4a1b4f]: Textual amendment: Words in reg. 2(2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(3)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/3/c)
 
-[^key-db2b50a59b6454901df81c60ba33aefb]: Textual amendment: Words in reg. 2(3) substituted (6.4.1987) by [The Social Security (Medical Evidence) Amendment Regulations 1987 (S.I. 1987/409)](https://www.legislation.gov.uk/uksi/1987/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/409/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1987/409/regulation/3)
+[^c-db2b50a59b6454901df81c60ba33aefb]: Textual amendment: Words in reg. 2(3) substituted (6.4.1987) by [The Social Security (Medical Evidence) Amendment Regulations 1987 (S.I. 1987/409)](https://www.legislation.gov.uk/uksi/1987/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/409/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1987/409/regulation/3)
 
-[^key-f34bdacf17d307db70fc138d19dc6748]: Textual amendment: Words in reg. 2(3) inserted (28.9.2001) by [The Social Security (Medical Evidence) and Statutory Maternity Pay (Medical Evidence) (Amendment) Regulations 2001 (S.I. 2001/2931)](https://www.legislation.gov.uk/uksi/2001/2931), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2931/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/2931/regulation/2/2)
+[^c-f34bdacf17d307db70fc138d19dc6748]: Textual amendment: Words in reg. 2(3) inserted (28.9.2001) by [The Social Security (Medical Evidence) and Statutory Maternity Pay (Medical Evidence) (Amendment) Regulations 2001 (S.I. 2001/2931)](https://www.legislation.gov.uk/uksi/2001/2931), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2931/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/2931/regulation/2/2)
 
-[^key-82e7a2e7da469cfda7984465066bc80e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1976/615/regulation/3) revoked (9.7.1979) by [The Social Security (Claims and Payments) Regulations 1979 (S.I. 1979/628)](https://www.legislation.gov.uk/uksi/1979/628), [reg. 1](https://www.legislation.gov.uk/uksi/1979/628/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1979/628/schedule/5)
+[^c-82e7a2e7da469cfda7984465066bc80e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1976/615/regulation/3) revoked (9.7.1979) by [The Social Security (Claims and Payments) Regulations 1979 (S.I. 1979/628)](https://www.legislation.gov.uk/uksi/1979/628), [reg. 1](https://www.legislation.gov.uk/uksi/1979/628/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1979/628/schedule/5)
 
-[^key-0377b8c10c3c93ec5865332679815e58]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1976/615/regulation/4) revoked (14.6.1982) by [The Social Security (Medical Evidence, Claims and Payments) Amendment Regulations 1982 (S.I. 1982/699)](https://www.legislation.gov.uk/uksi/1982/699), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/699/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1982/699/regulation/2/3)
+[^c-0377b8c10c3c93ec5865332679815e58]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1976/615/regulation/4) revoked (14.6.1982) by [The Social Security (Medical Evidence, Claims and Payments) Amendment Regulations 1982 (S.I. 1982/699)](https://www.legislation.gov.uk/uksi/1982/699), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/699/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1982/699/regulation/2/3)
 
-[^key-4832dec867de6f50d10e52aad1351e61]: Textual amendment: Reg. 5 inserted (14.6.1982) by [The Social Security (Medical Evidence, Claims and Payments) Amendment Regulations 1982 (S.I. 1982/699)](https://www.legislation.gov.uk/uksi/1982/699), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/699/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1982/699/regulation/2/2)
+[^c-4832dec867de6f50d10e52aad1351e61]: Textual amendment: Reg. 5 inserted (14.6.1982) by [The Social Security (Medical Evidence, Claims and Payments) Amendment Regulations 1982 (S.I. 1982/699)](https://www.legislation.gov.uk/uksi/1982/699), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/699/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1982/699/regulation/2/2)
 
-[^key-a73cdfdd6e40f8c6ae45a51f0293f7ed]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1976/615/regulation/5) heading inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/a)
+[^c-a73cdfdd6e40f8c6ae45a51f0293f7ed]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1976/615/regulation/5) heading inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/a)
 
-[^key-23028ff1cfb56e548bf471db68baca54]: Textual amendment: Reg. 5(1) substituted (9.10.1989) by [The Social Security (Medical Evidence, Claims and Payments) Amendment Regulations 1989 (S.I. 1989/1686)](https://www.legislation.gov.uk/uksi/1989/1686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1686/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1989/1686/regulation/2)
+[^c-23028ff1cfb56e548bf471db68baca54]: Textual amendment: Reg. 5(1) substituted (9.10.1989) by [The Social Security (Medical Evidence, Claims and Payments) Amendment Regulations 1989 (S.I. 1989/1686)](https://www.legislation.gov.uk/uksi/1989/1686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1686/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1989/1686/regulation/2)
 
-[^key-ab87b2c872c0294a08ebb3e971e21ba4]: Textual amendment: Words in reg. 5(1) substituted (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/4/a)
+[^c-ab87b2c872c0294a08ebb3e971e21ba4]: Textual amendment: Words in reg. 5(1) substituted (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/4/a)
 
-[^key-0fe33a91741f68fc84a3ff37b352bd4e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(b)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/b/i)
+[^c-0fe33a91741f68fc84a3ff37b352bd4e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(b)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/b/i)
 
-[^key-cfb74573f25538c6c3e0585c397fa586]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1/a) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/b/ii)
+[^c-cfb74573f25538c6c3e0585c397fa586]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1/a) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/b/ii)
 
-[^key-2b15371f5c0fd0ead91e7c27d8c4f040]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1/c)[(d)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1/d) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/b/iii)
+[^c-2b15371f5c0fd0ead91e7c27d8c4f040]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1/c)[(d)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1/d) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/b/iii)
 
-[^key-64de3fec77de80ae0fd576dd37c3124b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/4)
+[^c-64de3fec77de80ae0fd576dd37c3124b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/4)
 
-[^key-e4a3fac57b972fc2e359208a84bd2230]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/2) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/c)
+[^c-e4a3fac57b972fc2e359208a84bd2230]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1976/615/regulation/5/2) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [68(4)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/68/4/c)
 
-[^key-47f235d249b3dd8bb0420ba28626baca]: Textual amendment: Words in reg. 5(2) substituted (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/4/b)
+[^c-47f235d249b3dd8bb0420ba28626baca]: Textual amendment: Words in reg. 5(2) substituted (13.4.1995) by [The Social Security (Medical Evidence) Amendment Regulations 1994 (S.I. 1994/2975)](https://www.legislation.gov.uk/uksi/1994/2975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1994/2975/regulation/2/4/b)
 
-[^key-d646109ec544dc906b21814e45db287c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1) substituted (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/3)
+[^c-d646109ec544dc906b21814e45db287c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1) substituted (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/3)
 
-[^key-c18c1e4028aca543ecec98c562704894]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/a/i)
+[^c-c18c1e4028aca543ecec98c562704894]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/a/i)
 
-[^key-2a97d39d78f59ecfb2aece8dee0a35e9]: Textual amendment: Word in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/a/ii)
+[^c-2a97d39d78f59ecfb2aece8dee0a35e9]: Textual amendment: Word in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/a/ii)
 
-[^key-b9c6f50db55d939d03292b9311718c5c]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/b)
+[^c-b9c6f50db55d939d03292b9311718c5c]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/b)
 
-[^key-4708a6dc572c812361eb70cd81018ece]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(i)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/i)
+[^c-4708a6dc572c812361eb70cd81018ece]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(i)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/i)
 
-[^key-4509cb60776091d9f99ffaea254c509d]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/ii)
+[^c-4509cb60776091d9f99ffaea254c509d]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/ii)
 
-[^key-c1b846507aeecfaf0a832818a4af89c7]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/iii)
+[^c-c1b846507aeecfaf0a832818a4af89c7]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/iii)
 
-[^key-eb8a2176fe1a295374f4877d331eadd2]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/iv)
+[^c-eb8a2176fe1a295374f4877d331eadd2]: Textual amendment: Words in [Sch. 1 rule 1](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/1) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/5/c/iv)
 
-[^key-9c4f212af3320499a2cea37a07c9650e]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/6/a)
+[^c-9c4f212af3320499a2cea37a07c9650e]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/6/a)
 
-[^key-5615ff863ede724e48cb645fc16beb4e]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/6/b)
+[^c-5615ff863ede724e48cb645fc16beb4e]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/6/b)
 
-[^key-3ed3c9f9daaebed45244ad7e19b867e7]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/2/a)
+[^c-3ed3c9f9daaebed45244ad7e19b867e7]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/2/a)
 
-[^key-e05678ea0f597fa5901ae74cc0ac64a6]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/2/b)
+[^c-e05678ea0f597fa5901ae74cc0ac64a6]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/2) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/2/b)
 
-[^key-f2c60ca0b2e2daea9c8c9ba947b85374]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/7/a)
+[^c-f2c60ca0b2e2daea9c8c9ba947b85374]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/7/a)
 
-[^key-51f6ee7b96e3b72270f8eee84e855098]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/7/b)
+[^c-51f6ee7b96e3b72270f8eee84e855098]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/7/b)
 
-[^key-d86ad5c883e95d7b25aef2b9945c9f5f]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/3/a)
+[^c-d86ad5c883e95d7b25aef2b9945c9f5f]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/3/a)
 
-[^key-2c8a42af8de23213614b58d9372d33f8]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/3/b)
+[^c-2c8a42af8de23213614b58d9372d33f8]: Textual amendment: Words in [Sch. 1 rule 3](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/3) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/3/b)
 
-[^key-73c21481cacb6856cabd5e2f46408212]: Textual amendment: Words in [Sch. 1 rule 4](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/4) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/8/a)
+[^c-73c21481cacb6856cabd5e2f46408212]: Textual amendment: Words in [Sch. 1 rule 4](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/4) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/8/a)
 
-[^key-6fbc7dfbee7817602efa2800c0db051a]: Textual amendment: Words in [Sch. 1 rule 4](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/4) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/8/b)
+[^c-6fbc7dfbee7817602efa2800c0db051a]: Textual amendment: Words in [Sch. 1 rule 4](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/4) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/8/b)
 
-[^key-01f7838ed803616d922689dd036a214c]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/a)
+[^c-01f7838ed803616d922689dd036a214c]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/a)
 
-[^key-c81744de88292a809cc0e5e6f9a2bdaf]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/a)
+[^c-c81744de88292a809cc0e5e6f9a2bdaf]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/a)
 
-[^key-02d084c537424b3cd1f781d9286a738f]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/b)
+[^c-02d084c537424b3cd1f781d9286a738f]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/b)
 
-[^key-d8abe29e902e76a48ae805f65d789458]: Textual amendment: [Sch. 1 rule 5(g)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/g): semi-colon substituted for comma (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/b)
+[^c-d8abe29e902e76a48ae805f65d789458]: Textual amendment: [Sch. 1 rule 5(g)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/g): semi-colon substituted for comma (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/b)
 
-[^key-7d334a6b3d5bdde7ad945dab7dcc324f]: Textual amendment: Word in [Sch. 1 rule 5(g)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/g) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/b)
+[^c-7d334a6b3d5bdde7ad945dab7dcc324f]: Textual amendment: Word in [Sch. 1 rule 5(g)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/g) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/b)
 
-[^key-f4929fba345eda3dad4376dcd4c83482]: Textual amendment: [Sch. 1 rule 5(h)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/h) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/c)
+[^c-f4929fba345eda3dad4376dcd4c83482]: Textual amendment: [Sch. 1 rule 5(h)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/h) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/c)
 
-[^key-34de327e378f713d0524ccd0eeb271ac]: Textual amendment: Words in [Sch. 1 rule 5(h)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/h) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/c)
+[^c-34de327e378f713d0524ccd0eeb271ac]: Textual amendment: Words in [Sch. 1 rule 5(h)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/h) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/c)
 
-[^key-40376e5af240224126ada14fd5c490a6]: Textual amendment: [Sch. 1 rule 5(i)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/i) inserted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/d)
+[^c-40376e5af240224126ada14fd5c490a6]: Textual amendment: [Sch. 1 rule 5(i)](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5/i) inserted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/9/d)
 
-[^key-1e5ab0b7ca97375a53742e86796671c0]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/d)
+[^c-1e5ab0b7ca97375a53742e86796671c0]: Textual amendment: Words in [Sch. 1 rule 5](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5) omitted (6.4.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/4/d)
 
-[^key-26efac5828cf4617b7fae57192e9f8b7]: Textual amendment: [Sch. 1 rule 5A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5A) inserted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/10)
+[^c-26efac5828cf4617b7fae57192e9f8b7]: Textual amendment: [Sch. 1 rule 5A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/5A) inserted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/10)
 
-[^key-9a3cc2f9747f9bc29d0fec645a6be324]: Textual amendment: Words in [Sch. 1 rule 6](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/6) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/11/a)
+[^c-9a3cc2f9747f9bc29d0fec645a6be324]: Textual amendment: Words in [Sch. 1 rule 6](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/6) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/11/a)
 
-[^key-6a5a1376aaf05b8da5801a9e6e96f215]: Textual amendment: Words in [Sch. 1 rule 6](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/6) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/11/b)
+[^c-6a5a1376aaf05b8da5801a9e6e96f215]: Textual amendment: Words in [Sch. 1 rule 6](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/6) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/11/b)
 
-[^key-ba32d0a63801756aae1b8cacf4645bdd]: Textual amendment: Words in [Sch. 1 rule 7](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/7) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/12)
+[^c-ba32d0a63801756aae1b8cacf4645bdd]: Textual amendment: Words in [Sch. 1 rule 7](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/7) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/12)
 
-[^key-35c094c15258e490832b50a9750ecbd6]: Textual amendment: Words in [Sch. 1 rule 8](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/8) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/13)
+[^c-35c094c15258e490832b50a9750ecbd6]: Textual amendment: Words in [Sch. 1 rule 8](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/8) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/13)
 
-[^key-c342b00318d7d6078a3e4e24f9bded01]: Textual amendment: Words in [Sch. 1 rule 9](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/9) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/14)
+[^c-c342b00318d7d6078a3e4e24f9bded01]: Textual amendment: Words in [Sch. 1 rule 9](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/9) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/14)
 
-[^key-2b1f87d930f63e4f37db9596dc070bbf]: Textual amendment: Words in [Sch. 1 rule 10](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/10) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/15)
+[^c-2b1f87d930f63e4f37db9596dc070bbf]: Textual amendment: Words in [Sch. 1 rule 10](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/10) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/15)
 
-[^key-a6d3714a7e77542925887659cda5f1f5]: Textual amendment: Words in [Sch. 1 rule 11](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/11) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/16)
+[^c-a6d3714a7e77542925887659cda5f1f5]: Textual amendment: Words in [Sch. 1 rule 11](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/11) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/16)
 
-[^key-6fa3b599902a9d2364c39141a2ed060c]: Textual amendment: Words in [Sch. 1 rule 12](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/12) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/17/a)
+[^c-6fa3b599902a9d2364c39141a2ed060c]: Textual amendment: Words in [Sch. 1 rule 12](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/12) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/17/a)
 
-[^key-3f51656b62e6f9f69e369e7b7fba0d1d]: Textual amendment: Words in [Sch. 1 rule 12](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/12) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/17/b)
+[^c-3f51656b62e6f9f69e369e7b7fba0d1d]: Textual amendment: Words in [Sch. 1 rule 12](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/12) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/17/b)
 
-[^key-6adfd4aa67e67a2d4fb83ba8f9d5286b]: Textual amendment: Words in [Sch. 1 rule 13](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/13) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/18/a)
+[^c-6adfd4aa67e67a2d4fb83ba8f9d5286b]: Textual amendment: Words in [Sch. 1 rule 13](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/13) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/18/a)
 
-[^key-a04267ce9b10bb8078da2e51df03e33d]: Textual amendment: Words in [Sch. 1 rule 13](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/13) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/18/b)
+[^c-a04267ce9b10bb8078da2e51df03e33d]: Textual amendment: Words in [Sch. 1 rule 13](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/rule/13) substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/18/b)
 
-[^key-b8a693ecee21408cf1ff0efd8ac3cf44]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/part/2) heading substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(19)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/19/a)
+[^c-b8a693ecee21408cf1ff0efd8ac3cf44]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/part/2) heading substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(19)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/19/a)
 
-[^key-bf1ef9ba3bdcb3a4e8d83c17c95c17ec]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/part/2A) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/5)
+[^c-bf1ef9ba3bdcb3a4e8d83c17c95c17ec]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/part/2A) inserted (6.4.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2022 (S.I. 2022/298)](https://www.legislation.gov.uk/uksi/2022/298), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/298/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/298/regulation/2/5)
 
-[^key-869076aad2c17349bf3a360d524d5d32]: Textual amendment: Words in [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/part/2A) heading substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(19)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/19/b)
+[^c-869076aad2c17349bf3a360d524d5d32]: Textual amendment: Words in [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1/part/2A) heading substituted (1.7.2022) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [2(19)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/2/19/b)
 
-[^key-9c46d34870866c93354a0824393cd3d2]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1A) omitted (6.4.2010) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/4)
+[^c-9c46d34870866c93354a0824393cd3d2]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1976/615/schedule/1A) omitted (6.4.2010) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/4)
 
-[^key-32bca7443b3736b15bd9c308697eaa20]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1976/615/schedule/1B) omitted (6.4.2010) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/4)
+[^c-32bca7443b3736b15bd9c308697eaa20]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1976/615/schedule/1B) omitted (6.4.2010) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations 2010 (S.I. 2010/137)](https://www.legislation.gov.uk/uksi/2010/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/137/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/137/regulation/2/4)
 
-[^key-40db221a5d676a5d4f791113c5c2cb1e]: Textual amendment: Sch. 2 substituted (6.4.1987) by [The Social Security (Medical Evidence) Amendment Regulations 1987 (S.I. 1987/409)](https://www.legislation.gov.uk/uksi/1987/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/409/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1987/409/regulation/4)
+[^c-40db221a5d676a5d4f791113c5c2cb1e]: Textual amendment: Sch. 2 substituted (6.4.1987) by [The Social Security (Medical Evidence) Amendment Regulations 1987 (S.I. 1987/409)](https://www.legislation.gov.uk/uksi/1987/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/409/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1987/409/regulation/4)
 
-[^key-94fea8d021014098b5d19dcf68ef757b]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1976/615/schedule/2/paragraph/4) omitted (1.4.2026) by virtue of [The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026 (S.I. 2026/201)](https://www.legislation.gov.uk/uksi/2026/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/201/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/201/regulation/3)
+[^c-94fea8d021014098b5d19dcf68ef757b]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1976/615/schedule/2/paragraph/4) omitted (1.4.2026) by virtue of [The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026 (S.I. 2026/201)](https://www.legislation.gov.uk/uksi/2026/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/201/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/201/regulation/3)
 
-[^key-eb2cd518d566a7550db52472712cd864]: Textual amendment: Words in Sch. 2 Pt. I para. 4(b) omitted (1.11.1991) by virtue of [The Social Security (Miscellaneous Provisions) Amendment Regulations 1991 (S.I. 1991/2284)](https://www.legislation.gov.uk/uksi/1991/2284), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2284/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/1991/2284/regulation/21/a)
+[^c-eb2cd518d566a7550db52472712cd864]: Textual amendment: Words in Sch. 2 Pt. I para. 4(b) omitted (1.11.1991) by virtue of [The Social Security (Miscellaneous Provisions) Amendment Regulations 1991 (S.I. 1991/2284)](https://www.legislation.gov.uk/uksi/1991/2284), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2284/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/1991/2284/regulation/21/a)
 
-[^key-6dff4a0efa0083dae27231845d7c6a0f]: Textual amendment: [Sch. 2 para. 4(e)](https://www.legislation.gov.uk/uksi/1976/615/schedule/2/paragraph/4/e) substituted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1771/article/1/1), [Sch. para. 56(a)](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/56/a)
+[^c-6dff4a0efa0083dae27231845d7c6a0f]: Textual amendment: [Sch. 2 para. 4(e)](https://www.legislation.gov.uk/uksi/1976/615/schedule/2/paragraph/4/e) substituted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1771/article/1/1), [Sch. para. 56(a)](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/56/a)
 
-[^key-06216e7daa9c40e435dd70875a61c17e]: Textual amendment: Sch. 2 Pt. II substituted (1.11.1991) by [The Social Security (Miscellaneous Provisions) Amendment Regulations 1991 (S.I. 1991/2284)](https://www.legislation.gov.uk/uksi/1991/2284), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2284/regulation/1), [22](https://www.legislation.gov.uk/uksi/1991/2284/regulation/22)
+[^c-06216e7daa9c40e435dd70875a61c17e]: Textual amendment: Sch. 2 Pt. II substituted (1.11.1991) by [The Social Security (Miscellaneous Provisions) Amendment Regulations 1991 (S.I. 1991/2284)](https://www.legislation.gov.uk/uksi/1991/2284), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2284/regulation/1), [22](https://www.legislation.gov.uk/uksi/1991/2284/regulation/22)
 
-[^key-1943eeafc8489e3fa9959a02e69aad50]: Textual amendment: Words in Sch. 2 Pt. II substituted (28.9.2001) by [The Social Security (Medical Evidence) and Statutory Maternity Pay (Medical Evidence) (Amendment) Regulations 2001 (S.I. 2001/2931)](https://www.legislation.gov.uk/uksi/2001/2931), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2931/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/2931/regulation/2/3/a)
+[^c-1943eeafc8489e3fa9959a02e69aad50]: Textual amendment: Words in Sch. 2 Pt. II substituted (28.9.2001) by [The Social Security (Medical Evidence) and Statutory Maternity Pay (Medical Evidence) (Amendment) Regulations 2001 (S.I. 2001/2931)](https://www.legislation.gov.uk/uksi/2001/2931), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2931/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/2931/regulation/2/3/a)
 
-[^key-d8ea9151868e5457021105abe36233ae]: Textual amendment: Word in Sch. 2 Pt. II substituted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1771/article/1/1), [Sch. para. 56(b)](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/56/b)
+[^c-d8ea9151868e5457021105abe36233ae]: Textual amendment: Word in Sch. 2 Pt. II substituted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1771/article/1/1), [Sch. para. 56(b)](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/56/b)
 
-[^key-d2514ae43e9a715e0ef24a1baa0deb50]: Textual amendment: Words in Sch. 2 Pt. II substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/6/3)
+[^c-d2514ae43e9a715e0ef24a1baa0deb50]: Textual amendment: Words in Sch. 2 Pt. II substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/6/3)
 
-[^key-83dc5c5460e12692ab9cfbf290cd827e]: Textual amendment: Words in Sch. 2 Pt. II substituted (1.4.2004) (W.) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/865/schedule/1/paragraph/1/3)
+[^c-83dc5c5460e12692ab9cfbf290cd827e]: Textual amendment: Words in Sch. 2 Pt. II substituted (1.4.2004) (W.) by [The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004 (S.I. 2004/865)](https://www.legislation.gov.uk/uksi/2004/865), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/865/article/1/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/865/schedule/1/paragraph/1/3)
 
-[^key-92e90dbe080302371d5060d93a89e87e]: Textual amendment: Words in Sch. 2 Pt. II substituted (1.4.2004) (E+S+NI.) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/uksi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1016/article/1/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/1016/schedule/1/paragraph/1/3) (with [art. 83](https://www.legislation.gov.uk/uksi/2004/1016/article/83))
+[^c-92e90dbe080302371d5060d93a89e87e]: Textual amendment: Words in Sch. 2 Pt. II substituted (1.4.2004) (E+S+NI.) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/uksi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1016/article/1/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/1016/schedule/1/paragraph/1/3) (with [art. 83](https://www.legislation.gov.uk/uksi/2004/1016/article/83))

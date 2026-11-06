@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61B. Specification of hospital unit[^key-63aa2e1f16b3d9993c19b96d5825ff3d]
+## 61B. Specification of hospital unit[^c-63aa2e1f16b3d9993c19b96d5825ff3d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63aa2e1f16b3d9993c19b96d5825ff3d]: Textual amendment: [S. 61B](https://www.legislation.gov.uk/ukpga/1995/46/section/61B) inserted (30.6.2017) by virtue of [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 47(2)](https://www.legislation.gov.uk/asp/2015/9/section/47/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-63aa2e1f16b3d9993c19b96d5825ff3d]: Textual amendment: [S. 61B](https://www.legislation.gov.uk/ukpga/1995/46/section/61B) inserted (30.6.2017) by virtue of [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 47(2)](https://www.legislation.gov.uk/asp/2015/9/section/47/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Effect of PAYE settlement agreement[^key-ac7c4cc3f3e0f7b5d15fcd1f1c9adb55]
+## 45. Effect of PAYE settlement agreement[^c-ac7c4cc3f3e0f7b5d15fcd1f1c9adb55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 107(7)(a) (effect of PSA), before “73” insert “67B, 67D, 67E
 
 ## Annotations
 
-[^key-ac7c4cc3f3e0f7b5d15fcd1f1c9adb55]: Commencement: Reg. 45 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-ac7c4cc3f3e0f7b5d15fcd1f1c9adb55]: Commencement: Reg. 45 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

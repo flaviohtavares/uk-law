@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Service[^key-88a2f64e318e4b507c0853fee503d3b1]
+## 41. Service[^c-88a2f64e318e4b507c0853fee503d3b1]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) on the investment bank;
 - (b) on the person (or each of the persons) nominated for appointment as administrator;
-- (c) on any person who has given notice to the FCA or, where relevant, the PRA[^key-83522532a63b8420e8dafc604e78f5ff] in respect of the investment bank under section 120 of the 2009 Act (notice of preliminary steps of other insolvency procedures); and
+- (c) on any person who has given notice to the FCA or, where relevant, the PRA[^c-83522532a63b8420e8dafc604e78f5ff] in respect of the investment bank under section 120 of the 2009 Act (notice of preliminary steps of other insolvency procedures); and
 - (d) if the property transfer instrument was made or is to be made under section 11(2)(b) of the 2009 Act, on each transferee.
 
 (2) Service under paragraph (1) must be service of a sealed and endorsed copy of the application and its accompanying documents issued under rule 40.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88a2f64e318e4b507c0853fee503d3b1]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2011/1301/rule/41) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-88a2f64e318e4b507c0853fee503d3b1]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2011/1301/rule/41) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-83522532a63b8420e8dafc604e78f5ff]: Textual amendment: Words in [art. 41(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/41/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/vi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-83522532a63b8420e8dafc604e78f5ff]: Textual amendment: Words in [art. 41(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/41/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/vi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

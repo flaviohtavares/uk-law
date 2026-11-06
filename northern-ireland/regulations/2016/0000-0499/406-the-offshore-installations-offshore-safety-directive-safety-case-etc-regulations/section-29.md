@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Duty to control risk[^key-914ed5f71140d5b56485585a49d1e74b]
+## 29. Duty to control risk[^c-914ed5f71140d5b56485585a49d1e74b]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-914ed5f71140d5b56485585a49d1e74b]: Commencement: Reg. 29 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-914ed5f71140d5b56485585a49d1e74b]: Commencement: Reg. 29 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137C. FCA general rules: cost of credit and duration of credit agreements[^key-e922c816a6b3c56cc617ae59c14f3510]
+## 137C. FCA general rules: cost of credit and duration of credit agreements[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
   - (iii) is treated by the rules as being connected with a number of previous regulated credit agreements that exceeds a specified maximum;
 - (d) exercising the rights of the lender under a regulated credit agreement (as a person for the time being entitled to exercise them) in a way that enables the agreement to remain in force after the end of a specified period or enables the imposition on the borrower of charges within paragraph (a)(i) or (ii).
 
-(1A)[^key-5a047f7cca13f4bd6a6f27639f7fd6b4] The FCA must make rules by virtue of subsection (1)(a)(ii) and (b) in relation to one or more specified descriptions of regulated credit agreement appearing to the FCA to involve the provision of high-cost short-term credit, with a view to securing an appropriate degree of protection for borrowers against excessive charges.
+(1A)[^c-5a047f7cca13f4bd6a6f27639f7fd6b4] The FCA must make rules by virtue of subsection (1)(a)(ii) and (b) in relation to one or more specified descriptions of regulated credit agreement appearing to the FCA to involve the provision of high-cost short-term credit, with a view to securing an appropriate degree of protection for borrowers against excessive charges.
 
 (1B) Before the FCA publishes a draft of any rules to be made by virtue of subsection (1)(a)(ii) or (b), it must consult the Treasury.
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-5a047f7cca13f4bd6a6f27639f7fd6b4]: Textual amendment: S. 137C(1A)(1B) inserted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 131(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/131/1), [148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2) (with [s. 131(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/131/3))
+[^c-5a047f7cca13f4bd6a6f27639f7fd6b4]: Textual amendment: S. 137C(1A)(1B) inserted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 131(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/131/1), [148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2) (with [s. 131(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/131/3))

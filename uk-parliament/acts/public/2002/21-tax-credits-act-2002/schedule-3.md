@@ -30,7 +30,7 @@ In section 24 of the Attachment of Earnings Act 1971 (meaning of “earnings” 
 
 .
 
-### 2. Magistrates’ Courts Act 1980 (c. 43)[^key-79c0fb7ee1dfe66e343d13e7b3c81fc8]
+### 2. Magistrates’ Courts Act 1980 (c. 43)[^c-79c0fb7ee1dfe66e343d13e7b3c81fc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -42,15 +42,15 @@ In Article 3 of the Judgments Enforcement (Northern Ireland) Order 1981 (meaning
 
 .
 
-### 4. Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8))[^key-9e6d5098601a807bed7290ec3f75c6a5]
+### 4. Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8))[^c-9e6d5098601a807bed7290ec3f75c6a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9e6d5098601a807bed7290ec3f75c6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9e6d5098601a807bed7290ec3f75c6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9e6d5098601a807bed7290ec3f75c6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9e6d5098601a807bed7290ec3f75c6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9e6d5098601a807bed7290ec3f75c6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9e6d5098601a807bed7290ec3f75c6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26))
 
@@ -144,11 +144,11 @@ The Social Security Contributions and Benefits Act 1992 has effect subject to th
 > - (a) he is entitled for the day to the disability element of working tax credit (on a claim made by him or by him jointly with another) or would be so entitled but for the fact that the relevant income (within the meaning of Part 1 of the Tax Credits Act 2002) in his or their case is such that he is not so entitled, and
 > - (b) either working tax credit or any element of child tax credit other than the family element is paid in respect of the day on such a claim.
 
-**26.**[^key-7bca7150825b9648cd0cf77d29491796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-7bca7150825b9648cd0cf77d29491796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** In section 39(1), (2) and (3) (rate of widowed mother’s allowance and widow’s pension), for “sections 44 and” continue to substitute “ sections 44 to ”.
 
-**28.**[^key-e7c7aa195a4998cff835d22c9dff879c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-e7c7aa195a4998cff835d22c9dff879c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** In section 39C(1), (3) and (4) (rate of widowed parent’s allowance and bereavement allowance), for “45A” substitute “ 45 ”.
 
@@ -173,7 +173,7 @@ The Social Security Contributions and Benefits Act 1992 has effect subject to th
 
 **33.** In section 60(4) and (5) (failure to satisfy contribution conditions), for “subsections (6) and (7)” substitute “ subsection (7) ”.
 
-**34.**[^key-140bd2e2d41cec9a6b3444f585530ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-140bd2e2d41cec9a6b3444f585530ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 35. Social Security Administration Act 1992 (c. 5)
 
@@ -198,11 +198,11 @@ The Social Security Contributions and Benefits (Northern Ireland) Act 1992 has e
 > - (a) he is entitled for the day to the disability element of working tax credit (on a claim made by him or by him jointly with another) or would be so entitled but for the fact that the relevant income (within the meaning of Part 1 of the Tax Credits Act 2002) in his or their case is such that he is not so entitled, and
 > - (b) either working tax credit or any element of child tax credit other than the family element is paid in respect of the day on such a claim.
 
-**38.**[^key-2c7499bbae088fb070089d409579ffa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-2c7499bbae088fb070089d409579ffa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **39.** In section 39(1), (2) and (3) (rate of widowed mother’s allowance and widow’s pension), for “sections 44 and” continue to substitute “ sections 44 to ”.
 
-**40.**[^key-2f0812b7507b4d6c4b4f55b13166c419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-2f0812b7507b4d6c4b4f55b13166c419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **41.** In section 39C(1), (3) and (4) (rate of widowed parent’s allowance and bereavement allowance), for “45A” substitute “ 45 ”.
 
@@ -227,7 +227,7 @@ The Social Security Contributions and Benefits (Northern Ireland) Act 1992 has e
 
 **45.** In section 60(4) and (5) (failure to satisfy contribution conditions), for “subsections (6) and (7)” substitute “ subsection (7) ”.
 
-**46.**[^key-282121444c7a3b6ce37490a281ca11ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-282121444c7a3b6ce37490a281ca11ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 47. Value Added Tax Act 1994 (c. 23)
 
@@ -282,28 +282,28 @@ In Article 25(2)(b) of the Road Traffic (Northern Ireland) Order 1995 (applicant
 
 In section 77(1)(e) of the Housing Grants, Construction and Regeneration Act 1996 (entitlement to home repair assistance), for “working families’ tax credit, housing benefit, council tax benefit or disabled person’s tax credit” substitute “ housing benefit, council tax benefit, any element of child tax credit other than the family element or working tax credit ”.
 
-### 59. Finance Act 2000 (c. 17)[^key-09b675e3ea11788fa5883e58e126eff9]
+### 59. Finance Act 2000 (c. 17)[^c-09b675e3ea11788fa5883e58e126eff9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79c0fb7ee1dfe66e343d13e7b3c81fc8]: Textual amendment: Sch. 3 para. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-79c0fb7ee1dfe66e343d13e7b3c81fc8]: Textual amendment: Sch. 3 para. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
-[^key-9e6d5098601a807bed7290ec3f75c6a5]: Textual amendment: Sch. 3 paras. 4-7 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-9e6d5098601a807bed7290ec3f75c6a5]: Textual amendment: Sch. 3 paras. 4-7 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c22566561]: Textual amendment: Sch. 3 para. 14 repealed (with effect in accordance with s. 723(1) of the repealing Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 724(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/724/1), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-7bca7150825b9648cd0cf77d29491796]: Textual amendment: Sch. 3 para. 26 repealed (7.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/c)
+[^c-7bca7150825b9648cd0cf77d29491796]: Textual amendment: Sch. 3 para. 26 repealed (7.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/c)
 
-[^key-e7c7aa195a4998cff835d22c9dff879c]: Textual amendment: Sch. 3 para. 28 repealed (7.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/c)
+[^c-e7c7aa195a4998cff835d22c9dff879c]: Textual amendment: Sch. 3 para. 28 repealed (7.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/c)
 
-[^key-140bd2e2d41cec9a6b3444f585530ace]: Textual amendment: Sch. 3 para. 34 repealed (6.4.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2009/24/section/58/2/c), [61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2)
+[^c-140bd2e2d41cec9a6b3444f585530ace]: Textual amendment: Sch. 3 para. 34 repealed (6.4.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2009/24/section/58/2/c), [61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2)
 
-[^key-2c7499bbae088fb070089d409579ffa9]: Textual amendment: Sch. 3 para. 38 repealed (7.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/8); [S.R. 2008/339](https://www.legislation.gov.uk/nisr/2008/339), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2008/339/article/2/3/b)
+[^c-2c7499bbae088fb070089d409579ffa9]: Textual amendment: Sch. 3 para. 38 repealed (7.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/8); [S.R. 2008/339](https://www.legislation.gov.uk/nisr/2008/339), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2008/339/article/2/3/b)
 
-[^key-2f0812b7507b4d6c4b4f55b13166c419]: Textual amendment: Sch. 3 para. 40 repealed (7.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/8); [S.R. 2008/339](https://www.legislation.gov.uk/nisr/2008/339), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2008/339/article/2/3/b)
+[^c-2f0812b7507b4d6c4b4f55b13166c419]: Textual amendment: Sch. 3 para. 40 repealed (7.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/8); [S.R. 2008/339](https://www.legislation.gov.uk/nisr/2008/339), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2008/339/article/2/3/b)
 
-[^key-282121444c7a3b6ce37490a281ca11ec]: Textual amendment: Sch. 3 para. 46 repealed (with effect in accordance with s. 34(2)(c) of the amending Act) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [s. 36(1)(p)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/p), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) (with [s. 14(2)](https://www.legislation.gov.uk/nia/2010/13/section/14/2))
+[^c-282121444c7a3b6ce37490a281ca11ec]: Textual amendment: Sch. 3 para. 46 repealed (with effect in accordance with s. 34(2)(c) of the amending Act) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [s. 36(1)(p)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/p), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) (with [s. 14(2)](https://www.legislation.gov.uk/nia/2010/13/section/14/2))
 
-[^key-09b675e3ea11788fa5883e58e126eff9]: Textual amendment: Sch. 3 para. 59 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-09b675e3ea11788fa5883e58e126eff9]: Textual amendment: Sch. 3 para. 59 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

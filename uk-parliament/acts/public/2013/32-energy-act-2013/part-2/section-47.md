@@ -47,8 +47,8 @@ summary: ''
 
 (10) In subsection (9) “**licence modification power**” means a power conferred by section 26, 37 or 45 to modify—
 
-- (a) a condition of a licence granted to the national system operator under section 6(1)(da) of the EA 1989, or[^key-0af60c89cb959414ca689eae41e21ce9]
-- (b)[^key-1f003288a07d668a8213c79bdd55e7b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a condition of a licence granted to the national system operator under section 6(1)(da) of the EA 1989, or[^c-0af60c89cb959414ca689eae41e21ce9]
+- (b)[^c-1f003288a07d668a8213c79bdd55e7b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a document maintained in accordance with the conditions of such licences, or an agreement that gives effect to a document so maintained.
 
 (11) In this section—
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0af60c89cb959414ca689eae41e21ce9]: Textual amendment: Words in s. 47(10)(a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(8)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/8/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-0af60c89cb959414ca689eae41e21ce9]: Textual amendment: Words in s. 47(10)(a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(8)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/8/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-1f003288a07d668a8213c79bdd55e7b4]: Textual amendment: S. 47(10)(b) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(8)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/8/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-1f003288a07d668a8213c79bdd55e7b4]: Textual amendment: S. 47(10)(b) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(8)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/8/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

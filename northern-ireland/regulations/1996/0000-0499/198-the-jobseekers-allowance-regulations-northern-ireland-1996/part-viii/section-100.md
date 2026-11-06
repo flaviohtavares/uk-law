@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Earnings of self-employed earners[^key-de87df253a0374f2588e98d42a6f63e1]
+## 100. Earnings of self-employed earners[^c-de87df253a0374f2588e98d42a6f63e1]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de87df253a0374f2588e98d42a6f63e1]: Commencement: Reg. 100 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-de87df253a0374f2588e98d42a6f63e1]: Commencement: Reg. 100 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

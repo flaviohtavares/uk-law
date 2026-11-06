@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25.1. Notice of appeal[^key-3bba2ad4052644d757cefb32b8cdbb03]
+## 25.1. Notice of appeal[^c-3bba2ad4052644d757cefb32b8cdbb03]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bba2ad4052644d757cefb32b8cdbb03]: Commencement: [Rule 25.1](https://www.legislation.gov.uk/uksi/2015/1568/article/25.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3bba2ad4052644d757cefb32b8cdbb03]: Commencement: [Rule 25.1](https://www.legislation.gov.uk/uksi/2015/1568/article/25.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) A person who has duly applied to the Commission for a public collections certificate may appeal to the Tribunal[^key-4d5ad9ca72ad622b7478d2afbf702157] against a decision of the Commission under section 52—
+(1) A person who has duly applied to the Commission for a public collections certificate may appeal to the Tribunal[^c-4d5ad9ca72ad622b7478d2afbf702157] against a decision of the Commission under section 52—
 
 - (a) to refuse to issue the certificate, or
 - (b) to attach any condition to it.
@@ -58,13 +58,13 @@ and in any case the Tribunal may give such directions as it thinks fit, having r
 
 (7) If the Tribunal quashes the decision, it may remit the matter to the Commission (either generally or for determination in accordance with a finding made or direction given by the Tribunal).
 
-(8)[^key-51195c33874227a5a0186abfcd5a9514] In this section “the Tribunal”, in relation to any appeal under this section, means—
+(8)[^c-51195c33874227a5a0186abfcd5a9514] In this section “the Tribunal”, in relation to any appeal under this section, means—
 
 - (a) the Upper Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the Upper Tribunal is to hear the appeal; or
 - (b) the First-tier Tribunal, in any other case;
 
 ## Annotations
 
-[^key-4d5ad9ca72ad622b7478d2afbf702157]: Textual amendment: Word in s. 57(1) substituted (1.9.2009) by [The Transfer of Functions of the Charity Tribunal Order 2009 (S.I. 2009/1834)](https://www.legislation.gov.uk/uksi/2009/1834), [art. 1](https://www.legislation.gov.uk/uksi/2009/1834/article/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2009/1834/schedule/1/paragraph/17/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1834/schedule/4))
+[^c-4d5ad9ca72ad622b7478d2afbf702157]: Textual amendment: Word in s. 57(1) substituted (1.9.2009) by [The Transfer of Functions of the Charity Tribunal Order 2009 (S.I. 2009/1834)](https://www.legislation.gov.uk/uksi/2009/1834), [art. 1](https://www.legislation.gov.uk/uksi/2009/1834/article/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2009/1834/schedule/1/paragraph/17/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1834/schedule/4))
 
-[^key-51195c33874227a5a0186abfcd5a9514]: Textual amendment: S. 57(8) inserted (1.9.2009) by [The Transfer of Functions of the Charity Tribunal Order 2009 (S.I. 2009/1834)](https://www.legislation.gov.uk/uksi/2009/1834), [art. 1](https://www.legislation.gov.uk/uksi/2009/1834/article/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2009/1834/schedule/1/paragraph/17/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1834/schedule/4))
+[^c-51195c33874227a5a0186abfcd5a9514]: Textual amendment: S. 57(8) inserted (1.9.2009) by [The Transfer of Functions of the Charity Tribunal Order 2009 (S.I. 2009/1834)](https://www.legislation.gov.uk/uksi/2009/1834), [art. 1](https://www.legislation.gov.uk/uksi/2009/1834/article/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2009/1834/schedule/1/paragraph/17/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1834/schedule/4))

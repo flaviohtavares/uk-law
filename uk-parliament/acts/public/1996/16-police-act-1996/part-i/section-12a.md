@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Power of deputy to exercise functions of chief constable[^key-ef098b5dd08bc76c3d5265cd2d351cf8]
+## 12A. Power of deputy to exercise functions of chief constable[^c-ef098b5dd08bc76c3d5265cd2d351cf8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef098b5dd08bc76c3d5265cd2d351cf8]: Textual amendment: Ss. 10-12A omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/15); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-ef098b5dd08bc76c3d5265cd2d351cf8]: Textual amendment: Ss. 10-12A omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/15); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)

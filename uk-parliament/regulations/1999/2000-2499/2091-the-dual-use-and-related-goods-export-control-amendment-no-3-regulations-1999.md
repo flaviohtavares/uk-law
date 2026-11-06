@@ -33,7 +33,7 @@ This Statutory Instrument has been made in consequence of an omission in S.I. 19
 
 CUSTOMS AND EXCISE
 
-The Dual-Use and Related Goods (Export Control) (Amendment No. 3) Regulations 1999 (revoked)[^key-d9acb20c245bb370a77ac107d61c419b]
+The Dual-Use and Related Goods (Export Control) (Amendment No. 3) Regulations 1999 (revoked)[^c-d9acb20c245bb370a77ac107d61c419b]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 26th July 1999
 
-[^key-d9acb20c245bb370a77ac107d61c419b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9acb20c245bb370a77ac107d61c419b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-d9acb20c245bb370a77ac107d61c419b]
+## 1.[^c-d9acb20c245bb370a77ac107d61c419b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-d9acb20c245bb370a77ac107d61c419b]
+## 2.[^c-d9acb20c245bb370a77ac107d61c419b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9acb20c245bb370a77ac107d61c419b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9acb20c245bb370a77ac107d61c419b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d9acb20c245bb370a77ac107d61c419b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9acb20c245bb370a77ac107d61c419b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9acb20c245bb370a77ac107d61c419b]: Textual amendment: Regulations revoked (28.9.2000) by [The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)](https://www.legislation.gov.uk/uksi/2000/2620), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2620/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2620/schedule/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2000/2620/regulation/14))
+[^c-d9acb20c245bb370a77ac107d61c419b]: Textual amendment: Regulations revoked (28.9.2000) by [The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)](https://www.legislation.gov.uk/uksi/2000/2620), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2620/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2620/schedule/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2000/2620/regulation/14))

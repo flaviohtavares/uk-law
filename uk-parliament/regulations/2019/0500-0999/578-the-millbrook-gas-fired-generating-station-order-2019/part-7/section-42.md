@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Funding[^key-585d3198646ccfb7a5590cc52396571a]
+## 42. Funding[^c-585d3198646ccfb7a5590cc52396571a]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585d3198646ccfb7a5590cc52396571a]: Commencement: Art. 42 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-585d3198646ccfb7a5590cc52396571a]: Commencement: Art. 42 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

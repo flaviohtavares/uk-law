@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50A. Sections 49 and 50: matter to which education authority must have regard[^key-79c7fd66d37b2b1145738f92ba4224f4]
+## 50A. Sections 49 and 50: matter to which education authority must have regard[^c-79c7fd66d37b2b1145738f92ba4224f4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ would comply with nutritional requirements specified by the Scottish Ministers b
 
 ## Annotations
 
-[^key-79c7fd66d37b2b1145738f92ba4224f4]: Textual amendment: S. 50A inserted (4.8.2008) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 5(3)](https://www.legislation.gov.uk/asp/2007/15/section/5/3), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-79c7fd66d37b2b1145738f92ba4224f4]: Textual amendment: S. 50A inserted (4.8.2008) by [Schools (Health Promotion and Nutrition) (Scotland) Act 2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15), [ss. 5(3)](https://www.legislation.gov.uk/asp/2007/15/section/5/3), [11(2)](https://www.legislation.gov.uk/asp/2007/15/section/11/2); [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)

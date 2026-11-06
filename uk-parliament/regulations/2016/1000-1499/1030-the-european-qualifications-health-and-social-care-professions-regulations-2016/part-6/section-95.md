@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Introductory[^key-aa9b53a78ef99281761aa0b56fc1f847]
+## 95. Introductory[^c-aa9b53a78ef99281761aa0b56fc1f847]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Chiropractors Act 1994[^f00076] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-aa9b53a78ef99281761aa0b56fc1f847]: Commencement: Reg. 95 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-aa9b53a78ef99281761aa0b56fc1f847]: Commencement: Reg. 95 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00076]: Footnote: c. 17.

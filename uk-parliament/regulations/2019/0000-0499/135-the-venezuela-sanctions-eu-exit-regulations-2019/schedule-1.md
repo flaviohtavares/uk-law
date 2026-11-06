@@ -22,17 +22,17 @@ summary: ''
 
 Regulation 7(3)
 
-### 1. Application of Schedule[^key-9a4446206f50990939bd48c2edd01c04]
+### 1. Application of Schedule[^c-9a4446206f50990939bd48c2edd01c04]
 
 (1) The rules set out in the following paragraphs of this Schedule apply for the purpose of interpreting regulation 7(2).
 
 (2) They also apply for the purpose of interpreting this Schedule.
 
-### 2. Joint interests[^key-afb75568ffc36b2bf4b585e8d1b0d712]
+### 2. Joint interests[^c-afb75568ffc36b2bf4b585e8d1b0d712]
 
 If two or more persons each hold a share or right jointly, each of them is treated as holding that share or right.
 
-### 3. Joint arrangements[^key-cc28e6f0cc88a2aa3941a6a29c92a2e7]
+### 3. Joint arrangements[^c-cc28e6f0cc88a2aa3941a6a29c92a2e7]
 
 (1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined shares or rights of both of them.
 
@@ -40,7 +40,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 
 (3) “**Arrangement**” has the meaning given by paragraph 12.
 
-### 4. Calculating shareholdings[^key-1a07a599ba5fa323f5eec831f9fafc09]
+### 4. Calculating shareholdings[^c-1a07a599ba5fa323f5eec831f9fafc09]
 
 (1) In relation to a person who has a share capital, a reference to holding “more than 50% of the shares” in that person is to holding shares comprised in the issued share capital of that person of a nominal value exceeding (in aggregate) 50% of that share capital.
 
@@ -49,7 +49,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding shares in that person is to holding a right or rights to share in the capital or, as the case may be, profits of that person;
 - (b) a reference to holding “more than 50% of the shares” in that person is to holding a right or rights to share in more than 50% of the capital or, as the case may be, profits of that person.
 
-### 5. Voting rights[^key-e2cc56e5b757b62431592a21bfa04613]
+### 5. Voting rights[^c-e2cc56e5b757b62431592a21bfa04613]
 
 (1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
 
@@ -58,15 +58,15 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
 - (b) a reference to holding “more than 50% of the voting rights” in the person is to be read as a reference to holding the right under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
 
-**6.**[^key-d571ac503a40140edf402f56ebe268c4] In applying regulation 7(2) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
+**6.**[^c-d571ac503a40140edf402f56ebe268c4] In applying regulation 7(2) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
 
-### 7. Rights to appoint or remove members of the board[^key-5df94d64b928f903114a9bf528b2b029]
+### 7. Rights to appoint or remove members of the board[^c-5df94d64b928f903114a9bf528b2b029]
 
 A reference to the right to appoint or remove a majority of the board of directors of a person is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
 
-**8.**[^key-6f045553d7b773339886547b18037a55] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
+**8.**[^c-6f045553d7b773339886547b18037a55] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
 
-### 9. Shares or rights held “indirectly”[^key-f5e3715c50ad5f8725359196ee35a7f4]
+### 9. Shares or rights held “indirectly”[^c-f5e3715c50ad5f8725359196ee35a7f4]
 
 (1) A person holds a share “indirectly” if the person has a majority stake in another person and that other person—
 
@@ -94,11 +94,11 @@ A reference to the right to appoint or remove a majority of the board of directo
 - (a) any person's appointment as director follows necessarily from that person's appointment as director of A, or
 - (b) the directorship is held by A itself.
 
-### 10. Shares held by nominees[^key-0c9659800cdc3e7804f91baf3965de50]
+### 10. Shares held by nominees[^c-0c9659800cdc3e7804f91baf3965de50]
 
 A share held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
 
-### 11. Rights treated as held by person who controls their exercise[^key-f6a89ff7eb383dcf4cc84952e0a4da0d]
+### 11. Rights treated as held by person who controls their exercise[^c-f6a89ff7eb383dcf4cc84952e0a4da0d]
 
 (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
@@ -108,12 +108,12 @@ A share held by a person as nominee for another is to be treated as held by the 
 - (b) in accordance with that person's directions or instructions, or
 - (c) with that person's consent or concurrence.
 
-**12.**[^key-d49632b999780a7ac07d9b16cd0a8b0a] “**Arrangement**” includes—
+**12.**[^c-d49632b999780a7ac07d9b16cd0a8b0a] “**Arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
 
-### 13. Rights exercisable only in certain circumstances etc[^key-f7cbacb0b0dd887f10464563f563656c]
+### 13. Rights exercisable only in certain circumstances etc[^c-f7cbacb0b0dd887f10464563f563656c]
 
 (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
@@ -130,7 +130,7 @@ A share held by a person as nominee for another is to be treated as held by the 
 
 (4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
 
-### 14. Rights attached to shares held by way of security[^key-fb5493a039e73668c376daded8676fae]
+### 14. Rights attached to shares held by way of security[^c-fb5493a039e73668c376daded8676fae]
 
 Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
 
@@ -139,34 +139,34 @@ Rights attached to shares held by way of security provided by a person are to be
 
 ## Annotations
 
-[^key-9a4446206f50990939bd48c2edd01c04]: Commencement: Sch. 1 para. 1 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-9a4446206f50990939bd48c2edd01c04]: Commencement: Sch. 1 para. 1 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-afb75568ffc36b2bf4b585e8d1b0d712]: Commencement: Sch. 1 para. 2 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-afb75568ffc36b2bf4b585e8d1b0d712]: Commencement: Sch. 1 para. 2 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-cc28e6f0cc88a2aa3941a6a29c92a2e7]: Commencement: Sch. 1 para. 3 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-cc28e6f0cc88a2aa3941a6a29c92a2e7]: Commencement: Sch. 1 para. 3 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-1a07a599ba5fa323f5eec831f9fafc09]: Commencement: Sch. 1 para. 4 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-1a07a599ba5fa323f5eec831f9fafc09]: Commencement: Sch. 1 para. 4 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-e2cc56e5b757b62431592a21bfa04613]: Commencement: Sch. 1 para. 5 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-e2cc56e5b757b62431592a21bfa04613]: Commencement: Sch. 1 para. 5 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-d571ac503a40140edf402f56ebe268c4]: Commencement: Sch. 1 para. 6 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-d571ac503a40140edf402f56ebe268c4]: Commencement: Sch. 1 para. 6 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-5df94d64b928f903114a9bf528b2b029]: Commencement: Sch. 1 para. 7 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-5df94d64b928f903114a9bf528b2b029]: Commencement: Sch. 1 para. 7 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-6f045553d7b773339886547b18037a55]: Commencement: Sch. 1 para. 8 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-6f045553d7b773339886547b18037a55]: Commencement: Sch. 1 para. 8 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-f5e3715c50ad5f8725359196ee35a7f4]: Commencement: Sch. 1 para. 9 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-f5e3715c50ad5f8725359196ee35a7f4]: Commencement: Sch. 1 para. 9 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-0c9659800cdc3e7804f91baf3965de50]: Commencement: Sch. 1 para. 10 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-0c9659800cdc3e7804f91baf3965de50]: Commencement: Sch. 1 para. 10 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-f6a89ff7eb383dcf4cc84952e0a4da0d]: Commencement: Sch. 1 para. 11 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-f6a89ff7eb383dcf4cc84952e0a4da0d]: Commencement: Sch. 1 para. 11 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-d49632b999780a7ac07d9b16cd0a8b0a]: Commencement: Sch. 1 para. 12 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-d49632b999780a7ac07d9b16cd0a8b0a]: Commencement: Sch. 1 para. 12 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
-[^key-f7cbacb0b0dd887f10464563f563656c]: Commencement: Sch. 1 para. 13 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-f7cbacb0b0dd887f10464563f563656c]: Commencement: Sch. 1 para. 13 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
 
 [^c23543311]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^c23543321]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-fb5493a039e73668c376daded8676fae]: Commencement: Sch. 1 para. 14 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)
+[^c-fb5493a039e73668c376daded8676fae]: Commencement: Sch. 1 para. 14 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/k)

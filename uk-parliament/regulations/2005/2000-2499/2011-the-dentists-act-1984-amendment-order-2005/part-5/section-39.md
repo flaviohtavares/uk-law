@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Substitution of sections 43 and 44[^key-dbb2d04b350bcffc49e45aec2521d67e]
+## 39. Substitution of sections 43 and 44[^c-dbb2d04b350bcffc49e45aec2521d67e]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,4 +202,4 @@ For sections 43 and 44 substitute—
 
 ## Annotations
 
-[^key-dbb2d04b350bcffc49e45aec2521d67e]: Commencement: Art. 39 in force at 19.7.2005 for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)
+[^c-dbb2d04b350bcffc49e45aec2521d67e]: Commencement: Art. 39 in force at 19.7.2005 for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)

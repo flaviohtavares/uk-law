@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Meeting to approve the revised statement of proposals[^key-5cbb4aa3fcc387f93deeb8db8042134f]
+## 33. Meeting to approve the revised statement of proposals[^c-5cbb4aa3fcc387f93deeb8db8042134f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbb4aa3fcc387f93deeb8db8042134f]: Commencement: Rule 33 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-5cbb4aa3fcc387f93deeb8db8042134f]: Commencement: Rule 33 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

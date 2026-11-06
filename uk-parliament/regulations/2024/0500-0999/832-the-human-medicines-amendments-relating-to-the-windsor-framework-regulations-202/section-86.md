@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Amendment to regulation 195[^key-c66e703c440e85ee5e960a2640296113]
+## 86. Amendment to regulation 195[^c-c66e703c440e85ee5e960a2640296113]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 195 (obligation on licensing authority to assess PSURs)[^f00096]â€
 
 ## Annotations
 
-[^key-c66e703c440e85ee5e960a2640296113]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2024/832/regulation/86) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c66e703c440e85ee5e960a2640296113]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2024/832/regulation/86) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00096]: Footnote: Regulation 195 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878) and [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), including as that instrument was amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

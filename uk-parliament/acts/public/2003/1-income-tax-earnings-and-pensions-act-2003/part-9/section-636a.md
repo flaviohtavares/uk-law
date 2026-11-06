@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 636A. Exemptions and liabilities for certain lump sums under registered pension schemes[^key-a5e7a003c799e1d87c65b8ecbd2749d1][^key-b53db7a29a6dc5496e67e4a450a4600c]
+## 636A. Exemptions and liabilities for certain lump sums under registered pension schemes[^c-a5e7a003c799e1d87c65b8ecbd2749d1][^c-b53db7a29a6dc5496e67e4a450a4600c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5e7a003c799e1d87c65b8ecbd2749d1]: Textual amendment: Pt. 9 Ch. 15A substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 41](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/41), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-a5e7a003c799e1d87c65b8ecbd2749d1]: Textual amendment: Pt. 9 Ch. 15A substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 41](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/41), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
 
-[^key-b53db7a29a6dc5496e67e4a450a4600c]: Textual amendment: Words in s. 636A heading substituted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/2/2)
+[^c-b53db7a29a6dc5496e67e4a450a4600c]: Textual amendment: Words in s. 636A heading substituted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/2/2)

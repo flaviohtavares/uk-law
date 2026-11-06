@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69A. Power to create exceptions from the employer duties etc.[^key-de78c426201d9e3e676c675ad00429ac]
+## 69A. Power to create exceptions from the employer duties etc.[^c-de78c426201d9e3e676c675ad00429ac]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de78c426201d9e3e676c675ad00429ac]: Textual amendment: S. 69A and preceding cross-heading inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 37(2)](https://www.legislation.gov.uk/nia/2015/5/section/37/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/c)
+[^c-de78c426201d9e3e676c675ad00429ac]: Textual amendment: S. 69A and preceding cross-heading inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 37(2)](https://www.legislation.gov.uk/nia/2015/5/section/37/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/c)

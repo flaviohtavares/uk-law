@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Deemed marine licence under the 2009 Act[^key-e70a11b1d6cdc357bf7b242f98aa41a2]
+## 5. Deemed marine licence under the 2009 Act[^c-e70a11b1d6cdc357bf7b242f98aa41a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The marine licence set out in Schedule 14 is deemed to have been granted to the 
 
 ## Annotations
 
-[^key-e70a11b1d6cdc357bf7b242f98aa41a2]: Commencement: Art. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-e70a11b1d6cdc357bf7b242f98aa41a2]: Commencement: Art. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

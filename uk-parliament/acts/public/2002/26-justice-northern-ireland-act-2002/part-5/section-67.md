@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Flying of flags at court-houses[^key-0d52fb1ca2c419d534273b84237e7b44]
+## 67. Flying of flags at court-houses[^c-0d52fb1ca2c419d534273b84237e7b44]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d52fb1ca2c419d534273b84237e7b44]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2002/26/section/67) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 15](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/15)
+[^c-0d52fb1ca2c419d534273b84237e7b44]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2002/26/section/67) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 15](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/15)

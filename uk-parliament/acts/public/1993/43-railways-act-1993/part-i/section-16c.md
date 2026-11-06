@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) An application for a direction under section 16A above must be made to the Office of Rail and Road[^key-bdd22d9d88f10140b2169686e9f87d0b] in writing.
+(1) An application for a direction under section 16A above must be made to the Office of Rail and Road[^c-bdd22d9d88f10140b2169686e9f87d0b] in writing.
 
 (2) The application must—
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c14099371]: Textual amendment: S. 16C inserted (15.10.2005) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 223](https://www.legislation.gov.uk/ukpga/2000/38/section/223), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1); [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
-[^key-bdd22d9d88f10140b2169686e9f87d0b]: Textual amendment: Words in s. 16C substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(r)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/r)
+[^c-bdd22d9d88f10140b2169686e9f87d0b]: Textual amendment: Words in s. 16C substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(r)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/r)
 
 [^c18823781]: Textual amendment: Words in s. 16C(3) substituted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/11/1): [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)

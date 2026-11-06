@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.76A. Interpretation and application of this Part[^key-79ef32e36646679c5a3187c43d8edae8]
+## 3.76A. Interpretation and application of this Part[^c-79ef32e36646679c5a3187c43d8edae8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79ef32e36646679c5a3187c43d8edae8]: Textual amendment: Ch. 3 Pt. 11A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(62)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/62) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-79ef32e36646679c5a3187c43d8edae8]: Textual amendment: Ch. 3 Pt. 11A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(62)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/62) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

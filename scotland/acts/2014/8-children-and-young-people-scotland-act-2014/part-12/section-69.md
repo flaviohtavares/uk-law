@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Relevant services: further provision[^key-0be89d74d1e03a3eb7c6c26735c82264]
+## 69. Relevant services: further provision[^c-0be89d74d1e03a3eb7c6c26735c82264]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0be89d74d1e03a3eb7c6c26735c82264]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/8/section/69) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-0be89d74d1e03a3eb7c6c26735c82264]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/8/section/69) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

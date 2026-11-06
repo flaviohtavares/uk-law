@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Voluntary revision of annual accounts[^key-113873b55d07f7b3743d3429e211c496]
+## 10. Voluntary revision of annual accounts[^c-113873b55d07f7b3743d3429e211c496]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-113873b55d07f7b3743d3429e211c496]: Commencement: Reg. 10 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-113873b55d07f7b3743d3429e211c496]: Commencement: Reg. 10 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00009]: Footnote: Section 245 was substituted by section 12 of the Companies Act 1989, and amended by regulation 4 of, and paragraph 2 in Part I of Schedule 1 to, S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935) and regulation 10(9) of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Calculation of “retirement PIA index adjustment”[^key-ab18dabf06ec418632b80971a31a7ffc]
+## 34. Calculation of “retirement PIA index adjustment”[^c-ab18dabf06ec418632b80971a31a7ffc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab18dabf06ec418632b80971a31a7ffc]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-ab18dabf06ec418632b80971a31a7ffc]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

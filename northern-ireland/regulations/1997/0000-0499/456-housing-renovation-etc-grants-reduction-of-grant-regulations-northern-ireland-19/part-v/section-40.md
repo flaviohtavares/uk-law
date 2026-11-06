@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Interpretation[^key-42dd7816bb3bf8489a516caf8df06e27]
+## 40. Interpretation[^c-42dd7816bb3bf8489a516caf8df06e27]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ In this Part, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-42dd7816bb3bf8489a516caf8df06e27]: Commencement: Reg. 40 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-42dd7816bb3bf8489a516caf8df06e27]: Commencement: Reg. 40 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00047]: Footnote: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37); to which there are no relevant amendments
 

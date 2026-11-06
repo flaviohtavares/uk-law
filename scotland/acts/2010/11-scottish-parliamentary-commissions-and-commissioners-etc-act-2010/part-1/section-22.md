@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The Commissioner[^key-5772912b2b22e8a761cbea4c0d2e467c] must, in accordance with any directions in that regard given by the Scottish Ministers—
+(1) The Commissioner[^c-5772912b2b22e8a761cbea4c0d2e467c] must, in accordance with any directions in that regard given by the Scottish Ministers—
 
 - (a) keep proper accounts and accounting records,
 - (b) prepare annual accounts in respect of each financial year, and
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5772912b2b22e8a761cbea4c0d2e467c]: Textual amendment: Word in s. 22 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 24](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/24)
+[^c-5772912b2b22e8a761cbea4c0d2e467c]: Textual amendment: Word in s. 22 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 24](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/24)

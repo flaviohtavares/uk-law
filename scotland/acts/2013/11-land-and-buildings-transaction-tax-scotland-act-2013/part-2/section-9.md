@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Completion without substantial performance[^key-0ce49ac6dfce51e64d472d8e20e6ef26][^key-d4bf87f04305998e239b24115e944af8]
+## 9. Completion without substantial performance[^c-0ce49ac6dfce51e64d472d8e20e6ef26][^c-d4bf87f04305998e239b24115e944af8]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ce49ac6dfce51e64d472d8e20e6ef26]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/11/section/9) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0ce49ac6dfce51e64d472d8e20e6ef26]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/11/section/9) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d4bf87f04305998e239b24115e944af8]: Modification: [S. 9](https://www.legislation.gov.uk/asp/2013/11/section/9) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377), [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2014/377/article/4/2)
+[^c-d4bf87f04305998e239b24115e944af8]: Modification: [S. 9](https://www.legislation.gov.uk/asp/2013/11/section/9) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377), [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2014/377/article/4/2)

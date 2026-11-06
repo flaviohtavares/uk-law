@@ -32,13 +32,13 @@ Regulation 5
 - “**article 21 remedy application**” means an application to the court by a foreign representative under article 21(1) or (2) of the Model Law for remedy;
 - “**business day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in Scotland under or by virtue of the Banking and Financial Dealings Act 1971 [^c15463361];
 - “**the Gazette**” means the Edinburgh Gazette;
-- [^key-c6684c4203ce736e46ebde06c5b0c987]...
-- [^key-c6684c4203ce736e46ebde06c5b0c987]...
+- [^c-c6684c4203ce736e46ebde06c5b0c987]...
+- [^c-c6684c4203ce736e46ebde06c5b0c987]...
 - “**the Model Law**” means the UNCITRAL Model Law as set out in Schedule 1 to these Regulations;
 - “**modification or termination order**” means an order by the court pursuant to its powers under the Model Law modifying or terminating recognition of a foreign proceeding, the sist, restraint or suspension referred to in article 20(1) or any part of it or any remedy granted under article 19 or 21 of the Model Law;
 - “**recognition application**” means an application to the court by a foreign representative in accordance with article 15 of the Model Law for an order recognising the foreign proceeding in which he has been appointed;
 - “**recognition order**” means an order by the court recognising a proceeding the subject of a recognition application as a foreign main proceeding or foreign non-main proceeding, as appropriate;
-- “[^key-57d343743e0f4eb5cb3970251d5778f6]**relevant company**” means a company that is—
+- “[^c-57d343743e0f4eb5cb3970251d5778f6]**relevant company**” means a company that is—
   - (a) registered under the Companies Act 2006,
   - (b) subject to a requirement imposed by regulations under section 1043 of that Act (unregistered UK companies) to deliver any documents to the registrar of companies, or
   - (c) subject to a requirement imposed by regulations under section 1046 of that Act (overseas companies) to deliver any documents to the registrar of companies;
@@ -46,7 +46,7 @@ Regulation 5
 
 (2) Expressions defined in the Model Law have the same meaning when used in this Schedule.
 
-(3)[^key-3519d22bacde03068ee49d4fe827abd2] References in this Schedule to a debtor who is of interest to the Financial Conduct Authority are references to a debtor who—
+(3)[^c-3519d22bacde03068ee49d4fe827abd2] References in this Schedule to a debtor who is of interest to the Financial Conduct Authority are references to a debtor who—
 
 - (a) is, or has been, an authorised person within the meaning of the Financial Services and Markets Act 2000;
 - (b) is, or has been, an appointed representative within the meaning of section 39 of the Financial Services and Markets Act 2000; or
@@ -57,7 +57,7 @@ Regulation 5
 - (a) is, or has been, a PRA-authorised person within the meaning of the Financial Services and Markets Act 2000; or
 - (b) is carrying on, or has carried on, a PRA-regulated activity within the meaning of the Financial Services and Markets Act 2000 in contravention of the general prohibition.
 
-(4) In sub-paragraphs (3) and (3A)[^key-4d34b7f9eaf5c7fbcaa994012c722dcb] “**the general prohibition**” has the meaning given by section 19 of the Financial Services and Markets Act 2000 and the reference to a “regulated activity” must be construed in accordance with—
+(4) In sub-paragraphs (3) and (3A)[^c-4d34b7f9eaf5c7fbcaa994012c722dcb] “**the general prohibition**” has the meaning given by section 19 of the Financial Services and Markets Act 2000 and the reference to a “regulated activity” must be construed in accordance with—
 
 - (a) section 22 of that Act (classes of regulated activity and categories of investment);
 - (b) any relevant order under that section; and
@@ -141,15 +141,15 @@ Regulation 5
 
 - (a) the foreign representative;
 - (b) the debtor and, in the case of any debtor other than an individual, any one or more directors or other officers of the debtor, including—
-  - (i)[^key-2b4034931cf21842eba608fedef5f462] where applicable, any person specified in particulars registered under section 1046 of the Companies Act 2006 (overseas companies) as authorised to represent the debtor;
+  - (i)[^c-2b4034931cf21842eba608fedef5f462] where applicable, any person specified in particulars registered under section 1046 of the Companies Act 2006 (overseas companies) as authorised to represent the debtor;
   - (ii) in the case of a debtor which is a partnership, any person who is a member of the partnership;
 - (c) if a British insolvency officeholder is acting in relation to the debtor, that person;
 - (d) if any person has been appointed an administrative receiver of the debtor or as a receiver or manager of the property of the debtor, that person;
-- (e)[^key-ef0679d7f0c3aeed2e628e9c18cfb629] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-ef0679d7f0c3aeed2e628e9c18cfb629] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) if a foreign representative has been appointed in any other foreign proceeding regarding the debtor, that person;
 - (g) any person who has presented a petition for the winding up or sequestration of the debtor in Scotland;
 - (h) any person who is or may be entitled to appoint an administrator of the debtor under paragraph 14 of Schedule B1 to the 1986 Act [^c15463431] (appointment of administrator by holder of qualifying floating charge);
-- (i)[^key-7525e16ccb15d41d514bfce2c4d9313b] if the debtor is a debtor who is of interest to the Financial Conduct Authority, that Authority;
+- (i)[^c-7525e16ccb15d41d514bfce2c4d9313b] if the debtor is a debtor who is of interest to the Financial Conduct Authority, that Authority;
 - (ia) if the debtor is a debtor who is of interest to the Prudential Regulation Authority, that Authority; and
 - (j) with the permission of the court, any other person who appears to have an interest justifying his appearance.
 
@@ -163,11 +163,11 @@ Regulation 5
 
 - (a) if a British insolvency officeholder is acting in relation to the debtor, to him;
 - (b) if any person has been appointed an administrative receiver of the debtor or, to the knowledge of the foreign representative, as a receiver or manager of the property of the debtor, to him;
-- (c)[^key-1cff8044b82f3c72c07c73c8ee0dc8e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1cff8044b82f3c72c07c73c8ee0dc8e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) if to his knowledge a foreign representative has been appointed in any other foreign proceeding regarding the debtor, that person;
 - (e) if there is pending in Scotland a petition for the winding up or sequestration of the debtor, to the petitioner;
 - (f) to any person who to his knowledge is or may be entitled to appoint an administrator of the debtor under paragraph 14 of Schedule B1 to the 1986 Act (appointment of administrator by holder of qualifying floating charge);
-- (g)[^key-b5e196b6a203e373c729a18dcdf6a41f] if the debtor is a debtor who is of interest to the Financial Conduct Authority, to that Authority;
+- (g)[^c-b5e196b6a203e373c729a18dcdf6a41f] if the debtor is a debtor who is of interest to the Financial Conduct Authority, to that Authority;
 - (ga) if the debtor is a debtor who is of interest to the Prudential Regulation Authority, to that Authority; and
 - (h) to such persons as the court may direct.
 
@@ -205,11 +205,11 @@ and the advertisement shall be in Form ML 8.
 - (c) if a foreign representative has been appointed in any other foreign proceeding regarding the debtor, that person;
 - (d) if a British insolvency officeholder is acting in relation to the debtor, that person;
 - (e) any person stating himself in writing to be a creditor of the debtor to which the proceedings under these Regulations relate;
-- (f)[^key-57e60f9d033025422524b817c6b52113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-57e60f9d033025422524b817c6b52113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the debtor to which the proceedings under these Regulations relate, or, if that debtor is a company, corporation or partnership, every person who is, or at any time has been—
   - (i) a director or officer of the debtor,
   - (ii) a member of the debtor, or
-  - (iii)[^key-dafac40a40f0d2fde1df7a06a75b7d25] where applicable, any person specified in particulars registered under section 1046 of the Companies Act 2006 (overseas companies) as authorised to represent the debtor;
+  - (iii)[^c-dafac40a40f0d2fde1df7a06a75b7d25] where applicable, any person specified in particulars registered under section 1046 of the Companies Act 2006 (overseas companies) as authorised to represent the debtor;
 
 (2) The right of inspection conferred as above on any person may be exercised on his behalf by a person properly authorised by him.
 
@@ -265,26 +265,26 @@ If, in accordance with article 23(6) of the Model Law, the court grants a foreig
 
 [^c15463361]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c6684c4203ce736e46ebde06c5b0c987]: Textual amendment: Words in Sch. 3 para. 1(1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 127](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/127) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6684c4203ce736e46ebde06c5b0c987]: Textual amendment: Words in Sch. 3 para. 1(1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 127](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/127) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57d343743e0f4eb5cb3970251d5778f6]: Textual amendment: Words in Sch. 3 para. 1(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(4)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/4/a)
+[^c-57d343743e0f4eb5cb3970251d5778f6]: Textual amendment: Words in Sch. 3 para. 1(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(4)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/4/a)
 
-[^key-3519d22bacde03068ee49d4fe827abd2]: Textual amendment: Sch. 3 para. 1(3)(3A) substituted for Sch. 3 para. 1(3) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/aa)
+[^c-3519d22bacde03068ee49d4fe827abd2]: Textual amendment: Sch. 3 para. 1(3)(3A) substituted for Sch. 3 para. 1(3) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/aa)
 
-[^key-4d34b7f9eaf5c7fbcaa994012c722dcb]: Textual amendment: Words in Sch. 3 para. 1(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/bb)
+[^c-4d34b7f9eaf5c7fbcaa994012c722dcb]: Textual amendment: Words in Sch. 3 para. 1(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/bb)
 
-[^key-2b4034931cf21842eba608fedef5f462]: Textual amendment: Sch. 3 para. 6(1)(b)(i) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(4)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/4/b)
+[^c-2b4034931cf21842eba608fedef5f462]: Textual amendment: Sch. 3 para. 6(1)(b)(i) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(4)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/4/b)
 
-[^key-ef0679d7f0c3aeed2e628e9c18cfb629]: Textual amendment: Sch. 3 para. 6(1)(e) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 128](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/128) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef0679d7f0c3aeed2e628e9c18cfb629]: Textual amendment: Sch. 3 para. 6(1)(e) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 128](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/128) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15463431]: Marginal citation: Schedule B1 was inserted by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 248(2)](https://www.legislation.gov.uk/ukpga/2002/40/section/248/2) and Schedule 16.
 
-[^key-7525e16ccb15d41d514bfce2c4d9313b]: Textual amendment: Sch. 3 para. 6(1)(i)(ia) substituted for Sch. 3 para. 6(1)(i) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/ii)
+[^c-7525e16ccb15d41d514bfce2c4d9313b]: Textual amendment: Sch. 3 para. 6(1)(i)(ia) substituted for Sch. 3 para. 6(1)(i) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/ii)
 
-[^key-1cff8044b82f3c72c07c73c8ee0dc8e2]: Textual amendment: Sch. 3 para. 7(3)(c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 129](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/129) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cff8044b82f3c72c07c73c8ee0dc8e2]: Textual amendment: Sch. 3 para. 7(3)(c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 129](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/129) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5e196b6a203e373c729a18dcdf6a41f]: Textual amendment: Sch. 3 para. 7(3)(g)(ga) substituted for Sch. 3 para. 7(3)(g) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/iii)
+[^c-b5e196b6a203e373c729a18dcdf6a41f]: Textual amendment: Sch. 3 para. 7(3)(g)(ga) substituted for Sch. 3 para. 7(3)(g) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 116(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/116/b/iii)
 
-[^key-57e60f9d033025422524b817c6b52113]: Textual amendment: Sch. 3 para. 9(1)(f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 130](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/130) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57e60f9d033025422524b817c6b52113]: Textual amendment: Sch. 3 para. 9(1)(f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 130](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/130) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dafac40a40f0d2fde1df7a06a75b7d25]: Textual amendment: Sch. 3 para. 9(1)(g)(iii) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(4)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/4/c)
+[^c-dafac40a40f0d2fde1df7a06a75b7d25]: Textual amendment: Sch. 3 para. 9(1)(g)(iii) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(4)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/4/c)

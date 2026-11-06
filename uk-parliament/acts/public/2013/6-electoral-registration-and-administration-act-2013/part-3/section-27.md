@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject as follows, Parts 1 and 2 of this Act come into force on such day as the Secretary of State[^key-1f37cb73ad01e6524ec575e1e41d8746] may by order made by statutory instrument appoint.
+(1) Subject as follows, Parts 1 and 2 of this Act come into force on such day as the Secretary of State[^c-1f37cb73ad01e6524ec575e1e41d8746] may by order made by statutory instrument appoint.
 
 (2) Paragraph 28 of Schedule 5 comes into force at the end of the period of 2 months beginning with the day on which this Act is passed.
 
@@ -47,10 +47,10 @@ summary: ''
 - “**modify**” includes amend, repeal or revoke;
 - “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978.
 
-(10) The Secretary of State[^key-f88bc3edaddf3ea084899c6869b189c9] may by order made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act or of any provision of an order made by virtue of subsection (5).
+(10) The Secretary of State[^c-f88bc3edaddf3ea084899c6869b189c9] may by order made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act or of any provision of an order made by virtue of subsection (5).
 
 ## Annotations
 
-[^key-1f37cb73ad01e6524ec575e1e41d8746]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-1f37cb73ad01e6524ec575e1e41d8746]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-f88bc3edaddf3ea084899c6869b189c9]: Textual amendment: Words in [s. 27(10)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/10) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-f88bc3edaddf3ea084899c6869b189c9]: Textual amendment: Words in [s. 27(10)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/10) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))

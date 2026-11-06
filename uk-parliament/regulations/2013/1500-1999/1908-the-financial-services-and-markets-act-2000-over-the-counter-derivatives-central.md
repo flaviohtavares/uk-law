@@ -50,9 +50,9 @@ The Treasury make the following Regulations in exercise of—
 - (b) the powers conferred by sections 155(4) and (5), 186(1) and 187(3) of the Companies Act 1989[^f00003] and now vested in them[^f00004];
 - (c) the powers conferred by sections 286 and 428(3) of the Financial Services and Markets Act 2000[^f00005], with the approval of the Secretary of State required by section 286(2) of that Act.
 
-The Treasury and the Secretary of State make the following Regulations in exercise of the powers conferred by sections 158(4) and (5), 185 and 186(1) of the Companies Act 1989[^f00006] and now vested in them jointly[^f00007].[^key-6767f460f82cb5675d24799332e5567d]
+The Treasury and the Secretary of State make the following Regulations in exercise of the powers conferred by sections 158(4) and (5), 185 and 186(1) of the Companies Act 1989[^f00006] and now vested in them jointly[^f00007].[^c-6767f460f82cb5675d24799332e5567d]
 
-## 1. Citation, interpretation and commencement[^key-ef5d6172ddd142f73c236d899dd0c8f0]
+## 1. Citation, interpretation and commencement[^c-ef5d6172ddd142f73c236d899dd0c8f0]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (No. 2) Regulations 2013.
 
@@ -64,7 +64,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 - (b) on 1st May 2014 for the purposes of regulation 3, insofar as that regulation inserts paragraphs 23A and 29A into the Schedule to the Recognition Requirements Regulations;
 - (c) for all other purposes on 26th August 2013.
 
-## 2. Amendments to the Companies Act 1989[^key-ed353285412f6fbef71e9078379a5263]
+## 2. Amendments to the Companies Act 1989[^c-ed353285412f6fbef71e9078379a5263]
 
 (1) The Companies Act 1989 is amended as follows.
 
@@ -214,7 +214,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 > | indirect clearing services | Section 190(1) |
 > | transfer | Section 189A |
 
-## 3. Amendments to the Recognition Requirements Regulations[^key-5efcb77c4036dc0df510c424bcbe7908][^key-46afc669f281f6f42100cda3b7fb3626]
+## 3. Amendments to the Recognition Requirements Regulations[^c-5efcb77c4036dc0df510c424bcbe7908][^c-46afc669f281f6f42100cda3b7fb3626]
 
 (1) The Recognition Requirements Regulations are amended as follows.
 
@@ -259,7 +259,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 .
 
-## 4. Amendments to the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^key-513f268d95207768008a8e746cc31d70]
+## 4. Amendments to the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^c-513f268d95207768008a8e746cc31d70]
 
 (1) The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^f00013] are amended as follows.
 
@@ -315,7 +315,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 .
 
-## 5. Amendment to the Financial Services and Markets Act 2000: markets in financial instruments directive[^key-50bdf624986b9a73d32a2dbbce8f17ee]
+## 5. Amendment to the Financial Services and Markets Act 2000: markets in financial instruments directive[^c-50bdf624986b9a73d32a2dbbce8f17ee]
 
 (1) The Financial Services and Markets Act 2000[^f00015] is amended as follows.
 
@@ -325,7 +325,7 @@ The Treasury and the Secretary of State make the following Regulations in exerci
 
 .
 
-## 6. Transitory provision: recovery plans and loss allocation for recognised clearing houses applying for authorisation under EMIR[^key-35d986abef77411df00f4683cfd64f4c]
+## 6. Transitory provision: recovery plans and loss allocation for recognised clearing houses applying for authorisation under EMIR[^c-35d986abef77411df00f4683cfd64f4c]
 
 (1) In this regulation—
 
@@ -430,13 +430,13 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00007]: Footnote: The powers originally vested in the Secretary of State under sections 158(4) and (5), and 185 of the Companies Act 1989 are now exercisable by the Secretary of State jointly with the Treasury: see the Transfer of Functions (Financial Services) Order 1992. Powers originally vested in the Secretary of State under section 186(1) are now exercisable by the Secretary of State jointly with the Treasury insofar as they relate to functions under those sections.
 
-[^key-6767f460f82cb5675d24799332e5567d]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-6767f460f82cb5675d24799332e5567d]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-ef5d6172ddd142f73c236d899dd0c8f0]: Commencement: Reg. 1 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
+[^c-ef5d6172ddd142f73c236d899dd0c8f0]: Commencement: Reg. 1 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
 
 [^f00008]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995), to which there are amendments not relevant to these Regulations.
 
-[^key-ed353285412f6fbef71e9078379a5263]: Commencement: Reg. 2 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
+[^c-ed353285412f6fbef71e9078379a5263]: Commencement: Reg. 2 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
 
 [^f00009]: Footnote: Section 155 has been amended by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880), [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853) and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
 
@@ -446,23 +446,23 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00012]: Footnote: Section 182A was also inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504)
 
-[^key-5efcb77c4036dc0df510c424bcbe7908]: Commencement: Reg. 3 in force at 1.2.2014 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/a)
+[^c-5efcb77c4036dc0df510c424bcbe7908]: Commencement: Reg. 3 in force at 1.2.2014 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/a)
 
-[^key-46afc669f281f6f42100cda3b7fb3626]: Commencement: Reg. 3 in force at 1.5.2014 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/b)
+[^c-46afc669f281f6f42100cda3b7fb3626]: Commencement: Reg. 3 in force at 1.5.2014 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/b)
 
-[^key-513f268d95207768008a8e746cc31d70]: Commencement: Reg. 4 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
+[^c-513f268d95207768008a8e746cc31d70]: Commencement: Reg. 4 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
 
 [^f00013]: Footnote: [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
 
 [^f00014]: Footnote: OJ No L 52, 23.2.2013, p11.
 
-[^key-50bdf624986b9a73d32a2dbbce8f17ee]: Commencement: Reg. 5 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
+[^c-50bdf624986b9a73d32a2dbbce8f17ee]: Commencement: Reg. 5 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
 
 [^f00015]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00016]: Footnote: Section 301A was substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534) and amended by paragraph 23 of Schedule 8 to the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-35d986abef77411df00f4683cfd64f4c]: Commencement: Reg. 6 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
+[^c-35d986abef77411df00f4683cfd64f4c]: Commencement: Reg. 6 in force at 26.8.2013, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/1908/regulation/1/3/c)
 
 [^f00017]: Footnote: OJ No L 201, 27.7.2012, p1.
 

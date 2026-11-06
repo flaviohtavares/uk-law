@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63H. Attachment of powers of arrest to orders[^key-2ef076485961eccbc53281e16c387354]
+## 63H. Attachment of powers of arrest to orders[^c-2ef076485961eccbc53281e16c387354]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ef076485961eccbc53281e16c387354]: Textual amendment: S. 63H repealed (16.6.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 120(5)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/120/5/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [120(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/120/6)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/949/article/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/949/article/10))
+[^c-2ef076485961eccbc53281e16c387354]: Textual amendment: S. 63H repealed (16.6.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 120(5)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/120/5/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [120(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/120/6)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/949/article/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/949/article/10))

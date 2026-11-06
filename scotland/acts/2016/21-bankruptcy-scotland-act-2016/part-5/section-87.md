@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Dealings and circumstances of debtor after sequestration[^key-4a7eb9ef532819b7de2b43d6a00a8489]
+## 87. Dealings and circumstances of debtor after sequestration[^c-4a7eb9ef532819b7de2b43d6a00a8489]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a7eb9ef532819b7de2b43d6a00a8489]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2016/21/section/87) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-4a7eb9ef532819b7de2b43d6a00a8489]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2016/21/section/87) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

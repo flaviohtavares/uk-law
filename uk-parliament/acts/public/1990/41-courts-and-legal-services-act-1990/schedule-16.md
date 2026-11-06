@@ -190,7 +190,7 @@ Section 116.
 
 *Extent: E+W*
 
-**23.**[^key-0ef0369b2423951f36263bad9f2284fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-0ef0369b2423951f36263bad9f2284fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -411,7 +411,7 @@ Section 116.
 
 [^c12483571]: Commencement: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/1990/41/schedule/16/paragraph/22) wholly in force at 14.10.1991 see [s. 124(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/124/3) and S.I 1991/1883, art. 3, Sch.
 
-[^key-0ef0369b2423951f36263bad9f2284fe]: Textual amendment: Sch. 16 para. 23 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0ef0369b2423951f36263bad9f2284fe]: Textual amendment: Sch. 16 para. 23 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c12483591]: Commencement: [Sch. 16 para. 24](https://www.legislation.gov.uk/ukpga/1990/41/schedule/16/paragraph/24) wholly in force at 14.10.1991 see [s. 124(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/124/3) and S.I 1991/1883, art. 3, Sch.
 

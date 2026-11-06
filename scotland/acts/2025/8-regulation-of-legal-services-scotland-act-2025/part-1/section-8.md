@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Exercise of regulatory functions[^key-7ab496794ba8c5a0f1030c559838f65a][^key-a1256006d82a2320f54974240697139f]
+## 8. Exercise of regulatory functions[^c-7ab496794ba8c5a0f1030c559838f65a][^c-a1256006d82a2320f54974240697139f]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ab496794ba8c5a0f1030c559838f65a]: Commencement: S. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7ab496794ba8c5a0f1030c559838f65a]: Commencement: S. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a1256006d82a2320f54974240697139f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/8/section/8) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-a1256006d82a2320f54974240697139f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/8/section/8) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

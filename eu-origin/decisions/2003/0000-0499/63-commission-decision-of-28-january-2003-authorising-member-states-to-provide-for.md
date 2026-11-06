@@ -39,33 +39,33 @@ authorising Member States to provide for temporary derogations from Council Dire
 
 (2003/63/EC) (revoked)
 
-[^key-fba6a9c55cc172783c09026f02b4738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fba6a9c55cc172783c09026f02b4738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-fba6a9c55cc172783c09026f02b4738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — SPECIFIC CONDITIONS APPLYING TO POTATOES, ORIGINATING IN CUBA, BENEFITING FROM THE DEROGATION PROVIDED FOR IN ARTICLE 1 OF THIS DECISION[^key-fba6a9c55cc172783c09026f02b4738d]
+## ANNEX — SPECIFIC CONDITIONS APPLYING TO POTATOES, ORIGINATING IN CUBA, BENEFITING FROM THE DEROGATION PROVIDED FOR IN ARTICLE 1 OF THIS DECISION[^c-fba6a9c55cc172783c09026f02b4738d]
 
-[^key-fba6a9c55cc172783c09026f02b4738d]1.
+[^c-fba6a9c55cc172783c09026f02b4738d]1.
 
 Potatoes, other than potatoes intended for planting, introduced pursuant to Article 1, shall satisfy the following conditions, in addition to the requirements laid down in Annexes I, II and IV to Directive 2000/29/EC:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fba6a9c55cc172783c09026f02b4738d]2.
+[^c-fba6a9c55cc172783c09026f02b4738d]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fba6a9c55cc172783c09026f02b4738d]3.
+[^c-fba6a9c55cc172783c09026f02b4738d]3.
 
 As referred to in point 1(h), each bag or container shall bear the following information:
 
@@ -73,4 +73,4 @@ As referred to in point 1(h), each bag or container shall bear the following inf
 
 ## Annotations
 
-[^key-fba6a9c55cc172783c09026f02b4738d]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-fba6a9c55cc172783c09026f02b4738d]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

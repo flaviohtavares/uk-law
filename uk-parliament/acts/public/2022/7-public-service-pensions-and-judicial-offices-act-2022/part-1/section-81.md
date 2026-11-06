@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Further powers to make provision about special cases[^key-0486753472b5e456a2dd9872bfd587a4][^key-40f6e9db1041a930c57ce08b3326595b]
+## 81. Further powers to make provision about special cases[^c-0486753472b5e456a2dd9872bfd587a4][^c-40f6e9db1041a930c57ce08b3326595b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0486753472b5e456a2dd9872bfd587a4]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-0486753472b5e456a2dd9872bfd587a4]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-40f6e9db1041a930c57ce08b3326595b]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/7/section/81) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-40f6e9db1041a930c57ce08b3326595b]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/7/section/81) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

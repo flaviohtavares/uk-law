@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Amendment) (No. 2) Regulations 2020 (revoked)[^key-e2ea8700b2c63ee778a60744e8f13573]
+The Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Amendment) (No. 2) Regulations 2020 (revoked)[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 Made
 
@@ -45,59 +45,59 @@ Coming into force
 
 at 4.00 a.m. on 12 December 2020
 
-[^key-e2ea8700b2c63ee778a60744e8f13573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ea8700b2c63ee778a60744e8f13573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-e2ea8700b2c63ee778a60744e8f13573]
+## PART 1 — General[^c-e2ea8700b2c63ee778a60744e8f13573]
 
-### 1. Title, coming into force and interpretation[^key-e2ea8700b2c63ee778a60744e8f13573]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendments to the list of exempt countries and territories outside the common travel area in Schedule 3 to the International Travel Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
-
-### 2. Removal of countries from the list of exempt countries and territories outside the common travel area[^key-e2ea8700b2c63ee778a60744e8f13573]
+### 1. Title, coming into force and interpretation[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Transitional provision in connection with regulation 2[^key-e2ea8700b2c63ee778a60744e8f13573]
+## PART 2 — Amendments to the list of exempt countries and territories outside the common travel area in Schedule 3 to the International Travel Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
+
+### 2. Removal of countries from the list of exempt countries and territories outside the common travel area[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Additions to the list of exempt countries and territories outside the common travel area[^key-e2ea8700b2c63ee778a60744e8f13573]
+### 3. Transitional provision in connection with regulation 2[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Transitional provision in connection with regulation 4[^key-e2ea8700b2c63ee778a60744e8f13573]
+### 4. Additions to the list of exempt countries and territories outside the common travel area[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendments to Part 4 of the International Travel Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
-
-### 6. Amendments to Part 4 (enforcement and offences) of the International Travel Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
+### 5. Transitional provision in connection with regulation 4[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Amendment to the Public Health Information Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
+## PART 3 — Amendments to Part 4 of the International Travel Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
 
-### 7. Amendment to regulation 6 (Offences) of the Public Health Information Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Amendment to regulation 7 (Fixed penalty notices) of the Public Health Information Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
+### 6. Amendments to Part 4 (enforcement and offences) of the International Travel Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment to the Schedule to the Public Health Information Regulations[^key-e2ea8700b2c63ee778a60744e8f13573]
+## PART 4 — Amendment to the Public Health Information Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
+
+### 7. Amendment to regulation 6 (Offences) of the Public Health Information Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2ea8700b2c63ee778a60744e8f13573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 8. Amendment to regulation 7 (Fixed penalty notices) of the Public Health Information Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Amendment to the Schedule to the Public Health Information Regulations[^c-e2ea8700b2c63ee778a60744e8f13573]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e2ea8700b2c63ee778a60744e8f13573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-e2ea8700b2c63ee778a60744e8f13573]EXPLANATORY NOTE
+[^c-e2ea8700b2c63ee778a60744e8f13573]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -160,4 +160,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-e2ea8700b2c63ee778a60744e8f13573]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1521) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/26)
+[^c-e2ea8700b2c63ee778a60744e8f13573]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1521) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/26)

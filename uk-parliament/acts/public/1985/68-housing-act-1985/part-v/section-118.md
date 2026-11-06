@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A secure tenant of a dwelling-house in England[^key-a3ab373e3cfbfa7352fd06cc388541ae] has the right to buy, that is to say, the right, in the circumstances and subject to the conditions and exceptions stated in the following provisions of this Part—
+(1) A secure tenant of a dwelling-house in England[^c-a3ab373e3cfbfa7352fd06cc388541ae] has the right to buy, that is to say, the right, in the circumstances and subject to the conditions and exceptions stated in the following provisions of this Part—
 
 - (a) if the dwelling-house is a house and the landlord owns the freehold, to acquire the freehold of the dwelling-house;
 - (b) if the landlord does not own the freehold or if the dwelling-house is a flat (whether or not the landlord owns the freehold), to be granted a lease of the dwelling-house.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ab373e3cfbfa7352fd06cc388541ae]: Textual amendment: Words in [s. 118(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/118/1) inserted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-a3ab373e3cfbfa7352fd06cc388541ae]: Textual amendment: Words in [s. 118(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/118/1) inserted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
 
 [^c15063811]: Textual amendment: S. 118(3) inserted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 68](https://www.legislation.gov.uk/ukpga/2002/15/section/68), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/5) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)

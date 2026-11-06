@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Penalty notices[^key-42277e4ea90656ac54389a4feb1edcee]
+## 76. Penalty notices[^c-42277e4ea90656ac54389a4feb1edcee]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ After section 32W of the 1960 Act (inserted by section 75), insert—
 
 ## Annotations
 
-[^key-42277e4ea90656ac54389a4feb1edcee]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/14/section/76) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-42277e4ea90656ac54389a4feb1edcee]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/14/section/76) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

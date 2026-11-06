@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.2. The duty of the participants in a criminal case[^key-8334f5d566b657f459ab0189fc90b0f3]
+## 1.2. The duty of the participants in a criminal case[^c-8334f5d566b657f459ab0189fc90b0f3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8334f5d566b657f459ab0189fc90b0f3]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/uksi/2025/909/rule/1.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8334f5d566b657f459ab0189fc90b0f3]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/uksi/2025/909/rule/1.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

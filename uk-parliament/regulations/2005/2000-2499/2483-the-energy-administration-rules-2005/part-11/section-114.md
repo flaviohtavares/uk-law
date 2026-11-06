@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Filing of Gazette notices and advertisements[^key-ae9742d58921c6e5401d6aab74987ce0]
+## 114. Filing of Gazette notices and advertisements[^c-ae9742d58921c6e5401d6aab74987ce0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ The officer’s memorandum is prima facie evidence that any notice or advertisem
 
 ## Annotations
 
-[^key-ae9742d58921c6e5401d6aab74987ce0]: Commencement: Rule 114 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-ae9742d58921c6e5401d6aab74987ce0]: Commencement: Rule 114 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

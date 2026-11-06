@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Determination of appeals[^key-7e92cf7fb3f90d5211d18d5161068a8d]
+## 108. Determination of appeals[^c-7e92cf7fb3f90d5211d18d5161068a8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where, following an appeal under regulation 104 or 105, the appeal body determin
 
 ## Annotations
 
-[^key-7e92cf7fb3f90d5211d18d5161068a8d]: Commencement: Reg. 108 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-7e92cf7fb3f90d5211d18d5161068a8d]: Commencement: Reg. 108 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

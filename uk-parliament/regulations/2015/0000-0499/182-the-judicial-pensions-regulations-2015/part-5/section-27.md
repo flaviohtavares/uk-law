@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Descriptions of full retirement pension[^key-0784facb13040f01e5019ac4560027cd]
+## 27. Descriptions of full retirement pension[^c-0784facb13040f01e5019ac4560027cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purpose of these Regulations, the descriptions of full retirement pensio
 
 ## Annotations
 
-[^key-0784facb13040f01e5019ac4560027cd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/182/regulation/27) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-0784facb13040f01e5019ac4560027cd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/182/regulation/27) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

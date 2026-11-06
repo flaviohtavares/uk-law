@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Frequency of payment of a rent allowance[^key-30b6b5c049a5ce6bc014f4d599d571f7]
+## 89. Frequency of payment of a rent allowance[^c-30b6b5c049a5ce6bc014f4d599d571f7]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30b6b5c049a5ce6bc014f4d599d571f7]: Commencement: [Reg. 89](https://www.legislation.gov.uk/nisr/2006/405/regulation/89) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-30b6b5c049a5ce6bc014f4d599d571f7]: Commencement: [Reg. 89](https://www.legislation.gov.uk/nisr/2006/405/regulation/89) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

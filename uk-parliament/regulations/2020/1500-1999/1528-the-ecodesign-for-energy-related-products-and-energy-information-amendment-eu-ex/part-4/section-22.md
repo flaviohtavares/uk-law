@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Amendments to Commission Regulation (EU) 2019/2023[^key-fc546c1a43ce5163df56887c0d347754]
+## 22. Amendments to Commission Regulation (EU) 2019/2023[^c-fc546c1a43ce5163df56887c0d347754]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc546c1a43ce5163df56887c0d347754]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-fc546c1a43ce5163df56887c0d347754]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Overseas life insurance companies: amendment of Finance Act 1989[^key-afd528e91ee968faf55eedfb1e235228]
+## SCHEDULE 10 — Overseas life insurance companies: amendment of Finance Act 1989[^c-afd528e91ee968faf55eedfb1e235228]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Section 101.
 
 ## Annotations
 
-[^key-afd528e91ee968faf55eedfb1e235228]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/1993/34/schedule/10) repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-afd528e91ee968faf55eedfb1e235228]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/1993/34/schedule/10) repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

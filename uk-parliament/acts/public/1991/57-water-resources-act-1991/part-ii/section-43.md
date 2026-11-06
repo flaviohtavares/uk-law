@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Appeals to the Secretary of State.[^c18730421][^key-2ba789e69816e7e31c1d4c7b894e2358]
+## 43. Appeals to the Secretary of State.[^c18730421][^c-2ba789e69816e7e31c1d4c7b894e2358]
 
 *Extent: E+W*
 
-(1) Where an application has been made to the appropriate agency[^key-0ae67d1ec1272e9437b5845931bb1e3e] for a licence under this Chapter, the applicant may by notice appeal to the Secretary of State if—
+(1) Where an application has been made to the appropriate agency[^c-0ae67d1ec1272e9437b5845931bb1e3e] for a licence under this Chapter, the applicant may by notice appeal to the Secretary of State if—
 
-- (a)[^key-6d08d1e1deb198ab21924d8380307c6e] the applicant is dissatisfied with the decision of the appropriate agency on the application; or
+- (a)[^c-6d08d1e1deb198ab21924d8380307c6e] the applicant is dissatisfied with the decision of the appropriate agency on the application; or
 - (b) the appropriate agency fails within the period specified in subsection (2) below to give to the applicant either—
   - (i) notice of the appropriate agency's decision on the application; or
   - (ii) notice that the application has been referred to the Secretary of State in accordance with any direction under section 41 above.
@@ -43,18 +43,18 @@ summary: ''
 
 (4) Where a notice is served under this section in respect of any application, the applicant shall, within the period prescribed for the purposes of subsection (3)(b) above, serve a copy of the notice on the appropriate agency.
 
-(5) Where any representations in writing with respect to an application were made within the period specified in any such notice as is referred to in section 37(4)(b)[^key-84d1362829b40bce413c213a97358a88] above, the Secretary of State shall, before determining an appeal under this section in respect of the application, require the appropriate agency to serve a copy of the notice of appeal on each of the persons who made those representations.
+(5) Where any representations in writing with respect to an application were made within the period specified in any such notice as is referred to in section 37(4)(b)[^c-84d1362829b40bce413c213a97358a88] above, the Secretary of State shall, before determining an appeal under this section in respect of the application, require the appropriate agency to serve a copy of the notice of appeal on each of the persons who made those representations.
 
 ## Annotations
 
 [^c18730421]: Modification: S. 43: power to delegate functions conferred (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 114(2)(v)](https://www.legislation.gov.uk/ukpga/1995/25/section/114/2/v) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-2ba789e69816e7e31c1d4c7b894e2358]: Modification: S. 43 restricted (1.3.2012) by [The Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003 (S.I. 2003/164)](https://www.legislation.gov.uk/uksi/2003/164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/164/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2003/164/regulation/8/4)
+[^c-2ba789e69816e7e31c1d4c7b894e2358]: Modification: S. 43 restricted (1.3.2012) by [The Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003 (S.I. 2003/164)](https://www.legislation.gov.uk/uksi/2003/164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/164/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2003/164/regulation/8/4)
 
-[^key-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-6d08d1e1deb198ab21924d8380307c6e]: Modification: S. 43(1)(a) modified (1.4.2005) by [The Water Act 2003 (Commencement No. 4, Transitional Provisions and Savings) Order 2005 (S.I. 2005/968)](https://www.legislation.gov.uk/uksi/2005/968), [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/968/article/4/1)[(3)](https://www.legislation.gov.uk/uksi/2005/968/article/4/3), [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2005/968/schedule/1/paragraph/5/5)
+[^c-6d08d1e1deb198ab21924d8380307c6e]: Modification: S. 43(1)(a) modified (1.4.2005) by [The Water Act 2003 (Commencement No. 4, Transitional Provisions and Savings) Order 2005 (S.I. 2005/968)](https://www.legislation.gov.uk/uksi/2005/968), [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/968/article/4/1)[(3)](https://www.legislation.gov.uk/uksi/2005/968/article/4/3), [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2005/968/schedule/1/paragraph/5/5)
 
 [^c18730471]: Textual amendment: S. 43(1A) inserted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 134](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/134) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-84d1362829b40bce413c213a97358a88]: Textual amendment: Words in s. 43(5) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2003/37/section/14/3/c), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/i) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-84d1362829b40bce413c213a97358a88]: Textual amendment: Words in s. 43(5) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2003/37/section/14/3/c), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/i) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

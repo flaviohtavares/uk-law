@@ -43,7 +43,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and interpretation[^key-07db8a5bf255179a021c9f73ff0943f7]
+### 1. Citation, commencement and interpretation[^c-07db8a5bf255179a021c9f73ff0943f7]
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
@@ -62,7 +62,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ### Modification of Article 51 of the 1995 Order
 
-#### 2. Removal of indexation: money purchase benefits provided under a hybrid scheme[^key-06c654af99e664b684abcddcdb83cce2]
+#### 2. Removal of indexation: money purchase benefits provided under a hybrid scheme[^c-06c654af99e664b684abcddcdb83cce2]
 
 (1) This regulation applies to any pension under a hybrid scheme which becomes a pension in payment on or after 6th April 2005.
 
@@ -77,7 +77,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ### Indexation Regulations
 
-#### 3. Interpretation[^key-b2cd84d3b6e0c72f0e2f6a02ebb2df05]
+#### 3. Interpretation[^c-b2cd84d3b6e0c72f0e2f6a02ebb2df05]
 
 In regulation 1(2) of the Indexation Regulations (interpretation) –
 
@@ -96,7 +96,7 @@ In regulation 1(2) of the Indexation Regulations (interpretation) –
 
   .
 
-#### 4. Indexation: treatment of transfers made before 6th April 2005 from pension schemes[^key-6bd688e34745d1c3c2eda26bc4094677]
+#### 4. Indexation: treatment of transfers made before 6th April 2005 from pension schemes[^c-6bd688e34745d1c3c2eda26bc4094677]
 
 In regulation 2 of the Indexation Regulations (indexation of occupational pensions derived from the acceptance of transfer payments from pension schemes) –
 
@@ -112,7 +112,7 @@ In regulation 2 of the Indexation Regulations (indexation of occupational pensio
 
   .
 
-#### 5. Indexation: treatment of transfers made on or after 6th April 2005 from pension schemes[^key-84da8de752f742b691b900bc954ed9ba]
+#### 5. Indexation: treatment of transfers made on or after 6th April 2005 from pension schemes[^c-84da8de752f742b691b900bc954ed9ba]
 
 After regulation 2 of the Indexation Regulations there shall be inserted the following regulation –
 
@@ -132,7 +132,7 @@ After regulation 2 of the Indexation Regulations there shall be inserted the fol
 
 .
 
-#### 6. Indexation: treatment of payments made before 6th April 2005 from insurance policies or annuity contracts[^key-f076ec9355f02da84eb37fcaaccea5d6]
+#### 6. Indexation: treatment of payments made before 6th April 2005 from insurance policies or annuity contracts[^c-f076ec9355f02da84eb37fcaaccea5d6]
 
 In regulation 3 of the Indexation Regulations (indexation of occupational pensions derived from the acceptance of payments from insurance policies or annuity contracts) –
 
@@ -149,7 +149,7 @@ In regulation 3 of the Indexation Regulations (indexation of occupational pensio
 
   .
 
-#### 7. Indexation: treatment of payments made on or after 6th April 2005 from insurance policies or annuity contracts[^key-98aeedc9fdb6938c7ec98ab51e655ce5]
+#### 7. Indexation: treatment of payments made on or after 6th April 2005 from insurance policies or annuity contracts[^c-98aeedc9fdb6938c7ec98ab51e655ce5]
 
 After regulation 3 of the Indexation Regulations there shall be added the following regulation –
 
@@ -176,7 +176,7 @@ After regulation 3 of the Indexation Regulations there shall be added the follow
 
 ### Protected Rights Regulations
 
-#### 8. Meaning of “specified pension or annuity”[^key-0cedb40b4aa612216b49fa54db90764e]
+#### 8. Meaning of “specified pension or annuity”[^c-0cedb40b4aa612216b49fa54db90764e]
 
 In regulation 1(2) of the Protected Rights Regulations (interpretation), after the definition of “section 5(2B) rights” there shall be inserted the following definition –
 
@@ -184,7 +184,7 @@ In regulation 1(2) of the Protected Rights Regulations (interpretation), after t
 
 .
 
-#### 9. Indexation requirement limited to specified pensions or annuities[^key-f3bf1b805f5361e01e2dad6432d5e134]
+#### 9. Indexation requirement limited to specified pensions or annuities[^c-f3bf1b805f5361e01e2dad6432d5e134]
 
 In regulation 4 of the Protected Rights Regulations[^f00014] (conditions applying to pensions and annuities which give effect to protected rights) –
 
@@ -197,7 +197,7 @@ In regulation 4 of the Protected Rights Regulations[^f00014] (conditions applyin
 - (b) in paragraph (3) after “In the case of” there shall be inserted “a specified pension or annuity which gives effect to”;
 - (c) in paragraph (6) after “In the case of” there shall be inserted “a specified pension or annuity which gives effect to”.
 
-#### 10. Removal of indexation: interim arrangements[^key-d74c1b55557da01381050689a07b2509]
+#### 10. Removal of indexation: interim arrangements[^c-d74c1b55557da01381050689a07b2509]
 
 In regulation 7 of the Protected Rights Regulations (payments made under interim arrangements) for paragraph (2)[^f00016] there shall be substituted the following paragraph –
 
@@ -205,7 +205,7 @@ In regulation 7 of the Protected Rights Regulations (payments made under interim
 
 .
 
-#### 11. Removal of indexation: death of member before payment[^key-2793e1ac335cefbc710da21003ae7976]
+#### 11. Removal of indexation: death of member before payment[^c-2793e1ac335cefbc710da21003ae7976]
 
 In regulation 12 of the Protected Rights Regulations[^f00019] (death of scheme member before effect given to his protected rights) –
 
@@ -219,7 +219,7 @@ In regulation 12 of the Protected Rights Regulations[^f00019] (death of scheme m
 
 ### Discharge of Liability Regulations
 
-#### 12. Discharge of liability: guaranteed minimum pensions, short service benefits etc.[^key-4664d0be0beab179ab073015615c8918]
+#### 12. Discharge of liability: guaranteed minimum pensions, short service benefits etc.[^c-4664d0be0beab179ab073015615c8918]
 
 In regulation 5 of the Discharge of Liability Regulations (other requirements applying to policies of insurance and annuity contracts) –
 
@@ -238,7 +238,7 @@ In regulation 5 of the Discharge of Liability Regulations (other requirements ap
 
   .
 
-#### 13. Discharge of liability: pensions under a relevant scheme[^key-b90212b2e9bb1c95afec248a29433c42]
+#### 13. Discharge of liability: pensions under a relevant scheme[^c-b90212b2e9bb1c95afec248a29433c42]
 
 In regulation 11 of the Discharge of Liability Regulations[^f00020] (conditions on which liability to provide pensions under a relevant scheme may be discharged) –
 
@@ -261,7 +261,7 @@ In regulation 11 of the Discharge of Liability Regulations[^f00020] (conditions 
 
 ### Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations
 
-#### 14. Indexation: treatment of salary-related death benefits in certain schemes[^key-5bd6e229d33c85f4549cd2a0470a24a4]
+#### 14. Indexation: treatment of salary-related death benefits in certain schemes[^c-5bd6e229d33c85f4549cd2a0470a24a4]
 
 In regulation 2 of the Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1997[^f00021] (occupational pension schemes providing salary-related death benefits) –
 
@@ -274,11 +274,11 @@ In regulation 2 of the Personal and Occupational Pension Schemes (Miscellaneous 
 
 ### Pension Credit Benefit Regulations
 
-#### 15. Indexation: changes to maximum percentage[^key-72f3d56a93c222ff180a4d877648bea3]
+#### 15. Indexation: changes to maximum percentage[^c-72f3d56a93c222ff180a4d877648bea3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Eligible pension credit rights[^key-c77332b56265d011e83aa30732283cc8]
+#### 16. Eligible pension credit rights[^c-c77332b56265d011e83aa30732283cc8]
 
 For regulation 35 of the Pension Credit Benefit Regulations (definition of eligible pension credit rights) there shall be substituted the following regulation –
 
@@ -302,25 +302,25 @@ For regulation 35 of the Pension Credit Benefit Regulations (definition of eligi
 
 ### Disclosure of Information Regulations
 
-#### 17. Increase in maximum level of civil penalties[^key-b15ed0f0dbc795825fafccf42303a556]
+#### 17. Increase in maximum level of civil penalties[^c-b15ed0f0dbc795825fafccf42303a556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Choice of annuities: members[^key-b15ed0f0dbc795825fafccf42303a556]
+#### 18. Choice of annuities: members[^c-b15ed0f0dbc795825fafccf42303a556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Choice of annuities: benefit payable on death of member or beneficiary[^key-b15ed0f0dbc795825fafccf42303a556]
+#### 19. Choice of annuities: benefit payable on death of member or beneficiary[^c-b15ed0f0dbc795825fafccf42303a556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Minor amendments[^key-b15ed0f0dbc795825fafccf42303a556]
+#### 20. Minor amendments[^c-b15ed0f0dbc795825fafccf42303a556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — REVOCATIONS
 
-### 21. Revocations[^key-4470958720795ad13bd8b76eb42e62ec]
+### 21. Revocations[^c-4470958720795ad13bd8b76eb42e62ec]
 
 The following provisions are hereby revoked –
 
@@ -375,7 +375,7 @@ Article 51(5) of the 1995 Order and Article 37(1) and (3) of the 1999 Order, som
 
 [^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-07db8a5bf255179a021c9f73ff0943f7]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-07db8a5bf255179a021c9f73ff0943f7]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159); relevant amending regulations are [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
 
@@ -389,33 +389,33 @@ Article 51(5) of the 1995 Order and Article 37(1) and (3) of the 1999 Order, som
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-06c654af99e664b684abcddcdb83cce2]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-06c654af99e664b684abcddcdb83cce2]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00011]: Footnote: Article 51 was amended by section 47 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and paragraph 40 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and is amended by Article 255 of the Pensions (Northern Ireland) Order 2005
 
 [^f00012]: Footnote: The definition of “money purchase scheme” was substituted by paragraph 13(a) of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-b2cd84d3b6e0c72f0e2f6a02ebb2df05]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-b2cd84d3b6e0c72f0e2f6a02ebb2df05]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00013]: Footnote: Section 5(2B) was substituted by Article 133(3) of the Pensions (Northern Ieland) Order 1995 and amended by paragraph 38 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
-[^key-6bd688e34745d1c3c2eda26bc4094677]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-6bd688e34745d1c3c2eda26bc4094677]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
-[^key-84da8de752f742b691b900bc954ed9ba]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-84da8de752f742b691b900bc954ed9ba]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
-[^key-f076ec9355f02da84eb37fcaaccea5d6]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-f076ec9355f02da84eb37fcaaccea5d6]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
-[^key-98aeedc9fdb6938c7ec98ab51e655ce5]: Commencement: Reg. 7 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-98aeedc9fdb6938c7ec98ab51e655ce5]: Commencement: Reg. 7 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
-[^key-0cedb40b4aa612216b49fa54db90764e]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-0cedb40b4aa612216b49fa54db90764e]: Commencement: Reg. 8 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
-[^key-f3bf1b805f5361e01e2dad6432d5e134]: Commencement: Reg. 9 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-f3bf1b805f5361e01e2dad6432d5e134]: Commencement: Reg. 9 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00014]: Footnote: Regulation 4 was amended by regulation 5(2) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
 [^f00015]: Footnote: Article 158 is amended by Article 256(2) of the Pensions (Northern Ireland) Order 2005
 
-[^key-d74c1b55557da01381050689a07b2509]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-d74c1b55557da01381050689a07b2509]: Commencement: Reg. 10 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00016]: Footnote: Paragraph (2) was substituted by regulation 5(4) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
@@ -423,29 +423,29 @@ Article 51(5) of the 1995 Order and Article 37(1) and (3) of the 1999 Order, som
 
 [^f00018]: Footnote: Regulation 7(3) is substituted by regulation 5 of [S.I. 2005/704](https://www.legislation.gov.uk/uksi/2005/704)
 
-[^key-2793e1ac335cefbc710da21003ae7976]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-2793e1ac335cefbc710da21003ae7976]: Commencement: Reg. 11 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00019]: Footnote: Regulation 12 was amended by regulation 5(6) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-4664d0be0beab179ab073015615c8918]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-4664d0be0beab179ab073015615c8918]: Commencement: Reg. 12 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
-[^key-b90212b2e9bb1c95afec248a29433c42]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-b90212b2e9bb1c95afec248a29433c42]: Commencement: Reg. 13 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 11 was amended by regulation 13 of [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
 
-[^key-5bd6e229d33c85f4549cd2a0470a24a4]: Commencement: Reg. 14 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-5bd6e229d33c85f4549cd2a0470a24a4]: Commencement: Reg. 14 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-72f3d56a93c222ff180a4d877648bea3]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/170/regulation/15) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(d)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/d)
+[^c-72f3d56a93c222ff180a4d877648bea3]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/170/regulation/15) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(d)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/d)
 
-[^key-c77332b56265d011e83aa30732283cc8]: Commencement: Reg. 16 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-c77332b56265d011e83aa30732283cc8]: Commencement: Reg. 16 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00022]: Footnote: Article 37 is amended by Article 257 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
-[^key-b15ed0f0dbc795825fafccf42303a556]: Textual amendment: [Regs. 17-20](https://www.legislation.gov.uk/nisr/2005/170/regulation/17) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-b15ed0f0dbc795825fafccf42303a556]: Textual amendment: [Regs. 17-20](https://www.legislation.gov.uk/nisr/2005/170/regulation/17) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-4470958720795ad13bd8b76eb42e62ec]: Commencement: Reg. 21 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
+[^c-4470958720795ad13bd8b76eb42e62ec]: Commencement: Reg. 21 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/170/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Special category land[^key-53a951822df9a2267834999a7439543d]
+## 37. Special category land[^c-53a951822df9a2267834999a7439543d]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) In this article—
 
-- “order rights” means the powers or rights exercisable over the special category land by the undertaker under article 28 (Compulsory acquisition of rights)[^key-33d74b75a8b771739f66bc97c7775749];
+- “order rights” means the powers or rights exercisable over the special category land by the undertaker under article 28 (Compulsory acquisition of rights)[^c-33d74b75a8b771739f66bc97c7775749];
 - “special category land” means the land identified as forming part of an open space in the book of reference.
 
 ## Annotations
 
-[^key-53a951822df9a2267834999a7439543d]: Commencement: Art. 37 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-53a951822df9a2267834999a7439543d]: Commencement: Art. 37 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-33d74b75a8b771739f66bc97c7775749]: Textual amendment: Words in [art. 37(2)](https://www.legislation.gov.uk/uksi/2015/1386/article/37/2) inserted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-33d74b75a8b771739f66bc97c7775749]: Textual amendment: Words in [art. 37(2)](https://www.legislation.gov.uk/uksi/2015/1386/article/37/2) inserted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Determination of appeals.[^key-c0ea47a54a0180c92aa26a702e402eb8]
+## 48. Determination of appeals.[^c-c0ea47a54a0180c92aa26a702e402eb8]
 
 *Extent: S*
 
@@ -27,13 +27,13 @@ summary: ''
 
 and may deal with the application as if it had been made to him in the first instance.
 
-(2)[^key-61b6fec3906e9380940f68d6c23ccc03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-61b6fec3906e9380940f68d6c23ccc03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If the Secretary of State proposes to reverse or vary any part of the decision of the planning authority to which the appeal does not relate, he shall give notice of his intention to the planning authority and to the appellant and shall give each of them an opportunity of making representations about his proposals.
 
-(4)[^key-f3d7ef9cf300ac0d9457ca7b6296172f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f3d7ef9cf300ac0d9457ca7b6296172f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) [^key-a36ff55de03b985424b9169d0b6cd672]... in relation to an appeal to the Secretary of State under section 47—
+(5) [^c-a36ff55de03b985424b9169d0b6cd672]... in relation to an appeal to the Secretary of State under section 47—
 
 - (a) sections 33, 37(1) to (3), 38(1) to (3), 41(1) and (2) and 42 and Part I of Schedule 3 shall apply, with any necessary modifications, as they apply in relation to an application for planning permission which falls to be determined by the planning authority, and
 - (b) regulations or a development order may apply, with or without modifications, to such an appeal any requirements imposed by the regulations or order by virtue of section 34 or 35.
@@ -56,10 +56,10 @@ he may decline to determine the appeal or to proceed with the determination.
 
 ## Annotations
 
-[^key-c0ea47a54a0180c92aa26a702e402eb8]: Modification: Ss. 47-48 applied (with modifications) by S.I. 1984/467, reg. 21(1)(1A) (as substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3)))
+[^c-c0ea47a54a0180c92aa26a702e402eb8]: Modification: Ss. 47-48 applied (with modifications) by S.I. 1984/467, reg. 21(1)(1A) (as substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3)))
 
-[^key-61b6fec3906e9380940f68d6c23ccc03]: Textual amendment: S. 48(2) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/b)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-61b6fec3906e9380940f68d6c23ccc03]: Textual amendment: S. 48(2) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/b)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-f3d7ef9cf300ac0d9457ca7b6296172f]: Textual amendment: S. 48(4) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/b)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-f3d7ef9cf300ac0d9457ca7b6296172f]: Textual amendment: S. 48(4) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/b)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-a36ff55de03b985424b9169d0b6cd672]: Textual amendment: Words in s. 48(5) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/b)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-a36ff55de03b985424b9169d0b6cd672]: Textual amendment: Words in s. 48(5) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/b)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

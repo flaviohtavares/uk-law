@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Powers of police civilian staff and police volunteers[^c22718711][^key-2811bf23da64f200482cfc055f3f75d8]
+## 38. Powers of police civilian staff and police volunteers[^c22718711][^c-2811bf23da64f200482cfc055f3f75d8]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 [^c22718711]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/3/section/38) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2811bf23da64f200482cfc055f3f75d8]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/3/section/38) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2017/1139/regulation/4), [5](https://www.legislation.gov.uk/uksi/2017/1139/regulation/5)) (as amended by S.I 2017/1162, reg. 2)
+[^c-2811bf23da64f200482cfc055f3f75d8]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/3/section/38) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2017/1139/regulation/4), [5](https://www.legislation.gov.uk/uksi/2017/1139/regulation/5)) (as amended by S.I 2017/1162, reg. 2)

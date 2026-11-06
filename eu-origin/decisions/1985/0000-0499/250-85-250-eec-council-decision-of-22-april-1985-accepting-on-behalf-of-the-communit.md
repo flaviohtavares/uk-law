@@ -31,10 +31,10 @@ summary: ''
 
 of 22 April 1985 accepting on behalf of the Community the Recommendation of the Customs Cooperation Council concerning the establishment of links between customs transit systems and of the Resolution of the Inland Transport Committee of the Economic Commission for Europe concerning the same subject (revoked)
 
-[^key-3cc66b713ecfd42bb924fa1536374151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc66b713ecfd42bb924fa1536374151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3cc66b713ecfd42bb924fa1536374151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3cc66b713ecfd42bb924fa1536374151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cc66b713ecfd42bb924fa1536374151]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cc66b713ecfd42bb924fa1536374151]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

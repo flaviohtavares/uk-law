@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41I. Exemption of police from liability for damages[^key-4fad6ecf672d502c6ae9fd3d86f11d98]
+## 41I. Exemption of police from liability for damages[^c-4fad6ecf672d502c6ae9fd3d86f11d98]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fad6ecf672d502c6ae9fd3d86f11d98]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 7](https://www.legislation.gov.uk/nia/2011/18/section/7), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-4fad6ecf672d502c6ae9fd3d86f11d98]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 7](https://www.legislation.gov.uk/nia/2011/18/section/7), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)

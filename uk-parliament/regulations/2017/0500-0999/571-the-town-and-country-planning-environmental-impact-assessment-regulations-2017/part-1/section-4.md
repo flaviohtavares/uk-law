@@ -29,7 +29,7 @@ summary: ''
 (2) The EIA must identify, describe and assess in an appropriate manner, in light of each individual case, the direct and indirect significant effects of the proposed development on the following factors—
 
 - (a) population and human health;
-- (b) biodiversity, with particular attention to species and habitats protected under any law that implemented[^key-813bd20fbc848441f1f8b89627bd06b6] Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) [^c23016571] and Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) [^c23016581];
+- (b) biodiversity, with particular attention to species and habitats protected under any law that implemented[^c-813bd20fbc848441f1f8b89627bd06b6] Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) [^c23016571] and Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) [^c23016581];
 - (c) land, soil, water, air and climate;
 - (d) material assets, cultural heritage and the landscape;
 - (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-813bd20fbc848441f1f8b89627bd06b6]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/571/regulation/4/2/b) inserted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-813bd20fbc848441f1f8b89627bd06b6]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/571/regulation/4/2/b) inserted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23016571]: Marginal citation: OJ No. L 206, 22.7.1992, p. 7.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. “Content that is harmful to children”[^key-d44f55ad2e9fa9bf3b908b10afa8e576]
+## 60. “Content that is harmful to children”[^c-d44f55ad2e9fa9bf3b908b10afa8e576]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d44f55ad2e9fa9bf3b908b10afa8e576]: Commencement: S. 60 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-d44f55ad2e9fa9bf3b908b10afa8e576]: Commencement: S. 60 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

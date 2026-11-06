@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Private rights[^key-573bfe07ac284c2d1053ceb756bc2553]
+## 29. Private rights[^c-573bfe07ac284c2d1053ceb756bc2553]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-573bfe07ac284c2d1053ceb756bc2553]: Commencement: Art. 29 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-573bfe07ac284c2d1053ceb756bc2553]: Commencement: Art. 29 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00031]: Footnote: Section 11(1) was amended by sections 186 to 188 of the Housing and Planning Act [2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22), Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67).

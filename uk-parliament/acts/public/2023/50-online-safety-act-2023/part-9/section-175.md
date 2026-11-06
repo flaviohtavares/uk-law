@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Directions in special circumstances[^key-6b340e14ea2b79f16ce1f7cb34196522][^key-bcb2abff43f93ad949636d98f5fcc78a]
+## 175. Directions in special circumstances[^c-6b340e14ea2b79f16ce1f7cb34196522][^c-bcb2abff43f93ad949636d98f5fcc78a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b340e14ea2b79f16ce1f7cb34196522]: Commencement: S. 175 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6b340e14ea2b79f16ce1f7cb34196522]: Commencement: S. 175 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-bcb2abff43f93ad949636d98f5fcc78a]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2023/50/section/175) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-bcb2abff43f93ad949636d98f5fcc78a]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2023/50/section/175) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

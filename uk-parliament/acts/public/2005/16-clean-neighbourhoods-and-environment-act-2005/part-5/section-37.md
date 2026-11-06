@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Enforcement powers[^key-1aa2f3b13726a277485b83b710cd957a][^key-d37a767b607665dcb59cd08e7e2300e9][^key-b1bc663dcc733942ca1685b4eb99e9f9][^key-f10b37943fa90f6d2c45015542bbabe3][^key-fee9ee3464376f20d676da7ec0253c42]
+## 37. Enforcement powers[^c-1aa2f3b13726a277485b83b710cd957a][^c-d37a767b607665dcb59cd08e7e2300e9][^c-b1bc663dcc733942ca1685b4eb99e9f9][^c-f10b37943fa90f6d2c45015542bbabe3][^c-fee9ee3464376f20d676da7ec0253c42]
 
 *Extent: E+W*
 
@@ -106,12 +106,12 @@ For section 5 of the Control of Pollution (Amendment) Act 1989 substitute—
 
 ## Annotations
 
-[^key-1aa2f3b13726a277485b83b710cd957a]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-1aa2f3b13726a277485b83b710cd957a]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-d37a767b607665dcb59cd08e7e2300e9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 6.4.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-d37a767b607665dcb59cd08e7e2300e9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 6.4.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-b1bc663dcc733942ca1685b4eb99e9f9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 27.10.2006 for specified purposes for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(h)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/h)
+[^c-b1bc663dcc733942ca1685b4eb99e9f9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 27.10.2006 for specified purposes for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(h)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/h)
 
-[^key-f10b37943fa90f6d2c45015542bbabe3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 3.3.2015 for specified purposes for E. by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/425/article/2/a)
+[^c-f10b37943fa90f6d2c45015542bbabe3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 3.3.2015 for specified purposes for E. by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/425/article/2/a)
 
-[^key-fee9ee3464376f20d676da7ec0253c42]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/425/article/4/1/a)
+[^c-fee9ee3464376f20d676da7ec0253c42]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2005/16/section/37) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/425/article/4/1/a)

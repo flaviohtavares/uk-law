@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Victims’ charter[^key-0cea6965f3184fcbf244c6697216709d]
+## 9. Victims’ charter[^c-0cea6965f3184fcbf244c6697216709d]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cea6965f3184fcbf244c6697216709d]: Commencement: S. 9 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-0cea6965f3184fcbf244c6697216709d]: Commencement: S. 9 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

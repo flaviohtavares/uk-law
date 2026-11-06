@@ -27,7 +27,7 @@ summary: ''
 - (a) where the purpose of the entry is to carry out any works on the land (other than excavations in exercise of the power under section 26 or 38 of this Act), not less than fourteen days before the day on which admission is demanded; or
 - (b) in any other case, not less than twenty-four hours before admission is demanded.
 
-This subsection does not apply in relation to the power of entry under section 5 of this Act [^key-73e353f7f68da975803351c4567e5bb0]....
+This subsection does not apply in relation to the power of entry under section 5 of this Act [^c-73e353f7f68da975803351c4567e5bb0]....
 
 (3) A person seeking to enter any land in exercise of any power of entry under this Act shall, if so required by or on behalf of the owner or occupier thereof, produce evidence of his authority before entering.
 
@@ -48,6 +48,6 @@ This subsection does not apply in relation to the power of entry under section 5
 
 ## Annotations
 
-[^key-73e353f7f68da975803351c4567e5bb0]: Textual amendment: Words in [s. 44(2)](https://www.legislation.gov.uk/ukpga/1979/46/section/44/2) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 40](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/40) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-73e353f7f68da975803351c4567e5bb0]: Textual amendment: Words in [s. 44(2)](https://www.legislation.gov.uk/ukpga/1979/46/section/44/2) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 40](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/40) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c251041]: Textual amendment: Words substituted (E.W.) by virtue of [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46); and (S.) by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) (as inserted by [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 54](https://www.legislation.gov.uk/ukpga/1982/48/section/54))

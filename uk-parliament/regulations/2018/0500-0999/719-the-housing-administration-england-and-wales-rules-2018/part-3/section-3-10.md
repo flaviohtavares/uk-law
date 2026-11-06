@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.10. Ancillary provisions about delivery of housing administrator’s proposals[^key-c68a6509fc2074a8a2269e8030ccb4c3]
+## 3.10. Ancillary provisions about delivery of housing administrator’s proposals[^c-c68a6509fc2074a8a2269e8030ccb4c3]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c68a6509fc2074a8a2269e8030ccb4c3]: Commencement: Rule 3.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c68a6509fc2074a8a2269e8030ccb4c3]: Commencement: Rule 3.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

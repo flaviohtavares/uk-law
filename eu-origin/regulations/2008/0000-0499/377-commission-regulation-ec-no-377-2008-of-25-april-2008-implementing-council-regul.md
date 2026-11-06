@@ -37,64 +37,64 @@ implementing Council Regulation (EC) No 577/98 on the organisation of a labour f
 
 (Text with EEA relevance) (revoked)
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Structural variables[^key-708fee69bbcced1ac1f9f9297fc7a96e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Reference quarters[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+## Article 1. Structural variables[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Codification[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+## Article 2. Reference quarters[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Repeal[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+## Article 3. Codification[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+## Article 4. Repeal[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
-## ANNEX I — CONDITIONS FOR THE USE OF A SUB-SAMPLE FOR THE COLLECTION OF DATA ON STRUCTURAL VARIABLES[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]1.
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — CONDITIONS FOR THE USE OF A SUB-SAMPLE FOR THE COLLECTION OF DATA ON STRUCTURAL VARIABLES[^c-708fee69bbcced1ac1f9f9297fc7a96e]
+
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]1.
 
 Yearly/quarterly variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]2.
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]2.
 
 Representativeness of the results
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]3.
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]3.
 
 Consistency of totals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]4.
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]4.
 
 Ad hoc modules
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — DEFINITION OF THE REFERENCE QUARTERS[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+## ANNEX II — DEFINITION OF THE REFERENCE QUARTERS[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-708fee69bbcced1ac1f9f9297fc7a96e]
+## ANNEX III[^c-708fee69bbcced1ac1f9f9297fc7a96e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-708fee69bbcced1ac1f9f9297fc7a96e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/124); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-708fee69bbcced1ac1f9f9297fc7a96e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/124); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

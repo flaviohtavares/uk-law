@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Appeal or review by virtue of section 56[^key-be6ac8f33637fb6e24c2d443ae85a5ef]
+## 57. Appeal or review by virtue of section 56[^c-be6ac8f33637fb6e24c2d443ae85a5ef]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6ac8f33637fb6e24c2d443ae85a5ef]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2016/21/section/57) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-be6ac8f33637fb6e24c2d443ae85a5ef]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2016/21/section/57) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

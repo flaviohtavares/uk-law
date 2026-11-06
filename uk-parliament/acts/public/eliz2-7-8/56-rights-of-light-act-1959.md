@@ -37,24 +37,24 @@ An Act to amend the law relating to rights of light, and for purposes connected 
 
 ## 2. Registration of notice in lieu of obstruction of access of light.
 
-(1) For the purpose of preventing the access and use of light from being taken to be enjoyed without interruption, any person who is an owner of land (in this and the next following section referred to as “the servient land”) over which light passes to a dwelling-house, workshop or other building (in this and the next following section referred to as “the dominant building”) may apply to the Chief Land Registrar[^key-8777ce6046f93633cbd164f35344f5b4] for the registration of a notice under this section.
+(1) For the purpose of preventing the access and use of light from being taken to be enjoyed without interruption, any person who is an owner of land (in this and the next following section referred to as “the servient land”) over which light passes to a dwelling-house, workshop or other building (in this and the next following section referred to as “the dominant building”) may apply to the Chief Land Registrar[^c-8777ce6046f93633cbd164f35344f5b4] for the registration of a notice under this section.
 
-(2) An application for the registration of a notice under this section shall [^key-bee6ff59c2e86a2f25f68fc2178c5d3d]...—
+(2) An application for the registration of a notice under this section shall [^c-bee6ff59c2e86a2f25f68fc2178c5d3d]...—
 
 - (a) identify the servient land and the dominant building in the prescribed manner, and
 - (b) state that the registration of a notice in pursuance of the application is intended to be equivalent to the obstruction of the access of light to the dominant building across the servient land which would be caused by the erection, in such position on the servient land as may be specified in the application, of an opaque structure of such dimensions (including, if the application so states, unlimited height) as may be so specified.
 
-(3) Any such application shall be accompanied by a copy of[^key-bfdf64eb3bf8b2f63ab247bddcb08bf9] one or other of the following certificates issued by the Upper Tribunal[^key-ad920a0c14b22e68a5b1e3464b2fb16a], that is to say,—
+(3) Any such application shall be accompanied by a copy of[^c-bfdf64eb3bf8b2f63ab247bddcb08bf9] one or other of the following certificates issued by the Upper Tribunal[^c-ad920a0c14b22e68a5b1e3464b2fb16a], that is to say,—
 
 - (a) a certificate certifying that adequate notice of the proposed application has been given to all persons who, in the circumstances existing at the time when the certificate is issued, appear to the Upper Tribunal to be persons likely to be affected by the registration of a notice in pursuance of the application;
 - (b) a certificate certifying that, in the opinion of the Upper Tribunal, the case is one of exceptional urgency, and that accordingly a notice should be registered forthwith as a temporary notice for such period as may be specified in the certificate.
 
-(4) Where application is duly made to the Chief Land Registrar[^key-f25f6a03ca58e4cf1ac6cc279bb113ef] for the registration of a notice under this section, it shall be the duty of the Chief Land Registrar[^key-56477655d1be5129e155d35a5d8ec2b0][^c623800] to register the notice in the [^key-989b1baef600c4160eaf12425fb5bfa4]... local land charges register,and—
+(4) Where application is duly made to the Chief Land Registrar[^c-f25f6a03ca58e4cf1ac6cc279bb113ef] for the registration of a notice under this section, it shall be the duty of the Chief Land Registrar[^c-56477655d1be5129e155d35a5d8ec2b0][^c623800] to register the notice in the [^c-989b1baef600c4160eaf12425fb5bfa4]... local land charges register,and—
 
 - (a) any notice so registered under this section shall be a local land charge; but
-- (b) section 5(2)[^key-31b0647ad70a7eefa2b7d45370080120] and section 10 of the Local Land Charges Act 1975 shall not apply in relation thereto
+- (b) section 5(2)[^c-31b0647ad70a7eefa2b7d45370080120] and section 10 of the Local Land Charges Act 1975 shall not apply in relation thereto
 
-(5) Provision may be made by Tribunal Procedure Rules[^key-0fe388ace44e48181acf9966d148fc84] with respect to the issue of certificates for the purposes of this section, and, subject to the approval of the Treasury, the fees chargeable in respect of those proceedings; and, without prejudice to the generality of subsection (6) of that section, any such rules made for the purposes of this section shall include provision—
+(5) Provision may be made by Tribunal Procedure Rules[^c-0fe388ace44e48181acf9966d148fc84] with respect to the issue of certificates for the purposes of this section, and, subject to the approval of the Treasury, the fees chargeable in respect of those proceedings; and, without prejudice to the generality of subsection (6) of that section, any such rules made for the purposes of this section shall include provision—
 
 - (a) for requiring applicants for certificates under paragraph (*a*) of subsection (3) of this section to give such notices, whether by way of advertisement or otherwise, and to produce such documents and provide such information, as may be determined by or under the rules;
 - (b) for determining the period to be specified in a certificate issued under paragraph (*b*) of subsection (3) of this section; and
@@ -71,7 +71,7 @@ An Act to amend the law relating to rights of light, and for purposes connected 
 
 - (a) the registration is cancelled, or
 - (b) the period of one year beginning with the date of registration of the notice expires, or
-- (c) in the case of a notice registered in pursuance of an application accompanied by a certificate issued under paragraph (*b*) of subsection (3) of the last preceding section, the period specified in the certificate expires without a copy of[^key-f64062a5e4c009c8e9c840334dbe6957] such a further certificate as is mentioned in paragraph (*c*) of subsection (5) of that section having before the end of that period been lodged with the Chief Land Registrar[^key-3ce7589123c78faec33893a39e7caaf9],
+- (c) in the case of a notice registered in pursuance of an application accompanied by a certificate issued under paragraph (*b*) of subsection (3) of the last preceding section, the period specified in the certificate expires without a copy of[^c-f64062a5e4c009c8e9c840334dbe6957] such a further certificate as is mentioned in paragraph (*c*) of subsection (5) of that section having before the end of that period been lodged with the Chief Land Registrar[^c-3ce7589123c78faec33893a39e7caaf9],
 
 and shall cease to have effect on the occurrence of any one of those events.
 
@@ -112,9 +112,9 @@ Provided that an action shall not be begun by virtue of this subsection after th
 (1) In this Act, except in so far as the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say:—
 
 - “**action**” includes a counterclaim, and any reference to the plaintiff in an action shall be construed accordingly;
-- [^key-39e83d2074d588bbdbd056329e44d6c3]...
+- [^c-39e83d2074d588bbdbd056329e44d6c3]...
 - “**owner**”, in relation to any land, means a person who is the estate owner in respect of the fee simple thereof, or is entitled to a tenancy thereof (within the meaning of the [^c623809]Landlord and Tenant Act, 1954) for a term of years certain of which, at the time in question, not less than seven years remain unexpired, or is a mortgagee in possession (within the meaning of the [^c623810]Law of Property Act, 1925) where the interest mortgaged is either the fee simple of the land or such a tenancy thereof;
-- “[^key-57ea9c703ccca81a64b9060b7040cd19]**prescribed**” means prescribed by rules under section 14 of the Local Land Charges Act 1975;
+- “[^c-57ea9c703ccca81a64b9060b7040cd19]**prescribed**” means prescribed by rules under section 14 of the Local Land Charges Act 1975;
 
 (2) References in this Act to any enactment shall, except where the context otherwise requires, be construed as references to that enactment as amended by or under any other enactment.
 
@@ -134,31 +134,31 @@ Provided that an action shall not be begun by virtue of this subsection after th
 
 [^c623799]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/56/section/1) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [s. 1](https://www.legislation.gov.uk/ukpga/1974/22/section/1), [Sch. Pt. IV](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/IV)
 
-[^key-8777ce6046f93633cbd164f35344f5b4]: Textual amendment: Words in s. 2(1) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/2) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-8777ce6046f93633cbd164f35344f5b4]: Textual amendment: Words in s. 2(1) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/2) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-bee6ff59c2e86a2f25f68fc2178c5d3d]: Textual amendment: Words in s. 2(2) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/3) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-bee6ff59c2e86a2f25f68fc2178c5d3d]: Textual amendment: Words in s. 2(2) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/3) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-bfdf64eb3bf8b2f63ab247bddcb08bf9]: Textual amendment: Words in s. 2(3) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(4)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/4) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-bfdf64eb3bf8b2f63ab247bddcb08bf9]: Textual amendment: Words in s. 2(3) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(4)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/4) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-ad920a0c14b22e68a5b1e3464b2fb16a]: Textual amendment: Words in s. 2(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 35(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/35/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-ad920a0c14b22e68a5b1e3464b2fb16a]: Textual amendment: Words in s. 2(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 35(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/35/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-f25f6a03ca58e4cf1ac6cc279bb113ef]: Textual amendment: Words in s. 2(4) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-f25f6a03ca58e4cf1ac6cc279bb113ef]: Textual amendment: Words in s. 2(4) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-56477655d1be5129e155d35a5d8ec2b0]: Textual amendment: Words in s. 2(4) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-56477655d1be5129e155d35a5d8ec2b0]: Textual amendment: Words in s. 2(4) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c623800]: Textual amendment: Words substituted (with savings) by [Local Land Charges Act 1975 (c. 76, SIF 98:2)](https://www.legislation.gov.uk/ukpga/1975/76) ss. 17(2), 19(2)–(4), Sch. 1
 
-[^key-989b1baef600c4160eaf12425fb5bfa4]: Textual amendment: Word in s. 2(4) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(c)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/c) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-989b1baef600c4160eaf12425fb5bfa4]: Textual amendment: Word in s. 2(4) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(c)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/c) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-31b0647ad70a7eefa2b7d45370080120]: Textual amendment: Word in s. 2(4)(b) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(d)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/d) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-31b0647ad70a7eefa2b7d45370080120]: Textual amendment: Word in s. 2(4)(b) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 28(5)(d)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/28/5/d) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-0fe388ace44e48181acf9966d148fc84]: Textual amendment: Words in s. 2(5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/35/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-0fe388ace44e48181acf9966d148fc84]: Textual amendment: Words in s. 2(5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 35(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/35/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c623802]: Marginal citation: [1832 c. 71](https://www.legislation.gov.uk/ukpga/1832/71).
 
-[^key-f64062a5e4c009c8e9c840334dbe6957]: Textual amendment: Words in s. 3(2)(c) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 29(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/29/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-f64062a5e4c009c8e9c840334dbe6957]: Textual amendment: Words in s. 3(2)(c) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 29(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/29/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
-[^key-3ce7589123c78faec33893a39e7caaf9]: Textual amendment: Words in s. 3(2)(c) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 29(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/29/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-3ce7589123c78faec33893a39e7caaf9]: Textual amendment: Words in s. 3(2)(c) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 29(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/29/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c623803]: Marginal citation: [1832 c. 71](https://www.legislation.gov.uk/ukpga/1832/71).
 
@@ -170,12 +170,12 @@ Provided that an action shall not be begun by virtue of this subsection after th
 
 [^c623807]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/56/section/6) repealed by [Northern Ireland Constitution Act 1973 (c.36, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-39e83d2074d588bbdbd056329e44d6c3]: Textual amendment: Words in s. 7(1) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 30(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/30/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-39e83d2074d588bbdbd056329e44d6c3]: Textual amendment: Words in s. 7(1) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 30(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/30/b) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c623809]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
 [^c623810]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-57ea9c703ccca81a64b9060b7040cd19]: Textual amendment: Words in s. 7(1) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 30(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/30/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-57ea9c703ccca81a64b9060b7040cd19]: Textual amendment: Words in s. 7(1) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 30(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/30/a) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c623812]: Textual amendment: Words repealed by [Northern Ireland Constitution Act 1973 (c.36, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)

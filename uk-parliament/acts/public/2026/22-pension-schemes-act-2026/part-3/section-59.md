@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Overview[^key-98296c25f70445f8a48561110240e401]
+## 59. Overview[^c-98296c25f70445f8a48561110240e401]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98296c25f70445f8a48561110240e401]: Commencement: S. 59 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-98296c25f70445f8a48561110240e401]: Commencement: S. 59 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

@@ -45,7 +45,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 446 of the Proceeds of Crime Act 2002[^f00002] and of all other powers enabling them in that behalf, having approved with such modifications as they think appropriate draft rules submitted to them by the Scottish Civil Justice Council in accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^f00003], do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation[^key-ea6b9d089851c264903dc1d767dc7840]
+## 1. Citation, commencement and interpretation[^c-ea6b9d089851c264903dc1d767dc7840]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013.
 
@@ -55,7 +55,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (4) In this Act of Sederunt the “Summary Application Rules” means the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00004].
 
-## 2. Adults with Incapacity[^key-99a8d6230e69748329d1f54d19aee052]
+## 2. Adults with Incapacity[^c-99a8d6230e69748329d1f54d19aee052]
 
 (1) The Summary Application Rules are amended in accordance with the following subparagraphs.
 
@@ -88,7 +88,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (5) In Form 21 (Form of notice to managers)[^f00008] after “You are requested”, insert “immediately on receipt”.
 
-## 3. Civil Recovery: external investigations[^key-988da9969bc5fbd2ed02170b2928d8cd]
+## 3. Civil Recovery: external investigations[^c-988da9969bc5fbd2ed02170b2928d8cd]
 
 After Part XLII (Regulation of Investigatory Powers Act 2000)[^f00009] of the Summary Application Rules, insert—
 
@@ -120,7 +120,7 @@ After Part XLII (Regulation of Investigatory Powers Act 2000)[^f00009] of the Su
 
 .
 
-## 4. Saving provision[^key-6c0a640e4b4af0d4e895099326181f39]
+## 4. Saving provision[^c-6c0a640e4b4af0d4e895099326181f39]
 
 The amendments made to the Summary Application Rules by paragraph 2 have no effect in respect of any application or proceedings raised but not yet determined by 11th November 2013.
 
@@ -162,11 +162,11 @@ The Act of Sederunt comes into force on 11th November 2013. Paragraph 4 provide
 
 [^f00003]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3).
 
-[^key-ea6b9d089851c264903dc1d767dc7840]: Commencement: Para. 1 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+[^c-ea6b9d089851c264903dc1d767dc7840]: Commencement: Para. 1 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
 
 [^f00004]: Footnote: [S.I.1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/148](https://www.legislation.gov.uk/ssi/2000/148) and [387](https://www.legislation.gov.uk/ssi/2000/387); [2001/142](https://www.legislation.gov.uk/ssi/2001/142); [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146), and [563](https://www.legislation.gov.uk/ssi/2002/563); [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556); [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455); [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [445](https://www.legislation.gov.uk/ssi/2005/445), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648); [2006/198](https://www.legislation.gov.uk/ssi/2006/198), [410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [233](https://www.legislation.gov.uk/ssi/2007/233), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/9](https://www.legislation.gov.uk/ssi/2008/9), [41](https://www.legislation.gov.uk/ssi/2008/41), [111](https://www.legislation.gov.uk/ssi/2008/111), [223](https://www.legislation.gov.uk/ssi/2008/223), [335](https://www.legislation.gov.uk/ssi/2008/335), [365](https://www.legislation.gov.uk/ssi/2008/365) and [375](https://www.legislation.gov.uk/ssi/2008/375); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [109](https://www.legislation.gov.uk/ssi/2009/109), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294), [320](https://www.legislation.gov.uk/ssi/2009/320) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/324](https://www.legislation.gov.uk/ssi/2010/324), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [386](https://www.legislation.gov.uk/ssi/2011/386); [2012/188](https://www.legislation.gov.uk/ssi/2012/188) and [271](https://www.legislation.gov.uk/ssi/2012/271); [2013/91](https://www.legislation.gov.uk/ssi/2013/91), [135](https://www.legislation.gov.uk/ssi/2013/135), [171](https://www.legislation.gov.uk/ssi/2013/171) and [241](https://www.legislation.gov.uk/ssi/2013/241).
 
-[^key-99a8d6230e69748329d1f54d19aee052]: Commencement: Para. 2 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+[^c-99a8d6230e69748329d1f54d19aee052]: Commencement: Para. 2 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
 
 [^f00005]: Footnote: Rule 3.16.1 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142), and amended by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146), [2005/445](https://www.legislation.gov.uk/ssi/2005/445) and [2008/111](https://www.legislation.gov.uk/ssi/2008/111).
 
@@ -176,10 +176,10 @@ The Act of Sederunt comes into force on 11th November 2013. Paragraph 4 provide
 
 [^f00008]: Footnote: Form 21 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142).
 
-[^key-988da9969bc5fbd2ed02170b2928d8cd]: Commencement: Para. 3 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+[^c-988da9969bc5fbd2ed02170b2928d8cd]: Commencement: Para. 3 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
 
 [^f00009]: Footnote: Part XLII was inserted by [S.S.I. 2012/271](https://www.legislation.gov.uk/ssi/2012/271).
 
 [^f00010]: Footnote: [S.I. 2013/2605](https://www.legislation.gov.uk/uksi/2013/2605).
 
-[^key-6c0a640e4b4af0d4e895099326181f39]: Commencement: Para. 4 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+[^c-6c0a640e4b4af0d4e895099326181f39]: Commencement: Para. 4 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)

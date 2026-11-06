@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Remittance of charges[^key-b00161c82e38941a3d612d16bb802dfa]
+## 44. Remittance of charges[^c-b00161c82e38941a3d612d16bb802dfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b00161c82e38941a3d612d16bb802dfa]: Commencement: Art. 44 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-b00161c82e38941a3d612d16bb802dfa]: Commencement: Art. 44 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

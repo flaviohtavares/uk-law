@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Circumstances in which payment may be made to a landlord or the Department of Finance and Personnel[^key-529fbf812bf2c22b0eccca50d95f9972]
+## 74. Circumstances in which payment may be made to a landlord or the Department of Finance and Personnel[^c-529fbf812bf2c22b0eccca50d95f9972]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) the claimant has not already discharged his liability to pay his landlord for the period in respect of which any payment is to be made; and
 - (b) it would be in the interests of the efficient administration of housing benefit,
 
-a first payment of a rent allowance following the making of a decision on a claim, or a supersession under paragraph 4 of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00132] may be made, in whole or in part, [^key-2d6f7fdcf57851cfcb86e7381c7f8342]... to that landlord.
+a first payment of a rent allowance following the making of a decision on a claim, or a supersession under paragraph 4 of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00132] may be made, in whole or in part, [^c-2d6f7fdcf57851cfcb86e7381c7f8342]... to that landlord.
 
 (3) In a case where the Executive is not satisfied that the landlord is a fit and proper person to be the recipient of a claimant’s rent allowance or rate rebate, the Executive may either—
 
@@ -44,8 +44,8 @@ a first payment of a rent allowance following the making of a decision on a clai
 
 ## Annotations
 
-[^key-529fbf812bf2c22b0eccca50d95f9972]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2006/406/regulation/74) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-529fbf812bf2c22b0eccca50d95f9972]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2006/406/regulation/74) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
 [^f00132]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-2d6f7fdcf57851cfcb86e7381c7f8342]: Textual amendment: Words in [reg. 74(2)](https://www.legislation.gov.uk/nisr/2006/406/regulation/74/2) omitted (1.5.2011) by virtue of [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [5(6)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/6)
+[^c-2d6f7fdcf57851cfcb86e7381c7f8342]: Textual amendment: Words in [reg. 74(2)](https://www.legislation.gov.uk/nisr/2006/406/regulation/74/2) omitted (1.5.2011) by virtue of [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [5(6)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/6)

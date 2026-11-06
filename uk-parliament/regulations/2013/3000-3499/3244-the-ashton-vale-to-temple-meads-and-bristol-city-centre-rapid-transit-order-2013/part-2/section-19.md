@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Planning permission[^key-dbdee9fbf009fad4dfb9a1c616015eb3]
+## 19. Planning permission[^c-dbdee9fbf009fad4dfb9a1c616015eb3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbdee9fbf009fad4dfb9a1c616015eb3]: Commencement: Art. 19 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-dbdee9fbf009fad4dfb9a1c616015eb3]: Commencement: Art. 19 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

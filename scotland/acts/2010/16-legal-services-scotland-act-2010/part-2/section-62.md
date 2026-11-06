@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Fitness for involvement[^key-2eb30ea274aeb75a728b5899030437c4][^key-387d3262c5d48aaa13080179decc0ea2]
+## 62. Fitness for involvement[^c-2eb30ea274aeb75a728b5899030437c4][^c-387d3262c5d48aaa13080179decc0ea2]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2eb30ea274aeb75a728b5899030437c4]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2010/16/section/62) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-2eb30ea274aeb75a728b5899030437c4]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2010/16/section/62) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-387d3262c5d48aaa13080179decc0ea2]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2010/16/section/62) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-387d3262c5d48aaa13080179decc0ea2]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2010/16/section/62) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

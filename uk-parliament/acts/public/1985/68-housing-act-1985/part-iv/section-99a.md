@@ -65,7 +65,7 @@ and for the purposes of this subsection a prescribed description may be framed b
   - (i) to another secure tenant who satisfies the condition in subsection (2) of section 92 (assignments by way of exchange), or
   - (ii) to an assured tenant who satisfies the conditions in subsection (2A) of that section.
 
-(9)[^key-f2bccf4d95968a006cf0487aa2e8c4ac] In this section—
+(9)[^c-f2bccf4d95968a006cf0487aa2e8c4ac] In this section—
 
 - (a) “ **secure tenancy** ” does not include a secure tenancy that is a flexible tenancy, and
 - (b) “ **secure tenant** ” does not include a tenant under a secure tenancy that is a flexible tenancy.
@@ -74,4 +74,4 @@ and for the purposes of this subsection a prescribed description may be framed b
 
 [^c15061551]: Textual amendment: S. 99A, 99B inserted (1.2.1994) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 122](https://www.legislation.gov.uk/ukpga/1993/28/section/122); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 4(b)](https://www.legislation.gov.uk/uksi/1993/2762/article/4/b) (with saving in [art. 5(2)](https://www.legislation.gov.uk/uksi/1993/2762/article/5/2)).
 
-[^key-f2bccf4d95968a006cf0487aa2e8c4ac]: Textual amendment: S. 99A(9) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-f2bccf4d95968a006cf0487aa2e8c4ac]: Textual amendment: S. 99A(9) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

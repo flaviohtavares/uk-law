@@ -25,7 +25,7 @@ summary: ''
 (2) “**Land**” does not include buildings other than—
 
 - (a) agricultural buildings within the meaning of paragraphs 3 to 8 of Schedule 5 to the Local Government Finance Act 1988, or
-- (b) scheduled monuments within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^key-0f2f3b0892f1ddfc11cc039e060a4203].
+- (b) scheduled monuments within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^c-0f2f3b0892f1ddfc11cc039e060a4203].
 
 (3) “**Local authority**” means—
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c19809101]: Textual amendment: S. 62E inserted (E.W.) (27.2.2004) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 64](https://www.legislation.gov.uk/ukpga/2003/38/section/64), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
 
-[^key-0f2f3b0892f1ddfc11cc039e060a4203]: Textual amendment: Words in [s. 62E(2)(b)](https://www.legislation.gov.uk/ukpga/1994/33/section/62E/2/b) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 174](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/174) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-0f2f3b0892f1ddfc11cc039e060a4203]: Textual amendment: Words in [s. 62E(2)(b)](https://www.legislation.gov.uk/ukpga/1994/33/section/62E/2/b) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 174](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/174) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)

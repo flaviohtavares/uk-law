@@ -38,8 +38,8 @@ the Scottish Ministers may by order dissolve the relevant body.
 
 (3) A joint board constituted by order under this section—
 
-- (a) shall be deemed for all purposes to be a joint board within the meaning of the Local Government (Scotland) Act 1973 (c.65) constituted under that Act; [^key-e482d176e9d9929ad8eeb6c34ffb7ce5]...
-- (b)[^key-e482d176e9d9929ad8eeb6c34ffb7ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) shall be deemed for all purposes to be a joint board within the meaning of the Local Government (Scotland) Act 1973 (c.65) constituted under that Act; [^c-e482d176e9d9929ad8eeb6c34ffb7ce5]...
+- (b)[^c-e482d176e9d9929ad8eeb6c34ffb7ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of this section—
 
@@ -49,4 +49,4 @@ the Scottish Ministers may by order dissolve the relevant body.
 
 ## Annotations
 
-[^key-e482d176e9d9929ad8eeb6c34ffb7ce5]: Textual amendment: S. 69(3)(b) and preceding word repealed (11.2.2008) by [Abolition of Bridge Tolls (Scotland) Act 2008 (asp 1)](https://www.legislation.gov.uk/asp/2008/1), [s. 4(2)](https://www.legislation.gov.uk/asp/2008/1/section/4/2), [Sch. 2](https://www.legislation.gov.uk/asp/2008/1/schedule/2); [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-e482d176e9d9929ad8eeb6c34ffb7ce5]: Textual amendment: S. 69(3)(b) and preceding word repealed (11.2.2008) by [Abolition of Bridge Tolls (Scotland) Act 2008 (asp 1)](https://www.legislation.gov.uk/asp/2008/1), [s. 4(2)](https://www.legislation.gov.uk/asp/2008/1/section/4/2), [Sch. 2](https://www.legislation.gov.uk/asp/2008/1/schedule/2); [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)

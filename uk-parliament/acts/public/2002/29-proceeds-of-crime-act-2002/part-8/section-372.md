@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 372. Statements[^key-1dd32b7850b4ed4ea3a100a4b0d1cc26][^key-67816b2d4686b61175d58603860d8495][^key-aedfd1d656ad4d810b6fc3ed68f15544][^key-c625ed15edb2191390ea42d15e464672][^key-0c22d8d084170be76b3cca76956531e5][^key-19c38efc9ba673f59a6920dca45bd65d]
+## 372. Statements[^c-1dd32b7850b4ed4ea3a100a4b0d1cc26][^c-67816b2d4686b61175d58603860d8495][^c-aedfd1d656ad4d810b6fc3ed68f15544][^c-c625ed15edb2191390ea42d15e464672][^c-0c22d8d084170be76b3cca76956531e5][^c-19c38efc9ba673f59a6920dca45bd65d]
 
 *Extent: E+W+N.I.*
 
@@ -37,14 +37,14 @@ by or on behalf of the financial institution in the proceedings arising out of t
 
 ## Annotations
 
-[^key-1dd32b7850b4ed4ea3a100a4b0d1cc26]: Commencement: S. 372 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-1dd32b7850b4ed4ea3a100a4b0d1cc26]: Commencement: S. 372 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-67816b2d4686b61175d58603860d8495]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [31(5)](https://www.legislation.gov.uk/uksi/2003/425/article/31/5)
+[^c-67816b2d4686b61175d58603860d8495]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [31(5)](https://www.legislation.gov.uk/uksi/2003/425/article/31/5)
 
-[^key-aedfd1d656ad4d810b6fc3ed68f15544]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [11(5)](https://www.legislation.gov.uk/uksi/2003/425/article/11/5), 21(5), 31(5), 32(5)
+[^c-aedfd1d656ad4d810b6fc3ed68f15544]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [11(5)](https://www.legislation.gov.uk/uksi/2003/425/article/11/5), 21(5), 31(5), 32(5)
 
-[^key-c625ed15edb2191390ea42d15e464672]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [32(5)](https://www.legislation.gov.uk/uksi/2003/425/article/32/5)
+[^c-c625ed15edb2191390ea42d15e464672]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [32(5)](https://www.legislation.gov.uk/uksi/2003/425/article/32/5)
 
-[^key-0c22d8d084170be76b3cca76956531e5]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [21(5)](https://www.legislation.gov.uk/uksi/2003/425/article/21/5)
+[^c-0c22d8d084170be76b3cca76956531e5]: Modification: S. 372 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [21(5)](https://www.legislation.gov.uk/uksi/2003/425/article/21/5)
 
-[^key-19c38efc9ba673f59a6920dca45bd65d]: Modification: Pt. 8 Ch. 2: power to modify conferred (20.3.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2013/22/section/47), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/813/article/2/b)
+[^c-19c38efc9ba673f59a6920dca45bd65d]: Modification: Pt. 8 Ch. 2: power to modify conferred (20.3.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2013/22/section/47), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/813/article/2/b)

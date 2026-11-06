@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 102. Patrons who are minors[^key-66156adda93d9c8bc832d3d02045d664]
+## 102. Patrons who are minors[^c-66156adda93d9c8bc832d3d02045d664]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where a minor is entitled to the patronage or a share of the patronage of a bene
 
 ## Annotations
 
-[^key-66156adda93d9c8bc832d3d02045d664]: Commencement: S. 102 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-66156adda93d9c8bc832d3d02045d664]: Commencement: S. 102 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

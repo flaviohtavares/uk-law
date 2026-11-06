@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — AMENDMENT OF THE POLICE SERVICE OF NORTHERN IRELAND AND POLICE SERVICE OF NORTHERN IRELAND RESERVE (INJURY BENEFIT) REGULATIONS 2006[^key-6f10080032eeafe08635e06a4888f89b]
+## SCHEDULE 5 — AMENDMENT OF THE POLICE SERVICE OF NORTHERN IRELAND AND POLICE SERVICE OF NORTHERN IRELAND RESERVE (INJURY BENEFIT) REGULATIONS 2006[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulation 91
 
-**1.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6f10080032eeafe08635e06a4888f89b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f10080032eeafe08635e06a4888f89b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [THE POLICE PENSION (NORTHERN IRELAND) REGULATIONS 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/4)
+[^c-6f10080032eeafe08635e06a4888f89b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [THE POLICE PENSION (NORTHERN IRELAND) REGULATIONS 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/4)

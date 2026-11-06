@@ -32,7 +32,7 @@ summary: ''
   - (e) crude liquid petroleum,
   - (f) petroleum products (within the meaning of that Act), or
   - (g) any substance other than bioliquid[^c21279361] produced directly or indirectly from a substance mentioned in paragraphs (a) to (f);
-- [^key-0fa5b2fbc510411de86cf63362b7a110]...
+- [^c-0fa5b2fbc510411de86cf63362b7a110]...
 - “**Great Britain supplier**” means an electricity supplier within the meaning of Part 1 of the Electricity Act 1989;
 - “**the renewables obligation**” is to be construed in accordance with Article 52(4);
 - “**renewables obligation certificate**” is to be construed in accordance with Article 54;
@@ -62,7 +62,7 @@ summary: ''
 
 [^c21279361]: Textual amendment: Art. 55F(1): words in the definition of "fossil fuel" inserted (1.4.2011) by [Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/169/article/2/3) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
 
-[^key-0fa5b2fbc510411de86cf63362b7a110]: Textual amendment: Words in [art. 55F(1)](https://www.legislation.gov.uk/nisi/2003/419/article/55F/1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [142](https://www.legislation.gov.uk/uksi/2019/530/regulation/142); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fa5b2fbc510411de86cf63362b7a110]: Textual amendment: Words in [art. 55F(1)](https://www.legislation.gov.uk/nisi/2003/419/article/55F/1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [142](https://www.legislation.gov.uk/uksi/2019/530/regulation/142); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22558341]: Textual amendment: Art. 55F(1): definition of "renewables obligation closure order" inserted (14.5.2015) by [Energy (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/247)](https://www.legislation.gov.uk/nisr/2015/247), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/247/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/247/article/2/3/b)
 

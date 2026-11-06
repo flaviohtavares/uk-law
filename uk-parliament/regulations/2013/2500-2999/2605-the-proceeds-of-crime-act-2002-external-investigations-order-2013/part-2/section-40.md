@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Production Orders[^key-371d7f79c74899f22a18dc008ccd51eb]
+## 40. Production Orders[^c-371d7f79c74899f22a18dc008ccd51eb]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In making a production order the sheriff shall act in exercise of the sheriff’s civil jurisdiction.
 
-(3)[^key-2bdf962f4c449e18a2ac645d37245881] The application for a production order must state that—
+(3)[^c-2bdf962f4c449e18a2ac645d37245881] The application for a production order must state that—
 
 - (a) a person specified in the application is subject to an external investigation and the condition in article 37(2) is met in respect of the person; or
 - (b) property specified in the application is subject to an external investigation and the condition in article 37(2) is met in respect of the property.
@@ -46,6 +46,6 @@ within the period stated in the order.
 
 ## Annotations
 
-[^key-371d7f79c74899f22a18dc008ccd51eb]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2013/2605/article/40) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-371d7f79c74899f22a18dc008ccd51eb]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2013/2605/article/40) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-2bdf962f4c449e18a2ac645d37245881]: Textual amendment: [Art. 40(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/40/3) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [16](https://www.legislation.gov.uk/uksi/2015/1751/article/16)
+[^c-2bdf962f4c449e18a2ac645d37245881]: Textual amendment: [Art. 40(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/40/3) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [16](https://www.legislation.gov.uk/uksi/2015/1751/article/16)

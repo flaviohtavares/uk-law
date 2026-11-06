@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may require an employer to supply information about an employee whom the Secretary of State reasonably suspects of having committed an offence under—
 
-- (a) section 24(A1), (B1), (C1), (D1), (E1)[^M_F_e84c5715-6d67-417d-ac16-d17f405d4a34] , (E1A)[^key-112577959b697fa6828291cb84e669c3] or (1)(b), (c) or (f), 24A(1) or 26(1)(c) or (d) of the Immigration Act 1971 (c. 77) (illegal entry, deception, &c.),
+- (a) section 24(A1), (B1), (C1), (D1), (E1)[^M_F_e84c5715-6d67-417d-ac16-d17f405d4a34] , (E1A)[^c-112577959b697fa6828291cb84e669c3] or (1)(b), (c) or (f), 24A(1) or 26(1)(c) or (d) of the Immigration Act 1971 (c. 77) (illegal entry, deception, &c.),
 - (b) section 105(1)(a), (b) or (c) of the Immigration and Asylum Act 1999 (c. 33) (support for asylum-seeker: fraud), or
 - (c) section 106(1)(a), (b) or (c) of that Act (support for asylum-seeker: fraud).
 
@@ -47,4 +47,4 @@ this section shall apply as if the employment agency were the worker’s employe
 
 [^M_F_e84c5715-6d67-417d-ac16-d17f405d4a34]: Textual amendment: Words in s. 134(1)(a) inserted (28.6.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 40(8)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/40/8/b), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [reg. 2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/20) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))
 
-[^key-112577959b697fa6828291cb84e669c3]: Textual amendment: Word in [s. 134(1)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/134/1/a) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 21(10)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/21/10/b), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/d)
+[^c-112577959b697fa6828291cb84e669c3]: Textual amendment: Word in [s. 134(1)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/134/1/a) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 21(10)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/21/10/b), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/d)

@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Control of Asbestos (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-1eabad027b5e4b19b71ce86d7c096a88]
+The Control of Asbestos (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-1eabad027b5e4b19b71ce86d7c096a88]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 25th January 2010
 
-[^key-1eabad027b5e4b19b71ce86d7c096a88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1eabad027b5e4b19b71ce86d7c096a88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1eabad027b5e4b19b71ce86d7c096a88]
+## 1. Citation, commencement and interpretation[^c-1eabad027b5e4b19b71ce86d7c096a88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Control of Asbestos Regulations (Northern Ireland) 2007[^key-1eabad027b5e4b19b71ce86d7c096a88]
+## 2. Amendment of the Control of Asbestos Regulations (Northern Ireland) 2007[^c-1eabad027b5e4b19b71ce86d7c096a88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1eabad027b5e4b19b71ce86d7c096a88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1eabad027b5e4b19b71ce86d7c096a88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1eabad027b5e4b19b71ce86d7c096a88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1eabad027b5e4b19b71ce86d7c096a88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1eabad027b5e4b19b71ce86d7c096a88]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/414) revoked (14.6.2010) by [The Control of Asbestos (Amendment) Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/187)](https://www.legislation.gov.uk/nisr/2010/187), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/187/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2010/187/regulation/3)
+[^c-1eabad027b5e4b19b71ce86d7c096a88]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/414) revoked (14.6.2010) by [The Control of Asbestos (Amendment) Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/187)](https://www.legislation.gov.uk/nisr/2010/187), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/187/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2010/187/regulation/3)

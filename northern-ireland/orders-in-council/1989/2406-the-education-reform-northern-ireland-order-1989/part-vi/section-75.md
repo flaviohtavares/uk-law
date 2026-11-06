@@ -22,8 +22,8 @@ summary: ''
 
 (1) Subject to the following provisions of this Article, on the incorporation date in relation to a grant‐maintained integrated school which immediately before that date was a controlled school—
 
-- (a) all land or other property which, immediately before that date, was property used or held by the Authority[^key-d6892608e9134256ac6ad8e12842fd75] or the Department for the purposes of the school;
-- (b) all rights and liabilities subsisting immediately before that date which were acquired or incurred by the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] or the Department for those purposes; and
+- (a) all land or other property which, immediately before that date, was property used or held by the Authority[^c-d6892608e9134256ac6ad8e12842fd75] or the Department for the purposes of the school;
+- (b) all rights and liabilities subsisting immediately before that date which were acquired or incurred by the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] or the Department for those purposes; and
 - (c) any property, rights and liabilities of the former Board of Governors of the school,
 
 shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grant‐maintained integrated school.
@@ -71,6 +71,6 @@ and in deciding whether or not to give a direction under this paragraph the Depa
 
 ## Annotations
 
-[^key-d6892608e9134256ac6ad8e12842fd75]: Textual amendment: Word in art. 75 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d6892608e9134256ac6ad8e12842fd75]: Textual amendment: Word in art. 75 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

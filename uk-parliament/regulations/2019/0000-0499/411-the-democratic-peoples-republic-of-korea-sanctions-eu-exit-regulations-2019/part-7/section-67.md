@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Offences[^key-736ab8baa918880ce2e36add893d71f3][^key-898b6d66bd9aca5828146798679d5b20]
+## 67. Offences[^c-736ab8baa918880ce2e36add893d71f3][^c-898b6d66bd9aca5828146798679d5b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-736ab8baa918880ce2e36add893d71f3]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-736ab8baa918880ce2e36add893d71f3]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-898b6d66bd9aca5828146798679d5b20]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2019/411/regulation/67) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-898b6d66bd9aca5828146798679d5b20]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2019/411/regulation/67) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

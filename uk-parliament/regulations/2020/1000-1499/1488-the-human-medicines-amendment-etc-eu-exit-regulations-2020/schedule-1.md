@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 3
 
-### 1. Amendment of the Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019[^key-1c0247c872bd59dfa63414f94c8f3e17]
+### 1. Amendment of the Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019[^c-1c0247c872bd59dfa63414f94c8f3e17]
 
 In regulation 3 (amendment of regulation 2 (interpretation))—
 
@@ -66,7 +66,7 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
   .
 
-**2.**[^key-9ab1bf45d4bb25ea31eaea96babb2e4f] In regulation 7 (amendment of regulation 13 (supply of investigational medicinal products for the purpose of clinical trials))—
+**2.**[^c-9ab1bf45d4bb25ea31eaea96babb2e4f] In regulation 7 (amendment of regulation 13 (supply of investigational medicinal products for the purpose of clinical trials))—
 
 - (a) in paragraph (2), for the inserted sub-paragraph (b), substitute—
 
@@ -99,13 +99,13 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
   .
 
-**3.**[^key-edd5815f2f8b9ca30bef278679bf5f28] For regulation 17 (amendment of regulation 36 (requirement for authorisation to manufacture or import investigational medicinal products)) substitute—
+**3.**[^c-edd5815f2f8b9ca30bef278679bf5f28] For regulation 17 (amendment of regulation 36 (requirement for authorisation to manufacture or import investigational medicinal products)) substitute—
 
 > **17.** In regulation 36(2), after “marketing authorization” insert “ or marketing authorisation issued by the competent authority of an EEA State in accordance with Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) ”.
 
 .
 
-**4.**[^key-cb457cb5b36a803a3387236e1d154180] For regulation 18 (amendment of regulation 43 (qualified persons)) substitute—
+**4.**[^c-cb457cb5b36a803a3387236e1d154180] For regulation 18 (amendment of regulation 43 (qualified persons)) substitute—
 
 > **18.** In regulation 43—
 >
@@ -180,11 +180,11 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
 .
 
-**5.**[^key-62951987dfe896024a1dc36c62260eff] In regulation 19 (insertion of regulation 43A (approved country for import)), in the inserted regulation 43A, for “the United Kingdom” in both places it occurs substitute “ Great Britain ”.
+**5.**[^c-62951987dfe896024a1dc36c62260eff] In regulation 19 (insertion of regulation 43A (approved country for import)), in the inserted regulation 43A, for “the United Kingdom” in both places it occurs substitute “ Great Britain ”.
 
-**6.**[^key-e3536450bbab4f84792e94218fea93af] In regulation 20 (amendment of regulation 45 (suspension and revocation of manufacturing authorisation)), for “omit “or any equivalent provisions in any EEA State other than the United Kingdom”.” substitute “for “or any equivalent provisions in any EEA State other than the United Kingdom” substitute “ or, in the case of an investigational medicinal product manufactured or assembled in Northern Ireland, any equivalent provisions in any EEA State ”.”.
+**6.**[^c-e3536450bbab4f84792e94218fea93af] In regulation 20 (amendment of regulation 45 (suspension and revocation of manufacturing authorisation)), for “omit “or any equivalent provisions in any EEA State other than the United Kingdom”.” substitute “for “or any equivalent provisions in any EEA State other than the United Kingdom” substitute “ or, in the case of an investigational medicinal product manufactured or assembled in Northern Ireland, any equivalent provisions in any EEA State ”.”.
 
-**7.**[^key-69782e6889b7be8c8cb467c4a3916c7f] In regulation 23 (insertion of regulation 57 (functions in relation to good clinical practice)), in the inserted regulation 57—
+**7.**[^c-69782e6889b7be8c8cb467c4a3916c7f] In regulation 23 (insertion of regulation 57 (functions in relation to good clinical practice)), in the inserted regulation 57—
 
 - (a) in paragraph (1), after “Regulations may” insert “ , in respect of Great Britain ”;
 - (b) for paragraphs (2) and (3) substitute—
@@ -200,7 +200,7 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
   .
 
-**8.**[^key-266d53133ee3b80b2a14ad258e870826] In regulation 24 (amendment of Schedule 3 (particulars and documents that must accompany an application for an ethics committee opinion, a request for authorisation, a notice of amendment and a notification of the conclusion of a trial))—
+**8.**[^c-266d53133ee3b80b2a14ad258e870826] In regulation 24 (amendment of Schedule 3 (particulars and documents that must accompany an application for an ethics committee opinion, a request for authorisation, a notice of amendment and a notification of the conclusion of a trial))—
 
 - (a) for paragraph (3)(c) substitute—
 
@@ -229,7 +229,7 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
   .
 
-**9.**[^key-6271053d21c1c1d69ea2dffc8651fb25] For regulation 25 (amendment of Schedule 7 (standard provisions for manufacturing authorisations)) substitute—
+**9.**[^c-6271053d21c1c1d69ea2dffc8651fb25] For regulation 25 (amendment of Schedule 7 (standard provisions for manufacturing authorisations)) substitute—
 
 > **25.** In Part 1 of Schedule 7—
 >
@@ -257,7 +257,7 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
 .
 
-**10.**[^key-01bc041ad5f5d76ee5ef9711348e45c0] In regulation 26 (insertion of Schedule 13 (transitional provisions in relation to EU Exit)), in the inserted Schedule 13—
+**10.**[^c-01bc041ad5f5d76ee5ef9711348e45c0] In regulation 26 (insertion of Schedule 13 (transitional provisions in relation to EU Exit)), in the inserted Schedule 13—
 
 - (a) for “exit day” in each place it occurs substitute “ IP completion day ”;
 - (b) in paragraph 3—
@@ -266,22 +266,22 @@ In regulation 3 (amendment of regulation 2 (interpretation))—
 
 ## Annotations
 
-[^key-1c0247c872bd59dfa63414f94c8f3e17]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-1c0247c872bd59dfa63414f94c8f3e17]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-9ab1bf45d4bb25ea31eaea96babb2e4f]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-9ab1bf45d4bb25ea31eaea96babb2e4f]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-edd5815f2f8b9ca30bef278679bf5f28]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-edd5815f2f8b9ca30bef278679bf5f28]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-cb457cb5b36a803a3387236e1d154180]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-cb457cb5b36a803a3387236e1d154180]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-62951987dfe896024a1dc36c62260eff]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-62951987dfe896024a1dc36c62260eff]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-e3536450bbab4f84792e94218fea93af]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-e3536450bbab4f84792e94218fea93af]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-69782e6889b7be8c8cb467c4a3916c7f]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-69782e6889b7be8c8cb467c4a3916c7f]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-266d53133ee3b80b2a14ad258e870826]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-266d53133ee3b80b2a14ad258e870826]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-6271053d21c1c1d69ea2dffc8651fb25]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-6271053d21c1c1d69ea2dffc8651fb25]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
-[^key-01bc041ad5f5d76ee5ef9711348e45c0]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-01bc041ad5f5d76ee5ef9711348e45c0]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)

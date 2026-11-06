@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Applicants for making of orders and interim orders[^key-f985b4cc6464c86d6fea2d1c950573e4][^key-16b3101f764715a251d5a9643d092c18]
+## 57. Applicants for making of orders and interim orders[^c-f985b4cc6464c86d6fea2d1c950573e4][^c-16b3101f764715a251d5a9643d092c18]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,6 +149,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f985b4cc6464c86d6fea2d1c950573e4]: Commencement: S. 57 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-f985b4cc6464c86d6fea2d1c950573e4]: Commencement: S. 57 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-16b3101f764715a251d5a9643d092c18]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/31/section/57) in force at 2.2.2026 for specified purposes by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/g)
+[^c-16b3101f764715a251d5a9643d092c18]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/31/section/57) in force at 2.2.2026 for specified purposes by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/g)

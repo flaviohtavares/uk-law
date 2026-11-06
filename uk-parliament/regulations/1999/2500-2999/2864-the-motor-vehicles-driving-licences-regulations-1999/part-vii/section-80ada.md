@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80ADA. Modification of regulation 80: Ukraine Extension Scheme: third scenario[^key-3a0c400a379c6f0862551b9c25cd22d2]
+## 80ADA. Modification of regulation 80: Ukraine Extension Scheme: third scenario[^c-3a0c400a379c6f0862551b9c25cd22d2]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a0c400a379c6f0862551b9c25cd22d2]: Textual amendment: [Reg. 80ADA](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80ADA) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/741/regulation/9)
+[^c-3a0c400a379c6f0862551b9c25cd22d2]: Textual amendment: [Reg. 80ADA](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80ADA) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/741/regulation/9)

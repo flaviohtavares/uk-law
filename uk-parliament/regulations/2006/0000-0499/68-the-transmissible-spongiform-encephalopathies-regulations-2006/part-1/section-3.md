@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Appointment of competent authority[^key-5657168fa9352596961c781d1a1ce3f5]
+## 3. Appointment of competent authority[^c-5657168fa9352596961c781d1a1ce3f5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The Secretary of State is the competent authority for the purposes of the Commun
 
 ## Annotations
 
-[^key-5657168fa9352596961c781d1a1ce3f5]: Commencement: Reg. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-5657168fa9352596961c781d1a1ce3f5]: Commencement: Reg. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Excepted matters: judicial office-holders[^key-04e4cffd925aaf58a50a7c406426637e]
+## 82. Excepted matters: judicial office-holders[^c-04e4cffd925aaf58a50a7c406426637e]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 2 to the Northern Ireland Act 1998 (c. 47) (excepted matters), in pa
 
 ## Annotations
 
-[^key-04e4cffd925aaf58a50a7c406426637e]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2002/26/section/82) in force at 1.3.2010 by [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(b)](https://www.legislation.gov.uk/nisr/2010/52/article/2/b)
+[^c-04e4cffd925aaf58a50a7c406426637e]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2002/26/section/82) in force at 1.3.2010 by [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(b)](https://www.legislation.gov.uk/nisr/2010/52/article/2/b)

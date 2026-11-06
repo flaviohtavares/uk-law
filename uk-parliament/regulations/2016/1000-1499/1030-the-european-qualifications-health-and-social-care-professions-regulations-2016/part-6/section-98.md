@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Amendment of section 43[^key-9b2bc295fbbf94c5c640caeb87a87f03]
+## 98. Amendment of section 43[^c-9b2bc295fbbf94c5c640caeb87a87f03]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2bc295fbbf94c5c640caeb87a87f03]: Commencement: Reg. 98 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9b2bc295fbbf94c5c640caeb87a87f03]: Commencement: Reg. 98 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00079]: Footnote: Section 43 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

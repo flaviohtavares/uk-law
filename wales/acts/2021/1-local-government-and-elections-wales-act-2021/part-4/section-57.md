@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Appointment of assistants to executive[^key-ddaf7bf9b98b64593960743dd47bd824]
+## 57. Appointment of assistants to executive[^c-ddaf7bf9b98b64593960743dd47bd824]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddaf7bf9b98b64593960743dd47bd824]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2021/1/section/57) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(j)](https://www.legislation.gov.uk/wsi/2021/231/article/6/j)
+[^c-ddaf7bf9b98b64593960743dd47bd824]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2021/1/section/57) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(j)](https://www.legislation.gov.uk/wsi/2021/231/article/6/j)

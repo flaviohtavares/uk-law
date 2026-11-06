@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.7. Court’s discretion as to where it deals with cases[^key-c240ebb7a5a17a7e1216336da9da0f82]
+## 2.7. Court’s discretion as to where it deals with cases[^c-c240ebb7a5a17a7e1216336da9da0f82]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may deal with a case at any place that it considers appropriate.
 
 ## Annotations
 
-[^key-c240ebb7a5a17a7e1216336da9da0f82]: Commencement: [Rule 2.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-c240ebb7a5a17a7e1216336da9da0f82]: Commencement: [Rule 2.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.7) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

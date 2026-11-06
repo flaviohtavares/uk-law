@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Credit
 
-The Consumer Credit (Advertisements) Regulations 2010 (revoked)[^key-79b4732d6b38106b2206943b364c5df8]
+The Consumer Credit (Advertisements) Regulations 2010 (revoked)[^c-79b4732d6b38106b2206943b364c5df8]
 
 Made
 
@@ -46,78 +46,78 @@ Coming into force
 
 1st February 2011
 
-[^key-79b4732d6b38106b2206943b364c5df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79b4732d6b38106b2206943b364c5df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-79b4732d6b38106b2206943b364c5df8]
+## 1. Citation, commencement and interpretation[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Duty to comply[^key-79b4732d6b38106b2206943b364c5df8]
+## 2. Duty to comply[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. General requirements[^key-79b4732d6b38106b2206943b364c5df8]
+## 3. General requirements[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Content of advertisements[^key-79b4732d6b38106b2206943b364c5df8]
+## 4. Content of advertisements[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Representative Example[^key-79b4732d6b38106b2206943b364c5df8]
+## 5. Representative Example[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Other advertisements requiring representative APR[^key-79b4732d6b38106b2206943b364c5df8]
+## 6. Other advertisements requiring representative APR[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. APR[^key-79b4732d6b38106b2206943b364c5df8]
+## 7. APR[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Ancillary services[^key-79b4732d6b38106b2206943b364c5df8]
+## 8. Ancillary services[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Security[^key-79b4732d6b38106b2206943b364c5df8]
+## 9. Security[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Restrictions on certain expressions in credit advertisements[^key-79b4732d6b38106b2206943b364c5df8]
+## 10. Restrictions on certain expressions in credit advertisements[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exclusions[^key-79b4732d6b38106b2206943b364c5df8]
+## 11. Exclusions[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Transitional provisions[^key-79b4732d6b38106b2206943b364c5df8]
+## 12. Transitional provisions[^c-79b4732d6b38106b2206943b364c5df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79b4732d6b38106b2206943b364c5df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79b4732d6b38106b2206943b364c5df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PROVISIONS RELATING TO CALCULATION AND DISCLOSURE OF TOTAL CHARGE FOR CREDIT AND APR[^key-79b4732d6b38106b2206943b364c5df8]
+## SCHEDULE — PROVISIONS RELATING TO CALCULATION AND DISCLOSURE OF TOTAL CHARGE FOR CREDIT AND APR[^c-79b4732d6b38106b2206943b364c5df8]
 
 Regulation 1(2)
 
-**1.**[^key-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-79b4732d6b38106b2206943b364c5df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-79b4732d6b38106b2206943b364c5df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79b4732d6b38106b2206943b364c5df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79b4732d6b38106b2206943b364c5df8]: Textual amendment: Regulations revoked (1.2.2011) by [The Consumer Credit (Advertisements) Regulations 2010 (S.I. 2010/1970)](https://www.legislation.gov.uk/uksi/2010/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1/2)
+[^c-79b4732d6b38106b2206943b364c5df8]: Textual amendment: Regulations revoked (1.2.2011) by [The Consumer Credit (Advertisements) Regulations 2010 (S.I. 2010/1970)](https://www.legislation.gov.uk/uksi/2010/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1/2)

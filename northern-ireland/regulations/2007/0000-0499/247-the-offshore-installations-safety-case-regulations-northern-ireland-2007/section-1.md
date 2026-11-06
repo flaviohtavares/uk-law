@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-0f7b06a14ea7af45dd72d093b0743637]
+## 1. Citation and commencement[^c-0f7b06a14ea7af45dd72d093b0743637]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ These Regulations may be cited as the Offshore Installations (Safety Case) Regul
 
 ## Annotations
 
-[^key-0f7b06a14ea7af45dd72d093b0743637]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-0f7b06a14ea7af45dd72d093b0743637]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

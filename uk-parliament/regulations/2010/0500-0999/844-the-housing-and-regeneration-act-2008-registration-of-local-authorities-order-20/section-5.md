@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Amendment of Part 2[^key-3f1bb13791af723a0c91f0ae3799ac42]
+## 5. Amendment of Part 2[^c-3f1bb13791af723a0c91f0ae3799ac42]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 2 of the Act is further amended as provided in Schedule 1.
 
 ## Annotations
 
-[^key-3f1bb13791af723a0c91f0ae3799ac42]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)
+[^c-3f1bb13791af723a0c91f0ae3799ac42]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)

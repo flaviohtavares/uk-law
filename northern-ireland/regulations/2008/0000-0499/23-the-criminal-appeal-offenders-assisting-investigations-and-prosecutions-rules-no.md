@@ -46,7 +46,7 @@ To be laid before Parliament
 
 The Northern Ireland Supreme Court Rules Committee makes the following Rules in exercise of the powers conferred by sections 55 and 55A of the Judicature (Northern Ireland) Act 1978[^f00001].
 
-## 1. Citation and commencement and interpretation[^key-665624351c85055704e19cfc826569a5]
+## 1. Citation and commencement and interpretation[^c-665624351c85055704e19cfc826569a5]
 
 (1) These Rules may be cited as the Criminal Appeal (Offenders Assisting Investigations and Prosecutions) Rules (Northern Ireland) 2008 and shall come into operation on 25th February 2008.
 
@@ -62,11 +62,11 @@ The Northern Ireland Supreme Court Rules Committee makes the following Rules in 
 - “offender” means a person whose case has been referred to the Crown Court under section 74(3) of the 2005 Act; and
 - “specified prosecutor” means a person specified in section 71(4) of the 2005 Act.
 
-## 2. Forms[^key-21c3c800641f2bf2c70f2cd1e7cb70e8]
+## 2. Forms[^c-21c3c800641f2bf2c70f2cd1e7cb70e8]
 
 Any reference in these Rules to a Form means a form set out in the Schedule or a form to the same effect.
 
-## 3. Application for leave to appeal[^key-135f7d8c40cc22ee77496441ce79b2ba]
+## 3. Application for leave to appeal[^c-135f7d8c40cc22ee77496441ce79b2ba]
 
 (1) An application by an offender or specified prosecutor for leave to appeal to the Court shall be in Form 1 which shall specify the grounds of the application.
 
@@ -86,19 +86,19 @@ Any reference in these Rules to a Form means a form set out in the Schedule or a
 
 (5) In the case of an appellant who is given leave to appeal, a notice of application for leave to appeal shall be treated as notice of appeal.
 
-## 4. Notes and report of trial judge[^key-27303ee4e4555967355439591a60efe2]
+## 4. Notes and report of trial judge[^c-27303ee4e4555967355439591a60efe2]
 
 The Master may request the trial judge to furnish to him a certified copy of his notes of the trial together with a report in writing giving his opinion upon the case or any point arising in it.
 
-## 5. Bail or custody orders in the Court of Appeal[^key-c6e9ee989880209fa44184befc7fafb3]
+## 5. Bail or custody orders in the Court of Appeal[^c-c6e9ee989880209fa44184befc7fafb3]
 
 Rules 5 to 13 of Order 79 of the Rules of the Supreme Court (Northern Ireland) 1980[^f00004] shall apply to bail or custody orders made in the Court of Appeal under Article 25 of the 2006 Order.
 
-## 6. Application by offender to be present[^key-29e40d60ad71071485de7bf75c6220ba]
+## 6. Application by offender to be present[^c-29e40d60ad71071485de7bf75c6220ba]
 
 Except where made orally to the Court, an application by the offender to be present at proceedings for which leave is required under Article 27 of the 2006 Order shall be in Form 2 and shall, as soon as reasonably practicable, be served on the Master and on the other party to the appeal.
 
-## 7. Examination of witnesses or evidence by the court[^key-93378b0feb10d7abb822318accde6105]
+## 7. Examination of witnesses or evidence by the court[^c-93378b0feb10d7abb822318accde6105]
 
 (1) Prior to the hearing of an appeal or an application for leave to appeal, a party may apply to the Court for an order under Article 28 of the 2006 Order for—
 
@@ -110,7 +110,7 @@ Except where made orally to the Court, an application by the offender to be pres
 
 (3) Where the Court makes an order under Article 28 of the 2006 Order of its own motion or on the application of a party, the Master shall notify every party to the appeal of the order and the reasons for it.
 
-## 8. Supply of documentary and other exhibits[^key-154a3ba304582ff368d5223652ec2bb0]
+## 8. Supply of documentary and other exhibits[^c-154a3ba304582ff368d5223652ec2bb0]
 
 (1) The Master shall, on request, supply to a party to the appeal copies of documents or other exhibits required for the appeal or application for leave to appeal and in such case may make charges in accordance with scales and charges fixed for the time being by the Treasury.
 
@@ -118,7 +118,7 @@ Except where made orally to the Court, an application by the offender to be pres
 
 (3) This rule shall not apply to the supply of transcripts of any proceedings or part thereof.
 
-## 9. Applications which may be heard by a single judge[^key-471fbc88730c797ab2e026783b0f162d]
+## 9. Applications which may be heard by a single judge[^c-471fbc88730c797ab2e026783b0f162d]
 
 (1) A single judge of the Court shall, for the purpose of hearing any of the applications referred to in Article 31 of the 2006 Order, sit in such place as he may appoint and he may sit otherwise than in open court.
 
@@ -126,7 +126,7 @@ Except where made orally to the Court, an application by the offender to be pres
 
 (3) Where a single judge of the Court has determined an application referred to in Article 31 of the 2006 Order, a party aggrieved may have the application determined by the Court by serving notice in Form 4 on the Master within 14 days, or such longer period as the single judge of the Court may fix, from the date on which notice of the decision was served on him.
 
-## 10. Notice of hearing and determination of the Court[^key-7f78fa4837f45279dda9967bec19081a]
+## 10. Notice of hearing and determination of the Court[^c-7f78fa4837f45279dda9967bec19081a]
 
 (1) The Master shall, as far in advance as reasonably practicable, give notice of the date fixed for the hearing by the Court of an appeal or application to—
 
@@ -138,22 +138,22 @@ Except where made orally to the Court, an application by the offender to be pres
 
 (3) Where a party to whom notice is required to be given under this rule is in custody, notice shall instead be given to the person having custody of him.
 
-## 11. Assistance from the Crown Court[^key-70b7698ff09014b3f05fefd8a605566d]
+## 11. Assistance from the Crown Court[^c-70b7698ff09014b3f05fefd8a605566d]
 
 The Master may require the chief clerk to furnish the Court with any assistance or information which it may require for the purposes of exercising its jurisdiction under section 74 of the 2005 Act or these Rules.
 
-## 12. Appeal to the House of Lords[^key-be4ae281025ff47d3c792e370fc1daea]
+## 12. Appeal to the House of Lords[^c-be4ae281025ff47d3c792e370fc1daea]
 
 An application to the Court for leave to appeal to the House of Lords under Part V of the 2006 Order shall either be made—
 
 - (a) orally immediately after the decision of the Court from which an appeal lies to the House of Lords; or
 - (b) by serving notice in writing which shall include the grounds of the application on the Master within 28 days of the decision of the Court.
 
-## 13. Abandonment of proceedings[^key-891332155dbf2bb75a1f1f7efc247d09]
+## 13. Abandonment of proceedings[^c-891332155dbf2bb75a1f1f7efc247d09]
 
 An appeal or an application for leave to appeal (including an application for leave to appeal to the House of Lords) may be abandoned before the hearing of the appeal or application by serving on the Master notice thereof in Form 5.
 
-## 14. Service[^key-80627e204bad3b7c0113d9f75d749aa3]
+## 14. Service[^c-80627e204bad3b7c0113d9f75d749aa3]
 
 (1) For the purposes of these Rules, service of a document on the Master may, unless otherwise directed by the Master, a single judge of the Court or the Court, be effected—
 
@@ -208,7 +208,7 @@ Ministry of Justice
 
 Dated 21st January 2008
 
-## SCHEDULE[^key-5c084e06a0008a2d26d4d729f0fa60f9]
+## SCHEDULE[^c-5c084e06a0008a2d26d4d729f0fa60f9]
 
 Form 1
 
@@ -222,7 +222,7 @@ Form 3
 
 [image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_006)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_007)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_008)
 
-[^key-ddc641d55f36dc83cf3f32a838ba4104]Form 4
+[^c-ddc641d55f36dc83cf3f32a838ba4104]Form 4
 
 [image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/nisr/2008/23/images/nisr_20080023_en_epp_002.gif)
 
@@ -261,42 +261,42 @@ In particular, the Rules;
 
 [^f00001]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23) to which the most recent relevant amendment was made by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-665624351c85055704e19cfc826569a5]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2008/23/article/1) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-665624351c85055704e19cfc826569a5]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2008/23/article/1) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
 [^f00002]: Footnote: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15)
 
 [^f00003]: Footnote: [S.I. 2006/2135](https://www.legislation.gov.uk/uksi/2006/2135)
 
-[^key-21c3c800641f2bf2c70f2cd1e7cb70e8]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2008/23/article/2) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-21c3c800641f2bf2c70f2cd1e7cb70e8]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2008/23/article/2) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-135f7d8c40cc22ee77496441ce79b2ba]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2008/23/article/3) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-135f7d8c40cc22ee77496441ce79b2ba]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2008/23/article/3) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-27303ee4e4555967355439591a60efe2]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2008/23/article/4) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-27303ee4e4555967355439591a60efe2]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2008/23/article/4) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-c6e9ee989880209fa44184befc7fafb3]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2008/23/article/5) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-c6e9ee989880209fa44184befc7fafb3]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/2008/23/article/5) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
 [^f00004]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
 
-[^key-29e40d60ad71071485de7bf75c6220ba]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2008/23/article/6) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-29e40d60ad71071485de7bf75c6220ba]: Commencement: [Rule 6](https://www.legislation.gov.uk/nisr/2008/23/article/6) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-93378b0feb10d7abb822318accde6105]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2008/23/article/7) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-93378b0feb10d7abb822318accde6105]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2008/23/article/7) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-154a3ba304582ff368d5223652ec2bb0]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2008/23/article/8) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-154a3ba304582ff368d5223652ec2bb0]: Commencement: [Rule 8](https://www.legislation.gov.uk/nisr/2008/23/article/8) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-471fbc88730c797ab2e026783b0f162d]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2008/23/article/9) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-471fbc88730c797ab2e026783b0f162d]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2008/23/article/9) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-7f78fa4837f45279dda9967bec19081a]: Commencement: [Rule 10](https://www.legislation.gov.uk/nisr/2008/23/article/10) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-7f78fa4837f45279dda9967bec19081a]: Commencement: [Rule 10](https://www.legislation.gov.uk/nisr/2008/23/article/10) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-70b7698ff09014b3f05fefd8a605566d]: Commencement: [Rule 11](https://www.legislation.gov.uk/nisr/2008/23/article/11) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-70b7698ff09014b3f05fefd8a605566d]: Commencement: [Rule 11](https://www.legislation.gov.uk/nisr/2008/23/article/11) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-be4ae281025ff47d3c792e370fc1daea]: Commencement: [Rule 12](https://www.legislation.gov.uk/nisr/2008/23/article/12) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-be4ae281025ff47d3c792e370fc1daea]: Commencement: [Rule 12](https://www.legislation.gov.uk/nisr/2008/23/article/12) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-891332155dbf2bb75a1f1f7efc247d09]: Commencement: [Rule 13](https://www.legislation.gov.uk/nisr/2008/23/article/13) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-891332155dbf2bb75a1f1f7efc247d09]: Commencement: [Rule 13](https://www.legislation.gov.uk/nisr/2008/23/article/13) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-80627e204bad3b7c0113d9f75d749aa3]: Commencement: [Rule 14](https://www.legislation.gov.uk/nisr/2008/23/article/14) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-80627e204bad3b7c0113d9f75d749aa3]: Commencement: [Rule 14](https://www.legislation.gov.uk/nisr/2008/23/article/14) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-5c084e06a0008a2d26d4d729f0fa60f9]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2008/23/schedule) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
+[^c-5c084e06a0008a2d26d4d729f0fa60f9]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2008/23/schedule) in operation at 25.2.2008, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2008/23/article/1/1)
 
-[^key-ddc641d55f36dc83cf3f32a838ba4104]: Textual amendment: [Sch. Form 4](https://www.legislation.gov.uk/nisr/2008/23/schedule) substituted (30.6.2009) by [The Criminal Appeal (Offenders Assisting Investigations and Prosecutions) (Amendment) Rules (Northern Ireland) 2009 (S.R. 2009/209)](https://www.legislation.gov.uk/nisr/2009/209), [rules 1](https://www.legislation.gov.uk/nisr/2009/209/article/1), [2](https://www.legislation.gov.uk/nisr/2009/209/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/209/schedule)
+[^c-ddc641d55f36dc83cf3f32a838ba4104]: Textual amendment: [Sch. Form 4](https://www.legislation.gov.uk/nisr/2008/23/schedule) substituted (30.6.2009) by [The Criminal Appeal (Offenders Assisting Investigations and Prosecutions) (Amendment) Rules (Northern Ireland) 2009 (S.R. 2009/209)](https://www.legislation.gov.uk/nisr/2009/209), [rules 1](https://www.legislation.gov.uk/nisr/2009/209/article/1), [2](https://www.legislation.gov.uk/nisr/2009/209/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/209/schedule)
 
 [^f00005]: Footnote: [S.R. 1980 No.346](https://www.legislation.gov.uk/nisr/1980/346)

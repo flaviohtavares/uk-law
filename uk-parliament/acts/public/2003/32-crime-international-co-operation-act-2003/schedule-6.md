@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Repeals[^key-dcab9f5ac1cba4ca64b055fc7b2e4e6b][^key-0ebb794d6238fbe8748bc5df34559965][^key-865b0b5d21e5831f43fbed7fce7ab2bd]
+## SCHEDULE 6 — Repeals[^c-dcab9f5ac1cba4ca64b055fc7b2e4e6b][^c-0ebb794d6238fbe8748bc5df34559965][^c-865b0b5d21e5831f43fbed7fce7ab2bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ Section 91
 
 ## Annotations
 
-[^key-dcab9f5ac1cba4ca64b055fc7b2e4e6b]: Commencement: Sch. 6 in force at 26.4.2004 for specified purposes by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-dcab9f5ac1cba4ca64b055fc7b2e4e6b]: Commencement: Sch. 6 in force at 26.4.2004 for specified purposes by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-0ebb794d6238fbe8748bc5df34559965]: Commencement: Sch. 6 in force at 11.10.2004 for specified purposes by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/c)
+[^c-0ebb794d6238fbe8748bc5df34559965]: Commencement: Sch. 6 in force at 11.10.2004 for specified purposes by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/c)
 
-[^key-865b0b5d21e5831f43fbed7fce7ab2bd]: Commencement: Sch. 6 in force at 17.12.2008 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 3](https://www.legislation.gov.uk/uksi/2008/3009/article/3)
+[^c-865b0b5d21e5831f43fbed7fce7ab2bd]: Commencement: Sch. 6 in force at 17.12.2008 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 3](https://www.legislation.gov.uk/uksi/2008/3009/article/3)

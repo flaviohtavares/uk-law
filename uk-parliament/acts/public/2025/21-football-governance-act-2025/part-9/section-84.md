@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Appeals to the Competition Appeal Tribunal[^key-279dc5d8ffecfe038d47a9cfeb837c09][^key-6ff81a739844ba44a02e78962196d85f]
+## 84. Appeals to the Competition Appeal Tribunal[^c-279dc5d8ffecfe038d47a9cfeb837c09][^c-6ff81a739844ba44a02e78962196d85f]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-279dc5d8ffecfe038d47a9cfeb837c09]: Commencement: S. 84 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-279dc5d8ffecfe038d47a9cfeb837c09]: Commencement: S. 84 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-6ff81a739844ba44a02e78962196d85f]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2025/21/section/84) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)
+[^c-6ff81a739844ba44a02e78962196d85f]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2025/21/section/84) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)

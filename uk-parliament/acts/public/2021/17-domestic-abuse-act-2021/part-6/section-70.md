@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Strangulation or suffocation[^key-e22c9bddb98e90c0600ac3e5dce55133]
+## 70. Strangulation or suffocation[^c-e22c9bddb98e90c0600ac3e5dce55133]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e22c9bddb98e90c0600ac3e5dce55133]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2021/17/section/70) in force at 7.6.2022 by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/a)
+[^c-e22c9bddb98e90c0600ac3e5dce55133]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2021/17/section/70) in force at 7.6.2022 by [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/a)

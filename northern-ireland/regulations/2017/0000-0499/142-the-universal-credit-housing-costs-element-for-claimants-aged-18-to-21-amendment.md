@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Universal Credit (Housing Costs Element for claimants aged 18 to 21) (Amendment) Regulations (Northern Ireland) 2017 (revoked)[^key-124fba14f7f84687992f8697d708d9ef]
+The Universal Credit (Housing Costs Element for claimants aged 18 to 21) (Amendment) Regulations (Northern Ireland) 2017 (revoked)[^c-124fba14f7f84687992f8697d708d9ef]
 
 Made
 
@@ -44,28 +44,28 @@ Laid before Parliament
 
 Coming into operation in accordance with regulation 1
 
-[^key-124fba14f7f84687992f8697d708d9ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-124fba14f7f84687992f8697d708d9ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-124fba14f7f84687992f8697d708d9ef]
+## 1. Citation and commencement[^c-124fba14f7f84687992f8697d708d9ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Entitlement to Housing Costs Element[^key-124fba14f7f84687992f8697d708d9ef]
+## 2. Entitlement to Housing Costs Element[^c-124fba14f7f84687992f8697d708d9ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving for those in receipt of housing benefit[^key-124fba14f7f84687992f8697d708d9ef]
+## 3. Saving for those in receipt of housing benefit[^c-124fba14f7f84687992f8697d708d9ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-124fba14f7f84687992f8697d708d9ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-124fba14f7f84687992f8697d708d9ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-124fba14f7f84687992f8697d708d9ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-124fba14f7f84687992f8697d708d9ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-124fba14f7f84687992f8697d708d9ef]: Textual amendment: Regulations revoked (31.12.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/3), [6](https://www.legislation.gov.uk/nisr/2018/187/regulation/6)
+[^c-124fba14f7f84687992f8697d708d9ef]: Textual amendment: Regulations revoked (31.12.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/3), [6](https://www.legislation.gov.uk/nisr/2018/187/regulation/6)

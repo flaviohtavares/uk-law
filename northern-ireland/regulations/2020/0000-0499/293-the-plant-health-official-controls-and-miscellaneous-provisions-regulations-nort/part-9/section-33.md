@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Marking of wood packaging material: power of seizure[^key-a739c4dc34e7112e152d8f0433e91c6f]
+## 33. Marking of wood packaging material: power of seizure[^c-a739c4dc34e7112e152d8f0433e91c6f]
 
 *Extent: N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a739c4dc34e7112e152d8f0433e91c6f]: Commencement: Reg. 33 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-a739c4dc34e7112e152d8f0433e91c6f]: Commencement: Reg. 33 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00033]: Footnote: [1981 No. 1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).

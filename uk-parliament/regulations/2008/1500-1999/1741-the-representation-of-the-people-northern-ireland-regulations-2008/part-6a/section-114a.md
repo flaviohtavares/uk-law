@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114A. Interpretation of Part 6A[^key-3fb97eba0610dbea5ea41d7d555136f6]
+## 114A. Interpretation of Part 6A[^c-3fb97eba0610dbea5ea41d7d555136f6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fb97eba0610dbea5ea41d7d555136f6]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2008/1741/part/6A) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1116/regulation/9)
+[^c-3fb97eba0610dbea5ea41d7d555136f6]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2008/1741/part/6A) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1116/regulation/9)

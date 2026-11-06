@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. CO to hear charge allocated for summary hearing[^key-65a7235de47216142b4e202bcfee0d0a][^key-a652062a5da4dd77b3ff8c54ca961300]
+## 124. CO to hear charge allocated for summary hearing[^c-65a7235de47216142b4e202bcfee0d0a][^c-a652062a5da4dd77b3ff8c54ca961300]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65a7235de47216142b4e202bcfee0d0a]: Commencement: S. 124 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-65a7235de47216142b4e202bcfee0d0a]: Commencement: S. 124 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a652062a5da4dd77b3ff8c54ca961300]: Commencement: S. 124 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a652062a5da4dd77b3ff8c54ca961300]: Commencement: S. 124 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

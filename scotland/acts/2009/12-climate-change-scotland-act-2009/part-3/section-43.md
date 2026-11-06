@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Further provision about reporting duties[^key-6cdef83d77c6faa7b7758e5c3790fd38]
+## 43. Further provision about reporting duties[^c-6cdef83d77c6faa7b7758e5c3790fd38]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cdef83d77c6faa7b7758e5c3790fd38]: Commencement: S. 43 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-6cdef83d77c6faa7b7758e5c3790fd38]: Commencement: S. 43 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

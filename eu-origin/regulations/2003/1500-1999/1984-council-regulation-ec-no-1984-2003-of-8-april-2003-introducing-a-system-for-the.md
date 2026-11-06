@@ -77,12 +77,12 @@ HAS ADOPTED THIS REGULATION:
 
 ### Article 1. Object
 
-This Regulation lays down general rules and conditions for the application by the United Kingdom[^key-345f8e3d1ffd2331380d133718f98c09] of:
+This Regulation lays down general rules and conditions for the application by the United Kingdom[^c-345f8e3d1ffd2331380d133718f98c09] of:
 
-- ((a)) the statistical document programmes for bluefin tuna ( *(affected by repeal, see note)*[^c000001] *Thunnus thynnus *(affected by repeal, see note)*[^c000001]* ), swordfish (*Xiphias gladius*) and bigeye tuna (*Thunnus obesus*) adopted under the International Convention for the Conservation of Atlantic Tunas[^key-3fab7b96173f1d2acac2addb77115733];
-- ((b)) the statistical document programme for bigeye tuna (*Thunnus obesus*) adopted under the Indian Ocean Tuna Commission[^key-b191fc2f50f588c8fa46f310a15390f5].
+- ((a)) the statistical document programmes for bluefin tuna ( *(affected by repeal, see note)*[^c000001] *Thunnus thynnus *(affected by repeal, see note)*[^c000001]* ), swordfish (*Xiphias gladius*) and bigeye tuna (*Thunnus obesus*) adopted under the International Convention for the Conservation of Atlantic Tunas[^c-3fab7b96173f1d2acac2addb77115733];
+- ((b)) the statistical document programme for bigeye tuna (*Thunnus obesus*) adopted under the Indian Ocean Tuna Commission[^c-b191fc2f50f588c8fa46f310a15390f5].
 
-### Article 2. Scope[^key-306c4124de36d9b8ca906193e81e83f3]
+### Article 2. Scope[^c-306c4124de36d9b8ca906193e81e83f3]
 
 1. This Regulation applies in relation to swordfish and bigeye tuna which is imported into the United Kingdom, transhipped at a United Kingdom port, or exported, or re-exported, from the United Kingdom.
 
@@ -96,7 +96,7 @@ This Regulation lays down general rules and conditions for the application by th
 - (a) “**purse seiner**” means a fishing boat that uses a purse seine and “**purse seine**” has the same meaning as in Article 6 of Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fisheries resources and the protection of marine ecosystems through technical measures;
 - (b) “**baitboat**” means a fishing boat using pole and line fishing with bait in the water to attract schools of tuna.
 
-### Article 3. Definitions[^key-c7dd5ffb5531817d2416d7708560f986]
+### Article 3. Definitions[^c-c7dd5ffb5531817d2416d7708560f986]
 
 In this Regulation—
 
@@ -140,11 +140,11 @@ In this Regulation—
 
 ## CHAPTER 2 — STATISTICAL MONITORING
 
-### Section 1 — Requirements in the United Kingdom in respect of imports[^key-26556e81bb24124f05655714981f5f09]
+### Section 1 — Requirements in the United Kingdom in respect of imports[^c-26556e81bb24124f05655714981f5f09]
 
 #### Article 4. Statistical document for importation
 
-1.[^key-1057be4388dc216d6e1d43d10964465b] It is prohibited for a person to import swordfish or bigeye tuna unless—
+1.[^c-1057be4388dc216d6e1d43d10964465b] It is prohibited for a person to import swordfish or bigeye tuna unless—
 
 - (a) the fish is accompanied by—
   - (i) a statistical document which has been validated by—
@@ -153,29 +153,29 @@ In this Regulation—
   - (ii) in the case of fish which has previously been imported into another State, a re-export certificate which has been validated by the competent authorities of the re-exporting State, and
 - (b) in the case of fish which was caught, not including by-catch, in the ICCAT Convention area by a fishing boat of 20 metres in length overall or greater, the fish was caught by an ICCAT authorised fishing boat.
 
-2. A statistical document must[^key-10df1e3dff01672e5a703b0cf33f8eb4]:
+2. A statistical document must[^c-10df1e3dff01672e5a703b0cf33f8eb4]:
 
-- (a)[^key-386bcd6910c9d72b254ef9b4a7e706a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-386bcd6910c9d72b254ef9b4a7e706a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) be validated:
-  - ((i)) where the fishing has been carried out by a vessel: by a civil servant duly approved by the flag State of the vessel which carries out the fishing or by any other person or institution duly approved by that State. In the case of the [^key-643dbb0aaf62d79d49990682c6ccddb3]... countries listed in Annex IVb, validation may be undertaken by an institution recognised for that purpose by that country;
+  - ((i)) where the fishing has been carried out by a vessel: by a civil servant duly approved by the flag State of the vessel which carries out the fishing or by any other person or institution duly approved by that State. In the case of the [^c-643dbb0aaf62d79d49990682c6ccddb3]... countries listed in Annex IVb, validation may be undertaken by an institution recognised for that purpose by that country;
   - ((ii)) where the fishing has been carried out using a trap net: by a civil servant duly approved by the State in whose territorial waters the catch has been taken;
   - ((iii)) in the case of swordfish, bluefin tuna *(affected by repeal, see note)*[^c000001] and bigeye tuna caught by a vessel operating under a charter agreement: by a civil servant or any other person or institution duly approved by the exporting State;
   - ((iv)) in the case of bigeye tuna caught by one of the vessels listed in Annexes VIIIa and VIIIb: by a Japanese or Taiwanese government official or by any other person duly approved for that purpose by the Governments of those countries;[^c000002]
-- (c)[^key-785eb0ed607dd6d5100cb75715aa58ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-785eb0ed607dd6d5100cb75715aa58ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3. The statistical document must be delivered to the licensing authority for the area into which the fish is being imported[^key-ab1c2f70204f060b10a5aba56a18a90c].
+3. The statistical document must be delivered to the licensing authority for the area into which the fish is being imported[^c-ab1c2f70204f060b10a5aba56a18a90c].
 
-4.[^key-e0938a9dbdb1fc322b895e0f4bd774c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-e0938a9dbdb1fc322b895e0f4bd774c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5. The importation of swordfish or bigeye tuna is[^key-fba25bf6a99793371e9c4f91913225a5] prohibited where the cargo concerned is not accompanied by the statistical document for the relevant importation, validated and completed in accordance with this Regulation[^key-6be0b492cb51943df8ab52d6f5850195].
+5. The importation of swordfish or bigeye tuna is[^c-fba25bf6a99793371e9c4f91913225a5] prohibited where the cargo concerned is not accompanied by the statistical document for the relevant importation, validated and completed in accordance with this Regulation[^c-6be0b492cb51943df8ab52d6f5850195].
 
-(6.)[^key-d04a83ca154238229588661707720878] A person who contravenes the prohibition in paragraph 1 is guilty of an offence.
+(6.)[^c-d04a83ca154238229588661707720878] A person who contravenes the prohibition in paragraph 1 is guilty of an offence.
 
 (7.) Where a fishing boat lands or tranships in contravention of the prohibition in paragraph 1, the master, the owner and the charterer (if any) are each guilty of an offence.
 
-### Section 2 — Requirements in respect of exports from the United Kingdom[^key-7d50c703138afa2b82cb382c19fba798]
+### Section 2 — Requirements in respect of exports from the United Kingdom[^c-7d50c703138afa2b82cb382c19fba798]
 
-#### Article 5. Statistical document for exportation[^key-891395da0988e26a081894696fbb8ba5]
+#### Article 5. Statistical document for exportation[^c-891395da0988e26a081894696fbb8ba5]
 
 1. It is prohibited for a person to export swordfish or bigeye tuna unless—
 
@@ -196,9 +196,9 @@ In this Regulation—
 
 6. Where a UK fishing boat lands or tranships in contravention of the prohibition in paragraph 1, the master, the owner and the charterer (if any) are each guilty of an offence.
 
-### Section 3 — Requirements in respect of re-exports from the United Kingdom[^key-598172a7a6a88d6aa8c400a04a3666e4]
+### Section 3 — Requirements in respect of re-exports from the United Kingdom[^c-598172a7a6a88d6aa8c400a04a3666e4]
 
-#### Article 6. Re-export certificates[^key-0a63d0aa13c83597cad1b1c266e8cce5]
+#### Article 6. Re-export certificates[^c-0a63d0aa13c83597cad1b1c266e8cce5]
 
 1. It is prohibited for a person to re-export swordfish or bigeye tuna unless—
 
@@ -216,15 +216,15 @@ In this Regulation—
 
 #### Article 7. Repeated re-exports
 
-1. All quantities of swordfish or bigeye tuna[^key-437f4b6816e971e58480a51e30b2117e] re-exported after having already been re-exported, must[^key-b7595fb724d9f9e808c9b2ee4d941ab6] be accompanied by a new re-export certificate, validated and completed in accordance with Article 6[^key-2932eed499ed20cf749ac9017d86d85d]....
+1. All quantities of swordfish or bigeye tuna[^c-437f4b6816e971e58480a51e30b2117e] re-exported after having already been re-exported, must[^c-b7595fb724d9f9e808c9b2ee4d941ab6] be accompanied by a new re-export certificate, validated and completed in accordance with Article 6[^c-2932eed499ed20cf749ac9017d86d85d]....
 
-[^key-aad8c3a0e83e0c0f44dc719c0b424fb1]...
+[^c-aad8c3a0e83e0c0f44dc719c0b424fb1]...
 
-2. The new certificate referred to in paragraph 1 must[^key-d2c34bfcf4777ffba13a11c94075cfe2] be accompanied by a certified copy of the preceding, duly validated, re-export certificates which accompanied the cargo.
+2. The new certificate referred to in paragraph 1 must[^c-d2c34bfcf4777ffba13a11c94075cfe2] be accompanied by a certified copy of the preceding, duly validated, re-export certificates which accompanied the cargo.
 
-### Section 4 — Requirements ... in respect of transhipped products in the ICCAT Convention area[^c000003][^key-2b706ce9e4505fb83543effee52c6b06]
+### Section 4 — Requirements ... in respect of transhipped products in the ICCAT Convention area[^c000003][^c-2b706ce9e4505fb83543effee52c6b06]
 
-#### Article 7a. Transhipment by large pelagic longline boats[^key-ce42896dbfe0d638cc98354d00ae8227]
+#### Article 7a. Transhipment by large pelagic longline boats[^c-ce42896dbfe0d638cc98354d00ae8227]
 
 1. This Article applies in relation to transhipments in the ICCAT Convention area by pelagic longline boats which are 24 metres in length overall or greater (in this Article “large pelagic longline boats”).
 
@@ -240,7 +240,7 @@ In this Regulation—
 
 4. In this Article “**Regulation 2017/2107**” means Regulation (EU) 2017/2107 of the European Parliament and of the Council laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT).
 
-## CHAPTER 3 — TRANSMISSION OF DATA[^key-d0c7a40f1f1b976bc46b9f2867f3d97b]
+## CHAPTER 3 — TRANSMISSION OF DATA[^c-d0c7a40f1f1b976bc46b9f2867f3d97b]
 
 **No longer in force.**
 
@@ -256,7 +256,7 @@ In this Regulation—
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 3A — OFFENCES, PENALTIES AND ENFORCEMENT[^key-3531dda8cf4f43331c99e07fcda855e8]
+## CHAPTER 3A — OFFENCES, PENALTIES AND ENFORCEMENT[^c-3531dda8cf4f43331c99e07fcda855e8]
 
 ### Article 10A. Penalties for offences
 
@@ -308,7 +308,7 @@ that person (as well as the partnership) is guilty of an offence and liable to b
 - ‘British sea-fishery officer’ means any person who by virtue of section 7 of the Sea Fisheries Act 1968 is a British sea-fishery officer;
 - ‘marine enforcement officer’ has the same meaning as in section 235(1) of the Marine and Coastal Access Act 2009.
 
-## CHAPTER 4 — FINAL PROVISIONS[^key-6a1fd581f02108022e32aa6a2f981282]
+## CHAPTER 4 — FINAL PROVISIONS[^c-6a1fd581f02108022e32aa6a2f981282]
 
 **No longer in force.**
 
@@ -340,7 +340,7 @@ that person (as well as the partnership) is guilty of an offence and liable to b
 
 [^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — SWORDFISH[^key-8621481c646ab538cc6f929b5783739b]
+## ANNEX II — SWORDFISH[^c-8621481c646ab538cc6f929b5783739b]
 
 For the purposes of the definition of swordfish in Article 3, the commodity codes in the first column of the following table apply. The descriptions in the second column of the table are for information purposes only.
 
@@ -364,7 +364,7 @@ For the purposes of the definition of swordfish in Article 3, the commodity code
 | 1604 1997 20 | Prepared or preserved swordfish (Xiphias gladius), other |
 | 1604 2090 60 | Prepared or preserved swordfish (Xiphias gladius), other |
 
-## ANNEX III — BIGEYE TUNA[^key-a73a98eb1850974a39d3072147149a4a]
+## ANNEX III — BIGEYE TUNA[^c-a73a98eb1850974a39d3072147149a4a]
 
 For the purposes of the definition of bigeye tuna in Article 3, the commodity codes in the first column of the following table apply. The descriptions in the second column of the table are for information purposes only.
 
@@ -407,7 +407,7 @@ For the purposes of the definition of bigeye tuna in Article 3, the commodity co
 
 ## ANNEX IVb
 
-Countries[^key-f1342312315e854c5e25dfdec82207d1] recognised by ICCAT for which the statistical document can be validated by an institution authorised for this purpose, for example a chamber of commerce: Angola, Brazil, Canada, Cape Verde, China, Côte d'Ivoire, Croatia, Equatorial Guinea, Gabon, Ghana, Guinea-Bissau, Guinea-Conakry, Japan, Korea, Libya, Morocco, Russia, São Tomé and Príncipe, South Africa, Tunisia, Uruguay, USA, Venezuela.
+Countries[^c-f1342312315e854c5e25dfdec82207d1] recognised by ICCAT for which the statistical document can be validated by an institution authorised for this purpose, for example a chamber of commerce: Angola, Brazil, Canada, Cape Verde, China, Côte d'Ivoire, Croatia, Equatorial Guinea, Gabon, Ghana, Guinea-Bissau, Guinea-Conakry, Japan, Korea, Libya, Morocco, Russia, São Tomé and Príncipe, South Africa, Tunisia, Uruguay, USA, Venezuela.
 
 ## ANNEX V
 
@@ -496,13 +496,13 @@ List of vessels flying the Taiwanese flag participating in the re-registration p
 
 [image: see source](https://www.legislation.gov.uk/eur/2003/1984/images/eur_20031984_2017-12-03_en_014)[image: see source](https://www.legislation.gov.uk/eur/2003/1984/images/eur_20031984_2017-12-03_en_015)
 
-## ANNEX XIII[^key-50129f03a7d0c4f87d5d46e440b8eb75]
+## ANNEX XIII[^c-50129f03a7d0c4f87d5d46e440b8eb75]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIV[^key-ffb49ff85214e8866c4723ff7a22f9cc]
+## ANNEX XIV[^c-ffb49ff85214e8866c4723ff7a22f9cc]
 
 **No longer in force.**
 
@@ -516,7 +516,7 @@ List of vessels flying the Taiwanese flag participating in the re-registration p
 
 [^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XVI[^key-e407b2249cf7498a449eeffd4e069f74]
+## ANNEX XVI[^c-e407b2249cf7498a449eeffd4e069f74]
 
 **No longer in force.**
 
@@ -524,13 +524,13 @@ List of vessels flying the Taiwanese flag participating in the re-registration p
 
 ## ANNEX XVII
 
-.[^key-e407b2249cf7498a449eeffd4e069f74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.[^c-e407b2249cf7498a449eeffd4e069f74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX XVIII
 
-[^key-e407b2249cf7498a449eeffd4e069f74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e407b2249cf7498a449eeffd4e069f74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIX[^key-e407b2249cf7498a449eeffd4e069f74]
+## ANNEX XIX[^c-e407b2249cf7498a449eeffd4e069f74]
 
 **No longer in force.**
 
@@ -552,80 +552,80 @@ List of vessels flying the Taiwanese flag participating in the re-registration p
 
 [^f00006]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-345f8e3d1ffd2331380d133718f98c09]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2003/1984/article/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-345f8e3d1ffd2331380d133718f98c09]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2003/1984/article/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3fab7b96173f1d2acac2addb77115733]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2003/1984/article/1/a) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/2/a)
+[^c-3fab7b96173f1d2acac2addb77115733]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2003/1984/article/1/a) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/2/a)
 
-[^key-b191fc2f50f588c8fa46f310a15390f5]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2003/1984/article/1/b) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/2/b)
+[^c-b191fc2f50f588c8fa46f310a15390f5]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2003/1984/article/1/b) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/2/b)
 
-[^key-306c4124de36d9b8ca906193e81e83f3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2003/1984/article/2) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/3)
+[^c-306c4124de36d9b8ca906193e81e83f3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2003/1984/article/2) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/3)
 
-[^key-c7dd5ffb5531817d2416d7708560f986]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2003/1984/article/3) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/4)
+[^c-c7dd5ffb5531817d2416d7708560f986]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2003/1984/article/3) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/4)
 
-[^key-26556e81bb24124f05655714981f5f09]: Textual amendment: Words in [Ch. 2 s. 1](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/1) heading substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26556e81bb24124f05655714981f5f09]: Textual amendment: Words in [Ch. 2 s. 1](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/1) heading substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1057be4388dc216d6e1d43d10964465b]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2003/1984/article/4/1) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/a)
+[^c-1057be4388dc216d6e1d43d10964465b]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2003/1984/article/4/1) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/a)
 
-[^key-10df1e3dff01672e5a703b0cf33f8eb4]: Textual amendment: Word in [Art. 4(2)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/i)
+[^c-10df1e3dff01672e5a703b0cf33f8eb4]: Textual amendment: Word in [Art. 4(2)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/i)
 
-[^key-386bcd6910c9d72b254ef9b4a7e706a2]: Textual amendment: [Art. 4(2)(a)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2/a) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/ii)
+[^c-386bcd6910c9d72b254ef9b4a7e706a2]: Textual amendment: [Art. 4(2)(a)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2/a) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/ii)
 
-[^key-643dbb0aaf62d79d49990682c6ccddb3]: Textual amendment: Word in [Art. 4(2)(b)(i)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2/b/i) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/iii)
+[^c-643dbb0aaf62d79d49990682c6ccddb3]: Textual amendment: Word in [Art. 4(2)(b)(i)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2/b/i) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/iii)
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) 2017/2107 of the European Parliament and of the Council of 15 November 2017 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007](https://www.legislation.gov.uk/eur/2017/2107).
 
-[^key-785eb0ed607dd6d5100cb75715aa58ca]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2/c) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/iv)
+[^c-785eb0ed607dd6d5100cb75715aa58ca]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/eur/2003/1984/article/4/2/c) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/b/iv)
 
-[^key-ab1c2f70204f060b10a5aba56a18a90c]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2003/1984/article/4/3) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/c)
+[^c-ab1c2f70204f060b10a5aba56a18a90c]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2003/1984/article/4/3) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/c)
 
-[^key-e0938a9dbdb1fc322b895e0f4bd774c1]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/eur/2003/1984/article/4/4) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/d)
+[^c-e0938a9dbdb1fc322b895e0f4bd774c1]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/eur/2003/1984/article/4/4) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/d)
 
-[^key-fba25bf6a99793371e9c4f91913225a5]: Textual amendment: Words in [Art. 4(5)](https://www.legislation.gov.uk/eur/2003/1984/article/4/5) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(e)(i)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/e/i)
+[^c-fba25bf6a99793371e9c4f91913225a5]: Textual amendment: Words in [Art. 4(5)](https://www.legislation.gov.uk/eur/2003/1984/article/4/5) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(e)(i)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/e/i)
 
-[^key-6be0b492cb51943df8ab52d6f5850195]: Textual amendment: Words in [Art. 4(5)](https://www.legislation.gov.uk/eur/2003/1984/article/4/5) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/e/ii)
+[^c-6be0b492cb51943df8ab52d6f5850195]: Textual amendment: Words in [Art. 4(5)](https://www.legislation.gov.uk/eur/2003/1984/article/4/5) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/e/ii)
 
-[^key-d04a83ca154238229588661707720878]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/eur/2003/1984/article/4/6)[(7)](https://www.legislation.gov.uk/eur/2003/1984/article/4/7) inserted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(f)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/f)
+[^c-d04a83ca154238229588661707720878]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/eur/2003/1984/article/4/6)[(7)](https://www.legislation.gov.uk/eur/2003/1984/article/4/7) inserted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(5)(f)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/5/f)
 
-[^key-7d50c703138afa2b82cb382c19fba798]: Textual amendment: Words in [Ch. 2 s. 2](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/2) heading substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(7)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d50c703138afa2b82cb382c19fba798]: Textual amendment: Words in [Ch. 2 s. 2](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/2) heading substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(7)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-891395da0988e26a081894696fbb8ba5]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2003/1984/article/5) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/6)
+[^c-891395da0988e26a081894696fbb8ba5]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2003/1984/article/5) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/6)
 
-[^key-598172a7a6a88d6aa8c400a04a3666e4]: Textual amendment: Words in [Ch. 2 s. 3](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/3) heading substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(9)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-598172a7a6a88d6aa8c400a04a3666e4]: Textual amendment: Words in [Ch. 2 s. 3](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/3) heading substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(9)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a63d0aa13c83597cad1b1c266e8cce5]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2003/1984/article/6) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/7)
+[^c-0a63d0aa13c83597cad1b1c266e8cce5]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2003/1984/article/6) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/7)
 
-[^key-437f4b6816e971e58480a51e30b2117e]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(i)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/i)
+[^c-437f4b6816e971e58480a51e30b2117e]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(i)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/i)
 
-[^key-b7595fb724d9f9e808c9b2ee4d941ab6]: Textual amendment: Word in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/ii)
+[^c-b7595fb724d9f9e808c9b2ee4d941ab6]: Textual amendment: Word in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/ii)
 
-[^key-2932eed499ed20cf749ac9017d86d85d]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/iii)
+[^c-2932eed499ed20cf749ac9017d86d85d]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/iii)
 
-[^key-aad8c3a0e83e0c0f44dc719c0b424fb1]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/iv)
+[^c-aad8c3a0e83e0c0f44dc719c0b424fb1]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2003/1984/article/7/1) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/a/iv)
 
-[^key-d2c34bfcf4777ffba13a11c94075cfe2]: Textual amendment: Word in [Art. 7(2)](https://www.legislation.gov.uk/eur/2003/1984/article/7/2) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/b)
+[^c-d2c34bfcf4777ffba13a11c94075cfe2]: Textual amendment: Word in [Art. 7(2)](https://www.legislation.gov.uk/eur/2003/1984/article/7/2) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/8/b)
 
 [^c000003]: Textual amendment: Inserted by [Regulation (EU) 2017/2107 of the European Parliament and of the Council of 15 November 2017 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007](https://www.legislation.gov.uk/eur/2017/2107).
 
-[^key-2b706ce9e4505fb83543effee52c6b06]: Textual amendment: Words in [Ch. 2 s. 4](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/4) heading omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(11)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b706ce9e4505fb83543effee52c6b06]: Textual amendment: Words in [Ch. 2 s. 4](https://www.legislation.gov.uk/eur/2003/1984/chapter/2/section/4) heading omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(11)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ce42896dbfe0d638cc98354d00ae8227]: Textual amendment: [Art. 7a](https://www.legislation.gov.uk/eur/2003/1984/article/7a) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/9)
+[^c-ce42896dbfe0d638cc98354d00ae8227]: Textual amendment: [Art. 7a](https://www.legislation.gov.uk/eur/2003/1984/article/7a) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/9)
 
-[^key-d0c7a40f1f1b976bc46b9f2867f3d97b]: Textual amendment: [Ch. 3](https://www.legislation.gov.uk/eur/2003/1984/chapter/3) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(13)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0c7a40f1f1b976bc46b9f2867f3d97b]: Textual amendment: [Ch. 3](https://www.legislation.gov.uk/eur/2003/1984/chapter/3) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(13)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3531dda8cf4f43331c99e07fcda855e8]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/eur/2003/1984/chapter/3A) inserted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/10)
+[^c-3531dda8cf4f43331c99e07fcda855e8]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/eur/2003/1984/chapter/3A) inserted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/10)
 
-[^key-6a1fd581f02108022e32aa6a2f981282]: Textual amendment: [Ch. 4](https://www.legislation.gov.uk/eur/2003/1984/chapter/4) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/11)
+[^c-6a1fd581f02108022e32aa6a2f981282]: Textual amendment: [Ch. 4](https://www.legislation.gov.uk/eur/2003/1984/chapter/4) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/11)
 
 [^M_F_879ee9b1-a35f-4d3a-c81f-2f932d1344fa]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2003/1984/article/14) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [13(14)](https://www.legislation.gov.uk/uksi/2019/753/regulation/13/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8621481c646ab538cc6f929b5783739b]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2003/1984/annex/II) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/12)
+[^c-8621481c646ab538cc6f929b5783739b]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2003/1984/annex/II) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/12)
 
-[^key-a73a98eb1850974a39d3072147149a4a]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2003/1984/annex/III) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/13)
+[^c-a73a98eb1850974a39d3072147149a4a]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2003/1984/annex/III) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/13)
 
-[^key-f1342312315e854c5e25dfdec82207d1]: Textual amendment: Word in [Annex 4b](https://www.legislation.gov.uk/eur/2003/1984/annex/4b) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/14)
+[^c-f1342312315e854c5e25dfdec82207d1]: Textual amendment: Word in [Annex 4b](https://www.legislation.gov.uk/eur/2003/1984/annex/4b) substituted (1.4.2024) by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/14)
 
-[^key-50129f03a7d0c4f87d5d46e440b8eb75]: Textual amendment: [Annex 13](https://www.legislation.gov.uk/eur/2003/1984/annex/XIII) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/15)
+[^c-50129f03a7d0c4f87d5d46e440b8eb75]: Textual amendment: [Annex 13](https://www.legislation.gov.uk/eur/2003/1984/annex/XIII) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/15)
 
-[^key-ffb49ff85214e8866c4723ff7a22f9cc]: Textual amendment: [Annex 14](https://www.legislation.gov.uk/eur/2003/1984/annex/XIV) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/15)
+[^c-ffb49ff85214e8866c4723ff7a22f9cc]: Textual amendment: [Annex 14](https://www.legislation.gov.uk/eur/2003/1984/annex/XIV) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/15)
 
-[^key-e407b2249cf7498a449eeffd4e069f74]: Textual amendment: Annexes 16-19 omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/15)
+[^c-e407b2249cf7498a449eeffd4e069f74]: Textual amendment: Annexes 16-19 omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [3(15)](https://www.legislation.gov.uk/uksi/2024/439/regulation/3/15)

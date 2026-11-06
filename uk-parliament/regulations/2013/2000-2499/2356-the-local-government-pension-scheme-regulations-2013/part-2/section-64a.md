@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64A. Revision of rates and adjustments certificate: Scheme employer contributions[^key-b8d1d94c2e22f07c63f55e70384f1c13]
+## 64A. Revision of rates and adjustments certificate: Scheme employer contributions[^c-b8d1d94c2e22f07c63f55e70384f1c13]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d1d94c2e22f07c63f55e70384f1c13]: Textual amendment: [Regs. 64A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/64A), [64B](https://www.legislation.gov.uk/uksi/2013/2356/regulation/64B) inserted (23.9.2020) by [The Local Government Pension Scheme (Amendment) (No. 2) Regulations 2020 (S.I. 2020/893)](https://www.legislation.gov.uk/uksi/2020/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/893/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/893/regulation/4)
+[^c-b8d1d94c2e22f07c63f55e70384f1c13]: Textual amendment: [Regs. 64A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/64A), [64B](https://www.legislation.gov.uk/uksi/2013/2356/regulation/64B) inserted (23.9.2020) by [The Local Government Pension Scheme (Amendment) (No. 2) Regulations 2020 (S.I. 2020/893)](https://www.legislation.gov.uk/uksi/2020/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/893/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/893/regulation/4)

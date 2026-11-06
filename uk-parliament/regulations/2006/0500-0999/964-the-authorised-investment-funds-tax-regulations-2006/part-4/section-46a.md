@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Annual Payments – duty to deduct income tax[^key-266f32755851ef65e8c3e47fc7ef1d96]
+## 46A. Annual Payments – duty to deduct income tax[^c-266f32755851ef65e8c3e47fc7ef1d96]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,13 +30,13 @@ summary: ''
 
 (5) Any management fees must not exceed an amount representing a reasonable commercial amount in all the circumstances.
 
-(6) At the time the payment is made, the person making the payment must have reasonable grounds for believing that—[^key-3fbad945f9eb121eae89bfb589f4245d]
+(6) At the time the payment is made, the person making the payment must have reasonable grounds for believing that—[^c-3fbad945f9eb121eae89bfb589f4245d]
 
 - (a) the participant is not resident in the United Kingdom, or
 - (b) the payment is made in respect a class of units in relation to which of the offshore marketing condition in regulation 33A is met.
 
 ## Annotations
 
-[^key-266f32755851ef65e8c3e47fc7ef1d96]: Textual amendment: Regs. 46A, 46B and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2013 (S.I. 2013/1772)](https://www.legislation.gov.uk/uksi/2013/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/2/2)
+[^c-266f32755851ef65e8c3e47fc7ef1d96]: Textual amendment: Regs. 46A, 46B and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2013 (S.I. 2013/1772)](https://www.legislation.gov.uk/uksi/2013/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/2/2)
 
-[^key-3fbad945f9eb121eae89bfb589f4245d]: Textual amendment: Words in reg. 46A(6) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2994/regulation/5)
+[^c-3fbad945f9eb121eae89bfb589f4245d]: Textual amendment: Words in reg. 46A(6) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2994/regulation/5)

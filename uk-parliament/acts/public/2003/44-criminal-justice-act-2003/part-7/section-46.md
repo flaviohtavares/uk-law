@@ -44,10 +44,10 @@ but this is subject to subsection (4).
 
 (6) Subsection (5) is without prejudice to any other power that the judge may have on terminating the trial.
 
-(7) Subject to subsection (5), nothing in this section affects the application of section 43 or *(Extent: E+W)* *(affected by repeal, see note)*[^key-28071930067279644ae86ce05be2349c] 44 in relation to any new trial which takes place following the termination of the trial.
+(7) Subject to subsection (5), nothing in this section affects the application of section 43 or *(Extent: E+W)* *(affected by repeal, see note)*[^c-28071930067279644ae86ce05be2349c] 44 in relation to any new trial which takes place following the termination of the trial.
 
 ## Annotations
 
 [^c19410301]: Commencement: S. 46 wholly in force at 24.7.2006, see s. 336(3) and [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2](https://www.legislation.gov.uk/uksi/2006/1835/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/1835/article/3))
 
-[^key-28071930067279644ae86ce05be2349c]: Textual amendment: Words in s. 46(7) repealed (E.W.) (1.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 148(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/148/3), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/10)
+[^c-28071930067279644ae86ce05be2349c]: Textual amendment: Words in s. 46(7) repealed (E.W.) (1.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 148(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/148/3), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/10)

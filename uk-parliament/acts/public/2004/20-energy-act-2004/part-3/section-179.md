@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Meaning of electricity supply[^key-f9d18001638fea12ed15c1981ce75cc6][^key-e3fbf9874d0e06ac672993772902d700]
+## 179. Meaning of electricity supply[^c-f9d18001638fea12ed15c1981ce75cc6][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S*
 
@@ -36,10 +36,10 @@ summary: ''
 (3) Those provisions are—
 
 - (a) section 3A(1), (5)(a) and (7) of the 1989 Act (principal objectives and general duties applying to electricity regulation);
-- (b)[^key-6da52c634444ee147922ff5e7ec05794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6da52c634444ee147922ff5e7ec05794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 48(1) of that Act (publication of information and advice);
 - (d) section 4AA(4)(a) of the Gas Act 1986 (principal objectives and general duties applying to gas regulation); and
-- (e)[^key-08515d5a94d0c07d20a11b50885fe08b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-08515d5a94d0c07d20a11b50885fe08b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An order under section 198 for bringing into force provisions of this section may contain any such transitional provision in connection with bringing those provisions into force as the Secretary of State thinks appropriate.
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f9d18001638fea12ed15c1981ce75cc6]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2004/20/section/179) in force at 1.4.2006 for specified purposes and 1.4.2010 in so far as not already in force by [S.I. 2005/2965](https://www.legislation.gov.uk/uksi/2005/2965), [art. 3](https://www.legislation.gov.uk/uksi/2005/2965/article/3)
+[^c-f9d18001638fea12ed15c1981ce75cc6]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2004/20/section/179) in force at 1.4.2006 for specified purposes and 1.4.2010 in so far as not already in force by [S.I. 2005/2965](https://www.legislation.gov.uk/uksi/2005/2965), [art. 3](https://www.legislation.gov.uk/uksi/2005/2965/article/3)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
-[^key-6da52c634444ee147922ff5e7ec05794]: Textual amendment: [S. 179(3)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/179/3/b) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-6da52c634444ee147922ff5e7ec05794]: Textual amendment: [S. 179(3)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/179/3/b) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-08515d5a94d0c07d20a11b50885fe08b]: Textual amendment: [S. 179(3)(e)](https://www.legislation.gov.uk/ukpga/2004/20/section/179/3/e) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-08515d5a94d0c07d20a11b50885fe08b]: Textual amendment: [S. 179(3)(e)](https://www.legislation.gov.uk/ukpga/2004/20/section/179/3/e) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

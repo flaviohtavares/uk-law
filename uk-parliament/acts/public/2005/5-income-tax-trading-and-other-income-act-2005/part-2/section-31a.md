@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Conditions to be met for profits to be calculated on cash basis[^key-13fe7944f96cf17e01f31dd83cfa23a9]
+## 31A. Conditions to be met for profits to be calculated on cash basis[^c-13fe7944f96cf17e01f31dd83cfa23a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13fe7944f96cf17e01f31dd83cfa23a9]: Textual amendment: [S. 31A and cross-heading](https://www.legislation.gov.uk/ukpga/2005/5/part/2/chapter/3A/crossheading/eligibility) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/6/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-13fe7944f96cf17e01f31dd83cfa23a9]: Textual amendment: [S. 31A and cross-heading](https://www.legislation.gov.uk/ukpga/2005/5/part/2/chapter/3A/crossheading/eligibility) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/6/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

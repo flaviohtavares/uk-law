@@ -34,7 +34,7 @@ summary: ''
 
 (4)  The second condition is that, if a holder of securities exercises that right, the consideration to be given for those securities is fair and reasonable.
 
-(5) The powers of the court under section 900(2) or, as the case may be, section 901J(2)[^key-cf717c4101fa0b2971e206bc85f5a0ce] (power to facilitate reconstruction or amalgamation) include the power to determine, or make provision for the determination of, the consideration to be given for securities acquired under this section.
+(5) The powers of the court under section 900(2) or, as the case may be, section 901J(2)[^c-cf717c4101fa0b2971e206bc85f5a0ce] (power to facilitate reconstruction or amalgamation) include the power to determine, or make provision for the determination of, the consideration to be given for securities acquired under this section.
 
 (6)  In this section—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c21178291]: Textual amendment: S. 915A inserted (1.8.2011 with application in accordance with reg. 1(2)) by [The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011 (S.I. 2011/1606)](https://www.legislation.gov.uk/uksi/2011/1606), [reg. 14](https://www.legislation.gov.uk/uksi/2011/1606/regulation/14)
 
-[^key-cf717c4101fa0b2971e206bc85f5a0ce]: Textual amendment: Words in s. 915A(5) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(7)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/7) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-cf717c4101fa0b2971e206bc85f5a0ce]: Textual amendment: Words in s. 915A(5) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(7)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/7) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

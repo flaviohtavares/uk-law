@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Duties relating to explosives in mines with explosive atmospheres[^key-f6786431ba488db60c62882f865e84ef]
+## 29. Duties relating to explosives in mines with explosive atmospheres[^c-f6786431ba488db60c62882f865e84ef]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In mines in which places have been classified as hazardous under regulation 7(1)
 
 ## Annotations
 
-[^key-f6786431ba488db60c62882f865e84ef]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/3248/regulation/29) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-f6786431ba488db60c62882f865e84ef]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/3248/regulation/29) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

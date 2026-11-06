@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Covenant income where no grant income or no contribution is assessed[^key-b50ac7400c274194b6532fde99ca6b33]
+## 40. Covenant income where no grant income or no contribution is assessed[^c-b50ac7400c274194b6532fde99ca6b33]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b50ac7400c274194b6532fde99ca6b33]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1988/1890/regulation/40) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-b50ac7400c274194b6532fde99ca6b33]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1988/1890/regulation/40) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

@@ -16,51 +16,51 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XI — Technical rules on V I 1 and V 1 2 forms provided for in Articles 43 and 44[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+## ANNEX XI — Technical rules on V I 1 and V 1 2 forms provided for in Articles 43 and 44[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] A.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] A.
 
 Printing of forms
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] B.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] B.
 
 Completing the forms
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.
 
 Exporter:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.
 
 Consignee:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 4.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 4.
 
 Means of transport and transport details:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 6.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 6.
 
 (5 for V I 2) Description of the imported product:
 
@@ -68,4 +68,4 @@ Means of transport and transport details:
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

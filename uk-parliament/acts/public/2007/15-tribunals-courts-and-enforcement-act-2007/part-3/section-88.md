@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Abolition of Crown preference[^key-6da009afe8a14fcc76c12fd7efa46f4b]
+## 88. Abolition of Crown preference[^c-6da009afe8a14fcc76c12fd7efa46f4b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Crown preference for the purposes of execution against goods is abolished.
 
 ## Annotations
 
-[^key-6da009afe8a14fcc76c12fd7efa46f4b]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2007/15/section/88) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-6da009afe8a14fcc76c12fd7efa46f4b]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2007/15/section/88) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

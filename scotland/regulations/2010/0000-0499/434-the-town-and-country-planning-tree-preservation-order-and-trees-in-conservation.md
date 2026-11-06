@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 160(8), 161(3) and (4), 173 and 275 of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-7ef31ed78ab6d2f16dff1ef15cf42250]
+## 1. Citation and commencement[^c-7ef31ed78ab6d2f16dff1ef15cf42250]
 
 These Regulations may be cited as the Town and Country Planning (Tree Preservation Order and Trees in Conservation Areas) (Scotland) Regulations 2010 and come into force on 1st February 2011.
 
-## 2. Interpretation[^key-c50d756eb0a86078e9a7d92ca53a0146]
+## 2. Interpretation[^c-c50d756eb0a86078e9a7d92ca53a0146]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
 - “revocation order” means a tree preservation order which revokes another tree preservation order; and
 - “variation order” means a tree preservation order which varies another tree preservation order.
 
-## 3. Tree preservation order[^key-0025932532e59d7ff7e3d4824a5ce5b6]
+## 3. Tree preservation order[^c-0025932532e59d7ff7e3d4824a5ce5b6]
 
 (1) A tree preservation order must define the position of the trees, groups of trees, or woodlands to which it relates and for that purpose is to include a map.
 
@@ -74,7 +74,7 @@ In these Regulations—
 - (a) a variation order which does not amend the original order so as to include a new tree, group of trees or woodland; or
 - (b) a revocation order.
 
-## 4. Procedure and representations[^key-0389e050c0ebca2df46be6d50e87e0be]
+## 4. Procedure and representations[^c-0389e050c0ebca2df46be6d50e87e0be]
 
 (1) A planning authority must, as soon as practicable after making a tree preservation order—
 
@@ -84,12 +84,12 @@ In these Regulations—
   - (ii) where and at what times a copy of the tree preservation order may be inspected;
   - (iii) how representations with respect to the tree preservation order may be made to the planning authority; and
   - (iv) the date by which any representation must be made to the planning authority (being a date not earlier than 28 days after the date on which the notice is given);
-- (c) send a copy of the tree preservation order to The Scottish Ministers[^key-9b899fdd14abdc26ed78217cea54b038]; and
+- (c) send a copy of the tree preservation order to The Scottish Ministers[^c-9b899fdd14abdc26ed78217cea54b038]; and
 - (d) give notice to all interested persons containing the information specified in paragraphs (b)(i), (iii) and (iv) together with a copy of the tree preservation order.
 
 (2) A copy of the tree preservation order must be made available for inspection, free of charge, at all reasonable hours, at the offices of the planning authority by whom the tree preservation order was made.
 
-## 5. Representations[^key-4fb7f7ab7c725b237e7fbeef76fcbe27]
+## 5. Representations[^c-4fb7f7ab7c725b237e7fbeef76fcbe27]
 
 (1) Representations may be made to the planning authority with respect to a tree preservation order by—
 
@@ -100,7 +100,7 @@ In these Regulations—
 
 (3) The planning authority must consider any representations made in accordance with this regulation before the tree preservation order is confirmed.
 
-## 6. Action after confirmation of a tree preservation order[^key-f48f06b617f5bb9e4a6560d850d86099]
+## 6. Action after confirmation of a tree preservation order[^c-f48f06b617f5bb9e4a6560d850d86099]
 
 (1) Where a tree preservation order is confirmed it must be endorsed to that effect, and the endorsement must also indicate—
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 (2) The planning authority must, as soon as practicable after confirming a tree preservation order, give notice of the confirmation of the tree preservation order to—
 
-- (a) The Scottish Ministers[^key-7f13f45bc2c94295f17391fe936fe613];
+- (a) The Scottish Ministers[^c-7f13f45bc2c94295f17391fe936fe613];
 - (b) interested persons; and
 - (c) any other person who made a representation in accordance with regulation 5.
 
@@ -131,28 +131,28 @@ In these Regulations—
 
 (7) Where the planning authority confirm a revocation order, the planning authority are to withdraw from public inspection the copy of the original order made available in accordance with paragraph (4).
 
-## 7. Action where a tree preservation order is not confirmed[^key-79f93c54a84d5417d9ce9b2433b07ba2]
+## 7. Action where a tree preservation order is not confirmed[^c-79f93c54a84d5417d9ce9b2433b07ba2]
 
 Where a planning authority decides not to confirm a tree preservation order it must, as soon as practicable—
 
 - (a) endorse the tree preservation order with a statement to that effect and with the date of its decision; and
 - (b) give notice of its decision to–
-  - (i) The Scottish Ministers[^key-190e1e6b4cb86fdbfeaffe1471434255];
+  - (i) The Scottish Ministers[^c-190e1e6b4cb86fdbfeaffe1471434255];
   - (ii) interested persons; and
   - (iii) any other person who made a representation in accordance with regulation 5.
 
-## 8. Trees in conservation areas[^key-5090294e4e9d42dcf3f7e0027189b3f2]
+## 8. Trees in conservation areas[^c-5090294e4e9d42dcf3f7e0027189b3f2]
 
 (1) Section 172 of the Act (preservation of trees in conservation areas) is not to apply where the act is—
 
-- (a) the cutting down of a tree in accordance with a felling permission granted by the Scottish Ministers under the Forestry and Land Management (Scotland) Act 2018[^key-2a17fa525d54cfee0df5bb5e104549dd];
-- (aa)[^key-1f2c8e24c273bcc3868a51eab25a6263] the carrying out of any action—
+- (a) the cutting down of a tree in accordance with a felling permission granted by the Scottish Ministers under the Forestry and Land Management (Scotland) Act 2018[^c-2a17fa525d54cfee0df5bb5e104549dd];
+- (aa)[^c-1f2c8e24c273bcc3868a51eab25a6263] the carrying out of any action—
   - (i) required to be taken in accordance with a high hedge notice; or
   - (ii) authorised by virtue of section 22(1) of the High Hedges (Scotland) Act 2013;
 - (b) the cutting down, uprooting, topping or lopping of a tree on land in the occupation of a planning authority when this is done by or with the consent of that authority;
 - (c) the cutting down, uprooting, topping or lopping of a tree having a diameter not exceeding 75 millimetres;
 - (d) the cutting down or uprooting in a woodland of a tree having a diameter not exceeding 100 millimetres where this is done to improve the growth of other trees;
-- (e)[^key-ca58dcb9e5b29df7a50ef8b408872e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-ca58dcb9e5b29df7a50ef8b408872e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the cutting down, topping, lopping or uprooting of a tree by or at the request of a statutory undertaker, where the land on which the tree is situated is operational land[^f00004] of the statutory undertaker and the work is necessary—
   - (i) in the interests of the safe operation of the undertaking;
   - (ii) in connection with the inspection, repair or renewal of any sewers, mains, pipes, cables or other apparatus of the statutory undertaker; or
@@ -171,11 +171,11 @@ Where a planning authority decides not to confirm a tree preservation order it m
 - “the 1992 Order” means the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00006];
 - “the Act” means the Town and Country Planning (Scotland) Act 1997;
 - “diameter” means the diameter measured over the bark, at a point 1.5 metres above ground level;
-- “high hedge notice” has the meaning given by section 8(2) of the High Hedges (Scotland) Act 2013;[^key-a5796e849ca43f05759298376a09dfe2]
+- “high hedge notice” has the meaning given by section 8(2) of the High Hedges (Scotland) Act 2013;[^c-a5796e849ca43f05759298376a09dfe2]
 - “outline planning permission” has the same meaning as in section 59 of the Act as it applied immediately before section 21 of the Planning etc. (Scotland) Act 2006[^f00007] came into force; and
 - “SEPA” means the Scottish Environment Protection Agency established under section 20 of the Environment Act 1995[^f00008].
 
-## 9. Applications for consent[^key-344e60b72735f3605f1cbd26a8912fc6]
+## 9. Applications for consent[^c-344e60b72735f3605f1cbd26a8912fc6]
 
 (1) An application for consent to the carrying out of any act prohibited by a tree preservation order must be made to the planning authority and must—
 
@@ -185,7 +185,7 @@ Where a planning authority decides not to confirm a tree preservation order it m
 
 (2) The protected tree or trees must be identified by means of a map or plan of a size and scale sufficient for the purpose.
 
-## 10. Electronic communications[^key-89d31c301738c36d00b4249757749094]
+## 10. Electronic communications[^c-89d31c301738c36d00b4249757749094]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -212,7 +212,7 @@ Where a planning authority decides not to confirm a tree preservation order it m
 - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent by means of a document in printed form; and
 - “sent” includes given and, in relation to representations or an application, includes made and cognate expressions are to be construed accordingly.
 
-## 11. Revocations and saving provisions[^key-c2347418dc726a3ab985bf43f9abee5d]
+## 11. Revocations and saving provisions[^c-c2347418dc726a3ab985bf43f9abee5d]
 
 (1) The Regulations mentioned in paragraph (2) are revoked.
 
@@ -250,33 +250,33 @@ Regulation 9 makes provision relating to the how an application for consent to c
 
 [^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 160(8) was inserted by section 28(2)(c) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (“the 2006 Act”). Part 7, Chapter 1 was otherwise amended by sections 28, 54(9) and 56 of and the Schedule to the 2006 Act, sections 95 and 96 of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5) and section 36 of and paragraphs 56 and 57 of the Schedule to the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-7ef31ed78ab6d2f16dff1ef15cf42250]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-7ef31ed78ab6d2f16dff1ef15cf42250]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-c50d756eb0a86078e9a7d92ca53a0146]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/434/regulation/2) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-c50d756eb0a86078e9a7d92ca53a0146]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/434/regulation/2) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-0025932532e59d7ff7e3d4824a5ce5b6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/434/regulation/3) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-0025932532e59d7ff7e3d4824a5ce5b6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/434/regulation/3) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-0389e050c0ebca2df46be6d50e87e0be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/434/regulation/4) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-0389e050c0ebca2df46be6d50e87e0be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/434/regulation/4) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-9b899fdd14abdc26ed78217cea54b038]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/ssi/2010/434/regulation/4/1/c) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/2)
+[^c-9b899fdd14abdc26ed78217cea54b038]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/ssi/2010/434/regulation/4/1/c) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/2)
 
-[^key-4fb7f7ab7c725b237e7fbeef76fcbe27]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/434/regulation/5) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-4fb7f7ab7c725b237e7fbeef76fcbe27]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/434/regulation/5) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-f48f06b617f5bb9e4a6560d850d86099]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/434/regulation/6) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-f48f06b617f5bb9e4a6560d850d86099]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/434/regulation/6) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-7f13f45bc2c94295f17391fe936fe613]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/ssi/2010/434/regulation/6/2/a) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/3)
+[^c-7f13f45bc2c94295f17391fe936fe613]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/ssi/2010/434/regulation/6/2/a) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/3)
 
-[^key-79f93c54a84d5417d9ce9b2433b07ba2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/434/regulation/7) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-79f93c54a84d5417d9ce9b2433b07ba2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/434/regulation/7) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-190e1e6b4cb86fdbfeaffe1471434255]: Textual amendment: Words in [reg. 7(b)(i)](https://www.legislation.gov.uk/ssi/2010/434/regulation/7/b/i) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/4)
+[^c-190e1e6b4cb86fdbfeaffe1471434255]: Textual amendment: Words in [reg. 7(b)(i)](https://www.legislation.gov.uk/ssi/2010/434/regulation/7/b/i) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/4)
 
-[^key-5090294e4e9d42dcf3f7e0027189b3f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/434/regulation/8) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-5090294e4e9d42dcf3f7e0027189b3f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/434/regulation/8) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-2a17fa525d54cfee0df5bb5e104549dd]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/1/a) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/5/a)
+[^c-2a17fa525d54cfee0df5bb5e104549dd]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/1/a) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/5/a)
 
-[^key-1f2c8e24c273bcc3868a51eab25a6263]: Textual amendment: [Reg. 8(1)(aa)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/1/aa) inserted (1.4.2014) by [The Town and Country Planning (Tree Preservation Order and Trees in Conservation Areas) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/53)](https://www.legislation.gov.uk/ssi/2014/53), [regs. 1](https://www.legislation.gov.uk/ssi/2014/53/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/53/regulation/2/2/a)
+[^c-1f2c8e24c273bcc3868a51eab25a6263]: Textual amendment: [Reg. 8(1)(aa)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/1/aa) inserted (1.4.2014) by [The Town and Country Planning (Tree Preservation Order and Trees in Conservation Areas) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/53)](https://www.legislation.gov.uk/ssi/2014/53), [regs. 1](https://www.legislation.gov.uk/ssi/2014/53/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/53/regulation/2/2/a)
 
-[^key-ca58dcb9e5b29df7a50ef8b408872e86]: Textual amendment: [Reg. 8(1)(e)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/1/e) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/5/b)
+[^c-ca58dcb9e5b29df7a50ef8b408872e86]: Textual amendment: [Reg. 8(1)(e)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/1/e) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/5/5/b)
 
 [^f00004]: Footnote: See sections 214 and 215 of the Act respectively for the meaning of statutory undertaker and operational land.
 
@@ -284,17 +284,17 @@ Regulation 9 makes provision relating to the how an application for consent to c
 
 [^f00006]: Footnote: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223) as amended by [S.I. 1992/1078](https://www.legislation.gov.uk/uksi/1992/1078), [S.I. 1992/2084](https://www.legislation.gov.uk/uksi/1992/2084), [S.I. 1993/1036](https://www.legislation.gov.uk/uksi/1993/1036), [S.I. 1994/1442](https://www.legislation.gov.uk/uksi/1994/1442), [S.I. 1994/2586](https://www.legislation.gov.uk/uksi/1994/2586), [S.I. 1994/3294](https://www.legislation.gov.uk/uksi/1994/3294), [S.I. 1996/252](https://www.legislation.gov.uk/uksi/1996/252), [S.I. 1996/1266](https://www.legislation.gov.uk/uksi/1996/1266), [S.I. 1996/3032](https://www.legislation.gov.uk/uksi/1996/3032), [S.I. 1997/3060](https://www.legislation.gov.uk/uksi/1997/3060), [S.I. 1998/1226](https://www.legislation.gov.uk/uksi/1998/1226), [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1), [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040), [S.S.I. 2001/266](https://www.legislation.gov.uk/ssi/2001/266), [S.S.I. 2003/341](https://www.legislation.gov.uk/ssi/2003/341), [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [S.S.I. 2004/332](https://www.legislation.gov.uk/ssi/2004/332), [S.S.I. 2006/1157](https://www.legislation.gov.uk/ssi/2006/1157), [S.S.I. 2007/209](https://www.legislation.gov.uk/ssi/2007/209), [S.S.I. 2007/135](https://www.legislation.gov.uk/ssi/2007/135), [S.S.I. 2008/74](https://www.legislation.gov.uk/ssi/2008/74), [S.S.I. 2008/203](https://www.legislation.gov.uk/ssi/2008/203), [S.S.I. 2009/34](https://www.legislation.gov.uk/ssi/2009/34) and [S.S.I. 2010/27](https://www.legislation.gov.uk/ssi/2010/27).
 
-[^key-a5796e849ca43f05759298376a09dfe2]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/2) inserted (1.4.2014) by [The Town and Country Planning (Tree Preservation Order and Trees in Conservation Areas) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/53)](https://www.legislation.gov.uk/ssi/2014/53), [regs. 1](https://www.legislation.gov.uk/ssi/2014/53/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/53/regulation/2/2/b)
+[^c-a5796e849ca43f05759298376a09dfe2]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2010/434/regulation/8/2) inserted (1.4.2014) by [The Town and Country Planning (Tree Preservation Order and Trees in Conservation Areas) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/53)](https://www.legislation.gov.uk/ssi/2014/53), [regs. 1](https://www.legislation.gov.uk/ssi/2014/53/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/53/regulation/2/2/b)
 
 [^f00007]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17). Section 21 came into force on 3rd August 2009.
 
 [^f00008]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-344e60b72735f3605f1cbd26a8912fc6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/434/regulation/9) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-344e60b72735f3605f1cbd26a8912fc6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/434/regulation/9) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-89d31c301738c36d00b4249757749094]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/434/regulation/10) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-89d31c301738c36d00b4249757749094]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/434/regulation/10) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
-[^key-c2347418dc726a3ab985bf43f9abee5d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/434/regulation/11) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
+[^c-c2347418dc726a3ab985bf43f9abee5d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/434/regulation/11) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/434/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1975/1204](https://www.legislation.gov.uk/uksi/1975/1204) as amended by [S.I. 1981/1385](https://www.legislation.gov.uk/uksi/1981/1385) and [S.I. 1984/329](https://www.legislation.gov.uk/uksi/1984/329).
 

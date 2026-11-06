@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Transfer to another secure contract-holder[^key-a0d3e1fe35d5c118005c0fce37a0c9bd]
+## 118. Transfer to another secure contract-holder[^c-a0d3e1fe35d5c118005c0fce37a0c9bd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d3e1fe35d5c118005c0fce37a0c9bd]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2016/1/section/118) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a0d3e1fe35d5c118005c0fce37a0c9bd]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2016/1/section/118) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

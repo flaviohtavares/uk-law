@@ -37,9 +37,9 @@ summary: ''
 - (b) auditors;
 - (c) external accountants;
 - (d) tax advisers;
-- (e) bill payment service providers; [^key-9fcd7d6272996b0ea25e4b027341d2a1]...
+- (e) bill payment service providers; [^c-9fcd7d6272996b0ea25e4b027341d2a1]...
 - (f) telecommunication, digital and IT payment service providers;
-- (g)[^key-7072b806d84da1cb76f3e2cb1890127f] letting agents; or
+- (g)[^c-7072b806d84da1cb76f3e2cb1890127f] letting agents; or
 - (h) art market participants.
 
 (4) Where a registering authority decides to maintain a register under this regulation, it must take reasonable steps to bring its decision to the attention of those relevant persons in respect of which the register is to be established.
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9fcd7d6272996b0ea25e4b027341d2a1]: Textual amendment: Word in reg. 55(3)(e) omitted (10.1.2020) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(10)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/10/a)
+[^c-9fcd7d6272996b0ea25e4b027341d2a1]: Textual amendment: Word in reg. 55(3)(e) omitted (10.1.2020) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(10)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/10/a)
 
-[^key-7072b806d84da1cb76f3e2cb1890127f]: Textual amendment: Reg. 55(3)(g)(h) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(10)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/10/b)
+[^c-7072b806d84da1cb76f3e2cb1890127f]: Textual amendment: Reg. 55(3)(g)(h) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(10)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/10/b)
 
 [^c23048401]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 349 has been amended by section 964 of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), paragraph 19 of Schedule 12 to the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2006/1183](https://www.legislation.gov.uk/uksi/2006/1183) and [2007/1093](https://www.legislation.gov.uk/uksi/2007/1093).

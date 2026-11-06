@@ -34,7 +34,7 @@ Regulations made by the Secretary of State, laid before Parliament under section
 
 SANCTIONS
 
-The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (revoked)[^key-49a5dc640f0c5b296a4a3f600a06f717]
+The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (revoked)[^c-49a5dc640f0c5b296a4a3f600a06f717]
 
 Made
 
@@ -48,26 +48,26 @@ Coming into force
 
 28th May 2024
 
-[^key-49a5dc640f0c5b296a4a3f600a06f717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49a5dc640f0c5b296a4a3f600a06f717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-49a5dc640f0c5b296a4a3f600a06f717]
+## 1. Citation and commencement[^c-49a5dc640f0c5b296a4a3f600a06f717]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019[^key-49a5dc640f0c5b296a4a3f600a06f717]
+## 2. Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019[^c-49a5dc640f0c5b296a4a3f600a06f717]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-49a5dc640f0c5b296a4a3f600a06f717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-49a5dc640f0c5b296a4a3f600a06f717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-49a5dc640f0c5b296a4a3f600a06f717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-49a5dc640f0c5b296a4a3f600a06f717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49a5dc640f0c5b296a4a3f600a06f717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49a5dc640f0c5b296a4a3f600a06f717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49a5dc640f0c5b296a4a3f600a06f717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49a5dc640f0c5b296a4a3f600a06f717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49a5dc640f0c5b296a4a3f600a06f717]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/695) revoked (31.7.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2024 (S.I. 2024/834)](https://www.legislation.gov.uk/uksi/2024/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/834/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/834/regulation/5)
+[^c-49a5dc640f0c5b296a4a3f600a06f717]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/695) revoked (31.7.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 3) Regulations 2024 (S.I. 2024/834)](https://www.legislation.gov.uk/uksi/2024/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/834/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/834/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 514. Meaning of “reference banks”[^key-be7ac668a3bc6c4a6a8cc53adc271b1b]
+## 514. Meaning of “reference banks”[^c-be7ac668a3bc6c4a6a8cc53adc271b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ Regulation 2 of the Acquisition of Land (Rate of Interest after Entry) Regulatio
 
 ## Annotations
 
-[^key-be7ac668a3bc6c4a6a8cc53adc271b1b]: Commencement: Art. 514 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-be7ac668a3bc6c4a6a8cc53adc271b1b]: Commencement: Art. 514 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00334]: Footnote: Regulation 18(3)(a) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

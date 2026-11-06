@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36.[^key-284346618737a68549d60dc23f6622a6]
+## 36.[^c-284346618737a68549d60dc23f6622a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In Schedule 12 (arrangements in which registered third country auditors are requ
 
 ## Annotations
 
-[^key-284346618737a68549d60dc23f6622a6]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-284346618737a68549d60dc23f6622a6]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586731]: Marginal citation: The cross-heading was amended by regulation 33(2) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 

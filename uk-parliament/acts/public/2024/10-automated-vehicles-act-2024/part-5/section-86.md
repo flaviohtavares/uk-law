@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Consent requirement for services resembling buses[^key-3bf05af9e957fdbd83bdd68635bda64f][^key-9648d01438e9dbbb334d001bb447b4f3]
+## 86. Consent requirement for services resembling buses[^c-3bf05af9e957fdbd83bdd68635bda64f][^c-9648d01438e9dbbb334d001bb447b4f3]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bf05af9e957fdbd83bdd68635bda64f]: Commencement: S. 86 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-3bf05af9e957fdbd83bdd68635bda64f]: Commencement: S. 86 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-9648d01438e9dbbb334d001bb447b4f3]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2024/10/section/86) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)
+[^c-9648d01438e9dbbb334d001bb447b4f3]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2024/10/section/86) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)

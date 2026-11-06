@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1) It shall be the duty of Natural England[^key-1ecfa93b8cce3654a58b2b31e173b211] to prepare, in respect of England outside Inner London, maps which together show—
+(1) It shall be the duty of Natural England[^c-1ecfa93b8cce3654a58b2b31e173b211] to prepare, in respect of England outside Inner London, maps which together show—
 
 - (a) all registered common land, and
 - (b) all open country.
 
-(2) It shall be the duty of the Natural Resources Body for Wales[^key-5e65ecbb2e5dbdde7fa20a165e734386] to prepare, in respect of Wales, maps which together show—
+(2) It shall be the duty of the Natural Resources Body for Wales[^c-5e65ecbb2e5dbdde7fa20a165e734386] to prepare, in respect of Wales, maps which together show—
 
 - (a) all registered common land, and
 - (b) all open country.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ecfa93b8cce3654a58b2b31e173b211]: Textual amendment: Words in s. 4(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 155](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/155); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-1ecfa93b8cce3654a58b2b31e173b211]: Textual amendment: Words in s. 4(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 155](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/155); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-5e65ecbb2e5dbdde7fa20a165e734386]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/4/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 402](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/402) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5e65ecbb2e5dbdde7fa20a165e734386]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/4/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 402](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/402) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

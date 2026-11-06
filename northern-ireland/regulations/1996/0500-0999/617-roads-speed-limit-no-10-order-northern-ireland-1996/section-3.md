@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Revocations[^key-f6f32ad05c046d137111ef122fd7a007]
+## 3. Revocations[^c-f6f32ad05c046d137111ef122fd7a007]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The provisions described in Schedule 2 are hereby revoked.
 
 ## Annotations
 
-[^key-f6f32ad05c046d137111ef122fd7a007]: Commencement: Art. 3 in operation at 10.2.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/617/article/1)
+[^c-f6f32ad05c046d137111ef122fd7a007]: Commencement: Art. 3 in operation at 10.2.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/617/article/1)

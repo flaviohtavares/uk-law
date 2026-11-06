@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155. Regulations and orders[^key-5de7b755d695465a424ea1251f445766]
+## 155. Regulations and orders[^c-5de7b755d695465a424ea1251f445766]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ unless a draft of the order has been laid before, and approved by resolution of,
 
 ## Annotations
 
-[^key-5de7b755d695465a424ea1251f445766]: Commencement: S. 155 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)
+[^c-5de7b755d695465a424ea1251f445766]: Commencement: S. 155 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)

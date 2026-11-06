@@ -29,21 +29,21 @@ summary: ''
 
 INTERNATIONAL CRIMINAL COURT
 
-The International Criminal Court Act 2001 (Elements of Crimes) Regulations 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+The International Criminal Court Act 2001 (Elements of Crimes) Regulations 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-Made *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+Made *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-10th July 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+10th July 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-Laid *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+Laid *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-12th July 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+12th July 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-Coming into force *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+Coming into force *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-1st September 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+1st September 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-In exercise of the powers conferred on him by section 50(3) of the International Criminal Court Act 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953][^f00001], the Secretary of State hereby makes the following Regulations: *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+In exercise of the powers conferred on him by section 50(3) of the International Criminal Court Act 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953][^f00001], the Secretary of State hereby makes the following Regulations: *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
 ## Contents
 
@@ -54,11 +54,11 @@ In exercise of the powers conferred on him by section 50(3) of the International
 
 *Extent: E+W+S+N.I.*
 
-P. Hain *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+P. Hain *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-On behalf of the Secretary of State for Foreign and Commonwealth Affairs *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+On behalf of the Secretary of State for Foreign and Commonwealth Affairs *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
-10th July 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-0e87e16c225dc3ac02c6fbda9d2ab953]
+10th July 2001 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-0e87e16c225dc3ac02c6fbda9d2ab953]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ These Regulations, made under the International Criminal Court Act 2001, set out
 
 ## Annotations
 
-[^key-0e87e16c225dc3ac02c6fbda9d2ab953]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/2505) revoked (E.W.N.I.) (4.5.2004) by [The International Criminal Court Act 2001 (Elements of Crimes) Regulations 2004 (S.I. 2004/1080)](https://www.legislation.gov.uk/uksi/2004/1080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1080/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/1080/regulation/3)
+[^c-0e87e16c225dc3ac02c6fbda9d2ab953]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/2505) revoked (E.W.N.I.) (4.5.2004) by [The International Criminal Court Act 2001 (Elements of Crimes) Regulations 2004 (S.I. 2004/1080)](https://www.legislation.gov.uk/uksi/2004/1080), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1080/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/1080/regulation/3)
 
 [^f00001]: Footnote: [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17).

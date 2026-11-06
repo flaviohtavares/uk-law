@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Power to delay registration following s. 42 direction[^key-db2b64f00609940615c3aff8bedddc85]
+## 45A. Power to delay registration following s. 42 direction[^c-db2b64f00609940615c3aff8bedddc85]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db2b64f00609940615c3aff8bedddc85]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/2011/25/section/45A) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 26](https://www.legislation.gov.uk/ukpga/2022/6/section/26), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/13)
+[^c-db2b64f00609940615c3aff8bedddc85]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/2011/25/section/45A) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 26](https://www.legislation.gov.uk/ukpga/2022/6/section/26), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/13)

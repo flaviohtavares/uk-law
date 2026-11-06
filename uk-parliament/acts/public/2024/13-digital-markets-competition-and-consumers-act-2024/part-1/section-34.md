@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Revocation of enforcement orders[^key-86bd7b8ac64d94b439bf904341ca0b24][^key-eede18d068163e416d68b59d0470cb9e]
+## 34. Revocation of enforcement orders[^c-86bd7b8ac64d94b439bf904341ca0b24][^c-eede18d068163e416d68b59d0470cb9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86bd7b8ac64d94b439bf904341ca0b24]: Commencement: S. 34 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-86bd7b8ac64d94b439bf904341ca0b24]: Commencement: S. 34 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-eede18d068163e416d68b59d0470cb9e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2024/13/section/34) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-eede18d068163e416d68b59d0470cb9e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2024/13/section/34) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

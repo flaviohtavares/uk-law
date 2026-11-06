@@ -81,9 +81,9 @@ Article 2(1)
 | Title of Order in Council | Reference |
 | The National Insurance and Industrial Injuries (Reciprocal Agreement with Italy) Order 1953 | S.I. 1953/884 |
 | The National Insurance and Industrial Injuries (Luxembourg) Order 1955 | S.I. 1955/420 |
-| [^key-46206b71777e23bec800baa45f1b6275]... |  |
+| [^c-46206b71777e23bec800baa45f1b6275]... |  |
 | [^M_F_03c251fc-37f1-4eda-cec0-d9d40a84f050]... |  |
-| [^key-7912e38c13aa3765149e67786ed44e59]... |  |
+| [^c-7912e38c13aa3765149e67786ed44e59]... |  |
 | The National Insurance and Industrial Injuries (Israel) Order 1957 | S.I. 1957/1879 |
 | [^M_F_1668d027-64ae-4046-bd5f-0ff3e047c2bd]... |  |
 | [^M_F_ddb8bf17-aa6b-4b5f-bfdd-57ac89e1e392]... |  |
@@ -92,8 +92,8 @@ Article 2(1)
 | [^M_F_03c251fc-37f1-4eda-cec0-d9d40a84f050]... | S.I. 1958/772 |
 | The Family Allowances, National Insurance and Industrial Injuries (Yugoslavia) Order 1958 | S.I. 1958/1263 |
 | The Family Allowances, National Insurance and Industrial Injuries (Denmark) Order 1960 | S.I. 1960/211 |
-| [^key-c9cadec174de8fad8badc266c19830ea]... |  |
-| [^key-a9d2741ef653114598997c3ffb3eaaf6]... |  |
+| [^c-c9cadec174de8fad8badc266c19830ea]... |  |
+| [^c-a9d2741ef653114598997c3ffb3eaaf6]... |  |
 | The National Insurance and Industrial Injuries (Turkey) Order 1961 | S.I. 1961/584 |
 | The Family Allowances, National Insurance and Industrial Injuries (Germany) Order 1961 | S.I. 1961/1202 |
 | [^M_F_1668d027-64ae-4046-bd5f-0ff3e047c2bd]... |  |
@@ -101,7 +101,7 @@ Article 2(1)
 | [^M_F_f330cc31-a925-4d2f-8d98-3e1fc00c140a]... |  |
 | The National Insurance and Industrial Injuries (Bermuda) Order 1969 | S.I. 1969/1686 |
 | [^M_F_5ac7c83d-48ec-418e-ad1c-f059af1f07e8]... |  |
-| [^key-a9d2741ef653114598997c3ffb3eaaf6]... |  |
+| [^c-a9d2741ef653114598997c3ffb3eaaf6]... |  |
 | [^M_F_dddc36c8-3259-4e23-b086-d5b83bdc1cf2]... |  |
 | [^M_F_a6311cca-0053-4e32-90ee-b259bc8f398a]... |  |
 | The Family Allowances, National Insurance and Industrial Injuries (Spain) Order 1975 | S.I. 1975/415 |
@@ -118,19 +118,19 @@ This Order provides for the Orders in Council listed in the Schedule (which give
 
 [^M_F_9a56fddb-0a0d-4cba-df51-b20a13601c6b]: Textual amendment: Words in art. 2(3)(a)(b) substituted (6.4.1987) by The Social Security Act [1986 c.50](https://www.legislation.gov.uk/ukpga/1986/50), [s. 18(1)](https://www.legislation.gov.uk/ukpga/1986/50/section/18/1)
 
-[^key-46206b71777e23bec800baa45f1b6275]: Textual amendment: Words in Sch. omitted (1.6.2007) by virtue of [The Social Security (Netherlands) Order 2007 (S.I. 2007/631)](https://www.legislation.gov.uk/uksi/2007/631), [arts. 1](https://www.legislation.gov.uk/uksi/2007/631/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/631/article/3/2/b)
+[^c-46206b71777e23bec800baa45f1b6275]: Textual amendment: Words in Sch. omitted (1.6.2007) by virtue of [The Social Security (Netherlands) Order 2007 (S.I. 2007/631)](https://www.legislation.gov.uk/uksi/2007/631), [arts. 1](https://www.legislation.gov.uk/uksi/2007/631/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/631/article/3/2/b)
 
 [^M_F_03c251fc-37f1-4eda-cec0-d9d40a84f050]: Textual amendment: Words in Sch. omitted (1.9.1996) by virtue of The Social Security (Malta) Order 1996, arts. 1, 3(1)
 
-[^key-7912e38c13aa3765149e67786ed44e59]: Textual amendment: Words in Sch. omitted (1.5.1988) by virtue of [The Social Security (Sweden) Order 1988 (S.I. 1988/590)](https://www.legislation.gov.uk/uksi/1988/590), [arts. 1](https://www.legislation.gov.uk/uksi/1988/590/article/1), [4(2)](https://www.legislation.gov.uk/uksi/1988/590/article/4/2)
+[^c-7912e38c13aa3765149e67786ed44e59]: Textual amendment: Words in Sch. omitted (1.5.1988) by virtue of [The Social Security (Sweden) Order 1988 (S.I. 1988/590)](https://www.legislation.gov.uk/uksi/1988/590), [arts. 1](https://www.legislation.gov.uk/uksi/1988/590/article/1), [4(2)](https://www.legislation.gov.uk/uksi/1988/590/article/4/2)
 
 [^M_F_1668d027-64ae-4046-bd5f-0ff3e047c2bd]: Textual amendment: Words in Sch. omitted (29.6.1992) by virtue of [The Social Security (Australia) Order 1992 (S.I. 1992/1312)](https://www.legislation.gov.uk/uksi/1992/1312), [arts. 1](https://www.legislation.gov.uk/uksi/1992/1312/article/1), [3(3)](https://www.legislation.gov.uk/uksi/1992/1312/article/3/3)
 
 [^M_F_ddb8bf17-aa6b-4b5f-bfdd-57ac89e1e392]: Textual amendment: Words in Sch. omitted (1.4.1991) by virtue of [The Social Security (Norway) Order 1991 (S.I. 1991/767)](https://www.legislation.gov.uk/uksi/1991/767), [arts. 1](https://www.legislation.gov.uk/uksi/1983/1698/article/1), [4(2)](https://www.legislation.gov.uk/uksi/1983/1698/article/4/2)
 
-[^key-c9cadec174de8fad8badc266c19830ea]: Textual amendment: Words in Sch. omitted (8.2.1984) by virtue of [The Social Security (Finland) Order 1984 (S.I. 1984/125)](https://www.legislation.gov.uk/uksi/1984/125), [art. 4(2)](https://www.legislation.gov.uk/uksi/1984/125/article/4/2)
+[^c-c9cadec174de8fad8badc266c19830ea]: Textual amendment: Words in Sch. omitted (8.2.1984) by virtue of [The Social Security (Finland) Order 1984 (S.I. 1984/125)](https://www.legislation.gov.uk/uksi/1984/125), [art. 4(2)](https://www.legislation.gov.uk/uksi/1984/125/article/4/2)
 
-[^key-a9d2741ef653114598997c3ffb3eaaf6]: Textual amendment: Words in Sch. omitted (1.10.2007) by virtue of [The Social Security (Ireland) Order 2007 (S.I. 2007/2122)](https://www.legislation.gov.uk/uksi/2007/2122), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2122/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/2122/article/3/2/b)
+[^c-a9d2741ef653114598997c3ffb3eaaf6]: Textual amendment: Words in Sch. omitted (1.10.2007) by virtue of [The Social Security (Ireland) Order 2007 (S.I. 2007/2122)](https://www.legislation.gov.uk/uksi/2007/2122), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2122/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/2122/article/3/2/b)
 
 [^M_F_f330cc31-a925-4d2f-8d98-3e1fc00c140a]: Textual amendment: Words in Sch. omitted (1.1.1984) by virtue of [The Social Security (Cyprus) Order 1983 (S.I. 1983/1698)](https://www.legislation.gov.uk/uksi/1983/1698), [art. 3(2)](https://www.legislation.gov.uk/uksi/1983/1698/article/3/2)
 

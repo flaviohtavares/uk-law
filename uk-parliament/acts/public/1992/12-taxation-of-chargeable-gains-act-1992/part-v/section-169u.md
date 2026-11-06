@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169U. Eligibility conditions for deferred business asset disposal relief[^key-5bc0f123bcc473bdf47bcbb1f2b69152][^key-81bc625811da9cbe5b35aca85a72dfb8]
+## 169U. Eligibility conditions for deferred business asset disposal relief[^c-5bc0f123bcc473bdf47bcbb1f2b69152][^c-81bc625811da9cbe5b35aca85a72dfb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5bc0f123bcc473bdf47bcbb1f2b69152]: Textual amendment: Pt. 5 Ch. 4 inserted (with effect in accordance with s. 44(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 44(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/44/1)
+[^c-5bc0f123bcc473bdf47bcbb1f2b69152]: Textual amendment: Pt. 5 Ch. 4 inserted (with effect in accordance with s. 44(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 44(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/44/1)
 
-[^key-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
+[^c-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))

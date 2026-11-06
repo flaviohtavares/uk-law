@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where—
 
-- (a) not more than 3 months earlier than the date referred to in paragraph (1), an enquiry is made in person, in writing or orally to the Secretary of State or to an authorised agent about claiming any pension, retired pay, allowance, supplement or lump sum payment[^key-e893b3292e8fe6c99fff97947633fd77] for a named person; and
+- (a) not more than 3 months earlier than the date referred to in paragraph (1), an enquiry is made in person, in writing or orally to the Secretary of State or to an authorised agent about claiming any pension, retired pay, allowance, supplement or lump sum payment[^c-e893b3292e8fe6c99fff97947633fd77] for a named person; and
 - (b) that enquiry is made by the person who subsequently makes the claim or by a relative of his or by a representative of a charitable organisation
 
 then “**date of claim**” means the date on which the enquiry is received by the Secretary of State or, as the case may be, the authorised agent.
@@ -58,4 +58,4 @@ then “**date of claim**” means the date on which the enquiry is received by 
 
 ## Annotations
 
-[^key-e893b3292e8fe6c99fff97947633fd77]: Textual amendment: Words in [art. 37(2)(a)](https://www.legislation.gov.uk/uksi/2006/606/article/37/2/a) substituted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2016/374/article/5/5)
+[^c-e893b3292e8fe6c99fff97947633fd77]: Textual amendment: Words in [art. 37(2)(a)](https://www.legislation.gov.uk/uksi/2006/606/article/37/2/a) substituted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2016/374/article/5/5)

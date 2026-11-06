@@ -41,7 +41,7 @@ Under section 92(2) of the Local Government and Public Involvement in Health Act
 
 The Local Government Boundary Commission for England has decided to give effect to the recommendations and makes the following Order in exercise of the power conferred by section 92(3) of that Act.
 
-## 1. Citation, commencement, extent and application[^key-1ffc49fe5d5d8e2e3713ea768e988e34]
+## 1. Citation, commencement, extent and application[^c-1ffc49fe5d5d8e2e3713ea768e988e34]
 
 (1) This Order may be cited as the Shropshire (Electoral Changes) Order 2025.
 
@@ -54,9 +54,9 @@ The Local Government Boundary Commission for England has decided to give effect 
 
 (4) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Alteration of county electoral division boundary[^key-ac8ee9ba7dc21628f19f99362a03b333][^key-06c06cef7614ee552f66d6d1c91fae16]
+## 2. Alteration of county electoral division boundary[^c-ac8ee9ba7dc21628f19f99362a03b333][^c-06c06cef7614ee552f66d6d1c91fae16]
 
-(1) The area marked B on the map that ceases to be part of the parish of Berrington and becomes part of the parish of Shrewsbury by virtue of that Order, ceases to be part of the Severn Valley county electoral division and becomes part of the Oteley & Reabrook[^key-c618f634181dd6cca7d7f68fbe946036] county electoral division.
+(1) The area marked B on the map that ceases to be part of the parish of Berrington and becomes part of the parish of Shrewsbury by virtue of that Order, ceases to be part of the Severn Valley county electoral division and becomes part of the Oteley & Reabrook[^c-c618f634181dd6cca7d7f68fbe946036] county electoral division.
 
 (2) In this article, “**the map**” means the map referred to in the Shropshire (Reorganisation of Community Governance) Order 2025[^f00004] and “**the area marked B**” is a reference to the area identified on a sheet of that map by way of that letter.
 
@@ -88,14 +88,14 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy Economic Development and Construction Act 2009 (“**the 2009 Act**”). The functions of the Electoral Commission under Chapter 3 of Part 4 of the Local Government and Public Involvement in Health Act 2007 were transferred under section 60 of the 2009 Act to the Local Government Boundary Commission for England on 1st April 2010.
 
-[^key-1ffc49fe5d5d8e2e3713ea768e988e34]: Commencement: Art. 1 in force at 12.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/146/article/1/2)
+[^c-1ffc49fe5d5d8e2e3713ea768e988e34]: Commencement: Art. 1 in force at 12.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/146/article/1/2)
 
 [^f00003]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-ac8ee9ba7dc21628f19f99362a03b333]: Commencement: Art. 2 in force at 12.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/146/article/1/3/a)
+[^c-ac8ee9ba7dc21628f19f99362a03b333]: Commencement: Art. 2 in force at 12.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/146/article/1/3/a)
 
-[^key-06c06cef7614ee552f66d6d1c91fae16]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/146/article/2) in force at 6.5.2025 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/146/article/1/3/b)
+[^c-06c06cef7614ee552f66d6d1c91fae16]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/146/article/2) in force at 6.5.2025 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/146/article/1/3/b)
 
-[^key-c618f634181dd6cca7d7f68fbe946036]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/146/article/2/1) substituted (11.3.2025) by [The Shropshire (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/309)](https://www.legislation.gov.uk/uksi/2025/309), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/309/article/1/2), [2](https://www.legislation.gov.uk/uksi/2025/309/article/2)
+[^c-c618f634181dd6cca7d7f68fbe946036]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/146/article/2/1) substituted (11.3.2025) by [The Shropshire (Electoral Changes) (Amendment) Order 2025 (S.I. 2025/309)](https://www.legislation.gov.uk/uksi/2025/309), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/309/article/1/2), [2](https://www.legislation.gov.uk/uksi/2025/309/article/2)
 
 [^f00004]: Footnote: That Order was made by Shropshire Council on 5th February 2025, and is available for inspection at reasonable times at the offices of Shropshire Council, Shirehall, Abbey Foregate, Shrewsbury, Shropshire, SY2 6ND. Such Orders are not required to be made by statutory instrument. It is also available online at https://www.lgbce.org.uk/sites/default/files/2025-02/sealed order.pdf.

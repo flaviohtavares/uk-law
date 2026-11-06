@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZA. Insolvent bank customers[^key-9273e2d143e9f4465536b4b9a8c22def]
+## 30ZA. Insolvent bank customers[^c-9273e2d143e9f4465536b4b9a8c22def]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9273e2d143e9f4465536b4b9a8c22def]: Textual amendment: [Reg. 30ZA](https://www.legislation.gov.uk/uksi/2017/692/regulation/30ZA) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/621/regulation/17)
+[^c-9273e2d143e9f4465536b4b9a8c22def]: Textual amendment: [Reg. 30ZA](https://www.legislation.gov.uk/uksi/2017/692/regulation/30ZA) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/621/regulation/17)

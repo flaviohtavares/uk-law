@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Temporary stopping up and restriction of use of streets[^key-ffa1017c574d593e6b248e6ffbae6291]
+## 12. Temporary stopping up and restriction of use of streets[^c-ffa1017c574d593e6b248e6ffbae6291]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa1017c574d593e6b248e6ffbae6291]: Commencement: Art. 12 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-ffa1017c574d593e6b248e6ffbae6291]: Commencement: Art. 12 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00041]: Footnote: Part 1 of the 1961 Act was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

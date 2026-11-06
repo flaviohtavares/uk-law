@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Risk protection arrangement[^key-e159fdac400a7814a34420e0f8ffabd2]
+## 23. Risk protection arrangement[^c-e159fdac400a7814a34420e0f8ffabd2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e159fdac400a7814a34420e0f8ffabd2]: Commencement: Reg. 23 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-e159fdac400a7814a34420e0f8ffabd2]: Commencement: Reg. 23 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

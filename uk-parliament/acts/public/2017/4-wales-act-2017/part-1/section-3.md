@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Legislative competence[^key-829c25d104df65097171b957f16ef8cf]
+## 3. Legislative competence[^c-829c25d104df65097171b957f16ef8cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-829c25d104df65097171b957f16ef8cf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/4/section/3) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
+[^c-829c25d104df65097171b957f16ef8cf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/4/section/3) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)

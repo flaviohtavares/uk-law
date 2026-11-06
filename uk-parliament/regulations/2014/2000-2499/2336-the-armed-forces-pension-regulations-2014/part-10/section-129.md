@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. General prohibition on unauthorised payments[^key-fe2c47dc794dd8a3802e2bf181f57ec4]
+## 129. General prohibition on unauthorised payments[^c-fe2c47dc794dd8a3802e2bf181f57ec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires or authorises the making of any payment, w
 
 ## Annotations
 
-[^key-fe2c47dc794dd8a3802e2bf181f57ec4]: Commencement: [Reg. 129](https://www.legislation.gov.uk/uksi/2014/2336/regulation/129) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-fe2c47dc794dd8a3802e2bf181f57ec4]: Commencement: [Reg. 129](https://www.legislation.gov.uk/uksi/2014/2336/regulation/129) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

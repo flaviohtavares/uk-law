@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 317. Orders to extend or modify statutory undertakers’ functions[^key-6aa944ff5f2db44228c5bd0f4b3f58f1]
+## 317. Orders to extend or modify statutory undertakers’ functions[^c-6aa944ff5f2db44228c5bd0f4b3f58f1]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ the Welsh Ministers may direct another local authority to contribute an amount t
 
 ## Annotations
 
-[^key-6aa944ff5f2db44228c5bd0f4b3f58f1]: Commencement: S. 317 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6aa944ff5f2db44228c5bd0f4b3f58f1]: Commencement: S. 317 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

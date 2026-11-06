@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Regulations[^key-fcde577fb560347a438d643beeb87c7c]
+## 94. Regulations[^c-fcde577fb560347a438d643beeb87c7c]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-fcde577fb560347a438d643beeb87c7c]: Commencement: S. 94 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/33)
+[^c-fcde577fb560347a438d643beeb87c7c]: Commencement: S. 94 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/33)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Independent Complaints Commissioner: reporting duty[^key-4adacc507ba1600ae0219ddb4012b428]
+## 20. Independent Complaints Commissioner: reporting duty[^c-4adacc507ba1600ae0219ddb4012b428]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In section 87 of the Financial Services Act 2012 (investigation of complaints ag
 
 ## Annotations
 
-[^key-4adacc507ba1600ae0219ddb4012b428]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/26/section/20) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/a)
+[^c-4adacc507ba1600ae0219ddb4012b428]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/26/section/20) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/a)

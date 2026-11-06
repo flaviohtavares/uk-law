@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Cancellation of Part IV permission[^key-30dc754f9249d12e09f0b65c1c35af20]
+## 71. Cancellation of Part IV permission[^c-30dc754f9249d12e09f0b65c1c35af20]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30dc754f9249d12e09f0b65c1c35af20]: Commencement: Art. 71 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-30dc754f9249d12e09f0b65c1c35af20]: Commencement: Art. 71 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

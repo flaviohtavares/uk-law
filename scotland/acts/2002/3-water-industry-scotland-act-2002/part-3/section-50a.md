@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50A. Development of assets[^key-bcc6a79781bd6c7fdaa17caf7120ea7d]
+## 50A. Development of assets[^c-bcc6a79781bd6c7fdaa17caf7120ea7d]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc6a79781bd6c7fdaa17caf7120ea7d]: Textual amendment: S. 50A inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 24](https://www.legislation.gov.uk/asp/2013/5/section/24), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-bcc6a79781bd6c7fdaa17caf7120ea7d]: Textual amendment: S. 50A inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 24](https://www.legislation.gov.uk/asp/2013/5/section/24), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

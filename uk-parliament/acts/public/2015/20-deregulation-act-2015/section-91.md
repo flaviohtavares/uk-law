@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. London street trading appeals: removal of role of Secretary of State in appeals[^key-d046c41d8aa6f56ba9f29fd2c380d98e]
+## 91. London street trading appeals: removal of role of Secretary of State in appeals[^c-d046c41d8aa6f56ba9f29fd2c380d98e]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d046c41d8aa6f56ba9f29fd2c380d98e]: Commencement: S. 91 in force at 2.3.2016 by [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
+[^c-d046c41d8aa6f56ba9f29fd2c380d98e]: Commencement: S. 91 in force at 2.3.2016 by [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)

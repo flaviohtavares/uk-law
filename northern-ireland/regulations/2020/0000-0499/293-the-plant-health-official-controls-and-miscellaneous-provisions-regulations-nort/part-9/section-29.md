@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Right of entry conferred by a warrant issued by a lay magistrate[^key-ce783df2f2329c8770033b9e35995882]
+## 29. Right of entry conferred by a warrant issued by a lay magistrate[^c-ce783df2f2329c8770033b9e35995882]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce783df2f2329c8770033b9e35995882]: Commencement: Reg. 29 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-ce783df2f2329c8770033b9e35995882]: Commencement: Reg. 29 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

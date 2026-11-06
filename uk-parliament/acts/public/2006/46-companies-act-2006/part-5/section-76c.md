@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76C. Registrar’s power to change name containing computer code[^key-d0ef25aa865a62b953b739f4c9343430][^key-443cbb696912f17f90fd0e1add866fa5]
+## 76C. Registrar’s power to change name containing computer code[^c-d0ef25aa865a62b953b739f4c9343430][^c-443cbb696912f17f90fd0e1add866fa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0ef25aa865a62b953b739f4c9343430]: Modification: [Ss. 76C](https://www.legislation.gov.uk/ukpga/2006/46/section/76C), [76D](https://www.legislation.gov.uk/ukpga/2006/46/section/76D) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13C](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13C) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/234/regulation/14); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-d0ef25aa865a62b953b739f4c9343430]: Modification: [Ss. 76C](https://www.legislation.gov.uk/ukpga/2006/46/section/76C), [76D](https://www.legislation.gov.uk/ukpga/2006/46/section/76D) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 13C](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13C) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/234/regulation/14); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-443cbb696912f17f90fd0e1add866fa5]: Textual amendment: [S. 76C and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/registrars-powers-to-change-names) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/19/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)
+[^c-443cbb696912f17f90fd0e1add866fa5]: Textual amendment: [S. 76C and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/registrars-powers-to-change-names) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/19/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)

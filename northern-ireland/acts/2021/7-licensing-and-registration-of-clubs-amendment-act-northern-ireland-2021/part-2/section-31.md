@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Removal of restrictions on late opening on Sunday[^key-0e7e27c54e1ea032f66f8ecb2a1e4365][^key-6f4abe53c0e7c2ec12dc688f387a4e2f]
+## 31. Removal of restrictions on late opening on Sunday[^c-0e7e27c54e1ea032f66f8ecb2a1e4365][^c-6f4abe53c0e7c2ec12dc688f387a4e2f]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e7e27c54e1ea032f66f8ecb2a1e4365]: Commencement: S. 31 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-0e7e27c54e1ea032f66f8ecb2a1e4365]: Commencement: S. 31 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-6f4abe53c0e7c2ec12dc688f387a4e2f]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/7/section/31) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-6f4abe53c0e7c2ec12dc688f387a4e2f]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/7/section/31) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

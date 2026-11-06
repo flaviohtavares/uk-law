@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Admissibility of evidence in statement of affairs etc[^key-a2f4e9f78b95b84c4429c5ca1d6a4678]
+## 60. Admissibility of evidence in statement of affairs etc[^c-a2f4e9f78b95b84c4429c5ca1d6a4678]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In Article 375(3)(a) (admissibility of evidence in statement of affairs etc)—
 
 ## Annotations
 
-[^key-a2f4e9f78b95b84c4429c5ca1d6a4678]: Commencement: S. 60 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a2f4e9f78b95b84c4429c5ca1d6a4678]: Commencement: S. 60 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

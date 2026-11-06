@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Roads: speed limits, pedestrian crossings and traffic signs[^key-d8129d1231397a782da21d2f2171d8ee]
+## 26. Roads: speed limits, pedestrian crossings and traffic signs[^c-d8129d1231397a782da21d2f2171d8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8129d1231397a782da21d2f2171d8ee]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/4/section/26) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)
+[^c-d8129d1231397a782da21d2f2171d8ee]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/4/section/26) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)

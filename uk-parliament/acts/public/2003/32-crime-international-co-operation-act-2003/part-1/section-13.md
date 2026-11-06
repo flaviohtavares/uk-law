@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Requests for assistance from overseas authorities[^key-7d903e2cf0f4c3c187aabf2229cf717f][^key-0b7b605f66a905fe88b63c5078878ed5]
+## 13. Requests for assistance from overseas authorities[^c-7d903e2cf0f4c3c187aabf2229cf717f][^c-0b7b605f66a905fe88b63c5078878ed5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d903e2cf0f4c3c187aabf2229cf717f]: Commencement: S. 13 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-7d903e2cf0f4c3c187aabf2229cf717f]: Commencement: S. 13 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-0b7b605f66a905fe88b63c5078878ed5]: Modification: S. 13 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [arts. 3-5](https://www.legislation.gov.uk/uksi/2005/425/article/3)
+[^c-0b7b605f66a905fe88b63c5078878ed5]: Modification: S. 13 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [arts. 3-5](https://www.legislation.gov.uk/uksi/2005/425/article/3)

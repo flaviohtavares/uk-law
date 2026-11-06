@@ -34,17 +34,17 @@ An Act of the Scottish Parliament to rename the Scottish Tourist Board, to incre
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 24th October 2006 and received Royal Assent on 30th November 2006
 
-## 1. Scottish Tourist Board: change of name[^key-f2586439fd5db14ee4570d0067ca8346]
+## 1. Scottish Tourist Board: change of name[^c-f2586439fd5db14ee4570d0067ca8346]
 
 (1) The Scottish Tourist Board is renamed VisitScotland.
 
 (2) Accordingly, in the Development of Tourism Act 1969 (c. 51), for “the Scottish Tourist Board”, wherever that expression occurs, there is substituted “ VisitScotland ”.
 
-## 2. Scottish Tourist Board: increase in maximum number of members[^key-beac0a33c972c6cc42c5456c5f413273]
+## 2. Scottish Tourist Board: increase in maximum number of members[^c-beac0a33c972c6cc42c5456c5f413273]
 
 In section 1(3) of the Development of Tourism Act 1969 (which provides for the maximum number of members of the national tourist boards), for “six” where it secondly occurs, there is substituted “ eleven ”.
 
-## 3. Abolition of area tourist boards[^key-e72d3af9e08b13bd3366c01eee585f41]
+## 3. Abolition of area tourist boards[^c-e72d3af9e08b13bd3366c01eee585f41]
 
 (1) Sections 172 to 175 of the Local Government etc. (Scotland) Act 1994 (c. 39) (which make provision for area tourist boards) are repealed.
 
@@ -55,7 +55,7 @@ In section 1(3) of the Development of Tourism Act 1969 (which provides for the m
 
 (3) Schedule 1 makes provision in connection with the dissolution of those bodies.
 
-## 4. Consequential modifications[^key-857d433dfdac2dc8d728fe89c412c776]
+## 4. Consequential modifications[^c-857d433dfdac2dc8d728fe89c412c776]
 
 Schedule 2 makes modifications of enactments in consequence of the preceding provisions.
 
@@ -71,7 +71,7 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 ### Transfer of staff
 
-**1.**[^key-d64d36094f003fcce5238b5ff80faa38] (1) On the dissolution of a network tourist board, each person employed by the board immediately before its dissolution transfers to and becomes a member of staff of VisitScotland.
+**1.**[^c-d64d36094f003fcce5238b5ff80faa38] (1) On the dissolution of a network tourist board, each person employed by the board immediately before its dissolution transfers to and becomes a member of staff of VisitScotland.
 
 (2) The contract of employment of such a person—
 
@@ -87,13 +87,13 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 ### Transfer of property and liabilities
 
-**2.**[^key-dd59c4190b31527e19fd4fcb3d1951f7] (1) On the dissolution of a network tourist board, the property and liabilities to which the board was entitled or subject immediately before its dissolution transfer to and vest in VisitScotland.
+**2.**[^c-dd59c4190b31527e19fd4fcb3d1951f7] (1) On the dissolution of a network tourist board, the property and liabilities to which the board was entitled or subject immediately before its dissolution transfer to and vest in VisitScotland.
 
 (2) Sub-paragraph (1) has effect in relation to property and liabilities to which it applies despite any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the property or liabilities.
 
 ### Interpretation
 
-**3.**[^key-7bc4b2ebee13187c74d49f8df848c5e9] In this schedule, “**network tourist board**” means a body mentioned in section 3(2).
+**3.**[^c-7bc4b2ebee13187c74d49f8df848c5e9] In this schedule, “**network tourist board**” means a body mentioned in section 3(2).
 
 ## SCHEDULE 2 — Consequential modifications
 
@@ -103,14 +103,14 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 #### The Development of Tourism Act 1969 (c. 51)
 
-**1.**[^key-8a83d2a8f25d2b9d513581d9f8211b2b] In the Development of Tourism Act 1969, in section 2 (general functions), in subsection (5)—
+**1.**[^c-8a83d2a8f25d2b9d513581d9f8211b2b] In the Development of Tourism Act 1969, in section 2 (general functions), in subsection (5)—
 
 - (a) for “the Boards” in both places where that expression occurs, there is substituted “ those bodies ”, and
 - (b) for “Boards” in the third place where that word occurs, there is substituted “ bodies ”.
 
 #### The Local Government (Scotland) Act 1973 (c. 65)
 
-**2.**[^key-d9366681c6d7a8ec60dad8e27912a48e] In the Local Government (Scotland) Act 1973, in section 90 (powers of local authorities to carry on tourism-related activities)—
+**2.**[^c-d9366681c6d7a8ec60dad8e27912a48e] In the Local Government (Scotland) Act 1973, in section 90 (powers of local authorities to carry on tourism-related activities)—
 
 - (a) subsection (1)(d) is repealed,
 - (b) in subsection (4), for “(d)” there is substituted “ (c) ”,
@@ -121,22 +121,22 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 #### The Race Relations Act 1976 (c. 74)
 
-**3.**[^key-ad1e550c371c6e162ba18e02dc13eb9e][^key-9bf8056ddc0cc32d995da6d3d896be41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ad1e550c371c6e162ba18e02dc13eb9e][^c-9bf8056ddc0cc32d995da6d3d896be41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Tourism (Overseas Promotion) (Scotland) Act 1984 (c. 4)
 
-**4.**[^key-2fb37feed94d0291b5839b4441ef9206] In the Tourism (Overseas Promotion) (Scotland) Act 1984, in section 1 (power of the Scottish Tourist Board to engage outside the UK in the promotion of tourism in Scotland)—
+**4.**[^c-2fb37feed94d0291b5839b4441ef9206] In the Tourism (Overseas Promotion) (Scotland) Act 1984, in section 1 (power of the Scottish Tourist Board to engage outside the UK in the promotion of tourism in Scotland)—
 
 - (a) in subsection (1), for “the Scottish Tourist Board” there is substituted “ VisitScotland ”, and
 - (b) in subsection (3)(b), for “the Scottish Tourist Board” there is substituted “ VisitScotland ”.
 
 #### The Greater London Authority Act 1999 (c. 29)
 
-**5.**[^key-e3000c9ed2386641fde6bb49490df8eb] In the Greater London Authority Act 1999, in section 378 (duty of the Authority to promote tourism), in subsection (11)(d), for “the Scottish Tourist Board” there is substituted “ VisitScotland ”.
+**5.**[^c-e3000c9ed2386641fde6bb49490df8eb] In the Greater London Authority Act 1999, in section 378 (duty of the Authority to promote tourism), in subsection (11)(d), for “the Scottish Tourist Board” there is substituted “ VisitScotland ”.
 
 #### The Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
 
-**6.**[^key-bb01d142468063ddd596bdc91b73c319] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies)—
+**6.**[^c-bb01d142468063ddd596bdc91b73c319] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies)—
 
 - (a) the entries relating to—
   - (i) the controlling body of an area tourist board established under section 172 of the Local Government etc. (Scotland) Act 1994 (c. 39), and
@@ -147,7 +147,7 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 #### The Scottish Public Services Ombudsman Act 2002 (asp 11)
 
-**7.**[^key-52eeba6ca742fadf9b958fd1b9209b54] In the Scottish Public Services Ombudsman Act 2002, in Part 2 of schedule 2 (listed authorities)—
+**7.**[^c-52eeba6ca742fadf9b958fd1b9209b54] In the Scottish Public Services Ombudsman Act 2002, in Part 2 of schedule 2 (listed authorities)—
 
 - (a) the entry numbered 53 (the Scottish Tourist Board) is repealed, and
 - (b) after the entry numbered 54 there is inserted—
@@ -158,7 +158,7 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 #### The Freedom of Information (Scotland) Act 2002 (asp 13)
 
-**8.**[^key-8e00ffac541668d788ed0c557ca38ec1] In the Freedom of Information (Scotland) Act 2002, in schedule 1 (Scottish public authorities)—
+**8.**[^c-8e00ffac541668d788ed0c557ca38ec1] In the Freedom of Information (Scotland) Act 2002, in schedule 1 (Scottish public authorities)—
 
 - (a) the entries numbered—
   - (i) 56 (area tourist boards), and
@@ -173,7 +173,7 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 #### The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
 
-**9.**[^key-b5b2d051ac14350820d679a2974fb705] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities)—
+**9.**[^c-b5b2d051ac14350820d679a2974fb705] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (specified authorities)—
 
 - (a) the entry relating to the Scottish Tourist Board is repealed, and
 - (b) after the entry relating to the Scottish University for Industry there is inserted— “ VisitScotland ”.
@@ -182,11 +182,11 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 #### The Financial Services and Markets Act 2000 (Exemption) Order 2001 (SI 2001/1201)
 
-**10.**[^key-d7f9aba8a843dd169ad186e8428d2c60] In the Financial Services and Markets Act 2000 (Exemption) Order 2001, in Part 3 of the Schedule (persons exempt in respect of any regulated activity mentioned in article 5(1) of the Order), in the entry numbered 31, for “the Scottish Tourist Board” there is substituted “ VisitScotland ”.
+**10.**[^c-d7f9aba8a843dd169ad186e8428d2c60] In the Financial Services and Markets Act 2000 (Exemption) Order 2001, in Part 3 of the Schedule (persons exempt in respect of any regulated activity mentioned in article 5(1) of the Order), in the entry numbered 31, for “the Scottish Tourist Board” there is substituted “ VisitScotland ”.
 
 #### Orders making the Scottish Network Tourist Board Schemes
 
-**11.**[^key-8be3289e8f4076b064a5ef0a16d7558f] The following instruments are revoked—
+**11.**[^c-8be3289e8f4076b064a5ef0a16d7558f] The following instruments are revoked—
 
 - (a) the Scottish Network 1 Tourist Board Scheme Order 2004 (SSI 2004/396),
 - (b) the Scottish Network 2 Tourist Board Scheme Order 2004 (SSI 2004/397),
@@ -195,40 +195,40 @@ Schedule 2 makes modifications of enactments in consequence of the preceding pro
 
 ## Annotations
 
-[^key-f2586439fd5db14ee4570d0067ca8346]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2006/15/section/1) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-f2586439fd5db14ee4570d0067ca8346]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2006/15/section/1) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-beac0a33c972c6cc42c5456c5f413273]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/15/section/2) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-beac0a33c972c6cc42c5456c5f413273]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/15/section/2) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-e72d3af9e08b13bd3366c01eee585f41]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2006/15/section/3) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-e72d3af9e08b13bd3366c01eee585f41]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2006/15/section/3) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-857d433dfdac2dc8d728fe89c412c776]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2006/15/section/4) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-857d433dfdac2dc8d728fe89c412c776]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2006/15/section/4) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-d64d36094f003fcce5238b5ff80faa38]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2006/15/schedule/1/paragraph/1) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-d64d36094f003fcce5238b5ff80faa38]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2006/15/schedule/1/paragraph/1) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-dd59c4190b31527e19fd4fcb3d1951f7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2006/15/schedule/1/paragraph/2) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-dd59c4190b31527e19fd4fcb3d1951f7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2006/15/schedule/1/paragraph/2) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-7bc4b2ebee13187c74d49f8df848c5e9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2006/15/schedule/1/paragraph/3) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-7bc4b2ebee13187c74d49f8df848c5e9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2006/15/schedule/1/paragraph/3) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-8a83d2a8f25d2b9d513581d9f8211b2b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/1) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-8a83d2a8f25d2b9d513581d9f8211b2b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/1) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-d9366681c6d7a8ec60dad8e27912a48e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/2) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-d9366681c6d7a8ec60dad8e27912a48e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/2) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-ad1e550c371c6e162ba18e02dc13eb9e]: Textual amendment: Sch. 2 para. 3 repealed (4.4.2011) by 2010 c. 15, s. 211, Sch. 27 Pt. 1A (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3))
+[^c-ad1e550c371c6e162ba18e02dc13eb9e]: Textual amendment: Sch. 2 para. 3 repealed (4.4.2011) by 2010 c. 15, s. 211, Sch. 27 Pt. 1A (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3))
 
-[^key-9bf8056ddc0cc32d995da6d3d896be41]: Commencement: Sch. 2 para. 3 in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-9bf8056ddc0cc32d995da6d3d896be41]: Commencement: Sch. 2 para. 3 in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-2fb37feed94d0291b5839b4441ef9206]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/4) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-2fb37feed94d0291b5839b4441ef9206]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/4) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-e3000c9ed2386641fde6bb49490df8eb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/5) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-e3000c9ed2386641fde6bb49490df8eb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/5) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-bb01d142468063ddd596bdc91b73c319]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/6) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-bb01d142468063ddd596bdc91b73c319]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/6) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-52eeba6ca742fadf9b958fd1b9209b54]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/7) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-52eeba6ca742fadf9b958fd1b9209b54]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/7) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-8e00ffac541668d788ed0c557ca38ec1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/8) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-8e00ffac541668d788ed0c557ca38ec1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/8) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-b5b2d051ac14350820d679a2974fb705]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/9) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-b5b2d051ac14350820d679a2974fb705]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/9) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-d7f9aba8a843dd169ad186e8428d2c60]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/10) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-d7f9aba8a843dd169ad186e8428d2c60]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/10) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-8be3289e8f4076b064a5ef0a16d7558f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/11) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-8be3289e8f4076b064a5ef0a16d7558f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/11) in force at 1.4.2007 by [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)

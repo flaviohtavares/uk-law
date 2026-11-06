@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — LIST OF REGULATIONS REVOKED[^key-b404771cdea0f75a66ce3d4bccb247e5]
+## SCHEDULE 5 — LIST OF REGULATIONS REVOKED[^c-b404771cdea0f75a66ce3d4bccb247e5]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ Regulation 2
 
 ## Annotations
 
-[^key-b404771cdea0f75a66ce3d4bccb247e5]: Commencement: Sch. 5 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-b404771cdea0f75a66ce3d4bccb247e5]: Commencement: Sch. 5 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

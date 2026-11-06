@@ -35,18 +35,18 @@ concerning the authorisation of iron chelate of lysine and glutamic acid as a fe
 
 (Text with EEA relevance) (revoked)
 
-[^key-1226651f21adf14fdfd8552ffcc37caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1226651f21adf14fdfd8552ffcc37caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1226651f21adf14fdfd8552ffcc37caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1226651f21adf14fdfd8552ffcc37caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1226651f21adf14fdfd8552ffcc37caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1226651f21adf14fdfd8552ffcc37caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1226651f21adf14fdfd8552ffcc37caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1226651f21adf14fdfd8552ffcc37caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1226651f21adf14fdfd8552ffcc37caf]
+## ANNEX[^c-1226651f21adf14fdfd8552ffcc37caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1226651f21adf14fdfd8552ffcc37caf]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 406](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/406) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-1226651f21adf14fdfd8552ffcc37caf]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 406](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/406) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

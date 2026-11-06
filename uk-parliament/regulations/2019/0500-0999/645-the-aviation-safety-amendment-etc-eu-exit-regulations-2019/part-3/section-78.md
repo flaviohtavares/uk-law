@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Further amendment of Regulation (EU) No 376/2014[^key-711b89aef75e1053304bcaee1189902f]
+## 78. Further amendment of Regulation (EU) No 376/2014[^c-711b89aef75e1053304bcaee1189902f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 24 (entry into force and application), omit the sentence which beg
 
 ## Annotations
 
-[^key-711b89aef75e1053304bcaee1189902f]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-711b89aef75e1053304bcaee1189902f]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

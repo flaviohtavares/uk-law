@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Mutual societies: notice of intention to impose conditions[^key-714b10877c6c580f81e5f3ef73702ae9]
+## 30. Mutual societies: notice of intention to impose conditions[^c-714b10877c6c580f81e5f3ef73702ae9]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the notice has effect after commencement as if it were a notice given by the Aut
 
 ## Annotations
 
-[^key-714b10877c6c580f81e5f3ef73702ae9]: Commencement: Art. 30 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-714b10877c6c580f81e5f3ef73702ae9]: Commencement: Art. 30 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

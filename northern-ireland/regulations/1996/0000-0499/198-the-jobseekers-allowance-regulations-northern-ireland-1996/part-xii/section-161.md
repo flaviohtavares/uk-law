@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 161. Additional conditions for payment of a jobseeker’s allowance[^key-4b9df3dc90ab8a7197d1dc26334578bd]
+## 161. Additional conditions for payment of a jobseeker’s allowance[^c-4b9df3dc90ab8a7197d1dc26334578bd]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b9df3dc90ab8a7197d1dc26334578bd]: Commencement: Reg. 161 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-4b9df3dc90ab8a7197d1dc26334578bd]: Commencement: Reg. 161 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

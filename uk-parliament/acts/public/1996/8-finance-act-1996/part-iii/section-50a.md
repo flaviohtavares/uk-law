@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Power to assess: unregistered persons[^key-b798a6d59f5c84b186491d402e627b95]
+## 50A. Power to assess: unregistered persons[^c-b798a6d59f5c84b186491d402e627b95]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ But where further such evidence comes to their knowledge after the making of an 
 
 ## Annotations
 
-[^key-b798a6d59f5c84b186491d402e627b95]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/1996/8/section/50A) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/23)
+[^c-b798a6d59f5c84b186491d402e627b95]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/1996/8/section/50A) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/23)

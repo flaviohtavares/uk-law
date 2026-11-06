@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Discontinuance of investigation where cause of death becomes clear[^key-42134e94101722159fddf447b5ca5839]
+## 39. Discontinuance of investigation where cause of death becomes clear[^c-42134e94101722159fddf447b5ca5839]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42134e94101722159fddf447b5ca5839]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/35/section/39) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)
+[^c-42134e94101722159fddf447b5ca5839]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/35/section/39) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)

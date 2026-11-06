@@ -49,7 +49,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 1, 7, 8(
 
 (2) This Order extends to Scotland only.
 
-(3)[^key-c3c4758598531bfa247b7790fbc7cd04] This Order does not apply in relation to avian influenza.
+(3)[^c-c3c4758598531bfa247b7790fbc7cd04] This Order does not apply in relation to avian influenza.
 
 ## 2. Extension of definition of “poultry” and “disease”
 
@@ -63,17 +63,17 @@ For the purposes of the Animal Health Act 1981 in its application to this Order�
 (1) In this Order–
 
 - “**1981 Act**” means the Animal Health Act 1981;
-- “avian influenza” shall be deemed to include a current or previous infection by a causative agent of avian influenza;[^key-1a88ca74b245c0177437ec1a162af123]
-- “[^key-cc917115a169db472109eab9ce664409]**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about diseased birds or carcases, or birds or carcases suspected of being diseased;
+- “avian influenza” shall be deemed to include a current or previous infection by a causative agent of avian influenza;[^c-1a88ca74b245c0177437ec1a162af123]
+- “[^c-cc917115a169db472109eab9ce664409]**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about diseased birds or carcases, or birds or carcases suspected of being diseased;
 - “**captive bird**” means any bird kept under human control other than poultry or racing pigeons;
 - “**carcase**” means the carcase of any bird and includes part of a carcase;
-- “**Chief Veterinary Officer**” means the Chief Veterinary Officer for Scotland[^key-5606ea552c23a171f57ffc750dd2876e];
-- “Council[^key-b2dba9d4dd91713057cfa157a043c1ea] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza and repealing [Directive 92/40/EEC](https://www.legislation.gov.uk/eudr/1992/0040), as last amended by Commission Implementing Decision (EU) 2018/662,
-- [^key-f0c4711f00c7c1231d93d128d4155b53]...
-- “**Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66)**” means Council Directive [1992/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) [^c5127271] of 14th July 1992 introducing Community measures for the control of Newcastle disease , as last amended by Directive ([^key-9f3a0ba18d3a82c57b1683e00da5a31f]EU) 2018/597 of the European Parliament and of the Council;
+- “**Chief Veterinary Officer**” means the Chief Veterinary Officer for Scotland[^c-5606ea552c23a171f57ffc750dd2876e];
+- “Council[^c-b2dba9d4dd91713057cfa157a043c1ea] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094)” means Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) on Community measures for the control of avian influenza and repealing [Directive 92/40/EEC](https://www.legislation.gov.uk/eudr/1992/0040), as last amended by Commission Implementing Decision (EU) 2018/662,
+- [^c-f0c4711f00c7c1231d93d128d4155b53]...
+- “**Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66)**” means Council Directive [1992/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) [^c5127271] of 14th July 1992 introducing Community measures for the control of Newcastle disease , as last amended by Directive ([^c-9f3a0ba18d3a82c57b1683e00da5a31f]EU) 2018/597 of the European Parliament and of the Council;
 - “**designated disease**” means paramyxovirus 1 in pigeons, avian influenza and Newcastle disease;
-- “**disinfect**” means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^key-c4d10fc02ee76aedf055851cd0adfcf7] for the purposes of this Order;
-- [^key-3bbd74663cf9b67c588e4606f2da41ad]...
+- “**disinfect**” means disinfect with a disinfectant approved under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^c-c4d10fc02ee76aedf055851cd0adfcf7] for the purposes of this Order;
+- [^c-3bbd74663cf9b67c588e4606f2da41ad]...
 - “**means of transport**” includes any vehicle, vessel or aircraft;
 - “**pigeon house**” means any installation used for keeping or breeding pigeons;
 - “**premises**” includes land with or without buildings, but does not include any place used only as a dwelling; and
@@ -81,7 +81,7 @@ For the purposes of the Animal Health Act 1981 in its application to this Order�
 
 (2) In articles 3(1), 7(1) and (2)(a), 9(1)(a) and (3), 11(1), (2) and (5), 12, 14(1), 15 and Schedules 1 and 2, unless the context otherwise requires, “**poultry**” means any of the following birds, if they are kept in captivity for breeding, the production of meat or eggs or for re-stocking supplies of game; namely, domestic fowls, turkeys, geese, ducks, guinea fowls, pigeons (other than racing pigeons), quails, ratites, pheasants and partridges.
 
-## 3A. Notification procedure where an infection with Avian Mycoplasmosis is suspected[^key-52d2af194416c43ac79195b6097556fb]
+## 3A. Notification procedure where an infection with Avian Mycoplasmosis is suspected[^c-52d2af194416c43ac79195b6097556fb]
 
 (1) A person who—
 
@@ -107,10 +107,10 @@ must immediately inform an authorised veterinary inspector of that suspicion.
 
 (1) Any person who is in possession of or who has charge of any bird or carcase and who is aware that that bird or carcase has, or suspects that bird or carcase of having, a designated disease, shall–
 
-- (a) immediately inform an authorised veterinary inspector[^key-f63e09fabee238017b441dc8daf7e72f]; and
+- (a) immediately inform an authorised veterinary inspector[^c-f63e09fabee238017b441dc8daf7e72f]; and
 - (b) take all reasonable steps to ensure that the restrictions and requirements set out in Part I of Schedule 1 to this Order are complied with.
 
-(2) Any person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample shall immediately inform an authorised veterinary inspector[^key-3f1eb8bed0d3ab1b5ed196c3aa0ceb49].
+(2) Any person who examines or inspects any bird or carcase or who analyses any sample taken from any bird or carcase, and who suspects the presence of a designated disease in the bird, carcase or sample shall immediately inform an authorised veterinary inspector[^c-3f1eb8bed0d3ab1b5ed196c3aa0ceb49].
 
 ## 5. Restrictions where a designated disease is suspected
 
@@ -129,7 +129,7 @@ If a veterinary inspector or an inspector of a local authority has reasonable gr
 
 (2) No person shall deface, obliterate or remove any mark applied under paragraph (1)(b).
 
-(3) Any collecting of samples and laboratory testing in terms of paragraph (1)(a) shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^key-b90aa51a2bc308e585626d831855f838] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus 1 in pigeons) in accordance with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
+(3) Any collecting of samples and laboratory testing in terms of paragraph (1)(a) shall be carried out (in relation to avian influenza) in accordance with Article 50 of Council[^c-b90aa51a2bc308e585626d831855f838] [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) and (in relation to Newcastle disease and paramyxovirus 1 in pigeons) in accordance with Annex III of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66).
 
 (4) The occupier or other person in charge of the premises or any employee or agent of that person shall provide such reasonable assistance to a veterinary inspector as that veterinary inspector may require for the exercise of any powers under paragraphs (1) and (3) above.
 
@@ -319,7 +319,7 @@ No person shall remove from the premises or spread within the premises any used 
 
 #### 6. Restriction on removal of eggs
 
-No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex[^key-cc457391191eb1fd07bb3c3ae38e0c8c] III to, Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) [^c5127331] as the case may be.
+No person shall move any eggs from premises except in accordance with the provisions of Article 7(2)(f) of, and Annex[^c-cc457391191eb1fd07bb3c3ae38e0c8c] III to, Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or article 4.2(e) of and Annex I to Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) [^c5127331] as the case may be.
 
 #### 7. Disinfection at entrances and exits
 
@@ -347,7 +347,7 @@ are traced and destroyed, except that table eggs need not be destroyed if they h
 
 #### 11. Disinfection and restocking
 
-The buildings used for housing poultry, their surroundings, any vehicles on the holding used for transport of poultry and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleansing and disinfection in accordance with Annex[^key-8e5f4ac957cb3757981aa536d7775869] VI to Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The Person in charge of the premises shall not restock the premises until at least 21 days after completion of the cleansing and disinfection.
+The buildings used for housing poultry, their surroundings, any vehicles on the holding used for transport of poultry and all equipment likely to be contaminated shall, under the supervision of an inspector, be subject to preliminary and final cleansing and disinfection in accordance with Annex[^c-8e5f4ac957cb3757981aa536d7775869] VI to Council [Directive 2005/94/EC](https://www.legislation.gov.uk/eudr/2005/0094) or Annex II of Council Directive [92/66/EEC](https://www.legislation.gov.uk/eudr/1992/66) as the case may be and to the satisfaction of a veterinary inspector. The Person in charge of the premises shall not restock the premises until at least 21 days after completion of the cleansing and disinfection.
 
 ## SCHEDULE 2 — INFECTED AREAS: PROTECTION AND SURVEILLANCE ZONES
 
@@ -416,33 +416,33 @@ Failure to comply with this Order is an offence under section 73 of the Animal H
 
 [^c5127251]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for the definition of “the Ministers”. The functions of the Ministers of the Crown were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c3c4758598531bfa247b7790fbc7cd04]: Textual amendment: Art. 1(3) inserted (1.7.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 (S.S.I. 2006/336)](https://www.legislation.gov.uk/ssi/2006/336), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/336/article/1/1), [87(1)](https://www.legislation.gov.uk/ssi/2006/336/article/87/1)
+[^c-c3c4758598531bfa247b7790fbc7cd04]: Textual amendment: Art. 1(3) inserted (1.7.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 (S.S.I. 2006/336)](https://www.legislation.gov.uk/ssi/2006/336), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/336/article/1/1), [87(1)](https://www.legislation.gov.uk/ssi/2006/336/article/87/1)
 
-[^key-1a88ca74b245c0177437ec1a162af123]: Textual amendment: Words in art. 3(1) inserted (25.10.2004) by [The Avian Influenza (Survey Powers) (Scotland) Regulations 2004 (S.S.I. 2004/453)](https://www.legislation.gov.uk/ssi/2004/453), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/453/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2004/453/regulation/8)
+[^c-1a88ca74b245c0177437ec1a162af123]: Textual amendment: Words in art. 3(1) inserted (25.10.2004) by [The Avian Influenza (Survey Powers) (Scotland) Regulations 2004 (S.S.I. 2004/453)](https://www.legislation.gov.uk/ssi/2004/453), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/453/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2004/453/regulation/8)
 
-[^key-cc917115a169db472109eab9ce664409]: Textual amendment: Words in art. 3(1) inserted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/14/2/c)
+[^c-cc917115a169db472109eab9ce664409]: Textual amendment: Words in art. 3(1) inserted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/14/2/c)
 
-[^key-5606ea552c23a171f57ffc750dd2876e]: Textual amendment: Words in art. 3(1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/14/2/a)
+[^c-5606ea552c23a171f57ffc750dd2876e]: Textual amendment: Words in art. 3(1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/14/2/a)
 
-[^key-b2dba9d4dd91713057cfa157a043c1ea]: Textual amendment: Words in art. 3(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/a)
+[^c-b2dba9d4dd91713057cfa157a043c1ea]: Textual amendment: Words in art. 3(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/a)
 
-[^key-f0c4711f00c7c1231d93d128d4155b53]: Textual amendment: Words in art. 3(1) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/b)
+[^c-f0c4711f00c7c1231d93d128d4155b53]: Textual amendment: Words in art. 3(1) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/b)
 
 [^c5127271]: Marginal citation: O.J. No. L 260, 05.09.92, p.1.
 
-[^key-9f3a0ba18d3a82c57b1683e00da5a31f]: Textual amendment: Words in art. 3(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/c)
+[^c-9f3a0ba18d3a82c57b1683e00da5a31f]: Textual amendment: Words in art. 3(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/c)
 
-[^key-c4d10fc02ee76aedf055851cd0adfcf7]: Textual amendment: Words in art. 3(1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(d)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/d)
+[^c-c4d10fc02ee76aedf055851cd0adfcf7]: Textual amendment: Words in art. 3(1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(2)(d)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/2/d)
 
-[^key-3bbd74663cf9b67c588e4606f2da41ad]: Textual amendment: Words in art. 3(1) omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/14/2/b)
+[^c-3bbd74663cf9b67c588e4606f2da41ad]: Textual amendment: Words in art. 3(1) omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/14/2/b)
 
-[^key-52d2af194416c43ac79195b6097556fb]: Textual amendment: Arts. 3A, 3B substituted for art. 3A (30.12.2021) by [The Animal Health (Notification and Control Measures) (Miscellaneous Amendments) (Scotland) (No. 2) Order 2021 (S.S.I. 2021/456)](https://www.legislation.gov.uk/ssi/2021/456), [arts. 1](https://www.legislation.gov.uk/ssi/2021/456/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/456/article/2/2)
+[^c-52d2af194416c43ac79195b6097556fb]: Textual amendment: Arts. 3A, 3B substituted for art. 3A (30.12.2021) by [The Animal Health (Notification and Control Measures) (Miscellaneous Amendments) (Scotland) (No. 2) Order 2021 (S.S.I. 2021/456)](https://www.legislation.gov.uk/ssi/2021/456), [arts. 1](https://www.legislation.gov.uk/ssi/2021/456/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/456/article/2/2)
 
-[^key-f63e09fabee238017b441dc8daf7e72f]: Textual amendment: Words in art. 4(1)(a) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(3)](https://www.legislation.gov.uk/ssi/2013/173/article/14/3)
+[^c-f63e09fabee238017b441dc8daf7e72f]: Textual amendment: Words in art. 4(1)(a) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(3)](https://www.legislation.gov.uk/ssi/2013/173/article/14/3)
 
-[^key-3f1eb8bed0d3ab1b5ed196c3aa0ceb49]: Textual amendment: Words in art. 4(2) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(3)](https://www.legislation.gov.uk/ssi/2013/173/article/14/3)
+[^c-3f1eb8bed0d3ab1b5ed196c3aa0ceb49]: Textual amendment: Words in art. 4(2) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [14(3)](https://www.legislation.gov.uk/ssi/2013/173/article/14/3)
 
-[^key-b90aa51a2bc308e585626d831855f838]: Textual amendment: Words in art. 6(3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/3)
+[^c-b90aa51a2bc308e585626d831855f838]: Textual amendment: Words in art. 6(3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/3)
 
 [^c5127291]: Marginal citation: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), as relevantly amended by [S.I. 1978/934](https://www.legislation.gov.uk/uksi/1978/934), 1994/3141 and 1999/919 and [S.S.I. 2001/45](https://www.legislation.gov.uk/ssi/2001/45) and 51 and 2003/334. Article 2(1) was amended by [S.I. 1994/3141](https://www.legislation.gov.uk/uksi/1994/3141).
 
@@ -450,8 +450,8 @@ Failure to comply with this Order is an offence under section 73 of the Animal H
 
 [^c5127311]: Marginal citation: [S.I. 1997/150](https://www.legislation.gov.uk/uksi/1997/150).
 
-[^key-cc457391191eb1fd07bb3c3ae38e0c8c]: Textual amendment: Words in [sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2003/354/schedule/1/paragraph/6) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(4)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/4/a)
+[^c-cc457391191eb1fd07bb3c3ae38e0c8c]: Textual amendment: Words in [sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2003/354/schedule/1/paragraph/6) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(4)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/4/a)
 
 [^c5127331]: Marginal citation: O.J.No. L 260, 05.09.92, p.1.
 
-[^key-8e5f4ac957cb3757981aa536d7775869]: Textual amendment: Words in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2003/354/schedule/1/paragraph/11) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(4)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/4/b)
+[^c-8e5f4ac957cb3757981aa536d7775869]: Textual amendment: Words in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2003/354/schedule/1/paragraph/11) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [23(4)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/23/4/b)

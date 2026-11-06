@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Notification of information to bidders after the end of each principal stage round[^key-f0a4828739be21f9db1c3bf13ed6f5d6]
+## 46. Notification of information to bidders after the end of each principal stage round[^c-f0a4828739be21f9db1c3bf13ed6f5d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a4828739be21f9db1c3bf13ed6f5d6]: Commencement: Reg. 46 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f0a4828739be21f9db1c3bf13ed6f5d6]: Commencement: Reg. 46 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

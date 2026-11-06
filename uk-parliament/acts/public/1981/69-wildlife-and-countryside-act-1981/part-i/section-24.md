@@ -60,13 +60,13 @@ in, or in connection with, the enforcement of the provisions of this Part or any
 
 (4) The functions of the GB conservation bodies[^c19484101] shall include power to advise or assist—
 
-- (a) any constable; or[^key-58f4958f84dd15374302375a121dd8b0]
-- (b) any proper officer of a local authority; [^key-d60e023bd1fb87a6e7861e1702c3dd6c]...
-- (c)[^key-7a7967abf85e9442a55a6c0292ced140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any constable; or[^c-58f4958f84dd15374302375a121dd8b0]
+- (b) any proper officer of a local authority; [^c-d60e023bd1fb87a6e7861e1702c3dd6c]...
+- (c)[^c-7a7967abf85e9442a55a6c0292ced140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 in, or in connection with, the enforcement of the provisions of this Part or any order or regulations made under it.
 
-(4A)[^key-d2e576c5e76a3f648f61014e467ad97a] The functions of Scottish Natural Heritage include the power to advise or assist—
+(4A)[^c-d2e576c5e76a3f648f61014e467ad97a] The functions of Scottish Natural Heritage include the power to advise or assist—
 
 - (a) another relevant body exercising functions under section 14L(2)(a); and
 - (b) a person authorised to enter premises under section 14M exercising functions under that section.
@@ -111,10 +111,10 @@ in, or in connection with, the enforcement of the provisions of this Part or any
 
 [^c19484101]: Textual amendment: Words in s. 24(4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 75(4)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/75/4); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-58f4958f84dd15374302375a121dd8b0]: Textual amendment: Word in s. 24(4) inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(6)(a)](https://www.legislation.gov.uk/asp/2011/6/section/22/6/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
+[^c-58f4958f84dd15374302375a121dd8b0]: Textual amendment: Word in s. 24(4) inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(6)(a)](https://www.legislation.gov.uk/asp/2011/6/section/22/6/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
 
-[^key-d60e023bd1fb87a6e7861e1702c3dd6c]: Textual amendment: Word in s. 24(4) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(6)(b)](https://www.legislation.gov.uk/asp/2011/6/section/22/6/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
+[^c-d60e023bd1fb87a6e7861e1702c3dd6c]: Textual amendment: Word in s. 24(4) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(6)(b)](https://www.legislation.gov.uk/asp/2011/6/section/22/6/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
 
-[^key-7a7967abf85e9442a55a6c0292ced140]: Textual amendment: S. 24(4)(c) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(6)(c)](https://www.legislation.gov.uk/asp/2011/6/section/22/6/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
+[^c-7a7967abf85e9442a55a6c0292ced140]: Textual amendment: S. 24(4)(c) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(6)(c)](https://www.legislation.gov.uk/asp/2011/6/section/22/6/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
 
-[^key-d2e576c5e76a3f648f61014e467ad97a]: Textual amendment: S. 24(4A) inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 17(5)](https://www.legislation.gov.uk/asp/2011/6/section/17/5), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/c)
+[^c-d2e576c5e76a3f648f61014e467ad97a]: Textual amendment: S. 24(4A) inserted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 17(5)](https://www.legislation.gov.uk/asp/2011/6/section/17/5), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/c)

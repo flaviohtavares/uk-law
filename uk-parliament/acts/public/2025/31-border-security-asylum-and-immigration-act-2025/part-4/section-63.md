@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Regulations[^key-99980e6791d0f7dac0af27c55a5788d9]
+## 63. Regulations[^c-99980e6791d0f7dac0af27c55a5788d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99980e6791d0f7dac0af27c55a5788d9]: Commencement: S. 63 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+[^c-99980e6791d0f7dac0af27c55a5788d9]: Commencement: S. 63 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)

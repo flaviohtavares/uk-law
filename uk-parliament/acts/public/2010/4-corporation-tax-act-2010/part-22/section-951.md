@@ -41,7 +41,7 @@ summary: ''
 - (a) references in section 945(2) to liabilities are to be read as references to liabilities apportioned under section 952, and
 - (b) references in section 945(3) to assets are to be read as references to assets so apportioned.
 
-(7)[^key-edf0146f7455745502fce612d93c975e] Subsection (8) applies if—
+(7)[^c-edf0146f7455745502fce612d93c975e] Subsection (8) applies if—
 
 - (a) a company (“**the transferor**”) ceases to carry on a trade (“trade Z”),
 - (b) another company (“**the transferee**”) begins to carry on the activities of trade Z as part of its trade (“part Z”) and
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edf0146f7455745502fce612d93c975e]: Textual amendment: [S. 951(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/951/7)[(8)](https://www.legislation.gov.uk/ukpga/2010/4/section/951/8) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 67(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/67/2)
+[^c-edf0146f7455745502fce612d93c975e]: Textual amendment: [S. 951(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/951/7)[(8)](https://www.legislation.gov.uk/ukpga/2010/4/section/951/8) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 67(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/67/2)

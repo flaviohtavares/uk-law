@@ -35,7 +35,7 @@ An Act to make provision about the determination of the fee limit for higher edu
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. New method for determining fee limit[^key-9a3d63a441f5386b078fbaf9090dc74a][^key-2cdc6ae1e345e1a94f970cc8a6ed5d89][^key-ff248a527bc13f2c02434e4130805177]
+## 1. New method for determining fee limit[^c-9a3d63a441f5386b078fbaf9090dc74a][^c-2cdc6ae1e345e1a94f970cc8a6ed5d89][^c-ff248a527bc13f2c02434e4130805177]
 
 (1) The Higher Education and Research Act 2017 is amended as follows.
 
@@ -216,7 +216,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (b) in sub-paragraph (2), in paragraphs (a) and (b), for “fee” substitute “relevant”;
 - (c) in sub-paragraph (3), for “relevant academic” substitute “course”.
 
-## 2. Related amendments[^key-53810baa76256422724a5aeb0f4457c1][^key-daf965d38225bd8e7931723a02fdf17f][^key-37a7f9dc2d742549ea4c5bff2e34598d]
+## 2. Related amendments[^c-53810baa76256422724a5aeb0f4457c1][^c-daf965d38225bd8e7931723a02fdf17f][^c-37a7f9dc2d742549ea4c5bff2e34598d]
 
 (1) The Higher Education and Research Act 2017 is amended as follows.
 
@@ -320,7 +320,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 > (4) In sub-paragraph (2)(b), effect “**from a date**” includes effect in relation to a course year beginning on or after a date.
 
-## 3. Extent, commencement and short title[^key-34198893cc1546140a550a82d2b6d134]
+## 3. Extent, commencement and short title[^c-34198893cc1546140a550a82d2b6d134]
 
 (1) This Act extends to England and Wales.
 
@@ -338,16 +338,16 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-9a3d63a441f5386b078fbaf9090dc74a]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/40/section/3/2)
+[^c-9a3d63a441f5386b078fbaf9090dc74a]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/40/section/3/2)
 
-[^key-2cdc6ae1e345e1a94f970cc8a6ed5d89]: Commencement: S. 1 in force at 12.5.2026 for specified purposes by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
+[^c-2cdc6ae1e345e1a94f970cc8a6ed5d89]: Commencement: S. 1 in force at 12.5.2026 for specified purposes by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
 
-[^key-ff248a527bc13f2c02434e4130805177]: Commencement: S. 1 in force at 1.9.2026 in so far as not already in force by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
+[^c-ff248a527bc13f2c02434e4130805177]: Commencement: S. 1 in force at 1.9.2026 in so far as not already in force by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
 
-[^key-53810baa76256422724a5aeb0f4457c1]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/40/section/3/2)
+[^c-53810baa76256422724a5aeb0f4457c1]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/40/section/3/2)
 
-[^key-daf965d38225bd8e7931723a02fdf17f]: Commencement: S. 2 in force at 12.5.2026 for specified purposes by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
+[^c-daf965d38225bd8e7931723a02fdf17f]: Commencement: S. 2 in force at 12.5.2026 for specified purposes by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
 
-[^key-37a7f9dc2d742549ea4c5bff2e34598d]: Commencement: S. 2 in force at 1.9.2026 in so far as not already in force by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
+[^c-37a7f9dc2d742549ea4c5bff2e34598d]: Commencement: S. 2 in force at 1.9.2026 in so far as not already in force by [S.I. 2026/497](https://www.legislation.gov.uk/uksi/2026/497), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/497/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/497/regulation/3))
 
-[^key-34198893cc1546140a550a82d2b6d134]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/40/section/3/4)
+[^c-34198893cc1546140a550a82d2b6d134]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/40/section/3/4)

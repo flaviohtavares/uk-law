@@ -33,11 +33,11 @@ Slaughterhouses Act 1974
 
 \[8th February 1974\] [^c705434]
 
-## Part I — Slaughterhouses and Knackers’ Yards[^c705435][^key-804b45ab2bc4ff52bf809cb1e081b3c8][^key-2975eabbe32e47653022d425417345c5][^key-c1a5cdebdc1e59aea77d46d9014000a2][^key-7c3f25e9794df56644bc73182978e04d][^key-ccff52682a0fed7153955f3ae1b34a41][^key-e6616bd4ad6d77c5913d8895e190f3ca][^key-98fa677974f0b01b8d770009f8ac3b87][^key-f967b0f5261e23add71ea2dc1079e128][^key-2ef1a48f0c3ecf939189cf038b617f73]
+## Part I — Slaughterhouses and Knackers’ Yards[^c705435][^c-804b45ab2bc4ff52bf809cb1e081b3c8][^c-2975eabbe32e47653022d425417345c5][^c-c1a5cdebdc1e59aea77d46d9014000a2][^c-7c3f25e9794df56644bc73182978e04d][^c-ccff52682a0fed7153955f3ae1b34a41][^c-e6616bd4ad6d77c5913d8895e190f3ca][^c-98fa677974f0b01b8d770009f8ac3b87][^c-f967b0f5261e23add71ea2dc1079e128][^c-2ef1a48f0c3ecf939189cf038b617f73]
 
 ### Licensing of private slaughterhouses and knackers’ yards
 
-#### 1. Slaughterhouses and knackers’ yards to be licensed.[^key-d68208459f0f46577de9b8b498264c65]
+#### 1. Slaughterhouses and knackers’ yards to be licensed.[^c-d68208459f0f46577de9b8b498264c65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,15 +45,15 @@ Slaughterhouses Act 1974
 
 #### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c705451]
 
-#### 4. Knacker’s yard licences and applications for such licences.[^key-90c74b471847bd9bb93944c025277f87]
+#### 4. Knacker’s yard licences and applications for such licences.[^c-90c74b471847bd9bb93944c025277f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Notification of refusal of licence.[^key-6e1d417343ad227dcc2f886ac3dc8610]
+#### 5. Notification of refusal of licence.[^c-6e1d417343ad227dcc2f886ac3dc8610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Appeals against refusal of licence.[^key-71e94b17ef86eafe98b658d1f286c105]
+#### 6. Appeals against refusal of licence.[^c-71e94b17ef86eafe98b658d1f286c105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,7 +69,7 @@ Slaughterhouses Act 1974
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Temporary continuance of licence on death.[^key-ce60a465ea0aca0d1d9e44c1a0eadbb7]
+#### 10. Temporary continuance of licence on death.[^c-ce60a465ea0aca0d1d9e44c1a0eadbb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,7 +77,7 @@ Slaughterhouses Act 1974
 
 #### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c705468]
 
-#### 12. Byelaws about slaughterhouses and knackers’ yards.[^key-7112feaa4993ed0234837e4620d05ebd]
+#### 12. Byelaws about slaughterhouses and knackers’ yards.[^c-7112feaa4993ed0234837e4620d05ebd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -119,7 +119,7 @@ and references in this Part of this Act to a local authority providing a slaught
 
 - (a)[^c705488][^c705489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) may provide plant or apparatus for disposing of, treating or processing waste matters, refuse or by-products, resulting from the slaughter of animals in the slaughterhouse;
-- (c) may, if they think fit, employ persons to slaughter or stun, in accordance with the Welfare of Animals at the Time of Killing (England) Regulations 2015 or the Welfare of Animals at the Time of Killing (Wales) Regulations 2014, horses[^key-2043516262d02031074e8adf193679ba] (including hinnies, asses and mules), cattle, sheep, swine or goats[^c705490];
+- (c) may, if they think fit, employ persons to slaughter or stun, in accordance with the Welfare of Animals at the Time of Killing (England) Regulations 2015 or the Welfare of Animals at the Time of Killing (Wales) Regulations 2014, horses[^c-2043516262d02031074e8adf193679ba] (including hinnies, asses and mules), cattle, sheep, swine or goats[^c705490];
 - (d) subject to subsection (2) below, may make such arrangements as they think expedient for securing that all the activities of the slaughterhouse, or any particular activities, are carried on there by servants or agents of theirs to the exclusion of other persons.
 
 (2) A local authority shall not exercise the power conferred by subsection (1)(d) above in such a manner as to deny any religious community reasonable facilities for obtaining as food the flesh of animals slaughtered by the method specially required by their religion.
@@ -144,35 +144,35 @@ and references in this Part of this Act to a local authority providing a slaught
 
 ### Enforcement and legal proceedings
 
-#### 19. Execution and enforcement of Part I.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 19. Execution and enforcement of Part I.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Powers of entry.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 20. Powers of entry.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Obstruction.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 21. Obstruction.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Institution of proceedings by local authorities.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 22. Institution of proceedings by local authorities.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Prosecution and punishment of offences.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 23. Prosecution and punishment of offences.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Offences by corporations.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 24. Offences by corporations.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Contravention due to default of some other person.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 25. Contravention due to default of some other person.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Appeals to Crown Court.[^key-fd02ca226823e4b624018816c84ff61c]
+#### 26. Appeals to Crown Court.[^c-fd02ca226823e4b624018816c84ff61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -196,7 +196,7 @@ Orders made by the Secretary of State—
 
 and any such order may be amended by the Secretary of State under section 9 of that Act.
 
-#### 29. Protection for local government officers acting in good faith.[^key-19e4506bd5096008a3575b2f9a3f5977]
+#### 29. Protection for local government officers acting in good faith.[^c-19e4506bd5096008a3575b2f9a3f5977]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,7 +231,7 @@ and any such order may be amended by the Secretary of State under section 9 of t
 - sections 322, 324, 325[^c705513] (default powers in relation to functions of councils); and
 - section 328 (powers of Act to be cumulative).
 
-#### 33. Application to Crown.[^key-5d1f750461eb4d7e7bc863e3ebddd5f8]
+#### 33. Application to Crown.[^c-5d1f750461eb4d7e7bc863e3ebddd5f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -240,7 +240,7 @@ and any such order may be amended by the Secretary of State under section 9 of t
 In this Part of this Act, unless the context otherwise requires,—
 
 - “**animal**” does not include bird or fish;
-- [^key-0f6f0cec3cbdc7fe25a835335907d4e4]...
+- [^c-0f6f0cec3cbdc7fe25a835335907d4e4]...
 - “**council**” includes a port health authority;
 - “**district**”, in relation to the local authority of a London borough or the City of London, and in relation to the officers of such an authority, means the borough or the City, as the case may be; and, in relation to—[^c705520]
   - (a) a local authority who are the council of a Welsh county or county borough, and
@@ -248,9 +248,9 @@ In this Part of this Act, unless the context otherwise requires,—
 
   means that county or county borough;
 - “**functions**” includes powers and duties;
-- [^key-0f6f0cec3cbdc7fe25a835335907d4e4]...
-- [^key-0f6f0cec3cbdc7fe25a835335907d4e4]...
-- [^key-0f6f0cec3cbdc7fe25a835335907d4e4]...
+- [^c-0f6f0cec3cbdc7fe25a835335907d4e4]...
+- [^c-0f6f0cec3cbdc7fe25a835335907d4e4]...
+- [^c-0f6f0cec3cbdc7fe25a835335907d4e4]...
 - “**local authority**” has the meaning assigned to it by section 27 above and, in relation to any premises or to an application in respect of any premises, means the local authority within whose district the premises are situated;
 - [^c705522]“**the Minister**” means the Minister of Agriculture, Fisheries and Food;
 - “**officer**” includes servant;
@@ -522,35 +522,35 @@ Section 47.
 
     [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I): modified (10.2.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/2/3), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-804b45ab2bc4ff52bf809cb1e081b3c8]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
+[^c-804b45ab2bc4ff52bf809cb1e081b3c8]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
 
-[^key-2975eabbe32e47653022d425417345c5]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-2975eabbe32e47653022d425417345c5]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-c1a5cdebdc1e59aea77d46d9014000a2]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-c1a5cdebdc1e59aea77d46d9014000a2]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
-[^key-7c3f25e9794df56644bc73182978e04d]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-7c3f25e9794df56644bc73182978e04d]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-ccff52682a0fed7153955f3ae1b34a41]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
+[^c-ccff52682a0fed7153955f3ae1b34a41]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
 
-[^key-e6616bd4ad6d77c5913d8895e190f3ca]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-e6616bd4ad6d77c5913d8895e190f3ca]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) modified (E.) (6.4.2010) by [Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-98fa677974f0b01b8d770009f8ac3b87]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Schs. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-98fa677974f0b01b8d770009f8ac3b87]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) applied (with modifications) (E.) (24.3.2011) by [Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Schs. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-f967b0f5261e23add71ea2dc1079e128]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) Functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-f967b0f5261e23add71ea2dc1079e128]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) Functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-2ef1a48f0c3ecf939189cf038b617f73]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-2ef1a48f0c3ecf939189cf038b617f73]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1974/3/part/I) functions etc. assigned to the port health authority and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-d68208459f0f46577de9b8b498264c65]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1974/3/section/1) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-d68208459f0f46577de9b8b498264c65]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1974/3/section/1) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
 [^c705450]: Textual amendment: [s. 2](https://www.legislation.gov.uk/ukpga/1974/3/section/2) repealed (11.09.1996) by [S. I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [art. 11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
 [^c705451]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1974/3/section/3) repealed (11.09.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [art. 11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch.](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
-[^key-90c74b471847bd9bb93944c025277f87]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1974/3/section/4) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-90c74b471847bd9bb93944c025277f87]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1974/3/section/4) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
-[^key-6e1d417343ad227dcc2f886ac3dc8610]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1974/3/section/5) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-6e1d417343ad227dcc2f886ac3dc8610]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1974/3/section/5) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
-[^key-71e94b17ef86eafe98b658d1f286c105]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1974/3/section/6)repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-71e94b17ef86eafe98b658d1f286c105]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1974/3/section/6)repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
 [^M_F_883a08bb-a728-4e84-cb81-bc8010c41fe5]: Textual amendment: S. 7 repealed (E.) (28.9.2005) by Animal By-[Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by Animal By-[Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53/1/a)
 
@@ -558,11 +558,11 @@ Section 47.
 
 [^M_F_5c55b623-4497-45c6-8fee-9c80dd365d0a]: Textual amendment: S. 9 repealed (E.) (28.9.2005) by Animal By-[Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by Animal By-[Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53/1/a)
 
-[^key-ce60a465ea0aca0d1d9e44c1a0eadbb7]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1974/3/section/10) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-ce60a465ea0aca0d1d9e44c1a0eadbb7]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1974/3/section/10) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
 [^c705468]: Textual amendment: [s. 11](https://www.legislation.gov.uk/ukpga/1974/3/section/11) repealed (11.9.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [art. 11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch.](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
-[^key-7112feaa4993ed0234837e4620d05ebd]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1974/3/section/12) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-7112feaa4993ed0234837e4620d05ebd]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1974/3/section/12) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
 [^c705477]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1974/3/section/13) repealed (11.9.1996) by [S. I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [arts. 4](https://www.legislation.gov.uk/uksi/1996/2235/article/4), [11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch.](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
@@ -576,7 +576,7 @@ Section 47.
 
 [^c705489]: Textual amendment: [S. 16(1)(a)(3)(4)](https://www.legislation.gov.uk/ukpga/1974/3/section/16/1/a/3/4) repealed (11.9.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [arts. 3(2)](https://www.legislation.gov.uk/uksi/1996/2235/article/3/2), [11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch.](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
-[^key-2043516262d02031074e8adf193679ba]: Textual amendment: Words in [s. 16(1)(c)](https://www.legislation.gov.uk/ukpga/1974/3/section/16/1/c) substituted (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/2)
+[^c-2043516262d02031074e8adf193679ba]: Textual amendment: Words in [s. 16(1)(c)](https://www.legislation.gov.uk/ukpga/1974/3/section/16/1/c) substituted (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/2)
 
 [^c705490]: Textual amendment: Words in [s. 16(1)(c)](https://www.legislation.gov.uk/ukpga/1974/3/section/16/1/c) substituted (1.4.1995) by [The Welfare of Animals (Slaughter or Killing) Regulations 1995 (S.I. 1995/731)](https://www.legislation.gov.uk/uksi/1995/731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/1/1), [28(2)](https://www.legislation.gov.uk/uksi/1995/731/regulation/28/2), [Sch. 14 para. 2(3)](https://www.legislation.gov.uk/uksi/1995/731/schedule/14/paragraph/2/3)
 
@@ -584,7 +584,7 @@ Section 47.
 
 [^c705494]: Textual amendment: [S. 18(3)–(5)](https://www.legislation.gov.uk/ukpga/1974/3/section/18/3) repealed by [Local Government Act 1974 (c. 7)](https://www.legislation.gov.uk/ukpga/1974/7), [Sch. 8](https://www.legislation.gov.uk/ukpga/1974/7/schedule/8)
 
-[^key-fd02ca226823e4b624018816c84ff61c]: Textual amendment: [Ss. 19-26](https://www.legislation.gov.uk/ukpga/1974/3/section/19) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-fd02ca226823e4b624018816c84ff61c]: Textual amendment: [Ss. 19-26](https://www.legislation.gov.uk/ukpga/1974/3/section/19) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
 [^c705501]: Textual amendment: Word in [s. 27(b)](https://www.legislation.gov.uk/ukpga/1974/3/section/27/b) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16), [para. 43(1)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/43/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18), (with ss. 54(5)(7), 55(5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
@@ -594,7 +594,7 @@ Section 47.
 
 [^c705504]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1974/3/section/28) para. (*a*) repealed by [Public Health (Control of Disease) Act 1984 (c. 22, SIF 100:1)](https://www.legislation.gov.uk/ukpga/1984/22), [s. 78](https://www.legislation.gov.uk/ukpga/1984/22/section/78), [Sch. 3](https://www.legislation.gov.uk/ukpga/1984/22/schedule/3)
 
-[^key-19e4506bd5096008a3575b2f9a3f5977]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/1974/3/section/29) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-19e4506bd5096008a3575b2f9a3f5977]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/1974/3/section/29) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
 [^c705505]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -612,9 +612,9 @@ Section 47.
 
 [^c705513]: Textual amendment: Words substituted by virtue of [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/57/schedule/2)
 
-[^key-5d1f750461eb4d7e7bc863e3ebddd5f8]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1974/3/section/33) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
+[^c-5d1f750461eb4d7e7bc863e3ebddd5f8]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1974/3/section/33) repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/wsi/2006/1293), [regs. 1](https://www.legislation.gov.uk/wsi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/wsi/2006/1293/regulation/53/1/a)
 
-[^key-0f6f0cec3cbdc7fe25a835335907d4e4]: Textual amendment: Words in s. 34 repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53/1/a)
+[^c-0f6f0cec3cbdc7fe25a835335907d4e4]: Textual amendment: Words in s. 34 repealed (E.) (28.9.2005) by [Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/1/a); and also repealed (W.) (12.5.2006) by [Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(1)(a)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53/1/a)
 
 [^c705520]: Textual amendment: In s. 34 in the definition of “district”words and sub-paragraphs (a)(b) added (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16), [para. 43(2)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/43/2), (with ss. 54(5)(7), 55(5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 

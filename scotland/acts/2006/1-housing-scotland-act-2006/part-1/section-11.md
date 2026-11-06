@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Amendment of the tolerable standard[^key-0c972f327647affcd4de1a4e6c81430c]
+## 11. Amendment of the tolerable standard[^c-0c972f327647affcd4de1a4e6c81430c]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c972f327647affcd4de1a4e6c81430c]: Commencement: S. 11 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-0c972f327647affcd4de1a4e6c81430c]: Commencement: S. 11 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

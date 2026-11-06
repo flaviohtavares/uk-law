@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment to regulation 42[^key-2907302f85116b648e1725f791151258]
+## 17. Amendment to regulation 42[^c-2907302f85116b648e1725f791151258]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 42 (conditions for wholesale dealer’s licence)[^f00024], omit pa
 
 ## Annotations
 
-[^key-2907302f85116b648e1725f791151258]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/832/regulation/17) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-2907302f85116b648e1725f791151258]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/832/regulation/17) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00024]: Footnote: Paragraphs (4) and (5) were inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62); paragraph (6) was inserted by [S.I. 2021/1452](https://www.legislation.gov.uk/uksi/2021/1452).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Action plan[^key-4249382ed28eee0dca5e67d29efdb399]
+## 66. Action plan[^c-4249382ed28eee0dca5e67d29efdb399]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4249382ed28eee0dca5e67d29efdb399]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/20/section/66) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(vvw)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/vvw)
+[^c-4249382ed28eee0dca5e67d29efdb399]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/20/section/66) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(vvw)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/vvw)

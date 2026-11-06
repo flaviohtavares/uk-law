@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Guarantees by the Secretary of State for relevant companies.[^key-824dc065c92d0cd03e122b0a8e264ce1]
+## 69. Guarantees by the Secretary of State for relevant companies.[^c-824dc065c92d0cd03e122b0a8e264ce1]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may, on or after the appointed day and in such manner and on such conditions as he considers appropriate, guarantee the discharge of any financial obligation of a relevant company[^key-034aaaf074e889a01babadb60f917d4a].
+(1) The Secretary of State may, on or after the appointed day and in such manner and on such conditions as he considers appropriate, guarantee the discharge of any financial obligation of a relevant company[^c-034aaaf074e889a01babadb60f917d4a].
 
 (2) As soon as practicable after giving a guarantee under subsection (1), the Secretary of State shall lay a statement of the guarantee before each House of Parliament.
 
-(3) If any sums are paid by the Secretary of State in fulfilment of a guarantee given under subsection (1), the relevant company[^key-e59cf5f02ca179c812a4f2e06b33f1dd] shall make to the Secretary of State, at such times and in such manner as the Secretary of State may direct—
+(3) If any sums are paid by the Secretary of State in fulfilment of a guarantee given under subsection (1), the relevant company[^c-e59cf5f02ca179c812a4f2e06b33f1dd] shall make to the Secretary of State, at such times and in such manner as the Secretary of State may direct—
 
 - (a) payments, of such amounts as the Secretary of State may direct, in or towards repayment of the sums paid by the Secretary of State, and
 - (b) payments of interest on what is outstanding in respect of the sums paid by the Secretary of State, at such rate as the Secretary of State may direct.
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-824dc065c92d0cd03e122b0a8e264ce1]: Textual amendment: Words in s. 69 heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 10(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/10/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-824dc065c92d0cd03e122b0a8e264ce1]: Textual amendment: Words in s. 69 heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 10(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/10/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-034aaaf074e889a01babadb60f917d4a]: Textual amendment: Words in s. 69(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 10(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/10/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-034aaaf074e889a01babadb60f917d4a]: Textual amendment: Words in s. 69(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 10(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/10/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-e59cf5f02ca179c812a4f2e06b33f1dd]: Textual amendment: Words in s. 69(3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/10/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e59cf5f02ca179c812a4f2e06b33f1dd]: Textual amendment: Words in s. 69(3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/10/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

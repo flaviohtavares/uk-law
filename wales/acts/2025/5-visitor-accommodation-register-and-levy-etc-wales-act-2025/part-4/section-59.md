@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Power to make provision about death, incapacity, insolvency and cases where a person ceases to exist[^key-cb8f7ff0e91d339ea91d65e5112feffd][^key-680273b2e0a66be1511746f8d674f9b3]
+## 59. Power to make provision about death, incapacity, insolvency and cases where a person ceases to exist[^c-cb8f7ff0e91d339ea91d65e5112feffd][^c-680273b2e0a66be1511746f8d674f9b3]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8f7ff0e91d339ea91d65e5112feffd]: Commencement: S. 59 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
+[^c-cb8f7ff0e91d339ea91d65e5112feffd]: Commencement: S. 59 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
 
-[^key-680273b2e0a66be1511746f8d674f9b3]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2025/5/section/59) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(s)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/s)
+[^c-680273b2e0a66be1511746f8d674f9b3]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2025/5/section/59) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(s)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/s)

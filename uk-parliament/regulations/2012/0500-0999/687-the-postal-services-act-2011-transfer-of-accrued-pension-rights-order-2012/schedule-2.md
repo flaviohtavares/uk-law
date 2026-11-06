@@ -22,7 +22,7 @@ summary: ''
 
 Article 4
 
-**1.**[^key-1a9bd130e1e6c1b9e433e742bd06063f][^key-9454efc77638e9e29f8984ce3040293a] (1) In this Schedule—
+**1.**[^c-1a9bd130e1e6c1b9e433e742bd06063f][^c-9454efc77638e9e29f8984ce3040293a] (1) In this Schedule—
 
 - “Actuarial Equivalence Requirements” has the meaning given in paragraph 9;
 - “Actuarial Equivalence Statement” has the meaning given in paragraph 13;
@@ -85,7 +85,7 @@ Article 4
 - (ii) the rule or provision of the RMSPS corresponds to or is derived from that rule or provision of the RMPP Rules; and
 - (iii) the amendment or modification to the rule or provision of the RMSPS is consistent with such rectification or correction of that rule or provision of the RMPP, and does no more than implement a corresponding correction to the terms of the rule or provision of the RMSPS.
 
-**2.**[^key-62641a289cb658b787043ac4f991b97c][^key-6a0cb961e19f8315c3e71dc5844419f9] (1) A Regulated Modification may be made to the RMSPS by the Minister for the Civil Service[^key-04723760bbe32697d76369348c8a8309] if—
+**2.**[^c-62641a289cb658b787043ac4f991b97c][^c-6a0cb961e19f8315c3e71dc5844419f9] (1) A Regulated Modification may be made to the RMSPS by the Minister for the Civil Service[^c-04723760bbe32697d76369348c8a8309] if—
 
 - (a) it is an amendment or modification which, if the RMSPS were an Equivalent Scheme would not, at the time the amendment or modification is being made, have been subject to or restricted by the “subsisting rights provisions” within the meaning of section 67 of the Pensions Act 1995 at that time, including without limitation an amendment or modification which—
   - (i) comes within section 67(3) of the Pensions Act 1995;
@@ -100,7 +100,7 @@ Article 4
 
 (2) If the Regulated Modification is also an RMPP Restricted Modification, the requirements of paragraph 3 must be satisfied if the modification is to be made.
 
-**3.**[^key-82f1e5f048557a63f685c44245b0bd62][^key-725549ae6f167494882ba5a271736aa7] (1) An RMPP Restricted Modification (other than a modification within paragraph (a) of the definition of “RMPP Restricted Modification”) may be made to the RMSPS by the Minister for the Civil Service if the modification satisfies either (a) or (b) below—
+**3.**[^c-82f1e5f048557a63f685c44245b0bd62][^c-725549ae6f167494882ba5a271736aa7] (1) An RMPP Restricted Modification (other than a modification within paragraph (a) of the definition of “RMPP Restricted Modification”) may be made to the RMSPS by the Minister for the Civil Service if the modification satisfies either (a) or (b) below—
 
 - (a) The modification—
   - (i) is required to reflect legislative requirements that have overriding effect in relation to the RMSPS (and are not otherwise reflected in the RMSPS Rules);
@@ -113,19 +113,19 @@ Article 4
 
 (2) If the RMPP Restricted Modification is also a Regulated Modification, the requirements of paragraph 2 must be satisfied if the modification is to be made.
 
-**4.**[^key-0063c1f4a5b7bfb1cb5ef2b316492700][^key-7666eea6e31a0dadbeffa0283897d5b2] If a Regulated Modification or an RMPP Restricted Modification is made to the RMSPS by the Minister for the Civil Service and a member of the RMSPS dies before the requirements mentioned in paragraph 2(1)(c) or 3(1)(b), so far as they apply in that member’s case, have been complied with in respect of the modification, paragraph 5 will apply to that modification if the member—
+**4.**[^c-0063c1f4a5b7bfb1cb5ef2b316492700][^c-7666eea6e31a0dadbeffa0283897d5b2] If a Regulated Modification or an RMPP Restricted Modification is made to the RMSPS by the Minister for the Civil Service and a member of the RMSPS dies before the requirements mentioned in paragraph 2(1)(c) or 3(1)(b), so far as they apply in that member’s case, have been complied with in respect of the modification, paragraph 5 will apply to that modification if the member—
 
 - (a) before the member died, had given his or her consent to the modification in accordance with the Consent Requirements, or
 - (b) before the member died, or before the Minister for the Civil Service had become aware that the member had died, the Minister for the Civil Service had complied with the Information Requirement (other than paragraph 10(c)) in respect of the modification in that member’s case.
 
-**5.**[^key-8e2fb33e433e6f2b44bd5715ff2767d3][^key-256f511eb3ecf0baf51c8e08033d998c] Any of the requirements mentioned in paragraphs 2(1)(c) and 3(1)(b) as it applies in respect of the modification—
+**5.**[^c-8e2fb33e433e6f2b44bd5715ff2767d3][^c-256f511eb3ecf0baf51c8e08033d998c] Any of the requirements mentioned in paragraphs 2(1)(c) and 3(1)(b) as it applies in respect of the modification—
 
 - (a) which is satisfied in the case of the member; or
 - (b) which would have been satisfied in the member’s case had the member not died before it was satisfied,
 
 is to be taken to be satisfied in the case of any survivor of the member in respect of the modification.
 
-**6.**[^key-fd579f0fa631cbc8334682f7da84a40b][^key-80736c913d6e04c8e7ea3ff2bf80e13a] Subject to paragraph 7, the “Informed Consent Requirement” is satisfied in the case of an Affected Member if before the modification is made—
+**6.**[^c-fd579f0fa631cbc8334682f7da84a40b][^c-80736c913d6e04c8e7ea3ff2bf80e13a] Subject to paragraph 7, the “Informed Consent Requirement” is satisfied in the case of an Affected Member if before the modification is made—
 
 - (a) the Minister for the Civil Service has—
   - (i) given that person information in writing adequate to explain the nature of the modification and its effect on the member;
@@ -134,7 +134,7 @@ is to be taken to be satisfied in the case of any survivor of the member in resp
   - (iv) notified that person in writing that the Consent Requirements apply in that person’s case in respect of the modification; and
 - (b) after the Minister for the Civil Service has complied with paragraph (a)(i), (ii) and (iv), the Affected Member has given consent in writing to the modification.
 
-**7.**[^key-ad00dd6a97c5a04e674e137b1ee8f89d][^key-f3b49690be7f99b410e6369faebd62d2] If—
+**7.**[^c-ad00dd6a97c5a04e674e137b1ee8f89d][^c-f3b49690be7f99b410e6369faebd62d2] If—
 
 - (a) the modification is not a Protected Modification; and
 - (b) before the modification is made the Minister for the Civil Service notifies an Affected Member in writing that—
@@ -143,44 +143,44 @@ is to be taken to be satisfied in the case of any survivor of the member in resp
 
 the Minister for the Civil Service is to be taken to have complied with paragraph 6(a)(iv) in respect of that member.
 
-**8.**[^key-f2fbdcca58e5536d081335f886589e4b][^key-577a0fb268d511cb25c652dfd55ae3d9] The Timing Requirement is satisfied in the case of an Affected Member if the modification takes effect within a reasonable period after that person has given consent to the modification in accordance with paragraph 6(b).
+**8.**[^c-f2fbdcca58e5536d081335f886589e4b][^c-577a0fb268d511cb25c652dfd55ae3d9] The Timing Requirement is satisfied in the case of an Affected Member if the modification takes effect within a reasonable period after that person has given consent to the modification in accordance with paragraph 6(b).
 
-**9.**[^key-316943271afa8bfbc89e3b183b02ccbb][^key-9a47e915ae518fd86f6ee37e263c2ad7] The Actuarial Equivalence Requirements consist of—
+**9.**[^c-316943271afa8bfbc89e3b183b02ccbb][^c-9a47e915ae518fd86f6ee37e263c2ad7] The Actuarial Equivalence Requirements consist of—
 
 - (a) the Information Requirement;
 - (b) the Actuarial Value Requirement; and
 - (c) the Actuarial Equivalence Statement Requirement.
 
-**10.**[^key-c1435712b0fd0baac47620240c699140][^key-b4f403792461e4741efbcd8f00c2fbbe] The Information Requirement is satisfied in the case of an Affected Member if before the modification is made the Minister for the Civil Service has taken all reasonable steps to—
+**10.**[^c-c1435712b0fd0baac47620240c699140][^c-b4f403792461e4741efbcd8f00c2fbbe] The Information Requirement is satisfied in the case of an Affected Member if before the modification is made the Minister for the Civil Service has taken all reasonable steps to—
 
 - (a) give that person information in writing adequate to explain the nature of the modification and its effect on that person;
 - (b) notify that person in writing that he or she may make representations to the Minister for the Civil Service about the modification;
 - (c) afford that person a reasonable opportunity to make such representations; and
 - (d) notify that person in writing that the Actuarial Equivalence Requirements apply in that person’s case in respect of the modification.
 
-**11.**[^key-17651e18439a8943fa08c28629e9e1e7][^key-cf814b62454c70a5aebc449854423044] The Actuarial Value Requirement is satisfied in the case of an Affected Member if before the modification is made the Minister for the Civil Service has made such arrangements, or taken such steps, as are adequate to secure that actuarial value will be maintained, in accordance with paragraph 14.
+**11.**[^c-17651e18439a8943fa08c28629e9e1e7][^c-cf814b62454c70a5aebc449854423044] The Actuarial Value Requirement is satisfied in the case of an Affected Member if before the modification is made the Minister for the Civil Service has made such arrangements, or taken such steps, as are adequate to secure that actuarial value will be maintained, in accordance with paragraph 14.
 
-**12.**[^key-8e7c77e08c73ff40f9a24664c2e3e29c][^key-a939c2ef72d6cf0915d239f60ef12438] The Actuarial Equivalence Statement Requirement is satisfied in the case of an Affected Member if the Minister for the Civil Service has, within a reasonable period beginning with the date on which the modification takes effect, obtained an Actuarial Equivalence Statement relating to the Affected Member in respect of the modification.
+**12.**[^c-8e7c77e08c73ff40f9a24664c2e3e29c][^c-a939c2ef72d6cf0915d239f60ef12438] The Actuarial Equivalence Statement Requirement is satisfied in the case of an Affected Member if the Minister for the Civil Service has, within a reasonable period beginning with the date on which the modification takes effect, obtained an Actuarial Equivalence Statement relating to the Affected Member in respect of the modification.
 
-**13.**[^key-4c4d2233db381bdf4104fec902aee2da][^key-5eaa34f19bd2ef61cafa7508d916ad10] An Actuarial Equivalence Statement means a statement in writing which—
+**13.**[^c-4c4d2233db381bdf4104fec902aee2da][^c-5eaa34f19bd2ef61cafa7508d916ad10] An Actuarial Equivalence Statement means a statement in writing which—
 
 - (a) is given by the Actuary or another person who is approved by the Minister for the Civil Service and is a Fellow of the Faculty of Actuaries or a Fellow of the Institute of Actuaries; and
 - (b) certifies that actuarial value has been maintained, in accordance with paragraph 14.
 
-**14.**[^key-9d3bfbe859820b75b1b0f2339c11b82d][^key-67ddfe24b8343487f6fb6439dc097c75] For the purposes of paragraphs 11 and 13 as they apply in relation to an Affected Member, actuarial value is maintained if the actuarial value, immediately after the time at which the modification takes effect, of the Affected Member’s RMSPS Subsisting Rights is equal to or greater than the actuarial value of that person’s RMSPS Subsisting Rights immediately before that time.
+**14.**[^c-9d3bfbe859820b75b1b0f2339c11b82d][^c-67ddfe24b8343487f6fb6439dc097c75] For the purposes of paragraphs 11 and 13 as they apply in relation to an Affected Member, actuarial value is maintained if the actuarial value, immediately after the time at which the modification takes effect, of the Affected Member’s RMSPS Subsisting Rights is equal to or greater than the actuarial value of that person’s RMSPS Subsisting Rights immediately before that time.
 
-**15.**[^key-99e55e4bf40d8a552c996b29bb1352e3][^key-9e038672a638f0de8a18775c3c7dc2ee] The Information Requirement is to be taken to have been satisfied in relation to the revised modification where—
+**15.**[^c-99e55e4bf40d8a552c996b29bb1352e3][^c-9e038672a638f0de8a18775c3c7dc2ee] The Information Requirement is to be taken to have been satisfied in relation to the revised modification where—
 
 - (a) the Information Requirement has been satisfied in the case of an Affected Member in respect of a proposed modification (“the original modification”);
 - (b) before the Minister for the Civil Service has made a modification to the RMSPS in relation to the original modification, the original modification has been revised; and
 - (c) the modification as so revised (“the revised modification”) does not differ from the original modification in any material respect.
 
-**16.**[^key-96d80147047f1b7a02d865a38d032a62][^key-97333441a48a0aba250b47f4c818a1f7] The Minister for the Civil Service is to be regarded as having taken all reasonable steps to notify an Affected Member as mentioned in paragraph 10(d) if he has taken all reasonable steps to notify that person in writing that—
+**16.**[^c-96d80147047f1b7a02d865a38d032a62][^c-97333441a48a0aba250b47f4c818a1f7] The Minister for the Civil Service is to be regarded as having taken all reasonable steps to notify an Affected Member as mentioned in paragraph 10(d) if he has taken all reasonable steps to notify that person in writing that—
 
 - (a) if that person gives consent to the modification for the purposes of the Consent Requirements, those requirements apply in that person’s case in respect of the modification, but
 - (b) otherwise, the Actuarial Equivalence Requirements apply in that person’s case in respect of the modification.
 
-**17.**[^key-07a513458d803bf98cb85ad42a2af747][^key-b88d987d5433ce4978bcd4b99284900a] When making any calculation for the purposes of paragraphs 11, 13 and 14 of the actuarial value of an Affected Member’s RMSPS Subsisting Rights at any time, the Actuary must—
+**17.**[^c-07a513458d803bf98cb85ad42a2af747][^c-b88d987d5433ce4978bcd4b99284900a] When making any calculation for the purposes of paragraphs 11, 13 and 14 of the actuarial value of an Affected Member’s RMSPS Subsisting Rights at any time, the Actuary must—
 
 - (a) calculate the value of the RMSPS Subsisting Rights of an Affected Member by adopting methods and making assumptions which are consistent with methods and assumptions used by the Minister for the Civil Service as at the date of the modification to calculate a cash equivalent transfer value from the RMSPS in accordance with regulations 7 to 7C and 7E(1) to (3) as appropriate of the Occupational Pension Schemes (Transfer Values) Regulations 1996 (manner of calculation and verification of cash equivalents), as those regulations apply to the RMSPS under Schedule 4;
 - (b) ensure that the calculation of the actuarial value of an Affected Member’s RMSPS Subsisting Rights is made in accordance with any guidance that is adopted or prepared, and from time to time revised, by the Board for Actuarial Standards (being the operating body of that name of the Financial Reporting Council) which is current on the date that the Actuarial Equivalence Statement is obtained by the Minister for the Civil Service;
@@ -192,107 +192,107 @@ the Minister for the Civil Service is to be taken to have complied with paragrap
   - (i) those benefits are not valued in a manner which involves making estimates of the value of the rights, and
   - (ii) the modification has no effect on the value of those rights.
 
-**18.**[^key-0cbbce569f435a3dfc1b79bbb0ba7aef][^key-0c3e7456673145ce6e92d51ecd2bf9ca] Nothing in paragraphs 12 and 13 precludes Actuarial Equivalence Statements relating to—
+**18.**[^c-0cbbce569f435a3dfc1b79bbb0ba7aef][^c-0c3e7456673145ce6e92d51ecd2bf9ca] Nothing in paragraphs 12 and 13 precludes Actuarial Equivalence Statements relating to—
 
 - (a) two or more Affected Members, or
 - (b) Affected Members of any particular description, in respect of a modification being given in a single document.
 
-**19.**[^key-e9841f7a3a7962aa2bc3126e176b440e][^key-bf5406a2167a349664baee2d3a56f903] The Reporting Requirement is satisfied in relation to the exercise of a power to which paragraph 2 or 3 applies if the Minister for the Civil Service has, in accordance with paragraph 20—
+**19.**[^c-e9841f7a3a7962aa2bc3126e176b440e][^c-bf5406a2167a349664baee2d3a56f903] The Reporting Requirement is satisfied in relation to the exercise of a power to which paragraph 2 or 3 applies if the Minister for the Civil Service has, in accordance with paragraph 20—
 
 - (a) notified each Affected Member in whose case the Consent Requirements apply in respect of the modification, and
 - (b) taken all reasonable steps to notify each Affected Member in whose case the Actuarial Equivalence Requirements apply in respect of the modification,
 
 that he has made an order to modify the RMSPS.
 
-**20.**[^key-b2c7e75ad529cd34e08f97b18f93fa56][^key-5786a79963b25b9e2d454061694cc8dc] The Minister for the Civil Service must give (or, where the Actuarial Equivalence Requirements apply, take all reasonable steps to give) the notification mentioned in paragraph 19—
+**20.**[^c-b2c7e75ad529cd34e08f97b18f93fa56][^c-5786a79963b25b9e2d454061694cc8dc] The Minister for the Civil Service must give (or, where the Actuarial Equivalence Requirements apply, take all reasonable steps to give) the notification mentioned in paragraph 19—
 
 - (a) within a reasonable period beginning with the date of the order modifying the RMSPS mentioned in paragraph 19; and
 - (b) before the date on which the modification made by that order takes effect.
 
 ## Annotations
 
-[^key-1a9bd130e1e6c1b9e433e742bd06063f]: Commencement: Sch. 2 para. 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-1a9bd130e1e6c1b9e433e742bd06063f]: Commencement: Sch. 2 para. 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-9454efc77638e9e29f8984ce3040293a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-9454efc77638e9e29f8984ce3040293a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00035]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00036]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-62641a289cb658b787043ac4f991b97c]: Commencement: Sch. 2 para. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-62641a289cb658b787043ac4f991b97c]: Commencement: Sch. 2 para. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-6a0cb961e19f8315c3e71dc5844419f9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-6a0cb961e19f8315c3e71dc5844419f9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-04723760bbe32697d76369348c8a8309]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/2) substituted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2014/500/article/6/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-04723760bbe32697d76369348c8a8309]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2012/687/schedule/2) substituted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2014/500/article/6/4) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-82f1e5f048557a63f685c44245b0bd62]: Commencement: Sch. 2 para. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-82f1e5f048557a63f685c44245b0bd62]: Commencement: Sch. 2 para. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-725549ae6f167494882ba5a271736aa7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-725549ae6f167494882ba5a271736aa7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-0063c1f4a5b7bfb1cb5ef2b316492700]: Commencement: Sch. 2 para. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-0063c1f4a5b7bfb1cb5ef2b316492700]: Commencement: Sch. 2 para. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-7666eea6e31a0dadbeffa0283897d5b2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-7666eea6e31a0dadbeffa0283897d5b2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-8e2fb33e433e6f2b44bd5715ff2767d3]: Commencement: Sch. 2 para. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-8e2fb33e433e6f2b44bd5715ff2767d3]: Commencement: Sch. 2 para. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-256f511eb3ecf0baf51c8e08033d998c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-256f511eb3ecf0baf51c8e08033d998c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-fd579f0fa631cbc8334682f7da84a40b]: Commencement: Sch. 2 para. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-fd579f0fa631cbc8334682f7da84a40b]: Commencement: Sch. 2 para. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-80736c913d6e04c8e7ea3ff2bf80e13a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-80736c913d6e04c8e7ea3ff2bf80e13a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-ad00dd6a97c5a04e674e137b1ee8f89d]: Commencement: Sch. 2 para. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ad00dd6a97c5a04e674e137b1ee8f89d]: Commencement: Sch. 2 para. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-f3b49690be7f99b410e6369faebd62d2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-f3b49690be7f99b410e6369faebd62d2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-f2fbdcca58e5536d081335f886589e4b]: Commencement: Sch. 2 para. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-f2fbdcca58e5536d081335f886589e4b]: Commencement: Sch. 2 para. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-577a0fb268d511cb25c652dfd55ae3d9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-577a0fb268d511cb25c652dfd55ae3d9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-316943271afa8bfbc89e3b183b02ccbb]: Commencement: Sch. 2 para. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-316943271afa8bfbc89e3b183b02ccbb]: Commencement: Sch. 2 para. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-9a47e915ae518fd86f6ee37e263c2ad7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-9a47e915ae518fd86f6ee37e263c2ad7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-c1435712b0fd0baac47620240c699140]: Commencement: Sch. 2 para. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-c1435712b0fd0baac47620240c699140]: Commencement: Sch. 2 para. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b4f403792461e4741efbcd8f00c2fbbe]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b4f403792461e4741efbcd8f00c2fbbe]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-17651e18439a8943fa08c28629e9e1e7]: Commencement: Sch. 2 para. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-17651e18439a8943fa08c28629e9e1e7]: Commencement: Sch. 2 para. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-cf814b62454c70a5aebc449854423044]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-cf814b62454c70a5aebc449854423044]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-8e7c77e08c73ff40f9a24664c2e3e29c]: Commencement: Sch. 2 para. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-8e7c77e08c73ff40f9a24664c2e3e29c]: Commencement: Sch. 2 para. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-a939c2ef72d6cf0915d239f60ef12438]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-a939c2ef72d6cf0915d239f60ef12438]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-4c4d2233db381bdf4104fec902aee2da]: Commencement: Sch. 2 para. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-4c4d2233db381bdf4104fec902aee2da]: Commencement: Sch. 2 para. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-5eaa34f19bd2ef61cafa7508d916ad10]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-5eaa34f19bd2ef61cafa7508d916ad10]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-9d3bfbe859820b75b1b0f2339c11b82d]: Commencement: Sch. 2 para. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-9d3bfbe859820b75b1b0f2339c11b82d]: Commencement: Sch. 2 para. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-67ddfe24b8343487f6fb6439dc097c75]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-67ddfe24b8343487f6fb6439dc097c75]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-99e55e4bf40d8a552c996b29bb1352e3]: Commencement: Sch. 2 para. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-99e55e4bf40d8a552c996b29bb1352e3]: Commencement: Sch. 2 para. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-9e038672a638f0de8a18775c3c7dc2ee]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-9e038672a638f0de8a18775c3c7dc2ee]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-96d80147047f1b7a02d865a38d032a62]: Commencement: Sch. 2 para. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-96d80147047f1b7a02d865a38d032a62]: Commencement: Sch. 2 para. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-97333441a48a0aba250b47f4c818a1f7]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-97333441a48a0aba250b47f4c818a1f7]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/16) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-07a513458d803bf98cb85ad42a2af747]: Commencement: Sch. 2 para. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-07a513458d803bf98cb85ad42a2af747]: Commencement: Sch. 2 para. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b88d987d5433ce4978bcd4b99284900a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b88d987d5433ce4978bcd4b99284900a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/17) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-0cbbce569f435a3dfc1b79bbb0ba7aef]: Commencement: Sch. 2 para. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-0cbbce569f435a3dfc1b79bbb0ba7aef]: Commencement: Sch. 2 para. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-0c3e7456673145ce6e92d51ecd2bf9ca]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-0c3e7456673145ce6e92d51ecd2bf9ca]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/18) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-e9841f7a3a7962aa2bc3126e176b440e]: Commencement: Sch. 2 para. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-e9841f7a3a7962aa2bc3126e176b440e]: Commencement: Sch. 2 para. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-bf5406a2167a349664baee2d3a56f903]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/19) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-bf5406a2167a349664baee2d3a56f903]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/19) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
-[^key-b2c7e75ad529cd34e08f97b18f93fa56]: Commencement: Sch. 2 para. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-b2c7e75ad529cd34e08f97b18f93fa56]: Commencement: Sch. 2 para. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-5786a79963b25b9e2d454061694cc8dc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/20) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-5786a79963b25b9e2d454061694cc8dc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2012/687/schedule/2/paragraph/20) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Organic Farming (England Rural Development Programme) Regulations 2003 (revoked)[^key-b897a35be579579d871272eec3b6612f]
+The Organic Farming (England Rural Development Programme) Regulations 2003 (revoked)[^c-b897a35be579579d871272eec3b6612f]
 
 Made
 
@@ -45,110 +45,110 @@ Coming into force
 
 30th May 2003
 
-[^key-b897a35be579579d871272eec3b6612f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b897a35be579579d871272eec3b6612f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-b897a35be579579d871272eec3b6612f]
+## 1. Title, application and commencement[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b897a35be579579d871272eec3b6612f]
+## 2. Interpretation[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications for grant[^key-b897a35be579579d871272eec3b6612f]
+## 3. Applications for grant[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Approval of application[^key-b897a35be579579d871272eec3b6612f]
+## 4. Approval of application[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Common conditions of eligibility[^key-b897a35be579579d871272eec3b6612f]
+## 5. Common conditions of eligibility[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Additional conditions of eligibility[^key-b897a35be579579d871272eec3b6612f]
+## 6. Additional conditions of eligibility[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Undertakings[^key-b897a35be579579d871272eec3b6612f]
+## 7. Undertakings[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amount of grant[^key-b897a35be579579d871272eec3b6612f]
+## 8. Amount of grant[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Claims for grant[^key-b897a35be579579d871272eec3b6612f]
+## 9. Claims for grant[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Conditions of grant[^key-b897a35be579579d871272eec3b6612f]
+## 10. Conditions of grant[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the England Rural Development Programme (Enforcement) Regulations2000/3044[^key-b897a35be579579d871272eec3b6612f]
+## 11. Amendment of the England Rural Development Programme (Enforcement) Regulations2000/3044[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation[^key-b897a35be579579d871272eec3b6612f]
+## 12. Revocation[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b897a35be579579d871272eec3b6612f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b897a35be579579d871272eec3b6612f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — OBLIGATIONS[^key-b897a35be579579d871272eec3b6612f]
+## SCHEDULE 1 — OBLIGATIONS[^c-b897a35be579579d871272eec3b6612f]
 
 Regulation 7(a)
 
-**1.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CALCULATION OF GRANT[^key-b897a35be579579d871272eec3b6612f]
+## SCHEDULE 2 — CALCULATION OF GRANT[^c-b897a35be579579d871272eec3b6612f]
 
 Regulation 8
 
-### PART 1 — Conversion grant[^key-b897a35be579579d871272eec3b6612f]
+### PART 1 — Conversion grant[^c-b897a35be579579d871272eec3b6612f]
 
-**1.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b897a35be579579d871272eec3b6612f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Training sum[^key-b897a35be579579d871272eec3b6612f]
+### PART 2 — Training sum[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Maintenance grant[^key-b897a35be579579d871272eec3b6612f]
+### PART 3 — Maintenance grant[^c-b897a35be579579d871272eec3b6612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b897a35be579579d871272eec3b6612f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b897a35be579579d871272eec3b6612f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b897a35be579579d871272eec3b6612f]: Textual amendment: Regulations revoked (2.4.2005) by [The Environmental Stewardship (England) Regulations 2005 (S.I. 2005/621)](https://www.legislation.gov.uk/uksi/2005/621), regs. 1, [10(1)](https://www.legislation.gov.uk/uksi/2005/621/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2005/621/regulation/10/2))
+[^c-b897a35be579579d871272eec3b6612f]: Textual amendment: Regulations revoked (2.4.2005) by [The Environmental Stewardship (England) Regulations 2005 (S.I. 2005/621)](https://www.legislation.gov.uk/uksi/2005/621), regs. 1, [10(1)](https://www.legislation.gov.uk/uksi/2005/621/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2005/621/regulation/10/2))

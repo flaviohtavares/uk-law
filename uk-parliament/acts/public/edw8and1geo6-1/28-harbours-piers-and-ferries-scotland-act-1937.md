@@ -117,7 +117,7 @@ The following provisions shall have effect as regards any marine work to which t
 - (d) Any person authorised by the Secretary of State for Scotland, and any officer of Customs and Excise, or of the Coastguard, or of the Board of Trade, or of the Secretary of State for Transport . . . [^c611029] being in the execution of his duty, and any person going to or returning from any lifeboat, or using any lifeboat or apparatus for saving life, and any person brought ashore from any vessel in distress, shall at all times have free ingress to and passage and egress on, along, through, and out of the marine work by land, and with their vessels and otherwise, without payment;
 - (e) Fishing vessels belonging to countries with which for the time being treaties exist exempting from dues and port charges such vessels when forced by stress of weather to seek shelter in the ports or on the coasts of the United Kingdom shall, when forced by stress of weather to make use of the marine work, and not breaking bulk while making such use, be exempt from any dues leviable in respect of the use of the marine work.
 
-### 10. Application of 10 & 11 Vict. c. 27, &c.[^c611045][^key-049209b05051ca39cb19c8a8c14efc52]
+### 10. Application of 10 & 11 Vict. c. 27, &c.[^c611045][^c-049209b05051ca39cb19c8a8c14efc52]
 
 (1) The [^c611046]Harbours, Docks, and Piers Clauses Act 1847, with the exception of sections six to thirteen, sixteen to nineteen, thirty, forty-seven, forty-nine, fifty, eighty-four, and eighty-five, shall, except in so far as the Secretary of State for Scotland[^c611047] may direct, apply to any marine work to which this Part of this Act applies in like manner as if the marine work had been constructed in pursuance of an Act incorporating those provisions, and for the purposes of the said provisions this Part of this Act shall be deemed to be the special Act and the authority in whom the marine work is vested shall be deemed to be the undertakers.
 
@@ -134,7 +134,7 @@ Provided that—
 
 (5) A local authority in whom a marine work to which this Part of this Act applies is vested shall, as soon as may be after receiving from the auditor, in pursuance of the section 101 of the[^c611057] [^c611058]Local Government (Scotland) Act 1973, the certified duplicate abstract of accounts, cause a copy thereof, so far as relating to the marine work, to be sent to the Secretary of State for Transport . . . [^c611060]
 
-### 11. Byelaws[^key-9d2c83aaa35c928e45156359bbfc686e]
+### 11. Byelaws[^c-9d2c83aaa35c928e45156359bbfc686e]
 
 (1)[^c611061] The purposes for which byelaws may be made under section eighty-three of the [^c611062]Harbours, Docks, and Piers Clauses Act 1847, as applied to a marine work by section ten of this Act, shall extend to the prevention of obstruction or injury to the marine work, so however that no estate, interest or right of a profitable or beneficial nature in, over, or affecting the marine work shall, except with the consent of the person entitled thereto, be taken away or injuriously affected by any such byelaw without compensation being made or provided for the same by the authority making the byelaw, and such compensation shall in case of difference be determined by an arbiter appointed, in default of agreement between the parties, by the Secretary of State for Scotland[^c611063].
 
@@ -267,7 +267,7 @@ The Secretary of State for Scotland[^c611109] may, by order, make such adaptatio
 - “**harbour authority**” means any person or body of persons (other than a local authority) authorised by or under any Act to carry on a harbour, or pier[^c611119] undertaking;
 - “**local authority**” means a council constituted under section 2 of the Local Government[^c611120] etc. (Scotland ) Act 1994 council, and includes any two or more such councils, who have combined for any of the purposes of this Act;
 - “[^c611121]**marine work**” means a marine work as defined in the [^c611122]Harbours Act 1964
-- “**owner**” includes any person holding under a [^key-5dfef9802d9e80914efc54ec73204318]... limited title;
+- “**owner**” includes any person holding under a [^c-5dfef9802d9e80914efc54ec73204318]... limited title;
 - “**seaplane**” includes a flying boat and any other aircraft designed to man^uvre on the water, and a seaplane taking off from, or alighting on, the water shall be deemed to be on the surface of the water while in contact therewith;
 - “**vessel**” shall include a seaplane when on the surface of the water.
 
@@ -375,7 +375,7 @@ The Trustees of the Harbour of Dundee.
 
     [S. 10](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/10) excluded (1.12.1993) by [S.I. 1993/2908](https://www.legislation.gov.uk/uksi/1993/2908), [art.34](https://www.legislation.gov.uk/uksi/1993/2908/article/34)
 
-[^key-049209b05051ca39cb19c8a8c14efc52]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/10) excluded (4.3.2021) by [The Eyemouth Harbour Revision Order 2021 (S.S.I. 2021/118)](https://www.legislation.gov.uk/ssi/2021/118), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/118/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/118/article/3/2) (with [arts. 36](https://www.legislation.gov.uk/ssi/2021/118/article/36), [37](https://www.legislation.gov.uk/ssi/2021/118/article/37))
+[^c-049209b05051ca39cb19c8a8c14efc52]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/10) excluded (4.3.2021) by [The Eyemouth Harbour Revision Order 2021 (S.S.I. 2021/118)](https://www.legislation.gov.uk/ssi/2021/118), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/118/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/118/article/3/2) (with [arts. 36](https://www.legislation.gov.uk/ssi/2021/118/article/36), [37](https://www.legislation.gov.uk/ssi/2021/118/article/37))
 
 [^c611046]: Marginal citation: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -397,7 +397,7 @@ The Trustees of the Harbour of Dundee.
 
 [^c611060]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-9d2c83aaa35c928e45156359bbfc686e]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/11) restricted (21.9.2019) by [The Caledonian Maritime Assets (East Loch Tarbert) Harbour Revision Order 2019 (S.S.I. 2019/296)](https://www.legislation.gov.uk/ssi/2019/296), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/296/article/1/1), [25(4)(b)](https://www.legislation.gov.uk/ssi/2019/296/article/25/4/b) (with [arts. 48](https://www.legislation.gov.uk/ssi/2019/296/article/48), [49](https://www.legislation.gov.uk/ssi/2019/296/article/49))
+[^c-9d2c83aaa35c928e45156359bbfc686e]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/11) restricted (21.9.2019) by [The Caledonian Maritime Assets (East Loch Tarbert) Harbour Revision Order 2019 (S.S.I. 2019/296)](https://www.legislation.gov.uk/ssi/2019/296), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/296/article/1/1), [25(4)(b)](https://www.legislation.gov.uk/ssi/2019/296/article/25/4/b) (with [arts. 48](https://www.legislation.gov.uk/ssi/2019/296/article/48), [49](https://www.legislation.gov.uk/ssi/2019/296/article/49))
 
 [^c611061]: Modification: [S. 11(1)(2)(3)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/11/1/2/3) modified (1.8.1995) by [S.I. 1995/2007](https://www.legislation.gov.uk/uksi/1995/2007) arts. 4(1)(a)-(c), 5
 
@@ -461,7 +461,7 @@ The Trustees of the Harbour of Dundee.
 
 [^c611122]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-5dfef9802d9e80914efc54ec73204318]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/31/1) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-5dfef9802d9e80914efc54ec73204318]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/28/section/31/1) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c611123]: Marginal citation: [1909 c. 47](https://www.legislation.gov.uk/ukpga/1909/47).
 

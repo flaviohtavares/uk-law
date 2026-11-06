@@ -22,9 +22,9 @@ summary: ''
 
 Section 305
 
-**1.**[^key-4fadf75c5939cc80383052a1c4cb50fd] In section 13 of the Nuclear installations Act 1965 (“**the 1965 Act**”) (exclusion, extension or reduction of compensation in certain cases), in subsection (5A), after “(1ZA),” insert “(1ZAA),”.
+**1.**[^c-4fadf75c5939cc80383052a1c4cb50fd] In section 13 of the Nuclear installations Act 1965 (“**the 1965 Act**”) (exclusion, extension or reduction of compensation in certain cases), in subsection (5A), after “(1ZA),” insert “(1ZAA),”.
 
-**2.**[^key-44a8b7a1fc8049847295d8533e65d1d5] (1) Section 16 of the 1965 Act (satisfaction of claims) is amended as follows.
+**2.**[^c-44a8b7a1fc8049847295d8533e65d1d5] (1) Section 16 of the 1965 Act (satisfaction of claims) is amended as follows.
 
 (2) In subsection (1ZA) after “or 9” insert “, other than CSC-only claims,”.
 
@@ -61,9 +61,9 @@ Section 305
 - (a) in paragraph (b)(i) and (ii) after “subsection (1ZA)” insert “, (1ZAA),”, and
 - (b) in paragraph (b)(iii) after “subsection (3B)” insert “, (3BA), (3BB), (3BC), (3BD), (3BE)”.
 
-**3.**[^key-d9b43d7b098b316d1432fb000d50141e] In section 16A of the 1965 Act (section 16: supplementary), in subsection (7)(b) for “section 18(1A)” substitute “section 16(3BA)”.   
+**3.**[^c-d9b43d7b098b316d1432fb000d50141e] In section 16A of the 1965 Act (section 16: supplementary), in subsection (7)(b) for “section 18(1A)” substitute “section 16(3BA)”.   
 
-**4.**[^key-54a59802356e9ab00473245c5a3b43d6] After section 16A of the 1965 Act insert—
+**4.**[^c-54a59802356e9ab00473245c5a3b43d6] After section 16A of the 1965 Act insert—
 
 > **16AA. Section 16: CSC-related definitions**
 >
@@ -133,9 +133,9 @@ Section 305
 >
 > (10) A reference in this section to a national of the United Kingdom is to be construed in accordance with section 16A(8).
 
-**5.**[^key-27bfbd8192544b93345c61e05accd702] In section 17 of 1965 Act (jurisdiction, shared liability and foreign judgments), in subsection (3B)(a) and (b) after “section 16(1ZA)” insert “, (1ZAA)”.
+**5.**[^c-27bfbd8192544b93345c61e05accd702] In section 17 of 1965 Act (jurisdiction, shared liability and foreign judgments), in subsection (3B)(a) and (b) after “section 16(1ZA)” insert “, (1ZAA)”.
 
-**6.**[^key-50065a7e7217b274962204b09dc47df5] (1) Section 18 of the 1965 Act (general cover for compensation) is amended as follows.
+**6.**[^c-50065a7e7217b274962204b09dc47df5] (1) Section 18 of the 1965 Act (general cover for compensation) is amended as follows.
 
 (2) In subsection (1A) for “1,500 million euros” substitute “the aggregate of 1,500 million euros and the value of the CSC international pooled funds”.
 
@@ -146,7 +146,7 @@ Section 305
 
 (4) In subsection (4B)(b) after “section 16(1ZA)” insert “or, where relevant, (1ZAA)”.
 
-**7.**[^key-63eda345990cfff63045f0dd15e9dffa] After section 25B of the 1965 Act (amounts in euros) insert—
+**7.**[^c-63eda345990cfff63045f0dd15e9dffa] After section 25B of the 1965 Act (amounts in euros) insert—
 
 > **25C. Special drawing rights**
 >
@@ -166,7 +166,7 @@ Section 305
 >
 > (4) Any fee received by the Treasury by virtue of subsection (3) is to be paid into the Consolidated Fund.
 
-**8.**[^key-777e5702bcaa7121f72692cbdc698f28] (1) Section 26 of the 1965 Act (interpretation) is amended as follows.
+**8.**[^c-777e5702bcaa7121f72692cbdc698f28] (1) Section 26 of the 1965 Act (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -205,18 +205,18 @@ Section 305
 
 ## Annotations
 
-[^key-4fadf75c5939cc80383052a1c4cb50fd]: Commencement: Sch. 22 para. 1 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-4fadf75c5939cc80383052a1c4cb50fd]: Commencement: Sch. 22 para. 1 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-44a8b7a1fc8049847295d8533e65d1d5]: Commencement: Sch. 22 para. 2 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-44a8b7a1fc8049847295d8533e65d1d5]: Commencement: Sch. 22 para. 2 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-d9b43d7b098b316d1432fb000d50141e]: Commencement: Sch. 22 para. 3 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-d9b43d7b098b316d1432fb000d50141e]: Commencement: Sch. 22 para. 3 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-54a59802356e9ab00473245c5a3b43d6]: Commencement: Sch. 22 para. 4 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-54a59802356e9ab00473245c5a3b43d6]: Commencement: Sch. 22 para. 4 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-27bfbd8192544b93345c61e05accd702]: Commencement: Sch. 22 para. 5 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-27bfbd8192544b93345c61e05accd702]: Commencement: Sch. 22 para. 5 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-50065a7e7217b274962204b09dc47df5]: Commencement: Sch. 22 para. 6 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-50065a7e7217b274962204b09dc47df5]: Commencement: Sch. 22 para. 6 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-63eda345990cfff63045f0dd15e9dffa]: Commencement: Sch. 22 para. 7 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-63eda345990cfff63045f0dd15e9dffa]: Commencement: Sch. 22 para. 7 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
 
-[^key-777e5702bcaa7121f72692cbdc698f28]: Commencement: Sch. 22 para. 8 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-777e5702bcaa7121f72692cbdc698f28]: Commencement: Sch. 22 para. 8 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)

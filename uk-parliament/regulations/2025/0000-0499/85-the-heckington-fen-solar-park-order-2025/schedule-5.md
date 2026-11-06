@@ -22,7 +22,7 @@ summary: ''
 
 Article 9 and Article 10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT OF STREETS[^key-b997458ed6e7ddf2e5ff683375d89799]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT OF STREETS[^c-b997458ed6e7ddf2e5ff683375d89799]
 
 | *(1)*<br>*District in which street is located* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Article 9 and Article 10
 | Boston Borough Council | Vicarage Drove | Works for the provision of a permanent means of access to the authorised development from the west side of Vicarage Drove, at point CR/P and the area shown hatched in pink on sheet 12 of the streets and access plan (document reference 2.7). |
 | Boston Borough Council | Vicarage Drove/Private Track | Works for the provision of a permanent means of access to the authorised development from the north side of Vicarage Drove, at point CR/Q and the area shown hatched in pink on sheet 12 of the streets and access plan (document reference 2.7). |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT OF STREETS[^key-0721c22b3832eb2d1ad1257590de96b8]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT OF STREETS[^c-0721c22b3832eb2d1ad1257590de96b8]
 
 | *(1)*<br>*District in which street is located* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -52,6 +52,6 @@ Article 9 and Article 10
 
 ## Annotations
 
-[^key-b997458ed6e7ddf2e5ff683375d89799]: Commencement: Sch. 5 Pt. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-b997458ed6e7ddf2e5ff683375d89799]: Commencement: Sch. 5 Pt. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-0721c22b3832eb2d1ad1257590de96b8]: Commencement: Sch. 5 Pt. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-0721c22b3832eb2d1ad1257590de96b8]: Commencement: Sch. 5 Pt. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

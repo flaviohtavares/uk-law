@@ -42,7 +42,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 #### Content of guidelines
 
-##### 1. Guidelines as to policies on school uniforms[^key-abc92af5ea210761dd4722b4230479fd]
+##### 1. Guidelines as to policies on school uniforms[^c-abc92af5ea210761dd4722b4230479fd]
 
 (1) The Department of Education—
 
@@ -68,7 +68,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Nothing in the rest of this Chapter limits what the Department may put into guidelines about such policies.
 
-##### 2. Particular matters for inclusion in guidelines[^key-46ade54076da8158235e21f512014e8c]
+##### 2. Particular matters for inclusion in guidelines[^c-46ade54076da8158235e21f512014e8c]
 
 (1) Guidelines under this Chapter must include provision addressing unfair costs aspects of school uniform policies.
 
@@ -91,7 +91,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
   - (ii) items or sets of clothing of specific styles, or
 - (c) different items or sets of clothing for different activities or occasions.
 
-##### 3. Clothing supplier agreements in guidelines[^key-396af2238b2e15d479ac229c5c0177bd]
+##### 3. Clothing supplier agreements in guidelines[^c-396af2238b2e15d479ac229c5c0177bd]
 
 (1) Guidelines under this Chapter must include provision—
 
@@ -105,7 +105,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 - (a) an agreement is an agreement (whether contractual or otherwise) entered into in the name of or on behalf of the school, and
 - (b) a pre-commencement agreement is an agreement so entered into before this section comes into operation.
 
-##### 4. Express limit on specific styles by guidelines[^key-08a13bea4cbfeff12d9349daefabe3f6]
+##### 4. Express limit on specific styles by guidelines[^c-08a13bea4cbfeff12d9349daefabe3f6]
 
 Guidelines under this Chapter may include provision regulating (or restricting) numbers of—
 
@@ -114,7 +114,7 @@ Guidelines under this Chapter may include provision regulating (or restricting) 
 
 which school uniform policies are permitted to require, by reference to specific styles, to be worn by pupils.
 
-##### 5. Capping of expense as something for guidelines[^key-a1fb0952a569980cee64d6176102fcb5]
+##### 5. Capping of expense as something for guidelines[^c-a1fb0952a569980cee64d6176102fcb5]
 
 **Not yet in force.**
 
@@ -125,7 +125,7 @@ Guidelines under this Chapter may include provision—
   - (ii) all items or sets of clothing needed by individual pupils, and
 - (b) containing a statement to the effect that school uniform policies are to be designed so as not to envisage or give rise to expenditure which exceeds such amounts as (in each instance) so fixed.
 
-##### 6. Variety of schools and pupils under guidelines[^key-c0a5a2e64baa9487c136d8651603cea2]
+##### 6. Variety of schools and pupils under guidelines[^c-c0a5a2e64baa9487c136d8651603cea2]
 
 Guidelines under this Chapter may include provision—
 
@@ -142,7 +142,7 @@ Guidelines under this Chapter may include provision—
 
 #### Adherence to guidelines
 
-##### 7. Duty of schools to adhere to guidelines[^key-4f762571259cbcf4dfc8ae800dc4fcfa]
+##### 7. Duty of schools to adhere to guidelines[^c-4f762571259cbcf4dfc8ae800dc4fcfa]
 
 (1) A manager of a school must adhere (and ensure adherence by staff at the school) to guidelines under this Chapter, so far as relevant in connection with the school and the school’s pupils—
 
@@ -154,7 +154,7 @@ Guidelines under this Chapter may include provision—
 - (a) the policy, and
 - (b) whatever associated or additional explanation or information is required to be presented too.
 
-##### 8. Directions on adherence to guidelines[^key-6956200ba39f98f09af1eec07c09692f]
+##### 8. Directions on adherence to guidelines[^c-6956200ba39f98f09af1eec07c09692f]
 
 (1) The Department must give directions to a manager of a school as follows if the Department is satisfied that the manager is (or staff at the school are) in one or more material respects failing to adhere as required to guidelines under this Chapter.
 
@@ -195,7 +195,7 @@ create the same duty in every case, and are enforceable in every case in the sam
 
 #### Definitions as to guidelines
 
-##### 9. Meaning of unfair costs aspects[^key-bd00414dd167dd87c19b2b597dfe26d7]
+##### 9. Meaning of unfair costs aspects[^c-bd00414dd167dd87c19b2b597dfe26d7]
 
 (1) The reference in this Chapter to unfair costs aspects of school uniform policies is to any aspects of school uniform policies which, in the Department’s view, could in any way raise questions as to—
 
@@ -209,7 +209,7 @@ create the same duty in every case, and are enforceable in every case in the sam
 - (a) significantly higher costs of school uniforms comprising clothing of specific styles (chiefly as compared to such uniforms comprising more generic styles), and
 - (b) widespread problems as to non-affordability of school uniforms to lower income households (including in light of the sorts of financial constraints that are commonly understood to prevail in such households).
 
-##### 10. Meaning of clothing and styles[^key-a8d1b32fb915dff583e178409f2d4b8c]
+##### 10. Meaning of clothing and styles[^c-a8d1b32fb915dff583e178409f2d4b8c]
 
 In this Chapter—
 
@@ -218,7 +218,7 @@ In this Chapter—
   - (i) of particular makes or brands (or having particular logos), or
   - (ii) of unique combinations, colours or fabrics (or with unique badges, emblems or markings).
 
-##### 11. Schools and related expressions[^key-ae7a7f32126d46c316b6c224288f8e51]
+##### 11. Schools and related expressions[^c-ae7a7f32126d46c316b6c224288f8e51]
 
 (1) For the purposes of this Chapter—
 
@@ -233,13 +233,13 @@ In this Chapter—
 - (a) a reference in this section to a grant-aided school or an independent school, and
 - (b) the references in this Chapter to primary education and to secondary education.
 
-##### 12. References to the Department[^key-8c71dc55ab1fa6d99536bea26e17208c]
+##### 12. References to the Department[^c-8c71dc55ab1fa6d99536bea26e17208c]
 
 In this Chapter, “the Department” is the Department of Education.
 
 ### Chapter 2 — Nursery ages within guidelines
 
-#### 13. No application to children below compulsory school age[^key-a03a1823dbd0d00e5a965712aa2f89a4]
+#### 13. No application to children below compulsory school age[^c-a03a1823dbd0d00e5a965712aa2f89a4]
 
 (1) By virtue of this section—
 
@@ -252,7 +252,7 @@ with respect to children who are under compulsory school age.
 
 (3) This section is subject to regulations made under this Chapter (for which see the next section).
 
-#### 14. Power to extend application to pre-school education[^key-ecc32df963f46b2bd83982e17e2b2064]
+#### 14. Power to extend application to pre-school education[^c-ecc32df963f46b2bd83982e17e2b2064]
 
 (1) The Department of Education may make regulations which, despite the previous section—
 
@@ -277,11 +277,11 @@ as each of these elements is informed by the meaning of compulsory school age me
 
 ### Chapter 3 — Laying and reporting formalities
 
-#### 15. Laying of guidelines[^key-30da6ea1f77081ca7838b68a1f46d918]
+#### 15. Laying of guidelines[^c-30da6ea1f77081ca7838b68a1f46d918]
 
 Guidelines under Chapter 1 must be laid before the Assembly by the Department of Education as soon as practicable after issuing or reissuing them.
 
-#### 16. Reporting on guidelines and costs[^key-12b3e3eba01d64c9ebdc77d8906d193d]
+#### 16. Reporting on guidelines and costs[^c-12b3e3eba01d64c9ebdc77d8906d193d]
 
 (1) At least once every 3 years, the Department of Education must publish a report—
 
@@ -308,7 +308,7 @@ Guidelines under Chapter 1 must be laid before the Assembly by the Department of
 
 ## Part 2 — School clothing allowances
 
-### 17. Extension of Article 60(1) of the 1986 Order[^key-68aabf2b7516dfc8c12376a1703905df]
+### 17. Extension of Article 60(1) of the 1986 Order[^c-68aabf2b7516dfc8c12376a1703905df]
 
 In the Education and Libraries (Northern Ireland) Order 1986—
 
@@ -317,52 +317,52 @@ In the Education and Libraries (Northern Ireland) Order 1986—
 
 ## Part 3 — Commencement and short title
 
-### 18. Commencement[^key-e5b702d4591f6b6e959f2a90c4c47e77]
+### 18. Commencement[^c-e5b702d4591f6b6e959f2a90c4c47e77]
 
 (1) Section 5 comes into operation on such day or days as the Department of Education may by order appoint.
 
 (2) The rest of this Act comes into operation on the day after the day of Royal Assent.
 
-### 19. Short title[^key-b90a1158c5e51e35536cbfb2e0c35825]
+### 19. Short title[^c-b90a1158c5e51e35536cbfb2e0c35825]
 
 This Act may be cited as the School Uniforms (Guidelines and Allowances) Act (Northern Ireland) 2026.
 
 ## Annotations
 
-[^key-abc92af5ea210761dd4722b4230479fd]: Commencement: S. 1 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-abc92af5ea210761dd4722b4230479fd]: Commencement: S. 1 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-46ade54076da8158235e21f512014e8c]: Commencement: S. 2 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-46ade54076da8158235e21f512014e8c]: Commencement: S. 2 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-396af2238b2e15d479ac229c5c0177bd]: Commencement: S. 3 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-396af2238b2e15d479ac229c5c0177bd]: Commencement: S. 3 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-08a13bea4cbfeff12d9349daefabe3f6]: Commencement: S. 4 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-08a13bea4cbfeff12d9349daefabe3f6]: Commencement: S. 4 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-a1fb0952a569980cee64d6176102fcb5]: Commencement: S. 5 not in operation at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/nia/2026/1/section/18/1)
+[^c-a1fb0952a569980cee64d6176102fcb5]: Commencement: S. 5 not in operation at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/nia/2026/1/section/18/1)
 
-[^key-c0a5a2e64baa9487c136d8651603cea2]: Commencement: S. 6 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-c0a5a2e64baa9487c136d8651603cea2]: Commencement: S. 6 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-4f762571259cbcf4dfc8ae800dc4fcfa]: Commencement: S. 7 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-4f762571259cbcf4dfc8ae800dc4fcfa]: Commencement: S. 7 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-6956200ba39f98f09af1eec07c09692f]: Commencement: S. 8 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-6956200ba39f98f09af1eec07c09692f]: Commencement: S. 8 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-bd00414dd167dd87c19b2b597dfe26d7]: Commencement: S. 9 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-bd00414dd167dd87c19b2b597dfe26d7]: Commencement: S. 9 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-a8d1b32fb915dff583e178409f2d4b8c]: Commencement: S. 10 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-a8d1b32fb915dff583e178409f2d4b8c]: Commencement: S. 10 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-ae7a7f32126d46c316b6c224288f8e51]: Commencement: S. 11 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-ae7a7f32126d46c316b6c224288f8e51]: Commencement: S. 11 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-8c71dc55ab1fa6d99536bea26e17208c]: Commencement: S. 12 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-8c71dc55ab1fa6d99536bea26e17208c]: Commencement: S. 12 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-a03a1823dbd0d00e5a965712aa2f89a4]: Commencement: S. 13 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-a03a1823dbd0d00e5a965712aa2f89a4]: Commencement: S. 13 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-ecc32df963f46b2bd83982e17e2b2064]: Commencement: S. 14 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-ecc32df963f46b2bd83982e17e2b2064]: Commencement: S. 14 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-30da6ea1f77081ca7838b68a1f46d918]: Commencement: S. 15 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-30da6ea1f77081ca7838b68a1f46d918]: Commencement: S. 15 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-12b3e3eba01d64c9ebdc77d8906d193d]: Commencement: S. 16 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-12b3e3eba01d64c9ebdc77d8906d193d]: Commencement: S. 16 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-68aabf2b7516dfc8c12376a1703905df]: Commencement: S. 17 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-68aabf2b7516dfc8c12376a1703905df]: Commencement: S. 17 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-e5b702d4591f6b6e959f2a90c4c47e77]: Commencement: S. 18 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-e5b702d4591f6b6e959f2a90c4c47e77]: Commencement: S. 18 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
 
-[^key-b90a1158c5e51e35536cbfb2e0c35825]: Commencement: S. 19 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)
+[^c-b90a1158c5e51e35536cbfb2e0c35825]: Commencement: S. 19 in operation at 20.2.2026, see [s. 18(2)](https://www.legislation.gov.uk/nia/2026/1/section/18/2)

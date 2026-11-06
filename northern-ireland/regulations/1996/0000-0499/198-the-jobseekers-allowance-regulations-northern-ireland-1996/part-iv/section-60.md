@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Young persons at the end of the child benefit extension period[^key-7a8549fe6c7ca1e35bf1885cc946f5b1]
+## 60. Young persons at the end of the child benefit extension period[^c-7a8549fe6c7ca1e35bf1885cc946f5b1]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a8549fe6c7ca1e35bf1885cc946f5b1]: Commencement: Reg. 60 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7a8549fe6c7ca1e35bf1885cc946f5b1]: Commencement: Reg. 60 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00056]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 

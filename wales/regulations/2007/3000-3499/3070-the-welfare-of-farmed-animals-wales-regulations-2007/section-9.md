@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Penalties[^key-73fae2345f7cd36d13a4781306b88e7a]
+## 9. Penalties[^c-73fae2345f7cd36d13a4781306b88e7a]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73fae2345f7cd36d13a4781306b88e7a]: Commencement: Reg. 9 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-73fae2345f7cd36d13a4781306b88e7a]: Commencement: Reg. 9 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
 [^f00011]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

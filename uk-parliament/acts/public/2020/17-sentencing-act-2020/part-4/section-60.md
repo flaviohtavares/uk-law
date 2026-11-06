@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Sentencing guidelines: determination of sentence[^key-3106cc33644f5f86ab1d1817102125b0]
+## 60. Sentencing guidelines: determination of sentence[^c-3106cc33644f5f86ab1d1817102125b0]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3106cc33644f5f86ab1d1817102125b0]: Commencement: S. 60 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3106cc33644f5f86ab1d1817102125b0]: Commencement: S. 60 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

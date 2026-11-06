@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Operators of areas[^key-17aa4a8f501b1193c579bbaddfa550c3]
+## 9. Operators of areas[^c-17aa4a8f501b1193c579bbaddfa550c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17aa4a8f501b1193c579bbaddfa550c3]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/19/section/9) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-17aa4a8f501b1193c579bbaddfa550c3]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/19/section/9) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

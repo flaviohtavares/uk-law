@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202B. Restriction on relief for payments to community amateur sports clubs[^key-2840e03ba3c9bc273c138e13c8577f91]
+## 202B. Restriction on relief for payments to community amateur sports clubs[^c-2840e03ba3c9bc273c138e13c8577f91]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ and any reference to a member of the club includes a reference to a person conne
 
 ## Annotations
 
-[^key-2840e03ba3c9bc273c138e13c8577f91]: Textual amendment: [Pt. 6 Ch. 2A](https://www.legislation.gov.uk/ukpga/2010/4/part/6/chapter/2A) inserted (with effect in accordance with s. 35(13)-(15) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/7)
+[^c-2840e03ba3c9bc273c138e13c8577f91]: Textual amendment: [Pt. 6 Ch. 2A](https://www.legislation.gov.uk/ukpga/2010/4/part/6/chapter/2A) inserted (with effect in accordance with s. 35(13)-(15) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/7)

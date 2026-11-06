@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 17 — NEW SCHEDULE 26 TO BE INSERTED INTO THE 2018 REGULATIONS[^key-6790e2ce81e517c71e231195cad07f50][^key-9356ee3372f4d261cae59504f87327bd]
+## SCHEDULE 17 — NEW SCHEDULE 26 TO BE INSERTED INTO THE 2018 REGULATIONS[^c-6790e2ce81e517c71e231195cad07f50][^c-9356ee3372f4d261cae59504f87327bd]
 
 *Extent: S*
 
@@ -485,9 +485,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-6790e2ce81e517c71e231195cad07f50]: Commencement: [Sch. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/17) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-6790e2ce81e517c71e231195cad07f50]: Commencement: [Sch. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/17) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-9356ee3372f4d261cae59504f87327bd]: Commencement: [Sch. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/17) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-9356ee3372f4d261cae59504f87327bd]: Commencement: [Sch. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/17) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00084]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 135 was relevantly amended by the Registered Establishments (Scotland) Act [1987 (c. 4)](https://www.legislation.gov.uk/ukpga/1987/4), section 2(2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Social landlords: delivery of notices etc.[^key-ea427a85912ffc6d80ce86dcfd5f01cf][^key-7ded0a06c192485594cf1ceeb637bc6d]
+## 50. Social landlords: delivery of notices etc.[^c-ea427a85912ffc6d80ce86dcfd5f01cf][^c-7ded0a06c192485594cf1ceeb637bc6d]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea427a85912ffc6d80ce86dcfd5f01cf]: Commencement: S. 50 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-ea427a85912ffc6d80ce86dcfd5f01cf]: Commencement: S. 50 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-7ded0a06c192485594cf1ceeb637bc6d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2025/13/section/50) in force at 1.8.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/2)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/2)
+[^c-7ded0a06c192485594cf1ceeb637bc6d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2025/13/section/50) in force at 1.8.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/2)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Absent vote at a particular Scottish parliamentary election and special lists[^key-3fd31aec8bb277526e82a63d1511af6a]
+## 9. Absent vote at a particular Scottish parliamentary election and special lists[^c-3fd31aec8bb277526e82a63d1511af6a]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ if that person is shown in the record so kept as voting by post and the ERO shal
 
 ## Annotations
 
-[^key-3fd31aec8bb277526e82a63d1511af6a]: Commencement: Art. 9 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-3fd31aec8bb277526e82a63d1511af6a]: Commencement: Art. 9 in force at 16.12.2015 in accordance with art. 1(1)

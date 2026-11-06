@@ -30,11 +30,11 @@ Section 20
 
 **2.** (1) Chapter 2 (relief for SMEs: cost of R&D incurred by SME) is amended as follows.
 
-(2)[^key-79835123d1ee0b6f029dc7bb84f7c445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-79835123d1ee0b6f029dc7bb84f7c445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-79835123d1ee0b6f029dc7bb84f7c445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-79835123d1ee0b6f029dc7bb84f7c445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-79835123d1ee0b6f029dc7bb84f7c445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-79835123d1ee0b6f029dc7bb84f7c445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 1058 (amount of tax credit), in subsection (1)(a), for “12.5%” substitute “ 11% ”.
 
@@ -80,7 +80,7 @@ Section 20
 
 (3) Omit section 1075 (R&D threshold).
 
-**7.**[^key-32fd1c33c58e3d3952a1e78cea95aebf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-32fd1c33c58e3d3952a1e78cea95aebf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In consequence of the amendments made by paragraphs 3 to 7, in Schedule 4 to CTA 2009 omit each of the entries for “R&D threshold”.
 
@@ -128,11 +128,11 @@ Section 20
 > - (a) it is in liquidation within the meaning of section 247 of that Act or Article 6 of that Order, or
 > - (b) a corresponding situation under the law of a country or territory outside the United Kingdom exists in relation to the company.
 
-**12.**[^key-3c565158b5b8f947d9bfb77e5e87b1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3c565158b5b8f947d9bfb77e5e87b1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-3c565158b5b8f947d9bfb77e5e87b1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3c565158b5b8f947d9bfb77e5e87b1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-3c565158b5b8f947d9bfb77e5e87b1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3c565158b5b8f947d9bfb77e5e87b1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Removal of limit on amount of tax credit based on PAYE and NIC liabilities
 
@@ -146,44 +146,44 @@ Section 20
 
 **16.** (1) Section 1039 (overview of Part 13) is amended as follows.
 
-(2)[^key-101e52184ca233b31a1d0eae41ac2ca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-101e52184ca233b31a1d0eae41ac2ca0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (7)—
 
 - (a) for “Chapters 2 and 7 also provide” substitute “ Chapter 2 also provides ”, and
 - (b) in paragraph (a), omit “or 7”.
 
-**17.**[^key-d76bea85bc971409d28995d87364e264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-d76bea85bc971409d28995d87364e264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** In section 1046 (relief only available where company is going concern), in subsection (2)(b), omit “or Chapter 7”.
 
 **19.** In section 1057 (tax credit only available where company is going concern), in subsection (4)(b), omit “or Chapter 7”.
 
-**20.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-f8a20faf7cee001e8e5352fd9757f247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.** (1) Chapter 8 (cap on aid for R&D) is amended as follows.
 
-(2)[^key-7bb9fe1f303304803b501c73faa274f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7bb9fe1f303304803b501c73faa274f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 1115 (“the tax credits”), in subsection (1), omit “or 7”.
 
@@ -262,16 +262,16 @@ Section 20
 
 ## Annotations
 
-[^key-79835123d1ee0b6f029dc7bb84f7c445]: Textual amendment: Sch. 3 para. 2(2)-(4) omitted (with effect in accordance with s. 27(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 27(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/27/4)
+[^c-79835123d1ee0b6f029dc7bb84f7c445]: Textual amendment: Sch. 3 para. 2(2)-(4) omitted (with effect in accordance with s. 27(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 27(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/27/4)
 
-[^key-32fd1c33c58e3d3952a1e78cea95aebf]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/7) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
+[^c-32fd1c33c58e3d3952a1e78cea95aebf]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/7) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
 
-[^key-3c565158b5b8f947d9bfb77e5e87b1ce]: Textual amendment: [Sch. 3 paras. 12-14](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/12) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
+[^c-3c565158b5b8f947d9bfb77e5e87b1ce]: Textual amendment: [Sch. 3 paras. 12-14](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/12) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
 
-[^key-101e52184ca233b31a1d0eae41ac2ca0]: Textual amendment: [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/16/2) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
+[^c-101e52184ca233b31a1d0eae41ac2ca0]: Textual amendment: [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/16/2) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
 
-[^key-d76bea85bc971409d28995d87364e264]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/17) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
+[^c-d76bea85bc971409d28995d87364e264]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/17) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
 
-[^key-f8a20faf7cee001e8e5352fd9757f247]: Textual amendment: [Sch. 3 paras. 20-30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/20) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
+[^c-f8a20faf7cee001e8e5352fd9757f247]: Textual amendment: [Sch. 3 paras. 20-30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/20) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
 
-[^key-7bb9fe1f303304803b501c73faa274f3]: Textual amendment: [Sch. 3 para. 31(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/31/2) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)
+[^c-7bb9fe1f303304803b501c73faa274f3]: Textual amendment: [Sch. 3 para. 31(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/31/2) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(14)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/14/a)

@@ -54,13 +54,13 @@ In accordance with article 7 of the Department of Trade and Industry (Fees) Orde
 
 (2) In these Rules—
 
-- (a) “**the Act**” means the Patents Act 1977 and references to a section are references to a section of the Act; [^key-aac7f4b3c2367d898b7bc7ea71239430]...
-- (b) “**the 2007 Rules**” means the Patents Rules 2007;[^key-6e78ac103791d417dbfa91b3ea463bcb] [^key-d8de7ce693ab2978c692c7048a62515b]...
-- (c)[^key-d8de7ce693ab2978c692c7048a62515b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) “**the Act**” means the Patents Act 1977 and references to a section are references to a section of the Act; [^c-aac7f4b3c2367d898b7bc7ea71239430]...
+- (b) “**the 2007 Rules**” means the Patents Rules 2007;[^c-6e78ac103791d417dbfa91b3ea463bcb] [^c-d8de7ce693ab2978c692c7048a62515b]...
+- (c)[^c-d8de7ce693ab2978c692c7048a62515b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Use of a form
 
-(1) Except where any of rules 3 to[^key-125eeb3139b44eb7052fbeb4ffcc623a] 7[^key-5013700827631f593a5e563ee9654dd7] apply, the fees to be paid in respect of any matters arising under the Act are those specified in Schedule 1.
+(1) Except where any of rules 3 to[^c-125eeb3139b44eb7052fbeb4ffcc623a] 7[^c-5013700827631f593a5e563ee9654dd7] apply, the fees to be paid in respect of any matters arising under the Act are those specified in Schedule 1.
 
 (2) Where a form—
 
@@ -76,7 +76,7 @@ that form must be accompanied by the fee specified in respect of that matter.
 (1) The application fee is—
 
 - (a) in respect of an international application for a patent (UK), nil;
-- (b)[^key-c41dc3367d843716693d92dc6f190d42] [^key-483955ecb4400fabb1f1a41c31cb7dd5]... in respect of any other application for a patent, including an application treated as an application under the Act following a direction under section 81 (conversion of European patent applications)—
+- (b)[^c-c41dc3367d843716693d92dc6f190d42] [^c-483955ecb4400fabb1f1a41c31cb7dd5]... in respect of any other application for a patent, including an application treated as an application under the Act following a direction under section 81 (conversion of European patent applications)—
   - (i) which is filed in electronic form or using electronic communications in accordance with directions given under section 124A, specified in Table 1; and
   - (ii) which is filed otherwise than in the form referred to in subparagraph (i), specified in Table 2
 
@@ -84,38 +84,38 @@ that form must be accompanied by the fee specified in respect of that matter.
 
     |  |  |
     | --- | --- |
-    | Where the filing of the application is accompanied by the application fee | £75[^key-f96d27c8e187f5ab1e39a5d2c2a8fed4] |
+    | Where the filing of the application is accompanied by the application fee | £75[^c-f96d27c8e187f5ab1e39a5d2c2a8fed4] |
     | Where the filing of the application is not accompanied by the application fee | £95 |
 
     Table 2 *(Non-electronic filing)*
 
     |  |  |
     | --- | --- |
-    | Where the filing of the application is accompanied by the application fee | £120[^key-732c2481edfe9b67c6225192092c0fab] |
+    | Where the filing of the application is accompanied by the application fee | £120[^c-732c2481edfe9b67c6225192092c0fab] |
     | Where the filing of the application is not accompanied by the application fee | £150 |
 
-(2) The prescribed fee to begin the national phase of an international application for a patent (UK) is £40[^key-30e25057b8639ecee25bc3f1ae1dc44a].
+(2) The prescribed fee to begin the national phase of an international application for a patent (UK) is £40[^c-30e25057b8639ecee25bc3f1ae1dc44a].
 
-(3)[^key-4385660c02d08b4d8fd9d1ea5ef052c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4385660c02d08b4d8fd9d1ea5ef052c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Electronic filing fee reduction[^key-b8efed237e6861576849f3fdbec45d27]
+## 3A. Electronic filing fee reduction[^c-b8efed237e6861576849f3fdbec45d27]
 
-Where Form 9A or 10 is filed in electronic form or using electronic communications in accordance with directions given under section 124A, the fee specified in Schedule 1 in respect of a request for a search in accordance with rule 27 of the 2007 Rules or a request for a substantive examination in accordance with rule 28 of the 2007 Rules shall in each case be reduced by £40[^key-c10311979cbc26c41abe941a87513664].
+Where Form 9A or 10 is filed in electronic form or using electronic communications in accordance with directions given under section 124A, the fee specified in Schedule 1 in respect of a request for a search in accordance with rule 27 of the 2007 Rules or a request for a substantive examination in accordance with rule 28 of the 2007 Rules shall in each case be reduced by £40[^c-c10311979cbc26c41abe941a87513664].
 
-## 3B. Excess claims fee[^key-ed7476015f76449763d4da68d75af912]
+## 3B. Excess claims fee[^c-ed7476015f76449763d4da68d75af912]
 
-The fee specified in Schedule 1 in respect of a request for a search under section 17(1) in accordance with rule 27 of the 2007 Rules shall increase by £27[^key-0af4998b13658b211e2a882f7a584eda] for the 26th and each subsequent claim contained in the application.
+The fee specified in Schedule 1 in respect of a request for a search under section 17(1) in accordance with rule 27 of the 2007 Rules shall increase by £27[^c-0af4998b13658b211e2a882f7a584eda] for the 26th and each subsequent claim contained in the application.
 
 ## 3C. Excess pages fee
 
-The fee specified in Schedule 1 in respect of a request for a substantive examination of an application under section 18(1) in accordance with rule 28 of the 2007 Rules shall increase by £13[^key-7f4bd1094c8e9034732ed0bc7570b530] for the 36th and each subsequent page of the description contained in the application.
+The fee specified in Schedule 1 in respect of a request for a substantive examination of an application under section 18(1) in accordance with rule 28 of the 2007 Rules shall increase by £13[^c-7f4bd1094c8e9034732ed0bc7570b530] for the 36th and each subsequent page of the description contained in the application.
 
 ## 3D. Fee for the grant of a patent
 
 (1) Where rule 30A(1) of the 2007 Rules applies, the fee for the grant of a patent is the sum of the following amounts—
 
-- (a) £27[^key-950e8383b00c9f318b668ec11e931b8f] for each qualifying claim, and
-- (b) £13[^key-a54b01d3260ea3bb546f8a3edb1512c7] for each qualifying page.
+- (a) £27[^c-950e8383b00c9f318b668ec11e931b8f] for each qualifying claim, and
+- (b) £13[^c-a54b01d3260ea3bb546f8a3edb1512c7] for each qualifying page.
 
 (2) For the purposes of this rule—
 
@@ -137,11 +137,11 @@ The fee specified in Schedule 1 in respect of a request for a substantive examin
 
 ## 5. Additional fees for late renewal
 
-(1) [^key-c834b6587f1cc6842599f70e53fe5902]... The additional fees prescribed for late payment under section 25(4) are specified in Part 2 of Schedule 2.
+(1) [^c-c834b6587f1cc6842599f70e53fe5902]... The additional fees prescribed for late payment under section 25(4) are specified in Part 2 of Schedule 2.
 
 (2) Where payment is made before the end of the month indicated in the first column of that table, the fee to be paid is the amount specified in the second column.
 
-(3)[^key-18301d9a0a6e9e72ba50bdaeb9a5be94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18301d9a0a6e9e72ba50bdaeb9a5be94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Supplementary protection certificates
 
@@ -149,33 +149,33 @@ The fee specified in Schedule 1 in respect of a request for a substantive examin
 
 (2) Where the certificate expires during the period of one year beginning with—
 
-- (a) the start date, the fee is £800[^key-e9c272d0d57b35ae7fbf070574b85e46];
-- (b) the first anniversary of the start date, the fee is £1,740[^key-c7f1e065051735012e36c68261b10430];
-- (c) the second anniversary of the start date, the fee is £2,810[^key-8a5657214b427580f29866f765d620f3];
-- (d) the third anniversary of the start date, the fee is £4,010[^key-170178bb4b4cc78f9ee2d166917c4ba5]; or
-- (e) the fourth anniversary of the start date, the fee is £5,340[^key-b719fd42ce9874feaac453d4b4846cbc].
+- (a) the start date, the fee is £800[^c-e9c272d0d57b35ae7fbf070574b85e46];
+- (b) the first anniversary of the start date, the fee is £1,740[^c-c7f1e065051735012e36c68261b10430];
+- (c) the second anniversary of the start date, the fee is £2,810[^c-8a5657214b427580f29866f765d620f3];
+- (d) the third anniversary of the start date, the fee is £4,010[^c-170178bb4b4cc78f9ee2d166917c4ba5]; or
+- (e) the fourth anniversary of the start date, the fee is £5,340[^c-b719fd42ce9874feaac453d4b4846cbc].
 
 (3) The period in paragraph (2) shall be calculated without reference to any extension of the duration of a supplementary protection certificate under Article 13(3) of the Medicinal Products Regulation [^c19011301].
 
-(4) [^key-8d0280c3c0ad64282f9e714a2e33cf07]... The additional fee prescribed for the purposes of paragraph 5(b) of Schedule 4A to the Act (supplementary protection certificates) shall be half the prescribed fee.
+(4) [^c-8d0280c3c0ad64282f9e714a2e33cf07]... The additional fee prescribed for the purposes of paragraph 5(b) of Schedule 4A to the Act (supplementary protection certificates) shall be half the prescribed fee.
 
 (5) In this rule “start date” is the first day following the day on which the basic patent expires.
 
-(6)[^key-3bae2b96ed148688314033a3fb369422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3bae2b96ed148688314033a3fb369422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Other fees
 
-(1) The prescribed fee to publish a translation filed at the Patent Office under section 89A(3) or (5) (international and national phases of application) is £16[^key-61b2077947367a33ef019561466377b9].
+(1) The prescribed fee to publish a translation filed at the Patent Office under section 89A(3) or (5) (international and national phases of application) is £16[^c-61b2077947367a33ef019561466377b9].
 
 (2) The prescribed fee for an application to the comptroller for an order under the Evidence (Proceedings in Other Jurisdictions) Act 1975 [^c19011311] as applied by section 92(1) (obtaining evidence for proceedings under the European Patent Convention) is nil.
 
-(3) The fee to transmit an international application for a patent filed at the Patent Office to the International Bureau and the International Searching Authority is £100[^key-948a67d9889e38115297fcf294f20bae].
+(3) The fee to transmit an international application for a patent filed at the Patent Office to the International Bureau and the International Searching Authority is £100[^c-948a67d9889e38115297fcf294f20bae].
 
-(3A)[^key-344ba28568f1b79eb7692b198b6603ec] The fee to request restoration of the right of priority of an international application for a patent filed at the Patent Office in accordance with the Patent Co-operation Treaty is £200[^key-35c12a62a6fe5e95007bf62d9c84ea1e].
+(3A)[^c-344ba28568f1b79eb7692b198b6603ec] The fee to request restoration of the right of priority of an international application for a patent filed at the Patent Office in accordance with the Patent Co-operation Treaty is £200[^c-35c12a62a6fe5e95007bf62d9c84ea1e].
 
 (4) In paragraph (3) “**International Searching Authority**” has the same meaning as in the Patent Co-operation Treaty.
 
-## 8. Temporary fee reduction[^key-887022c23d4cbbb2c4ca814b690596dc]
+## 8. Temporary fee reduction[^c-887022c23d4cbbb2c4ca814b690596dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,17 +235,17 @@ Rule 2
 </tbody>
 </table>
 
-[^key-9db72d9691b53fe884639bd559be60e2][^key-4983055af90bd4e5bf58f02a0cf54da2][^c19011321]
+[^c-9db72d9691b53fe884639bd559be60e2][^c-4983055af90bd4e5bf58f02a0cf54da2][^c19011321]
 
 ## SCHEDULE 2 — RENEWAL FEES
 
 Rules 4 and 5
 
-### PART 1 — RENEWAL FEE[^key-00c7c655278f1eecc17f086c63af49dd]
+### PART 1 — RENEWAL FEE[^c-00c7c655278f1eecc17f086c63af49dd]
 
 | Anniversary of date of filing | Amount (£) |
 | --- | --- |
-| 4th | £90[^key-e6832b482f2bea3c267c943c72e7e54e] |
+| 4th | £90[^c-e6832b482f2bea3c267c943c72e7e54e] |
 | 5th | £120 |
 | 6th | £150 |
 | 7th | £170 |
@@ -267,7 +267,7 @@ Rules 4 and 5
 | *Month beginning after the expiry of the period for payment of the renewal fee* | *Amount of additional renewal fee**(£)* |
 | --- | --- |
 | 1st | 0 |
-| 2nd | £32[^key-1e9ee4f90e58509cd1c2a7e3400f6c5f] |
+| 2nd | £32[^c-1e9ee4f90e58509cd1c2a7e3400f6c5f] |
 | 3rd | £64 |
 | 4th | £96 |
 | 5th | £128 |
@@ -297,82 +297,82 @@ An impact assessment has been prepared and copies placed in the libraries of bot
 
 [^c19011281]: Marginal citation: SI 1988/93, amended by SI 1990/1473, which were made under section 102 of the [Finance (No 2) Act 1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51).
 
-[^key-aac7f4b3c2367d898b7bc7ea71239430]: Textual amendment: Word in [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2007/3292/rule/1/2/a) omitted (30.7.2020) by virtue of [The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/644)](https://www.legislation.gov.uk/uksi/2020/644), [rules 1](https://www.legislation.gov.uk/uksi/2020/644/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/644/rule/3/a)
+[^c-aac7f4b3c2367d898b7bc7ea71239430]: Textual amendment: Word in [rule 1(2)(a)](https://www.legislation.gov.uk/uksi/2007/3292/rule/1/2/a) omitted (30.7.2020) by virtue of [The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/644)](https://www.legislation.gov.uk/uksi/2020/644), [rules 1](https://www.legislation.gov.uk/uksi/2020/644/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/644/rule/3/a)
 
-[^key-6e78ac103791d417dbfa91b3ea463bcb]: Textual amendment: Words in [rule 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/1/2/b) substituted (30.7.2020) by [The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/644)](https://www.legislation.gov.uk/uksi/2020/644), [rules 1](https://www.legislation.gov.uk/uksi/2020/644/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/644/rule/3/b)
+[^c-6e78ac103791d417dbfa91b3ea463bcb]: Textual amendment: Words in [rule 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/1/2/b) substituted (30.7.2020) by [The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/644)](https://www.legislation.gov.uk/uksi/2020/644), [rules 1](https://www.legislation.gov.uk/uksi/2020/644/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/644/rule/3/b)
 
-[^key-d8de7ce693ab2978c692c7048a62515b]: Textual amendment: [Rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2007/3292/article/1/2/c) and word omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2026/183/rule/4)
+[^c-d8de7ce693ab2978c692c7048a62515b]: Textual amendment: [Rule 1(2)(c)](https://www.legislation.gov.uk/uksi/2007/3292/article/1/2/c) and word omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2026/183/rule/4)
 
-[^key-125eeb3139b44eb7052fbeb4ffcc623a]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2007/3292/rule/2/1) substituted (30.7.2020) by [The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/644)](https://www.legislation.gov.uk/uksi/2020/644), [rules 1](https://www.legislation.gov.uk/uksi/2020/644/rule/1), [4](https://www.legislation.gov.uk/uksi/2020/644/rule/4)
+[^c-125eeb3139b44eb7052fbeb4ffcc623a]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2007/3292/rule/2/1) substituted (30.7.2020) by [The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/644)](https://www.legislation.gov.uk/uksi/2020/644), [rules 1](https://www.legislation.gov.uk/uksi/2020/644/rule/1), [4](https://www.legislation.gov.uk/uksi/2020/644/rule/4)
 
-[^key-5013700827631f593a5e563ee9654dd7]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/uksi/2007/3292/article/2/1) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2026/183/rule/5)
+[^c-5013700827631f593a5e563ee9654dd7]: Textual amendment: Word in [rule 2(1)](https://www.legislation.gov.uk/uksi/2007/3292/article/2/1) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2026/183/rule/5)
 
-[^key-c41dc3367d843716693d92dc6f190d42]: Textual amendment: [Rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/3/1/b) and tables substituted for [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/3/1/b) (6.4.2018) by [The Patents and Patents (Fees) (Amendment) Rules 2017 (S.I. 2017/1100)](https://www.legislation.gov.uk/uksi/2017/1100), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1100/rule/6) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/11/1))
+[^c-c41dc3367d843716693d92dc6f190d42]: Textual amendment: [Rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/3/1/b) and tables substituted for [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/3/1/b) (6.4.2018) by [The Patents and Patents (Fees) (Amendment) Rules 2017 (S.I. 2017/1100)](https://www.legislation.gov.uk/uksi/2017/1100), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1100/rule/6) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/11/1))
 
-[^key-483955ecb4400fabb1f1a41c31cb7dd5]: Textual amendment: Words in [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/3/1/b) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/a/i)
+[^c-483955ecb4400fabb1f1a41c31cb7dd5]: Textual amendment: Words in [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/rule/3/1/b) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/a/i)
 
-[^key-f96d27c8e187f5ab1e39a5d2c2a8fed4]: Textual amendment: Sum in [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/1/b) Table 1 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/a/ii)
+[^c-f96d27c8e187f5ab1e39a5d2c2a8fed4]: Textual amendment: Sum in [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/1/b) Table 1 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/a/ii)
 
-[^key-732c2481edfe9b67c6225192092c0fab]: Textual amendment: Sum in [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/1/b) Table 2 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/a/iii)
+[^c-732c2481edfe9b67c6225192092c0fab]: Textual amendment: Sum in [rule 3(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/1/b) Table 2 substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/a/iii)
 
-[^key-30e25057b8639ecee25bc3f1ae1dc44a]: Textual amendment: Sum in [rule 3(2)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/2) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/b)
+[^c-30e25057b8639ecee25bc3f1ae1dc44a]: Textual amendment: Sum in [rule 3(2)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/2) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/b)
 
-[^key-4385660c02d08b4d8fd9d1ea5ef052c0]: Textual amendment: [Rule 3(3)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/3) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/c)
+[^c-4385660c02d08b4d8fd9d1ea5ef052c0]: Textual amendment: [Rule 3(3)](https://www.legislation.gov.uk/uksi/2007/3292/article/3/3) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2026/183/rule/6/c)
 
-[^key-b8efed237e6861576849f3fdbec45d27]: Textual amendment: [Rule 3A](https://www.legislation.gov.uk/uksi/2007/3292/rule/3A) inserted (4.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/article/2), [22](https://www.legislation.gov.uk/uksi/2009/2089/rule/22)
+[^c-b8efed237e6861576849f3fdbec45d27]: Textual amendment: [Rule 3A](https://www.legislation.gov.uk/uksi/2007/3292/rule/3A) inserted (4.10.2009) by [The Trade Marks and Trade Marks and Patents (Fees) (Amendment) Rules 2009 (S.I. 2009/2089)](https://www.legislation.gov.uk/uksi/2009/2089), [rules 2](https://www.legislation.gov.uk/uksi/2009/2089/article/2), [22](https://www.legislation.gov.uk/uksi/2009/2089/rule/22)
 
-[^key-c10311979cbc26c41abe941a87513664]: Textual amendment: Sum in [rule 3A](https://www.legislation.gov.uk/uksi/2007/3292/article/3A) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2026/183/rule/7)
+[^c-c10311979cbc26c41abe941a87513664]: Textual amendment: Sum in [rule 3A](https://www.legislation.gov.uk/uksi/2007/3292/article/3A) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2026/183/rule/7)
 
-[^key-ed7476015f76449763d4da68d75af912]: Textual amendment: [Rules 3B-3D](https://www.legislation.gov.uk/uksi/2007/3292/rule/3B) inserted (6.4.2018) by [The Patents and Patents (Fees) (Amendment) Rules 2017 (S.I. 2017/1100)](https://www.legislation.gov.uk/uksi/2017/1100), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1100/rule/8) (with [rule 11](https://www.legislation.gov.uk/uksi/2017/1100/rule/11))
+[^c-ed7476015f76449763d4da68d75af912]: Textual amendment: [Rules 3B-3D](https://www.legislation.gov.uk/uksi/2007/3292/rule/3B) inserted (6.4.2018) by [The Patents and Patents (Fees) (Amendment) Rules 2017 (S.I. 2017/1100)](https://www.legislation.gov.uk/uksi/2017/1100), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1100/rule/8) (with [rule 11](https://www.legislation.gov.uk/uksi/2017/1100/rule/11))
 
-[^key-0af4998b13658b211e2a882f7a584eda]: Textual amendment: Sum in [rule 3B](https://www.legislation.gov.uk/uksi/2007/3292/article/3B) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2026/183/rule/8)
+[^c-0af4998b13658b211e2a882f7a584eda]: Textual amendment: Sum in [rule 3B](https://www.legislation.gov.uk/uksi/2007/3292/article/3B) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2026/183/rule/8)
 
-[^key-7f4bd1094c8e9034732ed0bc7570b530]: Textual amendment: Sum in rule 3C substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2026/183/rule/9)
+[^c-7f4bd1094c8e9034732ed0bc7570b530]: Textual amendment: Sum in rule 3C substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2026/183/rule/9)
 
-[^key-950e8383b00c9f318b668ec11e931b8f]: Textual amendment: Sum in [rule 3D(1)(a)](https://www.legislation.gov.uk/uksi/2007/3292/article/3D/1/a) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/10/a)
+[^c-950e8383b00c9f318b668ec11e931b8f]: Textual amendment: Sum in [rule 3D(1)(a)](https://www.legislation.gov.uk/uksi/2007/3292/article/3D/1/a) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/10/a)
 
-[^key-a54b01d3260ea3bb546f8a3edb1512c7]: Textual amendment: Sum in [rule 3D(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/article/3D/1/b) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/10/b)
+[^c-a54b01d3260ea3bb546f8a3edb1512c7]: Textual amendment: Sum in [rule 3D(1)(b)](https://www.legislation.gov.uk/uksi/2007/3292/article/3D/1/b) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/10/b)
 
-[^key-c834b6587f1cc6842599f70e53fe5902]: Textual amendment: Words in [rule 5(1)](https://www.legislation.gov.uk/uksi/2007/3292/article/5/1) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/11/a)
+[^c-c834b6587f1cc6842599f70e53fe5902]: Textual amendment: Words in [rule 5(1)](https://www.legislation.gov.uk/uksi/2007/3292/article/5/1) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/11/a)
 
-[^key-18301d9a0a6e9e72ba50bdaeb9a5be94]: Textual amendment: [Rule 5(3)](https://www.legislation.gov.uk/uksi/2007/3292/article/5/3) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/11/b)
+[^c-18301d9a0a6e9e72ba50bdaeb9a5be94]: Textual amendment: [Rule 5(3)](https://www.legislation.gov.uk/uksi/2007/3292/article/5/3) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/11/b)
 
-[^key-e9c272d0d57b35ae7fbf070574b85e46]: Textual amendment: Sum in rule 6(2)(a) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/i)
+[^c-e9c272d0d57b35ae7fbf070574b85e46]: Textual amendment: Sum in rule 6(2)(a) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/i)
 
-[^key-c7f1e065051735012e36c68261b10430]: Textual amendment: Sum in rule 6(2)(b) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/ii)
+[^c-c7f1e065051735012e36c68261b10430]: Textual amendment: Sum in rule 6(2)(b) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/ii)
 
-[^key-8a5657214b427580f29866f765d620f3]: Textual amendment: Sum in rule 6(2)(c) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(iii)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/iii)
+[^c-8a5657214b427580f29866f765d620f3]: Textual amendment: Sum in rule 6(2)(c) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(iii)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/iii)
 
-[^key-170178bb4b4cc78f9ee2d166917c4ba5]: Textual amendment: Sum in rule 6(2)(d) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(iv)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/iv)
+[^c-170178bb4b4cc78f9ee2d166917c4ba5]: Textual amendment: Sum in rule 6(2)(d) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(iv)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/iv)
 
-[^key-b719fd42ce9874feaac453d4b4846cbc]: Textual amendment: Sum in rule 6(2)(e) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(v)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/v)
+[^c-b719fd42ce9874feaac453d4b4846cbc]: Textual amendment: Sum in rule 6(2)(e) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(a)(v)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/a/v)
 
 [^c19011301]: Marginal citation: Council Regulation (EEC) No 1768/92 (OJ No L 182, 2.7.92, p1) as amended by Regulation (EC) 1901/2006 (OJ No L 378, 27.12.2006, p1).
 
-[^key-8d0280c3c0ad64282f9e714a2e33cf07]: Textual amendment: Words in [rule 6(4)](https://www.legislation.gov.uk/uksi/2007/3292/article/6/4) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/b)
+[^c-8d0280c3c0ad64282f9e714a2e33cf07]: Textual amendment: Words in [rule 6(4)](https://www.legislation.gov.uk/uksi/2007/3292/article/6/4) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/b)
 
-[^key-3bae2b96ed148688314033a3fb369422]: Textual amendment: [Rule 6(6)](https://www.legislation.gov.uk/uksi/2007/3292/article/6/6) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/c)
+[^c-3bae2b96ed148688314033a3fb369422]: Textual amendment: [Rule 6(6)](https://www.legislation.gov.uk/uksi/2007/3292/article/6/6) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2026/183/rule/12/c)
 
-[^key-61b2077947367a33ef019561466377b9]: Textual amendment: Sum in [rule 7(1)](https://www.legislation.gov.uk/uksi/2007/3292/article/7/1) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/13/a)
+[^c-61b2077947367a33ef019561466377b9]: Textual amendment: Sum in [rule 7(1)](https://www.legislation.gov.uk/uksi/2007/3292/article/7/1) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2026/183/rule/13/a)
 
 [^c19011311]: Marginal citation: [1975 c. 34](https://www.legislation.gov.uk/ukpga/1975/34).
 
-[^key-948a67d9889e38115297fcf294f20bae]: Textual amendment: Sum in [rule 7(3)](https://www.legislation.gov.uk/uksi/2007/3292/article/7/3) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/13/b)
+[^c-948a67d9889e38115297fcf294f20bae]: Textual amendment: Sum in [rule 7(3)](https://www.legislation.gov.uk/uksi/2007/3292/article/7/3) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2026/183/rule/13/b)
 
-[^key-344ba28568f1b79eb7692b198b6603ec]: Textual amendment: [Rule 7(3A)](https://www.legislation.gov.uk/uksi/2007/3292/rule/7/3A) inserted (6.4.2010) by [The Patents and Patents and Trade Marks (Fees) (Amendment) Rules 2010 (S.I. 2010/33)](https://www.legislation.gov.uk/uksi/2010/33), [rules 1](https://www.legislation.gov.uk/uksi/2010/33/rule/1), [9](https://www.legislation.gov.uk/uksi/2010/33/rule/9)
+[^c-344ba28568f1b79eb7692b198b6603ec]: Textual amendment: [Rule 7(3A)](https://www.legislation.gov.uk/uksi/2007/3292/rule/7/3A) inserted (6.4.2010) by [The Patents and Patents and Trade Marks (Fees) (Amendment) Rules 2010 (S.I. 2010/33)](https://www.legislation.gov.uk/uksi/2010/33), [rules 1](https://www.legislation.gov.uk/uksi/2010/33/rule/1), [9](https://www.legislation.gov.uk/uksi/2010/33/rule/9)
 
-[^key-35c12a62a6fe5e95007bf62d9c84ea1e]: Textual amendment: Sum in [rule 7(3A)](https://www.legislation.gov.uk/uksi/2007/3292/article/7/3A) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2026/183/rule/13/c)
+[^c-35c12a62a6fe5e95007bf62d9c84ea1e]: Textual amendment: Sum in [rule 7(3A)](https://www.legislation.gov.uk/uksi/2007/3292/article/7/3A) substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2026/183/rule/13/c)
 
-[^key-887022c23d4cbbb2c4ca814b690596dc]: Textual amendment: [Rule 8](https://www.legislation.gov.uk/uksi/2007/3292/article/8) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2026/183/rule/14)
+[^c-887022c23d4cbbb2c4ca814b690596dc]: Textual amendment: [Rule 8](https://www.legislation.gov.uk/uksi/2007/3292/article/8) omitted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2026/183/rule/14)
 
-[^key-9db72d9691b53fe884639bd559be60e2]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/1) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/183/schedule/2) Table 2
+[^c-9db72d9691b53fe884639bd559be60e2]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/1) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/183/schedule/2) Table 2
 
-[^key-4983055af90bd4e5bf58f02a0cf54da2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/1) inserted (6.4.2010) by [The Patents and Patents and Trade Marks (Fees) (Amendment) Rules 2010 (S.I. 2010/33)](https://www.legislation.gov.uk/uksi/2010/33), [rules 1](https://www.legislation.gov.uk/uksi/2010/33/rule/1), [10(4)](https://www.legislation.gov.uk/uksi/2010/33/rule/10/4)
+[^c-4983055af90bd4e5bf58f02a0cf54da2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/1) inserted (6.4.2010) by [The Patents and Patents and Trade Marks (Fees) (Amendment) Rules 2010 (S.I. 2010/33)](https://www.legislation.gov.uk/uksi/2010/33), [rules 1](https://www.legislation.gov.uk/uksi/2010/33/rule/1), [10(4)](https://www.legislation.gov.uk/uksi/2010/33/rule/10/4)
 
 [^c19011321]: Marginal citation: Regulation (EC) No 1610/96 (OJ No L 198, 8.8.96, p30).
 
-[^key-00c7c655278f1eecc17f086c63af49dd]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/2/part/1) substituted (6.4.2010) by [The Patents and Patents and Trade Marks (Fees) (Amendment) Rules 2010 (S.I. 2010/33)](https://www.legislation.gov.uk/uksi/2010/33), [rules 1](https://www.legislation.gov.uk/uksi/2010/33/rule/1), [11](https://www.legislation.gov.uk/uksi/2010/33/rule/11) (with [rule 16](https://www.legislation.gov.uk/uksi/2010/33/rule/16))
+[^c-00c7c655278f1eecc17f086c63af49dd]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/2/part/1) substituted (6.4.2010) by [The Patents and Patents and Trade Marks (Fees) (Amendment) Rules 2010 (S.I. 2010/33)](https://www.legislation.gov.uk/uksi/2010/33), [rules 1](https://www.legislation.gov.uk/uksi/2010/33/rule/1), [11](https://www.legislation.gov.uk/uksi/2010/33/rule/11) (with [rule 16](https://www.legislation.gov.uk/uksi/2010/33/rule/16))
 
-[^key-e6832b482f2bea3c267c943c72e7e54e]: Textual amendment: Sum in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/2/part/1) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2026/183/schedule/3/part/1) Table 3 (with [rule 34(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/1)[(7)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/7))
+[^c-e6832b482f2bea3c267c943c72e7e54e]: Textual amendment: Sum in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3292/schedule/2/part/1) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2026/183/schedule/3/part/1) Table 3 (with [rule 34(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/1)[(7)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/7))
 
-[^key-1e9ee4f90e58509cd1c2a7e3400f6c5f]: Textual amendment: Sum in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3292/schedule/2/part/2) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2026/183/schedule/3/part/2) Table 4
+[^c-1e9ee4f90e58509cd1c2a7e3400f6c5f]: Textual amendment: Sum in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3292/schedule/2/part/2) Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2026/183/schedule/3/part/2) Table 4

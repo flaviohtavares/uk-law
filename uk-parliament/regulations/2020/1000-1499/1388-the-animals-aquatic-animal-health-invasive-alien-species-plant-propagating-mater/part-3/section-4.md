@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Commission Implementing Decision (EU) 2020/1106[^key-21c58447a626eacad5c35dbaef04e650]
+## 4. Commission Implementing Decision (EU) 2020/1106[^c-21c58447a626eacad5c35dbaef04e650]
 
 *Extent: E+W+S*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-21c58447a626eacad5c35dbaef04e650]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1388/regulation/4) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-21c58447a626eacad5c35dbaef04e650]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1388/regulation/4) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00005]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463), amended by [S.I. 2011/2992](https://www.legislation.gov.uk/uksi/2011/2992), [2012/3035](https://www.legislation.gov.uk/uksi/2012/3035), [2014/487](https://www.legislation.gov.uk/uksi/2014/487), [2016/613](https://www.legislation.gov.uk/uksi/2016/613), [2017/288](https://www.legislation.gov.uk/uksi/2017/288), [2019/131](https://www.legislation.gov.uk/uksi/2019/131), [472](https://www.legislation.gov.uk/uksi/2019/472), [2020/579](https://www.legislation.gov.uk/uksi/2020/579), [682](https://www.legislation.gov.uk/uksi/2020/682). It is prospectively amended by [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Electronic delivery by postal administrator[^key-4548013796e8dc1485480c8861a3e964]
+## 165. Electronic delivery by postal administrator[^c-4548013796e8dc1485480c8861a3e964]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4548013796e8dc1485480c8861a3e964]: Commencement: [Rule 165](https://www.legislation.gov.uk/uksi/2013/3208/rule/165) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-4548013796e8dc1485480c8861a3e964]: Commencement: [Rule 165](https://www.legislation.gov.uk/uksi/2013/3208/rule/165) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

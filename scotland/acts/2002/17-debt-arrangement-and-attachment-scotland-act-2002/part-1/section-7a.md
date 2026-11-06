@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7A. Debt payment programmes: power to make provision about debt relief[^key-e3b4fe33e4d7f401aafabead9ec00a94]
+## 7A. Debt payment programmes: power to make provision about debt relief[^c-e3b4fe33e4d7f401aafabead9ec00a94]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b4fe33e4d7f401aafabead9ec00a94]: Textual amendment: S. 7A inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 211(3)](https://www.legislation.gov.uk/asp/2007/3/section/211/3), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/82/article/3/a)
+[^c-e3b4fe33e4d7f401aafabead9ec00a94]: Textual amendment: S. 7A inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 211(3)](https://www.legislation.gov.uk/asp/2007/3/section/211/3), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/82/article/3/a)

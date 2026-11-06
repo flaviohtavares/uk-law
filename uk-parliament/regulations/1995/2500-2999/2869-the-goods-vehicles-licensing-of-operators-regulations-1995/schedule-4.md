@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — INQUIRIES[^key-46219ada1b5de04c95d2cff358ea3702]
+## SCHEDULE 4 — INQUIRIES[^c-46219ada1b5de04c95d2cff358ea3702]
 
 *Extent: E+W+S*
 
 Regulation 20
 
-### 1. Notification of an inquiry[^key-60493c9c79c662d7de8e9528f945fc0b]
+### 1. Notification of an inquiry[^c-60493c9c79c662d7de8e9528f945fc0b]
 
-(1) A traffic commissioner[^key-b1df1afa2bfee08aa4c72a0e7085adb5] shall send to every person entitled to appear in accordance with paragraph 3 of this Schedule at an inquiry written notice of the date, time and place fixed for the holding of the inquiry.
+(1) A traffic commissioner[^c-b1df1afa2bfee08aa4c72a0e7085adb5] shall send to every person entitled to appear in accordance with paragraph 3 of this Schedule at an inquiry written notice of the date, time and place fixed for the holding of the inquiry.
 
 Such notice shall be sent at least 21 days before the date so fixed.
 
@@ -34,7 +34,7 @@ Such notice shall be sent at least 21 days before the date as varied.
 
 (3) The periods referred to in sub-paragraph (1) and (2) may be abridged with the consent of every person so entitled to appear at the inquiry.
 
-(4) Where a traffic commissioner[^key-98e35d3349b9569e9d996f488e141522] varies the time or place for the holding of an inquiry without varying the date, he shall give such notice of the variation as appears to him to be reasonable.
+(4) Where a traffic commissioner[^c-98e35d3349b9569e9d996f488e141522] varies the time or place for the holding of an inquiry without varying the date, he shall give such notice of the variation as appears to him to be reasonable.
 
 (5) Nothing in this paragraph shall authorise a traffic commissioner to hold an inquiry before the date published in Applications and Decisions pursuant to regulation 21.
 
@@ -43,7 +43,7 @@ Such notice shall be sent at least 21 days before the date as varied.
 - (a) if the date, time and place of the adjourned inquiry are announced at the inquiry before the adjournment, no further notice of that date, time and place shall be required; and
 - (b) sub-paragraphs (1) and (2) shall have effect in relation to an adjourned inquiry as if for “21 days" there were substituted “7 days".
 
-### 2. Admission to an inquiry[^key-8f0cc01748c7792d9715342a9d48225a]
+### 2. Admission to an inquiry[^c-8f0cc01748c7792d9715342a9d48225a]
 
 (1) Subject to the provisions of this paragraph, an inquiry shall be held in public.
 
@@ -59,9 +59,9 @@ it is just and reasonable for him so to do.
 
 (4) Without prejudice to sub-paragraph (2), where any question relating to the appropriate financial resources of any persons is to be or is being considered during an inquiry, the traffic commissioner may exclude such persons as he thinks fit from the part of the inquiry during which that question is considered.
 
-(5)[^key-a70121f0fabe1d9d53a17d6693b58f3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a70121f0fabe1d9d53a17d6693b58f3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Appearances at an inquiry[^key-9b3810db8c1e8d9f94624147fb4a43f8]
+### 3. Appearances at an inquiry[^c-9b3810db8c1e8d9f94624147fb4a43f8]
 
 (1) The following persons shall be entitled to appear at an inquiry relating to an application namely—
 
@@ -85,11 +85,11 @@ the transport manager shall be entitled to appear at the inquiry.
 
 (6) Any person entitled or permitted to appear at an inquiry may do so on his own behalf or be represented by counsel, solicitor or, at the discretion of the traffic commissioner, by any other person.
 
-### 4. Inquiries relating to more than one application[^key-3813c4cea584bd50b06256ed54dbc099]
+### 4. Inquiries relating to more than one application[^c-3813c4cea584bd50b06256ed54dbc099]
 
 Without prejudice to section 35(2), where a traffic commissioner decides that two or more applications should be the subject of an inquiry, he may hold a single inquiry in relation to those applications if it appears to him that it would be just and convenient so to do.
 
-### 5. Procedure at inquiry[^key-0ef5dd3293306e623779dac531210121]
+### 5. Procedure at inquiry[^c-0ef5dd3293306e623779dac531210121]
 
 (1) Except as otherwise provided in this Schedule, the traffic commissioner shall determine the procedure at an inquiry.
 
@@ -109,7 +109,7 @@ which he considers to be irrelevant, repetitious, frivolous or vexatious.
 
 (6) The traffic commissioner may require any person appearing or present at an inquiry who, in his opinion, is behaving in a disruptive manner to leave and may refuse to permit that person to return.
 
-(7) The traffic commissioner may proceed with an inquiry in the absence of any person entitled to appear, but if notice of the inquiry was required to be given to such a person under paragraph 1 of this Schedule[^key-b982a9c5b9b4b6d69302190a74840959] he shall not so proceed in the person’s absence unless—
+(7) The traffic commissioner may proceed with an inquiry in the absence of any person entitled to appear, but if notice of the inquiry was required to be given to such a person under paragraph 1 of this Schedule[^c-b982a9c5b9b4b6d69302190a74840959] he shall not so proceed in the person’s absence unless—
 
 - (a) he is satisfied that such notice had been duly given; or
 - (b) he decides to proceed with the inquiry under paragraph 7 of this Schedule on the basis that no injustice would be caused to the person as a result of such notice not having been duly given to him.
@@ -118,7 +118,7 @@ which he considers to be irrelevant, repetitious, frivolous or vexatious.
 
 (9) The traffic commissioner may from time to time adjourn an inquiry.
 
-### 6. Giving of notices[^key-0690eef1cf6c3e5fe5179a1ed6136827]
+### 6. Giving of notices[^c-0690eef1cf6c3e5fe5179a1ed6136827]
 
 (1) A notice required or authorised to be sent to a person under this Schedule may be effected by—
 
@@ -142,47 +142,47 @@ which he considers to be irrelevant, repetitious, frivolous or vexatious.
 - (a) in the case of a body corporate, its secretary or its clerk, the address of its registered or principal office in the United Kingdom;
 - (b) in the case of an unincorporated association (other than a partnership) or member of its governing body, its principal office in the United Kingdom.
 
-(5) Where a person has in the licence-holder’s application notified a traffic commissioner[^key-3fdc8863d1af28e0a61bfdf5b3c7ea4b] of an address, or, subsequently notified a new address under regulation 25, at which documents may be given to him for the purposes of correspondence that address shall also be his proper address for service for the purposes mentioned in sub-paragraph (3) or, as the case may be, his proper address for those purposes in substitution for that previously notified.
+(5) Where a person has in the licence-holder’s application notified a traffic commissioner[^c-3fdc8863d1af28e0a61bfdf5b3c7ea4b] of an address, or, subsequently notified a new address under regulation 25, at which documents may be given to him for the purposes of correspondence that address shall also be his proper address for service for the purposes mentioned in sub-paragraph (3) or, as the case may be, his proper address for those purposes in substitution for that previously notified.
 
-### 7. Irregularities in the giving of notices[^key-d637b72f0b2a077c73efb95c8f25cadb]
+### 7. Irregularities in the giving of notices[^c-d637b72f0b2a077c73efb95c8f25cadb]
 
 Where a notice of the date, time and place fixed for the holding of an inquiry is not given in accordance with this Schedule, the traffic commissioner may nevertheless proceed with the inquiry as if notice had been duly given provided he is satisfied that no injustice or inconvenience would be caused.
 
-### 8. Interpretation[^key-470e7278b72737ce6fa81c3aef2a235a]
+### 8. Interpretation[^c-470e7278b72737ce6fa81c3aef2a235a]
 
-In this Schedule—[^key-7045501ca7034f4fa1d622b3118c0bbe]
+In this Schedule—[^c-7045501ca7034f4fa1d622b3118c0bbe]
 
 - “inquiry” means an inquiry held for the purposes of the Goods Vehicles (Licensing of Operators) Act 1995; and
 - “the traffic commissioner” means the traffic commissioner holding an inquiry.
 
 ## Annotations
 
-[^key-46219ada1b5de04c95d2cff358ea3702]: Modification: Sch. 4 excluded by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 16E(4)](https://www.legislation.gov.uk/ukpga/2006/12/section/16E/4) (as inserted (14.2.2012) by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2011/22/section/9/4), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1))
+[^c-46219ada1b5de04c95d2cff358ea3702]: Modification: Sch. 4 excluded by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 16E(4)](https://www.legislation.gov.uk/ukpga/2006/12/section/16E/4) (as inserted (14.2.2012) by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2011/22/section/9/4), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1))
 
-[^key-60493c9c79c662d7de8e9528f945fc0b]: Commencement: Sch. 4 para. 1 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-60493c9c79c662d7de8e9528f945fc0b]: Commencement: Sch. 4 para. 1 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-b1df1afa2bfee08aa4c72a0e7085adb5]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/1)[(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/2) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-b1df1afa2bfee08aa4c72a0e7085adb5]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/1)[(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/2) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-98e35d3349b9569e9d996f488e141522]: Textual amendment: Words in [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/4)[(5)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-98e35d3349b9569e9d996f488e141522]: Textual amendment: Words in [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/4)[(5)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/1/5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-8f0cc01748c7792d9715342a9d48225a]: Commencement: Sch. 4 para. 2 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-8f0cc01748c7792d9715342a9d48225a]: Commencement: Sch. 4 para. 2 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-a70121f0fabe1d9d53a17d6693b58f3b]: Textual amendment: Sch. 4 para. 2(5) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/54) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-a70121f0fabe1d9d53a17d6693b58f3b]: Textual amendment: Sch. 4 para. 2(5) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/54) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-9b3810db8c1e8d9f94624147fb4a43f8]: Commencement: Sch. 4 para. 3 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-9b3810db8c1e8d9f94624147fb4a43f8]: Commencement: Sch. 4 para. 3 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-3813c4cea584bd50b06256ed54dbc099]: Commencement: Sch. 4 para. 4 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-3813c4cea584bd50b06256ed54dbc099]: Commencement: Sch. 4 para. 4 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-0ef5dd3293306e623779dac531210121]: Commencement: Sch. 4 para. 5 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-0ef5dd3293306e623779dac531210121]: Commencement: Sch. 4 para. 5 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-b982a9c5b9b4b6d69302190a74840959]: Textual amendment: Words in [Sch. 4 para. 5(7)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/5/7) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-b982a9c5b9b4b6d69302190a74840959]: Textual amendment: Words in [Sch. 4 para. 5(7)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/5/7) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-0690eef1cf6c3e5fe5179a1ed6136827]: Commencement: Sch. 4 para. 6 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-0690eef1cf6c3e5fe5179a1ed6136827]: Commencement: Sch. 4 para. 6 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-3fdc8863d1af28e0a61bfdf5b3c7ea4b]: Textual amendment: Words in [Sch. 4 para. 6(5)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/6/5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-3fdc8863d1af28e0a61bfdf5b3c7ea4b]: Textual amendment: Words in [Sch. 4 para. 6(5)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/4/paragraph/6/5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-d637b72f0b2a077c73efb95c8f25cadb]: Commencement: Sch. 4 para. 7 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-d637b72f0b2a077c73efb95c8f25cadb]: Commencement: Sch. 4 para. 7 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-470e7278b72737ce6fa81c3aef2a235a]: Commencement: Sch. 4 para. 8 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-470e7278b72737ce6fa81c3aef2a235a]: Commencement: Sch. 4 para. 8 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-7045501ca7034f4fa1d622b3118c0bbe]: Textual amendment: Words in Sch. 4 para. 8 substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-7045501ca7034f4fa1d622b3118c0bbe]: Textual amendment: Words in Sch. 4 para. 8 substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

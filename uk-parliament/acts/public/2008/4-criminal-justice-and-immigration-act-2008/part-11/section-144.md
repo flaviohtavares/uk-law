@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-8b056bf9a02ca37b791a3dcd97407792][^key-4c14f055b0451652c62a21273a2d3a44] After section 55 of the Data Protection Act 1998 (c. 29) insert—
+(1)[^c-8b056bf9a02ca37b791a3dcd97407792][^c-4c14f055b0451652c62a21273a2d3a44] After section 55 of the Data Protection Act 1998 (c. 29) insert—
 
 > **Monetary penalties**
 >
@@ -130,7 +130,7 @@ summary: ''
 >
 > (4) An order under this section may amend this Act.
 
-(2)[^key-61e9eb318a6492e71d2dbc180beecf51] In section 67 of that Act (orders, regulations, rules)—
+(2)[^c-61e9eb318a6492e71d2dbc180beecf51] In section 67 of that Act (orders, regulations, rules)—
 
 - (a) in subsection (4) insert at the appropriate place— “ section 55E(1), ”; and
 - (b) in subsection (5) after paragraph (c) insert—
@@ -141,8 +141,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8b056bf9a02ca37b791a3dcd97407792]: Commencement: S. 144(1) in force at 1.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/n)
+[^c-8b056bf9a02ca37b791a3dcd97407792]: Commencement: S. 144(1) in force at 1.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/n)
 
-[^key-4c14f055b0451652c62a21273a2d3a44]: Commencement: S. 144(1) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 4](https://www.legislation.gov.uk/uksi/2010/712/article/4)
+[^c-4c14f055b0451652c62a21273a2d3a44]: Commencement: S. 144(1) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 4](https://www.legislation.gov.uk/uksi/2010/712/article/4)
 
-[^key-61e9eb318a6492e71d2dbc180beecf51]: Commencement: S. 144(2) in force at 1.10.2009 by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/o)
+[^c-61e9eb318a6492e71d2dbc180beecf51]: Commencement: S. 144(2) in force at 1.10.2009 by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/2606/article/2/o)

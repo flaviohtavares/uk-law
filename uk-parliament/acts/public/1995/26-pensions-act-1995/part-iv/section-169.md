@@ -41,10 +41,10 @@ summary: ''
 - (a) for “or Order of His Majesty” there is substituted “ , Order of Her Majesty or scheme ”, and
 - (b) for “or Order” there is substituted “ , Order or scheme ”.
 
-(6)[^key-b5ee675e923ee742bc856cd588a00c45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b5ee675e923ee742bc856cd588a00c45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c2136384]: Marginal citation: [1943 c. 49](https://www.legislation.gov.uk/ukpga/1943/49).
 
-[^key-b5ee675e923ee742bc856cd588a00c45]: Textual amendment: S. 169(6) repealed (9.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [Sch. 9 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/IV) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), art. 2(6)
+[^c-b5ee675e923ee742bc856cd588a00c45]: Textual amendment: S. 169(6) repealed (9.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [Sch. 9 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/IV) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), art. 2(6)

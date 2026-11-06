@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Ceasing to maintain an EHC plan[^key-3cc9afda994bc659e2fb4391ed3cef1e][^key-ad8ded1e83d406e7c76c5d30f2dc02e4]
+## 45. Ceasing to maintain an EHC plan[^c-3cc9afda994bc659e2fb4391ed3cef1e][^c-ad8ded1e83d406e7c76c5d30f2dc02e4]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3cc9afda994bc659e2fb4391ed3cef1e]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/6/section/45) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/889/article/3/e)
+[^c-3cc9afda994bc659e2fb4391ed3cef1e]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/6/section/45) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/889/article/3/e)
 
-[^key-ad8ded1e83d406e7c76c5d30f2dc02e4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/6/section/45) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-ad8ded1e83d406e7c76c5d30f2dc02e4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/6/section/45) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

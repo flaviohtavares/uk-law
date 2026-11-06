@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2A — The Gambling Commission[^key-fb33e57db9710f0094f18b9983d1a615][^M_F_ad0ea2ed-13bc-46e7-cd16-58bb1b53cad5][^key-42611db2b1c9e130407fde2dbb686edd]
+## Schedule 2A — The Gambling Commission[^c-fb33e57db9710f0094f18b9983d1a615][^M_F_ad0ea2ed-13bc-46e7-cd16-58bb1b53cad5][^c-42611db2b1c9e130407fde2dbb686edd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,37 +24,37 @@ Section 3A.
 
 ### Status and capacity
 
-**1.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Membership
 
-**2.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tenure of office
 
-**3.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chairman
 
-**4.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Remuneration and allowances
 
-**5.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Staff
 
-**6.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6A.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6A.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Proceedings
 
-**7.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Delegation
 
-**8.**[^key-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-35ccc2bcd365a349d2e1619f628bca62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Duty to give reasons for decisions
 
@@ -73,32 +73,32 @@ Section 3A.
 
 ### Finance
 
-**10.**[^key-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Accounts
 
-**11.**[^key-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Application of seal and evidence
 
 *Extent: E+W+N.I.*
 
-**12.**[^key-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+N.I.*
 
-**13.**[^key-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-9fd77fce3e9baf3f12ba5b5728746b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb33e57db9710f0094f18b9983d1a615]: Modification: Sch. 2A modified (23.9.2006) by [The National Lottery Act 2006 (Commencement No. 2 and Transitional Provisions) Order 2006 (S.I. 2006/2630)](https://www.legislation.gov.uk/uksi/2006/2630), [art. 3](https://www.legislation.gov.uk/uksi/2006/2630/article/3)
+[^c-fb33e57db9710f0094f18b9983d1a615]: Modification: Sch. 2A modified (23.9.2006) by [The National Lottery Act 2006 (Commencement No. 2 and Transitional Provisions) Order 2006 (S.I. 2006/2630)](https://www.legislation.gov.uk/uksi/2006/2630), [art. 3](https://www.legislation.gov.uk/uksi/2006/2630/article/3)
 
 [^M_F_ad0ea2ed-13bc-46e7-cd16-58bb1b53cad5]: Textual amendment: Sch 2A inserted (1.4.1999) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), ss. 1(5), Sch. 1 Pt. II para. 7; [S.I. 1999/650](https://www.legislation.gov.uk/uksi/1999/650), art. 2(b)
 
-[^key-42611db2b1c9e130407fde2dbb686edd]: Textual amendment: Word in Sch. 2A heading substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/10/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-42611db2b1c9e130407fde2dbb686edd]: Textual amendment: Word in Sch. 2A heading substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/10/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-35ccc2bcd365a349d2e1619f628bca62]: Textual amendment: Sch. 2A paras. 1-8 omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/10/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-35ccc2bcd365a349d2e1619f628bca62]: Textual amendment: Sch. 2A paras. 1-8 omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/10/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-9fd77fce3e9baf3f12ba5b5728746b5a]: Textual amendment: Sch. 2A paras. 10-14 omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/10/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-9fd77fce3e9baf3f12ba5b5728746b5a]: Textual amendment: Sch. 2A paras. 10-14 omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/10/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))

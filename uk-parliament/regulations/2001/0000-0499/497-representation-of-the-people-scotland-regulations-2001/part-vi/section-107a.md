@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107A. Supply of full register etc to the security services[^key-9907df194ed391c0c69a89cfce5a054e][^key-479ea397546d3e87432d5dd7db76dcd8]
+## 107A. Supply of full register etc to the security services[^c-9907df194ed391c0c69a89cfce5a054e][^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9907df194ed391c0c69a89cfce5a054e]: Textual amendment: [Reg. 107A](https://www.legislation.gov.uk/uksi/2001/497/regulation/107A) inserted (24.12.2008) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1/paragraph/3/4) (with [s. 101(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/5)); [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-9907df194ed391c0c69a89cfce5a054e]: Textual amendment: [Reg. 107A](https://www.legislation.gov.uk/uksi/2001/497/regulation/107A) inserted (24.12.2008) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1/paragraph/3/4) (with [s. 101(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/5)); [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
 
-[^key-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
+[^c-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 43
 
-### 1. Prohibition on continuing or bringing actions which involved prior cross-border mediation[^key-f93db4cd54da17848008a3cf7369d21b]
+### 1. Prohibition on continuing or bringing actions which involved prior cross-border mediation[^c-f93db4cd54da17848008a3cf7369d21b]
 
 (1) Section 43(1) and (2) do not apply to any action which involved prior cross-border mediation.
 
@@ -39,7 +39,7 @@ Section 43
 
 (3) A reference in section 43(7) or (8) to section 43(1) or (2) accordingly includes a reference to the corresponding provision contained in sub-paragraph (2).
 
-### 2. Interpretation[^key-8650c23fdde645b23b9a539380f66411]
+### 2. Interpretation[^c-8650c23fdde645b23b9a539380f66411]
 
 (1) In this Schedule (including the modification of section 43 made by paragraph 1(2))—
 
@@ -102,6 +102,6 @@ Section 43
 
 ## Annotations
 
-[^key-f93db4cd54da17848008a3cf7369d21b]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/10/paragraph/1) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-f93db4cd54da17848008a3cf7369d21b]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/10/paragraph/1) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
 
-[^key-8650c23fdde645b23b9a539380f66411]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/10/paragraph/2) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-8650c23fdde645b23b9a539380f66411]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/10/paragraph/2) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)

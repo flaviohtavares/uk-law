@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Power to modify functions of CAA etc relating to aviation security[^key-5488e9114222145fb38ca36e9f192964]
+## 81. Power to modify functions of CAA etc relating to aviation security[^c-5488e9114222145fb38ca36e9f192964]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ After section 21I of the Aviation Security Act 1982 (inserted by section 80) ins
 
 ## Annotations
 
-[^key-5488e9114222145fb38ca36e9f192964]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2012/19/section/81) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/262/article/3/d)
+[^c-5488e9114222145fb38ca36e9f192964]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2012/19/section/81) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/262/article/3/d)

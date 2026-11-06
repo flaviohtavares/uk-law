@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Mayoral development corporation: incidental provisions[^key-e849fc0cd4cc2ed7e2927f7c02011d77]
+## 12. Mayoral development corporation: incidental provisions[^c-e849fc0cd4cc2ed7e2927f7c02011d77]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e849fc0cd4cc2ed7e2927f7c02011d77]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2023/1432/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/4)
+[^c-e849fc0cd4cc2ed7e2927f7c02011d77]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2023/1432/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/4)

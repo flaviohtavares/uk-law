@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91B. Where a certificate or consent under a restriction is given by a corporation[^key-d0ecc5be7e0192ac4ed44bd691e75a3f]
+## 91B. Where a certificate or consent under a restriction is given by a corporation[^c-d0ecc5be7e0192ac4ed44bd691e75a3f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0ecc5be7e0192ac4ed44bd691e75a3f]: Textual amendment: Rule 91B inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/32) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-d0ecc5be7e0192ac4ed44bd691e75a3f]: Textual amendment: Rule 91B inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/32) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

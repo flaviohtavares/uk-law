@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18A. Review of regulation 18[^key-e0a71d83409080177af5a97b21d04fc1]
+## 18A. Review of regulation 18[^c-e0a71d83409080177af5a97b21d04fc1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0a71d83409080177af5a97b21d04fc1]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/18A) omitted (20.5.2018) by virtue of [The Road Vehicles (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/851)](https://www.legislation.gov.uk/uksi/2017/851), [regs. 1](https://www.legislation.gov.uk/uksi/2017/851/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/851/regulation/4)
+[^c-e0a71d83409080177af5a97b21d04fc1]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/18A) omitted (20.5.2018) by virtue of [The Road Vehicles (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/851)](https://www.legislation.gov.uk/uksi/2017/851), [regs. 1](https://www.legislation.gov.uk/uksi/2017/851/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/851/regulation/4)

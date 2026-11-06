@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Forms of Corresponding Number List[^key-a9abb01acee6a10b56f0056a4cf98584]
+## 29. Forms of Corresponding Number List[^c-a9abb01acee6a10b56f0056a4cf98584]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a9abb01acee6a10b56f0056a4cf98584]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2006/2910/regulation/29) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-a9abb01acee6a10b56f0056a4cf98584]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2006/2910/regulation/29) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00047]: Footnote: [1985 c.50](https://www.legislation.gov.uk/ukpga/1985/50); section 15 was amended by section 3 of the European Communities (Amendment) Act [1986 (c. 58)](https://www.legislation.gov.uk/ukpga/1986/58) and by paragraph 7 of Schedule 7 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26).
 

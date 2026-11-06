@@ -31,7 +31,7 @@ summary: ''
 
 Registration Of Vital Events
 
-General Register Office (Fees) Order (Northern Ireland) 2010 (revoked)[^key-c77c96db0caf2ac6d80e0b68e6a50791]
+General Register Office (Fees) Order (Northern Ireland) 2010 (revoked)[^c-c77c96db0caf2ac6d80e0b68e6a50791]
 
 Laid before the Assembly in draft
 
@@ -43,34 +43,34 @@ Coming into operation
 
 1st January 2011
 
-[^key-c77c96db0caf2ac6d80e0b68e6a50791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c77c96db0caf2ac6d80e0b68e6a50791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c77c96db0caf2ac6d80e0b68e6a50791]
+## 1. Citation, commencement and interpretation[^c-c77c96db0caf2ac6d80e0b68e6a50791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-c77c96db0caf2ac6d80e0b68e6a50791]
+## 2. Fees payable[^c-c77c96db0caf2ac6d80e0b68e6a50791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c77c96db0caf2ac6d80e0b68e6a50791]
+## 3. Revocation[^c-c77c96db0caf2ac6d80e0b68e6a50791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c77c96db0caf2ac6d80e0b68e6a50791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c77c96db0caf2ac6d80e0b68e6a50791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c77c96db0caf2ac6d80e0b68e6a50791]
+## SCHEDULE[^c-c77c96db0caf2ac6d80e0b68e6a50791]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c77c96db0caf2ac6d80e0b68e6a50791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c77c96db0caf2ac6d80e0b68e6a50791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c77c96db0caf2ac6d80e0b68e6a50791]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2010/409) revoked (17.12.2012) by [General Register Office (Fees) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/443)](https://www.legislation.gov.uk/nisr/2012/443), [art. 3](https://www.legislation.gov.uk/nisr/2012/443/article/3)
+[^c-c77c96db0caf2ac6d80e0b68e6a50791]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2010/409) revoked (17.12.2012) by [General Register Office (Fees) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/443)](https://www.legislation.gov.uk/nisr/2012/443), [art. 3](https://www.legislation.gov.uk/nisr/2012/443/article/3)

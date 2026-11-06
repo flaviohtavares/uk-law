@@ -26,7 +26,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-22bcc94eb82ea3eedc4f2afa40a31009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-22bcc94eb82ea3eedc4f2afa40a31009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22bcc94eb82ea3eedc4f2afa40a31009]: Textual amendment: [Reg. 46(2)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/46/2) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22bcc94eb82ea3eedc4f2afa40a31009]: Textual amendment: [Reg. 46(2)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/46/2) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (England) (EU Exit) Regulations 2018 (S.I. 2018/1033)](https://www.legislation.gov.uk/uksi/2018/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2018/1033/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -52,17 +52,17 @@ the hereditament which comprised the existing building shall be deemed for the p
 
 - (a) “**building**” includes part of a building, and
 - (b) references to a new building include references to
-  - (i)[^key-3ba2a94bb71d0a303019d3dfa37bc441] a building produced by the structural alteration of an existing building where the existing building is comprised in a hereditament which, by virtue of the alteration, becomes, or becomes part of, a different hereditament or different hereditaments ;[^key-667852cf41b800b85ef1329d8bc8929e]
+  - (i)[^c-3ba2a94bb71d0a303019d3dfa37bc441] a building produced by the structural alteration of an existing building where the existing building is comprised in a hereditament which, by virtue of the alteration, becomes, or becomes part of, a different hereditament or different hereditaments ;[^c-667852cf41b800b85ef1329d8bc8929e]
   - (ii) a building situated in England which a hereditament shown in a list comprises or includes, or which a hereditament that was previously shown (but is no longer shown) in a list comprised or included, and that has been subject to alterations;
   - (iii) part of a building situated in England and added to an existing building which a hereditament shown in a list comprises or includes or which a hereditament that was previously shown (but is no longer shown) in a list comprised or included.
-  - (iv)[^key-ce233029ad2d0f298e1b505f72622976] a building that has been subject to alterations where the building is comprised in a hereditament situated in Wales that was (but is no longer) shown in a list.
+  - (iv)[^c-ce233029ad2d0f298e1b505f72622976] a building that has been subject to alterations where the building is comprised in a hereditament situated in Wales that was (but is no longer) shown in a list.
 
 ## Annotations
 
 [^c13067691]: Textual amendment: S. 46A inserted by [Local Government and Housing Act 1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/25)
 
-[^key-3ba2a94bb71d0a303019d3dfa37bc441]: Textual amendment: Words in s. 46A(6)(b) renumbered as s. 46A(6)(b)(i) (26.12.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 7(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/7/a), [19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
+[^c-3ba2a94bb71d0a303019d3dfa37bc441]: Textual amendment: Words in s. 46A(6)(b) renumbered as s. 46A(6)(b)(i) (26.12.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 7(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/7/a), [19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
 
-[^key-667852cf41b800b85ef1329d8bc8929e]: Textual amendment: [S. 46A(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/1988/41/section/46A/6/b/ii)[(iii)](https://www.legislation.gov.uk/ukpga/1988/41/section/46A/6/b/iii) inserted (26.12.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 7(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/7/b), [19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
+[^c-667852cf41b800b85ef1329d8bc8929e]: Textual amendment: [S. 46A(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/1988/41/section/46A/6/b/ii)[(iii)](https://www.legislation.gov.uk/ukpga/1988/41/section/46A/6/b/iii) inserted (26.12.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 7(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/7/b), [19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
 
-[^key-ce233029ad2d0f298e1b505f72622976]: Textual amendment: [S. 46A(6)(b)(iv)](https://www.legislation.gov.uk/ukpga/1988/41/section/46A/6/b/iv) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 7(2)](https://www.legislation.gov.uk/asc/2024/6/section/7/2), [23(2)(c)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/c)
+[^c-ce233029ad2d0f298e1b505f72622976]: Textual amendment: [S. 46A(6)(b)(iv)](https://www.legislation.gov.uk/ukpga/1988/41/section/46A/6/b/iv) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 7(2)](https://www.legislation.gov.uk/asc/2024/6/section/7/2), [23(2)(c)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/c)

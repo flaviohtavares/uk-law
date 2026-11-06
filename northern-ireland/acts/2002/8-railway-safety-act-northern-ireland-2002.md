@@ -64,7 +64,7 @@ An Act to make provision with respect to the safety of railways.
 - (i) sections 2 to 4 of this Act;
 - (j) any regulations made under section 2 of the European Communities Act 1972 (c. 68) for the purpose of implementing the Council Directive of 29th July 1991 ([91/440/EEC](https://www.legislation.gov.uk/european/directive/1991/0440)) on the development of the Community's railways (as amended or extended by any subsequent Directive), so far as the regulations are made for safety purposes.
 
-## 2. Approval of railway works, plant and equipment[^key-9c806e44bf177de1195b97a44e7ec1a3]
+## 2. Approval of railway works, plant and equipment[^c-9c806e44bf177de1195b97a44e7ec1a3]
 
 (1) For the purpose of securing the safe operation of railways, the Department may make regulations requiring that its approval be obtained before—
 
@@ -94,7 +94,7 @@ either in the case of any particular works, plant, equipment or alterations, or 
 
 (8) Regulations under this section shall be subject to negative resolution.
 
-## 3. Accidents, etc.[^key-503b3ce1ec57593d621645b151c6d879]
+## 3. Accidents, etc.[^c-503b3ce1ec57593d621645b151c6d879]
 
 (1) The Department may make regulations requiring the reporting to it of—
 
@@ -271,6 +271,6 @@ the Department may itself carry out the work required by the direction or necess
 
 ## Annotations
 
-[^key-9c806e44bf177de1195b97a44e7ec1a3]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2002/8/section/2) in operation at 13.8.2026 by [S.R. 2026/154](https://www.legislation.gov.uk/nisr/2026/154), [art. 2](https://www.legislation.gov.uk/nisr/2026/154/article/2)
+[^c-9c806e44bf177de1195b97a44e7ec1a3]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2002/8/section/2) in operation at 13.8.2026 by [S.R. 2026/154](https://www.legislation.gov.uk/nisr/2026/154), [art. 2](https://www.legislation.gov.uk/nisr/2026/154/article/2)
 
-[^key-503b3ce1ec57593d621645b151c6d879]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2002/8/section/3) in operation at 13.8.2026 by [S.R. 2026/154](https://www.legislation.gov.uk/nisr/2026/154), [art. 2](https://www.legislation.gov.uk/nisr/2026/154/article/2)
+[^c-503b3ce1ec57593d621645b151c6d879]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2002/8/section/3) in operation at 13.8.2026 by [S.R. 2026/154](https://www.legislation.gov.uk/nisr/2026/154), [art. 2](https://www.legislation.gov.uk/nisr/2026/154/article/2)

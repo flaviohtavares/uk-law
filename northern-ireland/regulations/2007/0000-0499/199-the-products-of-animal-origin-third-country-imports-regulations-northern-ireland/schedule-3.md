@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — CALCULATION OF CHARGES FOR VETERINARY CHECKS[^key-2dc9639b11f8530f1d0d1bebe3408523]
+## SCHEDULE 3 — CALCULATION OF CHARGES FOR VETERINARY CHECKS[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Regulations 54(1), 55 and 56
 
-### PART I — COSTS COVERED BY THE CHARGES[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART I — COSTS COVERED BY THE CHARGES[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
-**1.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONSIGNMENTS FROM NEW ZEALAND[^key-2dc9639b11f8530f1d0d1bebe3408523]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART III — MEAT AND MEAT PRODUCTS[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART II — CONSIGNMENTS FROM NEW ZEALAND[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — FISHERY PRODUCTS[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART III — MEAT AND MEAT PRODUCTS[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — ALL OTHER PRODUCTS[^key-2dc9639b11f8530f1d0d1bebe3408523]
+### PART IV — FISHERY PRODUCTS[^c-2dc9639b11f8530f1d0d1bebe3408523]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — ALL OTHER PRODUCTS[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dc9639b11f8530f1d0d1bebe3408523]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/199) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(d)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3))
+[^c-2dc9639b11f8530f1d0d1bebe3408523]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/199) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(d)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3))

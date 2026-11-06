@@ -49,7 +49,7 @@ Article 34(1) of the Convention provides that the Parties to the Convention shal
 
 The last such notification was given by the United Kingdom on 20th February 2007 and the Convention therefore enters into force on 1st June 2007.
 
-In order to give effect to the Convention, therefore, Her Majesty, in exercise of the power conferred on Her by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so is pleased, by and with the advice of Her Privy Council, to order as follows:[^key-db6b40f71a4e4716e714ff85f3419de7][^key-9501b924000f20586a2b996169bd6bdb]
+In order to give effect to the Convention, therefore, Her Majesty, in exercise of the power conferred on Her by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so is pleased, by and with the advice of Her Privy Council, to order as follows:[^c-db6b40f71a4e4716e714ff85f3419de7][^c-9501b924000f20586a2b996169bd6bdb]
 
 ## 1. Citation and commencement
 
@@ -610,9 +610,9 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^c1830910]: Marginal citation: *See* Cm 6765.
 
-[^key-db6b40f71a4e4716e714ff85f3419de7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/631) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-db6b40f71a4e4716e714ff85f3419de7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/631) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-9501b924000f20586a2b996169bd6bdb]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/631) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-9501b924000f20586a2b996169bd6bdb]: Modification: [Order](https://www.legislation.gov.uk/uksi/2007/631) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
 [^c1830911]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

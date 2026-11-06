@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Amendment of the Well-being of Future Generations (Wales) Act 2015[^key-21fd649a8f9257ff9eab5449ba061432]
+## 114. Amendment of the Well-being of Future Generations (Wales) Act 2015[^c-21fd649a8f9257ff9eab5449ba061432]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In paragraph 1 of Schedule 1 to the Well-being of Future Generations (Wales) Act
 
 ## Annotations
 
-[^key-21fd649a8f9257ff9eab5449ba061432]: Commencement: S. 114 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-21fd649a8f9257ff9eab5449ba061432]: Commencement: S. 114 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-8498d9957ceb1cc3340e53052cc2d353]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-8498d9957ceb1cc3340e53052cc2d353]
 
 | *(1)*<br>*Area* | *(2)*<br>*Location* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Article 15
 | Lincolnshire County Council | Proposed New Access off Common Lane Westbound | Proposed new access to be constructed at the point marked 6/15 on Sheet 6 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Existing Access off Torksey Ferry Road to Shortleys Road | Existing access to be improved at the point marked 23/07 on Sheet 23 of the streets, rights of way and access plans. |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^key-91a1ea24e7727cbeb199d38cf11fbe0d]
+### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^c-91a1ea24e7727cbeb199d38cf11fbe0d]
 
 | *(1)*<br>*Area* | *(2)*<br>*Location* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -73,6 +73,6 @@ Article 15
 
 ## Annotations
 
-[^key-8498d9957ceb1cc3340e53052cc2d353]: Commencement: Sch. 7 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-8498d9957ceb1cc3340e53052cc2d353]: Commencement: Sch. 7 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-91a1ea24e7727cbeb199d38cf11fbe0d]: Commencement: Sch. 7 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-91a1ea24e7727cbeb199d38cf11fbe0d]: Commencement: Sch. 7 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24.[^key-d050e335f63707768d63d0080e99e0ec]
+## 24.[^c-d050e335f63707768d63d0080e99e0ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d050e335f63707768d63d0080e99e0ec]: Textual amendment: [Regs. 23](https://www.legislation.gov.uk/uksi/2019/748/regulation/23), [24](https://www.legislation.gov.uk/uksi/2019/748/regulation/24) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), reg., Sch. Pt. 1 para. 1 Table 2 (with Sch. Pt. 2 para. 2)
+[^c-d050e335f63707768d63d0080e99e0ec]: Textual amendment: [Regs. 23](https://www.legislation.gov.uk/uksi/2019/748/regulation/23), [24](https://www.legislation.gov.uk/uksi/2019/748/regulation/24) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), reg., Sch. Pt. 1 para. 1 Table 2 (with Sch. Pt. 2 para. 2)

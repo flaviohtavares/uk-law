@@ -672,7 +672,7 @@ Delegated Regulation (EU) 2015/2446 is corrected as follows:
 
 Article 1(13)(b) and Article 1(16)(b)(i) shall apply from 15 March 2020.
 
-[^key-4fde3165898db1d1a0398d3eef2599ea]...
+[^c-4fde3165898db1d1a0398d3eef2599ea]...
 
 Done at Brussels, 3 April 2020.
 
@@ -969,4 +969,4 @@ In Annex 1 to Delegated Regulation (EU) 2016/341, in the Table Legend, the rows 
 
 [^f00015]: Footnote: Council Regulation (EU) 2018/581 of 16 April 2018 temporarily suspending the autonomous Common Customs Tariff duties on certain goods of a kind to be incorporated in or used for aircraft, and repealing Regulation (EC) No 1147/2002 ([OJ L 98, 18.4.2018, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.098.01.0001.01.ENG)).’.
 
-[^key-4fde3165898db1d1a0398d3eef2599ea]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/877/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(f) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))
+[^c-4fde3165898db1d1a0398d3eef2599ea]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/877/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(f) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))

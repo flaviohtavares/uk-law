@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW, ENGLAND AND WALES
 
-The Youth Rehabilitation Order (Electronic Monitoring Whereabouts Requirement) (Responsible Persons) Regulations 2023 (revoked)[^key-014b38e2230d7d2cb40b0578e69183bd]
+The Youth Rehabilitation Order (Electronic Monitoring Whereabouts Requirement) (Responsible Persons) Regulations 2023 (revoked)[^c-014b38e2230d7d2cb40b0578e69183bd]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 3rd July 2023
 
-[^key-014b38e2230d7d2cb40b0578e69183bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-014b38e2230d7d2cb40b0578e69183bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-014b38e2230d7d2cb40b0578e69183bd]
+## 1. Citation, commencement and extent[^c-014b38e2230d7d2cb40b0578e69183bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Responsible person for the purposes of paragraph 46 of Schedule 6 to the Sentencing Act 2020[^key-014b38e2230d7d2cb40b0578e69183bd]
+## 2. Responsible person for the purposes of paragraph 46 of Schedule 6 to the Sentencing Act 2020[^c-014b38e2230d7d2cb40b0578e69183bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-014b38e2230d7d2cb40b0578e69183bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-014b38e2230d7d2cb40b0578e69183bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-014b38e2230d7d2cb40b0578e69183bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-014b38e2230d7d2cb40b0578e69183bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-014b38e2230d7d2cb40b0578e69183bd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/717) revoked (31.1.2025) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/3), [9(2)(c)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/2/c)
+[^c-014b38e2230d7d2cb40b0578e69183bd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/717) revoked (31.1.2025) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/3), [9(2)(c)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/2/c)

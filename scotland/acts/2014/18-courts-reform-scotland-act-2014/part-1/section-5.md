@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Summary sheriffs[^key-9d3b8a0fd78e0e2d7307c4a81cd89e00][^key-920128955d27ab2bbf210cd58c3345c4]
+## 5. Summary sheriffs[^c-9d3b8a0fd78e0e2d7307c4a81cd89e00][^c-920128955d27ab2bbf210cd58c3345c4]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3b8a0fd78e0e2d7307c4a81cd89e00]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/18/section/5) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-9d3b8a0fd78e0e2d7307c4a81cd89e00]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/18/section/5) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-920128955d27ab2bbf210cd58c3345c4]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/18/section/5) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-920128955d27ab2bbf210cd58c3345c4]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/18/section/5) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

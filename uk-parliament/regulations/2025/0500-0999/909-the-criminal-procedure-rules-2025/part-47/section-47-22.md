@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.22. Content of application for an account monitoring order under the Proceeds of Crime Act 2002[^key-00ca1304a97c9713be3997f223a6c7ab]
+## 47.22. Content of application for an account monitoring order under the Proceeds of Crime Act 2002[^c-00ca1304a97c9713be3997f223a6c7ab]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ As well as complying with rules 47.6 and 47.17, an applicant who wants the court
 
 ## Annotations
 
-[^key-00ca1304a97c9713be3997f223a6c7ab]: Commencement: Rule 47.22 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-00ca1304a97c9713be3997f223a6c7ab]: Commencement: Rule 47.22 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01181]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 370 was amended by section 77 of, and paragraphs 1 and 12 of Schedule 10 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 169 of, and paragraphs 1 and 17 of Schedule 19 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and section 49 of, and paragraphs 1 and 12 of Schedule 19 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).

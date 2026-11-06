@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Street works[^key-f1226627b378d47db7aad84c0a722038]
+## 15. Street works[^c-f1226627b378d47db7aad84c0a722038]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1226627b378d47db7aad84c0a722038]: Commencement: Art. 15 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-f1226627b378d47db7aad84c0a722038]: Commencement: Art. 15 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

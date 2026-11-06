@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to deviate[^key-ccca173f357d93ee119974d5528f8ddc]
+## 4. Power to deviate[^c-ccca173f357d93ee119974d5528f8ddc]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccca173f357d93ee119974d5528f8ddc]: Commencement: Art. 4 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-ccca173f357d93ee119974d5528f8ddc]: Commencement: Art. 4 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

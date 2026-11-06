@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Monitoring and reporting on environmental law[^key-92e92975c7f79ac17f6ddea84654b16f][^key-fd4e1dbe0d98a482fbf691dd6ca56159]
+## 29. Monitoring and reporting on environmental law[^c-92e92975c7f79ac17f6ddea84654b16f][^c-fd4e1dbe0d98a482fbf691dd6ca56159]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92e92975c7f79ac17f6ddea84654b16f]: Commencement: S. 29 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-92e92975c7f79ac17f6ddea84654b16f]: Commencement: S. 29 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-fd4e1dbe0d98a482fbf691dd6ca56159]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/30/section/29) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/f)
+[^c-fd4e1dbe0d98a482fbf691dd6ca56159]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/30/section/29) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/f)

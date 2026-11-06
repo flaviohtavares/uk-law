@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Permanent stopping up of public rights of way[^key-078ae1943f4d9da5069cc030df759f53]
+## 13. Permanent stopping up of public rights of way[^c-078ae1943f4d9da5069cc030df759f53]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-078ae1943f4d9da5069cc030df759f53]: Commencement: Art. 13 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-078ae1943f4d9da5069cc030df759f53]: Commencement: Art. 13 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

@@ -27,7 +27,7 @@ summary: ''
 
 and on such other matters concerning his functions under this Part as he may from time to time direct.
 
-For other functions of the committee, see Part 2 of the Genetic Technology (Precision Breeding) Act 2023.[^key-2b357f9e22a0963b33880f92e1d6ac7d]
+For other functions of the committee, see Part 2 of the Genetic Technology (Precision Breeding) Act 2023.[^c-2b357f9e22a0963b33880f92e1d6ac7d]
 
 (2) The chairman and other members of the committee shall hold and vacate office in accordance with the terms of their appointment.
 
@@ -39,4 +39,4 @@ For other functions of the committee, see Part 2 of the Genetic Technology (Prec
 
 [^c19013311]: Modification: [S. 124](https://www.legislation.gov.uk/ukpga/1990/43/section/124) extended (Isles of Scilly) (with modifications) (4.8.2006) by [The Environmental Protection Act 1990 (Isles of Scilly) Order 2006 (S.I. 2006/1381)](https://www.legislation.gov.uk/uksi/2006/1381), [art. 3](https://www.legislation.gov.uk/uksi/2006/1381/article/3)
 
-[^key-2b357f9e22a0963b33880f92e1d6ac7d]: Textual amendment: Words in [s. 124(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/124/1) inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/3), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+[^c-2b357f9e22a0963b33880f92e1d6ac7d]: Textual amendment: Words in [s. 124(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/124/1) inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/3), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)

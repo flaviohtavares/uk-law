@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Marks applied under these regulations[^key-aa453d26ff764e45ace71d7791522468]
+## 48. Marks applied under these regulations[^c-aa453d26ff764e45ace71d7791522468]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person shall not remove, obscure or erase a mark applied to any animal, carcas
 
 ## Annotations
 
-[^key-aa453d26ff764e45ace71d7791522468]: Commencement: Reg. 48 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-aa453d26ff764e45ace71d7791522468]: Commencement: Reg. 48 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

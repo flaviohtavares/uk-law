@@ -44,7 +44,7 @@ In the opinion of the Treasury, one of the effects of this Order is that an acti
 
 A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with paragraphs 2 and 2A of Schedule 2 to the European Communities Act 1972[^c23160241], section 429(3) and (4) of, and paragraph 26(2) of Schedule 2 to, the Financial Services and Markets Act 2000[^c23160251] and sections 6(10) and 161(4) of the Small Business, Enterprise and Employment Act 2015[^c23160261].
 
-The Treasury make this Order in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, sections 21(9), (10) and (15), 22(1) and (5), 38, 39 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000[^c23160271] and sections 5(3) and 161(2)(d) of the Small Business, Enterprise and Employment Act 2015.[^key-1763ca5babd07bab559cd34aada62b60]
+The Treasury make this Order in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, sections 21(9), (10) and (15), 22(1) and (5), 38, 39 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000[^c23160271] and sections 5(3) and 161(2)(d) of the Small Business, Enterprise and Employment Act 2015.[^c-1763ca5babd07bab559cd34aada62b60]
 
 ## PART 1 — Citation and commencement
 
@@ -724,7 +724,7 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23160271]: Marginal citation: [Section 38](https://www.legislation.gov.uk/uksi/2016/392/section/38) was amended by paragraph 4 of Schedule 18 to the Financial Services Act 2012. Paragraph 25(1)(f), (2) and (3) of Schedule 2 to the Financial Services and Markets Act 2000 provides that an order under section 22(1) of that Act may make consequential, transitional or supplemental provision.
 
-[^key-1763ca5babd07bab559cd34aada62b60]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-1763ca5babd07bab559cd34aada62b60]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c23160281]: Marginal citation: “**The FCA**” means the Financial Conduct Authority (see [section 1A(2)](https://www.legislation.gov.uk/uksi/2016/392/section/1A/2) of the Financial Services and Markets Act 2000).
 

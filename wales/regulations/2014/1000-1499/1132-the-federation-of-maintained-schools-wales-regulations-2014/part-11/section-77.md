@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Financing of federations[^key-ba536a4609afea7910acf65fa94a5cb9]
+## 77. Financing of federations[^c-ba536a4609afea7910acf65fa94a5cb9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except as provided by regulation 78, Chapter 4 of Part 2 of the 1998 Act (*finan
 
 ## Annotations
 
-[^key-ba536a4609afea7910acf65fa94a5cb9]: Commencement: Reg. 77 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-ba536a4609afea7910acf65fa94a5cb9]: Commencement: Reg. 77 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

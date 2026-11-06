@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Introductory[^key-1c8eefedee96d7b06f0526da95ec8350]
+## 55. Introductory[^c-1c8eefedee96d7b06f0526da95ec8350]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The European Primary and Specialist Dental Qualifications Regulations 1998[^f000
 
 ## Annotations
 
-[^key-1c8eefedee96d7b06f0526da95ec8350]: Commencement: Reg. 55 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-1c8eefedee96d7b06f0526da95ec8350]: Commencement: Reg. 55 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00040]: Footnote: [S.I. 1998/811](https://www.legislation.gov.uk/uksi/1998/811).

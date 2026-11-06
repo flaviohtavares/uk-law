@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 383A. “Opted-out creditor”[^key-18d4a6a8ab999f166167564fa75d96f2]
+## 383A. “Opted-out creditor”[^c-18d4a6a8ab999f166167564fa75d96f2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18d4a6a8ab999f166167564fa75d96f2]: Textual amendment: [S. 383A](https://www.legislation.gov.uk/ukpga/1986/45/section/383A) inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 125(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/125/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)
+[^c-18d4a6a8ab999f166167564fa75d96f2]: Textual amendment: [S. 383A](https://www.legislation.gov.uk/ukpga/1986/45/section/383A) inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 125(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/125/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.7. Emergencies etc. – dispensing with giving of public notice[^key-021bc2425b89e8d663faa265185db8ca]
+## 6.7. Emergencies etc. – dispensing with giving of public notice[^c-021bc2425b89e8d663faa265185db8ca]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-021bc2425b89e8d663faa265185db8ca]: Commencement: [Rule 6.7](https://www.legislation.gov.uk/uksi/2015/1568/article/6.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-021bc2425b89e8d663faa265185db8ca]: Commencement: [Rule 6.7](https://www.legislation.gov.uk/uksi/2015/1568/article/6.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

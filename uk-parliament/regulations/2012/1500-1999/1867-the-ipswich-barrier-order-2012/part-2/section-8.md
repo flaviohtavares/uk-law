@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Power to dredge etc.[^key-7477cd977f1c4b017e47089b7a9c5d82]
+## 8. Power to dredge etc.[^c-7477cd977f1c4b017e47089b7a9c5d82]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7477cd977f1c4b017e47089b7a9c5d82]: Commencement: Art. 8 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-7477cd977f1c4b017e47089b7a9c5d82]: Commencement: Art. 8 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00013]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

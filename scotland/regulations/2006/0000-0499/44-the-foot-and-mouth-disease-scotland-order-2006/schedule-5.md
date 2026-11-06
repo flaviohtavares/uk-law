@@ -38,11 +38,11 @@ Meat products fall within this paragraph if they have undergone any of the follo
 
 #### 2. Hides and skins
 
-Hides and skins fall within this paragraph if they comply with the requirements in Article[^key-000203c5f802cd8d03d0120d3a6280d8] 36[^key-26f454141b84100bd101c5965136839f] of Regulation (EC) No 1069/2009 and point 28(c) and (d) of Annex I[^key-804201a5b9dfc4d064cb7cb28180e807] of Regulation (EU) No 142/2011.
+Hides and skins fall within this paragraph if they comply with the requirements in Article[^c-000203c5f802cd8d03d0120d3a6280d8] 36[^c-26f454141b84100bd101c5965136839f] of Regulation (EC) No 1069/2009 and point 28(c) and (d) of Annex I[^c-804201a5b9dfc4d064cb7cb28180e807] of Regulation (EU) No 142/2011.
 
 #### 3. Wool, ruminant hair and pig bristles
 
-Wool, ruminant hair and pig bristles fall within this paragraph if they comply with the requirements of Article 36 of Regulation (EC) No 1069/2009 and Article 24(4) of Regulation (EU) No 142/2011[^key-26d9a654d9f13a152ca17f3127974d4a].
+Wool, ruminant hair and pig bristles fall within this paragraph if they comply with the requirements of Article 36 of Regulation (EC) No 1069/2009 and Article 24(4) of Regulation (EU) No 142/2011[^c-26d9a654d9f13a152ca17f3127974d4a].
 
 #### 4. Products derived from susceptible animals
 
@@ -53,19 +53,19 @@ Animal products derived from susceptible animals fall within this paragraph if t
 
 #### 5. Blood and blood products
 
-Blood and blood products of susceptible animals fall within this paragraph if they are used for technical purposes (including pharmaceuticals, in vitro diagnostics and laboratory reagents) and have undergone any of the treatments referred to in point 2(b)(ii) of Chapter IV of Annex XIII to Regulation (EU) No 142/2011[^key-1b6d9115bf5670a0bd34415337e553b7].
+Blood and blood products of susceptible animals fall within this paragraph if they are used for technical purposes (including pharmaceuticals, in vitro diagnostics and laboratory reagents) and have undergone any of the treatments referred to in point 2(b)(ii) of Chapter IV of Annex XIII to Regulation (EU) No 142/2011[^c-1b6d9115bf5670a0bd34415337e553b7].
 
 #### 6. Lard and rendered fats
 
-Lard and rendered fats fall within this paragraph if they have undergone the heat treatment referred to in section 3(d) of Chapter 1 of Annex XIV to Regulation (EU) No 142/2011[^key-ff44e3d1b8605a215c840dff3fff2b3a].
+Lard and rendered fats fall within this paragraph if they have undergone the heat treatment referred to in section 3(d) of Chapter 1 of Annex XIV to Regulation (EU) No 142/2011[^c-ff44e3d1b8605a215c840dff3fff2b3a].
 
 #### 7. Petfood and dog chews
 
-Petfood and dog chews fall within this paragraph if they comply with the requirements of Chapter II of Annex XIII to Regulation (EU) No 142/2011[^key-6cb828518e28043e1eaa90999dd22ec0].
+Petfood and dog chews fall within this paragraph if they comply with the requirements of Chapter II of Annex XIII to Regulation (EU) No 142/2011[^c-6cb828518e28043e1eaa90999dd22ec0].
 
 #### 8. Game trophies of ungulates
 
-Game trophies of ungulates fall within this paragraph if they comply with the requirements of Chapter VI of Annex XIII to Regulation (EU) No 142/2011[^key-8e6a112b34a135d35ef40d820bf1a653].
+Game trophies of ungulates fall within this paragraph if they comply with the requirements of Chapter VI of Annex XIII to Regulation (EU) No 142/2011[^c-8e6a112b34a135d35ef40d820bf1a653].
 
 #### 9. Animal casings
 
@@ -132,18 +132,18 @@ Carcases are matured so that they fall within this paragraph if they–
 
 ## Annotations
 
-[^key-000203c5f802cd8d03d0120d3a6280d8]: Textual amendment: Words in [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/2) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(a)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
+[^c-000203c5f802cd8d03d0120d3a6280d8]: Textual amendment: Words in [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/2) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(a)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
 
-[^key-26f454141b84100bd101c5965136839f]: Textual amendment: Sum in [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/2) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/8)
+[^c-26f454141b84100bd101c5965136839f]: Textual amendment: Sum in [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/2) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/8)
 
-[^key-804201a5b9dfc4d064cb7cb28180e807]: Textual amendment: Words in [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/2) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(6)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/6)
+[^c-804201a5b9dfc4d064cb7cb28180e807]: Textual amendment: Words in [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/2) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(6)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/6)
 
-[^key-26d9a654d9f13a152ca17f3127974d4a]: Textual amendment: Words in [sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/3) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(b)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
+[^c-26d9a654d9f13a152ca17f3127974d4a]: Textual amendment: Words in [sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/3) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(b)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
 
-[^key-1b6d9115bf5670a0bd34415337e553b7]: Textual amendment: Words in [sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/5) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(c)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
+[^c-1b6d9115bf5670a0bd34415337e553b7]: Textual amendment: Words in [sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/5) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(c)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
 
-[^key-ff44e3d1b8605a215c840dff3fff2b3a]: Textual amendment: Words in [sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/6) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(d)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
+[^c-ff44e3d1b8605a215c840dff3fff2b3a]: Textual amendment: Words in [sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/6) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(d)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
 
-[^key-6cb828518e28043e1eaa90999dd22ec0]: Textual amendment: Words in [sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/7) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(e)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
+[^c-6cb828518e28043e1eaa90999dd22ec0]: Textual amendment: Words in [sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/7) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(e)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
 
-[^key-8e6a112b34a135d35ef40d820bf1a653]: Textual amendment: Words in [sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/8) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(f)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)
+[^c-8e6a112b34a135d35ef40d820bf1a653]: Textual amendment: Words in [sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2006/44/schedule/5/paragraph/8) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 24(f)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/24/2011-03-04)

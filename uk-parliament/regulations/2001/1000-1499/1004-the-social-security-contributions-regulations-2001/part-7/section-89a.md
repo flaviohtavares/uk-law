@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Class 2 contributions for tax years up to 2014-15[^key-45ebb3090deb1ee73c63e68628802478]
+## 89A. Class 2 contributions for tax years up to 2014-15[^c-45ebb3090deb1ee73c63e68628802478]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ HMRC shall issue P with written notice of the amount of Class 2 contributions fo
 
 ## Annotations
 
-[^key-45ebb3090deb1ee73c63e68628802478]: Textual amendment: [Reg. 89A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/89A) inserted (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2015/478/regulation/13)
+[^c-45ebb3090deb1ee73c63e68628802478]: Textual amendment: [Reg. 89A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/89A) inserted (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2015/478/regulation/13)

@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Carriage of Explosives (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-e39650520ae0577e8d6c1b49c8a3b882]
+The Carriage of Explosives (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 Made
 
@@ -43,150 +43,150 @@ Coming into operation
 
 22nd November 2001
 
-[^key-e39650520ae0577e8d6c1b49c8a3b882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e39650520ae0577e8d6c1b49c8a3b882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## 1. Citation and commencement[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## 2. Amendments to the Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Packaging of Explosives for Carriage Regulations (Northern Ireland) 1993[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## 3. Amendments to the Packaging of Explosives for Carriage Regulations (Northern Ireland) 1993[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## 4. Amendments to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Carriage of Explosives by Road (Driver Training) Regulations (Northern Ireland) 1997[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## 5. Amendments to the Carriage of Explosives by Road (Driver Training) Regulations (Northern Ireland) 1997[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Transport of Explosives (Safety Advisers) Regulations (Northern Ireland) 2000.[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## 6. Amendments to the Transport of Explosives (Safety Advisers) Regulations (Northern Ireland) 2000.[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e39650520ae0577e8d6c1b49c8a3b882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e39650520ae0577e8d6c1b49c8a3b882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Amendments to the Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## SCHEDULE 1 — Amendments to the Classification and Labelling of Explosives Regulations (Northern Ireland) 1991[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 Regulation 2
 
-**1.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amendments to the Packaging of Explosives for Carriage Regulations (Northern Ireland) 1993[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## SCHEDULE 2 — Amendments to the Packaging of Explosives for Carriage Regulations (Northern Ireland) 1993[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 Regulation 3
 
-**1.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Amendments to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## SCHEDULE 3 — Amendments to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 Regulation 4
 
-**1.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amendments to the Carriage of Explosives by Road (Driver Training) Regulations (Northern Ireland) 1997[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## SCHEDULE 4 — Amendments to the Carriage of Explosives by Road (Driver Training) Regulations (Northern Ireland) 1997[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 Regulation 5
 
-**1.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Amendments to the Transport of Explosives (Safety Advisers) Regulations (Northern Ireland) 2000[^key-e39650520ae0577e8d6c1b49c8a3b882]
+## SCHEDULE 5 — Amendments to the Transport of Explosives (Safety Advisers) Regulations (Northern Ireland) 2000[^c-e39650520ae0577e8d6c1b49c8a3b882]
 
 Regulation 6
 
-**1.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e39650520ae0577e8d6c1b49c8a3b882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e39650520ae0577e8d6c1b49c8a3b882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e39650520ae0577e8d6c1b49c8a3b882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e39650520ae0577e8d6c1b49c8a3b882]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/390) revoked (1.8.2006) by [The Carriage of Explosives Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/182)](https://www.legislation.gov.uk/nisr/2006/182), [reg. 1](https://www.legislation.gov.uk/nisr/2006/182/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2006/182/schedule/7) (with [reg. 48(2)-(5)](https://www.legislation.gov.uk/nisr/2006/182/regulation/48/2))
+[^c-e39650520ae0577e8d6c1b49c8a3b882]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/390) revoked (1.8.2006) by [The Carriage of Explosives Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/182)](https://www.legislation.gov.uk/nisr/2006/182), [reg. 1](https://www.legislation.gov.uk/nisr/2006/182/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2006/182/schedule/7) (with [reg. 48(2)-(5)](https://www.legislation.gov.uk/nisr/2006/182/regulation/48/2))

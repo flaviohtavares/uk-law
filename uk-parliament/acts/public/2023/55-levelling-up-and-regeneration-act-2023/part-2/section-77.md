@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Local authorities in England: alternative mayoral titles[^key-4b8843cd492737dec04d204ebcd97433]
+## 77. Local authorities in England: alternative mayoral titles[^c-4b8843cd492737dec04d204ebcd97433]
 
 *Extent: E+W*
 
@@ -141,4 +141,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b8843cd492737dec04d204ebcd97433]: Commencement: S. 77 in force at Royal Assent, see [s. 255(2)(o)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/o)
+[^c-4b8843cd492737dec04d204ebcd97433]: Commencement: S. 77 in force at Royal Assent, see [s. 255(2)(o)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/o)

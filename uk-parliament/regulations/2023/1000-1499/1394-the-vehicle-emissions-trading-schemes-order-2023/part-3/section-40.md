@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Expiry of CCTS allowances[^key-c1ddbccd38529dce30a0c24d13128a9b]
+## 40. Expiry of CCTS allowances[^c-c1ddbccd38529dce30a0c24d13128a9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The administrator must record in the registry the expiry of a CCTS allowance, in
 
 ## Annotations
 
-[^key-c1ddbccd38529dce30a0c24d13128a9b]: Commencement: Art. 40 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c1ddbccd38529dce30a0c24d13128a9b]: Commencement: Art. 40 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

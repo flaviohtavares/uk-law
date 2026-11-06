@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amendments relating to Decision 2/2020 of the EEA Joint Committee[^key-b004c248ae3eb48a03e0b10c609b621f]
+## 40. Amendments relating to Decision 2/2020 of the EEA Joint Committee[^c-b004c248ae3eb48a03e0b10c609b621f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b004c248ae3eb48a03e0b10c609b621f]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-b004c248ae3eb48a03e0b10c609b621f]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

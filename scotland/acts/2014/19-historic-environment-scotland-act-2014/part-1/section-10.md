@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Grants to Historic Environment Scotland by the Scottish Ministers[^key-5cd1ced6640cd1a5f25b0c0e4978d51b]
+## 10. Grants to Historic Environment Scotland by the Scottish Ministers[^c-5cd1ced6640cd1a5f25b0c0e4978d51b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cd1ced6640cd1a5f25b0c0e4978d51b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/19/section/10) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-5cd1ced6640cd1a5f25b0c0e4978d51b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/19/section/10) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

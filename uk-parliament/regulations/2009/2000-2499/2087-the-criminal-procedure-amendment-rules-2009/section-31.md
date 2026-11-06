@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**31.**[^key-93e5f4fe4dcca730a05444cf429f664f] In Part 74—
+**31.**[^c-93e5f4fe4dcca730a05444cf429f664f] In Part 74—
 
 - (a) for “House of Lords”, in each place it occurs, substitute “Supreme Court”; and
 - (b) in the note after rule 74.1, omit the eighth paragraph, which provides—
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93e5f4fe4dcca730a05444cf429f664f]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2009/2087/article/31) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-93e5f4fe4dcca730a05444cf429f664f]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2009/2087/article/31) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

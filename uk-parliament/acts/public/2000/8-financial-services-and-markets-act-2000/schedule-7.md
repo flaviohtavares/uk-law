@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7[^key-37b310a0ea6643473422b0b475fcbb47]
+## SCHEDULE 7[^c-37b310a0ea6643473422b0b475fcbb47]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ Section 72(2).
 
 ## Annotations
 
-[^key-37b310a0ea6643473422b0b475fcbb47]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/2000/8/schedule/7) omitted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(14)(k)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/14/k), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-37b310a0ea6643473422b0b475fcbb47]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/2000/8/schedule/7) omitted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(14)(k)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/14/k), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

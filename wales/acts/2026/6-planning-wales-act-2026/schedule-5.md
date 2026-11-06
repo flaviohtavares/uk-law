@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 96)
 
-### 1. Permission granted on or after 22 February 1982[^key-6b6b55ea67a5a359ecb21e5660aea3bc]
+### 1. Permission granted on or after 22 February 1982[^c-6b6b55ea67a5a359ecb21e5660aea3bc]
 
 (1) Sub-paragraphs (2) and (3) apply to every minerals permission granted on or after 22 February 1982 (the day section 7 of the Town and Country Planning (Minerals) Act [1981 (c. 36)](https://www.legislation.gov.uk/ukpga/1981/36) came into force).
 
@@ -34,11 +34,11 @@ summary: ''
 
 (4) Regulations may specify a different period, beginning with the day the permission is granted, for the purposes of sub-paragraph (3) (including by amending that sub-paragraph).
 
-### 2. Permission granted before 22 February 1982[^key-20b7168d5ab53aa613543dd20eda740d]
+### 2. Permission granted before 22 February 1982[^c-20b7168d5ab53aa613543dd20eda740d]
 
 It is a condition of every minerals permission granted before 22 February 1982 that the mining operations or depositing of mineral waste to which the permission relates must stop on or before 21 February 2042 (the end of 60 years beginning with 22 February 1982).
 
-### 3. General[^key-359b5a030b07cf6835d28357284014e6]
+### 3. General[^c-359b5a030b07cf6835d28357284014e6]
 
 (1) A condition to which a minerals permission is subject by virtue of this Schedule is not to be regarded as a condition mentioned in section 67(3) (planning permission granted for a limited period).
 
@@ -46,8 +46,8 @@ It is a condition of every minerals permission granted before 22 February 1982 t
 
 ## Annotations
 
-[^key-6b6b55ea67a5a359ecb21e5660aea3bc]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6b6b55ea67a5a359ecb21e5660aea3bc]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-20b7168d5ab53aa613543dd20eda740d]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-20b7168d5ab53aa613543dd20eda740d]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-359b5a030b07cf6835d28357284014e6]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-359b5a030b07cf6835d28357284014e6]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -22,13 +22,13 @@ summary: ''
 
 Regulation 54
 
-**1.**[^key-6d1b69fb9d2db720c629bcb2a5318033] After Schedule 9, insert—
+**1.**[^c-6d1b69fb9d2db720c629bcb2a5318033] After Schedule 9, insert—
 
 > **SCHEDULE 9A — Meaning of terms used in the orphan criteria and in regulation 58D**
 >
 > Regulation 50G(4)
 >
-> **1. Prevalence of a condition in Great Britain[^key-56f323a61cc01431846942e2f87ca0b5]**
+> **1. Prevalence of a condition in Great Britain[^c-56f323a61cc01431846942e2f87ca0b5]**
 >
 > (1) The following provisions apply for the purposes of establishing, pursuant to regulation 50G(2)(a) and (b)(i), that a medicinal product is intended for the diagnosis, prevention or treatment of a life-threatening or chronically debilitating condition affecting not more than five in 10,000 persons in Great Britain.
 >
@@ -147,6 +147,6 @@ Regulation 54
 
 ## Annotations
 
-[^key-6d1b69fb9d2db720c629bcb2a5318033]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6d1b69fb9d2db720c629bcb2a5318033]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-56f323a61cc01431846942e2f87ca0b5]: Textual amendment: Words in Sch. 4 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 191](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/191)
+[^c-56f323a61cc01431846942e2f87ca0b5]: Textual amendment: Words in Sch. 4 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 191](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/191)

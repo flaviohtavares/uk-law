@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Change of addresses of officers of overseas companies by registrar[^key-688707af2eef3adb5f99cf6c7ef73a28]
+## 98. Change of addresses of officers of overseas companies by registrar[^c-688707af2eef3adb5f99cf6c7ef73a28]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 1046 of the Companies Act 2006 (overseas companies: registration of p
 
 ## Annotations
 
-[^key-688707af2eef3adb5f99cf6c7ef73a28]: Commencement: S. 98 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-688707af2eef3adb5f99cf6c7ef73a28]: Commencement: S. 98 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

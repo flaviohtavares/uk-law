@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-5de6b6eb28a6970d05d5f5d5c64922f0] For each financial year, the Mayor shall prepare a draft of the capital spending plan for the year.
+(1)[^c-5de6b6eb28a6970d05d5f5d5c64922f0] For each financial year, the Mayor shall prepare a draft of the capital spending plan for the year.
 
 (2) Before 15th January in the financial year preceding that to which the capital spending plan relates, the Mayor shall—
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c12802201]: Commencement: S. 123 partly in force; s. 123 not in force at Royal Assent, see s. 425(2); s. 123 in force for specified purposes (3.7.2000) by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-5de6b6eb28a6970d05d5f5d5c64922f0]: Textual amendment: S. 123(1) substituted (1.1.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/76); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2003/2938/article/4/d/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-5de6b6eb28a6970d05d5f5d5c64922f0]: Textual amendment: S. 123(1) substituted (1.1.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/76); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 4(d)(i)](https://www.legislation.gov.uk/uksi/2003/2938/article/4/d/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

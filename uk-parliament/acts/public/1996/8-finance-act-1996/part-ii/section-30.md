@@ -53,7 +53,7 @@ summary: ''
 > - (b) a building intended for use solely for a relevant residential purpose; or
 > - (c) anything which would fall within paragraph (a) or (b) above if different parts of a building were treated as separate buildings.
 
-(2)[^key-5a57d846f64cad23179901976ef6afc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5a57d846f64cad23179901976ef6afc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (3) of that section there shall be inserted the following subsections—
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a57d846f64cad23179901976ef6afc5]: Textual amendment: [S. 30(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/30/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 29 para. 13(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/29/paragraph/13/a)
+[^c-5a57d846f64cad23179901976ef6afc5]: Textual amendment: [S. 30(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/30/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 29 para. 13(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/29/paragraph/13/a)
 
 [^c14609881]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).

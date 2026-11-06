@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Exemption for parent companies included in accounts of larger non-EEA group[^key-bd1d001161bfa142825c2e4d2aa41241]
+## 4. Exemption for parent companies included in accounts of larger non-EEA group[^c-bd1d001161bfa142825c2e4d2aa41241]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ After section 228 of the 1985 Act insert the following–
 
 ## Annotations
 
-[^key-bd1d001161bfa142825c2e4d2aa41241]: Commencement: Reg. 4 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-bd1d001161bfa142825c2e4d2aa41241]: Commencement: Reg. 4 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)

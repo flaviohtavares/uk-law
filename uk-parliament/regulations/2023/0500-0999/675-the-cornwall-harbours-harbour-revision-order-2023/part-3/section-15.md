@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Port of Truro Reserve Fund[^key-b2c671dc5b728d4c515a858aeed35c42]
+## 15. Port of Truro Reserve Fund[^c-b2c671dc5b728d4c515a858aeed35c42]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2c671dc5b728d4c515a858aeed35c42]: Commencement: Art. 15 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-b2c671dc5b728d4c515a858aeed35c42]: Commencement: Art. 15 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

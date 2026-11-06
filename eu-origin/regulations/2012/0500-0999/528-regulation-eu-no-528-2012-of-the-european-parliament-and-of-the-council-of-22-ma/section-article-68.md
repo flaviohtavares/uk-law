@@ -22,8 +22,8 @@ summary: ''
 
 1. Authorisation holders shall keep records of the biocidal products they place on the market for at least 10 years after placing on the market, or 10 years after the date on which the authorisation was cancelled or expired, whichever is the earlier. They shall make available the relevant information contained in these records to the competent authority on request.
 
-2.[^key-22e479eb9773d31b5bfcc161aa260894] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-22e479eb9773d31b5bfcc161aa260894] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22e479eb9773d31b5bfcc161aa260894]: Textual amendment: [Art. 68(2)](https://www.legislation.gov.uk/eur/2012/528/article/68/2) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 114](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22e479eb9773d31b5bfcc161aa260894]: Textual amendment: [Art. 68(2)](https://www.legislation.gov.uk/eur/2012/528/article/68/2) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 114](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

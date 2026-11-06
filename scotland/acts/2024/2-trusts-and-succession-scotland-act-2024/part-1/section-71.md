@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Expenses of application[^key-68c166bec2869992eb3d4fbcba10c3b7]
+## 71. Expenses of application[^c-68c166bec2869992eb3d4fbcba10c3b7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68c166bec2869992eb3d4fbcba10c3b7]: Commencement: S. 71 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-68c166bec2869992eb3d4fbcba10c3b7]: Commencement: S. 71 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

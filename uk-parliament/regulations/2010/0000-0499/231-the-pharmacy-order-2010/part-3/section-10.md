@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Power of entry[^key-afd7a8e73faf15ed566f241148ec2a75][^key-2d2bd3f210aa6d719e5ac48180d8c017]
+## 10. Power of entry[^c-afd7a8e73faf15ed566f241148ec2a75][^c-2d2bd3f210aa6d719e5ac48180d8c017]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ the justice may by signed warrant authorise the inspector to enter the premises,
 
 ## Annotations
 
-[^key-afd7a8e73faf15ed566f241148ec2a75]: Commencement: Art. 10 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-afd7a8e73faf15ed566f241148ec2a75]: Commencement: Art. 10 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-2d2bd3f210aa6d719e5ac48180d8c017]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/231/article/10) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2d2bd3f210aa6d719e5ac48180d8c017]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/231/article/10) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

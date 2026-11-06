@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.12A. Notices and certificates: section 19(4), 20(1) and 24(5) and (5A) of the 1950 Act[^key-c3418bc5cc0a5b9c1ca2defafbfd6b89]
+## 32.12A. Notices and certificates: section 19(4), 20(1) and 24(5) and (5A) of the 1950 Act[^c-c3418bc5cc0a5b9c1ca2defafbfd6b89]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3418bc5cc0a5b9c1ca2defafbfd6b89]: Textual amendment: Rule 32.12A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [91](https://www.legislation.gov.uk/uksi/2013/3204/rule/91) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-c3418bc5cc0a5b9c1ca2defafbfd6b89]: Textual amendment: Rule 32.12A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [91](https://www.legislation.gov.uk/uksi/2013/3204/rule/91) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

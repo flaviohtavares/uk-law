@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Report on performance of the Scottish education system[^key-6e64bd8848c213ffe7c3ec045d404474][^key-c82d2641d4f6e6c1d254a575d9c267a7]
+## 48. Report on performance of the Scottish education system[^c-6e64bd8848c213ffe7c3ec045d404474][^c-c82d2641d4f6e6c1d254a575d9c267a7]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e64bd8848c213ffe7c3ec045d404474]: Commencement: S. 48 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-6e64bd8848c213ffe7c3ec045d404474]: Commencement: S. 48 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-c82d2641d4f6e6c1d254a575d9c267a7]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/11/section/48) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-c82d2641d4f6e6c1d254a575d9c267a7]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/11/section/48) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

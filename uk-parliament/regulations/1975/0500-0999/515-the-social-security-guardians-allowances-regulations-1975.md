@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Guardian's Allowances) Regulations 1975 (revoked)[^key-72dab6623fd25d375468f6ad18b71d7c]
+The Social Security (Guardian's Allowances) Regulations 1975 (revoked)[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into Operation
 
 6th April 1975
 
-[^key-72dab6623fd25d375468f6ad18b71d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72dab6623fd25d375468f6ad18b71d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 1. Citation, commencement and interpretation[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1A.**[^key-72dab6623fd25d375468f6ad18b71d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1A.**[^c-72dab6623fd25d375468f6ad18b71d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Adopted children[^key-72dab6623fd25d375468f6ad18b71d7c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. Illegitimate children[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 2. Adopted children[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Children of divorced persons, etc.[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 3. Illegitimate children[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Children whose surviving parents are in prison or legal custody[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 4. Children of divorced persons, etc.[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Residence condition[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 5. Children whose surviving parents are in prison or legal custody[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6A. Prescribed manner of making an election under section 38 of the Act[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 6. Residence condition[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6B. Electronic elections[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 6A. Prescribed manner of making an election under section 38 of the Act[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provisions[^key-72dab6623fd25d375468f6ad18b71d7c]
+## 6B. Electronic elections[^c-72dab6623fd25d375468f6ad18b71d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72dab6623fd25d375468f6ad18b71d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Transitional provisions[^c-72dab6623fd25d375468f6ad18b71d7c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-72dab6623fd25d375468f6ad18b71d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72dab6623fd25d375468f6ad18b71d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72dab6623fd25d375468f6ad18b71d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72dab6623fd25d375468f6ad18b71d7c]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1975/515) revoked (7.4.2003) by [The Guardians Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [regs. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1)
+[^c-72dab6623fd25d375468f6ad18b71d7c]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1975/515) revoked (7.4.2003) by [The Guardians Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [regs. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Cross-border enforcement powers[^key-19b4239b889a299e65a5bbdf47b2d40b]
+## 309. Cross-border enforcement powers[^c-19b4239b889a299e65a5bbdf47b2d40b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19b4239b889a299e65a5bbdf47b2d40b]: Commencement: S. 309 in force at Royal Assent, see [s. 334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-19b4239b889a299e65a5bbdf47b2d40b]: Commencement: S. 309 in force at Royal Assent, see [s. 334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

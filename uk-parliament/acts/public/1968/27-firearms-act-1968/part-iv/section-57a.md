@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57A. Exception for airsoft guns[^key-44e80bf91f0f47acfdc4ffadf1c04109]
+## 57A. Exception for airsoft guns[^c-44e80bf91f0f47acfdc4ffadf1c04109]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e80bf91f0f47acfdc4ffadf1c04109]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/ukpga/1968/27/section/57A) inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 125(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/125/5), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/b)
+[^c-44e80bf91f0f47acfdc4ffadf1c04109]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/ukpga/1968/27/section/57A) inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 125(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/125/5), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/b)

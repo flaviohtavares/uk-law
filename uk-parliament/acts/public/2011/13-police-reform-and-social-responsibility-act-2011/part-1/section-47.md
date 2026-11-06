@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Commanders[^key-1207e5d152f104e197dda0070bcc9895]
+## 47. Commanders[^c-1207e5d152f104e197dda0070bcc9895]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1207e5d152f104e197dda0070bcc9895]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2011/13/section/47) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-1207e5d152f104e197dda0070bcc9895]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2011/13/section/47) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

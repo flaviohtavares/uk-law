@@ -59,7 +59,7 @@ The Registration of Clubs (Northern Ireland) Order 1996 [^c17050251]
 
 - [Section 12 — Continuance of club in temporary premises](part-ii/section-12.md)
 
-#### Alterations to club premises[^key-bf2d8f607b82cbce1e358849077daf44]
+#### Alterations to club premises[^c-bf2d8f607b82cbce1e358849077daf44]
 
 - [Section 12A — Consent required for certain alterations to premises](part-ii/section-12a.md)
 
@@ -69,7 +69,7 @@ The Registration of Clubs (Northern Ireland) Order 1996 [^c17050251]
 - [Section 14 — Continuance of registration pending determination of appeal against cancellation](part-ii/section-14.md)
 - [Section 15 — Disqualification of premises on refusal of renewal or cancellation of registration](part-ii/section-15.md)
 
-#### Extension authorisations[^key-006c5858c18cb62545e2f49204dce3d9]
+#### Extension authorisations[^c-006c5858c18cb62545e2f49204dce3d9]
 
 - [Section 15A — Extension authorisations for sporting clubs](part-ii/section-15a.md)
 
@@ -98,7 +98,7 @@ The Registration of Clubs (Northern Ireland) Order 1996 [^c17050251]
 
 - [Section 26 — Authorisations for special occasions](part-iii/section-26.md)
 
-#### Major event orders[^key-7ef3355007f616f69bdf761a10d0edcb]
+#### Major event orders[^c-7ef3355007f616f69bdf761a10d0edcb]
 
 - [Section 26A — Extension of permitted hours for major events](part-iii/section-26a.md)
 
@@ -116,7 +116,7 @@ The Registration of Clubs (Northern Ireland) Order 1996 [^c17050251]
 - [Section 31 — Misconduct of registered clubs](part-iv/section-31.md)
 - [Section 31A — Irresponsible drinks promotions](part-iv/section-31a.md)
 
-#### Self-service and vending machines[^key-49fd7cb423d006e00b0c04a746994c4c]
+#### Self-service and vending machines[^c-49fd7cb423d006e00b0c04a746994c4c]
 
 - [Section 31C — Prohibition on self-service and supply by vending machines](part-iv/section-31c.md)
 
@@ -143,13 +143,13 @@ The Registration of Clubs (Northern Ireland) Order 1996 [^c17050251]
 - [Section 40 — Accounts of registered clubs, etc.](part-iv/section-40.md)
 - [Section 41 — Notification of alteration of rules, etc., of registered clubs](part-iv/section-41.md)
 
-### PART 4A — CLOSURE OF PREMISES OF REGISTERED CLUBS[^key-4fad6ecf672d502c6ae9fd3d86f11d98]
+### PART 4A — CLOSURE OF PREMISES OF REGISTERED CLUBS[^c-4fad6ecf672d502c6ae9fd3d86f11d98]
 
-#### Closure of premises of registered clubs in an identified district[^key-4fad6ecf672d502c6ae9fd3d86f11d98]
+#### Closure of premises of registered clubs in an identified district[^c-4fad6ecf672d502c6ae9fd3d86f11d98]
 
 - [Section 41A — Orders to close premises of registered clubs in district experiencing disorder](part-4a/section-41a.md)
 
-#### Closure of identified premises of registered clubs[^key-4fad6ecf672d502c6ae9fd3d86f11d98]
+#### Closure of identified premises of registered clubs[^c-4fad6ecf672d502c6ae9fd3d86f11d98]
 
 - [Section 41B — Closure orders for identified premises of registered clubs](part-4a/section-41b.md)
 - [Section 41C — Extension of closure order](part-4a/section-41c.md)
@@ -160,13 +160,13 @@ The Registration of Clubs (Northern Ireland) Order 1996 [^c17050251]
 - [Section 41H — Enforcement of closure order](part-4a/section-41h.md)
 - [Section 41I — Exemption of police from liability for damages](part-4a/section-41i.md)
 
-#### Interpretation[^key-4fad6ecf672d502c6ae9fd3d86f11d98]
+#### Interpretation[^c-4fad6ecf672d502c6ae9fd3d86f11d98]
 
 - [Section 41J — Interpretation of Part 4A](part-4a/section-41j.md)
 
 ### PART V — MISCELLANEOUS
 
-#### Code of practice[^key-016d500f407927bfb33c704635923b84]
+#### Code of practice[^c-016d500f407927bfb33c704635923b84]
 
 - [Section 41K — Code of practice](part-v/section-41k.md)
 
@@ -207,14 +207,14 @@ SCHEDULES
 
 [^c17050251]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-bf2d8f607b82cbce1e358849077daf44]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/nisi/1996/3159/article/12A) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 29(1)](https://www.legislation.gov.uk/nia/2021/7/section/29/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-bf2d8f607b82cbce1e358849077daf44]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/nisi/1996/3159/article/12A) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 29(1)](https://www.legislation.gov.uk/nia/2021/7/section/29/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
-[^key-006c5858c18cb62545e2f49204dce3d9]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/nisi/1996/3159/article/15A) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 28(1)](https://www.legislation.gov.uk/nia/2021/7/section/28/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-006c5858c18cb62545e2f49204dce3d9]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/nisi/1996/3159/article/15A) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 28(1)](https://www.legislation.gov.uk/nia/2021/7/section/28/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
 
-[^key-7ef3355007f616f69bdf761a10d0edcb]: Textual amendment: [Art. 26A](https://www.legislation.gov.uk/nisi/1996/3159/article/26A) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 34(1)](https://www.legislation.gov.uk/nia/2021/7/section/34/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-7ef3355007f616f69bdf761a10d0edcb]: Textual amendment: [Art. 26A](https://www.legislation.gov.uk/nisi/1996/3159/article/26A) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 34(1)](https://www.legislation.gov.uk/nia/2021/7/section/34/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
 
-[^key-49fd7cb423d006e00b0c04a746994c4c]: Textual amendment: [Art. 31C](https://www.legislation.gov.uk/nisi/1996/3159/article/31C) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 39(1)](https://www.legislation.gov.uk/nia/2021/7/section/39/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-49fd7cb423d006e00b0c04a746994c4c]: Textual amendment: [Art. 31C](https://www.legislation.gov.uk/nisi/1996/3159/article/31C) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 39(1)](https://www.legislation.gov.uk/nia/2021/7/section/39/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
-[^key-4fad6ecf672d502c6ae9fd3d86f11d98]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 7](https://www.legislation.gov.uk/nia/2011/18/section/7), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-4fad6ecf672d502c6ae9fd3d86f11d98]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 7](https://www.legislation.gov.uk/nia/2011/18/section/7), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-016d500f407927bfb33c704635923b84]: Textual amendment: [Art. 41K](https://www.legislation.gov.uk/nisi/1996/3159/article/41K) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(1)](https://www.legislation.gov.uk/nia/2021/7/section/41/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-016d500f407927bfb33c704635923b84]: Textual amendment: [Art. 41K](https://www.legislation.gov.uk/nisi/1996/3159/article/41K) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(1)](https://www.legislation.gov.uk/nia/2021/7/section/41/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

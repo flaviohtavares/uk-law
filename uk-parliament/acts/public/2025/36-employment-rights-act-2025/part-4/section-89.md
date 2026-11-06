@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Devolved Welsh authorities[^key-deec342c44f3e9210cdce110f0c8a953]
+## 89. Devolved Welsh authorities[^c-deec342c44f3e9210cdce110f0c8a953]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In consequence of provision made by this Part—
 
 ## Annotations
 
-[^key-deec342c44f3e9210cdce110f0c8a953]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/36/section/89) in force at 18.2.2026, see [s. 159(2)(s)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/s)
+[^c-deec342c44f3e9210cdce110f0c8a953]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/36/section/89) in force at 18.2.2026, see [s. 159(2)(s)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/s)

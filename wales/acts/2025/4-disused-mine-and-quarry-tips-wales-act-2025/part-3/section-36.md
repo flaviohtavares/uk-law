@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Owner’s right of entry onto land etc.[^key-03e0720f80d57b0a0840e0ac1b58e86b]
+## 36. Owner’s right of entry onto land etc.[^c-03e0720f80d57b0a0840e0ac1b58e86b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ the owner has the right to enter the land in order to carry out the operations a
 
 ## Annotations
 
-[^key-03e0720f80d57b0a0840e0ac1b58e86b]: Commencement: S. 36 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-03e0720f80d57b0a0840e0ac1b58e86b]: Commencement: S. 36 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

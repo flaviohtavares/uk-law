@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Conduct of preliminary inquiry[^key-36fdc2b1aa23eccae52f4d292912e650]
+## 34. Conduct of preliminary inquiry[^c-36fdc2b1aa23eccae52f4d292912e650]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36fdc2b1aa23eccae52f4d292912e650]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/nisr/1984/225/rule/34) substituted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(4)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/4) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-36fdc2b1aa23eccae52f4d292912e650]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/nisr/1984/225/rule/34) substituted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(4)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/4) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)

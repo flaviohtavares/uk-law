@@ -52,11 +52,11 @@ The Secretary of State for Environment, Food and Rural Affairs has been designat
 
 The Secretary of State for Environment, Food and Rural Affairs makes the following Regulations:
 
-## 1. Title, extent and commencement[^key-4d9146a6b2bbc487e95c456e42d25bb2]
+## 1. Title, extent and commencement[^c-4d9146a6b2bbc487e95c456e42d25bb2]
 
 These Regulations may be cited as the Detergents Regulations 2005, apply throughout the United Kingdom and shall come into force on 8th October 2005.
 
-## 2. Interpretation[^key-46dcc793044569767705c8df3cf36ee2]
+## 2. Interpretation[^c-46dcc793044569767705c8df3cf36ee2]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ These Regulations may be cited as the Detergents Regulations 2005, apply through
 
 (2) In these Regulations, terms used in Regulation 648/2004 shall have the same meaning as in that Regulation.
 
-## 3. Competent authority[^key-4d31b57c75fa44b55cc9fac6e7225c54]
+## 3. Competent authority[^c-4d31b57c75fa44b55cc9fac6e7225c54]
 
 (1) The Secretary of State shall be the competent authority in the United Kingdom for the purposes of Regulation 648/2004.
 
@@ -80,7 +80,7 @@ These Regulations may be cited as the Detergents Regulations 2005, apply through
 - (a) those assigned to Member States by Articles 8 and 15(1) of Regulation 648/2004; and
 - (b) those reserved to Member States by the second sub-paragraph of Article 9(3) of that Regulation.
 
-## 4. Enforcement authorities[^key-4f34cddb3c564cf96a2f580e3242884b]
+## 4. Enforcement authorities[^c-4f34cddb3c564cf96a2f580e3242884b]
 
 (1) In England, the enforcement authorities for the purposes of the enforcement and execution of these Regulations shall be—
 
@@ -109,17 +109,17 @@ These Regulations may be cited as the Detergents Regulations 2005, apply through
 - (a) the purposes of the competent authority under regulation 3(1); or
 - (b) the purposes of discharging the functions specified in regulation 3(2).
 
-## 5. Authorised officers[^key-ea3572077577709c71ec80e044b3b359]
+## 5. Authorised officers[^c-ea3572077577709c71ec80e044b3b359]
 
 (1) Any person appointed as such by the Secretary of State shall be an authorised officer for the purposes of these Regulations.
 
 (2) Any person appointed as such by an enforcement authority designated in regulation 4 shall be an authorised officer for the purposes of these Regulations within the area for which that enforcement authority is responsible in accordance with regulation 4.
 
-## 6. Provision in English of information required by Regulation 648/2004[^key-fd03536bef2cdfd96f2468c7742e8fa7]
+## 6. Provision in English of information required by Regulation 648/2004[^c-fd03536bef2cdfd96f2468c7742e8fa7]
 
 Where Regulation 648/2004 requires the provision of information in relation to a controlled product, such requirement shall be deemed not to have been met unless the information is provided in the English language.
 
-## 7. Contravention of Regulation 648/2004[^key-2b41f3631ec08c02f75d897dae51be3f]
+## 7. Contravention of Regulation 648/2004[^c-2b41f3631ec08c02f75d897dae51be3f]
 
 (1) Any manufacturer who places on the market any controlled product shall be guilty of an offence unless—
 
@@ -130,11 +130,11 @@ Where Regulation 648/2004 requires the provision of information in relation to a
 
 (3) Any manufacturer who fails to comply with a request of the type referred to in the second sub-paragraph of Article 9(3) of Regulation 648/2004 shall be guilty of an offence.
 
-## 8. Provisional restrictions and prohibitions[^key-d7da988bb52793365eca196cd257fa8e]
+## 8. Provisional restrictions and prohibitions[^c-d7da988bb52793365eca196cd257fa8e]
 
 Any person who contravenes any restriction or prohibition imposed under Article 15 of Regulation 648/2004 (or who causes or permits any other person so to do) shall be guilty of an offence.
 
-## 9. Enforcement notices[^key-30e192d5716d45fc17eab76e3909ab1c]
+## 9. Enforcement notices[^c-30e192d5716d45fc17eab76e3909ab1c]
 
 (1) This regulation applies where an authorised officer has come to the opinion on reasonable grounds that there has been a contravention of regulation 6, 7 or 8 or of a directly applicable provision of Regulation 648/2004 in relation to a controlled product.
 
@@ -165,7 +165,7 @@ Any person who contravenes any restriction or prohibition imposed under Article 
 
 (6) Any person who contravenes the provisions of a notice served under paragraph (2) (or who causes or permits any other person to do) shall be guilty of an offence.
 
-## 10. Seizure and disposal of contravening products[^key-881c15fbc3e75d4695666aac9bb2f619]
+## 10. Seizure and disposal of contravening products[^c-881c15fbc3e75d4695666aac9bb2f619]
 
 (1) This regulation applies where an authorised officer has come to the opinion on reasonable grounds that there has been a contravention of regulation 6, 7 or 8 or of a directly applicable provision of Regulation 648/2004 in relation to a controlled product.
 
@@ -179,11 +179,11 @@ Any person who contravenes any restriction or prohibition imposed under Article 
 
 (6) The period specified in accordance with paragraph (5) must not be less than 7 days, except in an emergency.
 
-## 11. Power of entry[^key-d72c79eb3d4f5a65475d22781b7e1148]
+## 11. Power of entry[^c-d72c79eb3d4f5a65475d22781b7e1148]
 
 An authorised officer shall have the right at all reasonable hours to enter any premises (excluding premises used only as a dwelling) for the purpose of ascertaining whether there is or has been on the premises any contravention, or any evidence of a contravention, of regulation 6, 7 or 8 or of a directly applicable provision of Regulation 648/2004 in relation to a controlled product.
 
-## 12. Issue of warrants in support of power of entry: England and Wales[^key-260dff5ddb5351aa6030256fe40faaec]
+## 12. Issue of warrants in support of power of entry: England and Wales[^c-260dff5ddb5351aa6030256fe40faaec]
 
 (1) If a justice of the peace is satisfied on sworn information in writing that there is reasonable ground for entry into any premises in England and Wales (excluding premises used only as a dwelling) for any such purpose as is mentioned in regulation 11 and that either—
 
@@ -194,7 +194,7 @@ the justice of the peace may by warrant authorise an authorised officer to enter
 
 (2) Every warrant granted under paragraph (1) shall continue in force for a period of one month.
 
-## 13. Issue of warrants in support of power of entry: Scotland[^key-967c65c7e48972e8a4613eb18f768aa1]
+## 13. Issue of warrants in support of power of entry: Scotland[^c-967c65c7e48972e8a4613eb18f768aa1]
 
 (1) If a sheriff, magistrate or justice of the peace is satisfied on sworn evidence that there is reasonable ground for entry into any premises in Scotland (excluding premises used only as a dwelling) for any such purpose as is mentioned in regulation 11 and that either—
 
@@ -205,7 +205,7 @@ the sheriff, magistrate or justice of the peace may by warrant authorise an auth
 
 (2) Every warrant granted under paragraph (1) shall continue in force for a period of one month.
 
-## 14. Issue of warrants in support of power of entry: Northern Ireland[^key-bebcea9bfb83d3f6c43069efc6ceffe1]
+## 14. Issue of warrants in support of power of entry: Northern Ireland[^c-bebcea9bfb83d3f6c43069efc6ceffe1]
 
 (1) If a lay magistrate is satisfied on sworn complaint in writing that there is reasonable ground for entry into any premises in Northern Ireland (excluding premises used only as a dwelling) for any such purpose as is mentioned in regulation 11 and that either—
 
@@ -216,7 +216,7 @@ the lay magistrate may by warrant authorise an authorised officer to enter the p
 
 (2) Every warrant granted under paragraph (1) shall continue in force for a period of one month.
 
-## 15. Power of entry: supplemental[^key-f9fcf3e73172e2676ed8ac110fff57b1]
+## 15. Power of entry: supplemental[^c-f9fcf3e73172e2676ed8ac110fff57b1]
 
 An authorised officer entering any premises in accordance with regulation 11 or under the authority of a warrant issued under regulation 12, 13 or 14 (as the case may be)–
 
@@ -224,7 +224,7 @@ An authorised officer entering any premises in accordance with regulation 11 or 
 - (b) may take with him such other persons as he considers necessary, and
 - (c) on leaving any unoccupied premises which he has entered under the authority of a warrant, shall leave them as effectively secured against unauthorised entry as he found them.
 
-## 16. Powers of inspection, sampling and seizure[^key-8b01985b9353d4d53a08cb1045eb7956]
+## 16. Powers of inspection, sampling and seizure[^c-8b01985b9353d4d53a08cb1045eb7956]
 
 (1) An authorised officer entering any premises in accordance with regulation 11 or under the authority of a warrant issued under regulation 12, 13 or 14 (as the case may be) may do one or more of the following things—
 
@@ -238,7 +238,7 @@ An authorised officer entering any premises in accordance with regulation 11 or 
 
 (3) In relation to premises in Northern Ireland, the power to inspect relevant business records under paragraph (1)(c) shall not extend to material which is either excluded material or special procedure material under articles 13 and 16 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00007].
 
-## 17. Protection of officers acting in good faith[^key-21bce41a85e8e1ba1cefb084374bb7d8]
+## 17. Protection of officers acting in good faith[^c-21bce41a85e8e1ba1cefb084374bb7d8]
 
 (1) No authorised officer shall be personally liable in respect of any act done by him—
 
@@ -256,7 +256,7 @@ if he did that act in the honest belief that his duty under these Regulations re
 
 the Secretary of State (in the case of an authorised officer appointed by her) or the relevant enforcement authority (in the case of an authorised officer appointed by an enforcement authority designated in regulation 4) may indemnify him against the whole or part of any damages which he has been ordered to pay or any costs which he may have incurred if the appointor is satisfied that the authorised officer honestly believed that the act complained of was within the scope of the authorised officer’s employment.
 
-## 18. Obstruction etc[^key-a6a68aad7f29f1331bbcf40ff3291588]
+## 18. Obstruction etc[^c-a6a68aad7f29f1331bbcf40ff3291588]
 
 (1) Any person who—
 
@@ -268,7 +268,7 @@ shall be guilty of an offence.
 
 (2) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him, his spouse or his civil partner.
 
-## 19. Unlawful disclosure of information contained in datasheets[^key-271dc76ec478d5c3074d85a7e9c57488]
+## 19. Unlawful disclosure of information contained in datasheets[^c-271dc76ec478d5c3074d85a7e9c57488]
 
 Any person who receives a datasheet for a controlled product in accordance with Article 9(3) of Regulation 648/2004 and who either—
 
@@ -277,11 +277,11 @@ Any person who receives a datasheet for a controlled product in accordance with 
 
 shall be guilty of an offence.
 
-## 20. Offences due to fault of third person[^key-b5b2257041841dfefa12bb582b7c696b]
+## 20. Offences due to fault of third person[^c-b5b2257041841dfefa12bb582b7c696b]
 
 Where the commission by any person of an offence under any of the provisions of these Regulations is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
 
-## 21. Offences by bodies corporate[^key-4b4da5a5e1b52239bbb9f51d88d9125a]
+## 21. Offences by bodies corporate[^c-4b4da5a5e1b52239bbb9f51d88d9125a]
 
 (1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
 
@@ -292,7 +292,7 @@ he as well as the body corporate shall be guilty of the offence and be liable to
 
 (2) For the purposes of paragraph (1), “director”, in relation to any body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
 
-## 22. Offences by Scottish partnerships[^key-9fdcf7bd9b7a3e7e47ac7a3ef1b4833f]
+## 22. Offences by Scottish partnerships[^c-9fdcf7bd9b7a3e7e47ac7a3ef1b4833f]
 
 Where a Scottish partnership is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
 
@@ -301,7 +301,7 @@ Where a Scottish partnership is guilty of an offence under these Regulations, an
 
 he as well as the partnership shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
 
-## 23. Defence of due diligence[^key-d95dd70708920d12f12098da8676ea35]
+## 23. Defence of due diligence[^c-d95dd70708920d12f12098da8676ea35]
 
 (1) In any proceedings for an offence under any provision of these Regulations it shall, subject to paragraph (2), be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
 
@@ -314,7 +314,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (3) In paragraph (2), any reference to appearing before a court shall be construed as including a reference to being brought before a court.
 
-## 24. Penalties[^key-654ea07d55d7eed48c07bce6ae912fc7]
+## 24. Penalties[^c-654ea07d55d7eed48c07bce6ae912fc7]
 
 (1) Subject to paragraph (2), a person guilty of an offence against any provision of these Regulations shall be liable—
 
@@ -323,7 +323,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (2) A person guilty of an offence against regulation 18(1) (obstruction etc) or 19 (unlawful disclosure of information contained in datasheets) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 25. Appeals against notices etc: England and Wales[^key-853d616a027c453059249cdbbba3334e]
+## 25. Appeals against notices etc: England and Wales[^c-853d616a027c453059249cdbbba3334e]
 
 (1) The provisions of this regulation shall apply to England and Wales only.
 
@@ -335,7 +335,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (5) On an appeal under this regulation, the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may in the circumstances think fit.
 
-## 26. Appeals against notices etc: Scotland[^key-755b223648f19be678131268e7a4a46d]
+## 26. Appeals against notices etc: Scotland[^c-755b223648f19be678131268e7a4a46d]
 
 (1) The provisions of this regulation shall apply to Scotland only.
 
@@ -347,7 +347,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (5) On an appeal under this regulation, the sheriff may either cancel or affirm the notice and, if he affirms the notice, he may do so either in its original form or with such modifications as he may in the circumstances think fit.
 
-## 27. Appeals against notices etc: Northern Ireland[^key-9b96a6ead33759177a09d785dbabf538]
+## 27. Appeals against notices etc: Northern Ireland[^c-9b96a6ead33759177a09d785dbabf538]
 
 (1) The provisions of this regulation shall apply to Northern Ireland only.
 
@@ -359,7 +359,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (5) On an appeal under this regulation, the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may in the circumstances think fit.
 
-## 28. Revocation of the Detergents (Composition) Regulations 1978 and enactments amending to those Regulations[^key-f06889535badf7ee23ad537b81a75d6f]
+## 28. Revocation of the Detergents (Composition) Regulations 1978 and enactments amending to those Regulations[^c-f06889535badf7ee23ad537b81a75d6f]
 
 The following instruments are revoked—
 
@@ -428,75 +428,75 @@ Regulation 28 revokes the legislation that implemented the former Detergents Dir
 
 [^f00002]: Footnote: See article 2 of and the Schedule to the European Communities (Designation) Order 1972 (S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811)).
 
-[^key-4d9146a6b2bbc487e95c456e42d25bb2]: Commencement: Reg. 1 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-4d9146a6b2bbc487e95c456e42d25bb2]: Commencement: Reg. 1 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-46dcc793044569767705c8df3cf36ee2]: Commencement: Reg. 2 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-46dcc793044569767705c8df3cf36ee2]: Commencement: Reg. 2 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
 [^f00003]: Footnote: OJ No L 104, 8.4.2004, p.1.
 
-[^key-4d31b57c75fa44b55cc9fac6e7225c54]: Commencement: Reg. 3 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-4d31b57c75fa44b55cc9fac6e7225c54]: Commencement: Reg. 3 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-4f34cddb3c564cf96a2f580e3242884b]: Commencement: Reg. 4 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-4f34cddb3c564cf96a2f580e3242884b]: Commencement: Reg. 4 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
 [^f00004]: Footnote: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
 
 [^f00005]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-ea3572077577709c71ec80e044b3b359]: Commencement: Reg. 5 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-ea3572077577709c71ec80e044b3b359]: Commencement: Reg. 5 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-fd03536bef2cdfd96f2468c7742e8fa7]: Commencement: Reg. 6 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-fd03536bef2cdfd96f2468c7742e8fa7]: Commencement: Reg. 6 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-2b41f3631ec08c02f75d897dae51be3f]: Commencement: Reg. 7 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-2b41f3631ec08c02f75d897dae51be3f]: Commencement: Reg. 7 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-d7da988bb52793365eca196cd257fa8e]: Commencement: Reg. 8 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-d7da988bb52793365eca196cd257fa8e]: Commencement: Reg. 8 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-30e192d5716d45fc17eab76e3909ab1c]: Commencement: Reg. 9 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-30e192d5716d45fc17eab76e3909ab1c]: Commencement: Reg. 9 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-881c15fbc3e75d4695666aac9bb2f619]: Commencement: Reg. 10 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-881c15fbc3e75d4695666aac9bb2f619]: Commencement: Reg. 10 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-d72c79eb3d4f5a65475d22781b7e1148]: Commencement: Reg. 11 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-d72c79eb3d4f5a65475d22781b7e1148]: Commencement: Reg. 11 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-260dff5ddb5351aa6030256fe40faaec]: Commencement: Reg. 12 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-260dff5ddb5351aa6030256fe40faaec]: Commencement: Reg. 12 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-967c65c7e48972e8a4613eb18f768aa1]: Commencement: Reg. 13 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-967c65c7e48972e8a4613eb18f768aa1]: Commencement: Reg. 13 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-bebcea9bfb83d3f6c43069efc6ceffe1]: Commencement: Reg. 14 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-bebcea9bfb83d3f6c43069efc6ceffe1]: Commencement: Reg. 14 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-f9fcf3e73172e2676ed8ac110fff57b1]: Commencement: Reg. 15 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-f9fcf3e73172e2676ed8ac110fff57b1]: Commencement: Reg. 15 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-8b01985b9353d4d53a08cb1045eb7956]: Commencement: Reg. 16 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-8b01985b9353d4d53a08cb1045eb7956]: Commencement: Reg. 16 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
 [^f00006]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
 [^f00007]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
 
-[^key-21bce41a85e8e1ba1cefb084374bb7d8]: Commencement: Reg. 17 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-21bce41a85e8e1ba1cefb084374bb7d8]: Commencement: Reg. 17 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-a6a68aad7f29f1331bbcf40ff3291588]: Commencement: Reg. 18 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-a6a68aad7f29f1331bbcf40ff3291588]: Commencement: Reg. 18 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-271dc76ec478d5c3074d85a7e9c57488]: Commencement: Reg. 19 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-271dc76ec478d5c3074d85a7e9c57488]: Commencement: Reg. 19 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-b5b2257041841dfefa12bb582b7c696b]: Commencement: Reg. 20 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-b5b2257041841dfefa12bb582b7c696b]: Commencement: Reg. 20 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-4b4da5a5e1b52239bbb9f51d88d9125a]: Commencement: Reg. 21 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-4b4da5a5e1b52239bbb9f51d88d9125a]: Commencement: Reg. 21 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-9fdcf7bd9b7a3e7e47ac7a3ef1b4833f]: Commencement: Reg. 22 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-9fdcf7bd9b7a3e7e47ac7a3ef1b4833f]: Commencement: Reg. 22 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-d95dd70708920d12f12098da8676ea35]: Commencement: Reg. 23 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-d95dd70708920d12f12098da8676ea35]: Commencement: Reg. 23 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-654ea07d55d7eed48c07bce6ae912fc7]: Commencement: Reg. 24 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-654ea07d55d7eed48c07bce6ae912fc7]: Commencement: Reg. 24 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-853d616a027c453059249cdbbba3334e]: Commencement: Reg. 25 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-853d616a027c453059249cdbbba3334e]: Commencement: Reg. 25 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
 [^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43): sections 51 and 52 have been substituted by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 47.
 
-[^key-755b223648f19be678131268e7a4a46d]: Commencement: Reg. 26 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-755b223648f19be678131268e7a4a46d]: Commencement: Reg. 26 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
-[^key-9b96a6ead33759177a09d785dbabf538]: Commencement: Reg. 27 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-9b96a6ead33759177a09d785dbabf538]: Commencement: Reg. 27 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
 [^f00009]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-f06889535badf7ee23ad537b81a75d6f]: Commencement: Reg. 28 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
+[^c-f06889535badf7ee23ad537b81a75d6f]: Commencement: Reg. 28 in force at 8.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2469/regulation/1)
 
 [^f00010]: Footnote: S.I. [1978/564](https://www.legislation.gov.uk/uksi/1978/564).
 

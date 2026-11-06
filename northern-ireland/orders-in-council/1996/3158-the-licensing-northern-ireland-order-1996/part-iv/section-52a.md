@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52A. Indoor arenas and outdoor stadia[^c17145871][^key-fc585a56dc98b73a40207a5a9bc44ed5]
+## 52A. Indoor arenas and outdoor stadia[^c17145871][^c-fc585a56dc98b73a40207a5a9bc44ed5]
 
 *Extent: N.I.*
 
-(1) Where an indoor arena or outdoor stadium[^key-f9d061f40ce6df5d0ce8ceeafff82bfb] is licensed for the sale of intoxicating liquor, such liquor shall not be sold or made available for purchase there, except where—
+(1) Where an indoor arena or outdoor stadium[^c-f9d061f40ce6df5d0ce8ceeafff82bfb] is licensed for the sale of intoxicating liquor, such liquor shall not be sold or made available for purchase there, except where—
 
 - (a) it is sold to, or made available for purchase by, persons employed or attending events and activities in the premises; and
 - (b) other beverages and food are also made available for purchase.
@@ -31,6 +31,6 @@ summary: ''
 
 [^c17145871]: Textual amendment: [2004 NI 17](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-fc585a56dc98b73a40207a5a9bc44ed5]: Textual amendment: Art. 52A heading substituted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 7(1)](https://www.legislation.gov.uk/nia/2016/24/section/7/1), 8(1)
+[^c-fc585a56dc98b73a40207a5a9bc44ed5]: Textual amendment: Art. 52A heading substituted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 7(1)](https://www.legislation.gov.uk/nia/2016/24/section/7/1), 8(1)
 
-[^key-f9d061f40ce6df5d0ce8ceeafff82bfb]: Textual amendment: Words in art. 52A(1) inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 7(1)](https://www.legislation.gov.uk/nia/2016/24/section/7/1), 8(1)
+[^c-f9d061f40ce6df5d0ce8ceeafff82bfb]: Textual amendment: Words in art. 52A(1) inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 7(1)](https://www.legislation.gov.uk/nia/2016/24/section/7/1), 8(1)

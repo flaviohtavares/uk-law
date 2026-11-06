@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Local authorities etc.: consideration of domestic abuse[^key-996b6788987204ac27addc2e07f05a8a]
+## 55. Local authorities etc.: consideration of domestic abuse[^c-996b6788987204ac27addc2e07f05a8a]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-996b6788987204ac27addc2e07f05a8a]: Commencement: S. 55 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-996b6788987204ac27addc2e07f05a8a]: Commencement: S. 55 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)

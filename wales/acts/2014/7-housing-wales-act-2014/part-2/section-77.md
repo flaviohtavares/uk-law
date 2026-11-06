@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Meaning of intentionally homeless[^key-5f3e4810c2d6830929fbbc8e6a0b5d2f]
+## 77. Meaning of intentionally homeless[^c-5f3e4810c2d6830929fbbc8e6a0b5d2f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ and there is no other good reason why the person is homeless.
 
 ## Annotations
 
-[^key-5f3e4810c2d6830929fbbc8e6a0b5d2f]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2014/7/section/77) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 28](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/28)
+[^c-5f3e4810c2d6830929fbbc8e6a0b5d2f]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2014/7/section/77) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 28](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/28)

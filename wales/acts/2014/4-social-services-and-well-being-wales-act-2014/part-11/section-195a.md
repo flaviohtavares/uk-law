@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 195A. Offences committed by bodies or partnerships[^key-ff6720c2e55c9e59783ccf8ee72d2999]
+## 195A. Offences committed by bodies or partnerships[^c-ff6720c2e55c9e59783ccf8ee72d2999]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ that person is guilty of the offence as well as the body corporate, and is liabl
 
 ## Annotations
 
-[^key-ff6720c2e55c9e59783ccf8ee72d2999]: Textual amendment: S. 195A inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [318](https://www.legislation.gov.uk/wsi/2016/413/regulation/318)
+[^c-ff6720c2e55c9e59783ccf8ee72d2999]: Textual amendment: S. 195A inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [318](https://www.legislation.gov.uk/wsi/2016/413/regulation/318)

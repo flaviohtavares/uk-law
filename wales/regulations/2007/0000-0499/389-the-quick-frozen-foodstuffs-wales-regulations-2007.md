@@ -43,7 +43,7 @@ The National Assembly for Wales makes the following Regulations in exercise of t
 
 The National Assembly for Wales has been designated [^c18067391] for the purposes of that section in relation to measures relating to food (including drink) including the primary production of food.
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c18067401] there has been open and transparent public consultation during the preparation of the following Regulations.[^key-6988544f228c769ba23b5ffb30d3def1]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c18067401] there has been open and transparent public consultation during the preparation of the following Regulations.[^c-6988544f228c769ba23b5ffb30d3def1]
 
 ## 1. Title, commencement and application
 
@@ -59,16 +59,16 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 - “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990 [^c18067411];
 - “**authorised officer**” (“***swyddog awdurdodedig***”) in relation to an enforcement authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under these Regulations;
-- [^key-1d9c3a051fbd6fa5f00602f508bb734f]...
-- [^key-2d45ba7d22f5b746509cba2acbf8dc78]...
+- [^c-1d9c3a051fbd6fa5f00602f508bb734f]...
+- [^c-2d45ba7d22f5b746509cba2acbf8dc78]...
 - “**Directive 92/2**” (“***Cyfarwyddeb 92/2***”) means Commission Directive [92/2/EEC](https://www.legislation.gov.uk/european/directive/1992/0002) laying down the sampling procedure and the Community method of analysis for the official control of the temperatures of quick-frozen foods intended for human consumption [^c18067441];
 - “**enforcement authority**” (“***awdurdod gorfodi***”) means the authority which, by virtue of regulation 9(5), is responsible for executing and enforcing these Regulations;
 - “**food**” (“***bwyd***”) has the meaning that it bears in Regulation 178/2002;
-- “food authority” (“[^key-4f5383ab802eb20cb54b18d764296a44]*awdurdod bwyd*”) has the meaning it bears by virtue of section 5(1A) of the Act;
-- “local distribution”, (“dosbarthiad lleol”and “dosbarthu'n lleol”) in relation to any product, means that part of the distribution chain in which the product is delivered to the point of placing on the market for retail purposes (such placing on the market to include placing on the market to a mass caterer[^key-b85843a9dfd291fc26864559d6c91647]);
-- “[^key-87341b88033aade56b3789550353d145]**mass caterer**” (“***arlwywr mawr***”) has the meaning given by Article 2(2)(d) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
+- “food authority” (“[^c-4f5383ab802eb20cb54b18d764296a44]*awdurdod bwyd*”) has the meaning it bears by virtue of section 5(1A) of the Act;
+- “local distribution”, (“dosbarthiad lleol”and “dosbarthu'n lleol”) in relation to any product, means that part of the distribution chain in which the product is delivered to the point of placing on the market for retail purposes (such placing on the market to include placing on the market to a mass caterer[^c-b85843a9dfd291fc26864559d6c91647]);
+- “[^c-87341b88033aade56b3789550353d145]**mass caterer**” (“***arlwywr mawr***”) has the meaning given by Article 2(2)(d) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
 - “**placing on the market**” (“***rhoi ar y farchnad***”) has the meaning that it bears in Regulation 178/2002 and “**placed on the market**” (“**wedi'i rhoi ar y farchnad**”) and “**place on the market**” shall be construed accordingly;
-- “**prepackaging**” (“***rhagbecyn***”) is construed in accordance with the definition of “prepacked” in Article 2(2)(e) of Regulation ([^key-b098660ca24e76cb944841b8f55199c6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers but with the words “placed on the market” being substituted for the words “offered for sale”;
+- “**prepackaging**” (“***rhagbecyn***”) is construed in accordance with the definition of “prepacked” in Article 2(2)(e) of Regulation ([^c-b098660ca24e76cb944841b8f55199c6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers but with the words “placed on the market” being substituted for the words “offered for sale”;
 - “**quick-frozen foodstuff**” (“***deunydd bwyd sydd wedi'i rewi'n gyflym***”) means a product—
   - (a) comprising food which has undergone a freezing process known as “quick-freezing” whereby the zone of maximum crystallisation is crossed as rapidly as possible, depending on the type of product; and
   - (b) which is labelled for the purpose of placing on the market to indicate that it has undergone that process,
@@ -78,15 +78,15 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 - “**Regulation 37/2005**” (“***Rheoliad 37/2005***”) means Commission Regulation [(EC) No. 37/2005](https://www.legislation.gov.uk/european/regulation/2005/0037) on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption [^c18067451];
 - “**retail display cabinet**” (“***cabinet arddangos manwerthol***”) means any cabinet in which a quick-frozen foodstuff is placed on the market for retail purposes or in the course of a cash-and-carry business;
 - “**specified Community provision**” (“***darpariaeth Gymunedol benodedig***”) means any provision of Regulation 37/2005 that is specified in column 1 of Schedule 1 and whose subject-matter is described in column 2 of that Schedule; and
-- “[^key-ffe0a436b968538b28ca6de7fbdf5e55]**ultimate consumer**” (“***defnyddiwr olaf***”) has the same meaning as “final consumer” in point 18 of Article 3 of Regulation 178/2002.
+- “[^c-ffe0a436b968538b28ca6de7fbdf5e55]**ultimate consumer**” (“***defnyddiwr olaf***”) has the same meaning as “final consumer” in point 18 of Article 3 of Regulation 178/2002.
 
-(2) Unless the context otherwise requires, any expression used both in these Regulations and in [^key-4d54d9ba21be1c9faeb7e7cbd5a96df2]... Directive 92/2 or Regulation 37/2005 has the meaning that it bears in [^key-4d54d9ba21be1c9faeb7e7cbd5a96df2]... Directive 92/2 or Regulation 37/2005, as the case may be.
+(2) Unless the context otherwise requires, any expression used both in these Regulations and in [^c-4d54d9ba21be1c9faeb7e7cbd5a96df2]... Directive 92/2 or Regulation 37/2005 has the meaning that it bears in [^c-4d54d9ba21be1c9faeb7e7cbd5a96df2]... Directive 92/2 or Regulation 37/2005, as the case may be.
 
 (3) Where any functions under the Act are assigned—
 
-- (a) by an order under section 2 [^key-16f5b0cab007598081d83258a882b76d]... of the Public Health (Control of Disease) Act 1984 [^c18067461], to a port health authority; or[^key-5e914e81ac2ccba3063658ab14dd4c4a]
-- (b) by an order under section 6 of the Public Health Act 1936 [^c18067471], to a joint board for a united district; [^key-6dc0edb78f707dc02de1b92118a984ec]...
-- (c)[^key-ba9f2e97e93f3535c8800730fd8567c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) by an order under section 2 [^c-16f5b0cab007598081d83258a882b76d]... of the Public Health (Control of Disease) Act 1984 [^c18067461], to a port health authority; or[^c-5e914e81ac2ccba3063658ab14dd4c4a]
+- (b) by an order under section 6 of the Public Health Act 1936 [^c18067471], to a joint board for a united district; [^c-6dc0edb78f707dc02de1b92118a984ec]...
+- (c)[^c-ba9f2e97e93f3535c8800730fd8567c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 any reference in these Regulations to a food authority is to be construed, so far as relating to those functions, as a reference to the authority to whom they are so assigned.
 
@@ -103,14 +103,14 @@ No person may place any quick-frozen foodstuff intended for the ultimate consume
 
 ## 5. Marketing or labelling of quick-frozen foodstuffs
 
-(1) No person may place on the market any food intended for the ultimate consumer or any mass caterer[^key-1382aa7a1e0150da1ff2fbfd87f6d436] where its labelling or marking contravenes paragraph (2) or (3) and no person may place on the market any food intended for any other person where its labelling or marking contravenes paragraph (2) or (4).
+(1) No person may place on the market any food intended for the ultimate consumer or any mass caterer[^c-1382aa7a1e0150da1ff2fbfd87f6d436] where its labelling or marking contravenes paragraph (2) or (3) and no person may place on the market any food intended for any other person where its labelling or marking contravenes paragraph (2) or (4).
 
-(2) The description “*quick-frozen*” or its equivalent in any other language[^key-39cb215cab2a4b1fcc877b5eeec220f5] may only be used in the labelling for the purpose of placing on the market of—
+(2) The description “*quick-frozen*” or its equivalent in any other language[^c-39cb215cab2a4b1fcc877b5eeec220f5] may only be used in the labelling for the purpose of placing on the market of—
 
 - (a) a quick-frozen foodstuff; or
 - (b) a food which by virtue of that labelling becomes a quick-frozen foodstuff.
 
-(3) A quick-frozen foodstuff intended for supply, without further processing, to the ultimate consumer or to a mass caterer[^key-276632cd322b483f19e2a222b692e4de] must, in addition to the description “quick-frozen” (and, as the intending supplier may see fit, its equivalent in any other language[^key-012935384c4fa5dbcca6cb3388f9d043]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with—
+(3) A quick-frozen foodstuff intended for supply, without further processing, to the ultimate consumer or to a mass caterer[^c-276632cd322b483f19e2a222b692e4de] must, in addition to the description “quick-frozen” (and, as the intending supplier may see fit, its equivalent in any other language[^c-012935384c4fa5dbcca6cb3388f9d043]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with—
 
 - (a) an indication of the date of minimum durability;
 - (b) an indication of the maximum period during which it is advisable to store it;
@@ -122,10 +122,10 @@ No person may place any quick-frozen foodstuff intended for the ultimate consume
 - (d) a reference allowing identification of the batch to which it belongs; and
 - (e) a clear message of the type “do not refreeze after defrosting”.
 
-(4) Any other quick-frozen foodstuff must, in addition to the description “quick-frozen” (and, as the supplier may see fit, its equivalent in any other language[^key-dd69335ff442d2d7d30b931b1965ee76]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with—
+(4) Any other quick-frozen foodstuff must, in addition to the description “quick-frozen” (and, as the supplier may see fit, its equivalent in any other language[^c-dd69335ff442d2d7d30b931b1965ee76]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with—
 
 - (a) a reference allowing identification of the batch to which it belongs; and
-- (b) the name or business name and address of the manufacturer or packer, or of a person who places that foodstuff on the market established within the United Kingdom[^key-e5f8e86a8ed756045f0d94819cfc807f].
+- (b) the name or business name and address of the manufacturer or packer, or of a person who places that foodstuff on the market established within the United Kingdom[^c-e5f8e86a8ed756045f0d94819cfc807f].
 
 ## 6. Equipment
 
@@ -145,7 +145,7 @@ Each food operator handling a quick-frozen foodstuff must at the request of an a
 
 (2) Subject to paragraphs (3) and (4), if any person contravenes or fails to comply with a specified Community provision that person is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(3)[^key-ceb6f9c3af82b7133098e890cd964253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ceb6f9c3af82b7133098e890cd964253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A person will not be considered to have contravened or failed to comply with Article 2 of Regulation 37/2005 if—
 
@@ -175,11 +175,11 @@ The following provisions of the Act apply for the purposes of these Regulations 
 
 In so far as they apply in relation to Wales, the Quick-frozen Foodstuffs Regulations 1990 [^c18067531] are revoked.
 
-## 12. Transitional provision: withdrawal from the EU[^key-439a17fd27cfb8c78711d7bd7540cc7a]
+## 12. Transitional provision: withdrawal from the EU[^c-439a17fd27cfb8c78711d7bd7540cc7a]
 
 For the purpose of regulation 9(1), a person is not considered to have contravened or failed to comply with regulation 5(1) in respect of the requirements set out in relation to regulation 5(4)(b) if—
 
-- (a) the alleged contravention would relate to a product that was placed on the market on or after the day on which the Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 came into force and before 1 January 2024[^key-cb99239a942bfa374e9872810b9e5d9c]; and
+- (a) the alleged contravention would relate to a product that was placed on the market on or after the day on which the Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 came into force and before 1 January 2024[^c-cb99239a942bfa374e9872810b9e5d9c]; and
 - (b) the matter constituting the alleged contravention or failure to comply would not have constituted a contravention of, or failure to comply with those provisions of these Regulations as they had effect immediately before IP completion day.
 
 [^c18067541]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
@@ -226,19 +226,19 @@ Regulation 3
   - (i) that food is kept within brief periods during transport (including local distribution) at a temperature warmer than −18°C but not warmer than −15°C, or
   - (ii) that food is kept in a retail display cabinet at a temperature warmer than −18°C to an extent consistent with good storage practice but not warmer than −12°C.
 
-## SCHEDULE 3 — TRANSITITONAL REQUIREMENTS FOR MEASURING INSTRUMENTS INSTALLED BEFORE 1ST JANUARY 2006[^key-1c92ea410a986163daa3defd3d68f64a]
+## SCHEDULE 3 — TRANSITITONAL REQUIREMENTS FOR MEASURING INSTRUMENTS INSTALLED BEFORE 1ST JANUARY 2006[^c-1c92ea410a986163daa3defd3d68f64a]
 
 **No longer in force.**
 
 Regulation 9(3)
 
-### 1. Application[^key-1c92ea410a986163daa3defd3d68f64a]
+### 1. Application[^c-1c92ea410a986163daa3defd3d68f64a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1c92ea410a986163daa3defd3d68f64a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1c92ea410a986163daa3defd3d68f64a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Requirements[^key-1c92ea410a986163daa3defd3d68f64a]
+### 3. Requirements[^c-1c92ea410a986163daa3defd3d68f64a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -274,55 +274,55 @@ Regulation 9(3)
 
 [^c18067401]: Marginal citation: OJ No. L31, 1.2.2002, p.1. as last amended as at the making of this instrument by commission Regulation (EC) No. 575/2006 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-6988544f228c769ba23b5ffb30d3def1]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-6988544f228c769ba23b5ffb30d3def1]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c18067411]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-1d9c3a051fbd6fa5f00602f508bb734f]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/a)
+[^c-1d9c3a051fbd6fa5f00602f508bb734f]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/a)
 
-[^key-2d45ba7d22f5b746509cba2acbf8dc78]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/389/regulation/2/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d45ba7d22f5b746509cba2acbf8dc78]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/389/regulation/2/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18067441]: Marginal citation: OJ No. L034, 11.2.92, p.30.
 
-[^key-4f5383ab802eb20cb54b18d764296a44]: Textual amendment: Words in reg. 2(1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/a/ii)
+[^c-4f5383ab802eb20cb54b18d764296a44]: Textual amendment: Words in reg. 2(1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/a/ii)
 
-[^key-b85843a9dfd291fc26864559d6c91647]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/b)
+[^c-b85843a9dfd291fc26864559d6c91647]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/b)
 
-[^key-87341b88033aade56b3789550353d145]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(c)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/c)
+[^c-87341b88033aade56b3789550353d145]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(c)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/c)
 
-[^key-b098660ca24e76cb944841b8f55199c6]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(d)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/d)
+[^c-b098660ca24e76cb944841b8f55199c6]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(d)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/d)
 
 [^c18067451]: Marginal citation: OJ No. L10, 13.1.05, p.18.
 
-[^key-ffe0a436b968538b28ca6de7fbdf5e55]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(e)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/e)
+[^c-ffe0a436b968538b28ca6de7fbdf5e55]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(e)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/e)
 
-[^key-4d54d9ba21be1c9faeb7e7cbd5a96df2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2007/389/regulation/2/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d54d9ba21be1c9faeb7e7cbd5a96df2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2007/389/regulation/2/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-16f5b0cab007598081d83258a882b76d]: Textual amendment: Words in reg. 2(3)(a) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/i)
+[^c-16f5b0cab007598081d83258a882b76d]: Textual amendment: Words in reg. 2(3)(a) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/i)
 
 [^c18067461]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the [Food Safety Act 1990 (1990 c. 16)](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-5e914e81ac2ccba3063658ab14dd4c4a]: Textual amendment: Word in reg. 2(3)(a) inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/ii)
+[^c-5e914e81ac2ccba3063658ab14dd4c4a]: Textual amendment: Word in reg. 2(3)(a) inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/ii)
 
 [^c18067471]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49); section 6 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
 
-[^key-6dc0edb78f707dc02de1b92118a984ec]: Textual amendment: Word in reg. 2(3)(b) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/iii)
+[^c-6dc0edb78f707dc02de1b92118a984ec]: Textual amendment: Word in reg. 2(3)(b) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/iii)
 
-[^key-ba9f2e97e93f3535c8800730fd8567c0]: Textual amendment: Reg. 2(3)(c) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/iv)
+[^c-ba9f2e97e93f3535c8800730fd8567c0]: Textual amendment: Reg. 2(3)(c) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/iv)
 
-[^key-1382aa7a1e0150da1ff2fbfd87f6d436]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 44](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/44)
+[^c-1382aa7a1e0150da1ff2fbfd87f6d436]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 44](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/44)
 
-[^key-39cb215cab2a4b1fcc877b5eeec220f5]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39cb215cab2a4b1fcc877b5eeec220f5]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-276632cd322b483f19e2a222b692e4de]: Textual amendment: Words in reg. 5(3) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 44](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/44)
+[^c-276632cd322b483f19e2a222b692e4de]: Textual amendment: Words in reg. 5(3) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 44](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/44)
 
-[^key-012935384c4fa5dbcca6cb3388f9d043]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-012935384c4fa5dbcca6cb3388f9d043]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd69335ff442d2d7d30b931b1965ee76]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/4) substituted (31.12.2020) by S.I. 2019/434 reg. 4(3)(c)(i) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/3/2))
+[^c-dd69335ff442d2d7d30b931b1965ee76]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/4) substituted (31.12.2020) by S.I. 2019/434 reg. 4(3)(c)(i) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/3/2))
 
-[^key-e5f8e86a8ed756045f0d94819cfc807f]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/4/b) substituted (31.12.2020) by S.I. 2019/434 reg. 4(3)(c)(ii) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/3/2))
+[^c-e5f8e86a8ed756045f0d94819cfc807f]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/4/b) substituted (31.12.2020) by S.I. 2019/434 reg. 4(3)(c)(ii) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/3/2))
 
-[^key-ceb6f9c3af82b7133098e890cd964253]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/wsi/2007/389/regulation/9/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/3)
+[^c-ceb6f9c3af82b7133098e890cd964253]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/wsi/2007/389/regulation/9/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/3)
 
 [^c18067491]: Marginal citation: [Section 21](https://www.legislation.gov.uk/wsi/2007/389/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -334,12 +334,12 @@ Regulation 9(3)
 
 [^c18067531]: Marginal citation: [S.I. 1990/2615](https://www.legislation.gov.uk/uksi/1990/2615).
 
-[^key-439a17fd27cfb8c78711d7bd7540cc7a]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2007/389/regulation/12) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/371/regulation/3)
+[^c-439a17fd27cfb8c78711d7bd7540cc7a]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2007/389/regulation/12) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/371/regulation/3)
 
-[^key-cb99239a942bfa374e9872810b9e5d9c]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/wsi/2007/389/regulation/12/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/939/regulation/3)
+[^c-cb99239a942bfa374e9872810b9e5d9c]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/wsi/2007/389/regulation/12/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/939/regulation/3)
 
 [^c18067541]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-1c92ea410a986163daa3defd3d68f64a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2007/389/schedule/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(4)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/4)
+[^c-1c92ea410a986163daa3defd3d68f64a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2007/389/schedule/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(4)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/4)
 
 [^c18067551]: Marginal citation: OJ No. L40, 11.12.89, p.34 as last amended as at the making of this instrument by Council Directive 2006/107/EC adapting Directive 89/108/EEC relating to quick frozen foodstuffs for human consumption and Directive 2000/13/EC of the European Parliament and of the Council relating to the labelling, presentation and advertising of foodstuffs, by reason of the accession of Bulgaria and Romania (OJ No. L363, 20.12.06, p.411).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Special procedure for contraventions of certain provisions[^key-c38f52f984c1af3da2e7290d2fb49578]
+## 43A. Special procedure for contraventions of certain provisions[^c-c38f52f984c1af3da2e7290d2fb49578]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c38f52f984c1af3da2e7290d2fb49578]: Textual amendment: S. 43A omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 9(8)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/8), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 9(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/13))
+[^c-c38f52f984c1af3da2e7290d2fb49578]: Textual amendment: S. 43A omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 9(8)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/8), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 9(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/13))

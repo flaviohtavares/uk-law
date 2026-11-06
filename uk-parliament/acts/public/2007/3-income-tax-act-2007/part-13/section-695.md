@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 695. Notice of enquiry[^key-fc3c477ec693a54e6dcfeed80b06a822]
+## 695. Notice of enquiry[^c-fc3c477ec693a54e6dcfeed80b06a822]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc3c477ec693a54e6dcfeed80b06a822]: Textual amendment: S. 695 substituted (with effect in accordance with s. 34(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/34/2)
+[^c-fc3c477ec693a54e6dcfeed80b06a822]: Textual amendment: S. 695 substituted (with effect in accordance with s. 34(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 34(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/34/2)

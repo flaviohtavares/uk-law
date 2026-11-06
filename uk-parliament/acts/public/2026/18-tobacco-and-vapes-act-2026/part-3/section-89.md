@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Power to extend legislation to other products[^key-2346579e60c7748f62869949c72c2fe7][^key-9d75259e68a071b950f2a62f777b9760]
+## 89. Power to extend legislation to other products[^c-2346579e60c7748f62869949c72c2fe7][^c-9d75259e68a071b950f2a62f777b9760]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2346579e60c7748f62869949c72c2fe7]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-2346579e60c7748f62869949c72c2fe7]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-9d75259e68a071b950f2a62f777b9760]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2026/18/section/89) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-9d75259e68a071b950f2a62f777b9760]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2026/18/section/89) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

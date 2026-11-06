@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2018 (revoked)[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]
+The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2018 (revoked)[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 9th April 2018
 
-[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]
+## 1. Citation and commencement[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]
+## 3. Revocation[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2badd46c6d0f6b1bfab7bfa015aa5ec1]: Textual amendment: Regulations revoked (8.4.2019) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2019 (S.R. 2019/59)](https://www.legislation.gov.uk/nisr/2019/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/59/regulation/1/1), 7(a)
+[^c-2badd46c6d0f6b1bfab7bfa015aa5ec1]: Textual amendment: Regulations revoked (8.4.2019) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2019 (S.R. 2019/59)](https://www.legislation.gov.uk/nisr/2019/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/59/regulation/1/1), 7(a)

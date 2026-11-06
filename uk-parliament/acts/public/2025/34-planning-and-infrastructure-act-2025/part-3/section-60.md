@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Scope of an EDP: area, kind and volume of development and time period[^key-1380bb3d38a2add4600c559673273696][^key-9ed5b2716b9669ab946457f2a7c87f50]
+## 60. Scope of an EDP: area, kind and volume of development and time period[^c-1380bb3d38a2add4600c559673273696][^c-9ed5b2716b9669ab946457f2a7c87f50]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1380bb3d38a2add4600c559673273696]: Commencement: S. 60 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-1380bb3d38a2add4600c559673273696]: Commencement: S. 60 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-9ed5b2716b9669ab946457f2a7c87f50]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2025/34/section/60) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/b)
+[^c-9ed5b2716b9669ab946457f2a7c87f50]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2025/34/section/60) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/b)

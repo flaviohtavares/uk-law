@@ -31,7 +31,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (Crown Appointments) Order 2000 (revoked)[^key-f1494cadcfd763b789348686db75b572]
+The Data Protection (Crown Appointments) Order 2000 (revoked)[^c-f1494cadcfd763b789348686db75b572]
 
 Made
 
@@ -41,19 +41,19 @@ Coming into force
 
 1st March 2000
 
-[^key-f1494cadcfd763b789348686db75b572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1494cadcfd763b789348686db75b572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f1494cadcfd763b789348686db75b572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f1494cadcfd763b789348686db75b572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f1494cadcfd763b789348686db75b572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f1494cadcfd763b789348686db75b572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1494cadcfd763b789348686db75b572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1494cadcfd763b789348686db75b572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — EXEMPTIONS FROM SUBJECT INFORMATION PROVISIONS[^key-f1494cadcfd763b789348686db75b572]
+## SCHEDULE — EXEMPTIONS FROM SUBJECT INFORMATION PROVISIONS[^c-f1494cadcfd763b789348686db75b572]
 
 Article 2
 
@@ -61,8 +61,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1494cadcfd763b789348686db75b572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1494cadcfd763b789348686db75b572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1494cadcfd763b789348686db75b572]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 248](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/248) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/9) and saving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-f1494cadcfd763b789348686db75b572]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 248](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/248) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/9) and saving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

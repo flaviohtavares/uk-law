@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Challenge of meeting’s decision[^key-f13302f83097d59b6580b794b90b7380]
+## 70. Challenge of meeting’s decision[^c-f13302f83097d59b6580b794b90b7380]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f13302f83097d59b6580b794b90b7380]: Commencement: S. 70 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f13302f83097d59b6580b794b90b7380]: Commencement: S. 70 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

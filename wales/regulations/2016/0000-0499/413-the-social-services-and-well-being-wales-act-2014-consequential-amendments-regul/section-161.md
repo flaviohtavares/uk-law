@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**161.**[^key-fd920c59b16b0e2daa4ddd93a836f0f7] In section 40(3) (youth justice plans) for subsection (3) substitute—
+**161.**[^c-fd920c59b16b0e2daa4ddd93a836f0f7] In section 40(3) (youth justice plans) for subsection (3) substitute—
 
 > (3) The functions assigned to a youth offending team under subsection (1)(b) above may include, in particular—
 >
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd920c59b16b0e2daa4ddd93a836f0f7]: Commencement: Reg. 161 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-fd920c59b16b0e2daa4ddd93a836f0f7]: Commencement: Reg. 161 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

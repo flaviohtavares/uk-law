@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 193. Interpretation of Part 14[^key-079bb34356b43babb08f104244614b25]
+## 193. Interpretation of Part 14[^c-079bb34356b43babb08f104244614b25]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ In this Part—
 
 ## Annotations
 
-[^key-079bb34356b43babb08f104244614b25]: Commencement: S. 193 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-079bb34356b43babb08f104244614b25]: Commencement: S. 193 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^M_F_9defa808-2832-4419-fd07-eca482a5bfae]: Textual amendment: Definition in s. 193 repealed (30.11.2016) by [S.S.I. 2016/398](https://www.legislation.gov.uk/ssi/2016/398), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/398/regulation/2/3)

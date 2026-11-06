@@ -22,11 +22,11 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) a scheme is set up to comply with section 682(2)(b) of the Companies Act[^key-81b0755cdb81f6f7cc3193f795a9802a] [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) (financial assistance for the purposes of an employees' share scheme), and
+- (a) a scheme is set up to comply with section 682(2)(b) of the Companies Act[^c-81b0755cdb81f6f7cc3193f795a9802a] [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) (financial assistance for the purposes of an employees' share scheme), and
 - (b) under the scheme the trustees receive interest from a participant in the scheme.
 
 (2) So far as the scheme requires the trustees to pay to the company an equivalent amount as interest, no liability to income tax arises under Chapter 2 of Part 4 for the trustees in respect of the interest they receive.
 
 ## Annotations
 
-[^key-81b0755cdb81f6f7cc3193f795a9802a]: Textual amendment: Words in s. 752(1)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [12](https://www.legislation.gov.uk/uksi/2009/1890/article/12)
+[^c-81b0755cdb81f6f7cc3193f795a9802a]: Textual amendment: Words in s. 752(1)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [12](https://www.legislation.gov.uk/uksi/2009/1890/article/12)

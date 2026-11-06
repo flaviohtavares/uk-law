@@ -28,7 +28,7 @@ summary: ''
 
 (1A) In this Part “place of safety” in relation to a child means any juvenile justice centre, any police station, any hospital or surgery, or any other suitable place, the occupier of which is willing temporarily to receive a child.
 
-(2) In this Part “place of safety”, in relation to a person not being a child[^c17125161]. . . , means any Royal Ulster Constabulary station or any prison or any hospital of which the managing [^key-52cb90c1792c1e3f46cb46223092a5ed]... authorised HSC[^c21355501] trust is willing temporarily to receive him.
+(2) In this Part “place of safety”, in relation to a person not being a child[^c17125161]. . . , means any Royal Ulster Constabulary station or any prison or any hospital of which the managing [^c-52cb90c1792c1e3f46cb46223092a5ed]... authorised HSC[^c21355501] trust is willing temporarily to receive him.
 
 (3) In this Part “prison” has the same meaning as in the [^m00013] Prison Act (Northern Ireland) 1953.
 
@@ -56,7 +56,7 @@ summary: ''
 
 [^c17125161]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 
-[^key-52cb90c1792c1e3f46cb46223092a5ed]: Textual amendment: Words in [art. 61(2)](https://www.legislation.gov.uk/nisi/1986/595/article/61/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 84](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/84); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-52cb90c1792c1e3f46cb46223092a5ed]: Textual amendment: Words in [art. 61(2)](https://www.legislation.gov.uk/nisi/1986/595/article/61/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 84](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/84); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21355501]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

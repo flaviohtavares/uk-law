@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Limitation on assignment of benefits[^key-ba24ed0833fddfbd526133a6b457d78f]
+## 170. Limitation on assignment of benefits[^c-ba24ed0833fddfbd526133a6b457d78f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An assignment of an award under these Regulations is void to the extent that it 
 
 ## Annotations
 
-[^key-ba24ed0833fddfbd526133a6b457d78f]: Commencement: [Reg. 170](https://www.legislation.gov.uk/uksi/2014/2848/regulation/170) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-ba24ed0833fddfbd526133a6b457d78f]: Commencement: [Reg. 170](https://www.legislation.gov.uk/uksi/2014/2848/regulation/170) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

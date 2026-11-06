@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Appointment of charity trustees[^key-902e2b2d539c93753090be618fdf1c99]
+## 126. Appointment of charity trustees[^c-902e2b2d539c93753090be618fdf1c99]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ After section 70 of the 2005 Act, insert—
 
 ## Annotations
 
-[^key-902e2b2d539c93753090be618fdf1c99]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2010/8/section/126) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-902e2b2d539c93753090be618fdf1c99]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2010/8/section/126) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

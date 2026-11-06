@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211A. Gains of insurance company from venture capital investment partnership[^key-c4eabc009f23f14148c80483699a5e7b]
+## 211A. Gains of insurance company from venture capital investment partnership[^c-c4eabc009f23f14148c80483699a5e7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7AD to this Act has effect with respect to the gains of an insurance co
 
 ## Annotations
 
-[^key-c4eabc009f23f14148c80483699a5e7b]: Textual amendment: S. 211A inserted (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 85(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/85/1)
+[^c-c4eabc009f23f14148c80483699a5e7b]: Textual amendment: S. 211A inserted (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 85(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/85/1)

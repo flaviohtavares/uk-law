@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Category B retirement pension for married person[^key-6f5f9826670fae0e5f3a06ac55ba9d24]
+## 8. Category B retirement pension for married person[^c-6f5f9826670fae0e5f3a06ac55ba9d24]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f5f9826670fae0e5f3a06ac55ba9d24]: Textual amendment: Art. 8 revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/a)
+[^c-6f5f9826670fae0e5f3a06ac55ba9d24]: Textual amendment: Art. 8 revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Child’s special allowance or special gratuity - limitations[^key-435e341f15ec829806ff16d9a1fe836c]
+## 18. Child’s special allowance or special gratuity - limitations[^c-435e341f15ec829806ff16d9a1fe836c]
 
 *Extent: N.I.*
 
@@ -68,4 +68,4 @@ and in the case of any other child entitled to a special allowance in respect of
 
 ## Annotations
 
-[^key-435e341f15ec829806ff16d9a1fe836c]: Commencement: Reg. 18 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-435e341f15ec829806ff16d9a1fe836c]: Commencement: Reg. 18 in operation at 25.7.2006 with effect in accordance with reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Scottish Ministers' power to regulate process[^key-4a284798430d015f9031397bb562136f]
+## 74. Scottish Ministers' power to regulate process[^c-4a284798430d015f9031397bb562136f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The Scottish Ministers may by regulations, following consultation with such pers
 
 ## Annotations
 
-[^key-4a284798430d015f9031397bb562136f]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2019/17/section/74) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-4a284798430d015f9031397bb562136f]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2019/17/section/74) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Rules[^key-5d3f858a73fd01fa5bbe7da78cf95c08]
+## 22. Rules[^c-5d3f858a73fd01fa5bbe7da78cf95c08]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After section 31 insert—
 
 ## Annotations
 
-[^key-5d3f858a73fd01fa5bbe7da78cf95c08]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2005/848/article/22) in force at 22.3.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2)
+[^c-5d3f858a73fd01fa5bbe7da78cf95c08]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2005/848/article/22) in force at 22.3.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-There is excluded from article 45 the act of sending, or causing to be sent, a dematerialised instruction where the person on whose behalf the instruction is sent or caused to be sent is a participating issuer within the meaning of the 2001[^key-f73632d8fc230017e0606eadb72cb819] Regulations.
+There is excluded from article 45 the act of sending, or causing to be sent, a dematerialised instruction where the person on whose behalf the instruction is sent or caused to be sent is a participating issuer within the meaning of the 2001[^c-f73632d8fc230017e0606eadb72cb819] Regulations.
 
 ## Annotations
 
-[^key-f73632d8fc230017e0606eadb72cb819]: Textual amendment: Word in art. 46 substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [13(4)](https://www.legislation.gov.uk/uksi/2002/682/article/13/4)
+[^c-f73632d8fc230017e0606eadb72cb819]: Textual amendment: Word in art. 46 substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [13(4)](https://www.legislation.gov.uk/uksi/2002/682/article/13/4)

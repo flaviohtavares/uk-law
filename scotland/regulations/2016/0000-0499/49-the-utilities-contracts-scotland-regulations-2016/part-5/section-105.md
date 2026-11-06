@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Powers of the court: ineffectiveness order[^key-06982091ccb4f889df4a4371b8e8b7e4]
+## 105. Powers of the court: ineffectiveness order[^c-06982091ccb4f889df4a4371b8e8b7e4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06982091ccb4f889df4a4371b8e8b7e4]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2016/49/regulation/105) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-06982091ccb4f889df4a4371b8e8b7e4]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2016/49/regulation/105) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

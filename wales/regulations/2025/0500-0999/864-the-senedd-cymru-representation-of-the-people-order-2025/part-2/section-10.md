@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Voting as proxy at Senedd elections[^key-5c5c0fa13c9f3479fa6381c6cb318226]
+## 10. Voting as proxy at Senedd elections[^c-5c5c0fa13c9f3479fa6381c6cb318226]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ together with the addresses provided by them in their applications under paragra
 
 ## Annotations
 
-[^key-5c5c0fa13c9f3479fa6381c6cb318226]: Commencement: Art. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5c5c0fa13c9f3479fa6381c6cb318226]: Commencement: Art. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

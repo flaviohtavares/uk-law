@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Railway and navigation undertakings[^key-8f171c02cf36e2db44b1b6436f88e870]
+## 35. Railway and navigation undertakings[^c-8f171c02cf36e2db44b1b6436f88e870]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ except with the consent of the undertaker or authority or, as the case may be, p
 
 ## Annotations
 
-[^key-8f171c02cf36e2db44b1b6436f88e870]: Commencement: Art. 35 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-8f171c02cf36e2db44b1b6436f88e870]: Commencement: Art. 35 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)

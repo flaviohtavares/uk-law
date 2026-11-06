@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Power to appoint visitors of approved hospitals.[^key-7de1ae0ffeaab50b1002605a37ebad2a]
+## 13. Power to appoint visitors of approved hospitals.[^c-7de1ae0ffeaab50b1002605a37ebad2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de1ae0ffeaab50b1002605a37ebad2a]: Textual amendment: S. 13 repealed (19.7.2006 for specified purposes, 1.8.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [23](https://www.legislation.gov.uk/uksi/2006/1914/article/23)
+[^c-7de1ae0ffeaab50b1002605a37ebad2a]: Textual amendment: S. 13 repealed (19.7.2006 for specified purposes, 1.8.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [23](https://www.legislation.gov.uk/uksi/2006/1914/article/23)

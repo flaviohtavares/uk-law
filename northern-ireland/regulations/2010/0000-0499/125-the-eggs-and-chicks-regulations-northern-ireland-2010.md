@@ -40,7 +40,7 @@ Coming into operation
 
 28th April 2010
 
-The Department of Agriculture and Rural Development is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union[^key-b2b7a318c80ab057bd93a8ceaeca13da] .
+The Department of Agriculture and Rural Development is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union[^c-b2b7a318c80ab057bd93a8ceaeca13da] .
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for any reference to the following Regulations to be construed as a reference to those Regulations as amended from time to time—
 
@@ -50,17 +50,17 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 Insofar as these Regulations are made in exercise of powers under the Food Safety (Northern Ireland) Order 1991[^f00006], the Department has had regard to relevant advice given by the Food Standards Agency as required by Article 47(3A)[^f00007] of that Order.
 
-There has been open and transparent public consultation during the preparation of the following Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00008] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^key-b111d7deccebec2b36af03f1a3278d26]
+There has been open and transparent public consultation during the preparation of the following Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00008] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^c-b111d7deccebec2b36af03f1a3278d26]
 
-Accordingly, the Department makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A[^f00009] of Schedule 2 to, the European Communities Act 1972; and Articles 15(1)[^f00010], 16[^f00011], 25[^f00012], 26(3)[^f00013] and 47(2)[^f00014] of the Food Safety (Northern Ireland) Order 1991.[^key-b111d7deccebec2b36af03f1a3278d26]
+Accordingly, the Department makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A[^f00009] of Schedule 2 to, the European Communities Act 1972; and Articles 15(1)[^f00010], 16[^f00011], 25[^f00012], 26(3)[^f00013] and 47(2)[^f00014] of the Food Safety (Northern Ireland) Order 1991.[^c-b111d7deccebec2b36af03f1a3278d26]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-6d026f8309f74091d375d326d72af47b]
+### 1. Citation and commencement[^c-6d026f8309f74091d375d326d72af47b]
 
 These Regulations may be cited as the Eggs and Chicks Regulations (Northern Ireland) 2010 and shall come into operation on 28<sup>th</sup> April 2010.
 
-### 2. Interpretation[^key-2362307149660214715e250166b98ce5]
+### 2. Interpretation[^c-2362307149660214715e250166b98ce5]
 
 (1) In these Regulations—
 
@@ -69,8 +69,8 @@ These Regulations may be cited as the Eggs and Chicks Regulations (Northern Irel
 - “chicks” has the meaning given by Article 1(2) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
 - “[Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589)” means [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs, as amended from time to time;
 - “[Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)” means [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) laying down detailed rules for implementing Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs for hatching and farmyard poultry chicks, as amended from time to time;
-- “The Northern Ireland welfare regulations” means the Welfare of Farmed Animals Regulations (Northern Ireland) 2012;[^key-88b31b6bee1de3bea7074664f12d868f]
-- [^key-bd47efd25753d60a382ccecc68557ad9]...
+- “The Northern Ireland welfare regulations” means the Welfare of Farmed Animals Regulations (Northern Ireland) 2012;[^c-88b31b6bee1de3bea7074664f12d868f]
+- [^c-bd47efd25753d60a382ccecc68557ad9]...
 - “door-to-door selling” means a sale which is made during an unsolicited visit by a producer to the final consumer’s home, or to the home of another person, or to the final consumer’s place of work;
 - “eggs” has the meaning given by sub-paragraph (k) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
 - “eggs for hatching” has the meaning given by Article 1(1) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
@@ -87,48 +87,48 @@ These Regulations may be cited as the Eggs and Chicks Regulations (Northern Irel
 - “packing centre” has the meaning given by sub-paragraph (q) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
 - “pedigree breeding establishment” has the meaning given by Article 1(3)(a) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617);
 - “production site” has the meaning given by sub-paragraph (p) of the second paragraph of Article 1 of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589);
-- “Regulation (EC) No. 2160/2003” means Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)[^f00017] of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents as amended by[^key-52fee205026d320152c38f7436aa4c98] [Commission Regulation (EU) No. 517/2011](https://www.legislation.gov.uk/european/regulation/2011/0517) and as amended from time to time ;
-- “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^key-f2686024b0a6fc4afc5d1b6c64480768] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
-- “[^key-13a92097474910a31b76f61585101cfe]**Regulation (EU) 2013**” means the Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+- “Regulation (EC) No. 2160/2003” means Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)[^f00017] of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents as amended by[^c-52fee205026d320152c38f7436aa4c98] [Commission Regulation (EU) No. 517/2011](https://www.legislation.gov.uk/european/regulation/2011/0517) and as amended from time to time ;
+- “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^c-f2686024b0a6fc4afc5d1b6c64480768] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608);
+- “[^c-13a92097474910a31b76f61585101cfe]**Regulation (EU) 2013**” means the Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
 - “Single CMO Regulation” means Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation), as amended from time to time;
 - “the Department” means the Department of Agriculture and Rural Development; and
 - “the Order” means the Food Safety (Northern Ireland) Order 1991.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00018] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-(3) Any expression which is not defined in paragraph (1), but is used in Part 2 of, or Schedule 1 to, these Regulations and in Part VI of Annex VII to Regulation (EU) 2013[^key-b381fae225b6e9dec0625ec118956b6e] has the same meaning in those provisions of these Regulations as it does in the Single CMO Regulation.
+(3) Any expression which is not defined in paragraph (1), but is used in Part 2 of, or Schedule 1 to, these Regulations and in Part VI of Annex VII to Regulation (EU) 2013[^c-b381fae225b6e9dec0625ec118956b6e] has the same meaning in those provisions of these Regulations as it does in the Single CMO Regulation.
 
-(4) Any expression which is not defined in paragraph (1), but is used in Part 3 or 4 of, or Schedule 2 to, these Regulations and in Part VI of Annex VII to Regulation (EU) 2013[^key-9801592904afde0f1334144935514f4f] , or [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), has the same meaning in those provisions of these Regulations as it does in the EC Regulation in which it is used.
+(4) Any expression which is not defined in paragraph (1), but is used in Part 3 or 4 of, or Schedule 2 to, these Regulations and in Part VI of Annex VII to Regulation (EU) 2013[^c-9801592904afde0f1334144935514f4f] , or [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), has the same meaning in those provisions of these Regulations as it does in the EC Regulation in which it is used.
 
 (5) Any expression which is not defined in paragraph (1) but is used in Schedule 3 to these Regulations and in Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) has the same meaning in Schedule 3 as it does in Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
 
 (6) Any reference to a contravention of, or failure to comply with, any provision mentioned in Schedule 1 means a contravention of or failure to comply with—
 
-- (a) any provision of the Single CMO Regulation or Regulation (EU) 2013[^key-9632de3df1fc1e08278bab1d5b33f670] mentioned in column 1 of Part 1 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
+- (a) any provision of the Single CMO Regulation or Regulation (EU) 2013[^c-9632de3df1fc1e08278bab1d5b33f670] mentioned in column 1 of Part 1 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
 - (b) any provision of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) mentioned in column 1 of Part 2 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part.
 
 (7) Any reference to a contravention of, or failure to comply with, any provision mentioned in Schedule 2 means a contravention of or failure to comply with—
 
-- (a) any provision of the Single CMO Regulation or Regulation (EU) 2013[^key-606d074da90c03b885882fe20f6f6cef] mentioned in column 1 of Part 1 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
+- (a) any provision of the Single CMO Regulation or Regulation (EU) 2013[^c-606d074da90c03b885882fe20f6f6cef] mentioned in column 1 of Part 1 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
 - (b) any provision of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) mentioned in column 1 of Part 2 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part.
 
 (8) Any reference to a contravention of, or failure to comply with, any provision mentioned in Schedule 3 means a contravention of, or failure to comply with, any provision of Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) mentioned in column 1 of Schedule 3, as read with any provision mentioned in the corresponding entry in column 2 of that Schedule.
 
-(9)[^key-4d8d09e8de492ae1a64a49dfa93dba82] Any reference in these Regulations to Part VI of Annex VII of Regulation (EU) 2013 includes a reference to the equivalent transitional marketing standards under Article 116 of and Annex XIV to, the Single CMO Regulation.
+(9)[^c-4d8d09e8de492ae1a64a49dfa93dba82] Any reference in these Regulations to Part VI of Annex VII of Regulation (EU) 2013 includes a reference to the equivalent transitional marketing standards under Article 116 of and Annex XIV to, the Single CMO Regulation.
 
 ## PART 2 — Eggs for hatching and chicks
 
-### 3. Application of this Part[^key-ce134cdc15bfdf06acd746b7bc7fc098]
+### 3. Application of this Part[^c-ce134cdc15bfdf06acd746b7bc7fc098]
 
 (1) This Part applies to eggs for hatching and chicks to which point I(1) of Part C of Annex XIV to the Single CMO Regulation and [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) apply.
 
 (2) But it does not apply to establishments and hatcheries of the type mentioned in point I(2) of Part C of Annex XIV to the Single CMO Regulation.
 
-### 4. Compliance with European provisions[^key-7ce9e3458818bff71b220bb1e93fddb1]
+### 4. Compliance with European provisions[^c-7ce9e3458818bff71b220bb1e93fddb1]
 
 A person is guilty of an offence if they contravene, or fail to comply with, any provision mentioned in Schedule 1.
 
-### 5. Registration of pedigree breeding establishments, breeding establishments and hatcheries[^key-923a4905e860811e02d980d375e32ca8]
+### 5. Registration of pedigree breeding establishments, breeding establishments and hatcheries[^c-923a4905e860811e02d980d375e32ca8]
 
 (1) The Department is designated as the competent authority for the purpose of Article 2(1) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) (registration of pedigree breeding establishments, other breeding establishments and hatcheries).
 
@@ -166,7 +166,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (10) For the purposes of calculating the 28-day time limit mentioned in paragraph (2), time does not run during any period that the Department gives to an applicant to take any action mentioned in a notice under paragraph (4).
 
-### 6. Derogation relating to the marking of eggs for hatching[^key-1d411286e4550351c9c9a2f35226e509]
+### 6. Derogation relating to the marking of eggs for hatching[^c-1d411286e4550351c9c9a2f35226e509]
 
 (1) Eggs for hatching may be marked with any abstract black mark, except for a spot, instead of being marked with the distinguishing number of the producer establishment (as otherwise required by Article 3(2) of [Commission Regulation (EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)) if the conditions mentioned in paragraph (2) are complied with.
 
@@ -177,22 +177,22 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 ## PART 3 — Eggs in shell for consumption: general requirements
 
-### 7. Application of this Part[^key-df41f92085e95a5ce7c86d796c98eff3]
+### 7. Application of this Part[^c-df41f92085e95a5ce7c86d796c98eff3]
 
-(1) This Part applies to eggs to which point I(1) of Part VI of Annex VII to Regulation (EU) 2013[^key-025676888e5a8726e688c1a7cff1e4e6] and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply (eggs in shell for consumption produced by hens of the species *Gallus gallus*).
+(1) This Part applies to eggs to which point I(1) of Part VI of Annex VII to Regulation (EU) 2013[^c-025676888e5a8726e688c1a7cff1e4e6] and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply (eggs in shell for consumption produced by hens of the species *Gallus gallus*).
 
 (2) But it does not apply—
 
-- (a) to the sale of eggs to which point I(1) of Part VI of Annex VII to Regulation (EU) 2013[^key-dea64429a9a8d9ca7bf58f63a0c0cb4e] and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer —
+- (a) to the sale of eggs to which point I(1) of Part VI of Annex VII to Regulation (EU) 2013[^c-dea64429a9a8d9ca7bf58f63a0c0cb4e] and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer —
   - (i) on the production site; or
   - (ii) by door-to-door selling; or
-- (b) except insofar as it relates to the requirement imposed by Part VI of Annex VII to Regulation (EU) 2013, to the sale of eggs to which point 1(1) of Part VI of Annex VII[^key-ae8e1175b92f85ea089feb31e95dbe75] to that Regulation and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer in a local public market.
+- (b) except insofar as it relates to the requirement imposed by Part VI of Annex VII to Regulation (EU) 2013, to the sale of eggs to which point 1(1) of Part VI of Annex VII[^c-ae8e1175b92f85ea089feb31e95dbe75] to that Regulation and [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer in a local public market.
 
-### 8. Compliance with European provisions[^key-53a6a5ace8ad044bef6dd72e153b05dd]
+### 8. Compliance with European provisions[^c-53a6a5ace8ad044bef6dd72e153b05dd]
 
 A person is guilty of an offence if they contravene, or fail to comply with, any provision mentioned in Schedule 2.
 
-### 9. Authorisation of packing centres to grade eggs[^key-93c2bfba7cac893bfb38039900e34433]
+### 9. Authorisation of packing centres to grade eggs[^c-93c2bfba7cac893bfb38039900e34433]
 
 (1) The Department is designated as the competent authority for the purpose of the first sub-paragraph of Article 5(2) of [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (authorisation of undertakings as packing centres to grade eggs).
 
@@ -230,19 +230,19 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (10) For the purposes of calculating the 28-day time limit mentioned in paragraph (2), time does not run during any period that the Department gives to an applicant to take any action mentioned in a notice under paragraph (4).
 
-### 10. Derogations relating to the marking of eggs[^key-7027b21951a08b6eae5fc3adb75c215f]
+### 10. Derogations relating to the marking of eggs[^c-7027b21951a08b6eae5fc3adb75c215f]
 
-(1) The provision in Part VI of Annex VII to Regulation (EU) 2013[^key-84698c78e0ba3b20dbd5bd7d01a1c8ef] (requiring class B eggs to be marked) does not apply where class B eggs are to be marketed exclusively in the United Kingdom.
+(1) The provision in Part VI of Annex VII to Regulation (EU) 2013[^c-84698c78e0ba3b20dbd5bd7d01a1c8ef] (requiring class B eggs to be marked) does not apply where class B eggs are to be marketed exclusively in the United Kingdom.
 
-(2) The provision in Part VI of Annex VII to Regulation (EU) 2013[^key-b450e0fc6b7016c826f98aa8d4eadee6] (requiring eggs sold by a producer to a final consumer in a local public market to be marked in accordance with point III(1) of Part A of Annex XIV to the Single CMO Regulation) does not apply in the case of a producer with up to 50 laying hens if the name and address of the producer are indicated at the point of sale.
+(2) The provision in Part VI of Annex VII to Regulation (EU) 2013[^c-b450e0fc6b7016c826f98aa8d4eadee6] (requiring eggs sold by a producer to a final consumer in a local public market to be marked in accordance with point III(1) of Part A of Annex XIV to the Single CMO Regulation) does not apply in the case of a producer with up to 50 laying hens if the name and address of the producer are indicated at the point of sale.
 
 (3) But paragraphs (1) and (2) do not apply to eggs that must be considered as class B eggs by virtue of paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
 
-### 11. Livestock grazing on open-air runs[^key-1d491e5c5f942570f0cb5580582169e2]
+### 11. Livestock grazing on open-air runs[^c-1d491e5c5f942570f0cb5580582169e2]
 
 For the purpose of paragraph (b) of the second sub-paragraph of point 1 of Annex II to [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (setting down the minimum requirements that need to be met in order for eggs to be marketed as free-range eggs), livestock grazing is authorised on open-air runs to which laying hens have access.
 
-### 12. Derogation relating to free-range eggs[^key-ebf1016f0a60c6ee3ceb586229c6ef0e]
+### 12. Derogation relating to free-range eggs[^c-ebf1016f0a60c6ee3ceb586229c6ef0e]
 
 (1) By way of derogation from the provisions of point 1 of Annex II to [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), eggs to which paragraph (2) applies may be marketed as free-range eggs.
 
@@ -254,7 +254,7 @@ For the purpose of paragraph (b) of the second sub-paragraph of point 1 of Annex
   - (ii) rearing breeding laying hens at the time that the eggs are produced; or
   - (iii) rearing breeding laying hens and with fewer than 350 laying hens at that time.
 
-(3)[^key-8e674a0dc02d6c2f112c5aa022d05723] The conditions are the conditions in the following provisions of the Northern Ireland welfare regulations—
+(3)[^c-8e674a0dc02d6c2f112c5aa022d05723] The conditions are the conditions in the following provisions of the Northern Ireland welfare regulations—
 
 - (a) paragraph 2(d) of Schedule 2;
 - (b) paragraph 2(e) of Schedule 2;
@@ -264,7 +264,7 @@ For the purpose of paragraph (b) of the second sub-paragraph of point 1 of Annex
 
 (4) It is for a person seeking to rely on paragraph (1) in order to market eggs as free-range eggs to prove that the eggs are eggs to which paragraph (2) applies.
 
-### 13. Derogation relating to barn eggs[^key-68dbd0264bc99e62ed623048dfe24654]
+### 13. Derogation relating to barn eggs[^c-68dbd0264bc99e62ed623048dfe24654]
 
 (1) By way of derogation from the provisions of point 2 of Annex II to [Commission Regulation (EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), eggs to which paragraph (2) applies may be marketed as barn eggs.
 
@@ -276,7 +276,7 @@ For the purpose of paragraph (b) of the second sub-paragraph of point 1 of Annex
   - (ii) rearing breeding laying hens at the time that the eggs are produced; or
   - (iii) rearing breeding laying hens and with fewer than 350 laying hens at that time.
 
-(3)[^key-eb17cfdfb01e94be4df8a112c207ffff] The conditions are the conditions in the following provisions of the Northern Ireland welfare regulations—
+(3)[^c-eb17cfdfb01e94be4df8a112c207ffff] The conditions are the conditions in the following provisions of the Northern Ireland welfare regulations—
 
 - (a) paragraph 2(d) of Schedule 2;
 - (b) paragraph 2(e) of Schedule 2;
@@ -288,17 +288,17 @@ For the purpose of paragraph (b) of the second sub-paragraph of point 1 of Annex
 
 ## PART 4 — Eggs in shell for consumption: salmonella control related requirements
 
-### 14. Application of this Part[^key-2aea37f75fbf9e9c9bd69e01d304007d]
+### 14. Application of this Part[^c-2aea37f75fbf9e9c9bd69e01d304007d]
 
 This Part applies to eggs to which Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) applies as read with the exception in Article 1(3) of Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160).
 
-### 15. Compliance with European provisions[^key-71bf914670a752f592b1d247e98e5e5e]
+### 15. Compliance with European provisions[^c-71bf914670a752f592b1d247e98e5e5e]
 
 A person is guilty of an offence if they contravene, or fail to comply with, any provision mentioned in Schedule 3.
 
 ## PART 5 — Miscellaneous provisions
 
-### 16. Enforcement[^key-1e89927f94ae3483fb242678ddb29591]
+### 16. Enforcement[^c-1e89927f94ae3483fb242678ddb29591]
 
 (1) Each district council must—
 
@@ -332,7 +332,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 - “retail sale” means any sale other than a sale for use or resale in the course of a trade or business; and
 - “sale” includes possession for sale and offer, exposure and advertising for sale.
 
-### 17. Duty to give assistance and provide information[^key-881f97f6e80acf26c886d8526c645354]
+### 17. Duty to give assistance and provide information[^c-881f97f6e80acf26c886d8526c645354]
 
 (1) The Department (“D”) must give any district council such assistance and information as it may reasonably request for the purpose of helping it perform its duties under these Regulations, and D may share any other information obtained by D with any district council (although not requested by the district council) for the purpose of helping it perform those duties.
 
@@ -346,11 +346,11 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (6) In paragraph (5) “information” means information obtained by a district council as an enforcement authority.
 
-### 18. Powers of entry[^key-169247dcc803df46298350696bbc4e74]
+### 18. Powers of entry[^c-169247dcc803df46298350696bbc4e74]
 
 (1) An authorised officer may enter any premises at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
 
-(2)[^key-2447069a71165968dd4946da3601e617] The authorised officer may take with them such other persons as they consider necessary.
+(2)[^c-2447069a71165968dd4946da3601e617] The authorised officer may take with them such other persons as they consider necessary.
 
 (3) An authorised officer must not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing their authority.
 
@@ -380,9 +380,9 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (13) An authorised officer who enters any premises that are unoccupied or where the occupier is temporarily absent must leave the premises as effectively secured against unauthorised entry as they found them.
 
-(14)[^key-caa552474914d3d197bfc2c56609df54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-caa552474914d3d197bfc2c56609df54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Powers of an authorised officer[^key-cd2c01cc706c139441c46c931764e8b6]
+### 19. Powers of an authorised officer[^c-cd2c01cc706c139441c46c931764e8b6]
 
 (1) An authorised officer (“O”) entering premises under regulation 18 may—
 
@@ -437,7 +437,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (14) In this regulation “premises” includes any place and any vehicle, trailer, stall or moveable structure.
 
-### 20. Procedure on seizure[^key-1586850a134cc4cc064d08c90f3d9bc9]
+### 20. Procedure on seizure[^c-1586850a134cc4cc064d08c90f3d9bc9]
 
 (1) An authorised officer (“O”) must follow the procedures set out in this regulation if they seize anything under regulation 19(7), (8) or (9).
 
@@ -512,7 +512,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (16) The procedure in a magistrates’ court under this regulation is by way of complaint and the Magistrates’ Courts (Northern Ireland) Order 1981[^f00019] applies to the proceedings.
 
-### 21. Compliance notices[^key-c9769a65b16350eb5abb08b535d6b3b1]
+### 21. Compliance notices[^c-c9769a65b16350eb5abb08b535d6b3b1]
 
 (1) If an authorised officer (“O”) has reasonable grounds for believing that any person (“P”) is failing to comply with these Regulations, O may, by notice (a “regulation 21(1) compliance notice”), require P to take such steps as O may specify (or steps at least equivalent to them), within such period as O may specify, to ensure that the non-compliance does not continue or recur.
 
@@ -567,7 +567,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (6) The withdrawal of an authorisation or registration referred to in paragraph (5) does not take effect until the time for appealing against it has expired, and, if an appeal is lodged, until the appeal is finally disposed of or withdrawn.
 
-### 23. Record-keeping requirements[^key-1c8962791d31359fa482b89f6c731101]
+### 23. Record-keeping requirements[^c-1c8962791d31359fa482b89f6c731101]
 
 (1) The Department may, by notice, direct any person carrying on any activity regulated by a provision mentioned in Schedule 1, 2 or 3 to comply with any of the requirements mentioned in paragraph (2).
 
@@ -590,7 +590,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 
 (4) A person is guilty of an offence if they do not comply with any requirement imposed on them by a direction given by the Department under paragraph (1).
 
-### 24. Publication of enforcement information[^key-0a3cb28f3bb60ea4e39b5d27c5befba7]
+### 24. Publication of enforcement information[^c-0a3cb28f3bb60ea4e39b5d27c5befba7]
 
 (1) An enforcement authority must publicise the cases in which items seized under regulation 19(8) have been destroyed and shall do so in such manner as it sees fit.
 
@@ -605,7 +605,7 @@ A person is guilty of an offence if they contravene, or fail to comply with, any
 - (c) where an appeal against the imposition of the compliance notice is successful; or
 - (d) in any other case where the enforcement authority considers that it would be inappropriate to do so.
 
-### 25. Obstruction[^key-1ad7dc8178037ffe05424d6512abba0a]
+### 25. Obstruction[^c-1ad7dc8178037ffe05424d6512abba0a]
 
 A person (“P”) is guilty of an offence if they—
 
@@ -614,11 +614,11 @@ A person (“P”) is guilty of an offence if they—
 - (c) furnish any false or misleading information to O; or
 - (d) fail to produce a record when required to do so to O.
 
-### 26. Fine[^key-6d4eb77c4f4d4caf2afd0f6c83f06136]
+### 26. Fine[^c-6d4eb77c4f4d4caf2afd0f6c83f06136]
 
 A person guilty of an offence under regulation 4, 8, 15, 19(3), (4),(14) (6), (11) or (12), 21(3), (7) or (8), 23(4) or 25 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 27. Extended period for bringing prosecutions[^key-34c266fb2e534dd62bab9ee4c2cb63c8]
+### 27. Extended period for bringing prosecutions[^c-34c266fb2e534dd62bab9ee4c2cb63c8]
 
 (1) Proceedings for an offence under these Regulations may be commenced within the period of one year from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor’s knowledge.
 
@@ -629,7 +629,7 @@ A person guilty of an offence under regulation 4, 8, 15, 19(3), (4),(14) (6), (1
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the prosecutor’s opinion to warrant the proceedings came to the prosecutor’s knowledge is conclusive evidence of that fact; and
 - (b) a certificate stating that matter and purporting to be so signed, is deemed to be so signed unless the contrary is proved.
 
-### 28. Giving of notices[^key-13691793bf71d8888ea5186ec634bd3c]
+### 28. Giving of notices[^c-13691793bf71d8888ea5186ec634bd3c]
 
 (1) Any notice required to be given under these Regulations to any person must be in writing and may be given to them by—
 
@@ -651,7 +651,7 @@ A person guilty of an offence under regulation 4, 8, 15, 19(3), (4),(14) (6), (1
 
 (6)[^M_F_fdffa6c7-2fa1-4b4e-d600-e9a496edf70d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Application of various provisions of the Order[^key-0fa6487b6c96b38f193ba88134930691]
+### 29. Application of various provisions of the Order[^c-0fa6487b6c96b38f193ba88134930691]
 
 (1) The following provisions of the Order apply for the purposes of these Regulations with the modifications specified in paragraph (2)—
 
@@ -675,11 +675,11 @@ A person guilty of an offence under regulation 4, 8, 15, 19(3), (4),(14) (6), (1
 - (f) in relation to Article 30(8)(a) the omission of the words “under paragraph (6)”; and
 - (g) in relation to Article 43, any reference to a district council must be construed as a reference to an enforcement authority.
 
-### 30. Transitional provision[^key-23cc3f7b77f1fdea288a5175248f5a4b]
+### 30. Transitional provision[^c-23cc3f7b77f1fdea288a5175248f5a4b]
 
 Any written authority granted to any person to act in matters arising under or in relation to the Eggs (Marketing Standards) Regulations (Northern Ireland) 1995[^f00021], the Eggs and Chicks Regulations (Northern Ireland) 2008[^f00022] or the Eggs and Chicks (No. 2) Regulations (Northern Ireland) 2008[^f00023] has effect as if it referred to these Regulations.
 
-### 31. Revocation[^key-692b6ae8658de0163705c6bc58c046e5]
+### 31. Revocation[^c-692b6ae8658de0163705c6bc58c046e5]
 
 The Eggs and Chicks (No. 2) Regulations (Northern Ireland) 2008 are revoked.
 
@@ -693,7 +693,7 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Regulation 4
 
-### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^key-0aee0518edbab09973d5693dba55e826][^key-5f6db8fb1893427acb9423e814302353]
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^c-0aee0518edbab09973d5693dba55e826][^c-5f6db8fb1893427acb9423e814302353]
 
 <table>
 <thead>
@@ -711,9 +711,9 @@ Regulation 4
 </tbody>
 </table>
 
-[^key-830fb5b88058fcb96ca5d7366e39eb02][^key-053cd376acd8101ed3a69abf5b25ac18][^key-671d21001b9d095fdfdbfc90737fc8a0]
+[^c-830fb5b88058fcb96ca5d7366e39eb02][^c-053cd376acd8101ed3a69abf5b25ac18][^c-671d21001b9d095fdfdbfc90737fc8a0]
 
-### PART 2 — PROVISIONS OF COMMISSION REGULATION [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)[^key-f21ec94eae33e86d5d3817d78d677e2b]
+### PART 2 — PROVISIONS OF COMMISSION REGULATION [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)[^c-f21ec94eae33e86d5d3817d78d677e2b]
 
 <table>
 <thead>
@@ -739,13 +739,13 @@ Regulation 4
 </tbody>
 </table>
 
-[^key-166dcb57ee5dfe2cea6f291778eca4ef]
+[^c-166dcb57ee5dfe2cea6f291778eca4ef]
 
 ## SCHEDULE 2 — GENERAL EUROPEAN PROVISIONS RELATING TO EGGS IN SHELL FOR CONSUMPTION CONTRAVENTION OF WHICH IS AN OFFENCE
 
 Regulation 8
 
-### PART 1 — PROVISIONS OF REGULATION (EU) 2013[^key-086ae7dcd599cfbe8f076cfffefb5230]
+### PART 1 — PROVISIONS OF REGULATION (EU) 2013[^c-086ae7dcd599cfbe8f076cfffefb5230]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
@@ -761,7 +761,7 @@ Regulation 8
 | Articles 75(2) and (3) of Regulation (EU) 2013 | Article 30(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where the rules applied in relation to those eggs in that country have been found to offer sufficient guarantees as to equivalence with EU legislation |
 | Articles 75(2) and (3) of Regulation (EU) 2013 | Articles 11, 30(2) and (3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where sufficient guarantees of equivalence of the rules relating to those eggs with EU legislation have not been provided. |
 
-### PART 2 — PROVISIONS OF COMMISSION REGULATION [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589)[^key-629d596b2207cc33856e662c319bc814]
+### PART 2 — PROVISIONS OF COMMISSION REGULATION [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589)[^c-629d596b2207cc33856e662c319bc814]
 
 <table>
 <thead>
@@ -818,9 +818,9 @@ Regulation 8
 </tbody>
 </table>
 
-[^key-a179f2e7071fe5f74f4ec485e0d6f33a][^key-40a2eaece7e9a8c32c9ac353f080d8c8][^key-63169c59a857aacf0721ceeb363f9b88][^key-71b51086ecb0706e9fb48adb77889464][^key-4ac461488ddd0bcde3aa0d4e4a167adb][^key-b2b607747f7c0c7bb6a7005e28517ed6][^key-b37c7a47b9deab5183f5b7f1d30d1e6a][^key-581a217e9abc7d8355c0cc8cb6578176][^key-f353f1d5d4c91ec20b7961a80b99a1e3][^key-ec5fd151f1f9cee2a8a46e66ed01fb6a][^key-79aca32e91a51a527cf12bd6227d5ca8][^key-1543f21e06be4ceb2deb912e3725fe4f]
+[^c-a179f2e7071fe5f74f4ec485e0d6f33a][^c-40a2eaece7e9a8c32c9ac353f080d8c8][^c-63169c59a857aacf0721ceeb363f9b88][^c-71b51086ecb0706e9fb48adb77889464][^c-4ac461488ddd0bcde3aa0d4e4a167adb][^c-b2b607747f7c0c7bb6a7005e28517ed6][^c-b37c7a47b9deab5183f5b7f1d30d1e6a][^c-581a217e9abc7d8355c0cc8cb6578176][^c-f353f1d5d4c91ec20b7961a80b99a1e3][^c-ec5fd151f1f9cee2a8a46e66ed01fb6a][^c-79aca32e91a51a527cf12bd6227d5ca8][^c-1543f21e06be4ceb2deb912e3725fe4f]
 
-## SCHEDULE 3 — EUROPEAN SALMONELLA RELATED CONTROLS ON EGGS IN SHELL FOR CONSUMPTION CONTRAVENTION OF WHICH IS AN OFFENCE[^key-41de2a61d29fcff222990e922363e954]
+## SCHEDULE 3 — EUROPEAN SALMONELLA RELATED CONTROLS ON EGGS IN SHELL FOR CONSUMPTION CONTRAVENTION OF WHICH IS AN OFFENCE[^c-41de2a61d29fcff222990e922363e954]
 
 Regulation 15
 
@@ -838,7 +838,7 @@ Regulation 15
 </tbody>
 </table>
 
-[^key-8f7c55c4c33ec5577b87dd91e381e4e2][^key-256f73bd6b71d8545396e8d79e5c9e92]
+[^c-8f7c55c4c33ec5577b87dd91e381e4e2][^c-256f73bd6b71d8545396e8d79e5c9e92]
 
 EXPLANATORY NOTE
 
@@ -879,7 +879,7 @@ A Regulatory Impact Assessment has not been prepared for these Regulations as th
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-b2b7a318c80ab057bd93a8ceaeca13da]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-b2b7a318c80ab057bd93a8ceaeca13da]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^f00006]: Footnote: [S.I. 1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
 
@@ -887,7 +887,7 @@ A Regulatory Impact Assessment has not been prepared for these Regulations as th
 
 [^f00008]: Footnote: O.J. No. L 31, 1.2.2002, p. 1, last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (O.J. No. L 188, 18.7.2009, p. 14)
 
-[^key-b111d7deccebec2b36af03f1a3278d26]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2010/125) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-b111d7deccebec2b36af03f1a3278d26]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2010/125) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00009]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
@@ -901,93 +901,93 @@ A Regulatory Impact Assessment has not been prepared for these Regulations as th
 
 [^f00014]: Footnote: Article 47(2) was amended by paragraphs 26 and 27 of Schedule 5 to the Food Standards Act 1999
 
-[^key-6d026f8309f74091d375d326d72af47b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-6d026f8309f74091d375d326d72af47b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-2362307149660214715e250166b98ce5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/125/regulation/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-2362307149660214715e250166b98ce5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/125/regulation/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-88b31b6bee1de3bea7074664f12d868f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88b31b6bee1de3bea7074664f12d868f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd47efd25753d60a382ccecc68557ad9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/2/a)
+[^c-bd47efd25753d60a382ccecc68557ad9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(2)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/2/a)
 
 [^M_F_cc686a11-b28b-4b1a-cf1d-09c2f69224f2]: Textual amendment: Words in reg. 2(1) inserted (1.8.2011) by [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [4](https://www.legislation.gov.uk/nisr/2011/248/regulation/4)
 
 [^f00017]: Footnote: O.J. No. L 325, 12.12.2003, p. 1, last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (O.J. No. L 188, 18.7.2009, p. 14)
 
-[^key-52fee205026d320152c38f7436aa4c98]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) added (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/11/regulation/2/2)
+[^c-52fee205026d320152c38f7436aa4c98]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) added (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/11/regulation/2/2)
 
-[^key-f2686024b0a6fc4afc5d1b6c64480768]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) inserted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(2)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/2/b)
+[^c-f2686024b0a6fc4afc5d1b6c64480768]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) inserted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(2)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/2/b)
 
-[^key-13a92097474910a31b76f61585101cfe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/2)
+[^c-13a92097474910a31b76f61585101cfe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/2)
 
 [^f00018]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b381fae225b6e9dec0625ec118956b6e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/3) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/3)
+[^c-b381fae225b6e9dec0625ec118956b6e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/3) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/3)
 
-[^key-9801592904afde0f1334144935514f4f]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/4) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/4)
+[^c-9801592904afde0f1334144935514f4f]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/4) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/4)
 
-[^key-9632de3df1fc1e08278bab1d5b33f670]: Textual amendment: Words in [reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/6/a) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/5)
+[^c-9632de3df1fc1e08278bab1d5b33f670]: Textual amendment: Words in [reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/6/a) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/5)
 
-[^key-606d074da90c03b885882fe20f6f6cef]: Textual amendment: Words in [reg. 2(7)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/7/a) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(6)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/6)
+[^c-606d074da90c03b885882fe20f6f6cef]: Textual amendment: Words in [reg. 2(7)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/7/a) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(6)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/6)
 
-[^key-4d8d09e8de492ae1a64a49dfa93dba82]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/9) inserted (19.11.2019) by [The Eggs and Chicks and Poultrymeat (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/210)](https://www.legislation.gov.uk/nisr/2019/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/210/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/210/regulation/2)
+[^c-4d8d09e8de492ae1a64a49dfa93dba82]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/125/regulation/2/9) inserted (19.11.2019) by [The Eggs and Chicks and Poultrymeat (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/210)](https://www.legislation.gov.uk/nisr/2019/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/210/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/210/regulation/2)
 
-[^key-ce134cdc15bfdf06acd746b7bc7fc098]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/125/regulation/3) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-ce134cdc15bfdf06acd746b7bc7fc098]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/125/regulation/3) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-7ce9e3458818bff71b220bb1e93fddb1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/125/regulation/4) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-7ce9e3458818bff71b220bb1e93fddb1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/125/regulation/4) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-923a4905e860811e02d980d375e32ca8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/125/regulation/5) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-923a4905e860811e02d980d375e32ca8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/125/regulation/5) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-1d411286e4550351c9c9a2f35226e509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/125/regulation/6) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-1d411286e4550351c9c9a2f35226e509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/125/regulation/6) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-df41f92085e95a5ce7c86d796c98eff3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/125/regulation/7) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-df41f92085e95a5ce7c86d796c98eff3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/125/regulation/7) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-025676888e5a8726e688c1a7cff1e4e6]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/a)
+[^c-025676888e5a8726e688c1a7cff1e4e6]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/a)
 
-[^key-dea64429a9a8d9ca7bf58f63a0c0cb4e]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/2/a) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/a)
+[^c-dea64429a9a8d9ca7bf58f63a0c0cb4e]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/2/a) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/a)
 
-[^key-ae8e1175b92f85ea089feb31e95dbe75]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/2/b) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/b)
+[^c-ae8e1175b92f85ea089feb31e95dbe75]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2010/125/regulation/7/2/b) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/7/b)
 
-[^key-53a6a5ace8ad044bef6dd72e153b05dd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/125/regulation/8) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-53a6a5ace8ad044bef6dd72e153b05dd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/125/regulation/8) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-93c2bfba7cac893bfb38039900e34433]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/125/regulation/9) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-93c2bfba7cac893bfb38039900e34433]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/125/regulation/9) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-7027b21951a08b6eae5fc3adb75c215f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/125/regulation/10) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-7027b21951a08b6eae5fc3adb75c215f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/125/regulation/10) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-84698c78e0ba3b20dbd5bd7d01a1c8ef]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/10/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(8)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/8)
+[^c-84698c78e0ba3b20dbd5bd7d01a1c8ef]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2010/125/regulation/10/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(8)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/8)
 
-[^key-b450e0fc6b7016c826f98aa8d4eadee6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2010/125/regulation/10/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(9)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/9)
+[^c-b450e0fc6b7016c826f98aa8d4eadee6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2010/125/regulation/10/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(9)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/9)
 
-[^key-1d491e5c5f942570f0cb5580582169e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/125/regulation/11) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-1d491e5c5f942570f0cb5580582169e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/125/regulation/11) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-ebf1016f0a60c6ee3ceb586229c6ef0e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/125/regulation/12) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-ebf1016f0a60c6ee3ceb586229c6ef0e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/125/regulation/12) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-8e674a0dc02d6c2f112c5aa022d05723]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/12/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e674a0dc02d6c2f112c5aa022d05723]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/12/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68dbd0264bc99e62ed623048dfe24654]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/125/regulation/13) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-68dbd0264bc99e62ed623048dfe24654]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/125/regulation/13) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-eb17cfdfb01e94be4df8a112c207ffff]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/13/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb17cfdfb01e94be4df8a112c207ffff]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2010/125/regulation/13/3) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2aea37f75fbf9e9c9bd69e01d304007d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/125/regulation/14) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-2aea37f75fbf9e9c9bd69e01d304007d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/125/regulation/14) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-71bf914670a752f592b1d247e98e5e5e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/125/regulation/15) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-71bf914670a752f592b1d247e98e5e5e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/125/regulation/15) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-1e89927f94ae3483fb242678ddb29591]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/125/regulation/16) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-1e89927f94ae3483fb242678ddb29591]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/125/regulation/16) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-881f97f6e80acf26c886d8526c645354]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/125/regulation/17) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-881f97f6e80acf26c886d8526c645354]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/125/regulation/17) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-169247dcc803df46298350696bbc4e74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/125/regulation/18) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-169247dcc803df46298350696bbc4e74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/125/regulation/18) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-2447069a71165968dd4946da3601e617]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2010/125/regulation/18/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2447069a71165968dd4946da3601e617]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2010/125/regulation/18/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-caa552474914d3d197bfc2c56609df54]: Textual amendment: [Reg. 18(14)](https://www.legislation.gov.uk/nisr/2010/125/regulation/18/14) omitted (31.12.2020) by virtue of [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-caa552474914d3d197bfc2c56609df54]: Textual amendment: [Reg. 18(14)](https://www.legislation.gov.uk/nisr/2010/125/regulation/18/14) omitted (31.12.2020) by virtue of [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd2c01cc706c139441c46c931764e8b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/125/regulation/19) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-cd2c01cc706c139441c46c931764e8b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/125/regulation/19) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-1586850a134cc4cc064d08c90f3d9bc9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/125/regulation/20) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-1586850a134cc4cc064d08c90f3d9bc9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/125/regulation/20) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
 [^f00019]: Footnote: [1981 No. 1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-c9769a65b16350eb5abb08b535d6b3b1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/125/regulation/21) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-c9769a65b16350eb5abb08b535d6b3b1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/125/regulation/21) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
 [^M_F_7baefc79-0adc-493c-e1f9-47cc6fa53054]: Textual amendment: Words in reg. 21(2)(e) omitted (1.8.2011) by virtue of [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [5](https://www.legislation.gov.uk/nisr/2011/248/regulation/5)
 
@@ -995,23 +995,23 @@ A Regulatory Impact Assessment has not been prepared for these Regulations as th
 
 [^M_F_f5757107-bf56-4cd4-bdd1-05605a1bbd60]: Textual amendment: Reg. 22 substituted (1.8.2011) by [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/248/regulation/6)
 
-[^key-1c8962791d31359fa482b89f6c731101]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/125/regulation/23) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-1c8962791d31359fa482b89f6c731101]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/125/regulation/23) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-0a3cb28f3bb60ea4e39b5d27c5befba7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/125/regulation/24) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-0a3cb28f3bb60ea4e39b5d27c5befba7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/125/regulation/24) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-1ad7dc8178037ffe05424d6512abba0a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/125/regulation/25) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-1ad7dc8178037ffe05424d6512abba0a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/125/regulation/25) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-6d4eb77c4f4d4caf2afd0f6c83f06136]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/125/regulation/26) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-6d4eb77c4f4d4caf2afd0f6c83f06136]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/125/regulation/26) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-34c266fb2e534dd62bab9ee4c2cb63c8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/125/regulation/27) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-34c266fb2e534dd62bab9ee4c2cb63c8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/125/regulation/27) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-13691793bf71d8888ea5186ec634bd3c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/125/regulation/28) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-13691793bf71d8888ea5186ec634bd3c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/125/regulation/28) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
 [^M_F_fdffa6c7-2fa1-4b4e-d600-e9a496edf70d]: Textual amendment: Reg. 28(6) omitted (1.8.2011) by virtue of [The Eggs and Chicks (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/248)](https://www.legislation.gov.uk/nisr/2011/248), [regs. 1](https://www.legislation.gov.uk/nisr/2011/248/regulation/1), [7](https://www.legislation.gov.uk/nisr/2011/248/regulation/7)
 
-[^key-0fa6487b6c96b38f193ba88134930691]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2010/125/regulation/29) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-0fa6487b6c96b38f193ba88134930691]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2010/125/regulation/29) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-23cc3f7b77f1fdea288a5175248f5a4b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2010/125/regulation/30) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-23cc3f7b77f1fdea288a5175248f5a4b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2010/125/regulation/30) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
 [^f00021]: Footnote: [S.R. 1995 No. 382](https://www.legislation.gov.uk/nisr/1995/382), revoked by [S.R. 2008 No. 98](https://www.legislation.gov.uk/nisr/2008/98)
 
@@ -1019,52 +1019,52 @@ A Regulatory Impact Assessment has not been prepared for these Regulations as th
 
 [^f00023]: Footnote: [S.R. 2008 No. 451](https://www.legislation.gov.uk/nisr/2008/451)
 
-[^key-692b6ae8658de0163705c6bc58c046e5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/125/regulation/31) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-692b6ae8658de0163705c6bc58c046e5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/125/regulation/31) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-0aee0518edbab09973d5693dba55e826]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-0aee0518edbab09973d5693dba55e826]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-5f6db8fb1893427acb9423e814302353]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) heading inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/a)
+[^c-5f6db8fb1893427acb9423e814302353]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) heading inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/a)
 
-[^key-830fb5b88058fcb96ca5d7366e39eb02]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/b)
+[^c-830fb5b88058fcb96ca5d7366e39eb02]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/b)
 
-[^key-053cd376acd8101ed3a69abf5b25ac18]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/c)
+[^c-053cd376acd8101ed3a69abf5b25ac18]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/c)
 
-[^key-671d21001b9d095fdfdbfc90737fc8a0]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(d)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/d)
+[^c-671d21001b9d095fdfdbfc90737fc8a0]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(10)(d)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/10/d)
 
-[^key-f21ec94eae33e86d5d3817d78d677e2b]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-f21ec94eae33e86d5d3817d78d677e2b]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-166dcb57ee5dfe2cea6f291778eca4ef]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/2)
+[^c-166dcb57ee5dfe2cea6f291778eca4ef]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/1/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/2)
 
-[^key-086ae7dcd599cfbe8f076cfffefb5230]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/a)
+[^c-086ae7dcd599cfbe8f076cfffefb5230]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/a)
 
-[^key-629d596b2207cc33856e662c319bc814]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-629d596b2207cc33856e662c319bc814]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-a179f2e7071fe5f74f4ec485e0d6f33a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/i)
+[^c-a179f2e7071fe5f74f4ec485e0d6f33a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/i)
 
-[^key-40a2eaece7e9a8c32c9ac353f080d8c8]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/ii)
+[^c-40a2eaece7e9a8c32c9ac353f080d8c8]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/ii)
 
-[^key-63169c59a857aacf0721ceeb363f9b88]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/a)
+[^c-63169c59a857aacf0721ceeb363f9b88]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/a)
 
-[^key-71b51086ecb0706e9fb48adb77889464]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/b)
+[^c-71b51086ecb0706e9fb48adb77889464]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/b)
 
-[^key-4ac461488ddd0bcde3aa0d4e4a167adb]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/3/a)
+[^c-4ac461488ddd0bcde3aa0d4e4a167adb]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/3/a)
 
-[^key-b2b607747f7c0c7bb6a7005e28517ed6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/iii)
+[^c-b2b607747f7c0c7bb6a7005e28517ed6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/iii)
 
-[^key-b37c7a47b9deab5183f5b7f1d30d1e6a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/3/b)
+[^c-b37c7a47b9deab5183f5b7f1d30d1e6a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/324/regulation/2/3/b)
 
-[^key-581a217e9abc7d8355c0cc8cb6578176]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-581a217e9abc7d8355c0cc8cb6578176]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f353f1d5d4c91ec20b7961a80b99a1e3]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2019/11/regulation/2/3)
+[^c-f353f1d5d4c91ec20b7961a80b99a1e3]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2019/11/regulation/2/3)
 
-[^key-ec5fd151f1f9cee2a8a46e66ed01fb6a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1313)](https://www.legislation.gov.uk/uksi/2019/1313), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/1/2/b), [2(b)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec5fd151f1f9cee2a8a46e66ed01fb6a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1313)](https://www.legislation.gov.uk/uksi/2019/1313), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/1/2/b), [2(b)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79aca32e91a51a527cf12bd6227d5ca8]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/c)
+[^c-79aca32e91a51a527cf12bd6227d5ca8]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 para. 17(3)(c)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/17/3/c)
 
-[^key-1543f21e06be4ceb2deb912e3725fe4f]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) omitted (21.3.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(iv)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/iv)
+[^c-1543f21e06be4ceb2deb912e3725fe4f]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nisr/2010/125/schedule/2/part/2) omitted (21.3.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(b)(iv)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/b/iv)
 
-[^key-41de2a61d29fcff222990e922363e954]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
+[^c-41de2a61d29fcff222990e922363e954]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) in operation at 28.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/125/regulation/1)
 
-[^key-8f7c55c4c33ec5577b87dd91e381e4e2]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/740/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f7c55c4c33ec5577b87dd91e381e4e2]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/740/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-256f73bd6b71d8545396e8d79e5c9e92]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) Table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/c)
+[^c-256f73bd6b71d8545396e8d79e5c9e92]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2010/125/schedule/3) Table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [5(11)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/5/11/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Offence of leasing premises[^key-0182a1f0755080ac2dc7b7447b9c7481][^key-7ba4795f4750448a7f728fc438241831]
+## 39. Offence of leasing premises[^c-0182a1f0755080ac2dc7b7447b9c7481][^c-7ba4795f4750448a7f728fc438241831]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,6 +152,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0182a1f0755080ac2dc7b7447b9c7481]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/19/section/39) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a)
+[^c-0182a1f0755080ac2dc7b7447b9c7481]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/19/section/39) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a)
 
-[^key-7ba4795f4750448a7f728fc438241831]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/19/section/39) in force at 1.12.2016 in so far as not already in force by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
+[^c-7ba4795f4750448a7f728fc438241831]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/19/section/39) in force at 1.12.2016 in so far as not already in force by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)

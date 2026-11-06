@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by sections 13(5), 30(1) and 56(1) of the Taxis Act (Northern Ireland) 2008[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-8e88a0fcd23bd6725d23b439f0873a31]
+## 1. Citation and commencement[^c-8e88a0fcd23bd6725d23b439f0873a31]
 
 These Regulations may be cited as the Taxi Licensing (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1st October 2023.
 
-## 2. Amendment of the Taxi Licensing Regulations[^key-a5cc1b18b07798e9c7ec9eec8747eea6]
+## 2. Amendment of the Taxi Licensing Regulations[^c-a5cc1b18b07798e9c7ec9eec8747eea6]
 
 In the Taxi Licensing Regulations (Northern Ireland) 2015[^f00004] for Schedule 1 substitute—
 
@@ -96,8 +96,8 @@ An Explanatory Memorandum and a Regulatory Impact Assessment has been produced a
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-8e88a0fcd23bd6725d23b439f0873a31]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/128/regulation/1)
+[^c-8e88a0fcd23bd6725d23b439f0873a31]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/128/regulation/1)
 
-[^key-a5cc1b18b07798e9c7ec9eec8747eea6]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/128/regulation/1)
+[^c-a5cc1b18b07798e9c7ec9eec8747eea6]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/128/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 393](https://www.legislation.gov.uk/nisr/2015/393) to which there are no relevant amendments.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Section 3I (power of PRA to require FCA to refrain from specified action)[^key-a1d9ad69c860f5646173ce888bc7a5fd]
+## 8. Section 3I (power of PRA to require FCA to refrain from specified action)[^c-a1d9ad69c860f5646173ce888bc7a5fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 3I [^c23657251] (power of PRA to require FCA to refrain from specifie
 
 ## Annotations
 
-[^key-a1d9ad69c860f5646173ce888bc7a5fd]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a1d9ad69c860f5646173ce888bc7a5fd]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657251]: Marginal citation: Section 3I was amended by sections 3(a), (b) and 129 and paragraphs 1 and 4 of Part 1 to Schedule 8 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).

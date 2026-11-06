@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41A. Calculation of average weekly income from tax credits[^key-3c2a8699210584ebafcb113eb344f260][^key-b07f86d41402c71301e9ff3d1ee95865]
+## 41A. Calculation of average weekly income from tax credits[^c-3c2a8699210584ebafcb113eb344f260][^c-b07f86d41402c71301e9ff3d1ee95865]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c2a8699210584ebafcb113eb344f260]: Commencement: [Reg. 41A](https://www.legislation.gov.uk/ssi/2021/249/regulation/41A) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-3c2a8699210584ebafcb113eb344f260]: Commencement: [Reg. 41A](https://www.legislation.gov.uk/ssi/2021/249/regulation/41A) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-b07f86d41402c71301e9ff3d1ee95865]: Textual amendment: Reg. 41A inserted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2022/52/regulation/10)
+[^c-b07f86d41402c71301e9ff3d1ee95865]: Textual amendment: Reg. 41A inserted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2022/52/regulation/10)

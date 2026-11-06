@@ -49,17 +49,17 @@ The Archbishops of Canterbury and York have made the joint request referred to i
 
 Her Majesty, in exercise of the powers conferred by that section, is pleased by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-fee06c9a25458f16fc45c227aa1839ba]
+## 1. Citation and commencement[^c-fee06c9a25458f16fc45c227aa1839ba]
 
 (1) This Order may be cited as the General Synod of the Church of England (Postponement of Elections) Order 2020.
 
 (2) This Order comes into force on the day after the date on which it is made.
 
-## 2. Postponement[^key-77fb2c03e58d98521f4f721380663d87]
+## 2. Postponement[^c-77fb2c03e58d98521f4f721380663d87]
 
 The date on which the Convocations of Canterbury and York stand dissolved for the purposes of the Church of England Convocations Act 1966 [^c24100841] is postponed to 31st July 2021.
 
-## 3. Ancillary provision : members of the General Synod[^key-bd86561c1da1b3e710eefc80a7324747][^key-c00c3005244432166ea716ebaf623155]
+## 3. Ancillary provision : members of the General Synod[^c-bd86561c1da1b3e710eefc80a7324747][^c-c00c3005244432166ea716ebaf623155]
 
 (1) A person who, immediately before the scheduled dissolution, is a member of the Convocation of Canterbury or York or a member of the House of Laity of the General Synod is to continue as such until the next dissolution of the General Synod or, if sooner, the vacation of the member's seat or the member's term of office otherwise coming to an end.
 
@@ -83,7 +83,7 @@ The date on which the Convocations of Canterbury and York stand dissolved for th
 
 (8) “**Scheduled dissolution**” means the end of 23rd November 2020 (the date on which the Convocations would, but for this Order, have stood dissolved subject to being dissolved sooner pursuant to Her Majesty's directions).
 
-## 4. Ancillary provision: members of the Cathedrals Fabric Commission for England[^key-a31d501a5d38c8c2ecf0ae5ca4ac8e23]
+## 4. Ancillary provision: members of the Cathedrals Fabric Commission for England[^c-a31d501a5d38c8c2ecf0ae5ca4ac8e23]
 
 Each person who, immediately before the end of 30th April 2021, is a member of the Cathedrals Fabric Commission for England is, in spite of paragraph 7 of Schedule 1 to the Care of Cathedrals Measure 2011 (which provides for a member’s term of office to run for five years), to continue as a member of the Commission until—
 
@@ -106,18 +106,18 @@ Article 3 of the Order makes provision for matters which are ancillary to the po
 
 [^c24100831]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-fee06c9a25458f16fc45c227aa1839ba]: Commencement: Art. 1 in force at 21.5.2020, see art. 1(2)
+[^c-fee06c9a25458f16fc45c227aa1839ba]: Commencement: Art. 1 in force at 21.5.2020, see art. 1(2)
 
-[^key-77fb2c03e58d98521f4f721380663d87]: Commencement: Art. 2 in force at 21.5.2020, see art. 1(2)
+[^c-77fb2c03e58d98521f4f721380663d87]: Commencement: Art. 2 in force at 21.5.2020, see art. 1(2)
 
 [^c24100841]: Marginal citation: [1966 c.2](https://www.legislation.gov.uk/ukpga/1966/2).
 
-[^key-bd86561c1da1b3e710eefc80a7324747]: Commencement: Art. 3 in force at 21.5.2020, see art. 1(2)
+[^c-bd86561c1da1b3e710eefc80a7324747]: Commencement: Art. 3 in force at 21.5.2020, see art. 1(2)
 
-[^key-c00c3005244432166ea716ebaf623155]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2020/526/article/3) heading inserted (15.10.2020) by [The General Synod of the Church of England (Postponement of Elections) (Amendment) Order 2020 (S.I. 2020/1123)](https://www.legislation.gov.uk/uksi/2020/1123), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1123/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1123/article/2/2)
+[^c-c00c3005244432166ea716ebaf623155]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2020/526/article/3) heading inserted (15.10.2020) by [The General Synod of the Church of England (Postponement of Elections) (Amendment) Order 2020 (S.I. 2020/1123)](https://www.legislation.gov.uk/uksi/2020/1123), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1123/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1123/article/2/2)
 
 [^c24100851]: Marginal citation: The Constitution of the General Synod is set out in Schedule 2 to the Synodical Government Measure 1969 ([1969 No.2](https://www.legislation.gov.uk/ukcm/1969/2)).
 
 [^c24100861]: Marginal citation: The Church Representation Rules are set out in Schedule 3 to that Measure.
 
-[^key-a31d501a5d38c8c2ecf0ae5ca4ac8e23]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2020/526/article/4) inserted (15.10.2020) by [The General Synod of the Church of England (Postponement of Elections) (Amendment) Order 2020 (S.I. 2020/1123)](https://www.legislation.gov.uk/uksi/2020/1123), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1123/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2020/1123/article/2/1)
+[^c-a31d501a5d38c8c2ecf0ae5ca4ac8e23]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2020/526/article/4) inserted (15.10.2020) by [The General Synod of the Church of England (Postponement of Elections) (Amendment) Order 2020 (S.I. 2020/1123)](https://www.legislation.gov.uk/uksi/2020/1123), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1123/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2020/1123/article/2/1)

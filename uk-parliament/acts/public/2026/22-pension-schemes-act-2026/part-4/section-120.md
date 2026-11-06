@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Interpretation[^key-1f9e0cfd1b1e802a028adb1ea4c9e60d]
+## 120. Interpretation[^c-1f9e0cfd1b1e802a028adb1ea4c9e60d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-1f9e0cfd1b1e802a028adb1ea4c9e60d]: Commencement: S. 120 in force at Royal Assent, see [s. 133(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/10)
+[^c-1f9e0cfd1b1e802a028adb1ea4c9e60d]: Commencement: S. 120 in force at Royal Assent, see [s. 133(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/10)

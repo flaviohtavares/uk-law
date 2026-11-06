@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-bed4d0c639901be54ccfdbd21b1b9ea5]
+## 2. Interpretation[^c-bed4d0c639901be54ccfdbd21b1b9ea5]
 
 *Extent: E+W*
 
@@ -95,7 +95,7 @@ summary: ''
 - “**offshore works**” means Work Nos. 1 to 3 inclusive and any related further associated development in connection with those Works;
 - “**onshore site preparation works**” means onshore works comprising surveying or investigatory works including archaeological investigations, environmental surveys, investigations for the purpose of assessing ground conditions; remediation of contamination, preparatory works to existing infrastructure and diversion and laying of utilities and services; creation of any temporary means of access; site clearance including vegetation clearance; erection of screening and fencing, site security works, creation of temporary hard standing, or the temporary display of site notices or advertisements;
 - “**onshore substation design principles document**” means the document certified as such by the Secretary of State under article 43 (certification of plans, etc.) for the purposes of this Order;
-- “**onshore works**” means Work Nos 4 to 17[^key-3c6d02024bbf9f750113c316411fd358] inclusive and any related further associated development in connection with those Works;
+- “**onshore works**” means Work Nos 4 to 17[^c-3c6d02024bbf9f750113c316411fd358] inclusive and any related further associated development in connection with those Works;
 - “**Order land**” means the land shown on the land plans which is within the limits of land to be acquired or used and described in the book of reference;
 - “**Order limits**” means the limits shown on the works plan - offshore and works plan - onshore within which the authorised development may be carried out;
 - “**outline cable specification and installation plan**” means the document certified as such by the Secretary of State for the purposes of this Order under article 43 (certification of plans, etc.);
@@ -163,7 +163,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bed4d0c639901be54ccfdbd21b1b9ea5]: Commencement: Art. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-bed4d0c639901be54ccfdbd21b1b9ea5]: Commencement: Art. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00009]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). The relevant parts of the 1961 Act were amended by the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55) and the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)).
 
@@ -191,7 +191,7 @@ summary: ''
 
 [^f00021]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-3c6d02024bbf9f750113c316411fd358]: Textual amendment: Word in art. 2 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-3c6d02024bbf9f750113c316411fd358]: Textual amendment: Word in art. 2 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
 [^f00022]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 

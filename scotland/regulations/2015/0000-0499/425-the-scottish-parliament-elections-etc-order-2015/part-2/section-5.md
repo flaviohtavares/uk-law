@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Polling districts and places at elections[^key-8470a5c4f141e21e5e2f8dbc89ab26e1]
+## 5. Polling districts and places at elections[^c-8470a5c4f141e21e5e2f8dbc89ab26e1]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8470a5c4f141e21e5e2f8dbc89ab26e1]: Commencement: Art. 5 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-8470a5c4f141e21e5e2f8dbc89ab26e1]: Commencement: Art. 5 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00023]: Footnote: Sections 18A and 18B were substituted by the 2006 Act, section 16.

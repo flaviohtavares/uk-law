@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Vacancy in office of trustee[^key-82be923d4a11520a7c7eb619eeff66f9]
+## 80. Vacancy in office of trustee[^c-82be923d4a11520a7c7eb619eeff66f9]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82be923d4a11520a7c7eb619eeff66f9]: Commencement: S. 80 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-82be923d4a11520a7c7eb619eeff66f9]: Commencement: S. 80 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

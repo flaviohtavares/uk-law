@@ -115,59 +115,59 @@ In the Jobseeker’s Allowance Regulations 1996 [^c9621021]—
 
 ## 4. Amendment of the Housing Benefit (General) Regulations 1987
 
-In the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] [^c9621051]—
+In the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] [^c9621051]—
 
-- (a) in paragraph 10 of Schedule 4 *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] [^c9621061] (sums to be disregarded in the calculation of income other than earnings) the following paragraph shall be inserted— *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+- (a) in paragraph 10 of Schedule 4 *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] [^c9621061] (sums to be disregarded in the calculation of income other than earnings) the following paragraph shall be inserted— *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
 
   > **10A.**
   >
-  > Any payment made to the claimant by way of a repayment under regulation 11(2) of the Education (Teacher Student Loans) (Repayment *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] etc *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]) Regulations 2002 *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] [^c9621071].
+  > Any payment made to the claimant by way of a repayment under regulation 11(2) of the Education (Teacher Student Loans) (Repayment *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] etc *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]) Regulations 2002 *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] [^c9621071].
 
   ;
-- (b) in paragraph 8 of Schedule 5 (capital to be disregarded) at the beginning there shall be inserted *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] “ —(1) Subject to sub-paragraph (2), ” *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] and at the end there shall be added the following sub-paragraphs— *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+- (b) in paragraph 8 of Schedule 5 (capital to be disregarded) at the beginning there shall be inserted *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] “ —(1) Subject to sub-paragraph (2), ” *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] and at the end there shall be added the following sub-paragraphs— *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
 
-  > (2) In a case where the total of any arrears and, if appropriate, any concessionary payment referred to in sub-paragraph (1) relating to any one of the specified payments, benefits or allowances amounts to £5,000 or more (referred to in this sub-paragraph and in sub-paragraph (3) as the “relevant sum”) and is— *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+  > (2) In a case where the total of any arrears and, if appropriate, any concessionary payment referred to in sub-paragraph (1) relating to any one of the specified payments, benefits or allowances amounts to £5,000 or more (referred to in this sub-paragraph and in sub-paragraph (3) as the “relevant sum”) and is— *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
   >
-  > - (a) paid in order to rectify, or to compensate for, an official error as defined in regulation 1(2) of the Decisions and Appeals Regulations *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03] [^c9621081], and *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
-  > - (b) received by the claimant in full on or after 14th October 2001, *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+  > - (a) paid in order to rectify, or to compensate for, an official error as defined in regulation 1(2) of the Decisions and Appeals Regulations *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03] [^c9621081], and *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
+  > - (b) received by the claimant in full on or after 14th October 2001, *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
   >
-  > sub-paragraph (1) shall have effect in relation to such arrears or concessionary payment either for a period of 52 weeks from the date of receipt, or, if the relevant sum is received in its entirety during the award of housing benefit, for the remainder of that award if that is a longer period. *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+  > sub-paragraph (1) shall have effect in relation to such arrears or concessionary payment either for a period of 52 weeks from the date of receipt, or, if the relevant sum is received in its entirety during the award of housing benefit, for the remainder of that award if that is a longer period. *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
   >
-  > (3) For the purposes of sub-paragraph (2), “the award of housing benefit” means— *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+  > (3) For the purposes of sub-paragraph (2), “the award of housing benefit” means— *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
   >
-  > - (a) the benefit period in which the relevant sum (or first part thereof where it is paid in more than one instalment) is received, and *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
-  > - (b) where that period is followed by one or more further benefit periods which, or each of which, begins immediately after the end of the previous benefit period, such further benefit periods until the end of the last such benefit period, provided that for any such further benefit periods the claimant— *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
-  >   - (i) is the person who received the relevant sum, or *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
-  >   - (ii (affected by repeal, see note))[^key-d8d124aa66cfba448cad47bfb96a7c03] is the partner of the person who received the relevant sum, or was that person’s partner at the date of his death. *(affected by repeal, see note)*[^key-d8d124aa66cfba448cad47bfb96a7c03]
+  > - (a) the benefit period in which the relevant sum (or first part thereof where it is paid in more than one instalment) is received, and *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
+  > - (b) where that period is followed by one or more further benefit periods which, or each of which, begins immediately after the end of the previous benefit period, such further benefit periods until the end of the last such benefit period, provided that for any such further benefit periods the claimant— *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
+  >   - (i) is the person who received the relevant sum, or *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
+  >   - (ii (affected by repeal, see note))[^c-d8d124aa66cfba448cad47bfb96a7c03] is the partner of the person who received the relevant sum, or was that person’s partner at the date of his death. *(affected by repeal, see note)*[^c-d8d124aa66cfba448cad47bfb96a7c03]
 
   .
 
 ## 5. Amendment of the Council Tax Benefit (General) Regulations 1992
 
-In the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] [^c9621091]—
+In the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] [^c9621091]—
 
-- (a) in paragraph 10 of Schedule 4 *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] [^c9621101] (sums to be disregarded in the calculation of income other than earnings) the following paragraph shall be inserted— *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+- (a) in paragraph 10 of Schedule 4 *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] [^c9621101] (sums to be disregarded in the calculation of income other than earnings) the following paragraph shall be inserted— *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
 
   > **10A.**
   >
-  > Any payment made to the claimant by way of a repayment under regulation 11(2) of the Education (Teacher Student Loans) (Repayment *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] etc *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]) Regulations 2002 *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] [^c9621111].
+  > Any payment made to the claimant by way of a repayment under regulation 11(2) of the Education (Teacher Student Loans) (Repayment *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] etc *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]) Regulations 2002 *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] [^c9621111].
 
   ;
-- (b) in paragraph 8 of Schedule 5 (capital to be disregarded) at the beginning there shall be inserted *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] “ —(1) Subject to sub-paragraph (2), ” *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] and at the end there shall be added the following sub-paragraphs— *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+- (b) in paragraph 8 of Schedule 5 (capital to be disregarded) at the beginning there shall be inserted *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] “ —(1) Subject to sub-paragraph (2), ” *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] and at the end there shall be added the following sub-paragraphs— *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
 
-  > (2) In a case where the total of any arrears and, if appropriate, any concessionary payment referred to in sub-paragraph (1) relating to any one of the specified payments, benefits or allowances amounts to £5,000 or more (referred to in this sub-paragraph and in sub-paragraph (3) as the “relevant sum”) and is— *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > (2) In a case where the total of any arrears and, if appropriate, any concessionary payment referred to in sub-paragraph (1) relating to any one of the specified payments, benefits or allowances amounts to £5,000 or more (referred to in this sub-paragraph and in sub-paragraph (3) as the “relevant sum”) and is— *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
   >
-  > - (a) paid in order to rectify, or to compensate for, an official error as defined in regulation 1(2) of the Decisions and Appeals Regulations, and *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
-  > - (b) received by the claimant in full on or after 14th October 2001, *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > - (a) paid in order to rectify, or to compensate for, an official error as defined in regulation 1(2) of the Decisions and Appeals Regulations, and *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > - (b) received by the claimant in full on or after 14th October 2001, *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
   >
-  > sub-paragraph (1) shall have effect in relation to such arrears or concessionary payment either for a period of 52 weeks from the date of receipt, or, if the relevant sum is received in its entirety during the award of council tax benefit, for the remainder of that award if that is a longer period. *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > sub-paragraph (1) shall have effect in relation to such arrears or concessionary payment either for a period of 52 weeks from the date of receipt, or, if the relevant sum is received in its entirety during the award of council tax benefit, for the remainder of that award if that is a longer period. *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
   >
-  > (3) For the purposes of sub-paragraph (2), “the award of council tax benefit” means— *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > (3) For the purposes of sub-paragraph (2), “the award of council tax benefit” means— *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
   >
-  > - (a) the benefit period in which the relevant sum (or first part thereof where it is paid in more than one instalment) is received, and *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
-  > - (b) where that period is followed by one or more further benefit periods which, or each of which, begins immediately after the end of the previous benefit period, such further benefit periods until the end of the last such benefit period, provided that for any such further benefit periods the claimant— *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
-  >   - (i) is the person who received the relevant sum, or *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
-  >   - (ii (affected by repeal, see note))[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2] is the partner of the person who received the relevant sum, or was that person’s partner at the date of his death. *(affected by repeal, see note)*[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > - (a) the benefit period in which the relevant sum (or first part thereof where it is paid in more than one instalment) is received, and *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  > - (b) where that period is followed by one or more further benefit periods which, or each of which, begins immediately after the end of the previous benefit period, such further benefit periods until the end of the last such benefit period, provided that for any such further benefit periods the claimant— *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  >   - (i) is the person who received the relevant sum, or *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
+  >   - (ii (affected by repeal, see note))[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2] is the partner of the person who received the relevant sum, or was that person’s partner at the date of his death. *(affected by repeal, see note)*[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]
 
   .
 
@@ -213,7 +213,7 @@ These Regulations do not impose a charge upon business.
 
 [^c9621041]: Marginal citation: [S.I. 2002/2086](https://www.legislation.gov.uk/uksi/2002/2086).
 
-[^key-d8d124aa66cfba448cad47bfb96a7c03]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2380/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-d8d124aa66cfba448cad47bfb96a7c03]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/2380/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c9621051]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); relevant amending instruments are [S.I. 1996/1510](https://www.legislation.gov.uk/uksi/1996/1510), 1996/1944 and 2001/2333.
 
@@ -223,7 +223,7 @@ These Regulations do not impose a charge upon business.
 
 [^c9621081]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-5b80371a03f8b0f6f8ad7c2d3edd93d2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/2380/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-5b80371a03f8b0f6f8ad7c2d3edd93d2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/2380/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c9621091]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814); relevant amending instruments are [S.I. 1993/688](https://www.legislation.gov.uk/uksi/1993/688), 1996/1510, 1996/1944 and 2001/2333.
 

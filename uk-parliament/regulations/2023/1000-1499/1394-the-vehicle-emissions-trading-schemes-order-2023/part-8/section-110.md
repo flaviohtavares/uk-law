@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Partial revocation and amendment of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)[^key-105c735c1fa4c9c08ae068a91d9605ea]
+## 110. Partial revocation and amendment of [Regulation (EU) 2019/631](https://www.legislation.gov.uk/european/regulation/2019/0631)[^c-105c735c1fa4c9c08ae068a91d9605ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,4 +185,4 @@ summary: ''
 
 ## Annotations
 
-[^key-105c735c1fa4c9c08ae068a91d9605ea]: Commencement: Art. 110 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-105c735c1fa4c9c08ae068a91d9605ea]: Commencement: Art. 110 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

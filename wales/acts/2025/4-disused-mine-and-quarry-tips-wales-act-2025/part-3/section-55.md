@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Power to carry out investigations[^key-ddc93a56f296150447bb1dad1e4a5a32]
+## 55. Power to carry out investigations[^c-ddc93a56f296150447bb1dad1e4a5a32]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Authority may carry out investigations on land to determine—
 
 ## Annotations
 
-[^key-ddc93a56f296150447bb1dad1e4a5a32]: Commencement: S. 55 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-ddc93a56f296150447bb1dad1e4a5a32]: Commencement: S. 55 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

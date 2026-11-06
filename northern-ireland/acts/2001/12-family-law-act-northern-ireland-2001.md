@@ -93,7 +93,7 @@ An Act to make further provision for the acquisition of parental responsibility 
 
 (1) A man shall be presumed to be the father of a child—
 
-- (a) if he was married to , or was the civil partner of,[^key-2dd2d4a01cdb45b8f00da960c09ce982] the mother of the child at any time in the period beginning with the conception and ending with the birth of the child;
+- (a) if he was married to , or was the civil partner of,[^c-2dd2d4a01cdb45b8f00da960c09ce982] the mother of the child at any time in the period beginning with the conception and ending with the birth of the child;
 - (b) where paragraph (a) does not apply, if he has been registered as the father of the child under—
   - (i) Article 14 or 18(1)(b)(ii) of the Births and Deaths Registration (Northern Ireland) Order 1976 (NI 14);
   - (ii) section 10 or 10A of the Births and Deaths Registration Act 1953 (c. 20); or
@@ -179,6 +179,6 @@ This Act may be cited as the Family Law Act (Northern Ireland) 2001.
 
 [^c21164551]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/nia/2001/12/section/1/4) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 66](https://www.legislation.gov.uk/ukpga/2008/22/section/66), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(3)](https://www.legislation.gov.uk/uksi/2009/479/article/6/3) (with transitional provisions in [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/479/schedule/1))
 
-[^key-2dd2d4a01cdb45b8f00da960c09ce982]: Textual amendment: Words in [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2001/12/section/2/1/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2019/1514/regulation/21) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2dd2d4a01cdb45b8f00da960c09ce982]: Textual amendment: Words in [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2001/12/section/2/1/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2019/1514/regulation/21) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c5490871]: Textual amendment: fully exercised by SR 2002/138

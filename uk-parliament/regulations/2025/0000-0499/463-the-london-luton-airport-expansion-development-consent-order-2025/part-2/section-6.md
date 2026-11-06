@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Limits of works[^key-78cf18f12eb4a23f1b903d90f4944366]
+## 6. Limits of works[^c-78cf18f12eb4a23f1b903d90f4944366]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78cf18f12eb4a23f1b903d90f4944366]: Commencement: Art. 6 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-78cf18f12eb4a23f1b903d90f4944366]: Commencement: Art. 6 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

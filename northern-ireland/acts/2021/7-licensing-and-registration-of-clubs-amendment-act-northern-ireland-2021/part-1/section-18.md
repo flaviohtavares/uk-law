@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Prohibition on self-service and sales by vending machines[^key-d21379d6ebb77007570fd82762c53719][^key-1f0b302014d53d69f9e9d5aaf5298201]
+## 18. Prohibition on self-service and sales by vending machines[^c-d21379d6ebb77007570fd82762c53719][^c-1f0b302014d53d69f9e9d5aaf5298201]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d21379d6ebb77007570fd82762c53719]: Commencement: S. 18 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-d21379d6ebb77007570fd82762c53719]: Commencement: S. 18 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-1f0b302014d53d69f9e9d5aaf5298201]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/7/section/18) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-1f0b302014d53d69f9e9d5aaf5298201]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/7/section/18) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

@@ -29,18 +29,18 @@ Job Release Act 1977 (repealed)
 
 1977 c.8
 
-[^key-62896e3890a8274d3c4df5013c0d575b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62896e3890a8274d3c4df5013c0d575b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Financial authorisation, et ceteralaetc.[^key-62896e3890a8274d3c4df5013c0d575b][^key-62896e3890a8274d3c4df5013c0d575b]
+## 1. Financial authorisation, et ceteralaetc.[^c-62896e3890a8274d3c4df5013c0d575b][^c-62896e3890a8274d3c4df5013c0d575b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation and extent.[^key-62896e3890a8274d3c4df5013c0d575b][^key-62896e3890a8274d3c4df5013c0d575b]
+## 2. Citation and extent.[^c-62896e3890a8274d3c4df5013c0d575b][^c-62896e3890a8274d3c4df5013c0d575b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62896e3890a8274d3c4df5013c0d575b]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), s. 1, [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-62896e3890a8274d3c4df5013c0d575b]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), s. 1, [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

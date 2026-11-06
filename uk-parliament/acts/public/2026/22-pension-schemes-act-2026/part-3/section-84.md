@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Reports in relation to alleged compliance breaches[^key-66b76b7b5ce7ca5b077f76a2085edc54]
+## 84. Reports in relation to alleged compliance breaches[^c-66b76b7b5ce7ca5b077f76a2085edc54]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66b76b7b5ce7ca5b077f76a2085edc54]: Commencement: S. 84 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-66b76b7b5ce7ca5b077f76a2085edc54]: Commencement: S. 84 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

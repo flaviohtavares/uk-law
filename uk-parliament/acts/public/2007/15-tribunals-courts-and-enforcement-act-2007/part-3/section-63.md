@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Enforcement agents[^key-0593cb90721ba0d3951a6973c25fb6ab]
+## 63. Enforcement agents[^c-0593cb90721ba0d3951a6973c25fb6ab]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 - (a) a constable;
 - (b) an officer of Revenue and Customs;
-- (ba)[^key-1b05f052c066bc6b807d7779e2706303] a person authorised to use the procedure in Schedule 12 by the Welsh Revenue Authority (or by a person to whom the Welsh Revenue Authority has delegated the function of authorising the use of the procedure);
+- (ba)[^c-1b05f052c066bc6b807d7779e2706303] a person authorised to use the procedure in Schedule 12 by the Welsh Revenue Authority (or by a person to whom the Welsh Revenue Authority has delegated the function of authorising the use of the procedure);
 - (c) a person appointed under section 2(1) of the Courts Act 2003 (c. 39) (court officers and staff).
 
 (4) An individual is exempt if he acts in the course of his duty as an officer of a government department.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0593cb90721ba0d3951a6973c25fb6ab]: Commencement: S. 63 in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-0593cb90721ba0d3951a6973c25fb6ab]: Commencement: S. 63 in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
 
-[^key-1b05f052c066bc6b807d7779e2706303]: Textual amendment: [S. 63(3)(ba)](https://www.legislation.gov.uk/ukpga/2007/15/section/63/3/ba) inserted (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 170(2)](https://www.legislation.gov.uk/anaw/2016/6/section/170/2), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/33/article/2/h)
+[^c-1b05f052c066bc6b807d7779e2706303]: Textual amendment: [S. 63(3)(ba)](https://www.legislation.gov.uk/ukpga/2007/15/section/63/3/ba) inserted (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 170(2)](https://www.legislation.gov.uk/anaw/2016/6/section/170/2), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/33/article/2/h)

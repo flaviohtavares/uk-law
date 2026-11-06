@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Examination of applications by Secretary of State[^key-b49ebe51344bc8c9b21214fa4647e354]
+## SCHEDULE 3 — Examination of applications by Secretary of State[^c-b49ebe51344bc8c9b21214fa4647e354]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ Section 113
 
 ## Annotations
 
-[^key-b49ebe51344bc8c9b21214fa4647e354]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/3) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/54), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-b49ebe51344bc8c9b21214fa4647e354]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/29/schedule/3) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/54), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

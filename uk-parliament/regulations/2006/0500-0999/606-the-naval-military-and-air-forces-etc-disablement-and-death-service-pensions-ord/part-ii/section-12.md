@@ -49,7 +49,7 @@ then paragraph (1) shall continue to apply to that new claim subject to the degr
 
 (6) Where a member is awarded a personal unemployability allowance, he may also be awarded additional unemployability allowances for dependants as follows—
 
-- (a) subject to paragraph (7), an additional unemployability allowance in respect of a spouse, civil partner, adult dependant[^c2155071] or dependant living as a spouse or[^key-779f05dc44bccc121bc64753858458cb] civil partner at a rate not exceeding the appropriate rate specified in paragraph 5(b)(i) of Part IV of Schedule 1 if—
+- (a) subject to paragraph (7), an additional unemployability allowance in respect of a spouse, civil partner, adult dependant[^c2155071] or dependant living as a spouse or[^c-779f05dc44bccc121bc64753858458cb] civil partner at a rate not exceeding the appropriate rate specified in paragraph 5(b)(i) of Part IV of Schedule 1 if—
   - (i) the person in respect of whom the allowance is claimed has a weekly income which does not exceed the figure specified in paragraph 5(d) of Part IV of Schedule 1, and
   - (ii) the Secretary of State thinks fit to award the allowance, having regard to that person's financial circumstances (including any earnings, occupational pension and social security benefits the person receives);
 - (b) subject to paragraphs (8) and (9), an additional allowance in respect of any child of the member at the appropriate rate specified in paragraph 5(b)(ii) of Part IV of Schedule 1;
@@ -82,6 +82,6 @@ the Secretary of State may take into account any pension referred to in subparag
 
 [^c2155071]: Textual amendment: Words in art. 12(6)(a) substituted (9.4.2012) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2012 (S.I. 2012/359)](https://www.legislation.gov.uk/uksi/2012/359), [arts. 1](https://www.legislation.gov.uk/uksi/2012/359/article/1), [3](https://www.legislation.gov.uk/uksi/2012/359/article/3)
 
-[^key-779f05dc44bccc121bc64753858458cb]: Textual amendment: Words in [art. 12(6)(a)](https://www.legislation.gov.uk/uksi/2006/606/article/12/6/a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/3)
+[^c-779f05dc44bccc121bc64753858458cb]: Textual amendment: Words in [art. 12(6)(a)](https://www.legislation.gov.uk/uksi/2006/606/article/12/6/a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/3)
 
 [^M_F_35f75d5e-500a-44d9-b379-5ef5241231f2]: Textual amendment: Art. 12(10)(a)(iii) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/374/article/3)

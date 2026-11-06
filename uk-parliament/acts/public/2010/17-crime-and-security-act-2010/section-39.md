@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Powers of court on breach of injunction by respondent under 18[^key-37f300ff7873ed77e958c56926145965]
+## 39. Powers of court on breach of injunction by respondent under 18[^c-37f300ff7873ed77e958c56926145965]
 
 *Extent: E+W*
 
@@ -391,4 +391,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37f300ff7873ed77e958c56926145965]: Commencement: S. 39 in force at 9.1.2012 by [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/d)
+[^c-37f300ff7873ed77e958c56926145965]: Commencement: S. 39 in force at 9.1.2012 by [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/d)

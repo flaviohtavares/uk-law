@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.6. Exercise of functions of the High Court[^key-434e34b59c4a5948aa555181ae444faa]
+## 2.6. Exercise of functions of the High Court[^c-434e34b59c4a5948aa555181ae444faa]
 
 *Extent: E+W*
 
@@ -85,7 +85,7 @@ unless paragraph (4) applies.
 
 ## Annotations
 
-[^key-434e34b59c4a5948aa555181ae444faa]: Commencement: [Rule 2.6](https://www.legislation.gov.uk/uksi/2025/909/rule/2.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-434e34b59c4a5948aa555181ae444faa]: Commencement: [Rule 2.6](https://www.legislation.gov.uk/uksi/2025/909/rule/2.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00057]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).
 

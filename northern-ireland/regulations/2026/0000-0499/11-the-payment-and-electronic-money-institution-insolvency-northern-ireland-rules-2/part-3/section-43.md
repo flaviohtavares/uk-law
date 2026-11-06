@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Expenses of requisitioned meetings[^key-80e6c9b7f8ada8d839e4e6c8072674a0]
+## 43. Expenses of requisitioned meetings[^c-80e6c9b7f8ada8d839e4e6c8072674a0]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80e6c9b7f8ada8d839e4e6c8072674a0]: Commencement: [Rule 43](https://www.legislation.gov.uk/nisr/2026/11/rule/43) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-80e6c9b7f8ada8d839e4e6c8072674a0]: Commencement: [Rule 43](https://www.legislation.gov.uk/nisr/2026/11/rule/43) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

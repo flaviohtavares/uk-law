@@ -56,7 +56,7 @@ and such a scheme may revoke or amend a previous charges scheme.
 - (a) any power of a relevant undertaker in a case not falling within section 142(2A) above[^c13220461] to enter into such an agreement with any person in any particular case as determines the charges to be made for the services provided to that person by the undertaker; or
 - (b) the power of a sewerage undertaker to enter into any agreement under section 129 above on terms that provide for the making of payments to the undertaker.
 
-(6)[^key-951541cad4fe89e7c4df5818f1816d14] If the Authority considers that a relevant undertaker's charges scheme does not comply with—
+(6)[^c-951541cad4fe89e7c4df5818f1816d14] If the Authority considers that a relevant undertaker's charges scheme does not comply with—
 
 - (a) subsection (2), (3) or (5),
 - (b) regulations under section 143A,
@@ -85,4 +85,4 @@ the Authority may give the undertaker a direction to do, or not to do, a thing s
 
 [^c13220461]: Textual amendment: Words in s. 143(5)(a) inserted (1.4.2000) by [1999 c. 9](https://www.legislation.gov.uk/ukpga/1999/9), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1999/9/section/3/2); [S.I. 1999/3440](https://www.legislation.gov.uk/uksi/1999/3440), [art. 3](https://www.legislation.gov.uk/uksi/1999/3440/article/3)
 
-[^key-951541cad4fe89e7c4df5818f1816d14]: Textual amendment: S. 143(6)-(6D) substituted for s. 143(6)-(9) (1.11.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-951541cad4fe89e7c4df5818f1816d14]: Textual amendment: S. 143(6)-(6D) substituted for s. 143(6)-(9) (1.11.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/1), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Revocation of heat network consent[^key-0c18c0967d50932f3e1f352bfb07a8a6]
+## 27. Revocation of heat network consent[^c-0c18c0967d50932f3e1f352bfb07a8a6]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c18c0967d50932f3e1f352bfb07a8a6]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/9/section/27) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-0c18c0967d50932f3e1f352bfb07a8a6]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/9/section/27) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

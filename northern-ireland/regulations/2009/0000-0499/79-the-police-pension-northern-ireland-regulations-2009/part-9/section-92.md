@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^key-7a06449c2428ff1066a29f6b4ad8f434]
+## 92. Amendment of the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^c-7a06449c2428ff1066a29f6b4ad8f434]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Schedule 5 which amends the Police Service of Northern Ireland and Police Servic
 
 ## Annotations
 
-[^key-7a06449c2428ff1066a29f6b4ad8f434]: Commencement: Reg. 92 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-7a06449c2428ff1066a29f6b4ad8f434]: Commencement: Reg. 92 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00038]: Footnote: [S.R. (N.I.) 2006 No.268](https://www.legislation.gov.uk/nisr/2006/268)

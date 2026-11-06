@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Temporary use of land for carrying out the authorised development[^key-9bcfd534afb5144e5fdef8a06e70d920]
+## 37. Temporary use of land for carrying out the authorised development[^c-9bcfd534afb5144e5fdef8a06e70d920]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bcfd534afb5144e5fdef8a06e70d920]: Commencement: Art. 37 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-9bcfd534afb5144e5fdef8a06e70d920]: Commencement: Art. 37 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

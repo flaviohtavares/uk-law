@@ -22,8 +22,8 @@ summary: ''
 
 (1) A person shall be excepted from liability to pay a Class 1B contribution for any year in respect of—
 
-- (a) the amount of any general earnings which are chargeable emoluments[^key-acd5eb527f89f18b78069b6b405c7bf8] under section 10A(4) of the Act of an employee included in a PAYE settlement agreement; and
-- (b) the total amount of income tax in respect of which that person is accountable to the Board in relation to general earnings[^key-0e463a1c0c0b30ea6ac3b0c2a2cc5b47] of such an employee in accordance with a PAYE settlement agreement,
+- (a) the amount of any general earnings which are chargeable emoluments[^c-acd5eb527f89f18b78069b6b405c7bf8] under section 10A(4) of the Act of an employee included in a PAYE settlement agreement; and
+- (b) the total amount of income tax in respect of which that person is accountable to the Board in relation to general earnings[^c-0e463a1c0c0b30ea6ac3b0c2a2cc5b47] of such an employee in accordance with a PAYE settlement agreement,
 
 where the employee is a person falling within paragraph (2) or (3).
 
@@ -35,9 +35,9 @@ where the employee is a person falling within paragraph (2) or (3).
 
 ## Annotations
 
-[^key-acd5eb527f89f18b78069b6b405c7bf8]: Textual amendment: Words in reg. 42(1)(a) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/10/a)
+[^c-acd5eb527f89f18b78069b6b405c7bf8]: Textual amendment: Words in reg. 42(1)(a) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/10/a)
 
-[^key-0e463a1c0c0b30ea6ac3b0c2a2cc5b47]: Textual amendment: Words in reg. 42(1)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/10/b)
+[^c-0e463a1c0c0b30ea6ac3b0c2a2cc5b47]: Textual amendment: Words in reg. 42(1)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/10/b)
 
 [^c17675351]: Textual amendment: OJ No. L1, 3.1.1994, p. 7.
 

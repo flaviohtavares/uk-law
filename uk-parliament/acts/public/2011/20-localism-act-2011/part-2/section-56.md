@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Final notices[^key-76b19f5158b7f5ff1ac4cbec518a4e4f]
+## 56. Final notices[^c-76b19f5158b7f5ff1ac4cbec518a4e4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ before deciding whether to terminate or vary the requirement mentioned in subsec
 
 ## Annotations
 
-[^key-76b19f5158b7f5ff1ac4cbec518a4e4f]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2011/20/section/56) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-76b19f5158b7f5ff1ac4cbec518a4e4f]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2011/20/section/56) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

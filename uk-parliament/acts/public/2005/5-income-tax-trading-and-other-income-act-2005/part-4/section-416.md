@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Tax is charged under this Chapter on the [^key-aee6308f0ae863a70f50d3d985431a34]... amount of the debt released or written off in the tax year.
+(1) Tax is charged under this Chapter on the [^c-aee6308f0ae863a70f50d3d985431a34]... amount of the debt released or written off in the tax year.
 
-(2)[^key-92874c2050d6f4017d9db971db0cef14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-92874c2050d6f4017d9db971db0cef14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of calculating the total income of the person liable for the tax, the amount charged is treated as income.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aee6308f0ae863a70f50d3d985431a34]: Textual amendment: Word in [s. 416(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/416/1) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/18/a)
+[^c-aee6308f0ae863a70f50d3d985431a34]: Textual amendment: Word in [s. 416(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/416/1) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/18/a)
 
-[^key-92874c2050d6f4017d9db971db0cef14]: Textual amendment: [S. 416(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/416/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 18(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/18/b)
+[^c-92874c2050d6f4017d9db971db0cef14]: Textual amendment: [S. 416(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/416/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 18(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/18/b)

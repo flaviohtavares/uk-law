@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Payment[^key-15cc4528eb209f5bf8fe27a42962fd89]
+## 35. Payment[^c-15cc4528eb209f5bf8fe27a42962fd89]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ any repayment by a borrower must be made at the end of the period of three month
 
 ## Annotations
 
-[^key-15cc4528eb209f5bf8fe27a42962fd89]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2009/470/regulation/35) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-15cc4528eb209f5bf8fe27a42962fd89]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2009/470/regulation/35) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

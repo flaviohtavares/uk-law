@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Duties of the Commissioner on references under regulation 24[^key-63c6f9087469a4ea39745fd168e8c8f1]
+## 26. Duties of the Commissioner on references under regulation 24[^c-63c6f9087469a4ea39745fd168e8c8f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the Commissioner must give a notification of the making of the reference to the 
 
 ## Annotations
 
-[^key-63c6f9087469a4ea39745fd168e8c8f1]: Commencement: Reg. 26 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-63c6f9087469a4ea39745fd168e8c8f1]: Commencement: Reg. 26 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

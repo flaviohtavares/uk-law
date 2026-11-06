@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Increase of maximum sentences for offences of having knives etc.[^key-09996e2d1c4a0fea5e304c838bf526e9]
+## 42. Increase of maximum sentences for offences of having knives etc.[^c-09996e2d1c4a0fea5e304c838bf526e9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09996e2d1c4a0fea5e304c838bf526e9]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2006/38/section/42) in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/74/article/2/a)
+[^c-09996e2d1c4a0fea5e304c838bf526e9]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2006/38/section/42) in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/74/article/2/a)

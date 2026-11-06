@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Amount of pension for a scheme year[^key-1648ceca910447c596cff89039ea2052]
+## 43. Amount of pension for a scheme year[^c-1648ceca910447c596cff89039ea2052]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The amount of club transfer earned pension for a scheme year must be specified separately in relation to each sending scheme.
 
-(4) The amount of earned pension for a scheme year is 2.32% of the member’s pensionable earnings for that year .[^key-3bf4ac529617b0ed5c8c61c82b03ac8a]
+(4) The amount of earned pension for a scheme year is 2.32% of the member’s pensionable earnings for that year .[^c-3bf4ac529617b0ed5c8c61c82b03ac8a]
 
 (5) The amount of transferred pension for a scheme year is the amount (if any) which the member is entitled to count under regulation 152 for that year.
 
@@ -39,12 +39,12 @@ summary: ''
 - (a) standard earned pension (if any); and
 - (b) earned pension attributable to the exercise of an effective pension age option (if any).
 
-(9)[^key-8883a300bb09e7185a1515e6b9fcdafc] For the purpose of paragraph (4), in respect of a period of assumed pay under this scheme, “**pensionable earnings**” means the member’s assumed pay.
+(9)[^c-8883a300bb09e7185a1515e6b9fcdafc] For the purpose of paragraph (4), in respect of a period of assumed pay under this scheme, “**pensionable earnings**” means the member’s assumed pay.
 
 ## Annotations
 
-[^key-1648ceca910447c596cff89039ea2052]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2014/290/regulation/43) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-1648ceca910447c596cff89039ea2052]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2014/290/regulation/43) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-3bf4ac529617b0ed5c8c61c82b03ac8a]: Textual amendment: Full stop in [reg. 43(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/43/4) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [18(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/18/a)
+[^c-3bf4ac529617b0ed5c8c61c82b03ac8a]: Textual amendment: Full stop in [reg. 43(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/43/4) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [18(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/18/a)
 
-[^key-8883a300bb09e7185a1515e6b9fcdafc]: Textual amendment: [Reg. 43(9)](https://www.legislation.gov.uk/nisr/2014/290/regulation/43/9) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [18(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/18/b)
+[^c-8883a300bb09e7185a1515e6b9fcdafc]: Textual amendment: [Reg. 43(9)](https://www.legislation.gov.uk/nisr/2014/290/regulation/43/9) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [18(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/18/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-649c3d34f1c1de656c61f0f861744db8] In section 1 of the 1993 Act (constitution and general functions of Crofters Commission), for subsection (2) substitute—
+(1)[^c-649c3d34f1c1de656c61f0f861744db8] In section 1 of the 1993 Act (constitution and general functions of Crofters Commission), for subsection (2) substitute—
 
 > (2) The Commission have—
 >
@@ -40,7 +40,7 @@ summary: ''
 
 .
 
-(2)[^key-9b4c8693e543ef1d50ace8976355e38c][^key-a38c3aa782f3be76aa52afcc41b684c9] After section 2 of that Act insert—
+(2)[^c-9b4c8693e543ef1d50ace8976355e38c][^c-a38c3aa782f3be76aa52afcc41b684c9] After section 2 of that Act insert—
 
 > **2A. Ministers' power to modify functions of Commission**
 >
@@ -128,8 +128,8 @@ summary: ''
 
 ## Annotations
 
-[^key-649c3d34f1c1de656c61f0f861744db8]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2010/14/section/2/1) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-649c3d34f1c1de656c61f0f861744db8]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2010/14/section/2/1) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
 
-[^key-9b4c8693e543ef1d50ace8976355e38c]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/asp/2010/14/section/2/2) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-9b4c8693e543ef1d50ace8976355e38c]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/asp/2010/14/section/2/2) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
 
-[^key-a38c3aa782f3be76aa52afcc41b684c9]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/asp/2010/14/section/2/2) in force at 1.4.2012 in so far as not already in force by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)
+[^c-a38c3aa782f3be76aa52afcc41b684c9]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/asp/2010/14/section/2/2) in force at 1.4.2012 in so far as not already in force by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)

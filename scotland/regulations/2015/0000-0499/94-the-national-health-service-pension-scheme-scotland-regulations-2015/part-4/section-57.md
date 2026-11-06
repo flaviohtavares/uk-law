@@ -31,11 +31,11 @@ summary: ''
 
 (4) An additional pension election must not be made at any time when M is absent from work for any reason.
 
-(5)[^key-ca2f4797aaccdc184adc1661298baab9] For the purposes of this Chapter—
+(5)[^c-ca2f4797aaccdc184adc1661298baab9] For the purposes of this Chapter—
 
 - (a) a member is treated as having made an additional pension election on the date on which the employing authority receives the member’s notice under paragraph (1); and
 - (b) an employing authority is treated as having made an additional pension election on the date on which the scheme manager receives the authority’s notice under paragraph (2).
 
 ## Annotations
 
-[^key-ca2f4797aaccdc184adc1661298baab9]: Textual amendment: Reg. 57(5) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2017/433/regulation/6)
+[^c-ca2f4797aaccdc184adc1661298baab9]: Textual amendment: Reg. 57(5) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2017/433/regulation/6)

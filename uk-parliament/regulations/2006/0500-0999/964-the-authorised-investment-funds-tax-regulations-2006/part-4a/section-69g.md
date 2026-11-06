@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69G. Property investment business: further provisions[^key-228ceee17a63954421c7bcbab46e5182]
+## 69G. Property investment business: further provisions[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 - (a) it is an estate, interest or right in or over land by the exploitation of which property rental business is conducted;
 - (b) it consists of shares owned by the open-ended investment company in a UK-REIT; or
-- (c) it consists of shares or units[^key-8262d0e62998d460df86802cab140637] owned by the open-ended investment company in an entity within regulation 69F(1)(c).
+- (c) it consists of shares or units[^c-8262d0e62998d460df86802cab140637] owned by the open-ended investment company in an entity within regulation 69F(1)(c).
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-8262d0e62998d460df86802cab140637]: Textual amendment: Words in reg. 69G(4)(c) inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2008/3159/regulation/19)
+[^c-8262d0e62998d460df86802cab140637]: Textual amendment: Words in reg. 69G(4)(c) inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2008/3159/regulation/19)

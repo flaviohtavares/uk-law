@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Attendance at panel meetings: other persons[^key-2805b668129729b7496bf6be1595f2e8]
+## 94. Attendance at panel meetings: other persons[^c-2805b668129729b7496bf6be1595f2e8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2805b668129729b7496bf6be1595f2e8]: Commencement: S. 94 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2805b668129729b7496bf6be1595f2e8]: Commencement: S. 94 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

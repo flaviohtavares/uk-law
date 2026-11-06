@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. New administrator appointed[^key-672a31e223585d009148e2a3fba9c119]
+## 155. New administrator appointed[^c-672a31e223585d009148e2a3fba9c119]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-672a31e223585d009148e2a3fba9c119]: Commencement: [Rule 155](https://www.legislation.gov.uk/uksi/2011/1301/rule/155) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-672a31e223585d009148e2a3fba9c119]: Commencement: [Rule 155](https://www.legislation.gov.uk/uksi/2011/1301/rule/155) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

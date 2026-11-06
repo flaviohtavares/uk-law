@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Arrest without warrant: other persons[^key-2a6842cd1e775497de4e466088389a58][^c20900591][^c18979161][^key-fe45d539cb4f5e62122d7932e4b26c24][^c18951241]
+## 24A. Arrest without warrant: other persons[^c-2a6842cd1e775497de4e466088389a58][^c20900591][^c18979161][^c-fe45d539cb4f5e62122d7932e4b26c24][^c18951241]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2a6842cd1e775497de4e466088389a58]: Modification: S. 24A restricted (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/17/4)
+[^c-2a6842cd1e775497de4e466088389a58]: Modification: S. 24A restricted (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/17/4)
 
 [^c20900591]: Modification: S. 24A restricted (W.) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 26](https://www.legislation.gov.uk/uksi/2010/2837/article/26), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/uksi/2010/2837/schedule/4/paragraph/2/4)
 
@@ -54,7 +54,7 @@ summary: ''
 
     S. 24A restricted (W.) (1.2.2007) by [The National Assembly for Wales (Representation of The People) Order (S.I. 2007/236)](https://www.legislation.gov.uk/uksi/2007/236), [arts. 1(1)](https://legislation.gov.uk/uksi/2007/236/article/1/1), [30(4)](https://legislation.gov.uk/uksi/2007/236/article/30/4)
 
-[^key-fe45d539cb4f5e62122d7932e4b26c24]: Modification: S. 24A restricted (W.) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2025/864/article/30/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))
+[^c-fe45d539cb4f5e62122d7932e4b26c24]: Modification: S. 24A restricted (W.) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [30(4)](https://www.legislation.gov.uk/uksi/2025/864/article/30/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))
 
 [^c18951241]: Textual amendment: Ss. 24, 24A substituted for s. 24 (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 110](https://www.legislation.gov.uk/ukpga/2005/15/section/110), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m)
 

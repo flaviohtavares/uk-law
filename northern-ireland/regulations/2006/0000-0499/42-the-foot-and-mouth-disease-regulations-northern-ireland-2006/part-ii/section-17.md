@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Supplementary measures in respect of a temporary control zone: straying of susceptible animals[^key-2fd57d44779b7b9722be0db915ce68e9]
+## 17. Supplementary measures in respect of a temporary control zone: straying of susceptible animals[^c-2fd57d44779b7b9722be0db915ce68e9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fd57d44779b7b9722be0db915ce68e9]: Commencement: Reg. 17 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-2fd57d44779b7b9722be0db915ce68e9]: Commencement: Reg. 17 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

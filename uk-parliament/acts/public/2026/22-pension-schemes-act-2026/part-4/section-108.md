@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Powers to amend Chapter 1 etc: Northern Ireland[^key-a439457e8ee866232e870ba79a90e549]
+## 108. Powers to amend Chapter 1 etc: Northern Ireland[^c-a439457e8ee866232e870ba79a90e549]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ Paragraph (c) is without prejudice to the validity of anything done under the re
 
 ## Annotations
 
-[^key-a439457e8ee866232e870ba79a90e549]: Commencement: S. 108 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-a439457e8ee866232e870ba79a90e549]: Commencement: S. 108 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The Veterinary Products Committee[^key-12ee203118c798f5cd64a5bee03d7219]
+## 28. The Veterinary Products Committee[^c-12ee203118c798f5cd64a5bee03d7219]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12ee203118c798f5cd64a5bee03d7219]: Commencement: Reg. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-12ee203118c798f5cd64a5bee03d7219]: Commencement: Reg. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

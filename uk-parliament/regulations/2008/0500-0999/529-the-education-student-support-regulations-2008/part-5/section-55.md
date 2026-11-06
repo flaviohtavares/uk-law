@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Qualifying conditions for the maintenance grant[^key-b39f2c5e5a9088f86a5cd965be133ebd]
+## 55. Qualifying conditions for the maintenance grant[^c-b39f2c5e5a9088f86a5cd965be133ebd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b39f2c5e5a9088f86a5cd965be133ebd]: Commencement: Reg. 55 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-b39f2c5e5a9088f86a5cd965be133ebd]: Commencement: Reg. 55 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

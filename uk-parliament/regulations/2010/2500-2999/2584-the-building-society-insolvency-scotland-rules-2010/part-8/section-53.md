@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Loss of qualification as insolvency practitioner[^key-298ae9292395acde47e860e22168a4b8]
+## 53. Loss of qualification as insolvency practitioner[^c-298ae9292395acde47e860e22168a4b8]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-298ae9292395acde47e860e22168a4b8]: Commencement: Rule 53 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-298ae9292395acde47e860e22168a4b8]: Commencement: Rule 53 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00028]: Footnote: Rule 4.37(2) was amended by paragraph 141(16) of Schedule 2(II) to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).

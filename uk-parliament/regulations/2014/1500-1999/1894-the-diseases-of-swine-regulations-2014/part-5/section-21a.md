@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A. Removal of feral pig control zones in England[^key-9ca006619d9e504bf79333386a5d837d]
+## 21A. Removal of feral pig control zones in England[^c-9ca006619d9e504bf79333386a5d837d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca006619d9e504bf79333386a5d837d]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/21A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(17)](https://www.legislation.gov.uk/uksi/2026/475/article/3/17)
+[^c-9ca006619d9e504bf79333386a5d837d]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/21A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(17)](https://www.legislation.gov.uk/uksi/2026/475/article/3/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217B. Original pack dispensing[^key-7cb4c2f50a2154d71230f0d1129fa023]
+## 217B. Original pack dispensing[^c-7cb4c2f50a2154d71230f0d1129fa023]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) Paragraph (1) does not apply—
 
 - (a) to the sale or supply of a different quantity to that ordered on the prescription in circumstances where the different quantity is more than 10% greater or more than 10% less than the quantity ordered on the prescription; or
-- (b)[^key-bf5d36d822957821a68ed5bb848b01fa] in circumstances where—
+- (b)[^c-bf5d36d822957821a68ed5bb848b01fa] in circumstances where—
   - (i) a pharmacist is carrying out, supervising or authorising (under regulation 220B) the carrying out of the sale or supply and the pharmacist considers, or
   - (ii) in Great Britian, a registered pharmacy technician is carrying out or supervising the sale or supply, pursuant to an authorisation (under regulation 220A) given by a pharmacist, and the registered pharmacy technician considers,
 
@@ -49,6 +49,6 @@ until those Regulations expressly apply paragraphs (1) to (3) to those supplies.
 
 ## Annotations
 
-[^key-7cb4c2f50a2154d71230f0d1129fa023]: Textual amendment: Regs. 217B, 217C inserted (E.W.S.) (11.10.2023) by [The Human Medicines (Amendment Relating to Original Pack Dispensing) (England and Wales and Scotland) Regulations 2023 (S.I. 2023/1015)](https://www.legislation.gov.uk/uksi/2023/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1015/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1015/regulation/2/2)
+[^c-7cb4c2f50a2154d71230f0d1129fa023]: Textual amendment: Regs. 217B, 217C inserted (E.W.S.) (11.10.2023) by [The Human Medicines (Amendment Relating to Original Pack Dispensing) (England and Wales and Scotland) Regulations 2023 (S.I. 2023/1015)](https://www.legislation.gov.uk/uksi/2023/1015), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1015/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1015/regulation/2/2)
 
-[^key-bf5d36d822957821a68ed5bb848b01fa]: Textual amendment: [Reg. 217B(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/217B/2/b) substituted (7.1.2026) by [The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (S.I. 2025/1249)](https://www.legislation.gov.uk/uksi/2025/1249), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/5/c), [12(7)](https://www.legislation.gov.uk/uksi/2025/1249/article/12/7) (with [reg. 12(19)(b)](https://www.legislation.gov.uk/uksi/2025/1249/regulation/12/19/b))
+[^c-bf5d36d822957821a68ed5bb848b01fa]: Textual amendment: [Reg. 217B(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/217B/2/b) substituted (7.1.2026) by [The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (S.I. 2025/1249)](https://www.legislation.gov.uk/uksi/2025/1249), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/5/c), [12(7)](https://www.legislation.gov.uk/uksi/2025/1249/article/12/7) (with [reg. 12(19)(b)](https://www.legislation.gov.uk/uksi/2025/1249/regulation/12/19/b))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Lease of dwelling-house for use as accommodation for homeless persons[^key-3d0524e68a27f6e63d079ac2d2cf9b13]
+## 30. Lease of dwelling-house for use as accommodation for homeless persons[^c-3d0524e68a27f6e63d079ac2d2cf9b13]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3d0524e68a27f6e63d079ac2d2cf9b13]: Commencement: Reg. 30 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3d0524e68a27f6e63d079ac2d2cf9b13]: Commencement: Reg. 30 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00029]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). *See* section 112 of the Act.
 

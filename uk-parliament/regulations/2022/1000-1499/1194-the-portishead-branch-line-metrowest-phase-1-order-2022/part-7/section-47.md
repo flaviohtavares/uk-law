@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Application of the Land Compensation Act 1973[^key-180762f90b31975c0a7ed32fb5200a69]
+## 47. Application of the Land Compensation Act 1973[^c-180762f90b31975c0a7ed32fb5200a69]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-180762f90b31975c0a7ed32fb5200a69]: Commencement: Art. 47 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-180762f90b31975c0a7ed32fb5200a69]: Commencement: Art. 47 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00064]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26). Section 20 was amended by section 146(6) and (12) of, and Schedule 13 to, the 1984 Act. Subsection (10) of section 20(10) was repealed by section 343(3) of, and Schedule 25 to, the 1980 Act and subsection (11) was repealed by section 155 of, and Schedule 25 to, the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42). Section 20A was inserted by paragraph 5 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).

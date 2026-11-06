@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 333(2A) of and paragraph 17 of Schedule 7A to the Town and Country Planning Act 1990[^f00001].
 
-## 1. Citation, commencement and extent[^key-7dade107c3beac439da471471af96249]
+## 1. Citation, commencement and extent[^c-7dade107c3beac439da471471af96249]
 
 (1) These Regulations may be cited as the Biodiversity Gain Requirements (Exemptions) Regulations 2024.
 
@@ -56,11 +56,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Biodiversity gain planning condition[^key-5e7680a0b56e4561b75771fc980ebc6a]
+## 2. Biodiversity gain planning condition[^c-5e7680a0b56e4561b75771fc980ebc6a]
 
 In these Regulations, “**biodiversity gain planning condition**” means the condition referred to in paragraph 13 (general condition of planning permission) of Schedule 7A to the Town and Country Planning Act 1990.
 
-## 3. Temporary exemption for small developments[^key-3e425603e482528eec1f3f472d2d30a9]
+## 3. Temporary exemption for small developments[^c-3e425603e482528eec1f3f472d2d30a9]
 
 (1) The biodiversity gain planning condition does not apply in relation to planning permission for small development where—
 
@@ -75,7 +75,7 @@ In these Regulations, “**biodiversity gain planning condition**” means the c
 - “**section 73 planning permission**” means planning permission granted on an application made under section 73 of the Town and Country Planning Act 1990 (determination of applications to develop land without compliance with conditions previously attached);
 - “**small development**” means development which is not major development within the meaning of article 2(1) of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00002].
 
-## 4. De minimis exemption[^key-72977af2bc84f86f1fc3404f57881170]
+## 4. De minimis exemption[^c-72977af2bc84f86f1fc3404f57881170]
 
 (1) The biodiversity gain planning condition does not apply in relation to planning permission for development which meets the first and second conditions.
 
@@ -92,23 +92,23 @@ In these Regulations, “**biodiversity gain planning condition**” means the c
 - (b) a habitat is impacted where the habitat is lost or degraded such that there is a decrease in the biodiversity value of that habitat;
 - (c) “**linear habitat**” means the types of hedgerow habitat or watercourse habitat identified for the purposes of the biodiversity metric[^f00005] (which are measured by length (expressed in kilometres) rather than area).
 
-## 5. Householder applications[^key-dbed8fc5c451f2fff42e0b406b440e87]
+## 5. Householder applications[^c-dbed8fc5c451f2fff42e0b406b440e87]
 
 The biodiversity gain planning condition does not apply in relation to planning permission for development which is the subject of a householder application within the meaning of article 2(1) of the Town and Country Planning (Development Management Procedure) (England) Order 2015.
 
-## 6. High Speed Railway Transport Network[^key-cfe39116030a091131229b424500b356]
+## 6. High Speed Railway Transport Network[^c-cfe39116030a091131229b424500b356]
 
 (1) The biodiversity gain planning condition does not apply in relation to planning permission for development forming part of, or ancillary to, the high speed railway transport network comprising connections between all or any of the places or parts of the transport network specified in section 1(2) of the High Speed Rail (Preparation) Act 2013[^f00006].
 
 (2) In this regulation “**transport network**” and “**high speed railway transport network**” have the same meaning as in the High Speed Rail (Preparation) Act 2013.
 
-## 7. Biodiversity gain site[^key-ec2242c192a3bb16956aa0da0d52decd]
+## 7. Biodiversity gain site[^c-ec2242c192a3bb16956aa0da0d52decd]
 
 (1) The biodiversity gain planning condition does not apply in relation to planning permission for development which is undertaken solely or mainly for the purpose of fulfilling, in whole or in part, the biodiversity gain planning condition which applies in relation to another development.
 
 (2) In determining whether a development is undertaken solely or mainly for the purpose specified in paragraph (1), no account is to be taken of any facility for the public to access or to use the site for educational or recreational purposes, if that access or use is permitted without the payment of a fee.
 
-## 7A. Development no larger than 0.2 hectares[^key-c6264b05b7a2a634a787046654159474]
+## 7A. Development no larger than 0.2 hectares[^c-c6264b05b7a2a634a787046654159474]
 
 (1) The biodiversity gain planning condition does not apply in relation to planning permission[^f00004] for development which meets the first and second conditions.
 
@@ -161,11 +161,11 @@ The biodiversity gain planning condition does not apply in relation to planning 
 - (e) “**temporary development**” means development for which planning permission is granted subject to a condition imposed under section 72(1)(b) of the Town and Country Planning Act 1990;
 - (f) a habitat is impacted where the habitat is lost or degraded such that there is a decrease in the biodiversity value of that habitat.
 
-## 8. Self-build and custom build applications.[^key-79858f9250877703c75140c5b3dd2daa]
+## 8. Self-build and custom build applications.[^c-79858f9250877703c75140c5b3dd2daa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Review[^key-7b82a8b5ddd58616d0252bc5bea4ed27]
+## 9. Review[^c-7b82a8b5ddd58616d0252bc5bea4ed27]
 
 (1) The Secretary of State must from time to time—
 
@@ -218,15 +218,15 @@ An Impact Assessment for these Regulations has been produced and is available at
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); subsection (2A) was inserted into section 333 by paragraph 14 of Schedule 6 to the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5); Schedule 7A was inserted by section 98 of, and Schedule 14 to, the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-7dade107c3beac439da471471af96249]: Commencement: Reg. 1 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-7dade107c3beac439da471471af96249]: Commencement: Reg. 1 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
-[^key-5e7680a0b56e4561b75771fc980ebc6a]: Commencement: Reg. 2 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-5e7680a0b56e4561b75771fc980ebc6a]: Commencement: Reg. 2 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
-[^key-3e425603e482528eec1f3f472d2d30a9]: Commencement: Reg. 3 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-3e425603e482528eec1f3f472d2d30a9]: Commencement: Reg. 3 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595); there are amendments to article 2 but none is relevant.
 
-[^key-72977af2bc84f86f1fc3404f57881170]: Commencement: Reg. 4 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-72977af2bc84f86f1fc3404f57881170]: Commencement: Reg. 4 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
 [^f00003]: Footnote: *See* paragraph 3 of Schedule 7A to the Town and Country Planning Act 1990 for the definition of “biodiversity value”.
 
@@ -234,18 +234,18 @@ An Impact Assessment for these Regulations has been produced and is available at
 
 [^f00005]: Footnote: See paragraph 4 of Schedule 7A to the Town and Country Panning Act 1990.
 
-[^key-dbed8fc5c451f2fff42e0b406b440e87]: Commencement: Reg. 5 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-dbed8fc5c451f2fff42e0b406b440e87]: Commencement: Reg. 5 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
-[^key-cfe39116030a091131229b424500b356]: Commencement: Reg. 6 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-cfe39116030a091131229b424500b356]: Commencement: Reg. 6 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
 [^f00006]: Footnote: [2013 c. 31](https://www.legislation.gov.uk/ukpga/2013/31).
 
-[^key-ec2242c192a3bb16956aa0da0d52decd]: Commencement: Reg. 7 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-ec2242c192a3bb16956aa0da0d52decd]: Commencement: Reg. 7 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
-[^key-c6264b05b7a2a634a787046654159474]: Textual amendment: Regs. 7A, 7B inserted (6.8.2026) by [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/790/regulation/3/a)
+[^c-c6264b05b7a2a634a787046654159474]: Textual amendment: Regs. 7A, 7B inserted (6.8.2026) by [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/790/regulation/3/a)
 
-[^key-79858f9250877703c75140c5b3dd2daa]: Textual amendment: Reg. 8 omitted (6.8.2026) by virtue of [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/790/regulation/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/4/2))
+[^c-79858f9250877703c75140c5b3dd2daa]: Textual amendment: Reg. 8 omitted (6.8.2026) by virtue of [The Biodiversity Gain (Town and Country Planning) (Amendments and Transitional Provisions) (England) Regulations 2026 (S.I. 2026/790)](https://www.legislation.gov.uk/uksi/2026/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/790/regulation/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/790/regulation/4/2))
 
-[^key-7b82a8b5ddd58616d0252bc5bea4ed27]: Commencement: Reg. 9 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
+[^c-7b82a8b5ddd58616d0252bc5bea4ed27]: Commencement: Reg. 9 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/47/regulation/1/2)
 
 [^f00008]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

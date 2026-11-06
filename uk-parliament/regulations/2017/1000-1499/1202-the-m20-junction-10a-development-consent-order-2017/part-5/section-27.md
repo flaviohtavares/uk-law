@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Modification of Part 1 of the 1965 Act[^key-0d7cb8fc7cda8647d65a30fe15a572f7]
+## 27. Modification of Part 1 of the 1965 Act[^c-0d7cb8fc7cda8647d65a30fe15a572f7]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0d7cb8fc7cda8647d65a30fe15a572f7]: Commencement: Art. 27 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-0d7cb8fc7cda8647d65a30fe15a572f7]: Commencement: Art. 27 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
 [^f00043]: Footnote: As inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

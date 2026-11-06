@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.13. Conduct of a trial or an appeal[^key-c9e3ddb326f7beaac1470f5edf4fd04a]
+## 3.13. Conduct of a trial or an appeal[^c-c9e3ddb326f7beaac1470f5edf4fd04a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In order to manage a trial or an appeal, the court—
 
 ## Annotations
 
-[^key-c9e3ddb326f7beaac1470f5edf4fd04a]: Commencement: [Rule 3.13](https://www.legislation.gov.uk/uksi/2025/909/rule/3.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c9e3ddb326f7beaac1470f5edf4fd04a]: Commencement: [Rule 3.13](https://www.legislation.gov.uk/uksi/2025/909/rule/3.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

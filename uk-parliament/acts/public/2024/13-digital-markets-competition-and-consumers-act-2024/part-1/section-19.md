@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Power to impose conduct requirements[^key-0c84a0e9ac3db068ca845d047e7d7201][^key-f8806a3462edcbbe521d36169d400eee]
+## 19. Power to impose conduct requirements[^c-0c84a0e9ac3db068ca845d047e7d7201][^c-f8806a3462edcbbe521d36169d400eee]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ having regard to what the conduct requirement or combination of conduct requirem
 
 ## Annotations
 
-[^key-0c84a0e9ac3db068ca845d047e7d7201]: Commencement: S. 19 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0c84a0e9ac3db068ca845d047e7d7201]: Commencement: S. 19 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f8806a3462edcbbe521d36169d400eee]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/13/section/19) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-f8806a3462edcbbe521d36169d400eee]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/13/section/19) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

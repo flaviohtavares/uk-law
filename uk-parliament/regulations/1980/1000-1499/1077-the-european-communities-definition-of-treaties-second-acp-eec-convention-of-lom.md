@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Second Acp-Eec Convention of Lomé) Order 1980 (revoked)[^key-73d0d3a24d1c6d061adf7f08f29c6c73]
+The European Communities (Definition of Treaties) (Second Acp-Eec Convention of Lomé) Order 1980 (revoked)[^c-73d0d3a24d1c6d061adf7f08f29c6c73]
 
 Laid before Parliament in draft
 
@@ -41,28 +41,28 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-73d0d3a24d1c6d061adf7f08f29c6c73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73d0d3a24d1c6d061adf7f08f29c6c73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73d0d3a24d1c6d061adf7f08f29c6c73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73d0d3a24d1c6d061adf7f08f29c6c73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-73d0d3a24d1c6d061adf7f08f29c6c73]
+## SCHEDULE[^c-73d0d3a24d1c6d061adf7f08f29c6c73]
 
-**1.**[^key-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-73d0d3a24d1c6d061adf7f08f29c6c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73d0d3a24d1c6d061adf7f08f29c6c73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73d0d3a24d1c6d061adf7f08f29c6c73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73d0d3a24d1c6d061adf7f08f29c6c73]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1980/1077) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73d0d3a24d1c6d061adf7f08f29c6c73]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1980/1077) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

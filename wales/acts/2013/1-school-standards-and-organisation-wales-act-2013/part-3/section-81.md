@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Direction requiring discontinuance of community special school[^key-40befedb7c367d98dc225ab51fdbf0f9]
+## 81. Direction requiring discontinuance of community special school[^c-40befedb7c367d98dc225ab51fdbf0f9]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40befedb7c367d98dc225ab51fdbf0f9]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2013/1/section/81) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-40befedb7c367d98dc225ab51fdbf0f9]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2013/1/section/81) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

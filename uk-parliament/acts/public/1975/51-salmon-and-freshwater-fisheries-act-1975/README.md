@@ -31,7 +31,7 @@ Salmon and Freshwater Fisheries Act 1975
 
 An Act to consolidate the Salmon and Freshwater Fisheries Act 1923 and certain other enactments relating to salmon and freshwater fisheries, and to repeal certain obsolete enactments relating to such fisheries.
 
-\[1st August 1975\][^c10048291][^c10048301][^c10048311][^c10048321][^c10048331][^c10048341][^c10048351][^c10048361][^c10048371][^c10048381][^key-e9af0d9d6e6578df1502ed05e1f170a1]
+\[1st August 1975\][^c10048291][^c10048301][^c10048311][^c10048321][^c10048331][^c10048341][^c10048351][^c10048361][^c10048371][^c10048381][^c-e9af0d9d6e6578df1502ed05e1f170a1]
 
 ## Contents
 
@@ -74,7 +74,7 @@ An Act to consolidate the Salmon and Freshwater Fisheries Act 1923 and certain o
 - [Section 23 — Export of salmon and trout.](part-iii/section-23.md)
 - [Section 24 — Consignment of salmon and trout.](part-iii/section-24.md)
 
-### Part IV — Fishing Licences and authorisations[^key-7d8e34a013354061074c55ccb9794346]
+### Part IV — Fishing Licences and authorisations[^c-7d8e34a013354061074c55ccb9794346]
 
 *Extent: E+W*
 
@@ -163,6 +163,6 @@ SCHEDULES
 
     Certain definitions in Act applied (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 142(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/142/3), [156(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/156/3), [210(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/210/1), [212(4)](https://www.legislation.gov.uk/ukpga/1991/57/section/212/4), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2), [Sch. 25 para. 6(7)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/25/paragraph/6/7) (with [ss. 16(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/16/6), [179](https://www.legislation.gov.uk/ukpga/1991/57/section/179), [222(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/222/3), [224(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/224/1), [225(4)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/4), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/6)).
 
-[^key-e9af0d9d6e6578df1502ed05e1f170a1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1975/51) transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-e9af0d9d6e6578df1502ed05e1f170a1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1975/51) transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-7d8e34a013354061074c55ccb9794346]: Textual amendment: Words in [Pt. IV heading](https://www.legislation.gov.uk/ukpga/1975/51/part/IV) inserted (1.1.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 219(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/219/1), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)
+[^c-7d8e34a013354061074c55ccb9794346]: Textual amendment: Words in [Pt. IV heading](https://www.legislation.gov.uk/ukpga/1975/51/part/IV) inserted (1.1.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 219(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/219/1), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)

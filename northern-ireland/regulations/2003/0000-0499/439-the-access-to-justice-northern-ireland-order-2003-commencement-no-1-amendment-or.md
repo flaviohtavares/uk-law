@@ -31,7 +31,7 @@ summary: ''
 
 ACCESS TO JUSTICE
 
-The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 1) (Amendment) Order (Northern Ireland) 2003 (revoked)[^key-16ba3e7822f6b6a4b045318fcef5ac5f]
+The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 1) (Amendment) Order (Northern Ireland) 2003 (revoked)[^c-16ba3e7822f6b6a4b045318fcef5ac5f]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 29th October 2003
 
-[^key-16ba3e7822f6b6a4b045318fcef5ac5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16ba3e7822f6b6a4b045318fcef5ac5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-16ba3e7822f6b6a4b045318fcef5ac5f]
+## 1. Citation and commencement[^c-16ba3e7822f6b6a4b045318fcef5ac5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-16ba3e7822f6b6a4b045318fcef5ac5f]
+## 2. Amendment[^c-16ba3e7822f6b6a4b045318fcef5ac5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16ba3e7822f6b6a4b045318fcef5ac5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16ba3e7822f6b6a4b045318fcef5ac5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16ba3e7822f6b6a4b045318fcef5ac5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16ba3e7822f6b6a4b045318fcef5ac5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16ba3e7822f6b6a4b045318fcef5ac5f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/439) revoked (9.11.2005) by [The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 4) Order (Northern Ireland) 2005 (S.R. 2005/503)](https://www.legislation.gov.uk/nisr/2005/503), [art. 3](https://www.legislation.gov.uk/nisr/2005/503/article/3)
+[^c-16ba3e7822f6b6a4b045318fcef5ac5f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/439) revoked (9.11.2005) by [The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 4) Order (Northern Ireland) 2005 (S.R. 2005/503)](https://www.legislation.gov.uk/nisr/2005/503), [art. 3](https://www.legislation.gov.uk/nisr/2005/503/article/3)

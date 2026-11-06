@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendment of Part 1 of the LRHUDA 1993[^key-caab742386c2cf36e6226154e653c31c]
+## 42. Amendment of Part 1 of the LRHUDA 1993[^c-caab742386c2cf36e6226154e653c31c]
 
 *Extent: E+W*
 
@@ -184,4 +184,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caab742386c2cf36e6226154e653c31c]: Commencement: S. 42 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-caab742386c2cf36e6226154e653c31c]: Commencement: S. 42 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

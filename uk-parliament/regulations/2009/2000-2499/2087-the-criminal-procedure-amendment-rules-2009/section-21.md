@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**21.**[^key-15232c1c65bd13a81352df33735d0b57] After rule 59.5 (Application for discharge of a restraint order by the person who applied for the order), insert—
+**21.**[^c-15232c1c65bd13a81352df33735d0b57] After rule 59.5 (Application for discharge of a restraint order by the person who applied for the order), insert—
 
 > **59.6. Application to punish for contempt of court**
 >
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15232c1c65bd13a81352df33735d0b57]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2009/2087/article/21) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-15232c1c65bd13a81352df33735d0b57]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2009/2087/article/21) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00008]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); the words “Senior Courts” are to be substituted for “Supreme Court” in the title of this Act by section 59(5) of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), with effect from 1 October 2009.

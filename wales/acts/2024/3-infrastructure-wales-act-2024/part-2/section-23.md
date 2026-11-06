@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Directions for applications to be treated as applications for infrastructure consent[^key-dbdd86e6f057bf8e11b994036e3fb278][^key-0c15548f13d0c0d42aab64d7d3e4a331]
+## 23. Directions for applications to be treated as applications for infrastructure consent[^c-dbdd86e6f057bf8e11b994036e3fb278][^c-0c15548f13d0c0d42aab64d7d3e4a331]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dbdd86e6f057bf8e11b994036e3fb278]: Commencement: S. 23 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-dbdd86e6f057bf8e11b994036e3fb278]: Commencement: S. 23 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-0c15548f13d0c0d42aab64d7d3e4a331]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2024/3/section/23) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-0c15548f13d0c0d42aab64d7d3e4a331]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2024/3/section/23) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

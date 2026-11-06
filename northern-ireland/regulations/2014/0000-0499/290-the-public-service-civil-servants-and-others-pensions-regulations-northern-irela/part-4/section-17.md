@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Application of Chapter[^key-ffc6ec671e16827e7ac62e0475b7e844]
+## 17. Application of Chapter[^c-ffc6ec671e16827e7ac62e0475b7e844]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc6ec671e16827e7ac62e0475b7e844]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2014/290/regulation/17) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ffc6ec671e16827e7ac62e0475b7e844]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2014/290/regulation/17) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

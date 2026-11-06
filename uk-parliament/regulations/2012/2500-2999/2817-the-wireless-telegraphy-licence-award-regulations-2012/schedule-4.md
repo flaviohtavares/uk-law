@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4(3)(a)(i)
 
-### 1. Details of the applicant[^key-6a5ae96ed29e0208568968c76a5b6fcc]
+### 1. Details of the applicant[^c-6a5ae96ed29e0208568968c76a5b6fcc]
 
 Provide the following details for the applicant—
 
@@ -37,19 +37,19 @@ Provide the following details for the applicant—
 - Contact fax number
 - Contact electronic mail address
 
-### 2. Authorised persons[^key-5018aa140d4554c03bbbe3a0acc84693]
+### 2. Authorised persons[^c-5018aa140d4554c03bbbe3a0acc84693]
 
 Provide details of the name and position in the applicant of at least three and no more than five persons, each of whom has authority to bind the applicant for all purposes relating to the award process. Also provide a specimen signature of each of these persons.
 
-### 3. Directors or members of managing body[^key-e0d23583bc86580481168e146b2b787c]
+### 3. Directors or members of managing body[^c-e0d23583bc86580481168e146b2b787c]
 
 Provide the name and job title of each of the directors of the applicant or each of the members of the managing body of the applicant.
 
-### 4. Applicant group[^key-6366e93446badd311c99a2e6a55fe441]
+### 4. Applicant group[^c-6366e93446badd311c99a2e6a55fe441]
 
 Provide the names of all other members of the applicant group (as defined in the Regulations) in respect of which the applicant has completed a document in the form set out in Schedule 5 to the Regulations in accordance with regulation 4(3)(a)(ii) of the Regulations.
 
-### 5. Qualification to bid[^key-7d736f1a703a6f2c00462c7394d8096e]
+### 5. Qualification to bid[^c-7d736f1a703a6f2c00462c7394d8096e]
 
 In relation to the determination by the Office of Communications (“OFCOM”) under regulation 9 of the Regulations—
 
@@ -65,18 +65,18 @@ In relation to the determination by the Office of Communications (“OFCOM”) u
   - (i) taking part in the preparation of both applicant groups for participation in the award process; or
   - (ii) receiving confidential information relating to both applicant groups.
 
-### 6. Other information[^key-a58be93bedd75ddfb658713a6ad7ba09]
+### 6. Other information[^c-a58be93bedd75ddfb658713a6ad7ba09]
 
 Provide a brief description of the substance of—
 
 - (a) agreements (if any) relating to the management of the applicant; and
 - (b) any criminal investigations or proceedings in the United Kingdom or overseas of which the applicant is aware relating to the applicant or any member of its applicant group or its directors or officers.
 
-### 7. Existing spectrum holdings[^key-ff8c276aee3f82a0202f6840d1137b7b]
+### 7. Existing spectrum holdings[^c-ff8c276aee3f82a0202f6840d1137b7b]
 
 Confirm that the applicant has provided the details of existing spectrum holdings required under regulation 4(3)(a)(iii) of the Regulations.
 
-### 8. Warranty[^key-214dcd9dd810cf4b4a023dc5db800621]
+### 8. Warranty[^c-214dcd9dd810cf4b4a023dc5db800621]
 
 Provide the following warranty—
 
@@ -88,18 +88,18 @@ Provide the following warranty—
 
 ## Annotations
 
-[^key-6a5ae96ed29e0208568968c76a5b6fcc]: Commencement: Sch. 4 para. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-6a5ae96ed29e0208568968c76a5b6fcc]: Commencement: Sch. 4 para. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-5018aa140d4554c03bbbe3a0acc84693]: Commencement: Sch. 4 para. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-5018aa140d4554c03bbbe3a0acc84693]: Commencement: Sch. 4 para. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-e0d23583bc86580481168e146b2b787c]: Commencement: Sch. 4 para. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e0d23583bc86580481168e146b2b787c]: Commencement: Sch. 4 para. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-6366e93446badd311c99a2e6a55fe441]: Commencement: Sch. 4 para. 4 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-6366e93446badd311c99a2e6a55fe441]: Commencement: Sch. 4 para. 4 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-7d736f1a703a6f2c00462c7394d8096e]: Commencement: Sch. 4 para. 5 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-7d736f1a703a6f2c00462c7394d8096e]: Commencement: Sch. 4 para. 5 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-a58be93bedd75ddfb658713a6ad7ba09]: Commencement: Sch. 4 para. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-a58be93bedd75ddfb658713a6ad7ba09]: Commencement: Sch. 4 para. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-ff8c276aee3f82a0202f6840d1137b7b]: Commencement: Sch. 4 para. 7 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-ff8c276aee3f82a0202f6840d1137b7b]: Commencement: Sch. 4 para. 7 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-214dcd9dd810cf4b4a023dc5db800621]: Commencement: Sch. 4 para. 8 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-214dcd9dd810cf4b4a023dc5db800621]: Commencement: Sch. 4 para. 8 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

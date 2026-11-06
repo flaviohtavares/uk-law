@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303. Decommissioning of nuclear sites etc[^key-1221e4a04b831a4b57aa132080c877b7]
+## 303. Decommissioning of nuclear sites etc[^c-1221e4a04b831a4b57aa132080c877b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,4 +139,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1221e4a04b831a4b57aa132080c877b7]: Commencement: S. 303 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-1221e4a04b831a4b57aa132080c877b7]: Commencement: S. 303 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)

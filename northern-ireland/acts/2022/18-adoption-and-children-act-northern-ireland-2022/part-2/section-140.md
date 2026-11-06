@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 140. Welfare of children who will be privately fostered[^key-a58dff5f163a8c387ba61dd91bdb3e93]
+## 140. Welfare of children who will be privately fostered[^c-a58dff5f163a8c387ba61dd91bdb3e93]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a58dff5f163a8c387ba61dd91bdb3e93]: Commencement: S. 140 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a58dff5f163a8c387ba61dd91bdb3e93]: Commencement: S. 140 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

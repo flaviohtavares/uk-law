@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**113.**[^key-761c925c59c72c13dc64491a382d9ba3] In Schedule 2, in paragraph 12F[^f00137] (approval of local authority foster parents)—
+**113.**[^c-761c925c59c72c13dc64491a382d9ba3] In Schedule 2, in paragraph 12F[^f00137] (approval of local authority foster parents)—
 
 - (a) in sub-paragraph (1)(a) after “prescribed” insert “in regulations made by the Secretary of State”;
 - (b) in sub-paragraph (1)(b) for “that national authority” substitute “the Secretary of State”;
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-761c925c59c72c13dc64491a382d9ba3]: Commencement: Reg. 113 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-761c925c59c72c13dc64491a382d9ba3]: Commencement: Reg. 113 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00137]: Footnote: Paragraphs 12A to 12G were substituted, for paragraphs 12 to 14, as originally enacted, by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 1, paragraph 4.

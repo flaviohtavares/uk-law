@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Duties about freedom of expression and privacy[^key-8224d34fdd26680d01a627b70b1fadd2][^key-6eb17a33b8c2ea508de6867b01655eab]
+## 33. Duties about freedom of expression and privacy[^c-8224d34fdd26680d01a627b70b1fadd2][^c-6eb17a33b8c2ea508de6867b01655eab]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8224d34fdd26680d01a627b70b1fadd2]: Commencement: S. 33 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8224d34fdd26680d01a627b70b1fadd2]: Commencement: S. 33 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-6eb17a33b8c2ea508de6867b01655eab]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/50/section/33) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-6eb17a33b8c2ea508de6867b01655eab]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/50/section/33) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)

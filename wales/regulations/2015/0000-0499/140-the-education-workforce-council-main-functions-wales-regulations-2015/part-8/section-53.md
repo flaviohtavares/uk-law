@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Supply of information to appropriate bodies[^key-76408d92b6b475e408ddb7a0104ec436]
+## 53. Supply of information to appropriate bodies[^c-76408d92b6b475e408ddb7a0104ec436]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76408d92b6b475e408ddb7a0104ec436]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2015/140/regulation/53) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-76408d92b6b475e408ddb7a0104ec436]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2015/140/regulation/53) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

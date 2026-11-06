@@ -49,7 +49,7 @@ The Secretary of State for Transport, being a Minister designated for the purpos
 
 These Regulations may be cited as the Civil Aviation (Working Time) Regulations 2004 and shall come into force on 13th April 2004.
 
-## 2. Scope[^key-cfb006ddac7ae1db27118084c2b73b6c]
+## 2. Scope[^c-cfb006ddac7ae1db27118084c2b73b6c]
 
 These Regulations apply to persons employed to act as crew members on board a civil aircraft flying for the purpose of—
 
@@ -66,29 +66,29 @@ In these Regulations—
 - “**cabin crew**” means a person on board a civil aircraft, other than flight crew, who is carried for the purpose of performing in the interests of the safety of the passengers, duties that are assigned to him for that purpose by the operator or the commander of that aircraft;
 - “**calendar year**” means the period of 12 months beginning with 1st January in any year;
 - “**collective agreement**” means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c5313241] the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
-- “[^key-0e391e55a73d0c7cc521d9182ea92c0e]**commercial air transport flight**” has the same meaning as in paragraph 1 of Schedule 1 to the Air Navigation Order 2016[^key-2589cf301eb33236cd39fa7029abc8e9];
-- [^key-41e439ed598bea6f70b71b9c7bd7551c]...
+- “[^c-0e391e55a73d0c7cc521d9182ea92c0e]**commercial air transport flight**” has the same meaning as in paragraph 1 of Schedule 1 to the Air Navigation Order 2016[^c-2589cf301eb33236cd39fa7029abc8e9];
+- [^c-41e439ed598bea6f70b71b9c7bd7551c]...
 - “**crew member**” means a person employed to act as a member of the cabin crew or flight crew on board a civil aircraft by an undertaking established in the United Kingdom;
 - “**employer**” means an undertaking established in the United Kingdom by whom a crew member is (or where the employment has ceased, was) employed;
 - “**employment**” in relation to a crew member, means employment under his contract, and “**employed**” shall be construed accordingly;
-- “**the Executive**” means both the Health and Safety Executive referred to in section 10(1)[^key-c9c76a9701e7ee595fcee6f572092acf] of the 1974 Act, and the Health and Safety Executive of Northern Ireland [^c5313251];
+- “**the Executive**” means both the Health and Safety Executive referred to in section 10(1)[^c-c9c76a9701e7ee595fcee6f572092acf] of the 1974 Act, and the Health and Safety Executive of Northern Ireland [^c5313251];
 - “**flight crew**” means a person employed to act as a pilot, flight navigator, flight engineer or flight radiotelephony operator on board a civil aircraft;
 - “**inspector**” means a person appointed by the CAA under paragraph 1 of Schedule 2;
-- “[^key-d5b5a7723a4fc43a8531496b02ef99bf]**local mean time**” means the time to which a crew member is acclimatised for the purposes of a scheme;
-- [^key-978c4503b384d28aff73adf5f08326fc]...
+- “[^c-d5b5a7723a4fc43a8531496b02ef99bf]**local mean time**” means the time to which a crew member is acclimatised for the purposes of a scheme;
+- [^c-978c4503b384d28aff73adf5f08326fc]...
 - “**protection and prevention services or facilities**” means those services or facilities that are designed to preserve the health and safety of the crew member from any hazards that may threaten his health or safety during the course of his undertaking his work and are capable of being provided by his employer;
-- “[^key-4b2dca734684023d0bb5d1b8ba8c5f4f]**public transport**” is to be construed in accordance with the conditions set out in article 6(2) of the Air Navigation Order 2016[^key-cc01eaa805b60628833c886ea63c7c53] in relation to an aircraft that is flying on a public transport flight;
+- “[^c-4b2dca734684023d0bb5d1b8ba8c5f4f]**public transport**” is to be construed in accordance with the conditions set out in article 6(2) of the Air Navigation Order 2016[^c-cc01eaa805b60628833c886ea63c7c53] in relation to an aircraft that is flying on a public transport flight;
 - “**relevant agreement**”, in relation to a crew member, means a workforce agreement which applies to him, any provision of a collective agreement which forms part of a contract between him and his employer, or any other agreement in writing which is legally enforceable as between the crew member and his employer;
 - “**the relevant requirements**” means regulations 5(2), 6, 7(2)(a), 8, 9 and 10;
 - “**relevant training**” means the training required to enable a person to perform the duties of flight crew or cabin crew carried out or undertaken whilst employed by an employer;
 - “**rest break**” and “**rest period**”, in relation to a crew member, means a period which is not working time;
-- “**scheme**” means a scheme operated by an employer and approved by the CAA pursuant to article 175(1)(b) or 179(2)(a) of the Air Navigation Order 2016[^key-24650172277fdd7c27d801fb32793ec1];
+- “**scheme**” means a scheme operated by an employer and approved by the CAA pursuant to article 175(1)(b) or 179(2)(a) of the Air Navigation Order 2016[^c-24650172277fdd7c27d801fb32793ec1];
 - “**standby**”, in relation to a crew member, means a crew member who in accordance with the terms of his employment holds himself ready to act as a crew member if called upon to do so by his employer;
 - “**workforce agreement**” means an agreement between an employer and crew members employed by him or his representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied;
 - “**working time**”, in relation to a crew member means—
   - (a) any period during which he is working at his employer’s disposal and carrying out his activity or duties;
-  - (b) any period during which he is receiving relevant training, [^key-e88decff9be8c6b890ac45a54efb30ac]...
-  - (c) any additional period which is to be treated as working time for the purpose of these Regulations under a relevant agreement, and[^key-23eeb12517c8a41cb081d853ef1c942b]
+  - (b) any period during which he is receiving relevant training, [^c-e88decff9be8c6b890ac45a54efb30ac]...
+  - (c) any additional period which is to be treated as working time for the purpose of these Regulations under a relevant agreement, and[^c-23eeb12517c8a41cb081d853ef1c942b]
   - (d) subject to regulation 9A, any period during which he is on standby,
 
   and “**work**”, “**works**” and “**to work**” shall be construed accordingly.
@@ -124,7 +124,7 @@ In these Regulations—
 - (a) may be conducted within the National Health Service, and
 - (b) is free if it is undertaken at no cost to the crew member to whom it relates.
 
-(6) For the purposes of this regulation, a crew member works during night time when he works at any time between the hours of 2.00 am and 4.59 am local mean time; [^key-d1a8ed0f3e4f1de9cf709ecd93ed2a6c]... .
+(6) For the purposes of this regulation, a crew member works during night time when he works at any time between the hours of 2.00 am and 4.59 am local mean time; [^c-d1a8ed0f3e4f1de9cf709ecd93ed2a6c]... .
 
 ## 6. Health and safety protection at work
 
@@ -152,7 +152,7 @@ An employer shall ensure that in any month—
 - (a) no person employed by him shall act as a crew member during the course of his working time, if during the period of 12 months expiring at the end of the month before the month in question the aggregate block flying time of that person exceeds 900 hours; and
 - (b) no crew member employed by him shall have a total annual working time of more than 2,000 hours during the period of 12 months expiring at the end of the month before the month in question.
 
-## 9A. Standby time[^key-3c8501a7590e04bff55a1c18efe497fa]
+## 9A. Standby time[^c-3c8501a7590e04bff55a1c18efe497fa]
 
 (1) For the purpose of calculating the total annual working time under regulation 9(b), time spent by a crew member on standby is to count in full as working time except where paragraph (2) or (3) applies, when it is to count as half the time spent.
 
@@ -174,7 +174,7 @@ An employer shall ensure that in any month—
 
 (2) For the purposes of this regulation, rest days are—
 
-- (a) not less than 7 days in each month during which a crew member works for his employer, which may include any rest periods required under a scheme referred to in article 175(1) or 179 of the Air Navigation Order 2016[^key-eadd31f40006049ef1a18dc3e2aa7f41]; and
+- (a) not less than 7 days in each month during which a crew member works for his employer, which may include any rest periods required under a scheme referred to in article 175(1) or 179 of the Air Navigation Order 2016[^c-eadd31f40006049ef1a18dc3e2aa7f41]; and
 - (b) not less than 96 days in each calendar year during which a crew member works for his employer, which may include any rest periods required under a scheme referred to in article 175(1) or 179 of the Air Navigation Order 2016.
 
 ## 11. Enforcement
@@ -262,7 +262,7 @@ Proceedings for an offence shall not be instituted in England or Wales except by
 
 *Extent: E+W+S*
 
-(2A)[^key-347d984a283f49b271471ff4915c060d] Regulation 19 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-347d984a283f49b271471ff4915c060d] Regulation 19 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where an employment tribunal finds a complaint under regulation 4, 5(1), (4), 7(1) or 7(2)(b) well-founded, the tribunal—
 
@@ -274,7 +274,7 @@ Proceedings for an offence shall not be instituted in England or Wales except by
 - (a) the employer’s default in refusing to permit the crew member to exercise his right; and
 - (b) any loss sustained by the crew member which is attributable to the matters complained of.
 
-## 19. Extension of time limits to facilitate conciliation before institution of proceedings[^key-002e87970beb103beb088c9986a4da47]
+## 19. Extension of time limits to facilitate conciliation before institution of proceedings[^c-002e87970beb103beb088c9986a4da47]
 
 *Extent: E+W+S*
 
@@ -430,12 +430,12 @@ he may serve on him a notice (in this Schedule referred to as “**an improvemen
 
 (3) The preceding sub-paragraph shall not apply to—
 
-- (a) disclosure of information to [^key-f08a7d34507a48c0509616c4764387f6]... the Executive, a government department, or the CAA;
+- (a) disclosure of information to [^c-f08a7d34507a48c0509616c4764387f6]... the Executive, a government department, or the CAA;
 - (b) without prejudice to paragraph (a), disclosure by the recipient of information to any person for the purpose of any function conferred on the recipient by or under any of the relevant statutory provisions or under these Regulations;
 - (c) without prejudice to paragraph (a), disclosure by the recipient of information to a constable authorised by a chief officer of police to receive it; or
 - (d) disclosure by the recipient of information in a form calculated to prevent it from being identified as relating to a particular person or case.
 
-(4)[^key-4d65d9c3cc23b8fc1a9f3f9d28de2f63] In the preceding paragraph, any reference to the Executive, the CAA or a government department includes respectively a reference to an officer of that body, and also, in the case of a reference to the Executive, includes a reference to—
+(4)[^c-4d65d9c3cc23b8fc1a9f3f9d28de2f63] In the preceding paragraph, any reference to the Executive, the CAA or a government department includes respectively a reference to an officer of that body, and also, in the case of a reference to the Executive, includes a reference to—
 
 - (a) a person performing any of the functions of the Executive by virtue of section 13(3) of the 1974 Act;
 - (b) an officer of a body which is so performing any such functions; and
@@ -443,7 +443,7 @@ he may serve on him a notice (in this Schedule referred to as “**an improvemen
 
 (5) A person to whom information is disclosed in pursuance of sub-paragraph (3) shall not use the information for a purpose other than—
 
-- (a) in a case falling within sub-paragraph (3)(a), a purpose of [^key-23be98a25be179ebe566bb1d7a0c2df9]... the Executive, a government department, or the CAA in question in connection with these Regulations or with the relevant statutory provisions, as the case may be;
+- (a) in a case falling within sub-paragraph (3)(a), a purpose of [^c-23be98a25be179ebe566bb1d7a0c2df9]... the Executive, a government department, or the CAA in question in connection with these Regulations or with the relevant statutory provisions, as the case may be;
 - (b) in the case of information given to a constable, the purposes of the police in connection with these Regulations, the relevant statutory provisions or any enactment whatsoever relating to working time.
 
 (6) A person shall not disclose any information obtained by him as a result of the exercise of any power conferred by paragraph 2 (including in particular any information with respect to any trade secret obtained by him in any premises entered by him by virtue of any such power) except—
@@ -483,48 +483,48 @@ A transposition note has been prepared and copies may be obtained from the Depar
 
 [^c5313221]: Marginal citation: [S.I. 1997/1174](https://www.legislation.gov.uk/uksi/1997/1174).
 
-[^key-cfb006ddac7ae1db27118084c2b73b6c]: Textual amendment: Reg. 2 substituted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/2)
+[^c-cfb006ddac7ae1db27118084c2b73b6c]: Textual amendment: Reg. 2 substituted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/2)
 
 [^c5313231]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
 [^c5313241]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-0e391e55a73d0c7cc521d9182ea92c0e]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/a)
+[^c-0e391e55a73d0c7cc521d9182ea92c0e]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/a)
 
-[^key-2589cf301eb33236cd39fa7029abc8e9]: Textual amendment: Words in reg. 3 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/a/i) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-2589cf301eb33236cd39fa7029abc8e9]: Textual amendment: Words in reg. 3 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/a/i) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-41e439ed598bea6f70b71b9c7bd7551c]: Textual amendment: Words in reg. 3 omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-41e439ed598bea6f70b71b9c7bd7551c]: Textual amendment: Words in reg. 3 omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
-[^key-c9c76a9701e7ee595fcee6f572092acf]: Textual amendment: Words in reg. 3 substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-c9c76a9701e7ee595fcee6f572092acf]: Textual amendment: Words in reg. 3 substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
 [^c5313251]: Marginal citation: [S.I. 1998/2795](https://www.legislation.gov.uk/uksi/1998/2795). Article 3 of this Order establishes the Health and Safety Executive of Northern Ireland which was previously known as the Health and Safety Agency for Northern Ireland which was established under article 12 of [S.I. 1978/1039](https://www.legislation.gov.uk/uksi/1978/1039).
 
-[^key-d5b5a7723a4fc43a8531496b02ef99bf]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/b)
+[^c-d5b5a7723a4fc43a8531496b02ef99bf]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/b)
 
-[^key-978c4503b384d28aff73adf5f08326fc]: Textual amendment: Words in reg. 3 omitted (28.6.2010) by virtue of [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/c)
+[^c-978c4503b384d28aff73adf5f08326fc]: Textual amendment: Words in reg. 3 omitted (28.6.2010) by virtue of [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/c)
 
-[^key-4b2dca734684023d0bb5d1b8ba8c5f4f]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/c)
+[^c-4b2dca734684023d0bb5d1b8ba8c5f4f]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/c)
 
-[^key-cc01eaa805b60628833c886ea63c7c53]: Textual amendment: Words in reg. 3 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/a/ii) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-cc01eaa805b60628833c886ea63c7c53]: Textual amendment: Words in reg. 3 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/a/ii) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-24650172277fdd7c27d801fb32793ec1]: Textual amendment: Words in reg. 3 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/a/iii) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-24650172277fdd7c27d801fb32793ec1]: Textual amendment: Words in reg. 3 substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/a/iii) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-e88decff9be8c6b890ac45a54efb30ac]: Textual amendment: Word in reg. 3 revoked (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(e)(i)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/e/i)
+[^c-e88decff9be8c6b890ac45a54efb30ac]: Textual amendment: Word in reg. 3 revoked (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(e)(i)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/e/i)
 
-[^key-23eeb12517c8a41cb081d853ef1c942b]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/e/ii)
+[^c-23eeb12517c8a41cb081d853ef1c942b]: Textual amendment: Words in reg. 3 inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/3/e/ii)
 
-[^key-d1a8ed0f3e4f1de9cf709ecd93ed2a6c]: Textual amendment: Words in reg. 5(6) omitted (28.6.2010) by virtue of [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/4)
+[^c-d1a8ed0f3e4f1de9cf709ecd93ed2a6c]: Textual amendment: Words in reg. 5(6) omitted (28.6.2010) by virtue of [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/4)
 
-[^key-3c8501a7590e04bff55a1c18efe497fa]: Textual amendment: Reg. 9A inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/5)
+[^c-3c8501a7590e04bff55a1c18efe497fa]: Textual amendment: Reg. 9A inserted (28.6.2010) by [The Civil Aviation (Working Time) (Amendment) Regulations 2010 (S.I. 2010/1226)](https://www.legislation.gov.uk/uksi/2010/1226), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1226/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/1226/regulation/2/5)
 
-[^key-eadd31f40006049ef1a18dc3e2aa7f41]: Textual amendment: Words in reg. 10(2) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-eadd31f40006049ef1a18dc3e2aa7f41]: Textual amendment: Words in reg. 10(2) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/3/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-347d984a283f49b271471ff4915c060d]: Textual amendment: Reg. 18(2A) inserted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/31)
+[^c-347d984a283f49b271471ff4915c060d]: Textual amendment: Reg. 18(2A) inserted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/31)
 
-[^key-002e87970beb103beb088c9986a4da47]: Textual amendment: Reg. 19 inserted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/32)
+[^c-002e87970beb103beb088c9986a4da47]: Textual amendment: Reg. 19 inserted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/32)
 
-[^key-f08a7d34507a48c0509616c4764387f6]: Textual amendment: Words in Sch. 2 para. 8(3)(a) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-f08a7d34507a48c0509616c4764387f6]: Textual amendment: Words in Sch. 2 para. 8(3)(a) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
-[^key-4d65d9c3cc23b8fc1a9f3f9d28de2f63]: Textual amendment: Sch. 2 para. 8(4) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-4d65d9c3cc23b8fc1a9f3f9d28de2f63]: Textual amendment: Sch. 2 para. 8(4) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
-[^key-23be98a25be179ebe566bb1d7a0c2df9]: Textual amendment: Words in Sch. 2 para. 8(5)(a) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-23be98a25be179ebe566bb1d7a0c2df9]: Textual amendment: Words in Sch. 2 para. 8(5)(a) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))

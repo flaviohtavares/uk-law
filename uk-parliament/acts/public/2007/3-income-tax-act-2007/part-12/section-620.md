@@ -24,7 +24,7 @@ summary: ''
 
 - (a) to the transfer of securities by way of sale, exchange, gift or otherwise,
 - (b) to the conversion of securities in any case where there is no transfer of the securities within paragraph (a),
-- (c)[^key-df7c9bacc0c0d40937e8b162fa2466b0] to the redemption of variable rate securities in any case where there has been a transfer of the securities at any time before redemption, or
+- (c)[^c-df7c9bacc0c0d40937e8b162fa2466b0] to the redemption of variable rate securities in any case where there has been a transfer of the securities at any time before redemption, or
 - (d) to a transaction or event treated as a transfer under—
   - (i) section 648(1) or (3) (strips of gilt-edged securities),
   - (ii) section 649(4) (new securities issued with extra return),
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df7c9bacc0c0d40937e8b162fa2466b0]: Textual amendment: S. 620(1)(c) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) (No.2) Order 2007 (S.I. 2007/1820)](https://www.legislation.gov.uk/uksi/2007/1820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1820/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/1820/article/4/2)
+[^c-df7c9bacc0c0d40937e8b162fa2466b0]: Textual amendment: S. 620(1)(c) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) (No.2) Order 2007 (S.I. 2007/1820)](https://www.legislation.gov.uk/uksi/2007/1820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1820/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/1820/article/4/2)

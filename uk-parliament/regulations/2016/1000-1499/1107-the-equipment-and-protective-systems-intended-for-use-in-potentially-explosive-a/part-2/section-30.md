@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Storage and transport[^key-0c60a7989f828a87fcfe2141bcda9db2]
+## 30. Storage and transport[^c-0c60a7989f828a87fcfe2141bcda9db2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Each distributor must ensure that, whilst a product is under that distributor’
 
 ## Annotations
 
-[^key-0c60a7989f828a87fcfe2141bcda9db2]: Commencement: Reg. 30 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-0c60a7989f828a87fcfe2141bcda9db2]: Commencement: Reg. 30 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

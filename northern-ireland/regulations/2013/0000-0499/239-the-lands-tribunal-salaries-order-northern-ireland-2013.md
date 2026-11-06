@@ -32,7 +32,7 @@ summary: ''
 
 Lands Tribunal
 
-The Lands Tribunal (Salaries) Order (Northern Ireland) 2013 (revoked)[^key-076af512b6ab879340dd55acb3ce3412]
+The Lands Tribunal (Salaries) Order (Northern Ireland) 2013 (revoked)[^c-076af512b6ab879340dd55acb3ce3412]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 4th October 2013
 
-[^key-076af512b6ab879340dd55acb3ce3412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-076af512b6ab879340dd55acb3ce3412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-076af512b6ab879340dd55acb3ce3412]
+## 1. Citation and commencement[^c-076af512b6ab879340dd55acb3ce3412]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-076af512b6ab879340dd55acb3ce3412]
+## 2. Revocation[^c-076af512b6ab879340dd55acb3ce3412]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-076af512b6ab879340dd55acb3ce3412]
+## 3. Increases in salaries[^c-076af512b6ab879340dd55acb3ce3412]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-076af512b6ab879340dd55acb3ce3412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-076af512b6ab879340dd55acb3ce3412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-076af512b6ab879340dd55acb3ce3412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-076af512b6ab879340dd55acb3ce3412]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-076af512b6ab879340dd55acb3ce3412]: Textual amendment: Order revoked (16.10.2014) by [The Lands Tribunal (Salaries) Order (Northern Ireland) 2014 (S.R. 2014/259)](https://www.legislation.gov.uk/nisr/2014/259), [arts. 1](https://www.legislation.gov.uk/nisr/2014/259/article/1), [3](https://www.legislation.gov.uk/nisr/2014/259/article/3)
+[^c-076af512b6ab879340dd55acb3ce3412]: Textual amendment: Order revoked (16.10.2014) by [The Lands Tribunal (Salaries) Order (Northern Ireland) 2014 (S.R. 2014/259)](https://www.legislation.gov.uk/nisr/2014/259), [arts. 1](https://www.legislation.gov.uk/nisr/2014/259/article/1), [3](https://www.legislation.gov.uk/nisr/2014/259/article/3)

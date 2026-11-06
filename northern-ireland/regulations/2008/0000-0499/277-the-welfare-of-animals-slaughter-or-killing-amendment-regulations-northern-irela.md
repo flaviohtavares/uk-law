@@ -31,7 +31,7 @@ summary: ''
 
 Welfare Of Animals
 
-The Welfare of Animals (Slaughter or Killing) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-232dcaed78ad7a763d99f34f4c4983c1]
+The Welfare of Animals (Slaughter or Killing) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-232dcaed78ad7a763d99f34f4c4983c1]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 31st July 2008
 
-[^key-232dcaed78ad7a763d99f34f4c4983c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-232dcaed78ad7a763d99f34f4c4983c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-232dcaed78ad7a763d99f34f4c4983c1]
+## 1. Citation, commencement and interpretation[^c-232dcaed78ad7a763d99f34f4c4983c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996[^key-232dcaed78ad7a763d99f34f4c4983c1]
+## 2. Amendment of the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996[^c-232dcaed78ad7a763d99f34f4c4983c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-232dcaed78ad7a763d99f34f4c4983c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-232dcaed78ad7a763d99f34f4c4983c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-232dcaed78ad7a763d99f34f4c4983c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-232dcaed78ad7a763d99f34f4c4983c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-232dcaed78ad7a763d99f34f4c4983c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/277) revoked (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [39](https://www.legislation.gov.uk/nisr/2014/107/regulation/39), [Sch. 9](https://www.legislation.gov.uk/nisr/2014/107/schedule/9)
+[^c-232dcaed78ad7a763d99f34f4c4983c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/277) revoked (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [39](https://www.legislation.gov.uk/nisr/2014/107/regulation/39), [Sch. 9](https://www.legislation.gov.uk/nisr/2014/107/schedule/9)

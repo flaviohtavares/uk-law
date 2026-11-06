@@ -336,7 +336,7 @@ For Article 29A of the principal Order (agreements for deferred payment of rates
 
 (2) Any order made under Article 39A(1) of the principal Order before the commencement of this section in relation to a new NAV list shall have effect as if subsection (1) had been in force when the order was made.
 
-(3)[^key-764dace7e58592f782a7649e18a61e13] The following provisions of the principal Order shall cease to have effect—
+(3)[^c-764dace7e58592f782a7649e18a61e13] The following provisions of the principal Order shall cease to have effect—
 
 - (a) Article 39C (rating of electricity licence holders);
 - (b) Article 39D (rating of gas licence holders, etc.);
@@ -487,11 +487,11 @@ In this Act—
 - “**the 2004 Order**” means the Rates (Amendment) (Northern Ireland) Order 2004 (NI 4);
 - “**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
 
-### 17. Minor and consequential amendments[^c19963701][^key-dfaf24920b492a65fe93fd537529d9c4]
+### 17. Minor and consequential amendments[^c19963701][^c-dfaf24920b492a65fe93fd537529d9c4]
 
 The statutory provisions mentioned in Schedule 1 shall have effect with the amendments specified there.
 
-### 18. Repeals[^c21529771][^key-648fa7eb64e42e4154e23e721163f05f]
+### 18. Repeals[^c21529771][^c-648fa7eb64e42e4154e23e721163f05f]
 
 The statutory provisions mentioned in Schedule 2 are hereby repealed to the extent specified in the second column of that Schedule.
 
@@ -521,7 +521,7 @@ Section 17.
 
 ### The principal Order
 
-**1.**[^key-3b917d83fd5bdfbb87d333afda033ba7] In Article 2(2) (interpretation), after the definition of “public utility undertaking” insert the following definition—
+**1.**[^c-3b917d83fd5bdfbb87d333afda033ba7] In Article 2(2) (interpretation), after the definition of “public utility undertaking” insert the following definition—
 
 > “**railway company**” means a body operating a railway undertaking;
 
@@ -538,11 +538,11 @@ Section 17.
 
 .
 
-**4.**[^key-15424dc513299aaf38a3a37cdc6526d3] In Article 50 (alteration in valuation list by Commissioner), head (iv) of paragraph (1)(a) (power to alter valuation list to show the net annual value of certain hereditaments) shall cease to have effect.
+**4.**[^c-15424dc513299aaf38a3a37cdc6526d3] In Article 50 (alteration in valuation list by Commissioner), head (iv) of paragraph (1)(a) (power to alter valuation list to show the net annual value of certain hereditaments) shall cease to have effect.
 
 **5.** In Article 52 (procedure on appeal to Commissioner), in paragraph (4A)(b), for the words from “12(1)” to the end substitute “ 15 of Part 1 of Schedule 12 (subject to paragraphs 7(3) and 12) ”.
 
-**6.**[^key-fd537324b6c456eaee3f6787de23d8e0] In Article 56 (supplementary provisions as to alterations, etc.), in paragraph (8)(d) (service of certificates of certain alterations), for “, (iii), (iv) or (v)” substitute “ or (iii) ”.
+**6.**[^c-fd537324b6c456eaee3f6787de23d8e0] In Article 56 (supplementary provisions as to alterations, etc.), in paragraph (8)(d) (service of certificates of certain alterations), for “, (iii), (iv) or (v)” substitute “ or (iii) ”.
 
 **7.** In Schedule 8A (unoccupied hereditaments), in paragraph 1(1), at the end of head (a) insert “ and ”.
 
@@ -558,7 +558,7 @@ Section 17.
 
 **10.** In Part 1 of Schedule 12 (basis of valuation – general rule), in paragraph 3A(1) (estimated net annual value during deemed completion period), after “net annual value” insert “ or capital value ”
 
-## SCHEDULE 2 — REPEALS[^c21529751][^key-519f43d5d25c2724d58c9b132446b761]
+## SCHEDULE 2 — REPEALS[^c21529751][^c-519f43d5d25c2724d58c9b132446b761]
 
 Section 18.
 
@@ -582,26 +582,26 @@ Section 18.
 
 [^c21529681]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2009/8/section/8) partly in operation; [s. 8](https://www.legislation.gov.uk/nia/2009/8/section/8) not in operation at Royal Assent see [s. 19](https://www.legislation.gov.uk/nia/2009/8/section/19); [s. 8(1)(2)](https://www.legislation.gov.uk/nia/2009/8/section/8/1/2) in operation at 14.12.2009 by [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/375/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/375/schedule/2)
 
-[^key-764dace7e58592f782a7649e18a61e13]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/nia/2009/8/section/8/3) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-764dace7e58592f782a7649e18a61e13]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/nia/2009/8/section/8/3) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
 
 [^c19963701]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2009/8/section/17) partly in operation; [s. 17](https://www.legislation.gov.uk/nia/2009/8/section/17) in operation for certain purposes at Royal Assent, see [s. 19(2)](https://www.legislation.gov.uk/nia/2009/8/section/19/2); [s. 17](https://www.legislation.gov.uk/nia/2009/8/section/17) in operation for certain purposes at 23.11.2009 by [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/375/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/375/schedule/1); [s. 17](https://www.legislation.gov.uk/nia/2009/8/section/17) in operation for certain purposes at 10.2.2011 and 1.10.2011 by [S.R. 2011/16](https://www.legislation.gov.uk/nisr/2011/16), [art. 2](https://www.legislation.gov.uk/nisr/2011/16/article/2), [Schs. 1](https://www.legislation.gov.uk/nisr/2011/16/schedule/1), [2](https://www.legislation.gov.uk/nisr/2011/16/schedule/2)
 
-[^key-dfaf24920b492a65fe93fd537529d9c4]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2009/8/section/17) in operation at 1.4.2015 for specified purposes by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-dfaf24920b492a65fe93fd537529d9c4]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2009/8/section/17) in operation at 1.4.2015 for specified purposes by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
 
 [^c21529771]: Commencement: [S.18](https://www.legislation.gov.uk/nia/2009/8/section/18) partly in operation; [s. 18](https://www.legislation.gov.uk/nia/2009/8/section/18) not in operation at Royal Assent see [s. 19](https://www.legislation.gov.uk/nia/2009/8/section/19); [s. 18](https://www.legislation.gov.uk/nia/2009/8/section/18) in operation for certain purposes at 14.12.2009 by [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/375/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/375/schedule/2); [s. 18](https://www.legislation.gov.uk/nia/2009/8/section/18) in operation for certain purposes at 10.2.2011 and 1.10.2011 by [S.R. 2011/16](https://www.legislation.gov.uk/nisr/2011/16), [art. 2](https://www.legislation.gov.uk/nisr/2011/16/article/2), [Schs. 1](https://www.legislation.gov.uk/nisr/2011/16/schedule/1), [2](https://www.legislation.gov.uk/nisr/2011/16/schedule/2)
 
-[^key-648fa7eb64e42e4154e23e721163f05f]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2009/8/section/18) in operation at 1.4.2015 for specified purposes by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-648fa7eb64e42e4154e23e721163f05f]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2009/8/section/18) in operation at 1.4.2015 for specified purposes by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
 
 [^c21529551]: Subordinate legislation: [S. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1) power partly exercised: different dates appointed for specified provisions by [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2](https://www.legislation.gov.uk/nisr/2009/375/article/2), [Schs. 1](https://www.legislation.gov.uk/nisr/2009/375/schedule/1), [2](https://www.legislation.gov.uk/nisr/2009/375/schedule/2);
 
     10.2.2011 and 1.10.2011 appointed for specified provisions by [S.R. 2011/16](https://www.legislation.gov.uk/nisr/2011/16), [art. 2](https://www.legislation.gov.uk/nisr/2011/16/article/2), [Schs. 1](https://www.legislation.gov.uk/nisr/2011/16/schedule/1), [2](https://www.legislation.gov.uk/nisr/2011/16/schedule/2)
 
-[^key-3b917d83fd5bdfbb87d333afda033ba7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/1) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-3b917d83fd5bdfbb87d333afda033ba7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/1) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
 
-[^key-15424dc513299aaf38a3a37cdc6526d3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/4) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-15424dc513299aaf38a3a37cdc6526d3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/4) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
 
-[^key-fd537324b6c456eaee3f6787de23d8e0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/6) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-fd537324b6c456eaee3f6787de23d8e0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2009/8/schedule/1/paragraph/6) in operation at 1.4.2015 by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
 
 [^c21529751]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2) partly in operation; [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2) not in operation at Royal Assent see [s. 19](https://www.legislation.gov.uk/nia/2009/8/section/19); [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2) in operation for specified purposes at 14.12.2009 by [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/375/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/375/schedule/2); [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2) in operation for certain purposes at 10.2.2011 and 1.10.2011 by [S.R. 2011/16](https://www.legislation.gov.uk/nisr/2011/16), [art. 2](https://www.legislation.gov.uk/nisr/2011/16/article/2), [Schs. 1](https://www.legislation.gov.uk/nisr/2011/16/schedule/1), [2](https://www.legislation.gov.uk/nisr/2011/16/schedule/2)
 
-[^key-519f43d5d25c2724d58c9b132446b761]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2) in operation at 1.4.2015 for specified purposes by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)
+[^c-519f43d5d25c2724d58c9b132446b761]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2) in operation at 1.4.2015 for specified purposes by [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2)

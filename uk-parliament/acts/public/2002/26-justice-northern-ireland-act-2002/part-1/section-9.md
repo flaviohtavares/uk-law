@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Lay magistrates[^key-18a3b3b2c207a1b4cf568e389703df9a][^c20697321][^c20697201]
+## 9. Lay magistrates[^c-18a3b3b2c207a1b4cf568e389703df9a][^c20697321][^c20697201]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-18a3b3b2c207a1b4cf568e389703df9a]: Textual amendment: S. 9 repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 119(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/119/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-18a3b3b2c207a1b4cf568e389703df9a]: Textual amendment: S. 9 repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 119(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/119/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20697321]: Editorial: The omission of the cross-heading before s. 9 on 25.9.2006 gives rise to a change in the structure of this legislation on legislation.gov.uk which breaks the continuity of historical versions of s. 9.
 

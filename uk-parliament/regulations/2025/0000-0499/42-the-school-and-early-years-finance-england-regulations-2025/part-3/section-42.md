@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Alternative arrangements approved by the Secretary of State[^key-a0a11dcd4dadeb0b73219f5d31a8e559]
+## 42. Alternative arrangements approved by the Secretary of State[^c-a0a11dcd4dadeb0b73219f5d31a8e559]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a11dcd4dadeb0b73219f5d31a8e559]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/42/regulation/42) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-a0a11dcd4dadeb0b73219f5d31a8e559]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/42/regulation/42) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

@@ -41,13 +41,13 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 7(2), 11(1) and (3), 12(1), 15(4)(e) and (f) and (5), and 22 of, and paragraphs 2(1) and (3), 3(1), 6(4)(e) and (f) and (5) of Schedule 1 and paragraph 9 of Schedule 3 to, the Acquisition of Land Act 1981[^f00001].
 
-## 1. Citation, commencement and extent[^key-9704eb188eab6132f2a98f606ad0ab56]
+## 1. Citation, commencement and extent[^c-9704eb188eab6132f2a98f606ad0ab56]
 
-(1) These Regulations may be cited as the Compulsory Purchase of Land (Prescribed Forms) (Ministers) (Amendment) Regulations 2026 and come into force on 18th February 2026[^key-a18066756d57f9cd1a098657cd34bde0].
+(1) These Regulations may be cited as the Compulsory Purchase of Land (Prescribed Forms) (Ministers) (Amendment) Regulations 2026 and come into force on 18th February 2026[^c-a18066756d57f9cd1a098657cd34bde0].
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendment to the [Compulsory Purchase of Land (Prescribed Forms) (Ministers) Regulations 2004](https://www.legislation.gov.uk/uksi/2004/2595/contents)[^key-4655ef5fd04bf69b2022996d0e835aef]
+## 2. Amendment to the [Compulsory Purchase of Land (Prescribed Forms) (Ministers) Regulations 2004](https://www.legislation.gov.uk/uksi/2004/2595/contents)[^c-4655ef5fd04bf69b2022996d0e835aef]
 
 (1) The [Compulsory Purchase of Land (Prescribed Forms) (Ministers) Regulations 2004](https://www.legislation.gov.uk/uksi/2004/2595/contents)[^f00002] are amended as follows.
 
@@ -99,7 +99,7 @@ Ministry of Housing, Communities and Local Government
 
 5th February 2026
 
-## Schedule — NEW AND SUBSTITUTED FORMS[^key-860a00f52f22821dd28153069473a3a4]
+## Schedule — NEW AND SUBSTITUTED FORMS[^c-860a00f52f22821dd28153069473a3a4]
 
 Regulation 2(3)
 
@@ -127,11 +127,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 11(1) was amended by section 181(3)(b) of the Levelling-up and Regeneration Act [2003 (c. 55)](https://www.legislation.gov.uk/ukpga/2003/55) (“**the 2023 Act**”). Section 11(3) was inserted by section 100(4) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) (“**the 2004 Act**”). Section 12(1) was amended by section 100(5) of the 2004 Act and by section 181(4) of the 2023 Act. Section 15 was substituted by section 100(7) of the 2004 Act; section 15(4)(e) and (f) was inserted by paragraph 2(2) of Schedule 15 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) (“**the 2016 Act**”); section 15(5) was amended by section 183(3)(e) of the 2023 Act. Section 22 was amended by section 181(7) of the 2023 Act. Paragraph 2(1) of Schedule 1 was amended by paragraph 1(3) of Schedule 19 to the 2023 Act. Paragraph 2(3) of Schedule 1 was inserted by section 101(2) of the 2004 Act. Paragraph 3(1) of Schedule 1 was amended by section 101(3) of the 2004 Act and by paragraph 1(4) of Schedule 19 to the 2023 Act. Paragraph 6 of Schedule 1 was substituted by section 101(5) of the 2004 Act; paragraph 6(4)(e) and (f) was inserted by paragraph 3(2) of Schedule 15 to the 2016 Act; paragraph 6(5) was amended by paragraph 3(3)(e) of Schedule 19 to the 2023 Act. Paragraph 9 of Schedule 3 was amended by section 181(8) of the 2023 Act.
 
-[^key-9704eb188eab6132f2a98f606ad0ab56]: Commencement: Reg. 1 in force at 18.2.2026 (as amended by S.I. 2026/143, reg. 2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1)
+[^c-9704eb188eab6132f2a98f606ad0ab56]: Commencement: Reg. 1 in force at 18.2.2026 (as amended by S.I. 2026/143, reg. 2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1)
 
-[^key-a18066756d57f9cd1a098657cd34bde0]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1) substituted (18.2.2026) by [The Compulsory Purchase of Land (Prescribed Forms) (Ministers) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/143)](https://www.legislation.gov.uk/uksi/2026/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/143/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/143/regulation/2)
+[^c-a18066756d57f9cd1a098657cd34bde0]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1) substituted (18.2.2026) by [The Compulsory Purchase of Land (Prescribed Forms) (Ministers) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/143)](https://www.legislation.gov.uk/uksi/2026/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/143/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/143/regulation/2)
 
-[^key-4655ef5fd04bf69b2022996d0e835aef]: Commencement: Reg. 2 in force at 18.2.2026 (as amended by S.I. 2026/143, reg. 2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1)
+[^c-4655ef5fd04bf69b2022996d0e835aef]: Commencement: Reg. 2 in force at 18.2.2026 (as amended by S.I. 2026/143, reg. 2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2004/2595](https://www.legislation.gov.uk/uksi/2004/2595/contents). Relevant amending instruments are [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307/contents), [S.I. 2017/2](https://www.legislation.gov.uk/uksi/2017/2/contents) and [S.I. 2024/473](https://www.legislation.gov.uk/uksi/2024/473/contents).
 
@@ -143,4 +143,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00006]: Footnote: For the meaning of “fulfilment notice” see [section 15](https://www.legislation.gov.uk/ukpga/1981/67/section/15) [(4F)](https://www.legislation.gov.uk/ukpga/1981/67/section/15) of, and [paragraph 6](https://www.legislation.gov.uk/ukpga/1981/67/schedule/1/paragraph/6) [(4F)](https://www.legislation.gov.uk/ukpga/1981/67/schedule/1/paragraph/6) of [Schedule 1](https://www.legislation.gov.uk/ukpga/1981/67/schedule/1) to, the [Acquisition of Land Act 1981](https://www.legislation.gov.uk/ukpga/1981/67/contents) (c. 67) inserted by [section 183](https://www.legislation.gov.uk/ukpga/2023/55/section/183) [(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/183) [(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/183) of, and [paragraph 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) [(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) [(d)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19/paragraph/3) of [Schedule 19](https://www.legislation.gov.uk/ukpga/2023/55/schedule/19) to, the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/ukpga/2023/55/contents) (c. 55).
 
-[^key-860a00f52f22821dd28153069473a3a4]: Commencement: Sch. in force at 18.2.2026 (as amended by S.I. 2026/143, reg. 2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1)
+[^c-860a00f52f22821dd28153069473a3a4]: Commencement: Sch. in force at 18.2.2026 (as amended by S.I. 2026/143, reg. 2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/111/regulation/1/1)

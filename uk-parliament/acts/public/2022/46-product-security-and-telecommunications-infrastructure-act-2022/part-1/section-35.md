@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Appeals against decisions under section 34[^key-2b59e871b87cfe28b84f14c22c28ad20][^key-dcbd2689fc28eeed52d5db0aa653fa22]
+## 35. Appeals against decisions under section 34[^c-2b59e871b87cfe28b84f14c22c28ad20][^c-dcbd2689fc28eeed52d5db0aa653fa22]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b59e871b87cfe28b84f14c22c28ad20]: Commencement: S. 35 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-2b59e871b87cfe28b84f14c22c28ad20]: Commencement: S. 35 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-dcbd2689fc28eeed52d5db0aa653fa22]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/46/section/35) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-dcbd2689fc28eeed52d5db0aa653fa22]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/46/section/35) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

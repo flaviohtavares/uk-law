@@ -33,7 +33,7 @@ summary: ''
 
 (3) Where any functions under this Act are assigned—
 
-- (a) by an order under section 2 or 7 of the [^c10202881]Public Health (Control of Disease) Act 1984, to a port health authority or, by an order under section 172 of the *(Extent: S)* *(affected by repeal, see note)*[^key-b03791a2c7a50c038521ee65c308640d] [^c10202891]Public Health (Scotland) Act 1897, to a port local authority *(Extent: S)* *(affected by repeal, see note)*[^key-b03791a2c7a50c038521ee65c308640d];
+- (a) by an order under section 2 or 7 of the [^c10202881]Public Health (Control of Disease) Act 1984, to a port health authority or, by an order under section 172 of the *(Extent: S)* *(affected by repeal, see note)*[^c-b03791a2c7a50c038521ee65c308640d] [^c10202891]Public Health (Scotland) Act 1897, to a port local authority *(Extent: S)* *(affected by repeal, see note)*[^c-b03791a2c7a50c038521ee65c308640d];
 - (b) by an order under section 6 of the [^c10202901]Public Health Act 1936, to a joint board for a united district; or
 - (c) by an order under paragraph 15(6) of Schedule 8 to the [^c10202911]Local Government Act 1985, to a single authority for a metropolitan county,
 
@@ -52,7 +52,7 @@ shall be exercisable solely by such one of those authorities as may be specified
 - “**the Common Council**” means the Common Council of the City of London;
 - “**port local authority**” includes a joint port local authority.
 
-(6)[^c10202931][^c10202941][^key-60712e5ee94f800edabd8152764b0be0] In this Act “**authorised officer**”, in relation to a food authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under this Act; but if regulations made by the Secretary of State so provide, no person shall be so authorised unless he has such qualifications as may be prescribed by the regulations.
+(6)[^c10202931][^c10202941][^c-60712e5ee94f800edabd8152764b0be0] In this Act “**authorised officer**”, in relation to a food authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under this Act; but if regulations made by the Secretary of State so provide, no person shall be so authorised unless he has such qualifications as may be prescribed by the regulations.
 
 ## Annotations
 
@@ -66,7 +66,7 @@ shall be exercisable solely by such one of those authorities as may be specified
 
 [^c10202881]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-b03791a2c7a50c038521ee65c308640d]: Textual amendment: Words in s. 5(3)(a) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-b03791a2c7a50c038521ee65c308640d]: Textual amendment: Words in s. 5(3)(a) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c10202891]: Marginal citation: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38).
 
@@ -80,4 +80,4 @@ shall be exercisable solely by such one of those authorities as may be specified
 
 [^c10202941]: Modification: S. 5(6) applied (15.6.1995) by [S.I. 1995/1372](https://www.legislation.gov.uk/uksi/1995/1372), [reg. 20(2)](https://www.legislation.gov.uk/uksi/1995/1372/regulation/20/2)
 
-[^key-60712e5ee94f800edabd8152764b0be0]: Modification: S. 5(6) transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-60712e5ee94f800edabd8152764b0be0]: Modification: S. 5(6) transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))

@@ -32,7 +32,7 @@ summary: ''
 
 Highways
 
-The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Amendment) Regulations 2014 (revoked)[^key-26083ba559390ad983b8a362d0162d05]
+The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Amendment) Regulations 2014 (revoked)[^c-26083ba559390ad983b8a362d0162d05]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 7th October 2014
 
-[^key-26083ba559390ad983b8a362d0162d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26083ba559390ad983b8a362d0162d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-26083ba559390ad983b8a362d0162d05]
+## 1. Citation and commencement[^c-26083ba559390ad983b8a362d0162d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) Regulations 2009[^key-26083ba559390ad983b8a362d0162d05]
+## 2. Amendments to the Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) Regulations 2009[^c-26083ba559390ad983b8a362d0162d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26083ba559390ad983b8a362d0162d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26083ba559390ad983b8a362d0162d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-26083ba559390ad983b8a362d0162d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26083ba559390ad983b8a362d0162d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26083ba559390ad983b8a362d0162d05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2437) revoked (2.4.2026) by [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/270/regulation/2/2)
+[^c-26083ba559390ad983b8a362d0162d05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2437) revoked (2.4.2026) by [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/270/regulation/2/2)

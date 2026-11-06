@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Council Decision of 28 May 2001 ([2001/470/EC](https://www.legislation.gov.uk/eudn/2001/470))[^key-2565fa59880727288c9fe5a2e4893012]
+## 83. Council Decision of 28 May 2001 ([2001/470/EC](https://www.legislation.gov.uk/eudn/2001/470))[^c-2565fa59880727288c9fe5a2e4893012]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Decision of 28 May 2001 establishing a European Judicial Network in civi
 
 ## Annotations
 
-[^key-2565fa59880727288c9fe5a2e4893012]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-2565fa59880727288c9fe5a2e4893012]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Test scheme standard for schemes that produce sum of money for provision of benefits[^c21291341][^key-8da90184064bb5ec70bc65d8312f3b89]
+## 12. Test scheme standard for schemes that produce sum of money for provision of benefits[^c21291341][^c-8da90184064bb5ec70bc65d8312f3b89]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c21291341]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2012/3/section/12) partly in operation; [s. 12](https://www.legislation.gov.uk/nia/2012/3/section/12) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-8da90184064bb5ec70bc65d8312f3b89]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2012/3/section/12) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/c)
+[^c-8da90184064bb5ec70bc65d8312f3b89]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2012/3/section/12) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/c)

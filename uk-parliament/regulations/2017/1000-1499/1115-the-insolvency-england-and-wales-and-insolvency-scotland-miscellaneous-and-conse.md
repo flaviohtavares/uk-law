@@ -62,7 +62,7 @@ The Secretary of State, with the concurrence of the Lord Chancellor, in exercise
 
 The Secretary of State being designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to insolvency[^f00005] in exercise of the powers conferred upon him by that section, makes the Rules in Part 5.
 
-## 1. Citation, commencement and extent[^key-5d32f2a5e31ec7a050e5305707c5d307]
+## 1. Citation, commencement and extent[^c-5d32f2a5e31ec7a050e5305707c5d307]
 
 (1) These Rules may be cited as the Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 and come into force on 8th December 2017.
 
@@ -74,25 +74,25 @@ The Secretary of State being designated for the purposes of section 2(2) of the 
 
 *Extent: E+W*
 
-**2.**[^key-6f415221a95ba7c1bfa607aca7abc9d9] The Insolvency (England and Wales) Rules 2016 are amended as follows.
+**2.**[^c-6f415221a95ba7c1bfa607aca7abc9d9] The Insolvency (England and Wales) Rules 2016 are amended as follows.
 
-### 3. Notice of members’ meeting and attendance of officers[^key-d967dacefcec09358ddcb7587eaf8579]
+### 3. Notice of members’ meeting and attendance of officers[^c-d967dacefcec09358ddcb7587eaf8579]
 
 In rule 2.30(1) for “2.25(2)” substitute “2.25(3)”.
 
-### 4. Advertising administrator’s proposals and notices of extension of time for delivery of proposals (paragraph 49 of Schedule B1)[^key-2c79e074214cbcb27e03fc9c0197f8a5]
+### 4. Advertising administrator’s proposals and notices of extension of time for delivery of proposals (paragraph 49 of Schedule B1)[^c-2c79e074214cbcb27e03fc9c0197f8a5]
 
 In rule 3.37(4) for “(1)(b)” substitute “(2)(b)”.
 
-### 5. Moving from administration to dissolution (paragraph 84 of Schedule B1)[^key-07a58eac6dda3de2454f6d69a83ad5ee]
+### 5. Moving from administration to dissolution (paragraph 84 of Schedule B1)[^c-07a58eac6dda3de2454f6d69a83ad5ee]
 
 In rule 3.61(3) after “paragraph 84(5)(b)” insert “but excluding opted-out creditors”.
 
-### 6. Information to creditors and contributories[^key-0d21b640908b6acd92e33d5c0afd51ba]
+### 6. Information to creditors and contributories[^c-0d21b640908b6acd92e33d5c0afd51ba]
 
 In rule 6.15(1)(b), before “a report” insert “be accompanied by”.
 
-### 7. The statutory demand (section 268)[^key-7a20c954be0dee0a04404d45157a5704]
+### 7. The statutory demand (section 268)[^c-7a20c954be0dee0a04404d45157a5704]
 
 After rule 10.1(9) insert—
 
@@ -101,13 +101,13 @@ After rule 10.1(9) insert—
 > - (a) for any reference to 18 days there must be substituted the number of days which is the appropriate number of days set out in the table accompanying the Practice Direction supplementing Section IV of CPR Part 6 plus 4 days; and
 > - (b) for any reference to 21 days there must be substituted the number of days which is the appropriate number of days set out in the table accompanying the Practice Direction supplementing Section IV of CPR Part 6 plus 7 days.
 
-### 8. Proof of service of statutory demand[^key-7c059a58160a0ddddfb827d01bad0adc]
+### 8. Proof of service of statutory demand[^c-7c059a58160a0ddddfb827d01bad0adc]
 
 After rule 10.9(3) insert—
 
 > (4) The court may decline to file the petition if not satisfied that the creditor has discharged the obligation imposed by rule 10.2.
 
-### 9. General rule as to priority[^key-3e0e78aa282906224063cad64ed142a3]
+### 9. General rule as to priority[^c-3e0e78aa282906224063cad64ed142a3]
 
 (1) Rule 10.149 is amended as follows.
 
@@ -117,13 +117,13 @@ After rule 10.9(3) insert—
 
 (3) Omit sub-paragraph (e).
 
-### 10. Blank proxy[^key-35f0121dce57fcb6e2b0218d88fb91da]
+### 10. Blank proxy[^c-35f0121dce57fcb6e2b0218d88fb91da]
 
 For rule 16.3(4) substitute—
 
 > (4) When it is delivered, a blank proxy must not have inserted into it the name or description of any person as proxy-holder or as a nominee for the office-holder, or instructions as to how a person appointed as proxy-holder is to act.
 
-### 11. Establishment of committees[^key-aca931d43ad45e1c1c5e83f47a769511]
+### 11. Establishment of committees[^c-aca931d43ad45e1c1c5e83f47a769511]
 
 (1) Rule 17.5 is amended as follows.
 
@@ -133,11 +133,11 @@ For rule 16.3(4) substitute—
 
 > (5) The committee is not established (and accordingly cannot act) until the office-holder has sent a notice of its membership in order to comply with paragraph (9) or (10).
 
-### 12. Group coordination proceedings (Section 2 of Chapter 5 of the EU Regulation)[^key-6c9ef2e6361672ddf419326ff1c59eb7]
+### 12. Group coordination proceedings (Section 2 of Chapter 5 of the EU Regulation)[^c-6c9ef2e6361672ddf419326ff1c59eb7]
 
 In rule 21.12(2)[^f00006] after “in this rule includes” insert “as the context requires”.
 
-### 13. Schedule 2 (Transitional and savings provisions)[^key-d3cb7b373e5a2690a8e3552a5489dfa1]
+### 13. Schedule 2 (Transitional and savings provisions)[^c-d3cb7b373e5a2690a8e3552a5489dfa1]
 
 (1) Schedule 2 is amended as follows.
 
@@ -164,7 +164,7 @@ In rule 21.12(2)[^f00006] after “in this rule includes” insert “as the con
 >
 > the 1986 Rules as amended by the Insolvency (Amendment) Rules 2010[^f00012] apply to the extent necessary to give effect to section 104A of the Act notwithstanding that by virtue of paragraph 1(6)(a) or (b) of Schedule 4 to the Insolvency (Amendment) Rules 2010 those amendments to the Insolvency Rules 1986 would otherwise not apply.
 
-### 14. Schedule 4 (Service of documents)[^key-851440200fc0486af4f09bf10fc8fc85]
+### 14. Schedule 4 (Service of documents)[^c-851440200fc0486af4f09bf10fc8fc85]
 
 In Schedule 4 for paragraph 6(3) substitute—
 
@@ -174,9 +174,9 @@ In Schedule 4 for paragraph 6(3) substitute—
 
 *Extent: E+W*
 
-**15.**[^key-fe90e61d7bad2b7e02193fca98cd677e] The Insolvency Regulations 1994[^f00007] are amended as follows.
+**15.**[^c-fe90e61d7bad2b7e02193fca98cd677e] The Insolvency Regulations 1994[^f00007] are amended as follows.
 
-### 16. Provision of accounts by liquidator and audit of accounts[^key-0aeb9617de2642db044763d2b7b28a2f]
+### 16. Provision of accounts by liquidator and audit of accounts[^c-0aeb9617de2642db044763d2b7b28a2f]
 
 (1) Regulation 14 is amended as follows.
 
@@ -186,7 +186,7 @@ In Schedule 4 for paragraph 6(3) substitute—
 
 > (3) In the case of a winding up by the court, where an account has been sent pursuant to section 146(3)(a), the liquidator shall, within 14 days of sending the account, send to the Secretary of State an account of his receipts and payments as liquidator which are not covered by any previous account so sent by him, or if no such account has been sent an account of his receipts and payments in respect of the whole period of his office.
 
-### 17. Provision of accounts by trustee and audit of accounts[^key-d5f45e039b2bfb5bfb7debc59b86416d]
+### 17. Provision of accounts by trustee and audit of accounts[^c-d5f45e039b2bfb5bfb7debc59b86416d]
 
 (1) Regulation 28 is amended as follows.
 
@@ -200,9 +200,9 @@ In Schedule 4 for paragraph 6(3) substitute—
 
 *Extent: S*
 
-**18.**[^key-a73ea570fdb5e5c4daeb2ddde281c767] The Insolvency (Scotland) Rules 1986[^f00008] are amended as follows.
+**18.**[^c-a73ea570fdb5e5c4daeb2ddde281c767] The Insolvency (Scotland) Rules 1986[^f00008] are amended as follows.
 
-### 19. Rule 7.20E(2) Group coordination proceedings (Section 2 of Chapter 5 of the EU Regulation)[^key-ec1c9dda1c03d2eeb6de41daa3ef29c7]
+### 19. Rule 7.20E(2) Group coordination proceedings (Section 2 of Chapter 5 of the EU Regulation)[^c-ec1c9dda1c03d2eeb6de41daa3ef29c7]
 
 In rule 7.20E(2) for “Scotland” substitute “England and Wales”.
 
@@ -210,19 +210,19 @@ In rule 7.20E(2) for “Scotland” substitute “England and Wales”.
 
 *Extent: E+W*
 
-**20.**[^key-5de39b5ea872a2741f8d0f4529b9d49f] The Cross-Border Insolvency Regulations 2006[^f00009] are amended as follows.
+**20.**[^c-5de39b5ea872a2741f8d0f4529b9d49f] The Cross-Border Insolvency Regulations 2006[^f00009] are amended as follows.
 
-**21.**[^key-96bf5735f416c83bd98921f009f7f0aa] In Schedule 2 paragraph 1 sub-paragraph 1 in the definition of “the Rules”, for “Insolvency Rules 1986” substitute “Insolvency (England and Wales) Rules 2016”.
+**21.**[^c-96bf5735f416c83bd98921f009f7f0aa] In Schedule 2 paragraph 1 sub-paragraph 1 in the definition of “the Rules”, for “Insolvency Rules 1986” substitute “Insolvency (England and Wales) Rules 2016”.
 
 ## PART 5 — Amendments under section 2(2) of the European Communities Act 1972
 
 *Extent: E+W*
 
-### 22. The Insolvency (England and Wales) Rules 2016[^key-ed813622c77b175bf4ecebff486a0999]
+### 22. The Insolvency (England and Wales) Rules 2016[^c-ed813622c77b175bf4ecebff486a0999]
 
 The Insolvency (England and Wales) Rules 2016 are amended as follows.
 
-### 23. References to “EU Regulation”[^key-a40ca44a9eaa2dfab02ad71d2eef4beb]
+### 23. References to “EU Regulation”[^c-a40ca44a9eaa2dfab02ad71d2eef4beb]
 
 For “EC Regulation” substitute “EU Regulation” in the following provisions—
 
@@ -248,11 +248,11 @@ For “EC Regulation” substitute “EU Regulation” in the following provisio
 
 (11) the entry for rule 21.2 in the table in paragraph 6 sub-paragraph (3) of Schedule 4.
 
-### 24.[^key-f24a246be74a295909d2090712c88a7b]
+### 24.[^c-f24a246be74a295909d2090712c88a7b]
 
 In rule 1.2(2) in the definition of “temporary administrator” for “Article 38 of the EC Regulation” substitute “Article 52 of the EU Regulation”.
 
-### 25.[^key-fcf8f4efbb7537e62227bffe09b82944]
+### 25.[^c-fcf8f4efbb7537e62227bffe09b82944]
 
 For “Article 5 of the EC Regulation” substitute “Article 8 of the EU Regulation” in the following provisions—
 
@@ -260,23 +260,23 @@ For “Article 5 of the EC Regulation” substitute “Article 8 of the EU Regul
 
 (2) rule 14.16(3).
 
-### 26.[^key-7ce40e7ebb59178f51371271738f43b3]
+### 26.[^c-7ce40e7ebb59178f51371271738f43b3]
 
 In rule 7.33(1)(g) for “Article 29 of the EC Regulation” substitute “Article 37 of the EU Regulation”.
 
-### 27.[^key-6ea565248f0ef66b2df49183deff90fb]
+### 27.[^c-6ea565248f0ef66b2df49183deff90fb]
 
 In rule 10.8(1)(g) for “Article 2(h) of the EC Regulation” substitute “Article 2(10) of the EU Regulation”.
 
-### 28.[^key-f4cacf794e01a62c61ae0441ded802be]
+### 28.[^c-f4cacf794e01a62c61ae0441ded802be]
 
 In rule 21.3(1) for “Article 37 of the EC Regulation” substitute “Article 51 of the EU Regulation”.
 
-### 29.[^key-ab120bc5c26c6a80b6d5d2bd1dd86d03]
+### 29.[^c-ab120bc5c26c6a80b6d5d2bd1dd86d03]
 
 In rule 21.6(2) for “Article 40 of the EC Regulation” substitute “Article 54 of the EU Regulation”.
 
-### 30. References to “non-EU proceedings”[^key-fb03e413270bdb4a29b11a1f78b50b20]
+### 30. References to “non-EU proceedings”[^c-fb03e413270bdb4a29b11a1f78b50b20]
 
 For “non-EC proceedings” substitute “non-EU proceedings” in the following provisions—
 
@@ -328,11 +328,11 @@ For “non-EC proceedings” substitute “non-EU proceedings” in the followin
 
 (24) rule 10.51(e)(ii).
 
-### 31. The European Grouping of Territorial Cooperation Regulations 2007[^key-9dac1b64507b8208557fb4f0549b5017]
+### 31. The European Grouping of Territorial Cooperation Regulations 2007[^c-9dac1b64507b8208557fb4f0549b5017]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32.[^key-d26db6423fe8d73098b803b2b7bdc337]
+### 32.[^c-d26db6423fe8d73098b803b2b7bdc337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -396,78 +396,78 @@ An Explanatory Memorandum has been prepared and is available alongside these Rul
 
 [^f00005]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). The Secretary of State was designated by [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495). Section 57(1) of the Scotland Act 1998 ([1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46)) provides that despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under EU law, any function of a Minister of the Crown shall continue to be exercisable by the Minister as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972
 
-[^key-5d32f2a5e31ec7a050e5305707c5d307]: Commencement: Rule 1 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-5d32f2a5e31ec7a050e5305707c5d307]: Commencement: Rule 1 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-6f415221a95ba7c1bfa607aca7abc9d9]: Commencement: Rule 2 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-6f415221a95ba7c1bfa607aca7abc9d9]: Commencement: Rule 2 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-d967dacefcec09358ddcb7587eaf8579]: Commencement: Rule 3 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-d967dacefcec09358ddcb7587eaf8579]: Commencement: Rule 3 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-2c79e074214cbcb27e03fc9c0197f8a5]: Commencement: Rule 4 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-2c79e074214cbcb27e03fc9c0197f8a5]: Commencement: Rule 4 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-07a58eac6dda3de2454f6d69a83ad5ee]: Commencement: Rule 5 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-07a58eac6dda3de2454f6d69a83ad5ee]: Commencement: Rule 5 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-0d21b640908b6acd92e33d5c0afd51ba]: Commencement: Rule 6 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-0d21b640908b6acd92e33d5c0afd51ba]: Commencement: Rule 6 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-7a20c954be0dee0a04404d45157a5704]: Commencement: Rule 7 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-7a20c954be0dee0a04404d45157a5704]: Commencement: Rule 7 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-7c059a58160a0ddddfb827d01bad0adc]: Commencement: Rule 8 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-7c059a58160a0ddddfb827d01bad0adc]: Commencement: Rule 8 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-3e0e78aa282906224063cad64ed142a3]: Commencement: Rule 9 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-3e0e78aa282906224063cad64ed142a3]: Commencement: Rule 9 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-35f0121dce57fcb6e2b0218d88fb91da]: Commencement: Rule 10 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-35f0121dce57fcb6e2b0218d88fb91da]: Commencement: Rule 10 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-aca931d43ad45e1c1c5e83f47a769511]: Commencement: Rule 11 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-aca931d43ad45e1c1c5e83f47a769511]: Commencement: Rule 11 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-6c9ef2e6361672ddf419326ff1c59eb7]: Commencement: Rule 12 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-6c9ef2e6361672ddf419326ff1c59eb7]: Commencement: Rule 12 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
 [^f00006]: Footnote: Inserted by [S.I. 2017/702](https://www.legislation.gov.uk/uksi/2017/702).
 
-[^key-d3cb7b373e5a2690a8e3552a5489dfa1]: Commencement: Rule 13 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-d3cb7b373e5a2690a8e3552a5489dfa1]: Commencement: Rule 13 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
 [^f00012]: Footnote: [S.I. 2010/686](https://www.legislation.gov.uk/uksi/2010/686).
 
-[^key-851440200fc0486af4f09bf10fc8fc85]: Commencement: Rule 14 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-851440200fc0486af4f09bf10fc8fc85]: Commencement: Rule 14 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-fe90e61d7bad2b7e02193fca98cd677e]: Commencement: Rule 15 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-fe90e61d7bad2b7e02193fca98cd677e]: Commencement: Rule 15 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
 [^f00007]: Footnote: [S.I. 1994/2507](https://www.legislation.gov.uk/uksi/1994/2507) as amended by [S.I. 2017/369](https://www.legislation.gov.uk/uksi/2017/369).
 
-[^key-0aeb9617de2642db044763d2b7b28a2f]: Commencement: Rule 16 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-0aeb9617de2642db044763d2b7b28a2f]: Commencement: Rule 16 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-d5f45e039b2bfb5bfb7debc59b86416d]: Commencement: Rule 17 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-d5f45e039b2bfb5bfb7debc59b86416d]: Commencement: Rule 17 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-a73ea570fdb5e5c4daeb2ddde281c767]: Commencement: Rule 18 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-a73ea570fdb5e5c4daeb2ddde281c767]: Commencement: Rule 18 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
 [^f00008]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915) as amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [S.I. 2002/2709](https://www.legislation.gov.uk/uksi/2002/2709), [S.I. 2003/2108](https://www.legislation.gov.uk/uksi/2003/2108), [S.I. 2003/2109](https://www.legislation.gov.uk/uksi/2003/2109), [S.I. 2003/2111](https://www.legislation.gov.uk/uksi/2003/2111), [S.I. 2006/734](https://www.legislation.gov.uk/uksi/2006/734), [S.I. 2007/2537](https://www.legislation.gov.uk/uksi/2007/2537), [S.I. 2008/662](https://www.legislation.gov.uk/uksi/2008/662), [S.I. 2009/662](https://www.legislation.gov.uk/uksi/2009/662), [S.I. 2010/688](https://www.legislation.gov.uk/uksi/2010/688), [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404), [S.I. 2017/702](https://www.legislation.gov.uk/uksi/2017/702), [S.S.I. 2008/393](https://www.legislation.gov.uk/ssi/2008/393) and [S.S.I. 2014/114](https://www.legislation.gov.uk/ssi/2014/114).
 
-[^key-ec1c9dda1c03d2eeb6de41daa3ef29c7]: Commencement: Rule 19 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-ec1c9dda1c03d2eeb6de41daa3ef29c7]: Commencement: Rule 19 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-5de39b5ea872a2741f8d0f4529b9d49f]: Commencement: Rule 20 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-5de39b5ea872a2741f8d0f4529b9d49f]: Commencement: Rule 20 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
 [^f00009]: Footnote: [S.I. 2006/1030](https://www.legislation.gov.uk/uksi/2006/1030) as amended by [S.I. 2017/702](https://www.legislation.gov.uk/uksi/2017/702).
 
-[^key-96bf5735f416c83bd98921f009f7f0aa]: Commencement: Rule 21 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-96bf5735f416c83bd98921f009f7f0aa]: Commencement: Rule 21 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-ed813622c77b175bf4ecebff486a0999]: Commencement: Rule 22 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-ed813622c77b175bf4ecebff486a0999]: Commencement: Rule 22 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-a40ca44a9eaa2dfab02ad71d2eef4beb]: Commencement: Rule 23 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-a40ca44a9eaa2dfab02ad71d2eef4beb]: Commencement: Rule 23 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-f24a246be74a295909d2090712c88a7b]: Commencement: Rule 24 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-f24a246be74a295909d2090712c88a7b]: Commencement: Rule 24 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-fcf8f4efbb7537e62227bffe09b82944]: Commencement: Rule 25 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-fcf8f4efbb7537e62227bffe09b82944]: Commencement: Rule 25 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-7ce40e7ebb59178f51371271738f43b3]: Commencement: Rule 26 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-7ce40e7ebb59178f51371271738f43b3]: Commencement: Rule 26 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-6ea565248f0ef66b2df49183deff90fb]: Commencement: Rule 27 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-6ea565248f0ef66b2df49183deff90fb]: Commencement: Rule 27 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-f4cacf794e01a62c61ae0441ded802be]: Commencement: Rule 28 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-f4cacf794e01a62c61ae0441ded802be]: Commencement: Rule 28 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-ab120bc5c26c6a80b6d5d2bd1dd86d03]: Commencement: Rule 29 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-ab120bc5c26c6a80b6d5d2bd1dd86d03]: Commencement: Rule 29 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
-[^key-fb03e413270bdb4a29b11a1f78b50b20]: Commencement: Rule 30 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
+[^c-fb03e413270bdb4a29b11a1f78b50b20]: Commencement: Rule 30 in force at 8.12.2017, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1)
 
 [^f00010]: Footnote: Inserted by [S.I. 2017/702](https://www.legislation.gov.uk/uksi/2017/702).
 
-[^key-9dac1b64507b8208557fb4f0549b5017]: Textual amendment: [Rule 31](https://www.legislation.gov.uk/uksi/2017/1115/rule/31) revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)
+[^c-9dac1b64507b8208557fb4f0549b5017]: Textual amendment: [Rule 31](https://www.legislation.gov.uk/uksi/2017/1115/rule/31) revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)
 
-[^key-d26db6423fe8d73098b803b2b7bdc337]: Textual amendment: [Rule 32](https://www.legislation.gov.uk/uksi/2017/1115/rule/32) revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)
+[^c-d26db6423fe8d73098b803b2b7bdc337]: Textual amendment: [Rule 32](https://www.legislation.gov.uk/uksi/2017/1115/rule/32) revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)

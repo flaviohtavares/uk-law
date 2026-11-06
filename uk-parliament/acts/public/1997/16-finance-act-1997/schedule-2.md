@@ -76,11 +76,11 @@ Section 13.
 >   and
 > - (b) any equipment which is being, or which the officer reasonably suspects of having been or of being intended to be, used on the premises for or in connection with any such gaming.
 
-(3)[^key-92c2ca32b5c9d36b17bccc32a850170c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-92c2ca32b5c9d36b17bccc32a850170c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-92c2ca32b5c9d36b17bccc32a850170c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-92c2ca32b5c9d36b17bccc32a850170c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-92c2ca32b5c9d36b17bccc32a850170c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-92c2ca32b5c9d36b17bccc32a850170c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Other amendments
 
@@ -98,7 +98,7 @@ Section 13.
 
 #### Preferential debts on insolvency
 
-**6.**[^key-dae7d02e5e2e5b2d946ab633c640f6e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-dae7d02e5e2e5b2d946ab633c640f6e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Assessments to duty
 
@@ -112,11 +112,11 @@ Section 13.
 
 [^c14709341]: Marginal citation: [S.I. 1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204).
 
-[^key-92c2ca32b5c9d36b17bccc32a850170c]: Textual amendment: [Sch. 2 para. 4(3)-(5)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/2/paragraph/4/3) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-92c2ca32b5c9d36b17bccc32a850170c]: Textual amendment: [Sch. 2 para. 4(3)-(5)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/2/paragraph/4/3) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
 [^c14709351]: Marginal citation: [1968 c. 65](https://www.legislation.gov.uk/ukpga/1968/65).
 
-[^key-dae7d02e5e2e5b2d946ab633c640f6e5]: Textual amendment: Sch. 2 para. 6 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-dae7d02e5e2e5b2d946ab633c640f6e5]: Textual amendment: Sch. 2 para. 6 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
 [^c14709391]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 

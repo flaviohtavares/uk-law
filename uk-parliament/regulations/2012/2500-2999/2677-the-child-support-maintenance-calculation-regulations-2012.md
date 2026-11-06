@@ -59,12 +59,12 @@ These Regulations may be cited as the Child Support Maintenance Calculation Regu
 In these Regulations—
 
 - “**the 1991 Act**” means the Child Support Act 1991;
-- “contribution-based jobseeker’s allowance” means an allowance under the Jobseekers Act 1995 as amended by the provisions of Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers Act 1995 as that Act has effect apart from those provisions;[^key-53341ae82fe07cb7eeb7e23689c9f654]
-- “[^key-a033dd58f44d02b160b8103628d430d1]**contributory employment and support allowance**” means an allowance under Part 1 of the Welfare Reform Act 2007 [^c2141968] as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions;;
+- “contribution-based jobseeker’s allowance” means an allowance under the Jobseekers Act 1995 as amended by the provisions of Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers Act 1995 as that Act has effect apart from those provisions;[^c-53341ae82fe07cb7eeb7e23689c9f654]
+- “[^c-a033dd58f44d02b160b8103628d430d1]**contributory employment and support allowance**” means an allowance under Part 1 of the Welfare Reform Act 2007 [^c2141968] as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions;;
 - “**capped amount**” means the figure specified in paragraph 10(3) of Schedule 1 to the 1991 Act (or in that sub-paragraph as modified by regulations under paragraph 10A of Schedule 1 to the 1991 Act [^c2141969]);
 - “**couple**” has the meaning given by paragraph 10C(5) of Schedule 1 to the 1991 Act;
 - “**current income**” has the meaning given in regulation 37;
-- “[^key-c71bbb004b85a8ad342f80dc281c1608]**electronic communication**” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;
+- “[^c-c71bbb004b85a8ad342f80dc281c1608]**electronic communication**” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;
 - “**the flat rate**” means the flat rate of child support maintenance payable under paragraph 4 of Schedule 1 to the 1991 Act;
 - “**gross weekly income**” means income calculated under Chapter 1 of Part 4;
 - “**historic income** ” has the meaning given in regulation 35;
@@ -91,7 +91,7 @@ In these Regulations—
 - “**Tribunal Procedure Rules**” means the Tribunal Procedure (First-tier Tribunal) (Social (Entitlement Chamber) Rules 2008 [^c2141980]; and
 - “**UK social security pension**” means a pension to which section 577 of ITEPA applies [^c2141981].
 
-### 2A. Use of electronic communications[^key-db356617e33a169f7611066f5d28da5d]
+### 2A. Use of electronic communications[^c-db356617e33a169f7611066f5d28da5d]
 
 Schedule 1 makes provision for the use of electronic communications.
 
@@ -119,7 +119,7 @@ Where a calculation decision or a decision in relation to an application for a v
 
 (2) Where the Secretary of State sends any written notification or any document by post to a person's last known or notified address that document is treated as having been given or sent on the second day following the day on which it is posted.
 
-(3)[^key-f1227ea0cbd8d7b7ee68a84d4191be0a] Where the Secretary of State sends any written notification or any document by electronic communication to a person’s last known or notified address for electronic communication that document is treated as having been given or sent at the end of the first day after the day it was sent.
+(3)[^c-f1227ea0cbd8d7b7ee68a84d4191be0a] Where the Secretary of State sends any written notification or any document by electronic communication to a person’s last known or notified address for electronic communication that document is treated as having been given or sent at the end of the first day after the day it was sent.
 
 ### 8. Authorisation of representative[^c2199845]
 
@@ -153,17 +153,17 @@ the Secretary of State must proceed with the application in relation to each non
 
 ### 11. Notice of application[^c2199848]
 
-(1) Where an application has been made under section 4 or 7 of the 1991 Act, and the requirements in paragraph (3) are satisfied,[^key-7220b91da366e486df9816a5c3f4e26c] the Secretary of State must[^key-b9960c445f816f7e3ec9b1e9042fad1a]... give written notice to the non-resident parent—
+(1) Where an application has been made under section 4 or 7 of the 1991 Act, and the requirements in paragraph (3) are satisfied,[^c-7220b91da366e486df9816a5c3f4e26c] the Secretary of State must[^c-b9960c445f816f7e3ec9b1e9042fad1a]... give written notice to the non-resident parent—
 
 - (a) requesting such information as the Secretary of State may require to make the maintenance calculation; and
 - (b) where relevant, advising the non-resident parent of the power of the Secretary of State to make an estimate of income or a default maintenance decision.
 
-(2)[^key-bd2670f4fb02d5728fe51982391c541f] The notice must be sent by—
+(2)[^c-bd2670f4fb02d5728fe51982391c541f] The notice must be sent by—
 
 - (a) post to the last known address of the non-resident parent (as ascertained and verified in accordance with paragraph (3)(a)); or
 - (b) by electronic communication in accordance with Schedule 1.
 
-(3)[^key-5de53cf53ddb8e8f18f1e92d58d730f3] The requirements referred to in paragraph (1) are—
+(3)[^c-5de53cf53ddb8e8f18f1e92d58d730f3] The requirements referred to in paragraph (1) are—
 
 - (a) the address of the non-resident parent in relation to the application has been ascertained and verified; and
 - (b) any application fee payable under regulation 3(1) (the application fee) of the Child Support Fees Regulations 2014 has been paid or waived in accordance with those Regulations.
@@ -208,12 +208,12 @@ notice must be given in accordance with paragraph (7).
 
 #### 12. Initial effective date[^c2199849]
 
-(1)[^key-f6c455f799f0d2685aff607caa390034] The effective date of a decision under section 11 of the 1991 Act [^c2141984] (“the initial effective date”) is the date provided as the initial effective date in the notice[^key-e8160c9c0637b48b4bc064ca59f23f46] given to the non-resident parent under regulation 11.
+(1)[^c-f6c455f799f0d2685aff607caa390034] The effective date of a decision under section 11 of the 1991 Act [^c2141984] (“the initial effective date”) is the date provided as the initial effective date in the notice[^c-e8160c9c0637b48b4bc064ca59f23f46] given to the non-resident parent under regulation 11.
 
-(2)[^key-76f8229ac0d55db038a1f81ef8529117] The non-resident parent must be notified of the initial effective date—
+(2)[^c-76f8229ac0d55db038a1f81ef8529117] The non-resident parent must be notified of the initial effective date—
 
-- (a) by written notice posted to the last known postal address[^key-d238206bf5907a6286c4b9218855958b] of the non-resident parent at least two days prior to the initial effective date; [^key-8b330edf7bbde28e68f9d735af107145]...
-- (b) by telephone on or before the initial effective date and by written notice sent by post to the last known postal address of the non-resident parent; or[^key-09657a0542c7aa59c88ba4454d875ade]
+- (a) by written notice posted to the last known postal address[^c-d238206bf5907a6286c4b9218855958b] of the non-resident parent at least two days prior to the initial effective date; [^c-8b330edf7bbde28e68f9d735af107145]...
+- (b) by telephone on or before the initial effective date and by written notice sent by post to the last known postal address of the non-resident parent; or[^c-09657a0542c7aa59c88ba4454d875ade]
 - (c) by electronic communication in accordance with Schedule 1, at least one day prior to the initial effective date
 
 #### 13. Effect of variation applied for before a maintenance calculation is made[^c2199850]
@@ -238,7 +238,7 @@ the date from which the maintenance calculation is to take account of the variat
 
 (1) [^c2141987]A decision to which section 16(1A) of the 1991 Act applies may be revised by the Secretary of State—
 
-- (a)[^key-8215437652e3989e1350d6e306d42909] if the Secretary of State receives an application for the revision of a decision under either section 16 or section 28G (application for a variation where a maintenance calculation is in force) of that Act—
+- (a)[^c-8215437652e3989e1350d6e306d42909] if the Secretary of State receives an application for the revision of a decision under either section 16 or section 28G (application for a variation where a maintenance calculation is in force) of that Act—
   - (i) within 30 days after the date of notification of the decision;
   - (ii) within 30 days after the date on which notice of the correction is given under regulation 27A(3) (correction of accidental errors); or
   - (iii) within such longer time as may be allowed under regulation 15;
@@ -253,7 +253,7 @@ the date from which the maintenance calculation is to take account of the variat
 
 (3) An interim maintenance decision or default maintenance decision made under section 12 of the 1991 Act may be revised at any time.
 
-(3A)[^key-eab3695984e03b3920969baaa7fef716] Where—
+(3A)[^c-eab3695984e03b3920969baaa7fef716] Where—
 
 - (a) the Secretary of State makes a decision and there is an appeal;
 - (b) there is a further decision in relation to the appellant (“decision B”) after the appeal but before the appeal results in a decision by the First-tier Tribunal (“decision C”); and
@@ -263,7 +263,7 @@ decision B may be revised at any time.
 
 (4) In paragraph (1)(e) “**official error**” means an error made by an officer of the Department for Work and Pensions or HMRC acting as such to which no person outside the Department or HMRC materially contributed, but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of the Upper Tribunal or the court.
 
-#### 14A. Consideration of revision before appeal[^key-9d15476e61bfd2a33bfe4c125951d485]
+#### 14A. Consideration of revision before appeal[^c-9d15476e61bfd2a33bfe4c125951d485]
 
 (1) This regulation applies in a case where—
 
@@ -289,12 +289,12 @@ decision B may be revised at any time.
 (4) An application for an extension of time may not be granted unless the applicant satisfies the Secretary of State that–
 
 - (a) it is reasonable to grant the application;
-- (b) the application for revision has merit, except in a case to which regulation 14A applies[^key-3abd693496a8ac3bd9c0c811600b21f2]; and
+- (b) the application for revision has merit, except in a case to which regulation 14A applies[^c-3abd693496a8ac3bd9c0c811600b21f2]; and
 - (c) special circumstances are relevant to the application and because of those special circumstances it was not practicable for the application to be made within the time limit specified in regulation 14(1)(a).
 
 (5) In determining whether it is reasonable to grant an application for an extension of time, the Secretary of State must have regard to the principle that the greater the amount of time that has elapsed between the end of the time specified in regulation 14(1)(a) for applying for a revision and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application is based.
 
-(6) In determining whether it is reasonable to grant the application for an extension of time, except in a case to which regulation 14A applies[^key-8d8e01aa88b485edb7ac75ff5d0f733a], no account shall be taken of the following–
+(6) In determining whether it is reasonable to grant the application for an extension of time, except in a case to which regulation 14A applies[^c-8d8e01aa88b485edb7ac75ff5d0f733a], no account shall be taken of the following–
 
 - (a) that the applicant, or any person acting for the applicant, was unaware of or misunderstood the law applicable to the case (including ignorance or misunderstanding of the time limits imposed by these Regulations); or
 - (b) that the Upper Tribunal or a court has taken a different view of the law from that previously understood and applied.
@@ -463,7 +463,7 @@ and must state the nature of the information required to enable a calculation de
 
 (2) Where a child under section 7 of the 1991 Act ceases to be a child for the purposes of that Act, the Secretary of State must immediately notify the persons mentioned in paragraph (1) and the other qualifying children with the meaning of section 7(2) of that Act.
 
-### Chapter 5A — Accidental errors[^key-00c97a8b1b6898355ace9884ce502d30]
+### Chapter 5A — Accidental errors[^c-00c97a8b1b6898355ace9884ce502d30]
 
 #### 27A. Correction of accidental errors
 
@@ -519,7 +519,7 @@ Any supersession decision made under section 17 of the 1991 Act in consequence o
 
 #### 33. Procedural matters relating to appeals[^c2199870]
 
-Schedule 2[^key-d82d0030b926e674bae550c788985e96] to these Regulations has effect.
+Schedule 2[^c-d82d0030b926e674bae550c788985e96] to these Regulations has effect.
 
 ## PART 4 — THE MAINTENANCE CALCULATION RULES
 
@@ -529,13 +529,13 @@ Schedule 2[^key-d82d0030b926e674bae550c788985e96] to these Regulations has effec
 
 (1) The gross weekly income of a non-resident parent for the purposes of a calculation decision is a weekly amount determined at the effective date of the decision on the basis of either historic income or current income in accordance with this Chapter.
 
-(2)[^key-1139a0aef7d38f2250f05d493b1805e5][^key-5b555cd02e9125e4b01fa51bf944038a] The non-resident parent's gross weekly income is to be based on historic income unless—
+(2)[^c-1139a0aef7d38f2250f05d493b1805e5][^c-5b555cd02e9125e4b01fa51bf944038a] The non-resident parent's gross weekly income is to be based on historic income unless—
 
 - (a) current income differs from historic income by an amount that is at least 25% of historic income; or
-- (b) [^key-4d6ac266ad2fb1a7348b0edcde1c78df]... no historic income is available; or[^key-83870ca03c74cb573f173e9a9b2aa9a2]
+- (b) [^c-4d6ac266ad2fb1a7348b0edcde1c78df]... no historic income is available; or[^c-83870ca03c74cb573f173e9a9b2aa9a2]
 - (c) the Secretary of State is unable, for whatever reason, to request or obtain the required information from HMRC.
 
-(2A)[^key-8fb8e80bb2709f504943784737293004] For the purposes of paragraph (2)(a), current income is to be treated as differing from historic income by an amount that is at least 25% of historic income where—
+(2A)[^c-8fb8e80bb2709f504943784737293004] For the purposes of paragraph (2)(a), current income is to be treated as differing from historic income by an amount that is at least 25% of historic income where—
 
 - (a) the amount of historic income is nil; and
 - (b) the amount of current income is greater than nil.
@@ -574,7 +574,7 @@ Schedule 2[^key-d82d0030b926e674bae550c788985e96] to these Regulations has effec
   - (iv) income support; and
 - (d) under Part 2 of ITTOIA (trading income).
 
-(2)[^key-f6e8e4bdcb786c6ea80de31891cac380] The amount identified as income for the purposes of paragraph (1)(a) is to be taken after any deduction for relievable pension contributions made by the non-resident parent’s employer in accordance with net pay arrangements.
+(2)[^c-f6e8e4bdcb786c6ea80de31891cac380] The amount identified as income for the purposes of paragraph (1)(a) is to be taken after any deduction for relievable pension contributions made by the non-resident parent’s employer in accordance with net pay arrangements.
 
 (3) The amount identified as income for the purposes of paragraph (1)(b) is not to include a UK social security pension.
 
@@ -640,7 +640,7 @@ The non-resident parent's current income from a pension is to be calculated as t
 
 (1) Where—
 
-- (a)[^key-34a5b517d6a9d83b44b6ca3a02622585] current income applies by virtue of regulation 34(2)(a) where the amount of historic income is nil or by virtue of[^key-6b0fd5e5fe8bd1ed0fb23391ac32283b] regulation 34(2)(b) or (c)[^key-d913cd87374b452d90e75c199280f1ab] (historic income [^key-a75be4603edfd81673cc59842aaa2dbb]... not available); and
+- (a)[^c-34a5b517d6a9d83b44b6ca3a02622585] current income applies by virtue of regulation 34(2)(a) where the amount of historic income is nil or by virtue of[^c-6b0fd5e5fe8bd1ed0fb23391ac32283b] regulation 34(2)(b) or (c)[^c-d913cd87374b452d90e75c199280f1ab] (historic income [^c-a75be4603edfd81673cc59842aaa2dbb]... not available); and
 - (b) the information available in relation to current income is insufficient or unreliable,
 
 the Secretary of State may estimate that income and, in doing so, may make any assumption as to any fact.
@@ -688,13 +688,13 @@ T is the percentage determined in accordance with the following Table—
 (1) The following benefits, pensions or allowances are prescribed for the purposes of paragraph 4(1)(b) of Schedule 1 to the 1991 Act [^c2141999] (that is the benefits, pensions or allowances that qualify the non-resident parent for the flat rate)—
 
 - (a) under the Social Security Contributions and Benefits Act 1992 [^c2142000]—
-  - (i)[^key-59ba266e64c6dac2184822eabe9892e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-59ba266e64c6dac2184822eabe9892e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) category A retirement pension under section 44 [^c2142002],
   - (iii) category B retirement pension under section 48C [^c2142003],
   - (iv) category C and category D retirement pension under section 78 [^c2142004],
   - (v) incapacity benefit under section 30A [^c2142005],
   - (vi) carer's allowance under section 70 [^c2142006],
-  - (vii) maternity allowance under section 35 or 35B[^key-8d110b8b3153eb5624e40fc5e7eac1b3][^c2142007],
+  - (vii) maternity allowance under section 35 or 35B[^c-8d110b8b3153eb5624e40fc5e7eac1b3][^c2142007],
   - (viii) severe disablement allowance under section 68 [^c2142008],
   - (ix) industrial injuries benefit under section 94,
   - (x) widowed mother's allowance under section 37 [^c2142009],
@@ -705,24 +705,24 @@ T is the percentage determined in accordance with the following Table—
 - (d) a training allowance (other than work-based training for young people or, in Scotland, Skillseekers training);
 - (e) a war disablement pension within the meaning of section 150(2) of the Social Security Contributions and Benefits Act 1992 [^c2142013] or a pension which is analogous to such a pension paid by the government of a country outside Great Britain;
 - (f) a war widow's pension, war widower's pension or surviving civil partner's war pension within the meaning of that section [^c2142014];
-- (g) a payment under a scheme mentioned in section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004 [^c2142015] (compensation schemes for armed and reserve forces); [^key-bcb713d35ff3c6ac8e841e2238d0fe67]...
-- (h) contributory employment and support allowance;[^key-978386cf14709c0d2cfa99b8ba235365][^key-ab35c6235dbc976becbd2e87e537ed01]...
-- (i) a state pension under Part 1 of the Pensions Act 2014 and[^key-c7d460b7a5a762891aaaf25f9436104b].
-- (j)[^key-5b455e59a89031a5e4c781a5f0645310] the carer support payment component of carer support given in accordance with[^key-42a4b5bbf28178f37274b183af0f69d9] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
+- (g) a payment under a scheme mentioned in section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004 [^c2142015] (compensation schemes for armed and reserve forces); [^c-bcb713d35ff3c6ac8e841e2238d0fe67]...
+- (h) contributory employment and support allowance;[^c-978386cf14709c0d2cfa99b8ba235365][^c-ab35c6235dbc976becbd2e87e537ed01]...
+- (i) a state pension under Part 1 of the Pensions Act 2014 and[^c-c7d460b7a5a762891aaaf25f9436104b].
+- (j)[^c-5b455e59a89031a5e4c781a5f0645310] the carer support payment component of carer support given in accordance with[^c-42a4b5bbf28178f37274b183af0f69d9] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
 
 (2) The following benefits are prescribed for the purposes of paragraph 4(1)(c) of Schedule 1 to the 1991 Act (that is the benefits that qualify the non-resident parent for the flat rate if received by the non-resident parent or their partner)—
 
 - (a) income support;
 - (b) income-based jobseeker's allowance;
-- (c) income-related employment and support allowance; [^key-4449f352c8f582276150accf698e0267]...
-- (d) state pension credit; and[^key-26d5bdb3a462ca907994f309a079a27c]
+- (c) income-related employment and support allowance; [^c-4449f352c8f582276150accf698e0267]...
+- (d) state pension credit; and[^c-26d5bdb3a462ca907994f309a079a27c]
 - (e) universal credit under Part 1 of the Welfare Reform Act 2012, where the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income
 
 (3) Where the conditions referred to in paragraph 4(2) of Schedule 1 to the 1991 Act are satisfied (that is where an income-related benefit is payable to the non-resident parent or their partner and a maintenance calculation is in force in respect of each of them) the flat rate of maintenance payable is half the flat rate that would otherwise apply.
 
 (4) In paragraph (1)(d) “**training allowance**” means a payment under section 2 of the Employment and Training Act 1973 [^c2142016] or section 2 of the Enterprise and New Towns (Scotland) Act 1990 [^c2142017] which is paid to a person for their maintenance while they are undergoing training.
 
-(5)[^key-6935c72f6d74ac5a41fe734d064dfbaa] For the purposes of paragraph (2)(e) and regulation 45(1)(c), “earned income” has the meaning given in regulation 52 of the Universal Credit Regulations 2013.
+(5)[^c-6935c72f6d74ac5a41fe734d064dfbaa] For the purposes of paragraph (2)(e) and regulation 45(1)(c), “earned income” has the meaning given in regulation 52 of the Universal Credit Regulations 2013.
 
 #### 45. Nil rate[^c2199882]
 
@@ -731,9 +731,9 @@ T is the percentage determined in accordance with the following Table—
 - (a) a child;
 - (b) a prisoner or a person serving a sentence of imprisonment detained in hospital;
 - (c) a person who is 16 or 17 years old and—
-  - (i) in receipt of income support, income-based jobseeker's allowance or income-related employment and support allowance, [^key-fd988cecae4cdefcd66689cdb411e344]...
+  - (i) in receipt of income support, income-based jobseeker's allowance or income-related employment and support allowance, [^c-fd988cecae4cdefcd66689cdb411e344]...
   - (ii) a member of a couple whose partner is in receipt of income support, income-based jobseeker's allowance or income-related employment and support allowance;
-  - (iii)[^key-ec201a24189b0af454257cac1b93d3e9] in receipt of universal credit under Part 1 of the Welfare Reform Act 2012, where the award of universal credit is calculated on the basis that they do not have any earned income; or
+  - (iii)[^c-ec201a24189b0af454257cac1b93d3e9] in receipt of universal credit under Part 1 of the Welfare Reform Act 2012, where the award of universal credit is calculated on the basis that they do not have any earned income; or
   - (iv) in a case not covered by paragraph (iii), a member of a couple where their partner is in receipt of universal credit under Part 1 of the Welfare Reform Act 2012 and the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income
 - (d) a person receiving an allowance in respect of work-based training for young people, or in Scotland, Skillseekers training; or
 - (e) a person who is resident in a care home or an independent hospital or is being provided with a care home service or an independent health care service who—
@@ -744,9 +744,9 @@ T is the percentage determined in accordance with the following Table—
 
 (3) In paragraph (1)—
 
-- “care home” in England has the meaning given by section 3 of the Care Standards Act 2000;[^key-3d6b981c9306b898a23e990fc11b8840]
-- “**care home service**” in Wales means a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 which is provided wholly or mainly to persons aged 18 or over and in Scotland[^key-844f1c74d4566d147e5775349a5f4abe] has the meaning given by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c2142020] and “**independent health care service**” has the meaning given by section 10F(1)(a) and (b) of the National Health Service (Scotland) Act 1978[^c2142021];
-- “independent hospital” has the meaning given by section 2 of the Care Standards Act 2000;[^key-435a6cc50b630b46c7f58982b2bffb74]
+- “care home” in England has the meaning given by section 3 of the Care Standards Act 2000;[^c-3d6b981c9306b898a23e990fc11b8840]
+- “**care home service**” in Wales means a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 which is provided wholly or mainly to persons aged 18 or over and in Scotland[^c-844f1c74d4566d147e5775349a5f4abe] has the meaning given by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c2142020] and “**independent health care service**” has the meaning given by section 10F(1)(a) and (b) of the National Health Service (Scotland) Act 1978[^c2142021];
+- “independent hospital” has the meaning given by section 2 of the Care Standards Act 2000;[^c-435a6cc50b630b46c7f58982b2bffb74]
 - “**person serving a sentence of imprisonment detained in hospital**” means a person who—
   - (a) is being detained—
     - (i) under section 45A or 47 of the Mental Health Act 1983 [^c2142022]; and
@@ -836,11 +836,11 @@ the case is to be treated as a special case for the purposes of the 1991 Act.
 
 (3) Where the applicant is receiving child benefit in respect of the qualifying child the applicant is assumed, in the absence of evidence to the contrary, to be providing day to day care to a greater extent than any other person.
 
-(4)[^key-37ea73fcfc2e8596d44cc53dad1a8809] For the purposes of paragraph (3), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
+(4)[^c-37ea73fcfc2e8596d44cc53dad1a8809] For the purposes of paragraph (3), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
 
 #### 51. Child in care who is allowed to live with their parent[^c2199888]
 
-(1) Where the circumstances of a case are that a qualifying child who is in the care of a local authority in England and Wales is allowed by the authority to live with a parent of that child under section 22C(2) [^key-d173aed31da43f3fd7d2aa1e6e9f118c]... of the Children Act 1989 or section 81(2) of the Social Services and Well-being (Wales) Act 2014[^key-7f0de39449a04c6a898febf1e31de8dd][^c2142031], that case is to be treated as a special case for the purposes of the 1991 Act.
+(1) Where the circumstances of a case are that a qualifying child who is in the care of a local authority in England and Wales is allowed by the authority to live with a parent of that child under section 22C(2) [^c-d173aed31da43f3fd7d2aa1e6e9f118c]... of the Children Act 1989 or section 81(2) of the Social Services and Well-being (Wales) Act 2014[^c-7f0de39449a04c6a898febf1e31de8dd][^c2142031], that case is to be treated as a special case for the purposes of the 1991 Act.
 
 (2) For the purposes of this case, section 3(3)(b) of the 1991 Act is to be modified so that, for the reference to the person who usually provides day to day care for the child there is substituted a reference to the parent of the child with whom the local authority has allowed the child to live.
 
@@ -898,13 +898,13 @@ that case is to be treated as a special case for the purpose of the 1991 Act.
 
 (11) Where a qualifying child is a boarder at a boarding school or is an in-patient at a hospital, the qualifying child shall be treated as being in the care of the local authority for any night that the local authority would otherwise have been providing such care.
 
-(12) A child is in the care of a local authority for any night in which that child is being looked after by the local authority within the meaning of section 22 of the Children Act 1989 [^c2142032] or section 17(6) of the Children (Scotland) Act 1995 or section 74 of the Social Services and Well-being (Wales) Act 2014[^key-f6de386246fe3186cfe3a70827553c92][^c2142033].
+(12) A child is in the care of a local authority for any night in which that child is being looked after by the local authority within the meaning of section 22 of the Children Act 1989 [^c2142032] or section 17(6) of the Children (Scotland) Act 1995 or section 74 of the Social Services and Well-being (Wales) Act 2014[^c-f6de386246fe3186cfe3a70827553c92][^c2142033].
 
 #### 54. Care provided for relevant other child by a local authority[^c2199891]
 
-(1)[^key-e0d630edbca717af35c2ddeb4e51c8cb] Where a child other than a qualifying child is cared for in part or in full by a local authority, and the non-resident parent or the non-resident parent's partner receives child benefit for that child, the child is a relevant other child for the purposes of Schedule 1 to the 1991 Act.
+(1)[^c-e0d630edbca717af35c2ddeb4e51c8cb] Where a child other than a qualifying child is cared for in part or in full by a local authority, and the non-resident parent or the non-resident parent's partner receives child benefit for that child, the child is a relevant other child for the purposes of Schedule 1 to the 1991 Act.
 
-(2)[^key-0a04b00ea2860f47019ca1043f09fe7e] For the purposes of paragraph (1), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
+(2)[^c-0a04b00ea2860f47019ca1043f09fe7e] For the purposes of paragraph (1), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
 
 #### 55. Child who is a boarder or an in-patient in hospital[^c2199892]
 
@@ -1059,39 +1059,39 @@ The following factors are not to be taken into account in determining whether it
 (2) For the purposes of this regulation and regulation 63 (contact costs)—
 
 - (a) a person is “disabled” for a period in respect of which—
-  - (i) a disability living allowance , Scottish adult disability living allowance[^key-9a3d98ba4cfecc6572cb1147ff5ce7f2] , child disability payment[^key-b6dbbb185740f84199dfdffed6b52499] , armed forces independence payment[^key-e4832c589b3bd907288e1ff57e47c0b4] ,[^key-0d9bda7579edffab2338c689a5e8e113][^key-26ec3163671b303d443b80827f1c3b17] personal independence payment or adult disability payment[^key-0ad787189d6422d0e059a40edba4739d] is paid to or in respect of that person;
-  - (ii) that person would receive a disability living allowance , or the care component of child disability payment in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021,[^key-c823a4fe8d439fcded0a08f48a522bee] if it were not for the fact that the person is a patient, though remaining part of the applicant's family; [^key-e066b8a169ef36a5b20387a68da8edf3]...
-  - (iii) that person is registered blind, [^key-3cafa56b779e227d06bf9c9ccddfb03b]...
-  - (iv)[^key-968df67b674e7c28783fb47148324281] that person would receive personal independence payment but for regulations under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012, and remains part of the applicant’s family,[^key-e59b386aaa420d8c6cde976b9df41600]...
-  - (v)[^key-1bf785d73f5f925277990768d99a0f23] that person would receive adult disability payment but for regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^key-bb406f16439efcbdcb0b8f4b6a554e28], and remains part of the applicant’s family, or[^key-99bd927ba3d5a4ce770110495c976114]
+  - (i) a disability living allowance , Scottish adult disability living allowance[^c-9a3d98ba4cfecc6572cb1147ff5ce7f2] , child disability payment[^c-b6dbbb185740f84199dfdffed6b52499] , armed forces independence payment[^c-e4832c589b3bd907288e1ff57e47c0b4] ,[^c-0d9bda7579edffab2338c689a5e8e113][^c-26ec3163671b303d443b80827f1c3b17] personal independence payment or adult disability payment[^c-0ad787189d6422d0e059a40edba4739d] is paid to or in respect of that person;
+  - (ii) that person would receive a disability living allowance , or the care component of child disability payment in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021,[^c-c823a4fe8d439fcded0a08f48a522bee] if it were not for the fact that the person is a patient, though remaining part of the applicant's family; [^c-e066b8a169ef36a5b20387a68da8edf3]...
+  - (iii) that person is registered blind, [^c-3cafa56b779e227d06bf9c9ccddfb03b]...
+  - (iv)[^c-968df67b674e7c28783fb47148324281] that person would receive personal independence payment but for regulations under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012, and remains part of the applicant’s family,[^c-e59b386aaa420d8c6cde976b9df41600]...
+  - (v)[^c-1bf785d73f5f925277990768d99a0f23] that person would receive adult disability payment but for regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^c-bb406f16439efcbdcb0b8f4b6a554e28], and remains part of the applicant’s family, or[^c-99bd927ba3d5a4ce770110495c976114]
   - (vi) that person would receive Scottish adult disability living allowance but for regulation 23 (effect of admission to hospital on ongoing entitlement to Scottish adult disability living allowance) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, and remains part of the applicant's family,
 
   and “**disability**” is to be construed accordingly;
-- (ab)[^key-9584fe8bf6159c4fede94fae51c8bcb8] “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021
+- (ab)[^c-9584fe8bf6159c4fede94fae51c8bcb8] “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021
 - (b) “**disability living allowance**” means the care component of a disability living allowance, payable under section 72 of the Social Security Contributions and Benefits Act 1992;
-- (ba)[^key-a092434eff5238cf556444f4822781aa] “**Scottish adult disability living allowance**” means the care component of a Scottish adult disability living allowance, payable under regulation 6 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- (ba)[^c-a092434eff5238cf556444f4822781aa] “**Scottish adult disability living allowance**” means the care component of a Scottish adult disability living allowance, payable under regulation 6 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
 - (c) “**the health service**” has the same meaning as in section 275 of the National Health Service Act 2006[^c2142038] or in section 108(1) of the National Health Service (Scotland) Act 1978[^c2142039];
 - (d) “**long-term illness**” means an illness from which the child is suffering at the date of the application or the date from which the variation, if agreed, would take effect and which is likely to last for at least 12 months after that date, or, if likely to be shorter than 12 months, for the remainder of their life; and
 - (e) “**relevant other child**” has the meaning given in paragraph 10C(2) of Schedule 1 to the 1991 Act[^c2142040];
 - (f) a person is “registered blind” where that person is—
-  - (i)[^key-5849d4577fcc7c95d726fd525719e432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - ((ia)) registered as severely sight-impaired in a register kept by a local authority in England under section 77(1) of the Care Act 2014 (registers of sight-impaired adults);[^key-3a411f6e167f4f560f56582eab9d3f7a] [^key-be026dfcd375a0fbefa1f2723bb297a2]...
-  - (ii) registered as blind in a register maintained by or on behalf of a local authority in Scotland; or[^key-3e3d1510b0bc3ba2578419ecf4db9dde]
+  - (i)[^c-5849d4577fcc7c95d726fd525719e432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - ((ia)) registered as severely sight-impaired in a register kept by a local authority in England under section 77(1) of the Care Act 2014 (registers of sight-impaired adults);[^c-3a411f6e167f4f560f56582eab9d3f7a] [^c-be026dfcd375a0fbefa1f2723bb297a2]...
+  - (ii) registered as blind in a register maintained by or on behalf of a local authority in Scotland; or[^c-3e3d1510b0bc3ba2578419ecf4db9dde]
   - (iii) registered as severely sight impaired in a register kept by a local authority in Wales under section 18(1)(a) of the Social Services and Well-being (Wales) Act 2014;
-- (g)[^key-6572895cd687ef491f3200856d1bb75d] “personal independence payment” means the daily living component of personal independence payment under section 78 of the Welfare Reform Act 2012.
-- (ga)[^key-141004cefecf46891def5d300f75c762] “**adult disability payment**” means the daily living component of adult disability payment under regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
-- (h)[^key-04e61337e926616c2ef3d20aaf4bf123] “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
+- (g)[^c-6572895cd687ef491f3200856d1bb75d] “personal independence payment” means the daily living component of personal independence payment under section 78 of the Welfare Reform Act 2012.
+- (ga)[^c-141004cefecf46891def5d300f75c762] “**adult disability payment**” means the daily living component of adult disability payment under regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
+- (h)[^c-04e61337e926616c2ef3d20aaf4bf123] “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
 
 (3) Where, at the date on which the non-resident parent makes the variation application—
 
 - (a) the non-resident parent or a member of the non-resident parent's household has received, is in receipt of, or will receive any financial assistance from any source in respect of the long-term illness or disability of the relevant other child; or
-- (b) a disability living allowance , Scottish adult disability living allowance[^key-021bbe3b0d761ab407954f8fec95ce43] , child disability payment[^key-e680751653fb84c47954ed8e390c7bfa] , armed forces independence payment[^key-06362a70e06bff0ab227c332d5ac6e80] ,[^key-78090a65fb991724f3be994af1c6ccbb][^key-822debe6910153f79ac12feee339d79e] personal independence payment or adult disability payment[^key-459b086fcb4aaad1f5f3681f1962dc66] is received by the non-resident parent or the member of the non-resident parent's household on behalf of the relevant other child,
+- (b) a disability living allowance , Scottish adult disability living allowance[^c-021bbe3b0d761ab407954f8fec95ce43] , child disability payment[^c-e680751653fb84c47954ed8e390c7bfa] , armed forces independence payment[^c-06362a70e06bff0ab227c332d5ac6e80] ,[^c-78090a65fb991724f3be994af1c6ccbb][^c-822debe6910153f79ac12feee339d79e] personal independence payment or adult disability payment[^c-459b086fcb4aaad1f5f3681f1962dc66] is received by the non-resident parent or the member of the non-resident parent's household on behalf of the relevant other child,
 
-only the net amount of the costs incurred in respect of the items listed in paragraph (1), after the deduction of the financial assistance or the amount of the allowance or payment[^key-4b406f5442469635a57884443c5f440f], constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
+only the net amount of the costs incurred in respect of the items listed in paragraph (1), after the deduction of the financial assistance or the amount of the allowance or payment[^c-4b406f5442469635a57884443c5f440f], constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B to the 1991 Act.
 
 (4) For the purposes of paragraph (2)(a)—
 
-- (a) “**patient**” means a person (other than a person who is serving a sentence of imprisonment within the meaning of section 163 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c2142042] or section 397 of the Sentencing Code[^key-0c7958cb21110d6da9f9355e630ebd4c] or of detention in a young offender institution within the meaning of section 96 of the Powers of Criminal Courts (Sentencing) Act 2000 or section 262 of the Sentencing Code[^key-4b09a1a08e2bc2d5d104068c11a72ef7] or, in Scotland, a sentence of imprisonment or detention within the meaning of section 307 of the Criminal Procedure (Scotland) Act 1995) who is regarded as receiving free in-patient treatment within the meaning of regulation 2(4) and (5) of the Social Security (Hospital In-Patients) Regulations 2005[^c2142043]; and
+- (a) “**patient**” means a person (other than a person who is serving a sentence of imprisonment within the meaning of section 163 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c2142042] or section 397 of the Sentencing Code[^c-0c7958cb21110d6da9f9355e630ebd4c] or of detention in a young offender institution within the meaning of section 96 of the Powers of Criminal Courts (Sentencing) Act 2000 or section 262 of the Sentencing Code[^c-4b09a1a08e2bc2d5d104068c11a72ef7] or, in Scotland, a sentence of imprisonment or detention within the meaning of section 307 of the Criminal Procedure (Scotland) Act 1995) who is regarded as receiving free in-patient treatment within the meaning of regulation 2(4) and (5) of the Social Security (Hospital In-Patients) Regulations 2005[^c2142043]; and
 - (b) where a person has ceased to be registered in a register as referred to in paragraph (2)(f), having regained their eyesight, that person is to be treated as though they were registered blind, for a period of 28 days after the day on which that person ceased to be registered in such a register.
 
 #### 65. Prior debts[^c2199902]
@@ -1218,10 +1218,10 @@ a portion of the expenses incurred by the non-resident parent in respect of the 
 
 (4) For the purposes of paragraph (2), the information in relation to property income is to be taken after deduction of relief under section 118 of the Income Tax Act 2007 [^c2142044] (carry forward against subsequent property business profits).
 
-(5)[^key-69df91eb60963d8fbf9324351bb24326][^key-6529f2502547f00089c364e8055f3b5c] Where—
+(5)[^c-69df91eb60963d8fbf9324351bb24326][^c-6529f2502547f00089c364e8055f3b5c] Where—
 
 - (a) the latest available tax year is not the most recent tax year; or
-- (b) the information provided by HMRC in relation to the latest available tax year does not include any information from a self-assessment return; or[^key-39b8cefd95e7e40d23dafa7caa5fc757]
+- (b) the information provided by HMRC in relation to the latest available tax year does not include any information from a self-assessment return; or[^c-39b8cefd95e7e40d23dafa7caa5fc757]
 - (c) the Secretary of State is unable, for whatever reason, to request or obtain the information from HMRC,
 
 the Secretary of State may, if satisfied that there is sufficient evidence to do so, determine the amount of the non-resident parent's unearned income by reference to the most recent tax year; and any such determination must, as far as possible, be based on the information that would be required to be provided in a self-assessment return.
@@ -1230,11 +1230,11 @@ the Secretary of State may, if satisfied that there is sufficient evidence to do
 
 (7) Where a variation is agreed to under this regulation, the non-resident parent is to be treated as having additional weekly income of the amount determined in accordance with paragraph (3) or (5) divided by 365 and multiplied by 7.
 
-(8)[^key-af7e1ce2880dcce28c763f9c85faa288] Subject to paragraph (9), where the non-resident parent makes relievable pension contributions, which have not been otherwise taken into account for the purposes of the maintenance calculation, there is to be deducted from the additional weekly income calculated in accordance with paragraph (7) an amount determined by the Secretary of State as representing the weekly average of those contributions.
+(8)[^c-af7e1ce2880dcce28c763f9c85faa288] Subject to paragraph (9), where the non-resident parent makes relievable pension contributions, which have not been otherwise taken into account for the purposes of the maintenance calculation, there is to be deducted from the additional weekly income calculated in accordance with paragraph (7) an amount determined by the Secretary of State as representing the weekly average of those contributions.
 
 (9) An amount must only be deducted in accordance with paragraph (8) where the relievable pension contributions referred to in that paragraph relate to the same tax year that has been used for the purposes of determining the additional weekly income.
 
-#### 69A. Assets exceeding a prescribed value[^key-78520ccef5e3457f3f7866cb9870b51c]
+#### 69A. Assets exceeding a prescribed value[^c-78520ccef5e3457f3f7866cb9870b51c]
 
 (1) Where this paragraph applies, the other cases prescribed under paragraph 4(1) of Schedule 4B to the 1991 Act are cases where the Secretary of State is satisfied that there is an asset in which the non-resident parent has a legal or beneficial interest and the value of that interest exceeds the prescribed value.
 
@@ -1341,15 +1341,15 @@ the Secretary of State may, if satisfied that there is sufficient evidence to do
   - (ii) the decision as to the maintenance calculation has been replaced with a default maintenance decision under section 12(1)(b) of the 1991 Act; and
 - (b) the non-resident parent has subsequently become liable to pay a rate of child support maintenance which can be adjusted to take account of the variation by virtue of a decision under section 16(1B) or 17 of the 1991 Act.
 
-(2) Where this regulation applies [^key-7c8930e98817ee0fe749631fce4cf1e0]... the Secretary of State may, when making the decision referred to in paragraph (1)(b), take into account the effect of the variation upon the amount of liability for child support maintenance notwithstanding the fact that an application has not been made.
+(2) Where this regulation applies [^c-7c8930e98817ee0fe749631fce4cf1e0]... the Secretary of State may, when making the decision referred to in paragraph (1)(b), take into account the effect of the variation upon the amount of liability for child support maintenance notwithstanding the fact that an application has not been made.
 
 ## PART 6 — MEANING OF TERMS IN THE 1991 ACT
 
 ### 76. Meaning of “child” for the purposes of the 1991 Act[^c2199913]
 
-(1)[^key-2f2ac88229f471987cf8ef06317b2107] Subject to paragraphs (2) and (3), the prescribed[^key-60cc16148b1ebb55b4c83cae057aa0b8] condition for the purposes of section 55(1) of the 1991 Act [^c2142046] (that is the condition that must be satisfied if a person who has attained the age of 16 but not the age of 20 is to fall with the meaning of “child”) is that the person is a qualifying young person as defined in section 142(2) of the Social Security Contributions and Benefits Act 1992[^c2142047].
+(1)[^c-2f2ac88229f471987cf8ef06317b2107] Subject to paragraphs (2) and (3), the prescribed[^c-60cc16148b1ebb55b4c83cae057aa0b8] condition for the purposes of section 55(1) of the 1991 Act [^c2142046] (that is the condition that must be satisfied if a person who has attained the age of 16 but not the age of 20 is to fall with the meaning of “child”) is that the person is a qualifying young person as defined in section 142(2) of the Social Security Contributions and Benefits Act 1992[^c2142047].
 
-(2)[^key-9829e62c3a2d1c4719802c9acdeb6507] A person does not satisfy the condition referred to in paragraph (1) where the person is—
+(2)[^c-9829e62c3a2d1c4719802c9acdeb6507] A person does not satisfy the condition referred to in paragraph (1) where the person is—
 
 - (a) engaged in remunerative work in any week during a prescribed period; or
 - (b) in receipt of other financial support in any week.
@@ -1363,11 +1363,11 @@ the Secretary of State may, if satisfied that there is sufficient evidence to do
 - “remunerative work” has the meaning given in regulation 1(3) (citation, commencement and interpretation) of the 2006 Regulations;
 - “week” has the meaning in the 2006 Regulations.
 
-### 77. Meaning of “relevant other child” for the purposes of the 1991 Act[^c2199914][^key-63a3f34b5166d790b3270f3151ece87e]
+### 77. Meaning of “relevant other child” for the purposes of the 1991 Act[^c2199914][^c-63a3f34b5166d790b3270f3151ece87e]
 
 For the purposes of paragraph 10C(2)(b) of Schedule 1 to the 1991 Act (which provides for other descriptions of relevant other children to be prescribed) “ **for the purposes of the 1991 Act** ” includes a child, other than a qualifying child, in respect of whom the non-resident parent or the non-resident parent's partner would receive
 
-- (a)[^key-72c41ec1b17b1af56ab924ef8ba701a5] child benefit, but in respect of whom they do not do so, solely because the conditions set out in section 146 of the Social Security Contributions and Benefits Act 1992 (persons outside Great Britain) are not met; or[^key-ad4f5ed8f838cd6362adda074e7a5145]
+- (a)[^c-72c41ec1b17b1af56ab924ef8ba701a5] child benefit, but in respect of whom they do not do so, solely because the conditions set out in section 146 of the Social Security Contributions and Benefits Act 1992 (persons outside Great Britain) are not met; or[^c-ad4f5ed8f838cd6362adda074e7a5145]
 - (b) has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made.
 
 ### 78. Persons who are not persons with care[^c2199915]
@@ -1375,13 +1375,13 @@ For the purposes of paragraph 10C(2)(b) of Schedule 1 to the 1991 Act (which pro
 (1) The following categories of person are not persons with care for the purposes of the 1991 Act—
 
 - (a) a local authority;
-- (b) a person with whom a child who is looked after by a local authority is placed by that authority under the provisions of the Children Act 1989, except where that person is a parent of such a child and the local authority allow the child to live with that parent under section 22C(2) [^key-af1ee4c36c55754a2437451e170e5e16]... of that Act [^c2142048];
-- (c) in Scotland, a family or relative with whom a child is placed by a local authority under the provisions of section 26 of the Children (Scotland) Act 1995[^key-f005cb7da8d47069df8ab15b3dadf645] or who is providing continuing care by virtue of arrangements made under section 26A of that Act[^key-dce0b4e680d45bc52f1dc944a14948d0]; [^c2142049]
+- (b) a person with whom a child who is looked after by a local authority is placed by that authority under the provisions of the Children Act 1989, except where that person is a parent of such a child and the local authority allow the child to live with that parent under section 22C(2) [^c-af1ee4c36c55754a2437451e170e5e16]... of that Act [^c2142048];
+- (c) in Scotland, a family or relative with whom a child is placed by a local authority under the provisions of section 26 of the Children (Scotland) Act 1995[^c-f005cb7da8d47069df8ab15b3dadf645] or who is providing continuing care by virtue of arrangements made under section 26A of that Act[^c-dce0b4e680d45bc52f1dc944a14948d0]; [^c2142049]
 - (d) in Wales, a person with whom a child who is looked after by a local authority is placed by that authority under the provisions of Part 6 of the Social Services and Well-being (Wales) Act 2014, except where that person is a parent of such a child and the local authority allow the child to live with that parent under section 81(2) of that Act.
 
 (2) In paragraph (1)—
 
-- “**a child who is looked after by a local authority**” has the same meaning as in section 22 of the Children Act 1989 or section 17(6) of the Children (Scotland) Act 1995 or section 74 of the Social Services and Well-being (Wales) Act 2014[^key-ae6f2574e7dfb8dc8788d9411f6ba614] as the case may be;
+- “**a child who is looked after by a local authority**” has the same meaning as in section 22 of the Children Act 1989 or section 17(6) of the Children (Scotland) Act 1995 or section 74 of the Social Services and Well-being (Wales) Act 2014[^c-ae6f2574e7dfb8dc8788d9411f6ba614] as the case may be;
 - “**family**” means a family other than a family defined in section 93(1) of the Children (Scotland) Act 1995.
 
 Signed by authority of the Secretary of State for Work and Pensions
@@ -1392,7 +1392,7 @@ Minister of State
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — Electronic Communications[^key-ecb4321afc40940da60f6caac07394ca]
+## SCHEDULE 1 — Electronic Communications[^c-ecb4321afc40940da60f6caac07394ca]
 
 Regulation 2A
 
@@ -1462,7 +1462,7 @@ In this Schedule—
 - “**agreed purpose**” means the purpose agreed in accordance with paragraph 2(a);
 - “**official computer system**” means a computer system maintained by or on behalf of the Secretary of State for the purposes of these Regulations.
 
-## SCHEDULE 2 — APPEALS: PROCEDURAL MATTERS[^key-71ecc06cd6bf99b8935b2044c59d9404]
+## SCHEDULE 2 — APPEALS: PROCEDURAL MATTERS[^c-71ecc06cd6bf99b8935b2044c59d9404]
 
 Regulation 33
 
@@ -1485,71 +1485,71 @@ and the decision as replaced or revised is not more advantageous to the appellan
 
 ### 2. Late appeals[^c2199917]
 
-(1)[^key-526073c7ebe29a388ff3f5c289a9e997] Where a dispute arises as to whether an appeal was brought within the time specified under the Tribunal Procedure Rules the dispute shall be referred to, and determined by, the First-tier Tribunal. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+(1)[^c-526073c7ebe29a388ff3f5c289a9e997] Where a dispute arises as to whether an appeal was brought within the time specified under the Tribunal Procedure Rules the dispute shall be referred to, and determined by, the First-tier Tribunal. *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-(2) The Secretary of State may treat a late appeal as made in time in accordance with the Tribunal Procedure Rules if the Secretary of State is satisfied that it is in the interests of justice to do so. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+(2) The Secretary of State may treat a late appeal as made in time in accordance with the Tribunal Procedure Rules if the Secretary of State is satisfied that it is in the interests of justice to do so. *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-(3) For the purposes of sub-paragraph (2) it is not in the interests of justice to treat the appeal as made in time unless the Secretary of State is satisfied that– *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+(3) For the purposes of sub-paragraph (2) it is not in the interests of justice to treat the appeal as made in time unless the Secretary of State is satisfied that– *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-- (a) the special circumstances specified in sub-paragraph (4) are relevant; or *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
-- (b) some other special circumstances exist which are wholly exceptional and relevant, *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (a) the special circumstances specified in sub-paragraph (4) are relevant; or *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
+- (b) some other special circumstances exist which are wholly exceptional and relevant, *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-and as a result of those special circumstances, it was not practicable for the appeal to be made within the time limit specified in the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+and as a result of those special circumstances, it was not practicable for the appeal to be made within the time limit specified in the Tribunal Procedure Rules. *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-(4) For the purposes of sub-paragraph (3)(a), the special circumstances are that— *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+(4) For the purposes of sub-paragraph (3)(a), the special circumstances are that— *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-- (a) the appellant or a partner or dependant of the appellant has died or suffered serious illness; *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
-- (b) the appellant is not resident in the United Kingdom; or *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
-- (c) normal postal services were disrupted. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (a) the appellant or a partner or dependant of the appellant has died or suffered serious illness; *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
+- (b) the appellant is not resident in the United Kingdom; or *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
+- (c) normal postal services were disrupted. *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-(5) In determining whether it is in the interests of justice to treat the appeal as made in time regard must be had to the principle that the greater the amount of time that has elapsed between the expiration of the time limit under the Tribunal Procedure Rules and the submission of the notice of appeal, the more compelling should be the special circumstances. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+(5) In determining whether it is in the interests of justice to treat the appeal as made in time regard must be had to the principle that the greater the amount of time that has elapsed between the expiration of the time limit under the Tribunal Procedure Rules and the submission of the notice of appeal, the more compelling should be the special circumstances. *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-(6) In determining whether it is in the interests of justice to treat the appeal as made in time no account shall be taken of the following– *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+(6) In determining whether it is in the interests of justice to treat the appeal as made in time no account shall be taken of the following– *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
-- (a) that the applicant or any person acting for him was unaware of or misunderstood the law applicable to his case (including ignorance or misunderstanding of the time limits imposed by the Tribunal Procedure Rules); or *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
-- (b) that the Upper Tribunal or a court has taken a different view of the law from that previously understood and applied. *(affected by repeal, see note)*[^key-526073c7ebe29a388ff3f5c289a9e997]
+- (a) that the applicant or any person acting for him was unaware of or misunderstood the law applicable to his case (including ignorance or misunderstanding of the time limits imposed by the Tribunal Procedure Rules); or *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
+- (b) that the Upper Tribunal or a court has taken a different view of the law from that previously understood and applied. *(affected by repeal, see note)*[^c-526073c7ebe29a388ff3f5c289a9e997]
 
 ### 3. Notice of Appeal[^c2199918]
 
-(1)[^key-9fee1203029c2b32df0470501b5a14b8] A notice of appeal made in accordance with the Tribunal Procedure Rules and on a form approved by the Secretary of State or in such other form as the Secretary of State accepts, is to be sent or delivered to an appropriate office of the Secretary of State. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(1)[^c-9fee1203029c2b32df0470501b5a14b8] A notice of appeal made in accordance with the Tribunal Procedure Rules and on a form approved by the Secretary of State or in such other form as the Secretary of State accepts, is to be sent or delivered to an appropriate office of the Secretary of State. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(2) Except where sub-paragraph (3) applies, where a form does not contain the information required under the Tribunal Procedure Rules the form may be returned by the Secretary of State to the sender for completion in accordance with the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(2) Except where sub-paragraph (3) applies, where a form does not contain the information required under the Tribunal Procedure Rules the form may be returned by the Secretary of State to the sender for completion in accordance with the Tribunal Procedure Rules. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(3) Where it appears that the form, although not completed in accordance with the instructions on it, includes sufficient information to enable the appeal to proceed, the Secretary of State may treat the form as satisfying the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(3) Where it appears that the form, although not completed in accordance with the instructions on it, includes sufficient information to enable the appeal to proceed, the Secretary of State may treat the form as satisfying the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(4) Where a notice of appeal is made in writing otherwise than on the approved form (“ *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]**the letter *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]**”), and it appears that the letter includes sufficient information to enable the appeal to proceed, the Secretary of State may treat the letter as satisfying the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(4) Where a notice of appeal is made in writing otherwise than on the approved form (“ *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]**the letter *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]**”), and it appears that the letter includes sufficient information to enable the appeal to proceed, the Secretary of State may treat the letter as satisfying the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(5) Where the letter does not include sufficient information to enable the appeal to proceed, the Secretary of State may request further information in writing (“further particulars”) from the person who wrote the letter. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(5) Where the letter does not include sufficient information to enable the appeal to proceed, the Secretary of State may request further information in writing (“further particulars”) from the person who wrote the letter. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(6) Where a person to whom a form is returned duly completes and returns the form, if the form is received by the Secretary of State within– *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(6) Where a person to whom a form is returned duly completes and returns the form, if the form is received by the Secretary of State within– *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-- (a) 14 days after the date on which the form was returned by the Secretary of State, the time for making the appeal shall be extended by 14 days following the date on which the form was returned; *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
-- (b) such longer period as the Secretary of State may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (a) 14 days after the date on which the form was returned by the Secretary of State, the time for making the appeal shall be extended by 14 days following the date on which the form was returned; *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
+- (b) such longer period as the Secretary of State may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(7) Where a person from whom further particulars are requested duly sends the further particulars, if the particulars are received by the Secretary of State within— *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(7) Where a person from whom further particulars are requested duly sends the further particulars, if the particulars are received by the Secretary of State within— *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-- (a) 14 days after the date on which the Secretary of State's request was made, the time for making the appeal shall be extended by 14 days following the date of the request; *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
-- (b) such longer period as the Secretary of State may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (a) 14 days after the date on which the Secretary of State's request was made, the time for making the appeal shall be extended by 14 days following the date of the request; *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
+- (b) such longer period as the Secretary of State may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(8) Where a person to whom a form is returned or from whom further particulars are requested does not complete and return the form or send further particulars within the period of time specified in sub-paragraph (6) or (7)— *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(8) Where a person to whom a form is returned or from whom further particulars are requested does not complete and return the form or send further particulars within the period of time specified in sub-paragraph (6) or (7)— *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-- (a) the Secretary of State must forward a copy of the form, or as the case may be, the letter, together with any other relevant documents or evidence to the First-tier Tribunal, and *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
-- (b) the First-tier Tribunal shall determine whether the form or the letter satisfies the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (a) the Secretary of State must forward a copy of the form, or as the case may be, the letter, together with any other relevant documents or evidence to the First-tier Tribunal, and *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
+- (b) the First-tier Tribunal shall determine whether the form or the letter satisfies the requirements of the Tribunal Procedure Rules. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(9) Where– *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(9) Where– *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-- (a) a form is duly completed and returned or further particulars are sent after the expiry of the period of time allowed in accordance with sub-paragraph (6) or (7), and *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
-- (b) no decision has been made under sub-paragraph (8) at the time the form or the further particulars are received by the Secretary of State, that form or further particulars must also be forwarded to the First-tier Tribunal which must take into account any further information or evidence set out in the form or further particulars. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+- (a) a form is duly completed and returned or further particulars are sent after the expiry of the period of time allowed in accordance with sub-paragraph (6) or (7), and *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
+- (b) no decision has been made under sub-paragraph (8) at the time the form or the further particulars are received by the Secretary of State, that form or further particulars must also be forwarded to the First-tier Tribunal which must take into account any further information or evidence set out in the form or further particulars. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
-(10) The Secretary of State may discontinue action on an appeal where the notice of appeal has not been forwarded to the First-tier Tribunal and the appellant or an authorised representative of the appellant has given notice that he does not wish the appeal to continue. *(affected by repeal, see note)*[^key-9fee1203029c2b32df0470501b5a14b8]
+(10) The Secretary of State may discontinue action on an appeal where the notice of appeal has not been forwarded to the First-tier Tribunal and the appellant or an authorised representative of the appellant has given notice that he does not wish the appeal to continue. *(affected by repeal, see note)*[^c-9fee1203029c2b32df0470501b5a14b8]
 
 ### 4. Death of a party to an appeal[^c2199919]
 
-(1)[^key-9709477148851aed7911682abd24bd4d] In any proceedings, on the death of a party to those proceedings, the Secretary of State may appoint a person to proceed with the appeal in the place of such deceased party. *(affected by repeal, see note)*[^key-9709477148851aed7911682abd24bd4d]
+(1)[^c-9709477148851aed7911682abd24bd4d] In any proceedings, on the death of a party to those proceedings, the Secretary of State may appoint a person to proceed with the appeal in the place of such deceased party. *(affected by repeal, see note)*[^c-9709477148851aed7911682abd24bd4d]
 
-(2) A grant of probate, confirmation or letters of administration in respect of the estate of the deceased party, whenever taken out, shall have no effect on an appointment made under sub-paragraph (1). *(affected by repeal, see note)*[^key-9709477148851aed7911682abd24bd4d]
+(2) A grant of probate, confirmation or letters of administration in respect of the estate of the deceased party, whenever taken out, shall have no effect on an appointment made under sub-paragraph (1). *(affected by repeal, see note)*[^c-9709477148851aed7911682abd24bd4d]
 
-(3) Where a person appointed under sub-paragraph (1) has, prior to the date of such appointment, taken any action in relation to the appeal on behalf of the deceased party, the appointment shall be treated as having effect on the day immediately prior to the first day on which such action was taken. *(affected by repeal, see note)*[^key-9709477148851aed7911682abd24bd4d]
+(3) Where a person appointed under sub-paragraph (1) has, prior to the date of such appointment, taken any action in relation to the appeal on behalf of the deceased party, the appointment shall be treated as having effect on the day immediately prior to the first day on which such action was taken. *(affected by repeal, see note)*[^c-9709477148851aed7911682abd24bd4d]
 
 *(This note is not part of the Regulations)*
 
@@ -1581,15 +1581,15 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199839]: Commencement: Reg. 2 wholly in force; reg. 2 not in force at made date; reg. 2 in force at 29.7.2013 for certain purposes and reg. 2 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-53341ae82fe07cb7eeb7e23689c9f654]: Textual amendment: Words in Pt. 1 reg. 2 inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(2)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/2/a)
+[^c-53341ae82fe07cb7eeb7e23689c9f654]: Textual amendment: Words in Pt. 1 reg. 2 inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(2)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/2/a)
 
-[^key-a033dd58f44d02b160b8103628d430d1]: Textual amendment: Words in Pt. 1 reg. 2 substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/2/b)
+[^c-a033dd58f44d02b160b8103628d430d1]: Textual amendment: Words in Pt. 1 reg. 2 substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/2/b)
 
 [^c2141968]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
 [^c2141969]: Marginal citation: Paragraph 10A was amended by paragraph 1(1) and (30) of the 2008 Act.
 
-[^key-c71bbb004b85a8ad342f80dc281c1608]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2677/regulation/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2022/503/regulation/22)
+[^c-c71bbb004b85a8ad342f80dc281c1608]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2677/regulation/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2022/503/regulation/22)
 
 [^c2141970]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124 was amended by paragraph 30(2), (4) and (5) of Schedule 2 and paragraph 1 of Schedule 3 to the [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [paragraph 28](https://www.legislation.gov.uk/ukpga/1995/18/paragraph/28) of Schedule 8 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [paragraph 2(2)](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/2/2) of Schedule 2 and paragraph 1 of Schedule 3 to the [State Pensions Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [paragraph 42](https://www.legislation.gov.uk/ukpga/2002/16/paragraph/42) of Schedule 24(3) to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 9 of Schedule 3 to the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
@@ -1615,7 +1615,7 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2141981]: Marginal citation: Section 577 was amended by paragraph 9(4)(a) of Schedule 17 and Part 2(12) of Schedule 42 to the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and by section 10(2) of the [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22).
 
-[^key-db356617e33a169f7611066f5d28da5d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2677/regulation/2A) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2022/503/regulation/23)
+[^c-db356617e33a169f7611066f5d28da5d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2677/regulation/2A) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2022/503/regulation/23)
 
 [^c2199840]: Commencement: Reg. 3 wholly in force; reg. 3 not in force at made date; reg. 3 in force at 29.7.2013 for certain purposes and reg. 3 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1627,7 +1627,7 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199844]: Commencement: Reg. 7 wholly in force; reg. 7 not in force at made date; reg. 7 in force at 29.7.2013 for certain purposes and reg. 7 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-f1227ea0cbd8d7b7ee68a84d4191be0a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/7/3) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2022/503/regulation/24)
+[^c-f1227ea0cbd8d7b7ee68a84d4191be0a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/7/3) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2022/503/regulation/24)
 
 [^c2199845]: Commencement: Reg. 8 wholly in force; reg. 8 not in force at made date; reg. 8 in force at 29.7.2013 for certain purposes and reg. 8 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1641,29 +1641,29 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199848]: Commencement: Reg. 11 wholly in force; reg. 11 not in force at made date; reg. 11 in force at 29.7.2013 for certain purposes and reg. 11 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-7220b91da366e486df9816a5c3f4e26c]: Textual amendment: Words in Pt. 2 reg. 11(1) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/a/i) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-7220b91da366e486df9816a5c3f4e26c]: Textual amendment: Words in Pt. 2 reg. 11(1) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/a/i) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
-[^key-b9960c445f816f7e3ec9b1e9042fad1a]: Textual amendment: Words in Pt. 2 reg. 11(1) omitted (30.6.2014) by virtue of [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/a/ii) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-b9960c445f816f7e3ec9b1e9042fad1a]: Textual amendment: Words in Pt. 2 reg. 11(1) omitted (30.6.2014) by virtue of [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/a/ii) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
-[^key-bd2670f4fb02d5728fe51982391c541f]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/11/2) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/503/regulation/25)
+[^c-bd2670f4fb02d5728fe51982391c541f]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/11/2) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/503/regulation/25)
 
-[^key-5de53cf53ddb8e8f18f1e92d58d730f3]: Textual amendment: Pt. 2 reg. 11(3)-(9) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/c) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-5de53cf53ddb8e8f18f1e92d58d730f3]: Textual amendment: Pt. 2 reg. 11(3)-(9) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/2/c) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
 [^c2199849]: Commencement: Reg. 12 wholly in force; reg. 12 not in force at made date; reg. 12 in force at 29.7.2013 for certain purposes and reg. 12 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-f6c455f799f0d2685aff607caa390034]: Textual amendment: Pt. 3 reg. 12(1): reg. 12 renumbered as reg. 12(1) (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/a) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-f6c455f799f0d2685aff607caa390034]: Textual amendment: Pt. 3 reg. 12(1): reg. 12 renumbered as reg. 12(1) (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/a) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
 [^c2141984]: Marginal citation: Section 11 was substituted by section 1(1) of the 2000 Act and amended by Schedule 8 to the 2008 Act.
 
-[^key-e8160c9c0637b48b4bc064ca59f23f46]: Textual amendment: Words in Pt. 3 reg. 12(1) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/b) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-e8160c9c0637b48b4bc064ca59f23f46]: Textual amendment: Words in Pt. 3 reg. 12(1) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/b) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
-[^key-76f8229ac0d55db038a1f81ef8529117]: Textual amendment: Pt. 3 reg. 12(2) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/c) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-76f8229ac0d55db038a1f81ef8529117]: Textual amendment: Pt. 3 reg. 12(2) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/3/c) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
-[^key-d238206bf5907a6286c4b9218855958b]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/b) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(c)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/c)
+[^c-d238206bf5907a6286c4b9218855958b]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/b) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(c)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/c)
 
-[^key-8b330edf7bbde28e68f9d735af107145]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/a)
+[^c-8b330edf7bbde28e68f9d735af107145]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/a)
 
-[^key-09657a0542c7aa59c88ba4454d875ade]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/c) and word inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/b)
+[^c-09657a0542c7aa59c88ba4454d875ade]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/12/2/c) and word inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2022/503/regulation/26/b)
 
 [^c2199850]: Commencement: Reg. 1 3wholly in force; reg. 1 3not in force at made date; reg. 13 in force at 29.7.2013 for certain purposes and reg. 13 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1675,19 +1675,19 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2141987]: Marginal citation: Section 16(1A) was inserted by section 8(1) and (3) of the 2000 Act and amended by Schedule 8 to the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). The decisions to which section 16(1A) applies are: a maintenance calculation; an interim maintenance decision; a default maintenance decision; a supersession; a decision on a variation referred to an appeal tribunal under section 28D of the 1991 Act.
 
-[^key-8215437652e3989e1350d6e306d42909]: Textual amendment: Pt. 3 reg. 14(1)(a) substituted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/8/2)
+[^c-8215437652e3989e1350d6e306d42909]: Textual amendment: Pt. 3 reg. 14(1)(a) substituted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/8/2)
 
 [^c2141989]: Marginal citation: Section 20 was amended by paragraphs 1(1) and (4) to (6) and 3 of Schedule 7, and Schedule 8, to the 2008 Act and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-eab3695984e03b3920969baaa7fef716]: Textual amendment: Pt. 3 reg. 14(3A) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/4) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-eab3695984e03b3920969baaa7fef716]: Textual amendment: Pt. 3 reg. 14(3A) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/7/4) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
-[^key-9d15476e61bfd2a33bfe4c125951d485]: Textual amendment: Pt. 3 reg. 14A inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/2)
+[^c-9d15476e61bfd2a33bfe4c125951d485]: Textual amendment: Pt. 3 reg. 14A inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/2)
 
 [^c2199852]: Commencement: Reg. 15 wholly in force; reg. 15 not in force at made date; reg. 15 in force at 29.7.2013 for certain purposes and reg. 15 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-3abd693496a8ac3bd9c0c811600b21f2]: Textual amendment: Words in Pt. 3 reg. 15(4)(b) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/3/a)
+[^c-3abd693496a8ac3bd9c0c811600b21f2]: Textual amendment: Words in Pt. 3 reg. 15(4)(b) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/3/a)
 
-[^key-8d8e01aa88b485edb7ac75ff5d0f733a]: Textual amendment: Words in Pt. 3 reg. 15(6) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/3/b)
+[^c-8d8e01aa88b485edb7ac75ff5d0f733a]: Textual amendment: Words in Pt. 3 reg. 15(6) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/3/b)
 
 [^c2199853]: Commencement: Reg. 16 wholly in force; reg. 16 not in force at made date; reg. 16 in force at 29.7.2013 for certain purposes and reg. 16 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1723,7 +1723,7 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199864]: Commencement: Reg. 27 wholly in force; reg. 27 not in force at made date; reg. 27 in force at 29.7.2013 for certain purposes and reg. 27 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-00c97a8b1b6898355ace9884ce502d30]: Textual amendment: Pt. 3 Ch. 5A inserted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2015/338/regulation/8/3)
+[^c-00c97a8b1b6898355ace9884ce502d30]: Textual amendment: Pt. 3 Ch. 5A inserted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2015/338/regulation/8/3)
 
 [^c2199865]: Commencement: Reg. 28 wholly in force; reg. 28 not in force at made date; reg. 28 in force at 29.7.2013 for certain purposes and reg. 28 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1743,25 +1743,25 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199870]: Commencement: Reg. 33 wholly in force; reg. 33 not in force at made date; reg. 33 in force at 29.7.2013 for certain purposes and reg. 33 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-d82d0030b926e674bae550c788985e96]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2012/2677/regulation/33) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2022/503/regulation/27)
+[^c-d82d0030b926e674bae550c788985e96]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2012/2677/regulation/33) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2022/503/regulation/27)
 
 [^c2199871]: Commencement: Reg. 34 wholly in force; reg. 34 not in force at made date; reg. 34 in force at 29.7.2013 for certain purposes and reg. 34 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-1139a0aef7d38f2250f05d493b1805e5]: Modification: Reg. 34(2) modified (temp.) (10.12.2012) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 10 and Transitional Provisions) Order 2012 (S.I. 2012/3042)](https://www.legislation.gov.uk/uksi/2012/3042), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/3042/article/6/a) (which amending art. 6 was omitted (29.7.2013) by virtue of [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), art. 6)
+[^c-1139a0aef7d38f2250f05d493b1805e5]: Modification: Reg. 34(2) modified (temp.) (10.12.2012) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 10 and Transitional Provisions) Order 2012 (S.I. 2012/3042)](https://www.legislation.gov.uk/uksi/2012/3042), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/3042/article/6/a) (which amending art. 6 was omitted (29.7.2013) by virtue of [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), art. 6)
 
-[^key-5b555cd02e9125e4b01fa51bf944038a]: Modification: Reg. 34(2) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(a)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/a)
+[^c-5b555cd02e9125e4b01fa51bf944038a]: Modification: Reg. 34(2) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(a)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/a)
 
-[^key-4d6ac266ad2fb1a7348b0edcde1c78df]: Textual amendment: Words in Pt. 4 reg. 34(2)(b) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/a/i)
+[^c-4d6ac266ad2fb1a7348b0edcde1c78df]: Textual amendment: Words in Pt. 4 reg. 34(2)(b) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/a/i)
 
-[^key-83870ca03c74cb573f173e9a9b2aa9a2]: Textual amendment: Pt. 4 reg. 34(2)(c) and word inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/a/ii)
+[^c-83870ca03c74cb573f173e9a9b2aa9a2]: Textual amendment: Pt. 4 reg. 34(2)(c) and word inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/a/ii)
 
-[^key-8fb8e80bb2709f504943784737293004]: Textual amendment: Pt. 4 reg. 34(2A) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/b)
+[^c-8fb8e80bb2709f504943784737293004]: Textual amendment: Pt. 4 reg. 34(2A) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/2/b)
 
 [^c2199872]: Commencement: Reg. 35 wholly in force; reg. 35 not in force at made date; reg. 35 in force at 29.7.2013 for certain purposes and reg. 35 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
 [^c2199873]: Commencement: Reg. 36 wholly in force; reg. 36 not in force at made date; reg. 36 in force at 29.7.2013 for certain purposes and reg. 36 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-f6e8e4bdcb786c6ea80de31891cac380]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/36/2) substituted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2019/1084/regulation/14)
+[^c-f6e8e4bdcb786c6ea80de31891cac380]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/36/2) substituted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2019/1084/regulation/14)
 
 [^c2141998]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
@@ -1777,13 +1777,13 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199879]: Commencement: Reg. 42 wholly in force; reg. 42 not in force at made date; reg. 42 in force at 29.7.2013 for certain purposes and reg. 42 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-34a5b517d6a9d83b44b6ca3a02622585]: Modification: Reg. 42(1)(a) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(b)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/b)
+[^c-34a5b517d6a9d83b44b6ca3a02622585]: Modification: Reg. 42(1)(a) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(b)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/b)
 
-[^key-6b0fd5e5fe8bd1ed0fb23391ac32283b]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(a)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/a)
+[^c-6b0fd5e5fe8bd1ed0fb23391ac32283b]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(a)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/a)
 
-[^key-d913cd87374b452d90e75c199280f1ab]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/b)
+[^c-d913cd87374b452d90e75c199280f1ab]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) inserted (25.11.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/b)
 
-[^key-a75be4603edfd81673cc59842aaa2dbb]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(c)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/c)
+[^c-a75be4603edfd81673cc59842aaa2dbb]: Textual amendment: Words in Pt. 4 reg. 42(1)(a) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(3)(c)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/3/c)
 
 [^c2199880]: Commencement: Reg. 43 wholly in force; reg. 43 not in force at made date; reg. 43 in force at 29.7.2013 for certain purposes and reg. 43 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1795,7 +1795,7 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142000]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-59ba266e64c6dac2184822eabe9892e0]: Textual amendment: Pt. 4 reg. 44(1)(a)(i) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [40](https://www.legislation.gov.uk/uksi/2017/422/article/40)
+[^c-59ba266e64c6dac2184822eabe9892e0]: Textual amendment: Pt. 4 reg. 44(1)(a)(i) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [40](https://www.legislation.gov.uk/uksi/2017/422/article/40)
 
 [^c2142002]: Marginal citation: Section 44 was amended by section 6 of, and paragraphs 2 and 3 of Schedule 4 to, the [Social Security (Consequential Provisions) Act 1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), [section 190](https://www.legislation.gov.uk/ukpga/1992/6/section/190) of, and paragraph 38 of Schedule 8 to, the [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [section 128(1)](https://www.legislation.gov.uk/ukpga/1993/48/section/128/1) and (2) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 68](https://www.legislation.gov.uk/ukpga/1995/26/section/68) of the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [sections 30(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/30/2) and 35(1) and (5) to (7) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”), section 6 of, and paragraphs 1 and 10 of Schedule 1 to, the [National Insurance Contributions Act 2002 (c.19)](https://www.legislation.gov.uk/ukpga/2002/19), [sections 1(4)](https://www.legislation.gov.uk/ukpga/2002/19/section/1/4), [11(5)(c)](https://www.legislation.gov.uk/ukpga/2002/19/section/11/5/c) and 12(2) of, and paragraph 1 of Schedule 1 and paragraph 5 of Schedule 2 to, the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22), [section 3(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/3/1) and (3) of the [National Insurance Contributions Act 2008 (c.16)](https://www.legislation.gov.uk/ukpga/2008/16) and article 4 of [S.I. 2012/780](https://www.legislation.gov.uk/uksi/2012/780).
 
@@ -1807,7 +1807,7 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142006]: Marginal citation: Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), 2002/1457 and 2011/2426.
 
-[^key-8d110b8b3153eb5624e40fc5e7eac1b3]: Textual amendment: Words in Pt. 4 reg. 44(1)(a)(vii) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/884/regulation/3/3)
+[^c-8d110b8b3153eb5624e40fc5e7eac1b3]: Textual amendment: Words in Pt. 4 reg. 44(1)(a)(vii) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/884/regulation/3/3)
 
 [^c2142007]: Marginal citation: Section 35 was amended by section 2 of the Still-[Birth (Definition) Act 1992 (c.92)](https://www.legislation.gov.uk/ukpga/1992/92), [section 67](https://www.legislation.gov.uk/ukpga/1992/92/section/67) of the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [section 53(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/53/1) and (2) of the 1999 Act, section 53 of, and paragraphs 2 and 4 of Schedule 7 to, the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 11(1)](https://www.legislation.gov.uk/ukpga/2002/22/section/11/1) of, and paragraph 6 of Schedule 1 to, the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18) and [S.I. 1994/1230](https://www.legislation.gov.uk/uksi/1994/1230).
 
@@ -1827,45 +1827,45 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142015]: Marginal citation: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-bcb713d35ff3c6ac8e841e2238d0fe67]: Textual amendment: Word in Pt. 4 reg. 44(1)(g) omitted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [38(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/38/a)
+[^c-bcb713d35ff3c6ac8e841e2238d0fe67]: Textual amendment: Word in Pt. 4 reg. 44(1)(g) omitted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [38(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/38/a)
 
-[^key-978386cf14709c0d2cfa99b8ba235365]: Textual amendment: Pt. 4 reg. 44(1)(i) and word inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [38(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/38/b)
+[^c-978386cf14709c0d2cfa99b8ba235365]: Textual amendment: Pt. 4 reg. 44(1)(i) and word inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [38(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/38/b)
 
-[^key-ab35c6235dbc976becbd2e87e537ed01]: Textual amendment: Word in [reg. 44(1)(h)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/h) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/a)
+[^c-ab35c6235dbc976becbd2e87e537ed01]: Textual amendment: Word in [reg. 44(1)(h)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/h) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/a)
 
-[^key-c7d460b7a5a762891aaaf25f9436104b]: Textual amendment: Word in [reg. 44(1)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/b)
+[^c-c7d460b7a5a762891aaaf25f9436104b]: Textual amendment: Word in [reg. 44(1)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/b)
 
-[^key-5b455e59a89031a5e4c781a5f0645310]: Textual amendment: [Reg. 44(1)(j)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/j) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/c)
+[^c-5b455e59a89031a5e4c781a5f0645310]: Textual amendment: [Reg. 44(1)(j)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/j) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/22/c)
 
-[^key-42a4b5bbf28178f37274b183af0f69d9]: Textual amendment: Words in [reg. 44(1)(j)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/j) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [24](https://www.legislation.gov.uk/uksi/2026/246/article/24)
+[^c-42a4b5bbf28178f37274b183af0f69d9]: Textual amendment: Words in [reg. 44(1)(j)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/44/1/j) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [24](https://www.legislation.gov.uk/uksi/2026/246/article/24)
 
-[^key-4449f352c8f582276150accf698e0267]: Textual amendment: Word in Pt. 4 reg. 44(2) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/a)
+[^c-4449f352c8f582276150accf698e0267]: Textual amendment: Word in Pt. 4 reg. 44(2) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/a)
 
-[^key-26d5bdb3a462ca907994f309a079a27c]: Textual amendment: Pt. 4 reg. 44(2)(e) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/a)
+[^c-26d5bdb3a462ca907994f309a079a27c]: Textual amendment: Pt. 4 reg. 44(2)(e) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/a)
 
 [^c2142016]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25(1) of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19). It was amended by section 29(4) of, and Part 1 of Schedule 7 to, the [Employment Act 1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38).
 
 [^c2142017]: Marginal citation: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35). Section 2 was amended by sections 47 and 51 of, and Schedule 10 to, the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), [section 211(1)](https://www.legislation.gov.uk/ukpga/1993/19/section/211/1) of, and paragraphs 19 and 20 of Schedule 26 to, the [Equality Act 2010 (c.15)](https://www.legislation.gov.uk/ukpga/2010/15) (as inserted by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279)) and [S.I.1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-6935c72f6d74ac5a41fe734d064dfbaa]: Textual amendment: Pt. 4 reg. 44(5) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/b)
+[^c-6935c72f6d74ac5a41fe734d064dfbaa]: Textual amendment: Pt. 4 reg. 44(5) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(3)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/3/b)
 
 [^c2199882]: Commencement: Reg. 45 wholly in force; reg. 45 not in force at made date; reg. 45 in force at 29.7.2013 for certain purposes and reg. 45 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-fd988cecae4cdefcd66689cdb411e344]: Textual amendment: Word in Pt. 4 reg. 45(1)(c) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/4)
+[^c-fd988cecae4cdefcd66689cdb411e344]: Textual amendment: Word in Pt. 4 reg. 45(1)(c) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/4)
 
-[^key-ec201a24189b0af454257cac1b93d3e9]: Textual amendment: Pt. 4 reg. 45(1)(c)(iii)(iv) and semi-colon inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/4)
+[^c-ec201a24189b0af454257cac1b93d3e9]: Textual amendment: Pt. 4 reg. 45(1)(c)(iii)(iv) and semi-colon inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/44/4)
 
 [^c2142018]: Marginal citation: Paragraph 5 of Schedule 1 was amended by paragraphs 1 and 2 of Schedule 4 to the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“**the 2008 Act**”).
 
-[^key-3d6b981c9306b898a23e990fc11b8840]: Textual amendment: Words in Pt. 4 reg. 45(3) substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/a)
+[^c-3d6b981c9306b898a23e990fc11b8840]: Textual amendment: Words in Pt. 4 reg. 45(3) substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/a)
 
-[^key-844f1c74d4566d147e5775349a5f4abe]: Textual amendment: Words in Pt. 4 reg. 45(3) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/b)
+[^c-844f1c74d4566d147e5775349a5f4abe]: Textual amendment: Words in Pt. 4 reg. 45(3) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/b)
 
 [^c2142020]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
 [^c2142021]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 10F was inserted by section 108 of the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-435a6cc50b630b46c7f58982b2bffb74]: Textual amendment: Words in Pt. 4 reg. 45(3) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/c)
+[^c-435a6cc50b630b46c7f58982b2bffb74]: Textual amendment: Words in Pt. 4 reg. 45(3) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/228/regulation/13/2/c)
 
 [^c2142022]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 45A was inserted by section 46 of the [Crime (Sentences) Act 1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43) and amended by sections 304 and 332 of, and paragraphs 37 and 39 of Schedule 32 and Part 7 of Schedule 37 to, the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and sections 1(4), 4(1) and (6), 10(1) and (8) and section 53 of, and paragraphs 1 and 9 of Schedule 1 and Part 1of Schedule 11 to, the [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12). Section 47 was amended by sections 49(3) and 56(2) of, and Schedule 6 to, the [Crime (Sentences) Act 1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), [section 58(1)](https://www.legislation.gov.uk/ukpga/1997/43/section/58/1) of, and paragraph 18 of Schedule 10 to, the [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [section 378(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/378/1) of, and paragraph 97 of Schedule 16 to, the [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52) and sections 1(4), 4(1) and (7) and 55 of, and paragraphs 1 and 10 of Schedule 1 and Part 1 of Schedule 11 to, the Mental Health Act 2007.
 
@@ -1895,13 +1895,13 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142030]: Marginal citation: Section 4 was amended by section 18(1) of the [Child Support Act 1995 (c.34)](https://www.legislation.gov.uk/ukpga/1995/34), [paragraph 19](https://www.legislation.gov.uk/ukpga/1995/34/paragraph/19) of Schedule 7, and Schedule 8, to the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [sections 1(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/1/2) and 2(1) to (3) of, and paragraph 11(1) to (3) of Schedule 3 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) and by section 35(1) of, and Schedule 8 to, the [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6).
 
-[^key-37ea73fcfc2e8596d44cc53dad1a8809]: Textual amendment: Pt. 4 reg. 50(4) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/4)
+[^c-37ea73fcfc2e8596d44cc53dad1a8809]: Textual amendment: Pt. 4 reg. 50(4) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/4)
 
 [^c2199888]: Commencement: Reg. 51 wholly in force; reg. 51 not in force at made date; reg. 51 in force at 29.7.2013 for certain purposes and reg. 51 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-d173aed31da43f3fd7d2aa1e6e9f118c]: Textual amendment: Words in Pt. 4 reg. 51(1) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [28(2)](https://www.legislation.gov.uk/uksi/2017/901/article/28/2)
+[^c-d173aed31da43f3fd7d2aa1e6e9f118c]: Textual amendment: Words in Pt. 4 reg. 51(1) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [28(2)](https://www.legislation.gov.uk/uksi/2017/901/article/28/2)
 
-[^key-7f0de39449a04c6a898febf1e31de8dd]: Textual amendment: Words in Pt. 4 reg. 51(1) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/901/article/14/2)
+[^c-7f0de39449a04c6a898febf1e31de8dd]: Textual amendment: Words in Pt. 4 reg. 51(1) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/901/article/14/2)
 
 [^c2142031]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C(2) is inserted prospectively by section 8 of the [Children and Young Persons Act 2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23); when it is in force, it will replace section 23(5).
 
@@ -1911,15 +1911,15 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142032]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22 was amended by paragraph 19 of Schedule 5 to the [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) and by section 2(2) of the [Children (Leaving Care) Act 2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35); there are other amendments to section 22 that are not relevant to these Regulations.
 
-[^key-f6de386246fe3186cfe3a70827553c92]: Textual amendment: Words in Pt. 4 reg. 53(12) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/901/article/14/3)
+[^c-f6de386246fe3186cfe3a70827553c92]: Textual amendment: Words in Pt. 4 reg. 53(12) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/901/article/14/3)
 
 [^c2142033]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
 [^c2199891]: Commencement: Reg. 54 wholly in force; reg. 54 not in force at made date; reg. 54 in force at 29.7.2013 for certain purposes and reg. 54 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-e0d630edbca717af35c2ddeb4e51c8cb]: Textual amendment: Words in Pt. 4 reg. 54(1) in reg. 54 renumbered as reg. 54(1) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/5)
+[^c-e0d630edbca717af35c2ddeb4e51c8cb]: Textual amendment: Words in Pt. 4 reg. 54(1) in reg. 54 renumbered as reg. 54(1) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/5)
 
-[^key-0a04b00ea2860f47019ca1043f09fe7e]: Textual amendment: Pt. 4 reg. 54(2) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/5)
+[^c-0a04b00ea2860f47019ca1043f09fe7e]: Textual amendment: Pt. 4 reg. 54(2) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/5)
 
 [^c2199892]: Commencement: Reg. 55 wholly in force; reg. 55 not in force at made date; reg. 55 in force at 29.7.2013 for certain purposes and reg. 55 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -1949,37 +1949,37 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199901]: Commencement: Reg. 64 wholly in force; reg. 64 not in force at made date; reg. 64 in force at 29.7.2013 for certain purposes and reg. 64 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-9a3d98ba4cfecc6572cb1147ff5ce7f2]: Textual amendment: Words in [reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/a)
+[^c-9a3d98ba4cfecc6572cb1147ff5ce7f2]: Textual amendment: Words in [reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/a)
 
-[^key-b6dbbb185740f84199dfdffed6b52499]: Textual amendment: Words in reg. 64(2)(a)(i) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/a)
+[^c-b6dbbb185740f84199dfdffed6b52499]: Textual amendment: Words in reg. 64(2)(a)(i) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/a)
 
-[^key-e4832c589b3bd907288e1ff57e47c0b4]: Textual amendment: Words in Pt. 5 reg. 64(2)(a)(i) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/a)
+[^c-e4832c589b3bd907288e1ff57e47c0b4]: Textual amendment: Words in Pt. 5 reg. 64(2)(a)(i) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/a)
 
-[^key-0d9bda7579edffab2338c689a5e8e113]: Textual amendment: [Reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/a/i)
+[^c-0d9bda7579edffab2338c689a5e8e113]: Textual amendment: [Reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/a/i)
 
-[^key-26ec3163671b303d443b80827f1c3b17]: Textual amendment: Words in Pt. 5 reg. 64(2)(a)(i) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/a)
+[^c-26ec3163671b303d443b80827f1c3b17]: Textual amendment: Words in Pt. 5 reg. 64(2)(a)(i) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/a)
 
-[^key-0ad787189d6422d0e059a40edba4739d]: Textual amendment: Words in [reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/a/ii)
+[^c-0ad787189d6422d0e059a40edba4739d]: Textual amendment: Words in [reg. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/a/ii)
 
-[^key-c823a4fe8d439fcded0a08f48a522bee]: Textual amendment: Words in reg. 64(2)(a)(ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/b)
+[^c-c823a4fe8d439fcded0a08f48a522bee]: Textual amendment: Words in reg. 64(2)(a)(ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/b)
 
-[^key-e066b8a169ef36a5b20387a68da8edf3]: Textual amendment: Word in Pt. 5 reg. 64(2)(a)(ii) omitted (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/b)
+[^c-e066b8a169ef36a5b20387a68da8edf3]: Textual amendment: Word in Pt. 5 reg. 64(2)(a)(ii) omitted (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/b)
 
-[^key-3cafa56b779e227d06bf9c9ccddfb03b]: Textual amendment: Word in [reg. 64(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/b)
+[^c-3cafa56b779e227d06bf9c9ccddfb03b]: Textual amendment: Word in [reg. 64(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/b)
 
-[^key-968df67b674e7c28783fb47148324281]: Textual amendment: Pt. 5 reg. 64(2)(a)(iv) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/c)
+[^c-968df67b674e7c28783fb47148324281]: Textual amendment: Pt. 5 reg. 64(2)(a)(iv) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/c)
 
-[^key-e59b386aaa420d8c6cde976b9df41600]: Textual amendment: Word in [reg. 64(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/b)
+[^c-e59b386aaa420d8c6cde976b9df41600]: Textual amendment: Word in [reg. 64(2)(a)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/b)
 
-[^key-1bf785d73f5f925277990768d99a0f23]: Textual amendment: [Reg. 64(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/v) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/c)
+[^c-1bf785d73f5f925277990768d99a0f23]: Textual amendment: [Reg. 64(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/v) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/c)
 
-[^key-bb406f16439efcbdcb0b8f4b6a554e28]: Textual amendment: Words in [reg. 64(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/v) substituted (6.6.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) (No. 2) Order 2022 (S.I. 2022/530)](https://www.legislation.gov.uk/uksi/2022/530), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/530/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/530/article/5/2)
+[^c-bb406f16439efcbdcb0b8f4b6a554e28]: Textual amendment: Words in [reg. 64(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/v) substituted (6.6.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) (No. 2) Order 2022 (S.I. 2022/530)](https://www.legislation.gov.uk/uksi/2022/530), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/530/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/530/article/5/2)
 
-[^key-99bd927ba3d5a4ce770110495c976114]: Textual amendment: [Reg. 64(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/vi) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/c)
+[^c-99bd927ba3d5a4ce770110495c976114]: Textual amendment: [Reg. 64(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/a/vi) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/c)
 
-[^key-9584fe8bf6159c4fede94fae51c8bcb8]: Textual amendment: Reg. 64(2)(ab) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/c)
+[^c-9584fe8bf6159c4fede94fae51c8bcb8]: Textual amendment: Reg. 64(2)(ab) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/article/18/2/c)
 
-[^key-a092434eff5238cf556444f4822781aa]: Textual amendment: [Reg. 64(2)(ba)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/ba) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/d)
+[^c-a092434eff5238cf556444f4822781aa]: Textual amendment: [Reg. 64(2)(ba)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/ba) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/d)
 
 [^c2142038]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -1987,39 +1987,39 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142040]: Marginal citation: Paragraph 10C was amended by paragraph 1(1) and (31) of Schedule 7 to the 2008 Act.
 
-[^key-5849d4577fcc7c95d726fd525719e432]: Textual amendment: Word in Pt. 5 reg. 64(2)(f)(i) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/a)
+[^c-5849d4577fcc7c95d726fd525719e432]: Textual amendment: Word in Pt. 5 reg. 64(2)(f)(i) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/a)
 
-[^key-3a411f6e167f4f560f56582eab9d3f7a]: Textual amendment: Pt. 5 reg. 64(2)(f)(ia) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 35(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/35/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+[^c-3a411f6e167f4f560f56582eab9d3f7a]: Textual amendment: Pt. 5 reg. 64(2)(f)(ia) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 35(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/35/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
 
-[^key-be026dfcd375a0fbefa1f2723bb297a2]: Textual amendment: Word in Pt. 5 reg. 64(2)(f)(ia) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(b)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/b)
+[^c-be026dfcd375a0fbefa1f2723bb297a2]: Textual amendment: Word in Pt. 5 reg. 64(2)(f)(ia) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(b)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/b)
 
-[^key-3e3d1510b0bc3ba2578419ecf4db9dde]: Textual amendment: Pt. 5 reg. 64(2)(f)(iii) and word inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(c)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/c)
+[^c-3e3d1510b0bc3ba2578419ecf4db9dde]: Textual amendment: Pt. 5 reg. 64(2)(f)(iii) and word inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(4)(c)](https://www.legislation.gov.uk/uksi/2017/901/article/14/4/c)
 
-[^key-6572895cd687ef491f3200856d1bb75d]: Textual amendment: Pt. 5 reg. 64(2)(g) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(d)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/d)
+[^c-6572895cd687ef491f3200856d1bb75d]: Textual amendment: Pt. 5 reg. 64(2)(g) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(d)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/d)
 
-[^key-141004cefecf46891def5d300f75c762]: Textual amendment: [Reg. 64(2)(ga)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/ga) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(d)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/d)
+[^c-141004cefecf46891def5d300f75c762]: Textual amendment: [Reg. 64(2)(ga)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/2/ga) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(d)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/d)
 
-[^key-04e61337e926616c2ef3d20aaf4bf123]: Textual amendment: Pt. 5 reg. 64(2)(h) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/b)
+[^c-04e61337e926616c2ef3d20aaf4bf123]: Textual amendment: Pt. 5 reg. 64(2)(h) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/b)
 
-[^key-021bbe3b0d761ab407954f8fec95ce43]: Textual amendment: Words in [reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(e)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/e)
+[^c-021bbe3b0d761ab407954f8fec95ce43]: Textual amendment: Words in [reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [14(2)(e)](https://www.legislation.gov.uk/uksi/2025/227/article/14/2/e)
 
-[^key-e680751653fb84c47954ed8e390c7bfa]: Textual amendment: Words in reg. 64(3)(b) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2021/786/article/18/3)
+[^c-e680751653fb84c47954ed8e390c7bfa]: Textual amendment: Words in reg. 64(3)(b) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2021/786/article/18/3)
 
-[^key-06362a70e06bff0ab227c332d5ac6e80]: Textual amendment: Words in Pt. 5 reg. 64(3)(b) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(c)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/c)
+[^c-06362a70e06bff0ab227c332d5ac6e80]: Textual amendment: Words in Pt. 5 reg. 64(3)(b) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 47(2)(c)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/47/2/c)
 
-[^key-78090a65fb991724f3be994af1c6ccbb]: Textual amendment: [Reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(e)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/e/i)
+[^c-78090a65fb991724f3be994af1c6ccbb]: Textual amendment: [Reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(e)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/e/i)
 
-[^key-822debe6910153f79ac12feee339d79e]: Textual amendment: Words in Pt. 5 reg. 64(3)(b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(f)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/f)
+[^c-822debe6910153f79ac12feee339d79e]: Textual amendment: Words in Pt. 5 reg. 64(3)(b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(f)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/f)
 
-[^key-459b086fcb4aaad1f5f3681f1962dc66]: Textual amendment: Words in [reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/e/ii)
+[^c-459b086fcb4aaad1f5f3681f1962dc66]: Textual amendment: Words in [reg. 64(3)(b)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/64/3/b) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [12(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/12/2/e/ii)
 
-[^key-4b406f5442469635a57884443c5f440f]: Textual amendment: Words in Pt. 5 reg. 64(3) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(e)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/e)
+[^c-4b406f5442469635a57884443c5f440f]: Textual amendment: Words in Pt. 5 reg. 64(3) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 50(e)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/50/e)
 
 [^c2142042]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-0c7958cb21110d6da9f9355e630ebd4c]: Textual amendment: Words in reg. 64(4)(a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 408(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/408/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0c7958cb21110d6da9f9355e630ebd4c]: Textual amendment: Words in reg. 64(4)(a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 408(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/408/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4b09a1a08e2bc2d5d104068c11a72ef7]: Textual amendment: Words in reg. 64(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 408(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/408/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4b09a1a08e2bc2d5d104068c11a72ef7]: Textual amendment: Words in reg. 64(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 408(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/408/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c2142043]: Marginal citation: [S.I. 2005/3360](https://www.legislation.gov.uk/uksi/2005/3360).
 
@@ -2035,15 +2035,15 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2142044]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-69df91eb60963d8fbf9324351bb24326]: Modification: Reg. 69(5) modified (temp.) (10.12.2012) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 10 and Transitional Provisions) Order 2012 (S.I. 2012/3042)](https://www.legislation.gov.uk/uksi/2012/3042), [art. 6(b)](https://www.legislation.gov.uk/uksi/2012/3042/article/6/b) (which amending art. 6 was omitted (29.7.2013) by virtue of [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), art. 6)
+[^c-69df91eb60963d8fbf9324351bb24326]: Modification: Reg. 69(5) modified (temp.) (10.12.2012) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 10 and Transitional Provisions) Order 2012 (S.I. 2012/3042)](https://www.legislation.gov.uk/uksi/2012/3042), [art. 6(b)](https://www.legislation.gov.uk/uksi/2012/3042/article/6/b) (which amending art. 6 was omitted (29.7.2013) by virtue of [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), art. 6)
 
-[^key-6529f2502547f00089c364e8055f3b5c]: Modification: Reg. 69(5) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(c)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/c)
+[^c-6529f2502547f00089c364e8055f3b5c]: Modification: Reg. 69(5) modified (temp.) (29.7.2013) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013 (S.I. 2013/1860)](https://www.legislation.gov.uk/uksi/2013/1860), [art. 7(c)](https://www.legislation.gov.uk/uksi/2013/1860/article/7/c)
 
-[^key-39b8cefd95e7e40d23dafa7caa5fc757]: Textual amendment: Reg. 69(5)(c) and word inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/3/a)
+[^c-39b8cefd95e7e40d23dafa7caa5fc757]: Textual amendment: Reg. 69(5)(c) and word inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/3/a)
 
-[^key-af7e1ce2880dcce28c763f9c85faa288]: Textual amendment: Reg. 69(8)(9) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/3/b)
+[^c-af7e1ce2880dcce28c763f9c85faa288]: Textual amendment: Reg. 69(8)(9) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations 2013 (S.I. 2013/1654)](https://www.legislation.gov.uk/uksi/2013/1654), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/1654/regulation/5/3/b)
 
-[^key-78520ccef5e3457f3f7866cb9870b51c]: Textual amendment: Reg. 69A inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/2/2)
+[^c-78520ccef5e3457f3f7866cb9870b51c]: Textual amendment: Reg. 69A inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/2/2)
 
 [^c2199907]: Commencement: Reg. 70 wholly in force; reg. 70 not in force at made date; reg. 70 in force at 29.7.2013 for certain purposes and reg. 70 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -2063,45 +2063,45 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199912]: Commencement: Reg. 75 wholly in force; reg. 75 not in force at made date; reg. 75 in force at 29.7.2013 for certain purposes and reg. 75 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-7c8930e98817ee0fe749631fce4cf1e0]: Textual amendment: Words in Pt. 5 reg. 75(2) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(6)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/6)
+[^c-7c8930e98817ee0fe749631fce4cf1e0]: Textual amendment: Words in Pt. 5 reg. 75(2) omitted (25.11.2013) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/5), [8(6)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/6)
 
 [^c2199913]: Commencement: Reg. 76 wholly in force; reg. 76 not in force at made date; reg. 76 in force at 29.7.2013 for certain purposes and reg. 76 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-2f2ac88229f471987cf8ef06317b2107]: Textual amendment: [Reg. 76(1)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/1): reg. 76 renumbered as reg. 76(1) (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/a)
+[^c-2f2ac88229f471987cf8ef06317b2107]: Textual amendment: [Reg. 76(1)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/1): reg. 76 renumbered as reg. 76(1) (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/a)
 
-[^key-60cc16148b1ebb55b4c83cae057aa0b8]: Textual amendment: Words in [reg. 76(1)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/1) substituted (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/b)
+[^c-60cc16148b1ebb55b4c83cae057aa0b8]: Textual amendment: Words in [reg. 76(1)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/1) substituted (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/b)
 
 [^c2142046]: Marginal citation: Section 55 was substituted by section 42 of the 2008 Act.
 
 [^c2142047]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 142 defines the terms “child” and “**qualifying young person**” for the purposes of entitlement to child benefit. A child is a person under 16 and a qualifying young person is a person aged 16 or over who satisfies conditions in regulations made by Her Majesty's Treasury. The relevant regulations are [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223) as amended by [S.I. 2007/2150](https://www.legislation.gov.uk/uksi/2007/2150), 2008/1879 and 2009/3268.
 
-[^key-9829e62c3a2d1c4719802c9acdeb6507]: Textual amendment: [Reg. 76(2)-(4)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/2) inserted (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/c)
+[^c-9829e62c3a2d1c4719802c9acdeb6507]: Textual amendment: [Reg. 76(2)-(4)](https://www.legislation.gov.uk/uksi/2012/2677/regulation/76/2) inserted (19.7.2021) by [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2021/763/regulation/4/2/c)
 
 [^c2199914]: Commencement: Reg. 77 wholly in force; reg. 77 not in force at made date; reg. 77 in force at 29.7.2013 for certain purposes and reg. 77 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-63a3f34b5166d790b3270f3151ece87e]: Textual amendment: Words in Pt. 6 reg. 77 heading substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/7)
+[^c-63a3f34b5166d790b3270f3151ece87e]: Textual amendment: Words in Pt. 6 reg. 77 heading substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/7)
 
-[^key-72c41ec1b17b1af56ab924ef8ba701a5]: Textual amendment: Words in Pt. 6 reg. 77 in reg. 77 reunmbered as reg. 77(a) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/8)
+[^c-72c41ec1b17b1af56ab924ef8ba701a5]: Textual amendment: Words in Pt. 6 reg. 77 in reg. 77 reunmbered as reg. 77(a) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/8)
 
-[^key-ad4f5ed8f838cd6362adda074e7a5145]: Textual amendment: Pt. 6 reg. 77(b) and word inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/8)
+[^c-ad4f5ed8f838cd6362adda074e7a5145]: Textual amendment: Pt. 6 reg. 77(b) and word inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/8/8)
 
 [^c2199915]: Commencement: Reg. 78 wholly in force; reg. 78 not in force at made date; reg. 78 in force at 29.7.2013 for certain purposes and reg. 78 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-af1ee4c36c55754a2437451e170e5e16]: Textual amendment: Words in Pt. 6 reg. 78(1)(b) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2017/901/article/28/3)
+[^c-af1ee4c36c55754a2437451e170e5e16]: Textual amendment: Words in Pt. 6 reg. 78(1)(b) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2017/901/article/28/3)
 
 [^c2142048]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C(2) was inserted prospectively by section 8 of the [Children Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23); when it is in force, it will replace section 23(5).
 
-[^key-f005cb7da8d47069df8ab15b3dadf645]: Textual amendment: Words in Pt. 6 reg. 78(1)(c) substituted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(5)(a)](https://www.legislation.gov.uk/uksi/2017/901/article/14/5/a)
+[^c-f005cb7da8d47069df8ab15b3dadf645]: Textual amendment: Words in Pt. 6 reg. 78(1)(c) substituted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(5)(a)](https://www.legislation.gov.uk/uksi/2017/901/article/14/5/a)
 
-[^key-dce0b4e680d45bc52f1dc944a14948d0]: Textual amendment: Words in Pt. 6 reg. 78(1)(c) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/19/2)
+[^c-dce0b4e680d45bc52f1dc944a14948d0]: Textual amendment: Words in Pt. 6 reg. 78(1)(c) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/19/2)
 
 [^c2142049]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-ae6f2574e7dfb8dc8788d9411f6ba614]: Textual amendment: Words in Pt. 6 reg. 78(2) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(5)(b)](https://www.legislation.gov.uk/uksi/2017/901/article/14/5/b)
+[^c-ae6f2574e7dfb8dc8788d9411f6ba614]: Textual amendment: Words in Pt. 6 reg. 78(2) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [14(5)(b)](https://www.legislation.gov.uk/uksi/2017/901/article/14/5/b)
 
-[^key-ecb4321afc40940da60f6caac07394ca]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2022/503/regulation/29)
+[^c-ecb4321afc40940da60f6caac07394ca]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2022/503/regulation/29)
 
-[^key-71ecc06cd6bf99b8935b2044c59d9404]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2677/schedule/2): Sch. renumbered as Sch. 2 (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/503/regulation/28)
+[^c-71ecc06cd6bf99b8935b2044c59d9404]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2677/schedule/2): Sch. renumbered as Sch. 2 (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/503/regulation/28)
 
 [^c2199916]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/1) wholly in force; [sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/1) not in force at made date; [sch. para. 1](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/1) in force at 29.7.2013 for certain purposes and sch. para. 1 in force at 25.11.2013 in so far as not already in force, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2677/regulation/1), SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
@@ -2111,12 +2111,12 @@ An assessment of the impact of these Regulations on the private sector and civil
 
 [^c2199917]: Commencement: Sch. para. 2 wholly in force; sch. para. 2 not in force at made date; sch. para. 2 in force at 29.7.2013 for certain purposes and sch. para. 2 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-526073c7ebe29a388ff3f5c289a9e997]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/2) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
+[^c-526073c7ebe29a388ff3f5c289a9e997]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/2) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
 
 [^c2199918]: Commencement: Sch. para. 3 wholly in force; sch. para. 3 not in force at made date; sch. para. 3 in force at 29.7.2013 for certain purposes and sch. para. 3 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-9fee1203029c2b32df0470501b5a14b8]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/3) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
+[^c-9fee1203029c2b32df0470501b5a14b8]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/3) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
 
 [^c2199919]: Commencement: Sch. para. 4 wholly in force; sch. para. 4 not in force at made date; sch. para. 4 in force at 29.7.2013 for certain purposes and sch. para. 4 in force at 25.11.2013 in so far as not already in force, see reg. 1, SI 2013/1860 and [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947)
 
-[^key-9709477148851aed7911682abd24bd4d]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/4) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))
+[^c-9709477148851aed7911682abd24bd4d]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/2677/schedule/paragraph/4) omitted (28.10.2013) by virtue of [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/6/4) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/8/1))

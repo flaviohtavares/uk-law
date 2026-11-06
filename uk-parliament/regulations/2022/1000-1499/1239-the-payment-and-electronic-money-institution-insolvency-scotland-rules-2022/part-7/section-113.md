@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Application and Interpretation of Part[^key-3333e9a22fdf85e9a228ef1ae9402eb7]
+## 113. Application and Interpretation of Part[^c-3333e9a22fdf85e9a228ef1ae9402eb7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3333e9a22fdf85e9a228ef1ae9402eb7]: Commencement: Rule 113 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-3333e9a22fdf85e9a228ef1ae9402eb7]: Commencement: Rule 113 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

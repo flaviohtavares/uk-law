@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Periodic review of risk designations[^key-944353f78d783f73c5b9865dcb4d4d07]
+## 20. Periodic review of risk designations[^c-944353f78d783f73c5b9865dcb4d4d07]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-944353f78d783f73c5b9865dcb4d4d07]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/9/section/20) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(c)](https://www.legislation.gov.uk/ssi/2015/314/article/2/c)
+[^c-944353f78d783f73c5b9865dcb4d4d07]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/9/section/20) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(c)](https://www.legislation.gov.uk/ssi/2015/314/article/2/c)

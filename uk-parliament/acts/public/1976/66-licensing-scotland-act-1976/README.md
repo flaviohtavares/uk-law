@@ -31,11 +31,11 @@ Licensing (Scotland) Act 1976 (repealed)
 
 1976 c. 66
 
-[^key-06f370b0feb7547ff543461ab6672132]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06f370b0feb7547ff543461ab6672132]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Licensing Boards[^key-06f370b0feb7547ff543461ab6672132]
+### Part I — Licensing Boards[^c-06f370b0feb7547ff543461ab6672132]
 
 **No longer in force.**
 
@@ -48,7 +48,7 @@ Licensing (Scotland) Act 1976 (repealed)
 - [Section 7 — Clerk of licensing boards.](part-i/section-7.md)
 - [Section 8 — Fees payable.](part-i/section-8.md)
 
-### Part II — The General Licensing System[^key-06f370b0feb7547ff543461ab6672132]
+### Part II — The General Licensing System[^c-06f370b0feb7547ff543461ab6672132]
 
 *Extent: S*
 
@@ -89,7 +89,7 @@ Licensing (Scotland) Act 1976 (repealed)
 - [Section 38 — Power of licensing board to make byelaws.](part-ii/section-38.md)
 - [Section 39 — Appeals to sheriff.](part-ii/section-39.md)
 
-### Part III — Seamen’s Canteens[^key-06f370b0feb7547ff543461ab6672132]
+### Part III — Seamen’s Canteens[^c-06f370b0feb7547ff543461ab6672132]
 
 **No longer in force.**
 
@@ -101,13 +101,13 @@ Licensing (Scotland) Act 1976 (repealed)
 - [Section 45 — Provisions of this Act which apply to licensed canteens.](part-iii/section-45.md)
 - [Section 46 — Interpretation of Part III.](part-iii/section-46.md)
 
-### Part IV[^key-06f370b0feb7547ff543461ab6672132]
+### Part IV[^c-06f370b0feb7547ff543461ab6672132]
 
 **No longer in force.**
 
 - [Section 47 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-47.md)
 
-### Part V — The Permitted Hours[^key-06f370b0feb7547ff543461ab6672132]
+### Part V — The Permitted Hours[^c-06f370b0feb7547ff543461ab6672132]
 
 *Extent: S*
 
@@ -129,7 +129,7 @@ Licensing (Scotland) Act 1976 (repealed)
 - [Section 65 — Restriction orders.](part-v/section-65.md)
 - [Section 66 — Temporary restriction of permitted hours.](part-v/section-66.md)
 
-### Part VI — Offences[^key-06f370b0feb7547ff543461ab6672132]
+### Part VI — Offences[^c-06f370b0feb7547ff543461ab6672132]
 
 *Extent: S*
 
@@ -173,7 +173,7 @@ Licensing (Scotland) Act 1976 (repealed)
 - [Section 100 — Restriction on sale or supply of liquor in premises subject to a refreshment licence.](part-vi/section-100.md)
 - [Section 101 — Restriction on sale or supply of liquor in premises subject to entertainment licence.](part-vi/section-101.md)
 
-### Part VII — Clubs[^key-06f370b0feb7547ff543461ab6672132]
+### Part VII — Clubs[^c-06f370b0feb7547ff543461ab6672132]
 
 **No longer in force.**
 
@@ -195,7 +195,7 @@ Licensing (Scotland) Act 1976 (repealed)
 - [Section 117 — Sheriff’s jurisdiction and decision.](part-vii/section-117.md)
 - [Section 118 — Interpretation of Part VII.](part-vii/section-118.md)
 
-### Part VIII — Miscellaneous, Transitional & General[^key-06f370b0feb7547ff543461ab6672132]
+### Part VIII — Miscellaneous, Transitional & General[^c-06f370b0feb7547ff543461ab6672132]
 
 **No longer in force.**
 
@@ -227,7 +227,7 @@ Licensing (Scotland) Act 1976 (repealed)
 
 **No longer in force.**
 
-[^key-06f370b0feb7547ff543461ab6672132] SCHEDULES
+[^c-06f370b0feb7547ff543461ab6672132] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -240,4 +240,4 @@ Licensing (Scotland) Act 1976 (repealed)
 
 ## Annotations
 
-[^key-06f370b0feb7547ff543461ab6672132]: Textual amendment: Act repealed (1.6.2006 for specified purposes, 1.5.2007 for specified purposes, 1.2.2008 for specified purposes, 1.9.2009 in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2006/286](https://www.legislation.gov.uk/ssi/2006/286), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/286/article/2/b) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2006/286/article/3)) (as amended (1.5.2007) by [S.S.I. 2007/128](https://www.legislation.gov.uk/ssi/2007/128), art. 6); S.S.I 2007/129, art. 3, sch.; S.S.I 2007/472, arts. 2, 3, sch. 1, sch. 2
+[^c-06f370b0feb7547ff543461ab6672132]: Textual amendment: Act repealed (1.6.2006 for specified purposes, 1.5.2007 for specified purposes, 1.2.2008 for specified purposes, 1.9.2009 in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2006/286](https://www.legislation.gov.uk/ssi/2006/286), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/286/article/2/b) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2006/286/article/3)) (as amended (1.5.2007) by [S.S.I. 2007/128](https://www.legislation.gov.uk/ssi/2007/128), art. 6); S.S.I 2007/129, art. 3, sch.; S.S.I 2007/472, arts. 2, 3, sch. 1, sch. 2

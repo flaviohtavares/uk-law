@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Conditional grant of planning permission: provision of toilet facilities within certain large developments[^key-e7010e04ea02ccfd2946a56b4bcf0e60][^key-75b6d0c51a9bf5aca0526ef5dd751d94]
+## 26. Conditional grant of planning permission: provision of toilet facilities within certain large developments[^c-e7010e04ea02ccfd2946a56b4bcf0e60][^c-75b6d0c51a9bf5aca0526ef5dd751d94]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7010e04ea02ccfd2946a56b4bcf0e60]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/13/section/26) in force at 1.12.2019 for specified purposes by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-e7010e04ea02ccfd2946a56b4bcf0e60]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/13/section/26) in force at 1.12.2019 for specified purposes by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
 
-[^key-75b6d0c51a9bf5aca0526ef5dd751d94]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/13/section/26) in force at 18.5.2020 for specified purposes by [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/67/regulation/3))
+[^c-75b6d0c51a9bf5aca0526ef5dd751d94]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/13/section/26) in force at 18.5.2020 for specified purposes by [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/67/regulation/3))

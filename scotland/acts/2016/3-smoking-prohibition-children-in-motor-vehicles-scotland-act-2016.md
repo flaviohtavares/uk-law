@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to prohibit smoking in private motor vehicles 
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 17th December 2015 and received Royal Assent on 21st January 2016
 
-## 1. Offence of smoking in a motor vehicle with children[^key-6c5362c43027dad8dcf3d77e4ea445dd]
+## 1. Offence of smoking in a motor vehicle with children[^c-6c5362c43027dad8dcf3d77e4ea445dd]
 
 (1) It is an offence for an adult to smoke in a private motor vehicle when––
 
@@ -45,11 +45,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 2. Fixed penalties[^key-198bcec5099cd037ace3663a09da003b]
+## 2. Fixed penalties[^c-198bcec5099cd037ace3663a09da003b]
 
 The schedule provides for fixed penalties for offences under section 1.
 
-## 3. Powers to enter and require information[^key-2fc67b0ee50a68b6bd47e42401db6bc8]
+## 3. Powers to enter and require information[^c-2fc67b0ee50a68b6bd47e42401db6bc8]
 
 (1) An authorised officer of a local authority may enter and search a private motor vehicle which is parked within the area of the local authority in order to ascertain whether an offence under section 1 has been or is being committed there.
 
@@ -122,17 +122,17 @@ The short title of this Act is the Smoking Prohibition (Children in Motor Vehicl
 
 ### Power to give fixed penalty notices
 
-**1.**[^key-37b3113a575c201ab64772015a0e7429] (1) An authorised officer of a local authority may, if having reason to believe that a person is committing or has committed an offence under section 1 within the area of the local authority, give that person a fixed penalty notice.
+**1.**[^c-37b3113a575c201ab64772015a0e7429] (1) An authorised officer of a local authority may, if having reason to believe that a person is committing or has committed an offence under section 1 within the area of the local authority, give that person a fixed penalty notice.
 
 (2) A constable may, if having reason to believe that a person is committing or has committed an offence under section 1, give that person a fixed penalty notice.
 
 (3) In this schedule, “**fixed penalty notice**” means a notice offering a person the opportunity of discharging any liability to conviction for an offence under section 1 by payment of a fixed penalty.
 
-**2.**[^key-306bd2f3cd1c8575502a45ad675d48ad] A fixed penalty notice for an offence under section 1 may not be given after such time relating to the offence as may be prescribed by regulations made by the Scottish Ministers.
+**2.**[^c-306bd2f3cd1c8575502a45ad675d48ad] A fixed penalty notice for an offence under section 1 may not be given after such time relating to the offence as may be prescribed by regulations made by the Scottish Ministers.
 
 ### Contents of fixed penalty notice
 
-**3.**[^key-b9f6841d95453768d83c75c765446f23] (1) A fixed penalty notice must identify the offence under section 1 and give reasonable particulars of the circumstances alleged to constitute that offence.
+**3.**[^c-b9f6841d95453768d83c75c765446f23] (1) A fixed penalty notice must identify the offence under section 1 and give reasonable particulars of the circumstances alleged to constitute that offence.
 
 (2) A fixed penalty notice must also state—
 
@@ -146,7 +146,7 @@ The short title of this Act is the Smoking Prohibition (Children in Motor Vehicl
 
 ### The amount of the penalty and the period for payment
 
-**4.**[^key-4b19f813fe1ca177b37dc15ff016c873] (1) The fixed penalty for an offence under section 1 is £100.
+**4.**[^c-4b19f813fe1ca177b37dc15ff016c873] (1) The fixed penalty for an offence under section 1 is £100.
 
 (2) The period for payment of the fixed penalty is the period of 29 days beginning with the day on which the notice is given.
 
@@ -154,7 +154,7 @@ The short title of this Act is the Smoking Prohibition (Children in Motor Vehicl
 
 ### Effect of notice and payment of penalty
 
-**5.**[^key-92600fbc3e4b6e5063ec85d493a6ccb2] (1) This paragraph applies where a person is served with a fixed penalty notice in respect of an offence under section 1.
+**5.**[^c-92600fbc3e4b6e5063ec85d493a6ccb2] (1) This paragraph applies where a person is served with a fixed penalty notice in respect of an offence under section 1.
 
 (2) No proceedings for the offence may be commenced before the end of the period for payment of the penalty.
 
@@ -169,7 +169,7 @@ is sufficient evidence of the facts stated.
 
 ### Request for hearing
 
-**6.**[^key-34bc8d97130d82fff411dff13e2c6e66] (1) A person to whom a fixed penalty notice has been given may, before the expiry of the period for payment of the penalty, give notice requesting a hearing in respect of the offence under section 1.
+**6.**[^c-34bc8d97130d82fff411dff13e2c6e66] (1) A person to whom a fixed penalty notice has been given may, before the expiry of the period for payment of the penalty, give notice requesting a hearing in respect of the offence under section 1.
 
 (2) A notice requesting a hearing under sub-paragraph (1) must be in writing and must be sent by post or delivered to the person specified under paragraph 3(2)(b) in the fixed penalty notice at the address so specified.
 
@@ -183,7 +183,7 @@ is sufficient evidence of the facts stated.
 
 ### Power to withdraw notices
 
-**7.**[^key-c5f0d08d85eec644105cda14f7349dfa] (1) If the local authority considers (whether after holding a hearing under paragraph 6 or not) that a fixed penalty notice which has been given ought not to have been given, it may give to the person to whom it was given a notice withdrawing the fixed penalty notice.
+**7.**[^c-c5f0d08d85eec644105cda14f7349dfa] (1) If the local authority considers (whether after holding a hearing under paragraph 6 or not) that a fixed penalty notice which has been given ought not to have been given, it may give to the person to whom it was given a notice withdrawing the fixed penalty notice.
 
 (2) Where a notice under sub-paragraph (1) is given—
 
@@ -194,15 +194,15 @@ is sufficient evidence of the facts stated.
 
 ### Effect of prosecution on notice
 
-**8.**[^key-3034b6612005b9c082c77aae12b31f9c] Where proceedings for an offence under section 1 in respect of which a fixed penalty notice has been given are commenced, the notice is to be treated as withdrawn.
+**8.**[^c-3034b6612005b9c082c77aae12b31f9c] Where proceedings for an offence under section 1 in respect of which a fixed penalty notice has been given are commenced, the notice is to be treated as withdrawn.
 
 ### Recovery of unpaid fixed penalties
 
-**9.**[^key-4622c9b56462aa406299282a423b962d] Subject to paragraphs 7 and 8, where a fixed penalty remains unpaid after the expiry of the period for payment of the penalty it is enforceable in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
+**9.**[^c-4622c9b56462aa406299282a423b962d] Subject to paragraphs 7 and 8, where a fixed penalty remains unpaid after the expiry of the period for payment of the penalty it is enforceable in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
 
 ### Judicial determination of enforcement of fixed penalty
 
-**10.**[^key-bcffe7ef6c7b7f1ef59cf37902251ddb] (1) A person against whom a fixed penalty bears to be enforceable under paragraph 9 may apply to the sheriff for a declaration that the fixed penalty is not enforceable on the ground that—
+**10.**[^c-bcffe7ef6c7b7f1ef59cf37902251ddb] (1) A person against whom a fixed penalty bears to be enforceable under paragraph 9 may apply to the sheriff for a declaration that the fixed penalty is not enforceable on the ground that—
 
 - (a) the fixed penalty was paid before the expiry of the period for paying, or
 - (b) the person has made a request for a hearing in accordance with paragraph 6 and no hearing has been held within a reasonable time after the request.
@@ -233,28 +233,28 @@ accordingly, that the fixed penalty is or, as the case may be, is not enforceabl
 
 ## Annotations
 
-[^key-6c5362c43027dad8dcf3d77e4ea445dd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/3/section/1) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-6c5362c43027dad8dcf3d77e4ea445dd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/3/section/1) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-198bcec5099cd037ace3663a09da003b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/3/section/2) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-198bcec5099cd037ace3663a09da003b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/3/section/2) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-2fc67b0ee50a68b6bd47e42401db6bc8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/3/section/3) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-2fc67b0ee50a68b6bd47e42401db6bc8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/3/section/3) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-37b3113a575c201ab64772015a0e7429]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/1) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-37b3113a575c201ab64772015a0e7429]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/1) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-306bd2f3cd1c8575502a45ad675d48ad]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/2) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-306bd2f3cd1c8575502a45ad675d48ad]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/2) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-b9f6841d95453768d83c75c765446f23]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/3) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-b9f6841d95453768d83c75c765446f23]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/3) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-4b19f813fe1ca177b37dc15ff016c873]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/4) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-4b19f813fe1ca177b37dc15ff016c873]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/4) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-92600fbc3e4b6e5063ec85d493a6ccb2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/5) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-92600fbc3e4b6e5063ec85d493a6ccb2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/5) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-34bc8d97130d82fff411dff13e2c6e66]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/6) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-34bc8d97130d82fff411dff13e2c6e66]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/6) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-c5f0d08d85eec644105cda14f7349dfa]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/7) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-c5f0d08d85eec644105cda14f7349dfa]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/7) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-3034b6612005b9c082c77aae12b31f9c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/8) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-3034b6612005b9c082c77aae12b31f9c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/8) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-4622c9b56462aa406299282a423b962d]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/9) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-4622c9b56462aa406299282a423b962d]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/9) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
 
-[^key-bcffe7ef6c7b7f1ef59cf37902251ddb]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/10) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)
+[^c-bcffe7ef6c7b7f1ef59cf37902251ddb]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2016/3/schedule/paragraph/10) in force at 5.12.2016 by [S.S.I. 2016/259](https://www.legislation.gov.uk/ssi/2016/259), [reg. 2](https://www.legislation.gov.uk/ssi/2016/259/regulation/2)

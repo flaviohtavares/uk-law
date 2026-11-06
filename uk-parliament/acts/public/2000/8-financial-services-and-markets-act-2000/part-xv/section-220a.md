@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220A. Power to inspect information held by write-down manager[^key-6e7b8d0108761c7146e0f65467a610bf]
+## 220A. Power to inspect information held by write-down manager[^c-6e7b8d0108761c7146e0f65467a610bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e7b8d0108761c7146e0f65467a610bf]: Textual amendment: [S. 220A](https://www.legislation.gov.uk/ukpga/2000/8/section/220A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/7)
+[^c-6e7b8d0108761c7146e0f65467a610bf]: Textual amendment: [S. 220A](https://www.legislation.gov.uk/ukpga/2000/8/section/220A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/7)

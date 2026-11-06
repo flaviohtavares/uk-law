@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Increase of limit on amount of recognisance to be taken from parents and guardians.[^key-f8fe2c08c0f9a2252a0b4e64a1d1586c]
+## 28. Increase of limit on amount of recognisance to be taken from parents and guardians.[^c-f8fe2c08c0f9a2252a0b4e64a1d1586c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8fe2c08c0f9a2252a0b4e64a1d1586c]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1982/48/section/28) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-f8fe2c08c0f9a2252a0b4e64a1d1586c]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1982/48/section/28) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Publication of information[^key-2dbbbd81d9c75f0d522ffc902580ee8d]
+## 50B. Publication of information[^c-2dbbbd81d9c75f0d522ffc902580ee8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dbbbd81d9c75f0d522ffc902580ee8d]: Textual amendment: Ss. 50A-50D inserted (19.7.2005 for the insertion of ss. 50C, 50D and otherwise in accordance with art. 1(4)-(7) (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3), [43](https://www.legislation.gov.uk/uksi/2005/2011/article/43) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-2dbbbd81d9c75f0d522ffc902580ee8d]: Textual amendment: Ss. 50A-50D inserted (19.7.2005 for the insertion of ss. 50C, 50D and otherwise in accordance with art. 1(4)-(7) (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3), [43](https://www.legislation.gov.uk/uksi/2005/2011/article/43) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

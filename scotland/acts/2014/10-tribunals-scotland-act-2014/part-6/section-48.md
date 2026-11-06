@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Appeal from the Tribunal[^key-87377c5af3d02824a0355c872d26e8a1]
+## 48. Appeal from the Tribunal[^c-87377c5af3d02824a0355c872d26e8a1]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87377c5af3d02824a0355c872d26e8a1]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/10/section/48) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-87377c5af3d02824a0355c872d26e8a1]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/10/section/48) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

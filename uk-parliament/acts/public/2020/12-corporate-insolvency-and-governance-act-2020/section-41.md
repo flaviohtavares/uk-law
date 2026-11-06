@@ -32,7 +32,7 @@ summary: ''
   - (a) section 12(2),
   - (b) section 15(2),
   - (c) paragraph 1 of Schedule 4, or
-  - (d) [^key-d2c1cc9f26065cabe5eb8539a8769f20]...
+  - (d) [^c-d2c1cc9f26065cabe5eb8539a8769f20]...
 
 (3) A statutory instrument containing regulations made under subsection (1)(a) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2c1cc9f26065cabe5eb8539a8769f20]: Textual amendment: Words in [s. 41(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/41/2) omitted (1.10.2021) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) (No. 2) Regulations 2021 (S.I. 2021/1091)](https://www.legislation.gov.uk/uksi/2021/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1091/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2021/1091/regulation/4)
+[^c-d2c1cc9f26065cabe5eb8539a8769f20]: Textual amendment: Words in [s. 41(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/41/2) omitted (1.10.2021) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Schedule 10) (No. 2) Regulations 2021 (S.I. 2021/1091)](https://www.legislation.gov.uk/uksi/2021/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1091/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2021/1091/regulation/4)

@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT, WALES
 
-The Local Government (Performance Indicators) (Wales) Order 2012 (revoked)[^key-df5e2a6d4db9dad531f225ced50d3aef]
+The Local Government (Performance Indicators) (Wales) Order 2012 (revoked)[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Made
 
@@ -43,57 +43,57 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1(3)
 
-[^key-df5e2a6d4db9dad531f225ced50d3aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df5e2a6d4db9dad531f225ced50d3aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## 1. Title, commencement and application[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Performance indicators[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## 2. Performance indicators[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and Saving[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## 3. Revocation and Saving[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df5e2a6d4db9dad531f225ced50d3aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df5e2a6d4db9dad531f225ced50d3aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SOCIAL SERVICES INDICATORS[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## SCHEDULE 1 — SOCIAL SERVICES INDICATORS[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — HOUSING INDICATORS[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## SCHEDULE 2 — HOUSING INDICATORS[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — EDUCATION INDICATORS[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## SCHEDULE 3 — EDUCATION INDICATORS[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — WASTE MANAGEMENT INDICATORS[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## SCHEDULE 4 — WASTE MANAGEMENT INDICATORS[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — TRANSPORT INDICATORS[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## SCHEDULE 5 — TRANSPORT INDICATORS[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — CULTURE AND SPORT INDICATORS[^key-df5e2a6d4db9dad531f225ced50d3aef]
+## SCHEDULE 6 — CULTURE AND SPORT INDICATORS[^c-df5e2a6d4db9dad531f225ced50d3aef]
 
 Article 2
 
@@ -101,8 +101,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-df5e2a6d4db9dad531f225ced50d3aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df5e2a6d4db9dad531f225ced50d3aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df5e2a6d4db9dad531f225ced50d3aef]: Textual amendment: Order revoked (W.) (24.11.2016) by [The Local Government (Performance Indicators) (Wales) (Revocation) Order 2016 (S.I. 2016/1057)](https://www.legislation.gov.uk/uksi/2016/1057), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1057/article/1/2), [2](https://www.legislation.gov.uk/uksi/2016/1057/article/2)
+[^c-df5e2a6d4db9dad531f225ced50d3aef]: Textual amendment: Order revoked (W.) (24.11.2016) by [The Local Government (Performance Indicators) (Wales) (Revocation) Order 2016 (S.I. 2016/1057)](https://www.legislation.gov.uk/uksi/2016/1057), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1057/article/1/2), [2](https://www.legislation.gov.uk/uksi/2016/1057/article/2)

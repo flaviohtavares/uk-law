@@ -31,7 +31,7 @@ State Pension Credit Act (Northern Ireland) 2002
 
 An Act to make provision for and in connection with a new social security benefit called state pension credit; and to amend section 43(1) of the Pension Schemes (Northern Ireland) Act 1993.
 
-\[22nd November 2002\][^key-d7c315be8eb8b9491745bdfee19dc4c3][^key-8bd37c13dd09bb2400c618edb43609aa][^key-bd1248734e2fe48ee57104cb7cf6925e][^key-358a3fb6b224b6219884262f004506b5][^key-7014abf5b66f044b8a7a7f41c8b1086c][^key-d6f05040cd380435427941fdb9eb7339][^key-e9f666b05574b6fb9525c26d5984e48c]
+\[22nd November 2002\][^c-d7c315be8eb8b9491745bdfee19dc4c3][^c-8bd37c13dd09bb2400c618edb43609aa][^c-bd1248734e2fe48ee57104cb7cf6925e][^c-358a3fb6b224b6219884262f004506b5][^c-7014abf5b66f044b8a7a7f41c8b1086c][^c-d6f05040cd380435427941fdb9eb7339][^c-e9f666b05574b6fb9525c26d5984e48c]
 
 ## State pension credit: entitlement and amount
 
@@ -96,18 +96,18 @@ An Act to make provision for and in connection with a new social security benefi
 
 (8) Where—
 
-- (a) the claimant is entitled to an allowance under section 70 of the Contributions and Benefits Act (invalid care allowance) or carer support payment[^key-8d22b2ec010ae6a1562bde431902654d]; or
-- (b) if the claimant is a member of a couple, the other member of the couple is entitled to such an allowance or payment[^key-a6bf1701d0c79a12ef55a4e8549df8ff],
+- (a) the claimant is entitled to an allowance under section 70 of the Contributions and Benefits Act (invalid care allowance) or carer support payment[^c-8d22b2ec010ae6a1562bde431902654d]; or
+- (b) if the claimant is a member of a couple, the other member of the couple is entitled to such an allowance or payment[^c-a6bf1701d0c79a12ef55a4e8549df8ff],
 
 there shall be included among the additional amounts prescribed under subsection (3)(b) an amount in respect of that circumstance.
 
-(8A)[^key-e89f57c9b85754c36365d85eaf0536fb] In subsection (8), “**carer support payment**” means the carer support payment component of carer support[^key-f9e3a1f5bc0a24eba412e529f7f425fa] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
+(8A)[^c-e89f57c9b85754c36365d85eaf0536fb] In subsection (8), “**carer support payment**” means the carer support payment component of carer support[^c-f9e3a1f5bc0a24eba412e529f7f425fa] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
 
 (9) Except for the amount of the standard minimum guarantee, the powers conferred by this section to prescribe amounts include power to prescribe nil as an amount.
 
 ### 3. Savings credit[^c17100741]
 
-(1)[^key-5686f70888e13e0d39b4af4a5e354100] The first of the conditions mentioned in section 1(2)(c)(ii) is that the claimant—
+(1)[^c-5686f70888e13e0d39b4af4a5e354100] The first of the conditions mentioned in section 1(2)(c)(ii) is that the claimant—
 
 - (a) has attained pensionable age before 6 April 2016 and has attained the age of 65 (before, on or after that date), or
 - (b) is a member of a couple, the other member of which falls within paragraph (a).
@@ -141,7 +141,7 @@ there shall be included among the additional amounts prescribed under subsection
 
 (8) Regulations may prescribe descriptions of persons in whose case the maximum savings credit shall be taken to be nil.
 
-### 3ZA. Power to limit savings credit for certain mixed-age couples[^key-7e933b62aaea733b433c315ca3b217ac]
+### 3ZA. Power to limit savings credit for certain mixed-age couples[^c-7e933b62aaea733b433c315ca3b217ac]
 
 (1) Regulations may provide that, in prescribed cases, a person who is a member of a mixed-age couple is not entitled to a savings credit.
 
@@ -156,7 +156,7 @@ there shall be included among the additional amounts prescribed under subsection
 
 (1) A claimant is not entitled to state pension credit if he is a member of a couple[^c17100771] the other member of which is entitled to state pension credit.
 
-(1A)[^key-89e6409bd18e6b5ec17a17f3ab28dc84] A claimant is not entitled to state pension credit if he is a member of a couple the other member of which has not attained the qualifying age.
+(1A)[^c-89e6409bd18e6b5ec17a17f3ab28dc84] A claimant is not entitled to state pension credit if he is a member of a couple the other member of which has not attained the qualifying age.
 
 (2) In section 115(2) of the Immigration and Asylum Act 1999 (c. 33) (exclusion from benefits) after “entitled to” insert “ state pension credit under the State Pension Credit Act (Northern Ireland) 2002, or to ”.
 
@@ -170,9 +170,9 @@ Where the claimant is a member of a couple[^c17100791], the income and capital o
 
 ## Retirement provision
 
-### 6. Duty to specify assessed income period for pre-6 April 2016 awards[^key-3e566b6a31df608906a0b8d189bfa850]
+### 6. Duty to specify assessed income period for pre-6 April 2016 awards[^c-3e566b6a31df608906a0b8d189bfa850]
 
-(1) In any case falling within subsection (3) or (4) where the relevant decision takes effect before 6 April 2016[^key-4005c9fe539e89446006c545124ae310] , the Department shall, on the making of the relevant decision, specify a period as the assessed income period, unless prevented by subsection (2).
+(1) In any case falling within subsection (3) or (4) where the relevant decision takes effect before 6 April 2016[^c-4005c9fe539e89446006c545124ae310] , the Department shall, on the making of the relevant decision, specify a period as the assessed income period, unless prevented by subsection (2).
 
 (2) The Department is prevented from specifying a period as the assessed income period under subsection (1)—
 
@@ -225,7 +225,7 @@ on such date or dates and by such amounts as may be prescribed.
 
 (6) For the purposes of this Act “retirement provision” means income of any of the following descriptions—
 
-- (a) retirement pension income, other than benefit under Part 1 of the Pensions Act (Northern Ireland) 2015 or[^key-270d226c709b845766c099619ffcd31f] the Contributions and Benefits Act;
+- (a) retirement pension income, other than benefit under Part 1 of the Pensions Act (Northern Ireland) 2015 or[^c-270d226c709b845766c099619ffcd31f] the Contributions and Benefits Act;
 - (b) income from annuity contracts (other than retirement pension income);
 - (c) income from capital,
 - (d)[^c19528381] PPF periodic payments,
@@ -281,11 +281,11 @@ and an “element” of a person's retirement provision is income of any of thos
 - (c) the claimant attains the age of 65; or
 - (d) in a case where the claimant is a member of a couple, the other member of the couple attains the age of 65.
 
-(5)[^key-080bb8c2d3260e76bab0f67374cf7d18] Regulations may prescribe further times at which, or circumstances in which, an assessed income period shall end.
+(5)[^c-080bb8c2d3260e76bab0f67374cf7d18] Regulations may prescribe further times at which, or circumstances in which, an assessed income period shall end.
 
 (6)[^c22059471] Where—
 
-- (a) an assessed income period is brought to an end, on or after 6 April 2009 but before 6 April 2014,[^key-0237454a04b760b619bfebea19fdff47] by the expiry of a period of 5 years or more, and
+- (a) an assessed income period is brought to an end, on or after 6 April 2009 but before 6 April 2014,[^c-0237454a04b760b619bfebea19fdff47] by the expiry of a period of 5 years or more, and
 - (b) the claimant is aged 80 or over at that time,
 
 the assessed income period shall be treated as not ending at that time but, subject to subsection (4) and provision made under subsection (5), as continuing indefinitely.
@@ -395,11 +395,11 @@ Schedule 1 shall have effect and in that Schedule—
 
 (1) In this Act “retirement pension income” means any of the following—
 
-- (za)[^key-b8a1d46d709432a5827e6e9fbd4e545d] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015 or under Part 1 of the Pensions Act 2014;
+- (za)[^c-b8a1d46d709432a5827e6e9fbd4e545d] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015 or under Part 1 of the Pensions Act 2014;
 - (a) a Category A or Category B retirement pension payable under sections 43 to 55 of—
   - (i) the Contributions and Benefits Act; or
   - (ii) the Social Security Contributions and Benefits Act 1992 (c. 4);
-- (b)[^key-f1b2a3d08ce05c436f02ab104025924e] a shared additional pension payable under—
+- (b)[^c-f1b2a3d08ce05c436f02ab104025924e] a shared additional pension payable under—
   - (i) section 55A of either of those Acts, or
   - (ii) section 55AA of either of those Acts;
 - (c) graduated retirement benefit payable under section 62 of either of those Acts;
@@ -436,7 +436,7 @@ Schedule 1 shall have effect and in that Schedule—
 - “capital” shall be construed in accordance with section 15;
 - “claimant” means a claimant for state pension credit;
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7);
-- “couple” means—[^key-51f459217f14a6abd110de1c24bb7b58]
+- “couple” means—[^c-51f459217f14a6abd110de1c24bb7b58]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
   - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other otherwise than in prescribed circumstances;
 - “the Department” means the Department for Social Development;
@@ -490,7 +490,7 @@ Schedule 1 shall have effect and in that Schedule—
   - (b) a pension or allowance for a widow, widower or surviving civil partner granted under any scheme mentioned in section 641(1)(e) or (f) of the Income Tax (Earnings and Pensions) Act 2003;
 - “working tax credit” means a working tax credit under the Tax Credits Act 2002 (c. 21) to which a person is entitled whether alone or jointly with another.
 
-(1A)[^key-336e80862578d845e3a59c1b5a213db7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-336e80862578d845e3a59c1b5a213db7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations may make provision for the purposes of this Act—
 
@@ -582,51 +582,51 @@ the amount payable for that period shall be such amount as may be prescribed.
 
 ## Annotations
 
-[^key-d7c315be8eb8b9491745bdfee19dc4c3]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into force in accordance with art. 1 of the amending Rule) by [The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens’ Rights Agreement) Order (Northern Ireland) 2019 (S.R. 2019/211)](https://www.legislation.gov.uk/nisr/2019/211), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2019/211/article/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7c315be8eb8b9491745bdfee19dc4c3]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into force in accordance with art. 1 of the amending Rule) by [The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens’ Rights Agreement) Order (Northern Ireland) 2019 (S.R. 2019/211)](https://www.legislation.gov.uk/nisr/2019/211), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2019/211/article/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8bd37c13dd09bb2400c618edb43609aa]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into force in accordance with art. 1 of the amending Rule) by [The Social Security (Switzerland) (Citizens’ Rights Agreement) Order (Northern Ireland) 2019 (S.R. 2019/212)](https://www.legislation.gov.uk/nisr/2019/212), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2019/212/article/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bd37c13dd09bb2400c618edb43609aa]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into force in accordance with art. 1 of the amending Rule) by [The Social Security (Switzerland) (Citizens’ Rights Agreement) Order (Northern Ireland) 2019 (S.R. 2019/212)](https://www.legislation.gov.uk/nisr/2019/212), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2019/212/article/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd1248734e2fe48ee57104cb7cf6925e]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into force in accordance with art. 1 of the amending Rule) by [The Social Security (Ireland) Order (Northern Ireland) 2019 (S.R. 2019/77)](https://www.legislation.gov.uk/nisr/2019/77), [art. 2](https://www.legislation.gov.uk/nisr/2019/77/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd1248734e2fe48ee57104cb7cf6925e]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into force in accordance with art. 1 of the amending Rule) by [The Social Security (Ireland) Order (Northern Ireland) 2019 (S.R. 2019/77)](https://www.legislation.gov.uk/nisr/2019/77), [art. 2](https://www.legislation.gov.uk/nisr/2019/77/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-358a3fb6b224b6219884262f004506b5]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (1.1.2021) by [The Social Security (Norway) Order (Northern Ireland) 2020 (S.R. 2020/357)](https://www.legislation.gov.uk/nisr/2020/357), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2020/357/article/1/2), [2](https://www.legislation.gov.uk/nisr/2020/357/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/357/schedule)
+[^c-358a3fb6b224b6219884262f004506b5]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (1.1.2021) by [The Social Security (Norway) Order (Northern Ireland) 2020 (S.R. 2020/357)](https://www.legislation.gov.uk/nisr/2020/357), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2020/357/article/1/2), [2](https://www.legislation.gov.uk/nisr/2020/357/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/357/schedule)
 
-[^key-7014abf5b66f044b8a7a7f41c8b1086c]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (9.9.2021) by [The Social Security (Switzerland) Order (Northern Ireland) 2021 (S.R. 2021/277)](https://www.legislation.gov.uk/nisr/2021/277), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/277/article/2/2/e), [Sch.](https://www.legislation.gov.uk/nisr/2021/277/schedule)
+[^c-7014abf5b66f044b8a7a7f41c8b1086c]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (9.9.2021) by [The Social Security (Switzerland) Order (Northern Ireland) 2021 (S.R. 2021/277)](https://www.legislation.gov.uk/nisr/2021/277), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/277/article/2/2/e), [Sch.](https://www.legislation.gov.uk/nisr/2021/277/schedule)
 
-[^key-d6f05040cd380435427941fdb9eb7339]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (19.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order (Northern Ireland) 2023 (S.R. 2023/181)](https://www.legislation.gov.uk/nisr/2023/181), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1), [2](https://www.legislation.gov.uk/nisr/2023/181/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/181/schedule)
+[^c-d6f05040cd380435427941fdb9eb7339]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (19.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order (Northern Ireland) 2023 (S.R. 2023/181)](https://www.legislation.gov.uk/nisr/2023/181), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1), [2](https://www.legislation.gov.uk/nisr/2023/181/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/181/schedule)
 
-[^key-e9f666b05574b6fb9525c26d5984e48c]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into operation in accordance with art. 1(3) of the amending Rule) by [The Social Security (Gibraltar) Order (Northern Ireland) 2024 (S.R. 2024/21)](https://www.legislation.gov.uk/nisr/2024/21), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2024/21/article/2/2/e)
+[^c-e9f666b05574b6fb9525c26d5984e48c]: Modification: [Act](https://www.legislation.gov.uk/nia/2002/14) modified (coming into operation in accordance with art. 1(3) of the amending Rule) by [The Social Security (Gibraltar) Order (Northern Ireland) 2024 (S.R. 2024/21)](https://www.legislation.gov.uk/nisr/2024/21), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2024/21/article/2/2/e)
 
 [^c17100671]: Textual amendment: mod. by SR 2003/28
 
 [^c17100681]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-8d22b2ec010ae6a1562bde431902654d]: Textual amendment: Words in [s. 2(8)(a)](https://www.legislation.gov.uk/nia/2002/14/section/2/8/a) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/8/2/a)
+[^c-8d22b2ec010ae6a1562bde431902654d]: Textual amendment: Words in [s. 2(8)(a)](https://www.legislation.gov.uk/nia/2002/14/section/2/8/a) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/8/2/a)
 
-[^key-a6bf1701d0c79a12ef55a4e8549df8ff]: Textual amendment: Words in [s. 2(8)(b)](https://www.legislation.gov.uk/nia/2002/14/section/2/8/b) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/8/2/b)
+[^c-a6bf1701d0c79a12ef55a4e8549df8ff]: Textual amendment: Words in [s. 2(8)(b)](https://www.legislation.gov.uk/nia/2002/14/section/2/8/b) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/8/2/b)
 
-[^key-e89f57c9b85754c36365d85eaf0536fb]: Textual amendment: [S. 2(8A)](https://www.legislation.gov.uk/nia/2002/14/section/2/8A) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 8(3)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/8/3)
+[^c-e89f57c9b85754c36365d85eaf0536fb]: Textual amendment: [S. 2(8A)](https://www.legislation.gov.uk/nia/2002/14/section/2/8A) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 8(3)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/8/3)
 
-[^key-f9e3a1f5bc0a24eba412e529f7f425fa]: Textual amendment: Words in [s. 2(8A)](https://www.legislation.gov.uk/nia/2002/14/section/2/8A) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [31](https://www.legislation.gov.uk/uksi/2026/246/article/31)
+[^c-f9e3a1f5bc0a24eba412e529f7f425fa]: Textual amendment: Words in [s. 2(8A)](https://www.legislation.gov.uk/nia/2002/14/section/2/8A) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [31](https://www.legislation.gov.uk/uksi/2026/246/article/31)
 
 [^c17100741]: Textual amendment: mod. by SR 2003/28
 
-[^key-5686f70888e13e0d39b4af4a5e354100]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/nia/2002/14/section/3/1) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 73](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/73)
+[^c-5686f70888e13e0d39b4af4a5e354100]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/nia/2002/14/section/3/1) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 73](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/73)
 
-[^key-7e933b62aaea733b433c315ca3b217ac]: Textual amendment: S. 3ZA inserted (14.9.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 74](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/74); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2015/329/article/2/2/c)
+[^c-7e933b62aaea733b433c315ca3b217ac]: Textual amendment: S. 3ZA inserted (14.9.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 74](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/74); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2015/329/article/2/2/c)
 
 [^c17100771]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-89e6409bd18e6b5ec17a17f3ab28dc84]: Textual amendment: [S. 4(1A)](https://www.legislation.gov.uk/nia/2002/14/section/4/1A) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 53](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/53); [S.R. 2019/4](https://www.legislation.gov.uk/nisr/2019/4), [art. 3](https://www.legislation.gov.uk/nisr/2019/4/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2019/4/article/4), [6-8](https://www.legislation.gov.uk/nisr/2019/4/article/6)) (as amended by [S.R. 2019/107](https://www.legislation.gov.uk/nisr/2019/107), art. 2 and (8.6.2024) by [S.R. 2024/118](https://www.legislation.gov.uk/nisr/2024/118), [arts. 1](https://www.legislation.gov.uk/nisr/2024/118/article/1), [2](https://www.legislation.gov.uk/nisr/2024/118/article/2))
+[^c-89e6409bd18e6b5ec17a17f3ab28dc84]: Textual amendment: [S. 4(1A)](https://www.legislation.gov.uk/nia/2002/14/section/4/1A) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 53](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/53); [S.R. 2019/4](https://www.legislation.gov.uk/nisr/2019/4), [art. 3](https://www.legislation.gov.uk/nisr/2019/4/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2019/4/article/4), [6-8](https://www.legislation.gov.uk/nisr/2019/4/article/6)) (as amended by [S.R. 2019/107](https://www.legislation.gov.uk/nisr/2019/107), art. 2 and (8.6.2024) by [S.R. 2024/118](https://www.legislation.gov.uk/nisr/2024/118), [arts. 1](https://www.legislation.gov.uk/nisr/2024/118/article/1), [2](https://www.legislation.gov.uk/nisr/2024/118/article/2))
 
 [^c17100791]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-3e566b6a31df608906a0b8d189bfa850]: Textual amendment: Words in s. 6 heading inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 27(2)](https://www.legislation.gov.uk/nia/2015/5/section/27/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(4)](https://www.legislation.gov.uk/nisr/2015/329/article/2/4)
+[^c-3e566b6a31df608906a0b8d189bfa850]: Textual amendment: Words in s. 6 heading inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 27(2)](https://www.legislation.gov.uk/nia/2015/5/section/27/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(4)](https://www.legislation.gov.uk/nisr/2015/329/article/2/4)
 
-[^key-4005c9fe539e89446006c545124ae310]: Textual amendment: Words in s. 6(1) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 27(1)](https://www.legislation.gov.uk/nia/2015/5/section/27/1), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(4)](https://www.legislation.gov.uk/nisr/2015/329/article/2/4)
+[^c-4005c9fe539e89446006c545124ae310]: Textual amendment: Words in s. 6(1) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 27(1)](https://www.legislation.gov.uk/nia/2015/5/section/27/1), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(4)](https://www.legislation.gov.uk/nisr/2015/329/article/2/4)
 
 [^c17100811]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-270d226c709b845766c099619ffcd31f]: Textual amendment: Words in [s. 7(6)(a)](https://www.legislation.gov.uk/nia/2002/14/section/7/6/a) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 39](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/39)
+[^c-270d226c709b845766c099619ffcd31f]: Textual amendment: Words in [s. 7(6)(a)](https://www.legislation.gov.uk/nia/2002/14/section/7/6/a) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 39](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/39)
 
 [^c19528381]: Textual amendment: S. 7(6)(d) added (14.2.2006) by [S.R. 2006/37](https://www.legislation.gov.uk/nisr/2006/37), [art. 2](https://www.legislation.gov.uk/nisr/2006/37/article/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2006/37/schedule/paragraph/3/2)
 
@@ -638,21 +638,21 @@ the amount payable for that period shall be such amount as may be prescribed.
 
 [^c17100831]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-080bb8c2d3260e76bab0f67374cf7d18]: Modification: S. 9(5) modified (14.9.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 27(3)](https://www.legislation.gov.uk/nia/2015/5/section/27/3), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2015/329/article/2/2/b)
+[^c-080bb8c2d3260e76bab0f67374cf7d18]: Modification: S. 9(5) modified (14.9.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 27(3)](https://www.legislation.gov.uk/nia/2015/5/section/27/3), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2015/329/article/2/2/b)
 
 [^c22059471]: Textual amendment: S. 9(6) added (temp. from 6.4.2009 to 6.4.2014) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 84(4)](https://www.legislation.gov.uk/nia/2008/13/section/84/4), [118(4)](https://www.legislation.gov.uk/nia/2008/13/section/118/4) (with [s. 84(6)](https://www.legislation.gov.uk/nia/2008/13/section/84/6))
 
-[^key-0237454a04b760b619bfebea19fdff47]: Textual amendment: Words in s 9(6)(a) inserted (24.6.2015) by [Pensions Act (NorthernÂ Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/5/section/28/2)
+[^c-0237454a04b760b619bfebea19fdff47]: Textual amendment: Words in s 9(6)(a) inserted (24.6.2015) by [Pensions Act (NorthernÂ Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/5/section/28/2)
 
-[^key-b8a1d46d709432a5827e6e9fbd4e545d]: Textual amendment: [S. 16(1)(za)](https://www.legislation.gov.uk/nia/2002/14/section/16/1/za) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 40](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/40)
+[^c-b8a1d46d709432a5827e6e9fbd4e545d]: Textual amendment: [S. 16(1)(za)](https://www.legislation.gov.uk/nia/2002/14/section/16/1/za) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 40](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/40)
 
-[^key-f1b2a3d08ce05c436f02ab104025924e]: Textual amendment: [S. 16(1)(b)](https://www.legislation.gov.uk/nia/2002/14/section/16/1/b) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 14](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/14)
+[^c-f1b2a3d08ce05c436f02ab104025924e]: Textual amendment: [S. 16(1)(b)](https://www.legislation.gov.uk/nia/2002/14/section/16/1/b) substituted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 14](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/14)
 
 [^c22557221]: Textual amendment: S. 16(1)(k) substituted (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [ss. 14](https://www.legislation.gov.uk/ukpga/2011/15/section/14), [15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2011/15/schedule/1/paragraph/33)
 
 [^c17100891]: Textual amendment: SR 2003/28
 
-[^key-51f459217f14a6abd110de1c24bb7b58]: Textual amendment: Words in s. 17(1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [71(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/71/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-51f459217f14a6abd110de1c24bb7b58]: Textual amendment: Words in s. 17(1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [71(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/71/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17100931]: Textual amendment: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1)
 
@@ -660,6 +660,6 @@ the amount payable for that period shall be such amount as may be prescribed.
 
 [^c19532281]: Textual amendment: S. 17(1): definition of "PPF periodic payments" inserted (14.2.2006) by [S.R. 2006/37](https://www.legislation.gov.uk/nisr/2006/37), [art. 2](https://www.legislation.gov.uk/nisr/2006/37/article/2), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2006/37/schedule/paragraph/3/3)
 
-[^key-336e80862578d845e3a59c1b5a213db7]: Textual amendment: S. 17(1A) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [71(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/71/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-336e80862578d845e3a59c1b5a213db7]: Textual amendment: S. 17(1A) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [71(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/71/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17101111]: Textual amendment: fully exercised by SR 2002/366; 2003/29, 211, 373

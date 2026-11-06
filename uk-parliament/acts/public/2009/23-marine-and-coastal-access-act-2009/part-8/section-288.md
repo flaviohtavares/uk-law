@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Meaning of “enforcement officer”[^key-b797257340da8631298c2d4afd4db7db]
+## 288. Meaning of “enforcement officer”[^c-b797257340da8631298c2d4afd4db7db]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter “**enforcement officer**” means a person who has any powers 
 
 ## Annotations
 
-[^key-b797257340da8631298c2d4afd4db7db]: Commencement: S. 288 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/23)
+[^c-b797257340da8631298c2d4afd4db7db]: Commencement: S. 288 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/23)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A.2A. Court’s duty to consider making participation directions: victims of domestic abuse[^key-a0758e8106ecf6d7df4dc64736bb074f][^key-c31fab2c436238e66887a59bc9717311]
+## 3A.2A. Court’s duty to consider making participation directions: victims of domestic abuse[^c-a0758e8106ecf6d7df4dc64736bb074f][^c-c31fab2c436238e66887a59bc9717311]
 
 *Extent: E+W*
 
@@ -29,12 +29,12 @@ summary: ''
 
 (3) Where the assumption set out in paragraph (1) applies, the court must consider whether it is necessary to make one or more participation directions.
 
-(Attention is drawn to Practice Direction 27C, which makes provision for the attendance at hearings, without the need for an order of the court, of Independent Domestic Violence Advisers and Independent Sexual Violence Advisers.)[^key-4660652e2647580fea383ad9671a3704]
+(Attention is drawn to Practice Direction 27C, which makes provision for the attendance at hearings, without the need for an order of the court, of Independent Domestic Violence Advisers and Independent Sexual Violence Advisers.)[^c-4660652e2647580fea383ad9671a3704]
 
 ## Annotations
 
-[^key-a0758e8106ecf6d7df4dc64736bb074f]: Textual amendment: [Rule 3A.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.2A) inserted (1.10.2021) by [The Family Procedure (Amendment No. 2) Rules 2021 (S.I. 2021/875)](https://www.legislation.gov.uk/uksi/2021/875), [rules 1](https://www.legislation.gov.uk/uksi/2021/875/rule/1), [5](https://www.legislation.gov.uk/uksi/2021/875/rule/5); [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/d)
+[^c-a0758e8106ecf6d7df4dc64736bb074f]: Textual amendment: [Rule 3A.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.2A) inserted (1.10.2021) by [The Family Procedure (Amendment No. 2) Rules 2021 (S.I. 2021/875)](https://www.legislation.gov.uk/uksi/2021/875), [rules 1](https://www.legislation.gov.uk/uksi/2021/875/rule/1), [5](https://www.legislation.gov.uk/uksi/2021/875/rule/5); [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/d)
 
-[^key-c31fab2c436238e66887a59bc9717311]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2010/2955/part/3A) inserted (27.11.2017) by [The Family Procedure (Amendment No. 3) Rules 2017 (S.I. 2017/1033)](https://www.legislation.gov.uk/uksi/2017/1033), [rules 1](https://www.legislation.gov.uk/uksi/2017/1033/rule/1), [3](https://www.legislation.gov.uk/uksi/2017/1033/rule/3)
+[^c-c31fab2c436238e66887a59bc9717311]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2010/2955/part/3A) inserted (27.11.2017) by [The Family Procedure (Amendment No. 3) Rules 2017 (S.I. 2017/1033)](https://www.legislation.gov.uk/uksi/2017/1033), [rules 1](https://www.legislation.gov.uk/uksi/2017/1033/rule/1), [3](https://www.legislation.gov.uk/uksi/2017/1033/rule/3)
 
-[^key-4660652e2647580fea383ad9671a3704]: Textual amendment: Words in [rule 3A.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.2A) inserted (6.4.2023) by [The Family Procedure (Amendment) Rules 2023 (S.I. 2023/61)](https://www.legislation.gov.uk/uksi/2023/61), [rules 1(3)](https://www.legislation.gov.uk/uksi/2023/61/rule/1/3), [4](https://www.legislation.gov.uk/uksi/2023/61/rule/4)
+[^c-4660652e2647580fea383ad9671a3704]: Textual amendment: Words in [rule 3A.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.2A) inserted (6.4.2023) by [The Family Procedure (Amendment) Rules 2023 (S.I. 2023/61)](https://www.legislation.gov.uk/uksi/2023/61), [rules 1(3)](https://www.legislation.gov.uk/uksi/2023/61/rule/1/3), [4](https://www.legislation.gov.uk/uksi/2023/61/rule/4)

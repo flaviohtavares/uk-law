@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Transitional provision and saving: where procurement commenced before 18th April 2016[^key-f89ee183e086217ad59155d36581a7cb]
+## 111. Transitional provision and saving: where procurement commenced before 18th April 2016[^c-f89ee183e086217ad59155d36581a7cb]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ which continues to be subject to the application of the 2012 Regulations as if t
 
 ## Annotations
 
-[^key-f89ee183e086217ad59155d36581a7cb]: Commencement: [Reg. 111](https://www.legislation.gov.uk/ssi/2016/49/regulation/111) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-f89ee183e086217ad59155d36581a7cb]: Commencement: [Reg. 111](https://www.legislation.gov.uk/ssi/2016/49/regulation/111) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

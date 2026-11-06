@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4
 
-### 1. Savings and transitional provision in relation to child practice reviews[^key-37012b73b875f93596e518edee3239eb]
+### 1. Savings and transitional provision in relation to child practice reviews[^c-37012b73b875f93596e518edee3239eb]
 
 (1) Despite the revocation of the Local Safeguarding Children Boards (Wales) Regulations 2006 (“the 2006 Regulations”) by regulation 2 of and Schedule 1 to these Regulations, the 2006 Regulations will continue to apply to child practice reviews which have been commenced but not completed immediately before these Regulations come into force but with the following modifications—
 
@@ -36,4 +36,4 @@ Regulation 4
 
 ## Annotations
 
-[^key-37012b73b875f93596e518edee3239eb]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/4/paragraph/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
+[^c-37012b73b875f93596e518edee3239eb]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/4/paragraph/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)

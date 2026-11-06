@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Notice to creditors and customers[^key-5bcfb15f8a74d81565e7f92f05f240ad]
+## 32. Notice to creditors and customers[^c-5bcfb15f8a74d81565e7f92f05f240ad]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bcfb15f8a74d81565e7f92f05f240ad]: Commencement: Rule 32 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-5bcfb15f8a74d81565e7f92f05f240ad]: Commencement: Rule 32 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

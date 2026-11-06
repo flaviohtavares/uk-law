@@ -35,88 +35,88 @@ supplementing Directive 2001/83/EC of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-e95f209f3fb41ca922f6f030d470f864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95f209f3fb41ca922f6f030d470f864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 1. Scope[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 2. Definitions[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Quality management[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 3. Quality management[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Personnel[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 4. Personnel[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Buildings and facilities[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 5. Buildings and facilities[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Equipment[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 6. Equipment[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Documentation and records[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 7. Documentation and records[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Material management[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 8. Material management[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Production and in-process control[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 9. Production and in-process control[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Packaging and labelling[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 10. Packaging and labelling[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Placing on the market[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 11. Placing on the market[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Laboratory controls[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 12. Laboratory controls[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Validation[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 13. Validation[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Change control[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 14. Change control[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Rejection and returns[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 15. Rejection and returns[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Complaints and recalls[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 16. Complaints and recalls[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Contract manufacturing[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 17. Contract manufacturing[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Repackaging[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 18. Repackaging[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Entry into force[^key-e95f209f3fb41ca922f6f030d470f864]
+## Article 19. Entry into force[^c-e95f209f3fb41ca922f6f030d470f864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e95f209f3fb41ca922f6f030d470f864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95f209f3fb41ca922f6f030d470f864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e95f209f3fb41ca922f6f030d470f864]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(ee)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/ee) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e95f209f3fb41ca922f6f030d470f864]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(ee)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/ee) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

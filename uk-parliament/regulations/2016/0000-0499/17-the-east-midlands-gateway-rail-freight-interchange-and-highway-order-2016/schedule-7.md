@@ -22,7 +22,7 @@ summary: ''
 
 Articles 15 and 16
 
-### PART 1 — NEW AND DIVERTED ROADS[^key-2a3b05663df702ee9927008f0bd54094]
+### PART 1 — NEW AND DIVERTED ROADS[^c-2a3b05663df702ee9927008f0bd54094]
 
 <table>
 <thead>
@@ -52,7 +52,7 @@ Articles 15 and 16
 </tbody>
 </table>
 
-### PART 2 — EXISTING ROADS[^key-9fc1148885385c389ad140df5ab1eba2]
+### PART 2 — EXISTING ROADS[^c-9fc1148885385c389ad140df5ab1eba2]
 
 <table>
 <thead>
@@ -69,6 +69,6 @@ Articles 15 and 16
 
 ## Annotations
 
-[^key-2a3b05663df702ee9927008f0bd54094]: Commencement: Sch. 7 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-2a3b05663df702ee9927008f0bd54094]: Commencement: Sch. 7 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-9fc1148885385c389ad140df5ab1eba2]: Commencement: Sch. 7 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-9fc1148885385c389ad140df5ab1eba2]: Commencement: Sch. 7 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

@@ -51,8 +51,8 @@ the amount specified for the purposes of section 33(1) (maximum penalty) is the 
   - (i) a contravention within section 31(3)(a)(i) by a person which is the designated person for the purpose of Part 6, or
   - (ii) a contravention within section 31(3)(a)(ii) which consists in a failure to comply with a requirement imposed by Part 6,
 
-  the total of all the contract prices for each qualifying defence contract and qualifying sub-contract[^key-5b556249fd2b93ab138a52d3c0c72fb3] to which the person who has been given the penalty notice, or any person associated with that person, is party;
-- (b) in all other cases, the price[^key-256e9fe745c273414fd380a7725e1a88] of the qualifying defence contract.
+  the total of all the contract prices for each qualifying defence contract and qualifying sub-contract[^c-5b556249fd2b93ab138a52d3c0c72fb3] to which the person who has been given the penalty notice, or any person associated with that person, is party;
+- (b) in all other cases, the price[^c-256e9fe745c273414fd380a7725e1a88] of the qualifying defence contract.
 
   | *Relevant amount* |  |  |
   | --- | --- | --- |
@@ -64,6 +64,6 @@ the amount specified for the purposes of section 33(1) (maximum penalty) is the 
 
 ## Annotations
 
-[^key-5b556249fd2b93ab138a52d3c0c72fb3]: Textual amendment: Words in [reg. 50(5)(a)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/50/5/a) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/17/2)
+[^c-5b556249fd2b93ab138a52d3c0c72fb3]: Textual amendment: Words in [reg. 50(5)(a)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/50/5/a) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/17/2)
 
-[^key-256e9fe745c273414fd380a7725e1a88]: Textual amendment: Word in [reg. 50(5)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/50/5/b) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/17/3)
+[^c-256e9fe745c273414fd380a7725e1a88]: Textual amendment: Word in [reg. 50(5)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/50/5/b) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/17/3)

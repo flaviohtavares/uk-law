@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Helicopters - operating conditions and performance requirements[^key-68354d5f0af6262f727099cc88f534aa]
+## 102. Helicopters - operating conditions and performance requirements[^c-68354d5f0af6262f727099cc88f534aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ to reach a place at which, from a height sufficient to enable it to do so, it ca
 
 ## Annotations
 
-[^key-68354d5f0af6262f727099cc88f534aa]: Commencement: [Art. 102](https://www.legislation.gov.uk/uksi/2013/2870/article/102) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-68354d5f0af6262f727099cc88f534aa]: Commencement: [Art. 102](https://www.legislation.gov.uk/uksi/2013/2870/article/102) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

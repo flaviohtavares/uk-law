@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.5. Reasons for decisions[^key-0043730e96a64bbd06c3f8c3e3a8ea0e]
+## 21.5. Reasons for decisions[^c-0043730e96a64bbd06c3f8c3e3a8ea0e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The court must announce at a hearing in public (but in the absence of the jury, 
 
 ## Annotations
 
-[^key-0043730e96a64bbd06c3f8c3e3a8ea0e]: Commencement: [Rule 21.5](https://www.legislation.gov.uk/uksi/2025/909/rule/21.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0043730e96a64bbd06c3f8c3e3a8ea0e]: Commencement: [Rule 21.5](https://www.legislation.gov.uk/uksi/2025/909/rule/21.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

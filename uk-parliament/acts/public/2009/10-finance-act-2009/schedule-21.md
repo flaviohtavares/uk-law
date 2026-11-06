@@ -24,11 +24,11 @@ Section 43
 
 ### Loan relationships
 
-**1.**[^key-9e4cbbbaa425d684f82838a2bd84f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9e4cbbbaa425d684f82838a2bd84f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9e4cbbbaa425d684f82838a2bd84f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9e4cbbbaa425d684f82838a2bd84f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9e4cbbbaa425d684f82838a2bd84f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9e4cbbbaa425d684f82838a2bd84f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Derivative contracts
 
@@ -79,7 +79,7 @@ Section 43
 > - (b) the derivative contract is part of arrangements that have a one-way exchange effect in relation to the company in the accounting period (see section 606A), and
 > - (c) the arrangements cause the company or any other company to gain a tax advantage (other than a negligible tax advantage).
 
-**7.**[^key-4a7989ee9956861d11375ec2180fab4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4a7989ee9956861d11375ec2180fab4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** Immediately before section 607 (pre-contract or abortive expenses) insert— “ Miscellaneous ”.
 
@@ -121,8 +121,8 @@ if those parts were separate accounting periods.
 
 ## Annotations
 
-[^key-9e4cbbbaa425d684f82838a2bd84f8ef]: Textual amendment: [Sch. 21 paras. 1-3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/21/paragraph/1) omitted (with effect in accordance with Sch. 7 Pt. 6 to the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/100)
+[^c-9e4cbbbaa425d684f82838a2bd84f8ef]: Textual amendment: [Sch. 21 paras. 1-3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/21/paragraph/1) omitted (with effect in accordance with Sch. 7 Pt. 6 to the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/100)
 
-[^key-4a7989ee9956861d11375ec2180fab4e]: Textual amendment: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/21/paragraph/7) omitted (with effect in accordance with Sch. 7 Pt. 6 to the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/100)
+[^c-4a7989ee9956861d11375ec2180fab4e]: Textual amendment: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/21/paragraph/7) omitted (with effect in accordance with Sch. 7 Pt. 6 to the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/100)
 
 [^M_F_12b66c8d-4038-4b65-e5b5-6afc3d1359e4]: Textual amendment: Sch. 21 para. 9 omitted (with effect in accordance with Sch. 7 Pt. 6 to the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/100)

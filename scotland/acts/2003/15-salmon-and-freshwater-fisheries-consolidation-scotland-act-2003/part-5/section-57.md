@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Offences by bodies corporate[^key-b873f01f2afa5481126681b8a9d665e6]
+## 57. Offences by bodies corporate[^c-b873f01f2afa5481126681b8a9d665e6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b873f01f2afa5481126681b8a9d665e6]: Commencement: S. 57 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-b873f01f2afa5481126681b8a9d665e6]: Commencement: S. 57 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Adjustment of provisional amount[^key-4862a11af2245972b465cc6318f31d67]
+## 36. Adjustment of provisional amount[^c-4862a11af2245972b465cc6318f31d67]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4862a11af2245972b465cc6318f31d67]: Commencement: Reg. 36 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-4862a11af2245972b465cc6318f31d67]: Commencement: Reg. 36 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

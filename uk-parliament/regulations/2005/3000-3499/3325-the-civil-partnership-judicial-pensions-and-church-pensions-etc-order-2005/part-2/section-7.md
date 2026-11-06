@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**7.**[^key-b3a7728c4c777975f361030f6166f2b4] (1) Section 7 (widows' and widowers' pensions) is amended as follows.
+**7.**[^c-b3a7728c4c777975f361030f6166f2b4] (1) Section 7 (widows' and widowers' pensions) is amended as follows.
 
 (2) For the heading substitute “Widows', widowers' and surviving civil partners' pensions”.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a7728c4c777975f361030f6166f2b4]: Commencement: Art. 7 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-b3a7728c4c777975f361030f6166f2b4]: Commencement: Art. 7 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

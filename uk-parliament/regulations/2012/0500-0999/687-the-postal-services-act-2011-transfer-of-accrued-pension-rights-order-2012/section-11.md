@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendments to the RMPP[^key-79683a0d678003f2af27c71e29979dfa][^key-b49b832108fcab10090fd8013e3beb5f]
+## 11. Amendments to the RMPP[^c-79683a0d678003f2af27c71e29979dfa][^c-b49b832108fcab10090fd8013e3beb5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The trust deed and rules of the RMPP are amended in accordance with the Statemen
 
 ## Annotations
 
-[^key-79683a0d678003f2af27c71e29979dfa]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-79683a0d678003f2af27c71e29979dfa]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-b49b832108fcab10090fd8013e3beb5f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/687/article/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-b49b832108fcab10090fd8013e3beb5f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/687/article/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

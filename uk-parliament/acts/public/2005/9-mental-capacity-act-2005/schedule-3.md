@@ -51,10 +51,10 @@ Section 63
 - (a) as a result of an impairment or insufficiency of his personal faculties, cannot protect his interests, and
 - (b) has reached 16.
 
-(2)[^c2096985] But “**adult**” does not include a child to whom [^key-6ad365ff423796a0c35d7403437d54f1]... the following applies—
+(2)[^c2096985] But “**adult**” does not include a child to whom [^c-6ad365ff423796a0c35d7403437d54f1]... the following applies—
 
 - (a) the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996;
-- (b)[^key-8716c056bec8c5ecd5cc9e3303d32efa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8716c056bec8c5ecd5cc9e3303d32efa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Protective measures
 
@@ -143,7 +143,7 @@ Section 63
 
 (5) The law applicable to the manner of the exercise of a lasting power is the law of the country where it is exercised.
 
-(6)[^key-d97c7655f9f765976430f96dc58e9354] In this Part of this Schedule, “**lasting power**” means—
+(6)[^c-d97c7655f9f765976430f96dc58e9354] In this Part of this Schedule, “**lasting power**” means—
 
 - (a) a lasting power of attorney (see section 9),
 - (b) an enduring power of attorney within the meaning of Schedule 4, or
@@ -323,8 +323,8 @@ is, or has become resident, in a Convention country other than England and Wales
 
 [^c2096985]: Textual amendment: [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/3/paragraph/4/2) inserted (1.11.2012 in accordance with reg. 1(2) of the amending S.I.) by [The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2010/1898/regulation/17), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/10/b)
 
-[^key-6ad365ff423796a0c35d7403437d54f1]: Textual amendment: Words in [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/3/paragraph/4/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/26/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ad365ff423796a0c35d7403437d54f1]: Textual amendment: Words in [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/3/paragraph/4/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/26/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8716c056bec8c5ecd5cc9e3303d32efa]: Textual amendment: [Sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/3/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/26/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8716c056bec8c5ecd5cc9e3303d32efa]: Textual amendment: [Sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/3/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/26/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d97c7655f9f765976430f96dc58e9354]: Modification: Sch. 3 para. 13(6) excluded (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rules 23.2](https://www.legislation.gov.uk/uksi/2017/1035/rule/23.2), [24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1)
+[^c-d97c7655f9f765976430f96dc58e9354]: Modification: Sch. 3 para. 13(6) excluded (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rules 23.2](https://www.legislation.gov.uk/uksi/2017/1035/rule/23.2), [24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1)

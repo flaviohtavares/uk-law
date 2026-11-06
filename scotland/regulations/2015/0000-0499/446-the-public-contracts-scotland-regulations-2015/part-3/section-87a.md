@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87A. Duty owed to economic operators from GPA parties[^key-c3545f79a5ab0b410bc55639717db032]
+## 87A. Duty owed to economic operators from GPA parties[^c-c3545f79a5ab0b410bc55639717db032]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3545f79a5ab0b410bc55639717db032]: Textual amendment: [Reg. 87A](https://www.legislation.gov.uk/ssi/2015/446/regulation/87A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/573/regulation/5/6)
+[^c-c3545f79a5ab0b410bc55639717db032]: Textual amendment: [Reg. 87A](https://www.legislation.gov.uk/ssi/2015/446/regulation/87A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/573/regulation/5/6)

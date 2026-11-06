@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Appeals against decisions of the OGA: information and samples plans[^key-d694a0221b030ec99eed7965f870d661][^key-f4cff2d12dc8278460dcd856b8d6292f]
+## 36. Appeals against decisions of the OGA: information and samples plans[^c-d694a0221b030ec99eed7965f870d661][^c-f4cff2d12dc8278460dcd856b8d6292f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d694a0221b030ec99eed7965f870d661]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/20/section/36) in force at 19.12.2016 for specified purposes by [S.I. 2016/1198](https://www.legislation.gov.uk/uksi/2016/1198), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1198/regulation/2/b)
+[^c-d694a0221b030ec99eed7965f870d661]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/20/section/36) in force at 19.12.2016 for specified purposes by [S.I. 2016/1198](https://www.legislation.gov.uk/uksi/2016/1198), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1198/regulation/2/b)
 
-[^key-f4cff2d12dc8278460dcd856b8d6292f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/20/section/36) in force at 21.10.2017 in so far as not already in force by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)
+[^c-f4cff2d12dc8278460dcd856b8d6292f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/20/section/36) in force at 21.10.2017 in so far as not already in force by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)

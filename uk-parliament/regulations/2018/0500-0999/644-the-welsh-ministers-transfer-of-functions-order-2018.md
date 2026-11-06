@@ -863,7 +863,7 @@ The functions of the Secretary of State under section 137 (Education Transfer Co
 
 (3) The Treasury consent requirement in section 205(1) (the levy) of the 2008 Act ceases to apply in so far as the function under that provision is exercised by the Welsh Ministers.
 
-## 45. Transfer of functions in relation to electoral legislation[^key-f1740e7c7f4d80a37c35b010373ae86b]
+## 45. Transfer of functions in relation to electoral legislation[^c-f1740e7c7f4d80a37c35b010373ae86b]
 
 (1) The functions of a Minister of the Crown conferred by or by virtue of the Acts and instruments listed in Schedule 1, so far as those functions are exercisable within devolved competence [^c22946051], are exercisable by the Welsh Ministers in accordance with that Schedule instead of by the Minister.
 
@@ -898,7 +898,7 @@ Ceri King
 
 Deputy Clerk to the Privy Council
 
-## SCHEDULE 1 — Electoral legislation[^key-c481ecec6052af98d251d7a742cc6e13]
+## SCHEDULE 1 — Electoral legislation[^c-c481ecec6052af98d251d7a742cc6e13]
 
 Article 45
 
@@ -1165,7 +1165,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c22946041]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29); [Part 11](https://www.legislation.gov.uk/uksi/2018/644/part/11) was amended by sections 114 and 115 of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [section 354](https://www.legislation.gov.uk/ukpga/2011/20/section/354) of, and paragraph 13 of Part 2 of Schedule 7 to, the [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [article 5](https://www.legislation.gov.uk/ukpga/2011/25/article/5) of [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [regulation 63](https://www.legislation.gov.uk/uksi/2009/1307/regulation/63) of [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) and regulation 4(2) of [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-f1740e7c7f4d80a37c35b010373ae86b]: Modification: [Art. 45](https://www.legislation.gov.uk/uksi/2018/644/article/45) modified (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1506/article/3)
+[^c-f1740e7c7f4d80a37c35b010373ae86b]: Modification: [Art. 45](https://www.legislation.gov.uk/uksi/2018/644/article/45) modified (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1506/article/3)
 
 [^c22946051]: Marginal citation: *See* section B1, [paragraphs 6](https://www.legislation.gov.uk/uksi/2018/644/paragraph/6) and 7 of Part 1 of, and paragraphs 20 to 27 of Part 2 of Schedule 7A to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) as to the electoral functions which are reserved and consequently outside the legislative competence of the National Assembly for Wales.
 
@@ -1175,7 +1175,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c22946081]: Marginal citation: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-c481ecec6052af98d251d7a742cc6e13]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2018/644/schedule/1) modified (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1506/article/3)
+[^c-c481ecec6052af98d251d7a742cc6e13]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2018/644/schedule/1) modified (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1506/article/3)
 
 [^c22946091]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 

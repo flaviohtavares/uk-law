@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Transfer of responsibility for local land charges to Land Registry[^key-11dfc2cf0b19b90b41876843b6db25f2]
+## 34. Transfer of responsibility for local land charges to Land Registry[^c-11dfc2cf0b19b90b41876843b6db25f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11dfc2cf0b19b90b41876843b6db25f2]: Commencement: S. 34 in force at 12.4.2015, see s. 57(5)(e)
+[^c-11dfc2cf0b19b90b41876843b6db25f2]: Commencement: S. 34 in force at 12.4.2015, see s. 57(5)(e)

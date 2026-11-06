@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Personal licence holders: procedure on receipt of notice of conviction[^key-8bd11f57f720e31c3311d5b014fd7671]
+## 47. Personal licence holders: procedure on receipt of notice of conviction[^c-8bd11f57f720e31c3311d5b014fd7671]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd11f57f720e31c3311d5b014fd7671]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/10/section/47) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-8bd11f57f720e31c3311d5b014fd7671]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/10/section/47) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

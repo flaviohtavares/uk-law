@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Creditors’ winding-up: concurrent petition against member or members[^key-70bcbc1047ac933e3ee2749904b4c9c8]
+## 112. Creditors’ winding-up: concurrent petition against member or members[^c-70bcbc1047ac933e3ee2749904b4c9c8]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70bcbc1047ac933e3ee2749904b4c9c8]: Commencement: S. 112 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-70bcbc1047ac933e3ee2749904b4c9c8]: Commencement: S. 112 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

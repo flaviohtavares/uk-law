@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Postal services[^key-fdeeade5969c13dfdc75abb3ff883844]
+## 13. Postal services[^c-fdeeade5969c13dfdc75abb3ff883844]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdeeade5969c13dfdc75abb3ff883844]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/49/regulation/13) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-fdeeade5969c13dfdc75abb3ff883844]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/49/regulation/13) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00027]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).

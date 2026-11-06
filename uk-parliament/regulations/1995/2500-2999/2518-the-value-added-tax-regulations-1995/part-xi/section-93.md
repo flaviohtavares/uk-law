@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Supplies in the construction industry[^key-fc75e7e71c5c75c453a7f40369653d1c]
+## 93. Supplies in the construction industry[^c-fc75e7e71c5c75c453a7f40369653d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,9 +105,9 @@ as if the person in occupation of the land and that other person were a single t
 
 (14) For the purposes of this regulation a person shall be taken to be in occupation of any land whether he occupies it alone or together with one or more other persons and whether he occupies all of that land or only part of it.
 
-(15) For the purposes of this regulation, any question as to whether one person is connected with another shall be determined in accordance with section 839 of the Taxes Act ; but this is subject to paragraph (16).[^key-a6c4071b4edfc24ae973c8ae8387b25f]
+(15) For the purposes of this regulation, any question as to whether one person is connected with another shall be determined in accordance with section 839 of the Taxes Act ; but this is subject to paragraph (16).[^c-a6c4071b4edfc24ae973c8ae8387b25f]
 
-(16)[^key-b246692ee16c7f352da2b971c7ca9d5f] For the purposes of this regulation—
+(16)[^c-b246692ee16c7f352da2b971c7ca9d5f] For the purposes of this regulation—
 
 - (a) a company is not connected with another company only because both are under the control of—
   - (i) the Crown,
@@ -118,8 +118,8 @@ as if the person in occupation of the land and that other person were a single t
 
 ## Annotations
 
-[^key-fc75e7e71c5c75c453a7f40369653d1c]: Textual amendment: [Reg. 93](https://www.legislation.gov.uk/uksi/1995/2518/regulation/93) substituted (9.6.1999) by [The Value Added Tax (Amendment) (No.3) Regulations 1999 (S.I. 1999/1374)](https://www.legislation.gov.uk/uksi/1999/1374), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1374/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/1374/regulation/2)
+[^c-fc75e7e71c5c75c453a7f40369653d1c]: Textual amendment: [Reg. 93](https://www.legislation.gov.uk/uksi/1995/2518/regulation/93) substituted (9.6.1999) by [The Value Added Tax (Amendment) (No.3) Regulations 1999 (S.I. 1999/1374)](https://www.legislation.gov.uk/uksi/1999/1374), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1374/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/1374/regulation/2)
 
-[^key-a6c4071b4edfc24ae973c8ae8387b25f]: Textual amendment: Words in [reg. 93(15)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/93/15) inserted (15.8.2009) by [The Value Added Tax (Amendment) (No. 3) Regulations 2009 (S.I. 2009/1967)](https://www.legislation.gov.uk/uksi/2009/1967), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1967/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/1967/regulation/4)
+[^c-a6c4071b4edfc24ae973c8ae8387b25f]: Textual amendment: Words in [reg. 93(15)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/93/15) inserted (15.8.2009) by [The Value Added Tax (Amendment) (No. 3) Regulations 2009 (S.I. 2009/1967)](https://www.legislation.gov.uk/uksi/2009/1967), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1967/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/1967/regulation/4)
 
-[^key-b246692ee16c7f352da2b971c7ca9d5f]: Textual amendment: [Reg. 93(16)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/93/16) inserted (15.8.2009) by [The Value Added Tax (Amendment) (No. 3) Regulations 2009 (S.I. 2009/1967)](https://www.legislation.gov.uk/uksi/2009/1967), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1967/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/1967/regulation/5)
+[^c-b246692ee16c7f352da2b971c7ca9d5f]: Textual amendment: [Reg. 93(16)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/93/16) inserted (15.8.2009) by [The Value Added Tax (Amendment) (No. 3) Regulations 2009 (S.I. 2009/1967)](https://www.legislation.gov.uk/uksi/2009/1967), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1967/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/1967/regulation/5)

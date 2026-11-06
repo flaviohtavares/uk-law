@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Audit powers in relation to non-residents.[^key-ac9fc04d9c664ce70ee997128086fc57]
+## 75. Audit powers in relation to non-residents.[^c-ac9fc04d9c664ce70ee997128086fc57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac9fc04d9c664ce70ee997128086fc57]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/1991/31/section/75) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-ac9fc04d9c664ce70ee997128086fc57]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/1991/31/section/75) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

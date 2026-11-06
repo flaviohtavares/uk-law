@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Introduction to this Act[^key-36b511554fb6ce7dd3dcb3af799dd14e]
+## 1. Introduction to this Act[^c-36b511554fb6ce7dd3dcb3af799dd14e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36b511554fb6ce7dd3dcb3af799dd14e]: Commencement: S. 1 in force at 28.4.2026, see [s. 409(1)(a)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/a)
+[^c-36b511554fb6ce7dd3dcb3af799dd14e]: Commencement: S. 1 in force at 28.4.2026, see [s. 409(1)(a)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/a)

@@ -51,7 +51,7 @@ Section 62(2).
 | 1995 c.20. | The Criminal Justice (Scotland) Act 1995. | Section 66. |
 | 1995 c.25. | The Environment Act 1995. | In Schedule 22, paragraph 35. |
 | 1995 c.36. | The Children (Scotland) Act 1995. | In Schedule 4, paragraph 35(6). |
-| 1995 c.40. | The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995. | [^key-877783178cf164e9731af403059ef229]. . . |
+| 1995 c.40. | The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995. | [^c-877783178cf164e9731af403059ef229]. . . |
 |  |  | In Schedule 4, paragraphs 6(4)(a) and (d), 16, 50(7)(b) and 53(3). |
 | 1995 c.46. | The Criminal Procedure (Scotland) Act 1995. | In section 18, subsection (7). |
 |  |  | In section 19(4)(b), the words “, print or impression”. |
@@ -93,4 +93,4 @@ Section 62(2).
 
 [^c441789]: Textual amendment: Words in entry in Sch. 3 repealed (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 8 para. 143(3)(d)](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/143/3/d), [Sch. 10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(y)(aa)(2)(pp)(3)(y)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/y/aa/2/pp/3/y)
 
-[^key-877783178cf164e9731af403059ef229]: Textual amendment: The entry relating to the Protection of Animals (Scotland) Act 1912 in [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/48/schedule/3) repealed (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2006/536/schedule/3)
+[^c-877783178cf164e9731af403059ef229]: Textual amendment: The entry relating to the Protection of Animals (Scotland) Act 1912 in [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/48/schedule/3) repealed (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2006/536/schedule/3)

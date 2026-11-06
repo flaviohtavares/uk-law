@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Operation of Part 5[^key-5492395ec68fce08035c1ddd4b262d61]
+## 60. Operation of Part 5[^c-5492395ec68fce08035c1ddd4b262d61]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5492395ec68fce08035c1ddd4b262d61]: Commencement: Art. 60 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-5492395ec68fce08035c1ddd4b262d61]: Commencement: Art. 60 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

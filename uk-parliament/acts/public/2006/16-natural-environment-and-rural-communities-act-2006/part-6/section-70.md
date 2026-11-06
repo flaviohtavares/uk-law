@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Supplementary[^key-4e1393e305bfc5cea5d55775e0f48dc8][^key-90c9bc2bbec417d70d5dc0bc7fbc574d]
+## 70. Supplementary[^c-4e1393e305bfc5cea5d55775e0f48dc8][^c-90c9bc2bbec417d70d5dc0bc7fbc574d]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e1393e305bfc5cea5d55775e0f48dc8]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2006/16/section/70) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
+[^c-4e1393e305bfc5cea5d55775e0f48dc8]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2006/16/section/70) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
 
-[^key-90c9bc2bbec417d70d5dc0bc7fbc574d]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2006/16/section/70) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
+[^c-90c9bc2bbec417d70d5dc0bc7fbc574d]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2006/16/section/70) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)

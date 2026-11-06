@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Disqualification orders etc.[^key-88b6f7603a6c1fdb082ed80f1c6c0555]
+## 157. Disqualification orders etc.[^c-88b6f7603a6c1fdb082ed80f1c6c0555]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88b6f7603a6c1fdb082ed80f1c6c0555]: Commencement: [S. 157](https://www.legislation.gov.uk/asp/2006/1/section/157) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-88b6f7603a6c1fdb082ed80f1c6c0555]: Commencement: [S. 157](https://www.legislation.gov.uk/asp/2006/1/section/157) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

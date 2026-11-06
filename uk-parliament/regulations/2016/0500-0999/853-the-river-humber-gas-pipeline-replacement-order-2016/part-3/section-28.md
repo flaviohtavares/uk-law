@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Temporary use of land for maintaining the authorised project[^key-4743b8885e985e079651f81f1377096e]
+## 28. Temporary use of land for maintaining the authorised project[^c-4743b8885e985e079651f81f1377096e]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ the requirement to serve not less than 28 days’ notice under paragraph (3) doe
 
 ## Annotations
 
-[^key-4743b8885e985e079651f81f1377096e]: Commencement: Art. 28 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-4743b8885e985e079651f81f1377096e]: Commencement: Art. 28 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Defences[^key-202ac2cf28b8a25865a21a0a1313998e]
+## 61. Defences[^c-202ac2cf28b8a25865a21a0a1313998e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-202ac2cf28b8a25865a21a0a1313998e]: Commencement: S. 61 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-202ac2cf28b8a25865a21a0a1313998e]: Commencement: S. 61 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

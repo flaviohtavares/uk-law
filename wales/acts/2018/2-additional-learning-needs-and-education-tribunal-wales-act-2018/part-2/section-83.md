@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Parents and young people lacking capacity[^key-787e316084d6dd8e6c73c9461c5b7dc3][^key-069deed0f47e38662d03d4c3d5070ed1]
+## 83. Parents and young people lacking capacity[^c-787e316084d6dd8e6c73c9461c5b7dc3][^c-069deed0f47e38662d03d4c3d5070ed1]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-787e316084d6dd8e6c73c9461c5b7dc3]: Commencement: S. 83 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(j)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/j)
+[^c-787e316084d6dd8e6c73c9461c5b7dc3]: Commencement: S. 83 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(j)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/j)
 
-[^key-069deed0f47e38662d03d4c3d5070ed1]: Commencement: S. 83 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-069deed0f47e38662d03d4c3d5070ed1]: Commencement: S. 83 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

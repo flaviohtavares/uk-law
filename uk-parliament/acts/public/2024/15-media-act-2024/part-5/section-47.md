@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Radio multiplex licences[^key-1a71ab33814e53b7f714ce3ea0648578][^key-c0ac9c72d38479b37b2841954a2f6a51]
+## 47. Radio multiplex licences[^c-1a71ab33814e53b7f714ce3ea0648578][^c-c0ac9c72d38479b37b2841954a2f6a51]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a71ab33814e53b7f714ce3ea0648578]: Commencement: S. 47 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
+[^c-1a71ab33814e53b7f714ce3ea0648578]: Commencement: S. 47 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
 
-[^key-c0ac9c72d38479b37b2841954a2f6a51]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2024/15/section/47) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/g) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/2))
+[^c-c0ac9c72d38479b37b2841954a2f6a51]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2024/15/section/47) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/g) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/2))

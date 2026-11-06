@@ -38,7 +38,7 @@ Table
 | The Local Authority Social Services and NHS (Complaints) (England) Regulations 2009 (S.I.2009/309) | Schedule, paragraph 4 |
 | The National Health Service (Miscellaneous Amendments Relating to Community Pharmaceutical Services and Optometrist Prescribing Regulations 2009 (S.I.2009/2205) | Regulation 36 |
 | The National Health Service (Prescribing and Charging Amendments Relating to Pharmaceutical Services) Regulations 2009 (S.I.2009/2230) | Regulation 4 |
-| [^key-7b9486875ef51f00048521c55461d518]. . . | [^key-a52b92f2b43d9e005d0a7caaf161f6a1]. . . |
+| [^c-7b9486875ef51f00048521c55461d518]. . . | [^c-a52b92f2b43d9e005d0a7caaf161f6a1]. . . |
 | The Transfer of Tribunal Functions Order 2010 (S.I.2010/22) | Schedule 3, paragraphs 59 to 61 |
 | The Pharmacy Order 2010 (S.I.2010/231) | Schedule 4, paragraph 42 |
 | The General Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I.2010/234) | Schedule 3, paragraph 13 |
@@ -51,6 +51,6 @@ Table
 
 ## Annotations
 
-[^key-7b9486875ef51f00048521c55461d518]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2017/908/regulation/9/a)
+[^c-7b9486875ef51f00048521c55461d518]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2017/908/regulation/9/a)
 
-[^key-a52b92f2b43d9e005d0a7caaf161f6a1]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2017/908/regulation/9/b)
+[^c-a52b92f2b43d9e005d0a7caaf161f6a1]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2017/908/regulation/9/b)

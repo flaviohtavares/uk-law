@@ -27,7 +27,7 @@ summary: ''
 
 2002 No. 3153 (N.I. 7)
 
-The Environment (Northern Ireland) Order 2002[^key-4172878b81235afbe15bdc04096311ea]
+The Environment (Northern Ireland) Order 2002[^c-4172878b81235afbe15bdc04096311ea]
 
 17th December 2002
 
@@ -152,4 +152,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-4172878b81235afbe15bdc04096311ea]: Modification: Order modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+[^c-4172878b81235afbe15bdc04096311ea]: Modification: Order modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))

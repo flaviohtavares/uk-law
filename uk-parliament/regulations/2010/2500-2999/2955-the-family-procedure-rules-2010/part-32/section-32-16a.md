@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.16A. Registration in the family court of an order registered in the High Court – procedure in the family court[^key-5cfcfcd360fa494e38d5f34432fc4ced]
+## 32.16A. Registration in the family court of an order registered in the High Court – procedure in the family court[^c-5cfcfcd360fa494e38d5f34432fc4ced]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cfcfcd360fa494e38d5f34432fc4ced]: Textual amendment: Rule 32.16A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [95](https://www.legislation.gov.uk/uksi/2013/3204/rule/95) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-5cfcfcd360fa494e38d5f34432fc4ced]: Textual amendment: Rule 32.16A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [95](https://www.legislation.gov.uk/uksi/2013/3204/rule/95) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

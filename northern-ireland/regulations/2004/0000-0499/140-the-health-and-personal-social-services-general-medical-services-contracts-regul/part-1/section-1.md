@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-e526e64a6f231a731067e6fe4a794bad]
+## 1. Citation and commencement[^c-e526e64a6f231a731067e6fe4a794bad]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Health and Personal Social Services (Gener
 
 ## Annotations
 
-[^key-e526e64a6f231a731067e6fe4a794bad]: Commencement: Reg. 1 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-e526e64a6f231a731067e6fe4a794bad]: Commencement: Reg. 1 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

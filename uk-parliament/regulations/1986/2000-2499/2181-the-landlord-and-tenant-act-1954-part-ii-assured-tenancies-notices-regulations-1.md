@@ -45,11 +45,11 @@ Coming into Operation
 
 The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred by section 66 of the Landlord and Tenant Act 1954 as applied by section 58(2) of the Housing Act 1980 and now vested in them[^f00001] and of all other powers enabling them in that behalf, hereby make the following regulations:—
 
-**1.**[^key-48343a13b8cc4c467a76936f1b8fd685] These regulations may be cited as the Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1986 and shall come into operation on 7th January 1987.
+**1.**[^c-48343a13b8cc4c467a76936f1b8fd685] These regulations may be cited as the Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1986 and shall come into operation on 7th January 1987.
 
-**2.**[^key-8474deee928414785278c088422b0553] In these regulations “**the Act**” means the Landlord and Tenant Act 1954.
+**2.**[^c-8474deee928414785278c088422b0553] In these regulations “**the Act**” means the Landlord and Tenant Act 1954.
 
-**3.**[^key-53c41583d1f5fb7633f7ec8fcc142708] The forms prescribed for the purposes of the Act in respect of assured tenancies shall be as follows:—
+**3.**[^c-53c41583d1f5fb7633f7ec8fcc142708] The forms prescribed for the purposes of the Act in respect of assured tenancies shall be as follows:—
 
 - (i) for a notice by a landlord terminating a tenancy under section 25 of the Act, the form set out as Form A in the Schedule to these regulations;
 - (ii) for a notice by a tenant to request a new tenancy under section 26 of the Act, the form set out as Form B in the Schedule to these regulations; and
@@ -57,11 +57,11 @@ The Secretary of State for the Environment, as respects England, and the Secreta
 
 or in each case a form substantially to the like effect.
 
-**4.**[^key-addb0ff785726431c847e3e297dd3644] (1) The Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1983 are hereby revoked.
+**4.**[^c-addb0ff785726431c847e3e297dd3644] (1) The Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1983 are hereby revoked.
 
 (2) Nothing in these regulations shall affect the validity of any notice served before 7th May 1987 if the notice was in the form prescribed by the regulations mentioned in paragraph (1) above or in a form substantially to the like effect.
 
-## SCHEDULE[^key-f998334beddadc728406a0e35baead1f]
+## SCHEDULE[^c-f998334beddadc728406a0e35baead1f]
 
 FORM A
 
@@ -135,14 +135,14 @@ Regulation 4 of these regulations enables notices served before 7th May 1987 to 
 
 [^f00001]: Footnote: S.I. 1974/1896
 
-[^key-48343a13b8cc4c467a76936f1b8fd685]: Commencement: Reg. 1 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
+[^c-48343a13b8cc4c467a76936f1b8fd685]: Commencement: Reg. 1 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
 
-[^key-8474deee928414785278c088422b0553]: Commencement: Reg. 2 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
+[^c-8474deee928414785278c088422b0553]: Commencement: Reg. 2 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
 
-[^key-53c41583d1f5fb7633f7ec8fcc142708]: Commencement: Reg. 3 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
+[^c-53c41583d1f5fb7633f7ec8fcc142708]: Commencement: Reg. 3 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
 
 [^f00002]: Footnote: Added by section 14(2) of the Law of Property Act 1969 (c. 59).
 
-[^key-addb0ff785726431c847e3e297dd3644]: Commencement: Reg. 4 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
+[^c-addb0ff785726431c847e3e297dd3644]: Commencement: Reg. 4 in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
 
-[^key-f998334beddadc728406a0e35baead1f]: Commencement: Sch. in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)
+[^c-f998334beddadc728406a0e35baead1f]: Commencement: Sch. in force at 7.1.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/2181/regulation/1)

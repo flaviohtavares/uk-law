@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In the exercise of their functions relating to homelessness and the prevention of homelessness, a local housing authority or social services authority in England[^key-6e451d5712933b125b23ccbc7e94dd22] shall have regard to such guidance as may from time to time be given by the Secretary of State.
+(1) In the exercise of their functions relating to homelessness and the prevention of homelessness, a local housing authority or social services authority in England[^c-6e451d5712933b125b23ccbc7e94dd22] shall have regard to such guidance as may from time to time be given by the Secretary of State.
 
 (2) The Secretary of State may give guidance either generally or to specified descriptions of authorities.
 
 ## Annotations
 
-[^key-6e451d5712933b125b23ccbc7e94dd22]: Textual amendment: Words in s. 182(1) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/7); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-6e451d5712933b125b23ccbc7e94dd22]: Textual amendment: Words in s. 182(1) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/7); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))

@@ -50,42 +50,42 @@ Coming into force
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 1. Citation, commencement and interpretation[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2010 Regulations[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 2. Amendments to the 2010 Regulations[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 3.[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 4.[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 5.[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provisions[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 6. Transitional provisions[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Review[^key-7ad2f0bf046652c381e3f17243d8b070]
+## 7. Review[^c-7ad2f0bf046652c381e3f17243d8b070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ad2f0bf046652c381e3f17243d8b070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad2f0bf046652c381e3f17243d8b070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ad2f0bf046652c381e3f17243d8b070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad2f0bf046652c381e3f17243d8b070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^M_F_f8ff6807-8168-4e93-95c8-fb6a94158c1d]: Textual amendment: Regulations revoked (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)(6), 21(ii)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/ii)
 
-[^key-7ad2f0bf046652c381e3f17243d8b070]: Textual amendment: Regulations revoked (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2), 21(ii)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/ii)
+[^c-7ad2f0bf046652c381e3f17243d8b070]: Textual amendment: Regulations revoked (26.7.2013 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2), 21(ii)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/ii)

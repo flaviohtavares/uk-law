@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Payment of lump sum death grants: general[^key-b582e94108454f9d0fc22a104e041fd3]
+## 145. Payment of lump sum death grants: general[^c-b582e94108454f9d0fc22a104e041fd3]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b582e94108454f9d0fc22a104e041fd3]: Commencement: Reg. 145 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b582e94108454f9d0fc22a104e041fd3]: Commencement: Reg. 145 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

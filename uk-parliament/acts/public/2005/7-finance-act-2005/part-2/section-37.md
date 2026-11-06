@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the trustees of a settlement[^key-29c8a90793469519d3ac88d52212ff39] hold property on trusts for the benefit of a person, the trustees and that person may jointly make a vulnerable person election in relation to those trusts and that person if—
+(1) Where the trustees of a settlement[^c-29c8a90793469519d3ac88d52212ff39] hold property on trusts for the benefit of a person, the trustees and that person may jointly make a vulnerable person election in relation to those trusts and that person if—
 
 - (a) the person in relation to whom the election is made is a vulnerable person, and
 - (b) the trusts in relation to which the election is made are qualifying trusts.
@@ -52,7 +52,7 @@ summary: ''
 - (a) they must inform the Inland Revenue that the vulnerable person election has ceased to have effect, and
 - (b) they must do so by giving notice containing particulars of the event within the period of 90 days beginning on the date on which they first become aware that the event has occurred.
 
-(7)[^key-c11db00423cf0dd33bf4f84a1e3b2740] Where—
+(7)[^c-c11db00423cf0dd33bf4f84a1e3b2740] Where—
 
 - (a) a vulnerable person election has effect in relation to qualifying trusts,
 - (b) the property held on those trusts is treated for the purposes of TCGA 1992 and of the Tax Acts as comprised in a sub-fund settlement, and
@@ -74,6 +74,6 @@ the vulnerable person election shall have effect, in relation to the trusts ment
 
 ## Annotations
 
-[^key-29c8a90793469519d3ac88d52212ff39]: Textual amendment: Words in s. 37(1) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/2/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7)
+[^c-29c8a90793469519d3ac88d52212ff39]: Textual amendment: Words in s. 37(1) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/2/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7)
 
-[^key-c11db00423cf0dd33bf4f84a1e3b2740]: Textual amendment: S. 37(7)-(9) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 48(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/48/4)[(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/48/5)
+[^c-c11db00423cf0dd33bf4f84a1e3b2740]: Textual amendment: S. 37(7)-(9) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 48(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/48/4)[(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/48/5)

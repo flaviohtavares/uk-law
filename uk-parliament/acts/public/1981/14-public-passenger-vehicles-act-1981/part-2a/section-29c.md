@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29C. Interpretation of Part 2A[^key-78da5d9ad6f5a46a696d9f0545fe8766]
+## 29C. Interpretation of Part 2A[^c-78da5d9ad6f5a46a696d9f0545fe8766]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78da5d9ad6f5a46a696d9f0545fe8766]: Textual amendment: Pt. 2A inserted (E.W) (27.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 33](https://www.legislation.gov.uk/ukpga/2025/24/section/33), [41(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/3)
+[^c-78da5d9ad6f5a46a696d9f0545fe8766]: Textual amendment: Pt. 2A inserted (E.W) (27.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 33](https://www.legislation.gov.uk/ukpga/2025/24/section/33), [41(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/3)

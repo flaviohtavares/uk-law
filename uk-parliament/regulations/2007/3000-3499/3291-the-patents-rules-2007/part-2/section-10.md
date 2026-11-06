@@ -29,7 +29,7 @@ summary: ''
 
 and, if not so mentioned, in the manner prescribed by paragraph (1).
 
-(3) Subject to rules 21, 58(4), 59(3) and 68(2), the period prescribed for the purposes of section 13(2) is sixteen months beginning immediately after[^key-61de19eba17e5cbb5114114a2bc1291d]—
+(3) Subject to rules 21, 58(4), 59(3) and 68(2), the period prescribed for the purposes of section 13(2) is sixteen months beginning immediately after[^c-61de19eba17e5cbb5114114a2bc1291d]—
 
 - (a) where there is no declared priority date, the date of filing of the application; or
 - (b) where there is a declared priority date, that date.
@@ -38,4 +38,4 @@ and, if not so mentioned, in the manner prescribed by paragraph (1).
 
 ## Annotations
 
-[^key-61de19eba17e5cbb5114114a2bc1291d]: Textual amendment: Words in [rule 10(3)](https://www.legislation.gov.uk/uksi/2007/3291/rule/10/3) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-61de19eba17e5cbb5114114a2bc1291d]: Textual amendment: Words in [rule 10(3)](https://www.legislation.gov.uk/uksi/2007/3291/rule/10/3) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

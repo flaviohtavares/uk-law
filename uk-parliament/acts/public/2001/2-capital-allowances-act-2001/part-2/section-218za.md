@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218ZA. Restrictions on writing-down allowances: section 215[^key-e49fe7e9ebd271afb168c20c5934bdb4]
+## 218ZA. Restrictions on writing-down allowances: section 215[^c-e49fe7e9ebd271afb168c20c5934bdb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the amount of expenditure to be left out of account is the greater of X and Y.
 
 ## Annotations
 
-[^key-e49fe7e9ebd271afb168c20c5934bdb4]: Textual amendment: S. 218ZA inserted (with effect in accordance with Sch. 9 para. 9(1)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/9/paragraph/6)
+[^c-e49fe7e9ebd271afb168c20c5934bdb4]: Textual amendment: S. 218ZA inserted (with effect in accordance with Sch. 9 para. 9(1)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/9/paragraph/6)

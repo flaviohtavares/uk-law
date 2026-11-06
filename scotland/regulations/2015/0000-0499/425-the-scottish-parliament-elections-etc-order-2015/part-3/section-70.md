@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Corrupt withdrawal from candidature[^key-d2d4ca3ca97f61444cf1c21e3660143b]
+## 70. Corrupt withdrawal from candidature[^c-d2d4ca3ca97f61444cf1c21e3660143b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any person who corruptly induces or procures any other person to withdraw from b
 
 ## Annotations
 
-[^key-d2d4ca3ca97f61444cf1c21e3660143b]: Commencement: Art. 70 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-d2d4ca3ca97f61444cf1c21e3660143b]: Commencement: Art. 70 in force at 16.12.2015 in accordance with art. 1(1)

@@ -32,7 +32,7 @@ summary: ''
 
 agriculture, england
 
-The England Rural Development Programme (Closure of Project-Based Schemes) Regulations 2006 (revoked)[^key-d7b2c78c3ebff685328bb9fe91eca2dc]
+The England Rural Development Programme (Closure of Project-Based Schemes) Regulations 2006 (revoked)[^c-d7b2c78c3ebff685328bb9fe91eca2dc]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st October 2006
 
-[^key-d7b2c78c3ebff685328bb9fe91eca2dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7b2c78c3ebff685328bb9fe91eca2dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-d7b2c78c3ebff685328bb9fe91eca2dc]
+## 1. Title, commencement and application[^c-d7b2c78c3ebff685328bb9fe91eca2dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Closure of project-based schemes[^key-d7b2c78c3ebff685328bb9fe91eca2dc]
+## 2. Closure of project-based schemes[^c-d7b2c78c3ebff685328bb9fe91eca2dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7b2c78c3ebff685328bb9fe91eca2dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7b2c78c3ebff685328bb9fe91eca2dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d7b2c78c3ebff685328bb9fe91eca2dc]EXPLANATORY NOTE
+[^c-d7b2c78c3ebff685328bb9fe91eca2dc]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -82,4 +82,4 @@ A regulatory impact assessment has not been prepared for these Regulations as th
 
 ## Annotations
 
-[^key-d7b2c78c3ebff685328bb9fe91eca2dc]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-d7b2c78c3ebff685328bb9fe91eca2dc]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

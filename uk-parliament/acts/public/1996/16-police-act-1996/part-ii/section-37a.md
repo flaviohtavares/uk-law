@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. The strategic policing requirement[^key-a511d14d830124928f67131b926165ed]
+## 37A. The strategic policing requirement[^c-a511d14d830124928f67131b926165ed]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a511d14d830124928f67131b926165ed]: Textual amendment: S. 37A substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 77](https://www.legislation.gov.uk/ukpga/2011/13/section/77), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/c)
+[^c-a511d14d830124928f67131b926165ed]: Textual amendment: S. 37A substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 77](https://www.legislation.gov.uk/ukpga/2011/13/section/77), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/c)

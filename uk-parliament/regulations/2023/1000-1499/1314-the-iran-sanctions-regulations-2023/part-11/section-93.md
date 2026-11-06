@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Interpretation of Part 11[^key-4e2dc5ae7468c2c88a9fcab3804c8411]
+## 93. Interpretation of Part 11[^c-4e2dc5ae7468c2c88a9fcab3804c8411]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e2dc5ae7468c2c88a9fcab3804c8411]: Commencement: Reg. 93 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-4e2dc5ae7468c2c88a9fcab3804c8411]: Commencement: Reg. 93 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

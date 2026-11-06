@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Commencement[^key-b98511b4f52b195a8f81c7d285424dcb]
+## 28. Commencement[^c-b98511b4f52b195a8f81c7d285424dcb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A contract shall provide for services to be provided under it from any date on o
 
 ## Annotations
 
-[^key-b98511b4f52b195a8f81c7d285424dcb]: Commencement: Reg. 28 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b98511b4f52b195a8f81c7d285424dcb]: Commencement: Reg. 28 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Roads And Bridges
 
-The Scottish Road Works Register (Prescribed Fees) Amendment Regulations 2018 (revoked)[^key-3eba532208cfa7bbd4db9564fc7e8a35]
+The Scottish Road Works Register (Prescribed Fees) Amendment Regulations 2018 (revoked)[^c-3eba532208cfa7bbd4db9564fc7e8a35]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 1st April 2018
 
-[^key-3eba532208cfa7bbd4db9564fc7e8a35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eba532208cfa7bbd4db9564fc7e8a35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3eba532208cfa7bbd4db9564fc7e8a35]
+## 1. Citation and commencement[^c-3eba532208cfa7bbd4db9564fc7e8a35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Scottish Road Works Register (Prescribed Fees) Regulations 2017[^key-3eba532208cfa7bbd4db9564fc7e8a35]
+## 2. Amendment of the Scottish Road Works Register (Prescribed Fees) Regulations 2017[^c-3eba532208cfa7bbd4db9564fc7e8a35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3eba532208cfa7bbd4db9564fc7e8a35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eba532208cfa7bbd4db9564fc7e8a35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3eba532208cfa7bbd4db9564fc7e8a35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eba532208cfa7bbd4db9564fc7e8a35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3eba532208cfa7bbd4db9564fc7e8a35]: Textual amendment: Regulations revoked (3.5.2019) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2019 (S.S.I. 2019/96)](https://www.legislation.gov.uk/ssi/2019/96), [regs. 1](https://www.legislation.gov.uk/ssi/2019/96/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/96/regulation/4)
+[^c-3eba532208cfa7bbd4db9564fc7e8a35]: Textual amendment: Regulations revoked (3.5.2019) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2019 (S.S.I. 2019/96)](https://www.legislation.gov.uk/ssi/2019/96), [regs. 1](https://www.legislation.gov.uk/ssi/2019/96/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/96/regulation/4)

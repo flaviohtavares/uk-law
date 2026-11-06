@@ -54,7 +54,7 @@ The Secretary of State in exercise of the powers conferred by sections 111, 113,
 - [Section 2 — Interpretation: proceedings and parties](part-1/section-2.md)
 - [Section 3 — Interpretation: general](part-1/section-3.md)
 
-### PART 1A — THE OVERRIDING OBJECTIVE[^key-8c5cce3a4252f0940bf39254dddb4b77]
+### PART 1A — THE OVERRIDING OBJECTIVE[^c-8c5cce3a4252f0940bf39254dddb4b77]
 
 - [Section 3A — The overriding objective](part-1a/section-3a.md)
 - [Section 3B — The duty of the participants in a case](part-1a/section-3b.md)
@@ -186,7 +186,7 @@ The Secretary of State in exercise of the powers conferred by sections 111, 113,
 
 - [Section 74 — Expert evidence](part-11/section-74.md)
 
-#### CHAPTER 6 — Use of specimens in relation to offences under sections 20(1)(a) and 20A of the Armed Forces Act 2006[^key-518c954a9126cc8a10ac3348ea90a210]
+#### CHAPTER 6 — Use of specimens in relation to offences under sections 20(1)(a) and 20A of the Armed Forces Act 2006[^c-518c954a9126cc8a10ac3348ea90a210]
 
 *Extent: E+W+S+N.I.*
 
@@ -194,7 +194,7 @@ The Secretary of State in exercise of the powers conferred by sections 111, 113,
 - [Section 74B — Use of specimens](part-11/section-74b.md)
 - [Section 74C — Documentary evidence as to specimens](part-11/section-74c.md)
 
-#### CHAPTER 7 — Special Measures Directions[^key-4ae190d2f805d762602551f8d5f7d7ff]
+#### CHAPTER 7 — Special Measures Directions[^c-4ae190d2f805d762602551f8d5f7d7ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -233,7 +233,7 @@ The Secretary of State in exercise of the powers conferred by sections 111, 113,
 - [Section 87 — Mitigation of punishment](part-12/section-87.md)
 - [Section 88 — Pronouncement of punishment](part-12/section-88.md)
 
-### Part 12A — Variation Proceedings[^key-983f1a934bf9a85f10973b5c194f3240]
+### Part 12A — Variation Proceedings[^c-983f1a934bf9a85f10973b5c194f3240]
 
 - [Section 88A — Application of Part 12A](part-12a/section-88a.md)
 - [Section 88B — Interpretation of Part 12A](part-12a/section-88b.md)
@@ -324,10 +324,10 @@ Part 17 revokes the Summary Appeal Courts (Amendment) Rules 2005.
 
 [^c19687871]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-8c5cce3a4252f0940bf39254dddb4b77]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1211/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/1263/rule/11)
+[^c-8c5cce3a4252f0940bf39254dddb4b77]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1211/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/1263/rule/11)
 
-[^key-518c954a9126cc8a10ac3348ea90a210]: Textual amendment: Pt. 11 Ch. 6 inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/2527/article/8)
+[^c-518c954a9126cc8a10ac3348ea90a210]: Textual amendment: Pt. 11 Ch. 6 inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/2527/article/8)
 
-[^key-4ae190d2f805d762602551f8d5f7d7ff]: Textual amendment: Pt. 11 Ch. 7 inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [6](https://www.legislation.gov.uk/uksi/2015/1812/rule/6)
+[^c-4ae190d2f805d762602551f8d5f7d7ff]: Textual amendment: Pt. 11 Ch. 7 inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [6](https://www.legislation.gov.uk/uksi/2015/1812/rule/6)
 
-[^key-983f1a934bf9a85f10973b5c194f3240]: Textual amendment: [Pt. 12A](https://www.legislation.gov.uk/uksi/2009/1211/part/12A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1097/rule/13)
+[^c-983f1a934bf9a85f10973b5c194f3240]: Textual amendment: [Pt. 12A](https://www.legislation.gov.uk/uksi/2009/1211/part/12A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1097/rule/13)

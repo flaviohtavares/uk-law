@@ -24,11 +24,11 @@ Section 34(3)
 
 ### Part 1 — Amendments consequential on repeals made by section 34
 
-#### 1. Crime (Sentences) Act 1997[^key-780674a7dae0058effbe0b26ddcf2bed][^key-1b5c9ea6ccc2e72672253adf74500b93]
+#### 1. Crime (Sentences) Act 1997[^c-780674a7dae0058effbe0b26ddcf2bed][^c-1b5c9ea6ccc2e72672253adf74500b93]
 
 [Schedule 1](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1) to the [Crime (Sentences) Act 1997](https://www.legislation.gov.uk/ukpga/1997/43/contents) (transfer of prisoners within the British Islands) is amended as follows.
 
-**2.**[^key-7bec2311e9542d82f337254c50adfd69][^key-5318d7eda7f1309ca92258cb4f72741b] (1) [Paragraph 6](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/6) (effect of transfer) is amended as follows.
+**2.**[^c-7bec2311e9542d82f337254c50adfd69][^c-5318d7eda7f1309ca92258cb4f72741b] (1) [Paragraph 6](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/6) (effect of transfer) is amended as follows.
 
 (2) In [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/6)[(b)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/6), for “, possible recall following release and any supervision default order” substitute “and possible recall following release”.
 
@@ -38,7 +38,7 @@ Section 34(3)
 
 (5) In [sub-paragraph (4)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/6), omit the definition of “supervision default order”.
 
-**3.**[^key-9efce8a07b245c9c83162611b25c7ea2][^key-92f0846d8479a42462a13566bac0350d] (1) [Paragraph 8](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8) (restricted transfers from England and Wales to Scotland) is amended as follows.
+**3.**[^c-9efce8a07b245c9c83162611b25c7ea2][^c-92f0846d8479a42462a13566bac0350d] (1) [Paragraph 8](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8) (restricted transfers from England and Wales to Scotland) is amended as follows.
 
 (2) In [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8)[(a)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8)—
 
@@ -64,9 +64,9 @@ Section 34(3)
 
 (7) Omit [sub-paragraphs (11)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8) and [(12)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8).
 
-**4.**[^key-bca47ec1b04e8075c516d29609cd27c2][^key-370fa3ab0c4448dc145f9b791a0d4920] Omit [paragraph 8A](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8A) (further provision about supervision default orders) and the italic heading before it.
+**4.**[^c-bca47ec1b04e8075c516d29609cd27c2][^c-370fa3ab0c4448dc145f9b791a0d4920] Omit [paragraph 8A](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/8A) (further provision about supervision default orders) and the italic heading before it.
 
-**5.**[^key-972c1d87671728c04eeb1bef08da267d][^key-fc1c37eb09f8084e6608633f5ff895c1] (1) [Paragraph 9](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/9) (restricted transfers from England and Wales to Northern Ireland) is amended as follows.
+**5.**[^c-972c1d87671728c04eeb1bef08da267d][^c-fc1c37eb09f8084e6608633f5ff895c1] (1) [Paragraph 9](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/9) (restricted transfers from England and Wales to Northern Ireland) is amended as follows.
 
 (2) In [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/9)[(a)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/9), for “, 242 and 247” substitute “and 242”.
 
@@ -74,18 +74,18 @@ Section 34(3)
 
 (4) Omit [sub-paragraphs (9) to (12)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/9).
 
-**6.**[^key-800da116a4006cb17f70ced599b35936][^key-5b211fa2281ec67e0d21803cee1acb83] Omit [paragraph 19B](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/19B) (electronic monitoring in Scotland of requirements in supervision default order) and the italic heading before it.
+**6.**[^c-800da116a4006cb17f70ced599b35936][^c-5b211fa2281ec67e0d21803cee1acb83] Omit [paragraph 19B](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/19B) (electronic monitoring in Scotland of requirements in supervision default order) and the italic heading before it.
 
-**7.**[^key-8d8f2c3e102b19e5b751214d04b19750][^key-f962b7c4bd34d01af7ec7350d7e6fdf9] In [paragraph 20](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/20)[(1)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/20) (interpretation), in the definition of “supervision”, omit [paragraph (d)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/20) (but not the “or” at the end of it).
+**7.**[^c-8d8f2c3e102b19e5b751214d04b19750][^c-f962b7c4bd34d01af7ec7350d7e6fdf9] In [paragraph 20](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/20)[(1)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/20) (interpretation), in the definition of “supervision”, omit [paragraph (d)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/paragraph/20) (but not the “or” at the end of it).
 
-#### 8. Crime and Disorder Act 1998[^key-e41a0c307e3acaba477a9907ef28a748][^key-58ebeae874f5c1021587c51642d5303b]
+#### 8. Crime and Disorder Act 1998[^c-e41a0c307e3acaba477a9907ef28a748][^c-58ebeae874f5c1021587c51642d5303b]
 
 In section 38(4) of the Crime and Disorder Act 1998 (meaning of “**youth justice services**”)—
 
 - (a) omit paragraph (ha);
 - (b) omit paragraph (ib).
 
-#### 9. Criminal Justice Act 2003[^key-3e6ba8790e1871c9165b5b2629555b9d][^key-4fcf641050fe0cf94d69574983f5aa52]
+#### 9. Criminal Justice Act 2003[^c-3e6ba8790e1871c9165b5b2629555b9d][^c-4fcf641050fe0cf94d69574983f5aa52]
 
 (1) The [Criminal Justice Act 2003](https://www.legislation.gov.uk/ukpga/2003/44/contents) is amended as follows.
 
@@ -122,14 +122,14 @@ In section 38(4) of the Crime and Disorder Act 1998 (meaning of “**youth justi
 - (a) in [paragraph 22](https://www.legislation.gov.uk/ukpga/2003/44/schedule/20B/paragraph/22), omit [sub-paragraph (3A)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/20B/paragraph/22);
 - (b) in [paragraph 33](https://www.legislation.gov.uk/ukpga/2003/44/schedule/20B/paragraph/33), omit [sub-paragraph (4)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/20B/paragraph/33).
 
-#### 10. Offender Management Act 2007[^key-a72569bb9a05692f131394de9026d1f9][^key-fe0d9bb8f5fb5fdd08fc461be52df2bd]
+#### 10. Offender Management Act 2007[^c-a72569bb9a05692f131394de9026d1f9][^c-fe0d9bb8f5fb5fdd08fc461be52df2bd]
 
 In [section 4](https://www.legislation.gov.uk/ukpga/2007/21/section/4)[(3)](https://www.legislation.gov.uk/ukpga/2007/21/section/4) of the [Offender Management Act 2007](https://www.legislation.gov.uk/ukpga/2007/21/contents) (restriction on arrangements for the provision of probation services)—
 
 - (a) at the end of paragraph (a) insert “or”;
 - (b) omit [paragraph (c)](https://www.legislation.gov.uk/ukpga/2007/21/section/4) (and the “or” before it).
 
-#### 11. Sentencing Code[^key-eee9a1ec10a8bd8d3dca5a90b6ee5d01][^key-fbe77dfda76cd8cb9a4f6c55762ec61d]
+#### 11. Sentencing Code[^c-eee9a1ec10a8bd8d3dca5a90b6ee5d01][^c-fbe77dfda76cd8cb9a4f6c55762ec61d]
 
 (1) The Sentencing Code is amended as follows.
 
@@ -146,7 +146,7 @@ In [section 4](https://www.legislation.gov.uk/ukpga/2007/21/section/4)[(3)](http
 
 ### Part 2 — Repeal of provision which inserts or amends provision repealed by section 34 or Part 1 of this Schedule
 
-#### 12. Offender Rehabilitation Act 2014[^key-0c2b3c706cfcb6c280b59c8c2cb6c2c6][^key-65f8e055c348ca33e7df98408ea84595]
+#### 12. Offender Rehabilitation Act 2014[^c-0c2b3c706cfcb6c280b59c8c2cb6c2c6][^c-65f8e055c348ca33e7df98408ea84595]
 
 (1) The [Offender Rehabilitation Act 2014](https://www.legislation.gov.uk/ukpga/2014/11/contents) is amended as follows.
 
@@ -173,7 +173,7 @@ In [section 4](https://www.legislation.gov.uk/ukpga/2007/21/section/4)[(3)](http
 - (f) [paragraph 24](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/24)[(4)](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/24);
 - (g) [paragraph 25](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/25).
 
-#### 13. Criminal Justice and Courts Act 2015[^key-31d927986c399c3a54c81187f8c1d98f][^key-5f5b9eb3dd6b89d9c98242397581a134]
+#### 13. Criminal Justice and Courts Act 2015[^c-31d927986c399c3a54c81187f8c1d98f][^c-5f5b9eb3dd6b89d9c98242397581a134]
 
 (1) The [Criminal Justice and Courts Act 2015](https://www.legislation.gov.uk/ukpga/2015/2/contents) is amended as follows.
 
@@ -181,7 +181,7 @@ In [section 4](https://www.legislation.gov.uk/ukpga/2007/21/section/4)[(3)](http
 
 (3) In [Schedule 12](https://www.legislation.gov.uk/ukpga/2015/2/schedule/12), omit [paragraph 14](https://www.legislation.gov.uk/ukpga/2015/2/schedule/12/paragraph/14).
 
-#### 14. Sentencing Act 2020[^key-748245ba2e37af3915d861c8c18cbd12][^key-a62d60fe393cc4b7f72a5d1a14795412]
+#### 14. Sentencing Act 2020[^c-748245ba2e37af3915d861c8c18cbd12][^c-a62d60fe393cc4b7f72a5d1a14795412]
 
 (1) [Schedule 24](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24) to the [Sentencing Act 2020](https://www.legislation.gov.uk/ukpga/2020/17/contents) is amended as follows.
 
@@ -202,76 +202,76 @@ In [section 4](https://www.legislation.gov.uk/ukpga/2007/21/section/4)[(3)](http
 
 (6) In [paragraph 262](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/262), omit [paragraph (c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/262).
 
-#### 15. Terrorist Offenders (Restriction of Early Release) Act 2020[^key-77e89825b0a5effcc26796eb7e687caf][^key-a80aebe83f1b259b791ddf163cc05578]
+#### 15. Terrorist Offenders (Restriction of Early Release) Act 2020[^c-77e89825b0a5effcc26796eb7e687caf][^c-a80aebe83f1b259b791ddf163cc05578]
 
 In the [Terrorist Offenders (Restriction of Early Release) Act 2020](https://www.legislation.gov.uk/ukpga/2020/3/contents), omit [section 7](https://www.legislation.gov.uk/ukpga/2020/3/section/7)[(3)](https://www.legislation.gov.uk/ukpga/2020/3/section/7).
 
-#### 16. Police, Crime, Sentencing and Courts Act 2022[^key-172c2c8d4160dc1e4d27b678282b1ed7][^key-d06e754f3ec374ea076f8ca7de8e3337]
+#### 16. Police, Crime, Sentencing and Courts Act 2022[^c-172c2c8d4160dc1e4d27b678282b1ed7][^c-d06e754f3ec374ea076f8ca7de8e3337]
 
 In the [Police, Crime, Sentencing and Courts Act 2022](https://www.legislation.gov.uk/ukpga/2022/32/contents), omit [section 150](https://www.legislation.gov.uk/ukpga/2022/32/section/150)[(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/150).
 
 ## Annotations
 
-[^key-780674a7dae0058effbe0b26ddcf2bed]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-780674a7dae0058effbe0b26ddcf2bed]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-1b5c9ea6ccc2e72672253adf74500b93]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/1) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-1b5c9ea6ccc2e72672253adf74500b93]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/1) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-7bec2311e9542d82f337254c50adfd69]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-7bec2311e9542d82f337254c50adfd69]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-5318d7eda7f1309ca92258cb4f72741b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/2) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-5318d7eda7f1309ca92258cb4f72741b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/2) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-9efce8a07b245c9c83162611b25c7ea2]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-9efce8a07b245c9c83162611b25c7ea2]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-92f0846d8479a42462a13566bac0350d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/3) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-92f0846d8479a42462a13566bac0350d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/3) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-bca47ec1b04e8075c516d29609cd27c2]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-bca47ec1b04e8075c516d29609cd27c2]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-370fa3ab0c4448dc145f9b791a0d4920]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/4) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-370fa3ab0c4448dc145f9b791a0d4920]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/4) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-972c1d87671728c04eeb1bef08da267d]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-972c1d87671728c04eeb1bef08da267d]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-fc1c37eb09f8084e6608633f5ff895c1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/5) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-fc1c37eb09f8084e6608633f5ff895c1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/5) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-800da116a4006cb17f70ced599b35936]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-800da116a4006cb17f70ced599b35936]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-5b211fa2281ec67e0d21803cee1acb83]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/6) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-5b211fa2281ec67e0d21803cee1acb83]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/6) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-8d8f2c3e102b19e5b751214d04b19750]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-8d8f2c3e102b19e5b751214d04b19750]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-f962b7c4bd34d01af7ec7350d7e6fdf9]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/7) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-f962b7c4bd34d01af7ec7350d7e6fdf9]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/7) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-e41a0c307e3acaba477a9907ef28a748]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-e41a0c307e3acaba477a9907ef28a748]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-58ebeae874f5c1021587c51642d5303b]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/8) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-58ebeae874f5c1021587c51642d5303b]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/8) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-3e6ba8790e1871c9165b5b2629555b9d]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-3e6ba8790e1871c9165b5b2629555b9d]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-4fcf641050fe0cf94d69574983f5aa52]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/9) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-4fcf641050fe0cf94d69574983f5aa52]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/9) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-a72569bb9a05692f131394de9026d1f9]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-a72569bb9a05692f131394de9026d1f9]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-fe0d9bb8f5fb5fdd08fc461be52df2bd]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/10) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-fe0d9bb8f5fb5fdd08fc461be52df2bd]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/10) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-eee9a1ec10a8bd8d3dca5a90b6ee5d01]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-eee9a1ec10a8bd8d3dca5a90b6ee5d01]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-fbe77dfda76cd8cb9a4f6c55762ec61d]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/11) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-fbe77dfda76cd8cb9a4f6c55762ec61d]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/11) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-0c2b3c706cfcb6c280b59c8c2cb6c2c6]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-0c2b3c706cfcb6c280b59c8c2cb6c2c6]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-65f8e055c348ca33e7df98408ea84595]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-65f8e055c348ca33e7df98408ea84595]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-31d927986c399c3a54c81187f8c1d98f]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-31d927986c399c3a54c81187f8c1d98f]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-5f5b9eb3dd6b89d9c98242397581a134]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/13) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-5f5b9eb3dd6b89d9c98242397581a134]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/13) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-748245ba2e37af3915d861c8c18cbd12]: Commencement: Sch. 5 para. 14 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-748245ba2e37af3915d861c8c18cbd12]: Commencement: Sch. 5 para. 14 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-a62d60fe393cc4b7f72a5d1a14795412]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/14) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-a62d60fe393cc4b7f72a5d1a14795412]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/14) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-77e89825b0a5effcc26796eb7e687caf]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-77e89825b0a5effcc26796eb7e687caf]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-a80aebe83f1b259b791ddf163cc05578]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/15) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-a80aebe83f1b259b791ddf163cc05578]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/15) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-172c2c8d4160dc1e4d27b678282b1ed7]: Commencement: Sch. 5 para. 16 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-172c2c8d4160dc1e4d27b678282b1ed7]: Commencement: Sch. 5 para. 16 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-d06e754f3ec374ea076f8ca7de8e3337]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/16) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-d06e754f3ec374ea076f8ca7de8e3337]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/16) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)

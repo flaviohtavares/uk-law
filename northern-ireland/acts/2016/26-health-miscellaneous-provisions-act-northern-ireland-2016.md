@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## PART 1 — Sale or use of nicotine products and tobacco
 
-### 1. Prohibition of sale of nicotine products to persons under 18[^key-20226a94a11cb6b011dd7c445b898aef]
+### 1. Prohibition of sale of nicotine products to persons under 18[^c-20226a94a11cb6b011dd7c445b898aef]
 
 (1) The Department may by regulations make provision prohibiting the sale of nicotine products to persons aged under 18.
 
@@ -58,7 +58,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) amend Article 4A of the Health and Personal Social Services (Northern Ireland) Order 1978 (purchase of tobacco on behalf of persons under 18) so as to apply it (with or without modifications) in relation to nicotine products; or
 - (b) provide for that Article to apply (with or without modifications) in relation to nicotine products.
 
-### 2. Prohibition of sale of nicotine products from vending machines[^key-132ee70ac53ce6640232b030fae04ba7]
+### 2. Prohibition of sale of nicotine products from vending machines[^c-132ee70ac53ce6640232b030fae04ba7]
 
 (1) The Department may by regulations make provision prohibiting the sale of nicotine products from an automatic machine.
 
@@ -70,15 +70,15 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### 3. Amendments consequential on sections 1 and 2
 
-(1)[^key-6c477c4c8e1b75dc33203ae0ead6eda1] Schedule 1 makes amendments consequential on sections 1 and 2.
+(1)[^c-6c477c4c8e1b75dc33203ae0ead6eda1] Schedule 1 makes amendments consequential on sections 1 and 2.
 
-(2)[^key-8398b6dccb243dfef6cb5111560c7c3a] The Department may by regulations make provision amending, repealing, revoking or otherwise modifying any statutory provision (whenever passed or made) in connection with provision made by or under section 1 or 2.
+(2)[^c-8398b6dccb243dfef6cb5111560c7c3a] The Department may by regulations make provision amending, repealing, revoking or otherwise modifying any statutory provision (whenever passed or made) in connection with provision made by or under section 1 or 2.
 
-### 4. Amendment of the Order of 1991[^key-dc8939875e0ce4cc6ec8019cce561b7d]
+### 4. Amendment of the Order of 1991[^c-dc8939875e0ce4cc6ec8019cce561b7d]
 
 In Article 4A(4) of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 (prohibition of sale of tobacco from vending machines), for “level 4” substitute “ level 5 ”.
 
-### 5. Prohibition of use of tobacco or nicotine products in a private vehicle[^key-538a0f43da676ca14913af70c79e4138][^key-222bc5964352af67be1a1f05cbbbeee8]
+### 5. Prohibition of use of tobacco or nicotine products in a private vehicle[^c-538a0f43da676ca14913af70c79e4138][^c-222bc5964352af67be1a1f05cbbbeee8]
 
 (1) The Smoking (Northern Ireland) Order 2006 is amended in accordance with subsections (2) to (7).
 
@@ -150,7 +150,7 @@ In Article 4A(4) of the Children and Young Persons (Protection from Tobacco) (No
 
 (2) Regulations made by the Department under this section shall set out the terms of the review.
 
-### 7. Interpretation of Part 1[^key-2bc43b42d44ee2db43c489a03bbb2cb0]
+### 7. Interpretation of Part 1[^c-2bc43b42d44ee2db43c489a03bbb2cb0]
 
 (1) For the purposes of this Part “**nicotine product**” means—
 
@@ -307,7 +307,7 @@ In Article 4A(4) of the Children and Young Persons (Protection from Tobacco) (No
 
   > - (c) a list of dental practitioners undertaking to provide general dental services
 
-### 13. Provision of medical or dental services: Article 15B arrangements[^key-6b543e4c4451e05e356918766c02b507][^c22563181]
+### 13. Provision of medical or dental services: Article 15B arrangements[^c-6b543e4c4451e05e356918766c02b507][^c22563181]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -317,7 +317,7 @@ In Article 42(2) of the Order of 1972 (provision of services to persons not ordi
 
 ## PART 4 — Human Transplantation
 
-### 15. Duty to promote transplantation[^key-aebb6b4c0320ed91baf56d92f96e09b6]
+### 15. Duty to promote transplantation[^c-aebb6b4c0320ed91baf56d92f96e09b6]
 
 (1) The Department must—
 
@@ -326,14 +326,14 @@ In Article 42(2) of the Order of 1972 (provision of services to persons not ordi
 
 (2) The duty under subsection (1) includes in particular a duty to promote a campaign informing the public at least once a year.
 
-(3)[^key-38711aca75f1d8c2f0a57753ec3807dd] The duty under subsection (2) must be discharged in such a way that the public are at least once a year given—
+(3)[^c-38711aca75f1d8c2f0a57753ec3807dd] The duty under subsection (2) must be discharged in such a way that the public are at least once a year given—
 
 - (a) information about the effect of the legislation about deemed consent for transplantation of parts of a person’s body after their death, and
 - (b) information about how a person can during their lifetime—
   - (i) record their own decisions about transplantation after their death of parts of their body, or
   - (ii) appoint someone to make decisions after their death about transplantation of parts of their body.
 
-### 16. Annual report on transplantation[^key-b599fdd459fa073fcf80d3870ca81bf2]
+### 16. Annual report on transplantation[^c-b599fdd459fa073fcf80d3870ca81bf2]
 
 (1) The Department must lay before the Assembly, in respect of each financial year, a report about transplantation in that year.
 
@@ -344,7 +344,7 @@ In Article 42(2) of the Order of 1972 (provision of services to persons not ordi
 
 (3) At least once every five financial years, the report must include—
 
-- (a) the opinion of the Department as to whether this Act , and the amendments made in section 3 of the Human Tissue Act 2004 by the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2021, have[^key-ea0a548803441d9b5d371fee6c9960d9] been effective in promoting transplantation, and
+- (a) the opinion of the Department as to whether this Act , and the amendments made in section 3 of the Human Tissue Act 2004 by the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2021, have[^c-ea0a548803441d9b5d371fee6c9960d9] been effective in promoting transplantation, and
 - (b) any recommendations the Department considers appropriate for amending the law so as to promote transplantation.
 
 ## PART 5 — General
@@ -364,7 +364,7 @@ In this Act—
 
 (2) Regulations and orders made by the Department under this Act may contain such incidental, supplementary, transitional, transitory or saving provisions as appear to the Department to be necessary or expedient.
 
-### 19. Repeals[^c22563191][^key-d6a899ba503b5133ca62e9e668a9a2c7]
+### 19. Repeals[^c22563191][^c-d6a899ba503b5133ca62e9e668a9a2c7]
 
 The statutory provisions set out in Schedule2 are hereby repealed to the extent specified in the second column of that Schedule.
 
@@ -393,7 +393,7 @@ Section 3(1).
 
 ### The Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 (NI 25)
 
-**1.**[^key-027b7ffb14094d22c6cd2a7694424ccb] In Article 6 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 (enforcement action by district councils)—
+**1.**[^c-027b7ffb14094d22c6cd2a7694424ccb] In Article 6 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 (enforcement action by district councils)—
 
 - (a) in paragraph (1)(a), for “and Articles 4 and 5” substitute “ , Articles 4 to 5 and sections 1 and 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016, ”;
 - (b) after paragraph (1) insert—
@@ -409,11 +409,11 @@ Section 3(1).
 
 ### The Tobacco Retailers Act (Northern Ireland) 2014 (c. 4)
 
-**2.**[^key-7506d88abf035b739fb37028543f4057] The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
+**2.**[^c-7506d88abf035b739fb37028543f4057] The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 
-**3.**[^key-c324fe1e57e98e8682730dd2aa029f0b] In the italic heading before section 5, after “tobacco” insert “ or nicotine ”.
+**3.**[^c-c324fe1e57e98e8682730dd2aa029f0b] In the italic heading before section 5, after “tobacco” insert “ or nicotine ”.
 
-**4.**[^key-cf285ffbde1accafb05fbb1c609f60a2] In section 5 (restricted premises orders)—
+**4.**[^c-cf285ffbde1accafb05fbb1c609f60a2] In section 5 (restricted premises orders)—
 
 - (a) in subsection (1)(a) and (b), after “tobacco” insert “ or nicotine ”;
 - (b) in subsection (4), for “or cigarette papers” substitute “ , cigarette papers or nicotine products ”;
@@ -436,7 +436,7 @@ Section 3(1).
 
     .
 
-**5.**[^key-a452ebffa05f225022a3c4d47213340d] In section 6 (restricted sale orders)—
+**5.**[^c-a452ebffa05f225022a3c4d47213340d] In section 6 (restricted sale orders)—
 
 - (a) in subsection (1)(a) and (b), after “tobacco” insert “ or nicotine ”;
 - (b) in subsection (4)—
@@ -452,17 +452,17 @@ Section 3(1).
 
   .
 
-**6.**[^key-df9a251e2d1961f85b451442ec016749] In section 8(4) (restricted premises orders: display of notices), for “or cigarette papers” substitute “ , cigarette papers or nicotine products ”.
+**6.**[^c-df9a251e2d1961f85b451442ec016749] In section 8(4) (restricted premises orders: display of notices), for “or cigarette papers” substitute “ , cigarette papers or nicotine products ”.
 
-**7.**[^key-6a9944f3d4425d10b44f3bc3ca65fbc2] In section 9 (restricted premises orders: no tobacco in retail area)—
+**7.**[^c-6a9944f3d4425d10b44f3bc3ca65fbc2] In section 9 (restricted premises orders: no tobacco in retail area)—
 
 - (a) in the heading, after “tobacco” insert “ or nicotine products ”;
 - (b) in subsection (2), for “or cigarette papers” substitute “ , cigarette papers or nicotine products as the case may be ”;
 - (c) in subsection (3), for “and cigarette papers” substitute “ , cigarette papers and nicotine products ”.
 
-**8.**[^key-894ed83fcbb8baf5bec4c8d061e6a0c9] In section 10(4)(a) (offences), for “or cigarette papers” substitute “ , cigarette papers or nicotine products ”.
+**8.**[^c-894ed83fcbb8baf5bec4c8d061e6a0c9] In section 10(4)(a) (offences), for “or cigarette papers” substitute “ , cigarette papers or nicotine products ”.
 
-**9.**[^key-4714c9314dc9db20c06b6385fb457983] In section 11(1)(a) (powers of entry)—
+**9.**[^c-4714c9314dc9db20c06b6385fb457983] In section 11(1)(a) (powers of entry)—
 
 - (a) after sub-paragraph (iii) add—
 
@@ -475,7 +475,7 @@ Section 3(1).
 
   .
 
-**10.**[^key-40afe681b13189d96576ccf66261bc3f] In section 12(1) (fixed penalties for certain offences)—
+**10.**[^c-40afe681b13189d96576ccf66261bc3f] In section 12(1) (fixed penalties for certain offences)—
 
 - (a) after paragraph (c) add—
 
@@ -488,9 +488,9 @@ Section 3(1).
 
   .
 
-**11.**[^key-0c3a6ad4124cec8bacea3b28b4c163da] In section 16 (council's duty to share information about enforcement), in subsections (1)(a) and (b) and (3), after “tobacco” insert “ or nicotine ”;
+**11.**[^c-0c3a6ad4124cec8bacea3b28b4c163da] In section 16 (council's duty to share information about enforcement), in subsections (1)(a) and (b) and (3), after “tobacco” insert “ or nicotine ”;
 
-**12.**[^key-bff5045143e1990b7fa22dc549df681f] In section 22(1) (interpretation), insert at the appropriate place—
+**12.**[^c-bff5045143e1990b7fa22dc549df681f] In section 22(1) (interpretation), insert at the appropriate place—
 
 > “**nicotine product**” means a nicotine product within the meaning of section 7 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 the sale of which to persons aged under 18 is for the time being prohibited by regulations under section 1(1) of that Act;
 
@@ -514,7 +514,7 @@ Section 19.
 </tbody>
 </table>
 
-### Part 2 — Repeals coming into operation under section 20(3)[^key-5d0b84fdb92ac8695721b9c1c43bef06]
+### Part 2 — Repeals coming into operation under section 20(3)[^c-5d0b84fdb92ac8695721b9c1c43bef06]
 
 <table>
 <tbody>
@@ -528,60 +528,60 @@ Section 19.
 
 ## Annotations
 
-[^key-20226a94a11cb6b011dd7c445b898aef]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/26/section/1) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/91/article/2/a)
+[^c-20226a94a11cb6b011dd7c445b898aef]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/26/section/1) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/91/article/2/a)
 
-[^key-132ee70ac53ce6640232b030fae04ba7]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/26/section/2) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/91/article/2/b)
+[^c-132ee70ac53ce6640232b030fae04ba7]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/26/section/2) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/91/article/2/b)
 
-[^key-6c477c4c8e1b75dc33203ae0ead6eda1]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/nia/2016/26/section/3/1) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/329/article/2/a)
+[^c-6c477c4c8e1b75dc33203ae0ead6eda1]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/nia/2016/26/section/3/1) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/329/article/2/a)
 
-[^key-8398b6dccb243dfef6cb5111560c7c3a]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/nia/2016/26/section/3/2) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/91/article/2/c)
+[^c-8398b6dccb243dfef6cb5111560c7c3a]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/nia/2016/26/section/3/2) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/91/article/2/c)
 
-[^key-dc8939875e0ce4cc6ec8019cce561b7d]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/26/section/4) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/91/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2017/91/article/3))
+[^c-dc8939875e0ce4cc6ec8019cce561b7d]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/26/section/4) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/91/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2017/91/article/3))
 
-[^key-538a0f43da676ca14913af70c79e4138]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/26/section/5) in operation at 1.6.2017 for specified purposes by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(e)](https://www.legislation.gov.uk/nisr/2017/91/article/2/e)
+[^c-538a0f43da676ca14913af70c79e4138]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/26/section/5) in operation at 1.6.2017 for specified purposes by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(e)](https://www.legislation.gov.uk/nisr/2017/91/article/2/e)
 
-[^key-222bc5964352af67be1a1f05cbbbeee8]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/26/section/5) in operation at 1.2.2022 in so far as not already in operation by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/329/article/2/b)
+[^c-222bc5964352af67be1a1f05cbbbeee8]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/26/section/5) in operation at 1.2.2022 in so far as not already in operation by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/329/article/2/b)
 
-[^key-2bc43b42d44ee2db43c489a03bbb2cb0]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/26/section/7) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(f)](https://www.legislation.gov.uk/nisr/2017/91/article/2/f)
+[^c-2bc43b42d44ee2db43c489a03bbb2cb0]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/26/section/7) in operation at 1.6.2017 by [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(f)](https://www.legislation.gov.uk/nisr/2017/91/article/2/f)
 
-[^key-6b543e4c4451e05e356918766c02b507]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/nia/2016/26/section/13/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 256](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/256); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-6b543e4c4451e05e356918766c02b507]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/nia/2016/26/section/13/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 256](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/256); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c22563181]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/26/section/13) partly in operation; [s. 13(3)(a)(i)(5)](https://www.legislation.gov.uk/nia/2016/26/section/13/3/a/i/5) in operation at 13.6.2016 see [s. 20(2)(b)](https://www.legislation.gov.uk/nia/2016/26/section/20/2/b)
 
-[^key-aebb6b4c0320ed91baf56d92f96e09b6]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/26/section/15) in operation at 1.4.2022 by [S.R. 2022/10](https://www.legislation.gov.uk/nisr/2022/10), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/10/article/2/a)
+[^c-aebb6b4c0320ed91baf56d92f96e09b6]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/26/section/15) in operation at 1.4.2022 by [S.R. 2022/10](https://www.legislation.gov.uk/nisr/2022/10), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/10/article/2/a)
 
-[^key-38711aca75f1d8c2f0a57753ec3807dd]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/nia/2016/26/section/15/3) added (13.2.2023) by [Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022 (c. 10)](https://www.legislation.gov.uk/nia/2022/10), [ss. 1(7)](https://www.legislation.gov.uk/nia/2022/10/section/1/7), [2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2); [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
+[^c-38711aca75f1d8c2f0a57753ec3807dd]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/nia/2016/26/section/15/3) added (13.2.2023) by [Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022 (c. 10)](https://www.legislation.gov.uk/nia/2022/10), [ss. 1(7)](https://www.legislation.gov.uk/nia/2022/10/section/1/7), [2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2); [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
 
-[^key-b599fdd459fa073fcf80d3870ca81bf2]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/26/section/16) in operation at 1.4.2022 by [S.R. 2022/10](https://www.legislation.gov.uk/nisr/2022/10), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/10/article/2/b)
+[^c-b599fdd459fa073fcf80d3870ca81bf2]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/26/section/16) in operation at 1.4.2022 by [S.R. 2022/10](https://www.legislation.gov.uk/nisr/2022/10), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/10/article/2/b)
 
-[^key-ea0a548803441d9b5d371fee6c9960d9]: Textual amendment: Words in [s. 16(3)(a)](https://www.legislation.gov.uk/nia/2016/26/section/16/3/a) substituted (13.2.2023) by [Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022 (c. 10)](https://www.legislation.gov.uk/nia/2022/10), [ss. 1(8)](https://www.legislation.gov.uk/nia/2022/10/section/1/8), [2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2); [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
+[^c-ea0a548803441d9b5d371fee6c9960d9]: Textual amendment: Words in [s. 16(3)(a)](https://www.legislation.gov.uk/nia/2016/26/section/16/3/a) substituted (13.2.2023) by [Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022 (c. 10)](https://www.legislation.gov.uk/nia/2022/10), [ss. 1(8)](https://www.legislation.gov.uk/nia/2022/10/section/1/8), [2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2); [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
 
 [^c22563191]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/26/section/19) partly in operation; [s. 19](https://www.legislation.gov.uk/nia/2016/26/section/19) in operation for certain purposes at 13.6.2016 see [s. 20(2)(d)](https://www.legislation.gov.uk/nia/2016/26/section/20/2/d)
 
-[^key-d6a899ba503b5133ca62e9e668a9a2c7]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/26/section/19) in operation at 1.2.2022 for specified purposes by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
+[^c-d6a899ba503b5133ca62e9e668a9a2c7]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/26/section/19) in operation at 1.2.2022 for specified purposes by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
 
-[^key-027b7ffb14094d22c6cd2a7694424ccb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-027b7ffb14094d22c6cd2a7694424ccb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-7506d88abf035b739fb37028543f4057]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/2) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-7506d88abf035b739fb37028543f4057]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/2) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-c324fe1e57e98e8682730dd2aa029f0b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/3) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-c324fe1e57e98e8682730dd2aa029f0b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/3) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-cf285ffbde1accafb05fbb1c609f60a2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-cf285ffbde1accafb05fbb1c609f60a2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-a452ebffa05f225022a3c4d47213340d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-a452ebffa05f225022a3c4d47213340d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-df9a251e2d1961f85b451442ec016749]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/6) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-df9a251e2d1961f85b451442ec016749]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/6) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-6a9944f3d4425d10b44f3bc3ca65fbc2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-6a9944f3d4425d10b44f3bc3ca65fbc2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-894ed83fcbb8baf5bec4c8d061e6a0c9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/8) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-894ed83fcbb8baf5bec4c8d061e6a0c9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/8) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-4714c9314dc9db20c06b6385fb457983]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-4714c9314dc9db20c06b6385fb457983]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-40afe681b13189d96576ccf66261bc3f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-40afe681b13189d96576ccf66261bc3f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-0c3a6ad4124cec8bacea3b28b4c163da]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-0c3a6ad4124cec8bacea3b28b4c163da]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-bff5045143e1990b7fa22dc549df681f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/12) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-bff5045143e1990b7fa22dc549df681f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/12) in operation at 1.2.2022 by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-5d0b84fdb92ac8695721b9c1c43bef06]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2) in operation at 1.2.2022 for specified purposes by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
+[^c-5d0b84fdb92ac8695721b9c1c43bef06]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2) in operation at 1.2.2022 for specified purposes by [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)

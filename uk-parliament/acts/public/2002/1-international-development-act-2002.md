@@ -41,18 +41,18 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 #### 1. Development assistance
 
-(1) The Minister[^key-b0ecf51cd3afb684fb2b978b3ec2aa53] may provide any person or body with development assistance if the Minister[^key-7d3d1af0c709f71f91d8938140158451] is satisfied that the provision of the assistance is likely to contribute to a reduction in poverty.
+(1) The Minister[^c-b0ecf51cd3afb684fb2b978b3ec2aa53] may provide any person or body with development assistance if the Minister[^c-7d3d1af0c709f71f91d8938140158451] is satisfied that the provision of the assistance is likely to contribute to a reduction in poverty.
 
-(1A)[^key-1375b378fdce7e93596e21d07bd62e09] Before providing development assistance under subsection (1), the Minister[^key-a807acdb659a59f5652c94cbcca8c8fb] shall have regard to the desirability of providing development assistance that is likely to contribute to reducing poverty in a way which is likely to contribute to reducing inequality between persons of different gender.
+(1A)[^c-1375b378fdce7e93596e21d07bd62e09] Before providing development assistance under subsection (1), the Minister[^c-a807acdb659a59f5652c94cbcca8c8fb] shall have regard to the desirability of providing development assistance that is likely to contribute to reducing poverty in a way which is likely to contribute to reducing inequality between persons of different gender.
 
 (2) In this Act “**development assistance**” means assistance provided for the purpose of—
 
 - (a) furthering sustainable development in one or more countries outside the United Kingdom, or
 - (b) improving the welfare of the population of one or more such countries.
 
-(3) For the purposes of subsection (2)(a) “**sustainable development**” includes any development that is, in the opinion of the Minister[^key-1467e6c9f63ec2f7cafeef417fbad6d7], prudent having regard to the likelihood of its generating lasting benefits for the population of the country or countries in relation to which it is provided.
+(3) For the purposes of subsection (2)(a) “**sustainable development**” includes any development that is, in the opinion of the Minister[^c-1467e6c9f63ec2f7cafeef417fbad6d7], prudent having regard to the likelihood of its generating lasting benefits for the population of the country or countries in relation to which it is provided.
 
-(4)[^key-2be652334dc49345e7dc6e04e5f16920] In this Act, “the Minister” means the Secretary of State or the Treasury.
+(4)[^c-2be652334dc49345e7dc6e04e5f16920] In this Act, “the Minister” means the Secretary of State or the Treasury.
 
 #### 2. Development assistance for British overseas territories
 
@@ -60,33 +60,33 @@ The Secretary of State may also provide any person or body with development assi
 
 #### 3. Humanitarian assistance
 
-(1)[^key-71f892312872e2380983ddbbefe92501] The Secretary of State may provide any person or body with assistance for the purpose of alleviating the effects of a natural or man-made disaster or other emergency on the population of one or more countries outside the United Kingdom.
+(1)[^c-71f892312872e2380983ddbbefe92501] The Secretary of State may provide any person or body with assistance for the purpose of alleviating the effects of a natural or man-made disaster or other emergency on the population of one or more countries outside the United Kingdom.
 
-(2)[^key-9d4a3710fd5d923d63abed3bd714e3be] Before providing assistance under subsection (1), the Secretary of State shall have regard to the desirability of providing assistance under that subsection in a way that takes account of any gender-related differences in the needs of those affected by the disaster or emergency.
+(2)[^c-9d4a3710fd5d923d63abed3bd714e3be] Before providing assistance under subsection (1), the Secretary of State shall have regard to the desirability of providing assistance under that subsection in a way that takes account of any gender-related differences in the needs of those affected by the disaster or emergency.
 
 #### 4. Supplementary powers
 
-(1) The Minister[^key-127c805ac6eeb8d926b2c6b52f2292ec] may with a view to preparing for or facilitating the exercise of the applicable powers[^key-a568bfd78d8d969622e72898cfcc81dd]—
+(1) The Minister[^c-127c805ac6eeb8d926b2c6b52f2292ec] may with a view to preparing for or facilitating the exercise of the applicable powers[^c-a568bfd78d8d969622e72898cfcc81dd]—
 
 - (a) enter into arrangements with any person or body (including arrangements to provide assistance), or
 - (b) carry on any other activities.
 
-(1A)[^key-36b549f3156cd8674936d9c9f398e704] In subsection (1) “the applicable powers” means—
+(1A)[^c-36b549f3156cd8674936d9c9f398e704] In subsection (1) “the applicable powers” means—
 
 - (a) where the Minister is the Secretary of State, the powers under section 1, 2 or 3, and
 - (b) where the Minister is the Treasury, the power under section 1.
 
-(2) The Minister[^key-f49927258f4839d77000741ceedf9c82] may—
+(2) The Minister[^c-f49927258f4839d77000741ceedf9c82] may—
 
 - (a) support, by way of subscription or otherwise, any organisation that exists (wholly or partly) for one or more relevant purposes,
 - (b) contribute to any fund that is intended to be used (wholly or partly) for one or more relevant purposes, or
 - (c) promote, or assist any person or body to promote, awareness of global poverty and of the means of reducing such poverty,
 
-if the Minister[^key-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do so is likely to contribute to a reduction in poverty.
+if the Minister[^c-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do so is likely to contribute to a reduction in poverty.
 
 (3) Subsection (2) is without prejudice to the generality of subsection (1).
 
-(4)[^key-c4ba169fc58248cc3724c853ed4db516] For the purposes of subsection (2) “relevant purpose” means—
+(4)[^c-c4ba169fc58248cc3724c853ed4db516] For the purposes of subsection (2) “relevant purpose” means—
 
 - (a) where the Minister is the Secretary of State—
   - (i) a purpose mentioned in section 1(2)(a) or (b) or 3, or
@@ -115,7 +115,7 @@ if the Minister[^key-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do s
 
 - (a) by way of grant or loan,
 - (b) in the form of a guarantee, or
-- (c) by the Minister[^key-8a06d31c3d73e418b5a5cc549ff48d08] acquiring securities of a company.
+- (c) by the Minister[^c-8a06d31c3d73e418b5a5cc549ff48d08] acquiring securities of a company.
 
 (2) More than one form of financial assistance may be provided in any case.
 
@@ -126,28 +126,28 @@ if the Minister[^key-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do s
 
 (4) This section is subject to section 7(3) (Treasury approval required for certain financial assistance).
 
-(5)[^key-074599da9ecc95237663af0f962c56f9] In a case where securities of a company are acquired by the Treasury, the securities are to be treated as held by the persons for the time being constituting the Treasury.
+(5)[^c-074599da9ecc95237663af0f962c56f9] In a case where securities of a company are acquired by the Treasury, the securities are to be treated as held by the persons for the time being constituting the Treasury.
 
 #### 7. Terms on which assistance is provided
 
-(1) The Minister[^key-4755ad8a5005474c40751f626a6b8ff7] may provide assistance under this Act on such terms and conditions (if any) as the Minister[^key-37cea1b3311b8578e18370ffd5acfb8b] may determine.
+(1) The Minister[^c-4755ad8a5005474c40751f626a6b8ff7] may provide assistance under this Act on such terms and conditions (if any) as the Minister[^c-37cea1b3311b8578e18370ffd5acfb8b] may determine.
 
 (2) Assistance, other than financial assistance, may be provided—
 
 - (a) free of charge, or
-- (b) on such terms as to payment as the Minister[^key-7bdc2cd1e540a90859eea88f5bb7d5de] may determine.
+- (b) on such terms as to payment as the Minister[^c-7bdc2cd1e540a90859eea88f5bb7d5de] may determine.
 
-(3) Financial assistance (other than a grant) may be provided under this Act by the Secretary of State[^key-d740b62b33f4b35eb5c6c030d104e295] only if the Treasury have approved the terms and conditions on which it is provided.
+(3) Financial assistance (other than a grant) may be provided under this Act by the Secretary of State[^c-d740b62b33f4b35eb5c6c030d104e295] only if the Treasury have approved the terms and conditions on which it is provided.
 
 (4) Approval may be given either with respect to a particular case or with respect to a class of cases.
 
 #### 8. Arrangements with third parties
 
-(1) Any power conferred on the Minister by the relevant provisions[^key-99570990c396848e84faf45e222a4281] to provide assistance to any person or body, or carry on any other activities, includes a power to enter into arrangements to secure that such assistance is provided, or (as the case may be) activities are carried on, by one or more other persons.
+(1) Any power conferred on the Minister by the relevant provisions[^c-99570990c396848e84faf45e222a4281] to provide assistance to any person or body, or carry on any other activities, includes a power to enter into arrangements to secure that such assistance is provided, or (as the case may be) activities are carried on, by one or more other persons.
 
-(2) The arrangements may provide for the Minister[^key-956b7e743e20f5ccc0816b96abc86763] to make payments to persons who provide facilities in pursuance of the arrangements.
+(2) The arrangements may provide for the Minister[^c-956b7e743e20f5ccc0816b96abc86763] to make payments to persons who provide facilities in pursuance of the arrangements.
 
-(3)[^key-60afecd024a86042873dde7ddca60be0] In this section “the relevant provisions” means—
+(3)[^c-60afecd024a86042873dde7ddca60be0] In this section “the relevant provisions” means—
 
 - (a) where the Minister is the Secretary of State, sections 1 to 4, and
 - (b) where the Minister is the Treasury, sections 1 and 4.
@@ -169,7 +169,7 @@ if the Minister[^key-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do s
 (4) The Secretary of State may give his consent for that purpose—
 
 - (a) where the statutory body concerned is a Scottish body or is within section 10(1)(b), only with the approval of the Scottish Ministers, and
-- (b) where the statutory body concerned is a Welsh body other than the National Assembly for Wales *(Extent: E+W)*[^key-4b911e333b1a3b3402cb439f1aa3728e], only with the approval of the National Assembly for Wales.
+- (b) where the statutory body concerned is a Welsh body other than the National Assembly for Wales *(Extent: E+W)*[^c-4b911e333b1a3b3402cb439f1aa3728e], only with the approval of the National Assembly for Wales.
 
 (5) An order may be made under this subsection to amend Schedule 1 by making additions to or deletions from the statutory bodies for the time being listed there.
 
@@ -211,14 +211,14 @@ if the Minister[^key-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do s
   - (a) an initial subscription, or other initial contribution to the capital stock of the bank, that the international agreement for the establishment and operation of the bank requires the members of the bank to make, or
   - (b) a further payment to the bank required to be made by the members under any arrangements.
 
-(3) The Minister[^key-4f1af43a73d8dbee7d58ebd7fb185d09] may—
+(3) The Minister[^c-4f1af43a73d8dbee7d58ebd7fb185d09] may—
 
 - (a) on behalf of the Government of the United Kingdom, make—
   - (i) the relevant payment, or
   - (ii) where it has been paid, any payment required to maintain its value; or
 - (b) make a payment to redeem any non-interest-bearing and non-negotiable notes, or other obligations, issued or created by him, that are accepted by the bank in accordance with the agreement or arrangements under which the relevant payment is required to be made.
 
-(4) Subsection (3) applies to a payment only if it is approved for the purposes of this section by an order made —[^key-7c9e59cf8560876666bcd12670bbb2ad]
+(4) Subsection (3) applies to a payment only if it is approved for the purposes of this section by an order made —[^c-7c9e59cf8560876666bcd12670bbb2ad]
 
 - (a) by the Treasury, or
 - (b) by the Secretary of State with the approval of the Treasury.
@@ -240,7 +240,7 @@ if the Minister[^key-68c5880436e97cd80bb14f3da99b99e6] is satisfied that to do s
 - (a) the International Bank for Reconstruction and Development;
 - (b) the International Finance Corporation;
 - (c) the International Development Association.
-- (d)[^key-22fca8ea78a2d0ec43434f6027668937] the Bank for International Settlements.
+- (d)[^c-22fca8ea78a2d0ec43434f6027668937] the Bank for International Settlements.
 
 (4) No recommendation may be made to Her Majesty in Council to make an Order under this section unless a draft of the Order has been laid before Parliament and approved by resolution of each House of Parliament.
 
@@ -271,7 +271,7 @@ appointed by the Secretary of State.
 
 - (a) select the recipients of awards arising out of the Commonwealth Scholarship and Fellowship Plan to persons coming to the United Kingdom,
 - (b) make arrangements—
-  - (i) for placing the recipients at institutions within the further education sector or higher eduction sector , at 16 to 19 Academies[^key-5cb8137908ce11aa2fdb8d16c0b45d3e] or at other appropriate establishments in the United Kingdom, and
+  - (i) for placing the recipients at institutions within the further education sector or higher eduction sector , at 16 to 19 Academies[^c-5cb8137908ce11aa2fdb8d16c0b45d3e] or at other appropriate establishments in the United Kingdom, and
   - (ii) for the supervision of their work during the period of their awards,
 - (c) select persons to be put forward as candidates from the United Kingdom for awards that—
   - (i) arise out of the Plan, and
@@ -324,7 +324,7 @@ The following provisions of the Overseas Development and Co-operation Act 1980 (
 - (b) any sums required by him for fulfilling any guarantee given under this Act;
 - (c) any increase attributable to this Act in the sums payable out of money so provided by virtue of any other Act.
 
-(2) There shall be paid into the Consolidated Fund any sums received by the Minister[^key-5fb942ea9009c088b0b2c009f50a423f]—
+(2) There shall be paid into the Consolidated Fund any sums received by the Minister[^c-5fb942ea9009c088b0b2c009f50a423f]—
 
 - (a) by way of interest on, or repayment of, a loan made under this Act,
 - (b) as a result of the disposal of any securities acquired under this Act, or by way of a dividend or other payment in respect of such securities, or
@@ -339,7 +339,7 @@ The following provisions of the Overseas Development and Co-operation Act 1980 (
 - “**assistance**” has the meaning given in section 5;
 - “**country**” includes any territory or region;
 - “**development assistance**” has the meaning given in section 1.
-- “the Minister” has the meaning given in section 1.[^key-b8beb20c69d3b93a108795c8e7390618]
+- “the Minister” has the meaning given in section 1.[^c-b8beb20c69d3b93a108795c8e7390618]
 
 (2) For the purposes of this Act references to the population of a country include references to any future population of the country and to any part of the population (present or future).
 
@@ -377,37 +377,37 @@ Section 9
 
 British Tourist Authority
 
-[^key-58e5bc5705c45545914885d436de886f]...
+[^c-58e5bc5705c45545914885d436de886f]...
 
-NHS England[^key-4815b04b5138e3e22327ccc410b26f4f][^key-4ee40274cf3068561672497b766affe8]
+NHS England[^c-4815b04b5138e3e22327ccc410b26f4f][^c-4ee40274cf3068561672497b766affe8]
 
-[^key-1fdf301fc33a2e77ebdf1592019c556a]...
+[^c-1fdf301fc33a2e77ebdf1592019c556a]...
 
-An integrated care board[^key-2807b8ee623676143f247abfcb39d5e3]
+An integrated care board[^c-2807b8ee623676143f247abfcb39d5e3]
 
 A Health Board
 
-[^key-d8b4d7be343b9f13fd2fabe266271dad]...
+[^c-d8b4d7be343b9f13fd2fabe266271dad]...
 
-A Local Health Board[^key-d93053bed2ff8dceb3828a0d16b086cf]
+A Local Health Board[^c-d93053bed2ff8dceb3828a0d16b086cf]
 
-A National Health Service trust established under the National Health Service Act 2006, the National Health Service (Wales) Act 2006, or[^key-ac2b3b4a18629c2cd2699fb5756bff8f] the National Health Service (Scotland) Act 1978 (c. 29)
+A National Health Service trust established under the National Health Service Act 2006, the National Health Service (Wales) Act 2006, or[^c-ac2b3b4a18629c2cd2699fb5756bff8f] the National Health Service (Scotland) Act 1978 (c. 29)
 
-An[^key-0abf5d1bb7f1521962f2c8faee0cbc6d] NHS foundation trust
+An[^c-0abf5d1bb7f1521962f2c8faee0cbc6d] NHS foundation trust
 
-The National Institute for Health and Care Excellence.[^key-b85acaf48eef19e362a41ba700adbbb4]
+The National Institute for Health and Care Excellence.[^c-b85acaf48eef19e362a41ba700adbbb4]
 
-[^key-74e467dde65012aeda316b7118dac90c]...
+[^c-74e467dde65012aeda316b7118dac90c]...
 
-[^key-997fcf368ba54154d3eeb095ffb78164]...
+[^c-997fcf368ba54154d3eeb095ffb78164]...
 
 A Special Health Authority
 
 A Special Health Board
 
-[^key-8cc20bfdb5db1e43945802b90c5046df]...
+[^c-8cc20bfdb5db1e43945802b90c5046df]...
 
-Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^key-570e6e66085f6c2de21efb9a583c6de0]The National Assembly for Wales *(Extent: E+W)*
+Wales Tourist Board *(Extent: E+W)* *(affected by repeal, see note)*[^c-570e6e66085f6c2de21efb9a583c6de0]The National Assembly for Wales *(Extent: E+W)*
 
 ## SCHEDULE 2 — The Commonwealth Scholarship Commission
 
@@ -480,7 +480,7 @@ In Schedule 3 to the Parliamentary Commissioners Act 1967 (matters not subject t
 >
 > - (f) service in connection with the provision by the Secretary of State of assistance under the International Development Act 2001 on which a person is engaged with the consent of the appropriate authority.
 
-(3)[^key-be92cc642ef7bd24a9b3e13a7545edef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-be92cc642ef7bd24a9b3e13a7545edef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Pensions (Increase) Act 1971 (c. 56)
 
@@ -527,7 +527,7 @@ In Schedule 1 to the Stock Transfer Act 1982 (meaning of “specified securities
 >
 > (10) For the purposes of subsection (9), references to the government of an overseas territory include references to a government constituted for two or more overseas territories, and to any authority established for the purpose of providing or administering services which are common to, or relate to matters of common interest to, two or more such territories.
 
-**10.**[^key-ea73c5244bab55c0002a1a8a4bedbc04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ea73c5244bab55c0002a1a8a4bedbc04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Police Act 1996 (c. 16)
 
@@ -539,7 +539,7 @@ In Schedule 1 to the Stock Transfer Act 1982 (meaning of “specified securities
 >
 > - (h) service in connection with the provision by the Secretary of State of assistance under the International Development Act 2001 on which a person is engaged with the consent of the appropriate authority.
 
-(3)[^key-003abea2a5ede77ac635e3dc1d7a9881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-003abea2a5ede77ac635e3dc1d7a9881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Police (Northern Ireland) Act 1998 (c. 32)
 
@@ -551,7 +551,7 @@ In Schedule 1 to the Stock Transfer Act 1982 (meaning of “specified securities
 >
 > - (j) service in connection with the provision by the Secretary of State of assistance under the International Development Act 2001 on which a member of the Police Service of Northern Ireland is engaged with the consent of the Chief Constable.
 
-(3)[^key-7678b07379be826c581918c670057d96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7678b07379be826c581918c670057d96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Repeals
 
@@ -600,100 +600,100 @@ Nothing in this Act affects the continued operation after the commencement of th
 
 ## Annotations
 
-[^key-b0ecf51cd3afb684fb2b978b3ec2aa53]: Textual amendment: Word in s. 1(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-b0ecf51cd3afb684fb2b978b3ec2aa53]: Textual amendment: Word in s. 1(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-7d3d1af0c709f71f91d8938140158451]: Textual amendment: Words in s. 1(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-7d3d1af0c709f71f91d8938140158451]: Textual amendment: Words in s. 1(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-1375b378fdce7e93596e21d07bd62e09]: Textual amendment: S. 1(1A) inserted (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/4))
+[^c-1375b378fdce7e93596e21d07bd62e09]: Textual amendment: S. 1(1A) inserted (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/4))
 
-[^key-a807acdb659a59f5652c94cbcca8c8fb]: Textual amendment: Word in s. 1(1A) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-a807acdb659a59f5652c94cbcca8c8fb]: Textual amendment: Word in s. 1(1A) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-1467e6c9f63ec2f7cafeef417fbad6d7]: Textual amendment: Word in s. 1(3) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-1467e6c9f63ec2f7cafeef417fbad6d7]: Textual amendment: Word in s. 1(3) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-2be652334dc49345e7dc6e04e5f16920]: Textual amendment: S. 1(4) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-2be652334dc49345e7dc6e04e5f16920]: Textual amendment: S. 1(4) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/3/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-71f892312872e2380983ddbbefe92501]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/3/1): s. 3 renumbered as s. 3(1) (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/3), [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/4))
+[^c-71f892312872e2380983ddbbefe92501]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/3/1): s. 3 renumbered as s. 3(1) (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/3), [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/4))
 
-[^key-9d4a3710fd5d923d63abed3bd714e3be]: Textual amendment: S. 3(2) inserted (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9) , [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/3) , [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/4) )
+[^c-9d4a3710fd5d923d63abed3bd714e3be]: Textual amendment: S. 3(2) inserted (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9) , [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/3) , [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2014/9/section/1/4) )
 
-[^key-127c805ac6eeb8d926b2c6b52f2292ec]: Textual amendment: Word in s. 4(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-127c805ac6eeb8d926b2c6b52f2292ec]: Textual amendment: Word in s. 4(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-a568bfd78d8d969622e72898cfcc81dd]: Textual amendment: Words in s. 4(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-a568bfd78d8d969622e72898cfcc81dd]: Textual amendment: Words in s. 4(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-36b549f3156cd8674936d9c9f398e704]: Textual amendment: S. 4(1A) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-36b549f3156cd8674936d9c9f398e704]: Textual amendment: S. 4(1A) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-f49927258f4839d77000741ceedf9c82]: Textual amendment: Word in s. 4(2) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-f49927258f4839d77000741ceedf9c82]: Textual amendment: Word in s. 4(2) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-68c5880436e97cd80bb14f3da99b99e6]: Textual amendment: Words in s. 4(2) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-68c5880436e97cd80bb14f3da99b99e6]: Textual amendment: Words in s. 4(2) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-c4ba169fc58248cc3724c853ed4db516]: Textual amendment: S. 4(4) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-c4ba169fc58248cc3724c853ed4db516]: Textual amendment: S. 4(4) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/4/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-8a06d31c3d73e418b5a5cc549ff48d08]: Textual amendment: Word in [s. 6(1)(c)](https://www.legislation.gov.uk/ukpga/2002/1/section/6/1/c) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/5/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-8a06d31c3d73e418b5a5cc549ff48d08]: Textual amendment: Word in [s. 6(1)(c)](https://www.legislation.gov.uk/ukpga/2002/1/section/6/1/c) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/5/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-074599da9ecc95237663af0f962c56f9]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/2002/1/section/6/5) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/5/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-074599da9ecc95237663af0f962c56f9]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/2002/1/section/6/5) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/5/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-4755ad8a5005474c40751f626a6b8ff7]: Textual amendment: Word in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-4755ad8a5005474c40751f626a6b8ff7]: Textual amendment: Word in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-37cea1b3311b8578e18370ffd5acfb8b]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-37cea1b3311b8578e18370ffd5acfb8b]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-7bdc2cd1e540a90859eea88f5bb7d5de]: Textual amendment: Word in [s. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/2/b) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-7bdc2cd1e540a90859eea88f5bb7d5de]: Textual amendment: Word in [s. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/2/b) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-d740b62b33f4b35eb5c6c030d104e295]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/3) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-d740b62b33f4b35eb5c6c030d104e295]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2002/1/section/7/3) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/6/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-99570990c396848e84faf45e222a4281]: Textual amendment: Words in s. 8(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/7/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-99570990c396848e84faf45e222a4281]: Textual amendment: Words in s. 8(1) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/7/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-956b7e743e20f5ccc0816b96abc86763]: Textual amendment: Word in s. 8(2) substituted (10.1.2018) by virtue of [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-956b7e743e20f5ccc0816b96abc86763]: Textual amendment: Word in s. 8(2) substituted (10.1.2018) by virtue of [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-60afecd024a86042873dde7ddca60be0]: Textual amendment: S. 8(3) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/7/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-60afecd024a86042873dde7ddca60be0]: Textual amendment: S. 8(3) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/7/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-4b911e333b1a3b3402cb439f1aa3728e]: Textual amendment: Words in [s. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2002/1/section/9/4/b) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/2/paragraph/6/1) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
+[^c-4b911e333b1a3b3402cb439f1aa3728e]: Textual amendment: Words in [s. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2002/1/section/9/4/b) added (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/2/paragraph/6/1) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
 
-[^key-4f1af43a73d8dbee7d58ebd7fb185d09]: Textual amendment: Word in [s. 11(3)](https://www.legislation.gov.uk/ukpga/2002/1/section/11/3) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/8/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-4f1af43a73d8dbee7d58ebd7fb185d09]: Textual amendment: Word in [s. 11(3)](https://www.legislation.gov.uk/ukpga/2002/1/section/11/3) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/8/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-7c9e59cf8560876666bcd12670bbb2ad]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/2002/1/section/11/4) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/8/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-7c9e59cf8560876666bcd12670bbb2ad]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/2002/1/section/11/4) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/8/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-22fca8ea78a2d0ec43434f6027668937]: Textual amendment: [S. 12(3)(d)](https://www.legislation.gov.uk/ukpga/2002/1/section/12/3/d) inserted (1.2.2021) by [The Bank for International Settlements (International Development Act 2002 and Immigration (Exemption from Control) Order 1972) (Amendment) Order 2021 (S.I. 2021/21)](https://www.legislation.gov.uk/uksi/2021/21), [arts. 1](https://www.legislation.gov.uk/uksi/2021/21/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/21/article/2/2)
+[^c-22fca8ea78a2d0ec43434f6027668937]: Textual amendment: [S. 12(3)(d)](https://www.legislation.gov.uk/ukpga/2002/1/section/12/3/d) inserted (1.2.2021) by [The Bank for International Settlements (International Development Act 2002 and Immigration (Exemption from Control) Order 1972) (Amendment) Order 2021 (S.I. 2021/21)](https://www.legislation.gov.uk/uksi/2021/21), [arts. 1](https://www.legislation.gov.uk/uksi/2021/21/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/21/article/2/2)
 
-[^key-5cb8137908ce11aa2fdb8d16c0b45d3e]: Textual amendment: Words in [s. 14(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2002/1/section/14/1/b/i) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/12); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5cb8137908ce11aa2fdb8d16c0b45d3e]: Textual amendment: Words in [s. 14(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2002/1/section/14/1/b/i) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/12); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-5fb942ea9009c088b0b2c009f50a423f]: Textual amendment: Word in s. 16(2) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-5fb942ea9009c088b0b2c009f50a423f]: Textual amendment: Word in s. 16(2) substituted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
-[^key-b8beb20c69d3b93a108795c8e7390618]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/17/1) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-b8beb20c69d3b93a108795c8e7390618]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2002/1/section/17/1) inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
 
 [^c286432]: Subordinate legislation: [S. 20(2)](https://www.legislation.gov.uk/ukpga/2002/1/section/20/2) power fully exercised: 17.6.2002 appointed by [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408), [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2)
 
-[^key-58e5bc5705c45545914885d436de886f]: Textual amendment: Words in Sch. 1 omitted (1.4.2007) by virtue of [References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 32(2)(a)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/32/2/a)
+[^c-58e5bc5705c45545914885d436de886f]: Textual amendment: Words in Sch. 1 omitted (1.4.2007) by virtue of [References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 32(2)(a)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/32/2/a)
 
-[^key-4815b04b5138e3e22327ccc410b26f4f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/1/schedule/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-4815b04b5138e3e22327ccc410b26f4f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/1/schedule/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-4ee40274cf3068561672497b766affe8]: Textual amendment: Words in Sch. 1 inserted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 100(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/100/a); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-4ee40274cf3068561672497b766affe8]: Textual amendment: Words in Sch. 1 inserted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 100(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/100/a); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-1fdf301fc33a2e77ebdf1592019c556a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/1/schedule/1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 65(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/65/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1fdf301fc33a2e77ebdf1592019c556a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/1/schedule/1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 65(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/65/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-2807b8ee623676143f247abfcb39d5e3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/1/schedule/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 65(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/65/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2807b8ee623676143f247abfcb39d5e3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/1/schedule/1) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 65(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/65/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-d8b4d7be343b9f13fd2fabe266271dad]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/11); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d8b4d7be343b9f13fd2fabe266271dad]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/11); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-d93053bed2ff8dceb3828a0d16b086cf]: Textual amendment: Words in Sch. 1 inserted (1.4.2007) by [References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/32/2/b)
+[^c-d93053bed2ff8dceb3828a0d16b086cf]: Textual amendment: Words in Sch. 1 inserted (1.4.2007) by [References to Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/961/article/1/1), [Sch. para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/32/2/b)
 
-[^key-ac2b3b4a18629c2cd2699fb5756bff8f]: Textual amendment: Words in Sch. 1 substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 224](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/224) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-ac2b3b4a18629c2cd2699fb5756bff8f]: Textual amendment: Words in Sch. 1 substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 224](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/224) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-0abf5d1bb7f1521962f2c8faee0cbc6d]: Textual amendment: Words in Sch. 1 inserted (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 4 para. 122](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/122); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
+[^c-0abf5d1bb7f1521962f2c8faee0cbc6d]: Textual amendment: Words in Sch. 1 inserted (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 4 para. 122](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/122); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
 
-[^key-b85acaf48eef19e362a41ba700adbbb4]: Textual amendment: Words in Sch. 1 inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/9); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-b85acaf48eef19e362a41ba700adbbb4]: Textual amendment: Words in Sch. 1 inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2012/7/schedule/17/paragraph/9); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-74e467dde65012aeda316b7118dac90c]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 100(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/100/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-74e467dde65012aeda316b7118dac90c]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 100(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/100/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-997fcf368ba54154d3eeb095ffb78164]: Textual amendment: Words in Sch. 1 repealed (1.4.2005) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2003/43/schedule/13/paragraph/11), [Sch. 14 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/7); [S.I. 2005/457](https://www.legislation.gov.uk/uksi/2005/457), [art. 2(a)(b)](https://www.legislation.gov.uk/uksi/2005/457/article/2/a/b)
+[^c-997fcf368ba54154d3eeb095ffb78164]: Textual amendment: Words in Sch. 1 repealed (1.4.2005) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2003/43/schedule/13/paragraph/11), [Sch. 14 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/7); [S.I. 2005/457](https://www.legislation.gov.uk/uksi/2005/457), [art. 2(a)(b)](https://www.legislation.gov.uk/uksi/2005/457/article/2/a/b)
 
-[^key-8cc20bfdb5db1e43945802b90c5046df]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 100(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/100/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8cc20bfdb5db1e43945802b90c5046df]: Textual amendment: Words in Sch. 1 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 100(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/100/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-570e6e66085f6c2de21efb9a583c6de0]: Textual amendment: Words in Sch. 1 substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/2/paragraph/6/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
+[^c-570e6e66085f6c2de21efb9a583c6de0]: Textual amendment: Words in Sch. 1 substituted (E.W.) (23.11.2005) by [Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/2/paragraph/6/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1))
 
-[^key-be92cc642ef7bd24a9b3e13a7545edef]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/3/3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(mm)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/mm)
+[^c-be92cc642ef7bd24a9b3e13a7545edef]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/3/3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(mm)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/mm)
 
-[^key-ea73c5244bab55c0002a1a8a4bedbc04]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/10) repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-ea73c5244bab55c0002a1a8a4bedbc04]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/10) repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-003abea2a5ede77ac635e3dc1d7a9881]: Textual amendment: [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/11/3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(mm)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/mm)
+[^c-003abea2a5ede77ac635e3dc1d7a9881]: Textual amendment: [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/11/3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(mm)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/mm)
 
-[^key-7678b07379be826c581918c670057d96]: Textual amendment: [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/12/3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(mm)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/mm)
+[^c-7678b07379be826c581918c670057d96]: Textual amendment: [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/12/3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(mm)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/mm)

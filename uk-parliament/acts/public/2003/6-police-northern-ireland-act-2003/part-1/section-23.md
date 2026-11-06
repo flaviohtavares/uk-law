@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-6ac29758ede04c1a325803ebd14b2cdf] The Police (Northern Ireland) Act 2000 (c. 32) is amended as set out in subsections (2) to (5).
+(1)[^c-6ac29758ede04c1a325803ebd14b2cdf] The Police (Northern Ireland) Act 2000 (c. 32) is amended as set out in subsections (2) to (5).
 
-(2)[^key-6ac29758ede04c1a325803ebd14b2cdf] In section 36 (appointments to the Police Service of Northern Ireland) after subsection (3) (training requirements for persons appointed to rank of constable) insert—
+(2)[^c-6ac29758ede04c1a325803ebd14b2cdf] In section 36 (appointments to the Police Service of Northern Ireland) after subsection (3) (training requirements for persons appointed to rank of constable) insert—
 
 > (4) Subsection (3) does not apply to a person appointed in pursuance of an authorisation under section 47A(1).
 
-(3)[^key-6ac29758ede04c1a325803ebd14b2cdf] After section 47 insert—
+(3)[^c-6ac29758ede04c1a325803ebd14b2cdf] After section 47 insert—
 
 > **47A. Appointments to Police Service of Northern Ireland in special circumstances**
 >
@@ -51,15 +51,15 @@ summary: ''
 >
 > (6) In this section “**specified**” means specified by the Board.
 
-(4)[^key-6ac29758ede04c1a325803ebd14b2cdf] In paragraph 17(4) of Schedule 1 (procedure for Board decisions) for “paragraph 18” substitute “ paragraphs 17A and 18 ”
+(4)[^c-6ac29758ede04c1a325803ebd14b2cdf] In paragraph 17(4) of Schedule 1 (procedure for Board decisions) for “paragraph 18” substitute “ paragraphs 17A and 18 ”
 
-(5)[^key-6ac29758ede04c1a325803ebd14b2cdf] After paragraph 17 of Schedule 1 insert—
+(5)[^c-6ac29758ede04c1a325803ebd14b2cdf] After paragraph 17 of Schedule 1 insert—
 
 > **17A. Authorisations under section 47A(1)**
 >
 > The Board shall not give an authorisation under section 47A(1) unless a proposal to do so has been approved by each member of the Board present and voting on the question at a meeting of the Board.
 
-(6) The preceding provisions of this section expire at the end of a period of two years starting on the day on which Article 10 of the Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 comes into operation[^key-70de011e01d4eb9fc8f8f175e3e6c1ac] .
+(6) The preceding provisions of this section expire at the end of a period of two years starting on the day on which Article 10 of the Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 comes into operation[^c-70de011e01d4eb9fc8f8f175e3e6c1ac] .
 
 (7) The Secretary of State may by order amend subsection (6) by substituting “four years” for “two years”.
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac29758ede04c1a325803ebd14b2cdf]: Modification: S. 23(1)-(5) restored (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [10(1)](https://www.legislation.gov.uk/nisi/2007/912/article/10/1)
+[^c-6ac29758ede04c1a325803ebd14b2cdf]: Modification: S. 23(1)-(5) restored (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [10(1)](https://www.legislation.gov.uk/nisi/2007/912/article/10/1)
 
-[^key-70de011e01d4eb9fc8f8f175e3e6c1ac]: Textual amendment: Words in s. 23(6) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [10(2)](https://www.legislation.gov.uk/nisi/2007/912/article/10/2)
+[^c-70de011e01d4eb9fc8f8f175e3e6c1ac]: Textual amendment: Words in s. 23(6) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [10(2)](https://www.legislation.gov.uk/nisi/2007/912/article/10/2)

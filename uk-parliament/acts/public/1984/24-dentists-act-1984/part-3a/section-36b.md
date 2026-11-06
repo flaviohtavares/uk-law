@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36B. The dental care professionals register[^key-1d96b1e0984e692736dfc03f35ac8d7a]
+## 36B. The dental care professionals register[^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 *Extent: E+W+S+N.I.*
 
 (1) There shall be a register of members of professions complementary to dentistry to be known as the dental care professionals register.
 
-(1A)[^key-7f08cfc89911f330b9e043a496c4ce97] The dental care professionals register shall contain particulars of persons who under section 36C are entitled to be registered in the dental care professionals register.
+(1A)[^c-7f08cfc89911f330b9e043a496c4ce97] The dental care professionals register shall contain particulars of persons who under section 36C are entitled to be registered in the dental care professionals register.
 
 (2) The dental care professionals register shall be kept by the registrar.
 
@@ -44,6 +44,6 @@ shall be evidence (and in Scotland sufficient evidence) of the matters certified
 
 ## Annotations
 
-[^key-1d96b1e0984e692736dfc03f35ac8d7a]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 29](https://www.legislation.gov.uk/uksi/2005/2011/article/29) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-1d96b1e0984e692736dfc03f35ac8d7a]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 29](https://www.legislation.gov.uk/uksi/2005/2011/article/29) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-7f08cfc89911f330b9e043a496c4ce97]: Textual amendment: [S. 36B(1A)](https://www.legislation.gov.uk/ukpga/1984/24/section/36B/1A) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [11(4)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f08cfc89911f330b9e043a496c4ce97]: Textual amendment: [S. 36B(1A)](https://www.legislation.gov.uk/ukpga/1984/24/section/36B/1A) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [11(4)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

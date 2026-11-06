@@ -32,7 +32,7 @@ summary: ''
 
 Fireworks
 
-The Fireworks (Scotland) Amendment Regulations 2021 (revoked)[^key-d2b09d84c557321edbf9782b1d20b38c]
+The Fireworks (Scotland) Amendment Regulations 2021 (revoked)[^c-d2b09d84c557321edbf9782b1d20b38c]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 30th June 2021
 
-[^key-d2b09d84c557321edbf9782b1d20b38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2b09d84c557321edbf9782b1d20b38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-d2b09d84c557321edbf9782b1d20b38c]
+## 1. Citation and commencement[^c-d2b09d84c557321edbf9782b1d20b38c]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fireworks (Scotland) Regulations 2004[^key-d2b09d84c557321edbf9782b1d20b38c]
+## 2. Amendment of the Fireworks (Scotland) Regulations 2004[^c-d2b09d84c557321edbf9782b1d20b38c]
 
 **Not yet in force.**
 
@@ -62,12 +62,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-d2b09d84c557321edbf9782b1d20b38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2b09d84c557321edbf9782b1d20b38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d2b09d84c557321edbf9782b1d20b38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2b09d84c557321edbf9782b1d20b38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2b09d84c557321edbf9782b1d20b38c]: Textual amendment: Regulations revoked (22.3.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/79/regulation/3), [3](https://www.legislation.gov.uk/ssi/2021/79/regulation/3)
+[^c-d2b09d84c557321edbf9782b1d20b38c]: Textual amendment: Regulations revoked (22.3.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/79/regulation/3), [3](https://www.legislation.gov.uk/ssi/2021/79/regulation/3)

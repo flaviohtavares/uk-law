@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Exclusion of non-commercial considerations[^key-fc83c03e7d2861a3d74c59379e4b650a]
+## 115. Exclusion of non-commercial considerations[^c-fc83c03e7d2861a3d74c59379e4b650a]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ In Article 19 of the Local Government (Miscellaneous Provisions) (Northern Irela
 
 ## Annotations
 
-[^key-fc83c03e7d2861a3d74c59379e4b650a]: Commencement: [S. 115](https://www.legislation.gov.uk/nia/2014/8/section/115) in operation at 1.2.2015 by [S.R. 2015/28](https://www.legislation.gov.uk/nisr/2015/28), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/28/article/2/b)
+[^c-fc83c03e7d2861a3d74c59379e4b650a]: Commencement: [S. 115](https://www.legislation.gov.uk/nia/2014/8/section/115) in operation at 1.2.2015 by [S.R. 2015/28](https://www.legislation.gov.uk/nisr/2015/28), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/28/article/2/b)

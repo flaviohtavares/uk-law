@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Strategic development planning authorities[^key-c72cca038f96a310e653f2f03a98f5d8]
+## 4. Strategic development planning authorities[^c-c72cca038f96a310e653f2f03a98f5d8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c72cca038f96a310e653f2f03a98f5d8]: Textual amendment: [Ss. 4-14](https://www.legislation.gov.uk/ukpga/1997/8/section/4) repealed (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 6](https://www.legislation.gov.uk/asp/2019/13/section/6), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/a)
+[^c-c72cca038f96a310e653f2f03a98f5d8]: Textual amendment: [Ss. 4-14](https://www.legislation.gov.uk/ukpga/1997/8/section/4) repealed (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 6](https://www.legislation.gov.uk/asp/2019/13/section/6), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/a)

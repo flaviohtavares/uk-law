@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208A. Cars: disposal value in avoidance cases[^key-436a8be9d99058d450a5fb3bc9b6a80a]
+## 208A. Cars: disposal value in avoidance cases[^c-436a8be9d99058d450a5fb3bc9b6a80a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-436a8be9d99058d450a5fb3bc9b6a80a]: Textual amendment: S. 208A inserted (with effect in accordance with Sch. 11 paras. 26-28 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/10) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-436a8be9d99058d450a5fb3bc9b6a80a]: Textual amendment: S. 208A inserted (with effect in accordance with Sch. 11 paras. 26-28 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/10) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Transfer of animals by way of sale or prize to persons under 16[^key-d0bc8f0facf5e45394986796345ac1dd][^key-04c694cc6c0b8e0790b9675507e54ca9]
+## 11. Transfer of animals by way of sale or prize to persons under 16[^c-d0bc8f0facf5e45394986796345ac1dd][^c-04c694cc6c0b8e0790b9675507e54ca9]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0bc8f0facf5e45394986796345ac1dd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/45/section/11) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/c)
+[^c-d0bc8f0facf5e45394986796345ac1dd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/45/section/11) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/c)
 
-[^key-04c694cc6c0b8e0790b9675507e54ca9]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/45/section/11) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/e)
+[^c-04c694cc6c0b8e0790b9675507e54ca9]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/45/section/11) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/e)

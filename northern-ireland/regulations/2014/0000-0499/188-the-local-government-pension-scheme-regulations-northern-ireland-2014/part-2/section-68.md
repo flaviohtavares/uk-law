@@ -47,13 +47,13 @@ for each year of the period of three years beginning with 1st April in the year 
 - (c) the current version of the Committee's funding strategy statement mentioned in regulation 64 (funding strategy statement); and
 - (d) the desirability of securing long term cost efficiency of the pension fund.
 
-(6A)[^key-23459bb63ae3c96457b4f7a51fef6077] Compensation paid by the scheme to a person by virtue of section 82(1) of the PSPJOA 2022 or additional benefits payable by virtue of regulation 4Q (payment of indirect compensation) of the Transitional Regulations are liabilities for the purpose of the actuarial valuation under paragraph (1)(a).
+(6A)[^c-23459bb63ae3c96457b4f7a51fef6077] Compensation paid by the scheme to a person by virtue of section 82(1) of the PSPJOA 2022 or additional benefits payable by virtue of regulation 4Q (payment of indirect compensation) of the Transitional Regulations are liabilities for the purpose of the actuarial valuation under paragraph (1)(a).
 
 (7) An individual adjustment is any percentage or amount by which, in the actuary's opinion, contributions at the common rate of employer's contribution should, in the case of—
 
 - (i) a particular contributing body;
 - (ii) a particular guarantor; or
-- (iii) both employing authority and inheriting body[^key-f2c0a62586d6bcf499a95e048ea941bd] if agreed under regulation 71 (apportionment),
+- (iii) both employing authority and inheriting body[^c-f2c0a62586d6bcf499a95e048ea941bd] if agreed under regulation 71 (apportionment),
 
 be increased or reduced by reason of any circumstances peculiar to that contributing body, guarantor or both of them and, where necessary, reflects inherited liabilities being attributable or no longer attributable.
 
@@ -70,6 +70,6 @@ during the period covered by the certificate.
 
 ## Annotations
 
-[^key-23459bb63ae3c96457b4f7a51fef6077]: Textual amendment: [Reg. 68(6A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/68/6A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(11)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/11)
+[^c-23459bb63ae3c96457b4f7a51fef6077]: Textual amendment: [Reg. 68(6A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/68/6A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(11)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/11)
 
-[^key-f2c0a62586d6bcf499a95e048ea941bd]: Textual amendment: Words in [reg. 68(7)(iii)](https://www.legislation.gov.uk/nisr/2014/188/regulation/68/7/iii) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [16](https://www.legislation.gov.uk/nisr/2015/162/regulation/16)
+[^c-f2c0a62586d6bcf499a95e048ea941bd]: Textual amendment: Words in [reg. 68(7)(iii)](https://www.legislation.gov.uk/nisr/2014/188/regulation/68/7/iii) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [16](https://www.legislation.gov.uk/nisr/2015/162/regulation/16)

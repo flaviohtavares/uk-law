@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Power of relevant authority to sell seized fish in its possession[^key-3c3057b876b2d8ee0c6d7f0a9a43bd98]
+## 273. Power of relevant authority to sell seized fish in its possession[^c-3c3057b876b2d8ee0c6d7f0a9a43bd98]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ the relevant authority must comply with the request when selling the fish.
 
 ## Annotations
 
-[^key-3c3057b876b2d8ee0c6d7f0a9a43bd98]: Commencement: [S. 273](https://www.legislation.gov.uk/ukpga/2009/23/section/273) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-3c3057b876b2d8ee0c6d7f0a9a43bd98]: Commencement: [S. 273](https://www.legislation.gov.uk/ukpga/2009/23/section/273) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

@@ -40,7 +40,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Offences relating to locking on
 
-#### 1. Offence of locking on[^key-b73920edcc775bcb33b7348bcff20dd1][^key-8ac427daa9dff2e421cfa539224c7fe5]
+#### 1. Offence of locking on[^c-b73920edcc775bcb33b7348bcff20dd1][^c-8ac427daa9dff2e421cfa539224c7fe5]
 
 (1) A person commits an offence if—
 
@@ -71,7 +71,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 and includes any yard, garden, grounds, garage or outhouse belonging to and used with a dwelling.
 
-#### 2. Offence of being equipped for locking on[^key-a08c688f5204b8cfea891c2d278a13e8][^key-0d0c373974c294043521197a1633649c]
+#### 2. Offence of being equipped for locking on[^c-a08c688f5204b8cfea891c2d278a13e8][^c-0d0c373974c294043521197a1633649c]
 
 (1) A person commits an offence if they have an object with them in a place other than a dwelling with the intention that it may be used in the course of or in connection with the commission by any person of an offence under section 1(1) (offence of locking on).
 
@@ -81,7 +81,7 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 
 ### Offences relating to tunnelling
 
-#### 3. Offence of causing serious disruption by tunnelling[^key-e38ca7fb2640da0b37afb9299b705413]
+#### 3. Offence of causing serious disruption by tunnelling[^c-e38ca7fb2640da0b37afb9299b705413]
 
 (1) A person commits an offence if—
 
@@ -120,7 +120,7 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 
 (8) In this section “**dwelling**” has the same meaning as in section 1 (offence of locking on).
 
-#### 4. Offence of causing serious disruption by being present in a tunnel[^key-73367147e8099e7bd6dba7ee49e5223d]
+#### 4. Offence of causing serious disruption by being present in a tunnel[^c-73367147e8099e7bd6dba7ee49e5223d]
 
 (1) A person commits an offence if—
 
@@ -157,7 +157,7 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 
 (9) In this section “**dwelling**” has the same meaning as in section 1 (offence of locking on).
 
-#### 5. Offence of being equipped for tunnelling etc[^key-71aad7f12ea2f4f003f1cc2ce3acefda]
+#### 5. Offence of being equipped for tunnelling etc[^c-71aad7f12ea2f4f003f1cc2ce3acefda]
 
 (1) A person commits an offence if they have an object with them in a place other than a dwelling with the intention that it may be used in the course of or in connection with the commission by any person of an offence under section 3(1) or 4(1) (offences relating to tunnelling).
 
@@ -172,7 +172,7 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 
 ### Offences involving works and infrastructure
 
-#### 6. Obstruction etc of major transport works[^key-e2f532ec23bf47e42f3395fdd5473273]
+#### 6. Obstruction etc of major transport works[^c-e2f532ec23bf47e42f3395fdd5473273]
 
 (1) A person commits an offence if the person—
 
@@ -212,7 +212,7 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 
 (7) Development is within this subsection if—
 
-- (a)[^key-33fa856904cb76060d1e2a4b520ad634] it is or forms part of a nationally significant infrastructure project within any of paragraphs (h) to (l) of section 14(1) of the Planning Act 2008,
+- (a)[^c-33fa856904cb76060d1e2a4b520ad634] it is or forms part of a nationally significant infrastructure project within any of paragraphs (h) to (l) of section 14(1) of the Planning Act 2008,
 - (b) it is or forms part of a project (or proposed project) in the field of transport in relation to which a direction has been given under section 35(1) of that Act (directions in relation to projects of national significance) by the Secretary of State, or
 - (c) it is associated development in relation to development within paragraph (a) or (b).
 
@@ -239,7 +239,7 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 
 > (3A) An order under subsection (3)(a) may also amend section 6(7)(a) of the Public Order Act 2023 (obstruction etc of major transport works).
 
-#### 7. Interference with use or operation of key national infrastructure[^key-bdee9a37cac633f7acf942fa5563f330][^key-94cbfafaac411a7ae9d8043612ce90e0]
+#### 7. Interference with use or operation of key national infrastructure[^c-bdee9a37cac633f7acf942fa5563f330][^c-94cbfafaac411a7ae9d8043612ce90e0]
 
 (1) A person commits an offence if—
 
@@ -269,8 +269,8 @@ and includes any yard, garden, grounds, garage or outhouse belonging to and used
 - (e) downstream oil infrastructure,
 - (f) downstream gas infrastructure,
 - (g) onshore oil and gas exploration and production infrastructure,
-- (h) onshore electricity generation infrastructure, [^key-3b5fbcae86ab85d42701902fb18b3ed7]...
-- (i) newspaper printing infrastructure , or[^key-4b88022eb94fd608da96eab18a05bcb2]
+- (h) onshore electricity generation infrastructure, [^c-3b5fbcae86ab85d42701902fb18b3ed7]...
+- (i) newspaper printing infrastructure , or[^c-4b88022eb94fd608da96eab18a05bcb2]
 - (j) life sciences infrastructure.
 
 Section 8 makes further provision about these kinds of infrastructure.
@@ -295,7 +295,7 @@ Section 8 makes further provision about these kinds of infrastructure.
   - (b) in subsection (5), the definition of worker included any person falling within paragraph (b) of the definition of worker in section 244(5) of that Act;
 - “**Wales**” includes the Welsh inshore region within the meaning of the Marine and Coastal Access Act 2009 (see section 322 of that Act).
 
-#### 8. Key national infrastructure[^key-c9a4d4f0bc7d37417d7ae9085805339f][^key-b7cee74da55978580efa3f6aafc5155c]
+#### 8. Key national infrastructure[^c-c9a4d4f0bc7d37417d7ae9085805339f][^c-b7cee74da55978580efa3f6aafc5155c]
 
 (1) This section has effect for the purposes of section 7.
 
@@ -369,7 +369,7 @@ Section 8 makes further provision about these kinds of infrastructure.
 - “**national newspaper**” means a newspaper which is published at least fortnightly and is in circulation in England, in Wales or in both;
 - “**newspaper**” includes a periodical or magazine.
 
-(16)[^key-719c120c757a1a12689bf98a255c93d6] “**Life sciences infrastructure**” means infrastructure—
+(16)[^c-719c120c757a1a12689bf98a255c93d6] “**Life sciences infrastructure**” means infrastructure—
 
 - (a) the primary purpose of which is facilitating—
   - (i) pharmaceutical research or development, or
@@ -378,7 +378,7 @@ Section 8 makes further provision about these kinds of infrastructure.
 
 ### Interference with access to or provision of abortion services
 
-#### 9. Offence of interference with access to or provision of abortion services[^key-64c82a699e89061c06544461310cb34e][^key-34e8487fdea4511f1e71f7471ea9e30a]
+#### 9. Offence of interference with access to or provision of abortion services[^c-64c82a699e89061c06544461310cb34e][^c-34e8487fdea4511f1e71f7471ea9e30a]
 
 (1) It is an offence for a person who is within a safe access zone to do an act with the intent of, or reckless as to whether it has the effect of—
 
@@ -419,7 +419,7 @@ where the person mentioned in paragraph (a), (b) or (c) is within the safe acces
 
 ### Powers to stop and search
 
-#### 10. Powers to stop and search on suspicion[^key-dfb5a6beea738625cf550ba5f1a3f1ee][^key-85c9e705c3cc9a777ac0200d9cd6f52f]
+#### 10. Powers to stop and search on suspicion[^c-dfb5a6beea738625cf550ba5f1a3f1ee][^c-85c9e705c3cc9a777ac0200d9cd6f52f]
 
 In section 1(8) of the Police and Criminal Evidence Act 1984 (offences in relation to which stop and search power applies)—
 
@@ -434,7 +434,7 @@ In section 1(8) of the Police and Criminal Evidence Act 1984 (offences in relati
   > - (k) an offence under section 6 of that Act (obstruction etc of major transport works); and
   > - (l) an offence under section 7 of that Act (interference with use or operation of key national infrastructure).
 
-#### 11. Powers to stop and search without suspicion[^key-ae93562785f16d792ab3fac0ce6df3ac][^key-09eb7679f1c4739023ff5e89b557c8c5]
+#### 11. Powers to stop and search without suspicion[^c-ae93562785f16d792ab3fac0ce6df3ac][^c-09eb7679f1c4739023ff5e89b557c8c5]
 
 (1) This section applies if a police officer of or above the rank of inspector reasonably believes—
 
@@ -486,7 +486,7 @@ and for the purposes of this section a person carries a prohibited object if the
 
 (11) The powers conferred by this section and the sections mentioned in subsection (9) do not affect any power conferred otherwise than by this section or those sections.
 
-#### 12. Further provisions about authorisations and directions under section 11[^key-c6d3bf792b4d6bf4fb8520597de96a39][^key-756a045be412155eb17cca800295d906]
+#### 12. Further provisions about authorisations and directions under section 11[^c-c6d3bf792b4d6bf4fb8520597de96a39][^c-756a045be412155eb17cca800295d906]
 
 (1) If an inspector gives an authorisation under section 11, the inspector must, as soon as it is practicable to do so, cause an officer of or above the rank of superintendent to be informed.
 
@@ -505,7 +505,7 @@ and for the purposes of this section a person carries a prohibited object if the
 
 (5) In the application of section 11 to a member of the British Transport Police Force by virtue of subsection (4), references to a locality within the officer’s police area are to be read as references to a place in England and Wales of a kind mentioned in section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003.
 
-#### 13. Further provisions about searches under section 11[^key-32cb847fc111d8ecab971f23ad3fe028][^key-29ca43f96f924d39b895d6502cb58f1b]
+#### 13. Further provisions about searches under section 11[^c-32cb847fc111d8ecab971f23ad3fe028][^c-29ca43f96f924d39b895d6502cb58f1b]
 
 (1) A person who is searched by a constable under section 11 is entitled to obtain a written statement that the person was searched under the powers conferred by that section.
 
@@ -528,7 +528,7 @@ and for the purposes of this section a person carries a prohibited object if the
 
 (9) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-#### 14. Offence relating to section 11[^key-0fa72346232672a591b4fce510b80a22][^key-c58215ff4d0b7f4a016d774e3b664b3a]
+#### 14. Offence relating to section 11[^c-0fa72346232672a591b4fce510b80a22][^c-c58215ff4d0b7f4a016d774e3b664b3a]
 
 (1) A person commits an offence if the person intentionally obstructs a constable in the exercise of the constable’s powers under section 11.
 
@@ -538,7 +538,7 @@ and for the purposes of this section a person carries a prohibited object if the
 
 ### Processions, assemblies and one-person protests
 
-#### 15. Processions, assemblies and one-person protests: delegation of functions[^key-f51a0063ce4e60200f7bb055e5b06ebc][^key-fab42fa80e05d08b5c90d982b6ac33f1]
+#### 15. Processions, assemblies and one-person protests: delegation of functions[^c-f51a0063ce4e60200f7bb055e5b06ebc][^c-fab42fa80e05d08b5c90d982b6ac33f1]
 
 In section 15 of the Public Order Act 1986 (processions, assemblies and one-person protests: delegation of functions), for subsection (2) substitute—
 
@@ -547,7 +547,7 @@ In section 15 of the Public Order Act 1986 (processions, assemblies and one-pers
 > - (a) in the City of London as if “an assistant chief constable” read “an assistant commissioner of police or a commander”, and
 > - (b) in the metropolitan police district as if “an assistant chief constable” read “an assistant commissioner of police, a deputy assistant commissioner of police or a commander”.
 
-#### 16. Assemblies and one-person protests: British Transport Police and MoD Police[^key-3031425b116caca3285202bb31ca5fae]
+#### 16. Assemblies and one-person protests: British Transport Police and MoD Police[^c-3031425b116caca3285202bb31ca5fae]
 
 (1) The Public Order Act 1986 is amended as follows.
 
@@ -672,7 +672,7 @@ In section 15 of the Public Order Act 1986 (processions, assemblies and one-pers
 
 ### Exercise of police powers in relation to journalists etc
 
-#### 17. Exercise of police powers in relation to journalists etc[^key-36492826ea72ad0dbd8cddad5db82174]
+#### 17. Exercise of police powers in relation to journalists etc[^c-36492826ea72ad0dbd8cddad5db82174]
 
 (1) A constable may not exercise a police power for the sole purpose of preventing a person from observing or reporting on a protest.
 
@@ -695,7 +695,7 @@ In section 15 of the Public Order Act 1986 (processions, assemblies and one-pers
 
 **Not yet in force.**
 
-#### 18. Power of Secretary of State to bring proceedings[^key-5fcef041867c37ad664ec01bb39471cb]
+#### 18. Power of Secretary of State to bring proceedings[^c-5fcef041867c37ad664ec01bb39471cb]
 
 (1) Subsection (4) applies where—
 
@@ -724,7 +724,7 @@ In section 15 of the Public Order Act 1986 (processions, assemblies and one-pers
   - (a) it made provision corresponding to section 244(4) of that Act, and
   - (b) in subsection (5), the definition of worker included any person falling within paragraph (b) of the definition of worker in section 244(5) of that Act.
 
-#### 19. Injunctions in Secretary of State proceedings: power of arrest and remand[^key-ecb09103632047de9669fcedf29e6e85]
+#### 19. Injunctions in Secretary of State proceedings: power of arrest and remand[^c-ecb09103632047de9669fcedf29e6e85]
 
 (1) This section applies to proceedings brought by the Secretary of State under section 18 (power of Secretary of State to bring proceedings).
 
@@ -775,7 +775,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 
 ### Serious disruption prevention orders made on conviction
 
-#### 20. Serious disruption prevention order made on conviction[^key-9689d91e4ad65aa6ab02fb9451c33bb2][^key-569186d8975e7521acac3c405c200955]
+#### 20. Serious disruption prevention order made on conviction[^c-9689d91e4ad65aa6ab02fb9451c33bb2][^c-569186d8975e7521acac3c405c200955]
 
 (1) This section applies where—
 
@@ -850,7 +850,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 
 ### Serious disruption prevention orders made on application
 
-#### 21. Serious disruption prevention order made on application[^key-707d1f274574b9220421f9baa2c93364][^key-6f3c1a6e451cf98aa72e8b7a19db5b08]
+#### 21. Serious disruption prevention order made on application[^c-707d1f274574b9220421f9baa2c93364][^c-6f3c1a6e451cf98aa72e8b7a19db5b08]
 
 (1) A magistrates’ court may make a serious disruption prevention order in respect of a person (“**P**”) where—
 
@@ -913,7 +913,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 
 ### Provisions of serious disruption prevention orders
 
-#### 22. Provisions of serious disruption prevention order[^key-0dbbc57e562c0a46a377b2245c199a77][^key-9ca78729c8c5cc4c9ea4a7e93f342ac0]
+#### 22. Provisions of serious disruption prevention order[^c-0dbbc57e562c0a46a377b2245c199a77][^c-9ca78729c8c5cc4c9ea4a7e93f342ac0]
 
 (1) The only requirements and prohibitions that may be imposed on a person by a serious disruption prevention order are those which the court making the order thinks are necessary for a purpose mentioned in section 20(5) or 21(4) (as the case may be).
 
@@ -947,7 +947,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 - (a) any conflict with the person’s religious beliefs, and
 - (b) any interference with the times, if any, at which the person normally works or attends any educational establishment.
 
-#### 23. Requirements in serious disruption prevention order[^key-e7134c5e3dea2630c47d7e80e1ff18a7][^key-636d7bc38f15067a9c3c9e882d36baaa]
+#### 23. Requirements in serious disruption prevention order[^c-e7134c5e3dea2630c47d7e80e1ff18a7][^c-636d7bc38f15067a9c3c9e882d36baaa]
 
 (1) A serious disruption prevention order which imposes on a person (“**P**”) a requirement, other than a notification requirement under section 24, must specify a person who is to be responsible for supervising compliance with the requirement.
 
@@ -982,7 +982,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 
 (8) The obligations mentioned in subsection (7) have effect as if they were requirements imposed on P by the order.
 
-#### 24. Notification requirements in serious disruption prevention order[^key-d4ba2054eade563983fa80766282a568][^key-a9ca821412c46a69cb79285a6927ec7f]
+#### 24. Notification requirements in serious disruption prevention order[^c-d4ba2054eade563983fa80766282a568][^c-a9ca821412c46a69cb79285a6927ec7f]
 
 (1) A serious disruption prevention order made in respect of a person (“**P**”) must impose on P the notification requirements in subsections (2) and (4).
 
@@ -1011,7 +1011,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 - (a) attending at a police station in a police area in which P lives, and
 - (b) giving an oral notification to a police officer, or to any person authorised for the purpose by the officer in charge of the station.
 
-#### 25. Duration of serious disruption prevention order[^key-6c8dba6e5e563a61a9a4a2bcfd7bb287][^key-5822966da2d71841eb83d28fc137e7de]
+#### 25. Duration of serious disruption prevention order[^c-6c8dba6e5e563a61a9a4a2bcfd7bb287][^c-5822966da2d71841eb83d28fc137e7de]
 
 (1) A serious disruption prevention order takes effect on the day it is made, subject to subsections (3) and (4).
 
@@ -1038,7 +1038,7 @@ it may, if subsection (3) applies, attach a power of arrest to any provision of 
 - (a) has the same meaning as in the Sentencing Code, and
 - (b) includes a “pre-Code custodial sentence” within the meaning of the Sentencing Code (see section 222 of the Code).
 
-#### 26. Other information to be included in serious disruption prevention order[^key-9a62cfe9cc68501d1b4b6a725fee3430][^key-1d75f9e9cca0eb536f17c67388300242]
+#### 26. Other information to be included in serious disruption prevention order[^c-9a62cfe9cc68501d1b4b6a725fee3430][^c-1d75f9e9cca0eb536f17c67388300242]
 
 A serious disruption prevention order made in respect of a person must specify—
 
@@ -1047,7 +1047,7 @@ A serious disruption prevention order made in respect of a person must specify�
 
 ### Offences
 
-#### 27. Offences relating to a serious disruption prevention order[^key-f9d9121ed46d3a3f1dd22f22ea229f74][^key-73d818b59e9581b44e2411cc1100f877]
+#### 27. Offences relating to a serious disruption prevention order[^c-f9d9121ed46d3a3f1dd22f22ea229f74][^c-73d818b59e9581b44e2411cc1100f877]
 
 (1) Where a serious disruption prevention order has effect in respect of a person (“**P**”), P commits an offence if P—
 
@@ -1064,7 +1064,7 @@ A serious disruption prevention order made in respect of a person must specify�
 
 ### Variation, renewal or discharge of serious disruption prevention orders
 
-#### 28. Variation, renewal or discharge of serious disruption prevention order[^key-f996e6d623234390baf79d892ddf270c][^key-0a62b7e7b9f8f0e54eea9d0276d542a3]
+#### 28. Variation, renewal or discharge of serious disruption prevention order[^c-f996e6d623234390baf79d892ddf270c][^c-0a62b7e7b9f8f0e54eea9d0276d542a3]
 
 (1) Where a serious disruption prevention order has been made in respect of a person (“**P**”), a person within subsection (2) may apply to the appropriate court for an order varying, renewing or discharging the order.
 
@@ -1146,7 +1146,7 @@ as they have effect in relation to the making of such an order.
 
 ### Appeals
 
-#### 29. Appeal against serious disruption prevention order[^key-6c5c76b027c2ccf754e6dd3d95894717][^key-db27e7f695a87011948050d8367365a0]
+#### 29. Appeal against serious disruption prevention order[^c-6c5c76b027c2ccf754e6dd3d95894717][^c-db27e7f695a87011948050d8367365a0]
 
 (1) Where a serious disruption prevention order is made under section 20 (order on conviction) in respect of a person (“**P**”), P may appeal against the making of the order as if the order were a sentence passed on P for the offence.
 
@@ -1174,7 +1174,7 @@ as they have effect in relation to the making of such an order.
 
 ### General
 
-#### 30. Guidance[^key-1ccca93840adcd5dd9b262d22524b8ad][^key-3e8bb3c17609a7ae8bd1e704461938b8]
+#### 30. Guidance[^c-1ccca93840adcd5dd9b262d22524b8ad][^c-3e8bb3c17609a7ae8bd1e704461938b8]
 
 (1) The Secretary of State may issue guidance to—
 
@@ -1197,7 +1197,7 @@ in relation to serious disruption prevention orders.
 
 (5) A chief officer of police or a chief constable mentioned in subsection (1) must have regard to any guidance issued under this section.
 
-#### 31. Guidance: Parliamentary procedure[^key-601d7f5e39f6d15114197ea3dd9cbeaa][^key-41e56e86a61918f79d5af97bcb343676]
+#### 31. Guidance: Parliamentary procedure[^c-601d7f5e39f6d15114197ea3dd9cbeaa][^c-41e56e86a61918f79d5af97bcb343676]
 
 (1) Before issuing guidance under section 30, the Secretary of State must lay a draft of the guidance before Parliament.
 
@@ -1212,7 +1212,7 @@ in relation to serious disruption prevention orders.
 - (a) Parliament is dissolved or prorogued, or
 - (b) both Houses are adjourned for more than 4 days.
 
-#### 32. Interpretation of Part[^key-aa8fea0111e5002f29c3f8b01d4ae8fe][^key-f7d8385c2418e8fa4daf4ff49698c0f1]
+#### 32. Interpretation of Part[^c-aa8fea0111e5002f29c3f8b01d4ae8fe][^c-f7d8385c2418e8fa4daf4ff49698c0f1]
 
 In this Part—
 
@@ -1223,7 +1223,7 @@ In this Part—
 - “**protest-related breach**”, in relation to an injunction, means a breach which is directly related to a protest;
 - “**protest-related offence**” means an offence which is directly related to a protest.
 
-#### 33. Consequential amendments[^key-958d0ad183bf94dd2366241c61633362][^key-062e06c2484cefd76e17d8fe77c58962]
+#### 33. Consequential amendments[^c-958d0ad183bf94dd2366241c61633362][^c-062e06c2484cefd76e17d8fe77c58962]
 
 (1) In section 3(2) of the Prosecution of Offences Act 1985 (functions of the Director of Public Prosecutions), before paragraph (g) insert—
 
@@ -1239,7 +1239,7 @@ In this Part—
 
 ## Part 3 — General
 
-### 34. Meaning of serious disruption[^key-21174bba8a33e9b4f26424cbf045467e][^key-fce5788add5ae79b96b8f2bd761e1e0d]
+### 34. Meaning of serious disruption[^c-21174bba8a33e9b4f26424cbf045467e][^c-fce5788add5ae79b96b8f2bd761e1e0d]
 
 (1) For the purposes of this Act, the cases in which individuals or an organisation may suffer serious disruption include, in particular, where the individuals or the organisation—
 
@@ -1261,7 +1261,7 @@ In this Part—
   - (v) an educational institution, or
   - (vi) a service relating to health.
 
-### 35. Extent, commencement and short title[^key-82e12fcf719817f8b09ae385b6eb0f3d]
+### 35. Extent, commencement and short title[^c-82e12fcf719817f8b09ae385b6eb0f3d]
 
 (1) This Act extends to England and Wales only, subject to subsection (2).
 
@@ -1290,13 +1290,13 @@ In this Part—
 
 Section 19
 
-### 1. Introductory[^key-b9ae3476340b8f2b250b9a1da5ddb054]
+### 1. Introductory[^c-b9ae3476340b8f2b250b9a1da5ddb054]
 
 (1) This Schedule applies where the court has power to remand a person under subsection (6) of section 19 (injunctions in Secretary of State proceedings: power of arrest and remand).
 
 (2) In this Schedule “**the court**” has the same meaning as in that section.
 
-### 2. Remand in custody or on bail[^key-1eea2c8a2ad147b75b063029bb9d87e4]
+### 2. Remand in custody or on bail[^c-1eea2c8a2ad147b75b063029bb9d87e4]
 
 (1) The court may—
 
@@ -1310,7 +1310,7 @@ Section 19
 
 (3) Where a person is brought before the court after remand, the court may further remand the person.
 
-**3.**[^key-aa7ccdd09c32d5539b65a10a56f24472] (1) Where a person is remanded on bail, the court may direct that the person’s recognizance be conditioned for the person’s appearance—
+**3.**[^c-aa7ccdd09c32d5539b65a10a56f24472] (1) Where a person is remanded on bail, the court may direct that the person’s recognizance be conditioned for the person’s appearance—
 
 - (a) before that court at the end of the period of remand, or
 - (b) at every time and place to which during the course of the proceedings the hearing may from time to time be adjourned.
@@ -1319,14 +1319,14 @@ Section 19
 
 (3) Nothing in this paragraph affects the power of the court at any subsequent hearing to remand the person afresh.
 
-**4.**[^key-eecf2460b03266372d53e39c001e36aa] (1) The court must not remand a person for a period exceeding eight clear days except that—
+**4.**[^c-eecf2460b03266372d53e39c001e36aa] (1) The court must not remand a person for a period exceeding eight clear days except that—
 
 - (a) if the court remands the person on bail, it may remand the person for a longer period if the person and the other party consent, and
 - (b) if the court adjourns a case under section 19(9) (remand for medical examination and report) the court may remand the person for the period of adjournment.
 
 (2) Where the court has the power to remand a person in custody it may, if the remand is for a period not exceeding three clear days, commit the person to the custody of a constable.
 
-### 5. Further remand[^key-40c29d08cbc4605eadf945804954f9cf]
+### 5. Further remand[^c-40c29d08cbc4605eadf945804954f9cf]
 
 (1) If the court is satisfied that a person who has been remanded is unable by reason of illness or accident to appear or be brought before the court at the expiration of the period for which the person was remanded, the court may, in the person’s absence, remand the person for a further time.
 
@@ -1338,156 +1338,156 @@ Section 19
 
 (5) Paragraph 4(1) (limit of remand) does not apply to the exercise of the powers conferred by this paragraph.
 
-### 6. Postponement and taking recognizance[^key-b07be815c6d751be39a4860063236427]
+### 6. Postponement and taking recognizance[^c-b07be815c6d751be39a4860063236427]
 
 Where under paragraph 2(2)(b) the court fixes the amount in which the principal and their sureties, if any, are to be bound, the recognizance may afterwards be taken by such person as may be prescribed by rules of court, with the same consequences as if it had been entered into before the court.
 
-### 7. Requirements imposed on remand on bail[^key-0e4859ab5273a992ee7466146f1766fc]
+### 7. Requirements imposed on remand on bail[^c-0e4859ab5273a992ee7466146f1766fc]
 
 The court may when remanding a person on bail under this Schedule require the person to comply, before release on bail or later, with such requirements as appear to the court to be necessary to secure that the person does not interfere with witnesses or otherwise obstruct the course of justice.
 
 ## Annotations
 
-[^key-b73920edcc775bcb33b7348bcff20dd1]: Commencement: S. 1 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-b73920edcc775bcb33b7348bcff20dd1]: Commencement: S. 1 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-8ac427daa9dff2e421cfa539224c7fe5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/15/section/1) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/a)
+[^c-8ac427daa9dff2e421cfa539224c7fe5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/15/section/1) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/a)
 
-[^key-a08c688f5204b8cfea891c2d278a13e8]: Commencement: S. 2 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-a08c688f5204b8cfea891c2d278a13e8]: Commencement: S. 2 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-0d0c373974c294043521197a1633649c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/15/section/2) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/b)
+[^c-0d0c373974c294043521197a1633649c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/15/section/2) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/b)
 
-[^key-e38ca7fb2640da0b37afb9299b705413]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/15/section/3) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/a)
+[^c-e38ca7fb2640da0b37afb9299b705413]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/15/section/3) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/a)
 
-[^key-73367147e8099e7bd6dba7ee49e5223d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/15/section/4) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/b)
+[^c-73367147e8099e7bd6dba7ee49e5223d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/15/section/4) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/b)
 
-[^key-71aad7f12ea2f4f003f1cc2ce3acefda]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/15/section/5) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/c)
+[^c-71aad7f12ea2f4f003f1cc2ce3acefda]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/15/section/5) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/c)
 
-[^key-e2f532ec23bf47e42f3395fdd5473273]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/15/section/6) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/d)
+[^c-e2f532ec23bf47e42f3395fdd5473273]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/15/section/6) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/d)
 
-[^key-33fa856904cb76060d1e2a4b520ad634]: Modification: [S. 6(7)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/6/7/a): power to amend conferred (2.7.2023) by 2008 c. 29, s. 14(3A) (as inserted by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 6(10)](https://www.legislation.gov.uk/ukpga/2023/15/section/6/10), [35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5); [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/d))
+[^c-33fa856904cb76060d1e2a4b520ad634]: Modification: [S. 6(7)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/6/7/a): power to amend conferred (2.7.2023) by 2008 c. 29, s. 14(3A) (as inserted by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 6(10)](https://www.legislation.gov.uk/ukpga/2023/15/section/6/10), [35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5); [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/d))
 
-[^key-bdee9a37cac633f7acf942fa5563f330]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 35(3)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/3/a)
+[^c-bdee9a37cac633f7acf942fa5563f330]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 35(3)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/3/a)
 
-[^key-94cbfafaac411a7ae9d8043612ce90e0]: Commencement: S. 7 in force at 3.5.2023 in so far as not already in force by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/c)
+[^c-94cbfafaac411a7ae9d8043612ce90e0]: Commencement: S. 7 in force at 3.5.2023 in so far as not already in force by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/c)
 
-[^key-3b5fbcae86ab85d42701902fb18b3ed7]: Textual amendment: Word in s. 7(6) omitted (12.2.2026) by virtue of [The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026 (S.I. 2026/112)](https://www.legislation.gov.uk/uksi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/112/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/112/regulation/2/2/a)
+[^c-3b5fbcae86ab85d42701902fb18b3ed7]: Textual amendment: Word in s. 7(6) omitted (12.2.2026) by virtue of [The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026 (S.I. 2026/112)](https://www.legislation.gov.uk/uksi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/112/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/112/regulation/2/2/a)
 
-[^key-4b88022eb94fd608da96eab18a05bcb2]: Textual amendment: S. 7(6)(j) and word inserted (12.2.2026) by [The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026 (S.I. 2026/112)](https://www.legislation.gov.uk/uksi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/112/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/112/regulation/2/2/b)
+[^c-4b88022eb94fd608da96eab18a05bcb2]: Textual amendment: S. 7(6)(j) and word inserted (12.2.2026) by [The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026 (S.I. 2026/112)](https://www.legislation.gov.uk/uksi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/112/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/112/regulation/2/2/b)
 
-[^key-c9a4d4f0bc7d37417d7ae9085805339f]: Commencement: S. 8 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-c9a4d4f0bc7d37417d7ae9085805339f]: Commencement: S. 8 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-b7cee74da55978580efa3f6aafc5155c]: Commencement: S. 8 in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/d)
+[^c-b7cee74da55978580efa3f6aafc5155c]: Commencement: S. 8 in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/d)
 
-[^key-719c120c757a1a12689bf98a255c93d6]: Textual amendment: S. 8(16) inserted (12.2.2026) by [The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026 (S.I. 2026/112)](https://www.legislation.gov.uk/uksi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/112/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/112/regulation/2/3)
+[^c-719c120c757a1a12689bf98a255c93d6]: Textual amendment: S. 8(16) inserted (12.2.2026) by [The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026 (S.I. 2026/112)](https://www.legislation.gov.uk/uksi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/112/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/112/regulation/2/3)
 
-[^key-64c82a699e89061c06544461310cb34e]: Commencement: S. 9 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-64c82a699e89061c06544461310cb34e]: Commencement: S. 9 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-34e8487fdea4511f1e71f7471ea9e30a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/15/section/9) in force at 31.10.2024 by [S.I. 2024/1050](https://www.legislation.gov.uk/uksi/2024/1050), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1050/regulation/2)
+[^c-34e8487fdea4511f1e71f7471ea9e30a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/15/section/9) in force at 31.10.2024 by [S.I. 2024/1050](https://www.legislation.gov.uk/uksi/2024/1050), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1050/regulation/2)
 
-[^key-dfb5a6beea738625cf550ba5f1a3f1ee]: Commencement: S. 10 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-dfb5a6beea738625cf550ba5f1a3f1ee]: Commencement: S. 10 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-85c9e705c3cc9a777ac0200d9cd6f52f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/15/section/10) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/a)
+[^c-85c9e705c3cc9a777ac0200d9cd6f52f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/15/section/10) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/a)
 
-[^key-ae93562785f16d792ab3fac0ce6df3ac]: Commencement: S. 11 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-ae93562785f16d792ab3fac0ce6df3ac]: Commencement: S. 11 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-09eb7679f1c4739023ff5e89b557c8c5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/15/section/11) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/b)
+[^c-09eb7679f1c4739023ff5e89b557c8c5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/15/section/11) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/b)
 
-[^key-c6d3bf792b4d6bf4fb8520597de96a39]: Commencement: S. 12 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-c6d3bf792b4d6bf4fb8520597de96a39]: Commencement: S. 12 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-756a045be412155eb17cca800295d906]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/15/section/12) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/c)
+[^c-756a045be412155eb17cca800295d906]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/15/section/12) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/c)
 
-[^key-32cb847fc111d8ecab971f23ad3fe028]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 35(3)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/3/a)
+[^c-32cb847fc111d8ecab971f23ad3fe028]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 35(3)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/3/a)
 
-[^key-29ca43f96f924d39b895d6502cb58f1b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/15/section/13) in force at 20.12.2023 in so far as not already in force by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/d)
+[^c-29ca43f96f924d39b895d6502cb58f1b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/15/section/13) in force at 20.12.2023 in so far as not already in force by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/d)
 
-[^key-0fa72346232672a591b4fce510b80a22]: Commencement: S. 14 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-0fa72346232672a591b4fce510b80a22]: Commencement: S. 14 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-c58215ff4d0b7f4a016d774e3b664b3a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/15/section/14) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/e)
+[^c-c58215ff4d0b7f4a016d774e3b664b3a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/15/section/14) in force at 20.12.2023 by [S.I. 2023/1418](https://www.legislation.gov.uk/uksi/2023/1418), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1418/regulation/2/e)
 
-[^key-f51a0063ce4e60200f7bb055e5b06ebc]: Commencement: S. 15 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-f51a0063ce4e60200f7bb055e5b06ebc]: Commencement: S. 15 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-fab42fa80e05d08b5c90d982b6ac33f1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/15/section/15) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/e)
+[^c-fab42fa80e05d08b5c90d982b6ac33f1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/15/section/15) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/e)
 
-[^key-3031425b116caca3285202bb31ca5fae]: Commencement: S. 16 in force at 2.7.2023, see [s. 35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+[^c-3031425b116caca3285202bb31ca5fae]: Commencement: S. 16 in force at 2.7.2023, see [s. 35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
 
-[^key-36492826ea72ad0dbd8cddad5db82174]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/15/section/17) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/e)
+[^c-36492826ea72ad0dbd8cddad5db82174]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/15/section/17) in force at 2.7.2023 by [S.I. 2023/733](https://www.legislation.gov.uk/uksi/2023/733), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/733/regulation/2/e)
 
-[^key-5fcef041867c37ad664ec01bb39471cb]: Commencement: S. 18 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-5fcef041867c37ad664ec01bb39471cb]: Commencement: S. 18 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-ecb09103632047de9669fcedf29e6e85]: Commencement: S. 19 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-ecb09103632047de9669fcedf29e6e85]: Commencement: S. 19 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-9689d91e4ad65aa6ab02fb9451c33bb2]: Commencement: S. 20 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-9689d91e4ad65aa6ab02fb9451c33bb2]: Commencement: S. 20 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-569186d8975e7521acac3c405c200955]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/15/section/20) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/a)
+[^c-569186d8975e7521acac3c405c200955]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/15/section/20) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/a)
 
-[^key-707d1f274574b9220421f9baa2c93364]: Commencement: S. 21 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-707d1f274574b9220421f9baa2c93364]: Commencement: S. 21 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-6f3c1a6e451cf98aa72e8b7a19db5b08]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/15/section/21) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/b)
+[^c-6f3c1a6e451cf98aa72e8b7a19db5b08]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/15/section/21) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/b)
 
-[^key-0dbbc57e562c0a46a377b2245c199a77]: Commencement: S. 22 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-0dbbc57e562c0a46a377b2245c199a77]: Commencement: S. 22 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-9ca78729c8c5cc4c9ea4a7e93f342ac0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/15/section/22) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/c)
+[^c-9ca78729c8c5cc4c9ea4a7e93f342ac0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/15/section/22) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/c)
 
-[^key-e7134c5e3dea2630c47d7e80e1ff18a7]: Commencement: S. 23 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-e7134c5e3dea2630c47d7e80e1ff18a7]: Commencement: S. 23 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-636d7bc38f15067a9c3c9e882d36baaa]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/15/section/23) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/d)
+[^c-636d7bc38f15067a9c3c9e882d36baaa]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/15/section/23) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/d)
 
-[^key-d4ba2054eade563983fa80766282a568]: Commencement: S. 24 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-d4ba2054eade563983fa80766282a568]: Commencement: S. 24 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-a9ca821412c46a69cb79285a6927ec7f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/15/section/24) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/e)
+[^c-a9ca821412c46a69cb79285a6927ec7f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/15/section/24) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/e)
 
-[^key-6c8dba6e5e563a61a9a4a2bcfd7bb287]: Commencement: S. 25 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-6c8dba6e5e563a61a9a4a2bcfd7bb287]: Commencement: S. 25 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-5822966da2d71841eb83d28fc137e7de]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/15/section/25) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/f)
+[^c-5822966da2d71841eb83d28fc137e7de]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/15/section/25) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/f)
 
-[^key-9a62cfe9cc68501d1b4b6a725fee3430]: Commencement: S. 26 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-9a62cfe9cc68501d1b4b6a725fee3430]: Commencement: S. 26 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-1d75f9e9cca0eb536f17c67388300242]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/15/section/26) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/g)
+[^c-1d75f9e9cca0eb536f17c67388300242]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/15/section/26) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/g)
 
-[^key-f9d9121ed46d3a3f1dd22f22ea229f74]: Commencement: S. 27 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-f9d9121ed46d3a3f1dd22f22ea229f74]: Commencement: S. 27 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-73d818b59e9581b44e2411cc1100f877]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/15/section/27) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/h)
+[^c-73d818b59e9581b44e2411cc1100f877]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/15/section/27) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/h)
 
-[^key-f996e6d623234390baf79d892ddf270c]: Commencement: S. 28 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-f996e6d623234390baf79d892ddf270c]: Commencement: S. 28 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-0a62b7e7b9f8f0e54eea9d0276d542a3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/15/section/28) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/i)
+[^c-0a62b7e7b9f8f0e54eea9d0276d542a3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/15/section/28) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/i)
 
-[^key-6c5c76b027c2ccf754e6dd3d95894717]: Commencement: S. 29 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-6c5c76b027c2ccf754e6dd3d95894717]: Commencement: S. 29 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-db27e7f695a87011948050d8367365a0]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/15/section/29) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/j)
+[^c-db27e7f695a87011948050d8367365a0]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/15/section/29) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/j)
 
-[^key-1ccca93840adcd5dd9b262d22524b8ad]: Commencement: S. 30 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-1ccca93840adcd5dd9b262d22524b8ad]: Commencement: S. 30 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-3e8bb3c17609a7ae8bd1e704461938b8]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/15/section/30) in force at 1.12.2023 by [S.I. 2023/1281](https://www.legislation.gov.uk/uksi/2023/1281), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1281/regulation/2/a)
+[^c-3e8bb3c17609a7ae8bd1e704461938b8]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/15/section/30) in force at 1.12.2023 by [S.I. 2023/1281](https://www.legislation.gov.uk/uksi/2023/1281), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1281/regulation/2/a)
 
-[^key-601d7f5e39f6d15114197ea3dd9cbeaa]: Commencement: S. 31 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-601d7f5e39f6d15114197ea3dd9cbeaa]: Commencement: S. 31 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-41e56e86a61918f79d5af97bcb343676]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/15/section/31) in force at 1.12.2023 by [S.I. 2023/1281](https://www.legislation.gov.uk/uksi/2023/1281), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1281/regulation/2/b)
+[^c-41e56e86a61918f79d5af97bcb343676]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/15/section/31) in force at 1.12.2023 by [S.I. 2023/1281](https://www.legislation.gov.uk/uksi/2023/1281), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1281/regulation/2/b)
 
-[^key-aa8fea0111e5002f29c3f8b01d4ae8fe]: Commencement: S. 32 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-aa8fea0111e5002f29c3f8b01d4ae8fe]: Commencement: S. 32 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-f7d8385c2418e8fa4daf4ff49698c0f1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/15/section/32) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/k)
+[^c-f7d8385c2418e8fa4daf4ff49698c0f1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/15/section/32) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/k)
 
-[^key-958d0ad183bf94dd2366241c61633362]: Commencement: S. 33 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-958d0ad183bf94dd2366241c61633362]: Commencement: S. 33 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-062e06c2484cefd76e17d8fe77c58962]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/15/section/33) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/l)
+[^c-062e06c2484cefd76e17d8fe77c58962]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/15/section/33) in force at 5.4.2024 by [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/l)
 
-[^key-21174bba8a33e9b4f26424cbf045467e]: Commencement: S. 34 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-21174bba8a33e9b4f26424cbf045467e]: Commencement: S. 34 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-fce5788add5ae79b96b8f2bd761e1e0d]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/15/section/34) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/f)
+[^c-fce5788add5ae79b96b8f2bd761e1e0d]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/15/section/34) in force at 3.5.2023 by [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/f)
 
-[^key-82e12fcf719817f8b09ae385b6eb0f3d]: Commencement: S. 35 in force at Royal Assent, see [s. 35(3)(b)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/3/b)
+[^c-82e12fcf719817f8b09ae385b6eb0f3d]: Commencement: S. 35 in force at Royal Assent, see [s. 35(3)(b)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/3/b)
 
-[^key-b9ae3476340b8f2b250b9a1da5ddb054]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-b9ae3476340b8f2b250b9a1da5ddb054]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-1eea2c8a2ad147b75b063029bb9d87e4]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-1eea2c8a2ad147b75b063029bb9d87e4]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-aa7ccdd09c32d5539b65a10a56f24472]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-aa7ccdd09c32d5539b65a10a56f24472]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-eecf2460b03266372d53e39c001e36aa]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-eecf2460b03266372d53e39c001e36aa]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-40c29d08cbc4605eadf945804954f9cf]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-40c29d08cbc4605eadf945804954f9cf]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-b07be815c6d751be39a4860063236427]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-b07be815c6d751be39a4860063236427]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
 
-[^key-0e4859ab5273a992ee7466146f1766fc]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)
+[^c-0e4859ab5273a992ee7466146f1766fc]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5)

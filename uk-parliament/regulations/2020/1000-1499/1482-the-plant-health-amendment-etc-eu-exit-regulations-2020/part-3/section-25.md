@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants[^key-e5710289787a35a7aa61df76a7ea6d48]
+## 25. Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants[^c-e5710289787a35a7aa61df76a7ea6d48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) 2016/2031 of the European Parliament and of the Council on prote
 
 ## Annotations
 
-[^key-e5710289787a35a7aa61df76a7ea6d48]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-e5710289787a35a7aa61df76a7ea6d48]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)

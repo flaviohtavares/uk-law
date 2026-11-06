@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Scotland) Amendment Regulations 2004 (revoked)[^key-5636c8468beb3a559183095effd8ed12]
+The Feeding Stuffs (Scotland) Amendment Regulations 2004 (revoked)[^c-5636c8468beb3a559183095effd8ed12]
 
 Made
 
@@ -45,156 +45,156 @@ Coming into force
 
 26th May 2004
 
-[^key-5636c8468beb3a559183095effd8ed12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5636c8468beb3a559183095effd8ed12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-5636c8468beb3a559183095effd8ed12]
+## 1. Citation, commencement and extent[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (Scotland) Regulations 2000[^key-5636c8468beb3a559183095effd8ed12]
+## 2. Amendments to the Feeding Stuffs (Scotland) Regulations 2000[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-5636c8468beb3a559183095effd8ed12]
+## 3.[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-5636c8468beb3a559183095effd8ed12]
+## 4.[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-5636c8468beb3a559183095effd8ed12]
+## 5.[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5636c8468beb3a559183095effd8ed12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5636c8468beb3a559183095effd8ed12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^key-5636c8468beb3a559183095effd8ed12]
+## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^c-5636c8468beb3a559183095effd8ed12]
 
 Regulation 3(b)
 
-> **PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED[^key-5636c8468beb3a559183095effd8ed12]**
+> **PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED[^c-5636c8468beb3a559183095effd8ed12]**
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5636c8468beb3a559183095effd8ed12]
+> [^c-5636c8468beb3a559183095effd8ed12]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^c-5636c8468beb3a559183095effd8ed12]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROVISIONS TO BE SUBSTITUTED IN PART I OF SCHEDULE 7 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^key-5636c8468beb3a559183095effd8ed12]
+## SCHEDULE 2 — PROVISIONS TO BE SUBSTITUTED IN PART I OF SCHEDULE 7 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^c-5636c8468beb3a559183095effd8ed12]
 
 Regulation 4
 
-[^key-5636c8468beb3a559183095effd8ed12]
+[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — ENTRIES TO BE SUBSTITUTED IN SCHEDULE 8 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^key-5636c8468beb3a559183095effd8ed12]
+## SCHEDULE 3 — ENTRIES TO BE SUBSTITUTED IN SCHEDULE 8 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^c-5636c8468beb3a559183095effd8ed12]
 
 Regulation 5
 
-[^key-5636c8468beb3a559183095effd8ed12]
+[^c-5636c8468beb3a559183095effd8ed12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5636c8468beb3a559183095effd8ed12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5636c8468beb3a559183095effd8ed12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5636c8468beb3a559183095effd8ed12]: Textual amendment: Regulations revoked (1.1.2006) by [The Feeding Stuffs (Scotland) Regulations 2005 (S.S.I. 2005/605)](https://www.legislation.gov.uk/ssi/2005/605), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/605/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2005/605/schedule/9)
+[^c-5636c8468beb3a559183095effd8ed12]: Textual amendment: Regulations revoked (1.1.2006) by [The Feeding Stuffs (Scotland) Regulations 2005 (S.S.I. 2005/605)](https://www.legislation.gov.uk/ssi/2005/605), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/605/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2005/605/schedule/9)

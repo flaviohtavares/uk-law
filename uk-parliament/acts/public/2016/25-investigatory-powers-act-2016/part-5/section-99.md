@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Warrants under this Part: general[^key-d5b1c16c4dc03befa9504c6786f05150]
+## 99. Warrants under this Part: general[^c-d5b1c16c4dc03befa9504c6786f05150]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ In this Part, “**protected material**”, in relation to a targeted examinatio
 
 ## Annotations
 
-[^key-d5b1c16c4dc03befa9504c6786f05150]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2016/25/section/99) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/a)
+[^c-d5b1c16c4dc03befa9504c6786f05150]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2016/25/section/99) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/a)

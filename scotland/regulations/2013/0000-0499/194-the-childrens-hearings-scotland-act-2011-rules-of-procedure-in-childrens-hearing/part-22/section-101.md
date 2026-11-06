@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Compatibility questions under the 2024 Act - raising, intimation and notice[^key-002fb124f5a36e5c046be4d47a181fdf]
+## 101. Compatibility questions under the 2024 Act - raising, intimation and notice[^c-002fb124f5a36e5c046be4d47a181fdf]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-002fb124f5a36e5c046be4d47a181fdf]: Textual amendment: [Rule 101](https://www.legislation.gov.uk/ssi/2013/194/rule/101) inserted (1.4.2026) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2026 (S.S.I. 2026/30)](https://www.legislation.gov.uk/ssi/2026/30), [rules 1](https://www.legislation.gov.uk/ssi/2026/30/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/30/rule/2/2)
+[^c-002fb124f5a36e5c046be4d47a181fdf]: Textual amendment: [Rule 101](https://www.legislation.gov.uk/ssi/2013/194/rule/101) inserted (1.4.2026) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2026 (S.S.I. 2026/30)](https://www.legislation.gov.uk/ssi/2026/30), [rules 1](https://www.legislation.gov.uk/ssi/2026/30/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/30/rule/2/2)

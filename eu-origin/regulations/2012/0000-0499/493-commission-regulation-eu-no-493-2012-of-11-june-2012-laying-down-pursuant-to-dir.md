@@ -81,18 +81,18 @@ This Regulation shall apply to the recycling processes carried out to waste batt
 
 ## Article 2. Definitions
 
-(1)[^key-afd185da99a9fc40bd71163c457213f8] For the purposes of this Regulation, the following definitions shall apply:
+(1)[^c-afd185da99a9fc40bd71163c457213f8] For the purposes of this Regulation, the following definitions shall apply:
 
 - ((1)) ‘recycling process’ means any reprocessing operation as referred to in Article 3(8) of Directive 2006/66/EC which is carried out on waste lead-acid, nickel-cadmium and other batteries and accumulators and results in the production of output fractions as defined in point 5 of this Article. The recycling process does not include sorting and/or preparation for recycling/disposal and may be carried out in a single facility or in several facilities;
 - ((2)) ‘preparation for recycling’ means treatment of waste batteries and/or accumulators prior to any recycling process, which shall, inter alia, include storage, handling, dismantling of battery packs or separation of fractions that are not part of the battery or accumulator itself;
 - ((3)) ‘recycling efficiency’ of a recycling process means the ratio obtained by dividing the mass of output fractions accounting for recycling by the mass of the waste batteries and accumulators input fraction expressed as a percentage;
 - ((4)) ‘input fraction’ means the mass of collected waste batteries and accumulators entering the recycling process as defined in Annex I;
-- ((4A)) “[^key-9fc65272bd6115e7426f86a9c7ee6cfd]**waste battery or accumulator**” means any battery or accumulator which is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive;
+- ((4A)) “[^c-9fc65272bd6115e7426f86a9c7ee6cfd]**waste battery or accumulator**” means any battery or accumulator which is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive;
 - ((4B)) “**disposal**” means any of the applicable operations provided for in Annex 1 to the Waste Framework Directive;
 - ((4C)) “**Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66)**” means Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators, as last amended by Directive (EU) 2018/849 of the European Parliament and of the Council;
 - ((5)) ‘output fraction’ means the mass of materials that are produced from the input fraction as a result of the recycling process, as defined in Annex I without undergoing further treatment, that have ceased to be waste or that will be used for their original purpose or for other purposes, but excluding energy recovery.
 
-(2.)[^key-5cd6331f82eefc2dc91067f7793a6438] In paragraph 1, “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, read in accordance with paragraphs 3 and 4.
+(2.)[^c-5cd6331f82eefc2dc91067f7793a6438] In paragraph 1, “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, read in accordance with paragraphs 3 and 4.
 
 (3.) Article 5 is to be read as if—
 
@@ -114,7 +114,7 @@ This Regulation shall apply to the recycling processes carried out to waste batt
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-27fc11f1fc0a937d47e1188c0b89179e] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-27fc11f1fc0a937d47e1188c0b89179e] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the appropriate authority or the competent authority for the purposes of this Article.
 
   ;
@@ -153,17 +153,17 @@ This Regulation shall apply to the recycling processes carried out to waste batt
 
 3. The method set out in Annex III shall be used to calculate the rate of recycled cadmium content for any recycling process.
 
-4. Recyclers shall report the information shown in Annex IV, Annex V and Annex VI, as applicable, on an annual basis and shall send it to the competent authority[^key-d9abb0199a92212a60590d47a319bda0] by no later than four months from the end of a calendar year concerned. Recyclers shall send their first annual reports no later than the 30 April 2015.
+4. Recyclers shall report the information shown in Annex IV, Annex V and Annex VI, as applicable, on an annual basis and shall send it to the competent authority[^c-d9abb0199a92212a60590d47a319bda0] by no later than four months from the end of a calendar year concerned. Recyclers shall send their first annual reports no later than the 30 April 2015.
 
 5. Reporting on the recycling efficiency shall cover all individual steps of recycling and all corresponding output fractions.
 
-6. Where a recycling process is carried out at more than one facility, the first recycler is responsible for submitting the information required under point 4 to the competent authority[^key-d9ca2e1460c6e0005fe46c7e34f08ae7].
+6. Where a recycling process is carried out at more than one facility, the first recycler is responsible for submitting the information required under point 4 to the competent authority[^c-d9ca2e1460c6e0005fe46c7e34f08ae7].
 
-## Article 4. Entry into force[^key-9bd81745e30f19123d4e0852bd890079]
+## Article 4. Entry into force[^c-9bd81745e30f19123d4e0852bd890079]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2d01950c4cf956ab9a0d1cc0299b578]...
+[^c-f2d01950c4cf956ab9a0d1cc0299b578]...
 
 Done at Brussels, 11 June 2012.
 
@@ -234,7 +234,7 @@ and excluding:
 
 - the mass of outer casings belonging to battery packs.
 
-7.[^key-300ac5b3ca51d564a161683f2caa0384]
+7.[^c-300ac5b3ca51d564a161683f2caa0384]
 
 For the purposes of point 1, Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) is to be read as if “waste battery or accumulator” had the meaning given by Article 2(1)(4A).
 
@@ -276,7 +276,7 @@ the *mass of Pb in the input fraction entering the battery recycling process* is
 
 In the output fraction the lead (Pb) contained in slag at the end of the recycling process is not accounted for the rate of recycled lead content.
 
-3.[^key-697d9d9730c9a422bb70736ceeaea112]
+3.[^c-697d9d9730c9a422bb70736ceeaea112]
 
 For the purposes of point 1, Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) is to be read as if “waste battery or accumulator” had the meaning given by Article 2(1)(4A).
 
@@ -306,7 +306,7 @@ the *mass of Cd in the input fraction entering the battery recycling process* is
 
 In the output fraction the cadmium (Cd) contained in slag at the end of the recycling process is not accounted for the rate of recycled cadmium content.
 
-3.[^key-4c9f4e8f742974fe2e36adb157bffb45]
+3.[^c-4c9f4e8f742974fe2e36adb157bffb45]
 
 For the purposes of point 1, Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) is to be read as if “waste battery or accumulator” had the meaning given by Article 2(1)(4A).
 
@@ -704,27 +704,27 @@ For the individual steps of the recycling process of other batteries and accumul
 
 [^f00002]: Footnote: [OJ L 312, 22.11.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.312.01.0003.01.ENG).
 
-[^key-afd185da99a9fc40bd71163c457213f8]: Textual amendment: Art. 2 renumbered as Art. 2(1) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afd185da99a9fc40bd71163c457213f8]: Textual amendment: Art. 2 renumbered as Art. 2(1) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fc65272bd6115e7426f86a9c7ee6cfd]: Textual amendment: Arts. 2(1)(4A)-(4C) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(6)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fc65272bd6115e7426f86a9c7ee6cfd]: Textual amendment: Arts. 2(1)(4A)-(4C) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(6)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5cd6331f82eefc2dc91067f7793a6438]: Textual amendment: Art. 2(2)-(5) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(2)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/2/c) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(6)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/b/i/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cd6331f82eefc2dc91067f7793a6438]: Textual amendment: Art. 2(2)-(5) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(2)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/2/c) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(6)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/b/i/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27fc11f1fc0a937d47e1188c0b89179e]: Textual amendment: Words in [Art. 2(4)(b)](https://www.legislation.gov.uk/eur/2012/493/article/2/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 97](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/97)
+[^c-27fc11f1fc0a937d47e1188c0b89179e]: Textual amendment: Words in [Art. 2(4)(b)](https://www.legislation.gov.uk/eur/2012/493/article/2/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 97](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/97)
 
-[^key-d9abb0199a92212a60590d47a319bda0]: Textual amendment: Words in [Art. 3(4)](https://www.legislation.gov.uk/eur/2012/493/article/3/4) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9abb0199a92212a60590d47a319bda0]: Textual amendment: Words in [Art. 3(4)](https://www.legislation.gov.uk/eur/2012/493/article/3/4) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9ca2e1460c6e0005fe46c7e34f08ae7]: Textual amendment: Words in [Art. 3(6)](https://www.legislation.gov.uk/eur/2012/493/article/3/6) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9ca2e1460c6e0005fe46c7e34f08ae7]: Textual amendment: Words in [Art. 3(6)](https://www.legislation.gov.uk/eur/2012/493/article/3/6) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9bd81745e30f19123d4e0852bd890079]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2012/493/article/4) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bd81745e30f19123d4e0852bd890079]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2012/493/article/4) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2d01950c4cf956ab9a0d1cc0299b578]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/493/signature) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(5)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2d01950c4cf956ab9a0d1cc0299b578]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/493/signature) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(5)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-300ac5b3ca51d564a161683f2caa0384]: Textual amendment: Annex 1 points 7-9 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(6)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/6) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(6)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-300ac5b3ca51d564a161683f2caa0384]: Textual amendment: Annex 1 points 7-9 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(6)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/6) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(6)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-697d9d9730c9a422bb70736ceeaea112]: Textual amendment: Annex 2 point 3 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(7)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-697d9d9730c9a422bb70736ceeaea112]: Textual amendment: Annex 2 point 3 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(7)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c9f4e8f742974fe2e36adb157bffb45]: Textual amendment: Annex 3 point 3 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(7)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c9f4e8f742974fe2e36adb157bffb45]: Textual amendment: Annex 3 point 3 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [10(7)](https://www.legislation.gov.uk/uksi/2019/620/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Facility treating the waste batteries and accumulators after collection, eventual sorting and preparation for recycling.
 

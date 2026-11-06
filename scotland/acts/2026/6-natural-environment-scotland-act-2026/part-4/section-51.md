@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Further provision about Ramsar sites[^key-1bdc34363c296670f0bb5da805ce18d3][^key-f9d80c9965eef2919d30d00e93196f55]
+## 51. Further provision about Ramsar sites[^c-1bdc34363c296670f0bb5da805ce18d3][^c-f9d80c9965eef2919d30d00e93196f55]
 
 *Extent: S*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1bdc34363c296670f0bb5da805ce18d3]: Commencement: S. 51 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-1bdc34363c296670f0bb5da805ce18d3]: Commencement: S. 51 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-f9d80c9965eef2919d30d00e93196f55]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2026/6/section/51) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z6)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z6)
+[^c-f9d80c9965eef2919d30d00e93196f55]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2026/6/section/51) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z6)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z6)

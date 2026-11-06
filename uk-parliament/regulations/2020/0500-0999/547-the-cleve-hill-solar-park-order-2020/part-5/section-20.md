@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Application of the 1981 Act[^key-a580dd021575618f8c76e8fd0d1db9de]
+## 20. Application of the 1981 Act[^c-a580dd021575618f8c76e8fd0d1db9de]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a580dd021575618f8c76e8fd0d1db9de]: Commencement: Art. 20 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-a580dd021575618f8c76e8fd0d1db9de]: Commencement: Art. 20 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
 [^c24507931]: Marginal citation: [Section 5A](https://www.legislation.gov.uk/uksi/2020/547/section/5A) to the 1981 Act was inserted by section 182(2) of the Housing
 

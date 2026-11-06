@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Warning notice: quality of health care[^key-dfb61a4ce21ce0d1912a157b7ce23e2f]
+## 29A. Warning notice: quality of health care[^c-dfb61a4ce21ce0d1912a157b7ce23e2f]
 
 *Extent: E+W*
 
@@ -39,10 +39,10 @@ summary: ''
 (5) Where, having carried out the duty under subsection (4), the Commission is satisfied that a requirement to which the notice relates has not been complied with, it—
 
 - (a) must decide what action to take in relation to the trust, and
-- (b)[^key-b1bb22bc94ae0a27cd604b031447f610] must consider in particular whether to require NHS England to make an order under section 65B(1) or 65D(2) of the National Health Service Act 2006 (appointment of trust special administrator).
+- (b)[^c-b1bb22bc94ae0a27cd604b031447f610] must consider in particular whether to require NHS England to make an order under section 65B(1) or 65D(2) of the National Health Service Act 2006 (appointment of trust special administrator).
 
 ## Annotations
 
-[^key-dfb61a4ce21ce0d1912a157b7ce23e2f]: Textual amendment: S. 29A inserted (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/82/3), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+[^c-dfb61a4ce21ce0d1912a157b7ce23e2f]: Textual amendment: S. 29A inserted (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/82/3), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
 
-[^key-b1bb22bc94ae0a27cd604b031447f610]: Textual amendment: [S. 29A(5)(b)](https://www.legislation.gov.uk/ukpga/2008/14/section/29A/5/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/25); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b1bb22bc94ae0a27cd604b031447f610]: Textual amendment: [S. 29A(5)(b)](https://www.legislation.gov.uk/ukpga/2008/14/section/29A/5/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/25); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

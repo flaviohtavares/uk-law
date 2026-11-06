@@ -40,15 +40,15 @@ shall, in such cases or circumstances as may be prescribed in the regulations, n
 
 (1B) For the purposes of sub-paragraphs (1) and (1A) above, taxable activities are registrable if a person carrying them out is, by reason of doing so, required by section 24(2) of this Act to be registered for the purposes of aggregates levy.
 
-(2)[^key-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1f60abeaf33f7197e55bb96b1f5170c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Form of registration
 
@@ -159,12 +159,12 @@ to notify the Commissioners of changes in circumstances relating to themselves, 
 
 and “**unregistered**” shall be construed accordingly.
 
-(2) For the purposes of this Schedule a person carries out a taxable activity if a quantity of aggregate is subjected to commercial exploitation in England, Wales or Northern Ireland[^key-7bd470946b658fb8c565eaa17ad0e2a1] in circumstances in which he is responsible for its being so subjected.
+(2) For the purposes of this Schedule a person carries out a taxable activity if a quantity of aggregate is subjected to commercial exploitation in England, Wales or Northern Ireland[^c-7bd470946b658fb8c565eaa17ad0e2a1] in circumstances in which he is responsible for its being so subjected.
 
 ## Annotations
 
 [^c12450521]: Textual amendment: Sch. 4 para. 1(1)-(1B) substituted for Sch. 4 para. 1(1) (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 132(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/132/3), [Sch. 38 para. 9(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/38/paragraph/9/2)
 
-[^key-1f60abeaf33f7197e55bb96b1f5170c9]: Textual amendment: [Sch. 4 para. 1(2)-(6)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/4/paragraph/1/2) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(l)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/l); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-1f60abeaf33f7197e55bb96b1f5170c9]: Textual amendment: [Sch. 4 para. 1(2)-(6)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/4/paragraph/1/2) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(l)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/l); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
 
-[^key-7bd470946b658fb8c565eaa17ad0e2a1]: Textual amendment: Words in Sch. 4 para. 8(2) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/10); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-7bd470946b658fb8c565eaa17ad0e2a1]: Textual amendment: Words in Sch. 4 para. 8(2) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/10); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)

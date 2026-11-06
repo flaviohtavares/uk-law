@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Interpretation[^key-4df0d4aa5df99042a2e8aab2eff4299d]
+## 180. Interpretation[^c-4df0d4aa5df99042a2e8aab2eff4299d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 2(1) of the Controlled Foreign Companies (Excluded Countries) Regu
 
 ## Annotations
 
-[^key-4df0d4aa5df99042a2e8aab2eff4299d]: Commencement: Art. 180 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-4df0d4aa5df99042a2e8aab2eff4299d]: Commencement: Art. 180 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

@@ -35,14 +35,14 @@ concerning the request of the United Kingdom of Great Britain and Northern Irela
 
 (2010/779/EU) (revoked)
 
-[^key-188f5b794f6fc2e587e33571a306ceab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-188f5b794f6fc2e587e33571a306ceab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-188f5b794f6fc2e587e33571a306ceab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-188f5b794f6fc2e587e33571a306ceab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-188f5b794f6fc2e587e33571a306ceab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-188f5b794f6fc2e587e33571a306ceab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-188f5b794f6fc2e587e33571a306ceab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-188f5b794f6fc2e587e33571a306ceab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-188f5b794f6fc2e587e33571a306ceab]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/35/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-188f5b794f6fc2e587e33571a306ceab]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/35/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

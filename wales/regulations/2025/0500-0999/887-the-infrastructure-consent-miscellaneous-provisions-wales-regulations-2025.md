@@ -43,11 +43,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 22(
 
 In accordance with section 141(3) of the Infrastructure (Wales) Act 2024, a draft of this instrument has been laid before, and approved by a resolution of, Senedd Cymru[^f00003].
 
-## 1. Title and coming into force[^key-783835ad911f1082d606b56fbb168efe]
+## 1. Title and coming into force[^c-783835ad911f1082d606b56fbb168efe]
 
 The title of these Regulations is the Infrastructure Consent (Miscellaneous Provisions) (Wales) Regulations 2025 and they come into force on 15 December 2025.
 
-## 2. Interpretation[^key-ba70533081bcaa32952280186b179c61]
+## 2. Interpretation[^c-ba70533081bcaa32952280186b179c61]
 
 In these Regulations—
 
@@ -71,18 +71,18 @@ In these Regulations—
 - “**Wales**” (“***Cymru***”) means the combined area of the counties and county boroughs in Wales (see Parts 1 and 2 of Schedule 4 to the Local Government Act 1972[^f00006]);
 - “**Welsh marine area**” (“***ardal forol Cymru***”) means the sea adjacent to Wales out as far as the seaward boundary of the territorial sea; and the question of which parts of the sea are adjacent to Wales is to be determined in accordance with article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999[^f00007].
 
-## 3. Giving notice and other documents[^key-095ca3c30cc105f637b94845a2b56fb3]
+## 3. Giving notice and other documents[^c-095ca3c30cc105f637b94845a2b56fb3]
 
 See section 136 of the 2024 Act in relation to provision in these Regulations which requires or authorises a person to—
 
 - (a) notify another person of something, or
 - (b) give a document to another person (whether the provision uses the word “serve”, “give” or other term).
 
-## 4. Projects that may be directed to be significant infrastructure projects[^key-5f2b4661b97d677cb6e6305512a2885a]
+## 4. Projects that may be directed to be significant infrastructure projects[^c-5f2b4661b97d677cb6e6305512a2885a]
 
 Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of the 2024 Act.
 
-## 5. Requests for directions to be given under sections 22 to 24 of the 2024 Act.[^key-b09529b2d9982f4c831fd0ea73d44001]
+## 5. Requests for directions to be given under sections 22 to 24 of the 2024 Act.[^c-b09529b2d9982f4c831fd0ea73d44001]
 
 (1) Any request made for a direction under sections 22 to 24 of the 2024 Act, made by any person, must be made in the appropriate form published by the Welsh Ministers, or in a form substantially to the same effect.
 
@@ -106,7 +106,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (6) In this regulation, “**section 20 consent**” means a permission, authorisation, consent, order, or scheme mentioned in section 20 (effect of requirement for infrastructure consent) of the 2024 Act.
 
-## 6. Decisions in respect of requests for a direction to be given under sections 22 and 24 of the Act[^key-087aa6d31b4829c35f00b53c6114a1ba]
+## 6. Decisions in respect of requests for a direction to be given under sections 22 and 24 of the Act[^c-087aa6d31b4829c35f00b53c6114a1ba]
 
 (1) Where the Welsh Ministers receive, from a developer, a qualifying request for a direction to be given under section 22 or 24 of the Act, they must decide whether or not to give the direction within 29 days of the day on which the request was received.
 
@@ -122,7 +122,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (4) Where the Welsh Ministers give notice under this regulation, they must decide whether or not to give the direction within 29 days of the date on which a response must be received.
 
-## 7. Obtaining information about land interests[^key-aa131142db210e44035d6fe20df1186a]
+## 7. Obtaining information about land interests[^c-aa131142db210e44035d6fe20df1186a]
 
 (1) A notice served on a recipient by an applicant under section 28(2) or (3) of the 2024 Act must—
 
@@ -134,7 +134,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (2) In this regulation “the applicant” and “the recipient” have the meaning given in section 28 of the 2024 Act.
 
-## 8. Power to disapply requirements of the 2024 Act[^key-ca05c0ebd4a8b40a9b34966fddd9bd18]
+## 8. Power to disapply requirements of the 2024 Act[^c-ca05c0ebd4a8b40a9b34966fddd9bd18]
 
 (1) If development will, when completed, be partly in Wales or partly in the Welsh marine area, the Welsh Ministers may direct that the requirements imposed under Part 3 and Part 4 of the 2024 Act and any regulations made under those Parts do not apply.
 
@@ -164,7 +164,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 - (a) publish the direction, and
 - (b) lay a statement about the direction before Senedd Cymru explaining its effect and why it was made.
 
-## 9. Requests for pre-application services[^key-8bc47659329ebd1c59bbc5a216169370]
+## 9. Requests for pre-application services[^c-8bc47659329ebd1c59bbc5a216169370]
 
 (1) A request for pre-application services made to a planning authority, Natural Resources Wales or the Welsh Ministers must be made on a form published by the Welsh Ministers or a form substantially to the same effect.
 
@@ -176,11 +176,11 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (3) A request under paragraph (1) must be accompanied by any fee payable.
 
-(4) Where the request is made to the Welsh Ministers, it must also include details of any requests for a screening opinion or screening direction, or scoping opinion or scoping direction[^key-71448983cff33179e2caee56a720ea6d] made under the EIA Regulations.
+(4) Where the request is made to the Welsh Ministers, it must also include details of any requests for a screening opinion or screening direction, or scoping opinion or scoping direction[^c-71448983cff33179e2caee56a720ea6d] made under the EIA Regulations.
 
 (5) In this regulation “**the EIA Regulations**” means the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^f00008] and The Marine Works (Environmental Impact Assessment) Regulations 2007[^f00009].
 
-## 10. Accepting requests for pre-application services[^key-41b31e79ddf7bd1937e1441ffc5d9d9b]
+## 10. Accepting requests for pre-application services[^c-41b31e79ddf7bd1937e1441ffc5d9d9b]
 
 (1) A planning authority, Natural Resources Wales and the Welsh Ministers must accept as valid a request for pre-application services if it complies with the requirements imposed by regulation 9.
 
@@ -194,7 +194,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (6) If the planning authority, Natural Resources Wales or the Welsh Ministers (as the case may be) decide that the request for pre-application services cannot be accepted, they must give a notice of their decision to the person who made the request giving reasons for their decision.
 
-## 11. Provision of pre-application services[^key-aefed0fc3a955876a11dc54a3ae9afc7]
+## 11. Provision of pre-application services[^c-aefed0fc3a955876a11dc54a3ae9afc7]
 
 (1) Where a planning authority accept as valid a request for pre-application services, they must provide the person who made the request with—
 
@@ -221,13 +221,13 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (4) In this regulation “**statement of common ground**” means a written statement prepared by the planning authority or Natural Resources Wales (as the case may be) and the applicant that contains agreed factual information about the development which is the subject of the application.
 
-## 12. Pre-application meetings[^key-c9c8b0037ab4feff4bfea0b908c82cfc]
+## 12. Pre-application meetings[^c-c9c8b0037ab4feff4bfea0b908c82cfc]
 
 (1) A developer may make a written request for a pre-application meeting with a planning authority, Natural Resources Wales or the Welsh Ministers (as the case may be).
 
 (2) Where a planning authority, Natural Resources Wales or the Welsh Ministers (as the case maybe) receive a request for a pre-application meeting, they must give notice to the person who made the request, within 15 days of the day on which the request is received, confirming whether or not a meeting will be held.
 
-## 13. Content of register kept by Welsh Ministers[^key-3d99ee5e2aad6136051c34fa70189071]
+## 13. Content of register kept by Welsh Ministers[^c-3d99ee5e2aad6136051c34fa70189071]
 
 (1) Where the Welsh Ministers receive a request of pre-application services they must deposit on the register—
 
@@ -254,7 +254,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (5) In this regulation, “**the register**” means the register kept and published by the Welsh Ministers in accordance with section 128 of the 2024 Act.
 
-## 14. Register to be kept by planning authorities[^key-37f084bf16072dfc314bc73d20551f47]
+## 14. Register to be kept by planning authorities[^c-37f084bf16072dfc314bc73d20551f47]
 
 (1) Each planning authority must keep and publish a register of pre-application services provided.
 
@@ -273,7 +273,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 - (d) any notice of withdrawal given by the applicant, and
 - (e) any notice of revocation or change to the relevant infrastructure consent order, to which the application relates, given by the Welsh Ministers under section 91(6) of the 2024 Act.
 
-## 15. Register to be kept by Natural Resources Wales[^key-7ecb1eaac4dc287eb9608dfda45f0fe7]
+## 15. Register to be kept by Natural Resources Wales[^c-7ecb1eaac4dc287eb9608dfda45f0fe7]
 
 (1) Natural Resources Wales must keep and publish a register of pre-application services.
 
@@ -284,7 +284,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 - (c) any documentation, reports or other information submitted with the pre-application services request form, and
 - (d) details of any pre-application services that have been provided.
 
-## 16. Placing information and documents on the register[^key-6216edb96486a1378f840cbea06d75f0]
+## 16. Placing information and documents on the register[^c-6216edb96486a1378f840cbea06d75f0]
 
 (1) A planning authority, Natural Resources Wales and the Welsh Ministers must deposit information and documents required by these Regulations or the 2024 Act on their register as soon as reasonably practicable after receiving the information or document or providing the pre-application services (as the case may be).
 
@@ -298,7 +298,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 - (a) the third anniversary of the date of providing the pre-application services, or
 - (b) the date on which the Welsh Ministers receive notice under section 29 (notice of proposed application) of the 2024 Act.
 
-## 17. Statutory consultees: annual report[^key-d57e5d11bc6b47ee5149f3f125981c6f]
+## 17. Statutory consultees: annual report[^c-d57e5d11bc6b47ee5149f3f125981c6f]
 
 (1) Any statutory consultee who is required to provide a substantive response in accordance with regulation 27(1) of the Application Regulations in relation to a development during any financial year[^f00010] must provide a report to the Welsh Ministers within 3 months of the end of that financial year.
 
@@ -311,7 +311,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (3) In this regulation “**substantive response**” has the same meaning as in regulation 27(4) of the Application Regulations.
 
-## 18. Removing consent requirements and deeming consents[^key-1a8dde1d7e1685de678c902838ed44f3]
+## 18. Removing consent requirements and deeming consents[^c-1a8dde1d7e1685de678c902838ed44f3]
 
 (1) Schedule 2 specifies consents for the purposes of section 84(1)(a) of the 2024 Act.
 
@@ -321,7 +321,7 @@ Schedule 1 specifies kinds of projects for the purposes of section 22(2)(c) of t
 
 (4) Provision may be made in an infrastructure consent order to deem a consent listed in Part 2 of Schedule 3 without meeting the conditions in section 84(2) or (3) of the 2024 Act.
 
-## 19. Consent from relevant authority: specified period[^key-06d4715bbfea09c62f710a4a6444e4b6]
+## 19. Consent from relevant authority: specified period[^c-06d4715bbfea09c62f710a4a6444e4b6]
 
 (1) Where the relevant authority is a statutory consultee the specified period for the purposes of section 84(2) and (3) of the 2024 Act is either—
 
@@ -345,87 +345,87 @@ Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
 
 Regulation 4
 
-### 1. Energy[^key-fa3f6a1e817d537cba1f31c7ec3d0e24]
+### 1. Energy[^c-fa3f6a1e817d537cba1f31c7ec3d0e24]
 
 The construction of a solar generating station or wind generating station in Wales or the Welsh marine area that is expected to have an installed generating capacity of more than 35 megawatts but less than 50 megawatts.
 
-**2.**[^key-5601b161dec0f4d5e0c6106685b4aa3c] The extension or alteration of a solar generating station in Wales or the Welsh marine area where—
+**2.**[^c-5601b161dec0f4d5e0c6106685b4aa3c] The extension or alteration of a solar generating station in Wales or the Welsh marine area where—
 
 - (a) the effect of the extension or alteration is expected to increase the installed generation capacity by more than 35 megawatts but less than 50 megawatts, and
 - (b) the effect of the extension or alteration is not expected to increase the total installed capacity to more than 350 megawatts.
 
-**3.**[^key-0ae26fd86826a8a309e12beaaca2534b] The extension or alteration of a wind generating station in Wales where the effect of the extension or alteration is expected to increase the installed generation capacity by more than 35 megawatts but less than 50 megawatts.
+**3.**[^c-0ae26fd86826a8a309e12beaaca2534b] The extension or alteration of a wind generating station in Wales where the effect of the extension or alteration is expected to increase the installed generation capacity by more than 35 megawatts but less than 50 megawatts.
 
-**4.**[^key-50560e547dd62b5051c3d867dde24f85] The extension or alteration of a wind generating station in the Welsh marine area where—
+**4.**[^c-50560e547dd62b5051c3d867dde24f85] The extension or alteration of a wind generating station in the Welsh marine area where—
 
 - (a) the effect of the extension or alteration is expected to increase the installed generation capacity by more than 35 megawatts but less than 50 megawatts, and
 - (b) the effect of the extension or alteration is not expected to increase the total installed capacity to more than 350 megawatts.
 
-**5.**[^key-22262023c6668d76b5927dd8f3250836] The construction of a generating station (other than a solar generating station or wind generating station) in Wales or the Welsh marine area that is expected to have an installed generating capacity of less than 50 megawatts.
+**5.**[^c-22262023c6668d76b5927dd8f3250836] The construction of a generating station (other than a solar generating station or wind generating station) in Wales or the Welsh marine area that is expected to have an installed generating capacity of less than 50 megawatts.
 
-**6.**[^key-23853a23d62ffcd3c54ed2237526934d] The extension or alteration of a generating station (other than a solar generating station or wind generating station) in Wales or the Welsh marine area, where—
+**6.**[^c-23853a23d62ffcd3c54ed2237526934d] The extension or alteration of a generating station (other than a solar generating station or wind generating station) in Wales or the Welsh marine area, where—
 
 - (a) the effect of the extension or alteration is expected to increase the installed generating capacity by less than 50 megawatts, and
 - (b) the effect of the extension or alteration is not expected to increase the total installed capacity to more than 350 megawatts.
 
-**7.**[^key-ff03836beff1bad3eaf23ad49fb76bbc] The construction or alteration of an electricity sub-station.
+**7.**[^c-ff03836beff1bad3eaf23ad49fb76bbc] The construction or alteration of an electricity sub-station.
 
-**8.**[^key-6c89d83d31462ca35457bf80768b3f78] Installation of an electric line above ground associated with a generating station in Wales or the Welsh marine area with a nominal voltage of 132 Kilovolts or less, with a length less than 2 kilometres (to the extent it is in Wales).
+**8.**[^c-6c89d83d31462ca35457bf80768b3f78] Installation of an electric line above ground associated with a generating station in Wales or the Welsh marine area with a nominal voltage of 132 Kilovolts or less, with a length less than 2 kilometres (to the extent it is in Wales).
 
-**9.**[^key-f5cd02e11dbcbf52a474a9bfa2863f50] Installation of an electric line, other than above ground, in Wales or the Welsh marine area with a length of at least 2 kilometres (to the extent it is in Wales or the Welsh marine area).
+**9.**[^c-f5cd02e11dbcbf52a474a9bfa2863f50] Installation of an electric line, other than above ground, in Wales or the Welsh marine area with a length of at least 2 kilometres (to the extent it is in Wales or the Welsh marine area).
 
-**10.**[^key-e20cd151482647b17c558f39229887ce] The construction or alteration of an LNG facility in Wales or the Welsh marine area that is not a significant infrastructure project under section 3 of the 2024 Act.
+**10.**[^c-e20cd151482647b17c558f39229887ce] The construction or alteration of an LNG facility in Wales or the Welsh marine area that is not a significant infrastructure project under section 3 of the 2024 Act.
 
-**11.**[^key-d4b5475eebc39028ddd0f105e5982289] The construction or alteration of a gas reception facility in Wales or the Welsh marine area that is not a significant infrastructure project under section 4 of the 2024 Act.
+**11.**[^c-d4b5475eebc39028ddd0f105e5982289] The construction or alteration of a gas reception facility in Wales or the Welsh marine area that is not a significant infrastructure project under section 4 of the 2024 Act.
 
-**12.**[^key-336f9205915a8ffce065eb9613d21a6d] The construction or alteration of hydrogen production facilities in Wales or the Welsh marine area.
+**12.**[^c-336f9205915a8ffce065eb9613d21a6d] The construction or alteration of hydrogen production facilities in Wales or the Welsh marine area.
 
-### 13. Transport[^key-8d5fb456729f993e418b4bf05e4483f7]
+### 13. Transport[^c-8d5fb456729f993e418b4bf05e4483f7]
 
 The construction or alteration of a highway in Wales that is not a significant infrastructure project under section 7 of the 2024 Act, except those highways to which section 7(4), (5) or (6) applies.
 
-**14.**[^key-695c2895afcdfe9cba5bb686b816577c] The construction or alteration of a railway that starts, ends and remains in Wales that is—
+**14.**[^c-695c2895afcdfe9cba5bb686b816577c] The construction or alteration of a railway that starts, ends and remains in Wales that is—
 
 - (a) not a significant infrastructure project under section 8 of the 2024 Act,
 - (b) not part of a rail freight interchange, and
 - (c) not permitted development.
 
-**15.**[^key-e1997dd91d5fc36eb6487120ea9c4366] The construction or alteration of a rail freight interchange in Wales that is not a significant infrastructure project under section 9 of the 2024 Act.
+**15.**[^c-e1997dd91d5fc36eb6487120ea9c4366] The construction or alteration of a rail freight interchange in Wales that is not a significant infrastructure project under section 9 of the 2024 Act.
 
-**16.**[^key-bce0d0a8ddcfd92d88a4e512517b2744] The construction or alteration of harbour facilities in Wales or the Welsh marine area that is—
+**16.**[^c-bce0d0a8ddcfd92d88a4e512517b2744] The construction or alteration of harbour facilities in Wales or the Welsh marine area that is—
 
 - (a) not a significant infrastructure project under section 10 of the 2024 Act, and
 - (b) not part of a reserved trust port.
 
-**17.**[^key-ce7660bdab47ad08bd150966ebe46017] The construction, alteration or increase in the permitted use of an airport in Wales or the Welsh marine area that is not a significant infrastructure project under section 11 of the 2024 Act.
+**17.**[^c-ce7660bdab47ad08bd150966ebe46017] The construction, alteration or increase in the permitted use of an airport in Wales or the Welsh marine area that is not a significant infrastructure project under section 11 of the 2024 Act.
 
-### 18. Water[^key-c775afb455375345aef418d0e4445375]
+### 18. Water[^c-c775afb455375345aef418d0e4445375]
 
 The construction of a dam or reservoir in Wales where the volume of water to be held back by the dam or stored in the reservoir is expected to exceed 1 million cubic metres but not to exceed 10 million cubic metres.
 
-**19.**[^key-de119a5b35a4031dd6e90396c4a5548f] The alteration of a dam or reservoir in Wales where the additional volume of water to be held back by the dam or stored in the reservoir as a result of the alteration is expected to exceed 1 million cubic metres but not to exceed 10 million cubic metres.
+**19.**[^c-de119a5b35a4031dd6e90396c4a5548f] The alteration of a dam or reservoir in Wales where the additional volume of water to be held back by the dam or stored in the reservoir as a result of the alteration is expected to exceed 1 million cubic metres but not to exceed 10 million cubic metres.
 
-**20.**[^key-3ad90323fe8f1c3e6c52858f2f630778] Development in Wales carried out by one or more water undertakers, relating to the transfer of water resources where the volume of water to be transferred as a result of the development is expected to exceed 25 million cubic metres per year, but not to exceed 100 million cubic metres.
+**20.**[^c-3ad90323fe8f1c3e6c52858f2f630778] Development in Wales carried out by one or more water undertakers, relating to the transfer of water resources where the volume of water to be transferred as a result of the development is expected to exceed 25 million cubic metres per year, but not to exceed 100 million cubic metres.
 
-### 21. Waste water[^key-6751486ca6eb1db1d1750c7d8c7770e0]
+### 21. Waste water[^c-6751486ca6eb1db1d1750c7d8c7770e0]
 
 The construction or alteration of a waste water treatment plant in Wales or the Welsh marine area where the treatment plant (when constructed) is expected to have a capacity exceeding a population equivalent of 250,000 but not exceeding a population equivalent of 500,000.
 
-**22.**[^key-9f75c069ef6fd1d602a727f0af276218] The alteration of a waste water treatment plant in Wales or the Welsh marine area where the effect of the alteration is expected to increase the capacity of the plant by more than a population equivalent of 250,000 but not exceeding a population equivalent of 500,000.
+**22.**[^c-9f75c069ef6fd1d602a727f0af276218] The alteration of a waste water treatment plant in Wales or the Welsh marine area where the effect of the alteration is expected to increase the capacity of the plant by more than a population equivalent of 250,000 but not exceeding a population equivalent of 500,000.
 
-**23.**[^key-c9ad8d4770685bd9166007cb3b40e403] The construction or alteration of infrastructure, in Wales or the Welsh marine area, for the transfer or storage of waste water where the infrastructure is expected to have a capacity for the storage of waste water exceeding 175,000 cubic metres, but not exceeding 350,000 cubic metres.
+**23.**[^c-c9ad8d4770685bd9166007cb3b40e403] The construction or alteration of infrastructure, in Wales or the Welsh marine area, for the transfer or storage of waste water where the infrastructure is expected to have a capacity for the storage of waste water exceeding 175,000 cubic metres, but not exceeding 350,000 cubic metres.
 
-### 24. Waste[^key-d753e2db64af462379c6b32ab7ad1f56]
+### 24. Waste[^c-d753e2db64af462379c6b32ab7ad1f56]
 
 The construction or alteration of a hazardous waste facility in Wales or the Welsh marine area that is not a significant infrastructure project under section 15 of the 2024 Act.
 
-### 25. Flood defences[^key-12b85c2e2770795e8d97a81caac2a541]
+### 25. Flood defences[^c-12b85c2e2770795e8d97a81caac2a541]
 
 The construction of flood defence works with a total length of 500 meters or more.
 
-**26.**[^key-ab5b95067c63b1bb7ced999bf2f53b4d] The alteration or extension of flood defence works where the expected effect of the alteration or extension is to increase the length of the works by a total of 500 metres.
+**26.**[^c-ab5b95067c63b1bb7ced999bf2f53b4d] The alteration or extension of flood defence works where the expected effect of the alteration or extension is to increase the length of the works by a total of 500 metres.
 
-### 27. Interpretation[^key-a17a6cfe7945f6ba8b3a4967ab1f2c00]
+### 27. Interpretation[^c-a17a6cfe7945f6ba8b3a4967ab1f2c00]
 
 In this Schedule—
 
@@ -447,13 +447,13 @@ In this Schedule—
 
 Regulation 18(1) and (2)
 
-**1.**[^key-1e7e78eb735d5ed5abe406c3726fcd44] Consent under section 16 (consent of the coast protection authority required to carrying out of coast protection work) of the Coast Protection Act 1949[^f00011].
+**1.**[^c-1e7e78eb735d5ed5abe406c3726fcd44] Consent under section 16 (consent of the coast protection authority required to carrying out of coast protection work) of the Coast Protection Act 1949[^f00011].
 
-**2.**[^key-676df8974b56cb23fba4f189b45b7166] Approval under sections 4, 6, 8, 15 and 16(2) (furnaces to be smokeless etc., arrestment plant etc., height of chimneys etc.) of the Clean Air Act 1993[^f00012].
+**2.**[^c-676df8974b56cb23fba4f189b45b7166] Approval under sections 4, 6, 8, 15 and 16(2) (furnaces to be smokeless etc., arrestment plant etc., height of chimneys etc.) of the Clean Air Act 1993[^f00012].
 
-**3.**[^key-f11fab5324119b2e90a55af3be52c510] A felling licence required under section 9(1) of the Forestry Act 1967[^f00013].
+**3.**[^c-f11fab5324119b2e90a55af3be52c510] A felling licence required under section 9(1) of the Forestry Act 1967[^f00013].
 
-**4.**[^key-d623b6ab4a3bd1c2f1fb0b8808115ac9] Written notice given under regulation 5(1)(b)(i) of the Hedgerows Regulations 1997[^f00014].
+**4.**[^c-d623b6ab4a3bd1c2f1fb0b8808115ac9] Written notice given under regulation 5(1)(b)(i) of the Hedgerows Regulations 1997[^f00014].
 
 ## SCHEDULE 3 — List of consents that may be deemed by provision in an infrastructure consent order
 
@@ -461,68 +461,68 @@ Regulation 18(3) and (4)
 
 ### PART 1
 
-**1.**[^key-ee8c5189acdcb412d21d2b8f6e6e37a7] Authorisation required under byelaws issued in accordance with section 20 (byelaws for the protection of nature reserves) of the National Parks and Access to the Countryside Act 1949[^f00015].
+**1.**[^c-ee8c5189acdcb412d21d2b8f6e6e37a7] Authorisation required under byelaws issued in accordance with section 20 (byelaws for the protection of nature reserves) of the National Parks and Access to the Countryside Act 1949[^f00015].
 
-**2.**[^key-2921c4a5ea07cadf7045efa3a9eb4374] A licence under section 18(5) (prohibition of excavation etc., of materials on or under the seashore) of the Coast Protection Act 1949[^f00016].
+**2.**[^c-2921c4a5ea07cadf7045efa3a9eb4374] A licence under section 18(5) (prohibition of excavation etc., of materials on or under the seashore) of the Coast Protection Act 1949[^f00016].
 
-**3.**[^key-977ca20b9f301998e158f4423abe39e9] A licence granted under section 10 (power to grant licences) of the Conservation of Seals Act 1970[^f00017].
+**3.**[^c-977ca20b9f301998e158f4423abe39e9] A licence granted under section 10 (power to grant licences) of the Conservation of Seals Act 1970[^f00017].
 
-**4.**[^key-29dd57aa6ce7f1235018cd2c6ed16569] A licence granted for the purposes of section 1(3) (protection of sites of historic wrecks) of the Protection of Wrecks Act 1973[^f00018].
+**4.**[^c-29dd57aa6ce7f1235018cd2c6ed16569] A licence granted for the purposes of section 1(3) (protection of sites of historic wrecks) of the Protection of Wrecks Act 1973[^f00018].
 
-**5.**[^key-7d5e2889fe2c3ab330f011873328cd54] A licence granted under section 8 (exceptions for licensed persons) of the Deer Act 1991[^f00019].
+**5.**[^c-7d5e2889fe2c3ab330f011873328cd54] A licence granted under section 8 (exceptions for licensed persons) of the Deer Act 1991[^f00019].
 
-**6.**[^key-f459ed1eeeae22e2f44ccda5cabf5da8] Consent under section 23 (prohibition on obstructions etc. in watercourses) of the Land Drainage Act 1991[^f00020].
+**6.**[^c-f459ed1eeeae22e2f44ccda5cabf5da8] Consent under section 23 (prohibition on obstructions etc. in watercourses) of the Land Drainage Act 1991[^f00020].
 
-**7.**[^key-3bebb0db5d29ba9ddef1b9cd6bbf3b5e] Consent under section 166 (consents for certain discharges under section 165) of the Water Industry Act 1991[^f00021].
+**7.**[^c-3bebb0db5d29ba9ddef1b9cd6bbf3b5e] Consent under section 166 (consents for certain discharges under section 165) of the Water Industry Act 1991[^f00021].
 
-**8.**[^key-8e74cc94b2735fde1912d17c8596db0f] Consent under section 32(3) (miscellaneous rights to abstract) of the Water Resources Act 1991[^f00022].
+**8.**[^c-8e74cc94b2735fde1912d17c8596db0f] Consent under section 32(3) (miscellaneous rights to abstract) of the Water Resources Act 1991[^f00022].
 
-**9.**[^key-1951cba938055bf726da9faeb73f26cf] A licence granted under section 10 (licences) of the Protection of Badgers Act 1992[^f00023].
+**9.**[^c-1951cba938055bf726da9faeb73f26cf] A licence granted under section 10 (licences) of the Protection of Badgers Act 1992[^f00023].
 
-**10.**[^key-756b96b1a7a8e69edccf57cbd44af67d] A direction under section 24, 25 or 26 (land management; avoidance of risk of fire or of danger to the public; or nature conservation and heritage preservation) of the Countryside and Rights of Way Act 2000[^f00024].
+**10.**[^c-756b96b1a7a8e69edccf57cbd44af67d] A direction under section 24, 25 or 26 (land management; avoidance of risk of fire or of danger to the public; or nature conservation and heritage preservation) of the Countryside and Rights of Way Act 2000[^f00024].
 
-**11.**[^key-1fbb25f93b401628b3e20a665351cac5] An environmental permit granted under regulation 13 (grant of an environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^f00025], but only in respect of regulated facilities—
+**11.**[^c-1fbb25f93b401628b3e20a665351cac5] An environmental permit granted under regulation 13 (grant of an environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^f00025], but only in respect of regulated facilities—
 
 - (a) to which Schedule 9 (waste operations and materials facilities) to those Regulations apply where the permit authorises only the deposit of waste for recovery, or
 - (b) to which Schedules 25A and 25B (medium combustion plants and specified generators) to those Regulations apply.
 
-**12.**[^key-c4a397adc40d864f918c394e7b69e2db] A greenhouse gas emissions permit issued in accordance with article 26 (installations: requirement for permit to carry out regulated activity) of, and Schedule 6 (permits) to, the Greenhouse Gas Emissions Trading Scheme Order 2020[^f00026].
+**12.**[^c-c4a397adc40d864f918c394e7b69e2db] A greenhouse gas emissions permit issued in accordance with article 26 (installations: requirement for permit to carry out regulated activity) of, and Schedule 6 (permits) to, the Greenhouse Gas Emissions Trading Scheme Order 2020[^f00026].
 
 ### PART 2
 
-**13.**[^key-d8d48c43f076f7ae00c44fc04c9eb4f0] An order under section 14 (direction by order that village greens, etc., shall not be fenced) of the Inclosure Act 1852[^f00027].
+**13.**[^c-d8d48c43f076f7ae00c44fc04c9eb4f0] An order under section 14 (direction by order that village greens, etc., shall not be fenced) of the Inclosure Act 1852[^f00027].
 
-**14.**[^key-4a43cdc49f23a26086d5b41e7bf82cc2] An order under section 5, 9 or 11 (exchanges etc., fencing etc) of the Inclosure Act 1854[^f00028].
+**14.**[^c-4a43cdc49f23a26086d5b41e7bf82cc2] An order under section 5, 9 or 11 (exchanges etc., fencing etc) of the Inclosure Act 1854[^f00028].
 
-**15.**[^key-5400d51136938db9524c1cb30d676044] An order under section 1 (fences may be dispensed with) of the Inclosure Act 1857[^f00029].
+**15.**[^c-5400d51136938db9524c1cb30d676044] An order under section 1 (fences may be dispensed with) of the Inclosure Act 1857[^f00029].
 
-**16.**[^key-2d4e65d0be08020a482616e6bdebcb2d] Any consent or authorisation required by byelaws made under section 15 (owners may make byelaws) of the Commons Act 1876[^f00030].
+**16.**[^c-2d4e65d0be08020a482616e6bdebcb2d] Any consent or authorisation required by byelaws made under section 15 (owners may make byelaws) of the Commons Act 1876[^f00030].
 
-**17.**[^key-e2278604382b8d4c33b353f16a484964] Any consent or authorisation required under byelaws or regulations made under sections 1 and 10 (power for district council to make a scheme for the regulation of common; and provisions as to byelaws) of the Commons Act 1899[^f00031].
+**17.**[^c-e2278604382b8d4c33b353f16a484964] Any consent or authorisation required under byelaws or regulations made under sections 1 and 10 (power for district council to make a scheme for the regulation of common; and provisions as to byelaws) of the Commons Act 1899[^f00031].
 
-**18.**[^key-90cec37f5fed552ccd1931db3e83dd6e] Limitations or conditions issued under section 193 (rights of the public over commons and waste lands) of the Law of Property Act 1925[^f00032].
+**18.**[^c-90cec37f5fed552ccd1931db3e83dd6e] Limitations or conditions issued under section 193 (rights of the public over commons and waste lands) of the Law of Property Act 1925[^f00032].
 
-**19.**[^key-d07050fdee1858084b9898c6001eb381] Consent under section 15 (power to place pipe-lines in the streets) of the Pipe-Lines Act 1962[^f00033].
+**19.**[^c-d07050fdee1858084b9898c6001eb381] Consent under section 15 (power to place pipe-lines in the streets) of the Pipe-Lines Act 1962[^f00033].
 
-**20.**[^key-93275de48dd17bc05da858bbfa63baf9] A licence granted under section 6 (power to let certain lands) of the Coity Wallia Commons Act 1976[^f00034].
+**20.**[^c-93275de48dd17bc05da858bbfa63baf9] A licence granted under section 6 (power to let certain lands) of the Coity Wallia Commons Act 1976[^f00034].
 
-**21.**[^key-c52ff2d5c2dc30b22dc3d7cb3d6032b8] An authorisation under section 10 (exchange of common lands) of the Coity Wallia Commons Act 1976.
+**21.**[^c-c52ff2d5c2dc30b22dc3d7cb3d6032b8] An authorisation under section 10 (exchange of common lands) of the Coity Wallia Commons Act 1976.
 
-**22.**[^key-e7f1fc615ea22decd6a2cca84121b978] An order under section 53 (duty to keep definitive map and statement under continuous review) of the Wildlife and Countryside Act 1981[^f00035].
+**22.**[^c-e7f1fc615ea22decd6a2cca84121b978] An order under section 53 (duty to keep definitive map and statement under continuous review) of the Wildlife and Countryside Act 1981[^f00035].
 
-**23.**[^key-a0d8a8ba9a345951919fe9ad827a41e7] An order for the regulation of traffic under section 1, 9, 14, 15 or 22BB (general provisions for traffic regulation: regulation in special cases) of the Road Traffic Regulation Act 1984[^f00036].
+**23.**[^c-a0d8a8ba9a345951919fe9ad827a41e7] An order for the regulation of traffic under section 1, 9, 14, 15 or 22BB (general provisions for traffic regulation: regulation in special cases) of the Road Traffic Regulation Act 1984[^f00036].
 
-**24.**[^key-0968226fde2052bb8cf10bedff9ffff7] Consent required by a provision in a tree preservation order made under section 198 or 202 (powers to make tree preservation orders) or by section 211 (preservation of trees in conservation areas) of the Town and Country Planning Act 1990[^f00037].
+**24.**[^c-0968226fde2052bb8cf10bedff9ffff7] Consent required by a provision in a tree preservation order made under section 198 or 202 (powers to make tree preservation orders) or by section 211 (preservation of trees in conservation areas) of the Town and Country Planning Act 1990[^f00037].
 
-**25.**[^key-04657ea6f128a201e7c00a82e48e8c4a] An order made under section 247 (highways affected by development) or section 257 (footpath, bridleways and restricted byways affected by development) of the Town and Country Planning Act 1990[^f00038].
+**25.**[^c-04657ea6f128a201e7c00a82e48e8c4a] An order made under section 247 (highways affected by development) or section 257 (footpath, bridleways and restricted byways affected by development) of the Town and Country Planning Act 1990[^f00038].
 
-**26.**[^key-69afec55f9ca2ffa076498c7b2d89cc4] An exemption under section 7, 14 or 20 (exemption from section 6; height of chimneys; prohibition on emission of smoke) of the Clean Air Act 1993[^f00039].
+**26.**[^c-69afec55f9ca2ffa076498c7b2d89cc4] An exemption under section 7, 14 or 20 (exemption from section 6; height of chimneys; prohibition on emission of smoke) of the Clean Air Act 1993[^f00039].
 
-**27.**[^key-dd6a7662afdc0f1e04d3ed8b1979bd82] Consent or authorisation required under byelaws made in accordance with section 17 (byelaws) of the Countryside and Rights of Way Act 2000[^f00040].
+**27.**[^c-dd6a7662afdc0f1e04d3ed8b1979bd82] Consent or authorisation required under byelaws made in accordance with section 17 (byelaws) of the Countryside and Rights of Way Act 2000[^f00040].
 
-**28.**[^key-0d6bfaa865e13c145baaf3782804bfab] An order under section 17 (deregistration and exchange: orders) of the Commons Act 2006[^f00041].
+**28.**[^c-0d6bfaa865e13c145baaf3782804bfab] An order under section 17 (deregistration and exchange: orders) of the Commons Act 2006[^f00041].
 
-#### 29. Interpretation[^key-f4efe7dc923fccbbf34633957a47e0d8]
+#### 29. Interpretation[^c-f4efe7dc923fccbbf34633957a47e0d8]
 
 In this Schedule “**regulated facility**” has the meaning given in regulation 8 of the Environmental Permitting (England and Wales) Regulations 2016[^f00042].
 
@@ -588,9 +588,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: See also section 40 of the [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4) for provision about the procedure that applies to this instrument.
 
-[^key-783835ad911f1082d606b56fbb168efe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-783835ad911f1082d606b56fbb168efe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-ba70533081bcaa32952280186b179c61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/887/regulation/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-ba70533081bcaa32952280186b179c61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/887/regulation/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2025/690 (W. 114)](https://www.legislation.gov.uk/wsi/2025/690).
 
@@ -600,228 +600,228 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
 
-[^key-095ca3c30cc105f637b94845a2b56fb3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/887/regulation/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-095ca3c30cc105f637b94845a2b56fb3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/887/regulation/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-5f2b4661b97d677cb6e6305512a2885a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/887/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-5f2b4661b97d677cb6e6305512a2885a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/887/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-b09529b2d9982f4c831fd0ea73d44001]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/887/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-b09529b2d9982f4c831fd0ea73d44001]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/887/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-087aa6d31b4829c35f00b53c6114a1ba]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/887/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-087aa6d31b4829c35f00b53c6114a1ba]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/887/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-aa131142db210e44035d6fe20df1186a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/887/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-aa131142db210e44035d6fe20df1186a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/887/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-ca05c0ebd4a8b40a9b34966fddd9bd18]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/887/regulation/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-ca05c0ebd4a8b40a9b34966fddd9bd18]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/887/regulation/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-8bc47659329ebd1c59bbc5a216169370]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/887/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-8bc47659329ebd1c59bbc5a216169370]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/887/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-71448983cff33179e2caee56a720ea6d]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/wsi/2025/887/regulation/9/4) substituted (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/85/regulation/4)
+[^c-71448983cff33179e2caee56a720ea6d]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/wsi/2025/887/regulation/9/4) substituted (2.6.2026) by [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/85/regulation/4)
 
 [^f00008]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567).
 
 [^f00009]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518).
 
-[^key-41b31e79ddf7bd1937e1441ffc5d9d9b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/887/regulation/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-41b31e79ddf7bd1937e1441ffc5d9d9b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/887/regulation/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-aefed0fc3a955876a11dc54a3ae9afc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/887/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-aefed0fc3a955876a11dc54a3ae9afc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/887/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-c9c8b0037ab4feff4bfea0b908c82cfc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/887/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-c9c8b0037ab4feff4bfea0b908c82cfc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/887/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-3d99ee5e2aad6136051c34fa70189071]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/887/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-3d99ee5e2aad6136051c34fa70189071]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/887/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-37f084bf16072dfc314bc73d20551f47]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/887/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-37f084bf16072dfc314bc73d20551f47]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/887/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-7ecb1eaac4dc287eb9608dfda45f0fe7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/887/regulation/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-7ecb1eaac4dc287eb9608dfda45f0fe7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/887/regulation/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-6216edb96486a1378f840cbea06d75f0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/887/regulation/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-6216edb96486a1378f840cbea06d75f0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/887/regulation/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-d57e5d11bc6b47ee5149f3f125981c6f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/887/regulation/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-d57e5d11bc6b47ee5149f3f125981c6f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/887/regulation/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00010]: Footnote: Under Schedule 1 to the Legislation (Wales) Act 2019 (definitions of words and expressions) “**financial year**” means a year ending with 31 March.
 
-[^key-1a8dde1d7e1685de678c902838ed44f3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/887/regulation/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-1a8dde1d7e1685de678c902838ed44f3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/887/regulation/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-06d4715bbfea09c62f710a4a6444e4b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/887/regulation/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-06d4715bbfea09c62f710a4a6444e4b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/887/regulation/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-fa3f6a1e817d537cba1f31c7ec3d0e24]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-fa3f6a1e817d537cba1f31c7ec3d0e24]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-5601b161dec0f4d5e0c6106685b4aa3c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-5601b161dec0f4d5e0c6106685b4aa3c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-0ae26fd86826a8a309e12beaaca2534b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-0ae26fd86826a8a309e12beaaca2534b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-50560e547dd62b5051c3d867dde24f85]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-50560e547dd62b5051c3d867dde24f85]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-22262023c6668d76b5927dd8f3250836]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-22262023c6668d76b5927dd8f3250836]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-23853a23d62ffcd3c54ed2237526934d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-23853a23d62ffcd3c54ed2237526934d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-ff03836beff1bad3eaf23ad49fb76bbc]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-ff03836beff1bad3eaf23ad49fb76bbc]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-6c89d83d31462ca35457bf80768b3f78]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-6c89d83d31462ca35457bf80768b3f78]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-f5cd02e11dbcbf52a474a9bfa2863f50]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-f5cd02e11dbcbf52a474a9bfa2863f50]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-e20cd151482647b17c558f39229887ce]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-e20cd151482647b17c558f39229887ce]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-d4b5475eebc39028ddd0f105e5982289]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-d4b5475eebc39028ddd0f105e5982289]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-336f9205915a8ffce065eb9613d21a6d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-336f9205915a8ffce065eb9613d21a6d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-8d5fb456729f993e418b4bf05e4483f7]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-8d5fb456729f993e418b4bf05e4483f7]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-695c2895afcdfe9cba5bb686b816577c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-695c2895afcdfe9cba5bb686b816577c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-e1997dd91d5fc36eb6487120ea9c4366]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-e1997dd91d5fc36eb6487120ea9c4366]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-bce0d0a8ddcfd92d88a4e512517b2744]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-bce0d0a8ddcfd92d88a4e512517b2744]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-ce7660bdab47ad08bd150966ebe46017]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-ce7660bdab47ad08bd150966ebe46017]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-c775afb455375345aef418d0e4445375]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-c775afb455375345aef418d0e4445375]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-de119a5b35a4031dd6e90396c4a5548f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-de119a5b35a4031dd6e90396c4a5548f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-3ad90323fe8f1c3e6c52858f2f630778]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/20) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-3ad90323fe8f1c3e6c52858f2f630778]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/20) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-6751486ca6eb1db1d1750c7d8c7770e0]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/21) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-6751486ca6eb1db1d1750c7d8c7770e0]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/21) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-9f75c069ef6fd1d602a727f0af276218]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/22) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-9f75c069ef6fd1d602a727f0af276218]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/22) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-c9ad8d4770685bd9166007cb3b40e403]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/23) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-c9ad8d4770685bd9166007cb3b40e403]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/23) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-d753e2db64af462379c6b32ab7ad1f56]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/24) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-d753e2db64af462379c6b32ab7ad1f56]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/24) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-12b85c2e2770795e8d97a81caac2a541]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/25) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-12b85c2e2770795e8d97a81caac2a541]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/25) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-ab5b95067c63b1bb7ced999bf2f53b4d]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/26) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-ab5b95067c63b1bb7ced999bf2f53b4d]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/26) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-a17a6cfe7945f6ba8b3a4967ab1f2c00]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/27) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-a17a6cfe7945f6ba8b3a4967ab1f2c00]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2025/887/schedule/1/paragraph/27) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-1e7e78eb735d5ed5abe406c3726fcd44]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-1e7e78eb735d5ed5abe406c3726fcd44]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00011]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74). Section 16 was amended by section 190, Schedule 25, paragraph 11(4) of the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15) and paragraph 8 of Schedule 2 to [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755).
 
-[^key-676df8974b56cb23fba4f189b45b7166]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-676df8974b56cb23fba4f189b45b7166]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00012]: Footnote: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11). There are amendments to section 16 that are not relevant to Wales.
 
-[^key-f11fab5324119b2e90a55af3be52c510]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-f11fab5324119b2e90a55af3be52c510]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00013]: Footnote: [1967 c. 10](https://www.legislation.gov.uk/ukpga/1967/10). Section 9 was amended by paragraph 53(2) of Schedule 2 to [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755). There are other amendments that are not relevant.
 
-[^key-d623b6ab4a3bd1c2f1fb0b8808115ac9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-d623b6ab4a3bd1c2f1fb0b8808115ac9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2025/887/schedule/2/paragraph/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 
-[^key-ee8c5189acdcb412d21d2b8f6e6e37a7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-ee8c5189acdcb412d21d2b8f6e6e37a7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00015]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Section 20 was amended by section 109 and paragraph 28 of Schedule 4 to the Telecommunications Act [1984 (c. 12)](https://www.legislation.gov.uk/ukpga/1984/12), section 190, paragraph 13 of Schedule 25 to the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), section 406(1) and paragraph 20(1) and (2) of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), and section 105(1), and paragraph 15(d) of Schedule 11 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-2921c4a5ea07cadf7045efa3a9eb4374]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-2921c4a5ea07cadf7045efa3a9eb4374]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00016]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74).
 
-[^key-977ca20b9f301998e158f4423abe39e9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-977ca20b9f301998e158f4423abe39e9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00017]: Footnote: [1970 c. 30](https://www.legislation.gov.uk/ukpga/1970/30). Section 10 was amended by section 146(1) and paragraph 1 of Schedule 11 to the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), paragraph 107 of Schedule 2 to [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755), paragraph 3 of Schedule 6 to [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), paragraph 7(2)(b) of Schedule 12 to the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29) and paragraph 9 of Schedule 9 to the Fisheries Act [2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22). There are other amendments that are not relevant to Wales.
 
-[^key-29dd57aa6ce7f1235018cd2c6ed16569]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-29dd57aa6ce7f1235018cd2c6ed16569]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00018]: Footnote: [1973 c. 33](https://www.legislation.gov.uk/ukpga/1973/33). There are amendments that are not relevant to Wales. The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-7d5e2889fe2c3ab330f011873328cd54]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-7d5e2889fe2c3ab330f011873328cd54]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00019]: Footnote: [1991 c. 54](https://www.legislation.gov.uk/ukpga/1991/54). Section 8 was amended by section 105(1) and paragraph 128 of Schedule 11 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), article 4 of [S.I. 2007/2183](https://www.legislation.gov.uk/uksi/2007/2183), and paragraph 222 of Schedule 2 to [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755).
 
-[^key-f459ed1eeeae22e2f44ccda5cabf5da8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-f459ed1eeeae22e2f44ccda5cabf5da8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00020]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 322 of Schedule 2 to [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755). There are other amendment that are not relevant.
 
-[^key-3bebb0db5d29ba9ddef1b9cd6bbf3b5e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-3bebb0db5d29ba9ddef1b9cd6bbf3b5e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00021]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 166 was amended by paragraph 251 of Schedule 2 to [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755).
 
-[^key-8e74cc94b2735fde1912d17c8596db0f]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-8e74cc94b2735fde1912d17c8596db0f]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00022]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Section 32(3) was amended by paragraph 79 of Schedule 1 to the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), and paragraph 270 of Schedule 2 to [S.I 2013/755](https://www.legislation.gov.uk/wsi/2013/755).
 
-[^key-1951cba938055bf726da9faeb73f26cf]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-1951cba938055bf726da9faeb73f26cf]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00023]: Footnote: [1992 c. 51](https://www.legislation.gov.uk/ukpga/1992/51). Section 10 was amended by paragraph 137 of Schedule 2 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), paragraph 164 of Schedule 13 to the [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), and paragraph 341 of Schedule 2 to [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). There are other amendments that are not relevant. The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[2006](https://www.legislation.gov.uk/ukpga/2006/2006) Act.
 
-[^key-756b96b1a7a8e69edccf57cbd44af67d]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-756b96b1a7a8e69edccf57cbd44af67d]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00024]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 26 was amended by paragraph 180 of Schedule 13 to the [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3). There are other amendments that are not relevant to Wales.
 
-[^key-1fbb25f93b401628b3e20a665351cac5]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-1fbb25f93b401628b3e20a665351cac5]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154). Schedule 25A and 25B were inserted by regulation 16 of [S.I. 2018/110](https://www.legislation.gov.uk/uksi/2018/110).
 
-[^key-c4a397adc40d864f918c394e7b69e2db]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-c4a397adc40d864f918c394e7b69e2db]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00026]: Footnote: [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265).
 
-[^key-d8d48c43f076f7ae00c44fc04c9eb4f0]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-d8d48c43f076f7ae00c44fc04c9eb4f0]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00027]: Footnote: [1852 c. 79](https://www.legislation.gov.uk/ukpga/1852/79). The functions of the Commissioners were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-4a43cdc49f23a26086d5b41e7bf82cc2]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-4a43cdc49f23a26086d5b41e7bf82cc2]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00028]: Footnote: [1854 c. 97](https://www.legislation.gov.uk/ukpga/1854/97). Section 11 was amended by sections 207, 209 and Schedule 7 to the Law of Property Act [1925 (c 20)](https://www.legislation.gov.uk/ukpga/1925/20). The functions of the Commissioners were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5400d51136938db9524c1cb30d676044]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-5400d51136938db9524c1cb30d676044]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00029]: Footnote: [1857 c. 31](https://www.legislation.gov.uk/ukpga/1857/31). The functions of the Commissioners were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2d4e65d0be08020a482616e6bdebcb2d]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-2d4e65d0be08020a482616e6bdebcb2d]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00030]: Footnote: [1876 c. 56](https://www.legislation.gov.uk/ukpga/1876/56).
 
-[^key-e2278604382b8d4c33b353f16a484964]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-e2278604382b8d4c33b353f16a484964]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00031]: Footnote: [1899 c. 30](https://www.legislation.gov.uk/ukpga/1899/30). Section 1 was amended by section 50(4) of the Commons Act [2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26). There are other amendments not relevant to Wales.
 
-[^key-90cec37f5fed552ccd1931db3e83dd6e]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-90cec37f5fed552ccd1931db3e83dd6e]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00032]: Footnote: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20). Section 193 was amended by sections 189(4) and 273(1) and (3) of, and Schedule 30 to the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), section 16 and paragraph 10(5) of Schedule 8 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 66(6) and paragraph 7(1) of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), and paragraph 1 of Schedule 4 and Part 1 of Schedule 16 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-d07050fdee1858084b9898c6001eb381]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-d07050fdee1858084b9898c6001eb381]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00033]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58). Section 15 was amended by paragraph 101 of Schedule 8 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22). There are other amendments that are not relevant.
 
-[^key-93275de48dd17bc05da858bbfa63baf9]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/20) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-93275de48dd17bc05da858bbfa63baf9]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/20) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00034]: Footnote: [1976 c. 29](https://www.legislation.gov.uk/ukpga/1976/29).
 
-[^key-c52ff2d5c2dc30b22dc3d7cb3d6032b8]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/21) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-c52ff2d5c2dc30b22dc3d7cb3d6032b8]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/21) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
-[^key-e7f1fc615ea22decd6a2cca84121b978]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/22) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-e7f1fc615ea22decd6a2cca84121b978]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/22) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00035]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 53 has been amended by section 51 and paragraph 1 of Schedule 5 to the Countryside and Rights of Way Act 2000, and section 70(1) of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-a0d8a8ba9a345951919fe9ad827a41e7]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/23) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-a0d8a8ba9a345951919fe9ad827a41e7]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/23) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00036]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 1 was amended by section 168 and paragraph 17 of Schedule 8 and paragraph 1 of Schedule 9 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), section 120 and paragraph 36(1) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 161 and paragraphs 6 and 7 of Schedule 11 to the Transport Act 2000 (c .38), section 45 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), paragraph 71 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), and section 16 of the Bus Services Act [2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21). Section 9 was amended by section 8 and paragraph 4(4) of Schedule 5 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 168(1) and paragraph 23 of Schedule 8 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), section 48 and paragraph 24 of Schedule 4 to the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), and paragraph 74 of Schedule 1 to the Infrastructure Act 2015. Sections 14 and 15 were substituted by section 1(1) and Schedule 1 to the Road Traffic (Temporary Restrictions) Act [1991 (c. 26)](https://www.legislation.gov.uk/ukpga/1991/26). An amendment was made to section 15 by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177). Section 22BB was inserted by section 72 of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16). There are other amendments that are not relevant to Wales.
 
-[^key-0968226fde2052bb8cf10bedff9ffff7]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/24) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-0968226fde2052bb8cf10bedff9ffff7]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/24) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00037]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 198 was amended by paragraph 1 of Schedule 19 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34); and section 42(3) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5). Section 211 was amended by section 86 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and paragraph 36(2) of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). There are other amendments not relevant to Wales. The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-04657ea6f128a201e7c00a82e48e8c4a]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/25) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-04657ea6f128a201e7c00a82e48e8c4a]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/25) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00038]: Footnote: Section 247 was amended by section 270 and paragraphs 2 and 3 of Schedule 22 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), section 20(4) and paragraph 24(9) of Schedule 6 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), and section 20(4), and paragraph 104 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 257 was amended by Part 1 of Schedule 1 to [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177), article 5(c) [S.I 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), section 12(2) and (3) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and paragraph 14 of Schedule 4 to the [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4).
 
-[^key-69afec55f9ca2ffa076498c7b2d89cc4]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/26) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-69afec55f9ca2ffa076498c7b2d89cc4]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/26) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00039]: Footnote: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11). Section 20 was amended by paragraph 14 of Schedule 12 to the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30). There are other amendments that are not relevant to Wales. The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-dd6a7662afdc0f1e04d3ed8b1979bd82]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/27) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-dd6a7662afdc0f1e04d3ed8b1979bd82]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/27) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00040]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 17 was amended by section 406(1) of and paragraph 165(1) and (2) of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21) and paragraph 18 of Schedule 2 to the [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2).
 
-[^key-0d6bfaa865e13c145baaf3782804bfab]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/28) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-0d6bfaa865e13c145baaf3782804bfab]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/28) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00041]: Footnote: [2006 c. 26](https://www.legislation.gov.uk/ukpga/2006/26).
 
-[^key-f4efe7dc923fccbbf34633957a47e0d8]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/29) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
+[^c-f4efe7dc923fccbbf34633957a47e0d8]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/wsi/2025/887/schedule/3/paragraph/29) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/887/regulation/1)
 
 [^f00042]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154). Regulation 8 was amended by regulation 6 of [S.I. 2018/110](https://www.legislation.gov.uk/uksi/2018/110).

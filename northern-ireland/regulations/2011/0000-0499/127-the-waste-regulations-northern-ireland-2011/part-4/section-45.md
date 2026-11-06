@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Amendments to the Hazardous Waste Regulations (Northern Ireland) 2005[^key-bb171debd246d165057144b82059f91c]
+## 45. Amendments to the Hazardous Waste Regulations (Northern Ireland) 2005[^c-bb171debd246d165057144b82059f91c]
 
 *Extent: N.I.*
 
@@ -63,7 +63,7 @@ summary: ''
 
 (4) in paragraph (3) omit “or the Hazardous Waste Directive” and “or the Hazardous Waste Directive, as the case may be”
 
-**46.**[^key-78e29b103846cff8acac0b09e9f62ed9] For regulation 3 substitute—
+**46.**[^c-78e29b103846cff8acac0b09e9f62ed9] For regulation 3 substitute—
 
 > **3.** (1) For the purposes of these Regulations—
 >
@@ -80,7 +80,7 @@ summary: ''
 
 .
 
-**47.**[^key-82ce60186ee32aa9d52682e2741e198e] For regulation 4 substitute—
+**47.**[^c-82ce60186ee32aa9d52682e2741e198e] For regulation 4 substitute—
 
 > **4. Annex III to the Waste Directive**
 >
@@ -91,15 +91,15 @@ summary: ''
 
 .
 
-**48.**[^key-62704f2aa013fbd8af2ac6274f894779] (1) In regulation 5(a), after the words “a list of wastes” omit “pursuant to Article 1(a) of Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste and Council Decision [94/904/EC](https://www.legislation.gov.uk/european/decision/1994/0904) establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/european/decision/1991/0689) on hazardous waste,”.
+**48.**[^c-62704f2aa013fbd8af2ac6274f894779] (1) In regulation 5(a), after the words “a list of wastes” omit “pursuant to Article 1(a) of Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste and Council Decision [94/904/EC](https://www.legislation.gov.uk/european/decision/1994/0904) establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/european/decision/1991/0689) on hazardous waste,”.
 
 (2) In regulation 5(c), in the definition of “List of Wastes” omit “, being the list referred to in the first indent of Article 1(4) of the Hazardous Waste Directive drawn up on the basis of Annexes I and II, having one or more of the properties listed in Annex III, taking account of the origin and composition of the waste and, where necessary, limit values of concentration”.
 
-**49.**[^key-5b3711c74a321842c105edb79a067d7f] In regulation 8(1) for “Annexes I, II and III” substitute “Annex III”.
+**49.**[^c-5b3711c74a321842c105edb79a067d7f] In regulation 8(1) for “Annexes I, II and III” substitute “Annex III”.
 
-**50.**[^key-0383f82c0b4aa9c29b7bd8b79a3a8db7] In regulation 9(1) for “Annexes I, II and III” substitute “Annex III”.
+**50.**[^c-0383f82c0b4aa9c29b7bd8b79a3a8db7] In regulation 9(1) for “Annexes I, II and III” substitute “Annex III”.
 
-**51.**[^key-a027cf9debda41d777d2944cb4dc5b1c] (1) In regulation 10(1)—
+**51.**[^c-a027cf9debda41d777d2944cb4dc5b1c] (1) In regulation 10(1)—
 
 - (a) for “Annexes I, II and III” substitute “Annex III”;
 - (b) omit “to the Hazardous Waste Directive”;
@@ -110,7 +110,7 @@ summary: ''
 
 .
 
-**52.**[^key-f1b814b58d924c6902f7b57121507da6] In regulation 18—
+**52.**[^c-f1b814b58d924c6902f7b57121507da6] In regulation 18—
 
 (1) After the words “it has been” insert “diluted or has been”.
 
@@ -118,7 +118,7 @@ summary: ''
 
 > - (aa) in the case of hazardous waste comprising waste oil, waste oil of different characteristics;
 
-**53.**[^key-fa219630d63dc44eaf856ce073066bd1] In regulation 19 —
+**53.**[^c-fa219630d63dc44eaf856ce073066bd1] In regulation 19 —
 
 (1) In paragraph (1) for “(2) to (4)”, substitute “(2) to (5)”.
 
@@ -136,9 +136,9 @@ summary: ''
 
 .
 
-**54.**[^key-89eabb66f4872ba098f6bccff5366a28] In regulation 24(2)(c) for “Annex IIA to Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442), or storage of waste consisting of materials intended for submission to any operation listed in Annex IIB to that Directive,” substitute “Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council, or storage of waste consisting materials intended for submission to any operation listed in Annex II of that Directive,”.
+**54.**[^c-89eabb66f4872ba098f6bccff5366a28] In regulation 24(2)(c) for “Annex IIA to Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442), or storage of waste consisting of materials intended for submission to any operation listed in Annex IIB to that Directive,” substitute “Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council, or storage of waste consisting materials intended for submission to any operation listed in Annex II of that Directive,”.
 
-**55.**[^key-482514144f730886653ba0756a87fa3e] In regulation 37—
+**55.**[^c-482514144f730886653ba0756a87fa3e] In regulation 37—
 
 (1) In paragraph (2) after “made” insert “chronologically”;
 
@@ -154,7 +154,7 @@ summary: ''
 
 (5) In paragraph (8) after “holder” insert “dealer, broker”.
 
-**56.**[^key-80ffa3759b1dbe44a9572ff17361080e] In regulation 38—
+**56.**[^c-80ffa3759b1dbe44a9572ff17361080e] In regulation 38—
 
 (1) In paragraph (1) for “consignor of hazardous waste” substitute “consignor or broker of, or dealer in hazardous waste”;
 
@@ -180,7 +180,7 @@ summary: ''
 
 .
 
-**57.**[^key-99983687d62e46033f9a5cf2acbb6342] In regulation 40(3)(c)—
+**57.**[^c-99983687d62e46033f9a5cf2acbb6342] In regulation 40(3)(c)—
 
 > (1) Insert “disposal or” before “recovery”; and
 >
@@ -188,7 +188,7 @@ summary: ''
 
 .
 
-**58.**[^key-97381ea5c359074f618323a4fdf9756a] In regulation 42—
+**58.**[^c-97381ea5c359074f618323a4fdf9756a] In regulation 42—
 
 > (1) In paragraph (2)—
 >
@@ -202,7 +202,7 @@ summary: ''
 
 .
 
-**59.**[^key-ef6389261445c3ffe917339de94d94f1] In regulation 47(2)—
+**59.**[^c-ef6389261445c3ffe917339de94d94f1] In regulation 47(2)—
 
 > (1) For “Article 7” substitute “Article 28”; and
 >
@@ -210,13 +210,13 @@ summary: ''
 
 .
 
-**60.**[^key-1b3e8ecbe530e717bacc0f6eae8472e7] After regulation 48(6) insert-
+**60.**[^c-1b3e8ecbe530e717bacc0f6eae8472e7] After regulation 48(6) insert-
 
 > (7) Until the end of the period of 6 months beginning with the day on which the Waste Regulations (Northern Ireland) 2011 are made, the forms set out in these Regulations as originally enacted, or forms requiring the same information in substantially the same format, may be used instead of those substituted by the Waste Regulations (Northern Ireland) 2011.
 
-**61.**[^key-1976cc70ea5d8b26a1274ad935477be6] Omit Schedules 1 and 2.
+**61.**[^c-1976cc70ea5d8b26a1274ad935477be6] Omit Schedules 1 and 2.
 
-**62.**[^key-21642d00dd7686217d40381abafbd1ad] For Schedule 3 substitute—
+**62.**[^c-21642d00dd7686217d40381abafbd1ad] For Schedule 3 substitute—
 
 > **SCHEDULE 3 — Annex III to the Waste Directive**
 >
@@ -249,7 +249,7 @@ summary: ''
 > </tbody>
 > </table>
 
-**63.**[^key-453bd5fd255d9d11e7463f32d79d5b87] For Schedule 4 substitute—
+**63.**[^c-453bd5fd255d9d11e7463f32d79d5b87] For Schedule 4 substitute—
 
 > **SCHEDULE 4 — FORM OF CONSIGNMENT NOTE**
 >
@@ -257,42 +257,42 @@ summary: ''
 
 ## Annotations
 
-[^key-bb171debd246d165057144b82059f91c]: Commencement: Reg. 45 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-bb171debd246d165057144b82059f91c]: Commencement: Reg. 45 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00057]: Footnote: [S.R .2005 No.300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-78e29b103846cff8acac0b09e9f62ed9]: Commencement: Reg. 46 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-78e29b103846cff8acac0b09e9f62ed9]: Commencement: Reg. 46 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-82ce60186ee32aa9d52682e2741e198e]: Commencement: Reg. 47 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-82ce60186ee32aa9d52682e2741e198e]: Commencement: Reg. 47 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-62704f2aa013fbd8af2ac6274f894779]: Commencement: Reg. 48 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-62704f2aa013fbd8af2ac6274f894779]: Commencement: Reg. 48 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-5b3711c74a321842c105edb79a067d7f]: Commencement: Reg. 49 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-5b3711c74a321842c105edb79a067d7f]: Commencement: Reg. 49 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-0383f82c0b4aa9c29b7bd8b79a3a8db7]: Commencement: Reg. 50 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-0383f82c0b4aa9c29b7bd8b79a3a8db7]: Commencement: Reg. 50 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-a027cf9debda41d777d2944cb4dc5b1c]: Commencement: Reg. 51 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-a027cf9debda41d777d2944cb4dc5b1c]: Commencement: Reg. 51 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-f1b814b58d924c6902f7b57121507da6]: Commencement: Reg. 52 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-f1b814b58d924c6902f7b57121507da6]: Commencement: Reg. 52 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-fa219630d63dc44eaf856ce073066bd1]: Commencement: Reg. 53 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-fa219630d63dc44eaf856ce073066bd1]: Commencement: Reg. 53 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-89eabb66f4872ba098f6bccff5366a28]: Commencement: Reg. 54 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-89eabb66f4872ba098f6bccff5366a28]: Commencement: Reg. 54 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-482514144f730886653ba0756a87fa3e]: Commencement: Reg. 55 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-482514144f730886653ba0756a87fa3e]: Commencement: Reg. 55 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-80ffa3759b1dbe44a9572ff17361080e]: Commencement: Reg. 56 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-80ffa3759b1dbe44a9572ff17361080e]: Commencement: Reg. 56 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-99983687d62e46033f9a5cf2acbb6342]: Commencement: Reg. 57 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-99983687d62e46033f9a5cf2acbb6342]: Commencement: Reg. 57 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-97381ea5c359074f618323a4fdf9756a]: Commencement: Reg. 58 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-97381ea5c359074f618323a4fdf9756a]: Commencement: Reg. 58 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-ef6389261445c3ffe917339de94d94f1]: Commencement: Reg. 59 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-ef6389261445c3ffe917339de94d94f1]: Commencement: Reg. 59 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-1b3e8ecbe530e717bacc0f6eae8472e7]: Commencement: Reg. 60 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-1b3e8ecbe530e717bacc0f6eae8472e7]: Commencement: Reg. 60 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-1976cc70ea5d8b26a1274ad935477be6]: Commencement: Reg. 61 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-1976cc70ea5d8b26a1274ad935477be6]: Commencement: Reg. 61 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-21642d00dd7686217d40381abafbd1ad]: Commencement: Reg. 62 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-21642d00dd7686217d40381abafbd1ad]: Commencement: Reg. 62 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-453bd5fd255d9d11e7463f32d79d5b87]: Commencement: Reg. 63 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-453bd5fd255d9d11e7463f32d79d5b87]: Commencement: Reg. 63 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)

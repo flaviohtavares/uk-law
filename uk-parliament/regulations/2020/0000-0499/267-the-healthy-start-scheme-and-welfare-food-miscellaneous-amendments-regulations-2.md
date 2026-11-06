@@ -58,7 +58,7 @@ In accordance with section 13(2) of the Social Security Act 1988 [^c23993191], t
 
 ### Preliminary
 
-#### 1. Citation, commencement, extent and interpretation[^key-08544456153b8a2d8b413a48eec763e1]
+#### 1. Citation, commencement, extent and interpretation[^c-08544456153b8a2d8b413a48eec763e1]
 
 (1) These Regulations may be cited as the Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) Regulations 2020.
 
@@ -84,11 +84,11 @@ In accordance with section 13(2) of the Social Security Act 1988 [^c23993191], t
 
 ### Amendment of secondary legislation
 
-#### 2. Amendment of the principal Regulations[^key-d6b501555a4bb2eb0f6c97792cce6059]
+#### 2. Amendment of the principal Regulations[^c-d6b501555a4bb2eb0f6c97792cce6059]
 
 The principal Regulations are amended in accordance with regulations 3 to 18.
 
-#### 3. Amendment of regulation 2 (interpretation)[^key-557440593479047e5224c41e8d5295ba]
+#### 3. Amendment of regulation 2 (interpretation)[^c-557440593479047e5224c41e8d5295ba]
 
 (1) In regulation 2(1)—
 
@@ -117,7 +117,7 @@ The principal Regulations are amended in accordance with regulations 3 to 18.
 
 (2) In regulation 2(3), for “regulations 3 to 10, 12, 14 and 15, but not regulation 15(2)” substitute “ regulations 3 to 10, but not regulation 8(4) or (5) or 9A(2) ”.
 
-#### 4. Amendment of regulation 3 (entitlement to benefit)[^key-a22f268ae8e005c18b9d57736d4def69]
+#### 4. Amendment of regulation 3 (entitlement to benefit)[^c-a22f268ae8e005c18b9d57736d4def69]
 
 (1) For regulation 3(1) [^c23993241] substitute—
 
@@ -142,13 +142,13 @@ The principal Regulations are amended in accordance with regulations 3 to 18.
 
 .
 
-#### 5. Amendment of regulation 4 (claim for benefit)[^key-42c987f38b674a5486130cc5824c8e04]
+#### 5. Amendment of regulation 4 (claim for benefit)[^c-42c987f38b674a5486130cc5824c8e04]
 
 (1) In regulation 4(1) [^c23993251], for the words from “submits to the Secretary of State” to the end substitute “ makes a claim to the Secretary of State that includes the information and declaration specified in Schedule 2 ”.
 
 (2) In regulation 4(3) and (3B), for “submitted” substitute “ made ”.
 
-#### 6. Amendment of regulation 5 (Healthy Start food and payments in lieu)[^key-36524982f759fac59adc8583a446ad4f]
+#### 6. Amendment of regulation 5 (Healthy Start food and payments in lieu)[^c-36524982f759fac59adc8583a446ad4f]
 
 For regulation 5(2) [^c23993261] substitute—
 
@@ -156,17 +156,17 @@ For regulation 5(2) [^c23993261] substitute—
 
 .
 
-#### 7. Amendment of regulation 6 (advice on health and nutrition)[^key-09bc117e4ba8628c046bf27b51a67a13]
+#### 7. Amendment of regulation 6 (advice on health and nutrition)[^c-09bc117e4ba8628c046bf27b51a67a13]
 
 In regulation 6 [^c23993271], after “voucher” insert “ or credit, ”.
 
-#### 8. Amendment of regulation 7 (cessation of entitlement to benefit)[^key-211c7df08a2f317168e35ee637c5aa59]
+#### 8. Amendment of regulation 7 (cessation of entitlement to benefit)[^c-211c7df08a2f317168e35ee637c5aa59]
 
 (1) In regulation 7(1) [^c23993281], for “regulation 3 or 4” substitute “regulation 3, 4, 9(6) or 9A(4).
 
 (2) In regulation 7(2), after “vouchers” insert “ , credit ”.
 
-#### 9. Amendment of regulation 7A (functions of the NHS Business Services Authority)[^key-7ea860791a4d55b6f97bf4d42e7a79b9]
+#### 9. Amendment of regulation 7A (functions of the NHS Business Services Authority)[^c-7ea860791a4d55b6f97bf4d42e7a79b9]
 
 In regulation 7A(2) [^c23993291]—
 
@@ -184,7 +184,7 @@ In regulation 7A(2) [^c23993291]—
 
   .
 
-#### 10. Substitution of regulation 8 (issue of voucher)[^key-fa5d770dc8c332016ea603450bdc92ea]
+#### 10. Substitution of regulation 8 (issue of voucher)[^c-fa5d770dc8c332016ea603450bdc92ea]
 
 For regulation 8 [^c23993301] substitute—
 
@@ -216,7 +216,7 @@ For regulation 8 [^c23993301] substitute—
 
 .
 
-#### 11. Amendment of regulation 8A (provision of Healthy Start vitamins)[^key-3367ea495c5fe28af3af67c90f8675a3]
+#### 11. Amendment of regulation 8A (provision of Healthy Start vitamins)[^c-3367ea495c5fe28af3af67c90f8675a3]
 
 (1) In regulation 8A(1) [^c23993311]—
 
@@ -230,7 +230,7 @@ For regulation 8 [^c23993301] substitute—
 - (a) for “paragraph (4)” substitute “ paragraph (5) ”;
 - (b) omit the word “documentary” in both places it occurs.
 
-#### 12. Amendment of regulation 9 (use of voucher)[^key-5df9ae3322937a9e82fab277ac28e172]
+#### 12. Amendment of regulation 9 (use of voucher)[^c-5df9ae3322937a9e82fab277ac28e172]
 
 (1) In regulation 9(1) [^c23993321], for “within the period of its validity exchange a voucher for” substitute “ only use a voucher to purchase ”.
 
@@ -246,7 +246,7 @@ For regulation 8 [^c23993301] substitute—
 
 .
 
-#### 13. New regulation 9A (requirement to provide information or evidence)[^key-af8333bc6190763c410d9cf6cbc55fc3]
+#### 13. New regulation 9A (requirement to provide information or evidence)[^c-af8333bc6190763c410d9cf6cbc55fc3]
 
 After regulation 9 insert—
 
@@ -266,7 +266,7 @@ After regulation 9 insert—
 
 .
 
-#### 14. Amendment of regulation 10 (failure to receive benefit)[^key-1af4c75ecafc2b1a781c7e048ed73e5e]
+#### 14. Amendment of regulation 10 (failure to receive benefit)[^c-1af4c75ecafc2b1a781c7e048ed73e5e]
 
 (1) In the heading to regulation 10 [^c23993331], omit “represented by the voucher”.
 
@@ -315,11 +315,11 @@ After regulation 9 insert—
 
 .
 
-#### 15. Revocation of Part 4 (food outlets)[^key-4de7f9dd926367ab75d58d6aeca0497f]
+#### 15. Revocation of Part 4 (food outlets)[^c-4de7f9dd926367ab75d58d6aeca0497f]
 
 Omit Part 4 [^c23993341].
 
-#### 16. Amendment of Schedule 2 (application for benefit)[^key-6634a568a24e9dfccc6b9e3dfd35b60a]
+#### 16. Amendment of Schedule 2 (application for benefit)[^c-6634a568a24e9dfccc6b9e3dfd35b60a]
 
 In Schedule 2 [^c23993351]—
 
@@ -342,7 +342,7 @@ In Schedule 2 [^c23993351]—
     ;
 - (d) omit paragraph 5.
 
-#### 17. Amendment of Schedule 3 (Healthy Start food)[^key-e49c85d5b5e28cc77eb4b029e5bb4cc4]
+#### 17. Amendment of Schedule 3 (Healthy Start food)[^c-e49c85d5b5e28cc77eb4b029e5bb4cc4]
 
 In the table in Schedule 3 [^c23993361]—
 
@@ -356,15 +356,15 @@ In the table in Schedule 3 [^c23993361]—
 
   .
 
-#### 18. Revocation of Schedules 4 (application for registration as a food outlet) and 5 (information for claim for payment of food outlet)[^key-f1405282ee55f9c209e56157d755002c]
+#### 18. Revocation of Schedules 4 (application for registration as a food outlet) and 5 (information for claim for payment of food outlet)[^c-f1405282ee55f9c209e56157d755002c]
 
 Omit Schedules 4 and 5.
 
-#### 19. Amendment of the 1996 Regulations[^key-4c51dcf7ad4e5966d29d5f7ec4f6af18]
+#### 19. Amendment of the 1996 Regulations[^c-4c51dcf7ad4e5966d29d5f7ec4f6af18]
 
 The 1996 Regulations are amended in accordance with regulations 20 to 24.
 
-#### 20. Amendment of regulation 2 (interpretation)[^key-573952214bbef30649be3f99d44d118e]
+#### 20. Amendment of regulation 2 (interpretation)[^c-573952214bbef30649be3f99d44d118e]
 
 In regulation 2(1) [^c23993371], for the definition of “dried milk” substitute—
 
@@ -372,11 +372,11 @@ In regulation 2(1) [^c23993371], for the definition of “dried milk” substitu
 
 .
 
-#### 21. Amendment of regulation 18 (milk or dried milk for children in day care)[^key-9bed05de0b09ea7dae9db89cfad4c707]
+#### 21. Amendment of regulation 18 (milk or dried milk for children in day care)[^c-9bed05de0b09ea7dae9db89cfad4c707]
 
 In regulation 18(1)(b) [^c23993381], for “either to milk as in paragraph (a) or dried milk,” substitute “ dried milk ”.
 
-#### 22. Amendment of regulation 21A (functions of the NHS Business Services Authority)[^key-bbd19cd64d147936735618095e078a38]
+#### 22. Amendment of regulation 21A (functions of the NHS Business Services Authority)[^c-bbd19cd64d147936735618095e078a38]
 
 In regulation 21A [^c23993391]—
 
@@ -392,11 +392,11 @@ In regulation 21A [^c23993391]—
 
   .
 
-#### 23. Amendment of regulation 22 (application of enactments)[^key-80c2bb429f14ef413eb6c0fdd31647e6]
+#### 23. Amendment of regulation 22 (application of enactments)[^c-80c2bb429f14ef413eb6c0fdd31647e6]
 
 In regulation 22(2) [^c23993401], omit “regulation 13(1);” and “regulation 13(3),”.
 
-#### 24. Revocation of Schedule 1 (dried milk specified for the purpose of the Regulations)[^key-4228d5fff1b67e02086568f6bd328add]
+#### 24. Revocation of Schedule 1 (dried milk specified for the purpose of the Regulations)[^c-4228d5fff1b67e02086568f6bd328add]
 
 Omit Schedule 1 [^c23993411].
 
@@ -404,7 +404,7 @@ Omit Schedule 1 [^c23993411].
 
 ### Consequential amendments to secondary legislation
 
-#### 25. Amendment of the Scotland Act 1998 (Agency Arrangements) (Specification) Order 1999[^key-618fe760aa5a8b16ad87d56439e50dd0]
+#### 25. Amendment of the Scotland Act 1998 (Agency Arrangements) (Specification) Order 1999[^c-618fe760aa5a8b16ad87d56439e50dd0]
 
 In the Scotland Act 1998 (Agency Arrangements) (Specification) Order 1999 [^c23993421]—
 
@@ -417,18 +417,18 @@ In the Scotland Act 1998 (Agency Arrangements) (Specification) Order 1999 [^c239
 - (c) in Schedule 2 (functions exercisable by the Scottish Ministers), omit paragraphs 10 and 11;
 - (d) omit Schedule 3 (functions of the Scottish Ministers).
 
-#### 26. Amendment of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999[^key-f2f706e8a4fce027e651e9f9c5af3f08]
+#### 26. Amendment of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999[^c-f2f706e8a4fce027e651e9f9c5af3f08]
 
 In the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 [^c23993431]—
 
 - (a) in Schedule 1 (enactments conferring functions transferred to the Scottish Ministers), in column 1, under the heading “Subordinate Legislation”, omit the entry relating to the 1996 Regulations;
 - (b) in Schedule 4 (non-statutory functions transferred to the Scottish Ministers), omit paragraph 3.
 
-#### 27. Revocation of the Scotland Act 1998 (Agency Arrangements) (Specification) (No.2) Order 2006[^key-04066f9001a1d57661e76ab24cc9cd77]
+#### 27. Revocation of the Scotland Act 1998 (Agency Arrangements) (Specification) (No.2) Order 2006[^c-04066f9001a1d57661e76ab24cc9cd77]
 
 The Scotland Act 1998 (Agency Arrangements) (Specification) (No.2) Order 2006 [^c23993441] is revoked.
 
-#### 28. Amendment of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 3) Order 2006[^key-0a71d9fc9fadbee125e604879ab10577]
+#### 28. Amendment of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 3) Order 2006[^c-0a71d9fc9fadbee125e604879ab10577]
 
 In the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No.3) Order 2006 [^c23993451]—
 
@@ -437,7 +437,7 @@ In the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) 
   - (i) in column 1, omit the entries relating to the Social Security Act 1988 and the corresponding entries in column 2; and
   - (ii) in column 1, omit the entry relating to the principal Regulations.
 
-#### 29. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2015[^key-ba00a9e91ccb87dbf6a30f43c3fd400f]
+#### 29. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2015[^c-ba00a9e91ccb87dbf6a30f43c3fd400f]
 
 *Extent: E+W*
 
@@ -446,7 +446,7 @@ In Schedule 2 (list of prescribed medical certificates) to the National Health S
 - (a) in column 1, omit the second entry;
 - (b) in column 2, omit the entry relating to section 13 of the Social Security Act 1988.
 
-#### 30. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2015[^key-7aa2f1731c0863818da504d5724b9757]
+#### 30. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2015[^c-7aa2f1731c0863818da504d5724b9757]
 
 *Extent: E+W*
 
@@ -461,9 +461,9 @@ In Schedule 1 (list of prescribed medical certificates) to the National Health S
 
 ### Transitional Provision
 
-#### 31.[^key-c846ca5918307c98d6fda2921e4810b8]
+#### 31.[^c-c846ca5918307c98d6fda2921e4810b8]
 
-(1) The principal Regulations, as they applied immediately before the coming into force of these Regulations, continue to apply as if the amendments made by regulations 3 to 18, with the exception of regulations 9(c) and 17 *(Extent: E)*[^key-49c1bf26fa5beabce3bfafec4852642b], had not been made in relation to a case where—
+(1) The principal Regulations, as they applied immediately before the coming into force of these Regulations, continue to apply as if the amendments made by regulations 3 to 18, with the exception of regulations 9(c) and 17 *(Extent: E)*[^c-49c1bf26fa5beabce3bfafec4852642b], had not been made in relation to a case where—
 
 - (a)
   - (i) a beneficiary seeks to exchange a voucher for Healthy Start food at a food outlet;
@@ -475,11 +475,11 @@ In Schedule 1 (list of prescribed medical certificates) to the National Health S
 - (b) the voucher referred to in sub-paragraph (a)(i), (ii)(bb) and (iv) is in paper form; and
 - (c) the food outlet referred to in sub-paragraph (a)(i), (iii) and (iv) was registered as a food outlet under regulation 12 of the principal Regulations prior to the coming into force of these Regulations.
 
-(2) The terms used in this regulation , with the exception of “Healthy Start food”, *(Extent: E)*[^key-841e180562f0cbd99f2b4c477ca15b31] have the same meaning as in the principal Regulations as they applied immediately before the coming into force of these Regulations.
+(2) The terms used in this regulation , with the exception of “Healthy Start food”, *(Extent: E)*[^c-841e180562f0cbd99f2b4c477ca15b31] have the same meaning as in the principal Regulations as they applied immediately before the coming into force of these Regulations.
 
 *Extent: E*
 
-(3)[^key-6a5cdd6c2e1ee13daa8534d036f97fe5] In this regulation, “Healthy Start food” has the same meaning as in the principal Regulations.
+(3)[^c-6a5cdd6c2e1ee13daa8534d036f97fe5] In this regulation, “Healthy Start food” has the same meaning as in the principal Regulations.
 
 Signed by authority of the Secretary of State for Health and Social Care.
 
@@ -519,124 +519,124 @@ An impact assessment has not been prepared for this instrument as no, or no sign
 
 [^c23993201]: Marginal citation: Functions conferred or imposed on the National Assembly for Wales immediately before the first appointment of a First Minister under section 46 of the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) by an enactment contained in an Act were transferred to the Welsh Ministers by paragraph 30(2)(c) of Schedule 11 to that Act.
 
-[^key-08544456153b8a2d8b413a48eec763e1]: Commencement: Reg. 1 in force at 6.4.2020, see reg. 1(2)
+[^c-08544456153b8a2d8b413a48eec763e1]: Commencement: Reg. 1 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993211]: Marginal citation: [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262).
 
 [^c23993221]: Marginal citation: [S.I. 1996/1434](https://www.legislation.gov.uk/uksi/1996/1434).
 
-[^key-d6b501555a4bb2eb0f6c97792cce6059]: Commencement: Reg. 2 in force at 6.4.2020, see reg. 1(2)
+[^c-d6b501555a4bb2eb0f6c97792cce6059]: Commencement: Reg. 2 in force at 6.4.2020, see reg. 1(2)
 
-[^key-557440593479047e5224c41e8d5295ba]: Commencement: Reg. 3 in force at 6.4.2020, see reg. 1(2)
+[^c-557440593479047e5224c41e8d5295ba]: Commencement: Reg. 3 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993231]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-a22f268ae8e005c18b9d57736d4def69]: Commencement: Reg. 4 in force at 6.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/267/regulation/1/2)
+[^c-a22f268ae8e005c18b9d57736d4def69]: Commencement: Reg. 4 in force at 6.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/267/regulation/1/2)
 
 [^c23993241]: Marginal citation: Regulation 3 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193) and amended by [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818), [2008/408](https://www.legislation.gov.uk/uksi/2008/408), [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [2009/295](https://www.legislation.gov.uk/uksi/2009/295), [2010/434](https://www.legislation.gov.uk/uksi/2010/434), [2016/985](https://www.legislation.gov.uk/uksi/2016/985), [2017/1032](https://www.legislation.gov.uk/uksi/2017/1032) and [2019/909](https://www.legislation.gov.uk/uksi/2019/909).
 
-[^key-42c987f38b674a5486130cc5824c8e04]: Commencement: Reg. 5 in force at 6.4.2020, see reg. 1(2)
+[^c-42c987f38b674a5486130cc5824c8e04]: Commencement: Reg. 5 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993251]: Marginal citation: Regulation 4 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193). There are amendments to regulation 4 which are not relevant to these Regulations.
 
-[^key-36524982f759fac59adc8583a446ad4f]: Commencement: Reg. 6 in force at 6.4.2020, see reg. 1(2)
+[^c-36524982f759fac59adc8583a446ad4f]: Commencement: Reg. 6 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993261]: Marginal citation: Regulation 5(2) was revoked in relation to Scotland by [S.S.I 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-09bc117e4ba8628c046bf27b51a67a13]: Commencement: Reg. 7 in force at 6.4.2020, see reg. 1(2)
+[^c-09bc117e4ba8628c046bf27b51a67a13]: Commencement: Reg. 7 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993271]: Marginal citation: Regulation 6 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-211c7df08a2f317168e35ee637c5aa59]: Commencement: Reg. 8 in force at 6.4.2020, see reg. 1(2)
+[^c-211c7df08a2f317168e35ee637c5aa59]: Commencement: Reg. 8 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993281]: Marginal citation: Regulation 7 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-7ea860791a4d55b6f97bf4d42e7a79b9]: Commencement: Reg. 9 in force at 6.4.2020, see reg. 1(2)
+[^c-7ea860791a4d55b6f97bf4d42e7a79b9]: Commencement: Reg. 9 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993291]: Marginal citation: Regulation 7A was inserted by [S.I. 2017/1032](https://www.legislation.gov.uk/uksi/2017/1032) and revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-fa5d770dc8c332016ea603450bdc92ea]: Commencement: Reg. 10 in force at 6.4.2020, see reg. 1(2)
+[^c-fa5d770dc8c332016ea603450bdc92ea]: Commencement: Reg. 10 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993301]: Marginal citation: Regulation 8 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193) and amended by [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818), [2008/408](https://www.legislation.gov.uk/uksi/2008/408) and [2009/295](https://www.legislation.gov.uk/uksi/2009/295).
 
-[^key-3367ea495c5fe28af3af67c90f8675a3]: Commencement: Reg. 11 in force at 6.4.2020, see reg. 1(2)
+[^c-3367ea495c5fe28af3af67c90f8675a3]: Commencement: Reg. 11 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993311]: Marginal citation: Regulation 8A was inserted by [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818) and amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); it was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-5df9ae3322937a9e82fab277ac28e172]: Commencement: Reg. 12 in force at 6.4.2020, see reg. 1(2)
+[^c-5df9ae3322937a9e82fab277ac28e172]: Commencement: Reg. 12 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993321]: Marginal citation: Regulation 9 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193) and amended by [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818).
 
-[^key-af8333bc6190763c410d9cf6cbc55fc3]: Commencement: Reg. 13 in force at 6.4.2020, see reg. 1(2)
+[^c-af8333bc6190763c410d9cf6cbc55fc3]: Commencement: Reg. 13 in force at 6.4.2020, see reg. 1(2)
 
-[^key-1af4c75ecafc2b1a781c7e048ed73e5e]: Commencement: Reg. 14 in force at 6.4.2020, see reg. 1(2)
+[^c-1af4c75ecafc2b1a781c7e048ed73e5e]: Commencement: Reg. 14 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993331]: Marginal citation: Regulation 10 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-4de7f9dd926367ab75d58d6aeca0497f]: Commencement: Reg. 15 in force at 6.4.2020, see reg. 1(2)
+[^c-4de7f9dd926367ab75d58d6aeca0497f]: Commencement: Reg. 15 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993341]: Marginal citation: Part 4 was amended by [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818).
 
-[^key-6634a568a24e9dfccc6b9e3dfd35b60a]: Commencement: Reg. 16 in force at 6.4.2020, see reg. 1(2)
+[^c-6634a568a24e9dfccc6b9e3dfd35b60a]: Commencement: Reg. 16 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993351]: Marginal citation: Schedule 2 was revoked in relation to Scotland by [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193) and amended by [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [2009/295](https://www.legislation.gov.uk/uksi/2009/295), [2010/434](https://www.legislation.gov.uk/uksi/2010/434), [2016/985](https://www.legislation.gov.uk/uksi/2016/985) and [2019/909](https://www.legislation.gov.uk/uksi/2019/909).
 
-[^key-e49c85d5b5e28cc77eb4b029e5bb4cc4]: Commencement: Reg. 17 in force at 1.10.2020, see reg. 1(2)
+[^c-e49c85d5b5e28cc77eb4b029e5bb4cc4]: Commencement: Reg. 17 in force at 1.10.2020, see reg. 1(2)
 
 [^c23993361]: Marginal citation: Schedule 3 was amended by [S.I. 2011/426](https://www.legislation.gov.uk/uksi/2011/426).
 
-[^key-f1405282ee55f9c209e56157d755002c]: Commencement: Reg. 18 in force at 6.4.2020, see reg. 1(2)
+[^c-f1405282ee55f9c209e56157d755002c]: Commencement: Reg. 18 in force at 6.4.2020, see reg. 1(2)
 
-[^key-4c51dcf7ad4e5966d29d5f7ec4f6af18]: Commencement: Reg. 19 in force at 6.4.2020, see reg. 1(2)
+[^c-4c51dcf7ad4e5966d29d5f7ec4f6af18]: Commencement: Reg. 19 in force at 6.4.2020, see reg. 1(2)
 
-[^key-573952214bbef30649be3f99d44d118e]: Commencement: Reg. 20 in force at 6.4.2020, see reg. 1(2)
+[^c-573952214bbef30649be3f99d44d118e]: Commencement: Reg. 20 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993371]: Marginal citation: The definition was substituted by [S.I. 2015/917](https://www.legislation.gov.uk/uksi/2015/917).
 
-[^key-9bed05de0b09ea7dae9db89cfad4c707]: Commencement: Reg. 21 in force at 6.4.2020, see reg. 1(2)
+[^c-9bed05de0b09ea7dae9db89cfad4c707]: Commencement: Reg. 21 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993381]: Marginal citation: Regulation 18 was amended by [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262) and [2006/2818](https://www.legislation.gov.uk/uksi/2006/2818).
 
-[^key-bbd19cd64d147936735618095e078a38]: Commencement: Reg. 22 in force at 6.4.2020, see reg. 1(2)
+[^c-bbd19cd64d147936735618095e078a38]: Commencement: Reg. 22 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993391]: Marginal citation: Regulation 21A was inserted by [S.I. 2017/1032](https://www.legislation.gov.uk/uksi/2017/1032).
 
-[^key-80c2bb429f14ef413eb6c0fdd31647e6]: Commencement: Reg. 23 in force at 6.4.2020, see reg. 1(2)
+[^c-80c2bb429f14ef413eb6c0fdd31647e6]: Commencement: Reg. 23 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993401]: Marginal citation: Regulation 22 was amended by [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262) and [2006/2818](https://www.legislation.gov.uk/uksi/2006/2818).
 
-[^key-4228d5fff1b67e02086568f6bd328add]: Commencement: Reg. 24 in force at 6.4.2020, see reg. 1(2)
+[^c-4228d5fff1b67e02086568f6bd328add]: Commencement: Reg. 24 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993411]: Marginal citation: Schedule 1 was substituted by [S.I. 2015/917](https://www.legislation.gov.uk/uksi/2015/917).
 
-[^key-618fe760aa5a8b16ad87d56439e50dd0]: Commencement: Reg. 25 in force at 6.4.2020, see reg. 1(2)
+[^c-618fe760aa5a8b16ad87d56439e50dd0]: Commencement: Reg. 25 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993421]: Marginal citation: [S.I. 1999/1512](https://www.legislation.gov.uk/uksi/1999/1512), as amended by [S.I. 2006/3248](https://www.legislation.gov.uk/uksi/2006/3248); there are other amending instruments but none is relevant.
 
-[^key-f2f706e8a4fce027e651e9f9c5af3f08]: Commencement: Reg. 26 in force at 6.4.2020, see reg. 1(2)
+[^c-f2f706e8a4fce027e651e9f9c5af3f08]: Commencement: Reg. 26 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993431]: Marginal citation: [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), as amended by [S.I. 2006/3258](https://www.legislation.gov.uk/uksi/2006/3258); there are other amending instruments but none is relevant.
 
-[^key-04066f9001a1d57661e76ab24cc9cd77]: Commencement: Reg. 27 in force at 6.4.2020, see reg. 1(2)
+[^c-04066f9001a1d57661e76ab24cc9cd77]: Commencement: Reg. 27 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993441]: Marginal citation: [S.I. 2006/3248](https://www.legislation.gov.uk/uksi/2006/3248).
 
-[^key-0a71d9fc9fadbee125e604879ab10577]: Commencement: Reg. 28 in force at 6.4.2020, see reg. 1(2)
+[^c-0a71d9fc9fadbee125e604879ab10577]: Commencement: Reg. 28 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993451]: Marginal citation: [S.I. 2006/3258](https://www.legislation.gov.uk/uksi/2006/3258).
 
-[^key-ba00a9e91ccb87dbf6a30f43c3fd400f]: Commencement: Reg. 29 in force at 6.4.2020, see reg. 1(2)
+[^c-ba00a9e91ccb87dbf6a30f43c3fd400f]: Commencement: Reg. 29 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993461]: Marginal citation: [S.I. 2015/1862](https://www.legislation.gov.uk/uksi/2015/1862), to which there are amendments not relevant to these Regulations.
 
-[^key-7aa2f1731c0863818da504d5724b9757]: Commencement: Reg. 30 in force at 6.4.2020, see reg. 1(2)
+[^c-7aa2f1731c0863818da504d5724b9757]: Commencement: Reg. 30 in force at 6.4.2020, see reg. 1(2)
 
 [^c23993471]: Marginal citation: [S.I. 2015/1879](https://www.legislation.gov.uk/uksi/2015/1879), to which there are amendments not relevant to these Regulations.
 
-[^key-c846ca5918307c98d6fda2921e4810b8]: Commencement: Reg. 31 in force at 6.4.2020, see reg. 1(2)
+[^c-c846ca5918307c98d6fda2921e4810b8]: Commencement: Reg. 31 in force at 6.4.2020, see reg. 1(2)
 
-[^key-49c1bf26fa5beabce3bfafec4852642b]: Textual amendment: Words in reg. 31(1) substituted (E.) (30.7.2020) by [The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) (Amendment) (England) Regulations 2020 (S.I. 2020/665)](https://www.legislation.gov.uk/uksi/2020/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/665/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/665/regulation/2/a)
+[^c-49c1bf26fa5beabce3bfafec4852642b]: Textual amendment: Words in reg. 31(1) substituted (E.) (30.7.2020) by [The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) (Amendment) (England) Regulations 2020 (S.I. 2020/665)](https://www.legislation.gov.uk/uksi/2020/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/665/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/665/regulation/2/a)
 
-[^key-841e180562f0cbd99f2b4c477ca15b31]: Textual amendment: Words in reg. 31(2) inserted (E.) (30.7.2020) by [The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) (Amendment) (England) Regulations 2020 (S.I. 2020/665)](https://www.legislation.gov.uk/uksi/2020/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/665/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/665/regulation/2/b)
+[^c-841e180562f0cbd99f2b4c477ca15b31]: Textual amendment: Words in reg. 31(2) inserted (E.) (30.7.2020) by [The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) (Amendment) (England) Regulations 2020 (S.I. 2020/665)](https://www.legislation.gov.uk/uksi/2020/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/665/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/665/regulation/2/b)
 
-[^key-6a5cdd6c2e1ee13daa8534d036f97fe5]: Textual amendment: Reg. 31(3) inserted (E.) (30.7.2020) by [The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) (Amendment) (England) Regulations 2020 (S.I. 2020/665)](https://www.legislation.gov.uk/uksi/2020/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/665/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/665/regulation/2/c)
+[^c-6a5cdd6c2e1ee13daa8534d036f97fe5]: Textual amendment: Reg. 31(3) inserted (E.) (30.7.2020) by [The Healthy Start Scheme and Welfare Food (Miscellaneous Amendments) (Amendment) (England) Regulations 2020 (S.I. 2020/665)](https://www.legislation.gov.uk/uksi/2020/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/665/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/665/regulation/2/c)

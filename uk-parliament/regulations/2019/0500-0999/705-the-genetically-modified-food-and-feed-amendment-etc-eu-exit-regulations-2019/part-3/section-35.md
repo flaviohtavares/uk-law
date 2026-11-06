@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35.[^key-60d5cbd72175788e4d6e766942d883c1]
+## 35.[^c-60d5cbd72175788e4d6e766942d883c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ For Article 32, substitute—
 >
 > **1.**
 >
-> The appropriate authority may designate in accordance with Article 100 of Regulation (EU) 2017/625[^key-0d68c2bd42161651ff9a1350b16fc4fb] a reference laboratory to perform the duties and tasks set out in the Annex.
+> The appropriate authority may designate in accordance with Article 100 of Regulation (EU) 2017/625[^c-0d68c2bd42161651ff9a1350b16fc4fb] a reference laboratory to perform the duties and tasks set out in the Annex.
 >
 > **2.**
 >
@@ -47,6 +47,6 @@ For Article 32, substitute—
 
 ## Annotations
 
-[^key-60d5cbd72175788e4d6e766942d883c1]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-60d5cbd72175788e4d6e766942d883c1]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0d68c2bd42161651ff9a1350b16fc4fb]: Textual amendment: Words in reg. 35 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/4)
+[^c-0d68c2bd42161651ff9a1350b16fc4fb]: Textual amendment: Words in reg. 35 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/4)

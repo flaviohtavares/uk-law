@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Compensation for changes to planning permission: supplementary provision[^key-c96aaec94c708fb4f0e7fe4d0caec905]
+## 107. Compensation for changes to planning permission: supplementary provision[^c-c96aaec94c708fb4f0e7fe4d0caec905]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c96aaec94c708fb4f0e7fe4d0caec905]: Commencement: S. 107 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c96aaec94c708fb4f0e7fe4d0caec905]: Commencement: S. 107 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

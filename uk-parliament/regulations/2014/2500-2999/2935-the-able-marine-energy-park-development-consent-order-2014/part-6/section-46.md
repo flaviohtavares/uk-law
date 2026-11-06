@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Trees subject to tree preservation orders[^key-a73a751548f2487917f75b3bb5701446]
+## 46. Trees subject to tree preservation orders[^c-a73a751548f2487917f75b3bb5701446]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a73a751548f2487917f75b3bb5701446]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2014/2935/article/46) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-a73a751548f2487917f75b3bb5701446]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2014/2935/article/46) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

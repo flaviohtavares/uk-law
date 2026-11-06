@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Powers of Minister in connection with channel tunnel.[^key-02f5162704a5578f3950a66ef0ba0f89]
+## 142. Powers of Minister in connection with channel tunnel.[^c-02f5162704a5578f3950a66ef0ba0f89]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f5162704a5578f3950a66ef0ba0f89]: Textual amendment: S. 142 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)
+[^c-02f5162704a5578f3950a66ef0ba0f89]: Textual amendment: S. 142 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)

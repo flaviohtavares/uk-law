@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**39.**[^key-94150b59dd6be02f22a2702f2e73be7d] Omit section 9(1ZA).
+**39.**[^c-94150b59dd6be02f22a2702f2e73be7d] Omit section 9(1ZA).
 
 ## Annotations
 
-[^key-94150b59dd6be02f22a2702f2e73be7d]: Commencement: Art. 39 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-94150b59dd6be02f22a2702f2e73be7d]: Commencement: Art. 39 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

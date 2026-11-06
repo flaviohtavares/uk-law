@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Standards of support – overarching requirements[^key-35e205a88dc2929db05cbe8adf220de7]
+## 15. Standards of support – overarching requirements[^c-35e205a88dc2929db05cbe8adf220de7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35e205a88dc2929db05cbe8adf220de7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/762/regulation/15) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-35e205a88dc2929db05cbe8adf220de7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/762/regulation/15) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

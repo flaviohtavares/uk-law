@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72E. Staff mortgage offers communicated to employees by third parties[^key-cb4b1d55e584f686caefa968f4aa98f7]
+## 72E. Staff mortgage offers communicated to employees by third parties[^c-cb4b1d55e584f686caefa968f4aa98f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb4b1d55e584f686caefa968f4aa98f7]: Textual amendment: Arts. 72A-72E inserted (13.4.2010) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [5](https://www.legislation.gov.uk/uksi/2010/905/article/5)
+[^c-cb4b1d55e584f686caefa968f4aa98f7]: Textual amendment: Arts. 72A-72E inserted (13.4.2010) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [5](https://www.legislation.gov.uk/uksi/2010/905/article/5)

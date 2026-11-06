@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Moving from postal administration to creditors’ voluntary liquidation[^key-39bee29e1d0c8ce743c3a289711a1fbc]
+## 81. Moving from postal administration to creditors’ voluntary liquidation[^c-39bee29e1d0c8ce743c3a289711a1fbc]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39bee29e1d0c8ce743c3a289711a1fbc]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2013/3208/rule/81) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-39bee29e1d0c8ce743c3a289711a1fbc]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2013/3208/rule/81) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

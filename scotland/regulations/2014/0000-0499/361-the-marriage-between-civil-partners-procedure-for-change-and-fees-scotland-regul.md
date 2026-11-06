@@ -48,11 +48,11 @@ In accordance with section 10(4) of that Act they have consulted with the Regist
 
 In accordance with section 10(6) of that Act, a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-97e6fa6c6a6e006d11e8aeccc76c9fb6]
+## 1. Citation and commencement[^c-97e6fa6c6a6e006d11e8aeccc76c9fb6]
 
 These Regulations may be cited as the Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Regulations 2014 and come into force on the day after the day on which they are made**.**
 
-## 2. Interpretation[^key-a278bc8dc9e3e38b224b0091007c96b7]
+## 2. Interpretation[^c-a278bc8dc9e3e38b224b0091007c96b7]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “marriage register” means the register of marriages provided by the Registrar General of Births, Deaths and Marriages for Scotland under section 32(1) of the 1965 Act[^f00003];
 - “registration district” has the meaning given in section 5 of the 1965 Act[^f00004].
 
-## 3. Procedure to change a civil partnership into marriage[^key-1f2a32d60927eaac12c4b8a517ebc72d]
+## 3. Procedure to change a civil partnership into marriage[^c-1f2a32d60927eaac12c4b8a517ebc72d]
 
 (1) Where the parties to a qualifying civil partnership wish to change their civil partnership into a marriage, the parties must—
 
@@ -78,25 +78,25 @@ In these Regulations—
 
 - (a) in the presence of the parties to the qualifying civil partnership—
   - (i) witness the signing of section 13 of the application form by each party;
-  - (ii) sign section 14 of the application form; [^key-96b3ec9725b55d19b01b3010f9839e02]...
-- (b)[^key-ce9d646a7560e1c2e3d6df600567eab4] enter the information from section 1 and sections 4 to 10 of the application form in the marriage register, and
+  - (ii) sign section 14 of the application form; [^c-96b3ec9725b55d19b01b3010f9839e02]...
+- (b)[^c-ce9d646a7560e1c2e3d6df600567eab4] enter the information from section 1 and sections 4 to 10 of the application form in the marriage register, and
 - (c) enter in the marriage register as the date and place of the marriage the date on, and the place at, which the district registrar signs section 14 of the application form in accordance with sub-paragraph (a).
 
 (4) Paragraph (3)(c) is without prejudice to section 11(2)(b) of the Marriage and Civil Partnership (Scotland) Act 2014 (effect of marriage between civil partners in a qualifying civil partnership).
 
-## 4. Date of change into marriage[^key-72e671d11e56ed0f39773e5aa0cfa9b4]
+## 4. Date of change into marriage[^c-72e671d11e56ed0f39773e5aa0cfa9b4]
 
 The change from a civil partnership into a marriage takes effect when the district registrar signs section 14 of the application form in accordance with regulation 3(3)(a)(ii).
 
-## 5. Fee in respect of making an application[^key-e52a7cdf9904a30e64682072c10fafe3]
+## 5. Fee in respect of making an application[^c-e52a7cdf9904a30e64682072c10fafe3]
 
 The fee payable in respect of making an application under regulation 3(1) is £45.00.
 
-## 6. Applications for which no fee payable[^key-fbb3f8e57da12c34a45ac9f7cc093a7f]
+## 6. Applications for which no fee payable[^c-fbb3f8e57da12c34a45ac9f7cc093a7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Modification of the Marriage (Scotland) Act 1977[^key-5aa041795b3f238b7102001922f8b88c]
+## 7. Modification of the Marriage (Scotland) Act 1977[^c-5aa041795b3f238b7102001922f8b88c]
 
 (1) In their application to civil partnerships changed into marriages in accordance with these Regulations, the following provisions of the Marriage (Scotland) Act 1977[^f00005] have effect subject to the following modifications.
 
@@ -124,7 +124,7 @@ The fee payable in respect of making an application under regulation 3(1) is £4
 
 (3) For section 20A[^f00006] (grounds on which marriage void) there was substituted—
 
-> (1) Where subsection (2) or (3)[^key-1aac5b9fc453c0b9675ab199a845beee] applies in relation to a civil partnership changed into a marriage under section 10 regulations, the marriage will be void.
+> (1) Where subsection (2) or (3)[^c-1aac5b9fc453c0b9675ab199a845beee] applies in relation to a civil partnership changed into a marriage under section 10 regulations, the marriage will be void.
 >
 > (2) This subsection applies if at the time an application form was signed by the parties, a party who was capable of consenting to the marriage purported to give consent but did so by reason only of duress or error.
 >
@@ -193,7 +193,7 @@ The fee payable in respect of making an application under regulation 3(1) is £4
 
   .
 
-## 8. Modification of the Gender Recognition Act 2004[^key-fab6ccc6f906823ce554dad24c876f88]
+## 8. Modification of the Gender Recognition Act 2004[^c-fab6ccc6f906823ce554dad24c876f88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -207,7 +207,7 @@ Edinburgh
 
 15th December 2014
 
-## SCHEDULE — APPLICATION FORM TO CHANGE A CIVIL PARTNERSHIP INTO A MARRIAGE[^key-0e93846042d5cd2ee04bbf2a0c5d94a9]
+## SCHEDULE — APPLICATION FORM TO CHANGE A CIVIL PARTNERSHIP INTO A MARRIAGE[^c-0e93846042d5cd2ee04bbf2a0c5d94a9]
 
 Regulation 3
 
@@ -227,9 +227,9 @@ The Regulations also make appropriate modifications to the Marriage (Scotland) A
 
 [^f00001]: Footnote: [2014 asp 5](https://www.legislation.gov.uk/asp/2014/5).
 
-[^key-97e6fa6c6a6e006d11e8aeccc76c9fb6]: Commencement: Reg. 1 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+[^c-97e6fa6c6a6e006d11e8aeccc76c9fb6]: Commencement: Reg. 1 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
 
-[^key-a278bc8dc9e3e38b224b0091007c96b7]: Commencement: Reg. 2 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+[^c-a278bc8dc9e3e38b224b0091007c96b7]: Commencement: Reg. 2 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
 
 [^f00002]: Footnote: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49).
 
@@ -237,26 +237,26 @@ The Regulations also make appropriate modifications to the Marriage (Scotland) A
 
 [^f00004]: Footnote: Section 5 was substituted by section 37(2) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
 
-[^key-1f2a32d60927eaac12c4b8a517ebc72d]: Commencement: Reg. 3 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+[^c-1f2a32d60927eaac12c4b8a517ebc72d]: Commencement: Reg. 3 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
 
-[^key-96b3ec9725b55d19b01b3010f9839e02]: Textual amendment: Word in [reg. 3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/a/ii) omitted (24.4.2023) by virtue of [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/2/a)
+[^c-96b3ec9725b55d19b01b3010f9839e02]: Textual amendment: Word in [reg. 3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/a/ii) omitted (24.4.2023) by virtue of [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/2/a)
 
-[^key-ce9d646a7560e1c2e3d6df600567eab4]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/b)[(c)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/c)[(4)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/4) substituted for [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/b) (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/2/b)
+[^c-ce9d646a7560e1c2e3d6df600567eab4]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/b)[(c)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/c)[(4)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/4) substituted for [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/b) (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/2/b)
 
-[^key-72e671d11e56ed0f39773e5aa0cfa9b4]: Commencement: Reg. 4 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+[^c-72e671d11e56ed0f39773e5aa0cfa9b4]: Commencement: Reg. 4 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
 
-[^key-e52a7cdf9904a30e64682072c10fafe3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/361/regulation/5) substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/3)
+[^c-e52a7cdf9904a30e64682072c10fafe3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/361/regulation/5) substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/3)
 
-[^key-fbb3f8e57da12c34a45ac9f7cc093a7f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/361/regulation/6) revoked (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/4)
+[^c-fbb3f8e57da12c34a45ac9f7cc093a7f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/361/regulation/6) revoked (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/4)
 
-[^key-5aa041795b3f238b7102001922f8b88c]: Commencement: Reg. 7 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+[^c-5aa041795b3f238b7102001922f8b88c]: Commencement: Reg. 7 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
 
 [^f00005]: Footnote: [1977 c.15](https://www.legislation.gov.uk/ukpga/1977/15).
 
 [^f00006]: Footnote: Section 20A was inserted by section 2 of the Family Law (Scotland) Act [2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2).
 
-[^key-1aac5b9fc453c0b9675ab199a845beee]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2014/361/regulation/7/3) substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/5)
+[^c-1aac5b9fc453c0b9675ab199a845beee]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2014/361/regulation/7/3) substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/5)
 
-[^key-fab6ccc6f906823ce554dad24c876f88]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/361/regulation/8) revoked (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/4)
+[^c-fab6ccc6f906823ce554dad24c876f88]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/361/regulation/8) revoked (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/4)
 
-[^key-0e93846042d5cd2ee04bbf2a0c5d94a9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2014/361/schedule) form substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [reg. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2023/55/schedule)
+[^c-0e93846042d5cd2ee04bbf2a0c5d94a9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2014/361/schedule) form substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [reg. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2023/55/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Meaning of “opt-out notice” and “opt-in notice”[^key-88d96b0ff4cfcd52411ce494b33f5178]
+## 17. Meaning of “opt-out notice” and “opt-in notice”[^c-88d96b0ff4cfcd52411ce494b33f5178]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purpose of these Regulations—
 
 ## Annotations
 
-[^key-88d96b0ff4cfcd52411ce494b33f5178]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/292/regulation/17) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-88d96b0ff4cfcd52411ce494b33f5178]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/292/regulation/17) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

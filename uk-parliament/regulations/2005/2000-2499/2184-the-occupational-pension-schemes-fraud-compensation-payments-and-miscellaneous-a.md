@@ -83,7 +83,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
     - (ii) any benefits payable under the scheme rules; or
     - (iii) any members of the scheme; or
   - (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities;
-- “[^key-eee0012da3c738d9fc41bb6342a94647]PPF valuation” means an actuarial valuation obtained under section 143(2)(b) (valuation of assets and protected liabilities);
+- “[^c-eee0012da3c738d9fc41bb6342a94647]PPF valuation” means an actuarial valuation obtained under section 143(2)(b) (valuation of assets and protected liabilities);
 - “**public body**” means a government department or any non-departmental public body established by an Act of Parliament or by a statutory instrument made under an Act of Parliament to perform functions conferred on it under or by virtue of that Act or instrument or any other Act or instrument;
 - “**registered pension scheme**” has the meaning given in section 150(2) of the 2004 Act (meaning of pension scheme);
 - “**relevant benefits**” has the meaning given in section 612(1) of the 1988 Act [^c1423020] (other interpretative provisions);
@@ -102,7 +102,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
   and non-segregated scheme shall be read accordingly;
 - “**stakeholder pension scheme**” means a stakeholder pension scheme within the meaning of section 1 of the 1999 Act [^c1423024] (meaning of stakeholder pension scheme) which is established under a trust;
-- “transfer notice” is to be construed in accordance with section 160 (transfer notice);[^key-89404dac3adbb070c42b672e6b69d5fd]
+- “transfer notice” is to be construed in accordance with section 160 (transfer notice);[^c-89404dac3adbb070c42b672e6b69d5fd]
 - “transfer payment” means a fraud compensation transfer payment made under section 187(2) (Board’s powers to make fraud compensation transfer payments);
 - “**unsecured part**” means any part of a partially guaranteed scheme—
   - (a) in respect of which no guarantee has been given by a relevant public authority; and
@@ -136,14 +136,14 @@ which has no active members, includes the person who was the employer of persons
   - (iii) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
   - (iv) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due.
 
-## 2. Prescribed schemes[^key-015a2ddcfb04637d9e6d103161362ef2]
+## 2. Prescribed schemes[^c-015a2ddcfb04637d9e6d103161362ef2]
 
 (1) For the purposes of section 182(1)(a) the Board shall not make a fraud compensation payment in respect of a scheme if it is—
 
 - (a) a scheme which has less than two members;
 - (b) a scheme which is made under section 7 of the Superannuation Act 1972 [^c1423026] (superannuation of persons employed in local government service etc.) which provides pensions to persons employed in local government service;
 - (c) a scheme which is made under section 2 of the Parliamentary and Other Pensions Act 1987 [^c1423027] (power to provide for pensions for Members of the House of Commons etc.);
-- (ca)[^key-b3174cae081d7b12b352049a32ad1814] a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
+- (ca)[^c-b3174cae081d7b12b352049a32ad1814] a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
 - (d) a scheme—
   - (i) the only benefits provided by which are death benefits, and
   - (ii) under the provisions of which no member has accrued rights;
@@ -151,19 +151,19 @@ which has no active members, includes the person who was the employer of persons
   - (i) before 6th April 2006 provides relevant benefits but is neither an approved scheme nor a relevant statutory scheme; or
   - (ii) on or after 6th April 2006 is not a registered pension scheme;
 - (f) a scheme with fewer than 12 members where all of the members are trustees of the scheme and either—
-  - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of[^key-fb11d5bead1eb3bd78a1fea7b932efb0] the trustees who are members of the scheme; or
+  - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of[^c-fb11d5bead1eb3bd78a1fea7b932efb0] the trustees who are members of the scheme; or
   - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of section 23 of the 1995 Act [^c1423028] (power to appoint independent trustees) and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
-- (g) a scheme with fewer than 12 members where a company is the sole trustee[^key-8e4c21f4b251bd950aa7dcd60b6012c6] of the scheme, and all of the members of the scheme are directors of the company and either—
-  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors[^key-4cecf1b4eb0d6377f161c26f2a9b4c6d] who are members of the scheme; or
-  - (ii) one of the directors of the company[^key-acffa25ea59dd12bd933d48f6b63996d] is independent in relation to the scheme for the purposes of section 23 of the 1995 Act and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
+- (g) a scheme with fewer than 12 members where a company is the sole trustee[^c-8e4c21f4b251bd950aa7dcd60b6012c6] of the scheme, and all of the members of the scheme are directors of the company and either—
+  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors[^c-4cecf1b4eb0d6377f161c26f2a9b4c6d] who are members of the scheme; or
+  - (ii) one of the directors of the company[^c-acffa25ea59dd12bd933d48f6b63996d] is independent in relation to the scheme for the purposes of section 23 of the 1995 Act and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
 - (h) a scheme with such a superannuation fund as is mentioned in section 615(6) of the 1988 Act [^c1423029] (exemption from tax in respect of certain pensions);
 - (i) a public service pension scheme under the provisions of which there is no requirement for assets related to the intended rate or amount of benefit under the scheme to be set aside in advance (disregarding requirements relating to additional voluntary contributions);
-- (j) a scheme in respect of which any relevant public authority has given a guarantee or made any other arrangements for the purpose of securing that the assets of the scheme are sufficient to meet its liabilities;[^key-0b8238f5bc12bc0430eeac2ea4a43ba0]...
-- (k) the Chatsworth Settlement Estate Pension Scheme;[^key-dac2363e4d65f995527d059850fb1cfc]... or[^key-b3da4a15012438d1c2ceff394a5a2aad]
+- (j) a scheme in respect of which any relevant public authority has given a guarantee or made any other arrangements for the purpose of securing that the assets of the scheme are sufficient to meet its liabilities;[^c-0b8238f5bc12bc0430eeac2ea4a43ba0]...
+- (k) the Chatsworth Settlement Estate Pension Scheme;[^c-dac2363e4d65f995527d059850fb1cfc]... or[^c-b3da4a15012438d1c2ceff394a5a2aad]
 - (ka) a pension scheme established under section 67 of the Pensions Act 2008.
-- (l)[^key-b0f341480272837dc40526875375d8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-b0f341480272837dc40526875375d8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where a section of a segregated scheme or a segregated part is treated as if it were a separate scheme which falls within paragraph 1(a) to[^key-2f929a44fd9ddbdd785ba520c3c20a0b] (ka)[^key-6d09eaa394b885c7849504d32dba9151], it is a scheme for the purpose of section 182(1)(a) to which a fraud compensation payment shall not be made.
+(2) Where a section of a segregated scheme or a segregated part is treated as if it were a separate scheme which falls within paragraph 1(a) to[^c-2f929a44fd9ddbdd785ba520c3c20a0b] (ka)[^c-6d09eaa394b885c7849504d32dba9151], it is a scheme for the purpose of section 182(1)(a) to which a fraud compensation payment shall not be made.
 
 ## 3. Relevant offences
 
@@ -181,7 +181,7 @@ For the purpose of section 182(1)(b) (cases where fraud compensation payments ca
 - (b) a charity which is not a company or other body corporate; or
 - (c) a trade union within the meaning of section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c1423031] (meaning of trade union) in relation to which it is not possible for an insolvency event to occur.
 
-## 5. Applications for fraud compensation payments[^key-58bbad34f3f18ae016d2dc07e6b99bd9]
+## 5. Applications for fraud compensation payments[^c-58bbad34f3f18ae016d2dc07e6b99bd9]
 
 (1) An application, for fraud compensation payments, under section 182(1)(d) (applications) must—
 
@@ -212,9 +212,9 @@ For the purpose of section 182(1)(b) (cases where fraud compensation payments ca
   - (i) the trustees or managers with ultimate responsibility for the section, or the segregated part, or their representative;
   - (ii) a person connected with the administration of, or provision of benefits under the section, or the segregated part, or his representative; or
   - (iii) a member of, or beneficiary under the section or the segregated part or his representative;
-- (b) except where paragraph (6) applies,[^key-2176039ad749189b316942b4a090485b] an unsecured part of a partially guaranteed scheme, for the purposes of paragraph (2)(c), an application may be made only by a member or beneficiary of the unsecured part or his representative.
+- (b) except where paragraph (6) applies,[^c-2176039ad749189b316942b4a090485b] an unsecured part of a partially guaranteed scheme, for the purposes of paragraph (2)(c), an application may be made only by a member or beneficiary of the unsecured part or his representative.
 
-(6)[^key-28fca370bca50d54691ea8e5abd68f05] This paragraph applies to a scheme to which regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies.
+(6)[^c-28fca370bca50d54691ea8e5abd68f05] This paragraph applies to a scheme to which regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies.
 
 ## 6. Confirmation of scheme status
 
@@ -273,9 +273,9 @@ For the purpose of section 182(1)(b) (cases where fraud compensation payments ca
 (5) In the case of—
 
 - (a) a section of a segregated scheme or a segregated part, paragraphs (2) and (3) shall apply to the assets of the section or part to which the application for fraud compensation related;
-- (b) except where paragraph (6) applies,[^key-f18cb594c2ac2b33020194b697cda12d] an unsecured part of a partially guaranteed scheme, paragraphs (2) and (3) shall apply to the assets of the unsecured part to which the application for fraud compensation related.
+- (b) except where paragraph (6) applies,[^c-f18cb594c2ac2b33020194b697cda12d] an unsecured part of a partially guaranteed scheme, paragraphs (2) and (3) shall apply to the assets of the unsecured part to which the application for fraud compensation related.
 
-(6)[^key-4170fb7d2afeef3fdbd3f47adf11628f] This paragraph applies to a scheme to which regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies.
+(6)[^c-4170fb7d2afeef3fdbd3f47adf11628f] This paragraph applies to a scheme to which regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies.
 
 ## 8. Interim payments
 
@@ -287,7 +287,7 @@ For the purpose of section 182(1)(b) (cases where fraud compensation payments ca
   - (ii) pensions, other than guaranteed minimum pensions, payable to persons reaching normal pension age;
   - (iii) pensions payable to beneficiaries;
   - (iv) ill-health retirement pensions;
-  - (v)[^key-762d2dd1b8ee6941f861a959002fb05c] costs, expenses and liabilities that arise as a consequence of the application;
+  - (v)[^c-762d2dd1b8ee6941f861a959002fb05c] costs, expenses and liabilities that arise as a consequence of the application;
 - (c) any liability for payment of any monthly pension that would, but for the loss, have been payable in respect of money purchase benefits prior to the settlement date, and for these purposes the liability is the approximate monthly value of the pension;
 - (d) payment of lump sums in connection with terminal illness, and for these purposes a person shall be regarded as suffering from a terminal illness where his life expectancy is less than one year.
 
@@ -302,7 +302,7 @@ For the purpose of section 182(1)(b) (cases where fraud compensation payments ca
 
 (4) For the purpose of section 186(3) (recovery of interim payments) all or part of an interim payment may not be recovered where such recovery would cause any pensions in payment to be reduced.
 
-## 8A. Amount of fraud compensation transfer payment[^key-81904f70def0176d7290043d8ebd255d]
+## 8A. Amount of fraud compensation transfer payment[^c-81904f70def0176d7290043d8ebd255d]
 
 (1) For the purpose of section 187(8) (determination of amount of fraud compensation transfer payment) and subject to section 187(7) (maximum payments) the amount of any transfer payment shall be calculated in accordance with this regulation.
 
@@ -368,7 +368,7 @@ For the purpose of section 182(1)(b) (cases where fraud compensation payments ca
 
 ## 11. Partially guaranteed schemes
 
-(1) Except where a partially guaranteed scheme is a scheme to which regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies,[^key-2685610f3700152220f14a9862a85cad] the fraud compensation provisions (except sections 182(4) and 183) shall, in relation to partially guaranteed schemes, be read as if they contained the modifications provided for in paragraph (2).
+(1) Except where a partially guaranteed scheme is a scheme to which regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies,[^c-2685610f3700152220f14a9862a85cad] the fraud compensation provisions (except sections 182(4) and 183) shall, in relation to partially guaranteed schemes, be read as if they contained the modifications provided for in paragraph (2).
 
 (2) The following provisions shall be modified in their application to partially guaranteed schemes so that they shall be read as if—
 
@@ -1034,7 +1034,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1423019]: Marginal citation: [S.I. 2005/441](https://www.legislation.gov.uk/uksi/2005/441) as amended by [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993) and [S.I. 2005/2113](https://www.legislation.gov.uk/uksi/2005/2113).
 
-[^key-eee0012da3c738d9fc41bb6342a94647]: Textual amendment: Words in reg. 1(3) substituted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2012/3083/regulation/7), 9(1)(g)(2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-eee0012da3c738d9fc41bb6342a94647]: Textual amendment: Words in reg. 1(3) substituted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2012/3083/regulation/7), 9(1)(g)(2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
 [^c1423020]: Marginal citation: Section 612 will be repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006.
 
@@ -1046,59 +1046,59 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1423024]: Marginal citation: Section 1 was amended by section 285(1) of the Pensions Act 2004.
 
-[^key-89404dac3adbb070c42b672e6b69d5fd]: Textual amendment: Words in reg. 1(3) inserted (6.4.2010) by [Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) (Amendment) Regulations 2010 (S.I. 2010/483)](https://www.legislation.gov.uk/uksi/2010/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/483/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/483/regulation/2)
+[^c-89404dac3adbb070c42b672e6b69d5fd]: Textual amendment: Words in reg. 1(3) inserted (6.4.2010) by [Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) (Amendment) Regulations 2010 (S.I. 2010/483)](https://www.legislation.gov.uk/uksi/2010/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/483/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/483/regulation/2)
 
 [^c1423025]: Marginal citation: Section 75 was amended by section 271 of the Pensions Act 2004.
 
-[^key-015a2ddcfb04637d9e6d103161362ef2]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2184/regulation/2) modified (1.4.2019) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/3), [23(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/ii)
+[^c-015a2ddcfb04637d9e6d103161362ef2]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2184/regulation/2) modified (1.4.2019) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/3), [23(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/ii)
 
 [^c1423026]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
 [^c1423027]: Marginal citation: [1987 c. 45](https://www.legislation.gov.uk/ukpga/1987/45). Section 2 was amended by section 2(1) of the [Ministerial and Other Pensions and Salaries Act 1991 (c. 5)](https://www.legislation.gov.uk/ukpga/1991/5).
 
-[^key-b3174cae081d7b12b352049a32ad1814]: Textual amendment: Reg. 2(1)(ca) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/6)
+[^c-b3174cae081d7b12b352049a32ad1814]: Textual amendment: Reg. 2(1)(ca) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/6)
 
-[^key-fb11d5bead1eb3bd78a1fea7b932efb0]: Textual amendment: Words in reg. 2(1)(f)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(i)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/i)
+[^c-fb11d5bead1eb3bd78a1fea7b932efb0]: Textual amendment: Words in reg. 2(1)(f)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(i)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/i)
 
 [^c1423028]: Marginal citation: Section 23 was substituted by section 36(3) of the Pensions Act 2004.
 
-[^key-8e4c21f4b251bd950aa7dcd60b6012c6]: Textual amendment: Words in reg. 2(1)(g) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/ii), [13(2)(aa)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/aa)
+[^c-8e4c21f4b251bd950aa7dcd60b6012c6]: Textual amendment: Words in reg. 2(1)(g) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/ii), [13(2)(aa)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/aa)
 
-[^key-4cecf1b4eb0d6377f161c26f2a9b4c6d]: Textual amendment: Words in reg. 2(1)(g)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/ii), [13(2)(bb)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/bb)
+[^c-4cecf1b4eb0d6377f161c26f2a9b4c6d]: Textual amendment: Words in reg. 2(1)(g)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/ii), [13(2)(bb)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/bb)
 
-[^key-acffa25ea59dd12bd933d48f6b63996d]: Textual amendment: Words in reg. 2(1)(g)(ii) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/ii), [13(2)(cc)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/cc)
+[^c-acffa25ea59dd12bd933d48f6b63996d]: Textual amendment: Words in reg. 2(1)(g)(ii) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/ii), [13(2)(cc)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/cc)
 
 [^c1423029]: Marginal citation: Section 615(6) has effect in relation to trust based occupational pension schemes established in respect of persons wholly employed in a trade or undertaking outside of the United Kingdom. Section 615(6) was amended by paragraph 11 of Schedule 10 to the Finance Act 1999.
 
-[^key-0b8238f5bc12bc0430eeac2ea4a43ba0]: Textual amendment: Word in reg. 2(1)(j) omitted (5.7.2010) by virtue of [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [art. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2010/9/regulation/2/1/a)
+[^c-0b8238f5bc12bc0430eeac2ea4a43ba0]: Textual amendment: Word in reg. 2(1)(j) omitted (5.7.2010) by virtue of [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [art. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2010/9/regulation/2/1/a)
 
-[^key-dac2363e4d65f995527d059850fb1cfc]: Textual amendment: Word in reg. 2(1)(k) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/iv)
+[^c-dac2363e4d65f995527d059850fb1cfc]: Textual amendment: Word in reg. 2(1)(k) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/iv)
 
-[^key-b3da4a15012438d1c2ceff394a5a2aad]: Textual amendment: Reg. 2(1)(ka) added (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [art. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2010/9/regulation/2/1/b)
+[^c-b3da4a15012438d1c2ceff394a5a2aad]: Textual amendment: Reg. 2(1)(ka) added (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [art. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2010/9/regulation/2/1/b)
 
-[^key-b0f341480272837dc40526875375d8f4]: Textual amendment: Reg. 2(1)(l) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(v)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/v)
+[^c-b0f341480272837dc40526875375d8f4]: Textual amendment: Reg. 2(1)(l) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(a)(v)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/a/v)
 
-[^key-2f929a44fd9ddbdd785ba520c3c20a0b]: Textual amendment: Words in reg. 2(2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/b)
+[^c-2f929a44fd9ddbdd785ba520c3c20a0b]: Textual amendment: Words in reg. 2(2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/13/2/b)
 
-[^key-6d09eaa394b885c7849504d32dba9151]: Textual amendment: Word in reg. 2(2) substituted (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [art. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/9/regulation/2/2)
+[^c-6d09eaa394b885c7849504d32dba9151]: Textual amendment: Word in reg. 2(2) substituted (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [art. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/9/regulation/2/2)
 
 [^c1423031]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-58bbad34f3f18ae016d2dc07e6b99bd9]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2184/regulation/5) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [23(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)[(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/iii)
+[^c-58bbad34f3f18ae016d2dc07e6b99bd9]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2184/regulation/5) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [23(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)[(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/b/iii)
 
-[^key-2176039ad749189b316942b4a090485b]: Textual amendment: Words in reg. 5(5)(b) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/2/a)
+[^c-2176039ad749189b316942b4a090485b]: Textual amendment: Words in reg. 5(5)(b) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/2/a)
 
-[^key-28fca370bca50d54691ea8e5abd68f05]: Textual amendment: Reg. 5(6) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/2/b)
+[^c-28fca370bca50d54691ea8e5abd68f05]: Textual amendment: Reg. 5(6) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/2/b)
 
-[^key-f18cb594c2ac2b33020194b697cda12d]: Textual amendment: Words in reg. 7(5)(b) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/3/a)
+[^c-f18cb594c2ac2b33020194b697cda12d]: Textual amendment: Words in reg. 7(5)(b) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/3/a)
 
-[^key-4170fb7d2afeef3fdbd3f47adf11628f]: Textual amendment: Reg. 7(6) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/3/b)
+[^c-4170fb7d2afeef3fdbd3f47adf11628f]: Textual amendment: Reg. 7(6) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/3/b)
 
-[^key-762d2dd1b8ee6941f861a959002fb05c]: Textual amendment: [Reg. 8(1)(b)(v)](https://www.legislation.gov.uk/uksi/2005/2184/regulation/8/1/b/v) inserted (6.4.2023) by [The Occupational Pension Schemes (Pension Protection Fund (Compensation) and Fraud Compensation Payments) (Amendment) Regulations 2023 (S.I. 2023/265)](https://www.legislation.gov.uk/uksi/2023/265), [regs. 1](https://www.legislation.gov.uk/uksi/2023/265/regulation/1), [4](https://www.legislation.gov.uk/uksi/2023/265/regulation/4)
+[^c-762d2dd1b8ee6941f861a959002fb05c]: Textual amendment: [Reg. 8(1)(b)(v)](https://www.legislation.gov.uk/uksi/2005/2184/regulation/8/1/b/v) inserted (6.4.2023) by [The Occupational Pension Schemes (Pension Protection Fund (Compensation) and Fraud Compensation Payments) (Amendment) Regulations 2023 (S.I. 2023/265)](https://www.legislation.gov.uk/uksi/2023/265), [regs. 1](https://www.legislation.gov.uk/uksi/2023/265/regulation/1), [4](https://www.legislation.gov.uk/uksi/2023/265/regulation/4)
 
-[^key-81904f70def0176d7290043d8ebd255d]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2005/2184/regulation/8A) inserted (6.4.2010) by [Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) (Amendment) Regulations 2010 (S.I. 2010/483)](https://www.legislation.gov.uk/uksi/2010/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/483/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/483/regulation/3)
+[^c-81904f70def0176d7290043d8ebd255d]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2005/2184/regulation/8A) inserted (6.4.2010) by [Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) (Amendment) Regulations 2010 (S.I. 2010/483)](https://www.legislation.gov.uk/uksi/2010/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/483/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/483/regulation/3)
 
-[^key-2685610f3700152220f14a9862a85cad]: Textual amendment: Words in reg. 11(1) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/4)
+[^c-2685610f3700152220f14a9862a85cad]: Textual amendment: Words in reg. 11(1) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2010/196/regulation/6/4)
 
 [^c1423032]: Marginal citation: Section 611(3) was amended by paragraph 9 of Schedule 10 to the Finance Act 1999 and Part 1 of Schedule 13 and Part II(4) of Schedule 40 to the [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17). Section 611(3) will be repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006.
 

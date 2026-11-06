@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Arbitration[^key-543bfeb83a60dd1c97a46a737fcf94f0]
+## 52. Arbitration[^c-543bfeb83a60dd1c97a46a737fcf94f0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to article 50 (procedure regarding certain approvals, etc.) and except w
 
 ## Annotations
 
-[^key-543bfeb83a60dd1c97a46a737fcf94f0]: Commencement: Art. 52 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-543bfeb83a60dd1c97a46a737fcf94f0]: Commencement: Art. 52 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

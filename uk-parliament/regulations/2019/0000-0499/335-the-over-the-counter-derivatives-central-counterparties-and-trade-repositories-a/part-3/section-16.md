@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Public register[^key-16ef5a0d44cb67537add692d559e5606]
+## 16. Public register[^c-16ef5a0d44cb67537add692d559e5606]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) In paragraph 2—
 
-- (a)[^key-a0986962b85072eb5e5f5d7eb4a8ecf1] in point (b) for “Article 17” substitute “Article 14 or 15”;
+- (a)[^c-a0986962b85072eb5e5f5d7eb4a8ecf1] in point (b) for “Article 17” substitute “Article 14 or 15”;
 - (b) in point (d), for “ESMA” substitute “ the Bank of England ”;
 - (c) omit point (f).
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16ef5a0d44cb67537add692d559e5606]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-16ef5a0d44cb67537add692d559e5606]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a0986962b85072eb5e5f5d7eb4a8ecf1]: Textual amendment: Reg. 16(3)(a) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/3)
+[^c-a0986962b85072eb5e5f5d7eb4a8ecf1]: Textual amendment: Reg. 16(3)(a) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/3)

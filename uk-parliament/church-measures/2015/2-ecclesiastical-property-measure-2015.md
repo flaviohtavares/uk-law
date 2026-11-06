@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 \[12th February 2015\]
 
-## 1. Amendment of Parochial Church Councils (Powers) Measure 1956[^key-c5f28d6210c9e63b7aa5c7b6f00fc956]
+## 1. Amendment of Parochial Church Councils (Powers) Measure 1956[^c-c5f28d6210c9e63b7aa5c7b6f00fc956]
 
 (1) Section 6 of the Parochial Church Councils (Powers) Measure 1956 (acquisition and disposal of land etc.) is amended in accordance with subsections (2) to (6).
 
@@ -82,7 +82,7 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 > - (a) this Measure were an Act, and
 > - (b) the order were a statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 2. Amendment of Incumbents and Churchwardens (Trusts) Measure 1964[^key-9bf6ffc4706465b89cab6bd05ceadbff]
+## 2. Amendment of Incumbents and Churchwardens (Trusts) Measure 1964[^c-9bf6ffc4706465b89cab6bd05ceadbff]
 
 (1) The Incumbents and Churchwardens (Trusts) Measure 1964 is amended as follows.
 
@@ -161,6 +161,6 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 ## Annotations
 
-[^key-c5f28d6210c9e63b7aa5c7b6f00fc956]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2015/2/section/1) in force at 1.7.2015 by [S.I. 2015/1468](https://www.legislation.gov.uk/uksi/2015/1468), [art. 2](https://www.legislation.gov.uk/uksi/2015/1468/article/2)
+[^c-c5f28d6210c9e63b7aa5c7b6f00fc956]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2015/2/section/1) in force at 1.7.2015 by [S.I. 2015/1468](https://www.legislation.gov.uk/uksi/2015/1468), [art. 2](https://www.legislation.gov.uk/uksi/2015/1468/article/2)
 
-[^key-9bf6ffc4706465b89cab6bd05ceadbff]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2015/2/section/2) in force at 1.7.2015 by [S.I. 2015/1468](https://www.legislation.gov.uk/uksi/2015/1468), [art. 2](https://www.legislation.gov.uk/uksi/2015/1468/article/2)
+[^c-9bf6ffc4706465b89cab6bd05ceadbff]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2015/2/section/2) in force at 1.7.2015 by [S.I. 2015/1468](https://www.legislation.gov.uk/uksi/2015/1468), [art. 2](https://www.legislation.gov.uk/uksi/2015/1468/article/2)

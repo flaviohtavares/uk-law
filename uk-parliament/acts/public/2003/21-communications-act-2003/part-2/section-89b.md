@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89B. Functional separation conditions: matters to be considered by OFCOM[^key-56c18697117605b3fa3d7024d12f5004][^key-1d9175928b0d14098bd419ddf87d289f]
+## 89B. Functional separation conditions: matters to be considered by OFCOM[^c-56c18697117605b3fa3d7024d12f5004][^c-1d9175928b0d14098bd419ddf87d289f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56c18697117605b3fa3d7024d12f5004]: Textual amendment: [S. 89B](https://www.legislation.gov.uk/ukpga/2003/21/section/89B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56c18697117605b3fa3d7024d12f5004]: Textual amendment: [S. 89B](https://www.legislation.gov.uk/ukpga/2003/21/section/89B) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d9175928b0d14098bd419ddf87d289f]: Textual amendment: Ss. 89A-89C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/50) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-1d9175928b0d14098bd419ddf87d289f]: Textual amendment: Ss. 89A-89C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/50) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

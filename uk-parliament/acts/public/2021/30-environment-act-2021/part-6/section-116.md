@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Use of forest risk commodities in commercial activity[^key-b0e5be9ce8d9083514d02f942b340a25][^key-63f18d3ba1af2a6b5e4ea60afbd07c39]
+## 116. Use of forest risk commodities in commercial activity[^c-b0e5be9ce8d9083514d02f942b340a25][^c-63f18d3ba1af2a6b5e4ea60afbd07c39]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e5be9ce8d9083514d02f942b340a25]: Commencement: S. 116 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-b0e5be9ce8d9083514d02f942b340a25]: Commencement: S. 116 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-63f18d3ba1af2a6b5e4ea60afbd07c39]: Commencement: S. 116 in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/c)
+[^c-63f18d3ba1af2a6b5e4ea60afbd07c39]: Commencement: S. 116 in force at 30.9.2022 for specified purposes by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/c)

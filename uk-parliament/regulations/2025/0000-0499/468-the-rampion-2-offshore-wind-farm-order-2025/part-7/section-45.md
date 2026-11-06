@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Procedure in relation to certain approvals etc.[^key-abac83cad7108cc259e4b75cfe0f8b96]
+## 45. Procedure in relation to certain approvals etc.[^c-abac83cad7108cc259e4b75cfe0f8b96]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 14 (procedure for discharge of certain approvals) has effect in relatio
 
 ## Annotations
 
-[^key-abac83cad7108cc259e4b75cfe0f8b96]: Commencement: Art. 45 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-abac83cad7108cc259e4b75cfe0f8b96]: Commencement: Art. 45 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

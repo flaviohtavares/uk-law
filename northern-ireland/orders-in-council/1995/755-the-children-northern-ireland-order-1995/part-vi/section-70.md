@@ -40,7 +40,7 @@ summary: ''
 
 - (a) Article 68;
 - (b)[^c17270111] Article 54(5) of the Criminal Justice (Children) (Northern Ireland) Order 1998 (escapes from juvenile justice centres);
-- (c)[^c17270131] section 171(2) of the Children’s Hearings (Scotland) Act 2011[^key-faf2e30147450f56245838b6d22d9a6c] (harbouring children who have absconded from residential establishments etc.), so far as it applies in relation to anything done in Northern Ireland;
+- (c)[^c17270131] section 171(2) of the Children’s Hearings (Scotland) Act 2011[^c-faf2e30147450f56245838b6d22d9a6c] (harbouring children who have absconded from residential establishments etc.), so far as it applies in relation to anything done in Northern Ireland;
 - (d) section 32(3) of the Children and Young Persons Act 1969[^c17270161] (compelling, persuading, inciting or assisting any person to be absent from detention, etc.), so far as it applies in relation to anything done in Northern Ireland;
 - (e) Article 4 of the Child Abduction (Northern Ireland) Order 1985[^c17270171] (abduction of children by persons other than parents, etc.).
 
@@ -52,7 +52,7 @@ summary: ''
 
 [^c17270131]: Textual amendment: prosp. inserted by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-faf2e30147450f56245838b6d22d9a6c]: Textual amendment: Words in [art. 70(7)(c)](https://www.legislation.gov.uk/nisi/1995/755/article/70/7/c) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/13); S.S.I. 2013/195, art. 2
+[^c-faf2e30147450f56245838b6d22d9a6c]: Textual amendment: Words in [art. 70(7)(c)](https://www.legislation.gov.uk/nisi/1995/755/article/70/7/c) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/13); S.S.I. 2013/195, art. 2
 
 [^c17270161]: Textual amendment: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Aggravating factor where foreign power condition met: England and Wales[^key-6efb06d783dc5595922a58963d7037ee][^key-c854e60df7c3833bda779eb0dc0f64f3]
+## 19. Aggravating factor where foreign power condition met: England and Wales[^c-6efb06d783dc5595922a58963d7037ee][^c-c854e60df7c3833bda779eb0dc0f64f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6efb06d783dc5595922a58963d7037ee]: Commencement: S. 19 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-6efb06d783dc5595922a58963d7037ee]: Commencement: S. 19 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-c854e60df7c3833bda779eb0dc0f64f3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/32/section/19) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-c854e60df7c3833bda779eb0dc0f64f3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/32/section/19) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

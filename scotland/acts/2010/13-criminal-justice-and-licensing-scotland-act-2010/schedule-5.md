@@ -24,7 +24,7 @@ summary: ''
 
 ### Interpretation
 
-**1.**[^key-a905a48c3f59834510383119cd72de1e] In this schedule—
+**1.**[^c-a905a48c3f59834510383119cd72de1e] In this schedule—
 
 - “**commencement**” means the day on which section 90 comes into force,
 - “**pre-commencement anonymity order**” means an order made by a court before commencement under any rule of law relating to the power of the court to make an order for securing that the identity of a witness in criminal proceedings is withheld from the accused (or, on a defence application, from other accused),
@@ -32,7 +32,7 @@ summary: ''
 
 ### Pre-commencement anonymity orders: appeals
 
-**2.**[^key-78256675ea8014b3d5211e83bc41f55e] (1) This paragraph applies where—
+**2.**[^c-78256675ea8014b3d5211e83bc41f55e] (1) This paragraph applies where—
 
 - (a) the High Court of Justiciary is considering an appeal against a conviction in a case where the trial began before commencement, and
 - (b) the court from which the appeal lies (“the trial court”) made a pre-commencement anonymity order in relation to a witness at the trial.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a905a48c3f59834510383119cd72de1e]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2010/13/schedule/5/paragraph/1) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-a905a48c3f59834510383119cd72de1e]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2010/13/schedule/5/paragraph/1) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-78256675ea8014b3d5211e83bc41f55e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2010/13/schedule/5/paragraph/2) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-78256675ea8014b3d5211e83bc41f55e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2010/13/schedule/5/paragraph/2) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

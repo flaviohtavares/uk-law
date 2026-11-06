@@ -127,7 +127,7 @@ Section 35.
 
 ### Company liquidations
 
-**6.**[^key-fc60ae33821521346ec1167b2d477ea2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fc60ae33821521346ec1167b2d477ea2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Loan relationships
 
@@ -153,6 +153,6 @@ Section 35.
 
 [^c16423491]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-fc60ae33821521346ec1167b2d477ea2]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1998/36/schedule/4/paragraph/6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fc60ae33821521346ec1167b2d477ea2]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1998/36/schedule/4/paragraph/6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c16423531]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/1998/36/schedule/4/paragraph/7) repealed (24.7.2002 with effect as mentioned in Sch. 40 Pt. 3(10) Note 2 of the amending Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/10) Note 2

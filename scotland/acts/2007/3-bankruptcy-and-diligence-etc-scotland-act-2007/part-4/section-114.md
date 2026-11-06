@@ -30,8 +30,8 @@ summary: ''
 
 (3) The auditor is not entitled to charge a fee in respect of the report submitted under subsection (2)(c) above.
 
-(4) The report of sale and the auditor's report must be retained by the sheriff clerk for such period as may be prescribed by Act of Sederunt and during that period must be available for inspection by any interested person on payment of such fee as may be prescribed in an order made under section 107(1) of the Courts Reform (Scotland) Act[^key-2202139fff379cd12428256c775a1896] [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18).
+(4) The report of sale and the auditor's report must be retained by the sheriff clerk for such period as may be prescribed by Act of Sederunt and during that period must be available for inspection by any interested person on payment of such fee as may be prescribed in an order made under section 107(1) of the Courts Reform (Scotland) Act[^c-2202139fff379cd12428256c775a1896] [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18).
 
 ## Annotations
 
-[^key-2202139fff379cd12428256c775a1896]: Textual amendment: Words in [s. 114(4)](https://www.legislation.gov.uk/asp/2007/3/section/114/4) substituted (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 9](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/9)
+[^c-2202139fff379cd12428256c775a1896]: Textual amendment: Words in [s. 114(4)](https://www.legislation.gov.uk/asp/2007/3/section/114/4) substituted (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 9](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/9)

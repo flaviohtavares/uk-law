@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Rights apart from Part 4[^key-5bc67b61572aae0d4c436a7c5c556430]
+## 127. Rights apart from Part 4[^c-5bc67b61572aae0d4c436a7c5c556430]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bc67b61572aae0d4c436a7c5c556430]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2013/32/section/127) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-5bc67b61572aae0d4c436a7c5c556430]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2013/32/section/127) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

@@ -40,8 +40,8 @@ summary: ''
 
 (9) In any other case, a notice of intended entry under this section may not be served after the end of the period of five years beginning with the day on which the authorising instrument becomes operative.
 
-(10)[^key-bbfac7a2d2333b3558d4e53ba7b52615] For the purposes of subsection (1), a person entitled to the benefit of an obligation under a conservation covenant is to be treated as having an interest in the land to which the obligation relates.
+(10)[^c-bbfac7a2d2333b3558d4e53ba7b52615] For the purposes of subsection (1), a person entitled to the benefit of an obligation under a conservation covenant is to be treated as having an interest in the land to which the obligation relates.
 
 ## Annotations
 
-[^key-bbfac7a2d2333b3558d4e53ba7b52615]: Textual amendment: [S. 20(10)](https://www.legislation.gov.uk/ukpga/2017/20/section/20/10) inserted (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/20/paragraph/9) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/d)
+[^c-bbfac7a2d2333b3558d4e53ba7b52615]: Textual amendment: [S. 20(10)](https://www.legislation.gov.uk/ukpga/2017/20/section/20/10) inserted (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/20/paragraph/9) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/d)

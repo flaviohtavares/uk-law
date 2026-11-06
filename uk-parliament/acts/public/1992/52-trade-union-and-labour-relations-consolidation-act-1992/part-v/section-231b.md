@@ -23,7 +23,7 @@ summary: ''
 (1) The scrutineer’s report on the ballot shall state whether the scrutineer is satisfied—
 
 - (a) that there are no reasonable grounds for believing that there was any contravention of a requirement imposed by or under any enactment in relation to the ballot,
-- (b) that the arrangements made with respect to the following matters, so far as relevant, included all such security arrangements as were reasonably practicable for the purpose of minimising the risk that any unfairness or malpractice might occur—[^key-90b5ea28f9585508fa8deff91f4e708c]
+- (b) that the arrangements made with respect to the following matters, so far as relevant, included all such security arrangements as were reasonably practicable for the purpose of minimising the risk that any unfairness or malpractice might occur—[^c-90b5ea28f9585508fa8deff91f4e708c]
   - (i) the production, storage, distribution, return or other handling of the voting papers used in the ballot;
   - (ii) the production, distribution and storage of voting access methods and the maintenance of the electronic voting system;
   - (iii) the counting of the votes,
@@ -31,7 +31,7 @@ summary: ''
 
 and if he is not satisfied as to any of those matters, the report shall give particulars of his reason for not being satisfied as to that matter.
 
-(1A)[^key-d562e301dea7aa6e91aa50f3d44d04fb] The scrutineer’s report must also include, so far as relevant—
+(1A)[^c-d562e301dea7aa6e91aa50f3d44d04fb] The scrutineer’s report must also include, so far as relevant—
 
 - (a) the means of voting by which votes have been cast in the ballot,
 - (b) the number of individuals who were entitled to vote in the ballot,
@@ -57,6 +57,6 @@ requests a copy of the scrutineer’s report, the trade union must, as soon as p
 
 [^c14520641]: Textual amendment: S. 231B inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1993/19/section/20/3); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-90b5ea28f9585508fa8deff91f4e708c]: Textual amendment: Words in s. 231B(1)(b) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(13)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/7/13/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-90b5ea28f9585508fa8deff91f4e708c]: Textual amendment: Words in s. 231B(1)(b) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(13)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/7/13/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-d562e301dea7aa6e91aa50f3d44d04fb]: Textual amendment: S. 231B(1A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(13)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/7/13/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-d562e301dea7aa6e91aa50f3d44d04fb]: Textual amendment: S. 231B(1A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(13)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/7/13/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

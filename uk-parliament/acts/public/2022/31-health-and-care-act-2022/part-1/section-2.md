@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Power to require commissioning of specialised services[^key-99b21881cb3e92ea5fa6742f03f21310][^key-0631f122b7977195a50aa50948171c94]
+## 2. Power to require commissioning of specialised services[^c-99b21881cb3e92ea5fa6742f03f21310][^c-0631f122b7977195a50aa50948171c94]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99b21881cb3e92ea5fa6742f03f21310]: Commencement: S. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-99b21881cb3e92ea5fa6742f03f21310]: Commencement: S. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0631f122b7977195a50aa50948171c94]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/31/section/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0631f122b7977195a50aa50948171c94]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/31/section/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

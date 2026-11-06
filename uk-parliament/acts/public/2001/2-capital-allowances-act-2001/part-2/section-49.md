@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Whether company is a member of a large or medium-sized group[^key-0813861303ca9aeb211dc65a88c0219b]
+## 49. Whether company is a member of a large or medium-sized group[^c-0813861303ca9aeb211dc65a88c0219b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0813861303ca9aeb211dc65a88c0219b]: Textual amendment: Ss. 47-49 omitted (with effect in accordance with s. 75(5)-(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/3/c)
+[^c-0813861303ca9aeb211dc65a88c0219b]: Textual amendment: Ss. 47-49 omitted (with effect in accordance with s. 75(5)-(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/3/c)

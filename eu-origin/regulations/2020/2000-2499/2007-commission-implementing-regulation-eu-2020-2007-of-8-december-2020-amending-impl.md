@@ -33,22 +33,22 @@ of 8 December 2020
 
 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances 1-decanol, 1,4-dimethylnaphthalene, 6-benzyladenine, acequinocyl, *Adoxophyes orana granulovirus*, aluminium sulfate, amisulbrom, *Aureobasidium pullulans* (strains DSM 14940 and DSM 14941), azadirachtin, *Bacillus pumilus* QST 2808, benalaxyl-M, bixafen, bupirimate, *Candida oleophila* strain O, chlorantraniliprole, disodium phosphonate, dithianon, dodine, emamectin, flubendiamide, fluometuron, fluxapyroxad, flutriafol, hexythiazox, imazamox, ipconazole, isoxaben, L-ascorbic acid, lime sulphur, orange oil, *Paecilomyces fumosoroseus* strain FE 9901, pendimethalin, penflufen, penthiopyrad, potassium phosphonates, prosulfuron, *Pseudomonas sp*. strain DSMZ 13134, pyridalyl, pyriofenone, pyroxsulam, quinmerac, S-abscisic acid, sedaxane, sintofen, sodium silver thiosulfate, spinetoram, spirotetramat, *Streptomyces lydicus* strain WYEC 108, tau-fluvalinate, tebufenozide, tembotrione, thiencarbazone, valifenalate, zinc phosphide (revoked)
 
-[^key-6572ec1da4b1daa2db64c587a058690f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6572ec1da4b1daa2db64c587a058690f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6572ec1da4b1daa2db64c587a058690f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6572ec1da4b1daa2db64c587a058690f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6572ec1da4b1daa2db64c587a058690f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6572ec1da4b1daa2db64c587a058690f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6572ec1da4b1daa2db64c587a058690f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6572ec1da4b1daa2db64c587a058690f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-6572ec1da4b1daa2db64c587a058690f]
+## ANNEX[^c-6572ec1da4b1daa2db64c587a058690f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6572ec1da4b1daa2db64c587a058690f]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-6572ec1da4b1daa2db64c587a058690f]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

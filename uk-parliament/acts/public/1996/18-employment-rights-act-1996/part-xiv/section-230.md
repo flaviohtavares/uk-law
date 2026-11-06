@@ -40,9 +40,9 @@ and any reference to a worker’s contract shall be construed accordingly.
 
 and “**employed**” shall be construed accordingly.
 
-(6)[^c16337321] This section has effect subject to sections 43K , 47B(3) and 49B(10)[^key-208eb65d8ba46c6d7a4d50236b069597]; and for the purposes of Part XIII so far as relating to Part IVA or section 47B, “ **worker** ”, “ **worker’s contract** ” and, in relation to a worker, “ **employer** ”, “ **employment** ” and “ **employed** ” have the extended meaning given by section 43K.
+(6)[^c16337321] This section has effect subject to sections 43K , 47B(3) and 49B(10)[^c-208eb65d8ba46c6d7a4d50236b069597]; and for the purposes of Part XIII so far as relating to Part IVA or section 47B, “ **worker** ”, “ **worker’s contract** ” and, in relation to a worker, “ **employer** ”, “ **employment** ” and “ **employed** ” have the extended meaning given by section 43K.
 
-(7)[^key-98e02cc228086478a95cc56232d33259] This section has effect subject to section 75K(3) and (5).
+(7)[^c-98e02cc228086478a95cc56232d33259] This section has effect subject to section 75K(3) and (5).
 
 ## Annotations
 
@@ -50,6 +50,6 @@ and “**employed**” shall be construed accordingly.
 
 [^c16337321]: Textual amendment: S. 230(6) inserted (2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 15(1)](https://www.legislation.gov.uk/ukpga/1998/23/section/15/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
-[^key-208eb65d8ba46c6d7a4d50236b069597]: Textual amendment: Words in s. 230(6) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 149(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/149/3), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/e)
+[^c-208eb65d8ba46c6d7a4d50236b069597]: Textual amendment: Words in s. 230(6) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 149(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/149/3), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/e)
 
-[^key-98e02cc228086478a95cc56232d33259]: Textual amendment: S. 230(7) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/41); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(2)(j)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/2/j)
+[^c-98e02cc228086478a95cc56232d33259]: Textual amendment: S. 230(7) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/41); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(2)(j)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/2/j)

@@ -59,7 +59,7 @@ In these Regulations—
 
 ## 3. Offences
 
-(1)[^key-6beacb90b758f2530e0e50222c8b7c40] An operating air carrier is guilty of an offence if, in the United Kingdom or elsewhere, it fails to comply with an obligation imposed on it by Article 4, 5, 6, 10, 11 or 14 [^key-9d1e250ea6edbc938f092aa3e31a2eff]...
+(1)[^c-6beacb90b758f2530e0e50222c8b7c40] An operating air carrier is guilty of an offence if, in the United Kingdom or elsewhere, it fails to comply with an obligation imposed on it by Article 4, 5, 6, 10, 11 or 14 [^c-9d1e250ea6edbc938f092aa3e31a2eff]...
 
 (2) A person guilty of an offence under this regulation shall be liable on summary conviction, to a fine not exceeding level 5 on the standard scale.
 
@@ -76,7 +76,7 @@ In these Regulations—
 
 (1) The Civil Aviation Authority shall be the designated body for the purposes of Article 16(1).
 
-(2)[^key-d67460e76853d535f22e415173f8da0c] The Civil Aviation Authority and, subject to paragraph (4), the bodies listed in paragraph (3) shall be designated bodies for the purposes of Article 16(2).
+(2)[^c-d67460e76853d535f22e415173f8da0c] The Civil Aviation Authority and, subject to paragraph (4), the bodies listed in paragraph (3) shall be designated bodies for the purposes of Article 16(2).
 
 (3) The bodies referred to in paragraph (2) are—
 
@@ -85,7 +85,7 @@ In these Regulations—
 
 (4) The designation by paragraph (2) of a body listed in paragraph (3) only applies in so far as any contract entered into by that body with an operating air carrier provides for that body to deal with complaints made in accordance with Article 16(2) in relation to that carrier.
 
-## 6. Review[^key-da6b2b21108e79b8acf3f11fd2391e2e]
+## 6. Review[^c-da6b2b21108e79b8acf3f11fd2391e2e]
 
 (1) The Secretary of State must from time to time—
 
@@ -133,10 +133,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c12130851]: Marginal citation: OJ No. L46 of 17th February 2004, p.1. By virtue of Article 18 of the Council Regulation, Council Regulation (EEC) No. 295/91 of 4th February 1991 establishing common rules for a denied boarding compensation system in scheduled air transport, is repealed OJ L36, 8.2.1991, p.5.
 
-[^key-6beacb90b758f2530e0e50222c8b7c40]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/975/regulation/3/1) substituted (9.3.2019) by [The Air Passenger Rights and Air Travel Organisers Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/5/2)
+[^c-6beacb90b758f2530e0e50222c8b7c40]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/975/regulation/3/1) substituted (9.3.2019) by [The Air Passenger Rights and Air Travel Organisers Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/5/2)
 
-[^key-9d1e250ea6edbc938f092aa3e31a2eff]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/975/regulation/3/1) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d1e250ea6edbc938f092aa3e31a2eff]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/975/regulation/3/1) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d67460e76853d535f22e415173f8da0c]: Textual amendment: [Reg. 5(2)-(4)](https://www.legislation.gov.uk/uksi/2005/975/regulation/5/2) substituted for [reg. 5(2)](https://www.legislation.gov.uk/uksi/2005/975/regulation/5/2) (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/729/regulation/2/2)
+[^c-d67460e76853d535f22e415173f8da0c]: Textual amendment: [Reg. 5(2)-(4)](https://www.legislation.gov.uk/uksi/2005/975/regulation/5/2) substituted for [reg. 5(2)](https://www.legislation.gov.uk/uksi/2005/975/regulation/5/2) (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/729/regulation/2/2)
 
-[^key-da6b2b21108e79b8acf3f11fd2391e2e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/975/regulation/6) added (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/729/regulation/2/3)
+[^c-da6b2b21108e79b8acf3f11fd2391e2e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/975/regulation/6) added (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/729/regulation/2/3)

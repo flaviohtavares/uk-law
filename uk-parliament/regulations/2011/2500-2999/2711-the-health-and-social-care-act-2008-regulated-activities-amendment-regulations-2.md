@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2011 (revoked)[^key-6d7cd196cfece306d63cfe1f19eda5c8]
+The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2011 (revoked)[^c-6d7cd196cfece306d63cfe1f19eda5c8]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 30th November 2011
 
-[^key-6d7cd196cfece306d63cfe1f19eda5c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7cd196cfece306d63cfe1f19eda5c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6d7cd196cfece306d63cfe1f19eda5c8]
+## 1. Citation and commencement[^c-6d7cd196cfece306d63cfe1f19eda5c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^key-6d7cd196cfece306d63cfe1f19eda5c8]
+## 2. Amendment to the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010[^c-6d7cd196cfece306d63cfe1f19eda5c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d7cd196cfece306d63cfe1f19eda5c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7cd196cfece306d63cfe1f19eda5c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d7cd196cfece306d63cfe1f19eda5c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7cd196cfece306d63cfe1f19eda5c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d7cd196cfece306d63cfe1f19eda5c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2711) revoked (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [25(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/25/b)
+[^c-6d7cd196cfece306d63cfe1f19eda5c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2711) revoked (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [25(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/25/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Urgent directions[^key-088e4f50d432fa02326a6fa073ba4063][^key-fd108bfe837451549cb3592c07cb3e35]
+## 79. Urgent directions[^c-088e4f50d432fa02326a6fa073ba4063][^c-fd108bfe837451549cb3592c07cb3e35]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-088e4f50d432fa02326a6fa073ba4063]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-088e4f50d432fa02326a6fa073ba4063]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-fd108bfe837451549cb3592c07cb3e35]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/21/section/79) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iv)
+[^c-fd108bfe837451549cb3592c07cb3e35]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/21/section/79) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iv)

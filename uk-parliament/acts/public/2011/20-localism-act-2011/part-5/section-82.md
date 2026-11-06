@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Timing of expressions of interest[^key-630202053dc29bf8990aa1decb960c3f][^key-e188daa4a883149d7448a4907ed50968]
+## 82. Timing of expressions of interest[^c-630202053dc29bf8990aa1decb960c3f][^c-e188daa4a883149d7448a4907ed50968]
 
 *Extent: E+W*
 
@@ -26,12 +26,12 @@ summary: ''
 
 (3) The relevant authority must publish details of each specification under subsection (2) in such manner as it thinks fit (which must include publication on the authority's website).
 
-(4)[^key-c14a2444bf8ef188d17fb500fd887e69] The relevant authority may refuse to consider an expression of interest submitted outside a period specified under subsection (2).
+(4)[^c-c14a2444bf8ef188d17fb500fd887e69] The relevant authority may refuse to consider an expression of interest submitted outside a period specified under subsection (2).
 
 ## Annotations
 
-[^key-630202053dc29bf8990aa1decb960c3f]: Commencement: S. 82 in force at 27.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 4](https://www.legislation.gov.uk/uksi/2012/1463/article/4)
+[^c-630202053dc29bf8990aa1decb960c3f]: Commencement: S. 82 in force at 27.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 4](https://www.legislation.gov.uk/uksi/2012/1463/article/4)
 
-[^key-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))
+[^c-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))
 
-[^key-c14a2444bf8ef188d17fb500fd887e69]: Modification: S. 82(4) modified by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4))
+[^c-c14a2444bf8ef188d17fb500fd887e69]: Modification: S. 82(4) modified by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4))

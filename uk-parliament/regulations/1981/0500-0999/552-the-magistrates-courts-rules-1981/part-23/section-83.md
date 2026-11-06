@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Application to vary order for sureties or dispense with them[^key-09718b683b595604e387e2350758d14e]
+## 83. Application to vary order for sureties or dispense with them[^c-09718b683b595604e387e2350758d14e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a person has been committed to custody in default of finding sureties and 
 
 ## Annotations
 
-[^key-09718b683b595604e387e2350758d14e]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/1981/552/rule/83) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)
+[^c-09718b683b595604e387e2350758d14e]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/1981/552/rule/83) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)

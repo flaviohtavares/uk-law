@@ -44,11 +44,11 @@ The Department for Infrastructure[^f00001], makes the following Regulations in e
 
 In accordance with section 16(3) of that Act the Department has taken into consideration recommendations made by the General Consumer Council for Northern Ireland.
 
-## 1. Citation and commencement[^key-fc9cfcb58ac414a7f56ddfd770b0aea7]
+## 1. Citation and commencement[^c-fc9cfcb58ac414a7f56ddfd770b0aea7]
 
 These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 5th December 2023.
 
-## 2. Amendment of the Taxis (Taximeters, Devices and Maximum Fares) Regulations[^key-bfea4ace7a861901a9ff52493798ee1a]
+## 2. Amendment of the Taxis (Taximeters, Devices and Maximum Fares) Regulations[^c-bfea4ace7a861901a9ff52493798ee1a]
 
 (1) The Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015[^f00004] are amended as follows.
 
@@ -74,7 +74,7 @@ Chris Hughes
 
 A senior officer of the Department for Infrastructure
 
-## SCHEDULE[^key-6af887fde47d567347f02d8187db1a1c]
+## SCHEDULE[^c-6af887fde47d567347f02d8187db1a1c]
 
 Regulation 2(4)
 
@@ -119,10 +119,10 @@ An Explanatory Memorandum has been produced and is available from Safe and Acces
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-fc9cfcb58ac414a7f56ddfd770b0aea7]: Commencement: Reg. 1 in operation at 5.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1)
+[^c-fc9cfcb58ac414a7f56ddfd770b0aea7]: Commencement: Reg. 1 in operation at 5.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1)
 
-[^key-bfea4ace7a861901a9ff52493798ee1a]: Commencement: Reg. 2 in operation at 5.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1)
+[^c-bfea4ace7a861901a9ff52493798ee1a]: Commencement: Reg. 2 in operation at 5.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 394](https://www.legislation.gov.uk/nisr/2015/394); relevant amending Regulations are [S.R. 2016 No. 148](https://www.legislation.gov.uk/nisr/2016/148), [S.R. 2017 No. 225](https://www.legislation.gov.uk/nisr/2017/225), [S.R. 2021 No. 305](https://www.legislation.gov.uk/nisr/2021/305) and [S.R. 2023 No. 127](https://www.legislation.gov.uk/nisr/2023/127)
 
-[^key-6af887fde47d567347f02d8187db1a1c]: Commencement: Sch. in operation at 5.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1)
+[^c-6af887fde47d567347f02d8187db1a1c]: Commencement: Sch. in operation at 5.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1)

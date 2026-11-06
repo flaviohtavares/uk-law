@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 
 \[27th February 1997\]
 
-[^c2613051]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-5f75213b11eb03711390033eb1e91ba1]
+[^c2613051]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-5f75213b11eb03711390033eb1e91ba1]
 
 ## Administration
 
@@ -97,7 +97,7 @@ may make such transitional provision as appears to the Secretary of State to be 
 (1) Hazardous substances consent—
 
 - (a) may be granted on an application under this Act, or
-- (b) may be deemed to have been granted by virtue of section 9 ,[^c2613131] 10, 10A or 30D[^key-d332af2a6209543cfc09caf3cb60d70a] .
+- (b) may be deemed to have been granted by virtue of section 9 ,[^c2613131] 10, 10A or 30D[^c-d332af2a6209543cfc09caf3cb60d70a] .
 
 (2) Without prejudice to the provisions of this Act, any hazardous substances consent shall (except in so far as it otherwise provides) enure for the benefit of the land to which it relates and of all persons for the time being interested in the land.
 
@@ -122,7 +122,7 @@ may make such transitional provision as appears to the Secretary of State to be 
 - (d) require the planning authority to determine applications for hazardous substances consent within such time as may be prescribed;
 - (e) require the planning authority to give prescribed persons or bodies prescribed information about applications for hazardous substances consent including information as to the manner in which such applications have been dealt with.
 
-(3) In subsection (2) “**appropriate consultations**” means consultations with the safety regulator[^key-f30dd9f09ebdb1d301c8312d9061a3b5] and with such persons or bodies as may be prescribed.
+(3) In subsection (2) “**appropriate consultations**” means consultations with the safety regulator[^c-f30dd9f09ebdb1d301c8312d9061a3b5] and with such persons or bodies as may be prescribed.
 
 (4) Regulations under this section may make different provision for different cases or descriptions of cases.
 
@@ -143,7 +143,7 @@ may make such transitional provision as appears to the Secretary of State to be 
 
 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 7. Determination of applications for hazardous substances consent.[^key-a563c8b039465764942e0467e366946b]
+### 7. Determination of applications for hazardous substances consent.[^c-a563c8b039465764942e0467e366946b]
 
 (1) Subject to the following provisions of this Act, where an application is made to a planning authority for hazardous substances consent, that authority may—
 
@@ -154,9 +154,9 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 - (a) to any current or contemplated use of the land to which the application relates,
 - (b) to the way in which land in the vicinity is being used or is likely to be used,
-- (c) to any planning permission or development consent[^key-14833fe66c65fe679702cf6852c76b27] that has been granted for development of land in the vicinity,
+- (c) to any planning permission or development consent[^c-14833fe66c65fe679702cf6852c76b27] that has been granted for development of land in the vicinity,
 - (d) to the provisions of the development plan, and
-- (e) to any advice which the safety regulator has[^key-3ba3f46b05aaba0184113f3f5c991a03] given following consultations in pursuance of regulations under section 5(2).
+- (e) to any advice which the safety regulator has[^c-3ba3f46b05aaba0184113f3f5c991a03] given following consultations in pursuance of regulations under section 5(2).
 
 (3) If an application relates to more than one hazardous substance, the authority may make different determinations in relation to each.
 
@@ -168,7 +168,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 ### 8. Power to impose conditions on grant of hazardous substances consent.
 
-(1) Without prejudice to the generality of section 7(1), a planning authority may grant hazardous substances consent conditional on the commencement or partial or complete execution of development on the land which is authorised by a specified planning permission or development consent[^key-4a7f6ff37b8618d38a02da4bde6f8560] or may grant such consent subject to conditions with respect to any of the following—
+(1) Without prejudice to the generality of section 7(1), a planning authority may grant hazardous substances consent conditional on the commencement or partial or complete execution of development on the land which is authorised by a specified planning permission or development consent[^c-4a7f6ff37b8618d38a02da4bde6f8560] or may grant such consent subject to conditions with respect to any of the following—
 
 - (a) how and where any hazardous substance to which the consent relates is to be kept or used,
 - (b) times between which any such substance may be present, and
@@ -176,7 +176,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
   - (i) on or before a date specified in the consent, or
   - (ii) before the end of a period specified in it and commencing on the date on which it is granted.
 
-(2) A planning authority may only grant consent subject to conditions as to how a hazardous substance is to be kept or used if the conditions are conditions to which the safety regulator has[^key-580901abd5f7c822e30608d55fa34597] advised the authority that any consent they might grant should be subject.
+(2) A planning authority may only grant consent subject to conditions as to how a hazardous substance is to be kept or used if the conditions are conditions to which the safety regulator has[^c-580901abd5f7c822e30608d55fa34597] advised the authority that any consent they might grant should be subject.
 
 (3) It shall be the duty of a planning authority, when granting hazardous substances consent, to include in that consent, in respect of each hazardous substance to which it relates, a statement of all conditions relating to that substance subject to which the consent is granted.
 
@@ -216,11 +216,11 @@ the department may, on granting that authorisation, also direct that hazardous s
 
 (2) On granting a consent under section 36 of the [^c2613161]Electricity Act 1989 in respect of any operation or change of use that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the Secretary of State may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the directions.
 
-(2A)[^key-39f701abcd1ee2f977e7fcfcdc9d7f8d] On making an order under section 1 of the Transport and Works (Scotland) Act 2007 which includes any provision that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the Scottish Ministers may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the directions.
+(2A)[^c-39f701abcd1ee2f977e7fcfcdc9d7f8d] On making an order under section 1 of the Transport and Works (Scotland) Act 2007 which includes any provision that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the Scottish Ministers may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the directions.
 
-(2B)[^key-db1d3e9fd703e44e04e63cf0d07a8dc3] On making an order granting development consent in respect of development that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the person making the order may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
+(2B)[^c-db1d3e9fd703e44e04e63cf0d07a8dc3] On making an order granting development consent in respect of development that would involve the presence of a hazardous substance in circumstances requiring hazardous substances consent, the person making the order may direct that hazardous substances consent shall be deemed to be granted, subject to such conditions (if any) as may be specified in the direction.
 
-(3)[^key-df5c58c1481532c1c11641aab20e267d] Before giving a direction under any of subsections (1) to (2B), the person having power to give the direction must consult the Health and Safety Commission.
+(3)[^c-df5c58c1481532c1c11641aab20e267d] Before giving a direction under any of subsections (1) to (2B), the person having power to give the direction must consult the Health and Safety Commission.
 
 (4) For the purposes of this section development shall be taken to be authorised by a government department if—
 
@@ -234,7 +234,7 @@ and references in this section to the authorisation of a government department s
 
 (5) The provisions of this Act (except section 20) shall apply in relation to any hazardous substances consent deemed to be granted by virtue of directions under this section as if it had been granted by the Secretary of State on an application referred to him under section 18.
 
-(6) A person[^key-f71eef4a5204a60744fadf430b79f001] shall, as respects any hazardous substances consent deemed to be granted by virtue of directions given by the person[^key-830e565b457f3013390d9fde99771eae] under this section, send to the planning authority concerned any such information as appears to be required by them for the purposes of a register under section 27.
+(6) A person[^c-f71eef4a5204a60744fadf430b79f001] shall, as respects any hazardous substances consent deemed to be granted by virtue of directions given by the person[^c-830e565b457f3013390d9fde99771eae] under this section, send to the planning authority concerned any such information as appears to be required by them for the purposes of a register under section 27.
 
 ### 10A. Deemed hazardous substances consent: established presence[^c2613111]
 
@@ -317,7 +317,7 @@ the planning authority shall have regard to any consent to which the application
 (2) The planning authority may also by order revoke a hazardous substances consent if it appears to them—
 
 - (a) that there has been a material change of use of land to which a hazardous substances consent relates,
-- (b) that planning permission or development consent[^key-14b263fb3c089fac0c37468a4d32ee1a] has been granted for development the carrying out of which would involve a material change of use of such land and the development to which the permission or development consent[^key-fef4078dd08121c018f74284f6a4c0f2] relates has been commenced,
+- (b) that planning permission or development consent[^c-14b263fb3c089fac0c37468a4d32ee1a] has been granted for development the carrying out of which would involve a material change of use of such land and the development to which the permission or development consent[^c-fef4078dd08121c018f74284f6a4c0f2] relates has been commenced,
 - (c) in the case of a hazardous substances consent which relates only to one substance, that that substance has not for at least 5 years been present on, over or under the land to which the consent relates in a quantity equal to or exceeding the controlled quantity, or
 - (d) in the case of a hazardous substances consent which relates to a number of substances, that none of those substances has for at least 5 years been so present.
 
@@ -361,11 +361,11 @@ the authority shall pay to that person compensation in respect of that damage.
 
 ### 15. Revocation of hazardous substances consent on change of control of land.
 
-(1)[^key-2b8b08a0db42bb2745b564f65aa1e849] A hazardous substances consent is revoked if there is a change in the person in control of part of the land to which it relates unless an application for the continuation of the consent has previously been made to the planning authority.
+(1)[^c-2b8b08a0db42bb2745b564f65aa1e849] A hazardous substances consent is revoked if there is a change in the person in control of part of the land to which it relates unless an application for the continuation of the consent has previously been made to the planning authority.
 
 (2) Regulations may make provision in relation to applications under subsection (1) corresponding to any provision that may be made by regulations under section 5 or 6 in relation to applications for hazardous substances consent.
 
-(3)[^key-9d2d543a60afc9396f54c6dbade3c05d] This section does not apply if the control of the land changes from one emanation of the Crown to another.
+(3)[^c-9d2d543a60afc9396f54c6dbade3c05d] This section does not apply if the control of the land changes from one emanation of the Crown to another.
 
 ### 16. Determination of applications for continuation of hazardous substances consent.
 
@@ -377,7 +377,7 @@ the authority shall pay to that person compensation in respect of that damage.
 (2) In dealing with such an application the authority shall have regard to any material consideration and, in particular, but without prejudice to the generality of the foregoing—
 
 - (a) to the matters to which a planning authority are required to have regard by section 7(2)(a) to (d), and
-- (b) to any advice which the safety regulator has[^key-9a5de224e4e868ebeae1db13b4eb8c91] given following consultations in pursuance of regulations under section 15(2).
+- (b) to any advice which the safety regulator has[^c-9a5de224e4e868ebeae1db13b4eb8c91] given following consultations in pursuance of regulations under section 15(2).
 
 (3) If an application relates to more than one consent, the authority may make different determinations in relation to each.
 
@@ -403,16 +403,16 @@ Where on an application under section 15(1) the planning authority modify or rev
 
 ## Secretary of State’s powers
 
-### 18. Reference of applications to Secretary of State.[^key-4d6ba16be55738b73a0a375066c23b44][^key-5d09c018bf3611979fcc168829f34796]
+### 18. Reference of applications to Secretary of State.[^c-4d6ba16be55738b73a0a375066c23b44][^c-5d09c018bf3611979fcc168829f34796]
 
-(1)[^key-ff070120dfbbeb566131895263fe38d4] The Secretary of State may give directions requiring applications for hazardous substances consent or applications under section 15(1) to be referred to him instead of being dealt with by planning authorities.
+(1)[^c-ff070120dfbbeb566131895263fe38d4] The Secretary of State may give directions requiring applications for hazardous substances consent or applications under section 15(1) to be referred to him instead of being dealt with by planning authorities.
 
-(2)[^key-ff070120dfbbeb566131895263fe38d4] A direction under this section—
+(2)[^c-ff070120dfbbeb566131895263fe38d4] A direction under this section—
 
 - (a) may be given either to a particular planning authority or to planning authorities generally, and
 - (b) may relate either to a particular application or to applications of a class specified in the direction.
 
-(3)[^key-ff070120dfbbeb566131895263fe38d4] Any application in respect of which a direction under this section has effect shall be referred to the Secretary of State.
+(3)[^c-ff070120dfbbeb566131895263fe38d4] Any application in respect of which a direction under this section has effect shall be referred to the Secretary of State.
 
 (4) Before determining an application referred to him under this section, the Secretary of State shall, if either the applicant or the planning authority so wish, give to each of them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
 
@@ -458,7 +458,7 @@ and may deal with the application as if it had been made to him in the first ins
 
 (10) The Schedule to this Act (which makes provision regarding the determination of certain appeals by a person appointed by the Secretary of State) applies to appeals under this section.
 
-### 20. Validity of decisions as to applications.[^key-d0ccbcf6bdc8a3aec9b22da3b678cd90]
+### 20. Validity of decisions as to applications.[^c-d0ccbcf6bdc8a3aec9b22da3b678cd90]
 
 (1) If any person is aggrieved by any decision of the Secretary of State under section 18 or 19 and wishes to question the validity of that decision on the grounds—
 
@@ -612,7 +612,7 @@ he may direct that, subject to such conditions or exceptions as he thinks fit, t
 
 - (a) applications for hazardous substances consent made to that authority,
 - (b) applications under section 15(1) made to that authority,
-- (c) hazardous substances consent having effect by virtue of section 9, 10, 10A or 30D[^key-ef0e52e371fd443c8f2349014a9465a6] with respect to land for which that authority is the planning authority,
+- (c) hazardous substances consent having effect by virtue of section 9, 10, 10A or 30D[^c-ef0e52e371fd443c8f2349014a9465a6] with respect to land for which that authority is the planning authority,
 - (d) revocations or modifications of hazardous substances consent granted with respect to such land, and
 - (e) directions under section 26 sent to the authority by the Secretary of State,
 
@@ -627,17 +627,17 @@ and every such register shall also contain such information as may be prescribed
 - (a) any hazardous substances consent granted or deemed to be granted or having effect by virtue of this Act, or
 - (b) any hazardous substances contravention notice issued under section 22,
 
-shall require or allow anything to be done in contravention of any of the relevant provisions[^key-5cb6115edb7ea4741ff2dcf373d07780] or any prohibition notice or improvement notice [^key-601d652791444c5319133ca0327b6af8]....
+shall require or allow anything to be done in contravention of any of the relevant provisions[^c-5cb6115edb7ea4741ff2dcf373d07780] or any prohibition notice or improvement notice [^c-601d652791444c5319133ca0327b6af8]....
 
 (2) To the extent that such a consent or notice purports to require or allow any such thing to be done, it shall be void.
 
-(3) Where it appears to a planning authority who have granted, or are deemed to have granted, a hazardous substances consent or who have issued a hazardous substances contravention notice that the consent or notice or part of it is rendered void by subsection (2) the authority shall, as soon as is reasonably practicable, consult the safety regulator[^key-f1e653328af5c6451cc9dcad746446e8] with regard to the matter.
+(3) Where it appears to a planning authority who have granted, or are deemed to have granted, a hazardous substances consent or who have issued a hazardous substances contravention notice that the consent or notice or part of it is rendered void by subsection (2) the authority shall, as soon as is reasonably practicable, consult the safety regulator[^c-f1e653328af5c6451cc9dcad746446e8] with regard to the matter.
 
-(4) If the safety regulator advises[^key-7e08d27ca1d6e2c9d46dab806d8faad1] the authority that the consent or notice is rendered wholly void, the authority shall revoke it.
+(4) If the safety regulator advises[^c-7e08d27ca1d6e2c9d46dab806d8faad1] the authority that the consent or notice is rendered wholly void, the authority shall revoke it.
 
-(5) If the safety regulator advises[^key-abee85ebaa32687d296c10e43578b1ed] that part of the consent or notice is rendered void, the authority shall so modify it as to render it wholly operative.
+(5) If the safety regulator advises[^c-abee85ebaa32687d296c10e43578b1ed] that part of the consent or notice is rendered void, the authority shall so modify it as to render it wholly operative.
 
-(6)[^key-b4c012f5576b8b1630ee3bfd81bba9e1] In this section—
+(6)[^c-b4c012f5576b8b1630ee3bfd81bba9e1] In this section—
 
 - “improvement notice” means a notice served under section 21 of the Health and Safety at Work etc. Act 1974 (“the 1974 Act”) or given under paragraph 3 of Schedule 8 to the Energy Act 2013 (“the 2013 Act”);
 - “prohibition notice” means a notice served under section 22 of the 1974 Act or given under paragraph 4 of Schedule 8 to the 2013 Act;
@@ -675,7 +675,7 @@ and the regulations may make different provision for different areas or for diff
 - (a) that any application by a planning authority for hazardous substances consent shall be made to the Secretary of State;
 - (b) that any order or notice authorised to be made, issued or served under this Act by a planning authority shall instead be made, issued or served by the Secretary of State.
 
-### 30A. Application to the Crown[^key-76b1a251e6c839863b81ca8ea579bf13]
+### 30A. Application to the Crown[^c-76b1a251e6c839863b81ca8ea579bf13]
 
 (1) This Act (except the provisions specified in subsection (2)) binds the Crown.
 
@@ -687,7 +687,7 @@ and the regulations may make different provision for different areas or for diff
 - (d) section 34,
 - (e) section 35(2).
 
-### 30B. Enforcement in relation to the Crown[^key-02b4f9fd85c09f211cd293d9675fde1f]
+### 30B. Enforcement in relation to the Crown[^c-02b4f9fd85c09f211cd293d9675fde1f]
 
 (1) No act or omission done or suffered by or on behalf of the Crown constitutes an offence under this Act; but the Court of Session may, on the application of a public authority or office-holder responsible for the enforcement of anything required to be done, or prohibited, by or under this Act, declare unlawful any act or omission so done or suffered.
 
@@ -716,7 +716,7 @@ and the regulations may make different provision for different areas or for diff
 
 (3) An interest in land includes an interest only as occupier of the land.
 
-### 30D. Crown application: transitional[^key-0425bac6f626a2e9e0edcf862131dceb]
+### 30D. Crown application: transitional[^c-0425bac6f626a2e9e0edcf862131dceb]
 
 (1) This section applies if at any time during the establishment period a hazardous substance was present on, over or under Crown land.
 
@@ -759,14 +759,14 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 
 ### 31. Exercise of powers in relation to Crown land.
 
-(1)[^key-f5788f7fd7fe8e999b4ae2e5a3b22033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f5788f7fd7fe8e999b4ae2e5a3b22033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-f5788f7fd7fe8e999b4ae2e5a3b22033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f5788f7fd7fe8e999b4ae2e5a3b22033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this section—
 
 - “**Crown land**” means land in which there is a Crown interest, and
-- “[^key-7e5e0781e2517a21071bdae59897555c]**Crown interest**” means any of the following—
+- “[^c-7e5e0781e2517a21071bdae59897555c]**Crown interest**” means any of the following—
   - ((a)) an interest belonging to Her Majesty in right of the Crown or in right of Her private estates,
   - ((b)) an interest belonging to a government department or held in trust for Her Majesty for the purposes of a government department,
   - ((c)) such other interest as the Scottish Ministers specify by order.
@@ -776,25 +776,25 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 (5) For the purposes of this section “**the appropriate authority**”, in relation to any land—
 
 - (a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners,
-- (b) in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land or the relevant person[^key-e026494666f9fbb8a86163f2c9b381ea], and
-- (ba)[^key-c9abe9ca9bcf1c4181a47ab4676e88fd] in relation to land belonging to Her Majesty in right of Her private estates means a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
+- (b) in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land or the relevant person[^c-e026494666f9fbb8a86163f2c9b381ea], and
+- (ba)[^c-c9abe9ca9bcf1c4181a47ab4676e88fd] in relation to land belonging to Her Majesty in right of Her private estates means a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
 - (c) in the case of land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, means that department.
 
-(5A)[^key-4f692770086d90c3864fdf8b55fa9f46] In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(5A)[^c-4f692770086d90c3864fdf8b55fa9f46] In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (6) If any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to the Treasury, whose decision shall be final.
 
-(7)[^key-0c690e4f8207bbf384d4a4fa95457db6] References to Her Majesty’s private estates must be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
+(7)[^c-0c690e4f8207bbf384d4a4fa95457db6] References to Her Majesty’s private estates must be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
 
 (8) An order made for the purposes of paragraph (c) of the definition of Crown interest in subsection (3) must be made by statutory instrument.
 
 (9) But no such order may be made unless a draft of it has been laid before and approved by resolution of the Scottish Parliament.
 
-### 32. Application for hazardous substances consent in anticipation of disposal of Crown land.[^key-87ac0a3c71efdf2d0a935da2794f33ee]
+### 32. Application for hazardous substances consent in anticipation of disposal of Crown land.[^c-87ac0a3c71efdf2d0a935da2794f33ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32A. Applications for hazardous substances consent by Crown[^key-6bcd50aaf96f5fe11e38ad9d3ea7c842]
+### 32A. Applications for hazardous substances consent by Crown[^c-6bcd50aaf96f5fe11e38ad9d3ea7c842]
 
 (1) This section applies to an application for hazardous substances consent made by or on behalf of the Crown.
 
@@ -863,7 +863,7 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 
 (8)[^c2613231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35A. Rights of entry: Crown land[^key-7d76216753a9eb3e0c6a6f73c4b54797]
+### 35A. Rights of entry: Crown land[^c-7d76216753a9eb3e0c6a6f73c4b54797]
 
 (1) Section 33 applies to Crown land subject to the following modifications.
 
@@ -882,21 +882,21 @@ and in calculating whether the established quantity is exceeded a quantity of a 
 
 ### 36. Application of certain general provisions of principal Act.
 
-(1)[^key-97d87de7645158375880b2e1f895dd85] The following provisions of the principal Act shall apply for the purposes of this Act as they apply for the purposes of that Act—
+(1)[^c-97d87de7645158375880b2e1f895dd85] The following provisions of the principal Act shall apply for the purposes of this Act as they apply for the purposes of that Act—
 
 - section 85 (power to make provision for determination of claims),
 - section 265 (local inquiries),
-- section 265A (planning inquiries to be held in public subject to certain exceptions),[^key-5e2f67e1fb65bc5f726d94abe7240b81]
+- section 265A (planning inquiries to be held in public subject to certain exceptions),[^c-5e2f67e1fb65bc5f726d94abe7240b81]
 - section 266 (orders as to expenses of parties where no local inquiry held),
 - section 267 (procedure on certain appeals and applications),
 - section 271 (service of notices),
-- section 271A(1) to (2) (service of notices on the Crown),[^key-a0d348996af408c7e5a21e8b9005a343]
+- section 271A(1) to (2) (service of notices on the Crown),[^c-a0d348996af408c7e5a21e8b9005a343]
 - section 272 (power to require information as to interests in land),
-- section 272A(1) to (4) (information as to interests in Crown land),[^key-81d8fdf0376b5734e7106344e9cc3965]
+- section 272A(1) to (4) (information as to interests in Crown land),[^c-81d8fdf0376b5734e7106344e9cc3965]
 - section 273 (offences by corporations), and
 - section 276 (Act not excluded by special enactments).
 
-(2)[^key-0458df3ea13d69f70eee53760b3d2164] In the application of section 265A of the principal Act for the purposes of this Act, the provisions mentioned in subsection (1) of the section shall be construed as including any inquiry held by virtue of this section.
+(2)[^c-0458df3ea13d69f70eee53760b3d2164] In the application of section 265A of the principal Act for the purposes of this Act, the provisions mentioned in subsection (1) of the section shall be construed as including any inquiry held by virtue of this section.
 
 ### 37. Financial provisions.
 
@@ -924,11 +924,11 @@ the Minister responsible for the administration of that service may pay that aut
 (1) In this Act—
 
 - “**contravention of hazardous substances control**” shall be construed in accordance with section 21(2),
-- “[^key-7b8b30833984e4a2e9eaff19aefa5ebb]**development consent**” means development consent under the Planning Act 2008,
+- “[^c-7b8b30833984e4a2e9eaff19aefa5ebb]**development consent**” means development consent under the Planning Act 2008,
 - “**hazardous substances consent**” means consent required by section 2,
 - “**hazardous substances contravention notice**” means such a notice as is mentioned in section 22(1), and
 - “**the principal Act**” means the [^c2613331]Town and Country Planning (Scotland) Act 1997.
-- “the safety regulator” means—[^key-e2d259d278a9ae0a7373c2f7c6e1792a]
+- “the safety regulator” means—[^c-e2d259d278a9ae0a7373c2f7c6e1792a]
   - (a) in relation to land which is, or is on, a nuclear site (within the meaning of Part 3 of the Energy Act 2013), the Office for Nuclear Regulation;
   - (b) otherwise, the Health and Safety Executive.
 
@@ -1008,12 +1008,12 @@ the Minister responsible for the administration of that service may pay that aut
 
 (3) For the purposes of sections 2 to 8, 10 to 19, 21 to 23 and 29(1) and (2) any two bodies corporate are to be treated as being one person if—
 
-- (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 1159 of the Companies Act 2006[^key-e5f1823de997514b02cbd88864e21697] ), or
-- (b) both of them are subsidiaries (within the meaning of that section[^key-5a04484862bf7e3be3bebdbbab26692f] ) of one and the same body corporate.
+- (a) one of them is a body corporate of which the other is a subsidiary (within the meaning of section 1159 of the Companies Act 2006[^c-e5f1823de997514b02cbd88864e21697] ), or
+- (b) both of them are subsidiaries (within the meaning of that section[^c-5a04484862bf7e3be3bebdbbab26692f] ) of one and the same body corporate.
 
 (4) For the purposes of sections 10 and 37(2) a public gas transporter shall be deemed to be a statutory undertaker.
 
-(5) For the purposes of section 37(2) a universal service provider (within the meaning of[^c2613351] Part 3 of the Postal Services Act 2011[^key-2d206651ef0cf8977926a70ec0a996bb] ) in connection with the provision of a universal postal service (within the meaning of that Part[^key-3d6299ab58226e795b36f803cd220c06] ), the Civil Aviation Authority , a person who holds a licence under chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)[^c2613361] and any holder of a licence under section 6(1) of the [^c2613371]Electricity Act 1989 shall be deemed to be statutory undertakers.
+(5) For the purposes of section 37(2) a universal service provider (within the meaning of[^c2613351] Part 3 of the Postal Services Act 2011[^c-2d206651ef0cf8977926a70ec0a996bb] ) in connection with the provision of a universal postal service (within the meaning of that Part[^c-3d6299ab58226e795b36f803cd220c06] ), the Civil Aviation Authority , a person who holds a licence under chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)[^c2613361] and any holder of a licence under section 6(1) of the [^c2613371]Electricity Act 1989 shall be deemed to be statutory undertakers.
 
 (6) Without prejudice to section 20(2) of the [^c2613381]Interpretation Act 1978, references in this Act to any enactment shall, except where the context otherwise requires, be construed as references to that enactment as amended by or under any other enactment.
 
@@ -1130,7 +1130,7 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 (6) For the purposes of this paragraph, references to the Minister in subsections (9) to (12) of that section shall be read as references to the appointed person.
 
-(7)[^key-d6d9fdede508375514729f3d8f09241e] Subsections (2) to (13) of section 265A of the principal Act apply to the holding of an inquiry under this paragraph as they apply to the holding of an inquiry under section 265 of that Act.
+(7)[^c-d6d9fdede508375514729f3d8f09241e] Subsections (2) to (13) of section 265A of the principal Act apply to the holding of an inquiry under this paragraph as they apply to the holding of an inquiry under section 265 of that Act.
 
 ### Supplementary provisions
 
@@ -1152,7 +1152,7 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
     Act applied (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2)
 
-[^key-5f75213b11eb03711390033eb1e91ba1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/10) restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [sch. 8 para. 39(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/iii) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-5f75213b11eb03711390033eb1e91ba1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/10) restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [sch. 8 para. 39(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/iii) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^c2613061]: Textual amendment: [S. 2(2)(aa)](https://www.legislation.gov.uk/ukpga/1997/10/section/2/2/aa) inserted (6.7.2000) by [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2000/179/article/2/2/a)
 
@@ -1166,19 +1166,19 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 [^c2613131]: Textual amendment: Words in s. 4(1)(b) substituted (6.7.2000) by [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179), [art. 3(2)](https://www.legislation.gov.uk/ssi/2000/179/article/3/2)
 
-[^key-d332af2a6209543cfc09caf3cb60d70a]: Textual amendment: Words in [s. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/4/1/b) substituted (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/269/article/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2006/269/article/5/2)
+[^c-d332af2a6209543cfc09caf3cb60d70a]: Textual amendment: Words in [s. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/4/1/b) substituted (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/269/article/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2006/269/article/5/2)
 
-[^key-f30dd9f09ebdb1d301c8312d9061a3b5]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/5/3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/16) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f30dd9f09ebdb1d301c8312d9061a3b5]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/5/3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/16) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-a563c8b039465764942e0467e366946b]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1997/10/section/7) applied (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [56(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/56/4)
+[^c-a563c8b039465764942e0467e366946b]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1997/10/section/7) applied (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [56(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/56/4)
 
-[^key-14833fe66c65fe679702cf6852c76b27]: Textual amendment: Words in s. 7(2)(c) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/60) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-14833fe66c65fe679702cf6852c76b27]: Textual amendment: Words in s. 7(2)(c) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/60) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-3ba3f46b05aaba0184113f3f5c991a03]: Textual amendment: Words in [s. 7(2)(e)](https://www.legislation.gov.uk/ukpga/1997/10/section/7/2/e) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/17) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-3ba3f46b05aaba0184113f3f5c991a03]: Textual amendment: Words in [s. 7(2)(e)](https://www.legislation.gov.uk/ukpga/1997/10/section/7/2/e) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/17) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-4a7f6ff37b8618d38a02da4bde6f8560]: Textual amendment: Words in s. 8(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/61) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-4a7f6ff37b8618d38a02da4bde6f8560]: Textual amendment: Words in s. 8(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/61) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-580901abd5f7c822e30608d55fa34597]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/8/2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/18) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-580901abd5f7c822e30608d55fa34597]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/8/2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/18) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c2613141]: Marginal citation: [1986 c.63](https://www.legislation.gov.uk/ukpga/1986/63).
 
@@ -1186,15 +1186,15 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 [^c2613161]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-39f701abcd1ee2f977e7fcfcdc9d7f8d]: Textual amendment: S. 10(2A) inserted (28.12.2007) by [The Transport and Works (Scotland) Act 2007 (Consents under Enactments) Regulations 2007 (S.S.I. 2007/569)](https://www.legislation.gov.uk/ssi/2007/569), [regs. 1](https://www.legislation.gov.uk/ssi/2007/569/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2007/569/regulation/4/a)
+[^c-39f701abcd1ee2f977e7fcfcdc9d7f8d]: Textual amendment: S. 10(2A) inserted (28.12.2007) by [The Transport and Works (Scotland) Act 2007 (Consents under Enactments) Regulations 2007 (S.S.I. 2007/569)](https://www.legislation.gov.uk/ssi/2007/569), [regs. 1](https://www.legislation.gov.uk/ssi/2007/569/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2007/569/regulation/4/a)
 
-[^key-db1d3e9fd703e44e04e63cf0d07a8dc3]: Textual amendment: [S. 10(2B)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/2B) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(2)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/2) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-db1d3e9fd703e44e04e63cf0d07a8dc3]: Textual amendment: [S. 10(2B)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/2B) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(2)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/2) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-df5c58c1481532c1c11641aab20e267d]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/3) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(3)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/3) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-df5c58c1481532c1c11641aab20e267d]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/3) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(3)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/3) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-f71eef4a5204a60744fadf430b79f001]: Textual amendment: Word in [s. 10(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/6) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(4)(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/4/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-f71eef4a5204a60744fadf430b79f001]: Textual amendment: Word in [s. 10(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/6) substituted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(4)(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/4/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-830e565b457f3013390d9fde99771eae]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/6) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(4)(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/4/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-830e565b457f3013390d9fde99771eae]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/6) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 62(4)(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/62/4/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c2613111]: Textual amendment: [Ss. 10A](https://www.legislation.gov.uk/ukpga/1997/10/section/10A), [10B](https://www.legislation.gov.uk/ukpga/1997/10/section/10B) inserted (6.7.2000) by [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179), [art. 3(3)](https://www.legislation.gov.uk/ssi/2000/179/article/3/3)
 
@@ -1202,93 +1202,93 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 [^c2613121]: Textual amendment: [Ss. 10A](https://www.legislation.gov.uk/ukpga/1997/10/section/10A), [10B](https://www.legislation.gov.uk/ukpga/1997/10/section/10B) inserted (6.7.2000) by [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179), [art. 3(3)](https://www.legislation.gov.uk/ssi/2000/179/article/3/3)
 
-[^key-14b263fb3c089fac0c37468a4d32ee1a]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/12/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 63(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/63/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-14b263fb3c089fac0c37468a4d32ee1a]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/12/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 63(a)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/63/a) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-fef4078dd08121c018f74284f6a4c0f2]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/12/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 63(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/63/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-fef4078dd08121c018f74284f6a4c0f2]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/12/2/b) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 63(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/63/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-2b8b08a0db42bb2745b564f65aa1e849]: Modification: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/15/1) excluded (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [66](https://www.legislation.gov.uk/ssi/2015/181/regulation/66)
+[^c-2b8b08a0db42bb2745b564f65aa1e849]: Modification: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/15/1) excluded (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [66](https://www.legislation.gov.uk/ssi/2015/181/regulation/66)
 
-[^key-9d2d543a60afc9396f54c6dbade3c05d]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/15/3) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/21) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-9d2d543a60afc9396f54c6dbade3c05d]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/15/3) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/21) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-9a5de224e4e868ebeae1db13b4eb8c91]: Textual amendment: Words in [s. 16(2)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/16/2/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/19) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-9a5de224e4e868ebeae1db13b4eb8c91]: Textual amendment: Words in [s. 16(2)(b)](https://www.legislation.gov.uk/ukpga/1997/10/section/16/2/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/19) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-4d6ba16be55738b73a0a375066c23b44]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1997/10/section/18) applied (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(7)(c)](https://www.legislation.gov.uk/ssi/2003/1/article/7/7/c)
+[^c-4d6ba16be55738b73a0a375066c23b44]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1997/10/section/18) applied (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(7)(c)](https://www.legislation.gov.uk/ssi/2003/1/article/7/7/c)
 
-[^key-5d09c018bf3611979fcc168829f34796]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1997/10/section/18) modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [56(3)](https://www.legislation.gov.uk/ssi/2015/181/regulation/56/3)
+[^c-5d09c018bf3611979fcc168829f34796]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1997/10/section/18) modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [56(3)](https://www.legislation.gov.uk/ssi/2015/181/regulation/56/3)
 
-[^key-ff070120dfbbeb566131895263fe38d4]: Modification: [S. 18(1)-(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/18/1) modified (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(3)(c)](https://www.legislation.gov.uk/ssi/2003/1/article/7/3/c) (with [art. 3(4)](https://www.legislation.gov.uk/ssi/2003/1/article/3/4)[(5)](https://www.legislation.gov.uk/ssi/2003/1/article/3/5)[(6)](https://www.legislation.gov.uk/ssi/2003/1/article/3/6))
+[^c-ff070120dfbbeb566131895263fe38d4]: Modification: [S. 18(1)-(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/18/1) modified (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(3)(c)](https://www.legislation.gov.uk/ssi/2003/1/article/7/3/c) (with [art. 3(4)](https://www.legislation.gov.uk/ssi/2003/1/article/3/4)[(5)](https://www.legislation.gov.uk/ssi/2003/1/article/3/5)[(6)](https://www.legislation.gov.uk/ssi/2003/1/article/3/6))
 
-[^key-d0ccbcf6bdc8a3aec9b22da3b678cd90]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1997/10/section/20) modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [56(5)](https://www.legislation.gov.uk/ssi/2015/181/regulation/56/5)
+[^c-d0ccbcf6bdc8a3aec9b22da3b678cd90]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1997/10/section/20) modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [56(5)](https://www.legislation.gov.uk/ssi/2015/181/regulation/56/5)
 
 [^c2613201]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-ef0e52e371fd443c8f2349014a9465a6]: Textual amendment: Words in [s. 27(1)(c)](https://www.legislation.gov.uk/ukpga/1997/10/section/27/1/c) substituted (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/269/article/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2006/269/article/5/3)
+[^c-ef0e52e371fd443c8f2349014a9465a6]: Textual amendment: Words in [s. 27(1)(c)](https://www.legislation.gov.uk/ukpga/1997/10/section/27/1/c) substituted (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/269/article/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2006/269/article/5/3)
 
-[^key-5cb6115edb7ea4741ff2dcf373d07780]: Textual amendment: Words in s. 28(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-5cb6115edb7ea4741ff2dcf373d07780]: Textual amendment: Words in s. 28(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-601d652791444c5319133ca0327b6af8]: Textual amendment: Words in s. 28(1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-601d652791444c5319133ca0327b6af8]: Textual amendment: Words in s. 28(1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-f1e653328af5c6451cc9dcad746446e8]: Textual amendment: Words in s. 28(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f1e653328af5c6451cc9dcad746446e8]: Textual amendment: Words in s. 28(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-7e08d27ca1d6e2c9d46dab806d8faad1]: Textual amendment: Words in s. 28(4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-7e08d27ca1d6e2c9d46dab806d8faad1]: Textual amendment: Words in s. 28(4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-abee85ebaa32687d296c10e43578b1ed]: Textual amendment: Words in s. 28(5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-abee85ebaa32687d296c10e43578b1ed]: Textual amendment: Words in s. 28(5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-b4c012f5576b8b1630ee3bfd81bba9e1]: Textual amendment: S. 28(6) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(6)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-b4c012f5576b8b1630ee3bfd81bba9e1]: Textual amendment: S. 28(6) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(6)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-76b1a251e6c839863b81ca8ea579bf13]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/1997/10/section/30A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 90(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/90/3), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/268/article/3/a)
+[^c-76b1a251e6c839863b81ca8ea579bf13]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/1997/10/section/30A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 90(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/90/3), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/268/article/3/a)
 
-[^key-02b4f9fd85c09f211cd293d9675fde1f]: Textual amendment: Ss. 30B, 30C inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 94(5)](https://www.legislation.gov.uk/ukpga/2004/5/section/94/5), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-02b4f9fd85c09f211cd293d9675fde1f]: Textual amendment: Ss. 30B, 30C inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 94(5)](https://www.legislation.gov.uk/ukpga/2004/5/section/94/5), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
 
-[^key-0425bac6f626a2e9e0edcf862131dceb]: Textual amendment: [S. 30D](https://www.legislation.gov.uk/ukpga/1997/10/section/30D) inserted (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/269/article/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2006/269/article/5/4)
+[^c-0425bac6f626a2e9e0edcf862131dceb]: Textual amendment: [S. 30D](https://www.legislation.gov.uk/ukpga/1997/10/section/30D) inserted (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/269/article/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2006/269/article/5/4)
 
-[^key-f5788f7fd7fe8e999b4ae2e5a3b22033]: Textual amendment: S. 31(1)(2) repealed (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/e/f)
+[^c-f5788f7fd7fe8e999b4ae2e5a3b22033]: Textual amendment: S. 31(1)(2) repealed (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/e/f)
 
-[^key-7e5e0781e2517a21071bdae59897555c]: Textual amendment: Words in s. 31(3) substituted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-7e5e0781e2517a21071bdae59897555c]: Textual amendment: Words in s. 31(3) substituted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-e026494666f9fbb8a86163f2c9b381ea]: Textual amendment: Words in s. 31(5)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 27(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/27/a)
+[^c-e026494666f9fbb8a86163f2c9b381ea]: Textual amendment: Words in s. 31(5)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 27(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/27/a)
 
-[^key-c9abe9ca9bcf1c4181a47ab4676e88fd]: Textual amendment: S. 31(5)(ba) inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(4)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-c9abe9ca9bcf1c4181a47ab4676e88fd]: Textual amendment: S. 31(5)(ba) inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(4)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-4f692770086d90c3864fdf8b55fa9f46]: Textual amendment: S. 31(5A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 27(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/27/b)
+[^c-4f692770086d90c3864fdf8b55fa9f46]: Textual amendment: S. 31(5A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 27(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/27/b)
 
-[^key-0c690e4f8207bbf384d4a4fa95457db6]: Textual amendment: S. 31(7)-(9) inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/5) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-0c690e4f8207bbf384d4a4fa95457db6]: Textual amendment: S. 31(7)-(9) inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/8/5) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-87ac0a3c71efdf2d0a935da2794f33ee]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1997/10/section/32) repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/12), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)
+[^c-87ac0a3c71efdf2d0a935da2794f33ee]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1997/10/section/32) repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/12), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)
 
-[^key-6bcd50aaf96f5fe11e38ad9d3ea7c842]: Textual amendment: S. 32A inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/13) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-6bcd50aaf96f5fe11e38ad9d3ea7c842]: Textual amendment: S. 32A inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/13) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
 [^c2613221]: Textual amendment: Words in s. 35(7) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 129](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/129); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 3](https://www.legislation.gov.uk/uksi/1999/3178/article/3)
 
 [^c2613231]: Textual amendment: S. 35(8) repealed (1.7.1999) by [S.I.1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 129](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/129), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-7d76216753a9eb3e0c6a6f73c4b54797]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/ukpga/1997/10/section/35A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/16) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-7d76216753a9eb3e0c6a6f73c4b54797]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/ukpga/1997/10/section/35A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/16) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-97d87de7645158375880b2e1f895dd85]: Textual amendment: [S. 36(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/36/1): s. 36 renumbered as s. 36(1) (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-97d87de7645158375880b2e1f895dd85]: Textual amendment: [S. 36(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/36/1): s. 36 renumbered as s. 36(1) (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-5e2f67e1fb65bc5f726d94abe7240b81]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/1/a) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-5e2f67e1fb65bc5f726d94abe7240b81]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/1/a) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-a0d348996af408c7e5a21e8b9005a343]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/1/b) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-a0d348996af408c7e5a21e8b9005a343]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/1/b) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-81d8fdf0376b5734e7106344e9cc3965]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(1)(c)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/1/c) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-81d8fdf0376b5734e7106344e9cc3965]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(1)(c)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/1/c) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-0458df3ea13d69f70eee53760b3d2164]: Textual amendment: [S. 36(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/36/2) added (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-0458df3ea13d69f70eee53760b3d2164]: Textual amendment: [S. 36(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/36/2) added (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/22/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-7b8b30833984e4a2e9eaff19aefa5ebb]: Textual amendment: Words in s. 38(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/64) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-7b8b30833984e4a2e9eaff19aefa5ebb]: Textual amendment: Words in s. 38(1) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/64) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
 [^c2613331]: Marginal citation: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-e2d259d278a9ae0a7373c2f7c6e1792a]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(7)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/7) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-e2d259d278a9ae0a7373c2f7c6e1792a]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 20(7)](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/20/7) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-e5f1823de997514b02cbd88864e21697]: Textual amendment: Words in s. 38(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 167(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/167/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-e5f1823de997514b02cbd88864e21697]: Textual amendment: Words in s. 38(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 167(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/167/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-5a04484862bf7e3be3bebdbbab26692f]: Textual amendment: Words in s. 38(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 167(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/167/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5a04484862bf7e3be3bebdbbab26692f]: Textual amendment: Words in s. 38(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 167(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/167/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c2613351]: Textual amendment: Words in s. 38(5) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 117](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/117)
 
-[^key-2d206651ef0cf8977926a70ec0a996bb]: Textual amendment: Words in s. 38(5) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 149(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/149/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-2d206651ef0cf8977926a70ec0a996bb]: Textual amendment: Words in s. 38(5) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 149(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/149/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-3d6299ab58226e795b36f803cd220c06]: Textual amendment: Words in s. 38(5) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 149(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/149/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-3d6299ab58226e795b36f803cd220c06]: Textual amendment: Words in s. 38(5) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 149(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/149/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c2613361]: Textual amendment: Words in s. 38(5) inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 37](https://www.legislation.gov.uk/ukpga/2000/38/section/37), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2000/38/schedule/5/paragraph/13); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
@@ -1296,7 +1296,7 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 [^c2613381]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-d6d9fdede508375514729f3d8f09241e]: Textual amendment: [Sch. para. 6(7)](https://www.legislation.gov.uk/ukpga/1997/10/schedule/paragraph/6/7) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 91(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/91/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)
+[^c-d6d9fdede508375514729f3d8f09241e]: Textual amendment: [Sch. para. 6(7)](https://www.legislation.gov.uk/ukpga/1997/10/schedule/paragraph/6/7) inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 91(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/91/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)
 
 [^c2613391]: Modification: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/1997/10/schedule/paragraph/7) modified (1.7.1999) by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 17(7)(c)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/7/c); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 

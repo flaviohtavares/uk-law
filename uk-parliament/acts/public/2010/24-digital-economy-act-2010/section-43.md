@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Public lending right[^key-4f12c561801967766d0550c52a246edf]
+## 43. Public lending right[^c-4f12c561801967766d0550c52a246edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 (4) At the end of the definition of “the register” omit “and”.
 
-(5) At the end insert[^key-42bd747c8ebf7aad6e558f2c6c272fc6]—
+(5) At the end insert[^c-42bd747c8ebf7aad6e558f2c6c272fc6]—
 
 > “**sound recording**” has the meaning given in section 5A(1) of the Copyright, Designs and Patents Act 1988.
 
@@ -82,12 +82,12 @@ summary: ''
   > (A2) Expressions used in sub-paragraph (A1) have the same meaning as in section 40A(1).
 
   ;
-- (b)[^key-e5a1eb67e6d943615b85eaf91cadf90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e5a1eb67e6d943615b85eaf91cadf90e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f12c561801967766d0550c52a246edf]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2010/24/section/43) in force at 30.6.2014 by [S.I. 2014/1659](https://www.legislation.gov.uk/uksi/2014/1659), [art. 2](https://www.legislation.gov.uk/uksi/2014/1659/article/2)
+[^c-4f12c561801967766d0550c52a246edf]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2010/24/section/43) in force at 30.6.2014 by [S.I. 2014/1659](https://www.legislation.gov.uk/uksi/2014/1659), [art. 2](https://www.legislation.gov.uk/uksi/2014/1659/article/2)
 
-[^key-42bd747c8ebf7aad6e558f2c6c272fc6]: Textual amendment: Words in s. 43(5) substituted (1.10.2013) by [The Public Bodies (Abolition of the Registrar of Public Lending Right) Order 2013 (S.I. 2013/2352)](https://www.legislation.gov.uk/uksi/2013/2352), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/2352/schedule/1/paragraph/14) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2352/article/8))
+[^c-42bd747c8ebf7aad6e558f2c6c272fc6]: Textual amendment: Words in s. 43(5) substituted (1.10.2013) by [The Public Bodies (Abolition of the Registrar of Public Lending Right) Order 2013 (S.I. 2013/2352)](https://www.legislation.gov.uk/uksi/2013/2352), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/2352/schedule/1/paragraph/14) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2352/article/8))
 
-[^key-e5a1eb67e6d943615b85eaf91cadf90e]: Textual amendment: [S. 43(8)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/43/8/b) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/12)
+[^c-e5a1eb67e6d943615b85eaf91cadf90e]: Textual amendment: [S. 43(8)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/43/8/b) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/12)

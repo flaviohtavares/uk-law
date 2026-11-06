@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24D. Notice to subsequent estate or interest holder requiring steps to be taken[^key-f52c426b75ad99261fe9c67cba228607]
+## 24D. Notice to subsequent estate or interest holder requiring steps to be taken[^c-f52c426b75ad99261fe9c67cba228607]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f52c426b75ad99261fe9c67cba228607]: Textual amendment: [Ss. 24C-24E](https://www.legislation.gov.uk/ukpga/1967/10/section/24C) inserted (18.8.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 39](https://www.legislation.gov.uk/asc/2023/4/section/39), [56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-f52c426b75ad99261fe9c67cba228607]: Textual amendment: [Ss. 24C-24E](https://www.legislation.gov.uk/ukpga/1967/10/section/24C) inserted (18.8.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 39](https://www.legislation.gov.uk/asc/2023/4/section/39), [56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

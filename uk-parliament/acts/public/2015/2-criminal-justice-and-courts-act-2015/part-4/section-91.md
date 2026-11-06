@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Procedure for certain planning challenges[^key-f57f4a5d873a6aa8cf40e28f58d4f1d4]
+## 91. Procedure for certain planning challenges[^c-f57f4a5d873a6aa8cf40e28f58d4f1d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Schedule 16 contains amendments—
 
 ## Annotations
 
-[^key-f57f4a5d873a6aa8cf40e28f58d4f1d4]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2015/2/section/91) in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/i)
+[^c-f57f4a5d873a6aa8cf40e28f58d4f1d4]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2015/2/section/91) in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/i)

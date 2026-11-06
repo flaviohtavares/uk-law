@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18E. Appeals under section 101A of the Act[^key-91ff469bf3293e605c1d851af8eb826e]
+## 18E. Appeals under section 101A of the Act[^c-91ff469bf3293e605c1d851af8eb826e]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the name, address, telephone number and (if available) email address of the appellant;
 - (b) a statement explaining why the appellant considers the work proposed in the original application or notice does not include higher-risk building work;
-- (c) where the appellant is a registered building control approver[^key-374a231133c37d6105dacd65becd7dc6], a statement confirming the client agrees to the appeal being made.
+- (c) where the appellant is a registered building control approver[^c-374a231133c37d6105dacd65becd7dc6], a statement confirming the client agrees to the appeal being made.
 
 (3) In addition to the information provided for in paragraph (2) the appeal must be accompanied by—
 
@@ -71,6 +71,6 @@ as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-91ff469bf3293e605c1d851af8eb826e]: Textual amendment: Regs. 18A-18E inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-91ff469bf3293e605c1d851af8eb826e]: Textual amendment: Regs. 18A-18E inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-374a231133c37d6105dacd65becd7dc6]: Textual amendment: Words in [reg. 18E(2)(c)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/18E/2/c) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(4)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/4) (with [reg. 38(8)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/8))
+[^c-374a231133c37d6105dacd65becd7dc6]: Textual amendment: Words in [reg. 18E(2)(c)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/18E/2/c) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(4)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/4) (with [reg. 38(8)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/8))

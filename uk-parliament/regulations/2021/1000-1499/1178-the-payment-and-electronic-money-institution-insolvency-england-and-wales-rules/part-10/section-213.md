@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 213. Form and contents of application[^key-cd21092423393cc5f3a41e787356de6e]
+## 213. Form and contents of application[^c-cd21092423393cc5f3a41e787356de6e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ An application to which this Chapter applies—
 
 ## Annotations
 
-[^key-cd21092423393cc5f3a41e787356de6e]: Commencement: Rule 213 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-cd21092423393cc5f3a41e787356de6e]: Commencement: Rule 213 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

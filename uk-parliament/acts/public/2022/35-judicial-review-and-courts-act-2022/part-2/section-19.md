@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Rules for online procedure in courts and tribunals[^key-72e4b29f5912f21743425724988a81e1][^key-9a4cdabdd6235b9c13c5f1642814b636]
+## 19. Rules for online procedure in courts and tribunals[^c-72e4b29f5912f21743425724988a81e1][^c-9a4cdabdd6235b9c13c5f1642814b636]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ to be disposed of by electronic means as a result of steps which the parties tak
 
 ## Annotations
 
-[^key-72e4b29f5912f21743425724988a81e1]: Commencement: S. 19 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-72e4b29f5912f21743425724988a81e1]: Commencement: S. 19 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-9a4cdabdd6235b9c13c5f1642814b636]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/35/section/19) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-9a4cdabdd6235b9c13c5f1642814b636]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/35/section/19) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

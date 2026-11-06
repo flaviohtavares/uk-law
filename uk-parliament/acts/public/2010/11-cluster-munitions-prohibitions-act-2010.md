@@ -34,7 +34,7 @@ An Act to make provision for giving effect to the Convention on Cluster Munition
 
 \[25th March 2010\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-263174acbef0a1cb6fe3a78cd9720a36]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-263174acbef0a1cb6fe3a78cd9720a36]
 
 ## Munitions to which Act applies
 
@@ -948,4 +948,4 @@ Section 31
 
 ## Annotations
 
-[^key-263174acbef0a1cb6fe3a78cd9720a36]: Modification: Act extended (Isle of Man) (with modifications) (2.11.2011) by [The Cluster Munitions (Prohibitions) Act 2010 (Isle of Man) Order 2011 (S.I. 2011/2443)](https://www.legislation.gov.uk/uksi/2011/2443), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2443/article/1), [2](https://www.legislation.gov.uk/uksi/2011/2443/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2011/2443/schedule)
+[^c-263174acbef0a1cb6fe3a78cd9720a36]: Modification: Act extended (Isle of Man) (with modifications) (2.11.2011) by [The Cluster Munitions (Prohibitions) Act 2010 (Isle of Man) Order 2011 (S.I. 2011/2443)](https://www.legislation.gov.uk/uksi/2011/2443), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2443/article/1), [2](https://www.legislation.gov.uk/uksi/2011/2443/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2011/2443/schedule)

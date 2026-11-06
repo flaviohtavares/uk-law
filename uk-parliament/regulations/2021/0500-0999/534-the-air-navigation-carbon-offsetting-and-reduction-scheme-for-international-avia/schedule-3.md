@@ -22,11 +22,11 @@ summary: ''
 
 Article 70(3)
 
-### 1. Introduction to the ICAO CORSIA CO<sub>2</sub> Estimation and Reporting Tool (CERT)[^key-774acc98b6970fab650a6138c7a5d515]
+### 1. Introduction to the ICAO CORSIA CO<sub>2</sub> Estimation and Reporting Tool (CERT)[^c-774acc98b6970fab650a6138c7a5d515]
 
 The procedures specified in this Schedule are concerned with the estimation of CO<sub>2</sub> emissions by an aeroplane operator for the purposes of monitoring CO<sub>2</sub> emissions and filling data gaps. The methods and tools proposed are representative of most accurate established practices.
 
-### 2. Use of the CERT for complying with monitoring and reporting requirements[^key-529ce52f87ee218f8c0b65f861a41f83]
+### 2. Use of the CERT for complying with monitoring and reporting requirements[^c-529ce52f87ee218f8c0b65f861a41f83]
 
 (1) The aeroplane operator must use the CERT according to the eligibility criteria as described in article 22 of this Order and upon approval by the Regulator.
 
@@ -62,9 +62,9 @@ to enter the necessary information into the CERT.
 
 ## Annotations
 
-[^key-774acc98b6970fab650a6138c7a5d515]: Commencement: Sch. 3 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-774acc98b6970fab650a6138c7a5d515]: Commencement: Sch. 3 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-529ce52f87ee218f8c0b65f861a41f83]: Commencement: Sch. 3 para. 2 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-529ce52f87ee218f8c0b65f861a41f83]: Commencement: Sch. 3 para. 2 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00064]: Footnote: The ICAO aircraft type - model designators are contained in Doc 8643 — Aircraft Type Designators which is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 

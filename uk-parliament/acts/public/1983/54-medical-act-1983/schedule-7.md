@@ -39,7 +39,7 @@ summary: ''
 |  |  | In Schedule 15, paragraph 14. |
 | 1978 c. 12. | The Medical Act 1978. | The whole Act. |
 | 1978 c. 29. | The National Health Service (Scotland) Act 1978. | In Schedule 16, paragraph 9. |
-| 1981 c. 54. | The Senior Courts Act 1981[^key-91e9080057db8edf05da42eadb4a9253]. | In Schedule 5, the entries relating to the Medical Act 1956 and the Medical Act 1978. |
+| 1981 c. 54. | The Senior Courts Act 1981[^c-91e9080057db8edf05da42eadb4a9253]. | In Schedule 5, the entries relating to the Medical Act 1956 and the Medical Act 1978. |
 | 1983 c. 41. | The Health and Social Services and Social Security Adjudications Act 1983. | In Schedule 6, paragraph 1. |
 
 ### Part II — Revocation
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e9080057db8edf05da42eadb4a9253]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-91e9080057db8edf05da42eadb4a9253]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

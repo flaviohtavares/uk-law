@@ -48,7 +48,7 @@ In accordance with Article 33(2) of that Order, the Department of the Environmen
 
 (1) This Order may be cited as the Local Government (Indemnities for Members and Officers) Order (Northern Ireland) 2012 and shall come into operation on 27th November 2012.
 
-(2)[^key-8b403ebf1df670db23a5c18a7be209e4] In this Order—
+(2)[^c-8b403ebf1df670db23a5c18a7be209e4] In this Order—
 
 - “Part 9 proceeding” means any investigation, report, adjudication or any other proceeding pursuant to Part 9 of the Local Government Act (Northern Ireland) 2014; and
 - “secure”, in relation to any indemnity provided by means of insurance, includes arranging for, and paying for, that insurance.
@@ -95,7 +95,7 @@ and it was reasonable for that member or officer to hold that belief at the time
 
 (2) An indemnity may be provided in relation to an act or omission which is subsequently found to be beyond the powers of the member or officer in question but only to the extent that the member or officer reasonably believed that the act or omission in question was within the powers of the member or officer at the time at which the member or officer acted.
 
-## 7. Terms of indemnity or insurance[^key-52a028d0f58b0fca7332c3960259576a]
+## 7. Terms of indemnity or insurance[^c-52a028d0f58b0fca7332c3960259576a]
 
 (1) Subject to paragraphs (2) and (3), the terms of any indemnity given (including any insurance secured) under this Order may be such as a council shall agree.
 
@@ -144,6 +144,6 @@ Article 7 provides that the terms of any indemnity (including insurance secured)
 
 [^c21466881]: Marginal citation: [S.I. 2005/1968](https://www.legislation.gov.uk/uksi/2005/1968) (NI 18)
 
-[^key-8b403ebf1df670db23a5c18a7be209e4]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/nisr/2012/422/article/1/2) substituted (1.11.2014) by [The Local Government (Indemnities for Members and Officers) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/264)](https://www.legislation.gov.uk/nisr/2014/264), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/264/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/264/article/2/2)
+[^c-8b403ebf1df670db23a5c18a7be209e4]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/nisr/2012/422/article/1/2) substituted (1.11.2014) by [The Local Government (Indemnities for Members and Officers) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/264)](https://www.legislation.gov.uk/nisr/2014/264), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/264/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/264/article/2/2)
 
-[^key-52a028d0f58b0fca7332c3960259576a]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/2012/422/article/7) substituted (1.11.2014) by [The Local Government (Indemnities for Members and Officers) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/264)](https://www.legislation.gov.uk/nisr/2014/264), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/264/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/264/article/2/3)
+[^c-52a028d0f58b0fca7332c3960259576a]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/2012/422/article/7) substituted (1.11.2014) by [The Local Government (Indemnities for Members and Officers) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/264)](https://www.legislation.gov.uk/nisr/2014/264), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/264/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/264/article/2/3)

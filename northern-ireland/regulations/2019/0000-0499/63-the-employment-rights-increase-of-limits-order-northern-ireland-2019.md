@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Employment Rights (Increase of Limits) Order (Northern Ireland) 2019 (revoked)[^key-f0737c1b721caeafe7c91a62a2b074b6]
+The Employment Rights (Increase of Limits) Order (Northern Ireland) 2019 (revoked)[^c-f0737c1b721caeafe7c91a62a2b074b6]
 
 Made
 
@@ -42,31 +42,31 @@ Coming into operation
 
 6th April 2019
 
-[^key-f0737c1b721caeafe7c91a62a2b074b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0737c1b721caeafe7c91a62a2b074b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f0737c1b721caeafe7c91a62a2b074b6]
+## 1. Citation, commencement and interpretation[^c-f0737c1b721caeafe7c91a62a2b074b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-f0737c1b721caeafe7c91a62a2b074b6]
+## 2. Revocation[^c-f0737c1b721caeafe7c91a62a2b074b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-f0737c1b721caeafe7c91a62a2b074b6]
+## 3. Increase of limits[^c-f0737c1b721caeafe7c91a62a2b074b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-f0737c1b721caeafe7c91a62a2b074b6]
+## 4. Transitional provisions[^c-f0737c1b721caeafe7c91a62a2b074b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0737c1b721caeafe7c91a62a2b074b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0737c1b721caeafe7c91a62a2b074b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF INCREASE OF LIMITS[^key-f0737c1b721caeafe7c91a62a2b074b6]
+## SCHEDULE — TABLE OF INCREASE OF LIMITS[^c-f0737c1b721caeafe7c91a62a2b074b6]
 
 Article 3
 
@@ -74,8 +74,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-f0737c1b721caeafe7c91a62a2b074b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0737c1b721caeafe7c91a62a2b074b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0737c1b721caeafe7c91a62a2b074b6]: Textual amendment: Order revoked (6.4.2020) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2020 (S.R. 2020/42)](https://www.legislation.gov.uk/nisr/2020/42), [art. 2](https://www.legislation.gov.uk/nisr/2020/42/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2020/42/article/4))
+[^c-f0737c1b721caeafe7c91a62a2b074b6]: Textual amendment: Order revoked (6.4.2020) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2020 (S.R. 2020/42)](https://www.legislation.gov.uk/nisr/2020/42), [art. 2](https://www.legislation.gov.uk/nisr/2020/42/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2020/42/article/4))

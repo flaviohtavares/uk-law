@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Discretionary support Commissioner[^key-316809235defdc3d22a273cd0f9ab028]
+## 136. Discretionary support Commissioner[^c-316809235defdc3d22a273cd0f9ab028]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ in relation to the review of decisions of the Department.
 
 ## Annotations
 
-[^key-316809235defdc3d22a273cd0f9ab028]: Commencement: [Art. 136](https://www.legislation.gov.uk/nisi/2015/2006/article/136) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(f)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/f)
+[^c-316809235defdc3d22a273cd0f9ab028]: Commencement: [Art. 136](https://www.legislation.gov.uk/nisi/2015/2006/article/136) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(f)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/f)

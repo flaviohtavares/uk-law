@@ -46,13 +46,13 @@ In accordance with section 100(4) of that Act, a draft of this instrument has b
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-6828f486b3a10b06d349cf233cf77923]
+### 1. Citation and commencement[^c-6828f486b3a10b06d349cf233cf77923]
 
 (1) This Order may be cited as the Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010.
 
 (2) This Order comes into force on the same day as section 92 of the Protection of Vulnerable Groups (Scotland) Act 2007.
 
-### 2. Interpretation[^key-62278ad3af3ac87dd5989477738cfa71]
+### 2. Interpretation[^c-62278ad3af3ac87dd5989477738cfa71]
 
 In this Order—
 
@@ -62,11 +62,11 @@ In this Order—
 
 ## PART 2 — Amendment of the 2007 Act
 
-### 3. Amendment of the 2007 Act[^key-4a0ac03fabce3f6996d451cc71db17ba]
+### 3. Amendment of the 2007 Act[^c-4a0ac03fabce3f6996d451cc71db17ba]
 
 The 2007 Act is amended in accordance with articles 4 to 13.
 
-### 4. Amendment of section 10 (organisational referrals etc.) of the 2007 Act[^key-383d4a161289e2ce51208341d005b39c]
+### 4. Amendment of section 10 (organisational referrals etc.) of the 2007 Act[^c-383d4a161289e2ce51208341d005b39c]
 
 (1) Section 10 (organisational referrals etc.) of the 2007 Act is amended as follows.
 
@@ -83,7 +83,7 @@ The 2007 Act is amended in accordance with articles 4 to 13.
 
 (3) In subsection (4) after “work” insert “(if any)”.
 
-### 5. Amendment of section 18 (police information etc.) of the 2007 Act[^key-1999dbf01be32c51b89ca4254b64c426]
+### 5. Amendment of section 18 (police information etc.) of the 2007 Act[^c-1999dbf01be32c51b89ca4254b64c426]
 
 (1) Section 18 (police information etc.) of the 2007 Act is amended as follows.
 
@@ -93,7 +93,7 @@ The 2007 Act is amended in accordance with articles 4 to 13.
 
 (4) In subsection (3) after the word “authority” insert “or the Scottish Police Services Authority”.
 
-### 6. Amendment of section 38 (police access to lists) of the 2007 Act[^key-be7cf09527f0c472cd9317f6cf1100a9]
+### 6. Amendment of section 38 (police access to lists) of the 2007 Act[^c-be7cf09527f0c472cd9317f6cf1100a9]
 
 (1) Section 38 (police access to lists) is amended as follows.
 
@@ -101,7 +101,7 @@ The 2007 Act is amended in accordance with articles 4 to 13.
 
 (3) In subsection (2) after “forces” insert “, the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency”.
 
-### 7. Amendment of section 39 (restrictions on listing in children’s list) of the 2007 Act[^key-219caf4e532a6095c84b31bc952aa301]
+### 7. Amendment of section 39 (restrictions on listing in children’s list) of the 2007 Act[^c-219caf4e532a6095c84b31bc952aa301]
 
 (1) Section 39 (restrictions on listing in children’s list) of the 2007 Act is amended as follows.
 
@@ -146,7 +146,7 @@ The 2007 Act is amended in accordance with articles 4 to 13.
 
 .
 
-### 8. Amendment of section 40 (restrictions on listing in adults’ list) of the 2007 Act[^key-8dabab928d67c8c77c09bde64e376c50]
+### 8. Amendment of section 40 (restrictions on listing in adults’ list) of the 2007 Act[^c-8dabab928d67c8c77c09bde64e376c50]
 
 (1) Section 40 (restrictions on listing in adults’ list) of the 2007 Act is amended as follows.
 
@@ -188,11 +188,11 @@ The 2007 Act is amended in accordance with articles 4 to 13.
 
 .
 
-### 9. Amendment of section 41 (proceedings from actions for damages) of the 2007 Act[^key-f1d9041ec3a126ed6e078fb5d8e1b458]
+### 9. Amendment of section 41 (proceedings from actions for damages) of the 2007 Act[^c-f1d9041ec3a126ed6e078fb5d8e1b458]
 
 In section 41(1)(c) and (2)(b) of the 2007 Act, after the words “18 to 20” insert in each place “(or of any other power or duty to provide information to Ministers in relation to their functions under this Part)”.
 
-### 10. Amendment of section 75 (sources of information) of the 2007 Act[^key-50d2fcc45702b481674d83dbd7dbfa8b]
+### 10. Amendment of section 75 (sources of information) of the 2007 Act[^c-50d2fcc45702b481674d83dbd7dbfa8b]
 
 (1) Section 75 (sources of information) of the 2007 Act is amended as follows.
 
@@ -204,7 +204,7 @@ In section 41(1)(c) and (2)(b) of the 2007 Act, after the words “18 to 20” i
 
 (5) In subsection (5) after “63(4)” insert “(or in pursuance of any other power or duty to provide information to Ministers in relation to their functions under this Part)”.
 
-### 11. Amendment of section 76 (police access to scheme information) of the 2007 Act[^key-68b90151c5835a300df1c50250f4325d]
+### 11. Amendment of section 76 (police access to scheme information) of the 2007 Act[^c-68b90151c5835a300df1c50250f4325d]
 
 (1) Section 76 (police access to scheme information) is amended as follows.
 
@@ -214,17 +214,17 @@ In section 41(1)(c) and (2)(b) of the 2007 Act, after the words “18 to 20” i
 
 (4) In subsection (2) for “and the Scottish Police Services Authority” substitute “, the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency”.
 
-### 12. Modification of schedule 2 (regulated work with children) to the 2007 Act[^key-e0305f034b93a897b6c3528f8118551a]
+### 12. Modification of schedule 2 (regulated work with children) to the 2007 Act[^c-e0305f034b93a897b6c3528f8118551a]
 
 In paragraph 1 of schedule 2 (regulated work with children) to the 2007 Act for “work” where it appears for the second time substitute “work done in Scotland”.
 
-### 13. Modification of schedule 3 (regulated work with adults) to the 2007 Act[^key-c225475d825ef6cf81e3aa5f2a7de1fd]
+### 13. Modification of schedule 3 (regulated work with adults) to the 2007 Act[^c-c225475d825ef6cf81e3aa5f2a7de1fd]
 
 In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for “work” where it appears for the second time substitute “work done in Scotland”.
 
 ## PART 3 — Provision of Information by Ministers and Double Barring
 
-### 14. Provision of information by Ministers to the Independent Safeguarding Authority, the Secretary of State and the Department of Justice in Northern Ireland[^key-19ba2cfdb00825473baae76c235893b6]
+### 14. Provision of information by Ministers to the Independent Safeguarding Authority, the Secretary of State and the Department of Justice in Northern Ireland[^c-19ba2cfdb00825473baae76c235893b6]
 
 (1) Ministers may provide to a person specified in paragraph (2) (for the purposes specified in paragraph (2) in relation to such a person) any information specified in paragraph (3).
 
@@ -245,7 +245,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (d) the fact that Ministers have decided not to list an individual in the children’s list, adults’ list or both lists, as the case may be;
 - (e) such information held by Ministers which they consider would enable or assist a person specified in paragraph (2) to be satisfied as to the identity of an individual referred to in subparagraphs (a) to (d).
 
-### 15. Provision of further information by Ministers to Independent Safeguarding Authority[^key-45c475abb7ce4ce05efbcf5e34c88dc8]
+### 15. Provision of further information by Ministers to Independent Safeguarding Authority[^c-45c475abb7ce4ce05efbcf5e34c88dc8]
 
 (1) Ministers may, for the purposes specified in paragraph (2), provide to the Independent Safeguarding Authority any information relating to an individual that they hold or have obtained by virtue of performing their functions under the Protection of Children (Scotland) Act 2003[^f00004] or under Parts 1 and 2 of the 2007 Act as they consider appropriate.
 
@@ -254,7 +254,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (a) to enable or assist ISA to determine whether to include an individual in, or remove an individual from, the children’s barred list or adults’ barred list maintained under section 2 of the 2006 Act; or
 - (b) to enable or assist ISA to determine whether to include an individual in, or remove an individual from, the children’s barred list or adults’ barred list maintained under Article 6 of the SVG (NI) Order 2007.
 
-### 16. Provision of lists by Ministers to police[^key-8cbdc4402af2aff49ffe5cbaa77ed911]
+### 16. Provision of lists by Ministers to police[^c-8cbdc4402af2aff49ffe5cbaa77ed911]
 
 (1) Ministers may provide to a person specified in paragraph (2)—
 
@@ -265,7 +265,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 (2) The persons specified are—
 
 - (a) the chief officer of a police force in England and Wales;
-- (b)[^key-b17a86f4c7d149d7be7745931f73608c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b17a86f4c7d149d7be7745931f73608c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Chief Constable of the Police Service of Northern Ireland;
 - (d) the Royal Navy Police;
 - (e) the Royal Military Police;
@@ -273,8 +273,8 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (g) the Ministry of Defence Police;
 - (h) the British Transport Police;
 - (i) the Civil Nuclear Constabulary;
-- (j)[^key-f3790e73ca678c2789ea06612d7cfb3d] the National Crime Agency;
-- (k)[^key-1b5f1e71c6e2e124fb6aeab72412f33b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-f3790e73ca678c2789ea06612d7cfb3d] the National Crime Agency;
+- (k)[^c-1b5f1e71c6e2e124fb6aeab72412f33b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) the States of Jersey Police Force;
 - (m) the salaried police force of the Island of Guernsey;
 - (n) the Isle of Man Constabulary; and
@@ -285,7 +285,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (a) the prevention or detection of crime; or
 - (b) the apprehension or prosecution of offenders.
 
-**16A.**[^key-1d025bf516dcb20b1d2625a3afc0cda8] (1) Where the United Kingdom Central Authority requests the information specified in paragraph (2) in relation to any individual, Scottish Ministers must provide that information to the United Kingdom Central Authority if they hold that information by virtue of performing their functions under Part 1 of the 2007 Act.
+**16A.**[^c-1d025bf516dcb20b1d2625a3afc0cda8] (1) Where the United Kingdom Central Authority requests the information specified in paragraph (2) in relation to any individual, Scottish Ministers must provide that information to the United Kingdom Central Authority if they hold that information by virtue of performing their functions under Part 1 of the 2007 Act.
 
 (2) The information specified is the fact that an individual is included in the children’s list (kept by Scottish Ministers under section 1(1)(a) of the 2007 Act) as a result of a conviction for any of the offences referred to in Articles 3 to 7 of the Directive.
 
@@ -294,12 +294,12 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (a) “the Directive” means Directive 2011/93/EU of the European Parliament and of the Council on combating the sexual abuse and sexual exploitation of children and child pornography, and replacing Council Framework Decision 2004/68/JHA; and
 - (b) “United Kingdom Central Authority” means the person designated as the United Kingdom Central Authority under Article 3 of Council Framework Decision 2009/315/JHA on the organisation and content of the exchange of information extracted from the criminal record between Member States.
 
-### 17. Provision of Scheme information by Ministers to police[^key-f2b43d86eb4007bcdde664c997047ed6]
+### 17. Provision of Scheme information by Ministers to police[^c-f2b43d86eb4007bcdde664c997047ed6]
 
 (1) Ministers may provide to a person specified in paragraph (2)—
 
 - (a) the name of each individual participating in the Scheme;
-- (b) confirmation of whether each individual participates in the Scheme in relation to regulated roles[^key-b6e96ace5e7fc69206f0ceca1b7775d1] with—
+- (b) confirmation of whether each individual participates in the Scheme in relation to regulated roles[^c-b6e96ace5e7fc69206f0ceca1b7775d1] with—
   - (i) children;
   - (ii) adults; or
   - (iii) both;
@@ -308,7 +308,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 (2) The persons specified are—
 
 - (a) the chief officer of a police force in England and Wales;
-- (b)[^key-6f838b55e4e6f93c61b7ad6624d57b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6f838b55e4e6f93c61b7ad6624d57b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Chief Constable of the Police Service of Northern Ireland;
 - (d) the Royal Navy Police;
 - (e) the Royal Military Police;
@@ -316,8 +316,8 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (g) the Ministry of Defence Police;
 - (h) the British Transport Police;
 - (i) the Civil Nuclear Constabulary;
-- (j)[^key-549f04fcfc96d93f9e814354d3e60b06] the National Crime Agency;
-- (k)[^key-318471fe1549dc9ddcdadf88f8e6fe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-549f04fcfc96d93f9e814354d3e60b06] the National Crime Agency;
+- (k)[^c-318471fe1549dc9ddcdadf88f8e6fe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) the States of Jersey Police Force;
 - (m) the salaried police force of the Island of Guernsey;
 - (n) the Isle of Man Constabulary; and
@@ -329,7 +329,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (b) the prevention or detection of crime; or
 - (c) the apprehension or prosecution of offenders.
 
-### 18. Double barring in England and Wales[^key-d0ebc5e1fc3100b3ac7c275c5f817d2d]
+### 18. Double barring in England and Wales[^c-d0ebc5e1fc3100b3ac7c275c5f817d2d]
 
 (1) Ministers may remove an individual from the children’s list where—
 
@@ -341,7 +341,7 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 - (a) an individual is included in both the adult’s list and the adults’ barred list maintained under section 2 of the 2006 Act; and
 - (b) Ministers consider that it would be more appropriate for the individual to be included in the adults’ barred list maintained under section 2 of the 2006 Act than in the adults’ list.
 
-### 19. Double barring in Northern Ireland[^key-c98343398effd4cc865cf7674d620240]
+### 19. Double barring in Northern Ireland[^c-c98343398effd4cc865cf7674d620240]
 
 (1) Ministers may remove an individual from the children’s list where—
 
@@ -355,15 +355,15 @@ In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for �
 
 ## PART 4 — Minor Amendments and Repeals
 
-### 20. Amendment to the Teaching Council (Scotland) Act 1965[^key-76de832c6d845ab6e2b39badff716c8f]
+### 20. Amendment to the Teaching Council (Scotland) Act 1965[^c-76de832c6d845ab6e2b39badff716c8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Repeal of paragraph 2 of schedule 4 to the 2007 Act[^key-748f5c7d97a8a61050a23adb4831d208]
+### 21. Repeal of paragraph 2 of schedule 4 to the 2007 Act[^c-748f5c7d97a8a61050a23adb4831d208]
 
 Paragraph 2 of schedule 4 (minor and consequential amendments to the Teaching Council (Scotland) Act 1965) to the 2007 Act is repealed.
 
-### 22. Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010[^key-9a05444d7168894cfbdf929043ef69d6]
+### 22. Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010[^c-9a05444d7168894cfbdf929043ef69d6]
 
 The Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010[^f00006] are amended as follows—
 
@@ -434,70 +434,70 @@ Article 22 makes minor consequential amendments to the Protection of Vulnerable 
 
 [^f00001]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-6828f486b3a10b06d349cf233cf77923]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/446/article/1) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-6828f486b3a10b06d349cf233cf77923]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/446/article/1) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-62278ad3af3ac87dd5989477738cfa71]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/446/article/2) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-62278ad3af3ac87dd5989477738cfa71]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/446/article/2) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
 [^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00003]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-4a0ac03fabce3f6996d451cc71db17ba]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2010/446/article/3) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-4a0ac03fabce3f6996d451cc71db17ba]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2010/446/article/3) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-383d4a161289e2ce51208341d005b39c]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2010/446/article/4) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-383d4a161289e2ce51208341d005b39c]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2010/446/article/4) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-1999dbf01be32c51b89ca4254b64c426]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2010/446/article/5) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-1999dbf01be32c51b89ca4254b64c426]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2010/446/article/5) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-be7cf09527f0c472cd9317f6cf1100a9]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2010/446/article/6) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-be7cf09527f0c472cd9317f6cf1100a9]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2010/446/article/6) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-219caf4e532a6095c84b31bc952aa301]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2010/446/article/7) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-219caf4e532a6095c84b31bc952aa301]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2010/446/article/7) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-8dabab928d67c8c77c09bde64e376c50]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2010/446/article/8) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-8dabab928d67c8c77c09bde64e376c50]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2010/446/article/8) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-f1d9041ec3a126ed6e078fb5d8e1b458]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2010/446/article/9) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-f1d9041ec3a126ed6e078fb5d8e1b458]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2010/446/article/9) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-50d2fcc45702b481674d83dbd7dbfa8b]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2010/446/article/10) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-50d2fcc45702b481674d83dbd7dbfa8b]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2010/446/article/10) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-68b90151c5835a300df1c50250f4325d]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2010/446/article/11) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-68b90151c5835a300df1c50250f4325d]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2010/446/article/11) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-e0305f034b93a897b6c3528f8118551a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2010/446/article/12) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-e0305f034b93a897b6c3528f8118551a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2010/446/article/12) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-c225475d825ef6cf81e3aa5f2a7de1fd]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2010/446/article/13) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-c225475d825ef6cf81e3aa5f2a7de1fd]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2010/446/article/13) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-19ba2cfdb00825473baae76c235893b6]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2010/446/article/14) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-19ba2cfdb00825473baae76c235893b6]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2010/446/article/14) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-45c475abb7ce4ce05efbcf5e34c88dc8]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2010/446/article/15) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-45c475abb7ce4ce05efbcf5e34c88dc8]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2010/446/article/15) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
 [^f00004]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5).
 
-[^key-8cbdc4402af2aff49ffe5cbaa77ed911]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2010/446/article/16) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-8cbdc4402af2aff49ffe5cbaa77ed911]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2010/446/article/16) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-b17a86f4c7d149d7be7745931f73608c]: Textual amendment: [Art. 16(2)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/b) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/a)
+[^c-b17a86f4c7d149d7be7745931f73608c]: Textual amendment: [Art. 16(2)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/b) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/a)
 
-[^key-f3790e73ca678c2789ea06612d7cfb3d]: Textual amendment: [Art. 16(2)(j)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/j) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/b)
+[^c-f3790e73ca678c2789ea06612d7cfb3d]: Textual amendment: [Art. 16(2)(j)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/j) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/b)
 
-[^key-1b5f1e71c6e2e124fb6aeab72412f33b]: Textual amendment: [Art. 16(2)(k)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/k) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/a)
+[^c-1b5f1e71c6e2e124fb6aeab72412f33b]: Textual amendment: [Art. 16(2)(k)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/k) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/a)
 
-[^key-1d025bf516dcb20b1d2625a3afc0cda8]: Textual amendment: [Art. 16A](https://www.legislation.gov.uk/ssi/2010/446/article/16A) inserted (16.3.2014) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Amendment Order 2014 (S.S.I. 2014/33)](https://www.legislation.gov.uk/ssi/2014/33), [arts. 1](https://www.legislation.gov.uk/ssi/2014/33/article/1), [2](https://www.legislation.gov.uk/ssi/2014/33/article/2)
+[^c-1d025bf516dcb20b1d2625a3afc0cda8]: Textual amendment: [Art. 16A](https://www.legislation.gov.uk/ssi/2010/446/article/16A) inserted (16.3.2014) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Amendment Order 2014 (S.S.I. 2014/33)](https://www.legislation.gov.uk/ssi/2014/33), [arts. 1](https://www.legislation.gov.uk/ssi/2014/33/article/1), [2](https://www.legislation.gov.uk/ssi/2014/33/article/2)
 
-[^key-f2b43d86eb4007bcdde664c997047ed6]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2010/446/article/17) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-f2b43d86eb4007bcdde664c997047ed6]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2010/446/article/17) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-b6e96ace5e7fc69206f0ceca1b7775d1]: Textual amendment: Word in [art. 17(1)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/17/1/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/7) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-b6e96ace5e7fc69206f0ceca1b7775d1]: Textual amendment: Word in [art. 17(1)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/17/1/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/7) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
-[^key-6f838b55e4e6f93c61b7ad6624d57b0a]: Textual amendment: [Art. 17(2)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/b) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/a)
+[^c-6f838b55e4e6f93c61b7ad6624d57b0a]: Textual amendment: [Art. 17(2)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/b) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/a)
 
-[^key-549f04fcfc96d93f9e814354d3e60b06]: Textual amendment: [Art. 17(2)(j)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/j) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/b)
+[^c-549f04fcfc96d93f9e814354d3e60b06]: Textual amendment: [Art. 17(2)(j)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/j) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/b)
 
-[^key-318471fe1549dc9ddcdadf88f8e6fe33]: Textual amendment: [Art. 17(2)(k)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/k) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/a)
+[^c-318471fe1549dc9ddcdadf88f8e6fe33]: Textual amendment: [Art. 17(2)(k)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/k) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/a)
 
-[^key-d0ebc5e1fc3100b3ac7c275c5f817d2d]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2010/446/article/18) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-d0ebc5e1fc3100b3ac7c275c5f817d2d]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2010/446/article/18) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-c98343398effd4cc865cf7674d620240]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2010/446/article/19) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-c98343398effd4cc865cf7674d620240]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2010/446/article/19) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-76de832c6d845ab6e2b39badff716c8f]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/ssi/2010/446/article/20) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-76de832c6d845ab6e2b39badff716c8f]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/ssi/2010/446/article/20) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
-[^key-748f5c7d97a8a61050a23adb4831d208]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2010/446/article/21) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-748f5c7d97a8a61050a23adb4831d208]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2010/446/article/21) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
-[^key-9a05444d7168894cfbdf929043ef69d6]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2010/446/article/22) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+[^c-9a05444d7168894cfbdf929043ef69d6]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2010/446/article/22) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
 
 [^f00006]: Footnote: [S.S.I. 2010/183](https://www.legislation.gov.uk/ssi/2010/183).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32A. Special health mark[^key-e4bbbb027be07864eb92e5e739f4a6c9]
+## 32A. Special health mark[^c-e4bbbb027be07864eb92e5e739f4a6c9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4bbbb027be07864eb92e5e739f4a6c9]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/ssi/2006/3/regulation/32A) revoked (1.6.2014) by [The Food Hygiene (Scotland) Amendment Regulations 2014 (S.S.I. 2014/118)](https://www.legislation.gov.uk/ssi/2014/118), [regs. 1](https://www.legislation.gov.uk/ssi/2014/118/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/118/regulation/2/2)
+[^c-e4bbbb027be07864eb92e5e739f4a6c9]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/ssi/2006/3/regulation/32A) revoked (1.6.2014) by [The Food Hygiene (Scotland) Amendment Regulations 2014 (S.S.I. 2014/118)](https://www.legislation.gov.uk/ssi/2014/118), [regs. 1](https://www.legislation.gov.uk/ssi/2014/118/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/118/regulation/2/2)

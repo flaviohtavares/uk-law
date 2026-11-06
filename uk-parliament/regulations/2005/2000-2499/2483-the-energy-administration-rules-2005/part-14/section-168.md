@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. Right to copy documents[^key-ac43425ed960578025100725f42d52af]
+## 168. Right to copy documents[^c-ac43425ed960578025100725f42d52af]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where the 1986 Act or the Rules confer a right for any person to inspect documen
 
 ## Annotations
 
-[^key-ac43425ed960578025100725f42d52af]: Commencement: Rule 168 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-ac43425ed960578025100725f42d52af]: Commencement: Rule 168 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00025]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).

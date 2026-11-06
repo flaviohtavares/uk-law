@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Unfit directors of insolvent companies: extension of period for applying for disqualification order[^key-01fc7961086a9db2591e0a3eed608c93][^key-18ef16138be68eb61331601aeba6f505]
+## 108. Unfit directors of insolvent companies: extension of period for applying for disqualification order[^c-01fc7961086a9db2591e0a3eed608c93][^c-18ef16138be68eb61331601aeba6f505]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01fc7961086a9db2591e0a3eed608c93]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2015/26/section/108) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-01fc7961086a9db2591e0a3eed608c93]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2015/26/section/108) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-18ef16138be68eb61331601aeba6f505]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2015/26/section/108) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/e)
+[^c-18ef16138be68eb61331601aeba6f505]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2015/26/section/108) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/e)

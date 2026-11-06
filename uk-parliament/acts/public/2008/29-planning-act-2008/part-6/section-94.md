@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Hearings: general provisions[^key-48275cd9e28802f867e793615dab36d6]
+## 94. Hearings: general provisions[^c-48275cd9e28802f867e793615dab36d6]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 (2) The hearing—
 
 - (a) must be in public, and
-- (b) must be presided over by one or more of the members of the Panel or (as the case may be) the single appointed person[^key-1a5c4138a3d84f4151e598c655b30b08].
+- (b) must be presided over by one or more of the members of the Panel or (as the case may be) the single appointed person[^c-1a5c4138a3d84f4151e598c655b30b08].
 
 (3) It is for the Examining authority to decide how the hearing is to be conducted.
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48275cd9e28802f867e793615dab36d6]: Commencement: S. 94 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-48275cd9e28802f867e793615dab36d6]: Commencement: S. 94 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-1a5c4138a3d84f4151e598c655b30b08]: Textual amendment: Words in s. 94(2)(b) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/41); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-1a5c4138a3d84f4151e598c655b30b08]: Textual amendment: Words in s. 94(2)(b) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/41); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

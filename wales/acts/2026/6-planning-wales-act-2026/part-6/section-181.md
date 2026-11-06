@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Charities: exemption from liability[^key-5af67fed034b219e035cfe9edd96cd16]
+## 181. Charities: exemption from liability[^c-5af67fed034b219e035cfe9edd96cd16]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5af67fed034b219e035cfe9edd96cd16]: Commencement: S. 181 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5af67fed034b219e035cfe9edd96cd16]: Commencement: S. 181 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

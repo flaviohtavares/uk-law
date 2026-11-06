@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Investigation of incidents with safety implications[^key-514a82f8797552706197899644f463a4][^key-f290a23db873dd9782aa4db4afe3ffe9]
+## 110. Investigation of incidents with safety implications[^c-514a82f8797552706197899644f463a4][^c-f290a23db873dd9782aa4db4afe3ffe9]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-514a82f8797552706197899644f463a4]: Commencement: S. 110 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-514a82f8797552706197899644f463a4]: Commencement: S. 110 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f290a23db873dd9782aa4db4afe3ffe9]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/31/section/110) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-f290a23db873dd9782aa4db4afe3ffe9]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/31/section/110) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

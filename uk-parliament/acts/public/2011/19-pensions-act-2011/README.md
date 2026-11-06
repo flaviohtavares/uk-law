@@ -88,7 +88,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 27 — Technical amendment to Schedule 4 to the Pensions Act 2007](part-3/section-27.md)
 - [Section 28 — Technical amendment to section 42(6) of the Pension Schemes Act 1993](part-3/section-28.md)
 
-### Part 4 — Money purchase benefits[^key-86dfd89047d10de5cccbfc9a533a183d]
+### Part 4 — Money purchase benefits[^c-86dfd89047d10de5cccbfc9a533a183d]
 
 - [Section 29 — Definition of money purchase benefits](part-4/section-29.md)
 - [Section 30 — Transitional](part-4/section-30.md)
@@ -125,4 +125,4 @@ SCHEDULES
 
 [^c2114345]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-86dfd89047d10de5cccbfc9a533a183d]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2011/19/part/4) excluded (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1); coming into force immediately after s. 29 of Pensions Act 2011 - see S.I. 2014/1683, art. 2
+[^c-86dfd89047d10de5cccbfc9a533a183d]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2011/19/part/4) excluded (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1); coming into force immediately after s. 29 of Pensions Act 2011 - see S.I. 2014/1683, art. 2

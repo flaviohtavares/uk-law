@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Conversion of existing transmission licences[^key-37308eabd2cceaaf924d7a2ce3077251]
+## 138. Conversion of existing transmission licences[^c-37308eabd2cceaaf924d7a2ce3077251]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 17 (which makes provision for a licensing scheme in relation to existin
 
 ## Annotations
 
-[^key-37308eabd2cceaaf924d7a2ce3077251]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2004/20/section/138) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-37308eabd2cceaaf924d7a2ce3077251]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2004/20/section/138) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

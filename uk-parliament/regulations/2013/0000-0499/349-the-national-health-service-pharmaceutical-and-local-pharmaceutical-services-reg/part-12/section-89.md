@@ -23,7 +23,7 @@ summary: ''
 (1) The Drug Tariff referred to in section 127(4) of the 2006 Act (arrangements for additional pharmaceutical services) is the aggregate of—
 
 - (a) the determinations of remuneration made by the Secretary of State, acting as a determining authority, under section 164 of the 2006 Act [^c21647101] (remuneration for persons providing pharmaceutical services), but not of the remuneration of dispensing doctors;
-- (b) the determinations of remuneration made by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5], acting as a determining authority, pursuant to regulation 91(1); and
+- (b) the determinations of remuneration made by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5], acting as a determining authority, pursuant to regulation 91(1); and
 - (c) any other instruments that the Secretary of State is required by virtue of these Regulations or the 2006 Act to publish, or does publish, together with those determinations,
 
 in the publication known as the Drug Tariff, which the Secretary of State shall publish in such format as the Secretary of State thinks fit.
@@ -53,4 +53,4 @@ in the publication known as the Drug Tariff, which the Secretary of State shall 
 
 [^c21647101]: Marginal citation: [Section 164](https://www.legislation.gov.uk/uksi/2013/349/section/164) has been amended by the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [section 141(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/141/1), and Schedule 15, Part 4, and by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4), [paragraph 89](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/89).
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

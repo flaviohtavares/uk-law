@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Representations regarding clerical errors[^key-c7ff4dacebb15556a0ae34aba0d8e15a]
+## 24. Representations regarding clerical errors[^c-c7ff4dacebb15556a0ae34aba0d8e15a]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ff4dacebb15556a0ae34aba0d8e15a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2006/2910/regulation/24) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-c7ff4dacebb15556a0ae34aba0d8e15a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2006/2910/regulation/24) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

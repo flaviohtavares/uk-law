@@ -35,58 +35,58 @@ on European demographic statistics
 
 (Text with EEA relevance) (revoked)
 
-[^key-bf4bee25f284b376cd03a91173aa11a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf4bee25f284b376cd03a91173aa11a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-bf4bee25f284b376cd03a91173aa11a0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 1. Subject matter[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data on population and on vital events[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 2. Definitions[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Total population for specific Union purposes[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 3. Data on population and on vital events[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Frequency and reference time[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 4. Total population for specific Union purposes[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Provision of data and metadata[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 5. Frequency and reference time[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Data sources[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 6. Provision of data and metadata[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Feasibility studies[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 7. Data sources[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Quality requirements[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 8. Feasibility studies[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Committee procedure[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 9. Quality requirements[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Review Clause[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 10. Committee procedure[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-bf4bee25f284b376cd03a91173aa11a0]
+## Article 11. Review Clause[^c-bf4bee25f284b376cd03a91173aa11a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf4bee25f284b376cd03a91173aa11a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 12. Entry into force[^c-bf4bee25f284b376cd03a91173aa11a0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bf4bee25f284b376cd03a91173aa11a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf4bee25f284b376cd03a91173aa11a0]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 222](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/222); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf4bee25f284b376cd03a91173aa11a0]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 222](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/222); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Extinguishment of public rights of way[^key-722c61ad8ac1badebe60f3950d12473a]
+## 28. Extinguishment of public rights of way[^c-722c61ad8ac1badebe60f3950d12473a]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-722c61ad8ac1badebe60f3950d12473a]: Commencement: Art. 28 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-722c61ad8ac1badebe60f3950d12473a]: Commencement: Art. 28 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

@@ -22,13 +22,13 @@ summary: ''
 
 (1) Scottish Water may engage in any activity (whether in Scotland or elsewhere) which it considers is not inconsistent with the economic, efficient and effective exercise of its core functions (within the meaning of section 70(2)).
 
-(1A)[^key-329db45c886320617da8fd5b073ad929] Subsection (1) extends to allowing Scottish Water to engage in any activity that it considers will assist in the development of the value of Scotland's water resources (as construed in accordance with section 1 of the Water Resources (Scotland) Act 2013).
+(1A)[^c-329db45c886320617da8fd5b073ad929] Subsection (1) extends to allowing Scottish Water to engage in any activity that it considers will assist in the development of the value of Scotland's water resources (as construed in accordance with section 1 of the Water Resources (Scotland) Act 2013).
 
 (2) Scottish Water may do anything (whether in Scotland or elsewhere) which it considers is necessary or expedient for the purpose of or in connection with its functions (including any activity in which it engages by virtue of subsection (1)).
 
 (3) The power in subsection (2) includes, in particular, power to—
 
-- (a) form or promote (whether alone or with others) companies under the Companies Act 2006[^key-a77235ca69af94efdfd15f92c6a94da8] ,
+- (a) form or promote (whether alone or with others) companies under the Companies Act 2006[^c-a77235ca69af94efdfd15f92c6a94da8] ,
 - (b) subscribe for share or loan capital of any person,
 - (c) guarantee the discharge of any obligation (whether financial or not) of any person,
 - (d) form partnerships, enter into arrangements or agreements and co-operate in any way with any person,
@@ -50,6 +50,6 @@ the power in subsection (2) also includes power to enter into a contract with th
 
 ## Annotations
 
-[^key-329db45c886320617da8fd5b073ad929]: Textual amendment: S. 25(1A) inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 23](https://www.legislation.gov.uk/asp/2013/5/section/23), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-329db45c886320617da8fd5b073ad929]: Textual amendment: S. 25(1A) inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 23](https://www.legislation.gov.uk/asp/2013/5/section/23), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
 
-[^key-a77235ca69af94efdfd15f92c6a94da8]: Textual amendment: Words in s. 25(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 200(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/200/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-a77235ca69af94efdfd15f92c6a94da8]: Textual amendment: Words in s. 25(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 200(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/200/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

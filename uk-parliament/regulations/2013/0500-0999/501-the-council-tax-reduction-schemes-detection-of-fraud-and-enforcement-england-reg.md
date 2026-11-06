@@ -174,13 +174,13 @@ and for the purposes of this paragraph it is immaterial whether the information 
 
 - “**bank**” means—
   - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 [^c21683321] to accept deposits;
-  - (b) [^key-c414d29f3cd7f92e0bf01cc8e957da78]... or
+  - (b) [^c-c414d29f3cd7f92e0bf01cc8e957da78]... or
   - (c) a person who does not require permission under that Act to accept deposits in the course of that person's business in the United Kingdom;
 - “**credit**” includes a cash loan or any form of financial accommodation, including the cashing of a cheque;
 - “**family**” has the meaning given in paragraph 6 of the Default Scheme;
 - “**insurer**” means—
-  - (d) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance; [^key-335973ee6a54e69c0b66e3d28c36aa4a]...
-  - (e) [^key-335973ee6a54e69c0b66e3d28c36aa4a]...
+  - (d) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance; [^c-335973ee6a54e69c0b66e3d28c36aa4a]...
+  - (e) [^c-335973ee6a54e69c0b66e3d28c36aa4a]...
 - “**partner**” has the meaning given in paragraph 2 of the Default Scheme.
 
 (11) The definitions of “bank” and “insurer” in paragraph (10) must be read with—
@@ -428,8 +428,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c21683321]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-c414d29f3cd7f92e0bf01cc8e957da78]: Textual amendment: Words in reg. 4(10) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 74(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/74/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c414d29f3cd7f92e0bf01cc8e957da78]: Textual amendment: Words in reg. 4(10) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 74(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/74/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-335973ee6a54e69c0b66e3d28c36aa4a]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2013/501/regulation/4/10) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 74(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/74/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-335973ee6a54e69c0b66e3d28c36aa4a]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2013/501/regulation/4/10) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 74(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/74/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21683371]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14); sub-paragraph (4) was inserted by section 14 of the [Local Government Finance Act 2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17).

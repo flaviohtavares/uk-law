@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35B. Climate change plan: annual progress reports[^key-0c5b09b3459f04a18cc69ccc38e8c864]
+## 35B. Climate change plan: annual progress reports[^c-0c5b09b3459f04a18cc69ccc38e8c864]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Each report laid under subsection (1) must contain an assessment of progress towards implementing the proposals and policies set out in that chapter, including proposals and policies for supporting the workforce, employers and communities.
 
-(2A)[^key-f7e11c5ddcc625f0393cb901be3f524a] If, when preparing a report under subsection (1), the Scottish Ministers’ assessment of progress is such that they consider that it is more likely than not that an emissions reduction target will not be met, the report must also explain—
+(2A)[^c-f7e11c5ddcc625f0393cb901be3f524a] If, when preparing a report under subsection (1), the Scottish Ministers’ assessment of progress is such that they consider that it is more likely than not that an emissions reduction target will not be met, the report must also explain—
 
 - (a) why they consider that to be the case, and
 - (b) what they intend to do to ensure the target is met, including details of any changes to policies that will be implemented during the period covered by a Scottish carbon budget in which the report is laid.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f7e11c5ddcc625f0393cb901be3f524a]: Textual amendment: [S. 35B(2A)](https://www.legislation.gov.uk/asp/2009/12/section/35B/2A) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/15/section/9/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-f7e11c5ddcc625f0393cb901be3f524a]: Textual amendment: [S. 35B(2A)](https://www.legislation.gov.uk/asp/2009/12/section/35B/2A) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/15/section/9/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

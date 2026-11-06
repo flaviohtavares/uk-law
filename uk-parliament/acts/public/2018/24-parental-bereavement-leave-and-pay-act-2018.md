@@ -36,7 +36,7 @@ An Act to make provision about leave and pay for employees whose children have d
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Parental bereavement leave and pay[^key-0bf979bf74a3fce32bc1dd815ebeb4d7]
+## 1. Parental bereavement leave and pay[^c-0bf979bf74a3fce32bc1dd815ebeb4d7]
 
 In the Schedule—
 
@@ -60,9 +60,9 @@ Section 1
 
 ### PART 1 — Parental bereavement leave
 
-**1.**[^key-737e16be875b4b2580bdc7fac95ea93d] The Employment Rights Act 1996 is amended as follows.
+**1.**[^c-737e16be875b4b2580bdc7fac95ea93d] The Employment Rights Act 1996 is amended as follows.
 
-**2.**[^key-4fdf96a39bf15526d01fe83bf9bc5dc0] After section 80E insert—
+**2.**[^c-4fdf96a39bf15526d01fe83bf9bc5dc0] After section 80E insert—
 
 > **CHAPTER 4 — Parental bereavement leave**
 >
@@ -155,13 +155,13 @@ Section 1
 > - (a) references to a child include a child stillborn after twenty-four weeks of pregnancy, and
 > - (b) references to the death of a child are to be read, in relation to a stillborn child, as references to the birth of the child.
 
-**3.**[^key-618d79c0b7cde7c225c5de2cc25d97a8] In section 236(3) (orders and regulations subject to affirmative procedure), after “80B” insert “ , 80EA ”.
+**3.**[^c-618d79c0b7cde7c225c5de2cc25d97a8] In section 236(3) (orders and regulations subject to affirmative procedure), after “80B” insert “ , 80EA ”.
 
 ### PART 2 — Parental bereavement pay
 
-**4.**[^key-c96ae480f0ec226ec13d1a4bf3329d17] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+**4.**[^c-c96ae480f0ec226ec13d1a4bf3329d17] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
-**5.**[^key-0e38b84217651789c60d20209e174883] After section 171ZZ5 insert—
+**5.**[^c-0e38b84217651789c60d20209e174883] After section 171ZZ5 insert—
 
 > **PART 12ZD — Statutory parental bereavement pay**
 >
@@ -351,13 +351,13 @@ Section 1
 
 .
 
-**6.**[^key-3e003065d60c273b083800d54083082b] In section 176(1) of that Act (instruments subject to affirmative procedure), in paragraph (a), at the appropriate place insert— “ any of sections 171ZZ6 to 171ZZ9; ”.
+**6.**[^c-3e003065d60c273b083800d54083082b] In section 176(1) of that Act (instruments subject to affirmative procedure), in paragraph (a), at the appropriate place insert— “ any of sections 171ZZ6 to 171ZZ9; ”.
 
 ### PART 3 — Further amendments to do with parental bereavement leave and pay
 
 #### Social Security Act 1989
 
-**7.**[^key-fd13670e57c7e558eddf0e5c6f6db67d] In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5C insert—
+**7.**[^c-fd13670e57c7e558eddf0e5c6f6db67d] In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5C insert—
 
 > **Unfair parental bereavement leave provisions**
 >
@@ -394,7 +394,7 @@ Section 1
 
 #### Finance Act 1989
 
-**8.**[^key-b2d2d0875e8f43aa0fc79b9eacd188ac] (1) Section 182 of the Finance Act 1989 (offences relating to disclosure of information relating to social security functions etc) is amended as follows.
+**8.**[^c-b2d2d0875e8f43aa0fc79b9eacd188ac] (1) Section 182 of the Finance Act 1989 (offences relating to disclosure of information relating to social security functions etc) is amended as follows.
 
 (2) In subsections (1)(c), (2A)(a), (4)(c)(iii) and (5)(b), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
@@ -405,11 +405,11 @@ Section 1
 
 #### Social Security Contributions and Benefits Act 1992
 
-**9.**[^key-58165ca3bdce4d824f3172987c7dac7a] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+**9.**[^c-58165ca3bdce4d824f3172987c7dac7a] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
-**10.**[^key-83a80c93e11cde6138c2fa6c4cff3898] In section 1 (outline of contributory system), in subsection (5), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
+**10.**[^c-83a80c93e11cde6138c2fa6c4cff3898] In section 1 (outline of contributory system), in subsection (5), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
 
-**11.**[^key-9a5117720e4b9cd80fd7404db8a5b3cf] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a)—
+**11.**[^c-9a5117720e4b9cd80fd7404db8a5b3cf] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a)—
 
 - (a) omit “or” at the end of sub-paragraph (v);
 - (b) at the end of sub-paragraph (vi) (but before the “and”) insert
@@ -420,23 +420,23 @@ Section 1
 
   .
 
-**12.**[^key-c473c5d2b98618ad7fac195358147656] In section 4AA (limited liability partnerships), in subsection (2), for “or 171ZS” substitute “ , 171ZS or 171ZZ14 ”.
+**12.**[^c-c473c5d2b98618ad7fac195358147656] In section 4AA (limited liability partnerships), in subsection (2), for “or 171ZS” substitute “ , 171ZS or 171ZZ14 ”.
 
-**13.**[^key-3f4810b18eecd83bd7290aa82c1fb774] In section 4C (power to make provision in consequence of provision made by or by virtue of section 4B etc), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**13.**[^c-3f4810b18eecd83bd7290aa82c1fb774] In section 4C (power to make provision in consequence of provision made by or by virtue of section 4B etc), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
 #### Social Security Administration Act 1992
 
-**14.**[^key-21552603b442dd6b0f4c16902317bbba] The Social Security Administration Act 1992 is amended as follows.
+**14.**[^c-21552603b442dd6b0f4c16902317bbba] The Social Security Administration Act 1992 is amended as follows.
 
-**15.**[^key-8846149ff6e77e1f84a3252c0a3b4e7f] In section 5 (regulations about claims for and payments of benefits), in subsection (5), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
+**15.**[^c-8846149ff6e77e1f84a3252c0a3b4e7f] In section 5 (regulations about claims for and payments of benefits), in subsection (5), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
 
-**16.**[^key-fdafa81103a7b1114566e7b7865f6bc0] In section 122AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**16.**[^c-fdafa81103a7b1114566e7b7865f6bc0] In section 122AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**17.**[^key-60e2cf7f8c4b87698cdb115fa15203c7] In section 150 (annual up-rating of benefits), in subsection (1)(j), for “or 171ZY(1)” substitute “ , 171ZY(1) or 171ZZ9(1) ”.
+**17.**[^c-60e2cf7f8c4b87698cdb115fa15203c7] In section 150 (annual up-rating of benefits), in subsection (1)(j), for “or 171ZY(1)” substitute “ , 171ZY(1) or 171ZZ9(1) ”.
 
-**18.**[^key-b700702b899f3e7651e3d669ab5970f2] In section 163 (general financial arrangements), in subsection (1)(d), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**18.**[^c-b700702b899f3e7651e3d669ab5970f2] In section 163 (general financial arrangements), in subsection (1)(d), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**19.**[^key-521900d0da9559c7046ccb9424e74df5] (1) Section 165 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
+**19.**[^c-521900d0da9559c7046ccb9424e74df5] (1) Section 165 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
 
 (2) In subsection (1)(b)—
 
@@ -451,21 +451,21 @@ Section 1
 
 #### Employment Rights Act 1996
 
-**20.**[^key-59e7dfaf378aa62a016cc62ec8deaf69] The Employment Rights Act 1996 is amended as follows.
+**20.**[^c-59e7dfaf378aa62a016cc62ec8deaf69] The Employment Rights Act 1996 is amended as follows.
 
-**21.**[^key-86ae6ec81cd018a5e439a733cf801bd7] In section 27 (meaning of “wages”), in subsection (1), after paragraph (cc) insert—
+**21.**[^c-86ae6ec81cd018a5e439a733cf801bd7] In section 27 (meaning of “wages”), in subsection (1), after paragraph (cc) insert—
 
 > - (cd) statutory parental bereavement pay under Part 12ZD of that Act,
 
 .
 
-**22.**[^key-5bede75ddabc601642b8207f62b72bf8] In section 47C (leave for family and domestic reasons), in subsection (2), after paragraph (ca) (but before the “or”), insert—
+**22.**[^c-5bede75ddabc601642b8207f62b72bf8] In section 47C (leave for family and domestic reasons), in subsection (2), after paragraph (ca) (but before the “or”), insert—
 
 > - (cb) parental bereavement leave,
 
 .
 
-**23.**[^key-2e7ec14402074ad603ac2ae743e490a5] In section 75I (rights during and after shared parental leave), in subsection (3)—
+**23.**[^c-2e7ec14402074ad603ac2ae743e490a5] In section 75I (rights during and after shared parental leave), in subsection (3)—
 
 - (a) at the end of paragraph (d) omit “and”;
 - (b) at the end of paragraph (e) insert
@@ -474,7 +474,7 @@ Section 1
   >
   > - (f) parental bereavement leave.
 
-**24.**[^key-7a0e2d41665ae0a437a7380fc94bd772] (1) Section 80C (rights during and after paternity leave) is amended as follows.
+**24.**[^c-7a0e2d41665ae0a437a7380fc94bd772] (1) Section 80C (rights during and after paternity leave) is amended as follows.
 
 (2) In subsection (2), after paragraph (ba) (but before the “and”) insert—
 
@@ -488,25 +488,25 @@ Section 1
 
 .
 
-**25.**[^key-82e12ab985b2e526ed23f60e3ebb2c80] (1) Section 88 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
+**25.**[^c-82e12ab985b2e526ed23f60e3ebb2c80] (1) Section 88 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
 
 (2) In subsection (1)(c), after “shared parental leave,” insert “ parental bereavement leave, ”.
 
 (3) In subsection (2), after “statutory shared parental pay,” insert “ parental bereavement pay, statutory parental bereavement pay, ”.
 
-**26.**[^key-2d1217880edb0e68ffeb8d383ee320b2] (1) Section 89 (effect of notice of termination: employments without normal working hours) is amended as follows.
+**26.**[^c-2d1217880edb0e68ffeb8d383ee320b2] (1) Section 89 (effect of notice of termination: employments without normal working hours) is amended as follows.
 
 (2) In subsection (3)(b), after “shared parental leave,” insert “ parental bereavement leave, ”.
 
 (3) In subsection (4), after “statutory shared parental pay,” insert “ parental bereavement pay, statutory parental bereavement pay, ”.
 
-**27.**[^key-35f856316a829418f9a3249c9a4b1dc7] In section 99 (leave for family reasons), in subsection (3), after paragraph (ca) (but before the “or”), insert—
+**27.**[^c-35f856316a829418f9a3249c9a4b1dc7] In section 99 (leave for family reasons), in subsection (3), after paragraph (ca) (but before the “or”), insert—
 
 > - (cb) parental bereavement leave,
 
 .
 
-**28.**[^key-980bda6eadc4800632783fe7e534acb5] In section 235 (definitions), in subsection (1)—
+**28.**[^c-980bda6eadc4800632783fe7e534acb5] In section 235 (definitions), in subsection (1)—
 
 - (a) at the appropriate place insert—
 
@@ -517,9 +517,9 @@ Section 1
 
 #### Social Security Contributions (Transfer of Functions, etc.) Act 1999
 
-**29.**[^key-213e0cd4fadeb3792e2997c5cc550296] The Social Security Contributions (Transfer of Functions, etc.) Act 1999 is amended as follows.
+**29.**[^c-213e0cd4fadeb3792e2997c5cc550296] The Social Security Contributions (Transfer of Functions, etc.) Act 1999 is amended as follows.
 
-**30.**[^key-3c083b89cad696be5c81e74a5cba1695] (1) Section 8 (decisions by officers of Revenue and Customs) is amended as follows.
+**30.**[^c-3c083b89cad696be5c81e74a5cba1695] (1) Section 8 (decisions by officers of Revenue and Customs) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -530,25 +530,25 @@ Section 1
 
 (3) In subsection (3)(b), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**31.**[^key-bd07ae7095bb634ea3ff00274948f27c] In section 11 (appeals against decisions of officers of Revenue and Customs), in subsection (2)(a), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**31.**[^c-bd07ae7095bb634ea3ff00274948f27c] In section 11 (appeals against decisions of officers of Revenue and Customs), in subsection (2)(a), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**32.**[^key-ce4c157c4fe694662b28c591f1e7a30a] In section 14 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**32.**[^c-ce4c157c4fe694662b28c591f1e7a30a] In section 14 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
 #### Finance Act 1999
 
-**33.**[^key-09db6c66b83234b7f84fec92cea58c40] (1) Sections 132 and 133 of the Finance Act 1999 have effect as if statutory parental bereavement pay were a matter which is under the care and management of the Commissioners for Revenue and Customs.
+**33.**[^c-09db6c66b83234b7f84fec92cea58c40] (1) Sections 132 and 133 of the Finance Act 1999 have effect as if statutory parental bereavement pay were a matter which is under the care and management of the Commissioners for Revenue and Customs.
 
 (2) In this paragraph “**statutory parental bereavement pay**” includes statutory pay under Northern Ireland legislation corresponding to the provisions of Part 12ZD of the Social Security Contributions and Benefits Act 1992.
 
 #### Finance Act 2000
 
-**34.**[^key-d849c86497183fae7d480eaca3b9da40] In Schedule 15 to the Finance Act 2000 (the corporate venturing scheme), in paragraph 22A(4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
+**34.**[^c-d849c86497183fae7d480eaca3b9da40] In Schedule 15 to the Finance Act 2000 (the corporate venturing scheme), in paragraph 22A(4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
 
 #### Employment Act 2002
 
-**35.**[^key-9ad221dab43c76c7dda219186b609b59] The Employment Act 2002 is amended as follows.
+**35.**[^c-9ad221dab43c76c7dda219186b609b59] The Employment Act 2002 is amended as follows.
 
-**36.**[^key-411453ba5f3da6346130ddd8bb87b8ed] (1) Section 7 (funding of employers' liabilities as regards certain statutory pay) is amended as follows.
+**36.**[^c-411453ba5f3da6346130ddd8bb87b8ed] (1) Section 7 (funding of employers' liabilities as regards certain statutory pay) is amended as follows.
 
 (2) In subsection (1), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
 
@@ -566,19 +566,19 @@ Section 1
 
   .
 
-**37.**[^key-15ca68e74d0a5dd8f8b64451e744c402] In section 8 (regulations about payment), in subsections (1) and (2)(a), (b) and (d), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
+**37.**[^c-15ca68e74d0a5dd8f8b64451e744c402] In section 8 (regulations about payment), in subsections (1) and (2)(a), (b) and (d), for “and statutory shared parental pay” substitute “ , statutory shared parental pay and statutory parental bereavement pay ”.
 
-**38.**[^key-f7c89734ad3829b08f8febf8e91420c5] In section 10 (powers to require information), in subsections (1) and (2)(a), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**38.**[^c-f7c89734ad3829b08f8febf8e91420c5] In section 10 (powers to require information), in subsections (1) and (2)(a), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**39.**[^key-365cbce8d11b493350180dadada27bc6] In section 11 (penalties for failure to comply), in subsection (6), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**39.**[^c-365cbce8d11b493350180dadada27bc6] In section 11 (penalties for failure to comply), in subsection (6), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**40.**[^key-ad62c680c4944df37dd640e9435db5e0] In section 12 (penalties for fraud or negligence), in subsections (1)(a) and (b), (3) and (5), after “statutory paternity pay” insert “ or statutory parental bereavement pay ”.
+**40.**[^c-ad62c680c4944df37dd640e9435db5e0] In section 12 (penalties for fraud or negligence), in subsections (1)(a) and (b), (3) and (5), after “statutory paternity pay” insert “ or statutory parental bereavement pay ”.
 
-**41.**[^key-d2e1cbb9065167c5fed750fc3cc4164e] In section 13 (supply of information held by Her Majesty's Revenue and Customs), in subsection (1), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**41.**[^c-d2e1cbb9065167c5fed750fc3cc4164e] In section 13 (supply of information held by Her Majesty's Revenue and Customs), in subsection (1), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**42.**[^key-ecfe8d63c971e13407b80b3aec0c5343] In section 14 (supply of information held by the Secretary of State), in subsections (1) and (2), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
+**42.**[^c-ecfe8d63c971e13407b80b3aec0c5343] In section 14 (supply of information held by the Secretary of State), in subsections (1) and (2), for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”.
 
-**43.**[^key-50a22f2471977b96fdb13444ed0d14d0] In section 15 (use of information by Her Majesty's Revenue and Customs), in subsection (2)—
+**43.**[^c-50a22f2471977b96fdb13444ed0d14d0] In section 15 (use of information by Her Majesty's Revenue and Customs), in subsection (2)—
 
 - (a) omit “and” at the end of paragraph (ba);
 - (b) after paragraph (ba) insert—
@@ -587,14 +587,14 @@ Section 1
 
   .
 
-**44.**[^key-5909e31be6e8fb57559e97e4687f996d] In section 55 (short title etc), in subsection (8)—
+**44.**[^c-5909e31be6e8fb57559e97e4687f996d] In section 55 (short title etc), in subsection (8)—
 
 - (a) for “or statutory shared parental pay” substitute “ , statutory shared parental pay or statutory parental bereavement pay ”;
 - (b) for “or Part 12ZC” substitute “ , Part 12ZC or Part 12ZD ”.
 
 #### Proceeds of Crime Act 2002
 
-**45.**[^key-bc6ed04537ce63491d301f2136f817bb] (1) Section 323 of the Proceeds of Crime Act 2002 (Revenue functions) is amended as follows.
+**45.**[^c-bc6ed04537ce63491d301f2136f817bb] (1) Section 323 of the Proceeds of Crime Act 2002 (Revenue functions) is amended as follows.
 
 (2) In subsection (1), after paragraph (ha) insert—
 
@@ -616,9 +616,9 @@ Section 1
 
 #### Income Tax (Earnings and Pensions) Act 2003
 
-**46.**[^key-54bdb0bdd8884da21665a1aeec790787] The Income Tax (Earnings and Pensions) Act 2003 is amended as follows.
+**46.**[^c-54bdb0bdd8884da21665a1aeec790787] The Income Tax (Earnings and Pensions) Act 2003 is amended as follows.
 
-**47.**[^key-570e232fffa80ac35c8e9d42fab40bd7] (1) Section 660 (taxable benefits: UK benefits - Table A) is amended as follows.
+**47.**[^c-570e232fffa80ac35c8e9d42fab40bd7] (1) Section 660 (taxable benefits: UK benefits - Table A) is amended as follows.
 
 (2) In subsection (1), in Table A, after the entry relating to statutory shared parental pay insert—
 
@@ -633,7 +633,7 @@ Section 1
 
 (3) In subsection (2), after the entry relating to statutory shared parental pay insert— “ statutory parental bereavement pay; ”.
 
-**48.**[^key-4a4b8def120148c533f47a65daa4bfa0] (1) Schedule 5 (enterprise management incentives) is amended as follows.
+**48.**[^c-4a4b8def120148c533f47a65daa4bfa0] (1) Schedule 5 (enterprise management incentives) is amended as follows.
 
 (2) In paragraph 12A(4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
 
@@ -641,25 +641,25 @@ Section 1
 
 #### Commissioners for Revenue and Customs Act 2005
 
-**49.**[^key-165e032269f79a5c24212e10be13a129] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters where functions vest in officers of Revenue and Customs), after paragraph 26B insert—
+**49.**[^c-165e032269f79a5c24212e10be13a129] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters where functions vest in officers of Revenue and Customs), after paragraph 26B insert—
 
 > **26C.** Statutory parental bereavement pay.
 
 #### Income Tax Act 2007
 
-**50.**[^key-657860e648d4cca2f7f4b014b35d5db8] The Income Tax Act 2007 is amended as follows.
+**50.**[^c-657860e648d4cca2f7f4b014b35d5db8] The Income Tax Act 2007 is amended as follows.
 
-**51.**[^key-66328d37ce8ee9bfba9021db61ecf616] In section 186A (enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
+**51.**[^c-66328d37ce8ee9bfba9021db61ecf616] In section 186A (enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
 
-**52.**[^key-116b74a0e9fa14876ec9a0746c9a123d] In section 257DJ (seed enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
+**52.**[^c-116b74a0e9fa14876ec9a0746c9a123d] In section 257DJ (seed enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
 
-**53.**[^key-fd1a7f9a3147afb45ff821ac1cd1b5b7] In section 257MH (tax relief for social investments: the number of employees requirement), in subsection (4)(b)(i), for “or paternity” substitute “ , paternity or parental bereavement ”.
+**53.**[^c-fd1a7f9a3147afb45ff821ac1cd1b5b7] In section 257MH (tax relief for social investments: the number of employees requirement), in subsection (4)(b)(i), for “or paternity” substitute “ , paternity or parental bereavement ”.
 
-**54.**[^key-149cd44f70707aafa2da7661ddcd896c] In section 297A (venture capital trusts: the number of employees requirement for a qualifying holding), in subsection (4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
+**54.**[^c-149cd44f70707aafa2da7661ddcd896c] In section 297A (venture capital trusts: the number of employees requirement for a qualifying holding), in subsection (4)(b)(i), for “or shared parental” substitute “ , shared parental or parental bereavement ”.
 
 #### Pensions Act 2008
 
-**55.**[^key-801d503603fd3a9682b978190c23e0d0] In section 13 of the Pensions Act 2008 (qualifying earnings), in subsection (3), after paragraph (ea) insert—
+**55.**[^c-801d503603fd3a9682b978190c23e0d0] In section 13 of the Pensions Act 2008 (qualifying earnings), in subsection (3), after paragraph (ea) insert—
 
 > - (eb) statutory parental bereavement pay under Part 12ZD of that Act;
 
@@ -667,120 +667,120 @@ Section 1
 
 #### Finance Act 2013
 
-**56.**[^key-b1c2e3071196e5e10e59d5a2698c88e6] In Schedule 45 to the Finance Act 2013 (statutory residence test), in paragraph 145, in the definition of “parenting leave”, for “or parental leave” substitute “ , parental leave or parental bereavement leave ”.
+**56.**[^c-b1c2e3071196e5e10e59d5a2698c88e6] In Schedule 45 to the Finance Act 2013 (statutory residence test), in paragraph 145, in the definition of “parenting leave”, for “or parental leave” substitute “ , parental leave or parental bereavement leave ”.
 
 ## Annotations
 
-[^key-0bf979bf74a3fce32bc1dd815ebeb4d7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/24/section/1) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-0bf979bf74a3fce32bc1dd815ebeb4d7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/24/section/1) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-737e16be875b4b2580bdc7fac95ea93d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/1) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-737e16be875b4b2580bdc7fac95ea93d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/1) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-4fdf96a39bf15526d01fe83bf9bc5dc0]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-4fdf96a39bf15526d01fe83bf9bc5dc0]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-618d79c0b7cde7c225c5de2cc25d97a8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/3) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-618d79c0b7cde7c225c5de2cc25d97a8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/3) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-c96ae480f0ec226ec13d1a4bf3329d17]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/4) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-c96ae480f0ec226ec13d1a4bf3329d17]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/4) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-0e38b84217651789c60d20209e174883]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/5) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-0e38b84217651789c60d20209e174883]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/5) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-3e003065d60c273b083800d54083082b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/6) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-3e003065d60c273b083800d54083082b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/6) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-fd13670e57c7e558eddf0e5c6f6db67d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/7) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-fd13670e57c7e558eddf0e5c6f6db67d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/7) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-b2d2d0875e8f43aa0fc79b9eacd188ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/8) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-b2d2d0875e8f43aa0fc79b9eacd188ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/8) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-58165ca3bdce4d824f3172987c7dac7a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/9) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-58165ca3bdce4d824f3172987c7dac7a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/9) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-83a80c93e11cde6138c2fa6c4cff3898]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/10) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-83a80c93e11cde6138c2fa6c4cff3898]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/10) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-9a5117720e4b9cd80fd7404db8a5b3cf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/11) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-9a5117720e4b9cd80fd7404db8a5b3cf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/11) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-c473c5d2b98618ad7fac195358147656]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/12) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-c473c5d2b98618ad7fac195358147656]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/12) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-3f4810b18eecd83bd7290aa82c1fb774]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/13) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-3f4810b18eecd83bd7290aa82c1fb774]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/13) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-21552603b442dd6b0f4c16902317bbba]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/14) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-21552603b442dd6b0f4c16902317bbba]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/14) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-8846149ff6e77e1f84a3252c0a3b4e7f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/15) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-8846149ff6e77e1f84a3252c0a3b4e7f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/15) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-fdafa81103a7b1114566e7b7865f6bc0]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/16) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-fdafa81103a7b1114566e7b7865f6bc0]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/16) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-60e2cf7f8c4b87698cdb115fa15203c7]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/17) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-60e2cf7f8c4b87698cdb115fa15203c7]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/17) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-b700702b899f3e7651e3d669ab5970f2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/18) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-b700702b899f3e7651e3d669ab5970f2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/18) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-521900d0da9559c7046ccb9424e74df5]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/19) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-521900d0da9559c7046ccb9424e74df5]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/19) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-59e7dfaf378aa62a016cc62ec8deaf69]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/20) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-59e7dfaf378aa62a016cc62ec8deaf69]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/20) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-86ae6ec81cd018a5e439a733cf801bd7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/21) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-86ae6ec81cd018a5e439a733cf801bd7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/21) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-5bede75ddabc601642b8207f62b72bf8]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/22) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-5bede75ddabc601642b8207f62b72bf8]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/22) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-2e7ec14402074ad603ac2ae743e490a5]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/23) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-2e7ec14402074ad603ac2ae743e490a5]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/23) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-7a0e2d41665ae0a437a7380fc94bd772]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/24) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-7a0e2d41665ae0a437a7380fc94bd772]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/24) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-82e12ab985b2e526ed23f60e3ebb2c80]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/25) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-82e12ab985b2e526ed23f60e3ebb2c80]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/25) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-2d1217880edb0e68ffeb8d383ee320b2]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/26) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-2d1217880edb0e68ffeb8d383ee320b2]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/26) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-35f856316a829418f9a3249c9a4b1dc7]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/27) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-35f856316a829418f9a3249c9a4b1dc7]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/27) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-980bda6eadc4800632783fe7e534acb5]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/28) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-980bda6eadc4800632783fe7e534acb5]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/28) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-213e0cd4fadeb3792e2997c5cc550296]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/29) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-213e0cd4fadeb3792e2997c5cc550296]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/29) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-3c083b89cad696be5c81e74a5cba1695]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/30) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-3c083b89cad696be5c81e74a5cba1695]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/30) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-bd07ae7095bb634ea3ff00274948f27c]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/31) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-bd07ae7095bb634ea3ff00274948f27c]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/31) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-ce4c157c4fe694662b28c591f1e7a30a]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/32) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-ce4c157c4fe694662b28c591f1e7a30a]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/32) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-09db6c66b83234b7f84fec92cea58c40]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/33) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-09db6c66b83234b7f84fec92cea58c40]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/33) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-d849c86497183fae7d480eaca3b9da40]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/34) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-d849c86497183fae7d480eaca3b9da40]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/34) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-9ad221dab43c76c7dda219186b609b59]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/35) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-9ad221dab43c76c7dda219186b609b59]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/35) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-411453ba5f3da6346130ddd8bb87b8ed]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/36) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-411453ba5f3da6346130ddd8bb87b8ed]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/36) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-15ca68e74d0a5dd8f8b64451e744c402]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/37) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-15ca68e74d0a5dd8f8b64451e744c402]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/37) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-f7c89734ad3829b08f8febf8e91420c5]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/38) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-f7c89734ad3829b08f8febf8e91420c5]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/38) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-365cbce8d11b493350180dadada27bc6]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/39) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-365cbce8d11b493350180dadada27bc6]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/39) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-ad62c680c4944df37dd640e9435db5e0]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/40) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-ad62c680c4944df37dd640e9435db5e0]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/40) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-d2e1cbb9065167c5fed750fc3cc4164e]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/41) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-d2e1cbb9065167c5fed750fc3cc4164e]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/41) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-ecfe8d63c971e13407b80b3aec0c5343]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/42) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-ecfe8d63c971e13407b80b3aec0c5343]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/42) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-50a22f2471977b96fdb13444ed0d14d0]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/43) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-50a22f2471977b96fdb13444ed0d14d0]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/43) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-5909e31be6e8fb57559e97e4687f996d]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/44) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-5909e31be6e8fb57559e97e4687f996d]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/44) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-bc6ed04537ce63491d301f2136f817bb]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/45) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-bc6ed04537ce63491d301f2136f817bb]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/45) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-54bdb0bdd8884da21665a1aeec790787]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/46) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-54bdb0bdd8884da21665a1aeec790787]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/46) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-570e232fffa80ac35c8e9d42fab40bd7]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/47) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-570e232fffa80ac35c8e9d42fab40bd7]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/47) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-4a4b8def120148c533f47a65daa4bfa0]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/48) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-4a4b8def120148c533f47a65daa4bfa0]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/48) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-165e032269f79a5c24212e10be13a129]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/49) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-165e032269f79a5c24212e10be13a129]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/49) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-657860e648d4cca2f7f4b014b35d5db8]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/50) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-657860e648d4cca2f7f4b014b35d5db8]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/50) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-66328d37ce8ee9bfba9021db61ecf616]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/51) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-66328d37ce8ee9bfba9021db61ecf616]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/51) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-116b74a0e9fa14876ec9a0746c9a123d]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/52) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-116b74a0e9fa14876ec9a0746c9a123d]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/52) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-fd1a7f9a3147afb45ff821ac1cd1b5b7]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/53) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-fd1a7f9a3147afb45ff821ac1cd1b5b7]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/53) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-149cd44f70707aafa2da7661ddcd896c]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/54) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-149cd44f70707aafa2da7661ddcd896c]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/54) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-801d503603fd3a9682b978190c23e0d0]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/55) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-801d503603fd3a9682b978190c23e0d0]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/55) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-b1c2e3071196e5e10e59d5a2698c88e6]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/56) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-b1c2e3071196e5e10e59d5a2698c88e6]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/56) in force at 18.1.2020 by [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)

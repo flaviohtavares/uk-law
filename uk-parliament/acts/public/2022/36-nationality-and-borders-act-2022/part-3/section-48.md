@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Matters relevant to decisions relating to immigration bail[^key-44c7283f57eb348108959ebbb74cb7d7][^key-df121050a8b3e3a99cdb9c8a9072f873]
+## 48. Matters relevant to decisions relating to immigration bail[^c-44c7283f57eb348108959ebbb74cb7d7][^c-df121050a8b3e3a99cdb9c8a9072f873]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In paragraph 3(2) of Schedule 10 to the Immigration Act 2016 (matters to be take
 
 ## Annotations
 
-[^key-44c7283f57eb348108959ebbb74cb7d7]: Commencement: S. 48 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-44c7283f57eb348108959ebbb74cb7d7]: Commencement: S. 48 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-df121050a8b3e3a99cdb9c8a9072f873]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/36/section/48) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/25)
+[^c-df121050a8b3e3a99cdb9c8a9072f873]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/36/section/48) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/25)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. General duties of manufacturers etc. as regards articles and substances for use at work.[^c7806581][^c7806591][^c7806601][^c7806611][^c7806621][^c20459231][^key-0fe72d9a6077d9cfd7b83aac041509d3][^key-e7294dca4d75cba999cd802287726b57]
+## 6. General duties of manufacturers etc. as regards articles and substances for use at work.[^c7806581][^c7806591][^c7806601][^c7806611][^c7806621][^c20459231][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-e7294dca4d75cba999cd802287726b57]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c7806641][^c7806651][^c7806661][^key-8a182e9510cbff5e88f9013c93f4a2fe][^c7806631] It shall be the duty of any person who designs, manufactures, imports or supplies any article for use at work or any article of fairground equipment—
+(1)[^c7806641][^c7806651][^c7806661][^c-8a182e9510cbff5e88f9013c93f4a2fe][^c7806631] It shall be the duty of any person who designs, manufactures, imports or supplies any article for use at work or any article of fairground equipment—
 
 - (a) to ensure, so far as is reasonably practicable, that the article is so designed and constructed that it will be safe and without risks to health at all times when it is being set, used, cleaned or maintained by a person at work;
 - (b) to carry out or arrange for the carrying out of such testing and examination as may be necessary for the performance of the duty imposed on him by the preceding paragraph;
@@ -81,9 +81,9 @@ the effective supplier and not the ostensible supplier shall be treated for the 
 
 [^c20459231]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
-[^key-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^c7806641]: Modification: S. 6(1) modified ibid., reg. 4
 
@@ -91,7 +91,7 @@ the effective supplier and not the ostensible supplier shall be treated for the 
 
 [^c7806661]: Modification: S. 6(1) modified (1.1.2000) by [S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232), [reg. 31(1)](https://www.legislation.gov.uk/uksi/1999/3232/regulation/31/1)
 
-[^key-8a182e9510cbff5e88f9013c93f4a2fe]: Modification: S. 6(1) modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [32(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/32/1) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-8a182e9510cbff5e88f9013c93f4a2fe]: Modification: S. 6(1) modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [32(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/32/1) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^c7806631]: Textual amendment: S. 6(1)(1A) substituted for s. 6(1) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [s. 36](https://www.legislation.gov.uk/ukpga/1987/43/section/36), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/3/paragraph/1/2)
 

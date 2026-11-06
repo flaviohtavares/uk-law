@@ -50,7 +50,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
 (1) These Regulations may be cited as the Electronic Commerce Directive (Miscellaneous Provisions) Regulations 2018 and come into force on the day after the day on which they are made.
 
-(2)[^key-d63f08b941d980214ed90d49f74b1e5f] Subject to paragraph (3), these Regulations extend to the United Kingdom.
+(2)[^c-d63f08b941d980214ed90d49f74b1e5f] Subject to paragraph (3), these Regulations extend to the United Kingdom.
 
 (3) Regulations 6 to 10 do not extend to England and Wales insofar as they apply to the human trafficking offence.
 
@@ -62,7 +62,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 - “**the Directive**” means Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8th June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce) [^c22943081];
 - “**extended children's hearings publishing restrictions offence**” means an offence under article 12(2) of the Children's Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 [^c22943091] (publishing restrictions);
 - “**extended fatal accident inquiries publishing restrictions offence**” means an offence under article 4(1) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 [^c22943101] (publishing restrictions in relation to children);
-- [^key-7d90acab709013bf19d2bf2bdd2ca1f9]...
+- [^c-7d90acab709013bf19d2bf2bdd2ca1f9]...
 - “**fatal accident inquiries publishing restrictions offence**” means an offence under section 22(5) of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 [^c22943121] (publishing restrictions in relation to children);
 - “**human trafficking offence**” means an offence under section 4 of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 [^c22943131] (trafficking people for exploitation);
 - “**human trafficking (Northern Ireland) offence**” means an offence under section 2(1) of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 [^c22943141] (human trafficking);
@@ -74,29 +74,29 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 - “**threatening communications offence**” means an offence under section 6(1) of the Offensive Behaviour at Football and Threatening Communications (Scotland) Act 2012 [^c22943181] (threatening communications);
 - “**traffic in prostitution offence**” means an offence under section 22(1) of the Criminal Justice (Scotland) Act 2003 [^c22943191] (traffic in prostitution etc.).
 
-(2)[^key-86922594b2fbfe04be89fb499e1daeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-86922594b2fbfe04be89fb499e1daeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f26700d80c65e1e7d5a7d5af8f23243f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f26700d80c65e1e7d5a7d5af8f23243f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Internal market – service providers established in Scotland[^key-6a016e321c017f2129431a69e88381d0]
+## 3. Internal market – service providers established in Scotland[^c-6a016e321c017f2129431a69e88381d0]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Internal market – service providers established in England and Wales[^key-737d7c5f6322ee1194ccbe8e2969f108]
+## 4. Internal market – service providers established in England and Wales[^c-737d7c5f6322ee1194ccbe8e2969f108]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Internal market – service providers established in Northern Ireland[^key-51eb42be00c47d90cc4706b0e66dcfe3]
+## 5. Internal market – service providers established in Northern Ireland[^c-51eb42be00c47d90cc4706b0e66dcfe3]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Non-UK service providers – restriction on institution of proceedings[^key-4c1b4aa82027865d243d7c12d5569207]
+## 6. Non-UK service providers – restriction on institution of proceedings[^c-4c1b4aa82027865d243d7c12d5569207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -163,7 +163,7 @@ if the transmission condition is satisfied.
 
 (2) Paragraph (1) does not apply if the recipient of the service is acting under the authority or control of the service provider.
 
-## 11. Review[^key-58524141f944c7114479bd926d4a5644]
+## 11. Review[^c-58524141f944c7114479bd926d4a5644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -218,7 +218,7 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^c22943061]: Marginal citation: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-d63f08b941d980214ed90d49f74b1e5f]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/477/regulation/1/2) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d63f08b941d980214ed90d49f74b1e5f]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/477/regulation/1/2) substituted (31.12.2020) by [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22943071]: Marginal citation: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1).
 
@@ -228,7 +228,7 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^c22943101]: Marginal citation: [S.I. 2016/1142](https://www.legislation.gov.uk/uksi/2016/1142).
 
-[^key-7d90acab709013bf19d2bf2bdd2ca1f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/477/regulation/2/1) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d90acab709013bf19d2bf2bdd2ca1f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/477/regulation/2/1) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22943121]: Marginal citation: [2016 asp 2](https://www.legislation.gov.uk/asp/2016/2).
 
@@ -246,16 +246,16 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^c22943191]: Marginal citation: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7).
 
-[^key-86922594b2fbfe04be89fb499e1daeca]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/477/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/2)
+[^c-86922594b2fbfe04be89fb499e1daeca]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/477/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/2)
 
-[^key-f26700d80c65e1e7d5a7d5af8f23243f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/477/regulation/2/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/2)
+[^c-f26700d80c65e1e7d5a7d5af8f23243f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/477/regulation/2/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/2)
 
-[^key-6a016e321c017f2129431a69e88381d0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/477/regulation/3) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a016e321c017f2129431a69e88381d0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/477/regulation/3) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-737d7c5f6322ee1194ccbe8e2969f108]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/477/regulation/4) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-737d7c5f6322ee1194ccbe8e2969f108]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/477/regulation/4) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-51eb42be00c47d90cc4706b0e66dcfe3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/477/regulation/5) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51eb42be00c47d90cc4706b0e66dcfe3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/477/regulation/5) omitted (31.12.2020) by virtue of [The Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/87)](https://www.legislation.gov.uk/uksi/2019/87), [regs. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c1b4aa82027865d243d7c12d5569207]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/477/regulation/6) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/3)
+[^c-4c1b4aa82027865d243d7c12d5569207]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/477/regulation/6) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/3)
 
-[^key-58524141f944c7114479bd926d4a5644]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/477/regulation/11) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/4)
+[^c-58524141f944c7114479bd926d4a5644]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/477/regulation/11) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2026/407/regulation/5/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Personation[^key-c791248409ea508804ce3e25a5d325e8]
+## 25. Personation[^c-c791248409ea508804ce3e25a5d325e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c791248409ea508804ce3e25a5d325e8]: Commencement: Art. 25 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c791248409ea508804ce3e25a5d325e8]: Commencement: Art. 25 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

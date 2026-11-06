@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Notice to taxpayer of proposed counteraction of tax advantage[^key-3ace13b7964a400cf8c4f7f5dbef293b]
+## 68. Notice to taxpayer of proposed counteraction of tax advantage[^c-3ace13b7964a400cf8c4f7f5dbef293b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ the officer must give the taxpayer a notice to that effect.
 
 ## Annotations
 
-[^key-3ace13b7964a400cf8c4f7f5dbef293b]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/16/section/68) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-3ace13b7964a400cf8c4f7f5dbef293b]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/16/section/68) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

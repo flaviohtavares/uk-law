@@ -26,7 +26,7 @@ Sections 39, 41 and 43
 
 #### Procedure where it is proposed to make, or apply for, an order under section 39 or a land order
 
-**1.**[^key-73ec2bbb8794d95ac363afbd5d39b7ae] (1) Before making an order under section 39 or a land order, the Secretary of State must—
+**1.**[^c-73ec2bbb8794d95ac363afbd5d39b7ae] (1) Before making an order under section 39 or a land order, the Secretary of State must—
 
 - (a) publish a notice in one or more newspapers circulating in the locality in which the land is situated;
 - (b) serve a notice on every owner, lessee and occupier of any of the land;
@@ -44,7 +44,7 @@ Sections 39, 41 and 43
 
 (5) This paragraph does not apply if the Secretary of State proposes to make an order following an application from the holder of a range control licence or a spaceport licence (“**the licensee**”).
 
-**2.**[^key-d9ff1c080138ab944f2f94534f9ef653] (1) Before making an application for an order under section 39 or for a land order, the licensee must—
+**2.**[^c-d9ff1c080138ab944f2f94534f9ef653] (1) Before making an application for an order under section 39 or for a land order, the licensee must—
 
 - (a) publish a notice in one or more newspapers circulating in the locality in which the land is situated;
 - (b) serve a notice on every owner, lessee and occupier of any of the land;
@@ -60,7 +60,7 @@ Sections 39, 41 and 43
 
 #### Objections to a proposed order
 
-**3.**[^key-aa963708ebc81836097c856f6f125480] (1) This paragraph applies if a person served with a notice under paragraph 1 or 2 makes an objection, which has not been withdrawn, in accordance with the notice.
+**3.**[^c-aa963708ebc81836097c856f6f125480] (1) This paragraph applies if a person served with a notice under paragraph 1 or 2 makes an objection, which has not been withdrawn, in accordance with the notice.
 
 (2) Before making the relevant order, the Secretary of State must either—
 
@@ -72,21 +72,21 @@ Sections 39, 41 and 43
 - (a) the objection, and
 - (b) the report of the person holding the inquiry or the person appointed under sub-paragraph (2)(b) (as the case may be).
 
-**4.**[^key-9e5f699bab9d779e375ead1fce5f0233] If—
+**4.**[^c-9e5f699bab9d779e375ead1fce5f0233] If—
 
 - (a) no person served with a notice under paragraph 1 or 2 makes an objection in accordance with the notice, or
 - (b) any such objections are withdrawn,
 
 the Secretary of State may make the relevant order.
 
-**5.**[^key-1823f887ef8dd315a665e6ef22fc3e1c] Despite paragraphs 3 and 4, the Secretary of State—
+**5.**[^c-1823f887ef8dd315a665e6ef22fc3e1c] Despite paragraphs 3 and 4, the Secretary of State—
 
 - (a) may require a person to provide that person's objections to a proposed order in writing;
 - (b) may disregard a person's objections for the purposes of paragraphs 3 and 4 if satisfied that the objections relate exclusively to matters that can be dealt with by the tribunal by whom compensation is to be assessed.
 
 #### Procedure after making an order
 
-**6.**[^key-d47ed002d9bd7a64646bddb5f4d9a3ce] (1) Immediately after the making of an order under section 39 or a land order, the relevant person must—
+**6.**[^c-d47ed002d9bd7a64646bddb5f4d9a3ce] (1) Immediately after the making of an order under section 39 or a land order, the relevant person must—
 
 - (a) publish a notice in one or more newspapers circulating in the locality in which the land is situated, and
 - (b) serve a notice—
@@ -108,7 +108,7 @@ the Secretary of State may make the relevant order.
 
 #### Procedure where it is proposed to make an order under section 41 that is not a land order
 
-**7.**[^key-0833ee4f70631fed2488f4b20a6e9749] (1) Before making an order under section 41 that is not a land order, the Secretary of State must publish a notice in whatever way the Secretary of State considers is best calculated to bring the proposed order to the notice of those persons who will be affected by it.
+**7.**[^c-0833ee4f70631fed2488f4b20a6e9749] (1) Before making an order under section 41 that is not a land order, the Secretary of State must publish a notice in whatever way the Secretary of State considers is best calculated to bring the proposed order to the notice of those persons who will be affected by it.
 
 (2) A notice under sub-paragraph (1) must—
 
@@ -117,7 +117,7 @@ the Secretary of State may make the relevant order.
 
 #### Procedure after making an order
 
-**8.**[^key-6b776196f53a5445881bc252377f7846] (1) Immediately after the making of an order under section 41 that is not a land order, the Secretary of State must—
+**8.**[^c-6b776196f53a5445881bc252377f7846] (1) Immediately after the making of an order under section 41 that is not a land order, the Secretary of State must—
 
 - (a) publish a notice in one or more newspapers circulating in the locality to which the order relates;
 - (b) serve a copy of that notice on any person who, in the opinion of the Secretary of State, is likely to be affected by the order.
@@ -129,18 +129,18 @@ the Secretary of State may make the relevant order.
 
 ## Annotations
 
-[^key-73ec2bbb8794d95ac363afbd5d39b7ae]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-73ec2bbb8794d95ac363afbd5d39b7ae]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-d9ff1c080138ab944f2f94534f9ef653]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/2) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-d9ff1c080138ab944f2f94534f9ef653]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/2) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-aa963708ebc81836097c856f6f125480]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-aa963708ebc81836097c856f6f125480]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-9e5f699bab9d779e375ead1fce5f0233]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-9e5f699bab9d779e375ead1fce5f0233]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-1823f887ef8dd315a665e6ef22fc3e1c]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-1823f887ef8dd315a665e6ef22fc3e1c]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-d47ed002d9bd7a64646bddb5f4d9a3ce]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/6) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-d47ed002d9bd7a64646bddb5f4d9a3ce]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/6) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-0833ee4f70631fed2488f4b20a6e9749]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/7) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-0833ee4f70631fed2488f4b20a6e9749]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/7) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-6b776196f53a5445881bc252377f7846]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/8) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-6b776196f53a5445881bc252377f7846]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2018/5/schedule/6/paragraph/8) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 110](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/110) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

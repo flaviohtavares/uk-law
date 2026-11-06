@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendment of an EDP[^key-a98914cdfa199129bab1294b31292ae5][^key-57b16dda9f22366b1a7a9b594f55a4f6]
+## 68. Amendment of an EDP[^c-a98914cdfa199129bab1294b31292ae5][^c-57b16dda9f22366b1a7a9b594f55a4f6]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ the Secretary of State may direct Natural England to consult on the EDP as propo
 
 ## Annotations
 
-[^key-a98914cdfa199129bab1294b31292ae5]: Commencement: S. 68 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a98914cdfa199129bab1294b31292ae5]: Commencement: S. 68 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-57b16dda9f22366b1a7a9b594f55a4f6]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2025/34/section/68) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-57b16dda9f22366b1a7a9b594f55a4f6]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2025/34/section/68) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

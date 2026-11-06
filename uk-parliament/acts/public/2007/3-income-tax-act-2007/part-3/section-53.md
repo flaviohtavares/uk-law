@@ -24,25 +24,25 @@ summary: ''
 
 (2) In making that calculation, do not deduct any tax reduction under—
 
-- (a) sections 2 and 6 of TIOPA 2010[^key-78df5f38799834716a5ba6ac617a2345] (double taxation arrangements: relief by agreement), or
-- (b) section 18(1)(b) and (2) of TIOPA 2010[^key-a9537a0bd4a3ef43f3a14b5270a0b997] (relief for foreign tax where there are no double taxation arrangements).
+- (a) sections 2 and 6 of TIOPA 2010[^c-78df5f38799834716a5ba6ac617a2345] (double taxation arrangements: relief by agreement), or
+- (b) section 18(1)(b) and (2) of TIOPA 2010[^c-a9537a0bd4a3ef43f3a14b5270a0b997] (relief for foreign tax where there are no double taxation arrangements).
 
 (3) If the individual's entitlement to a tax reduction under this Chapter is extinguished under section 423(4) (gift aid: restriction of reliefs) to any extent, deduct from the amount calculated in accordance with subsections (1) and (2) the amount by which the tax reduction is reduced.
 
 (4) A notice under section 51 or 52—
 
-- (a) must be given not more than 4 years after the end of[^key-03266f5aafac745d42578c0557610435] the tax year to which it relates,
+- (a) must be given not more than 4 years after the end of[^c-03266f5aafac745d42578c0557610435] the tax year to which it relates,
 - (b) must be in the form specified by the Commissioners for Her Majesty's Revenue and Customs, and
 - (c) cannot be withdrawn.
 
-(5) For the purposes of this section a person is treated as being entitled to a tax reduction under sections 2 and 6 of TIOPA 2010[^key-62b314308aa8892ad0947ec5ca978ae0] if the person is entitled to credit against income tax under double taxation arrangements.
+(5) For the purposes of this section a person is treated as being entitled to a tax reduction under sections 2 and 6 of TIOPA 2010[^c-62b314308aa8892ad0947ec5ca978ae0] if the person is entitled to credit against income tax under double taxation arrangements.
 
 ## Annotations
 
-[^key-78df5f38799834716a5ba6ac617a2345]: Textual amendment: Words in s. 53(2)(a) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 78(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/78/2/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-78df5f38799834716a5ba6ac617a2345]: Textual amendment: Words in s. 53(2)(a) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 78(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/78/2/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-a9537a0bd4a3ef43f3a14b5270a0b997]: Textual amendment: Words in s. 53(2)(b) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 78(2)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/78/2/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-a9537a0bd4a3ef43f3a14b5270a0b997]: Textual amendment: Words in s. 53(2)(b) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 78(2)(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/78/2/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-03266f5aafac745d42578c0557610435]: Textual amendment: Words in s. 53(4)(a) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 57](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/57); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-03266f5aafac745d42578c0557610435]: Textual amendment: Words in s. 53(4)(a) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 57](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/57); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
-[^key-62b314308aa8892ad0947ec5ca978ae0]: Textual amendment: Words in s. 53(5) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 78(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/78/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-62b314308aa8892ad0947ec5ca978ae0]: Textual amendment: Words in s. 53(5) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 78(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/78/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

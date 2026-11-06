@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345A. Disciplinary measures: PRA[^key-585a4fd487b388829e619ad676ea6686][^key-00fa7d40fdc4a3f86d459fd353c60259]
+## 345A. Disciplinary measures: PRA[^c-585a4fd487b388829e619ad676ea6686][^c-00fa7d40fdc4a3f86d459fd353c60259]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,14 +40,14 @@ summary: ''
 - (a) notify the FCA, and
 - (b) notify the person concerned that it has made a notification under paragraph (a).
 
-(6)[^key-3e1125dd946925071987ed9790e47de9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3e1125dd946925071987ed9790e47de9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The PRA may remove any disqualification imposed under subsection (4)(a) if satisfied that the disqualified person will in future comply with the duty in question.
 
 ## Annotations
 
-[^key-585a4fd487b388829e619ad676ea6686]: Modification: Ss. 341-346 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-585a4fd487b388829e619ad676ea6686]: Modification: Ss. 341-346 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-00fa7d40fdc4a3f86d459fd353c60259]: Textual amendment: Ss. 345-345E and cross-heading substituted for s. 345 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 13 para. 7(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7/1) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-00fa7d40fdc4a3f86d459fd353c60259]: Textual amendment: Ss. 345-345E and cross-heading substituted for s. 345 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 13 para. 7(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7/1) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-3e1125dd946925071987ed9790e47de9]: Textual amendment: [S. 345A(6)](https://www.legislation.gov.uk/ukpga/2000/8/section/345A/6) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/44) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-3e1125dd946925071987ed9790e47de9]: Textual amendment: [S. 345A(6)](https://www.legislation.gov.uk/ukpga/2000/8/section/345A/6) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/44) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)

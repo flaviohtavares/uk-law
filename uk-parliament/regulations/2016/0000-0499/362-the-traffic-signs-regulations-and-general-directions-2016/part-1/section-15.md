@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Provision for review of these Regulations[^key-e670e92f0b08d5ad1ac838283d1fecfa]
+## 15. Provision for review of these Regulations[^c-e670e92f0b08d5ad1ac838283d1fecfa]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e670e92f0b08d5ad1ac838283d1fecfa]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e670e92f0b08d5ad1ac838283d1fecfa]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

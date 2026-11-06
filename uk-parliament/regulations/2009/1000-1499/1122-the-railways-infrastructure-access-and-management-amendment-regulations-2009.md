@@ -34,7 +34,7 @@ Transport
 
 Railways
 
-The Railways Infrastructure (Access and Management) (Amendment) Regulations 2009 (revoked)[^key-6ebf17d551aed5b7cd55087d32066ca5]
+The Railways Infrastructure (Access and Management) (Amendment) Regulations 2009 (revoked)[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 Made
 
@@ -46,42 +46,42 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-6ebf17d551aed5b7cd55087d32066ca5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ebf17d551aed5b7cd55087d32066ca5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6ebf17d551aed5b7cd55087d32066ca5]
+## 1. Citation, commencement and extent[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Railways Infrastructure (Access and Management) Regulations 2005[^key-6ebf17d551aed5b7cd55087d32066ca5]
+## 2. Amendment of the Railways Infrastructure (Access and Management) Regulations 2005[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments[^key-6ebf17d551aed5b7cd55087d32066ca5]
+## 3. Consequential amendments[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ebf17d551aed5b7cd55087d32066ca5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ebf17d551aed5b7cd55087d32066ca5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Consequential amendments[^key-6ebf17d551aed5b7cd55087d32066ca5]
+## SCHEDULE — Consequential amendments[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 Regulation 3
 
-### 1. The Railways Act 1993[^key-6ebf17d551aed5b7cd55087d32066ca5]
+### 1. The Railways Act 1993[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Greater London Authority Act 1999[^key-6ebf17d551aed5b7cd55087d32066ca5]
+### 2. The Greater London Authority Act 1999[^c-6ebf17d551aed5b7cd55087d32066ca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6ebf17d551aed5b7cd55087d32066ca5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ebf17d551aed5b7cd55087d32066ca5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ebf17d551aed5b7cd55087d32066ca5]: Textual amendment: Regulations revoked (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+[^c-6ebf17d551aed5b7cd55087d32066ca5]: Textual amendment: Regulations revoked (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))

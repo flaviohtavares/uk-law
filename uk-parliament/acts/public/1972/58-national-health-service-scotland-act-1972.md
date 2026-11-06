@@ -92,7 +92,7 @@ An Act to make further provision as respects the health service in Scotland, and
 
 ### 28. Staff Commission.
 
-(1) In this section, “**old authorities**” means Regional Hospital Boards, Boards of Management, Executive Councils, local authorities, local health authorities, port local authorities *(Extent: S)* *(affected by repeal, see note)*[^key-0594fc568bd4ab0b6481a9a2145cedb1], education authorities, the Scottish Dental Estimates Board and the Drug Accounts Committee, and “**new authorities**” means the Health Boards and the Agency.
+(1) In this section, “**old authorities**” means Regional Hospital Boards, Boards of Management, Executive Councils, local authorities, local health authorities, port local authorities *(Extent: S)* *(affected by repeal, see note)*[^c-0594fc568bd4ab0b6481a9a2145cedb1], education authorities, the Scottish Dental Estimates Board and the Drug Accounts Committee, and “**new authorities**” means the Health Boards and the Agency.
 
 (2) Not later than one month after the passing of this Act, the Secretary of State shall, after consultation with such bodies as appear to him to be concerned, including bodies representative of persons employed by the old authorities, appoint a commission, to be called the Scottish National Health Service Staff Commission (hereafter referred to as the Commission) which shall consist of such number of persons as the Secretary of State thinks fit.
 
@@ -117,22 +117,22 @@ An Act to make further provision as respects the health service in Scotland, and
 
 ### 32. Transfer of staff employed for purposes of public health.
 
-(1 (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] The Secretary of State shall have power by order to provide for the transfer, on such date as may be specified in the order or as may be determined by the Secretary of State, of persons to whom this section applies to the employment of such Health Board as may be so specified, or of the Agency if so specified, or as may be determined in accordance with a scheme made under this section. *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+(1 (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] The Secretary of State shall have power by order to provide for the transfer, on such date as may be specified in the order or as may be determined by the Secretary of State, of persons to whom this section applies to the employment of such Health Board as may be so specified, or of the Agency if so specified, or as may be determined in accordance with a scheme made under this section. *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] The Secretary of State shall have power to make an order requiring such local authority as may be specified in the order to make a scheme, after consultation with such Health Board as may be so specified or with the Agency if so specified, providing for the transfer of persons employed by the local authority, to whom this section applies, to the employment of such Health Board as may be named in the scheme, or of the Agency, if so named. *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+(2 (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] The Secretary of State shall have power to make an order requiring such local authority as may be specified in the order to make a scheme, after consultation with such Health Board as may be so specified or with the Agency if so specified, providing for the transfer of persons employed by the local authority, to whom this section applies, to the employment of such Health Board as may be named in the scheme, or of the Agency, if so named. *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] This section applies to the following persons— *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+(3 (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] This section applies to the following persons— *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] medical practitioners registered under the Medical Acts 1956 to 1969; *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
-- (b (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] nurses registered or enrolled under the Nurses (Scotland) Acts 1951 to 1969; *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
-- (c (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] nursing auxiliaries; and *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
-- (d (Extent: S) (affected by repeal, see note))[^key-179e233c79d28ab58ba80985982757ac][^key-92dc44bcd9dca0dd102dc49208b98de9] persons who are registered in the register maintained under article 5 of the Health Professions Order 2001; *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+- (a (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] medical practitioners registered under the Medical Acts 1956 to 1969; *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
+- (b (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] nurses registered or enrolled under the Nurses (Scotland) Acts 1951 to 1969; *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
+- (c (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] nursing auxiliaries; and *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
+- (d (Extent: S) (affected by repeal, see note))[^c-179e233c79d28ab58ba80985982757ac][^c-92dc44bcd9dca0dd102dc49208b98de9] persons who are registered in the register maintained under article 5 of the Health Professions Order 2001; *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
-who are employed wholly or mainly for the purposes of the public health functions of a local authority. *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+who are employed wholly or mainly for the purposes of the public health functions of a local authority. *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] Before making an order under section 31 of this Act or under this section, the Secretary of State shall consult with such bodies representative of local authorities as appear to him to be concerned and with any local authority with whom consultation appears to him to be desirable. *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+(4 (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] Before making an order under section 31 of this Act or under this section, the Secretary of State shall consult with such bodies representative of local authorities as appear to him to be concerned and with any local authority with whom consultation appears to him to be desirable. *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
-(5 (Extent: S) (affected by repeal, see note))[^key-92dc44bcd9dca0dd102dc49208b98de9] In this section, “ *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]**public health functions *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]**” means the functions specified in Schedule 4 to this Act, and “ *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]**local authority *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]**” means a county council, a town council or a port local authority. *(Extent: S)* *(affected by repeal, see note)*[^key-92dc44bcd9dca0dd102dc49208b98de9]
+(5 (Extent: S) (affected by repeal, see note))[^c-92dc44bcd9dca0dd102dc49208b98de9] In this section, “ *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]**public health functions *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]**” means the functions specified in Schedule 4 to this Act, and “ *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]**local authority *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]**” means a county council, a town council or a port local authority. *(Extent: S)* *(affected by repeal, see note)*[^c-92dc44bcd9dca0dd102dc49208b98de9]
 
 ### 33. Transfer of certain staff to the employment of the Agency.
 
@@ -153,7 +153,7 @@ who are employed wholly or mainly for the purposes of the public health function
 - (b) a Board of Management;
 - (c) an Executive Council;
 - (d) a local authority or education authority wholly or mainly for the purposes of their health or school health functions within the meaning of section 27 of this Act, or wholly or mainly for the purposes of their public health functions within the meaning of section 32 of this Act;
-- (e) a port local authority; or *(Extent: S)* *(affected by repeal, see note)*[^key-8f0941908ee6eed12ff4c1b0735bae66]
+- (e) a port local authority; or *(Extent: S)* *(affected by repeal, see note)*[^c-8f0941908ee6eed12ff4c1b0735bae66]
 - (f) a body established by any board, council or authority as aforesaid acting jointly with any other such board, council or authority;
 - (g)[^c823204] an education authority wholly or mainly as a speech therapist for the purposes of providing special education in pursuance of sections 1 and 3A of the [^c823205]Education (Scotland) Act 1962;
 
@@ -223,19 +223,19 @@ Any person who objects to his transfer by virtue of sections 29 to 34 of this Ac
 
 #### 53. Extension of definition of infectious disease.[^c823213]
 
-For section 7 of the *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566] [^c823214]Infectious Disease (Notification) Act 1889 (extension of definition of infectious disease) there shall be substituted the following section— *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566]
+For section 7 of the *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566] [^c823214]Infectious Disease (Notification) Act 1889 (extension of definition of infectious disease) there shall be substituted the following section— *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566]
 
-> **7 (Extent: S) (affected by repeal, see note). Extension of definition of infectious disease. (Extent: S) (affected by repeal, see note)[^key-46c6015dab5030cb941d5bde572e1566][^key-46c6015dab5030cb941d5bde572e1566]**
+> **7 (Extent: S) (affected by repeal, see note). Extension of definition of infectious disease. (Extent: S) (affected by repeal, see note)[^c-46c6015dab5030cb941d5bde572e1566][^c-46c6015dab5030cb941d5bde572e1566]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-46c6015dab5030cb941d5bde572e1566] The Secretary of State may direct, in respect of the area of any Health Board or of Scotland as a whole, in either case as may be specified in the direction, that this Act shall apply to any infectious disease so specified, other than a disease specifically mentioned in this Act, and nay such direction may be permanent or for a specified period. *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566]
+> (1 (Extent: S) (affected by repeal, see note))[^c-46c6015dab5030cb941d5bde572e1566] The Secretary of State may direct, in respect of the area of any Health Board or of Scotland as a whole, in either case as may be specified in the direction, that this Act shall apply to any infectious disease so specified, other than a disease specifically mentioned in this Act, and nay such direction may be permanent or for a specified period. *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-46c6015dab5030cb941d5bde572e1566] Before making any such direction, the Secretary of State shall consult, in the case of a direction which is to apply to a particular area, the Health Board concerned, and, in the case of a direction which is to apply to Scotland as a whole, the Scottish Health Service Planning Council. *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566]
+> (2 (Extent: S) (affected by repeal, see note))[^c-46c6015dab5030cb941d5bde572e1566] Before making any such direction, the Secretary of State shall consult, in the case of a direction which is to apply to a particular area, the Health Board concerned, and, in the case of a direction which is to apply to Scotland as a whole, the Scottish Health Service Planning Council. *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-46c6015dab5030cb941d5bde572e1566] The Secretary of State shall give public notice of any such direction in such manner as he thinks sufficient for giving information to all persons interested, and shall notify the terms of the direction to all registered medical practitioners practising or residing in the area affected by the direction. *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566]
+> (3 (Extent: S) (affected by repeal, see note))[^c-46c6015dab5030cb941d5bde572e1566] The Secretary of State shall give public notice of any such direction in such manner as he thinks sufficient for giving information to all persons interested, and shall notify the terms of the direction to all registered medical practitioners practising or residing in the area affected by the direction. *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-46c6015dab5030cb941d5bde572e1566] A direction shall come into operation on such date as the Secretary of State may fix, being a date not earlier than one week from the first public notice given under subsection (3) above, or, in a case where the Secretary of State certifies that an emergency exists, a date not earlier than three days from the first public notice as aforesaid. *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566]
+> (4 (Extent: S) (affected by repeal, see note))[^c-46c6015dab5030cb941d5bde572e1566] A direction shall come into operation on such date as the Secretary of State may fix, being a date not earlier than one week from the first public notice given under subsection (3) above, or, in a case where the Secretary of State certifies that an emergency exists, a date not earlier than three days from the first public notice as aforesaid. *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566]
 >
-> (5 (Extent: S) (affected by repeal, see note))[^key-46c6015dab5030cb941d5bde572e1566] Any direction under this section may be revoked or varied by a subsequent direction made in the like manner. *(Extent: S)* *(affected by repeal, see note)*[^key-46c6015dab5030cb941d5bde572e1566]
+> (5 (Extent: S) (affected by repeal, see note))[^c-46c6015dab5030cb941d5bde572e1566] Any direction under this section may be revoked or varied by a subsequent direction made in the like manner. *(Extent: S)* *(affected by repeal, see note)*[^c-46c6015dab5030cb941d5bde572e1566]
 
 #### 54—57. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c823215]
 
@@ -259,23 +259,23 @@ SCHEDULES
 
 ## SCHEDULES 1-3 — . . .[^c823219]
 
-## SCHEDULE 4 — Public Health Functions (Extent: S) (affected by repeal, see note)[^key-8248fc2e2d3b0ea491494965b9df9739]
+## SCHEDULE 4 — Public Health Functions (Extent: S) (affected by repeal, see note)[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-Section 32. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+Section 32. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**1 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions with respect ot the notification of infectious disease under the *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739] [^c823220]Infectious Disease (Notification) Act 1889. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**1 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions with respect ot the notification of infectious disease under the *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739] [^c823220]Infectious Disease (Notification) Act 1889. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**2 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to persons infested with vermin under the *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739] [^c823221]Cleansing of Persons Act 1897. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**2 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to persons infested with vermin under the *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739] [^c823221]Cleansing of Persons Act 1897. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**3 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to the notification or prevention of infectious disease, mortuaries or common lodging-houses under the *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739] [^c823222]Public Health (Scotland) Act 1897 or the functions of a port local authority under that Act. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**3 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to the notification or prevention of infectious disease, mortuaries or common lodging-houses under the *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739] [^c823222]Public Health (Scotland) Act 1897 or the functions of a port local authority under that Act. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**4 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to the notification of births under the *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739] [^c823223]Notification of Births Act 1907. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**4 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to the notification of births under the *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739] [^c823223]Notification of Births Act 1907. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**5 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to the prevention and treatment of epidemic, endemic or infectious diseases, or food poisoning. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**5 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to the prevention and treatment of epidemic, endemic or infectious diseases, or food poisoning. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**6 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions of local authorities under the *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739] [^c823224]Food and Drugs (Scotland) Act 1956. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**6 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions of local authorities under the *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739] [^c823224]Food and Drugs (Scotland) Act 1956. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
-**7 (Extent: S) (affected by repeal, see note).**[^key-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to preventing the spread of infectious disease or food poisoning under section 71 of the Act of 1968. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea491494965b9df9739]
+**7 (Extent: S) (affected by repeal, see note).**[^c-8248fc2e2d3b0ea491494965b9df9739] Functions with respect to preventing the spread of infectious disease or food poisoning under section 71 of the Act of 1968. *(Extent: S)* *(affected by repeal, see note)*[^c-8248fc2e2d3b0ea491494965b9df9739]
 
 ## SCHEDULES 5-7 — . . .[^c823225]
 
@@ -301,17 +301,17 @@ Section 32. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea4
 
 [^c823200]: Marginal citation: [1962 c. 47](https://www.legislation.gov.uk/ukpga/1962/47).
 
-[^key-0594fc568bd4ab0b6481a9a2145cedb1]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/1972/58/section/28/1) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-0594fc568bd4ab0b6481a9a2145cedb1]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/1972/58/section/28/1) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c823201]: Textual amendment: [Ss. 1–23](https://www.legislation.gov.uk/ukpga/1972/58/section/1), [24(3)](https://www.legislation.gov.uk/ukpga/1972/58/section/24/3), [25](https://www.legislation.gov.uk/ukpga/1972/58/section/25), [29–31](https://www.legislation.gov.uk/ukpga/1972/58/section/29), [37–51](https://www.legislation.gov.uk/ukpga/1972/58/section/37) repealed by [National Health Service (Scotland) Act 1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 109](https://www.legislation.gov.uk/ukpga/1978/29/section/109), [Sch. 17](https://www.legislation.gov.uk/ukpga/1978/29/schedule/17)
 
-[^key-92dc44bcd9dca0dd102dc49208b98de9]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1972/58/section/32) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-92dc44bcd9dca0dd102dc49208b98de9]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1972/58/section/32) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
-[^key-179e233c79d28ab58ba80985982757ac]: Textual amendment: S. 32(3)(d) substituted (9.7.2003) by [Health Professions Order 2001 (Consequential Amendments) Order 2003 (S.I. 2003/1590)](https://www.legislation.gov.uk/uksi/2003/1590), [art. 1](https://www.legislation.gov.uk/uksi/2003/1590/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/1590/schedule/paragraph/5)
+[^c-179e233c79d28ab58ba80985982757ac]: Textual amendment: S. 32(3)(d) substituted (9.7.2003) by [Health Professions Order 2001 (Consequential Amendments) Order 2003 (S.I. 2003/1590)](https://www.legislation.gov.uk/uksi/2003/1590), [art. 1](https://www.legislation.gov.uk/uksi/2003/1590/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/1590/schedule/paragraph/5)
 
 [^c823203]: Modification: The “Act of 1947” means [National Health Service (Scotland) Act 1947 (c. 27)](https://www.legislation.gov.uk/ukpga/1947/27)
 
-[^key-8f0941908ee6eed12ff4c1b0735bae66]: Textual amendment: [S. 34(2)(e)](https://www.legislation.gov.uk/ukpga/1972/58/section/34/2/e) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-8f0941908ee6eed12ff4c1b0735bae66]: Textual amendment: [S. 34(2)(e)](https://www.legislation.gov.uk/ukpga/1972/58/section/34/2/e) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c823204]: Textual amendment: S. 34(2)(g) inserted by [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [Sch. 4 para. 140](https://www.legislation.gov.uk/ukpga/1973/32/schedule/4/paragraph/140)
 
@@ -333,7 +333,7 @@ Section 32. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea4
 
 [^c823213]: Modification: The text of s. 53 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals that may have been made prior to 1.2.1991
 
-[^key-46c6015dab5030cb941d5bde572e1566]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/1972/58/section/53) repealed (S.) (1.1.2010) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3)
+[^c-46c6015dab5030cb941d5bde572e1566]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/1972/58/section/53) repealed (S.) (1.1.2010) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3)
 
 [^c823214]: Marginal citation: [1889 c. 72](https://www.legislation.gov.uk/ukpga/1889/72)
 
@@ -347,7 +347,7 @@ Section 32. *(Extent: S)* *(affected by repeal, see note)*[^key-8248fc2e2d3b0ea4
 
 [^c823219]: Textual amendment: Ss. 54–60, 61(4)(5), 62–65, Schs. 1–3, 5–7 repealed by [National Health Service (Scotland) Act 1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 109](https://www.legislation.gov.uk/ukpga/1978/29/section/109), [Sch. 17](https://www.legislation.gov.uk/ukpga/1978/29/schedule/17)
 
-[^key-8248fc2e2d3b0ea491494965b9df9739]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1972/58/schedule/4) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-8248fc2e2d3b0ea491494965b9df9739]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1972/58/schedule/4) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c823220]: Marginal citation: [1889 c. 72](https://www.legislation.gov.uk/ukpga/1889/72).
 

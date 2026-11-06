@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Where a shipment to be introduced into Great Britain[^key-58852d06bb0a2181cc3c5837e5c4ddba] arrives at a border customs office by sea, air or rail for dispatch by the same mode of transport, and without intermediate storage, to another customs office in Great Britain designated in accordance with Article 12(1) of Regulation (EC) No 338/97, the completion of checks and the presentation of import documents shall take place at the latter.
+1. Where a shipment to be introduced into Great Britain[^c-58852d06bb0a2181cc3c5837e5c4ddba] arrives at a border customs office by sea, air or rail for dispatch by the same mode of transport, and without intermediate storage, to another customs office in Great Britain designated in accordance with Article 12(1) of Regulation (EC) No 338/97, the completion of checks and the presentation of import documents shall take place at the latter.
 
 2. Where a shipment has been checked at a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97 and is dispatched to another customs office for any subsequent customs procedure, the latter shall require presentation of the ‘copy for the holder’ (form 2) of an import permit, completed in accordance with Article 23 of this Regulation, or the ‘copy for the importer’ (form 2) of an import notification, completed in accordance with Article 24 of this Regulation, and may carry out any checks it deems necessary in order to establish compliance with Regulation (EC) No 338/97 and this Regulation.
 
 ## Annotations
 
-[^key-58852d06bb0a2181cc3c5837e5c4ddba]: Textual amendment: Words in [Art. 53(1)](https://www.legislation.gov.uk/eur/2006/865/article/53/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(54)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/54)
+[^c-58852d06bb0a2181cc3c5837e5c4ddba]: Textual amendment: Words in [Art. 53(1)](https://www.legislation.gov.uk/eur/2006/865/article/53/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(54)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/54)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**5A.**[^key-61a3e6a87e8e181422119655caf90494] For regulation 3(2) substitute—
+**5A.**[^c-61a3e6a87e8e181422119655caf90494] For regulation 3(2) substitute—
 
 > (2) In any case where, under an exemption granted in accordance with Article 48 of the Directive, a person is entitled to use, and uses, a document specified by Commission Delegated Regulation (EU) 2018/273 of 11 December 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, the vineyard register, accompanying documents and certification, the inward and outward register, compulsory declarations, notifications and publication of notified information, and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks and penalties, amending Commission Regulations [(EC) No 555/2008](https://www.legislation.gov.uk/european/regulation/2008/0555), [(EC) No 606/2009](https://www.legislation.gov.uk/european/regulation/2009/0606) and [(EC) No 607/2009](https://www.legislation.gov.uk/european/regulation/2009/0607) and repealing [Commission Regulation (EC) No 436/2009](https://www.legislation.gov.uk/european/regulation/2009/0436) and Commission Delegated Regulation (EU) 2015/560—
 >
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61a3e6a87e8e181422119655caf90494]: Textual amendment: Reg. 5A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/2)
+[^c-61a3e6a87e8e181422119655caf90494]: Textual amendment: Reg. 5A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/2)

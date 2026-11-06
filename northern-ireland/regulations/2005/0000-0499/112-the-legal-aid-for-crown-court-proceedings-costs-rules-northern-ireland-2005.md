@@ -43,43 +43,43 @@ Coming into operation
 
 [^M_C_debf3995-f6fd-40c0-f6d9-d2c31243e312]The Lord Chancellor, in exercise of the powers conferred by Article 36(3) of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00001], and now vested in him[^f00002], and of all other powers enabling him in that behalf, after consultation with the Lord Chief Justice, the Attorney General and the Crown Court Rules Committee and with the approval of the Treasury, and having had regard to the matters specified in Article 37, hereby makes the following Rules:
 
-## 1. Citation and commencement[^key-bdf1a2bbb7dd5419a38eb17cba6fcdff]
+## 1. Citation and commencement[^c-bdf1a2bbb7dd5419a38eb17cba6fcdff]
 
 These Rules may be cited as the Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005 and shall come into operation on 4th April 2005.
 
-## 2. Interpretation[^key-9e7e05bc4d498e3045242868d63163cc]
+## 2. Interpretation[^c-9e7e05bc4d498e3045242868d63163cc]
 
 In these Rules, unless the context otherwise requires –
 
-- [^key-10df47fb747a87747550b6692d2478b9]...
+- [^c-10df47fb747a87747550b6692d2478b9]...
 - “Application Fee” has the meaning given by paragraphs 12(2), 13(3), 14(2) and 16 of Schedule 1;
 - “Basic Trial Fee” has the meaning given by paragraph 3 of Schedule 1;
-- “[^key-88aa99d822b2ab34a29e8acdcfd051af]**case**” means proceedings—
+- “[^c-88aa99d822b2ab34a29e8acdcfd051af]**case**” means proceedings—
   - (a) in the Crown Court against one assisted person-
     - (i) on one or more counts of a single indictment; or
     - (ii) arising out of a single alleged breach of an order of the Crown Court,and a case falling within sub-paragraph (ii) shall be treated as a separate case from the proceedings in which the order was made; or
   - (b) where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998;
 
   as the case may be.
-- “Certificate of Exceptionality” has the meaning given by rules 11A to 11E;[^key-e7c360448e456336c6079256d20ac4d0]
-- [^key-10df47fb747a87747550b6692d2478b9]...
+- “Certificate of Exceptionality” has the meaning given by rules 11A to 11E;[^c-e7c360448e456336c6079256d20ac4d0]
+- [^c-10df47fb747a87747550b6692d2478b9]...
 - “Class of Offence” has the meaning given by paragraphs 4 and 5 of Schedule 1;
-- [^key-f9564b4418f3624c67156fa7de95ae46]...
-- “costs” means, in the case of a solicitor, the fees and disbursements payable under Article 36 of the Order and, in the case of an counsel[^key-00f2c5b720ff1e8d2c817959104d743c], the fees payable under that Article;
-- “counsel” means counsel assigned under a criminal aid certificate granted under Article 29 of the Order, or counsel who undertook the defence of a person at the request of the judge under Article 36(2) of the Order , or counsel assigned under Article 28 of the Order for a case where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^key-63bf92a5944ca518c27fb22804f401e7];
-- “court-ordered youth conference” has the meaning given by Article 33A(5) of the Criminal Justice (Children) (Northern Ireland) Order 1998;[^key-7bc85a968b4747e439ea2e82f4a015dc]
+- [^c-f9564b4418f3624c67156fa7de95ae46]...
+- “costs” means, in the case of a solicitor, the fees and disbursements payable under Article 36 of the Order and, in the case of an counsel[^c-00f2c5b720ff1e8d2c817959104d743c], the fees payable under that Article;
+- “counsel” means counsel assigned under a criminal aid certificate granted under Article 29 of the Order, or counsel who undertook the defence of a person at the request of the judge under Article 36(2) of the Order , or counsel assigned under Article 28 of the Order for a case where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^c-63bf92a5944ca518c27fb22804f401e7];
+- “court-ordered youth conference” has the meaning given by Article 33A(5) of the Criminal Justice (Children) (Northern Ireland) Order 1998;[^c-7bc85a968b4747e439ea2e82f4a015dc]
 - “the Department” means the Department of Justice established by the Department of Justice Act (Northern Ireland) 2010;
-- [^key-0dae3c02c74f4b973a102dcdcadb8779]...
+- [^c-0dae3c02c74f4b973a102dcdcadb8779]...
 - “disbursements” means travelling and witness expenses and other out of pocket expenses incurred by a solicitor in giving legal aid;
 - “fee-earner” means a solicitor or any clerk who regularly does work for which it is appropriate to make a direct charge to the client;
-- “Guilty Plea Fee[^key-001f90d54665b3dbfe39429d52aa7493]” has the meaning given by paragraph 3 of Schedule 1;
-- “Trial Preparation Fee[^key-4e2a44b2a7dc77b17a0f69b81aba511b]” has the meaning given by paragraph 3 of Schedule 1;
-- “legal aid” means legal aid given under a criminal aid certificate granted under Article 29, or deemed to have been granted under Article 36(2), of the Order , or granted under Article 28 of the Order for a case where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^key-25b94602f8a15733297b7e734e5a8e2d];
-- “main hearing” means—[^key-3b0b693e3a2e1c672da388a27fcf1a43]
+- “Guilty Plea Fee[^c-001f90d54665b3dbfe39429d52aa7493]” has the meaning given by paragraph 3 of Schedule 1;
+- “Trial Preparation Fee[^c-4e2a44b2a7dc77b17a0f69b81aba511b]” has the meaning given by paragraph 3 of Schedule 1;
+- “legal aid” means legal aid given under a criminal aid certificate granted under Article 29, or deemed to have been granted under Article 36(2), of the Order , or granted under Article 28 of the Order for a case where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^c-25b94602f8a15733297b7e734e5a8e2d];
+- “main hearing” means—[^c-3b0b693e3a2e1c672da388a27fcf1a43]
   - (a) in relation to a case which goes to trial, the trial,
-  - (b) in relation to a case where a Trial Preparation Fee is payable [^key-802b67e6d2208521e9a609ba558a68c7]..., the hearing at which pleas are taken or, where there is more than one such hearing, the last such hearing, and
+  - (b) in relation to a case where a Trial Preparation Fee is payable [^c-802b67e6d2208521e9a609ba558a68c7]..., the hearing at which pleas are taken or, where there is more than one such hearing, the last such hearing, and
   - (c) in relation to any proceedings specified in paragraph 2 of Schedule 1, the final hearing
-- “meeting” has the meaning given by Article 3A(1) and (2) of the Criminal Justice (Children) (Northern Ireland) Order 1998;[^key-9352c6b5c96c518223f0d4e6e325a32c]
+- “meeting” has the meaning given by Article 3A(1) and (2) of the Criminal Justice (Children) (Northern Ireland) Order 1998;[^c-9352c6b5c96c518223f0d4e6e325a32c]
 - “Newton hearing” means a hearing at which evidence is heard for the purpose of determining the sentence of a convicted person in accordance with the principles of R v Newton (1982) 77 Cr App R 13;
 - “the Order” means the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00005];
 - “PPE Range” means the number of pages of prosecution evidence, and for this purpose the number of pages of prosecution evidence includes all–
@@ -93,37 +93,37 @@ In these Rules, unless the context otherwise requires –
 - “Refresher Fee” in respect of a solicitor has the meaning given by rule 8(3), and in respect of an counsel has the meaning given by rule 11(3);
 - “representative” means a solicitor or an counsel;
 - “the 1992 Rules” means the Legal Aid in Criminal Proceedings (Costs) Rules (Northern Ireland) 1992[^f00006];
-- “solicitor” means a solicitor assigned under a criminal aid certificate granted under Article 29 of the Order, or a solicitor who undertook the defence of a person at the request of the judge under Article 36(2) of the Order or a solicitor assigned under Article 28 of the Order for a case where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^key-8f06fd9bdacd6982f717420001769c79];
+- “solicitor” means a solicitor assigned under a criminal aid certificate granted under Article 29 of the Order, or a solicitor who undertook the defence of a person at the request of the judge under Article 36(2) of the Order or a solicitor assigned under Article 28 of the Order for a case where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^c-8f06fd9bdacd6982f717420001769c79];
 - “Table of Offences” has the meaning given by paragraphs 4 and 5 of Schedule 1;
 - “taxing master” means the Master (Taxing Office);
-- “[^key-3b322cec2a06b766a73f7e298a3b7f34]**trial**” includes contest proceedings where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) 1998;
+- “[^c-3b322cec2a06b766a73f7e298a3b7f34]**trial**” includes contest proceedings where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) 1998;
 - “youth conference” has the meaning given by Article 3A(1) of the Criminal Justice (Children) (Northern Ireland) Order 1998;
 - “youth conference co-ordinator” has the meaning given by Article 3A(3) of the Criminal Justice (Children) (Northern Ireland) Order 1998.
-- [^key-06ce0859e5653346be3960b1594703f4]...
-- [^key-06ce0859e5653346be3960b1594703f4]...
+- [^c-06ce0859e5653346be3960b1594703f4]...
+- [^c-06ce0859e5653346be3960b1594703f4]...
 
-## 3. Application and transitional arrangements[^key-de61fd2f5772a74c1432df0346f2beab]
+## 3. Application and transitional arrangements[^c-de61fd2f5772a74c1432df0346f2beab]
 
-(1) Subject to paragraphs (2) and (4)[^key-d0e5029252b731f1d3d3da4b3729879e], these Rules shall apply for the determination of costs which are payable in respect of work done under a criminal aid certificate granted under Article 29, or deemed to have been granted under Article 36(2), of the Order on or after 4th April 2005.
+(1) Subject to paragraphs (2) and (4)[^c-d0e5029252b731f1d3d3da4b3729879e], these Rules shall apply for the determination of costs which are payable in respect of work done under a criminal aid certificate granted under Article 29, or deemed to have been granted under Article 36(2), of the Order on or after 4th April 2005.
 
 (2) A representative whose fees under a criminal aid certificate granted under Article 29, or deemed to have been granted under Article 36(2), of the Order before 4th April 2005 would otherwise be determined in accordance with the 1992 Rules may apply to the Department[^M_F_68f2101c-bf52-4710-9f96-6caa60000de0] to have his fees determined and paid in accordance with these Rules.
 
 (3) Where the Department grants an application made under paragraph (2), the representative shall submit his claim in accordance with rule 7 or rule 10 as applicable and, in so doing, he shall forfeit any entitlement to have his fees determined and paid in accordance with the 1992 Rules.
 
-(4)[^key-8e0fcd3d62ca4ce995c258dbf3bd1082] These Rules shall apply for the determination of costs which are payable in respect of work done under a criminal aid certificate granted under Article 28 of the Order on or after 1st December 2024, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998.
+(4)[^c-8e0fcd3d62ca4ce995c258dbf3bd1082] These Rules shall apply for the determination of costs which are payable in respect of work done under a criminal aid certificate granted under Article 28 of the Order on or after 1st December 2024, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998.
 
-## 4. General[^key-fb5266ff28f026a718fb084e00bd6495]
+## 4. General[^c-fb5266ff28f026a718fb084e00bd6495]
 
-(1) [^key-3369023296128737034c6657f5c3f8c0]... Costs in respect of work done under a criminal aid certificate to which these Rules apply shall be determined by the Department in accordance with these Rules and having regard to such directions and guidance as may be issued by the Lord Chancellor.
+(1) [^c-3369023296128737034c6657f5c3f8c0]... Costs in respect of work done under a criminal aid certificate to which these Rules apply shall be determined by the Department in accordance with these Rules and having regard to such directions and guidance as may be issued by the Lord Chancellor.
 
 (2) In determining costs, the Department shall, subject to and in accordance with these Rules –
 
 - (a) take into account all the relevant circumstances of the case including the nature, importance, complexity or difficulty of the work and the time involved; and
 - (b) allow a reasonable amount in respect of all work reasonably undertaken and properly done.
 
-(3)[^key-0fe3b8c6d46b10d29055a0111f92a37e] Nothing in these Rules permits the payment of a leading junior counsel fee to counsel or a solicitor of less than fifteen years’ standing.
+(3)[^c-0fe3b8c6d46b10d29055a0111f92a37e] Nothing in these Rules permits the payment of a leading junior counsel fee to counsel or a solicitor of less than fifteen years’ standing.
 
-## 4A. Enhanced costs where solicitor conducts trial or hearing[^key-598c0f1c65038ff38384ec1bf91c20c2]
+## 4A. Enhanced costs where solicitor conducts trial or hearing[^c-598c0f1c65038ff38384ec1bf91c20c2]
 
 (1) Where a solicitor exercising his right of audience under section 50 of the Judicature (Northern Ireland) Act 1978 conducts a trial or hearing without counsel he shall be entitled to an enhancement of his costs in accordance with this rule.
 
@@ -137,17 +137,17 @@ In these Rules, unless the context otherwise requires –
 
 (6) Where the solicitor has less than three years’ standing, the amount of any enhancement under this rule shall be fifty percent of the standard fee to which a leading junior counsel (or led junior counsel, as applicable), if conducting the trial or hearing, would have been entitled.
 
-## 5. Interim payment of disbursements[^key-c90fa62960cbaa4fb62ead27e820bedc]
+## 5. Interim payment of disbursements[^c-c90fa62960cbaa4fb62ead27e820bedc]
 
-(1) A solicitor may submit a claim to the Department for payment of a disbursement for which he has incurred liability in criminal proceedings in [^key-ceb7343ca8e3dc4233450d63cb30b878]... Court in accordance with the provisions of this rule.
+(1) A solicitor may submit a claim to the Department for payment of a disbursement for which he has incurred liability in criminal proceedings in [^c-ceb7343ca8e3dc4233450d63cb30b878]... Court in accordance with the provisions of this rule.
 
 (2) A claim for payment may be made where –
 
-- (a) the disbursement falls within any guidance issued by the Department in respect of criminal proceedings in [^key-dea179063a7c954c2d67f899b72ab1d0]... Court, or the solicitor has obtained prior authority from the Department to incur the expenditure; and[^key-c70e585d861ee6e540a21a456a6ccd12]
-- (b) the total liability for such disbursement exceeds £250.[^key-7eb6663d99b12b87960c5d06f99bebbf]
-- (c)[^key-cf61230e3f673dcc8ba5ea924385dcd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the disbursement falls within any guidance issued by the Department in respect of criminal proceedings in [^c-dea179063a7c954c2d67f899b72ab1d0]... Court, or the solicitor has obtained prior authority from the Department to incur the expenditure; and[^c-c70e585d861ee6e540a21a456a6ccd12]
+- (b) the total liability for such disbursement exceeds £250.[^c-7eb6663d99b12b87960c5d06f99bebbf]
+- (c)[^c-cf61230e3f673dcc8ba5ea924385dcd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Without prejudice to rule 9(4), a claim under paragraph (1) shall not exceed £3,500[^key-d882b6f1407d47a01915fc897119fb80] or the maximum fee authorised under the prior authority, whichever is the greater.
+(3) Without prejudice to rule 9(4), a claim under paragraph (1) shall not exceed £3,500[^c-d882b6f1407d47a01915fc897119fb80] or the maximum fee authorised under the prior authority, whichever is the greater.
 
 (4) A claim for payment under paragraph (1) may be made at any time before the solicitor submits a claim for costs under rule 7(2).
 
@@ -159,22 +159,22 @@ In these Rules, unless the context otherwise requires –
 
 (8) Rules 13 to 15 (redetermination etc.) shall not apply to a payment under this rule.
 
-(9)[^key-a5a9ff25b28cf9944828b3d87658d4cc] In this rule, “**Court**” means—
+(9)[^c-a5a9ff25b28cf9944828b3d87658d4cc] In this rule, “**Court**” means—
 
 - (a) the Crown Court; or
 - (b) the magistrates’ court, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998;
 
 as the case may be.
 
-## 6. Interim disbursements and final determination of costs[^key-b08ad3876d4027723c8e185a2b977771]
+## 6. Interim disbursements and final determination of costs[^c-b08ad3876d4027723c8e185a2b977771]
 
 (1) On a final determination of costs, rules 7(2) and (3)(e) and 9 shall apply notwithstanding that a payment has been made under rule 5.
 
 (2) Where the amount found to be due under rule 9 in respect of a disbursement is less than the amount paid under rule 5 (“the interim disbursement”), the Department[^M_F_e34ccdaf-fb30-4b0d-ea6b-6735233e0705] shall deduct the difference from the sum otherwise payable to the solicitor on the determination of costs, and where the amount due under rule 9 exceeds the interim disbursement, the Department shall add the difference to the amount otherwise payable to the solicitor.
 
-## 7. Claims for costs by solicitors[^key-45ecacbb0b3efbfb31eb3f3ee7a08f04]
+## 7. Claims for costs by solicitors[^c-45ecacbb0b3efbfb31eb3f3ee7a08f04]
 
-(1) Subject to rule 19, no claim by a solicitor for costs in respect of work done under a criminal aid certificate shall be entertained unless he submits it within three months of the conclusion of the proceedings to which the criminal aid certificate relates [^key-7979f55dfd10a8487991f60c2d4bf2be]....
+(1) Subject to rule 19, no claim by a solicitor for costs in respect of work done under a criminal aid certificate shall be entertained unless he submits it within three months of the conclusion of the proceedings to which the criminal aid certificate relates [^c-7979f55dfd10a8487991f60c2d4bf2be]....
 
 (2) Subject to paragraph (3), a claim for costs shall be submitted to the Department[^M_F_0cd196dd-f0e3-49fc-861e-a0a8a48607c6] in such form and manner as it may direct and shall be accompanied by any receipts or other documents in support of any disbursement claimed.
 
@@ -186,13 +186,13 @@ as the case may be.
 - (d) give particulars of any work done in relation to more than one indictment or a retrial; and
 - (e) specify any disbursements claimed, the circumstances in which they were incurred and the amounts claimed in respect of them.
 
-(4)[^key-a3a3a50167f1e2d466b90a533bf6ee46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a3a3a50167f1e2d466b90a533bf6ee46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where there are any special circumstances which should be drawn to the attention of the Department, the solicitor shall specify them.
 
 (6) The solicitor shall supply such further particulars, information and documents as the Department may require.
 
-## 8. Determination of solicitors' fees[^key-5601c137dfd067f35fca99d26fa62f9c]
+## 8. Determination of solicitors' fees[^c-5601c137dfd067f35fca99d26fa62f9c]
 
 (1) The Department[^M_F_8d872ae0-ba5b-48e0-bcac-9c15be1169ec] shall consider the claim, any further particulars, information or documents submitted by the solicitor under rule 7 and any other relevant information and shall allow such work as appears to it to have been reasonably undertaken and properly done.
 
@@ -200,33 +200,33 @@ as the case may be.
 
 (3) The Department may, except in relation to work for which a Guilty Plea Fee[^M_F_2bbf60d3-855f-4e0e-ad2b-9f64162f6764] is payable or a fixed fee is allowed under paragraph (15), allow any of the following classes of fee to the solicitor in respect of work allowed by it under this rule –
 
-- (a) a Basic Trial Fee or Trial Preparation Fee, as applicable[^key-60f323dd941ace0b0b16315ce730f000] [^key-6d2936905b059eec2c293d9a7a00fb24]..., for preparation and, where appropriate, the first day’s hearing including, where they took place on that day, short consultations, applications and appearances (including bail applications), views and any other preparation;
+- (a) a Basic Trial Fee or Trial Preparation Fee, as applicable[^c-60f323dd941ace0b0b16315ce730f000] [^c-6d2936905b059eec2c293d9a7a00fb24]..., for preparation and, where appropriate, the first day’s hearing including, where they took place on that day, short consultations, applications and appearances (including bail applications), views and any other preparation;
 - (b) a Refresher Fee for any day or part of a day during which a hearing continued, including, where they took place on that day, short consultations, applications and appearances (including bail applications), views and any other preparation;
 - (c) subsidiary fees for attendance at applications and appearances (including bail applications and adjournments for sentence) not covered by sub-paragraph (a) or (b).
 
-(4)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-481c814b93a643977f0c04c70488eb0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14A)[^key-9ac53ae35fcc3e18af47f44642832cc6] Costs in respect of work done in a case which proceeded to trial and that trial lasted more than 80 days shall be assessed by the Department in accordance with paragraph (14B), and on an exceptional basis may be submitted to the Department for approval.
+(14A)[^c-9ac53ae35fcc3e18af47f44642832cc6] Costs in respect of work done in a case which proceeded to trial and that trial lasted more than 80 days shall be assessed by the Department in accordance with paragraph (14B), and on an exceptional basis may be submitted to the Department for approval.
 
 (14B) When assessing the costs payable under paragraph (14A), the Department shall have regard to–
 
@@ -235,7 +235,7 @@ as the case may be.
 
 (15) In any proceedings specified in paragraph 2 of Schedule 1, the Department shall allow a fixed fee calculated in accordance with paragraphs 19, 20(2) and 21(2) and (3), together with any travelling allowance payable under paragraph 29(1), of that Schedule.
 
-## 9. Determination of solicitors' disbursements[^key-3365dd4dd07871c109b573bde516af54]
+## 9. Determination of solicitors' disbursements[^c-3365dd4dd07871c109b573bde516af54]
 
 (1) Subject to the provisions of this rule, the Department[^M_F_bec1c3d5-7b5d-4b29-bef5-3e9daafb3486] shall allow such disbursements claimed under rule 7 as appear to it to have been actually and reasonably incurred.
 
@@ -245,9 +245,9 @@ as the case may be.
 
 (4) Where costs are incurred in taking any steps or doing any act for which authority may be given under these Rules, without such authority having been given or in excess of any fee so authorised, payment in respect of those costs may nevertheless be allowed on a determination of costs.
 
-## 10. Claims for fees by advocates[^key-9daf82ac50ec16b8a87aeba6f94c529e]
+## 10. Claims for fees by advocates[^c-9daf82ac50ec16b8a87aeba6f94c529e]
 
-(1) Subject to rule 19, no claim by an counsel for fees for work done under a criminal aid certificate shall be entertained unless he submits it within three months of the conclusion of the proceedings to which the criminal aid certificate relates [^key-a4b95d1a49800977d8a328bc73168fc4]....
+(1) Subject to rule 19, no claim by an counsel for fees for work done under a criminal aid certificate shall be entertained unless he submits it within three months of the conclusion of the proceedings to which the criminal aid certificate relates [^c-a4b95d1a49800977d8a328bc73168fc4]....
 
 (2) Subject to paragraph (3), a claim for fees shall be submitted to the Department[^M_F_962515b3-56eb-427f-9c2f-b228c551af3a] in such form and manner as it may direct.
 
@@ -257,13 +257,13 @@ as the case may be.
 - (b) state the dates on which the items of work were done, the time taken where appropriate, the sums claimed and whether the work was done for more than one assisted person; and
 - (c) give particulars of any work done in relation to more than one indictment or a retrial.
 
-(4)[^key-8232a2e48373cc68b3e301e541229ecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8232a2e48373cc68b3e301e541229ecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where there are any special circumstances which should be drawn to the attention of the Department, the counsel shall specify them.
 
 (6) The counsel shall supply such further particulars, information and documents as the Department may require.
 
-## 11. Determination of advocates' fees[^key-9b53416e57aece30a678294b0ac1a5c1]
+## 11. Determination of advocates' fees[^c-9b53416e57aece30a678294b0ac1a5c1]
 
 (1) The Department[^M_F_8cd0a715-de86-46c1-df30-839a4cc64d1c] shall consider the claim, any further particulars, information or documents submitted by the counsel under rule 10 and any other relevant information and shall allow such work as appears to it to have been reasonably undertaken and properly done.
 
@@ -277,17 +277,17 @@ as the case may be.
   - (i) attendance at consultations and views not covered by sub-paragraph (a) or (b);
   - (ii) attendance at applications and appearances (including bail applications and adjournments for sentence) not covered by sub-paragraph (a) or (b).
 
-(4)[^key-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c9f765f5196187309afed3ee1cf4563e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8A)[^key-c296c26b732c1bf8fa83dd643e200b41] Costs in respect of work done in a case which proceeded to trial and that trial lasted more than 80 days shall be assessed by the Department in accordance with paragraph (8B), and on an exceptional basis may be submitted to the Department for approval.
+(8A)[^c-c296c26b732c1bf8fa83dd643e200b41] Costs in respect of work done in a case which proceeded to trial and that trial lasted more than 80 days shall be assessed by the Department in accordance with paragraph (8B), and on an exceptional basis may be submitted to the Department for approval.
 
 (8B) When assessing the costs payable under paragraph (8A), the Department shall have regard to–
 
@@ -296,7 +296,7 @@ as the case may be.
 
 (9) In any proceedings specified in paragraph 2 of Schedule 1, the Department shall allow a fixed fee calculated in accordance with paragraphs 19, 20(2) and 21(2) and (3), together with any travelling allowance payable under paragraph 30(1), of that Schedule.
 
-## 11A. Exceptional Preparation – Application for Certificate of Exceptionality[^key-b04565a5e77113586e22ab77b4409b58]
+## 11A. Exceptional Preparation – Application for Certificate of Exceptionality[^c-b04565a5e77113586e22ab77b4409b58]
 
 (1) Where a representative considers that a case (or part of a case which is the subject-matter of the application) –
 
@@ -422,7 +422,7 @@ TABLES OF PRESCRIBED HOURLY RATES FOR EXCEPTIONAL PREPARATION WORK
 
 (9) The provisions of rules 4, 7, 8(1), 10, 11(1) and 12 to 15 shall apply with the necessary modifications to the fees payable under this rule.
 
-## 12. Payment of costs[^key-bff07e54220b41fc3befd592a6219949]
+## 12. Payment of costs[^c-bff07e54220b41fc3befd592a6219949]
 
 (1) Having determined the costs payable to a representative in accordance with these Rules, the Department[^M_F_636f063f-d74e-4768-b0e2-e48de27d0b9f] shall notify the representative of the costs payable and authorise payment accordingly.
 
@@ -432,15 +432,15 @@ TABLES OF PRESCRIBED HOURLY RATES FOR EXCEPTIONAL PREPARATION WORK
 - (b) where the costs are decreased, the representative shall repay the amount of such decrease; and
 - (c) where the payment of any costs to the representative is ordered under rule 14(14) or 15(8), the Department shall authorise such payment.
 
-## 13. Redetermination of costs by Commission[^key-13531115237b7183d0aee4feb1ccb237]
+## 13. Redetermination of costs by Commission[^c-13531115237b7183d0aee4feb1ccb237]
 
 (1) Where a representative is dissatisfied with –
 
 - (a) the classification, under paragraph 5 of Schedule 1, of an offence not specifically listed in the Table of Offences set out in Schedule 3 but deemed to fall within Class H;
-- (b)[^key-26bb250496a7aee3a43c909406e79f03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-26bb250496a7aee3a43c909406e79f03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the calculation of the costs payable under Schedule 1,
 
-he may apply to the Department[^M_F_44ae8411-4b1f-4cf5-eab9-7e13180e5490] to reclassify the offence[^key-1375996d29705a1be9d1d8067de06d85]... or to redetermine those costs as the case may be.
+he may apply to the Department[^M_F_44ae8411-4b1f-4cf5-eab9-7e13180e5490] to reclassify the offence[^c-1375996d29705a1be9d1d8067de06d85]... or to redetermine those costs as the case may be.
 
 (2) Subject to rule 19, the application shall be made within 21 days of receiving notification of the decision or the costs payable under rule 12, as the case may be, by giving notice in writing to the Department specifying the matters in respect of which the application is made and the grounds of objection and shall be made in such form and manner as the Department may direct.
 
@@ -452,7 +452,7 @@ he may apply to the Department[^M_F_44ae8411-4b1f-4cf5-eab9-7e13180e5490] to rec
 
 (6) The Department shall –
 
-- (a) review the classification referred to in paragraph (1)(a) [^key-6d3cc83b9e3894124a27c09cad44afa0]... and confirm or vary it; or
+- (a) review the classification referred to in paragraph (1)(a) [^c-6d3cc83b9e3894124a27c09cad44afa0]... and confirm or vary it; or
 - (b) redetermine the costs, whether by way of confirmation, or increase or decrease in the amount previously determined,
 
 in the light of the objections made by the applicant or on his behalf and shall notify the applicant of its decision.
@@ -461,9 +461,9 @@ in the light of the objections made by the applicant or on his behalf and shall 
 
 (8) Subject to rule 19, any request under paragraph (7) shall be made within 21 days of receiving notification of the decision.
 
-(9)[^key-15e259e82250f57264971bf20270d366] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-15e259e82250f57264971bf20270d366] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Appeals to the taxing master[^key-854ee8cd273a18039e152b105f71ba1f]
+## 14. Appeals to the taxing master[^c-854ee8cd273a18039e152b105f71ba1f]
 
 (1) Where the Department[^M_F_43a8b9ea-b520-4689-a8d9-8da0d0fb9b0c] has given its reasons for its decision under rule 13, a representative who is dissatisfied with that decision may appeal to the taxing master.
 
@@ -501,9 +501,9 @@ in the light of the objections made by the applicant or on his behalf and shall 
 
 (14) Except where he confirms or decreases the sums redetermined under rule 13 or confirms a decision to allow fixed fees, the taxing master may allow the appellant a sum in respect of part or all of any reasonable costs (including any fee payable in respect of an appeal) incurred by him in connection with the appeal.
 
-(15)[^key-8ad217fc115d1ce4d2fd388cd89462c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-8ad217fc115d1ce4d2fd388cd89462c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Appeals to the High Court[^key-5cd91032595468ad6137d87394ea4a14]
+## 15. Appeals to the High Court[^c-5cd91032595468ad6137d87394ea4a14]
 
 (1) A representative who is dissatisfied with the decision of the taxing master on an appeal under rule 14 may apply to the taxing master to certify a point of principle of general importance; provided that, if the taxing master refuses such application, the representative may renew the application before a judge of the High Court.
 
@@ -521,7 +521,7 @@ in the light of the objections made by the applicant or on his behalf and shall 
 
 (8) The judge shall have the same powers as the Department[^M_F_018a10b9-0224-4172-aaa4-52b1aedcf9fb] and the taxing master under these Rules and may reverse, affirm or amend the decision appealed against or make such other order as he thinks fit.
 
-## 16. Very High Cost Cases – Certification[^key-434f2d2290cfad5e1b0408558196204a]
+## 16. Very High Cost Cases – Certification[^c-434f2d2290cfad5e1b0408558196204a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -531,39 +531,39 @@ in the light of the objections made by the applicant or on his behalf and shall 
 
 **16C.**[^M_F_e75e0b97-5eb1-4abd-958a-d853adfd6dc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Very High Cost Cases – Determination of representatives' fees[^key-434f2d2290cfad5e1b0408558196204a]
+## 17. Very High Cost Cases – Determination of representatives' fees[^c-434f2d2290cfad5e1b0408558196204a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17A. Very High Cost Cases – Review by the taxing master[^key-434f2d2290cfad5e1b0408558196204a]
+## 17A. Very High Cost Cases – Review by the taxing master[^c-434f2d2290cfad5e1b0408558196204a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17B. Very High Cost Cases – Appeals to the High Court[^key-434f2d2290cfad5e1b0408558196204a]
+## 17B. Very High Cost Cases – Appeals to the High Court[^c-434f2d2290cfad5e1b0408558196204a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Restriction on payment[^key-7ab96c23133c453efde959afc9e8a0a0]
+## 18. Restriction on payment[^c-7ab96c23133c453efde959afc9e8a0a0]
 
 Where a criminal aid certificate has been granted in respect of any proceedings to which these Rules apply, a representative shall not receive or be a party to the making of any payment for work done in connection with those proceedings except such payments as may be made –
 
 - (a) by the Department[^M_F_dba9c97b-de31-404e-cdb3-8650350aca5d]; or
 - (b) in respect of any expenses or fees incurred in preparing, obtaining or considering any report, opinion or further evidence, whether provided by an expert witness or otherwise, where an application for an authority to incur such expenses or fees has been refused by the Department.
 
-## 19. Time limits[^key-4301aee2f29551b685913d4e15e06315]
+## 19. Time limits[^c-4301aee2f29551b685913d4e15e06315]
 
 (1) Subject to paragraph (2), the time limit within which any act is required or authorised to be done under these Rules may, for good reason, be extended –
 
-- (a) in the case of acts required or authorised to be done under rule 14 or 15[^key-7561a01ec3a848956a28d9e0b0acff6c], by the taxing master or the High Court as the case may be; and
+- (a) in the case of acts required or authorised to be done under rule 14 or 15[^c-7561a01ec3a848956a28d9e0b0acff6c], by the taxing master or the High Court as the case may be; and
 - (b) in the case of acts required or authorised to be done by a representative under any other rule, by the Department[^M_F_69e2b5b3-df08-4e24-87d3-f00e53f5d838].
 
 (2) Where a representative without good reason has failed (or, if an extension were not granted, would fail) to comply with a time limit, the Department, the taxing master or the High Court, as the case may be, may, in exceptional circumstances, extend the time limit and shall consider whether it is reasonable in the circumstances to reduce the costs; provided that the costs shall not be reduced unless the representative has been permitted a reasonable opportunity to show cause orally or in writing why the costs should not be reduced.
 
 (3) A representative may appeal to the taxing master against a decision made under this rule by the Department and such an appeal shall be instituted within 21 days of receiving notification of the decision by giving notice in writing to the taxing master specifying the grounds of appeal.
 
-## 20. Review[^key-d905ff66341dd5755e428abd39c85654]
+## 20. Review[^c-d905ff66341dd5755e428abd39c85654]
 
-(1) The Department[^key-e3de119926dd6ec42f4b9967519d450c] shall keep the general operation of these Rules under review to ensure that they are consistent with the requirements of Article 37 of the Order.
+(1) The Department[^c-e3de119926dd6ec42f4b9967519d450c] shall keep the general operation of these Rules under review to ensure that they are consistent with the requirements of Article 37 of the Order.
 
 (2) Without prejudice to paragraph (1), the Department shall conduct a formal review of the levels of the prescribed fees and the rates of payment under the Rules at least once in every review period.
 
@@ -575,10 +575,10 @@ Where a criminal aid certificate has been granted in respect of any proceedings 
 
 (4) When conducting a review under this rule, the Department shall have regard, among the matters which are relevant, to –
 
-- (a) any representations made by the Lord Chief Justice, the Attorney General,[^key-14cfcc75d8b10f359361fd6f6208eef0] the Law Society of Northern Ireland, the General Council of the Bar of Northern Ireland, the Director of Public Prosecutions for Northern Ireland and the Department[^M_F_a524d685-c80a-4f21-9ca9-0cedacd31ff7]; and
+- (a) any representations made by the Lord Chief Justice, the Attorney General,[^c-14cfcc75d8b10f359361fd6f6208eef0] the Law Society of Northern Ireland, the General Council of the Bar of Northern Ireland, the Director of Public Prosecutions for Northern Ireland and the Department[^M_F_a524d685-c80a-4f21-9ca9-0cedacd31ff7]; and
 - (b) any other representations which it considers to be relevant.
 
-(5)[^key-c8601eba5def4a0ae7e7a8bda6dead7d] In paragraph (2) “review period” means the period of three years beginning with 5th May 2015 and each subsequent period of three years.
+(5)[^c-c8601eba5def4a0ae7e7a8bda6dead7d] In paragraph (2) “review period” means the period of three years beginning with 5th May 2015 and each subsequent period of three years.
 
 Signed by authority of the Lord Chancellor
 
@@ -606,22 +606,22 @@ Rules 8 and 11
 
 ### PART 1 — definition and scope
 
-**1.**[^key-07f946944d219cbe05862ff0b4491ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-07f946944d219cbe05862ff0b4491ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0aa2274c310210b9f588bcca9b18ed5b] Paragraphs 19, 20(2), 21(2) and (3), 29(1) and 30(1) of this Schedule also apply to the following proceedings in the Crown Court , or proceedings where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^key-3e22c8b1a67ce235fbc9daa1189535a3] –
+**2.**[^c-0aa2274c310210b9f588bcca9b18ed5b] Paragraphs 19, 20(2), 21(2) and (3), 29(1) and 30(1) of this Schedule also apply to the following proceedings in the Crown Court , or proceedings where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^c-3e22c8b1a67ce235fbc9daa1189535a3] –
 
-- (a) proceedings arising out of an alleged breach of an order of the [^key-f9b3845b19e82202d5b8cdc7fc459950]... Court (whether or not this Schedule applies to the proceedings in which the order was made); and
+- (a) proceedings arising out of an alleged breach of an order of the [^c-f9b3845b19e82202d5b8cdc7fc459950]... Court (whether or not this Schedule applies to the proceedings in which the order was made); and
 - (b) proceedings for contempt committed, or alleged to have been committed, by an individual in the face of the Court, and where a court grants legal aid to a person for the purposes of proceedings under this sub-paragraph it may assign to him, for the purposes of those proceedings, any representative who is within the precincts of the court.
 
-**3.**[^key-548fe23f7e2d74f387c649b64666e361] (1) A case on indictment is a guilty plea if it was disposed of without a trial because the assisted person pleaded guilty to one or more counts.
+**3.**[^c-548fe23f7e2d74f387c649b64666e361] (1) A case on indictment is a guilty plea if it was disposed of without a trial because the assisted person pleaded guilty to one or more counts.
 
-(2) Subject to sub-paragraph (3), a Guilty Plea Fee[^M_F_277d843d-6955-401e-ef7d-9385caa69a06] shall be payable in a case where the assisted person pleaded guilty to one or more counts at the first arraignment[^key-754ab1f6347d071a885ef1fa55f5cd39] [^key-30c41caa742369f28ea960f2db38ae57]... and the case did not proceed to trial.
+(2) Subject to sub-paragraph (3), a Guilty Plea Fee[^M_F_277d843d-6955-401e-ef7d-9385caa69a06] shall be payable in a case where the assisted person pleaded guilty to one or more counts at the first arraignment[^c-754ab1f6347d071a885ef1fa55f5cd39] [^c-30c41caa742369f28ea960f2db38ae57]... and the case did not proceed to trial.
 
-(3) A Trial Preparation Fee[^M_F_a16f28fe-891d-4cdb-d4c9-569e58c49bb7] shall be payable [^key-00946eefe5fb0ea5ead96c85c3b779ac]... in a case where the assisted person pleaded guilty to one or more counts after the first arraignment but before the end of the first full day of trial and the trial did not proceed further.
+(3) A Trial Preparation Fee[^M_F_a16f28fe-891d-4cdb-d4c9-569e58c49bb7] shall be payable [^c-00946eefe5fb0ea5ead96c85c3b779ac]... in a case where the assisted person pleaded guilty to one or more counts after the first arraignment but before the end of the first full day of trial and the trial did not proceed further.
 
 (4) A Basic Trial Fee shall only be payable in a case where the assisted person pleaded not guilty to one or more counts and the trial proceeded beyond the first full day of trial (or it was otherwise completed as a trial within one day).
 
-(5)[^key-301bebd5766cf6f70a160db82f1f8549] For the purposes of sub-paragraphs (3) and (4), a day shall not be considered as the first full day of trial unless:
+(5)[^c-301bebd5766cf6f70a160db82f1f8549] For the purposes of sub-paragraphs (3) and (4), a day shall not be considered as the first full day of trial unless:
 
 - (a) the prosecution had opened its case and the first prosecution witness had begun to give evidence; or
 - (b) where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998, and where the case was contested:
@@ -629,9 +629,9 @@ Rules 8 and 11
   - (ii) on legal arguments, with no witnesses being called; or
   - (iii) with the prosecution evidence being accepted but a defence was put forward.
 
-**4.**[^key-68b5c1566ef97c6602d458b8e985f8f0] A reference in this Schedule to the Table of Offences refers to the Table of Offences in Schedule 3 and , subject to paragraph 4A,[^key-057feb3d860828fcbc16ae99dac38a27] a reference in this Schedule to a Class of Offence refers to the Class in which that offence is listed in the Table of Offences.
+**4.**[^c-68b5c1566ef97c6602d458b8e985f8f0] A reference in this Schedule to the Table of Offences refers to the Table of Offences in Schedule 3 and , subject to paragraph 4A,[^c-057feb3d860828fcbc16ae99dac38a27] a reference in this Schedule to a Class of Offence refers to the Class in which that offence is listed in the Table of Offences.
 
-**4A.**[^key-af92b48275492df588a56fe730ff00bf] (1) This paragraph applies to the following offences—
+**4A.**[^c-af92b48275492df588a56fe730ff00bf] (1) This paragraph applies to the following offences—
 
 - (a) causing death by dangerous driving, contrary to Article 9 of the Road Traffic (Northern Ireland) Order 1995;
 - (b) causing death by careless driving while under the influence of drink or drugs, contrary to Article 14 of the Road Traffic (Northern Ireland) Order 1995;
@@ -639,7 +639,7 @@ Rules 8 and 11
 
 (2) Notwithstanding the provisions in paragraphs 4 and 5(1)(a), for the purpose of this Schedule, the offences listed in sub-paragraph (1) shall be deemed to fall within Class D, rather than Class B, in the Table of Offences.
 
-**5.**[^key-c07f1035129ebab673935d9223d9aba7] (1) For the purposes of this Schedule –
+**5.**[^c-c07f1035129ebab673935d9223d9aba7] (1) For the purposes of this Schedule –
 
 - (a) every indictable offence falls within the Class under which it is listed in the Table of Offences and, subject to sub-paragraph (2) below, indictable offences not specifically so listed shall be deemed to fall within Class H;
 - (b) conspiracy to commit an indictable offence contrary to Articles 9 and 9A of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983[^f00007], incitement to commit an indictable offence and attempts to commit an indictable offence contrary to Article 3 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983, fall within the same Class as the substantive offence to which they relate;
@@ -651,11 +651,11 @@ Rules 8 and 11
 
 ### PART 2 — standard fees for trials
 
-**6.**[^key-4503902f7e7d731aeeb8ae9acb9d6460] (1) The amount of the standard fee for a representative representing one assisted person tried on one indictment in [^key-1cc1513a7418f5bb4dd2d7861cfcebe0]... Court shall be calculated according to the following formula –
+**6.**[^c-4503902f7e7d731aeeb8ae9acb9d6460] (1) The amount of the standard fee for a representative representing one assisted person tried on one indictment in [^c-1cc1513a7418f5bb4dd2d7861cfcebe0]... Court shall be calculated according to the following formula –
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2005/112)
 
-(1A)[^key-d8a5e3b53407641741919baa7ae40772] In this paragraph, “**Court**” means—
+(1A)[^c-d8a5e3b53407641741919baa7ae40772] In this paragraph, “**Court**” means—
 
 - (a) the Crown Court; or
 - (b) the magistrates’ court, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998;
@@ -671,9 +671,9 @@ as the case may be.
 - AF is the amount of any Additional Fees payable under Part 4 of this Schedule; and
 - T is the amount of any travelling allowance payable under paragraph 29 or 30, as applicable.
 
-**7.**[^key-05b7396fa1e8e26c31e8bbeee2df253f] For the purposes of paragraph 6 the Basic Trial Fee and Refresher Fee appropriate to any offence shall be those specified in the Table below as appropriate to the representative (including the category of counsel instructed, as applicable), the Class within which that offence falls according to paragraph 5 and the actual duration of the trial.
+**7.**[^c-05b7396fa1e8e26c31e8bbeee2df253f] For the purposes of paragraph 6 the Basic Trial Fee and Refresher Fee appropriate to any offence shall be those specified in the Table below as appropriate to the representative (including the category of counsel instructed, as applicable), the Class within which that offence falls according to paragraph 5 and the actual duration of the trial.
 
-#### TABLES OF BASIC TRIAL FEES AND REFRESHER FEES[^key-63447add8e2a22824880cfdf6706ab80]
+#### TABLES OF BASIC TRIAL FEES AND REFRESHER FEES[^c-63447add8e2a22824880cfdf6706ab80]
 
 (a) Basic Trial Fees
 
@@ -872,29 +872,29 @@ Sole Junior Counsel
 </tbody>
 </table>
 
-**7.**[^key-87c3c1995b753157aabb035c3464b1a8] (1) This paragraph applies where a fee is payable to a solicitor under this Part.
+**7.**[^c-87c3c1995b753157aabb035c3464b1a8] (1) This paragraph applies where a fee is payable to a solicitor under this Part.
 
 (2) Where the PPE Range exceeds the upper limit specified in the Table of Basic Trial Fees payable to a solicitor, as appropriate to the Class of Offence involved, an additional fee shall be payable to the solicitor of £1 per each additional page.
 
-**7A.**[^key-6a725d334eaf430664be0b0b2175ba65] (1) This paragraph applies where a fee is payable to a solicitor under this Part.
+**7A.**[^c-6a725d334eaf430664be0b0b2175ba65] (1) This paragraph applies where a fee is payable to a solicitor under this Part.
 
-(2) Where the PPE Range exceeds 3,000 pages, an additional fee shall be payable to the solicitor of £1.16[^key-adbba1ee8ec22f9423b52fe3baea92fe] per each additional page.
+(2) Where the PPE Range exceeds 3,000 pages, an additional fee shall be payable to the solicitor of £1.16[^c-adbba1ee8ec22f9423b52fe3baea92fe] per each additional page.
 
 ### PART 3 — standard fees for guilty pleas
 
-**8.**[^key-32cf323230d865e6a6164d6001981a3b] (1)[^key-f97435276d6349a55e88debaaa5c10c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-32cf323230d865e6a6164d6001981a3b] (1)[^c-f97435276d6349a55e88debaaa5c10c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-ca7e3958aa901aa4615cc7a7e871685a] The amount of the standard fee for a representative representing one assisted person in a guilty plea shall be the fee specified in paragraph 9 as appropriate to whether the case was a Guilty Plea or a Trial Preparation case, the representative (including the category of counsel instructed, as applicable) and the offence with which the assisted person was charged.
+(1A)[^c-ca7e3958aa901aa4615cc7a7e871685a] The amount of the standard fee for a representative representing one assisted person in a guilty plea shall be the fee specified in paragraph 9 as appropriate to whether the case was a Guilty Plea or a Trial Preparation case, the representative (including the category of counsel instructed, as applicable) and the offence with which the assisted person was charged.
 
-(2)[^key-f97435276d6349a55e88debaaa5c10c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f97435276d6349a55e88debaaa5c10c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2A) In a case where a Guilty Plea Fee is payable, subject to paragraphs 14, 15A, 18A, 18B, 29 and 30, the amount so payable shall be an all-inclusive fee.
 
-(3) In a case where [^key-f5209ff9869acb3ce8eb0e83a863cfaa]... a Trial Preparation Fee[^key-6171221f3788f02d20dff271d4c94862] is payable, the amount so payable for a representative representing one assisted person tried on one indictment in [^key-6de841b6258472bbbf2252e016d84905]... Court shall be calculated according to the following formula –
+(3) In a case where [^c-f5209ff9869acb3ce8eb0e83a863cfaa]... a Trial Preparation Fee[^c-6171221f3788f02d20dff271d4c94862] is payable, the amount so payable for a representative representing one assisted person tried on one indictment in [^c-6de841b6258472bbbf2252e016d84905]... Court shall be calculated according to the following formula –
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2005/112)
 
-(3A)[^key-f21a8bd4392b10900911af612ca0f56d] In this paragraph, “**Court**” means—
+(3A)[^c-f21a8bd4392b10900911af612ca0f56d] In this paragraph, “**Court**” means—
 
 - (a) the Crown Court; or
 - (b) the magistrates’ court, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998;
@@ -904,13 +904,13 @@ as the case may be.
 (4) In the formula in sub-paragraph (3) –
 
 - S<sub>2</sub> is the amount of the standard fee;
-- G2 is the[^key-043addff56c4de6f5bb4ac46682c98f9] [^key-116da60ea7dc3082e1a66907f92e7fcc]... Trial Preparation Fee specified in paragraph 9 as appropriate to the representative (including the category of counsel instructed, as applicable) and the offence for which the assisted person was charged , including the PPE Range[^key-b2c023acdfe22947fe3db8b7b412027a] [^key-91f6cf3536f4d17fd3cfd12684f66db4]...;
+- G2 is the[^c-043addff56c4de6f5bb4ac46682c98f9] [^c-116da60ea7dc3082e1a66907f92e7fcc]... Trial Preparation Fee specified in paragraph 9 as appropriate to the representative (including the category of counsel instructed, as applicable) and the offence for which the assisted person was charged , including the PPE Range[^c-b2c023acdfe22947fe3db8b7b412027a] [^c-91f6cf3536f4d17fd3cfd12684f66db4]...;
 - AF is the amount of any Additional Fees payable under Part 4 of this Schedule; and
 - T is the amount of any travelling allowance payable under paragraph 29 or 30, as applicable.
 
-**9.**[^key-d866c9e177b170432d880044a6a078f4] For the purposes of paragraph 8 the fee appropriate to any offence shall be that specified in the Table below as appropriate to whether the case was a Guilty Plea or a Trial Preparation case, the representative (including the category of counsel instructed, as applicable) and the Class within which that offence falls according to paragraph 5, including the PPE Range where applicable.
+**9.**[^c-d866c9e177b170432d880044a6a078f4] For the purposes of paragraph 8 the fee appropriate to any offence shall be that specified in the Table below as appropriate to whether the case was a Guilty Plea or a Trial Preparation case, the representative (including the category of counsel instructed, as applicable) and the Class within which that offence falls according to paragraph 5, including the PPE Range where applicable.
 
-#### TABLES OF GUILTY PLEA FEES AND TRIAL PREPARATION FEES[^key-0911018e8abe93e46850e7c775c19afa]
+#### TABLES OF GUILTY PLEA FEES AND TRIAL PREPARATION FEES[^c-0911018e8abe93e46850e7c775c19afa]
 
 (a) Guilty Plea Fee
 
@@ -1008,32 +1008,32 @@ COUNSEL
 | Class I | 751 – 1,500 | £4,203 | £3,153 | £2,102 | £2,733 |
 | Class I | 1,501 – 3,000 | £9,959 | £7,468 | £4,980 | £6,474 |
 
-**9A.**[^key-d2f8379bf87ca65d276714398f90e88d] (1) This paragraph applies where a Trial Preparation Fee is payable to a representative under this Part.
+**9A.**[^c-d2f8379bf87ca65d276714398f90e88d] (1) This paragraph applies where a Trial Preparation Fee is payable to a representative under this Part.
 
-(2) Where the PPE Range exceeds 3,000 pages, an additional fee shall be payable to the representative of £1.16[^key-f1ee2d519761c594f88b3191aa795827] per each additional page.
+(2) Where the PPE Range exceeds 3,000 pages, an additional fee shall be payable to the representative of £1.16[^c-f1ee2d519761c594f88b3191aa795827] per each additional page.
 
-### PART 4 — ADDITIONAL FEES[^key-afce62ee3e91383d3665201e26e08a3a]
+### PART 4 — ADDITIONAL FEES[^c-afce62ee3e91383d3665201e26e08a3a]
 
-**10.**[^key-710ad933a2ad2ffdeaecccc563b65c6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-710ad933a2ad2ffdeaecccc563b65c6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10A.**[^key-3508f4b0a5888ff590dae39246e82795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10A.**[^c-3508f4b0a5888ff590dae39246e82795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-58704207cedb17efafcb1e57c03d040c] The fixed fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable where the assisted person pleaded not guilty to one or more counts at arraignment and the case was adjourned for trial.
+**11.**[^c-58704207cedb17efafcb1e57c03d040c] The fixed fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable where the assisted person pleaded not guilty to one or more counts at arraignment and the case was adjourned for trial.
 
-**12.**[^key-5c9c2831bc5aed775a33dca117834359] (1) Subject to sub-paragraphs (2) and (3), the fixed fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable in respect of each occasion on which the case was listed for trial but did not proceed on the day for which it was listed (other than by reason of an application for an adjournment by the prosecution or the defence).
+**12.**[^c-5c9c2831bc5aed775a33dca117834359] (1) Subject to sub-paragraphs (2) and (3), the fixed fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable in respect of each occasion on which the case was listed for trial but did not proceed on the day for which it was listed (other than by reason of an application for an adjournment by the prosecution or the defence).
 
 (2) Subject to paragraph 22, where the representative was advised prior to the day on which the case had been listed for trial that it was no longer on standby and that it was listed only for mention on that day, the time-based fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) and the duration of the hearing on that day shall be payable.
 
 (3) No standby fee shall be payable under sub-paragraph (1) where the assisted person pleaded guilty to one or more counts when the case was subsequently listed and it did not proceed to trial.
 
-**13.**[^key-6018299d82d9eba1832ff51643584964] (1) This paragraph applies to –
+**13.**[^c-6018299d82d9eba1832ff51643584964] (1) This paragraph applies to –
 
 - (a) the hearing of a No Bill application;
 - (b) the hearing of an application to stay the indictment on the ground that the assisted person is unfit to plead;
 - (c) the hearing of an application to stay the indictment or any count on the ground that the proceedings constitute an abuse of the process of the court;
 - (d) any hearing relating to the question of whether any material should be disclosed by the prosecution to the defence or the defence to the prosecution (whether or not any claim to public interest immunity is made);
-- (e) the hearing of an application under section 51A of the Judicature (Northern Ireland) Act 1978[^f00008] for disclosure of material held by third parties; [^key-9ac73ad375db891e32ec77b336401fe9]...
-- (ee)[^key-56504f7cdfdec718acea90ed653e00ea] the hearing of an application under Article 118A of the Magistrates’ Courts (Northern Ireland) Order 1981 for disclosure of material held by third parties; and
+- (e) the hearing of an application under section 51A of the Judicature (Northern Ireland) Act 1978[^f00008] for disclosure of material held by third parties; [^c-9ac73ad375db891e32ec77b336401fe9]...
+- (ee)[^c-56504f7cdfdec718acea90ed653e00ea] the hearing of an application under Article 118A of the Magistrates’ Courts (Northern Ireland) Order 1981 for disclosure of material held by third parties; and
 - (f) any hearing relating to the question of the admissibility as evidence of any material.
 
 (2) Where a hearing to which this paragraph applies was held on any day of the main hearing of a case on indictment, no separate fee shall be payable in respect of attendance at the hearing (other than a hearing under sub-paragraph (1)(f)), but the hearing shall be included in the length of the main hearing for the purpose of calculating costs.
@@ -1044,48 +1044,48 @@ COUNSEL
 
 (5) Where an application made under sub-paragraph (1)(a), (b) or (c) was successful and the case did not proceed, a Basic Trial Fee, together with Refresher Fees if applicable, shall be payable in accordance with paragraphs 6 and 7.
 
-**14.**[^key-6b6b2ff26fb993d6826e8dd67b17ea11] (1) This paragraph applies to a hearing to which the court proceeded under Article 8 of the Proceeds of Crime (Northern Ireland) Order 1996[^f00009] or section 156 of the Proceeds of Crime Act 2002[^f00010].
+**14.**[^c-6b6b2ff26fb993d6826e8dd67b17ea11] (1) This paragraph applies to a hearing to which the court proceeded under Article 8 of the Proceeds of Crime (Northern Ireland) Order 1996[^f00009] or section 156 of the Proceeds of Crime Act 2002[^f00010].
 
-(2)[^key-f6933ea5e61cf424d188840c2527a18a] A hearing to which this paragraph applies shall not be included in the length of the main hearing or of any sentencing hearing for the purpose of calculating costs, and the fee specified in the Table below as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable for each day of the hearing.
+(2)[^c-f6933ea5e61cf424d188840c2527a18a] A hearing to which this paragraph applies shall not be included in the length of the main hearing or of any sentencing hearing for the purpose of calculating costs, and the fee specified in the Table below as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable for each day of the hearing.
 
-TABLE OF CONFISCATION HEARING FEES[^key-959fa485258026c1550a7ba90ce6284d]
+TABLE OF CONFISCATION HEARING FEES[^c-959fa485258026c1550a7ba90ce6284d]
 
 |  | **Solicitor Fee** | **King’s Counsel Fee** | **Leading Junior Counsel Fee** | **Led Junior Counsel Fee** | **Sole Junior Counsel Fee** |
 | --- | --- | --- | --- | --- | --- |
 | Full Day | £609 | £928 | £696 | £464 | £603 |
 | Half Day | £305 | £464 | £348 | £232 | £302 |
 
-**15.**[^key-7613560627743054ad94c946303d04b9] (1) This paragraph applies to –
+**15.**[^c-7613560627743054ad94c946303d04b9] (1) This paragraph applies to –
 
 - (a) a sentencing hearing following a case on indictment to which this Schedule applies, where sentence was deferred under Article 3 of the Criminal Justice (Northern Ireland) Order 1996[^f00011]; and
 - (b) a sentencing hearing following a case on indictment to which this Schedule applies, other than a hearing within paragraph (a) or a sentencing hearing forming part of the main hearing.
 
 (2) The fixed fee payable to a representative for attending at a hearing to which this paragraph applies shall be that set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) and the circumstances of the hearing.
 
-**15A.**[^key-0f310d9e2087dd8cacf89983e4bf0a0f] (1) This paragraph applies where, prior to the sentencing hearing, the trial judge directs counsel to lodge a skeleton argument on the relevant sentencing authorities.
+**15A.**[^c-0f310d9e2087dd8cacf89983e4bf0a0f] (1) This paragraph applies where, prior to the sentencing hearing, the trial judge directs counsel to lodge a skeleton argument on the relevant sentencing authorities.
 
 (2) The fixed fee set out in the Table following paragraph 19 as appropriate to the category of counsel instructed shall be payable to the counsel who drafted the skeleton argument.
 
-**15B.**[^key-c11a17ddad9ba530c37ecd536fd09211] (1) This paragraph applies where, following the conviction of the assisted person, there is a change of representative and the court grants a fresh criminal aid certificate for the purposes of the sentencing hearing.
+**15B.**[^c-c11a17ddad9ba530c37ecd536fd09211] (1) This paragraph applies where, following the conviction of the assisted person, there is a change of representative and the court grants a fresh criminal aid certificate for the purposes of the sentencing hearing.
 
 (2) Subject to sub-paragraph (3), the fixed fee payable to the new representative for preparation work for attending at the sentencing hearing to which this paragraph applies shall be that set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) and the PPE Range.
 
-(3) Where the PPE Range exceeds 1,000 pages an additional fee shall be payable to the new representative of £1.16[^key-44c77641637255004a7a57f2a8e8d372] per each additional page, up to a maximum of fifty per cent of the Basic Trial Fee as appropriate to the representative (including the category of counsel instructed, as applicable), the Class of Offence involved and the actual duration of the trial.
+(3) Where the PPE Range exceeds 1,000 pages an additional fee shall be payable to the new representative of £1.16[^c-44c77641637255004a7a57f2a8e8d372] per each additional page, up to a maximum of fifty per cent of the Basic Trial Fee as appropriate to the representative (including the category of counsel instructed, as applicable), the Class of Offence involved and the actual duration of the trial.
 
-**15C.**[^key-5e1e3d3d7ef6b7fc17b33a914b721c0c] (1) This paragraph applies to—
+**15C.**[^c-5e1e3d3d7ef6b7fc17b33a914b721c0c] (1) This paragraph applies to—
 
 - (a) the hearing of an application for a sexual offences prevention order under section 104 of the Sexual Offences Act 2003;
 - (b) the hearing of an application for a disqualification order under Article 23 or 24 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003;
-- (c) the hearing of an application for an indeterminate custodial sentence under Article 13 of the Criminal Justice (Northern Ireland) Order 2008; [^key-40f1b3d9019fd3abcc6c28d54890bc6d]...
-- (d) the hearing of an application for an extended custodial sentence under Article 14 of the Criminal Justice (Northern Ireland) Order 2008 ;[^key-885720c0dbca0f04b5d01f515378daf4]
-- (e)[^key-90e5b0a139435cb0319b0a2da26f6e8e] the hearing of an application for a Slavery and Trafficking Prevention Order under paragraph 2, 6 or 7 of Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015; and
+- (c) the hearing of an application for an indeterminate custodial sentence under Article 13 of the Criminal Justice (Northern Ireland) Order 2008; [^c-40f1b3d9019fd3abcc6c28d54890bc6d]...
+- (d) the hearing of an application for an extended custodial sentence under Article 14 of the Criminal Justice (Northern Ireland) Order 2008 ;[^c-885720c0dbca0f04b5d01f515378daf4]
+- (e)[^c-90e5b0a139435cb0319b0a2da26f6e8e] the hearing of an application for a Slavery and Trafficking Prevention Order under paragraph 2, 6 or 7 of Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015; and
 - (f) the hearing of an application for a Violent Offences Prevention Order under section 57, 60 or 61 of the Justice Act (Northern Ireland) 2015.
 
 (2) A hearing to which this paragraph applies shall not be included in the length of the main hearing or of any sentencing hearing for the purpose of calculating costs, and the time-based fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) and the duration of the hearing on that day shall be payable.
 
 (3) In determining the duration of an application for the purpose of sub-paragraph (2), there shall be excluded the period of time during any luncheon adjournment.
 
-**16.**[^key-69577f87e2fb3b060d027d5cf4b0097e] (1) Subject to paragraph 22, the time-based fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) and the duration of the hearing on that day shall be payable to a representative for attending at the following hearings in a case on indictment, when not forming part of the main hearing or a hearing for which a fee is provided elsewhere in this Schedule –
+**16.**[^c-69577f87e2fb3b060d027d5cf4b0097e] (1) Subject to paragraph 22, the time-based fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) and the duration of the hearing on that day shall be payable to a representative for attending at the following hearings in a case on indictment, when not forming part of the main hearing or a hearing for which a fee is provided elsewhere in this Schedule –
 
 - (a) the hearing of a case listed for plea which is adjourned for trial;
 - (b) any hearing (including a trial) which is listed but cannot proceed because of the failure of the assisted person or a witness to attend, an application for postponement by the prosecution or defence, the unavailability of a pre-sentence report or other good reason;
@@ -1094,11 +1094,11 @@ TABLE OF CONFISCATION HEARING FEES[^key-959fa485258026c1550a7ba90ce6284d]
 
 (2) In determining the duration of an application for the purpose of sub-paragraph (1), there shall be excluded the period of time during any luncheon adjournment.
 
-**16A.**[^key-72f457700b8fdc00c2af6de9fbaf975e] (1) This paragraph applies where the assisted person applies to a magistrates’ court for bail under section 91 of the Justice Act (Northern Ireland) 2011.
+**16A.**[^c-72f457700b8fdc00c2af6de9fbaf975e] (1) This paragraph applies where the assisted person applies to a magistrates’ court for bail under section 91 of the Justice Act (Northern Ireland) 2011.
 
-(2) The fixed fee of £209[^key-5df0aafb05b57a4c9435b162a18cc6d7] shall be payable to a solicitor in respect of the hearing of the bail application, and paragraph 16(1)(c) shall not apply in respect of that hearing.
+(2) The fixed fee of £209[^c-5df0aafb05b57a4c9435b162a18cc6d7] shall be payable to a solicitor in respect of the hearing of the bail application, and paragraph 16(1)(c) shall not apply in respect of that hearing.
 
-**16B.**[^key-eb06f007f0eb16c192ae39442764b927] (1) This paragraph applies to a Referral Hearing which means a hearing at which the court considers the exercise of its powers under section 9 of the Justice Act (Northern Ireland) 2016.
+**16B.**[^c-eb06f007f0eb16c192ae39442764b927] (1) This paragraph applies to a Referral Hearing which means a hearing at which the court considers the exercise of its powers under section 9 of the Justice Act (Northern Ireland) 2016.
 
 (2) The time-based fee specified in the Table below as appropriate to the representative (including the category of counsel instructed, as applicable) and to the duration of the hearing shall be payable.
 
@@ -1110,9 +1110,9 @@ TABLE OF REFERRAL HEARING FEES
 | Hearing exceeding 1.5 hours but not exceeding 3 hours | £188 | £200 | £150 | £100 | £130 |
 | Hearing exceeding 3 hours | £375 | £400 | £300 | £200 | £260 |
 
-**17.**[^key-c8f1914570024a71ab46092c0cf25309] The fixed fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable to a representative in respect of any day forming part of the main hearing of the case when the court sat more than 45 minutes beyond 4.30 pm.
+**17.**[^c-c8f1914570024a71ab46092c0cf25309] The fixed fee set out in the Table following paragraph 19 as appropriate to the representative (including the category of counsel instructed, as applicable) shall be payable to a representative in respect of any day forming part of the main hearing of the case when the court sat more than 45 minutes beyond 4.30 pm.
 
-**18.**[^key-2a0194887e8cc3a5d704e68cf2a20e17] (1) The hourly fee set out in the Table following paragraph 19 as appropriate to the category of counsel instructed shall be payable in respect of work of the following types, provided that the counsel satisfies the Department[^M_F_54245486-68e0-4b51-a1b1-d541a59e81c1] that the work was reasonably undertaken and properly done, namely –
+**18.**[^c-2a0194887e8cc3a5d704e68cf2a20e17] (1) The hourly fee set out in the Table following paragraph 19 as appropriate to the category of counsel instructed shall be payable in respect of work of the following types, provided that the counsel satisfies the Department[^M_F_54245486-68e0-4b51-a1b1-d541a59e81c1] that the work was reasonably undertaken and properly done, namely –
 
 - (a) attendance by an counsel at pre-trial consultations with the assisted person not held at court; or
 - (b) attendance by an counsel at consultations with prospective or actual expert witnesses; or
@@ -1122,14 +1122,14 @@ and where that fee is allowed the counsel shall also be paid a travelling allowa
 
 (2) An counsel shall be entitled to a fee in accordance with the Table following paragraph 19 as appropriate to the category of counsel instructed for the number of periods or parts of a period of 10 minutes of running time of any disc, tape or video cassette or part thereof which he listened to or viewed as part of the evidence in the case.
 
-**18A.**[^key-36fe72db542636ca334bc3e063dc4c9c] (1) This paragraph applies where the assisted person was a child who was the subject of a court-ordered youth conference.
+**18A.**[^c-36fe72db542636ca334bc3e063dc4c9c] (1) This paragraph applies where the assisted person was a child who was the subject of a court-ordered youth conference.
 
 (2) Subject to sub-paragraphs (3) and (4), the standard fee for a representative representing that assisted person shall be the amount set out in the Table following paragraph 19 as appropriate to the representative and the duration of the youth conference.
 
 (3) The Department[^M_F_0ca3d1f7-4425-4ade-81be-a393106c4520] shall allow the standard fee claimed by the representative unless—
 
 - (a) where the principal standard fee has been claimed, the conference lasted no more than one hour in which case the lower standard fee shall be allowed, or
-- (b) where a fee in excess of the principal standard fee has been claimed, in which case (if the conference lasted in excess of two hours) an additional fee shall be allowed of £52[^key-61d7e6518fad2d76db2c56f35e47930a] per hour to a solicitor and £34[^key-c8b66286425639de2457712b54d58058] per hour to counsel.
+- (b) where a fee in excess of the principal standard fee has been claimed, in which case (if the conference lasted in excess of two hours) an additional fee shall be allowed of £52[^c-61d7e6518fad2d76db2c56f35e47930a] per hour to a solicitor and £34[^c-c8b66286425639de2457712b54d58058] per hour to counsel.
 
 (4) Fees shall be paid in respect of the period of time beginning 15 minutes before the case was listed on the first occasion and ending—
 
@@ -1142,11 +1142,11 @@ and, save in exceptional circumstances, shall not be payable during any luncheon
 
 (2) The fixed fee set out in the Table following paragraph 19 as appropriate to the category of counsel instructed shall be payable to the counsel who drafted the skeleton argument.
 
-**19.**[^key-de29cae40c32934a2c67da3756652ea4] (1) The costs payable to a representative instructed in any case mentioned in paragraph 2 shall be the fixed fee set out in the Table following this paragraph as appropriate to the representative (including the category of counsel instructed, as applicable), together with any travelling allowance payable under paragraph 29(1) or 30(1) as applicable.
+**19.**[^c-de29cae40c32934a2c67da3756652ea4] (1) The costs payable to a representative instructed in any case mentioned in paragraph 2 shall be the fixed fee set out in the Table following this paragraph as appropriate to the representative (including the category of counsel instructed, as applicable), together with any travelling allowance payable under paragraph 29(1) or 30(1) as applicable.
 
-(2)[^key-8bcde93930d2585ba8fc7f5cf08b94ab] Where a solicitor attended court without counsel and claimed an enhancement of his costs under rule 4A, the solicitor shall be allowed one travelling allowance only in respect of that attendance.
+(2)[^c-8bcde93930d2585ba8fc7f5cf08b94ab] Where a solicitor attended court without counsel and claimed an enhancement of his costs under rule 4A, the solicitor shall be allowed one travelling allowance only in respect of that attendance.
 
-### TABLES OF ADDITIONAL FEES[^key-a464e96515d4c1a88cf7dbdad896b790]
+### TABLES OF ADDITIONAL FEES[^c-a464e96515d4c1a88cf7dbdad896b790]
 
 SOLICITOR
 
@@ -1197,7 +1197,7 @@ COUNSEL
 
 ### PART 5 — miscellaneous
 
-**20.**[^key-9dab7aa73829ad184c5ad073dbb78a78] (1) Where an assisted person was charged with more than one offence on one indictment, the standard fee payable to the representative shall be based on whichever of those offences he shall select for the purposes.
+**20.**[^c-9dab7aa73829ad184c5ad073dbb78a78] (1) Where an assisted person was charged with more than one offence on one indictment, the standard fee payable to the representative shall be based on whichever of those offences he shall select for the purposes.
 
 (2) Where two or more cases to which this Schedule applies involving the same representative were heard concurrently (whether involving the same or different assisted persons) –
 
@@ -1213,7 +1213,7 @@ COUNSEL
 
 (4) Subject to sub-paragraphs (1) to (3), where a representative attended a hearing forming part of two or more cases, he shall be paid the fixed fee for that hearing specified in the Table following paragraph 19 in respect of one such case, without any increase in respect of the other cases.
 
-**21.**[^key-e2f7478b941782d317d0db445c60f026] (1) Subject to sub-paragraphs (2), (4) and (5), the fee payable to a solicitor in accordance with paragraph 6 or 8 of this Schedule, as applicable, shall be in addition to any enhancement of his costs under rule 4A.
+**21.**[^c-e2f7478b941782d317d0db445c60f026] (1) Subject to sub-paragraphs (2), (4) and (5), the fee payable to a solicitor in accordance with paragraph 6 or 8 of this Schedule, as applicable, shall be in addition to any enhancement of his costs under rule 4A.
 
 (2) Where the same solicitor prepared the case and conducted the trial or hearing without counsel, the enhancement of his costs shall be reduced by ten per cent.
 
@@ -1228,7 +1228,7 @@ the solicitor shall be allowed one fee only in respect of that day or hearing, a
 
 (5) Where a solicitor attended court, a prison visit, other consultation or view without counsel, the solicitor shall be allowed one travelling allowance only under paragraphs 29 and 30 in respect of each such attendance.
 
-**22.**[^key-86f0b6c8fc77e888d3b03817a9ce1ad6] (1) This paragraph applies to any hearing in respect of which an Application Fee is payable under paragraph 12(2), 13, 14 or 16.
+**22.**[^c-86f0b6c8fc77e888d3b03817a9ce1ad6] (1) This paragraph applies to any hearing in respect of which an Application Fee is payable under paragraph 12(2), 13, 14 or 16.
 
 (2) Subject to sub-paragraph (3), the fee payable for the hearing shall be determined by the Department[^M_F_c3ef13ed-c1b7-433b-d4d4-4dfddf122be2] in accordance with the actual court hearing time taken in dealing with the application.
 
@@ -1241,7 +1241,7 @@ the solicitor shall be allowed one fee only in respect of that day or hearing, a
 
 (5) Where an Application Fee is payable under paragraph 13 or 14 and the hearing in question lasted more than one day, a further fee shall be payable to the representative under that paragraph in respect of any additional day or part of a day.
 
-**23.**[^key-d59694884ab1de0859704bdbc37f63ed] (1) Subject to sub-paragraph (5), this paragraph applies if a trial was ended by direction of the judge, or it ended with the jury being unable to agree a verdict, and an order was made for a new trial.
+**23.**[^c-d59694884ab1de0859704bdbc37f63ed] (1) Subject to sub-paragraph (5), this paragraph applies if a trial was ended by direction of the judge, or it ended with the jury being unable to agree a verdict, and an order was made for a new trial.
 
 (2) Where the new trial began either on the same day or within fifteen working days, the case shall be considered as having comprised one trial for the purposes of determining the fees payable under these Rules.
 
@@ -1256,29 +1256,29 @@ except for the refresher and travelling allowance elements which shall not be so
 
 (5) This paragraph shall not apply where a different representative acted for the assisted person at each trial.
 
-**24.**[^key-e5c6c5bcb35168cbf4fa2283fc6c0a2d] Where following a case on indictment a Newton hearing took place –
+**24.**[^c-e5c6c5bcb35168cbf4fa2283fc6c0a2d] Where following a case on indictment a Newton hearing took place –
 
 - (a) the case shall for all the purposes of this Schedule be treated as having gone to trial;
 - (b) the duration of the trial shall be taken to be the combined duration of the main hearing and of the Newton hearing;
 - (c) the provisions of this Schedule relating to guilty pleas shall not apply; and
 - (d) no fee shall be payable under paragraph 15 in respect of that hearing.
 
-**25.**[^key-de5f5b5488d341d8b176d0d0e8d967fe] Where a fee is payable under Part 4 in respect of the holding of a voir dire, any day on which the voir dire was held shall count towards calculating the duration of the trial for the purposes of paragraphs 6 and 7.
+**25.**[^c-de5f5b5488d341d8b176d0d0e8d967fe] Where a fee is payable under Part 4 in respect of the holding of a voir dire, any day on which the voir dire was held shall count towards calculating the duration of the trial for the purposes of paragraphs 6 and 7.
 
-**26.**[^key-6dd442655d1d7b08fbda95fe72d41a33] Any case in which –
+**26.**[^c-6dd442655d1d7b08fbda95fe72d41a33] Any case in which –
 
 - (a) the prosecution offered no evidence (or no further evidence) and which was discontinued; or
 - (b) the prosecution entered a nolle prosequi,
 
 shall be treated as a substantive trial and a Basic Trial Fee, together with Refresher Fees if applicable, shall be payable in accordance with paragraphs 6 and 7.
 
-**27.**[^key-9d0a744411315c8524d4f8a58c50fd3e] Where a solicitor was dismissed by the assisted person, or the Department is satisfied that he was obliged to withdraw from the case for compelling professional reasons, the Department may, in its discretion, allow the following fees to the solicitor –
+**27.**[^c-9d0a744411315c8524d4f8a58c50fd3e] Where a solicitor was dismissed by the assisted person, or the Department is satisfied that he was obliged to withdraw from the case for compelling professional reasons, the Department may, in its discretion, allow the following fees to the solicitor –
 
 - (a) if the solicitor was dismissed or withdrew within one week of the date of the first arraignment, a Guilty Plea Fee as appropriate to the offence with which the assisted person was charged;
 - (b) if the solicitor was dismissed or withdrew after the first arraignment and before the trial (if any) commenced, a Trial Preparation Fee as appropriate to the offence with which the assisted person was charged;
 - (c) in any other circumstances, such amount as it considers to be reasonable in all the circumstances.
 
-**28.**[^key-a9c2d3a8fdb7a80921937cd802c85c0e] (1) Where an counsel instructed in a case passed the brief to another counsel before arraignment, no costs shall be payable to the original counsel under these Rules.
+**28.**[^c-a9c2d3a8fdb7a80921937cd802c85c0e] (1) Where an counsel instructed in a case passed the brief to another counsel before arraignment, no costs shall be payable to the original counsel under these Rules.
 
 (2) Subject to sub-paragraph (3), where an counsel instructed in a case passed the brief to another counsel after arraignment, no costs shall be payable to the original counsel under Parts 2 or 3 of this Schedule.
 
@@ -1289,65 +1289,65 @@ shall be treated as a substantive trial and a Basic Trial Fee, together with Ref
 - (c) if the counsel was dismissed or withdrew after the trial (if any) commenced, the Basic Trial Fee as appropriate to the category of counsel instructed and the offence with which the assisted person was charged;
 - (d) in any other circumstances, such amount as it considers to be reasonable in all the circumstances.
 
-**29.**[^key-39e6d9bab07ee00595db26a474c7bb64] (1) Where a solicitor attended court, the Department[^M_F_10fc6f95-f364-4e84-97e9-5fbcfa3ebac6] shall allow travelling time at a rate in accordance with sub-paragraphs (2) and (3), and it may allow an amount to cover any travelling expenses actually and reasonably incurred and necessarily and exclusively attributable to the solicitor’s attendance at that court.
+**29.**[^c-39e6d9bab07ee00595db26a474c7bb64] (1) Where a solicitor attended court, the Department[^M_F_10fc6f95-f364-4e84-97e9-5fbcfa3ebac6] shall allow travelling time at a rate in accordance with sub-paragraphs (2) and (3), and it may allow an amount to cover any travelling expenses actually and reasonably incurred and necessarily and exclusively attributable to the solicitor’s attendance at that court.
 
-(2) A solicitor shall be allowed travelling time at the rate of £60[^key-7a19dfc7cddea946c5393339a2f1f51b] per hour.
+(2) A solicitor shall be allowed travelling time at the rate of £60[^c-7a19dfc7cddea946c5393339a2f1f51b] per hour.
 
-(3) An apprentice or fee-earner of equivalent experience shall be allowed travelling time at the rate of £40[^key-3fd5734a9a4fc6d282fa59d81c11d5a4] per hour.
+(3) An apprentice or fee-earner of equivalent experience shall be allowed travelling time at the rate of £40[^c-3fd5734a9a4fc6d282fa59d81c11d5a4] per hour.
 
 (4) Subject to the Department being satisfied that the work involved was reasonably undertaken and properly done, a travelling allowance shall also be payable under sub-paragraph (1) in respect of attendance at prison visits, other consultations and views.
 
-(5)[^key-b28bc1568aa9a50d68f04098424b66b7] Mileage, where payable, may be claimed at the rate of 45p per mile.
+(5)[^c-b28bc1568aa9a50d68f04098424b66b7] Mileage, where payable, may be claimed at the rate of 45p per mile.
 
-**30.**[^key-903625d2be6a4ec930938f9b3b629de5] (1) Where an counsel was instructed to appear in a court which is more than 20 miles from the Head Post Office, Belfast, the Department[^M_F_e8bcce43-bb04-4280-abb1-a2f29c72f59b] shall allow travelling time at the rate of £60[^key-5780912e6ecb9ce47f07bbfd3b97765b] per hour and it may allow an amount to cover any travelling expenses actually and reasonably incurred and necessarily and exclusively attributable to the advocate’s attendance at that court.
+**30.**[^c-903625d2be6a4ec930938f9b3b629de5] (1) Where an counsel was instructed to appear in a court which is more than 20 miles from the Head Post Office, Belfast, the Department[^M_F_e8bcce43-bb04-4280-abb1-a2f29c72f59b] shall allow travelling time at the rate of £60[^c-5780912e6ecb9ce47f07bbfd3b97765b] per hour and it may allow an amount to cover any travelling expenses actually and reasonably incurred and necessarily and exclusively attributable to the advocate’s attendance at that court.
 
 (2) Subject to the Department being satisfied that the work involved was reasonably undertaken and properly done, a travelling allowance shall also be payable under sub-paragraph (1) in respect of attendance at prison visits, other consultations and views.
 
-(3)[^key-bdd663e2fef2e70ee0b1f48d76e72ce4] Mileage, where payable, may be claimed at the rate of 45p per mile.
+(3)[^c-bdd663e2fef2e70ee0b1f48d76e72ce4] Mileage, where payable, may be claimed at the rate of 45p per mile.
 
-## SCHEDULE 2[^key-a481d04a65816ac726633f155271dc24]
+## SCHEDULE 2[^c-a481d04a65816ac726633f155271dc24]
 
 **No longer in force.**
 
 Rule 17
 
-### Application[^key-a481d04a65816ac726633f155271dc24]
+### Application[^c-a481d04a65816ac726633f155271dc24]
 
-**1.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-a481d04a65816ac726633f155271dc24]
+### Interpretation[^c-a481d04a65816ac726633f155271dc24]
 
-**2.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Categories of Case[^key-a481d04a65816ac726633f155271dc24]
+### Categories of Case[^c-a481d04a65816ac726633f155271dc24]
 
-**4.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Levels of fee earner[^key-a481d04a65816ac726633f155271dc24]
+### Levels of fee earner[^c-a481d04a65816ac726633f155271dc24]
 
-**9.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rates for payment[^key-a481d04a65816ac726633f155271dc24]
+### Rates for payment[^c-a481d04a65816ac726633f155271dc24]
 
-**10.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a481d04a65816ac726633f155271dc24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF OFFENCES[^key-1408e4acc25a63ed39511cc30e783ea2]
+## SCHEDULE 3 — TABLE OF OFFENCES[^c-1408e4acc25a63ed39511cc30e783ea2]
 
 <table>
 <thead>
@@ -1682,7 +1682,7 @@ Rule 17
 | Putting people in fear of violence | Protection from Harassment (Northern Ireland) Order 1997 Art. 6(1) | as above |
 | Breach of restraining order | Protection from Harassment (Northern Ireland) Order 1997 Art. 7 | as above |
 | Being drunk when in aircraft | Air Navigation (No. 2) Order 1995 Art. 57 | [1995 No. 1970](https://www.legislation.gov.uk/uksi/1995/1970) |
-| Breach of a Slavery and Trafficking Prevention Order[^key-24d01e74351a6191acd390a6e1c92be4] | Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 | [2015 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2015/9) |
+| Breach of a Slavery and Trafficking Prevention Order[^c-24d01e74351a6191acd390a6e1c92be4] | Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 | [2015 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2015/9) |
 | Breach of a Violent Offences Prevention Order | Justice Act (Northern Ireland) 2015 | [2015 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2015/2) |
 |  |  |  |
 
@@ -1728,119 +1728,119 @@ Schedule 1 deals with the standard fees which shall be payable for most cases in
 
 [^f00002]: Footnote: [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159)
 
-[^key-bdf1a2bbb7dd5419a38eb17cba6fcdff]: Commencement: Rule 1 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-bdf1a2bbb7dd5419a38eb17cba6fcdff]: Commencement: Rule 1 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-9e7e05bc4d498e3045242868d63163cc]: Commencement: Rule 2 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-9e7e05bc4d498e3045242868d63163cc]: Commencement: Rule 2 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-10df47fb747a87747550b6692d2478b9]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2011/152/article/6/a)[(b)](https://www.legislation.gov.uk/nisr/2011/152/article/6/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-10df47fb747a87747550b6692d2478b9]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2011/152/article/6/a)[(b)](https://www.legislation.gov.uk/nisr/2011/152/article/6/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-88aa99d822b2ab34a29e8acdcfd051af]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(1)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/1)
+[^c-88aa99d822b2ab34a29e8acdcfd051af]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(1)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/1)
 
-[^key-e7c360448e456336c6079256d20ac4d0]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) inserted (16.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/201)](https://www.legislation.gov.uk/nisr/2016/201), [rules 1](https://www.legislation.gov.uk/nisr/2016/201/article/1), [5](https://www.legislation.gov.uk/nisr/2016/201/article/5)
+[^c-e7c360448e456336c6079256d20ac4d0]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) inserted (16.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/201)](https://www.legislation.gov.uk/nisr/2016/201), [rules 1](https://www.legislation.gov.uk/nisr/2016/201/article/1), [5](https://www.legislation.gov.uk/nisr/2016/201/article/5)
 
-[^key-f9564b4418f3624c67156fa7de95ae46]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2015/215/article/7/a)
+[^c-f9564b4418f3624c67156fa7de95ae46]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2015/215/article/7/a)
 
-[^key-00f2c5b720ff1e8d2c817959104d743c]: Textual amendment: Word in [Rules](https://www.legislation.gov.uk/nisr/2005/112) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [5](https://www.legislation.gov.uk/nisr/2011/152/article/5) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-00f2c5b720ff1e8d2c817959104d743c]: Textual amendment: Word in [Rules](https://www.legislation.gov.uk/nisr/2005/112) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [5](https://www.legislation.gov.uk/nisr/2011/152/article/5) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-63bf92a5944ca518c27fb22804f401e7]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(2)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/2)
+[^c-63bf92a5944ca518c27fb22804f401e7]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(2)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/2)
 
-[^key-7bc85a968b4747e439ea2e82f4a015dc]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(c)](https://www.legislation.gov.uk/nisr/2011/152/article/6/c) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-7bc85a968b4747e439ea2e82f4a015dc]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(c)](https://www.legislation.gov.uk/nisr/2011/152/article/6/c) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-0dae3c02c74f4b973a102dcdcadb8779]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(d)](https://www.legislation.gov.uk/nisr/2011/152/article/6/d) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-0dae3c02c74f4b973a102dcdcadb8779]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(d)](https://www.legislation.gov.uk/nisr/2011/152/article/6/d) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-001f90d54665b3dbfe39429d52aa7493]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/nisr/2005/112/rule) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [5(2)](https://www.legislation.gov.uk/nisr/2015/215/article/5/2)
+[^c-001f90d54665b3dbfe39429d52aa7493]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/nisr/2005/112/rule) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [5(2)](https://www.legislation.gov.uk/nisr/2015/215/article/5/2)
 
-[^key-4e2a44b2a7dc77b17a0f69b81aba511b]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/nisr/2005/112/rule) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [6](https://www.legislation.gov.uk/nisr/2015/215/article/6)
+[^c-4e2a44b2a7dc77b17a0f69b81aba511b]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/nisr/2005/112/rule) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [6](https://www.legislation.gov.uk/nisr/2015/215/article/6)
 
-[^key-25b94602f8a15733297b7e734e5a8e2d]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(3)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/3)
+[^c-25b94602f8a15733297b7e734e5a8e2d]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(3)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/3)
 
-[^key-3b0b693e3a2e1c672da388a27fcf1a43]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2015/215/article/7/b)
+[^c-3b0b693e3a2e1c672da388a27fcf1a43]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2015/215/article/7/b)
 
-[^key-802b67e6d2208521e9a609ba558a68c7]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [5](https://www.legislation.gov.uk/nisr/2016/200/article/5)
+[^c-802b67e6d2208521e9a609ba558a68c7]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/rule/2) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [5](https://www.legislation.gov.uk/nisr/2016/200/article/5)
 
-[^key-9352c6b5c96c518223f0d4e6e325a32c]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(e)-(g)](https://www.legislation.gov.uk/nisr/2011/152/article/6/e) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-9352c6b5c96c518223f0d4e6e325a32c]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(e)-(g)](https://www.legislation.gov.uk/nisr/2011/152/article/6/e) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^f00005]: Footnote: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
 [^f00006]: Footnote: [S.R. 1992 No. 314](https://www.legislation.gov.uk/nisr/1992/314); to which the most recent relevant amendment was made by [S.R. 2004 No. 510](https://www.legislation.gov.uk/nisr/2004/510)
 
-[^key-8f06fd9bdacd6982f717420001769c79]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(4)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/4)
+[^c-8f06fd9bdacd6982f717420001769c79]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(4)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/4)
 
-[^key-3b322cec2a06b766a73f7e298a3b7f34]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(5)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/5)
+[^c-3b322cec2a06b766a73f7e298a3b7f34]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [8(5)](https://www.legislation.gov.uk/nisr/2025/197/rule/8/5)
 
-[^key-06ce0859e5653346be3960b1594703f4]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(h)](https://www.legislation.gov.uk/nisr/2011/152/article/6/h) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-06ce0859e5653346be3960b1594703f4]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2005/112/article/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [6(h)](https://www.legislation.gov.uk/nisr/2011/152/article/6/h) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-de61fd2f5772a74c1432df0346f2beab]: Commencement: Rule 3 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-de61fd2f5772a74c1432df0346f2beab]: Commencement: Rule 3 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-d0e5029252b731f1d3d3da4b3729879e]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/nisr/2005/112/article/3/1) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [9(1)](https://www.legislation.gov.uk/nisr/2025/197/rule/9/1)
+[^c-d0e5029252b731f1d3d3da4b3729879e]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/nisr/2005/112/article/3/1) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [9(1)](https://www.legislation.gov.uk/nisr/2025/197/rule/9/1)
 
 [^M_F_68f2101c-bf52-4710-9f96-6caa60000de0]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-8e0fcd3d62ca4ce995c258dbf3bd1082]: Textual amendment: [Rule 3(4)](https://www.legislation.gov.uk/nisr/2005/112/article/3/4) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [9(2)](https://www.legislation.gov.uk/nisr/2025/197/rule/9/2)
+[^c-8e0fcd3d62ca4ce995c258dbf3bd1082]: Textual amendment: [Rule 3(4)](https://www.legislation.gov.uk/nisr/2005/112/article/3/4) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [9(2)](https://www.legislation.gov.uk/nisr/2025/197/rule/9/2)
 
-[^key-fb5266ff28f026a718fb084e00bd6495]: Commencement: Rule 4 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-fb5266ff28f026a718fb084e00bd6495]: Commencement: Rule 4 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-3369023296128737034c6657f5c3f8c0]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/nisr/2005/112/article/4/1) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2011/152/article/7/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-3369023296128737034c6657f5c3f8c0]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/nisr/2005/112/article/4/1) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2011/152/article/7/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-0fe3b8c6d46b10d29055a0111f92a37e]: Textual amendment: [Rule 4(3)](https://www.legislation.gov.uk/nisr/2005/112/article/4/3) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2011/152/article/7/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-0fe3b8c6d46b10d29055a0111f92a37e]: Textual amendment: [Rule 4(3)](https://www.legislation.gov.uk/nisr/2005/112/article/4/3) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2011/152/article/7/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-598c0f1c65038ff38384ec1bf91c20c2]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/nisr/2005/112/rule/4A) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [8](https://www.legislation.gov.uk/nisr/2011/152/article/8) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-598c0f1c65038ff38384ec1bf91c20c2]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/nisr/2005/112/rule/4A) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [8](https://www.legislation.gov.uk/nisr/2011/152/article/8) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-c90fa62960cbaa4fb62ead27e820bedc]: Commencement: Rule 5 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-c90fa62960cbaa4fb62ead27e820bedc]: Commencement: Rule 5 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-ceb7343ca8e3dc4233450d63cb30b878]: Textual amendment: Words in [rule 5(1)](https://www.legislation.gov.uk/nisr/2005/112/article/5/1) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(1)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/1)
+[^c-ceb7343ca8e3dc4233450d63cb30b878]: Textual amendment: Words in [rule 5(1)](https://www.legislation.gov.uk/nisr/2005/112/article/5/1) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(1)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/1)
 
-[^key-dea179063a7c954c2d67f899b72ab1d0]: Textual amendment: Words in [rule 5(2)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/a) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(a)(i)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/a/i)
+[^c-dea179063a7c954c2d67f899b72ab1d0]: Textual amendment: Words in [rule 5(2)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/a) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(a)(i)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/a/i)
 
-[^key-c70e585d861ee6e540a21a456a6ccd12]: Textual amendment: Word in [rule 5(2)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/a) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/a/ii)
+[^c-c70e585d861ee6e540a21a456a6ccd12]: Textual amendment: Word in [rule 5(2)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/a) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/a/ii)
 
-[^key-7eb6663d99b12b87960c5d06f99bebbf]: Textual amendment: Word in [rule 5(2)(b)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/b) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/b)
+[^c-7eb6663d99b12b87960c5d06f99bebbf]: Textual amendment: Word in [rule 5(2)(b)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/b) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/b)
 
-[^key-cf61230e3f673dcc8ba5ea924385dcd8]: Textual amendment: [Rule 5(2)(c)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/c) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(c)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/c)
+[^c-cf61230e3f673dcc8ba5ea924385dcd8]: Textual amendment: [Rule 5(2)(c)](https://www.legislation.gov.uk/nisr/2005/112/article/5/2/c) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(2)(c)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/2/c)
 
-[^key-d882b6f1407d47a01915fc897119fb80]: Textual amendment: Sum in [rule 5(3)](https://www.legislation.gov.uk/nisr/2005/112/article/5/3) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(3)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/3)
+[^c-d882b6f1407d47a01915fc897119fb80]: Textual amendment: Sum in [rule 5(3)](https://www.legislation.gov.uk/nisr/2005/112/article/5/3) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(3)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/3)
 
-[^key-a5a9ff25b28cf9944828b3d87658d4cc]: Textual amendment: [Rule 5(9)](https://www.legislation.gov.uk/nisr/2005/112/article/5/9) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(4)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/4)
+[^c-a5a9ff25b28cf9944828b3d87658d4cc]: Textual amendment: [Rule 5(9)](https://www.legislation.gov.uk/nisr/2005/112/article/5/9) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [10(4)](https://www.legislation.gov.uk/nisr/2025/197/rule/10/4)
 
-[^key-b08ad3876d4027723c8e185a2b977771]: Commencement: Rule 6 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-b08ad3876d4027723c8e185a2b977771]: Commencement: Rule 6 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_e34ccdaf-fb30-4b0d-ea6b-6735233e0705]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-45ecacbb0b3efbfb31eb3f3ee7a08f04]: Commencement: Rule 7 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-45ecacbb0b3efbfb31eb3f3ee7a08f04]: Commencement: Rule 7 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-7979f55dfd10a8487991f60c2d4bf2be]: Textual amendment: Words in [rule 7(1)](https://www.legislation.gov.uk/nisr/2005/112/rule/7/1) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [8](https://www.legislation.gov.uk/nisr/2015/215/article/8)
+[^c-7979f55dfd10a8487991f60c2d4bf2be]: Textual amendment: Words in [rule 7(1)](https://www.legislation.gov.uk/nisr/2005/112/rule/7/1) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [8](https://www.legislation.gov.uk/nisr/2015/215/article/8)
 
 [^M_F_0cd196dd-f0e3-49fc-861e-a0a8a48607c6]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-a3a3a50167f1e2d466b90a533bf6ee46]: Textual amendment: [Rule 7(4)](https://www.legislation.gov.uk/nisr/2005/112/article/7/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [9](https://www.legislation.gov.uk/nisr/2011/152/article/9) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-a3a3a50167f1e2d466b90a533bf6ee46]: Textual amendment: [Rule 7(4)](https://www.legislation.gov.uk/nisr/2005/112/article/7/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [9](https://www.legislation.gov.uk/nisr/2011/152/article/9) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-5601c137dfd067f35fca99d26fa62f9c]: Commencement: Rule 8 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-5601c137dfd067f35fca99d26fa62f9c]: Commencement: Rule 8 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_8d872ae0-ba5b-48e0-bcac-9c15be1169ec]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
 [^M_F_2bbf60d3-855f-4e0e-ad2b-9f64162f6764]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(2)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/2)
 
-[^key-60f323dd941ace0b0b16315ce730f000]: Textual amendment: Words in [rule 8(3)(a)](https://www.legislation.gov.uk/nisr/2005/112/rule/8/3/a) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [6](https://www.legislation.gov.uk/nisr/2016/200/article/6)
+[^c-60f323dd941ace0b0b16315ce730f000]: Textual amendment: Words in [rule 8(3)(a)](https://www.legislation.gov.uk/nisr/2005/112/rule/8/3/a) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [6](https://www.legislation.gov.uk/nisr/2016/200/article/6)
 
-[^key-6d2936905b059eec2c293d9a7a00fb24]: Textual amendment: Words in [rule 8(3)(a)](https://www.legislation.gov.uk/nisr/2005/112/rule/8/3/a) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [9](https://www.legislation.gov.uk/nisr/2015/215/article/9)
+[^c-6d2936905b059eec2c293d9a7a00fb24]: Textual amendment: Words in [rule 8(3)(a)](https://www.legislation.gov.uk/nisr/2005/112/rule/8/3/a) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [9](https://www.legislation.gov.uk/nisr/2015/215/article/9)
 
-[^key-481c814b93a643977f0c04c70488eb0f]: Textual amendment: [Rule 8(4)-(14)](https://www.legislation.gov.uk/nisr/2005/112/article/8/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [10(a)](https://www.legislation.gov.uk/nisr/2011/152/article/10/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-481c814b93a643977f0c04c70488eb0f]: Textual amendment: [Rule 8(4)-(14)](https://www.legislation.gov.uk/nisr/2005/112/article/8/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [10(a)](https://www.legislation.gov.uk/nisr/2011/152/article/10/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-9ac53ae35fcc3e18af47f44642832cc6]: Textual amendment: [Rule 8(14A)(14B)](https://www.legislation.gov.uk/nisr/2005/112/article/8/14A) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [10(b)](https://www.legislation.gov.uk/nisr/2011/152/article/10/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-9ac53ae35fcc3e18af47f44642832cc6]: Textual amendment: [Rule 8(14A)(14B)](https://www.legislation.gov.uk/nisr/2005/112/article/8/14A) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [10(b)](https://www.legislation.gov.uk/nisr/2011/152/article/10/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-3365dd4dd07871c109b573bde516af54]: Commencement: Rule 9 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-3365dd4dd07871c109b573bde516af54]: Commencement: Rule 9 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_bec1c3d5-7b5d-4b29-bef5-3e9daafb3486]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-9daf82ac50ec16b8a87aeba6f94c529e]: Commencement: Rule 10 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-9daf82ac50ec16b8a87aeba6f94c529e]: Commencement: Rule 10 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-a4b95d1a49800977d8a328bc73168fc4]: Textual amendment: Words in [rule 10(1)](https://www.legislation.gov.uk/nisr/2005/112/rule/10/1) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [10](https://www.legislation.gov.uk/nisr/2015/215/article/10)
+[^c-a4b95d1a49800977d8a328bc73168fc4]: Textual amendment: Words in [rule 10(1)](https://www.legislation.gov.uk/nisr/2005/112/rule/10/1) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [10](https://www.legislation.gov.uk/nisr/2015/215/article/10)
 
 [^M_F_962515b3-56eb-427f-9c2f-b228c551af3a]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-8232a2e48373cc68b3e301e541229ecd]: Textual amendment: [Rule 10(4)](https://www.legislation.gov.uk/nisr/2005/112/article/10/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [11](https://www.legislation.gov.uk/nisr/2011/152/article/11) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-8232a2e48373cc68b3e301e541229ecd]: Textual amendment: [Rule 10(4)](https://www.legislation.gov.uk/nisr/2005/112/article/10/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [11](https://www.legislation.gov.uk/nisr/2011/152/article/11) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-9b53416e57aece30a678294b0ac1a5c1]: Commencement: Rule 11 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-9b53416e57aece30a678294b0ac1a5c1]: Commencement: Rule 11 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_8cd0a715-de86-46c1-df30-839a4cc64d1c]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
@@ -1848,39 +1848,39 @@ Schedule 1 deals with the standard fees which shall be payable for most cases in
 
 [^M_F_96b64788-78c7-48a2-8c9b-1cd90067db58]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [6](https://www.legislation.gov.uk/nisr/2015/215/rule/6)
 
-[^key-c9f765f5196187309afed3ee1cf4563e]: Textual amendment: [Rule 11(4)-(8)](https://www.legislation.gov.uk/nisr/2005/112/article/11/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [12(a)](https://www.legislation.gov.uk/nisr/2011/152/article/12/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-c9f765f5196187309afed3ee1cf4563e]: Textual amendment: [Rule 11(4)-(8)](https://www.legislation.gov.uk/nisr/2005/112/article/11/4) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [12(a)](https://www.legislation.gov.uk/nisr/2011/152/article/12/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-c296c26b732c1bf8fa83dd643e200b41]: Textual amendment: [Rule 11(8A)](https://www.legislation.gov.uk/nisr/2005/112/article/11/8A)[(8B)](https://www.legislation.gov.uk/nisr/2005/112/article/11/8B) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [12(b)](https://www.legislation.gov.uk/nisr/2011/152/article/12/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-c296c26b732c1bf8fa83dd643e200b41]: Textual amendment: [Rule 11(8A)](https://www.legislation.gov.uk/nisr/2005/112/article/11/8A)[(8B)](https://www.legislation.gov.uk/nisr/2005/112/article/11/8B) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [12(b)](https://www.legislation.gov.uk/nisr/2011/152/article/12/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-b04565a5e77113586e22ab77b4409b58]: Textual amendment: [Rules 11A-11E](https://www.legislation.gov.uk/nisr/2005/112/rule/11A) inserted (16.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/201)](https://www.legislation.gov.uk/nisr/2016/201), [rules 1](https://www.legislation.gov.uk/nisr/2016/201/article/1), [6](https://www.legislation.gov.uk/nisr/2016/201/article/6)
+[^c-b04565a5e77113586e22ab77b4409b58]: Textual amendment: [Rules 11A-11E](https://www.legislation.gov.uk/nisr/2005/112/rule/11A) inserted (16.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/201)](https://www.legislation.gov.uk/nisr/2016/201), [rules 1](https://www.legislation.gov.uk/nisr/2016/201/article/1), [6](https://www.legislation.gov.uk/nisr/2016/201/article/6)
 
-[^key-bff07e54220b41fc3befd592a6219949]: Commencement: Rule 12 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-bff07e54220b41fc3befd592a6219949]: Commencement: Rule 12 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_636f063f-d74e-4768-b0e2-e48de27d0b9f]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-13531115237b7183d0aee4feb1ccb237]: Commencement: Rule 13 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-13531115237b7183d0aee4feb1ccb237]: Commencement: Rule 13 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-26bb250496a7aee3a43c909406e79f03]: Textual amendment: [Rule 13(1)(b)](https://www.legislation.gov.uk/nisr/2005/112/article/13/1/b) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(a)(i)](https://www.legislation.gov.uk/nisr/2011/152/article/13/a/i) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-26bb250496a7aee3a43c909406e79f03]: Textual amendment: [Rule 13(1)(b)](https://www.legislation.gov.uk/nisr/2005/112/article/13/1/b) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(a)(i)](https://www.legislation.gov.uk/nisr/2011/152/article/13/a/i) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^M_F_44ae8411-4b1f-4cf5-eab9-7e13180e5490]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-1375996d29705a1be9d1d8067de06d85]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/nisr/2005/112/article/13/1) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(a)(ii)](https://www.legislation.gov.uk/nisr/2011/152/article/13/a/ii) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-1375996d29705a1be9d1d8067de06d85]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/nisr/2005/112/article/13/1) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(a)(ii)](https://www.legislation.gov.uk/nisr/2011/152/article/13/a/ii) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-6d3cc83b9e3894124a27c09cad44afa0]: Textual amendment: Words in [rule 13(6)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/13/6/a) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(b)](https://www.legislation.gov.uk/nisr/2011/152/article/13/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-6d3cc83b9e3894124a27c09cad44afa0]: Textual amendment: Words in [rule 13(6)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/13/6/a) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(b)](https://www.legislation.gov.uk/nisr/2011/152/article/13/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-15e259e82250f57264971bf20270d366]: Textual amendment: [Rule 13(9)](https://www.legislation.gov.uk/nisr/2005/112/article/13/9) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(c)](https://www.legislation.gov.uk/nisr/2011/152/article/13/c) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-15e259e82250f57264971bf20270d366]: Textual amendment: [Rule 13(9)](https://www.legislation.gov.uk/nisr/2005/112/article/13/9) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [13(c)](https://www.legislation.gov.uk/nisr/2011/152/article/13/c) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-854ee8cd273a18039e152b105f71ba1f]: Commencement: Rule 14 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-854ee8cd273a18039e152b105f71ba1f]: Commencement: Rule 14 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_43a8b9ea-b520-4689-a8d9-8da0d0fb9b0c]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-8ad217fc115d1ce4d2fd388cd89462c9]: Textual amendment: [Rule 14(15)](https://www.legislation.gov.uk/nisr/2005/112/article/14/15) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [14](https://www.legislation.gov.uk/nisr/2011/152/article/14) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-8ad217fc115d1ce4d2fd388cd89462c9]: Textual amendment: [Rule 14(15)](https://www.legislation.gov.uk/nisr/2005/112/article/14/15) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [14](https://www.legislation.gov.uk/nisr/2011/152/article/14) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-5cd91032595468ad6137d87394ea4a14]: Commencement: Rule 15 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-5cd91032595468ad6137d87394ea4a14]: Commencement: Rule 15 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_018a10b9-0224-4172-aaa4-52b1aedcf9fb]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-434f2d2290cfad5e1b0408558196204a]: Textual amendment: [Rules 16, 16A, 16B, 16C, 17, 17A, 17B](https://www.legislation.gov.uk/nisr/2005/112/rule/17B) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [15](https://www.legislation.gov.uk/nisr/2011/152/article/15) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-434f2d2290cfad5e1b0408558196204a]: Textual amendment: [Rules 16, 16A, 16B, 16C, 17, 17A, 17B](https://www.legislation.gov.uk/nisr/2005/112/rule/17B) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [15](https://www.legislation.gov.uk/nisr/2011/152/article/15) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^M_F_972232f4-63b7-4144-9952-79f14f047bc0]: Textual amendment: Rule 16A omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [15](https://www.legislation.gov.uk/nisr/2011/152/article/15) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
@@ -1888,205 +1888,205 @@ Schedule 1 deals with the standard fees which shall be payable for most cases in
 
 [^M_F_e75e0b97-5eb1-4abd-958a-d853adfd6dc7]: Textual amendment: Rule 16C omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [15](https://www.legislation.gov.uk/nisr/2011/152/article/15) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-7ab96c23133c453efde959afc9e8a0a0]: Commencement: Rule 18 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-7ab96c23133c453efde959afc9e8a0a0]: Commencement: Rule 18 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_dba9c97b-de31-404e-cdb3-8650350aca5d]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-4301aee2f29551b685913d4e15e06315]: Commencement: Rule 19 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-4301aee2f29551b685913d4e15e06315]: Commencement: Rule 19 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-7561a01ec3a848956a28d9e0b0acff6c]: Textual amendment: Words in [rule 19(1)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/19/1/a) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [16](https://www.legislation.gov.uk/nisr/2011/152/article/16) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-7561a01ec3a848956a28d9e0b0acff6c]: Textual amendment: Words in [rule 19(1)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/19/1/a) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [16](https://www.legislation.gov.uk/nisr/2011/152/article/16) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^M_F_69e2b5b3-df08-4e24-87d3-f00e53f5d838]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-d905ff66341dd5755e428abd39c85654]: Commencement: Rule 20 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-d905ff66341dd5755e428abd39c85654]: Commencement: Rule 20 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-e3de119926dd6ec42f4b9967519d450c]: Textual amendment: Words in [rule. 20](https://www.legislation.gov.uk/nisr/2005/112/article/20) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [rule. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 35(3)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/35/3) (with [rules. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-e3de119926dd6ec42f4b9967519d450c]: Textual amendment: Words in [rule. 20](https://www.legislation.gov.uk/nisr/2005/112/article/20) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [rule. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 35(3)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/35/3) (with [rules. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
-[^key-14cfcc75d8b10f359361fd6f6208eef0]: Textual amendment: Words in [rule 20(4)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/20/4/a) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [17](https://www.legislation.gov.uk/nisr/2011/152/article/17) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-14cfcc75d8b10f359361fd6f6208eef0]: Textual amendment: Words in [rule 20(4)(a)](https://www.legislation.gov.uk/nisr/2005/112/article/20/4/a) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [17](https://www.legislation.gov.uk/nisr/2011/152/article/17) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^M_F_a524d685-c80a-4f21-9ca9-0cedacd31ff7]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-c8601eba5def4a0ae7e7a8bda6dead7d]: Textual amendment: [Rule 20(5)](https://www.legislation.gov.uk/nisr/2005/112/rule/20/5) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [11](https://www.legislation.gov.uk/nisr/2015/215/article/11)
+[^c-c8601eba5def4a0ae7e7a8bda6dead7d]: Textual amendment: [Rule 20(5)](https://www.legislation.gov.uk/nisr/2005/112/rule/20/5) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [11](https://www.legislation.gov.uk/nisr/2015/215/article/11)
 
-[^key-07f946944d219cbe05862ff0b4491ede]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/1) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(a)](https://www.legislation.gov.uk/nisr/2011/152/article/18/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-07f946944d219cbe05862ff0b4491ede]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/1) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(a)](https://www.legislation.gov.uk/nisr/2011/152/article/18/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-0aa2274c310210b9f588bcca9b18ed5b]: Commencement: Sch. 1 para. 2 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-0aa2274c310210b9f588bcca9b18ed5b]: Commencement: Sch. 1 para. 2 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-3e22c8b1a67ce235fbc9daa1189535a3]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(1)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/1/a)
+[^c-3e22c8b1a67ce235fbc9daa1189535a3]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/2) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(1)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/1/a)
 
-[^key-f9b3845b19e82202d5b8cdc7fc459950]: Textual amendment: Word in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/2/a) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(1)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/1/b)
+[^c-f9b3845b19e82202d5b8cdc7fc459950]: Textual amendment: Word in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/2/a) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(1)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/1/b)
 
-[^key-548fe23f7e2d74f387c649b64666e361]: Commencement: Sch. 1 para. 3 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-548fe23f7e2d74f387c649b64666e361]: Commencement: Sch. 1 para. 3 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_277d843d-6955-401e-ef7d-9385caa69a06]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(2)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/2)
 
-[^key-754ab1f6347d071a885ef1fa55f5cd39]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/2) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2016/200/article/7/a)
+[^c-754ab1f6347d071a885ef1fa55f5cd39]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/2) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2016/200/article/7/a)
 
-[^key-30c41caa742369f28ea960f2db38ae57]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/2) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(a)](https://www.legislation.gov.uk/nisr/2015/215/article/12/a)
+[^c-30c41caa742369f28ea960f2db38ae57]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/2) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(a)](https://www.legislation.gov.uk/nisr/2015/215/article/12/a)
 
 [^M_F_a16f28fe-891d-4cdb-d4c9-569e58c49bb7]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [6](https://www.legislation.gov.uk/nisr/2015/215/rule/6)
 
-[^key-00946eefe5fb0ea5ead96c85c3b779ac]: Textual amendment: Words in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/3) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2016/200/article/7/b)
+[^c-00946eefe5fb0ea5ead96c85c3b779ac]: Textual amendment: Words in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/3) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2016/200/article/7/b)
 
-[^key-301bebd5766cf6f70a160db82f1f8549]: Textual amendment: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/5) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(2)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/2)
+[^c-301bebd5766cf6f70a160db82f1f8549]: Textual amendment: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/3/5) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(2)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/2)
 
-[^key-68b5c1566ef97c6602d458b8e985f8f0]: Commencement: Sch. 1 para. 4 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-68b5c1566ef97c6602d458b8e985f8f0]: Commencement: Sch. 1 para. 4 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-057feb3d860828fcbc16ae99dac38a27]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/4) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(c)](https://www.legislation.gov.uk/nisr/2015/215/article/12/c)
+[^c-057feb3d860828fcbc16ae99dac38a27]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/4) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(c)](https://www.legislation.gov.uk/nisr/2015/215/article/12/c)
 
-[^key-af92b48275492df588a56fe730ff00bf]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/4A) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(d)](https://www.legislation.gov.uk/nisr/2015/215/article/12/d)
+[^c-af92b48275492df588a56fe730ff00bf]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/4A) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(d)](https://www.legislation.gov.uk/nisr/2015/215/article/12/d)
 
-[^key-c07f1035129ebab673935d9223d9aba7]: Commencement: Sch. 1 para. 5 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-c07f1035129ebab673935d9223d9aba7]: Commencement: Sch. 1 para. 5 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^f00007]: Footnote: [S.I. 1983/1120 (N.I. 13)](https://www.legislation.gov.uk/nisi/1983/1120)
 
 [^M_F_4c2a5e55-30cf-450a-eeb8-48329b62e593]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-4503902f7e7d731aeeb8ae9acb9d6460]: Commencement: Sch. 1 para. 6 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-4503902f7e7d731aeeb8ae9acb9d6460]: Commencement: Sch. 1 para. 6 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-1cc1513a7418f5bb4dd2d7861cfcebe0]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/6/1) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/3/a)
+[^c-1cc1513a7418f5bb4dd2d7861cfcebe0]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/6/1) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/3/a)
 
-[^key-d8a5e3b53407641741919baa7ae40772]: Textual amendment: [Sch. 1 para. 6(1A)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/6/1A) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/3/b)
+[^c-d8a5e3b53407641741919baa7ae40772]: Textual amendment: [Sch. 1 para. 6(1A)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/6/1A) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/3/b)
 
-[^key-05b7396fa1e8e26c31e8bbeee2df253f]: Commencement: Sch. 1 para. 7 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-05b7396fa1e8e26c31e8bbeee2df253f]: Commencement: Sch. 1 para. 7 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-63447add8e2a22824880cfdf6706ab80]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7) Tables substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(4)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/4)
+[^c-63447add8e2a22824880cfdf6706ab80]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7) Tables substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(4)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/4)
 
-[^key-87c3c1995b753157aabb035c3464b1a8]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7A) inserted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(f)](https://www.legislation.gov.uk/nisr/2015/215/article/12/f)
+[^c-87c3c1995b753157aabb035c3464b1a8]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7A) inserted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(f)](https://www.legislation.gov.uk/nisr/2015/215/article/12/f)
 
-[^key-6a725d334eaf430664be0b0b2175ba65]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7A) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(d)](https://www.legislation.gov.uk/nisr/2016/200/article/7/d)
+[^c-6a725d334eaf430664be0b0b2175ba65]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7A) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(d)](https://www.legislation.gov.uk/nisr/2016/200/article/7/d)
 
-[^key-adbba1ee8ec22f9423b52fe3baea92fe]: Textual amendment: Sum in [Sch. 1 para. 7A(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7A/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(5)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/5)
+[^c-adbba1ee8ec22f9423b52fe3baea92fe]: Textual amendment: Sum in [Sch. 1 para. 7A(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/7A/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(5)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/5)
 
-[^key-32cf323230d865e6a6164d6001981a3b]: Commencement: Sch. 1 para. 8 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-32cf323230d865e6a6164d6001981a3b]: Commencement: Sch. 1 para. 8 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-f97435276d6349a55e88debaaa5c10c0]: Textual amendment: [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/1)[(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/2) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(g)](https://www.legislation.gov.uk/nisr/2015/215/article/12/g)
+[^c-f97435276d6349a55e88debaaa5c10c0]: Textual amendment: [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/1)[(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/2) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(g)](https://www.legislation.gov.uk/nisr/2015/215/article/12/g)
 
-[^key-ca7e3958aa901aa4615cc7a7e871685a]: Textual amendment: [Sch. 1 para. 8(1A)(2A)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/1A) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(e)](https://www.legislation.gov.uk/nisr/2016/200/article/7/e)
+[^c-ca7e3958aa901aa4615cc7a7e871685a]: Textual amendment: [Sch. 1 para. 8(1A)(2A)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/1A) inserted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(e)](https://www.legislation.gov.uk/nisr/2016/200/article/7/e)
 
-[^key-f5209ff9869acb3ce8eb0e83a863cfaa]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(f)](https://www.legislation.gov.uk/nisr/2016/200/article/7/f)
+[^c-f5209ff9869acb3ce8eb0e83a863cfaa]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(f)](https://www.legislation.gov.uk/nisr/2016/200/article/7/f)
 
-[^key-6171221f3788f02d20dff271d4c94862]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(h)](https://www.legislation.gov.uk/nisr/2015/215/article/12/h)
+[^c-6171221f3788f02d20dff271d4c94862]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(h)](https://www.legislation.gov.uk/nisr/2015/215/article/12/h)
 
-[^key-6de841b6258472bbbf2252e016d84905]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(6)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/6/a)
+[^c-6de841b6258472bbbf2252e016d84905]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(6)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/6/a)
 
-[^key-f21a8bd4392b10900911af612ca0f56d]: Textual amendment: [Sch. 1 para. 8(3A)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3A) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(6)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/6/b)
+[^c-f21a8bd4392b10900911af612ca0f56d]: Textual amendment: [Sch. 1 para. 8(3A)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/3A) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(6)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/6/b)
 
-[^key-043addff56c4de6f5bb4ac46682c98f9]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(i)(i)](https://www.legislation.gov.uk/nisr/2015/215/article/12/i)
+[^c-043addff56c4de6f5bb4ac46682c98f9]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(i)(i)](https://www.legislation.gov.uk/nisr/2015/215/article/12/i)
 
-[^key-116da60ea7dc3082e1a66907f92e7fcc]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(g)(i)](https://www.legislation.gov.uk/nisr/2016/200/article/7/g/i)
+[^c-116da60ea7dc3082e1a66907f92e7fcc]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(g)(i)](https://www.legislation.gov.uk/nisr/2016/200/article/7/g/i)
 
-[^key-b2c023acdfe22947fe3db8b7b412027a]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(i)(ii)](https://www.legislation.gov.uk/nisr/2015/215/article/12/i)
+[^c-b2c023acdfe22947fe3db8b7b412027a]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(i)(ii)](https://www.legislation.gov.uk/nisr/2015/215/article/12/i)
 
-[^key-91f6cf3536f4d17fd3cfd12684f66db4]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(g)(ii)](https://www.legislation.gov.uk/nisr/2016/200/article/7/g/ii)
+[^c-91f6cf3536f4d17fd3cfd12684f66db4]: Textual amendment: Words in [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/8/4) omitted (15.4.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(g)(ii)](https://www.legislation.gov.uk/nisr/2016/200/article/7/g/ii)
 
-[^key-d866c9e177b170432d880044a6a078f4]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9) substituted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(h)](https://www.legislation.gov.uk/nisr/2016/200/article/7/h)
+[^c-d866c9e177b170432d880044a6a078f4]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9) substituted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(h)](https://www.legislation.gov.uk/nisr/2016/200/article/7/h)
 
-[^key-0911018e8abe93e46850e7c775c19afa]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9) Tables substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(7)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/7)
+[^c-0911018e8abe93e46850e7c775c19afa]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9) Tables substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(7)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/7)
 
-[^key-d2f8379bf87ca65d276714398f90e88d]: Textual amendment: [Sch. 1 para. 9A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9A) substituted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(j)](https://www.legislation.gov.uk/nisr/2016/200/article/7/j)
+[^c-d2f8379bf87ca65d276714398f90e88d]: Textual amendment: [Sch. 1 para. 9A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9A) substituted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(j)](https://www.legislation.gov.uk/nisr/2016/200/article/7/j)
 
-[^key-f1ee2d519761c594f88b3191aa795827]: Textual amendment: Sum in [Sch. 1 para. 9A(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9A/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(8)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/8)
+[^c-f1ee2d519761c594f88b3191aa795827]: Textual amendment: Sum in [Sch. 1 para. 9A(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/9A/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(8)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/8)
 
-[^key-afce62ee3e91383d3665201e26e08a3a]: Textual amendment: Words in [Sch. 1 Pt. 4](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/part/4) heading substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(f)](https://www.legislation.gov.uk/nisr/2011/152/article/18/f) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-afce62ee3e91383d3665201e26e08a3a]: Textual amendment: Words in [Sch. 1 Pt. 4](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/part/4) heading substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(f)](https://www.legislation.gov.uk/nisr/2011/152/article/18/f) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-710ad933a2ad2ffdeaecccc563b65c6a]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/10) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(g)](https://www.legislation.gov.uk/nisr/2011/152/article/18/g) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-710ad933a2ad2ffdeaecccc563b65c6a]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/10) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(g)](https://www.legislation.gov.uk/nisr/2011/152/article/18/g) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-3508f4b0a5888ff590dae39246e82795]: Textual amendment: [Sch. 1 para. 10A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/10A) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(m)](https://www.legislation.gov.uk/nisr/2015/215/article/12/m)
+[^c-3508f4b0a5888ff590dae39246e82795]: Textual amendment: [Sch. 1 para. 10A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/10A) omitted (5.5.2015) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(m)](https://www.legislation.gov.uk/nisr/2015/215/article/12/m)
 
-[^key-58704207cedb17efafcb1e57c03d040c]: Commencement: Sch. 1 para. 11 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-58704207cedb17efafcb1e57c03d040c]: Commencement: Sch. 1 para. 11 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-5c9c2831bc5aed775a33dca117834359]: Commencement: Sch. 1 para. 12 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-5c9c2831bc5aed775a33dca117834359]: Commencement: Sch. 1 para. 12 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-6018299d82d9eba1832ff51643584964]: Commencement: Sch. 1 para. 13 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-6018299d82d9eba1832ff51643584964]: Commencement: Sch. 1 para. 13 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^f00008]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-9ac73ad375db891e32ec77b336401fe9]: Textual amendment: Word in [Sch. 1 para. 13(1)(e)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/13/1/e) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(9)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/9/a)
+[^c-9ac73ad375db891e32ec77b336401fe9]: Textual amendment: Word in [Sch. 1 para. 13(1)(e)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/13/1/e) omitted (7.1.2026) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(9)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/9/a)
 
-[^key-56504f7cdfdec718acea90ed653e00ea]: Textual amendment: [Sch. 1 para. 13(1)(ee)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/13/1/ee) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(9)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/9/b)
+[^c-56504f7cdfdec718acea90ed653e00ea]: Textual amendment: [Sch. 1 para. 13(1)(ee)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/13/1/ee) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(9)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/9/b)
 
-[^key-6b6b2ff26fb993d6826e8dd67b17ea11]: Commencement: Sch. 1 para. 14 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-6b6b2ff26fb993d6826e8dd67b17ea11]: Commencement: Sch. 1 para. 14 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^f00009]: Footnote: [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299)
 
 [^f00010]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29)
 
-[^key-f6933ea5e61cf424d188840c2527a18a]: Textual amendment: [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/14/2) substituted for [Sch. 1](https://www.legislation.gov.uk/nisr/2005/112/schedule/1) [para. 14(2)(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/14/2) (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(n)](https://www.legislation.gov.uk/nisr/2015/215/article/12/n)
+[^c-f6933ea5e61cf424d188840c2527a18a]: Textual amendment: [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/14/2) substituted for [Sch. 1](https://www.legislation.gov.uk/nisr/2005/112/schedule/1) [para. 14(2)(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/14/2) (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(n)](https://www.legislation.gov.uk/nisr/2015/215/article/12/n)
 
-[^key-959fa485258026c1550a7ba90ce6284d]: Textual amendment: [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/14/2) Table substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(10)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/10)
+[^c-959fa485258026c1550a7ba90ce6284d]: Textual amendment: [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/14/2) Table substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(10)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/10)
 
-[^key-7613560627743054ad94c946303d04b9]: Commencement: Sch. 1 para. 15 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-7613560627743054ad94c946303d04b9]: Commencement: Sch. 1 para. 15 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^f00011]: Footnote: [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160)
 
-[^key-0f310d9e2087dd8cacf89983e4bf0a0f]: Textual amendment: [Sch. 1 para. 15A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15A) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(i)](https://www.legislation.gov.uk/nisr/2011/152/article/18/i) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-0f310d9e2087dd8cacf89983e4bf0a0f]: Textual amendment: [Sch. 1 para. 15A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15A) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(i)](https://www.legislation.gov.uk/nisr/2011/152/article/18/i) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-c11a17ddad9ba530c37ecd536fd09211]: Textual amendment: [Sch. 1 para. 15B](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15B) inserted (9.12.2013) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2013 (S.R. 2013/293)](https://www.legislation.gov.uk/nisr/2013/293), [rules 1](https://www.legislation.gov.uk/nisr/2013/293/rule/1), [5(a)](https://www.legislation.gov.uk/nisr/2013/293/rule/5/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2013/293/rule/3))
+[^c-c11a17ddad9ba530c37ecd536fd09211]: Textual amendment: [Sch. 1 para. 15B](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15B) inserted (9.12.2013) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2013 (S.R. 2013/293)](https://www.legislation.gov.uk/nisr/2013/293), [rules 1](https://www.legislation.gov.uk/nisr/2013/293/rule/1), [5(a)](https://www.legislation.gov.uk/nisr/2013/293/rule/5/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2013/293/rule/3))
 
-[^key-44c77641637255004a7a57f2a8e8d372]: Textual amendment: Sum in [Sch. 1 para. 15B(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15B/3) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(11)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/11)
+[^c-44c77641637255004a7a57f2a8e8d372]: Textual amendment: Sum in [Sch. 1 para. 15B(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15B/3) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(11)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/11)
 
-[^key-5e1e3d3d7ef6b7fc17b33a914b721c0c]: Textual amendment: [Sch. 1 para. 15C](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(o)](https://www.legislation.gov.uk/nisr/2015/215/article/12/o)
+[^c-5e1e3d3d7ef6b7fc17b33a914b721c0c]: Textual amendment: [Sch. 1 para. 15C](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(o)](https://www.legislation.gov.uk/nisr/2015/215/article/12/o)
 
-[^key-40f1b3d9019fd3abcc6c28d54890bc6d]: Textual amendment: Word in [Sch. 1 para. 15C(1)(c)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C/1/c) omitted (1.12.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [5(a)](https://www.legislation.gov.uk/nisr/2016/397/article/5/a)
+[^c-40f1b3d9019fd3abcc6c28d54890bc6d]: Textual amendment: Word in [Sch. 1 para. 15C(1)(c)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C/1/c) omitted (1.12.2016) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [5(a)](https://www.legislation.gov.uk/nisr/2016/397/article/5/a)
 
-[^key-885720c0dbca0f04b5d01f515378daf4]: Textual amendment: Word in [Sch. 1 para. 15C(1)(d)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C/1/d) substituted (1.12.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [5(b)](https://www.legislation.gov.uk/nisr/2016/397/article/5/b)
+[^c-885720c0dbca0f04b5d01f515378daf4]: Textual amendment: Word in [Sch. 1 para. 15C(1)(d)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C/1/d) substituted (1.12.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [5(b)](https://www.legislation.gov.uk/nisr/2016/397/article/5/b)
 
-[^key-90e5b0a139435cb0319b0a2da26f6e8e]: Textual amendment: [Sch. 1 para. 15C(1)(e)(f)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C/1/e) inserted (1.12.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [5(c)](https://www.legislation.gov.uk/nisr/2016/397/article/5/c)
+[^c-90e5b0a139435cb0319b0a2da26f6e8e]: Textual amendment: [Sch. 1 para. 15C(1)(e)(f)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/15C/1/e) inserted (1.12.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [5(c)](https://www.legislation.gov.uk/nisr/2016/397/article/5/c)
 
-[^key-69577f87e2fb3b060d027d5cf4b0097e]: Commencement: Sch. 1 para. 16 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-69577f87e2fb3b060d027d5cf4b0097e]: Commencement: Sch. 1 para. 16 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-72f457700b8fdc00c2af6de9fbaf975e]: Textual amendment: [Sch. 1 para. 16A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/16A) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(p)](https://www.legislation.gov.uk/nisr/2015/215/article/12/p)
+[^c-72f457700b8fdc00c2af6de9fbaf975e]: Textual amendment: [Sch. 1 para. 16A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/16A) inserted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/article/1), [12(p)](https://www.legislation.gov.uk/nisr/2015/215/article/12/p)
 
-[^key-5df0aafb05b57a4c9435b162a18cc6d7]: Textual amendment: Sum in [Sch. 1 para. 16A(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/16A/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(12)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/12)
+[^c-5df0aafb05b57a4c9435b162a18cc6d7]: Textual amendment: Sum in [Sch. 1 para. 16A(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/16A/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(12)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/12)
 
-[^key-eb06f007f0eb16c192ae39442764b927]: Textual amendment: [Sch. 1 para. 16B](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/16B) inserted (22.7.2019) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/122)](https://www.legislation.gov.uk/nisr/2019/122), [rules 1](https://www.legislation.gov.uk/nisr/2019/122/article/1), [3](https://www.legislation.gov.uk/nisr/2019/122/article/3)
+[^c-eb06f007f0eb16c192ae39442764b927]: Textual amendment: [Sch. 1 para. 16B](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/16B) inserted (22.7.2019) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/122)](https://www.legislation.gov.uk/nisr/2019/122), [rules 1](https://www.legislation.gov.uk/nisr/2019/122/article/1), [3](https://www.legislation.gov.uk/nisr/2019/122/article/3)
 
-[^key-c8f1914570024a71ab46092c0cf25309]: Commencement: Sch. 1 para. 17 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-c8f1914570024a71ab46092c0cf25309]: Commencement: Sch. 1 para. 17 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-2a0194887e8cc3a5d704e68cf2a20e17]: Commencement: Sch. 1 para. 18 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-2a0194887e8cc3a5d704e68cf2a20e17]: Commencement: Sch. 1 para. 18 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_54245486-68e0-4b51-a1b1-d541a59e81c1]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-36fe72db542636ca334bc3e063dc4c9c]: Textual amendment: [Sch. 1 paras. 18A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18A), [18B](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18B) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(j)](https://www.legislation.gov.uk/nisr/2011/152/article/18/j) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-36fe72db542636ca334bc3e063dc4c9c]: Textual amendment: [Sch. 1 paras. 18A](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18A), [18B](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18B) inserted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(j)](https://www.legislation.gov.uk/nisr/2011/152/article/18/j) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^M_F_0ca3d1f7-4425-4ade-81be-a393106c4520]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-61d7e6518fad2d76db2c56f35e47930a]: Textual amendment: Sum in [Sch. 1 para. 18A(3)(b)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18A/3/b) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(13)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/13/a)
+[^c-61d7e6518fad2d76db2c56f35e47930a]: Textual amendment: Sum in [Sch. 1 para. 18A(3)(b)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18A/3/b) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(13)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/13/a)
 
-[^key-c8b66286425639de2457712b54d58058]: Textual amendment: Sum in [Sch. 1 para. 18A(3)(b)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18A/3/b) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(13)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/13/b)
+[^c-c8b66286425639de2457712b54d58058]: Textual amendment: Sum in [Sch. 1 para. 18A(3)(b)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/18A/3/b) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(13)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/13/b)
 
-[^key-de29cae40c32934a2c67da3756652ea4]: Commencement: Sch. 1 para. 19 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-de29cae40c32934a2c67da3756652ea4]: Commencement: Sch. 1 para. 19 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-8bcde93930d2585ba8fc7f5cf08b94ab]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/19/2) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(k)](https://www.legislation.gov.uk/nisr/2011/152/article/18/k) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-8bcde93930d2585ba8fc7f5cf08b94ab]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/19/2) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(k)](https://www.legislation.gov.uk/nisr/2011/152/article/18/k) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-a464e96515d4c1a88cf7dbdad896b790]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/19) Tables substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(14)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/14)
+[^c-a464e96515d4c1a88cf7dbdad896b790]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/19) Tables substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(14)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/14)
 
-[^key-9dab7aa73829ad184c5ad073dbb78a78]: Commencement: Sch. 1 para. 20 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-9dab7aa73829ad184c5ad073dbb78a78]: Commencement: Sch. 1 para. 20 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_adffda90-b033-438c-da05-97bbfe585283]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(2)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/2)
 
 [^M_F_07e4cbdd-f3c2-4e17-e18a-1572c9db8482]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [6](https://www.legislation.gov.uk/nisr/2015/215/rule/6)
 
-[^key-e2f7478b941782d317d0db445c60f026]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/21) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(m)](https://www.legislation.gov.uk/nisr/2011/152/article/18/m) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-e2f7478b941782d317d0db445c60f026]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/21) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [18(m)](https://www.legislation.gov.uk/nisr/2011/152/article/18/m) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
 [^M_F_73162a00-45f4-4a6c-e005-e68f86e09a90]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-86f0b6c8fc77e888d3b03817a9ce1ad6]: Commencement: Sch. 1 para. 22 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-86f0b6c8fc77e888d3b03817a9ce1ad6]: Commencement: Sch. 1 para. 22 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_c3ef13ed-c1b7-433b-d4d4-4dfddf122be2]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-d59694884ab1de0859704bdbc37f63ed]: Commencement: Sch. 1 para. 23 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-d59694884ab1de0859704bdbc37f63ed]: Commencement: Sch. 1 para. 23 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-e5c6c5bcb35168cbf4fa2283fc6c0a2d]: Commencement: Sch. 1 para. 24 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-e5c6c5bcb35168cbf4fa2283fc6c0a2d]: Commencement: Sch. 1 para. 24 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-de5f5b5488d341d8b176d0d0e8d967fe]: Commencement: Sch. 1 para. 25 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-de5f5b5488d341d8b176d0d0e8d967fe]: Commencement: Sch. 1 para. 25 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-6dd442655d1d7b08fbda95fe72d41a33]: Commencement: Sch. 1 para. 26 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-6dd442655d1d7b08fbda95fe72d41a33]: Commencement: Sch. 1 para. 26 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
-[^key-9d0a744411315c8524d4f8a58c50fd3e]: Textual amendment: [Sch. 1 para. 27](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/27) substituted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(k)](https://www.legislation.gov.uk/nisr/2016/200/article/7/k)
+[^c-9d0a744411315c8524d4f8a58c50fd3e]: Textual amendment: [Sch. 1 para. 27](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/27) substituted (15.4.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/200)](https://www.legislation.gov.uk/nisr/2016/200), [rules 1](https://www.legislation.gov.uk/nisr/2016/200/article/1), [7(k)](https://www.legislation.gov.uk/nisr/2016/200/article/7/k)
 
-[^key-a9c2d3a8fdb7a80921937cd802c85c0e]: Commencement: Sch. 1 para. 28 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-a9c2d3a8fdb7a80921937cd802c85c0e]: Commencement: Sch. 1 para. 28 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_56d7a9ed-912f-4791-dc7b-e81fb0c38b0c]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
@@ -2094,26 +2094,26 @@ Schedule 1 deals with the standard fees which shall be payable for most cases in
 
 [^M_F_c62f0c8b-72bc-4d28-f23e-d0b678a0c25a]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [6](https://www.legislation.gov.uk/nisr/2015/215/rule/6)
 
-[^key-39e6d9bab07ee00595db26a474c7bb64]: Commencement: Sch. 1 para. 29 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-39e6d9bab07ee00595db26a474c7bb64]: Commencement: Sch. 1 para. 29 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_10fc6f95-f364-4e84-97e9-5fbcfa3ebac6]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-7a19dfc7cddea946c5393339a2f1f51b]: Textual amendment: Sum in [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/29/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(15)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/15/a)
+[^c-7a19dfc7cddea946c5393339a2f1f51b]: Textual amendment: Sum in [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/29/2) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(15)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/15/a)
 
-[^key-3fd5734a9a4fc6d282fa59d81c11d5a4]: Textual amendment: Sum in [Sch. 1 para. 29(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/29/3) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(15)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/15/b)
+[^c-3fd5734a9a4fc6d282fa59d81c11d5a4]: Textual amendment: Sum in [Sch. 1 para. 29(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/29/3) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(15)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/15/b)
 
-[^key-b28bc1568aa9a50d68f04098424b66b7]: Textual amendment: [Sch. 1 para. 29(5)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/29/5) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(15)(c)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/15/c)
+[^c-b28bc1568aa9a50d68f04098424b66b7]: Textual amendment: [Sch. 1 para. 29(5)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/29/5) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(15)(c)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/15/c)
 
-[^key-903625d2be6a4ec930938f9b3b629de5]: Commencement: Sch. 1 para. 30 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
+[^c-903625d2be6a4ec930938f9b3b629de5]: Commencement: Sch. 1 para. 30 in operation at 4.4.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/112/rule/1)
 
 [^M_F_e8bcce43-bb04-4280-abb1-a2f29c72f59b]: Textual amendment: Words in Rules substituted (5.5.2015) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2015 (S.R. 2015/215)](https://www.legislation.gov.uk/nisr/2015/215), [rules 1](https://www.legislation.gov.uk/nisr/2015/215/rule/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/215/rule/5/1)
 
-[^key-5780912e6ecb9ce47f07bbfd3b97765b]: Textual amendment: Sum in [Sch. 1 para. 30(1)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/30/1) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(16)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/16/a)
+[^c-5780912e6ecb9ce47f07bbfd3b97765b]: Textual amendment: Sum in [Sch. 1 para. 30(1)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/30/1) substituted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(16)(a)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/16/a)
 
-[^key-bdd663e2fef2e70ee0b1f48d76e72ce4]: Textual amendment: [Sch. 1 para. 30(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/30/3) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(16)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/16/b)
+[^c-bdd663e2fef2e70ee0b1f48d76e72ce4]: Textual amendment: [Sch. 1 para. 30(3)](https://www.legislation.gov.uk/nisr/2005/112/schedule/1/paragraph/30/3) inserted (7.1.2026) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/197)](https://www.legislation.gov.uk/nisr/2025/197), [rules 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1), [11(16)(b)](https://www.legislation.gov.uk/nisr/2025/197/rule/11/16/b)
 
-[^key-a481d04a65816ac726633f155271dc24]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/112/schedule/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [19](https://www.legislation.gov.uk/nisr/2011/152/article/19) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-a481d04a65816ac726633f155271dc24]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/112/schedule/2) omitted (13.4.2011) by virtue of [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [19](https://www.legislation.gov.uk/nisr/2011/152/article/19) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-1408e4acc25a63ed39511cc30e783ea2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2005/112/schedule/3) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [20](https://www.legislation.gov.uk/nisr/2011/152/article/20) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
+[^c-1408e4acc25a63ed39511cc30e783ea2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2005/112/schedule/3) substituted (13.4.2011) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/152)](https://www.legislation.gov.uk/nisr/2011/152), [rules 1](https://www.legislation.gov.uk/nisr/2011/152/article/1), [20](https://www.legislation.gov.uk/nisr/2011/152/article/20) (with [rule 3](https://www.legislation.gov.uk/nisr/2011/152/article/3))
 
-[^key-24d01e74351a6191acd390a6e1c92be4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2005/112/schedule/3) inserted (1.12.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [6](https://www.legislation.gov.uk/nisr/2016/397/article/6)
+[^c-24d01e74351a6191acd390a6e1c92be4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2005/112/schedule/3) inserted (1.12.2016) by [The Legal Aid for Crown Court Proceedings (Costs) (Amendment No. 3) Rules (Northern Ireland) 2016 (S.R. 2016/397)](https://www.legislation.gov.uk/nisr/2016/397), [rules 1](https://www.legislation.gov.uk/nisr/2016/397/article/1), [6](https://www.legislation.gov.uk/nisr/2016/397/article/6)

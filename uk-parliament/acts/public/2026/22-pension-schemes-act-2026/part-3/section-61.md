@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Schemes divided into sections[^key-fe31997fb5cb07b8d6ebd770145ab85f]
+## 61. Schemes divided into sections[^c-fe31997fb5cb07b8d6ebd770145ab85f]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ and those particular assets, liabilities and members are “allocated” to the 
 
 ## Annotations
 
-[^key-fe31997fb5cb07b8d6ebd770145ab85f]: Commencement: S. 61 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-fe31997fb5cb07b8d6ebd770145ab85f]: Commencement: S. 61 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

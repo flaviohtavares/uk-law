@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Conditions and directions[^key-deeaf6d5b13c05991c1942c6ac9f942e][^key-c39387a787a14fb3605f308e77f9ba2f]
+## 63. Conditions and directions[^c-deeaf6d5b13c05991c1942c6ac9f942e][^c-c39387a787a14fb3605f308e77f9ba2f]
 
 *Extent: E+W+S*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-deeaf6d5b13c05991c1942c6ac9f942e]: Commencement: Art. 63 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-deeaf6d5b13c05991c1942c6ac9f942e]: Commencement: Art. 63 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-c39387a787a14fb3605f308e77f9ba2f]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2018/1253/article/63) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-c39387a787a14fb3605f308e77f9ba2f]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2018/1253/article/63) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00100]: Footnote: Section 55L was inserted by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2).

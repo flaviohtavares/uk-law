@@ -64,7 +64,7 @@ In these Regulations, “**the 2001 Regulations**” means the Weighing Equipmen
 - (b) regulation 7A of the Measuring Equipment (Intoxicating Liquor) Regulations 1983 [^c19961011];
 - (c) regulation 12A of the Weighing Equipment (Filling and Discontinuous Totalising Automatic Weighing Machines) Regulations 1986 [^c19961021];
 - (d) regulation 17A of the Measuring Equipment (Measures of Length) Regulations 1986 [^c19961031];
-- (e)[^key-7b29119544e90c81e3e82ae0d5f11caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7b29119544e90c81e3e82ae0d5f11caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) regulation 16(7)(b) of the Measuring Equipment (Capacity Measures and Testing Equipment) Regulations 1995 [^c19961051];
 - (g) regulation 8(4) of the Measuring Equipment (Liquid Fuel and Lubricants) Regulations 1995 [^c19961061];
 - (h) regulation 6A of the Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations 2000 [^c19961071];
@@ -112,7 +112,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^c19961031]: Marginal citation: 1986/1682; relevant amending instruments are [S.I. 1994/1851](https://www.legislation.gov.uk/uksi/1994/1851) and 2001/85.
 
-[^key-7b29119544e90c81e3e82ae0d5f11caf]: Textual amendment: Reg. 3(2)(e) revoked (25.3.2015) by [The Weights and Measures (Revocations) Regulations 2015 (S.I. 2015/356)](https://www.legislation.gov.uk/uksi/2015/356), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/Pt/paragraph/1) Table 1
+[^c-7b29119544e90c81e3e82ae0d5f11caf]: Textual amendment: Reg. 3(2)(e) revoked (25.3.2015) by [The Weights and Measures (Revocations) Regulations 2015 (S.I. 2015/356)](https://www.legislation.gov.uk/uksi/2015/356), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/Pt/paragraph/1) Table 1
 
 [^c19961051]: Marginal citation: [S.I. 1995/735](https://www.legislation.gov.uk/uksi/1995/735), amended by [S.I. 2001/85](https://www.legislation.gov.uk/uksi/2001/85); there are other amending instruments but none is relevant.
 

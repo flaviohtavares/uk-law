@@ -24,11 +24,11 @@ Section 48
 
 ### Part 1 — Amendment of FRSA 2004
 
-#### 1. Introduction[^key-c91304fe7893b978b90d139e3224ea3c]
+#### 1. Introduction[^c-c91304fe7893b978b90d139e3224ea3c]
 
 FRSA 2004 is amended in accordance with this Part of this Schedule.
 
-#### 2. Power to create combined fire and rescue authorities[^key-91a8c474afe500ff78784f2e06be40fc]
+#### 2. Power to create combined fire and rescue authorities[^c-91a8c474afe500ff78784f2e06be40fc]
 
 (1) Section 2 is amended in accordance with this paragraph.
 
@@ -51,13 +51,13 @@ FRSA 2004 is amended in accordance with this Part of this Schedule.
 
 > (11A) This section is subject to section 1(2A).
 
-#### 3. Combined authorities under the Fire Services Act 1947[^key-e14bf0c5248de67abffad8812456d8f1]
+#### 3. Combined authorities under the Fire Services Act 1947[^c-e14bf0c5248de67abffad8812456d8f1]
 
 In section 4, after subsection (7) insert—
 
 > (7A) This section is subject to section 1(2A).
 
-#### 4. Provision about mayoral combined authorities or CCAs that are fire and rescue authorities[^key-94a9ec4d66fdb69e3b9782e521494b87]
+#### 4. Provision about mayoral combined authorities or CCAs that are fire and rescue authorities[^c-94a9ec4d66fdb69e3b9782e521494b87]
 
 (1) In section 1 (fire and rescue authorities), after subsection (2B) (inserted by section 48 of this Act) insert—
 
@@ -157,7 +157,7 @@ In section 4, after subsection (7) insert—
 >   - (i) in such manner as is required by the relevant scrutiny body; and
 >   - (ii) in any event, in a prominent place on the website of the mayoral combined authority or mayoral CCA.
 
-#### 5. Matters outside the scope of inspections[^key-b09124866a27df0ef953c5ecd9c2022a]
+#### 5. Matters outside the scope of inspections[^c-b09124866a27df0ef953c5ecd9c2022a]
 
 In section 28 (inspectors), after subsection (A8) insert—
 
@@ -193,7 +193,7 @@ In section 28 (inspectors), after subsection (A8) insert—
 
 ### Part 2 — Amendments of other legislation
 
-#### 6. Local Government Act 1972[^key-a1ee484775d6973292698a9ce5e625e0]
+#### 6. Local Government Act 1972[^c-a1ee484775d6973292698a9ce5e625e0]
 
 In section 138 LGA 1972 (powers of principal councils with respect to emergencies or disaster)—
 
@@ -207,7 +207,7 @@ In section 138 LGA 1972 (powers of principal councils with respect to emergencie
   >
   > in its capacity as a fire and rescue authority by virtue of section 1(2)(f) or (g) of the Fire and Rescue Services Act 2004.
 
-#### 7. Local Government Finance Act 1988[^key-0558b38382a70e038bd9caac83d23446]
+#### 7. Local Government Finance Act 1988[^c-0558b38382a70e038bd9caac83d23446]
 
 (1) LGFA 1988 is amended in accordance with this paragraph.
 
@@ -239,7 +239,7 @@ In section 138 LGA 1972 (powers of principal councils with respect to emergencie
   ;
 - (d) in subsection (2), after “section 4A fire and rescue authority” insert “, a mayoral FRA”.
 
-#### 8. Local Government and Housing Act 1989[^key-7b44952135318c8bec6012f0aefcba14]
+#### 8. Local Government and Housing Act 1989[^c-7b44952135318c8bec6012f0aefcba14]
 
 (1) The Local Government and Housing Act 1989 is amended in accordance with this paragraph.
 
@@ -257,7 +257,7 @@ In section 138 LGA 1972 (powers of principal councils with respect to emergencie
 
 .
 
-#### 9. LDEDCA 2009[^key-469591f6464b9c33bf48d959c1193bdd]
+#### 9. LDEDCA 2009[^c-469591f6464b9c33bf48d959c1193bdd]
 
 (1) LDEDCA 2009 is amended in accordance with this paragraph.
 
@@ -278,7 +278,7 @@ In section 138 LGA 1972 (powers of principal councils with respect to emergencie
 > - (a) functions of a fire and rescue authority which the combined authority has by virtue of an order under section 105A (and here “**fire and rescue authority**” means a fire and rescue authority under the Fire and Rescue Services Act 2004), or
 > - (b) functions which the combined authority has as a fire and rescue authority by virtue of section 1(2)(f) or (g) of the Fire and Rescue Services Act 2004.
 
-#### 10. LURA 2023[^key-d41eee4ce1aba8f23b7c04c4dd2b76ae]
+#### 10. LURA 2023[^c-d41eee4ce1aba8f23b7c04c4dd2b76ae]
 
 (1) LURA 2023 is amended in accordance with this paragraph.
 
@@ -301,22 +301,22 @@ In section 138 LGA 1972 (powers of principal councils with respect to emergencie
 
 ## Annotations
 
-[^key-c91304fe7893b978b90d139e3224ea3c]: Commencement: [Sch. 25 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-c91304fe7893b978b90d139e3224ea3c]: Commencement: [Sch. 25 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-91a8c474afe500ff78784f2e06be40fc]: Commencement: [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-91a8c474afe500ff78784f2e06be40fc]: Commencement: [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-e14bf0c5248de67abffad8812456d8f1]: Commencement: [Sch. 25 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-e14bf0c5248de67abffad8812456d8f1]: Commencement: [Sch. 25 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-94a9ec4d66fdb69e3b9782e521494b87]: Commencement: [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-94a9ec4d66fdb69e3b9782e521494b87]: Commencement: [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-b09124866a27df0ef953c5ecd9c2022a]: Commencement: [Sch. 25 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/5) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-b09124866a27df0ef953c5ecd9c2022a]: Commencement: [Sch. 25 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/5) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-a1ee484775d6973292698a9ce5e625e0]: Commencement: [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-a1ee484775d6973292698a9ce5e625e0]: Commencement: [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-0558b38382a70e038bd9caac83d23446]: Commencement: [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/7) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-0558b38382a70e038bd9caac83d23446]: Commencement: [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/7) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-7b44952135318c8bec6012f0aefcba14]: Commencement: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/8) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-7b44952135318c8bec6012f0aefcba14]: Commencement: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/8) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-469591f6464b9c33bf48d959c1193bdd]: Commencement: [Sch. 25 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/9) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-469591f6464b9c33bf48d959c1193bdd]: Commencement: [Sch. 25 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/9) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-d41eee4ce1aba8f23b7c04c4dd2b76ae]: Commencement: [Sch. 25 para. 10](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/10) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-d41eee4ce1aba8f23b7c04c4dd2b76ae]: Commencement: [Sch. 25 para. 10](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/10) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

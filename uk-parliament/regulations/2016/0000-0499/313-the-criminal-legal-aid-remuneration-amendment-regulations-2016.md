@@ -46,13 +46,13 @@ Coming into force
 
 The Lord Chancellor makes these Regulations[^f00001] in exercise of the powers conferred by sections 2(3), 13(4) and (5), 15(1), (6), (7) and (9), 21(2) and 41(1) to (3) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-50deff64b9366e68bd38803c5f505ed5]
+## 1. Citation, commencement and interpretation[^c-50deff64b9366e68bd38803c5f505ed5]
 
 (1) These Regulations may be cited as the Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 and come into force on 31st March 2016.
 
 (2) In these Regulations, “the Criminal Remuneration Regulations” means the Criminal Legal Aid (Remuneration) Regulations 2013[^f00003].
 
-## 2. Revocation of amending instruments[^key-a8d518ab6d9b657360df9c5b45157243]
+## 2. Revocation of amending instruments[^c-a8d518ab6d9b657360df9c5b45157243]
 
 The following are revoked—
 
@@ -61,7 +61,7 @@ The following are revoked—
   - (ii) subject to regulation 3, Part 3 (amendments coming into force on 1st April 2016) and Schedules 4 to 13;
 - (b) the Criminal Legal Aid (Remuneration etc.) (Amendment) (No.2) Regulations 2015[^f00005].
 
-## 3. Exceptions to revocation[^key-fc0339fde9bf71e67026bcd7c9505962]
+## 3. Exceptions to revocation[^c-fc0339fde9bf71e67026bcd7c9505962]
 
 Regulation 2(a)(ii) does not apply to the following provisions of regulation 6 of the Criminal Legal Aid (Remuneration etc.) (Amendment) Regulations 2015 (amendments to the Criminal Remuneration Regulations)[^f00006]—
 
@@ -70,7 +70,7 @@ Regulation 2(a)(ii) does not apply to the following provisions of regulation 6 o
 - (c) paragraph (7)(b)(i) and (ii) (amendments to paragraph 1(1) of Schedule 2: litigators’ graduated fee scheme – interpretation);
 - (d) paragraph (8)(f)(i) and (ii) (amendments to paragraph 5 of Schedule 4: rates payable for the claims specified in regulation 8 – representation in the magistrates’ court).
 
-## 4. Amendments to the Criminal Remuneration Regulations[^key-10cae07130a4bc154ae6217cf3013b5d]
+## 4. Amendments to the Criminal Remuneration Regulations[^c-10cae07130a4bc154ae6217cf3013b5d]
 
 (1) The Criminal Remuneration Regulations are amended as follows.
 
@@ -80,7 +80,7 @@ Regulation 2(a)(ii) does not apply to the following provisions of regulation 6 o
 
 (4) Schedule 4 (rates payable for the claims specified in Regulation 8) is amended as set out in Schedule 3 to these Regulations.
 
-## 5. Application and transitional provision[^key-4addf57ada6edebb7addb33758566892]
+## 5. Application and transitional provision[^c-4addf57ada6edebb7addb33758566892]
 
 These Regulations do not apply to services made available pursuant to a determination made before 1st April 2016 under section 13 (advice and assistance for individuals in custody), section 15 (advice and assistance for criminal proceedings) or section 16 (representation for criminal proceedings) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
@@ -96,7 +96,7 @@ Ministry of Justice
 
 Regulation 4(2)
 
-**1.**[^key-24dc408ce925b37c97a32af4747164cc] For the table following paragraph 6(2) (basic fees for cracked trials of guilty pleas)[^f00007], substitute the following—
+**1.**[^c-24dc408ce925b37c97a32af4747164cc] For the table following paragraph 6(2) (basic fees for cracked trials of guilty pleas)[^f00007], substitute the following—
 
 > <table>
 > <thead>
@@ -111,7 +111,7 @@ Regulation 4(2)
 
 .
 
-**2.**[^key-12623262f6d989eaf3f8fadb20a6d704] In paragraph 7 (trial where the number of pages of prosecution evidence is less than or equal to the PPE Cut-off)[^f00008]—
+**2.**[^c-12623262f6d989eaf3f8fadb20a6d704] In paragraph 7 (trial where the number of pages of prosecution evidence is less than or equal to the PPE Cut-off)[^f00008]—
 
 - (a) for the table following sub-paragraph (2) (basic fees for trials), substitute the following—
 
@@ -335,7 +335,7 @@ Regulation 4(2)
 
   .
 
-**3.**[^key-f09db86dd4fae739cd5f1392c1b17207] In paragraph 8 (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE Cut-off)[^f00009], for the tables following sub-paragraph (2) (table of final fees in cracked trials and table of final fees in guilty pleas), substitute the following—
+**3.**[^c-f09db86dd4fae739cd5f1392c1b17207] In paragraph 8 (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE Cut-off)[^f00009], for the tables following sub-paragraph (2) (table of final fees in cracked trials and table of final fees in guilty pleas), substitute the following—
 
 > Table of final fees in cracked trials
 >
@@ -547,7 +547,7 @@ Regulation 4(2)
 
 .
 
-**4.**[^key-b8074dde36dcccbb9e0f74b6c41a3779] In paragraph 9 (trials where the number of pages of prosecution evidence exceeds the PPE Cut-off)[^f00010], for the table following sub-paragraph (2) (table of final fees in trials), substitute the following—
+**4.**[^c-b8074dde36dcccbb9e0f74b6c41a3779] In paragraph 9 (trials where the number of pages of prosecution evidence exceeds the PPE Cut-off)[^f00010], for the table following sub-paragraph (2) (table of final fees in trials), substitute the following—
 
 > | **Class of Offence** | **PPE Range** | **Initial Fee (£)** | **Incremental fee per page (£)** |
 > | --- | --- | --- | --- |
@@ -681,9 +681,9 @@ Regulation 4(2)
 
 .
 
-**5.**[^key-e38b4dafa72588c73c13de6963ab0ec7] In paragraph 11 (fixed fee for guilty pleas or cracked trials)[^f00011], for “£298.65” substitute “£330.33”.
+**5.**[^c-e38b4dafa72588c73c13de6963ab0ec7] In paragraph 11 (fixed fee for guilty pleas or cracked trials)[^f00011], for “£298.65” substitute “£330.33”.
 
-**6.**[^key-c5cd901eeb6ccdf7eb5170e65412209d] For the table following paragraph 19 (fixed fees)[^f00012], substitute the following—
+**6.**[^c-c5cd901eeb6ccdf7eb5170e65412209d] For the table following paragraph 19 (fixed fees)[^f00012], substitute the following—
 
 > | **Types of proceedings** | **Paragraph providing for fee** | **Fee payable – (£ per proceedings)** |
 > | --- | --- | --- |
@@ -696,7 +696,7 @@ Regulation 4(2)
 
 .
 
-**7.**[^key-b5ea202ae6789a119f34ba3e3cdf7306] For the table following paragraph 27 (prescribed fee rates)[^f00013], substitute the following—
+**7.**[^c-b5ea202ae6789a119f34ba3e3cdf7306] For the table following paragraph 27 (prescribed fee rates)[^f00013], substitute the following—
 
 > | **Class of work** | **Grade of fee earner** | **Rate** | **Variations** |
 > | --- | --- | --- | --- |
@@ -717,7 +717,7 @@ Regulation 4(2)
 
 Regulation 4(3)
 
-**1.**[^key-1bff209fc920d1753bc20400a3118bc9] For the table following paragraph 7(1) (litigators’ fees for proceedings in the Court of Appeal)[^f00014], substitute the following—
+**1.**[^c-1bff209fc920d1753bc20400a3118bc9] For the table following paragraph 7(1) (litigators’ fees for proceedings in the Court of Appeal)[^f00014], substitute the following—
 
 > | **Class of work** | **Grade of fee earner** | **Rate** | **Variations** |
 > | --- | --- | --- | --- |
@@ -740,9 +740,9 @@ Regulation 4(3)
 
 Regulation 4(4)
 
-**1.**[^key-c677b4d29d3828444332158814ad5b57] For “£1,237.50”, wherever it appears, substitute “£1,368.75”.
+**1.**[^c-c677b4d29d3828444332158814ad5b57] For “£1,237.50”, wherever it appears, substitute “£1,368.75”.
 
-**2.**[^key-f9809fbfbe8b1d820521f32f45baa7a1] In paragraph 2 (work conducted at the Police Station: Police Station advice and assistance)[^f00015]—
+**2.**[^c-f9809fbfbe8b1d820521f32f45baa7a1] In paragraph 2 (work conducted at the Police Station: Police Station advice and assistance)[^f00015]—
 
 - (a) in sub-paragraph (1)—
   - (i) in paragraph (a), for “£25.95” substitute “£28.70”, and
@@ -1027,7 +1027,7 @@ Regulation 4(4)
 
   .
 
-**3.**[^key-7509532d10812d8fe38104c1cbe18e88] In paragraph 3 (work conducted outside the Police Station)[^f00016]—
+**3.**[^c-7509532d10812d8fe38104c1cbe18e88] In paragraph 3 (work conducted outside the Police Station)[^f00016]—
 
 - (a) in sub-paragraph (1), for “£247.50” substitute “£273.75”;
 - (b) for the table following sub-paragraph (1) (free standing advice and assistance), substitute the following—
@@ -1115,7 +1115,7 @@ Regulation 4(4)
 
   .
 
-**4.**[^key-edcb7092b5d76de8ee77b4e9dc0e97fa] In paragraph 4 (Advice and Assistance and Advocacy Assistance by a court Duty Solicitor and Advocacy Assistance at the Virtual Court)[^f00017]—
+**4.**[^c-edcb7092b5d76de8ee77b4e9dc0e97fa] In paragraph 4 (Advice and Assistance and Advocacy Assistance by a court Duty Solicitor and Advocacy Assistance at the Virtual Court)[^f00017]—
 
 - (a) for the table following sub-paragraph (1) (Advice and Assistance and Advocacy Assistance by a court Duty Solicitor), substitute the following—
 
@@ -1137,7 +1137,7 @@ Regulation 4(4)
 
   .
 
-**5.**[^key-9342c1ee81a2ad855c93dca4c6497e84] In paragraph 5 (representation in the magistrates’ court)[^f00018]—
+**5.**[^c-9342c1ee81a2ad855c93dca4c6497e84] In paragraph 5 (representation in the magistrates’ court)[^f00018]—
 
 - (a) for the table following sub-paragraph (1) (representation in a magistrates’ court), substitute the following—
 
@@ -1172,7 +1172,7 @@ Regulation 4(4)
 
   .
 
-**6.**[^key-9387a704ab5e141239bec46a0e691922] In paragraph 5A (representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court)[^f00019]—
+**6.**[^c-9387a704ab5e141239bec46a0e691922] In paragraph 5A (representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court)[^f00019]—
 
 - (a) for the table following sub-paragraph (2) (representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court), substitute the following—
 
@@ -1196,7 +1196,7 @@ Regulation 4(4)
   and
 - (c) in sub-paragraph (4) for “£21.70” substitute “£24.00”.
 
-**7.**[^key-5cc69f880457128551875e3498103d43] In paragraph 6 (own client work)[^f00020]—
+**7.**[^c-5cc69f880457128551875e3498103d43] In paragraph 6 (own client work)[^f00020]—
 
 - (a) in sub-paragraph (2)—
   - (i) in paragraph (a), for “£43.35” substitute “£47.95”, and
@@ -1216,7 +1216,7 @@ Regulation 4(4)
 
   .
 
-**8.**[^key-50ea9efb43a05d6c3b961d7534dab763] In paragraph 7 (representation in proceedings prescribed as criminal proceedings under section 14(h) of the Act)[^f00021]—
+**8.**[^c-50ea9efb43a05d6c3b961d7534dab763] In paragraph 7 (representation in proceedings prescribed as criminal proceedings under section 14(h) of the Act)[^f00021]—
 
 - (a) for the table following sub-paragraph (1) (representation in prescribed proceedings in a Crown Court), substitute the following table—
 
@@ -1243,7 +1243,7 @@ Regulation 4(4)
 
   .
 
-**9.**[^key-a305f7c707a3c0ce91b5363f1e2dfffa] In paragraph 8 (Advice and Assistance on an appeal against conviction or sentence or an application to the Criminal Cases Review Commission)[^f00022]—
+**9.**[^c-a305f7c707a3c0ce91b5363f1e2dfffa] In paragraph 8 (Advice and Assistance on an appeal against conviction or sentence or an application to the Criminal Cases Review Commission)[^f00022]—
 
 - (a) in paragraph (a), for “£247.50” substitute “£273.75”;
 - (b) in paragraph (b), for “£412.50” substitute “£456.25”, and
@@ -1257,7 +1257,7 @@ Regulation 4(4)
 
   .
 
-**10.**[^key-7214c9211177adb5c55ace60646e0425] In paragraph 9 (representation on an appeal by way of case stated)[^f00023], for the table following sub-paragraph (1) (representation on an appeal by way of case stated in the High Court), substitute the following—
+**10.**[^c-7214c9211177adb5c55ace60646e0425] In paragraph 9 (representation on an appeal by way of case stated)[^f00023], for the table following sub-paragraph (1) (representation on an appeal by way of case stated in the High Court), substitute the following—
 
 > |  | **High Court (£)** |
 > | --- | --- |
@@ -1270,7 +1270,7 @@ Regulation 4(4)
 
 .
 
-**11.**[^key-a693fec86d75380c805eb59313b02513] For the table following paragraph 10 (representation in the Crown Court on an appeal from a magistrates’ court in proceedings prescribed as criminal proceedings under section 14(h) of the Act)[^f00024], substitute the following—
+**11.**[^c-a693fec86d75380c805eb59313b02513] For the table following paragraph 10 (representation in the Crown Court on an appeal from a magistrates’ court in proceedings prescribed as criminal proceedings under section 14(h) of the Act)[^f00024], substitute the following—
 
 > |  | **London (£)** | **National (£)** |
 > | --- | --- | --- |
@@ -1281,7 +1281,7 @@ Regulation 4(4)
 
 .
 
-**12.**[^key-aa6329c5ba7530ef42c7254898205b48] In paragraph 11 (Advice and Assistance provided pursuant to a determination made under section 15 of the Act in Prison Law cases)[^f00025]—
+**12.**[^c-aa6329c5ba7530ef42c7254898205b48] In paragraph 11 (Advice and Assistance provided pursuant to a determination made under section 15 of the Act in Prison Law cases)[^f00025]—
 
 - (a) in sub-paragraph (1), for—
   - (i) “£181.50” substitute “£200.75”, and
@@ -1334,7 +1334,7 @@ Regulation 4(4)
 
   .
 
-**13.**[^key-dd95f5bda19e1f2939d629fa1ccef66c] In paragraph 12 (payment for Assigned Counsel)[^f00026], for the table following sub-paragraph (2) (payment for Assigned Counsel), substitute the following—
+**13.**[^c-dd95f5bda19e1f2939d629fa1ccef66c] In paragraph 12 (payment for Assigned Counsel)[^f00026], for the table following sub-paragraph (2) (payment for Assigned Counsel), substitute the following—
 
 > <table>
 > <thead>
@@ -1374,102 +1374,102 @@ A full impact assessment of the effect of the policy the implementation of which
 
 [^f00002]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-50deff64b9366e68bd38803c5f505ed5]: Commencement: Reg. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-50deff64b9366e68bd38803c5f505ed5]: Commencement: Reg. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2013/435](https://www.legislation.gov.uk/uksi/2013/435).
 
-[^key-a8d518ab6d9b657360df9c5b45157243]: Commencement: Reg. 2 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-a8d518ab6d9b657360df9c5b45157243]: Commencement: Reg. 2 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2015/1369](https://www.legislation.gov.uk/uksi/2015/1369), amended by [S.I. 2015/1678](https://www.legislation.gov.uk/uksi/2015/1678) and [2015/2049](https://www.legislation.gov.uk/uksi/2015/2049) (revoked by regulation 2(b) of these Regulations).
 
 [^f00005]: Footnote: [S.I. 2015/2049](https://www.legislation.gov.uk/uksi/2015/2049).
 
-[^key-fc0339fde9bf71e67026bcd7c9505962]: Commencement: Reg. 3 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-fc0339fde9bf71e67026bcd7c9505962]: Commencement: Reg. 3 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00006]: Footnote: Amended by [S.I. 2015/1678](https://www.legislation.gov.uk/uksi/2015/1678) and [2015/2049](https://www.legislation.gov.uk/uksi/2015/2049) (revoked by regulation 2(b) of these Regulations).
 
-[^key-10cae07130a4bc154ae6217cf3013b5d]: Commencement: Reg. 4 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-10cae07130a4bc154ae6217cf3013b5d]: Commencement: Reg. 4 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
-[^key-4addf57ada6edebb7addb33758566892]: Commencement: Reg. 5 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-4addf57ada6edebb7addb33758566892]: Commencement: Reg. 5 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
-[^key-24dc408ce925b37c97a32af4747164cc]: Commencement: Sch. 1 para. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-24dc408ce925b37c97a32af4747164cc]: Commencement: Sch. 1 para. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00007]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-12623262f6d989eaf3f8fadb20a6d704]: Commencement: Sch. 1 para. 2 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-12623262f6d989eaf3f8fadb20a6d704]: Commencement: Sch. 1 para. 2 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00008]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-f09db86dd4fae739cd5f1392c1b17207]: Commencement: Sch. 1 para. 3 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-f09db86dd4fae739cd5f1392c1b17207]: Commencement: Sch. 1 para. 3 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00009]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-b8074dde36dcccbb9e0f74b6c41a3779]: Commencement: Sch. 1 para. 4 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-b8074dde36dcccbb9e0f74b6c41a3779]: Commencement: Sch. 1 para. 4 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00010]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-e38b4dafa72588c73c13de6963ab0ec7]: Commencement: Sch. 1 para. 5 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-e38b4dafa72588c73c13de6963ab0ec7]: Commencement: Sch. 1 para. 5 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00011]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-c5cd901eeb6ccdf7eb5170e65412209d]: Commencement: Sch. 1 para. 6 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-c5cd901eeb6ccdf7eb5170e65412209d]: Commencement: Sch. 1 para. 6 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00012]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-b5ea202ae6789a119f34ba3e3cdf7306]: Commencement: Sch. 1 para. 7 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-b5ea202ae6789a119f34ba3e3cdf7306]: Commencement: Sch. 1 para. 7 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00013]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-1bff209fc920d1753bc20400a3118bc9]: Commencement: Sch. 2 para. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-1bff209fc920d1753bc20400a3118bc9]: Commencement: Sch. 2 para. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00014]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-c677b4d29d3828444332158814ad5b57]: Commencement: Sch. 3 para. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-c677b4d29d3828444332158814ad5b57]: Commencement: Sch. 3 para. 1 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
-[^key-f9809fbfbe8b1d820521f32f45baa7a1]: Commencement: Sch. 3 para. 2 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-f9809fbfbe8b1d820521f32f45baa7a1]: Commencement: Sch. 3 para. 2 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00015]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-7509532d10812d8fe38104c1cbe18e88]: Commencement: Sch. 3 para. 3 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-7509532d10812d8fe38104c1cbe18e88]: Commencement: Sch. 3 para. 3 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00016]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-edcb7092b5d76de8ee77b4e9dc0e97fa]: Commencement: Sch. 3 para. 4 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-edcb7092b5d76de8ee77b4e9dc0e97fa]: Commencement: Sch. 3 para. 4 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00017]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-9342c1ee81a2ad855c93dca4c6497e84]: Commencement: Sch. 3 para. 5 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-9342c1ee81a2ad855c93dca4c6497e84]: Commencement: Sch. 3 para. 5 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00018]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415), [2015/325](https://www.legislation.gov.uk/uksi/2015/325), [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations, subject to the exceptions in regulation 3) and [2015/1678](https://www.legislation.gov.uk/uksi/2015/1678).
 
-[^key-9387a704ab5e141239bec46a0e691922]: Commencement: Sch. 3 para. 6 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-9387a704ab5e141239bec46a0e691922]: Commencement: Sch. 3 para. 6 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00019]: Footnote: Inserted by [S.I. 2015/325](https://www.legislation.gov.uk/uksi/2015/325). Amended by [S.I. 2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-5cc69f880457128551875e3498103d43]: Commencement: Sch. 3 para. 7 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-5cc69f880457128551875e3498103d43]: Commencement: Sch. 3 para. 7 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00020]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-50ea9efb43a05d6c3b961d7534dab763]: Commencement: Sch. 3 para. 8 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-50ea9efb43a05d6c3b961d7534dab763]: Commencement: Sch. 3 para. 8 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00021]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415), [2015/325](https://www.legislation.gov.uk/uksi/2015/325) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-a305f7c707a3c0ce91b5363f1e2dfffa]: Commencement: Sch. 3 para. 9 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-a305f7c707a3c0ce91b5363f1e2dfffa]: Commencement: Sch. 3 para. 9 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00022]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-7214c9211177adb5c55ace60646e0425]: Commencement: Sch. 3 para. 10 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-7214c9211177adb5c55ace60646e0425]: Commencement: Sch. 3 para. 10 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00023]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-a693fec86d75380c805eb59313b02513]: Commencement: Sch. 3 para. 11 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-a693fec86d75380c805eb59313b02513]: Commencement: Sch. 3 para. 11 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00024]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415), [2015/325](https://www.legislation.gov.uk/uksi/2015/325) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369) (Part 3 of which is revoked by regulation 2(a) of these Regulations).
 
-[^key-aa6329c5ba7530ef42c7254898205b48]: Commencement: Sch. 3 para. 12 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-aa6329c5ba7530ef42c7254898205b48]: Commencement: Sch. 3 para. 12 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00025]: Footnote: Amended by [S.I. 2013/2803](https://www.legislation.gov.uk/uksi/2013/2803), [2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).
 
-[^key-dd95f5bda19e1f2939d629fa1ccef66c]: Commencement: Sch. 3 para. 13 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
+[^c-dd95f5bda19e1f2939d629fa1ccef66c]: Commencement: Sch. 3 para. 13 in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1)
 
 [^f00026]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369).

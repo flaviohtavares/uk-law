@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Succession to a business[^key-d08dd42a9039eed9c9c560859b4fa97d]
+## 65. Succession to a business[^c-d08dd42a9039eed9c9c560859b4fa97d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d08dd42a9039eed9c9c560859b4fa97d]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2009/470/regulation/65) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-d08dd42a9039eed9c9c560859b4fa97d]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2009/470/regulation/65) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

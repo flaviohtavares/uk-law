@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Provision against danger to navigation[^key-2b2c57a2685ac2ceefd10629055aa31e]
+## 21. Provision against danger to navigation[^c-2b2c57a2685ac2ceefd10629055aa31e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In case of damage to, or destruction or decay of, a tidal work or any part of it
 
 ## Annotations
 
-[^key-2b2c57a2685ac2ceefd10629055aa31e]: Commencement: Art. 21 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-2b2c57a2685ac2ceefd10629055aa31e]: Commencement: Art. 21 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

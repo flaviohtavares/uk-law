@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 350. Companies beginning to be connected[^key-81aafd866fd76561c229969e9834f3dd]
+## 350. Companies beginning to be connected[^c-81aafd866fd76561c229969e9834f3dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81aafd866fd76561c229969e9834f3dd]: Textual amendment: Ss. 350, 351 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/29)
+[^c-81aafd866fd76561c229969e9834f3dd]: Textual amendment: Ss. 350, 351 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/29)

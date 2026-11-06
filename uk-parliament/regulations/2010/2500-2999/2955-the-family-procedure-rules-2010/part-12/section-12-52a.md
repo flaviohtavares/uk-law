@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.52A. Application to set aside a return order under the 1980 Hague Convention[^key-efe39ee86b5f8fef4cf58b45e692b22a]
+## 12.52A. Application to set aside a return order under the 1980 Hague Convention[^c-efe39ee86b5f8fef4cf58b45e692b22a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efe39ee86b5f8fef4cf58b45e692b22a]: Textual amendment: [Rule 12.52A](https://www.legislation.gov.uk/uksi/2010/2955/rule/12.52A) inserted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [18](https://www.legislation.gov.uk/uksi/2020/135/rule/18)
+[^c-efe39ee86b5f8fef4cf58b45e692b22a]: Textual amendment: [Rule 12.52A](https://www.legislation.gov.uk/uksi/2010/2955/rule/12.52A) inserted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [18](https://www.legislation.gov.uk/uksi/2020/135/rule/18)

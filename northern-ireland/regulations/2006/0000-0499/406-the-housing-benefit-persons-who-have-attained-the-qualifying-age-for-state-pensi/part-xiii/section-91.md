@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Criminal offence[^key-14dbe3fcd7e0119a2a90c3852338a09f]
+## 91. Criminal offence[^c-14dbe3fcd7e0119a2a90c3852338a09f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any supplier who fails to supply relevant information to the requirer as, when a
 
 ## Annotations
 
-[^key-14dbe3fcd7e0119a2a90c3852338a09f]: Textual amendment: [Reg. 91](https://www.legislation.gov.uk/nisr/2006/406/regulation/91) substituted (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs.](https://www.legislation.gov.uk/nisr/2008/371/regulation), [3(4)](https://www.legislation.gov.uk/nisr/2008/371/regulation/3/4)
+[^c-14dbe3fcd7e0119a2a90c3852338a09f]: Textual amendment: [Reg. 91](https://www.legislation.gov.uk/nisr/2006/406/regulation/91) substituted (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs.](https://www.legislation.gov.uk/nisr/2008/371/regulation), [3(4)](https://www.legislation.gov.uk/nisr/2008/371/regulation/3/4)

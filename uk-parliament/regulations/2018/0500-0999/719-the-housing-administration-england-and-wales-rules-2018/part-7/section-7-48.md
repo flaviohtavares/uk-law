@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.48. Delivery to the creditors and opting out[^key-bb2a869cdf630cfab1059fca30efae6f]
+## 7.48. Delivery to the creditors and opting out[^c-bb2a869cdf630cfab1059fca30efae6f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb2a869cdf630cfab1059fca30efae6f]: Commencement: Rule 7.48 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-bb2a869cdf630cfab1059fca30efae6f]: Commencement: Rule 7.48 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

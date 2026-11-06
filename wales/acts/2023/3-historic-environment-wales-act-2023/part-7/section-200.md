@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Offences by bodies corporate[^key-33eab055f060e7c89000c5dde8c27f71][^key-7e7d2537504bf803a029188c58043596]
+## 200. Offences by bodies corporate[^c-33eab055f060e7c89000c5dde8c27f71][^c-7e7d2537504bf803a029188c58043596]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33eab055f060e7c89000c5dde8c27f71]: Commencement: S. 200 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-33eab055f060e7c89000c5dde8c27f71]: Commencement: S. 200 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-7e7d2537504bf803a029188c58043596]: Commencement: [S. 200](https://www.legislation.gov.uk/asc/2023/3/section/200) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-7e7d2537504bf803a029188c58043596]: Commencement: [S. 200](https://www.legislation.gov.uk/asc/2023/3/section/200) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

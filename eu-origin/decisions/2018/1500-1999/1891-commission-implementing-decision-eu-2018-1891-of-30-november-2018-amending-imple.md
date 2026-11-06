@@ -39,114 +39,114 @@ amending Implementing Decision 2014/403/EU on granting derogations to Member Sta
 
 (Text with EEA relevance) (revoked)
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a966c1bbdcde6aa897dda9317e85c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2a966c1bbdcde6aa897dda9317e85c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2a966c1bbdcde6aa897dda9317e85c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2a966c1bbdcde6aa897dda9317e85c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2a966c1bbdcde6aa897dda9317e85c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2a966c1bbdcde6aa897dda9317e85c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2a966c1bbdcde6aa897dda9317e85c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a966c1bbdcde6aa897dda9317e85c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — LIST OF SPECIFIC DEROGATIONS FROM REGULATION (EU) No 549/2013[^key-2a966c1bbdcde6aa897dda9317e85c13]
+## ANNEX — LIST OF SPECIFIC DEROGATIONS FROM REGULATION (EU) No 549/2013[^c-2a966c1bbdcde6aa897dda9317e85c13]
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Belgium**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Bulgaria**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Belgium**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Denmark**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Bulgaria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Germany**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Denmark**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Estonia**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Germany**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Ireland**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Estonia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Spain**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Ireland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: France**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Spain**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Croatia**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: France**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Cyprus**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Croatia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Latvia**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Cyprus**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Luxembourg**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Latvia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Hungary**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Luxembourg**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Malta**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Hungary**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Austria**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Malta**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Poland**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Austria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Portugal**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Poland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Romania**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Portugal**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Slovenia**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Romania**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Slovakia**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Slovenia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Finland**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Slovakia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: Sweden**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Finland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]**Country: United Kingdom**
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: Sweden**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2a966c1bbdcde6aa897dda9317e85c13]**Country: United Kingdom**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a966c1bbdcde6aa897dda9317e85c13]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/100)
+[^c-2a966c1bbdcde6aa897dda9317e85c13]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/100)

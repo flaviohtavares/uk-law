@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Continuing Care (Scotland) Amendment Order 2017 (revoked)[^key-492786f866642edbb1d391ea24237603]
+The Continuing Care (Scotland) Amendment Order 2017 (revoked)[^c-492786f866642edbb1d391ea24237603]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st April 2017
 
-[^key-492786f866642edbb1d391ea24237603]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-492786f866642edbb1d391ea24237603]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-492786f866642edbb1d391ea24237603]
+## 1. Citation and commencement[^c-492786f866642edbb1d391ea24237603]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Continuing Care (Scotland) Order 2015[^key-492786f866642edbb1d391ea24237603]
+## 2. Amendment of the Continuing Care (Scotland) Order 2015[^c-492786f866642edbb1d391ea24237603]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Continuing Care (Scotland) Amendment Order 2016[^key-492786f866642edbb1d391ea24237603]
+## 3. Revocation of the Continuing Care (Scotland) Amendment Order 2016[^c-492786f866642edbb1d391ea24237603]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-492786f866642edbb1d391ea24237603]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-492786f866642edbb1d391ea24237603]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-492786f866642edbb1d391ea24237603]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-492786f866642edbb1d391ea24237603]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-492786f866642edbb1d391ea24237603]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/62) revoked (1.4.2018) by [The Continuing Care (Scotland) Amendment Order 2018 (S.S.I. 2018/96)](https://www.legislation.gov.uk/ssi/2018/96), [arts. 1](https://www.legislation.gov.uk/ssi/2018/96/article/1), [3](https://www.legislation.gov.uk/ssi/2018/96/article/3)
+[^c-492786f866642edbb1d391ea24237603]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/62) revoked (1.4.2018) by [The Continuing Care (Scotland) Amendment Order 2018 (S.S.I. 2018/96)](https://www.legislation.gov.uk/ssi/2018/96), [arts. 1](https://www.legislation.gov.uk/ssi/2018/96/article/1), [3](https://www.legislation.gov.uk/ssi/2018/96/article/3)

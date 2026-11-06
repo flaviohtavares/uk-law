@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Power of High Court to remit strategies, plans and documents[^key-211099e473893444cc6002dac6b07a1e][^key-90dfb3087e9d1c50d6128325808e44af]
+## 185. Power of High Court to remit strategies, plans and documents[^c-211099e473893444cc6002dac6b07a1e][^c-90dfb3087e9d1c50d6128325808e44af]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ In section 113 of PCPA 2004 (validity of strategies, plans and documents) for su
 
 ## Annotations
 
-[^key-211099e473893444cc6002dac6b07a1e]: Commencement: S. 185 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(a)](https://www.legislation.gov.uk/uksi/2009/400/article/5/a)
+[^c-211099e473893444cc6002dac6b07a1e]: Commencement: S. 185 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(a)](https://www.legislation.gov.uk/uksi/2009/400/article/5/a)
 
-[^key-90dfb3087e9d1c50d6128325808e44af]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2008/29/section/185) in force at 8.8.2014 for W. by [S.I. 2014/1769](https://www.legislation.gov.uk/wsi/2014/1769), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1769/article/2/a)
+[^c-90dfb3087e9d1c50d6128325808e44af]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2008/29/section/185) in force at 8.8.2014 for W. by [S.I. 2014/1769](https://www.legislation.gov.uk/wsi/2014/1769), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1769/article/2/a)

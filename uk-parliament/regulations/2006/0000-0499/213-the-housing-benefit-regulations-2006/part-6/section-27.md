@@ -33,13 +33,13 @@ summary: ''
 
 (3) The maximum deduction to which paragraph (1)(c) above refers shall be—
 
-- (a)[^key-3c2cd233131dbb43f7228d0467f3f1ee] where the claimant's family includes only one child in respect of whom relevant child care charges are paid, £175.00 per week;
-- (b)[^key-cadef32732619842b8fb5cf6d8d81df4] where the claimant's family includes more than one child in respect of whom relevant child care charges are paid, £300 per week.
+- (a)[^c-3c2cd233131dbb43f7228d0467f3f1ee] where the claimant's family includes only one child in respect of whom relevant child care charges are paid, £175.00 per week;
+- (b)[^c-cadef32732619842b8fb5cf6d8d81df4] where the claimant's family includes more than one child in respect of whom relevant child care charges are paid, £300 per week.
 
 (4) For the purposes of paragraph (1) “**income**” includes capital treated as income under regulation 41 (capital treated as income) and income which a claimant is treated as possessing under regulation 42 (notional income).
 
 ## Annotations
 
-[^key-3c2cd233131dbb43f7228d0467f3f1ee]: Modification: [Reg. 27(3)(a)](https://www.legislation.gov.uk/uksi/2006/213/regulation/27/3/a): sum confirmed (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(h)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/h), [23(2)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/23/2/a)
+[^c-3c2cd233131dbb43f7228d0467f3f1ee]: Modification: [Reg. 27(3)(a)](https://www.legislation.gov.uk/uksi/2006/213/regulation/27/3/a): sum confirmed (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(h)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/h), [23(2)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/23/2/a)
 
-[^key-cadef32732619842b8fb5cf6d8d81df4]: Modification: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2006/213/regulation/27/3/b): sum confirmed (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(h)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/h), [23(2)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/23/2/b)
+[^c-cadef32732619842b8fb5cf6d8d81df4]: Modification: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2006/213/regulation/27/3/b): sum confirmed (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(h)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/h), [23(2)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/23/2/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A court[^key-3c725ab6ad6d16964ee2262e601fff64] shall not make an order under section 33 or 34 if it considers that compliance with the order, if made, would be likely to be injurious to the public interest.
+(1) A court[^c-3c725ab6ad6d16964ee2262e601fff64] shall not make an order under section 33 or 34 if it considers that compliance with the order, if made, would be likely to be injurious to the public interest.
 
 (2) Rules of court may make provision as to the circumstances in which an order under section 33 or 34 can be made; and any rules making such provision may include such incidental, supplementary and consequential provisions as the rule-making authority may consider necessary or expedient.
 
@@ -39,6 +39,6 @@ In this subsection references to the Crown do not include references to Her Maje
 
 [^c12332551]: Textual amendment: S. 35 repealed so far as it relates to county courts by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(3)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1984/28/schedule/4)
 
-[^key-3c725ab6ad6d16964ee2262e601fff64]: Textual amendment: Words in s. 35(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 57](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/57); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3c725ab6ad6d16964ee2262e601fff64]: Textual amendment: Words in s. 35(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 57](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/57); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c12332561]: Textual amendment: “32A,” inserted by [Administration of Justice Act 1982 (c. 53, SIF 37)](https://www.legislation.gov.uk/ukpga/1982/53), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/1982/53/section/6/2), [73(2)](https://www.legislation.gov.uk/ukpga/1982/53/section/73/2)

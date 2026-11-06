@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Smoke control areas: authorised fuels and exempt fireplaces[^key-47a747f27e0a58878216df7ae4719b3f]
+## 50. Smoke control areas: authorised fuels and exempt fireplaces[^c-47a747f27e0a58878216df7ae4719b3f]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47a747f27e0a58878216df7ae4719b3f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/3/section/50) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-47a747f27e0a58878216df7ae4719b3f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/3/section/50) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

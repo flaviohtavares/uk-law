@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Offences relating to HMOs[^key-d4729bdbc92c956b3a840f32b370f9fb]
+## 154. Offences relating to HMOs[^c-d4729bdbc92c956b3a840f32b370f9fb]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4729bdbc92c956b3a840f32b370f9fb]: Commencement: [S. 154](https://www.legislation.gov.uk/asp/2006/1/section/154) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-d4729bdbc92c956b3a840f32b370f9fb]: Commencement: [S. 154](https://www.legislation.gov.uk/asp/2006/1/section/154) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

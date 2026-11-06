@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28A. Interpretation of Directives for the purposes of Part 1[^key-3be111528a747fcb9a03f08a0ebe3e7a]
+## 28A. Interpretation of Directives for the purposes of Part 1[^c-3be111528a747fcb9a03f08a0ebe3e7a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ For the purposes of this Part—
 
 ## Annotations
 
-[^key-3be111528a747fcb9a03f08a0ebe3e7a]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/asp/2003/3/section/28A) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/26/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3be111528a747fcb9a03f08a0ebe3e7a]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/asp/2003/3/section/28A) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/26/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

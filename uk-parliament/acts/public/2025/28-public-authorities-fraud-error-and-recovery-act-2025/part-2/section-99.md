@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 99. Recovery of costs[^key-f72a1a527a7d41ef2a25ea71c306d689][^key-37957f1502637d4344f274cd23e0f762]
+## 99. Recovery of costs[^c-f72a1a527a7d41ef2a25ea71c306d689][^c-37957f1502637d4344f274cd23e0f762]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f72a1a527a7d41ef2a25ea71c306d689]: Commencement: S. 99 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-f72a1a527a7d41ef2a25ea71c306d689]: Commencement: S. 99 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-37957f1502637d4344f274cd23e0f762]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/28/section/99) in force at 26.10.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/2)
+[^c-37957f1502637d4344f274cd23e0f762]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/28/section/99) in force at 26.10.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/2)

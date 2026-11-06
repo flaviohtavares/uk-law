@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134AB. Publication of information required for purpose of preparing reports[^key-889a9682983286c5889228ccc011b93d][^key-664126478f24a6febb38714cad6b23c6]
+## 134AB. Publication of information required for purpose of preparing reports[^c-889a9682983286c5889228ccc011b93d][^c-664126478f24a6febb38714cad6b23c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-889a9682983286c5889228ccc011b93d]: Textual amendment: Ss. 134AA, 134AB inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 82(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/82/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-889a9682983286c5889228ccc011b93d]: Textual amendment: Ss. 134AA, 134AB inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 82(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/82/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
 
-[^key-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

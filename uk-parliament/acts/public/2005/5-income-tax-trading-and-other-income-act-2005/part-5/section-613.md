@@ -22,9 +22,9 @@ summary: ''
 
 The provisions of Chapter 9 of Part 2 apply in relation to non-trade businesses as they apply in relation to trades but as if—
 
-- (a)[^key-409b49cdee74afbe637eb0d2cdcb6397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-409b49cdee74afbe637eb0d2cdcb6397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) references to anything not constituting trading stock of a trade were omitted.
 
 ## Annotations
 
-[^key-409b49cdee74afbe637eb0d2cdcb6397]: Textual amendment: [S. 613(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/613/a) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 20](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/20), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-409b49cdee74afbe637eb0d2cdcb6397]: Textual amendment: [S. 613(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/613/a) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 20](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/20), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

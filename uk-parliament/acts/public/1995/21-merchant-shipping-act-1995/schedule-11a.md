@@ -44,7 +44,7 @@ summary: ''
 
 **3.** (1) If—
 
-- (a) any EU[^key-18b432ebf2fbc6f203fb0099bf748148] obligation, or
+- (a) any EU[^c-18b432ebf2fbc6f203fb0099bf748148] obligation, or
 - (b) any international agreement made between any three or more countries including the Republic of Ireland and ratified by the United Kingdom,
 
 requires the United Kingdom to provide for any of the costs incurred by general lighthouse authorities in respect of lighthouses, buoys and beacons to be recovered otherwise than by means of the levying of general light dues in accordance with section 205 (as it has effect on the commencement of this Schedule), regulations under this Schedule may make provision imposing charges for the purposes of recovering all or any part of the costs required to be so recovered.
@@ -184,7 +184,7 @@ information for the purpose of enabling or assisting the Secretary of State to p
 
 [^c14530221]: Textual amendment: Sch. 11A inserted (19.3. 1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [ss. 13](https://www.legislation.gov.uk/ukpga/1997/28/section/13), [31(4)](https://www.legislation.gov.uk/ukpga/1997/28/section/31/4), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1997/28/schedule/2/paragraph/2)
 
-[^key-18b432ebf2fbc6f203fb0099bf748148]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [art. 6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3))
+[^c-18b432ebf2fbc6f203fb0099bf748148]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [art. 6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3))
 
 [^c14530231]: Marginal citation: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61).
 

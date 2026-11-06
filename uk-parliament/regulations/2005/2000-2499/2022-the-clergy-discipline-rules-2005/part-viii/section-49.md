@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 49. Tribunal may order identity not to be published[^key-f850ad04c1be9dda2066160b8eb885c1]
+## 49. Tribunal may order identity not to be published[^c-f850ad04c1be9dda2066160b8eb885c1]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ The tribunal may order that the name and any other identifying details of any pe
 
 ## Annotations
 
-[^key-f850ad04c1be9dda2066160b8eb885c1]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2005/2022/rule/49) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-f850ad04c1be9dda2066160b8eb885c1]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2005/2022/rule/49) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

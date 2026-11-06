@@ -44,7 +44,7 @@ Coming into force
 
 6th April 2010
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 92 and 219(2)(d) to (f) of the Water Resources Act 1991[^f00001].[^key-c76313c3ea06d11be20140d861339229]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 92 and 219(2)(d) to (f) of the Water Resources Act 1991[^f00001].[^c-c76313c3ea06d11be20140d861339229]
 
 ## 1. Citation, commencement and application
 
@@ -65,7 +65,7 @@ These Regulations—
   - (b) birds kept for the production of food;
 - “reception pit” means a pit used for the collection of slurry before it is transferred into a slurry storage tank or for the collection of slurry discharged from such a tank;
 - “silage” includes a crop being made into silage;
-- “silage effluent” means effluent from silage [^key-fb0095497644c25afd5599edf3e0f1bb]...;
+- “silage effluent” means effluent from silage [^c-fb0095497644c25afd5599edf3e0f1bb]...;
 - “silo” means a structure used for making or storing silage;
 - “slurry” means liquid or semi-liquid matter composed of—
   - (a) excreta produced by livestock while in a yard or building (including that held in wood chip corrals); or
@@ -79,14 +79,14 @@ These Regulations—
 - (a) any reception pit and any effluent tank used in connection with the tank; and
 - (b) any channels and pipes used in connection with the tank, any reception pit or any effluent tank.
 
-(3) A requirement in these Regulations for a silo or slurry storage tank to conform to a British Standard (in whole or in part) is satisfied if the silo or tank conforms to a standard or specification that provides an equivalent level of protection and performance [^key-bdb59114bbbe67b5734ab82a48b766f5]....
+(3) A requirement in these Regulations for a silo or slurry storage tank to conform to a British Standard (in whole or in part) is satisfied if the silo or tank conforms to a standard or specification that provides an equivalent level of protection and performance [^c-bdb59114bbbe67b5734ab82a48b766f5]....
 
 ## 3. Making or storage of silage
 
 (1) Subject to paragraph (3), a person who has custody or control of silage that is being made or stored must ensure that—
 
 - (a) the silage is kept in a silo that satisfies the requirements of Schedule 1; or
-- (b) [^key-77e0501ba1d10286a78ccf2d285cebfa]... the silage is compressed into bales that—
+- (b) [^c-77e0501ba1d10286a78ccf2d285cebfa]... the silage is compressed into bales that—
   - (i) are wrapped and sealed into impermeable membranes, or enclosed in impermeable bags; and
   - (ii) are stored at least 10 metres from any inland freshwaters or coastal waters that effluent escaping from the bales could enter; or
 - (c) if the silage is a crop being made into field silage (that is, silage made on open land by a method different from the baling method referred to in paragraph (b)) or silage that is being stored on open land—
@@ -102,7 +102,7 @@ These Regulations—
 
 (3) Paragraph (1) does not apply to silage while it is stored temporarily in a container, trailer or vehicle in connection with its transport about the farm or elsewhere.
 
-(4)[^key-970eb38082ca039d24daed118b6d4470] A person who has custody or control of a silage bale must not open or remove the wrapping of the bale within 10 metres of any inland freshwaters or coastal waters which silage effluent could enter as a result.
+(4)[^c-970eb38082ca039d24daed118b6d4470] A person who has custody or control of a silage bale must not open or remove the wrapping of the bale within 10 metres of any inland freshwaters or coastal waters which silage effluent could enter as a result.
 
 (5) In this regulation—
 
@@ -164,7 +164,7 @@ These Regulations—
 - (a) 28 days; or
 - (b) such longer period as is reasonable in the circumstances.
 
-(4A)[^key-d2bde0a9f5426b5e3df8913685234645] A person on whom a regulation 7 notice has been served must comply with the requirements of that notice.
+(4A)[^c-d2bde0a9f5426b5e3df8913685234645] A person on whom a regulation 7 notice has been served must comply with the requirements of that notice.
 
 (5) The Agency may at any time (including a time after the period for compliance has ended)—
 
@@ -193,7 +193,7 @@ These Regulations—
 
 (6) The period for compliance with a regulation 7 notice against which an appeal has been made is, subject to any direction under paragraph (5), extended so that it expires on the date on which the Secretary of State finally determines the appeal or, if the appeal is withdrawn, the date on which it is withdrawn.
 
-## 9. Notice of construction etc[^key-5333d3f2438068e5be5311afe4059993]
+## 9. Notice of construction etc[^c-5333d3f2438068e5be5311afe4059993]
 
 (1) This regulation applies to any silo, slurry or fuel oil storage system whose construction is to be begun on or after 15th June 2013 (“a new or improved store”).
 
@@ -203,7 +203,7 @@ These Regulations—
 
 ## 10. Offences and penalties
 
-(1) A person who contravenes regulation 3(1) or (4), 4(1), 5(1) or 7(4A)[^key-489b6abe54e975fd00e84889c1318a0e] of these Regulations is guilty of an offence and liable—
+(1) A person who contravenes regulation 3(1) or (4), 4(1), 5(1) or 7(4A)[^c-489b6abe54e975fd00e84889c1318a0e] of these Regulations is guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
@@ -379,23 +379,23 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-c76313c3ea06d11be20140d861339229]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(r)](https://www.legislation.gov.uk/uksi/2020/214/article/5/r)
+[^c-c76313c3ea06d11be20140d861339229]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(r)](https://www.legislation.gov.uk/uksi/2020/214/article/5/r)
 
-[^key-fb0095497644c25afd5599edf3e0f1bb]: Textual amendment: Words in reg. 2 omitted (6.4.2010) by virtue of [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2010/1091/regulation/3)
+[^c-fb0095497644c25afd5599edf3e0f1bb]: Textual amendment: Words in reg. 2 omitted (6.4.2010) by virtue of [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2010/1091/regulation/3)
 
-[^key-bdb59114bbbe67b5734ab82a48b766f5]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2010/639/regulation/2/3) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2019/558/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bdb59114bbbe67b5734ab82a48b766f5]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2010/639/regulation/2/3) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2019/558/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77e0501ba1d10286a78ccf2d285cebfa]: Textual amendment: Words in reg. 3(1) omitted (6.4.2010) by virtue of [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [4(a)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/4/a)
+[^c-77e0501ba1d10286a78ccf2d285cebfa]: Textual amendment: Words in reg. 3(1) omitted (6.4.2010) by virtue of [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [4(a)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/4/a)
 
-[^key-970eb38082ca039d24daed118b6d4470]: Textual amendment: Reg. 3(4) substituted (6.4.2010) by [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [4(b)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/4/b)
+[^c-970eb38082ca039d24daed118b6d4470]: Textual amendment: Reg. 3(4) substituted (6.4.2010) by [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [4(b)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/4/b)
 
 [^f00002]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-d2bde0a9f5426b5e3df8913685234645]: Textual amendment: Reg. 7(4A) inserted (6.4.2010) by [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2010/1091/regulation/5)
+[^c-d2bde0a9f5426b5e3df8913685234645]: Textual amendment: Reg. 7(4A) inserted (6.4.2010) by [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2010/1091/regulation/5)
 
-[^key-5333d3f2438068e5be5311afe4059993]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/639/regulation/9) substituted (17.5.2013) by [The Nitrate Pollution Prevention (Amendment) and Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2013 (S.I. 2013/1001)](https://www.legislation.gov.uk/uksi/2013/1001), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1001/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2013/1001/regulation/26)
+[^c-5333d3f2438068e5be5311afe4059993]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/639/regulation/9) substituted (17.5.2013) by [The Nitrate Pollution Prevention (Amendment) and Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2013 (S.I. 2013/1001)](https://www.legislation.gov.uk/uksi/2013/1001), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1001/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2013/1001/regulation/26)
 
-[^key-489b6abe54e975fd00e84889c1318a0e]: Textual amendment: Word in reg. 10(1) substituted (6.4.2010) by [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [6](https://www.legislation.gov.uk/uksi/2010/1091/regulation/6)
+[^c-489b6abe54e975fd00e84889c1318a0e]: Textual amendment: Word in reg. 10(1) substituted (6.4.2010) by [Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) (Amendment) Regulations 2010 (S.I. 2010/1091)](https://www.legislation.gov.uk/uksi/2010/1091), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/1091/regulation/1/c), [6](https://www.legislation.gov.uk/uksi/2010/1091/regulation/6)
 
 [^f00003]: Footnote: [S.I. 1991/324](https://www.legislation.gov.uk/uksi/1991/324).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.2. Witness summonses[^key-fdfeba6fec5119e3796aea988f706578]
+## 34.2. Witness summonses[^c-fdfeba6fec5119e3796aea988f706578]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdfeba6fec5119e3796aea988f706578]: Commencement: [Rule 34.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-fdfeba6fec5119e3796aea988f706578]: Commencement: [Rule 34.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

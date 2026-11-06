@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Section 24: transitional provision[^key-de40651dd0ef3500b452d9f31fa71d0d][^key-695a945432e3f64a93ddaf288c2f5d03]
+## 25. Section 24: transitional provision[^c-de40651dd0ef3500b452d9f31fa71d0d][^c-695a945432e3f64a93ddaf288c2f5d03]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de40651dd0ef3500b452d9f31fa71d0d]: Commencement: S. 25 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-de40651dd0ef3500b452d9f31fa71d0d]: Commencement: S. 25 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-695a945432e3f64a93ddaf288c2f5d03]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/37/section/25) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-695a945432e3f64a93ddaf288c2f5d03]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/37/section/25) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

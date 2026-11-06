@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Convening meetings of the governing body[^key-e4249e845d46afa20ad4b730d6d73ef9][^key-8cfac9661aad4a73365ca5b43620390d]
+## 45. Convening meetings of the governing body[^c-e4249e845d46afa20ad4b730d6d73ef9][^c-8cfac9661aad4a73365ca5b43620390d]
 
 *Extent: E+W*
 
-[^key-8cfac9661aad4a73365ca5b43620390d]
+[^c-8cfac9661aad4a73365ca5b43620390d]
 
 (1) The governing body must hold at least one meeting during every school term.
 
-(1A)[^key-b549435a46f9736fe91532228e4ab2c3] The governing body may decide to hold a meeting by remote access provided that the following conditions are met—
+(1A)[^c-b549435a46f9736fe91532228e4ab2c3] The governing body may decide to hold a meeting by remote access provided that the following conditions are met—
 
 - (a) the participants will be able to fully make representations or discharge their functions (as the case may be);
 - (b) the participants agree to the meeting being held using remote access;
@@ -42,7 +42,7 @@ summary: ''
 
 - (a) each governor;
 - (b) the head teacher (whether or not he or she is a governor); and
-- (c) the local authority[^key-e901000e278a76710a3b6acdb21e8d96].
+- (c) the local authority[^c-e901000e278a76710a3b6acdb21e8d96].
 
 (5) Where the chair so determines, on the ground that there are matters demanding urgent consideration, it is sufficient if the written notice of the meeting states that fact and the notice, copy of the agenda, reports and other papers to be considered are given within such shorter period as he or she directs.
 
@@ -66,10 +66,10 @@ is to be considered.
 
 ## Annotations
 
-[^key-e4249e845d46afa20ad4b730d6d73ef9]: Commencement: Reg. 45 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-e4249e845d46afa20ad4b730d6d73ef9]: Commencement: Reg. 45 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))
+[^c-8cfac9661aad4a73365ca5b43620390d]: Modification: [Pt. 8](https://www.legislation.gov.uk/wsi/2005/2914/part/8) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [40(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [40(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/40/2))
 
-[^key-b549435a46f9736fe91532228e4ab2c3]: Textual amendment: [Reg. 45(1A)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/45/1A) inserted (18.12.2020) by [The Government of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1327)](https://www.legislation.gov.uk/wsi/2020/1327), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1327/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2020/1327/regulation/3/2)
+[^c-b549435a46f9736fe91532228e4ab2c3]: Textual amendment: [Reg. 45(1A)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/45/1A) inserted (18.12.2020) by [The Government of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1327)](https://www.legislation.gov.uk/wsi/2020/1327), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1327/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2020/1327/regulation/3/2)
 
-[^key-e901000e278a76710a3b6acdb21e8d96]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/wsi/2005/2914/regulation/45) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)
+[^c-e901000e278a76710a3b6acdb21e8d96]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/wsi/2005/2914/regulation/45) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)

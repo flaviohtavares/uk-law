@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Methodologies for comparing the normal value and the export price[^key-8c462ad75e4d4a8e580dc18eb752656d]
+## 17. Methodologies for comparing the normal value and the export price[^c-8c462ad75e4d4a8e580dc18eb752656d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c462ad75e4d4a8e580dc18eb752656d]: Commencement: Reg. 17 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-8c462ad75e4d4a8e580dc18eb752656d]: Commencement: Reg. 17 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

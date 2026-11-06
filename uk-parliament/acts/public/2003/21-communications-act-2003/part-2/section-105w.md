@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105W. Civil liability for breach of security duties[^key-ab7cc24d0b9b67f2634fa0b77895b9a4]
+## 105W. Civil liability for breach of security duties[^c-ab7cc24d0b9b67f2634fa0b77895b9a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ is actionable at the suit or instance of that person.
 
 ## Annotations
 
-[^key-ab7cc24d0b9b67f2634fa0b77895b9a4]: Textual amendment: [S. 105W](https://www.legislation.gov.uk/ukpga/2003/21/section/105W) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 8](https://www.legislation.gov.uk/ukpga/2021/31/section/8), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-ab7cc24d0b9b67f2634fa0b77895b9a4]: Textual amendment: [S. 105W](https://www.legislation.gov.uk/ukpga/2003/21/section/105W) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 8](https://www.legislation.gov.uk/ukpga/2021/31/section/8), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

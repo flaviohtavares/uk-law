@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Benefit of Order[^key-55016561e4cc0f37d36129de40b3f252]
+## 6. Benefit of Order[^c-55016561e4cc0f37d36129de40b3f252]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55016561e4cc0f37d36129de40b3f252]: Commencement: Art. 6 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-55016561e4cc0f37d36129de40b3f252]: Commencement: Art. 6 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
 [^f00014]: Footnote: The registered office of Tidal Lagoon (Swansea Bay) plc is Suite 6 J Shed, Kings Road, Swansea SA1 8PL.

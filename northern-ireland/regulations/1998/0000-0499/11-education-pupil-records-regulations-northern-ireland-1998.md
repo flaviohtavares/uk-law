@@ -40,15 +40,15 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred on it by Articles 17A and 134(1) of the Education and Libraries (Northern Ireland) Order 1986[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation[^key-866739102df6469b84367191b5db01de]
+## 1. Citation[^c-866739102df6469b84367191b5db01de]
 
 These Regulations may be cited as the Education (Pupil Records) Regulations (Northern Ireland) 1998.
 
-## 2. Commencement[^key-e195ae1223177612ac75270dd349c904]
+## 2. Commencement[^c-e195ae1223177612ac75270dd349c904]
 
 These Regulations shall come into operation on 19th February 1998.
 
-## 3. Interpretation[^key-376a87ebdc536018eff9c96e0e60036d]
+## 3. Interpretation[^c-376a87ebdc536018eff9c96e0e60036d]
 
 In these Regulations—
 
@@ -71,17 +71,17 @@ In these Regulations—
 - “teacher” includes the principal; and
 - “the 1989 Order” means the Education Reform (Northern Ireland) Order 1989.
 
-## 4. Revocation[^key-b19cb345f3ba9db9517ebffa9f3f9ad4]
+## 4. Revocation[^c-b19cb345f3ba9db9517ebffa9f3f9ad4]
 
 The Education (Pupil Records) Regulations (Northern Ireland) 1990[^f00004] are hereby revoked.
 
-## 5. Application[^key-e4916ace17a08e8cc356f23795e90456]
+## 5. Application[^c-e4916ace17a08e8cc356f23795e90456]
 
 (1) Subject to paragraph (2), these Regulations apply to all grant-aided schools.
 
 (2) Regulation 6 shall not apply to nursery schools, or in respect of pupils in primary schools or special schools who have not attained the lower limit of compulsory school age.
 
-## 6. Duties of Boards of Governors[^key-f00290928cd93110a7f822c76bfc7293]
+## 6. Duties of Boards of Governors[^c-f00290928cd93110a7f822c76bfc7293]
 
 (1) Subject to regulation 5(2) it shall be the duty of the Board of Governors of every school to make arrangements as follows—
 
@@ -105,7 +105,7 @@ The Education (Pupil Records) Regulations (Northern Ireland) 1990[^f00004] are h
 
 (4) In paragraph (1)(*c*) “inaccurate” means inaccurate or misleading as to any matter of fact.
 
-**7.**[^key-71b015a4866392e263a513948d366db0] (1) It shall be the duty of the Board of Governors of every school to make arrangements as follows—
+**7.**[^c-71b015a4866392e263a513948d366db0] (1) It shall be the duty of the Board of Governors of every school to make arrangements as follows—
 
 - (a) any other educational records relating to a pupil (including a teacher’s record) which are kept at the school in addition to the pupil’s formative record of progress and achievement shall be as liable to disclosure or transfer to, and to a copy thereof being supplied to, the parent of the pupil, the pupil himself where he is aged 16 or more, or the responsible person, and to amendment upon notice being given by the pupil where he is aged 16 or more or his parent, as if they formed part of the pupil’s formative record of progress and achievement; and
 - (b) a statement of the arrangements made in pursuance of regulation 6 (other than regulation 6(1)(*a*)) and this regulation is kept and available for inspection free of charge at all reasonable times by an entitled person or a responsible person.
@@ -119,9 +119,9 @@ notwithstanding that a formative record of progress and achievement is not held 
 
 (3) In paragraph (1) “teacher’s record” means any record kept at the school by a teacher other than a record kept and intended to be kept solely for that teacher’s own use.
 
-**8.**[^key-5a02a0cca7b1e647482afa7a7a59c1aa] The arrangements required to be made by regulations 6 and 7 shall make provision enabling the parent, pupil or responsible person (as the case may be) to appeal to the Board of Governors of the school against any decision refusing disclosure or transfer or the supply of a copy of the whole or any part of the pupil’s formative record of progress and achievement or of a record mentioned in regulation 7(1)(*a*) or (2), or any decision refusing amendment of any such record, in those cases where the arrangements provide for those decisions to be taken by a teacher at the school.
+**8.**[^c-5a02a0cca7b1e647482afa7a7a59c1aa] The arrangements required to be made by regulations 6 and 7 shall make provision enabling the parent, pupil or responsible person (as the case may be) to appeal to the Board of Governors of the school against any decision refusing disclosure or transfer or the supply of a copy of the whole or any part of the pupil’s formative record of progress and achievement or of a record mentioned in regulation 7(1)(*a*) or (2), or any decision refusing amendment of any such record, in those cases where the arrangements provide for those decisions to be taken by a teacher at the school.
 
-## 9. Savings[^key-a91314461ffa03e852c3a83e4aa1d022]
+## 9. Savings[^c-a91314461ffa03e852c3a83e4aa1d022]
 
 Nothing in these Regulations shall authorise or require arrangements to be made for the disclosure of any information—
 
@@ -130,17 +130,17 @@ Nothing in these Regulations shall authorise or require arrangements to be made 
 - (c) to the extent that disclosure would in the opinion of the holder of the information be likely to cause serious harm to the physical or mental health or emotional condition of the pupil to whom the information relates or of any other person; or
 - (d) to the extent that in the opinion of the holder of the information it is relevant to the question whether the pupil to which it relates is or has been the subject of or may be at risk of harm.
 
-**10.**[^key-7e4e3ab8e7b823c9ef371f6188d8097f] Nothing in these Regulations shall require arrangements to be made for the disclosure or supply of a copy of any reference given by a teacher in respect of a pupil in response to a request from potential employers of the pupil, the Universities Central Admissions Service, or any other national body of the United Kingdom or the Republic of Ireland concerned with student admission, from another school (including an independent school), from an institution of further education, from a college of education or from any other educational or training institution.
+**10.**[^c-7e4e3ab8e7b823c9ef371f6188d8097f] Nothing in these Regulations shall require arrangements to be made for the disclosure or supply of a copy of any reference given by a teacher in respect of a pupil in response to a request from potential employers of the pupil, the Universities Central Admissions Service, or any other national body of the United Kingdom or the Republic of Ireland concerned with student admission, from another school (including an independent school), from an institution of further education, from a college of education or from any other educational or training institution.
 
-**11.**[^key-0e89b4dce51971f3fcb998bfaf8d2a5f] Nothing in regulation 6(1)(*b*) to (*e*) shall apply to educational records which are data for the purposes of the Data Protection Act 1984[^f00005].
+**11.**[^c-0e89b4dce51971f3fcb998bfaf8d2a5f] Nothing in regulation 6(1)(*b*) to (*e*) shall apply to educational records which are data for the purposes of the Data Protection Act 1984[^f00005].
 
-**12.**[^key-20e2c7d11243438ea3f7937017835d53] Nothing in these Regulations shall empower or authorise the Board of Governors of any school to make arrangements for the disclosure, supply of copies of or transfer of—
+**12.**[^c-20e2c7d11243438ea3f7937017835d53] Nothing in these Regulations shall empower or authorise the Board of Governors of any school to make arrangements for the disclosure, supply of copies of or transfer of—
 
 - (a) statements of special educational needs maintained under Article 16(1) of the Education (Northern Ireland) Order 1996[^f00006];
 - (b) any report prepared for the purposes of proceedings to which the Magistrates' Courts (Children and Young Persons) Rules (Northern Ireland) 1969[^f00007] apply;
 - (c) information as to the name, address or occupation of a pupil’s parent or as to the religious denomination to which a pupil belongs, otherwise than to an entitled person.
 
-**13.**[^key-7db19124ae6851c3e9873fb68c1b1592] (1) Nothing in these Regulations shall require arrangements to be made whereby information as to the results of an individual pupil’s assessment (whether under Part III of the 1989 Order or otherwise) is made available to any persons or bodies other than—
+**13.**[^c-7db19124ae6851c3e9873fb68c1b1592] (1) Nothing in these Regulations shall require arrangements to be made whereby information as to the results of an individual pupil’s assessment (whether under Part III of the 1989 Order or otherwise) is made available to any persons or bodies other than—
 
 - (a) the pupil concerned and his parents; or
 - (b) the Board of Governors of any school to which that pupil applies for admission,
@@ -155,9 +155,9 @@ and these Regulations shall not require arrangements to be made for such informa
 - (a) any assessment of a pupil at a special school; or
 - (b) any assessment of a pupil in any subject at or near the end of a key stage, if at any time during that key stage any provision has been made under Article 14, 15, 16 or 17 of the 1989 Order in relation to that pupil excluding or modifying the application of Article 5, 6 or 8 of the 1989 Order in relation to that subject.
 
-**14.**[^key-845baedf4ca42e657920b8c23b7c3d0c] Nothing in these Regulations shall require arrangements to be made for the disclosure or supply of a copy of a pupil’s formative record of progress and achievement or a record of the kind mentioned in regulation 7(1)(*a*) or (2) to the extent that those records comprise records made before 1st September 1990.
+**14.**[^c-845baedf4ca42e657920b8c23b7c3d0c] Nothing in these Regulations shall require arrangements to be made for the disclosure or supply of a copy of a pupil’s formative record of progress and achievement or a record of the kind mentioned in regulation 7(1)(*a*) or (2) to the extent that those records comprise records made before 1st September 1990.
 
-## 15. Translation of documents[^key-95014429aaae98aab492f3a96a332890]
+## 15. Translation of documents[^c-95014429aaae98aab492f3a96a332890]
 
 (1) This regulation applies to any document containing a statement of disclosure and transfer arrangements kept in pursuance of regulation 7(1)(*b*).
 
@@ -175,7 +175,7 @@ Assistant Secretary
 
 Regulation 6(1)(*d*)(i)
 
-**1.**[^key-00fa09fdc1dc7b7f18aa607c5eaa8530] (1)
+**1.**[^c-00fa09fdc1dc7b7f18aa607c5eaa8530] (1)
 
 - (a) The pupil’s level of attainment in any relevant subject in which his achievements have been assessed in accordance with the statutory arrangements, and his level of attainment in each attainment target of each such subject.
 - (b) A statement that the level has been so assessed.
@@ -183,7 +183,7 @@ Regulation 6(1)(*d*)(i)
 
 (2) In this paragraph “relevant subject” means English or Mathematics or, in the case of a pupil who is in an Irish speaking school, Irish, English or Mathematics.
 
-## SCHEDULE 2[^key-68efb2be1828f4d13b4100eeebfab351]
+## SCHEDULE 2[^c-68efb2be1828f4d13b4100eeebfab351]
 
 Regulation 6(1)(*d*)(i)
 
@@ -232,48 +232,48 @@ Boards of Governors may translate the statement of transfer and disclosure arran
 
 [^f00001]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594); Article 17A was inserted by Article 5 of [S.I. 1987/167 (N.I. 2)](https://www.legislation.gov.uk/nisi/1987/167) and amended by [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406) Articles 32, 166 and Schedule 9
 
-[^key-866739102df6469b84367191b5db01de]: Commencement: Reg. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-866739102df6469b84367191b5db01de]: Commencement: Reg. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-e195ae1223177612ac75270dd349c904]: Commencement: Reg. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-e195ae1223177612ac75270dd349c904]: Commencement: Reg. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-376a87ebdc536018eff9c96e0e60036d]: Commencement: Reg. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-376a87ebdc536018eff9c96e0e60036d]: Commencement: Reg. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
 [^f00002]: Footnote: [S.I. 1995/775 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/775)
 
 [^f00003]: Footnote: [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406); Article 5(6) was amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274) Article 34
 
-[^key-b19cb345f3ba9db9517ebffa9f3f9ad4]: Commencement: Reg. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-b19cb345f3ba9db9517ebffa9f3f9ad4]: Commencement: Reg. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
 [^f00004]: Footnote: [S.R. 1990 No. 287](https://www.legislation.gov.uk/nisr/1990/287)
 
-[^key-e4916ace17a08e8cc356f23795e90456]: Commencement: Reg. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-e4916ace17a08e8cc356f23795e90456]: Commencement: Reg. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-f00290928cd93110a7f822c76bfc7293]: Commencement: Reg. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-f00290928cd93110a7f822c76bfc7293]: Commencement: Reg. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-71b015a4866392e263a513948d366db0]: Commencement: Reg. 7 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-71b015a4866392e263a513948d366db0]: Commencement: Reg. 7 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-5a02a0cca7b1e647482afa7a7a59c1aa]: Commencement: Reg. 8 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-5a02a0cca7b1e647482afa7a7a59c1aa]: Commencement: Reg. 8 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-a91314461ffa03e852c3a83e4aa1d022]: Commencement: Reg. 9 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-a91314461ffa03e852c3a83e4aa1d022]: Commencement: Reg. 9 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-7e4e3ab8e7b823c9ef371f6188d8097f]: Commencement: Reg. 10 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-7e4e3ab8e7b823c9ef371f6188d8097f]: Commencement: Reg. 10 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-0e89b4dce51971f3fcb998bfaf8d2a5f]: Commencement: Reg. 11 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-0e89b4dce51971f3fcb998bfaf8d2a5f]: Commencement: Reg. 11 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
 [^f00005]: Footnote: [1984 c. 35](https://www.legislation.gov.uk/ukpga/1984/35)
 
-[^key-20e2c7d11243438ea3f7937017835d53]: Commencement: Reg. 12 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-20e2c7d11243438ea3f7937017835d53]: Commencement: Reg. 12 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
 [^f00006]: Footnote: [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274)
 
 [^f00007]: Footnote: [S.R. & O. (N.I.) 1969 No. 221](https://www.legislation.gov.uk/nisro/1969/221) as amended by [S.R. & O. (N.I.) 1971 No. 179](https://www.legislation.gov.uk/nisro/1971/179), [S.R. & O. (N.I.) 1973 No. 346](https://www.legislation.gov.uk/nisro/1973/346), [S.R. 1977 No. 172](https://www.legislation.gov.uk/nisr/1977/172), [S.R. 1996 No. 126](https://www.legislation.gov.uk/nisr/1996/126) and [S.R. 1996 No. 325](https://www.legislation.gov.uk/nisr/1996/325)
 
-[^key-7db19124ae6851c3e9873fb68c1b1592]: Commencement: Reg. 13 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-7db19124ae6851c3e9873fb68c1b1592]: Commencement: Reg. 13 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-845baedf4ca42e657920b8c23b7c3d0c]: Commencement: Reg. 14 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-845baedf4ca42e657920b8c23b7c3d0c]: Commencement: Reg. 14 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-95014429aaae98aab492f3a96a332890]: Commencement: Reg. 15 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-95014429aaae98aab492f3a96a332890]: Commencement: Reg. 15 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-00fa09fdc1dc7b7f18aa607c5eaa8530]: Commencement: Sch. 1 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-00fa09fdc1dc7b7f18aa607c5eaa8530]: Commencement: Sch. 1 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
 
-[^key-68efb2be1828f4d13b4100eeebfab351]: Commencement: Sch. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)
+[^c-68efb2be1828f4d13b4100eeebfab351]: Commencement: Sch. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/11/regulation/2)

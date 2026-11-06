@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Contravention of experimental traffic order.[^c13545741][^c18761871][^key-725ea49afe373d9ff82c67da483b7e4f]
+## 11. Contravention of experimental traffic order.[^c13545741][^c18761871][^c-725ea49afe373d9ff82c67da483b7e4f]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 [^c18761871]: Modification: S. 11 applied (with modifications) by [London Local Authorities and Transport for London Act 2003 (c. iii)](https://www.legislation.gov.uk/ukla/2003/3), [s. 7(3)](https://www.legislation.gov.uk/ukla/2003/3/section/7/3)
 
-[^key-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
+[^c-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
 
 [^c13545751]: Textual amendment: S. 11 renumbered as s. 11(1) (5.7.1993, 4.10.1993, 6.12.1993, 31.1.1994, 5.4.1994 and 4.7.1994 respectively for specified London boroughs and otherwise prosp.) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 65(3)](https://www.legislation.gov.uk/ukpga/1991/40/section/65/3) (with [s. 79(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/79/1)); [S.I. 1993/1461](https://www.legislation.gov.uk/uksi/1993/1461), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/1993/1461/article/3/1/b); [S.I. 1993/2229](https://www.legislation.gov.uk/uksi/1993/2229), [art. 3(b)](https://www.legislation.gov.uk/uksi/1993/2229/article/3/b); [S.I. 1993/2803](https://www.legislation.gov.uk/uksi/1993/2803), [art. 2(b)](https://www.legislation.gov.uk/uksi/1993/2803/article/2/b); [S.I. 1993/3238](https://www.legislation.gov.uk/uksi/1993/3238), [art. 2(b)](https://www.legislation.gov.uk/uksi/1993/3238/article/2/b); [S.I. 1994/81](https://www.legislation.gov.uk/uksi/1994/81), [art. 3(b)](https://www.legislation.gov.uk/uksi/1994/81/article/3/b); [S.I. 1994/1482](https://www.legislation.gov.uk/uksi/1994/1482), [art. 2(a)](https://www.legislation.gov.uk/uksi/1994/1482/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1994/1482/schedule); [S.I. 1994/1484](https://www.legislation.gov.uk/uksi/1994/1484), [art. 2(a)](https://www.legislation.gov.uk/uksi/1994/1484/article/2/a)
 

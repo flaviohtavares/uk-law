@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316D. Section 316C: subsequent judicial rulings[^key-6501fa14ae5e0e71a537e80b53095da7]
+## 316D. Section 316C: subsequent judicial rulings[^c-6501fa14ae5e0e71a537e80b53095da7]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) information about [^key-2d553e504ba103611f18c2988c2382e8]... arrangements, or proposed [^key-2d553e504ba103611f18c2988c2382e8]... arrangements, is published under section 316C,
+- (a) information about [^c-2d553e504ba103611f18c2988c2382e8]... arrangements, or proposed [^c-2d553e504ba103611f18c2988c2382e8]... arrangements, is published under section 316C,
 - (b) at any time after the information is published, a ruling of a court or tribunal is made in relation to tax arrangements, and
 - (c) HMRC is of the opinion that the ruling is relevant to the arrangements mentioned in paragraph (a).
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6501fa14ae5e0e71a537e80b53095da7]: Textual amendment: Ss. 316C, 316D inserted (with application in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/17)
+[^c-6501fa14ae5e0e71a537e80b53095da7]: Textual amendment: Ss. 316C, 316D inserted (with application in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/17)
 
-[^key-2d553e504ba103611f18c2988c2382e8]: Textual amendment: Word in s. 316D(1)(a) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/17), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-2d553e504ba103611f18c2988c2382e8]: Textual amendment: Word in s. 316D(1)(a) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/17), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)

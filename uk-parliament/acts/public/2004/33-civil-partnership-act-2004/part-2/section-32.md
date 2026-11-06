@@ -30,7 +30,7 @@ summary: ''
 - (a) at a place other than the place specified in the licence,
 - (b) in the absence of a civil partnership registrar,
 - (c) after the end of 1 month from the day on which the notice of proposed civil partnership was given, or
-- (d) even though the civil partnership is void under section 49(b) [^key-5b052657f5473a8ec9d2ce28cf60e855]....
+- (d) even though the civil partnership is void under section 49(b) [^c-5b052657f5473a8ec9d2ce28cf60e855]....
 
 (3) A person guilty of an offence under subsection (1) or (2) is liable—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b052657f5473a8ec9d2ce28cf60e855]: Textual amendment: Words in [s. 32(2)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/32/2/d) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(4)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/4) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-5b052657f5473a8ec9d2ce28cf60e855]: Textual amendment: Words in [s. 32(2)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/32/2/d) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(4)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/4) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))

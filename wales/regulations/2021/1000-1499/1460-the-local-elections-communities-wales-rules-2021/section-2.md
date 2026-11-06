@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Transitional provision[^key-b8224b02a448619ecc2844f7d309b12c]
+## 2. Transitional provision[^c-b8224b02a448619ecc2844f7d309b12c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The coming into force of these Rules does not affect the conduct of an election 
 
 ## Annotations
 
-[^key-b8224b02a448619ecc2844f7d309b12c]: Commencement: Rule 2 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
+[^c-b8224b02a448619ecc2844f7d309b12c]: Commencement: Rule 2 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119AA. Meaning of electronic form, electronic means etc.[^key-606f09b00ef95b18662e75eac59d6b52]
+## 119AA. Meaning of electronic form, electronic means etc.[^c-606f09b00ef95b18662e75eac59d6b52]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ References to “electronic means” have a corresponding meaning.
 
 ## Annotations
 
-[^key-606f09b00ef95b18662e75eac59d6b52]: Textual amendment: [Ss. 119AA](https://www.legislation.gov.uk/ukpga/1992/40/section/119AA), [119AB](https://www.legislation.gov.uk/ukpga/1992/40/section/119AB) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/593/article/4/2)
+[^c-606f09b00ef95b18662e75eac59d6b52]: Textual amendment: [Ss. 119AA](https://www.legislation.gov.uk/ukpga/1992/40/section/119AA), [119AB](https://www.legislation.gov.uk/ukpga/1992/40/section/119AB) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/593/article/4/2)

@@ -40,14 +40,14 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 134(1)(*a*) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(*a*) and 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8e9063c00124a1440afeb71e1e093262]
+## 1. Citation, commencement and interpretation[^c-8e9063c00124a1440afeb71e1e093262]
 
 (1) These Regulations may be cited as the Social Security (Social Fund and Claims and Payments) (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and shall come into operation on 7th April 1997.
 
-(2) In these Regulations— *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d]
+(2) In these Regulations— *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d]
 
-- “the *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d] Claims and Payments Regulations *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d]” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d][^f00003];
-- “the *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d] Social Fund Regulations *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d]” means the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-bd35371ecf383f81d17e6f5ed3d9540d][^f00004].
+- “the *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d] Claims and Payments Regulations *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d]” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d][^f00003];
+- “the *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d] Social Fund Regulations *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d]” means the Social Fund (Maternity and Funeral Expenses) (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-bd35371ecf383f81d17e6f5ed3d9540d][^f00004].
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
@@ -55,11 +55,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Claims and Payments Regulations[^key-49d39c0a9f64cd452cd3c65a5c24fef2]
+## 3. Amendment of the Claims and Payments Regulations[^c-49d39c0a9f64cd452cd3c65a5c24fef2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-7c29be61d53f3be135ad78bb61270893]
+## 4. Transitional provision[^c-7c29be61d53f3be135ad78bb61270893]
 
 Where, in respect of a death which occurs before 7th April 1997, a claim is made for funeral expenses from the social fund in respect of a funeral which takes place on or before 7th July 1997, regulation 2(2), (3)(*b*), (5), (6) and (7) shall not have effect with respect to that claim.
 
@@ -101,9 +101,9 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-8e9063c00124a1440afeb71e1e093262]: Commencement: Reg. 1 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/155/regulation/1/1)
+[^c-8e9063c00124a1440afeb71e1e093262]: Commencement: Reg. 1 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/155/regulation/1/1)
 
-[^key-bd35371ecf383f81d17e6f5ed3d9540d]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/155/regulation/1/2) revoked for specified purposes (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2005/506), [regs. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/506/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/506/schedule)
+[^c-bd35371ecf383f81d17e6f5ed3d9540d]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/155/regulation/1/2) revoked for specified purposes (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2005/506), [regs. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/506/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/506/schedule)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432)
 
@@ -113,6 +113,6 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^M_F_01ee805e-5eae-4fd1-df2e-adfaf7a290c8]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/155/regulation/2) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2005/506), [regs. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/506/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/506/schedule)
 
-[^key-49d39c0a9f64cd452cd3c65a5c24fef2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/155/regulation/3) revoked (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2010/378/regulation/4/a)
+[^c-49d39c0a9f64cd452cd3c65a5c24fef2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/155/regulation/3) revoked (13.12.2010) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/378)](https://www.legislation.gov.uk/nisr/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/378/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2010/378/regulation/4/a)
 
-[^key-7c29be61d53f3be135ad78bb61270893]: Commencement: Reg. 4 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/155/regulation/1/1)
+[^c-7c29be61d53f3be135ad78bb61270893]: Commencement: Reg. 4 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/155/regulation/1/1)

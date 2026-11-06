@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-6610992c24131e1d2fc4b5870ea998f9] This section applies to any contract made after 20th November 1987—
+(1)[^c-6610992c24131e1d2fc4b5870ea998f9] This section applies to any contract made after 20th November 1987—
 
 - (a) for purposes connected with a local authority’s education functions, between the authority and a person employed by the authority; or
 - (b) between a governing body of a foundation, voluntary aided or foundation special school and a person employed by the governing body,
@@ -47,7 +47,7 @@ the contract shall be void and of no effect.
 
 [^c12681141]: Modification: S. 221 applied (with modifications) (9.5.1994) by [S.I. 1994/1084](https://www.legislation.gov.uk/uksi/1994/1084), [reg. 8(1)](https://www.legislation.gov.uk/uksi/1994/1084/regulation/8/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1084/schedule/part/I).
 
-[^key-6610992c24131e1d2fc4b5870ea998f9]: Textual amendment: [S. 221(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/221/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/4)
+[^c-6610992c24131e1d2fc4b5870ea998f9]: Textual amendment: [S. 221(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/221/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/4)
 
 [^c12681171]: Textual amendment: Words in s. 221(2)(b) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 37(4)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/37/4) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202)).
 

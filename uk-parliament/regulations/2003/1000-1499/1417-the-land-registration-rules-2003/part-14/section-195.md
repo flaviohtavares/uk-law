@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 195. Payment of interest on an indemnity[^key-a72f99ae200be22f966d7c2ed21d365f]
+## 195. Payment of interest on an indemnity[^c-a72f99ae200be22f966d7c2ed21d365f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a72f99ae200be22f966d7c2ed21d365f]: Textual amendment: Rule 195 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/62) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-a72f99ae200be22f966d7c2ed21d365f]: Textual amendment: Rule 195 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/62) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

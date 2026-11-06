@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Publication of a draft charging schedule[^key-32a275d9864453d7b96948ee10fbfb52]
+## 16. Publication of a draft charging schedule[^c-32a275d9864453d7b96948ee10fbfb52]
 
 *Extent: E+W*
 
@@ -32,20 +32,20 @@ summary: ''
   - (iv) a statement of the fact that the draft charging schedule and relevant evidence are available for inspection and of the places at which they can be inspected;
 - (c) send to each of the consultation bodies—
   - (i) a copy of the draft charging schedule, and
-  - (ii) a statement of the representations procedure ; and *(Extent: E)* *(affected by repeal, see note)*[^key-787063676c8c6b43cb504c110ff38424]. *(Extent: E)*
-- (d (Extent: E) (affected by repeal, see note))[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94] give by local advertisement notice which sets out— *(Extent: E)* *(affected by repeal, see note)*[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94]
-  - (i (Extent: E) (affected by repeal, see note))[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94] a statement of the representations procedure, and *(Extent: E)* *(affected by repeal, see note)*[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94] a statement of the fact that the draft charging schedule and relevant evidence are available for inspection and of the places at which they can be inspected. *(Extent: E)* *(affected by repeal, see note)*[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94]
+  - (ii) a statement of the representations procedure ; and *(Extent: E)* *(affected by repeal, see note)*[^c-787063676c8c6b43cb504c110ff38424]. *(Extent: E)*
+- (d (Extent: E) (affected by repeal, see note))[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94] give by local advertisement notice which sets out— *(Extent: E)* *(affected by repeal, see note)*[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94]
+  - (i (Extent: E) (affected by repeal, see note))[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94] a statement of the representations procedure, and *(Extent: E)* *(affected by repeal, see note)*[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94] a statement of the fact that the draft charging schedule and relevant evidence are available for inspection and of the places at which they can be inspected. *(Extent: E)* *(affected by repeal, see note)*[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94]
 
 *Extent: E*
 
-(1A)[^key-07529044df54008ab31501341470077a] The charging authority must invite representations on the draft charging schedule from such of the following as the authority considers appropriate—
+(1A)[^c-07529044df54008ab31501341470077a] The charging authority must invite representations on the draft charging schedule from such of the following as the authority considers appropriate—
 
 - (a) persons who are resident or carrying on business in its area;
 - (b) voluntary bodies some or all of whose activities benefit the charging authority’s area; and
 - (c) bodies which represent the interests of persons carrying on business in the charging authority’s area.
 
-(2) In this regulation —[^key-00452fa1340afc9e1c9e54c1f6e03f3f]
+(2) In this regulation —[^c-00452fa1340afc9e1c9e54c1f6e03f3f]
 
 - “consultation bodies” means—
   - (a) each of the following whose area is in or adjoins the charging authority’s area—
@@ -68,12 +68,12 @@ summary: ''
 
 ## Annotations
 
-[^key-32a275d9864453d7b96948ee10fbfb52]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-32a275d9864453d7b96948ee10fbfb52]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-787063676c8c6b43cb504c110ff38424]: Textual amendment: [Reg. 16(1)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/1/c): full stop substituted for semicolon and word (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/a/i) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-787063676c8c6b43cb504c110ff38424]: Textual amendment: [Reg. 16(1)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/1/c): full stop substituted for semicolon and word (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/a/i) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-3eb1d8992fbfc9c0d3972a0fe8bd6d94]: Textual amendment: [Reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/1/d) omitted (E.) (1.9.2019) by virtue of [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/a/ii) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-3eb1d8992fbfc9c0d3972a0fe8bd6d94]: Textual amendment: [Reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/1/d) omitted (E.) (1.9.2019) by virtue of [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/a/ii) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-07529044df54008ab31501341470077a]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/1A) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-07529044df54008ab31501341470077a]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/1A) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-00452fa1340afc9e1c9e54c1f6e03f3f]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/2) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-00452fa1340afc9e1c9e54c1f6e03f3f]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/16/2) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/4/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

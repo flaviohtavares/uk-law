@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Title of proceedings[^key-bb7b3eea014d9f5c0fe298ffefc3d988]
+## 109. Title of proceedings[^c-bb7b3eea014d9f5c0fe298ffefc3d988]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Every energy administration proceeding shall, with any necessary additions, be i
 
 ## Annotations
 
-[^key-bb7b3eea014d9f5c0fe298ffefc3d988]: Commencement: Rule 109 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-bb7b3eea014d9f5c0fe298ffefc3d988]: Commencement: Rule 109 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

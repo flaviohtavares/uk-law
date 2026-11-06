@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244ZA. Release on licence of certain violent or sexual offenders[^key-2042a8fcfe200e0d887c17de8eb4144a]
+## 244ZA. Release on licence of certain violent or sexual offenders[^c-2042a8fcfe200e0d887c17de8eb4144a]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) is serving a fixed-term sentence within subsection (4), (5) or (6),
 - (b) is not a prisoner to whom section 244A, 246A or 247A applies, and
-- (c) has not been released on licence (provision for the release of persons recalled under section 254 being made by sections 255B to[^key-d4b8c6b40f73fe080a1891f30b222010] 255C).
+- (c) has not been released on licence (provision for the release of persons recalled under section 254 being made by sections 255B to[^c-d4b8c6b40f73fe080a1891f30b222010] 255C).
 
 (3) Subsection (1) does not apply if—
 
@@ -72,12 +72,12 @@ summary: ''
 
 (8) For the purposes of this section “the requisite custodial period” means—
 
-- (a)[^key-ec5cd2ef1c069fc2a64f858ddfcafb69] in relation to a prisoner serving one sentence, two-thirds of the prisoner’s sentence, *(affected by repeal, see note)*[^key-ec5cd2ef1c069fc2a64f858ddfcafb69]
+- (a)[^c-ec5cd2ef1c069fc2a64f858ddfcafb69] in relation to a prisoner serving one sentence, two-thirds of the prisoner’s sentence, *(affected by repeal, see note)*[^c-ec5cd2ef1c069fc2a64f858ddfcafb69]
 - (a) in relation to a prisoner serving one sentence within subsection (4) or (5), one-half of the prisoner’s sentence,
 - (aa) in relation to a prisoner serving one sentence within subsection (6), two-thirds of the prisoner’s sentence, and
 - (b) in relation to a prisoner serving two or more concurrent or consecutive sentences, the period determined under sections 263(2) and 264(2B) or (2E).
 
-(9)[^key-615bfc18a621f84ba9527337a55703a0] For the purposes of this section, a reference to an offence specified in a paragraph or Part of Schedule 15 includes a reference to a service offence as respects which the corresponding civil offence is so specified.
+(9)[^c-615bfc18a621f84ba9527337a55703a0] For the purposes of this section, a reference to an offence specified in a paragraph or Part of Schedule 15 includes a reference to a service offence as respects which the corresponding civil offence is so specified.
 
 (10) In subsection (9)—
 
@@ -94,10 +94,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2042a8fcfe200e0d887c17de8eb4144a]: Textual amendment: S. 244ZA inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 130(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/130/3), [208(5)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/m)
+[^c-2042a8fcfe200e0d887c17de8eb4144a]: Textual amendment: S. 244ZA inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 130(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/130/3), [208(5)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/m)
 
-[^key-d4b8c6b40f73fe080a1891f30b222010]: Textual amendment: Word in s. 244ZA(2)(c) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-d4b8c6b40f73fe080a1891f30b222010]: Textual amendment: Word in s. 244ZA(2)(c) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-ec5cd2ef1c069fc2a64f858ddfcafb69]: Textual amendment: S. 244ZA(8)(a)(aa) substituted for s. 244ZA(8)(a) (1.10.2026 except in relation to sentences for excluded offences listed in [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule) and with phased commencement in accordance with [regs. 3, 4](https://www.legislation.gov.uk/uksi/2026/953/regulation/3) in relation to a person serving a sentence imposed before that date) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/b), [3-5](https://www.legislation.gov.uk/uksi/2026/953/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
+[^c-ec5cd2ef1c069fc2a64f858ddfcafb69]: Textual amendment: S. 244ZA(8)(a)(aa) substituted for s. 244ZA(8)(a) (1.10.2026 except in relation to sentences for excluded offences listed in [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule) and with phased commencement in accordance with [regs. 3, 4](https://www.legislation.gov.uk/uksi/2026/953/regulation/3) in relation to a person serving a sentence imposed before that date) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/b), [3-5](https://www.legislation.gov.uk/uksi/2026/953/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
 
-[^key-615bfc18a621f84ba9527337a55703a0]: Textual amendment: S. 244ZA(9)-(11) inserted (22.1.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/25/2), [49(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/a) (with [s. 25(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/25/3))
+[^c-615bfc18a621f84ba9527337a55703a0]: Textual amendment: S. 244ZA(9)-(11) inserted (22.1.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/25/2), [49(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/a) (with [s. 25(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/25/3))

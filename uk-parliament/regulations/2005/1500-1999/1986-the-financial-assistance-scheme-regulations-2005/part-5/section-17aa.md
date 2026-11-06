@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17AA. Meaning of “the FAS cap”[^key-1eb961f7db33b711dc64b3955794ae3d]
+## 17AA. Meaning of “the FAS cap”[^c-1eb961f7db33b711dc64b3955794ae3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ the scheme manager must treat the person as having a length of pensionable servi
 
 ## Annotations
 
-[^key-1eb961f7db33b711dc64b3955794ae3d]: Textual amendment: [Reg. 17AA](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17AA) inserted (21.2.2018) by [The Financial Assistance Scheme (Increased Cap for Long Service) Regulations 2018 (S.I. 2018/207)](https://www.legislation.gov.uk/uksi/2018/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/207/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/207/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/207/regulation/5))
+[^c-1eb961f7db33b711dc64b3955794ae3d]: Textual amendment: [Reg. 17AA](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17AA) inserted (21.2.2018) by [The Financial Assistance Scheme (Increased Cap for Long Service) Regulations 2018 (S.I. 2018/207)](https://www.legislation.gov.uk/uksi/2018/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/207/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/207/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/207/regulation/5))

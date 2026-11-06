@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 900M. Acquisition of fungible assets: pre-FA 2002 assets and restricted assets[^key-7877849576a67a8a66d940ccbb3715fc]
+## 900M. Acquisition of fungible assets: pre-FA 2002 assets and restricted assets[^c-7877849576a67a8a66d940ccbb3715fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7877849576a67a8a66d940ccbb3715fc]: Textual amendment: Pt. 8 Chs. 16A, 16B inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(13)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/13)
+[^c-7877849576a67a8a66d940ccbb3715fc]: Textual amendment: Pt. 8 Chs. 16A, 16B inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(13)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/13)

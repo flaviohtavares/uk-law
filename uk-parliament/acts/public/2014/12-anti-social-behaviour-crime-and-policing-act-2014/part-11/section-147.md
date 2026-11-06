@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Powers to seize invalid passports etc[^key-dc702640ca7fdaf52397f4fe506ce7ea][^key-b5f7b01042dfdef24f31d396841d11c5]
+## 147. Powers to seize invalid passports etc[^c-dc702640ca7fdaf52397f4fe506ce7ea][^c-b5f7b01042dfdef24f31d396841d11c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 (powers to seize invalid passports etc) has effect.
 
 ## Annotations
 
-[^key-dc702640ca7fdaf52397f4fe506ce7ea]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2014/12/section/147) in force at 14.3.2014 by [S.I. 2014/630](https://www.legislation.gov.uk/uksi/2014/630), [art. 2](https://www.legislation.gov.uk/uksi/2014/630/article/2)
+[^c-dc702640ca7fdaf52397f4fe506ce7ea]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2014/12/section/147) in force at 14.3.2014 by [S.I. 2014/630](https://www.legislation.gov.uk/uksi/2014/630), [art. 2](https://www.legislation.gov.uk/uksi/2014/630/article/2)
 
-[^key-b5f7b01042dfdef24f31d396841d11c5]: Modification: [S. 147](https://www.legislation.gov.uk/ukpga/2014/12/section/147): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(m)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/m), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-b5f7b01042dfdef24f31d396841d11c5]: Modification: [S. 147](https://www.legislation.gov.uk/ukpga/2014/12/section/147): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(m)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/m), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)

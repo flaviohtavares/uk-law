@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Use of names: exceptions based on national security etc[^key-1882db28a1c2809d0907aa884bbec8d8][^key-d12d75529c592d9a10cba3db8147b10b]
+## 27. Use of names: exceptions based on national security etc[^c-1882db28a1c2809d0907aa884bbec8d8][^c-d12d75529c592d9a10cba3db8147b10b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ After section 1199 of the Companies Act 2006 insert—
 
 ## Annotations
 
-[^key-1882db28a1c2809d0907aa884bbec8d8]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1882db28a1c2809d0907aa884bbec8d8]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-d12d75529c592d9a10cba3db8147b10b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/56/section/27) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/b)
+[^c-d12d75529c592d9a10cba3db8147b10b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/56/section/27) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/b)

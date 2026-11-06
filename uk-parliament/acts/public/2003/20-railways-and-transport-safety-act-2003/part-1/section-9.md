@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Regulations[^key-d78bbb0c36b14241fa605123be81a83a]
+## 9. Regulations[^c-d78bbb0c36b14241fa605123be81a83a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d78bbb0c36b14241fa605123be81a83a]: Commencement: S. 9 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(ix)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/ix)
+[^c-d78bbb0c36b14241fa605123be81a83a]: Commencement: S. 9 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(ix)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/ix)

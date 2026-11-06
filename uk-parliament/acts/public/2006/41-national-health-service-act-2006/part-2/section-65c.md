@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65C. Suspension of directors[^key-17cf88763d4009b94ad6caf0b8ba8e30]
+## 65C. Suspension of directors[^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17cf88763d4009b94ad6caf0b8ba8e30]: Textual amendment: Pt. 2 Ch. 5A inserted (15.2.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)
+[^c-17cf88763d4009b94ad6caf0b8ba8e30]: Textual amendment: Pt. 2 Ch. 5A inserted (15.2.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)

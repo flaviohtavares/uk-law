@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Consent to prosecution of offence committed outside UK[^key-22abb977c01a9d675370067d5caebf3a]
+## 29. Consent to prosecution of offence committed outside UK[^c-22abb977c01a9d675370067d5caebf3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 117(2A) of the Terrorism Act 2000 (c. 11) and in section 19(2) of the
 
 ## Annotations
 
-[^key-22abb977c01a9d675370067d5caebf3a]: Commencement: S. 29 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/58/article/2/a)
+[^c-22abb977c01a9d675370067d5caebf3a]: Commencement: S. 29 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/58/article/2/a)

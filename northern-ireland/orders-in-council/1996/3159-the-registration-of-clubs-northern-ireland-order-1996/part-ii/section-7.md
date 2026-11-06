@@ -29,7 +29,7 @@ summary: ''
 (4) Where—
 
 - (a) a notice of application is in respect of the renewal of the registration of a club which has been in force for a period determined by the court under Article 6(2)(a)(ii) or (b)(ii) or Article 11(1)(b)(ii) or (c)(ii), or
-- (b) a notice of objection has been served on the clerk and has not been withdrawn, or[^key-965a8c965e19f2505d63bef704868f27]
+- (b) a notice of objection has been served on the clerk and has not been withdrawn, or[^c-965a8c965e19f2505d63bef704868f27]
 - (ba) the clerk is not satisfied that the applicant has been complying with any code of practice which the Department has approved under Article 41K (and from which it has not withdrawn its approval), or
 - (c) the clerk is of the opinion, for any other reason, that an application for the renewal of the registration of a club should be made to a court;
 
@@ -39,4 +39,4 @@ the clerk shall require the application to be made to the court and shall notify
 
 ## Annotations
 
-[^key-965a8c965e19f2505d63bef704868f27]: Textual amendment: [Art. 7(4)(ba)](https://www.legislation.gov.uk/nisi/1996/3159/article/7/4/ba) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(3)](https://www.legislation.gov.uk/nia/2021/7/section/41/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-965a8c965e19f2505d63bef704868f27]: Textual amendment: [Art. 7(4)(ba)](https://www.legislation.gov.uk/nisi/1996/3159/article/7/4/ba) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(3)](https://www.legislation.gov.uk/nia/2021/7/section/41/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

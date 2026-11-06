@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Death grants where pension credit member dies before pension credit benefits payable[^key-1b66ba083858ba4cdf8d2c5317ae65fa]
+## 60. Death grants where pension credit member dies before pension credit benefits payable[^c-1b66ba083858ba4cdf8d2c5317ae65fa]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b66ba083858ba4cdf8d2c5317ae65fa]: Commencement: Reg. 60 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-1b66ba083858ba4cdf8d2c5317ae65fa]: Commencement: Reg. 60 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

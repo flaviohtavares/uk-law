@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Direct disclosures of information: restrictions on civil liability[^key-f40081a1f53f3a238f6a4bf6f3d58d7b][^key-e410ccf787cca62b802b7d6622e4764c]
+## 188. Direct disclosures of information: restrictions on civil liability[^c-f40081a1f53f3a238f6a4bf6f3d58d7b][^c-e410ccf787cca62b802b7d6622e4764c]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,6 +75,6 @@ This is subject to subsection (11).
 
 ## Annotations
 
-[^key-f40081a1f53f3a238f6a4bf6f3d58d7b]: Commencement: S. 188 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-f40081a1f53f3a238f6a4bf6f3d58d7b]: Commencement: S. 188 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e410ccf787cca62b802b7d6622e4764c]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2023/56/section/188) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)
+[^c-e410ccf787cca62b802b7d6622e4764c]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2023/56/section/188) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)

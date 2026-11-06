@@ -46,10 +46,10 @@ summary: ''
 
   the single term after deduction of half the number of days (if any) by which that term exceeds the term imposed for the conviction, or as the case may be the terms imposed for the convictions, by virtue of which the prisoner is subject to those requirements.
 
-(9)[^key-531ca13496be0ccbe9c483c5e561e10d] This section is subject to section 1B.
+(9)[^c-531ca13496be0ccbe9c483c5e561e10d] This section is subject to section 1B.
 
 ## Annotations
 
 [^c20989751]: Textual amendment: S. 1AA inserted after s. 1 (8.2.2006) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 15(3)](https://www.legislation.gov.uk/asp/2005/14/section/15/3), [24(2)](https://www.legislation.gov.uk/asp/2005/14/section/24/2); [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48), [art. 3(1)](https://www.legislation.gov.uk/ssi/2006/48/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/48/schedule/part/1)
 
-[^key-531ca13496be0ccbe9c483c5e561e10d]: Textual amendment: S. 1AA(9) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/3)
+[^c-531ca13496be0ccbe9c483c5e561e10d]: Textual amendment: S. 1AA(9) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/3)

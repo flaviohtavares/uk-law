@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Content of a plan: equality of opportunity[^key-2321298cadfdc84e8e3fad1261f17c07][^key-a58ec4defe5395f92ff0f5137cc3f971]
+## 32. Content of a plan: equality of opportunity[^c-2321298cadfdc84e8e3fad1261f17c07][^c-a58ec4defe5395f92ff0f5137cc3f971]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2321298cadfdc84e8e3fad1261f17c07]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/29/section/32) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/4)
+[^c-2321298cadfdc84e8e3fad1261f17c07]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/29/section/32) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/4)
 
-[^key-a58ec4defe5395f92ff0f5137cc3f971]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/29/section/32) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-a58ec4defe5395f92ff0f5137cc3f971]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/29/section/32) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

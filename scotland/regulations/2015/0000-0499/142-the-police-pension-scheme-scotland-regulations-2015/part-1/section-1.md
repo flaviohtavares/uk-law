@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-1ac4139fde67c82c41e9533614ced9a5]
+## 1. Citation and commencement[^c-1ac4139fde67c82c41e9533614ced9a5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Police Pension Scheme (Scotland) Regulatio
 
 ## Annotations
 
-[^key-1ac4139fde67c82c41e9533614ced9a5]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1ac4139fde67c82c41e9533614ced9a5]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

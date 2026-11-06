@@ -31,7 +31,7 @@ summary: ''
 
 REPRESENTATION OF THE PEOPLE
 
-The Representation of the People (Northern Ireland) Regulations 2001 (revoked)[^key-8699a763403bbea467ec8d099c0bda30]
+The Representation of the People (Northern Ireland) Regulations 2001 (revoked)[^c-8699a763403bbea467ec8d099c0bda30]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 16th February 2001
 
-[^key-8699a763403bbea467ec8d099c0bda30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8699a763403bbea467ec8d099c0bda30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL, INTERPRETATION AND MISCELLANEOUS[^key-8699a763403bbea467ec8d099c0bda30]
+### PART I — GENERAL, INTERPRETATION AND MISCELLANEOUS[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -67,13 +67,13 @@ Coming into force
 - [Section 13 — Registration of European Parliamentary overseas electors](part-i/section-13.md)
 - [Section 14 — Amendment of rule 37(1E) of the parliamentary elections rules](part-i/section-14.md)
 
-### PART II — SERVICE AND OVERSEAS ELECTORS' DECLARATIONS[^key-8699a763403bbea467ec8d099c0bda30]
+### PART II — SERVICE AND OVERSEAS ELECTORS' DECLARATIONS[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Service declarations[^key-8699a763403bbea467ec8d099c0bda30]
+#### Service declarations[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -84,7 +84,7 @@ Coming into force
 - [Section 17 — Transmission of service declaration](part-ii/section-17.md)
 - [Section 18 — Notification by registration officer in respect of service declarations](part-ii/section-18.md)
 
-#### Overseas electors' declarations[^key-8699a763403bbea467ec8d099c0bda30]
+#### Overseas electors' declarations[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -95,13 +95,13 @@ Coming into force
 - [Section 21 — Attestation of certain overseas electors' declarations](part-ii/section-21.md)
 - [Section 22 — Notification about registration as overseas elector](part-ii/section-22.md)
 
-### PART III — REGISTRATION[^key-8699a763403bbea467ec8d099c0bda30]
+### PART III — REGISTRATION[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Information about electors[^key-8699a763403bbea467ec8d099c0bda30]
+#### Information about electors[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -114,7 +114,7 @@ Coming into force
 - [Section 27 — Objections to registration](part-iii/section-27.md)
 - [Section 28 — Inspection of applications and objections](part-iii/section-28.md)
 
-#### Determination of applications and objections[^key-8699a763403bbea467ec8d099c0bda30]
+#### Determination of applications and objections[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -132,7 +132,7 @@ Coming into force
 - [Section 36 — Notices in connection with registration](part-iii/section-36.md)
 - [Section 37 — Notice by registration officer of a change of address](part-iii/section-37.md)
 
-#### The register[^key-8699a763403bbea467ec8d099c0bda30]
+#### The register[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -151,7 +151,7 @@ Coming into force
 - [Section 48 — Sale of register and list of overseas electors](part-iii/section-48.md)
 - [Section 49 — Supply of register and list of overseas electors in data form](part-iii/section-49.md)
 
-### PART IV — ABSENT VOTERS[^key-8699a763403bbea467ec8d099c0bda30]
+### PART IV — ABSENT VOTERS[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -173,7 +173,7 @@ Coming into force
 - [Section 63 — Marked register for polling stations](part-iv/section-63.md)
 - [Section 64 — Certificate of employment at a parliamentary election](part-iv/section-64.md)
 
-### PART V — ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS[^key-8699a763403bbea467ec8d099c0bda30]
+### PART V — ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -181,7 +181,7 @@ Coming into force
 
 - [Section 65 — Interpretation of Part V](part-v/section-65.md)
 
-### Issue of Postal Ballot Papers[^key-8699a763403bbea467ec8d099c0bda30]
+### Issue of Postal Ballot Papers[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -199,7 +199,7 @@ Coming into force
 - [Section 75 — Delivery of postal ballot papers](section-75.md)
 - [Section 76 — Spoilt postal ballot papers](section-76.md)
 
-### Receipt of Postal Ballot Papers[^key-8699a763403bbea467ec8d099c0bda30]
+### Receipt of Postal Ballot Papers[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -216,25 +216,25 @@ Coming into force
 - [Section 85 — Abandoned poll](section-85.md)
 - [Section 86 — Forwarding of documents](section-86.md)
 
-### PART VI — SUPPLY OF REGISTER ETC[^key-8699a763403bbea467ec8d099c0bda30]
+### PART VI — SUPPLY OF REGISTER ETC[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
-#### Interpretation and edited register[^key-8699a763403bbea467ec8d099c0bda30]
+#### Interpretation and edited register[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
 - [Section 87 — Interpretation of Part VI etc](part-vi/section-87.md)
 - [Section 88 — Edited version of register](part-vi/section-88.md)
 
-#### General restrictions[^key-8699a763403bbea467ec8d099c0bda30]
+#### General restrictions[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
 - [Section 89 — Restrictions on supply of full register and disclosure of information from it by the Chief Electoral Officer and his staff](part-vi/section-89.md)
 - [Section 90 — Restriction on use of the full register or information contained in it supplied in accordance with any enactment or otherwise obtained](part-vi/section-90.md)
 
-#### Supply on publication and specific restrictions[^key-8699a763403bbea467ec8d099c0bda30]
+#### Supply on publication and specific restrictions[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
@@ -244,7 +244,7 @@ Coming into force
 - [Section 94 — Supply of free copy of full register etc to Electoral Commission](part-vi/section-94.md)
 - [Section 95 — Supply of free copy of full register etc to Local Government Boundary Commissioner and Boundary Commission and restrictions on use](part-vi/section-95.md)
 
-#### Supply on request and specific restrictions[^key-8699a763403bbea467ec8d099c0bda30]
+#### Supply on request and specific restrictions[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
@@ -256,7 +256,7 @@ Coming into force
 - [Section 101 — Supply of full register etc to certain candidates and restrictions on use](part-vi/section-101.md)
 - [Section 102 — Supply of full register etc to police forces and restrictions on use](part-vi/section-102.md)
 
-#### Sale of edited and full register and specific restrictions[^key-8699a763403bbea467ec8d099c0bda30]
+#### Sale of edited and full register and specific restrictions[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
@@ -266,7 +266,7 @@ Coming into force
 - [Section 106 — Sale of full register etc to government departments](part-vi/section-106.md)
 - [Section 107 — Sale of full register etc to credit reference agencies](part-vi/section-107.md)
 
-#### Supply to processor and offences[^key-8699a763403bbea467ec8d099c0bda30]
+#### Supply to processor and offences[^c-8699a763403bbea467ec8d099c0bda30]
 
 **No longer in force.**
 
@@ -282,12 +282,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-8699a763403bbea467ec8d099c0bda30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8699a763403bbea467ec8d099c0bda30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-8699a763403bbea467ec8d099c0bda30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8699a763403bbea467ec8d099c0bda30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8699a763403bbea467ec8d099c0bda30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/400) revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)
+[^c-8699a763403bbea467ec8d099c0bda30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/400) revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)

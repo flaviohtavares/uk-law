@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 373. Notification of refusal of insurance on health grounds[^key-acb7828ee7fa0a85d4738d991c03784b]
+## 373. Notification of refusal of insurance on health grounds[^c-acb7828ee7fa0a85d4738d991c03784b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ For paragraph (2) of Article 12 of the Road Traffic (Northern Ireland) Order 198
 
 ## Annotations
 
-[^key-acb7828ee7fa0a85d4738d991c03784b]: Commencement: Art. 373 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-acb7828ee7fa0a85d4738d991c03784b]: Commencement: Art. 373 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

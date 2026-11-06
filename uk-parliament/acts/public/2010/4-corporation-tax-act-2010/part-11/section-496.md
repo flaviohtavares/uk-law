@@ -32,8 +32,8 @@ summary: ''
 - (d) any expenditure incurred by the charitable company in the accounting period which is not incurred for charitable purposes only and is not required to be taken into account in calculating—
   - (i) the profits of, or losses made in, any trade, UK property business or overseas property business carried on by the charitable company, or
   - (ii) the profit or loss made in any miscellaneous transaction entered into by the charitable company,
-- (e)[^key-67b714cc2eec4a634e84bc3965522880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-67b714cc2eec4a634e84bc3965522880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-67b714cc2eec4a634e84bc3965522880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-67b714cc2eec4a634e84bc3965522880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the amount of any of the charitable company's funds that is invested in the accounting period in an investment which is not an approved charitable investment (see section 511), and
 - (h) any amount lent in the accounting period by the charitable company, if the loan is neither an investment nor an approved charitable loan (see section 514).
 
@@ -51,4 +51,4 @@ But anything which falls within more than one of the above paragraphs counts as 
 
 ## Annotations
 
-[^key-67b714cc2eec4a634e84bc3965522880]: Textual amendment: S. 496(1)(e)(f) omitted (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/22)
+[^c-67b714cc2eec4a634e84bc3965522880]: Textual amendment: S. 496(1)(e)(f) omitted (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/22)

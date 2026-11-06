@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4B. Changes to existing fire and rescue authorities[^key-d23e190c511e9d0bcff47df56cc5007f][^key-f455a5ec8458ad32a969552ec2e67dd3]
+## 4B. Changes to existing fire and rescue authorities[^c-d23e190c511e9d0bcff47df56cc5007f][^c-f455a5ec8458ad32a969552ec2e67dd3]
 
 *Extent: E+W*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d23e190c511e9d0bcff47df56cc5007f]: Modification: [S. 4B](https://www.legislation.gov.uk/ukpga/2004/21/section/4B) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/6/3)
+[^c-d23e190c511e9d0bcff47df56cc5007f]: Modification: [S. 4B](https://www.legislation.gov.uk/ukpga/2004/21/section/4B) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/6/3)
 
-[^key-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
 [^M_C_479afb58-3545-47be-b06d-451c72c9db07]: Modification: S. 4B(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/6/2)

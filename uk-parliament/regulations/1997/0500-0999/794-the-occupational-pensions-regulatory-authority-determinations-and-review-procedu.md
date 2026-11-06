@@ -200,7 +200,7 @@ The review committee shall send to the applicant, and to such other persons as t
 - (a) the applicant;
 - (b) a member of the Authority who is not appointed to the review committee;
 - (c) the chief executive of the Authority;
-- (d)[^key-659670dc49da21618e7e68fe1a9c1def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-659670dc49da21618e7e68fe1a9c1def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a witness called by the applicant or the Authority or by any other person entitled to be heard;
 - (f) such other persons as it appears to the Authority the justice of the case may require.
 
@@ -351,6 +351,6 @@ An assessment of the compliance costs for employers of the measures arising from
 
 [^c1680986]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Section 168 was substituted by section 155 of the Pensions Act 1995.
 
-[^key-659670dc49da21618e7e68fe1a9c1def]: Textual amendment: [Reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/1997/794/regulation/13/2/d) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/81)
+[^c-659670dc49da21618e7e68fe1a9c1def]: Textual amendment: [Reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/1997/794/regulation/13/2/d) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/81)
 
 [^c1680987]: Marginal citation: The office of the Occupational Pensions Regulatory Authority is Invicta House, Trafalgar Place, Trafalgar Street, Brighton, East Sussex BN1 4DW.

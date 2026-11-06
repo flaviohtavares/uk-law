@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Regulation [(EC) No 1007/2009](https://www.legislation.gov.uk/eur/2009/1007) of the European Parliament and of the Council on trade in seal products.[^key-c2f1c85d364d63f7c2df49c3faf4ccc7]
+## 7. Regulation [(EC) No 1007/2009](https://www.legislation.gov.uk/eur/2009/1007) of the European Parliament and of the Council on trade in seal products.[^c-c2f1c85d364d63f7c2df49c3faf4ccc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2f1c85d364d63f7c2df49c3faf4ccc7]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c2f1c85d364d63f7c2df49c3faf4ccc7]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

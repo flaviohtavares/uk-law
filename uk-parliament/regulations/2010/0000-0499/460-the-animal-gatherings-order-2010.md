@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 1, 7, 8 and 83(2) of the Animal Health Act 1981[^f00001], makes the following Order.
 
-## 1. Title, application and commencement[^key-8f85c80ad5647f93db3d895b71329c15]
+## 1. Title, application and commencement[^c-8f85c80ad5647f93db3d895b71329c15]
 
 This Order may be cited as the Animal Gatherings Order 2010, applies in England and comes into force on 18th March 2010.
 
-## 2. Interpretation[^key-d63bf98abe9247093a8ce5e8df41f434]
+## 2. Interpretation[^c-d63bf98abe9247093a8ce5e8df41f434]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 - “licensee” is a person licensed under article 5(1);
 - “paved” means paved with cement, concrete, asphalt or other hard impermeable material that is capable of being effectively cleansed and disinfected.
 
-## 3. Notices and licences[^key-439f4e7ad80af375f420ac574752a433]
+## 3. Notices and licences[^c-439f4e7ad80af375f420ac574752a433]
 
 A notice, licence or authorisation issued by a veterinary inspector under this Order—
 
@@ -72,7 +72,7 @@ A notice, licence or authorisation issued by a veterinary inspector under this O
 - (b) may be amended, suspended or revoked; and
 - (c) may be subject to such conditions and requirements as the veterinary inspector considers necessary to control the introduction into or spread of disease within or from the licensed premises.
 
-## 4. Exceptions[^key-bb6da49a4aaa6a69e6c904123f676161]
+## 4. Exceptions[^c-bb6da49a4aaa6a69e6c904123f676161]
 
 This Order does not apply in any of the following situations—
 
@@ -80,7 +80,7 @@ This Order does not apply in any of the following situations—
 - (b) all the animals come from one set of premises which the Secretary of State has authorised as a sole occupancy group under the Disease Control (England) Order 2003[^f00003]; or
 - (c) the animal gathering takes place on premises owned or occupied by the owner of the animals.
 
-## 5. The use of premises for animal gatherings[^key-a5a87e17a14c014c89ab4df2cdff01e3]
+## 5. The use of premises for animal gatherings[^c-a5a87e17a14c014c89ab4df2cdff01e3]
 
 (1) No person may use any premises for an animal gathering unless those premises are licensed for that purpose by a veterinary inspector.
 
@@ -92,14 +92,14 @@ This Order does not apply in any of the following situations—
 - (b) the premises on which the animal gathering may take place; and
 - (c) particulars that identify the animal area.
 
-## 6. Restriction for 27 days between animal gatherings[^key-fd26b054c05ade2ed3ae51c7a4f42efe]
+## 6. Restriction for 27 days between animal gatherings[^c-fd26b054c05ade2ed3ae51c7a4f42efe]
 
 No person may allow an animal gathering to take place on licensed premises on which animals have been kept until 27 days has elapsed from the day on which—
 
 - (a) the last animal has left the licensed premises; and
 - (b) all equipment to which animals had access has been cleansed of visible contamination, after the last animal has left the licensed premises.
 
-## 7. Exemption from the 27-day restriction for licensed premises with any paved animal area[^key-3a529b36ab68f28fe0b48cb4c1ab7c9b]
+## 7. Exemption from the 27-day restriction for licensed premises with any paved animal area[^c-3a529b36ab68f28fe0b48cb4c1ab7c9b]
 
 (1) The restriction in article 6 does not apply where all animal areas on the licensed premises are paved, and such areas (and any equipment thereon) are scraped clean, swept, cleansed by washing and then disinfected with an approved disinfectant before the next animal gathering.
 
@@ -112,7 +112,7 @@ No person may allow an animal gathering to take place on licensed premises on wh
 
 (4) If, following the last occasion on which any paved animal area was treated in accordance with this article, any part of such area becomes re-contaminated with animal excreta or other material of animal origin or any contaminant derived from animals, then that re-contaminated part must be scraped clean, swept, cleansed by washing and then disinfected before any animals are allowed onto the licensed premises for the next animal gathering.
 
-## 8. Destruction, treatment or disposal of feeding stuffs and other materials[^key-cf1e690b33115e463c8a384d7d8baa1e]
+## 8. Destruction, treatment or disposal of feeding stuffs and other materials[^c-cf1e690b33115e463c8a384d7d8baa1e]
 
 (1) The licensee must ensure that all feeding stuffs to which animals had access, and all bedding, animal excreta, other material of animal origin and other contaminants derived from animals in the animal area are—
 
@@ -120,9 +120,9 @@ No person may allow an animal gathering to take place on licensed premises on wh
 - (b) treated so as to remove the risk of transmission of disease, or
 - (c) disposed of so that animals do not have access to them.
 
-(2) This article does not apply to any material required to be disposed of under the Regulation[^key-5a3cfe6d1f89dd2b020c306e53a0fbc2] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council.
+(2) This article does not apply to any material required to be disposed of under the Regulation[^c-5a3cfe6d1f89dd2b020c306e53a0fbc2] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council.
 
-## 9. Admittance of animals only for a period of up to 48 hours[^key-99fbe934616a10b0dfba594d6b125ac3]
+## 9. Admittance of animals only for a period of up to 48 hours[^c-99fbe934616a10b0dfba594d6b125ac3]
 
 (1) No person may bring or permit any animal onto premises used for an animal gathering after the gathering has been open to receive animals for a period of 48 hours.
 
@@ -130,14 +130,14 @@ No person may allow an animal gathering to take place on licensed premises on wh
 
 (3) For the purpose of this article, where more than one animal gathering is held on the same licensed premises and animals are present at all times on that premises during such gatherings, those gatherings are to be treated as one animal gathering, and the 48-hour period for the premises being open to receive animals shall apply.
 
-## 10. Requirement to notify and publicise the times for bringing animals to animal gatherings[^key-98d7ab87a6de2d1ada7bb18457a94ee1]
+## 10. Requirement to notify and publicise the times for bringing animals to animal gatherings[^c-98d7ab87a6de2d1ada7bb18457a94ee1]
 
 In the case of any animal gathering to be used for the purpose of a sale (whether or not sale is the sole purpose) or a collection, the licensee must at least 14 days in advance—
 
 - (a) publicise the times when the licensed premises will be open to receive animals and the purpose (including a sale or collection identified in article 11 if appropriate) of the animal gathering; and
 - (b) notify this information to both the Secretary of State and the local authority.
 
-## 11. Dedicated slaughter sales and dedicated slaughter collections[^key-91c14fa2b3b084522349e5dc137439af]
+## 11. Dedicated slaughter sales and dedicated slaughter collections[^c-91c14fa2b3b084522349e5dc137439af]
 
 (1) No person may hold a dedicated slaughter sale or a dedicated slaughter collection other than on a paved animal area.
 
@@ -148,7 +148,7 @@ In the case of any animal gathering to be used for the purpose of a sale (whethe
 - (a) a “dedicated slaughter collection” means an animal gathering for the purpose of onward consignment direct to slaughter in Great Britain; and
 - (b) a “dedicated slaughter sale” means an animal gathering for the purpose of a sale before onward consignment direct to slaughter in Great Britain.
 
-## 12. Restrictions following an animal gathering[^key-ac8015324818340f92454074e9016ca1]
+## 12. Restrictions following an animal gathering[^c-ac8015324818340f92454074e9016ca1]
 
 (1) The provisions of this article apply once the last animal at an animal gathering has left the licensed premises.
 
@@ -161,15 +161,15 @@ In the case of any animal gathering to be used for the purpose of a sale (whethe
 
 (4) Where there is no appropriate facility to properly cleanse and disinfect the equipment on the licensed premises in accordance with the requirement in paragraph 3(a) then the equipment may be moved to the nearest appropriate facility where it must be cleansed and disinfected.
 
-## 13. Enforcement[^key-18671cfed7a0f6dff182f761c3478641]
+## 13. Enforcement[^c-18671cfed7a0f6dff182f761c3478641]
 
 (1) This Order must be enforced by the local authority.
 
 (2) The Secretary of State may direct that, in relation to cases of a particular description or any particular case, an enforcement duty imposed on a local authority under this article is to be discharged by the Secretary of State and not by the local authority.
 
-(3)[^key-cb20f38e881ebde841c69c08213f7c41] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-cb20f38e881ebde841c69c08213f7c41] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
-## 14. Revocation and transitional arrangement for existing licences[^key-b3f44106c3acccb2490b9c239fd72ba2]
+## 14. Revocation and transitional arrangement for existing licences[^c-b3f44106c3acccb2490b9c239fd72ba2]
 
 (1) The Animal Gatherings (England) Order 2006[^f00005] is revoked.
 
@@ -209,40 +209,40 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) Powers to make Orders under these sections were originally conferred on “the Ministers” by section 86 of the Act. These powers are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-8f85c80ad5647f93db3d895b71329c15]: Commencement: Art. 1 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-8f85c80ad5647f93db3d895b71329c15]: Commencement: Art. 1 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-d63bf98abe9247093a8ce5e8df41f434]: Commencement: Art. 2 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-d63bf98abe9247093a8ce5e8df41f434]: Commencement: Art. 2 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/448](https://www.legislation.gov.uk/uksi/2007/448).
 
-[^key-439f4e7ad80af375f420ac574752a433]: Commencement: Art. 3 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-439f4e7ad80af375f420ac574752a433]: Commencement: Art. 3 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-bb6da49a4aaa6a69e6c904123f676161]: Commencement: Art. 4 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-bb6da49a4aaa6a69e6c904123f676161]: Commencement: Art. 4 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
 [^f00003]: Footnote: [S.I. 2003/1729](https://www.legislation.gov.uk/uksi/2003/1729) as amended by [S.I. 2005/3100](https://www.legislation.gov.uk/uksi/2005/3100), [S.I. 2006/182](https://www.legislation.gov.uk/uksi/2006/182) and [S.I. 2008/1066](https://www.legislation.gov.uk/uksi/2008/1066).
 
-[^key-a5a87e17a14c014c89ab4df2cdff01e3]: Commencement: Art. 5 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-a5a87e17a14c014c89ab4df2cdff01e3]: Commencement: Art. 5 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-fd26b054c05ade2ed3ae51c7a4f42efe]: Commencement: Art. 6 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-fd26b054c05ade2ed3ae51c7a4f42efe]: Commencement: Art. 6 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-3a529b36ab68f28fe0b48cb4c1ab7c9b]: Commencement: Art. 7 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-3a529b36ab68f28fe0b48cb4c1ab7c9b]: Commencement: Art. 7 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-cf1e690b33115e463c8a384d7d8baa1e]: Commencement: Art. 8 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-cf1e690b33115e463c8a384d7d8baa1e]: Commencement: Art. 8 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-5a3cfe6d1f89dd2b020c306e53a0fbc2]: Textual amendment: Words in art. 8(2) substituted (12.12.2013) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [28(d)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/28/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/3))
+[^c-5a3cfe6d1f89dd2b020c306e53a0fbc2]: Textual amendment: Words in art. 8(2) substituted (12.12.2013) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [28(d)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/28/d), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/3))
 
-[^key-99fbe934616a10b0dfba594d6b125ac3]: Commencement: Art. 9 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-99fbe934616a10b0dfba594d6b125ac3]: Commencement: Art. 9 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-98d7ab87a6de2d1ada7bb18457a94ee1]: Commencement: Art. 10 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-98d7ab87a6de2d1ada7bb18457a94ee1]: Commencement: Art. 10 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-91c14fa2b3b084522349e5dc137439af]: Commencement: Art. 11 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-91c14fa2b3b084522349e5dc137439af]: Commencement: Art. 11 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-ac8015324818340f92454074e9016ca1]: Commencement: Art. 12 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-ac8015324818340f92454074e9016ca1]: Commencement: Art. 12 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-18671cfed7a0f6dff182f761c3478641]: Commencement: Art. 13 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-18671cfed7a0f6dff182f761c3478641]: Commencement: Art. 13 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
-[^key-cb20f38e881ebde841c69c08213f7c41]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2010/460/article/13/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [36](https://www.legislation.gov.uk/uksi/2012/2897/article/36)
+[^c-cb20f38e881ebde841c69c08213f7c41]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2010/460/article/13/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [36](https://www.legislation.gov.uk/uksi/2012/2897/article/36)
 
-[^key-b3f44106c3acccb2490b9c239fd72ba2]: Commencement: Art. 14 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
+[^c-b3f44106c3acccb2490b9c239fd72ba2]: Commencement: Art. 14 in force at 18.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/460/article/1)
 
 [^f00005]: Footnote: [S.I. 2006/2211](https://www.legislation.gov.uk/uksi/2006/2211).

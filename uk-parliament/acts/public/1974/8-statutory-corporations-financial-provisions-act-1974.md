@@ -44,11 +44,11 @@ An Act to make provision for compensating certain statutory corporations in resp
 (1) With a view to securing that the borrowing powers of the bodies corporate specified in the first column of Schedule 2 to this Act will extend—
 
 - (a) to the borrowing of money in a currency other than sterling from any person and in any manner, and
-- (b) to the borrowing of money in sterling from the Commission of the European Union[^key-d4345e09a886ab2f25d6564872e15f22] and from the European Investment Bank,
+- (b) to the borrowing of money in sterling from the Commission of the European Union[^c-d4345e09a886ab2f25d6564872e15f22] and from the European Investment Bank,
 
 the enactments specified in the second column of that Schedule shall have effect subject to the amendments specified in the third column of that Schedule, and any other enactment which applies any of those enactments to any of those bodies corporate shall be construed as applying it as so amended.
 
-(2) For the purpose of extending the borrowing powers of development corporations [^key-8f27dc17cf39a5f675a38581f624f11b]..., and of making provision consequential upon the extension of those powers, the enactments specified in Schedule 3 to this Act shall have effect subject to the amendments specified in that Schedule.
+(2) For the purpose of extending the borrowing powers of development corporations [^c-8f27dc17cf39a5f675a38581f624f11b]..., and of making provision consequential upon the extension of those powers, the enactments specified in Schedule 3 to this Act shall have effect subject to the amendments specified in that Schedule.
 
 (3) Any increase in—
 
@@ -82,7 +82,7 @@ Section 4.
 | (5)The Scottish Transport Group. |  |  |
 | (6) . . . [^c707140] |  |  |
 | 2.(1)–(3) . . . [^c707141] | . . . [^c707141] | . . . [^c707141] |
-| 3\. [^key-0945b0781a21e55614e906541f120661]... | [^key-0945b0781a21e55614e906541f120661]... | [^key-0945b0781a21e55614e906541f120661]... |
+| 3\. [^c-0945b0781a21e55614e906541f120661]... | [^c-0945b0781a21e55614e906541f120661]... | [^c-0945b0781a21e55614e906541f120661]... |
 | 4\. . . . [^c707144] | . . . [^c707144] | . . . [^c707144] |
 | 5\. . . . [^c707147] | . . . [^c707147] | . . . [^c707147] |
 | 6.(1) The British Overseas Airways Corporation. | The Air Corporations Act 1967 (1967 c. 33). | In section 7(2) (as substituted by paragraph 19 of Schedule 10 to the Civil Aviation Act 1971), after the word “Board” there shall be inserted the words “or, subject to those limits and with the consent of the Secretary of State and the approval of the Treasury, may borrow in sterling from the Commission of the European Union or from the European Investment Ba nk”. |
@@ -143,9 +143,9 @@ Section 4.
 
 [^c707136]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1974/8/section/1), [3](https://www.legislation.gov.uk/ukpga/1974/8/section/3), [5(1)](https://www.legislation.gov.uk/ukpga/1974/8/section/5/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/8/schedule/1) repealed by [Statutory Corporations (Financial Provisions) Act 1975 (c. 55)](https://www.legislation.gov.uk/ukpga/1975/55), [s. 1(11)](https://www.legislation.gov.uk/ukpga/1975/55/section/1/11), [Sch. 5](https://www.legislation.gov.uk/ukpga/1975/55/schedule/5)
 
-[^key-d4345e09a886ab2f25d6564872e15f22]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-d4345e09a886ab2f25d6564872e15f22]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-8f27dc17cf39a5f675a38581f624f11b]: Textual amendment: Words in s. 4(2) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-8f27dc17cf39a5f675a38581f624f11b]: Textual amendment: Words in s. 4(2) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c707137]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1974/8/section/1), [3](https://www.legislation.gov.uk/ukpga/1974/8/section/3), [5(1)](https://www.legislation.gov.uk/ukpga/1974/8/section/5/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/8/schedule/1) repealed by [Statutory Corporations (Financial Provisions) Act 1975 (c. 55)](https://www.legislation.gov.uk/ukpga/1975/55), [s. 1(11)](https://www.legislation.gov.uk/ukpga/1975/55/section/1/11), [Sch. 5](https://www.legislation.gov.uk/ukpga/1975/55/schedule/5)
 
@@ -157,7 +157,7 @@ Section 4.
 
 [^c707141]: Textual amendment: Sch. 2 para. 2 entries relating to the Electricity Council, the North of Scotland Hydro-Electric Board and the South of Scotland Electricity Board repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [113(2)](https://www.legislation.gov.uk/ukpga/1989/29/section/113/2), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
-[^key-0945b0781a21e55614e906541f120661]: Textual amendment: Sch. 2 para. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-0945b0781a21e55614e906541f120661]: Textual amendment: Sch. 2 para. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c707144]: Textual amendment: Sch. 2 para. 4 repealed by [British Telecommunications Act 1981 (c. 38, SIF 96)](https://www.legislation.gov.uk/ukpga/1981/38), [s. 89](https://www.legislation.gov.uk/ukpga/1981/38/section/89), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1981/38/schedule/6/part/II)
 

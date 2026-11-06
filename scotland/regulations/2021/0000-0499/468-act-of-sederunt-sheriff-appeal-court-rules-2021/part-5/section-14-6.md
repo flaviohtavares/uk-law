@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14.6. Variation of periods of intimation[^key-b0ac174699093c6be532d9cf8b1a414e]
+## 14.6. Variation of periods of intimation[^c-b0ac174699093c6be532d9cf8b1a414e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ the motion may be lodged by the lodging party, or heard or otherwise determined 
 
 ## Annotations
 
-[^key-b0ac174699093c6be532d9cf8b1a414e]: Commencement: Para. 14.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b0ac174699093c6be532d9cf8b1a414e]: Commencement: Para. 14.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

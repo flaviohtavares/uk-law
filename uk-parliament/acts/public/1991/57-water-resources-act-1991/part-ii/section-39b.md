@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39B. Register of certain protected rights[^key-0dec0a9c1e3331220ac2acbfbb00f924]
+## 39B. Register of certain protected rights[^c-0dec0a9c1e3331220ac2acbfbb00f924]
 
 *Extent: E+W*
 
-(1) The Secretary of State may by regulations make provision for and in connection with the establishment, and for the keeping and maintenance by the appropriate agency[^key-0ae67d1ec1272e9437b5845931bb1e3e], of one or more registers of protected rights which arise otherwise than by virtue of a licence under this Chapter to abstract water.
+(1) The Secretary of State may by regulations make provision for and in connection with the establishment, and for the keeping and maintenance by the appropriate agency[^c-0ae67d1ec1272e9437b5845931bb1e3e], of one or more registers of protected rights which arise otherwise than by virtue of a licence under this Chapter to abstract water.
 
 (2) The regulations may, in particular, provide for—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0dec0a9c1e3331220ac2acbfbb00f924]: Textual amendment: S. 39B inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 18](https://www.legislation.gov.uk/ukpga/2003/37/section/18), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/641/article/3/f) (with [Sch. 3 paras. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/3), [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-0dec0a9c1e3331220ac2acbfbb00f924]: Textual amendment: S. 39B inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 18](https://www.legislation.gov.uk/ukpga/2003/37/section/18), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/641/article/3/f) (with [Sch. 3 paras. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/3), [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

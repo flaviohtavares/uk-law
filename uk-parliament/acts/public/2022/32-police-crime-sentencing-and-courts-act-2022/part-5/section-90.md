@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Charges for removal, storage and disposal of vehicles[^key-83e762e860e7c91a72aeca442c612582][^key-4abcd5a615e5b5b0020c74ff586aa16d]
+## 90. Charges for removal, storage and disposal of vehicles[^c-83e762e860e7c91a72aeca442c612582][^c-4abcd5a615e5b5b0020c74ff586aa16d]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83e762e860e7c91a72aeca442c612582]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 208(4)(o)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/o)
+[^c-83e762e860e7c91a72aeca442c612582]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 208(4)(o)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/o)
 
-[^key-4abcd5a615e5b5b0020c74ff586aa16d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2022/32/section/90) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/k)
+[^c-4abcd5a615e5b5b0020c74ff586aa16d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2022/32/section/90) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/k)

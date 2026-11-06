@@ -50,13 +50,13 @@ In accordance with section 26(2)(a)(i) of that Act, the Secretary of State is sa
 
 In accordance with section 26(3) of that Act, the Secretary of State has had regard to the index of prices specified in Regulations made under that subsection[^f00002].
 
-## 1. Citation, commencement and application[^key-d23f4c2a7f616652fc7cf9c2c3d7e323]
+## 1. Citation, commencement and application[^c-d23f4c2a7f616652fc7cf9c2c3d7e323]
 
 These Regulations may be cited as the Higher Education (Basic Amount) (England) Regulations 2016 and come into force on 6th January 2017.
 
-**2.**[^key-c36efff219d4e97fe34bf79869e23ef5] These Regulations apply in relation to England.
+**2.**[^c-c36efff219d4e97fe34bf79869e23ef5] These Regulations apply in relation to England.
 
-## 3. Interpretation[^key-19c0c35583b0dfb963c7259ecc3e743a]
+## 3. Interpretation[^c-19c0c35583b0dfb963c7259ecc3e743a]
 
 In these Regulations—
 
@@ -66,11 +66,11 @@ In these Regulations—
 - “sandwich course” has the meaning given in regulation 2(10) of the Student Support Regulations;
 - “the Student Support Regulations” means the Education (Student Support Regulations) 2011[^f00003].
 
-## 4. Meaning of “eligible institution”[^key-2cc54a159b809fdcb5684690e94c7b4d]
+## 4. Meaning of “eligible institution”[^c-2cc54a159b809fdcb5684690e94c7b4d]
 
 An eligible institution is an institution listed in the Schedule to these Regulations.
 
-## 5. Application of the new basic amounts[^key-2a3b9faa6074ad2ed6e32c2296e4750a]
+## 5. Application of the new basic amounts[^c-2a3b9faa6074ad2ed6e32c2296e4750a]
 
 (1) The basic amounts prescribed in regulations 6, 7 and 8 apply in relation to the qualifying fees payable by a qualifying person in connection with a qualifying course in respect of an academic year of that course, if that academic year begins on or after 1st August 2017.
 
@@ -82,15 +82,15 @@ An eligible institution is an institution listed in the Schedule to these Regula
 
 (3) In this Regulation—
 
-- [^key-30d9c9bee9b513b19ca484daa419d5a8]...
-- [^key-6500e066ae382b3415d01f179152f2de]...
+- [^c-30d9c9bee9b513b19ca484daa419d5a8]...
+- [^c-6500e066ae382b3415d01f179152f2de]...
 - “end-on student” means a student who is undertaking—
   - (a) a full-time honours degree course beginning on or after 1st September 2012 which, disregarding any intervening vacation, a student begins to attend immediately after ceasing to attend a full-time course which is mentioned in paragraph 2, 3 or 4 of Schedule 2 to the Student Support Regulations or a full-time foundation degree or ordinary degree course, which started before 1st September 2012, having achieved a qualification;
-  - (b) [^key-b57879ed18fb27ad873948b6129670ae]...
-  - (c) a part-time honours degree course beginning on or after 1st September 2012 which, disregarding any intervening vacation, a student begins immediately after ceasing to undertake a part-time[^key-07e86baa4b115890cb9ca1c7944583e7] course which is mentioned in paragraph 2, 3 or 4 of Schedule 2 to the Student Support Regulations or a part-time foundation degree or ordinary degree course, which started before 1st September 2012, having achieved a qualification;
-- “transfer” means that the qualifying person’s status as student eligible for support has been transferred under regulations made under section 22 of the Teaching and Higher Education Act 1998[^f00004] from a full-time course to another full-time course, or from[^key-f3ee115c9630286165d69f7e97ddca99] a part-time course to another part-time course [^key-be722e1af40997ecb22de9cdfdd27b77]....
+  - (b) [^c-b57879ed18fb27ad873948b6129670ae]...
+  - (c) a part-time honours degree course beginning on or after 1st September 2012 which, disregarding any intervening vacation, a student begins immediately after ceasing to undertake a part-time[^c-07e86baa4b115890cb9ca1c7944583e7] course which is mentioned in paragraph 2, 3 or 4 of Schedule 2 to the Student Support Regulations or a part-time foundation degree or ordinary degree course, which started before 1st September 2012, having achieved a qualification;
+- “transfer” means that the qualifying person’s status as student eligible for support has been transferred under regulations made under section 22 of the Teaching and Higher Education Act 1998[^f00004] from a full-time course to another full-time course, or from[^c-f3ee115c9630286165d69f7e97ddca99] a part-time course to another part-time course [^c-be722e1af40997ecb22de9cdfdd27b77]....
 
-## 6. Prescribed basic amount from 1st August 2017[^key-b8ce87cc428d9aa575cba71a147dc779]
+## 6. Prescribed basic amount from 1st August 2017[^c-b8ce87cc428d9aa575cba71a147dc779]
 
 (1) The basic amount is—
 
@@ -99,7 +99,7 @@ An eligible institution is an institution listed in the Schedule to these Regula
 
 (2) This regulation does not apply in relation to courses identified in either regulation 7 or 8.
 
-## 7. Prescribed basic amounts for specified courses from 1st August 2017[^key-f5191a68f7ada1da450f7d4a7643e61a]
+## 7. Prescribed basic amounts for specified courses from 1st August 2017[^c-f5191a68f7ada1da450f7d4a7643e61a]
 
 (1) In respect of the final academic year of a course if that academic year is normally required to be completed after less than 15 weeks’ attendance, the basic amount is—
 
@@ -131,7 +131,7 @@ An eligible institution is an institution listed in the Schedule to these Regula
 - (a) £920 in respect of an eligible institution; or
 - (b) £900 in respect of any other institution.
 
-## 8. Prescribed basic amount for part-time courses from 1st August 2017[^key-35699baae8e27a4662c05c5861930c32]
+## 8. Prescribed basic amount for part-time courses from 1st August 2017[^c-35699baae8e27a4662c05c5861930c32]
 
 The basic amount in respect of a part-time course is—
 
@@ -387,36 +387,36 @@ The Explanatory Memorandum is published alongside the Regulations on www.legisla
 
 [^f00002]: Footnote: [S.I. 2006/507](https://www.legislation.gov.uk/uksi/2006/507), as amended by the Student Fees (Inflation Index) (England) (Amendment) Regulations 2016. ([S.I. 2016/1207](https://www.legislation.gov.uk/uksi/2016/1207))
 
-[^key-d23f4c2a7f616652fc7cf9c2c3d7e323]: Commencement: Reg. 1 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-d23f4c2a7f616652fc7cf9c2c3d7e323]: Commencement: Reg. 1 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
-[^key-c36efff219d4e97fe34bf79869e23ef5]: Commencement: Reg. 2 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-c36efff219d4e97fe34bf79869e23ef5]: Commencement: Reg. 2 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
-[^key-19c0c35583b0dfb963c7259ecc3e743a]: Commencement: Reg. 3 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-19c0c35583b0dfb963c7259ecc3e743a]: Commencement: Reg. 3 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), as amended by [S.I. 2012/164](https://www.legislation.gov.uk/uksi/2012/164), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2013/630](https://www.legislation.gov.uk/uksi/2013/630), [2013/1728](https://www.legislation.gov.uk/uksi/2013/1728), [2013/3106](https://www.legislation.gov.uk/uksi/2013/3106), [2014/1766](https://www.legislation.gov.uk/uksi/2014/1766), [2014/2103](https://www.legislation.gov.uk/uksi/2014/2103) and [2014/2765](https://www.legislation.gov.uk/uksi/2014/2765).
 
-[^key-2cc54a159b809fdcb5684690e94c7b4d]: Commencement: Reg. 4 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-2cc54a159b809fdcb5684690e94c7b4d]: Commencement: Reg. 4 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
-[^key-2a3b9faa6074ad2ed6e32c2296e4750a]: Commencement: Reg. 5 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-2a3b9faa6074ad2ed6e32c2296e4750a]: Commencement: Reg. 5 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
-[^key-30d9c9bee9b513b19ca484daa419d5a8]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/a)
+[^c-30d9c9bee9b513b19ca484daa419d5a8]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/a)
 
-[^key-6500e066ae382b3415d01f179152f2de]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/b)
+[^c-6500e066ae382b3415d01f179152f2de]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/b)
 
-[^key-b57879ed18fb27ad873948b6129670ae]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/c/i)
+[^c-b57879ed18fb27ad873948b6129670ae]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/c/i)
 
-[^key-07e86baa4b115890cb9ca1c7944583e7]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) substituted (25.4.2018) by [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/c/ii)
+[^c-07e86baa4b115890cb9ca1c7944583e7]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) substituted (25.4.2018) by [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/c/ii)
 
 [^f00004]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-f3ee115c9630286165d69f7e97ddca99]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) inserted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(d)(i)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/d/i)
+[^c-f3ee115c9630286165d69f7e97ddca99]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) inserted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(d)(i)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/d/i)
 
-[^key-be722e1af40997ecb22de9cdfdd27b77]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/d/ii)
+[^c-be722e1af40997ecb22de9cdfdd27b77]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/1205/regulation/5/3) omitted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2018/465/regulation/3/d/ii)
 
-[^key-b8ce87cc428d9aa575cba71a147dc779]: Commencement: Reg. 6 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-b8ce87cc428d9aa575cba71a147dc779]: Commencement: Reg. 6 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
-[^key-f5191a68f7ada1da450f7d4a7643e61a]: Commencement: Reg. 7 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-f5191a68f7ada1da450f7d4a7643e61a]: Commencement: Reg. 7 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
-[^key-35699baae8e27a4662c05c5861930c32]: Commencement: Reg. 8 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
+[^c-35699baae8e27a4662c05c5861930c32]: Commencement: Reg. 8 in force at 6.1.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1205/regulation/1)
 
 [^M_F_3265130f-f726-4713-82c4-1f319a96e00d]: Textual amendment: Sch. substituted (25.4.2018 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations 2018 (S.I. 2018/465)](https://www.legislation.gov.uk/uksi/2018/465), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/465/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/465/schedule)

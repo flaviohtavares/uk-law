@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Meaning of private finance transaction[^key-94e620ca3777c08d414a3a5491bf9de0]
+## 16. Meaning of private finance transaction[^c-94e620ca3777c08d414a3a5491bf9de0]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94e620ca3777c08d414a3a5491bf9de0]: Commencement: Reg. 16 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-94e620ca3777c08d414a3a5491bf9de0]: Commencement: Reg. 16 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00013]: Footnote: Available from the Office for National Statistics or from The Stationery Office.

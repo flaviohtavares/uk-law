@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 18 of the Planning and Compulsory Purchase Act 2004 (statement of community involvement) is amended as follows.
 
-(2)[^key-01f382431c15fac0a0dc92bc33b1db16] In subsection (2) after “sections” insert “ 13, 15, ”.
+(2)[^c-01f382431c15fac0a0dc92bc33b1db16] In subsection (2) after “sections” insert “ 13, 15, ”.
 
 (3) After subsection (3A) insert—
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22730141]: Commencement: S. 13 in force for specified purposes at Royal Assent, see s. 46
 
-[^key-01f382431c15fac0a0dc92bc33b1db16]: Commencement: S. 13(2) in force at 31.7.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/38/regulation/5))
+[^c-01f382431c15fac0a0dc92bc33b1db16]: Commencement: S. 13(2) in force at 31.7.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/38/regulation/5))

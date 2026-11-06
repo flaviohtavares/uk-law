@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Returning officers: correction of procedural errors[^key-bfa74342914ed45de1578e4c02082660]
+## 21. Returning officers: correction of procedural errors[^c-bfa74342914ed45de1578e4c02082660]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa74342914ed45de1578e4c02082660]: Commencement: Art. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-bfa74342914ed45de1578e4c02082660]: Commencement: Art. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

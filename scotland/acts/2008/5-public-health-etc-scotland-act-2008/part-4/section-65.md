@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Effect of appeal under section 61, 62, 63 or 64[^key-2a82e6733191b23c4fd7edd8312d7ac0]
+## 65. Effect of appeal under section 61, 62, 63 or 64[^c-2a82e6733191b23c4fd7edd8312d7ac0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Despite the making of an appeal under section 61(2), 62(2), 63(1) or (3) or 64(1
 
 ## Annotations
 
-[^key-2a82e6733191b23c4fd7edd8312d7ac0]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2008/5/section/65) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-2a82e6733191b23c4fd7edd8312d7ac0]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2008/5/section/65) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

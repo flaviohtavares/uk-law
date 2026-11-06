@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Guidance to Commission[^key-400259ce95842a6c36b824fbe907b0f3]
+## 144. Guidance to Commission[^c-400259ce95842a6c36b824fbe907b0f3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Commission must have regard to any guidance issued by the Welsh Ministers ab
 
 ## Annotations
 
-[^key-400259ce95842a6c36b824fbe907b0f3]: Textual amendment: Word in [s. 144](https://www.legislation.gov.uk/asc/2021/1/section/144) and heading substituted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(7)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/7); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-400259ce95842a6c36b824fbe907b0f3]: Textual amendment: Word in [s. 144](https://www.legislation.gov.uk/asc/2021/1/section/144) and heading substituted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(7)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/7); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)

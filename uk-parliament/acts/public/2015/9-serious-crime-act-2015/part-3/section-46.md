@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Extension of Part 1 of Serious Crime Act 2007 to Scotland[^key-5b4b1e5d8a170c04a246af506ed05aa1]
+## 46. Extension of Part 1 of Serious Crime Act 2007 to Scotland[^c-5b4b1e5d8a170c04a246af506ed05aa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (amendments of Serious Crime Act 2007: Scotland) has effect.
 
 ## Annotations
 
-[^key-5b4b1e5d8a170c04a246af506ed05aa1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2015/9/section/46) in force at 1.3.2016 by [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/d)
+[^c-5b4b1e5d8a170c04a246af506ed05aa1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2015/9/section/46) in force at 1.3.2016 by [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/d)

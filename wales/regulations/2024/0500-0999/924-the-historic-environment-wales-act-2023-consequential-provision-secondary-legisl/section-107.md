@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**107.**[^key-665c6f342a50bb274d6f0419da1e8c03] In regulation 52, for “section 46 of the Listed Buildings Act” substitute “section 134 of the 2023 Act”.
+**107.**[^c-665c6f342a50bb274d6f0419da1e8c03] In regulation 52, for “section 46 of the Listed Buildings Act” substitute “section 134 of the 2023 Act”.
 
 ## Annotations
 
-[^key-665c6f342a50bb274d6f0419da1e8c03]: Commencement: [Reg. 107](https://www.legislation.gov.uk/wsi/2024/924/regulation/107) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-665c6f342a50bb274d6f0419da1e8c03]: Commencement: [Reg. 107](https://www.legislation.gov.uk/wsi/2024/924/regulation/107) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Retirement before reaching normal pension age – deferred members[^key-adc5166cf25a49077388399aef47e5c9]
+## 44. Retirement before reaching normal pension age – deferred members[^c-adc5166cf25a49077388399aef47e5c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (3) A member, who is entitled to a retirement earned pension under this regulation, is entitled to immediate payment for life of—
 
 - (a) a retirement added pension, if the deferred member’s account specifies a provisional amount of deferred added pension; and
-- (b) a retirement club transfer earned pension, if the deferred member’s account[^key-df310700f4232d49ab3dcd12118bfe04] specifies a provisional amount of deferred club transfer earned pension.
+- (b) a retirement club transfer earned pension, if the deferred member’s account[^c-df310700f4232d49ab3dcd12118bfe04] specifies a provisional amount of deferred club transfer earned pension.
 
 (4) The claim for payment of a pension under this regulation must be made by notice in writing to the scheme administrator in such form as the scheme manager requires.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-adc5166cf25a49077388399aef47e5c9]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/2336/regulation/44) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-adc5166cf25a49077388399aef47e5c9]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/2336/regulation/44) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-df310700f4232d49ab3dcd12118bfe04]: Textual amendment: Words in [reg. 44(3)(b)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/44/3/b) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2015/466/regulation/7)
+[^c-df310700f4232d49ab3dcd12118bfe04]: Textual amendment: Words in [reg. 44(3)(b)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/44/3/b) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2015/466/regulation/7)

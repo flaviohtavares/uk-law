@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Persons entitled to hold index-linked certificates purchased before 7th September 1981[^key-c68e6ab9e087048cc7043fd98c79fe41]
+## 40. Persons entitled to hold index-linked certificates purchased before 7th September 1981[^c-c68e6ab9e087048cc7043fd98c79fe41]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ or by two or more of them jointly.
 
 ## Annotations
 
-[^key-c68e6ab9e087048cc7043fd98c79fe41]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-c68e6ab9e087048cc7043fd98c79fe41]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

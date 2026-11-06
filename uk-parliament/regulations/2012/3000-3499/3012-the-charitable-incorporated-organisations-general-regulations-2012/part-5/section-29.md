@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Register of members to be evidence[^key-07a0f58a767c4f9899182301be2a636a]
+## 29. Register of members to be evidence[^c-07a0f58a767c4f9899182301be2a636a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A CIO’s register of members is to be prima facie evidence of any matters which
 
 ## Annotations
 
-[^key-07a0f58a767c4f9899182301be2a636a]: Commencement: Reg. 29 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-07a0f58a767c4f9899182301be2a636a]: Commencement: Reg. 29 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

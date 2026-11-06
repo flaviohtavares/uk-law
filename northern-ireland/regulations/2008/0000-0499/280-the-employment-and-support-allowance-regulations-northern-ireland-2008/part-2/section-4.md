@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. The end of the assessment phase[^key-410cced62cb80916e7991c2a265f7d08]
+## 4. The end of the assessment phase[^c-410cced62cb80916e7991c2a265f7d08]
 
 *Extent: N.I.*
 
-(1) Subject to paragraphs (2) and (3)[^key-6a2cf5614c73207732b06bdd1c806a29] and regulation 5[^key-632b51d55fff7fde86605e279d5d6738] , the assessment phase in relation to a claimant ends on the last day of the relevant period[^key-6bf456ad442a633c30fcbd3d55aaa46d] beginning on the first day of the assessment phase as determined under section 24(2)(a) of the Act.
+(1) Subject to paragraphs (2) and (3)[^c-6a2cf5614c73207732b06bdd1c806a29] and regulation 5[^c-632b51d55fff7fde86605e279d5d6738] , the assessment phase in relation to a claimant ends on the last day of the relevant period[^c-6bf456ad442a633c30fcbd3d55aaa46d] beginning on the first day of the assessment phase as determined under section 24(2)(a) of the Act.
 
-(2)[^key-905e8598278c382bad1eff09f87abb14] Where paragraph (3) applies, the assessment phase is to end when it is determined whether the claimant has limited capability for work.
+(2)[^c-905e8598278c382bad1eff09f87abb14] Where paragraph (3) applies, the assessment phase is to end when it is determined whether the claimant has limited capability for work.
 
-(3) This paragraph applies where, at the relevant period[^key-3854e5d31b558ea29b2805ed48e4a082] —
+(3) This paragraph applies where, at the relevant period[^c-3854e5d31b558ea29b2805ed48e4a082] —
 
 - (a) the claimant has not been assessed in accordance with a limited capability for work assessment; and
 - (b) the claimant has not been treated as having limited capability for work in accordance with regulations 20, 25, 26, 29 or 33(2) (persons to be treated as having limited capability for work).
 
-(4)[^key-1e170f6a486883cc489c8f489b65ab24] In this regulation “the relevant period” means the period of 13 weeks beginning with and including—
+(4)[^c-1e170f6a486883cc489c8f489b65ab24] In this regulation “the relevant period” means the period of 13 weeks beginning with and including—
 
 - (a) the first day of the assessment phase as determined under section 24(2)(a) of the Act; or
 - (b) where that day immediately follows an extended period of sickness, the first day of the extended period of sickness.
@@ -41,16 +41,16 @@ summary: ''
 
 ## Annotations
 
-[^key-410cced62cb80916e7991c2a265f7d08]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/280/regulation/4) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-410cced62cb80916e7991c2a265f7d08]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/280/regulation/4) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-6a2cf5614c73207732b06bdd1c806a29]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/1) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/3/a)
+[^c-6a2cf5614c73207732b06bdd1c806a29]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/1) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/3/a)
 
-[^key-632b51d55fff7fde86605e279d5d6738]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/1) substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (S.R. 2010/200)](https://www.legislation.gov.uk/nisr/2010/200), [regs. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/3)
+[^c-632b51d55fff7fde86605e279d5d6738]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/1) substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (S.R. 2010/200)](https://www.legislation.gov.uk/nisr/2010/200), [regs. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [9(3)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/3)
 
-[^key-6bf456ad442a633c30fcbd3d55aaa46d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/1) substituted (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/138/regulation/4/2/a)
+[^c-6bf456ad442a633c30fcbd3d55aaa46d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/1) substituted (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/138/regulation/4/2/a)
 
-[^key-905e8598278c382bad1eff09f87abb14]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/3) substituted for [reg. 4(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/2) (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/3/b)
+[^c-905e8598278c382bad1eff09f87abb14]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/3) substituted for [reg. 4(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/2) (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/3/b)
 
-[^key-3854e5d31b558ea29b2805ed48e4a082]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/3) substituted (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2015/138/regulation/4/2/b)
+[^c-3854e5d31b558ea29b2805ed48e4a082]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/3) substituted (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2015/138/regulation/4/2/b)
 
-[^key-1e170f6a486883cc489c8f489b65ab24]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/4)[(5)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/5) added (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2015/138/regulation/4/2/c)
+[^c-1e170f6a486883cc489c8f489b65ab24]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/4)[(5)](https://www.legislation.gov.uk/nisr/2008/280/regulation/4/5) added (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2015/138/regulation/4/2/c)

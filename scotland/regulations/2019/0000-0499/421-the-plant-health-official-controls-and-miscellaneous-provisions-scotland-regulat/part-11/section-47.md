@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Penalties[^key-17e41554c078d29ab148a0331b8d8d5e]
+## 47. Penalties[^c-17e41554c078d29ab148a0331b8d8d5e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17e41554c078d29ab148a0331b8d8d5e]: Commencement: Reg. 47 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-17e41554c078d29ab148a0331b8d8d5e]: Commencement: Reg. 47 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Further applications by receivers[^key-d5e0fde603567f429ef496e3dcb8660b]
+## 41. Further applications by receivers[^c-d5e0fde603567f429ef496e3dcb8660b]
 
 *Extent: E+W+S+N.I.*
 
-(1) This article applies to a receiver appointed under article 15 or 27[^key-32c21c894e3affe4b64d07cb1733dc8b].
+(1) This article applies to a receiver appointed under article 15 or 27[^c-32c21c894e3affe4b64d07cb1733dc8b].
 
 (2) The receiver may apply to the Crown Court for an order giving directions as to the exercise of his powers.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5e0fde603567f429ef496e3dcb8660b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2005/3181/article/41) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d5e0fde603567f429ef496e3dcb8660b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2005/3181/article/41) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-32c21c894e3affe4b64d07cb1733dc8b]: Textual amendment: Words in [art. 41(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/41/1) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(15)](https://www.legislation.gov.uk/uksi/2008/302/article/2/15)
+[^c-32c21c894e3affe4b64d07cb1733dc8b]: Textual amendment: Words in [art. 41(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/41/1) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(15)](https://www.legislation.gov.uk/uksi/2008/302/article/2/15)

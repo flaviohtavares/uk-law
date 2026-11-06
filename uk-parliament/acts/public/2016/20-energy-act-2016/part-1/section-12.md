@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Powers of the OGA to charge fees[^key-d003db01ef8dc13b21058de618e614c1]
+## 12. Powers of the OGA to charge fees[^c-d003db01ef8dc13b21058de618e614c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d003db01ef8dc13b21058de618e614c1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/20/section/12) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-d003db01ef8dc13b21058de618e614c1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/20/section/12) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

@@ -62,10 +62,10 @@ In this Schedule—
 (3) The relevant period is the first to expire of—
 
 - (a) the period of sixteen months—
-  - (i) where there is no declared priority date, beginning immediately after[^key-6e80d5780a25da2ca7c70a8fa727fc59] the date of filing of the application; or
-  - (ii) where there is a declared priority date, beginning immediately after[^key-4ddd762b768c8508c03c6786c47ae9fd] that date;
+  - (i) where there is no declared priority date, beginning immediately after[^c-6e80d5780a25da2ca7c70a8fa727fc59] the date of filing of the application; or
+  - (ii) where there is a declared priority date, beginning immediately after[^c-4ddd762b768c8508c03c6786c47ae9fd] that date;
 - (b) where the applicant has made a request under section 16(1) to publish the application during the period prescribed for the purposes of that section, the period ending with the date of the request; or
-- (c) where the applicant was notified under rule 52(2), the period of one month beginning immediately after[^key-17169425d17caea650fd227d87c80e70] the date of the notification.
+- (c) where the applicant was notified under rule 52(2), the period of one month beginning immediately after[^c-17169425d17caea650fd227d87c80e70] the date of the notification.
 
 (4) Where—
 
@@ -143,7 +143,7 @@ any undertaking made shall have no effect to the extent necessary to give effect
 (5) In paragraph 6(1) “the relevant period” is—
 
 - (a) where the patent is granted, the period ending with the date on which the patent was granted; and
-- (b) where the application is terminated or withdrawn, twenty years beginning immediately after[^key-473060a11b9b79355833e1552af0d4d3] the date of filing.
+- (b) where the application is terminated or withdrawn, twenty years beginning immediately after[^c-473060a11b9b79355833e1552af0d4d3] the date of filing.
 
 (6) Nothing in this or the following paragraph affects the rights under section 55 of any government department or any person authorised in writing by a government department.
 
@@ -155,7 +155,7 @@ any undertaking made shall have no effect to the extent necessary to give effect
 
 (3) The comptroller must send a copy of Patents Form 8 to the applicant for the patent.
 
-(4) Before the end of the period of one month beginning immediately after[^key-2d97257788e277b36b3a787121ac8764] the date on which a copy of Patents Form 8 is sent by the comptroller, the applicant may give notice of his objection to the particular expert, and where he objects the comptroller shall determine the matter.
+(4) Before the end of the period of one month beginning immediately after[^c-2d97257788e277b36b3a787121ac8764] the date on which a copy of Patents Form 8 is sent by the comptroller, the applicant may give notice of his objection to the particular expert, and where he objects the comptroller shall determine the matter.
 
 (5) Where—
 
@@ -203,12 +203,12 @@ the comptroller must issue a certificate authorising the release of a sample to 
 
 ## Annotations
 
-[^key-6e80d5780a25da2ca7c70a8fa727fc59]: Textual amendment: Words in [Sch. 1 para. 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/3/3/a/i) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-6e80d5780a25da2ca7c70a8fa727fc59]: Textual amendment: Words in [Sch. 1 para. 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/3/3/a/i) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-4ddd762b768c8508c03c6786c47ae9fd]: Textual amendment: Words in [Sch. 1 para. 3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/3/3/a/ii) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-4ddd762b768c8508c03c6786c47ae9fd]: Textual amendment: Words in [Sch. 1 para. 3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/3/3/a/ii) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-17169425d17caea650fd227d87c80e70]: Textual amendment: Words in [Sch. 1 para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/3/3/c) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-17169425d17caea650fd227d87c80e70]: Textual amendment: Words in [Sch. 1 para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/3/3/c) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-473060a11b9b79355833e1552af0d4d3]: Textual amendment: Words in [Sch. 1 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/6/5/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-473060a11b9b79355833e1552af0d4d3]: Textual amendment: Words in [Sch. 1 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/6/5/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-2d97257788e277b36b3a787121ac8764]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/7/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-2d97257788e277b36b3a787121ac8764]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2007/3291/schedule/1/paragraph/7/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

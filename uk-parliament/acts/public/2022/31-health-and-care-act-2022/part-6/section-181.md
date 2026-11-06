@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Mandatory training on learning disability and autism[^key-9e52ee10924825ab72aaf4bc647cfa60][^key-0a5cadfee6bb3a33a2a1a0a8942832d5]
+## 181. Mandatory training on learning disability and autism[^c-9e52ee10924825ab72aaf4bc647cfa60][^c-0a5cadfee6bb3a33a2a1a0a8942832d5]
 
 *Extent: E+W*
 
@@ -96,6 +96,6 @@ are to be read as if regulation 18 of the 2014 regulations contained such requir
 
 ## Annotations
 
-[^key-9e52ee10924825ab72aaf4bc647cfa60]: Commencement: S. 181 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-9e52ee10924825ab72aaf4bc647cfa60]: Commencement: S. 181 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0a5cadfee6bb3a33a2a1a0a8942832d5]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2022/31/section/181) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0a5cadfee6bb3a33a2a1a0a8942832d5]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2022/31/section/181) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

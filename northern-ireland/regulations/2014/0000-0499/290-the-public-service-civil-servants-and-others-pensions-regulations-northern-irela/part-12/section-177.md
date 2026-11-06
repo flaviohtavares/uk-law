@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 177. Determination of questions[^key-842c4760e08c097f700eaf2163585533]
+## 177. Determination of questions[^c-842c4760e08c097f700eaf2163585533]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Except as otherwise provided by these Regulations, any question arising under th
 
 ## Annotations
 
-[^key-842c4760e08c097f700eaf2163585533]: Commencement: [Reg. 177](https://www.legislation.gov.uk/nisr/2014/290/regulation/177) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-842c4760e08c097f700eaf2163585533]: Commencement: [Reg. 177](https://www.legislation.gov.uk/nisr/2014/290/regulation/177) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

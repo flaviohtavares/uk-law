@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Land transaction[^key-75c81a9afccbd5f566ccd8e5911057e6]
+## 3. Land transaction[^c-75c81a9afccbd5f566ccd8e5911057e6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c81a9afccbd5f566ccd8e5911057e6]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2017/1/section/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-75c81a9afccbd5f566ccd8e5911057e6]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2017/1/section/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Further provision about penalties[^key-ecdb61a6ccd3148fb4c6512b533a1900][^key-09352e2148af12d7017e2fb91c202b55]
+## 108. Further provision about penalties[^c-ecdb61a6ccd3148fb4c6512b533a1900][^c-09352e2148af12d7017e2fb91c202b55]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-254adc94bf540c5ba9960820c7f2cd03] The Secretary of State may by directions specify circumstances in which a notice of underpayment is not to impose a requirement to pay a penalty.
+(1)[^c-254adc94bf540c5ba9960820c7f2cd03] The Secretary of State may by directions specify circumstances in which a notice of underpayment is not to impose a requirement to pay a penalty.
 
-(2)[^key-254adc94bf540c5ba9960820c7f2cd03] A direction under subsection (1) may be amended or revoked by a further direction.
+(2)[^c-254adc94bf540c5ba9960820c7f2cd03] A direction under subsection (1) may be amended or revoked by a further direction.
 
 (3) A notice of underpayment that imposes a requirement to pay a penalty must—
 
@@ -41,8 +41,8 @@ the person is to be regarded as having paid the penalty.
 
 ## Annotations
 
-[^key-ecdb61a6ccd3148fb4c6512b533a1900]: Commencement: S. 108 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ecdb61a6ccd3148fb4c6512b533a1900]: Commencement: S. 108 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-09352e2148af12d7017e2fb91c202b55]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/36/section/108) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(13)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/13)
+[^c-09352e2148af12d7017e2fb91c202b55]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/36/section/108) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(13)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/13)
 
-[^key-254adc94bf540c5ba9960820c7f2cd03]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/108/2) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(29)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/29)
+[^c-254adc94bf540c5ba9960820c7f2cd03]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/108/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/108/2) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(29)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/29)

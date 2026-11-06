@@ -53,7 +53,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-106a0e74cd5d567efb9f3942496d59ed]
+### 1. Citation and commencement[^c-106a0e74cd5d567efb9f3942496d59ed]
 
 (1) These Regulations may be cited as the Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016.
 
@@ -67,7 +67,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (3) All other provisions come into operation immediately after the coming into operation of the Universal Credit Regulations (Northern Ireland) 2016[^f00003].
 
-### 2. Interpretation[^key-af00894d8fd9c39a797252386142113f]
+### 2. Interpretation[^c-af00894d8fd9c39a797252386142113f]
 
 (1) In these Regulations—
 
@@ -85,7 +85,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - “liable person” means the person from whom a recoverable amount is recoverable;
 - “overpayment” means an amount of—
   - (a) universal credit, jobseeker’s allowance or employment and support allowance which may be recovered by the Department by virtue of section 69ZB(1) of the Administration Act;
-  - (b) [^key-96ef8f153a30d25806896d177fe9b4c5]...
+  - (b) [^c-96ef8f153a30d25806896d177fe9b4c5]...
 - “overpayment period” means the period over which an overpayment accrues;
 - “partner” means, where the person being referred to is a member of a couple, the other member of the couple;
 - “recoverable amount” is to be construed in accordance with regulation 3;
@@ -98,7 +98,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 ## PART 2 — Recoverability
 
-### 3. Recoverable amounts[^key-51bbc432c56c633192c14fda60c94029]
+### 3. Recoverable amounts[^c-51bbc432c56c633192c14fda60c94029]
 
 (1) In these Regulations “recoverable amount” means—
 
@@ -112,7 +112,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - (c) section 69ZH (recovery of hardship payments etc.); and
 - (d) section 109B(4)[^f00011] (penalty as alternative to prosecution: colluding employers, etc.).
 
-### 4. Persons from whom an overpayment may be recovered[^key-fe071aff44a26198792038f6a4d30ae8]
+### 4. Persons from whom an overpayment may be recovered[^c-fe071aff44a26198792038f6a4d30ae8]
 
 (1) The following paragraphs apply for determining the person from whom an overpayment is recoverable in the circumstances specified in those paragraphs.
 
@@ -132,13 +132,13 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (9) In this regulation “payee” means the person to whom the overpayment has been paid.
 
-### 5. Circumstances in which a determination need not be reversed, varied, revised or superseded prior to recovery[^key-95964c82189249005829d81c38f6d009]
+### 5. Circumstances in which a determination need not be reversed, varied, revised or superseded prior to recovery[^c-95964c82189249005829d81c38f6d009]
 
 Section 69ZB(3) of the Administration Act (recovery of overpayments of certain benefits) does not apply where the circumstances of the overpayment do not provide a basis for the decision pursuant to which the payment was made to be revised under Article 10 of the Social Security (Northern Ireland) Order 1998[^f00012] (revision of decisions) or superseded under Article 11 of that Order (decisions superseding earlier decisions).
 
 ## PART 3 — Prevention of duplication of payments
 
-### 6. Duplication and prescribed income[^key-e8e0cd1865b1dd10d62e704acceec8fd]
+### 6. Duplication and prescribed income[^c-e8e0cd1865b1dd10d62e704acceec8fd]
 
 (1) The income prescribed for the purpose of section 69ZB(5) of the Administration Act (recovery of overpayments of certain benefits) is any income which falls to be taken into account in accordance with Chapters 2 and 3 of Part 6 of the Universal Credit Regulations (calculation of capital and income).
 
@@ -149,7 +149,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 ## PART 4 — Calculation of recoverable amount of an overpayment
 
-### 7. Diminution of capital[^key-a3b8d69e1004634a5f0c1be38d5819eb]
+### 7. Diminution of capital[^c-a3b8d69e1004634a5f0c1be38d5819eb]
 
 (1) Paragraph (2) applies where—
 
@@ -163,7 +163,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 (3) Capital is not to be treated as reduced over any period other than 3 months in any circumstances other than those for which paragraph (2) provides.
 
-### 8. Sums to be deducted[^key-d606df6dc757614db7129240419a841c]
+### 8. Sums to be deducted[^c-d606df6dc757614db7129240419a841c]
 
 (1) In calculating the recoverable amount of an overpayment of jobseeker’s allowance or employment and support allowance, the Department must deduct the amounts specified in paragraphs (2) and (3).
 
@@ -176,7 +176,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 - (c) where the overpayment arose by virtue of a misrepresentation or a failure to disclose a material fact, on the basis that that misrepresentation or failure had been remedied prior to the award being made; or
 - (d) where the overpayment arose by virtue of an error made by, or on behalf of, the Department, on the basis that that error had not been made.
 
-### 9. Sums to be deducted: change of dwelling[^key-095ff0fb682a8b7b87bd46e99365c33c]
+### 9. Sums to be deducted: change of dwelling[^c-095ff0fb682a8b7b87bd46e99365c33c]
 
 (1) This regulation applies where an overpayment of housing costs has occurred in the following circumstances—
 
@@ -190,7 +190,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 ## PART 5 — The process of recovery
 
-### 10. Recovery by deduction from benefits[^key-50651b3372deb75a28133a7aaf594f45]
+### 10. Recovery by deduction from benefits[^c-50651b3372deb75a28133a7aaf594f45]
 
 (1) Subject to regulations 11 to 14, the Department may recover a recoverable amount from a liable person by deduction from the benefits specified in paragraph (2) which are payable to that person.
 
@@ -204,7 +204,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 - (f) personal independence payment payable under Part 5 of the 2015 Order; and
 - (g) a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00014].
 
-### 11. Recovery by deduction from universal credit[^key-187088df7f22acf33f3a4be2e227bbf2]
+### 11. Recovery by deduction from universal credit[^c-187088df7f22acf33f3a4be2e227bbf2]
 
 (1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from universal credit payable to the liable person.
 
@@ -241,7 +241,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 (11) In paragraph (2) “the appropriate universal credit standard allowance” means the appropriate universal credit standard allowance included in the award of universal credit made to the liable person, or to the liable person and that person’s partner as joint claimants[^f00018] by virtue of regulation 38 of the Universal Credit Regulations (amounts of elements).
 
-### 12. Recovery by deduction from jobseeker’s allowance[^key-63169700eea5e9602afdb7fb3cb2c784]
+### 12. Recovery by deduction from jobseeker’s allowance[^c-63169700eea5e9602afdb7fb3cb2c784]
 
 (1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from jobseeker’s allowance payable to the liable person.
 
@@ -253,7 +253,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 (5) In paragraph (2) “benefit week” has the same meaning as in regulation 2(2) of the Jobseeker’s Allowance Regulations (Northern Ireland) 2016 (general interpretation).
 
-### 13. Recovery by deduction from employment and support allowance[^key-1b4a1f0969b07fd496d69e379530f405]
+### 13. Recovery by deduction from employment and support allowance[^c-1b4a1f0969b07fd496d69e379530f405]
 
 (1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from employment and support allowance payable to the liable person.
 
@@ -265,7 +265,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 (5) In paragraph (2) “benefit week” has the same meaning as in regulation 2 of the Employment and Support Allowance Regulations (Northern Ireland) 2016 (interpretation).
 
-### 14. Recovery by deduction from state pension credit[^key-e166a3da5c11b5476cfba35d0406c9d8]
+### 14. Recovery by deduction from state pension credit[^c-e166a3da5c11b5476cfba35d0406c9d8]
 
 (1) The following paragraphs apply where the recoverable amount falls to be recovered by deduction from state pension credit payable to the liable person.
 
@@ -288,7 +288,7 @@ Section 69ZB(3) of the Administration Act (recovery of overpayments of certain b
 
 (6) In this regulation “benefit week” has the same meaning as in regulation 1(2) of the State Pension Credit Regulations (Northern Ireland) 2003[^f00021] (interpretation).
 
-### 15. Restrictions on recovery of rent and consequent notifications[^key-e1ec22b100d5ff942b10ccdc50a0806d]
+### 15. Restrictions on recovery of rent and consequent notifications[^c-e1ec22b100d5ff942b10ccdc50a0806d]
 
 (1) Paragraph (2) applies where, pursuant to section 69ZC(2)(b) of the Administration Act, an amount of housing costs has been, or falls to be, recovered by deduction from benefit paid to a person (“the landlord”) to discharge (in whole or in part) an obligation owed to the landlord by the person on whose behalf the recoverable amount was paid (“the tenant”).
 
@@ -304,7 +304,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 - (a) the overpayment that it has recovered or that the Department has determined to recover (“that sum”) is, or will be, one to which paragraph (2) applies; and
 - (b) the landlord has no right in relation to that sum against the tenant, and that the tenant’s obligation to the landlord is to be taken to be discharged by the amount so recovered.
 
-### 16. Offsetting[^key-d1d18d1287d7a6a8ea208ee8519b3c4c]
+### 16. Offsetting[^c-d1d18d1287d7a6a8ea208ee8519b3c4c]
 
 (1) Paragraph (2) applies where a person has been paid a sum of benefit under a decision (“the original decision”) which is subsequently—
 
@@ -322,7 +322,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 ## PART 6 — Recovery by deduction from earnings
 
-### 17. Interpretation of this Part[^key-baa7e387c9909ebf9cdf1ba9556ebca9]
+### 17. Interpretation of this Part[^c-baa7e387c9909ebf9cdf1ba9556ebca9]
 
 (1) In this Part—
 
@@ -361,7 +361,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (5) Where these Regulations refer to a notice or notification being given or sent, if sent by ordinary post to the last known address of the recipient, it is to be treated as having been given or sent on the day on which it is posted.
 
-### 18. Notices[^key-233582f9fcf6ac2370db1ccf54a4b8d3]
+### 18. Notices[^c-233582f9fcf6ac2370db1ccf54a4b8d3]
 
 (1) A notice must be given or sent to—
 
@@ -383,7 +383,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (4) References in paragraphs (1) to (3) to a notice include references to a notice as varied in accordance with regulation 24(1).
 
-### 19. Amount to be deducted by employer[^key-9903cc9b78aaf1c8a4a707e48c791d4b]
+### 19. Amount to be deducted by employer[^c-9903cc9b78aaf1c8a4a707e48c791d4b]
 
 (1) This regulation applies where an employer has received from an appropriate authority a notice in respect of a liable person in the employer’s employment.
 
@@ -421,7 +421,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (11) Where, on any pay-day, an employer makes a deduction from the earnings of a liable person in accordance with the notice, the employer may also deduct an additional amount not exceeding £1 in respect of administrative costs and such deduction for administrative costs may reduce the amount which the employer pays to the liable person on that pay-day below the protected earnings proportion.
 
-### 20. Employer to notify liable person of deduction[^key-ab73abf8347b9c06b32e1658a306de27]
+### 20. Employer to notify liable person of deduction[^c-ab73abf8347b9c06b32e1658a306de27]
 
 (1) An employer making a deduction from earnings for the purpose of these Regulations must notify the liable person in writing of the amount of the deduction including any amount deducted for administrative costs under regulation 19(11).
 
@@ -429,7 +429,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (3) An employer must, within 28 days of receiving a written request from the liable person, provide that person with an explanation in writing of how the first amount referred to in paragraph (1) was calculated.
 
-### 21. Payment by employer to the appropriate authority[^key-32c34071ca9d4fde95ee820205a8d222]
+### 21. Payment by employer to the appropriate authority[^c-32c34071ca9d4fde95ee820205a8d222]
 
 (1) Amounts deducted by an employer pursuant to regulation 19 (other than any administrative costs deducted under paragraph (11) of that regulation) must be paid by the employer to the appropriate authority by the 19th day of the month following the month in which the deduction is made.
 
@@ -441,7 +441,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (3) The employer must keep a record of every amount paid to an appropriate authority pursuant to paragraph (1) and of the employee in respect of whom each such amount was paid.
 
-### 22. Information to be provided by the liable person[^key-510af5b2e2187074deb253eeeb4fc0d4]
+### 22. Information to be provided by the liable person[^c-510af5b2e2187074deb253eeeb4fc0d4]
 
 (1) A liable person who has been given or sent a notice in accordance with regulation 19(1)(a) must notify the appropriate authority in writing within 7 days of each occasion on which that person—
 
@@ -454,7 +454,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 - (b) the amount of the liable person’s earnings or expected earnings; and
 - (c) the liable person’s place of work, nature of work and any staff number, pay roll number or similar identifying number.
 
-### 23. Duty of employers and others to notify appropriate authority[^key-225fa6dbe58fe8f8475a86e1d18063d6]
+### 23. Duty of employers and others to notify appropriate authority[^c-225fa6dbe58fe8f8475a86e1d18063d6]
 
 (1) In this regulation “P” means the liable person.
 
@@ -464,7 +464,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (4) Where E is required to make deductions under a notice and P ceases to be in E’s employment, E must notify the appropriate authority of that fact in writing, at the address specified in the notice, within 10 days after the day on which P ceased to be in E’s employment.
 
-### 24. Power to vary notices[^key-e613f17383523a91d71bdde548927411]
+### 24. Power to vary notices[^c-e613f17383523a91d71bdde548927411]
 
 (1) The appropriate authority may vary a notice so as to—
 
@@ -473,7 +473,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (2) Where a notice has been varied and a copy of the notice as varied has been given or sent in accordance with regulation 18(1) and (4), any employer who is liable to make deductions under the notice must comply with the notice as varied from the day it takes effect by virtue of regulation 18(3).
 
-### 25. Discharge of notices[^key-de0050e96eb1f3046d780b054c67bef0]
+### 25. Discharge of notices[^c-de0050e96eb1f3046d780b054c67bef0]
 
 (1) The appropriate authority must discharge a notice where the recoverable amount is no longer outstanding.
 
@@ -489,13 +489,13 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (5) Where a notice is discharged by virtue of paragraph (2)(b) or (c) regulation 21 nevertheless applies in respect of any deductions made in respect of the employment but not yet paid to the appropriate authority.
 
-### 26. Lapse of notices[^key-ade6e19b579576df7181179b5f06d731]
+### 26. Lapse of notices[^c-ade6e19b579576df7181179b5f06d731]
 
 (1) Where a liable person in respect of whom deductions are being made in accordance with a notice ceases to be in the employment of an employer, subject to paragraph (2), the notice is to lapse immediately after the pay-day coinciding with, or the pay-day following, the termination of the employment.
 
 (2) Where a notice lapses by virtue of paragraph (1) regulation 21 nevertheless applies in respect of any deductions made or to be made in respect of the employment but not yet paid to the appropriate authority.
 
-### 27. Crown employment[^key-220829843fb8ca1e17046fdbd7f377f0]
+### 27. Crown employment[^c-220829843fb8ca1e17046fdbd7f377f0]
 
 (1) Where a liable person is in the employment of the Crown and a notice is to be sent in respect of that person, then for the purposes of these Regulations—
 
@@ -504,7 +504,7 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (2) In this regulation “government department” includes a department of the government of the United Kingdom.
 
-### 28. Priority as between notices and orders requiring deduction from earnings[^key-98fad020c153b29956af359c0be2e1c9]
+### 28. Priority as between notices and orders requiring deduction from earnings[^c-98fad020c153b29956af359c0be2e1c9]
 
 (1) In this regulation—
 
@@ -530,13 +530,13 @@ that obligation is to be taken to be discharged by the amount of the deduction.
 
 (9) An employer may only make deductions under paragraph (4), (6) or (8) up to the extent that such deductions will result in the employer paying the liable person an amount equal to or greater than the protected earnings proportion.
 
-### 29. Offences[^key-07f78abc21ccaa3b6102e05d6a405947]
+### 29. Offences[^c-07f78abc21ccaa3b6102e05d6a405947]
 
 A person who fails to comply with any of the provisions of regulation 19(2), 21(1) or (3) or 22 is guilty of an offence punishable on summary conviction by a fine not exceeding level 3 on the standard scale.
 
 ## PART 7 — Consequential amendments and revocations
 
-### 30. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^key-6578ba1b8a382472e6edeca34b217b90]
+### 30. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^c-6578ba1b8a382472e6edeca34b217b90]
 
 In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00026] (benefits from which an award may be recovered) before paragraph (a) insert—
 
@@ -544,58 +544,58 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-### 31. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-ad3222e9f5945b06aa4bd76b8cfb737c][^key-3a6282655061ee586476ab46df391093]
+### 31. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-ad3222e9f5945b06aa4bd76b8cfb737c][^c-3a6282655061ee586476ab46df391093]
 
-(1)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00027], as they have effect otherwise than for the purposes of tax credits, are amended in accordance with paragraphs (2) to (9).
+(1)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00027], as they have effect otherwise than for the purposes of tax credits, are amended in accordance with paragraphs (2) to (9).
 
 (2) In regulation 1(2) (interpretation)—
 
-- (a)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] after the definition of “the 1998 Order” insert—
+- (a)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] after the definition of “the 1998 Order” insert—
 
   > - “the 2015 Order” means the Welfare Reform (Northern Ireland) Order 2015;
 
   ;
-- (b)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] in the definition of “benefit”[^f00028] after “state pension credit” insert “, personal independence payment”;
-- (c)[^key-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “disability working allowance”[^f00029] insert—
+- (b)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] in the definition of “benefit”[^f00028] after “state pension credit” insert “, personal independence payment”;
+- (c)[^c-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “disability working allowance”[^f00029] insert—
 
   > - “employment and support allowance” means, for the purposes of Parts III to VI, employment and support allowance under Part 1 of the Welfare Reform Act as that Part has effect apart from the amendments made by Schedule 3 and Part 1 of Schedule 12 to the 2015 Order that remove references to the an income-related allowance;
 
   ;
-- (d)[^key-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “Income Support Regulations” insert—
+- (d)[^c-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “Income Support Regulations” insert—
 
   > - “the Jobseekers Order” means the Jobseekers (Northern Ireland) Order 1995;
   > - “jobseeker’s allowance” means, for the purposes of Parts III to VI, jobseeker’s allowance under the Jobseekers Order as that Order has effect apart from the amendments made by Part 1 of Schedule 12 to the 2015 Order that remove references to an income-based allowance;
 
   ;
-- (e)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] after the definition of “the Jobseeker’s Allowance Regulations”[^f00030] insert—
+- (e)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] after the definition of “the Jobseeker’s Allowance Regulations”[^f00030] insert—
 
   > - “personal independence payment” means the allowance under Part 5 of the 2015 Order;
 
   and
-- (f)[^key-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “the State Pension Credit Regulations”[^f00031] insert—
+- (f)[^c-056615aa3d9cc4e032c63c15fa7d8497] after the definition of “the State Pension Credit Regulations”[^f00031] insert—
 
   > - “universal credit” means the benefit under Part 2 of the 2015 Order;
 
   .
 
-(3)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 5(2) (offsetting prior payment against subsequent award) in Case 2 after “another benefit” insert “or, as the case may be, universal credit”.
+(3)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 5(2) (offsetting prior payment against subsequent award) in Case 2 after “another benefit” insert “or, as the case may be, universal credit”.
 
 (4) In regulation 8 (duplication and prescribed payments)—
 
-- (a)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] in paragraph (1) after sub-paragraph (a) insert—
+- (a)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] in paragraph (1) after sub-paragraph (a) insert—
 
   > - (aa) any personal independence payment;
 
   ; and
-- (b)[^key-056615aa3d9cc4e032c63c15fa7d8497] in paragraph (2) after “income support,” insert “universal credit,”.
+- (b)[^c-056615aa3d9cc4e032c63c15fa7d8497] in paragraph (2) after “income support,” insert “universal credit,”.
 
-(5)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 11 (recovery of overpayments by automated or other direct credit transfer) before paragraph (1) insert—
+(5)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 11 (recovery of overpayments by automated or other direct credit transfer) before paragraph (1) insert—
 
 > (A1) This regulation applies only in respect of payments of benefit to which section 69 of the Administration Act applies.
 
 .
 
-(6)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] For regulation 13[^f00032] (sums to be deducted in calculating recoverable amounts) substitute—
+(6)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] For regulation 13[^f00032] (sums to be deducted in calculating recoverable amounts) substitute—
 
 > **13. Sums to be deducted in calculating recoverable amounts**
 >
@@ -620,14 +620,14 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-(7)[^key-3a6282655061ee586476ab46df391093][^key-056615aa3d9cc4e032c63c15fa7d8497] In regulation 15(2)[^f00033] (recovery by deduction from prescribed benefits) after sub-paragraph (f) add—
+(7)[^c-3a6282655061ee586476ab46df391093][^c-056615aa3d9cc4e032c63c15fa7d8497] In regulation 15(2)[^f00033] (recovery by deduction from prescribed benefits) after sub-paragraph (f) add—
 
 > - (g) any personal independence payment;
 > - (h) any universal credit.
 
 .
 
-(8)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 16 (limitations on deductions from prescribed benefits)—
+(8)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] In regulation 16 (limitations on deductions from prescribed benefits)—
 
 - (a) after paragraph (2) insert—
 
@@ -651,7 +651,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
   .
 
-(9)[^key-ad3222e9f5945b06aa4bd76b8cfb737c] After Part VIII (recovery by deductions from earnings following trade dispute) insert—
+(9)[^c-ad3222e9f5945b06aa4bd76b8cfb737c] After Part VIII (recovery by deductions from earnings following trade dispute) insert—
 
 > **PART VIIIA — Recovery by deduction from earnings: other cases**
 >
@@ -663,11 +663,11 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-### 32. Amendment of the Housing Benefit Regulations[^key-40edeb865c9545db4dd3acb5dd6271d5][^key-d9a5300690fa187dead3d1b88eb9dcf8]
+### 32. Amendment of the Housing Benefit Regulations[^c-40edeb865c9545db4dd3acb5dd6271d5][^c-d9a5300690fa187dead3d1b88eb9dcf8]
 
-(1)[^key-40edeb865c9545db4dd3acb5dd6271d5] The Housing Benefit Regulations (Northern Ireland) 2006[^f00036] are amended in accordance with paragraphs (2) and (3).
+(1)[^c-40edeb865c9545db4dd3acb5dd6271d5] The Housing Benefit Regulations (Northern Ireland) 2006[^f00036] are amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-d9a5300690fa187dead3d1b88eb9dcf8][^key-e9588b538446eb093a01340ba7349ff5] In regulation 102[^f00037] (recovery of overpayments from prescribed benefits)—
+(2)[^c-d9a5300690fa187dead3d1b88eb9dcf8][^c-e9588b538446eb093a01340ba7349ff5] In regulation 102[^f00037] (recovery of overpayments from prescribed benefits)—
 
 - (a) in paragraph (1) after sub-paragraph (f) add—
 
@@ -684,7 +684,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
     .
 
-(3)[^key-40edeb865c9545db4dd3acb5dd6271d5] After regulation 103 (prescribed benefits) insert—
+(3)[^c-40edeb865c9545db4dd3acb5dd6271d5] After regulation 103 (prescribed benefits) insert—
 
 > **103A. Recovery by deduction from earnings**
 >
@@ -694,11 +694,11 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-### 33. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-25247fc83c5233ded77a316994a6b558][^key-eab77dbe53f3c5835be1623aa6452fe4]
+### 33. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-25247fc83c5233ded77a316994a6b558][^c-eab77dbe53f3c5835be1623aa6452fe4]
 
-(1)[^key-25247fc83c5233ded77a316994a6b558] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00038] shall be amended in accordance with paragraphs (2) and (3).
+(1)[^c-25247fc83c5233ded77a316994a6b558] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00038] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-eab77dbe53f3c5835be1623aa6452fe4][^key-44aa593e92169743db404a300ca6b642] In regulation 83[^f00039] (recovery of overpayments from prescribed benefits)—
+(2)[^c-eab77dbe53f3c5835be1623aa6452fe4][^c-44aa593e92169743db404a300ca6b642] In regulation 83[^f00039] (recovery of overpayments from prescribed benefits)—
 
 - (a) in paragraph (1) after sub-paragraph (f) add—
 
@@ -715,7 +715,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
     .
 
-(3)[^key-25247fc83c5233ded77a316994a6b558] After regulation 83 insert—
+(3)[^c-25247fc83c5233ded77a316994a6b558] After regulation 83 insert—
 
 > **83A. Recovery by deduction from earnings**
 >
@@ -725,7 +725,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-### 34. Revocations[^key-7eae703259521d76ab49c9bcd484bb42]
+### 34. Revocations[^c-7eae703259521d76ab49c9bcd484bb42]
 
 Regulation 26(6)(c) of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003[^f00040], regulation 15(8) of the Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008[^f00041] and regulation 2(2) and (3)(a) of the Social Security (Recovery) (Amendment) Regulations (Northern Ireland) 2012[^f00042] are revoked.
 
@@ -737,7 +737,7 @@ Minister of State,
 
 Department for Work and Pensions
 
-## SCHEDULE[^key-1ee210874b279408c4b1706dc39a1cea]
+## SCHEDULE[^c-1ee210874b279408c4b1706dc39a1cea]
 
 Regulation 19(3) and (5)
 
@@ -878,11 +878,11 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I.1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-106a0e74cd5d567efb9f3942496d59ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/224/regulation/1) in operation at 20.6.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/a)
+[^c-106a0e74cd5d567efb9f3942496d59ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/224/regulation/1) in operation at 20.6.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/a)
 
 [^f00003]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216).
 
-[^key-af00894d8fd9c39a797252386142113f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/224/regulation/2) in operation at 20.6.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/a)
+[^c-af00894d8fd9c39a797252386142113f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/224/regulation/2) in operation at 20.6.2016, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/a)
 
 [^f00004]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).
 
@@ -890,37 +890,37 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00006]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-96ef8f153a30d25806896d177fe9b4c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/2/1) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [5](https://www.legislation.gov.uk/uksi/2017/781/article/5)
+[^c-96ef8f153a30d25806896d177fe9b4c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/2/1) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [5](https://www.legislation.gov.uk/uksi/2017/781/article/5)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-51bbc432c56c633192c14fda60c94029]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/224/regulation/3) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-51bbc432c56c633192c14fda60c94029]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/224/regulation/3) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00010]: Footnote: Section 69ZE is inserted by Article 109(1) of the Welfare Reform (Northern Ireland) Order 2015.
 
 [^f00011]: Footnote: Subsection (4) is substituted by Article 109(4)(a) of the Welfare Reform (Northern Ireland) Order 2015.
 
-[^key-fe071aff44a26198792038f6a4d30ae8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/224/regulation/4) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-fe071aff44a26198792038f6a4d30ae8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/224/regulation/4) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-95964c82189249005829d81c38f6d009]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/224/regulation/5) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-95964c82189249005829d81c38f6d009]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/224/regulation/5) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 1998 No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 11 was amended by paragraph 17 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999.
 
-[^key-e8e0cd1865b1dd10d62e704acceec8fd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/224/regulation/6) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-e8e0cd1865b1dd10d62e704acceec8fd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/224/regulation/6) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-a3b8d69e1004634a5f0c1be38d5819eb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/224/regulation/7) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-a3b8d69e1004634a5f0c1be38d5819eb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/224/regulation/7) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-d606df6dc757614db7129240419a841c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/224/regulation/8) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-d606df6dc757614db7129240419a841c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/224/regulation/8) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-095ff0fb682a8b7b87bd46e99365c33c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/224/regulation/9) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-095ff0fb682a8b7b87bd46e99365c33c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/224/regulation/9) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-50651b3372deb75a28133a7aaf594f45]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/224/regulation/10) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-50651b3372deb75a28133a7aaf594f45]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/224/regulation/10) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00013]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14).
 
 [^f00014]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5).
 
-[^key-187088df7f22acf33f3a4be2e227bbf2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/224/regulation/11) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-187088df7f22acf33f3a4be2e227bbf2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/224/regulation/11) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00015]: Footnote: Section 109A was inserted by Article 14 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 and amended by section 13 of the Social Security Fraud Act (Northern Ireland) 2001.
 
@@ -930,23 +930,23 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00018]: Footnote: See Article 46 of the Welfare Reform (Northern Ireland) Order 2015 for the definition of “joint claimants”.
 
-[^key-63169700eea5e9602afdb7fb3cb2c784]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/224/regulation/12) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-63169700eea5e9602afdb7fb3cb2c784]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/224/regulation/12) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00019]: Footnote: [S.R. 2016 No. 218](https://www.legislation.gov.uk/nisr/2016/218).
 
-[^key-1b4a1f0969b07fd496d69e379530f405]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/224/regulation/13) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-1b4a1f0969b07fd496d69e379530f405]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/224/regulation/13) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00020]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219).
 
-[^key-e166a3da5c11b5476cfba35d0406c9d8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/224/regulation/14) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-e166a3da5c11b5476cfba35d0406c9d8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/224/regulation/14) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00021]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); the definition of “benefit week” was substituted by regulation 3(2) of [S.R. 2009 No. 409](https://www.legislation.gov.uk/nisr/2009/409).
 
-[^key-e1ec22b100d5ff942b10ccdc50a0806d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/224/regulation/15) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-e1ec22b100d5ff942b10ccdc50a0806d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/224/regulation/15) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-d1d18d1287d7a6a8ea208ee8519b3c4c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/224/regulation/16) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-d1d18d1287d7a6a8ea208ee8519b3c4c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/224/regulation/16) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
-[^key-baa7e387c9909ebf9cdf1ba9556ebca9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/224/regulation/17) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-baa7e387c9909ebf9cdf1ba9556ebca9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/224/regulation/17) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
 [^f00022]: Footnote: Section 109B(4) is substituted by Article 109(4) of the Welfare Reform (Northern Ireland) Order 2015.
 
@@ -954,45 +954,45 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00024]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49).
 
-[^key-233582f9fcf6ac2370db1ccf54a4b8d3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/224/regulation/18) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-233582f9fcf6ac2370db1ccf54a4b8d3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/224/regulation/18) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-9903cc9b78aaf1c8a4a707e48c791d4b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/224/regulation/19) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-9903cc9b78aaf1c8a4a707e48c791d4b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/224/regulation/19) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-ab73abf8347b9c06b32e1658a306de27]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/224/regulation/20) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-ab73abf8347b9c06b32e1658a306de27]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/224/regulation/20) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-32c34071ca9d4fde95ee820205a8d222]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/224/regulation/21) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-32c34071ca9d4fde95ee820205a8d222]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/224/regulation/21) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-510af5b2e2187074deb253eeeb4fc0d4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/224/regulation/22) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-510af5b2e2187074deb253eeeb4fc0d4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/224/regulation/22) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-225fa6dbe58fe8f8475a86e1d18063d6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/224/regulation/23) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-225fa6dbe58fe8f8475a86e1d18063d6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/224/regulation/23) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-e613f17383523a91d71bdde548927411]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/224/regulation/24) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-e613f17383523a91d71bdde548927411]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/224/regulation/24) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-de0050e96eb1f3046d780b054c67bef0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/224/regulation/25) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-de0050e96eb1f3046d780b054c67bef0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/224/regulation/25) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-ade6e19b579576df7181179b5f06d731]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/224/regulation/26) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-ade6e19b579576df7181179b5f06d731]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/224/regulation/26) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-220829843fb8ca1e17046fdbd7f377f0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/224/regulation/27) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-220829843fb8ca1e17046fdbd7f377f0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/224/regulation/27) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-98fad020c153b29956af359c0be2e1c9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/224/regulation/28) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-98fad020c153b29956af359c0be2e1c9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/224/regulation/28) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
 [^f00025]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390).
 
-[^key-07f78abc21ccaa3b6102e05d6a405947]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/224/regulation/29) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-07f78abc21ccaa3b6102e05d6a405947]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/224/regulation/29) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
 
-[^key-6578ba1b8a382472e6edeca34b217b90]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/224/regulation/30) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-6578ba1b8a382472e6edeca34b217b90]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/224/regulation/30) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00026]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21); to which there are amendments not relevant to these Regulations.
 
-[^key-ad3222e9f5945b06aa4bd76b8cfb737c]: Commencement: [Reg. 31(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/a)[(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/b)[(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/e)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/3)[(4)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/4/a)[(5)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/5)[(6)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/6)[(8)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/8)[(9)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/9) in operation at 20.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/c)
+[^c-ad3222e9f5945b06aa4bd76b8cfb737c]: Commencement: [Reg. 31(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/a)[(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/b)[(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/e)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/3)[(4)(a)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/4/a)[(5)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/5)[(6)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/6)[(8)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/8)[(9)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/9) in operation at 20.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/c)
 
-[^key-3a6282655061ee586476ab46df391093]: Commencement: [Reg. 31(7)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/7) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/c)
+[^c-3a6282655061ee586476ab46df391093]: Commencement: [Reg. 31(7)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/7) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/c)
 
 [^f00027]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending Regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
 
 [^f00028]: Footnote: The definition of “benefit” was amended by regulation 4(2) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 21(2)(b) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), regulation 15(2)(a) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289), regulation 26(2)(a) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 15(2)(a) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286).
 
-[^key-056615aa3d9cc4e032c63c15fa7d8497]: Commencement: [Reg. 31(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/c)[(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/d)[(f)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/f)[(4)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/4/b)[(7)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/7) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-056615aa3d9cc4e032c63c15fa7d8497]: Commencement: [Reg. 31(2)(c)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/c)[(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/d)[(f)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/2/f)[(4)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/4/b)[(7)](https://www.legislation.gov.uk/nisr/2016/224/regulation/31/7) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00029]: Footnote: The definition of “disability working allowance” was inserted by regulation 14(2)(b) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6).
 
@@ -1008,27 +1008,27 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00035]: Footnote: Paragraph (5) was substituted by regulation 2(a) of [S.R. 2000 No. 266](https://www.legislation.gov.uk/nisr/2000/266) and amended by regulation 2(3) of [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
 
-[^key-40edeb865c9545db4dd3acb5dd6271d5]: Commencement: [Reg. 32(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/1)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/3) in operation at 20.6.2016, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d)
+[^c-40edeb865c9545db4dd3acb5dd6271d5]: Commencement: [Reg. 32(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/1)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/3) in operation at 20.6.2016, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d)
 
-[^key-d9a5300690fa187dead3d1b88eb9dcf8]: Commencement: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/2) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d)
+[^c-d9a5300690fa187dead3d1b88eb9dcf8]: Commencement: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/2) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d)
 
 [^f00036]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are S.R. 2008 Nos. [378](https://www.legislation.gov.uk/nisr/2008/378) and [504](https://www.legislation.gov.uk/nisr/2008/504).
 
-[^key-e9588b538446eb093a01340ba7349ff5]: Commencement: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/2) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-e9588b538446eb093a01340ba7349ff5]: Commencement: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/2) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00037]: Footnote: Regulation 102 was amended by regulation 3(16) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and regulation 2(4) of [S.R. 2008 No. 504](https://www.legislation.gov.uk/nisr/2008/504).
 
-[^key-25247fc83c5233ded77a316994a6b558]: Commencement: [Reg. 33(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/1)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/3) in operation at 20.6.2016, see [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e)
+[^c-25247fc83c5233ded77a316994a6b558]: Commencement: [Reg. 33(1)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/1)[(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/3) in operation at 20.6.2016, see [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e)
 
-[^key-eab77dbe53f3c5835be1623aa6452fe4]: Commencement: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/2) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e)
+[^c-eab77dbe53f3c5835be1623aa6452fe4]: Commencement: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/2) in operation at 20.6.2016 for specified purposes, see [reg. 1(2)(e)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/e)
 
 [^f00038]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are S.R. 2008 Nos. [378](https://www.legislation.gov.uk/nisr/2008/378) and [504](https://www.legislation.gov.uk/nisr/2008/504).
 
-[^key-44aa593e92169743db404a300ca6b642]: Commencement: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/2) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-44aa593e92169743db404a300ca6b642]: Commencement: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/224/regulation/33/2) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00039]: Footnote: Regulation 83 was amended by regulation 4(11) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and regulation 3(5) of [S.R. 2008 No. 504](https://www.legislation.gov.uk/nisr/2008/504).
 
-[^key-7eae703259521d76ab49c9bcd484bb42]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
+[^c-7eae703259521d76ab49c9bcd484bb42]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/224/regulation/34) comes into operation in accordance with reg. 1(3), see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/3)
 
 [^f00040]: Footnote: [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191).
 
@@ -1036,4 +1036,4 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00042]: Footnote: [S.R. 2012 No. 108](https://www.legislation.gov.uk/nisr/2012/108).
 
-[^key-1ee210874b279408c4b1706dc39a1cea]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2016/224/schedule) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)
+[^c-1ee210874b279408c4b1706dc39a1cea]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2016/224/schedule) in operation at 20.6.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Interpretation of Part 9[^key-71a56442be4aad25f24ffc26f68a7cc9]
+## 128. Interpretation of Part 9[^c-71a56442be4aad25f24ffc26f68a7cc9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, the “2005 Act” is the Charities and Trustee I
 
 ## Annotations
 
-[^key-71a56442be4aad25f24ffc26f68a7cc9]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2010/8/section/128) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-71a56442be4aad25f24ffc26f68a7cc9]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2010/8/section/128) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

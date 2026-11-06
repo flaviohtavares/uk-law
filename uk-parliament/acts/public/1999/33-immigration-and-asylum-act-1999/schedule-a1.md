@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Persons to whom section 20A applies[^key-5258b833e50bcbb7430f31569dc550df]
+## SCHEDULE A1 — Persons to whom section 20A applies[^c-5258b833e50bcbb7430f31569dc550df]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ Section 20A
 
 ### Regulatory bodies
 
-**17.**[^key-5bb1e950b61798d00ee95379dbb337fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-5bb1e950b61798d00ee95379dbb337fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** The Security Industry Authority.
 
@@ -124,6 +124,6 @@ Section 20A
 
 ## Annotations
 
-[^key-5258b833e50bcbb7430f31569dc550df]: Textual amendment: Sch. A1 inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/9); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/v)
+[^c-5258b833e50bcbb7430f31569dc550df]: Textual amendment: Sch. A1 inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/9); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/v)
 
-[^key-5bb1e950b61798d00ee95379dbb337fb]: Textual amendment: [Sch. A1 para. 17](https://www.legislation.gov.uk/ukpga/1999/33/schedule/A1/paragraph/17) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 70](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/70) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1/55/c)
+[^c-5bb1e950b61798d00ee95379dbb337fb]: Textual amendment: [Sch. A1 para. 17](https://www.legislation.gov.uk/ukpga/1999/33/schedule/A1/paragraph/17) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 70](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/70) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1/55/c)

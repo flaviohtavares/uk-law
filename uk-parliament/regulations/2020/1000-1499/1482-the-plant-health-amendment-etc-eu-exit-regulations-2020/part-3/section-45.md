@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Commission Implementing Regulation (EU) 2018/2018 laying down specific rules concerning the procedure to be followed in order to carry out the risk assessment of high risk plants, plant products and other objects within the meaning of Article 42(1) of Regulation (EU) 2016/2031 of the European Parliament and of the Council[^key-bfaf477bddfec10695ac71f760c0e85a]
+## 45. Commission Implementing Regulation (EU) 2018/2018 laying down specific rules concerning the procedure to be followed in order to carry out the risk assessment of high risk plants, plant products and other objects within the meaning of Article 42(1) of Regulation (EU) 2016/2031 of the European Parliament and of the Council[^c-bfaf477bddfec10695ac71f760c0e85a]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bfaf477bddfec10695ac71f760c0e85a]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-bfaf477bddfec10695ac71f760c0e85a]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375231]: Marginal citation: EUR 2018/2018.

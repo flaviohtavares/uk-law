@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Application of section 720 to insurers[^key-80c7607772aae1177ff3c25bd495d9b9]
+## 27. Application of section 720 to insurers[^c-80c7607772aae1177ff3c25bd495d9b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80c7607772aae1177ff3c25bd495d9b9]: Commencement: Art. 27 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-80c7607772aae1177ff3c25bd495d9b9]: Commencement: Art. 27 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

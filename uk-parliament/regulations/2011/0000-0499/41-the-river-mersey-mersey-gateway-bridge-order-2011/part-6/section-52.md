@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Removal of vessels[^key-f6120150fa913db12d5259b9501375f4]
+## 52. Removal of vessels[^c-f6120150fa913db12d5259b9501375f4]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ either to another place within the new crossing area or to a place outside the n
 
 ## Annotations
 
-[^key-f6120150fa913db12d5259b9501375f4]: Commencement: Art. 52 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-f6120150fa913db12d5259b9501375f4]: Commencement: Art. 52 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

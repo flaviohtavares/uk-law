@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Amendments relating to students becoming eligible in the course of an academic year[^key-132db9a5365247e69cf48b574ca89337]
+## 117. Amendments relating to students becoming eligible in the course of an academic year[^c-132db9a5365247e69cf48b574ca89337]
 
 *Extent: E+W*
 
@@ -53,10 +53,10 @@ For regulation 7 (other than the heading) (students becoming eligible in the cou
 
 .
 
-**118.**[^key-abaf327247afb76e93b27eca9a486a25] Omit regulation 8 (events).
+**118.**[^c-abaf327247afb76e93b27eca9a486a25] Omit regulation 8 (events).
 
 ## Annotations
 
-[^key-132db9a5365247e69cf48b574ca89337]: Commencement: Reg. 117 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-132db9a5365247e69cf48b574ca89337]: Commencement: Reg. 117 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-abaf327247afb76e93b27eca9a486a25]: Commencement: Reg. 118 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-abaf327247afb76e93b27eca9a486a25]: Commencement: Reg. 118 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

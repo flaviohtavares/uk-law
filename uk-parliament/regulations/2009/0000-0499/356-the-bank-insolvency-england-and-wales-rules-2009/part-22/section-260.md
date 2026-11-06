@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 260. Power of Secretary of State or Treasury to regulate certain matters[^key-c79560e9351d26ce06d5b49518bb2bcf]
+## 260. Power of Secretary of State or Treasury to regulate certain matters[^c-c79560e9351d26ce06d5b49518bb2bcf]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) the manner in which bank liquidators are to act in relation to the bank’s books, papers and other records, and the manner of their disposal by the bank liquidator or others;
 - (d) the supply by the bank liquidator to creditors and contributories and to the liquidation committee of copies of documents relating to the bank insolvency and the affairs of the bank (on payment, in such cases as may be specified in the regulations, of a fee.);
 - (e) the manner in which insolvent estates are to be distributed by the bank liquidator, including provision with respect to unclaimed funds and dividends;
-- (f) the manner in which monies coming into the hands of the bank liquidator are to be handled and invested and the payment of interest on sums which, in pursuance of regulations made under this sub-paragraph, have been paid into the Insolvency Services Account .[^key-4e03d84a3ee65b0a6dd98ff29023d912]
+- (f) the manner in which monies coming into the hands of the bank liquidator are to be handled and invested and the payment of interest on sums which, in pursuance of regulations made under this sub-paragraph, have been paid into the Insolvency Services Account .[^c-4e03d84a3ee65b0a6dd98ff29023d912]
 
 (2) Regulations made under paragraph (1) may—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c79560e9351d26ce06d5b49518bb2bcf]: Commencement: Rule 260 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c79560e9351d26ce06d5b49518bb2bcf]: Commencement: Rule 260 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00087]: Footnote: Schedule 8 was amended by section 125 of the 2009 Act.
 
-[^key-4e03d84a3ee65b0a6dd98ff29023d912]: Textual amendment: Full stop in [rule 260(1)](https://www.legislation.gov.uk/uksi/2009/356/rule/260/1) substituted for semicolon (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [76](https://www.legislation.gov.uk/uksi/2010/2579/rule/76)
+[^c-4e03d84a3ee65b0a6dd98ff29023d912]: Textual amendment: Full stop in [rule 260(1)](https://www.legislation.gov.uk/uksi/2009/356/rule/260/1) substituted for semicolon (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [76](https://www.legislation.gov.uk/uksi/2010/2579/rule/76)

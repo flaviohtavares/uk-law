@@ -40,21 +40,21 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### 1. Dissolution of National Health Service trusts: modification of enactments
 
-(1)[^key-845dd59179a953551a7367a1fa52f767] In the National Health Service (Scotland) Act 1978 (c. 29) (referred to in this Act as “**the 1978 Act**”), section 12A and Schedule 7A (establishment, functions, dissolution etc. of National Health Service trusts) are repealed.
+(1)[^c-845dd59179a953551a7367a1fa52f767] In the National Health Service (Scotland) Act 1978 (c. 29) (referred to in this Act as “**the 1978 Act**”), section 12A and Schedule 7A (establishment, functions, dissolution etc. of National Health Service trusts) are repealed.
 
-(2)[^key-a805b26febefd178a9f0679c311444b1] In section 82 of the 1978 Act, after subsection (2A) insert—
+(2)[^c-a805b26febefd178a9f0679c311444b1] In section 82 of the 1978 Act, after subsection (2A) insert—
 
 > (2B) All endowments and property held in trust transferred to a Health Board by an order under paragraph 26 of Schedule 7A (whenever made) are held by the Health Board free of any trust existing immediately before the transfer (hereafter in this section referred to in relation to any such endowment or property as “the original trust”); but all such endowments and property shall be held by the Health Board on trust for such purposes relating to services provided under this Act, or to the functions of the Board with respect to research, as the Board may think fit.
 
-(3)[^key-a805b26febefd178a9f0679c311444b1] Until the coming into force of subsection (1) so far as repealing Schedule 7A to the 1978 Act, paragraph 26 of that Schedule has effect with the insertion after sub-paragraph (1) of the following sub-paragraph—
+(3)[^c-a805b26febefd178a9f0679c311444b1] Until the coming into force of subsection (1) so far as repealing Schedule 7A to the 1978 Act, paragraph 26 of that Schedule has effect with the insertion after sub-paragraph (1) of the following sub-paragraph—
 
 > (1A) For the avoidance of doubt, the reference to “property, rights and liabilities” in sub-paragraph (1) includes endowments and property held in trust.
 
-#### 2. Community health partnerships[^key-581e36e69f05f8617df42a6ab7b05dd1]
+#### 2. Community health partnerships[^c-581e36e69f05f8617df42a6ab7b05dd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Duty in relation to governance of staff[^key-5742470e57358a6e0c5131725740ddee]
+#### 3. Duty in relation to governance of staff[^c-5742470e57358a6e0c5131725740ddee]
 
 After section 12H of the 1978 Act insert—
 
@@ -68,7 +68,7 @@ After section 12H of the 1978 Act insert—
 
 ### Equal opportunities
 
-#### 4. Equal opportunities[^key-a3a930033fe92ce37f983e5f8310acb1]
+#### 4. Equal opportunities[^c-a3a930033fe92ce37f983e5f8310acb1]
 
 After section 2C of the 1978 Act insert—
 
@@ -80,7 +80,7 @@ After section 2C of the 1978 Act insert—
 
 ### Co-operation
 
-#### 5. Health Boards: duty of co-operation[^key-5d9bdd2c1352e07f02cb7fe0dc17de6f]
+#### 5. Health Boards: duty of co-operation[^c-5d9bdd2c1352e07f02cb7fe0dc17de6f]
 
 Before section 13 of the 1978 Act insert—
 
@@ -102,7 +102,7 @@ Before section 13 of the 1978 Act insert—
 
 ### Powers of intervention
 
-#### 6. Powers of intervention in case of service failure[^key-399bd6e44c38dafde3f839fe787d35ee]
+#### 6. Powers of intervention in case of service failure[^c-399bd6e44c38dafde3f839fe787d35ee]
 
 After section 78 of the 1978 Act insert—
 
@@ -152,7 +152,7 @@ After section 78 of the 1978 Act insert—
 
 ### Public involvement
 
-#### 7. Public involvement[^key-5c9592d89df084479eedcf00e7c64b3e]
+#### 7. Public involvement[^c-5c9592d89df084479eedcf00e7c64b3e]
 
 After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 
@@ -178,7 +178,7 @@ After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 >   - (i) the body, or
 >   - (ii) another person on the body's behalf, at the body's direction or in accordance with an agreement made by the body with that other person.
 
-#### 8. Dissolution of local health councils[^key-e0f8ea74ecf96d9ae604d4c8840aadd6]
+#### 8. Dissolution of local health councils[^c-e0f8ea74ecf96d9ae604d4c8840aadd6]
 
 (1) Local health councils established by virtue of section 7 of the 1978 Act are dissolved on such date as the Scottish Ministers may by order made by statutory instrument specify.
 
@@ -186,7 +186,7 @@ After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 
 ## Part 2 — Promotion of health improvement
 
-### 9. Duty to promote health improvement[^key-73fd876db47c712e9eddc3b48513badc]
+### 9. Duty to promote health improvement[^c-73fd876db47c712e9eddc3b48513badc]
 
 (1) After section 1 of the 1978 Act insert—
 
@@ -240,7 +240,7 @@ After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 
 ### 11. Modification of enactments
 
-(1)[^key-71cace4132f27ba6958a6cbf8bb15533][^key-22861c554adaef540c236281dadd008d] Schedule 1 contains minor amendments and amendments consequential on the provisions of this Act.
+(1)[^c-71cace4132f27ba6958a6cbf8bb15533][^c-22861c554adaef540c236281dadd008d] Schedule 1 contains minor amendments and amendments consequential on the provisions of this Act.
 
 (2) The enactments specified in column 1 of schedule 2 are repealed to the extent specified in column 2.
 
@@ -258,20 +258,20 @@ After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 
 ### National Health Service (Scotland) Act 1978 (c. 29)
 
-**1.** (1)[^key-ce817bbec3b81b4ed5158ba05a8f0da0] The 1978 Act is amended as follows.
+**1.** (1)[^c-ce817bbec3b81b4ed5158ba05a8f0da0] The 1978 Act is amended as follows.
 
-(2)[^key-ce817bbec3b81b4ed5158ba05a8f0da0] In section 2 (constitution of Health Boards and Special Health Boards)—
+(2)[^c-ce817bbec3b81b4ed5158ba05a8f0da0] In section 2 (constitution of Health Boards and Special Health Boards)—
 
 - (a) in subsection (1)(a), after “shall”, where it second occurs, insert “ , without prejudice to subsection (1B), ”,
 - (b) in subsection (1B), for “(1)(b)” substitute “ (1) ”.
 
-(3)[^key-ce817bbec3b81b4ed5158ba05a8f0da0] In section 2C(4) (co-operation in discharging of functions to provide primary medical services), for “section” substitute “ sections 12J and ”.
+(3)[^c-ce817bbec3b81b4ed5158ba05a8f0da0] In section 2C(4) (co-operation in discharging of functions to provide primary medical services), for “section” substitute “ sections 12J and ”.
 
 (4) In section 12H(1) (duty of quality), for “, Special Health Board and NHS trust” substitute “ and Special Health Board ”.
 
 (5) In section 75A (remission and repayment of charges and payment of travelling expenses), in subsection (2), for “, (c) or (d)” substitute “ or (c) ”.
 
-(6)[^key-ce817bbec3b81b4ed5158ba05a8f0da0] In section 79 (acquisition, use and disposal of land and moveable property), after subsection (2) insert—
+(6)[^c-ce817bbec3b81b4ed5158ba05a8f0da0] In section 79 (acquisition, use and disposal of land and moveable property), after subsection (2) insert—
 
 > (2A) For the avoidance of doubt, the power to use heritable property conferred by subsection (1), and the power to dispose of land conferred by subsection (1A), include power to let the property or, as the case may be, land.
 
@@ -287,7 +287,7 @@ After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 
 ### National Health Service (Private Finance) Act 1997 (c. 56)
 
-**2.**[^key-b412a90897db44e725cd10200eebd0f6] In section 1 (power of NHS trusts to enter into agreements) of the National Health Service (Private Finance) Act 1997 (c. 56)—
+**2.**[^c-b412a90897db44e725cd10200eebd0f6] In section 1 (power of NHS trusts to enter into agreements) of the National Health Service (Private Finance) Act 1997 (c. 56)—
 
 - (a) in subsection (1), for “National Health Service trust” substitute “Health Board, a Special Health Board and the Common Services Agency for the Scottish Health Service (“**the Agency**”) to enter into contracts“,
 - (b) in each of subsections (3)(a) and (5), for “trust” substitute “ Board or, as the case may be, the Agency ”,
@@ -337,30 +337,30 @@ After section 2A of the 1978 Act (inserted by section 9(2)) insert—
 
 ## Annotations
 
-[^key-845dd59179a953551a7367a1fa52f767]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2004/7/section/1/1) in force for specified purposes at 1.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/a/i)
+[^c-845dd59179a953551a7367a1fa52f767]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2004/7/section/1/1) in force for specified purposes at 1.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/a/i)
 
-[^key-a805b26febefd178a9f0679c311444b1]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asp/2004/7/section/1/2)[(3)](https://www.legislation.gov.uk/asp/2004/7/section/1/3) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
+[^c-a805b26febefd178a9f0679c311444b1]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asp/2004/7/section/1/2)[(3)](https://www.legislation.gov.uk/asp/2004/7/section/1/3) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-581e36e69f05f8617df42a6ab7b05dd1]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2004/7/section/2) repealed (1.4.2015) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 71(4)](https://www.legislation.gov.uk/asp/2014/9/section/71/4), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 3](https://www.legislation.gov.uk/ssi/2014/231/article/3)
+[^c-581e36e69f05f8617df42a6ab7b05dd1]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2004/7/section/2) repealed (1.4.2015) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 71(4)](https://www.legislation.gov.uk/asp/2014/9/section/71/4), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 3](https://www.legislation.gov.uk/ssi/2014/231/article/3)
 
-[^key-5742470e57358a6e0c5131725740ddee]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/7/section/3) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
+[^c-5742470e57358a6e0c5131725740ddee]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/7/section/3) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-a3a930033fe92ce37f983e5f8310acb1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/7/section/4) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
+[^c-a3a930033fe92ce37f983e5f8310acb1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/7/section/4) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-5d9bdd2c1352e07f02cb7fe0dc17de6f]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/7/section/5) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
+[^c-5d9bdd2c1352e07f02cb7fe0dc17de6f]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/7/section/5) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-399bd6e44c38dafde3f839fe787d35ee]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/7/section/6) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
+[^c-399bd6e44c38dafde3f839fe787d35ee]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/7/section/6) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-5c9592d89df084479eedcf00e7c64b3e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2004/7/section/7) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
+[^c-5c9592d89df084479eedcf00e7c64b3e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2004/7/section/7) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-e0f8ea74ecf96d9ae604d4c8840aadd6]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/7/section/8) in force at 1.2.2005 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(d)](https://www.legislation.gov.uk/ssi/2004/361/article/2/d)
+[^c-e0f8ea74ecf96d9ae604d4c8840aadd6]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/7/section/8) in force at 1.2.2005 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(d)](https://www.legislation.gov.uk/ssi/2004/361/article/2/d)
 
-[^key-73fd876db47c712e9eddc3b48513badc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/7/section/9) in force at 1.1.2005 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/361/article/2/c)
+[^c-73fd876db47c712e9eddc3b48513badc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2004/7/section/9) in force at 1.1.2005 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/361/article/2/c)
 
-[^key-71cace4132f27ba6958a6cbf8bb15533]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2004/7/section/11/1) in force for specified purposes at 30.7.2004 by [S.S.I. 2004/335](https://www.legislation.gov.uk/ssi/2004/335), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/335/article/2/a)
+[^c-71cace4132f27ba6958a6cbf8bb15533]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2004/7/section/11/1) in force for specified purposes at 30.7.2004 by [S.S.I. 2004/335](https://www.legislation.gov.uk/ssi/2004/335), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/335/article/2/a)
 
-[^key-22861c554adaef540c236281dadd008d]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2004/7/section/11/1) in force for specified purposes at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(iii)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/iii)
+[^c-22861c554adaef540c236281dadd008d]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2004/7/section/11/1) in force for specified purposes at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(iii)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/iii)
 
-[^key-ce817bbec3b81b4ed5158ba05a8f0da0]: Commencement: [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/2)[(3)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/3)[(6)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/6) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(iv)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/iv)
+[^c-ce817bbec3b81b4ed5158ba05a8f0da0]: Commencement: [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/2)[(3)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/3)[(6)](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/1/6) in force at 30.9.2004 by [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(iv)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/iv)
 
-[^key-b412a90897db44e725cd10200eebd0f6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/2) in force at 30.7.2004 by [S.S.I. 2004/335](https://www.legislation.gov.uk/ssi/2004/335), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/335/article/2/b)
+[^c-b412a90897db44e725cd10200eebd0f6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2004/7/schedule/1/paragraph/2) in force at 30.7.2004 by [S.S.I. 2004/335](https://www.legislation.gov.uk/ssi/2004/335), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/335/article/2/b)

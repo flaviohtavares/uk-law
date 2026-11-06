@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 976. Arrangements for payments of interest less tax or at specified net rate[^key-cd30a7bca5d4c6619cdad489eac9d258]
+## 976. Arrangements for payments of interest less tax or at specified net rate[^c-cd30a7bca5d4c6619cdad489eac9d258]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ summary: ''
 (6) This subsection applies to—
 
 - (a) interest on which the recipient is chargeable to income tax, which falls within Chapter 2 of Part 4 of ITTOIA 2005 but which is not relevant foreign income, or
-- (b)[^key-07ce5233f1cfa00046bf5f859f67aca0] interest which is required to be brought into account under Part 5 of CTA 2009 (loan relationships) as a non-trading credit of the recipient.
+- (b)[^c-07ce5233f1cfa00046bf5f859f67aca0] interest which is required to be brought into account under Part 5 of CTA 2009 (loan relationships) as a non-trading credit of the recipient.
 
 ## Annotations
 
-[^key-cd30a7bca5d4c6619cdad489eac9d258]: Modification: Pt. 15 modified (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 551(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/551/4), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/78))
+[^c-cd30a7bca5d4c6619cdad489eac9d258]: Modification: Pt. 15 modified (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [ss. 551(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/551/4), [1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/78))
 
-[^key-07ce5233f1cfa00046bf5f859f67aca0]: Textual amendment: S. 976(6)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 717](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/717) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-07ce5233f1cfa00046bf5f859f67aca0]: Textual amendment: S. 976(6)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 717](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/717) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

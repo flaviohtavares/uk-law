@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Functions of the Panel[^key-9c507429cbd9b330dcc0094a323abae2][^key-7c2674f68c38fb7aa6c1ba7df9a2af1d]
+## 13. Functions of the Panel[^c-9c507429cbd9b330dcc0094a323abae2][^c-7c2674f68c38fb7aa6c1ba7df9a2af1d]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ In the Children Act 2004, after section 16A (inserted by section 12), insert—
 
 ## Annotations
 
-[^key-9c507429cbd9b330dcc0094a323abae2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/16/section/13) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/a)
+[^c-9c507429cbd9b330dcc0094a323abae2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/16/section/13) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/a)
 
-[^key-7c2674f68c38fb7aa6c1ba7df9a2af1d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/16/section/13) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/b)
+[^c-7c2674f68c38fb7aa6c1ba7df9a2af1d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/16/section/13) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/b)

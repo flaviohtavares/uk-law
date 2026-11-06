@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Community right to buy: registration of interest in large land holding[^key-c2eb5fd64b0841f8d451ccd0fa0a3c34]
+## 2. Community right to buy: registration of interest in large land holding[^c-c2eb5fd64b0841f8d451ccd0fa0a3c34]
 
 *Extent: S*
 
@@ -277,4 +277,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2eb5fd64b0841f8d451ccd0fa0a3c34]: Commencement: S. 2 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-c2eb5fd64b0841f8d451ccd0fa0a3c34]: Commencement: S. 2 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

@@ -31,7 +31,7 @@ summary: ''
 - “**enactment**” has the same meaning as in the Act of 1997[^c1424140];
 - “[^c1424141] **footway** ” has the same meaning as in the Roads (Scotland) Act 1984;
 - “**function**” includes power and duty;
-- “**interest**”, in relation to land, includes any right over land, whether the right is exercisable by virtue of ownership[^key-3d221ee7241d2e610c5f89923ac1f4d6] or by virtue of a licence or agreement, and in particular includes sporting and fishing rights;
+- “**interest**”, in relation to land, includes any right over land, whether the right is exercisable by virtue of ownership[^c-3d221ee7241d2e610c5f89923ac1f4d6] or by virtue of a licence or agreement, and in particular includes sporting and fishing rights;
 - “**land**” includes land covered by water and, in relation to the acquisition or disposal of land by virtue of this Act, any right or interest in or over land;
 - “**livestock rearing land**” has the meaning assigned to it by section 1(3) of the [^c1424142]Livestock Rearing Act 1951;
 - “**local authority**” means a[^c1424143] council constituted under section 2 of the Local Government[^c1424144] etc. (Scotland) Act 1994;
@@ -40,7 +40,7 @@ summary: ''
 - “**owner**”, in relation to land, means the person who, for the time being, receives, or, if the land were let, would be entitled to receive the rent of the land, or who, in the case of land which is unlet, is entitled to occupy the land, and includes any trustee, tutor, curator, factor, agent or other person receiving the rent on behalf of any other person, and also a joint owner;
 - “**prescribed**” means prescribed by regulations made by statutory instrument by the Secretary of State subject to annulment in pursuance of a resolution of either House of Parliament;
 - “**public body**” includes any local authority, local planning authority or statutory undertaker, and any trustees, commissioners, board or other persons who as a public body and not for their own profit act under any enactment for the improvement of any place or the production or supply of any commodity or service;
-- “[^c1424147] **refreshments** ” includes alcohol within the meaning of section 2 of the Licensing (Scotland) Act 2005 (asp 16)[^key-5481144057650c098ae0f69b8458280a];
+- “[^c1424147] **refreshments** ” includes alcohol within the meaning of section 2 of the Licensing (Scotland) Act 2005 (asp 16)[^c-5481144057650c098ae0f69b8458280a];
 - “[^c1424149] **road** ” has the same meaning as in the Roads (Scotland) Act 1984;
 
   “**statutory undertakers**” and “**statutory undertaking**” have the meanings assigned to them by section 217 of the Act of 1997[^c1424150];
@@ -67,7 +67,7 @@ summary: ''
 
 [^c1424141]: Textual amendment: Definition inserted by [Roads (Scotland) Act 1984 (c. 54, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1984/54), [Sch. 9 para. 60(6)(a)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/60/6/a)
 
-[^key-3d221ee7241d2e610c5f89923ac1f4d6]: Textual amendment: Word in s. 78(1) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 28(7)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/28/7) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-3d221ee7241d2e610c5f89923ac1f4d6]: Textual amendment: Word in s. 78(1) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 28(7)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/28/7) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c1424142]: Marginal citation: [1951 c. 18](https://www.legislation.gov.uk/ukpga/1951/18).
 
@@ -81,7 +81,7 @@ summary: ''
 
 [^c1424147]: Textual amendment: Definition substituted by [Licensing (Scotland) Act 1976 (c. 66)](https://www.legislation.gov.uk/ukpga/1976/66), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/1976/66/schedule/7/paragraph/6)
 
-[^key-5481144057650c098ae0f69b8458280a]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/ukpga/1967/86/section/78/1) substituted (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2005/16/schedule/6/paragraph/2) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-5481144057650c098ae0f69b8458280a]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/ukpga/1967/86/section/78/1) substituted (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2005/16/schedule/6/paragraph/2) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c1424149]: Textual amendment: Definition substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1984/54), [Sch. 9 para. 60(6)(b)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/60/6/b)
 

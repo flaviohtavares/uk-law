@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Supply of customer data[^key-8bd74cdd4af2d9ca9f26a67c3b0370f1]
+## 89. Supply of customer data[^c-8bd74cdd4af2d9ca9f26a67c3b0370f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd74cdd4af2d9ca9f26a67c3b0370f1]: Textual amendment: [Ss. 89-91](https://www.legislation.gov.uk/ukpga/2013/24/section/89) omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 24](https://www.legislation.gov.uk/ukpga/2025/18/section/24), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-8bd74cdd4af2d9ca9f26a67c3b0370f1]: Textual amendment: [Ss. 89-91](https://www.legislation.gov.uk/ukpga/2013/24/section/89) omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 24](https://www.legislation.gov.uk/ukpga/2025/18/section/24), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

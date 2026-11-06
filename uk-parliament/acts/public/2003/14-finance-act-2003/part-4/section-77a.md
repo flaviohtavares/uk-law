@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77A. Exceptions for certain acquisitions of major interests in land[^key-839c1f52271025a15983ac691425d035]
+## 77A. Exceptions for certain acquisitions of major interests in land[^c-839c1f52271025a15983ac691425d035]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (2) Chargeable consideration for an acquisition does not exceed the zero rate threshold if it does not consist of or include—
 
-- (a) any amount in respect of which tax is chargeable at a rate of more than 0%[^key-92cb316952ea1b6024bd7009bcc7fc79], or
+- (a) any amount in respect of which tax is chargeable at a rate of more than 0%[^c-92cb316952ea1b6024bd7009bcc7fc79], or
 - (b) any amount in respect of which tax would be so chargeable but for a relief.
 
 (3) In this section—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-839c1f52271025a15983ac691425d035]: Textual amendment: Ss. 77, 77A substituted for s. 77 (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 94(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/94/2)
+[^c-839c1f52271025a15983ac691425d035]: Textual amendment: Ss. 77, 77A substituted for s. 77 (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 94(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/94/2)
 
-[^key-92cb316952ea1b6024bd7009bcc7fc79]: Textual amendment: Words in s. 77A(2)(a) substituted (with effect in accordance with s. 2(2) of the amending Act) by [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/10) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
+[^c-92cb316952ea1b6024bd7009bcc7fc79]: Textual amendment: Words in s. 77A(2)(a) substituted (with effect in accordance with s. 2(2) of the amending Act) by [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/10) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))

@@ -23,8 +23,8 @@ summary: ''
 (1) This section applies to—
 
 - (a)[^c10232961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) any notice or other document required or authorised to be given or served under Part II of this Act; [^key-8fe34dceb71e512445dd242e87f9cc61]...
-- (c)[^key-8fe34dceb71e512445dd242e87f9cc61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any notice or other document required or authorised to be given or served under Part II of this Act; [^c-8fe34dceb71e512445dd242e87f9cc61]...
+- (c)[^c-8fe34dceb71e512445dd242e87f9cc61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A document to which this section applies may be served on or given to a person (other than a body corporate)—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c10232961]: Textual amendment: S. 76(1)(a) repealed (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1993/10/schedule/7)
 
-[^key-8fe34dceb71e512445dd242e87f9cc61]: Textual amendment: S. 76(1)(c) and word repealed (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 92](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/92), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-8fe34dceb71e512445dd242e87f9cc61]: Textual amendment: S. 76(1)(c) and word repealed (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 92](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/92), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)

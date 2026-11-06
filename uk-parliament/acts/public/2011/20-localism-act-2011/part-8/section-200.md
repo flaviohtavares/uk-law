@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Transfers of property etc to a Mayoral development corporation[^key-3375e98e1835a6eefd480721b74ed6ec][^key-f91fb68bfa381e4512559dd53f5fda40][^key-eada4f88f4769f792731d2fc31c590a2][^key-ff9972770fbc68d9022c1923bea95cf9][^key-250b381cc6b3a829195738e959b9cac8][^key-3375e98e1835a6eefd480721b74ed6ec]
+## 200. Transfers of property etc to a Mayoral development corporation[^c-3375e98e1835a6eefd480721b74ed6ec][^c-f91fb68bfa381e4512559dd53f5fda40][^c-eada4f88f4769f792731d2fc31c590a2][^c-ff9972770fbc68d9022c1923bea95cf9][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 
 *Extent: E+W*
 
-[^key-eada4f88f4769f792731d2fc31c590a2][^key-250b381cc6b3a829195738e959b9cac8][^key-1f33aaa1bfaaf2324ee23081679fe3cb][^key-548922647a36fd8f18f9c9731a0d9de8]
+[^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8][^c-1f33aaa1bfaaf2324ee23081679fe3cb][^c-548922647a36fd8f18f9c9731a0d9de8]
 
 (1) The Secretary of State may at any time make a scheme transferring to an MDC property, rights and liabilities of an eligible transferor[^M_F_8a1a0862-8b2e-4f34-ed7e-e16d1f43d899].
 
@@ -52,9 +52,9 @@ summary: ''
 - (c) the Homes and Communities Agency,
 - (d) a development corporation established under the New Towns Act 1981 for a new town all or part of whose area is in the strategic authority area[^M_F_74bec24c-88f1-44d3-d87a-60c363c479ce],
 - (e) an urban development corporation for an urban development area all or part of which is in the strategic authority area[^M_F_282ebe21-4dda-4bee-a893-0dac37a3ee0b],
-- (f)[^key-dc5daf9898e022a322c50d81ac05eebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-dc5daf9898e022a322c50d81ac05eebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-dc5daf9898e022a322c50d81ac05eebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-dc5daf9898e022a322c50d81ac05eebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-dc5daf9898e022a322c50d81ac05eebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-dc5daf9898e022a322c50d81ac05eebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) a Minister of the Crown or a government department,
 - (j) any company all the shares in which are held by a Minister of the Crown, or
 - (k)[^M_F_2b69414f-2dba-4a2f-d9cb-8ecd58a08f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -76,15 +76,15 @@ summary: ''
 
 (6) The Secretary of State may by order specify another person, or a description of other persons, from whom property, rights or liabilities may be transferred under subsection (1) or (4).
 
-(7)[^key-4692cadeea90b746530536b16e41bf3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4692cadeea90b746530536b16e41bf3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-4692cadeea90b746530536b16e41bf3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4692cadeea90b746530536b16e41bf3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In subsection (4)(c) or (4A)(b)[^M_F_02d54f1f-13e3-4afd-bcb7-b8bdf2a5865c]—
 
 - “**company**” means—
   - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
-  - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^key-45fa0bfab6ddeece5ff9e1eb3f18c253] the Industrial and Provident Societies Act (Northern Ireland) 1969, and
+  - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^c-45fa0bfab6ddeece5ff9e1eb3f18c253] the Industrial and Provident Societies Act (Northern Ireland) 1969, and
 - “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
 
 (10) In this section—
@@ -96,19 +96,19 @@ summary: ''
 
 ## Annotations
 
-[^key-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
+[^c-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
 
-[^key-f91fb68bfa381e4512559dd53f5fda40]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/2011/20/section/200): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1432/article/10)
+[^c-f91fb68bfa381e4512559dd53f5fda40]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/2011/20/section/200): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1432/article/10)
 
-[^key-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-ff9972770fbc68d9022c1923bea95cf9]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/2011/20/section/200): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1)
+[^c-ff9972770fbc68d9022c1923bea95cf9]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/2011/20/section/200): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1)
 
-[^key-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-1f33aaa1bfaaf2324ee23081679fe3cb]: Modification: [Pt. 8 Ch. 2](https://www.legislation.gov.uk/ukpga/2011/20/part/8/chapter/2) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2025/113/article/19/2)[(3)](https://www.legislation.gov.uk/uksi/2025/113/article/19/3), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/113/schedule/4/paragraph/2)
+[^c-1f33aaa1bfaaf2324ee23081679fe3cb]: Modification: [Pt. 8 Ch. 2](https://www.legislation.gov.uk/ukpga/2011/20/part/8/chapter/2) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2025/113/article/19/2)[(3)](https://www.legislation.gov.uk/uksi/2025/113/article/19/3), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/113/schedule/4/paragraph/2)
 
-[^key-548922647a36fd8f18f9c9731a0d9de8]: Modification: [Pt. 8 Ch. 2](https://www.legislation.gov.uk/ukpga/2011/20/part/8/chapter/2) applied (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2025/117/regulation/11/1)[(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/117/schedule/3)
+[^c-548922647a36fd8f18f9c9731a0d9de8]: Modification: [Pt. 8 Ch. 2](https://www.legislation.gov.uk/ukpga/2011/20/part/8/chapter/2) applied (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2025/117/regulation/11/1)[(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/117/schedule/3)
 
 [^M_F_8a1a0862-8b2e-4f34-ed7e-e16d1f43d899]: Textual amendment: Words in s. 200(1) substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 6(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/6/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
@@ -120,7 +120,7 @@ summary: ''
 
 [^M_F_282ebe21-4dda-4bee-a893-0dac37a3ee0b]: Textual amendment: Words in s. 200(3)(e) substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 6(4)(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/6/4/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-dc5daf9898e022a322c50d81ac05eebb]: Textual amendment: S. 200(3)(f)-(h) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/16/a/i)
+[^c-dc5daf9898e022a322c50d81ac05eebb]: Textual amendment: S. 200(3)(f)-(h) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/16/a/i)
 
 [^M_F_2b69414f-2dba-4a2f-d9cb-8ecd58a08f96]: Textual amendment: S. 200(3)(k) omitted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 6(4)(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/6/4/c) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
@@ -128,8 +128,8 @@ summary: ''
 
 [^M_F_cc6c9e4c-0cca-48cd-e9dc-a91d349bac13]: Textual amendment: S. 200(4A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 6(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/6/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-4692cadeea90b746530536b16e41bf3d]: Textual amendment: S. 200(7)(8) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/16/a/ii)
+[^c-4692cadeea90b746530536b16e41bf3d]: Textual amendment: S. 200(7)(8) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/16/a/ii)
 
 [^M_F_02d54f1f-13e3-4afd-bcb7-b8bdf2a5865c]: Textual amendment: Words in s. 200(9) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 20 para. 6(7)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/6/7) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-45fa0bfab6ddeece5ff9e1eb3f18c253]: Textual amendment: Words in s. 200(9) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 178](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/178) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-45fa0bfab6ddeece5ff9e1eb3f18c253]: Textual amendment: Words in s. 200(9) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 178](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/178) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

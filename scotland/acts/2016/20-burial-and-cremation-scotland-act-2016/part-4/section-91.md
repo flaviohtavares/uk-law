@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Powers of entry and inspection[^key-1b749222c7241ef379d12fbaabe5fe6f]
+## 91. Powers of entry and inspection[^c-1b749222c7241ef379d12fbaabe5fe6f]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) enter any premises (other than a dwelling-house) associated with the carrying out of any function of—
   - (i) a burial authority,
   - (ii) a cremation authority,
-  - (iia)[^key-39474a2e9b4399433b84f61f12cbf711] a hydrolysis authority,
+  - (iia)[^c-39474a2e9b4399433b84f61f12cbf711] a hydrolysis authority,
   - (iii) a funeral director, or
   - (iv) a health authority,
 - (b) require the production of any documents, records or registers which a person mentioned in paragraph (a) is required to have or maintain under or by virtue of this Act, and
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b749222c7241ef379d12fbaabe5fe6f]: Commencement: S. 91 in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-1b749222c7241ef379d12fbaabe5fe6f]: Commencement: S. 91 in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
 
-[^key-39474a2e9b4399433b84f61f12cbf711]: Textual amendment: [S. 91(1)(a)](https://www.legislation.gov.uk/asp/2016/20/section/91/1/a)[(iia)](https://www.legislation.gov.uk/asp/2016/20/section/91/1/iia) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(27)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/27)
+[^c-39474a2e9b4399433b84f61f12cbf711]: Textual amendment: [S. 91(1)(a)](https://www.legislation.gov.uk/asp/2016/20/section/91/1/a)[(iia)](https://www.legislation.gov.uk/asp/2016/20/section/91/1/iia) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(27)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/27)

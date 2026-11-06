@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If an authorised person contravenes a requirement imposed on him by section 238 or 240, section 138D[^key-cacb8d86b7dc93d12750fdf19a2e3e5a] applies to the contravention as it applies to a contravention mentioned in section 138D(2).
+If an authorised person contravenes a requirement imposed on him by section 238 or 240, section 138D[^c-cacb8d86b7dc93d12750fdf19a2e3e5a] applies to the contravention as it applies to a contravention mentioned in section 138D(2).
 
 ## Annotations
 
-[^key-cacb8d86b7dc93d12750fdf19a2e3e5a]: Textual amendment: Words in s. 241 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/6)
+[^c-cacb8d86b7dc93d12750fdf19a2e3e5a]: Textual amendment: Words in s. 241 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/6)

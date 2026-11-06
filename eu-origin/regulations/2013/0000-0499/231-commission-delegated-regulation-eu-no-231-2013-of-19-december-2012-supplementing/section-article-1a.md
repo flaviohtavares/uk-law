@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 1A. Application of Articles 2, 7 and 8 to small AIFMs[^key-73bbefe0835a865d9af74930402d3d4f]
+## Article 1A. Application of Articles 2, 7 and 8 to small AIFMs[^c-73bbefe0835a865d9af74930402d3d4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73bbefe0835a865d9af74930402d3d4f]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [73](https://www.legislation.gov.uk/uksi/2020/1385/regulation/73)
+[^c-73bbefe0835a865d9af74930402d3d4f]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [73](https://www.legislation.gov.uk/uksi/2020/1385/regulation/73)

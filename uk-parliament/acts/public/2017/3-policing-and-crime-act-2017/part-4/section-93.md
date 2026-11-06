@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Maritime enforcement powers: offences[^c22719291][^key-6879fbbae28a674a5b5459e7483d007d]
+## 93. Maritime enforcement powers: offences[^c22719291][^c-6879fbbae28a674a5b5459e7483d007d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c22719291]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2017/3/section/93) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6879fbbae28a674a5b5459e7483d007d]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2017/3/section/93) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-6879fbbae28a674a5b5459e7483d007d]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2017/3/section/93) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

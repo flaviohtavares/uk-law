@@ -56,13 +56,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 The Welsh Ministers are of the opinion, that, by reason of urgency, it is necessary to make these Regulations without a draft of the instrument being laid before, and approved by a resolution of, Senedd Cymru[^f00003].
 
-## 1. Title and commencement[^key-491054a8360c878f1d0e7f6908819da0]
+## 1. Title and commencement[^c-491054a8360c878f1d0e7f6908819da0]
 
 (1) The title of these Regulations is the Official Controls (Extension of Transitional Periods and Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021.
 
 (2) These Regulations come into force on 30 December 2021.
 
-## 2. Amendments to the Trade in Animals and Related Products (Wales) Regulations 2011[^key-d328108e095edd0db483c04ced6d951d]
+## 2. Amendments to the Trade in Animals and Related Products (Wales) Regulations 2011[^c-d328108e095edd0db483c04ced6d951d]
 
 (1) Schedule 5 (application of, derogations from, and modifications to, Part 3 in relation to territories subject to special transitional import arrangements) of the Trade in Animals and Related Products (Wales) Regulations 2011[^f00004] is amended as follows.
 
@@ -99,7 +99,7 @@ The Welsh Ministers are of the opinion, that, by reason of urgency, it is necess
 
 .
 
-## 3. Amendment to the Meat Preparations (Amendment and Transitory Modification) (Wales) (EU Exit) Regulations 2021[^key-df3e571ae7380e56d8e7e82125eb5e92]
+## 3. Amendment to the Meat Preparations (Amendment and Transitory Modification) (Wales) (EU Exit) Regulations 2021[^c-df3e571ae7380e56d8e7e82125eb5e92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -134,12 +134,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: The references in the European Union (Withdrawal) Act 2018 to the National Assembly for Wales now have effect as references to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). See paragraphs 7 and 38 of Schedule 7 to the European Union (Withdrawal) Act 2018 for provision about the procedure that applies to this instrument.
 
-[^key-491054a8360c878f1d0e7f6908819da0]: Commencement: Reg. 1 in force at 30.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/1/2)
+[^c-491054a8360c878f1d0e7f6908819da0]: Commencement: Reg. 1 in force at 30.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/1/2)
 
-[^key-d328108e095edd0db483c04ced6d951d]: Commencement: Reg. 2 in force at 30.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/1/2)
+[^c-d328108e095edd0db483c04ced6d951d]: Commencement: Reg. 2 in force at 30.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/1/2)
 
 [^f00004]: Footnote: Schedule 5 was inserted by regulation 32 of [S.I. 2020/1612 (W. 337)](https://www.legislation.gov.uk/wsi/2020/1612). Paragraph 5(3) was amended by regulations 2 of [S.I. 2021/384 (W. 122)](https://www.legislation.gov.uk/wsi/2021/384), [S.I. 2021/847 (W. 197)](https://www.legislation.gov.uk/wsi/2021/847) and [S.I. 2021/1094 (W. 260)](https://www.legislation.gov.uk/wsi/2021/1094).
 
 [^f00005]: Footnote: EUR 2019/2122, amended by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482) and [2021/453](https://www.legislation.gov.uk/uksi/2021/453).
 
-[^key-df3e571ae7380e56d8e7e82125eb5e92]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/1480/regulation/3) revoked (28.4.2024) by [The Meat Preparations (Amendment) (Wales) Regulations 2024 (S.I. 2024/502)](https://www.legislation.gov.uk/wsi/2024/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/502/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2024/502/regulation/3/d)
+[^c-df3e571ae7380e56d8e7e82125eb5e92]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/1480/regulation/3) revoked (28.4.2024) by [The Meat Preparations (Amendment) (Wales) Regulations 2024 (S.I. 2024/502)](https://www.legislation.gov.uk/wsi/2024/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/502/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2024/502/regulation/3/d)

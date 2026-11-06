@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196B. Application of sections 11, 12 and 29 of the Act to franchises[^key-5df7c7448e34e260b167554289ff7474]
+## 196B. Application of sections 11, 12 and 29 of the Act to franchises[^c-5df7c7448e34e260b167554289ff7474]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5df7c7448e34e260b167554289ff7474]: Textual amendment: Rules 196A, 196B and cross-heading inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/63) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-5df7c7448e34e260b167554289ff7474]: Textual amendment: Rules 196A, 196B and cross-heading inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/63) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

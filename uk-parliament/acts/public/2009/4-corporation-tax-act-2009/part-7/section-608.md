@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 608. Company ceasing to be party to derivative contract[^key-f8960f3a1fceb3d26254f70a2d81671f]
+## 608. Company ceasing to be party to derivative contract[^c-f8960f3a1fceb3d26254f70a2d81671f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8960f3a1fceb3d26254f70a2d81671f]: Textual amendment: S. 608 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 72](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/72)
+[^c-f8960f3a1fceb3d26254f70a2d81671f]: Textual amendment: S. 608 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 72](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/72)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Modification of Part 1 of the 1965 Act[^key-d2ceef1c38113b53037d2da030b0ca26]
+## 26. Modification of Part 1 of the 1965 Act[^c-d2ceef1c38113b53037d2da030b0ca26]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ceef1c38113b53037d2da030b0ca26]: Commencement: Art. 26 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-d2ceef1c38113b53037d2da030b0ca26]: Commencement: Art. 26 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

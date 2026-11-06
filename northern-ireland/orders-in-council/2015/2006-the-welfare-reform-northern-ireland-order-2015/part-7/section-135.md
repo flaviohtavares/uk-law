@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Discretionary support[^key-35f63df85e6dce1120b39933b7d3da6e]
+## 135. Discretionary support[^c-35f63df85e6dce1120b39933b7d3da6e]
 
 *Extent: N.I.*
 
@@ -38,11 +38,11 @@ summary: ''
 - (e) for claims for discretionary support to be made in the prescribed form and manner and for the procedure to be followed in dealing with and disposing of such claims;
 - (f) imposing conditions on persons claiming or receiving discretionary support requiring them to provide to the Department such information as may be prescribed;
 - (g) for the disclosure of information relating to discretionary support in prescribed circumstances or to prescribed persons;
-- (h)[^key-8ce9df73fbbcb67c6ebac47f6d4c23ab] for the recovery by the Department in prescribed circumstances and by prescribed means (which may include any of the means mentioned in section 69ZB(7) of the Administration Act) of any amount of payments made under this Article;
-- (i) requiring or authorising reviews (whether by the Department or a prescribed person) of decisions made by the Department with respect to the provision of discretionary support or the recovery of payments made under this Article and for appeals against such decisions[^key-8e546e20acf95aaeb693fd6153086524] ;
+- (h)[^c-8ce9df73fbbcb67c6ebac47f6d4c23ab] for the recovery by the Department in prescribed circumstances and by prescribed means (which may include any of the means mentioned in section 69ZB(7) of the Administration Act) of any amount of payments made under this Article;
+- (i) requiring or authorising reviews (whether by the Department or a prescribed person) of decisions made by the Department with respect to the provision of discretionary support or the recovery of payments made under this Article and for appeals against such decisions[^c-8e546e20acf95aaeb693fd6153086524] ;
 - (j) for such other matters as appear to the Department to be necessary or expedient in connection with the provision of discretionary support, including provision creating criminal offences and provision amending or applying (with or without modification) any statutory provision.
 
-(3A)[^key-df84b91fecef556b17f1d9bfcdf41b9b] Without prejudice to the generality of paragraph (3), regulations may make any provision referred to in that paragraph by applying to, or in relation to, discretionary support (with or without prescribed modifications) any statutory provision which applies to, or in relation to, a particular social security benefit or a class or description of such benefits.
+(3A)[^c-df84b91fecef556b17f1d9bfcdf41b9b] Without prejudice to the generality of paragraph (3), regulations may make any provision referred to in that paragraph by applying to, or in relation to, discretionary support (with or without prescribed modifications) any statutory provision which applies to, or in relation to, a particular social security benefit or a class or description of such benefits.
 
 (4) In this Article “**prescribed**” means prescribed by, or determined in accordance with, regulations under this Article.
 
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-35f63df85e6dce1120b39933b7d3da6e]: Commencement: Art. 135 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(e)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/e)
+[^c-35f63df85e6dce1120b39933b7d3da6e]: Commencement: Art. 135 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(e)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/e)
 
-[^key-8ce9df73fbbcb67c6ebac47f6d4c23ab]: Textual amendment: [Art. 135(3)(h)](https://www.legislation.gov.uk/nisi/2015/2006/article/135/3/h) substituted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(1)(a)](https://www.legislation.gov.uk/nisi/2016/999/article/18/1/a)
+[^c-8ce9df73fbbcb67c6ebac47f6d4c23ab]: Textual amendment: [Art. 135(3)(h)](https://www.legislation.gov.uk/nisi/2015/2006/article/135/3/h) substituted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(1)(a)](https://www.legislation.gov.uk/nisi/2016/999/article/18/1/a)
 
-[^key-8e546e20acf95aaeb693fd6153086524]: Textual amendment: Words in [art. 135(3)(i)](https://www.legislation.gov.uk/nisi/2015/2006/article/135/3/i) added (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(1)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/18/1/b)
+[^c-8e546e20acf95aaeb693fd6153086524]: Textual amendment: Words in [art. 135(3)(i)](https://www.legislation.gov.uk/nisi/2015/2006/article/135/3/i) added (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(1)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/18/1/b)
 
-[^key-df84b91fecef556b17f1d9bfcdf41b9b]: Textual amendment: [Art. 135(3A)](https://www.legislation.gov.uk/nisi/2015/2006/article/135/3A) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(1)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/18/1/c)
+[^c-df84b91fecef556b17f1d9bfcdf41b9b]: Textual amendment: [Art. 135(3A)](https://www.legislation.gov.uk/nisi/2015/2006/article/135/3A) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(1)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/18/1/c)

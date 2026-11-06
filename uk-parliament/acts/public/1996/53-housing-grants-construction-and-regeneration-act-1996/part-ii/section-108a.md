@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108A. Adjudication costs: effectiveness of provision[^key-ad7388d9e4af2069d1eb0a2a9066feb4]
+## 108A. Adjudication costs: effectiveness of provision[^c-ad7388d9e4af2069d1eb0a2a9066feb4]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad7388d9e4af2069d1eb0a2a9066feb4]: Textual amendment: S. 108A inserted (1.10.2011 for E.W. for specified purposes, 1.10.2011 for E.W. in so far as not already in force, 1.11.2011 for S.) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 141](https://www.legislation.gov.uk/ukpga/2009/20/section/141), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2); [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1597/article/3); [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2);
+[^c-ad7388d9e4af2069d1eb0a2a9066feb4]: Textual amendment: S. 108A inserted (1.10.2011 for E.W. for specified purposes, 1.10.2011 for E.W. in so far as not already in force, 1.11.2011 for S.) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 141](https://www.legislation.gov.uk/ukpga/2009/20/section/141), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2); [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1597/article/3); [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2);

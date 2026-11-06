@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Establishment of Creative Scotland[^key-152c24782ff18fbb4d4137e5acddeb90]
+## 36. Establishment of Creative Scotland[^c-152c24782ff18fbb4d4137e5acddeb90]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-152c24782ff18fbb4d4137e5acddeb90]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2010/8/section/36) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-152c24782ff18fbb4d4137e5acddeb90]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2010/8/section/36) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

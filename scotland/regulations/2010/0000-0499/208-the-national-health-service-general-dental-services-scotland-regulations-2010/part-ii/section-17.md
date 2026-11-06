@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Information about associateship agreements[^key-0085d9527809be80f651b5335600d69f]
+## 17. Information about associateship agreements[^c-0085d9527809be80f651b5335600d69f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0085d9527809be80f651b5335600d69f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/208/regulation/17) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-0085d9527809be80f651b5335600d69f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/208/regulation/17) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Reviews by the Commissioner[^key-865bb02c6e8b5bc8c724b44c49ee3f8c]
+## 20. Reviews by the Commissioner[^c-865bb02c6e8b5bc8c724b44c49ee3f8c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-865bb02c6e8b5bc8c724b44c49ee3f8c]: Commencement: S. 20 in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-865bb02c6e8b5bc8c724b44c49ee3f8c]: Commencement: S. 20 in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)

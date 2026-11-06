@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Fundamental objectives[^key-56a2eb8689f0dca76a3c9b73bf01198c][^key-1a4ce28a8b17163148968569bfca0a20]
+## 1. Fundamental objectives[^c-56a2eb8689f0dca76a3c9b73bf01198c][^c-1a4ce28a8b17163148968569bfca0a20]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In section 92K of the Housing and Regeneration Act 2008 (fundamental objectives)
 
 ## Annotations
 
-[^key-56a2eb8689f0dca76a3c9b73bf01198c]: Commencement: S. 1 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-56a2eb8689f0dca76a3c9b73bf01198c]: Commencement: S. 1 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-1a4ce28a8b17163148968569bfca0a20]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/36/section/1) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/a)
+[^c-1a4ce28a8b17163148968569bfca0a20]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/36/section/1) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/a)

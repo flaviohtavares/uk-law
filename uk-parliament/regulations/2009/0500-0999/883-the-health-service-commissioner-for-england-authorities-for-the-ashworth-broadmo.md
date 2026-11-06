@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England And Wales
 
-The Health Service Commissioner for England (Authorities for the Ashworth, Broadmoor and Rampton Hospitals) (Revocation) Order 2009 (revoked)[^key-c4e9bedb3afbdec64651b4e0a6771df4]
+The Health Service Commissioner for England (Authorities for the Ashworth, Broadmoor and Rampton Hospitals) (Revocation) Order 2009 (revoked)[^c-c4e9bedb3afbdec64651b4e0a6771df4]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c4e9bedb3afbdec64651b4e0a6771df4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4e9bedb3afbdec64651b4e0a6771df4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c4e9bedb3afbdec64651b4e0a6771df4]
+## 1. Citation and commencement[^c-c4e9bedb3afbdec64651b4e0a6771df4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-c4e9bedb3afbdec64651b4e0a6771df4]
+## 2. Revocation[^c-c4e9bedb3afbdec64651b4e0a6771df4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4e9bedb3afbdec64651b4e0a6771df4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4e9bedb3afbdec64651b4e0a6771df4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c4e9bedb3afbdec64651b4e0a6771df4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4e9bedb3afbdec64651b4e0a6771df4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4e9bedb3afbdec64651b4e0a6771df4]: Textual amendment: Order revoked (1.7.2015) by [The Health Service Commissioner for England (Revocations) Order 2015 (S.I. 2015/822)](https://www.legislation.gov.uk/uksi/2015/822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/822/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2015/822/article/2/c)
+[^c-c4e9bedb3afbdec64651b4e0a6771df4]: Textual amendment: Order revoked (1.7.2015) by [The Health Service Commissioner for England (Revocations) Order 2015 (S.I. 2015/822)](https://www.legislation.gov.uk/uksi/2015/822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/822/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2015/822/article/2/c)

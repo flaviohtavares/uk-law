@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Licensing or registration of activities involving animals[^key-70818701bceedf93e5832225b313b1b2][^key-e0c7c5f3d6efde4133539c4dc6afdffe]
+## 13. Licensing or registration of activities involving animals[^c-70818701bceedf93e5832225b313b1b2][^c-e0c7c5f3d6efde4133539c4dc6afdffe]
 
 *Extent: E+W*
 
-(1)[^key-9eab36b0db5b8bbb87cfd21ce83e4a9d] No person shall carry on an activity to which this subsection applies except under the authority of a licence for the purposes of this section.
+(1)[^c-9eab36b0db5b8bbb87cfd21ce83e4a9d] No person shall carry on an activity to which this subsection applies except under the authority of a licence for the purposes of this section.
 
 (2) Subsection (1) applies to an activity which—
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-70818701bceedf93e5832225b313b1b2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/45/section/13) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/d)
+[^c-70818701bceedf93e5832225b313b1b2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/45/section/13) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/d)
 
-[^key-e0c7c5f3d6efde4133539c4dc6afdffe]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/45/section/13) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/f)
+[^c-e0c7c5f3d6efde4133539c4dc6afdffe]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/45/section/13) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/f)
 
-[^key-9eab36b0db5b8bbb87cfd21ce83e4a9d]: Modification: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/13/1) applied (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/296/regulation/4)
+[^c-9eab36b0db5b8bbb87cfd21ce83e4a9d]: Modification: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/13/1) applied (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/296/regulation/4)

@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Introductory
 
-### 1. Complaints to which this Act applies[^key-c997e65e91cae50676b80073728f88ff]
+### 1. Complaints to which this Act applies[^c-c997e65e91cae50676b80073728f88ff]
 
 (1) This Act applies to a complaint which—
 
@@ -75,7 +75,7 @@ as it applies to a complaint falling within subsection (1).
 
 (8) A reference in this Act to the reasonable enjoyment of domestic property includes a reference to the reasonable enjoyment of a part of the property.
 
-### 2. High hedge[^key-4a29884d285d4d82455cf554b216c1dc]
+### 2. High hedge[^c-4a29884d285d4d82455cf554b216c1dc]
 
 (1) In this Act “**high hedge**” means so much of a barrier to light as—
 
@@ -90,7 +90,7 @@ as it applies to a complaint falling within subsection (1).
 
 ## Complaints procedure
 
-### 3. Procedure for dealing with complaints[^key-6198b3a104ed3acce33a47a470a302ae]
+### 3. Procedure for dealing with complaints[^c-6198b3a104ed3acce33a47a470a302ae]
 
 (1) This section has effect where a complaint to which this Act applies—
 
@@ -133,12 +133,12 @@ it must as soon as is reasonably practicable notify the appropriate person or pe
 
 (1)[^M_I_33c57d40-fbf4-45b8-e381-e79bb46ecdc0] The Department shall by regulations prescribe the maximum fee which may be determined by a council under section 3(1)(b).
 
-(2)[^key-58eea1f985789cf43708ba46b015f800] A fee received by a council under section 3(1)(b)—
+(2)[^c-58eea1f985789cf43708ba46b015f800] A fee received by a council under section 3(1)(b)—
 
 - (a) must be refunded by it where subsection (3) applies; and
 - (b) may be refunded by it in such other circumstances and to such extent as it may determine.
 
-(3)[^key-58eea1f985789cf43708ba46b015f800] This subsection applies where—
+(3)[^c-58eea1f985789cf43708ba46b015f800] This subsection applies where—
 
 - (a) a fee is paid to the council under section 3(1)(b) in connection with the making of a complaint to which this Act applies;
 - (b) a remedial notice is issued by, or on behalf of, the council in respect of the complaint; and
@@ -146,13 +146,13 @@ it must as soon as is reasonably practicable notify the appropriate person or pe
 
 (4)[^M_I_b07333f1-3245-4621-b3c9-7162e0443b16] Regulations may make provision, in relation to a case where subsection (3) applies, for the payment to the council by any person who is an occupier or owner of the neighbouring land of a fee of such amount (if any) as the council may determine.
 
-(5)[^key-0d5b634fc9542c1a3a0bec0015b51d78] Regulations under subsection (4) may in particular—
+(5)[^c-0d5b634fc9542c1a3a0bec0015b51d78] Regulations under subsection (4) may in particular—
 
 - (a) provide for the fee not to exceed such amount as may be prescribed by the regulations;
 - (b) provide that, where two or more persons are liable to pay the fee, those persons are jointly and severally liable;
 - (c) provide for the fee to be refunded in such circumstances or to such extent as may be prescribed by, or determined in accordance with, the regulations.
 
-### 5. Remedial notices[^key-b1a6d434d5a586da470dd6b313915092]
+### 5. Remedial notices[^c-b1a6d434d5a586da470dd6b313915092]
 
 (1) For the purposes of this Act a remedial notice is a notice—
 
@@ -194,7 +194,7 @@ it must as soon as is reasonably practicable notify the appropriate person or pe
 - “**remedial action**” means action to remedy the adverse effect of the height of the hedge on the complainant's reasonable enjoyment of the domestic property in respect of which the complaint was made; and
 - “**preventative action**” means action to prevent the recurrence of the adverse effect.
 
-### 6. Withdrawal or relaxation of requirements of remedial notice[^key-e075194ba7403d4763926fa228683151]
+### 6. Withdrawal or relaxation of requirements of remedial notice[^c-e075194ba7403d4763926fa228683151]
 
 (1) The council may—
 
@@ -214,7 +214,7 @@ it must as soon as is reasonably practicable notify the appropriate person or pe
 
 ### 7. Appeals against remedial notices and other decisions of councils
 
-(1)[^key-a64e472603f031350d65faf8759f5c00] Where the council—
+(1)[^c-a64e472603f031350d65faf8759f5c00] Where the council—
 
 - (a) issues a remedial notice,
 - (b) withdraws such a notice, or
@@ -222,24 +222,24 @@ it must as soon as is reasonably practicable notify the appropriate person or pe
 
 each of the persons falling within subsection (2) may appeal to the Valuation Tribunal against the issue or withdrawal of the notice or (as the case may be) the waiver or relaxation of its requirements.
 
-(2)[^key-a64e472603f031350d65faf8759f5c00] Those persons are—
+(2)[^c-a64e472603f031350d65faf8759f5c00] Those persons are—
 
 - (a) every person who is a complainant in relation to the complaint by reference to which the notice was given; and
 - (b) every person who is an owner or occupier of the neighbouring land.
 
-(3)[^key-a64e472603f031350d65faf8759f5c00] Where the council decides either or both of the issues specified in section 3(3) otherwise than in the complainant's favour, the complainant may appeal to the Valuation Tribunal against the decision.
+(3)[^c-a64e472603f031350d65faf8759f5c00] Where the council decides either or both of the issues specified in section 3(3) otherwise than in the complainant's favour, the complainant may appeal to the Valuation Tribunal against the decision.
 
-(4)[^key-a64e472603f031350d65faf8759f5c00] An appeal under this section must be made before—
+(4)[^c-a64e472603f031350d65faf8759f5c00] An appeal under this section must be made before—
 
 - (a) the end of the period of 28 days beginning with the relevant date; or
 - (b) such later time as the Valuation Tribunal may allow.
 
-(5)[^key-a64e472603f031350d65faf8759f5c00] In subsection (4) “the relevant date”—
+(5)[^c-a64e472603f031350d65faf8759f5c00] In subsection (4) “the relevant date”—
 
 - (a) in the case of an appeal against the issue of a remedial notice, means the date on which the notice was issued; and
 - (b) in the case of any other appeal under this section, means the date of the notification given by the council under section 3 or 6 of the decision in question.
 
-(6)[^key-a64e472603f031350d65faf8759f5c00] Where an appeal is duly made under subsection (1), the notice or (as the case may be) withdrawal, waiver or relaxation in question shall not have effect pending the final determination or withdrawal of the appeal.
+(6)[^c-a64e472603f031350d65faf8759f5c00] Where an appeal is duly made under subsection (1), the notice or (as the case may be) withdrawal, waiver or relaxation in question shall not have effect pending the final determination or withdrawal of the appeal.
 
 (7)[^M_I_3cbdcd1e-e32c-4595-c6e6-4160fbcfaa93] Rules under paragraph 7 of Schedule 9B to the Rates (Northern Ireland) Order 1977 (NI 28) (procedural rules for Valuation Tribunal) may, in particular, make provision—
 
@@ -248,7 +248,7 @@ each of the persons falling within subsection (2) may appeal to the Valuation Tr
 - (c) for a decision on an appeal under this section to be binding on persons falling within subsection (2) in addition to the person by whom the appeal was made;
 - (d) for incidental or ancillary matters relating to appeals under this section, including the awarding of costs.
 
-### 8. Determination or withdrawal of appeals[^key-32af00ddbf305b41adf4574608d98805]
+### 8. Determination or withdrawal of appeals[^c-32af00ddbf305b41adf4574608d98805]
 
 (1) On an appeal under section 7 the Valuation Tribunal may allow or dismiss the appeal, either in whole or in part.
 
@@ -278,7 +278,7 @@ to every person falling within section 7(2) and to the council.
 
 ## Powers of entry
 
-### 9. Powers of entry[^key-88a8ec20ccefe785628d0ec400e39ddc]
+### 9. Powers of entry[^c-88a8ec20ccefe785628d0ec400e39ddc]
 
 (1) Where, under this Act, a complaint has been made or a remedial notice has been issued, a person authorised by the council may enter the neighbouring land in order to obtain information required by the council for the purpose of determining—
 
@@ -308,7 +308,7 @@ to every person falling within section 7(2) and to the council.
 
 ## Enforcement powers, etc.
 
-### 10. Offences[^key-de06d6b395ced297b283f6994d6476b2]
+### 10. Offences[^c-de06d6b395ced297b283f6994d6476b2]
 
 (1) Where—
 
@@ -349,11 +349,11 @@ the court may, in addition to or instead of imposing a punishment, order that pe
 
 (9) If a person continues after conviction of an offence under subsection (8) or this subsection to fail, without reasonable excuse, to take steps which that person has been ordered to take under subsection (6), that person is guilty of a further offence and liable, on summary conviction, to a fine not exceeding one-twentieth of level 3 on the standard scale for each day on which the failure has so continued.
 
-### 11. Power to require occupier to permit action to be taken by owner[^key-8186f7b093fe43914f357d329dbe4acb]
+### 11. Power to require occupier to permit action to be taken by owner[^c-8186f7b093fe43914f357d329dbe4acb]
 
 If, on a complaint made by the owner of any land, it appears to a court of summary jurisdiction that the occupier of that land prevents the owner from taking any action on that land which the owner is by or under this Act required to take, the court may order the occupier to permit the taking of that action.
 
-### 12. Action by council[^key-3922a16a52d8692f1bb90f68fd575772]
+### 12. Action by council[^c-3922a16a52d8692f1bb90f68fd575772]
 
 (1) This section applies where—
 
@@ -388,7 +388,7 @@ If, on a complaint made by the owner of any land, it appears to a court of summa
 
 (10) The exercise by a council of its functions under this section shall not render the council subject to any liability in respect of damage to any hedge, unless such damage is directly attributable to a negligent act of the council or an officer or agent of the council.
 
-### 13. Offences committed by a body corporate[^key-ccd5e239ca5f60d976d8581edd8aa260]
+### 13. Offences committed by a body corporate[^c-ccd5e239ca5f60d976d8581edd8aa260]
 
 For the purposes of an offence under this Act, section 20(2) of the Interpretation Act (Northern Ireland) 1954 (c. 33) applies—
 
@@ -397,7 +397,7 @@ For the purposes of an offence under this Act, section 20(2) of the Interpretati
 
 ## Supplementary
 
-### 14. Service of documents in electronic form[^key-99b521bfc80958ec9efb545000775bb1]
+### 14. Service of documents in electronic form[^c-99b521bfc80958ec9efb545000775bb1]
 
 (1) A requirement of this Act—
 
@@ -448,7 +448,7 @@ but only if it is transmitted or made available in accordance with subsection (3
 - “**electronically**” means in the form of an electronic communication;
 - “**working day**” means a day which is not a Saturday or a Sunday, Christmas Day, Good Friday or a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971 (c. 80).
 
-### 15. Statutory charges[^key-1db3934297d00d8dafdf71242d2e9f34]
+### 15. Statutory charges[^c-1db3934297d00d8dafdf71242d2e9f34]
 
 In Schedule 11 to the Land Registration Act (Northern Ireland) 1970 (c. 18) (statutory charges) at the end add—
 
@@ -461,7 +461,7 @@ In Schedule 11 to the Land Registration Act (Northern Ireland) 1970 (c. 18) (sta
 
 .
 
-### 16. Interpretation[^key-d826c89c7d8d6b780929e981027daa2e]
+### 16. Interpretation[^c-d826c89c7d8d6b780929e981027daa2e]
 
 In this Act—
 
@@ -483,7 +483,7 @@ In this Act—
 - “**remedial action**” has the meaning given by section 5(9);
 - “**the Valuation Tribunal**” means the Northern Ireland Valuation Tribunal, established by Article 36A of the Rates (Northern Ireland) Order 1977 (NI 28).
 
-### 17. Power to amend sections 1 and 2[^key-40e05fe97032509fa18514359909a057]
+### 17. Power to amend sections 1 and 2[^c-40e05fe97032509fa18514359909a057]
 
 (1) The Department may by regulations do one or both of the following—
 
@@ -492,7 +492,7 @@ In this Act—
 
 (2) Regulations under this section may make such consequential amendments of this Act as the Department considers appropriate.
 
-### 18. Application to the Crown[^key-b2c47583b028b0f5ad82b4f4aac8bf61]
+### 18. Application to the Crown[^c-b2c47583b028b0f5ad82b4f4aac8bf61]
 
 (1) This Act and any provision made under it binds the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
 
@@ -500,7 +500,7 @@ In this Act—
 
 (3) Subsection (2) does not affect the criminal liability of persons in the service of the Crown.
 
-### 19. Regulations and orders[^key-33463c0c2e48fc76cfc59a884f3dfb1b]
+### 19. Regulations and orders[^c-33463c0c2e48fc76cfc59a884f3dfb1b]
 
 (1) Except as provided by subsection (2), regulations under this Act shall be subject to negative resolution.
 
@@ -518,48 +518,48 @@ This Act may be cited as the High Hedges Act (Northern Ireland) 2011.
 
 ## Annotations
 
-[^key-c997e65e91cae50676b80073728f88ff]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/21/section/1) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-c997e65e91cae50676b80073728f88ff]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/21/section/1) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-4a29884d285d4d82455cf554b216c1dc]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/21/section/2) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-4a29884d285d4d82455cf554b216c1dc]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/21/section/2) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-6198b3a104ed3acce33a47a470a302ae]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/21/section/3) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-6198b3a104ed3acce33a47a470a302ae]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/21/section/3) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
 [^M_I_33c57d40-fbf4-45b8-e381-e79bb46ecdc0]: Commencement: S. 4(1) in operation at 31.1.2012 for specified purposes and at 31.3.2012 in so far as not already in operation by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/20/schedule)
 
-[^key-58eea1f985789cf43708ba46b015f800]: Commencement: S. 4(2)(3) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-58eea1f985789cf43708ba46b015f800]: Commencement: S. 4(2)(3) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
 [^M_I_b07333f1-3245-4621-b3c9-7162e0443b16]: Commencement: S. 4(4) in operation at 31.1.2012 for specified purposes and at 31.3.2012 in so far as not already in operation by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/20/schedule)
 
-[^key-0d5b634fc9542c1a3a0bec0015b51d78]: Commencement: S. 4(5) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-0d5b634fc9542c1a3a0bec0015b51d78]: Commencement: S. 4(5) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-b1a6d434d5a586da470dd6b313915092]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/21/section/5) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-b1a6d434d5a586da470dd6b313915092]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/21/section/5) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-e075194ba7403d4763926fa228683151]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/21/section/6) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-e075194ba7403d4763926fa228683151]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/21/section/6) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-a64e472603f031350d65faf8759f5c00]: Commencement: S. 7(1)-(6) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-a64e472603f031350d65faf8759f5c00]: Commencement: S. 7(1)-(6) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
 [^M_I_3cbdcd1e-e32c-4595-c6e6-4160fbcfaa93]: Commencement: S. 7(7) in operation at 31.1.2012 for specified purposes and at 31.3.2012 in so far as not already in operation by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/20/schedule)
 
-[^key-32af00ddbf305b41adf4574608d98805]: Commencement: S. 8 in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-32af00ddbf305b41adf4574608d98805]: Commencement: S. 8 in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-88a8ec20ccefe785628d0ec400e39ddc]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/21/section/9) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-88a8ec20ccefe785628d0ec400e39ddc]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/21/section/9) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-de06d6b395ced297b283f6994d6476b2]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/21/section/10) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-de06d6b395ced297b283f6994d6476b2]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/21/section/10) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-8186f7b093fe43914f357d329dbe4acb]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/21/section/11) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-8186f7b093fe43914f357d329dbe4acb]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/21/section/11) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-3922a16a52d8692f1bb90f68fd575772]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/21/section/12) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-3922a16a52d8692f1bb90f68fd575772]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/21/section/12) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-ccd5e239ca5f60d976d8581edd8aa260]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/21/section/13) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-ccd5e239ca5f60d976d8581edd8aa260]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/21/section/13) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-99b521bfc80958ec9efb545000775bb1]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/21/section/14) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-99b521bfc80958ec9efb545000775bb1]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/21/section/14) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-1db3934297d00d8dafdf71242d2e9f34]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/21/section/15) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-1db3934297d00d8dafdf71242d2e9f34]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/21/section/15) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-d826c89c7d8d6b780929e981027daa2e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/21/section/16) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-d826c89c7d8d6b780929e981027daa2e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/21/section/16) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-40e05fe97032509fa18514359909a057]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/21/section/17) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-40e05fe97032509fa18514359909a057]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/21/section/17) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-b2c47583b028b0f5ad82b4f4aac8bf61]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2011/21/section/18) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-b2c47583b028b0f5ad82b4f4aac8bf61]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2011/21/section/18) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
 
-[^key-33463c0c2e48fc76cfc59a884f3dfb1b]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/21/section/19) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)
+[^c-33463c0c2e48fc76cfc59a884f3dfb1b]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/21/section/19) in operation at 31.3.2012 by [S.R. 2012/20](https://www.legislation.gov.uk/nisr/2012/20), [art. 2](https://www.legislation.gov.uk/nisr/2012/20/article/2)

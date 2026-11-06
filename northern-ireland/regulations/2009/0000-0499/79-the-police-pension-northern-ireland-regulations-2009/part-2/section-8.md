@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Reckoning of pensionable service[^key-26bf24759d1550e4e9aa33f63a86b695]
+## 8. Reckoning of pensionable service[^c-26bf24759d1550e4e9aa33f63a86b695]
 
 *Extent: N.I.*
 
@@ -90,6 +90,6 @@ and where the person concerned has elected to make payment by way of instalments
 
 ## Annotations
 
-[^key-26bf24759d1550e4e9aa33f63a86b695]: Commencement: Reg. 8 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-26bf24759d1550e4e9aa33f63a86b695]: Commencement: Reg. 8 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00005]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7)

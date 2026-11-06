@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Fire precautions[^key-d5f564441f3f61862e59705cff084f79]
+## 11. Fire precautions[^c-d5f564441f3f61862e59705cff084f79]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the local authority must consult the fire and rescue authority as to what condit
 
 ## Annotations
 
-[^key-d5f564441f3f61862e59705cff084f79]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/6/section/11) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-d5f564441f3f61862e59705cff084f79]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/6/section/11) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

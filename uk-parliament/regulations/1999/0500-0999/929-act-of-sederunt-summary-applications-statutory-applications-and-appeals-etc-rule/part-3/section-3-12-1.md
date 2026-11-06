@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.12.1. Interpretation[^key-409118e6071723e679dd4efa892c8927]
+## 3.12.1. Interpretation[^c-409118e6071723e679dd4efa892c8927]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ In this Part, “**the Model Law**” means the United Nations Commission on Int
 
 ## Annotations
 
-[^key-409118e6071723e679dd4efa892c8927]: Commencement: Rule 3.12.1 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-409118e6071723e679dd4efa892c8927]: Commencement: Rule 3.12.1 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00052]: Footnote: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).

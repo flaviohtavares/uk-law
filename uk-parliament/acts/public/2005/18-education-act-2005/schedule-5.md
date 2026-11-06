@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Sixth forms requiring significant improvement[^key-ea04b0593e8cda4f30a2fc49f386e7ad]
+## SCHEDULE 5 — Sixth forms requiring significant improvement[^c-ea04b0593e8cda4f30a2fc49f386e7ad]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ Section 46
 
 ## Annotations
 
-[^key-ea04b0593e8cda4f30a2fc49f386e7ad]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/a); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-ea04b0593e8cda4f30a2fc49f386e7ad]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/a); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

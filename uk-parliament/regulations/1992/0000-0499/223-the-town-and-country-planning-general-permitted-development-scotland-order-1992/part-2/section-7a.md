@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7A. Notification of an application for a determination under class 70[^key-e179313119535b80d20ff9b5711df64d]
+## 7A. Notification of an application for a determination under class 70[^c-e179313119535b80d20ff9b5711df64d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e179313119535b80d20ff9b5711df64d]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/1992/223/article/7A) inserted (21.11.2011) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2011 (S.S.I. 2011/357)](https://www.legislation.gov.uk/ssi/2011/357), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2011/357/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/357/article/2/3)
+[^c-e179313119535b80d20ff9b5711df64d]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/1992/223/article/7A) inserted (21.11.2011) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2011 (S.S.I. 2011/357)](https://www.legislation.gov.uk/ssi/2011/357), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2011/357/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/357/article/2/3)

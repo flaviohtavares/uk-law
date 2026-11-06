@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Existing public body pension schemes: pension age[^key-56c6969aeaef1c02cfc5dd3552dece8a]
+## 33. Existing public body pension schemes: pension age[^c-56c6969aeaef1c02cfc5dd3552dece8a]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56c6969aeaef1c02cfc5dd3552dece8a]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2014/2/section/33) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 5(2)(c)](https://www.legislation.gov.uk/nisr/2015/3/article/5/2/c)
+[^c-56c6969aeaef1c02cfc5dd3552dece8a]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2014/2/section/33) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 5(2)(c)](https://www.legislation.gov.uk/nisr/2015/3/article/5/2/c)

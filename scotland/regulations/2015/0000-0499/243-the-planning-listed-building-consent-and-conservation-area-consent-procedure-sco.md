@@ -44,13 +44,13 @@ Coming into force
 
 1st October 2015
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 9(3) to (6), 10, 17, 23(2), 25(2), 26(2), 28(1), 41D(5), 41I, 66(3) and 82 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.[^key-4501421e4c2157ca0b617a0bf00d2964]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 9(3) to (6), 10, 17, 23(2), 25(2), 26(2), 28(1), 41D(5), 41I, 66(3) and 82 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.[^c-4501421e4c2157ca0b617a0bf00d2964]
 
-## 1. Citation and commencement[^key-4b6a7db72dc9b04342875c4b214910e8]
+## 1. Citation and commencement[^c-4b6a7db72dc9b04342875c4b214910e8]
 
 These Regulations may be cited as the Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 and come into force on 1st October 2015.
 
-## 2. Application[^key-e64bb6b1444f51b901e6df4ee8277ed2]
+## 2. Application[^c-e64bb6b1444f51b901e6df4ee8277ed2]
 
 (1) Subject to paragraph (3), these Regulations apply to—
 
@@ -64,7 +64,7 @@ made on or after 1st October 2015.
 
 (3) These Regulations do not apply to applications for consent under section 73B of the Act[^f00002] (urgent works relating to Crown land: application).
 
-## 3. Interpretation[^key-230b946d1d639d5b136a1ae4a8e699cd]
+## 3. Interpretation[^c-230b946d1d639d5b136a1ae4a8e699cd]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “application for variation or discharge of conditions” means an application under section 17 of the Act (application for variation or discharge of conditions) (or that section as applied by section 66 of the Act (control of demolition in conservation areas)) for the variation or discharge of conditions subject to which listed building consent or conservation area consent, as the case may be, has been granted; and
 - “Crown land” has the same meaning as in section 73C of the Act[^f00003] (expressions relating to Crown land).
 
-## 4. Applications for listed building consent and conservation area consent[^key-8eecb1ea83df8e78bee55a6dd03ab680]
+## 4. Applications for listed building consent and conservation area consent[^c-8eecb1ea83df8e78bee55a6dd03ab680]
 
 (1) An application for listed building consent or for conservation area consent must, in addition to the particulars and documents to be contained by virtue of section 9(2) of the Act[^f00004] (making of applications for listed building consent), include—
 
@@ -87,7 +87,7 @@ In these Regulations—
   - (i) the application relates to Crown land, a statement that the application is made in respect of Crown land; or
   - (ii) the application does not relate to Crown land, one or other of the certificates required under regulation 9(2).
 
-## 5. Applications to vary or discharge conditions attached to listed building consent and conservation area consent[^key-2468e91ed83b97e02b5fa2449bfd7b68]
+## 5. Applications to vary or discharge conditions attached to listed building consent and conservation area consent[^c-2468e91ed83b97e02b5fa2449bfd7b68]
 
 (1) An application for the variation or discharge of conditions attached must, in addition to the particulars and documents to be contained by virtue of section 9(2) of the Act, include—
 
@@ -101,7 +101,7 @@ In these Regulations—
   - (i) the application relates to Crown land, a statement that the application is made in respect of Crown land; or
   - (ii) the application does not relate to Crown land, one or other of the certificates required under regulation 9(2).
 
-## 6. Access statements[^key-b0609df29852b4e1d5c0e7aa8a0ec64b]
+## 6. Access statements[^c-b0609df29852b4e1d5c0e7aa8a0ec64b]
 
 (1) An application for listed building consent must be accompanied by an access statement.
 
@@ -113,7 +113,7 @@ In these Regulations—
 
 (3) This regulation does not apply to an application for listed building consent where the works which are the subject of the application do not alter the means of access to the listed building.
 
-## 7. Consultation by the planning authority with Historic Environment Scotland[^key-24fbbf312a1b62a8d6da80fc7d96d6fc]
+## 7. Consultation by the planning authority with Historic Environment Scotland[^c-24fbbf312a1b62a8d6da80fc7d96d6fc]
 
 (1) The planning authority must consult Historic Environment Scotland before granting or refusing—
 
@@ -129,7 +129,7 @@ In these Regulations—
 - “category A listed building” means a listed building specified as being category A in a list of buildings compiled or approved under section 1 of the Act[^f00005] (listing of buildings of special architectural or historic interest); and
 - “category B listed building” means a listed building specified as being category B in a list of buildings compiled or approved under section 1 of the Act.
 
-## 8. Advertisement of applications[^key-f4a65137d4f13b38898ab28a173e876f]
+## 8. Advertisement of applications[^c-f4a65137d4f13b38898ab28a173e876f]
 
 (1) The planning authority must give notice of—
 
@@ -157,7 +157,7 @@ in accordance with this regulation.
 - (e) state that representations may be made to the planning authority and include information as to how any representations may be made and by which date they must be made (being a date not earlier than 21 days after the date of publication of the notice); and
 - (f) include a statement as to how to obtain information explaining the procedures which are followed in relation to applications for listed building consent, applications for conservation area consent or applications for variation or discharge of conditions, as the case may be.
 
-## 9. Notices to owners[^key-77074c97a0e5be6564439235d2e09b36]
+## 9. Notices to owners[^c-77074c97a0e5be6564439235d2e09b36]
 
 (1) Subject to paragraph (4), the applicant is to give notice in the form set out in Schedule 1 to any person (other than the applicant) who at the beginning of the prescribed period is the owner of the building to which the application relates.
 
@@ -176,7 +176,7 @@ in accordance with this regulation.
 
 (5) In this regulation “prescribed period” means the period of 21 days ending with the date of the application.
 
-## 10. Duty to decline to entertain application[^key-6cb576f563fd30d43568ba719e2b82c8]
+## 10. Duty to decline to entertain application[^c-6cb576f563fd30d43568ba719e2b82c8]
 
 (1) Subject to paragraph (2), a planning authority shall not entertain—
 
@@ -188,7 +188,7 @@ unless the application is accompanied by a certificate issued under regulation 9
 
 (2) Paragraph (1) does not apply to an application relating to Crown land.
 
-## 11. Application — national security[^key-7ded08deeaaa81d7b823c7d908bb0276]
+## 11. Application — national security[^c-7ded08deeaaa81d7b823c7d908bb0276]
 
 The validity of an application shall not be affected by failure to disclose information as to—
 
@@ -197,7 +197,7 @@ The validity of an application shall not be affected by failure to disclose info
 
 where the application is accompanied by a written statement from the applicant that, in the opinion of the applicant, the information relates to the matters mentioned in (a) or (b) above, and that public disclosure of that information would be contrary to the national interest.
 
-## 12. Decision notice[^key-d696ad5c76b9e69e31c86134d5b7189e]
+## 12. Decision notice[^c-d696ad5c76b9e69e31c86134d5b7189e]
 
 (1) The planning authority must within a period of 2 months beginning with the date of receipt of the application by the planning authority—
 
@@ -209,7 +209,7 @@ where the application is accompanied by a written statement from the applicant t
 (3) An application is not to be determined by the planning authority until the later of—
 
 - (a) where consultation is required in respect of the application under regulation 7, the expiry of the period of 14 days after the date on which the planning authority consulted Historic Environment Scotland; or
-- (b) the date, or latest date, of the expiry of the period allowed for making representations[^key-8657fa6ffac26c921d2712f5278b8c80] in respect of the application specified in notice of the application given in accordance with regulation 8.
+- (b) the date, or latest date, of the expiry of the period allowed for making representations[^c-8657fa6ffac26c921d2712f5278b8c80] in respect of the application specified in notice of the application given in accordance with regulation 8.
 
 (4) Where an application is refused or is granted subject to conditions the decision notice must include—
 
@@ -237,7 +237,7 @@ where the application is accompanied by a written statement from the applicant t
 - (a) only the person who sent that document to the planning authority, where it is possible for the planning authority to identify that person; or
 - (b) where it is not possible to do so, only the first named person on the document for whom an address is provided.
 
-## 13. Notification of referral of the application[^key-c14d1f95323fcae43cef9130a189ea6f]
+## 13. Notification of referral of the application[^c-c14d1f95323fcae43cef9130a189ea6f]
 
 On referring any application to the Scottish Ministers following a direction under section 11 of the Act, a planning authority are to serve on the applicant notice—
 
@@ -246,7 +246,7 @@ On referring any application to the Scottish Ministers following a direction und
 - (c) that the application has been referred to the Scottish Ministers; and
 - (d) that the decision of the Scottish Ministers on the application will be final.
 
-## 14. Electronic communications[^key-afa5881f3f757a8330e1de7b79bc51d9]
+## 14. Electronic communications[^c-afa5881f3f757a8330e1de7b79bc51d9]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -277,7 +277,7 @@ On referring any application to the Scottish Ministers following a direction und
 - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form; and
 - “sent” includes served, submitted or given and cognate expressions are to be construed accordingly.
 
-## 15. Application of listed building control to buildings in conservation areas[^key-065be8d6219df62a16af49eb133af911]
+## 15. Application of listed building control to buildings in conservation areas[^c-065be8d6219df62a16af49eb133af911]
 
 (1) The provisions of the Act specified in section 66(3) of the Act have effect in relation to buildings in conservation areas subject to the modifications specified in paragraph (2).
 
@@ -287,14 +287,14 @@ On referring any application to the Scottish Ministers following a direction und
 - (b) references to a listed building are to be treated as references to a building in a conservation area; and
 - (c) in respect of a provision of the Act specified in column 1 of Schedule 3, the provision is to be treated as if modified as specified in the corresponding entry contained in column 2 of that Schedule.
 
-## 16. Advertisement of unopposed revocation or modification order[^key-6a7807b5a1886d4cb70dc90913ed8ffe]
+## 16. Advertisement of unopposed revocation or modification order[^c-6a7807b5a1886d4cb70dc90913ed8ffe]
 
-Advertisement for the purposes of section[^key-f8fe5fa5918667326ccef17ba05ab773] 23(2)(a) of the Act (publication of unopposed revocation or modification order) is to be by publication of notice of the fact that an order under section 21 of the Act has been made—
+Advertisement for the purposes of section[^c-f8fe5fa5918667326ccef17ba05ab773] 23(2)(a) of the Act (publication of unopposed revocation or modification order) is to be by publication of notice of the fact that an order under section 21 of the Act has been made—
 
 - (a) in the Edinburgh Gazette; and
 - (b) in a local newspaper circulating in the area in which the building to which consent to be modified or revoked relates is situated.
 
-## 17. Claims for compensation[^key-0f9d66f07f8fcc7555ba4de73e763c12]
+## 17. Claims for compensation[^c-0f9d66f07f8fcc7555ba4de73e763c12]
 
 (1) This regulation applies to a claim for compensation made to a planning authority under—
 
@@ -313,7 +313,7 @@ Advertisement for the purposes of section[^key-f8fe5fa5918667326ccef17ba05ab773]
   - (i) in the circumstances set out in section 41I(2)(a) of the Act, the date on which the temporary stop notice is first displayed; or
   - (ii) in the circumstances set out in section 41I(2)(b) of the Act, the date on which the temporary stop notice is withdrawn.
 
-## 18. Listed building purchase notices[^key-74a803ecc299e58c3e3caeb5b2c836e1]
+## 18. Listed building purchase notices[^c-74a803ecc299e58c3e3caeb5b2c836e1]
 
 (1) A listed building purchase notice[^f00011] must be in writing and must be served on the planning authority within the period of 12 months from the date on which listed building consent (or conservation area consent, as the case may be) is—
 
@@ -322,7 +322,7 @@ Advertisement for the purposes of section[^key-f8fe5fa5918667326ccef17ba05ab773]
 - (c) revoked; or
 - (d) modified.
 
-## 19. Revocations[^key-e3f22d716001c7759c5b27dfb764b600]
+## 19. Revocations[^c-e3f22d716001c7759c5b27dfb764b600]
 
 (1) Subject to paragraph (2), the provisions specified in paragraph (2) are revoked.
 
@@ -339,7 +339,7 @@ Advertisement for the purposes of section[^key-f8fe5fa5918667326ccef17ba05ab773]
 - (c) an application for variation or discharge of conditions made before 1st October 2015; and
 - (d) an order under section 21 of the Act made before 1st October 2015.
 
-## 20. Amendment of the Town and Country Planning (Appeals) (Scotland) Regulations 2013[^key-e874f7856c12d4c249893cc8d2adb6f4]
+## 20. Amendment of the Town and Country Planning (Appeals) (Scotland) Regulations 2013[^c-e874f7856c12d4c249893cc8d2adb6f4]
 
 (1) Subject to paragraph (3), the Town and Country Planning (Appeals) (Scotland) Regulations 2013[^f00015] are amended in accordance with paragraph (2).
 
@@ -360,15 +360,15 @@ Edinburgh
 
 2nd June 2015
 
-## SCHEDULE 1 — Notices under regulation 9[^key-dce3ebc6fa1d2c32bd0a0ad2ffea6af8]
+## SCHEDULE 1 — Notices under regulation 9[^c-dce3ebc6fa1d2c32bd0a0ad2ffea6af8]
 
 Regulation 9(1)
 
-## SCHEDULE 2 — Notice to accompany refusal etc.[^key-dd71ec23c3a181590882faebed86ad28]
+## SCHEDULE 2 — Notice to accompany refusal etc.[^c-dd71ec23c3a181590882faebed86ad28]
 
 Regulation 12(6)(a)
 
-## SCHEDULE 3 — APPLICATION OF ENACTMENTS TO BUILDINGS IN CONSERVATION AREAS[^key-f18ba75c966c0411bf60f4198eaa1278]
+## SCHEDULE 3 — APPLICATION OF ENACTMENTS TO BUILDINGS IN CONSERVATION AREAS[^c-f18ba75c966c0411bf60f4198eaa1278]
 
 Regulation 15(2)(c)
 
@@ -431,69 +431,69 @@ Regulation 19 revokes the Town and Country Planning (Listed Buildings and Buildi
 
 [^f00001]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 9 was amended by section 7(3) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) and paragraph 9 of schedule 3 to the Historic Environment Scotland Act [2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19). Sections 41D and 41I are inserted by section 23(1) of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3). Section 41I applies section 41D(5).
 
-[^key-4501421e4c2157ca0b617a0bf00d2964]: Modification: Regulations modified (10.10.2015) by SSI 2007/569 reg. 5(3) (as amended by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/328/regulation/2/2/a) (with [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2015/328/regulation/2/4/5)))
+[^c-4501421e4c2157ca0b617a0bf00d2964]: Modification: Regulations modified (10.10.2015) by SSI 2007/569 reg. 5(3) (as amended by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/328/regulation/2/2/a) (with [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2015/328/regulation/2/4/5)))
 
-[^key-4b6a7db72dc9b04342875c4b214910e8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-4b6a7db72dc9b04342875c4b214910e8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-e64bb6b1444f51b901e6df4ee8277ed2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-e64bb6b1444f51b901e6df4ee8277ed2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00002]: Footnote: Section 73B was inserted by section 93(1) of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-230b946d1d639d5b136a1ae4a8e699cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/243/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-230b946d1d639d5b136a1ae4a8e699cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/243/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00003]: Footnote: Section 73C was inserted by paragraph 7 of schedule 5 to the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-8eecb1ea83df8e78bee55a6dd03ab680]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/243/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-8eecb1ea83df8e78bee55a6dd03ab680]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/243/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00004]: Footnote: Section 9 was amended by section 7(3) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) and paragraph 9 of schedule 3 to the Historic Environment Scotland Act [2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19).
 
-[^key-2468e91ed83b97e02b5fa2449bfd7b68]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/243/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-2468e91ed83b97e02b5fa2449bfd7b68]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/243/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-b0609df29852b4e1d5c0e7aa8a0ec64b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/243/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-b0609df29852b4e1d5c0e7aa8a0ec64b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/243/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-24fbbf312a1b62a8d6da80fc7d96d6fc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/243/regulation/7) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-24fbbf312a1b62a8d6da80fc7d96d6fc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/243/regulation/7) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00005]: Footnote: Section 1 is amended by paragraph 2 of schedule 3 to the Historic Environment Scotland Act [2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19).
 
-[^key-f4a65137d4f13b38898ab28a173e876f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/243/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-f4a65137d4f13b38898ab28a173e876f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/243/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-77074c97a0e5be6564439235d2e09b36]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/243/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-77074c97a0e5be6564439235d2e09b36]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/243/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-6cb576f563fd30d43568ba719e2b82c8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/243/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-6cb576f563fd30d43568ba719e2b82c8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/243/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-7ded08deeaaa81d7b823c7d908bb0276]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/243/regulation/11) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-7ded08deeaaa81d7b823c7d908bb0276]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/243/regulation/11) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-d696ad5c76b9e69e31c86134d5b7189e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/243/regulation/12) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-d696ad5c76b9e69e31c86134d5b7189e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/243/regulation/12) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00006]: Footnote: Section 11 was amended by section 21 of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3) (“the 2011 Act”).
 
-[^key-8657fa6ffac26c921d2712f5278b8c80]: Textual amendment: Word in [reg. 12(3)(b)](https://www.legislation.gov.uk/ssi/2015/243/regulation/12/3/b) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/4/2)
+[^c-8657fa6ffac26c921d2712f5278b8c80]: Textual amendment: Word in [reg. 12(3)(b)](https://www.legislation.gov.uk/ssi/2015/243/regulation/12/3/b) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/4/2)
 
 [^f00007]: Footnote: Section 18 was amended by section 20(2) of the 2011 Act.
 
-[^key-c14d1f95323fcae43cef9130a189ea6f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/243/regulation/13) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-c14d1f95323fcae43cef9130a189ea6f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/243/regulation/13) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-afa5881f3f757a8330e1de7b79bc51d9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/243/regulation/14) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-afa5881f3f757a8330e1de7b79bc51d9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/243/regulation/14) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00008]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” in section 15(1) was amended by paragraph 158 of Schedule 17 to the Electronic Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-065be8d6219df62a16af49eb133af911]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-065be8d6219df62a16af49eb133af911]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-6a7807b5a1886d4cb70dc90913ed8ffe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/243/regulation/16) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-6a7807b5a1886d4cb70dc90913ed8ffe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/243/regulation/16) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-f8fe5fa5918667326ccef17ba05ab773]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/ssi/2015/243/regulation/16) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2015/328/regulation/4/3)
+[^c-f8fe5fa5918667326ccef17ba05ab773]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/ssi/2015/243/regulation/16) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2015/328/regulation/4/3)
 
-[^key-0f9d66f07f8fcc7555ba4de73e763c12]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/243/regulation/17) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-0f9d66f07f8fcc7555ba4de73e763c12]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/243/regulation/17) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00009]: Footnote: Section 41D was inserted by section 23(1) of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3) (“the 2011 Act”).
 
 [^f00010]: Footnote: Section 41I was inserted by section 23(1) of the 2011 Act.
 
-[^key-74a803ecc299e58c3e3caeb5b2c836e1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/243/regulation/18) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-74a803ecc299e58c3e3caeb5b2c836e1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/243/regulation/18) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00011]: Footnote: A listed building purchase notice is a notice served under section 28(1) of the Planning (Listed Building and Conservation Areas) (Scotland) Act [1997 (c.9)](https://www.legislation.gov.uk/ukpga/1997/9).
 
-[^key-e3f22d716001c7759c5b27dfb764b600]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/243/regulation/19) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-e3f22d716001c7759c5b27dfb764b600]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/243/regulation/19) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1987/1529](https://www.legislation.gov.uk/uksi/1987/1529).
 
@@ -501,12 +501,12 @@ Regulation 19 revokes the Town and Country Planning (Listed Buildings and Buildi
 
 [^f00014]: Footnote: [S.S.I. 2011/376](https://www.legislation.gov.uk/ssi/2011/376).
 
-[^key-e874f7856c12d4c249893cc8d2adb6f4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/243/regulation/20) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-e874f7856c12d4c249893cc8d2adb6f4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/243/regulation/20) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
 [^f00015]: Footnote: [S.S.I. 2013/156](https://www.legislation.gov.uk/ssi/2013/156).
 
-[^key-dce3ebc6fa1d2c32bd0a0ad2ffea6af8]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/243/schedule/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-dce3ebc6fa1d2c32bd0a0ad2ffea6af8]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/243/schedule/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-dd71ec23c3a181590882faebed86ad28]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/243/schedule/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-dd71ec23c3a181590882faebed86ad28]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/243/schedule/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
 
-[^key-f18ba75c966c0411bf60f4198eaa1278]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)
+[^c-f18ba75c966c0411bf60f4198eaa1278]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1)

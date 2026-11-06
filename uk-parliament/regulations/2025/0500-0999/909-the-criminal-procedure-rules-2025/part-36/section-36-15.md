@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.15. Reopening the determination of an appeal[^key-d1db919dc1b69f207ce1581fc0296f5b]
+## 36.15. Reopening the determination of an appeal[^c-d1db919dc1b69f207ce1581fc0296f5b]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1db919dc1b69f207ce1581fc0296f5b]: Commencement: [Rule 36.15](https://www.legislation.gov.uk/uksi/2025/909/rule/36.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d1db919dc1b69f207ce1581fc0296f5b]: Commencement: [Rule 36.15](https://www.legislation.gov.uk/uksi/2025/909/rule/36.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

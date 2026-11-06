@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales makes the following Regulations in exercise of the powers given to the Secretary of State by section 79 (2) and (3) of the Housing Grants, Construction and Regeneration Act 1996[^f00001], which are now vested in it[^f00002], and of all other powers enabling it in that behalf:
 
-## 1. Citation, commencement and extent[^key-89823c5c987e0ac2c363b652ba371942]
+## 1. Citation, commencement and extent[^c-89823c5c987e0ac2c363b652ba371942]
 
 (1) These Regulations may be cited as the Home Repair Assistance (Extension) (Wales) Regulations 1999 and shall come into force on 17th November 1999.
 
 (2) These Regulations extend to Wales only.
 
-## 2. Extension of home repair assistance[^key-9c51ea84b930d37af50aa1c66640c245]
+## 2. Extension of home repair assistance[^c-9c51ea84b930d37af50aa1c66640c245]
 
 The availability of home repair assistance shall be extended by treating income-based jobseeker’s allowance[^f00003] as one of the benefits listed in subsection (1)(e) of section 77 (entitlement to home repair assistance) of the Housing Grants, Construction and Regeneration Act 1996.
 
@@ -73,8 +73,8 @@ These Regulations extend to Wales only.
 
 [^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-89823c5c987e0ac2c363b652ba371942]: Commencement: Reg. 1 in force at 17.11.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/3084/regulation/1/1)
+[^c-89823c5c987e0ac2c363b652ba371942]: Commencement: Reg. 1 in force at 17.11.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/3084/regulation/1/1)
 
-[^key-9c51ea84b930d37af50aa1c66640c245]: Commencement: Reg. 2 in force at 17.11.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/3084/regulation/1/1)
+[^c-9c51ea84b930d37af50aa1c66640c245]: Commencement: Reg. 2 in force at 17.11.1999, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/1999/3084/regulation/1/1)
 
 [^f00003]: Footnote: *See* section 1(4) of the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18).

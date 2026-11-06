@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Employer’s reports[^key-591a531a5240e7a137baaedf874901aa]
+## 45. Employer’s reports[^c-591a531a5240e7a137baaedf874901aa]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ summary: ''
 (3) The Council must make all information provided to it under this regulation available to—
 
 - (a) an Investigating Committee; and
-- (b) a Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee where it considers that information is relevant to the case referred to it by the employer pursuant to paragraph (2)[^key-88070a12dd80a98179661e17d97b0cef].
+- (b) a Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee where it considers that information is relevant to the case referred to it by the employer pursuant to paragraph (2)[^c-88070a12dd80a98179661e17d97b0cef].
 
 ## Annotations
 
-[^key-591a531a5240e7a137baaedf874901aa]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2015/140/regulation/45) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-591a531a5240e7a137baaedf874901aa]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2015/140/regulation/45) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
 
-[^key-88070a12dd80a98179661e17d97b0cef]: Textual amendment: Word in [reg. 45(3)(b)](https://www.legislation.gov.uk/wsi/2015/140/regulation/45/3/b) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/5)
+[^c-88070a12dd80a98179661e17d97b0cef]: Textual amendment: Word in [reg. 45(3)(b)](https://www.legislation.gov.uk/wsi/2015/140/regulation/45/3/b) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/5)

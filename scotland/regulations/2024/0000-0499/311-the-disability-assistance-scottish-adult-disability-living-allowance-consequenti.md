@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-d1e6f1128b7cd19b054d83aa9180d13d]
+### 1. Citation and commencement[^c-d1e6f1128b7cd19b054d83aa9180d13d]
 
 These Regulations may be cited as the Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 and come into force on 21 March 2025.
 
 ## PART 2 — Amendments in relation to Scottish Adult Disability Living Allowance
 
-### 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-971c5c3213e26d20aa543b49dd86bee1]
+### 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^c-971c5c3213e26d20aa543b49dd86bee1]
 
 In regulation 9(2)(b) (conditions relating to residence and presence in Great Britain) of the Social Security (Invalid Care Allowance) Regulations 1976[^f00002] after head (ii), insert—
 
@@ -62,7 +62,7 @@ In regulation 9(2)(b) (conditions relating to residence and presence in Great Br
 
 .
 
-### 3. Amendment of the Council Tax (Discounts) (Scotland) Regulations 1992[^key-faa0e394e8db2ad8068e0d49cd62fd87]
+### 3. Amendment of the Council Tax (Discounts) (Scotland) Regulations 1992[^c-faa0e394e8db2ad8068e0d49cd62fd87]
 
 In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) Regulations 1992[^f00004] after head (iiie)—
 
@@ -73,7 +73,7 @@ In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) R
 
   .
 
-### 4. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-09bf5e3027f9c6cd697b2f54fac03734]
+### 4. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-09bf5e3027f9c6cd697b2f54fac03734]
 
 (1) The National Assistance (Assessment of Resources) Regulations 1992[^f00006] are amended in accordance with paragraphs (2) to (4).
 
@@ -111,7 +111,7 @@ In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) R
 
   .
 
-### 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-f55830db7a8919ed8c5bd49df1e69044]
+### 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-f55830db7a8919ed8c5bd49df1e69044]
 
 (1) The Advice and Assistance (Scotland) Regulations 1996[^f00008] are amended in accordance with paragraphs (2) and (3).
 
@@ -128,11 +128,11 @@ In regulation 2(3)(c) (care workers) of the Council Tax (Discounts) (Scotland) R
 
 .
 
-### 6. Amendment of the Education (Student Loans) Regulations 1998[^key-d16f6d469149c0b4e18506d03025faa0]
+### 6. Amendment of the Education (Student Loans) Regulations 1998[^c-d16f6d469149c0b4e18506d03025faa0]
 
 In the definition of “disability related benefits” in paragraph 1 of schedule 2 (terms of loans) of the Education (Student Loans) Regulations 1998[^f00010], after “disability living allowance,” insert “Scottish adult disability living allowance given in accordance with the Scottish Adult Disability Living Allowance Regulations 2025[^f00011], or short-term assistance in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations,”.
 
-### 7. Amendment of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^key-491d9d2411cbd2562ecc827583b82a32]
+### 7. Amendment of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^c-491d9d2411cbd2562ecc827583b82a32]
 
 (1) The Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^f00012] are amended in accordance with paragraphs (2) and (3).
 
@@ -147,11 +147,11 @@ In the definition of “disability related benefits” in paragraph 1 of schedul
 - (a) in the opening words, after “4(2)(ad) insert “, 4(2)(af)”,
 - (b) in head (ii) after “higher rate of the mobility component of the disability living allowance,” insert “the higher rate of the mobility component of Scottish adult disability living allowance, or short-term assistance”.
 
-### 8. Amendment of the Repayment of Student Loans (Scotland) Regulations 2000[^key-58c45944d03352af665148f6474b32c3]
+### 8. Amendment of the Repayment of Student Loans (Scotland) Regulations 2000[^c-58c45944d03352af665148f6474b32c3]
 
 In the definition of “disability related benefit” in regulation 2 (interpretation) of the Repayment of Student Loans (Scotland) Regulations 2000[^f00014], after “disability living allowance,” insert “Scottish adult disability living allowance given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025[^f00015], short-term assistance given in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations,”.
 
-### 9. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-f99d9e1d86db1c8b5e247aa469b9374b]
+### 9. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-f99d9e1d86db1c8b5e247aa469b9374b]
 
 (1) The Civil Legal Aid (Scotland) Regulations 2002[^f00016] are amended in accordance with paragraphs (2) to (4).
 
@@ -175,7 +175,7 @@ In the definition of “disability related benefit” in regulation 2 (interpret
 
 .
 
-### 10. Amendment of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^key-7a23f575fcbe8425ed63e9c193102643]
+### 10. Amendment of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^c-7a23f575fcbe8425ed63e9c193102643]
 
 In article 4 (the severely mentally impaired) of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^f00018], after paragraph (2)(dc), insert—
 
@@ -183,7 +183,7 @@ In article 4 (the severely mentally impaired) of the Council Tax (Discounts) (Sc
 
 .
 
-### 11. Amendment of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^key-35902ca837adbd2167d2f0791859debb]
+### 11. Amendment of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^c-35902ca837adbd2167d2f0791859debb]
 
 In Table B in Part 2 of the schedule (calculation of requirements) of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^f00020], in column 2 of the entry which modifies the table in schedule 2 of the Income Support (General) Regulations 1987, in sub-paragraph (1)(b) of the substituted paragraph 13A, after head (iib) insert—
 
@@ -192,7 +192,7 @@ In Table B in Part 2 of the schedule (calculation of requirements) of the Nation
 
 .
 
-### 12. Amendment of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^key-729ecffd609d91f1442b6b3c3d1af6cf]
+### 12. Amendment of the National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^c-729ecffd609d91f1442b6b3c3d1af6cf]
 
 (1) The National Bus Travel Concession Scheme for Older and Disabled Persons (Eligible Persons and Eligible Services) (Scotland) Order 2006[^f00022] is amended in accordance with paragraphs (2) and (3).
 
@@ -227,7 +227,7 @@ In Table B in Part 2 of the schedule (calculation of requirements) of the Nation
 
     .
 
-### 13. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^key-6a816c86fc232f160298b0a794bbc3f5]
+### 13. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^c-6a816c86fc232f160298b0a794bbc3f5]
 
 In regulation 8(6) (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or other disability) of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^f00024]—
 
@@ -238,7 +238,7 @@ In regulation 8(6) (additional requirements for applications for a proxy vote fo
 
   .
 
-### 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-e4c0ca4aa1a6724e1ed27959cbe7c2fd]
+### 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-e4c0ca4aa1a6724e1ed27959cbe7c2fd]
 
 (1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00026] are amended in accordance with paragraphs (2) to (9).
 
@@ -295,7 +295,7 @@ In regulation 8(6) (additional requirements for applications for a proxy vote fo
 
 (9) In schedule 5 (amount of alternative maximum council tax reduction) in paragraph 2(a), after “disability living allowance,” insert “Scottish adult disability living allowance,”.
 
-### 15. Amendment of the Home Energy Assistance Scheme (Scotland) Regulations 2013[^key-7f7687f0ee5e48d32a46cd23219b1e5c]
+### 15. Amendment of the Home Energy Assistance Scheme (Scotland) Regulations 2013[^c-7f7687f0ee5e48d32a46cd23219b1e5c]
 
 (1) Regulation 6 (person eligible to apply for a grant) of the Home Energy Assistance Scheme (Scotland) Regulations 2013[^f00028] is amended in accordance with paragraphs (2) to (4).
 
@@ -316,7 +316,7 @@ In regulation 8(6) (additional requirements for applications for a proxy vote fo
 
 .
 
-### 16. Amendment of the Children’s Legal Assistance (Scotland) Regulations 2013[^key-985d13721b25ef97ccce56d7e8c8d4e4]
+### 16. Amendment of the Children’s Legal Assistance (Scotland) Regulations 2013[^c-985d13721b25ef97ccce56d7e8c8d4e4]
 
 In paragraph 5 of schedule 1 (assessment of disposable income for the purposes of children’s legal aid) of the Children’s Legal Assistance (Scotland) Regulations 2013[^f00031], after sub-paragraph (l) insert—
 
@@ -325,7 +325,7 @@ In paragraph 5 of schedule 1 (assessment of disposable income for the purposes o
 
 .
 
-### 17. Amendment of the Scottish Parliament (Elections etc.) Order 2015[^key-cfe7506508ad4b231f0a123b62f25d6f]
+### 17. Amendment of the Scottish Parliament (Elections etc.) Order 2015[^c-cfe7506508ad4b231f0a123b62f25d6f]
 
 In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elections etc.) Order 2015[^f00033]—
 
@@ -337,7 +337,7 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
   .
 
-### 18. Amendment of the Council Tax Reduction (Scotland) Regulations 2021[^key-0d631379fcc5f713924c3a3816153639]
+### 18. Amendment of the Council Tax Reduction (Scotland) Regulations 2021[^c-0d631379fcc5f713924c3a3816153639]
 
 (1) The Council Tax Reduction (Scotland) Regulations 2021[^f00035] are amended in accordance with paragraphs (2) to (6).
 
@@ -395,7 +395,7 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
 (6) In schedule 2 (amount of second adult rebate) in paragraph 2(a) after “disability living allowance,” insert “Scottish adult disability living allowance,”.
 
-### 19. Amendment of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^key-efb7a0583e65675adcf3f9856f45f997]
+### 19. Amendment of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^c-efb7a0583e65675adcf3f9856f45f997]
 
 (1) The Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00037] are amended in accordance with paragraphs (2) to (7).
 
@@ -458,7 +458,7 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
   .
 
-### 20. Amendment of the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^key-300010618813cab57043e3852f9dc390]
+### 20. Amendment of the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^c-300010618813cab57043e3852f9dc390]
 
 (1) The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^f00039] are amended in accordance with paragraphs (2) to (4).
 
@@ -501,7 +501,7 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
   .
 
-### 21. Amendment of the Disability Assistance for Older People (Scotland) Regulations 2024[^key-cf4cf63b25260dc389206b4aeee6ffd6]
+### 21. Amendment of the Disability Assistance for Older People (Scotland) Regulations 2024[^c-cf4cf63b25260dc389206b4aeee6ffd6]
 
 (1) The Disability Assistance for Older People (Scotland) Regulations 2024[^f00041] are amended in accordance with paragraphs (2) to (4).
 
@@ -534,13 +534,13 @@ In paragraph 5(6) of schedule 3 (absent voting) of the Scottish Parliament (Elec
 
 ## PART 3 — Revocation and Saving of Working Age Disability Living Allowance
 
-### 22. Revocation and saving provisions - the Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022[^key-cf5c6142efd032d5c0d587d653a33613]
+### 22. Revocation and saving provisions - the Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022[^c-cf5c6142efd032d5c0d587d653a33613]
 
 (1) Except where paragraph (2) applies, the Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022[^f00043] (“**the ADP Transitional Regulations**”) are revoked.
 
 (2) The ADP Transitional Regulations continue to have effect on and after 21 March 2025 for any individual on whom, prior to 21 March 2025, the Scottish Ministers have served a notice of intention to transfer to Adult Disability Payment under regulation 3 of those Regulations.
 
-(3)[^key-f025b5e2946d23e9d4f9bcaab39c44cf] Where paragraph (2) applies, for any period on or after 6 April 2026, regulation 6(1) of the ADP Transitional Regulations is to be read as if the amount of the transitional rate were £30.30.
+(3)[^c-f025b5e2946d23e9d4f9bcaab39c44cf] Where paragraph (2) applies, for any period on or after 6 April 2026, regulation 6(1) of the ADP Transitional Regulations is to be read as if the amount of the transitional rate were £30.30.
 
 SHIRLEY-ANNE SOMERVILLE
 
@@ -568,87 +568,87 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-d1e6f1128b7cd19b054d83aa9180d13d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-d1e6f1128b7cd19b054d83aa9180d13d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
-[^key-971c5c3213e26d20aa543b49dd86bee1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/311/regulation/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-971c5c3213e26d20aa543b49dd86bee1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/311/regulation/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409), relevantly amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174), [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346), [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141) and [S.S.I. 2024/919](https://www.legislation.gov.uk/ssi/2024/919).
 
 [^f00003]: Footnote: S.S.I. 2025/XXX.
 
-[^key-faa0e394e8db2ad8068e0d49cd62fd87]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/311/regulation/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-faa0e394e8db2ad8068e0d49cd62fd87]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/311/regulation/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1992/1409](https://www.legislation.gov.uk/uksi/1992/1409), relevantly amended by [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00005]: Footnote: S.S.I. 2025/XXX.
 
-[^key-09bf5e3027f9c6cd697b2f54fac03734]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/311/regulation/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-09bf5e3027f9c6cd697b2f54fac03734]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/311/regulation/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977), relevantly amended by [S.I. 1993/2230](https://www.legislation.gov.uk/uksi/1993/2230), [S.I. 1995/858](https://www.legislation.gov.uk/uksi/1995/858), [S.S.I. 2003/425](https://www.legislation.gov.uk/ssi/2003/425), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00007]: Footnote: S.S.I. 2025/XXX.
 
-[^key-f55830db7a8919ed8c5bd49df1e69044]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2024/311/regulation/5) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-f55830db7a8919ed8c5bd49df1e69044]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2024/311/regulation/5) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447), relevantly amended by [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31), [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00009]: Footnote: S.S.I. 2025/XXX.
 
-[^key-d16f6d469149c0b4e18506d03025faa0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2024/311/regulation/6) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-d16f6d469149c0b4e18506d03025faa0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2024/311/regulation/6) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1998/211](https://www.legislation.gov.uk/uksi/1998/211), relevantly amended by [S.S.I. 2001/210](https://www.legislation.gov.uk/ssi/2001/210), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73) and [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31).
 
 [^f00011]: Footnote: S.S.I. 2025/XXX.
 
-[^key-491d9d2411cbd2562ecc827583b82a32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2024/311/regulation/7) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-491d9d2411cbd2562ecc827583b82a32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2024/311/regulation/7) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00012]: Footnote: [S.S.I. 2000/59](https://www.legislation.gov.uk/ssi/2000/59), relevantly amended by [S.S.I. 2007/162](https://www.legislation.gov.uk/ssi/2007/162), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2014/145](https://www.legislation.gov.uk/ssi/2014/145), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73) and [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31).
 
 [^f00013]: Footnote: S.S.I. 2025/XXX.
 
-[^key-58c45944d03352af665148f6474b32c3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/311/regulation/8) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-58c45944d03352af665148f6474b32c3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/311/regulation/8) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00014]: Footnote: [S.S.I. 2000/110](https://www.legislation.gov.uk/ssi/2000/110), relevantly amended by [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), and [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31).
 
 [^f00015]: Footnote: S.S.I. 2025/XXX.
 
-[^key-f99d9e1d86db1c8b5e247aa469b9374b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/311/regulation/9) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-f99d9e1d86db1c8b5e247aa469b9374b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/311/regulation/9) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00016]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), relevantly amended by [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174), [S.S.I. 2023/178](https://www.legislation.gov.uk/ssi/2023/178), [S.S.I. 2023/313](https://www.legislation.gov.uk/ssi/2023/313), [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141) and [S.S.I. 2024/216](https://www.legislation.gov.uk/ssi/2024/216).
 
 [^f00017]: Footnote: S.S.I. 2025/XXX.
 
-[^key-7a23f575fcbe8425ed63e9c193102643]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2024/311/regulation/10) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-7a23f575fcbe8425ed63e9c193102643]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2024/311/regulation/10) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00018]: Footnote: [S.S.I. 2003/176](https://www.legislation.gov.uk/ssi/2003/176), relevantly amended by [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2013/137](https://www.legislation.gov.uk/ssi/2013/137), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00019]: Footnote: S.S.I. 2025/XXX.
 
-[^key-35902ca837adbd2167d2f0791859debb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2024/311/regulation/11) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-35902ca837adbd2167d2f0791859debb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2024/311/regulation/11) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00020]: Footnote: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460), relevantly amended by [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73).
 
 [^f00021]: Footnote: S.S.I. 2025/XXX.
 
-[^key-729ecffd609d91f1442b6b3c3d1af6cf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2024/311/regulation/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-729ecffd609d91f1442b6b3c3d1af6cf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2024/311/regulation/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00022]: Footnote: [S.S.I. 2006/117](https://www.legislation.gov.uk/ssi/2006/117), relevantly amended by [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078), [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65), [S.S.I. 2021/175](https://www.legislation.gov.uk/ssi/2021/175) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00023]: Footnote: S.S.I. 2025/XXX.
 
-[^key-6a816c86fc232f160298b0a794bbc3f5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2024/311/regulation/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-6a816c86fc232f160298b0a794bbc3f5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2024/311/regulation/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00024]: Footnote: [S.S.I. 2007/170](https://www.legislation.gov.uk/ssi/2007/170), relevantly amended by [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73) and [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31).
 
 [^f00025]: Footnote: S.S.I. 2025/XXX.
 
-[^key-e4c0ca4aa1a6724e1ed27959cbe7c2fd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2024/311/regulation/14) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-e4c0ca4aa1a6724e1ed27959cbe7c2fd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2024/311/regulation/14) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00026]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2017/326](https://www.legislation.gov.uk/ssi/2017/326), [S.S.I. 2018/211](https://www.legislation.gov.uk/ssi/2018/211), [S.S.I. 2018/295](https://www.legislation.gov.uk/ssi/2018/295), [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29), [S.S.I. 2019/133](https://www.legislation.gov.uk/ssi/2019/133), [S.S.I. 2019/325](https://www.legislation.gov.uk/ssi/2019/325), [S.S.I. 2020/413](https://www.legislation.gov.uk/ssi/2020/413), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2021/122](https://www.legislation.gov.uk/ssi/2021/122), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00027]: Footnote: S.S.I. 2025/XXX.
 
-[^key-7f7687f0ee5e48d32a46cd23219b1e5c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2024/311/regulation/15) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-7f7687f0ee5e48d32a46cd23219b1e5c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2024/311/regulation/15) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00028]: Footnote: [S.S.I. 2013/148](https://www.legislation.gov.uk/ssi/2013/148), relevantly amended by [S.S.I. 2013/253](https://www.legislation.gov.uk/ssi/2013/253), [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73), [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31), and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
@@ -656,44 +656,44 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00030]: Footnote: S.S.I. 2025/XXX.
 
-[^key-985d13721b25ef97ccce56d7e8c8d4e4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2024/311/regulation/16) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-985d13721b25ef97ccce56d7e8c8d4e4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2024/311/regulation/16) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00031]: Footnote: [S.S.I. 2013/200](https://www.legislation.gov.uk/ssi/2013/200), relevantly amended by [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31) and [S.S.I. 2023/11](https://www.legislation.gov.uk/ssi/2023/11).
 
 [^f00032]: Footnote: S.S.I. 2025/XXX.
 
-[^key-cfe7506508ad4b231f0a123b62f25d6f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2024/311/regulation/17) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-cfe7506508ad4b231f0a123b62f25d6f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2024/311/regulation/17) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00033]: Footnote: [S.S.I. 2015/425](https://www.legislation.gov.uk/ssi/2015/425), relevantly amended by [S.S.I. 2022/31](https://www.legislation.gov.uk/ssi/2022/31).
 
 [^f00034]: Footnote: S.S.I. 2025/XXX.
 
-[^key-0d631379fcc5f713924c3a3816153639]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2024/311/regulation/18) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-0d631379fcc5f713924c3a3816153639]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2024/311/regulation/18) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00035]: Footnote: [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249), as relevantly amended by [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249), [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52), [S.S.I. 2022/161](https://www.legislation.gov.uk/ssi/2022/161), [S.S.I. 2022/271](https://www.legislation.gov.uk/ssi/2022/271), [S.S.I. 2023/38](https://www.legislation.gov.uk/ssi/2023/38), [S.S.I. 2023/46](https://www.legislation.gov.uk/ssi/2023/46), [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258), [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141) and [S.S.I. 2024/230](https://www.legislation.gov.uk/ssi/2024/230).
 
 [^f00036]: Footnote: S.S.I. 2025/XXX.
 
-[^key-efb7a0583e65675adcf3f9856f45f997]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2024/311/regulation/19) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-efb7a0583e65675adcf3f9856f45f997]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2024/311/regulation/19) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00037]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54), relevantly amended by [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217) and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00038]: Footnote: S.S.I. 2025/XXX.
 
-[^key-300010618813cab57043e3852f9dc390]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2024/311/regulation/20) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-300010618813cab57043e3852f9dc390]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2024/311/regulation/20) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00039]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302), relevantly amended by [S.S.I. 2022/108](https://www.legislation.gov.uk/ssi/2022/108), [S.S.I. 2022/336](https://www.legislation.gov.uk/ssi/2022/336), [S.S.I. 2023/149](https://www.legislation.gov.uk/ssi/2023/149), and [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
 [^f00040]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302), to be further relevantly amended by [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141).
 
-[^key-cf4cf63b25260dc389206b4aeee6ffd6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2024/311/regulation/21) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-cf4cf63b25260dc389206b4aeee6ffd6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2024/311/regulation/21) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00041]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
 
 [^f00042]: Footnote: S.S.I. 2025/XXX.
 
-[^key-cf5c6142efd032d5c0d587d653a33613]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2024/311/regulation/22) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
+[^c-cf5c6142efd032d5c0d587d653a33613]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2024/311/regulation/22) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1)
 
 [^f00043]: Footnote: [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217).
 
-[^key-f025b5e2946d23e9d4f9bcaab39c44cf]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/ssi/2024/311/regulation/22/3) inserted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [14](https://www.legislation.gov.uk/ssi/2026/170/regulation/14) (with [sch. para. 12](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/12))
+[^c-f025b5e2946d23e9d4f9bcaab39c44cf]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/ssi/2024/311/regulation/22/3) inserted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [14](https://www.legislation.gov.uk/ssi/2026/170/regulation/14) (with [sch. para. 12](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/12))

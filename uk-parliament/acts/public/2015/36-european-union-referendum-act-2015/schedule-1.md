@@ -24,7 +24,7 @@ Section 3
 
 ### The referendum period
 
-**1.**[^key-ef298ab75b122290824f80372c970c33] (1) For the purposes of Part 7 of the 2000 Act and this Act, the referendum period for the referendum is such period as may be prescribed by regulations made by the Minister.
+**1.**[^c-ef298ab75b122290824f80372c970c33] (1) For the purposes of Part 7 of the 2000 Act and this Act, the referendum period for the referendum is such period as may be prescribed by regulations made by the Minister.
 
 (2) The period prescribed under this paragraph must be a period which—
 
@@ -33,7 +33,7 @@ Section 3
 
 ### Permitted participants
 
-**2.**[^key-f2b68f50b8ada13549725cedda85ff71] Section 105(1) of the 2000 Act (bodies and individuals who are “**permitted participants**” in relation to a referendum) has effect for the purposes of the referendum as if for paragraph (b) there were substituted—
+**2.**[^c-f2b68f50b8ada13549725cedda85ff71] Section 105(1) of the 2000 Act (bodies and individuals who are “**permitted participants**” in relation to a referendum) has effect for the purposes of the referendum as if for paragraph (b) there were substituted—
 
 > - (b) any of the following by whom a notification has been given under section 106 in relation to the referendum, namely—
 >   - (i) any individual who is resident in the United Kingdom or registered in an electoral register as defined by section 54(8);
@@ -47,7 +47,7 @@ Section 3
 
 ### Notifications and declarations for purpose of becoming permitted participant
 
-**3.**[^key-80a660edafef1b966d2c4106a86dcce4] (1) Section 106 of the 2000 Act (declarations and notifications relating to section 105) has effect for the purposes of the referendum with the following modifications.
+**3.**[^c-80a660edafef1b966d2c4106a86dcce4] (1) Section 106 of the 2000 Act (declarations and notifications relating to section 105) has effect for the purposes of the referendum with the following modifications.
 
 (2) Subsection (4)(b) has effect for those purposes as if after “54(2)” there were inserted “ or any of paragraphs (b) and (d) to (g) of section 54(2A) ”.
 
@@ -84,18 +84,18 @@ Section 3
 
 ### Registration under section 107 of the 2000 Act
 
-**4.**[^key-8f35225523b9405240bdd625398e849b] Where a statement under 106(6A) of the 2000 Act (treated as inserted by paragraph 3 above) is given to the Electoral Commission with a declaration or notification, the information that must be entered in the register under section 107 of that Act in respect of the declaration or notification includes—
+**4.**[^c-8f35225523b9405240bdd625398e849b] Where a statement under 106(6A) of the 2000 Act (treated as inserted by paragraph 3 above) is given to the Electoral Commission with a declaration or notification, the information that must be entered in the register under section 107 of that Act in respect of the declaration or notification includes—
 
 - (a) the fact that the statement was made, and
 - (b) the name of the person who made it.
 
 ### Responsible person
 
-**5.**[^key-44c6c7f710e6eb14a53a2b990c4729f2] Section 105(2) of the 2000 Act (meaning of “responsible person”) has effect for the purposes of the referendum as if in paragraph (c) after “106(4)(b)(ii)” there were inserted “ or (c)(ii) ”.
+**5.**[^c-44c6c7f710e6eb14a53a2b990c4729f2] Section 105(2) of the 2000 Act (meaning of “responsible person”) has effect for the purposes of the referendum as if in paragraph (c) after “106(4)(b)(ii)” there were inserted “ or (c)(ii) ”.
 
 ### Person may not be responsible for compliance for two or more permitted participants
 
-**6.**[^key-b2416eea31d7523e39a4cf184567a226] (1) A person who is the responsible person for a permitted participant may not give a notification under section 106(3) of the 2000 Act in relation to the referendum.
+**6.**[^c-b2416eea31d7523e39a4cf184567a226] (1) A person who is the responsible person for a permitted participant may not give a notification under section 106(3) of the 2000 Act in relation to the referendum.
 
 (2) An individual who is a permitted participant ceases to be a permitted participant if he or she is the treasurer of a registered party (other than a minor party) that becomes a permitted participant.
 
@@ -116,7 +116,7 @@ Section 3
 
 ### Unincorporated associations with offensive etc names
 
-**7.**[^key-0936c2cb944d414cf3bb11287f7a9d8c] (1) This paragraph applies to a notification which, in relation to the referendum, is given to the Electoral Commission under section 106(3) of the 2000 Act by an unincorporated association falling within section 54(2)(h) or 54(2A)(g) of that Act.
+**7.**[^c-0936c2cb944d414cf3bb11287f7a9d8c] (1) This paragraph applies to a notification which, in relation to the referendum, is given to the Electoral Commission under section 106(3) of the 2000 Act by an unincorporated association falling within section 54(2)(h) or 54(2A)(g) of that Act.
 
 (2) A notification to which this paragraph applies is not to be treated for the purposes of section 105 or 107 of the 2000 Act as having been given unless the Electoral Commission have accepted the notification.
 
@@ -130,7 +130,7 @@ Section 3
 - (a) stating whether they accept the notification, and
 - (b) if their decision is not to accept the notification, giving the reasons for that decision.
 
-**8.**[^key-d0fd86aed0bce263d31d4d1d4612a467] (1) Where—
+**8.**[^c-d0fd86aed0bce263d31d4d1d4612a467] (1) Where—
 
 - (a) a permitted participant is an unincorporated association falling within section 54(2)(h) or 54(2A)(g) of the 2000 Act,
 - (b) the Electoral Commission is notified under section 106(5) of that Act of a change of name of the association, and
@@ -147,7 +147,7 @@ the Electoral Commission does not have to enter the new name in the register und
 
 ### Designation of organisations: designation of one organisation only
 
-**9.**[^key-b464a1cc4f7a0897059c7ddc0c90ee79] (1) Section 108 of the 2000 Act (designation of organisations to whom assistance is available) has effect for the purposes of the referendum with the following modifications.
+**9.**[^c-b464a1cc4f7a0897059c7ddc0c90ee79] (1) Section 108 of the 2000 Act (designation of organisations to whom assistance is available) has effect for the purposes of the referendum with the following modifications.
 
 (2) Subsection (2) has effect for those purposes as if for the words from “the Commission” to the end there were substituted
 
@@ -163,12 +163,12 @@ the Electoral Commission does not have to enter the new name in the register und
 
 (3) For the purposes of the referendum subsections (3) and (4) are to be treated as omitted.
 
-**10.**[^key-9049efe1de4a18099853d7cd1e1fe32c] Accordingly, for the purposes of the referendum, section 109 of the 2000 Act (applying to become a designated organisation) has effect as if—
+**10.**[^c-9049efe1de4a18099853d7cd1e1fe32c] Accordingly, for the purposes of the referendum, section 109 of the 2000 Act (applying to become a designated organisation) has effect as if—
 
 - (a) in subsection (4) paragraph (b) (and the “or” before it) were omitted, and
 - (b) in subsection (5) paragraph (b) (and the “or” before it) were omitted.
 
-**11.**[^key-d551f390cf32b11ecd3b237a65d53657] (1) This paragraph applies if the Electoral Commission designate only one permitted participant under section 108(2) of the 2000 Act in respect of the referendum.
+**11.**[^c-d551f390cf32b11ecd3b237a65d53657] (1) This paragraph applies if the Electoral Commission designate only one permitted participant under section 108(2) of the 2000 Act in respect of the referendum.
 
 (2) If this paragraph applies, section 110 of the 2000 Act (assistance available to designated organisations) has effect for the purposes of the referendum as if—
 
@@ -186,11 +186,11 @@ the Electoral Commission does not have to enter the new name in the register und
 
 ### Applying to become a designated organisation: period for making application
 
-**12.**[^key-88e2382958515a81ba1af4648afd936a] Subsections (2), (3) and (6) of section 109 of the 2000 Act (application by organisation for designation) have effect for the purposes of the referendum as if the reference in subsection (2)(b) of that section to the first day of the referendum period were a reference to the day prescribed under this paragraph by regulations made by the Minister.
+**12.**[^c-88e2382958515a81ba1af4648afd936a] Subsections (2), (3) and (6) of section 109 of the 2000 Act (application by organisation for designation) have effect for the purposes of the referendum as if the reference in subsection (2)(b) of that section to the first day of the referendum period were a reference to the day prescribed under this paragraph by regulations made by the Minister.
 
 ### Grants to designated organisations may be paid in instalments
 
-**13.**[^key-a1cfb4a6939e82229d2fe83292ed950c] (1) This paragraph applies to a grant under section 110(2) of the 2000 Act (grants to designated organisations) made in respect of the referendum.
+**13.**[^c-a1cfb4a6939e82229d2fe83292ed950c] (1) This paragraph applies to a grant under section 110(2) of the 2000 Act (grants to designated organisations) made in respect of the referendum.
 
 (2) The grant may be paid in whatever instalments the Electoral Commission consider appropriate.
 
@@ -200,7 +200,7 @@ the Electoral Commission does not have to enter the new name in the register und
 
 ### Assistance available to designated organisations
 
-**14.**[^key-a7abf145b60d5c94271d9a90dbcf996d] (1) Schedule 12 to the 2000 Act (assistance available to designated organisations) has effect for the purposes of the referendum with the following modifications.
+**14.**[^c-a7abf145b60d5c94271d9a90dbcf996d] (1) Schedule 12 to the 2000 Act (assistance available to designated organisations) has effect for the purposes of the referendum with the following modifications.
 
 (2) Paragraph 2(2) has effect for those purposes as if after paragraph (b) there were inserted—
 
@@ -216,14 +216,14 @@ the Electoral Commission does not have to enter the new name in the register und
 
 ### Referendum agents
 
-**15.**[^key-0aaa2eb340a3a1ba51b34d1eddebbe42] (1) A permitted participant may, in relation to any voting area, appoint an individual (who may be the responsible person) to be the permitted participant's referendum agent for that area.
+**15.**[^c-0aaa2eb340a3a1ba51b34d1eddebbe42] (1) A permitted participant may, in relation to any voting area, appoint an individual (who may be the responsible person) to be the permitted participant's referendum agent for that area.
 
 (2) Regulations under section 4 may—
 
 - (a) confer functions on a referendum agent appointed under this paragraph;
 - (b) make further provision (additional to the provision in paragraphs 16 and 17) in connection with referendum agents.
 
-**16.**[^key-9017844aaf2e623531d1ff0071f8a27d] (1) If a permitted participant appoints a referendum agent for a voting area, the responsible person must give the counting officer for the area notification of the name and home or business address of—
+**16.**[^c-9017844aaf2e623531d1ff0071f8a27d] (1) If a permitted participant appoints a referendum agent for a voting area, the responsible person must give the counting officer for the area notification of the name and home or business address of—
 
 - (a) the permitted participant, and
 - (b) the referendum agent.
@@ -239,16 +239,16 @@ the Electoral Commission does not have to enter the new name in the register und
 
 (4) The duties imposed on a responsible person by this paragraph may be discharged by any person authorised in writing by the responsible person.
 
-**17.**[^key-26f5889583a6d9b94e7dc7f30a83c9e4] If a counting officer is notified under paragraph 16 that a permitted participant has appointed a referendum agent, the counting officer must as soon as practicable give public notice of—
+**17.**[^c-26f5889583a6d9b94e7dc7f30a83c9e4] If a counting officer is notified under paragraph 16 that a permitted participant has appointed a referendum agent, the counting officer must as soon as practicable give public notice of—
 
 - (a) the name and address of the referendum agent, and
 - (b) the name of the permitted participant.
 
 ### Referendum expenses: definition
 
-**18.**[^key-cdb0766f6f1b773244c09104be9b68ad] Schedule 13 to the 2000 Act (expenses that are referendum expenses where incurred for referendum purposes) has effect for the purposes of the referendum as if in paragraph 2(a) after “public funds” there were inserted “ or Gibraltar public funds ”.
+**18.**[^c-cdb0766f6f1b773244c09104be9b68ad] Schedule 13 to the 2000 Act (expenses that are referendum expenses where incurred for referendum purposes) has effect for the purposes of the referendum as if in paragraph 2(a) after “public funds” there were inserted “ or Gibraltar public funds ”.
 
-**19.**[^key-c6d1d3442fe0332406f9c51825451c25] (1) In relation to the referendum, expenses mentioned in sub-paragraph (2) are not to be treated for any purpose of this Act or Part 7 of the 2000 Act as referendum expenses.
+**19.**[^c-c6d1d3442fe0332406f9c51825451c25] (1) In relation to the referendum, expenses mentioned in sub-paragraph (2) are not to be treated for any purpose of this Act or Part 7 of the 2000 Act as referendum expenses.
 
 (2) Those expenses are—
 
@@ -262,13 +262,13 @@ the Electoral Commission does not have to enter the new name in the register und
 
 (3) In sub-paragraph (2)(c) “**disability**” has the same meaning as in the Equality Act 2010 (see section 6 of that Act).
 
-**20.**[^key-b83087485da7d0bf8222dbb0dadd3128] (1) In section 117(5) of the 2000 Act (certain expenditure incurred before the referendum period treated as incurred during that period), the reference to any time before the beginning of the referendum period is to be read for the purposes of the referendum as including any time before the day when section 3 of this Act (application of Part 7 of the 2000 Act to the referendum) is brought into force for the purposes of applying section 117 of the 2000 Act to the referendum.
+**20.**[^c-b83087485da7d0bf8222dbb0dadd3128] (1) In section 117(5) of the 2000 Act (certain expenditure incurred before the referendum period treated as incurred during that period), the reference to any time before the beginning of the referendum period is to be read for the purposes of the referendum as including any time before the day when section 3 of this Act (application of Part 7 of the 2000 Act to the referendum) is brought into force for the purposes of applying section 117 of the 2000 Act to the referendum.
 
 (2) This paragraph has effect in relation to section 117(5) of the 2000 Act as it applies for the purposes of section 117 of that Act and as applied by any provision of that Act or of this Schedule.
 
 ### Creditors' rights
 
-**21.**[^key-0ad68cf8bf0fd384c69991d9ad67f2a5] (1) This paragraph applies where—
+**21.**[^c-0ad68cf8bf0fd384c69991d9ad67f2a5] (1) This paragraph applies where—
 
 - (a) a contract is made, or an expense is incurred, in connection with the referendum, and
 - (b) the contract or expense is in contravention of a relevant provision.
@@ -283,7 +283,7 @@ the Electoral Commission does not have to enter the new name in the register und
 
 ### Expenses incurred by persons acting in concert
 
-**22.**[^key-a9033a377f6d7d55fc2eb551d263139b] (1) This paragraph applies where—
+**22.**[^c-a9033a377f6d7d55fc2eb551d263139b] (1) This paragraph applies where—
 
 - (a) referendum expenses are incurred by or on behalf of an individual or body during the referendum period for the referendum, and
 - (b) those expenses are incurred in pursuance of a plan or other arrangement by which referendum expenses are to be incurred by or on behalf of—
@@ -322,7 +322,7 @@ as having also been incurred during the referendum period by or on behalf of the
 
 (8) In this paragraph any reference to referendum expenses incurred by or on behalf of a designated organisation, or a permitted participant, during the referendum period includes referendum expenses incurred during that period before the person by or on whose behalf the expenses were incurred became a designated organisation or, as the case may be, permitted participant.
 
-**23.**[^key-a36c180c4e6a833d0acd84ed9ac757ca] (1) Section 120 of the 2000 Act (returns in respect of referendum expenses and donations) has effect for the purposes of the referendum with the following modifications (as well as with the modification in paragraph 2(1) of Schedule 2 to this Act).
+**23.**[^c-a36c180c4e6a833d0acd84ed9ac757ca] (1) Section 120 of the 2000 Act (returns in respect of referendum expenses and donations) has effect for the purposes of the referendum with the following modifications (as well as with the modification in paragraph 2(1) of Schedule 2 to this Act).
 
 (2) Subsection (2) has effect for the purposes of the referendum as if the “and” after paragraph (c) were omitted and as if after paragraph (c) there were inserted—
 
@@ -356,11 +356,11 @@ as having also been incurred during the referendum period by or on behalf of the
 
 ### Restriction on making claims in respect of referendum expenses
 
-**24.**[^key-c3627cc626f07392f203694e946c6629] Section 115(7) of the 2000 Act (which applies subsections (7) to (10) of section 77 of that Act) has effect for the purposes of the referendum as if for “(10)” there were substituted “ (12) ”.
+**24.**[^c-c3627cc626f07392f203694e946c6629] Section 115(7) of the 2000 Act (which applies subsections (7) to (10) of section 77 of that Act) has effect for the purposes of the referendum as if for “(10)” there were substituted “ (12) ”.
 
 ### Limits on referendum expenses by permitted participants
 
-**25.**[^key-6929b56591124c5ec8fe2b35bb9ebd2b] (1) In Schedule 14 to the 2000 Act (limits on referendum expenses by permitted participants), any reference to a referendum falling within section 101(1)(a) includes a reference to the referendum.
+**25.**[^c-6929b56591124c5ec8fe2b35bb9ebd2b] (1) In Schedule 14 to the 2000 Act (limits on referendum expenses by permitted participants), any reference to a referendum falling within section 101(1)(a) includes a reference to the referendum.
 
 (2) Paragraph 1(2) of that Schedule (limit on expenses incurred by permitted participants during referendum period) has effect for the purposes of the referendum as if—
 
@@ -375,7 +375,7 @@ as having also been incurred during the referendum period by or on behalf of the
 
 ### Permissible donors: donations to registered parties other than minor parties
 
-**26.**[^key-cb32deb5489431cb31e7554a2259090e] (1) This paragraph applies in relation to a donation received by a permitted participant if—
+**26.**[^c-cb32deb5489431cb31e7554a2259090e] (1) This paragraph applies in relation to a donation received by a permitted participant if—
 
 - (a) the permitted participant is a registered party that is not a minor party,
 - (b) the donation is received from a person (“**the donor**”) who in relation to that donation is not a permissible donor for the purposes of Part 4 of the 2000 Act by virtue of section 54 of that Act,
@@ -400,7 +400,7 @@ as having also been incurred during the referendum period by or on behalf of the
 - (a) “**donation**” has the same meaning as in section 54 of the 2000 Act (see section 50 of that Act);
 - (b) “**Gibraltar elector**” has the same meaning as in the 2000 Act (see section 160(1) of that Act).
 
-**27.**[^key-b976d1f8f7b009f4f56936f81809a49a] Where paragraph 26 applies in relation to a donation received by a permitted participant, paragraph 2 of Schedule 6 to the 2000 Act (details to be given in donation reports) has effect as if—
+**27.**[^c-b976d1f8f7b009f4f56936f81809a49a] Where paragraph 26 applies in relation to a donation received by a permitted participant, paragraph 2 of Schedule 6 to the 2000 Act (details to be given in donation reports) has effect as if—
 
 - (a) in sub-paragraph (1)(a) for “(10)” there were substituted “ (10C) ”, and
 - (b) the following sub-paragraphs were inserted after sub-paragraph (10)—
@@ -422,7 +422,7 @@ as having also been incurred during the referendum period by or on behalf of the
 
 ### Financial limit on certain donations etc to registered parties other than minor parties
 
-**28.**[^key-268d37bb570d3131e079db27bce4fdb0] (1) This paragraph applies where the permitted maximum is exceeded by the aggregate value of—
+**28.**[^c-268d37bb570d3131e079db27bce4fdb0] (1) This paragraph applies where the permitted maximum is exceeded by the aggregate value of—
 
 - (a) relevant donations which are received and accepted, and
 - (b) relevant regulated transactions which are entered into,
@@ -466,7 +466,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Permissible donors: donations to minor parties and to persons who are not parties
 
-**29.**[^key-4631b769711fe0fbf48addfbb9139091] Paragraph 1 of Schedule 15 to the 2000 Act (control of donations to permitted participants: operation and interpretation of Schedule) has effect for the purposes of the referendum as if the following sub-paragraphs were substituted for sub-paragraph (6)—
+**29.**[^c-4631b769711fe0fbf48addfbb9139091] Paragraph 1 of Schedule 15 to the 2000 Act (control of donations to permitted participants: operation and interpretation of Schedule) has effect for the purposes of the referendum as if the following sub-paragraphs were substituted for sub-paragraph (6)—
 
 > (6) In relation to donations received by a permitted participant other than a designated organisation—
 >
@@ -477,13 +477,13 @@ during the referendum period by a permitted participant that is a registered par
 >
 > (7) Sub-paragraph (6) applies also to references to a permissible donor, and references to a person within paragraph 6(1A) of this Schedule, in sections 56 and 61 as applied by paragraphs 7 and 8 of this Schedule.
 
-**30.**[^key-bba624f903aec3cef89602501f225965] Paragraph 4(1) of Schedule 15 to the 2000 Act (payments etc not to be regarded as donations) has effect for the purposes of the referendum as if after paragraph (a) there were inserted—
+**30.**[^c-bba624f903aec3cef89602501f225965] Paragraph 4(1) of Schedule 15 to the 2000 Act (payments etc not to be regarded as donations) has effect for the purposes of the referendum as if after paragraph (a) there were inserted—
 
 > - (aa) any grant provided out of Gibraltar public funds;
 
 .
 
-**31.**[^key-344a5fc6d7dfb057ac2ed91972cdc529] (1) Paragraph 6 of Schedule 15 to the 2000 Act (prohibition on accepting donations from persons who are not permissible donors) has effect for the purposes of the referendum with the following modifications.
+**31.**[^c-344a5fc6d7dfb057ac2ed91972cdc529] (1) Paragraph 6 of Schedule 15 to the 2000 Act (prohibition on accepting donations from persons who are not permissible donors) has effect for the purposes of the referendum with the following modifications.
 
 (2) Sub-paragraph (1)(a) has effect for those purposes as if after “a permissible donor falling within section 54(2)” there were inserted “ or a person within sub-paragraph (1A) ”.
 
@@ -513,7 +513,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Acceptance or return of donations
 
-**32.**[^key-4e46c7a029d3df1d65edc6e6350b2fe8] Paragraph 7(2) of Schedule 15 to the 2000 Act (application of sections 56 to 60 of the 2000 Act) has effect for the purposes of the referendum as if—
+**32.**[^c-4e46c7a029d3df1d65edc6e6350b2fe8] Paragraph 7(2) of Schedule 15 to the 2000 Act (application of sections 56 to 60 of the 2000 Act) has effect for the purposes of the referendum as if—
 
 - (a) before paragraph (a) there were inserted—
 
@@ -540,14 +540,14 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Evasion of restrictions on donations
 
-**33.**[^key-7ae4437f3b491cf48baebc49e1e1bacb] Paragraph 8 of Schedule 15 to the 2000 Act (application of section 61 of the 2000 Act) has effect for the purposes of the referendum as if for paragraph (c) (and the “and” preceding it) there were substituted—
+**33.**[^c-7ae4437f3b491cf48baebc49e1e1bacb] Paragraph 8 of Schedule 15 to the 2000 Act (application of section 61 of the 2000 Act) has effect for the purposes of the referendum as if for paragraph (c) (and the “and” preceding it) there were substituted—
 
 > - (c) any reference to a permissible donor included a person within paragraph 6(1A) above; and
 > - (d) any reference to the treasurer of a registered party were, in relation to a permitted participant, a reference to the responsible person.
 
 ### Reporting of donations from permissible donors
 
-**34.**[^key-aeb08677401117c786e54f18d07cc607] (1) Paragraph 10 of Schedule 15 to the 2000 Act (reporting of donations from permissible donors) has effect for the purposes of the referendum with the following modifications.
+**34.**[^c-aeb08677401117c786e54f18d07cc607] (1) Paragraph 10 of Schedule 15 to the 2000 Act (reporting of donations from permissible donors) has effect for the purposes of the referendum with the following modifications.
 
 (2) Sub-paragraph (1)(c) has effect for those purposes as if at the end there were inserted “or, where the donor is within any of paragraphs (c) to (f) of paragraph 6(1A), the information mentioned in sub-paragraph (1A) below”.
 
@@ -569,7 +569,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Returns in respect of referendum expenses and donations
 
-**35.**[^key-5458315f7b12b544b7171396a8edebd8] For the purposes of the referendum, the following section is to be treated as inserted after section 120 of the 2000 Act (returns in respect of referendum expenses and donations)—
+**35.**[^c-5458315f7b12b544b7171396a8edebd8] For the purposes of the referendum, the following section is to be treated as inserted after section 120 of the 2000 Act (returns in respect of referendum expenses and donations)—
 
 > **120A. Full return not required if expenses do not exceed £10,000**
 >
@@ -596,7 +596,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Declaration of responsible person as to donations
 
-**36.**[^key-6d3c2e1d35cb50d095dbb359abad9f25] (1) Section 123 of the 2000 Act (declaration of responsible person as to return under section 120) has effect for the purposes of the referendum with the following modifications.
+**36.**[^c-6d3c2e1d35cb50d095dbb359abad9f25] (1) Section 123 of the 2000 Act (declaration of responsible person as to return under section 120) has effect for the purposes of the referendum with the following modifications.
 
 (2) For those purposes, the following subsection is to be treated as substituted for subsection (3)—
 
@@ -611,7 +611,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Declaration where no referendum expenses incurred in referendum period
 
-**37.**[^key-481aaaae42435551336990746b24bb45] (1) For the purposes of the referendum, the following section is to be treated as inserted after section 124 of the 2000 Act—
+**37.**[^c-481aaaae42435551336990746b24bb45] (1) For the purposes of the referendum, the following section is to be treated as inserted after section 124 of the 2000 Act—
 
 > **124A. Declaration where no expenses in referendum period**
 >
@@ -662,7 +662,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Application to Gibraltar public bodies of restriction on publication of promotional material
 
-**38.**[^key-645275ab9627d8fe36e35155cac74d9a] (1) Section 125 of the 2000 Act (restriction on publication etc of promotional material by central and local government etc) has effect for the purposes of the referendum with the following modifications.
+**38.**[^c-645275ab9627d8fe36e35155cac74d9a] (1) Section 125 of the 2000 Act (restriction on publication etc of promotional material by central and local government etc) has effect for the purposes of the referendum with the following modifications.
 
 (2) Subsection (2) has effect for those purposes as if after paragraph (a) there were inserted—
 
@@ -681,7 +681,7 @@ during the referendum period by a permitted participant that is a registered par
 
 ### Reporting of donations during referendum period
 
-**39.**[^key-257d41a14b9d96d794775ed889736579] (1) In this paragraph references to a permitted participant are to a permitted participant which either is not a registered party or is a minor party.
+**39.**[^c-257d41a14b9d96d794775ed889736579] (1) In this paragraph references to a permitted participant are to a permitted participant which either is not a registered party or is a minor party.
 
 (2) In relation to the referendum, the responsible person in relation to a permitted participant must prepare reports under this paragraph in respect of—
 
@@ -723,12 +723,12 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 (11) A person guilty of an offence under sub-paragraph (9)(b) is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 12 months or to a fine, or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-af8a354e51aff3958c1ea3a31798db9a] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-af8a354e51aff3958c1ea3a31798db9a] or to a fine, or to both;
 - (c) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both;
 - (d) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both;
 - (e) on summary conviction in Gibraltar, to imprisonment for a term not exceeding 12 months or to a fine not exceeding level 5 on the Gibraltar standard scale, or to both.
 
-(12) The reference in sub-paragraph (11)(b) to the general limit in a magistrates’ court[^key-db2592459ca78c7f0d8db7e5bf075c9d] is to be read as a reference to 6 months in relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003.
+(12) The reference in sub-paragraph (11)(b) to the general limit in a magistrates’ court[^c-db2592459ca78c7f0d8db7e5bf075c9d] is to be read as a reference to 6 months in relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003.
 
 (13) In this paragraph—
 
@@ -742,7 +742,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ### Declaration of responsible person as to donation reports under paragraph 39
 
-**40.**[^key-0523f822e4d9d722f8c7b88f81a84116] (1) Each report delivered under paragraph 39 must be accompanied by a declaration which complies with sub-paragraph (2) and is signed by the responsible person.
+**40.**[^c-0523f822e4d9d722f8c7b88f81a84116] (1) Each report delivered under paragraph 39 must be accompanied by a declaration which complies with sub-paragraph (2) and is signed by the responsible person.
 
 (2) The declaration must state—
 
@@ -757,16 +757,16 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 (4) A person guilty of an offence under sub-paragraph (3) is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 12 months or to a fine, or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-a841916504044b0d20259b13a2904d80] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-a841916504044b0d20259b13a2904d80] or to a fine, or to both;
 - (c) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both;
 - (d) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both;
 - (e) on summary conviction in Gibraltar, to imprisonment for a term not exceeding 12 months or to a fine not exceeding level 5 on the Gibraltar standard scale, or to both.
 
-(5) The reference in sub-paragraph (4)(b) to the general limit in a magistrates’ court[^key-37c704f9711f4134115cc06f6fc39380] is to be read as a reference to 6 months in relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003.
+(5) The reference in sub-paragraph (4)(b) to the general limit in a magistrates’ court[^c-37c704f9711f4134115cc06f6fc39380] is to be read as a reference to 6 months in relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003.
 
 ### Public inspection of donation reports under paragraph 39
 
-**41.**[^key-dc1e2a66e1e876274488e146b6dec20f] (1) Where the Electoral Commission receive a report under paragraph 39 they must—
+**41.**[^c-dc1e2a66e1e876274488e146b6dec20f] (1) Where the Electoral Commission receive a report under paragraph 39 they must—
 
 - (a) as soon as is reasonably practicable after receiving the report, make a copy of the report and of any document accompanying it available for public inspection, and
 - (b) keep any such copy available for public inspection for the period for which the report or other document is held by them.
@@ -778,15 +778,15 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 - (a) they may cause the report or other document to be destroyed, or
 - (b) if requested to do so by the responsible person in the case of the permitted participant concerned, they must arrange for the report or other document to be returned to that person.
 
-**42.**[^key-de1d6ea7c4881ee996331dc5c138f01d] Section 149(2) to (5) and (7) of the 2000 Act (inspection of Commission's documents) apply in relation to reports and documents which the Electoral Commission are required to make available for public inspection under paragraph 41 as they apply to the documents which the Electoral Commission are required to make available for public inspection by virtue of the provisions of the 2000 Act mentioned in section 149(6) of that Act.
+**42.**[^c-de1d6ea7c4881ee996331dc5c138f01d] Section 149(2) to (5) and (7) of the 2000 Act (inspection of Commission's documents) apply in relation to reports and documents which the Electoral Commission are required to make available for public inspection under paragraph 41 as they apply to the documents which the Electoral Commission are required to make available for public inspection by virtue of the provisions of the 2000 Act mentioned in section 149(6) of that Act.
 
 ### Referendum campaign broadcasts
 
-**43.**[^key-8393a56fcaa50d4640bd771763c30f6b] Section 127 of the 2000 Act (referendum campaign broadcasts) has effect for the purposes of the referendum as if any reference to a broadcaster (within the meaning given by section 37(2) of that Act) included a reference to the Gibraltar Broadcasting Corporation.
+**43.**[^c-8393a56fcaa50d4640bd771763c30f6b] Section 127 of the 2000 Act (referendum campaign broadcasts) has effect for the purposes of the referendum as if any reference to a broadcaster (within the meaning given by section 37(2) of that Act) included a reference to the Gibraltar Broadcasting Corporation.
 
 ### Enforcement
 
-**44.**[^key-7b6c45b3506757121989dbbc5a0a137b] (1) Section 145(1)(a) and (6A) of the 2000 Act (general functions of Electoral Commission with respect to compliance) apply in relation to the requirements imposed by this Schedule as they apply in relation to the requirements referred to in section 145(1)(a).
+**44.**[^c-7b6c45b3506757121989dbbc5a0a137b] (1) Section 145(1)(a) and (6A) of the 2000 Act (general functions of Electoral Commission with respect to compliance) apply in relation to the requirements imposed by this Schedule as they apply in relation to the requirements referred to in section 145(1)(a).
 
 (2) In section 148 of the 2000 Act (general offences), the references in each of subsections (1) to (3) to any of the provisions of that Act include any of the provisions of this Schedule.
 
@@ -803,7 +803,7 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ### Interpretation
 
-**45.**[^key-f0dca386f0b199eb998b2625cf316658] Section 160 of the 2000 Act (general interpretation) has effect for the purposes of the referendum as if the following subsection were inserted after subsection (4)—
+**45.**[^c-f0dca386f0b199eb998b2625cf316658] Section 160 of the 2000 Act (general interpretation) has effect for the purposes of the referendum as if the following subsection were inserted after subsection (4)—
 
 > (4A) References in this Act (in whatever terms) to expenses met, or things provided, out of “Gibraltar public funds” are references to expenses met, or things provided, by means of—
 >
@@ -814,100 +814,100 @@ and in paragraph (a) “**the commencement day**” means the day on which that 
 
 ## Annotations
 
-[^key-ef298ab75b122290824f80372c970c33]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ef298ab75b122290824f80372c970c33]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-f2b68f50b8ada13549725cedda85ff71]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-f2b68f50b8ada13549725cedda85ff71]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-80a660edafef1b966d2c4106a86dcce4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-80a660edafef1b966d2c4106a86dcce4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-8f35225523b9405240bdd625398e849b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-8f35225523b9405240bdd625398e849b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-44c6c7f710e6eb14a53a2b990c4729f2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-44c6c7f710e6eb14a53a2b990c4729f2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-b2416eea31d7523e39a4cf184567a226]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-b2416eea31d7523e39a4cf184567a226]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-0936c2cb944d414cf3bb11287f7a9d8c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0936c2cb944d414cf3bb11287f7a9d8c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-d0fd86aed0bce263d31d4d1d4612a467]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-d0fd86aed0bce263d31d4d1d4612a467]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-b464a1cc4f7a0897059c7ddc0c90ee79]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/9) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-b464a1cc4f7a0897059c7ddc0c90ee79]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/9) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-9049efe1de4a18099853d7cd1e1fe32c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/10) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-9049efe1de4a18099853d7cd1e1fe32c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/10) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-d551f390cf32b11ecd3b237a65d53657]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/11) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-d551f390cf32b11ecd3b237a65d53657]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/11) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-88e2382958515a81ba1af4648afd936a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/12) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-88e2382958515a81ba1af4648afd936a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/12) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a1cfb4a6939e82229d2fe83292ed950c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/13) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a1cfb4a6939e82229d2fe83292ed950c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/13) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a7abf145b60d5c94271d9a90dbcf996d]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/14) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a7abf145b60d5c94271d9a90dbcf996d]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/14) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-0aaa2eb340a3a1ba51b34d1eddebbe42]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/15) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0aaa2eb340a3a1ba51b34d1eddebbe42]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/15) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-9017844aaf2e623531d1ff0071f8a27d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/16) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-9017844aaf2e623531d1ff0071f8a27d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/16) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-26f5889583a6d9b94e7dc7f30a83c9e4]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/17) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-26f5889583a6d9b94e7dc7f30a83c9e4]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/17) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-cdb0766f6f1b773244c09104be9b68ad]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/18) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-cdb0766f6f1b773244c09104be9b68ad]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/18) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-c6d1d3442fe0332406f9c51825451c25]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/19) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c6d1d3442fe0332406f9c51825451c25]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/19) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-b83087485da7d0bf8222dbb0dadd3128]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/20) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-b83087485da7d0bf8222dbb0dadd3128]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/20) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-0ad68cf8bf0fd384c69991d9ad67f2a5]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/21) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0ad68cf8bf0fd384c69991d9ad67f2a5]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/21) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a9033a377f6d7d55fc2eb551d263139b]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a9033a377f6d7d55fc2eb551d263139b]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a36c180c4e6a833d0acd84ed9ac757ca]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/23) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a36c180c4e6a833d0acd84ed9ac757ca]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/23) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-c3627cc626f07392f203694e946c6629]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/24) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c3627cc626f07392f203694e946c6629]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/24) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-6929b56591124c5ec8fe2b35bb9ebd2b]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/25) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-6929b56591124c5ec8fe2b35bb9ebd2b]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/25) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-cb32deb5489431cb31e7554a2259090e]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/26) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-cb32deb5489431cb31e7554a2259090e]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/26) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-b976d1f8f7b009f4f56936f81809a49a]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/27) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-b976d1f8f7b009f4f56936f81809a49a]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/27) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-268d37bb570d3131e079db27bce4fdb0]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/28) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-268d37bb570d3131e079db27bce4fdb0]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/28) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-4631b769711fe0fbf48addfbb9139091]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/29) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-4631b769711fe0fbf48addfbb9139091]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/29) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-bba624f903aec3cef89602501f225965]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/30) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-bba624f903aec3cef89602501f225965]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/30) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-344a5fc6d7dfb057ac2ed91972cdc529]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/31) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-344a5fc6d7dfb057ac2ed91972cdc529]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/31) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-4e46c7a029d3df1d65edc6e6350b2fe8]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/32) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-4e46c7a029d3df1d65edc6e6350b2fe8]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/32) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-7ae4437f3b491cf48baebc49e1e1bacb]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/33) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-7ae4437f3b491cf48baebc49e1e1bacb]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/33) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-aeb08677401117c786e54f18d07cc607]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/34) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-aeb08677401117c786e54f18d07cc607]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/34) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-5458315f7b12b544b7171396a8edebd8]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/35) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-5458315f7b12b544b7171396a8edebd8]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/35) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-6d3c2e1d35cb50d095dbb359abad9f25]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/36) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-6d3c2e1d35cb50d095dbb359abad9f25]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/36) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-481aaaae42435551336990746b24bb45]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-481aaaae42435551336990746b24bb45]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-645275ab9627d8fe36e35155cac74d9a]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/38) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-645275ab9627d8fe36e35155cac74d9a]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/38) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-257d41a14b9d96d794775ed889736579]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-257d41a14b9d96d794775ed889736579]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-af8a354e51aff3958c1ea3a31798db9a]: Textual amendment: Words in [Sch. 1 para. 39(11)(b)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39/11/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-af8a354e51aff3958c1ea3a31798db9a]: Textual amendment: Words in [Sch. 1 para. 39(11)(b)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39/11/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-db2592459ca78c7f0d8db7e5bf075c9d]: Textual amendment: Words in [Sch. 1 para. 39(12)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39/12) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-db2592459ca78c7f0d8db7e5bf075c9d]: Textual amendment: Words in [Sch. 1 para. 39(12)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/39/12) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-0523f822e4d9d722f8c7b88f81a84116]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/40) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0523f822e4d9d722f8c7b88f81a84116]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/40) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a841916504044b0d20259b13a2904d80]: Textual amendment: Words in [Sch. 1 para. 40(4)(b)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/40/4/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-a841916504044b0d20259b13a2904d80]: Textual amendment: Words in [Sch. 1 para. 40(4)(b)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/40/4/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-37c704f9711f4134115cc06f6fc39380]: Textual amendment: Words in [Sch. 1 para. 40(5)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/40/5) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-37c704f9711f4134115cc06f6fc39380]: Textual amendment: Words in [Sch. 1 para. 40(5)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/40/5) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-dc1e2a66e1e876274488e146b6dec20f]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/41) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-dc1e2a66e1e876274488e146b6dec20f]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/41) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-de1d6ea7c4881ee996331dc5c138f01d]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/42) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-de1d6ea7c4881ee996331dc5c138f01d]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/42) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-8393a56fcaa50d4640bd771763c30f6b]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/43) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-8393a56fcaa50d4640bd771763c30f6b]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/43) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-7b6c45b3506757121989dbbc5a0a137b]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-7b6c45b3506757121989dbbc5a0a137b]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-f0dca386f0b199eb998b2625cf316658]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/45) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-f0dca386f0b199eb998b2625cf316658]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/45) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

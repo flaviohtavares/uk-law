@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Application to renew: effect on existing licence[^key-e7070b2a9c1d83f1db4ef952bf29c00c]
+## 21. Application to renew: effect on existing licence[^c-e7070b2a9c1d83f1db4ef952bf29c00c]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7070b2a9c1d83f1db4ef952bf29c00c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/22/section/21) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e7070b2a9c1d83f1db4ef952bf29c00c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/22/section/21) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

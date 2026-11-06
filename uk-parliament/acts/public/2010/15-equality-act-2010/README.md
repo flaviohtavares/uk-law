@@ -34,7 +34,7 @@ An Act to make provision to require Ministers of the Crown and others when makin
 
 \[8th April 2010\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a9e8adcad5678a6c872f74b761d14298][^key-3a08f404078e6fdd50db4bf63e3f9ac3][^M_C_60c78606-c92e-4fbd-a67f-8d43c5a5862b][^key-2d45c69d3e328a515ecb5c63464f5f6c]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a9e8adcad5678a6c872f74b761d14298][^c-3a08f404078e6fdd50db4bf63e3f9ac3][^M_C_60c78606-c92e-4fbd-a67f-8d43c5a5862b][^c-2d45c69d3e328a515ecb5c63464f5f6c]
 
 ## Contents
 
@@ -132,7 +132,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 38 — Interpretation and exceptions](part-4/section-38.md)
 
-### Part 5 — Work[^key-f41b2c5923e05dd754877323a9c4b148][^key-9f9acfe439e4c256194bc7551ea6cfa1][^key-27f3f12c0e295824bd806243464db10e][^key-28c5dfe18c9869303ff372320e0844ff][^c21893661]
+### Part 5 — Work[^c-f41b2c5923e05dd754877323a9c4b148][^c-9f9acfe439e4c256194bc7551ea6cfa1][^c-27f3f12c0e295824bd806243464db10e][^c-28c5dfe18c9869303ff372320e0844ff][^c21893661]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,7 +190,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 58 — Official business of members](part-5/section-58.md)
 - [Section 59 — Interpretation](part-5/section-59.md)
 
-##### Recruitment etc[^key-f309ddadbc19bd9f269f9f5b4e8b7302]
+##### Recruitment etc[^c-f309ddadbc19bd9f269f9f5b4e8b7302]
 
 - [Section 60 — Enquiries about disability and health](part-5/section-60.md)
 - [Section 60A — Discriminatory statements](part-5/section-60a.md)
@@ -231,7 +231,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 77 — Discussions about pay](part-5/section-77.md)
 - [Section 78 — Gender pay gap information](part-5/section-78.md)
 
-##### Equality action plans[^key-70f5d8755c83d10c34a70742aa0dbcb1]
+##### Equality action plans[^c-70f5d8755c83d10c34a70742aa0dbcb1]
 
 - [Section 78A — Equality action plans](part-5/section-78a.md)
 
@@ -453,7 +453,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 180 — Fees](part-12/section-180.md)
 - [Section 181 — Interpretation](part-12/section-181.md)
 
-#### CHAPTER 2A — Bus services[^key-07cb8509ed11b24250d3969d6d12e23e]
+#### CHAPTER 2A — Bus services[^c-07cb8509ed11b24250d3969d6d12e23e]
 
 - [Section 181A — Information for bus passengers](part-12/section-181a.md)
 - [Section 181B — Exemptions etc](part-12/section-181b.md)
@@ -582,30 +582,30 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a9e8adcad5678a6c872f74b761d14298]: Modification: Act applied (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2020/916/article/4/2)
+[^c-a9e8adcad5678a6c872f74b761d14298]: Modification: Act applied (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2020/916/article/4/2)
 
-[^key-3a08f404078e6fdd50db4bf63e3f9ac3]: Modification: Act applied by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 4(1C)](https://www.legislation.gov.uk/ukpga/2010/15/article/4) (as amended (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/915/article/3))
+[^c-3a08f404078e6fdd50db4bf63e3f9ac3]: Modification: Act applied by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 4(1C)](https://www.legislation.gov.uk/ukpga/2010/15/article/4) (as amended (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/915/article/3))
 
 [^M_C_60c78606-c92e-4fbd-a67f-8d43c5a5862b]: Modification: Act applied by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4) (as amended (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/915/article/9/3))
 
-[^key-2d45c69d3e328a515ecb5c63464f5f6c]: Modification: Act modified (31.3.2021) by [S.I. 2003/2818](https://www.legislation.gov.uk/uksi/2003/2818), [art. 11(3)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/3) (as amended by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/311/article/2/4/b))
+[^c-2d45c69d3e328a515ecb5c63464f5f6c]: Modification: Act modified (31.3.2021) by [S.I. 2003/2818](https://www.legislation.gov.uk/uksi/2003/2818), [art. 11(3)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/3) (as amended by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/311/article/2/4/b))
 
-[^key-f41b2c5923e05dd754877323a9c4b148]: Modification: Pt. 5 excluded by 2005 c. 4, s. 63(4) (as inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 10(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/10/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g))
+[^c-f41b2c5923e05dd754877323a9c4b148]: Modification: Pt. 5 excluded by 2005 c. 4, s. 63(4) (as inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 10(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/10/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g))
 
-[^key-9f9acfe439e4c256194bc7551ea6cfa1]: Modification: Pt. 5 excluded by 2005 c. 4, s. 27(5A)(b) (as inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/9); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g))
+[^c-9f9acfe439e4c256194bc7551ea6cfa1]: Modification: Pt. 5 excluded by 2005 c. 4, s. 27(5A)(b) (as inserted (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/9); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g))
 
-[^key-27f3f12c0e295824bd806243464db10e]: Modification: Pt. 5 excluded (coming into force in accordance with reg. 2(1) of the commencing S.I.) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/5/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/351/regulation/2/2) \[Editorial note: S.I. 2017/1282 was made under 2017 c. 4, Sch. 5 para. 7(1) and comes into force on 12.12.2017\]
+[^c-27f3f12c0e295824bd806243464db10e]: Modification: Pt. 5 excluded (coming into force in accordance with reg. 2(1) of the commencing S.I.) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/5/paragraph/5/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/351/regulation/2/2) \[Editorial note: S.I. 2017/1282 was made under 2017 c. 4, Sch. 5 para. 7(1) and comes into force on 12.12.2017\]
 
-[^key-28c5dfe18c9869303ff372320e0844ff]: Modification: Pt. 5 restricted (S.) (29.5.2020) by [Gender Representation on Public Boards (Scotland) Act 2018 (asp 4)](https://www.legislation.gov.uk/asp/2018/4), [ss. 11(2)](https://www.legislation.gov.uk/asp/2018/4/section/11/2), [13](https://www.legislation.gov.uk/asp/2018/4/section/13); [S.S.I. 2020/119](https://www.legislation.gov.uk/ssi/2020/119), [reg. 2](https://www.legislation.gov.uk/ssi/2020/119/regulation/2)
+[^c-28c5dfe18c9869303ff372320e0844ff]: Modification: Pt. 5 restricted (S.) (29.5.2020) by [Gender Representation on Public Boards (Scotland) Act 2018 (asp 4)](https://www.legislation.gov.uk/asp/2018/4), [ss. 11(2)](https://www.legislation.gov.uk/asp/2018/4/section/11/2), [13](https://www.legislation.gov.uk/asp/2018/4/section/13); [S.S.I. 2020/119](https://www.legislation.gov.uk/ssi/2020/119), [reg. 2](https://www.legislation.gov.uk/ssi/2020/119/regulation/2)
 
 [^c21893661]: Modification: Pt. 5 applied (1.8.2011) by the [Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011 (S.I. 2011/1771)](https://www.legislation.gov.uk/uksi/2011/1771), [regs. 3-5](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3)
 
-[^key-f309ddadbc19bd9f269f9f5b4e8b7302]: Textual amendment: Word in [s. 60 cross-heading](https://www.legislation.gov.uk/ukpga/2010/15/part/5/chapter/1/crossheading/recruitment) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/2)
+[^c-f309ddadbc19bd9f269f9f5b4e8b7302]: Textual amendment: Word in [s. 60 cross-heading](https://www.legislation.gov.uk/ukpga/2010/15/part/5/chapter/1/crossheading/recruitment) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/2)
 
-[^key-70f5d8755c83d10c34a70742aa0dbcb1]: Textual amendment: [S. 78A](https://www.legislation.gov.uk/ukpga/2010/15/section/78A) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/33/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/7)
+[^c-70f5d8755c83d10c34a70742aa0dbcb1]: Textual amendment: [S. 78A](https://www.legislation.gov.uk/ukpga/2010/15/section/78A) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/33/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/7)
 
 [^c22513341]: Modification: [Pt. 6 Ch. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/6/chapter/1): power to amend or repeal conferred (10.2.2012) by Education (Wales) Measure 2009 (nawm 5), [s. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2010/15/section/18/2/c) (as amended by [S.I. 2011/1651](https://www.legislation.gov.uk/uksi/2011/1651), [art. 12(b)](https://www.legislation.gov.uk/uksi/2011/1651/article/12/b)); [S.I. 2012/320](https://www.legislation.gov.uk/uksi/2012/320), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/320/article/2/g)
 
 [^c21907851]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2010/15/part/11) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/2734/schedule)
 
-[^key-07cb8509ed11b24250d3969d6d12e23e]: Textual amendment: [Pt. 12 Ch. 2A](https://www.legislation.gov.uk/ukpga/2010/15/part/12/chapter/2A) inserted (26.6.2018) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2017/21/section/17/1), [26(2)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/2); [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)
+[^c-07cb8509ed11b24250d3969d6d12e23e]: Textual amendment: [Pt. 12 Ch. 2A](https://www.legislation.gov.uk/ukpga/2010/15/part/12/chapter/2A) inserted (26.6.2018) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2017/21/section/17/1), [26(2)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/2); [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Transitional provisions[^key-7d04980fdf709b9f59913c12e79d8826]
+## 63. Transitional provisions[^c-7d04980fdf709b9f59913c12e79d8826]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the arrangements for the listing of that person or those premises, and the circu
 
 ## Annotations
 
-[^key-7d04980fdf709b9f59913c12e79d8826]: Commencement: Reg. 63 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-7d04980fdf709b9f59913c12e79d8826]: Commencement: Reg. 63 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

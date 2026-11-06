@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Work-focused interviews for partners[^key-83d7ef6c987b681fc0e267d60d854ea3]
+## 49. Work-focused interviews for partners[^c-83d7ef6c987b681fc0e267d60d854ea3]
 
 *Extent: E+W+S*
 
@@ -94,4 +94,4 @@ After section 2A of the Social Security Administration Act 1992 (c. 5) (claim or
 
 ## Annotations
 
-[^key-83d7ef6c987b681fc0e267d60d854ea3]: Commencement: S. 49 in force at 5.7.2003 by [S.I. 2003/1666](https://www.legislation.gov.uk/uksi/2003/1666), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1666/article/2/a)
+[^c-83d7ef6c987b681fc0e267d60d854ea3]: Commencement: S. 49 in force at 5.7.2003 by [S.I. 2003/1666](https://www.legislation.gov.uk/uksi/2003/1666), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1666/article/2/a)

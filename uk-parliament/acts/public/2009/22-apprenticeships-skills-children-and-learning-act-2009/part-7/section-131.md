@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Meaning of “regulated assessment arrangements” etc.[^key-da07207c01860c601e1cf7a4965dee02]
+## 131. Meaning of “regulated assessment arrangements” etc.[^c-da07207c01860c601e1cf7a4965dee02]
 
 *Extent: E+W+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da07207c01860c601e1cf7a4965dee02]: Commencement: S. 131 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-da07207c01860c601e1cf7a4965dee02]: Commencement: S. 131 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

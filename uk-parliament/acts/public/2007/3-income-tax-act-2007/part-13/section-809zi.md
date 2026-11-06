@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZI. Relievable charity donations[^key-a137542f054243a0afcb3e80db0cece6]
+## 809ZI. Relievable charity donations[^c-a137542f054243a0afcb3e80db0cece6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) “The tainted donation provisions” are—
 
 - (a) this Chapter,
-- (b) sections 257A and 257B[^key-0e026a14ca79f104ff4f429ded308c29] of TCGA 1992 (tainted charity donations: disapplication of section 257), and
+- (b) sections 257A and 257B[^c-0e026a14ca79f104ff4f429ded308c29] of TCGA 1992 (tainted charity donations: disapplication of section 257), and
 - (c) Part 21C of CTA 2010 (tainted charity donations: removal of corporation tax reliefs).
 
 (4) The following are “relevant relieving provisions”—
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)
+[^c-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)
 
-[^key-0e026a14ca79f104ff4f429ded308c29]: Textual amendment: Words in s. 809ZI(3)(b) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/3)
+[^c-0e026a14ca79f104ff4f429ded308c29]: Textual amendment: Words in s. 809ZI(3)(b) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/3)

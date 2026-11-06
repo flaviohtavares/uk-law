@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]
+[^c-3da51a7ccee498b45f10d3dca8d46bed]
 
 (1) This section has effect for the purposes of the transition from the provisions of Part I of the *(affected by repeal, see note)*[^c19496451] [^c13739641]Control of Pollution Act 1974 (“the 1974 Act”) to the corresponding provisions of this Part of this Act and in this section— *(affected by repeal, see note)*[^c19496451]
 
-- [^key-dd5fc2e9567eb62af8fbab0cd7dabf1e]...
+- [^c-dd5fc2e9567eb62af8fbab0cd7dabf1e]...
 - “**existing disposal licence *(affected by repeal, see note)*[^c19496451]**” means a disposal licence under section 5 of the 1974 Act subsisting on the day appointed under section 164(3) below for the repeal of sections 3 to 10 of the 1974 Act and “ *(affected by repeal, see note)*[^c19496451]**relevant appointed day for licences *(affected by repeal, see note)*[^c19496451]**” shall be construed accordingly; *(affected by repeal, see note)*[^c19496451]
 - “[^c18970121]**existing disposal plan *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]**” means a plan under section 2 of the 1974 Act subsisting on the day appointed under section 164(3) below for the repeal of that section and “ *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]**relevant appointed day for plans *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]**” shall be construed accordingly; *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]
 - “**relevant part of its undertaking *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]**”, in relation to an existing disposal authority, has the same meaning as in section 32 above; and *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]
 - “**the vesting date *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]**”, in relation to an existing disposal authority and its waste disposal contractors, means the vesting date under Schedule 2 to this Act. *(affected by repeal, see note)*[^c18970121] *(affected by repeal, see note)*[^c19496451]
 
-(2)[^key-65f27d7a6875f528facc022ee930d23e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-65f27d7a6875f528facc022ee930d23e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c18944001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -60,15 +60,15 @@ summary: ''
 
 [^c19496451]: Textual amendment: S. 77 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [regs. 73](https://www.legislation.gov.uk/uksi/2007/3538/regulation/73), [74(2)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/74/2), [Sch. 21 para. 17](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/17), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4)).
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
+[^c-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
 
 [^c13739641]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-dd5fc2e9567eb62af8fbab0cd7dabf1e]: Textual amendment: Words in s. 77(1) repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-dd5fc2e9567eb62af8fbab0cd7dabf1e]: Textual amendment: Words in s. 77(1) repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c18970121]: Textual amendment: In s. 77(1) definitions repealed (E.W.) (18.10.2005 for E. and 16.3.2006 for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 107](https://www.legislation.gov.uk/ukpga/2005/16/section/107), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108), [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/4); [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(k)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/k); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/768/article/2/d)
 
-[^key-65f27d7a6875f528facc022ee930d23e]: Textual amendment: S. 77(2) repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-65f27d7a6875f528facc022ee930d23e]: Textual amendment: S. 77(2) repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c18944001]: Textual amendment: S. 77(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 

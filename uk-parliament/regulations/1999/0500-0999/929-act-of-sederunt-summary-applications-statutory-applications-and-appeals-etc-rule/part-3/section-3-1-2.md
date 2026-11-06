@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.1.2. Applications under section 1(1) of the Act[^key-d800ed086c173ff072c749d94b4893d9]
+## 3.1.2. Applications under section 1(1) of the Act[^c-d800ed086c173ff072c749d94b4893d9]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d800ed086c173ff072c749d94b4893d9]: Commencement: Rule 3.1.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-d800ed086c173ff072c749d94b4893d9]: Commencement: Rule 3.1.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^M_F_1ade9dc2-df92-42d0-b6a9-45a9d4416a55]: Textual amendment: Words in rule 3.1.2 renumbered as rule 3.1.2(1) (20.11.2000) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 2) (Administration of Justice (Scotland) Act 1972) 2000 (S.S.I. 2000/387)](https://www.legislation.gov.uk/ssi/2000/387), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/387/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2000/387/paragraph/2/3)
 

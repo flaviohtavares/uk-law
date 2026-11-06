@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Watchdog[^c22469021][^key-7fda05637c21ce405fc0dd08b6424bba]
+## 9. Watchdog[^c22469021][^c-7fda05637c21ce405fc0dd08b6424bba]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22469021]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2015/7/section/9) partly in force; [s. 9](https://www.legislation.gov.uk/ukpga/2015/7/section/9) in force for specified purposes at Royal Assent, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1/a)
 
-[^key-7fda05637c21ce405fc0dd08b6424bba]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2015/7/section/9) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-7fda05637c21ce405fc0dd08b6424bba]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2015/7/section/9) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

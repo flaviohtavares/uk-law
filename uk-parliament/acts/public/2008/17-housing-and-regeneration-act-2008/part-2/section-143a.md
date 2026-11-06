@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143A. Application of rules about insolvency[^key-a03689ba0341cc97ac62874b107fb645]
+## 143A. Application of rules about insolvency[^c-a03689ba0341cc97ac62874b107fb645]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This group of sections does not apply to local authorities.
 
 ## Annotations
 
-[^key-a03689ba0341cc97ac62874b107fb645]: Textual amendment: S. 143A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/27)
+[^c-a03689ba0341cc97ac62874b107fb645]: Textual amendment: S. 143A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Appointment of commissioners by the mayor[^key-5c66c9a42eb1cb667e3deed78270c027]
+## 29A. Appointment of commissioners by the mayor[^c-5c66c9a42eb1cb667e3deed78270c027]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c66c9a42eb1cb667e3deed78270c027]: Textual amendment: S. 29A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-5c66c9a42eb1cb667e3deed78270c027]: Textual amendment: S. 29A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

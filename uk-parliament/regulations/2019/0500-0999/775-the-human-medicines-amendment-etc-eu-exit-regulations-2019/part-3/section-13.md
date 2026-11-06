@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. New regulation B17 and C17 (good manufacturing practice and good distribution practice)[^key-37c673595d06b85243ebe3ba92a4bff2]
+## 13. New regulation B17 and C17 (good manufacturing practice and good distribution practice)[^c-37c673595d06b85243ebe3ba92a4bff2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,12 +26,12 @@ After regulation A17 [^c23884431] insert—
 >
 > **B17. Regulations on good manufacturing practice**
 >
-> (1) The Secretary of State[^key-cf8fb565afa7431022844cd61d6bd1b2] may by regulations in respect of Great Britain[^key-b584488f9ec84a6e49f01ccd626ff8f6] set out principles and guidelines of good manufacturing practice in respect of medicinal products and investigational medicinal products.
+> (1) The Secretary of State[^c-cf8fb565afa7431022844cd61d6bd1b2] may by regulations in respect of Great Britain[^c-b584488f9ec84a6e49f01ccd626ff8f6] set out principles and guidelines of good manufacturing practice in respect of medicinal products and investigational medicinal products.
 >
 > (2) Regulations under paragraph (1) may in particular make provisions as to—
 >
 > - (a) inspections;
-> - (b) compliance with good manufacturing practice and, where relevant, the UK marketing authorisation or EU marketing authorisation[^key-bdc16e6cac2aebe093eb12a758a624d6];
+> - (b) compliance with good manufacturing practice and, where relevant, the UK marketing authorisation or EU marketing authorisation[^c-bdc16e6cac2aebe093eb12a758a624d6];
 > - (c) quality assurance systems;
 > - (d) personnel;
 > - (e) premises and equipment;
@@ -42,13 +42,13 @@ After regulation A17 [^c23884431] insert—
 > - (j) complaints and product recall;
 > - (k) self-inspection.
 >
-> (3) Subject to any provision made in regulations under paragraph (1), the principles and guidelines set out in the Good Manufacturing Practice Directive have effect in Great Britain[^key-5bbd13e19d86938fdb997668bce2f15b] on and after IP completion day[^key-48ab9393732ab262d9ceeb5c6de4104c] as they had effect immediately before IP completion day, but subject to the modifications specified in Schedule 2A.
+> (3) Subject to any provision made in regulations under paragraph (1), the principles and guidelines set out in the Good Manufacturing Practice Directive have effect in Great Britain[^c-5bbd13e19d86938fdb997668bce2f15b] on and after IP completion day[^c-48ab9393732ab262d9ceeb5c6de4104c] as they had effect immediately before IP completion day, but subject to the modifications specified in Schedule 2A.
 >
-> (4) The Secretary of State[^key-3dfb0cfe8de78552b5f028c068e4a4cc] may by regulations in respect of Great Britain[^key-8472af7f1fb6353369caf774901f0ca7] amend or revoke Schedule 2A.
+> (4) The Secretary of State[^c-3dfb0cfe8de78552b5f028c068e4a4cc] may by regulations in respect of Great Britain[^c-8472af7f1fb6353369caf774901f0ca7] amend or revoke Schedule 2A.
 >
 > **C17. Guidelines on good manufacturing practice and good distribution practice**
 >
-> (1) The licensing authority may publish in relation to the manufacture or assembly of a medicinal product in, or import to, Great Britain[^key-c81cdab90f4fcce24cf044836d2902a7]—
+> (1) The licensing authority may publish in relation to the manufacture or assembly of a medicinal product in, or import to, Great Britain[^c-c81cdab90f4fcce24cf044836d2902a7]—
 >
 > - (a) detailed guidelines of good manufacturing practice in respect of medicinal products, and investigational medicinal products, referred to in Article 46(f) of the 2001 Directive, including guidelines as to the formalised risk assessment for ascertaining the appropriate good manufacturing practice for excipients;
 > - (b) principles and guidelines of good manufacturing practice for active substances, referred to in the first paragraph of point (f) of Article 46 and in Article 46b of that Directive;
@@ -56,7 +56,7 @@ After regulation A17 [^c23884431] insert—
 >
 > (2) Guidelines or principles under paragraph (1) may replace, amend or otherwise modify any guidelines or principles published or adopted by the European Commission under the second, third, fourth or fifth paragraph of Article 47, or Article 84, of the 2001 Directive.
 >
-> (3) Unless replaced by principles or guidelines published under paragraph (1), principles and guidelines published or adopted by the European Commission under the second, third, fourth or fifth paragraph of Article 47, or Article 84, of the 2001 Directive, as they applied immediately before IP completion day[^key-4118fa8f8fc7872dce7f4f6b9534324f] [^c23884441], continue to apply on and after IP completion day (subject to any amendments or modifications published under paragraph (1)).
+> (3) Unless replaced by principles or guidelines published under paragraph (1), principles and guidelines published or adopted by the European Commission under the second, third, fourth or fifth paragraph of Article 47, or Article 84, of the 2001 Directive, as they applied immediately before IP completion day[^c-4118fa8f8fc7872dce7f4f6b9534324f] [^c23884441], continue to apply on and after IP completion day (subject to any amendments or modifications published under paragraph (1)).
 >
 > (4) Before exercising the power under paragraph (1), the licensing authority must consult such persons as it considers appropriate.
 >
@@ -68,26 +68,26 @@ After regulation A17 [^c23884431] insert—
 
 ## Annotations
 
-[^key-37c673595d06b85243ebe3ba92a4bff2]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-37c673595d06b85243ebe3ba92a4bff2]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884431]: Marginal citation: Regulation A17 was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-cf8fb565afa7431022844cd61d6bd1b2]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/i/aa)
+[^c-cf8fb565afa7431022844cd61d6bd1b2]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/i/aa)
 
-[^key-b584488f9ec84a6e49f01ccd626ff8f6]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/i/bb)
+[^c-b584488f9ec84a6e49f01ccd626ff8f6]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/i/bb)
 
-[^key-bdc16e6cac2aebe093eb12a758a624d6]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/ii)
+[^c-bdc16e6cac2aebe093eb12a758a624d6]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/ii)
 
-[^key-5bbd13e19d86938fdb997668bce2f15b]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iii/aa)
+[^c-5bbd13e19d86938fdb997668bce2f15b]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iii/aa)
 
-[^key-48ab9393732ab262d9ceeb5c6de4104c]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iii/bb)
+[^c-48ab9393732ab262d9ceeb5c6de4104c]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iii/bb)
 
-[^key-3dfb0cfe8de78552b5f028c068e4a4cc]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iv/aa)
+[^c-3dfb0cfe8de78552b5f028c068e4a4cc]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iv/aa)
 
-[^key-8472af7f1fb6353369caf774901f0ca7]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iv/bb)
+[^c-8472af7f1fb6353369caf774901f0ca7]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/a/iv/bb)
 
-[^key-c81cdab90f4fcce24cf044836d2902a7]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/b/i)
+[^c-c81cdab90f4fcce24cf044836d2902a7]: Textual amendment: Words in reg. 13 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/b/i)
 
-[^key-4118fa8f8fc7872dce7f4f6b9534324f]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/b/ii)
+[^c-4118fa8f8fc7872dce7f4f6b9534324f]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8/b/ii)
 
 [^c23884441]: Marginal citation: The principles and guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.

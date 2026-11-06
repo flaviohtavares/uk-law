@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Insolvency Practitioners Tribunal[^key-1f1dc85be81574f8c861075b34161155]
+## SCHEDULE 7 — Insolvency Practitioners Tribunal[^c-1f1dc85be81574f8c861075b34161155]
 
 *Extent: E+W+S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 396.
 
-### Panels of members[^key-1f1dc85be81574f8c861075b34161155]
+### Panels of members[^c-1f1dc85be81574f8c861075b34161155]
 
-**1.**[^key-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration of members[^key-1f1dc85be81574f8c861075b34161155]
+### Remuneration of members[^c-1f1dc85be81574f8c861075b34161155]
 
-**2.**[^key-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Sittings of Tribunal[^key-1f1dc85be81574f8c861075b34161155]
+### Sittings of Tribunal[^c-1f1dc85be81574f8c861075b34161155]
 
-**3.**[^key-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure of Tribunal[^key-1f1dc85be81574f8c861075b34161155]
+### Procedure of Tribunal[^c-1f1dc85be81574f8c861075b34161155]
 
-**4.**[^key-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1f1dc85be81574f8c861075b34161155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f1dc85be81574f8c861075b34161155]: Textual amendment: Sch. 7 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/21) (with [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/23)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-1f1dc85be81574f8c861075b34161155]: Textual amendment: Sch. 7 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/21) (with [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/23)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)

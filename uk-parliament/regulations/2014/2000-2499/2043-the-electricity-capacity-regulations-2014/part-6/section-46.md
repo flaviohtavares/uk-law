@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A payer must pay the invoiced amount to the Settlement Body by no later than the end of[^key-652d04d25de146f7e2276a5f23ebae7c] the payment due date.
+(1) A payer must pay the invoiced amount to the Settlement Body by no later than the end of[^c-652d04d25de146f7e2276a5f23ebae7c] the payment due date.
 
 (2) Where a payer has not paid in full the invoiced amount to the Settlement Body as required by paragraph (1), the payer must pay the Settlement Body simple interest at the rate specified in paragraph (4) (“late payment interest”) on the outstanding balance of the invoiced amount from and including the payment due date until the date of payment.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-652d04d25de146f7e2276a5f23ebae7c]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/46/1) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/54)
+[^c-652d04d25de146f7e2276a5f23ebae7c]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/46/1) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/54)
 
 [^c22186231]: Marginal citation: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).

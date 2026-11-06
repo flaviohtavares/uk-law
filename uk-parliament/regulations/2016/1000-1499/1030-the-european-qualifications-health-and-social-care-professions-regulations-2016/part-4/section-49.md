@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of section 36S[^key-b03edd32688f97dba6f3271d2fc6ecb1]
+## 49. Amendment of section 36S[^c-b03edd32688f97dba6f3271d2fc6ecb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b03edd32688f97dba6f3271d2fc6ecb1]: Commencement: Reg. 49 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b03edd32688f97dba6f3271d2fc6ecb1]: Commencement: Reg. 49 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00033]: Footnote: Section 36S was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).

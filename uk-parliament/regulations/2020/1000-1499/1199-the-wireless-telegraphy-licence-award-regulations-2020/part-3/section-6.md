@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Notification of names of applicants and associates[^key-26b48d7e95d500a36f92e0f45a3d8cea]
+## 6. Notification of names of applicants and associates[^c-26b48d7e95d500a36f92e0f45a3d8cea]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26b48d7e95d500a36f92e0f45a3d8cea]: Commencement: Reg. 6 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-26b48d7e95d500a36f92e0f45a3d8cea]: Commencement: Reg. 6 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

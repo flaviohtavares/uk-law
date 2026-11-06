@@ -65,13 +65,13 @@ The Children and Young Persons (Protection from Tobacco) (Northern Ireland) Orde
 
 #### 4. Sale of unpackaged cigarettes
 
-(1) It shall be an offence for any person carrying on a retail business to sell cigarettes to any person other than in [^key-017b1ea0cb3f43381b47c1fb2ee59572]... their original package.
+(1) It shall be an offence for any person carrying on a retail business to sell cigarettes to any person other than in [^c-017b1ea0cb3f43381b47c1fb2ee59572]... their original package.
 
 (2) Any person guilty of an offence under paragraph (1) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (3) In this Article “original package” means the package in which the cigarettes were supplied for the purpose of retail sale by the manufacturer or importer; and “package” means any box, carton or other container.
 
-#### 4A. Sales from vending machines[^key-6eef0d8d5aaab91f5086fcf912972521]
+#### 4A. Sales from vending machines[^c-6eef0d8d5aaab91f5086fcf912972521]
 
 (1) The Department may by regulations make provision prohibiting the sale of tobacco from an automatic machine.
 
@@ -79,7 +79,7 @@ The Children and Young Persons (Protection from Tobacco) (Northern Ireland) Orde
 
 (3) Where a prohibition contained in the regulations is breached, any person liable in accordance with the regulations is guilty of an offence.
 
-(4) A person guilty of an offence under this Article is liable on summary conviction to a fine not exceeding level 5[^key-4e02a9eee25bcbbe2c331f8aae731cf2] on the standard scale.
+(4) A person guilty of an offence under this Article is liable on summary conviction to a fine not exceeding level 5[^c-4e02a9eee25bcbbe2c331f8aae731cf2] on the standard scale.
 
 (5) Sections 13, 14 and 15 of the Tobacco Advertising and Promotion Act 2002 (enforcement etc.) apply for the purposes of this Article and regulations made under it as they apply for the purposes of provisions of that Act.
 
@@ -128,12 +128,12 @@ that person shall be guilty of an offence.
 
 (1) It shall be the duty of every district council—
 
-- (a) to consider, at least once in every period of 12 months, the extent to which it is appropriate for the council to carry out in its district a programme of enforcement action relating to Part II of the Health and Personal Social Services (Northern Ireland) Order 1978 and , Articles 4 to 5 and sections 1 and 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016,[^key-85258e64451f070c3dfb67e4d70dd2e7] and
+- (a) to consider, at least once in every period of 12 months, the extent to which it is appropriate for the council to carry out in its district a programme of enforcement action relating to Part II of the Health and Personal Social Services (Northern Ireland) Order 1978 and , Articles 4 to 5 and sections 1 and 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016,[^c-85258e64451f070c3dfb67e4d70dd2e7] and
 - (b) accordingly to carry out in its district any programme which is for the time being considered by the council to be appropriate under sub-paragraph (a).
 
-(1A)[^key-a9365350add7e62852827558014661c3] Paragraph (1) applies in relation to section1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 only if regulations under subsection (1) of that section are for the time being in operation.
+(1A)[^c-a9365350add7e62852827558014661c3] Paragraph (1) applies in relation to section1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 only if regulations under subsection (1) of that section are for the time being in operation.
 
-(1B)[^key-a79ba06305a40d2bbd1f659cb5a95f4f] Paragraph (1) applies in relation to section2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 only if regulations under subsection (1) of that section are for the time being in operation.
+(1B)[^c-a79ba06305a40d2bbd1f659cb5a95f4f] Paragraph (1) applies in relation to section2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 only if regulations under subsection (1) of that section are for the time being in operation.
 
 (2) In paragraph (1)(a) the reference to a programme of enforcement action relating to the provisions there mentioned is a reference to a programme involving all or any of the following, namely—
 
@@ -165,11 +165,11 @@ and no complaint or application shall be made on or after that date under that A
 
 [^m00002]: Marginal citation: 1978 NI 26
 
-[^key-017b1ea0cb3f43381b47c1fb2ee59572]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisi/1991/2872/article/4/1) omitted (20.5.2016) by virtue of [The Standardised Packaging of Tobacco Products Regulations 2015 (S.I. 2015/829)](https://www.legislation.gov.uk/uksi/2015/829), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/829/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2015/829/regulation/19/2) (with [regs. 14(5)](https://www.legislation.gov.uk/uksi/2015/829/regulation/14/5), [20](https://www.legislation.gov.uk/uksi/2015/829/regulation/20))
+[^c-017b1ea0cb3f43381b47c1fb2ee59572]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisi/1991/2872/article/4/1) omitted (20.5.2016) by virtue of [The Standardised Packaging of Tobacco Products Regulations 2015 (S.I. 2015/829)](https://www.legislation.gov.uk/uksi/2015/829), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/829/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2015/829/regulation/19/2) (with [regs. 14(5)](https://www.legislation.gov.uk/uksi/2015/829/regulation/14/5), [20](https://www.legislation.gov.uk/uksi/2015/829/regulation/20))
 
-[^key-6eef0d8d5aaab91f5086fcf912972521]: Textual amendment: Art. 4A inserted (12.11.2009 for specified purposes, 1.3.2012 in so far as not already in operation) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.R. 2012/68](https://www.legislation.gov.uk/nisr/2012/68), [art. 2](https://www.legislation.gov.uk/nisr/2012/68/article/2)
+[^c-6eef0d8d5aaab91f5086fcf912972521]: Textual amendment: Art. 4A inserted (12.11.2009 for specified purposes, 1.3.2012 in so far as not already in operation) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b); [S.R. 2012/68](https://www.legislation.gov.uk/nisr/2012/68), [art. 2](https://www.legislation.gov.uk/nisr/2012/68/article/2)
 
-[^key-4e02a9eee25bcbbe2c331f8aae731cf2]: Textual amendment: Words in [art. 4A(4)](https://www.legislation.gov.uk/nisi/1991/2872/article/4A/4) substituted (1.6.2017) by [Health (Miscellaneous Provisions) Act (NorthernIreland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [ss. 4](https://www.legislation.gov.uk/nia/2016/26/section/4), [20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3); [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/91/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2017/91/article/3))
+[^c-4e02a9eee25bcbbe2c331f8aae731cf2]: Textual amendment: Words in [art. 4A(4)](https://www.legislation.gov.uk/nisi/1991/2872/article/4A/4) substituted (1.6.2017) by [Health (Miscellaneous Provisions) Act (NorthernIreland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [ss. 4](https://www.legislation.gov.uk/nia/2016/26/section/4), [20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3); [S.R. 2017/91](https://www.legislation.gov.uk/nisr/2017/91), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/91/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2017/91/article/3))
 
 [^c19958601]: Modification: [Art. 5(1)(2)](https://www.legislation.gov.uk/nisi/1991/2872/article/5/1/2): power to amend conferred (15.1.2007) by [Smoking (Northern Ireland) Order 2006 (S.I. 2006/2872 (N.I. 20))](https://www.legislation.gov.uk/nisi/2006/2872), [arts. 1(3)(h)](https://www.legislation.gov.uk/nisi/2006/2872/article/1/3/h), [14(b)](https://www.legislation.gov.uk/nisi/2006/2872/article/14/b) (with [art. 16(1)](https://www.legislation.gov.uk/nisi/2006/2872/article/16/1))
 
@@ -179,10 +179,10 @@ and no complaint or application shall be made on or after that date under that A
 
 [^m00003]: Marginal citation: 1978 NI 26
 
-[^key-85258e64451f070c3dfb67e4d70dd2e7]: Textual amendment: Words in [art. 6(1)(a)](https://www.legislation.gov.uk/nisi/1991/2872/article/6/1/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-85258e64451f070c3dfb67e4d70dd2e7]: Textual amendment: Words in [art. 6(1)(a)](https://www.legislation.gov.uk/nisi/1991/2872/article/6/1/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-a9365350add7e62852827558014661c3]: Textual amendment: [Art. 6(1A)](https://www.legislation.gov.uk/nisi/1991/2872/article/6/1A) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-a9365350add7e62852827558014661c3]: Textual amendment: [Art. 6(1A)](https://www.legislation.gov.uk/nisi/1991/2872/article/6/1A) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-a79ba06305a40d2bbd1f659cb5a95f4f]: Textual amendment: [Art. 6(1B)](https://www.legislation.gov.uk/nisi/1991/2872/article/6/1B) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-a79ba06305a40d2bbd1f659cb5a95f4f]: Textual amendment: [Art. 6(1B)](https://www.legislation.gov.uk/nisi/1991/2872/article/6/1B) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/1/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
 [^m00004]: Marginal citation: 1978 NI 26

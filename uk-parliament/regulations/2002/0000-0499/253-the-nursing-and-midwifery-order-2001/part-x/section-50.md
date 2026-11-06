@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Annual reports, statistical reports and strategic plans[^key-f3ad2c949e66a31b9445ef5facaf83a6][^key-fad161dc15d8b68362a9269460626889]
+## 50. Annual reports, statistical reports and strategic plans[^c-f3ad2c949e66a31b9445ef5facaf83a6][^c-fad161dc15d8b68362a9269460626889]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ad2c949e66a31b9445ef5facaf83a6]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2002/253/article/50) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-f3ad2c949e66a31b9445ef5facaf83a6]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2002/253/article/50) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
 
-[^key-fad161dc15d8b68362a9269460626889]: Textual amendment: [Art. 50](https://www.legislation.gov.uk/uksi/2002/253/article/50) substituted (1.1.2009 as notified in the London Gazette (Issue 58904, published 5.12.2008)) by [The Nursing and Midwifery (Amendment) Order 2008 (S.I. 2008/1485)](https://www.legislation.gov.uk/uksi/2008/1485), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/1485/schedule/1/paragraph/8)
+[^c-fad161dc15d8b68362a9269460626889]: Textual amendment: [Art. 50](https://www.legislation.gov.uk/uksi/2002/253/article/50) substituted (1.1.2009 as notified in the London Gazette (Issue 58904, published 5.12.2008)) by [The Nursing and Midwifery (Amendment) Order 2008 (S.I. 2008/1485)](https://www.legislation.gov.uk/uksi/2008/1485), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/1485/schedule/1/paragraph/8)

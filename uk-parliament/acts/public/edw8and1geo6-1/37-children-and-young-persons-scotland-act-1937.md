@@ -49,7 +49,7 @@ Children and Young Persons (Scotland) Act 1937
 
 #### 12. Cruelty to persons under sixteen.
 
-(1) If any person who has attained the age of sixteen years and who has parental responsibilities in relation to a child or to a young person under that age or has charge or care of a child or such a young person,[^c6093491], wilfully [^key-554ac59982bcfdbdd20a040c9559c791]... ill-treats, neglects, abandons, or exposes him, or causes or procures him to be [^key-554ac59982bcfdbdd20a040c9559c791]... ill-treated, neglected, abandoned, or exposed, in a manner likely to cause him unnecessary suffering or injury to health (including injury to or loss of sight, or hearing, or limb, or organ of the body, and any mental derangement), that person shall be guilty of an offence, and shall be liable—
+(1) If any person who has attained the age of sixteen years and who has parental responsibilities in relation to a child or to a young person under that age or has charge or care of a child or such a young person,[^c6093491], wilfully [^c-554ac59982bcfdbdd20a040c9559c791]... ill-treats, neglects, abandons, or exposes him, or causes or procures him to be [^c-554ac59982bcfdbdd20a040c9559c791]... ill-treated, neglected, abandoned, or exposed, in a manner likely to cause him unnecessary suffering or injury to health (including injury to or loss of sight, or hearing, or limb, or organ of the body, and any mental derangement), that person shall be guilty of an offence, and shall be liable—
 
 - (a) on conviction on indictment, to a fine [^c6093501]..., or alternatively, or in default of payment of such a fine, or in addition thereto, to imprisonment for any term not exceeding ten[^c6093511] years;
 - (b) on summary conviction, to a fine not exceeding the prescribed sum[^M_F_0cd47dc7-5350-4398-f4c4-272bd8a4f3bf], or alternatively, or in default of payment of such a fine, or in addition thereto, to imprisonment for any term not exceeding 12 months[^M_F_c969cf65-d8c6-4c0b-eecf-ef48854fc180].
@@ -70,7 +70,7 @@ Children and Young Persons (Scotland) Act 1937
 
 (6)[^c6093561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-2211cf98748af5181d24703540ab5a38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2211cf98748af5181d24703540ab5a38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6093581]
 
@@ -82,13 +82,13 @@ Children and Young Persons (Scotland) Act 1937
 
 (3) If any person while singing, playing, performing or offering anything for sale in a street or public place has with him a child who has been lent or hired out to him, the child shall, for the purposes of this section, be deemed to be in that street or place for the purpose of inducing the giving of alms.
 
-#### 16. Giving exciseable liquor to children under five.[^key-09a2cceb0face08a9fef81bff8da0423]
+#### 16. Giving exciseable liquor to children under five.[^c-09a2cceb0face08a9fef81bff8da0423]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6093641]
 
-#### 18. Sale of tobacco, &c. to persons under sixteen.[^key-6e5aaebeb4f3203896a17d581d342e00]
+#### 18. Sale of tobacco, &c. to persons under sixteen.[^c-6e5aaebeb4f3203896a17d581d342e00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,7 +100,7 @@ Children and Young Persons (Scotland) Act 1937
 
 (1) If a person habitually wanders from place to place and takes with him any child who has attained the age of five years, or any young person who has not attained the age at which under the enactments relating to education children cease to be of school age[^c6093881], he shall, unless he proves that the child or young person is not, by being so taken with him, prevented from receiving efficient education suitable to his age, ability and aptitude, be liable on conviction by a court of summary jurisdiction to a fine not exceeding[^c6093891] level 1 on the standard scale[^c6093901].
 
-(2)[^key-4322a8fb8153e697b9d11d25020a5b89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4322a8fb8153e697b9d11d25020a5b89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Without prejudice to the requirements of the[^c6093931] [^c6093941]Education (Scotland) Act 1962, as to school attendance or to proceedings thereunder, this section shall not, during the months of April to September inclusive, apply to any child whose parent or guardian is engaged in a trade or business of such a nature as to require him to travel from place to place, if a certificate has been obtained that the child has made not less than two hundred attendances at a public school during the months of October to March immediately preceding.
 
@@ -146,51 +146,51 @@ For the purposes of this Part of this Act—
 
 #### 28. Restrictions on employment of children
 
-(1)[^key-4b4dc957280e193ca02e1750e983dfc2] Subject to the provisions of this section and of any byelaws made thereunder, no child shall be employed— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+(1)[^c-4b4dc957280e193ca02e1750e983dfc2] Subject to the provisions of this section and of any byelaws made thereunder, no child shall be employed— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-- (a)[^c6094571] so long as he is under the age of *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] fourteen years[^c6094581] *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2];
-- (aa (affected by repeal, see note))[^c6094591][^key-4b4dc957280e193ca02e1750e983dfc2] to do any work other than light work; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (b) before the close of school hours on any day on which he is under obligation to attend school; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (c)[^c6094601] before seven o’clock in the morning or after seven o’clock in the evening on any day; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (d) for more than two hours on any day on which he is under obligation to attend school; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (da (affected by repeal, see note))[^key-5bc0f1eff786eeb2ff05d8407f0ae814][^key-4b4dc957280e193ca02e1750e983dfc2] for more than twelve hours in any week in which he is required to attend school; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (e) for more than two hours on any Sunday; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+- (a)[^c6094571] so long as he is under the age of *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] fourteen years[^c6094581] *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2];
+- (aa (affected by repeal, see note))[^c6094591][^c-4b4dc957280e193ca02e1750e983dfc2] to do any work other than light work; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (b) before the close of school hours on any day on which he is under obligation to attend school; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (c)[^c6094601] before seven o’clock in the morning or after seven o’clock in the evening on any day; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (d) for more than two hours on any day on which he is under obligation to attend school; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (da (affected by repeal, see note))[^c-5bc0f1eff786eeb2ff05d8407f0ae814][^c-4b4dc957280e193ca02e1750e983dfc2] for more than twelve hours in any week in which he is required to attend school; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (e) for more than two hours on any Sunday; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 - (f)[^c6094611] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^c6094621] for more than eight hours or, if he is under the age of fifteen years, for more than five hours in any day— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (i) on which he is not required to attend school, and *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (ii (affected by repeal, see note))[^key-4b4dc957280e193ca02e1750e983dfc2] which is not a Sunday; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (h) for more than thirty-five hours or, if he is under the age of fifteen years, for more than twenty-five hours in any week in which he is not required to attend school; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (i) for more than four hours in any day without a rest break of one hour; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (j) at any time in a year unless at that time he has had, or could still have, during a period in the year in which he is not required to attend school, at least two consecutive weeks without employment. *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+- (g)[^c6094621] for more than eight hours or, if he is under the age of fifteen years, for more than five hours in any day— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (i) on which he is not required to attend school, and *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (ii (affected by repeal, see note))[^c-4b4dc957280e193ca02e1750e983dfc2] which is not a Sunday; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (h) for more than thirty-five hours or, if he is under the age of fifteen years, for more than twenty-five hours in any week in which he is not required to attend school; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (i) for more than four hours in any day without a rest break of one hour; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (j) at any time in a year unless at that time he has had, or could still have, during a period in the year in which he is not required to attend school, at least two consecutive weeks without employment. *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-(2) An education authority may make byelaws with respect to the employment of children, and any such byelaws may distinguish between children of different ages and sexes and between different localities, trades, occupations and circumstances, and may contain provisions— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+(2) An education authority may make byelaws with respect to the employment of children, and any such byelaws may distinguish between children of different ages and sexes and between different localities, trades, occupations and circumstances, and may contain provisions— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-- (a) authorising— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (i)[^c6094631] the employment *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] on an occasional basis[^c6094641] *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] of children *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] aged thirteen years[^c6094651] *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] (notwithstanding anything in paragraph (a) of the last foregoing subsection) by their parents or guardians in light agricultural or horticultural work *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2];
-- (ia (affected by repeal, see note))[^c6094661][^key-4b4dc957280e193ca02e1750e983dfc2] the employment of children aged thirteen years (notwithstanding anything in paragraph (a) of the last foregoing subsection) in categories of light work specified in the byelaw. *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (ii (affected by repeal, see note))[^key-4b4dc957280e193ca02e1750e983dfc2] the employment of children (notwithstanding anything in paragraph (b) of the last foregoing subsection) for not more than one hour before the commencement of school hours on any day on which they are under obligation to attend school; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (b) prohibiting absolutely the employment of children in any specified occupation; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (c) prescribing— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (i) the age below which children are not to be employed; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (ii (affected by repeal, see note))[^key-4b4dc957280e193ca02e1750e983dfc2] the number of hours in each day, or in each week, for which, and the times of day at which, they may be employed; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (iii (affected by repeal, see note))[^key-4b4dc957280e193ca02e1750e983dfc2] the intervals to be allowed to them for meals and rest; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (iv (affected by repeal, see note))[^key-4b4dc957280e193ca02e1750e983dfc2] the holidays or half-holidays to be allowed to them; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (v) any other conditions to be observed in relation to their employment; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+- (a) authorising— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (i)[^c6094631] the employment *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] on an occasional basis[^c6094641] *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] of children *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] aged thirteen years[^c6094651] *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] (notwithstanding anything in paragraph (a) of the last foregoing subsection) by their parents or guardians in light agricultural or horticultural work *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2];
+- (ia (affected by repeal, see note))[^c6094661][^c-4b4dc957280e193ca02e1750e983dfc2] the employment of children aged thirteen years (notwithstanding anything in paragraph (a) of the last foregoing subsection) in categories of light work specified in the byelaw. *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (ii (affected by repeal, see note))[^c-4b4dc957280e193ca02e1750e983dfc2] the employment of children (notwithstanding anything in paragraph (b) of the last foregoing subsection) for not more than one hour before the commencement of school hours on any day on which they are under obligation to attend school; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (b) prohibiting absolutely the employment of children in any specified occupation; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (c) prescribing— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (i) the age below which children are not to be employed; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (ii (affected by repeal, see note))[^c-4b4dc957280e193ca02e1750e983dfc2] the number of hours in each day, or in each week, for which, and the times of day at which, they may be employed; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (iii (affected by repeal, see note))[^c-4b4dc957280e193ca02e1750e983dfc2] the intervals to be allowed to them for meals and rest; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (iv (affected by repeal, see note))[^c-4b4dc957280e193ca02e1750e983dfc2] the holidays or half-holidays to be allowed to them; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (v) any other conditions to be observed in relation to their employment; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-so, however, that no such byelaws shall modify the restrictions contained in the last foregoing subsection save in so far as is expressly permitted by paragraph (a) of this subsection, and any restriction contained in any such byelaws shall have effect in addition to the said restrictions. *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+so, however, that no such byelaws shall modify the restrictions contained in the last foregoing subsection save in so far as is expressly permitted by paragraph (a) of this subsection, and any restriction contained in any such byelaws shall have effect in addition to the said restrictions. *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-(2A)[^c6094671] In this section— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+(2A)[^c6094671] In this section— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-- “light work” means work which, on account of the inherent nature of the tasks which it involves and the particular conditions under which they are performed— *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (a) is not likely to be harmful to the safety, health or development of children; and *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-  - (b) is not such as to be harmful to their attendance at school or to their participation in work experience in accordance with section 123 of the Education (Scotland) Act 1980 *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] [^c6094681], or their capacity to benefit from the instruction received or, as the case may be, the experience gained; *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- “week” means any period of seven consecutive days; and *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- “year”, except in expressions of age, means a period of twelve months beginning with 1st January. *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
+- “light work” means work which, on account of the inherent nature of the tasks which it involves and the particular conditions under which they are performed— *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (a) is not likely to be harmful to the safety, health or development of children; and *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+  - (b) is not such as to be harmful to their attendance at school or to their participation in work experience in accordance with section 123 of the Education (Scotland) Act 1980 *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] [^c6094681], or their capacity to benefit from the instruction received or, as the case may be, the experience gained; *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- “week” means any period of seven consecutive days; and *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- “year”, except in expressions of age, means a period of twelve months beginning with 1st January. *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
 
-(3)[^c6094691] Nothing in this section or in any byelaw made under this section shall prevent a child from *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] doing anything[^c6094701] *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]—
+(3)[^c6094691] Nothing in this section or in any byelaw made under this section shall prevent a child from *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] doing anything[^c6094701] *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]—
 
-- (a) under the authority of a licence granted under this Part of this Act; or *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2]
-- (b) in a case where by virtue of section 37(3) of the *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] [^c6094711]Children and Young Persons Act 1963 no licence under that section is required for him to *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2] do it[^c6094721] *(affected by repeal, see note)*[^key-4b4dc957280e193ca02e1750e983dfc2].
+- (a) under the authority of a licence granted under this Part of this Act; or *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2]
+- (b) in a case where by virtue of section 37(3) of the *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] [^c6094711]Children and Young Persons Act 1963 no licence under that section is required for him to *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2] do it[^c6094721] *(affected by repeal, see note)*[^c-4b4dc957280e193ca02e1750e983dfc2].
 
 (1) A child may not be employed to work—
 
@@ -287,7 +287,7 @@ so, however, that no such byelaws shall modify the restrictions contained in the
 
 #### 31. Penalties and legal proceedings in respect of general provisions as to employment.
 
-(1)[^c6095141] If a person is employed in contravention of any of the foregoing provisions of this Part of this Act, or of the provisions of any byelaw or regulations[^key-f7f1d25f663b038f0b59e1b301e40c56] made thereunder, the employer and any person (other than the person employed) to whose act or default the contravention is attributable shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding level 3 on the standard scale[^c6095161]:
+(1)[^c6095141] If a person is employed in contravention of any of the foregoing provisions of this Part of this Act, or of the provisions of any byelaw or regulations[^c-f7f1d25f663b038f0b59e1b301e40c56] made thereunder, the employer and any person (other than the person employed) to whose act or default the contravention is attributable shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding level 3 on the standard scale[^c6095161]:
 
 Provided that, if proceedings are brought against the employer, the employer, upon complaint duly laid by him and on giving to the prosecutor not less than three days’ notice of his intention, shall be entitled to have any person (other than the person employed) to whose act or default he alleges that the contravention was due, brought before the court as a party to the proceedings, and if, after the contravention has been proved, the employer proves to the satisfaction of the court that the contravention was due to the act or default of the said other person, that person may be convicted of the offence; and if the employer further proves to the satisfaction of the court that he has used all due diligence to secure that the provisions in question should be complied with, he shall be acquitted of the offence.
 
@@ -324,15 +324,15 @@ No person under the age of sixteen years, and no child aged sixteen years,[^c609
 
 #### 35. Byelaws.
 
-(1) A byelaw made under this Part of this Act shall not have effect until confirmed by the Secretary of State *(affected by repeal, see note)*[^key-07913e19ec6f8935ce064e09f4d2b23d] Scottish Ministers [^c6095521]...
+(1) A byelaw made under this Part of this Act shall not have effect until confirmed by the Secretary of State *(affected by repeal, see note)*[^c-07913e19ec6f8935ce064e09f4d2b23d] Scottish Ministers [^c6095521]...
 
 (2)[^c6095531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Byelaws so made may, without prejudice to any other method of proof, be proved in the like manner as that in which byelaws made under the Local Government (Scotland) Act 1973 (c. 65)[^key-d960857bc6f2f6a2448aafda1cbe22a2], by a local authority may be proved, and section 204[^key-21141c6f69298a001cfe20d7fd12860f] of that Act shall apply accordingly.
+(3) Byelaws so made may, without prejudice to any other method of proof, be proved in the like manner as that in which byelaws made under the Local Government (Scotland) Act 1973 (c. 65)[^c-d960857bc6f2f6a2448aafda1cbe22a2], by a local authority may be proved, and section 204[^c-21141c6f69298a001cfe20d7fd12860f] of that Act shall apply accordingly.
 
 #### 36. Powers of entry.
 
-(1)[^c6095661] If it is made to appear to a justice by the education authority, or by any constable, that there is reasonable cause to believe that the provisions of this Part of this Act or of a byelaw or regulations[^key-51cf1ab2e977a3cfc1f2079d7dbc704e] made thereunder are being contravened with respect to any person, the justice may by order under his hand addressed to an officer of the education authority, or to a constable, empower him to enter, at any reasonable time within forty-eight hours of the making of the order, any place in or in connection with which the person in question is, or is believed to be, employed, or as the case may be, in which he is, or is believed to be, taking part in a performance[^c6095681], being trained, taking part in a sport, or working as a model,[^c6095691] and to make inquiries therein with respect to that person.
+(1)[^c6095661] If it is made to appear to a justice by the education authority, or by any constable, that there is reasonable cause to believe that the provisions of this Part of this Act or of a byelaw or regulations[^c-51cf1ab2e977a3cfc1f2079d7dbc704e] made thereunder are being contravened with respect to any person, the justice may by order under his hand addressed to an officer of the education authority, or to a constable, empower him to enter, at any reasonable time within forty-eight hours of the making of the order, any place in or in connection with which the person in question is, or is believed to be, employed, or as the case may be, in which he is, or is believed to be, taking part in a performance[^c6095681], being trained, taking part in a sport, or working as a model,[^c6095691] and to make inquiries therein with respect to that person.
 
 (2)[^c6095701] Any authorised officer of the said authority or any constable may—
 
@@ -348,7 +348,7 @@ No person under the age of sixteen years, and no child aged sixteen years,[^c609
 
 #### 37. Interpretation of Part III.
 
-For the purposes of the foregoing provisions of this Part of this Act and of any byelaws or regulations[^key-b7934dacadc185d71a169b67f300282f] made thereunder—
+For the purposes of the foregoing provisions of this Part of this Act and of any byelaws or regulations[^c-b7934dacadc185d71a169b67f300282f] made thereunder—
 
 - (a)[^c6095801] The expression “**child**” means a person who is not for the purposes of the [^c6095811]Education (Scotland) Act 1980 over school age;
 - (b) The expression “**performance of a dangerous nature**” includes all acrobatic performances and all performances as a contortionist;
@@ -380,7 +380,7 @@ For the purposes of the foregoing provisions of this Part of this Act and of any
 
 #### 44, 45. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6095911]
 
-#### 46. Power to prohibit publication of certain matter in newspapers.[^c6095931][^c6095941][^key-551c1eeb9b134b605b703d423f28afd8][^c6095921]
+#### 46. Power to prohibit publication of certain matter in newspapers.[^c6095931][^c6095941][^c-551c1eeb9b134b605b703d423f28afd8][^c6095921]
 
 (1) In relation to any proceedings in any court . . . [^c6095951], the court may direct that—
 
@@ -425,7 +425,7 @@ except in so far (if at all) as may be permitted by the direction of the court.
 
 #### 60, 61. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6096231]
 
-#### 62. Power of Secretary of State to send certain juvenile offenders to approved schools.[^key-9f858ff25f84ba715930aff86ec817cb]
+#### 62. Power of Secretary of State to send certain juvenile offenders to approved schools.[^c-9f858ff25f84ba715930aff86ec817cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -511,7 +511,7 @@ Provided that expenses incurred in respect of a child or young person brought to
 
 (2A)[^c6096761] Expenses incurred under this Act by a local authority shall be defrayed in like manner as the expenses of that authority under the [^c6096771]Social Work (Scotland) Act 1968.
 
-(3)[^key-077f51cec43e96fd2f04196a17134c07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-077f51cec43e96fd2f04196a17134c07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6096791]
 
@@ -566,7 +566,7 @@ In any proceedings under this Act a copy of an entry in the wages book of any em
 
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6097851]
 - “**Borstal institution**” means an institution established under section 31 of the[^c6097861] [^c6097871]Prisons (Scotland) Act 1952;
-- [^key-d7f3d74e555ca32a98eda76c05b2d47d]...
+- [^c-d7f3d74e555ca32a98eda76c05b2d47d]...
 - “Child” (except in[^c6097891] Parts III and[^c6097901] IV of this Act) means a person under the age of fourteen years;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6097911]
 - “**Court of summary jurisdiction**” means the sheriff or any two or more justices of the peace or any magistrate or magistrates by whatever name called officiating under the provisions of any general or local police Act;
@@ -575,11 +575,11 @@ In any proceedings under this Act a copy of an entry in the wages book of any em
 - “Justice” . . . [^c6097931] includes the sheriff and any such magistrate as aforesaid;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6097941]
 - “**Legal guardian**” in relation to a child or young person means a person appointed, according to law, to be his guardian by deed or will, or by order of a court of competent jurisdiction;
-- [^key-d7f3d74e555ca32a98eda76c05b2d47d]...
+- [^c-d7f3d74e555ca32a98eda76c05b2d47d]...
 - “[^c6097961]**Local authority**” means a council constituted under section 2 of the Local Government[^c6097971] etc. (Scotland) Act 1994;
-- “[^c6097981]**parental responsibilities**” has the same meaning as in section 1(3) of the Children (Scotland) Act 1995 and includes the responsibilities which —[^key-7988a53bb691fbe67c74d6f8b013ddbf]
+- “[^c6097981]**parental responsibilities**” has the same meaning as in section 1(3) of the Children (Scotland) Act 1995 and includes the responsibilities which —[^c-7988a53bb691fbe67c74d6f8b013ddbf]
   - ((a)) a father would have as a parent but for the operation of section 3(1)(b) of that Act;
-  - ((b)) a second female parent would have as a parent but for the operation of section 3(1)(d) of that Act.[^key-700dceb3771a4f994435e3886eabcf56]
+  - ((b)) a second female parent would have as a parent but for the operation of section 3(1)(d) of that Act.[^c-700dceb3771a4f994435e3886eabcf56]
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6097921]
 - “**Passage**” includes common close, or common stair, or common passage;
 - “[^c6098001]**place of safety**” has the meaning give by section 93(1) of the Children (Scotland) Act 1995;
@@ -645,7 +645,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6093491]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/12/1) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/7/2/a) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) (with [arts. 4](https://www.legislation.gov.uk/uksi/1996/2203/article/4), [7](https://www.legislation.gov.uk/uksi/1996/2203/article/7))
 
-[^key-554ac59982bcfdbdd20a040c9559c791]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/12/1) repealed (27.10.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 51(5)(a)](https://www.legislation.gov.uk/asp/2003/7/section/51/5/a), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/475](https://www.legislation.gov.uk/ssi/2003/475), [art. 2](https://www.legislation.gov.uk/ssi/2003/475/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/475/schedule)
+[^c-554ac59982bcfdbdd20a040c9559c791]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/12/1) repealed (27.10.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 51(5)(a)](https://www.legislation.gov.uk/asp/2003/7/section/51/5/a), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/475](https://www.legislation.gov.uk/ssi/2003/475), [art. 2](https://www.legislation.gov.uk/ssi/2003/475/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/475/schedule)
 
 [^c6093501]: Textual amendment: Words repealed by [Children Act 1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72), [Sch. 4 Pt. III](https://www.legislation.gov.uk/ukpga/1975/72/schedule/4/part/III)
 
@@ -663,7 +663,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6093561]: Textual amendment: S. 12(5)(6) repealed by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 170(2)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/16)
 
-[^key-2211cf98748af5181d24703540ab5a38]: Textual amendment: [S. 12(7)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/12/7) repealed (27.10.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 51(5)(b)](https://www.legislation.gov.uk/asp/2003/7/section/51/5/b), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/475](https://www.legislation.gov.uk/ssi/2003/475), [art. 2](https://www.legislation.gov.uk/ssi/2003/475/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/475/schedule)
+[^c-2211cf98748af5181d24703540ab5a38]: Textual amendment: [S. 12(7)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/12/7) repealed (27.10.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 51(5)(b)](https://www.legislation.gov.uk/asp/2003/7/section/51/5/b), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/475](https://www.legislation.gov.uk/ssi/2003/475), [art. 2](https://www.legislation.gov.uk/ssi/2003/475/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/475/schedule)
 
 [^c6093581]: Textual amendment: [Ss. 13](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/13), [14](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/14) repealed by [Sexual Offences (Scotland) Act 1976 (c. 67)](https://www.legislation.gov.uk/ukpga/1976/67), [s. 20](https://www.legislation.gov.uk/ukpga/1976/67/section/20), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/67/schedule/2)
 
@@ -671,11 +671,11 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6093611]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-09a2cceb0face08a9fef81bff8da0423]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/16) repealed (1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-09a2cceb0face08a9fef81bff8da0423]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/16) repealed (1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c6093641]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/17) repealed by [Licensing (Scotland) Act 1959 (c. 51)](https://www.legislation.gov.uk/ukpga/1959/51), [Sch. 12](https://www.legislation.gov.uk/ukpga/1959/51/schedule/12)
 
-[^key-6e5aaebeb4f3203896a17d581d342e00]: Textual amendment: S. 18 repealed (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/1)
+[^c-6e5aaebeb4f3203896a17d581d342e00]: Textual amendment: S. 18 repealed (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/1)
 
 [^c6093851]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/19) repealed by [Consumer Credit Act 1974 (c. 39, SIF 60)](https://www.legislation.gov.uk/ukpga/1974/39), [s. 192(1)(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/192/1/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/1974/39/schedule/5)
 
@@ -689,7 +689,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6093901]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-4322a8fb8153e697b9d11d25020a5b89]: Textual amendment: [S. 21(2)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/21/2) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/4)
+[^c-4322a8fb8153e697b9d11d25020a5b89]: Textual amendment: [S. 21(2)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/21/2) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/4)
 
 [^c6093931]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/1978/30/section/17/2/a)
 
@@ -715,7 +715,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6094041]: Modification: Pt III amended by [Education (Scotland) Act 1962 (c. 47)](https://www.legislation.gov.uk/ukpga/1962/47), [s. 139](https://www.legislation.gov.uk/ukpga/1962/47/section/139); extended by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 44(2)](https://www.legislation.gov.uk/ukpga/1963/37/section/44/2)
 
-[^key-4b4dc957280e193ca02e1750e983dfc2]: Textual amendment: Ss. 28, 28A substituted for s. 28 (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
+[^c-4b4dc957280e193ca02e1750e983dfc2]: Textual amendment: Ss. 28, 28A substituted for s. 28 (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
 
 [^c6094571]: Textual amendment: S. 28(1)(a) substituted by [Children Act 1972 (c. 44)](https://www.legislation.gov.uk/ukpga/1972/44), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1972/44/section/1/2)
 
@@ -725,7 +725,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6094601]: Textual amendment: S. 28(1)(c) substituted by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 34](https://www.legislation.gov.uk/ukpga/1963/37/section/34)
 
-[^key-5bc0f1eff786eeb2ff05d8407f0ae814]: Textual amendment: [S. 28(1)(da)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/28/1/da) inserted (18.4.2006) by [The Children (Protection at Work) (Scotland) Regulations 2006 (S.S.I. 2006/140)](https://www.legislation.gov.uk/ssi/2006/140), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/140/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2006/140/regulation/2)
+[^c-5bc0f1eff786eeb2ff05d8407f0ae814]: Textual amendment: [S. 28(1)(da)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/28/1/da) inserted (18.4.2006) by [The Children (Protection at Work) (Scotland) Regulations 2006 (S.S.I. 2006/140)](https://www.legislation.gov.uk/ssi/2006/140), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/140/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2006/140/regulation/2)
 
 [^c6094611]: Textual amendment: S. 28(1)(f) omitted (4.8.1998) by virtue of [S.I. 1998/276](https://www.legislation.gov.uk/uksi/1998/276), [reg. 8(1)(2)(c)](https://www.legislation.gov.uk/uksi/1998/276/regulation/8/1/2/c) and repealed (31.12.1998) by [S.I. 1998/2857](https://www.legislation.gov.uk/uksi/1998/2857), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1998/2857/regulation/1/2/b)
 
@@ -765,7 +765,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6095141]: Modification: [S. 31(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/31/1) extended by [Employment of Women, Young Persons, and Children Act 1920 (c. 65, SIF 43:4)](https://www.legislation.gov.uk/ukpga/1920/65), [s. 1(6)(a)](https://www.legislation.gov.uk/ukpga/1920/65/section/1/6/a) (as substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/1/a))
 
-[^key-f7f1d25f663b038f0b59e1b301e40c56]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/31/1) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/3), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
+[^c-f7f1d25f663b038f0b59e1b301e40c56]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/31/1) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/3), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
 
 [^c6095161]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289E–289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289E)
 
@@ -801,19 +801,19 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6095501]: Textual amendment: [Ss. 32](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/32), [34(3)(5)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/34/3/5), [38(1)(2)(7)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/38/1/2/7) repealed by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 64](https://www.legislation.gov.uk/ukpga/1963/37/section/64), [Sch. 5](https://www.legislation.gov.uk/ukpga/1963/37/schedule/5)
 
-[^key-07913e19ec6f8935ce064e09f4d2b23d]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/35/1) substituted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/4), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
+[^c-07913e19ec6f8935ce064e09f4d2b23d]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/35/1) substituted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/4), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
 
 [^c6095521]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1947 (c. 43)](https://www.legislation.gov.uk/ukpga/1947/43), [s. 381](https://www.legislation.gov.uk/ukpga/1947/43/section/381), [Sch. 14](https://www.legislation.gov.uk/ukpga/1947/43/schedule/14)
 
 [^c6095531]: Textual amendment: S. 35(2) repealed by [Local Government (Scotland) Act 1947 (c. 43)](https://www.legislation.gov.uk/ukpga/1947/43), [s. 381](https://www.legislation.gov.uk/ukpga/1947/43/section/381), [Sch. 14](https://www.legislation.gov.uk/ukpga/1947/43/schedule/14)
 
-[^key-d960857bc6f2f6a2448aafda1cbe22a2]: Textual amendment: Words in s. 35(3) substituted (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/2/a) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-d960857bc6f2f6a2448aafda1cbe22a2]: Textual amendment: Words in s. 35(3) substituted (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/2/a) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
-[^key-21141c6f69298a001cfe20d7fd12860f]: Textual amendment: Words in s. 35(3) substituted (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 2 para. 2(b)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/2/b) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-21141c6f69298a001cfe20d7fd12860f]: Textual amendment: Words in s. 35(3) substituted (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 2 para. 2(b)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/2/b) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
 [^c6095661]: Modification: [S. 36(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/36/1) extended by [Employment of Women, Young Persons, and Children Act 1920 (c. 65, SIF 43:4)](https://www.legislation.gov.uk/ukpga/1920/65), [s. 1](https://www.legislation.gov.uk/ukpga/1920/65/section/1) (6)(a) (as substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3), [Sch. 6 para. 1(a)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/1/a))
 
-[^key-51cf1ab2e977a3cfc1f2079d7dbc704e]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/36/1) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/5), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
+[^c-51cf1ab2e977a3cfc1f2079d7dbc704e]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/36/1) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/5), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
 
 [^c6095681]: Textual amendment: Words substituted by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/1963/37/schedule/3/paragraph/31)
 
@@ -837,7 +837,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6095781]: Textual amendment: [S. 36(4)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/36/4) inserted by [Cable and Broadcasting Act 1984 (c. 46, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/46) s. 57(1), Sch. 5 para. 5(2) (which amending Act is repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21) (with saving in [S.I. 1990/2347](https://www.legislation.gov.uk/uksi/1990/2347), [art. 3(3)](https://www.legislation.gov.uk/uksi/1990/2347/article/3/3)); and substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/1), [Sch. 20 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/4/1/b); [S.I. 1990/2347](https://www.legislation.gov.uk/uksi/1990/2347), [art. 3](https://www.legislation.gov.uk/uksi/1990/2347/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1990/2347/schedule/2)
 
-[^key-b7934dacadc185d71a169b67f300282f]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/37) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(6)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/6), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
+[^c-b7934dacadc185d71a169b67f300282f]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/37) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 29(6)](https://www.legislation.gov.uk/ukpga/2026/21/section/29/6), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/4)
 
 [^c6095801]: Textual amendment: [S. 37(a)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/37/a) inserted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1989/38/section/10/2), [Sch. 3 Pt. III para. 13](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/part/III/paragraph/13)
 
@@ -865,7 +865,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6095941]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/46) repealed (E.W.)(S.) by [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 460](https://www.legislation.gov.uk/ukpga/1975/21/section/460), [Sch. 10 Pt. I](https://www.legislation.gov.uk/ukpga/1975/21/schedule/10/part/I) so far as relating to criminal proceedings; extended by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 57(3)(4)](https://www.legislation.gov.uk/ukpga/1963/37/section/57/3/4)
 
-[^key-551c1eeb9b134b605b703d423f28afd8]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/46) applied (4.4.2005) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 111(5)](https://www.legislation.gov.uk/asp/2004/8/section/111/5), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [sch. 5](https://www.legislation.gov.uk/ssi/2004/420/schedule/5)
+[^c-551c1eeb9b134b605b703d423f28afd8]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/46) applied (4.4.2005) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 111(5)](https://www.legislation.gov.uk/asp/2004/8/section/111/5), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [sch. 5](https://www.legislation.gov.uk/ssi/2004/420/schedule/5)
 
 [^c6095921]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/46) extended with modifications by [Cable and Broadcasting Act 1984 (c. 46, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/46), [s. 57(1)](https://www.legislation.gov.uk/ukpga/1984/46/section/57/1), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/1984/46/schedule/5/paragraph/5/3)
 
@@ -911,7 +911,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6096231]: Textual amendment: [Ss. 59(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/59/1), [60](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/60), [61](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/61), [65](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/65), [66](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/66), [68–81](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/68), [83–85](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/83), [87(6)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/87/6), [88–98](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/88), [101(5)(6)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/101/5/6), [106](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/106), [107(2)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/107/2), [109](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/109), [111](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/111), [112](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/112), [Schs. 2](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/schedule/2), [3](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/schedule/3) repealed by [Social Work (Scotland) Act 1968 (c. 49)](https://www.legislation.gov.uk/ukpga/1968/49), [s. 95](https://www.legislation.gov.uk/ukpga/1968/49/section/95), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1968/49/schedule/9/part/I)
 
-[^key-9f858ff25f84ba715930aff86ec817cb]: Textual amendment: [S. 62](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/62) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 12(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/12/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-9f858ff25f84ba715930aff86ec817cb]: Textual amendment: [S. 62](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/62) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 12(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/12/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
 [^c6096311]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/63) inserted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40) ss. 5, 7(2), Sch. 4 para. 3(1)(2)
 
@@ -981,7 +981,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6096771]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-077f51cec43e96fd2f04196a17134c07]: Textual amendment: [S. 101(3)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/101/3) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-077f51cec43e96fd2f04196a17134c07]: Textual amendment: [S. 101(3)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/37/section/101/3) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c6096791]: Textual amendment: S. 101(4) repealed by [Valuation and Rating (Scotland) Act 1956 (c. 60)](https://www.legislation.gov.uk/ukpga/1956/60), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1956/60/schedule/7/part/III)
 
@@ -1025,7 +1025,7 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6097871]: Marginal citation: 1952\. c. 61.
 
-[^key-d7f3d74e555ca32a98eda76c05b2d47d]: Textual amendment: Words in s. 110 repealed (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-d7f3d74e555ca32a98eda76c05b2d47d]: Textual amendment: Words in s. 110 repealed (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
 [^c6097891]: Textual amendment: Words substituted by [Education (Scotland) Act 1945 (c. 37)](https://www.legislation.gov.uk/ukpga/1945/37), [Sch. 4](https://www.legislation.gov.uk/ukpga/1945/37/schedule/4)
 
@@ -1045,9 +1045,9 @@ and save as aforesaid no court shall be deemed to be a court acting for the same
 
 [^c6097981]: Textual amendment: Definition of “parental responsibilities” inserted (1.11.1996 subject to arts. 4, 7 of the commencing S.I.) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 7(6)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/7/6/a) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-7988a53bb691fbe67c74d6f8b013ddbf]: Textual amendment: Words in s. 110(1) renumbered as paragraph (a) (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 41(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/41/a); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); S.I. 2009/479, art. 6(2) (with art. 7, Sch.) (as amended (1.9.2009) by S.I. 2009/2232, art. 3)
+[^c-7988a53bb691fbe67c74d6f8b013ddbf]: Textual amendment: Words in s. 110(1) renumbered as paragraph (a) (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 41(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/41/a); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); S.I. 2009/479, art. 6(2) (with art. 7, Sch.) (as amended (1.9.2009) by S.I. 2009/2232, art. 3)
 
-[^key-700dceb3771a4f994435e3886eabcf56]: Textual amendment: Words in s. 110(1) inserted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 41(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/41/b); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); S.I. 2009/479, art. 6(2) (with art. 7, Sch.) (as amended (1.9.2009) by S.I. 2009/2232, art. 3)
+[^c-700dceb3771a4f994435e3886eabcf56]: Textual amendment: Words in s. 110(1) inserted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 41(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/41/b); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); S.I. 2009/479, art. 6(2) (with art. 7, Sch.) (as amended (1.9.2009) by S.I. 2009/2232, art. 3)
 
 [^c6098001]: Textual amendment: Definition of “place of safety” and “residential establishment” substituted (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 7(6)(b)(c)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/7/6/b/c) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
 

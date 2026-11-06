@@ -33,10 +33,10 @@ Commission Regulation (EC) No 1575/2000
 
 of 19 July 2000 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the codification to be used for data transmission from 2001 onwards (revoked)
 
-[^key-d62fd2fb62e5b7ff2e8723dc8c4623b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d62fd2fb62e5b7ff2e8723dc8c4623b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d62fd2fb62e5b7ff2e8723dc8c4623b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d62fd2fb62e5b7ff2e8723dc8c4623b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d62fd2fb62e5b7ff2e8723dc8c4623b1]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d62fd2fb62e5b7ff2e8723dc8c4623b1]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

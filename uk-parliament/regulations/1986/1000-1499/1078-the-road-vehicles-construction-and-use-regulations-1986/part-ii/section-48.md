@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Maintenance of seat belts and anchorage points[^key-114ac930e42603fd7b9745616cfc2a5e]
+## 48. Maintenance of seat belts and anchorage points[^c-114ac930e42603fd7b9745616cfc2a5e]
 
 *Extent: E+W+S*
 
-(1) This regulation applies to every seat belt with which a motor vehicle is required to be provided in accordance with regulation 47 and to the anchorages, fastenings, adjusting device and retracting mechanism (if any) of every such seat belt and also to every anchorage with which a goods vehicle is required to be provided in accordance with[^key-d8bc30b15e33ff6ee5d27f7eee377fa9] regulation 46(3) and item 4 in the Table in that regulation[^key-93a9e589f5896e1c69fa5059cc0c5ad4].
+(1) This regulation applies to every seat belt with which a motor vehicle is required to be provided in accordance with regulation 47 and to the anchorages, fastenings, adjusting device and retracting mechanism (if any) of every such seat belt and also to every anchorage with which a goods vehicle is required to be provided in accordance with[^c-d8bc30b15e33ff6ee5d27f7eee377fa9] regulation 46(3) and item 4 in the Table in that regulation[^c-93a9e589f5896e1c69fa5059cc0c5ad4].
 
 (2) For the purposes of this regulation the anchorages and anchorage points of a seat belt shall, in the case of a seat which incorporates integral seat belt anchorages, include the system by which the seat assembly itself is secured to the vehicle structure.
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-114ac930e42603fd7b9745616cfc2a5e]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-114ac930e42603fd7b9745616cfc2a5e]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-d8bc30b15e33ff6ee5d27f7eee377fa9]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48/1) added (31.7.1987) by [The Road Vehicles (Construction and Use) (Amendment) (No.2) Regulations 1987 (S.I. 1987/1133)](https://www.legislation.gov.uk/uksi/1987/1133), [regs. 1](https://www.legislation.gov.uk/uksi/1987/1133/regulation/1), [7](https://www.legislation.gov.uk/uksi/1987/1133/regulation/7)
+[^c-d8bc30b15e33ff6ee5d27f7eee377fa9]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48/1) added (31.7.1987) by [The Road Vehicles (Construction and Use) (Amendment) (No.2) Regulations 1987 (S.I. 1987/1133)](https://www.legislation.gov.uk/uksi/1987/1133), [regs. 1](https://www.legislation.gov.uk/uksi/1987/1133/regulation/1), [7](https://www.legislation.gov.uk/uksi/1987/1133/regulation/7)
 
-[^key-93a9e589f5896e1c69fa5059cc0c5ad4]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48/1) substituted (1.10.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/1043)](https://www.legislation.gov.uk/uksi/2001/1043), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1043/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/1043/regulation/5/2)
+[^c-93a9e589f5896e1c69fa5059cc0c5ad4]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/48/1) substituted (1.10.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/1043)](https://www.legislation.gov.uk/uksi/2001/1043), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1043/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/1043/regulation/5/2)

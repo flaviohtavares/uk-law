@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Children’s Rights Scheme[^key-2b4dcd14e5523eb200bea0f320c03966]
+## 14. Children’s Rights Scheme[^c-2b4dcd14e5523eb200bea0f320c03966]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b4dcd14e5523eb200bea0f320c03966]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/1/section/14) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-2b4dcd14e5523eb200bea0f320c03966]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/1/section/14) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

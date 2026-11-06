@@ -24,57 +24,57 @@ Section 56.
 
 **1.** This Schedule has effect to determine the rateable value of non-domestic hereditaments . . . [^c13077901] for the purposes of this Part.
 
-**2.**[^c13078451][^c13078461] (1)[^c13078471][^c13078481][^c13078491][^key-c70c7aefd29191431188cbd96deba4c0] The rateable value of a non-domestic hereditament none of which consists of domestic property and none of which is exempt from local non domestic rating[^c13078501] shall be taken to be an amount equal to the rent at which it is estimated the hereditament might reasonably be expected to let from year to year on these three assumptions—.[^c13078511]
+**2.**[^c13078451][^c13078461] (1)[^c13078471][^c13078481][^c13078491][^c-c70c7aefd29191431188cbd96deba4c0] The rateable value of a non-domestic hereditament none of which consists of domestic property and none of which is exempt from local non domestic rating[^c13078501] shall be taken to be an amount equal to the rent at which it is estimated the hereditament might reasonably be expected to let from year to year on these three assumptions—.[^c13078511]
 
 - (a) the first assumption is that the tenancy begins on the day by reference to which the determination is to be made;
 - (b) the second assumption is that immediately before the tenancy begins the hereditament is in a state of reasonable repair, but excluding from this assumption any repairs which a reasonable landlord would consider uneconomic;
 - (c) the third assumption is that the tenant undertakes to pay all usual tenant’s rates and taxes and to bear the cost of the repairs and insurance and the other expenses (if any) necessary to maintain the hereditament in a state to command the rent mentioned above.
 
-(1A)[^c13078531][^c13078541][^c13078491][^key-c70c7aefd29191431188cbd96deba4c0][^c13078521] The rateable value of a composite hereditament none of which is exempt from local non-domestic rating shall be taken to be an amount equal to the rent which, assuming such a letting of the hereditament as is required to be assumed for the purposes of sub-paragraph (1) above, would reasonably be attributable to the non-domestic use of property.
+(1A)[^c13078531][^c13078541][^c13078491][^c-c70c7aefd29191431188cbd96deba4c0][^c13078521] The rateable value of a composite hereditament none of which is exempt from local non-domestic rating shall be taken to be an amount equal to the rent which, assuming such a letting of the hereditament as is required to be assumed for the purposes of sub-paragraph (1) above, would reasonably be attributable to the non-domestic use of property.
 
-(1B)[^c13078531][^c13078541][^c13078491][^key-c70c7aefd29191431188cbd96deba4c0] The rateable value of a non-domestic hereditament which is partially exempt from local non-domestic rating shall be taken to be an amount equal to the rent which, assuming such a letting of the hereditament as is required to be assumed for the purposes of sub-paragraph (1) above, would, as regards the part of the hereditament which is not exempt from local non-domestic rating, be reasonably attributable to the non-domestic use of property.
+(1B)[^c13078531][^c13078541][^c13078491][^c-c70c7aefd29191431188cbd96deba4c0] The rateable value of a non-domestic hereditament which is partially exempt from local non-domestic rating shall be taken to be an amount equal to the rent which, assuming such a letting of the hereditament as is required to be assumed for the purposes of sub-paragraph (1) above, would, as regards the part of the hereditament which is not exempt from local non-domestic rating, be reasonably attributable to the non-domestic use of property.
 
-(2)[^c13078491][^key-c70c7aefd29191431188cbd96deba4c0] Where (apart from this sub-paragraph) the rateable value would include a fraction of a pound—
+(2)[^c13078491][^c-c70c7aefd29191431188cbd96deba4c0] Where (apart from this sub-paragraph) the rateable value would include a fraction of a pound—
 
 - (a) the fraction shall be made up to one pound if it would exceed 50p, and
 - (b) the fraction shall be ignored if it would be 50p or less.
 
-(3)[^c13078491][^key-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined for the purposes of compiling a list the day by reference to which the determination is to be made is—
+(3)[^c13078491][^c-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined for the purposes of compiling a list the day by reference to which the determination is to be made is—
 
 - (a) the day on which the list must be compiled, or
-- (b) such day preceding that day as may be specified by the appropriate national authority[^key-30f6ae38f938b2752d0577ae5f8103b6] by order in relation to the list.
+- (b) such day preceding that day as may be specified by the appropriate national authority[^c-30f6ae38f938b2752d0577ae5f8103b6] by order in relation to the list.
 
-(4)[^c13078491][^key-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined with a view to making an alteration to a list which has been compiled (whether or not it is still in force) the day by reference to which the determination is to be made is—
+(4)[^c13078491][^c-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined with a view to making an alteration to a list which has been compiled (whether or not it is still in force) the day by reference to which the determination is to be made is—
 
 - (a) the day on which the list came into force, or
 - (b) if a day was specified under sub-paragraph (3)(b) above in relation to the list, the day so specified.
 
-(5)[^c13078491][^key-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined for the purposes of compiling a list by reference to a day specified under sub-paragraph (3)(b) above, the matters mentioned in sub-paragraph (7) below shall be taken to be as they are assumed to be on the day on which the list must be compiled (but this is subject to paragraph 2ZA)[^key-31f74036188a144d9bbf3736a8a8a26c].
+(5)[^c13078491][^c-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined for the purposes of compiling a list by reference to a day specified under sub-paragraph (3)(b) above, the matters mentioned in sub-paragraph (7) below shall be taken to be as they are assumed to be on the day on which the list must be compiled (but this is subject to paragraph 2ZA)[^c-31f74036188a144d9bbf3736a8a8a26c].
 
-(6)[^c13078491][^c13078641][^key-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined with a view to making an alteration to a list which has been compiled (whether or not it is still in force) the matters mentioned in sub-paragraph (7) below shall be taken to be as they are assumed to be on the material day[^c13078651] (but this is subject to paragraph 2ZA)[^key-d6aba3be75c2781f7f032df08e8c9577].
+(6)[^c13078491][^c13078641][^c-c70c7aefd29191431188cbd96deba4c0] Where the rateable value is determined with a view to making an alteration to a list which has been compiled (whether or not it is still in force) the matters mentioned in sub-paragraph (7) below shall be taken to be as they are assumed to be on the material day[^c13078651] (but this is subject to paragraph 2ZA)[^c-d6aba3be75c2781f7f032df08e8c9577].
 
-(6A)[^c13078661][^key-c70c7aefd29191431188cbd96deba4c0] For the purposes of sub-paragraph (6) above the material day shall be such day as is determined in accordance with rules prescribed by regulations made by the appropriate national authority[^key-c0bc99e731e2f679cf0b64805948ddf7].
+(6A)[^c13078661][^c-c70c7aefd29191431188cbd96deba4c0] For the purposes of sub-paragraph (6) above the material day shall be such day as is determined in accordance with rules prescribed by regulations made by the appropriate national authority[^c-c0bc99e731e2f679cf0b64805948ddf7].
 
-(7)[^c13078491][^c13078681][^key-c70c7aefd29191431188cbd96deba4c0] The matters are—
+(7)[^c13078491][^c13078681][^c-c70c7aefd29191431188cbd96deba4c0] The matters are—
 
-- (a)[^key-18cf8cf25143f60df5de4265818a61f4] matters affecting the physical state of the hereditament,
+- (a)[^c-18cf8cf25143f60df5de4265818a61f4] matters affecting the physical state of the hereditament,
 - (aa) matters affecting the physical enjoyment of the hereditament,
 - (b) the mode or category of occupation of the hereditament,
 - (c) the quantity of minerals or other substances in or extracted from the hereditament,
 - (cc)[^c13078691] the quantity of refuse or waste material which is brought onto and permanently deposited on the hereditament,
-- (d)[^key-0b855e2751287f598c7ed8589cbded40] matters affecting the physical state of the locality in which the hereditament is situated,
+- (d)[^c-0b855e2751287f598c7ed8589cbded40] matters affecting the physical state of the locality in which the hereditament is situated,
 - (da) matters which, though not affecting the physical state of the locality in which the hereditament is situated, are nonetheless physically manifest there, and
 - (e) the use or occupation of other premises situated in the locality of the hereditament.
 
-(8) The appropriate national authority[^key-947af4f63f920ab5063fb7f984dae1c0] may make regulations providing that, in applying the preceding provisions of this paragraph in relation to a hereditament of a prescribed class[^c13078701], prescribed assumptions (as to the hereditament or otherwise) are to be made.
+(8) The appropriate national authority[^c-947af4f63f920ab5063fb7f984dae1c0] may make regulations providing that, in applying the preceding provisions of this paragraph in relation to a hereditament of a prescribed class[^c13078701], prescribed assumptions (as to the hereditament or otherwise) are to be made.
 
 (8A)[^c13078711] For the purposes of this paragraph the state of repair of a hereditament at any time relevant for the purposes of a list shall be assumed to be the state of repair in which, under sub-paragraph (1) above, it is assumed to be immediately before the assumed tenancy begins.
 
-(9) The appropriate national authority[^key-52461682d933e53b94f68a28fda5607e] may make regulations providing that in arriving at an amount under sub-paragraph (1) , (1A) or (1B)[^c13078721] above prescribed principles are to be applied; and the regulations may include provision for the preservation of such principles, privileges, and provisions for the making of valuations on exceptional principles, as apply or applied for the purposes of the 1967 Act.
+(9) The appropriate national authority[^c-52461682d933e53b94f68a28fda5607e] may make regulations providing that in arriving at an amount under sub-paragraph (1) , (1A) or (1B)[^c13078721] above prescribed principles are to be applied; and the regulations may include provision for the preservation of such principles, privileges, and provisions for the making of valuations on exceptional principles, as apply or applied for the purposes of the 1967 Act.
 
 (10) If a day is specified under sub-paragraph (3)(b) above the same specification must be made in relation to all lists to be compiled on the same day.
 
-(11)[^c13078731] For the purposes of sub-paragraph (8) above a class may be prescribed by reference to such factors as the appropriate national authority[^key-d22146c13a65a4eb9458d6fe5904b5f2] sees fit.
+(11)[^c13078731] For the purposes of sub-paragraph (8) above a class may be prescribed by reference to such factors as the appropriate national authority[^c-d22146c13a65a4eb9458d6fe5904b5f2] sees fit.
 
 (12) Without prejudice to the generality of sub-paragraph (11) above, a class may be prescribed by reference to one or more of the following factors—
 
@@ -83,7 +83,7 @@ Section 56.
 
 (13) In this paragraph references to the non-domestic use of property are references to use otherwise than in such a manner as to constitute the property domestic property.
 
-**2ZA.**[^key-bac55659ab63ddb9adcd8e0e1c9758a3] (1) Sub-paragraph (2) applies for the purposes of—
+**2ZA.**[^c-bac55659ab63ddb9adcd8e0e1c9758a3] (1) Sub-paragraph (2) applies for the purposes of—
 
 - (a) compiling a list on or after 1 April 2026, where the day by reference to which the rateable value of a non-domestic hereditament in England is to be determined is a day specified under paragraph 2(3)(b), and
 - (b) altering a list compiled on or after 1 April 2023.
@@ -117,7 +117,7 @@ Section 56.
 
 (2) The rateable value of any hereditament to which this paragraph applies shall be taken to be the amount determined under paragraph 2 above less whichever is the smaller of the following amounts—
 
-- (a) such amount as the appropriate national authority[^key-2c6820883b19b248c8d74a583fd2ad24] may by order specify for the purposes of this paragraph; and
+- (a) such amount as the appropriate national authority[^c-2c6820883b19b248c8d74a583fd2ad24] may by order specify for the purposes of this paragraph; and
 - (b) the amount which but for this paragraph would be determined under paragraph 2 above in respect of so much of the hereditaments as consists of buildings so used and occupied.
 
 (3) In this paragraph—
@@ -144,7 +144,7 @@ Section 56.
 (5) For the purposes of this paragraph—
 
 - “**caravan**” has the same meaning as it has for the purposes of Part I of the Caravan Sites and Control of Development Act 1960, and
-- “**caravan site**” means any land in respect of which a site licence is required under Part I of the Caravan Sites and Control of Development Act 1960 or Part 2 of the Mobile Homes (Wales) Act 2013[^key-b9e7d02f3397c53e59adc2351739e53a], or would be so required if paragraph 4 and paragraph 11 of Schedule 1 to the Caravan Sites and Control of Development Act 1960 or paragraph 4 and paragraph 11 of Schedule 1 to the Mobile Homes (Wales) Act 2013[^key-3737d33b388c87da0a7b3cd802ed6070] (exemption of certain land occupied and supervised by organisations concerned with recreational activities and of land occupied by local authorities) were omitted.
+- “**caravan site**” means any land in respect of which a site licence is required under Part I of the Caravan Sites and Control of Development Act 1960 or Part 2 of the Mobile Homes (Wales) Act 2013[^c-b9e7d02f3397c53e59adc2351739e53a], or would be so required if paragraph 4 and paragraph 11 of Schedule 1 to the Caravan Sites and Control of Development Act 1960 or paragraph 4 and paragraph 11 of Schedule 1 to the Mobile Homes (Wales) Act 2013[^c-3737d33b388c87da0a7b3cd802ed6070] (exemption of certain land occupied and supervised by organisations concerned with recreational activities and of land occupied by local authorities) were omitted.
 
 **2C.**[^c13078811][^c13078801] (1) This paragraph applies where—
 
@@ -220,7 +220,7 @@ Section 56.
 
     Sch. 6 paras. 2(1)-(7) amended (W.) (1.4.2000) by [S.I. 2000/1097](https://www.legislation.gov.uk/uksi/2000/1097), [art. 2](https://www.legislation.gov.uk/uksi/2000/1097/article/2)
 
-[^key-c70c7aefd29191431188cbd96deba4c0]: Modification: Sch. 6 para. 2(1)-(7) modified (E.) (25.3.2021 at 4:00 p.m.) by [The Valuation for Rating (Coronavirus) (England) Regulations 2021 (S.I. 2021/398)](https://www.legislation.gov.uk/uksi/2021/398), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/398/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/398/regulation/2/2)
+[^c-c70c7aefd29191431188cbd96deba4c0]: Modification: Sch. 6 para. 2(1)-(7) modified (E.) (25.3.2021 at 4:00 p.m.) by [The Valuation for Rating (Coronavirus) (England) Regulations 2021 (S.I. 2021/398)](https://www.legislation.gov.uk/uksi/2021/398), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/398/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/398/regulation/2/2)
 
 [^c13078501]: Textual amendment: Words inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(3)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/3)
 
@@ -232,43 +232,43 @@ Section 56.
 
 [^c13078521]: Textual amendment: Sch. 6 para. 2(1A)(1B) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(4)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/4)
 
-[^key-30f6ae38f938b2752d0577ae5f8103b6]: Textual amendment: Words in [Sch. 6 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/3/b) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
+[^c-30f6ae38f938b2752d0577ae5f8103b6]: Textual amendment: Words in [Sch. 6 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/3/b) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
 
-[^key-31f74036188a144d9bbf3736a8a8a26c]: Textual amendment: Words in [Sch. 6 para. 2(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/5) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/a), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-31f74036188a144d9bbf3736a8a8a26c]: Textual amendment: Words in [Sch. 6 para. 2(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/5) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/a), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
 [^c13078641]: Modification: Sch. 6 para. 2(6) modified (3. 4. 1991) by [S.I. 1991/471](https://www.legislation.gov.uk/uksi/1991/471), [art. 6(2)(3)(b)(i)](https://www.legislation.gov.uk/uksi/1991/471/article/6/2/3/b/i)
 
 [^c13078651]: Textual amendment: Words substituted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(5)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/5)
 
-[^key-d6aba3be75c2781f7f032df08e8c9577]: Textual amendment: Words in [Sch. 6 para. 2(6)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/6) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/b), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-d6aba3be75c2781f7f032df08e8c9577]: Textual amendment: Words in [Sch. 6 para. 2(6)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/6) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/b), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
 [^c13078661]: Textual amendment: Sch. 6 para. 2(6A) (which was inserted by [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(6)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/6)) substituted (7.3.1992 so far as it enables provision to be made by regulations and 1.4.1992 otherwise) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 104](https://www.legislation.gov.uk/ukpga/1992/14/section/104), [Sch. 10 Pt. I para. 4](https://www.legislation.gov.uk/ukpga/1992/14/schedule/10/part/I/paragraph/4) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1992/473](https://www.legislation.gov.uk/uksi/1992/473), [arts. 2](https://www.legislation.gov.uk/uksi/1992/473/article/2), [3](https://www.legislation.gov.uk/uksi/1992/473/article/3)
 
-[^key-c0bc99e731e2f679cf0b64805948ddf7]: Textual amendment: Words in [Sch. 6 para. 2(6A)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/6A) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
+[^c-c0bc99e731e2f679cf0b64805948ddf7]: Textual amendment: Words in [Sch. 6 para. 2(6A)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/6A) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
 
 [^c13078681]: Modification: Sch. 6 para. 2(7) modified by [S.I. 1990/582](https://www.legislation.gov.uk/uksi/1990/582), [reg. 5(2)](https://www.legislation.gov.uk/uksi/1990/582/regulation/5/2)
 
-[^key-18cf8cf25143f60df5de4265818a61f4]: Textual amendment: [Sch. 6 para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/a)[(aa)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/aa) substituted for [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6) [para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/a) (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/c/i), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-18cf8cf25143f60df5de4265818a61f4]: Textual amendment: [Sch. 6 para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/a)[(aa)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/aa) substituted for [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6) [para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/a) (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/c/i), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
 [^c13078691]: Textual amendment: Sch. 6 para. 2(cc) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(7)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/7)
 
-[^key-0b855e2751287f598c7ed8589cbded40]: Textual amendment: [Sch. 6 para. 2(7)(d)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/d)[(da)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/da) substituted for [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6) [para. 2(7)(d)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/d) (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/c/ii), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-0b855e2751287f598c7ed8589cbded40]: Textual amendment: [Sch. 6 para. 2(7)(d)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/d)[(da)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/da) substituted for [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6) [para. 2(7)(d)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/7/d) (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/c/ii), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
-[^key-947af4f63f920ab5063fb7f984dae1c0]: Textual amendment: Words in [Sch. 6 para. 2(8)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/8) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
+[^c-947af4f63f920ab5063fb7f984dae1c0]: Textual amendment: Words in [Sch. 6 para. 2(8)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/8) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
 
 [^c13078701]: Textual amendment: Word substituted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(8)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/8)
 
 [^c13078711]: Textual amendment: Sch. 6 para. 2(8A) inserted (26.5.1999 effective retrospectively on 1.6.1990 as mentioned in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1999/6/section/2/2) of the amending Act (but subject to exception in [s. 2(3)](https://www.legislation.gov.uk/ukpga/1999/6/section/2/3) of the amending Act) by [1999 c. 6](https://www.legislation.gov.uk/ukpga/1999/6), [ss. 1(1)(3)](https://www.legislation.gov.uk/ukpga/1999/6/section/1/1/3), [2](https://www.legislation.gov.uk/ukpga/1999/6/section/2)
 
-[^key-52461682d933e53b94f68a28fda5607e]: Textual amendment: Words in [Sch. 6 para. 2(9)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/9) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
+[^c-52461682d933e53b94f68a28fda5607e]: Textual amendment: Words in [Sch. 6 para. 2(9)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/9) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
 
 [^c13078721]: Textual amendment: Words inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(9)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/9)
 
 [^c13078731]: Textual amendment: Sch. 6 para. 2(11)–(13) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(10)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/10)
 
-[^key-d22146c13a65a4eb9458d6fe5904b5f2]: Textual amendment: Words in [Sch. 6 para. 2(11)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/11) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
+[^c-d22146c13a65a4eb9458d6fe5904b5f2]: Textual amendment: Words in [Sch. 6 para. 2(11)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2/11) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
 
-[^key-bac55659ab63ddb9adcd8e0e1c9758a3]: Textual amendment: [Sch. 6 para. 2ZA](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2ZA) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(d)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/d), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a) (with [s. 14(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/3))
+[^c-bac55659ab63ddb9adcd8e0e1c9758a3]: Textual amendment: [Sch. 6 para. 2ZA](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2ZA) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(1)(d)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/1/d), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a) (with [s. 14(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/3))
 
 [^c13078751]: Modification: Sch. 6 paras. 2A and 2B excluded by [S.I. 1989/2472](https://www.legislation.gov.uk/uksi/1989/2472), [art. 3(1)](https://www.legislation.gov.uk/uksi/1989/2472/article/3/1) and by [S.I. 1989/2474](https://www.legislation.gov.uk/uksi/1989/2474), [art. 4(1)](https://www.legislation.gov.uk/uksi/1989/2474/article/4/1) (which [S.I. 1989/2474](https://www.legislation.gov.uk/uksi/1989/2474) was revoked (1.4.1995) by [S.I. 1994/3282](https://www.legislation.gov.uk/uksi/1994/3282), [art. 4(1)](https://www.legislation.gov.uk/uksi/1994/3282/article/4/1) (with saving in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/3282/article/4/2))
 
@@ -302,7 +302,7 @@ Section 56.
 
 [^c13078741]: Textual amendment: Sch. 6 paras. 2A and 2B inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 38(11)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/38/11)
 
-[^key-2c6820883b19b248c8d74a583fd2ad24]: Textual amendment: Words in [Sch. 6 para. 2A(2)(a)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2A/2/a) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
+[^c-2c6820883b19b248c8d74a583fd2ad24]: Textual amendment: Words in [Sch. 6 para. 2A(2)(a)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2A/2/a) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(22)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/22)
 
 [^c13078771]: Modification: Sch. 6 paras. 2A and 2B excluded by [S.I. 1989/2472](https://www.legislation.gov.uk/uksi/1989/2472), [art. 3(1)](https://www.legislation.gov.uk/uksi/1989/2472/article/3/1) and by [S.I. 1989/2474](https://www.legislation.gov.uk/uksi/1989/2474), [art. 4(1)](https://www.legislation.gov.uk/uksi/1989/2474/article/4/1) (which [S.I. 1989/2474](https://www.legislation.gov.uk/uksi/1989/2474) was revoked (1.4.1995) by [S.I. 1994/3282](https://www.legislation.gov.uk/uksi/1994/3282), [art. 4(1)](https://www.legislation.gov.uk/uksi/1994/3282/article/4/1) (with saving in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/3282/article/4/2))
 
@@ -336,9 +336,9 @@ Section 56.
 
 [^c13078791]: Modification: Sch. 6 para. 2B(1)(c) modified (3. 4. 1991) by [S.I. 1991/471](https://www.legislation.gov.uk/uksi/1991/471), [art. 6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1991/471/article/6/3/b/ii)
 
-[^key-b9e7d02f3397c53e59adc2351739e53a]: Textual amendment: Words in [Sch. 6 para. 2B(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2B/5) substituted (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/5/a) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/wsi/2014/11/article/3/2)
+[^c-b9e7d02f3397c53e59adc2351739e53a]: Textual amendment: Words in [Sch. 6 para. 2B(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2B/5) substituted (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/5/a) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/wsi/2014/11/article/3/2)
 
-[^key-3737d33b388c87da0a7b3cd802ed6070]: Textual amendment: Words in [Sch. 6 para. 2B(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2B/5) substituted (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/5/b) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/wsi/2014/11/article/3/2)
+[^c-3737d33b388c87da0a7b3cd802ed6070]: Textual amendment: Words in [Sch. 6 para. 2B(5)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/6/paragraph/2B/5) substituted (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/5/b) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/wsi/2014/11/article/3/2)
 
 [^c13078811]: Textual amendment: Sch. 6 para. 2C inserted (1.4.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 2(5)](https://www.legislation.gov.uk/ukpga/1997/29/section/2/5); [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 2(a)](https://www.legislation.gov.uk/uksi/1997/1097/article/2/a)
 

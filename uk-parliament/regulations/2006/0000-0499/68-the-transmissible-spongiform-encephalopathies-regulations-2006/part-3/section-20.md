@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Notices restricting movement[^key-4fdc65c07b193cb4ebebb8321e8d6771]
+## 20. Notices restricting movement[^c-4fdc65c07b193cb4ebebb8321e8d6771]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fdc65c07b193cb4ebebb8321e8d6771]: Commencement: Reg. 20 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-4fdc65c07b193cb4ebebb8321e8d6771]: Commencement: Reg. 20 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

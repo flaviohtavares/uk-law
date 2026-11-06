@@ -29,61 +29,61 @@ Gaming Act 1845 (repealed)
 
 1845 c. 109
 
-[^key-ac1d742a828be828b71ad0487de46390]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac1d742a828be828b71ad0487de46390]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1–9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
-
-**May not be in force at this date. Check the source.**
-
-## 10–14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
+## 1–9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
 
 **May not be in force at this date. Check the source.**
 
-## 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
+## 10–14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
 
 **May not be in force at this date. Check the source.**
 
-## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
+## 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
 
 **May not be in force at this date. Check the source.**
 
-## 17. Cheating at play to be punished as obtaining money by false Pretences.[^key-ac1d742a828be828b71ad0487de46390]
+## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
+
+**May not be in force at this date. Check the source.**
+
+## 17. Cheating at play to be punished as obtaining money by false Pretences.[^c-ac1d742a828be828b71ad0487de46390]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Wagers not recoverable at Law.[^key-ac1d742a828be828b71ad0487de46390]
+## 18. Wagers not recoverable at Law.[^c-ac1d742a828be828b71ad0487de46390]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19–24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
+## 19–24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
 
 **May not be in force at this date. Check the source.**
 
-## 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
+## 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
 
 **May not be in force at this date. Check the source.**
 
-## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ac1d742a828be828b71ad0487de46390]
+## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ac1d742a828be828b71ad0487de46390]
 
 **May not be in force at this date. Check the source.**
 
-## FIRST SCHEDULE[^key-ac1d742a828be828b71ad0487de46390]
+## FIRST SCHEDULE[^c-ac1d742a828be828b71ad0487de46390]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECOND SCHEDULE[^key-ac1d742a828be828b71ad0487de46390]
+## SECOND SCHEDULE[^c-ac1d742a828be828b71ad0487de46390]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## THE THIRD SCHEDULE[^key-ac1d742a828be828b71ad0487de46390]
+## THE THIRD SCHEDULE[^c-ac1d742a828be828b71ad0487de46390]
 
 **No longer in force.**
 
@@ -91,4 +91,4 @@ Gaming Act 1845 (repealed)
 
 ## Annotations
 
-[^key-ac1d742a828be828b71ad0487de46390]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-1](https://www.legislation.gov.uk/uksi/2006/3272/article/7)[2,](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-ac1d742a828be828b71ad0487de46390]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-1](https://www.legislation.gov.uk/uksi/2006/3272/article/7)[2,](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Shared parental leave[^key-92ee3db6e82eb1c359b28614ab64d7c1]
+## 117. Shared parental leave[^c-92ee3db6e82eb1c359b28614ab64d7c1]
 
 *Extent: E+W*
 
@@ -365,4 +365,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92ee3db6e82eb1c359b28614ab64d7c1]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2014/6/section/117) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/a)
+[^c-92ee3db6e82eb1c359b28614ab64d7c1]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2014/6/section/117) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/a)

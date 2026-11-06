@@ -46,13 +46,13 @@ In accordance with sections 13(5) and 50(6) of the Act, a draft of this instrume
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-cbae3486ec7e1114806412f3e884676f]
+### 1. Citation, commencement, extent and application[^c-cbae3486ec7e1114806412f3e884676f]
 
 (1) These Regulations may be cited as the Agriculture (Lump Sum Payment) (England) Regulations 2022 and come into force on the day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales but apply in England only.
 
-### 2. Interpretation[^key-29720f5cb8416b21070ca936dfe4bade]
+### 2. Interpretation[^c-29720f5cb8416b21070ca936dfe4bade]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ In accordance with sections 13(5) and 50(6) of the Act, a draft of this instrume
 - “**farm business tenancy**” means a tenancy to which the Agricultural Tenancies Act 1995[^f00006] applies;
 - “**payment entitlement**” means a payment entitlement as referred to in Article 21(a) and (b) of [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307) and recorded on the register;
 - “**the register**” means the register established by the Secretary of State for identifying and registering payment entitlements in England under Article 7 of [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^f00007];
-- “[Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307)” means [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307) of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation [(EC) No 637/2008](https://www.legislation.gov.uk/european/regulation/2008/0637) and Council Regulation [(EC) 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073)[^f00008] as that Regulation operated in relation to England immediately before the end of 2023[^key-2dd7f1a10100e1611d6c8ec8e216f295];
+- “[Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307)” means [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307) of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation [(EC) No 637/2008](https://www.legislation.gov.uk/european/regulation/2008/0637) and Council Regulation [(EC) 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073)[^f00008] as that Regulation operated in relation to England immediately before the end of 2023[^c-2dd7f1a10100e1611d6c8ec8e216f295];
 - “[Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)” means Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640) of 11 March 2014 supplementing [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00009] as that Regulation operated in relation to England immediately before the end of 2023; and
 - “**scheme end date**” means 31st May 2024.
 
@@ -82,14 +82,14 @@ In accordance with sections 13(5) and 50(6) of the Act, a draft of this instrume
 
 ## PART 2 — Applications for a lump sum payment
 
-### 3. Lump sum payment[^key-3f921fdd7f64237f630232cafbc1b00e]
+### 3. Lump sum payment[^c-3f921fdd7f64237f630232cafbc1b00e]
 
 Subject to regulation 11, the Secretary of State must make a lump sum payment to a person under these Regulations if that person—
 
 - (a) makes an application for a lump sum payment in accordance with regulation 4; and
 - (b) satisfies the eligibility conditions set out in regulation 5.
 
-### 4. Application[^key-f5ee4dea4e5281cb402be0b72fa3c3e1]
+### 4. Application[^c-f5ee4dea4e5281cb402be0b72fa3c3e1]
 
 (1) Subject to paragraph (2), an application for a lump sum payment made in accordance with this regulation must be submitted by the applicant to the Secretary of State—
 
@@ -98,7 +98,7 @@ Subject to regulation 11, the Secretary of State must make a lump sum payment to
 
 (2) Notwithstanding paragraph (1)(b), the Secretary of State may accept an application submitted after the date specified in that paragraph where the Secretary of State is satisfied there are good reasons for doing so.
 
-### 5. Eligibility[^key-38baf45ae5da91a086becb95ea2a7359]
+### 5. Eligibility[^c-38baf45ae5da91a086becb95ea2a7359]
 
 The eligibility conditions are that—
 
@@ -111,7 +111,7 @@ The eligibility conditions are that—
   - (i) is a partnership and the lump sum is payable in respect of one or more partners in the partnership with an interest, or a combined interest, of 50% or more in the profits of the partnership, such partners cease to be a member of the partnership; or
   - (ii) is a body corporate and the lump sum is payable in respect of one or more members of the body corporate who, solely or jointly, hold 50% or more of the equity share capital in that body corporate, such members cease to be a member of the body corporate.
 
-### 6. Agricultural land[^key-be25272f2a8862af74f45464faa7cf63]
+### 6. Agricultural land[^c-be25272f2a8862af74f45464faa7cf63]
 
 (1) Subject to paragraph (3), the applicant must, no later than the scheme end date, complete the transfer to any person, other than a connected person, of—
 
@@ -160,7 +160,7 @@ The eligibility conditions are that—
   - (i) that are owned by the applicant, by sale, gift or lease for a term of no less than 5 years; and
   - (ii) that are leased by the applicant, by surrender or assignment of the lease.
 
-### 7. Connected persons[^key-d129dec4734635a63a26ea51e73c4120]
+### 7. Connected persons[^c-d129dec4734635a63a26ea51e73c4120]
 
 (1) For the purposes of regulation 6(1), a “**connected person**” means—
 
@@ -179,7 +179,7 @@ The eligibility conditions are that—
 - (a) in the case of a partnership, where the connected person is entitled to more than a 50% share in the profits of the partnership; and
 - (b) in the case of a body corporate, where the connected person holds more than 50% of the equity share capital of that body.
 
-### 8. Payment entitlements[^key-15fb048c00523ac0028a508108aa9714]
+### 8. Payment entitlements[^c-15fb048c00523ac0028a508108aa9714]
 
 (1) Except as otherwise provided in paragraphs (2) and (3), the applicant must, no later than the scheme end date, surrender all payment entitlements entered in the register in the applicant’s name.
 
@@ -189,17 +189,17 @@ The eligibility conditions are that—
 
 (4) The Secretary of State may extend the deadline for the surrender of entitlements referred to in paragraphs (1) and (3) if the applicant provides evidence to show that the circumstances described in paragraph (5)(a) or (b) of regulation 6 apply.
 
-### 9. Information in support of eligibility for a lump sum payment[^key-69554086a707ea6c9ed6483605eb1124]
+### 9. Information in support of eligibility for a lump sum payment[^c-69554086a707ea6c9ed6483605eb1124]
 
 (1) The Secretary of State may require the applicant to provide such additional information or evidence in support of the application as the Secretary of State may request.
 
 (2) Where the Secretary of State has requested additional information or evidence under paragraph (1), the applicant must provide that information or evidence before the end of the period specified by the Secretary of State in the request.
 
-### 10. Defects in an application for a lump sum payment[^key-6985067a0906dc27e851bc0946bb13c3]
+### 10. Defects in an application for a lump sum payment[^c-6985067a0906dc27e851bc0946bb13c3]
 
 Where an applicant has submitted an incomplete application or the application contains a material error, the Secretary of State must notify the applicant of the defect and permit the applicant to correct the defect before the end of the period specified by the Secretary of State.
 
-### 11. Decision not to pay a lump sum payment[^key-c27ac36b6a6aa487d1a9362527608b3e]
+### 11. Decision not to pay a lump sum payment[^c-c27ac36b6a6aa487d1a9362527608b3e]
 
 (1) The Secretary of State must not pay a lump sum payment if, having considered all information contained in an application, together with any supporting information or evidence required under regulation 9, the Secretary of State is satisfied that—
 
@@ -215,11 +215,11 @@ Where an applicant has submitted an incomplete application or the application co
 
 ## PART 3 — Lump sum payments
 
-### 12. Calculating a lump sum payment[^key-2a27326ae40af06bae1aa09804a99623]
+### 12. Calculating a lump sum payment[^c-2a27326ae40af06bae1aa09804a99623]
 
 The Secretary of State must calculate a lump sum payment payable under these Regulations in accordance with the Schedule.
 
-### 13. Time for making payment[^key-dfc9545436809a7f22f824a7e238f600]
+### 13. Time for making payment[^c-dfc9545436809a7f22f824a7e238f600]
 
 (1) Subject to paragraph (2), a lump sum payment payable in accordance with these Regulations must be paid no later than six months after the applicant is notified by the Secretary of State that the requirements of these Regulations have been met.
 
@@ -227,7 +227,7 @@ The Secretary of State must calculate a lump sum payment payable under these Reg
 
 ## PART 4 — Appeals
 
-### 14. Appeals[^key-ddb6e447baca1b4aac111927fbaca439]
+### 14. Appeals[^c-ddb6e447baca1b4aac111927fbaca439]
 
 (1) An applicant (“**the appellant**”) may appeal in writing to the Secretary of State against a decision made under regulation 11, or any other decision made by the Secretary of State under these Regulations, on any of the following grounds—
 
@@ -260,7 +260,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 12
 
-### 1. Formula[^key-9c7116cc7e39b51d8a5359848a000750]
+### 1. Formula[^c-9c7116cc7e39b51d8a5359848a000750]
 
 (1) The Secretary of State must apply the formula set out in sub-paragraph (2) to calculate a lump sum payment.
 
@@ -275,22 +275,22 @@ Regulation 12
 - (c) “**SRA**” means the specified reference amount, which is the average amount of payments received by the applicant under the basic payment scheme in relation to the payment entitlements activated by the applicant for claim years 2019, 2020 and 2021 before the application of any reductions or penalties by the Secretary of State under—
   - (i) Article 19a of [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^f00015];
   - (ii) Articles 24 to 28 of [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^f00016]; or
-  - (iii) paragraphs (2)(c) and (d) and (3) to (5) of Article 6 of Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) of 17 July 2014 laying down rules for the application of Regulation (EU) 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00017] as that Regulation applied in relation to England immediately before the end of 2023[^key-fa96475a144035e8e3ee0fc16b1559a7].
+  - (iii) paragraphs (2)(c) and (d) and (3) to (5) of Article 6 of Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) of 17 July 2014 laying down rules for the application of Regulation (EU) 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00017] as that Regulation applied in relation to England immediately before the end of 2023[^c-fa96475a144035e8e3ee0fc16b1559a7].
 
 (4) For the purposes of calculating a lump sum payment under this Schedule, where any payment made to the applicant under the basic payment scheme in relation to claim year 2019 is expressed in euros (€), the payment is to be converted into pounds sterling using the exchange rate of 1(€) = 0.89092(£).
 
-### 2. Cap of specified reference amount[^key-c14a0a6eb47b80e6aff3332e2a4f3f5f]
+### 2. Cap of specified reference amount[^c-c14a0a6eb47b80e6aff3332e2a4f3f5f]
 
 The specified reference amount referred to in paragraph 1(3)(c) must not exceed £42,500.
 
-### 3. Deductions from a lump sum payment[^key-5a23eba658853c33a2140d907162704c]
+### 3. Deductions from a lump sum payment[^c-5a23eba658853c33a2140d907162704c]
 
 (1) The Secretary of State must apply the formula set out in sub-paragraph (4) to calculate a percentage reduction to the applicant’s lump sum payment if the circumstances in sub-paragraph (2) apply.
 
 (2) The circumstances referred to in sub-paragraph (1) are where the total value of payment entitlements referred to in sub-paragraph (3) exceeds—
 
-- (a) the total value of the applicant’s payment entitlements surrendered in accordance with regulation 8 (excluding any payment entitlements leased out after 17th May 2021);[^key-04076fbc129a03e969fbeba48047a9c3]...
-- (b) where relevant, the total value of any payment entitlements leased in by the applicant and which have subsequently been surrendered after 17th May 2021; and[^key-737af04f26fc7c56549abb36be14870c]
+- (a) the total value of the applicant’s payment entitlements surrendered in accordance with regulation 8 (excluding any payment entitlements leased out after 17th May 2021);[^c-04076fbc129a03e969fbeba48047a9c3]...
+- (b) where relevant, the total value of any payment entitlements leased in by the applicant and which have subsequently been surrendered after 17th May 2021; and[^c-737af04f26fc7c56549abb36be14870c]
 - (c) the total value of any payment entitlements that were recorded in the register in the applicant’s name before the date on which these Regulations come into force (excluding any payment entitlements that have been leased out).
 
 (3) The payment entitlements referred to in sub-paragraph (2) are any payment entitlements activated by the applicant in—
@@ -307,9 +307,9 @@ The specified reference amount referred to in paragraph 1(3)(c) must not exceed 
 
 - (a) “*x*” means the percentage reduction applied to the lump sum payment;
 - (b) “**PES**” means—
-  - (i) the total value of the applicant’s payment entitlements surrendered under regulation 8 (excluding any payment entitlements leased out after 17th May 2021); [^key-d2d479bbea44e2722209db19fceb02a8]...
+  - (i) the total value of the applicant’s payment entitlements surrendered under regulation 8 (excluding any payment entitlements leased out after 17th May 2021); [^c-d2d479bbea44e2722209db19fceb02a8]...
   - (ii) where relevant, the total value of any payment entitlements leased in by the applicant and which have subsequently been surrendered after 17th May 2021; and
-  - (iii)[^key-b2c01ba2000804afd6bb1106602701a1] the total value of any payment entitlements that were recorded in the register in the applicant’s name before the date on which these Regulations come into force (excluding any payment entitlements that have been leased out); and
+  - (iii)[^c-b2c01ba2000804afd6bb1106602701a1] the total value of any payment entitlements that were recorded in the register in the applicant’s name before the date on which these Regulations come into force (excluding any payment entitlements that have been leased out); and
 - (c) “**PEC**” means the total value of any payment entitlements activated by the applicant in—
   - (i) claim year 2021;
   - (ii) claim year 2020, if no payment entitlements were activated by the applicant in claim year 2021; or
@@ -352,9 +352,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21).
 
-[^key-cbae3486ec7e1114806412f3e884676f]: Commencement: Reg. 1 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-cbae3486ec7e1114806412f3e884676f]: Commencement: Reg. 1 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-29720f5cb8416b21070ca936dfe4bade]: Commencement: Reg. 2 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-29720f5cb8416b21070ca936dfe4bade]: Commencement: Reg. 2 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
@@ -370,19 +370,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00008]: Footnote: EUR 2013/1307; as amended by [S.I. 2020/91](https://www.legislation.gov.uk/uksi/2020/91), [576](https://www.legislation.gov.uk/uksi/2020/576), and [760](https://www.legislation.gov.uk/uksi/2020/706). This Regulation was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-2dd7f1a10100e1611d6c8ec8e216f295]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/390/regulation/2) inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/2)
+[^c-2dd7f1a10100e1611d6c8ec8e216f295]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/390/regulation/2) inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/2)
 
 [^f00009]: Footnote: EUR 2014/640; as amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765), [2020/90](https://www.legislation.gov.uk/uksi/2020/90) and [1513](https://www.legislation.gov.uk/uksi/2020/1513). This Regulation was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-3f921fdd7f64237f630232cafbc1b00e]: Commencement: Reg. 3 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-3f921fdd7f64237f630232cafbc1b00e]: Commencement: Reg. 3 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-f5ee4dea4e5281cb402be0b72fa3c3e1]: Commencement: Reg. 4 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-f5ee4dea4e5281cb402be0b72fa3c3e1]: Commencement: Reg. 4 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-38baf45ae5da91a086becb95ea2a7359]: Commencement: Reg. 5 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-38baf45ae5da91a086becb95ea2a7359]: Commencement: Reg. 5 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
 [^f00010]: Footnote: The “basic payment scheme” is defined in section 7(2) of the Act. A “**direct payment under the basic payment scheme**” has the meaning given in section 7(5) of the Act.
 
-[^key-be25272f2a8862af74f45464faa7cf63]: Commencement: Reg. 6 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-be25272f2a8862af74f45464faa7cf63]: Commencement: Reg. 6 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
 [^f00011]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64); section 3 was amended by section 53 of the Commons Act [2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26).
 
@@ -392,23 +392,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00014]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16); section 98(1) was amended by [S.I. 2016/992](https://www.legislation.gov.uk/uksi/2016/992).
 
-[^key-d129dec4734635a63a26ea51e73c4120]: Commencement: Reg. 7 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-d129dec4734635a63a26ea51e73c4120]: Commencement: Reg. 7 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-15fb048c00523ac0028a508108aa9714]: Commencement: Reg. 8 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-15fb048c00523ac0028a508108aa9714]: Commencement: Reg. 8 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-69554086a707ea6c9ed6483605eb1124]: Commencement: Reg. 9 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-69554086a707ea6c9ed6483605eb1124]: Commencement: Reg. 9 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-6985067a0906dc27e851bc0946bb13c3]: Commencement: Reg. 10 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-6985067a0906dc27e851bc0946bb13c3]: Commencement: Reg. 10 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-c27ac36b6a6aa487d1a9362527608b3e]: Commencement: Reg. 11 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-c27ac36b6a6aa487d1a9362527608b3e]: Commencement: Reg. 11 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-2a27326ae40af06bae1aa09804a99623]: Commencement: Reg. 12 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-2a27326ae40af06bae1aa09804a99623]: Commencement: Reg. 12 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-dfc9545436809a7f22f824a7e238f600]: Commencement: Reg. 13 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-dfc9545436809a7f22f824a7e238f600]: Commencement: Reg. 13 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-ddb6e447baca1b4aac111927fbaca439]: Commencement: Reg. 14 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-ddb6e447baca1b4aac111927fbaca439]: Commencement: Reg. 14 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-9c7116cc7e39b51d8a5359848a000750]: Commencement: Sch. para. 1 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-9c7116cc7e39b51d8a5359848a000750]: Commencement: Sch. para. 1 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
 [^f00015]: Footnote: EUR 2014/640; Article 19a was amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765) (to which there are amendments not relevant to these Regulations), 2020/90, 551, 1513 and 2021/407. EUR 2014/640 was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2).
 
@@ -416,16 +416,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00017]: Footnote: EUR 2014/809; Article 6 was amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765) (to which there are amendments not relevant to these Regulations), 2020/90, 2020/1513 and 2021/407. EUR 2014/809 was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-fa96475a144035e8e3ee0fc16b1559a7]: Textual amendment: Words in [Sch. para. 1(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/1/3/c/iii) inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/a)
+[^c-fa96475a144035e8e3ee0fc16b1559a7]: Textual amendment: Words in [Sch. para. 1(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/1/3/c/iii) inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/a)
 
-[^key-c14a0a6eb47b80e6aff3332e2a4f3f5f]: Commencement: Sch. para. 2 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-c14a0a6eb47b80e6aff3332e2a4f3f5f]: Commencement: Sch. para. 2 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-5a23eba658853c33a2140d907162704c]: Commencement: Sch. para. 3 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
+[^c-5a23eba658853c33a2140d907162704c]: Commencement: Sch. para. 3 in force at 26.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/390/regulation/1/1)
 
-[^key-04076fbc129a03e969fbeba48047a9c3]: Textual amendment: Word in [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/2/a) omitted (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/i/aa)
+[^c-04076fbc129a03e969fbeba48047a9c3]: Textual amendment: Word in [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/2/a) omitted (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/i/aa)
 
-[^key-737af04f26fc7c56549abb36be14870c]: Textual amendment: [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/2/c) and word inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/i/bb)
+[^c-737af04f26fc7c56549abb36be14870c]: Textual amendment: [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/2/c) and word inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/i/bb)
 
-[^key-d2d479bbea44e2722209db19fceb02a8]: Textual amendment: Word in [Sch. para. 3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/5/b/i) omitted (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/ii/aa)
+[^c-d2d479bbea44e2722209db19fceb02a8]: Textual amendment: Word in [Sch. para. 3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/5/b/i) omitted (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/ii/aa)
 
-[^key-b2c01ba2000804afd6bb1106602701a1]: Textual amendment: [Sch. para. 3(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/5/b/iii) inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/ii/bb)
+[^c-b2c01ba2000804afd6bb1106602701a1]: Textual amendment: [Sch. para. 3(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/390/schedule/paragraph/3/5/b/iii) inserted (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 11(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/11/3/b/ii/bb)

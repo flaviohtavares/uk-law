@@ -35,7 +35,7 @@ Licensing (marine), Wales
 
 Marine Pollution, Wales
 
-The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2016 (revoked)[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]
+The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2016 (revoked)[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]
 
 Made
 
@@ -49,24 +49,24 @@ Coming into force
 
 31 July 2016
 
-[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]
+## 1. Title and commencement[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Marine Licensing (Exempted Activities) (Wales) Order 2011[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]
+## 2. Amendment of the Marine Licensing (Exempted Activities) (Wales) Order 2011[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e92cef058a1ccf44b0dc8a1f0a3b3aa2]: Textual amendment: Order revoked (5.7.2018) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2018 (S.I. 2018/724)](https://www.legislation.gov.uk/uksi/2018/724), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/724/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/724/article/3)
+[^c-e92cef058a1ccf44b0dc8a1f0a3b3aa2]: Textual amendment: Order revoked (5.7.2018) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2018 (S.I. 2018/724)](https://www.legislation.gov.uk/uksi/2018/724), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/724/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/724/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. New applications filed as mentioned in section 15(9)[^key-047eeef10281392618a4d1358f186f3a]
+## 19. New applications filed as mentioned in section 15(9)[^c-047eeef10281392618a4d1358f186f3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-047eeef10281392618a4d1358f186f3a]: Textual amendment: [Rule 19](https://www.legislation.gov.uk/uksi/2007/3291/rule/19) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2016/892/rule/6)
+[^c-047eeef10281392618a4d1358f186f3a]: Textual amendment: [Rule 19](https://www.legislation.gov.uk/uksi/2007/3291/rule/19) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2016/892/rule/6)

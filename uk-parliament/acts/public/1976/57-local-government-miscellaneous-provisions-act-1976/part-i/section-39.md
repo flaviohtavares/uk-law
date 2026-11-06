@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Protection of members and officers etc. of local authorities from personal liability.[^c7226881][^c7226891][^key-1c172f70e25e2ac887c053a1ade23a10][^key-6f661290372368487d5b7996c1a404b5][^key-f26d9f18d1b2473c6eecf72922d60fad]
+## 39. Protection of members and officers etc. of local authorities from personal liability.[^c7226881][^c7226891][^c-1c172f70e25e2ac887c053a1ade23a10][^c-6f661290372368487d5b7996c1a404b5][^c-f26d9f18d1b2473c6eecf72922d60fad]
 
 *Extent: E+W*
 
@@ -30,11 +30,11 @@ summary: ''
 
 [^c7226891]: Modification: Power to apply s. 39 conferred (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (c)(iv); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/2/2/m)
 
-[^key-1c172f70e25e2ac887c053a1ade23a10]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/57/section/39) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/1)
+[^c-1c172f70e25e2ac887c053a1ade23a10]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/57/section/39) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/1)
 
-[^key-6f661290372368487d5b7996c1a404b5]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/57/section/39) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
+[^c-6f661290372368487d5b7996c1a404b5]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/57/section/39) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
 
-[^key-f26d9f18d1b2473c6eecf72922d60fad]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/57/section/39) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
+[^c-f26d9f18d1b2473c6eecf72922d60fad]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1976/57/section/39) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
 
 [^c7226901]: Marginal citation: [1875 c. 55](https://www.legislation.gov.uk/ukpga/1875/55).
 

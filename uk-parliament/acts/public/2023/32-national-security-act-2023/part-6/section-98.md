@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Extent in the United Kingdom[^key-fda045ebf3146b8115d47caa21103ae1]
+## 98. Extent in the United Kingdom[^c-fda045ebf3146b8115d47caa21103ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fda045ebf3146b8115d47caa21103ae1]: Commencement: S. 98 in force at Royal Assent, see 100(2)
+[^c-fda045ebf3146b8115d47caa21103ae1]: Commencement: S. 98 in force at Royal Assent, see 100(2)

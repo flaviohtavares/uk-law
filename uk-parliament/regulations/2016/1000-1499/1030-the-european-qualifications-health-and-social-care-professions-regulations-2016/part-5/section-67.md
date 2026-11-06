@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Insertion of article 55[^key-a3c09439a7470e69cdde948d47887f6a]
+## 67. Insertion of article 55[^c-a3c09439a7470e69cdde948d47887f6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After article 54 (supplementary and transitional provisions and extent), insertâ
 
 ## Annotations
 
-[^key-a3c09439a7470e69cdde948d47887f6a]: Commencement: Reg. 67 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a3c09439a7470e69cdde948d47887f6a]: Commencement: Reg. 67 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

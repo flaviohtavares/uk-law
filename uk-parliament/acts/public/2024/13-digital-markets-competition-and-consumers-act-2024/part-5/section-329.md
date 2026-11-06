@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 329. Removal of limit on the tenure of a chair of the Competition Appeal Tribunal[^key-0bb9bf5d7782afa37e959203ae022f88][^key-0c716369853ad349fadb4d2a18dbf351]
+## 329. Removal of limit on the tenure of a chair of the Competition Appeal Tribunal[^c-0bb9bf5d7782afa37e959203ae022f88][^c-0c716369853ad349fadb4d2a18dbf351]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Schedule 2 to EA 2002 (the Competition Appeal Tribunal), in paragraph 2 (tenu
 
 ## Annotations
 
-[^key-0bb9bf5d7782afa37e959203ae022f88]: Commencement: S. 329 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0bb9bf5d7782afa37e959203ae022f88]: Commencement: S. 329 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-0c716369853ad349fadb4d2a18dbf351]: Commencement: [S. 329](https://www.legislation.gov.uk/ukpga/2024/13/section/329) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(d)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/d)
+[^c-0c716369853ad349fadb4d2a18dbf351]: Commencement: [S. 329](https://www.legislation.gov.uk/ukpga/2024/13/section/329) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(d)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/d)

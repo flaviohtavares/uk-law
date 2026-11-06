@@ -24,13 +24,13 @@ summary: ''
 
 (2) In subsections (2) and (4) (appeals to be made to Mayor), for “appeal to the Mayor” substitute “ make an appeal ”.
 
-(3)[^key-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-068521c58cb7bf1211198524284e92fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) For subsections (11) to (13) (power of panel to report to Mayor who may issue appropriate guidance or directions to Transport for London) substitute—
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c14883591]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-068521c58cb7bf1211198524284e92fe]: Textual amendment: S. 267(3)-(6) repealed (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1885/schedule/3)
+[^c-068521c58cb7bf1211198524284e92fe]: Textual amendment: S. 267(3)-(6) repealed (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1885/schedule/3)

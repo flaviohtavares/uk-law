@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Sharing of database where FCA makes corresponding rules[^key-76104b966c55cdfc3c25c4bb215bef2d]
+## 19. Sharing of database where FCA makes corresponding rules[^c-76104b966c55cdfc3c25c4bb215bef2d]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ including provision conferring functions on a person appointed as mentioned in s
 
 ## Annotations
 
-[^key-76104b966c55cdfc3c25c4bb215bef2d]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-76104b966c55cdfc3c25c4bb215bef2d]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

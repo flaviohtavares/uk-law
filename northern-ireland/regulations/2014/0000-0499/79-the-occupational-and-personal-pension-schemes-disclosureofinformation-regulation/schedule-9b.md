@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9B — Statements to be published by collective money purchase schemes[^key-3b4cdb7234c769c245fcf04b5dd99ad6]
+## SCHEDULE 9B — Statements to be published by collective money purchase schemes[^c-3b4cdb7234c769c245fcf04b5dd99ad6]
 
 *Extent: N.I.*
 
@@ -24,9 +24,9 @@ Regulation 29B(2) and (3)
 
 ### PART 1 — Scheme design statement
 
-**1.** Where the scheme is a single or connected employer scheme,[^key-9f35b86078d0256bd3a76f76905ce1a3] a summary of—
+**1.** Where the scheme is a single or connected employer scheme,[^c-9f35b86078d0256bd3a76f76905ce1a3] a summary of—
 
-- (a) the rate or amount [^key-d0e4c77c256d520ed84e1d13b9df9dbb]... by reference to which [^key-8dce460fe2d450de11bd2d689cbecdb7]... benefits accrue each year under the scheme;
+- (a) the rate or amount [^c-d0e4c77c256d520ed84e1d13b9df9dbb]... by reference to which [^c-8dce460fe2d450de11bd2d689cbecdb7]... benefits accrue each year under the scheme;
 - (b) the rate or amount of contributions paid by the employer;
 - (c) the rate or amount of contributions paid by the member;
 - (d) the normal pension age as specified in the rules of the scheme.
@@ -68,18 +68,18 @@ Regulation 29B(2) and (3)
 
 **12.** In the case of all subsequent statements, an explanation of any changes to the actuarial valuation or to the methods and assumptions used in the last statement.
 
-**13.**[^key-c5396a49d75586113097159eaebfd597] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c5396a49d75586113097159eaebfd597] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b4cdb7234c769c245fcf04b5dd99ad6]: Textual amendment: Sch. 9B inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(19)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/19), [Sch. 2](https://www.legislation.gov.uk/nisr/2022/192/schedule/2)
+[^c-3b4cdb7234c769c245fcf04b5dd99ad6]: Textual amendment: Sch. 9B inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(19)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/19), [Sch. 2](https://www.legislation.gov.uk/nisr/2022/192/schedule/2)
 
-[^key-9f35b86078d0256bd3a76f76905ce1a3]: Textual amendment: Words in [Sch. 9B para. 1](https://www.legislation.gov.uk/nisr/2014/79/schedule/9B/paragraph/1) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 6(5)(a)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/6/5/a)
+[^c-9f35b86078d0256bd3a76f76905ce1a3]: Textual amendment: Words in [Sch. 9B para. 1](https://www.legislation.gov.uk/nisr/2014/79/schedule/9B/paragraph/1) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 6(5)(a)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/6/5/a)
 
-[^key-d0e4c77c256d520ed84e1d13b9df9dbb]: Textual amendment: Words in Sch. 9B para. 1(a) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(9)(a)(i)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/9/a/i)
+[^c-d0e4c77c256d520ed84e1d13b9df9dbb]: Textual amendment: Words in Sch. 9B para. 1(a) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(9)(a)(i)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/9/a/i)
 
-[^key-8dce460fe2d450de11bd2d689cbecdb7]: Textual amendment: Words in Sch. 9B para. 1(a) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/9/a/ii)
+[^c-8dce460fe2d450de11bd2d689cbecdb7]: Textual amendment: Words in Sch. 9B para. 1(a) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/9/a/ii)
 
 [^M_F_b869bb9a-751b-43c2-fd63-fc14a4e640ba]: Textual amendment: [Sch. 9B para. 1A](https://www.legislation.gov.uk/nisr/2014/79/schedule/9B/paragraph/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 7 para. 6(5)(b)](https://www.legislation.gov.uk/nisr/2026/151/schedule/7/paragraph/6/5/b)
 
-[^key-c5396a49d75586113097159eaebfd597]: Textual amendment: Sch. 9B para. 13 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/9/b)
+[^c-c5396a49d75586113097159eaebfd597]: Textual amendment: Sch. 9B para. 13 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/9/b)

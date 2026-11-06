@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Union learning representatives[^key-e21142fabeea6c312088baab5b45c103]
+## 43. Union learning representatives[^c-e21142fabeea6c312088baab5b45c103]
 
 *Extent: E+W+S*
 
@@ -111,4 +111,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21142fabeea6c312088baab5b45c103]: Commencement: S. 43 in force at 27.4.2003 by [S.I. 2003/1190](https://www.legislation.gov.uk/uksi/2003/1190), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1190/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1190/article/3))
+[^c-e21142fabeea6c312088baab5b45c103]: Commencement: S. 43 in force at 27.4.2003 by [S.I. 2003/1190](https://www.legislation.gov.uk/uksi/2003/1190), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1190/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1190/article/3))

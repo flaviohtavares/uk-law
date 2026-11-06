@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24A. Presiding member[^key-35ee75faadc5db6e1dd8e927906aa3fa]
+## 24A. Presiding member[^c-35ee75faadc5db6e1dd8e927906aa3fa]
 
 *Extent: W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The functions of the presiding member may, in particular, include any function of the chairman of the principal council in relation to its meetings and proceedings.
 
-(5) A member of the executive of a principal council , or an assistant to the executive,[^key-1e0edbdf1c117c8821789f33bb06ba97] may not be elected as its presiding member.
+(5) A member of the executive of a principal council , or an assistant to the executive,[^c-1e0edbdf1c117c8821789f33bb06ba97] may not be elected as its presiding member.
 
 (6) A presiding member is to continue in office until the occurrence of—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35ee75faadc5db6e1dd8e927906aa3fa]: Textual amendment: Ss. 24A, 24B inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 51(2)](https://www.legislation.gov.uk/anaw/2013/4/section/51/2), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
+[^c-35ee75faadc5db6e1dd8e927906aa3fa]: Textual amendment: Ss. 24A, 24B inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 51(2)](https://www.legislation.gov.uk/anaw/2013/4/section/51/2), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
 
-[^key-1e0edbdf1c117c8821789f33bb06ba97]: Textual amendment: Words in [s. 24A(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/24A/5) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/1/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
+[^c-1e0edbdf1c117c8821789f33bb06ba97]: Textual amendment: Words in [s. 24A(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/24A/5) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/1/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))

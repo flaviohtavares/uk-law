@@ -36,7 +36,7 @@ Section 2(1).
 
 **3.** Section 12 (supplementary provisions about health authorities) shall be renumbered as subsection (2) of that section and—
 
-- (a)[^key-90b0361d649c9c88b59a6006c50bcf13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-90b0361d649c9c88b59a6006c50bcf13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in that subsection as so renumbered, for paragraphs (a) to (c) substitute—
 
   > - (a) Health Authorities established under section 8 above; and
@@ -45,7 +45,7 @@ Section 2(1).
   , and
 - (c) in the sidenote, for “to” substitute “ and ”.
 
-**4.**[^c8306761][^key-c896840fbbfa49fbfe8a707cab1c8754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c8306761][^c-c896840fbbfa49fbfe8a707cab1c8754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** Omit section 14 (Regional Health Authority’s directions).
 
@@ -111,7 +111,7 @@ Section 2(1).
 - (d) in subsection (4), for “subsections (1) and (3)” substitute “ subsection (1) ”, and
 - (e) in the sidenote and the heading immediately preceding that section, for “Local advisory committees” substitute “ Advisory committees for Wales ”.
 
-**11.**[^key-b27973f5a4fff18e786f0597f5c2c275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b27973f5a4fff18e786f0597f5c2c275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** In section 22 (co-operation between health authorities and local authorities)—
 
@@ -158,32 +158,32 @@ Section 2(1).
   , and
 - (b) in subsection (7)(a), for “districts” substitute “ areas ”.
 
-**18.**[^key-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e478ac46a31effde6893e8befccdc45f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.** In section 35 (arrangements for general dental services), in subsection (1)— *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f]
+**24.** In section 35 (arrangements for general dental services), in subsection (1)— *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f]
 
-- (a) for “Family Practitioner Committee” substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ Health Authority ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f], and *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f]
-- (b) for “locality” (in both places) substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ area ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f].
+- (a) for “Family Practitioner Committee” substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ Health Authority ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f], and *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f]
+- (b) for “locality” (in both places) substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ area ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f].
 
-**25.** In section 36 (regulations as to section 35)— *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f]
+**25.** In section 36 (regulations as to section 35)— *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f]
 
-- (a) in subsection (1)(d), for “locality” (in both places) substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ area ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f], and *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f]
-- (b) in subsection (2)— *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f]
-  - (i) for “Family Practitioner Committee” substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ Health Authority ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f],
-  - (ii (affected by repeal, see note))[^key-e478ac46a31effde6893e8befccdc45f] for “the Committee” substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ the Health Authority ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f], and *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f]
-  - (iii (affected by repeal, see note))[^key-e478ac46a31effde6893e8befccdc45f] for “Committee’s locality” substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ Health Authority’s area ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f].
+- (a) in subsection (1)(d), for “locality” (in both places) substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ area ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f], and *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f]
+- (b) in subsection (2)— *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f]
+  - (i) for “Family Practitioner Committee” substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ Health Authority ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f],
+  - (ii (affected by repeal, see note))[^c-e478ac46a31effde6893e8befccdc45f] for “the Committee” substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ the Health Authority ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f], and *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f]
+  - (iii (affected by repeal, see note))[^c-e478ac46a31effde6893e8befccdc45f] for “Committee’s locality” substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ Health Authority’s area ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f].
 
-**26.** In section 37 (Dental Practice Board), in subsection (1)(b), for “an Area or District Health Authority” substitute *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f] “ a Health Authority ” *(affected by repeal, see note)*[^key-e478ac46a31effde6893e8befccdc45f].
+**26.** In section 37 (Dental Practice Board), in subsection (1)(b), for “an Area or District Health Authority” substitute *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f] “ a Health Authority ” *(affected by repeal, see note)*[^c-e478ac46a31effde6893e8befccdc45f].
 
 **27.** In section 38 (arrangements for general ophthalmic services), in subsection (1)—
 
@@ -192,7 +192,7 @@ Section 2(1).
 
 **28.** In section 39 (regulations as to section 38), in paragraph (d), for “locality” (in both places) substitute “ area ”.
 
-**29.**[^key-14c7284e320883200f93269d17ebb26e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-14c7284e320883200f93269d17ebb26e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.** In section 42 (regulations as to pharmaceutical services)—
 
@@ -226,7 +226,7 @@ Section 2(1).
 - (b) in subsection (1), for “a locality” substitute “ an area ”, and
 - (c) in subsection (2), for “locality” substitute “ area ”.
 
-**34.**[^key-377699d4629ffb450f1b9d47f4019253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-377699d4629ffb450f1b9d47f4019253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **35.** Section 51 (university clinical teaching and research) shall be renumbered as subsection (1) of that section and—
 
@@ -418,11 +418,11 @@ substitute “ a Health Authority or Special Health Authority ”.
   > - (c) every NHS trust;
 
   ,
-- (b)[^key-ffac9bb74b7478a722f9e18217cb8a5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ffac9bb74b7478a722f9e18217cb8a5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^c8307071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) omit subsection (5).
 
-**51.**[^key-3d40d820c72aacf05d56b6edf1226f8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-3d40d820c72aacf05d56b6edf1226f8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **52.** In section 103 (special arrangement as to payment of remuneration), in subsection (3), for “Family Health Services Authority which, under Part II of this Act, has” substitute “ Health Authority which, under Part II of this Act, have ”.
 
@@ -492,7 +492,7 @@ substitute “ a Health Authority or Special Health Authority ”.
 - (a) in paragraph 8, for the words from “Regional” to “Committee” substitute “ Health Authority and each Special Health Authority ”,
 - (b) in paragraph 9—
   - (i) in sub-paragraph (1), omit “or a Regional Health Authority”, and
-  - (ii)[^key-81c8520685067df2a69be9f234462e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-81c8520685067df2a69be9f234462e0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 10—
   - (i) in sub-paragraph (1)(b), after “employ” insert “ a chief officer and officers of such other descriptions as may be prescribed and to employ ”, and
   - (ii) in sub-paragraph (3), omit paragraphs (b) and (d),
@@ -515,7 +515,7 @@ substitute “ a Health Authority or Special Health Authority ”.
   - (iv) omit the second sentence, and
 - (e) in the heading, for “Local Advisory Committees” substitute “ Advisory Committees for Wales ”.
 
-**62.**[^key-eb54a83b08d47cc46ed497cdb4b75bf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-eb54a83b08d47cc46ed497cdb4b75bf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **63.**[^c8307121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -534,31 +534,31 @@ substitute “ a Health Authority or Special Health Authority ”.
 
 *Extent: E+W*
 
-**66.**[^key-26b628abd5b9ca980cbe44da0541c163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-26b628abd5b9ca980cbe44da0541c163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**67.**[^key-9db057217fa8acf480b8ce987b1241ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-9db057217fa8acf480b8ce987b1241ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**68.**[^key-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**69.**[^key-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**70.**[^key-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**71.**[^key-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-5ee25ffe3bb96e0b787921a82f0b4586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**72.**[^M_F_fbdd62e9-4083-41a5-8bea-7f28a24b3a3c][^key-35f8648538990554ac5d84fdc79544cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^M_F_fbdd62e9-4083-41a5-8bea-7f28a24b3a3c][^c-35f8648538990554ac5d84fdc79544cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -617,11 +617,11 @@ substitute “ a Health Authority or Special Health Authority ”.
 
 *Extent: E+W*
 
-**78.**[^key-e146abebc7d6610fd04abb45ab98ba2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**78.**[^c-e146abebc7d6610fd04abb45ab98ba2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**79.**[^key-0a6ee76600e1a8105f62fc5d281c8652] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**79.**[^c-0a6ee76600e1a8105f62fc5d281c8652] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -670,7 +670,7 @@ substitute “ a Health Authority or Special Health Authority ”.
 
 *Extent: E+W*
 
-**85.**[^key-d132513b14808fc859e01cb72f4e08c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-d132513b14808fc859e01cb72f4e08c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Amendments of other enactments[^c8307291]
 
@@ -732,7 +732,7 @@ and, in paragraph 16, for the entry in the second column substitute “ The Heal
 
 *Extent: E+W+S*
 
-**92.**[^key-21c349d190681c4ffb5d4df110976cb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-21c349d190681c4ffb5d4df110976cb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Parliamentary Commissioner Act 1967
 
@@ -795,7 +795,7 @@ and, in paragraph 16, for the entry in the second column substitute “ The Heal
 
 substitute “ Health Authority, Special Health Authority ”.
 
-(3)[^key-9f57cbd5bf640fd177e5af3d46bae601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9f57cbd5bf640fd177e5af3d46bae601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The National Health Service Reorganisation Act 1973
 
@@ -817,7 +817,7 @@ substitute “ Health Authority, Special Health Authority ”.
 
 *Extent: E+W*
 
-**101.**[^key-2d5661a068a2430069e62fa402ef46b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-2d5661a068a2430069e62fa402ef46b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The National Health Service (Scotland) Act 1978
 
@@ -884,14 +884,14 @@ substitute “ Health Authority, Special Health Authority ”.
 
 (2) In section 23 (discharge of patients)—
 
-- (a)[^key-1cc3dd7427ce3ec9c8f9f32040706d9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1cc3dd7427ce3ec9c8f9f32040706d9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (5)(a), for—
   - (i) “a District or Special Health Authority”, and
   - (ii) “such an authority”,
 
   substitute “ a Health Authority or Special Health Authority ”.
 
-(3)[^key-ebdba06cc18c323411442cfd36ad5a5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ebdba06cc18c323411442cfd36ad5a5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 32 (regulations), in subsection (3), for “Regional Health Authorities, District Health Authorities National Health Service trusts or special health authorities” substitute “ Health Authorities, Special Health Authorities or National Health Service trusts ”.
 
@@ -950,7 +950,7 @@ substitute “ Health Authority, Special Health Authority ”.
 - (b)[^c8307781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for “to the Authority” substitute “ to the Health Authority ”.
 
-(13)[^key-1dae1a179a1e251af735e1f8a4945cdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-1dae1a179a1e251af735e1f8a4945cdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In section 145 (interpretation), in subsection (1)—
 
@@ -1005,7 +1005,7 @@ substitute “ Health Authority, Special Health Authority ”.
 
 *Extent: E+W+S*
 
-**109.**[^key-c7fc7f77f073d6eb535a48e4b6931d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**109.**[^c-c7fc7f77f073d6eb535a48e4b6931d91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Health Service Joint Consultative Committees (Access to Information) Act 1986
 
@@ -1079,7 +1079,7 @@ substitute “ Health Authority, Special Health Authority ”.
 
 #### The Income and Corporation Taxes Act 1988
 
-**114.**[^key-6c5b744c8c56737e0882d3eebea2284b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**114.**[^c-6c5b744c8c56737e0882d3eebea2284b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Dartford-Thurrock Crossing Act 1988
 
@@ -1168,7 +1168,7 @@ for “health authority” substitute “ Health Authority, Special Health Autho
 
 (4) In section 11 (interpretation)—
 
-- (a)[^key-0782215f7d278fe9d0cf47f673e33815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0782215f7d278fe9d0cf47f673e33815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “health service body”, for paragraph (a) substitute—
 
   > - (a) a Health Authority or Special Health Authority;
@@ -1182,28 +1182,28 @@ for “health authority” substitute “ Health Authority, Special Health Autho
 
 *Extent: E+W*
 
-**120.** (1 (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] The *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] [^c8308011]Water Industry Act 1991 shall be amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+**120.** (1 (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] The *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] [^c8308011]Water Industry Act 1991 shall be amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] In section 87 (fluoridation of water supplies at request of health authorities)— *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+(2 (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] In section 87 (fluoridation of water supplies at request of health authorities)— *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in subsection (1), for “District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4], *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-- (b (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in subsection (3), for “district of the authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ area of the Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4], *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-- (c (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in subsection (5), for “District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4], and *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-- (d (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in subsection (9), for the words from “District” to the end substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority are references to any Health Authority established under section 8 of the National Health Service Act 1977. ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+- (a (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in subsection (1), for “District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4], *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+- (b (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in subsection (3), for “district of the authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ area of the Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4], *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+- (c (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in subsection (5), for “District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4], and *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+- (d (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in subsection (9), for the words from “District” to the end substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority are references to any Health Authority established under section 8 of the National Health Service Act 1977. ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] In section 89 (publicity and consultation)— *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+(3 (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] In section 89 (publicity and consultation)— *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] for “District Health Authority” (in each place), and *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-- (b (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in subsection (7), for “authority”, *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+- (a (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] for “District Health Authority” (in each place), and *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+- (b (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in subsection (7), for “authority”, *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]. *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]. *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-(4 (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] In Schedule 7 (pre-1985 fluoridation schemes)— *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+(4 (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] In Schedule 7 (pre-1985 fluoridation schemes)— *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in paragraph 2(2), for “Regional or District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4], and *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-- (b (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] in paragraph 3(1)— *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-  - (i (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] for “District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4], and *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-33e3223c2501fe93217cdc6c57464bd4] for “such an authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4] “ a Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]. *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe93217cdc6c57464bd4]
+- (a (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in paragraph 2(2), for “Regional or District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4], and *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+- (b (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] in paragraph 3(1)— *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+  - (i (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] for “District Health Authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4], and *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-33e3223c2501fe93217cdc6c57464bd4] for “such an authority” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4] “ a Health Authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]. *(Extent: E)* *(affected by repeal, see note)*[^c-33e3223c2501fe93217cdc6c57464bd4]
 
 #### The Health and Personal Social Services (Northern Ireland) Order 1991
 
@@ -1272,9 +1272,9 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
   > - (a) Health Authorities whose areas are in England,
 
   , and omit paragraph (e), and
-- (b)[^key-993ebb41866996bf50fa74d37837cee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-993ebb41866996bf50fa74d37837cee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-92f96884e1aef0f77c6e847210a0d65e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-92f96884e1aef0f77c6e847210a0d65e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 14 (reports by Commissioners), in subsection (1)—
 
@@ -1293,11 +1293,11 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8306741]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-90b0361d649c9c88b59a6006c50bcf13]: Textual amendment: [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/3/a) repealed (1.3.2007) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-90b0361d649c9c88b59a6006c50bcf13]: Textual amendment: [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/3/a) repealed (1.3.2007) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c8306761]: Textual amendment: Sch. 1 para. 4 repealed (1.4.2000) (E.W.) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65(2)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2000/1041/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2000/1041/schedule)
 
-[^key-c896840fbbfa49fbfe8a707cab1c8754]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/4) repealed (1.3.2007) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-c896840fbbfa49fbfe8a707cab1c8754]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/4) repealed (1.3.2007) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c8306801]: Textual amendment: Sch. 1 para. 6(c) repealed (1.4.1998) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [s. 41(12)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/12), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1997/46/schedule/3/part/I); [S.I. 1998/631](https://www.legislation.gov.uk/uksi/1998/631), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/631/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/631/schedule/1) and expressed to be repealed (E.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2000/1041/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2000/1041/schedule)
 
@@ -1307,15 +1307,15 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8306831]: Marginal citation: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-b27973f5a4fff18e786f0597f5c2c275]: Textual amendment: Sch. 1 para. 11 repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)(2)
+[^c-b27973f5a4fff18e786f0597f5c2c275]: Textual amendment: Sch. 1 para. 11 repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)(2)
 
-[^key-e478ac46a31effde6893e8befccdc45f]: Textual amendment: Sch. 1 paras. 18-26 repealed (1.4.2004 for the repeal of Sch. 1 paras. 18-23 except for W., 1.4.2004 for the repeal of Sch. 1 paras. 18-23 for W., 1.4.2006 for E. so far as not already in force, 1.4.2006 for W. for the repeal of Sch. 1 paras. 24, 25 for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), s. 199(1)(4), Sch. 14 Pt. 4; [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), art. 6(2)(m) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), art. 5(2)(m) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345)); S.I. 2005/2925, art. 11; S.I. 2006/345, art. 7(2)(h)
+[^c-e478ac46a31effde6893e8befccdc45f]: Textual amendment: Sch. 1 paras. 18-26 repealed (1.4.2004 for the repeal of Sch. 1 paras. 18-23 except for W., 1.4.2004 for the repeal of Sch. 1 paras. 18-23 for W., 1.4.2006 for E. so far as not already in force, 1.4.2006 for W. for the repeal of Sch. 1 paras. 24, 25 for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), s. 199(1)(4), Sch. 14 Pt. 4; [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), art. 6(2)(m) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), art. 5(2)(m) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345)); S.I. 2005/2925, art. 11; S.I. 2006/345, art. 7(2)(h)
 
-[^key-14c7284e320883200f93269d17ebb26e]: Textual amendment: Sch. 1 para. 29 repealed (1.7.2002 for W., 1.4.2006 for E.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), ss. 67, [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), Sch. 6 Pts. 1, 2 (with ss. 64(9), 65(4)); [S.I. 2002/1475](https://www.legislation.gov.uk/uksi/2002/1475), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1475/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1475/schedule/part/1); [S.I. 2006/481](https://www.legislation.gov.uk/uksi/2006/481), [art. 3](https://www.legislation.gov.uk/uksi/2006/481/article/3)
+[^c-14c7284e320883200f93269d17ebb26e]: Textual amendment: Sch. 1 para. 29 repealed (1.7.2002 for W., 1.4.2006 for E.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), ss. 67, [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), Sch. 6 Pts. 1, 2 (with ss. 64(9), 65(4)); [S.I. 2002/1475](https://www.legislation.gov.uk/uksi/2002/1475), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1475/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1475/schedule/part/1); [S.I. 2006/481](https://www.legislation.gov.uk/uksi/2006/481), [art. 3](https://www.legislation.gov.uk/uksi/2006/481/article/3)
 
 [^c8306931]: Textual amendment: Sch. 1 para. 32(b) repealed (1.10.2002 for E. and 10.10.2002 for W.) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 37](https://www.legislation.gov.uk/ukpga/2002/17/section/37), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2002/17/schedule/8/paragraph/22), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/17/schedule/9/part/3); [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)(e)(ii)(f)(iv)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1/e/ii/f/iv); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule)
 
-[^key-377699d4629ffb450f1b9d47f4019253]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/34) repealed (1.3.2007) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-377699d4629ffb450f1b9d47f4019253]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/34) repealed (1.3.2007) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c8306971]: Marginal citation: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
@@ -1323,11 +1323,11 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307011]: Marginal citation: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-ffac9bb74b7478a722f9e18217cb8a5b]: Textual amendment: Sch. 1 para. 50(b) repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)(2)
+[^c-ffac9bb74b7478a722f9e18217cb8a5b]: Textual amendment: Sch. 1 para. 50(b) repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)(2)
 
 [^c8307071]: Textual amendment: Sch. 1 para. 50(c) repealed (E.) (1.10.1999) (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2000/1041/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2000/1041/schedule)
 
-[^key-3d40d820c72aacf05d56b6edf1226f8e]: Textual amendment: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/51) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-3d40d820c72aacf05d56b6edf1226f8e]: Textual amendment: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/51) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c8307081]: Textual amendment: Sch. 1 para. 53 repealed (1.10.2002 for E. and 10.10.2002 for W.) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 37](https://www.legislation.gov.uk/ukpga/2002/17/section/37), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2002/17/schedule/8/paragraph/22), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/17/schedule/9/part/3); [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/2/c/ii) (subject to [arts. 3(3)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/3), [4](https://www.legislation.gov.uk/uksi/2002/2478/article/4)); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule)
 
@@ -1335,23 +1335,23 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307111]: Textual amendment: Sch. 1 para. 58(b) repealed (E.) (1.10.1999) (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2000/1041/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2000/1041/schedule)
 
-[^key-81c8520685067df2a69be9f234462e0f]: Textual amendment: [Sch. 1 para. 60(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/60/b/ii) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-81c8520685067df2a69be9f234462e0f]: Textual amendment: [Sch. 1 para. 60(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/60/b/ii) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
-[^key-eb54a83b08d47cc46ed497cdb4b75bf8]: Textual amendment: Sch. 1 para. 62 repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)(2)
+[^c-eb54a83b08d47cc46ed497cdb4b75bf8]: Textual amendment: Sch. 1 para. 62 repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)(2)
 
 [^c8307121]: Textual amendment: Sch. 1 para. 63 repealed (21.12.1995) by [1995 c. 31](https://www.legislation.gov.uk/ukpga/1995/31), [s. 14(2)](https://www.legislation.gov.uk/ukpga/1995/31/section/14/2), [Sch.](https://www.legislation.gov.uk/ukpga/1995/31/schedule); [S.I. 1995/3090](https://www.legislation.gov.uk/uksi/1995/3090), [art. 2](https://www.legislation.gov.uk/uksi/1995/3090/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/3090/schedule)
 
 [^c8307131]: Marginal citation: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-26b628abd5b9ca980cbe44da0541c163]: Textual amendment: Sch. 1 para. 66 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-26b628abd5b9ca980cbe44da0541c163]: Textual amendment: Sch. 1 para. 66 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-9db057217fa8acf480b8ce987b1241ac]: Textual amendment: [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/67) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-9db057217fa8acf480b8ce987b1241ac]: Textual amendment: [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/67) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
-[^key-5ee25ffe3bb96e0b787921a82f0b4586]: Textual amendment: Sch. 1 paras. 68-72 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-5ee25ffe3bb96e0b787921a82f0b4586]: Textual amendment: Sch. 1 paras. 68-72 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^M_F_fbdd62e9-4083-41a5-8bea-7f28a24b3a3c]: Textual amendment: Sch. 1 paras. 68-72 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-35f8648538990554ac5d84fdc79544cc]: Textual amendment: Sch. 1 para. 72 repealed (1.3.2007) (E.W.) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-35f8648538990554ac5d84fdc79544cc]: Textual amendment: Sch. 1 para. 72 repealed (1.3.2007) (E.W.) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c8307171]: Textual amendment: Sch. 1 para. 73 repealed (E.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2000/1041/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2000/1041/schedule)
 
@@ -1361,9 +1361,9 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307221]: Textual amendment: Sch. 1 para. 76 repealed (E.) (1.10.1999) and (W.) (1.4.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); [S.I. 2000/1041](https://www.legislation.gov.uk/uksi/2000/1041), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2000/1041/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2000/1041/schedule)
 
-[^key-e146abebc7d6610fd04abb45ab98ba2e]: Textual amendment: Sch. 1 para. 78 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-e146abebc7d6610fd04abb45ab98ba2e]: Textual amendment: Sch. 1 para. 78 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-0a6ee76600e1a8105f62fc5d281c8652]: Textual amendment: Sch. 1 para. 79 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-0a6ee76600e1a8105f62fc5d281c8652]: Textual amendment: Sch. 1 para. 79 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8307241]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -1371,7 +1371,7 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307261]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-d132513b14808fc859e01cb72f4e08c1]: Textual amendment: Sch. 1 para. 85 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-d132513b14808fc859e01cb72f4e08c1]: Textual amendment: Sch. 1 para. 85 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8307291]: Extent: Part III does not extend to the Colonies.
 
@@ -1397,7 +1397,7 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307401]: Marginal citation: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664).
 
-[^key-21c349d190681c4ffb5d4df110976cb2]: Textual amendment: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/92) repealed (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1) (with [s. 58](https://www.legislation.gov.uk/ukpga/2004/30/section/58)); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-21c349d190681c4ffb5d4df110976cb2]: Textual amendment: [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/92) repealed (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1) (with [s. 58](https://www.legislation.gov.uk/ukpga/2004/30/section/58)); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
 [^c8307421]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
@@ -1413,7 +1413,7 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307501]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-9f57cbd5bf640fd177e5af3d46bae601]: Textual amendment: [Sch. 1 para. 97(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/97/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 1
+[^c-9f57cbd5bf640fd177e5af3d46bae601]: Textual amendment: [Sch. 1 para. 97(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/97/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 1
 
 [^c8307521]: Marginal citation: [1973 c. 32](https://www.legislation.gov.uk/ukpga/1973/32).
 
@@ -1423,7 +1423,7 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307551]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-2d5661a068a2430069e62fa402ef46b3]: Textual amendment: [Sch. 1 para. 101](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/101) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-2d5661a068a2430069e62fa402ef46b3]: Textual amendment: [Sch. 1 para. 101](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/101) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c8307591]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -1445,15 +1445,15 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307761]: Marginal citation: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-1cc3dd7427ce3ec9c8f9f32040706d9a]: Textual amendment: [Sch. 1 para. 107(2)(a)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/107/2/a) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/b), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-1cc3dd7427ce3ec9c8f9f32040706d9a]: Textual amendment: [Sch. 1 para. 107(2)(a)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/107/2/a) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/b), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-ebdba06cc18c323411442cfd36ad5a5b]: Textual amendment: [Sch. 1 para. 107(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/107/3) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/b), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-ebdba06cc18c323411442cfd36ad5a5b]: Textual amendment: [Sch. 1 para. 107(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/107/3) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/b), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
 [^c8307771]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 
 [^c8307781]: Textual amendment: Sch. 1 para. 107(12)(b) repealed (1.10.2002 for E. and 10.10.2002 for W.) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 37](https://www.legislation.gov.uk/ukpga/2002/17/section/37), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2002/17/schedule/8/paragraph/22), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/17/schedule/9/part/3); [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)(e)(ii)(f)(iv)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1/e/ii/f/iv) (subject (E.) to arts. 3(3), 4); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule)
 
-[^key-1dae1a179a1e251af735e1f8a4945cdc]: Textual amendment: Sch. 1 para. 107(13) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/6); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(p)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/p) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
+[^c-1dae1a179a1e251af735e1f8a4945cdc]: Textual amendment: Sch. 1 para. 107(13) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/6); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(p)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/p) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
 [^c8307791]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -1463,7 +1463,7 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307831]: Textual amendment: [Sch. 1 para. 108(8)(b)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/108/8/b) and the word preceding it repealed (1.10.2002) by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/2469/regulation/19/1), [Sch. 13](https://www.legislation.gov.uk/uksi/2002/2469/schedule/13)
 
-[^key-c7fc7f77f073d6eb535a48e4b6931d91]: Textual amendment: [Sch. 1 para. 109](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/109) repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
+[^c-c7fc7f77f073d6eb535a48e4b6931d91]: Textual amendment: [Sch. 1 para. 109](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/109) repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
 
 [^c8307851]: Marginal citation: [1986 c.24](https://www.legislation.gov.uk/ukpga/1986/24).
 
@@ -1477,7 +1477,7 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8307921]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-6c5b744c8c56737e0882d3eebea2284b]: Textual amendment: [Sch. 1 para. 114](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/114) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6c5b744c8c56737e0882d3eebea2284b]: Textual amendment: [Sch. 1 para. 114](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/114) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c8307941]: Marginal citation: [1988 c.20](https://www.legislation.gov.uk/ukpga/1988/20).
 
@@ -1493,9 +1493,9 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8308001]: Marginal citation: [1990 c.23](https://www.legislation.gov.uk/ukpga/1990/23).
 
-[^key-0782215f7d278fe9d0cf47f673e33815]: Textual amendment: Sch. 1 para. 119(4)(a) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-0782215f7d278fe9d0cf47f673e33815]: Textual amendment: Sch. 1 para. 119(4)(a) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-33e3223c2501fe93217cdc6c57464bd4]: Textual amendment: [Sch. 1 para. 120](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/120) repealed (1.8.2008 for E.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/41), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/e/f)
+[^c-33e3223c2501fe93217cdc6c57464bd4]: Textual amendment: [Sch. 1 para. 120](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/120) repealed (1.8.2008 for E.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/41), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/e/f)
 
 [^c8308011]: Marginal citation: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
@@ -1517,8 +1517,8 @@ substitute *(Extent: E)* *(affected by repeal, see note)*[^key-33e3223c2501fe932
 
 [^c8308121]: Marginal citation: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).
 
-[^key-993ebb41866996bf50fa74d37837cee3]: Textual amendment: [Sch. 1 para. 126(2)(b)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/126/2/b) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
+[^c-993ebb41866996bf50fa74d37837cee3]: Textual amendment: [Sch. 1 para. 126(2)(b)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/126/2/b) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
 
-[^key-92f96884e1aef0f77c6e847210a0d65e]: Textual amendment: [Sch. 1 para. 126(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/126/3) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
+[^c-92f96884e1aef0f77c6e847210a0d65e]: Textual amendment: [Sch. 1 para. 126(3)](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1/paragraph/126/3) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
 
 [^c8308141]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Financial penalties relating to category 1 hazards or type 1 requirements[^key-21f6ea4a69890a415eb5392d3c9eeefd]
+## 6A. Financial penalties relating to category 1 hazards or type 1 requirements[^c-21f6ea4a69890a415eb5392d3c9eeefd]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21f6ea4a69890a415eb5392d3c9eeefd]: Textual amendment: S. 6A inserted (22.6.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/6) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/iv)
+[^c-21f6ea4a69890a415eb5392d3c9eeefd]: Textual amendment: S. 6A inserted (22.6.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/6) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/iv)

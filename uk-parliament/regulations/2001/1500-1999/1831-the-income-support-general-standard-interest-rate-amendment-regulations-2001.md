@@ -39,21 +39,21 @@ Coming into force
 
 17th June 2001
 
-[^key-aa7c3c38f2944b10e6736ba04e8fa8f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa7c3c38f2944b10e6736ba04e8fa8f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-aa7c3c38f2944b10e6736ba04e8fa8f2][^key-aa7c3c38f2944b10e6736ba04e8fa8f2]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of Schedule 3 to the Income Support Regulations[^key-aa7c3c38f2944b10e6736ba04e8fa8f2][^key-aa7c3c38f2944b10e6736ba04e8fa8f2]
+## 1. Citation, commencement and interpretation[^c-aa7c3c38f2944b10e6736ba04e8fa8f2][^c-aa7c3c38f2944b10e6736ba04e8fa8f2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Income Support (General) (Standard Interest Rate Amendment) (NumberNo. 2) Regulations 2000[^key-aa7c3c38f2944b10e6736ba04e8fa8f2][^key-aa7c3c38f2944b10e6736ba04e8fa8f2]
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-aa7c3c38f2944b10e6736ba04e8fa8f2][^c-aa7c3c38f2944b10e6736ba04e8fa8f2]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocation of the Income Support (General) (Standard Interest Rate Amendment) (NumberNo. 2) Regulations 2000[^c-aa7c3c38f2944b10e6736ba04e8fa8f2][^c-aa7c3c38f2944b10e6736ba04e8fa8f2]
 
 **No longer in force.**
 
@@ -61,10 +61,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-aa7c3c38f2944b10e6736ba04e8fa8f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa7c3c38f2944b10e6736ba04e8fa8f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa7c3c38f2944b10e6736ba04e8fa8f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa7c3c38f2944b10e6736ba04e8fa8f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa7c3c38f2944b10e6736ba04e8fa8f2]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/1831) revoked (19.8.2001) by [The Income Support (General) (Standard Interest Rate Amendment) (No. 2) Regulations 2001 (S.I. 2001/2676)](https://www.legislation.gov.uk/uksi/2001/2676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2001/2676/regulation/3)
+[^c-aa7c3c38f2944b10e6736ba04e8fa8f2]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/1831) revoked (19.8.2001) by [The Income Support (General) (Standard Interest Rate Amendment) (No. 2) Regulations 2001 (S.I. 2001/2676)](https://www.legislation.gov.uk/uksi/2001/2676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2001/2676/regulation/3)

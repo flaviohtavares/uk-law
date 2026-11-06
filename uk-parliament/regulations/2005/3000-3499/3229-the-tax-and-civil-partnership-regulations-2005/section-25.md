@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25.[^key-b3579652d3b41c744d0a9fb371056de6]
+## 25.[^c-b3579652d3b41c744d0a9fb371056de6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 131 (transfers within 7 years before death: the relief), in subsectio
 
 ## Annotations
 
-[^key-b3579652d3b41c744d0a9fb371056de6]: Commencement: Reg. 25 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b3579652d3b41c744d0a9fb371056de6]: Commencement: Reg. 25 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

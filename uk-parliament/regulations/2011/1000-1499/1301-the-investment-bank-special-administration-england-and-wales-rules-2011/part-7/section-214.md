@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 214. Application to replace (special administration (bank administration))[^key-b881a1d5f721b7303477bfec05b3e975]
+## 214. Application to replace (special administration (bank administration))[^c-b881a1d5f721b7303477bfec05b3e975]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b881a1d5f721b7303477bfec05b3e975]: Commencement: [Rule 214](https://www.legislation.gov.uk/uksi/2011/1301/rule/214) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b881a1d5f721b7303477bfec05b3e975]: Commencement: [Rule 214](https://www.legislation.gov.uk/uksi/2011/1301/rule/214) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

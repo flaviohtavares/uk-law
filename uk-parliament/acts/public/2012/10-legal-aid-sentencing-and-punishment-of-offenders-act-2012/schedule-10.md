@@ -216,7 +216,7 @@ Section 89
 (2) In paragraph 8(2) (powers of court on breach of community requirement or conviction of further offence)—
 
 - (a) in paragraph (a), omit “and custodial period”;
-- (b)[^key-99dc1f6970dc2ad72b4e3543bfcce8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-99dc1f6970dc2ad72b4e3543bfcce8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 9(1) (further provision as to order that suspended sentence is to take effect)—
 
@@ -264,4 +264,4 @@ Section 89
 
 ## Annotations
 
-[^key-99dc1f6970dc2ad72b4e3543bfcce8f0]: Textual amendment: [Sch. 10 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/38/2/b) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-99dc1f6970dc2ad72b4e3543bfcce8f0]: Textual amendment: [Sch. 10 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/38/2/b) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

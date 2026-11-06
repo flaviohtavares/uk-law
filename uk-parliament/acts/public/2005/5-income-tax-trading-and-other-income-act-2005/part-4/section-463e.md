@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 463E. Transitional protection for policies issued in respect of insurances made on or after 21 March 2012 but before 6 April 2013[^key-38ca6680a424da88f9101613b72ea2d3]
+## 463E. Transitional protection for policies issued in respect of insurances made on or after 21 March 2012 but before 6 April 2013[^c-38ca6680a424da88f9101613b72ea2d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ TP is the total amount of premiums payable under policy Z before the chargeable 
 
 ## Annotations
 
-[^key-38ca6680a424da88f9101613b72ea2d3]: Textual amendment: Ss. 463A-463E inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/8)
+[^c-38ca6680a424da88f9101613b72ea2d3]: Textual amendment: Ss. 463A-463E inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/8)

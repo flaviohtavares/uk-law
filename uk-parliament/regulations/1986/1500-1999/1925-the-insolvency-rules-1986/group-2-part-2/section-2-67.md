@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**2.67.**[^key-9b163bdc17dd325ce14f773f34a0e6e4][^key-3cd429780944af0d9d340d0898769129] (1) The expenses of the administration are payable in the following order of priority—
+**2.67.**[^c-9b163bdc17dd325ce14f773f34a0e6e4][^c-3cd429780944af0d9d340d0898769129] (1) The expenses of the administration are payable in the following order of priority—
 
 - (a) expenses properly incurred by the administrator in performing his functions in the administration of the company;
 - (b) the cost of any security provided by the administrator in accordance with the Act or the Rules;
@@ -34,12 +34,12 @@ summary: ''
 
 (3) The court may, in the event of the assets being insufficient to satisfy the liabilities, make an order as to the payment out of the assets of the expenses incurred in the administration in such order of priority as the court thinks just.
 
-(4)[^key-fd20780672ef5a28037889a5677e6737] For the purposes of paragraph 99(3), the former administrator’s remuneration and expenses shall comprise all those items set out in paragraph (1) of this Rule.
+(4)[^c-fd20780672ef5a28037889a5677e6737] For the purposes of paragraph 99(3), the former administrator’s remuneration and expenses shall comprise all those items set out in paragraph (1) of this Rule.
 
 ## Annotations
 
-[^key-9b163bdc17dd325ce14f773f34a0e6e4]: Modification: Rule 2.67 modified (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/7/2)
+[^c-9b163bdc17dd325ce14f773f34a0e6e4]: Modification: Rule 2.67 modified (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/7/2)
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
-[^key-fd20780672ef5a28037889a5677e6737]: Textual amendment: Rule 2.67(4) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [8](https://www.legislation.gov.uk/uksi/2005/527/rule/8) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-fd20780672ef5a28037889a5677e6737]: Textual amendment: Rule 2.67(4) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [8](https://www.legislation.gov.uk/uksi/2005/527/rule/8) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

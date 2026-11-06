@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C4. Contributions for past added years by family pensioner[^key-ec278105e9345ab2126e3fb313a76836]
+## C4. Contributions for past added years by family pensioner[^c-ec278105e9345ab2126e3fb313a76836]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec278105e9345ab2126e3fb313a76836]: Commencement: Reg. C4 in operation at 2.11.1998, see reg. A1
+[^c-ec278105e9345ab2126e3fb313a76836]: Commencement: Reg. C4 in operation at 2.11.1998, see reg. A1

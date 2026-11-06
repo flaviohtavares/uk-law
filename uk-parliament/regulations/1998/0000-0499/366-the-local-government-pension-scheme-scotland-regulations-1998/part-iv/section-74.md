@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Admission agreement funds[^key-8f7ce3e7da0ae7cec0cf93ca2f345fba]
+## 74. Admission agreement funds[^c-8f7ce3e7da0ae7cec0cf93ca2f345fba]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f7ce3e7da0ae7cec0cf93ca2f345fba]: Commencement: Reg. 74 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-8f7ce3e7da0ae7cec0cf93ca2f345fba]: Commencement: Reg. 74 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -31,10 +31,10 @@ Regulation (EC) No 2558/2001 of the European Parliament and of the Council
 
 of 3 December 2001 amending Council Regulation (EC) No 2223/96 as regards the reclassification of settlements under swaps arrangements and under forward rate agreements (Text with EEA relevance) (revoked)
 
-[^key-c6d741194732830e1ba21a037d92376b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6d741194732830e1ba21a037d92376b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c6d741194732830e1ba21a037d92376b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c6d741194732830e1ba21a037d92376b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6d741194732830e1ba21a037d92376b]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/34)
+[^c-c6d741194732830e1ba21a037d92376b]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/34)

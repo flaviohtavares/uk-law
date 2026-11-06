@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Repeal of power to confiscate tobacco products from persons under 18[^key-ceb9f6c9beca1cf628c73846acedcd9e]
+## 55. Repeal of power to confiscate tobacco products from persons under 18[^c-ceb9f6c9beca1cf628c73846acedcd9e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Omit section 7 of the Tobacco and Primary Medical Services (Scotland) Act [2010 
 
 ## Annotations
 
-[^key-ceb9f6c9beca1cf628c73846acedcd9e]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2026/18/section/55) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-ceb9f6c9beca1cf628c73846acedcd9e]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2026/18/section/55) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

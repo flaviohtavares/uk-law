@@ -94,7 +94,7 @@ and the amount of that relevant interest, for the purposes of the calculation in
 
 (5) Those amounts are to be expressed as percentages, but there is no need to adjust any of those amounts if the application of the rules in those paragraphs has the result that the total amount of relevant interests in a company or an enhanced class of a company is more than 100% (as may sometimes be the case).
 
-(5A)[^key-da17171574e7f1332b7805d7553c96c1] See also paragraph 59, which makes provision for parties to alternative finance arrangements who are equivalent to equity holders to be treated as such.
+(5A)[^c-da17171574e7f1332b7805d7553c96c1] See also paragraph 59, which makes provision for parties to alternative finance arrangements who are equivalent to equity holders to be treated as such.
 
 (6) In this paragraph—
 
@@ -115,7 +115,7 @@ and the amount of that relevant interest, for the purposes of the calculation in
 
 (2) But where T has an interest falling within sub-paragraph (1)(b) partly as a result of an entitlement through C, in determining the amount of that interest for the purposes of paragraph 3(2) or (3), ignore any amount attributable to the entitlement through C.
 
-(2A)[^key-a7d4260d93113ba335cda08177ca3612] For the purposes of sub-paragraph (1)(b)(i), a beneficial entitlement of T or C held solely through one or more QAHCs is to be treated as held by that person directly.
+(2A)[^c-a7d4260d93113ba335cda08177ca3612] For the purposes of sub-paragraph (1)(b)(i), a beneficial entitlement of T or C held solely through one or more QAHCs is to be treated as held by that person directly.
 
 (3) For the purposes of sub-paragraph (1)(b)(ii), where—
 
@@ -150,7 +150,7 @@ that entitlement is to be treated as an entitlement of T.
   - (ii) where determining relevant interests in an enhanced class of the relevant company, such of those liabilities as are also attributable (on a just and reasonable basis) to that class,
 - (g) subsection (4) of section 165 were omitted,
 - (h) in section 169(1) for “182” there were substituted “178”,
-- (ha)[^key-ed529e11de5e9591dc7dcadc2691b31b] in sections 170(3) and 172(3) (shares or securities with limited or temporary rights), for “less than” there were substituted “more than”,
+- (ha)[^c-ed529e11de5e9591dc7dcadc2691b31b] in sections 170(3) and 172(3) (shares or securities with limited or temporary rights), for “less than” there were substituted “more than”,
 - (hb) in section 174 (option arrangements)—
   - (i) in subsection (1), in Step 4, for “lowest proportion” there were substituted “highest proportion”, and
   - (ii) in subsection (2), for “less than” there were substituted “more than”,
@@ -242,26 +242,26 @@ those profits or gains are to be ignored in making any determination of any pers
 (2) The diversity of ownership condition is met if—
 
 - (a) the fund is a collective investment scheme , or is an AIF that is not a collective investment scheme only by reason of it being a body corporate,[^M_F_4e5c5af7-d015-4d07-8f2a-d1d9d1f888dd] and—
-  - (i) the fund meets or, if the fund is part of multi-vehicle arrangements, the arrangements meet[^key-c9487f95b89fe2f372a898b7c65913fd] the conditions in regulation 75(2), (3) and (4)(a) of the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) (genuine diversity of ownership condition), or
-  - (ii) the fund or those multi-vehicle arrangements[^key-55d2691fd50deacf3fdf1d5679db724f] would meet the condition in regulation 75(5) of those regulations, if regulation 75(4)(b) were omitted,
+  - (i) the fund meets or, if the fund is part of multi-vehicle arrangements, the arrangements meet[^c-c9487f95b89fe2f372a898b7c65913fd] the conditions in regulation 75(2), (3) and (4)(a) of the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) (genuine diversity of ownership condition), or
+  - (ii) the fund or those multi-vehicle arrangements[^c-55d2691fd50deacf3fdf1d5679db724f] would meet the condition in regulation 75(5) of those regulations, if regulation 75(4)(b) were omitted,
 - (b) the fund is not close (whether or not it is a collective investment scheme), or
 - (c) the fund is 70% controlled by category A investors.
 
 (3) For the purpose of applying the conditions referred to in sub-paragraph (2)(a)(i) and (ii)—
 
-- (za)[^key-f9967908c25075e41f7c63300a9c469a] the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) have effect as if references to a fund included—
+- (za)[^c-f9967908c25075e41f7c63300a9c469a] the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) have effect as if references to a fund included—
   - (i) multi-vehicle arrangements,
   - (ii) a collective investment scheme which is not an offshore fund, and
   - (iii) an AIF that is not a collective investment scheme only by reason of it being a body corporate (and which is not an offshore fund);
-- (a) the condition in regulation 75(2) of those Regulations[^key-9127ced6ad111219ff077f111b3de4b7] is to be treated as met in relation to a fund or multi-vehicle arrangements[^key-47dc5660969e323db3e263018788dec1] marketed before 1 April 2022 if the fund or multi-vehicle arrangements[^key-b722d761ae47880783d7fef2e72a62df] has produced, and made available to HMRC, a statement prepared by the manager of the fund or multi-vehicle arrangements which—
-  - (i) specifies the intended categories of investor when the fund or multi-vehicle arrangements[^key-891d784bffc28cc119b3f58c47343f5e] was marketed,
-  - (ii) confirms that, and describes how, the interests in the fund or multi-vehicle arrangements[^key-c2b3fc0bb7df2cbeff0d1d907cae6973] were made widely available, and
-  - (iii) confirms that, and describes how, interests in the fund or multi-vehicle arrangements[^key-7f82e16d3ad6f975c6c0564ac3cd6a3a] were marketed and made available in accordance with the requirements of regulation 75(4)(a) of those regulations (and that provision is to be read accordingly);
-- (b) the fact that (for any reason) the capacity of a fund or multi-vehicle arrangements[^key-de3ea7a592c1fee8b80aef17175f8db0] to receive investments is limited does not prevent regulation 75(3) of those regulations (including as it applies for the purposes of regulation 75(5) of those regulations) from being met.
+- (a) the condition in regulation 75(2) of those Regulations[^c-9127ced6ad111219ff077f111b3de4b7] is to be treated as met in relation to a fund or multi-vehicle arrangements[^c-47dc5660969e323db3e263018788dec1] marketed before 1 April 2022 if the fund or multi-vehicle arrangements[^c-b722d761ae47880783d7fef2e72a62df] has produced, and made available to HMRC, a statement prepared by the manager of the fund or multi-vehicle arrangements which—
+  - (i) specifies the intended categories of investor when the fund or multi-vehicle arrangements[^c-891d784bffc28cc119b3f58c47343f5e] was marketed,
+  - (ii) confirms that, and describes how, the interests in the fund or multi-vehicle arrangements[^c-c2b3fc0bb7df2cbeff0d1d907cae6973] were made widely available, and
+  - (iii) confirms that, and describes how, interests in the fund or multi-vehicle arrangements[^c-7f82e16d3ad6f975c6c0564ac3cd6a3a] were marketed and made available in accordance with the requirements of regulation 75(4)(a) of those regulations (and that provision is to be read accordingly);
+- (b) the fact that (for any reason) the capacity of a fund or multi-vehicle arrangements[^c-de3ea7a592c1fee8b80aef17175f8db0] to receive investments is limited does not prevent regulation 75(3) of those regulations (including as it applies for the purposes of regulation 75(5) of those regulations) from being met.
 
 (4) Sub-paragraph (3)(b) does not apply if—
 
-- (a) the limited capacity of the fund or multi-vehicle arrangements[^key-26fb582f4ceed8642e29bbe8c6216c42] to receive investments is fixed by the documents of the fund or multi-vehicle arrangements (or otherwise), and
+- (a) the limited capacity of the fund or multi-vehicle arrangements[^c-26fb582f4ceed8642e29bbe8c6216c42] to receive investments is fixed by the documents of the fund or multi-vehicle arrangements (or otherwise), and
 - (b) a pre-determined number of specific persons, or specific groups of connected persons (within the meaning of section 1122 of CTA 2010 (“connected” persons)), make investments in the fund or multi-vehicle arrangements that collectively exhausts all, or substantially all, of that capacity.
 
 (5) To determine if a fund is close—
@@ -299,7 +299,7 @@ those profits or gains are to be ignored in making any determination of any pers
 - “**manager**”, in relation to a fund, means—
   - (a) any person who is the manager of the property that is the subject of or held by the fund, or
   - (b) any other person who has, or is expected to have, day-to-day control of that property;
-- “[^key-ff5783af1f41bc7716c4dbeed601bf84]**multi-vehicle arrangements**” means arrangements comprising two or more funds under which an investor in one of those funds would reasonably regard that investment as an investment in the arrangements as a whole rather than exclusively in any particular fund.
+- “[^c-ff5783af1f41bc7716c4dbeed601bf84]**multi-vehicle arrangements**” means arrangements comprising two or more funds under which an investor in one of those funds would reasonably regard that investment as an investment in the arrangements as a whole rather than exclusively in any particular fund.
 
 #### 10. Relevant qualifying investors
 
@@ -358,7 +358,7 @@ A QAHC must take reasonable steps to monitor whether the ownership condition is 
 - (a) the acquisition of equity securities that are listed or traded on a recognised stock exchange or any other public market or exchange otherwise than for the purpose of facilitating a change in control of the issuer of those securities with the result that its securities are no longer so listed or traded, or
 - (b) other interests that derive their value from such securities.
 
-(3)[^key-219ea3cd749c50c0f6617f308f725d3e] A company (“**C**”) may make an election under this sub-paragraph that all relevant equity securities held by C are to be treated as if they were not equity securities listed or traded on a recognised stock exchange or any other public market or exchange for the purposes of—
+(3)[^c-219ea3cd749c50c0f6617f308f725d3e] A company (“**C**”) may make an election under this sub-paragraph that all relevant equity securities held by C are to be treated as if they were not equity securities listed or traded on a recognised stock exchange or any other public market or exchange for the purposes of—
 
 - (a) the investment strategy condition as it applies to C, and
 - (b) that condition as it applies to any other company with a relevant interest in C.
@@ -829,7 +829,7 @@ any gain accruing to G on the disposal to Q is not a chargeable gain.
 
 C is, for the purposes of paragraph 7 of Schedule 7AC to TCGA 1992, to be deemed to have held the shares for that entire period.
 
-#### 35. ...[^key-4a1e31d02ca9b1e5e437e6e449dd0ac3][^key-4a1e31d02ca9b1e5e437e6e449dd0ac3]
+#### 35. ...[^c-4a1e31d02ca9b1e5e437e6e449dd0ac3][^c-4a1e31d02ca9b1e5e437e6e449dd0ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -997,11 +997,11 @@ the participation condition in section 148 of that Act is treated as met.
 - “**qualified distribution**” means a relevant distribution (see paragraph 44) that is not treated as a distribution for the purposes of the Corporation Tax Acts as a result of paragraph 44;
 - “**payment**”, “**ordinary income**” and “**under taxed**” have the meanings they have in Part 6A of TIOPA 2010 (see sections 259BB, 259BC and 259CC of that Act).
 
-#### 46. Payments of distributions etc to individual to whom the remittance basis applied or who makes a foreign income or gain claim[^key-ae7223e024d8c71212581463e24b791b][^key-0f7a6bb14e320e905730df807e083777]
+#### 46. Payments of distributions etc to individual to whom the remittance basis applied or who makes a foreign income or gain claim[^c-ae7223e024d8c71212581463e24b791b][^c-0f7a6bb14e320e905730df807e083777]
 
-(1) Sub-paragraphs (2) and (3) apply[^key-1aeaa83f6a9e92cb79c211d3493c2fe0] in relation to income or a chargeable gain arising to an individual in a tax year if—
+(1) Sub-paragraphs (2) and (3) apply[^c-1aeaa83f6a9e92cb79c211d3493c2fe0] in relation to income or a chargeable gain arising to an individual in a tax year if—
 
-- (a) section 809B, 809D or 809E of ITA 2007 applied[^key-443b261c5cf693e01b3f189f3bb8a241] to the individual for that tax year,
+- (a) section 809B, 809D or 809E of ITA 2007 applied[^c-443b261c5cf693e01b3f189f3bb8a241] to the individual for that tax year,
 - (b) the income or gain arises as a result of—
   - (i) the payment of interest by a QAHC,
   - (ii) the making of a distribution or a qualified distribution by a QAHC, or
@@ -1027,7 +1027,7 @@ the participation condition in section 148 of that Act is treated as met.
 - (a) include any profits that would have arisen had the QAHC disposed of all of its assets for a consideration equal to the market value of the assets immediately before the end of the period, and
 - (b) whether profits are derived from foreign sources is to be determined by reference to the ultimate underlying income or assets to which the profits relate (so, for example, the extent to which profits arising from an interest in another company are derived from foreign sources depends on the extent to which the profits of that company are derived from income arising outside the United Kingdom or the disposal of assets outside the United Kingdom).
 
-(6A)[^key-608a8fe0675035010c82a0f097d7bbae] Sub-paragraphs (4) to (6) also apply for the purposes of item 23[^key-9ee0d52ec42aa905d7ab38279c304cd8] in the table in section 845H of ITTOIA 2005 (qualifying foreign income for the purposes of foreign income claim) and paragraph (c) of the definition of “qualifying foreign gain” in paragraph 6 of Schedule D1 to TCGA 1992 (foreign gain claims)[^key-f1d54dcbb51414f846a2d91ec0b99a6f].
+(6A)[^c-608a8fe0675035010c82a0f097d7bbae] Sub-paragraphs (4) to (6) also apply for the purposes of item 23[^c-9ee0d52ec42aa905d7ab38279c304cd8] in the table in section 845H of ITTOIA 2005 (qualifying foreign income for the purposes of foreign income claim) and paragraph (c) of the definition of “qualifying foreign gain” in paragraph 6 of Schedule D1 to TCGA 1992 (foreign gain claims)[^c-f1d54dcbb51414f846a2d91ec0b99a6f].
 
 (7) In this paragraph—
 
@@ -1229,7 +1229,7 @@ Section 684 of ITA 2007 (person liable to counteraction of income tax advantage)
 - “**cure period**” is to be construed in accordance with paragraph 27(3) to (5);
 - “**enhanced class**” is to be construed in accordance with paragraph 3(3);
 - “**entry notification**” is to be construed in accordance with paragraph 14;
-- “**equity holder**” has the meaning it has in Part 5 of CTA 2010 (see section 158 of that Act) , but see also paragraph 59 of this Schedule[^key-40d19db393785dafd378e8a0b6241e6d];
+- “**equity holder**” has the meaning it has in Part 5 of CTA 2010 (see section 158 of that Act) , but see also paragraph 59 of this Schedule[^c-40d19db393785dafd378e8a0b6241e6d];
 - “**equity securities**” has the meaning given by section 560 of the Companies Act 2006;
 - “**exit notification**” is to be construed in accordance with paragraph 25;
 - “fund” and “qualifying fund” are to be construed in accordance with paragraph 9;
@@ -1259,9 +1259,9 @@ Section 684 of ITA 2007 (person liable to counteraction of income tax advantage)
 - (a) references in that definition to an investment scheme included a QAHC, and
 - (b) references to participants were, in relation to a QAHC, to persons with a relevant interest in the QAHC.
 
-(3)[^key-df361643e5c9b44cf11a483af8d9a9f9] In this Schedule, apart from in paragraphs 42 and 43 (worldwide groups), references to a company being a member of a group of companies are to be read in accordance with section 170 of TCGA 1992 (interpretation of sections 171 to 181 of that Act: groups).
+(3)[^c-df361643e5c9b44cf11a483af8d9a9f9] In this Schedule, apart from in paragraphs 42 and 43 (worldwide groups), references to a company being a member of a group of companies are to be read in accordance with section 170 of TCGA 1992 (interpretation of sections 171 to 181 of that Act: groups).
 
-#### 59. Alternative finance arrangements[^key-2caa2dc19bdfc580875008c971e5a11e]
+#### 59. Alternative finance arrangements[^c-2caa2dc19bdfc580875008c971e5a11e]
 
 (1) Sub-paragraph (2) applies for the purposes of determining the amounts of relevant interests in companies in accordance with paragraphs 3 to 6 and the provisions of Chapter 6 of Part 6 of CTA 2010 applied by those paragraphs.
 
@@ -1283,35 +1283,35 @@ Section 684 of ITA 2007 (person liable to counteraction of income tax advantage)
 
 [^M_F_de894cc1-e855-49e8-b9d6-45e3f271a031]: Textual amendment: Words in Sch. 2 para. 2(1)(e) substituted (retrospective to 15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/8/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/8/3) (with [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/8/4))
 
-[^key-da17171574e7f1332b7805d7553c96c1]: Textual amendment: Sch. 2 para. 3(5A) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/15/2)
+[^c-da17171574e7f1332b7805d7553c96c1]: Textual amendment: Sch. 2 para. 3(5A) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/15/2)
 
-[^key-a7d4260d93113ba335cda08177ca3612]: Textual amendment: Sch. 2 para. 4(2A) inserted (with effect in accordance with Sch. 4 para. 9(2)(3) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/9/1)
+[^c-a7d4260d93113ba335cda08177ca3612]: Textual amendment: Sch. 2 para. 4(2A) inserted (with effect in accordance with Sch. 4 para. 9(2)(3) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/9/1)
 
-[^key-ed529e11de5e9591dc7dcadc2691b31b]: Textual amendment: Sch. 2 para. 5(4)(ha)-(hc) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/10)
+[^c-ed529e11de5e9591dc7dcadc2691b31b]: Textual amendment: Sch. 2 para. 5(4)(ha)-(hc) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/10)
 
 [^M_F_4e5c5af7-d015-4d07-8f2a-d1d9d1f888dd]: Textual amendment: Words in Sch. 2 para. 9(2)(a) inserted (retrospectively) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 11(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/11/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/11/2)
 
-[^key-c9487f95b89fe2f372a898b7c65913fd]: Textual amendment: Words in Sch. 2 para. 9(2)(a)(i) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/2/a)
+[^c-c9487f95b89fe2f372a898b7c65913fd]: Textual amendment: Words in Sch. 2 para. 9(2)(a)(i) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/2/a)
 
-[^key-55d2691fd50deacf3fdf1d5679db724f]: Textual amendment: Words in Sch. 2 para. 9(2)(a)(ii) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/2/b)
+[^c-55d2691fd50deacf3fdf1d5679db724f]: Textual amendment: Words in Sch. 2 para. 9(2)(a)(ii) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/2/b)
 
-[^key-f9967908c25075e41f7c63300a9c469a]: Textual amendment: Sch. 2 para. 9(3)(za) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/a)
+[^c-f9967908c25075e41f7c63300a9c469a]: Textual amendment: Sch. 2 para. 9(3)(za) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/a)
 
-[^key-9127ced6ad111219ff077f111b3de4b7]: Textual amendment: Words in Sch. 2 para. 9(3)(a) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/b/i)
+[^c-9127ced6ad111219ff077f111b3de4b7]: Textual amendment: Words in Sch. 2 para. 9(3)(a) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/b/i)
 
-[^key-47dc5660969e323db3e263018788dec1]: Textual amendment: Words in Sch. 2 para. 9(3)(a) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/b/ii)
+[^c-47dc5660969e323db3e263018788dec1]: Textual amendment: Words in Sch. 2 para. 9(3)(a) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/b/ii)
 
-[^key-b722d761ae47880783d7fef2e72a62df]: Textual amendment: Words in Sch. 2 para. 9(3)(a) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/b/iii)
+[^c-b722d761ae47880783d7fef2e72a62df]: Textual amendment: Words in Sch. 2 para. 9(3)(a) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/b/iii)
 
-[^key-891d784bffc28cc119b3f58c47343f5e]: Textual amendment: Words in Sch. 2 para. 9(3)(a)(i) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/c/i)
+[^c-891d784bffc28cc119b3f58c47343f5e]: Textual amendment: Words in Sch. 2 para. 9(3)(a)(i) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/c/i)
 
-[^key-c2b3fc0bb7df2cbeff0d1d907cae6973]: Textual amendment: Words in Sch. 2 para. 9(3)(a)(ii) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(c)(i)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/c/i)
+[^c-c2b3fc0bb7df2cbeff0d1d907cae6973]: Textual amendment: Words in Sch. 2 para. 9(3)(a)(ii) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(c)(i)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/c/i)
 
-[^key-7f82e16d3ad6f975c6c0564ac3cd6a3a]: Textual amendment: Words in Sch. 2 para. 9(3)(iii) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/c/iii)
+[^c-7f82e16d3ad6f975c6c0564ac3cd6a3a]: Textual amendment: Words in Sch. 2 para. 9(3)(iii) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/c/iii)
 
-[^key-de3ea7a592c1fee8b80aef17175f8db0]: Textual amendment: Words in Sch. 2 para. 9(3)(b) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/d)
+[^c-de3ea7a592c1fee8b80aef17175f8db0]: Textual amendment: Words in Sch. 2 para. 9(3)(b) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(d)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/d)
 
-[^key-26fb582f4ceed8642e29bbe8c6216c42]: Textual amendment: Words in Sch. 2 para. 9(4) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/4)
+[^c-26fb582f4ceed8642e29bbe8c6216c42]: Textual amendment: Words in Sch. 2 para. 9(4) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/4)
 
 [^M_F_e62974c2-453d-4271-c144-a1fc814669ad]: Textual amendment: Words in Sch. 2 para. 9(5)(a) inserted (retrospectively) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 11(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/11/1/b/i)[(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/11/2)
 
@@ -1319,32 +1319,32 @@ Section 684 of ITA 2007 (person liable to counteraction of income tax advantage)
 
 [^M_F_bf2e329e-e7be-4001-b36c-af52ee9824d7]: Textual amendment: Words in Sch. 2 para. 9(6) inserted (retrospectively) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 11(1)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/11/1/c)[(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/11/2)
 
-[^key-ff5783af1f41bc7716c4dbeed601bf84]: Textual amendment: Words in Sch. 2 para. 9(10) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/5)
+[^c-ff5783af1f41bc7716c4dbeed601bf84]: Textual amendment: Words in Sch. 2 para. 9(10) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(5)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/5)
 
-[^key-219ea3cd749c50c0f6617f308f725d3e]: Textual amendment: Sch. 2 para. 13(3)-(9) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 13(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/13/1)
+[^c-219ea3cd749c50c0f6617f308f725d3e]: Textual amendment: Sch. 2 para. 13(3)-(9) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 13(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/13/1)
 
-[^key-4a1e31d02ca9b1e5e437e6e449dd0ac3]: Textual amendment: Sch. 2 para. 35 and cross-heading omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/13/2)
+[^c-4a1e31d02ca9b1e5e437e6e449dd0ac3]: Textual amendment: Sch. 2 para. 35 and cross-heading omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/13/2)
 
-[^key-ae7223e024d8c71212581463e24b791b]: Textual amendment: Words in Sch. 2 para. 46 heading substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
+[^c-ae7223e024d8c71212581463e24b791b]: Textual amendment: Words in Sch. 2 para. 46 heading substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
 
-[^key-0f7a6bb14e320e905730df807e083777]: Textual amendment: Words in Sch. 2 para. 46 heading inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(10)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/10/a)[(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/11)
+[^c-0f7a6bb14e320e905730df807e083777]: Textual amendment: Words in Sch. 2 para. 46 heading inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(10)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/10/a)[(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/11)
 
-[^key-1aeaa83f6a9e92cb79c211d3493c2fe0]: Textual amendment: Words in Sch. 2 para. 46(1) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/b/i)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
+[^c-1aeaa83f6a9e92cb79c211d3493c2fe0]: Textual amendment: Words in Sch. 2 para. 46(1) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/b/i)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
 
-[^key-443b261c5cf693e01b3f189f3bb8a241]: Textual amendment: Word in Sch. 2 para. 46(1)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/b/ii)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
+[^c-443b261c5cf693e01b3f189f3bb8a241]: Textual amendment: Word in Sch. 2 para. 46(1)(a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/b/ii)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
 
-[^key-608a8fe0675035010c82a0f097d7bbae]: Textual amendment: Sch. 2 para. 46(6A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/c)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
+[^c-608a8fe0675035010c82a0f097d7bbae]: Textual amendment: Sch. 2 para. 46(6A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/3/c)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/4)
 
-[^key-9ee0d52ec42aa905d7ab38279c304cd8]: Textual amendment: Words in [Sch. 2 para. 46(6A)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/46/6A) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/3) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-9ee0d52ec42aa905d7ab38279c304cd8]: Textual amendment: Words in [Sch. 2 para. 46(6A)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/46/6A) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/3) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
 
-[^key-f1d54dcbb51414f846a2d91ec0b99a6f]: Textual amendment: Words in Sch. 2 para. 46(6A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(10)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/10/b)[(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/11)
+[^c-f1d54dcbb51414f846a2d91ec0b99a6f]: Textual amendment: Words in Sch. 2 para. 46(6A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(10)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/10/b)[(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/11)
 
 [^M_F_cfa430ea-dff9-4be7-9cb7-f2c36612375b]: Textual amendment: Words in Sch. 2 para. 53(4) inserted (retrospectively) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/14)
 
-[^key-40d19db393785dafd378e8a0b6241e6d]: Textual amendment: Words in Sch. 2 para. 58(1) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 15(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/15/3)
+[^c-40d19db393785dafd378e8a0b6241e6d]: Textual amendment: Words in Sch. 2 para. 58(1) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 15(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/15/3)
 
 [^M_F_9b5ef35a-99ea-4a5d-e3db-684e8ae86631]: Textual amendment: Words in Sch. 2 para. 58(1) inserted (retrospective to 15.3.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/8/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/8/3) (with [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/8/4))
 
-[^key-df361643e5c9b44cf11a483af8d9a9f9]: Textual amendment: Sch. 2 para. 58(3) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/13/3)
+[^c-df361643e5c9b44cf11a483af8d9a9f9]: Textual amendment: Sch. 2 para. 58(3) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/13/3)
 
-[^key-2caa2dc19bdfc580875008c971e5a11e]: Textual amendment: Sch. 2 para. 59 and cross-heading inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 15(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/15/1)
+[^c-2caa2dc19bdfc580875008c971e5a11e]: Textual amendment: Sch. 2 para. 59 and cross-heading inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 15(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/15/1)

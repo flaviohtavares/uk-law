@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Report on operation of section 25 schemes[^key-622c23a724494043c4ea717b45534bb6]
+## 26. Report on operation of section 25 schemes[^c-622c23a724494043c4ea717b45534bb6]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-622c23a724494043c4ea717b45534bb6]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/29/section/26) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/d)
+[^c-622c23a724494043c4ea717b45534bb6]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/29/section/26) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/d)

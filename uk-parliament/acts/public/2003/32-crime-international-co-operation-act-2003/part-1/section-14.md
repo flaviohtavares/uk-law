@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Powers to arrange for evidence to be obtained[^key-a7cbf0669ebd62d0cec0a0c974623bfd][^key-aeafa676035fcd9493012cef16be1ab7]
+## 14. Powers to arrange for evidence to be obtained[^c-a7cbf0669ebd62d0cec0a0c974623bfd][^c-aeafa676035fcd9493012cef16be1ab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cbf0669ebd62d0cec0a0c974623bfd]: Commencement: S. 14 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-a7cbf0669ebd62d0cec0a0c974623bfd]: Commencement: S. 14 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-aeafa676035fcd9493012cef16be1ab7]: Modification: S. 14 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/425/article/3)
+[^c-aeafa676035fcd9493012cef16be1ab7]: Modification: S. 14 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/425/article/3)

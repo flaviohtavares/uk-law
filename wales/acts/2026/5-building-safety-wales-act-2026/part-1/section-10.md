@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Principal accountable person: determination by building safety authority[^key-91426357539909cf02eaf70dc9d4ce78]
+## 10. Principal accountable person: determination by building safety authority[^c-91426357539909cf02eaf70dc9d4ce78]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91426357539909cf02eaf70dc9d4ce78]: Commencement: S. 10 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-91426357539909cf02eaf70dc9d4ce78]: Commencement: S. 10 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

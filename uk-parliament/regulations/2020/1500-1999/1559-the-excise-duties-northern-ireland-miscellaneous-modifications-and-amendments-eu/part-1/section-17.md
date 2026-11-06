@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**17.**[^key-36514854be498dcf542587e280598944] In regulation 16(2) and (3)—
+**17.**[^c-36514854be498dcf542587e280598944] In regulation 16(2) and (3)—
 
 - (a) for “the United Kingdom”, in each place it occurs, substitute “Northern Ireland”;
 - (b) for “vendor”, in each place it occurs, substitute “consignor”.
 
 ## Annotations
 
-[^key-36514854be498dcf542587e280598944]: Textual amendment: Reg. 17 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/8)
+[^c-36514854be498dcf542587e280598944]: Textual amendment: Reg. 17 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/8)

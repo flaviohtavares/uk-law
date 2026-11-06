@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Power to appropriate lands and works for particular uses, etc.[^key-c137723f6d89643d307305796f664b88]
+## 56. Power to appropriate lands and works for particular uses, etc.[^c-c137723f6d89643d307305796f664b88]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c137723f6d89643d307305796f664b88]: Commencement: Art. 56 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-c137723f6d89643d307305796f664b88]: Commencement: Art. 56 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

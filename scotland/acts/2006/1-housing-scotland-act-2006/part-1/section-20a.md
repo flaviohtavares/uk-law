@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20A. Power to modify repairing standard etc.[^key-fe689570c9d274421d7c7f0563b4786e]
+## 20A. Power to modify repairing standard etc.[^c-fe689570c9d274421d7c7f0563b4786e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe689570c9d274421d7c7f0563b4786e]: Textual amendment: S. 20A inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 24(1)](https://www.legislation.gov.uk/asp/2014/14/section/24/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-fe689570c9d274421d7c7f0563b4786e]: Textual amendment: S. 20A inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 24(1)](https://www.legislation.gov.uk/asp/2014/14/section/24/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

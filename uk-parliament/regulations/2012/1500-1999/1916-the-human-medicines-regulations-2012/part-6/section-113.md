@@ -26,7 +26,7 @@ summary: ''
 
 (3) The holder of a certificate of registration must notify the licensing authority if the product to which the certificate relates is to be withdrawn from the market in the United Kingdom (whether temporarily or permanently).
 
-(3A)[^key-2f049dd38f4b911681f201d344215b02] A notification under paragraph (3) must include the reasons for the withdrawal [^key-7bccd0ab7408c674972fdfa16f990acf]....
+(3A)[^c-2f049dd38f4b911681f201d344215b02] A notification under paragraph (3) must include the reasons for the withdrawal [^c-7bccd0ab7408c674972fdfa16f990acf]....
 
 (4) A notification under paragraph (3) must be given before the beginning of the period of two months ending with the date on which the product is to be withdrawn from the market unless it is not reasonably practicable to do so.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f049dd38f4b911681f201d344215b02]: Textual amendment: Reg. 113(3A) inserted (11.11.2013) by [The Human Medicines (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2593)](https://www.legislation.gov.uk/uksi/2013/2593), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2593/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/2593/regulation/5)
+[^c-2f049dd38f4b911681f201d344215b02]: Textual amendment: Reg. 113(3A) inserted (11.11.2013) by [The Human Medicines (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2593)](https://www.legislation.gov.uk/uksi/2013/2593), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2593/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/2593/regulation/5)
 
-[^key-7bccd0ab7408c674972fdfa16f990acf]: Textual amendment: Words in [reg. 113(3A)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/113/3A) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [105](https://www.legislation.gov.uk/uksi/2019/775/regulation/105); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bccd0ab7408c674972fdfa16f990acf]: Textual amendment: Words in [reg. 113(3A)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/113/3A) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [105](https://www.legislation.gov.uk/uksi/2019/775/regulation/105); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

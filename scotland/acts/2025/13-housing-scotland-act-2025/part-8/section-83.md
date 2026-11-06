@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Ancillary provision[^key-e21f90232368260fabfd427d915f403c]
+## 83. Ancillary provision[^c-e21f90232368260fabfd427d915f403c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21f90232368260fabfd427d915f403c]: Commencement: S. 83 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)
+[^c-e21f90232368260fabfd427d915f403c]: Commencement: S. 83 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Procedure for preparation and publication of Framework[^key-b24bb225b581e7319fcfd6cc7d49f7de]
+## 14. Procedure for preparation and publication of Framework[^c-b24bb225b581e7319fcfd6cc7d49f7de]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b24bb225b581e7319fcfd6cc7d49f7de]: Commencement: S. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b24bb225b581e7319fcfd6cc7d49f7de]: Commencement: S. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -24,11 +24,11 @@ Article 46
 
 ### PART 1 — PRELIMINARY
 
-#### 1. Citation and commencement[^key-50095be0743adce6f59df293d52e8ea7]
+#### 1. Citation and commencement[^c-50095be0743adce6f59df293d52e8ea7]
 
 These byelaws may be cited as the Lowestoft Third Crossing Byelaws 2020 and were made under article 46 of the Lowestoft (Lake Lothing) Third Crossing Order 2020.
 
-#### 2. Interpretation[^key-50edda351caf6e03814697ee7197b85d]
+#### 2. Interpretation[^c-50edda351caf6e03814697ee7197b85d]
 
 (1) In these byelaws unless the context otherwise requires—
 
@@ -64,14 +64,14 @@ These byelaws may be cited as the Lowestoft Third Crossing Byelaws 2020 and were
 
 ### PART 2 — CONDUCT AND BEHAVIOUR
 
-#### 3. Smoking etc.[^key-cf3428eb64276a56ad13dfd6566368be]
+#### 3. Smoking etc.[^c-cf3428eb64276a56ad13dfd6566368be]
 
 Within the new bridge area a person must not—
 
 - (a) smoke or carry an item that is alight including a lit cigar, cigarette, cigarillo, match, pipe or lighter; or
 - (b) use a vaporiser.
 
-#### 4. Unacceptable behaviour[^key-838b7d74ed4ba426026a2c6bfcb3027b]
+#### 4. Unacceptable behaviour[^c-838b7d74ed4ba426026a2c6bfcb3027b]
 
 A person must not—
 
@@ -91,7 +91,7 @@ A person must not—
 
 ### PART 3 — ACCESS AND TRAFFIC
 
-#### 5. Unauthorised access and loitering[^key-2fdc5d0bb2a94a06c95062a88bae00f9]
+#### 5. Unauthorised access and loitering[^c-2fdc5d0bb2a94a06c95062a88bae00f9]
 
 (1) A person must not enter, attempt to enter or remain in any part of the new bridge area where there is a notice prohibiting or restricting access.
 
@@ -107,7 +107,7 @@ A person must not—
 - (b) in contravention of a notice displayed by the undertaker; or
 - (c) whenever the new bridge is in the process of opening or closing.
 
-#### 6. Traffic regulation[^key-0579f843e637843dd3062d2561e40804]
+#### 6. Traffic regulation[^c-0579f843e637843dd3062d2561e40804]
 
 (1) A person (other than an appointed person) must not use or cause to be used within the new bridge area a barrow, cart, rickshaw or animal-drawn means of conveyance except if it is conveyed as the load or part of the load of a motor vehicle.
 
@@ -148,15 +148,15 @@ A person must not—
 
 ### PART 4 — GENERAL
 
-#### 7. Saving for appointed persons[^key-5fa266b2ffbaaffc8cdfadb4ae22d4b4]
+#### 7. Saving for appointed persons[^c-5fa266b2ffbaaffc8cdfadb4ae22d4b4]
 
 Nothing in these byelaws prevents an appointed person from undertaking an activity which would otherwise be prohibited by these byelaws provided such activity is undertaken in the execution of that person's duties as an appointed person.
 
 ## Annotations
 
-[^key-50095be0743adce6f59df293d52e8ea7]: Commencement: Sch. 10 para. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-50095be0743adce6f59df293d52e8ea7]: Commencement: Sch. 10 para. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-50edda351caf6e03814697ee7197b85d]: Commencement: Sch. 10 para. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-50edda351caf6e03814697ee7197b85d]: Commencement: Sch. 10 para. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091611]: Marginal citation: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21). Section 44 was amended by the [Emergency Workers (Obstruction) Act 2006 (c. 39)](https://www.legislation.gov.uk/ukpga/2006/39).
 
@@ -166,12 +166,12 @@ Nothing in these byelaws prevents an appointed person from undertaking an activi
 
 [^c24091641]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-cf3428eb64276a56ad13dfd6566368be]: Commencement: Sch. 10 para. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-cf3428eb64276a56ad13dfd6566368be]: Commencement: Sch. 10 para. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-838b7d74ed4ba426026a2c6bfcb3027b]: Commencement: Sch. 10 para. 4 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-838b7d74ed4ba426026a2c6bfcb3027b]: Commencement: Sch. 10 para. 4 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-2fdc5d0bb2a94a06c95062a88bae00f9]: Commencement: Sch. 10 para. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-2fdc5d0bb2a94a06c95062a88bae00f9]: Commencement: Sch. 10 para. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-0579f843e637843dd3062d2561e40804]: Commencement: Sch. 10 para. 6 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-0579f843e637843dd3062d2561e40804]: Commencement: Sch. 10 para. 6 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-5fa266b2ffbaaffc8cdfadb4ae22d4b4]: Commencement: Sch. 10 para. 7 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-5fa266b2ffbaaffc8cdfadb4ae22d4b4]: Commencement: Sch. 10 para. 7 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

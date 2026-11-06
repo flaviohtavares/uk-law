@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75H. Entitlement to leave under section 75G: further provision[^key-94281cd3909aa40faf681a41f3f915f9][^key-d324faf45f43b6a0cf2cf50b89e01456][^key-ffd5e6996ebd7e82f7b6fbec769b4725][^key-f5326a98436c073f4f2dd56b980eecd7][^c16328681]
+## 75H. Entitlement to leave under section 75G: further provision[^c-94281cd3909aa40faf681a41f3f915f9][^c-d324faf45f43b6a0cf2cf50b89e01456][^c-ffd5e6996ebd7e82f7b6fbec769b4725][^c-f5326a98436c073f4f2dd56b980eecd7][^c16328681]
 
 *Extent: E+W+S*
 
@@ -97,12 +97,12 @@ summary: ''
 
 ## Annotations
 
-[^key-94281cd3909aa40faf681a41f3f915f9]: Modification: S. 75H applied (with modifications) (25.11.2014) by [The Employment Rights Act 1996 (Application of Sections 75A, 75B, 75G, 75H, 80A and 80B to Parental Order Cases) Regulations 2014 (S.I. 2014/3095)](https://www.legislation.gov.uk/uksi/2014/3095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3095/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3095/schedule/1)
+[^c-94281cd3909aa40faf681a41f3f915f9]: Modification: S. 75H applied (with modifications) (25.11.2014) by [The Employment Rights Act 1996 (Application of Sections 75A, 75B, 75G, 75H, 80A and 80B to Parental Order Cases) Regulations 2014 (S.I. 2014/3095)](https://www.legislation.gov.uk/uksi/2014/3095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3095/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3095/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3095/schedule/1)
 
-[^key-d324faf45f43b6a0cf2cf50b89e01456]: Modification: S. 75H modified (E.W.) (25.11.2014) by [The Employment Rights Act 1996 (Application of Sections 75G and 75H to Adoptions from Overseas) Regulations 2014 (S.I. 2014/3091)](https://www.legislation.gov.uk/uksi/2014/3091), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3091/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/3091/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/3091/schedule)
+[^c-d324faf45f43b6a0cf2cf50b89e01456]: Modification: S. 75H modified (E.W.) (25.11.2014) by [The Employment Rights Act 1996 (Application of Sections 75G and 75H to Adoptions from Overseas) Regulations 2014 (S.I. 2014/3091)](https://www.legislation.gov.uk/uksi/2014/3091), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3091/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/3091/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/3091/schedule)
 
-[^key-ffd5e6996ebd7e82f7b6fbec769b4725]: Modification: S. 75H amendment to earlier affecting provision S.I. 2014/3095, reg. 3, Sch. 1 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8)
+[^c-ffd5e6996ebd7e82f7b6fbec769b4725]: Modification: S. 75H amendment to earlier affecting provision S.I. 2014/3095, reg. 3, Sch. 1 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/8)
 
-[^key-f5326a98436c073f4f2dd56b980eecd7]: Textual amendment: Pt. 8 Ch. 1B (ss. 75E-75K) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 117(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/117/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/a)
+[^c-f5326a98436c073f4f2dd56b980eecd7]: Textual amendment: Pt. 8 Ch. 1B (ss. 75E-75K) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 117(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/117/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/a)
 
 [^c16328681]: Textual amendment: Pt. 8 (ss. 71-80) substituted for Pt. 8 (ss. 71-85) (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 7](https://www.legislation.gov.uk/ukpga/1999/26/section/7), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/1); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/2) (with transitional provisions in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10))

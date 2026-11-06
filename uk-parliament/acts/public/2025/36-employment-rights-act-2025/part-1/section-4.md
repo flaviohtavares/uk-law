@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Agency workers: guaranteed hours and rights relating to shifts[^key-20e96f08862acda89bebe67d0137c24e][^key-5292f4b16c778c489f65586d28e39844]
+## 4. Agency workers: guaranteed hours and rights relating to shifts[^c-20e96f08862acda89bebe67d0137c24e][^c-5292f4b16c778c489f65586d28e39844]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20e96f08862acda89bebe67d0137c24e]: Commencement: S. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-20e96f08862acda89bebe67d0137c24e]: Commencement: S. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5292f4b16c778c489f65586d28e39844]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/36/section/4) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/d)
+[^c-5292f4b16c778c489f65586d28e39844]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/36/section/4) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/d)

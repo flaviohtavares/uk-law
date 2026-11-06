@@ -163,7 +163,7 @@ Section 148.
 
 **38.** [^c18676761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-085619f8f83be98de228460aac01f88f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-085619f8f83be98de228460aac01f88f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **40.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10395981]
 
@@ -315,7 +315,7 @@ Section 148.
 
 [^c18676761]: Textual amendment: [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/38) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2005/9/section/67/2), [68(1)-(3)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [28](https://www.legislation.gov.uk/ukpga/2005/9/section/28), [29](https://www.legislation.gov.uk/ukpga/2005/9/section/29), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2](https://www.legislation.gov.uk/uksi/2007/1897/article/2)
 
-[^key-085619f8f83be98de228460aac01f88f]: Textual amendment: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/39) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-085619f8f83be98de228460aac01f88f]: Textual amendment: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/39) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c10395981]: Textual amendment: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/40) repealed by [Capital Transfer Tax Act 1984 (c. 51, SIF 65)](https://www.legislation.gov.uk/ukpga/1984/51), [ss. 274](https://www.legislation.gov.uk/ukpga/1984/51/section/274), [277](https://www.legislation.gov.uk/ukpga/1984/51/section/277), [Schs. 7](https://www.legislation.gov.uk/ukpga/1984/51/schedule/7), [9](https://www.legislation.gov.uk/ukpga/1984/51/schedule/9)
 

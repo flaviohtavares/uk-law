@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Information to be provided to a member before reserve forces service leave[^key-0638cdb5c43703589f1277e420ec9ab2]
+## 175. Information to be provided to a member before reserve forces service leave[^c-0638cdb5c43703589f1277e420ec9ab2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The scheme manager must give a member who is about to start on a period of reser
 
 ## Annotations
 
-[^key-0638cdb5c43703589f1277e420ec9ab2]: Commencement: [Reg. 175](https://www.legislation.gov.uk/ssi/2015/19/regulation/175) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0638cdb5c43703589f1277e420ec9ab2]: Commencement: [Reg. 175](https://www.legislation.gov.uk/ssi/2015/19/regulation/175) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -33,7 +33,7 @@ the company must deliver to the registrar a return containing details of the alt
 - (b) details of the particular as altered, and
 - (c) the date on which the alteration was made.
 
-(4A)[^key-940f355f07dd75551cdfdd2025a8b202] If the alteration of the particulars specified in regulation 6(1)(d)(i) is caused by a person becoming a director of a company, the return of alteration must, in the case of each individual who became a director, include a statement—
+(4A)[^c-940f355f07dd75551cdfdd2025a8b202] If the alteration of the particulars specified in regulation 6(1)(d)(i) is caused by a person becoming a director of a company, the return of alteration must, in the case of each individual who became a director, include a statement—
 
 - (a) confirming that the individual’s identity is verified in the meaning of section 1110A of the Companies Act 2006, and
 - (b) stating the individual’s unique identifier.
@@ -51,4 +51,4 @@ the company must deliver to the registrar a return containing details of the alt
 
 ## Annotations
 
-[^key-940f355f07dd75551cdfdd2025a8b202]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/13/4A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-940f355f07dd75551cdfdd2025a8b202]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/13/4A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))

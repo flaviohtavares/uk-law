@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Amendment of regulation 140 (withdrawal of traditional herbal medicinal product from the market)[^key-e818b4c40e421e0671fa662216229864]
+## 123. Amendment of regulation 140 (withdrawal of traditional herbal medicinal product from the market)[^c-e818b4c40e421e0671fa662216229864]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 140(1) for sub-paragraph (a) substitute—[^key-9e6e7b4552e344b4919f1c0b385f60b8]
+In regulation 140(1) for sub-paragraph (a) substitute—[^c-9e6e7b4552e344b4919f1c0b385f60b8]
 
 > - (a) under—
 >   - (i) regulation 135 or 136, in the case of a THR(GB);
@@ -30,6 +30,6 @@ In regulation 140(1) for sub-paragraph (a) substitute—[^key-9e6e7b4552e344b491
 
 ## Annotations
 
-[^key-e818b4c40e421e0671fa662216229864]: Commencement: Reg. 123 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e818b4c40e421e0671fa662216229864]: Commencement: Reg. 123 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9e6e7b4552e344b4919f1c0b385f60b8]: Textual amendment: Words in reg. 123 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/93)
+[^c-9e6e7b4552e344b4919f1c0b385f60b8]: Textual amendment: Words in reg. 123 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/93)

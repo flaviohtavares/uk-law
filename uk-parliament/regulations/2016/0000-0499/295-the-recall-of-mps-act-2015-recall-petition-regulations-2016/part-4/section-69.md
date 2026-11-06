@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to occupation, service or employment: England and Wales and Scotland[^key-f5c6b168981b365e088628481687e310][^key-d9220ae5ec2f769810b3cd49c216fb04]
+## 69. Additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to occupation, service or employment: England and Wales and Scotland[^c-f5c6b168981b365e088628481687e310][^c-d9220ae5ec2f769810b3cd49c216fb04]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c6b168981b365e088628481687e310]: Commencement: Reg. 69 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-f5c6b168981b365e088628481687e310]: Commencement: Reg. 69 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-d9220ae5ec2f769810b3cd49c216fb04]: Textual amendment: Words in reg. 69 heading inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [87](https://www.legislation.gov.uk/uksi/2022/1382/regulation/87) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-d9220ae5ec2f769810b3cd49c216fb04]: Textual amendment: Words in reg. 69 heading inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [87](https://www.legislation.gov.uk/uksi/2022/1382/regulation/87) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

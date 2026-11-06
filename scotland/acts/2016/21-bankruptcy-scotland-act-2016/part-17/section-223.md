@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 223. Disqualification provisions: power to make regulations[^key-aace92fec7c7a31890d5a41bd1f309ff]
+## 223. Disqualification provisions: power to make regulations[^c-aace92fec7c7a31890d5a41bd1f309ff]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aace92fec7c7a31890d5a41bd1f309ff]: Commencement: S. 223 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-aace92fec7c7a31890d5a41bd1f309ff]: Commencement: S. 223 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

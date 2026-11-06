@@ -224,13 +224,13 @@ The analytical methods set out in Annex III to Implementing Regulation (EU) 2019
 
 ## Article 7. Derogation from Regulation (EC) No 852/2004 for foods with traditional characteristics
 
-1. For the purposes of this Regulation, ‘foods with traditional characteristics’ means foods that are traditionally manufactured in Great Britain and are:[^key-3e740fb1229430f7d5ce57992f2313de]
+1. For the purposes of this Regulation, ‘foods with traditional characteristics’ means foods that are traditionally manufactured in Great Britain and are:[^c-3e740fb1229430f7d5ce57992f2313de]
 
 - (a) recognised historically as traditional products, or
 - (b) manufactured according to codified or registered technical references to the traditional process, or according to traditional production methods, or
-- (c) protected as traditional food products by [^key-194749a0a517106a1173eb45d7108e88]... national [^key-194749a0a517106a1173eb45d7108e88]... law.
+- (c) protected as traditional food products by [^c-194749a0a517106a1173eb45d7108e88]... national [^c-194749a0a517106a1173eb45d7108e88]... law.
 
-2. The appropriate authority[^key-dc20b3d16e5e06442e32e58b0527d297] may grant establishments manufacturing foods with traditional characteristics individual or general derogations from the requirements set out in:
+2. The appropriate authority[^c-dc20b3d16e5e06442e32e58b0527d297] may grant establishments manufacturing foods with traditional characteristics individual or general derogations from the requirements set out in:
 
 - (a) Chapter II(1) of Annex II to Regulation (EC) No 852/2004 as regards the premises where such products are exposed to an environment necessary for the part-development of their characteristics. Such premises may in particular comprise walls, ceilings and doors that are not smooth, impervious, non-absorbent or of corrosion-resistant material and natural geological walls, ceilings and floors;
 - (b) Chapter II(1)(f) and Chapter V(1) of Annex II to Regulation (EC) No 852/2004 as regards the type of materials of which the instruments and the equipment used specifically for the preparation, packaging and wrapping of these products are made.
@@ -239,7 +239,7 @@ The analytical methods set out in Annex III to Implementing Regulation (EU) 2019
 
   The instruments and equipment referred to in (b) shall be maintained at all times in a satisfactory state of hygiene and be regularly cleaned and disinfected.
 
-3.[^key-43342c8d9a1efce46c3cc9ba157310e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-43342c8d9a1efce46c3cc9ba157310e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 8. Amendments to Regulation (EC) No 853/2004
 
@@ -255,7 +255,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 January 2006, except for Chapters II and III of Annex V, which shall apply from 1 January 2007.
 
-[^key-7eb479be6dabe3c63086304c8b6420c2]...
+[^c-7eb479be6dabe3c63086304c8b6420c2]...
 
 ## ANNEX I — FOOD CHAIN INFORMATION
 
@@ -932,15 +932,15 @@ Annexes I, II and III to Regulation (EC) No 854/2004 are amended as follows:
 
 [^c000006]: Textual amendment: Inserted by [Commission Regulation (EU) 2017/1973 of 30 October 2017 amending Regulation (EC) No 2074/2005 as regards official controls on fishery products caught by vessels flying the flag of a Member State and introduced into Union after being transferred in third countries and establishing a model health certificate for those products (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1973).
 
-[^key-3e740fb1229430f7d5ce57992f2313de]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2005/2074/article/7/1) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(a)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/a/i) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
+[^c-3e740fb1229430f7d5ce57992f2313de]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2005/2074/article/7/1) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(a)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/a/i) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
 
-[^key-194749a0a517106a1173eb45d7108e88]: Textual amendment: Words in [Art. 7(1)(c)](https://www.legislation.gov.uk/eur/2005/2074/article/7/1/c) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(a)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/a/ii) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
+[^c-194749a0a517106a1173eb45d7108e88]: Textual amendment: Words in [Art. 7(1)(c)](https://www.legislation.gov.uk/eur/2005/2074/article/7/1/c) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(a)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/a/ii) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
 
-[^key-dc20b3d16e5e06442e32e58b0527d297]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2005/2074/article/7/2) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
+[^c-dc20b3d16e5e06442e32e58b0527d297]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2005/2074/article/7/2) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/b) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
 
-[^key-43342c8d9a1efce46c3cc9ba157310e5]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2005/2074/article/7/3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/c) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
+[^c-43342c8d9a1efce46c3cc9ba157310e5]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2005/2074/article/7/3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19B(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19B/c) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
 
-[^key-7eb479be6dabe3c63086304c8b6420c2]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19C](https://www.legislation.gov.uk/uksi/2019/640/regulation/19C) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
+[^c-7eb479be6dabe3c63086304c8b6420c2]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19C](https://www.legislation.gov.uk/uksi/2019/640/regulation/19C) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/12))
 
 [^c000008]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/1980 of 31 October 2017 amending Annex III to Regulation (EC) No 2074/2005 as regards paralytic shellfish poison (PSP) detection method (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1980).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Temporary stopping up and restriction of use of streets[^key-42de5bbf042fed87b4bef96972ec4ca7]
+## 13. Temporary stopping up and restriction of use of streets[^c-42de5bbf042fed87b4bef96972ec4ca7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42de5bbf042fed87b4bef96972ec4ca7]: Commencement: Art. 13 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-42de5bbf042fed87b4bef96972ec4ca7]: Commencement: Art. 13 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

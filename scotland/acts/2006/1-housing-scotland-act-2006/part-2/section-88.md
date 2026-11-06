@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Limitation on further grant and loan applications[^key-3443b3330f616c3c094af93574e2a9d7]
+## 88. Limitation on further grant and loan applications[^c-3443b3330f616c3c094af93574e2a9d7]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3443b3330f616c3c094af93574e2a9d7]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2006/1/section/88) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-3443b3330f616c3c094af93574e2a9d7]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2006/1/section/88) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

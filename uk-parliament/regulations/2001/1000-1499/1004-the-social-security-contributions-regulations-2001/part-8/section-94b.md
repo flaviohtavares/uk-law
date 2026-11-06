@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94B. Liability of a partner in an AIFM firm for Class 4 contributions[^key-44c7b91b836297a8ec6a26be1186afdf]
+## 94B. Liability of a partner in an AIFM firm for Class 4 contributions[^c-44c7b91b836297a8ec6a26be1186afdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44c7b91b836297a8ec6a26be1186afdf]: Textual amendment: [Reg. 94B](https://www.legislation.gov.uk/uksi/2001/1004/regulation/94B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2014 (S.I. 2014/3196)](https://www.legislation.gov.uk/uksi/2014/3196), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3196/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3196/regulation/2/2)
+[^c-44c7b91b836297a8ec6a26be1186afdf]: Textual amendment: [Reg. 94B](https://www.legislation.gov.uk/uksi/2001/1004/regulation/94B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2014 (S.I. 2014/3196)](https://www.legislation.gov.uk/uksi/2014/3196), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3196/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3196/regulation/2/2)

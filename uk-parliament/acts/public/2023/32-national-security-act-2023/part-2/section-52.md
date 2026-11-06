@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Appeals[^key-1eb75abcbbd537c53afd471568801667][^key-957dd06c546dda44a56f1d2f5ca16a8b]
+## 52. Appeals[^c-1eb75abcbbd537c53afd471568801667][^c-957dd06c546dda44a56f1d2f5ca16a8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1eb75abcbbd537c53afd471568801667]: Commencement: S. 52 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-1eb75abcbbd537c53afd471568801667]: Commencement: S. 52 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-957dd06c546dda44a56f1d2f5ca16a8b]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/32/section/52) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-957dd06c546dda44a56f1d2f5ca16a8b]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/32/section/52) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

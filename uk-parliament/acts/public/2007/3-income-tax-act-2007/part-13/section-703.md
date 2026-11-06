@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 703. Power to obtain information[^key-dc3f5cbea90f6476ca02168fec133e72]
+## 703. Power to obtain information[^c-dc3f5cbea90f6476ca02168fec133e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc3f5cbea90f6476ca02168fec133e72]: Textual amendment: S. 703 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/49)
+[^c-dc3f5cbea90f6476ca02168fec133e72]: Textual amendment: S. 703 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/49)

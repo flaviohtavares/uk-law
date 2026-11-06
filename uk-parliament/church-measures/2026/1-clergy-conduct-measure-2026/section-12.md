@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12. Panel of assessors: composition[^key-fd7320c53a91f9e67e3d1d124688f3ac]
+## 12. Panel of assessors: composition[^c-fd7320c53a91f9e67e3d1d124688f3ac]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd7320c53a91f9e67e3d1d124688f3ac]: Commencement: S. 12 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-fd7320c53a91f9e67e3d1d124688f3ac]: Commencement: S. 12 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

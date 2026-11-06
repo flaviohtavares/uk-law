@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12A. Duties of adoption agency when a child is to be placed in accordance with section 81(11) of the Social Services and Well-being (Wales) Act 2014[^key-3725af29fab880472e1e8e45ba3f3652]
+## 12A. Duties of adoption agency when a child is to be placed in accordance with section 81(11) of the Social Services and Well-being (Wales) Act 2014[^c-3725af29fab880472e1e8e45ba3f3652]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3725af29fab880472e1e8e45ba3f3652]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/12A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(4)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/4)
+[^c-3725af29fab880472e1e8e45ba3f3652]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/12A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(4)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/4)

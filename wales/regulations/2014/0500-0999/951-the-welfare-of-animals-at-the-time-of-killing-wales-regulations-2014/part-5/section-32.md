@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Offences by bodies corporate[^key-b152d9af2682b4a0e718a879c0c519c9]
+## 32. Offences by bodies corporate[^c-b152d9af2682b4a0e718a879c0c519c9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ that person, as well as the body corporate, is guilty of the offence.
 
 ## Annotations
 
-[^key-b152d9af2682b4a0e718a879c0c519c9]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2014/951/regulation/32) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b152d9af2682b4a0e718a879c0c519c9]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2014/951/regulation/32) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

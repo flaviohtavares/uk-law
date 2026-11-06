@@ -172,7 +172,7 @@ After section 5 insert—
 
 (1) Section 6 [^c23330801] is amended as follows.
 
-(2)[^key-5980ef89097d71f120087ee56a85b11d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5980ef89097d71f120087ee56a85b11d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit subsection (3).
 
@@ -195,7 +195,7 @@ After section 5 insert—
 - (a) after “a form” insert “ (the “variant form”) ”;
 - (b) after “registered” insert “ (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor) ”.
 
-(6)[^key-b1dfe4b1983df123abc83c249112c062] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b1dfe4b1983df123abc83c249112c062] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Rights conferred by registered trade mark
 
@@ -443,7 +443,7 @@ In section 46(2)—
 - (a) after “a form” insert “ (the “variant form”) ”;
 - (b) after “in which it was registered” insert “ (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor) ”.
 
-(7)[^key-36502abadde9955be13d8b32da77cc63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-36502abadde9955be13d8b32da77cc63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) After subsection (2F) insert—
 
@@ -484,7 +484,7 @@ In section 50(1) for “indicating” substitute “ which is described as such 
 
 In section 51 [^c23330861] omit “Council Regulation [(EC) No 207/2009](https://www.legislation.gov.uk/european/regulation/2009/0207) of 26 February 2009 on the European Union Trade Mark” and substitute “ Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union Trade Mark [^c23330871]. ”.
 
-### 27. Power to make provision in connection with European Union Trade Mark Regulation[^key-8075f9b97ba52fe2992d8491e1d1ff1a]
+### 27. Power to make provision in connection with European Union Trade Mark Regulation[^c-8075f9b97ba52fe2992d8491e1d1ff1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -855,11 +855,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23330801]: Marginal citation: [Section 6](https://www.legislation.gov.uk/uksi/2018/825/section/6) was amended by [S.I. 1999/1899](https://www.legislation.gov.uk/uksi/1999/1899), [regulation 13(1)](https://www.legislation.gov.uk/uksi/1999/1899/regulation/13/1), [S.I](https://www.legislation.gov.uk/uksi/1999/1899/section/I). 2004/2332, regulations 2 and 4 and [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), the Schedule, paragraph 1.
 
-[^key-5980ef89097d71f120087ee56a85b11d]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/7/2) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5980ef89097d71f120087ee56a85b11d]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/825/regulation/7/2) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23330811]: Marginal citation: [Section 6A](https://www.legislation.gov.uk/uksi/2018/825/section/6A) was inserted by [S.I. 2004/946](https://www.legislation.gov.uk/uksi/2004/946), [regulations 3](https://www.legislation.gov.uk/uksi/2004/946/regulation/3) and 4 and amended by [S.I. 2008/1067](https://www.legislation.gov.uk/uksi/2008/1067) regulations 3 and 4, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [article 4(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/1) and [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), the Schedule paragraph 1.
 
-[^key-b1dfe4b1983df123abc83c249112c062]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2018/825/regulation/8/6) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1dfe4b1983df123abc83c249112c062]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2018/825/regulation/8/6) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23330821]: Marginal citation: [Section 10](https://www.legislation.gov.uk/uksi/2018/825/section/10) was amended by [S.I. 2004/946](https://www.legislation.gov.uk/uksi/2004/946), [regulations 3](https://www.legislation.gov.uk/uksi/2004/946/regulation/3) and 7(2).
 
@@ -869,12 +869,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23330851]: Marginal citation: [Section 47](https://www.legislation.gov.uk/uksi/2018/825/section/47) was amended by [S.I. 2004/946](https://www.legislation.gov.uk/uksi/2004/946), [regulations 3](https://www.legislation.gov.uk/uksi/2004/946/regulation/3) and 6, [S.I. 2008/1067](https://www.legislation.gov.uk/uksi/2008/1067), [regulations 3](https://www.legislation.gov.uk/uksi/2008/1067/regulation/3) and 5, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) article 4(1) and [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), the Schedule paragraph 1.
 
-[^key-36502abadde9955be13d8b32da77cc63]: Textual amendment: [Reg. 23(7)](https://www.legislation.gov.uk/uksi/2018/825/regulation/23/7) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36502abadde9955be13d8b32da77cc63]: Textual amendment: [Reg. 23(7)](https://www.legislation.gov.uk/uksi/2018/825/regulation/23/7) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23330861]: Marginal citation: [Section 51](https://www.legislation.gov.uk/uksi/2018/825/section/51) was amended by [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), [regulations 2](https://www.legislation.gov.uk/uksi/2016/299/regulation/2) and 4.
 
 [^c23330871]: Marginal citation: OJ No. L 154/1, 16.6.2017, p.1.
 
-[^key-8075f9b97ba52fe2992d8491e1d1ff1a]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/825/regulation/27) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8075f9b97ba52fe2992d8491e1d1ff1a]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/825/regulation/27) revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23330901]: Marginal citation: Cmnd 6898.

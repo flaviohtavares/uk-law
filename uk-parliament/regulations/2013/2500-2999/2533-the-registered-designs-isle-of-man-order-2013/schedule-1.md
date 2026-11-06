@@ -22,17 +22,17 @@ summary: ''
 
 Article 3
 
-**1.**[^key-1d1ffa5d6d00016bcaaff0f74825333d] References to the Crown shall be construed as including the Crown in right of the Government of the Isle of Man.
+**1.**[^c-1d1ffa5d6d00016bcaaff0f74825333d] References to the Crown shall be construed as including the Crown in right of the Government of the Isle of Man.
 
-**2.**[^key-77e6edf3df65aceaee61b43a970a489c] (1) References to an Act of Parliament (including the 1949 Act and the 1988 Act) or to a provision of such an Act shall be construed as references to that Act or provision as it has effect in the Isle of Man.
+**2.**[^c-77e6edf3df65aceaee61b43a970a489c] (1) References to an Act of Parliament (including the 1949 Act and the 1988 Act) or to a provision of such an Act shall be construed as references to that Act or provision as it has effect in the Isle of Man.
 
 (2) References to an Act of Tynwald shall be construed as references to it as amended or replaced by or under any other such enactment.
 
-**3.**[^key-3588e0cb701f35fde2fb587c607e1eaa] References to a government department shall be construed as including references to a Department of the Government of the Isle of Man, and in relation to such a Department as if references to the Treasury were references to the Treasury of the Isle of Man.
+**3.**[^c-3588e0cb701f35fde2fb587c607e1eaa] References to a government department shall be construed as including references to a Department of the Government of the Isle of Man, and in relation to such a Department as if references to the Treasury were references to the Treasury of the Isle of Man.
 
-**4.**[^key-65a14acc67c96f071125fce3768cc413] Notwithstanding section 47, any reference to the United Kingdom which occurs in the expression “His Majesty’s Government in the United Kingdom” does not include the Isle of Man.
+**4.**[^c-65a14acc67c96f071125fce3768cc413] Notwithstanding section 47, any reference to the United Kingdom which occurs in the expression “His Majesty’s Government in the United Kingdom” does not include the Isle of Man.
 
-**5.**[^key-ff52e5f3a390bba7e3ffe97f51322394] For section 1 substitute—
+**5.**[^c-ff52e5f3a390bba7e3ffe97f51322394] For section 1 substitute—
 
 > **1. Registration of designs**
 >
@@ -62,7 +62,7 @@ Article 3
 >
 > (6) A disclosure falls within this subsection if—
 >
-> - (a) it could not reasonably have become known before the relevant date in the normal course of business to persons carrying on business in the geographical area comprising the United Kingdom and the European Economic Area[^key-da9fad8cd9e41426e6552ca99445256a] and specialising in the sector concerned;
+> - (a) it could not reasonably have become known before the relevant date in the normal course of business to persons carrying on business in the geographical area comprising the United Kingdom and the European Economic Area[^c-da9fad8cd9e41426e6552ca99445256a] and specialising in the sector concerned;
 > - (b) it was made to a person other than the designer, or any successor in title of his, under conditions of confidentiality (whether express or implied);
 > - (c) it was made by the designer, or any successor in title of his, during the period of 12 months immediately preceding the relevant date;
 > - (d) it was made by a person other than the designer, or any successor in title of his, during the period of 12 months immediately preceding the relevant date in consequence of information provided or other action taken by the designer or any successor in title of his; or
@@ -91,12 +91,12 @@ Article 3
 
 .
 
-**6.**[^key-48643b5e91889ca5ee78c43d85100e71] In section 2(2), omit—
+**6.**[^c-48643b5e91889ca5ee78c43d85100e71] In section 2(2), omit—
 
 - (a) the words from “, or the” to “any article,”; and
 - (b) the words from “or as”, in the second place, onwards.
 
-**7.**[^key-a5e4b83bc17590f117c8cd08a6ccdf7f] For section 3 substitute—
+**7.**[^c-a5e4b83bc17590f117c8cd08a6ccdf7f] For section 3 substitute—
 
 > **3. Applications for registration**
 >
@@ -164,15 +164,15 @@ Article 3
 
 .
 
-**8.**[^key-cc8e6de0f1588ad8f557228119515e08] Omit section 4.
+**8.**[^c-cc8e6de0f1588ad8f557228119515e08] Omit section 4.
 
-**9.**[^key-a38bf844f984668724f56f89620ce5c5] (1) In section 5(2) (provisions for secrecy of certain designs), omit paragraph (b) and the word “and” immediately before it.
+**9.**[^c-a38bf844f984668724f56f89620ce5c5] (1) In section 5(2) (provisions for secrecy of certain designs), omit paragraph (b) and the word “and” immediately before it.
 
 (2) In section 5(3)(b), omit the words from “, or any” to “above,”.
 
-**10.**[^key-cb594a8cc6d63aca1121c35b901da333] Omit section 6.
+**10.**[^c-cb594a8cc6d63aca1121c35b901da333] Omit section 6.
 
-**11.**[^key-fb4fa970c703fcebe2b1392c675f3e7e] For section 7 substitute—
+**11.**[^c-fb4fa970c703fcebe2b1392c675f3e7e] For section 7 substitute—
 
 > **7. Right given by registration**
 >
@@ -205,7 +205,7 @@ Article 3
 > - (a) the act of reproduction is compatible with fair trade practice and does not unduly prejudice the normal exploitation of the design; and
 > - (b) mention is made of the source.
 >
-> (4) The right in a registered design is not infringed by an act which relates to a product in which any design protected by the registration is incorporated or to which it is applied if the product has been put on the market in the United Kingdom or[^key-73e3b8c335bcbfef9966ac9153f258f5] the European Economic Area by the registered proprietor or with his consent.
+> (4) The right in a registered design is not infringed by an act which relates to a product in which any design protected by the registration is incorporated or to which it is applied if the product has been put on the market in the United Kingdom or[^c-73e3b8c335bcbfef9966ac9153f258f5] the European Economic Area by the registered proprietor or with his consent.
 >
 > (5) The right in a registered design of a component part which may be used for the purpose of the repair of a complex product so as to restore its original appearance is not infringed by the use for that purpose of any design protected by the registration.
 >
@@ -213,21 +213,21 @@ Article 3
 
 .
 
-**12.**[^key-1bf5233b1d00c8ca81d70bbfc72a792f] Omit section 8(5) and (6) (duration of right in registered design)[^f00004].
+**12.**[^c-1bf5233b1d00c8ca81d70bbfc72a792f] Omit section 8(5) and (6) (duration of right in registered design)[^f00004].
 
-**13.**[^key-3a140c7a92dcb04ef45b16426a21a15b] In section 8A(5) (restoration of lapsed right in design)[^f00005]―
+**13.**[^c-3a140c7a92dcb04ef45b16426a21a15b] In section 8A(5) (restoration of lapsed right in design)[^f00005]―
 
 - (a) for “proprietor took reasonable care” substitute “failure of the proprietor”;
 - (b) after “8(2) or (4)” insert “was unintentional”.
 
-**14.**[^key-14d99de5aaf9ca083dc644d3a698e02e] In section 8B(6) (effect of order for restoration of right)[^f00006]―
+**14.**[^c-14d99de5aaf9ca083dc644d3a698e02e] In section 8B(6) (effect of order for restoration of right)[^f00006]―
 
 - (a) for “an article” substitute “a product”; and
 - (b) for “the article” substitute “the product”.
 
-**15.**[^key-f223b6de9dbd9f08b2b817678ccf65a9] Omit sections 9 and 10.
+**15.**[^c-f223b6de9dbd9f08b2b817678ccf65a9] Omit sections 9 and 10.
 
-**16.**[^key-1853c5e41c7b4904da0f0413be169529] For section 11 substitute—
+**16.**[^c-1853c5e41c7b4904da0f0413be169529] For section 11 substitute—
 
 > **11. Cancellation of registration**
 >
@@ -244,7 +244,7 @@ Article 3
 > (1A) The registration of a design (“the later design”) may be declared invalid if it is not new or does not have individual character when compared to a design which—
 >
 > - (a) has been made available to the public on or after the relevant date; but
-> - (b) is protected as from a date prior to the relevant date by virtue of registration under this Act or an application for such registration.[^key-74cdc8458a7fa2dc75676b4e0ffffa78]
+> - (b) is protected as from a date prior to the relevant date by virtue of registration under this Act or an application for such registration.[^c-74cdc8458a7fa2dc75676b4e0ffffa78]
 >
 > (1B) In subsection (1A) “the relevant date” means the date on which the application for the registration of the later design was made or is treated by virtue of section 3B(2), (3) or (5) or 14(2) of this Act as having been made.
 >
@@ -264,7 +264,7 @@ Article 3
 >
 > (3) The relevant person may make an application to the registrar for a declaration of invalidity under section 11ZA(1A) of this Act.
 >
-> (4) In subsection (3) above “the relevant person” means, in relation to an earlier design protected by virtue of registration under this Act [^key-aef23c332a698a542235bcc2008a04c0]... or an application for such registration, the registered proprietor of the design [^key-55be5d4f2573682b507cded7ba3e0f2c]... or (as the case may be) the applicant.
+> (4) In subsection (3) above “the relevant person” means, in relation to an earlier design protected by virtue of registration under this Act [^c-aef23c332a698a542235bcc2008a04c0]... or an application for such registration, the registered proprietor of the design [^c-55be5d4f2573682b507cded7ba3e0f2c]... or (as the case may be) the applicant.
 >
 > (5) The person able to make an objection under subsection (2), (3) or (4) of section 11ZA of this Act may make an application to the registrar for a declaration of invalidity under that subsection.
 >
@@ -314,7 +314,7 @@ Article 3
 
 .
 
-**17.**[^key-ff632c87e5f69b3cd6d96eff1db96500] (1) In section 11A(1) and (7)[^f00007], for “Monopolies Commission” substitute “Competition Commission”.
+**17.**[^c-ff632c87e5f69b3cd6d96eff1db96500] (1) In section 11A(1) and (7)[^f00007], for “Monopolies Commission” substitute “Competition Commission”.
 
 (2) In section 11A(3), omit—
 
@@ -323,9 +323,9 @@ Article 3
 
 (3) Omit section 11A(4) and (5).
 
-**18.**[^key-48af06dfade0fe1bc9aaf6e68daf20bf] Omit section 11B.
+**18.**[^c-48af06dfade0fe1bc9aaf6e68daf20bf] Omit section 11B.
 
-**18A.**[^key-c113e693e814d8471d95064b64fd96f2] Before section 13, insert—
+**18A.**[^c-c113e693e814d8471d95064b64fd96f2] Before section 13, insert—
 
 > **12A. Application of the Act to certain registered Community designs**
 >
@@ -343,7 +343,7 @@ Article 3
 
 .
 
-**19.**[^key-9a13b24c8c0a2a0a93ed96100bd48b63] (1) In section 14(1), after “design” insert “or designs”.
+**19.**[^c-9a13b24c8c0a2a0a93ed96100bd48b63] (1) In section 14(1), after “design” insert “or designs”.
 
 (2) In section 14(2)[^f00008]―
 
@@ -353,14 +353,14 @@ Article 3
 
 (3) In section 14(3) for “section 3(4)” substitute “section 3B(2) or (3)”.
 
-**20.**[^key-985218fb36681c956682456e8c931c63] In section 15(2)―
+**20.**[^c-985218fb36681c956682456e8c931c63] In section 15(2)―
 
 - (a) in paragraph (a), for “articles” substitute “products”; and
 - (b) in paragraph (e)—
   - (i) for “articles” substitute “products”; and
   - (ii) after “applied” insert “or in which it is incorporated”.
 
-**21.**[^key-e1e59f73284f76056fc30efddd25d157] After section 15 insert―
+**21.**[^c-e1e59f73284f76056fc30efddd25d157] After section 15 insert―
 
 > **Property in and dealing with registered designs and applications**
 >
@@ -394,19 +394,19 @@ Article 3
 
 .
 
-**22.**[^key-e40034ec3fe62b5bf107801005b7b7cc] Omit section 16.
+**22.**[^c-e40034ec3fe62b5bf107801005b7b7cc] Omit section 16.
 
-**23.**[^key-9a899b5cfdff989d27d320f54f8ec4bc] (1) In section 17(8) (register of designs, etc) omit “Subject to subsection (11) below,”.
+**23.**[^c-9a899b5cfdff989d27d320f54f8ec4bc] (1) In section 17(8) (register of designs, etc) omit “Subject to subsection (11) below,”.
 
 (2) In section 17(10) omit “, subject to subsection (11) below,”.
 
-**24.**[^key-8e010f5f06ab947f990f60620110edb0] (1) In section 19(3A) (registration of assignments, etc)[^f00009], for “design right” (in each place) substitute “national unregistered design right”.
+**24.**[^c-8e010f5f06ab947f990f60620110edb0] (1) In section 19(3A) (registration of assignments, etc)[^f00009], for “design right” (in each place) substitute “national unregistered design right”.
 
 (2) In section 19(3B) for “design right” (in the first and third places) substitute “national unregistered design right”.
 
 (3) Omit section 19(4).
 
-**25.**[^key-ba9f438891554a955f12b7f6f6d6ba56] (1) In section 20(1) (rectification of register), for “any person aggrieved” substitute “the relevant person”.
+**25.**[^c-ba9f438891554a955f12b7f6f6d6ba56] (1) In section 20(1) (rectification of register), for “any person aggrieved” substitute “the relevant person”.
 
 (2) After section 20(1) insert—
 
@@ -417,7 +417,7 @@ Article 3
 > - (c) in the case of an application invoking any ground mentioned in section 11ZA(2), (3) or (4) of this Act, the person able to make the objection;
 > - (d) in any other case, any person aggrieved.
 >
-> (1B) In subsection (1A) above “the appropriate person” means, in relation to an earlier design protected by virtue of registration under this Act [^key-0c414b9d60927f1ff15789580021a7ec]... or an application for such registration, the registered proprietor of the design [^key-d7c1693588302f8b2f2174f7effb758d]... or (as the case may be) the applicant.
+> (1B) In subsection (1A) above “the appropriate person” means, in relation to an earlier design protected by virtue of registration under this Act [^c-0c414b9d60927f1ff15789580021a7ec]... or an application for such registration, the registered proprietor of the design [^c-d7c1693588302f8b2f2174f7effb758d]... or (as the case may be) the applicant.
 
 .
 
@@ -427,7 +427,7 @@ Article 3
 
 .
 
-**26.**[^key-089ec51babad273728f0f80728474df6] (1) In section 22(1) (inspection of registered designs)[^f00010]—
+**26.**[^c-089ec51babad273728f0f80728474df6] (1) In section 22(1) (inspection of registered designs)[^f00010]—
 
 - (a) for “issued” substitute “granted”;
 - (b) omit paragraph (b) and the word “and” immediately before it;
@@ -446,9 +446,9 @@ Article 3
 
 .
 
-**27.**[^key-8ac3845dfb2ad576367ccd309828340d] In section 23(a) (information as to existence of right in registered design)[^f00011], omit “and, if so, in respect of what articles”.
+**27.**[^c-8ac3845dfb2ad576367ccd309828340d] In section 23(a) (information as to existence of right in registered design)[^f00011], omit “and, if so, in respect of what articles”.
 
-**28.**[^key-647628829858e488702c5db3b45ee270] Immediately before section 25 insert―
+**28.**[^c-647628829858e488702c5db3b45ee270] Immediately before section 25 insert―
 
 > **24A. Action for infringement**
 >
@@ -527,11 +527,11 @@ Article 3
 > (5) References in this section to a person having an interest in an article or other thing include any person in whose favour an order could be made in respect of it under—
 >
 > - (a) this section;
-> - (b) section 19 of the Trade Marks Act 1994[^f00013][^key-8ee6deeab295858f13574e0d80596e97]...;
+> - (b) section 19 of the Trade Marks Act 1994[^f00013][^c-8ee6deeab295858f13574e0d80596e97]...;
 > - (c) section 113 of the Copyright Act 1991 (an Act of Tynwald)[^f00014];
-> - (d) section 19 of the Design Right Act 1991 (an Act of Tynwald)[^f00015]; or[^key-1c70ef01501c6e33b29ad2c02b2644c1]
-> - (e) section 26 of the Performers’ Protection Act 1996 (an Act of Tynwald)[^f00016]; [^key-9e57daf5a0d974620f92d2007f6840c6]...
-> - (f)[^key-f05e1304563e17f6f247e4a0abb63c09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d) section 19 of the Design Right Act 1991 (an Act of Tynwald)[^f00015]; or[^c-1c70ef01501c6e33b29ad2c02b2644c1]
+> - (e) section 26 of the Performers’ Protection Act 1996 (an Act of Tynwald)[^f00016]; [^c-9e57daf5a0d974620f92d2007f6840c6]...
+> - (f)[^c-f05e1304563e17f6f247e4a0abb63c09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **24F. Rights and remedies of exclusive licensee**
 >
@@ -572,15 +572,15 @@ Article 3
 >
 > (4) Where it is shown that an article is made to a design which is or has been a registered design, it shall be presumed until the contrary is proved that the article was made at a time when the right in the registered design subsisted.
 >
-> (5) Nothing in subsection (3) shall be construed as applying to an article which may be lawfully imported into the Isle of Man by virtue of anything which forms part of retained EU law as a result of section 3 or 4 of the European Union (Withdrawal) Act 2018[^key-5b2f919f4389275aea4bf5b89a16c14c].
+> (5) Nothing in subsection (3) shall be construed as applying to an article which may be lawfully imported into the Isle of Man by virtue of anything which forms part of retained EU law as a result of section 3 or 4 of the European Union (Withdrawal) Act 2018[^c-5b2f919f4389275aea4bf5b89a16c14c].
 
 .
 
-**29.**[^key-05f7df2027d5d61ff50751bd828cf264] (1) In section 25 (certificate of contested validity of registration) (1), after “the design is” insert “, to any extent,”.
+**29.**[^c-05f7df2027d5d61ff50751bd828cf264] (1) In section 25 (certificate of contested validity of registration) (1), after “the design is” insert “, to any extent,”.
 
 (2) In section 25(2), for “cancellation” substitute “invalidation”.
 
-**29A.**[^key-448e7b62ed1a0c1d77be46b015f4052b] After section 25 (certificate of contested validity of registration), insert—
+**29A.**[^c-448e7b62ed1a0c1d77be46b015f4052b] After section 25 (certificate of contested validity of registration), insert—
 
 > **25A. Privilege for communications with those on the special list of professional designs representatives**
 >
@@ -597,9 +597,9 @@ Article 3
 
 .
 
-**30.**[^key-bf7d991c49b19976af62019228d7a215] In section 26(2) (remedy for groundless threats of infringement proceedings), for “plaintiff” (in each place) substitute “claimant”.
+**30.**[^c-bf7d991c49b19976af62019228d7a215] In section 26(2) (remedy for groundless threats of infringement proceedings), for “plaintiff” (in each place) substitute “claimant”.
 
-**31.**[^key-154e891b4222e41c74dc6fe018c5b722] In section 27(1) (the court)[^f00018], immediately before the end insert—
+**31.**[^c-154e891b4222e41c74dc6fe018c5b722] In section 27(1) (the court)[^f00018], immediately before the end insert—
 
 > and
 >
@@ -607,7 +607,7 @@ Article 3
 
 .
 
-**32.**[^key-b545cb5dcd7324711ed0f2ad3dba8696] (1) In section 28(5) (the Appeal Tribunal), at the end insert—
+**32.**[^c-b545cb5dcd7324711ed0f2ad3dba8696] (1) In section 28(5) (the Appeal Tribunal), at the end insert—
 
 > - (c) in the Isle of Man, in the same way as an order of the court.
 
@@ -617,7 +617,7 @@ Article 3
 
 (3) In section 28(8) after “this Act” insert “including right of audience”.
 
-**33.**[^key-b5b5d92c9354f61afd21256182e96164] (1) In section 30(2) (costs and security for costs)[^f00019], immediately before the end insert—
+**33.**[^c-b5b5d92c9354f61afd21256182e96164] (1) In section 30(2) (costs and security for costs)[^f00019], immediately before the end insert—
 
 > and
 >
@@ -630,13 +630,13 @@ Article 3
 - (a) In paragraph (a), omit for “cancellation” substitute “invalidation”;
 - (b) omit paragraph (b).
 
-**34.**[^key-642a3822f92c649d6c1d14c189a94b0b] In sections 33(1) (offences under section 5)[^f00020]and 34(falsification of register)[^f00021]—
+**34.**[^c-642a3822f92c649d6c1d14c189a94b0b] In sections 33(1) (offences under section 5)[^f00020]and 34(falsification of register)[^f00021]—
 
 - (a) for “imprisonment” (in each place) substitute “custody”;
 - (b) in paragraph (a), for “indictment” substitute “information”;
 - (c) in paragraph (b), for “the statutory maximum” substitute “the prescribed sum within the meaning of section 32 of the Magistrates’ Courts Act 1980[^f00022]”.
 
-**35.**[^key-02a107caf60391d6bad24ae0a6a21316] (1) In section 35(1) (fine for falsely representing a design as registered)―
+**35.**[^c-02a107caf60391d6bad24ae0a6a21316] (1) In section 35(1) (fine for falsely representing a design as registered)―
 
 - (a) for “any article” substitute “, or incorporated in, any product”;
 - (b) omit “in respect of that article”;
@@ -661,9 +661,9 @@ Article 3
 
 .
 
-**35A.**[^key-ecd2b60976bd7cad09fdd444c778e5b8] In section 35ZA (offence of unauthorised copying etc of design in course of business), omit subsection (7).
+**35A.**[^c-ecd2b60976bd7cad09fdd444c778e5b8] In section 35ZA (offence of unauthorised copying etc of design in course of business), omit subsection (7).
 
-**36.**[^key-30e05e78394fb11203dfca5a3581c388] In section 36(1A) (general power of Secretary of State to make rules)[^f00023], after paragraph (a) insert—
+**36.**[^c-30e05e78394fb11203dfca5a3581c388] In section 36(1A) (general power of Secretary of State to make rules)[^f00023], after paragraph (a) insert—
 
 > - (ab) requiring applications for registration of designs to specify—
 >   - (i) the products to which the designs are intended to be applied or in which they are intended to be incorporated;
@@ -671,9 +671,9 @@ Article 3
 
 .
 
-**37.**[^key-71c4ebefb790229c8bc59237f039ae34] In section 37(2) (provisions as to rules and Orders), for “section fifteen or section sixteen of this Act” substitute “section 15 of this Act”.
+**37.**[^c-71c4ebefb790229c8bc59237f039ae34] In section 37(2) (provisions as to rules and Orders), for “section fifteen or section sixteen of this Act” substitute “section 15 of this Act”.
 
-**38.**[^key-b665363504e0cf963daf5d7757a73730] Immediately after section 37 insert―
+**38.**[^c-b665363504e0cf963daf5d7757a73730] Immediately after section 37 insert―
 
 > **37A. Use of electronic communications**
 >
@@ -728,17 +728,17 @@ Article 3
 
 .
 
-**39.**[^key-71671249ff992a4d812411d05cf46830] (1) Omit section 43(1) (savings).
+**39.**[^c-71671249ff992a4d812411d05cf46830] (1) Omit section 43(1) (savings).
 
 (2) In section 43(2), for “articles” substitute “products”.
 
-**40.**[^key-84daff3223f2b1b190ea5b1122ced408] (1) In section 44(1) (interpretation)—
+**40.**[^c-84daff3223f2b1b190ea5b1122ced408] (1) In section 44(1) (interpretation)—
 
 - (a) omit the definitions of “article”, “artistic work”, “corresponding design” and “set of articles”;
 - (b) in the definition of “design”, for “section 1(1)” substitute “section 1(2)”;
 - (c) at the appropriate places insert—
 
-  > - [^key-9e70e90d95172ea6529b1898bb1e298b]...
+  > - [^c-9e70e90d95172ea6529b1898bb1e298b]...
 
   ;
 
@@ -758,7 +758,7 @@ Article 3
 
   ;
 
-  > - [^key-9e70e90d95172ea6529b1898bb1e298b]...
+  > - [^c-9e70e90d95172ea6529b1898bb1e298b]...
 
   .
 
@@ -766,9 +766,9 @@ Article 3
 
 (3) In section 44(4) for “section fourteen and of section sixteen of this Act” substitute “section 14 of this Act”.
 
-**41.**[^key-751aa570e751df645317e9b4eca7d9f2] Omit section 48(5) (repeals, savings and transitional provisions).
+**41.**[^c-751aa570e751df645317e9b4eca7d9f2] Omit section 48(5) (repeals, savings and transitional provisions).
 
-**42.**[^key-520ec83f3fc7a21cc8e35e5e5b9d41d5] Immediately before Schedule 1 insert—
+**42.**[^c-520ec83f3fc7a21cc8e35e5e5b9d41d5] Immediately before Schedule 1 insert—
 
 > **SCHEDULE A1 — Grounds for refusal of registration in relation to emblems etc.**
 >
@@ -872,7 +872,7 @@ Article 3
 
 .
 
-**43.**[^key-533cd6c100fed5595066dc881bde55f0] (1) Schedule 1 (use of registered designs for the services of the Crown) is modified as follows.
+**43.**[^c-533cd6c100fed5595066dc881bde55f0] (1) Schedule 1 (use of registered designs for the services of the Crown) is modified as follows.
 
 (2) In paragraph 1(6) and (7), for “articles” (in each place) substitute “products”.
 
@@ -894,7 +894,7 @@ Article 3
 - (a) after “case” insert “and provided that the department would be the relevant person within the meaning of section 20 of this Act if they had made an application on the grounds for invalidity being raised”; and
 - (b) for “cancellation” substitute “invalidation”.
 
-**44.**[^key-0bcf3c2f9da4f9cf05f187cfbd109d1a] After Schedule 1, insert—
+**44.**[^c-0bcf3c2f9da4f9cf05f187cfbd109d1a] After Schedule 1, insert—
 
 > **SCHEDULE 1A — EUROPEAN COMMUNITY REGISTERED DESIGNS**
 >
@@ -1393,131 +1393,131 @@ Article 3
 
 ## Annotations
 
-[^key-1d1ffa5d6d00016bcaaff0f74825333d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-1d1ffa5d6d00016bcaaff0f74825333d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-77e6edf3df65aceaee61b43a970a489c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-77e6edf3df65aceaee61b43a970a489c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-3588e0cb701f35fde2fb587c607e1eaa]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-3588e0cb701f35fde2fb587c607e1eaa]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-65a14acc67c96f071125fce3768cc413]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/4) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-65a14acc67c96f071125fce3768cc413]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/4) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-ff52e5f3a390bba7e3ffe97f51322394]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-ff52e5f3a390bba7e3ffe97f51322394]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-da9fad8cd9e41426e6552ca99445256a]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/5) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da9fad8cd9e41426e6552ca99445256a]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/5) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48643b5e91889ca5ee78c43d85100e71]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/6) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-48643b5e91889ca5ee78c43d85100e71]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/6) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-a5e4b83bc17590f117c8cd08a6ccdf7f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-a5e4b83bc17590f117c8cd08a6ccdf7f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-cc8e6de0f1588ad8f557228119515e08]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/8) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-cc8e6de0f1588ad8f557228119515e08]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/8) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-a38bf844f984668724f56f89620ce5c5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-a38bf844f984668724f56f89620ce5c5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-cb594a8cc6d63aca1121c35b901da333]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-cb594a8cc6d63aca1121c35b901da333]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-fb4fa970c703fcebe2b1392c675f3e7e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-fb4fa970c703fcebe2b1392c675f3e7e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-73e3b8c335bcbfef9966ac9153f258f5]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/11) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73e3b8c335bcbfef9966ac9153f258f5]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/11) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1bf5233b1d00c8ca81d70bbfc72a792f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-1bf5233b1d00c8ca81d70bbfc72a792f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00004]: Footnote: Section 8 was substituted by section 269 of the 1988 Act.
 
-[^key-3a140c7a92dcb04ef45b16426a21a15b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/13) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-3a140c7a92dcb04ef45b16426a21a15b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/13) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00005]: Footnote: Section 8A was inserted by section 269(1) of the 1988 Act.
 
-[^key-14d99de5aaf9ca083dc644d3a698e02e]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-14d99de5aaf9ca083dc644d3a698e02e]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00006]: Footnote: Section 8B was inserted by section 269(1) of the 1988 Act.
 
-[^key-f223b6de9dbd9f08b2b817678ccf65a9]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/15) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-f223b6de9dbd9f08b2b817678ccf65a9]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/15) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-1853c5e41c7b4904da0f0413be169529]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-1853c5e41c7b4904da0f0413be169529]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-74cdc8458a7fa2dc75676b4e0ffffa78]: Textual amendment: Words in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74cdc8458a7fa2dc75676b4e0ffffa78]: Textual amendment: Words in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aef23c332a698a542235bcc2008a04c0]: Textual amendment: Words in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aef23c332a698a542235bcc2008a04c0]: Textual amendment: Words in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55be5d4f2573682b507cded7ba3e0f2c]: Textual amendment: Words in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55be5d4f2573682b507cded7ba3e0f2c]: Textual amendment: Words in [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/16) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff632c87e5f69b3cd6d96eff1db96500]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/17) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-ff632c87e5f69b3cd6d96eff1db96500]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/17) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00007]: Footnote: Sections 11A and 11B were inserted by section 270 of the 1988 Act.
 
-[^key-48af06dfade0fe1bc9aaf6e68daf20bf]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/18) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-48af06dfade0fe1bc9aaf6e68daf20bf]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/18) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-c113e693e814d8471d95064b64fd96f2]: Textual amendment: [Sch. 1 para. 18A](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/18A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c113e693e814d8471d95064b64fd96f2]: Textual amendment: [Sch. 1 para. 18A](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/18A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a13b24c8c0a2a0a93ed96100bd48b63]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-9a13b24c8c0a2a0a93ed96100bd48b63]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00008]: Footnote: Section 14(2) and (3) were substituted by paragraph 7 of Schedule 3 to the 1988 Act.
 
-[^key-985218fb36681c956682456e8c931c63]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-985218fb36681c956682456e8c931c63]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-e1e59f73284f76056fc30efddd25d157]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-e1e59f73284f76056fc30efddd25d157]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-e40034ec3fe62b5bf107801005b7b7cc]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/22) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-e40034ec3fe62b5bf107801005b7b7cc]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/22) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-9a899b5cfdff989d27d320f54f8ec4bc]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-9a899b5cfdff989d27d320f54f8ec4bc]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-8e010f5f06ab947f990f60620110edb0]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-8e010f5f06ab947f990f60620110edb0]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00009]: Footnote: Section 19(3A) and (3B) were inserted by paragraph 10 of Schedule 3 to the 1988 Act.
 
-[^key-ba9f438891554a955f12b7f6f6d6ba56]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/25) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-ba9f438891554a955f12b7f6f6d6ba56]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/25) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-0c414b9d60927f1ff15789580021a7ec]: Textual amendment: Words in [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/25/2) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c414b9d60927f1ff15789580021a7ec]: Textual amendment: Words in [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/25/2) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d7c1693588302f8b2f2174f7effb758d]: Textual amendment: Words in [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/25/2) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7c1693588302f8b2f2174f7effb758d]: Textual amendment: Words in [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/25/2) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-089ec51babad273728f0f80728474df6]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-089ec51babad273728f0f80728474df6]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00010]: Footnote: Section 22(1) was substituted by paragraph 12(2) of Schedule 3 to the 1988 Act.
 
-[^key-8ac3845dfb2ad576367ccd309828340d]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-8ac3845dfb2ad576367ccd309828340d]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00011]: Footnote: Section 23 was substituted by paragraph 13 of Schedule 3 to the 1988 Act.
 
-[^key-647628829858e488702c5db3b45ee270]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-647628829858e488702c5db3b45ee270]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00012]: Footnote: [1984 c.18](https://www.legislation.gov.uk/ukpga/1984/18) (Isle of Man).
 
 [^f00013]: Footnote: [1994 c.26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-8ee6deeab295858f13574e0d80596e97]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ee6deeab295858f13574e0d80596e97]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: [1991 c.8](https://www.legislation.gov.uk/ukpga/1991/8) (Isle of Man).
 
 [^f00015]: Footnote: [1991 c.9](https://www.legislation.gov.uk/ukpga/1991/9) (Isle of Man).
 
-[^key-1c70ef01501c6e33b29ad2c02b2644c1]: Textual amendment: Word in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c70ef01501c6e33b29ad2c02b2644c1]: Textual amendment: Word in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00016]: Footnote: [1996 c.12](https://www.legislation.gov.uk/ukpga/1996/12) (Isle of Man).
 
-[^key-9e57daf5a0d974620f92d2007f6840c6]: Textual amendment: Word in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e57daf5a0d974620f92d2007f6840c6]: Textual amendment: Word in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f05e1304563e17f6f247e4a0abb63c09]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(iv)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f05e1304563e17f6f247e4a0abb63c09]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(a)(iv)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b2f919f4389275aea4bf5b89a16c14c]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b2f919f4389275aea4bf5b89a16c14c]: Textual amendment: Words in [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/28) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05f7df2027d5d61ff50751bd828cf264]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-05f7df2027d5d61ff50751bd828cf264]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-448e7b62ed1a0c1d77be46b015f4052b]: Textual amendment: [Sch. 1 para. 29A](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/29A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-448e7b62ed1a0c1d77be46b015f4052b]: Textual amendment: [Sch. 1 para. 29A](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/29A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf7d991c49b19976af62019228d7a215]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/30) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-bf7d991c49b19976af62019228d7a215]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/30) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-154e891b4222e41c74dc6fe018c5b722]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-154e891b4222e41c74dc6fe018c5b722]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00018]: Footnote: Section 27 was substituted by paragraph 16 of Schedule 3 to the 1988 Act.
 
-[^key-b545cb5dcd7324711ed0f2ad3dba8696]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-b545cb5dcd7324711ed0f2ad3dba8696]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-b5b5d92c9354f61afd21256182e96164]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-b5b5d92c9354f61afd21256182e96164]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00019]: Footnote: Section 30 was substituted by paragraph 19 of Schedule 3 to the 1988 Act.
 
-[^key-642a3822f92c649d6c1d14c189a94b0b]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-642a3822f92c649d6c1d14c189a94b0b]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00020]: Footnote: Section 33(1) was amended by paragraph 22(2) of Schedule 3 to the 1988 Act.
 
@@ -1525,34 +1525,34 @@ Article 3
 
 [^f00022]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-02a107caf60391d6bad24ae0a6a21316]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/35) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-02a107caf60391d6bad24ae0a6a21316]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/35) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-ecd2b60976bd7cad09fdd444c778e5b8]: Textual amendment: [Sch. 1 para. 35A](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/35A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecd2b60976bd7cad09fdd444c778e5b8]: Textual amendment: [Sch. 1 para. 35A](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/35A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30e05e78394fb11203dfca5a3581c388]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/36) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-30e05e78394fb11203dfca5a3581c388]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/36) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00023]: Footnote: Section 36(1A) was inserted by paragraph 26(3) of Schedule 3 to the 1988 Act.
 
-[^key-71c4ebefb790229c8bc59237f039ae34]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-71c4ebefb790229c8bc59237f039ae34]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-b665363504e0cf963daf5d7757a73730]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/38) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-b665363504e0cf963daf5d7757a73730]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/38) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-71671249ff992a4d812411d05cf46830]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/39) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-71671249ff992a4d812411d05cf46830]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/39) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-84daff3223f2b1b190ea5b1122ced408]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/40) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-84daff3223f2b1b190ea5b1122ced408]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/40) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-9e70e90d95172ea6529b1898bb1e298b]: Textual amendment: Words in [Sch. 1 para. 40(1)(c)](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/40/1/c) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e70e90d95172ea6529b1898bb1e298b]: Textual amendment: Words in [Sch. 1 para. 40(1)(c)](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/40/1/c) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00025]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-751aa570e751df645317e9b4eca7d9f2]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/41) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-751aa570e751df645317e9b4eca7d9f2]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/41) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
-[^key-520ec83f3fc7a21cc8e35e5e5b9d41d5]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/42) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-520ec83f3fc7a21cc8e35e5e5b9d41d5]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/42) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00026]: Footnote: [1995 c.32](https://www.legislation.gov.uk/ukpga/1995/32).
 
-[^key-533cd6c100fed5595066dc881bde55f0]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/43) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-533cd6c100fed5595066dc881bde55f0]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/43) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00027]: Footnote: Paragraph 2A was inserted by section 271(1) of the 1988 Act.
 
-[^key-0bcf3c2f9da4f9cf05f187cfbd109d1a]: Textual amendment: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/44) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bcf3c2f9da4f9cf05f187cfbd109d1a]: Textual amendment: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1/paragraph/44) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

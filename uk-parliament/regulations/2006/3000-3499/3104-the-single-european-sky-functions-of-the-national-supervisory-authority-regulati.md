@@ -32,7 +32,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Single European Sky (Functions of the National Supervisory Authority) Regulations 2006 (revoked)[^key-8303b1decc1a533a40c89f31ce167dc2]
+The Single European Sky (Functions of the National Supervisory Authority) Regulations 2006 (revoked)[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 21st December 2006
 
-[^key-8303b1decc1a533a40c89f31ce167dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8303b1decc1a533a40c89f31ce167dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 1. Citation, commencement and interpretation[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 2.[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the competent authority[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 3. Designation of the competent authority[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of the CAA under the service provision Regulation[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 4. Functions of the CAA under the service provision Regulation[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recognition of certificates[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 5. Recognition of certificates[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Functions of the CAA under Article 6(3) of the airspace Regulation[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 6. Functions of the CAA under Article 6(3) of the airspace Regulation[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Duty of the CAA when performing functions[^key-8303b1decc1a533a40c89f31ce167dc2]
+## 7. Duty of the CAA when performing functions[^c-8303b1decc1a533a40c89f31ce167dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8303b1decc1a533a40c89f31ce167dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8303b1decc1a533a40c89f31ce167dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8303b1decc1a533a40c89f31ce167dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8303b1decc1a533a40c89f31ce167dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8303b1decc1a533a40c89f31ce167dc2]: Textual amendment: Regulations revoked (12.12.2013) by [The Single European Sky (National Supervisory Authority) Regulations 2013 (S.I. 2013/2620)](https://www.legislation.gov.uk/uksi/2013/2620), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1), [1(3)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/3)
+[^c-8303b1decc1a533a40c89f31ce167dc2]: Textual amendment: Regulations revoked (12.12.2013) by [The Single European Sky (National Supervisory Authority) Regulations 2013 (S.I. 2013/2620)](https://www.legislation.gov.uk/uksi/2013/2620), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1), [1(3)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/3)

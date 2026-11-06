@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Standard licences[^key-441a74dd123070ba69de7499def2dff2]
+## 166. Standard licences[^c-441a74dd123070ba69de7499def2dff2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 22 of the Consumer Credit Act 1974 (standard licences), after subsect
 
 ## Annotations
 
-[^key-441a74dd123070ba69de7499def2dff2]: Commencement: Art. 166 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-441a74dd123070ba69de7499def2dff2]: Commencement: Art. 166 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -38,7 +38,7 @@ summary: ''
 - (a) an amount equal to 30 times the limit for the time being imposed by Article 23(1)(a) of the Employment Rights Order[^c17261041] (maximum amount of a week's pay for basic award in unfair dismissal cases), and
 - (b) an amount equal to the limit for the time being imposed by Article 158(1) of that Order (maximum compensatory award in such cases);
 
-and, in a case to which paragraph (7) applies, shall not be less than £14,265[^key-e472e217d9aa9e929f3bde3a88868235].
+and, in a case to which paragraph (7) applies, shall not be less than £14,265[^c-e472e217d9aa9e929f3bde3a88868235].
 
 (7) This paragraph applies to a case where when the application is made the applicant has not been re-admitted to the union.
 
@@ -46,4 +46,4 @@ and, in a case to which paragraph (7) applies, shall not be less than £14,265[^
 
 [^c17261041]: Textual amendment: [1996 NI 16](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-e472e217d9aa9e929f3bde3a88868235]: Textual amendment: Sum in [art. 40(6)](https://www.legislation.gov.uk/nisi/1995/1980/article/40/6) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
+[^c-e472e217d9aa9e929f3bde3a88868235]: Textual amendment: Sum in [art. 40(6)](https://www.legislation.gov.uk/nisi/1995/1980/article/40/6) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))

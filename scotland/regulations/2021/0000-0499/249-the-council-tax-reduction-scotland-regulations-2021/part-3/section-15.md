@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Persons not entitled to council tax reduction: absentees[^key-97ac9cd59f4bdb82b4fd9ae7ad68e593]
+## 15. Persons not entitled to council tax reduction: absentees[^c-97ac9cd59f4bdb82b4fd9ae7ad68e593]
 
 *Extent: S*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-97ac9cd59f4bdb82b4fd9ae7ad68e593]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/249/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-97ac9cd59f4bdb82b4fd9ae7ad68e593]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/249/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00102]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
 

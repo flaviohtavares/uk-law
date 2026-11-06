@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Recording of interviews[^key-eef349664c192fd64c78de895d4f957a]
+## 25. Recording of interviews[^c-eef349664c192fd64c78de895d4f957a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eef349664c192fd64c78de895d4f957a]: Commencement: S. 25 in force at 10.7.2012 for E.W.S. by [S.I. 2012/1724](https://www.legislation.gov.uk/uksi/2012/1724), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1724/article/2/c)
+[^c-eef349664c192fd64c78de895d4f957a]: Commencement: S. 25 in force at 10.7.2012 for E.W.S. by [S.I. 2012/1724](https://www.legislation.gov.uk/uksi/2012/1724), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1724/article/2/c)

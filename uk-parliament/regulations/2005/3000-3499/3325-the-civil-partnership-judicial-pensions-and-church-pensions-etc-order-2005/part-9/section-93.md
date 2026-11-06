@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**93.**[^key-123442cbf24bbdb8cdecc6568ff7b78e] Schedule 2 amends subordinate legislation made pursuant to the Administration of Justice Act 1973.
+**93.**[^c-123442cbf24bbdb8cdecc6568ff7b78e] Schedule 2 amends subordinate legislation made pursuant to the Administration of Justice Act 1973.
 
 ## Annotations
 
-[^key-123442cbf24bbdb8cdecc6568ff7b78e]: Commencement: Art. 93 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-123442cbf24bbdb8cdecc6568ff7b78e]: Commencement: Art. 93 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

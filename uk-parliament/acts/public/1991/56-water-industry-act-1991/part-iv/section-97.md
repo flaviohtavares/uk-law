@@ -43,7 +43,7 @@ summary: ''
 - “**relevant area**”—
 
 - (a) in relation to a local authority, means the area of the authority and the whole of any new town or urban development area any part of which is situated within the area of the authority;
-- (aa) in relation to the Mayoral development corporation for any Mayoral development area, means that area;[^key-d05d311c825d14a7df8750fa4e5cf328]
+- (aa) in relation to the Mayoral development corporation for any Mayoral development area, means that area;[^c-d05d311c825d14a7df8750fa4e5cf328]
 - (b) in relation to the English new towns residuary body, means any new town in England;[^c20593361]
 - (ba) in relation to the Welsh new towns residuary body, means any new town in Wales;
 - (c) in relation to the development corporation for any new town, means that new town; and[^c13219151]
@@ -53,7 +53,7 @@ summary: ''
 - “**relevant authority**” means any of the following, that is to say—
 
 - (a) a local authority;
-- (aa) the Mayoral development corporation for any Mayoral development area;[^key-aae8117e4e8d730c4407bed968c3e1bd]
+- (aa) the Mayoral development corporation for any Mayoral development area;[^c-aae8117e4e8d730c4407bed968c3e1bd]
 - (b) the new towns residuary body[^c20593411], or a development corporation for a new town[^c13219171];
 - (c) the urban development corporation for any urban development area;
 
@@ -72,7 +72,7 @@ summary: ''
 
 [^c13219141]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64).
 
-[^key-d05d311c825d14a7df8750fa4e5cf328]: Textual amendment: Words in s. 97(5) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/41/a)
+[^c-d05d311c825d14a7df8750fa4e5cf328]: Textual amendment: Words in s. 97(5) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/41/a)
 
 [^c20593361]: Textual amendment: S. 97(5): paras. (b)(ba) in definition of "relevant area" substituted (1.12.2008) for para. (b) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/17/section/56), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 8 para. 57(a)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/57/a); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w) (with savings and transitional provisions in [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
@@ -80,7 +80,7 @@ summary: ''
 
 [^c13219161]: Textual amendment: S. 97(5): para. (d) in definition of “relevant area” repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-aae8117e4e8d730c4407bed968c3e1bd]: Textual amendment: Words in s. 97(5) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/41/b)
+[^c-aae8117e4e8d730c4407bed968c3e1bd]: Textual amendment: Words in s. 97(5) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/41/b)
 
 [^c20593411]: Textual amendment: S. 97(5): words in definition of "relevant authority" substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/17/section/56), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 8 para. 57(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/57/2); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w) (with savings and transitional provisions in [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 

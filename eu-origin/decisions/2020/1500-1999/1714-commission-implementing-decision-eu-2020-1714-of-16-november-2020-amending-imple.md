@@ -35,24 +35,24 @@ amending Implementing Decision (EU) 2019/1119 as regards the testing methodology
 
 (Text with EEA relevance) (revoked)
 
-[^key-03096a19848f339b4eb13281de64d173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03096a19848f339b4eb13281de64d173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Implementing Decision (EU) 2019/1119[^key-03096a19848f339b4eb13281de64d173]
+## Article 1. Amendments to Implementing Decision (EU) 2019/1119[^c-03096a19848f339b4eb13281de64d173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Decision (EU) 2020/1339[^key-03096a19848f339b4eb13281de64d173]
+## Article 2. Amendments to Implementing Decision (EU) 2020/1339[^c-03096a19848f339b4eb13281de64d173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-03096a19848f339b4eb13281de64d173]
+## Article 3. Entry into force[^c-03096a19848f339b4eb13281de64d173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03096a19848f339b4eb13281de64d173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03096a19848f339b4eb13281de64d173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03096a19848f339b4eb13281de64d173]: Textual amendment: Decision revoked (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/1361/regulation/13)
+[^c-03096a19848f339b4eb13281de64d173]: Textual amendment: Decision revoked (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/1361/regulation/13)

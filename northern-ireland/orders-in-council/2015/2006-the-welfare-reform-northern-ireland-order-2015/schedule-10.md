@@ -22,13 +22,13 @@ summary: ''
 
 Article 98
 
-### 1. General[^key-8a4c7c6cf266eddb6168cdaf0a765ea2]
+### 1. General[^c-8a4c7c6cf266eddb6168cdaf0a765ea2]
 
 (1) Regulations under Article 98 may in particular make provision for the purposes of, or in connection with, replacing disability living allowance with personal independence payment.
 
 (2) In this Schedule “**the appointed day**” means the day appointed for the coming into operation of Article 82.
 
-### 2. Claims before the appointed day[^key-c145a974d2b63da2a90831de143826e0]
+### 2. Claims before the appointed day[^c-c145a974d2b63da2a90831de143826e0]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -38,7 +38,7 @@ Article 98
 
 (2) The provision referred to in paragraph 1(1) includes provision, where a claim for personal independence payment is made (or treated as made) before the appointed day, for an award on the claim to be made in respect of a period before the appointed day (including provision as to the conditions of entitlement for, and the amount of, such an award).
 
-### 3. Claims on or after the appointed day[^key-e395f0b65d4db0dc856489eb417c153c]
+### 3. Claims on or after the appointed day[^c-e395f0b65d4db0dc856489eb417c153c]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -52,7 +52,7 @@ Article 98
 
 (2) The provision referred to in paragraph 1(1) includes provision, where a claim for personal independence payment is made (or treated as made) on or after the appointed day, for an award on the claim to be made in respect of a period before the appointed day (including provision as to the conditions of entitlement for, and the amount of, such an award).
 
-### 4. Awards of existing allowance[^key-ad1745a9c3465ee9dd548fff034e2490]
+### 4. Awards of existing allowance[^c-ad1745a9c3465ee9dd548fff034e2490]
 
 (1) The provision referred to in paragraph 1(1) includes—
 
@@ -68,7 +68,7 @@ Article 98
   - (ii) provision temporarily or permanently disapplying, or otherwise modifying, any requirement under this Part for a person to be assessed in respect of any of the questions mentioned in Article 85(1) or (2);
 - (d) provision as to the amount of such an award.
 
-### 5. Supplementary[^key-b14aa593ed6138160879554853b117c3]
+### 5. Supplementary[^c-b14aa593ed6138160879554853b117c3]
 
 Regulations under Article 98—
 
@@ -78,12 +78,12 @@ Regulations under Article 98—
 
 ## Annotations
 
-[^key-8a4c7c6cf266eddb6168cdaf0a765ea2]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/1) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
+[^c-8a4c7c6cf266eddb6168cdaf0a765ea2]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/1) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
 
-[^key-c145a974d2b63da2a90831de143826e0]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
+[^c-c145a974d2b63da2a90831de143826e0]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
 
-[^key-e395f0b65d4db0dc856489eb417c153c]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
+[^c-e395f0b65d4db0dc856489eb417c153c]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
 
-[^key-ad1745a9c3465ee9dd548fff034e2490]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/4) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
+[^c-ad1745a9c3465ee9dd548fff034e2490]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/4) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
 
-[^key-b14aa593ed6138160879554853b117c3]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/5) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)
+[^c-b14aa593ed6138160879554853b117c3]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/10/paragraph/5) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/i)

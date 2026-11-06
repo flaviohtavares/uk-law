@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Disposal of property[^key-0f06ee531d130ff86012651bffce1ebb][^key-5f2f5e53974ca6a21868280fa44687c4]
+## 8. Disposal of property[^c-0f06ee531d130ff86012651bffce1ebb][^c-5f2f5e53974ca6a21868280fa44687c4]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f06ee531d130ff86012651bffce1ebb]: Commencement: S. 8 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-0f06ee531d130ff86012651bffce1ebb]: Commencement: S. 8 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-5f2f5e53974ca6a21868280fa44687c4]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/28/section/8) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-5f2f5e53974ca6a21868280fa44687c4]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/28/section/8) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

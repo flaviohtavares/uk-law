@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27ZA. Application for approval to make declaration by conduct under regulation 27(1A)[^key-9a506ed97ee230f9d226152ae8ac7526]
+## 27ZA. Application for approval to make declaration by conduct under regulation 27(1A)[^c-9a506ed97ee230f9d226152ae8ac7526]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ the application will be treated as refused.
 
 ## Annotations
 
-[^key-9a506ed97ee230f9d226152ae8ac7526]: Textual amendment: [Reg. 27ZA](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27ZA) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/7)
+[^c-9a506ed97ee230f9d226152ae8ac7526]: Textual amendment: [Reg. 27ZA](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27ZA) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/7)

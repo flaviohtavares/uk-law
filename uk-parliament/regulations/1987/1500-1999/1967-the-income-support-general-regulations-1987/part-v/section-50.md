@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Calculation of capital outside the United Kingdom[^key-9245f614b3703e81d81baf46c4e08bef]
+## 50. Calculation of capital outside the United Kingdom[^c-9245f614b3703e81d81baf46c4e08bef]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ less, where there would be expenses attributable to sale, 10 per cent and the am
 
 ## Annotations
 
-[^key-9245f614b3703e81d81baf46c4e08bef]: Commencement: Reg. 50 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-9245f614b3703e81d81baf46c4e08bef]: Commencement: Reg. 50 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

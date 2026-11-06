@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Environmental features, environmental impacts and conservation measures[^key-1ea485abf7865ff9a918db3179869220][^key-b60fdda6cfeab9fad745fc770e7aa89d]
+## 61. Environmental features, environmental impacts and conservation measures[^c-1ea485abf7865ff9a918db3179869220][^c-b60fdda6cfeab9fad745fc770e7aa89d]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ over the period covered by the EDP or, if longer, the period for which the conse
 
 ## Annotations
 
-[^key-1ea485abf7865ff9a918db3179869220]: Commencement: S. 61 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-1ea485abf7865ff9a918db3179869220]: Commencement: S. 61 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-b60fdda6cfeab9fad745fc770e7aa89d]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/34/section/61) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/c)
+[^c-b60fdda6cfeab9fad745fc770e7aa89d]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/34/section/61) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/c)

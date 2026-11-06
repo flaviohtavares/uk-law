@@ -41,7 +41,7 @@ This Order may be cited as the Employment and Training (Amendment) (Northern Ire
 
 (2) In this Order—
 
-- “the Department” means the Department for Communities or the Department for the Economy[^key-3b5594031e3f29aaecabef2466effb30] ;
+- “the Department” means the Department for Communities or the Department for the Economy[^c-3b5594031e3f29aaecabef2466effb30] ;
 - “statutory provision” has the meaning assigned to it by section 1( *f*) of the Interpretation Act (Northern Ireland) 1954.
 
 ## 3. General functions of the Department as to employment and training for employment
@@ -74,7 +74,7 @@ In section 1 of the Employment and Training Act (Northern Ireland) 1950[^c547113
 
 .
 
-## 4. Status of trainees[^c21947871][^key-7d3c6bbec083cdf3057cd7f47e63a6e4]
+## 4. Status of trainees[^c21947871][^c-7d3c6bbec083cdf3057cd7f47e63a6e4]
 
 (1) Where it appears to the Department that provision has been made under section 1 of the Employment and Training Act (Northern Ireland) 1950 for persons using facilities provided in pursuance of arrangements under that section to receive payments from any person[^c21947851] in connection with their use of those facilities, the Department may by order provide—
 
@@ -97,12 +97,12 @@ In section 1 of the Employment and Training Act (Northern Ireland) 1950[^c547113
 
 [^c5471121]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3b5594031e3f29aaecabef2466effb30]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1988/1087/article/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 36](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/36) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-3b5594031e3f29aaecabef2466effb30]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1988/1087/article/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 36](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/36) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5471131]: Textual amendment: [1950 c. 29 (NI)](https://www.legislation.gov.uk/apni/1950/29)
 
 [^c21947871]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1988/1087/article/4) power extended by [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705), [art. 19B(3)](https://www.legislation.gov.uk/nisi/1995/2705/article/19B/3) (as inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 1(2)](https://www.legislation.gov.uk/nia/2010/13/section/1/2), [36(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/a))
 
-[^key-7d3c6bbec083cdf3057cd7f47e63a6e4]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1988/1087/article/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-7d3c6bbec083cdf3057cd7f47e63a6e4]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1988/1087/article/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21947851]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisi/1988/1087/article/4/1) substituted (3.8.2010) by [Employment Act (Northern Ireland) 2010 (c. 12)](https://www.legislation.gov.uk/nia/2010/12), [ss. 7(1)](https://www.legislation.gov.uk/nia/2010/12/section/7/1), [8(2)](https://www.legislation.gov.uk/nia/2010/12/section/8/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2010/12/schedule/1/paragraph/3)

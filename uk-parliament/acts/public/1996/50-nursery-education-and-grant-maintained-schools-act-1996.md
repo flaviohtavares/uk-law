@@ -31,33 +31,33 @@ Nursery Education and Grant-Maintained Schools Act 1996
 
 1996 c. 50
 
-[^key-217462ad78dbfd27161936fcb4bbcbf5]An Act to provide for the making of grants in respect of nursery education and to permit borrowing by grant-maintained schools.
+[^c-217462ad78dbfd27161936fcb4bbcbf5]An Act to provide for the making of grants in respect of nursery education and to permit borrowing by grant-maintained schools.
 
 \[24th July 1996\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-217462ad78dbfd27161936fcb4bbcbf5]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 ## Grants in respect of nursery education
 
-### 1. Arrangements for making grants.[^key-3c6c3c303cd79fe08a0edb7682dbed11]
+### 1. Arrangements for making grants.[^c-3c6c3c303cd79fe08a0edb7682dbed11]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Delegation.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+### 2. Delegation.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Requirements.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+### 3. Requirements.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Children with special educational needs.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+### 4. Children with special educational needs.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 6. Disclosure of information.
 
-Schedule 2 (nursery education grants: disclosure of information) shall have effect. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+Schedule 2 (nursery education grants: disclosure of information) shall have effect. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 ## Borrowing by grant-maintained schools
 
@@ -79,19 +79,19 @@ Schedule 2 (nursery education grants: disclosure of information) shall have effe
 
 ## Supplementary
 
-### 8. Orders and regulations.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+### 8. Orders and regulations.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Financial provisions.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+### 9. Financial provisions.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Consequential amendments and repeals.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+### 10. Consequential amendments and repeals.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
@@ -99,13 +99,13 @@ Schedule 2 (nursery education grants: disclosure of information) shall have effe
 
 ### 11. Citation, interpretation, commencement and extent.
 
-(1) This Act may be cited as the Nursery Education and Grant-Maintained Schools Act 1996. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(1) This Act may be cited as the Nursery Education and Grant-Maintained Schools Act 1996. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(2)[^c11187891] This Act shall be construed as one with the Education Act 1996. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(2)[^c11187891] This Act shall be construed as one with the Education Act 1996. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(3)[^c11187901] The provisions of this Act shall come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different provisions and for different purposes. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(3)[^c11187901] The provisions of this Act shall come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different provisions and for different purposes. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(4) Apart from section 6 and Schedule 2 and this section, this Act extends to England and Wales only. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(4) Apart from section 6 and Schedule 2 and this section, this Act extends to England and Wales only. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 *Extent: E+W*
 
@@ -117,11 +117,11 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### 1.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### 1.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### 2.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -129,15 +129,15 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### 3.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### 3.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,11 +145,11 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### 6.[^key-217462ad78dbfd27161936fcb4bbcbf5][^c11187971]
+#### 6.[^c-217462ad78dbfd27161936fcb4bbcbf5][^c11187971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -157,15 +157,15 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### 8.[^key-217462ad78dbfd27161936fcb4bbcbf5][^c11188001]
+#### 8.[^c-217462ad78dbfd27161936fcb4bbcbf5][^c11188001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### 9.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### 10.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,7 +173,7 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -181,7 +181,7 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,7 +189,7 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -197,7 +197,7 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^c11188121][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c11188121][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,15 +205,15 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### 15.[^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### 15.[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ....[^key-217462ad78dbfd27161936fcb4bbcbf5][^key-217462ad78dbfd27161936fcb4bbcbf5]
+#### ....[^c-217462ad78dbfd27161936fcb4bbcbf5][^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -221,7 +221,7 @@ SCHEDULES
 
 **No longer in force (ended 1998-10-01).**
 
-#### 18.[^key-217462ad78dbfd27161936fcb4bbcbf5][^c11188161]
+#### 18.[^c-217462ad78dbfd27161936fcb4bbcbf5][^c11188161]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,41 +231,41 @@ Section 6.
 
 *Extent: E+W+S+N.I.*
 
-**1.** (1) This Schedule applies to— *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+**1.** (1) This Schedule applies to— *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-- (a) civil servants in *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5] the Department for Education and Skills[^c15968841] *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5] , civil servants in the Welsh Office and any other persons who carry out the administrative work of *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5] the Department for Education and Skills *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5] or the Welsh Office, and *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (b) any person exercising any function by virtue of section 2 and any persons who are employed by (or are directors or other officers of) any such person or who carry out the administrative work of any such person. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+- (a) civil servants in *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5] the Department for Education and Skills[^c15968841] *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5] , civil servants in the Welsh Office and any other persons who carry out the administrative work of *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5] the Department for Education and Skills *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5] or the Welsh Office, and *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (b) any person exercising any function by virtue of section 2 and any persons who are employed by (or are directors or other officers of) any such person or who carry out the administrative work of any such person. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(2) In this Schedule “ *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]**social security information *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]**” means information of a prescribed description which was obtained by reason of the exercise by the Secretary of State of any of his functions under the *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5] [^c11188181]Social Security Contributions and Benefits Act 1992 or the *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5] [^c11188191]Social Security Administration Act 1992. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(2) In this Schedule “ *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]**social security information *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]**” means information of a prescribed description which was obtained by reason of the exercise by the Secretary of State of any of his functions under the *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5] [^c11188181]Social Security Contributions and Benefits Act 1992 or the *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5] [^c11188191]Social Security Administration Act 1992. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-**2.** The Secretary of State may supply to any person to whom this Schedule applies any such social security information as the person may require for or in connection with the exercise of any function relating to grants in respect of nursery education. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+**2.** The Secretary of State may supply to any person to whom this Schedule applies any such social security information as the person may require for or in connection with the exercise of any function relating to grants in respect of nursery education. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-**3.** (1) A person who is or has been a person to whom this Schedule applies is guilty of an offence if he discloses without lawful authority any social security information relating to a particular person which he acquired while acting as a person to whom this Schedule applies. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+**3.** (1) A person who is or has been a person to whom this Schedule applies is guilty of an offence if he discloses without lawful authority any social security information relating to a particular person which he acquired while acting as a person to whom this Schedule applies. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(2) It is not an offence under this paragraph— *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(2) It is not an offence under this paragraph— *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-- (a) to disclose information in the form of a summary or collection of information so framed as not to enable social security information relating to any particular person to be ascertained from it, or *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (b) to disclose social security information which has previously been disclosed to the public with lawful authority. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+- (a) to disclose information in the form of a summary or collection of information so framed as not to enable social security information relating to any particular person to be ascertained from it, or *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (b) to disclose social security information which has previously been disclosed to the public with lawful authority. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(3) It is a defence for a person charged with an offence under this paragraph to prove that at the time of the alleged offence— *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(3) It is a defence for a person charged with an offence under this paragraph to prove that at the time of the alleged offence— *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-- (a) he believed that he was making the disclosure in question with lawful authority and had no reasonable cause to believe otherwise, or *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (b) he believed that the information in question had previously been disclosed to the public with lawful authority and had no reasonable cause to believe otherwise. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+- (a) he believed that he was making the disclosure in question with lawful authority and had no reasonable cause to believe otherwise, or *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (b) he believed that the information in question had previously been disclosed to the public with lawful authority and had no reasonable cause to believe otherwise. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(4) For the purposes of this paragraph a disclosure is to be regarded as made with lawful authority if, and only if, it is made— *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(4) For the purposes of this paragraph a disclosure is to be regarded as made with lawful authority if, and only if, it is made— *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-- (a) by a person in accordance with his official duty as a civil servant, *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (b) by any other person either— *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-  - (i) for the purposes of the function in the exercise of which he holds the information and without contravening any restriction duly imposed by the Secretary of State or by any person authorised by the Secretary of State, or *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-  - (ii (affected by repeal, see note))[^key-217462ad78dbfd27161936fcb4bbcbf5] to the Secretary of State or in accordance with an authorisation duly given by the Secretary of State or by any person authorised by the Secretary of State, *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (c) in accordance with any enactment or order of a court, *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (d) for the purposes of instituting, or otherwise for the purposes of, any proceedings before a court, or *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (e) with the consent of the person to whom the information relates or of any person authorised to act on his behalf. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+- (a) by a person in accordance with his official duty as a civil servant, *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (b) by any other person either— *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+  - (i) for the purposes of the function in the exercise of which he holds the information and without contravening any restriction duly imposed by the Secretary of State or by any person authorised by the Secretary of State, or *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+  - (ii (affected by repeal, see note))[^c-217462ad78dbfd27161936fcb4bbcbf5] to the Secretary of State or in accordance with an authorisation duly given by the Secretary of State or by any person authorised by the Secretary of State, *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (c) in accordance with any enactment or order of a court, *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (d) for the purposes of instituting, or otherwise for the purposes of, any proceedings before a court, or *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (e) with the consent of the person to whom the information relates or of any person authorised to act on his behalf. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-(5) A person guilty of an offence under this paragraph is liable— *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+(5) A person guilty of an offence under this paragraph is liable— *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both, or *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
-- (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both. *(affected by repeal, see note)*[^key-217462ad78dbfd27161936fcb4bbcbf5]
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both, or *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
+- (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both. *(affected by repeal, see note)*[^c-217462ad78dbfd27161936fcb4bbcbf5]
 
 ## SCHEDULE 3 — Consequential amendments
 
@@ -327,7 +327,7 @@ Section 10.
 
 Section 10.
 
-| [^key-217462ad78dbfd27161936fcb4bbcbf5]... |  |  |
+| [^c-217462ad78dbfd27161936fcb4bbcbf5]... |  |  |
 | --- | --- | --- |
 |  |  |  |
 |  |  |  |
@@ -335,9 +335,9 @@ Section 10.
 
 ## Annotations
 
-[^key-217462ad78dbfd27161936fcb4bbcbf5]: Textual amendment: Act repealed (1.4.2003 for E. and 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-217462ad78dbfd27161936fcb4bbcbf5]: Textual amendment: Act repealed (1.4.2003 for E. and 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
-[^key-3c6c3c303cd79fe08a0edb7682dbed11]: Textual amendment: S. 1 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 18(1)(f)](https://www.legislation.gov.uk/ukpga/2002/32/section/18/1/f), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-3c6c3c303cd79fe08a0edb7682dbed11]: Textual amendment: S. 1 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 18(1)(f)](https://www.legislation.gov.uk/ukpga/2002/32/section/18/1/f), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c11187841]: Textual amendment: S. 5 repealed (1.10.1998) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/3), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2212/article/2/1), [Sch.1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I).
 

@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC HEALTH
 
-The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 Made
 
@@ -41,94 +41,94 @@ Coming into operation
 
 5th April 2004
 
-[^key-cad720a680b7721e0cc3b8bd0729ee73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cad720a680b7721e0cc3b8bd0729ee73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 1. Citation, commencement and interpretation[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 2. Amendment of the principal Regulations[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part I (General)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 3. Amendment of Part I (General)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part II (Producers and Obligations)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 4. Amendment of Part II (Producers and Obligations)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part III (Registration)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 5. Amendment of Part III (Registration)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Part IV (Registration of Schemes – Appeals)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 6. Amendment of Part IV (Registration of Schemes – Appeals)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Insertion of new Part IVA (Accreditation of reprocessors and exporters)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 7. Insertion of new Part IVA (Accreditation of reprocessors and exporters)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Part V (Records, Refunds and Certificate)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 8. Amendment of Part V (Records, Refunds and Certificate)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Part VI (Powers and Duties of the Department)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 9. Amendment of Part VI (Powers and Duties of the Department)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Part X (Offences)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 10. Amendment of Part X (Offences)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment to Schedule 1 (Producers)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 11. Amendment to Schedule 1 (Producers)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment to Schedule 2 (Recovery and Recycling Obligations)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 12. Amendment to Schedule 2 (Recovery and Recycling Obligations)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Insertion of new Schedule 2A (Conditions of accreditation)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 13. Insertion of new Schedule 2A (Conditions of accreditation)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of Schedule 3 (Definition of Waste)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 14. Amendment of Schedule 3 (Definition of Waste)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of Schedule 4 (Information)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 15. Amendment of Schedule 4 (Information)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of Schedule 5 (Procedure on appeals)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 16. Amendment of Schedule 5 (Procedure on appeals)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of Schedule 6 (Information in certificate of compliance)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 17. Amendment of Schedule 6 (Information in certificate of compliance)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of Schedule 7 (Public Register)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 18. Amendment of Schedule 7 (Public Register)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of Schedule 10 (Mid-year Changes)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 19. Amendment of Schedule 10 (Mid-year Changes)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of Schedule 11 (United Kingdom’s Recovery and Recycling Targets)[^key-cad720a680b7721e0cc3b8bd0729ee73]
+## 20. Amendment of Schedule 11 (United Kingdom’s Recovery and Recycling Targets)[^c-cad720a680b7721e0cc3b8bd0729ee73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cad720a680b7721e0cc3b8bd0729ee73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cad720a680b7721e0cc3b8bd0729ee73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cad720a680b7721e0cc3b8bd0729ee73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cad720a680b7721e0cc3b8bd0729ee73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cad720a680b7721e0cc3b8bd0729ee73]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/106) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/356/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12)
+[^c-cad720a680b7721e0cc3b8bd0729ee73]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/106) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/356/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12)

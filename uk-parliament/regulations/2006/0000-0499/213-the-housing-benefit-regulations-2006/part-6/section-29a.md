@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29A. Date on which income consisting of earnings from employment as an employed earner are taken into account[^key-a621124f8e63d7a2333e3afd32b9a23c]
+## 29A. Date on which income consisting of earnings from employment as an employed earner are taken into account[^c-a621124f8e63d7a2333e3afd32b9a23c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a621124f8e63d7a2333e3afd32b9a23c]: Textual amendment: Reg. 29A inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/6/regulation/2/3)
+[^c-a621124f8e63d7a2333e3afd32b9a23c]: Textual amendment: Reg. 29A inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/6/regulation/2/3)

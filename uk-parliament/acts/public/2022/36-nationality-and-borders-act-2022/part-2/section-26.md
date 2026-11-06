@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Late provision of evidence in asylum or human rights claim: weight[^key-29fbeeba7a1548ef5c73f3c03782c26e]
+## 26. Late provision of evidence in asylum or human rights claim: weight[^c-29fbeeba7a1548ef5c73f3c03782c26e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29fbeeba7a1548ef5c73f3c03782c26e]: Commencement: S. 26 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-29fbeeba7a1548ef5c73f3c03782c26e]: Commencement: S. 26 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

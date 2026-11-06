@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Alternative test to the income requirement: England and Wales and Northern Ireland[^key-07c03ddeb5ac5f9363c2056de1466b72][^key-0b319fccd9aba1d7180d5b7dc3e0ad62]
+## 47. Alternative test to the income requirement: England and Wales and Northern Ireland[^c-07c03ddeb5ac5f9363c2056de1466b72][^c-0b319fccd9aba1d7180d5b7dc3e0ad62]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ In section 362B(3) of the Proceeds of Crime Act 2002 (income requirement for mak
 
 ## Annotations
 
-[^key-07c03ddeb5ac5f9363c2056de1466b72]: Commencement: S. 47 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-07c03ddeb5ac5f9363c2056de1466b72]: Commencement: S. 47 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-0b319fccd9aba1d7180d5b7dc3e0ad62]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/10/section/47) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-0b319fccd9aba1d7180d5b7dc3e0ad62]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/10/section/47) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)

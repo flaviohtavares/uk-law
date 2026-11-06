@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80C. Paid office or employment to which disqualification applies[^key-cfb2c9d5e3292f9da2c8d4c0bea34abc]
+## 80C. Paid office or employment to which disqualification applies[^c-cfb2c9d5e3292f9da2c8d4c0bea34abc]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ section 80B applies in respect of the person's membership of local authority B.
 
 ## Annotations
 
-[^key-cfb2c9d5e3292f9da2c8d4c0bea34abc]: Textual amendment: [Ss. 80A-80C](https://www.legislation.gov.uk/ukpga/1972/70/section/80A) inserted (17.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 20](https://www.legislation.gov.uk/asc/2021/1/section/20), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/1249/article/4))
+[^c-cfb2c9d5e3292f9da2c8d4c0bea34abc]: Textual amendment: [Ss. 80A-80C](https://www.legislation.gov.uk/ukpga/1972/70/section/80A) inserted (17.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 20](https://www.legislation.gov.uk/asc/2021/1/section/20), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/1249/article/4))
 
 [^M_F_a3084678-349e-4c08-f264-af1cf8e831fc]: Textual amendment: Word in s. 80C(1)(c) omitted (25.3.2022) by virtue of [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/uksi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/372/regulation/1/2), [50(a)](https://www.legislation.gov.uk/uksi/2022/372/regulation/50/a)
 

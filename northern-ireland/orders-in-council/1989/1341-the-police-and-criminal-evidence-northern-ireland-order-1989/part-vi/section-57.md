@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Right to have someone informed when arrested[^key-b6368a3b8ecce4567df40b8fbeabf59e][^key-ab4594ec2f2979f44f6149e7552565df]
+## 57. Right to have someone informed when arrested[^c-b6368a3b8ecce4567df40b8fbeabf59e][^c-ab4594ec2f2979f44f6149e7552565df]
 
 *Extent: N.I.*
 
@@ -55,13 +55,13 @@ summary: ''
 
 (9)[^c20424801][^c21390701] There may be no further delay in permitting the exercise of the right conferred by paragraph (1) once the reason for authorising delay ceases to subsist.
 
-(10) Nothing in this Article applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023,[^key-bee2112ceac8f164c99927cfb4b5349a] or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-e9cdff1e8d25a4c033ed9c65c51f26a2].
+(10) Nothing in this Article applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023,[^c-bee2112ceac8f164c99927cfb4b5349a] or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-e9cdff1e8d25a4c033ed9c65c51f26a2].
 
 ## Annotations
 
-[^key-b6368a3b8ecce4567df40b8fbeabf59e]: Modification: Art. 57 applied (with modifications) by 1994 c. 33, s. 137D(4)(b) Sch. 7B Pt. 3 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in operation) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
+[^c-b6368a3b8ecce4567df40b8fbeabf59e]: Modification: Art. 57 applied (with modifications) by 1994 c. 33, s. 137D(4)(b) Sch. 7B Pt. 3 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in operation) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
 
-[^key-ab4594ec2f2979f44f6149e7552565df]: Modification: [Art. 57](https://www.legislation.gov.uk/nisi/1989/1341/article/57) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-ab4594ec2f2979f44f6149e7552565df]: Modification: [Art. 57](https://www.legislation.gov.uk/nisi/1989/1341/article/57) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20424711]: Textual amendment: mod. by SI 2003/3107
 
@@ -81,6 +81,6 @@ summary: ''
 
 [^c20424781]: Textual amendment: Words in art. 57(5A)(a) substituted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [27(4)](https://www.legislation.gov.uk/nisi/2007/288/article/27/4)
 
-[^key-bee2112ceac8f164c99927cfb4b5349a]: Textual amendment: Words in [art. 57(10)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/10) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/5/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-bee2112ceac8f164c99927cfb4b5349a]: Textual amendment: Words in [art. 57(10)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/10) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/5/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
 
-[^key-e9cdff1e8d25a4c033ed9c65c51f26a2]: Textual amendment: Words in art. 57(10) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/3); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-e9cdff1e8d25a4c033ed9c65c51f26a2]: Textual amendment: Words in art. 57(10) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 20(3)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/3); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)

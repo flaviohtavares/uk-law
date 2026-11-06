@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. The renewal of a pub arrangement[^key-e4aa0df9285715584e3dc6d50ef9c803]
+## 26. The renewal of a pub arrangement[^c-e4aa0df9285715584e3dc6d50ef9c803]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4aa0df9285715584e3dc6d50ef9c803]: Commencement: Reg. 26 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-e4aa0df9285715584e3dc6d50ef9c803]: Commencement: Reg. 26 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

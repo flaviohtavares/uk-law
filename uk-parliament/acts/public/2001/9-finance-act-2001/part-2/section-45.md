@@ -27,7 +27,7 @@ summary: ''
 (3) Where by reason of any conduct—
 
 - (a) a person is convicted of an offence (whether under this Act or otherwise), or
-- (b) a person is assessed to a penalty under paragraph 7 of Schedule 6 to this Act or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^key-ec9c8c1d9727b162a369e1ef66f2c195],
+- (b) a person is assessed to a penalty under paragraph 7 of Schedule 6 to this Act or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^c-ec9c8c1d9727b162a369e1ef66f2c195],
 
 that person shall not by reason of that conduct be liable also to a penalty under any regulations under this Part.
 
@@ -43,4 +43,4 @@ that person shall not by reason of that conduct be liable also to a penalty unde
 
 ## Annotations
 
-[^key-ec9c8c1d9727b162a369e1ef66f2c195]: Textual amendment: Words in s. 45(3) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/23)
+[^c-ec9c8c1d9727b162a369e1ef66f2c195]: Textual amendment: Words in s. 45(3) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/23)

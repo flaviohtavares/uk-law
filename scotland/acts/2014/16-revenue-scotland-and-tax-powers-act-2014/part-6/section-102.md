@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Conditions for making Revenue Scotland assessments[^key-10a26d178643aeb342dbd0287e19d051]
+## 102. Conditions for making Revenue Scotland assessments[^c-10a26d178643aeb342dbd0287e19d051]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10a26d178643aeb342dbd0287e19d051]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2014/16/section/102) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-10a26d178643aeb342dbd0287e19d051]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2014/16/section/102) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

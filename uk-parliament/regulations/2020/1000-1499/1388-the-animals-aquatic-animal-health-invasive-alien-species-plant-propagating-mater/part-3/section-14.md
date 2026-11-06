@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Commission Implementing [Decision 2014/709/EU](https://www.legislation.gov.uk/european/decision/2014/0709)[^key-8bb33f97a033660359488e1d67c19b11]
+## 14. Commission Implementing [Decision 2014/709/EU](https://www.legislation.gov.uk/european/decision/2014/0709)[^c-8bb33f97a033660359488e1d67c19b11]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb33f97a033660359488e1d67c19b11]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-8bb33f97a033660359488e1d67c19b11]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

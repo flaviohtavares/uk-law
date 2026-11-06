@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Temporary alteration, diversion, prohibition and restriction of the use of streets[^key-520d7919d0b04717c64ee1d0b9435130]
+## 18. Temporary alteration, diversion, prohibition and restriction of the use of streets[^c-520d7919d0b04717c64ee1d0b9435130]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-520d7919d0b04717c64ee1d0b9435130]: Commencement: Art. 18 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-520d7919d0b04717c64ee1d0b9435130]: Commencement: Art. 18 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

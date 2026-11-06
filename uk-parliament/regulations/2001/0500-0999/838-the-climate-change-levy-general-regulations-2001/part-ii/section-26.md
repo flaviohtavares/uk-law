@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Corrections to CCL returns[^key-a7292f10a3463b1de7e67ff34f7975e9]
+## 26. Corrections to CCL returns[^c-a7292f10a3463b1de7e67ff34f7975e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ if he delivers that information in writing to the Commissioners, or acts in acco
 
 ## Annotations
 
-[^key-a7292f10a3463b1de7e67ff34f7975e9]: Commencement: Reg. 26 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-a7292f10a3463b1de7e67ff34f7975e9]: Commencement: Reg. 26 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

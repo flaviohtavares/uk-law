@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Caseins and Caseinates (Scotland) Regulations 2016 (revoked)[^key-a05587a9edfa11e957a06b5658771aa6]
+The Caseins and Caseinates (Scotland) Regulations 2016 (revoked)[^c-a05587a9edfa11e957a06b5658771aa6]
 
 Made
 
@@ -46,57 +46,57 @@ Coming into force
 
 22nd December 2016
 
-[^key-a05587a9edfa11e957a06b5658771aa6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05587a9edfa11e957a06b5658771aa6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-a05587a9edfa11e957a06b5658771aa6]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-a05587a9edfa11e957a06b5658771aa6]
+## 1. Citation, commencement and extent[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-a05587a9edfa11e957a06b5658771aa6]
+## 2. Interpretation[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restriction on the marketing and use of edible acid caseins, edible rennet caseins and edible caseinates[^key-a05587a9edfa11e957a06b5658771aa6]
+## 3. Scope[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling of edible acid caseins, edible rennet caseins and edible caseinates[^key-a05587a9edfa11e957a06b5658771aa6]
+## 4. Restriction on the marketing and use of edible acid caseins, edible rennet caseins and edible caseinates[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement[^key-a05587a9edfa11e957a06b5658771aa6]
+## 5. Labelling of edible acid caseins, edible rennet caseins and edible caseinates[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences and penalties[^key-a05587a9edfa11e957a06b5658771aa6]
+## 6. Enforcement[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Application of provisions of the Act[^key-a05587a9edfa11e957a06b5658771aa6]
+## 7. Offences and penalties[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-a05587a9edfa11e957a06b5658771aa6]
+## 8. Application of provisions of the Act[^c-a05587a9edfa11e957a06b5658771aa6]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Revocations[^c-a05587a9edfa11e957a06b5658771aa6]
 
 **Not yet in force.**
 
@@ -104,53 +104,53 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-a05587a9edfa11e957a06b5658771aa6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05587a9edfa11e957a06b5658771aa6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## SCHEDULE 1 — Standards applicable to edible acid caseins[^key-a05587a9edfa11e957a06b5658771aa6]
+## SCHEDULE 1 — Standards applicable to edible acid caseins[^c-a05587a9edfa11e957a06b5658771aa6]
 
 Regulations 4 and 5
 
-**1.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Standards applicable to edible rennet caseins[^key-a05587a9edfa11e957a06b5658771aa6]
-
-Regulations 4 and 5
-
-**1.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 3 — Standards applicable to edible caseinates[^key-a05587a9edfa11e957a06b5658771aa6]
+## SCHEDULE 2 — Standards applicable to edible rennet caseins[^c-a05587a9edfa11e957a06b5658771aa6]
 
 Regulations 4 and 5
 
-**1.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Modification of provisions of the Act[^key-a05587a9edfa11e957a06b5658771aa6]
+## SCHEDULE 3 — Standards applicable to edible caseinates[^c-a05587a9edfa11e957a06b5658771aa6]
+
+Regulations 4 and 5
+
+**1.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-a05587a9edfa11e957a06b5658771aa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Modification of provisions of the Act[^c-a05587a9edfa11e957a06b5658771aa6]
 
 Regulation 8
 
@@ -158,8 +158,8 @@ Regulation 8
 
 **May not be in force at this date. Check the source.**
 
-[^key-a05587a9edfa11e957a06b5658771aa6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05587a9edfa11e957a06b5658771aa6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a05587a9edfa11e957a06b5658771aa6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/383) revoked (21.12.2016) by [The Caseins and Caseinates (Scotland) (No. 2) Regulations 2016 (S.S.I. 2016/422)](https://www.legislation.gov.uk/ssi/2016/422), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/2), [9(c)](https://www.legislation.gov.uk/ssi/2016/422/regulation/9/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/422/regulation/3))
+[^c-a05587a9edfa11e957a06b5658771aa6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/383) revoked (21.12.2016) by [The Caseins and Caseinates (Scotland) (No. 2) Regulations 2016 (S.S.I. 2016/422)](https://www.legislation.gov.uk/ssi/2016/422), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/422/regulation/1/2), [9(c)](https://www.legislation.gov.uk/ssi/2016/422/regulation/9/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/422/regulation/3))

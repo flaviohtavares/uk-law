@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343. Power of Commissioners to determine what counts as “mineral royalties”[^key-b94b3834349333ac18685fd7dda0b38b][^c19125151]
+## 343. Power of Commissioners to determine what counts as “mineral royalties”[^c-b94b3834349333ac18685fd7dda0b38b][^c19125151]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b94b3834349333ac18685fd7dda0b38b]: Textual amendment: Ss. 340-343 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/c)
+[^c-b94b3834349333ac18685fd7dda0b38b]: Textual amendment: Ss. 340-343 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/c)
 
 [^c19125151]: Textual amendment: Word in s. 343 substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 ss. 50, 53(1), {Sch. 4 para. 132(3)(a)}; [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/h)

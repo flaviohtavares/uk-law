@@ -22,11 +22,11 @@ summary: ''
 
 Section 49
 
-**1.**[^key-a028abde1bdf9ce04123c33b6ee6ca63] The Rehabilitation of Offenders Act 1974 (c. 53) is amended as follows.
+**1.**[^c-a028abde1bdf9ce04123c33b6ee6ca63] The Rehabilitation of Offenders Act 1974 (c. 53) is amended as follows.
 
-**2.**[^key-97fafa62c80860858030c9c3b9320ec1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-97fafa62c80860858030c9c3b9320ec1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f4efd4871ec94aa8b1fedd457598277e] After section 8 (defamation actions) there is inserted—
+**3.**[^c-f4efd4871ec94aa8b1fedd457598277e] After section 8 (defamation actions) there is inserted—
 
 > **8A. Protection afforded to spent cautions**
 >
@@ -39,7 +39,7 @@ Section 49
 > - (c) a reprimand or warning given under section 65 of the Crime and Disorder Act 1998 (reprimands and warnings for persons aged under 18);
 > - (d) anything corresponding to a caution, reprimand or warning falling within paragraphs (a) to (c) (however described) which is given to a person in respect of an offence under the law of a country outside England and Wales.
 
-**4.**[^key-7340af1579861291b2652c5937abdeec] After section 9 (unauthorised disclosure of spent convictions) insert—
+**4.**[^c-7340af1579861291b2652c5937abdeec] After section 9 (unauthorised disclosure of spent convictions) insert—
 
 > **9A. Unauthorised disclosure of spent cautions**
 >
@@ -68,9 +68,9 @@ Section 49
 >
 > (8) Proceedings for an offence under subsection (2) shall not be instituted except by or on behalf of the Director of Public Prosecutions.
 
-**5.**[^key-f4a2c17b4acee56626bbf874298fabc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f4a2c17b4acee56626bbf874298fabc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f7821e41ad5c2e523ad56f84914ecea5] After that Schedule insert—
+**6.**[^c-f7821e41ad5c2e523ad56f84914ecea5] After that Schedule insert—
 
 > **SCHEDULE 2 — Protection for spent cautions**
 >
@@ -146,14 +146,14 @@ Section 49
 
 ## Annotations
 
-[^key-a028abde1bdf9ce04123c33b6ee6ca63]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/1) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
+[^c-a028abde1bdf9ce04123c33b6ee6ca63]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/1) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
 
-[^key-97fafa62c80860858030c9c3b9320ec1]: Textual amendment: Sch. 10 para. 2 repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-97fafa62c80860858030c9c3b9320ec1]: Textual amendment: Sch. 10 para. 2 repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-f4efd4871ec94aa8b1fedd457598277e]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/3) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
+[^c-f4efd4871ec94aa8b1fedd457598277e]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/3) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
 
-[^key-7340af1579861291b2652c5937abdeec]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/4) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
+[^c-7340af1579861291b2652c5937abdeec]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/4) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
 
-[^key-f4a2c17b4acee56626bbf874298fabc4]: Textual amendment: Sch. 10 para. 5 repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-f4a2c17b4acee56626bbf874298fabc4]: Textual amendment: Sch. 10 para. 5 repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-f7821e41ad5c2e523ad56f84914ecea5]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/6) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)
+[^c-f7821e41ad5c2e523ad56f84914ecea5]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/10/paragraph/6) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/d)

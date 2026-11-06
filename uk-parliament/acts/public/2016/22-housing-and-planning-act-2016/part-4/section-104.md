@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Winding-up orders[^key-3a1c5bbba9a184346aeccb7e253abf0a]
+## 104. Winding-up orders[^c-3a1c5bbba9a184346aeccb7e253abf0a]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if a person other than the Secretary of State petitions for the winding-up of a registered provider that is—
 
 - (a) a company,
-- (aa)[^key-2b16c60a783064c4e5c6c2c39f668609] a limited liability partnership,
+- (aa)[^c-2b16c60a783064c4e5c6c2c39f668609] a limited liability partnership,
 - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
 - (c) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) notice of the petition has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since that notice was given, or
 - (b) the Regulator of Social Housing has waived the notice requirement in paragraph (a).
 
-(2A)[^key-bdb7aa159911f6d7dd2033f09a39b61f] A notice under subsection (2) must—
+(2A)[^c-bdb7aa159911f6d7dd2033f09a39b61f] A notice under subsection (2) must—
 
 - (a) be given in writing,
 - (b) be signed by, or on behalf of, the petitioner,
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3a1c5bbba9a184346aeccb7e253abf0a]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2016/22/section/104) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-3a1c5bbba9a184346aeccb7e253abf0a]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2016/22/section/104) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
 
-[^key-2b16c60a783064c4e5c6c2c39f668609]: Textual amendment: [S. 104(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/104/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/5); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
+[^c-2b16c60a783064c4e5c6c2c39f668609]: Textual amendment: [S. 104(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/104/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/5); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
 
-[^key-bdb7aa159911f6d7dd2033f09a39b61f]: Textual amendment: [S. 104(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2016/22/section/104/2A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/2); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)
+[^c-bdb7aa159911f6d7dd2033f09a39b61f]: Textual amendment: [S. 104(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2016/22/section/104/2A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/2); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)

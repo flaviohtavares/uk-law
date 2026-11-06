@@ -22,9 +22,9 @@ summary: ''
 
 (1) Every billing authority[^c13072081] shall establish, and then maintain, a fund (to be called its collection fund) in accordance with this Part.
 
-(2)[^c13072091] Subject to[^c13072101] subsections (2A) to (2C)[^key-44267067e68da22656816cbb75e0871e] below,An authority’s collection fund must be established on 1 April 1990.
+(2)[^c13072091] Subject to[^c13072101] subsections (2A) to (2C)[^c-44267067e68da22656816cbb75e0871e] below,An authority’s collection fund must be established on 1 April 1990.
 
-(2A)[^c13072121][^c13072111] In the case of a district council which is established for an area by an order under section 17 of the Local Government Act 1992 [^key-081683ab65d58bb12c05885d06025ff4]..., the collection fund must be established on the date on which by virtue of the order the structural or boundary change affecting the area comes into force.
+(2A)[^c13072121][^c13072111] In the case of a district council which is established for an area by an order under section 17 of the Local Government Act 1992 [^c-081683ab65d58bb12c05885d06025ff4]..., the collection fund must be established on the date on which by virtue of the order the structural or boundary change affecting the area comes into force.
 
 (2B)[^c13072111][^c13072121] In the case of—
 
@@ -33,7 +33,7 @@ summary: ''
 
 the collection fund must be established on the date on which by virtue of the order the structural change concerned comes into force.
 
-(2C)[^key-4cdbf6cef74b80f5090964e532c1fa33] In the case of—
+(2C)[^c-4cdbf6cef74b80f5090964e532c1fa33] In the case of—
 
 - (a) a district council or London borough council established by an order under Part 1 of the Local Government and Public Involvement in Health Act 2007, or
 - (b) a county council to which the functions of district councils in relation to the county council's area are transferred by or in consequence of such an order,
@@ -56,15 +56,15 @@ the collection fund must be established on a date specified in the order or in r
 
 [^c13072101]: Textual amendment: Words in s. 89(2) inserted (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 6(1)](https://www.legislation.gov.uk/uksi/1994/2825/regulation/6/1)
 
-[^key-44267067e68da22656816cbb75e0871e]: Textual amendment: Words in s. 89(2) substituted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/16/3/a); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
+[^c-44267067e68da22656816cbb75e0871e]: Textual amendment: Words in s. 89(2) substituted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/16/3/a); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
 
 [^c13072121]: Textual amendment: S. 89(2A)(2B) inserted (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 6(1)(2)](https://www.legislation.gov.uk/uksi/1994/2825/regulation/6/1/2)
 
 [^c13072111]: Modification: S. 89(2A)(2B) amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 46](https://www.legislation.gov.uk/uksi/1994/2825/regulation/46)
 
-[^key-081683ab65d58bb12c05885d06025ff4]: Textual amendment: Words in s. 89(2A) repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
+[^c-081683ab65d58bb12c05885d06025ff4]: Textual amendment: Words in s. 89(2A) repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
 
-[^key-4cdbf6cef74b80f5090964e532c1fa33]: Textual amendment: S. 89(2C) inserted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/16/3/b); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
+[^c-4cdbf6cef74b80f5090964e532c1fa33]: Textual amendment: S. 89(2C) inserted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/16/3/b); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
 
 [^c13072151]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

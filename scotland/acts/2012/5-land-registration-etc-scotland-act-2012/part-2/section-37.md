@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Date and time of registration[^key-95686448d425502633ade6d942a6aaee]
+## 37. Date and time of registration[^c-95686448d425502633ade6d942a6aaee]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95686448d425502633ade6d942a6aaee]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2012/5/section/37) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-95686448d425502633ade6d942a6aaee]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2012/5/section/37) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

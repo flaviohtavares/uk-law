@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 385. Alteration of Crown Court sentence[^key-ff6a1a10d440252cf7b4e902c28c8518]
+## 385. Alteration of Crown Court sentence[^c-ff6a1a10d440252cf7b4e902c28c8518]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ the sentence is to be regarded as imposed on the day on which it is varied under
 
 ## Annotations
 
-[^key-ff6a1a10d440252cf7b4e902c28c8518]: Commencement: S. 385 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ff6a1a10d440252cf7b4e902c28c8518]: Commencement: S. 385 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

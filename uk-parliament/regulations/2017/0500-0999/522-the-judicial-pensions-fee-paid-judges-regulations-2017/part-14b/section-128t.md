@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128T. Variation of added years purchase upon notice by member[^key-73af1ad52439faa59a794455bec473bf]
+## 128T. Variation of added years purchase upon notice by member[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
 (1) Paragraphs (2) to (6) apply where a retired FPJAYS member entered into an agreement to purchase added years before the amendment day.
 
-(2) Subject to paragraph (3), a retired FPJAYS member may increase or decrease the number of added years that they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^key-f9f5b67ef57531b912eec7da1a8f5989] (or by such later date as the administrators may agree).
+(2) Subject to paragraph (3), a retired FPJAYS member may increase or decrease the number of added years that they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^c-f9f5b67ef57531b912eec7da1a8f5989] (or by such later date as the administrators may agree).
 
 (3) A retired FPJAYS member may not increase the number of added years that they agreed to purchase to a number that would exceed the maximum number of added years specified in regulation 106(2).
 
@@ -40,7 +40,7 @@ summary: ''
 
 (7) Paragraphs (8) to (13) apply where an unretired FPJAYS member entered into an agreement to purchase added years before the amendment day.
 
-(8) Subject to paragraph (9), an unretired FPJAYS member may increase or decrease the number of added years that they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^key-27ec0cb7a984fd64c4b2d8b9e7cf1add] (or by such later date as the administrators may agree).
+(8) Subject to paragraph (9), an unretired FPJAYS member may increase or decrease the number of added years that they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^c-27ec0cb7a984fd64c4b2d8b9e7cf1add] (or by such later date as the administrators may agree).
 
 (9) An unretired FPJAYS member may not increase the number of added years that they agreed to purchase to a number that would exceed the maximum number of added years specified in regulation 106(2).
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-f9f5b67ef57531b912eec7da1a8f5989]: Textual amendment: Word in [reg. 128T(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128T/2) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/35/a)
+[^c-f9f5b67ef57531b912eec7da1a8f5989]: Textual amendment: Word in [reg. 128T(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128T/2) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/35/a)
 
-[^key-27ec0cb7a984fd64c4b2d8b9e7cf1add]: Textual amendment: Word in [reg. 128T(8)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128T/8) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/35/b)
+[^c-27ec0cb7a984fd64c4b2d8b9e7cf1add]: Textual amendment: Word in [reg. 128T(8)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128T/8) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/35/b)

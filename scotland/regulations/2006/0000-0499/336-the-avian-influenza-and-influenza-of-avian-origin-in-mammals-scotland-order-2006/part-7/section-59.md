@@ -24,8 +24,8 @@ summary: ''
 
 (2) Premises where influenza virus of avian origin may have been carried from premises where the virus has been confirmed or from where the virus may have been carried to the latter are contact premises for the purposes of this Part.
 
-(3)[^key-26c228ce078afeb50dc74a549440bb17] The provisions of schedule 8 apply to contact premises until those restrictions and requirements are withdrawn by further notice.
+(3)[^c-26c228ce078afeb50dc74a549440bb17] The provisions of schedule 8 apply to contact premises until those restrictions and requirements are withdrawn by further notice.
 
 ## Annotations
 
-[^key-26c228ce078afeb50dc74a549440bb17]: Textual amendment: [Art. 59(3)](https://www.legislation.gov.uk/ssi/2006/336/article/59/3) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(8)](https://www.legislation.gov.uk/ssi/2025/108/article/2/8)
+[^c-26c228ce078afeb50dc74a549440bb17]: Textual amendment: [Art. 59(3)](https://www.legislation.gov.uk/ssi/2006/336/article/59/3) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(8)](https://www.legislation.gov.uk/ssi/2025/108/article/2/8)

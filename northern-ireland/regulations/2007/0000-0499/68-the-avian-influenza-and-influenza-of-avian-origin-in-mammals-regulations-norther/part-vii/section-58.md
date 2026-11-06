@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Tests on animals at premises where avian influenza is confirmed[^key-71fbc46873aa4951acf781eefe6221b0]
+## 58. Tests on animals at premises where avian influenza is confirmed[^c-71fbc46873aa4951acf781eefe6221b0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71fbc46873aa4951acf781eefe6221b0]: Commencement: Reg. 58 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-71fbc46873aa4951acf781eefe6221b0]: Commencement: Reg. 58 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Fixed penalties for certain offences relating to unmanned aircraft[^c24538251][^key-6b95bbeaae12ee6bf5e02637a7338a6c]
+## 15. Fixed penalties for certain offences relating to unmanned aircraft[^c24538251][^c-6b95bbeaae12ee6bf5e02637a7338a6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 10 makes provision about fixed penalties for certain offences relating 
 
 [^c24538251]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/12/section/15) in force at 29.4.2021 for specified purposes, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/a)
 
-[^key-6b95bbeaae12ee6bf5e02637a7338a6c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/12/section/15) in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/e)
+[^c-6b95bbeaae12ee6bf5e02637a7338a6c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/12/section/15) in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/e)

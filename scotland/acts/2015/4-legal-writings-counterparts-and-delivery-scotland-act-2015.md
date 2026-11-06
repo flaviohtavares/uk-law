@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Execution of documents in counterpart
 
-### 1. Execution of documents in counterpart[^key-e3ed8a96e048de88eda596046a94a7dd]
+### 1. Execution of documents in counterpart[^c-e3ed8a96e048de88eda596046a94a7dd]
 
 (1) A document may be executed in counterpart.
 
@@ -68,7 +68,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the person from whom the counterpart is received indicates to the recipient that it is to be so treated, or
 - (b) if a specified condition is to be satisfied before the counterpart may be so treated, the condition has been satisfied.
 
-### 2. Nomination of person to take delivery of counterparts[^key-438a65fd3c086911a2c83f0c5d59794d]
+### 2. Nomination of person to take delivery of counterparts[^c-438a65fd3c086911a2c83f0c5d59794d]
 
 (1) Parties to a document executed in counterpart may nominate a person to take delivery of one or more of the counterparts.
 
@@ -80,7 +80,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) A document's having effect is not dependent on compliance with subsection (3) or (4).
 
-### 3. Use of counterparts: electronic documents[^key-a9b0292810d7180e79eec6a47a899733]
+### 3. Use of counterparts: electronic documents[^c-a9b0292810d7180e79eec6a47a899733]
 
 (1) Sections 1 and 2 apply to traditional documents and electronic documents.
 
@@ -93,7 +93,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Delivery of traditional documents by electronic means
 
-### 4. Delivery of traditional documents by electronic means[^key-20373ba4a8f5e3fb8a8119ee1a4aae24]
+### 4. Delivery of traditional documents by electronic means[^c-20373ba4a8f5e3fb8a8119ee1a4aae24]
 
 (1) This section applies where there is a requirement for delivery of a traditional document (whether or not a document executed in counterpart).
 
@@ -161,10 +161,10 @@ The short title of this Act is the Legal Writings (Counterparts and Delivery) (S
 
 ## Annotations
 
-[^key-e3ed8a96e048de88eda596046a94a7dd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/4/section/1) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
+[^c-e3ed8a96e048de88eda596046a94a7dd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/4/section/1) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
 
-[^key-438a65fd3c086911a2c83f0c5d59794d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/4/section/2) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
+[^c-438a65fd3c086911a2c83f0c5d59794d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/4/section/2) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
 
-[^key-a9b0292810d7180e79eec6a47a899733]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/4/section/3) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
+[^c-a9b0292810d7180e79eec6a47a899733]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/4/section/3) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
 
-[^key-20373ba4a8f5e3fb8a8119ee1a4aae24]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/4/section/4) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)
+[^c-20373ba4a8f5e3fb8a8119ee1a4aae24]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/4/section/4) in force at 1.7.2015 by [S.S.I. 2015/242](https://www.legislation.gov.uk/ssi/2015/242), [art. 2](https://www.legislation.gov.uk/ssi/2015/242/article/2)

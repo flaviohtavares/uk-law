@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Maximum amount of loans for eligible students with full entitlement who are 2011 cohort students[^key-7ce2fa857343600328fe85d717723f84]
+## 44. Maximum amount of loans for eligible students with full entitlement who are 2011 cohort students[^c-7ce2fa857343600328fe85d717723f84]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ce2fa857343600328fe85d717723f84]: Commencement: Reg. 44 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-7ce2fa857343600328fe85d717723f84]: Commencement: Reg. 44 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

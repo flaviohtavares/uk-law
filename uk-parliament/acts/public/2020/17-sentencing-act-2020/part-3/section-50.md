@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power of magistrates' court to remit criminal courts charge[^key-eb6de33f62d3362f844ded2904b80fe2]
+## 50. Power of magistrates' court to remit criminal courts charge[^c-eb6de33f62d3362f844ded2904b80fe2]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6de33f62d3362f844ded2904b80fe2]: Commencement: S. 50 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-eb6de33f62d3362f844ded2904b80fe2]: Commencement: S. 50 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

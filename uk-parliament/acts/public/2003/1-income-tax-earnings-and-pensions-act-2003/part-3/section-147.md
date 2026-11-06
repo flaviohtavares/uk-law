@@ -24,9 +24,9 @@ summary: ''
 
 - (a) the age of the car at the end of the year is 15 years or more,
 - (b) the market value of the car for the year is £15,000 or more, and
-- (c) that market value exceeds the interim sum calculated under[^key-77413396ca7291954f4ed8845a01d332] step 3 of section 121(1).
+- (c) that market value exceeds the interim sum calculated under[^c-77413396ca7291954f4ed8845a01d332] step 3 of section 121(1).
 
-(2) For the interim sum calculated under[^key-f18a6fead80a66fb52480630aa40f8c6] step 3 substitute the market value of the car for the tax year in question less any deductions under subsection (6).
+(2) For the interim sum calculated under[^c-f18a6fead80a66fb52480630aa40f8c6] step 3 substitute the market value of the car for the tax year in question less any deductions under subsection (6).
 
 (3) The market value of a car for a tax year is the price which the car might reasonably have been expected to fetch on a sale in the open market on—
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77413396ca7291954f4ed8845a01d332]: Textual amendment: Words in s. 147(1) substituted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/4)
+[^c-77413396ca7291954f4ed8845a01d332]: Textual amendment: Words in s. 147(1) substituted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/4)
 
-[^key-f18a6fead80a66fb52480630aa40f8c6]: Textual amendment: Words in s. 147(2) substituted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/4)
+[^c-f18a6fead80a66fb52480630aa40f8c6]: Textual amendment: Words in s. 147(2) substituted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/4)

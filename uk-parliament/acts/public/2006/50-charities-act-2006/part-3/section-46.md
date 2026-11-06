@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Charitable appeals that are not public charitable collections[^key-8809de558d62fd0fe4c48cef5fb77f38]
+## 46. Charitable appeals that are not public charitable collections[^c-8809de558d62fd0fe4c48cef5fb77f38]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8809de558d62fd0fe4c48cef5fb77f38]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/50/section/46) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))
+[^c-8809de558d62fd0fe4c48cef5fb77f38]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/50/section/46) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))

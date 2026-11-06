@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Future Generations report: activity during the reporting period[^key-e0e6861a002bd3b604a2b94a24d39c86]
+## 24. Future Generations report: activity during the reporting period[^c-e0e6861a002bd3b604a2b94a24d39c86]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e6861a002bd3b604a2b94a24d39c86]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/2/section/24) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-e0e6861a002bd3b604a2b94a24d39c86]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/2/section/24) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)

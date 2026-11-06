@@ -47,7 +47,7 @@ The Welsh Ministers have had regard to advice given by the Food Standards Agency
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] during the preparation and evaluation of these Regulations.
 
-## 1. Title, coming into force, extent and application[^key-267521acd700a94b7464e627ea8ad725]
+## 1. Title, coming into force, extent and application[^c-267521acd700a94b7464e627ea8ad725]
 
 (1) The title of these Regulations is the Bread and Flour (Wales) Regulations 2025.
 
@@ -63,7 +63,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (a) extend to England and Wales;
 - (b) apply in relation to Wales.
 
-## 2. Interpretation[^key-dc4e7dc2b339d5efdf8864fee50b7de1]
+## 2. Interpretation[^c-dc4e7dc2b339d5efdf8864fee50b7de1]
 
 In these Regulations—
 
@@ -84,17 +84,17 @@ In these Regulations—
   - (b) the extended meaning of sale in section 2 of the Food Safety Act 1990[^f00007] as applied by regulation 13 of these Regulations;
 - “**wholemeal flour**” (“***blawd gwenith cyflawn***”) means the flour consisting of the whole of the product obtained from the milling or grinding of cleaned cereals.
 
-## 3. Essential ingredients for flour derived from common wheat[^key-f641887df8873776487f0be634d4acfa][^key-9fb4119d9c0c84c83e85a1c0ebcd058b][^key-e39964b5139aacdce76085b298eb0733]
+## 3. Essential ingredients for flour derived from common wheat[^c-f641887df8873776487f0be634d4acfa][^c-9fb4119d9c0c84c83e85a1c0ebcd058b][^c-e39964b5139aacdce76085b298eb0733]
 
-(1)[^key-f641887df8873776487f0be634d4acfa] This regulation applies in relation to flour derived from common wheat, whether or not mixed with other flour.
+(1)[^c-f641887df8873776487f0be634d4acfa] This regulation applies in relation to flour derived from common wheat, whether or not mixed with other flour.
 
-(2)[^key-f641887df8873776487f0be634d4acfa] A person producing flour in the course of a business must not sell flour derived from common wheat that does not comply with this regulation.
+(2)[^c-f641887df8873776487f0be634d4acfa] A person producing flour in the course of a business must not sell flour derived from common wheat that does not comply with this regulation.
 
-(3)[^key-f641887df8873776487f0be634d4acfa] A person acting in the course of a business must not import or move into Wales any flour derived from common wheat, or sell such flour imported or moved into Wales by them, which does not comply with this regulation.
+(3)[^c-f641887df8873776487f0be634d4acfa] A person acting in the course of a business must not import or move into Wales any flour derived from common wheat, or sell such flour imported or moved into Wales by them, which does not comply with this regulation.
 
-(4)[^key-9fb4119d9c0c84c83e85a1c0ebcd058b] Flour derived from common wheat must contain the substances specified in Schedule 1 to these Regulations in accordance with the provisions set out in that Schedule[^f00008].
+(4)[^c-9fb4119d9c0c84c83e85a1c0ebcd058b] Flour derived from common wheat must contain the substances specified in Schedule 1 to these Regulations in accordance with the provisions set out in that Schedule[^f00008].
 
-(5)[^key-f641887df8873776487f0be634d4acfa] Paragraph (4) does not apply to—
+(5)[^c-f641887df8873776487f0be634d4acfa] Paragraph (4) does not apply to—
 
 - (a) wholemeal flour;
 - (b) flour produced at a production site which, at the time of production, has—
@@ -103,7 +103,7 @@ In these Regulations—
 - (c) flour for use in the manufacture of communion wafers, matzos, gluten or starch;
 - (d) any concentrated preparation for use for the purpose of facilitating the addition to flour of substances as required by paragraph (4).
 
-## 4. Prohibition on use of flour bleaching agents[^key-699fdfc09ddfd204a3a2b309ed7392b8]
+## 4. Prohibition on use of flour bleaching agents[^c-699fdfc09ddfd204a3a2b309ed7392b8]
 
 (1) A person must not use a flour bleaching agent in the preparation of bread or flour.
 
@@ -112,7 +112,7 @@ In these Regulations—
 - (a) a “flour bleaching agent” is a food additive primarily used to remove colour from flour;
 - (b) “**food additive**” has the meaning given in Article 3(2)(a) of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives[^f00009].
 
-## 5. Requirements in relation to the use of the terms “wholemeal” and “wheat germ”[^key-1a04d11b6ceff8805f2824e7d2454b3f]
+## 5. Requirements in relation to the use of the terms “wholemeal” and “wheat germ”[^c-1a04d11b6ceff8805f2824e7d2454b3f]
 
 (1) A person acting in the course of a business must not sell or advertise for sale any bread in contravention of this regulation.
 
@@ -123,13 +123,13 @@ In these Regulations—
 - (a) “wholemeal”, “gwenith cyflawn” or the equivalent term in any other language may be used where all the flour used as an ingredient in the preparation of the bread is wholemeal flour;
 - (b) “wheat germ”, “bywyn gwenith” or the equivalent in any other language may be used where the bread has an added processed wheat germ content of 10% or more calculated on the dry matter of the bread.
 
-## 6. General exempted uses[^key-66f446c69ea2f357f693ec80a6ab0812]
+## 6. General exempted uses[^c-66f446c69ea2f357f693ec80a6ab0812]
 
 (1) Regulations 3 to 5 do not apply to bread or flour that is for any use other than for human consumption.
 
 (2) But regulation 5 does apply to such bread insofar as that regulation relates to advertising.
 
-**7.**[^key-35cadb3f055995a2ef3e0dffff6333c5] (1) Regulations 3 to 5 do not apply to bread or flour that is for the following exempted uses if the exempted uses of the bread or flour are clearly indicated in English, or in English and in Welsh, on the labelling—
+**7.**[^c-35cadb3f055995a2ef3e0dffff6333c5] (1) Regulations 3 to 5 do not apply to bread or flour that is for the following exempted uses if the exempted uses of the bread or flour are clearly indicated in English, or in English and in Welsh, on the labelling—
 
 - (a) bread or flour for export to a third country;
 - (b) bread or flour for use in the production of food that is for export to a third country.
@@ -140,15 +140,15 @@ In these Regulations—
 - (b) the Bailiwick of Jersey;
 - (c) the Isle of Man.
 
-## 8. Restriction on use of exempted bread and flour[^key-d05d161be14e978cef24170b037e972f]
+## 8. Restriction on use of exempted bread and flour[^c-d05d161be14e978cef24170b037e972f]
 
 A person acting in the course of a business must not use, in the production of food, bread or flour exempted by regulations 3(5)(c), 3(5)(d), 6 or 7 except for a use exempted by those regulations.
 
-## 9. Enforcement[^key-9f25a45fcf07a86493765cc5c97b3b8a]
+## 9. Enforcement[^c-9f25a45fcf07a86493765cc5c97b3b8a]
 
 Each food authority must enforce and execute these Regulations in its area.
 
-## 10. Improvement notices[^key-0c5f47cab935d85fd6cc1a4a8d79af58]
+## 10. Improvement notices[^c-0c5f47cab935d85fd6cc1a4a8d79af58]
 
 (1) An authorised officer of a food authority may issue a notice (an “**improvement notice**”) to a person if the officer has reasonable grounds for believing that the person has not complied, or is not complying, with one or more of the relevant provisions.
 
@@ -167,13 +167,13 @@ Each food authority must enforce and execute these Regulations in its area.
 
 (4) The “compliance period” is the period determined by the authorised officer and specified in the improvement notice, being at least 14 days beginning with the date on which the notice is issued.
 
-## 11. Offence and penalty[^key-331f600603a96aebcf3ea4f4d06c4d81]
+## 11. Offence and penalty[^c-331f600603a96aebcf3ea4f4d06c4d81]
 
 (1) A person who fails to comply with an improvement notice commits an offence.
 
 (2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
 
-## 12. Appeals against improvement notices[^key-2791cb9672a2fea7fce3b674d12a7554]
+## 12. Appeals against improvement notices[^c-2791cb9672a2fea7fce3b674d12a7554]
 
 (1) A person to whom an improvement notice is issued may appeal to a magistrates’ court against the notice.
 
@@ -193,7 +193,7 @@ Each food authority must enforce and execute these Regulations in its area.
 
 (6) In paragraph (5), the appeal is pending until it is finally determined or withdrawn.
 
-## 13. Application of various provisions of the Food Safety Act 1990[^key-51e6e7734c17bd7e689084fba386745c]
+## 13. Application of various provisions of the Food Safety Act 1990[^c-51e6e7734c17bd7e689084fba386745c]
 
 (1) The provisions of the Food Safety Act 1990 set out in paragraph (2) apply for the purposes of these Regulations—
 
@@ -217,15 +217,15 @@ Each food authority must enforce and execute these Regulations in its area.
   - (i) references to “given to or served on”, and “given or served” include “issued to” and “issued”, respectively, and
   - (ii) references to serving a document by sending it in a prepaid letter are references to serving that document by post in accordance with sections 13 and 14 of the Legislation (Wales) Act 2019[^f00016].
 
-## 14. Revocation[^key-4528a5283650eab9554a1d39633d6951]
+## 14. Revocation[^c-4528a5283650eab9554a1d39633d6951]
 
 The Bread and Flour Regulations 1998[^f00017] are revoked.
 
-## 15. Transitional provision coming into force on 19 February 2025[^key-6fb4b2cbd39927cc47b2cb0059c85ae5]
+## 15. Transitional provision coming into force on 19 February 2025[^c-6fb4b2cbd39927cc47b2cb0059c85ae5]
 
 Until the end of 12 December 2026, flour derived from common wheat which does not comply with regulation 3(4) of these Regulations in relation to a substance is nevertheless deemed to comply with that regulation if it would have complied in relation to that substance with regulation 4(1) of the Bread and Flour Regulations 1998 as they had effect immediately before 19 February 2025.
 
-## 16. Transitional provision coming into force on 13 December 2026[^key-79cb8ff6595ded3b64322b46391e4084]
+## 16. Transitional provision coming into force on 13 December 2026[^c-79cb8ff6595ded3b64322b46391e4084]
 
 **Not yet in force.**
 
@@ -246,7 +246,7 @@ Minister for Mental Health and Wellbeing, under the authority of the Cabinet Sec
 
 Regulation 3
 
-### 1. Substances that must be added to flour derived from common wheat in specified proportions[^key-b7e0f1e856ec6aaf95c87a9e02e90518][^key-540fc203920415e49eca6636eeb41da2]
+### 1. Substances that must be added to flour derived from common wheat in specified proportions[^c-b7e0f1e856ec6aaf95c87a9e02e90518][^c-540fc203920415e49eca6636eeb41da2]
 
 The substances listed in column 1 of Table 1 must be added to flour derived from common wheat in the proportions and in accordance with the other provisions specified in column 2.
 
@@ -268,7 +268,7 @@ Table 1
 </tbody>
 </table>
 
-### 2. Substances that must be present in flour derived from common wheat at or above specified proportions[^key-9a89e77c05510d5c66ac82dc3567cf6b]
+### 2. Substances that must be present in flour derived from common wheat at or above specified proportions[^c-9a89e77c05510d5c66ac82dc3567cf6b]
 
 (1) The substances listed in column 1 of Table 2 must be present in flour derived from common wheat in the proportions specified in column 2.
 
@@ -296,7 +296,7 @@ Table 2
 </tbody>
 </table>
 
-## SCHEDULE 2 — Specification for E 170 calcium carbonate[^key-05dcd4ea07a9a64b07090f20cff9e073]
+## SCHEDULE 2 — Specification for E 170 calcium carbonate[^c-05dcd4ea07a9a64b07090f20cff9e073]
 
 Regulation 3 and Schedule 1
 
@@ -338,7 +338,7 @@ Specification for E 170 calcium carbonate for the purpose of Schedule 1, paragra
 
 [^f01000][^f01001]
 
-## SCHEDULE 3 — Specification for iron powder[^key-d89601ba2ee211449a2ae630b02b8d15]
+## SCHEDULE 3 — Specification for iron powder[^c-d89601ba2ee211449a2ae630b02b8d15]
 
 Regulation 3 and Schedule 1
 
@@ -359,7 +359,7 @@ Specification for iron powder for the purpose of Schedule 1, paragraph 2, Table 
 </tbody>
 </table>
 
-[^key-582560ac2634c8bc6611434fcfac2419][^f01002]
+[^c-582560ac2634c8bc6611434fcfac2419][^f01002]
 
 EXPLANATORY NOTE
 
@@ -433,9 +433,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641); there are other amending instruments but none is relevant.
 
-[^key-267521acd700a94b7464e627ea8ad725]: Commencement: Reg. 1 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-267521acd700a94b7464e627ea8ad725]: Commencement: Reg. 1 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-dc4e7dc2b339d5efdf8864fee50b7de1]: Commencement: Reg. 2 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-dc4e7dc2b339d5efdf8864fee50b7de1]: Commencement: Reg. 2 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f00004]: Footnote: Section 5(6) was amended by paragraph 8 of Schedule 5 to the Food Standards Act 1999. That amendment took effect subject to section 40(3) of that Act.
 
@@ -445,39 +445,39 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: Section 2 was amended by paragraph 8 of Schedule 5 to the Food Standards Act 1999. That amendment took effect subject to section 40(3) of that Act.
 
-[^key-f641887df8873776487f0be634d4acfa]: Commencement: Reg. 3(1)-(3)(5) in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-f641887df8873776487f0be634d4acfa]: Commencement: Reg. 3(1)-(3)(5) in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-9fb4119d9c0c84c83e85a1c0ebcd058b]: Commencement: Reg. 3(4) in force at 19.2.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-9fb4119d9c0c84c83e85a1c0ebcd058b]: Commencement: Reg. 3(4) in force at 19.2.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-e39964b5139aacdce76085b298eb0733]: Commencement: Reg. 3(4) in force at 13.12.2026 in force in so far as not already in force, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/3/a)
+[^c-e39964b5139aacdce76085b298eb0733]: Commencement: Reg. 3(4) in force at 13.12.2026 in force in so far as not already in force, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/3/a)
 
 [^f00008]: Footnote: See regulations 15 and 16 for transitional provision.
 
-[^key-699fdfc09ddfd204a3a2b309ed7392b8]: Commencement: Reg. 4 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-699fdfc09ddfd204a3a2b309ed7392b8]: Commencement: Reg. 4 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f00009]: Footnote: EUR 2008/1333, to which there are amendments not relevant to these Regulations.
 
-[^key-1a04d11b6ceff8805f2824e7d2454b3f]: Commencement: Reg. 5 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-1a04d11b6ceff8805f2824e7d2454b3f]: Commencement: Reg. 5 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-66f446c69ea2f357f693ec80a6ab0812]: Commencement: Reg. 6 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-66f446c69ea2f357f693ec80a6ab0812]: Commencement: Reg. 6 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-35cadb3f055995a2ef3e0dffff6333c5]: Commencement: Reg. 7 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-35cadb3f055995a2ef3e0dffff6333c5]: Commencement: Reg. 7 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-d05d161be14e978cef24170b037e972f]: Commencement: Reg. 8 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-d05d161be14e978cef24170b037e972f]: Commencement: Reg. 8 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-9f25a45fcf07a86493765cc5c97b3b8a]: Commencement: Reg. 9 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-9f25a45fcf07a86493765cc5c97b3b8a]: Commencement: Reg. 9 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-0c5f47cab935d85fd6cc1a4a8d79af58]: Commencement: Reg. 10 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-0c5f47cab935d85fd6cc1a4a8d79af58]: Commencement: Reg. 10 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f00010]: Footnote: See regulation 13(2)(l), applying section 50 of the Food Safety Act 1990 (with modifications) as to the point at which an improvement notice is issued.
 
-[^key-331f600603a96aebcf3ea4f4d06c4d81]: Commencement: Reg. 11 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-331f600603a96aebcf3ea4f4d06c4d81]: Commencement: Reg. 11 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-2791cb9672a2fea7fce3b674d12a7554]: Commencement: Reg. 12 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-2791cb9672a2fea7fce3b674d12a7554]: Commencement: Reg. 12 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f00011]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-51e6e7734c17bd7e689084fba386745c]: Commencement: Reg. 13 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-51e6e7734c17bd7e689084fba386745c]: Commencement: Reg. 13 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f00012]: Footnote: Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), from a date to be appointed.
 
@@ -489,21 +489,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: [2019 anaw 4](https://www.legislation.gov.uk/anaw/2019/4). Sections 13 and 14 were amended by paragraph 5(3) and (8) of Schedule 1 to the Senedd and Elections (Wales) Act 2020 (anaw 1).
 
-[^key-4528a5283650eab9554a1d39633d6951]: Commencement: Reg. 14 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-4528a5283650eab9554a1d39633d6951]: Commencement: Reg. 14 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141); relevant amending instruments are [S.I. 1999/1136](https://www.legislation.gov.uk/uksi/1999/1136), [2014/2303 (W. 227)](https://www.legislation.gov.uk/wsi/2014/2303), [2018/806 (W. 162)](https://www.legislation.gov.uk/wsi/2018/806), [2022/112 (W. 40)](https://www.legislation.gov.uk/wsi/2022/112).
 
-[^key-6fb4b2cbd39927cc47b2cb0059c85ae5]: Commencement: Reg. 15 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-6fb4b2cbd39927cc47b2cb0059c85ae5]: Commencement: Reg. 15 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-79cb8ff6595ded3b64322b46391e4084]: Commencement: Reg. 16 in force at 13.12.2026, see [reg. 1(3)(b)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/3/b)
+[^c-79cb8ff6595ded3b64322b46391e4084]: Commencement: Reg. 16 in force at 13.12.2026, see [reg. 1(3)(b)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/3/b)
 
-[^key-b7e0f1e856ec6aaf95c87a9e02e90518]: Commencement: Sch. 1 para. 1 in force at 19.2.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-b7e0f1e856ec6aaf95c87a9e02e90518]: Commencement: Sch. 1 para. 1 in force at 19.2.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-540fc203920415e49eca6636eeb41da2]: Commencement: Sch. 1 para. 1 in force at 13.12.2026 in force in so far as not already in force, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/3/a)
+[^c-540fc203920415e49eca6636eeb41da2]: Commencement: Sch. 1 para. 1 in force at 13.12.2026 in force in so far as not already in force, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/3/a)
 
-[^key-9a89e77c05510d5c66ac82dc3567cf6b]: Commencement: Sch. 1 para. 2 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-9a89e77c05510d5c66ac82dc3567cf6b]: Commencement: Sch. 1 para. 2 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-05dcd4ea07a9a64b07090f20cff9e073]: Commencement: Sch. 2 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-05dcd4ea07a9a64b07090f20cff9e073]: Commencement: Sch. 2 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
 [^f01000]: Footnote: (1)
 
@@ -513,9 +513,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     Sum of ethylene oxide and 2-chloroethanol expressed as ethylene oxide (i.e. ethylene oxide + (0.55 × 2-chloroethanol)).
 
-[^key-d89601ba2ee211449a2ae630b02b8d15]: Commencement: Sch. 3 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
+[^c-d89601ba2ee211449a2ae630b02b8d15]: Commencement: Sch. 3 in force at 19.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/88/regulation/1/2)
 
-[^key-582560ac2634c8bc6611434fcfac2419]: Textual amendment: Word in Sch. 3 omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/wsi/2025/805/regulation/13/4/a)
+[^c-582560ac2634c8bc6611434fcfac2419]: Textual amendment: Word in Sch. 3 omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/wsi/2025/805/regulation/13/4/a)
 
 [^f01002]: Footnote: (1)
 

@@ -60,8 +60,8 @@ summary: ''
 
   .
 
-(4)[^key-bf54b0335d8e5e62d671b52356798736] In Article 46(5) after “20A,” insert “27A,
+(4)[^c-bf54b0335d8e5e62d671b52356798736] In Article 46(5) after “20A,” insert “27A,
 
 ## Annotations
 
-[^key-bf54b0335d8e5e62d671b52356798736]: Textual amendment: [S. 84(4)](https://www.legislation.gov.uk/nia/2011/24/section/84/4) substituted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/10) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-bf54b0335d8e5e62d671b52356798736]: Textual amendment: [S. 84(4)](https://www.legislation.gov.uk/nia/2011/24/section/84/4) substituted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/10) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)

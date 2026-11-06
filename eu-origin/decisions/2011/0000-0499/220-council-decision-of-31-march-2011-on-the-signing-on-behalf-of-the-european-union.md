@@ -35,16 +35,16 @@ on the signing, on behalf of the European Union, of the Hague Convention of 23 N
 
 (2011/220/EU) (revoked)
 
-[^key-6ffae49c6bf206a15d9873da0e5a9d55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ffae49c6bf206a15d9873da0e5a9d55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6ffae49c6bf206a15d9873da0e5a9d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6ffae49c6bf206a15d9873da0e5a9d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6ffae49c6bf206a15d9873da0e5a9d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6ffae49c6bf206a15d9873da0e5a9d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6ffae49c6bf206a15d9873da0e5a9d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6ffae49c6bf206a15d9873da0e5a9d55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ffae49c6bf206a15d9873da0e5a9d55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ffae49c6bf206a15d9873da0e5a9d55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ffae49c6bf206a15d9873da0e5a9d55]: Textual amendment: Decision revoked (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1125/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ffae49c6bf206a15d9873da0e5a9d55]: Textual amendment: Decision revoked (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1125/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

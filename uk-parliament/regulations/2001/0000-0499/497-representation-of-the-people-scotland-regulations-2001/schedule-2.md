@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — REVOCATIONS[^key-5cb02a6b2294c36e9924b15a5603fce9]
+## SCHEDULE 2 — REVOCATIONS[^c-5cb02a6b2294c36e9924b15a5603fce9]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ Regulation 2
 
 ## Annotations
 
-[^key-5cb02a6b2294c36e9924b15a5603fce9]: Commencement: Sch. 2 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-5cb02a6b2294c36e9924b15a5603fce9]: Commencement: Sch. 2 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
 [^f00058]: Footnote: Under section B3 of Part II of Schedule 5 to the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) the franchise at local government elections is reserved.

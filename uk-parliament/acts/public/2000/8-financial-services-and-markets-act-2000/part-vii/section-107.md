@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An application may be made to the court for an order sanctioning an insurance business transfer scheme , a banking business transfer scheme[^c2078113] , a reclaim fund business transfer scheme or a ring-fencing transfer scheme[^key-7021b64c8a303e66c7bd4b8ff4b5de33] .
+(1) An application may be made to the court for an order sanctioning an insurance business transfer scheme , a banking business transfer scheme[^c2078113] , a reclaim fund business transfer scheme or a ring-fencing transfer scheme[^c-7021b64c8a303e66c7bd4b8ff4b5de33] .
 
 (2) An application may be made by—
 
-- (a) the transferor concerned[^key-75f9d1c53aae4b2689a2fde035857ebc];
+- (a) the transferor concerned[^c-75f9d1c53aae4b2689a2fde035857ebc];
 - (b) the transferee; or
 - (c) both.
 
-(2A)[^key-522f84a105bb228469f49b24c6f05b3a] An application relating to a ring-fencing transfer scheme may be made only with the consent of the PRA.
+(2A)[^c-522f84a105bb228469f49b24c6f05b3a] An application relating to a ring-fencing transfer scheme may be made only with the consent of the PRA.
 
 (2B) In deciding whether to give consent, the PRA must have regard to the scheme report prepared under section 109A in relation to the ring-fencing transfer scheme.
 
@@ -49,8 +49,8 @@ summary: ''
 
 [^c2078113]: Textual amendment: Words in s. 107(1) substituted (12.3.2009) by [Dormant Bank and Building Society Accounts Act 2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31), [ss. 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15), [31(1)(2)](https://www.legislation.gov.uk/ukpga/2008/31/section/31/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2/paragraph/3); [S.I. 2009/490](https://www.legislation.gov.uk/uksi/2009/490), [art. 2](https://www.legislation.gov.uk/uksi/2009/490/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/490/article/3))
 
-[^key-7021b64c8a303e66c7bd4b8ff4b5de33]: Textual amendment: Words in s. 107(1) substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/6/2); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-7021b64c8a303e66c7bd4b8ff4b5de33]: Textual amendment: Words in s. 107(1) substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/6/2); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-75f9d1c53aae4b2689a2fde035857ebc]: Textual amendment: Words in Pt. 7 substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/2); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-75f9d1c53aae4b2689a2fde035857ebc]: Textual amendment: Words in Pt. 7 substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/2); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-522f84a105bb228469f49b24c6f05b3a]: Textual amendment: S. 107(2A)(2B) inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/6/3); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-522f84a105bb228469f49b24c6f05b3a]: Textual amendment: S. 107(2A)(2B) inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/6/3); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

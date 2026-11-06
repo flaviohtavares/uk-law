@@ -32,7 +32,7 @@ This Statutory Instrument has been amended by S.I. [1996/979](https://www.legisl
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Protection (Applications, Appeals and Registers) (Amendment) Regulations 1996 (revoked)[^key-2530b4d22f1a7ea410c530f2304180a2]
+The Environmental Protection (Applications, Appeals and Registers) (Amendment) Regulations 1996 (revoked)[^c-2530b4d22f1a7ea410c530f2304180a2]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 1st April 1996
 
-[^key-2530b4d22f1a7ea410c530f2304180a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2530b4d22f1a7ea410c530f2304180a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2530b4d22f1a7ea410c530f2304180a2]
+## 1. Citation, commencement and interpretation[^c-2530b4d22f1a7ea410c530f2304180a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-2530b4d22f1a7ea410c530f2304180a2]
+## 2. Amendment of the principal Regulations[^c-2530b4d22f1a7ea410c530f2304180a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2530b4d22f1a7ea410c530f2304180a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2530b4d22f1a7ea410c530f2304180a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENT OF THE PRINCIPAL REGULATIONS[^key-2530b4d22f1a7ea410c530f2304180a2]
+## SCHEDULE — AMENDMENT OF THE PRINCIPAL REGULATIONS[^c-2530b4d22f1a7ea410c530f2304180a2]
 
 Regulation 2
 
-**1.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2530b4d22f1a7ea410c530f2304180a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2530b4d22f1a7ea410c530f2304180a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2530b4d22f1a7ea410c530f2304180a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2530b4d22f1a7ea410c530f2304180a2]: Textual amendment: Regulations revoked (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and lapsed (S.) by virtue of repeal of power conferring provisions [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 10](https://www.legislation.gov.uk/ukpga/1990/43/section/10), [11](https://www.legislation.gov.uk/ukpga/1990/43/section/11), [15](https://www.legislation.gov.uk/ukpga/1990/43/section/15), [20](https://www.legislation.gov.uk/ukpga/1990/43/section/20), [22](https://www.legislation.gov.uk/ukpga/1990/43/section/22), [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/43/schedule/1) (S.) (1.4.2015) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)
+[^c-2530b4d22f1a7ea410c530f2304180a2]: Textual amendment: Regulations revoked (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and lapsed (S.) by virtue of repeal of power conferring provisions [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 10](https://www.legislation.gov.uk/ukpga/1990/43/section/10), [11](https://www.legislation.gov.uk/ukpga/1990/43/section/11), [15](https://www.legislation.gov.uk/ukpga/1990/43/section/15), [20](https://www.legislation.gov.uk/ukpga/1990/43/section/20), [22](https://www.legislation.gov.uk/ukpga/1990/43/section/22), [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/43/schedule/1) (S.) (1.4.2015) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)

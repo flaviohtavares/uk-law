@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Time and manner of granting council tax benefit[^key-691dbe3aba47ff6d95779cca45b6e8d9]
+## 77. Time and manner of granting council tax benefit[^c-691dbe3aba47ff6d95779cca45b6e8d9]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-691dbe3aba47ff6d95779cca45b6e8d9]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1992/1814/regulation/77) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-691dbe3aba47ff6d95779cca45b6e8d9]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1992/1814/regulation/77) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00072]: Footnote: S.I. [1992/613](https://www.legislation.gov.uk/uksi/1992/613).
 

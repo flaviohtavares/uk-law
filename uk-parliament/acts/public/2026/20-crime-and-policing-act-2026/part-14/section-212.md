@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Special police forces: barred persons lists and advisory lists[^key-f6bccd0dd945063d9b88e8ca83b438f9][^key-052e9a8ff54a7c90cebdc36e2f54d678][^key-123a6b3343fa112687c095cbd60378b1]
+## 212. Special police forces: barred persons lists and advisory lists[^c-f6bccd0dd945063d9b88e8ca83b438f9][^c-052e9a8ff54a7c90cebdc36e2f54d678][^c-123a6b3343fa112687c095cbd60378b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ Schedule 25 makes provision for barred persons lists and advisory lists to be ma
 
 ## Annotations
 
-[^key-f6bccd0dd945063d9b88e8ca83b438f9]: Commencement: S. 212 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f6bccd0dd945063d9b88e8ca83b438f9]: Commencement: S. 212 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-052e9a8ff54a7c90cebdc36e2f54d678]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2026/20/section/212) in force at 29.6.2026 for specified purposes by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/y)
+[^c-052e9a8ff54a7c90cebdc36e2f54d678]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2026/20/section/212) in force at 29.6.2026 for specified purposes by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/y)
 
-[^key-123a6b3343fa112687c095cbd60378b1]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2026/20/section/212) in force at 21.9.2026 in so far as not already in force by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/g)
+[^c-123a6b3343fa112687c095cbd60378b1]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2026/20/section/212) in force at 21.9.2026 in so far as not already in force by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/g)

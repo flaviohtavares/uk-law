@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Crown application[^key-93f3c411058d0a446ca8a01ac7ae9052]
+## 96. Crown application[^c-93f3c411058d0a446ca8a01ac7ae9052]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f3c411058d0a446ca8a01ac7ae9052]: Commencement: S. 96 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)
+[^c-93f3c411058d0a446ca8a01ac7ae9052]: Commencement: S. 96 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)

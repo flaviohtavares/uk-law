@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Information sent by CIO: time of receipt[^key-028b5bba08e25510a3bdd37672ef3590]
+## 53. Information sent by CIO: time of receipt[^c-028b5bba08e25510a3bdd37672ef3590]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ it is treated as having been received by the intended recipient 48 hours after i
 
 ## Annotations
 
-[^key-028b5bba08e25510a3bdd37672ef3590]: Commencement: Reg. 53 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-028b5bba08e25510a3bdd37672ef3590]: Commencement: Reg. 53 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00010]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). There are amendments to the Act not relevant to these Regulations.

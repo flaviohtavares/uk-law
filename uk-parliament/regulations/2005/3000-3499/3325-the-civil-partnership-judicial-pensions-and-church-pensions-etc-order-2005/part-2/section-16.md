@@ -20,10 +20,10 @@ summary: ''
 
 **Not yet in force.**
 
-**16.**[^key-afa3420c3a94bd885d97913857c7c923] In Schedule 2A (transfer of accrued benefits) (to be inserted by the amendments set out in paragraph 3(2) of Schedule 2 to the Judicial Pensions (Northern Ireland) Order 1991[^f00006]), in paragraph 6(7), for “his widow, or her widower” substitute “his widow, her widower or his or her surviving civil partner”.
+**16.**[^c-afa3420c3a94bd885d97913857c7c923] In Schedule 2A (transfer of accrued benefits) (to be inserted by the amendments set out in paragraph 3(2) of Schedule 2 to the Judicial Pensions (Northern Ireland) Order 1991[^f00006]), in paragraph 6(7), for “his widow, or her widower” substitute “his widow, her widower or his or her surviving civil partner”.
 
 ## Annotations
 
-[^key-afa3420c3a94bd885d97913857c7c923]: Commencement: Art. 16 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/2)
+[^c-afa3420c3a94bd885d97913857c7c923]: Commencement: Art. 16 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/2)
 
 [^f00006]: Footnote: [S.I. 1991/2631 (N.I. 24)](https://www.legislation.gov.uk/nisi/1991/2631).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — SCHEDULED MONUMENTS[^key-05d8441409a0260916f54eb22f988990]
+## SCHEDULE 10 — SCHEDULED MONUMENTS[^c-05d8441409a0260916f54eb22f988990]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 39
 
 ## Annotations
 
-[^key-05d8441409a0260916f54eb22f988990]: Commencement: Sch. 10 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-05d8441409a0260916f54eb22f988990]: Commencement: Sch. 10 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

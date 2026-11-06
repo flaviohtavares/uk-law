@@ -24,7 +24,7 @@ summary: ''
 
 ### The Social Work (Scotland) Act 1968 (c.49)
 
-**1.**[^key-6e7d20494497909f0480bd77e4996acd] (1) The Social Work (Scotland) Act 1968 shall be amended as follows.
+**1.**[^c-6e7d20494497909f0480bd77e4996acd] (1) The Social Work (Scotland) Act 1968 shall be amended as follows.
 
 (2) In section 4 (assistance by voluntary organisations in performance of functions), for the words from “section 7” to “1984” substitute “ section 25 (provision of care and support services for persons who have or have had a mental disorder), 26 (provision of services designed to promote well-being and social development of such persons) or 27 (assistance with travel in connection with such services) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) In section 5A(4) (local authority plans for community care services), in the definition of “community care services”, for the words from “section 7” to “1984” substitute “ section 25 (provision of care and support services for persons who have or have had a mental disorder), 26 (provision of services designed to promote well-being and social development of such persons) or 27 (assistance with travel in connection with such services) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
 
-(5)[^key-3e4cb746fe166b9202e8008d29b699f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3e4cb746fe166b9202e8008d29b699f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 59(1) (provision by local authorities of residential and other establishments etc.), for the words “section 13A” substitute “ sections 12 and 13A ”.
 
@@ -54,7 +54,7 @@ summary: ''
 
 ### The Local Government (Scotland) Act 1973 (c.65)
 
-**2.**[^key-fa58992eaba902a26c3a92f702e578c4] In section 64(5) of the Local Government (Scotland) Act 1973 (enactments concerning appointment of officers continuing to have effect), for paragraph (bb) substitute—
+**2.**[^c-fa58992eaba902a26c3a92f702e578c4] In section 64(5) of the Local Government (Scotland) Act 1973 (enactments concerning appointment of officers continuing to have effect), for paragraph (bb) substitute—
 
 > - (bb) section 32 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13);
 
@@ -62,14 +62,14 @@ summary: ''
 
 ### The National Health Service (Scotland) Act 1978 (c.29)
 
-**3.**[^key-20590f43a2ce2eeb8f4c4109ed3d1218] In section 102(1) of the National Health Service (Scotland) Act 1978 (duty of Scottish Ministers to provide state hospitals)—
+**3.**[^c-20590f43a2ce2eeb8f4c4109ed3d1218] In section 102(1) of the National Health Service (Scotland) Act 1978 (duty of Scottish Ministers to provide state hospitals)—
 
 - (a) after the word “under” insert “ the Criminal Procedure (Scotland) Act 1995 (c. 46) or ”; and
 - (b) for the words “Mental Health (Scotland) Act 1984” substitute “ Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
 
 ### The Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)
 
-**4.**[^key-101b0a0eeb78e256bf5fc96f7fe9b1c6] (1) The Disabled Persons (Services, Consultation and Representation) Act 1986 shall be amended as follows.
+**4.**[^c-101b0a0eeb78e256bf5fc96f7fe9b1c6] (1) The Disabled Persons (Services, Consultation and Representation) Act 1986 shall be amended as follows.
 
 (2) In section 2(5)(b) (right of authorised representative to visit disabled person in accommodation provided by virtue of certain enactments), for the words “section 7 of the 1984 Act” substitute “ section 25 of the 2003 Act ”.
 
@@ -84,7 +84,7 @@ summary: ''
 
 ### The Tribunals and Inquiries Act 1992 (c.53)
 
-**5.**[^key-ff0f0b2b7c2caa51992cc4f3f136b9f5] In Part II of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under the supervision of the Scottish Committee of the Council on Tribunals), after paragraph 54 insert—
+**5.**[^c-ff0f0b2b7c2caa51992cc4f3f136b9f5] In Part II of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals under the supervision of the Scottish Committee of the Council on Tribunals), after paragraph 54 insert—
 
 > |  |  |
 > | --- | --- |
@@ -94,15 +94,15 @@ summary: ''
 
 ### The Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9)
 
-**6.**[^key-50c3e163b5e7df598b21009b0c3fa1cc] In section 4(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (persons detained under the Mental Health (Scotland) Act 1984 (c. 36) by virtue of transfer direction and restriction direction), for the words from first “direction” to “given”, substitute “ for treatment direction under section 136(2) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) is made ”.
+**6.**[^c-50c3e163b5e7df598b21009b0c3fa1cc] In section 4(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (persons detained under the Mental Health (Scotland) Act 1984 (c. 36) by virtue of transfer direction and restriction direction), for the words from first “direction” to “given”, substitute “ for treatment direction under section 136(2) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) is made ”.
 
 ### The Children (Scotland) Act 1995 (c.36)
 
-**7.**[^key-01443eb031b062df29352c43c6bd9f2c] In section 23(2) of the Children (Scotland) Act 1995 (children affected by disability), for the words from “suffers” to the end substitute “ has a mental disorder (as defined in section 328(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)) ”.
+**7.**[^c-01443eb031b062df29352c43c6bd9f2c] In section 23(2) of the Children (Scotland) Act 1995 (children affected by disability), for the words from “suffers” to the end substitute “ has a mental disorder (as defined in section 328(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)) ”.
 
 ### The Criminal Procedure (Scotland) Act 1995 (c.46)
 
-**8.**[^key-24cc766fa4f5b9c3905e1ae3a0901b14] (1) The Criminal Procedure (Scotland) Act 1995 shall be amended as follows.
+**8.**[^c-24cc766fa4f5b9c3905e1ae3a0901b14] (1) The Criminal Procedure (Scotland) Act 1995 shall be amended as follows.
 
 (2) In section 54 (insanity in bar of trial)—
 
@@ -124,7 +124,7 @@ summary: ''
   >   - (a) to the health, safety or welfare of the person; or
   >   - (b) to the safety of any other person.
   >
-  > (2B) The measures referred to in subsection (1)(c)[^key-78b7ad60a58a4c1af750b40ec3b99897]... above are—
+  > (2B) The measures referred to in subsection (1)(c)[^c-78b7ad60a58a4c1af750b40ec3b99897]... above are—
   >
   > - (a) in the case of a person who, when the temporary compulsion order is made, has not been admitted to the specified hospital, the removal, before the expiry of the period of 7 days beginning with the day on which the order is made of the person to the specified hospital by—
   >   - (i) a constable;
@@ -215,7 +215,7 @@ summary: ''
 - (a) in subsection (1A), for the words “as mentioned in subsection (1) above” there shall be substituted “ in the High Court or the sheriff court of an offence, other than an offence the sentence for which is fixed by law, punishable by that court with imprisonment, ”; and
 - (b) in subsection (7)—
   - (i) for the words from first “the” to first “suffering” substitute “ (by reference to the appropriate paragraph (or paragraphs) of the definition of “mental disorder” in section 328(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)) the type (or types) of mental disorder that the offender has ”; and
-  - (ii) for the words from "the offender is described"[^key-9e5f3c43b2a53bfa2ed98953ae7f148f] to third “form” substitute “ the descriptions of the offender’s mental disorder by each of the medical practitioners, whose evidence is taken into account under subsection (1A)(a) above, specifies at least one type of mental disorder that is also specified by the other ”.
+  - (ii) for the words from "the offender is described"[^c-9e5f3c43b2a53bfa2ed98953ae7f148f] to third “form” substitute “ the descriptions of the offender’s mental disorder by each of the medical practitioners, whose evidence is taken into account under subsection (1A)(a) above, specifies at least one type of mental disorder that is also specified by the other ”.
 
 (5) In section 59 (hospital orders: restrictions on discharge)—
 
@@ -392,7 +392,7 @@ summary: ''
 - (a) in paragraph (a), after “virtue” insert “ of an assessment order, a treatment order or an interim compulsion order or by virtue ”; and
 - (b) in paragraph (c)(iii), after “virtue” insert “ of an assessment order, a treatment order or an interim compulsion order or by virtue ”.
 
-(15)[^key-78ce17d5ee71601b3d02f9f9363f1a7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-78ce17d5ee71601b3d02f9f9363f1a7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) In section 307 (interpretation), in subsection (1)—
 
@@ -426,7 +426,7 @@ summary: ''
 
 ### The Adults with Incapacity (Scotland) Act 2000 (asp 4)
 
-**9.**[^key-545a6c88645d79c9fa6e834ce376473a] (1) The Adults with Incapacity (Scotland) Act 2000 shall be amended as follows.
+**9.**[^c-545a6c88645d79c9fa6e834ce376473a] (1) The Adults with Incapacity (Scotland) Act 2000 shall be amended as follows.
 
 (2) In section 35(5) (definitions of certain expressions for the purposes of Part 4 of Act), for the words “who is liable to be detained there under the 1984 Act” substitute “ whose detention there is authorised by virtue of the Criminal Procedure (Scotland) Act 1995 (c. 46) or the 2003 Act ”.
 
@@ -462,15 +462,15 @@ summary: ''
 **10.** In section 77(1) of the Regulation of Care (Scotland) Act 2001 (interpretation)—
 
 - (a) in the definition of “independent hospital”, for the words from “is” to the end substitute “ , subject to subsection (2) below, is not a health service hospital ”; and
-- (b)[^key-49995c1291f87905ca6905901378df6a] in the definition of “mental disorder”, for “Mental Health (Scotland) Act 1984 (c. 36)” substitute “ Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
+- (b)[^c-49995c1291f87905ca6905901378df6a] in the definition of “mental disorder”, for “Mental Health (Scotland) Act 1984 (c. 36)” substitute “ Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
 
 ### The Housing (Scotland) Act 2001 (asp 10)
 
-**11.**[^key-a44592f876f595fec4be433775744770] In paragraph 4(6) of schedule 7 to the Housing (Scotland) Act 2001 (power of Scottish Ministers to remove director, trustee, etc. of a registered social landlord), for the words “Mental Health (Scotland) Act 1984 (c. 36)” substitute “ Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
+**11.**[^c-a44592f876f595fec4be433775744770] In paragraph 4(6) of schedule 7 to the Housing (Scotland) Act 2001 (power of Scottish Ministers to remove director, trustee, etc. of a registered social landlord), for the words “Mental Health (Scotland) Act 1984 (c. 36)” substitute “ Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) ”.
 
 ### The Community Care and Health (Scotland) Act 2002 (asp 5)
 
-**12.**[^key-646ca565e22281812fc322c5d00e2d25] (1) The Community Care and Health (Scotland) Act 2002 shall be amended as follows.
+**12.**[^c-646ca565e22281812fc322c5d00e2d25] (1) The Community Care and Health (Scotland) Act 2002 shall be amended as follows.
 
 (2) In section 4(1) (payment towards cost of accommodation more expensive than local authority would expect usually to provide), for the words from “section 7” to “authorities)” substitute “ section 25 of the 2003 Act (provision of care and support services for persons who have or have had a mental disorder) ”.
 
@@ -478,7 +478,7 @@ summary: ''
 
 ### The Scottish Public Services Ombudsman Act 2002 (asp 11)
 
-**13.**[^key-7eca1e3b1bb9a5537e18dc1fb7145c01] In schedule 3 to the Scottish Public Services Ombudsman Act 2002 (which specifies tribunals for the purpose of making the administrative actions of certain administrative staff of those tribunals liable to investigation under that Act), after paragraph 4 insert—
+**13.**[^c-7eca1e3b1bb9a5537e18dc1fb7145c01] In schedule 3 to the Scottish Public Services Ombudsman Act 2002 (which specifies tribunals for the purpose of making the administrative actions of certain administrative staff of those tribunals liable to investigation under that Act), after paragraph 4 insert—
 
 > **4A.** The Mental Health Tribunal for Scotland.
 
@@ -486,36 +486,36 @@ summary: ''
 
 ## Annotations
 
-[^key-6e7d20494497909f0480bd77e4996acd]: Commencement: Sch. 4 para. 1 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-6e7d20494497909f0480bd77e4996acd]: Commencement: Sch. 4 para. 1 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-3e4cb746fe166b9202e8008d29b699f5]: Textual amendment: Sch. 4 para. 1(5) repealed (23.2.2006) by [Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)](https://www.legislation.gov.uk/asp/2006/3), [ss. 8(4)(h)](https://www.legislation.gov.uk/asp/2006/3/section/8/4/h), [10(2)](https://www.legislation.gov.uk/asp/2006/3/section/10/2)
+[^c-3e4cb746fe166b9202e8008d29b699f5]: Textual amendment: Sch. 4 para. 1(5) repealed (23.2.2006) by [Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)](https://www.legislation.gov.uk/asp/2006/3), [ss. 8(4)(h)](https://www.legislation.gov.uk/asp/2006/3/section/8/4/h), [10(2)](https://www.legislation.gov.uk/asp/2006/3/section/10/2)
 
-[^key-fa58992eaba902a26c3a92f702e578c4]: Commencement: Sch. 4 para. 2 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-fa58992eaba902a26c3a92f702e578c4]: Commencement: Sch. 4 para. 2 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-20590f43a2ce2eeb8f4c4109ed3d1218]: Commencement: Sch. 4 para. 3 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-20590f43a2ce2eeb8f4c4109ed3d1218]: Commencement: Sch. 4 para. 3 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-101b0a0eeb78e256bf5fc96f7fe9b1c6]: Commencement: Sch. 4 para. 4 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-101b0a0eeb78e256bf5fc96f7fe9b1c6]: Commencement: Sch. 4 para. 4 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-ff0f0b2b7c2caa51992cc4f3f136b9f5]: Commencement: Sch. 4 para. 5 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-ff0f0b2b7c2caa51992cc4f3f136b9f5]: Commencement: Sch. 4 para. 5 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-50c3e163b5e7df598b21009b0c3fa1cc]: Commencement: Sch. 4 para. 6 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-50c3e163b5e7df598b21009b0c3fa1cc]: Commencement: Sch. 4 para. 6 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-01443eb031b062df29352c43c6bd9f2c]: Commencement: Sch. 4 para. 7 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-01443eb031b062df29352c43c6bd9f2c]: Commencement: Sch. 4 para. 7 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-24cc766fa4f5b9c3905e1ae3a0901b14]: Commencement: Sch. 4 para. 8 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-24cc766fa4f5b9c3905e1ae3a0901b14]: Commencement: Sch. 4 para. 8 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-78b7ad60a58a4c1af750b40ec3b99897]: Textual amendment: Word in sch. 4 para. 8(2)(b) (in the inserted 1995 c. 46, s. 54(2B)) repealed (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
+[^c-78b7ad60a58a4c1af750b40ec3b99897]: Textual amendment: Word in sch. 4 para. 8(2)(b) (in the inserted 1995 c. 46, s. 54(2B)) repealed (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
 
-[^key-9e5f3c43b2a53bfa2ed98953ae7f148f]: Textual amendment: Words in sch. 4 para. 8(4)(b)(ii) substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(27)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/27)
+[^c-9e5f3c43b2a53bfa2ed98953ae7f148f]: Textual amendment: Words in sch. 4 para. 8(4)(b)(ii) substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(27)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/27)
 
-[^key-78ce17d5ee71601b3d02f9f9363f1a7a]: Textual amendment: Sch. 4 para. 8(15) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 48(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/48/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-78ce17d5ee71601b3d02f9f9363f1a7a]: Textual amendment: Sch. 4 para. 8(15) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 48(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/48/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-545a6c88645d79c9fa6e834ce376473a]: Commencement: Sch. 4 para. 9 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-545a6c88645d79c9fa6e834ce376473a]: Commencement: Sch. 4 para. 9 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-49995c1291f87905ca6905901378df6a]: Commencement: Sch. 4 para. 10(b) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-49995c1291f87905ca6905901378df6a]: Commencement: Sch. 4 para. 10(b) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-a44592f876f595fec4be433775744770]: Commencement: Sch. 4 para. 11 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-a44592f876f595fec4be433775744770]: Commencement: Sch. 4 para. 11 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-646ca565e22281812fc322c5d00e2d25]: Commencement: Sch. 4 para. 12 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-646ca565e22281812fc322c5d00e2d25]: Commencement: Sch. 4 para. 12 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-7eca1e3b1bb9a5537e18dc1fb7145c01]: Commencement: Sch. 4 para. 13 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-7eca1e3b1bb9a5537e18dc1fb7145c01]: Commencement: Sch. 4 para. 13 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

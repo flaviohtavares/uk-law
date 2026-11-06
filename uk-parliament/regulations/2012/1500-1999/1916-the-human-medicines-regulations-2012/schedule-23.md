@@ -29,12 +29,12 @@ Regulation 253
   - (ii) a supplementary prescriber,
   - (iii) a community practitioner nurse prescriber,
   - (iv) a nurse independent prescriber,
-  - (v)[^key-191a4c898838af4aadef65f54a591cdb] an optometrist independent prescriber,
+  - (v)[^c-191a4c898838af4aadef65f54a591cdb] an optometrist independent prescriber,
   - (vi) a pharmacist independent prescriber,
   - (vii) a podiatrist independent prescriber,
-  - (viii) a physiotherapist independent prescriber, [^key-8a306ff30c762bc3c7a6b7be44d67e14]...
+  - (viii) a physiotherapist independent prescriber, [^c-8a306ff30c762bc3c7a6b7be44d67e14]...
   - (ix) a therapeutic radiographer independent prescriber; or
-  - (x)[^key-f7547585f1a909d47ae0ab09dfc00156] a paramedic paramedic independent prescriber; or
+  - (x)[^c-f7547585f1a909d47ae0ab09dfc00156] a paramedic paramedic independent prescriber; or
 - (b) under regulation 224 (emergency sale etc by pharmacist: prescriber unable to provide prescription).
 
 **2.** In such a case, the particulars referred to in regulation 253(2)(a) are—
@@ -72,8 +72,8 @@ Regulation 253
 
 ## Annotations
 
-[^key-191a4c898838af4aadef65f54a591cdb]: Textual amendment: Sch. 23 para. 1(a)(v)-(ix) substituted for Sch. 23 para. 1(a)(v)(vi) (E.W.S.) (1.4.2016) by [The Human Medicines (Amendment) Regulations 2016 (S.I. 2016/186)](https://www.legislation.gov.uk/uksi/2016/186), [regs. 1](https://www.legislation.gov.uk/uksi/2016/186/regulation/1), [17](https://www.legislation.gov.uk/uksi/2016/186/regulation/17) and Sch. 23 para. 1(a)(v)-(ix) substituted for Sch. 23 para. 1(a)(v)(vi) (N.I.) (1.4.2016) by [The Human Medicines (Amendment) Regulations 2016 (S.R. 2016/407)](https://www.legislation.gov.uk/nisr/2016/407), [regs. 1](https://www.legislation.gov.uk/nisr/2016/407/regulation/1), [17](https://www.legislation.gov.uk/nisr/2016/407/regulation/17)
+[^c-191a4c898838af4aadef65f54a591cdb]: Textual amendment: Sch. 23 para. 1(a)(v)-(ix) substituted for Sch. 23 para. 1(a)(v)(vi) (E.W.S.) (1.4.2016) by [The Human Medicines (Amendment) Regulations 2016 (S.I. 2016/186)](https://www.legislation.gov.uk/uksi/2016/186), [regs. 1](https://www.legislation.gov.uk/uksi/2016/186/regulation/1), [17](https://www.legislation.gov.uk/uksi/2016/186/regulation/17) and Sch. 23 para. 1(a)(v)-(ix) substituted for Sch. 23 para. 1(a)(v)(vi) (N.I.) (1.4.2016) by [The Human Medicines (Amendment) Regulations 2016 (S.R. 2016/407)](https://www.legislation.gov.uk/nisr/2016/407), [regs. 1](https://www.legislation.gov.uk/nisr/2016/407/regulation/1), [17](https://www.legislation.gov.uk/nisr/2016/407/regulation/17)
 
-[^key-8a306ff30c762bc3c7a6b7be44d67e14]: Textual amendment: Word in Sch. 23 para. 1(a)(viii) omitted (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/199/regulation/13/2/a) and word in Sch. 23 para. 1(a)(viii) omitted (N.I.) (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/nisr/2018/64/regulation/13/2/a)
+[^c-8a306ff30c762bc3c7a6b7be44d67e14]: Textual amendment: Word in Sch. 23 para. 1(a)(viii) omitted (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/199/regulation/13/2/a) and word in Sch. 23 para. 1(a)(viii) omitted (N.I.) (1.4.2018) by virtue of [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/nisr/2018/64/regulation/13/2/a)
 
-[^key-f7547585f1a909d47ae0ab09dfc00156]: Textual amendment: Sch. 23 para. 1(a)(x) inserted (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/199/regulation/13/2/b) and Sch. 23 para. 1(a)(x) inserted (N.I.) (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/nisr/2018/64/regulation/13/2/b)
+[^c-f7547585f1a909d47ae0ab09dfc00156]: Textual amendment: Sch. 23 para. 1(a)(x) inserted (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.I. 2018/199)](https://www.legislation.gov.uk/uksi/2018/199), [regs. 1](https://www.legislation.gov.uk/uksi/2018/199/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/199/regulation/13/2/b) and Sch. 23 para. 1(a)(x) inserted (N.I.) (1.4.2018) by [The Human Medicines (Amendment) Regulations 2018 (S.R. 2018/64)](https://www.legislation.gov.uk/nisr/2018/64), [regs. 1](https://www.legislation.gov.uk/nisr/2018/64/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/nisr/2018/64/regulation/13/2/b)

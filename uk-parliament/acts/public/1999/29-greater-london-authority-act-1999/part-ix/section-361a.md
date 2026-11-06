@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361A. Duties of Mayor and Assembly with respect to climate change[^key-2fbd9dc77b0f84c715cce8fe5b629b78]
+## 361A. Duties of Mayor and Assembly with respect to climate change[^c-2fbd9dc77b0f84c715cce8fe5b629b78]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fbd9dc77b0f84c715cce8fe5b629b78]: Textual amendment: S. 361A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 42](https://www.legislation.gov.uk/ukpga/2007/24/section/42), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-2fbd9dc77b0f84c715cce8fe5b629b78]: Textual amendment: S. 361A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 42](https://www.legislation.gov.uk/ukpga/2007/24/section/42), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)

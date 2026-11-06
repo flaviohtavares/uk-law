@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38A. Powers to amend regulation 38[^key-f8d6a31ac40bd6ec50e93624cd420f58]
+## 38A. Powers to amend regulation 38[^c-f8d6a31ac40bd6ec50e93624cd420f58]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8d6a31ac40bd6ec50e93624cd420f58]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/ssi/2016/49/regulation/38A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(26)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/26) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-f8d6a31ac40bd6ec50e93624cd420f58]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/ssi/2016/49/regulation/38A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(26)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/26) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

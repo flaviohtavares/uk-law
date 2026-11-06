@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Disapplication of legislative provisions[^key-e2429ba57b69209665c7aa97ea8be369]
+## 33. Disapplication of legislative provisions[^c-e2429ba57b69209665c7aa97ea8be369]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Section 23 of the Land Drainage Act 1991[^f00020] does not apply in relation to 
 
 ## Annotations
 
-[^key-e2429ba57b69209665c7aa97ea8be369]: Commencement: Art. 33 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-e2429ba57b69209665c7aa97ea8be369]: Commencement: Art. 33 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00020]: Footnote: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59).

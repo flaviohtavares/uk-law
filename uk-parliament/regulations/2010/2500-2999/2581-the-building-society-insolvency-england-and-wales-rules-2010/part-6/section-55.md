@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Entitlement to vote (contributories)[^key-d9eee7adda6803b60ce324ce4291383f]
+## 55. Entitlement to vote (contributories)[^c-d9eee7adda6803b60ce324ce4291383f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.69 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d9eee7adda6803b60ce324ce4291383f]: Commencement: Rule 55 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-d9eee7adda6803b60ce324ce4291383f]: Commencement: Rule 55 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

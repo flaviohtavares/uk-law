@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39D. Rating of gas licence holders, etc.[^key-c5aa272c6544142d78282e39805c095c]
+## 39D. Rating of gas licence holders, etc.[^c-c5aa272c6544142d78282e39805c095c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5aa272c6544142d78282e39805c095c]: Textual amendment: [Art. 39D](https://www.legislation.gov.uk/nisi/1977/2157/article/39D) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(b)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/b), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-c5aa272c6544142d78282e39805c095c]: Textual amendment: [Art. 39D](https://www.legislation.gov.uk/nisi/1977/2157/article/39D) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(b)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/b), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)

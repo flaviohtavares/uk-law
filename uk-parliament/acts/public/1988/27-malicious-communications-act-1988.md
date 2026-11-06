@@ -45,27 +45,27 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - (a) a letter, electronic communication or article of any description[^c803482] which conveys—
   - (i) a message which is indecent or grossly offensive;
-  - (ii)[^key-5e1a4657609a3c9b5bdd8b4bb35dbbf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-e777bae16c7e786c6b0944c24d6d8b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-5e1a4657609a3c9b5bdd8b4bb35dbbf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-e777bae16c7e786c6b0944c24d6d8b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any article or electronic communication[^c803483] which is, in whole or part, of an indecent or grossly offensive nature,
 
 is guilty of an offence if his purpose, or one of his purposes, in sending it is that it should, so far as falling within paragraph (a) or (b) above, cause distress or anxiety to the recipient or to any other person to whom he intends that it or its contents or nature should be communicated.
 
-(2)[^key-3c3418b2ebb5e43fbc7fbcbf040204f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3c3418b2ebb5e43fbc7fbcbf040204f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2A)[^c803486] In this section “**electronic communication**” includes—
 
-- (a)[^key-2683a4eee0b787bf5ab46f298cd08de7] any oral or other communication by means of an electronic communications network (c. 12)); and
+- (a)[^c-2683a4eee0b787bf5ab46f298cd08de7] any oral or other communication by means of an electronic communications network (c. 12)); and
 - (b) any communication (however sent) that is in electronic form.
 
 (3) In this section references to sending include references to delivering or transmitting[^c803487] and to causing to be sent , delivered or transmitted[^c803488] and “**sender**” shall be construed accordingly.
 
-(4)[^key-5a52a02dfaea8eb1f1bddd9ca3765338] A person guilty of an offence under this section is liable—
+(4)[^c-5a52a02dfaea8eb1f1bddd9ca3765338] A person guilty of an offence under this section is liable—
 
 - (a) on conviction on indictment to imprisonment for a term not exceeding two years or a fine (or both);
 - (b) on summary conviction to imprisonment for a term not exceeding 12 months or a fine (or both).
 
-(5) In relation to an offence committed before 2 May 2022[^key-9c9a07527cacdf279c8ad1140b76e5a4], the reference in subsection (4)(b) to 12 months is to be read as a reference to six months.
+(5) In relation to an offence committed before 2 May 2022[^c-9c9a07527cacdf279c8ad1140b76e5a4], the reference in subsection (4)(b) to 12 months is to be read as a reference to six months.
 
 (6) In relation to an offence committed before section 85 of the Legal Aid Sentencing and Punishment of Offenders Act 2012 comes into force, the reference in subsection (4)(b) to a fine is to be read as a reference to a fine not exceeding the statutory maximum.
 
@@ -90,24 +90,24 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c803490]North
 
 [^c803482]: Textual amendment: Words in s. 1(1)(a) substituted (11.5.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 43(1)(a)](https://www.legislation.gov.uk/ukpga/2001/16/section/43/1/a), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2)
 
-[^key-5e1a4657609a3c9b5bdd8b4bb35dbbf4]: Textual amendment: [S. 1(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/1/a/ii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(2)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/2/a), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-5e1a4657609a3c9b5bdd8b4bb35dbbf4]: Textual amendment: [S. 1(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/1/a/ii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(2)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/2/a), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-e777bae16c7e786c6b0944c24d6d8b8b]: Textual amendment: [S. 1(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/1/a/iii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(2)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/2/b), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-e777bae16c7e786c6b0944c24d6d8b8b]: Textual amendment: [S. 1(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/1/a/iii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(2)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/2/b), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^c803483]: Textual amendment: Words in s. 1(1)(b) substituted (11.5.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2001/16/section/43/1/b), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2)
 
-[^key-3c3418b2ebb5e43fbc7fbcbf040204f7]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/2) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(2)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/2/c), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-3c3418b2ebb5e43fbc7fbcbf040204f7]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/2) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(2)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/2/c), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^c803486]: Textual amendment: S. 1(2A) inserted (11.5.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2001/16/section/43/3), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2)
 
-[^key-2683a4eee0b787bf5ab46f298cd08de7]: Textual amendment: Words in s. 1(2A)(a) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 90](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/90) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2683a4eee0b787bf5ab46f298cd08de7]: Textual amendment: Words in s. 1(2A)(a) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 90](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/90) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c803487]: Textual amendment: Words in s. 1(3) inserted (11.5.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 43(4)(a)](https://www.legislation.gov.uk/ukpga/2001/16/section/43/4/a), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2)
 
 [^c803488]: Textual amendment: Words in s. 1(3) substituted (11.5.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 43(4)(b)](https://www.legislation.gov.uk/ukpga/2001/16/section/43/4/b), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2)
 
-[^key-5a52a02dfaea8eb1f1bddd9ca3765338]: Textual amendment: S. 1(4)-(6) substituted for s. 1(4) (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/32/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/32/2)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/26)
+[^c-5a52a02dfaea8eb1f1bddd9ca3765338]: Textual amendment: S. 1(4)-(6) substituted for s. 1(4) (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/32/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/32/2)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/26)
 
-[^key-9c9a07527cacdf279c8ad1140b76e5a4]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-9c9a07527cacdf279c8ad1140b76e5a4]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1988/27/section/1/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
 [^c803490]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).

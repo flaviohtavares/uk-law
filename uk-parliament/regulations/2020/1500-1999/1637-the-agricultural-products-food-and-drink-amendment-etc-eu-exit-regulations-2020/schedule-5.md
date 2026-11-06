@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 22
 
-### PART 1 — Article 6: new paragraphs 4 to 4o[^key-b7ee6858bcff3c90c789d7c23a6fea29]
+### PART 1 — Article 6: new paragraphs 4 to 4o[^c-b7ee6858bcff3c90c789d7c23a6fea29]
 
 > **4.** This paragraph and paragraphs 4a to 4o apply to UK temporary amendments.
 >
@@ -84,7 +84,7 @@ Regulation 22
 >
 > **4o.** In this Article, ‘a UK temporary amendment application’ means an application for a UK temporary amendment.
 
-### PART 2 — New Annex[^key-407acdcec1c0dc58adb676f61e2a4d98]
+### PART 2 — New Annex[^c-407acdcec1c0dc58adb676f61e2a4d98]
 
 > **ANNEX — Quality schemes symbols**
 >
@@ -95,6 +95,6 @@ Regulation 22
 
 ## Annotations
 
-[^key-b7ee6858bcff3c90c789d7c23a6fea29]: Commencement: Sch. 5 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-b7ee6858bcff3c90c789d7c23a6fea29]: Commencement: Sch. 5 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-407acdcec1c0dc58adb676f61e2a4d98]: Commencement: Sch. 5 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-407acdcec1c0dc58adb676f61e2a4d98]: Commencement: Sch. 5 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)

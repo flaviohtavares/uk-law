@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Repeal of provision changing name of pupil referral units[^key-476aa1941e5880576179f490e97ad586]
+## 51. Repeal of provision changing name of pupil referral units[^c-476aa1941e5880576179f490e97ad586]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-476aa1941e5880576179f490e97ad586]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2011/21/section/51) in force at 15.1.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)
+[^c-476aa1941e5880576179f490e97ad586]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2011/21/section/51) in force at 15.1.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130C. Charges for and use of waste reception facilities.[^c14526611][^key-ac1793e613af0b924f498056774ab9d6]
+## 130C. Charges for and use of waste reception facilities.[^c14526611][^c-ac1793e613af0b924f498056774ab9d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ to deposit any waste carried by the ship, or any prescribed description of such 
 
 [^c14526611]: Textual amendment: Pt. VI Ch. IA (ss. 130A-130E) inserted (19.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [ss. 5](https://www.legislation.gov.uk/ukpga/1997/28/section/5), [31(4)](https://www.legislation.gov.uk/ukpga/1997/28/section/31/4)
 
-[^key-ac1793e613af0b924f498056774ab9d6]: Modification: [Ss. 130A-130E](https://www.legislation.gov.uk/ukpga/1995/21/section/130A) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(d)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/d/f))
+[^c-ac1793e613af0b924f498056774ab9d6]: Modification: [Ss. 130A-130E](https://www.legislation.gov.uk/ukpga/1995/21/section/130A) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(d)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/d/f))
 
 [^c14526621]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).

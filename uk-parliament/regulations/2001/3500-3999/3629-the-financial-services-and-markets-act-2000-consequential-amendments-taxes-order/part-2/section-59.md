@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Modification of section 83A in relation to overseas life insurance companies[^key-b2a990a7469fb7904c79f5dc31046632]
+## 59. Modification of section 83A in relation to overseas life insurance companies[^c-b2a990a7469fb7904c79f5dc31046632]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2a990a7469fb7904c79f5dc31046632]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/uksi/2001/3629/article/59) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
+[^c-b2a990a7469fb7904c79f5dc31046632]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/uksi/2001/3629/article/59) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))

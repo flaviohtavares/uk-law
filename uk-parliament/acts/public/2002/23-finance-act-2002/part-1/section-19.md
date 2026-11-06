@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Registered vehicles etc[^key-12ca6daa34b99c6df541540faa073103]
+## 19. Registered vehicles etc[^c-12ca6daa34b99c6df541540faa073103]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ has effect.
 
 ## Annotations
 
-[^key-12ca6daa34b99c6df541540faa073103]: Commencement: S. 19(1) in force for specified purposes at 24.7.2002, see s. 19(2)(3); s. 19(2)-(5) in force at 24.7.2002; s. 19(1) in force at 30.11.2003 for specified purposes and 19.12.2003 for remaining purposes by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-12ca6daa34b99c6df541540faa073103]: Commencement: S. 19(1) in force for specified purposes at 24.7.2002, see s. 19(2)(3); s. 19(2)-(5) in force at 24.7.2002; s. 19(1) in force at 30.11.2003 for specified purposes and 19.12.2003 for remaining purposes by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Article 3 (interpretation)[^key-79eea840ac6c1edc30f7cc568b001f81][^key-660b7df424255946745807230422752e][^key-660b7df424255946745807230422752e]
+## 121. Article 3 (interpretation)[^c-79eea840ac6c1edc30f7cc568b001f81][^c-660b7df424255946745807230422752e][^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,15 +24,15 @@ summary: ''
 
 (2) Omit the definitions of—
 
-- [^key-e10a9a36043591aeeb956ca35ad9fd31]...
-- [^key-e10a9a36043591aeeb956ca35ad9fd31]...
+- [^c-e10a9a36043591aeeb956ca35ad9fd31]...
+- [^c-e10a9a36043591aeeb956ca35ad9fd31]...
 - “EEA AIFM” [^c23658991],
 - “credit institution” [^c23659001],
-- [^key-e10a9a36043591aeeb956ca35ad9fd31]...
-- [^key-e10a9a36043591aeeb956ca35ad9fd31]...
+- [^c-e10a9a36043591aeeb956ca35ad9fd31]...
+- [^c-e10a9a36043591aeeb956ca35ad9fd31]...
 - “investment services and activities” [^c23659031],
-- [^key-e10a9a36043591aeeb956ca35ad9fd31]...
-- [^key-e10a9a36043591aeeb956ca35ad9fd31]...
+- [^c-e10a9a36043591aeeb956ca35ad9fd31]...
+- [^c-e10a9a36043591aeeb956ca35ad9fd31]...
 - “UCITS” [^c23659061], and
 - “UK AIF” [^c23659071].
 
@@ -148,17 +148,17 @@ summary: ''
 
 (15) After paragraph (3) of article 3 insert—
 
-> (4) In this Order any reference to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA containing rules made by the FCA under the Act, as the sourcebook has effect on IP completion day[^key-03dd35029ca5f44b1be0a69fb9baa412].
+> (4) In this Order any reference to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA containing rules made by the FCA under the Act, as the sourcebook has effect on IP completion day[^c-03dd35029ca5f44b1be0a69fb9baa412].
 
 .
 
 ## Annotations
 
-[^key-79eea840ac6c1edc30f7cc568b001f81]: Commencement: Reg. 121 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-79eea840ac6c1edc30f7cc568b001f81]: Commencement: Reg. 121 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
-[^key-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e10a9a36043591aeeb956ca35ad9fd31]: Textual amendment: Words in reg. 121(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [57(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57/2)
+[^c-e10a9a36043591aeeb956ca35ad9fd31]: Textual amendment: Words in reg. 121(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [57(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57/2)
 
 [^c23658991]: Marginal citation: This definition was inserted by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
@@ -194,4 +194,4 @@ summary: ''
 
 [^c23659191]: Marginal citation: This definition was substituted by [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715).
 
-[^key-03dd35029ca5f44b1be0a69fb9baa412]: Textual amendment: Words in reg. 121(15) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(l)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/l)
+[^c-03dd35029ca5f44b1be0a69fb9baa412]: Textual amendment: Words in reg. 121(15) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(l)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/l)

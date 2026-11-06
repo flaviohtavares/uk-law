@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 295. Application of the IA 1986 and the Company Directors Disqualification Act[^key-e4240de84fe94593d7ca9489977dac35]
+## 295. Application of the IA 1986 and the Company Directors Disqualification Act[^c-e4240de84fe94593d7ca9489977dac35]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ For the purposes of these Rules, any reference in IA 1986 or the Company Directo
 
 ## Annotations
 
-[^key-e4240de84fe94593d7ca9489977dac35]: Commencement: Rule 295 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e4240de84fe94593d7ca9489977dac35]: Commencement: Rule 295 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00030]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).

@@ -22,25 +22,25 @@ summary: ''
 
 Section 42
 
-### 1. General principles[^key-45cb3ca20c3d199bb47f4f153200c242]
+### 1. General principles[^c-45cb3ca20c3d199bb47f4f153200c242]
 
 In preparing a draft of a code of practice or amendments of a code of practice, OFCOM must—
 
 - (a) consider the appropriateness of provisions of the code of practice to different kinds and sizes of Part 3 services and to providers of differing sizes and capacities, and
 - (b) have regard to the principles mentioned in paragraph 2.
 
-**2.**[^key-81b38dae983637555f415f4d314b0965] The principles are as follows—
+**2.**[^c-81b38dae983637555f415f4d314b0965] The principles are as follows—
 
 - (a) providers of Part 3 services must be able to understand which provisions of the code of practice apply in relation to a particular service they provide;
 - (b) the measures described in the code of practice must be sufficiently clear, and at a sufficiently detailed level, that providers understand what those measures entail in practice;
 - (c) the measures described in the code of practice must be proportionate and technically feasible: measures that are proportionate or technically feasible for providers of a certain size or capacity, or for services of a certain kind or size, may not be proportionate or technically feasible for providers of a different size or capacity or for services of a different kind or size;
 - (d) the measures described in the code of practice that apply in relation to Part 3 services of various kinds and sizes must be proportionate to OFCOM’s assessment (under section 98) of the risk of harm presented by services of that kind or size.
 
-### 3. Online safety objectives[^key-9850a3e92ae08748ffb8184d84def86f]
+### 3. Online safety objectives[^c-9850a3e92ae08748ffb8184d84def86f]
 
 OFCOM must ensure that measures described in codes of practice are compatible with pursuit of the online safety objectives.
 
-**4.**[^key-f1a413d7a0eb8ab0bc4dceaf960dc78e] The online safety objectives for regulated user-to-user services are as follows—
+**4.**[^c-f1a413d7a0eb8ab0bc4dceaf960dc78e] The online safety objectives for regulated user-to-user services are as follows—
 
 - (a) a service should be designed and operated in such a way that—
   - (i) the systems and processes for regulatory compliance and risk management are effective and proportionate to the kind and size of service,
@@ -57,7 +57,7 @@ OFCOM must ensure that measures described in codes of practice are compatible wi
   - (ii) functionalities of the service, and
   - (iii) other features relating to the operation of the service.
 
-**5.**[^key-c9b2f690a3ad0e81f249045192d0b44a] The online safety objectives for regulated search services are as follows—
+**5.**[^c-c9b2f690a3ad0e81f249045192d0b44a] The online safety objectives for regulated search services are as follows—
 
 - (a) a service should be designed and operated in such a way that—
   - (i) the systems and processes for regulatory compliance and risk management are effective and proportionate to the kind and size of service,
@@ -72,29 +72,29 @@ OFCOM must ensure that measures described in codes of practice are compatible wi
   - (ii) functionalities relating to searches (such as a predictive search functionality), and
   - (iii) the indexing, organisation and presentation of search results.
 
-**6.**[^key-f33993726064a4af512b79a8ee0e7346] In the case of a combined service—
+**6.**[^c-f33993726064a4af512b79a8ee0e7346] In the case of a combined service—
 
 - (a) the online safety objectives set out in paragraph 4 do not apply in relation to the search engine;
 - (b) the online safety objectives set out in paragraph 5 apply in relation to the search engine, and accordingly references in that paragraph to a search service are to be read as references to the search engine;
 - (c) the reference in paragraph 5(a)(iii) to a publicly available statement includes a reference to provisions of the terms of service which relate to the search engine.
 
-**7.**[^key-e8a1182fba53eb62935b16e1b644b518] The Secretary of State may by regulations amend paragraph 4 or 5 so as to vary the online safety objectives for regulated user-to-user services or regulated search services, and such regulations may make consequential amendments of paragraph 6.
+**7.**[^c-e8a1182fba53eb62935b16e1b644b518] The Secretary of State may by regulations amend paragraph 4 or 5 so as to vary the online safety objectives for regulated user-to-user services or regulated search services, and such regulations may make consequential amendments of paragraph 6.
 
-**8.**[^key-6f03cc430ef8b041f491a75ffeb7723d] If regulations are made amending the online safety objectives, OFCOM must, as soon as reasonably practicable after the regulations come into force, consider whether a review of the codes of practice published under section 46 is required and, if OFCOM consider that it is required, carry out a review to assess whether any amendments are needed to reflect the revised objectives.
+**8.**[^c-6f03cc430ef8b041f491a75ffeb7723d] If regulations are made amending the online safety objectives, OFCOM must, as soon as reasonably practicable after the regulations come into force, consider whether a review of the codes of practice published under section 46 is required and, if OFCOM consider that it is required, carry out a review to assess whether any amendments are needed to reflect the revised objectives.
 
-### 9. Content of codes of practice[^key-f4927b96311294b88bbb04ff6492d019]
+### 9. Content of codes of practice[^c-f4927b96311294b88bbb04ff6492d019]
 
-(1) Codes of practice that describe measures recommended for the purpose of compliance with a duty set out in section 10(2) , (3) or (3A)[^key-0f1697f30295a059ee202d9b0243e9c4] (illegal content) must include measures in each of the areas of a service listed in section 10(4).
+(1) Codes of practice that describe measures recommended for the purpose of compliance with a duty set out in section 10(2) , (3) or (3A)[^c-0f1697f30295a059ee202d9b0243e9c4] (illegal content) must include measures in each of the areas of a service listed in section 10(4).
 
 (2) Codes of practice that describe measures recommended for the purpose of compliance with a duty set out in section 12(2) or (3) (children’s online safety) must include measures in each of the areas of a service listed in section 12(8).
 
-(3) Codes of practice that describe measures recommended for the purpose of compliance with a duty set out in section 27(2) , (3) or (3A)[^key-c963ccc7086db4a75489b2e8f9141c29] (illegal content) must include measures in each of the areas of a service listed in section 27(4).
+(3) Codes of practice that describe measures recommended for the purpose of compliance with a duty set out in section 27(2) , (3) or (3A)[^c-c963ccc7086db4a75489b2e8f9141c29] (illegal content) must include measures in each of the areas of a service listed in section 27(4).
 
 (4) Codes of practice that describe measures recommended for the purpose of compliance with a duty set out in section 29(2) or (3) (children’s online safety) must include measures in each of the areas of a service listed in section 29(4).
 
 (5) Sub-paragraphs (1) to (4) apply to the extent that inclusion of the measures in question is consistent with paragraph 1(a) and the principles mentioned in paragraph 2(c) and (d).
 
-**10.**[^key-72d70c4fff661541404b1e75586e2b16] (1) Measures described in a code of practice which are recommended for the purpose of compliance with any of the relevant duties must be designed in the light of the principles mentioned in sub-paragraph (2) and (where appropriate) incorporate safeguards for the protection of the matters mentioned in those principles.
+**10.**[^c-72d70c4fff661541404b1e75586e2b16] (1) Measures described in a code of practice which are recommended for the purpose of compliance with any of the relevant duties must be designed in the light of the principles mentioned in sub-paragraph (2) and (where appropriate) incorporate safeguards for the protection of the matters mentioned in those principles.
 
 (2) The principles are—
 
@@ -114,12 +114,12 @@ OFCOM must ensure that measures described in codes of practice are compatible wi
 - (g) sections 21 and 32 (complaints procedures), and
 - (h) sections 38 and 39 (fraudulent advertising).
 
-**11.**[^key-4fa7f1ac5c1647dd26ae5fbba464c5e2] Measures described in a code of practice may relate only to the design or operation of a Part 3 service—
+**11.**[^c-4fa7f1ac5c1647dd26ae5fbba464c5e2] Measures described in a code of practice may relate only to the design or operation of a Part 3 service—
 
 - (a) in the United Kingdom, or
 - (b) as it affects United Kingdom users of the service.
 
-### 12. Content of codes of practice: age assurance[^key-539ca1ae72ab8baf53a57bc46d6cea88]
+### 12. Content of codes of practice: age assurance[^c-539ca1ae72ab8baf53a57bc46d6cea88]
 
 (1) This paragraph is about the inclusion of age assurance in a code of practice as a measure recommended for the purpose of compliance with any of the duties set out in section 12(2) or (3) or 29(2) or (3), and sub-paragraph (2) sets out some further principles, in addition to those in paragraphs 1 and 2 (general principles) and 10(2) (freedom of expression and privacy), which are particularly relevant.
 
@@ -158,7 +158,7 @@ OFCOM must ensure that measures described in codes of practice are compatible wi
 
 (9) In this paragraph “**age assurance**” means age verification or age estimation, and see in particular section 230(4) (self-declaration of age not to be regarded as age verification or age estimation).
 
-### 13. Content of codes of practice: proactive technology[^key-eea9b9a53914353bd810f4a9265980db]
+### 13. Content of codes of practice: proactive technology[^c-eea9b9a53914353bd810f4a9265980db]
 
 (1) If OFCOM consider it appropriate to do so, and in accordance with the principles to which they must have regard (see paragraphs 1 and 2 and, in particular, 10(2)), they may include in a code of practice a measure describing the use of a kind of technology.
 
@@ -166,9 +166,9 @@ OFCOM must ensure that measures described in codes of practice are compatible wi
 
 (3) A proactive technology measure may be recommended only for the purpose of compliance with any of the duties set out in—
 
-- (a) section 10(2) , (3) or (3A)[^key-1d6648d12e4453bc986fb67e8bc462d8] (illegal content),
+- (a) section 10(2) , (3) or (3A)[^c-1d6648d12e4453bc986fb67e8bc462d8] (illegal content),
 - (b) section 12(2) or (3) (children’s online safety),
-- (c) section 27(2) , (3) or (3A)[^key-869090410d1d2994af84e0ece2f993c0] (illegal content),
+- (c) section 27(2) , (3) or (3A)[^c-869090410d1d2994af84e0ece2f993c0] (illegal content),
 - (d) section 29(2) or (3) (children’s online safety), or
 - (e) section 38(1) or 39(1) (fraudulent advertising).
 
@@ -183,7 +183,7 @@ OFCOM must ensure that measures described in codes of practice are compatible wi
 
 (7) Sub-paragraph (6) does not apply in relation to proactive technology which is a kind of age verification or age estimation technology.
 
-### 14. General[^key-731ec5434b28695cbdbc15e101b92744]
+### 14. General[^c-731ec5434b28695cbdbc15e101b92744]
 
 A code of practice may make different provision for different purposes and may, in particular—
 
@@ -193,9 +193,9 @@ A code of practice may make different provision for different purposes and may, 
 - (b) make different provision with regard to user-to-user services of different kinds or search services of different kinds; and
 - (c) otherwise differentiate between Part 3 services, and between providers of such services, in such manner as OFCOM consider appropriate.
 
-**15.**[^key-676bd8d3ed4e08f63e9f8c1866cc3dc6] A code of practice may apply in relation to a person who provides a Part 3 service from outside the United Kingdom.
+**15.**[^c-676bd8d3ed4e08f63e9f8c1866cc3dc6] A code of practice may apply in relation to a person who provides a Part 3 service from outside the United Kingdom.
 
-### 16. Interpretation[^key-87353001aa496baef77165757a6cf1b0]
+### 16. Interpretation[^c-87353001aa496baef77165757a6cf1b0]
 
 In this Schedule—
 
@@ -205,42 +205,42 @@ In this Schedule—
 
 ## Annotations
 
-[^key-45cb3ca20c3d199bb47f4f153200c242]: Commencement: Sch. 4 para. 1 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-45cb3ca20c3d199bb47f4f153200c242]: Commencement: Sch. 4 para. 1 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-81b38dae983637555f415f4d314b0965]: Commencement: Sch. 4 para. 2 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-81b38dae983637555f415f4d314b0965]: Commencement: Sch. 4 para. 2 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-9850a3e92ae08748ffb8184d84def86f]: Commencement: Sch. 4 para. 3 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-9850a3e92ae08748ffb8184d84def86f]: Commencement: Sch. 4 para. 3 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-f1a413d7a0eb8ab0bc4dceaf960dc78e]: Commencement: Sch. 4 para. 4 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-f1a413d7a0eb8ab0bc4dceaf960dc78e]: Commencement: Sch. 4 para. 4 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-c9b2f690a3ad0e81f249045192d0b44a]: Commencement: Sch. 4 para. 5 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-c9b2f690a3ad0e81f249045192d0b44a]: Commencement: Sch. 4 para. 5 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-f33993726064a4af512b79a8ee0e7346]: Commencement: Sch. 4 para. 6 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-f33993726064a4af512b79a8ee0e7346]: Commencement: Sch. 4 para. 6 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-e8a1182fba53eb62935b16e1b644b518]: Commencement: Sch. 4 para. 7 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-e8a1182fba53eb62935b16e1b644b518]: Commencement: Sch. 4 para. 7 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-6f03cc430ef8b041f491a75ffeb7723d]: Commencement: Sch. 4 para. 8 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-6f03cc430ef8b041f491a75ffeb7723d]: Commencement: Sch. 4 para. 8 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-f4927b96311294b88bbb04ff6492d019]: Commencement: Sch. 4 para. 9 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-f4927b96311294b88bbb04ff6492d019]: Commencement: Sch. 4 para. 9 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-0f1697f30295a059ee202d9b0243e9c4]: Textual amendment: Words in Sch. 4 para. 9(1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-0f1697f30295a059ee202d9b0243e9c4]: Textual amendment: Words in Sch. 4 para. 9(1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-c963ccc7086db4a75489b2e8f9141c29]: Textual amendment: Words in Sch. 4 para. 9(3) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-c963ccc7086db4a75489b2e8f9141c29]: Textual amendment: Words in Sch. 4 para. 9(3) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-72d70c4fff661541404b1e75586e2b16]: Commencement: Sch. 4 para. 10 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-72d70c4fff661541404b1e75586e2b16]: Commencement: Sch. 4 para. 10 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-4fa7f1ac5c1647dd26ae5fbba464c5e2]: Commencement: Sch. 4 para. 11 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-4fa7f1ac5c1647dd26ae5fbba464c5e2]: Commencement: Sch. 4 para. 11 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-539ca1ae72ab8baf53a57bc46d6cea88]: Commencement: Sch. 4 para. 12 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-539ca1ae72ab8baf53a57bc46d6cea88]: Commencement: Sch. 4 para. 12 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-eea9b9a53914353bd810f4a9265980db]: Commencement: Sch. 4 para. 13 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-eea9b9a53914353bd810f4a9265980db]: Commencement: Sch. 4 para. 13 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-1d6648d12e4453bc986fb67e8bc462d8]: Textual amendment: Words in Sch. 4 para. 13(3)(a) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-1d6648d12e4453bc986fb67e8bc462d8]: Textual amendment: Words in Sch. 4 para. 13(3)(a) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-869090410d1d2994af84e0ece2f993c0]: Textual amendment: Words in Sch. 4 para. 13(3)(c) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/d), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-869090410d1d2994af84e0ece2f993c0]: Textual amendment: Words in Sch. 4 para. 13(3)(c) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(10)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/10/d), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-731ec5434b28695cbdbc15e101b92744]: Commencement: Sch. 4 para. 14 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-731ec5434b28695cbdbc15e101b92744]: Commencement: Sch. 4 para. 14 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-676bd8d3ed4e08f63e9f8c1866cc3dc6]: Commencement: Sch. 4 para. 15 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-676bd8d3ed4e08f63e9f8c1866cc3dc6]: Commencement: Sch. 4 para. 15 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
 
-[^key-87353001aa496baef77165757a6cf1b0]: Commencement: Sch. 4 para. 16 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-87353001aa496baef77165757a6cf1b0]: Commencement: Sch. 4 para. 16 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)

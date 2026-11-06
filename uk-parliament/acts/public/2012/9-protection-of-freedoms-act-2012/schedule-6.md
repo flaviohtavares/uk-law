@@ -22,7 +22,7 @@ summary: ''
 
 Section 63
 
-**1.**[^key-bd6f91fa28fc97dff3607106a4c822d9] (1) Paragraph 4 of Schedule 3 to the Justice and Security (Northern Ireland) Act 2007 (stopping and searching persons in relation to unlawful munitions and wireless apparatus) is amended as follows.
+**1.**[^c-bd6f91fa28fc97dff3607106a4c822d9] (1) Paragraph 4 of Schedule 3 to the Justice and Security (Northern Ireland) Act 2007 (stopping and searching persons in relation to unlawful munitions and wireless apparatus) is amended as follows.
 
 (2) In sub-paragraph (1) (power to stop and search without reasonable suspicion) for “An officer” substitute “ A member of Her Majesty's forces who is on duty ”.
 
@@ -37,7 +37,7 @@ Section 63
 
 (5) In the italic cross-heading before paragraph 4, at the end, insert “ : general ”.
 
-**2.**[^key-d6cf010aaaae74ab029e68a28d0e7788] After paragraph 4 of that Schedule to that Act insert—
+**2.**[^c-d6cf010aaaae74ab029e68a28d0e7788] After paragraph 4 of that Schedule to that Act insert—
 
 > **Stopping and searching persons in specified locations**
 >
@@ -142,12 +142,12 @@ Section 63
 > - (a) with any necessary modifications, and
 > - (b) subject to any later rules made by virtue of sub-paragraph (4)(b).
 
-**3.**[^key-32916cbd43d5c462c0d28a0dde8b89ff] In paragraph 9(1) of that Schedule to that Act (offence of failing to stop when required to do so) after “paragraph 4” insert “ or by virtue of paragraph 4A ”.
+**3.**[^c-32916cbd43d5c462c0d28a0dde8b89ff] In paragraph 9(1) of that Schedule to that Act (offence of failing to stop when required to do so) after “paragraph 4” insert “ or by virtue of paragraph 4A ”.
 
 ## Annotations
 
-[^key-bd6f91fa28fc97dff3607106a4c822d9]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-bd6f91fa28fc97dff3607106a4c822d9]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/1) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-d6cf010aaaae74ab029e68a28d0e7788]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/2) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-d6cf010aaaae74ab029e68a28d0e7788]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/2) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
 
-[^key-32916cbd43d5c462c0d28a0dde8b89ff]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/3) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)
+[^c-32916cbd43d5c462c0d28a0dde8b89ff]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/6/paragraph/3) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(h)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/h)

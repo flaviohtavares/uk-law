@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45C. Energy-saving components of plant or machinery[^key-b27b7a197d28294b527da45811e53fc9][^key-661b09f8253ca07c6d062cb971343de3]
+## 45C. Energy-saving components of plant or machinery[^c-b27b7a197d28294b527da45811e53fc9][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b27b7a197d28294b527da45811e53fc9]: Textual amendment: Ss. 45A-45C repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(1)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/1/a)
+[^c-b27b7a197d28294b527da45811e53fc9]: Textual amendment: Ss. 45A-45C repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(1)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/1/a)
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47A.. Evidence of result of theory test: category C and D[^key-aa5e32d18418c28ac1a2a40dd92efcc3]
+## 47A.. Evidence of result of theory test: category C and D[^c-aa5e32d18418c28ac1a2a40dd92efcc3]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ shall arrange for the test to be marked on the day of the test.
 
 ## Annotations
 
-[^key-aa5e32d18418c28ac1a2a40dd92efcc3]: Textual amendment: Regs. 47A, 47B inserted (7.7.2008) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2008 (S.I. 2008/1435)](https://www.legislation.gov.uk/uksi/2008/1435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1435/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2008/1435/regulation/17) (with [reg. 22](https://www.legislation.gov.uk/uksi/2008/1435/regulation/22))
+[^c-aa5e32d18418c28ac1a2a40dd92efcc3]: Textual amendment: Regs. 47A, 47B inserted (7.7.2008) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2008 (S.I. 2008/1435)](https://www.legislation.gov.uk/uksi/2008/1435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1435/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2008/1435/regulation/17) (with [reg. 22](https://www.legislation.gov.uk/uksi/2008/1435/regulation/22))

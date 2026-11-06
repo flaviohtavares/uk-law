@@ -53,13 +53,13 @@ The National Assembly for Wales, being designated [^c5223811] for the purposes o
 
 - “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990 [^c5223831];
 - “**CN code number**” (“***Rhif y cod CN***”) means a code number of the combined nomenclature established by Council Regulation [(EEC) No. 2658/87](https://www.legislation.gov.uk/eur/1987/2658) on the tariff and statistical nomenclature and on the Common Customs tariff [^c5223841];
-- “the Commission Decision” (“[^key-651189b4b3a1e73d4f31fa13c9be20b5]*Penderfyniad y Comisiwn*”) means Commission Decision [2005/85/EC](https://www.legislation.gov.uk/eud/2005/85) imposing special conditions on the import of pistachios and certain products derived from pistachios originating in, or consigned from Iran;
+- “the Commission Decision” (“[^c-651189b4b3a1e73d4f31fa13c9be20b5]*Penderfyniad y Comisiwn*”) means Commission Decision [2005/85/EC](https://www.legislation.gov.uk/eud/2005/85) imposing special conditions on the import of pistachios and certain products derived from pistachios originating in, or consigned from Iran;
 - “**Iranian pistachios**” (“***cnau pistasio Iranaidd***”) means —
   - (a) pistachios falling within CN code 0802 50 00; and
   - (b) roasted pistachios falling within CN code 2008 19 13 or code 2008 19 93,
 
   and any products derived from such pistachios or roasted pistachios originating in, or consigned from, Iran;
-- “Directive[^key-fa5bd2ea3ee3d489fdac8425d0ef4f2d] [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)” (“*Cyfarwyddeb [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)*”) means Commission Directive [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53) laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs as last amended by Commission Directive [2004/43/EC](https://www.legislation.gov.uk/eudr/2004/43);
+- “Directive[^c-fa5bd2ea3ee3d489fdac8425d0ef4f2d] [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)” (“*Cyfarwyddeb [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53)*”) means Commission Directive [98/53/EC](https://www.legislation.gov.uk/eudr/1998/53) laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs as last amended by Commission Directive [2004/43/EC](https://www.legislation.gov.uk/eudr/2004/43);
 - “**food authority**” (“***awdurdod bwyd***”) has the same meaning as in section 5(1A) and (3)(a) and (b) of the Food Safety Act 1990;
 - “**free circulation**” (“***cylchrediad rhydd***”) has the same meaning as in Article 23.2, as read with Article 24, of the Treaty establishing the European Community; and
 - “**port health authority**” (“***awdurdod iechyd porthladd***”) means in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984 [^c5223911], a port health authority for that district constituted by order under section 2(4) of that Act.
@@ -68,7 +68,7 @@ The National Assembly for Wales, being designated [^c5223811] for the purposes o
 
 ## 3. Prohibition on import
 
-(1)[^key-914ec45aa5d502655bb7b410280830eb] Subject to paragraph (3), no person is to import into Wales any Iranian pistachios unless —
+(1)[^c-914ec45aa5d502655bb7b410280830eb] Subject to paragraph (3), no person is to import into Wales any Iranian pistachios unless —
 
 - (a) the conditions specified in Article 1.1, 3, 5 and (so far as applicable at the point of import) 7 of the Commission Decision are satisfied in relation to those pistachios; and
 - (b) the costs resulting from sampling, analysis, storage and issuing of accompanying official documents and of copies of health certificates and accompanying documents pursuant to Article 1.4 to 7 of the Commission Decision have been met.
@@ -90,7 +90,7 @@ The National Assembly for Wales, being designated [^c5223811] for the purposes o
 - (a) ensure that the requirements referred to in paragraph (4) are adhered to; and
 - (b) have the same powers of entry as are bestowed on an authorised officer of an enforcement authority by section 32 of the Act for purposes connected with the Act or Regulations or Orders made under the Act.
 
-(4)[^key-b5bfc55b051d1919d57d623f8c026053] The requirements are those specified in —
+(4)[^c-b5bfc55b051d1919d57d623f8c026053] The requirements are those specified in —
 
 - (a) Article 1.4 of the Commission Decision (which is concerned with documentary checks relating to consignments of Iranian pistachios);
 - (b) Article 1.5 and 1.6 of that Decision (which is concerned with the sampling and analysis of such consignments), other than the requirement under Article 1.5 to supply the Commission with specified information; and
@@ -150,7 +150,7 @@ shall be sufficient evidence of the facts stated in it unless, in a case falling
 
 (8) Nothing in paragraph (3)(c) shall be taken as preventing an analysis being made by a person acting under the analyst’s direction.
 
-## 6. Re-dispatch or destruction of illegal imports[^key-992c0343785a20572086a278e19faef5]
+## 6. Re-dispatch or destruction of illegal imports[^c-992c0343785a20572086a278e19faef5]
 
 (1) If on an inspection or examination of any Iranian pistachios it appears to an authorised officer of a port health authority or as the case may be food authority that they have been imported in contravention of paragraph (1) or (2) of regulation 3 he or she may after appropriate consultation with a person appearing to him or her to be the importer of the pistachios serve on that person a notice requiring —
 
@@ -182,7 +182,7 @@ shall be sufficient evidence of the facts stated in it unless, in a case falling
 
 ## 7. Revocation of the Food (Pistachios from Iran) (Emergency Control) Order 1997, The Food (Pistachios from Iran) (Emergency Control) (Amendment) Order 1997 and the Food (Pistachios from Iran) (Emergency Control) (Wales) Regulations 2003
 
-[^key-27a766b36f5a97e54e8940763ff3cd98]... the Food (Pistachios from Iran) (Emergency Control) (Wales) Regulations 2003 [^c5223971] are revoked so far as they apply to Wales.
+[^c-27a766b36f5a97e54e8940763ff3cd98]... the Food (Pistachios from Iran) (Emergency Control) (Wales) Regulations 2003 [^c5223971] are revoked so far as they apply to Wales.
 
 [^c5223981] Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
 
@@ -234,23 +234,23 @@ No regulatory appraisal has been prepared in relation to these Regulations.
 
 [^c5223841]: Marginal citation: OJ No. L256, 7.9.87, p.1.
 
-[^key-651189b4b3a1e73d4f31fa13c9be20b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/2/1) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/2/a)
+[^c-651189b4b3a1e73d4f31fa13c9be20b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/2/1) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/2/a)
 
-[^key-fa5bd2ea3ee3d489fdac8425d0ef4f2d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/2/1) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/2/b)
+[^c-fa5bd2ea3ee3d489fdac8425d0ef4f2d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/2/1) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/2/b)
 
 [^c5223911]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-914ec45aa5d502655bb7b410280830eb]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/3/1) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/3)
+[^c-914ec45aa5d502655bb7b410280830eb]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/3/1) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/3)
 
-[^key-b5bfc55b051d1919d57d623f8c026053]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/4/4) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/4)
+[^c-b5bfc55b051d1919d57d623f8c026053]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2003/2288/regulation/4/4) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/4)
 
 [^c5223921]: Marginal citation: OJ No. L290, 24.11.93, p.14.
 
 [^c5223931]: Marginal citation: OJ No. L372, 31.12.85, p.50.
 
-[^key-992c0343785a20572086a278e19faef5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2003/2288/regulation/6) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(5)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/5)
+[^c-992c0343785a20572086a278e19faef5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2003/2288/regulation/6) substituted (10.2.2005) by [The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 (S.I. 2005/257)](https://www.legislation.gov.uk/wsi/2005/257), [regs. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1), [2(5)](https://www.legislation.gov.uk/wsi/2005/257/regulation/2/5)
 
-[^key-27a766b36f5a97e54e8940763ff3cd98]: Textual amendment: Words in reg. 7 omitted (8.2.2004) by virtue of [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/uksi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/245/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/245/regulation/3/4)
+[^c-27a766b36f5a97e54e8940763ff3cd98]: Textual amendment: Words in reg. 7 omitted (8.2.2004) by virtue of [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/uksi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/245/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/245/regulation/3/4)
 
 [^c5223971]: Marginal citation: [S.I.2003/1119](https://www.legislation.gov.uk/uksi/2003/1119) (W.150).
 

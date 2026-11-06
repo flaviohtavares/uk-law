@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191HB. Payment in consideration of assignment[^key-c8449ee76bca04f113c2ee73df28ecc5]
+## 191HB. Payment in consideration of assignment[^c-c8449ee76bca04f113c2ee73df28ecc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8449ee76bca04f113c2ee73df28ecc5]: Textual amendment: Ss. 191HA-191HB inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/1782/regulation/9) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
+[^c-c8449ee76bca04f113c2ee73df28ecc5]: Textual amendment: Ss. 191HA-191HB inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/1782/regulation/9) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))

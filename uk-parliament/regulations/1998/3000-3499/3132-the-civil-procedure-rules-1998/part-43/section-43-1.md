@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43.1. Scope of this Part[^key-94eff13325ec217497b9ab7c4dd59bcb]
+## 43.1. Scope of this Part[^c-94eff13325ec217497b9ab7c4dd59bcb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94eff13325ec217497b9ab7c4dd59bcb]: Textual amendment: [Pt. 43](https://www.legislation.gov.uk/uksi/1998/3132/part/43) revoked (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [15](https://www.legislation.gov.uk/uksi/2013/262/rule/15) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-94eff13325ec217497b9ab7c4dd59bcb]: Textual amendment: [Pt. 43](https://www.legislation.gov.uk/uksi/1998/3132/part/43) revoked (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [15](https://www.legislation.gov.uk/uksi/2013/262/rule/15) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))

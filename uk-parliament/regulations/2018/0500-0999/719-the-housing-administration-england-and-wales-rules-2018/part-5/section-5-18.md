@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.18. Secured creditor: test of security’s value[^key-2d2a3415f46faddc80e66e99696abee6]
+## 5.18. Secured creditor: test of security’s value[^c-2d2a3415f46faddc80e66e99696abee6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2a3415f46faddc80e66e99696abee6]: Commencement: Rule 5.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2d2a3415f46faddc80e66e99696abee6]: Commencement: Rule 5.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

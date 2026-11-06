@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Contracts completed after ordinary notification period[^key-89faf67d9889ec60c39f5e3765ba8231]
+## 28A. Contracts completed after ordinary notification period[^c-89faf67d9889ec60c39f5e3765ba8231]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89faf67d9889ec60c39f5e3765ba8231]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/1992/12/section/28A) inserted (with effect in accordance with [s. 40(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/40/2) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/40/1)
+[^c-89faf67d9889ec60c39f5e3765ba8231]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/1992/12/section/28A) inserted (with effect in accordance with [s. 40(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/40/2) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/40/1)

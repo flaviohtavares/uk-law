@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2020/2001
 
 of 15 October 2001 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States (Text with EEA relevance) (revoked)
 
-[^key-b8135aeec4d325c070d9c4946f3df64c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8135aeec4d325c070d9c4946f3df64c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b8135aeec4d325c070d9c4946f3df64c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b8135aeec4d325c070d9c4946f3df64c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b8135aeec4d325c070d9c4946f3df64c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/33)
+[^c-b8135aeec4d325c070d9c4946f3df64c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/33)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^key-bc05a82f566a427ce442fce0016ec263]
+## 94. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^c-bc05a82f566a427ce442fce0016ec263]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc05a82f566a427ce442fce0016ec263]: Commencement: [Reg. 94](https://www.legislation.gov.uk/uksi/2023/1071/regulation/94) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-bc05a82f566a427ce442fce0016ec263]: Commencement: [Reg. 94](https://www.legislation.gov.uk/uksi/2023/1071/regulation/94) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00076]: Footnote: [S.S.I. 2018/66](https://www.legislation.gov.uk/ssi/2018/66), to which there are amendments not relevant to these Regulations.

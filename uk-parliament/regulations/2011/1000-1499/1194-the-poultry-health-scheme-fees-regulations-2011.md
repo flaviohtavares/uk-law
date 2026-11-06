@@ -32,7 +32,7 @@ summary: ''
 
 Animals, England
 
-The Poultry Health Scheme (Fees) Regulations 2011 (revoked)[^key-ab3fc697b31650cf29ff40602c13e7a0]
+The Poultry Health Scheme (Fees) Regulations 2011 (revoked)[^c-ab3fc697b31650cf29ff40602c13e7a0]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 25th May 2011
 
-[^key-ab3fc697b31650cf29ff40602c13e7a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab3fc697b31650cf29ff40602c13e7a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-ab3fc697b31650cf29ff40602c13e7a0]
+## 1. Title, application and commencement[^c-ab3fc697b31650cf29ff40602c13e7a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees relating to the poultry health scheme[^key-ab3fc697b31650cf29ff40602c13e7a0]
+## 2. Fees relating to the poultry health scheme[^c-ab3fc697b31650cf29ff40602c13e7a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fee for proficiency testing a laboratory[^key-ab3fc697b31650cf29ff40602c13e7a0]
+## 3. Fee for proficiency testing a laboratory[^c-ab3fc697b31650cf29ff40602c13e7a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time of payment[^key-ab3fc697b31650cf29ff40602c13e7a0]
+## 4. Time of payment[^c-ab3fc697b31650cf29ff40602c13e7a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab3fc697b31650cf29ff40602c13e7a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab3fc697b31650cf29ff40602c13e7a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab3fc697b31650cf29ff40602c13e7a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab3fc697b31650cf29ff40602c13e7a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab3fc697b31650cf29ff40602c13e7a0]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [11(e)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/11/e)
+[^c-ab3fc697b31650cf29ff40602c13e7a0]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [11(e)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/11/e)

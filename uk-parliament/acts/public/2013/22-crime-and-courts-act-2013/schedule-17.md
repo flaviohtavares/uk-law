@@ -28,7 +28,7 @@ Section 45
 
 #### Characteristics of a deferred prosecution agreement
 
-**1.**[^key-a5e85e64b85e6bf4f76dd536829eafbd] (1) A deferred prosecution agreement (a “DPA”) is an agreement between a designated prosecutor and a person (“P”) whom the prosecutor is considering prosecuting for an offence specified in Part 2 (the “alleged offence”).
+**1.**[^c-a5e85e64b85e6bf4f76dd536829eafbd] (1) A deferred prosecution agreement (a “DPA”) is an agreement between a designated prosecutor and a person (“P”) whom the prosecutor is considering prosecuting for an offence specified in Part 2 (the “alleged offence”).
 
 (2) Under a DPA—
 
@@ -37,7 +37,7 @@ Section 45
 
 #### Effect of DPA on court proceedings
 
-**2.**[^key-c1e981459b0eb6191098e12781357ffc] (1) Proceedings in respect of the alleged offence are to be instituted by the prosecutor in the Crown Court by preferring a bill of indictment charging P with the alleged offence (see section 2(2)(ba) of the Administration of Justice (Miscellaneous Provisions) Act 1933 (bill of indictment preferred with consent of Crown Court judge following DPA approval)).
+**2.**[^c-c1e981459b0eb6191098e12781357ffc] (1) Proceedings in respect of the alleged offence are to be instituted by the prosecutor in the Crown Court by preferring a bill of indictment charging P with the alleged offence (see section 2(2)(ba) of the Administration of Justice (Miscellaneous Provisions) Act 1933 (bill of indictment preferred with consent of Crown Court judge following DPA approval)).
 
 (2) As soon as proceedings are instituted under sub-paragraph (1) they are automatically suspended.
 
@@ -47,7 +47,7 @@ Section 45
 
 #### Designated prosecutors
 
-**3.**[^key-755da7ea0bd479ef3434858532b57c7c] (1) The following are designated prosecutors—
+**3.**[^c-755da7ea0bd479ef3434858532b57c7c] (1) The following are designated prosecutors—
 
 - (a) the Director of Public Prosecutions;
 - (b) the Director of the Serious Fraud Office;
@@ -59,7 +59,7 @@ Section 45
 
 #### Persons who may enter into a DPA with a prosecutor
 
-**4.**[^key-b44e8c5df2474f79611ce98bd5d1dc50] (1) P may be a body corporate, a partnership or an unincorporated association, but may not be an individual.
+**4.**[^c-b44e8c5df2474f79611ce98bd5d1dc50] (1) P may be a body corporate, a partnership or an unincorporated association, but may not be an individual.
 
 (2) In the case of a DPA between a prosecutor and a partnership—
 
@@ -73,7 +73,7 @@ Section 45
 
 #### Content of a DPA
 
-**5.**[^key-9f06c3c8d1065a9739765e5c6aa93561] (1) A DPA must contain a statement of facts relating to the alleged offence, which may include admissions made by P.
+**5.**[^c-9f06c3c8d1065a9739765e5c6aa93561] (1) A DPA must contain a statement of facts relating to the alleged offence, which may include admissions made by P.
 
 (2) A DPA must specify an expiry date, which is the date on which the DPA ceases to have effect if it has not already been terminated under paragraph 9 (breach).
 
@@ -95,7 +95,7 @@ The DPA may impose time limits within which P must comply with the requirements 
 
 #### Code on DPAs
 
-**6.**[^key-f0624f9fdfccd8cb7b79826f413a0c73] (1) The Director of Public Prosecutions and the Director of the Serious Fraud Office must jointly issue a Code for prosecutors giving guidance on—
+**6.**[^c-f0624f9fdfccd8cb7b79826f413a0c73] (1) The Director of Public Prosecutions and the Director of the Serious Fraud Office must jointly issue a Code for prosecutors giving guidance on—
 
 - (a) the general principles to be applied in determining whether a DPA is likely to be appropriate in a given case, and
 - (b) the disclosure of information by a prosecutor to P in the course of negotiations for a DPA and after a DPA has been agreed.
@@ -121,7 +121,7 @@ The DPA may impose time limits within which P must comply with the requirements 
 
 #### Court approval of DPA: preliminary hearing
 
-**7.**[^key-0977eb4f8b2810125a7ce37a2d1f22e6] (1) After the commencement of negotiations between a prosecutor and P in respect of a DPA but before the terms of the DPA are agreed, the prosecutor must apply to the Crown Court for a declaration that—
+**7.**[^c-0977eb4f8b2810125a7ce37a2d1f22e6] (1) After the commencement of negotiations between a prosecutor and P in respect of a DPA but before the terms of the DPA are agreed, the prosecutor must apply to the Crown Court for a declaration that—
 
 - (a) entering into a DPA with P is likely to be in the interests of justice, and
 - (b) the proposed terms of the DPA are fair, reasonable and proportionate.
@@ -134,7 +134,7 @@ The DPA may impose time limits within which P must comply with the requirements 
 
 #### Court approval of DPA: final hearing
 
-**8.**[^key-2ce8927cab3903e5dda442eb048cf4fe] (1) When a prosecutor and P have agreed the terms of a DPA, the prosecutor must apply to the Crown Court for a declaration that—
+**8.**[^c-2ce8927cab3903e5dda442eb048cf4fe] (1) When a prosecutor and P have agreed the terms of a DPA, the prosecutor must apply to the Crown Court for a declaration that—
 
 - (a) the DPA is in the interests of justice, and
 - (b) the terms of the DPA are fair, reasonable and proportionate.
@@ -160,7 +160,7 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Breach of DPA
 
-**9.**[^key-507eaf970e2a0e5373003e4420f6385c] (1) At any time when a DPA is in force, if the prosecutor believes that P has failed to comply with the terms of the DPA, the prosecutor may make an application to the Crown Court under this paragraph.
+**9.**[^c-507eaf970e2a0e5373003e4420f6385c] (1) At any time when a DPA is in force, if the prosecutor believes that P has failed to comply with the terms of the DPA, the prosecutor may make an application to the Crown Court under this paragraph.
 
 (2) On an application under sub-paragraph (1) the court must decide whether, on the balance of probabilities, P has failed to comply with the terms of the DPA.
 
@@ -191,7 +191,7 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Variation of DPA
 
-**10.**[^key-be6cb64bf7476cc60390a88d45940888] (1) At any time when a DPA is in force, the prosecutor and P may agree to vary its terms if—
+**10.**[^c-be6cb64bf7476cc60390a88d45940888] (1) At any time when a DPA is in force, the prosecutor and P may agree to vary its terms if—
 
 - (a) the court has invited the parties to vary the DPA under paragraph 9(3)(a), or
 - (b) variation of the DPA is necessary to avoid a failure by P to comply with its terms in circumstances that were not, and could not have been, foreseen by the prosecutor or P at the time that the DPA was agreed.
@@ -220,7 +220,7 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Discontinuance of proceedings on expiry of DPA
 
-**11.**[^key-8676b1f7044e5bbbcce020711b605a5d] (1) If a DPA remains in force until its expiry date, then after the expiry of the DPA the proceedings instituted under paragraph 2(1) are to be discontinued by the prosecutor giving notice to the Crown Court that the prosecutor does not want the proceedings to continue.
+**11.**[^c-8676b1f7044e5bbbcce020711b605a5d] (1) If a DPA remains in force until its expiry date, then after the expiry of the DPA the proceedings instituted under paragraph 2(1) are to be discontinued by the prosecutor giving notice to the Crown Court that the prosecutor does not want the proceedings to continue.
 
 (2) Where proceedings are discontinued under sub-paragraph (1), fresh criminal proceedings may not be instituted against P for the alleged offence.
 
@@ -254,11 +254,11 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Court order postponing publication of information by prosecutor
 
-**12.**[^key-92da1d3c19da260fc709c44f3ba02e66] The court may order that the publication of information by the prosecutor under paragraph 8(7), 9(5), (6), (7) or (8), 10(7) or (8) or 11(8) be postponed for such period as the court considers necessary if it appears to the court that postponement is necessary for avoiding a substantial risk of prejudice to the administration of justice in any legal proceedings.
+**12.**[^c-92da1d3c19da260fc709c44f3ba02e66] The court may order that the publication of information by the prosecutor under paragraph 8(7), 9(5), (6), (7) or (8), 10(7) or (8) or 11(8) be postponed for such period as the court considers necessary if it appears to the court that postponement is necessary for avoiding a substantial risk of prejudice to the administration of justice in any legal proceedings.
 
 #### Use of material in criminal proceedings
 
-**13.**[^key-0e50c5d013b4c059765b555ed39a16d1] (1) Sub-paragraph (2) applies where a DPA between a prosecutor and P has been approved by the Crown Court under paragraph 8.
+**13.**[^c-0e50c5d013b4c059765b555ed39a16d1] (1) Sub-paragraph (2) applies where a DPA between a prosecutor and P has been approved by the Crown Court under paragraph 8.
 
 (2) The statement of facts contained in the DPA is, in any criminal proceedings brought against P for the alleged offence, to be treated as an admission by P under section 10 of the Criminal Justice Act 1967 (proof by formal admission).
 
@@ -281,7 +281,7 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Money received by prosecutor under a DPA
 
-**14.**[^key-63a96f28e0f96bfd1d14a12e9e0ba955] Any money received by a prosecutor under a term of a DPA that provides for P to pay a financial penalty to the prosecutor or to disgorge profits made from the alleged offence is to be paid into the Consolidated Fund.
+**14.**[^c-63a96f28e0f96bfd1d14a12e9e0ba955] Any money received by a prosecutor under a term of a DPA that provides for P to pay a financial penalty to the prosecutor or to disgorge profits made from the alleged offence is to be paid into the Consolidated Fund.
 
 ### Part 2 — Offences in relation to which a DPA may be entered into
 
@@ -289,26 +289,26 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Common law offences
 
-**15.**[^key-fd03aa8d1b2f4dedaadfe7d50d5be047] Conspiracy to defraud.
+**15.**[^c-fd03aa8d1b2f4dedaadfe7d50d5be047] Conspiracy to defraud.
 
-**16.**[^key-934f89b16e7d5e1a4035b9fb6bfd5c83] Cheating the public revenue.
+**16.**[^c-934f89b16e7d5e1a4035b9fb6bfd5c83] Cheating the public revenue.
 
 #### Statutory offences
 
-**17.**[^key-44a673d060e616c9e6ed8d07c498871e] An offence under any of the following sections of the Theft Act 1968—
+**17.**[^c-44a673d060e616c9e6ed8d07c498871e] An offence under any of the following sections of the Theft Act 1968—
 
 - (a) section 1 (theft);
 - (b) section 17 (false accounting);
 - (c) section 20 (suppression etc of documents);
 - (d) section 24A (dishonestly retaining a wrongful credit).
 
-**18.**[^key-dc46d839a98f6955b4eb5668148065b1] An offence under any of the following sections of the Customs and Excise Management Act 1979—
+**18.**[^c-dc46d839a98f6955b4eb5668148065b1] An offence under any of the following sections of the Customs and Excise Management Act 1979—
 
 - (a) section 68 (offences in relation to exportation of prohibited or restricted goods);
 - (b) section 167 (untrue declarations etc);
 - (c) section 170 (fraudulent evasion of duty etc).
 
-**19.**[^key-5bec296cba115a7bfec83cde22dad35a] An offence under any of the following sections of the Forgery and Counterfeiting Act 1981—
+**19.**[^c-5bec296cba115a7bfec83cde22dad35a] An offence under any of the following sections of the Forgery and Counterfeiting Act 1981—
 
 - (a) section 1 (forgery);
 - (b) section 2 (copying a false instrument);
@@ -316,20 +316,20 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 - (d) section 4 (using a copy of a false instrument);
 - (e) section 5 (offences relating to money orders, share certificates, passports etc).
 
-**20.**[^key-62c456f43f296db2482756c622f208a8] An offence under section 450 of the Companies Act 1985 (destroying, mutilating etc company documents).
+**20.**[^c-62c456f43f296db2482756c622f208a8] An offence under section 450 of the Companies Act 1985 (destroying, mutilating etc company documents).
 
-**21.**[^key-8f1afdbb546cd586d924c0aa116ebe3f] An offence under section 72 of the Value Added Tax Act 1994 (fraudulent evasion of VAT).
+**21.**[^c-8f1afdbb546cd586d924c0aa116ebe3f] An offence under section 72 of the Value Added Tax Act 1994 (fraudulent evasion of VAT).
 
-**22.**[^key-66899bb29ebe2c90f5dfb4c424ba52a7] An offence under any of the following sections of the Financial Services and Markets Act 2000—
+**22.**[^c-66899bb29ebe2c90f5dfb4c424ba52a7] An offence under any of the following sections of the Financial Services and Markets Act 2000—
 
 - (a) section 23 (contravention of prohibition of carrying on regulated activity unless authorised or exempt);
 - (b) section 25 (contravention of restrictions on financial promotion);
 - (c) section 85 (prohibition of dealing etc in transferable securities without approved prospectus);
 - (d) section 346 (provision of false or misleading statements to auditor or actuary);
-- (e)[^key-03d63f6cc342193f1348befdcabc824b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-03d63f6cc342193f1348befdcabc824b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) section 398 (misleading the FSA).
 
-**23.**[^key-ea22c75a58e337ea55c6bf81f638641d] An offence under any of the following sections of the Proceeds of Crime Act 2002—
+**23.**[^c-ea22c75a58e337ea55c6bf81f638641d] An offence under any of the following sections of the Proceeds of Crime Act 2002—
 
 - (a) section 327 (concealing etc criminal property);
 - (b) section 328 (arrangements facilitating acquisition etc of criminal property);
@@ -337,33 +337,33 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 - (d) section 330 (failing to disclose knowledge or suspicion of money laundering);
 - (e) section 333A (tipping off).
 
-**24.**[^key-7fdfab3b688fec3733bec99f3e5718f3] An offence under any of the following sections of the Companies Act 2006—
+**24.**[^c-7fdfab3b688fec3733bec99f3e5718f3] An offence under any of the following sections of the Companies Act 2006—
 
 - (a) section 658 (general rule against limited company acquiring its own shares);
 - (b) section 680 (prohibited financial assistance);
 - (c) section 993 (fraudulent trading).
 
-**25.**[^key-2f2ae01c3ed1dbc10b31dcfe26c4615c] An offence under any of the following sections of the Fraud Act 2006—
+**25.**[^c-2f2ae01c3ed1dbc10b31dcfe26c4615c] An offence under any of the following sections of the Fraud Act 2006—
 
 - (a) section 1 (fraud);
 - (b) section 6 (possession etc of articles for use in frauds);
 - (c) section 7 (making or supplying articles for use in frauds);
 - (d) section 11 (obtaining services dishonestly).
 
-**26.**[^key-3c413713cf6303513af913eef936e641] An offence under any of the following sections of the Bribery Act 2010—
+**26.**[^c-3c413713cf6303513af913eef936e641] An offence under any of the following sections of the Bribery Act 2010—
 
 - (a) section 1 (bribing another person);
 - (b) section 2 (being bribed);
 - (c) section 6 (bribery of foreign public officials);
 - (d) section 7 (failure of commercial organisations to prevent bribery).
 
-**26ZA.**[^key-ee85eaf2bf3a98e5339859b1e8fce36f] An offence under any of the following sections of the Financial Services Act 2012—
+**26ZA.**[^c-ee85eaf2bf3a98e5339859b1e8fce36f] An offence under any of the following sections of the Financial Services Act 2012—
 
 - (a) section 89 (misleading statements);
 - (b) section 90 (misleading impressions);
 - (c) section 91 (misleading statements etc. in relation to benchmarks).
 
-**26A.**[^key-4721b4cad78ab315276ba0c6804f0a93] (1) An offence under an instrument made under section 2(2) of the European Communities Act 1972 for the purpose of implementing, or otherwise in relation to, EU obligations created or arising by or under an EU financial sanctions Regulation.
+**26A.**[^c-4721b4cad78ab315276ba0c6804f0a93] (1) An offence under an instrument made under section 2(2) of the European Communities Act 1972 for the purpose of implementing, or otherwise in relation to, EU obligations created or arising by or under an EU financial sanctions Regulation.
 
 (2) An offence under an Act or under subordinate legislation where the offence was created for the purpose of implementing a UN financial sanctions Resolution.
 
@@ -373,38 +373,38 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 (5) An offence under paragraph 31 of Schedule 7 to the Counter-Terrorism Act 2008.
 
-(5A)[^key-807c9baa90d72392d3fa91a93d15c276] An offence under regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018 (sanctions regulations).
+(5A)[^c-807c9baa90d72392d3fa91a93d15c276] An offence under regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018 (sanctions regulations).
 
 (6) In this paragraph—
 
 - “EU financial sanctions Regulation” and “UN financial sanctions Resolution” have the same meanings as in Part 8 of the Policing and Crime Act 2017 (see section 143 of that Act);
 - “subordinate legislation” has the same meaning as in the Interpretation Act 1978.
 
-**26A.**[^key-2d42129991c1e182886245b3ecbb3caa] An offence under section 45 or 46 of the Criminal Finances Act 2017 (failure to prevent the facilitation of UK tax evasion offences or foreign tax evasion offences).
+**26A.**[^c-2d42129991c1e182886245b3ecbb3caa] An offence under section 45 or 46 of the Criminal Finances Act 2017 (failure to prevent the facilitation of UK tax evasion offences or foreign tax evasion offences).
 
-**27.**[^key-0f69ba329f726cb936c559c342ff4f37] An offence under regulation 86 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-84133d0a5253f01e4e123fe04f2ba235].
+**27.**[^c-0f69ba329f726cb936c559c342ff4f37] An offence under regulation 86 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-84133d0a5253f01e4e123fe04f2ba235].
 
-**27A.**[^key-c955893261ff09af8c88aeff6d524120] An offence under regulations made under section 49 of the Sanctions and Anti-Money Laundering Act 2018 (money laundering and terrorist financing etc).
+**27A.**[^c-c955893261ff09af8c88aeff6d524120] An offence under regulations made under section 49 of the Sanctions and Anti-Money Laundering Act 2018 (money laundering and terrorist financing etc).
 
-**27B.**[^key-5a4bdc8e4ab026839eb1abe6af1cfe8f] An offence under section 199 of the Economic Crime and Corporate Transparency Act 2023 (failure to prevent fraud offences).
+**27B.**[^c-5a4bdc8e4ab026839eb1abe6af1cfe8f] An offence under section 199 of the Economic Crime and Corporate Transparency Act 2023 (failure to prevent fraud offences).
 
 #### Ancillary offences
 
-**28.**[^key-90535f4cb576665875f1825bb6354170] Any ancillary offence relating to an offence specified in this Part.
+**28.**[^c-90535f4cb576665875f1825bb6354170] Any ancillary offence relating to an offence specified in this Part.
 
 #### Interpretation of this Part
 
-**29.**[^key-ae4a05833aff684f1312fe1a8bd1b2a6] “**Ancillary offence**”, in relation to an offence, means—
+**29.**[^c-ae4a05833aff684f1312fe1a8bd1b2a6] “**Ancillary offence**”, in relation to an offence, means—
 
 - (a) aiding, abetting, counselling or procuring the commission of the offence;
 - (b) an offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) in relation to the offence;
 - (c) attempting or conspiring to commit the offence.
 
-**30.**[^key-bc3b8403e081ed191393b85b5c370bf5] This Schedule applies in relation to conduct occurring before the commencement of this Schedule as if an offence specified in this Part included any corresponding offence under the law in force at the time of the conduct (and for the purposes of this paragraph, the common law offence of inciting the commission of another offence is to be treated as an offence corresponding to an offence under Part 2 of the Serious Crime Act 2007).
+**30.**[^c-bc3b8403e081ed191393b85b5c370bf5] This Schedule applies in relation to conduct occurring before the commencement of this Schedule as if an offence specified in this Part included any corresponding offence under the law in force at the time of the conduct (and for the purposes of this paragraph, the common law offence of inciting the commission of another offence is to be treated as an offence corresponding to an offence under Part 2 of the Serious Crime Act 2007).
 
 #### Power to amend this Part
 
-**31.**[^key-a94bfc3e5cd61df7228c4cc2d594eda9] The Secretary of State may by order amend this Part by—
+**31.**[^c-a94bfc3e5cd61df7228c4cc2d594eda9] The Secretary of State may by order amend this Part by—
 
 - (a) adding an offence of financial or economic crime;
 - (b) removing an offence.
@@ -413,27 +413,27 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 #### Consequential amendments
 
-**32.**[^key-0c130fd2022799cc88d3e39792eee654] In section 2 of the Administration of Justice (Miscellaneous Provisions) Act 1933 (procedure for indictment of offenders), in subsection (2) after paragraph (b) insert—
+**32.**[^c-0c130fd2022799cc88d3e39792eee654] In section 2 of the Administration of Justice (Miscellaneous Provisions) Act 1933 (procedure for indictment of offenders), in subsection (2) after paragraph (b) insert—
 
 > - (ba) the bill is preferred with the consent of a judge of the Crown Court following a declaration by the court under paragraph 8(1) of Schedule 17 to the Crime and Courts Act 2013 (court approval of deferred prosecution agreement); or
 
 .
 
-**33.**[^key-4a99d13679cdef00a23668a531493c58] In section 2 of the Criminal Procedure (Attendance of Witnesses) Act 1965 (issue of witness summons on application to the Crown Court), after subsection (6) insert—
+**33.**[^c-4a99d13679cdef00a23668a531493c58] In section 2 of the Criminal Procedure (Attendance of Witnesses) Act 1965 (issue of witness summons on application to the Crown Court), after subsection (6) insert—
 
 > (6A) Where the proceedings concerned relate to an offence that is the subject of a deferred prosecution agreement within the meaning of Schedule 17 to the Crime and Courts Act 2013, an application must be made as soon as is reasonably practicable after the suspension of the proceedings is lifted under paragraph 2(3) of that Schedule.
 
-**34.**[^key-7fb859869f6b6b7b728cb1f725b1488d] In Schedule 1 to the Contempt of Court Act 1981 (times when proceedings are active for purposes of strict liability rule for contempt of court), in paragraph 7, after paragraph (aa) insert—
+**34.**[^c-7fb859869f6b6b7b728cb1f725b1488d] In Schedule 1 to the Contempt of Court Act 1981 (times when proceedings are active for purposes of strict liability rule for contempt of court), in paragraph 7, after paragraph (aa) insert—
 
 > - (ab) in England and Wales, if they are discontinued by virtue of paragraph 11 of Schedule 17 to the Crime and Courts Act 2013 (deferred prosecution agreements);
 
 .
 
-**35.**[^key-8707fa332e9f40aa764f800cf3a5c672] In section 15 of the Prosecution of Offences Act 1985 (interpretation), in subsection (2)(d) after “(b)” insert “ or (ba) ”.
+**35.**[^c-8707fa332e9f40aa764f800cf3a5c672] In section 15 of the Prosecution of Offences Act 1985 (interpretation), in subsection (2)(d) after “(b)” insert “ or (ba) ”.
 
-**36.**[^key-7df2987b82e974bf3d7c7f4416260331] In section 51 of the Criminal Justice and Public Order Act 1994 (intimidation etc of witnesses, jurors and others), in subsection 10(a)(iii) after “2(2)(b)” insert “ or (ba) ”.
+**36.**[^c-7df2987b82e974bf3d7c7f4416260331] In section 51 of the Criminal Justice and Public Order Act 1994 (intimidation etc of witnesses, jurors and others), in subsection 10(a)(iii) after “2(2)(b)” insert “ or (ba) ”.
 
-**37.**[^key-d4b791e5557877f04ab86f562301a180] (1) The Criminal Procedure and Investigations Act 1996 is amended as follows.
+**37.**[^c-d4b791e5557877f04ab86f562301a180] (1) The Criminal Procedure and Investigations Act 1996 is amended as follows.
 
 (2) In section 1 (application of Part 1: disclosure), in subsection (2), after paragraph (f) insert
 
@@ -447,13 +447,13 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 (5) In Schedule 3 (fraud), in paragraph 8(1)(c) after “2(2)(b)” insert “ or (ba) ”.
 
-**38.**[^key-78ef3e2db8ed8a3decd5b884355c5f72] In section 85 of the Proceeds of Crime Act 2002 (proceedings), in subsection (1)(c) at the end insert “ or subsection (2)(ba) of that section (preferment by Crown Court judge following approval of deferred prosecution agreement) ”.
+**38.**[^c-78ef3e2db8ed8a3decd5b884355c5f72] In section 85 of the Proceeds of Crime Act 2002 (proceedings), in subsection (1)(c) at the end insert “ or subsection (2)(ba) of that section (preferment by Crown Court judge following approval of deferred prosecution agreement) ”.
 
 #### Transitional provision
 
 *Extent: E+W*
 
-**39.**[^key-7e8a44707edbc1c51be684a6a71a27f4] (1) Conduct constituting an alleged offence that occurred before the relevant commencement day may be taken into account for the purposes of this Schedule.
+**39.**[^c-7e8a44707edbc1c51be684a6a71a27f4] (1) Conduct constituting an alleged offence that occurred before the relevant commencement day may be taken into account for the purposes of this Schedule.
 
 (2) In this paragraph, the “**relevant commencement day**” means—
 
@@ -462,96 +462,96 @@ unless the prosecutor is prevented from doing so by an enactment or by an order 
 
 ## Annotations
 
-[^key-a5e85e64b85e6bf4f76dd536829eafbd]: Commencement: Sch. 17 para. 1 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-a5e85e64b85e6bf4f76dd536829eafbd]: Commencement: Sch. 17 para. 1 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-c1e981459b0eb6191098e12781357ffc]: Commencement: Sch. 17 para. 2 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-c1e981459b0eb6191098e12781357ffc]: Commencement: Sch. 17 para. 2 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-755da7ea0bd479ef3434858532b57c7c]: Commencement: Sch. 17 para. 3 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-755da7ea0bd479ef3434858532b57c7c]: Commencement: Sch. 17 para. 3 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-b44e8c5df2474f79611ce98bd5d1dc50]: Commencement: Sch. 17 para. 4 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-b44e8c5df2474f79611ce98bd5d1dc50]: Commencement: Sch. 17 para. 4 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-9f06c3c8d1065a9739765e5c6aa93561]: Commencement: Sch. 17 para. 5 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-9f06c3c8d1065a9739765e5c6aa93561]: Commencement: Sch. 17 para. 5 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-f0624f9fdfccd8cb7b79826f413a0c73]: Commencement: Sch. 17 para. 6 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-f0624f9fdfccd8cb7b79826f413a0c73]: Commencement: Sch. 17 para. 6 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-0977eb4f8b2810125a7ce37a2d1f22e6]: Commencement: Sch. 17 para. 7 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-0977eb4f8b2810125a7ce37a2d1f22e6]: Commencement: Sch. 17 para. 7 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-2ce8927cab3903e5dda442eb048cf4fe]: Commencement: Sch. 17 para. 8 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-2ce8927cab3903e5dda442eb048cf4fe]: Commencement: Sch. 17 para. 8 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-507eaf970e2a0e5373003e4420f6385c]: Commencement: Sch. 17 para. 9 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-507eaf970e2a0e5373003e4420f6385c]: Commencement: Sch. 17 para. 9 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-be6cb64bf7476cc60390a88d45940888]: Commencement: Sch. 17 para. 10 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-be6cb64bf7476cc60390a88d45940888]: Commencement: Sch. 17 para. 10 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-8676b1f7044e5bbbcce020711b605a5d]: Commencement: Sch. 17 para. 11 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-8676b1f7044e5bbbcce020711b605a5d]: Commencement: Sch. 17 para. 11 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-92da1d3c19da260fc709c44f3ba02e66]: Commencement: Sch. 17 para. 12 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-92da1d3c19da260fc709c44f3ba02e66]: Commencement: Sch. 17 para. 12 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-0e50c5d013b4c059765b555ed39a16d1]: Commencement: Sch. 17 para. 13 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-0e50c5d013b4c059765b555ed39a16d1]: Commencement: Sch. 17 para. 13 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-63a96f28e0f96bfd1d14a12e9e0ba955]: Commencement: Sch. 17 para. 14 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-63a96f28e0f96bfd1d14a12e9e0ba955]: Commencement: Sch. 17 para. 14 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-fd03aa8d1b2f4dedaadfe7d50d5be047]: Commencement: Sch. 17 para. 15 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-fd03aa8d1b2f4dedaadfe7d50d5be047]: Commencement: Sch. 17 para. 15 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-934f89b16e7d5e1a4035b9fb6bfd5c83]: Commencement: Sch. 17 para. 16 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-934f89b16e7d5e1a4035b9fb6bfd5c83]: Commencement: Sch. 17 para. 16 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-44a673d060e616c9e6ed8d07c498871e]: Commencement: Sch. 17 para. 17 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-44a673d060e616c9e6ed8d07c498871e]: Commencement: Sch. 17 para. 17 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-dc46d839a98f6955b4eb5668148065b1]: Commencement: Sch. 17 para. 18 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-dc46d839a98f6955b4eb5668148065b1]: Commencement: Sch. 17 para. 18 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-5bec296cba115a7bfec83cde22dad35a]: Commencement: Sch. 17 para. 19 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-5bec296cba115a7bfec83cde22dad35a]: Commencement: Sch. 17 para. 19 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-62c456f43f296db2482756c622f208a8]: Commencement: Sch. 17 para. 20 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-62c456f43f296db2482756c622f208a8]: Commencement: Sch. 17 para. 20 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-8f1afdbb546cd586d924c0aa116ebe3f]: Commencement: Sch. 17 para. 21 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-8f1afdbb546cd586d924c0aa116ebe3f]: Commencement: Sch. 17 para. 21 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-66899bb29ebe2c90f5dfb4c424ba52a7]: Commencement: Sch. 17 para. 22 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-66899bb29ebe2c90f5dfb4c424ba52a7]: Commencement: Sch. 17 para. 22 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-03d63f6cc342193f1348befdcabc824b]: Textual amendment: Sch. 17 para. 22(e) omitted (9.10.2018) by virtue of [The Crime and Courts Act 2013 (Deferred Prosecution Agreements) (Amendment of Specified Offences) Order 2018 (S.I. 2018/1170)](https://www.legislation.gov.uk/uksi/2018/1170), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1170/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1170/article/2/2)
+[^c-03d63f6cc342193f1348befdcabc824b]: Textual amendment: Sch. 17 para. 22(e) omitted (9.10.2018) by virtue of [The Crime and Courts Act 2013 (Deferred Prosecution Agreements) (Amendment of Specified Offences) Order 2018 (S.I. 2018/1170)](https://www.legislation.gov.uk/uksi/2018/1170), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1170/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1170/article/2/2)
 
-[^key-ea22c75a58e337ea55c6bf81f638641d]: Commencement: Sch. 17 para. 23 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-ea22c75a58e337ea55c6bf81f638641d]: Commencement: Sch. 17 para. 23 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-7fdfab3b688fec3733bec99f3e5718f3]: Commencement: Sch. 17 para. 24 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-7fdfab3b688fec3733bec99f3e5718f3]: Commencement: Sch. 17 para. 24 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-2f2ae01c3ed1dbc10b31dcfe26c4615c]: Commencement: Sch. 17 para. 25 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-2f2ae01c3ed1dbc10b31dcfe26c4615c]: Commencement: Sch. 17 para. 25 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-3c413713cf6303513af913eef936e641]: Commencement: Sch. 17 para. 26 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-3c413713cf6303513af913eef936e641]: Commencement: Sch. 17 para. 26 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-ee85eaf2bf3a98e5339859b1e8fce36f]: Textual amendment: Sch. 17 para. 26ZA inserted (9.10.2018) by [The Crime and Courts Act 2013 (Deferred Prosecution Agreements) (Amendment of Specified Offences) Order 2018 (S.I. 2018/1170)](https://www.legislation.gov.uk/uksi/2018/1170), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1170/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1170/article/2/3)
+[^c-ee85eaf2bf3a98e5339859b1e8fce36f]: Textual amendment: Sch. 17 para. 26ZA inserted (9.10.2018) by [The Crime and Courts Act 2013 (Deferred Prosecution Agreements) (Amendment of Specified Offences) Order 2018 (S.I. 2018/1170)](https://www.legislation.gov.uk/uksi/2018/1170), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1170/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1170/article/2/3)
 
-[^key-4721b4cad78ab315276ba0c6804f0a93]: Textual amendment: Sch. 17 para. 26A inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 150](https://www.legislation.gov.uk/ukpga/2017/3/section/150), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-4721b4cad78ab315276ba0c6804f0a93]: Textual amendment: Sch. 17 para. 26A inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 150](https://www.legislation.gov.uk/ukpga/2017/3/section/150), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
-[^key-807c9baa90d72392d3fa91a93d15c276]: Textual amendment: Sch. 17 para. 26A(5A) inserted (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/6/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-807c9baa90d72392d3fa91a93d15c276]: Textual amendment: Sch. 17 para. 26A(5A) inserted (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/6/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-2d42129991c1e182886245b3ecbb3caa]: Textual amendment: Sch. 17 para. 26A inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/51/3), [58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
+[^c-2d42129991c1e182886245b3ecbb3caa]: Textual amendment: Sch. 17 para. 26A inserted (27.4.2017 for specified purposes, 30.9.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/51/3), [58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
 
-[^key-0f69ba329f726cb936c559c342ff4f37]: Commencement: Sch. 17 para. 27 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-0f69ba329f726cb936c559c342ff4f37]: Commencement: Sch. 17 para. 27 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-84133d0a5253f01e4e123fe04f2ba235]: Textual amendment: Words in Sch. 17 para. 27 substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/9) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-84133d0a5253f01e4e123fe04f2ba235]: Textual amendment: Words in Sch. 17 para. 27 substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/9) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-c955893261ff09af8c88aeff6d524120]: Textual amendment: [Sch. 17 para. 27A](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/27A) inserted (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/6/3) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-c955893261ff09af8c88aeff6d524120]: Textual amendment: [Sch. 17 para. 27A](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/27A) inserted (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/6/3) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-5a4bdc8e4ab026839eb1abe6af1cfe8f]: Textual amendment: [Sch. 17 para. 27B](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/27B) inserted (26.10.2023 for specified purposes, 1.9.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 206(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/206/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-5a4bdc8e4ab026839eb1abe6af1cfe8f]: Textual amendment: [Sch. 17 para. 27B](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/27B) inserted (26.10.2023 for specified purposes, 1.9.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 206(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/206/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
 
-[^key-90535f4cb576665875f1825bb6354170]: Commencement: Sch. 17 para. 28 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-90535f4cb576665875f1825bb6354170]: Commencement: Sch. 17 para. 28 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-ae4a05833aff684f1312fe1a8bd1b2a6]: Commencement: Sch. 17 para. 29 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-ae4a05833aff684f1312fe1a8bd1b2a6]: Commencement: Sch. 17 para. 29 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-bc3b8403e081ed191393b85b5c370bf5]: Commencement: Sch. 17 para. 30 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-bc3b8403e081ed191393b85b5c370bf5]: Commencement: Sch. 17 para. 30 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-a94bfc3e5cd61df7228c4cc2d594eda9]: Commencement: Sch. 17 para. 31 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-a94bfc3e5cd61df7228c4cc2d594eda9]: Commencement: Sch. 17 para. 31 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-0c130fd2022799cc88d3e39792eee654]: Commencement: Sch. 17 para. 32 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-0c130fd2022799cc88d3e39792eee654]: Commencement: Sch. 17 para. 32 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-4a99d13679cdef00a23668a531493c58]: Commencement: Sch. 17 para. 33 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-4a99d13679cdef00a23668a531493c58]: Commencement: Sch. 17 para. 33 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-7fb859869f6b6b7b728cb1f725b1488d]: Commencement: Sch. 17 para. 34 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-7fb859869f6b6b7b728cb1f725b1488d]: Commencement: Sch. 17 para. 34 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-8707fa332e9f40aa764f800cf3a5c672]: Commencement: Sch. 17 para. 35 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-8707fa332e9f40aa764f800cf3a5c672]: Commencement: Sch. 17 para. 35 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-7df2987b82e974bf3d7c7f4416260331]: Commencement: Sch. 17 para. 36 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-7df2987b82e974bf3d7c7f4416260331]: Commencement: Sch. 17 para. 36 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-d4b791e5557877f04ab86f562301a180]: Commencement: Sch. 17 para. 37 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-d4b791e5557877f04ab86f562301a180]: Commencement: Sch. 17 para. 37 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-78ef3e2db8ed8a3decd5b884355c5f72]: Commencement: Sch. 17 para. 38 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-78ef3e2db8ed8a3decd5b884355c5f72]: Commencement: Sch. 17 para. 38 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
-[^key-7e8a44707edbc1c51be684a6a71a27f4]: Commencement: Sch. 17 para. 39 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-7e8a44707edbc1c51be684a6a71a27f4]: Commencement: Sch. 17 para. 39 in force at 24.2.2014 by [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)

@@ -40,13 +40,13 @@ Coming into operation
 
 19th May 1997
 
-The Department of Agriculture for Northern Ireland, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Economic Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:[^key-8adb7309cdf658dd01f25de207062a31]
+The Department of Agriculture for Northern Ireland, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Economic Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:[^c-8adb7309cdf658dd01f25de207062a31]
 
-## 1. Citation and commencement[^key-6930957f7ff736beaeb9945394498f12]
+## 1. Citation and commencement[^c-6930957f7ff736beaeb9945394498f12]
 
 These Regulations may be cited as the Fresh Meat (Import Conditions) Regulations (Northern Ireland) 1997 and shall come into operation on 19th May 1997.
 
-## 2. Interpretation[^key-ff8e28ab55ade95e07c86bd0f455d6c7]
+## 2. Interpretation[^c-ff8e28ab55ade95e07c86bd0f455d6c7]
 
 (1) In these Regulations—
 
@@ -79,21 +79,21 @@ These Regulations may be cited as the Fresh Meat (Import Conditions) Regulations
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00014] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Fresh meat to which the Regulations apply[^key-ec114e29e3b664412c9cd4b2638fc3a0]
+## 3. Fresh meat to which the Regulations apply[^c-ec114e29e3b664412c9cd4b2638fc3a0]
 
 Subject to regulations 4, 5, 6, 7 and 12, these Regulations apply to fresh meat intended for human consumption.
 
-## 4. Fresh meat originating in Great Britain, the Isle of Man or the Channel Islands[^key-2f5d66a0c2e458dfece21d4463d69be5]
+## 4. Fresh meat originating in Great Britain, the Isle of Man or the Channel Islands[^c-2f5d66a0c2e458dfece21d4463d69be5]
 
 These Regulations shall not apply to imports of fresh meat originating in Great Britain, the Isle of Man or any of the Channel Islands.
 
-## 5. Fresh meat for crew and passengers on board means of transport operating internationally[^key-02601e93cab717cda33fd34c7dc04d41]
+## 5. Fresh meat for crew and passengers on board means of transport operating internationally[^c-02601e93cab717cda33fd34c7dc04d41]
 
 (1) Subject to paragraph (2), these Regulations do not apply to fresh meat which is for consumption by the crew and passengers on board means of transport operating internationally.
 
 (2) Where such fresh meat, including kitchen waste, is unloaded, it shall be destroyed, except where such unloading is solely for the purpose of transferring such fresh meat, directly or after being placed under customs supervision, from one means of transport to another.
 
-## 6. Personal imports[^key-569c86b62577caa20ca149cf7ab24c42]
+## 6. Personal imports[^c-569c86b62577caa20ca149cf7ab24c42]
 
 These Regulations do not apply to imports of fresh meat—
 
@@ -105,7 +105,7 @@ provided that the fresh meat so imported comes from:—
 - (a) an EEA state and the quantity does not exceed 10kg; or
 - (b) a third country, or part thereof, listed in Schedule 1, and the quantity does not exceed 1kg.
 
-## 7. Fresh meat imported under authorisation, or for international organisations or visiting forces[^key-0b00b7ea6cd7c702ac1a1316be98978c]
+## 7. Fresh meat imported under authorisation, or for international organisations or visiting forces[^c-0b00b7ea6cd7c702ac1a1316be98978c]
 
 In relation to the fresh meat described in paragraphs (*a*) to (*c*), regulation 11(1)(*c*), (*d*) and (*e*) shall not apply to—
 
@@ -113,7 +113,7 @@ In relation to the fresh meat described in paragraphs (*a*) to (*c*), regulation
 - (b) fresh meat which is intended exclusively for the supply of international organisations;
 - (c) fresh meat which is intended exclusively for consumption by members of a visiting force or their dependants (as defined in Section 11 of the Visiting Forces Act 1952[^f00015]).
 
-## 8. Transhipment and storage of fresh meat consigned to a relevant EEA State from a third country[^key-dd5975000060b240433691064b8cad0e]
+## 8. Transhipment and storage of fresh meat consigned to a relevant EEA State from a third country[^c-dd5975000060b240433691064b8cad0e]
 
 Fresh meat consigned to a relevant EEA State from a third country may be transhipped through, and stored in, Northern Ireland, provided that—
 
@@ -121,11 +121,11 @@ Fresh meat consigned to a relevant EEA State from a third country may be transhi
 - (b) it is not unloaded in Northern Ireland or is unloaded at a border inspection post in Northern Ireland; and
 - (c) during its time in Northern Ireland it remains in a border inspection post, free zone or free warehouse except during any journey to another border inspection post, free zone or free warehouse.
 
-## 9. Fresh meat subject to a non-importation Decision[^key-f9d80d0acba2e7d9a5aafbda840524b4]
+## 9. Fresh meat subject to a non-importation Decision[^c-f9d80d0acba2e7d9a5aafbda840524b4]
 
 A person shall not import any fresh meat to which a non-importation Decision applies.
 
-## 10. Fresh meat originating in a relevant EEA State[^key-e1a345ccd70f10718a45d6a8b3801c20]
+## 10. Fresh meat originating in a relevant EEA State[^c-e1a345ccd70f10718a45d6a8b3801c20]
 
 A person shall not import fresh meat which originated in a relevant EEA State other than the United Kingdom unless—
 
@@ -133,7 +133,7 @@ A person shall not import fresh meat which originated in a relevant EEA State ot
 - (b) subject to regulation 12, it has been obtained from animals slaughtered in an establishment on a list of approved establishments drawn up by the relevant EEA State under Article 10 of the fresh meat Directive; and
 - (c) it satisfies any special importation requirement.
 
-## 11. Fresh meat originating in a third country[^key-6569b69a4ca53b98a4bd5c0c04512d20]
+## 11. Fresh meat originating in a third country[^c-6569b69a4ca53b98a4bd5c0c04512d20]
 
 (1) A person shall not import fresh meat which originates in a third country unless—
 
@@ -174,7 +174,7 @@ A person shall not import fresh meat which originated in a relevant EEA State ot
 
 (3) A person shall not import from a third country any mechanically recovered meat, or any blood, bovine head or any muscular or other tissue of a bovine head other than the tongue.
 
-## 12. Importation and treatment of samples and their packaging[^key-46574096274289b792da7a23ed65d293]
+## 12. Importation and treatment of samples and their packaging[^c-46574096274289b792da7a23ed65d293]
 
 (1) Regulations 10(*b*), 11(1)(*c*), (*d*) and (*e*) shall not apply to samples.
 
@@ -191,7 +191,7 @@ A person shall not import fresh meat which originated in a relevant EEA State ot
 
 (6) It is the duty of the person having possession of the samples at the time of the completion or abandonment of the exhibition, special study or analysis for which the samples are intended to comply with the requirements of paragraph (4).
 
-## 13. Certificates and other documents[^key-4fd3db9e5dd141de39adfaf326888b24]
+## 13. Certificates and other documents[^c-4fd3db9e5dd141de39adfaf326888b24]
 
 Any certificate or other document required for any of the purposes of these Regulations is invalid for that purpose unless—
 
@@ -200,14 +200,14 @@ Any certificate or other document required for any of the purposes of these Regu
 - (c) it consists of a single piece of paper; and
 - (d) it is made out to a single consignee.
 
-## 14. Offences and Penalties[^key-8bc147f2f0183883e173b97af6fa6040]
+## 14. Offences and Penalties[^c-8bc147f2f0183883e173b97af6fa6040]
 
 A person who contravenes any provision of these Regulations shall be guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or to both; and
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding three months or to both.
 
-## 15. Disapplication of the Imported Food Regulations and licensing Order[^key-4409270827e006c973de917b1000878c]
+## 15. Disapplication of the Imported Food Regulations and licensing Order[^c-4409270827e006c973de917b1000878c]
 
 (1) The Imported Food Regulations (Northern Ireland) 1991[^f00020] shall not apply to fresh meat to which these Regulations apply.
 
@@ -215,7 +215,7 @@ A person who contravenes any provision of these Regulations shall be guilty of a
 
 (3) The licensing Order shall not apply to samples other than those coming from a third country.
 
-## 16. Modification of the Products of Animal Origin Regulations[^key-cc8db0cc9ca9baf952c7b5bdfb3d90f9]
+## 16. Modification of the Products of Animal Origin Regulations[^c-cc8db0cc9ca9baf952c7b5bdfb3d90f9]
 
 (1) In their application to the import of fresh meat to which these Regulations apply, the Products of Animal Origin Regulations shall be modified in accordance with paragraphs (2) and (3).
 
@@ -237,95 +237,95 @@ Assistant Secretary
 
 Regulation 2(1)
 
-### 1. Argentina[^key-d4d8591f36c431653227edec20782606]
+### 1. Argentina[^c-d4d8591f36c431653227edec20782606]
 
 Commission Decision [93/402/EEC](https://www.legislation.gov.uk/european/decision/1993/0402) of 10th June 1993 (O.J. No. L179, 22.7.93, p. 11) (“The South American Decision”), as amended by—
 
 - Commission Decision [96/595/EC](https://www.legislation.gov.uk/european/decision/1996/0595) (O.J. No. L261, 15.10.96, p. 41).
 
-### 2. Australia[^key-3c075d8d3eeb3c71660fbf4048355444]
+### 2. Australia[^c-3c075d8d3eeb3c71660fbf4048355444]
 
 Commission Decision [80/801/EEC](https://www.legislation.gov.uk/european/decision/1980/0801) of 25th July 1980 (O.J. No. L234, 5.9.80, p. 41) as amended by—
 
 - Commission Decision [81/662/EEC](https://www.legislation.gov.uk/european/decision/1981/0662) (O.J. No. L237, 22.8.81, p. 33).
 
-### 3. Belize[^key-2030e47ff3762a268bb3b2b992e932c6]
+### 3. Belize[^c-2030e47ff3762a268bb3b2b992e932c6]
 
 Commission Decision [84/292/EEC](https://www.legislation.gov.uk/european/decision/1984/0292) of 27th April 1984 (O.J. No. L144, 30.5.84, p. 10).
 
-### 4. Botswana[^key-98680d4c76214e1edecb35929de42bfc]
+### 4. Botswana[^c-98680d4c76214e1edecb35929de42bfc]
 
 Commission Decision [92/22/EEC](https://www.legislation.gov.uk/european/decision/1992/0022) of 13th November 1991 (O.J. No. L10, 16.1.92, p. 34).
 
-### 5. Brazil[^key-0ae56324ae3ee1310d388c3b47f5b47a]
+### 5. Brazil[^c-0ae56324ae3ee1310d388c3b47f5b47a]
 
 The South American Decision.
 
-### 6. Bulgaria[^key-fb6336a26989a5f2c90c82f88cb7113c]
+### 6. Bulgaria[^c-fb6336a26989a5f2c90c82f88cb7113c]
 
 Commission Decision [92/222/EEC](https://www.legislation.gov.uk/european/decision/1992/0222) of 26th March 1992 (O.J. No. L108, 25.4.92, p. 38) as amended by—
 
 - Commission Decision [92/453/EEC](https://www.legislation.gov.uk/european/decision/1992/0453) (O.J. No. L250, 29.8.92, p. 46).
 
-### 7. Canada[^key-222a69a6cc05d5dcf4f681fb243debcb]
+### 7. Canada[^c-222a69a6cc05d5dcf4f681fb243debcb]
 
 Commission Decision [80/804/EEC](https://www.legislation.gov.uk/european/decision/1980/0804) of 25th July 1980 (O.J. No. L236, 9.9.80, p. 25) as amended by—
 
 - Commission Decision [96/727/EC](https://www.legislation.gov.uk/european/decision/1996/0727) (O.J. No. L329, 19.12.96, p. 51).
 
-### 8. Chile[^key-16323370b84ae282e37de933de896920]
+### 8. Chile[^c-16323370b84ae282e37de933de896920]
 
 The South American Decision.
 
-### 9. Colombia[^key-eeb911e1ff22de86ab5a5c5bcfceba80]
+### 9. Colombia[^c-eeb911e1ff22de86ab5a5c5bcfceba80]
 
 The South American Decision.
 
-### 10. Costa Rica[^key-fb3c3459d29b667ab67dc10e52e013d9]
+### 10. Costa Rica[^c-fb3c3459d29b667ab67dc10e52e013d9]
 
 Commission Decision [81/887/EEC](https://www.legislation.gov.uk/european/decision/1981/0887) of 19th October 1981 (O.J. No. L324, 12.11.81, p. 25).
 
-### 11. Croatia[^key-9e8492b4cf4110aadcc61e3b80e0d99a]
+### 11. Croatia[^c-9e8492b4cf4110aadcc61e3b80e0d99a]
 
 Commission Decision [92/390/EEC](https://www.legislation.gov.uk/european/decision/1992/0390) of 2nd July 1992 (O.J. No. L207, 23.7.92, p. 53) as amended by—
 
 - Commission Decision [93/234/EEC](https://www.legislation.gov.uk/european/decision/1993/0234) (O.J. No. L106, 30.4.93, p. 16).
 
-### 12. Cuba[^key-79b1b488e1c9a38edd69c84d17635d58]
+### 12. Cuba[^c-79b1b488e1c9a38edd69c84d17635d58]
 
 Commission Decision [86/72/EEC](https://www.legislation.gov.uk/european/decision/1986/0072) of 19th February 1986 (O.J. No. L76, 21.3.86, p. 47).
 
-### 13. Cyprus[^key-6bb92b299db203f46d43e3dddf454de0]
+### 13. Cyprus[^c-6bb92b299db203f46d43e3dddf454de0]
 
 Commission Decision [86/463/EEC](https://www.legislation.gov.uk/european/decision/1986/0463) of 3rd September 1986 (O.J. No. L271, 23.9.86, p. 23).
 
-### 14. Czech Republic[^key-6f0decb9141b7851e2789eeedcc2189d]
+### 14. Czech Republic[^c-6f0decb9141b7851e2789eeedcc2189d]
 
 Commission Decision [94/845/EC](https://www.legislation.gov.uk/european/decision/1994/0845) of 20th December 1994 (O.J. No. L352, 31.12.94, p. 38) as amended by—
 
 - Commission Decision [96/131/EC](https://www.legislation.gov.uk/european/decision/1996/0131) (O.J. No. L30, 8.2.96, p. 51).
 
-### 15. Greenland[^key-026a5565561baa147b78981bd12a3330]
+### 15. Greenland[^c-026a5565561baa147b78981bd12a3330]
 
 Commission Decision [86/117/EEC](https://www.legislation.gov.uk/european/decision/1986/0117) of 7th March 1986 (O.J. No. L99, 15.4.86, p. 26).
 
-### 16. Guatemala[^key-8fd557b44feaa83127ca0a99017501da]
+### 16. Guatemala[^c-8fd557b44feaa83127ca0a99017501da]
 
 Commission Decision [82/414/EEC](https://www.legislation.gov.uk/european/decision/1982/0414) of 10th June 1982 (O.J. No. L182, 26.6.82, p. 27).
 
-### 17. Honduras[^key-cfbfcce2385a66b98f9249cd9e81e285]
+### 17. Honduras[^c-cfbfcce2385a66b98f9249cd9e81e285]
 
 Commission Decision [89/221/EEC](https://www.legislation.gov.uk/european/decision/1989/0221) of 8th March 1989 (O.J. No. L92, 5.4.89, p. 16).
 
-### 18. Hungary[^key-e45f07623537653c46335f61da0f2c73]
+### 18. Hungary[^c-e45f07623537653c46335f61da0f2c73]
 
 Commission Decision [82/8/EEC](https://www.legislation.gov.uk/european/decision/1982/0008) of 9th December 1981 (O.J. No. L8, 13.1.82, p. 9).
 
-### 19. Iceland[^key-b247cb3f5a106519332e4e4ef603f5d1]
+### 19. Iceland[^c-b247cb3f5a106519332e4e4ef603f5d1]
 
 Commission Decision [83/84/EEC](https://www.legislation.gov.uk/european/decision/1983/0084) of 15th February 1983 (O.J. No. L56, 3.3.83, p. 26).
 
-### 20. Former Yugoslav Republic of Macedonia[^key-c14f978021cf6bf310befebbcc1854a7]
+### 20. Former Yugoslav Republic of Macedonia[^c-c14f978021cf6bf310befebbcc1854a7]
 
 Commission Decision [81/547/EEC](https://www.legislation.gov.uk/european/decision/1981/0547) of 24th June 1981 (O.J. No. L206, 27.7.81, p. 15) as amended by—
 
@@ -334,88 +334,88 @@ Commission Decision [81/547/EEC](https://www.legislation.gov.uk/european/decisio
 - Commission Decision [91/73/EEC](https://www.legislation.gov.uk/european/decision/1991/0073) (O.J. No. L43, 16.2.91, p. 45);
 - Commission Decision [92/453/EEC](https://www.legislation.gov.uk/european/decision/1992/0453) (O.J. No. L250, 29.8.92, p. 46).
 
-### 21. Madagascar[^key-b574e36767396756ba4725956c1ea92d]
+### 21. Madagascar[^c-b574e36767396756ba4725956c1ea92d]
 
 Commission Decision [90/156/EEC](https://www.legislation.gov.uk/european/decision/1990/0156) of 19th March 1990 (O.J. No. L89, 4.4.90, p. 13).
 
-### 22. Malta[^key-18dba5b17754957699373fb584b4b06a]
+### 22. Malta[^c-18dba5b17754957699373fb584b4b06a]
 
 Commission Decision [84/294/EEC](https://www.legislation.gov.uk/european/decision/1984/0294) of 27th April 1984 (O.J. No. L144, 30.5.84, p. 17).
 
-### 23. Mexico[^key-b26dac8ca349761e2424edf5d10e9849]
+### 23. Mexico[^c-b26dac8ca349761e2424edf5d10e9849]
 
 Commission Decision [83/380/EEC](https://www.legislation.gov.uk/european/decision/1983/0380) of 27th July 1983 (O.J. No. L222, 13.8.83, p. 27).
 
-### 24. Morocco[^key-a11654670d549cceea5a620d4a808a08]
+### 24. Morocco[^c-a11654670d549cceea5a620d4a808a08]
 
 Commission Decision [84/295/EEC](https://www.legislation.gov.uk/european/decision/1984/0295) of 27th April 1984 (O.J. No. L144, 30.5.84, p. 21).
 
-### 25. Namibia[^key-a1599abea1b430ee56a8c094ebe68f29]
+### 25. Namibia[^c-a1599abea1b430ee56a8c094ebe68f29]
 
 Commission Decision [92/24/EEC](https://www.legislation.gov.uk/european/decision/1992/0024) of 12th November 1991 (O.J. No. L10, 16.1.92, p. 46).
 
-### 26. New Zealand[^key-158d62104f11d745c8d15a724a300704]
+### 26. New Zealand[^c-158d62104f11d745c8d15a724a300704]
 
 Commission Decision [80/805/EEC](https://www.legislation.gov.uk/european/decision/1980/0805) of 25th July 1980 (O.J. No. L236, 9.9.80, p. 28) as amended by—
 
 - Commission Decision [81/662/EEC](https://www.legislation.gov.uk/european/decision/1981/0662) (O.J. No. L237, 22.8.81, p. 33).
 
-### 27. Panama[^key-990fdb9c66e6d3320308e883f6a75b53]
+### 27. Panama[^c-990fdb9c66e6d3320308e883f6a75b53]
 
 Commission Decision [86/63/EEC](https://www.legislation.gov.uk/european/decision/1986/0063) of 12th February 1986 (O.J. No. L72, 15.3.86, p. 36).
 
-### 28. Paraguay[^key-60dab2524c5159a810931c13e0c2594e]
+### 28. Paraguay[^c-60dab2524c5159a810931c13e0c2594e]
 
 The South American Decision.
 
-### 29. Poland[^key-bec9089e09f02a66601fc870dc0472cc]
+### 29. Poland[^c-bec9089e09f02a66601fc870dc0472cc]
 
 Commission Decision [82/9/EEC](https://www.legislation.gov.uk/european/decision/1982/0009) of 9th December 1981 (O.J. No. L8, 13.1.82, p. 15) as amended by—
 
 - Commission Decision [92/453/EEC](https://www.legislation.gov.uk/european/decision/1992/0453) (O.J. No. L250, 29.8.92, p. 46).
 
-### 30. Romania[^key-cb8ad33907453df1213219bcb0792291]
+### 30. Romania[^c-cb8ad33907453df1213219bcb0792291]
 
 Commission Decision [82/132/EEC](https://www.legislation.gov.uk/european/decision/1982/0132) of 4th February 1982 (O.J. No. L60, 3.3.82, p. 16) as amended by—
 
 - Commission Decision [92/453/EEC](https://www.legislation.gov.uk/european/decision/1992/0453) (O.J. No. L250, 29.8.92, p. 46).
 
-### 31. Slovak Republic[^key-c1ce03a924627132b0184c465c0529f3]
+### 31. Slovak Republic[^c-c1ce03a924627132b0184c465c0529f3]
 
 Commission Decision [94/846/EC](https://www.legislation.gov.uk/european/decision/1994/0846) of 20th December 1994 (O.J. No. L352, 31.12.94, p. 48).
 
-### 32. Slovenia[^key-7f16d667a5885d907f05412926e61e61]
+### 32. Slovenia[^c-7f16d667a5885d907f05412926e61e61]
 
 Commission Decision [92/377/EEC](https://www.legislation.gov.uk/european/decision/1992/0377) of 2nd July 1992 (O.J. No. L197, 16.7.92, p. 75) as amended by—
 
 - Commission Decision [93/234/EEC](https://www.legislation.gov.uk/european/decision/1993/0234) (O.J. No. L106, 30.4.93, p. 16).
 
-### 33. South Africa[^key-10bbc0c12b289eb1d34090710406d84a]
+### 33. South Africa[^c-10bbc0c12b289eb1d34090710406d84a]
 
 Commission Decision [92/21/EEC](https://www.legislation.gov.uk/european/decision/1992/0021) of 12th November 1991 (O.J. No. L10, 16.1.92, p. 28).
 
-### 34. Swaziland[^key-39e3b133c5d17ae067800dcb459e57df]
+### 34. Swaziland[^c-39e3b133c5d17ae067800dcb459e57df]
 
 Commission Decision [92/23/EEC](https://www.legislation.gov.uk/european/decision/1992/0023) of 13th November 1991 (O.J. No. L10, 16.1.92, p. 40).
 
-### 35. Switzerland[^key-f75711a8762ac7baa8220015cbb3b124]
+### 35. Switzerland[^c-f75711a8762ac7baa8220015cbb3b124]
 
 Commission Decision [81/526/EEC](https://www.legislation.gov.uk/european/decision/1981/0526) of 19th June 1981 (O.J. No. L196, 18.7.81, p. 19) as amended by—
 
 - Commission Decision [93/148/EEC](https://www.legislation.gov.uk/european/decision/1993/0148) (O.J. No. L58, 11.3.93, p. 63);
 - Commission Decision [94/667/EEC](https://www.legislation.gov.uk/european/decision/1994/0667) (O.J. No. L260, 8.10.94, p. 32).
 
-### 36. Turkey[^key-d68910631e712451964df1cc8437449e]
+### 36. Turkey[^c-d68910631e712451964df1cc8437449e]
 
 Commission Decision [90/445/EEC](https://www.legislation.gov.uk/european/decision/1990/0445) of 26th July 1990 (O.J. No. L228, 22.8.90, p. 28).
 
-### 37. United States of America[^key-cf25bfc1ef2ff07a0ef46259a675fa78]
+### 37. United States of America[^c-cf25bfc1ef2ff07a0ef46259a675fa78]
 
 Commission Decision [82/426/EEC](https://www.legislation.gov.uk/european/decision/1982/0426) of 10th June 1982 (O.J. No. L186, 30.6.82, p. 54) as amended by—
 
 - Commission Decision [85/164/EEC](https://www.legislation.gov.uk/european/decision/1985/0164) (O.J. No. L63, 2.3.85, p. 26).
 
-### 38. Uruguay[^key-6b2cc8df9d6d8d2aa4f66dd098ab8539]
+### 38. Uruguay[^c-6b2cc8df9d6d8d2aa4f66dd098ab8539]
 
 The South American Decision, as amended for Uruguay by—
 
@@ -423,7 +423,7 @@ The South American Decision, as amended for Uruguay by—
 - Commission Decision [95/443/EC](https://www.legislation.gov.uk/european/decision/1995/0443) (O.J. No. L258, 28.10.95, p. 65);
 - Commission Decision 96/595 (O.J. No. L261, 15.10.96, p. 41).
 
-### 39. Zimbabwe[^key-d6aa584cd3c9eedda9e9db0d6bf8b037]
+### 39. Zimbabwe[^c-d6aa584cd3c9eedda9e9db0d6bf8b037]
 
 Commission Decision [92/25/EEC](https://www.legislation.gov.uk/european/decision/1992/0025) of 13th November 1991 (O.J. No. L10, 16.1.92, p. 52) as amended by—
 
@@ -436,195 +436,195 @@ Regulation 2(1)
 
 ### Part I — States
 
-#### 1. Argentina[^key-33a1aeabfa51fc5eb852673c31591953]
+#### 1. Argentina[^c-33a1aeabfa51fc5eb852673c31591953]
 
 Commission Decision [81/91/EEC](https://www.legislation.gov.uk/european/decision/1981/0091) of 30th January 1981 (O.J. No. L58, 5.3.81, p. 39), as amended by—
 
 - Commission Decision C(95) 843 (O.J. No. C98, 21.4.95, p. 4);
 - Commission Decision C(95) 1780 (O.J. No. C193, 27.7.95, p. 6).
 
-#### 2. Australia[^key-c6c057f897281d4ca0f001097f945cc4]
+#### 2. Australia[^c-c6c057f897281d4ca0f001097f945cc4]
 
 Commission Decision [83/384/EEC](https://www.legislation.gov.uk/european/decision/1983/0384) of 29th July 1983 (O.J. No. L222, 13.8.83, p. 36) as amended by—
 
 - Commission Decision C(94) 2698 (O.J. No. C302, 28.10.94, p. 2).
 
-#### 3. Botswana[^key-d86c4d3a4b6040d30c17eeb16ebef2c4]
+#### 3. Botswana[^c-d86c4d3a4b6040d30c17eeb16ebef2c4]
 
 Commission Decision [83/243/EEC](https://www.legislation.gov.uk/european/decision/1983/0243) of 10th May 1983 (O.J. No. L129, 19.5.83, p. 70), as amended by—
 
 - Commission Decision C(94) 1676 (O.J. No. C189, 12.7.94, p. 8);
 - Commission Decision C(95) 2899 (O.J. No. C338, 16.12.95, p. 3).
 
-#### 4. Brazil[^key-1c35ea5b13ff4a538ab771b9dc7e7cab]
+#### 4. Brazil[^c-1c35ea5b13ff4a538ab771b9dc7e7cab]
 
 Commission Decision [81/713/EEC](https://www.legislation.gov.uk/european/decision/1981/0713) of 28th July 1981 (O.J. No. L257 10.9.81, p. 28), as amended by—
 
 - Commission Decision C(95) 1172 (O.J. No. C147, 14.6.95, p. 6);
 - Commission Decision C(95) 1994 (O.J. No. C205, 10.8.95, p. 5).
 
-#### 5. Bulgaria[^key-60d9783f2cca876822d4a6b562552a18]
+#### 5. Bulgaria[^c-60d9783f2cca876822d4a6b562552a18]
 
 Council Decision [82/735/EEC](https://www.legislation.gov.uk/european/decision/1982/0735) of 18th October 1982 (O.J. No. L311, 8.11.82, p. 16), as amended by—
 
 - Commission Decision C(96) 303 (O.J. No. C45, 17.2.96, p. 4).
 
-#### 6. Canada[^key-868bf990e64678ecf93c507fa6b17000]
+#### 6. Canada[^c-868bf990e64678ecf93c507fa6b17000]
 
 Commission Decision [87/258/EEC](https://www.legislation.gov.uk/european/decision/1987/0258) of 28th April 1987 (O.J. No. L121, 9.5.87, p. 50), as amended by—
 
 - Commission Decision C(97) 247 (O.J. No. C49, 19.2.97, p. 18).
 
-#### 7. Chile[^key-336a065e4337ef1e2e6af4413374ede8]
+#### 7. Chile[^c-336a065e4337ef1e2e6af4413374ede8]
 
 Commission Decision [87/124/EEC](https://www.legislation.gov.uk/european/decision/1987/0124) of 19th January 1987 (O.J. No. L51, 20.2.87, p. 41), as amended by—
 
 - Commission Decision C(93) 3430 (O.J. No. C349, 29.12.93, p. 8).
 
-#### 8. Croatia[^key-696fe1d6a7f81a5abf00f87aa50d5c7f]
+#### 8. Croatia[^c-696fe1d6a7f81a5abf00f87aa50d5c7f]
 
 Commission Decision [93/26/EEC](https://www.legislation.gov.uk/european/decision/1993/0026) of 11th December 1992 (O.J. No. L16, 25.1.93, p. 24), as amended by—
 
 - Commission Decision C(96) 3817 (O.J. No. C387, 21.12.96, p. 9).
 
-#### 9. Czech Republic[^key-4021f5bb02f1487b43e8e8326709fd39]
+#### 9. Czech Republic[^c-4021f5bb02f1487b43e8e8326709fd39]
 
 Commission Decision [93/546/EEC](https://www.legislation.gov.uk/european/decision/1993/0546) of 12th October 1993 (O.J. No. L266, 27.10.93, p. 31), as amended by—
 
 - Commission Decision C(94) 1964 (O.J. No. C223, 11.8.94, p. 12).
 
-#### 10. Greenland[^key-44a895a49dd5c7a0da977f1ece6c091b]
+#### 10. Greenland[^c-44a895a49dd5c7a0da977f1ece6c091b]
 
 Commission Decision [85/539/EEC](https://www.legislation.gov.uk/european/decision/1985/0539) of 29th November 1985 (O.J. No. L334, 12.12.85, p. 25), as amended by—
 
 - Commission Decision C(89) 1885 (O.J. No. C286, 14.11.89, p. 5).
 
-#### 11. Guatemala[^key-9afa7a70b4673f4434b3e114e8dee33e]
+#### 11. Guatemala[^c-9afa7a70b4673f4434b3e114e8dee33e]
 
 Commission Decision [82/923/EEC](https://www.legislation.gov.uk/european/decision/1982/0923) of 17th December 1982 (O.J. No. L381, 31.12.82, p. 40).
 
-#### 12. Hungary[^key-fab944e3800b6be3ed9fa3b7f158e581]
+#### 12. Hungary[^c-fab944e3800b6be3ed9fa3b7f158e581]
 
 Council Decision [82/733/EEC](https://www.legislation.gov.uk/european/decision/1982/0733) of 18th October 1982 (O.J. No. L311, 8.11.82, p. 10), as amended by—
 
 - Commission Decision C(94) 3453 (O.J. No. C355, 14.12.94, p. 8); and
 - Corrigendum 94/C382/10 (O.J. No. C382, 31.12.94, p. 39).
 
-#### 13. Iceland[^key-4cae8276f8d922cd004911014ae2a11d]
+#### 13. Iceland[^c-4cae8276f8d922cd004911014ae2a11d]
 
 Commission Decision [84/24/EEC](https://www.legislation.gov.uk/european/decision/1984/0024) of 23rd December 1983 (O.J. No. L20, 25.1.84, p. 21), as amended by—
 
 - Commission Decision C(96) 2906 (O.J. No. C317, 26.10.96, p. 38).
 
-#### 14. Former Yugoslav Republic of Macedonia[^key-689c8ab0dff7aa180f186c58fb34e3ab]
+#### 14. Former Yugoslav Republic of Macedonia[^c-689c8ab0dff7aa180f186c58fb34e3ab]
 
 Commission Decision [95/45/EC](https://www.legislation.gov.uk/european/decision/1995/0045) of 20th February 1995 (O.J. No. L51, 8.3.95, p. 13).
 
-#### 15. Madagascar[^key-45b13e5ff128871f9cb20f448c476d1f]
+#### 15. Madagascar[^c-45b13e5ff128871f9cb20f448c476d1f]
 
 Commission Decision [90/165/EEC](https://www.legislation.gov.uk/european/decision/1990/0165) of 28th March 1990 (O.J. No. L91, 6.4.90, p. 34), as amended by—
 
 - Commission Decision C(92) 1633 (O.J. No. C186, 23.7.92, p. 20).
 
-#### 16. Malta[^key-bf4edbe5e8bbfe69584083abc0593fc3]
+#### 16. Malta[^c-bf4edbe5e8bbfe69584083abc0593fc3]
 
 Commission Decision [87/548/EEC](https://www.legislation.gov.uk/european/decision/1987/0548) of 6th November 1987 (O.J. No. L327, 18.11.87, p. 28).
 
-#### 17. United Mexican States[^key-c2a85a920eb19a2a415a2766a73584c7]
+#### 17. United Mexican States[^c-c2a85a920eb19a2a415a2766a73584c7]
 
 Commission Decision [87/424/EEC](https://www.legislation.gov.uk/european/decision/1987/0424) of 14th July 1987 (O.J. No. L228, 15.8.87, p. 43), as amended by—
 
 - Commission Decision C(94) 1976 (O.J. No. C210, 30.7.94, p. 18).
 
-#### 18. Morocco[^key-33ea88b1f83bb0ef98e722365ad40d25]
+#### 18. Morocco[^c-33ea88b1f83bb0ef98e722365ad40d25]
 
 Commission Decision [86/65/EEC](https://www.legislation.gov.uk/european/decision/1986/0065) of 13th February 1986 (O.J. No. L72, 15.3.86, p. 40).
 
-#### 19. Namibia[^key-558a43a80ae6389262ef69a3e5dcde36]
+#### 19. Namibia[^c-558a43a80ae6389262ef69a3e5dcde36]
 
 Commission Decision [90/432/EEC](https://www.legislation.gov.uk/european/decision/1990/0432) of 30th July 1990 (O.J. No. L223, 18.8.90, p. 19), as amended by—
 
 - Commission Decision C(94) 1975 (O.J. No. C210, 30.7.94, p. 18).
 
-#### 20. New Zealand[^key-905f8239e805d5ca9e095cfdf34b1a27]
+#### 20. New Zealand[^c-905f8239e805d5ca9e095cfdf34b1a27]
 
 Commission Decision [83/402/EEC](https://www.legislation.gov.uk/european/decision/1983/0402) of 29th July 1983 (O.J. No. L233, 24.8.83, p. 24), as amended by—
 
 - Commission Decision C(94) 2696 (O.J. No. C298, 26.10.94, p. 3);
 - Commission Decision C(95) 1351 (O.J. No. C157, 23.6.95, p. 3).
 
-#### 21. Paraguay[^key-97ae9a232c16c98dce3e7b33dfe118c5]
+#### 21. Paraguay[^c-97ae9a232c16c98dce3e7b33dfe118c5]
 
 Commission Decision [83/423/EEC](https://www.legislation.gov.uk/european/decision/1983/0423) of 29th July 1983 (O.J. No. L238, 27.8.83, p. 39), as amended by—
 
 - Commission Decision C(96) 2158 (O.J. No. C241, 20.8.96, p. 2).
 
-#### 22. Poland[^key-fc02e2c1c3819a75d4d94ef59acc8efa]
+#### 22. Poland[^c-fc02e2c1c3819a75d4d94ef59acc8efa]
 
 Commission Decision [84/28/EEC](https://www.legislation.gov.uk/european/decision/1984/0028) of 6th January 1984 (O.J. No. L21, 26.1.84, p. 42), as amended by—
 
 - Commission Decision C(96) 3818 (O.J. No. C387, 21.12.96, p. 11).
 
-#### 23. Romania[^key-95fad86403f3eae893f92c14d6facada]
+#### 23. Romania[^c-95fad86403f3eae893f92c14d6facada]
 
 Commission Decision [83/218/EEC](https://www.legislation.gov.uk/european/decision/1983/0218) of 22nd April 1983 (O.J. No. L121, 7.5.83, p. 23), as amended by—
 
 - Commission Decision C(96) 3660 (O.J. No. C387, 21.12.96, p. 10).
 
-#### 24. Slovak Republic[^key-06f44bc2abbaba2cbe464d99cd04cf7c]
+#### 24. Slovak Republic[^c-06f44bc2abbaba2cbe464d99cd04cf7c]
 
 Commission Decision [93/547/EEC](https://www.legislation.gov.uk/european/decision/1993/0547) of 12th October 1993 (O.J. No. L266, 27.10.93, p.33), as amended by—
 
 - Commission Decision C(95) 2065 (O.J. No. C227, 1.9.95, p. 2).
 
-#### 25. Slovenia[^key-f1a262df9a3b75331b9ed89e1b588fc7]
+#### 25. Slovenia[^c-f1a262df9a3b75331b9ed89e1b588fc7]
 
 Commission Decision [93/27/EEC](https://www.legislation.gov.uk/european/decision/1993/0027) of 11th December 1992 (O.J. No. L16, 25.1.93, p. 26), as amended by—
 
 - Commission Decision C(94) 2213 (O.J. No. C229, 18.8.94, p. 7).
 
-#### 26. South Africa[^key-d6907bb0e10052e1cf1ca9ff2cc4e47c]
+#### 26. South Africa[^c-d6907bb0e10052e1cf1ca9ff2cc4e47c]
 
 Commission Decision [82/913/EEC](https://www.legislation.gov.uk/european/decision/1982/0913) of 16th December 1982 (O.J. No. L381, 31.12.82, p. 28), as amended by—
 
 - Commission Decision [90/433/EEC](https://www.legislation.gov.uk/european/decision/1990/0433) (O.J. No. L223, 18.8.90, p. 21);
 - Commission Decision C(95) 1681 (O.J. No. C187, 21.7.95, p. 10).
 
-#### 27. Swaziland[^key-0087dabd7a7ac62aa1d87f88225333ed]
+#### 27. Swaziland[^c-0087dabd7a7ac62aa1d87f88225333ed]
 
 Commission Decision [82/814/EEC](https://www.legislation.gov.uk/european/decision/1982/0814) of 17th November 1982 (O.J. No. L343, 4.12.82, p. 24), as amended by—
 
 - Commission Decision C(89) 1686 (O.J. No. C252, 5.10.89, p. 4).
 
-#### 28. Switzerland[^key-f989ac6ca222d8ab210d75bc2082fa7f]
+#### 28. Switzerland[^c-f989ac6ca222d8ab210d75bc2082fa7f]
 
 Council Decision [82/734/EEC](https://www.legislation.gov.uk/european/decision/1982/0734) of 18th October 1982 (O.J. No. L311, 8.11.82, p. 13), as amended by—
 
 - Commission Decision C(96) 304 (O.J. No. C45, 17.2.96, p. 3).
 
-#### 29. Turkey[^key-633951a8148cc2df51df5897a1b386b7]
+#### 29. Turkey[^c-633951a8148cc2df51df5897a1b386b7]
 
 Commission Decision [83/234/EEC](https://www.legislation.gov.uk/european/decision/1983/0234) of 29th April 1983 (O.J. No. L127, 17.5.83, p. 20).
 
-#### 30. United States of America[^key-16b947e595e9d12bf32355b06ca9a159]
+#### 30. United States of America[^c-16b947e595e9d12bf32355b06ca9a159]
 
 Commission Decision [87/257/EEC](https://www.legislation.gov.uk/european/decision/1987/0257) of 28th April 1987 (O.J. No. L121, 9.5.87, p. 46), as amended by—
 
 - Commission Decision C(97) 248 (O.J. No. C49, 19.2.97, p. 19).
 
-#### 31. Uruguay[^key-576a132e4c1a75708ecd515268c97d2f]
+#### 31. Uruguay[^c-576a132e4c1a75708ecd515268c97d2f]
 
 Commission Decision [81/92/EEC](https://www.legislation.gov.uk/european/decision/1981/0092) of 30th January 1981 (O.J. No. L58, 5.3.81, p. 43), as amended by—
 
 - Commission Decision C(96) 1604 (O.J. No. C227, 6.8.96, p. 2).
 
-#### 32. Zimbabwe[^key-52bcc1a3f08106ddcc8bb6bee8f018e2]
+#### 32. Zimbabwe[^c-52bcc1a3f08106ddcc8bb6bee8f018e2]
 
 Commission Decision [85/473/EEC](https://www.legislation.gov.uk/european/decision/1985/0473) of 2nd October 1985 (O.J. No. L278, 18.10.85, p. 35), as amended by—
 
 - Commission Decision C(96) 3816 (O.J. No. C387, 21.12.96, p. 8).
 
-### Part II — Limitation of Certain Decisions[^key-c182a0148fcf54320b8cac80548deaf7]
+### Part II — Limitation of Certain Decisions[^c-c182a0148fcf54320b8cac80548deaf7]
 
 The Decisions specified in paragraphs 1, 5 and 31 of Part I of this Schedule are limited to the importation of fresh beef and veal, sheepmeat and meat of domestic solipeds.
 
@@ -632,15 +632,15 @@ The Decisions specified in paragraphs 1, 5 and 31 of Part I of this Schedule are
 
 Regulation 2(1)
 
-### 1. Albania[^key-ff66986c2f7358b385d26ed13a41d624]
+### 1. Albania[^c-ff66986c2f7358b385d26ed13a41d624]
 
 Commission Decision [89/197/EEC](https://www.legislation.gov.uk/european/decision/1989/0197) (O.J. No. L73, 17.3.89, p. 53) concerning the import by Member States of fresh meat from Albania (which bans all imports of fresh meat from Albania).
 
-### 2. Bosnia-Herzegovina[^key-f19b7b5fa8b46e81699a740167ab7a2e]
+### 2. Bosnia-Herzegovina[^c-f19b7b5fa8b46e81699a740167ab7a2e]
 
 Commission Decision [92/271/EEC](https://www.legislation.gov.uk/european/decision/1992/0271) (O.J. No. L138, 21.5.92, p. 39) (which suspends the importation into the Community of live animals and animal products originating in or coming via the Republic of Bosnia-Herzegovina).
 
-### 3. Greece[^key-4891fec1eeadff84992ed8dfd411e58b]
+### 3. Greece[^c-4891fec1eeadff84992ed8dfd411e58b]
 
 Commission Decision [96/526/EC](https://www.legislation.gov.uk/european/decision/1996/0526) (O.J. No. L221, 31.8.96, p. 65) (Article 2 of which prohibits, with certain specified exceptions the importation into the Community of fresh meat coming from certain parts of Greece).
 
@@ -648,11 +648,11 @@ Commission Decision [96/526/EC](https://www.legislation.gov.uk/european/decision
 
 Regulation 2(1)
 
-### 1. Sardinia[^key-47578c0fef43f15d0950de252bed114e]
+### 1. Sardinia[^c-47578c0fef43f15d0950de252bed114e]
 
 Commission Decision [95/108/EC](https://www.legislation.gov.uk/european/decision/1995/0108) (O.J. No. L79, 7.4.95, p. 29) concerning health protection measures against African swine fever in Sardinia (which permits the movement from Sardinia of fresh pigment originating in certain provinces of Sardinia and subject to certain conditions).
 
-### 2. South America[^key-3658a130847370c7faf88c9ab8050eea]
+### 2. South America[^c-3658a130847370c7faf88c9ab8050eea]
 
 The offal to which Article 3 of the South American Decision applies may only be imported from—
 
@@ -669,7 +669,7 @@ in accordance with an authorisation in writing granted by the Department.
 
 Regulations 2(1),10(*a*) and 11(1)(*h*)
 
-**1.**[^key-030a78fef866a6cad98101f183c3cff1] Council Directive [72/461/EEC](https://www.legislation.gov.uk/european/directive/1972/0461) of 12th December 1972 on health problems affecting intra-Community trade in fresh meat (O.J. No. L302, 31.12.72, p. 24) has been amended by and must be read subject to:
+**1.**[^c-030a78fef866a6cad98101f183c3cff1] Council Directive [72/461/EEC](https://www.legislation.gov.uk/european/directive/1972/0461) of 12th December 1972 on health problems affecting intra-Community trade in fresh meat (O.J. No. L302, 31.12.72, p. 24) has been amended by and must be read subject to:
 
 - Council Directive [75/379/EEC](https://www.legislation.gov.uk/european/directive/1975/0379) (O.J. No. L172, 3.7.75, p. 17);
 - Council Directive [77/98/EEC](https://www.legislation.gov.uk/european/directive/1977/0098) (O.J. No. L26, 31.1.77, p. 81);
@@ -691,7 +691,7 @@ Regulations 2(1),10(*a*) and 11(1)(*h*)
 - Council Directive [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) (O.J. No. L62, 15.3.93, p. 49);
 - The Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded (O.J. No. C241, 29.8.94, p. 21).
 
-**2.**[^key-07319d42a74b8d75a637c6230e20c1ba] Council Directive [72/462/EEC](https://www.legislation.gov.uk/european/directive/1972/0462) of 12th December 1972 on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat or meat products from third countries (O.J. No. L302, 31.12.72, p. 28) has been amended by and must be read subject to:
+**2.**[^c-07319d42a74b8d75a637c6230e20c1ba] Council Directive [72/462/EEC](https://www.legislation.gov.uk/european/directive/1972/0462) of 12th December 1972 on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat or meat products from third countries (O.J. No. L302, 31.12.72, p. 28) has been amended by and must be read subject to:
 
 - Council Directive [77/98/EEC](https://www.legislation.gov.uk/european/directive/1977/0098) (O.J. No. L26, 31.1.77, p. 81);
 - Council Directive [83/91/EEC](https://www.legislation.gov.uk/european/directive/1983/0091) (O.J. No. L59, 5.3.83, p. 34);
@@ -711,7 +711,7 @@ Regulations 2(1),10(*a*) and 11(1)(*h*)
 - Council Regulation [(EEC) No. 1601/92](https://www.legislation.gov.uk/european/regulation/1992/1601) (O.J. No. L173, 27.6.92, p. 13);
 - The Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded (O.J. No. C241, 29.8.94, p. 21).
 
-**3.**[^key-3ea5dc4a3355ec191eac8927ae86c075] Council Directive [77/96/EEC](https://www.legislation.gov.uk/european/directive/1977/0096) has been amended by and must be read subject to:
+**3.**[^c-3ea5dc4a3355ec191eac8927ae86c075] Council Directive [77/96/EEC](https://www.legislation.gov.uk/european/directive/1977/0096) has been amended by and must be read subject to:
 
 - The Act concerning the conditions of accession of the Hellenic Republic to the European Communities (O.J. No. L291, 19.11.79, p. 17);
 - Council Directive [81/476/EEC](https://www.legislation.gov.uk/european/directive/1981/0476) (O.J. No. L186, 8.7.81, p. 20);
@@ -722,7 +722,7 @@ Regulations 2(1),10(*a*) and 11(1)(*h*)
 - Council Directive [94/59/EC](https://www.legislation.gov.uk/european/directive/1994/0059) (O.J. No. L315, 8.12.94, p. 18);
 - The Act concerning the conditions of accession of the Kingdom of Norway, the Republic of Austria, the Republic of Finland and the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded (O.J. No. C241, 29.8.94, p. 21).
 
-**4.**[^key-c1928b097cf378032524fce76a7d5c1a] The Annex to Council Decision [79/542/EEC](https://www.legislation.gov.uk/european/decision/1979/0542) of 21st December 1979 drawing up a list of third countries from which the Member States authorise imports of bovine animals, swine, equidae, sheep and goats, fresh meat and meat products (O.J. No. L146, 14.6.79, p. 15) as replaced by the Annex to Commission Decision [93/435/EEC](https://www.legislation.gov.uk/european/decision/1993/0435) (O.J. No. L201, 11.8.93, p. 28), has been amended by and must be read subject to:
+**4.**[^c-c1928b097cf378032524fce76a7d5c1a] The Annex to Council Decision [79/542/EEC](https://www.legislation.gov.uk/european/decision/1979/0542) of 21st December 1979 drawing up a list of third countries from which the Member States authorise imports of bovine animals, swine, equidae, sheep and goats, fresh meat and meat products (O.J. No. L146, 14.6.79, p. 15) as replaced by the Annex to Commission Decision [93/435/EEC](https://www.legislation.gov.uk/european/decision/1993/0435) (O.J. No. L201, 11.8.93, p. 28), has been amended by and must be read subject to:
 
 - Commission Decision [94/59/EC](https://www.legislation.gov.uk/european/decision/1994/0059) (O.J. No. L27, 1.2.94, p. 53);
 - Commission Decision [94/310/EC](https://www.legislation.gov.uk/european/decision/1994/0310) (O.J. No. L137, 1.6.94, p. 72);
@@ -751,11 +751,11 @@ The Regulations set out certain requirements for certificates and documents need
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-8adb7309cdf658dd01f25de207062a31]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/1997/218) modified (1.4.2000) by [Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000 (S.R. 2000/78)](https://www.legislation.gov.uk/nisr/2000/78), [regs. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1), [11](https://www.legislation.gov.uk/nisr/2000/78/regulation/11), [Sch. 9](https://www.legislation.gov.uk/nisr/2000/78/schedule/9) (with [regs. 12-14](https://www.legislation.gov.uk/nisr/2000/78/regulation/12))
+[^c-8adb7309cdf658dd01f25de207062a31]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/1997/218) modified (1.4.2000) by [Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000 (S.R. 2000/78)](https://www.legislation.gov.uk/nisr/2000/78), [regs. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1), [11](https://www.legislation.gov.uk/nisr/2000/78/regulation/11), [Sch. 9](https://www.legislation.gov.uk/nisr/2000/78/schedule/9) (with [regs. 12-14](https://www.legislation.gov.uk/nisr/2000/78/regulation/12))
 
-[^key-6930957f7ff736beaeb9945394498f12]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-6930957f7ff736beaeb9945394498f12]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-ff8e28ab55ade95e07c86bd0f455d6c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/218/regulation/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-ff8e28ab55ade95e07c86bd0f455d6c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/218/regulation/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L373, 31.12.90, p. 1
 
@@ -781,27 +781,27 @@ The Regulations set out certain requirements for certificates and documents need
 
 [^f00014]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ec114e29e3b664412c9cd4b2638fc3a0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/218/regulation/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-ec114e29e3b664412c9cd4b2638fc3a0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/218/regulation/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-2f5d66a0c2e458dfece21d4463d69be5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/218/regulation/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-2f5d66a0c2e458dfece21d4463d69be5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/218/regulation/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-02601e93cab717cda33fd34c7dc04d41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/218/regulation/5) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-02601e93cab717cda33fd34c7dc04d41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/218/regulation/5) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-569c86b62577caa20ca149cf7ab24c42]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/218/regulation/6) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-569c86b62577caa20ca149cf7ab24c42]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/218/regulation/6) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-0b00b7ea6cd7c702ac1a1316be98978c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/218/regulation/7) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-0b00b7ea6cd7c702ac1a1316be98978c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/218/regulation/7) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
 [^f00015]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
-[^key-dd5975000060b240433691064b8cad0e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/218/regulation/8) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-dd5975000060b240433691064b8cad0e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/218/regulation/8) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-f9d80d0acba2e7d9a5aafbda840524b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/218/regulation/9) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-f9d80d0acba2e7d9a5aafbda840524b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/218/regulation/9) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-e1a345ccd70f10718a45d6a8b3801c20]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/218/regulation/10) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-e1a345ccd70f10718a45d6a8b3801c20]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/218/regulation/10) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
 [^f00016]: Footnote: O.J. No. L302, 31.12.72, p. 24
 
-[^key-6569b69a4ca53b98a4bd5c0c04512d20]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1997/218/regulation/11) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-6569b69a4ca53b98a4bd5c0c04512d20]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1997/218/regulation/11) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
 [^f00017]: Footnote: O.J. No. L26, 31.1.77, p. 67
 
@@ -809,176 +809,176 @@ The Regulations set out certain requirements for certificates and documents need
 
 [^f00019]: Footnote: O.J. No. L70, 16.3.88, p. 16
 
-[^key-46574096274289b792da7a23ed65d293]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1997/218/regulation/12) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-46574096274289b792da7a23ed65d293]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1997/218/regulation/12) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-4fd3db9e5dd141de39adfaf326888b24]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1997/218/regulation/13) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-4fd3db9e5dd141de39adfaf326888b24]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1997/218/regulation/13) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-8bc147f2f0183883e173b97af6fa6040]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1997/218/regulation/14) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-8bc147f2f0183883e173b97af6fa6040]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1997/218/regulation/14) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-4409270827e006c973de917b1000878c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/1997/218/regulation/15) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-4409270827e006c973de917b1000878c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/1997/218/regulation/15) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
 [^f00020]: Footnote: [S.R. 1991 No. 475](https://www.legislation.gov.uk/nisr/1991/475)
 
-[^key-cc8db0cc9ca9baf952c7b5bdfb3d90f9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1997/218/regulation/16) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-cc8db0cc9ca9baf952c7b5bdfb3d90f9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1997/218/regulation/16) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-d4d8591f36c431653227edec20782606]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-d4d8591f36c431653227edec20782606]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-3c075d8d3eeb3c71660fbf4048355444]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-3c075d8d3eeb3c71660fbf4048355444]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-2030e47ff3762a268bb3b2b992e932c6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-2030e47ff3762a268bb3b2b992e932c6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-98680d4c76214e1edecb35929de42bfc]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-98680d4c76214e1edecb35929de42bfc]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-0ae56324ae3ee1310d388c3b47f5b47a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/5) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-0ae56324ae3ee1310d388c3b47f5b47a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/5) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-fb6336a26989a5f2c90c82f88cb7113c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/6) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-fb6336a26989a5f2c90c82f88cb7113c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/6) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-222a69a6cc05d5dcf4f681fb243debcb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/7) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-222a69a6cc05d5dcf4f681fb243debcb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/7) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-16323370b84ae282e37de933de896920]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/8) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-16323370b84ae282e37de933de896920]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/8) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-eeb911e1ff22de86ab5a5c5bcfceba80]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/9) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-eeb911e1ff22de86ab5a5c5bcfceba80]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/9) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-fb3c3459d29b667ab67dc10e52e013d9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/10) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-fb3c3459d29b667ab67dc10e52e013d9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/10) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-9e8492b4cf4110aadcc61e3b80e0d99a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/11) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-9e8492b4cf4110aadcc61e3b80e0d99a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/11) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-79b1b488e1c9a38edd69c84d17635d58]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/12) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-79b1b488e1c9a38edd69c84d17635d58]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/12) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-6bb92b299db203f46d43e3dddf454de0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/13) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-6bb92b299db203f46d43e3dddf454de0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/13) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-6f0decb9141b7851e2789eeedcc2189d]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/14) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-6f0decb9141b7851e2789eeedcc2189d]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/14) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-026a5565561baa147b78981bd12a3330]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/15) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-026a5565561baa147b78981bd12a3330]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/15) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-8fd557b44feaa83127ca0a99017501da]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/16) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-8fd557b44feaa83127ca0a99017501da]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/16) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-cfbfcce2385a66b98f9249cd9e81e285]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/17) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-cfbfcce2385a66b98f9249cd9e81e285]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/17) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-e45f07623537653c46335f61da0f2c73]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/18) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-e45f07623537653c46335f61da0f2c73]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/18) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-b247cb3f5a106519332e4e4ef603f5d1]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/19) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-b247cb3f5a106519332e4e4ef603f5d1]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/19) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-c14f978021cf6bf310befebbcc1854a7]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/20) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-c14f978021cf6bf310befebbcc1854a7]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/20) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-b574e36767396756ba4725956c1ea92d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/21) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-b574e36767396756ba4725956c1ea92d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/21) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-18dba5b17754957699373fb584b4b06a]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/22) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-18dba5b17754957699373fb584b4b06a]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/22) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-b26dac8ca349761e2424edf5d10e9849]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/23) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-b26dac8ca349761e2424edf5d10e9849]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/23) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-a11654670d549cceea5a620d4a808a08]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/24) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-a11654670d549cceea5a620d4a808a08]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/24) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-a1599abea1b430ee56a8c094ebe68f29]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/25) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-a1599abea1b430ee56a8c094ebe68f29]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/25) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-158d62104f11d745c8d15a724a300704]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/26) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-158d62104f11d745c8d15a724a300704]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/26) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-990fdb9c66e6d3320308e883f6a75b53]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/27) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-990fdb9c66e6d3320308e883f6a75b53]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/27) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-60dab2524c5159a810931c13e0c2594e]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/28) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-60dab2524c5159a810931c13e0c2594e]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/28) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-bec9089e09f02a66601fc870dc0472cc]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/29) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-bec9089e09f02a66601fc870dc0472cc]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/29) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-cb8ad33907453df1213219bcb0792291]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/30) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-cb8ad33907453df1213219bcb0792291]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/30) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-c1ce03a924627132b0184c465c0529f3]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/31) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-c1ce03a924627132b0184c465c0529f3]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/31) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-7f16d667a5885d907f05412926e61e61]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/32) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-7f16d667a5885d907f05412926e61e61]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/32) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-10bbc0c12b289eb1d34090710406d84a]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/33) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-10bbc0c12b289eb1d34090710406d84a]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/33) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-39e3b133c5d17ae067800dcb459e57df]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/34) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-39e3b133c5d17ae067800dcb459e57df]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/34) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-f75711a8762ac7baa8220015cbb3b124]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/35) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-f75711a8762ac7baa8220015cbb3b124]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/35) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-d68910631e712451964df1cc8437449e]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/36) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-d68910631e712451964df1cc8437449e]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/36) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-cf25bfc1ef2ff07a0ef46259a675fa78]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/37) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-cf25bfc1ef2ff07a0ef46259a675fa78]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/37) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-6b2cc8df9d6d8d2aa4f66dd098ab8539]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/38) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-6b2cc8df9d6d8d2aa4f66dd098ab8539]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/38) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-d6aa584cd3c9eedda9e9db0d6bf8b037]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/39) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-d6aa584cd3c9eedda9e9db0d6bf8b037]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/nisr/1997/218/schedule/1/paragraph/39) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-33a1aeabfa51fc5eb852673c31591953]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-33a1aeabfa51fc5eb852673c31591953]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-c6c057f897281d4ca0f001097f945cc4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-c6c057f897281d4ca0f001097f945cc4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-d86c4d3a4b6040d30c17eeb16ebef2c4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-d86c4d3a4b6040d30c17eeb16ebef2c4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-1c35ea5b13ff4a538ab771b9dc7e7cab]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-1c35ea5b13ff4a538ab771b9dc7e7cab]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-60d9783f2cca876822d4a6b562552a18]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/5) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-60d9783f2cca876822d4a6b562552a18]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/5) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-868bf990e64678ecf93c507fa6b17000]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/6) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-868bf990e64678ecf93c507fa6b17000]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/6) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-336a065e4337ef1e2e6af4413374ede8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/7) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-336a065e4337ef1e2e6af4413374ede8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/7) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-696fe1d6a7f81a5abf00f87aa50d5c7f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/8) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-696fe1d6a7f81a5abf00f87aa50d5c7f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/8) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-4021f5bb02f1487b43e8e8326709fd39]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/9) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-4021f5bb02f1487b43e8e8326709fd39]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/9) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-44a895a49dd5c7a0da977f1ece6c091b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/10) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-44a895a49dd5c7a0da977f1ece6c091b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/10) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-9afa7a70b4673f4434b3e114e8dee33e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/11) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-9afa7a70b4673f4434b3e114e8dee33e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/11) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-fab944e3800b6be3ed9fa3b7f158e581]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/12) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-fab944e3800b6be3ed9fa3b7f158e581]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/12) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-4cae8276f8d922cd004911014ae2a11d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/13) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-4cae8276f8d922cd004911014ae2a11d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/13) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-689c8ab0dff7aa180f186c58fb34e3ab]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/14) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-689c8ab0dff7aa180f186c58fb34e3ab]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/14) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-45b13e5ff128871f9cb20f448c476d1f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/15) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-45b13e5ff128871f9cb20f448c476d1f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/15) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-bf4edbe5e8bbfe69584083abc0593fc3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/16) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-bf4edbe5e8bbfe69584083abc0593fc3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/16) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-c2a85a920eb19a2a415a2766a73584c7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/17) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-c2a85a920eb19a2a415a2766a73584c7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/17) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-33ea88b1f83bb0ef98e722365ad40d25]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/18) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-33ea88b1f83bb0ef98e722365ad40d25]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/18) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-558a43a80ae6389262ef69a3e5dcde36]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/19) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-558a43a80ae6389262ef69a3e5dcde36]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/19) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-905f8239e805d5ca9e095cfdf34b1a27]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/20) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-905f8239e805d5ca9e095cfdf34b1a27]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/20) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-97ae9a232c16c98dce3e7b33dfe118c5]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/21) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-97ae9a232c16c98dce3e7b33dfe118c5]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/21) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-fc02e2c1c3819a75d4d94ef59acc8efa]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/22) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-fc02e2c1c3819a75d4d94ef59acc8efa]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/22) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-95fad86403f3eae893f92c14d6facada]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/23) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-95fad86403f3eae893f92c14d6facada]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/23) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-06f44bc2abbaba2cbe464d99cd04cf7c]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/24) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-06f44bc2abbaba2cbe464d99cd04cf7c]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/24) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-f1a262df9a3b75331b9ed89e1b588fc7]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/25) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-f1a262df9a3b75331b9ed89e1b588fc7]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/25) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-d6907bb0e10052e1cf1ca9ff2cc4e47c]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/26) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-d6907bb0e10052e1cf1ca9ff2cc4e47c]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/26) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-0087dabd7a7ac62aa1d87f88225333ed]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/27) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-0087dabd7a7ac62aa1d87f88225333ed]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/27) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-f989ac6ca222d8ab210d75bc2082fa7f]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/28) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-f989ac6ca222d8ab210d75bc2082fa7f]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/28) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-633951a8148cc2df51df5897a1b386b7]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/29) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-633951a8148cc2df51df5897a1b386b7]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/29) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-16b947e595e9d12bf32355b06ca9a159]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/30) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-16b947e595e9d12bf32355b06ca9a159]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/30) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-576a132e4c1a75708ecd515268c97d2f]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/31) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-576a132e4c1a75708ecd515268c97d2f]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/31) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-52bcc1a3f08106ddcc8bb6bee8f018e2]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/32) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-52bcc1a3f08106ddcc8bb6bee8f018e2]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/paragraph/32) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-c182a0148fcf54320b8cac80548deaf7]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/part/II) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-c182a0148fcf54320b8cac80548deaf7]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/1997/218/schedule/2/part/II) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-ff66986c2f7358b385d26ed13a41d624]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/3/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-ff66986c2f7358b385d26ed13a41d624]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/3/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-f19b7b5fa8b46e81699a740167ab7a2e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/3/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-f19b7b5fa8b46e81699a740167ab7a2e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/3/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-4891fec1eeadff84992ed8dfd411e58b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/3/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-4891fec1eeadff84992ed8dfd411e58b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/3/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-47578c0fef43f15d0950de252bed114e]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/4/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-47578c0fef43f15d0950de252bed114e]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/4/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-3658a130847370c7faf88c9ab8050eea]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/4/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-3658a130847370c7faf88c9ab8050eea]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/4/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-030a78fef866a6cad98101f183c3cff1]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-030a78fef866a6cad98101f183c3cff1]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/1) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-07319d42a74b8d75a637c6230e20c1ba]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-07319d42a74b8d75a637c6230e20c1ba]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/2) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-3ea5dc4a3355ec191eac8927ae86c075]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-3ea5dc4a3355ec191eac8927ae86c075]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/3) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
 
-[^key-c1928b097cf378032524fce76a7d5c1a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)
+[^c-c1928b097cf378032524fce76a7d5c1a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/1997/218/schedule/5/paragraph/4) in operation at 19.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/218/regulation/1)

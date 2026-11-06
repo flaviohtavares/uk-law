@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Investigations by the appropriate authority on its own behalf[^key-43699e4df8e96176b1ddacb46a4a27da]
+## 33. Investigations by the appropriate authority on its own behalf[^c-43699e4df8e96176b1ddacb46a4a27da]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43699e4df8e96176b1ddacb46a4a27da]: Commencement: Reg. 33 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-43699e4df8e96176b1ddacb46a4a27da]: Commencement: Reg. 33 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

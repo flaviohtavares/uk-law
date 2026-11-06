@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Motor vehicles used for cutting grass or trimming hedges[^key-5c5dde00d1f23059c5d7680de1f10405]
+## 51. Motor vehicles used for cutting grass or trimming hedges[^c-5c5dde00d1f23059c5d7680de1f10405]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c5dde00d1f23059c5d7680de1f10405]: Commencement: Art. 51 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-5c5dde00d1f23059c5d7680de1f10405]: Commencement: Art. 51 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

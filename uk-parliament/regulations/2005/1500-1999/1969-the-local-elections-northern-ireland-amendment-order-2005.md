@@ -51,7 +51,7 @@ And whereas a draft of this Order has been approved by resolution of each House 
 
 Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1) of the Northern Ireland Act 1998[^f00002], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows: —
 
-## 1. Citation, commencement and interpretation[^key-31bc2776e6b0bd73c8267637e3116198]
+## 1. Citation, commencement and interpretation[^c-31bc2776e6b0bd73c8267637e3116198]
 
 (1) This Order may be cited as the Local Elections (Northern Ireland) (Amendment) Order 2005 and shall come into force on 5th December 2005.
 
@@ -60,21 +60,21 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 - “the 1985 Order” means the Local Elections (Northern Ireland) Order 1985[^f00003]; and
 - “the 1962 Act” means the Electoral Law Act (Northern Ireland) 1962[^f00004].
 
-## 2. Amendment to the 1962 Act[^key-1f80f3c68b676658828799c1d878b62f]
+## 2. Amendment to the 1962 Act[^c-1f80f3c68b676658828799c1d878b62f]
 
 The local elections rules in Schedule 5 to the 1962 Act[^f00005] shall be amended as follows—
 
 - (a) in rule 32(2) (questions to be put to voters) after “wife,” (twice) insert “civil partner,”; and
 - (b) in rule 36(3)(b) (voting by persons with disabilities) after “wife,” insert “civil partner,”;[^f00006].
 
-**3.**[^key-dd9cadbb3083fbcbf74378a753be4318] In paragraph 12A(4) of Schedule 9 to the 1962 Act, after “wife,” insert “civil partner,”[^f00007].
+**3.**[^c-dd9cadbb3083fbcbf74378a753be4318] In paragraph 12A(4) of Schedule 9 to the 1962 Act, after “wife,” insert “civil partner,”[^f00007].
 
-## 4. Amendment to the 1985 Order[^key-690b17101e32a69c01bf36886745b5e4]
+## 4. Amendment to the 1985 Order[^c-690b17101e32a69c01bf36886745b5e4]
 
 (1) Part I of Schedule 2 to the 1985 Order shall be amended as follows[^f00008]—
 
 - (a) in paragraph l(2)(c) after “spouse,” insert “civil partner”;
-- (b)[^key-0226a500fac715ddd44bcfb4c3f87e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0226a500fac715ddd44bcfb4c3f87e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 7(1)(a) after “spouse” insert “or civil partner”;
 - (d) in paragraph 7(2) after “wife,” insert “civil partner”;
 - (e) in paragraph 7(3)(b) after “spouse” insert “or civil partner”;
@@ -101,24 +101,24 @@ Article 4(l)(d)and (f) amends the definition of "relative" to include civil part
 
 [^f00002]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-31bc2776e6b0bd73c8267637e3116198]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/1969/article/1) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
+[^c-31bc2776e6b0bd73c8267637e3116198]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/1969/article/1) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
 
 [^f00003]: Footnote: S.I. [1985/454](https://www.legislation.gov.uk/uksi/1985/454).
 
 [^f00004]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
-[^key-1f80f3c68b676658828799c1d878b62f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2005/1969/article/2) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
+[^c-1f80f3c68b676658828799c1d878b62f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2005/1969/article/2) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
 
 [^f00005]: Footnote: Schedule 5 was substituted by article 4 of, and Schedule 1 to, the 1985 Order.
 
 [^f00006]: Footnote: Rule 36 was substituted by article 18 of the Local Elections (Northern Ireland) (Amendment) Order 2001 (S.I. [2001/417](https://www.legislation.gov.uk/uksi/2001/417)).
 
-[^key-dd9cadbb3083fbcbf74378a753be4318]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2005/1969/article/3) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
+[^c-dd9cadbb3083fbcbf74378a753be4318]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2005/1969/article/3) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
 
 [^f00007]: Footnote: Paragraph 12A was inserted by, article 4 of, and paragraph 50 of Schedule 1 to, the Local Elections (Northern Ireland) (Amendment) Order 1987 (S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168)).
 
-[^key-690b17101e32a69c01bf36886745b5e4]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2005/1969/article/4) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
+[^c-690b17101e32a69c01bf36886745b5e4]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2005/1969/article/4) in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1969/article/1/1)
 
 [^f00008]: Footnote: Part 1 of Schedule 2 to the 1985 Order was substituted by article 5(5) of, and Schedule 2 to, the Local Elections (Northern Ireland) (Amendment) Order 1987.
 
-[^key-0226a500fac715ddd44bcfb4c3f87e9b]: Textual amendment: [Art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2005/1969/article/4/1/b) revoked (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/c); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(ix)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/ix)
+[^c-0226a500fac715ddd44bcfb4c3f87e9b]: Textual amendment: [Art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2005/1969/article/4/1/b) revoked (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/c); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(ix)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/ix)

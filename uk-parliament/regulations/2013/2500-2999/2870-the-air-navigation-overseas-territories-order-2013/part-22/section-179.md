@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Smoking in aircraft[^key-663245ad85b868f18e3a3f355d0441f4]
+## 179. Smoking in aircraft[^c-663245ad85b868f18e3a3f355d0441f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not smoke in any compartment of an aircraft registered in the Terr
 
 ## Annotations
 
-[^key-663245ad85b868f18e3a3f355d0441f4]: Commencement: [Art. 179](https://www.legislation.gov.uk/uksi/2013/2870/article/179) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-663245ad85b868f18e3a3f355d0441f4]: Commencement: [Art. 179](https://www.legislation.gov.uk/uksi/2013/2870/article/179) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

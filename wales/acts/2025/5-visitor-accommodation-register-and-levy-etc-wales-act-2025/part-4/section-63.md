@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Review of operation and effect of Act[^key-8ccde59061d8be90373b38af2d506ad1]
+## 63. Review of operation and effect of Act[^c-8ccde59061d8be90373b38af2d506ad1]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ccde59061d8be90373b38af2d506ad1]: Commencement: S. 63 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-8ccde59061d8be90373b38af2d506ad1]: Commencement: S. 63 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

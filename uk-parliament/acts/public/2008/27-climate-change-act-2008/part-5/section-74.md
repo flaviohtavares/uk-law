@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Waste reduction provisions: interim report[^key-9b09bcea6246b48c8a66b7439e6f41a5]
+## 74. Waste reduction provisions: interim report[^c-9b09bcea6246b48c8a66b7439e6f41a5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b09bcea6246b48c8a66b7439e6f41a5]: Textual amendment: Ss. 72-75 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 47(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/47/b), [240(1)(e)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/e), [Sch. 25 Pts. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/8)
+[^c-9b09bcea6246b48c8a66b7439e6f41a5]: Textual amendment: Ss. 72-75 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 47(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/47/b), [240(1)(e)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/e), [Sch. 25 Pts. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/8)

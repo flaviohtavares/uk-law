@@ -41,7 +41,7 @@ and for this purpose “**the enrichment of uranium**” means any treatment of 
   - (ii) in such cases or circumstances,
 
   as may be prescribed;
-- (b) the authorisation by the Secretary of State or the Office for Nuclear Regulation[^key-079e424b9dff8aa965d2f7d0ae0c1c55] of disclosures that would otherwise be prohibited; and
+- (b) the authorisation by the Secretary of State or the Office for Nuclear Regulation[^c-079e424b9dff8aa965d2f7d0ae0c1c55] of disclosures that would otherwise be prohibited; and
 - (c) defences to an offence under subsection (3) relating to any prohibition.
 
 (5) The regulations may—
@@ -54,7 +54,7 @@ and for this purpose “**the enrichment of uranium**” means any treatment of 
 
 (7) The regulations shall not be made unless a draft of the regulations has been laid before and approved by each House of Parliament.
 
-(7A)[^key-bd272e8a3150c4f89b44f5e3ba8ba27d] The Secretary of State must consult the Office for Nuclear Regulation before laying a draft of the regulations, unless they give effect, without modification, to any proposals for them submitted by the Office for Nuclear Regulation under section 81(1)(a)(v) of the Energy Act 2013.
+(7A)[^c-bd272e8a3150c4f89b44f5e3ba8ba27d] The Secretary of State must consult the Office for Nuclear Regulation before laying a draft of the regulations, unless they give effect, without modification, to any proposals for them submitted by the Office for Nuclear Regulation under section 81(1)(a)(v) of the Energy Act 2013.
 
 (8) In this section—
 
@@ -64,6 +64,6 @@ and for this purpose “**the enrichment of uranium**” means any treatment of 
 
 ## Annotations
 
-[^key-079e424b9dff8aa965d2f7d0ae0c1c55]: Textual amendment: Words in [s. 80(4)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/80/4/b) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 33(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/33/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-079e424b9dff8aa965d2f7d0ae0c1c55]: Textual amendment: Words in [s. 80(4)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/80/4/b) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 33(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/33/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-bd272e8a3150c4f89b44f5e3ba8ba27d]: Textual amendment: [S. 80(7A)](https://www.legislation.gov.uk/ukpga/2001/24/section/80/7A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 33(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/33/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-bd272e8a3150c4f89b44f5e3ba8ba27d]: Textual amendment: [S. 80(7A)](https://www.legislation.gov.uk/ukpga/2001/24/section/80/7A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 33(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/33/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

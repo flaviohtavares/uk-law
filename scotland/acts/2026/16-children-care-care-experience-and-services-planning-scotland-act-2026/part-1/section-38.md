@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Guidance on use of restraint and seclusion in relevant care services[^key-0863c238b9ef7baa3d5439ff8f5acc68]
+## 38. Guidance on use of restraint and seclusion in relevant care services[^c-0863c238b9ef7baa3d5439ff8f5acc68]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0863c238b9ef7baa3d5439ff8f5acc68]: Commencement: S. 38 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-0863c238b9ef7baa3d5439ff8f5acc68]: Commencement: S. 38 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

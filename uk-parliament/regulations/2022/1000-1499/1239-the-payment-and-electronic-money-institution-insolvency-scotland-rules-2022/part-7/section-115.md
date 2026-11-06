@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. New administrator appointed[^key-c541339912e2b4164858518c8c49d8ef]
+## 115. New administrator appointed[^c-c541339912e2b4164858518c8c49d8ef]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c541339912e2b4164858518c8c49d8ef]: Commencement: Rule 115 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c541339912e2b4164858518c8c49d8ef]: Commencement: Rule 115 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

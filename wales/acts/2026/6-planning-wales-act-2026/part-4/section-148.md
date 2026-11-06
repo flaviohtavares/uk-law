@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Withdrawal of stop notice[^key-243aa90de1b1ce0909889d35cffeea21]
+## 148. Withdrawal of stop notice[^c-243aa90de1b1ce0909889d35cffeea21]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-243aa90de1b1ce0909889d35cffeea21]: Commencement: S. 148 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-243aa90de1b1ce0909889d35cffeea21]: Commencement: S. 148 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

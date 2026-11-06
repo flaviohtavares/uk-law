@@ -27,7 +27,7 @@ summary: ''
 
 (2) The “1993 Act condition” is that—
 
-- (a) Chapter 2 of Part 4ZA[^key-cf45a17489af668d732f0855b5907284] of the 1993 Act applies to M; and
+- (a) Chapter 2 of Part 4ZA[^c-cf45a17489af668d732f0855b5907284] of the 1993 Act applies to M; and
 - (b) the repayment is made in accordance with that Chapter.
 
 (3) The short service condition applies if—
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf45a17489af668d732f0855b5907284]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/39/2/a) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2017/28/regulation/8)
+[^c-cf45a17489af668d732f0855b5907284]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/39/2/a) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2017/28/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.4. Methods of intimation: recorded delivery[^key-df899198f83dc470e1305edf891dadc3]
+## 5.4. Methods of intimation: recorded delivery[^c-df899198f83dc470e1305edf891dadc3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An intimating party may give intimation by recorded delivery to the receiving pa
 
 ## Annotations
 
-[^key-df899198f83dc470e1305edf891dadc3]: Commencement: Para. 5.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-df899198f83dc470e1305edf891dadc3]: Commencement: Para. 5.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

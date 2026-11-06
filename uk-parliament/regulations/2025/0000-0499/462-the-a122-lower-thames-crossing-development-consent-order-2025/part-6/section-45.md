@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Road user charging[^key-5536b402c065a1d3d340dbd469522079]
+## 45. Road user charging[^c-5536b402c065a1d3d340dbd469522079]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5536b402c065a1d3d340dbd469522079]: Commencement: Art. 45 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-5536b402c065a1d3d340dbd469522079]: Commencement: Art. 45 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

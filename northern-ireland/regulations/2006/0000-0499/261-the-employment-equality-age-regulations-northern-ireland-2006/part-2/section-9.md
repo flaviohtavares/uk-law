@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Exception for genuine occupational requirement etc.[^key-c0b384b097ea130ff073f45f9f2d7199]
+## 9. Exception for genuine occupational requirement etc.[^c-c0b384b097ea130ff073f45f9f2d7199]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ where paragraph (2) applies.
 
 ## Annotations
 
-[^key-c0b384b097ea130ff073f45f9f2d7199]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/261/regulation/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-c0b384b097ea130ff073f45f9f2d7199]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/261/regulation/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

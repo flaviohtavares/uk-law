@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Inspection: overview and application[^key-26fe549f3db50617a1720465c346c974]
+## 43. Inspection: overview and application[^c-26fe549f3db50617a1720465c346c974]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After Part 3 of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-26fe549f3db50617a1720465c346c974]: Commencement: [S. 43](https://www.legislation.gov.uk/mwa/2011/5/section/43) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)
+[^c-26fe549f3db50617a1720465c346c974]: Commencement: [S. 43](https://www.legislation.gov.uk/mwa/2011/5/section/43) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Further provision about Scottish non-domestic energy efficiency regulations[^key-b6952a7fcf5bb267cf62d34a9d9c42b0]
+## 62. Further provision about Scottish non-domestic energy efficiency regulations[^c-b6952a7fcf5bb267cf62d34a9d9c42b0]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6952a7fcf5bb267cf62d34a9d9c42b0]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/16/section/62) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-b6952a7fcf5bb267cf62d34a9d9c42b0]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/16/section/62) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

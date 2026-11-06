@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Provisions as to notices[^key-37c5e3e2415acb51813c951a90e8b746]
+## 42. Provisions as to notices[^c-37c5e3e2415acb51813c951a90e8b746]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37c5e3e2415acb51813c951a90e8b746]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1988/1478/regulation/42) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-37c5e3e2415acb51813c951a90e8b746]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1988/1478/regulation/42) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
 
 [^f00007]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Powers of administrator in respect of monitoring compliance[^key-155e0ed1fd33d3f96769efc950c323ed]
+## 85. Powers of administrator in respect of monitoring compliance[^c-155e0ed1fd33d3f96769efc950c323ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-155e0ed1fd33d3f96769efc950c323ed]: Commencement: Art. 85 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-155e0ed1fd33d3f96769efc950c323ed]: Commencement: Art. 85 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

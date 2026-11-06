@@ -36,55 +36,55 @@ An Act to make provision for imposing financial restrictions on, and in relation
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## Part 1 — Terrorist Asset-Freezing[^key-ce3f1b6fdcfefdfe0cf585b0db8536bf][^key-76b467757a616e39b7c679274ddac967][^key-13803316c38caa3220e7cb3ddb921eb1][^key-7e4f83f11af283b9bffa1e0195ebccfb][^key-3bf4aa7336ffa240594c4d067177828e][^key-407e48bdec5eca73a28ec2905f8408c5]
+## Part 1 — Terrorist Asset-Freezing[^c-ce3f1b6fdcfefdfe0cf585b0db8536bf][^c-76b467757a616e39b7c679274ddac967][^c-13803316c38caa3220e7cb3ddb921eb1][^c-7e4f83f11af283b9bffa1e0195ebccfb][^c-3bf4aa7336ffa240594c4d067177828e][^c-407e48bdec5eca73a28ec2905f8408c5]
 
 ### CHAPTER 1 — Designated persons
 
 #### Introductory
 
-##### 1. Meaning of “designated person”[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 1. Meaning of “designated person”[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Final designations
 
-##### 2. Treasury's power to make final designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 2. Treasury's power to make final designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Notification of final designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 3. Notification of final designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Duration of final designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 4. Duration of final designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 5. Variation or revocation of final designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 5. Variation or revocation of final designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interim designations
 
-##### 6. Treasury's power to make interim designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 6. Treasury's power to make interim designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 7. Notification of interim designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 7. Notification of interim designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Duration of interim designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 8. Duration of interim designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 9. Variation or revocation of interim designation[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 9. Variation or revocation of interim designation[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Confidential information
 
-##### 10. Confidential information[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 10. Confidential information[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,39 +92,39 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Prohibitions
 
-##### 11. Freezing of funds and economic resources[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 11. Freezing of funds and economic resources[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 12. Making funds or financial services available to designated person[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 12. Making funds or financial services available to designated person[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 13. Making funds or financial services available for benefit of designated person[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 13. Making funds or financial services available for benefit of designated person[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 14. Making economic resources available to designated person[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 14. Making economic resources available to designated person[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 15. Making economic resources available for benefit of designated person[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 15. Making economic resources available for benefit of designated person[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exceptions and licences
 
-##### 16. Exceptions[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 16. Exceptions[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 17. Licences[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 17. Licences[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Circumventing prohibitions etc.
 
-##### 18. Circumventing prohibitions etc.[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 18. Circumventing prohibitions etc.[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -132,35 +132,35 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Information for Treasury
 
-##### 19. Reporting obligations of relevant institutions[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 19. Reporting obligations of relevant institutions[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Powers to request information[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 20. Powers to request information[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 21. Production of documents[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 21. Production of documents[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 22. Failure to comply with request for information[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 22. Failure to comply with request for information[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Disclosure of information by Treasury
 
-##### 23. General power to disclose information[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 23. General power to disclose information[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Other
 
-##### 24. Co-operation with UK or international investigations[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 24. Co-operation with UK or international investigations[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 25. Application of provisions[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 25. Application of provisions[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -168,99 +168,99 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Supervision of exercise of powers
 
-##### 26. Appeal to the court in relation to designations[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 26. Appeal to the court in relation to designations[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 27. Review of other decisions by the court[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 27. Review of other decisions by the court[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 28. Appeals and reviews: supplementary[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 28. Appeals and reviews: supplementary[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 29. Initial exercise of powers to make rules of court[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 29. Initial exercise of powers to make rules of court[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 30. Treasury report on operation of Part 1[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 30. Treasury report on operation of Part 1[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31. Independent review of operation of Part 1[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 31. Independent review of operation of Part 1[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Offences
 
-##### 32. Penalties[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 32. Penalties[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 33. Extra-territorial application of offences[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 33. Extra-territorial application of offences[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 34. Liability of officers of body corporate etc.[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 34. Liability of officers of body corporate etc.[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35. Jurisdiction to try offences[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 35. Jurisdiction to try offences[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 36. Time limit for proceedings for summary offences[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 36. Time limit for proceedings for summary offences[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 37. Consent to prosecution[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 37. Consent to prosecution[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 38. Procedure for offences by unincorporated bodies[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 38. Procedure for offences by unincorporated bodies[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interpretation
 
-##### 39. Meaning of “funds” and “economic resources”[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 39. Meaning of “funds” and “economic resources”[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 40. Meaning of “financial services”[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 40. Meaning of “financial services”[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 41. Meaning of “relevant institution”[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 41. Meaning of “relevant institution”[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 42. Interpretation: general[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 42. Interpretation: general[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Miscellaneous
 
-##### 43. Service of notices[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 43. Service of notices[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 44. Crown application[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 44. Crown application[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 45. Consequential amendments, repeals and revocations
 
-(1) Part 1 of Schedule 1 (which contains amendments consequential on this Part) has effect. *(affected by repeal, see note)*[^key-407e48bdec5eca73a28ec2905f8408c5]
+(1) Part 1 of Schedule 1 (which contains amendments consequential on this Part) has effect. *(affected by repeal, see note)*[^c-407e48bdec5eca73a28ec2905f8408c5]
 
-(2)[^key-407e48bdec5eca73a28ec2905f8408c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-407e48bdec5eca73a28ec2905f8408c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 46. Transitional provisions and savings[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 46. Transitional provisions and savings[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 47. Power to repeal Part[^key-407e48bdec5eca73a28ec2905f8408c5]
+##### 47. Power to repeal Part[^c-407e48bdec5eca73a28ec2905f8408c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -334,7 +334,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Minor amendments and repeals
 
-#### 51. Northern Ireland credit unions[^key-79b97dc8dc5909b86920732f303a5083]
+#### 51. Northern Ireland credit unions[^c-79b97dc8dc5909b86920732f303a5083]
 
 (1) In paragraph 18(1) of Schedule 7 to the Counter-Terrorism Act 2008 (Department of Enterprise, Trade and Investment in Northern Ireland to be the enforcement authority for credit unions in Northern Ireland)—
 
@@ -343,7 +343,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) In paragraph 39(2) of that Schedule (Department of Enterprise, Trade and Investment in Northern Ireland to be the supervisory authority for credit unions in Northern Ireland), omit paragraph (d).
 
-#### 52. Consequential amendments and repeals[^key-a2976b0ce257f3f878dd749e58f37ac7]
+#### 52. Consequential amendments and repeals[^c-a2976b0ce257f3f878dd749e58f37ac7]
 
 (1) Part 2 of Schedule 1 (which contains amendments consequential on this Part) has effect.
 
@@ -454,15 +454,15 @@ Sections 45(1) and 52(1)
 
 #### Money Laundering Regulations 2007 (S.I. 2007/2157)
 
-**6.**[^key-e3f8a7503ecf4fceb94e9f9b7e2162a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e3f8a7503ecf4fceb94e9f9b7e2162a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Transfer of Funds (Information on the Payer) Regulations 2007 (S.I. 2007/3298)
 
-**7.**[^key-e3f8a7503ecf4fceb94e9f9b7e2162a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e3f8a7503ecf4fceb94e9f9b7e2162a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Payment Services Regulations 2009 (S.I. 2009/209)
 
-**8.**[^key-e3f8a7503ecf4fceb94e9f9b7e2162a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e3f8a7503ecf4fceb94e9f9b7e2162a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Terrorist financing, money laundering etc.
 
@@ -488,7 +488,7 @@ Sections 45(1) and 52(1)
 
 #### Amendments relating to section 51: Northern Ireland credit unions
 
-**11.**[^key-9df7a419a9673285df82b37e1bca8819] (1) In paragraph 18(2) of Schedule 7 to the Counter-Terrorism Act 2008 (definition of “enforcement officer”) omit paragraph (d) (but not the word “or” at the end of the paragraph).
+**11.**[^c-9df7a419a9673285df82b37e1bca8819] (1) In paragraph 18(2) of Schedule 7 to the Counter-Terrorism Act 2008 (definition of “enforcement officer”) omit paragraph (d) (but not the word “or” at the end of the paragraph).
 
 (2) In paragraph 18(3)(b) of that Schedule (definition of “local enforcement officer” in Northern Ireland) for “DETINI” substitute “ the Department of Enterprise, Trade and Investment in Northern Ireland (“DETINI”) ”.
 
@@ -509,9 +509,9 @@ Sections 45(2) and 52(2)
 
 |  |  |
 | --- | --- |
-| [^key-27ec6b67f95799c8b5c8b61c6657463e]. . . | [^key-27ec6b67f95799c8b5c8b61c6657463e]. . . |
+| [^c-27ec6b67f95799c8b5c8b61c6657463e]. . . | [^c-27ec6b67f95799c8b5c8b61c6657463e]. . . |
 
-### Part 2 — Terrorist financing, money laundering etc.[^key-ddc36e6482868014a4bf75d4bbe79287][^c2109181]
+### Part 2 — Terrorist financing, money laundering etc.[^c-ddc36e6482868014a4bf75d4bbe79287][^c2109181]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -519,28 +519,28 @@ Sections 45(2) and 52(2)
 
 ## Annotations
 
-[^key-ce3f1b6fdcfefdfe0cf585b0db8536bf]: Textual amendment: Pt. 1 amendment to earlier affecting provision SI 2011/750, arts. 2, 3, Schs. 1-3 (8.3.2017) by [The Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) (Amendment) Order 2017 (S.I. 2017/157)](https://www.legislation.gov.uk/uksi/2017/157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/157/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2017/157/article/3)
+[^c-ce3f1b6fdcfefdfe0cf585b0db8536bf]: Textual amendment: Pt. 1 amendment to earlier affecting provision SI 2011/750, arts. 2, 3, Schs. 1-3 (8.3.2017) by [The Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) (Amendment) Order 2017 (S.I. 2017/157)](https://www.legislation.gov.uk/uksi/2017/157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/157/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2017/157/article/3)
 
-[^key-76b467757a616e39b7c679274ddac967]: Modification: Pt. 1 extended (Isle of Man) (with modifications) (17.3.2011) by [The Terrorist Asset-Freezing etc. Act 2010 (Isle of Man) Order 2011 (S.I. 2011/749)](https://www.legislation.gov.uk/uksi/2011/749), [arts. 1](https://www.legislation.gov.uk/uksi/2011/749/article/1), [2](https://www.legislation.gov.uk/uksi/2011/749/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2011/749/schedule)
+[^c-76b467757a616e39b7c679274ddac967]: Modification: Pt. 1 extended (Isle of Man) (with modifications) (17.3.2011) by [The Terrorist Asset-Freezing etc. Act 2010 (Isle of Man) Order 2011 (S.I. 2011/749)](https://www.legislation.gov.uk/uksi/2011/749), [arts. 1](https://www.legislation.gov.uk/uksi/2011/749/article/1), [2](https://www.legislation.gov.uk/uksi/2011/749/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2011/749/schedule)
 
-[^key-13803316c38caa3220e7cb3ddb921eb1]: Modification: Pt. 1 extended (with modifications) (31.3.2011) by [The Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) Order 2011 (S.I. 2011/750)](https://www.legislation.gov.uk/uksi/2011/750), [arts. 1](https://www.legislation.gov.uk/uksi/2011/750/article/00/1), [2](https://www.legislation.gov.uk/uksi/2011/750/article/2), [3](https://www.legislation.gov.uk/uksi/2011/750/article/3), [Schs. 1-3 (as amended by S.I. 2013/534, reg. 1, Sch. para. 12(4))](https://www.legislation.gov.uk/uksi/2011/750/schedule/1)
+[^c-13803316c38caa3220e7cb3ddb921eb1]: Modification: Pt. 1 extended (with modifications) (31.3.2011) by [The Terrorist Asset-Freezing etc. Act 2010 (Overseas Territories) Order 2011 (S.I. 2011/750)](https://www.legislation.gov.uk/uksi/2011/750), [arts. 1](https://www.legislation.gov.uk/uksi/2011/750/article/00/1), [2](https://www.legislation.gov.uk/uksi/2011/750/article/2), [3](https://www.legislation.gov.uk/uksi/2011/750/article/3), [Schs. 1-3 (as amended by S.I. 2013/534, reg. 1, Sch. para. 12(4))](https://www.legislation.gov.uk/uksi/2011/750/schedule/1)
 
-[^key-7e4f83f11af283b9bffa1e0195ebccfb]: Modification: Pt. 1 extended (Guernsey) (with modifications) (8.4.2011, with effect in accordance with art. 4 of the commencing S.I.) by [The Terrorist Asset-Freezing etc. Act 2010 (Guernsey) Order 2011 (S.I. 2011/1082)](https://www.legislation.gov.uk/uksi/2011/1082), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1082/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/1082/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1082/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2011/1082/schedule)
+[^c-7e4f83f11af283b9bffa1e0195ebccfb]: Modification: Pt. 1 extended (Guernsey) (with modifications) (8.4.2011, with effect in accordance with art. 4 of the commencing S.I.) by [The Terrorist Asset-Freezing etc. Act 2010 (Guernsey) Order 2011 (S.I. 2011/1082)](https://www.legislation.gov.uk/uksi/2011/1082), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1082/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/1082/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1082/article/4), [Schs.](https://www.legislation.gov.uk/uksi/2011/1082/schedule)
 
-[^key-3bf4aa7336ffa240594c4d067177828e]: Modification: Pt. 1 amendment to earlier affecting provision SI 2011/750 art. 2 3 Sch. 1-3 (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 12(4)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/12/4)
+[^c-3bf4aa7336ffa240594c4d067177828e]: Modification: Pt. 1 amendment to earlier affecting provision SI 2011/750 art. 2 3 Sch. 1-3 (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 12(4)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/12/4)
 
-[^key-407e48bdec5eca73a28ec2905f8408c5]: Textual amendment: Pt. 1 repealed (except s. 45(1) for specified purposes and Sch. 1 paras. 1-5) (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/1), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58), [59(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/3)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/b)
+[^c-407e48bdec5eca73a28ec2905f8408c5]: Textual amendment: Pt. 1 repealed (except s. 45(1) for specified purposes and Sch. 1 paras. 1-5) (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/1), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58), [59(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/3)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/b)
 
-[^key-79b97dc8dc5909b86920732f303a5083]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2010/38/section/51) in force at 31.3.2012 by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/a)
+[^c-79b97dc8dc5909b86920732f303a5083]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2010/38/section/51) in force at 31.3.2012 by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/a)
 
-[^key-a2976b0ce257f3f878dd749e58f37ac7]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2010/38/section/52) in force at 31.3.2012 in so far as not already in force by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/b)
+[^c-a2976b0ce257f3f878dd749e58f37ac7]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2010/38/section/52) in force at 31.3.2012 in so far as not already in force by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/b)
 
-[^key-e3f8a7503ecf4fceb94e9f9b7e2162a0]: Textual amendment: [Sch. 1 paras. 6-8](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/6) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/1), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58), [59(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/3)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/b)
+[^c-e3f8a7503ecf4fceb94e9f9b7e2162a0]: Textual amendment: [Sch. 1 paras. 6-8](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/6) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/1), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58), [59(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/3)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/b)
 
-[^key-9df7a419a9673285df82b37e1bca8819]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11) in force at 31.3.2012 by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c)
+[^c-9df7a419a9673285df82b37e1bca8819]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11) in force at 31.3.2012 by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c)
 
-[^key-27ec6b67f95799c8b5c8b61c6657463e]: Textual amendment: Sch. 2 Pt. 1 repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/1), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58), [59(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/3)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/b)
+[^c-27ec6b67f95799c8b5c8b61c6657463e]: Textual amendment: Sch. 2 Pt. 1 repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/1), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58), [59(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/59/3)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/b)
 
-[^key-ddc36e6482868014a4bf75d4bbe79287]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2) in force at 31.3.2012 by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/d)
+[^c-ddc36e6482868014a4bf75d4bbe79287]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2) in force at 31.3.2012 by [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/d)
 
 [^c2109181]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2) partly in force; [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2) in force for specified purposes at 17.12.2010, see [s. 55(1)(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Registration by a participating issuer of transfers of securities upon conversion into certificated form[^key-70fcd2dd7d89aed1cbf295477cdb398b]
+## 28. Registration by a participating issuer of transfers of securities upon conversion into certificated form[^c-70fcd2dd7d89aed1cbf295477cdb398b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,14 +48,14 @@ summary: ''
 
 (7) A unit of a security is a relevant unit for the purposes of this regulation if, immediately before the transfer in question, it was held by the transferor in uncertificated form.
 
-(8)[^key-d90143ae370f82f681113ef229b6fb81] If a participating issuer refuses to register under paragraph (2) a transfer of securities in any of the circumstances specified in paragraphs (3) and (4), the participating issuer shall, within 2 months of the date on which the Operator-instruction was received by the participating issuer, send to the transferee notice of the refusal.
+(8)[^c-d90143ae370f82f681113ef229b6fb81] If a participating issuer refuses to register under paragraph (2) a transfer of securities in any of the circumstances specified in paragraphs (3) and (4), the participating issuer shall, within 2 months of the date on which the Operator-instruction was received by the participating issuer, send to the transferee notice of the refusal.
 
-(9) Such sanctions as apply to a company and its officers in the event of a default in complying with subsections (1) and (2) of section 771 of the[^key-b95ff3a9577fa6271f9fee93952f5897] 2006 Act shall apply to a participating issuer and his officers in the event of a default in complying with that subsection as applied by paragraph (8).
+(9) Such sanctions as apply to a company and its officers in the event of a default in complying with subsections (1) and (2) of section 771 of the[^c-b95ff3a9577fa6271f9fee93952f5897] 2006 Act shall apply to a participating issuer and his officers in the event of a default in complying with that subsection as applied by paragraph (8).
 
 ## Annotations
 
-[^key-70fcd2dd7d89aed1cbf295477cdb398b]: Commencement: Reg. 28 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-70fcd2dd7d89aed1cbf295477cdb398b]: Commencement: Reg. 28 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-d90143ae370f82f681113ef229b6fb81]: Textual amendment: [Reg. 28(8)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/28/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/13/a)
+[^c-d90143ae370f82f681113ef229b6fb81]: Textual amendment: [Reg. 28(8)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/28/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/13/a)
 
-[^key-b95ff3a9577fa6271f9fee93952f5897]: Textual amendment: Words in [reg. 28(9)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/28/9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/13/b)
+[^c-b95ff3a9577fa6271f9fee93952f5897]: Textual amendment: Words in [reg. 28(9)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/28/9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/13/b)

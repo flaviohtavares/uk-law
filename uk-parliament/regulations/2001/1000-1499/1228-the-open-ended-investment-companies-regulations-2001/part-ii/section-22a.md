@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. The Authority’s approval for conversion of a feeder UCITS[^key-dc9cbb403e81992ff084af9ada6ab795]
+## 22A. The Authority’s approval for conversion of a feeder UCITS[^c-dc9cbb403e81992ff084af9ada6ab795]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any notice given in respect of such a proposal must be accompanied by—
 
-- (a) a certificate signed by a solicitor to the effect that the amendment will not affect the compliance of the instrument of incorporation with Schedule 2 to these Regulations and with such of the requirements of FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules as relate to the contents of that instrument; and
+- (a) a certificate signed by a solicitor to the effect that the amendment will not affect the compliance of the instrument of incorporation with Schedule 2 to these Regulations and with such of the requirements of FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules as relate to the contents of that instrument; and
 - (b) the specified information.
 
 (3) Paragraph (4) applies where—
@@ -50,15 +50,15 @@ summary: ''
 
 (9) In this regulation, “specified” means specified in—
 
-- (a)[^key-f94756295341e66300a918724109598c] rule 11.6.3R(2) of the Collective Investment Schemes sourcebook, or
+- (a)[^c-f94756295341e66300a918724109598c] rule 11.6.3R(2) of the Collective Investment Schemes sourcebook, or
 - (b) UCITS-related direct EU legislation as defined in section 237(3) [^M_F_20745da2-6e84-4e18-9819-4e1283fb736b] of the Act.
 
 ## Annotations
 
-[^key-dc9cbb403e81992ff084af9ada6ab795]: Textual amendment: Reg. 22A inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/4)
+[^c-dc9cbb403e81992ff084af9ada6ab795]: Textual amendment: Reg. 22A inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/4)
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
 
-[^key-f94756295341e66300a918724109598c]: Textual amendment: [Reg. 22A(9)(a)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/22A/9/a)[(b)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/22A/9/b) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [52(7)](https://www.legislation.gov.uk/uksi/2019/325/regulation/52/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f94756295341e66300a918724109598c]: Textual amendment: [Reg. 22A(9)(a)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/22A/9/a)[(b)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/22A/9/b) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [52(7)](https://www.legislation.gov.uk/uksi/2019/325/regulation/52/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_20745da2-6e84-4e18-9819-4e1283fb736b]: Textual amendment: The definition of “UCITS-related direct EU legislation” is inserted into section 237(3) of the Financial Services and Markets Act 2000 by regulation 7(3)(d) of these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.59. Postponed determinations[^key-0e0196a4e0b40b736ae8a8bda092cb64]
+## 33.59. Postponed determinations[^c-0e0196a4e0b40b736ae8a8bda092cb64]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ the application must be in writing and the applicant must serve a copy on the pr
 
 ## Annotations
 
-[^key-0e0196a4e0b40b736ae8a8bda092cb64]: Commencement: [Rule 33.59](https://www.legislation.gov.uk/uksi/2025/909/rule/33.59) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0e0196a4e0b40b736ae8a8bda092cb64]: Commencement: [Rule 33.59](https://www.legislation.gov.uk/uksi/2025/909/rule/33.59) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00851]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 72A was inserted by section 28 of the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) and repealed, with savings, by sections 456 and 457 of, and paragraphs 1 and 17 of Schedule 11 and Schedule 12 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 

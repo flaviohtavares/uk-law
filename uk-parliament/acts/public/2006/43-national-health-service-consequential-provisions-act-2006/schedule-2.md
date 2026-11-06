@@ -168,12 +168,12 @@ cease to be so exercisable.
 
 #### Provision made by virtue of the Local Health Boards (Functions) (Wales) Regulations 2003 (S.I. 2003/150 (W.20))
 
-**16.** Nothing in any provision made in the consolidating Acts by virtue of the Local Health Boards (Directed Functions) (Wales) Regulations 2009[^key-72e9060079d491fb6d195222eb78a945] (“**the Functions Regulations**”) affects—
+**16.** Nothing in any provision made in the consolidating Acts by virtue of the Local Health Boards (Directed Functions) (Wales) Regulations 2009[^c-72e9060079d491fb6d195222eb78a945] (“**the Functions Regulations**”) affects—
 
 - (a) the power of the Welsh Ministers to exercise the functions exercisable under the Functions Regulations,
 - (b) the application to the Functions Regulations of section 31 of the National Health Service (Wales) Act 2006 (c. 42),
-- (c) the application to Local Health Boards of regulation 4[^key-abf5e77a2c372f70a3eee35b7057cc8f] of the Functions Regulations (exercise of functions to be subject to any prohibitions or restrictions in an LHB order),
-- (d)[^key-0bd60102388db69fdc7e3df5b06ea3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the application to Local Health Boards of regulation 4[^c-abf5e77a2c372f70a3eee35b7057cc8f] of the Functions Regulations (exercise of functions to be subject to any prohibitions or restrictions in an LHB order),
+- (d)[^c-0bd60102388db69fdc7e3df5b06ea3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) any power to amend, revoke or remake the Functions Regulations, or
 - (f) any power to make further regulations under section 12 of the National Health Service (Wales) Act 2006 (including regulations which amend or repeal provisions of the consolidating Acts made by virtue of the Functions Regulations).
 
@@ -197,8 +197,8 @@ cease to be so exercisable.
 
 ## Annotations
 
-[^key-72e9060079d491fb6d195222eb78a945]: Textual amendment: Words in Sch. 2 para. 16 substituted (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/7/a/i)
+[^c-72e9060079d491fb6d195222eb78a945]: Textual amendment: Words in Sch. 2 para. 16 substituted (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/7/a/i)
 
-[^key-abf5e77a2c372f70a3eee35b7057cc8f]: Textual amendment: Word in Sch. 2 para. 16(c) substituted (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/7/a/ii)
+[^c-abf5e77a2c372f70a3eee35b7057cc8f]: Textual amendment: Word in Sch. 2 para. 16(c) substituted (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/7/a/ii)
 
-[^key-0bd60102388db69fdc7e3df5b06ea3a3]: Textual amendment: Sch. 2 para. 16(d) deleted (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/7/a/iii)
+[^c-0bd60102388db69fdc7e3df5b06ea3a3]: Textual amendment: Sch. 2 para. 16(d) deleted (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/7/a/iii)

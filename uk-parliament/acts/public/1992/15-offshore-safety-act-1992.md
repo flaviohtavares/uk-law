@@ -146,7 +146,7 @@ and that Part shall have effect as if the provisions mentioned in subsection (3)
 
 (4) In this section “**licence**” means a licence granted under section 3 of the Petroleum Act 1998, whether before or after the commencement of this section.
 
-## 4. Increased penalties under Part I.[^key-ec5fc6bc008ee535e85a174c005a81fc]
+## 4. Increased penalties under Part I.[^c-ec5fc6bc008ee535e85a174c005a81fc]
 
 *Extent: E+W+S*
 
@@ -301,7 +301,7 @@ Section 7(2).
 
 [^c933032]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-ec5fc6bc008ee535e85a174c005a81fc]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1992/15/section/4) repealed (16.1.2009) by [Health and Safety (Offences) Act 2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/20/schedule/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/3))
+[^c-ec5fc6bc008ee535e85a174c005a81fc]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1992/15/section/4) repealed (16.1.2009) by [Health and Safety (Offences) Act 2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/20/schedule/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/3))
 
 [^c933036]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1992/15/section/5/7) substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [ss. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/33/4) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 

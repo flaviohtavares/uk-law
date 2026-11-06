@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Power to grant housing injunctions[^key-3da0232a355d92a5d322b05bbefc79d1]
+## 1A. Power to grant housing injunctions[^c-3da0232a355d92a5d322b05bbefc79d1]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3da0232a355d92a5d322b05bbefc79d1]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2014/12/section/1A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-3da0232a355d92a5d322b05bbefc79d1]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2014/12/section/1A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)

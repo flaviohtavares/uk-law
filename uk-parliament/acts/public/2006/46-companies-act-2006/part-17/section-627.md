@@ -33,12 +33,12 @@ This is in addition to the copies of the resolutions themselves that are require
 
 - (a) the total number of shares of the company,
 - (b) the aggregate nominal value of those shares,
-- (ba)[^key-e697314ce73b847d5edd79f7f82b60f3] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
+- (ba)[^c-e697314ce73b847d5edd79f7f82b60f3] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
 - (c) for each class of shares—
   - (i) prescribed particulars of the rights attached to the shares,
   - (ii) the total number of shares of that class, and
-  - (iii) the aggregate nominal value of shares of that class, [^key-ede54b6da89fa95e16dcfa369b4d7bb2]...
-- (d)[^key-ede54b6da89fa95e16dcfa369b4d7bb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the aggregate nominal value of shares of that class, [^c-ede54b6da89fa95e16dcfa369b4d7bb2]...
+- (d)[^c-ede54b6da89fa95e16dcfa369b4d7bb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The registrar must register the notice and the statement on receipt.
 
@@ -60,6 +60,6 @@ This is in addition to the copies of the resolutions themselves that are require
 
 [^c18941501]: Commencement: S. 627 wholly in force at 1.10.2009; s. 627 not in force at Royal Assent, see s. 1300; s. 627 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); s. 627 otherwise in force at 1.10.2009 by [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(k)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/k) (with [arts. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5), [7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (as amended by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18))
 
-[^key-e697314ce73b847d5edd79f7f82b60f3]: Textual amendment: [S. 627(3)(ba)](https://www.legislation.gov.uk/ukpga/2006/46/section/627/3/ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 9(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/9/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-e697314ce73b847d5edd79f7f82b60f3]: Textual amendment: [S. 627(3)(ba)](https://www.legislation.gov.uk/ukpga/2006/46/section/627/3/ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 9(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/9/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
 
-[^key-ede54b6da89fa95e16dcfa369b4d7bb2]: Textual amendment: [S. 627(3)(d)](https://www.legislation.gov.uk/ukpga/2006/46/section/627/3/d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 9(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/9/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-ede54b6da89fa95e16dcfa369b4d7bb2]: Textual amendment: [S. 627(3)(d)](https://www.legislation.gov.uk/ukpga/2006/46/section/627/3/d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 9(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/9/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)

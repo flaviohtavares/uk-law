@@ -48,7 +48,7 @@ In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-301621726655c8ab6c41c72cdfbc74d2]
+### 1. Citation and commencement[^c-301621726655c8ab6c41c72cdfbc74d2]
 
 (1) These Regulations may be cited as the Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019.
 
@@ -56,11 +56,11 @@ In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 2 — Amendments to the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019
 
-### 2.[^key-66a7f772c8d878a5dba20cf872d660a9]
+### 2.[^c-66a7f772c8d878a5dba20cf872d660a9]
 
 The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 [^c24469511] are amended in accordance with this Part.
 
-### 3.[^key-0a1dfe4b29dd63679cc0161947d285ca]
+### 3.[^c-0a1dfe4b29dd63679cc0161947d285ca]
 
 In regulation 2, for “Part 5 which comes into force 21 days after the day on which it is made” substitute—
 
@@ -69,7 +69,7 @@ In regulation 2, for “Part 5 which comes into force 21 days after the day on w
 
 .
 
-### 4.[^key-f5eddf2e074274fe276181fd5143a797]
+### 4.[^c-f5eddf2e074274fe276181fd5143a797]
 
 For regulation 4 substitute—
 
@@ -97,7 +97,7 @@ For regulation 4 substitute—
 
 .
 
-### 5.[^key-b2eb0e7e9d881cfa239999869853087c]
+### 5.[^c-b2eb0e7e9d881cfa239999869853087c]
 
 In regulation 16, after paragraph (b) insert—
 
@@ -110,18 +110,18 @@ In regulation 16, after paragraph (b) insert—
 
 .
 
-### 6.[^key-98a88bf876a3d62c738fe20fd12dea70]
+### 6.[^c-98a88bf876a3d62c738fe20fd12dea70]
 
 In regulation 28(b), for paragraph (b) of inserted sub-paragraph (1A) substitute—
 
-> - (b) the individual is an EEA auditor who[^key-f660bcfed2e714e3e7368e4cff969f91]—
->   - (i) on or before IP completion day[^key-7bd1e5c3781d364bf32ad0b781d6efff], holds a professional qualification which does not cover all those subjects,
+> - (b) the individual is an EEA auditor who[^c-f660bcfed2e714e3e7368e4cff969f91]—
+>   - (i) on or before IP completion day[^c-7bd1e5c3781d364bf32ad0b781d6efff], holds a professional qualification which does not cover all those subjects,
 >   - (ii) on or before IP completion day, has been approved by the body or is in the process of seeking approval from the body, and
 >   - (iii) has met whichever of the requirements of sub-paragraph (1B) is specified in the body's rules.
 
 .
 
-### 7.[^key-8564d5e4e2a07a01d6b45f497c380c72]
+### 7.[^c-8564d5e4e2a07a01d6b45f497c380c72]
 
 For regulation 50(b) substitute—
 
@@ -142,17 +142,17 @@ For regulation 50(b) substitute—
 
 .
 
-### 8.[^key-d5ed49e99ebda01ab70ab885a5579263]
+### 8.[^c-d5ed49e99ebda01ab70ab885a5579263]
 
 In regulation 100(b)(ii)(bb), in substituted point (a), for “ which ” substitute “other than those which,”.
 
 ## PART 3 — Amendments to the Accounts and Reports (Amendment) (EU Exit) Regulations 2019
 
-### 9.[^key-130c6173d175f1effc98d116278de13c]
+### 9.[^c-130c6173d175f1effc98d116278de13c]
 
 The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 [^c24469551] are amended in accordance with this Part.
 
-### 10.[^key-bdb13f67e0d4e9a8b2c0974548420052]
+### 10.[^c-bdb13f67e0d4e9a8b2c0974548420052]
 
 In Schedule 2 (amendments made under the European Union (Withdrawal) Act 2018: primary legislation)—
 
@@ -177,11 +177,11 @@ In Schedule 2 (amendments made under the European Union (Withdrawal) Act 2018: p
 
 ## PART 4 — Amendments to the International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019
 
-### 11.[^key-60f82f0f0d39acf3cae0dd51b9a9fec4]
+### 11.[^c-60f82f0f0d39acf3cae0dd51b9a9fec4]
 
 The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 [^c24469561] are amended in accordance with this Part.
 
-### 12.[^key-314a2cf752f5efb2b1a8d354acf230e0]
+### 12.[^c-314a2cf752f5efb2b1a8d354acf230e0]
 
 In Schedule 2 (revocations)—
 
@@ -238,42 +238,42 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24469501]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12). Section 17(5) was amended by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-301621726655c8ab6c41c72cdfbc74d2]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-301621726655c8ab6c41c72cdfbc74d2]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-66a7f772c8d878a5dba20cf872d660a9]: Commencement: Reg. 2 in force at 13.11.2019, see reg. 1(2)
+[^c-66a7f772c8d878a5dba20cf872d660a9]: Commencement: Reg. 2 in force at 13.11.2019, see reg. 1(2)
 
 [^c24469511]: Marginal citation: [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
 
-[^key-0a1dfe4b29dd63679cc0161947d285ca]: Commencement: Reg. 3 in force at 13.11.2019, see reg. 1(2)
+[^c-0a1dfe4b29dd63679cc0161947d285ca]: Commencement: Reg. 3 in force at 13.11.2019, see reg. 1(2)
 
-[^key-f5eddf2e074274fe276181fd5143a797]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-f5eddf2e074274fe276181fd5143a797]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
 [^c24469521]: Marginal citation: Section 479A was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301) and amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 
 [^c24469531]: Marginal citation: Section 479C was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301).
 
-[^key-b2eb0e7e9d881cfa239999869853087c]: Commencement: Reg. 5 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-b2eb0e7e9d881cfa239999869853087c]: Commencement: Reg. 5 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-98a88bf876a3d62c738fe20fd12dea70]: Commencement: Reg. 6 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-98a88bf876a3d62c738fe20fd12dea70]: Commencement: Reg. 6 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-f660bcfed2e714e3e7368e4cff969f91]: Textual amendment: Words in reg. 6 inserted (31.12.2020 immediately before reg. 6 comes into force) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/27/a)
+[^c-f660bcfed2e714e3e7368e4cff969f91]: Textual amendment: Words in reg. 6 inserted (31.12.2020 immediately before reg. 6 comes into force) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/27/a)
 
-[^key-7bd1e5c3781d364bf32ad0b781d6efff]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before reg. 6 comes into force) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/27/b)
+[^c-7bd1e5c3781d364bf32ad0b781d6efff]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before reg. 6 comes into force) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/27/b)
 
-[^key-8564d5e4e2a07a01d6b45f497c380c72]: Commencement: Reg. 7 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-8564d5e4e2a07a01d6b45f497c380c72]: Commencement: Reg. 7 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
 [^c24469541]: Marginal citation: Regulation 34A was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301).
 
-[^key-d5ed49e99ebda01ab70ab885a5579263]: Commencement: Reg. 8 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-d5ed49e99ebda01ab70ab885a5579263]: Commencement: Reg. 8 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-130c6173d175f1effc98d116278de13c]: Commencement: Reg. 9 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-130c6173d175f1effc98d116278de13c]: Commencement: Reg. 9 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
 [^c24469551]: Marginal citation: [S.I. 2019/145](https://www.legislation.gov.uk/uksi/2019/145).
 
-[^key-bdb13f67e0d4e9a8b2c0974548420052]: Commencement: Reg. 10 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-bdb13f67e0d4e9a8b2c0974548420052]: Commencement: Reg. 10 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
-[^key-60f82f0f0d39acf3cae0dd51b9a9fec4]: Commencement: Reg. 11 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-60f82f0f0d39acf3cae0dd51b9a9fec4]: Commencement: Reg. 11 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
 
 [^c24469561]: Marginal citation: [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685).
 
-[^key-314a2cf752f5efb2b1a8d354acf230e0]: Commencement: Reg. 12 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+[^c-314a2cf752f5efb2b1a8d354acf230e0]: Commencement: Reg. 12 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)

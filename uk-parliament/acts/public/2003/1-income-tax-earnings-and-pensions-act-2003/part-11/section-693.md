@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If a cash voucher to which Chapter 4 of Part 3 (taxable benefits: vouchers and credit-tokens) applies is received by an employee at any time, the employer is to be treated, for the purposes of PAYE regulations, as making at that time a payment of PAYE income of the employee of an amount equal to the amount ascertained under subsection (2) of, or (as the case may be) referred to in subsection (1A)(b) of, section 81[^key-6d4e4855080ad4ab88554dd99604a9e0] (benefit of cash voucher treated as earnings).
+(1) If a cash voucher to which Chapter 4 of Part 3 (taxable benefits: vouchers and credit-tokens) applies is received by an employee at any time, the employer is to be treated, for the purposes of PAYE regulations, as making at that time a payment of PAYE income of the employee of an amount equal to the amount ascertained under subsection (2) of, or (as the case may be) referred to in subsection (1A)(b) of, section 81[^c-6d4e4855080ad4ab88554dd99604a9e0] (benefit of cash voucher treated as earnings).
 
 (2) This section does not apply to the provision of a cash voucher if—
 
@@ -43,4 +43,4 @@ is to be treated for the purposes of this section as having been received by the
 
 ## Annotations
 
-[^key-6d4e4855080ad4ab88554dd99604a9e0]: Textual amendment: Words in [s. 693(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/693/1) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/57)
+[^c-6d4e4855080ad4ab88554dd99604a9e0]: Textual amendment: Words in [s. 693(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/693/1) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/57)

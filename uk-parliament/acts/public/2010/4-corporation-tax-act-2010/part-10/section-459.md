@@ -25,7 +25,7 @@ summary: ''
 - (a) a close company makes a loan or advance which, apart from this section, does not give rise to a charge to tax under section 455, and
 - (b) a person other than the close company makes a payment or transfers property to, or releases or satisfies (in whole or in part) a liability of, a relevant person who is a participator in the company or an associate of such a participator.
 
-(2) Sections 455 to 458 and[^M_F_20841a26-8f27-4498-dd39-860202a624eb] 464ZA and 464ZB[^key-8b08b75cfc7a3967050133be11eb4623] apply as if the loan or advance had been made to the relevant person.
+(2) Sections 455 to 458 and[^M_F_20841a26-8f27-4498-dd39-860202a624eb] 464ZA and 464ZB[^c-8b08b75cfc7a3967050133be11eb4623] apply as if the loan or advance had been made to the relevant person.
 
 (3) But this section does not apply if—
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^M_F_20841a26-8f27-4498-dd39-860202a624eb]: Textual amendment: Words in s. 459(2) inserted (retrospective to 20.3.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/4/1)
 
-[^key-8b08b75cfc7a3967050133be11eb4623]: Textual amendment: Words in [s. 459(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/459/2) substituted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)
+[^c-8b08b75cfc7a3967050133be11eb4623]: Textual amendment: Words in [s. 459(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/459/2) substituted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)

@@ -35,18 +35,18 @@ amending Council Regulation (EC) No 577/98 on the organisation of a labour force
 
 (Text with EEA relevance) (revoked)
 
-[^key-68fdceacdc384bb99bbc85a2e5677e57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68fdceacdc384bb99bbc85a2e5677e57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-68fdceacdc384bb99bbc85a2e5677e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-68fdceacdc384bb99bbc85a2e5677e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-68fdceacdc384bb99bbc85a2e5677e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-68fdceacdc384bb99bbc85a2e5677e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-68fdceacdc384bb99bbc85a2e5677e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-68fdceacdc384bb99bbc85a2e5677e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68fdceacdc384bb99bbc85a2e5677e57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68fdceacdc384bb99bbc85a2e5677e57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68fdceacdc384bb99bbc85a2e5677e57]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 235](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/235); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68fdceacdc384bb99bbc85a2e5677e57]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 235](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/235); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

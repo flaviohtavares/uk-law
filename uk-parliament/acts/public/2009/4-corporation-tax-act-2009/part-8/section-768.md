@@ -39,8 +39,8 @@ summary: ''
 
 (8) A is a member of the group the head of which owns directly or indirectly a percentage of A's ordinary share capital that is greater than the percentage of that capital owned directly or indirectly by any other head of a group.
 
-(9)[^key-71394ab49fb45b05ce292ca691a026c9] For the purposes of subsection (8) share capital is owned directly or indirectly if it would be so owned by a body corporate for the purposes of section 1154(2) of CTA 2010 (meaning of “51% subsidiary”).
+(9)[^c-71394ab49fb45b05ce292ca691a026c9] For the purposes of subsection (8) share capital is owned directly or indirectly if it would be so owned by a body corporate for the purposes of section 1154(2) of CTA 2010 (meaning of “51% subsidiary”).
 
 ## Annotations
 
-[^key-71394ab49fb45b05ce292ca691a026c9]: Textual amendment: S. 768(9) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 645](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/645) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-71394ab49fb45b05ce292ca691a026c9]: Textual amendment: S. 768(9) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 645](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/645) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

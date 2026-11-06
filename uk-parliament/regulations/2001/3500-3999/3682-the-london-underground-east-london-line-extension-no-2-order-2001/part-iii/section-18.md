@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Power to acquire land[^key-b4804b367d34d45eb010c81a0371a515]
+## 18. Power to acquire land[^c-b4804b367d34d45eb010c81a0371a515]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ and may use any land so acquired for those purposes or for any other purposes co
 
 ## Annotations
 
-[^key-b4804b367d34d45eb010c81a0371a515]: Commencement: Art. 18 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-b4804b367d34d45eb010c81a0371a515]: Commencement: Art. 18 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00018]: Footnote: [1845 c. 118](https://www.legislation.gov.uk/ukpga/1845/118). [1846 c. 70](https://www.legislation.gov.uk/ukpga/1846/70). [1847 c. 111](https://www.legislation.gov.uk/ukpga/1847/111). [1848 c. 99](https://www.legislation.gov.uk/ukpga/1848/99). [1849 c. 83](https://www.legislation.gov.uk/ukpga/1849/83). [1851 c. 10](https://www.legislation.gov.uk/ukpga/1851/10). [1852 c. 79](https://www.legislation.gov.uk/ukpga/1852/79). [1857 c. 31](https://www.legislation.gov.uk/ukpga/1857/31). [1859 c. 43](https://www.legislation.gov.uk/ukpga/1859/43). [1868 c. 89](https://www.legislation.gov.uk/ukpga/1868/89). [1876 c. 56](https://www.legislation.gov.uk/ukpga/1876/56). [1878 c. 56](https://www.legislation.gov.uk/ukpga/1878/56). [1879 c. 37](https://www.legislation.gov.uk/ukpga/1879/37). [1882 c. 15](https://www.legislation.gov.uk/ukpga/1882/15).
 

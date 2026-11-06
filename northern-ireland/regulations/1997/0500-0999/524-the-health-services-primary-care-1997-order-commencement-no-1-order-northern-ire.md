@@ -36,11 +36,11 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) of the Health Services (Primary Care) (Northern Ireland) Order 1997[^f00001] and of all other powers enabling it in that behalf, hereby makes the following order:
 
-## 1. Citation[^key-ace3e4de45b13305974c2d9d9b8c829a]
+## 1. Citation[^c-ace3e4de45b13305974c2d9d9b8c829a]
 
 This order may be cited as the Health Services (Primary Care) (1997 Order) (Commencement No. 1) Order (Northern Ireland) 1997.
 
-## 2. Appointed day[^key-0f95721ee080b04ab5c68f02ec21489f]
+## 2. Appointed day[^c-0f95721ee080b04ab5c68f02ec21489f]
 
 The day appointed for the coming into operation of the provisions of the Health Services (Primary Care) (Northern Ireland) Order 1997 set out in column 1 of the Schedule (the subject matter of each provision being set out in column (2)), is 12th January 1998.
 
@@ -52,7 +52,7 @@ Assistant Secretary
 
 5th December 1997.
 
-## SCHEDULE — Provisions of the Health Services (Primary Care) (Northern Ireland) Order 1997 coming into operation on 12th January 1998[^key-8c851853b3ec5b64d7c5e6586dcabb18]
+## SCHEDULE — Provisions of the Health Services (Primary Care) (Northern Ireland) Order 1997 coming into operation on 12th January 1998[^c-8c851853b3ec5b64d7c5e6586dcabb18]
 
 Article 2
 
@@ -84,7 +84,7 @@ Article 2
 </tbody>
 </table>
 
-[^f00002][^key-227064dcaabc3fcb81707ced487eb063][^key-227064dcaabc3fcb81707ced487eb063]
+[^f00002][^c-227064dcaabc3fcb81707ced487eb063][^c-227064dcaabc3fcb81707ced487eb063]
 
 (This note is not part of the Order.)
 
@@ -105,12 +105,12 @@ The provisions which are brought into operation relate to—
 
 [^f00001]: Footnote: S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-ace3e4de45b13305974c2d9d9b8c829a]: Commencement: Art. 1 in operation at made date, see [art. 1](https://www.legislation.gov.uk/nisr/1997/524/article/1)
+[^c-ace3e4de45b13305974c2d9d9b8c829a]: Commencement: Art. 1 in operation at made date, see [art. 1](https://www.legislation.gov.uk/nisr/1997/524/article/1)
 
-[^key-0f95721ee080b04ab5c68f02ec21489f]: Commencement: Art. 2 in operation at made date, see [art. 1](https://www.legislation.gov.uk/nisr/1997/524/article/1)
+[^c-0f95721ee080b04ab5c68f02ec21489f]: Commencement: Art. 2 in operation at made date, see [art. 1](https://www.legislation.gov.uk/nisr/1997/524/article/1)
 
-[^key-8c851853b3ec5b64d7c5e6586dcabb18]: Commencement: Sch. in operation at made date, see [art. 1](https://www.legislation.gov.uk/nisr/1997/524/article/1)
+[^c-8c851853b3ec5b64d7c5e6586dcabb18]: Commencement: Sch. in operation at made date, see [art. 1](https://www.legislation.gov.uk/nisr/1997/524/article/1)
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-227064dcaabc3fcb81707ced487eb063]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1997/524/schedule) deleted (21.8.1998) by [The Health Services (Primary Care) (1997 Order) (Commencement No. 2) Order (Northern Ireland) 1998 (S.R. 1998/301)](https://www.legislation.gov.uk/nisr/1998/301), [art. 4](https://www.legislation.gov.uk/nisr/1998/301/article/4)
+[^c-227064dcaabc3fcb81707ced487eb063]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1997/524/schedule) deleted (21.8.1998) by [The Health Services (Primary Care) (1997 Order) (Commencement No. 2) Order (Northern Ireland) 1998 (S.R. 1998/301)](https://www.legislation.gov.uk/nisr/1998/301), [art. 4](https://www.legislation.gov.uk/nisr/1998/301/article/4)

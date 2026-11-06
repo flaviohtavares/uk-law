@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Obligations of confidence etc[^key-34ef393319be6bf8bb468a8b30ab006b][^key-b46a0bbc23799b12952013e05bd90939]
+## 133. Obligations of confidence etc[^c-34ef393319be6bf8bb468a8b30ab006b][^c-b46a0bbc23799b12952013e05bd90939]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34ef393319be6bf8bb468a8b30ab006b]: Commencement: S. 133 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-34ef393319be6bf8bb468a8b30ab006b]: Commencement: S. 133 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b46a0bbc23799b12952013e05bd90939]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2022/31/section/133) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-b46a0bbc23799b12952013e05bd90939]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2022/31/section/133) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

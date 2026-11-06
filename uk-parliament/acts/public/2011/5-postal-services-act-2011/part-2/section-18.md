@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Division of the RMPP into different sections[^key-f1baa03b34b35b98e5977bb68ed014c3]
+## 18. Division of the RMPP into different sections[^c-f1baa03b34b35b98e5977bb68ed014c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1baa03b34b35b98e5977bb68ed014c3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/5/section/18) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f1baa03b34b35b98e5977bb68ed014c3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/5/section/18) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

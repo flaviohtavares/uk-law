@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary closure of streets and public rights of way[^key-f64b88a391c0ccf099d35dedce9f7dd9]
+## 11. Temporary closure of streets and public rights of way[^c-f64b88a391c0ccf099d35dedce9f7dd9]
 
 *Extent: E+W*
 
@@ -47,12 +47,12 @@ summary: ''
 
 (7) In this article expressions used in this article and in the 1984 Act have the same meaning.
 
-(8) Nothing in this article prevents the undertaker from temporarily closing, prohibiting the use of, authorising[^key-0280507aab18113304d92c02e2d9bed4] the use of, restricting the use of, altering or diverting a street or public right of way under this article more than once.
+(8) Nothing in this article prevents the undertaker from temporarily closing, prohibiting the use of, authorising[^c-0280507aab18113304d92c02e2d9bed4] the use of, restricting the use of, altering or diverting a street or public right of way under this article more than once.
 
 (9) The undertaker, during and for the purposes of carrying out the authorised development, may stop up, prohibit the use of, restrict the use of, alter or divert any public right of way within the Order limits which is added to the definitive map and statement (within the meaning of the Wildlife and Countryside Act 1981) on or after 21 November 2023.
 
 ## Annotations
 
-[^key-f64b88a391c0ccf099d35dedce9f7dd9]: Commencement: Art. 11 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-f64b88a391c0ccf099d35dedce9f7dd9]: Commencement: Art. 11 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-0280507aab18113304d92c02e2d9bed4]: Textual amendment: Word in [art. 11(8)](https://www.legislation.gov.uk/uksi/2025/585/article/11/8) substituted (20.9.2025) by [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)
+[^c-0280507aab18113304d92c02e2d9bed4]: Textual amendment: Word in [art. 11(8)](https://www.legislation.gov.uk/uksi/2025/585/article/11/8) substituted (20.9.2025) by [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)

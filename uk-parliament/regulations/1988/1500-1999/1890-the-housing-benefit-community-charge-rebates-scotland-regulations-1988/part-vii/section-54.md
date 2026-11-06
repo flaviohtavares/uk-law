@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Date on which benefit period is to end[^key-0fb5464c0381dc19bfd7c77af6823d1a]
+## 54. Date on which benefit period is to end[^c-0fb5464c0381dc19bfd7c77af6823d1a]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ when the benefit period shall end with the last day of the final benefit week fo
 
 ## Annotations
 
-[^key-0fb5464c0381dc19bfd7c77af6823d1a]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1988/1890/regulation/54) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-0fb5464c0381dc19bfd7c77af6823d1a]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1988/1890/regulation/54) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

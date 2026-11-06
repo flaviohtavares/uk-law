@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.2. Exercise of court’s powers[^key-56df563b18088ae0baeb11c6c09e0de4]
+## 11.2. Exercise of court’s powers[^c-56df563b18088ae0baeb11c6c09e0de4]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56df563b18088ae0baeb11c6c09e0de4]: Commencement: [Rule 11.2](https://www.legislation.gov.uk/uksi/2025/909/rule/11.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-56df563b18088ae0baeb11c6c09e0de4]: Commencement: [Rule 11.2](https://www.legislation.gov.uk/uksi/2025/909/rule/11.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

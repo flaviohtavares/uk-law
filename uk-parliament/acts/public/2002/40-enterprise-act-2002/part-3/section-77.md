@@ -22,10 +22,10 @@ summary: ''
 
 (1) Subsections (2) and (3) apply where—
 
-- (a) a reference has been made under section 22 or 68B[^key-b896bc88a44da3899314105496542a63] but not finally determined; and
-- (b) no undertakings under section [^key-b1f9bf6e454422960a55f6399ed5757e]... 80 are in force in relation to the relevant merger situation concerned and no orders under section 72 or 81 are in force in relation to that situation.
+- (a) a reference has been made under section 22 or 68B[^c-b896bc88a44da3899314105496542a63] but not finally determined; and
+- (b) no undertakings under section [^c-b1f9bf6e454422960a55f6399ed5757e]... 80 are in force in relation to the relevant merger situation concerned and no orders under section 72 or 81 are in force in relation to that situation.
 
-(2) No relevant person shall, without the consent of the CMA[^key-8f583efdc672d24412022e80bf78b07d] —
+(2) No relevant person shall, without the consent of the CMA[^c-8f583efdc672d24412022e80bf78b07d] —
 
 - (a) complete any outstanding matters in connection with any arrangements which have resulted in the enterprises concerned ceasing to be distinct enterprises;
 - (b) make any further arrangements in consequence of that result (other than arrangements which reverse that result); or
@@ -35,7 +35,7 @@ summary: ''
 
 (4) The prohibitions in subsections (2) and (3) do not apply in relation to anything which the person concerned is required to do by virtue of any enactment.
 
-(5) The consent of the CMA[^key-64cd6eb61a39a82a77d1478d60674ee5] under subsection (2) or (3)—
+(5) The consent of the CMA[^c-64cd6eb61a39a82a77d1478d60674ee5] under subsection (2) or (3)—
 
 - (a) may be general or special;
 - (b) may be revoked by the CMA; and
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b896bc88a44da3899314105496542a63]: Textual amendment: Words in [s. 77(1)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/77/1/a) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/15)
+[^c-b896bc88a44da3899314105496542a63]: Textual amendment: Words in [s. 77(1)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/77/1/a) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/15)
 
-[^key-b1f9bf6e454422960a55f6399ed5757e]: Textual amendment: Words in s. 77(1)(b) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 30](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/30); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b1f9bf6e454422960a55f6399ed5757e]: Textual amendment: Words in s. 77(1)(b) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 30](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/30); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-8f583efdc672d24412022e80bf78b07d]: Textual amendment: Word in s. 77(2)(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 117](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/117) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8f583efdc672d24412022e80bf78b07d]: Textual amendment: Word in s. 77(2)(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 117](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/117) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-64cd6eb61a39a82a77d1478d60674ee5]: Textual amendment: Word in s. 77(5)(6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 117](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/117) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-64cd6eb61a39a82a77d1478d60674ee5]: Textual amendment: Word in s. 77(5)(6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 117](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/117) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -37,11 +37,11 @@ Made
 
 The Welsh Ministers make the following Order in exercise of the power conferred on them by section 19(2) of the Renting Homes (Amendment) (Wales) Act 2021[^f00001].
 
-## 1. Title[^key-1a544778ba6da47785a67bed62afe9bd][^key-1a544778ba6da47785a67bed62afe9bd]
+## 1. Title[^c-1a544778ba6da47785a67bed62afe9bd][^c-1a544778ba6da47785a67bed62afe9bd]
 
 The title of this Order is the Renting Homes (Amendment) (Wales) Act 2021 (Commencement) Order 2022.
 
-## 2. Appointed day[^key-d1bc665c494571ef52769a2be5eb7803]
+## 2. Appointed day[^c-d1bc665c494571ef52769a2be5eb7803]
 
 1 December 2022 is the appointed day for the coming into force of paragraph 28 of Schedule 6 to the Renting Homes (Amendment) (Wales) Act 2021.
 
@@ -70,6 +70,6 @@ Paragraph 28 of Schedule 6 to the Act amends the Renting Homes (Fees etc.) (Wale
 
 [^f00001]: Footnote: [2021 asc 3](https://www.legislation.gov.uk/asc/2021/3).
 
-[^key-1a544778ba6da47785a67bed62afe9bd]: Commencement: Art. 1 in force at made date
+[^c-1a544778ba6da47785a67bed62afe9bd]: Commencement: Art. 1 in force at made date
 
-[^key-d1bc665c494571ef52769a2be5eb7803]: Commencement: Art. 2 in force at made date
+[^c-d1bc665c494571ef52769a2be5eb7803]: Commencement: Art. 2 in force at made date

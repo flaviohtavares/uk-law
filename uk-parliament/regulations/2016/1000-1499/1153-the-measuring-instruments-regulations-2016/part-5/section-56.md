@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Monitoring[^M_E_a523ab96-45ae-430b-dcc8-4928668f454c][^key-819bc0dbe42933501fb9b560b0fdcea2]
+## 56. Monitoring[^M_E_a523ab96-45ae-430b-dcc8-4928668f454c][^c-819bc0dbe42933501fb9b560b0fdcea2]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ The Secretary of State must monitor each approved body with a view to verifying 
 
 [^M_E_a523ab96-45ae-430b-dcc8-4928668f454c]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_fbcae142-2f6a-4d2b-b74b-c6285aec3a97]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

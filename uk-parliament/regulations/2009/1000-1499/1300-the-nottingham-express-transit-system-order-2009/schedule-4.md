@@ -32,7 +32,7 @@ Articles 11 and 12
 | PD | Path diversion |
 | PS | Path stopping up |
 
-### PART 1 — HIGHWAYS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-926f9e3ff1d560e385e65a328a3dd021]
+### PART 1 — HIGHWAYS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-926f9e3ff1d560e385e65a328a3dd021]
 
 <table>
 <thead>
@@ -53,7 +53,7 @@ Articles 11 and 12
 </tbody>
 </table>
 
-### PART 2 — FOOTPATHS AND BRIDLEWAYS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-9d01e643d0097a33be24c9b70fa7ad89]
+### PART 2 — FOOTPATHS AND BRIDLEWAYS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-9d01e643d0097a33be24c9b70fa7ad89]
 
 <table>
 <thead>
@@ -95,7 +95,7 @@ Articles 11 and 12
 </tbody>
 </table>
 
-### PART 3 — HIGHWAYS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-1715fe3b6d54ddd436ba7f7f9803f336]
+### PART 3 — HIGHWAYS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-1715fe3b6d54ddd436ba7f7f9803f336]
 
 <table>
 <thead>
@@ -116,7 +116,7 @@ Articles 11 and 12
 </tbody>
 </table>
 
-### PART 4 — FOOTPATHS AND BRIDLEWAYS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-9833d42775d4adc3109d2c6f043758bc]
+### PART 4 — FOOTPATHS AND BRIDLEWAYS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-9833d42775d4adc3109d2c6f043758bc]
 
 <table>
 <thead>
@@ -168,10 +168,10 @@ Articles 11 and 12
 
 ## Annotations
 
-[^key-926f9e3ff1d560e385e65a328a3dd021]: Commencement: Sch. 4 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-926f9e3ff1d560e385e65a328a3dd021]: Commencement: Sch. 4 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-9d01e643d0097a33be24c9b70fa7ad89]: Commencement: Sch. 4 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-9d01e643d0097a33be24c9b70fa7ad89]: Commencement: Sch. 4 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-1715fe3b6d54ddd436ba7f7f9803f336]: Commencement: Sch. 4 Pt. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-1715fe3b6d54ddd436ba7f7f9803f336]: Commencement: Sch. 4 Pt. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-9833d42775d4adc3109d2c6f043758bc]: Commencement: Sch. 4 Pt. 4 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-9833d42775d4adc3109d2c6f043758bc]: Commencement: Sch. 4 Pt. 4 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

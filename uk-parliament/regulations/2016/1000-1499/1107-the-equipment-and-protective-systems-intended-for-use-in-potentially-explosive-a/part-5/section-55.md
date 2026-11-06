@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Evaluation of a product presenting a risk[^key-0d819ed485c94ff19041ce34cb400ee2]
+## 55. Evaluation of a product presenting a risk[^c-0d819ed485c94ff19041ce34cb400ee2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the market surveillance authority has sufficient reason to believe that a 
 
 ## Annotations
 
-[^key-0d819ed485c94ff19041ce34cb400ee2]: Commencement: Reg. 55 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-0d819ed485c94ff19041ce34cb400ee2]: Commencement: Reg. 55 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

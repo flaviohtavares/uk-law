@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Hearing of applications and objections[^key-a6ddaa9a31c39600b448a65c3209f4e2]
+## 31. Hearing of applications and objections[^c-a6ddaa9a31c39600b448a65c3209f4e2]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6ddaa9a31c39600b448a65c3209f4e2]: Commencement: Reg. 31 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-a6ddaa9a31c39600b448a65c3209f4e2]: Commencement: Reg. 31 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

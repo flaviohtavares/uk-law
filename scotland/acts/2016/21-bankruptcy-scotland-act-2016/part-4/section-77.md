@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Election, resignation and removal of commissioners[^key-cd7716325c0d707182ea2c9e86d6306b]
+## 77. Election, resignation and removal of commissioners[^c-cd7716325c0d707182ea2c9e86d6306b]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) A commissioner may resign office at any time.
 
-(6A)[^key-3baeead4a9cf45e272cfeaf179a33994] A commissioner ceases to hold office if AiB is, or becomes, the trustee.
+(6A)[^c-3baeead4a9cf45e272cfeaf179a33994] A commissioner ceases to hold office if AiB is, or becomes, the trustee.
 
 (7) A commissioner may be removed from office—
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7716325c0d707182ea2c9e86d6306b]: Commencement: S. 77 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-cd7716325c0d707182ea2c9e86d6306b]: Commencement: S. 77 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-3baeead4a9cf45e272cfeaf179a33994]: Textual amendment: S. 77(6A) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 13(3)](https://www.legislation.gov.uk/asp/2024/9/section/13/3), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-3baeead4a9cf45e272cfeaf179a33994]: Textual amendment: S. 77(6A) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 13(3)](https://www.legislation.gov.uk/asp/2024/9/section/13/3), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))

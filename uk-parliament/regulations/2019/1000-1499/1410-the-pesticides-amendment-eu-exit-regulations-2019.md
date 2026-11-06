@@ -46,7 +46,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-cc6fff7d278af3c40b013665d6193cd7]
+### 1. Citation and commencement[^c-cc6fff7d278af3c40b013665d6193cd7]
 
 (1) These Regulations may be cited as the Pesticides (Amendment) (EU Exit) Regulations 2019.
 
@@ -56,13 +56,13 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 2 — Amendment and revocation of retained direct EU legislation
 
-### 2. Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^key-8894311aa8d7cfffa21168f7d922f5a7]
+### 2. Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^c-8894311aa8d7cfffa21168f7d922f5a7]
 
 (1) Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market is amended as follows.
 
 (2) In Article 12(3)(c) (as renumbered by regulation 4(14)(d) of the Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c23930041]), for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/882)” substitute “ Regulation (EU) 2017/625 ”.
 
-### 3. Commission Implementing Regulation (EU) No 844/2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^key-3d97f583c6d5d488e3944fabdca3fa9c]
+### 3. Commission Implementing Regulation (EU) No 844/2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^c-3d97f583c6d5d488e3944fabdca3fa9c]
 
 (1) Commission Implementing Regulation (EU) No 844/2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market is amended as follows.
 
@@ -70,21 +70,21 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (3) Omit Article 13a.
 
-### 4. Revocations and savings: retained direct EU legislation[^key-c42284c94eb33f5e37a3455e438ad04f]
+### 4. Revocations and savings: retained direct EU legislation[^c-c42284c94eb33f5e37a3455e438ad04f]
 
 (1) The retained direct EU legislation listed in the Schedule is revoked.
 
-(2) A grace period contained within a Regulation listed in the Schedule which expires after IP completion day[^key-a0c76711f1d2672f1eb056f00f1c5985] continues to have effect, and is to be treated as if it has been set by each competent authority in relation to its constituent territory in accordance with Article 21(6)(b) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market [^c23930051].
+(2) A grace period contained within a Regulation listed in the Schedule which expires after IP completion day[^c-a0c76711f1d2672f1eb056f00f1c5985] continues to have effect, and is to be treated as if it has been set by each competent authority in relation to its constituent territory in accordance with Article 21(6)(b) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market [^c23930051].
 
 (3) In paragraph (2), “competent authority” and “constituent territory” are to be interpreted in accordance with Article 3A of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) [^c23930061].
 
-(4) Sub-paragraph (5) applies where, immediately before IP completion day[^key-108ccb6996fc0d835e9653188e9b82a8], a Regulation listed in the Schedule includes provision which continues to apply Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) as it had effect before that Regulation applied in respect of the pesticide residue of an active substance in or on one or more products lawfully produced before a specified date (a “transitional measure”).
+(4) Sub-paragraph (5) applies where, immediately before IP completion day[^c-108ccb6996fc0d835e9653188e9b82a8], a Regulation listed in the Schedule includes provision which continues to apply Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) as it had effect before that Regulation applied in respect of the pesticide residue of an active substance in or on one or more products lawfully produced before a specified date (a “transitional measure”).
 
-(5) In respect of the pesticide residue and the product or products to which the transitional measure applies, paragraphs 3 to 6 of Part 2 of Schedule 1 to the Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 [^c23930071] apply as if a reference in those paragraphs to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) as it had effect immediately before IP completion day[^key-c42150398390f14adef9e611ac84a5e6] were a reference to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) as it had effect before the specified date.
+(5) In respect of the pesticide residue and the product or products to which the transitional measure applies, paragraphs 3 to 6 of Part 2 of Schedule 1 to the Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 [^c23930071] apply as if a reference in those paragraphs to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) as it had effect immediately before IP completion day[^c-c42150398390f14adef9e611ac84a5e6] were a reference to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) as it had effect before the specified date.
 
 (6) For the purposes of sub-paragraphs (4) and (5), a date is “specified” if it is specified in the transitional measure.
 
-### 5. Revocation: EEA Agreement[^key-fbfe50bfdb14fd54c7c336a3d6f53325]
+### 5. Revocation: EEA Agreement[^c-fbfe50bfdb14fd54c7c336a3d6f53325]
 
 In Annex 2 to the EEA Agreement—
 
@@ -93,7 +93,7 @@ In Annex 2 to the EEA Agreement—
 
 ## PART 3 — Amendment of secondary legislation
 
-### 6. Amendment of the Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-51c6671e8f87f0cd939af6881b5a30f8]
+### 6. Amendment of the Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-51c6671e8f87f0cd939af6881b5a30f8]
 
 (1) The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 are amended as follows.
 
@@ -117,7 +117,7 @@ In Annex 2 to the EEA Agreement—
   ;
 - (b) in paragraph (30)(d), in the text of new paragraph 6, for point (b) substitute—
 
-  > - (b) the date two years after the day after the day on which IP completion day[^key-b6c9efc741812ed155a68603ec026bf9] falls.
+  > - (b) the date two years after the day after the day on which IP completion day[^c-b6c9efc741812ed155a68603ec026bf9] falls.
 
   ;
 - (c) in paragraph (31)(a)(ii)(bb), omit “other”.
@@ -161,10 +161,10 @@ In Annex 2 to the EEA Agreement—
 - (a) in paragraph 2—
   - (i) for sub-paragraph (2) substitute—
 
-    > (2) Sub-paragraph (1) does not apply to an entry in a table in the Annex for an approval which expired before IP completion day[^key-61c0fdf7c8c91c530c36a53e7077d7a2].
+    > (2) Sub-paragraph (1) does not apply to an entry in a table in the Annex for an approval which expired before IP completion day[^c-61c0fdf7c8c91c530c36a53e7077d7a2].
 
     ;
-  - (ii) in sub-paragraph (4), for “31st March 2022 or earlier” substitute “ on or before the date three years after the day after the day on which IP completion day[^key-9185e7ae3d1a8a272cb7a99171cf7999] falls ”;
+  - (ii) in sub-paragraph (4), for “31st March 2022 or earlier” substitute “ on or before the date three years after the day after the day on which IP completion day[^c-9185e7ae3d1a8a272cb7a99171cf7999] falls ”;
 - (b) in paragraph 3—
   - (i) in sub-paragraph (3)(n), in the substituted text of the sixth paragraph, for “ febuconazole ” substitute “fenbuconazole”;
   - (ii) in sub-paragraph (4)—
@@ -208,7 +208,7 @@ In Annex 2 to the EEA Agreement—
 
 (10) In Part 4, for paragraph 14(4)(b) substitute—
 
-> - (b) the date three years after the day after the day on which IP completion day[^key-73154e3de36c994ada9bef0950fb85ae] falls.
+> - (b) the date three years after the day after the day on which IP completion day[^c-73154e3de36c994ada9bef0950fb85ae] falls.
 
 .
 
@@ -217,7 +217,7 @@ In Annex 2 to the EEA Agreement—
 - (a) in Part 1, in paragraph 151, for “1,4-dimethylnapthalene” substitute “ 1,4-dimethylnaphthalene ”;
 - (b) in Part 2, in paragraph 391, for “in view of” substitute “ with a view to ”.
 
-### 7. Amendment of the Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019[^key-e9fac0e9b2536e585fc0888855b46748]
+### 7. Amendment of the Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019[^c-e9fac0e9b2536e585fc0888855b46748]
 
 (1) The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 are amended as follows.
 
@@ -240,7 +240,7 @@ In Annex 2 to the EEA Agreement—
 (3) In Schedule 1—
 
 - (a) in Part 2—
-  - (i) in paragraph 3(6)(b)(i), for “1st January 2020” substitute “ the date eight months after the day on which IP completion day[^key-378e852a60297fe8a0a801eab36fd406] falls ”;
+  - (i) in paragraph 3(6)(b)(i), for “1st January 2020” substitute “ the date eight months after the day on which IP completion day[^c-378e852a60297fe8a0a801eab36fd406] falls ”;
   - (ii) omit paragraph 4(2)(e) and (3)(a)(v);
   - (iii) in paragraph 6(3)(b)(i), for “1st January 2020” substitute “ the date eight months after the day on which IP completion day falls ”;
 - (b) in Part 4, in paragraph 11(2), for “1st April 2019” substitute “ the day after the day on which IP completion day falls ”.
@@ -255,65 +255,65 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 4(1)
 
-**1.**[^key-2d996eb4b9094e41664eaa83c550461a] Commission Implementing Regulation (EU) No 380/2013 amending Regulation (EU) No 1141/2010 as regards the submission of the supplementary complete dossier to the Authority, the other Member States and the Commission.
+**1.**[^c-2d996eb4b9094e41664eaa83c550461a] Commission Implementing Regulation (EU) No 380/2013 amending Regulation (EU) No 1141/2010 as regards the submission of the supplementary complete dossier to the Authority, the other Member States and the Commission.
 
-**2.**[^key-bd35ff81130f8f9cb6f14d033d83f8fe] Council Regulation (EU) No 518/2013 adapting Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council, by reason of the accession of the Republic of Croatia.
+**2.**[^c-bd35ff81130f8f9cb6f14d033d83f8fe] Council Regulation (EU) No 518/2013 adapting Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council, by reason of the accession of the Republic of Croatia.
 
-**3.**[^key-4be0fb61c0e0c00df0ed7ab2a587280a] Commission Regulation (EU) No 1136/2014 amending Regulation (EU) No 283/2013 as regards the transitional measures applying to procedures concerning plant protection products.
+**3.**[^c-4be0fb61c0e0c00df0ed7ab2a587280a] Commission Regulation (EU) No 1136/2014 amending Regulation (EU) No 283/2013 as regards the transitional measures applying to procedures concerning plant protection products.
 
-**4.**[^key-78db63acc5aa1b7ccbe8e601288e8752] Commission Regulation (EU) 2015/1475 amending Regulation (EU) No 284/2013 as regards the transitional measures applying to procedures concerning plant protection products.
+**4.**[^c-78db63acc5aa1b7ccbe8e601288e8752] Commission Regulation (EU) 2015/1475 amending Regulation (EU) No 284/2013 as regards the transitional measures applying to procedures concerning plant protection products.
 
-**5.**[^key-df87631bfb18e88e9a8753b21fd62003] Commission Implementing Regulation (EU) 2018/155 amending Implementing Regulation (EU) No 686/2012 allocating to Member States, for the purposes of the renewal procedure, the evaluation of active substances.
+**5.**[^c-df87631bfb18e88e9a8753b21fd62003] Commission Implementing Regulation (EU) 2018/155 amending Implementing Regulation (EU) No 686/2012 allocating to Member States, for the purposes of the renewal procedure, the evaluation of active substances.
 
-**6.**[^key-576149ac965f6151cdadd2f24e6412dc] Commission Regulation (EU) 2018/1515 amending Annexes III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for diphenylamine and oxadixyl in or on certain products.
+**6.**[^c-576149ac965f6151cdadd2f24e6412dc] Commission Regulation (EU) 2018/1515 amending Annexes III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for diphenylamine and oxadixyl in or on certain products.
 
-**7.**[^key-d4de1d30b7a96eb7343ad02315a777ab] Commission Regulation (EU) 2018/1516 amending Annexes II and III to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for penoxsulam, triflumizole and triflumuron in or on certain products.
+**7.**[^c-d4de1d30b7a96eb7343ad02315a777ab] Commission Regulation (EU) 2018/1516 amending Annexes II and III to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for penoxsulam, triflumizole and triflumuron in or on certain products.
 
-**8.**[^key-9e644a0e7433d2d40e0c840b91a930ac] Commission Regulation (EU) 2019/38 amending Annexes II and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for iprodione in or on certain products.
+**8.**[^c-9e644a0e7433d2d40e0c840b91a930ac] Commission Regulation (EU) 2019/38 amending Annexes II and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for iprodione in or on certain products.
 
-**9.**[^key-068a3f1dccef0f6592b37e6710d924f7] Commission Regulation (EU) 2019/58 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for linuron in or on certain products.
+**9.**[^c-068a3f1dccef0f6592b37e6710d924f7] Commission Regulation (EU) 2019/58 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for linuron in or on certain products.
 
-**10.**[^key-6060d32e99d34f493f656b856d6d0796] Commission Regulation (EU) 2019/89 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for bromadiolone, etofenprox, paclobutrazol and penconazole in or on certain products.
+**10.**[^c-6060d32e99d34f493f656b856d6d0796] Commission Regulation (EU) 2019/89 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for bromadiolone, etofenprox, paclobutrazol and penconazole in or on certain products.
 
-**11.**[^key-22ce25f1ff951395d3d5acb6a7b002d2] Commission Regulation (EU) 2019/90 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for bromuconazole, carboxin, fenbutatin oxide, fenpyrazamine and pyridaben in or on certain products.
+**11.**[^c-22ce25f1ff951395d3d5acb6a7b002d2] Commission Regulation (EU) 2019/90 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for bromuconazole, carboxin, fenbutatin oxide, fenpyrazamine and pyridaben in or on certain products.
 
-**12.**[^key-52e8139b1d265d0ffccbdd10956a12bd] Commission Regulation (EU) 2019/91 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for buprofezin, diflubenzuron, ethoxysulfuron, ioxynil, molinate, picoxystrobin and tepraloxydim in or on certain products.
+**12.**[^c-52e8139b1d265d0ffccbdd10956a12bd] Commission Regulation (EU) 2019/91 amending Annexes II, III and V to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for buprofezin, diflubenzuron, ethoxysulfuron, ioxynil, molinate, picoxystrobin and tepraloxydim in or on certain products.
 
-**13.**[^key-949cf38b536a419d040b81ace09cd702] Commission Implementing Regulation (EU) 2019/149 amending Implementing Regulations (EU) 2015/1108 and (EU) No 540/2011 as regards the conditions of use of vinegar as a basic substance.
+**13.**[^c-949cf38b536a419d040b81ace09cd702] Commission Implementing Regulation (EU) 2019/149 amending Implementing Regulations (EU) 2015/1108 and (EU) No 540/2011 as regards the conditions of use of vinegar as a basic substance.
 
-**14.**[^key-efd26bf5e34928923b6be62486dc6a56] Commission Implementing Regulation (EU) 2019/150 amending Implementing Regulation (EU) No 686/2012 as regards the rapporteur Member State for the evaluation of the following active substances contained in plant protection products: deltamethrin, diflufenican, epoxiconazole, fluoxastrobin, prothioconazole and tebuconazole.
+**14.**[^c-efd26bf5e34928923b6be62486dc6a56] Commission Implementing Regulation (EU) 2019/150 amending Implementing Regulation (EU) No 686/2012 as regards the rapporteur Member State for the evaluation of the following active substances contained in plant protection products: deltamethrin, diflufenican, epoxiconazole, fluoxastrobin, prothioconazole and tebuconazole.
 
-**15.**[^key-e9d63faaa3a440ec93f6cd248f8d4eb5] Commission Implementing Regulation (EU) 2019/151 renewing the approval of the active substance *Clonostachys rosea* strain J1446 as a low-risk active substance in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**15.**[^c-e9d63faaa3a440ec93f6cd248f8d4eb5] Commission Implementing Regulation (EU) 2019/151 renewing the approval of the active substance *Clonostachys rosea* strain J1446 as a low-risk active substance in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**16.**[^key-dea812e9160b3c120d46ff9b8046c895] Commission Implementing Regulation (EU) 2019/158 renewing the approval of the active substance methoxyfenozide, as a candidate for substitution, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**16.**[^c-dea812e9160b3c120d46ff9b8046c895] Commission Implementing Regulation (EU) 2019/158 renewing the approval of the active substance methoxyfenozide, as a candidate for substitution, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**17.**[^key-9453c8519902318310df17f348a46178] Commission Implementing Regulation (EU) 2019/168 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances abamectin, *Bacillus subtilis* (Cohn 1872) Strain QST 713, *Bacillus thuringiensis* subsp. Aizawai, *Bacillus thuringiensis* subsp. israeliensis, *Bacillus thuringiensis* subsp. kurstaki, *Beauveria bassiana*, benfluralin, clodinafop, clopyralid, *Cydia pomonella Granulovirus* (CpGV), cyprodinil, dichlorprop-P, epoxiconazole, fenpyroximate, fluazinam, flutolanil, fosetyl, *Lecanicillium muscarium*, mepanipyrim, mepiquat, *Metarhizium anisopliae* var. Anisopliae, metconazole, metrafenone, *Phlebiopsis gigantea*, pirimicarb, *Pseudomonas chlororaphis* strain: MA 342, pyrimethanil, *Pythium oligandrum*, rimsulfuron, spinosad, *Streptomyces* K61, thiacloprid, tolclofos-methyl, *Trichoderma asperellum*, *Trichoderma atroviride*, *Trichoderma gamsii*, *Trichoderma harzianum*, triclopyr, trinexapac, triticonazole, *Verticillium albo-atrum* and ziram.
+**17.**[^c-9453c8519902318310df17f348a46178] Commission Implementing Regulation (EU) 2019/168 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances abamectin, *Bacillus subtilis* (Cohn 1872) Strain QST 713, *Bacillus thuringiensis* subsp. Aizawai, *Bacillus thuringiensis* subsp. israeliensis, *Bacillus thuringiensis* subsp. kurstaki, *Beauveria bassiana*, benfluralin, clodinafop, clopyralid, *Cydia pomonella Granulovirus* (CpGV), cyprodinil, dichlorprop-P, epoxiconazole, fenpyroximate, fluazinam, flutolanil, fosetyl, *Lecanicillium muscarium*, mepanipyrim, mepiquat, *Metarhizium anisopliae* var. Anisopliae, metconazole, metrafenone, *Phlebiopsis gigantea*, pirimicarb, *Pseudomonas chlororaphis* strain: MA 342, pyrimethanil, *Pythium oligandrum*, rimsulfuron, spinosad, *Streptomyces* K61, thiacloprid, tolclofos-methyl, *Trichoderma asperellum*, *Trichoderma atroviride*, *Trichoderma gamsii*, *Trichoderma harzianum*, triclopyr, trinexapac, triticonazole, *Verticillium albo-atrum* and ziram.
 
-**18.**[^key-cb047093716711b983ee827d9d68cce8] Commission Implementing Regulation (EU) 2019/291 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances 1-naphthylacetamide, 1-naphthylacetic acid, acrinathrin, azoxystrobin, fluazifop p, fluroxypyr, imazalil, kresoxim-methyl, oxyfluorfen, prochloraz, prohexadione, spiroxamine, tefluthrin and terbuthylazine.
+**18.**[^c-cb047093716711b983ee827d9d68cce8] Commission Implementing Regulation (EU) 2019/291 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances 1-naphthylacetamide, 1-naphthylacetic acid, acrinathrin, azoxystrobin, fluazifop p, fluroxypyr, imazalil, kresoxim-methyl, oxyfluorfen, prochloraz, prohexadione, spiroxamine, tefluthrin and terbuthylazine.
 
-**19.**[^key-2945a88d0f99ed77605548ede84abbc3] Commission Implementing Regulation (EU) 2019/324 amending Implementing Regulation (EU) No 540/2011 as regards the approval periods of the active substances bifenthrin, carboxin, FEN 560 (also called fenugreek or fenugreek seed powder), pepper dust extraction residue and sodium aluminium silicate.
+**19.**[^c-2945a88d0f99ed77605548ede84abbc3] Commission Implementing Regulation (EU) 2019/324 amending Implementing Regulation (EU) No 540/2011 as regards the approval periods of the active substances bifenthrin, carboxin, FEN 560 (also called fenugreek or fenugreek seed powder), pepper dust extraction residue and sodium aluminium silicate.
 
-**20.**[^key-d5e1e21f383c7267540fb896cc1b780a] Commission Implementing Regulation (EU) 2019/337 approving the active substance mefentrifluconazole in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**20.**[^c-d5e1e21f383c7267540fb896cc1b780a] Commission Implementing Regulation (EU) 2019/337 approving the active substance mefentrifluconazole in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**21.**[^key-d33a0bac97e71602aca3afb6543a67d4] Commission Implementing Regulation (EU) 2019/344 concerning the non-renewal of approval of the active substance ethoprophos, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**21.**[^c-d33a0bac97e71602aca3afb6543a67d4] Commission Implementing Regulation (EU) 2019/344 concerning the non-renewal of approval of the active substance ethoprophos, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**22.**[^key-d98398bfc27514ab5ed4c62e33519638] Commission Implementing Regulation (EU) 2019/481 approving the active substance flutianil, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**22.**[^c-d98398bfc27514ab5ed4c62e33519638] Commission Implementing Regulation (EU) 2019/481 approving the active substance flutianil, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**23.**[^key-1a2728f832f5a19a762bec0d7b48d17c] Commission Implementing Regulation (EU) 2019/530 designating European Union reference laboratories for pests of plants on insects and mites, nematodes, bacteria, fungi and oomycetes, viruses, viroids, and phytoplasmas.
+**23.**[^c-1a2728f832f5a19a762bec0d7b48d17c] Commission Implementing Regulation (EU) 2019/530 designating European Union reference laboratories for pests of plants on insects and mites, nematodes, bacteria, fungi and oomycetes, viruses, viroids, and phytoplasmas.
 
-**24.**[^key-10395c8a2470dba4f5791028d397e960] Commission Regulation (EU) 2019/552 amending Annexes II and III to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for azoxystrobin, bicyclopyrone, chlormequat, cyprodinil, difenoconazole, fenpropimorph, fenpyroximate, fluopyram, fosetyl, isoprothiolane, isopyrazam, oxamyl, prothioconazole, spinetoram, trifloxystrobin and triflumezopyrim in or on certain products.
+**24.**[^c-10395c8a2470dba4f5791028d397e960] Commission Regulation (EU) 2019/552 amending Annexes II and III to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council as regards maximum residue levels for azoxystrobin, bicyclopyrone, chlormequat, cyprodinil, difenoconazole, fenpropimorph, fenpyroximate, fluopyram, fosetyl, isoprothiolane, isopyrazam, oxamyl, prothioconazole, spinetoram, trifloxystrobin and triflumezopyrim in or on certain products.
 
-**25.**[^key-7709c0d302d6dbb76b5c2ee55e7a82b9] Commission Implementing Regulation (EU) 2019/676 approving the low-risk active substance ABE-IT 56 (components of lysate of Saccharomyces cerevisiae strain DDSF623), in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**25.**[^c-7709c0d302d6dbb76b5c2ee55e7a82b9] Commission Implementing Regulation (EU) 2019/676 approving the low-risk active substance ABE-IT 56 (components of lysate of Saccharomyces cerevisiae strain DDSF623), in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**26.**[^key-40133d0994e85b9ba2efdc952822f007] Commission Implementing Regulation (EU) 2019/677 concerning the non-renewal of the approval of the active substance chlorothalonil, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending Commission Implementing Regulation (EU) No 540/2011.
+**26.**[^c-40133d0994e85b9ba2efdc952822f007] Commission Implementing Regulation (EU) 2019/677 concerning the non-renewal of the approval of the active substance chlorothalonil, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending Commission Implementing Regulation (EU) No 540/2011.
 
-**27.**[^key-9989f87c21a091143b162f35cc81628e] Commission Implementing Regulation (EU) 2019/706 renewing the approval of the active substance carvone in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**27.**[^c-9989f87c21a091143b162f35cc81628e] Commission Implementing Regulation (EU) 2019/706 renewing the approval of the active substance carvone in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
-**28.**[^key-c6dec512d4a985d79d157a38865974b5] Commission Implementing Regulation (EU) 2019/707 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, beflubutamid, benalaxyl, benthiavalicarb, bifenazate, boscalid, bromoxynil, captan, cyazofamid, desmedipham, dimethoate, dimethomorph, diuron, ethephon, etoxazole, famoxadone, fenamiphos, flumioxazine, fluoxastrobin, folpet, foramsulfuron, formetanate, metalaxyl-m, methiocarb, metribuzin, milbemectin, *Paecilomyces lilacinus* strain 251, phenmedipham, phosmet, pirimiphos-methyl, propamocarb, prothioconazole, s-metolachlor and tebuconazole.
+**28.**[^c-c6dec512d4a985d79d157a38865974b5] Commission Implementing Regulation (EU) 2019/707 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, beflubutamid, benalaxyl, benthiavalicarb, bifenazate, boscalid, bromoxynil, captan, cyazofamid, desmedipham, dimethoate, dimethomorph, diuron, ethephon, etoxazole, famoxadone, fenamiphos, flumioxazine, fluoxastrobin, folpet, foramsulfuron, formetanate, metalaxyl-m, methiocarb, metribuzin, milbemectin, *Paecilomyces lilacinus* strain 251, phenmedipham, phosmet, pirimiphos-methyl, propamocarb, prothioconazole, s-metolachlor and tebuconazole.
 
-**29.**[^key-f37f7daede7cb76f9af5546d3e74fe71] Commission Implementing Regulation (EU) 2019/716 amending Implementing Regulations (EU) No 22/2013 and (EU) No 540/2011 as regards the conditions of approval of the active substance cyflumetofen.
+**29.**[^c-f37f7daede7cb76f9af5546d3e74fe71] Commission Implementing Regulation (EU) 2019/716 amending Implementing Regulations (EU) No 22/2013 and (EU) No 540/2011 as regards the conditions of approval of the active substance cyflumetofen.
 
-**30.**[^key-d9c4fdda2fee38e3cd9e3db4ac4f1824] Commission Implementing Regulation (EU) 2019/717 renewing the approval of the active substance isoxaflutole in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
+**30.**[^c-d9c4fdda2fee38e3cd9e3db4ac4f1824] Commission Implementing Regulation (EU) 2019/717 renewing the approval of the active substance isoxaflutole in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011.
 
 *(This note is not part of the Regulations)*
 
@@ -327,102 +327,102 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23930031]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-cc6fff7d278af3c40b013665d6193cd7]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cc6fff7d278af3c40b013665d6193cd7]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8894311aa8d7cfffa21168f7d922f5a7]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8894311aa8d7cfffa21168f7d922f5a7]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23930041]: Marginal citation: [S.I. 2019/556](https://www.legislation.gov.uk/uksi/2019/556), to which there are amendments not relevant to these Regulations.
 
-[^key-3d97f583c6d5d488e3944fabdca3fa9c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3d97f583c6d5d488e3944fabdca3fa9c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c42284c94eb33f5e37a3455e438ad04f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c42284c94eb33f5e37a3455e438ad04f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a0c76711f1d2672f1eb056f00f1c5985]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [reg. 3](https://www.legislation.gov.uk/uksi/2019/559/regulation/3) comes into force) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)
+[^c-a0c76711f1d2672f1eb056f00f1c5985]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [reg. 3](https://www.legislation.gov.uk/uksi/2019/559/regulation/3) comes into force) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)
 
 [^c23930051]: Marginal citation: Article 21 is substituted by [S.I. 2019/556](https://www.legislation.gov.uk/uksi/2019/556).
 
 [^c23930061]: Marginal citation: Article 3A is inserted by [S.I. 2019/556](https://www.legislation.gov.uk/uksi/2019/556).
 
-[^key-108ccb6996fc0d835e9653188e9b82a8]: Textual amendment: Words in reg. 4(4) substituted (31.12.2020 immediately before [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [reg. 3](https://www.legislation.gov.uk/uksi/2019/559/regulation/3) comes into force) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)
+[^c-108ccb6996fc0d835e9653188e9b82a8]: Textual amendment: Words in reg. 4(4) substituted (31.12.2020 immediately before [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [reg. 3](https://www.legislation.gov.uk/uksi/2019/559/regulation/3) comes into force) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)
 
 [^c23930071]: Marginal citation: [S.I. 2019/557](https://www.legislation.gov.uk/uksi/2019/557), to which there are amendments not relevant to these Regulations.
 
-[^key-c42150398390f14adef9e611ac84a5e6]: Textual amendment: Words in reg. 4(5) substituted (31.12.2020 immediately before [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [reg. 3](https://www.legislation.gov.uk/uksi/2019/559/regulation/3) comes into force) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)
+[^c-c42150398390f14adef9e611ac84a5e6]: Textual amendment: Words in reg. 4(5) substituted (31.12.2020 immediately before [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [reg. 3](https://www.legislation.gov.uk/uksi/2019/559/regulation/3) comes into force) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)
 
-[^key-fbfe50bfdb14fd54c7c336a3d6f53325]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fbfe50bfdb14fd54c7c336a3d6f53325]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-51c6671e8f87f0cd939af6881b5a30f8]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-51c6671e8f87f0cd939af6881b5a30f8]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23930081]: Marginal citation: OJ No L 309, 24.11.2009, p. 71, as last amended by Commission Directive (EU) 2019/782 (OJ No L 127, 16.5.2019, p. 4).
 
-[^key-b6c9efc741812ed155a68603ec026bf9]: Textual amendment: Words in reg. 6(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/a)
+[^c-b6c9efc741812ed155a68603ec026bf9]: Textual amendment: Words in reg. 6(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/a)
 
-[^key-61c0fdf7c8c91c530c36a53e7077d7a2]: Textual amendment: Words in reg. 6(8)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/b)
+[^c-61c0fdf7c8c91c530c36a53e7077d7a2]: Textual amendment: Words in reg. 6(8)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/b)
 
-[^key-9185e7ae3d1a8a272cb7a99171cf7999]: Textual amendment: Words in reg. 6(8)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/c)
+[^c-9185e7ae3d1a8a272cb7a99171cf7999]: Textual amendment: Words in reg. 6(8)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/c)
 
-[^key-73154e3de36c994ada9bef0950fb85ae]: Textual amendment: Words in reg. 6(10) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(d)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/d)
+[^c-73154e3de36c994ada9bef0950fb85ae]: Textual amendment: Words in reg. 6(10) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(3)(d)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/3/d)
 
-[^key-e9fac0e9b2536e585fc0888855b46748]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e9fac0e9b2536e585fc0888855b46748]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-378e852a60297fe8a0a801eab36fd406]: Textual amendment: Words in reg. 7(3) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/4)
+[^c-378e852a60297fe8a0a801eab36fd406]: Textual amendment: Words in reg. 7(3) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [7(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/4)
 
-[^key-2d996eb4b9094e41664eaa83c550461a]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2d996eb4b9094e41664eaa83c550461a]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-bd35ff81130f8f9cb6f14d033d83f8fe]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bd35ff81130f8f9cb6f14d033d83f8fe]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4be0fb61c0e0c00df0ed7ab2a587280a]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4be0fb61c0e0c00df0ed7ab2a587280a]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-78db63acc5aa1b7ccbe8e601288e8752]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-78db63acc5aa1b7ccbe8e601288e8752]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-df87631bfb18e88e9a8753b21fd62003]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-df87631bfb18e88e9a8753b21fd62003]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-576149ac965f6151cdadd2f24e6412dc]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-576149ac965f6151cdadd2f24e6412dc]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d4de1d30b7a96eb7343ad02315a777ab]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d4de1d30b7a96eb7343ad02315a777ab]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9e644a0e7433d2d40e0c840b91a930ac]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9e644a0e7433d2d40e0c840b91a930ac]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-068a3f1dccef0f6592b37e6710d924f7]: Commencement: Sch. para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-068a3f1dccef0f6592b37e6710d924f7]: Commencement: Sch. para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-6060d32e99d34f493f656b856d6d0796]: Commencement: Sch. para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6060d32e99d34f493f656b856d6d0796]: Commencement: Sch. para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-22ce25f1ff951395d3d5acb6a7b002d2]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-22ce25f1ff951395d3d5acb6a7b002d2]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-52e8139b1d265d0ffccbdd10956a12bd]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-52e8139b1d265d0ffccbdd10956a12bd]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-949cf38b536a419d040b81ace09cd702]: Commencement: Sch. para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-949cf38b536a419d040b81ace09cd702]: Commencement: Sch. para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-efd26bf5e34928923b6be62486dc6a56]: Commencement: Sch. para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-efd26bf5e34928923b6be62486dc6a56]: Commencement: Sch. para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-e9d63faaa3a440ec93f6cd248f8d4eb5]: Commencement: Sch. para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e9d63faaa3a440ec93f6cd248f8d4eb5]: Commencement: Sch. para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-dea812e9160b3c120d46ff9b8046c895]: Commencement: Sch. para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-dea812e9160b3c120d46ff9b8046c895]: Commencement: Sch. para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9453c8519902318310df17f348a46178]: Commencement: Sch. para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9453c8519902318310df17f348a46178]: Commencement: Sch. para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-cb047093716711b983ee827d9d68cce8]: Commencement: Sch. para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-cb047093716711b983ee827d9d68cce8]: Commencement: Sch. para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-2945a88d0f99ed77605548ede84abbc3]: Commencement: Sch. para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2945a88d0f99ed77605548ede84abbc3]: Commencement: Sch. para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d5e1e21f383c7267540fb896cc1b780a]: Commencement: Sch. para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d5e1e21f383c7267540fb896cc1b780a]: Commencement: Sch. para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d33a0bac97e71602aca3afb6543a67d4]: Commencement: Sch. para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d33a0bac97e71602aca3afb6543a67d4]: Commencement: Sch. para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d98398bfc27514ab5ed4c62e33519638]: Commencement: Sch. para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d98398bfc27514ab5ed4c62e33519638]: Commencement: Sch. para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-1a2728f832f5a19a762bec0d7b48d17c]: Commencement: Sch. para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1a2728f832f5a19a762bec0d7b48d17c]: Commencement: Sch. para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-10395c8a2470dba4f5791028d397e960]: Commencement: Sch. para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-10395c8a2470dba4f5791028d397e960]: Commencement: Sch. para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7709c0d302d6dbb76b5c2ee55e7a82b9]: Commencement: Sch. para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7709c0d302d6dbb76b5c2ee55e7a82b9]: Commencement: Sch. para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-40133d0994e85b9ba2efdc952822f007]: Commencement: Sch. para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-40133d0994e85b9ba2efdc952822f007]: Commencement: Sch. para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9989f87c21a091143b162f35cc81628e]: Commencement: Sch. para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9989f87c21a091143b162f35cc81628e]: Commencement: Sch. para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c6dec512d4a985d79d157a38865974b5]: Commencement: Sch. para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c6dec512d4a985d79d157a38865974b5]: Commencement: Sch. para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-f37f7daede7cb76f9af5546d3e74fe71]: Commencement: Sch. para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f37f7daede7cb76f9af5546d3e74fe71]: Commencement: Sch. para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d9c4fdda2fee38e3cd9e3db4ac4f1824]: Commencement: Sch. para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d9c4fdda2fee38e3cd9e3db4ac4f1824]: Commencement: Sch. para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Disclosure of information[^key-c73ab44acdb4375fab64d12a0c763e76]
+## 13. Disclosure of information[^c-c73ab44acdb4375fab64d12a0c763e76]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c73ab44acdb4375fab64d12a0c763e76]: Commencement: Reg. 13 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-c73ab44acdb4375fab64d12a0c763e76]: Commencement: Reg. 13 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

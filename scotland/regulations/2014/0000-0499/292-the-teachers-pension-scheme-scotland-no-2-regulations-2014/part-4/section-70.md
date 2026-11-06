@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Meaning of “standard reduction”[^key-7799eb2459650780025cb64e4f96ef6c]
+## 70. Meaning of “standard reduction”[^c-7799eb2459650780025cb64e4f96ef6c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7799eb2459650780025cb64e4f96ef6c]: Commencement: [Reg. 70](https://www.legislation.gov.uk/ssi/2014/292/regulation/70) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-7799eb2459650780025cb64e4f96ef6c]: Commencement: [Reg. 70](https://www.legislation.gov.uk/ssi/2014/292/regulation/70) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

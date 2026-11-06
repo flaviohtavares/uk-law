@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59B. Complaint by debtor under Article 21 of the Maintenance Regulation for refusal or suspension of enforcement[^key-e91ca05ce971ba4984c28d99dd4aba99]
+## 59B. Complaint by debtor under Article 21 of the Maintenance Regulation for refusal or suspension of enforcement[^c-e91ca05ce971ba4984c28d99dd4aba99]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e91ca05ce971ba4984c28d99dd4aba99]: Textual amendment: [Rule 59B](https://www.legislation.gov.uk/uksi/1981/552/rule/59B) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [19](https://www.legislation.gov.uk/uksi/2014/879/article/19)
+[^c-e91ca05ce971ba4984c28d99dd4aba99]: Textual amendment: [Rule 59B](https://www.legislation.gov.uk/uksi/1981/552/rule/59B) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [19](https://www.legislation.gov.uk/uksi/2014/879/article/19)

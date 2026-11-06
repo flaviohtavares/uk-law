@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-bb1f90bc5251444db57bb630997dcafe] Where a person (“X”) applies to become a foster parent and the fostering service provider decide to assess X’s suitability to become a foster parent, any such assessment must be carried out in accordance with this regulation.
+(1)[^c-bb1f90bc5251444db57bb630997dcafe] Where a person (“X”) applies to become a foster parent and the fostering service provider decide to assess X’s suitability to become a foster parent, any such assessment must be carried out in accordance with this regulation.
 
 (1A) Subject to paragraph (1B), the fostering service provider—
 
@@ -43,7 +43,7 @@ the fostering service provider must notify X in writing that X is not suitable t
 - (a) may be given notwithstanding that the fostering service provider has not obtained all the information set out in paragraph (1A), and
 - (b) may not be given more than 10 working days after the fostering service provider has obtained all the information set out in paragraph (1A).
 
-(2) Where the fostering service provider have obtained all the information set out in paragraph (1A) and have not given the notification in paragraph (1B) within 10 working days of doing so, the fostering service provider must, subject to paragraph (3)— *(affected by repeal, see note)*[^key-0d1a658ee3c70653dd28ec4f53dd9eeb]
+(2) Where the fostering service provider have obtained all the information set out in paragraph (1A) and have not given the notification in paragraph (1B) within 10 working days of doing so, the fostering service provider must, subject to paragraph (3)— *(affected by repeal, see note)*[^c-0d1a658ee3c70653dd28ec4f53dd9eeb]
 
 Subject to paragraphs (2A) and (3), where the fostering service provider have obtained all the information set out in paragraph (1A) and have not given the notification in paragraph (1B), the fostering service provider must—
 
@@ -55,7 +55,7 @@ Subject to paragraphs (2A) and (3), where the fostering service provider have ob
   - (iii) the fostering service provider’s proposals about any terms of approval, and
 - (d) notify X that the case is to be referred to the fostering panel, and give X a copy of the report prepared under subparagraph (c) inviting X to send any observations in writing to the fostering service provider within 10 working days beginning with the date on which the notification is sent.
 
-(2A)[^key-b1c4294aed5d096a328077990be78787] The fostering service provider may comply with paragraph (2)(a) even if the information required by paragraph 2 of Schedule 3 has yet to be obtained.
+(2A)[^c-b1c4294aed5d096a328077990be78787] The fostering service provider may comply with paragraph (2)(a) even if the information required by paragraph 2 of Schedule 3 has yet to be obtained.
 
 (2B) A fostering service provider must keep a record of any decision made in accordance with paragraph (2A).
 
@@ -98,11 +98,11 @@ to the fostering panel.
 
 ## Annotations
 
-[^key-bb1f90bc5251444db57bb630997dcafe]: Textual amendment: Reg. 26(1)-(4) substituted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/984/regulation/7)
+[^c-bb1f90bc5251444db57bb630997dcafe]: Textual amendment: Reg. 26(1)-(4) substituted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/984/regulation/7)
 
-[^key-0d1a658ee3c70653dd28ec4f53dd9eeb]: Textual amendment: Words in reg. 26(2) substituted (temp.) (25.9.2020 to 31.3.2021) by virtue of [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/909/regulation/5/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
+[^c-0d1a658ee3c70653dd28ec4f53dd9eeb]: Textual amendment: Words in reg. 26(2) substituted (temp.) (25.9.2020 to 31.3.2021) by virtue of [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/909/regulation/5/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
 
-[^key-b1c4294aed5d096a328077990be78787]: Textual amendment: Reg. 26(2A)(2B) inserted (temp.) (25.9.2020 to 31.3.2021) by virtue of [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/909/regulation/5/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
+[^c-b1c4294aed5d096a328077990be78787]: Textual amendment: Reg. 26(2A)(2B) inserted (temp.) (25.9.2020 to 31.3.2021) by virtue of [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/909/regulation/5/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
 
 [^c20747461]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 

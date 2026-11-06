@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Protected status: general[^key-186860e9bfc8e11da603d6d32affa963]
+## 163. Protected status: general[^c-186860e9bfc8e11da603d6d32affa963]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-186860e9bfc8e11da603d6d32affa963]: Commencement: [S. 163](https://www.legislation.gov.uk/asp/2016/21/section/163) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-186860e9bfc8e11da603d6d32affa963]: Commencement: [S. 163](https://www.legislation.gov.uk/asp/2016/21/section/163) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

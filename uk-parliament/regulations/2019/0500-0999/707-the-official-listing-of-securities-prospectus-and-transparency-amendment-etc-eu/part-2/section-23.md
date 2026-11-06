@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transparency rules: interpretation etc[^key-3e33c0a23c4402960d837000e3654c16]
+## 23. Transparency rules: interpretation etc[^c-3e33c0a23c4402960d837000e3654c16]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 89F (transparency rules: interpretation etc), after subsection (1) in
 
 ## Annotations
 
-[^key-3e33c0a23c4402960d837000e3654c16]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3e33c0a23c4402960d837000e3654c16]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

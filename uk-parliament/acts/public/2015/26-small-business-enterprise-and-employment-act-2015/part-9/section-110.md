@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Compensation orders and undertakings[^key-d525658797197ef33e5ca4bef9f9496e][^key-88145d8672e0b748f92d0a7ed7b65c14]
+## 110. Compensation orders and undertakings[^c-d525658797197ef33e5ca4bef9f9496e][^c-88145d8672e0b748f92d0a7ed7b65c14]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ After section 15 of the Company Directors Disqualification Act 1986 insert—
 
 ## Annotations
 
-[^key-d525658797197ef33e5ca4bef9f9496e]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2015/26/section/110) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-d525658797197ef33e5ca4bef9f9496e]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2015/26/section/110) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-88145d8672e0b748f92d0a7ed7b65c14]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2015/26/section/110) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/f) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/4))
+[^c-88145d8672e0b748f92d0a7ed7b65c14]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2015/26/section/110) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/f) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/4))

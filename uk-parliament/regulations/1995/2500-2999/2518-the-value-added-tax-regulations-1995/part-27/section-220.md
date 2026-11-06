@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Correction of errors on non-UK and special scheme returns more than 3 years after the date the original return was required to be made[^key-5a958ace379aa417bed19c0aab0b7255]
+## 220. Correction of errors on non-UK and special scheme returns more than 3 years after the date the original return was required to be made[^c-5a958ace379aa417bed19c0aab0b7255]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a958ace379aa417bed19c0aab0b7255]: Textual amendment: [Pt. 27](https://www.legislation.gov.uk/uksi/1995/2518/part/27) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [80](https://www.legislation.gov.uk/uksi/2019/59/regulation/80); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 18](https://www.legislation.gov.uk/uksi/2020/1641/regulation/18) [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
+[^c-5a958ace379aa417bed19c0aab0b7255]: Textual amendment: [Pt. 27](https://www.legislation.gov.uk/uksi/1995/2518/part/27) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [80](https://www.legislation.gov.uk/uksi/2019/59/regulation/80); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 18](https://www.legislation.gov.uk/uksi/2020/1641/regulation/18) [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))

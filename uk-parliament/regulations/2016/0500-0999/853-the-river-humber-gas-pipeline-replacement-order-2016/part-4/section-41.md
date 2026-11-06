@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Felling or lopping of trees or shrubs[^key-f9c7ea8cf72e4310a451c2ffa906fc97]
+## 41. Felling or lopping of trees or shrubs[^c-f9c7ea8cf72e4310a451c2ffa906fc97]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9c7ea8cf72e4310a451c2ffa906fc97]: Commencement: Art. 41 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-f9c7ea8cf72e4310a451c2ffa906fc97]: Commencement: Art. 41 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
 [^f00026]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

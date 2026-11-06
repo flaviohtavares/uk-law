@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83A. Disclosure under the UCITS directive[^key-c23ab5db888e6fe08a7c89d41ec25411]
+## 83A. Disclosure under the UCITS directive[^c-c23ab5db888e6fe08a7c89d41ec25411]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c23ab5db888e6fe08a7c89d41ec25411]: Textual amendment: Reg. 83A inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/8)
+[^c-c23ab5db888e6fe08a7c89d41ec25411]: Textual amendment: Reg. 83A inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/8)

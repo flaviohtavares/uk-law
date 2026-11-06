@@ -38,24 +38,24 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-1b16a2a6968bcc6641db9312b52fb376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b16a2a6968bcc6641db9312b52fb376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1b16a2a6968bcc6641db9312b52fb376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1b16a2a6968bcc6641db9312b52fb376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1b16a2a6968bcc6641db9312b52fb376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1b16a2a6968bcc6641db9312b52fb376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b16a2a6968bcc6641db9312b52fb376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b16a2a6968bcc6641db9312b52fb376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1b16a2a6968bcc6641db9312b52fb376]
+## ANNEX[^c-1b16a2a6968bcc6641db9312b52fb376]
 
-[^key-1b16a2a6968bcc6641db9312b52fb376] CLASSIFICATION OF COUNTRIES
+[^c-1b16a2a6968bcc6641db9312b52fb376] CLASSIFICATION OF COUNTRIES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b16a2a6968bcc6641db9312b52fb376] FILES TO TRANSMIT TO EUROSTAT
+[^c-1b16a2a6968bcc6641db9312b52fb376] FILES TO TRANSMIT TO EUROSTAT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b16a2a6968bcc6641db9312b52fb376]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b16a2a6968bcc6641db9312b52fb376]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

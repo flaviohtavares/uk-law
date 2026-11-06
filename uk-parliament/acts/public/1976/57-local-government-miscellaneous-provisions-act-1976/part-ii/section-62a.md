@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62A. Return of licences suspended or revoked on immigration grounds[^M_C_446b354d-2146-4196-8e11-a26d60a684c7][^M_C_9d955847-3842-47ad-e9f0-62bb1c8967d8][^key-c26ad700611f0d8ee6f13d2e255bd02e]
+## 62A. Return of licences suspended or revoked on immigration grounds[^M_C_446b354d-2146-4196-8e11-a26d60a684c7][^M_C_9d955847-3842-47ad-e9f0-62bb1c8967d8][^c-c26ad700611f0d8ee6f13d2e255bd02e]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^M_C_9d955847-3842-47ad-e9f0-62bb1c8967d8]: Modification: S. 62A(1)(b) modified (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 56(8)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/56/8); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i)
 
-[^key-c26ad700611f0d8ee6f13d2e255bd02e]: Textual amendment: S. 62A inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/26); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-c26ad700611f0d8ee6f13d2e255bd02e]: Textual amendment: S. 62A inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/26); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))

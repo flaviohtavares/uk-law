@@ -24,7 +24,7 @@ Section 125
 
 ### Part 1 — Appeals against decisions relating to information and samples
 
-#### 1. Appeals in relation to information and samples plans[^key-3f5a32ba893dd060b04a9650d606dbaa]
+#### 1. Appeals in relation to information and samples plans[^c-3f5a32ba893dd060b04a9650d606dbaa]
 
 (1) A person affected by any decision of the OGA to which effect is given by the preparation of an information and samples plan may appeal against it to the Tribunal—
 
@@ -37,7 +37,7 @@ Section 125
 - (b) remit the decision under appeal to the OGA for reconsideration with such directions (if any) as the Tribunal considers appropriate, or
 - (c) substitute its own decision for the decision under appeal.
 
-#### 2. Appeals against notices requiring provision of information or samples[^key-614847c82a731f17de94de82103e675c]
+#### 2. Appeals against notices requiring provision of information or samples[^c-614847c82a731f17de94de82103e675c]
 
 (1) A person affected by any decision of the OGA to which effect is given by the giving of a notice requiring the provision of information or samples under section 112 may appeal against it to the Tribunal—
 
@@ -52,7 +52,7 @@ Section 125
 
 ### Part 2 — Appeals relating to enforcement of sanctionable requirements
 
-#### 3. Appeals in relation to sanction notices[^key-d5bd62c3b33f5826f0be381cd5e1fd35]
+#### 3. Appeals in relation to sanction notices[^c-d5bd62c3b33f5826f0be381cd5e1fd35]
 
 (1) Where a sanction notice is given under section 115 in respect of a failure to comply with a sanctionable requirement, an appeal may be made—
 
@@ -68,7 +68,7 @@ Section 125
 
 the Tribunal, or the Upper Tribunal, may further suspend the effect of the notice pending a decision which disposes of proceedings on such an appeal.
 
-#### 4. Appeals against finding of failure to comply[^key-b4e621f4033787b6ff28850c30cab706]
+#### 4. Appeals against finding of failure to comply[^c-b4e621f4033787b6ff28850c30cab706]
 
 (1) An appeal may be made to the Tribunal by the person, or by any of the persons, to whom a sanction notice is given in respect of a failure to comply with a sanctionable requirement, on the grounds that the person, or persons, did not fail to comply with the requirement.
 
@@ -79,7 +79,7 @@ the Tribunal, or the Upper Tribunal, may further suspend the effect of the notic
 - (a) an appeal under this paragraph may be made only in relation to the sanction notice, or any of the sanction notices, given on the first of those occasions, and
 - (b) appeals in relation to sanction notices given on subsequent occasions in respect of that failure to comply may be made only under paragraph 5.
 
-#### 5. Appeals against sanction imposed[^key-b1ed340c964867fc1ba9b37d1aa1ea26]
+#### 5. Appeals against sanction imposed[^c-b1ed340c964867fc1ba9b37d1aa1ea26]
 
 (1) Where a sanction notice is given in respect of a failure to comply with a sanctionable requirement, a person mentioned in sub- paragraph (2) may appeal to the Tribunal against any of the decisions of the OGA mentioned in sub-paragraph (3) (as to the sanction imposed by the notice) on the grounds mentioned in sub-paragraph (4).
 
@@ -130,7 +130,7 @@ and confirm, vary or cancel the sanction notice in question accordingly.
 
 (9) Where a decision is quashed under sub-paragraph (5)(a), (6)(a) or (8), the Tribunal may remit the decision to the OGA for reconsideration with such directions (if any) as the Tribunal considers appropriate.
 
-#### 6. Appeals against information requirements[^key-857de1cd8588572461458bba4d5f7e18]
+#### 6. Appeals against information requirements[^c-857de1cd8588572461458bba4d5f7e18]
 
 (1) A person to whom a notice is given under section 124 may appeal against it to the Tribunal on the grounds that—
 
@@ -144,14 +144,14 @@ and confirm, vary or cancel the sanction notice in question accordingly.
 
 ## Annotations
 
-[^key-3f5a32ba893dd060b04a9650d606dbaa]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/1) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-3f5a32ba893dd060b04a9650d606dbaa]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/1) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-614847c82a731f17de94de82103e675c]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/2) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-614847c82a731f17de94de82103e675c]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/2) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-d5bd62c3b33f5826f0be381cd5e1fd35]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/3) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-d5bd62c3b33f5826f0be381cd5e1fd35]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/3) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-b4e621f4033787b6ff28850c30cab706]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/4) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-b4e621f4033787b6ff28850c30cab706]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/4) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-b1ed340c964867fc1ba9b37d1aa1ea26]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/5) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-b1ed340c964867fc1ba9b37d1aa1ea26]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/5) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-857de1cd8588572461458bba4d5f7e18]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/6) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-857de1cd8588572461458bba4d5f7e18]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/8/paragraph/6) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

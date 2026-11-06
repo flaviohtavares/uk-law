@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.42. Further disclosure[^key-13c2b1a8853b0bffe1fff1ae756c58ef]
+## 4.42. Further disclosure[^c-13c2b1a8853b0bffe1fff1ae756c58ef]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13c2b1a8853b0bffe1fff1ae756c58ef]: Commencement: [Rule 4.42](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.42) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-13c2b1a8853b0bffe1fff1ae756c58ef]: Commencement: [Rule 4.42](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.42) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

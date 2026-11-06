@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Whistleblowing[^key-1a147141807da09fab524ea6d61eb374]
+## 34. Whistleblowing[^c-1a147141807da09fab524ea6d61eb374]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a147141807da09fab524ea6d61eb374]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/762/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-1a147141807da09fab524ea6d61eb374]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/762/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42A. Restricted services.[^key-c6c86dd8813291a9708f63c0607f37e9]
+## 42A. Restricted services.[^c-c6c86dd8813291a9708f63c0607f37e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Part “restricted service” means a service (or a dissociable section 
 
 ## Annotations
 
-[^key-c6c86dd8813291a9708f63c0607f37e9]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/1990/42/section/42A) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/2/a)
+[^c-c6c86dd8813291a9708f63c0607f37e9]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/1990/42/section/42A) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/2/a)

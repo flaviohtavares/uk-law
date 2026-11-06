@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Surrenders of pension[^key-a51d211623d1be074e63180a9f274530]
+## 32. Surrenders of pension[^c-a51d211623d1be074e63180a9f274530]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a51d211623d1be074e63180a9f274530]: Commencement: Reg. 32 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-a51d211623d1be074e63180a9f274530]: Commencement: Reg. 32 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

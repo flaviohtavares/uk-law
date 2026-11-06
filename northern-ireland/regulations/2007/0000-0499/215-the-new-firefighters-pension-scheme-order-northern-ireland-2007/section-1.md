@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation commencement and effect[^key-0175d3527ecd11966aab15b8bec87577]
+## 1. Citation commencement and effect[^c-0175d3527ecd11966aab15b8bec87577]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0175d3527ecd11966aab15b8bec87577]: Commencement: Art. 1 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1))
+[^c-0175d3527ecd11966aab15b8bec87577]: Commencement: Art. 1 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies if for any period a person holds two or more employments in respect of which the person is (or apart from this regulation would be) eligible to be an active member of this Section of[^key-170ab365b32286d54797fe3b0996a38c] the Scheme.
+(1) This regulation applies if for any period a person holds two or more employments in respect of which the person is (or apart from this regulation would be) eligible to be an active member of this Section of[^c-170ab365b32286d54797fe3b0996a38c] the Scheme.
 
 (2) The person may only be such a member in respect of so many hours or, as the case may be, sessions in each such employment as, in the opinion of the Secretary of State, do not, taken together, exceed a comparable whole-time employment not held concurrently with any other employment.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-170ab365b32286d54797fe3b0996a38c]: Textual amendment: Words in [reg. 2.B.3](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.B.3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-170ab365b32286d54797fe3b0996a38c]: Textual amendment: Words in [reg. 2.B.3](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.B.3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

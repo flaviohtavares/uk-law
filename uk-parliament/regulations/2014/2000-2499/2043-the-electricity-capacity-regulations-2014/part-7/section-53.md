@@ -43,7 +43,7 @@ summary: ''
     - (i) not less than A– by Standard & Poor's [^c22186241]; or
     - (ii) not less than A3 by Moody's [^c22186251]; or
   - (c) such other bank as the Settlement Body may approve;
-- “**the required amount**” means the amount of credit cover which A is required to provide, as determined in accordance with regulation 59(1), (4) or (5A)[^key-135c94de04a41a962fcf386efec6fba6] or, if applicable, regulation 60(2).
+- “**the required amount**” means the amount of credit cover which A is required to provide, as determined in accordance with regulation 59(1), (4) or (5A)[^c-135c94de04a41a962fcf386efec6fba6] or, if applicable, regulation 60(2).
 
 (4) In this Part, references to a prospective generating CMU are to be treated as including any generating CMU in respect of which a bidder is awarded, or an applicant pre-qualifies to bid for, a multi-year capacity obligation in a T-4 auction held on or before 31st July 2016.
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c22186251]: Marginal citation: The register of ratings is available from the following webpage: www.moodys.com/Pages/atc.aspx.
 
-[^key-135c94de04a41a962fcf386efec6fba6]: Textual amendment: Words in [reg. 53(3)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/53/3) substituted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/9)
+[^c-135c94de04a41a962fcf386efec6fba6]: Textual amendment: Words in [reg. 53(3)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/53/3) substituted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/9)

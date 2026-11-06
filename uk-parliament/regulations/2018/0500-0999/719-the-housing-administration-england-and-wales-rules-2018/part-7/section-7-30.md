@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.30. Electronic delivery by housing administrators[^key-f61fbffb3d952c091a22389efa8e5d69]
+## 7.30. Electronic delivery by housing administrators[^c-f61fbffb3d952c091a22389efa8e5d69]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f61fbffb3d952c091a22389efa8e5d69]: Commencement: Rule 7.30 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-f61fbffb3d952c091a22389efa8e5d69]: Commencement: Rule 7.30 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

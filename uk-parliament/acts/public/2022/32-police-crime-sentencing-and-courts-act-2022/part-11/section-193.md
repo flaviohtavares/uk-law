@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Rehabilitation of offenders[^key-b4976b0c13551ef97b6ea12706988913]
+## 193. Rehabilitation of offenders[^c-b4976b0c13551ef97b6ea12706988913]
 
 *Extent: E+W*
 
@@ -139,4 +139,4 @@ the person or conviction concerned is (subject to any order made by virtue of se
 
 ## Annotations
 
-[^key-b4976b0c13551ef97b6ea12706988913]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2022/32/section/193) in force at 28.10.2023 by [S.I. 2023/1128](https://www.legislation.gov.uk/uksi/2023/1128), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1128/regulation/2)
+[^c-b4976b0c13551ef97b6ea12706988913]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2022/32/section/193) in force at 28.10.2023 by [S.I. 2023/1128](https://www.legislation.gov.uk/uksi/2023/1128), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1128/regulation/2)

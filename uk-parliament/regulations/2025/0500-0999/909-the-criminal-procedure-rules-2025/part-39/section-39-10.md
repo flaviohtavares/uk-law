@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.10. Forfeiture of a recognizance given as a condition of bail[^key-f1091bb2a1bfc4347ea055d790895060]
+## 39.10. Forfeiture of a recognizance given as a condition of bail[^c-f1091bb2a1bfc4347ea055d790895060]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ of the hearing at which the court may order the forfeiture of the recognizance g
 
 ## Annotations
 
-[^key-f1091bb2a1bfc4347ea055d790895060]: Commencement: [Rule 39.10](https://www.legislation.gov.uk/uksi/2025/909/rule/39.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f1091bb2a1bfc4347ea055d790895060]: Commencement: [Rule 39.10](https://www.legislation.gov.uk/uksi/2025/909/rule/39.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

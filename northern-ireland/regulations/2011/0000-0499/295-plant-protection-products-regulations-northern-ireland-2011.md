@@ -46,11 +46,11 @@ The Department of Agriculture and Rural Development make the following Regulatio
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Agriculture and Rural Development that it is expedient for references in these Regulations to Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107)[^f00004] of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117)[^f00005] and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^f00006] to be construed as including references to Articles 30(3) and 52(4), and to Annexes I to V of that Regulation as amended from time to time.
 
-## 1. Citation and commencement[^key-dd70ef8fcd43d0ecf87e1b741c993836]
+## 1. Citation and commencement[^c-dd70ef8fcd43d0ecf87e1b741c993836]
 
 (1) These Regulations may be cited as the Plant Protection Products Regulations (Northern Ireland) 2011 and come into operation on 4th October 2011.
 
-## 2. Interpretation[^key-f1404c9025aee1e8c5c13d5486cd7f6b]
+## 2. Interpretation[^c-f1404c9025aee1e8c5c13d5486cd7f6b]
 
 (1) In these Regulations—
 
@@ -58,12 +58,12 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “the 2005 Regulations” means the Plant Protection Products Regulations (Northern Ireland) 2005[^f00008];
 - “authorised person” means a person authorised under regulation 6(1);
 - “the Department” means the Department of Agriculture and Rural Development in Northern Ireland;
-- “premises” includes any place and, in particular, includes—[^key-ad33759ea6e38ec4c0418b319754cdb5]
+- “premises” includes any place and, in particular, includes—[^c-ad33759ea6e38ec4c0418b319754cdb5]
   - (a) any vehicle, vessel, aircraft, hovercraft or marine structure; and
   - (b) any tent or moveable structure;
-- “Regulation 1107/2009” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/11/EEC](https://www.legislation.gov.uk/european/directive/1979/0011) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), [^key-e2b5eaa2ab6b2f10f4b5b206b4b0964c]... as amended from time to time; and
-- “the Secretary of State” means the Secretary of State for Environment, Food and Rural Affairs :[^key-2f44fdab4fe2fe33672e9b2fe3fdd706]
-- “treated seeds” means seeds treated with plant protection products authorised for that use in at least one Member State or Northern Ireland[^key-f728d4e97c2772bed5455e2ae7e697e2].
+- “Regulation 1107/2009” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/11/EEC](https://www.legislation.gov.uk/european/directive/1979/0011) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), [^c-e2b5eaa2ab6b2f10f4b5b206b4b0964c]... as amended from time to time; and
+- “the Secretary of State” means the Secretary of State for Environment, Food and Rural Affairs :[^c-2f44fdab4fe2fe33672e9b2fe3fdd706]
+- “treated seeds” means seeds treated with plant protection products authorised for that use in at least one Member State or Northern Ireland[^c-f728d4e97c2772bed5455e2ae7e697e2].
 
 (2) Expressions used in both these Regulations and Regulation 1107/2009 have the same meaning in these Regulations as they have in Regulation 1107/2009.
 
@@ -71,11 +71,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Competent Authority[^key-76d9c6fe6fde25538833089a47a17fa4]
+## 3. Competent Authority[^c-76d9c6fe6fde25538833089a47a17fa4]
 
 For the purposes of Article 75(1) the designated competent authority is the Department.
 
-## 4. Emergency measures[^key-9f169eaa9c92b704f42bb27cf5cc3a8a]
+## 4. Emergency measures[^c-9f169eaa9c92b704f42bb27cf5cc3a8a]
 
 (1) Where the Department reasonably considers that treated seeds are likely to constitute a serious risk to human or animal health or to the environment, it may issue a notice in writing restricting or prohibiting their sale or use, or both, in Northern Ireland.
 
@@ -84,11 +84,11 @@ For the purposes of Article 75(1) the designated competent authority is the Depa
 - (a) set out the grounds for issuing the notice; and
 - (b) give a time limit for compliance with the notice.
 
-## 5. Enforcement[^key-3109fcd9137a2e7142476c6e025c77ab]
+## 5. Enforcement[^c-3109fcd9137a2e7142476c6e025c77ab]
 
 These Regulations are enforced by the Department.
 
-## 6. Powers of authorised persons[^key-3653a2222d18ded679e57772789eec94]
+## 6. Powers of authorised persons[^c-3653a2222d18ded679e57772789eec94]
 
 (1) The Department may authorise any person to exercise the powers set out in Schedule 1.
 
@@ -98,7 +98,7 @@ These Regulations are enforced by the Department.
 
 (4) An authorisation must be evidenced in writing.
 
-## 7. Evidence of authorisation[^key-c0432068100417e6238cf5f7572d99d9]
+## 7. Evidence of authorisation[^c-c0432068100417e6238cf5f7572d99d9]
 
 (1) An authorised person performing functions under these Regulations must produce, on request, evidence of his or her authorisation.
 
@@ -108,31 +108,31 @@ These Regulations are enforced by the Department.
 - (b) the functions to be performed; and
 - (c) the grounds for proposing to perform those functions.
 
-## 8. Placing on the market and use[^key-d9c225cb7580b9bab4bca914469d9d81]
+## 8. Placing on the market and use[^c-d9c225cb7580b9bab4bca914469d9d81]
 
 A person must not place on the market or use a plant protection product in contravention of Article 28, or cause or permit another person to do so.
 
-## 9. Seeds treated with plant protection products[^key-b52b7eddbc771662f0c2797fa2d409b4]
+## 9. Seeds treated with plant protection products[^c-b52b7eddbc771662f0c2797fa2d409b4]
 
-(1) A person must not place on the market or use seeds treated with plant protection products that are not authorised for use on such seeds in any Member State or Northern Ireland[^key-14d8996f1be1ca3def4ef40c40ad33dc], or to cause or permit another person to do so.
+(1) A person must not place on the market or use seeds treated with plant protection products that are not authorised for use on such seeds in any Member State or Northern Ireland[^c-14d8996f1be1ca3def4ef40c40ad33dc], or to cause or permit another person to do so.
 
 (2) A person must not place on the market treated seeds in contravention of Article 49(4), or cause or permit another person to do so.
 
-## 10. Parallel trade permits and permits for trial purposes[^key-342e2577a4b01878901d44c4a373a1a2]
+## 10. Parallel trade permits and permits for trial purposes[^c-342e2577a4b01878901d44c4a373a1a2]
 
 (1) A person must not place on the market or use a plant protection product in contravention of Article 52(5), or cause or permit another person to do so.
 
 (2) A person must not place on the market or use a plant protection product in contravention of one or more conditions in a permit granted for trial purposes under Article 54(1), or cause or permit another person to do so.
 
-## 11. Use of plant protection products[^key-385f34df99b8c21bf9a0db9e4d5f4676]
+## 11. Use of plant protection products[^c-385f34df99b8c21bf9a0db9e4d5f4676]
 
 A person must use a plant protection product in compliance with the conditions established in accordance with Article 31 and specified on the labelling as required in Article 55.
 
-## 12. The provision of information on potentially harmful or unacceptable effects[^key-03cb9af0778cbe4551c3949792f6bb2a]
+## 12. The provision of information on potentially harmful or unacceptable effects[^c-03cb9af0778cbe4551c3949792f6bb2a]
 
 An authorisation holder must include in a notification under Article 56(1) the information required by Article 56(2).
 
-## 13. Adjuvants[^key-0ae4623e5fba042bd92a5a1806a0d85c]
+## 13. Adjuvants[^c-0ae4623e5fba042bd92a5a1806a0d85c]
 
 (1) A person must not place on the market or use an adjuvant in contravention of Article 58, or cause or permit another person to do so.
 
@@ -140,31 +140,31 @@ An authorisation holder must include in a notification under Article 56(1) the i
 
 (3) Schedule 2 (Adjuvants) has effect.
 
-## 14. The sharing of tests and studies involving vertebrate animals[^key-2792e1bc573b6042792bcdd0ddd5a534]
+## 14. The sharing of tests and studies involving vertebrate animals[^c-2792e1bc573b6042792bcdd0ddd5a534]
 
 (1) A person must not undertake tests on vertebrate animals in contravention of the first sentence of Article 62(1), or cause or permit another person to do so.
 
 (2) A person must comply with a direction issued by the Department pursuant to Article 62(6).
 
-## 15. Packaging and presentation[^key-f4b32892729df946aa264c74e2357c54]
+## 15. Packaging and presentation[^c-f4b32892729df946aa264c74e2357c54]
 
 (1) A person must not package a plant protection product or an adjuvant in contravention of Article 64(1), or cause or permit another person to do so.
 
 (2) A person must not make available to the general public a plant protection product or adjuvant in contravention of Article 64(2), or cause or permit another person to do so.
 
-## 16. Labelling[^key-baa305a56de697ab9b0e1bf974f4cc07]
+## 16. Labelling[^c-baa305a56de697ab9b0e1bf974f4cc07]
 
 A person must not place on the market a plant protection product in contravention of Article 65(1) or cause or permit another person to do so, unless the plant protection product is—
 
 - (a) placed on the market before 14<sup>th</sup> June 2015;
 - (b) approved under the 1987 Regulations or the 2005 Regulations; and
-- (c) labelled in accordance with Article 16 of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market[^f00010] as amended from time to time[^key-370193d7efaebeb61a2049ac5784023b].
+- (c) labelled in accordance with Article 16 of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market[^f00010] as amended from time to time[^c-370193d7efaebeb61a2049ac5784023b].
 
-## 17. Advertising[^key-3d6cb1e4e5221b9218b2ded73f1d4379]
+## 17. Advertising[^c-3d6cb1e4e5221b9218b2ded73f1d4379]
 
 A person must not advertise a plant protection product in contravention of Article 66(1), (2), (4), (5) or (6), or cause or permit another person to do so.
 
-## 18. Record keeping[^key-b953bc21e2f5faa2019a91103313001a]
+## 18. Record keeping[^c-b953bc21e2f5faa2019a91103313001a]
 
 (1) Producers, suppliers, distributors, importers, and exporters of plant protection products must not contravene the requirement set out in the first sentence of Article 67(1).
 
@@ -176,7 +176,7 @@ A person must not advertise a plant protection product in contravention of Artic
 
 (5) An authorisation holder must not contravene Article 67(3).
 
-## 19. The provision of information[^key-13781fb09b97c5729daebcc937b05565]
+## 19. The provision of information[^c-13781fb09b97c5729daebcc937b05565]
 
 (1) A person listed in paragraph (2) must not—
 
@@ -209,7 +209,7 @@ in a submission for the purposes of the second paragraph of Article 61(1).
 
 (5) A person must not cause or permit any person, in relation to an application under Article 52(1) or 54(2), to make a statement which the former knows to be false in a material particular.
 
-## 20. Non-compliance with notices[^key-161b9ab674c595a46f7dfd9fec9532c7]
+## 20. Non-compliance with notices[^c-161b9ab674c595a46f7dfd9fec9532c7]
 
 (1) A person must comply with the provisions of a notice served under–
 
@@ -221,7 +221,7 @@ in a submission for the purposes of the second paragraph of Article 61(1).
 
 (3) Any costs reasonably incurred by the Department or any authorised person in ensuring that the requirements of a notice are complied with may be recovered, on demand, from the person on whom the notice was served.
 
-## 21. Obstruction of an authorised person[^key-b17362453e79e67ae3b3eb6ce2f30df8]
+## 21. Obstruction of an authorised person[^c-b17362453e79e67ae3b3eb6ce2f30df8]
 
 (1) A person–
 
@@ -234,7 +234,7 @@ in a submission for the purposes of the second paragraph of Article 61(1).
 - (b) recklessly make a statement which is false in a material particular; or
 - (c) intentionally fail to disclose any material particular.
 
-## 22. Offence[^key-2fde0e871818c9109b3a1449390830a2]
+## 22. Offence[^c-2fde0e871818c9109b3a1449390830a2]
 
 A person who contravenes or fails to comply with—
 
@@ -248,7 +248,7 @@ A person who contravenes or fails to comply with—
 
 is guilty of an offence.
 
-## 23. Offences by bodies corporate[^key-615df09fef49911d31763ee8b97ffaa2]
+## 23. Offences by bodies corporate[^c-615df09fef49911d31763ee8b97ffaa2]
 
 (1) For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited”.
 
@@ -264,7 +264,7 @@ is guilty of an offence.
 - (a) to have been committed with the consent or connivance of an officer of the association or a member of its governing body; or
 - (b) to be attributable to any neglect on the part of such officer or member, the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## 24. Defences[^key-80f72393e08cedfa95e949b30639e955]
+## 24. Defences[^c-80f72393e08cedfa95e949b30639e955]
 
 (1) In any proceedings for an offence under these Regulations, other than in relation to regulation 14(2), 21(1)(a) or 21(2), it is a defence for the person charged to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -282,9 +282,9 @@ and in either case that they took all such steps as were reasonably open to them
 
 the person charged shall not, without leave of the court, be entitled to rely on that defence unless within a period ending seven clear days before the hearing, they have served on the prosecutor a notice giving such information identifying or assisting in the identification of that other person as was then in their possession.
 
-(4)[^key-f967aea64c0e1f54cf0f9f99dd191a05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f967aea64c0e1f54cf0f9f99dd191a05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Penalties[^key-241ac29b8e00da58c9fe06b45bc503cf]
+## 25. Penalties[^c-241ac29b8e00da58c9fe06b45bc503cf]
 
 (1) A person guilty of an offence under these Regulations, other than for contravention of or failure to comply with regulations 12, 18, 20(1) or 21(1)(b), is liable–
 
@@ -295,7 +295,7 @@ the person charged shall not, without leave of the court, be entitled to rely on
 
 (3) Proceedings for any offence under these Regulations may be taken, and the offence may for the purposes of the jurisdiction of the court to try offences be treated, as having been committed, in Northern Ireland.
 
-## 26. Application to the Crown[^key-faf88bb443d07123f78a534377cfa784]
+## 26. Application to the Crown[^c-faf88bb443d07123f78a534377cfa784]
 
 (1) Subject to paragraph (2), an authorised person may perform any of his or her functions under these Regulations in relation to land in which there is a Crown interest.
 
@@ -309,7 +309,7 @@ the person charged shall not, without leave of the court, be entitled to rely on
 - “Crown interest” means any interest belonging to Her Majesty in right of the Crown or belonging to a government department or held in trust for Her majesty for the purposes of a government department; and
 - “Crown occupation” means occupation by Her Majesty in right of the Crown or occupation by a government department.
 
-## 27. Savings and transitionals[^key-433358fc64bb1c0c26232bfd084e86c1]
+## 27. Savings and transitionals[^c-433358fc64bb1c0c26232bfd084e86c1]
 
 (1) The 2005 Regulations are saved for the purpose of deciding applications for approvals of plant protection products referred to in Article 80(5). Any approval granted under the 2005 Regulations or the 1987 Regulations, following such an application, shall be deemed to be granted under Regulation 1107/2009.
 
@@ -324,7 +324,7 @@ when these Regulations come into operation is deemed to be authorised in accorda
 
 (4) Any parallel trade approval granted by the Department which is valid when these Regulations come into operation is deemed to be a parallel trade permit granted in accordance with Article 52.
 
-## 28. Revocations and amendments[^key-a17ddefb64308288ea4a2b7051c13bcf]
+## 28. Revocations and amendments[^c-a17ddefb64308288ea4a2b7051c13bcf]
 
 (1) The Regulations specified in the Table in Schedule 3 are amended to the extent specified in the Table.
 
@@ -342,23 +342,23 @@ Department of Agriculture and Rural Development
 
 Regulation 6(2)
 
-### 1. Powers of entry[^key-8311b0d64ed2dd486f3df044b2a2e4e5]
+### 1. Powers of entry[^c-8311b0d64ed2dd486f3df044b2a2e4e5]
 
-(1) An authorised person may enter any premises (except any premises used wholly or mainly as a private dwelling)[^key-edb17141c8674f56a94ef3ffd6bb3783] if he or she has reasonable grounds to believe that any plant protection product is being, or has been, applied to or stored on or in them or transported or applied by means of them and that it is necessary to enter for the purpose of ensuring that these Regulations are being complied with.
+(1) An authorised person may enter any premises (except any premises used wholly or mainly as a private dwelling)[^c-edb17141c8674f56a94ef3ffd6bb3783] if he or she has reasonable grounds to believe that any plant protection product is being, or has been, applied to or stored on or in them or transported or applied by means of them and that it is necessary to enter for the purpose of ensuring that these Regulations are being complied with.
 
-(2)[^key-4b3911de114db88ca4b738a8d0b0fe48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4b3911de114db88ca4b738a8d0b0fe48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1248771ffcdc9960331a93c793dfa9b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1248771ffcdc9960331a93c793dfa9b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0aaffb5f4b2ae6ed17f550e51e32c9fe] An authorised person must exercise powers of entry at a reasonable hour unless it appears to the authorised person that there are grounds for suspecting that the exercise of power of entry may be frustrated if he or she seeks to exercise them at a reasonable hour.
+(2)[^c-0aaffb5f4b2ae6ed17f550e51e32c9fe] An authorised person must exercise powers of entry at a reasonable hour unless it appears to the authorised person that there are grounds for suspecting that the exercise of power of entry may be frustrated if he or she seeks to exercise them at a reasonable hour.
 
-(3)[^key-c49d52739082a36696f0ab99ec9491bf] An authorised person who enters any unoccupied premises[^key-7bd052b4eacf317e6f763947eec1d8c7] must leave it as effectively secured against unauthorised entry as it was before entry.
+(3)[^c-c49d52739082a36696f0ab99ec9491bf] An authorised person who enters any unoccupied premises[^c-7bd052b4eacf317e6f763947eec1d8c7] must leave it as effectively secured against unauthorised entry as it was before entry.
 
-### 2. Search warrants[^key-ea7860e41321a2bdb8cab8913bdc3803]
+### 2. Search warrants[^c-ea7860e41321a2bdb8cab8913bdc3803]
 
-(1)[^key-f7ee0412037910bf08a193b65cf1f254] A lay magistrate may issue a warrant permitting an authorised person to enter any premises if necessary by reasonable force for the purposes of the enforcement of these Regulations if satisfied that the authorised person has reasonable grounds for requiring entry and any of the conditions set out in sub-paragraph 2(1A) are satisfied.
+(1)[^c-f7ee0412037910bf08a193b65cf1f254] A lay magistrate may issue a warrant permitting an authorised person to enter any premises if necessary by reasonable force for the purposes of the enforcement of these Regulations if satisfied that the authorised person has reasonable grounds for requiring entry and any of the conditions set out in sub-paragraph 2(1A) are satisfied.
 
-(1A)[^key-538cef0d883e0d69704dede6479303d1] The conditions referred to in paragraph 2(1) are that—
+(1A)[^c-538cef0d883e0d69704dede6479303d1] The conditions referred to in paragraph 2(1) are that—
 
 - (a) admission has been refused, or a refusal is expected, and (in either case) that notice to apply for a warrant has been given to the occupier;
 - (b) asking for admission, or the giving of such a notice, would defeat the object of the entry;
@@ -371,7 +371,7 @@ Regulation 6(2)
 - (b) that the warrant would be issued under this Schedule; and
 - (c) what is being sought.
 
-(3)[^key-9786d93919efb6452e6fe90f62d22440] An application for a warrant under paragraph 2(1), where the condition satisfied is set out at paragraph 2(1A)(a), must be made on notice and on sworn complaint in writing and, where the condition satisfied is set out in paragraph 2(1A)(b), (c) or (d), must be made without notice on sworn complaint in writing.
+(3)[^c-9786d93919efb6452e6fe90f62d22440] An application for a warrant under paragraph 2(1), where the condition satisfied is set out at paragraph 2(1A)(a), must be made on notice and on sworn complaint in writing and, where the condition satisfied is set out in paragraph 2(1A)(b), (c) or (d), must be made without notice on sworn complaint in writing.
 
 (4) A warrant shall authorise entry on one occasion only.
 
@@ -380,7 +380,7 @@ Regulation 6(2)
 - (a) the name of the person who applies for it;
 - (b) the date on which it is issued;
 - (c) that it is issued under this Schedule;
-- (d) the address of the premises to be entered and searched; and[^key-c94ff6446e8b495836998b9746b96a69]
+- (d) the address of the premises to be entered and searched; and[^c-c94ff6446e8b495836998b9746b96a69]
 
 identify, so far as is practicable, what is to be sought.
 
@@ -388,19 +388,19 @@ identify, so far as is practicable, what is to be sought.
 
 (7) The copies shall be clearly certified as copies.
 
-### 3. Execution of warrants[^key-3ad5a70b5d46abaaadb23747f0957d93]
+### 3. Execution of warrants[^c-3ad5a70b5d46abaaadb23747f0957d93]
 
 (1) Entry and search under a warrant must be within three months from the date of its issue.
 
-(2) Where the occupier of the premises[^key-3560d48f821bb20b6447e7599d69bade] to be entered and searched is present at the time when an authorised person seeks to execute a warrant to enter and search it, the authorised person shall—
+(2) Where the occupier of the premises[^c-3560d48f821bb20b6447e7599d69bade] to be entered and searched is present at the time when an authorised person seeks to execute a warrant to enter and search it, the authorised person shall—
 
 - (a) identify himself or herself to the occupier and shall produce to the occupier evidence of his or her authority;
 - (b) produce the warrant to the occupier; and
 - (c) supply the occupier with a copy of it.
 
-(3) Where the occupier of the premises[^key-d397d6b4aabd1c2422cc429b2701a187] is not present at the time when an authorised person seeks to execute such a warrant; but some other person who appears to the authorised person to be in charge of the premises is present, sub-paragraph (2) shall have effect as if any reference to the occupier were a reference to that other person.
+(3) Where the occupier of the premises[^c-d397d6b4aabd1c2422cc429b2701a187] is not present at the time when an authorised person seeks to execute such a warrant; but some other person who appears to the authorised person to be in charge of the premises is present, sub-paragraph (2) shall have effect as if any reference to the occupier were a reference to that other person.
 
-(4) If there is no person present who appears to the authorised person to be in charge of the premises[^key-475ff19d20eb7cc462147b10651b603f], the authorised person must leave a copy of the warrant in a prominent place on the premises.
+(4) If there is no person present who appears to the authorised person to be in charge of the premises[^c-475ff19d20eb7cc462147b10651b603f], the authorised person must leave a copy of the warrant in a prominent place on the premises.
 
 (5) A search under a warrant may only be a search to the extent required for the purpose for which the warrant was issued.
 
@@ -413,11 +413,11 @@ identify, so far as is practicable, what is to be sought.
 
 (8) A warrant which is returned under sub-paragraph (7) shall be retained for 12 months from its return by the clerk of the court for the area in which the lay magistrate was acting when the warrant was issued.
 
-(9) If during the period for which a warrant is to be retained the occupier of the premises[^key-7afd6b4551631a3052d718b26d0a8636] to which it relates asks to inspect it, such inspection shall be allowed.
+(9) If during the period for which a warrant is to be retained the occupier of the premises[^c-7afd6b4551631a3052d718b26d0a8636] to which it relates asks to inspect it, such inspection shall be allowed.
 
-### 4. General powers[^key-f53ea14b76165113ef961697fa721534]
+### 4. General powers[^c-f53ea14b76165113ef961697fa721534]
 
-(1)[^key-1639c7c43bc4e73ad03b359d6e440b0d] An authorised person exercising powers of entry pursuant to paragraph 1(1), or in accordance with a warrant granted under paragraph 2(1), may—
+(1)[^c-1639c7c43bc4e73ad03b359d6e440b0d] An authorised person exercising powers of entry pursuant to paragraph 1(1), or in accordance with a warrant granted under paragraph 2(1), may—
 
 - (a) search for any item, if necessary using reasonable force;
 - (b) open or examine, or both, anything that is on, attached to or otherwise forms part of the premises, if necessary using reasonable force;
@@ -429,11 +429,11 @@ identify, so far as is practicable, what is to be sought.
 - (h) photograph or copy anything which the authorised person has reasonable cause to believe may be relevant in connection with the enforcement of these Regulations; and
 - (i) seize any computers and associated equipment for the purpose of copying documents provided that they are returned as soon as practicable.
 
-(2) Any person who accompanies an authorised person in accordance with paragraph 4(1)(c)[^key-26a5af7a560039b35abe98a4168ed106] may perform any of the authorised person’s functions but only under the supervision of that authorised person.
+(2) Any person who accompanies an authorised person in accordance with paragraph 4(1)(c)[^c-26a5af7a560039b35abe98a4168ed106] may perform any of the authorised person’s functions but only under the supervision of that authorised person.
 
-(3) Where an authorised person takes samples under paragraph 4(1)(f)[^key-2729aa11aeeb8d5c5c187fa4bc221ea3] he or she may only take an amount that is reasonably needed for the performance of his or her functions under these Regulations.
+(3) Where an authorised person takes samples under paragraph 4(1)(f)[^c-2729aa11aeeb8d5c5c187fa4bc221ea3] he or she may only take an amount that is reasonably needed for the performance of his or her functions under these Regulations.
 
-(4) Nothing in paragraph 4(1)(g), (h) or (i)[^key-c605f36f350f82521ca9426859b140f4] shall be taken to compel the production by any person of a document which he or she would be entitled to refuse to produce on grounds of legal professional privilege in proceedings in the High Court in Northern Ireland.
+(4) Nothing in paragraph 4(1)(g), (h) or (i)[^c-c605f36f350f82521ca9426859b140f4] shall be taken to compel the production by any person of a document which he or she would be entitled to refuse to produce on grounds of legal professional privilege in proceedings in the High Court in Northern Ireland.
 
 (5) An authorised person may require any person to give him information as to the formulation, effects or use of any substance.
 
@@ -451,15 +451,15 @@ identify, so far as is practicable, what is to be sought.
 
 (9) No answer given by a person in pursuance of a requirement imposed under sub-paragraph (6) shall be admissible in evidence in Northern Ireland against that person, his or her spouse, or his or her civil partner in proceedings for any offence.
 
-### 5. Power of authorised person to use reasonable force[^key-931bb5076d0f6fd3ea93f8e7acec5856]
+### 5. Power of authorised person to use reasonable force[^c-931bb5076d0f6fd3ea93f8e7acec5856]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Protection of authorised persons[^key-b3ff817b0ddc008b147cd2db255dc398]
+### 6. Protection of authorised persons[^c-b3ff817b0ddc008b147cd2db255dc398]
 
 An authorised person shall not be liable in any civil or criminal proceedings for anything done in the purported performance of his or her functions as an authorised person if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
 
-### 7. Seizure and disposal of products and requirements to recover or export[^key-e992d2ce9447082901a0bbf84acd5cc1]
+### 7. Seizure and disposal of products and requirements to recover or export[^c-e992d2ce9447082901a0bbf84acd5cc1]
 
 (1) If an authorised person is of the opinion that a person is committing, has committed or is likely to commit an offence contrary to these Regulations, the authorised person has the power to—
 
@@ -491,21 +491,21 @@ An authorised person shall not be liable in any civil or criminal proceedings fo
 - (a) for the purposes of a notice under sub-paragraph (1)(a), the holder of any approval, authorisation or permission relating to the plant production product that has been seized, disposed of, or both, the owner of the plant protection product or any other person appearing to be in charge of it; and
 - (b) for the purposes of a notice under sub-paragraph (1)(b), any person appearing to the authorised person to be the owner of anything treated with the plant protection product seized, disposed of, or both, or the person appearing to the authorised person to be in charge of anything so treated.
 
-### 8. Enforcement Notices[^key-53eb446feef2a3159b583a9101dcf31f]
+### 8. Enforcement Notices[^c-53eb446feef2a3159b583a9101dcf31f]
 
 (1) If an authorised person is of the opinion that a person-
 
-- (a) is committing an offence under regulation 22[^key-83bb5f806e73e5b3f209fc599199fefc]; or
-- (b) has committed such an offence in circumstances that make it likely[^key-eba42ce363e7c810c1a20d083d6c4bff] that the offence will be repeated,
+- (a) is committing an offence under regulation 22[^c-83bb5f806e73e5b3f209fc599199fefc]; or
+- (b) has committed such an offence in circumstances that make it likely[^c-eba42ce363e7c810c1a20d083d6c4bff] that the offence will be repeated,
 
 he or she may serve on that person a notice in writing stating that he or she is of that opinion, specifying the offence as to which he or she is of that opinion and directing them to take either of the steps set out at sub-paragraph (2).
 
 (2) A notice under sub-paragraph (1) may direct–
 
-- (a) that any premises[^key-a8ba6846c33c7a48b25051d3f1828bfd] on or in which it appears that the offence was being committed or anything which is on or in it, shall be left undisturbed (whether generally or in particular respects) for as long as it appears to him to be reasonably necessary; or
+- (a) that any premises[^c-a8ba6846c33c7a48b25051d3f1828bfd] on or in which it appears that the offence was being committed or anything which is on or in it, shall be left undisturbed (whether generally or in particular respects) for as long as it appears to him to be reasonably necessary; or
 - (b) that remedial or preventative measures shall be taken.
 
-(3) If an authorised person is of the opinion that a person is committing, or is likely to commit, an offence under regulation 22[^key-e3b97d3b4786c15a0cb0653c5e41640c], he or she may serve on that person a notice—
+(3) If an authorised person is of the opinion that a person is committing, or is likely to commit, an offence under regulation 22[^c-e3b97d3b4786c15a0cb0653c5e41640c], he or she may serve on that person a notice—
 
 - (a) stating that opinion;
 - (b) specifying why he or she is of that opinion; and
@@ -521,17 +521,17 @@ he or she may serve on that person a notice in writing stating that he or she is
 
 Regulation 13(3)
 
-**1.**[^key-a98d58d9ff2f6c2c00763615f08dfe59] An adjuvant is authorised for use with an authorised plant protection product if it is included in a list of adjuvants published by the Secretary of State[^key-a213dafb243c949eb53cf24b11893969] from time to time (in this Schedule referred to as “the list”) or, if not included in the list, if it is used with an authorised plant protection product for the sole purpose of research and development. A person may apply to the Secretary of State for an adjuvant to be included on the list.
+**1.**[^c-a98d58d9ff2f6c2c00763615f08dfe59] An adjuvant is authorised for use with an authorised plant protection product if it is included in a list of adjuvants published by the Secretary of State[^c-a213dafb243c949eb53cf24b11893969] from time to time (in this Schedule referred to as “the list”) or, if not included in the list, if it is used with an authorised plant protection product for the sole purpose of research and development. A person may apply to the Secretary of State for an adjuvant to be included on the list.
 
-**2.**[^key-963b80394fd5b068c1bdff20475c221c] The Secretary of State may, in relation to any adjuvant for which an application has been made for inclusion on the list or which is included in the list, at any time—
+**2.**[^c-963b80394fd5b068c1bdff20475c221c] The Secretary of State may, in relation to any adjuvant for which an application has been made for inclusion on the list or which is included in the list, at any time—
 
 - (a) determine data requirements (concerning human safety or environmental protection) to which the inclusion, or the continued inclusion, of that adjuvant in the list shall be subject;
 - (b) determine requirements to which the use of that adjuvant with authorised plant protection products shall be subject; and
 - (c) for reasons of human safety or environmental protection, or with the consent of the applicant, amend any requirement which has been determined under sub-paragraph (a) or (b).
 
-**3.**[^key-dffa06dd7485d1bc301a6a43589e129f] The Secretary of State shall, in relation to any adjuvant included in the list, also include in that list any requirements which have been determined under paragraph 2(b) and any amendments to such requirements that have been made under paragraph 2(c).
+**3.**[^c-dffa06dd7485d1bc301a6a43589e129f] The Secretary of State shall, in relation to any adjuvant included in the list, also include in that list any requirements which have been determined under paragraph 2(b) and any amendments to such requirements that have been made under paragraph 2(c).
 
-**4.**[^key-2862d35662041fd74570c275227e292a] The Secretary of State may, in relation to any adjuvant included in the list, remove that adjuvant from the list—
+**4.**[^c-2862d35662041fd74570c275227e292a] The Secretary of State may, in relation to any adjuvant included in the list, remove that adjuvant from the list—
 
 - (a) if it appears to the Secretary of State that the applicant has failed to comply with any data requirement which has been determined in relation to that adjuvant under paragraph 2(a) or amended under paragraph 2(c);
 - (b) if it appears to the Secretary of State that any literature relating to the adjuvant is not in accordance with any requirement to which the use of that adjuvant is subject, as determined under paragraph 2(b) or amended under paragraph 2(c);
@@ -541,20 +541,20 @@ Regulation 13(3)
 - (d) for reasons of human safety or environmental protection; or
 - (e) at the request of the applicant.
 
-**5.**[^key-d68bb117d8306d92b4d0f92c19f91ca7] The Secretary of State shall, upon a decision to remove an adjuvant from the list, include in the list—
+**5.**[^c-d68bb117d8306d92b4d0f92c19f91ca7] The Secretary of State shall, upon a decision to remove an adjuvant from the list, include in the list—
 
 - (a) that decision; and
 - (b) the date on which, and any conditions in accordance with which, the removal is to take effect.
 
-**6.**[^key-40b72fdb9d80b840ecaa55bcdc5d81aa] In paragraph 4(c)(i), “literature relating to the adjuvant” means—
+**6.**[^c-40b72fdb9d80b840ecaa55bcdc5d81aa] In paragraph 4(c)(i), “literature relating to the adjuvant” means—
 
 - (a) the labelling of the packaging in which the adjuvant is contained;
 - (b) any leaflet accompanying that package; or
 - (c) any other material in writing produced by, or on behalf of, the applicant describing the adjuvant or how to use it.
 
-**7.**[^key-965ff088400c5ff3b64ef2753382d3a5] In paragraph 4(c)(ii) “authorisation” means any authorisation or permission granted, or deemed to be granted, in accordance with Regulation 1107/2009 and in paragraphs 1 and 2(b) “authorised” shall be construed accordingly.
+**7.**[^c-965ff088400c5ff3b64ef2753382d3a5] In paragraph 4(c)(ii) “authorisation” means any authorisation or permission granted, or deemed to be granted, in accordance with Regulation 1107/2009 and in paragraphs 1 and 2(b) “authorised” shall be construed accordingly.
 
-## SCHEDULE 3 — AMENDMENTS[^key-060b2f1a4979c4fc2d3d2222fac31423]
+## SCHEDULE 3 — AMENDMENTS[^c-060b2f1a4979c4fc2d3d2222fac31423]
 
 Regulation 28(1)
 
@@ -610,7 +610,7 @@ Regulation 28(1)
 
 [^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^f01006][^f01007]
 
-## SCHEDULE 4 — REVOCATIONS[^key-225811220a006eea31c131533e5a7fad]
+## SCHEDULE 4 — REVOCATIONS[^c-225811220a006eea31c131533e5a7fad]
 
 Regulation 28(2)
 
@@ -671,161 +671,161 @@ Regulation 28 provides for the amendments and revocations set out in Schedules 3
 
 [^f00006]: Footnote: OJ No. L230, 19.8.1991, p.1.
 
-[^key-dd70ef8fcd43d0ecf87e1b741c993836]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/295/regulation/1) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-dd70ef8fcd43d0ecf87e1b741c993836]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/295/regulation/1) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-f1404c9025aee1e8c5c13d5486cd7f6b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-f1404c9025aee1e8c5c13d5486cd7f6b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 414](https://www.legislation.gov.uk/nisr/1987/414), amended by [S.R. 1997 No. 469](https://www.legislation.gov.uk/nisr/1997/469)
 
 [^f00008]: Footnote: [S.R. 2005 No. 526](https://www.legislation.gov.uk/nisr/2005/526), amended by [S.R. 2008 No. 85](https://www.legislation.gov.uk/nisr/2008/85) & [S.R. 2008 No. 499](https://www.legislation.gov.uk/nisr/2008/499)
 
-[^key-ad33759ea6e38ec4c0418b319754cdb5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-ad33759ea6e38ec4c0418b319754cdb5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-e2b5eaa2ab6b2f10f4b5b206b4b0964c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) omitted (7.1.2019) by virtue of [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2018/188/regulation/9/2)
+[^c-e2b5eaa2ab6b2f10f4b5b206b4b0964c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) omitted (7.1.2019) by virtue of [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2018/188/regulation/9/2)
 
-[^key-2f44fdab4fe2fe33672e9b2fe3fdd706]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/2/1) inserted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [3](https://www.legislation.gov.uk/nisr/2012/12/regulation/3)
+[^c-2f44fdab4fe2fe33672e9b2fe3fdd706]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/2/1) inserted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [3](https://www.legislation.gov.uk/nisr/2012/12/regulation/3)
 
-[^key-f728d4e97c2772bed5455e2ae7e697e2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) inserted (31.12.2020) by [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [2(a)](https://www.legislation.gov.uk/nisr/2020/268/regulation/2/a)
+[^c-f728d4e97c2772bed5455e2ae7e697e2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2011/295/regulation/2) inserted (31.12.2020) by [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [2(a)](https://www.legislation.gov.uk/nisr/2020/268/regulation/2/a)
 
 [^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-76d9c6fe6fde25538833089a47a17fa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/295/regulation/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-76d9c6fe6fde25538833089a47a17fa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/295/regulation/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-9f169eaa9c92b704f42bb27cf5cc3a8a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/295/regulation/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-9f169eaa9c92b704f42bb27cf5cc3a8a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/295/regulation/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-3109fcd9137a2e7142476c6e025c77ab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/295/regulation/5) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-3109fcd9137a2e7142476c6e025c77ab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/295/regulation/5) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-3653a2222d18ded679e57772789eec94]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/295/regulation/6) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-3653a2222d18ded679e57772789eec94]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/295/regulation/6) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-c0432068100417e6238cf5f7572d99d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/295/regulation/7) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-c0432068100417e6238cf5f7572d99d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/295/regulation/7) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-d9c225cb7580b9bab4bca914469d9d81]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/295/regulation/8) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-d9c225cb7580b9bab4bca914469d9d81]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/295/regulation/8) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-b52b7eddbc771662f0c2797fa2d409b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/295/regulation/9) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-b52b7eddbc771662f0c2797fa2d409b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/295/regulation/9) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-14d8996f1be1ca3def4ef40c40ad33dc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/9/1) inserted (31.12.2020) by [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2020/268/regulation/2/b)
+[^c-14d8996f1be1ca3def4ef40c40ad33dc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/9/1) inserted (31.12.2020) by [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2020/268/regulation/2/b)
 
-[^key-342e2577a4b01878901d44c4a373a1a2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/295/regulation/10) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-342e2577a4b01878901d44c4a373a1a2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/295/regulation/10) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-385f34df99b8c21bf9a0db9e4d5f4676]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/295/regulation/11) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-385f34df99b8c21bf9a0db9e4d5f4676]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/295/regulation/11) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-03cb9af0778cbe4551c3949792f6bb2a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/295/regulation/12) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-03cb9af0778cbe4551c3949792f6bb2a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/295/regulation/12) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-0ae4623e5fba042bd92a5a1806a0d85c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/295/regulation/13) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-0ae4623e5fba042bd92a5a1806a0d85c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/295/regulation/13) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-2792e1bc573b6042792bcdd0ddd5a534]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/295/regulation/14) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-2792e1bc573b6042792bcdd0ddd5a534]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/295/regulation/14) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-f4b32892729df946aa264c74e2357c54]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/295/regulation/15) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-f4b32892729df946aa264c74e2357c54]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/295/regulation/15) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-baa305a56de697ab9b0e1bf974f4cc07]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/295/regulation/16) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-baa305a56de697ab9b0e1bf974f4cc07]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/295/regulation/16) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
 [^f00010]: Footnote: OJ No. L230, 19.8.1991, p.1.
 
-[^key-370193d7efaebeb61a2049ac5784023b]: Textual amendment: Words in [reg. 16(c)](https://www.legislation.gov.uk/nisr/2011/295/regulation/16/c) inserted (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2018/188/regulation/9/3)
+[^c-370193d7efaebeb61a2049ac5784023b]: Textual amendment: Words in [reg. 16(c)](https://www.legislation.gov.uk/nisr/2011/295/regulation/16/c) inserted (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2018/188/regulation/9/3)
 
-[^key-3d6cb1e4e5221b9218b2ded73f1d4379]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/295/regulation/17) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-3d6cb1e4e5221b9218b2ded73f1d4379]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/295/regulation/17) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-b953bc21e2f5faa2019a91103313001a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2011/295/regulation/18) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-b953bc21e2f5faa2019a91103313001a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2011/295/regulation/18) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-13781fb09b97c5729daebcc937b05565]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2011/295/regulation/19) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-13781fb09b97c5729daebcc937b05565]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2011/295/regulation/19) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-161b9ab674c595a46f7dfd9fec9532c7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/295/regulation/20) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-161b9ab674c595a46f7dfd9fec9532c7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/295/regulation/20) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-b17362453e79e67ae3b3eb6ce2f30df8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/295/regulation/21) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-b17362453e79e67ae3b3eb6ce2f30df8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/295/regulation/21) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-2fde0e871818c9109b3a1449390830a2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/295/regulation/22) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-2fde0e871818c9109b3a1449390830a2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/295/regulation/22) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-615df09fef49911d31763ee8b97ffaa2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/295/regulation/23) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-615df09fef49911d31763ee8b97ffaa2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/295/regulation/23) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-80f72393e08cedfa95e949b30639e955]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2011/295/regulation/24) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-80f72393e08cedfa95e949b30639e955]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2011/295/regulation/24) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-f967aea64c0e1f54cf0f9f99dd191a05]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/nisr/2011/295/regulation/24/4) deleted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/12/regulation/4)
+[^c-f967aea64c0e1f54cf0f9f99dd191a05]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/nisr/2011/295/regulation/24/4) deleted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/12/regulation/4)
 
-[^key-241ac29b8e00da58c9fe06b45bc503cf]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2011/295/regulation/25) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-241ac29b8e00da58c9fe06b45bc503cf]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2011/295/regulation/25) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-faf88bb443d07123f78a534377cfa784]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2011/295/regulation/26) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-faf88bb443d07123f78a534377cfa784]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2011/295/regulation/26) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-433358fc64bb1c0c26232bfd084e86c1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2011/295/regulation/27) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-433358fc64bb1c0c26232bfd084e86c1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2011/295/regulation/27) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-a17ddefb64308288ea4a2b7051c13bcf]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2011/295/regulation/28) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-a17ddefb64308288ea4a2b7051c13bcf]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2011/295/regulation/28) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-8311b0d64ed2dd486f3df044b2a2e4e5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-8311b0d64ed2dd486f3df044b2a2e4e5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-edb17141c8674f56a94ef3ffd6bb3783]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-edb17141c8674f56a94ef3ffd6bb3783]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-4b3911de114db88ca4b738a8d0b0fe48]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/2) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-4b3911de114db88ca4b738a8d0b0fe48]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/2) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-1248771ffcdc9960331a93c793dfa9b4]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/3) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-1248771ffcdc9960331a93c793dfa9b4]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/3) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-0aaffb5f4b2ae6ed17f550e51e32c9fe]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/2): Sch. 1 para. 1(4) renumbered as Sch. 1 para. 1(2) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-0aaffb5f4b2ae6ed17f550e51e32c9fe]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/2): Sch. 1 para. 1(4) renumbered as Sch. 1 para. 1(2) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-c49d52739082a36696f0ab99ec9491bf]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/3): Sch. 1 para. 1(5) renumbered as Sch. 1 para. 1(3) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-c49d52739082a36696f0ab99ec9491bf]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/3): Sch. 1 para. 1(5) renumbered as Sch. 1 para. 1(3) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-7bd052b4eacf317e6f763947eec1d8c7]: Textual amendment: Word in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-7bd052b4eacf317e6f763947eec1d8c7]: Textual amendment: Word in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/1/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-ea7860e41321a2bdb8cab8913bdc3803]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-ea7860e41321a2bdb8cab8913bdc3803]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-f7ee0412037910bf08a193b65cf1f254]: Textual amendment: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-f7ee0412037910bf08a193b65cf1f254]: Textual amendment: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-538cef0d883e0d69704dede6479303d1]: Textual amendment: [Sch. 1 para. 2(1A)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/1A) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-538cef0d883e0d69704dede6479303d1]: Textual amendment: [Sch. 1 para. 2(1A)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/1A) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-9786d93919efb6452e6fe90f62d22440]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-9786d93919efb6452e6fe90f62d22440]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-c94ff6446e8b495836998b9746b96a69]: Textual amendment: Words in [Sch. 1 para. 2(5)(d)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/5/d) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-c94ff6446e8b495836998b9746b96a69]: Textual amendment: Words in [Sch. 1 para. 2(5)(d)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/2/5/d) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-3ad5a70b5d46abaaadb23747f0957d93]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-3ad5a70b5d46abaaadb23747f0957d93]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-3560d48f821bb20b6447e7599d69bade]: Textual amendment: Word in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/2) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-3560d48f821bb20b6447e7599d69bade]: Textual amendment: Word in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/2) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-d397d6b4aabd1c2422cc429b2701a187]: Textual amendment: Word in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-d397d6b4aabd1c2422cc429b2701a187]: Textual amendment: Word in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-475ff19d20eb7cc462147b10651b603f]: Textual amendment: Word in [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-475ff19d20eb7cc462147b10651b603f]: Textual amendment: Word in [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-7afd6b4551631a3052d718b26d0a8636]: Textual amendment: Word in [Sch. 1 para. 3(9)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/9) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-7afd6b4551631a3052d718b26d0a8636]: Textual amendment: Word in [Sch. 1 para. 3(9)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/3/9) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-f53ea14b76165113ef961697fa721534]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-f53ea14b76165113ef961697fa721534]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-1639c7c43bc4e73ad03b359d6e440b0d]: Textual amendment: [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-1639c7c43bc4e73ad03b359d6e440b0d]: Textual amendment: [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-26a5af7a560039b35abe98a4168ed106]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/2) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-26a5af7a560039b35abe98a4168ed106]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/2) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-2729aa11aeeb8d5c5c187fa4bc221ea3]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-2729aa11aeeb8d5c5c187fa4bc221ea3]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-c605f36f350f82521ca9426859b140f4]: Textual amendment: Words in [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-c605f36f350f82521ca9426859b140f4]: Textual amendment: Words in [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/4/4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-931bb5076d0f6fd3ea93f8e7acec5856]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/5) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-931bb5076d0f6fd3ea93f8e7acec5856]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/5) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-b3ff817b0ddc008b147cd2db255dc398]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/6) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-b3ff817b0ddc008b147cd2db255dc398]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/6) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-e992d2ce9447082901a0bbf84acd5cc1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/7) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-e992d2ce9447082901a0bbf84acd5cc1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/7) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-53eb446feef2a3159b583a9101dcf31f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-53eb446feef2a3159b583a9101dcf31f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-83bb5f806e73e5b3f209fc599199fefc]: Textual amendment: Words in [Sch. 1 para. 8(1)(a)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/1/a) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/12/regulation/5)
+[^c-83bb5f806e73e5b3f209fc599199fefc]: Textual amendment: Words in [Sch. 1 para. 8(1)(a)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/1/a) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/12/regulation/5)
 
-[^key-eba42ce363e7c810c1a20d083d6c4bff]: Textual amendment: Word in [Sch. 1 para. 8(1)(b)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/1/b) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/12/regulation/6)
+[^c-eba42ce363e7c810c1a20d083d6c4bff]: Textual amendment: Word in [Sch. 1 para. 8(1)(b)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/1/b) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/12/regulation/6)
 
-[^key-a8ba6846c33c7a48b25051d3f1828bfd]: Textual amendment: Word in [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/2/a) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+[^c-a8ba6846c33c7a48b25051d3f1828bfd]: Textual amendment: Word in [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/2/a) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
 
-[^key-e3b97d3b4786c15a0cb0653c5e41640c]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/3) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/12/regulation/5)
+[^c-e3b97d3b4786c15a0cb0653c5e41640c]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nisr/2011/295/schedule/1/paragraph/8/3) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/12/regulation/5)
 
-[^key-a98d58d9ff2f6c2c00763615f08dfe59]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/1) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-a98d58d9ff2f6c2c00763615f08dfe59]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/1) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-a213dafb243c949eb53cf24b11893969]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/295/schedule/2) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [7](https://www.legislation.gov.uk/nisr/2012/12/regulation/7)
+[^c-a213dafb243c949eb53cf24b11893969]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2011/295/schedule/2) substituted (29.2.2012) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/12)](https://www.legislation.gov.uk/nisr/2012/12), [regs. 1](https://www.legislation.gov.uk/nisr/2012/12/regulation/1), [7](https://www.legislation.gov.uk/nisr/2012/12/regulation/7)
 
-[^key-963b80394fd5b068c1bdff20475c221c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/2) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-963b80394fd5b068c1bdff20475c221c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/2) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-dffa06dd7485d1bc301a6a43589e129f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-dffa06dd7485d1bc301a6a43589e129f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-2862d35662041fd74570c275227e292a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-2862d35662041fd74570c275227e292a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-d68bb117d8306d92b4d0f92c19f91ca7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/5) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-d68bb117d8306d92b4d0f92c19f91ca7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/5) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-40b72fdb9d80b840ecaa55bcdc5d81aa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/6) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-40b72fdb9d80b840ecaa55bcdc5d81aa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/6) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-965ff088400c5ff3b64ef2753382d3a5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/7) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-965ff088400c5ff3b64ef2753382d3a5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2011/295/schedule/2/paragraph/7) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
-[^key-060b2f1a4979c4fc2d3d2222fac31423]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2011/295/schedule/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-060b2f1a4979c4fc2d3d2222fac31423]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2011/295/schedule/3) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
 
 [^f01000]: Footnote: (1)
 
@@ -859,4 +859,4 @@ Regulation 28 provides for the amendments and revocations set out in Schedules 3
 
     [S.R. 2009 No.273](https://www.legislation.gov.uk/nisr/2009/273)
 
-[^key-225811220a006eea31c131533e5a7fad]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2011/295/schedule/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)
+[^c-225811220a006eea31c131533e5a7fad]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2011/295/schedule/4) in operation at 4.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/295/regulation/1/1)

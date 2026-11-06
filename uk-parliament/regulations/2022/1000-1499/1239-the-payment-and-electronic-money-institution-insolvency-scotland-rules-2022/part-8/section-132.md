@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Grounds for resignation[^key-1518e4a6150ecf36b67cb79d8b2ce20c]
+## 132. Grounds for resignation[^c-1518e4a6150ecf36b67cb79d8b2ce20c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1518e4a6150ecf36b67cb79d8b2ce20c]: Commencement: Rule 132 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-1518e4a6150ecf36b67cb79d8b2ce20c]: Commencement: Rule 132 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

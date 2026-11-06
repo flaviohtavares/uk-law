@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Ministerial guidance on reports following assessments of rent conditions[^key-d418e11ed13caca3be5289bd3e57d5bb][^key-595725f9fc22836fbc5c4b5210ffdcef]
+## 7. Ministerial guidance on reports following assessments of rent conditions[^c-d418e11ed13caca3be5289bd3e57d5bb][^c-595725f9fc22836fbc5c4b5210ffdcef]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d418e11ed13caca3be5289bd3e57d5bb]: Commencement: S. 7 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-d418e11ed13caca3be5289bd3e57d5bb]: Commencement: S. 7 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-595725f9fc22836fbc5c4b5210ffdcef]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/13/section/7) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-595725f9fc22836fbc5c4b5210ffdcef]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/13/section/7) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

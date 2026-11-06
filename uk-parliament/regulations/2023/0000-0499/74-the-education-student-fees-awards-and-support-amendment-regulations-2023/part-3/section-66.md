@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Insertion of definition of “immigration rules”[^key-86b7ef63f6dd5c7fecbd2ddce375f9f9]
+## 66. Insertion of definition of “immigration rules”[^c-86b7ef63f6dd5c7fecbd2ddce375f9f9]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ In regulation 3(1) (interpretation)[^f00058]—
   - (ii) in paragraph (a)(ii), for “Immigration Rules as defined in section 33(1) of the Immigration Act 1971” substitute “immigration rules;
 - (i) in the definition of “person granted stateless leave”, in paragraph (a) omit “(within the meaning given in section 33(1) of the Immigration Act 1971)”.
 
-**67.**[^key-9ecf5dcbf846338df70241e48c852676] (1) Schedule 1 (eligible students)[^f00059] is amended as follows.
+**67.**[^c-9ecf5dcbf846338df70241e48c852676] (1) Schedule 1 (eligible students)[^f00059] is amended as follows.
 
 (2) In Part 1 (interpretation), in paragraph 1(1)—
 
@@ -56,10 +56,10 @@ In regulation 3(1) (interpretation)[^f00058]—
 
 ## Annotations
 
-[^key-86b7ef63f6dd5c7fecbd2ddce375f9f9]: Commencement: Reg. 66 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-86b7ef63f6dd5c7fecbd2ddce375f9f9]: Commencement: Reg. 66 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00058]: Footnote: Relevant amending instruments are [S.I. 2011/83](https://www.legislation.gov.uk/uksi/2011/83), [2018/137](https://www.legislation.gov.uk/uksi/2018/137), [2020/48](https://www.legislation.gov.uk/uksi/2020/48), [2020/1203](https://www.legislation.gov.uk/uksi/2020/1203), [2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and [2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-9ecf5dcbf846338df70241e48c852676]: Commencement: Reg. 67 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-9ecf5dcbf846338df70241e48c852676]: Commencement: Reg. 67 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00059]: Footnote: Relevant amending instruments are [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and [2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 4A was inserted by [S.I. 2018/137](https://www.legislation.gov.uk/uksi/2018/137) and amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203).

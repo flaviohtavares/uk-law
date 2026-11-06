@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Final infringement notice[^key-7107d9379ea7d372f6f21f0f9eaf9dbb][^key-121253368a3acfad109757e5bd7d49b6]
+## 182. Final infringement notice[^c-7107d9379ea7d372f6f21f0f9eaf9dbb][^c-121253368a3acfad109757e5bd7d49b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7107d9379ea7d372f6f21f0f9eaf9dbb]: Commencement: S. 182 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7107d9379ea7d372f6f21f0f9eaf9dbb]: Commencement: S. 182 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-121253368a3acfad109757e5bd7d49b6]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2024/13/section/182) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-121253368a3acfad109757e5bd7d49b6]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2024/13/section/182) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

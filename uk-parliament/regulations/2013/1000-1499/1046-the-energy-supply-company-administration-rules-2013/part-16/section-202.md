@@ -24,8 +24,8 @@ summary: ''
 
 (2) The registrar or district judge may authorise any act of a formal or administrative character which is not by statute the registrar's or district judge's responsibility to be carried out by the chief clerk or any other officer of the court acting on the registrar's or district judge's behalf, in accordance with directions given by the Lord Chancellor.
 
-(3) In energy supply company administration proceedings, “**the registrar**” means a Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-faac3023fcd00928a2014a400edc8ac6] an Insolvency and Companies Court Judge *(Extent: E+W)*.
+(3) In energy supply company administration proceedings, “**the registrar**” means a Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^c-faac3023fcd00928a2014a400edc8ac6] an Insolvency and Companies Court Judge *(Extent: E+W)*.
 
 ## Annotations
 
-[^key-faac3023fcd00928a2014a400edc8ac6]: Textual amendment: Words in [rule 202(3)](https://www.legislation.gov.uk/uksi/2013/1046/rule/202/3) substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(i)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/i)
+[^c-faac3023fcd00928a2014a400edc8ac6]: Textual amendment: Words in [rule 202(3)](https://www.legislation.gov.uk/uksi/2013/1046/rule/202/3) substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 12(1)(i)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/12/1/i)

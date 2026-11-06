@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Cattle Database (Amendment) (Wales) Regulations 2002 (revoked)[^key-d1c94ac6f9e2052b820668f5fe389076]
+The Cattle Database (Amendment) (Wales) Regulations 2002 (revoked)[^c-d1c94ac6f9e2052b820668f5fe389076]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 11th February 2002
 
-[^key-d1c94ac6f9e2052b820668f5fe389076]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c94ac6f9e2052b820668f5fe389076]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-d1c94ac6f9e2052b820668f5fe389076]
+## 1. Title, application and commencement[^c-d1c94ac6f9e2052b820668f5fe389076]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Cattle Database Regulations 1998[^key-d1c94ac6f9e2052b820668f5fe389076]
+## 2. Amendment to the Cattle Database Regulations 1998[^c-d1c94ac6f9e2052b820668f5fe389076]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1c94ac6f9e2052b820668f5fe389076]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c94ac6f9e2052b820668f5fe389076]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1c94ac6f9e2052b820668f5fe389076]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c94ac6f9e2052b820668f5fe389076]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1c94ac6f9e2052b820668f5fe389076]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification (Wales) Regulations 2007 (S.I. 2007/842)](https://www.legislation.gov.uk/uksi/2007/842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/842/regulation/1), [17(g)](https://www.legislation.gov.uk/uksi/2007/842/regulation/17/g)
+[^c-d1c94ac6f9e2052b820668f5fe389076]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification (Wales) Regulations 2007 (S.I. 2007/842)](https://www.legislation.gov.uk/uksi/2007/842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/842/regulation/1), [17(g)](https://www.legislation.gov.uk/uksi/2007/842/regulation/17/g)

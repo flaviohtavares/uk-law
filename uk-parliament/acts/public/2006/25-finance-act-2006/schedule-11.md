@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Insurance companies[^key-1151222267dcfa83468b9943f241c1cf]
+## SCHEDULE 11 — Insurance companies[^c-1151222267dcfa83468b9943f241c1cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Section 86
 
-### Continuing the effect of orders under section 431A(3) of ICTA[^key-1151222267dcfa83468b9943f241c1cf]
+### Continuing the effect of orders under section 431A(3) of ICTA[^c-1151222267dcfa83468b9943f241c1cf]
 
-**1.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Section 432B apportionment: participating funds[^key-1151222267dcfa83468b9943f241c1cf]
+### Section 432B apportionment: participating funds[^c-1151222267dcfa83468b9943f241c1cf]
 
-**2.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transfers of business: excess of assets or liabilities[^key-1151222267dcfa83468b9943f241c1cf]
+### Transfers of business: excess of assets or liabilities[^c-1151222267dcfa83468b9943f241c1cf]
 
-**3.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transfers of business: modification of s. 83(2B) of FA 1989[^key-1151222267dcfa83468b9943f241c1cf]
+### Transfers of business: modification of s. 83(2B) of FA 1989[^c-1151222267dcfa83468b9943f241c1cf]
 
-**4.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Surpluses of mutual and former mutual businesses[^key-1151222267dcfa83468b9943f241c1cf]
+### Surpluses of mutual and former mutual businesses[^c-1151222267dcfa83468b9943f241c1cf]
 
-**5.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Receipts to be taken into account[^key-1151222267dcfa83468b9943f241c1cf]
+### Receipts to be taken into account[^c-1151222267dcfa83468b9943f241c1cf]
 
-**6.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Changes in value of assets brought into account: non-profit companies[^key-1151222267dcfa83468b9943f241c1cf]
+### Changes in value of assets brought into account: non-profit companies[^c-1151222267dcfa83468b9943f241c1cf]
 
-**7.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Contingent loans[^key-1151222267dcfa83468b9943f241c1cf]
+### Contingent loans[^c-1151222267dcfa83468b9943f241c1cf]
 
-**8.**[^key-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1151222267dcfa83468b9943f241c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1151222267dcfa83468b9943f241c1cf]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/11) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(o)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/o/ii)
+[^c-1151222267dcfa83468b9943f241c1cf]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/11) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(o)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/o/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 227. Right of attendance[^key-6e3043edce2bd3204bc067626091a29d]
+## 227. Right of attendance[^c-6e3043edce2bd3204bc067626091a29d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e3043edce2bd3204bc067626091a29d]: Commencement: Rule 227 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6e3043edce2bd3204bc067626091a29d]: Commencement: Rule 227 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

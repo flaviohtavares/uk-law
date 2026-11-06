@@ -34,7 +34,7 @@ summary: ''
 - (c) alter the time at or from which any pension or gratuity would otherwise be payable to such persons under those Regulations;
 - (d) provide for the making of payments to such persons which would otherwise not be made under those Regulations.
 
-(4)[^key-cfa40e116003011b2ab1c5bf66687534] Sections 25(8) and 26(6) of the Police (Northern Ireland) Act 1998 (requirement to consult the Board and the Police Association before making regulations) shall not apply in relation to regulations made by virtue of this section.
+(4)[^c-cfa40e116003011b2ab1c5bf66687534] Sections 25(8) and 26(6) of the Police (Northern Ireland) Act 1998 (requirement to consult the Board and the Police Association before making regulations) shall not apply in relation to regulations made by virtue of this section.
 
 (5) In section 26(2)(g) of the 1998 Act (application to reserve constables of provision with respect to pensions made under section 25 of that Act)—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c1055563]: Marginal citation: SR 1988/374.
 
-[^key-cfa40e116003011b2ab1c5bf66687534]: Textual amendment: [S. 49(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/49/4) substituted (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 91](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/91) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/iv)
+[^c-cfa40e116003011b2ab1c5bf66687534]: Textual amendment: [S. 49(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/49/4) substituted (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 91](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/91) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/f/iv)

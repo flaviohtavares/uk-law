@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Restriction on total amount of pension that may be allocated[^key-830172ba3693a1991011294ff455f43a]
+## 87. Restriction on total amount of pension that may be allocated[^c-830172ba3693a1991011294ff455f43a]
 
 *Extent: E+W+S+N.I.*
 
 (1) The sum of the following must not exceed an amount equal to the annual rate of retirement pension that would be payable to the member (P)—
 
-- (a) the total amount of retirement pension allocated under this Chapter[^key-806ee202aee35abd84a3ab646ef91d3d] (“total allocation amount”); and
+- (a) the total amount of retirement pension allocated under this Chapter[^c-806ee202aee35abd84a3ab646ef91d3d] (“total allocation amount”); and
 - (b) the annual rate of surviving adult’s pension that would be payable on P’s death.
 
 (2) In determining whether the restriction in paragraph (1) is met, it is assumed that—
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-830172ba3693a1991011294ff455f43a]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2014/1964/regulation/87) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-830172ba3693a1991011294ff455f43a]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2014/1964/regulation/87) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-806ee202aee35abd84a3ab646ef91d3d]: Textual amendment: Word in [reg. 87(1)(a)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/87/1/a) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(6)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/6)
+[^c-806ee202aee35abd84a3ab646ef91d3d]: Textual amendment: Word in [reg. 87(1)(a)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/87/1/a) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(6)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/6)
 
 [^f00059]: Footnote: Paragraph 15(3) was amended by [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).

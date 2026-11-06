@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Application of the 1981 Act[^key-0d8e89b58ccf1c6d17ccfc8af5e41b14]
+## 29. Application of the 1981 Act[^c-0d8e89b58ccf1c6d17ccfc8af5e41b14]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0d8e89b58ccf1c6d17ccfc8af5e41b14]: Commencement: Art. 29 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-0d8e89b58ccf1c6d17ccfc8af5e41b14]: Commencement: Art. 29 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
 
 [^c24427601]: Marginal citation: [Section 5](https://www.legislation.gov.uk/uksi/2021/74/section/5) was amended by paragraphs 4 and 6 of Schedule 15 to the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

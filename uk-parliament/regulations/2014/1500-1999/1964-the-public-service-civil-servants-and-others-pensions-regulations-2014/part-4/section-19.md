@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Automatic enrolment[^key-8f413f286de911db137fb589c54e8e37]
+## 19. Automatic enrolment[^c-8f413f286de911db137fb589c54e8e37]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f413f286de911db137fb589c54e8e37]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/1964/regulation/19) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-8f413f286de911db137fb589c54e8e37]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/1964/regulation/19) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## .... Treatment of cases involving double tax relief[^key-fc69ee21e0966e00ebe9819ac988ecd1][^key-fc69ee21e0966e00ebe9819ac988ecd1]
+## .... Treatment of cases involving double tax relief[^c-fc69ee21e0966e00ebe9819ac988ecd1][^c-fc69ee21e0966e00ebe9819ac988ecd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc69ee21e0966e00ebe9819ac988ecd1]: Textual amendment: Pt. 15 Ch. 13 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(15)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/15) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-fc69ee21e0966e00ebe9819ac988ecd1]: Textual amendment: Pt. 15 Ch. 13 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(15)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/15) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

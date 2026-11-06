@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 4) Order 2008 (revoked)[^key-50a4f124f22c49f2d4c03be60e3925b8]
+The European Communities (Designation) (No. 4) Order 2008 (revoked)[^c-50a4f124f22c49f2d4c03be60e3925b8]
 
 Made
 
@@ -52,36 +52,36 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-50a4f124f22c49f2d4c03be60e3925b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50a4f124f22c49f2d4c03be60e3925b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-50a4f124f22c49f2d4c03be60e3925b8]
+## 1. Citation, commencement and interpretation[^c-50a4f124f22c49f2d4c03be60e3925b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to consumer credit[^key-50a4f124f22c49f2d4c03be60e3925b8]
+## 2. Designation in relation to consumer credit[^c-50a4f124f22c49f2d4c03be60e3925b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to the European Parliament[^key-50a4f124f22c49f2d4c03be60e3925b8]
+## 3. Designation in relation to the European Parliament[^c-50a4f124f22c49f2d4c03be60e3925b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-50a4f124f22c49f2d4c03be60e3925b8]
+## 4. Relationship with other designations[^c-50a4f124f22c49f2d4c03be60e3925b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-50a4f124f22c49f2d4c03be60e3925b8]
+## 5. Revocations[^c-50a4f124f22c49f2d4c03be60e3925b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50a4f124f22c49f2d4c03be60e3925b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50a4f124f22c49f2d4c03be60e3925b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-50a4f124f22c49f2d4c03be60e3925b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50a4f124f22c49f2d4c03be60e3925b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50a4f124f22c49f2d4c03be60e3925b8]: Textual amendment: Order revoked (26.6.2014) by [The European Communities (Designation) Order 2014 (S.I. 2014/1362)](https://www.legislation.gov.uk/uksi/2014/1362), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1362/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1362/article/4/2)
+[^c-50a4f124f22c49f2d4c03be60e3925b8]: Textual amendment: Order revoked (26.6.2014) by [The European Communities (Designation) Order 2014 (S.I. 2014/1362)](https://www.legislation.gov.uk/uksi/2014/1362), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1362/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1362/article/4/2)

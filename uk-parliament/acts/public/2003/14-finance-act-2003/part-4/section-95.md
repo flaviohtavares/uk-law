@@ -25,10 +25,10 @@ summary: ''
 (2) A person guilty of an offence under this section is liable—
 
 - (a) on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum, or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 14[^key-8341575b9e1a8ad4614b64e5411e605d] years or a fine, or both.
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 14[^c-8341575b9e1a8ad4614b64e5411e605d] years or a fine, or both.
 
 ## Annotations
 
 [^c5522151]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, [Sch. 19 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/19/paragraph/1/1)
 
-[^key-8341575b9e1a8ad4614b64e5411e605d]: Textual amendment: Word in [s. 95(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/95/2/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-8341575b9e1a8ad4614b64e5411e605d]: Textual amendment: Word in [s. 95(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/95/2/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))

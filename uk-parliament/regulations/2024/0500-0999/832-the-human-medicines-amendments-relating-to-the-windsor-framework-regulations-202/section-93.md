@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Amendment to regulation 202[^key-46e9490edd622c28aac89e2f90b84506]
+## 93. Amendment to regulation 202[^c-46e9490edd622c28aac89e2f90b84506]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 202(1) (follow-up of final study reports)[^f00103], for “UKMA(UK
 
 ## Annotations
 
-[^key-46e9490edd622c28aac89e2f90b84506]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2024/832/regulation/93) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-46e9490edd622c28aac89e2f90b84506]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2024/832/regulation/93) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00103]: Footnote: Paragraph (1) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Double jeopardy[^key-dd1e8bdc7b49f2e11914c32685418489]
+## 158. Double jeopardy[^c-dd1e8bdc7b49f2e11914c32685418489]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person is not liable to a penalty under this Act in respect of anything in res
 
 ## Annotations
 
-[^key-dd1e8bdc7b49f2e11914c32685418489]: Commencement: [S. 158](https://www.legislation.gov.uk/asp/2014/16/section/158) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-dd1e8bdc7b49f2e11914c32685418489]: Commencement: [S. 158](https://www.legislation.gov.uk/asp/2014/16/section/158) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)

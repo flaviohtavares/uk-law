@@ -113,7 +113,7 @@ a claim for an employment and support allowance or a jobseeker's allowance is tr
 
 (5) Article 3A of the No. 9 Order [^c2242788] applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives or give incorrect information regarding his or her (or their) residing in one of the No. 50, No. 51 or No. 52 relevant districts, as it applies in connection with the giving of incorrect information regarding a claimant residing in one of the relevant districts (as defined in the No. 9 Order).
 
-## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance[^key-c8f0aa940f9cdf4f2e0457bac348df29]
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance[^c-c8f0aa940f9cdf4f2e0457bac348df29]
 
 (1) The day appointed for the coming into force of the amending provisions, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
 
@@ -191,7 +191,7 @@ a claim for an employment and support allowance or a jobseeker's allowance is tr
 
 Articles 9 to 22 of the No. 9 Order [^c2242793] apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in sub-paragraph (a), (b) or (g) of article 4(2) of the No. 9 Order and any award made in respect of the claim.
 
-## 7. Transitional provision: claims for housing benefit, income support or a tax credit[^key-e9d2ca35e922cdf16426a606c08226e1]
+## 7. Transitional provision: claims for housing benefit, income support or a tax credit[^c-e9d2ca35e922cdf16426a606c08226e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -240,18 +240,18 @@ Articles 9 to 22 of the No. 9 Order [^c2242793] apply in connection with the com
 (5) With effect from 18th March 2015, article 6 of the No. 21 Order is amended as follows—
 
 - (a) in paragraph (1), for “(2) to (5)” substitute “ (2) to (5) and (11) ”;
-- (b) in paragraph (9)(b), for regulations 6(1A)(b) substitute “regulation 6(1A)(b) or 6A”[^key-cc29ad46cb839fc73e7e7f485d7e375f]; and
+- (b) in paragraph (9)(b), for regulations 6(1A)(b) substitute “regulation 6(1A)(b) or 6A”[^c-cc29ad46cb839fc73e7e7f485d7e375f]; and
 - (c) after paragraph (10) insert—
 
   > (11) Paragraph (1) does not apply to a claim for housing benefit, income support or a tax credit where, by virtue of a determination made under regulation 4 of the Universal Credit (Transitional Provisions) Regulations 2014, the person in question would be prevented from making a claim for universal credit as referred to in that paragraph.
 
   .
 
-## 10. Modification of the Universal Credit (Digital Service) Amendment Regulations 2014[^key-623f930d95f20c5a9c968cc42f67d3eb]
+## 10. Modification of the Universal Credit (Digital Service) Amendment Regulations 2014[^c-623f930d95f20c5a9c968cc42f67d3eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Modification of the Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015[^key-af0f4e53e3f7198968e4f4b2ec32577b]
+## 11. Modification of the Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015[^c-af0f4e53e3f7198968e4f4b2ec32577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -621,7 +621,7 @@ The following provisions of the Welfare Reform Act 2012 (c.5) were brought into 
 
 [^c2242788]: Marginal citation: [Article 3A](https://www.legislation.gov.uk/uksi/2015/634/article/3A) was substituted by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923) (C. 88) and is amended by article 8 of this Order.
 
-[^key-c8f0aa940f9cdf4f2e0457bac348df29]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by (S.I. 2020/826), regs. 1, 2(2))
+[^c-c8f0aa940f9cdf4f2e0457bac348df29]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by (S.I. 2020/826), regs. 1, 2(2))
 
 [^c2242789]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 
@@ -633,16 +633,16 @@ The following provisions of the Welfare Reform Act 2012 (c.5) were brought into 
 
 [^c2242793]: Marginal citation: [Articles 10 to 13](https://www.legislation.gov.uk/uksi/2015/634/article/10) of, and Schedule 4 to, the No. 9 Order (Schedule 4 takes effect under article 9) were amended by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511) (C.60); [article 11](https://www.legislation.gov.uk/uksi/2015/634/article/11) of the No. 9 Order was amended by [S.I. 2013/2657](https://www.legislation.gov.uk/uksi/2013/2657) (C.107); [articles 9](https://www.legislation.gov.uk/uksi/2015/634/article/9), [11](https://www.legislation.gov.uk/uksi/2015/634/article/11), [13](https://www.legislation.gov.uk/uksi/2015/634/article/13), [15](https://www.legislation.gov.uk/uksi/2015/634/article/15), [18](https://www.legislation.gov.uk/uksi/2015/634/article/18) and 22 of the No. 9 Order were amended by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) (C.56); [articles 10](https://www.legislation.gov.uk/uksi/2015/634/article/10), [11](https://www.legislation.gov.uk/uksi/2015/634/article/11), [12](https://www.legislation.gov.uk/uksi/2015/634/article/12) and 13 were amended by [S.I. 2014/3067](https://www.legislation.gov.uk/uksi/2014/3067) (C.129).
 
-[^key-e9d2ca35e922cdf16426a606c08226e1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2015/634/article/7) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/6)
+[^c-e9d2ca35e922cdf16426a606c08226e1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2015/634/article/7) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/6)
 
 [^c2242808]: Marginal citation: [Article 5A](https://www.legislation.gov.uk/uksi/2015/634/article/5A) was inserted by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) (C. 56) and amended by [S.I. 2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) (C. 99).
 
 [^c2242809]: Marginal citation: Paragraphs (5) to (7) were substituted by [S.I. 2015/32](https://www.legislation.gov.uk/uksi/2015/32) (C. 3).
 
-[^key-cc29ad46cb839fc73e7e7f485d7e375f]: Textual amendment: Words in art. 9(5)(b) substituted (17.3.2015) by [The Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) (Amendment) Order 2015 (S.I. 2015/740)](https://www.legislation.gov.uk/uksi/2015/740), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/740/article/2/b)
+[^c-cc29ad46cb839fc73e7e7f485d7e375f]: Textual amendment: Words in art. 9(5)(b) substituted (17.3.2015) by [The Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) (Amendment) Order 2015 (S.I. 2015/740)](https://www.legislation.gov.uk/uksi/2015/740), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/740/article/2/b)
 
-[^key-623f930d95f20c5a9c968cc42f67d3eb]: Textual amendment: Art. 10 revoked (2.12.2015) by [The Welfare Reform Act 2012 (Commencement No. 25 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/1930)](https://www.legislation.gov.uk/uksi/2015/1930), [art. 8](https://www.legislation.gov.uk/uksi/2015/1930/article/8)
+[^c-623f930d95f20c5a9c968cc42f67d3eb]: Textual amendment: Art. 10 revoked (2.12.2015) by [The Welfare Reform Act 2012 (Commencement No. 25 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/1930)](https://www.legislation.gov.uk/uksi/2015/1930), [art. 8](https://www.legislation.gov.uk/uksi/2015/1930/article/8)
 
-[^key-af0f4e53e3f7198968e4f4b2ec32577b]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2015/634/article/11) revoked (2.12.2015) by [The Welfare Reform Act 2012 (Commencement No. 25 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/1930)](https://www.legislation.gov.uk/uksi/2015/1930), [art. 8](https://www.legislation.gov.uk/uksi/2015/1930/article/8)
+[^c-af0f4e53e3f7198968e4f4b2ec32577b]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2015/634/article/11) revoked (2.12.2015) by [The Welfare Reform Act 2012 (Commencement No. 25 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/1930)](https://www.legislation.gov.uk/uksi/2015/1930), [art. 8](https://www.legislation.gov.uk/uksi/2015/1930/article/8)
 
 [^c2242812]: Marginal citation: [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) was amended by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440) and 2530.

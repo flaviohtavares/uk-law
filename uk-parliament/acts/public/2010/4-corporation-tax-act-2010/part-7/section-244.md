@@ -28,7 +28,7 @@ summary: ''
 
 (2) If the disposal is not a qualifying disposal, any CITR attributable to the former investment in respect of any accounting period must be withdrawn.
 
-(3)[^key-4b10b19e4a3fb5cfd05b959d00aa34fe] Subsections (3A) to (3H) apply if—
+(3)[^c-4b10b19e4a3fb5cfd05b959d00aa34fe] Subsections (3A) to (3H) apply if—
 
 - (a) the disposal is a qualifying disposal, and
 - (b) the investor has made a claim under section 220 in respect of the former investment for an accounting period (“period X”).
@@ -64,19 +64,19 @@ summary: ''
 - (a) by way of a bargain made at arm's length, or
 - (b) a permitted disposal (within the meaning of section 243).
 
-(5) [^key-54dccdf73ebd459d16cb44f4727e0a8a]...
+(5) [^c-54dccdf73ebd459d16cb44f4727e0a8a]...
 
-- [^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
 
-(6)[^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b10b19e4a3fb5cfd05b959d00aa34fe]: Textual amendment: S. 244(3)-(3H) substituted for s. 244(3) (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 11(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/11/2)
+[^c-4b10b19e4a3fb5cfd05b959d00aa34fe]: Textual amendment: S. 244(3)-(3H) substituted for s. 244(3) (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 11(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/11/2)
 
-[^key-54dccdf73ebd459d16cb44f4727e0a8a]: Textual amendment: S. 244(5)-(7) omitted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 11(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/11/3)
+[^c-54dccdf73ebd459d16cb44f4727e0a8a]: Textual amendment: S. 244(5)-(7) omitted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 11(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/11/3)

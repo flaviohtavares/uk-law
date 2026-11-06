@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54.11A. Permission decision where court requires a hearing[^key-08b73444890ee39df128f9e7f2141e70][^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
+## 54.11A. Permission decision where court requires a hearing[^c-08b73444890ee39df128f9e7f2141e70][^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08b73444890ee39df128f9e7f2141e70]: Textual amendment: [Rule 54.11A](https://www.legislation.gov.uk/uksi/1998/3132/rule/54) inserted (13.4.2015) by [The Civil Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/670)](https://www.legislation.gov.uk/uksi/2015/670), [rules 2(4)](https://www.legislation.gov.uk/uksi/2015/670/rule/2/4), [10](https://www.legislation.gov.uk/uksi/2015/670/rule/10) (with [rule 12(2)](https://www.legislation.gov.uk/uksi/2015/670/rule/12/2)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/69)
+[^c-08b73444890ee39df128f9e7f2141e70]: Textual amendment: [Rule 54.11A](https://www.legislation.gov.uk/uksi/1998/3132/rule/54) inserted (13.4.2015) by [The Civil Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/670)](https://www.legislation.gov.uk/uksi/2015/670), [rules 2(4)](https://www.legislation.gov.uk/uksi/2015/670/rule/2/4), [10](https://www.legislation.gov.uk/uksi/2015/670/rule/10) (with [rule 12(2)](https://www.legislation.gov.uk/uksi/2015/670/rule/12/2)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/69)
 
-[^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))
+[^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))

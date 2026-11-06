@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendment of regulation 16 (application to the court by person aggrieved), regulation 17 (application to court by Secretary of State) and regulation 18 (offences)[^key-512e809c4451a55165809490e18f7fd1]
+## 39. Amendment of regulation 16 (application to the court by person aggrieved), regulation 17 (application to court by Secretary of State) and regulation 18 (offences)[^c-512e809c4451a55165809490e18f7fd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-512e809c4451a55165809490e18f7fd1]: Commencement: Reg. 39 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-512e809c4451a55165809490e18f7fd1]: Commencement: Reg. 39 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

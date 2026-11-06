@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Expenditure on acquisition and preservation of monuments of special historic interest etc.[^key-22295ba1e12f76342da7692045648d03][^key-067cfecb46b1dae8984e1883750fe7d3]
+## 62. Expenditure on acquisition and preservation of monuments of special historic interest etc.[^c-22295ba1e12f76342da7692045648d03][^c-067cfecb46b1dae8984e1883750fe7d3]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22295ba1e12f76342da7692045648d03]: Commencement: S. 62 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-22295ba1e12f76342da7692045648d03]: Commencement: S. 62 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-067cfecb46b1dae8984e1883750fe7d3]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2023/3/section/62) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-067cfecb46b1dae8984e1883750fe7d3]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2023/3/section/62) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Appeal to residential property tribunal[^key-e6dcf0af8ce893721ea5210b3ca417f1]
+## 65. Appeal to residential property tribunal[^c-e6dcf0af8ce893721ea5210b3ca417f1]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6dcf0af8ce893721ea5210b3ca417f1]: Commencement: S. 65 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e6dcf0af8ce893721ea5210b3ca417f1]: Commencement: S. 65 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

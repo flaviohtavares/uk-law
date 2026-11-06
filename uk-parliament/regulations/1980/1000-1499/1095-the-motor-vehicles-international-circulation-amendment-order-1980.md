@@ -53,18 +53,18 @@ Now, therefore, Her Majesty, in pursuance of section 1(1), (2) and (4) of the Mo
 
 ## Citation and commencement
 
-**1.**[^key-b08a28c61bcaf07cb922928caa174531] This Order may be cited as the Motor Vehicles (International Circulation) (Amendment) Order 1980 and shall come into operation—
+**1.**[^c-b08a28c61bcaf07cb922928caa174531] This Order may be cited as the Motor Vehicles (International Circulation) (Amendment) Order 1980 and shall come into operation—
 
 - (a) for all purposes of paragraph (1) of Article 10 on the first day of the month following that in which the Order is made, and
 - (b) for all other purposes, on the date on which the Convention on Road Traffic concluded at Vienna in 1968[^f00001] is first in force in respect of the United Kingdom, which date shall be notified in the London, Edinburgh and Belfast Gazettes.
 
 ## Interpretation
 
-**2.**[^key-568ee4da0a3a411c09ff327758e04b75] In this Order “**the principal Order**” means the Motor Vehicles (International Circulation) Order 1975.
+**2.**[^c-568ee4da0a3a411c09ff327758e04b75] In this Order “**the principal Order**” means the Motor Vehicles (International Circulation) Order 1975.
 
 ## Documents for drivers going abroad
 
-**3.**[^key-ca38c89382672e2b06700c9bcb847c60] For paragraph (1) of Article 1 of the principal Order there shall be substituted the following paragraphs:—
+**3.**[^c-ca38c89382672e2b06700c9bcb847c60] For paragraph (1) of Article 1 of the principal Order there shall be substituted the following paragraphs:—
 
 > (1) Subject to the following provisions of this Article, the Minister of Transport may issue to a person resident in the United Kingdom a driving permit in any of the forms A, B and C in Schedule 1 to this Order for use outside the United Kingdom.
 >
@@ -86,14 +86,14 @@ Now, therefore, Her Majesty, in pursuance of section 1(1), (2) and (4) of the Mo
 
 .
 
-**4.**[^key-081f1d86392ffc6d4b935f66ea2ec6b4] The following words shall be omitted from Article 1 of the principal Order:—
+**4.**[^c-081f1d86392ffc6d4b935f66ea2ec6b4] The following words shall be omitted from Article 1 of the principal Order:—
 
 - (a) in paragraph (7) the words “tests of the competency of applicants for driving permits and”, and
 - (b) in paragraph (8) the words “tests or”.
 
 ## Visitors' driving permits
 
-**5.**[^key-096e370a342153e6522e9ee98d496ec8] (1) For paragraph (3) of Article 2 of the principal Order there shall be substituted the following paragraph:—
+**5.**[^c-096e370a342153e6522e9ee98d496ec8] (1) For paragraph (3) of Article 2 of the principal Order there shall be substituted the following paragraph:—
 
 > (3) Nothing in the preceding provisions of this Article shall authorise any person to drive, or to be employed in driving, a vehicle of any class at a time when he is disqualified by virtue of section 96 of the Road Traffic Act 1972 (persons under age) as substituted by section 1 of the Road Traffic (Drivers' Ages and Hours of Work) Act 1976[^f00004], for holding or obtaining a driving licence authorising him to drive vehicles of that class, but in the case of any such person as is mentioned in paragraphs (1) or (2) of this Article, who is driving a vehicle which—
 >
@@ -121,9 +121,9 @@ Now, therefore, Her Majesty, in pursuance of section 1(1), (2) and (4) of the Mo
 
 .
 
-**6.**[^key-8b845eb75a414601372602d38cc3ec25] At the end of paragraph (7) of Article 2 of the principal Order there shall be added the following words “and, without prejudice to the provisions of paragraph (3) above, a Convention driving permit in the form C in Schedule 1 to this Order shall, if the validity of the permit is by special endorsement thereon made conditional upon the holder wearing certain devices or upon the vehicle being equipped in a certain manner to take account of his disability, not be valid at a time when any such condition is not satisfied”.
+**6.**[^c-8b845eb75a414601372602d38cc3ec25] At the end of paragraph (7) of Article 2 of the principal Order there shall be added the following words “and, without prejudice to the provisions of paragraph (3) above, a Convention driving permit in the form C in Schedule 1 to this Order shall, if the validity of the permit is by special endorsement thereon made conditional upon the holder wearing certain devices or upon the vehicle being equipped in a certain manner to take account of his disability, not be valid at a time when any such condition is not satisfied”.
 
-**7.**[^key-49fcf944fb310637a9d13f23c0e1576c] For paragraph (3) of Article 3 of the principal Order there shall be substituted the following paragraph:—
+**7.**[^c-49fcf944fb310637a9d13f23c0e1576c] For paragraph (3) of Article 3 of the principal Order there shall be substituted the following paragraph:—
 
 > (3) Nothing in this Article shall authorise any person to drive, or to be employed in driving, a vehicle of any class at a time when he is disqualified by virtue of section 96 of the Road Traffic Act 1972 (persons under age), as substituted by section 1 of the Road Traffic (Drivers' Ages and Hours of Work) Act 1976, for holding or obtaining a driving licence authorising him to drive vehicles of that class.
 
@@ -131,7 +131,7 @@ Now, therefore, Her Majesty, in pursuance of section 1(1), (2) and (4) of the Mo
 
 ## Supplementary provisions
 
-**8.**[^key-4033b8736e98e6b9ee020a79f763121e] (1) Sections 169 and 170 of the Road Traffic Act 1972 (forgery of documents, etc., false statements and withholding material information) and section 150 of the Road Traffic Act (Northern Ireland) 1970 (false statements in connection with, forgery of and fraudulent use of documents, etc.) shall apply to a Convention driving permit as they apply to licences under those Acts.
+**8.**[^c-4033b8736e98e6b9ee020a79f763121e] (1) Sections 169 and 170 of the Road Traffic Act 1972 (forgery of documents, etc., false statements and withholding material information) and section 150 of the Road Traffic Act (Northern Ireland) 1970 (false statements in connection with, forgery of and fraudulent use of documents, etc.) shall apply to a Convention driving permit as they apply to licences under those Acts.
 
 (2) Section 182 of the said Act of 1972 and section 163C of the said Act of 1970 (admissibility of records as evidence) shall apply to records maintained by the Minister of Transport in connection with his functions under Article 1 of the principal Order, or by a body or Northern Ireland department to which in accordance with Article 1(8) of the principal Order he has delegated the function in connection with which the records are maintained, as those sections apply to records maintained in connection with functions under those Acts, and the powers conferred by section 182(3) of the Act of 1972 and section 163C(4) of the Act of 1970 to prescribe a description of matter which may be admitted as evidence under those sections shall have effect in relation to the application of those sections by this Article.
 
@@ -139,9 +139,9 @@ Now, therefore, Her Majesty, in pursuance of section 1(1), (2) and (4) of the Mo
 
 ## Schedules
 
-**9.**[^key-767d285f955120d5a4943fc9261b414e] In Schedule 1 to the principal Order after form B and before form D there shall be inserted as form C the form set out in the Schedule to this Order.
+**9.**[^c-767d285f955120d5a4943fc9261b414e] In Schedule 1 to the principal Order after form B and before form D there shall be inserted as form C the form set out in the Schedule to this Order.
 
-**10.**[^key-0e09a9326e5110fb1b3c70a9495df7d2][^key-d7ef14c39daa235cd92e8f504cb10607] (1) For Schedule 2 to the principal Order (Fees Chargeable for Documents and Identification Marks) there shall be substituted the following Schedule:—
+**10.**[^c-0e09a9326e5110fb1b3c70a9495df7d2][^c-d7ef14c39daa235cd92e8f504cb10607] (1) For Schedule 2 to the principal Order (Fees Chargeable for Documents and Identification Marks) there shall be substituted the following Schedule:—
 
 > **SCHEDULE 2 — FEES CHARGEABLE FOR DOCUMENTS AND IDENTIFICATION MARKS**
 >
@@ -184,7 +184,7 @@ N.E. Leigh
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-20cb8b3c9d5446f4965ca3544132e055]
+## SCHEDULE[^c-20cb8b3c9d5446f4965ca3544132e055]
 
 C
 
@@ -209,21 +209,21 @@ EXPLANATORY NOTE
 
 ## Annotations
 
-[^key-b08a28c61bcaf07cb922928caa174531]: Commencement: Art. 1 comes into force in accordance with art. 1(b)
+[^c-b08a28c61bcaf07cb922928caa174531]: Commencement: Art. 1 comes into force in accordance with art. 1(b)
 
 [^f00001]: Footnote: Cmnd. 4032.
 
-[^key-568ee4da0a3a411c09ff327758e04b75]: Commencement: Art. 2 comes into force in accordance with art. 1(b)
+[^c-568ee4da0a3a411c09ff327758e04b75]: Commencement: Art. 2 comes into force in accordance with art. 1(b)
 
-[^key-ca38c89382672e2b06700c9bcb847c60]: Commencement: Art. 3 comes into force in accordance with art. 1(b)
+[^c-ca38c89382672e2b06700c9bcb847c60]: Commencement: Art. 3 comes into force in accordance with art. 1(b)
 
 [^f00002]: Footnote: 1972 c. 20; section 84(4) was amended by section 13 of, and paragraph 1 of Schedule 3 to, the Road Traffic Act 1974 (c. 50) and by section 1 of, and paragraph 1 of Schedule 1 to, the Road Traffic (Drivers' Ages and Hours of Work) Act 1976 (c. 3).
 
 [^f00003]: Footnote: 1970 c. 2 (N.I.).
 
-[^key-081f1d86392ffc6d4b935f66ea2ec6b4]: Commencement: Art. 4 comes into force in accordance with art. 1(b)
+[^c-081f1d86392ffc6d4b935f66ea2ec6b4]: Commencement: Art. 4 comes into force in accordance with art. 1(b)
 
-[^key-096e370a342153e6522e9ee98d496ec8]: Commencement: Art. 5 comes into force in accordance with art. 1(b)
+[^c-096e370a342153e6522e9ee98d496ec8]: Commencement: Art. 5 comes into force in accordance with art. 1(b)
 
 [^f00004]: Footnote: 1976 c. 3.
 
@@ -235,16 +235,16 @@ EXPLANATORY NOTE
 
 [^f00008]: Footnote: Cmnd. 3510.
 
-[^key-8b845eb75a414601372602d38cc3ec25]: Commencement: Art. 6 comes into force in accordance with art. 1(b)
+[^c-8b845eb75a414601372602d38cc3ec25]: Commencement: Art. 6 comes into force in accordance with art. 1(b)
 
-[^key-49fcf944fb310637a9d13f23c0e1576c]: Commencement: Art. 7 comes into force in accordance with art. 1(b)
+[^c-49fcf944fb310637a9d13f23c0e1576c]: Commencement: Art. 7 comes into force in accordance with art. 1(b)
 
-[^key-4033b8736e98e6b9ee020a79f763121e]: Commencement: Art. 8 comes into force in accordance with art. 1(b)
+[^c-4033b8736e98e6b9ee020a79f763121e]: Commencement: Art. 8 comes into force in accordance with art. 1(b)
 
-[^key-767d285f955120d5a4943fc9261b414e]: Commencement: Art. 9 comes into force in accordance with art. 1(b)
+[^c-767d285f955120d5a4943fc9261b414e]: Commencement: Art. 9 comes into force in accordance with art. 1(b)
 
-[^key-0e09a9326e5110fb1b3c70a9495df7d2]: Commencement: Art. 10(1) comes into force in accordance with art. 1(a)
+[^c-0e09a9326e5110fb1b3c70a9495df7d2]: Commencement: Art. 10(1) comes into force in accordance with art. 1(a)
 
-[^key-d7ef14c39daa235cd92e8f504cb10607]: Commencement: Art. 10(2)-(4) comes into force in accordance with art. 1(b)
+[^c-d7ef14c39daa235cd92e8f504cb10607]: Commencement: Art. 10(2)-(4) comes into force in accordance with art. 1(b)
 
-[^key-20cb8b3c9d5446f4965ca3544132e055]: Commencement: Sch. comes into force in accordance with art. 1(b)
+[^c-20cb8b3c9d5446f4965ca3544132e055]: Commencement: Sch. comes into force in accordance with art. 1(b)

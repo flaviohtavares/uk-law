@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. Revocation of Regulation (EU) 2018/1805[^M_I_52626ee2-30cb-403b-ddcc-a7f8ff234043][^key-844220ce82d6959783a784211acac333]
+## 113A. Revocation of Regulation (EU) 2018/1805[^M_I_52626ee2-30cb-403b-ddcc-a7f8ff234043][^c-844220ce82d6959783a784211acac333]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Regulation (EU) 2018/1805 of the European Parliament and of the Council of 14 No
 
 [^M_I_52626ee2-30cb-403b-ddcc-a7f8ff234043]: Commencement: Reg. 113A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-844220ce82d6959783a784211acac333]: Textual amendment: Reg. 113A inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1408/regulation/6)
+[^c-844220ce82d6959783a784211acac333]: Textual amendment: Reg. 113A inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1408/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.148A. Remuneration of liquidator in members' voluntary winding up[^key-4f52851839523cf7f0baaf90f193805f]
+## 4.148A. Remuneration of liquidator in members' voluntary winding up[^c-4f52851839523cf7f0baaf90f193805f]
 
 *Extent: E+W*
 
@@ -31,9 +31,9 @@ and the company in general meeting shall determine whether the remuneration is t
 
 (3) In arriving at that determination the company in general meeting shall have regard to the matters set out in paragraph (4) of Rule 4.127.
 
-(4)[^key-cb2932bfc8606919cb385511f1994e07] Where the liquidator’s remuneration is not fixed as above, the liquidator shall be entitled to remuneration calculated in accordance with the provisions of Rule 4.148B.
+(4)[^c-cb2932bfc8606919cb385511f1994e07] Where the liquidator’s remuneration is not fixed as above, the liquidator shall be entitled to remuneration calculated in accordance with the provisions of Rule 4.148B.
 
-(5) Rule 4.128 and Rule 4.127B[^key-a2a7775699a98fb6dc28cfadf0f3eed6] shall apply in relation to the remuneration of the liquidator in respect of the matters there mentioned and for this purpose references in that Rule to “the liquidation committee” and “a meeting of creditors” shall be read as references to the company in general meeting.
+(5) Rule 4.128 and Rule 4.127B[^c-a2a7775699a98fb6dc28cfadf0f3eed6] shall apply in relation to the remuneration of the liquidator in respect of the matters there mentioned and for this purpose references in that Rule to “the liquidation committee” and “a meeting of creditors” shall be read as references to the company in general meeting.
 
 (6) If the liquidator considers that the remuneration fixed for him by the company in general meeting, or as under paragraph (4), is insufficient, he may apply to the court for an order increasing its amount or rate.
 
@@ -43,8 +43,8 @@ and the company in general meeting shall determine whether the remuneration is t
 
 ## Annotations
 
-[^key-4f52851839523cf7f0baaf90f193805f]: Textual amendment: [Rule 4.148A](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.148A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 69](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/69)
+[^c-4f52851839523cf7f0baaf90f193805f]: Textual amendment: [Rule 4.148A](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.148A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 69](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/69)
 
-[^key-cb2932bfc8606919cb385511f1994e07]: Textual amendment: Rule 4.148A(4) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [18](https://www.legislation.gov.uk/uksi/2004/584/article/18) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/article/3))
+[^c-cb2932bfc8606919cb385511f1994e07]: Textual amendment: Rule 4.148A(4) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [18](https://www.legislation.gov.uk/uksi/2004/584/article/18) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/article/3))
 
-[^key-a2a7775699a98fb6dc28cfadf0f3eed6]: Textual amendment: Words in rule 4.148A inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [30](https://www.legislation.gov.uk/uksi/2005/527/rule/30) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2005/527/article/3/2))
+[^c-a2a7775699a98fb6dc28cfadf0f3eed6]: Textual amendment: Words in rule 4.148A inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [30](https://www.legislation.gov.uk/uksi/2005/527/rule/30) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2005/527/article/3/2))

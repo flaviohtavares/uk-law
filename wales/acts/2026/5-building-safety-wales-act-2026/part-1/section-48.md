@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Duty of accountable person to keep information and documents[^key-36fe351e0c433d8c5648df3175bcbf8f]
+## 48. Duty of accountable person to keep information and documents[^c-36fe351e0c433d8c5648df3175bcbf8f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36fe351e0c433d8c5648df3175bcbf8f]: Commencement: S. 48 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-36fe351e0c433d8c5648df3175bcbf8f]: Commencement: S. 48 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

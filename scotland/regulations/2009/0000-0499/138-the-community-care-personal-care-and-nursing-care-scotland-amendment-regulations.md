@@ -32,7 +32,7 @@ summary: ''
 
 SOCIAL CARE
 
-The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2009 (revoked)[^key-81615ba309ebe411fa2487a63e691804]
+The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2009 (revoked)[^c-81615ba309ebe411fa2487a63e691804]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 1st April 2009
 
-[^key-81615ba309ebe411fa2487a63e691804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81615ba309ebe411fa2487a63e691804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-81615ba309ebe411fa2487a63e691804]
+## 1. Citation and commencement[^c-81615ba309ebe411fa2487a63e691804]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002[^key-81615ba309ebe411fa2487a63e691804]
+## 2. Amendment of the Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002[^c-81615ba309ebe411fa2487a63e691804]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81615ba309ebe411fa2487a63e691804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81615ba309ebe411fa2487a63e691804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-81615ba309ebe411fa2487a63e691804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81615ba309ebe411fa2487a63e691804]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81615ba309ebe411fa2487a63e691804]: Textual amendment: Regulations revoked (1.4.2012) by [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/109)](https://www.legislation.gov.uk/ssi/2012/109), [regs. 1](https://www.legislation.gov.uk/ssi/2012/109/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/109/regulation/3)
+[^c-81615ba309ebe411fa2487a63e691804]: Textual amendment: Regulations revoked (1.4.2012) by [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/109)](https://www.legislation.gov.uk/ssi/2012/109), [regs. 1](https://www.legislation.gov.uk/ssi/2012/109/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/109/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 290. Compulsory acquisition of land in connection with order[^key-42e50fe3cc00891c5ca93b6902135cd7]
+## 290. Compulsory acquisition of land in connection with order[^c-42e50fe3cc00891c5ca93b6902135cd7]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ for a purpose mentioned in subsection (2).
 
 ## Annotations
 
-[^key-42e50fe3cc00891c5ca93b6902135cd7]: Commencement: S. 290 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-42e50fe3cc00891c5ca93b6902135cd7]: Commencement: S. 290 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

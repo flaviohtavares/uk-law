@@ -61,7 +61,7 @@ Section 260
 (1) Sub-paragraph (3) applies where—
 
 - (a) assets are transferred from one member of a multinational group to another member of that group,
-- (b)[^key-2815874a2d4517351a8bbab23f233084] the Pillar Two rules do not apply to the transferor for the accounting period in which the transfer takes place (but in determining this, section 255(4) has effect as if sub-paragraph (ii) of paragraph (b) were omitted),
+- (b)[^c-2815874a2d4517351a8bbab23f233084] the Pillar Two rules do not apply to the transferor for the accounting period in which the transfer takes place (but in determining this, section 255(4) has effect as if sub-paragraph (ii) of paragraph (b) were omitted),
 - (ba) a qualifying domestic top-up tax does not apply in relation to the transferor for that period, and
 - (c) the transfer took place on or after 1 December 2021.
 
@@ -69,13 +69,13 @@ Section 260
 
 (3) Where this sub-paragraph applies, for the purposes of Part 3 of this Act—
 
-- (a) the value of the assets at the relevant time is the carrying value of the assets in the hands of the transferor immediately before the transfer, [^key-86a1cb23c9434ae58054385a0afa52d2]...
-- (b) any deferred tax asset that would arise in relation to the assets in the underlying profits of the transferee is limited to the lesser of the cap amount and the sum of—[^key-eda40bc0fd7c356705570cb79076511b]
+- (a) the value of the assets at the relevant time is the carrying value of the assets in the hands of the transferor immediately before the transfer, [^c-86a1cb23c9434ae58054385a0afa52d2]...
+- (b) any deferred tax asset that would arise in relation to the assets in the underlying profits of the transferee is limited to the lesser of the cap amount and the sum of—[^c-eda40bc0fd7c356705570cb79076511b]
   - (i) the value of deferred tax assets that arose in relation to the assets before their transfer, and
-  - (ii) the tax paid amount in relation to the transfer of assets , and[^key-64953156a8352a6104fd9f1ce4c1cbfd]
+  - (ii) the tax paid amount in relation to the transfer of assets , and[^c-64953156a8352a6104fd9f1ce4c1cbfd]
 - (c) a deferred tax asset is ignored if it is a deferred tax asset arising as described in section 185(7A) or (7B).
 
-(3A)[^key-d4a695ef4ee6216b75d1ed228b268081] For the purposes of determining the value of a deferred tax asset under sub-paragraph (3)(b)(i)—
+(3A)[^c-d4a695ef4ee6216b75d1ed228b268081] For the purposes of determining the value of a deferred tax asset under sub-paragraph (3)(b)(i)—
 
 - (a) if the rate of tax in relation to that asset is greater than 15%, the value is to be adjusted so that it reflects the value it would be if the rate had been 15%, and
 - (b) exclude the impact of any valuation adjustments or accounting recognition adjustments.
@@ -83,16 +83,16 @@ Section 260
 (4) For the purposes of this paragraph “**the relevant time**” means the later of—
 
 - (a) the date of the transfer, and
-- (b) the commencement of the first accounting period in which the Pillar Two rules apply to the transferee.[^key-bd93e1cb45f5fb619b3eae4290dad93d]
-  - (i)[^key-3fc8c4a432b517c3d3e9bfe1f77e8009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-3fc8c4a432b517c3d3e9bfe1f77e8009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the commencement of the first accounting period in which the Pillar Two rules apply to the transferee.[^c-bd93e1cb45f5fb619b3eae4290dad93d]
+  - (i)[^c-3fc8c4a432b517c3d3e9bfe1f77e8009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-3fc8c4a432b517c3d3e9bfe1f77e8009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where the relevant time is after the date of the transfer—
 
 - (a) the value of the assets at the relevant time is to be adjusted to reflect—
   - (i) capitalised expenditure incurred in respect of the assets in the period between the date of the transfer and the relevant time, and
   - (ii) amortisation and depreciation of the assets that, had the transfer not occurred, would have been recognised by the transferor if the transferor had continued to use the accounting policies and rates for amortisation and depreciation of the assets previously used, and
-- (b) the tax paid amount in relation to the transfer of the assets , and the value of deferred tax assets that arose in relation to the assets before their transfer, are[^key-4a9d34efb28cb5bca398899fc2e8bea1] to be adjusted to reflect the matters referred to in paragraph (a)(i) and (ii).
+- (b) the tax paid amount in relation to the transfer of the assets , and the value of deferred tax assets that arose in relation to the assets before their transfer, are[^c-4a9d34efb28cb5bca398899fc2e8bea1] to be adjusted to reflect the matters referred to in paragraph (a)(i) and (ii).
 
 (6) To determine the “**tax paid amount**” in relation to a transfer of assets take the following steps—
 
@@ -103,13 +103,13 @@ Section 260
 
   Determine the amount, if any, of qualifying current tax expense relating to the transfer of the assets that would have been allocated to the transferor as a result of section 177 or 179 (permanent establishments and controlled foreign company regimes) if—
 
-  - (a) the ultimate parent had been located in the United Kingdom and the accounting period commenced on or after 31 December 2023, and[^key-e3d9149ccbce5e6e5f44eac2b44ed15f]
+  - (a) the ultimate parent had been located in the United Kingdom and the accounting period commenced on or after 31 December 2023, and[^c-e3d9149ccbce5e6e5f44eac2b44ed15f]
   - (b) section 179(2) (restriction of allocation of mobile income) were ignored.
 - *Step 3*
 
   Add together the amounts determined under Steps 1 and 2.
 
-(7)[^key-0c02bc341099d699cdb15635748f782b] In determining the tax expense of the transferor in relation to the transfer of the assets—
+(7)[^c-0c02bc341099d699cdb15635748f782b] In determining the tax expense of the transferor in relation to the transfer of the assets—
 
 - (a) where any loss arising in the accounting period in which the transfer took place is offset against any taxable gain arising on the transfer, ignore that offsetting, and
 - (b) exclude the impact of any valuation adjustments or accounting recognition adjustments.
@@ -121,16 +121,16 @@ Section 260
   - (ii) the nominal rate of tax to which that expense relates, and
 - (b) multiplying the result of paragraph (a) by 15%.
 
-(9) Where the sum of[^key-4c0138a1351e222a65619b82f40191a0] the tax paid amount and the value of deferred tax assets that arose in relation to the assets before their transfer is greater than[^key-69ca6058a2968322e5882c73214594da] the cap amount [^key-11d2b0afb7c8bf865a5ff2cc0b19ed1a]..., the filing member may elect that sub-paragraph (3) does not apply in relation to the transfer of assets.
+(9) Where the sum of[^c-4c0138a1351e222a65619b82f40191a0] the tax paid amount and the value of deferred tax assets that arose in relation to the assets before their transfer is greater than[^c-69ca6058a2968322e5882c73214594da] the cap amount [^c-11d2b0afb7c8bf865a5ff2cc0b19ed1a]..., the filing member may elect that sub-paragraph (3) does not apply in relation to the transfer of assets.
 
 (10) Paragraph 2 of Schedule 15 (annual elections) applies to an election under sub-paragraph (9).
 
 (11) For the purposes of this paragraph,
 
-- (a)[^key-0be14f6ff5db067bbf076c67a7cf2e07] “**a transfer of assets**” includes a transaction that relates to assets that does not result in a change in their ownership if the transaction has a similar effect for accounting purposes to[^key-760d8b66b408d0478577a33c71e7a102] a change in ownership of those assets;
-- (b)[^key-f551197d6bf4d36d32f34d4a3bd172ac] a qualifying domestic top-up tax is not to be taken as applying to a member of a multinational group if provision for a QDMTT Safe Harbour (within the meaning of the Pillar Two rules) applies to it.
+- (a)[^c-0be14f6ff5db067bbf076c67a7cf2e07] “**a transfer of assets**” includes a transaction that relates to assets that does not result in a change in their ownership if the transaction has a similar effect for accounting purposes to[^c-760d8b66b408d0478577a33c71e7a102] a change in ownership of those assets;
+- (b)[^c-f551197d6bf4d36d32f34d4a3bd172ac] a qualifying domestic top-up tax is not to be taken as applying to a member of a multinational group if provision for a QDMTT Safe Harbour (within the meaning of the Pillar Two rules) applies to it.
 
-(12)[^key-4c5d5b3132c05b7836db17b45d58ba10] Where assets are transferred from one member of a multinational group to another member of that group as a result of a series of transfers that—
+(12)[^c-4c5d5b3132c05b7836db17b45d58ba10] Where assets are transferred from one member of a multinational group to another member of that group as a result of a series of transfers that—
 
 - (a) fall within sub-paragraph (1), but
 - (b) do not fall within sub-paragraph (2),
@@ -144,7 +144,7 @@ that series is to be treated as a single transfer of assets that falls within su
 - (c) the reference to the date of the transfer in sub-paragraph (4)(a) were to the date of the last transfer in the series, and
 - (d) the references to the transferee in sub-paragraph (4)(b) were to the transferee in relation to the last transfer in the series.
 
-#### 2A. Transitional extension to deadline for elections[^key-1b7ee4f3b1a7dd68de0f8f348983c12f]
+#### 2A. Transitional extension to deadline for elections[^c-1b7ee4f3b1a7dd68de0f8f348983c12f]
 
 (1) Schedule 15 (multinational top-up tax: elections) has effect in its application to a pre-2026 election as if in paragraphs 1(2)(b) and 2(2)(b) of that Schedule for “no later than” there were substituted “before the end of the period of 12 months beginning with the day after”.
 
@@ -155,11 +155,11 @@ that series is to be treated as a single transfer of assets that falls within su
 
 ### Part 2 — Transitional safe harbour
 
-#### Chapter 1 — General transitional safe harbour election[^key-4d34f69c1f4530c88e25340333b7015a]
+#### Chapter 1 — General transitional safe harbour election[^c-4d34f69c1f4530c88e25340333b7015a]
 
 ##### 3. Election
 
-(1)[^key-dd8c144efdb87bb11df2b6fe349382f7] The filing member of a multinational group may make a transitional safe harbour election under this paragraph[^key-bfc493c1cfa72f5749dfad6139844a04] for an accounting period in respect of a territory.
+(1)[^c-dd8c144efdb87bb11df2b6fe349382f7] The filing member of a multinational group may make a transitional safe harbour election under this paragraph[^c-bfc493c1cfa72f5749dfad6139844a04] for an accounting period in respect of a territory.
 
 (1A) The effect of the election is that all of the standard members of the group located in the territory are to be treated as not having top-up amounts or additional top-up amounts for the purpose of determining the liability of any member of the group to multinational top-up tax.
 
@@ -167,9 +167,9 @@ that series is to be treated as a single transfer of assets that falls within su
 
 - (a) the period commences on or before 31 December 2026 and ends on or before 30 June 2028,
 - (b) a qualifying country-by-country report has been prepared in relation to the territory for the period,
-- (c) a transitional safe harbour election[^key-857db596179eddf093682b78c2020f8f] has been made in respect of the territory for each preceding accounting period—
+- (c) a transitional safe harbour election[^c-857db596179eddf093682b78c2020f8f] has been made in respect of the territory for each preceding accounting period—
   - (i) that commenced on or after 31 December 2023, and
-  - (ii) in which the Pillar Two rules would, ignoring any transitional safe harbour election, have applied to any member[^key-ca448d35d34057c1a4d068b363d05cf1] of the group in the territory,
+  - (ii) in which the Pillar Two rules would, ignoring any transitional safe harbour election, have applied to any member[^c-ca448d35d34057c1a4d068b363d05cf1] of the group in the territory,
 - (d) an election under section 189 (deemed distribution tax election) has not been made in respect of the territory for the accounting period, and
 - (e) at least one of the following tests are met for the territory in accounting period—
   - (i) the threshold test (see paragraph 7),
@@ -181,15 +181,15 @@ that series is to be treated as a single transfer of assets that falls within su
 - (a) its adjusted profits would be nil as a result of the application of section 170 (adjustments for ultimate parent that is a flow-through entity), or
 - (b) all of the ultimate parent’s adjusted profits would be attributable to one or more permanent establishments (see section 159) and no amount of income or expense of any permanent establishment would be treated, as a result of section 160 (attribution of losses between permanent establishment and main entity), as income or expense of the ultimate parent.
 
-(4)[^key-4c960c7f69863a31040f1b6bacaa5195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4c960c7f69863a31040f1b6bacaa5195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Paragraph 2 of Schedule 15 (annual elections) applies to an election under this paragraph.
 
 (6) The information return in which the election is made must set out which of the tests referred to in sub-paragraph (2)(e) are being relied on and include evidence of how any that is relied on is met.
 
-(7)[^key-386c5a039dec009ca7ba47b5846e19ea] For the purposes of this Part of this Schedule, a country-by-country report in relation to a territory is “qualifying” if all relevant information[^key-6185d2b2bc5777a55d59aec1492ff6e6] relating to the territory is prepared on the basis of qualified financial statements of the multinational group (see paragraph 4).
+(7)[^c-386c5a039dec009ca7ba47b5846e19ea] For the purposes of this Part of this Schedule, a country-by-country report in relation to a territory is “qualifying” if all relevant information[^c-6185d2b2bc5777a55d59aec1492ff6e6] relating to the territory is prepared on the basis of qualified financial statements of the multinational group (see paragraph 4).
 
-(7A)[^key-880480427d4c7334e53c9d7c8b11c862] For the purposes of sub-paragraph (7), “**all relevant information**” means all of the information described in paragraphs (a) to (d) of paragraph 4(3).
+(7A)[^c-880480427d4c7334e53c9d7c8b11c862] For the purposes of sub-paragraph (7), “**all relevant information**” means all of the information described in paragraphs (a) to (d) of paragraph 4(3).
 
 (8) Where there is no requirement under the law of any territory for a country-by-country report to be prepared and filed in respect of a multinational group, the filling member may include, in the information return in which the election is made, the information that would have been in such a report—
 
@@ -198,43 +198,43 @@ that series is to be treated as a single transfer of assets that falls within su
 
 (9) Where such information has been included in that information return, that information is to be treated as if it were a country-by-country report in relation to the territory for the purposes of this Chapter (and where that information complies with sub-paragraph (7), the condition in sub-paragraph (2)(b) is to be treated as met).
 
-(10)[^key-ab99e0a4780a5384266cb012922ac3f5] An election under this paragraph may not be made in respect of the nominal territory of a stateless member of a multinational group.
+(10)[^c-ab99e0a4780a5384266cb012922ac3f5] An election under this paragraph may not be made in respect of the nominal territory of a stateless member of a multinational group.
 
 ##### 4. Qualified financial statements and basis of calculations
 
 (1) For the purposes of this Part of this Schedule “qualified financial statements” of a multinational group means—
 
-- (a) the accounts used to prepare the consolidated financial statements[^key-cd35d78075d8f7c679cfda75d83da5b2] of the ultimate parent provided the statements are prepared in accordance with acceptable accounting standards or an authorised accounting standard[^key-517d1d71316a1c626e9a06b3f1d3e26c], or
-- (b)[^key-52a25eca86cfaca8b586fad2784451d8] financial statements of members of the group provided—
+- (a) the accounts used to prepare the consolidated financial statements[^c-cd35d78075d8f7c679cfda75d83da5b2] of the ultimate parent provided the statements are prepared in accordance with acceptable accounting standards or an authorised accounting standard[^c-517d1d71316a1c626e9a06b3f1d3e26c], or
+- (b)[^c-52a25eca86cfaca8b586fad2784451d8] financial statements of members of the group provided—
   - (i) they are prepared in accordance with acceptable accounting standards or an authorised accounting standard, and
   - (ii) the information contained in those statements is reliable and is maintained in a manner that is consistent with its use under the accounting standard used in preparing those statements.
 
-(1A)[^key-507e03592285e83f16080f30fbb03f74] But see also paragraph 4A in cases where those accounts or statements reflect purchase price accounting adjustments.
+(1A)[^c-507e03592285e83f16080f30fbb03f74] But see also paragraph 4A in cases where those accounts or statements reflect purchase price accounting adjustments.
 
 (2) Where a member of a multinational group is not included in consolidated financial statements of any member of the group on a line-by-line basis solely due to size or materiality grounds, the financial accounts of that member that are used for preparation of the group’s country-by-country report are to be regarded as forming part of the qualified financial statements of the group.
 
 (3) For the purposes of establishing whether the tests in paragraphs 7 to 9 are met in relation to members of a multinational group in a territory, the basis for that determination is to be the information derived from qualified financial statements as to—
 
 - (a) revenue,
-- (b) profit (loss) before income tax, [^key-28a9b67e04f1c3661958e1a3520aa953]...
-- (c) qualifying income tax expense (see paragraph 5) , and[^key-42a41bad4fc1012f8e41508127f2321f]
-- (d) qualified substance based income exclusion[^key-488983e35312500a27838e9da07447e5] amount (see paragraph 9(2)).
+- (b) profit (loss) before income tax, [^c-28a9b67e04f1c3661958e1a3520aa953]...
+- (c) qualifying income tax expense (see paragraph 5) , and[^c-42a41bad4fc1012f8e41508127f2321f]
+- (d) qualified substance based income exclusion[^c-488983e35312500a27838e9da07447e5] amount (see paragraph 9(2)).
 
 (4) Information derived from qualified financial statements as to revenue or profit (loss) before income tax must be adjusted—
 
 - (a) as the information was adjusted for the purposes of its inclusion in a qualifying country-by-country report in relation to the territory, or
 - (b) if the information was not included in such a report, as it would have been adjusted had it been included in such a report.
 
-See also paragraphs 6 to 6B[^key-99c3911ca8c616577832f0c20572cb7e] which provides for circumstances in which further adjustments are required to profit (loss) before income tax and circumstances in which adjustments are required to qualifying income tax expense.
+See also paragraphs 6 to 6B[^c-99c3911ca8c616577832f0c20572cb7e] which provides for circumstances in which further adjustments are required to profit (loss) before income tax and circumstances in which adjustments are required to qualifying income tax expense.
 
-(5) The information described in sub-paragraph (3)(a) to (d)[^key-4e427c5da346d148e2930be135e938c7] that must be used to determine whether the tests in paragraphs 7 to 9 are met in relation to members of a multinational group in a territory must be derived from whichever of the following was used to prepare the qualifying country-by-country report in relation to the territory—
+(5) The information described in sub-paragraph (3)(a) to (d)[^c-4e427c5da346d148e2930be135e938c7] that must be used to determine whether the tests in paragraphs 7 to 9 are met in relation to members of a multinational group in a territory must be derived from whichever of the following was used to prepare the qualifying country-by-country report in relation to the territory—
 
 - (a) qualified financial statements falling within sub-paragraph (1)(a), along with any financial accounts treated as qualified financial statements as a result of sub-paragraph (2), or
 - (b) qualified financial statements falling within sub-paragraph (1)(b), along with any financial accounts treated as qualified financial statements as a result of sub-paragraph (2).
 
 (6) Where that information in respect of a territory is not available in qualified financial statements of a multinational group, no election may be made in respect of that territory.
 
-##### 4A. Accounts or statements reflecting purchase price accounting adjustments[^key-24c31a10dfd486d2b719968960868828]
+##### 4A. Accounts or statements reflecting purchase price accounting adjustments[^c-24c31a10dfd486d2b719968960868828]
 
 (1) This paragraph applies in relation to accounts or financial statements (“the relevant statements”) in relation to a multinational group in a territory that—
 
@@ -266,13 +266,13 @@ the relevant statements are not qualified financial statements.
 
 ##### 5. Qualifying income tax expense
 
-(1)[^key-46f62ba2c8c1e9365495b182f9290ca8] In this Part of this Schedule, “**qualifying income tax expense**” means income tax expense adjusted to exclude—
+(1)[^c-46f62ba2c8c1e9365495b182f9290ca8] In this Part of this Schedule, “**qualifying income tax expense**” means income tax expense adjusted to exclude—
 
-- (a) any amount that does not relate to covered taxes, [^key-a14e5530357f23aff997278650020f8a]...
-- (b) any amount that relates to an uncertain tax position , and[^key-bc149663a76f634ef0b13b06624a2a62]
+- (a) any amount that does not relate to covered taxes, [^c-a14e5530357f23aff997278650020f8a]...
+- (b) any amount that relates to an uncertain tax position , and[^c-bc149663a76f634ef0b13b06624a2a62]
 - (c) any amount that relates to a deferred tax asset arising as described in section 185(7A) or (7B) or that relates to a relevant pre-entry deferred tax liability.
 
-(2)[^key-04bb16e606399d845df59ab9fcf884c7] For the purposes of this Part of this Schedule, any amount of qualifying income tax expense that is in respect of profits of a permanent establishment and that is incurred in the territory of the permanent establishment is to be regarded as the expense of that permanent establishment (rather than of the main entity).
+(2)[^c-04bb16e606399d845df59ab9fcf884c7] For the purposes of this Part of this Schedule, any amount of qualifying income tax expense that is in respect of profits of a permanent establishment and that is incurred in the territory of the permanent establishment is to be regarded as the expense of that permanent establishment (rather than of the main entity).
 
 ##### 6. Adjustments
 
@@ -289,7 +289,7 @@ the relevant statements are not qualified financial statements.
 
 (5) For the purposes of sub-paragraph (3), the standard members of a multinational group in a territory have a net unrealised fair value loss for an accounting period to the extent their losses that arise from changes in fair value of relevant ownership interests exceed gains arising from changes in fair value of relevant ownership interests.
 
-(6) An ownership interest in an entity is relevant unless[^key-2b3eda6cbfa0dda448a7056209681019], at the end of the accounting period, the members of the multinational group do not between them have ownership interests that entitle them to 10% or more of the entity’s —
+(6) An ownership interest in an entity is relevant unless[^c-2b3eda6cbfa0dda448a7056209681019], at the end of the accounting period, the members of the multinational group do not between them have ownership interests that entitle them to 10% or more of the entity’s —
 
 - (a) profits,
 - (b) capital,
@@ -300,7 +300,7 @@ the relevant statements are not qualified financial statements.
 
 (8) Amounts that are to be included or otherwise taken account of, for the purposes of Part 3, in the adjusted profits and covered tax balance of a member of a multinational group as a result of an election under section 214 (taxable distribution method election) are to be reflected (to the extent they are not already) in the member’s profit (loss) before income tax and qualifying tax expense used for the purposes of applying the tests in paragraphs 7 to 9.
 
-##### 6A. Deduction and non-inclusion arrangements and duplicate loss arrangements[^key-92a92c8bc9cf65f90bfe01b247602bae]
+##### 6A. Deduction and non-inclusion arrangements and duplicate loss arrangements[^c-92a92c8bc9cf65f90bfe01b247602bae]
 
 (1) Where the aggregate profit (loss) before income tax of the standard members of a multinational group in a territory reflects disqualified expense, the aggregate profit (loss) before income tax is to be adjusted to exclude it.
 
@@ -401,17 +401,17 @@ the relevant statements are not qualified financial statements.
 - (a) that is not regarded as a constituent entity of the multinational group for the purposes of the group’s country-by-country report, or
 - (b) that is not regarded as located in the territory for the purposes of that report.
 
-#### Chapter 2 — Application of Chapter 1 to joint ventures etc[^key-1e77bbb31b93385d5834338ba0cbc187]
+#### Chapter 2 — Application of Chapter 1 to joint ventures etc[^c-1e77bbb31b93385d5834338ba0cbc187]
 
 ##### 10. Application in the case of joint venture group
 
-(1)[^key-2b00bcee6a64b884daf2fff9f3b380be] For the purpose of applying Chapter 1 of this Part of this Schedule to a joint venture group (see section 227[^key-c7a1ae653fefc7d62fc039c947925a40] which applies this Schedule generally, with modifications, to joint venture groups) , that Chapter has effect as if[^key-9ca8cd5067f16b35f1ece1b100e35a15]—
+(1)[^c-2b00bcee6a64b884daf2fff9f3b380be] For the purpose of applying Chapter 1 of this Part of this Schedule to a joint venture group (see section 227[^c-c7a1ae653fefc7d62fc039c947925a40] which applies this Schedule generally, with modifications, to joint venture groups) , that Chapter has effect as if[^c-9ca8cd5067f16b35f1ece1b100e35a15]—
 
-- (a) paragraph 3(2)(b)[^key-23c26ba4d4ea7ee3055b40894ff21fbe] were omitted (requirement for qualifying country-by-country report),
+- (a) paragraph 3(2)(b)[^c-23c26ba4d4ea7ee3055b40894ff21fbe] were omitted (requirement for qualifying country-by-country report),
 - (b) the reference in paragraph 4(2) to “the financial accounts of that member that are used for preparation of the group’s country-by-country report” were to the financial accounts that would be used if a qualifying country-by-country report had been prepared in respect of the joint venture group, and
 - (c) in paragraph 9(2), the words from “ignoring” to the end were omitted.
 
-(2)[^key-4bd396ecc430a7abd42e20a17b19cce1] For that purpose ignore section 227(1)(a) (reference to ultimate parent treated as reference to joint venture parent).
+(2)[^c-4bd396ecc430a7abd42e20a17b19cce1] For that purpose ignore section 227(1)(a) (reference to ultimate parent treated as reference to joint venture parent).
 
 (3) Accordingly, the filing member of a multinational group may make a separate transitional safe harbour election in respect of joint venture members of a joint venture group in a territory.
 
@@ -430,7 +430,7 @@ are located in the same territory.
 
 For the purposes of this Part of this Schedule, references to the standard members of a multinational group include minority owned members.
 
-### Part 2A — UTPR transitional safe harbour election[^key-db2a8a625c07d3c7e80ee8192ffd13e8]
+### Part 2A — UTPR transitional safe harbour election[^c-db2a8a625c07d3c7e80ee8192ffd13e8]
 
 #### 12A. Election
 
@@ -453,7 +453,7 @@ For the purposes of this Part of this Schedule, references to the standard membe
   - (ii) the lowest nominal rate that generally applies that is imposed by a subdivision of that territory (and where one or more subdivisions do not impose corporate income tax, that rate will be zero), or
 - (b) otherwise, the nominal rate that generally applies.
 
-### Part 3 — Transitional reporting election[^key-bb95561f651013a3337d14ce160de3da]
+### Part 3 — Transitional reporting election[^c-bb95561f651013a3337d14ce160de3da]
 
 #### 13. Transitional reporting election
 
@@ -487,7 +487,7 @@ paragraph 10 of Schedule 14 applies to the filing member of the group for that p
 
 (7) Paragraph 2 of Schedule 15 (annual elections) applies to an election under this paragraph.
 
-### Part 4 — Pre-entry deferred tax assets and liabilities[^key-c0a96384471749395ca3eb943d40f027]
+### Part 4 — Pre-entry deferred tax assets and liabilities[^c-c0a96384471749395ca3eb943d40f027]
 
 #### 14. Straddle periods
 
@@ -583,108 +583,108 @@ so far as it does not exceed the available grace period amount in relation to th
 
 ## Annotations
 
-[^key-2815874a2d4517351a8bbab23f233084]: Textual amendment: Sch. 16 para. 2(1)(b)(ba) substituted for Sch. 16 para. 2(1)(b) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/a)
+[^c-2815874a2d4517351a8bbab23f233084]: Textual amendment: Sch. 16 para. 2(1)(b)(ba) substituted for Sch. 16 para. 2(1)(b) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/a)
 
-[^key-86a1cb23c9434ae58054385a0afa52d2]: Textual amendment: Word in [Sch. 16 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/2/3/a) omitted (in relation to accounting periods ending on or after 21.7.2025) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/2/a), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
+[^c-86a1cb23c9434ae58054385a0afa52d2]: Textual amendment: Word in [Sch. 16 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/2/3/a) omitted (in relation to accounting periods ending on or after 21.7.2025) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/2/a), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
 
-[^key-eda40bc0fd7c356705570cb79076511b]: Textual amendment: Words in Sch. 16 para. 2(3)(b) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/2)
+[^c-eda40bc0fd7c356705570cb79076511b]: Textual amendment: Words in Sch. 16 para. 2(3)(b) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/2)
 
-[^key-64953156a8352a6104fd9f1ce4c1cbfd]: Textual amendment: Sch. 16 para. 2(3)(c) and word inserted (in relation to accounting periods ending on or after 21.7.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/2/b), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
+[^c-64953156a8352a6104fd9f1ce4c1cbfd]: Textual amendment: Sch. 16 para. 2(3)(c) and word inserted (in relation to accounting periods ending on or after 21.7.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/2/b), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
 
-[^key-d4a695ef4ee6216b75d1ed228b268081]: Textual amendment: Sch. 16 para. 2(3A) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/3)
+[^c-d4a695ef4ee6216b75d1ed228b268081]: Textual amendment: Sch. 16 para. 2(3A) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/3)
 
-[^key-bd93e1cb45f5fb619b3eae4290dad93d]: Textual amendment: Words in Sch. 16 para. 2(4)(b) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/b/i)
+[^c-bd93e1cb45f5fb619b3eae4290dad93d]: Textual amendment: Words in Sch. 16 para. 2(4)(b) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/b/i)
 
-[^key-3fc8c4a432b517c3d3e9bfe1f77e8009]: Textual amendment: [Sch. 16 para. 2(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/2/4/b/i)[(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/2/4/b/ii) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/b/ii)
+[^c-3fc8c4a432b517c3d3e9bfe1f77e8009]: Textual amendment: [Sch. 16 para. 2(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/2/4/b/i)[(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/2/4/b/ii) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/b/ii)
 
-[^key-4a9d34efb28cb5bca398899fc2e8bea1]: Textual amendment: Words in Sch. 16 para. 2(5)(b) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/4)
+[^c-4a9d34efb28cb5bca398899fc2e8bea1]: Textual amendment: Words in Sch. 16 para. 2(5)(b) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/4)
 
-[^key-e3d9149ccbce5e6e5f44eac2b44ed15f]: Textual amendment: Words in Sch. 16 para. 2(6) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/c)
+[^c-e3d9149ccbce5e6e5f44eac2b44ed15f]: Textual amendment: Words in Sch. 16 para. 2(6) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/c)
 
-[^key-0c02bc341099d699cdb15635748f782b]: Textual amendment: Sch. 16 para. 2(7) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/5)
+[^c-0c02bc341099d699cdb15635748f782b]: Textual amendment: Sch. 16 para. 2(7) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/5)
 
-[^key-4c0138a1351e222a65619b82f40191a0]: Textual amendment: Words in Sch. 16 para. 2(9) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/6/a)
+[^c-4c0138a1351e222a65619b82f40191a0]: Textual amendment: Words in Sch. 16 para. 2(9) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/6/a)
 
-[^key-69ca6058a2968322e5882c73214594da]: Textual amendment: Words in Sch. 16 para. 2(9) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/6/b)
+[^c-69ca6058a2968322e5882c73214594da]: Textual amendment: Words in Sch. 16 para. 2(9) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/6/b)
 
-[^key-11d2b0afb7c8bf865a5ff2cc0b19ed1a]: Textual amendment: Words in Sch. 16 para. 2(9) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(6)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/6/c)
+[^c-11d2b0afb7c8bf865a5ff2cc0b19ed1a]: Textual amendment: Words in Sch. 16 para. 2(9) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(6)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/6/c)
 
-[^key-0be14f6ff5db067bbf076c67a7cf2e07]: Textual amendment: Words in Sch. 16 para. 2(11) renumbered as Sch. 16 para. 2(11)(a) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/d/i)
+[^c-0be14f6ff5db067bbf076c67a7cf2e07]: Textual amendment: Words in Sch. 16 para. 2(11) renumbered as Sch. 16 para. 2(11)(a) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/d/i)
 
-[^key-760d8b66b408d0478577a33c71e7a102]: Textual amendment: Words in Sch. 16 para. 2(11) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/7)
+[^c-760d8b66b408d0478577a33c71e7a102]: Textual amendment: Words in Sch. 16 para. 2(11) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/7)
 
-[^key-f551197d6bf4d36d32f34d4a3bd172ac]: Textual amendment: Sch. 16 para. 2(11)(b) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/d/ii)
+[^c-f551197d6bf4d36d32f34d4a3bd172ac]: Textual amendment: Sch. 16 para. 2(11)(b) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/2/d/ii)
 
-[^key-4c5d5b3132c05b7836db17b45d58ba10]: Textual amendment: Sch. 16 para. 2(12)(13) inserted ( with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/8)
+[^c-4c5d5b3132c05b7836db17b45d58ba10]: Textual amendment: Sch. 16 para. 2(12)(13) inserted ( with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 38(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/38/8)
 
-[^key-1b7ee4f3b1a7dd68de0f8f348983c12f]: Textual amendment: Sch. 16 para. 2A and cross-heading inserted (in relation to accounting periods beginning on or after 31.12.2023) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 51](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/51), [53(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/4)
+[^c-1b7ee4f3b1a7dd68de0f8f348983c12f]: Textual amendment: Sch. 16 para. 2A and cross-heading inserted (in relation to accounting periods beginning on or after 31.12.2023) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 51](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/51), [53(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/4)
 
-[^key-4d34f69c1f4530c88e25340333b7015a]: Textual amendment: Words in Sch. 16 Pt. 2 Ch. 1 heading substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/6/2), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-4d34f69c1f4530c88e25340333b7015a]: Textual amendment: Words in Sch. 16 Pt. 2 Ch. 1 heading substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/6/2), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-dd8c144efdb87bb11df2b6fe349382f7]: Textual amendment: Sch. 16 para. 3(1)(1A) substituted for Sch. 16 para. 3(1) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/1/2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/2)
+[^c-dd8c144efdb87bb11df2b6fe349382f7]: Textual amendment: Sch. 16 para. 3(1)(1A) substituted for Sch. 16 para. 3(1) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/1/2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/2)
 
-[^key-bfc493c1cfa72f5749dfad6139844a04]: Textual amendment: Words in Sch. 16 para. 3(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-bfc493c1cfa72f5749dfad6139844a04]: Textual amendment: Words in Sch. 16 para. 3(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-857db596179eddf093682b78c2020f8f]: Textual amendment: Words in Sch. 16 para. 3(2)(c) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-857db596179eddf093682b78c2020f8f]: Textual amendment: Words in Sch. 16 para. 3(2)(c) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-ca448d35d34057c1a4d068b363d05cf1]: Textual amendment: Words in Sch. 16 para. 3(2)(c)(ii) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/3/a)
+[^c-ca448d35d34057c1a4d068b363d05cf1]: Textual amendment: Words in Sch. 16 para. 3(2)(c)(ii) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/3/a)
 
-[^key-4c960c7f69863a31040f1b6bacaa5195]: Textual amendment: Sch. 16 para. 3(4) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/3/b)
+[^c-4c960c7f69863a31040f1b6bacaa5195]: Textual amendment: Sch. 16 para. 3(4) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/34/3/b)
 
-[^key-386c5a039dec009ca7ba47b5846e19ea]: Textual amendment: Sch. 16 para. 3(7)-(9) substituted for Sch. 16 para. 3(7)(8) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 29(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/29/2)
+[^c-386c5a039dec009ca7ba47b5846e19ea]: Textual amendment: Sch. 16 para. 3(7)-(9) substituted for Sch. 16 para. 3(7)(8) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 29(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/29/2)
 
-[^key-6185d2b2bc5777a55d59aec1492ff6e6]: Textual amendment: Words in Sch. 16 para. 3(7) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/c), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-6185d2b2bc5777a55d59aec1492ff6e6]: Textual amendment: Words in Sch. 16 para. 3(7) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/c), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-880480427d4c7334e53c9d7c8b11c862]: Textual amendment: Sch. 16 para. 3(7A) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/d), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-880480427d4c7334e53c9d7c8b11c862]: Textual amendment: Sch. 16 para. 3(7A) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(d)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/d), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-ab99e0a4780a5384266cb012922ac3f5]: Textual amendment: Sch. 16 para. 3(10) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/e), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-ab99e0a4780a5384266cb012922ac3f5]: Textual amendment: Sch. 16 para. 3(10) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(2)(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/2/e), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-cd35d78075d8f7c679cfda75d83da5b2]: Textual amendment: Word in Sch. 16 para. 4(1)(a) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/3/a/i), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-cd35d78075d8f7c679cfda75d83da5b2]: Textual amendment: Word in Sch. 16 para. 4(1)(a) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/3/a/i), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-517d1d71316a1c626e9a06b3f1d3e26c]: Textual amendment: Words in Sch. 16 para. 4(1)(a) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/3/a/ii), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-517d1d71316a1c626e9a06b3f1d3e26c]: Textual amendment: Words in Sch. 16 para. 4(1)(a) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/3/a/ii), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-52a25eca86cfaca8b586fad2784451d8]: Textual amendment: Sch. 16 para. 4(1)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/3/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-52a25eca86cfaca8b586fad2784451d8]: Textual amendment: Sch. 16 para. 4(1)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/3/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-507e03592285e83f16080f30fbb03f74]: Textual amendment: Sch. 16 para. 4(1A) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/4), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-507e03592285e83f16080f30fbb03f74]: Textual amendment: Sch. 16 para. 4(1A) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/4), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-28a9b67e04f1c3661958e1a3520aa953]: Textual amendment: Word in Sch. 16 para. 4(3) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/3/a/i)
+[^c-28a9b67e04f1c3661958e1a3520aa953]: Textual amendment: Word in Sch. 16 para. 4(3) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/3/a/i)
 
-[^key-42a41bad4fc1012f8e41508127f2321f]: Textual amendment: Sch. 16 para. 4(3)(d) and word inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/3/a/ii)
+[^c-42a41bad4fc1012f8e41508127f2321f]: Textual amendment: Sch. 16 para. 4(3)(d) and word inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/3/a/ii)
 
-[^key-488983e35312500a27838e9da07447e5]: Textual amendment: Word in Sch. 16 para. 4(3)(d) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/5), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-488983e35312500a27838e9da07447e5]: Textual amendment: Word in Sch. 16 para. 4(3)(d) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/5), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-99c3911ca8c616577832f0c20572cb7e]: Textual amendment: Words in Sch. 16 para. 4(4) substituted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 47(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/3), [72(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/2)
+[^c-99c3911ca8c616577832f0c20572cb7e]: Textual amendment: Words in Sch. 16 para. 4(4) substituted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 47(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/3), [72(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/2)
 
-[^key-4e427c5da346d148e2930be135e938c7]: Textual amendment: Word in Sch. 16 para. 4(5) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/3/b)
+[^c-4e427c5da346d148e2930be135e938c7]: Textual amendment: Word in Sch. 16 para. 4(5) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/3/b)
 
-[^key-24c31a10dfd486d2b719968960868828]: Textual amendment: Sch. 16 para. 4A and cross-heading inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/6), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-24c31a10dfd486d2b719968960868828]: Textual amendment: Sch. 16 para. 4A and cross-heading inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/6), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-46f62ba2c8c1e9365495b182f9290ca8]: Textual amendment: Sch. 16 para. 5 renumbered as Sch. 16 para. 5(1) (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/7/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-46f62ba2c8c1e9365495b182f9290ca8]: Textual amendment: Sch. 16 para. 5 renumbered as Sch. 16 para. 5(1) (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(7)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/7/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-a14e5530357f23aff997278650020f8a]: Textual amendment: Word in [Sch. 16 para. 5(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/5/1) omitted (in relation to accounting periods ending on or after 21.7.2025) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/3/a/i), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
+[^c-a14e5530357f23aff997278650020f8a]: Textual amendment: Word in [Sch. 16 para. 5(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/16/paragraph/5/1) omitted (in relation to accounting periods ending on or after 21.7.2025) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/3/a/i), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
 
-[^key-bc149663a76f634ef0b13b06624a2a62]: Textual amendment: Sch. 16 para. 5(1)(c) and word inserted (in relation to accounting periods ending on or after 21.7.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/3/a/ii), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
+[^c-bc149663a76f634ef0b13b06624a2a62]: Textual amendment: Sch. 16 para. 5(1)(c) and word inserted (in relation to accounting periods ending on or after 21.7.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/3/a/ii), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
 
-[^key-04bb16e606399d845df59ab9fcf884c7]: Textual amendment: Sch. 16 para. 5(2) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/7/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-04bb16e606399d845df59ab9fcf884c7]: Textual amendment: Sch. 16 para. 5(2) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 46(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/46/7/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-2b3eda6cbfa0dda448a7056209681019]: Textual amendment: Word in Sch. 16 para. 6(6) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/4)
+[^c-2b3eda6cbfa0dda448a7056209681019]: Textual amendment: Word in Sch. 16 para. 6(6) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 39(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/39/4)
 
-[^key-92a92c8bc9cf65f90bfe01b247602bae]: Textual amendment: Sch. 16 paras. 6A, 6B and cross-headings inserted (in relation to accounting periods commencing on or after 31.12.2023 (subject to sub-paragraph (2) of the amending paragraph)) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 para. 47(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/2), [72(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/2)
+[^c-92a92c8bc9cf65f90bfe01b247602bae]: Textual amendment: Sch. 16 paras. 6A, 6B and cross-headings inserted (in relation to accounting periods commencing on or after 31.12.2023 (subject to sub-paragraph (2) of the amending paragraph)) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 para. 47(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/47/2), [72(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/2)
 
-[^key-1e77bbb31b93385d5834338ba0cbc187]: Textual amendment: Words in Sch. 16 Pt. 2 Ch. 2 heading inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/6/3), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-1e77bbb31b93385d5834338ba0cbc187]: Textual amendment: Words in Sch. 16 Pt. 2 Ch. 2 heading inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/6/3), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-2b00bcee6a64b884daf2fff9f3b380be]: Textual amendment: Sch. 16 para. 10 renumbered as Sch. 16 para. 10(1) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/a)
+[^c-2b00bcee6a64b884daf2fff9f3b380be]: Textual amendment: Sch. 16 para. 10 renumbered as Sch. 16 para. 10(1) (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/a)
 
-[^key-c7a1ae653fefc7d62fc039c947925a40]: Textual amendment: Words in Sch. 16 para. 10(1) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/b/i)
+[^c-c7a1ae653fefc7d62fc039c947925a40]: Textual amendment: Words in Sch. 16 para. 10(1) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/b/i)
 
-[^key-9ca8cd5067f16b35f1ece1b100e35a15]: Textual amendment: Words in Sch. 16 para. 10(1) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/b/ii)
+[^c-9ca8cd5067f16b35f1ece1b100e35a15]: Textual amendment: Words in Sch. 16 para. 10(1) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/b/ii)
 
-[^key-23c26ba4d4ea7ee3055b40894ff21fbe]: Textual amendment: Word in Sch. 16 para. 10(1)(a) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/c)
+[^c-23c26ba4d4ea7ee3055b40894ff21fbe]: Textual amendment: Word in Sch. 16 para. 10(1)(a) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/c)
 
-[^key-4bd396ecc430a7abd42e20a17b19cce1]: Textual amendment: Sch. 16 para. 10(2)(3) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/d)
+[^c-4bd396ecc430a7abd42e20a17b19cce1]: Textual amendment: Sch. 16 para. 10(2)(3) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 58(3)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/58/3/d)
 
-[^key-db2a8a625c07d3c7e80ee8192ffd13e8]: Textual amendment: Sch. 16 Pt. 2A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 6(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/6/4), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-db2a8a625c07d3c7e80ee8192ffd13e8]: Textual amendment: Sch. 16 Pt. 2A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 6(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/6/4), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-bb95561f651013a3337d14ce160de3da]: Textual amendment: Sch. 16 Pt. 3 inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 40(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/40/1)
+[^c-bb95561f651013a3337d14ce160de3da]: Textual amendment: Sch. 16 Pt. 3 inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 40(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/40/1)
 
-[^key-c0a96384471749395ca3eb943d40f027]: Textual amendment: Sch. 16 Pt. 4 inserted (in relation to accounting periods ending on or after 21.7.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/4), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)
+[^c-c0a96384471749395ca3eb943d40f027]: Textual amendment: Sch. 16 Pt. 4 inserted (in relation to accounting periods ending on or after 21.7.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 21(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/21/4), [53(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/2)

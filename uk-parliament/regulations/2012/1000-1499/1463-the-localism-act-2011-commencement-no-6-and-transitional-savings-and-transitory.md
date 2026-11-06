@@ -41,7 +41,7 @@ Made
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by section 240(2) and (7) of the Localism Act 2011[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-5de9a3cf7186cba650ba042da0f1b172]
+## 1. Citation and interpretation[^c-5de9a3cf7186cba650ba042da0f1b172]
 
 (1) This Order may be cited as the Localism Act 2011 (Commencement No. 6 and Transitional, Savings and Transitory Provisions) Order 2012.
 
@@ -51,7 +51,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 - “the 2000 Act” means the Local Government Act 2000[^f00002]; and
 - “police authority” means a police authority (in England or in Wales) established under section 3 of the Police Act 1996[^f00003].
 
-## 2. Provisions coming into force in relation to England and Wales on the day after the day on which this Order is made[^key-d61ddecd660e04ba423426ef53375613]
+## 2. Provisions coming into force in relation to England and Wales on the day after the day on which this Order is made[^c-d61ddecd660e04ba423426ef53375613]
 
 The following provisions of the Act (so far as they are not yet in force) come into force in relation to England and Wales on the day after the day on which this Order is made—
 
@@ -65,15 +65,15 @@ The following provisions of the Act (so far as they are not yet in force) come i
 - (h) in Schedule 4, paragraphs 13(1), (2) and 31 so far as they repeal provisions which enable regulations to enable a standards committee of a relevant authority to suspend or partially suspend a person from being a member or co-opted member of the authority, and section 26 so far as it relates to those provisions;
 - (i) Part 31 of Schedule 25 and section 237 so far as relating to that Part.
 
-## 3. Provisions coming into force in relation to England and Wales on 18th June 2012[^key-336b7ea0cb4c8d12320522bcc7484bab]
+## 3. Provisions coming into force in relation to England and Wales on 18th June 2012[^c-336b7ea0cb4c8d12320522bcc7484bab]
 
 Sections 145 to 147 of the Act (so far as they are not yet in force) come into force in relation to England and Wales on 18th June 2012.
 
-## 4. Provisions coming into force in relation to England and Wales on 27th June 2012[^key-d79f05b289d1b8fbd3dcc91c50fed1aa]
+## 4. Provisions coming into force in relation to England and Wales on 27th June 2012[^c-d79f05b289d1b8fbd3dcc91c50fed1aa]
 
 Sections 81 to 85 of the Act (so far as they are not yet in force) come into force in relation to England and Wales on 27th June 2012.
 
-## 5. Provisions coming into force in relation to England and Wales on 1st July 2012[^key-047363e2f1044b8d1c6c324d8bc2e110]
+## 5. Provisions coming into force in relation to England and Wales on 1st July 2012[^c-047363e2f1044b8d1c6c324d8bc2e110]
 
 Subject to articles 6 and 7, the following provisions of the Act (so far as they are not yet in force) come into force in relation to England and Wales on 1st July 2012—
 
@@ -82,11 +82,11 @@ Subject to articles 6 and 7, the following provisions of the Act (so far as they
 - (c) sections 28 to 34; and
 - (d) Part 5 of Schedule 25 and section 237 so far as relating to that Part except insofar as the repeals set out in that Part apply in relation to a police authority.
 
-## 6. Transitional, transitory and savings provisions[^key-801c4b2ed6c4ae9dbeeb4c3fbafb7f23]
+## 6. Transitional, transitory and savings provisions[^c-801c4b2ed6c4ae9dbeeb4c3fbafb7f23]
 
 The following transitional, transitory and savings provisions have effect.
 
-## 7. Transitional etc provisions: standards[^key-4cc60517f2e5276c470b90b07942d31d]
+## 7. Transitional etc provisions: standards[^c-4cc60517f2e5276c470b90b07942d31d]
 
 (1) Notwithstanding section 28(8)(b) of the Act, a person may be appointed by a relevant authority as the independent person under section 28(7) of the Act, if that person—
 
@@ -95,7 +95,7 @@ The following transitional, transitory and savings provisions have effect.
 
 (2) Paragraph (1) only applies in relation to appointments made before 1st July 2013.
 
-(2A)[^key-cb390554ec5c17e0e249e3c080965cba] A person who falls within the description in sub-paragraphs (a) and (b) of paragraph (1) may not be appointed for a period ending on or after 1st July 2013.
+(2A)[^c-cb390554ec5c17e0e249e3c080965cba] A person who falls within the description in sub-paragraphs (a) and (b) of paragraph (1) may not be appointed for a period ending on or after 1st July 2013.
 
 (2B) Paragraph (2A) does not apply in relation to an appointment—
 
@@ -263,24 +263,24 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-5de9a3cf7186cba650ba042da0f1b172]: Commencement: Art. 1 in force at made date
+[^c-5de9a3cf7186cba650ba042da0f1b172]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
 [^f00003]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 3 is repealed by the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) from a date to be appointed.
 
-[^key-d61ddecd660e04ba423426ef53375613]: Commencement: Art. 2 in force at made date
+[^c-d61ddecd660e04ba423426ef53375613]: Commencement: Art. 2 in force at made date
 
-[^key-336b7ea0cb4c8d12320522bcc7484bab]: Commencement: Art. 3 in force at made date
+[^c-336b7ea0cb4c8d12320522bcc7484bab]: Commencement: Art. 3 in force at made date
 
-[^key-d79f05b289d1b8fbd3dcc91c50fed1aa]: Commencement: Art. 4 in force at made date
+[^c-d79f05b289d1b8fbd3dcc91c50fed1aa]: Commencement: Art. 4 in force at made date
 
-[^key-047363e2f1044b8d1c6c324d8bc2e110]: Commencement: Art. 5 in force at made date
+[^c-047363e2f1044b8d1c6c324d8bc2e110]: Commencement: Art. 5 in force at made date
 
-[^key-801c4b2ed6c4ae9dbeeb4c3fbafb7f23]: Commencement: Art. 6 in force at made date
+[^c-801c4b2ed6c4ae9dbeeb4c3fbafb7f23]: Commencement: Art. 6 in force at made date
 
-[^key-4cc60517f2e5276c470b90b07942d31d]: Commencement: Art. 7 in force at made date
+[^c-4cc60517f2e5276c470b90b07942d31d]: Commencement: Art. 7 in force at made date
 
-[^key-cb390554ec5c17e0e249e3c080965cba]: Textual amendment: [Art. 7(2A)](https://www.legislation.gov.uk/uksi/2012/1463/article/7/2A)[(2B)](https://www.legislation.gov.uk/uksi/2012/1463/article/7/2B) inserted (3.7.2012) by [The Localism Act 2011 (Commencement No. 6 and Transitional, Savings and Transitory Provisions) (Amendment) Order 2012 (S.I. 2012/1714)](https://www.legislation.gov.uk/uksi/2012/1714), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1714/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1714/article/2/2)
+[^c-cb390554ec5c17e0e249e3c080965cba]: Textual amendment: [Art. 7(2A)](https://www.legislation.gov.uk/uksi/2012/1463/article/7/2A)[(2B)](https://www.legislation.gov.uk/uksi/2012/1463/article/7/2B) inserted (3.7.2012) by [The Localism Act 2011 (Commencement No. 6 and Transitional, Savings and Transitory Provisions) (Amendment) Order 2012 (S.I. 2012/1714)](https://www.legislation.gov.uk/uksi/2012/1714), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1714/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1714/article/2/2)
 
 [^f00004]: Footnote: [S.I. 2008/1085](https://www.legislation.gov.uk/uksi/2008/1085). Relevant amendments were made by [S.I. 2012/22](https://www.legislation.gov.uk/uksi/2012/22).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82A. Procurement of recycled and recyclable products etc.[^key-f8e1d9eb0d0121a74e1fa623bed75528]
+## 82A. Procurement of recycled and recyclable products etc.[^c-f8e1d9eb0d0121a74e1fa623bed75528]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ to them in relation to the requirements imposed by the regulations.
 
 ## Annotations
 
-[^key-f8e1d9eb0d0121a74e1fa623bed75528]: Textual amendment: S. 82A inserted (18.4.2016) by [Procurement Reform (Scotland) Act 2014 (asp 12)](https://www.legislation.gov.uk/asp/2014/12), [ss. 36](https://www.legislation.gov.uk/asp/2014/12/section/36), [45](https://www.legislation.gov.uk/asp/2014/12/section/45); [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-f8e1d9eb0d0121a74e1fa623bed75528]: Textual amendment: S. 82A inserted (18.4.2016) by [Procurement Reform (Scotland) Act 2014 (asp 12)](https://www.legislation.gov.uk/asp/2014/12), [ss. 36](https://www.legislation.gov.uk/asp/2014/12/section/36), [45](https://www.legislation.gov.uk/asp/2014/12/section/45); [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Premises, facilities and equipment - service providers[^key-719c00a8ec3d47f3828c8d5792be8b39]
+## 36. Premises, facilities and equipment - service providers[^c-719c00a8ec3d47f3828c8d5792be8b39]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that the premises, facilities and equipment use
 
 ## Annotations
 
-[^key-719c00a8ec3d47f3828c8d5792be8b39]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/169/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-719c00a8ec3d47f3828c8d5792be8b39]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/169/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

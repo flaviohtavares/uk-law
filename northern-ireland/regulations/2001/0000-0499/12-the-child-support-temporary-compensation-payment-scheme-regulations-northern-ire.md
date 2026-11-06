@@ -43,7 +43,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by section 26(1) to (4) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-21afff903c1a2ed83e8c2e6df9f2c906]
+## 1. Citation, commencement and interpretation[^c-21afff903c1a2ed83e8c2e6df9f2c906]
 
 (1) These Regulations may be cited as the Child Support (Temporary Compensation Payment Scheme) Regulations (Northern Ireland) 2001 and shall come into operation on 19th February 2001.
 
@@ -53,7 +53,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “the Child Support Order” means the Child Support (Northern Ireland) Order 1991[^f00002] before its amendment by the Act; and
 - “the Social Security Order” means the Social Security (Northern Ireland) Order 1998[^f00003].
 
-## 2. Application of the Regulations[^key-772051065ea59c757b2180baaf47447a]
+## 2. Application of the Regulations[^c-772051065ea59c757b2180baaf47447a]
 
 (1) For the purposes of section 26(2) of the Act, section 26 shall have effect as if it were modified so as to apply to cases of arrears of child support maintenance which have become due under a fresh maintenance assessment made in the following circumstances—
 
@@ -71,11 +71,11 @@ and the effective date of the assessment is earlier than the date on which the a
 - “current amount” means the amount of child support maintenance fixed by the current assessment; and
 - “revised amount” means the amount of child support maintenance fixed by the fresh maintenance assessment as a result of the departure direction given by the Department.
 
-## 3. Prescribed date[^key-d5a3aae4e70a3d9e1fee96dad5aec7b6]
+## 3. Prescribed date[^c-d5a3aae4e70a3d9e1fee96dad5aec7b6]
 
-For the purposes of section 26(1)(*a*) of the Act, the prescribed date is 1st April 2005[^key-1c86860f87b8f87a9104f5d5404b99ef].
+For the purposes of section 26(1)(*a*) of the Act, the prescribed date is 1st April 2005[^c-1c86860f87b8f87a9104f5d5404b99ef].
 
-## 4. Prescribed circumstances[^key-e64cece97abb2611b7221eb139108372]
+## 4. Prescribed circumstances[^c-e64cece97abb2611b7221eb139108372]
 
 (1) In relation to cases of arrears which have become due under a maintenance assessment falling within section 26(1)(*a*) of the Act or a fresh maintenance assessment falling within section 26(1)(*b*) of the Act or regulation 2(1), the prescribed circumstances for the purposes of section 26(3) of the Act are that—
 
@@ -90,7 +90,7 @@ For the purposes of section 26(1)(*a*) of the Act, the prescribed date is 1st Ap
 
 (2) In this regulation “agreement” means an agreement under section 26 of the Act.
 
-## 5. Terms of the agreement[^key-17ef0f6444a382a7636cc60c4ae533d7]
+## 5. Terms of the agreement[^c-17ef0f6444a382a7636cc60c4ae533d7]
 
 (1) For the purposes of section 26(4) of the Act, the terms which may be specified in the agreement are—
 
@@ -142,13 +142,13 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00001]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-21afff903c1a2ed83e8c2e6df9f2c906]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/12/regulation/1) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
+[^c-21afff903c1a2ed83e8c2e6df9f2c906]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/12/regulation/1) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
 [^f00003]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-772051065ea59c757b2180baaf47447a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/12/regulation/2) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
+[^c-772051065ea59c757b2180baaf47447a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/12/regulation/2) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
 
 [^f00004]: Footnote: Article 28F was inserted by Article 3(1) of the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
 
@@ -158,10 +158,10 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00007]: Footnote: Article 22 was amended by paragraph 5 of Schedule 3 to the Child Support (Northern Ireland) Order 1995
 
-[^key-d5a3aae4e70a3d9e1fee96dad5aec7b6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/12/regulation/3) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
+[^c-d5a3aae4e70a3d9e1fee96dad5aec7b6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/12/regulation/3) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
 
-[^key-1c86860f87b8f87a9104f5d5404b99ef]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/nisr/2001/12/regulation/3) substituted (20.7.2002) by [The Child Support (Temporary Compensation Payment Scheme) (Modification and Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/247)](https://www.legislation.gov.uk/nisr/2002/247), [regs. 1](https://www.legislation.gov.uk/nisr/2002/247/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/247/regulation/3)
+[^c-1c86860f87b8f87a9104f5d5404b99ef]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/nisr/2001/12/regulation/3) substituted (20.7.2002) by [The Child Support (Temporary Compensation Payment Scheme) (Modification and Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/247)](https://www.legislation.gov.uk/nisr/2002/247), [regs. 1](https://www.legislation.gov.uk/nisr/2002/247/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/247/regulation/3)
 
-[^key-e64cece97abb2611b7221eb139108372]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/12/regulation/4) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
+[^c-e64cece97abb2611b7221eb139108372]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/12/regulation/4) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
 
-[^key-17ef0f6444a382a7636cc60c4ae533d7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/12/regulation/5) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)
+[^c-17ef0f6444a382a7636cc60c4ae533d7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/12/regulation/5) in operation at 19.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/12/regulation/1/1)

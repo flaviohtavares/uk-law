@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Duties on consignees[^key-4bcb574bcebae7c113237053044b6002]
+## 11. Duties on consignees[^c-4bcb574bcebae7c113237053044b6002]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)
+[^c-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16 — Repeals[^c2052234][^key-412f58edd92216bb2ac3fa1a2d9b626a]
+## SCHEDULE 16 — Repeals[^c2052234][^c-412f58edd92216bb2ac3fa1a2d9b626a]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ Section 266
 
 [^c2052234]: Commencement: Sch. 16 partly in force; Sch. 16 not in force at Royal Assent see s. 270(4)(5); Sch. 16 in force for E. for certain purposes at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 16 in force for W. for certain purposes at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule)); Sch. 16 in force for E. for certain further purposes at 6.4.2007 by [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/b)
 
-[^key-412f58edd92216bb2ac3fa1a2d9b626a]: Textual amendment: Sch. 14 para. 2(1)(c)(d) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) , [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) , [Sch. 16 para. 335](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/335) ; [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019) , [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3) , [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/76) )
+[^c-412f58edd92216bb2ac3fa1a2d9b626a]: Textual amendment: Sch. 14 para. 2(1)(c)(d) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) , [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) , [Sch. 16 para. 335](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/335) ; [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019) , [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3) , [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/76) )

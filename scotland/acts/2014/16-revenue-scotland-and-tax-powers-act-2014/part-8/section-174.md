@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Interaction of penalties under Chapter 2 with other penalties[^key-537385860c931efedc926ed5b3806bae]
+## 174. Interaction of penalties under Chapter 2 with other penalties[^c-537385860c931efedc926ed5b3806bae]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where P is liable to a penalty under this Chapter which is determined by referen
 
 ## Annotations
 
-[^key-537385860c931efedc926ed5b3806bae]: Commencement: [S. 174](https://www.legislation.gov.uk/asp/2014/16/section/174) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-537385860c931efedc926ed5b3806bae]: Commencement: [S. 174](https://www.legislation.gov.uk/asp/2014/16/section/174) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

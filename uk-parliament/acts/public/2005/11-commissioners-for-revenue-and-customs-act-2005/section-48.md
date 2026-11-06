@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Transfer of property, &c.: general[^key-64e01fc52387188c7a57c4277d7232ad]
+## 48. Transfer of property, &c.: general[^c-64e01fc52387188c7a57c4277d7232ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64e01fc52387188c7a57c4277d7232ad]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/11/section/48) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-64e01fc52387188c7a57c4277d7232ad]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/11/section/48) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

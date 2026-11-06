@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Decisions to issue warrants to be taken personally by Ministers[^key-59cf2e0d135b7a8a50babe9f1c6effdb]
+## 30. Decisions to issue warrants to be taken personally by Ministers[^c-59cf2e0d135b7a8a50babe9f1c6effdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59cf2e0d135b7a8a50babe9f1c6effdb]: Commencement: S. 30 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/n)
+[^c-59cf2e0d135b7a8a50babe9f1c6effdb]: Commencement: S. 30 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/n)

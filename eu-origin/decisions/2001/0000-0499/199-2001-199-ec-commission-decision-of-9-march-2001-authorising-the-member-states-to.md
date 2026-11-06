@@ -31,10 +31,10 @@ summary: ''
 
 of 9 March 2001 authorising the Member States to provide for derogations from certain provisions of Council Directive 2000/29/EC in respect of potatoes, other than potatoes intended for planting, originating in New Zealand (notified under document number C(2001) 685) (revoked)
 
-[^key-e457036e1e251f424cc80cbbab6e7fad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e457036e1e251f424cc80cbbab6e7fad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e457036e1e251f424cc80cbbab6e7fad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e457036e1e251f424cc80cbbab6e7fad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e457036e1e251f424cc80cbbab6e7fad]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-e457036e1e251f424cc80cbbab6e7fad]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

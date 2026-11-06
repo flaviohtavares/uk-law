@@ -45,7 +45,7 @@ summary: ''
 
 (7) Any dispute arising between the landlord and the tenant of the holding under this section shall be determined by arbitration under this Act.
 
-(7A)[^key-b61168ad47d25592fb570b17dd04ffcd] Notwithstanding subsection (7) above, the landlord and the tenant may instead refer the dispute for third party determination under this Act.
+(7A)[^c-b61168ad47d25592fb570b17dd04ffcd] Notwithstanding subsection (7) above, the landlord and the tenant may instead refer the dispute for third party determination under this Act.
 
 (8) This section applies to an improvement whether or not it is one for the carrying out of which compensation is provided under Part V or VI of this Act.
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c10154321]: Marginal citation: [1974 c. 44](https://www.legislation.gov.uk/ukpga/1974/44).
 
-[^key-b61168ad47d25592fb570b17dd04ffcd]: Textual amendment: S. 13(7A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/9)
+[^c-b61168ad47d25592fb570b17dd04ffcd]: Textual amendment: S. 13(7A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/9)

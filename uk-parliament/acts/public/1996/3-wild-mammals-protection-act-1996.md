@@ -39,7 +39,7 @@ Be it enacted by the Queens’ most Excellent Majesty, by and with the advice an
 
 If, save as permitted by this Act, any person mutilates, kicks, beats, nails or otherwise impales, stabs, burns, stones, crushes, drowns, drags or asphyxiates any wild mammal with intent to inflict unnecessary suffering he shall be guilty of an offence.
 
-## 2. Exceptions from offence under the Act.[^key-1e5994f534789e748f661b66b37abd9e]
+## 2. Exceptions from offence under the Act.[^c-1e5994f534789e748f661b66b37abd9e]
 
 A person shall not be guilty of an offence under this Act by reason of—
 
@@ -51,9 +51,9 @@ A person shall not be guilty of an offence under this Act by reason of—
 
 ## 3. Interpretation.
 
-In this Act “[^key-7fc3953f8030af5d2242312e1e3be001]**wild mammal**” means any mammal which is not a “protected animal” within the meaning of the Animal Welfare Act 2006.
+In this Act “[^c-7fc3953f8030af5d2242312e1e3be001]**wild mammal**” means any mammal which is not a “protected animal” within the meaning of the Animal Welfare Act 2006.
 
-In this Act “wild mammal” means any mammal which is not a protected animal within the meaning of section 17 of the *(Extent: S)*[^key-d541343f163aae78e86925506dc5eb79] [Animal Health and Welfare (Scotland) Act 2006 (asp 11) *(Extent: S)*](https://www.legislation.gov.uk/asp/2006/11). *(Extent: S)*
+In this Act “wild mammal” means any mammal which is not a protected animal within the meaning of section 17 of the *(Extent: S)*[^c-d541343f163aae78e86925506dc5eb79] [Animal Health and Welfare (Scotland) Act 2006 (asp 11) *(Extent: S)*](https://www.legislation.gov.uk/asp/2006/11). *(Extent: S)*
 
 ## 4. Powers of constable.[^c833915]
 
@@ -64,7 +64,7 @@ Where a constable has reasonable grounds for suspecting that a person has commit
 
 ## 5. Penalties.
 
-(1 (Extent: S) (affected by repeal, see note))[^key-106489604ca31cb7786df277a985e2e3] A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale, or a term of imprisonment not exceeding six months, or both. *(Extent: S)* *(affected by repeal, see note)*[^key-106489604ca31cb7786df277a985e2e3]
+(1 (Extent: S) (affected by repeal, see note))[^c-106489604ca31cb7786df277a985e2e3] A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale, or a term of imprisonment not exceeding six months, or both. *(Extent: S)* *(affected by repeal, see note)*[^c-106489604ca31cb7786df277a985e2e3]
 
 (1 (Extent: S)) A person guilty of an offence under this Act is liable— *(Extent: S)*
 
@@ -97,14 +97,14 @@ Where a constable has reasonable grounds for suspecting that a person has commit
 
 [^c833911]: Commencement: Act wholly in force at 29.04.1996 see [s. 7(2)](https://www.legislation.gov.uk/ukpga/1996/3/section/7/2).
 
-[^key-1e5994f534789e748f661b66b37abd9e]: Modification: S. 2 modified (E.W.) (18.2.2005) by [Hunting Act 2004 (c. 37)](https://www.legislation.gov.uk/ukpga/2004/37), [s. 15](https://www.legislation.gov.uk/ukpga/2004/37/section/15), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2004/37/schedule/2/paragraph/5) (with [s. 12](https://www.legislation.gov.uk/ukpga/2004/37/section/12))
+[^c-1e5994f534789e748f661b66b37abd9e]: Modification: S. 2 modified (E.W.) (18.2.2005) by [Hunting Act 2004 (c. 37)](https://www.legislation.gov.uk/ukpga/2004/37), [s. 15](https://www.legislation.gov.uk/ukpga/2004/37/section/15), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2004/37/schedule/2/paragraph/5) (with [s. 12](https://www.legislation.gov.uk/ukpga/2004/37/section/12))
 
 [^c833912]: Textual amendment: Word in s. 2(b) inserted (S.) (1.8.2002) by [2002 asp 6](https://www.legislation.gov.uk/asp/2002/6), [s. 11](https://www.legislation.gov.uk/asp/2002/6/section/11), [Sch. para. 6](https://www.legislation.gov.uk/asp/2002/6/schedule/paragraph/6); [SSI 2002/181](https://www.legislation.gov.uk/ssi/2002/181), [art. 2](https://www.legislation.gov.uk/ssi/2002/181/article/2)
 
-[^key-7fc3953f8030af5d2242312e1e3be001]: Textual amendment: S. 3 substituted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/13) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l)
+[^c-7fc3953f8030af5d2242312e1e3be001]: Textual amendment: S. 3 substituted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/13) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l)
 
-[^key-d541343f163aae78e86925506dc5eb79]: Textual amendment: S. 3 substituted (S.) (3.11.2006) by virtue of [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. para. 12](https://www.legislation.gov.uk/ssi/2006/536/schedule/paragraph/12)
+[^c-d541343f163aae78e86925506dc5eb79]: Textual amendment: S. 3 substituted (S.) (3.11.2006) by virtue of [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. para. 12](https://www.legislation.gov.uk/ssi/2006/536/schedule/paragraph/12)
 
 [^c833915]: Extent: S. 4 extends to England, Wales and Scotland but so much of s. 4 as refers to s. 6 does not apply to Scotland, see s. 7(4)
 
-[^key-106489604ca31cb7786df277a985e2e3]: Textual amendment: S. 5(1) substituted (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 11](https://www.legislation.gov.uk/asp/2020/14/section/11), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-106489604ca31cb7786df277a985e2e3]: Textual amendment: S. 5(1) substituted (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 11](https://www.legislation.gov.uk/asp/2020/14/section/11), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))

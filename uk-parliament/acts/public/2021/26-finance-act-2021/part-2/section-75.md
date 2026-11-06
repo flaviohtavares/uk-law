@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Transfer of business as a going concern: regulations[^key-ccade01e64b219f4c7f95074962c393c][^key-75ed24a97dbf9d387d3f5c6a6f2a9096][^key-469a62b9d55a3a2abfb4e208c186572b][^key-469a62b9d55a3a2abfb4e208c186572b]
+## 75. Transfer of business as a going concern: regulations[^c-ccade01e64b219f4c7f95074962c393c][^c-75ed24a97dbf9d387d3f5c6a6f2a9096][^c-469a62b9d55a3a2abfb4e208c186572b][^c-469a62b9d55a3a2abfb4e208c186572b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ccade01e64b219f4c7f95074962c393c]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/26/section/75) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
+[^c-ccade01e64b219f4c7f95074962c393c]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/26/section/75) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
 
-[^key-75ed24a97dbf9d387d3f5c6a6f2a9096]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/26/section/75) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
+[^c-75ed24a97dbf9d387d3f5c6a6f2a9096]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/26/section/75) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
+[^c-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)

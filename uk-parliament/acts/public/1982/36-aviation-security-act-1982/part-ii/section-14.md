@@ -25,14 +25,14 @@ summary: ''
 - (a) is the operator of one or more aircraft registered or operating in the United Kingdom,
 - (b) is the manager of an aerodrome in the United Kingdom,
 - (c) occupies any land forming part of an aerodrome in the United Kingdom, or
-- (d) is permitted to have access to a security restricted area[^key-f5b6a8b0b7ff8402345fffd3467c7625] of such an aerodrome for the purposes of the activities of a business carried on by him.
+- (d) is permitted to have access to a security restricted area[^c-f5b6a8b0b7ff8402345fffd3467c7625] of such an aerodrome for the purposes of the activities of a business carried on by him.
 
 (1A) Subject to the following provisions of this section, the Secretary of State may give a direction in writing to any person to whom this subsection applies requiring him to take such measures for purposes to which this Part of this Act applies as are specified in the direction—
 
 - (a) in the case of a direction given to a person as the operator of any aircraft, in respect of all the aircraft registered or operating in the United Kingdom of which (at the time when the direction is given or at any subsequent time) he is the operator, or in respect of any such aircraft, or any class of such aircraft, specified in the direction;
 - (b) in the case of a direction given to a person as the manager of an aerodrome, in respect of that aerodrome;
 - (c) in the case of a direction given to a person as a person occupying any land forming part of an aerodrome, in respect of any such land as is specified in the direction; and
-- (d)[^c794578] in the case of a direction given to a person as a person who is permitted to have access to a security restricted area as mentioned in subsection (1)(d) above, in respect of such activities carried on by that person in that area[^key-5381a1612822ba0e3b4ba4ef451acc95] as are specified in the direction.
+- (d)[^c794578] in the case of a direction given to a person as a person who is permitted to have access to a security restricted area as mentioned in subsection (1)(d) above, in respect of such activities carried on by that person in that area[^c-5381a1612822ba0e3b4ba4ef451acc95] as are specified in the direction.
 
 (2) Without prejudice to the generality of subsection (1A) above, the measures to be specified in a direction given under this section to any person to whom that subsection applies may include the provision by that person of persons charged with the duty (at such times as may be specified in the direction)—
 
@@ -66,9 +66,9 @@ shall be guilty of an offence and liable—
 - (i) on summary conviction, to a fine not exceeding the statutory maximum;
 - (ii) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(7ZA)[^key-8af4f05154210201972cedd8d8fc6f41] Proceedings for an offence under subsection (7)(a) above may not be instituted against a person who has paid a penalty in respect of the same failure by virtue of regulations made under section 22A.
+(7ZA)[^c-8af4f05154210201972cedd8d8fc6f41] Proceedings for an offence under subsection (7)(a) above may not be instituted against a person who has paid a penalty in respect of the same failure by virtue of regulations made under section 22A.
 
-(7A)[^c794584] Where a person is convicted of an offence under subsection (7)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £100[^key-d53945b1c51f943d44eb64476ba53224] for each day on which the failure continues.
+(7A)[^c794584] Where a person is convicted of an offence under subsection (7)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £100[^c-d53945b1c51f943d44eb64476ba53224] for each day on which the failure continues.
 
 (8) The ownership of any property shall not be affected by reason only that it is placed on or under, or affixed to, any land in compliance with a direction under this section.
 
@@ -82,11 +82,11 @@ shall be guilty of an offence and liable—
 
 [^c794577]: Textual amendment: S. 14(1)(1A)(2) substituted for S. 14(1)(2) by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 3(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/3/1)
 
-[^key-f5b6a8b0b7ff8402345fffd3467c7625]: Textual amendment: Words in s. 14 substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/d)
+[^c-f5b6a8b0b7ff8402345fffd3467c7625]: Textual amendment: Words in s. 14 substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/d)
 
 [^c794578]: Modification: S. 14(1A)(d) applied (with modifications) (1.9.1993) by [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073) , [reg. 11(2)](https://www.legislation.gov.uk/uksi/1993/1073/regulation/11/2)
 
-[^key-5381a1612822ba0e3b4ba4ef451acc95]: Textual amendment: Words in s. 14(1A)(d) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2010/902/regulation/10/a)
+[^c-5381a1612822ba0e3b4ba4ef451acc95]: Textual amendment: Words in s. 14(1A)(d) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2010/902/regulation/10/a)
 
 [^c794579]: Textual amendment: S. 14(4) repealed by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 3(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/3/2) , [53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2) , [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 
@@ -96,8 +96,8 @@ shall be guilty of an offence and liable—
 
 [^c794583]: Textual amendment: Word substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/6/2/b)
 
-[^key-8af4f05154210201972cedd8d8fc6f41]: Textual amendment: S. 14(7ZA) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 11(7)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/11/7)
+[^c-8af4f05154210201972cedd8d8fc6f41]: Textual amendment: S. 14(7ZA) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 11(7)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/11/7)
 
 [^c794584]: Textual amendment: S. 14(7A) inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8](https://www.legislation.gov.uk/ukpga/1990/31/section/8) , [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/6/3)
 
-[^key-d53945b1c51f943d44eb64476ba53224]: Textual amendment: Word in s. 14(7A) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2010/902/regulation/7/d)
+[^c-d53945b1c51f943d44eb64476ba53224]: Textual amendment: Word in s. 14(7A) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2010/902/regulation/7/d)

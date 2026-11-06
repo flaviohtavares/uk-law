@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Enforcement: Wales.[^key-c2525d544f39f0612d1eed14c09bb417]
+## 102. Enforcement: Wales.[^c-c2525d544f39f0612d1eed14c09bb417]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2525d544f39f0612d1eed14c09bb417]: Textual amendment: S. 102 omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(8)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/8); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-c2525d544f39f0612d1eed14c09bb417]: Textual amendment: S. 102 omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(8)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/8); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

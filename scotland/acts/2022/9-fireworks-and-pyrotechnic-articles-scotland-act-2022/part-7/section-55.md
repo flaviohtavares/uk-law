@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Crown application: powers of entry[^key-1095ba09b1a4df45e7f167a40e75200e][^key-5475d19bf25e84ff3d6ca6969539b39c]
+## 55. Crown application: powers of entry[^c-1095ba09b1a4df45e7f167a40e75200e][^c-5475d19bf25e84ff3d6ca6969539b39c]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1095ba09b1a4df45e7f167a40e75200e]: Commencement: S. 55 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-1095ba09b1a4df45e7f167a40e75200e]: Commencement: S. 55 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-5475d19bf25e84ff3d6ca6969539b39c]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2022/9/section/55) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-5475d19bf25e84ff3d6ca6969539b39c]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2022/9/section/55) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

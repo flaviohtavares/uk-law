@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — Additional requirements for biogas and composting plants[^key-05c3d9303c778bfa449b1fea9a1720f6]
+## SCHEDULE 1 — Additional requirements for biogas and composting plants[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 *Extent: S*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Regulations 15 and 19
 
-### PART 1 — Premises[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 1 — Premises[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
-**1.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Treatment systems and parameters for catering waste[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 2 — Treatment systems and parameters for catering waste[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
-**1.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Composting plants[^key-05c3d9303c778bfa449b1fea9a1720f6]
+#### 3. Composting plants[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Biogas plants[^key-05c3d9303c778bfa449b1fea9a1720f6]
+#### 4. Biogas plants[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05c3d9303c778bfa449b1fea9a1720f6]: Textual amendment: Regulations revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3) (with [reg. 30](https://www.legislation.gov.uk/ssi/2011/171/regulation/30))
+[^c-05c3d9303c778bfa449b1fea9a1720f6]: Textual amendment: Regulations revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3) (with [reg. 30](https://www.legislation.gov.uk/ssi/2011/171/regulation/30))

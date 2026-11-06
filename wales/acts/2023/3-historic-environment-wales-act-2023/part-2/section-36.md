@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Service and taking effect of enforcement notice[^key-050e9ccb49a81af5c79a11671172be81][^key-70b4885f44fb98a27c72f6ebc39ac405]
+## 36. Service and taking effect of enforcement notice[^c-050e9ccb49a81af5c79a11671172be81][^c-70b4885f44fb98a27c72f6ebc39ac405]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-050e9ccb49a81af5c79a11671172be81]: Commencement: S. 36 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-050e9ccb49a81af5c79a11671172be81]: Commencement: S. 36 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-70b4885f44fb98a27c72f6ebc39ac405]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2023/3/section/36) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-70b4885f44fb98a27c72f6ebc39ac405]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2023/3/section/36) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

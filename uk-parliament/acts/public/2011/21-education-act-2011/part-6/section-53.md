@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Academy arrangements: post-16 education and alternative provision[^key-a17e47b0aa04a97a263713b2006ccedb][^key-706185eb436156bbc1c5334d3bbc2549]
+## 53. Academy arrangements: post-16 education and alternative provision[^c-a17e47b0aa04a97a263713b2006ccedb][^c-706185eb436156bbc1c5334d3bbc2549]
 
 *Extent: E+W*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a17e47b0aa04a97a263713b2006ccedb]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/21/section/53) in force at 1.2.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-a17e47b0aa04a97a263713b2006ccedb]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/21/section/53) in force at 1.2.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
 
-[^key-706185eb436156bbc1c5334d3bbc2549]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/21/section/53) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-706185eb436156bbc1c5334d3bbc2549]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/21/section/53) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

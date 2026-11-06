@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Offence[^key-a2559e215eecab959c142b6f40a1405b]
+## 79. Offence[^c-a2559e215eecab959c142b6f40a1405b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ where that requirement is imposed by regulations under section 74 or 75 in relat
 
 ## Annotations
 
-[^key-a2559e215eecab959c142b6f40a1405b]: Commencement: S. 79 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-a2559e215eecab959c142b6f40a1405b]: Commencement: S. 79 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

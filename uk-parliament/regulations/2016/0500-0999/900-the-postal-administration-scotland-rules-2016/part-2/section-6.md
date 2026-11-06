@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Statement of proposed postal administrator[^key-e9c506056a65dd164e05f1ca71ae4594]
+## 6. Statement of proposed postal administrator[^c-e9c506056a65dd164e05f1ca71ae4594]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ There shall be lodged together with the petition a statement of the proposed pos
 
 ## Annotations
 
-[^key-e9c506056a65dd164e05f1ca71ae4594]: Commencement: Rule 6 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-e9c506056a65dd164e05f1ca71ae4594]: Commencement: Rule 6 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

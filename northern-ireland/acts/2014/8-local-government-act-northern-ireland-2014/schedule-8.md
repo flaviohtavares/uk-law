@@ -24,7 +24,7 @@ Section 122(7).
 
 ### Transfer of assets and liabilities
 
-**1.**[^key-0422ba1b9e0298cd16dda2aecb6cb301] (1) A scheme—
+**1.**[^c-0422ba1b9e0298cd16dda2aecb6cb301] (1) A scheme—
 
 - (a) may provide for the transfer of assets and liabilities which would not otherwise be capable of being transferred;
 - (b) accordingly has effect in relation to assets or liabilities to which it applies in spite of any provision (of whatever nature) which would otherwise prevent or restrict the transfer of those assets or liabilities;
@@ -41,7 +41,7 @@ Section 122(7).
 
 ### Transfer of staff
 
-**2.**[^key-12f89305dbdd31ba8bf937ee04bc0493] (1) This paragraph applies if rights and liabilities under a contract of employment are transferred by virtue of a scheme.
+**2.**[^c-12f89305dbdd31ba8bf937ee04bc0493] (1) This paragraph applies if rights and liabilities under a contract of employment are transferred by virtue of a scheme.
 
 (2) The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) apply to the transfer whether or not the transfer would, apart from this paragraph, be a relevant transfer for the purposes of the regulations.
 
@@ -70,7 +70,7 @@ Section 122(7).
 
 ### Continuity
 
-**3.**[^key-ac2dd09c2e78ac6c36bb2e77feba165b] (1) In any statutory provision or document—
+**3.**[^c-ac2dd09c2e78ac6c36bb2e77feba165b] (1) In any statutory provision or document—
 
 - (a) which relates to anything transferred by virtue of the scheme, and
 - (b) which is in effect immediately before the transfer date,
@@ -97,8 +97,8 @@ may be continued by or in relation to the transferee.
 
 ## Annotations
 
-[^key-0422ba1b9e0298cd16dda2aecb6cb301]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/1) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-0422ba1b9e0298cd16dda2aecb6cb301]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/1) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-12f89305dbdd31ba8bf937ee04bc0493]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/2) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-12f89305dbdd31ba8bf937ee04bc0493]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/2) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-ac2dd09c2e78ac6c36bb2e77feba165b]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/3) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-ac2dd09c2e78ac6c36bb2e77feba165b]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/3) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

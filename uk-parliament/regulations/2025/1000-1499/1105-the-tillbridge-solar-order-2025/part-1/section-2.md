@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-6bd2430e3e8c2f494d81433e1a1eadc4]
+## 2. Interpretation[^c-6bd2430e3e8c2f494d81433e1a1eadc4]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 - “**the 2008 Act**” means the Planning Act 2008[^f00019];
 - “**address**” includes any number or address used for the purposes of electronic transmission;
 - “**apparatus**” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act except that, unless otherwise provided, it further includes pipelines (and parts of them), aerial markers, cathodic protection test posts, field boundary markers, transformer rectifier kiosks, electricity cables, telecommunications equipment and electricity cabinets;
-- “**archaeological mitigation strategy**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) [^key-710b0d7a0dcdfc0e1a5401d83568d51f]... and which is certified by the Secretary of State as the archaeological mitigation strategy for the purposes of this Order;
+- “**archaeological mitigation strategy**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) [^c-710b0d7a0dcdfc0e1a5401d83568d51f]... and which is certified by the Secretary of State as the archaeological mitigation strategy for the purposes of this Order;
 - “**authorised development**” means the development and associated development described in Schedule 1 (authorised development) and any other development authorised by this Order which is development within the meaning of section 32 (meaning of “**development**”) of the 2008 Act;
 - “**book of reference**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
@@ -55,7 +55,7 @@ summary: ''
 - “**framework construction environmental management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework construction environmental management plan for the purposes of this Order;
 - “**framework construction traffic management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework construction traffic management plan for the purposes of this Order;
 - “**framework decommissioning environmental management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework decommissioning environmental management plan for the purposes of this Order;
-- “**framework landscape and ecological management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework landscape and ecological management plan for[^key-91a9259b9876da0de666ef0eecc662c0] the purposes of this Order;
+- “**framework landscape and ecological management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework landscape and ecological management plan for[^c-91a9259b9876da0de666ef0eecc662c0] the purposes of this Order;
 - “**framework operational environmental management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework operational environmental management plan for the purposes of this Order;
 - “**framework public rights of way management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework public rights of way management plan for the purposes of this Order;
 - “**framework skills, supply chain and employment plan**” means the plan of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the framework skills, supply chain and employment plan for the purposes of this Order;
@@ -67,7 +67,7 @@ summary: ''
 - “**limits of deviation**” means the limits of deviation shown for each numbered work on the works plans;
 - “**maintain**” includes inspect, repair, adjust, alter, remove, refurbish, reconstruct, replace and improve any part of, but not remove, reconstruct or replace the whole of, the authorised development and “maintenance” and “maintaining” are to be construed accordingly;
 - “**National Grid**” means National Grid Electricity Transmission plc (company number 2366977) whose registered office is at 1-3 Strand, London, WC2N 5EH or any successor as a licence holder within the meaning of Part 1 of the 1989 Act;
-- “**Order land**” means the land shown on the land and Crown land plans which is within the limits of land to be [^key-710b0d7a0dcdfc0e1a5401d83568d51f]... acquired or used and which is described in the book of reference;
+- “**Order land**” means the land shown on the land and Crown land plans which is within the limits of land to be [^c-710b0d7a0dcdfc0e1a5401d83568d51f]... acquired or used and which is described in the book of reference;
 - “**Order limits**” means the limits shown on the works plans within which the authorised development may be carried out and land acquired or used;
 - “**outline design principles statement**” means the document identified as the outline design principles statement in the table of Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the outline design principles for the purposes of this Order;
 - “**outline drainage strategy**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the outline drainage strategy for the purposes of this Order;
@@ -107,7 +107,7 @@ summary: ''
 
 (4) All distances, directions, capacities and lengths referred to in this Order are approximate and distances between lines or points on a numbered work comprised in the authorised development and shown on the works plans, traffic regulation measures plans and streets, rights of way and access plans are to be taken to be measured along that work.
 
-(5) References in this Order to numbered works are references to the works comprising the authorised development as numbered in Schedule 1 (authorised development) and shown on the works plans and a reference in this Order to a work designated by a number, or by a combination of letters and numbers, is a reference to the work so designated in that Schedule and a reference to “Work No. 4” or “**numbered work 4**” means numbered works 4A, 4B, 4C, 4D and [^key-30217530bfa00fd96e582ed68c895cd6]... 4E inclusive and the same principle applies to such numbered works that contain letters.
+(5) References in this Order to numbered works are references to the works comprising the authorised development as numbered in Schedule 1 (authorised development) and shown on the works plans and a reference in this Order to a work designated by a number, or by a combination of letters and numbers, is a reference to the work so designated in that Schedule and a reference to “Work No. 4” or “**numbered work 4**” means numbered works 4A, 4B, 4C, 4D and [^c-30217530bfa00fd96e582ed68c895cd6]... 4E inclusive and the same principle applies to such numbered works that contain letters.
 
 (6) In this Order, the expression “**includes**” is to be construed without limitation.
 
@@ -119,7 +119,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6bd2430e3e8c2f494d81433e1a1eadc4]: Commencement: Art. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-6bd2430e3e8c2f494d81433e1a1eadc4]: Commencement: Art. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -139,11 +139,11 @@ summary: ''
 
 [^f00019]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-710b0d7a0dcdfc0e1a5401d83568d51f]: Textual amendment: Words in art. 2(1) omitted (30.4.2026) by virtue of [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-710b0d7a0dcdfc0e1a5401d83568d51f]: Textual amendment: Words in art. 2(1) omitted (30.4.2026) by virtue of [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
 
 [^f00020]: Footnote: [S.I. 2024/943](https://www.legislation.gov.uk/uksi/2024/943).
 
-[^key-91a9259b9876da0de666ef0eecc662c0]: Textual amendment: Words in art. 2(1) substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-91a9259b9876da0de666ef0eecc662c0]: Textual amendment: Words in art. 2(1) substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
 
 [^f00021]: Footnote: [S.I. 2024/807](https://www.legislation.gov.uk/uksi/2024/807).
 
@@ -161,4 +161,4 @@ summary: ''
 
 [^f00028]: Footnote: [S.I. 2025/116](https://www.legislation.gov.uk/uksi/2025/116).
 
-[^key-30217530bfa00fd96e582ed68c895cd6]: Textual amendment: Word in art. 2(5) omitted (30.4.2026) by virtue of [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-30217530bfa00fd96e582ed68c895cd6]: Textual amendment: Word in art. 2(5) omitted (30.4.2026) by virtue of [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)

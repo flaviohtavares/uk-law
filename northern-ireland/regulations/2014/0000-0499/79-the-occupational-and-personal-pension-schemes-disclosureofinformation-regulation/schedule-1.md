@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4(1), (4) and (5)
 
-**1.**[^key-0a11140288c0ce92967bb615fa99f332] (1) An occupational pension scheme falls within this paragraph if it meets the following conditions.
+**1.**[^c-0a11140288c0ce92967bb615fa99f332] (1) An occupational pension scheme falls within this paragraph if it meets the following conditions.
 
 (2) The first condition is that the scheme—
 
@@ -31,7 +31,7 @@ Regulation 4(1), (4) and (5)
   - (i) approved by HMRC for the purposes of section 590 or 591 of the Income and Corporation Taxes Act 1988[^f00028];
   - (ii) a statutory scheme as defined in section 611A[^f00029] of that Act, or
   - (iii) approved by HMRC under Chapter 4 of Part 14[^f00030] of that Act;
-- (c)[^key-1afec4020b1bcfb92b403dd4bda3eb3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1afec4020b1bcfb92b403dd4bda3eb3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) is a public service pension scheme[^f00033].
 
 (3) The second condition is that the scheme—
@@ -41,7 +41,7 @@ Regulation 4(1), (4) and (5)
 - (c) is established in the United Kingdom or has at least one trustee or manager resident in the United Kingdom, and
 - (d) is not established by the Salvation Army Act 1963[^f00034].
 
-**2.**[^key-c1a8bd31d631fbd704e0725888e1f7c3] A personal pension scheme falls within this paragraph if it is not a pension scheme that is—
+**2.**[^c-c1a8bd31d631fbd704e0725888e1f7c3] A personal pension scheme falls within this paragraph if it is not a pension scheme that is—
 
 - (a) either—
   - (i) set up or established in an annuity contract, or
@@ -50,7 +50,7 @@ Regulation 4(1), (4) and (5)
 
 ## Annotations
 
-[^key-0a11140288c0ce92967bb615fa99f332]: Commencement: Sch. 1 para. 1 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-0a11140288c0ce92967bb615fa99f332]: Commencement: Sch. 1 para. 1 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00028]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1); sections 590 and 591 were repealed by Schedule 42 to the Finance Act 2004
 
@@ -58,12 +58,12 @@ Regulation 4(1), (4) and (5)
 
 [^f00030]: Footnote: Chapter 4 of Part 14 was repealed by Schedule 42 to the Finance Act 2004
 
-[^key-1afec4020b1bcfb92b403dd4bda3eb3b]: Textual amendment: [Sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2014/79/schedule/1/paragraph/1/2/c) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [30(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1afec4020b1bcfb92b403dd4bda3eb3b]: Textual amendment: [Sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2014/79/schedule/1/paragraph/1/2/c) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [30(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00033]: Footnote: *See* section 1 of the Pension Schemes (Northern Ireland) Act 1993
 
 [^f00034]: Footnote: [1963 c. xxxii](https://www.legislation.gov.uk/ukla/1963/32)
 
-[^key-c1a8bd31d631fbd704e0725888e1f7c3]: Commencement: Sch. 1 para. 2 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-c1a8bd31d631fbd704e0725888e1f7c3]: Commencement: Sch. 1 para. 2 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00035]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 153 was amended by paragraphs 2 and 3 of Schedule 10 to the Finance Act 2005

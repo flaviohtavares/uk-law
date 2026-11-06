@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Interpretation[^key-87981e52b8b298b56aac5450e9815c9e][^key-ced294a373a9eb341c7cab789f46a21b]
+## 12. Interpretation[^c-87981e52b8b298b56aac5450e9815c9e][^c-ced294a373a9eb341c7cab789f46a21b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-87981e52b8b298b56aac5450e9815c9e]: Commencement: S. 12 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-87981e52b8b298b56aac5450e9815c9e]: Commencement: S. 12 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-ced294a373a9eb341c7cab789f46a21b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/31/section/12) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-ced294a373a9eb341c7cab789f46a21b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2025/31/section/12) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

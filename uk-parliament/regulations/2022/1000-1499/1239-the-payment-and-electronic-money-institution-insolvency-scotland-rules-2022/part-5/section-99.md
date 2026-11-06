@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Content of relevant funds claim[^key-a3fb8a88db86050cec2be42babf6044c]
+## 99. Content of relevant funds claim[^c-a3fb8a88db86050cec2be42babf6044c]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3fb8a88db86050cec2be42babf6044c]: Commencement: Rule 99 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a3fb8a88db86050cec2be42babf6044c]: Commencement: Rule 99 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

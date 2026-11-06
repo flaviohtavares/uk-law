@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1127. “Qualifying expenditure on externally provided workers”[^key-aaa261863707e804147e8f2ff4d2a44a]
+## 1127. “Qualifying expenditure on externally provided workers”[^c-aaa261863707e804147e8f2ff4d2a44a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa261863707e804147e8f2ff4d2a44a]: Modification: Ss. 1127-1131 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(e)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/e) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-aaa261863707e804147e8f2ff4d2a44a]: Modification: Ss. 1127-1131 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(e)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/e) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))

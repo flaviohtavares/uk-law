@@ -62,7 +62,7 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Con
 - “**exposure action value**” means the level of daily exposure for any worker which, if exceeded, requires specified action to be taken to reduce the risk;
 - “**exposure limit value**” means the level of daily exposure for any worker which must not be exceeded, save as set out in regulation 12;
 - “**General Duties Regulations**” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c18961071];
-- [^key-485a694f5da20858d20d678ccec09b60]...
+- [^c-485a694f5da20858d20d678ccec09b60]...
 - “**hand-arm vibration**” means mechanical vibration which is transmitted into the hands during a work activity;
 - “**health and safety**” includes the occupational health and safety of persons whilst on board a ship and whilst boarding or leaving the ship;
 - “**health surveillance**” means assessment of the state of health of a worker as related to exposure to mechanical vibration which is intended to prevent and diagnose rapidly any disorder linked with exposure to mechanical vibration;
@@ -71,18 +71,18 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Con
 - “**Merchant Shipping Notice**” means a Notice described as such and issued by the MCA;
 - “**the Provision and Use of Work Equipment Regulations**” means the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006 [^c18961081];
 - “**the risk assessment**” means, except where the context otherwise requires, a risk assessment carried out in compliance with regulation 6 of these Regulations;
-- “ship” includes hovercraft;[^key-36669099f29ba7b4b95d0019841dc8fc]
+- “ship” includes hovercraft;[^c-36669099f29ba7b4b95d0019841dc8fc]
 - “**surveyor of ships**” has the meaning given by section 256(9) of the Act;
 - “**United Kingdom ship**” means a ship which—
   - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
-  - (b) [^key-485a694f5da20858d20d678ccec09b60]...
+  - (b) [^c-485a694f5da20858d20d678ccec09b60]...
   - (c) is a hovercraft registered under the Hovercraft Act 1968;
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom; and
 - “**whole-body vibration**” means mechanical vibration which is transmitted into the body, when seated or standing, through the supporting surface, during a work activity.
 
 (2) In these Regulations, any reference to an ISO standard includes a reference to any document amending that publication which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
 
-(3)[^key-909cedad6198feb2303700003972d75e] In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
+(3)[^c-909cedad6198feb2303700003972d75e] In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
 
 ## 3. Meaning of “worker”
 
@@ -405,7 +405,7 @@ and any balance shall be repaid to the first-mentioned person.
 
 (7) In paragraph (1), “**relevant inspector**” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act [^c18961151].
 
-## 18. Application of powers of inspectors in relation to Government ships[^key-a06a014041a9807372ed737a9c3a6896]
+## 18. Application of powers of inspectors in relation to Government ships[^c-a06a014041a9807372ed737a9c3a6896]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -422,7 +422,7 @@ and any balance shall be repaid to the first-mentioned person.
 - (ii) specify the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
 - (iii) require the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
 
-## 20. Right of appeal and compensation[^key-c719447610dcb0bba15764e0ece86063]
+## 20. Right of appeal and compensation[^c-c719447610dcb0bba15764e0ece86063]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -524,13 +524,13 @@ Merchant Shipping Notices can be obtained from Mail Marketing (Scotland), Unit 6
 
 [^c18961071]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [S.I. 2001/54](https://www.legislation.gov.uk/uksi/2001/54).
 
-[^key-485a694f5da20858d20d678ccec09b60]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-485a694f5da20858d20d678ccec09b60]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c18961081]: Marginal citation: [S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183).
 
-[^key-36669099f29ba7b4b95d0019841dc8fc]: Textual amendment: Words in reg. 2(1) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/3/a)
+[^c-36669099f29ba7b4b95d0019841dc8fc]: Textual amendment: Words in reg. 2(1) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/3/a)
 
-[^key-909cedad6198feb2303700003972d75e]: Textual amendment: Reg. 2(3) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/3/b)
+[^c-909cedad6198feb2303700003972d75e]: Textual amendment: Reg. 2(3) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/3/b)
 
 [^c18961091]: Marginal citation: Published by the Stationery Office in 1993 (ISBN 0-11-551184-9).
 
@@ -546,6 +546,6 @@ Merchant Shipping Notices can be obtained from Mail Marketing (Scotland), Unit 6
 
 [^c18961151]: Marginal citation: [Section 258(1)](https://www.legislation.gov.uk/uksi/2007/3077/section/258/1) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 9](https://www.legislation.gov.uk/ukpga/1997/28/section/9) and 29(2), Schedule 1 paragraph 4 and Schedule 9 Part I.
 
-[^key-a06a014041a9807372ed737a9c3a6896]: Textual amendment: Reg. 18 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-a06a014041a9807372ed737a9c3a6896]: Textual amendment: Reg. 18 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-c719447610dcb0bba15764e0ece86063]: Textual amendment: Reg. 20 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-c719447610dcb0bba15764e0ece86063]: Textual amendment: Reg. 20 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)

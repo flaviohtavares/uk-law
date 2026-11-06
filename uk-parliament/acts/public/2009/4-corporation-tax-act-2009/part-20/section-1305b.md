@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1305B. Avoidance schemes involving certain non-derecognition liabilities[^key-ba48e6c50dac5cd06de7b8b03b54c070]
+## 1305B. Avoidance schemes involving certain non-derecognition liabilities[^c-ba48e6c50dac5cd06de7b8b03b54c070]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba48e6c50dac5cd06de7b8b03b54c070]: Textual amendment: [S. 1305B](https://www.legislation.gov.uk/ukpga/2009/4/section/1305B) inserted (with effect in accordance with s. 63(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 63](https://www.legislation.gov.uk/ukpga/2026/11/section/63)
+[^c-ba48e6c50dac5cd06de7b8b03b54c070]: Textual amendment: [S. 1305B](https://www.legislation.gov.uk/ukpga/2009/4/section/1305B) inserted (with effect in accordance with s. 63(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 63](https://www.legislation.gov.uk/ukpga/2026/11/section/63)

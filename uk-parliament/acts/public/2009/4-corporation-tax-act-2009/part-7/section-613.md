@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-465a7026af5ad4685f3004fd233d6cb7] Sections 614 and 615 (adjustments on change of accounting basis) apply if—
+(1)[^c-465a7026af5ad4685f3004fd233d6cb7] Sections 614 and 615 (adjustments on change of accounting basis) apply if—
 
 - (a) a company changes, from one period of account or accounting period to the next, the basis of accounting on which credits and debits relating to its derivative contracts or any of them are calculated for the purposes of this Part,
 - (b) the change of basis—
@@ -32,17 +32,17 @@ summary: ''
 
 (2) In this section and those sections—
 
-- (a) the first of the periods mentioned in subsection (1)[^key-b4e143527581e31c4aaa308866ce2a9c] is referred to as “**the earlier period**”, and
+- (a) the first of the periods mentioned in subsection (1)[^c-b4e143527581e31c4aaa308866ce2a9c] is referred to as “**the earlier period**”, and
 - (b) the next is referred to as “**the later period**”.
 
-(3)[^key-788bb28444feb0f7e4a7c36fcbba34ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-788bb28444feb0f7e4a7c36fcbba34ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If an election is made under section 416, this section and sections 614 and 615 apply as if there were a change of accounting policy consisting of the company treating the assets referred to in section 416(1)(c) as mentioned in section 585(1) as from the date the election has effect.
 
 ## Annotations
 
-[^key-465a7026af5ad4685f3004fd233d6cb7]: Textual amendment: S. 613(1) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 75(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/75/2)
+[^c-465a7026af5ad4685f3004fd233d6cb7]: Textual amendment: S. 613(1) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 75(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/75/2)
 
-[^key-b4e143527581e31c4aaa308866ce2a9c]: Textual amendment: Words in s. 613(2) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 75(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/75/3)
+[^c-b4e143527581e31c4aaa308866ce2a9c]: Textual amendment: Words in s. 613(2) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 75(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/75/3)
 
-[^key-788bb28444feb0f7e4a7c36fcbba34ba]: Textual amendment: S. 613(3) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 75(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/75/4)
+[^c-788bb28444feb0f7e4a7c36fcbba34ba]: Textual amendment: S. 613(3) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 75(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/75/4)

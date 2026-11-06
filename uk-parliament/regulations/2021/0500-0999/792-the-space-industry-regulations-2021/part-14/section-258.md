@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Penalty for disclosing protected information[^key-32c7e368240de3185565e3cc33eef9ca]
+## 258. Penalty for disclosing protected information[^c-32c7e368240de3185565e3cc33eef9ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person guilty of an offence under regulation 256 is liable—
 
 ## Annotations
 
-[^key-32c7e368240de3185565e3cc33eef9ca]: Commencement: Reg. 258 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-32c7e368240de3185565e3cc33eef9ca]: Commencement: Reg. 258 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

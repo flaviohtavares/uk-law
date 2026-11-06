@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 54(1)(c), 56(1)(a) and (5), 57(1)(a), (2) and (5), 60(1)(b), 65(1), (2) and (4) , 66(2), (3), (4) and (6), 82, 84, 1193(1)(c), 1195(1)(a) and (5), 1197(1), (2) and (3), 1292(1) and (2), 1294 and 1296 of the Companies Act 2006 [^c22318561] and sections 54(1)(c) and 56(1)(a) and 1292(1) of the Companies Act 2006 as applied to limited liability partnerships by regulations 8 and 81 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 [^c22318571].
 
-In accordance with sections 54(3), 57(4), 60(4), 65(5), 66(5), 82(5), 1193(3), 1197(4), 1290, 1292(4), 1294(6) and 1296(4) of that Act, and section 54(3) as applied by regulation 8 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^key-34c014319ad045fe10bbd48c830fe73c]
+In accordance with sections 54(3), 57(4), 60(4), 65(5), 66(5), 82(5), 1193(3), 1197(4), 1290, 1292(4), 1294(6) and 1296(4) of that Act, and section 54(3) as applied by regulation 8 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^c-34c014319ad045fe10bbd48c830fe73c]
 
 ## PART 1 — Introductory
 
@@ -205,9 +205,9 @@ Regulation 7 applies to the name of an overseas company which is registered by t
 - (a) a company or an overseas company registered in the United Kingdom by that name;
 - (b) an overseas company incorporated with that name;
 - (c) a society registered under the Co-operative and Community Benefit Societies Act 2014 [^c22318601] or the Industrial and Provident Societies Act (Northern Ireland) 1969 [^c22318611] by that name;
-- (d) an incorporated friendly society (as defined in section 116 of the Friendly Societies Act 1992 [^c22318621]) which has that name; [^key-33fa77c003fef8033cad06b0be558f3a]...
-- (e) a company to which section 1040 of the Act (companies authorised to register under the Companies Act 2006) applies which has that name; or[^key-2e7fb3799da12265ab6c7def353e7c02]
-- (f)[^key-6a40ff0be8c8584349992d926f189bd3] a company registered under Part 4 of the Risk Transformation Regulations 2017 with that name.
+- (d) an incorporated friendly society (as defined in section 116 of the Friendly Societies Act 1992 [^c22318621]) which has that name; [^c-33fa77c003fef8033cad06b0be558f3a]...
+- (e) a company to which section 1040 of the Act (companies authorised to register under the Companies Act 2006) applies which has that name; or[^c-2e7fb3799da12265ab6c7def353e7c02]
+- (f)[^c-6a40ff0be8c8584349992d926f189bd3] a company registered under Part 4 of the Risk Transformation Regulations 2017 with that name.
 
 (2) A person must not carry on business in the United Kingdom under a name that concludes with any word or abbreviation specified as similar to any word or abbreviation set out in inverted commas in paragraph 1(a) or (b) of Schedule 2.
 
@@ -261,7 +261,7 @@ Any display or disclosure of information required by this Part must be in charac
 
 (1) A company shall display its registered name at—
 
-- (a)[^key-84ddb99a945b6fc2a19e5b258f07c546][^key-e76639b7b425f5dfc4ff4f8401eb771a][^key-3d50fd0d0d19c5eca14759df8c939a38] its registered office; and
+- (a)[^c-84ddb99a945b6fc2a19e5b258f07c546][^c-e76639b7b425f5dfc4ff4f8401eb771a][^c-3d50fd0d0d19c5eca14759df8c939a38] its registered office; and
 - (b) any inspection place.
 
 (2) But paragraph (1) does not apply to any company which has at all times since its incorporation been dormant.
@@ -323,9 +323,9 @@ Any display or disclosure of information required by this Part must be in charac
 
 (2) Every company shall disclose its registered name on its websites.
 
-### 25. Further particulars to appear in business letters, order forms and websites[^key-96cb5c837444145d31db87f81f7f2500]
+### 25. Further particulars to appear in business letters, order forms and websites[^c-96cb5c837444145d31db87f81f7f2500]
 
-(1)[^key-df51bd46e45eeb239763df525386ab68] Every company shall disclose the particulars set out in paragraph (2) on—
+(1)[^c-df51bd46e45eeb239763df525386ab68] Every company shall disclose the particulars set out in paragraph (2) on—
 
 - (a) its business letters;
 - (b) its order forms; and
@@ -357,11 +357,11 @@ that disclosure must be as to paid up share capital.
 - (a) in the case of a director who is an individual, “**name**” has the meaning given in section 163(2) of the Act; and
 - (b) in the case of a director who is a body corporate or a firm that is a legal person under the law by which it is governed, “**name**” means corporate name or firm name.
 
-### 27. Disclosures relating to registered office and inspection place[^key-eb2d368cca13207847f32c55db1f8d57]
+### 27. Disclosures relating to registered office and inspection place[^c-eb2d368cca13207847f32c55db1f8d57]
 
 (1) A company shall disclose—
 
-- (a)[^key-e33d68875072035001a2660c2364fa65] the address of its registered office;
+- (a)[^c-e33d68875072035001a2660c2364fa65] the address of its registered office;
 - (b) any inspection place; and
 - (c) the type of company records which are kept at that office or place,
 
@@ -369,7 +369,7 @@ to any person it deals with in the course of business who makes a written reques
 
 (2) The company shall send a written response to that person within five working days of the receipt of that request.
 
-### 28. Offence[^key-12cd78400b901ccf294a8880d23ec9f8]
+### 28. Offence[^c-12cd78400b901ccf294a8880d23ec9f8]
 
 (1) Where a company fails, without reasonable excuse, to comply with any requirement in regulations 20 to 27, an offence is committed by—
 
@@ -453,7 +453,7 @@ in such a way as to be likely to mislead the public as to the legal form of a co
 - (h) “HAWL I RYDDFREINIAD”;
 - (i) “RIGHT TO MANAGE” or (with or without full stops) the abbreviation “RTM”;
 - (j) “CWMNI RTM CYFYNGEDIG”;
-- (k)[^key-1c71a9fbf462b854954e2ca950ddc641] “UK ECONOMIC INTEREST GROUPING” or the abbreviation (with or without full stops) “UKEIG”;
+- (k)[^c-1c71a9fbf462b854954e2ca950ddc641] “UK ECONOMIC INTEREST GROUPING” or the abbreviation (with or without full stops) “UKEIG”;
 - (l) “INVESTMENT COMPANY WITH VARIABLE CAPITAL”;
 - (m) “CWMNI BUDDSODDI Â CHYFALAF NEWIDIOL”;
 - (n) “LIMITED PARTNERSHIP”;
@@ -466,7 +466,7 @@ in such a way as to be likely to mislead the public as to the legal form of a co
 - (u) “SEFYDLIAD ELUSENNOL CORFFOREDIG”;
 - (v) “INDUSTRIAL AND PROVIDENT SOCIETY”;
 - (w) “CO-OPERATIVE SOCIETY”
-- (wa)[^key-e8d6ebf5f05a6536c5cf87f9cd674882] “PROTECTED CELL COMPANY” or (with or without full stops) the abbreviations “PCC LIMITED” and “PCC LTD”;
+- (wa)[^c-e8d6ebf5f05a6536c5cf87f9cd674882] “PROTECTED CELL COMPANY” or (with or without full stops) the abbreviations “PCC LIMITED” and “PCC LTD”;
 - (wb) “CWMNI UNEDAU GWARCHODEDIG” or (with or without full stops) the abbreviations “CUG CYFYNGEDIG” and “CUG CYF”;
 - (x) “COMMUNITY BENEFIT SOCIETY”; and
 - (y) the following abbreviations (with or without full stops) of the expressions specified in sub-paragraphs (n), (o), (p), (q), (t) and (u) respectively, namely “LP”, “PC”, “LLP”, “PAC”, “CIO” and “SEC”.
@@ -600,14 +600,14 @@ Regulations 9 and 18
 | House of Commons | The Corporate Officer of the House of Commons |
 | House of Lords | The Corporate Officer of the House of Lords |
 | Law Commission | Ministry of Justice |
-| Money and Pensions Service[^key-80c2dea803b45c682bf04d6162d0ad4e] | Department for Work and Pensions |
+| Money and Pensions Service[^c-80c2dea803b45c682bf04d6162d0ad4e] | Department for Work and Pensions |
 | National Assembly for Wales (known in Welsh as “Cynulliad Cenedlaethol Cymru”) | National Assembly for Wales Commission (known in Welsh as “Comisiwn Cynulliad Cenedlaethol Cymru”) |
 | National Assembly for Wales Commission (known in Welsh as “Comisiwn Cynulliad Cenedlaethol Cymru”) | National Assembly for Wales Commission (known in Welsh as “Comisiwn Cynulliad Cenedlaethol Cymru”) |
 | Northern Ireland Assembly | Northern Ireland Assembly Commission |
 | Northern Ireland Assembly Commission | Northern Ireland Assembly Commission |
 | Northern Ireland Audit Office | Northern Ireland Audit Office |
 | Office for Nuclear Regulation | Office for Nuclear Regulation |
-| Prudential Regulation Authority | the Governor and Company of the Bank of England[^key-31276bb7ed6fb62f6171d34cf01e48e0] |
+| Prudential Regulation Authority | the Governor and Company of the Bank of England[^c-31276bb7ed6fb62f6171d34cf01e48e0] |
 | Regional Agency for Public Health and Social Well-being. | Regional Agency for Public Health and Social Well-being. |
 | Regional Health and Social Care Board | Regional Health and Social Care Board |
 | Scottish Law Commission | Scottish Law Commission |
@@ -825,7 +825,7 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^c22318571]: Marginal citation: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), as amended by [S.I. 2009/2995](https://www.legislation.gov.uk/uksi/2009/2995); there are other amending instruments but none is relevant.
 
-[^key-34c014319ad045fe10bbd48c830fe73c]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-34c014319ad045fe10bbd48c830fe73c]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
 [^c22318581]: Marginal citation: [1993 c.28](https://www.legislation.gov.uk/ukpga/1993/28); [section 4A](https://www.legislation.gov.uk/uksi/2015/17/section/4A) was inserted by section 122 of the [Commonhold and Leasehold Reform Act 2002 (c.15)](https://www.legislation.gov.uk/ukpga/2002/15) and amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), but section 122 is not yet in force.
 
@@ -837,39 +837,39 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^c22318621]: Marginal citation: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); to which there are amendments not relevant to these Regulations.
 
-[^key-33fa77c003fef8033cad06b0be558f3a]: Textual amendment: Word in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/2015/17/regulation/16/1/d) deleted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/a/i) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
+[^c-33fa77c003fef8033cad06b0be558f3a]: Textual amendment: Word in [reg. 16(1)(d)](https://www.legislation.gov.uk/uksi/2015/17/regulation/16/1/d) deleted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/a/i) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
 
-[^key-2e7fb3799da12265ab6c7def353e7c02]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/uksi/2015/17/regulation/16/1/e) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/a/ii) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
+[^c-2e7fb3799da12265ab6c7def353e7c02]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/uksi/2015/17/regulation/16/1/e) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/a/ii) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
 
-[^key-6a40ff0be8c8584349992d926f189bd3]: Textual amendment: [Reg. 16(1)(f)](https://www.legislation.gov.uk/uksi/2015/17/regulation/16/1/f) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/a/iii) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
+[^c-6a40ff0be8c8584349992d926f189bd3]: Textual amendment: [Reg. 16(1)(f)](https://www.legislation.gov.uk/uksi/2015/17/regulation/16/1/f) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/a/iii) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
 
-[^key-84ddb99a945b6fc2a19e5b258f07c546]: Modification: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/21/1/a) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2016/423/regulation/17)
+[^c-84ddb99a945b6fc2a19e5b258f07c546]: Modification: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/21/1/a) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2016/423/regulation/17)
 
-[^key-e76639b7b425f5dfc4ff4f8401eb771a]: Modification: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/21/1/a) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/b)
+[^c-e76639b7b425f5dfc4ff4f8401eb771a]: Modification: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/21/1/a) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/b)
 
-[^key-3d50fd0d0d19c5eca14759df8c939a38]: Modification: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/21/1/a) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-3d50fd0d0d19c5eca14759df8c939a38]: Modification: [Reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/21/1/a) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
 [^c22318631]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45), to which there are amendments not relevant to these Regulations.
 
 [^c22318641]: Marginal citation: [S.I. 1989/2405](https://www.legislation.gov.uk/uksi/1989/2405).
 
-[^key-96cb5c837444145d31db87f81f7f2500]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/17/regulation/25) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-96cb5c837444145d31db87f81f7f2500]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/17/regulation/25) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-df51bd46e45eeb239763df525386ab68]: Modification: [Reg. 25(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/25/1) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/c)
+[^c-df51bd46e45eeb239763df525386ab68]: Modification: [Reg. 25(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/25/1) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/c)
 
-[^key-eb2d368cca13207847f32c55db1f8d57]: Modification: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/17/regulation/27) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-eb2d368cca13207847f32c55db1f8d57]: Modification: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/17/regulation/27) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-e33d68875072035001a2660c2364fa65]: Modification: [Reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/27/1/a) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/d)
+[^c-e33d68875072035001a2660c2364fa65]: Modification: [Reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2015/17/regulation/27/1/a) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/d)
 
-[^key-12cd78400b901ccf294a8880d23ec9f8]: Modification: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/17/regulation/28) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/2)
+[^c-12cd78400b901ccf294a8880d23ec9f8]: Modification: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/17/regulation/28) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/2)
 
-[^key-1c71a9fbf462b854954e2ca950ddc641]: Textual amendment: [Sch. 2 para. 3(k)](https://www.legislation.gov.uk/uksi/2015/17/schedule/2/paragraph/3/k) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [67](https://www.legislation.gov.uk/uksi/2018/1299/regulation/67); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c71a9fbf462b854954e2ca950ddc641]: Textual amendment: [Sch. 2 para. 3(k)](https://www.legislation.gov.uk/uksi/2015/17/schedule/2/paragraph/3/k) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [67](https://www.legislation.gov.uk/uksi/2018/1299/regulation/67); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8d6ebf5f05a6536c5cf87f9cd674882]: Textual amendment: [Sch. 2 para. 3(wa)(wb)](https://www.legislation.gov.uk/uksi/2015/17/schedule/2/paragraph/3/wa/wb) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/b) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
+[^c-e8d6ebf5f05a6536c5cf87f9cd674882]: Textual amendment: [Sch. 2 para. 3(wa)(wb)](https://www.legislation.gov.uk/uksi/2015/17/schedule/2/paragraph/3/wa/wb) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/7/b) (with [regs. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189), [191](https://www.legislation.gov.uk/uksi/2017/1212/regulation/191))
 
-[^key-80c2dea803b45c682bf04d6162d0ad4e]: Textual amendment: Words in Sch. 4 Table inserted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/25)
+[^c-80c2dea803b45c682bf04d6162d0ad4e]: Textual amendment: Words in Sch. 4 Table inserted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/25)
 
-[^key-31276bb7ed6fb62f6171d34cf01e48e0]: Textual amendment: Words in Sch. 4 Table substituted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/44)
+[^c-31276bb7ed6fb62f6171d34cf01e48e0]: Textual amendment: Words in Sch. 4 Table substituted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/44)
 
 [^c22318691]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2015/17/section/I) 2009/1085, amended by [S.I. 2009/2404](https://www.legislation.gov.uk/uksi/2009/2404) and 2014/1815.
 

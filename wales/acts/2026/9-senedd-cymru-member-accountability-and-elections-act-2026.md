@@ -44,11 +44,11 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 ### Introduction
 
-#### 1. Overview[^key-d25c6a8595edae5270f90269bd16a5d6]
+#### 1. Overview[^c-d25c6a8595edae5270f90269bd16a5d6]
 
 (1) This Part provides for the recall of Members of the Senedd by recall poll.
 
-(2)[^key-84e234b55e18c4fd5ba2b675755d1005] A recall poll is a poll held on whether a Member of the Senedd should be removed or retained as a member of Senedd Cymru.
+(2)[^c-84e234b55e18c4fd5ba2b675755d1005] A recall poll is a poll held on whether a Member of the Senedd should be removed or retained as a member of Senedd Cymru.
 
 (3) If the outcome of a recall poll is that a Member of the Senedd is to be removed, the member’s seat becomes vacant (see sections 12 and 13).
 
@@ -56,7 +56,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 ### Initiating a recall poll
 
-#### 2. How a Member of the Senedd becomes subject to a recall poll[^key-12a0b8cad50bd2e59bab6cd2a0b864e9]
+#### 2. How a Member of the Senedd becomes subject to a recall poll[^c-12a0b8cad50bd2e59bab6cd2a0b864e9]
 
 **Not yet in force.**
 
@@ -75,7 +75,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 (6) The provision made by or under this Act in relation to a recall poll does not affect other ways in which a Member of the Senedd’s seat may be vacated.
 
-#### 3. Trigger event A: meaning of key terms[^key-13811499e4f795a00fca891e0400dd5c]
+#### 3. Trigger event A: meaning of key terms[^c-13811499e4f795a00fca891e0400dd5c]
 
 **Not yet in force.**
 
@@ -98,7 +98,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 (4) For the purposes of this Act, the time at which a person becomes a Member of the Senedd is when the member is declared to be returned at the beginning of the member’s current term of office.
 
-#### 4. Trigger event A: courts to notify the Presiding Officer[^key-a6ecb0f07bd5dffec0cc236440e0615d]
+#### 4. Trigger event A: courts to notify the Presiding Officer[^c-a6ecb0f07bd5dffec0cc236440e0615d]
 
 **Not yet in force.**
 
@@ -127,7 +127,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 (8) A court is not required under this section to notify the Presiding Officer if, at any time since the application of the section, the Member of the Senedd’s seat has been vacated.
 
-#### 5. Trigger event B: recall guidance‍[^key-662788291ce3809be6525926cf88a79b][^key-6812baa4efd82cff2ead692bcc5a146e]
+#### 5. Trigger event B: recall guidance‍[^c-662788291ce3809be6525926cf88a79b][^c-6812baa4efd82cff2ead692bcc5a146e]
 
 (1) The Standards of Conduct Committee may not recommend submission of a Member of the Senedd to a recall poll unless‍ guidance has been issued in accordance with this section about the matters to be taken into account by the Committee when considering whether to recommend submitting a Member of the Senedd to a recall poll (“recall guidance”).
 
@@ -161,7 +161,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 **Not yet in force.**
 
-#### 6. Presiding Officer’s duty to fix date for recall poll and give notice of trigger event[^key-0615d384b15772cb031be3c4d56f685d]
+#### 6. Presiding Officer’s duty to fix date for recall poll and give notice of trigger event[^c-0615d384b15772cb031be3c4d56f685d]
 
 (1) As soon as reasonably practicable after becoming aware that a trigger event has occurred in relation to a Member of the Senedd, the Presiding Officer must—
 
@@ -197,7 +197,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 (7) References in this Act to a “Presiding Officer’s notice” are to a notice under this section.
 
-#### 7. Public notice of recall poll[^key-49323cc4df142081e7e91351ca5245f3]
+#### 7. Public notice of recall poll[^c-49323cc4df142081e7e91351ca5245f3]
 
 (1) As soon as reasonably practicable after receiving a notice in accordance with section 6, a constituency returning officer must give public notice of the recall poll in accordance with any provision made by regulations under section 11.
 
@@ -212,7 +212,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 **Not yet in force.**
 
-#### 8. Early termination of a recall poll[^key-5ba37a82a7e0334a960b02d002ff12bf]
+#### 8. Early termination of a recall poll[^c-5ba37a82a7e0334a960b02d002ff12bf]
 
 (1) This section applies if any of the early termination events A, B or C occur at any time after the Presiding Officer’s notice is given but before the result of the recall poll is declared in accordance with section 12(2).
 
@@ -240,7 +240,7 @@ An Act of Senedd Cymru to provide for the recall of Members of the Senedd; to re
 
 **Not yet in force.**
 
-#### 9. Entitlement to vote in a recall poll[^key-4e2d53c2175d86063929a8e1598c9aa1]
+#### 9. Entitlement to vote in a recall poll[^c-4e2d53c2175d86063929a8e1598c9aa1]
 
 The persons entitled to vote in a recall poll are those who on the day of the poll—
 
@@ -249,7 +249,7 @@ The persons entitled to vote in a recall poll are those who on the day of the po
 
 ### Conduct of recall poll
 
-#### 10. Recall polls to be conducted by ballot[^key-b4c5f2e5bf71ec10380a18aa7b230ef0]
+#### 10. Recall polls to be conducted by ballot[^c-b4c5f2e5bf71ec10380a18aa7b230ef0]
 
 **Not yet in force.**
 
@@ -277,7 +277,7 @@ The persons entitled to vote in a recall poll are those who on the day of the po
 
 (6) The requirements in subsections (3) to (5) are subject to the name of the Member of the Senedd to whom the recall poll applies being inserted in the places directed in the question and answers.
 
-#### 11. Regulations about recall polls[^key-21149477724a8e857b5c87e8dafc5a81][^key-64f132764c0ac90b184db8a28fc5bb3c]
+#### 11. Regulations about recall polls[^c-21149477724a8e857b5c87e8dafc5a81][^c-64f132764c0ac90b184db8a28fc5bb3c]
 
 (1) The Welsh Ministers may by regulations make—
 
@@ -340,7 +340,7 @@ may only be made with the consent of the Electoral Commission.
 
 **Not yet in force.**
 
-#### 12. Outcome of a recall poll[^key-681a80dcedf45751c800af3e5add8464]
+#### 12. Outcome of a recall poll[^c-681a80dcedf45751c800af3e5add8464]
 
 (1) This section applies unless the constituency returning officer has received a notice under section 8(5) (early termination of recall poll process).
 
@@ -360,7 +360,7 @@ may only be made with the consent of the Electoral Commission.
 
 (4) The Presiding Officer must lay before Senedd Cymru any notice received under subsection (2).
 
-#### 13. Effect of declaration that a Member of the Senedd is removed[^key-df30b5ef9a66d17b7d3f40e1fbf75517]
+#### 13. Effect of declaration that a Member of the Senedd is removed[^c-df30b5ef9a66d17b7d3f40e1fbf75517]
 
 (1) If the constituency returning officer declares under section 12(2) that the Member of the Senedd subject to the recall poll is removed as a member of Senedd Cymru, the member’s seat becomes vacant on the making of that declaration.
 
@@ -370,7 +370,7 @@ may only be made with the consent of the Electoral Commission.
 
 (4) The validity of any Senedd Cymru proceedings that take place before the Presiding Officer is notified under section 12(2)(d) are not affected by a member’s seat becoming vacant under subsection (1).
 
-#### 14. Validity of recall poll not affected by invalidity in Senedd proceedings[^key-517abccda63fa330b38d0b93be550029]
+#### 14. Validity of recall poll not affected by invalidity in Senedd proceedings[^c-517abccda63fa330b38d0b93be550029]
 
 The validity of a recall poll held as a result of an occurrence of trigger event B is not affected by any invalidity in Senedd Cymru proceedings connected with—
 
@@ -381,7 +381,7 @@ The validity of a recall poll held as a result of an occurrence of trigger event
 
 **Not yet in force.**
 
-#### 15. Functions of constituency returning officers[^key-435537bf95ae731c619b69e8ce1342f0]
+#### 15. Functions of constituency returning officers[^c-435537bf95ae731c619b69e8ce1342f0]
 
 (1) In relation to a recall poll in a Senedd constituency, it is the constituency returning officer’s general duty to do anything necessary for effectually conducting the recall poll in accordance with this Act and regulations made under it.
 
@@ -393,7 +393,7 @@ The validity of a recall poll held as a result of an occurrence of trigger event
 
 ### General
 
-#### 16. Interpretation of Part 1[^key-820460e50972a152dae63382a433fd34][^key-84bdd685d385e053dd1e43d476d0dc3a]
+#### 16. Interpretation of Part 1[^c-820460e50972a152dae63382a433fd34][^c-84bdd685d385e053dd1e43d476d0dc3a]
 
 In this Part—
 
@@ -407,7 +407,7 @@ In this Part—
 - “**trigger event A**” (“*digwyddiad sbardun A”*) means an event of the kind described in section 2(2);
 - “**trigger event B**” (“*digwyddiad sbardun B”*) means an event of the kind described in section 2(4).
 
-#### 17. Consequential provision relating to Part 1[^key-40bfab9d35ebc715ff92b5daa897369b]
+#### 17. Consequential provision relating to Part 1[^c-40bfab9d35ebc715ff92b5daa897369b]
 
 **Not yet in force.**
 
@@ -417,7 +417,7 @@ Part 1 of the Schedule to this Act makes consequential provision relating to thi
 
 ### Standards of Conduct
 
-#### 18. Standards of Conduct Committee[^key-47356395cff4a60e026a1caf8671493c]
+#### 18. Standards of Conduct Committee[^c-47356395cff4a60e026a1caf8671493c]
 
 (1) The Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) is amended by subsections (2) and (3).
 
@@ -534,7 +534,7 @@ Part 1 of the Schedule to this Act makes consequential provision relating to thi
 - (a) in section 30A(4), the reference to “must” is to be interpreted as a reference to “may”, and
 - (b) the duties in section 30A(7) and section 30B(14) do not apply unless provision is made under section 30A(4) for the membership of the Standards of Conduct Committee to include one or more lay members.
 
-#### 19. Report on applying code of conduct to conduct while a candidate in an election[^key-41fa1c43ec4b0b4fa96c114aab2ef95f]
+#### 19. Report on applying code of conduct to conduct while a candidate in an election[^c-41fa1c43ec4b0b4fa96c114aab2ef95f]
 
 (1) The Presiding Officer must table a motion that complies with subsection (2)—
 
@@ -558,7 +558,7 @@ Part 1 of the Schedule to this Act makes consequential provision relating to thi
 
 ### Senedd Commissioner for Standards
 
-#### 20. Power of the Senedd Commissioner for Standards to investigate on own initiative[^key-8027aacfeda6e059c5a2bc0bb40d3d45]
+#### 20. Power of the Senedd Commissioner for Standards to investigate on own initiative[^c-8027aacfeda6e059c5a2bc0bb40d3d45]
 
 (1) The National Assembly for Wales Commissioner for Standards Measure [2009 (nawm 4)](https://www.legislation.gov.uk/mwa/2009/4) is amended as follows.
 
@@ -592,7 +592,7 @@ Part 1 of the Schedule to this Act makes consequential provision relating to thi
 >
 > (10) In this section, a “relevant time means a time when the requirement in question was in force but it is irrelevant whether the conduct in question is alleged to have taken place before or after this section comes into force.
 
-#### 21. Senedd Commissioner for Standards: eligibility[^key-f412a155cdee1a29c9b9e21a2936bcf2]
+#### 21. Senedd Commissioner for Standards: eligibility[^c-f412a155cdee1a29c9b9e21a2936bcf2]
 
 (1) The National Assembly for Wales Commissioner for Standards Measure [2009 (nawm 4)](https://www.legislation.gov.uk/mwa/2009/4) is amended as follows.
 
@@ -642,7 +642,7 @@ Part 1 of the Schedule to this Act makes consequential provision relating to thi
 
 > (9) In this section, “registered political party means a party registered under Part 2 of the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).
 
-#### 22. Senedd Commissioner for Standards: investigations[^key-a0751a4fe22c95f0b848e7e2abf10913]
+#### 22. Senedd Commissioner for Standards: investigations[^c-a0751a4fe22c95f0b848e7e2abf10913]
 
 (1) The National Assembly for Wales Commissioner for Standards Measure [2009 (nawm 4)](https://www.legislation.gov.uk/mwa/2009/4) is amended as follows.
 
@@ -798,13 +798,13 @@ Part 1 of the Schedule to this Act makes consequential provision relating to thi
 
 ### General
 
-#### 23. Minor and consequential provision relating to Part 2[^key-5002ea0ec164e329c61ad0fd9192ea4e]
+#### 23. Minor and consequential provision relating to Part 2[^c-5002ea0ec164e329c61ad0fd9192ea4e]
 
 Part 2 of the Schedule to this Act makes minor and consequential provision relating to this Part.
 
 ## PART 3 — CONDUCT OF SENEDD CYMRU ELECTIONS
 
-### 24. Power of the Welsh Ministers to make provision about Senedd elections etc.[^key-357667d558c25ba4e32a0e4c0839acd2]
+### 24. Power of the Welsh Ministers to make provision about Senedd elections etc.[^c-357667d558c25ba4e32a0e4c0839acd2]
 
 (1) Section 13 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) (power of the Welsh Ministers to make provision about elections etc.) is amended as follows.
 
@@ -833,7 +833,7 @@ Part 2 of the Schedule to this Act makes minor and consequential provision relat
 
 ## PART 4 — GENERAL
 
-### 25. Power to make consequential and transitional provision etc[^key-5f7ac22baa0fcd4be26f4bc4a90b8b4f]
+### 25. Power to make consequential and transitional provision etc[^c-5f7ac22baa0fcd4be26f4bc4a90b8b4f]
 
 (1) The Welsh Ministers may, by regulations, make—
 
@@ -851,7 +851,7 @@ Part 2 of the Schedule to this Act makes minor and consequential provision relat
 
 (5) Regulations under subsection (1) to which subsection (4) does not apply are subject to the Senedd annulment procedure.
 
-### 26. Coming into force[^key-93b8affae15b8cb0aeac4b9536e70aee]
+### 26. Coming into force[^c-93b8affae15b8cb0aeac4b9536e70aee]
 
 (1) The provisions of Part 2 (including Part 2 of the Schedule to this Act) and this Part come into force on the day after the day on which this Act receives Royal Assent.
 
@@ -864,7 +864,7 @@ Part 2 of the Schedule to this Act makes minor and consequential provision relat
 - (a) appoint different days for different purposes;
 - (b) make transitional or saving provision in connection with the coming into force of a provision brought into force by the order.
 
-### 27. Short title[^key-1acddf7587cd663a55c5a11195c6ae80]
+### 27. Short title[^c-1acddf7587cd663a55c5a11195c6ae80]
 
 This Act may be referred to as—
 
@@ -879,7 +879,7 @@ This Act may be referred to as—
 
 **Not yet in force.**
 
-#### 1. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^key-431faa526e4671eea9d7db8d3db2fa9d]
+#### 1. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^c-431faa526e4671eea9d7db8d3db2fa9d]
 
 (1) The Representation of the People Act 1983 is amended as follows.
 
@@ -945,7 +945,7 @@ This Act may be referred to as—
 >
 > the registration officer remains under that duty to issue the notice at the time at which it would have been required to be issued if subsection (1) had not applied.
 
-#### 2. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^key-ddc1c7f9ca710325c42d2fe00c49e1c0]
+#### 2. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^c-ddc1c7f9ca710325c42d2fe00c49e1c0]
 
 (1) The Political Parties, Elections and Referendums Act 2000 is amended as follows.
 
@@ -1026,7 +1026,7 @@ This Act may be referred to as—
 > - “**recall poll**” means a recall poll under Part 1 of the Senedd Cymru (Member Accountability and Elections) Act 2026;
 > - “returning officer, in relation to a recall poll, has the same meaning as “constituency returning officer in Part 1 of the Senedd Cymru (Member Accountability and Elections) Act 2026.
 
-#### 3. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-bb93ea18f63f979110a83eb51afa959c]
+#### 3. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-bb93ea18f63f979110a83eb51afa959c]
 
 In section 41 of the Government of Wales Act 2006 (proceedings by or against Senedd etc.)—
 
@@ -1035,7 +1035,7 @@ In section 41 of the Government of Wales Act 2006 (proceedings by or against Sen
   - (ii) after “**Senedd**” (the third time it appears) insert “or the committee or sub-committee of the Senedd (as the case may be)”;
 - (b) in subsection (3), after “Senedd” insert “or a committee or sub-committee of the Senedd”.
 
-#### 4. Democracy and Boundary Commission Cymru etc. Act [2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4)‍[^key-b3571bc8c5e315df3d199a71688ea1be]
+#### 4. Democracy and Boundary Commission Cymru etc. Act [2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4)‍[^c-b3571bc8c5e315df3d199a71688ea1be]
 
 (1) The Democracy and Boundary Commission Cymru etc. Act 2013 is amended as follows.
 
@@ -1068,7 +1068,7 @@ In section 41 of the Government of Wales Act 2006 (proceedings by or against Sen
 
 ### PART 2 — MINOR AND CONSEQUENTIAL PROVISION RELATING TO PART 2
 
-#### 5. The National Assembly for Wales Commissioner for Standards Measure [2009 (nawm 4)](https://www.legislation.gov.uk/mwa/2009/4)[^key-5e4ffdef0c30e418a9dcff0c753058bd]
+#### 5. The National Assembly for Wales Commissioner for Standards Measure [2009 (nawm 4)](https://www.legislation.gov.uk/mwa/2009/4)[^c-5e4ffdef0c30e418a9dcff0c753058bd]
 
 (1) The National Assembly for Wales Commissioner for Standards Measure 2009 is amended as follows.
 
@@ -1140,7 +1140,7 @@ In section 41 of the Government of Wales Act 2006 (proceedings by or against Sen
     ;
 - (b) in subsection (2), in the English text, for “Committee on Standards of Conduct” substitute “Standards of Conduct Committee”.
 
-#### 6. Welsh Language (Wales) Measure [2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1)[^key-bb35c4fe03ea31c231bb606e5ea57aed]
+#### 6. Welsh Language (Wales) Measure [2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1)[^c-bb35c4fe03ea31c231bb606e5ea57aed]
 
 In Schedule 6 to the Welsh Language (Wales) Measure 2011 (persons liable to comply with standards: public bodies etc.), in the table, under the heading “General”, in the appropriate place, insert—
 
@@ -1148,7 +1148,7 @@ In Schedule 6 to the Welsh Language (Wales) Measure 2011 (persons liable to comp
 > | --- | --- |
 > | The Senedd Commissioner for Standards (*Comisiynydd Safonau y Senedd*) | Service delivery standardsPolicy making standardsOperational standardsRecord keeping standards |
 
-#### 7. Welsh Language Standards (No. 2) Regulations 2016[^key-be399ad753dc4630364679d967d8290d]
+#### 7. Welsh Language Standards (No. 2) Regulations 2016[^c-be399ad753dc4630364679d967d8290d]
 
 In Schedule 6 to the Welsh Language Standards (No. 2) Regulations 2016 ([S.I. 2016/182) (W. 76)](https://www.legislation.gov.uk/wsi/2016/182), at the appropriate place insert—
 
@@ -1158,78 +1158,78 @@ In Schedule 6 to the Welsh Language Standards (No. 2) Regulations 2016 ([S.I. 20
 
 ## Annotations
 
-[^key-d25c6a8595edae5270f90269bd16a5d6]: Commencement: S. 1 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-d25c6a8595edae5270f90269bd16a5d6]: Commencement: S. 1 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-84e234b55e18c4fd5ba2b675755d1005]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asc/2026/9/section/1/2) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/128/article/2/a)
+[^c-84e234b55e18c4fd5ba2b675755d1005]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/asc/2026/9/section/1/2) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/128/article/2/a)
 
-[^key-12a0b8cad50bd2e59bab6cd2a0b864e9]: Commencement: S. 2 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-12a0b8cad50bd2e59bab6cd2a0b864e9]: Commencement: S. 2 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-13811499e4f795a00fca891e0400dd5c]: Commencement: S. 3 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-13811499e4f795a00fca891e0400dd5c]: Commencement: S. 3 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-a6ecb0f07bd5dffec0cc236440e0615d]: Commencement: S. 4 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-a6ecb0f07bd5dffec0cc236440e0615d]: Commencement: S. 4 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-662788291ce3809be6525926cf88a79b]: Commencement: S. 5 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-662788291ce3809be6525926cf88a79b]: Commencement: S. 5 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-6812baa4efd82cff2ead692bcc5a146e]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2026/9/section/5) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/128/article/2/b)
+[^c-6812baa4efd82cff2ead692bcc5a146e]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2026/9/section/5) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/128/article/2/b)
 
-[^key-0615d384b15772cb031be3c4d56f685d]: Commencement: S. 6 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-0615d384b15772cb031be3c4d56f685d]: Commencement: S. 6 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-49323cc4df142081e7e91351ca5245f3]: Commencement: S. 7 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-49323cc4df142081e7e91351ca5245f3]: Commencement: S. 7 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-5ba37a82a7e0334a960b02d002ff12bf]: Commencement: S. 8 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-5ba37a82a7e0334a960b02d002ff12bf]: Commencement: S. 8 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-4e2d53c2175d86063929a8e1598c9aa1]: Commencement: S. 9 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-4e2d53c2175d86063929a8e1598c9aa1]: Commencement: S. 9 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-b4c5f2e5bf71ec10380a18aa7b230ef0]: Commencement: S. 10 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-b4c5f2e5bf71ec10380a18aa7b230ef0]: Commencement: S. 10 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-21149477724a8e857b5c87e8dafc5a81]: Commencement: S. 11 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-21149477724a8e857b5c87e8dafc5a81]: Commencement: S. 11 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-64f132764c0ac90b184db8a28fc5bb3c]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2026/9/section/11) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/128/article/2/c)
+[^c-64f132764c0ac90b184db8a28fc5bb3c]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2026/9/section/11) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/128/article/2/c)
 
-[^key-681a80dcedf45751c800af3e5add8464]: Commencement: S. 12 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-681a80dcedf45751c800af3e5add8464]: Commencement: S. 12 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-df30b5ef9a66d17b7d3f40e1fbf75517]: Commencement: S. 13 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-df30b5ef9a66d17b7d3f40e1fbf75517]: Commencement: S. 13 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-517abccda63fa330b38d0b93be550029]: Commencement: S. 14 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-517abccda63fa330b38d0b93be550029]: Commencement: S. 14 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-435537bf95ae731c619b69e8ce1342f0]: Commencement: S. 15 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-435537bf95ae731c619b69e8ce1342f0]: Commencement: S. 15 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-820460e50972a152dae63382a433fd34]: Commencement: S. 16 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-820460e50972a152dae63382a433fd34]: Commencement: S. 16 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-84bdd685d385e053dd1e43d476d0dc3a]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2026/9/section/16) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/128/article/2/d)
+[^c-84bdd685d385e053dd1e43d476d0dc3a]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2026/9/section/16) in force at 1.11.2026 by [W.S.I. 2026/128](https://www.legislation.gov.uk/wsi/2026/128), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/128/article/2/d)
 
-[^key-40bfab9d35ebc715ff92b5daa897369b]: Commencement: S. 17 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-40bfab9d35ebc715ff92b5daa897369b]: Commencement: S. 17 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-47356395cff4a60e026a1caf8671493c]: Commencement: S. 18 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-47356395cff4a60e026a1caf8671493c]: Commencement: S. 18 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-41fa1c43ec4b0b4fa96c114aab2ef95f]: Commencement: S. 19 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-41fa1c43ec4b0b4fa96c114aab2ef95f]: Commencement: S. 19 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-8027aacfeda6e059c5a2bc0bb40d3d45]: Commencement: S. 20 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-8027aacfeda6e059c5a2bc0bb40d3d45]: Commencement: S. 20 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-f412a155cdee1a29c9b9e21a2936bcf2]: Commencement: S. 21 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-f412a155cdee1a29c9b9e21a2936bcf2]: Commencement: S. 21 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-a0751a4fe22c95f0b848e7e2abf10913]: Commencement: S. 22 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-a0751a4fe22c95f0b848e7e2abf10913]: Commencement: S. 22 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-5002ea0ec164e329c61ad0fd9192ea4e]: Commencement: S. 23 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-5002ea0ec164e329c61ad0fd9192ea4e]: Commencement: S. 23 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-357667d558c25ba4e32a0e4c0839acd2]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2026/9/section/24) in force at 27.6.2026, see [s. 26(2)](https://www.legislation.gov.uk/asc/2026/9/section/26/2)
+[^c-357667d558c25ba4e32a0e4c0839acd2]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2026/9/section/24) in force at 27.6.2026, see [s. 26(2)](https://www.legislation.gov.uk/asc/2026/9/section/26/2)
 
-[^key-5f7ac22baa0fcd4be26f4bc4a90b8b4f]: Commencement: S. 25 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-5f7ac22baa0fcd4be26f4bc4a90b8b4f]: Commencement: S. 25 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-93b8affae15b8cb0aeac4b9536e70aee]: Commencement: S. 26 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-93b8affae15b8cb0aeac4b9536e70aee]: Commencement: S. 26 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-1acddf7587cd663a55c5a11195c6ae80]: Commencement: S. 27 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-1acddf7587cd663a55c5a11195c6ae80]: Commencement: S. 27 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-431faa526e4671eea9d7db8d3db2fa9d]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-431faa526e4671eea9d7db8d3db2fa9d]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-ddc1c7f9ca710325c42d2fe00c49e1c0]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-ddc1c7f9ca710325c42d2fe00c49e1c0]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-bb93ea18f63f979110a83eb51afa959c]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-bb93ea18f63f979110a83eb51afa959c]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-b3571bc8c5e315df3d199a71688ea1be]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
+[^c-b3571bc8c5e315df3d199a71688ea1be]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 26(3)](https://www.legislation.gov.uk/asc/2026/9/section/26/3)
 
-[^key-5e4ffdef0c30e418a9dcff0c753058bd]: Commencement: Sch. para. 5 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-5e4ffdef0c30e418a9dcff0c753058bd]: Commencement: Sch. para. 5 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-bb35c4fe03ea31c231bb606e5ea57aed]: Commencement: Sch. para. 6 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-bb35c4fe03ea31c231bb606e5ea57aed]: Commencement: Sch. para. 6 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
 
-[^key-be399ad753dc4630364679d967d8290d]: Commencement: Sch. para. 7 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)
+[^c-be399ad753dc4630364679d967d8290d]: Commencement: Sch. para. 7 in force at 28.4.2026, see [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1)

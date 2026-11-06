@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Maundy Thursday[^key-2b5c7565659091b931f13cbe7e25b552]
+## 60. Maundy Thursday[^c-2b5c7565659091b931f13cbe7e25b552]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b5c7565659091b931f13cbe7e25b552]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2006/2910/regulation/60) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-2b5c7565659091b931f13cbe7e25b552]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2006/2910/regulation/60) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

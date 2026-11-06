@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Section 6 above does not prevent or restrict the exercise of access rights over any land which is a core path unless it is land—.[^key-26dedc44a944603262fd11473d649633]
+(1) Section 6 above does not prevent or restrict the exercise of access rights over any land which is a core path unless it is land—.[^c-26dedc44a944603262fd11473d649633]
 
 - (a) to which public access is prohibited or restricted by or under any enactment in consequence of an outbreak of animal disease; or
 - (b) in respect of which access rights are not exercisable, having been specified (whether as part of a larger area or not) in an order under section 11
@@ -62,7 +62,7 @@ but does include land used wholly for the cultivation of tree seedlings in beds,
 
 ## Annotations
 
-[^key-26dedc44a944603262fd11473d649633]: Textual amendment: Words in s. 7(1) inserted (20.12.2013) by [The Land Reform (Scotland) Act 2003 (Modification) Order 2013 (S.S.I. 2013/356)](https://www.legislation.gov.uk/ssi/2013/356), [arts. 1](https://www.legislation.gov.uk/ssi/2013/356/article/1), [2](https://www.legislation.gov.uk/ssi/2013/356/article/2)
+[^c-26dedc44a944603262fd11473d649633]: Textual amendment: Words in s. 7(1) inserted (20.12.2013) by [The Land Reform (Scotland) Act 2003 (Modification) Order 2013 (S.S.I. 2013/356)](https://www.legislation.gov.uk/ssi/2013/356), [arts. 1](https://www.legislation.gov.uk/ssi/2013/356/article/1), [2](https://www.legislation.gov.uk/ssi/2013/356/article/2)
 
 [^c2104113]: Textual amendment: S. 7(10)(c) and words inserted (9.2.2005) by [The Land Reform (Scotland) Act 2003 (Modification) Order 2005 (S.S.I. 2005/65)](https://www.legislation.gov.uk/ssi/2005/65), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/65/article/2/a)
 

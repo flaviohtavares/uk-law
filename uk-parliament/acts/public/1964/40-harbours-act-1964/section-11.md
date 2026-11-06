@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Loans for execution of harbour works, &c.[^key-729435dca474cfd1278a87d59b8b0848][^c7736781]
+## 11. Loans for execution of harbour works, &c.[^c-729435dca474cfd1278a87d59b8b0848][^c7736781]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ provided that, in the case of assistance in respect of expenses incurred, he is 
 
 ## Annotations
 
-[^key-729435dca474cfd1278a87d59b8b0848]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1964/40/section/11): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/i), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
+[^c-729435dca474cfd1278a87d59b8b0848]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1964/40/section/11): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/i), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
 
 [^c7736781]: Modification: S. 11 amended by [Harbours (Loans) Act 1972 (c. 16, SIF 58)](https://www.legislation.gov.uk/ukpga/1972/16), [s. 4(1)](https://www.legislation.gov.uk/ukpga/1972/16/section/4/1)
 

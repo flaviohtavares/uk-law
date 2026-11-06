@@ -109,7 +109,7 @@ Article 2
 </tbody>
 </table>
 
-[^c1764551][^c1764552][^c1764553][^c1764554][^key-8a242ae1bac750ac031708f91ab836db][^key-4f52d4728afad1fbda25b041e1286413][^key-4f52d4728afad1fbda25b041e1286413][^c1764555][^key-20bf8975c2bb87ec1f4a1646ab195da6]
+[^c1764551][^c1764552][^c1764553][^c1764554][^c-8a242ae1bac750ac031708f91ab836db][^c-4f52d4728afad1fbda25b041e1286413][^c-4f52d4728afad1fbda25b041e1286413][^c1764555][^c-20bf8975c2bb87ec1f4a1646ab195da6]
 
 (This note is not part of the Order)
 
@@ -133,10 +133,10 @@ This Order does not impose any costs on business.
 
 [^c1764554]: Marginal citation: [S.I. 1995/767](https://www.legislation.gov.uk/uksi/1995/767).
 
-[^key-8a242ae1bac750ac031708f91ab836db]: Textual amendment: Words in Sch. 2 omitted (1.6.2007) by virtue of [Social Security (Netherlands) Order 2007 (S.I. 2007/631)](https://www.legislation.gov.uk/uksi/2007/631), [arts. 1](https://www.legislation.gov.uk/uksi/2007/631/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2007/631/article/3/2/e)
+[^c-8a242ae1bac750ac031708f91ab836db]: Textual amendment: Words in Sch. 2 omitted (1.6.2007) by virtue of [Social Security (Netherlands) Order 2007 (S.I. 2007/631)](https://www.legislation.gov.uk/uksi/2007/631), [arts. 1](https://www.legislation.gov.uk/uksi/2007/631/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2007/631/article/3/2/e)
 
-[^key-4f52d4728afad1fbda25b041e1286413]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2) omitted (1.10.2007) by virtue of [Social Security (Ireland) Order 2007 (S.I. 2007/2122)](https://www.legislation.gov.uk/uksi/2007/2122), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2122/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2007/2122/article/3/2/e)
+[^c-4f52d4728afad1fbda25b041e1286413]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2) omitted (1.10.2007) by virtue of [Social Security (Ireland) Order 2007 (S.I. 2007/2122)](https://www.legislation.gov.uk/uksi/2007/2122), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2122/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2007/2122/article/3/2/e)
 
 [^c1764555]: Marginal citation: [S.I. 1982/1528](https://www.legislation.gov.uk/uksi/1982/1528).
 
-[^key-20bf8975c2bb87ec1f4a1646ab195da6]: Textual amendment: Words in Sch. 2 omitted (1.3.2001) by virtue of [The Social Security (Australia) Order 2000 (S.I. 2000/3255)](https://www.legislation.gov.uk/uksi/2000/3255), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3255/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/3255/article/3/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2000/3255/article/2))
+[^c-20bf8975c2bb87ec1f4a1646ab195da6]: Textual amendment: Words in Sch. 2 omitted (1.3.2001) by virtue of [The Social Security (Australia) Order 2000 (S.I. 2000/3255)](https://www.legislation.gov.uk/uksi/2000/3255), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3255/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/3255/article/3/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2000/3255/article/2))

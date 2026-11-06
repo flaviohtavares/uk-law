@@ -35,7 +35,7 @@ An Act to make provision about protection from redundancy during or after pregna
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Redundancy during a protected period of pregnancy[^key-85e1beadb6198994a1f532bfff3f4cb2]
+## 1. Redundancy during a protected period of pregnancy[^c-85e1beadb6198994a1f532bfff3f4cb2]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -93,7 +93,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) In section 236 (orders and regulations), in subsection (3), after “49C,” insert “49D,”.
 
-## 2. Maternity, adoption and shared parental leave: redundancy[^key-29b80f29d55f3909ea8b27edbb35d09e]
+## 2. Maternity, adoption and shared parental leave: redundancy[^c-29b80f29d55f3909ea8b27edbb35d09e]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -113,7 +113,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-## 3. Extent, commencement and short title[^key-448c0deb7d294b20c5ad703d8c8d27d4]
+## 3. Extent, commencement and short title[^c-448c0deb7d294b20c5ad703d8c8d27d4]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -123,8 +123,8 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-85e1beadb6198994a1f532bfff3f4cb2]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/17/section/1) in force at 24.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-85e1beadb6198994a1f532bfff3f4cb2]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/17/section/1) in force at 24.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
 
-[^key-29b80f29d55f3909ea8b27edbb35d09e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/17/section/2) in force at 24.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-29b80f29d55f3909ea8b27edbb35d09e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/17/section/2) in force at 24.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
 
-[^key-448c0deb7d294b20c5ad703d8c8d27d4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/17/section/3) in force at 24.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-448c0deb7d294b20c5ad703d8c8d27d4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/17/section/3) in force at 24.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)

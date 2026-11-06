@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Amendment of self-assessment during enquiry to prevent loss of tax[^key-9f3ac94f05371227af37b869e37c75c9]
+## 87. Amendment of self-assessment during enquiry to prevent loss of tax[^c-9f3ac94f05371227af37b869e37c75c9]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the officer may by notice to the relevant person amend the assessment to make go
 
 ## Annotations
 
-[^key-9f3ac94f05371227af37b869e37c75c9]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/16/section/87) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9f3ac94f05371227af37b869e37c75c9]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/16/section/87) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

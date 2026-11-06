@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Reimbursement of costs incurred in connection with applications[^key-21abc4a7e33a7b6041d69073f2f3e720]
+## 91. Reimbursement of costs incurred in connection with applications[^c-21abc4a7e33a7b6041d69073f2f3e720]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21abc4a7e33a7b6041d69073f2f3e720]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2021/15/section/91) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-21abc4a7e33a7b6041d69073f2f3e720]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2021/15/section/91) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

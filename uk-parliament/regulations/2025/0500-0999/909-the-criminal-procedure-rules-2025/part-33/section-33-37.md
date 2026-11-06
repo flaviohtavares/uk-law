@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.37. Hearsay evidence[^key-7faca05103d0e85b1896fa23aaf96bb9]
+## 33.37. Hearsay evidence[^c-7faca05103d0e85b1896fa23aaf96bb9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Section 2(1) of the Civil Evidence Act 1995[^f00837] (duty to give notice of int
 
 ## Annotations
 
-[^key-7faca05103d0e85b1896fa23aaf96bb9]: Commencement: [Rule 33.37](https://www.legislation.gov.uk/uksi/2025/909/rule/33.37) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7faca05103d0e85b1896fa23aaf96bb9]: Commencement: [Rule 33.37](https://www.legislation.gov.uk/uksi/2025/909/rule/33.37) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00837]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to the provisions of the Act and of these Regulations, an EHC plan in respect of a child or young person shall not be disclosed by the local authority[^key-6678e48eb0eafad2f9e22b1a8503c5be] without the child or young person's consent except—
+(1) Subject to the provisions of the Act and of these Regulations, an EHC plan in respect of a child or young person shall not be disclosed by the local authority[^c-6678e48eb0eafad2f9e22b1a8503c5be] without the child or young person's consent except—
 
 - (a) to persons to whom, in the opinion of the local authority concerned, it is necessary to disclose the whole or any part of the EHC plan in the interests of the child or young person;
 - (b) for the purposes of any appeal under the Act;
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6678e48eb0eafad2f9e22b1a8503c5be]: Textual amendment: Words in reg. 17(1) inserted (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/359/regulation/3)
+[^c-6678e48eb0eafad2f9e22b1a8503c5be]: Textual amendment: Words in reg. 17(1) inserted (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/359/regulation/3)
 
 [^c22119061]: Marginal citation: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7)
 

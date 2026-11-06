@@ -44,15 +44,15 @@ Coming into force
 
 31st July 2017
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 9(1), 10(1), 11(1), 25(1) and (3) of the Antarctic Act 1994[^f00001].[^key-2e1980d8c16e2311d6e6a25d4af1770d]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 9(1), 10(1), 11(1), 25(1) and (3) of the Antarctic Act 1994[^f00001].[^c-2e1980d8c16e2311d6e6a25d4af1770d]
 
-## 1. Citation, commencement and interpretation[^key-2285b598faa39315134d4a18b3aeec26]
+## 1. Citation, commencement and interpretation[^c-2285b598faa39315134d4a18b3aeec26]
 
 (1) These Regulations may be cited as the Antarctic (Amendment) Regulations 2017 and come into force on 31st July 2017.
 
 (2) In these Regulations, “the principal Regulations” means the Antarctic Regulations 1995[^f00002].
 
-## 2. Amendments to the principal Regulations[^key-a85f34c30c9ce6aa56175673207df2d6]
+## 2. Amendments to the principal Regulations[^c-a85f34c30c9ce6aa56175673207df2d6]
 
 (1) The principal Regulations are amended in accordance with this regulation.
 
@@ -78,7 +78,7 @@ Foreign and Commonwealth Office
 
 26th June 2017
 
-## SCHEDULE 1[^key-59f433c7bf3c609005a31982e9054b31]
+## SCHEDULE 1[^c-59f433c7bf3c609005a31982e9054b31]
 
 Regulation 2(4)
 
@@ -978,7 +978,7 @@ Regulation 2(4)
 >
 > The location and boundaries of the Area are shown on Maps A, A1, A2, A2/1 and A3 of the Antarctic Specially Protected Area No. 174 Management Plan, published at pages 242-246 of the Command Paper “The Antarctic Treaty: Measures adopted at the Thirty-seventh Consultative Meeting held at Brasilia 28 April – 07 May 2014”[^f00072].
 
-## SCHEDULE 2[^key-f2d4af98987f9c32aeba2d7d5deba96a]
+## SCHEDULE 2[^c-f2d4af98987f9c32aeba2d7d5deba96a]
 
 Regulation 2(5)
 
@@ -1093,15 +1093,15 @@ These Regulations also delete regulation 16 of, and Schedule 3 to, the Antarctic
 
 [^f00001]: Footnote: [1994 c.15](https://www.legislation.gov.uk/ukpga/1994/15); section 9(1) was amended by the Antarctic Act [2013 (c.15)](https://www.legislation.gov.uk/ukpga/2013/15) sections 14(1) and (2)(c); section 10(1) was amended by the Antarctic Act 2013 sections 14(1), 14(2)(d), 15(1) and 15(2)(a); and section 11(1) was amended by the Antarctic Act 2013 section 14(1) and14(2)(e).
 
-[^key-2e1980d8c16e2311d6e6a25d4af1770d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/706) extended (Jersey) (coming into force in accordance with reg. 1 of the amending S.I.) by [The Antarctic (Jersey) Regulations 2018 (S.I. 2018/1167)](https://www.legislation.gov.uk/uksi/2018/1167), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1167/regulation/2)
+[^c-2e1980d8c16e2311d6e6a25d4af1770d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/706) extended (Jersey) (coming into force in accordance with reg. 1 of the amending S.I.) by [The Antarctic (Jersey) Regulations 2018 (S.I. 2018/1167)](https://www.legislation.gov.uk/uksi/2018/1167), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1167/regulation/2)
 
-[^key-2285b598faa39315134d4a18b3aeec26]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/706/regulation/1) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
+[^c-2285b598faa39315134d4a18b3aeec26]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/706/regulation/1) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1995/490](https://www.legislation.gov.uk/uksi/1995/490) as amended by [S.I. 1995/2741](https://www.legislation.gov.uk/uksi/1995/2741), [S.I. 1998/1007](https://www.legislation.gov.uk/uksi/1998/1007), [S.I. 2000/2147](https://www.legislation.gov.uk/uksi/2000/2147), [S.I. 2002/2054](https://www.legislation.gov.uk/uksi/2002/2054), [S.I. 2003/323](https://www.legislation.gov.uk/uksi/2003/323), [S.I. 2004/2782](https://www.legislation.gov.uk/uksi/2004/2782), [S.I. 2006/680](https://www.legislation.gov.uk/uksi/2006/680), [S.I. 2008/3066](https://www.legislation.gov.uk/uksi/2008/3066) and [S.I. 2009/2354](https://www.legislation.gov.uk/uksi/2009/2354).
 
-[^key-a85f34c30c9ce6aa56175673207df2d6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/706/regulation/2) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
+[^c-a85f34c30c9ce6aa56175673207df2d6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/706/regulation/2) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
 
-[^key-59f433c7bf3c609005a31982e9054b31]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/706/schedule/1) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
+[^c-59f433c7bf3c609005a31982e9054b31]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/706/schedule/1) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
 
 [^f00003]: Footnote: Cm 9356 (2016).
 
@@ -1243,7 +1243,7 @@ These Regulations also delete regulation 16 of, and Schedule 3 to, the Antarctic
 
 [^f00072]: Footnote: Cm 9150 (2015).
 
-[^key-f2d4af98987f9c32aeba2d7d5deba96a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/706/schedule/2) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
+[^c-f2d4af98987f9c32aeba2d7d5deba96a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/706/schedule/2) in force at 31.7.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/706/regulation/1/1)
 
 [^f00073]: Footnote: Cm 9356 (2016).
 

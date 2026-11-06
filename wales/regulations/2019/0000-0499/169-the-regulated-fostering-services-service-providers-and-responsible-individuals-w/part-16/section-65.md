@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Support for staff raising concerns[^key-67b089f31c25684d4cbe7b2d23ef1dfb]
+## 65. Support for staff raising concerns[^c-67b089f31c25684d4cbe7b2d23ef1dfb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must ensure that the provider's whistleblowing policy
 
 ## Annotations
 
-[^key-67b089f31c25684d4cbe7b2d23ef1dfb]: Commencement: [Reg. 65](https://www.legislation.gov.uk/wsi/2019/169/regulation/65) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-67b089f31c25684d4cbe7b2d23ef1dfb]: Commencement: [Reg. 65](https://www.legislation.gov.uk/wsi/2019/169/regulation/65) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

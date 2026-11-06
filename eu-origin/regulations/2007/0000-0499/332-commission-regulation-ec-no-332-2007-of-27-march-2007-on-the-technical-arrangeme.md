@@ -35,83 +35,83 @@ on the technical arrangements for the transmission of railway transport statisti
 
 (Text with EEA relevance) (revoked)
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fa9ccc09b32215c46e0dd34d17e4308b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fa9ccc09b32215c46e0dd34d17e4308b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fa9ccc09b32215c46e0dd34d17e4308b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fa9ccc09b32215c46e0dd34d17e4308b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fa9ccc09b32215c46e0dd34d17e4308b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fa9ccc09b32215c46e0dd34d17e4308b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — TECHNICAL FORMAT FOR DATA TRANSMISSION[^key-fa9ccc09b32215c46e0dd34d17e4308b]
+## ANNEX — TECHNICAL FORMAT FOR DATA TRANSMISSION[^c-fa9ccc09b32215c46e0dd34d17e4308b]
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]1.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]1.
 
 DATA STRUCTURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]2.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]2.
 
 LIST OF FIELDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex A: Annual statistics on goods transport — detailed reporting
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex A: Annual statistics on goods transport — detailed reporting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex B: Annual statistics on goods transport — simplified reporting
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex B: Annual statistics on goods transport — simplified reporting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex C: Annual statistics on passenger transport — detailed reporting
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex C: Annual statistics on passenger transport — detailed reporting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex D: Annual statistics on passenger transport — simplified reporting
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex D: Annual statistics on passenger transport — simplified reporting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex E: Quarterly statistics on goods and passenger transport
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex E: Quarterly statistics on goods and passenger transport
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex H: Statistics on accidents
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex H: Statistics on accidents
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex I
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]Dataset for Annex I
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]3.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]3.
 
 MISSING VALUES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]4.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]4.
 
 ALTERNATIVE STANDARD FORMATS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]5.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]5.
 
 VALIDATION OF DATA BY EUROSTAT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]6.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]6.
 
 NAMING OF DATASET FILE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]7.
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]7.
 
 TRANSMISSION METHOD
 
@@ -119,4 +119,4 @@ TRANSMISSION METHOD
 
 ## Annotations
 
-[^key-fa9ccc09b32215c46e0dd34d17e4308b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa9ccc09b32215c46e0dd34d17e4308b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Deferral of decisions[^key-74b5fe10c37b93297f31489f0aa47ad8]
+## 15. Deferral of decisions[^c-74b5fe10c37b93297f31489f0aa47ad8]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74b5fe10c37b93297f31489f0aa47ad8]: Commencement: Reg. 15 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-74b5fe10c37b93297f31489f0aa47ad8]: Commencement: Reg. 15 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) A person who is required to keep a register shall enter in the register each copy received by them of—
 
-- (a) any consignment note (including[^key-9084c0a56fc506eeba2a6837df407e9c]..., where consignments are not accepted, the original note, a copy of any explanation of the reasons for rejection prepared pursuant to regulation 42 and the consignment note prepared pursuant to regulation 43 [^key-eb9c3e48f4e93d283838bbce0f0c4ea9]...);
+- (a) any consignment note (including[^c-9084c0a56fc506eeba2a6837df407e9c]..., where consignments are not accepted, the original note, a copy of any explanation of the reasons for rejection prepared pursuant to regulation 42 and the consignment note prepared pursuant to regulation 43 [^c-eb9c3e48f4e93d283838bbce0f0c4ea9]...);
 - (b) any consignee's return to the producer, holder or consignor received pursuant to regulation 54; and
 - (c) any carrier's schedule given to him pursuant to regulation 37.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9084c0a56fc506eeba2a6837df407e9c]: Textual amendment: Words in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2005/894/regulation/51/2/a) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/21/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-9084c0a56fc506eeba2a6837df407e9c]: Textual amendment: Words in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2005/894/regulation/51/2/a) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/21/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-eb9c3e48f4e93d283838bbce0f0c4ea9]: Textual amendment: Words in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2005/894/regulation/51/2/a) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/21/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-eb9c3e48f4e93d283838bbce0f0c4ea9]: Textual amendment: Words in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2005/894/regulation/51/2/a) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/21/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

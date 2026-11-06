@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Advice and assistance in respect of compliance with ongoing registration conditions[^key-fa0b9576cc54d0d2ea3cb70cd20cea14][^key-b5861af5112aa2f1dfe5b73a2a6c0ebb]
+## 37. Advice and assistance in respect of compliance with ongoing registration conditions[^c-fa0b9576cc54d0d2ea3cb70cd20cea14][^c-b5861af5112aa2f1dfe5b73a2a6c0ebb]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Commission may provide, or make arrangements for the provision of, advice or
 
 ## Annotations
 
-[^key-fa0b9576cc54d0d2ea3cb70cd20cea14]: Commencement: S. 37 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-fa0b9576cc54d0d2ea3cb70cd20cea14]: Commencement: S. 37 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-b5861af5112aa2f1dfe5b73a2a6c0ebb]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2022/1/section/37) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/432/article/2/j)
+[^c-b5861af5112aa2f1dfe5b73a2a6c0ebb]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2022/1/section/37) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/432/article/2/j)

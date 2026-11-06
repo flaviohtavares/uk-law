@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362U. Costs orders[^key-dd03911003d4429c6956d286b420b436]
+## 362U. Costs orders[^c-dd03911003d4429c6956d286b420b436]
 
 *Extent: E+W+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd03911003d4429c6956d286b420b436]: Textual amendment: [S. 362U](https://www.legislation.gov.uk/ukpga/2002/29/section/362U) and cross-heading inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 52](https://www.legislation.gov.uk/ukpga/2022/10/section/52), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/519/regulation/3))
+[^c-dd03911003d4429c6956d286b420b436]: Textual amendment: [S. 362U](https://www.legislation.gov.uk/ukpga/2002/29/section/362U) and cross-heading inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 52](https://www.legislation.gov.uk/ukpga/2022/10/section/52), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/519/regulation/3))

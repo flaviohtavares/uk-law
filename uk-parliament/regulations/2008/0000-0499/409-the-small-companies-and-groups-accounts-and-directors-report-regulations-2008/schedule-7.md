@@ -32,7 +32,7 @@ Regulation 12
 
 **2.** References in these Regulations to provisions for liabilities are to any amount retained as reasonably necessary for the purpose of providing for any liability the nature of which is clearly defined and which is either likely to be incurred, or certain to be incurred but uncertain as to amount or as to the date on which it will arise.
 
-**2A.**[^key-ebe2968f76cdadefeb739b2c418ad92d] At the balance sheet date, a provision must represent the best estimate of the expenses likely to be incurred or, in the case of a liability, of the amount required to meet that liability.
+**2A.**[^c-ebe2968f76cdadefeb739b2c418ad92d] At the balance sheet date, a provision must represent the best estimate of the expenses likely to be incurred or, in the case of a liability, of the amount required to meet that liability.
 
 **2B.** Provisions must not be used to adjust the values of assets.
 
@@ -50,12 +50,12 @@ The specified provisions for the purposes of section 712(2)(b)(i) of the 2006 Ac
 
 The specified provisions for the purposes of section 836(1)(b)(i) of the 2006 Act (Companies Act accounts: relevant provisions for distribution purposes) are provisions of any of the kinds mentioned in paragraphs 1 and 2 of this Schedule.
 
-#### 6. Realised losses[^key-a632b1a6a3f7fb2f06b8aae8320f1a4c]
+#### 6. Realised losses[^c-a632b1a6a3f7fb2f06b8aae8320f1a4c]
 
 The specified provisions for the purposes of section 841(2)(a) of the 2006 Act (Companies Act accounts: treatment of provisions as realised losses) are provisions of any of the kinds mentioned in paragraphs 1 and 2 of this Schedule.
 
 ## Annotations
 
-[^key-ebe2968f76cdadefeb739b2c418ad92d]: Textual amendment: [Sch. 7 paras. 2A](https://www.legislation.gov.uk/uksi/2008/409/schedule/7/paragraph/2A), [2B](https://www.legislation.gov.uk/uksi/2008/409/schedule/7/paragraph/2B) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [24](https://www.legislation.gov.uk/uksi/2015/980/regulation/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-ebe2968f76cdadefeb739b2c418ad92d]: Textual amendment: [Sch. 7 paras. 2A](https://www.legislation.gov.uk/uksi/2008/409/schedule/7/paragraph/2A), [2B](https://www.legislation.gov.uk/uksi/2008/409/schedule/7/paragraph/2B) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [24](https://www.legislation.gov.uk/uksi/2015/980/regulation/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-a632b1a6a3f7fb2f06b8aae8320f1a4c]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2008/409/schedule/7/paragraph/6) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Accounts, Reports and Audit) Regulations 2009 (S.I. 2009/1581)](https://www.legislation.gov.uk/uksi/2009/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1581/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2009/1581/regulation/11/3)
+[^c-a632b1a6a3f7fb2f06b8aae8320f1a4c]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2008/409/schedule/7/paragraph/6) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Accounts, Reports and Audit) Regulations 2009 (S.I. 2009/1581)](https://www.legislation.gov.uk/uksi/2009/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1581/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2009/1581/regulation/11/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Secure colleges and other places for detention of young offenders etc[^key-6deee7d8ce29e83161954445140b9166]
+## 38. Secure colleges and other places for detention of young offenders etc[^c-6deee7d8ce29e83161954445140b9166]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6deee7d8ce29e83161954445140b9166]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2015/2/section/38) in force at 20.3.2015 for specified purposes by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2015/778/article/2/2)
+[^c-6deee7d8ce29e83161954445140b9166]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2015/2/section/38) in force at 20.3.2015 for specified purposes by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2015/778/article/2/2)

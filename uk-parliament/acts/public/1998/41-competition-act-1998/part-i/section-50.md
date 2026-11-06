@@ -32,7 +32,7 @@ with such modifications as may be prescribed.
 - (a) vertical agreements, or land agreements, in general; or
 - (b) vertical agreements, or land agreements, of any prescribed description.
 
-(3) An order may empower the CMA[^key-101daf8ba227afb0faa94c561d8a849c] to give directions to the effect that in prescribed circumstances an exclusion, exemption or modification is not to apply (or is to apply in a particular way) in relation to an individual agreement.
+(3) An order may empower the CMA[^c-101daf8ba227afb0faa94c561d8a849c] to give directions to the effect that in prescribed circumstances an exclusion, exemption or modification is not to apply (or is to apply in a particular way) in relation to an individual agreement.
 
 (4) Subsections (2) and (3) are not to be read as limiting the powers conferred by section 71.
 
@@ -43,4 +43,4 @@ with such modifications as may be prescribed.
 
 ## Annotations
 
-[^key-101daf8ba227afb0faa94c561d8a849c]: Textual amendment: Word in s. 50(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/29) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-101daf8ba227afb0faa94c561d8a849c]: Textual amendment: Word in s. 50(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/29) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

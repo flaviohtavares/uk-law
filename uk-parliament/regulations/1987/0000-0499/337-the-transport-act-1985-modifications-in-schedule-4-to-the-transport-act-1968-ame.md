@@ -47,9 +47,9 @@ Coming into force
 
 The Secretary of State for Transport (as respects England) and the Secretary of State for Wales (as respects Wales) in exercise of the powers conferred by section 129(5) of the Transport Act 1985[^f00001], and of all other enabling powers, hereby make this Order:
 
-**1.**[^key-84b98e121285bfbc2adc4dedc4b180e9] This Order may be cited as the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) (Amendment) Order 1987 and shall come into force on 3rd April 1987.
+**1.**[^c-84b98e121285bfbc2adc4dedc4b180e9] This Order may be cited as the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) (Amendment) Order 1987 and shall come into force on 3rd April 1987.
 
-**2.**[^key-b7305a35292cead5c841aed3d3b79d8c] In article 3 of the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) Order 1985[^f00002], after the word “section” there shall be inserted the word “50(4),”.
+**2.**[^c-b7305a35292cead5c841aed3d3b79d8c] In article 3 of the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) Order 1985[^f00002], after the word “section” there shall be inserted the word “50(4),”.
 
 Signed by authority of the Secretary of State.
 
@@ -75,8 +75,8 @@ This Order extends the Transport Act 1985 (Modifications in Schedule 4 to the Tr
 
 [^f00001]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-84b98e121285bfbc2adc4dedc4b180e9]: Commencement: Art. 1 in force at 3.4.1987, see [art. 1](https://www.legislation.gov.uk/uksi/1987/337/article/1)
+[^c-84b98e121285bfbc2adc4dedc4b180e9]: Commencement: Art. 1 in force at 3.4.1987, see [art. 1](https://www.legislation.gov.uk/uksi/1987/337/article/1)
 
-[^key-b7305a35292cead5c841aed3d3b79d8c]: Commencement: Art. 2 in force at 3.4.1987, see [art. 1](https://www.legislation.gov.uk/uksi/1987/337/article/1)
+[^c-b7305a35292cead5c841aed3d3b79d8c]: Commencement: Art. 2 in force at 3.4.1987, see [art. 1](https://www.legislation.gov.uk/uksi/1987/337/article/1)
 
 [^f00002]: Footnote: S.I. [1985/1903](https://www.legislation.gov.uk/uksi/1985/1903).

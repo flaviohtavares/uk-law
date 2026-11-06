@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68A. Agreements for water quality[^key-7243787bd890e565231553967b9d5410]
+## 68A. Agreements for water quality[^c-7243787bd890e565231553967b9d5410]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7243787bd890e565231553967b9d5410]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/1980/45/section/68A) inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 31(2)](https://www.legislation.gov.uk/asp/2013/5/section/31/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/342/article/2/b)
+[^c-7243787bd890e565231553967b9d5410]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/1980/45/section/68A) inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 31(2)](https://www.legislation.gov.uk/asp/2013/5/section/31/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(b)](https://www.legislation.gov.uk/ssi/2013/342/article/2/b)

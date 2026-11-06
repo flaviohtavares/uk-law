@@ -23,7 +23,7 @@ summary: ''
 (1) If the investor's liability to income tax is reduced for any tax year in respect of any issue of shares and—
 
 - (a) the amount of the reduction (“A”), is less than
-- (b) the amount (“B”) which is equal to tax at the EIS[^key-5ed5c133efbe6df37579a66b8f5e6e68] original rate on the amount on which the investor claims EIS relief in respect of the shares,
+- (b) the amount (“B”) which is equal to tax at the EIS[^c-5ed5c133efbe6df37579a66b8f5e6e68] original rate on the amount on which the investor claims EIS relief in respect of the shares,
 
 section 209(3) has effect in relation to a disposal of any of the shares as if the amount or value referred to as “**R**” were reduced by multiplying it by the fraction—
 
@@ -37,4 +37,4 @@ section 209(3) has effect in relation to a disposal of any of the shares as if t
 
 ## Annotations
 
-[^key-5ed5c133efbe6df37579a66b8f5e6e68]: Textual amendment: Words in s. 210(1)(b) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(b)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/b)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)
+[^c-5ed5c133efbe6df37579a66b8f5e6e68]: Textual amendment: Words in s. 210(1)(b) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(b)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/b)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)

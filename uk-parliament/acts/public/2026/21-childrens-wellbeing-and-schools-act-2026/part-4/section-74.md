@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Power to make consequential provision: Wales[^key-74064000ff464afd9f7ad86d2a8e7a3b]
+## 74. Power to make consequential provision: Wales[^c-74064000ff464afd9f7ad86d2a8e7a3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74064000ff464afd9f7ad86d2a8e7a3b]: Commencement: S. 74 in force at Royal Assent, see [s. 78(1)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/c)
+[^c-74064000ff464afd9f7ad86d2a8e7a3b]: Commencement: S. 74 in force at Royal Assent, see [s. 78(1)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/c)

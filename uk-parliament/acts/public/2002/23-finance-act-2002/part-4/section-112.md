@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Restriction of relief for company acquisitions[^key-1ef1ba26eda028be757a129c8102e9d1]
+## 112. Restriction of relief for company acquisitions[^c-1ef1ba26eda028be757a129c8102e9d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef1ba26eda028be757a129c8102e9d1]: Textual amendment: [S. 112](https://www.legislation.gov.uk/ukpga/2002/23/section/112) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(d)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/d) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-1ef1ba26eda028be757a129c8102e9d1]: Textual amendment: [S. 112](https://www.legislation.gov.uk/ukpga/2002/23/section/112) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(d)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/d) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

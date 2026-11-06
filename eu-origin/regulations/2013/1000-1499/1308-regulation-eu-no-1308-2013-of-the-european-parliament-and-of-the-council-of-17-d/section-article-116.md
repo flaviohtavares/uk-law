@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 116. Other implementing powers[^key-d4521616a0546f60e974b17adf49fc81]
+## Article 116. Other implementing powers[^c-d4521616a0546f60e974b17adf49fc81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4521616a0546f60e974b17adf49fc81]: Textual amendment: [Art. 116](https://www.legislation.gov.uk/eur/2013/1308/article/116) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/3/15)
+[^c-d4521616a0546f60e974b17adf49fc81]: Textual amendment: [Art. 116](https://www.legislation.gov.uk/eur/2013/1308/article/116) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/3/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Grouping or de-grouping parishes[^key-ee4913a712c98b560faf2f867b80e997][^key-283d20f62dd0aa5a5402bcadd93b5b87][^key-f3c62259bbabae8cceef9c0f60a4925e]
+## 91. Grouping or de-grouping parishes[^c-ee4913a712c98b560faf2f867b80e997][^c-283d20f62dd0aa5a5402bcadd93b5b87][^c-f3c62259bbabae8cceef9c0f60a4925e]
 
 *Extent: E+W*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ee4913a712c98b560faf2f867b80e997]: Commencement: S. 91 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-ee4913a712c98b560faf2f867b80e997]: Commencement: S. 91 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
 
-[^key-283d20f62dd0aa5a5402bcadd93b5b87]: Modification: [S. 91](https://www.legislation.gov.uk/ukpga/2007/28/section/91) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(h)](https://www.legislation.gov.uk/uksi/2022/331/article/17/h)
+[^c-283d20f62dd0aa5a5402bcadd93b5b87]: Modification: [S. 91](https://www.legislation.gov.uk/ukpga/2007/28/section/91) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(h)](https://www.legislation.gov.uk/uksi/2022/331/article/17/h)
 
-[^key-f3c62259bbabae8cceef9c0f60a4925e]: Modification: [S. 91](https://www.legislation.gov.uk/ukpga/2007/28/section/91): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(i)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/i)
+[^c-f3c62259bbabae8cceef9c0f60a4925e]: Modification: [S. 91](https://www.legislation.gov.uk/ukpga/2007/28/section/91): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(i)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/i)

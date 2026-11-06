@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.F.4. Applications for transfer value payments: time limits[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.F.4. Applications for transfer value payments: time limits[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -34,14 +34,14 @@ This is subject to paragraph (4).
 
 (3) Paragraph (4) applies if—
 
-- (a) disciplinary or court proceedings against the member are begun within 12 months after the member leaves the employment which qualified the member to belong to this Section of[^key-321cadb6c9d8dc26a292f6fa88958e26] the Scheme, and
+- (a) disciplinary or court proceedings against the member are begun within 12 months after the member leaves the employment which qualified the member to belong to this Section of[^c-321cadb6c9d8dc26a292f6fa88958e26] the Scheme, and
 - (b) it appears to the Secretary of State that the proceedings may lead to all or part of the member’s benefits being forfeited under regulation 3.J.7 (forfeiture of rights to benefit).
 
 (4) The Secretary of State may defer doing what is needed to carry out what the member requires until the end of the period of 3 months beginning with the date on which those proceedings (including any proceedings on appeal) are concluded.
 
 (5) In any case where a direction is given under regulation 3.J.7 for the forfeiture of a member’s benefits, this regulation applies as if the amount specified in the statement of entitlement were reduced by an amount equal to the value of the benefits forfeited, as determined by the Scheme actuary.
 
-(6) In respect of an applicant who falls within regulation 3.F.1(4)[^key-a6b728cb4e3e679f74f02c88152b3bb8]—
+(6) In respect of an applicant who falls within regulation 3.F.1(4)[^c-a6b728cb4e3e679f74f02c88152b3bb8]—
 
 - (a) in the case of an application that requires the guaranteed cash equivalent transfer value payment to be made to a registered occupational pension scheme or a registered personal pension scheme, an application under paragraph (1) may only be made if—
   - (i) the applicant became a member of that scheme not later than the end of the period of 12 months beginning with the day after the date on which the member ceased to be in the pensionable service in which the rights accrued (“the leaving date”), and
@@ -52,8 +52,8 @@ This is subject to paragraph (4).
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-321cadb6c9d8dc26a292f6fa88958e26]: Textual amendment: Words in [reg. 3.F.4(3)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.4/3/a) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-321cadb6c9d8dc26a292f6fa88958e26]: Textual amendment: Words in [reg. 3.F.4(3)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.4/3/a) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-a6b728cb4e3e679f74f02c88152b3bb8]: Textual amendment: Words in [reg. 3.F.4(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.4/6) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2015/96/regulation/44)
+[^c-a6b728cb4e3e679f74f02c88152b3bb8]: Textual amendment: Words in [reg. 3.F.4(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.4/6) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2015/96/regulation/44)

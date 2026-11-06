@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.14. Duty of court officer[^key-5ac5d85c5c69b46e2b63e3ab0fe5c9ad]
+## 3.14. Duty of court officer[^c-5ac5d85c5c69b46e2b63e3ab0fe5c9ad]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ The court officer must—
 
 ## Annotations
 
-[^key-5ac5d85c5c69b46e2b63e3ab0fe5c9ad]: Commencement: [Rule 3.14](https://www.legislation.gov.uk/uksi/2025/909/rule/3.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5ac5d85c5c69b46e2b63e3ab0fe5c9ad]: Commencement: [Rule 3.14](https://www.legislation.gov.uk/uksi/2025/909/rule/3.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

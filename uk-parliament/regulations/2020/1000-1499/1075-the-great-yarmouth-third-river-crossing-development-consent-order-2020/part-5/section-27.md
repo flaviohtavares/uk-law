@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Time limit for exercise of powers to possess land temporarily or to acquire land compulsorily[^key-0a474e9ab606c814f627262144d422e5]
+## 27. Time limit for exercise of powers to possess land temporarily or to acquire land compulsorily[^c-0a474e9ab606c814f627262144d422e5]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ in relation to any part of the Order land.
 
 ## Annotations
 
-[^key-0a474e9ab606c814f627262144d422e5]: Commencement: Art. 27 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0a474e9ab606c814f627262144d422e5]: Commencement: Art. 27 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294451]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2020/1075/section/4) was amended by sections 184, 185 of, and paragraph 2 of Schedule 18 to, the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

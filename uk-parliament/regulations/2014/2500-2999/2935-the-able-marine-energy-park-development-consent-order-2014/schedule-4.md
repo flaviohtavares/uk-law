@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — ACCESS TO WORKS[^key-0da18a6d1df7fc2df0acb5db534cbf66]
+## SCHEDULE 4 — ACCESS TO WORKS[^c-0da18a6d1df7fc2df0acb5db534cbf66]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 17
 
 ## Annotations
 
-[^key-0da18a6d1df7fc2df0acb5db534cbf66]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/2935/schedule/4) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-0da18a6d1df7fc2df0acb5db534cbf66]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/2935/schedule/4) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

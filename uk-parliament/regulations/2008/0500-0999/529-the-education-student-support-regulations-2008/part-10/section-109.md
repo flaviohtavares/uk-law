@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Payment of college fee loans[^key-b41c45c70366ff6413ac08bd114ce954]
+## 109. Payment of college fee loans[^c-b41c45c70366ff6413ac08bd114ce954]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b41c45c70366ff6413ac08bd114ce954]: Commencement: Reg. 109 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-b41c45c70366ff6413ac08bd114ce954]: Commencement: Reg. 109 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

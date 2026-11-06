@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43.2. Application for permission or reference[^key-a00f6419bc1ff3fb141ff7bb9c001bb3]
+## 43.2. Application for permission or reference[^c-a00f6419bc1ff3fb141ff7bb9c001bb3]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a00f6419bc1ff3fb141ff7bb9c001bb3]: Commencement: [Rule 43.2](https://www.legislation.gov.uk/uksi/2025/909/rule/43.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a00f6419bc1ff3fb141ff7bb9c001bb3]: Commencement: [Rule 43.2](https://www.legislation.gov.uk/uksi/2025/909/rule/43.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01021]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 34 was amended by section 88 of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 81 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), and section 40(4) of, and paragraph 16 of Schedule 9 to, the Constitutional Reform Act 2005 (c. 4).
 

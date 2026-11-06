@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Acquisition of subsoil or airspace only[^key-df000ff17161f52078dc0af36fb9dbda]
+## 21. Acquisition of subsoil or airspace only[^c-df000ff17161f52078dc0af36fb9dbda]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df000ff17161f52078dc0af36fb9dbda]: Commencement: Art. 21 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-df000ff17161f52078dc0af36fb9dbda]: Commencement: Art. 21 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

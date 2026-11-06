@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Power of planning authority to acquire building by agreement[^key-5b06394b39761e7859e0ffd9c5bb116e][^key-53c1a0489a60551da1b995d669bf0e19]
+## 136. Power of planning authority to acquire building by agreement[^c-5b06394b39761e7859e0ffd9c5bb116e][^c-53c1a0489a60551da1b995d669bf0e19]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b06394b39761e7859e0ffd9c5bb116e]: Commencement: S. 136 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-5b06394b39761e7859e0ffd9c5bb116e]: Commencement: S. 136 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-53c1a0489a60551da1b995d669bf0e19]: Commencement: [S. 136](https://www.legislation.gov.uk/asc/2023/3/section/136) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-53c1a0489a60551da1b995d669bf0e19]: Commencement: [S. 136](https://www.legislation.gov.uk/asc/2023/3/section/136) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

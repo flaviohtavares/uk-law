@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Pistachios from Iran) (Emergency Control) (Scotland) Amendment Regulations 2005 (revoked)[^key-23cd03b10684c55862495eda470f3d3b]
+The Food (Pistachios from Iran) (Emergency Control) (Scotland) Amendment Regulations 2005 (revoked)[^c-23cd03b10684c55862495eda470f3d3b]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 17th February 2005
 
-[^key-23cd03b10684c55862495eda470f3d3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23cd03b10684c55862495eda470f3d3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-23cd03b10684c55862495eda470f3d3b]
+## 1. Citation, commencement and extent[^c-23cd03b10684c55862495eda470f3d3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Pistachios from Iran) (Emergency Control) (Scotland) Regulations 2003[^key-23cd03b10684c55862495eda470f3d3b]
+## 2. Amendments to the Food (Pistachios from Iran) (Emergency Control) (Scotland) Regulations 2003[^c-23cd03b10684c55862495eda470f3d3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Food (Pistachios from Iran) (Emergency Control) (Amendment) Order 1997[^key-23cd03b10684c55862495eda470f3d3b]
+## 3. Revocation of the Food (Pistachios from Iran) (Emergency Control) (Amendment) Order 1997[^c-23cd03b10684c55862495eda470f3d3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23cd03b10684c55862495eda470f3d3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23cd03b10684c55862495eda470f3d3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23cd03b10684c55862495eda470f3d3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23cd03b10684c55862495eda470f3d3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23cd03b10684c55862495eda470f3d3b]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)
+[^c-23cd03b10684c55862495eda470f3d3b]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Form of jury affirmation[^key-0a598a25ede17638b240212d3a61c17f][^key-70053ba8d99fc1fc292fcc04ec5c8775]
+## 63. Form of jury affirmation[^c-0a598a25ede17638b240212d3a61c17f][^c-70053ba8d99fc1fc292fcc04ec5c8775]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a598a25ede17638b240212d3a61c17f]: Commencement: S. 63 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-0a598a25ede17638b240212d3a61c17f]: Commencement: S. 63 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-70053ba8d99fc1fc292fcc04ec5c8775]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2025/12/section/63) in force at 6.4.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-70053ba8d99fc1fc292fcc04ec5c8775]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2025/12/section/63) in force at 6.4.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

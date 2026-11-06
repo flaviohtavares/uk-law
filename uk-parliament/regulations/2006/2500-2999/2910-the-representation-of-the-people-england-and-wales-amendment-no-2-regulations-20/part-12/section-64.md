@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Amendment to regulation 74[^key-5570aeed3fd70dd1e23dab897fc05b1b]
+## 64. Amendment to regulation 74[^c-5570aeed3fd70dd1e23dab897fc05b1b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 74, at the beginning of paragraph (3)(c) insert “unless the enve
 
 ## Annotations
 
-[^key-5570aeed3fd70dd1e23dab897fc05b1b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2006/2910/regulation/64) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-5570aeed3fd70dd1e23dab897fc05b1b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2006/2910/regulation/64) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

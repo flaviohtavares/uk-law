@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Overlapping Benefits) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-e5cdf52df45459118ecddbbb806c80db]
+The Social Security (Overlapping Benefits) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-e5cdf52df45459118ecddbbb806c80db]
 
 Made
 
@@ -38,24 +38,24 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-e5cdf52df45459118ecddbbb806c80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5cdf52df45459118ecddbbb806c80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e5cdf52df45459118ecddbbb806c80db]
+## 1. Citation and commencement[^c-e5cdf52df45459118ecddbbb806c80db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-e5cdf52df45459118ecddbbb806c80db]
+## 2. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-e5cdf52df45459118ecddbbb806c80db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5cdf52df45459118ecddbbb806c80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5cdf52df45459118ecddbbb806c80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e5cdf52df45459118ecddbbb806c80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5cdf52df45459118ecddbbb806c80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5cdf52df45459118ecddbbb806c80db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/137) revoked (10.4.2000) by [The Social Security (Overlapping Benefits) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/106)](https://www.legislation.gov.uk/nisr/2000/106), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/106/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2000/106/regulation/3)
+[^c-e5cdf52df45459118ecddbbb806c80db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/137) revoked (10.4.2000) by [The Social Security (Overlapping Benefits) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/106)](https://www.legislation.gov.uk/nisr/2000/106), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/106/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2000/106/regulation/3)

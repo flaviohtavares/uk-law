@@ -43,13 +43,13 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred upon it by sections 2(6)(b) and (7), 4(6) and (7)(b) to (i), 139(2) and 142(4) and (5) of, and paragraph 3 of Schedule 4 to, the Adoption and Children Act 2002[^f00001] and by sections 9(3), 57A(1) and (3) and 67(5) of the Adoption Act 1976[^f00002], and all other powers enabling it in that behalf, hereby makes the following Regulations: —
 
-## 1. Citation, commencement and application[^key-8ee91e77a1266d26a35bb5c695887a5a]
+## 1. Citation, commencement and application[^c-8ee91e77a1266d26a35bb5c695887a5a]
 
 (1) These Regulations may be cited as the Adoption Support Services (Local Authorities) (Wales) Regulations 2004 and will come into force on 1 October 2004.
 
 (2) These Regulations apply in relation to the provision of adoption support services by local authorities in Wales.
 
-## 2. Interpretation[^key-1bceb66b812d25a0a1633fb4075f17aa]
+## 2. Interpretation[^c-1bceb66b812d25a0a1633fb4075f17aa]
 
 (1) In these Regulations—
 
@@ -77,7 +77,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 
 (3) In regulations 8 to 15, “child” (“*plentyn*”) means an adoptive child, and references to a person’s child are to a child, other than the person’s stepchild, who has been or may be adopted by that person.
 
-## 3. Provision of adoption support services[^key-e7b2806021a544b5e9ecaed407f6caeb]
+## 3. Provision of adoption support services[^c-e7b2806021a544b5e9ecaed407f6caeb]
 
 (1) For the purposes of section 2(6) of the 2002 Act (definition of “adoption support services”)[^f00007], the following services are prescribed —
 
@@ -95,7 +95,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 
 (3) The arrangements referred to in paragraph (2) in respect of any service are required to be made whether or not the local authority have decided to provide the service to any person.
 
-## 4. Adoption support services adviser[^key-2c9102aec39af6c46b1be0458c31d8b3]
+## 4. Adoption support services adviser[^c-2c9102aec39af6c46b1be0458c31d8b3]
 
 (1) The local authority shall appoint a person (an “adoption support services adviser”) to carry out the function specified in paragraph (2).
 
@@ -111,7 +111,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 
 is sufficient for the purposes of the role of an adoption support services adviser.
 
-## 5. Requirement for assessment[^key-91a9e232eef1b708aedc01db7d79d51c]
+## 5. Requirement for assessment[^c-91a9e232eef1b708aedc01db7d79d51c]
 
 (1) A local authority must, at the request of an adult or child specified in the Schedule, carry out an assessment of his or her needs for adoption support services.
 
@@ -154,7 +154,7 @@ they must, before completing the review, carry out an assessment of the needs of
 - (a) has been adopted by his or her adoptive parents; and
 - (b) before the adoption order was made, was placed for adoption with the adoptive parents by the local authority.
 
-## 6. Procedure for assessment[^key-0e4c4314e5849ea30ced3351a78b4b0b]
+## 6. Procedure for assessment[^c-0e4c4314e5849ea30ced3351a78b4b0b]
 
 (1) The assessment of a person’s needs for adoption support services must be carried out by, or under the supervision of, a person who has suitable qualifications, experience and skills necessary for the purposes of the assessment.
 
@@ -199,7 +199,7 @@ and, subject to paragraphs (6) and (7), must give notice in writing in accordanc
 
 (7) Where the assessment relates to a person’s need for financial support, the notice to be given in relation to the local authority’s decision as to the provision of financial support must be given in addition to any notice which is to be given in accordance with regulations 12 and 13.
 
-## 7. Plan[^key-524b79f0f09392765b8791a73b05948a]
+## 7. Plan[^c-524b79f0f09392765b8791a73b05948a]
 
 (1) If the local authority decide to provide any adoption support services to a person, they must, except where the services are to be provided on a single occasion —
 
@@ -216,7 +216,7 @@ and, subject to paragraphs (6) and (7), must give notice in writing in accordanc
 
   that local health board or local education authority.
 
-## 8. Review of the provision of adoption support services[^key-97405d4ab131f1f13aa9e294f7044c79]
+## 8. Review of the provision of adoption support services[^c-97405d4ab131f1f13aa9e294f7044c79]
 
 (1) Where the local authority is providing, or has in the preceding twelve months provided, adoption support services for a person, it must review the provision of such services if any change in the person’s circumstances comes to their notice.
 
@@ -229,7 +229,7 @@ and, subject to paragraphs (6) and (7), must give notice in writing in accordanc
 
 (4) If the local authority decide to vary the provision of adoption support services for the person, or revise the plan, they must give notice in accordance with paragraph (5) of regulation 6; and paragraphs (6) and (7) of that regulation apply to this paragraph as they apply to paragraph (5) of that regulation.
 
-## 9. Responsibilities of local authorities for out of area placements[^key-46ba9bc8ec749c7afa51ce53450856cd]
+## 9. Responsibilities of local authorities for out of area placements[^c-46ba9bc8ec749c7afa51ce53450856cd]
 
 (1) Where a local authority (“the placing authority”) —
 
@@ -257,7 +257,7 @@ the placing authority shall continue to do so for up to three years from the dat
 
 (6) References in paragraph (3) to adoption support services include any allowance that is treated as financial support payable under these Regulations, by virtue of regulation 16(2).
 
-## 10. Circumstances in which financial support may be paid[^key-50ab5e0d2602e1480686ecd908f5793a]
+## 10. Circumstances in which financial support may be paid[^c-50ab5e0d2602e1480686ecd908f5793a]
 
 (1) Financial support may be paid only to persons of the following descriptions, and only where one or more of the circumstances specified in paragraph (2) exists —
 
@@ -286,7 +286,7 @@ the placing authority shall continue to do so for up to three years from the dat
 
 (4) Financial support will not be paid to meet any needs in so far as any benefit or allowance applicable to the adoptive parents as a result of their adoption of the child, is payable or available to them in respect of those needs.
 
-## 11. Amount of financial support[^key-7422634a778266d32df405162e18645f]
+## 11. Amount of financial support[^c-7422634a778266d32df405162e18645f]
 
 (1) Any financial support payable is to be of such amount as the local authority determines in accordance with paragraphs (2) to (5).
 
@@ -320,7 +320,7 @@ the placing authority shall continue to do so for up to three years from the dat
 - (a) at any time until the day (“the second anniversary”) occurring two years after the date of the adoption order in respect of the child; and
 - (b) at any time after the second anniversary, in a case where any of the circumstances specified in regulation 10 (2)(a), (b), (e), (f) or (g) existed on the date on which the local authority decides, in accordance with paragraph (4)(d), to pay financial support.
 
-## 12. Procedure in determining whether financial support should be paid[^key-bbfed505609504b7dd931aed9132389f]
+## 12. Procedure in determining whether financial support should be paid[^c-bbfed505609504b7dd931aed9132389f]
 
 (1) This regulation applies where —
 
@@ -343,7 +343,7 @@ the placing authority shall continue to do so for up to three years from the dat
 
 (5) Where the local authority are satisfied that a condition notified under paragraph (2)(d) has not been met by the date, if any, specified in the notice, they may require that the payment or an appropriate part of the payment be repaid.
 
-## 13. Information about financial support[^key-2392e8b1b8f5c4a97ff056081f7ce981]
+## 13. Information about financial support[^c-2392e8b1b8f5c4a97ff056081f7ce981]
 
 After a decision has been made to pay financial support, the local authority must notify the adoptive parents in writing of the following —
 
@@ -362,7 +362,7 @@ After a decision has been made to pay financial support, the local authority mus
 
   in respect of the financial support in the event of a change in circumstances of the adoptive parents or the child.
 
-## 14. Review, variation and termination of financial support[^key-5c773ae87859201596fa2dc53d731f7a]
+## 14. Review, variation and termination of financial support[^c-5c773ae87859201596fa2dc53d731f7a]
 
 (1) The local authority must review any financial support —
 
@@ -388,13 +388,13 @@ After a decision has been made to pay financial support, the local authority mus
 - (d) any period agreed between the local authority and the adoptive parents for the payment of the allowance expires; or
 - (e) the child dies.
 
-## 15. Confidentiality, preservation and access to records[^key-66ef437ba7d08f7409249fb9c8bb514c]
+## 15. Confidentiality, preservation and access to records[^c-66ef437ba7d08f7409249fb9c8bb514c]
 
 (1) Subject to regulation 15 of the 1983 Regulations, any information obtained or recommendations received for decisions made by virtue of these Regulations must be treated by the local authority as confidential.
 
 (2) The local authority must place a record of the details of financial support in respect of a child including details of any determination under regulation 11 (amount of financial support) and review under regulation 14 (review, variation and termination of allowance) on the case records they are required to set up under the 1983 Regulations.
 
-## 16. Amendment of the Adoption Allowance Regulations 1991[^key-c76601a839147324d1e2def0affd31cd]
+## 16. Amendment of the Adoption Allowance Regulations 1991[^c-c76601a839147324d1e2def0affd31cd]
 
 (1) In regulation 1(2) of the Adoption Allowance Regulations 1991[^f00010], in the definition of “adoption agency”, the words “or a local authority” are omitted.
 
@@ -408,7 +408,7 @@ The Presiding Officer of the National Assembly
 
 31st March 2004
 
-## SCHEDULE — SERVICES THAT MAY BE PROVIDED[^key-da2c5754d8d917fcf8fe24d542a7213e]
+## SCHEDULE — SERVICES THAT MAY BE PROVIDED[^c-da2c5754d8d917fcf8fe24d542a7213e]
 
 Regulation 3
 
@@ -438,9 +438,9 @@ These Regulations address the needs of adoptive families created when children l
 
 [^f00002]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36) as amended by the Children Act [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41) (paragraph 25 of Schedule 10) and the 2002 Act (paragraph 4 of Schedule 4). These powers are exercisable by the National Assembly for Wales by virtue of article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I.1999/672](https://www.legislation.gov.uk/uksi/1999/672).
 
-[^key-8ee91e77a1266d26a35bb5c695887a5a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-8ee91e77a1266d26a35bb5c695887a5a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-1bceb66b812d25a0a1633fb4075f17aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2004/1011/regulation/2) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-1bceb66b812d25a0a1633fb4075f17aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2004/1011/regulation/2) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1983/1964](https://www.legislation.gov.uk/uksi/1983/1964), amended by S.I. [1997/649](https://www.legislation.gov.uk/uksi/1997/649), S.I. [1983/2308](https://www.legislation.gov.uk/uksi/1983/2308) and S.I. [2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
 
@@ -450,42 +450,42 @@ These Regulations address the needs of adoptive families created when children l
 
 [^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-e7b2806021a544b5e9ecaed407f6caeb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2004/1011/regulation/3) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-e7b2806021a544b5e9ecaed407f6caeb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2004/1011/regulation/3) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
 [^f00007]: Footnote: By section 2(6) of the 2002 Act, the term “adoption support services” is defined as (a) counselling, advice and information, and (b) any other services prescribed by regulations in relation to adoption.
 
-[^key-2c9102aec39af6c46b1be0458c31d8b3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2004/1011/regulation/4) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-2c9102aec39af6c46b1be0458c31d8b3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2004/1011/regulation/4) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-91a9e232eef1b708aedc01db7d79d51c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2004/1011/regulation/5) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-91a9e232eef1b708aedc01db7d79d51c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2004/1011/regulation/5) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-0e4c4314e5849ea30ced3351a78b4b0b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2004/1011/regulation/6) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-0e4c4314e5849ea30ced3351a78b4b0b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2004/1011/regulation/6) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-524b79f0f09392765b8791a73b05948a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2004/1011/regulation/7) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-524b79f0f09392765b8791a73b05948a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2004/1011/regulation/7) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
 [^f00008]: Footnote: [c.56](https://www.legislation.gov.uk/ukpga/1996/56). *See* section 12 of the Act.
 
-[^key-97405d4ab131f1f13aa9e294f7044c79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2004/1011/regulation/8) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-97405d4ab131f1f13aa9e294f7044c79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2004/1011/regulation/8) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-46ba9bc8ec749c7afa51ce53450856cd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2004/1011/regulation/9) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-46ba9bc8ec749c7afa51ce53450856cd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2004/1011/regulation/9) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1991 No.2030](https://www.legislation.gov.uk/uksi/1991/2030).
 
-[^key-50ab5e0d2602e1480686ecd908f5793a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2004/1011/regulation/10) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-50ab5e0d2602e1480686ecd908f5793a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2004/1011/regulation/10) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-7422634a778266d32df405162e18645f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2004/1011/regulation/11) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-7422634a778266d32df405162e18645f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2004/1011/regulation/11) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-bbfed505609504b7dd931aed9132389f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2004/1011/regulation/12) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-bbfed505609504b7dd931aed9132389f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2004/1011/regulation/12) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-2392e8b1b8f5c4a97ff056081f7ce981]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2004/1011/regulation/13) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-2392e8b1b8f5c4a97ff056081f7ce981]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2004/1011/regulation/13) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-5c773ae87859201596fa2dc53d731f7a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2004/1011/regulation/14) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-5c773ae87859201596fa2dc53d731f7a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2004/1011/regulation/14) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-66ef437ba7d08f7409249fb9c8bb514c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2004/1011/regulation/15) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-66ef437ba7d08f7409249fb9c8bb514c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2004/1011/regulation/15) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
-[^key-c76601a839147324d1e2def0affd31cd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2004/1011/regulation/16) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-c76601a839147324d1e2def0affd31cd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2004/1011/regulation/16) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
 
 [^f00010]: Footnote: S.I. [1991/2030](https://www.legislation.gov.uk/uksi/1991/2030), amended by S.I. [1991/2130](https://www.legislation.gov.uk/uksi/1991/2130).
 
 [^f00011]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-da2c5754d8d917fcf8fe24d542a7213e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2004/1011/schedule) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)
+[^c-da2c5754d8d917fcf8fe24d542a7213e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2004/1011/schedule) in force at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2004/1011/regulation/1/1)

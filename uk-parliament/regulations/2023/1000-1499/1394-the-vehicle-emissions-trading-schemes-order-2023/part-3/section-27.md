@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Accounting for activity in the CRTS[^key-65c7ffd730c7c84dd024add8a0bfa217]
+## 27. Accounting for activity in the CRTS[^c-65c7ffd730c7c84dd024add8a0bfa217]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65c7ffd730c7c84dd024add8a0bfa217]: Commencement: Art. 27 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-65c7ffd730c7c84dd024add8a0bfa217]: Commencement: Art. 27 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

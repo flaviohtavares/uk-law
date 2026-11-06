@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Information contained in certificates[^c552127][^key-0e149a3959ab3fd04401de82573b533f][^key-654940da95a4a07c7137e073f962fca9]
+## 153. Information contained in certificates[^c552127][^c-0e149a3959ab3fd04401de82573b533f][^c-654940da95a4a07c7137e073f962fca9]
 
 *Extent: E+W+S*
 
@@ -71,10 +71,10 @@ and in the case of paragraph (e) may make such provision by modifying this Part.
 
 *Extent: S*
 
-(9 (Extent: E+W) (affected by repeal, see note))[^key-2b9d991c1539e241004382a7dbd5d99e] For the purposes of subsection (10), a claim made by or on behalf of an injured person is a qualifying claim if— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2b9d991c1539e241004382a7dbd5d99e]
+(9 (Extent: E+W) (affected by repeal, see note))[^c-2b9d991c1539e241004382a7dbd5d99e] For the purposes of subsection (10), a claim made by or on behalf of an injured person is a qualifying claim if— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2b9d991c1539e241004382a7dbd5d99e]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-2b9d991c1539e241004382a7dbd5d99e] it is settled by mediation of a prescribed description , and *(Extent: E+W)* *(affected by repeal, see note)*[^key-2b9d991c1539e241004382a7dbd5d99e]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-2b9d991c1539e241004382a7dbd5d99e] the damages payable under the settlement are to be reduced to reflect the injured person's share in the responsibility for the injury in question. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2b9d991c1539e241004382a7dbd5d99e]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-2b9d991c1539e241004382a7dbd5d99e] it is settled by mediation of a prescribed description , and *(Extent: E+W)* *(affected by repeal, see note)*[^c-2b9d991c1539e241004382a7dbd5d99e]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-2b9d991c1539e241004382a7dbd5d99e] the damages payable under the settlement are to be reduced to reflect the injured person's share in the responsibility for the injury in question. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2b9d991c1539e241004382a7dbd5d99e]
 
 (10) Regulations may make provision as to the circumstances in which the amount (or amounts) specified in a certificate relating to a qualifying claim is (or are) to be that (or those) which would be so specified apart from the regulations, reduced by the same proportion as the reduction of damages.
 
@@ -86,8 +86,8 @@ and in the case of paragraph (e) may make such provision by modifying this Part.
 
 [^c552127]: Commencement: S. 153 partly in force; s. 153 in force at Royal Assent for certain purposes, see s. 199(1)(4)
 
-[^key-0e149a3959ab3fd04401de82573b533f]: Commencement: S. 153 in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-0e149a3959ab3fd04401de82573b533f]: Commencement: S. 153 in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
 
-[^key-654940da95a4a07c7137e073f962fca9]: Commencement: S. 153 in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-654940da95a4a07c7137e073f962fca9]: Commencement: S. 153 in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
 
-[^key-2b9d991c1539e241004382a7dbd5d99e]: Textual amendment: S. 153(9) substituted (19.7.2006 for specified purposes, 29.1.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 73](https://www.legislation.gov.uk/ukpga/2006/28/section/73), [83(1)(e)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/1/e); S.I. 2006/3125, art. 4; S.S.I. 2007/9, art. 2(a)
+[^c-2b9d991c1539e241004382a7dbd5d99e]: Textual amendment: S. 153(9) substituted (19.7.2006 for specified purposes, 29.1.2007 in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 73](https://www.legislation.gov.uk/ukpga/2006/28/section/73), [83(1)(e)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/1/e); S.I. 2006/3125, art. 4; S.S.I. 2007/9, art. 2(a)

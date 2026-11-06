@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86A. Use of secondary coupling on trailers[^key-9ba8710aafdb3fd8f6707c96ded0e317]
+## 86A. Use of secondary coupling on trailers[^c-9ba8710aafdb3fd8f6707c96ded0e317]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ unless the requirements of paragraph (4) are met in relation to the motor vehicl
 
 ## Annotations
 
-[^key-9ba8710aafdb3fd8f6707c96ded0e317]: Textual amendment: [Reg. 86A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86A) inserted (1.4.1995) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1995 (S.I. 1995/551)](https://www.legislation.gov.uk/uksi/1995/551), [regs. 1](https://www.legislation.gov.uk/uksi/1995/551/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/551/regulation/8)
+[^c-9ba8710aafdb3fd8f6707c96ded0e317]: Textual amendment: [Reg. 86A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/86A) inserted (1.4.1995) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1995 (S.I. 1995/551)](https://www.legislation.gov.uk/uksi/1995/551), [regs. 1](https://www.legislation.gov.uk/uksi/1995/551/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/551/regulation/8)

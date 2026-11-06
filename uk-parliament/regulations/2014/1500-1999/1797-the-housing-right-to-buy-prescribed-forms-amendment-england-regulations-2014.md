@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Housing (Right to Buy) (Prescribed Forms) (Amendment) (England) Regulations 2014 (revoked)[^key-1b8a29f2c77ac6c511eeb95c240d9c17]
+The Housing (Right to Buy) (Prescribed Forms) (Amendment) (England) Regulations 2014 (revoked)[^c-1b8a29f2c77ac6c511eeb95c240d9c17]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 4th August 2014
 
-[^key-1b8a29f2c77ac6c511eeb95c240d9c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b8a29f2c77ac6c511eeb95c240d9c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-1b8a29f2c77ac6c511eeb95c240d9c17]
+## 1. Citation, commencement and application[^c-1b8a29f2c77ac6c511eeb95c240d9c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-1b8a29f2c77ac6c511eeb95c240d9c17]
+## 2. Amendment of Regulations[^c-1b8a29f2c77ac6c511eeb95c240d9c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b8a29f2c77ac6c511eeb95c240d9c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b8a29f2c77ac6c511eeb95c240d9c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Prescribed Form[^key-1b8a29f2c77ac6c511eeb95c240d9c17]
+## SCHEDULE — Prescribed Form[^c-1b8a29f2c77ac6c511eeb95c240d9c17]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b8a29f2c77ac6c511eeb95c240d9c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b8a29f2c77ac6c511eeb95c240d9c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b8a29f2c77ac6c511eeb95c240d9c17]: Textual amendment: Regulations revoked (17.8.2015) by [The Housing (Right to Buy) (Prescribed Forms) (Amendment) (England) Regulations 2015 (S.I. 2015/1542)](https://www.legislation.gov.uk/uksi/2015/1542), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1542/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2015/1542/regulation/3/1/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1542/regulation/3/2))
+[^c-1b8a29f2c77ac6c511eeb95c240d9c17]: Textual amendment: Regulations revoked (17.8.2015) by [The Housing (Right to Buy) (Prescribed Forms) (Amendment) (England) Regulations 2015 (S.I. 2015/1542)](https://www.legislation.gov.uk/uksi/2015/1542), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1542/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2015/1542/regulation/3/1/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1542/regulation/3/2))

@@ -129,7 +129,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 32 — Pre-employment protection of whistle-blowers](part-1/section-32.md)
 
-##### Children’s social care: use of agency workers[^key-007b3c072331ec5673a639591bb22477]
+##### Children’s social care: use of agency workers[^c-007b3c072331ec5673a639591bb22477]
 
 - [Section 32A — Use of agency workers for children’s social care work](part-1/section-32a.md)
 
@@ -232,4 +232,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-007b3c072331ec5673a639591bb22477]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/2017/16/section/32A) and cross-heading inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 21](https://www.legislation.gov.uk/ukpga/2026/21/section/21), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-007b3c072331ec5673a639591bb22477]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/2017/16/section/32A) and cross-heading inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 21](https://www.legislation.gov.uk/ukpga/2026/21/section/21), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

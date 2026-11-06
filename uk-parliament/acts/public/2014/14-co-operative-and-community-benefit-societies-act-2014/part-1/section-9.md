@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Appeal against refusal to register or cancellation or suspension of registration[^key-fd0546421cedb5afc19d9284b22830bf]
+## 9. Appeal against refusal to register or cancellation or suspension of registration[^c-fd0546421cedb5afc19d9284b22830bf]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd0546421cedb5afc19d9284b22830bf]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2014/14/section/9) applied (with modifications) by 1979 c. 34, s. 20(1D) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/10/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-fd0546421cedb5afc19d9284b22830bf]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2014/14/section/9) applied (with modifications) by 1979 c. 34, s. 20(1D) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/10/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

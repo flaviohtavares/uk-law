@@ -52,21 +52,21 @@ He has had regard in exercising his powers under section 33(3) of the Environmen
 
 (3) These Regulations extend to England and Wales only.
 
-## 2. Amendment of Schedule 3 to the Waste Management Licensing Regulations 1994[^key-a9aa0aa199b3508dd023d74125079782]
+## 2. Amendment of Schedule 3 to the Waste Management Licensing Regulations 1994[^c-a9aa0aa199b3508dd023d74125079782]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-a9aa0aa199b3508dd023d74125079782]
+## 3.[^c-a9aa0aa199b3508dd023d74125079782]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-a9aa0aa199b3508dd023d74125079782]
+## 4.[^c-a9aa0aa199b3508dd023d74125079782]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-a9aa0aa199b3508dd023d74125079782]
+## 5.[^c-a9aa0aa199b3508dd023d74125079782]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,6 +100,6 @@ A partial regulatory impact assessment of the effect that this instrument will h
 
 [^c1852119]: Marginal citation: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11).
 
-[^key-a9aa0aa199b3508dd023d74125079782]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2007/1156/regulation/2) omitted (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 53](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/53) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-a9aa0aa199b3508dd023d74125079782]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2007/1156/regulation/2) omitted (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 53](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/53) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
 
 [^c1852122]: Marginal citation: [S.I. 1969/1263](https://www.legislation.gov.uk/uksi/1969/1263) as amended by [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082).

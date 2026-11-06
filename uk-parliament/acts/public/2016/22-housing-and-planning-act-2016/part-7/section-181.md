@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Confirmation by inspector[^key-e3bf6140ceede48f199d5d5203d15305][^key-bafeaa0fa84dad49fa9a60b1c0720f61]
+## 181. Confirmation by inspector[^c-e3bf6140ceede48f199d5d5203d15305][^c-bafeaa0fa84dad49fa9a60b1c0720f61]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3bf6140ceede48f199d5d5203d15305]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2016/22/section/181) in force at 6.4.2018 for specified purposes by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/251/regulation/5))
+[^c-e3bf6140ceede48f199d5d5203d15305]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2016/22/section/181) in force at 6.4.2018 for specified purposes by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/251/regulation/5))
 
-[^key-bafeaa0fa84dad49fa9a60b1c0720f61]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2016/22/section/181) in force at 6.4.2019 in so far as not already in force by [S.I. 2019/427](https://www.legislation.gov.uk/uksi/2019/427), [reg. 3](https://www.legislation.gov.uk/uksi/2019/427/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/427/regulation/4))
+[^c-bafeaa0fa84dad49fa9a60b1c0720f61]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2016/22/section/181) in force at 6.4.2019 in so far as not already in force by [S.I. 2019/427](https://www.legislation.gov.uk/uksi/2019/427), [reg. 3](https://www.legislation.gov.uk/uksi/2019/427/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/427/regulation/4))

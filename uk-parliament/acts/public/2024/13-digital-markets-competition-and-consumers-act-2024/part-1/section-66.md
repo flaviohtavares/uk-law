@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Applications for review of decisions relating to mergers[^key-a2ed294963093e2e0e064fb8b325f44f][^key-a8d2bb0bd807c95ad26791216e5bd503]
+## 66. Applications for review of decisions relating to mergers[^c-a2ed294963093e2e0e064fb8b325f44f][^c-a8d2bb0bd807c95ad26791216e5bd503]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Section 120 of EA 2002 (review of decisions under Part 3 of EA 2002: mergers) ap
 
 ## Annotations
 
-[^key-a2ed294963093e2e0e064fb8b325f44f]: Commencement: S. 66 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a2ed294963093e2e0e064fb8b325f44f]: Commencement: S. 66 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a8d2bb0bd807c95ad26791216e5bd503]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2024/13/section/66) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-a8d2bb0bd807c95ad26791216e5bd503]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2024/13/section/66) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

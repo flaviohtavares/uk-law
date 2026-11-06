@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (Import Inspection Fees) (England) Regulations 2010 (revoked)[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+The Plant Health (Import Inspection Fees) (England) Regulations 2010 (revoked)[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 Made
 
@@ -46,47 +46,47 @@ Coming into force
 
 1st December 2010
 
-[^key-dca7879fc2e27fc44e27a5509ad6f8f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dca7879fc2e27fc44e27a5509ad6f8f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## 1. Title, application and commencement[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## 2. Interpretation[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consignments to which these Regulations apply[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## 3. Consignments to which these Regulations apply[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## 4. Fees[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## 5. Revocations[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dca7879fc2e27fc44e27a5509ad6f8f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dca7879fc2e27fc44e27a5509ad6f8f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Import Inspection Fees[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## SCHEDULE 1 — Import Inspection Fees[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 Regulation 4(1)(a)(i) and (2)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Import Inspection Fees (Reduced Rates)[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## SCHEDULE 2 — Import Inspection Fees (Reduced Rates)[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 Regulation 4(1)(a)(ii) and (2)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Import Inspection Fees for Documentary Checks and Identity Checks[^key-dca7879fc2e27fc44e27a5509ad6f8f7]
+## SCHEDULE 3 — Import Inspection Fees for Documentary Checks and Identity Checks[^c-dca7879fc2e27fc44e27a5509ad6f8f7]
 
 Regulation 4(1)(b)
 
@@ -94,7 +94,7 @@ Regulation 4(1)(b)
 
 **No longer in force.**
 
-[^key-dca7879fc2e27fc44e27a5509ad6f8f7]EXPLANATORY NOTE
+[^c-dca7879fc2e27fc44e27a5509ad6f8f7]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -110,4 +110,4 @@ It is foreseen that these Regulations will have an impact on the private or volu
 
 ## Annotations
 
-[^key-dca7879fc2e27fc44e27a5509ad6f8f7]: Textual amendment: Regulations revoked (6.4.2012) by [The Plant Health (Fees) (England) Regulations 2012 (S.I. 2012/745)](https://www.legislation.gov.uk/uksi/2012/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/745/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2012/745/regulation/7/e)
+[^c-dca7879fc2e27fc44e27a5509ad6f8f7]: Textual amendment: Regulations revoked (6.4.2012) by [The Plant Health (Fees) (England) Regulations 2012 (S.I. 2012/745)](https://www.legislation.gov.uk/uksi/2012/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/745/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2012/745/regulation/7/e)

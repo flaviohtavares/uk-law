@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Payment of benefits to or in respect of a dual capacity member[^key-b239289f45049103b1dc23733d419fa7]
+## 161. Payment of benefits to or in respect of a dual capacity member[^c-b239289f45049103b1dc23733d419fa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b239289f45049103b1dc23733d419fa7]: Commencement: [Reg. 161](https://www.legislation.gov.uk/uksi/2014/1964/regulation/161) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-b239289f45049103b1dc23733d419fa7]: Commencement: [Reg. 161](https://www.legislation.gov.uk/uksi/2014/1964/regulation/161) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Requests for information relating to victims[^key-a17d06d747586f5abc6c5e797acacaf6]
+## 44A. Requests for information relating to victims[^c-a17d06d747586f5abc6c5e797acacaf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a17d06d747586f5abc6c5e797acacaf6]: Textual amendment: Pt. 2 Ch. 3A inserted (12.1.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 28](https://www.legislation.gov.uk/ukpga/2024/21/section/28), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/a)
+[^c-a17d06d747586f5abc6c5e797acacaf6]: Textual amendment: Pt. 2 Ch. 3A inserted (12.1.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 28](https://www.legislation.gov.uk/ukpga/2024/21/section/28), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Transitional provisions: tips[^key-e79ab961ee7c29bfa130696631814ac0]
+## 72. Transitional provisions: tips[^c-e79ab961ee7c29bfa130696631814ac0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e79ab961ee7c29bfa130696631814ac0]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2014/3248/regulation/72) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-e79ab961ee7c29bfa130696631814ac0]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2014/3248/regulation/72) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

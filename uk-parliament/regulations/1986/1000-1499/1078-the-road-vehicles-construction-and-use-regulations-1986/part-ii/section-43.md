@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. First aid equipment[^key-9dd1ebc2cefccc0872e97b56104a7ad2]
+## 43. First aid equipment[^c-9dd1ebc2cefccc0872e97b56104a7ad2]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dd1ebc2cefccc0872e97b56104a7ad2]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1986/1078/regulation/43) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-9dd1ebc2cefccc0872e97b56104a7ad2]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1986/1078/regulation/43) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

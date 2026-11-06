@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. General defence of due diligence[^key-24711c83fcd95db071a1fe3700944c87]
+## 62. General defence of due diligence[^c-24711c83fcd95db071a1fe3700944c87]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ the accused has served on the prosecutor a notice giving such information identi
 
 ## Annotations
 
-[^key-24711c83fcd95db071a1fe3700944c87]: Commencement: S. 62 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-24711c83fcd95db071a1fe3700944c87]: Commencement: S. 62 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

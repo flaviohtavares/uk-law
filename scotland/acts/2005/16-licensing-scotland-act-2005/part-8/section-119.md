@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Delivery of alcohol from vehicles etc.[^key-375af0781d2bef4d707379bedf6024ae]
+## 119. Delivery of alcohol from vehicles etc.[^c-375af0781d2bef4d707379bedf6024ae]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-375af0781d2bef4d707379bedf6024ae]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2005/16/section/119) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-375af0781d2bef4d707379bedf6024ae]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2005/16/section/119) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

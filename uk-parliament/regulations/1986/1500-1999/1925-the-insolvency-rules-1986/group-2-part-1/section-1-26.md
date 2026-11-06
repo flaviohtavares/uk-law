@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.26. Supervisor's accounts and reports[^key-4edcf831992d6a9f42bde8e23b2d1188]
+## 1.26. Supervisor's accounts and reports[^c-4edcf831992d6a9f42bde8e23b2d1188]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ If in any period of 12 months he has made no payments and had no receipts, he sh
 
 ## Annotations
 
-[^key-4edcf831992d6a9f42bde8e23b2d1188]: Commencement: [Rule 1.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4edcf831992d6a9f42bde8e23b2d1188]: Commencement: [Rule 1.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00004]: Marginal citation: \[FORM 1.3\]

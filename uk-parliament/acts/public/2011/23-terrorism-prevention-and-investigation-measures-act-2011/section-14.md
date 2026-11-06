@@ -27,7 +27,7 @@ summary: ''
 
 (2) The replacement TPIM notice is to be in force for the period of time for which the overturned notice would have continued in force but for the quashing or revocation.
 
-(3)[^key-11d86aee3afacea78bb2706d77ac4c40] The replacement TPIM notice is to be treated as having been extended under section 5(2) on the same number of occasions (if any) as on which the overturned notice had been so extended (including any extension that was quashed).
+(3)[^c-11d86aee3afacea78bb2706d77ac4c40] The replacement TPIM notice is to be treated as having been extended under section 5(2) on the same number of occasions (if any) as on which the overturned notice had been so extended (including any extension that was quashed).
 
 (4) Terrorism-related activity is to be treated as new terrorism-related activity in relation to the imposition of measures by the replacement TPIM notice if it was new terrorism-related activity in relation to the imposition of measures by the overturned notice.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11d86aee3afacea78bb2706d77ac4c40]: Textual amendment: [S. 14(3)](https://www.legislation.gov.uk/ukpga/2011/23/section/14/3) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 35(6)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/6), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s) (with [s. 35(7)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/7)[(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/8))
+[^c-11d86aee3afacea78bb2706d77ac4c40]: Textual amendment: [S. 14(3)](https://www.legislation.gov.uk/ukpga/2011/23/section/14/3) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 35(6)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/6), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s) (with [s. 35(7)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/7)[(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/8))

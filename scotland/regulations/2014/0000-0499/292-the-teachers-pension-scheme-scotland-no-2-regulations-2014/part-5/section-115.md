@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Cessation of total incapacity pension[^key-cda7c28848feeedd299aa22b16b80344]
+## 115. Cessation of total incapacity pension[^c-cda7c28848feeedd299aa22b16b80344]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cda7c28848feeedd299aa22b16b80344]: Commencement: [Reg. 115](https://www.legislation.gov.uk/ssi/2014/292/regulation/115) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-cda7c28848feeedd299aa22b16b80344]: Commencement: [Reg. 115](https://www.legislation.gov.uk/ssi/2014/292/regulation/115) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (No. 2) (England) (Amendment) Regulations 2020 (revoked)[^key-0682346c2f2d475037165cf9a81eb77d]
+The Health Protection (Coronavirus, Restrictions) (No. 2) (England) (Amendment) Regulations 2020 (revoked)[^c-0682346c2f2d475037165cf9a81eb77d]
 
 Approved by both Houses of Parliament
 
@@ -46,24 +46,24 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-0682346c2f2d475037165cf9a81eb77d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0682346c2f2d475037165cf9a81eb77d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0682346c2f2d475037165cf9a81eb77d]
+## 1. Citation and commencement[^c-0682346c2f2d475037165cf9a81eb77d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020[^key-0682346c2f2d475037165cf9a81eb77d]
+## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020[^c-0682346c2f2d475037165cf9a81eb77d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0682346c2f2d475037165cf9a81eb77d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0682346c2f2d475037165cf9a81eb77d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0682346c2f2d475037165cf9a81eb77d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0682346c2f2d475037165cf9a81eb77d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0682346c2f2d475037165cf9a81eb77d]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103)](https://www.legislation.gov.uk/uksi/2020/1103), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1103/regulation/1/2), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1103/schedule/3/paragraph/6/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1103/regulation/9))
+[^c-0682346c2f2d475037165cf9a81eb77d]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103)](https://www.legislation.gov.uk/uksi/2020/1103), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1103/regulation/1/2), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1103/schedule/3/paragraph/6/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1103/regulation/9))

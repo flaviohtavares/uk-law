@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214A. Power to require providers of internet services to prevent or restrict access by children to internet services[^key-86d9a0aa3f52d39c75bc269a15a11dc0]
+## 214A. Power to require providers of internet services to prevent or restrict access by children to internet services[^c-86d9a0aa3f52d39c75bc269a15a11dc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86d9a0aa3f52d39c75bc269a15a11dc0]: Textual amendment: S. 214A and cross-heading inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/70/2), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b) (with [s. 71](https://www.legislation.gov.uk/ukpga/2026/21/section/71))
+[^c-86d9a0aa3f52d39c75bc269a15a11dc0]: Textual amendment: S. 214A and cross-heading inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/70/2), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b) (with [s. 71](https://www.legislation.gov.uk/ukpga/2026/21/section/71))

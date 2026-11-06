@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Resolutions and minutes[^key-237ae9da98ebfae060d35836027650cb]
+## 30. Resolutions and minutes[^c-237ae9da98ebfae060d35836027650cb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-237ae9da98ebfae060d35836027650cb]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2007/3141/rule/30) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-237ae9da98ebfae060d35836027650cb]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2007/3141/rule/30) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

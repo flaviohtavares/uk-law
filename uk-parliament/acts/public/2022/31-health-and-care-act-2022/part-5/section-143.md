@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Virginity testing offences in Scotland: penalties and supplementary[^key-a9ecb001621f08ce0cb9efb426422f21][^key-5e8f6d084ed6f911b3b7e87e187ba6ac]
+## 143. Virginity testing offences in Scotland: penalties and supplementary[^c-a9ecb001621f08ce0cb9efb426422f21][^c-5e8f6d084ed6f911b3b7e87e187ba6ac]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ as if the offence had been committed in that district.
 
 ## Annotations
 
-[^key-a9ecb001621f08ce0cb9efb426422f21]: Commencement: S. 143 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-a9ecb001621f08ce0cb9efb426422f21]: Commencement: S. 143 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-5e8f6d084ed6f911b3b7e87e187ba6ac]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2022/31/section/143) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5e8f6d084ed6f911b3b7e87e187ba6ac]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2022/31/section/143) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

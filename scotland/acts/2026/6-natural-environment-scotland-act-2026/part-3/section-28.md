@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Giving notices electronically[^key-b28dd770e1200ee97d3c4e32bf7d1f74][^key-12b1233a23e21285ee1b4a00b1696d6b]
+## 28. Giving notices electronically[^c-b28dd770e1200ee97d3c4e32bf7d1f74][^c-12b1233a23e21285ee1b4a00b1696d6b]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b28dd770e1200ee97d3c4e32bf7d1f74]: Commencement: S. 28 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-b28dd770e1200ee97d3c4e32bf7d1f74]: Commencement: S. 28 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-12b1233a23e21285ee1b4a00b1696d6b]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2026/6/section/28) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(q)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/q)
+[^c-12b1233a23e21285ee1b4a00b1696d6b]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2026/6/section/28) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(q)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/q)

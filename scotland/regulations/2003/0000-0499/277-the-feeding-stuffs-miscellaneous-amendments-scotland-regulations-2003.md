@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Miscellaneous Amendments) (Scotland) Regulations 2003 (revoked)[^key-c18722c7188fa26af7b74f7ef9316939]
+The Feeding Stuffs (Miscellaneous Amendments) (Scotland) Regulations 2003 (revoked)[^c-c18722c7188fa26af7b74f7ef9316939]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 26th June 2003
 
-[^key-c18722c7188fa26af7b74f7ef9316939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18722c7188fa26af7b74f7ef9316939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c18722c7188fa26af7b74f7ef9316939]
+## 1. Citation, commencement and extent[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,19 +57,19 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 3.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 4.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 5.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 6.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,62 +77,62 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-c18722c7188fa26af7b74f7ef9316939]
+## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 9.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 10.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 11.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 12.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 13.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 14.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 15.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-c18722c7188fa26af7b74f7ef9316939]
+## 16. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 17.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 18.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-c18722c7188fa26af7b74f7ef9316939]
+## 19.[^c-c18722c7188fa26af7b74f7ef9316939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c18722c7188fa26af7b74f7ef9316939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18722c7188fa26af7b74f7ef9316939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c18722c7188fa26af7b74f7ef9316939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18722c7188fa26af7b74f7ef9316939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c18722c7188fa26af7b74f7ef9316939]: Textual amendment: Regulations revoked in part (1.1.2006) by [The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 (S.S.I. 2005/608)](https://www.legislation.gov.uk/ssi/2005/608), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/1/1), [37](https://www.legislation.gov.uk/ssi/2005/608/regulation/37), [sch. 3](https://www.legislation.gov.uk/ssi/2005/608/schedule/3)
+[^c-c18722c7188fa26af7b74f7ef9316939]: Textual amendment: Regulations revoked in part (1.1.2006) by [The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 (S.S.I. 2005/608)](https://www.legislation.gov.uk/ssi/2005/608), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/1/1), [37](https://www.legislation.gov.uk/ssi/2005/608/regulation/37), [sch. 3](https://www.legislation.gov.uk/ssi/2005/608/schedule/3)
 
     Regs. 2-7 revoked (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [24(d)](https://www.legislation.gov.uk/ssi/2010/354/regulation/24/d)

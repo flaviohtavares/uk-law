@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13 and 19
 
-### PART 1 — TRUNK ROADS[^key-b312cd4eea26dcb51298dcc20d3d2b24]
+### PART 1 — TRUNK ROADS[^c-b312cd4eea26dcb51298dcc20d3d2b24]
 
 <table>
 <thead>
@@ -37,7 +37,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 2 — CLASSIFIED B ROADS[^key-7bf336f88cf69e60517b010a506b7701]
+### PART 2 — CLASSIFIED B ROADS[^c-7bf336f88cf69e60517b010a506b7701]
 
 <table>
 <thead>
@@ -49,7 +49,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 3 — CLASSIFIED C ROADS[^key-683ca9328c340aec50134e583d5aad90]
+### PART 3 — CLASSIFIED C ROADS[^c-683ca9328c340aec50134e583d5aad90]
 
 <table>
 <thead>
@@ -65,7 +65,7 @@ Articles 13 and 19
 </tbody>
 </table>
 
-### PART 4 — SPEED LIMITS[^key-56236b001369c3ffa14a996c1f5c1cdb]
+### PART 4 — SPEED LIMITS[^c-56236b001369c3ffa14a996c1f5c1cdb]
 
 Note: where speed limits are indicated on the plans relating to this Part (the traffic regulation plans) but are not referenced in this Schedule they indicate that national speed limits apply in accordance with either:
 
@@ -99,7 +99,7 @@ and are not subject to this Order. For details of the scheme lighting design, re
 </tbody>
 </table>
 
-### PART 5 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^key-90b632024419f1423457927899d8a0e6]
+### PART 5 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^c-90b632024419f1423457927899d8a0e6]
 
 <table>
 <thead>
@@ -115,7 +115,7 @@ and are not subject to this Order. For details of the scheme lighting design, re
 </tbody>
 </table>
 
-### PART 6 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-0bf2a50645d3d38ccdf85fcfe1c1de99]
+### PART 6 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-0bf2a50645d3d38ccdf85fcfe1c1de99]
 
 <table>
 <thead>
@@ -132,13 +132,13 @@ and are not subject to this Order. For details of the scheme lighting design, re
 
 ## Annotations
 
-[^key-b312cd4eea26dcb51298dcc20d3d2b24]: Commencement: Sch. 3 Pt. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-b312cd4eea26dcb51298dcc20d3d2b24]: Commencement: Sch. 3 Pt. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-7bf336f88cf69e60517b010a506b7701]: Commencement: Sch. 3 Pt. 2 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-7bf336f88cf69e60517b010a506b7701]: Commencement: Sch. 3 Pt. 2 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-683ca9328c340aec50134e583d5aad90]: Commencement: Sch. 3 Pt. 3 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-683ca9328c340aec50134e583d5aad90]: Commencement: Sch. 3 Pt. 3 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-56236b001369c3ffa14a996c1f5c1cdb]: Commencement: Sch. 3 Pt. 4 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-56236b001369c3ffa14a996c1f5c1cdb]: Commencement: Sch. 3 Pt. 4 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00095]: Footnote: There are amendments to section 86 which are not relevant to this Order.
 
@@ -148,6 +148,6 @@ and are not subject to this Order. For details of the scheme lighting design, re
 
 [^f00098]: Footnote: There are amendments to sections 81 and 82 which are not relevant to this Order.
 
-[^key-90b632024419f1423457927899d8a0e6]: Commencement: Sch. 3 Pt. 5 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-90b632024419f1423457927899d8a0e6]: Commencement: Sch. 3 Pt. 5 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-0bf2a50645d3d38ccdf85fcfe1c1de99]: Commencement: Sch. 3 Pt. 6 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-0bf2a50645d3d38ccdf85fcfe1c1de99]: Commencement: Sch. 3 Pt. 6 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

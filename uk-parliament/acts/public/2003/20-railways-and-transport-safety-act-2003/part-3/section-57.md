@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Annual report by Authority[^key-9971d45b6c9651ca91c9ac2afc43cdd8]
+## 57. Annual report by Authority[^c-9971d45b6c9651ca91c9ac2afc43cdd8]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9971d45b6c9651ca91c9ac2afc43cdd8]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2003/20/section/57) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(nn)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/nn)
+[^c-9971d45b6c9651ca91c9ac2afc43cdd8]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2003/20/section/57) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(nn)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/nn)

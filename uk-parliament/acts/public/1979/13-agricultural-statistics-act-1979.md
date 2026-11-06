@@ -52,13 +52,13 @@ An Act to consolidate certain enactments relating to agricultural statistics.
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c983164]
 
-## 2. Information as to dealings in land used for agriculture.[^key-bd910674b564bca7a80e366e35683d72]
+## 2. Information as to dealings in land used for agriculture.[^c-bd910674b564bca7a80e366e35683d72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Restriction on disclosure of information.
 
-(1) Subject to subsection (2) below, no information relating to any particular land or business which has been obtained under section 1 [^key-f2ab05620b0cf503f94eadb089991a79]... above shall be published or otherwise disclosed without the previous consent in writing of the person by whom the information was furnished and every other person who is an owner or the occupier of the land and whose interests may in the opinion of the appropriate Minister be affected by the disclosure.
+(1) Subject to subsection (2) below, no information relating to any particular land or business which has been obtained under section 1 [^c-f2ab05620b0cf503f94eadb089991a79]... above shall be published or otherwise disclosed without the previous consent in writing of the person by whom the information was furnished and every other person who is an owner or the occupier of the land and whose interests may in the opinion of the appropriate Minister be affected by the disclosure.
 
 (2) Nothing in subsection (1) above shall restrict the disclosure of information—
 
@@ -66,20 +66,20 @@ An Act to consolidate certain enactments relating to agricultural statistics.
 - (b) to an authority having power under any enactment to give permission for the development of land, for the purpose of assisting that authority in the preparation of proposals relating to such development or in considering whether or not to give such permission;
 - (c) if the disclosure is confined to situation, extent, number and kind of livestock, character of land, and name and address of owner and occupier, to any person to whom the appropriate Minister considers that the disclosure is required in the public interest;
 - (d) to any person for the purposes of any criminal proceedings under section 4 below or for the purposes of any report of such proceeedings;
-- (e)[^key-9fd4ef0f91d480d46ea2105aeb332b1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f) to an institution of the European Union[^key-f382c6258f6789fdee41e5f978748a6f] under section 12 of the [^c983187]European Communities Act 1972,
+- (e)[^c-9fd4ef0f91d480d46ea2105aeb332b1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) to an institution of the European Union[^c-f382c6258f6789fdee41e5f978748a6f] under section 12 of the [^c983187]European Communities Act 1972,
 - (g)[^c983189] to the Food Standards Agency for purposes connected with the carrying out of any of its functions,
-- (h)[^key-bdabb5ab57655287ddf2c4df2c51cc99] to the Statistics Board for purposes connected with the carrying out of any of its functions, or by the Board to an approved researcher (within the meaning of section 39(4)(i) of the Statistics and Registration Service Act 2007),
+- (h)[^c-bdabb5ab57655287ddf2c4df2c51cc99] to the Statistics Board for purposes connected with the carrying out of any of its functions, or by the Board to an approved researcher (within the meaning of section 39(4)(i) of the Statistics and Registration Service Act 2007),
 
 or the use of information in any manner which the appropriate Minister thinks necessary or expedient in connection with the maintenance of the supply of food in the United Kingdom.
 
 ## 4. Penalties.
 
-(1) Any person who without reasonable excuse fails to furnish information in compliance with a requirement under section 1 [^key-4380538f3a1ceee77a804b8a31d9aea6]... above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c983193].
+(1) Any person who without reasonable excuse fails to furnish information in compliance with a requirement under section 1 [^c-4380538f3a1ceee77a804b8a31d9aea6]... above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c983193].
 
 (2) If any person—
 
-- (a) in purported compliance with a requirement imposed under section 1 [^key-dbb2dba343b48b92199ccef1ae45c4ae]... above knowingly or recklessly furnishes any information which is false in any material particular, or
+- (a) in purported compliance with a requirement imposed under section 1 [^c-dbb2dba343b48b92199ccef1ae45c4ae]... above knowingly or recklessly furnishes any information which is false in any material particular, or
 - (b) publishes or otherwise discloses any information in contravention of section 3 above,
 
 he shall be liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding the prescribed sum or to both, or on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine or to both.
@@ -94,7 +94,7 @@ he shall be liable on summary conviction to imprisonment for a term not exceedin
 
 (4) Where any such notice is to be served on a person as being the person having any interest in land, and it is not practicable after reasonable inquiry to ascertain his name or address, the notice may be served by addressing it to him by the description of the person having that interest in the land (naming it), and delivering the notice to some responsible person on the land or by affixing it, or a copy of it, to some conspicuous object on the land.
 
-(5) Where any such notice is to be served on any person as being the owner of the land and the land belongs to an ecclesiastical benefice *(Extent: E)* *(affected by repeal, see note)*[^key-fadd3b3428ab7cadf1c4e4652e9c5694] is vested in the incumbent of a benefice of the Church of England *(Extent: E)* a copy shall be served on the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-fadd3b3428ab7cadf1c4e4652e9c5694] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* .
+(5) Where any such notice is to be served on any person as being the owner of the land and the land belongs to an ecclesiastical benefice *(Extent: E)* *(affected by repeal, see note)*[^c-fadd3b3428ab7cadf1c4e4652e9c5694] is vested in the incumbent of a benefice of the Church of England *(Extent: E)* a copy shall be served on the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-fadd3b3428ab7cadf1c4e4652e9c5694] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* .
 
 (6) Without prejudice to subsections (1) to (5) above, any notice under this Act to be served on an occupier shall be deemed to be duly served if it is addressed to him by the description of “the occupier” of the land in question and sent by post to, or delivered to some person on, the land.
 
@@ -127,7 +127,7 @@ he shall be liable on summary conviction to imprisonment for a term not exceedin
 
 (1) This Act may be cited as the Agricultural Statistics Act 1979.
 
-(2)[^key-7bed06c0042899513e14918e4b304265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7bed06c0042899513e14918e4b304265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act does not extend to Scotland or Northern Ireland.
 
@@ -145,9 +145,9 @@ Section 7.
 
 **3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c983228]
 
-### ...[^key-0eee9e38373c95009a66f694b020eae0]
+### ...[^c-0eee9e38373c95009a66f694b020eae0]
 
-**4.**[^key-0eee9e38373c95009a66f694b020eae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0eee9e38373c95009a66f694b020eae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Enactments Repealed[^c983236]
 
@@ -169,31 +169,31 @@ Section 7.
 
 [^c983164]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1979/13/section/1/5) repealed by [Agriculture (Amendment) Act 1984 (c. 20, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1984/20), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1984/20/section/2/2)
 
-[^key-bd910674b564bca7a80e366e35683d72]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1979/13/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-bd910674b564bca7a80e366e35683d72]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1979/13/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-f2ab05620b0cf503f94eadb089991a79]: Textual amendment: Words in s. 3(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-f2ab05620b0cf503f94eadb089991a79]: Textual amendment: Words in s. 3(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c983181]: Textual amendment: Words in S. 3(2)(a) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2), [Pt. I para. 61](https://www.legislation.gov.uk/uksi/1999/1820/part/I/paragraph/61)
 
-[^key-9fd4ef0f91d480d46ea2105aeb332b1e]: Textual amendment: S. 3(2)(e) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-9fd4ef0f91d480d46ea2105aeb332b1e]: Textual amendment: S. 3(2)(e) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-f382c6258f6789fdee41e5f978748a6f]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-f382c6258f6789fdee41e5f978748a6f]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c983187]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
 [^c983189]: Textual amendment: S. 3(2)(g) inserted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1/2), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/5) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-bdabb5ab57655287ddf2c4df2c51cc99]: Textual amendment: S. 3(2)(h) inserted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/4); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-bdabb5ab57655287ddf2c4df2c51cc99]: Textual amendment: S. 3(2)(h) inserted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/18/schedule/2/paragraph/4); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-4380538f3a1ceee77a804b8a31d9aea6]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1979/13/section/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-4380538f3a1ceee77a804b8a31d9aea6]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1979/13/section/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c983193]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-dbb2dba343b48b92199ccef1ae45c4ae]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1979/13/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-dbb2dba343b48b92199ccef1ae45c4ae]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1979/13/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c983195]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-fadd3b3428ab7cadf1c4e4652e9c5694]: Textual amendment: Words in s. 5(5) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/19); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-fadd3b3428ab7cadf1c4e4652e9c5694]: Textual amendment: Words in s. 5(5) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/19); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c983204]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1979/13/section/6/1) substituted (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(1)](https://www.legislation.gov.uk/uksi/2002/794/article/5/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/20)
 
@@ -203,7 +203,7 @@ Section 7.
 
 [^c983210]: Modification: The text of s. 7(1)(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-7bed06c0042899513e14918e4b304265]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1979/13/section/8/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-7bed06c0042899513e14918e4b304265]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1979/13/section/8/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c983218]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
@@ -215,6 +215,6 @@ Section 7.
 
 [^c983228]: Textual amendment: Sch. 1 para. 3 repealed by [Agricultural Training Board Act 1982 (c. 9, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1982/9), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1982/9/section/11/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/9/schedule/2)
 
-[^key-0eee9e38373c95009a66f694b020eae0]: Textual amendment: Sch. 1 para. 4 and cross-heading repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-0eee9e38373c95009a66f694b020eae0]: Textual amendment: Sch. 1 para. 4 and cross-heading repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
 [^c983236]: Modification: The text of Sch. 1 paras. 1, 2, 4 and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

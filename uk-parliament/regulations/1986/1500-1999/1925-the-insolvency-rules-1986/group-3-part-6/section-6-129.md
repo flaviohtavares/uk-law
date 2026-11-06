@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.129. Meeting of creditors to remove trustee[^key-47728eadc8f5f650290e83e9ae931f2c]
+## 6.129. Meeting of creditors to remove trustee[^c-47728eadc8f5f650290e83e9ae931f2c]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ the chairman shall, within 3 days, send to the official receiver a copy of the r
 
 ## Annotations
 
-[^key-47728eadc8f5f650290e83e9ae931f2c]: Commencement: [Rule 6.129](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.129) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-47728eadc8f5f650290e83e9ae931f2c]: Commencement: [Rule 6.129](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.129) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00168]: Marginal citation: \[FORM 6.35\]
 

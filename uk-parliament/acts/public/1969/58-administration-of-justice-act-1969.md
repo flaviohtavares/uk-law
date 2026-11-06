@@ -53,9 +53,9 @@ An Act to increase the jurisdiction of county courts and to amend the County Cou
 
 (1) Where on the application of any of the parties to any proceedings to which this section applies the judge is satisfied—
 
-- (a) that the relevant conditions are fulfilled in relation to his decision in those proceedings or that the conditions in subsection (3A) (“the alternative conditions”) are satisfied in relation to those proceedings[^key-77fcdf37b5f39ace5fd75605ad97931f], and
-- (b) that a sufficient case for an appeal to the Supreme Court[^c20833521] under this Part of this Act has been made out to justify an application for leave to bring such an appeal, [^key-3ab8cf1f7905156941696082f6a76933]...
-- (c)[^key-3ab8cf1f7905156941696082f6a76933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) that the relevant conditions are fulfilled in relation to his decision in those proceedings or that the conditions in subsection (3A) (“the alternative conditions”) are satisfied in relation to those proceedings[^c-77fcdf37b5f39ace5fd75605ad97931f], and
+- (b) that a sufficient case for an appeal to the Supreme Court[^c20833521] under this Part of this Act has been made out to justify an application for leave to bring such an appeal, [^c-3ab8cf1f7905156941696082f6a76933]...
+- (c)[^c-3ab8cf1f7905156941696082f6a76933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the judge, subject to the following provisions of this Part of this Act, may grant a certificate to that effect.
 
@@ -70,7 +70,7 @@ the judge, subject to the following provisions of this Part of this Act, may gra
 - (a) relates wholly or mainly to the construction of an enactment or of a statutory instrument, and has been fully argued in the proceedings and fully considered in the judgment of the judge in the proceedings, or
 - (b) is one in respect of which the judge is bound by a decision of the Court of Appeal or of the Supreme Court in previous proceedings, and was fully considered in the judgments given by the Court of Appeal or the Supreme Court (as the case may be) in those previous proceedings.
 
-(3A)[^key-1a03e399d882b9e9db8301885a7cfe47] The alternative conditions, in relation to a decision of the judge in any proceedings, are that a point of law of general public importance is involved in the decision and that—
+(3A)[^c-1a03e399d882b9e9db8301885a7cfe47] The alternative conditions, in relation to a decision of the judge in any proceedings, are that a point of law of general public importance is involved in the decision and that—
 
 - (a) the proceedings entail a decision relating to a matter of national importance or consideration of such a matter,
 - (b) the result of the proceedings is so significant (whether considered on its own or together with other proceedings or likely proceedings) that, in the opinion of the judge, a hearing by the Supreme Court is justified, or
@@ -133,7 +133,7 @@ Provided that the judge may in any particular case entertain any such applicatio
 - for the references in section 12(2) to section 3 of the Judicature Act 1925 there shall be substituted a reference to sections 6 and 7 of the[^c6919691] [^c6919701]Judicature (Northern Ireland) Act 1978; and
 - for the reference in section 15(2)(*a*) to the [^c6919711]Matrimonial Causes Act 1965 there shall be substituted a reference to the [^c6919721]Matrimonial Causes Act (Northern Ireland) 1939 or any enactment re-enacting that Act (whether with or without modifications).
 
-(1A)[^key-87d68dde84984f8d31c090916ef3459c] In the application of this Part of this Act to Northern Ireland, section 12 has effect as if—
+(1A)[^c-87d68dde84984f8d31c090916ef3459c] In the application of this Part of this Act to Northern Ireland, section 12 has effect as if—
 
 - (a) in subsection (1)(a) there were omitted “or that the conditions in subsection (3A) (“the alternative conditions”) are satisfied in relation to those proceedings”;
 - (b) after subsection (1)(b) there were inserted
@@ -387,11 +387,11 @@ Section 35(1).
 
 [^c20833441]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1969/58/part/2) heading substituted (1.10.2009) by virtue of [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/20/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-77fcdf37b5f39ace5fd75605ad97931f]: Textual amendment: Words in s. 12(1)(a) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/2/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
+[^c-77fcdf37b5f39ace5fd75605ad97931f]: Textual amendment: Words in s. 12(1)(a) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/2/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
 
 [^c20833521]: Textual amendment: Words in s. 12 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 20(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/20/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-3ab8cf1f7905156941696082f6a76933]: Textual amendment: S. 12(1)(c) and word omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/2/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
+[^c-3ab8cf1f7905156941696082f6a76933]: Textual amendment: S. 12(1)(c) and word omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/2/b), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
 
 [^c6919591]: Textual amendment: Words repealed (E.W.) by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
 
@@ -399,7 +399,7 @@ Section 35(1).
 
 [^c6919611]: Textual amendment: S. 12(2)(*b*) repealed (E.W) by [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 11 Pt.IV](https://www.legislation.gov.uk/ukpga/1971/23/schedule/11/part/IV) and (N.I.) with saving by [Judicature (Northern Ireland) Act 1978 (c. 23, SIF 38)](https://www.legislation.gov.uk/ukpga/1978/23), [s. 122(1)(2)](https://www.legislation.gov.uk/ukpga/1978/23/section/122/1/2), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/1978/23/schedule/6/paragraph/13), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1978/23/schedule/7/part/I)
 
-[^key-1a03e399d882b9e9db8301885a7cfe47]: Textual amendment: S. 12(3A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
+[^c-1a03e399d882b9e9db8301885a7cfe47]: Textual amendment: S. 12(3A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
 
 [^c6919621]: Textual amendment: Words repealed (E.W) by [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 11 Pt.IV](https://www.legislation.gov.uk/ukpga/1971/23/schedule/11/part/IV) and (N.I.) with saving by [Judicature (Northern Ireland) Act 1978 (c. 23, SIF 38)](https://www.legislation.gov.uk/ukpga/1978/23), [s. 122(1)(2)](https://www.legislation.gov.uk/ukpga/1978/23/section/122/1/2), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/1978/23/schedule/6/paragraph/13), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1978/23/schedule/7/part/I)
 
@@ -429,7 +429,7 @@ Section 35(1).
 
 [^c6919721]: Marginal citation: [1939 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1939/13).
 
-[^key-87d68dde84984f8d31c090916ef3459c]: Textual amendment: [S. 16(1A)](https://www.legislation.gov.uk/ukpga/1969/58/section/16/1A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
+[^c-87d68dde84984f8d31c090916ef3459c]: Textual amendment: [S. 16(1A)](https://www.legislation.gov.uk/ukpga/1969/58/section/16/1A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/63/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
 
 [^c6919731]: Textual amendment: S. 16(2) repealed by [Judicature (Northern Ireland) Act 1978 (c. 23)](https://www.legislation.gov.uk/ukpga/1978/23), [s. 123(2)](https://www.legislation.gov.uk/ukpga/1978/23/section/123/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1978/23/schedule/7)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Exceptions for positive action[^key-868625a63b08b9fa5cd566eb108e0ee8]
+## 31. Exceptions for positive action[^c-868625a63b08b9fa5cd566eb108e0ee8]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ where it reasonably appears to the organisation that the act prevents or compens
 
 ## Annotations
 
-[^key-868625a63b08b9fa5cd566eb108e0ee8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/261/regulation/31) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-868625a63b08b9fa5cd566eb108e0ee8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/261/regulation/31) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

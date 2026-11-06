@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Approval of management structure and senior appointments in initial period.[^key-2d89005ee3dbd18a7db64e6b41534601]
+## 169. Approval of management structure and senior appointments in initial period.[^c-2d89005ee3dbd18a7db64e6b41534601]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d89005ee3dbd18a7db64e6b41534601]: Textual amendment: [S. 169](https://www.legislation.gov.uk/ukpga/1988/40/section/169) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-2d89005ee3dbd18a7db64e6b41534601]: Textual amendment: [S. 169](https://www.legislation.gov.uk/ukpga/1988/40/section/169) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Third parties capable of giving notification[^key-0bc6515b98b30134deba54537339b44b][^key-14509ee37dab6ed4ba31ad7289dabef9]
+## 37. Third parties capable of giving notification[^c-0bc6515b98b30134deba54537339b44b][^c-14509ee37dab6ed4ba31ad7289dabef9]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc6515b98b30134deba54537339b44b]: Commencement: S. 37 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-0bc6515b98b30134deba54537339b44b]: Commencement: S. 37 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-14509ee37dab6ed4ba31ad7289dabef9]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2024/5/section/37) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(l)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/l)
+[^c-14509ee37dab6ed4ba31ad7289dabef9]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2024/5/section/37) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(l)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/l)

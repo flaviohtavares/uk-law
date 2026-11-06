@@ -48,11 +48,11 @@ Coming into force
 
 1st August 2006
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 306(1)(a) and (b) of the Finance Act 2004[^f00001].[^key-c09d4efce801025e56d291000ee39e1a]
+The Treasury make the following Regulations in exercise of the powers conferred by section 306(1)(a) and (b) of the Finance Act 2004[^f00001].[^c-c09d4efce801025e56d291000ee39e1a]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and effect[^key-0ac72808f07d0de2fb299bb374bde804]
+### 1. Citation, commencement and effect[^c-0ac72808f07d0de2fb299bb374bde804]
 
 (1) These Regulations may be cited as the Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2006, and shall come into force on 1st August 2006.
 
@@ -64,12 +64,12 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (3) In paragraph (2)(a) “the relevant date” has the meaning given by section 308(2) of FA 2004.
 
-### 2. Interpretation : general[^key-1cf2185821d4e6a17a0b7d89d312e7bd]
+### 2. Interpretation : general[^c-1cf2185821d4e6a17a0b7d89d312e7bd]
 
 (1) This paragraph gives the meaning of the abbreviated references to Acts used in these Regulations—
 
 - “CAA 2001” means the Capital Allowances Act 2001[^f00002];
-- “CTA 2009” means the Corporation Tax Act 2009;[^key-955276b053d94b0880f547d21ed9bd47]
+- “CTA 2009” means the Corporation Tax Act 2009;[^c-955276b053d94b0880f547d21ed9bd47]
 - “CTA 2010” means the Corporation Tax Act 2010;
 - “FA 2004” means the Finance Act 2004;
 - “ICTA” means the Income and Corporation Taxes Act 1988[^f00003];
@@ -81,21 +81,21 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 (2) In these Regulations—
 
 - “business” has the meaning given by regulation 3;
-- “generally accepted accounting practice” has the meaning given by section 1127 of CTA 2010;[^key-0c094024dd2b5177a6a17b4557211f78]
-- “HMRC” means Her Majesty’s Revenue and Customs[^key-9f3814b6134edeb83c68dc7f8384c994]
+- “generally accepted accounting practice” has the meaning given by section 1127 of CTA 2010;[^c-0c094024dd2b5177a6a17b4557211f78]
+- “HMRC” means Her Majesty’s Revenue and Customs[^c-9f3814b6134edeb83c68dc7f8384c994]
 - “the Information Regulations” means the Tax Avoidance Schemes (Information) Regulations 2004[^f00007];
-- “the material date” means whichever of the following is applicable—[^key-0cd76f1423a53f16c0d3c8133accde73]
+- “the material date” means whichever of the following is applicable—[^c-0cd76f1423a53f16c0d3c8133accde73]
   - (a) for a proposal notifiable under section 308(1) of FA 2004, the relevant date (as defined in section 308(2) of FA 2004);
   - (b) for arrangements notifiable under section 308(3) of FA 2004, the date the promoter first becomes aware of any transaction forming part of the notifiable arrangements; or
   - (c) for arrangements notifiable under section 309 or 310 of FA 2004, the date the person enters into any transaction forming part of the notifiable arrangements;
-- [^key-c70ee20e974569153d51b47442e6c504]...
-- “plant or machinery lease” has the meaning given by section 70K CAA 2001[^key-19f1763045e7a6a514eb1c7a7ebaaf73];
+- [^c-c70ee20e974569153d51b47442e6c504]...
+- “plant or machinery lease” has the meaning given by section 70K CAA 2001[^c-19f1763045e7a6a514eb1c7a7ebaaf73];
 - “the Promoters Regulations” means the Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^f00008];
 - “small or medium-sized enterprise” has the meaning given by regulation 4;.
 
 (3) For the purposes of these Regulations section 839 of ICTA[^f00009] applies to determine whether persons are connected.
 
-### 3. Meaning of “business”[^key-08ec08e6b61b4a047f87b396995f4d22]
+### 3. Meaning of “business”[^c-08ec08e6b61b4a047f87b396995f4d22]
 
 In these Regulations “business” means—
 
@@ -105,7 +105,7 @@ In these Regulations “business” means—
   - (i) as trading income under Part 2 of ITTOIA 2005 (trading income), or
   - (ii) as property income under section 268 of ITTOIA 2005 (charge to tax on profits of a property business).
 
-### 4. Meaning of “small or medium-sized enterprise”[^key-9f9948b7db8a98f2a4c2c025c0560b25]
+### 4. Meaning of “small or medium-sized enterprise”[^c-9f9948b7db8a98f2a4c2c025c0560b25]
 
 (1) For the purposes of these Regulations a “small or medium-sized enterprise” means a micro, small or medium-sized enterprise as defined in the Recommendation.
 
@@ -127,40 +127,40 @@ In this paragraph references to the employee limit and the financial limits are 
 
 ## PART 2 — General
 
-### 5. Prescribed descriptions of arrangements[^key-d5318273cd995282f8e27adca1d15ec3]
+### 5. Prescribed descriptions of arrangements[^c-d5318273cd995282f8e27adca1d15ec3]
 
-(1)[^key-7ff051cdbfc8ff4b965ed80a4ec3aec6] The following arrangements are prescribed for the purposes of Part 7 of the FA 2004 (disclosure of tax avoidance schemes)—
+(1)[^c-7ff051cdbfc8ff4b965ed80a4ec3aec6] The following arrangements are prescribed for the purposes of Part 7 of the FA 2004 (disclosure of tax avoidance schemes)—
 
 - (a) in relation to income tax, corporation tax and capital gains tax, any arrangements which fall within any description specified in a provision of these Regulations listed in paragraph (2);
 - (b) in relation to inheritance tax, any arrangements which fall within any description specified in a provision of these Regulations listed in paragraph (2)(a) or (c);
-- (c)[^key-e28945e49bdacb5864af3ba234a98cf7] in relation to the apprenticeship levy, any arrangements which fall within any description specified in a provision of these Regulations listed in paragraph (2)(a), (b), (c) or (e).
+- (c)[^c-e28945e49bdacb5864af3ba234a98cf7] in relation to the apprenticeship levy, any arrangements which fall within any description specified in a provision of these Regulations listed in paragraph (2)(a), (b), (c) or (e).
 
 (2) The provisions are—
 
 - (a) regulation 6 (description 1: confidentiality in cases involving a promoter);
 - (b) regulation 7 (description 2: confidentiality in cases not involving a promoter);
 - (c) regulation 8 (description 3: premium fee);
-- (d)[^key-0f5e70fc2f807a19688117c64dcc0537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0f5e70fc2f807a19688117c64dcc0537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) regulation 10 (description 5: standardised tax products);
-- (f) regulation 12 (description 6: loss schemes); [^key-32c9919537a9d2ccbf00d5ac374d0ce7]...
-- (g) regulation 13 (description 7: leasing arrangements) ;[^key-76d42cf32cd5328086445d08091ca8d8] [^key-02b10337f14da3f2946434745bf6b636]...
-- (h)[^key-78a1caaf2516a5dfd0680a791d913432] regulation 18 (description 8: employment income provided through third parties) and[^key-d128656bf8f462fe22e5a621bfb697b7]
+- (f) regulation 12 (description 6: loss schemes); [^c-32c9919537a9d2ccbf00d5ac374d0ce7]...
+- (g) regulation 13 (description 7: leasing arrangements) ;[^c-76d42cf32cd5328086445d08091ca8d8] [^c-02b10337f14da3f2946434745bf6b636]...
+- (h)[^c-78a1caaf2516a5dfd0680a791d913432] regulation 18 (description 8: employment income provided through third parties) and[^c-d128656bf8f462fe22e5a621bfb697b7]
 - (i) regulation 19 (description 9: financial products).
 
 (3) For the purpose only of determining whether arrangements are prescribed by regulations 6, 7, 8 and 13 of these Regulations, regulation 6 of the Promoters Regulations (persons not to be treated as promoters: legal professional privilege)[^f00010] shall be disregarded.
 
 ## PART 3 — Prescribed arrangements
 
-### 6. Description 1: Confidentiality where promoter involved[^key-b1825fb7ddc812482fe33ce79579062a]
+### 6. Description 1: Confidentiality where promoter involved[^c-b1825fb7ddc812482fe33ce79579062a]
 
 (1) Arrangements are prescribed if—
 
 - (a) any element of the arrangements (including the way in which the arrangements are structured) gives rise to the tax advantage expected to be obtained under the arrangements; and
 - (b) it might reasonably be expected that a promoter would wish the way in which that element of those arrangements secures, or might secure, a tax advantage to be kept confidential from any other promoter at any time following the material date.
 
-(2) Arrangements are prescribed if it might reasonably be expected that a promoter would[^key-9e055d95514865d188f87ca72ab4aa6b], but for the requirements of these Regulations, wish to keep the way in which any element of those arrangements (including the way in which the arrangements are structured)[^key-bf51cd84759148f36c85251405171bf9] that secures, or might secure, the tax advantage confidential from HMRC at any time following the material date, and a reason for doing so is to facilitate repeated or continued use of the same element, or substantially the same element, in the future.
+(2) Arrangements are prescribed if it might reasonably be expected that a promoter would[^c-9e055d95514865d188f87ca72ab4aa6b], but for the requirements of these Regulations, wish to keep the way in which any element of those arrangements (including the way in which the arrangements are structured)[^c-bf51cd84759148f36c85251405171bf9] that secures, or might secure, the tax advantage confidential from HMRC at any time following the material date, and a reason for doing so is to facilitate repeated or continued use of the same element, or substantially the same element, in the future.
 
-(2A)[^key-df3911c1cdb0f6acce856bf255b16db9] Cases where arrangements will be prescribed under paragraph (2) include, but are not limited to, where—
+(2A)[^c-df3911c1cdb0f6acce856bf255b16db9] Cases where arrangements will be prescribed under paragraph (2) include, but are not limited to, where—
 
 - (a) a promoter does not provide to the user of the arrangements (“the user”), or prevents or discourages the user from retaining, any promotional materials, data or written professional advice relating to those arrangements; and
 - (b) it might reasonably be expected that the reason for doing so is to keep the arrangements confidential from HMRC in order to facilitate repeated or continued use of any element of those arrangements.
@@ -172,31 +172,31 @@ In this paragraph references to the employee limit and the financial limits are 
 
 for paragraph (2) substitute—
 
-(2)[^key-a13cff503dc8b7b1921ea63f6e677cd4] Arrangements are prescribed if it might reasonably be expected that the user of the arrangements would, but for the requirements of these regulations, wish to keep the way in which any element of those arrangements (including the way in which the arrangements are structured) that secures the tax advantage confidential from HMRC at any time following the material date.
+(2)[^c-a13cff503dc8b7b1921ea63f6e677cd4] Arrangements are prescribed if it might reasonably be expected that the user of the arrangements would, but for the requirements of these regulations, wish to keep the way in which any element of those arrangements (including the way in which the arrangements are structured) that secures the tax advantage confidential from HMRC at any time following the material date.
 
-### 7. Description 2: Confidentiality where no promoter involved[^key-b6f8058665f4693f0237d74feb9261f5]
+### 7. Description 2: Confidentiality where no promoter involved[^c-b6f8058665f4693f0237d74feb9261f5]
 
-(1)[^key-8c87dcb95442df46d4b4e637b5f0b45c] Arrangements are prescribed if—
+(1)[^c-8c87dcb95442df46d4b4e637b5f0b45c] Arrangements are prescribed if—
 
 - (a) no person is a promoter in relation to them;
 - (b) the intended user of the arrangements is a business which is not a small or medium-sized enterprise;
 - (c) any element of the arrangements (including the way in which the arrangements are structured) gives rise to the tax advantage expected to be obtained under the arrangements;
-- (d)[^key-628b222b8864059386e1fb6a6834c017] it might reasonably be expected that a user would[^key-e5f474d59f8baf476057b177a1f23389], but for the requirements of these Regulations, wish to keep the way in which that element secures the advantage confidential from HMRC at any time following the material date; and
-- (e)[^key-d886cb795b6233776660b9a35119c93f] a reason for the user’s wishing to keep the element confidential from HMRC is—
+- (d)[^c-628b222b8864059386e1fb6a6834c017] it might reasonably be expected that a user would[^c-e5f474d59f8baf476057b177a1f23389], but for the requirements of these Regulations, wish to keep the way in which that element secures the advantage confidential from HMRC at any time following the material date; and
+- (e)[^c-d886cb795b6233776660b9a35119c93f] a reason for the user’s wishing to keep the element confidential from HMRC is—
   - (i) to facilitate repeated or continued use of the same element, or substantially the same element, in the future; or
   - (ii) to reduce the risk of HMRC using that information to open an enquiry into any return or account which a person is required by or under any enactment to deliver to HMRC; or
   - (iii) to reduce the risk of HMRC using that information to withhold payment of all or part of an amount claimed separately from a return under—
     - (aa) section 261B of the Taxation of Chargeable Gains Act 1992 (treating trade loss etc as CGT loss); or
-    - (bb) Part 4 of the ITA 2007[^key-c6ffc247b439cd1fc8473254035d7494] (loss relief).
+    - (bb) Part 4 of the ITA 2007[^c-c6ffc247b439cd1fc8473254035d7494] (loss relief).
 
-(2)[^key-8b73ade12a59f1db473ae5ffb254be13] Arrangements are also prescribed if—
+(2)[^c-8b73ade12a59f1db473ae5ffb254be13] Arrangements are also prescribed if—
 
 - (a) paragraphs (1)(a) to (c) are met; and
 - (b) if there had been a promoter in relation to the arrangements, it might reasonably have been expected that they would, but for the requirements of these Regulations, wish to have kept the way in which any element of the arrangements (including the way in which the arrangements were structured) that secured the tax advantage confidential from HMRC at any time following the material date, and a reason for doing so would be to facilitate repeated or continued use of the same element, or substantially the same element, in the future.
 
-### 8. Description 3: Premium Fee[^key-52f7b6460236c5ec7fd492d8f9e7a90c]
+### 8. Description 3: Premium Fee[^c-52f7b6460236c5ec7fd492d8f9e7a90c]
 
-(1) Arrangements are prescribed if they are such that it might reasonably be expected that a promoter or a person connected with a promoter of arrangements that are the same as, or substantially similar to, the arrangements in question, would, but for the requirements of[^key-8659a74a5dbe022666492df520299a34] these Regulations, be able to obtain a premium fee from a person experienced in receiving services of the type being provided.
+(1) Arrangements are prescribed if they are such that it might reasonably be expected that a promoter or a person connected with a promoter of arrangements that are the same as, or substantially similar to, the arrangements in question, would, but for the requirements of[^c-8659a74a5dbe022666492df520299a34] these Regulations, be able to obtain a premium fee from a person experienced in receiving services of the type being provided.
 
 - But arrangements are not prescribed by this regulation if—
   - (a) no person is a promoter in relation to them; and
@@ -205,13 +205,13 @@ for paragraph (2) substitute—
 (2) For the purposes of paragraph (1), and in relation to any arrangements, a “premium fee” is a fee chargeable by virtue of any element of the arrangements (including the way in which they are structured) from which the tax advantage expected to be obtained arises, and which is—
 
 - (a) to a significant extent attributable to that tax advantage, or
-- (b) to any extent contingent upon the obtaining of that tax advantage as a matter of law[^key-b41dd9ee60ac311eb8b1fde4a185b085].
+- (b) to any extent contingent upon the obtaining of that tax advantage as a matter of law[^c-b41dd9ee60ac311eb8b1fde4a185b085].
 
-### 9. Description 4: Off market terms[^key-93ddd3092479dc7372d8ff380da0c945]
+### 9. Description 4: Off market terms[^c-93ddd3092479dc7372d8ff380da0c945]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Description 5: standardised tax products[^key-677ed95b25cbc01388664eb8a8d1eb06]
+### 10. Description 5: standardised tax products[^c-677ed95b25cbc01388664eb8a8d1eb06]
 
 (1) Subject to regulation 11, arrangements are prescribed if a promoter makes the arrangements available for implementation by more than one person and the conditions in paragraph (2) are met.
 
@@ -225,15 +225,15 @@ for paragraph (2) substitute—
 - (c) the transaction or series of transactions is standardised, or substantially standardised, in form; and
 - (d) either the main purpose of the arrangements is to enable a person to obtain a tax advantage or the arrangements would be unlikely to be entered into but for the expectation of obtaining a tax advantage.
 
-### 11. Arrangements excepted from Description 5[^key-df3a141998a226f436c90e1883abb59c]
+### 11. Arrangements excepted from Description 5[^c-df3a141998a226f436c90e1883abb59c]
 
-(1)[^key-b864be604efdaf1d9aba6af2a33f34fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b864be604efdaf1d9aba6af2a33f34fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The following arrangements are excepted from being prescribed under regulation 10[^key-3ecec1fe24fa729bb8267ac91e7a8506]—
+(2) The following arrangements are excepted from being prescribed under regulation 10[^c-3ecec1fe24fa729bb8267ac91e7a8506]—
 
-- (a) arrangements which consist solely of one or more plant or machinery leases [^key-1fb00ea3868f239ffc78c2ebee750d92]...;
-- (b) an enterprise investment scheme (Part 5 of ITA 2007 and Schedule 5B[^key-13af9f84222bc65057663f00bad93699] to TCGA 1992);
-- (c) arrangements using a venture capital trust (see Part 6 of ITA 2007[^key-8724866360503ddbaa095045d859871c] and Schedule 5C to TCGA 1992);
+- (a) arrangements which consist solely of one or more plant or machinery leases [^c-1fb00ea3868f239ffc78c2ebee750d92]...;
+- (b) an enterprise investment scheme (Part 5 of ITA 2007 and Schedule 5B[^c-13af9f84222bc65057663f00bad93699] to TCGA 1992);
+- (c) arrangements using a venture capital trust (see Part 6 of ITA 2007[^c-8724866360503ddbaa095045d859871c] and Schedule 5C to TCGA 1992);
 - (d) arrangements qualifying under the corporate venturing scheme (see Schedule 15 to the Finance Act 2000);
 - (e) arrangements qualifying for community investment tax relief (see Schedules 16 and 17 to the Finance Act 2002);
 - (f) an account which satisfies the conditions in the Individual Savings Account Regulations 1998[^f00017];
@@ -247,23 +247,23 @@ for paragraph (2) substitute—
 - (l) an overseas pension scheme in respect of which tax relief is granted in the United Kingdom under section 615 of ICTA (exemption from tax for superannuation payments in respect of persons not resident in the United Kingdom or in respect of trades carried on wholly or partly outside the United Kingdom);
 - (m) a pension scheme which is a relevant non-UK pension scheme within the meaning given by paragraph 1(5) of Schedule 34 to FA 2004;
 - (n) a scheme to which section 731 of ITTOIA 2005 applies (periodical payments of personal injury damages);
-- (o)[^key-b3de409d9e97e52da80917f086e5f9dd] arrangements which would be prescribed by regulation 19 but for regulation 21.
+- (o)[^c-b3de409d9e97e52da80917f086e5f9dd] arrangements which would be prescribed by regulation 19 but for regulation 21.
 
-### 12. Description 6: Loss schemes[^key-c816af3be020fe6cde3112c48cde0bd7]
+### 12. Description 6: Loss schemes[^c-c816af3be020fe6cde3112c48cde0bd7]
 
 Arrangements are prescribed if—
 
 - (a) the promoter expects more than one individual to implement the same, or substantially the same, arrangements; and
-- (b)[^key-a0e433e55d6727eef53b40543252a4c7] an informed observer (having studied the arrangements and having regard to all relevant circumstances) could reasonably be expected to conclude that—
+- (b)[^c-a0e433e55d6727eef53b40543252a4c7] an informed observer (having studied the arrangements and having regard to all relevant circumstances) could reasonably be expected to conclude that—
   - (i) the main benefit or one of the main benefits which could be expected to accrue to some or all of the individuals participating in the arrangements is the provision of losses, and
   - (ii) the arrangements (including the way they are structured) contain an element which is, or elements which are, unlikely to have been entered into by the individuals concerned were it not for the provision of those losses, and
   - (iii) those individuals would be expected to use those losses to reduce their liability to income tax or capital gains tax.
 
-### 13. Description 7: Leasing arrangements[^key-d35696e2a7321a08440056c32712dc71]
+### 13. Description 7: Leasing arrangements[^c-d35696e2a7321a08440056c32712dc71]
 
 (1) Arrangements are prescribed if—
 
-- (a) the arrangements include a plant or machinery lease [^key-d1f340c319612beb9bc37b39f1f41de6]...;
+- (a) the arrangements include a plant or machinery lease [^c-d1f340c319612beb9bc37b39f1f41de6]...;
 - (b) one of the additional conditions is met (see regulation 15);
 - (c) the relevant value condition is met (see regulation 16); and
 - (d) the lease is not a short-term lease (see regulation 17).
@@ -273,11 +273,11 @@ Arrangements are prescribed if—
 - (a) no person is a promoter in relation to them; and
 - (b) the tax advantage which may be obtained under the arrangements is intended to be obtained by an individual or a business which is a small or medium-sized enterprise.
 
-### 14. Meaning of “plant or machinery lease”[^key-1d13e01be91a6936ded7966b7a9f2165]
+### 14. Meaning of “plant or machinery lease”[^c-1d13e01be91a6936ded7966b7a9f2165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. The additional conditions[^key-2307709f9e97e292851d4fd40da19eea]
+### 15. The additional conditions[^c-2307709f9e97e292851d4fd40da19eea]
 
 (1) The first additional condition is that the arrangements are designed in such a way that one or more of the plant or machinery leases, comprised in the arrangements, are or would be entered into by—
 
@@ -298,7 +298,7 @@ For the purposes of this paragraph “money” and “money debt” have the sam
 (5) The third additional condition is that the arrangements are designed to consist of, or include—
 
 - (a) a sale and finance leaseback arrangement (within the meaning of section 221 of CAA 2001), or
-- (b) a lease and finance leaseback (within the meaning of section 228A(2)[^key-122578e3c6f644173faa163a009f005b] of CAA 2001).
+- (b) a lease and finance leaseback (within the meaning of section 228A(2)[^c-122578e3c6f644173faa163a009f005b] of CAA 2001).
 
 The third additional condition is subject to the following paragraphs of this regulation.
 
@@ -339,7 +339,7 @@ Here “used for storage or production” means used for the purposes of—
 - “fixture” has the meaning given by section 173(1) of CAA 2001;
 - “relevant land” has the meaning given by section 173(2) of CAA 2001.
 
-### 16. The relevant value condition[^key-dd16847da53d4ad6d724682b1465b3e0]
+### 16. The relevant value condition[^c-dd16847da53d4ad6d724682b1465b3e0]
 
 (1) The relevant value condition is met if—
 
@@ -354,7 +354,7 @@ Here “used for storage or production” means used for the purposes of—
 
 (3) “Absolute owner” in the application of paragraph (2)(a) to Scotland, means the owner.
 
-### 17. Short-term leases[^key-f43d0c2ec879435a6dea6f1dfd755950]
+### 17. Short-term leases[^c-f43d0c2ec879435a6dea6f1dfd755950]
 
 (1) For the purposes of regulation 13(1)(d) a lease whose term is 2 years or less is a short-term lease.
 
@@ -373,9 +373,9 @@ In those Conditions “L” is the lessee.
 - (c) at or about the time of the inception of that lease, arrangements are entered into for the asset to be leased to one or more other persons under one or more other leases, and
 - (d) in the aggregate, the term of the lease to L and the terms of the leases to such of those other persons as are connected with L exceed 2 years.
 
-(5)[^key-2798902e409ff71ac2d87325a8acbdf2] In this regulation “inception” has the meaning given by section 70YI CAA 2001.
+(5)[^c-2798902e409ff71ac2d87325a8acbdf2] In this regulation “inception” has the meaning given by section 70YI CAA 2001.
 
-### 17A. Description 8: Pensions[^key-ee2cc87ed54928ab42001fe8c0808cae]
+### 17A. Description 8: Pensions[^c-ee2cc87ed54928ab42001fe8c0808cae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -394,7 +394,7 @@ In those Conditions “L” is the lessee.
 
 (3) Condition 2 is met if the main benefit, or one of the main benefits, of the arrangements is that an amount that would otherwise count as employment income under section 554Z2(1) is reduced or eliminated.
 
-(4) Condition 3 is met if, by reason of at least one of sections 554E to 554XA[^key-3378a42078c0b4e68bdeaf6dc6ad09a9] or regulations made under section 554Y, Chapter 2 of Part 7A does not apply.
+(4) Condition 3 is met if, by reason of at least one of sections 554E to 554XA[^c-3378a42078c0b4e68bdeaf6dc6ad09a9] or regulations made under section 554Y, Chapter 2 of Part 7A does not apply.
 
 (5) Condition 4 is met if the arrangements involve one or more contrived or abnormal steps without which the main benefit in paragraph (3) would not be obtained.
 
@@ -410,7 +410,7 @@ In those Conditions “L” is the lessee.
 - (c) “contrived or abnormal” has the same meaning as in section 207 of the Finance Act 2013; and
 - (d) “relevant third person” has the same meaning as in section 554A(7).
 
-### 19. Description 9: Financial products[^key-137b131fc13a750dc103e147e9065ccc]
+### 19. Description 9: Financial products[^c-137b131fc13a750dc103e147e9065ccc]
 
 (1) Subject to regulation 21, arrangements are prescribed if—
 
@@ -474,11 +474,11 @@ Arrangements are excepted from being prescribed under regulation 19 if—
 - (a) a promoter is a participating entity, or is part of a participating group, within the meaning of section 286 of the Finance Act 2014; and
 - (b) HMRC has confirmed, or could reasonably be expected to confirm, to the promoter that the arrangements are acceptable transactions under the Code of Practice on Taxation for Banks (as published by the Commissioners for Her Majesty’s Revenue and Customs on 31st May 2013).
 
-## PART 4 — Further provisions[^key-48f2afd84ad9c45e4830600e1021bfb7]
+## PART 4 — Further provisions[^c-48f2afd84ad9c45e4830600e1021bfb7]
 
 **No longer in force.**
 
-### 18. Revocations[^key-48f2afd84ad9c45e4830600e1021bfb7]
+### 18. Revocations[^c-48f2afd84ad9c45e4830600e1021bfb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -526,15 +526,15 @@ A full regulatory impact assessment in respect of these Regulations has been pre
 
 [^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-c09d4efce801025e56d291000ee39e1a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/1543) applied (with modifications) (1.9.2012) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (S.I. 2012/1868)](https://www.legislation.gov.uk/uksi/2012/1868), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1), [25](https://www.legislation.gov.uk/uksi/2012/1868/regulation/25)
+[^c-c09d4efce801025e56d291000ee39e1a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/1543) applied (with modifications) (1.9.2012) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (S.I. 2012/1868)](https://www.legislation.gov.uk/uksi/2012/1868), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1), [25](https://www.legislation.gov.uk/uksi/2012/1868/regulation/25)
 
-[^key-0ac72808f07d0de2fb299bb374bde804]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-0ac72808f07d0de2fb299bb374bde804]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-1cf2185821d4e6a17a0b7d89d312e7bd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-1cf2185821d4e6a17a0b7d89d312e7bd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
 [^f00002]: Footnote: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2).
 
-[^key-955276b053d94b0880f547d21ed9bd47]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/1) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-955276b053d94b0880f547d21ed9bd47]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/1) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
 [^f00003]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
@@ -544,120 +544,120 @@ A full regulatory impact assessment in respect of these Regulations has been pre
 
 [^f00006]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-0c094024dd2b5177a6a17b4557211f78]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/99/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-0c094024dd2b5177a6a17b4557211f78]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/99/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-9f3814b6134edeb83c68dc7f8384c994]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/2)
+[^c-9f3814b6134edeb83c68dc7f8384c994]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/2)
 
 [^f00007]: Footnote: [S.I. 2004/1864](https://www.legislation.gov.uk/uksi/2004/1864), amended by [S.I. 2005/1869](https://www.legislation.gov.uk/uksi/2005/1869).
 
-[^key-0cd76f1423a53f16c0d3c8133accde73]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/3)
+[^c-0cd76f1423a53f16c0d3c8133accde73]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/3)
 
-[^key-c70ee20e974569153d51b47442e6c504]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/4)
+[^c-c70ee20e974569153d51b47442e6c504]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/4)
 
-[^key-19f1763045e7a6a514eb1c7a7ebaaf73]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/5)
+[^c-19f1763045e7a6a514eb1c7a7ebaaf73]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/2/2) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/3/5)
 
 [^f00008]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865), amended by regulation 2 of [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).
 
 [^f00009]: Footnote: Section 839 was amended by paragraph 20 of Schedule 17 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and by paragraph 340 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005.
 
-[^key-08ec08e6b61b4a047f87b396995f4d22]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/1543/regulation/3) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-08ec08e6b61b4a047f87b396995f4d22]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/1543/regulation/3) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-9f9948b7db8a98f2a4c2c025c0560b25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/1543/regulation/4) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-9f9948b7db8a98f2a4c2c025c0560b25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/1543/regulation/4) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-d5318273cd995282f8e27adca1d15ec3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-d5318273cd995282f8e27adca1d15ec3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-7ff051cdbfc8ff4b965ed80a4ec3aec6]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/1) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/4/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-7ff051cdbfc8ff4b965ed80a4ec3aec6]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/1) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/4/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-e28945e49bdacb5864af3ba234a98cf7]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/1/c) inserted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1171/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
+[^c-e28945e49bdacb5864af3ba234a98cf7]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/1/c) inserted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1171/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
 
-[^key-0f5e70fc2f807a19688117c64dcc0537]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/d) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/2834/regulation/4)
+[^c-0f5e70fc2f807a19688117c64dcc0537]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/d) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/2834/regulation/4)
 
-[^key-32c9919537a9d2ccbf00d5ac374d0ce7]: Textual amendment: Word in [reg. 5(2)(f)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/f) omitted (1.9.2009) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2009 (S.I. 2009/2033)](https://www.legislation.gov.uk/uksi/2009/2033), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2033/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2033/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2033/regulation/3))
+[^c-32c9919537a9d2ccbf00d5ac374d0ce7]: Textual amendment: Word in [reg. 5(2)(f)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/f) omitted (1.9.2009) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2009 (S.I. 2009/2033)](https://www.legislation.gov.uk/uksi/2009/2033), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2033/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2033/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2033/regulation/3))
 
-[^key-76d42cf32cd5328086445d08091ca8d8]: Textual amendment: Word in [reg. 5(2)(g)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/g) substituted for full stop (1.9.2009) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2009 (S.I. 2009/2033)](https://www.legislation.gov.uk/uksi/2009/2033), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2033/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2033/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2033/regulation/3))
+[^c-76d42cf32cd5328086445d08091ca8d8]: Textual amendment: Word in [reg. 5(2)(g)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/g) substituted for full stop (1.9.2009) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2009 (S.I. 2009/2033)](https://www.legislation.gov.uk/uksi/2009/2033), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2033/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2033/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2033/regulation/3))
 
-[^key-02b10337f14da3f2946434745bf6b636]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2) omitted (23.2.2016) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2016/99/regulation/4/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-02b10337f14da3f2946434745bf6b636]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2) omitted (23.2.2016) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2016/99/regulation/4/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-78a1caaf2516a5dfd0680a791d913432]: Textual amendment: [Reg. 5(2)(h)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/h) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/2595/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-78a1caaf2516a5dfd0680a791d913432]: Textual amendment: [Reg. 5(2)(h)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/h) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/2595/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-d128656bf8f462fe22e5a621bfb697b7]: Textual amendment: [Reg. 5(2)(i)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/i) and word inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2016/99/regulation/4/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-d128656bf8f462fe22e5a621bfb697b7]: Textual amendment: [Reg. 5(2)(i)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/5/2/i) and word inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2016/99/regulation/4/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
 [^f00010]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865). Regulation 6 was added by regulation 2 of [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).
 
-[^key-b1825fb7ddc812482fe33ce79579062a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/2834/regulation/5)
+[^c-b1825fb7ddc812482fe33ce79579062a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/2834/regulation/5)
 
-[^key-9e055d95514865d188f87ca72ab4aa6b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/2) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-9e055d95514865d188f87ca72ab4aa6b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/2) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-bf51cd84759148f36c85251405171bf9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/2) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-bf51cd84759148f36c85251405171bf9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/2) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-df3911c1cdb0f6acce856bf255b16db9]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/2A) inserted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2595/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-df3911c1cdb0f6acce856bf255b16db9]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/2A) inserted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2595/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-a13cff503dc8b7b1921ea63f6e677cd4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/3) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2595/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-a13cff503dc8b7b1921ea63f6e677cd4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/6/3) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2595/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-b6f8058665f4693f0237d74feb9261f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-b6f8058665f4693f0237d74feb9261f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-8c87dcb95442df46d4b4e637b5f0b45c]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/1): reg. 7 renumbered as reg. 7(1) (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/2595/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-8c87dcb95442df46d4b4e637b5f0b45c]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/1): reg. 7 renumbered as reg. 7(1) (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/2595/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-628b222b8864059386e1fb6a6834c017]: Textual amendment: [Reg. 7(d)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/d) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/6/2)
+[^c-628b222b8864059386e1fb6a6834c017]: Textual amendment: [Reg. 7(d)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/d) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/6/2)
 
-[^key-e5f474d59f8baf476057b177a1f23389]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/1/d) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2013/2595/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-e5f474d59f8baf476057b177a1f23389]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/1/d) substituted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2013/2595/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-d886cb795b6233776660b9a35119c93f]: Textual amendment: [Reg. 7(e)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/e) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/6/3)
+[^c-d886cb795b6233776660b9a35119c93f]: Textual amendment: [Reg. 7(e)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/e) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/6/3)
 
-[^key-c6ffc247b439cd1fc8473254035d7494]: Textual amendment: Words in [reg. 7(1)(e)(iii)(bb)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/1/e/iii) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/99/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-c6ffc247b439cd1fc8473254035d7494]: Textual amendment: Words in [reg. 7(1)(e)(iii)(bb)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/1/e/iii) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/99/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-8b73ade12a59f1db473ae5ffb254be13]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/2) inserted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2595/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-8b73ade12a59f1db473ae5ffb254be13]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/7/2) inserted (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2595/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-52f7b6460236c5ec7fd492d8f9e7a90c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/1543/regulation/8) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-52f7b6460236c5ec7fd492d8f9e7a90c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/1543/regulation/8) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-8659a74a5dbe022666492df520299a34]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/8/1) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/7/2)
+[^c-8659a74a5dbe022666492df520299a34]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/8/1) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/7/2)
 
-[^key-b41dd9ee60ac311eb8b1fde4a185b085]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/8/2/b) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/7/3)
+[^c-b41dd9ee60ac311eb8b1fde4a185b085]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/8/2/b) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2010/2834/regulation/7/3)
 
-[^key-93ddd3092479dc7372d8ff380da0c945]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/1543/regulation/9) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/2834/regulation/8)
+[^c-93ddd3092479dc7372d8ff380da0c945]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/1543/regulation/9) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/2834/regulation/8)
 
-[^key-677ed95b25cbc01388664eb8a8d1eb06]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/1543/regulation/10) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/99/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-677ed95b25cbc01388664eb8a8d1eb06]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/1543/regulation/10) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/99/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-df3a141998a226f436c90e1883abb59c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-df3a141998a226f436c90e1883abb59c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-b864be604efdaf1d9aba6af2a33f34fc]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/1) omitted (23.2.2016) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-b864be604efdaf1d9aba6af2a33f34fc]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/1) omitted (23.2.2016) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-3ecec1fe24fa729bb8267ac91e7a8506]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-3ecec1fe24fa729bb8267ac91e7a8506]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-1fb00ea3868f239ffc78c2ebee750d92]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/a) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/2834/regulation/9)
+[^c-1fb00ea3868f239ffc78c2ebee750d92]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/a) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/2834/regulation/9)
 
-[^key-13af9f84222bc65057663f00bad93699]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/b) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-13af9f84222bc65057663f00bad93699]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/b) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-8724866360503ddbaa095045d859871c]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/c) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-8724866360503ddbaa095045d859871c]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/c) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
 [^f00017]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
 
-[^key-b3de409d9e97e52da80917f086e5f9dd]: Textual amendment: [Reg. 11(2)(o)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/o) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(d)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-b3de409d9e97e52da80917f086e5f9dd]: Textual amendment: [Reg. 11(2)(o)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/11/2/o) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [7(3)(d)](https://www.legislation.gov.uk/uksi/2016/99/regulation/7/3/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-c816af3be020fe6cde3112c48cde0bd7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/1543/regulation/12) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-c816af3be020fe6cde3112c48cde0bd7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/1543/regulation/12) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-a0e433e55d6727eef53b40543252a4c7]: Textual amendment: [Reg. 12(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/12/b) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2016/99/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-a0e433e55d6727eef53b40543252a4c7]: Textual amendment: [Reg. 12(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/12/b) substituted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2016/99/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-d35696e2a7321a08440056c32712dc71]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/1543/regulation/13) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-d35696e2a7321a08440056c32712dc71]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/1543/regulation/13) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-d1f340c319612beb9bc37b39f1f41de6]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/13/1/a) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [10](https://www.legislation.gov.uk/uksi/2010/2834/regulation/10)
+[^c-d1f340c319612beb9bc37b39f1f41de6]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/13/1/a) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [10](https://www.legislation.gov.uk/uksi/2010/2834/regulation/10)
 
-[^key-1d13e01be91a6936ded7966b7a9f2165]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/1543/regulation/14) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [11](https://www.legislation.gov.uk/uksi/2010/2834/regulation/11)
+[^c-1d13e01be91a6936ded7966b7a9f2165]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/1543/regulation/14) omitted (1.1.2011) by virtue of [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [11](https://www.legislation.gov.uk/uksi/2010/2834/regulation/11)
 
-[^key-2307709f9e97e292851d4fd40da19eea]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/1543/regulation/15) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-2307709f9e97e292851d4fd40da19eea]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/1543/regulation/15) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-122578e3c6f644173faa163a009f005b]: Textual amendment: Word in [reg. 15(5)(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/15/5/b) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [12](https://www.legislation.gov.uk/uksi/2010/2834/regulation/12)
+[^c-122578e3c6f644173faa163a009f005b]: Textual amendment: Word in [reg. 15(5)(b)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/15/5/b) substituted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [12](https://www.legislation.gov.uk/uksi/2010/2834/regulation/12)
 
-[^key-dd16847da53d4ad6d724682b1465b3e0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/1543/regulation/16) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-dd16847da53d4ad6d724682b1465b3e0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/1543/regulation/16) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-f43d0c2ec879435a6dea6f1dfd755950]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/1543/regulation/17) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
+[^c-f43d0c2ec879435a6dea6f1dfd755950]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/1543/regulation/17) in force at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/1/1)
 
-[^key-2798902e409ff71ac2d87325a8acbdf2]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/17/5) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [13](https://www.legislation.gov.uk/uksi/2010/2834/regulation/13)
+[^c-2798902e409ff71ac2d87325a8acbdf2]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/17/5) inserted (1.1.2011) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2010 (S.I. 2010/2834)](https://www.legislation.gov.uk/uksi/2010/2834), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2834/regulation/1), [13](https://www.legislation.gov.uk/uksi/2010/2834/regulation/13)
 
-[^key-ee2cc87ed54928ab42001fe8c0808cae]: Textual amendment: [Reg 18](https://www.legislation.gov.uk/uksi/2006/1543/regulation/18n1) substituted for [reg. 17A](https://www.legislation.gov.uk/uksi/2006/1543/regulation/17A) (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/10/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-ee2cc87ed54928ab42001fe8c0808cae]: Textual amendment: [Reg 18](https://www.legislation.gov.uk/uksi/2006/1543/regulation/18n1) substituted for [reg. 17A](https://www.legislation.gov.uk/uksi/2006/1543/regulation/17A) (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/10/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
 
-[^key-3378a42078c0b4e68bdeaf6dc6ad09a9]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/18n1/4) substituted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/1171/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
+[^c-3378a42078c0b4e68bdeaf6dc6ad09a9]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2006/1543/regulation/18n1/4) substituted (21.12.2017) by [The Tax Avoidance Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1171)](https://www.legislation.gov.uk/uksi/2017/1171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/1171/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1171/regulation/1/2))
 
-[^key-137b131fc13a750dc103e147e9065ccc]: Textual amendment: [Regs. 19-21](https://www.legislation.gov.uk/uksi/2006/1543/regulation/19) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/99/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
+[^c-137b131fc13a750dc103e147e9065ccc]: Textual amendment: [Regs. 19-21](https://www.legislation.gov.uk/uksi/2006/1543/regulation/19) inserted (23.2.2016) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2016 (S.I. 2016/99)](https://www.legislation.gov.uk/uksi/2016/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/99/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/99/regulation/1/2))
 
-[^key-48f2afd84ad9c45e4830600e1021bfb7]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2006/1543/part/4) revoked (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/10/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))
+[^c-48f2afd84ad9c45e4830600e1021bfb7]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2006/1543/part/4) revoked (4.11.2013) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/10/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/2))

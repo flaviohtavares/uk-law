@@ -88,7 +88,7 @@ For the purpose of the calculation referred to in Article 23(4)(a)(ii) of Regula
 </tbody>
 </table>
 
-[^key-3a6b2e745b7b3fffd0b2e10eae807c5d][^key-b6b8ee0ceb51de5a53b913b088ead72d][^f00050]
+[^c-3a6b2e745b7b3fffd0b2e10eae807c5d][^c-b6b8ee0ceb51de5a53b913b088ead72d][^f00050]
 
 ### SECTION B — PROCESSING AIDS AND OTHER PRODUCTS, WHICH MAY BE USED FOR PROCESSING OF INGREDIENTS OF AGRICULTURAL ORIGIN FROM ORGANIC PRODUCTION
 
@@ -155,8 +155,8 @@ For the purpose of the calculation referred to in Article 23(4)(a)(ii) of Regula
 
 [^c000026]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/2164 of 17 December 2019 amending Regulation (EC) No 889/2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007 on organic production and labelling of organic products with regard to organic production, labelling and control (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/2164).
 
-[^key-3a6b2e745b7b3fffd0b2e10eae807c5d]: Textual amendment: Words in Annex 8 section A inserted (1.1.2026) by [The Organic Production (Amendment) Regulations 2025 (S.I. 2025/1111)](https://www.legislation.gov.uk/uksi/2025/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1111/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/1111/regulation/2/4)
+[^c-3a6b2e745b7b3fffd0b2e10eae807c5d]: Textual amendment: Words in Annex 8 section A inserted (1.1.2026) by [The Organic Production (Amendment) Regulations 2025 (S.I. 2025/1111)](https://www.legislation.gov.uk/uksi/2025/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1111/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/1111/regulation/2/4)
 
-[^key-b6b8ee0ceb51de5a53b913b088ead72d]: Textual amendment: Words in Annex 8 section A substituted (31.12.2022) by [The Organic Production (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1279)](https://www.legislation.gov.uk/uksi/2022/1279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1279/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1279/regulation/2/4)
+[^c-b6b8ee0ceb51de5a53b913b088ead72d]: Textual amendment: Words in Annex 8 section A substituted (31.12.2022) by [The Organic Production (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1279)](https://www.legislation.gov.uk/uksi/2022/1279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1279/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1279/regulation/2/4)
 
 [^f00050]: Footnote: Commission Implementing Directive (EU) 2017/1279 of 14 July 2017 amending Annexes I to V to Council Directive 2000/29/EC on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community ([^c000026] [OJ L 184, 15.7.2017, p. 33](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.184.01.0033.01.ENG) ).

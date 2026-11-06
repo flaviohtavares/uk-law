@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Y. Statement of policy on ensuring compliance with security duties[^key-3df2e349e4f128ea18174a802099c326]
+## 105Y. Statement of policy on ensuring compliance with security duties[^c-3df2e349e4f128ea18174a802099c326]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3df2e349e4f128ea18174a802099c326]: Textual amendment: [S. 105Y](https://www.legislation.gov.uk/ukpga/2003/21/section/105Y) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/10/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-3df2e349e4f128ea18174a802099c326]: Textual amendment: [S. 105Y](https://www.legislation.gov.uk/ukpga/2003/21/section/105Y) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/10/2), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

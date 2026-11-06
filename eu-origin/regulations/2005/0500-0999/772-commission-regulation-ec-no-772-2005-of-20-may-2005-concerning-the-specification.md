@@ -37,195 +37,195 @@ concerning the specifications for the coverage of the characteristics and the de
 
 (Text with EEA relevance) (revoked)
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f4e2af17dead3d397a2a82650fa86e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-5f4e2af17dead3d397a2a82650fa86e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f4e2af17dead3d397a2a82650fa86e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — COVERAGE OF CHARACTERISTICS[^key-5f4e2af17dead3d397a2a82650fa86e4]
+## ANNEX I — COVERAGE OF CHARACTERISTICS[^c-5f4e2af17dead3d397a2a82650fa86e4]
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]1.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]1.
 
 YEARLY STATISTICS ON THE STEEL AND CAST IRON SCRAP BALANCE SHEET
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Specifications
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Specifications
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]2.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]2.
 
 FUEL AND ENERGY CONSUMPTION AND BALANCE SHEET FOR ELECTRICAL ENERGY IN THE STEEL INDUSTRY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks on the types of plant
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks on the types of plant
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Joint steel industry electricity generating stations
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Joint steel industry electricity generating stations
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Plant producing electricity and steam
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Plant producing electricity and steam
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Energy consumption
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Energy consumption
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Part A:
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Part A:
 
 Annual statistics on the Fuel and Energy Consumption broken down by type of plant
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Part B:
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Part B:
 
 Annual statistics on the Balance Sheet for Electrical Energy in the Steel Industry
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Specifications
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Specifications
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.
 
 ENQUIRY ON INVESTMENTS IN THE IRON AND STEEL INDUSTRY (EXPENDITURE AND CAPACITY)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Part A:
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Part A:
 
 Annual statistics on expenditure
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Specifications by type of plant
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Specifications by type of plant
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Part B:
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Part B:
 
 Annual statistics on capacity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Preliminary remarks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]General methods of calculation
+[^c-5f4e2af17dead3d397a2a82650fa86e4]General methods of calculation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Commissioning or withdrawal from service
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Commissioning or withdrawal from service
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]1.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]1.
 
 Steelworks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]2.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]2.
 
 Rolling mills and coating lines
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Specifications
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Specifications
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — TECHNICAL FORMAT[^key-5f4e2af17dead3d397a2a82650fa86e4]
+## ANNEX II — TECHNICAL FORMAT[^c-5f4e2af17dead3d397a2a82650fa86e4]
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]1.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]1.
 
 THE FORM OF THE DATA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]2.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]2.
 
 RECORD STRUCTURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.
 
 DESCRIPTION OF THE FIELDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.1.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.1.
 
 The type of series
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.2.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.2.
 
 Countries
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.3.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.3.
 
 Type of production or type of plant
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.4.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.4.
 
 Variables and unit of data value
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]3.5.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]3.5.
 
 Confidentiality flags
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]4.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]4.
 
 EXAMPLES OF RECORDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Example 1
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Example 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Example 2
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Example 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]Example 3
+[^c-5f4e2af17dead3d397a2a82650fa86e4]Example 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]5.
+[^c-5f4e2af17dead3d397a2a82650fa86e4]5.
 
 ELECTRONIC FORM
 
@@ -233,4 +233,4 @@ ELECTRONIC FORM
 
 ## Annotations
 
-[^key-5f4e2af17dead3d397a2a82650fa86e4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f4e2af17dead3d397a2a82650fa86e4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

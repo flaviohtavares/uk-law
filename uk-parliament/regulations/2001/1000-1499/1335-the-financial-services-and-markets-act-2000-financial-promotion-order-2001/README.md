@@ -31,7 +31,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (revoked)[^key-c358e0ccd54b73af440c30095a33982c]
+The Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (revoked)[^c-c358e0ccd54b73af440c30095a33982c]
 
 Made
 
@@ -39,11 +39,11 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-c358e0ccd54b73af440c30095a33982c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c358e0ccd54b73af440c30095a33982c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — CITATION, COMMENCEMENT AND INTERPRETATION[^key-c358e0ccd54b73af440c30095a33982c]
+### PART I — CITATION, COMMENCEMENT AND INTERPRETATION[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ Coming into force in accordance with article 1
 - [Section 2 — Interpretation: general](part-i/section-2.md)
 - [Section 3 — Interpretation: unlisted companies](part-i/section-3.md)
 
-### PART II — CONTROLLED ACTIVITIES AND CONTROLLED INVESTMENTS[^key-c358e0ccd54b73af440c30095a33982c]
+### PART II — CONTROLLED ACTIVITIES AND CONTROLLED INVESTMENTS[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ Coming into force in accordance with article 1
 
 - [Section 4 — Definition of controlled activities and controlled investments](part-ii/section-4.md)
 
-### PART III — EXEMPTIONS: INTERPRETATION AND APPLICATION[^key-c358e0ccd54b73af440c30095a33982c]
+### PART III — EXEMPTIONS: INTERPRETATION AND APPLICATION[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,7 +75,7 @@ Coming into force in accordance with article 1
 - [Section 10 — Application to qualifying contracts of insurance](part-iii/section-10.md)
 - [Section 11 — Combination of different exemptions](part-iii/section-11.md)
 
-### PART IV — EXEMPT COMMUNICATIONS: ALL CONTROLLED ACTIVITIES[^key-c358e0ccd54b73af440c30095a33982c]
+### PART IV — EXEMPT COMMUNICATIONS: ALL CONTROLLED ACTIVITIES[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,7 +92,7 @@ Coming into force in accordance with article 1
 - [Section 20 — Communications by journalists](part-iv/section-20.md)
 - [Section 20A — Promotion broadcast by company director etc.](part-iv/section-20a.md)
 
-### PART V — EXEMPT COMMUNICATIONS: DEPOSITS AND INSURANCE[^key-c358e0ccd54b73af440c30095a33982c]
+### PART V — EXEMPT COMMUNICATIONS: DEPOSITS AND INSURANCE[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,7 +105,7 @@ Coming into force in accordance with article 1
 - [Section 25 — Relevant insurance activity: non-real time communications: reinsurance and large risks](part-v/section-25.md)
 - [Section 26 — Relevant insurance activity: real time communication](part-v/section-26.md)
 
-### PART VI — EXEMPT COMMUNICATIONS: CERTAIN CONTROLLED ACTIVITIES[^key-c358e0ccd54b73af440c30095a33982c]
+### PART VI — EXEMPT COMMUNICATIONS: CERTAIN CONTROLLED ACTIVITIES[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -161,7 +161,7 @@ Coming into force in accordance with article 1
 - [Section 72 — Promotions included in prospectus for public offer of unlisted securities](part-vi/section-72.md)
 - [Section 73 — Material relating to prospectus for public offer of unlisted securities](part-vi/section-73.md)
 
-### PART VII — TRANSITIONAL PROVISION[^key-c358e0ccd54b73af440c30095a33982c]
+### PART VII — TRANSITIONAL PROVISION[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -178,16 +178,16 @@ Coming into force in accordance with article 1
 
 **No longer in force.**
 
-[^key-c358e0ccd54b73af440c30095a33982c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c358e0ccd54b73af440c30095a33982c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-c358e0ccd54b73af440c30095a33982c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c358e0ccd54b73af440c30095a33982c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c358e0ccd54b73af440c30095a33982c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/1335) revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (S.I. 2005/1529)](https://www.legislation.gov.uk/uksi/2005/1529), [art. 1](https://www.legislation.gov.uk/uksi/2005/1529/article/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1529/schedule/6)
+[^c-c358e0ccd54b73af440c30095a33982c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/1335) revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (S.I. 2005/1529)](https://www.legislation.gov.uk/uksi/2005/1529), [art. 1](https://www.legislation.gov.uk/uksi/2005/1529/article/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1529/schedule/6)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

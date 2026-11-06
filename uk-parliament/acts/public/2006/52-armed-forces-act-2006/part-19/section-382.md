@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 382. Duration of this Act[^key-a69d2f47f250f2e11e7aae419ff377e6]
+## 382. Duration of this Act[^c-a69d2f47f250f2e11e7aae419ff377e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a69d2f47f250f2e11e7aae419ff377e6]: Textual amendment: [S. 382](https://www.legislation.gov.uk/ukpga/2006/52/section/382) substituted (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/1/1), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)
+[^c-a69d2f47f250f2e11e7aae419ff377e6]: Textual amendment: [S. 382](https://www.legislation.gov.uk/ukpga/2006/52/section/382) substituted (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/1/1), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)

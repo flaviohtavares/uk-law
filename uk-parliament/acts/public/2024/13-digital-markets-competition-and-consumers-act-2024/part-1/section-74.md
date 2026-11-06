@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Power to enter business premises without a warrant[^key-d21410abc6df926a34a0a6fc2c2dc4e3][^key-1efa65d7cf37590ff04fddff5ac4814a]
+## 74. Power to enter business premises without a warrant[^c-d21410abc6df926a34a0a6fc2c2dc4e3][^c-1efa65d7cf37590ff04fddff5ac4814a]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d21410abc6df926a34a0a6fc2c2dc4e3]: Commencement: S. 74 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d21410abc6df926a34a0a6fc2c2dc4e3]: Commencement: S. 74 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-1efa65d7cf37590ff04fddff5ac4814a]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2024/13/section/74) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-1efa65d7cf37590ff04fddff5ac4814a]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2024/13/section/74) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

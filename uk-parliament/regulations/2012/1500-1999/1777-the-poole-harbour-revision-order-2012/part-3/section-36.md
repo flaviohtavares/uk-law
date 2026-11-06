@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Recovery of charges[^key-b7ef3d13cf0e6d7a64cee80277e8ab40]
+## 36. Recovery of charges[^c-b7ef3d13cf0e6d7a64cee80277e8ab40]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In addition to any other remedy given by this Order and by any other enactment a
 
 ## Annotations
 
-[^key-b7ef3d13cf0e6d7a64cee80277e8ab40]: Commencement: Art. 36 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-b7ef3d13cf0e6d7a64cee80277e8ab40]: Commencement: Art. 36 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

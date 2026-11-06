@@ -23,9 +23,9 @@ summary: ''
 (1) In this Act—
 
 - “**cash voucher**” has the same meaning as in Chapter 4 of Part 3 (see section 75),
-- “[^key-68339526570b6d029efc24aadee5ff2a]**the Contributions and Benefits Act**” means SSCBA 1992 or SSCB(NI)A 1992;
+- “[^c-68339526570b6d029efc24aadee5ff2a]**the Contributions and Benefits Act**” means SSCBA 1992 or SSCB(NI)A 1992;
 - “**credit-token**” has the same meaning as in Chapter 4 of Part 3 (see section 92),
-- “[^key-9b685d72a794b37e4fcd887ab30fa20e]**foreign employer**” means an individual, partnership or body of persons resident outside, and not resident in, the United Kingdom,
+- “[^c-9b685d72a794b37e4fcd887ab30fa20e]**foreign employer**” means an individual, partnership or body of persons resident outside, and not resident in, the United Kingdom,
 - “**non-cash voucher**” has the same meaning as in Chapter 4 of Part 3 (see section 84),
 - ...
 
@@ -35,8 +35,8 @@ summary: ''
 
 (4) For the purposes of this Act the following are members of a person’s family—
 
-- (a) the person’s spouse or civil partner[^key-baa22ee0d42166a2224fb9f22f1dc25e],
-- (b) the person’s children and their spouses or civil partners[^key-bc84792dfefe7c6c2c56250098860494],
+- (a) the person’s spouse or civil partner[^c-baa22ee0d42166a2224fb9f22f1dc25e],
+- (b) the person’s children and their spouses or civil partners[^c-bc84792dfefe7c6c2c56250098860494],
 - (c) the person’s parents, and
 - (d) the person’s dependants.
 
@@ -62,10 +62,10 @@ includes a reference to any amount treated as earnings by any of the provisions 
 
 ## Annotations
 
-[^key-68339526570b6d029efc24aadee5ff2a]: Textual amendment: Words in s. 721(1) inserted (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/85/2), [Sch. 16 para. 7(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/7/2); [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-68339526570b6d029efc24aadee5ff2a]: Textual amendment: Words in s. 721(1) inserted (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/85/2), [Sch. 16 para. 7(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/7/2); [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-9b685d72a794b37e4fcd887ab30fa20e]: Textual amendment: Words in s. 721(1) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/39)
+[^c-9b685d72a794b37e4fcd887ab30fa20e]: Textual amendment: Words in s. 721(1) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/39)
 
-[^key-baa22ee0d42166a2224fb9f22f1dc25e]: Textual amendment: Words in s. 721(4)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [168(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/168/a)
+[^c-baa22ee0d42166a2224fb9f22f1dc25e]: Textual amendment: Words in s. 721(4)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [168(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/168/a)
 
-[^key-bc84792dfefe7c6c2c56250098860494]: Textual amendment: Words in s. 721(4)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [168(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/168/b)
+[^c-bc84792dfefe7c6c2c56250098860494]: Textual amendment: Words in s. 721(4)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [168(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/168/b)

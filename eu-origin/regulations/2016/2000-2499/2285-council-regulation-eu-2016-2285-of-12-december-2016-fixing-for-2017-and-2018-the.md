@@ -33,74 +33,74 @@ of 12 December 2016
 
 fixing for 2017 and 2018 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks and amending Council Regulation (EU) 2016/72 (revoked)
 
-[^key-583c3ffdbf1c200143e16799eb5c3106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-583c3ffdbf1c200143e16799eb5c3106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 1. Subject matter[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 2. Definitions[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. TACs and allocations[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 3. TACs and allocations[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Special provisions on the allocation of fishing opportunities[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 4. Special provisions on the allocation of fishing opportunities[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Conditions for landing catches and by-catches[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 5. Conditions for landing catches and by-catches[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Prohibition[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 6. Prohibition[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Data transmission[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 7. Data transmission[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Amendment to Regulation (EU) 2016/72[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 8. Amendment to Regulation (EU) 2016/72[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-583c3ffdbf1c200143e16799eb5c3106]
+## Article 9. Entry into force[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-583c3ffdbf1c200143e16799eb5c3106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-583c3ffdbf1c200143e16799eb5c3106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-583c3ffdbf1c200143e16799eb5c3106]
+## ANNEX[^c-583c3ffdbf1c200143e16799eb5c3106]
 
-[^key-583c3ffdbf1c200143e16799eb5c3106]
+[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 The references to fishing zones are references to ICES zones, unless otherwise specified.
 
-### PART 1 — Definition of species and species groups[^key-583c3ffdbf1c200143e16799eb5c3106]
+### PART 1 — Definition of species and species groups[^c-583c3ffdbf1c200143e16799eb5c3106]
 
-[^key-583c3ffdbf1c200143e16799eb5c3106]1.
+[^c-583c3ffdbf1c200143e16799eb5c3106]1.
 
 In the list set out in Part 2 of this Annex, fish stocks are referred to according to the alphabetical order of the Latin names of the species. However, deep-sea sharks are placed at the beginning of that list. For the purposes of this Regulation, the following comparative table of common names and Latin names is provided:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-583c3ffdbf1c200143e16799eb5c3106]2.
+[^c-583c3ffdbf1c200143e16799eb5c3106]2.
 
 For the purposes of this Regulation, ‘deep-sea sharks’ means the following list of species:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Annual fishing opportunities (in tonnes live weight)[^key-583c3ffdbf1c200143e16799eb5c3106]
+### PART 2 — Annual fishing opportunities (in tonnes live weight)[^c-583c3ffdbf1c200143e16799eb5c3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-583c3ffdbf1c200143e16799eb5c3106]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-583c3ffdbf1c200143e16799eb5c3106]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

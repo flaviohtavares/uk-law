@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Duties of the Gas and Electricity Markets Authority[^key-337eefc9e1d7528160379ba2b622ad09]
+## 83. Duties of the Gas and Electricity Markets Authority[^c-337eefc9e1d7528160379ba2b622ad09]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-337eefc9e1d7528160379ba2b622ad09]: Commencement: S. 83 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/i)
+[^c-337eefc9e1d7528160379ba2b622ad09]: Commencement: S. 83 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.71. Record of proceedings[^key-82729799bad4a6394a06823eb75ca32d]
+## 4.71. Record of proceedings[^c-82729799bad4a6394a06823eb75ca32d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82729799bad4a6394a06823eb75ca32d]: Commencement: [Rule 4.71](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.71) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-82729799bad4a6394a06823eb75ca32d]: Commencement: [Rule 4.71](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.71) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

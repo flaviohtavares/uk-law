@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Authentication by the overseas court[^key-ebb5d918103a4fd74622a0f12c3de11d]
+## 19. Authentication by the overseas court[^c-ebb5d918103a4fd74622a0f12c3de11d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb5d918103a4fd74622a0f12c3de11d]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2005/3181/article/19) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ebb5d918103a4fd74622a0f12c3de11d]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2005/3181/article/19) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

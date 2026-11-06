@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 622A. Power to make provision about treatment of transactions[^key-319817a9c34f6b806173bc974d726879]
+## 622A. Power to make provision about treatment of transactions[^c-319817a9c34f6b806173bc974d726879]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-319817a9c34f6b806173bc974d726879]: Textual amendment: Pt. 13 Ch. 3A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 50](https://www.legislation.gov.uk/ukpga/2011/11/section/50)
+[^c-319817a9c34f6b806173bc974d726879]: Textual amendment: Pt. 13 Ch. 3A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 50](https://www.legislation.gov.uk/ukpga/2011/11/section/50)

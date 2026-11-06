@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Judge informed after extradition hearing or order that person is charged with offence or serving sentence in United Kingdom[^key-faa99732b220b7759010b6e08fba4ea4]
+## 161. Judge informed after extradition hearing or order that person is charged with offence or serving sentence in United Kingdom[^c-faa99732b220b7759010b6e08fba4ea4]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa99732b220b7759010b6e08fba4ea4]: Commencement: S. 161 in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/g)
+[^c-faa99732b220b7759010b6e08fba4ea4]: Commencement: S. 161 in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/g)

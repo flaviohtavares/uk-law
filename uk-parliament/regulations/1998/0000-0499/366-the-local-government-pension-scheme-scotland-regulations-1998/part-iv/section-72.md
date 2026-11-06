@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. The pension funds[^key-bd87cb42beaefd304e1bf04783332f79]
+## 72. The pension funds[^c-bd87cb42beaefd304e1bf04783332f79]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ The bodies responsible for maintaining pension funds for the Scheme immediately 
 
 ## Annotations
 
-[^key-bd87cb42beaefd304e1bf04783332f79]: Commencement: Reg. 72 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-bd87cb42beaefd304e1bf04783332f79]: Commencement: Reg. 72 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328. Duty to publicise OFCOM’s functions in relation to complaints[^key-ecfa16a8070e986ffb66ef546798f755]
+## 328. Duty to publicise OFCOM’s functions in relation to complaints[^c-ecfa16a8070e986ffb66ef546798f755]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ are brought to the attention of the public (whether by means of broadcasts or ot
 
 ## Annotations
 
-[^key-ecfa16a8070e986ffb66ef546798f755]: Commencement: S. 328 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ecfa16a8070e986ffb66ef546798f755]: Commencement: S. 328 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

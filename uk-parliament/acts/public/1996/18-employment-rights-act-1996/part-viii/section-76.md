@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State shall make regulations entitling an employee who satisfies specified conditions—
 
-- (a)[^key-c0962b1c426dbd0fb9449ebe93ee72c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c0962b1c426dbd0fb9449ebe93ee72c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) as to having, or expecting to have, responsibility for a child,
 
 to be absent from work on parental leave for the purpose of caring for a child.
@@ -56,4 +56,4 @@ to be absent from work on parental leave for the purpose of caring for a child.
 
 [^c16328681]: Textual amendment: Pt. 8 (ss. 71-80) substituted for Pt. 8 (ss. 71-85) (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 7](https://www.legislation.gov.uk/ukpga/1999/26/section/7), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/1); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/2) (with transitional provisions in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10))
 
-[^key-c0962b1c426dbd0fb9449ebe93ee72c7]: Textual amendment: [S. 76(1)(a)](https://www.legislation.gov.uk/ukpga/1996/18/section/76/1/a) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 15](https://www.legislation.gov.uk/ukpga/2025/36/section/15), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 3(2)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/3/regulation/4/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))
+[^c-c0962b1c426dbd0fb9449ebe93ee72c7]: Textual amendment: [S. 76(1)(a)](https://www.legislation.gov.uk/ukpga/1996/18/section/76/1/a) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 15](https://www.legislation.gov.uk/ukpga/2025/36/section/15), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 3(2)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/3/regulation/4/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))

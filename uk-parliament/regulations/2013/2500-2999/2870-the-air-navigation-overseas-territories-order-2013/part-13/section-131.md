@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Dropping of persons[^key-ed46cb16e4034d56674d3f7a8f1de2dd]
+## 131. Dropping of persons[^c-ed46cb16e4034d56674d3f7a8f1de2dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed46cb16e4034d56674d3f7a8f1de2dd]: Commencement: [Art. 131](https://www.legislation.gov.uk/uksi/2013/2870/article/131) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ed46cb16e4034d56674d3f7a8f1de2dd]: Commencement: [Art. 131](https://www.legislation.gov.uk/uksi/2013/2870/article/131) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

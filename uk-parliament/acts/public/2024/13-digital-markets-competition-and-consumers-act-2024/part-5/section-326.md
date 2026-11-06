@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326. Disclosing information overseas[^key-c6697d05570f7c44f5127229b46ad5e0][^key-2aa430728afdf4478794c6f01293ad9b]
+## 326. Disclosing information overseas[^c-c6697d05570f7c44f5127229b46ad5e0][^c-2aa430728afdf4478794c6f01293ad9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -208,6 +208,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6697d05570f7c44f5127229b46ad5e0]: Commencement: S. 326 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-c6697d05570f7c44f5127229b46ad5e0]: Commencement: S. 326 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-2aa430728afdf4478794c6f01293ad9b]: Commencement: [S. 326](https://www.legislation.gov.uk/ukpga/2024/13/section/326) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/5/a) (with [Sch. paras. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-2aa430728afdf4478794c6f01293ad9b]: Commencement: [S. 326](https://www.legislation.gov.uk/ukpga/2024/13/section/326) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/5/a) (with [Sch. paras. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

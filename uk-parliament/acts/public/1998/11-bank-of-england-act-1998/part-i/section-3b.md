@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3B. Oversight Committee: procedure[^key-8dd22db6087728c4831f0f5ef0a94b90]
+## 3B. Oversight Committee: procedure[^c-8dd22db6087728c4831f0f5ef0a94b90]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dd22db6087728c4831f0f5ef0a94b90]: Textual amendment: S. 3B omitted (6.7.2016) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14) , [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2016/14/section/3/4) , [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3) ); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627) , [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/d)
+[^c-8dd22db6087728c4831f0f5ef0a94b90]: Textual amendment: S. 3B omitted (6.7.2016) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14) , [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2016/14/section/3/4) , [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3) ); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627) , [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/d)

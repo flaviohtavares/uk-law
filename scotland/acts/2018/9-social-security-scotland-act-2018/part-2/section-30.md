@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Winter heating assistance[^key-d86501594c963f95510f036c5693e80d]
+## 30. Winter heating assistance[^c-d86501594c963f95510f036c5693e80d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d86501594c963f95510f036c5693e80d]: Commencement: S. 30 in force at 1.9.2020 by [S.S.I. 2020/127](https://www.legislation.gov.uk/ssi/2020/127), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/127/regulation/2/2/a)
+[^c-d86501594c963f95510f036c5693e80d]: Commencement: S. 30 in force at 1.9.2020 by [S.S.I. 2020/127](https://www.legislation.gov.uk/ssi/2020/127), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/127/regulation/2/2/a)

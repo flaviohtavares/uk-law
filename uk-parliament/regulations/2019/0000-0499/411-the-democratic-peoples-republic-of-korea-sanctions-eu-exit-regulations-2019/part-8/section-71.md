@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Prohibition on port entry[^key-2ffc1b8c6896b27812908153e3c133c2][^key-6fc2c86a81b52a30e85b2b9eb6a4d46e]
+## 71. Prohibition on port entry[^c-2ffc1b8c6896b27812908153e3c133c2][^c-6fc2c86a81b52a30e85b2b9eb6a4d46e]
 
 *Extent: E+W+S+N.I.*
 
-(1) A person must not provide a ship to which this paragraph applies with access to a port in the United Kingdom[^key-8d7a30f69379010385282efead2f4ae8], if the person knows, or has reasonable cause to suspect, that the ship is a ship to which this paragraph applies.
+(1) A person must not provide a ship to which this paragraph applies with access to a port in the United Kingdom[^c-8d7a30f69379010385282efead2f4ae8], if the person knows, or has reasonable cause to suspect, that the ship is a ship to which this paragraph applies.
 
-(2) The master or pilot of a ship to which this paragraph applies must not cause or permit the ship to enter a port in the United Kingdom[^key-2f401e8aa463a4dac311c4dc1defa5ab] if the master or pilot knows, or has reasonable cause to suspect, that the ship is a ship to which this paragraph applies.
+(2) The master or pilot of a ship to which this paragraph applies must not cause or permit the ship to enter a port in the United Kingdom[^c-2f401e8aa463a4dac311c4dc1defa5ab] if the master or pilot knows, or has reasonable cause to suspect, that the ship is a ship to which this paragraph applies.
 
 (3) Paragraphs (1) and (2) are subject to Part 9 (Exceptions and licences) (see, in particular, regulation 86).
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2ffc1b8c6896b27812908153e3c133c2]: Commencement: Reg. 71 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-2ffc1b8c6896b27812908153e3c133c2]: Commencement: Reg. 71 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-6fc2c86a81b52a30e85b2b9eb6a4d46e]: Commencement: Reg. 71 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fc2c86a81b52a30e85b2b9eb6a4d46e]: Commencement: Reg. 71 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d7a30f69379010385282efead2f4ae8]: Textual amendment: Words in [reg. 71(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/71/1) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/9/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-8d7a30f69379010385282efead2f4ae8]: Textual amendment: Words in [reg. 71(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/71/1) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/9/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
 
-[^key-2f401e8aa463a4dac311c4dc1defa5ab]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/71/2) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/9/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-2f401e8aa463a4dac311c4dc1defa5ab]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/71/2) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/9/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

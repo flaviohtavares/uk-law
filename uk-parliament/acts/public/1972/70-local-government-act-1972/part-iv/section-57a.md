@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57A. Exercise of functions by the Welsh Commission on behalf of principal councils[^key-36256c383ee615ee6ab179ac3a0bb9df]
+## 57A. Exercise of functions by the Welsh Commission on behalf of principal councils[^c-36256c383ee615ee6ab179ac3a0bb9df]
 
 *Extent: W.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36256c383ee615ee6ab179ac3a0bb9df]: Textual amendment: S. 57A repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-36256c383ee615ee6ab179ac3a0bb9df]: Textual amendment: S. 57A repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)

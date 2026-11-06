@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5709821962429d8d49b9c44b83e681bb] The 2005 Act is amended as follows.
+(1)[^c-5709821962429d8d49b9c44b83e681bb] The 2005 Act is amended as follows.
 
-(2)[^key-d2b5d182bc651e18091df135da0bf09f][^key-d895b2a561d5ec65db68aeb0f5db2625] After section 40 insert—
+(2)[^c-d2b5d182bc651e18091df135da0bf09f][^c-d895b2a561d5ec65db68aeb0f5db2625] After section 40 insert—
 
 > **Connected persons and interested parties**
 >
@@ -51,8 +51,8 @@ summary: ''
 (3) In section 48 (notification of change of name or address)—
 
 - (a) in subsection (1)—
-  - (i)[^key-5709821962429d8d49b9c44b83e681bb] the word “or” immediately following paragraph (a) is repealed, and
-  - (ii)[^key-7c15bec1de3153cb03e086546740b311][^key-d895b2a561d5ec65db68aeb0f5db2625] after paragraph (b) insert
+  - (i)[^c-5709821962429d8d49b9c44b83e681bb] the word “or” immediately following paragraph (a) is repealed, and
+  - (ii)[^c-7c15bec1de3153cb03e086546740b311][^c-d895b2a561d5ec65db68aeb0f5db2625] after paragraph (b) insert
 
     > , or
     >
@@ -61,13 +61,13 @@ summary: ''
     >   - (ii) an interested party in relation to the licensed premises,
 
     ,
-- (b)[^key-5709821962429d8d49b9c44b83e681bb] after subsection (2) insert—
+- (b)[^c-5709821962429d8d49b9c44b83e681bb] after subsection (2) insert—
 
   > (2A) Where a Licensing Board receives a notice under subsection (1), the Board must give a copy of the notice to the appropriate chief constable.
 
   .
 
-(4)[^key-e195838a5b092b9959ea1ea9bbdf4d86] In section 147 (interpretation), after subsection (4) insert—
+(4)[^c-e195838a5b092b9959ea1ea9bbdf4d86] In section 147 (interpretation), after subsection (4) insert—
 
 > (5) For the purposes of this Act, a person is an interested party in relation to licensed premises if the person is not the holder of the premises licence nor the premises manager in respect of the premises but—
 >
@@ -76,7 +76,7 @@ summary: ''
 
 .
 
-(5)[^key-e195838a5b092b9959ea1ea9bbdf4d86] In section 148 (index of defined expressions), in the table, insert at the appropriate place—
+(5)[^c-e195838a5b092b9959ea1ea9bbdf4d86] In section 148 (index of defined expressions), in the table, insert at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -86,12 +86,12 @@ summary: ''
 
 ## Annotations
 
-[^key-5709821962429d8d49b9c44b83e681bb]: Commencement: S. 184(1)(3)(a)(i)(b) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-5709821962429d8d49b9c44b83e681bb]: Commencement: S. 184(1)(3)(a)(i)(b) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-d2b5d182bc651e18091df135da0bf09f]: Commencement: S. 184(2) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-d2b5d182bc651e18091df135da0bf09f]: Commencement: S. 184(2) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-d895b2a561d5ec65db68aeb0f5db2625]: Commencement: [S. 184(2)](https://www.legislation.gov.uk/asp/2010/13/section/184/2)[(3)(a)(ii)](https://www.legislation.gov.uk/asp/2010/13/section/184/3/a/ii) in force at 29.6.2018 in so far as not already in force by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
+[^c-d895b2a561d5ec65db68aeb0f5db2625]: Commencement: [S. 184(2)](https://www.legislation.gov.uk/asp/2010/13/section/184/2)[(3)(a)(ii)](https://www.legislation.gov.uk/asp/2010/13/section/184/3/a/ii) in force at 29.6.2018 in so far as not already in force by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
 
-[^key-7c15bec1de3153cb03e086546740b311]: Commencement: S. 184(3)(a)(ii) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-7c15bec1de3153cb03e086546740b311]: Commencement: S. 184(3)(a)(ii) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-e195838a5b092b9959ea1ea9bbdf4d86]: Commencement: [S. 184(4)](https://www.legislation.gov.uk/asp/2010/13/section/184/4)[(5)](https://www.legislation.gov.uk/asp/2010/13/section/184/5) in force at 29.6.2018 by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
+[^c-e195838a5b092b9959ea1ea9bbdf4d86]: Commencement: [S. 184(4)](https://www.legislation.gov.uk/asp/2010/13/section/184/4)[(5)](https://www.legislation.gov.uk/asp/2010/13/section/184/5) in force at 29.6.2018 by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)

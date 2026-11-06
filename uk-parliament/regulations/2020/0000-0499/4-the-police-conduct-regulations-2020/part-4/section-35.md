@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Notice of misconduct proceedings and panel[^key-d49b379eb797024ed8504fd973c038d5]
+## 35. Notice of misconduct proceedings and panel[^c-d49b379eb797024ed8504fd973c038d5]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d49b379eb797024ed8504fd973c038d5]: Commencement: Reg. 35 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-d49b379eb797024ed8504fd973c038d5]: Commencement: Reg. 35 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

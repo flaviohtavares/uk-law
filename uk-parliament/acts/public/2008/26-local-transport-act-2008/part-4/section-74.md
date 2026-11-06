@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Power to confer non-rail functions on the Rail Passengers' Council[^c2199636][^key-4d6261bec74f607ce5b1045aac05cca9]
+## 74. Power to confer non-rail functions on the Rail Passengers' Council[^c2199636][^c-4d6261bec74f607ce5b1045aac05cca9]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ In Part 3 of the Railways Act 2005 (c. 14), after section 19 insert—
 
 [^c2199636]: Commencement: S. 74 partly in force; s. 74 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-4d6261bec74f607ce5b1045aac05cca9]: Commencement: S. 74 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-4d6261bec74f607ce5b1045aac05cca9]: Commencement: S. 74 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

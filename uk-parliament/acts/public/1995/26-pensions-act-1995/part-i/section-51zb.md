@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51ZB. Meaning of “cash balance benefit”[^key-f191ea979d8c2be8dcdfd8160e0820e3][^key-4ca1484245b593dee936ce0c409b4de0]
+## 51ZB. Meaning of “cash balance benefit”[^c-f191ea979d8c2be8dcdfd8160e0820e3][^c-4ca1484245b593dee936ce0c409b4de0]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f191ea979d8c2be8dcdfd8160e0820e3]: Modification: [Ss. 51-54](https://www.legislation.gov.uk/ukpga/1995/26/section/51) modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
+[^c-f191ea979d8c2be8dcdfd8160e0820e3]: Modification: [Ss. 51-54](https://www.legislation.gov.uk/ukpga/1995/26/section/51) modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
 
-[^key-4ca1484245b593dee936ce0c409b4de0]: Textual amendment: [S. 51ZB](https://www.legislation.gov.uk/ukpga/1995/26/section/51ZB) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/21/4), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/c)
+[^c-4ca1484245b593dee936ce0c409b4de0]: Textual amendment: [S. 51ZB](https://www.legislation.gov.uk/ukpga/1995/26/section/51ZB) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/21/4), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/c)

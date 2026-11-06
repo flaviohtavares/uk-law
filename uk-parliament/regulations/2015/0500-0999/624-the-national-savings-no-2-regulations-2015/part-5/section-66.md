@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Payments in the case of holders under sixteen years of age[^key-138204378b988a4f3d11da5d46f9d846]
+## 66. Payments in the case of holders under sixteen years of age[^c-138204378b988a4f3d11da5d46f9d846]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-138204378b988a4f3d11da5d46f9d846]: Commencement: Reg. 66 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-138204378b988a4f3d11da5d46f9d846]: Commencement: Reg. 66 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

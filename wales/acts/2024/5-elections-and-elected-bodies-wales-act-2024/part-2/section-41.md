@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Review period for principal area reviews[^key-1c8f3c2136b9df69bd50db2267c23c30]
+## 41. Review period for principal area reviews[^c-1c8f3c2136b9df69bd50db2267c23c30]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8f3c2136b9df69bd50db2267c23c30]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2024/5/section/41) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-1c8f3c2136b9df69bd50db2267c23c30]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2024/5/section/41) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

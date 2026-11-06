@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Calculation of taxable weight of material by WRA: cases of non-compliance[^key-31a730f926326e6d11bb9f80fd130cc4]
+## 23. Calculation of taxable weight of material by WRA: cases of non-compliance[^c-31a730f926326e6d11bb9f80fd130cc4]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ WRA may take the steps set out in subsection (5).
 
 ## Annotations
 
-[^key-31a730f926326e6d11bb9f80fd130cc4]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2017/3/section/23) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-31a730f926326e6d11bb9f80fd130cc4]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2017/3/section/23) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

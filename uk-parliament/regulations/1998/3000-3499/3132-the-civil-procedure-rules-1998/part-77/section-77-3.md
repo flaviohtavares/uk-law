@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77.3. Applications by third parties to make representations and applications to vary or discharge a SCPO made by the High Court[^key-e455d640811289f5ed1b2bb5d1e01619]
+## 77.3. Applications by third parties to make representations and applications to vary or discharge a SCPO made by the High Court[^c-e455d640811289f5ed1b2bb5d1e01619]
 
 *Extent: E+W*
 
@@ -25,10 +25,10 @@ An application under—
 - (a) section 9 of the 2007 Act; or
 - (b) section 17 or 18 of the 2007 Act to vary or discharge a SCPO made by the High Court,
 
-must be made in accordance with Part 23 as modified by Practice Direction 77.[^key-155cbc7f7d19688a8210e81ce611b0be]
+must be made in accordance with Part 23 as modified by Practice Direction 77.[^c-155cbc7f7d19688a8210e81ce611b0be]
 
 ## Annotations
 
-[^key-e455d640811289f5ed1b2bb5d1e01619]: Textual amendment: Pt. 77 inserted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rule 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2007/3543/schedule)
+[^c-e455d640811289f5ed1b2bb5d1e01619]: Textual amendment: Pt. 77 inserted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rule 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2007/3543/schedule)
 
-[^key-155cbc7f7d19688a8210e81ce611b0be]: Textual amendment: Words in [rule 77.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/77.3) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [51(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/51/a)
+[^c-155cbc7f7d19688a8210e81ce611b0be]: Textual amendment: Words in [rule 77.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/77.3) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [51(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/51/a)

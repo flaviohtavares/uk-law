@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Interpretation: general[^key-524b927e8580f0a4facdad2495492828]
+## 151. Interpretation: general[^c-524b927e8580f0a4facdad2495492828]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f3c0d660c29a70f3bbd4a35ec4a3150d][^key-a768e0853b200664ba63ccdb592f8bb7] In this Part—
+(1)[^c-f3c0d660c29a70f3bbd4a35ec4a3150d][^c-a768e0853b200664ba63ccdb592f8bb7] In this Part—
 
 - “**the Advisory Board**” means the Advisory Board established under section 93;
 - “**ancillary offence**”, in relation to an offence under any provision of relevant labour market legislation, means—
@@ -65,7 +65,7 @@ summary: ''
 - “**underpaid individual**”, in relation to a notice of underpayment, has the meaning given by section 103(1);
 - “**worker**” (except in section 102) has the meaning given by subsection (5).
 
-(2)[^key-65a3a7f32ef60ab85aa828670905381e] In this Part “**employer**” means any of the following—
+(2)[^c-65a3a7f32ef60ab85aa828670905381e] In this Part “**employer**” means any of the following—
 
 - (a) an employer within the meaning of section 230(4) of the Employment Rights Act 1996 or Article 3(4) of the Employment Rights (Northern Ireland) Order 1996 ([S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919));
 - (b) a person who is an employer for the purposes of Part 4A of the Employment Rights Act 1996 in relation to a worker mentioned in section 43K(2) of that Act;
@@ -96,7 +96,7 @@ summary: ''
 - “**offshore installation**” has the same meaning as in the Mineral Workings (Offshore Installations) Act 1971;
 - “**renewable energy installation**” has the meaning given by section 104 of the Energy Act 2004.
 
-(5)[^key-65a3a7f32ef60ab85aa828670905381e] In this Part “**worker**” means any of the following—
+(5)[^c-65a3a7f32ef60ab85aa828670905381e] In this Part “**worker**” means any of the following—
 
 - (a) a worker within the meaning of section 230(3) of the Employment Rights Act 1996 or Article 3(3) of the Employment Rights (Northern Ireland) Order 1996 ([S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919));
 - (b) an individual who is not a worker as defined by section 230(3) of the Employment Rights Act 1996 but who is a worker for the purposes of Part 4A of that Act (see section 43K(1) of that Act);
@@ -111,12 +111,12 @@ summary: ''
 
 ## Annotations
 
-[^key-524b927e8580f0a4facdad2495492828]: Commencement: S. 151 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-524b927e8580f0a4facdad2495492828]: Commencement: S. 151 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f3c0d660c29a70f3bbd4a35ec4a3150d]: Commencement: [S. 151(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(34)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/34/a)
+[^c-f3c0d660c29a70f3bbd4a35ec4a3150d]: Commencement: [S. 151(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(34)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/34/a)
 
-[^key-a768e0853b200664ba63ccdb592f8bb7]: Commencement: [S. 151(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/1) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(51)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/51) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/323/regulation/7))
+[^c-a768e0853b200664ba63ccdb592f8bb7]: Commencement: [S. 151(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/1) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(51)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/51) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/323/regulation/7))
 
-[^key-65a3a7f32ef60ab85aa828670905381e]: Commencement: [S. 151(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/5) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(34)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/34/b)
+[^c-65a3a7f32ef60ab85aa828670905381e]: Commencement: [S. 151(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/151/5) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(34)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/34/b)
 
 [^M_I_843a631a-3c3b-4286-be76-7ee15f9b18e7]: Commencement: S. 151(3)(4) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(2)(51)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/51) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/323/regulation/7))

@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Interpretation of Part 3[^key-696e4e6e9cf35f0a14a0f05078e04131]
+## 80. Interpretation of Part 3[^c-696e4e6e9cf35f0a14a0f05078e04131]
 
 *Extent: S*
 
 (1) In this Part, unless the context otherwise requires—
 
 - a person becomes a “candidate” in relation to a Scottish parliamentary election—
-  - (a) on the date [^key-c6a5d0029c6e18db46509a533b931a53]...—
-    - (i) which is 27 days before the date of the poll, computed in accordance with rule 2 of the Scottish Parliamentary Election Rules (computation of time)[^key-c157f05fc7dd146e93f4c5ab098876d4]; or
-    - (ii) in the case of an election under section 9 of the 1998 Act (constituency vacancies), of[^key-3f6ff03a6efdb7361ebdb7caa712f3da] the occurrence of the vacancy,
+  - (a) on the date [^c-c6a5d0029c6e18db46509a533b931a53]...—
+    - (i) which is 27 days before the date of the poll, computed in accordance with rule 2 of the Scottish Parliamentary Election Rules (computation of time)[^c-c157f05fc7dd146e93f4c5ab098876d4]; or
+    - (ii) in the case of an election under section 9 of the 1998 Act (constituency vacancies), of[^c-3f6ff03a6efdb7361ebdb7caa712f3da] the occurrence of the vacancy,
 
-    in connection with[^key-639caee9f87a3dad2e99cfe08837a1f5] which the notice of election is issued if on or before that date the person has been declared to be a candidate at the election; and
+    in connection with[^c-639caee9f87a3dad2e99cfe08837a1f5] which the notice of election is issued if on or before that date the person has been declared to be a candidate at the election; and
   - (b) otherwise, on the day on which the person is so declared or on which the person is nominated as a candidate at the election (whichever is the earlier);
 - “date of the allowance of an authorised excuse” has the meaning given by article 53(9);
 - “declaration as to election expenses” means a declaration made under article 48 or 49;
@@ -51,12 +51,12 @@ summary: ''
 
 ## Annotations
 
-[^key-696e4e6e9cf35f0a14a0f05078e04131]: Commencement: Art. 80 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-696e4e6e9cf35f0a14a0f05078e04131]: Commencement: Art. 80 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-c6a5d0029c6e18db46509a533b931a53]: Textual amendment: Word in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) omitted (with effect in accordance with art. 1(2) of the amending S.S.I.) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2025/313/article/9/a)
+[^c-c6a5d0029c6e18db46509a533b931a53]: Textual amendment: Word in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) omitted (with effect in accordance with art. 1(2) of the amending S.S.I.) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2025/313/article/9/a)
 
-[^key-c157f05fc7dd146e93f4c5ab098876d4]: Textual amendment: Words in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2025/313/article/9/b)
+[^c-c157f05fc7dd146e93f4c5ab098876d4]: Textual amendment: Words in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2025/313/article/9/b)
 
-[^key-3f6ff03a6efdb7361ebdb7caa712f3da]: Textual amendment: Word in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(c)](https://www.legislation.gov.uk/ssi/2025/313/article/9/c)
+[^c-3f6ff03a6efdb7361ebdb7caa712f3da]: Textual amendment: Word in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(c)](https://www.legislation.gov.uk/ssi/2025/313/article/9/c)
 
-[^key-639caee9f87a3dad2e99cfe08837a1f5]: Textual amendment: Words in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(d)](https://www.legislation.gov.uk/ssi/2025/313/article/9/d)
+[^c-639caee9f87a3dad2e99cfe08837a1f5]: Textual amendment: Words in [art. 80(1)](https://www.legislation.gov.uk/ssi/2015/425/article/80/1) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [9(d)](https://www.legislation.gov.uk/ssi/2025/313/article/9/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Complaints made on or after 1st April 2019 about acts or omissions before that date[^key-cd0dca2cc5c6289d36dccf7a16b33907][^key-e1da69e50d6cb165e491a1f72b422c7d]
+## 70. Complaints made on or after 1st April 2019 about acts or omissions before that date[^c-cd0dca2cc5c6289d36dccf7a16b33907][^c-e1da69e50d6cb165e491a1f72b422c7d]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd0dca2cc5c6289d36dccf7a16b33907]: Commencement: Art. 70 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-cd0dca2cc5c6289d36dccf7a16b33907]: Commencement: Art. 70 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-e1da69e50d6cb165e491a1f72b422c7d]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2018/1253/article/70) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-e1da69e50d6cb165e491a1f72b422c7d]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2018/1253/article/70) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Support needs[^key-6bc90d4864b5382ec6ba94c7ad979fbb]
+## 8. Support needs[^c-6bc90d4864b5382ec6ba94c7ad979fbb]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bc90d4864b5382ec6ba94c7ad979fbb]: Commencement: S. 8 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-6bc90d4864b5382ec6ba94c7ad979fbb]: Commencement: S. 8 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

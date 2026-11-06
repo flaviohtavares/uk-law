@@ -30,7 +30,7 @@ summary: ''
 
 HORSE RACING AND BETTING
 
-Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1997 (revoked)[^key-f85925eb2866e79170dd0932e6853398]
+Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1997 (revoked)[^c-f85925eb2866e79170dd0932e6853398]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 3rd September 1997
 
-[^key-f85925eb2866e79170dd0932e6853398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f85925eb2866e79170dd0932e6853398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f85925eb2866e79170dd0932e6853398]
+## 1. Citation and commencement[^c-f85925eb2866e79170dd0932e6853398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Charges on bookmakers[^key-f85925eb2866e79170dd0932e6853398]
+## 2. Charges on bookmakers[^c-f85925eb2866e79170dd0932e6853398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f85925eb2866e79170dd0932e6853398]
+## 3. Revocation[^c-f85925eb2866e79170dd0932e6853398]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f85925eb2866e79170dd0932e6853398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f85925eb2866e79170dd0932e6853398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f85925eb2866e79170dd0932e6853398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f85925eb2866e79170dd0932e6853398]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f85925eb2866e79170dd0932e6853398]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/353) revoked (1.7.1998) by [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/194)](https://www.legislation.gov.uk/nisr/1998/194), [arts. 1](https://www.legislation.gov.uk/nisr/1998/194/article/1), [3](https://www.legislation.gov.uk/nisr/1998/194/article/3)
+[^c-f85925eb2866e79170dd0932e6853398]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/353) revoked (1.7.1998) by [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/194)](https://www.legislation.gov.uk/nisr/1998/194), [arts. 1](https://www.legislation.gov.uk/nisr/1998/194/article/1), [3](https://www.legislation.gov.uk/nisr/1998/194/article/3)

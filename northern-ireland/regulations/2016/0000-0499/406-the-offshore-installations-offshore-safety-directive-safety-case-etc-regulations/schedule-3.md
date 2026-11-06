@@ -22,15 +22,15 @@ summary: ''
 
 Regulations 7(3) and 8(4)
 
-**1.**[^key-d98d18cb18b435b1aa99b7fed6f7d70f] The need to take appropriate measures to ensure as far as reasonably practicable that there is no unplanned escape of hazardous substances from pipelines, vessels and systems intended for their safe confinement. In addition, the need to ensure that no single failure of a containment barrier can lead to a major accident.
+**1.**[^c-d98d18cb18b435b1aa99b7fed6f7d70f] The need to take appropriate measures to ensure as far as reasonably practicable that there is no unplanned escape of hazardous substances from pipelines, vessels and systems intended for their safe confinement. In addition, the need to ensure that no single failure of a containment barrier can lead to a major accident.
 
-**2.**[^key-7c99342013c35e32147f473ebe169e1f] The need to pay particular attention to evaluation of the reliability and integrity requirements of all safety and environmental-critical systems and base inspection and maintenance systems on achieving the required level of safety and environmental integrity.
+**2.**[^c-7c99342013c35e32147f473ebe169e1f] The need to pay particular attention to evaluation of the reliability and integrity requirements of all safety and environmental-critical systems and base inspection and maintenance systems on achieving the required level of safety and environmental integrity.
 
-**3.**[^key-1746c83c15cf4c8c4c8bdcd87a09fd25] The need to adopt suitable measures to use suitable technical means or procedures in order to promote the reliability of the collection and recording of relevant data and to prevent possible manipulation of that data.
+**3.**[^c-1746c83c15cf4c8c4c8bdcd87a09fd25] The need to adopt suitable measures to use suitable technical means or procedures in order to promote the reliability of the collection and recording of relevant data and to prevent possible manipulation of that data.
 
-**4.**[^key-5f9c941545e3c16d28363f877a4bbff2] The need to ensure there is a suitable framework for monitoring compliance with all relevant statutory provisions by incorporating statutory duties in respect of major hazards control and environmental protection into standard operating procedures.
+**4.**[^c-5f9c941545e3c16d28363f877a4bbff2] The need to ensure there is a suitable framework for monitoring compliance with all relevant statutory provisions by incorporating statutory duties in respect of major hazards control and environmental protection into standard operating procedures.
 
-**5.**[^key-1268b3a87b0f7fa878934a5c7e1e35b0] The need to pay particular attention to building and maintaining a strong safety culture with a high likelihood of continuous safe operation, including with regard to securing cooperation of employees and contractors through, among other things—
+**5.**[^c-1268b3a87b0f7fa878934a5c7e1e35b0] The need to pay particular attention to building and maintaining a strong safety culture with a high likelihood of continuous safe operation, including with regard to securing cooperation of employees and contractors through, among other things—
 
 - (a) visible commitment to tripartite consultations and actions arising from them;
 - (b) encouraging and rewarding reporting of accidents and near-misses;
@@ -39,12 +39,12 @@ Regulations 7(3) and 8(4)
 
 ## Annotations
 
-[^key-d98d18cb18b435b1aa99b7fed6f7d70f]: Commencement: Sch. 3 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-d98d18cb18b435b1aa99b7fed6f7d70f]: Commencement: Sch. 3 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-7c99342013c35e32147f473ebe169e1f]: Commencement: Sch. 3 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-7c99342013c35e32147f473ebe169e1f]: Commencement: Sch. 3 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-1746c83c15cf4c8c4c8bdcd87a09fd25]: Commencement: Sch. 3 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-1746c83c15cf4c8c4c8bdcd87a09fd25]: Commencement: Sch. 3 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-5f9c941545e3c16d28363f877a4bbff2]: Commencement: Sch. 3 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-5f9c941545e3c16d28363f877a4bbff2]: Commencement: Sch. 3 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-1268b3a87b0f7fa878934a5c7e1e35b0]: Commencement: Sch. 3 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-1268b3a87b0f7fa878934a5c7e1e35b0]: Commencement: Sch. 3 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

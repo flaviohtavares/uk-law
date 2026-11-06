@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**10.**[^key-6b1e2c4db73e48064866c4aa8f4568f3] (1) Section 11 (contribution towards cost of widow’s and children’s pension) is amended as follows.
+**10.**[^c-6b1e2c4db73e48064866c4aa8f4568f3] (1) Section 11 (contribution towards cost of widow’s and children’s pension) is amended as follows.
 
 (2) In subsections (1), (2) and (3) after “spouse” insert “or civil partner”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b1e2c4db73e48064866c4aa8f4568f3]: Commencement: Art. 10 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-6b1e2c4db73e48064866c4aa8f4568f3]: Commencement: Art. 10 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

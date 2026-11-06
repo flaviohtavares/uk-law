@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24C. Overlapping benefits[^key-1158c1bde1b6c0943eb9260cc780590f][^c2179251]
+## 24C. Overlapping benefits[^c-1158c1bde1b6c0943eb9260cc780590f][^c2179251]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ there shall be deducted from the armed forces independence payment the aggregate
 
 ## Annotations
 
-[^key-1158c1bde1b6c0943eb9260cc780590f]: Textual amendment: Art. 24C substituted (10.4.2017) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2017 (S.I. 2017/247)](https://www.legislation.gov.uk/uksi/2017/247), [arts. 1](https://www.legislation.gov.uk/uksi/2017/247/article/1), [6](https://www.legislation.gov.uk/uksi/2017/247/article/6)
+[^c-1158c1bde1b6c0943eb9260cc780590f]: Textual amendment: Art. 24C substituted (10.4.2017) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2017 (S.I. 2017/247)](https://www.legislation.gov.uk/uksi/2017/247), [arts. 1](https://www.legislation.gov.uk/uksi/2017/247/article/1), [6](https://www.legislation.gov.uk/uksi/2017/247/article/6)
 
 [^c2179251]: Textual amendment: Arts. 24A-24F inserted (8.4.2013) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2013 (S.I. 2013/436)](https://www.legislation.gov.uk/uksi/2013/436), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/436/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/436/article/2/4)

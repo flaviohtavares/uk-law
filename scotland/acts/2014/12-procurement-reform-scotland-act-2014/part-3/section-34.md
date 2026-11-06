@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Withholding information[^key-9587201b1ec0e1bb98cb6eaf50d81ed8]
+## 34. Withholding information[^c-9587201b1ec0e1bb98cb6eaf50d81ed8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Despite sections 32 and 33, the contracting authority may withhold information f
 
 ## Annotations
 
-[^key-9587201b1ec0e1bb98cb6eaf50d81ed8]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/12/section/34) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-9587201b1ec0e1bb98cb6eaf50d81ed8]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/12/section/34) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

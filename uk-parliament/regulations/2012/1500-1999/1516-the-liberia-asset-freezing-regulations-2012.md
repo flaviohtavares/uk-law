@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Liberia (Asset-Freezing) Regulations 2012 (revoked)[^key-7fab2bf3e9075add39cb81561d042048]
+The Liberia (Asset-Freezing) Regulations 2012 (revoked)[^c-7fab2bf3e9075add39cb81561d042048]
 
 Made
 
@@ -46,118 +46,118 @@ Coming into force
 
 5th July 2012
 
-[^key-7fab2bf3e9075add39cb81561d042048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fab2bf3e9075add39cb81561d042048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-7fab2bf3e9075add39cb81561d042048]
+## 1. Citation, commencement and application[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7fab2bf3e9075add39cb81561d042048]
+## 2. Interpretation[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Freezing of funds and economic resources[^key-7fab2bf3e9075add39cb81561d042048]
+## 3. Freezing of funds and economic resources[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Making funds available to a designated person[^key-7fab2bf3e9075add39cb81561d042048]
+## 4. Making funds available to a designated person[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making funds available for the benefit of a designated person[^key-7fab2bf3e9075add39cb81561d042048]
+## 5. Making funds available for the benefit of a designated person[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Making economic resources available to a designated person[^key-7fab2bf3e9075add39cb81561d042048]
+## 6. Making economic resources available to a designated person[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Making economic resources available for the benefit of a designated person[^key-7fab2bf3e9075add39cb81561d042048]
+## 7. Making economic resources available for the benefit of a designated person[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Credits to a frozen account[^key-7fab2bf3e9075add39cb81561d042048]
+## 8. Credits to a frozen account[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Licences[^key-7fab2bf3e9075add39cb81561d042048]
+## 9. Licences[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Contravention and circumvention of prohibitions[^key-7fab2bf3e9075add39cb81561d042048]
+## 10. Contravention and circumvention of prohibitions[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information provisions[^key-7fab2bf3e9075add39cb81561d042048]
+## 11. Information provisions[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Officers of a body corporate etc.[^key-7fab2bf3e9075add39cb81561d042048]
+## 12. Officers of a body corporate etc.[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Penalties[^key-7fab2bf3e9075add39cb81561d042048]
+## 13. Penalties[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Proceedings[^key-7fab2bf3e9075add39cb81561d042048]
+## 14. Proceedings[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Consent to prosecution[^key-7fab2bf3e9075add39cb81561d042048]
+## 15. Consent to prosecution[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Notices[^key-7fab2bf3e9075add39cb81561d042048]
+## 16. Notices[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. The Crown[^key-7fab2bf3e9075add39cb81561d042048]
+## 17. The Crown[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Revocations[^key-7fab2bf3e9075add39cb81561d042048]
+## 18. Revocations[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fab2bf3e9075add39cb81561d042048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fab2bf3e9075add39cb81561d042048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information Provisions[^key-7fab2bf3e9075add39cb81561d042048]
+## SCHEDULE — Information Provisions[^c-7fab2bf3e9075add39cb81561d042048]
 
 Regulation 11
 
-### 1. Reporting obligations of relevant institutions[^key-7fab2bf3e9075add39cb81561d042048]
+### 1. Reporting obligations of relevant institutions[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-7fab2bf3e9075add39cb81561d042048]
+### 2. Powers to request information[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-7fab2bf3e9075add39cb81561d042048]
+### 3. Production of documents[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-7fab2bf3e9075add39cb81561d042048]
+### 4. Failure to comply with request for information[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General power to disclose information[^key-7fab2bf3e9075add39cb81561d042048]
+### 5. General power to disclose information[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-7fab2bf3e9075add39cb81561d042048]
+### 6. Application of provisions[^c-7fab2bf3e9075add39cb81561d042048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7fab2bf3e9075add39cb81561d042048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fab2bf3e9075add39cb81561d042048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fab2bf3e9075add39cb81561d042048]: Textual amendment: Regulations revoked (5.2.2016) by [The Liberia (Asset-Freezing) (Revocation) Regulations 2016 (S.I. 2016/34)](https://www.legislation.gov.uk/uksi/2016/34), [reg. 2](https://www.legislation.gov.uk/uksi/2016/34/regulation/2)
+[^c-7fab2bf3e9075add39cb81561d042048]: Textual amendment: Regulations revoked (5.2.2016) by [The Liberia (Asset-Freezing) (Revocation) Regulations 2016 (S.I. 2016/34)](https://www.legislation.gov.uk/uksi/2016/34), [reg. 2](https://www.legislation.gov.uk/uksi/2016/34/regulation/2)

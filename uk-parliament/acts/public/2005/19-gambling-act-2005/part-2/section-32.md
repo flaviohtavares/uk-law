@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Consultation with Commissioners of Customs and Excise[^key-8b509b85dcf715797b049db44182a78b]
+## 32. Consultation with Commissioners of Customs and Excise[^c-8b509b85dcf715797b049db44182a78b]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b509b85dcf715797b049db44182a78b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2005/19/section/32) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-8b509b85dcf715797b049db44182a78b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2005/19/section/32) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

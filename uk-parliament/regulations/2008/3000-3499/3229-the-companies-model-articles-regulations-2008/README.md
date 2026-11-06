@@ -44,7 +44,7 @@ Coming into force
 
 1st October 2009
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by section 19 of the Companies Act 2006[^f00001]—[^key-5cab074747c54dd0aed46b3ccb44cd80]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 19 of the Companies Act 2006[^f00001]—[^c-5cab074747c54dd0aed46b3ccb44cd80]
 
 ## Contents
 
@@ -87,4 +87,4 @@ An Impact Assessment has not been produced for these Regulations as they have on
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-5cab074747c54dd0aed46b3ccb44cd80]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/3229): power to apply (with or without modifications) conferred (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 20](https://www.legislation.gov.uk/uksi/2017/1212/regulation/20) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-5cab074747c54dd0aed46b3ccb44cd80]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/3229): power to apply (with or without modifications) conferred (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 20](https://www.legislation.gov.uk/uksi/2017/1212/regulation/20) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

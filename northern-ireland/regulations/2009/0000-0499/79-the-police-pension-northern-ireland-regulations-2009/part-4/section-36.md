@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Survivors’ pensions - general provision[^key-38b705641cfc36bdf759dbb79ac60d1e]
+## 36. Survivors’ pensions - general provision[^c-38b705641cfc36bdf759dbb79ac60d1e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ a survivor such as is mentioned in regulation 37 shall be entitled to a pension 
 
 ## Annotations
 
-[^key-38b705641cfc36bdf759dbb79ac60d1e]: Commencement: Reg. 36 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-38b705641cfc36bdf759dbb79ac60d1e]: Commencement: Reg. 36 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

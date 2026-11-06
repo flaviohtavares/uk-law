@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Annual report about support provided under section 8[^key-6524d530a10485b17c6b759b0b0e3bbf]
+## 13. Annual report about support provided under section 8[^c-6524d530a10485b17c6b759b0b0e3bbf]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6524d530a10485b17c6b759b0b0e3bbf]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/4/section/13) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-6524d530a10485b17c6b759b0b0e3bbf]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/4/section/13) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

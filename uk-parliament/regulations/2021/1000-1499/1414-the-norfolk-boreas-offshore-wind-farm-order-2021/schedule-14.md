@@ -22,7 +22,7 @@ summary: ''
 
 Article 35
 
-### PART 1 — Scenario 1 - Removal of Important Hedgerows[^key-a2b66a78db0a3e789cfa4f7a1714f82f]
+### PART 1 — Scenario 1 - Removal of Important Hedgerows[^c-a2b66a78db0a3e789cfa4f7a1714f82f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -31,7 +31,7 @@ Article 35
 | District of Breckland | The important hedgerow marked 300 on the important hedgerows plan |
 | District of Breckland | The important hedgerow marked 305 on the important hedgerows plan |
 
-### PART 2 — Scenario 1 - Removal of Hedgerows[^key-607d2c43c734408e6d88aa9be16524d9]
+### PART 2 — Scenario 1 - Removal of Hedgerows[^c-607d2c43c734408e6d88aa9be16524d9]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -42,7 +42,7 @@ Article 35
 | District of Breckland | The hedgerow marked 304 on the important hedgerows plan |
 | District of Breckland | The hedgerow marked 306 on the important hedgerows plan |
 
-### PART 3 — Scenario 2 - Removal of Important Hedgerows[^key-827cabae5e6d032899cb19d141c5bc40]
+### PART 3 — Scenario 2 - Removal of Important Hedgerows[^c-827cabae5e6d032899cb19d141c5bc40]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -186,7 +186,7 @@ Article 35
 | District of Breckland | The important hedgerow marked 313 on the important hedgerows plan |
 | District of Breckland | The important hedgerow marked 314 on the important hedgerows plan |
 
-### PART 4 — Scenario 2 - Removal of Potentially Important Hedgerows[^key-5503ed68ef5822087d157d8ee9be3f43]
+### PART 4 — Scenario 2 - Removal of Potentially Important Hedgerows[^c-5503ed68ef5822087d157d8ee9be3f43]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -321,7 +321,7 @@ Article 35
 | District of Breckland | The potentially important hedgerow marked 287 on the important hedgerows plan |
 | District of Breckland | The potentially important hedgerow marked 297 on the important hedgerows plan |
 
-### PART 5 — Scenario 2 - Removal of Hedgerows[^key-eeb191fb4712ac20b91683f46edbbdd4]
+### PART 5 — Scenario 2 - Removal of Hedgerows[^c-eeb191fb4712ac20b91683f46edbbdd4]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -370,12 +370,12 @@ Article 35
 
 ## Annotations
 
-[^key-a2b66a78db0a3e789cfa4f7a1714f82f]: Commencement: Sch. 14 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-a2b66a78db0a3e789cfa4f7a1714f82f]: Commencement: Sch. 14 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-607d2c43c734408e6d88aa9be16524d9]: Commencement: Sch. 14 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-607d2c43c734408e6d88aa9be16524d9]: Commencement: Sch. 14 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-827cabae5e6d032899cb19d141c5bc40]: Commencement: Sch. 14 Pt. 3 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-827cabae5e6d032899cb19d141c5bc40]: Commencement: Sch. 14 Pt. 3 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-5503ed68ef5822087d157d8ee9be3f43]: Commencement: Sch. 14 Pt. 4 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-5503ed68ef5822087d157d8ee9be3f43]: Commencement: Sch. 14 Pt. 4 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-eeb191fb4712ac20b91683f46edbbdd4]: Commencement: Sch. 14 Pt. 5 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-eeb191fb4712ac20b91683f46edbbdd4]: Commencement: Sch. 14 Pt. 5 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

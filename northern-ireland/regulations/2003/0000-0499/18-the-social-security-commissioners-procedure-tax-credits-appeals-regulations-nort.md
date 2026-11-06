@@ -45,13 +45,13 @@ The Lord Chancellor, in exercise of the powers conferred upon him by sections 22
 
 ## PART I — GENERAL PROVISIONS
 
-### 1. Citation, commencement and duration[^key-b16e8f27d0a194235f1f3a52129b34ab]
+### 1. Citation, commencement and duration[^c-b16e8f27d0a194235f1f3a52129b34ab]
 
 (1) These Regulations may be cited as the Social Security Commissioners (Procedure) (Tax Credits Appeals) Regulations (Northern Ireland) 2003 and shall come into operation on 7th February 2003.
 
 (2) These Regulations shall cease to have effect on such day as is appointed by order made under section 63(1) of the Tax Credits Act 2002[^f00004] (tax credit appeals etc.: temporary modifications).
 
-### 2. Interpretation[^key-9efcd56e7804f6aca81863ad24d1ae52]
+### 2. Interpretation[^c-9efcd56e7804f6aca81863ad24d1ae52]
 
 In these Regulations, unless the context otherwise requires–
 
@@ -76,7 +76,7 @@ In these Regulations, unless the context otherwise requires–
   - (ii) any other person taking part in the proceedings in accordance with Article 15 of the Order or at the direction or with the leave of the Commissioner; and
 - “tax credit” means a child tax credit or a working tax credit, construing those terms in accordance with section 1(1) and (2) of the 2002 Act.
 
-### 3. General powers of a Commissioner[^key-0e593d08160bec53b4d2a500c9892464]
+### 3. General powers of a Commissioner[^c-0e593d08160bec53b4d2a500c9892464]
 
 (1) Subject to the provisions of these Regulations, a Commissioner may adopt any procedure in relation to proceedings before him.
 
@@ -93,11 +93,11 @@ In these Regulations, unless the context otherwise requires–
 
 (6) Nothing in these Regulations shall affect any power which is exercisable apart from these Regulations.
 
-### 4. Transfer of proceedings between Commissioners[^key-30bea47f03b2468aa84ec12febe2f420]
+### 4. Transfer of proceedings between Commissioners[^c-30bea47f03b2468aa84ec12febe2f420]
 
 If it becomes impractical or inexpedient for a Commissioner to continue to deal with proceedings which are or have been before him, any other Commissioner may rehear or deal with those proceedings and any related matters.
 
-### 5. Delegation of functions to authorised officers[^key-18a91ba65dc5792ee0b464b5e830b6a6]
+### 5. Delegation of functions to authorised officers[^c-18a91ba65dc5792ee0b464b5e830b6a6]
 
 (1) The following functions of the Commissioners may be exercised by legally qualified authorised officers, to be known as legal officers to the Commissioners–
 
@@ -111,7 +111,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (2) Any party may, within 14 days of being sent notice of the direction or order of a legal officer, make a written request to a Commissioner asking him to reconsider the matter and confirm or replace the direction or order with his own, but, unless ordered by a Commissioner, a request shall not stop proceedings under the direction or order.
 
-### 6. Manner of and time for service of notices, etc.[^key-824ac181fa7fbd982a3da32b4f70887f]
+### 6. Manner of and time for service of notices, etc.[^c-824ac181fa7fbd982a3da32b4f70887f]
 
 (1) A notice to or document for any party shall be deemed duly served if it is–
 
@@ -125,7 +125,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 ## PART II — APPLICATIONS FOR LEAVE TO APPEAL AND APPEALS
 
-### 7. Application to a Commissioner for leave to appeal[^key-a715b57e944bc11197c4e6ea0bb5c935]
+### 7. Application to a Commissioner for leave to appeal[^c-a715b57e944bc11197c4e6ea0bb5c935]
 
 (1) An application to a Commissioner for leave to appeal against the decision of an appeal tribunal may be made only where the applicant has sought to obtain leave from the chairman and leave has been refused or the application has been rejected.
 
@@ -135,7 +135,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (4) In paragraph (3) the final date means the end of a period of 13 months from the date on which the decision of the appeal tribunal or, if later, any separate statement of the reasons for it, was sent to the applicant by the appeal tribunal.
 
-### 8. Notice of application to a Commissioner for leave to appeal[^key-e99ea67a3268aed682b365c85b18a69c]
+### 8. Notice of application to a Commissioner for leave to appeal[^c-e99ea67a3268aed682b365c85b18a69c]
 
 (1) An application to a Commissioner for leave to appeal shall be made by notice in writing, and shall contain–
 
@@ -152,7 +152,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (3) Where an application for leave to appeal is made by the Board, they shall send each respondent a copy of the notice of application and any documents sent with it when they are sent to the Commissioner.
 
-### 9. Determination of application[^key-5062d200374b0406d2c395a7cf4d2b94]
+### 9. Determination of application[^c-5062d200374b0406d2c395a7cf4d2b94]
 
 (1) The office shall send written notice to the applicant and each respondent of the determination of an application for leave to appeal to a Commissioner.
 
@@ -163,7 +163,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (3) If a Commissioner grants an application for leave to appeal he may, with the consent of the applicant and each respondent, treat and determine the application as an appeal.
 
-### 10. Notice of appeal[^key-95108c47d79399780aa7f219bd82d171]
+### 10. Notice of appeal[^c-95108c47d79399780aa7f219bd82d171]
 
 (1) Subject to regulation 9(2), an appeal shall be made by notice in writing and shall contain–
 
@@ -179,13 +179,13 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 - (b) the decision against which leave to appeal has been granted; and
 - (c) if separate, the written statement of the appeal tribunal’s reasons for it.
 
-### 11. Time limit for appealing after leave obtained[^key-c5ae7c6da17206221a76fb39d51e0cbb]
+### 11. Time limit for appealing after leave obtained[^c-c5ae7c6da17206221a76fb39d51e0cbb]
 
 (1) Subject to paragraph (2), a notice of appeal shall not be valid unless it is sent to a Commissioner within one month of the date on which the appellant was sent written notice that leave to appeal had been granted.
 
 (2) A Commissioner may for special reasons accept a late notice of appeal.
 
-### 12. Acknowledgement of a notice of appeal and notification to each respondent[^key-92307a6357361e69f404ed5eb5eae5dd]
+### 12. Acknowledgement of a notice of appeal and notification to each respondent[^c-92307a6357361e69f404ed5eb5eae5dd]
 
 The office shall send–
 
@@ -194,11 +194,11 @@ The office shall send–
 
 ## PART III — PROCEDURE
 
-### 13. Representation[^key-24d266fa1937cc253953544d2dd2f6a6]
+### 13. Representation[^c-24d266fa1937cc253953544d2dd2f6a6]
 
 A party may conduct his case himself (with assistance from any person if he wishes) or be represented by any person whom he may appoint for the purpose.
 
-### 14. Respondent’s written observations[^key-b9b7fafeff7cfe5c85e790f7e0afcb49]
+### 14. Respondent’s written observations[^c-b9b7fafeff7cfe5c85e790f7e0afcb49]
 
 (1) A respondent may submit to a Commissioner written observations on an appeal within one month of being sent written notice of it.
 
@@ -212,7 +212,7 @@ A party may conduct his case himself (with assistance from any person if he wish
 
 (4) Where there is more than one respondent, the order of and time for written observations shall be as directed by a Commissioner under regulation 16.
 
-### 15. Written observations in reply[^key-006f61dd7ddb71da2f6ff4d3aa410c2c]
+### 15. Written observations in reply[^c-006f61dd7ddb71da2f6ff4d3aa410c2c]
 
 (1) Any party may submit to a Commissioner written observations in reply within one month of being sent written observations under regulation 14.
 
@@ -225,7 +225,7 @@ A party may conduct his case himself (with assistance from any person if he wish
 
 a Commissioner may make an order under Article 15(7) of the Order setting aside the decision and may dispense with the procedure in paragraphs (1) and (2).
 
-### 16. Directions[^key-3cca75cc7457d81d6596e84a7efcf5fb]
+### 16. Directions[^c-3cca75cc7457d81d6596e84a7efcf5fb]
 
 (1) Subject to paragraph (2), where a Commissioner considers that an application or appeal made to him gives insufficient particulars to enable the question at issue to be determined, he may direct the party making the application or appeal, or any respondent, to furnish any further particulars as may reasonably be required.
 
@@ -241,7 +241,7 @@ a Commissioner may make an order under Article 15(7) of the Order setting aside 
 
 (7) Unless a Commissioner shall otherwise determine, the office shall send a copy of an application under paragraph (4) to every other party.
 
-### 17. Non-disclosure of medical evidence[^key-cbd95e7200d95eb4ba0f96ea67e15462]
+### 17. Non-disclosure of medical evidence[^c-cbd95e7200d95eb4ba0f96ea67e15462]
 
 (1) Where, in any proceedings, there is before a Commissioner medical evidence relating to a person which has not been disclosed to that person and in the opinion of the Commissioner the disclosure to that person of that evidence would be harmful to his health, such evidence shall not be disclosed to that person.
 
@@ -255,7 +255,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (3) Non-disclosure under paragraphs (1) or (2) does not preclude the Commissioner from taking the evidence concerned into account for the purpose of the proceedings.
 
-### 18. Requests for hearings[^key-3b9b47a728c73cc8e549d303dbb61f31]
+### 18. Requests for hearings[^c-3b9b47a728c73cc8e549d303dbb61f31]
 
 (1) Subject to paragraphs (2), (3), (4) and (5), a Commissioner may determine any proceedings without a hearing.
 
@@ -267,7 +267,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (5) A Commissioner may, without an application and at any stage, direct a hearing.
 
-### 19. Hearings[^key-fd75db3c919abc24e4798c5dd7600d9c]
+### 19. Hearings[^c-fd75db3c919abc24e4798c5dd7600d9c]
 
 (1) This regulation applies to any hearing of an application or appeal to which these Regulations apply.
 
@@ -295,7 +295,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 - (a) in the case of an appeal against a determination in penalty proceedings, the party on whom the penalty has been imposed may give evidence, call witnesses and put questions directly to any other person called as a witness;
 - (b) in all other cases, a person entitled to be heard may, with the leave of the Commissioner, give evidence, call witnesses and put questions directly to any other person called as a witness.
 
-### 20. Summoning of witnesses[^key-4ac38f26ff85fbf2d5ef42f7dcab207a]
+### 20. Summoning of witnesses[^c-4ac38f26ff85fbf2d5ef42f7dcab207a]
 
 (1) Subject to paragraph (2), a Commissioner may summon any person to attend a hearing as a witness, at such time and place as may be specified in the summons, to answer any questions or produce any documents in his custody or under his control which relate to any matter in question in the proceedings.
 
@@ -305,7 +305,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (4) A Commissioner may require any witness to give evidence on oath and, for this purpose, an oath may be administered in due form.
 
-### 21. Withdrawal of applications for leave to appeal and appeals[^key-580a042b14f3b91a453b231c4347f54e]
+### 21. Withdrawal of applications for leave to appeal and appeals[^c-580a042b14f3b91a453b231c4347f54e]
 
 (1) At any time before it is determined, an applicant may withdraw an application to a Commissioner for leave to appeal against a decision of an appeal tribunal by giving written notice to a Commissioner.
 
@@ -313,13 +313,13 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (3) A Commissioner may, on application by the party concerned, give leave to reinstate any application or appeal which has been withdrawn in accordance with paragraphs (1) and (2) and, on giving leave, he may make directions as to the conduct of the proceedings.
 
-### 22. Irregularities[^key-8d5878eaff8db86d58883d3f646763ea]
+### 22. Irregularities[^c-8d5878eaff8db86d58883d3f646763ea]
 
 Any irregularity resulting from failure to comply with the requirements of these Regulations shall not by itself invalidate any proceedings, and the Commissioner, before reaching his decision, may waive the irregularity or take steps to remedy it.
 
 ## PART IV — DECISIONS
 
-### 23. Deteminations and decisions of a Commissioner[^key-4e175fcbd909e48f7f9b3d9a0e68a6a2]
+### 23. Deteminations and decisions of a Commissioner[^c-4e175fcbd909e48f7f9b3d9a0e68a6a2]
 
 (1) The determination of a Commissioner on an application for leave to appeal shall be in writing and signed by him.
 
@@ -329,13 +329,13 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 (4) Without prejudice to paragraphs (2) and (3), a Commissioner may announce his determination or decision at the end of a hearing.
 
-### 24. Correction of accidental errors in decisions[^key-7a93fb4b79edc5ad57435f4c8eab860c]
+### 24. Correction of accidental errors in decisions[^c-7a93fb4b79edc5ad57435f4c8eab860c]
 
 (1) Subject to regulations 4 and 26, the Commissioner who gave the decision may at any time correct accidental errors in any decision or record of a decision.
 
 (2) A correction made to, or to the record of, a decision shall become part of the decision or record, and the office shall send a written notice of the correction to any party to whom notice of the decision has been sent.
 
-### 25. Setting aside decisions on certain grounds[^key-bcfb327e5d9eaa3ac59e232ca9174267]
+### 25. Setting aside decisions on certain grounds[^c-bcfb327e5d9eaa3ac59e232ca9174267]
 
 (1) Subject to regulations 4 and 26, on an application made by any party, the Commissioner who gave the decision in proceedings may set it aside where it appears just to do so on the ground that–
 
@@ -348,7 +348,7 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 (4) The office shall send each party written notice of a determination of an application to set aside a decision and the reasons for it.
 
-### 26. Provisions common to regulations 24 and 25[^key-a533c31fc45e6512a6ccc72641c35f62]
+### 26. Provisions common to regulations 24 and 25[^c-a533c31fc45e6512a6ccc72641c35f62]
 
 (1) In regulations 24 and 25, the word “decision” shall include determinations of applications for leave to appeal, orders setting aside tribunal decisions under Article 15(7) of the Order and decisions on appeals.
 
@@ -356,7 +356,7 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 ## PART V — APPLICATIONS FOR LEAVE TO APPEAL TO THE APPELLATE COURT
 
-### 27. Application to a Commissioner for leave to appeal to the Appellate Court[^key-d1bfe778b9c146fe2bef090c1fd1e3e2]
+### 27. Application to a Commissioner for leave to appeal to the Appellate Court[^c-d1bfe778b9c146fe2bef090c1fd1e3e2]
 
 (1) Subject to paragraph (2), an application to a Commissioner under section 22 of the 1992 Act for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
 
@@ -387,60 +387,60 @@ The Tax Credits (Appeals) Regulations 2002 made under section 63(8) of the Tax C
 
 [^f00003]: Footnote: S.I. [2002/2926](https://www.legislation.gov.uk/uksi/2002/2926)
 
-[^key-b16e8f27d0a194235f1f3a52129b34ab]: Commencement: Reg. 1 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-b16e8f27d0a194235f1f3a52129b34ab]: Commencement: Reg. 1 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
 [^f00004]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-9efcd56e7804f6aca81863ad24d1ae52]: Commencement: Reg. 2 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-9efcd56e7804f6aca81863ad24d1ae52]: Commencement: Reg. 2 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-0e593d08160bec53b4d2a500c9892464]: Commencement: Reg. 3 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-0e593d08160bec53b4d2a500c9892464]: Commencement: Reg. 3 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-30bea47f03b2468aa84ec12febe2f420]: Commencement: Reg. 4 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-30bea47f03b2468aa84ec12febe2f420]: Commencement: Reg. 4 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-18a91ba65dc5792ee0b464b5e830b6a6]: Commencement: Reg. 5 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-18a91ba65dc5792ee0b464b5e830b6a6]: Commencement: Reg. 5 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-824ac181fa7fbd982a3da32b4f70887f]: Commencement: Reg. 6 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-824ac181fa7fbd982a3da32b4f70887f]: Commencement: Reg. 6 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-a715b57e944bc11197c4e6ea0bb5c935]: Commencement: Reg. 7 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-a715b57e944bc11197c4e6ea0bb5c935]: Commencement: Reg. 7 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-e99ea67a3268aed682b365c85b18a69c]: Commencement: Reg. 8 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-e99ea67a3268aed682b365c85b18a69c]: Commencement: Reg. 8 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-5062d200374b0406d2c395a7cf4d2b94]: Commencement: Reg. 9 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-5062d200374b0406d2c395a7cf4d2b94]: Commencement: Reg. 9 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-95108c47d79399780aa7f219bd82d171]: Commencement: Reg. 10 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-95108c47d79399780aa7f219bd82d171]: Commencement: Reg. 10 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-c5ae7c6da17206221a76fb39d51e0cbb]: Commencement: Reg. 11 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-c5ae7c6da17206221a76fb39d51e0cbb]: Commencement: Reg. 11 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-92307a6357361e69f404ed5eb5eae5dd]: Commencement: Reg. 12 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-92307a6357361e69f404ed5eb5eae5dd]: Commencement: Reg. 12 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-24d266fa1937cc253953544d2dd2f6a6]: Commencement: Reg. 13 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-24d266fa1937cc253953544d2dd2f6a6]: Commencement: Reg. 13 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-b9b7fafeff7cfe5c85e790f7e0afcb49]: Commencement: Reg. 14 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-b9b7fafeff7cfe5c85e790f7e0afcb49]: Commencement: Reg. 14 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-006f61dd7ddb71da2f6ff4d3aa410c2c]: Commencement: Reg. 15 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-006f61dd7ddb71da2f6ff4d3aa410c2c]: Commencement: Reg. 15 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-3cca75cc7457d81d6596e84a7efcf5fb]: Commencement: Reg. 16 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-3cca75cc7457d81d6596e84a7efcf5fb]: Commencement: Reg. 16 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-cbd95e7200d95eb4ba0f96ea67e15462]: Commencement: Reg. 17 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-cbd95e7200d95eb4ba0f96ea67e15462]: Commencement: Reg. 17 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-3b9b47a728c73cc8e549d303dbb61f31]: Commencement: Reg. 18 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-3b9b47a728c73cc8e549d303dbb61f31]: Commencement: Reg. 18 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-fd75db3c919abc24e4798c5dd7600d9c]: Commencement: Reg. 19 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-fd75db3c919abc24e4798c5dd7600d9c]: Commencement: Reg. 19 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-4ac38f26ff85fbf2d5ef42f7dcab207a]: Commencement: Reg. 20 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-4ac38f26ff85fbf2d5ef42f7dcab207a]: Commencement: Reg. 20 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-580a042b14f3b91a453b231c4347f54e]: Commencement: Reg. 21 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-580a042b14f3b91a453b231c4347f54e]: Commencement: Reg. 21 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-8d5878eaff8db86d58883d3f646763ea]: Commencement: Reg. 22 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-8d5878eaff8db86d58883d3f646763ea]: Commencement: Reg. 22 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-4e175fcbd909e48f7f9b3d9a0e68a6a2]: Commencement: Reg. 23 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-4e175fcbd909e48f7f9b3d9a0e68a6a2]: Commencement: Reg. 23 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-7a93fb4b79edc5ad57435f4c8eab860c]: Commencement: Reg. 24 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-7a93fb4b79edc5ad57435f4c8eab860c]: Commencement: Reg. 24 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-bcfb327e5d9eaa3ac59e232ca9174267]: Commencement: Reg. 25 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-bcfb327e5d9eaa3ac59e232ca9174267]: Commencement: Reg. 25 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-a533c31fc45e6512a6ccc72641c35f62]: Commencement: Reg. 26 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-a533c31fc45e6512a6ccc72641c35f62]: Commencement: Reg. 26 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
-[^key-d1bfe778b9c146fe2bef090c1fd1e3e2]: Commencement: Reg. 27 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
+[^c-d1bfe778b9c146fe2bef090c1fd1e3e2]: Commencement: Reg. 27 in operation at 7.2.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/18/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [2002/2004](https://www.legislation.gov.uk/uksi/2002/2004)

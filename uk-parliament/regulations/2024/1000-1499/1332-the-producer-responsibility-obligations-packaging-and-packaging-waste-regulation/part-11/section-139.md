@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Revocations[^key-a0fb7548392dbcf7bf0135fd82fa2ed7]
+## 139. Revocations[^c-a0fb7548392dbcf7bf0135fd82fa2ed7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fb7548392dbcf7bf0135fd82fa2ed7]: Commencement: Reg. 139 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a0fb7548392dbcf7bf0135fd82fa2ed7]: Commencement: Reg. 139 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

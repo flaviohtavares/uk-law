@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Planning freedoms: right for local areas to request alterations to planning system[^key-f50e1f2143dfe84af783847bd1a95c07]
+## 154. Planning freedoms: right for local areas to request alterations to planning system[^c-f50e1f2143dfe84af783847bd1a95c07]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ A “planning freedoms scheme” is a scheme that disapplies or modifies specifi
 
 ## Annotations
 
-[^key-f50e1f2143dfe84af783847bd1a95c07]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2016/22/section/154) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/f)
+[^c-f50e1f2143dfe84af783847bd1a95c07]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2016/22/section/154) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/f)

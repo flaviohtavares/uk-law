@@ -47,11 +47,11 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 
 ## Citation and commencement
 
-**1.**[^key-cf7441f08cc514d8afc17c0b0b5530fb] These Regulations may be cited as the Customs Duties (Deferred Payment) Regulations 1976 and shall come into operation on 1st September 1976.
+**1.**[^c-cf7441f08cc514d8afc17c0b0b5530fb] These Regulations may be cited as the Customs Duties (Deferred Payment) Regulations 1976 and shall come into operation on 1st September 1976.
 
 ## Interpretation
 
-**2.**[^key-62b058eb91027a6bdd6f2a505527f149] (1) In these Regulations—
+**2.**[^c-62b058eb91027a6bdd6f2a505527f149] (1) In these Regulations—
 
 - “**approved**” means approved by the Commissioners;
 - “**deferment**” means deferment of payment of customs duty granted under these Regulations and “**deferred**” shall be construed accordingly;
@@ -65,11 +65,11 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 
 ## Application
 
-**3.**[^key-e35e4437e06981378a8ef7314d8dae6a] These Regulations apply in the case of customs duty, other than customs duty chargeable on tobacco by virtue of section 4(1) of the Finance Act 1964, payable, apart from these Regulations, on the making of entry of goods chargeable therewith.
+**3.**[^c-e35e4437e06981378a8ef7314d8dae6a] These Regulations apply in the case of customs duty, other than customs duty chargeable on tobacco by virtue of section 4(1) of the Finance Act 1964, payable, apart from these Regulations, on the making of entry of goods chargeable therewith.
 
 ## Approval
 
-**4.**[^key-38d1acb6667ce6c75126a017a08b305d] (1) A person who wishes to be approved for the purposes of these Regulations shall apply to the Commissioners in an approved form, furnish security for payment on payment day of the amount of customs duty in respect of which he seeks deferment, and make arrangements with the Commissioners for the payment of that duty on payment day.
+**4.**[^c-38d1acb6667ce6c75126a017a08b305d] (1) A person who wishes to be approved for the purposes of these Regulations shall apply to the Commissioners in an approved form, furnish security for payment on payment day of the amount of customs duty in respect of which he seeks deferment, and make arrangements with the Commissioners for the payment of that duty on payment day.
 
 (2) If satisfied with the security and arrangements as aforesaid, the Commissioners shall in writing approve the applicant with respect to an amount of customs duty not exceeding that for which he has furnished security;
 
@@ -81,18 +81,18 @@ Provided that such approval may be limited to the deferment of customs duty paya
 
 ## Grant of deferment
 
-**5.**[^key-13e711d085122a844059dd81c240b648] Subject to Regulations 3, 4, 6 and 7, the Commissioners shall, upon application by an approved person in an approved form and manner, grant deferment of customs duty until payment day.
+**5.**[^c-13e711d085122a844059dd81c240b648] Subject to Regulations 3, 4, 6 and 7, the Commissioners shall, upon application by an approved person in an approved form and manner, grant deferment of customs duty until payment day.
 
 ## Payment
 
-**6.**[^key-01a32f6171deb2220fa030ffb35e12de] On each payment day an approved person shall pay to the Commissioners in accordance with the arrangements referred to in Regulations 4(1) the total amount of customs duty of which he has been granted deferment until that payment day.
+**6.**[^c-01a32f6171deb2220fa030ffb35e12de] On each payment day an approved person shall pay to the Commissioners in accordance with the arrangements referred to in Regulations 4(1) the total amount of customs duty of which he has been granted deferment until that payment day.
 
-**7.**[^key-6810a8473a494efadb54e67551fe6980] If at any time after entry has been made the Commissioners are satisfied that—
+**7.**[^c-6810a8473a494efadb54e67551fe6980] If at any time after entry has been made the Commissioners are satisfied that—
 
 - (a) the full amount of customs duty payable has not been shown on the entry then, save as the Commissioners otherwise allow, the balance shall forthwith be paid by the person making entry of the goods and no deferment in respect thereof shall be permitted;
 - (b) customs duty in excess of the amount payable has been shown on the entry, the Commissioners shall repay the excess, but the total amount shown shall nevertheless be paid on payment day.
 
-**8.**[^key-7d3add3a3b67e5ad25e610d0f2a331ce] Without prejudice to Regulation 6, for the purposes of—
+**8.**[^c-7d3add3a3b67e5ad25e610d0f2a331ce] Without prejudice to Regulation 6, for the purposes of—
 
 - (a) sections 34(1), 35(5), 36, 46 and 260(1) of the Customs and Excise Act 1952; and
 - (b) any relief by way of repayment of customs duty, or agricultural levy falling to be treated as such, under—
@@ -105,7 +105,7 @@ Provided that such approval may be limited to the deferment of customs duty paya
 
 ## Warehousing
 
-**9.**[^key-3c424685d5ac593c8f81df0fa63e5cf7] For Regulation 8(5) of the Warehousing Regulations 1975[^f00004] there shall be substituted the following—
+**9.**[^c-3c424685d5ac593c8f81df0fa63e5cf7] For Regulation 8(5) of the Warehousing Regulations 1975[^f00004] there shall be substituted the following—
 
 > For the purpose of these Regulations duty shall be deemed to have been paid on warehoused goods if payment thereof has been deferred under the Customs Duties (Deferred Payment) Regulations 1976
 
@@ -131,28 +131,28 @@ The Regulations supersede the Customs Duties (Deferred Payment) Regulations 1972
 
 ## Annotations
 
-[^key-cf7441f08cc514d8afc17c0b0b5530fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-cf7441f08cc514d8afc17c0b0b5530fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
-[^key-62b058eb91027a6bdd6f2a505527f149]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1976/1223/regulation/2) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-62b058eb91027a6bdd6f2a505527f149]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1976/1223/regulation/2) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
 [^f00001]: Footnote: (1972 III, p. 5040).
 
-[^key-e35e4437e06981378a8ef7314d8dae6a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1976/1223/regulation/3) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-e35e4437e06981378a8ef7314d8dae6a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1976/1223/regulation/3) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
-[^key-38d1acb6667ce6c75126a017a08b305d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1976/1223/regulation/4) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-38d1acb6667ce6c75126a017a08b305d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1976/1223/regulation/4) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
-[^key-13e711d085122a844059dd81c240b648]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1976/1223/regulation/5) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-13e711d085122a844059dd81c240b648]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1976/1223/regulation/5) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
-[^key-01a32f6171deb2220fa030ffb35e12de]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1976/1223/regulation/6) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-01a32f6171deb2220fa030ffb35e12de]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1976/1223/regulation/6) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
-[^key-6810a8473a494efadb54e67551fe6980]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1976/1223/regulation/7) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-6810a8473a494efadb54e67551fe6980]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1976/1223/regulation/7) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
-[^key-7d3add3a3b67e5ad25e610d0f2a331ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1976/1223/regulation/8) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-7d3add3a3b67e5ad25e610d0f2a331ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1976/1223/regulation/8) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
 [^f00002]: Footnote: (1976 II, p.2105).
 
 [^f00003]: Footnote: (1976 II, p.2338)
 
-[^key-3c424685d5ac593c8f81df0fa63e5cf7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1976/1223/regulation/9) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
+[^c-3c424685d5ac593c8f81df0fa63e5cf7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1976/1223/regulation/9) comes into operation at 1.9.1976, see [reg. 1](https://www.legislation.gov.uk/uksi/1976/1223/regulation/1)
 
 [^f00004]: Footnote: (1975 III, p.6764).

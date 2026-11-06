@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Determination of categories of case for purposes of judicial specialisation[^key-91aeef530e460bf7eb23f4060a769eb8]
+## 34. Determination of categories of case for purposes of judicial specialisation[^c-91aeef530e460bf7eb23f4060a769eb8]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91aeef530e460bf7eb23f4060a769eb8]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/18/section/34) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-91aeef530e460bf7eb23f4060a769eb8]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/18/section/34) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

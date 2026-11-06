@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Regulations[^key-e121a57c9de43d02e99f702de5f25d5f]
+## 24. Regulations[^c-e121a57c9de43d02e99f702de5f25d5f]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e121a57c9de43d02e99f702de5f25d5f]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2000/4/section/24) in operation at 16.5.2014 in so far as not already in operation by [S.R. 2014/138](https://www.legislation.gov.uk/nisr/2014/138), [art. 2](https://www.legislation.gov.uk/nisr/2014/138/article/2)
+[^c-e121a57c9de43d02e99f702de5f25d5f]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2000/4/section/24) in operation at 16.5.2014 in so far as not already in operation by [S.R. 2014/138](https://www.legislation.gov.uk/nisr/2014/138), [art. 2](https://www.legislation.gov.uk/nisr/2014/138/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Sexual grooming of child[^key-a951e1807d10fde44b9fd9dee6832c0c][^key-c4e37589a5c5e33a1d48986e3eafb7ee]
+## 70A. Sexual grooming of child[^c-a951e1807d10fde44b9fd9dee6832c0c][^c-c4e37589a5c5e33a1d48986e3eafb7ee]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ and the victim or intended victim was under the age of 18.
 
 ## Annotations
 
-[^key-a951e1807d10fde44b9fd9dee6832c0c]: Modification: [S. 70A](https://www.legislation.gov.uk/ukpga/2020/17/section/70A) modified (29.6.2026) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 238(8)](https://www.legislation.gov.uk/ukpga/2006/52/section/238/8) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/83/2), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/a))
+[^c-a951e1807d10fde44b9fd9dee6832c0c]: Modification: [S. 70A](https://www.legislation.gov.uk/ukpga/2020/17/section/70A) modified (29.6.2026) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 238(8)](https://www.legislation.gov.uk/ukpga/2006/52/section/238/8) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/83/2), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/a))
 
-[^key-c4e37589a5c5e33a1d48986e3eafb7ee]: Textual amendment: S. 70A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/83/1), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/a)
+[^c-c4e37589a5c5e33a1d48986e3eafb7ee]: Textual amendment: S. 70A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/83/1), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/a)

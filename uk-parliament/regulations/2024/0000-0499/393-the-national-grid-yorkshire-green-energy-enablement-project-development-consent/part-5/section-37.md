@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Temporary use of land by NPG[^key-f8399477884ea3a5eb036df21e037326]
+## 37. Temporary use of land by NPG[^c-f8399477884ea3a5eb036df21e037326]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8399477884ea3a5eb036df21e037326]: Commencement: Art. 37 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-f8399477884ea3a5eb036df21e037326]: Commencement: Art. 37 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

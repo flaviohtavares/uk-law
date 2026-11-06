@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Disclosure of interests in shares: interests to be disclosed[^key-03f52642ffe32bb21c5d1b4353001266]
+## 8. Disclosure of interests in shares: interests to be disclosed[^c-03f52642ffe32bb21c5d1b4353001266]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03f52642ffe32bb21c5d1b4353001266]: Commencement: Art. 8 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-03f52642ffe32bb21c5d1b4353001266]: Commencement: Art. 8 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00015]: Footnote: Amended by [S.I. 1993/1819](https://www.legislation.gov.uk/uksi/1993/1819), regulation 4; [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827), Schedule 8, paragraph 5; [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228), Schedule 7, paragraph 4.

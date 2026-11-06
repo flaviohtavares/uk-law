@@ -51,11 +51,11 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-d92627c28f59ce1a5e1d5e7b0fe36efa]
+### 1. Citation and commencement[^c-d92627c28f59ce1a5e1d5e7b0fe36efa]
 
 This Order may be cited as the A19/A1058 Coast Road (Junction Improvement) Development Consent Order 2016 and comes into force on 18th February 2016.
 
-### 2. Interpretation[^key-90f23c62f1d860670cb575651c85d6dd]
+### 2. Interpretation[^c-90f23c62f1d860670cb575651c85d6dd]
 
 (1) In this Order—
 
@@ -121,15 +121,15 @@ This Order may be cited as the A19/A1058 Coast Road (Junction Improvement) Devel
 
 ## PART 2 — PRINCIPAL POWERS
 
-### 3. Development consent etc. granted by the Order[^key-52f7f1e71cf3fdb1ff31eb32e11ab322]
+### 3. Development consent etc. granted by the Order[^c-52f7f1e71cf3fdb1ff31eb32e11ab322]
 
 Subject to the provisions of this Order including the requirements in Schedule 2 (requirements), the undertaker is granted development consent for the authorised development to be carried out within the Order limits.
 
-### 4. Maintenance of authorised development[^key-b5c4d401e7d7f5554a0c8b8de652b6ef]
+### 4. Maintenance of authorised development[^c-b5c4d401e7d7f5554a0c8b8de652b6ef]
 
 The undertaker may at any time maintain the authorised development, except to the extent that this Order, or an agreement made under this Order, provides otherwise.
 
-### 5. Limits of deviation[^key-2b23ed2ec2020718efd3deb7bb407c58]
+### 5. Limits of deviation[^c-2b23ed2ec2020718efd3deb7bb407c58]
 
 (1) In carrying out the authorised development the undertaker may—
 
@@ -138,11 +138,11 @@ The undertaker may at any time maintain the authorised development, except to th
 
 (2) Any deviation under paragraph (1) is only permitted if it is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental report.
 
-### 6. Benefit of Order[^key-375544660969bd317e34a477bede945c]
+### 6. Benefit of Order[^c-375544660969bd317e34a477bede945c]
 
 Subject to article 7 (consent to transfer benefit of Order), the provisions of this Order conferring powers on the undertaker have effect solely for the benefit of the undertaker.
 
-### 7. Consent to transfer benefit of Order[^key-ff2cf737c63d7fe1feb82512973f2aa2]
+### 7. Consent to transfer benefit of Order[^c-ff2cf737c63d7fe1feb82512973f2aa2]
 
 (1) The undertaker may—
 
@@ -162,7 +162,7 @@ Subject to article 7 (consent to transfer benefit of Order), the provisions of t
 
 ## PART 3 — STREETS
 
-### 8. Application of the 1991 Act[^key-731fd8821ba89a06abf0e8bdbb814487]
+### 8. Application of the 1991 Act[^c-731fd8821ba89a06abf0e8bdbb814487]
 
 (1) Works executed under this Order in relation to a highway which consists of or includes a carriageway are to be treated for the purposes of Part 3 (street works in England and Wales) of the 1991 Act as major highway works if—
 
@@ -207,7 +207,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 - (a) affects the operation of section 87 (prospectively maintainable highways) of the 1991 Act, and the undertaker is not by reason of any duty under that article to maintain a street to be taken to be the street authority in relation to that street for the purposes of Part 3 of that Act; or
 - (b) has effect in relation to street works as respects which the provisions of Part 3 of the 1991 Act apply.
 
-### 9. Construction and maintenance of new, altered or diverted streets[^key-f8f55b47b2bafde519d1ab06b823caaa]
+### 9. Construction and maintenance of new, altered or diverted streets[^c-f8f55b47b2bafde519d1ab06b823caaa]
 
 (1) Any street (other than a trunk road) to be constructed under this Order must be completed to the reasonable satisfaction of the local highway authority in whose area the street lies and, unless otherwise agreed with the local highway authority, must be maintained by and at the expense of the local highway authority from its completion.
 
@@ -227,7 +227,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 but for the purposes of such a defence it is not relevant to prove that the undertaker had arranged for a competent person to carry out or supervise the maintenance of the part of the street to which the action relates unless it is also proved that the undertaker had given the competent person proper instructions with regard to the maintenance of the street and that the competent person had carried out those instructions.
 
-### 10. Classification of roads etc.[^key-78d1606606ae7e55083f94e23b0d6618]
+### 10. Classification of roads etc.[^c-78d1606606ae7e55083f94e23b0d6618]
 
 (1) From the date on which the roads described in Part 1 (trunk roads) of Schedule 3 (classification of roads, etc.) are complete and open for traffic, they are to become trunk roads as if they had become so by virtue of an order under section 10(2) of the 1980 Act[^f00031] specifying that date as the date on which they were to become trunk roads.
 
@@ -237,7 +237,7 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 (4) The application of paragraphs (1) and (3) may be varied or revoked by any instrument made under any enactment which provides for the variation or revocation of such matters.
 
-### 11. Temporary stopping up and restriction of use of streets[^key-7da52c40f8de36b4dbe82964274d8774]
+### 11. Temporary stopping up and restriction of use of streets[^c-7da52c40f8de36b4dbe82964274d8774]
 
 (1) The undertaker, during and for the purposes of carrying out the authorised development, may temporarily stop up, alter, divert or restrict the use of any street and may for any reasonable time—
 
@@ -254,7 +254,7 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 (6) If a street authority which receives an application for consent under paragraph 11(4) fails to notify the undertaker of its decision before the end of the period of 28 days beginning with the date on which the application was made, it is deemed to have granted consent.
 
-### 12. Permanent stopping up and restriction of use of streets[^key-d1880403fb61ecb22f4a860af10e292f]
+### 12. Permanent stopping up and restriction of use of streets[^c-d1880403fb61ecb22f4a860af10e292f]
 
 (1) Subject to the provisions of this article, the undertaker may, in connection with the carrying out of the authorised development, stop up each of the streets specified in columns (1) and (2) of Schedule 4 (permanent stopping up of streets) to the extent specified and described in column (3) of that Schedule.
 
@@ -276,11 +276,11 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 (6) This article is subject to article 30 (apparatus and rights of statutory undertakers in stopped up streets).
 
-### 13. Access to works[^key-d5d67588dc63aac9f842f232978d962b]
+### 13. Access to works[^c-d5d67588dc63aac9f842f232978d962b]
 
 The undertaker may, for the purposes of the authorised development, form and lay out means of access, or improve existing means of access at such locations within the Order limits as the undertaker reasonably requires for the purposes of the authorised development.
 
-### 14. Clearways[^key-4ac68e9d1bafcf4b5fc79b0b4c27baf5]
+### 14. Clearways[^c-4ac68e9d1bafcf4b5fc79b0b4c27baf5]
 
 (1) From the date on which the roads described in Part 1 of Schedule 3 (classification of roads etc.) are open for traffic, except as provided in paragraph (2), no person is to cause or permit any vehicle to wait on any part of those roads, other than a lay-by, except upon the direction of, or with the permission of, a constable or traffic officer in uniform.
 
@@ -289,7 +289,7 @@ The undertaker may, for the purposes of the authorised development, form and lay
 - (a) to render it unlawful to cause or permit a vehicle to wait on any part of a road, for so long as may be necessary to enable that vehicle to be used in connection with—
   - (i) the removal of any obstruction to traffic;
   - (ii) the maintenance, improvement, reconstruction or operation of the road;
-  - (iii) the laying, erection, inspection, maintenance, alteration, repair, renewal or removal in or near the road of any sewer, main pipe, conduit, wire, cable or other apparatus for the supply of gas, water, electricity or any electronic communications apparatus as defined in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^key-8e8b3ac70ef22bc71d3ebdc83795ce55]; or
+  - (iii) the laying, erection, inspection, maintenance, alteration, repair, renewal or removal in or near the road of any sewer, main pipe, conduit, wire, cable or other apparatus for the supply of gas, water, electricity or any electronic communications apparatus as defined in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^c-8e8b3ac70ef22bc71d3ebdc83795ce55]; or
   - (iv) any building operation or demolition;
 - (b) in relation to a vehicle being used—
   - (i) for police, ambulance, fire and rescue authority or traffic officer purposes;
@@ -309,7 +309,7 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 ## PART 4 — SUPPLEMENTAL POWERS
 
-### 15. Discharge of water[^key-390843776994f7b5fda50471e66ee79b]
+### 15. Discharge of water[^c-390843776994f7b5fda50471e66ee79b]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -326,7 +326,7 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) (requirement for environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^key-855f914b8df963a7d37b04ed8db66c9b].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) (requirement for environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^c-855f914b8df963a7d37b04ed8db66c9b].
 
 (8) In this article—
 
@@ -335,7 +335,7 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 (9) If a person who receives an application for consent under paragraph (3) or approval under paragraph (4)(a) fails to notify the undertaker of a decision within 28 days of receiving an application that person is deemed to have granted consent or given approval, as the case may be.
 
-### 16. Protective work to buildings[^key-67a86d59135c66f75086668c241c0063]
+### 16. Protective work to buildings[^c-67a86d59135c66f75086668c241c0063]
 
 (1) Subject to the following provisions of this article, the undertaker may at its own expense carry out such protective works to any building which may be affected by the authorised development as the undertaker considers necessary or expedient.
 
@@ -380,7 +380,7 @@ the undertaker must compensate the owners and occupiers of the building for any 
 - (a) underpinning, strengthening and any other works the purpose of which is to prevent damage which may be caused to the building by the carrying out, maintenance or use of the authorised development; and
 - (b) any works the purpose of which is to remedy any damage which has been caused to the building by the carrying out, maintenance or use of the authorised development.
 
-### 17. Authority to survey and investigate the land[^key-4bf43d665c4f872912d33ae45700986e]
+### 17. Authority to survey and investigate the land[^c-4bf43d665c4f872912d33ae45700986e]
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
 
@@ -414,17 +414,17 @@ that authority is deemed to have granted consent.
 
 ## PART 5 — POWERS OF ACQUISITION
 
-### 18. Compulsory acquisition of land[^key-b2a4f67faa95e4042a36d46d84d61b8e]
+### 18. Compulsory acquisition of land[^c-b2a4f67faa95e4042a36d46d84d61b8e]
 
 (1) The undertaker may acquire compulsorily so much of the Order land as is required to carry out or to facilitate, or is incidental to, the authorised development.
 
 (2) This article is subject to paragraph (2) of article 21 (compulsory acquisition of rights), paragraph (8) of article 27 (temporary use of land for carrying out the authorised development) and article 37 (Crown rights).
 
-### 19. Compulsory acquisition of land – incorporation of the mineral code[^key-ae7ac90df333ed7f6def79f306411488]
+### 19. Compulsory acquisition of land – incorporation of the mineral code[^c-ae7ac90df333ed7f6def79f306411488]
 
 Part 2 of Schedule 2 (minerals) to the Acquisition of Land Act 1981[^f00040] is incorporated in this Order subject to the modification that for “the acquiring authority” substitute “the undertaker”.
 
-### 20. Time limit for exercise of authority to acquire land compulsorily[^key-fb44de5f3b7d0501923e8634f0c07ac2]
+### 20. Time limit for exercise of authority to acquire land compulsorily[^c-fb44de5f3b7d0501923e8634f0c07ac2]
 
 (1) After the end of the period of 5 years beginning on the day on which this Order is made—
 
@@ -433,7 +433,7 @@ Part 2 of Schedule 2 (minerals) to the Acquisition of Land Act 1981[^f00040] is 
 
 (2) The authority conferred by article 27 (temporary use of land for carrying out the authorised development) ceases at the end of the period referred to in paragraph (1), except that nothing in this paragraph prevents the undertaker remaining in possession of land after the end of that period, if the land was entered and possession was taken before the end of that period.
 
-### 21. Compulsory acquisition of rights[^key-36d0206418038aa85761660d15373e45]
+### 21. Compulsory acquisition of rights[^c-36d0206418038aa85761660d15373e45]
 
 (1) The undertaker may acquire such rights over the Order land as may be required for any purpose for which that land may be acquired under article 18 (compulsory acquisition of land) by creating them as well as acquiring rights already in existence.
 
@@ -443,7 +443,7 @@ Part 2 of Schedule 2 (minerals) to the Acquisition of Land Act 1981[^f00040] is 
 
 (4) Schedule 6 has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right.
 
-### 22. Private rights over land[^key-610cea186a45ec77898079695222de5f]
+### 22. Private rights over land[^c-610cea186a45ec77898079695222de5f]
 
 (1) Subject to the provisions of this article, all private rights over land subject to compulsory acquisition under this Order are extinguished—
 
@@ -487,7 +487,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 (9) References in this article to private rights over land include any trust, incident, easement, liberty, privilege, right or advantage annexed to land and adversely affecting other land, including any natural right to support and include restrictions as to the user of land arising by virtue of a contract, agreement or undertaking having that effect.
 
-### 23. Application of the 1981 Act[^key-1cfa7840c9dafbedcdf5f5fb58c746b9]
+### 23. Application of the 1981 Act[^c-1cfa7840c9dafbedcdf5f5fb58c746b9]
 
 (1) The 1981 Act applies as if this Order were a compulsory purchase order.
 
@@ -528,7 +528,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 (9) References to the 1965 Act in the 1981 Act are to be construed as references to the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the compulsory acquisition of land under this Order.
 
-### 24. Acquisition of subsoil or airspace only[^key-50fdc7209b22302fd218b7c8303e741e]
+### 24. Acquisition of subsoil or airspace only[^c-50fdc7209b22302fd218b7c8303e741e]
 
 (1) The undertaker may acquire compulsorily so much of, or such rights in, the subsoil of or of the airspace over the land referred to in paragraph (1) of article 18 (compulsory acquisition of land) as may be required for any purpose for which that land may be acquired under that provision instead of acquiring the whole of the land.
 
@@ -536,7 +536,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 (3) Paragraph (2) does not prevent article 25 (acquisition of part of certain properties) from applying where the undertaker acquires a cellar, vault, arch or other construction forming part of a house, building or manufactory.
 
-### 25. Acquisition of part of certain properties[^key-4da63137eccd1b37348aca3834613631]
+### 25. Acquisition of part of certain properties[^c-4da63137eccd1b37348aca3834613631]
 
 (1) This article applies instead of section 8(1) (other provisions as to divided land) of the 1965 Act (as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act) where—
 
@@ -579,7 +579,7 @@ the notice to treat is deemed to be a notice to treat for the land to which the 
 
 (10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, the undertaker must pay the owner compensation for any loss sustained by the owner due to the severance of that part in addition to the value of the interest acquired.
 
-### 26. Rights under or over streets[^key-1262464ccffbe414018fcbbe0a2eaa73]
+### 26. Rights under or over streets[^c-1262464ccffbe414018fcbbe0a2eaa73]
 
 (1) The undertaker may enter on and appropriate so much of the subsoil of, or airspace over, any street within the Order limits as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
 
@@ -594,7 +594,7 @@ the notice to treat is deemed to be a notice to treat for the land to which the 
 
 (5) Compensation is not payable under paragraph (4) to any person who is a statutory undertaker to whom section 85 (sharing cost of necessary measures) of the 1991 Act applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
 
-### 27. Temporary use of land for carrying out the authorised development[^key-46691da14c8424d5d71825d9ba729ae8]
+### 27. Temporary use of land for carrying out the authorised development[^c-46691da14c8424d5d71825d9ba729ae8]
 
 (1) The undertaker may, in connection with the carrying out of the authorised development—
 
@@ -636,7 +636,7 @@ the notice to treat is deemed to be a notice to treat for the land to which the 
 
 (11) Paragraph (1)(a)(ii) does not authorise the undertaker to take temporary possession of any land which the undertaker is not authorised to acquire under articles 18 (compulsory acquisition of land) or 21.
 
-### 28. Temporary use of land for maintaining the authorised development[^key-551b5ed6bf668d8fca1759fc73e57471]
+### 28. Temporary use of land for maintaining the authorised development[^c-551b5ed6bf668d8fca1759fc73e57471]
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to any part of the authorised development, the undertaker may—
 
@@ -666,7 +666,7 @@ the notice to treat is deemed to be a notice to treat for the land to which the 
 
 (11) In this article “the maintenance period”, in relation to any part of the authorised development means the period of 5 years beginning with the date on which that part of the authorised development is first opened for use.
 
-### 29. Statutory undertakers[^key-e877383386d20c0391243e8ef1159e74]
+### 29. Statutory undertakers[^c-e877383386d20c0391243e8ef1159e74]
 
 (1) Subject to the provisions of Schedule 8 (protective provisions) and paragraph (2), the undertaker may—
 
@@ -678,7 +678,7 @@ the notice to treat is deemed to be a notice to treat for the land to which the 
 - (a) Part 3 (street works in England and Wales) of the 1991 Act; and
 - (b) article 30 (apparatus and rights of statutory undertakers in stopped up streets).
 
-### 30. Apparatus and rights of statutory undertakers in stopped up streets[^key-3265b2320332021584cb503eee533d25]
+### 30. Apparatus and rights of statutory undertakers in stopped up streets[^c-3265b2320332021584cb503eee533d25]
 
 (1) Where a street is stopped up under article 12 (permanent stopping up and restriction of use of streets), any statutory utility whose apparatus is under, in, on, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this article, as if this Order had not been made.
 
@@ -717,7 +717,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - “relocation works” means work executed, or apparatus provided, under paragraph (2); and
 - “statutory utility” means a statutory undertaker for the purposes of the 1980 Act or a public communications provider as defined in section 151 (1) of the Communications Act 2003[^f00041].
 
-### 31. Recovery of costs of new connections[^key-b89c2be78e98aecd747b9457a62978b1]
+### 31. Recovery of costs of new connections[^c-b89c2be78e98aecd747b9457a62978b1]
 
 (1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 29 (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the undertaker compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
@@ -737,7 +737,7 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## PART 6 — OPERATIONS
 
-### 32. Felling or lopping of trees[^key-0f18925242697f74ebdb0251e61e3c2f]
+### 32. Felling or lopping of trees[^c-0f18925242697f74ebdb0251e61e3c2f]
 
 (1) The undertaker may fell or lop any tree or shrub, or cut back its roots, within or overhanging land within the Order limits, if it reasonably believes it to be necessary to do so to prevent the tree or shrub—
 
@@ -750,7 +750,7 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## PART 7 — MISCELLANEOUS AND GENERAL
 
-### 33. Application of landlord and tenant law[^key-a23e1bb3b60c0187d8af49c17c4a2c39]
+### 33. Application of landlord and tenant law[^c-a23e1bb3b60c0187d8af49c17c4a2c39]
 
 (1) This article applies to—
 
@@ -767,11 +767,11 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-### 34. Operational land for purposes of the 1990 Act[^key-a52d26f94192c916ed84d3e66d403ee9]
+### 34. Operational land for purposes of the 1990 Act[^c-a52d26f94192c916ed84d3e66d403ee9]
 
 Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) (cases in which land is to be treated as operational land for the purposes of that Act) of the 1990 Act.
 
-### 35. Defence to proceedings in respect of statutory nuisance[^key-d894cb6a9185f04faee10acc3bf575e8]
+### 35. Defence to proceedings in respect of statutory nuisance[^c-d894cb6a9185f04faee10acc3bf575e8]
 
 (1) Where proceedings are brought under section 82(1) (summary proceedings by person aggrieved by statutory nuisance) of the Environmental Protection Act 1990[^f00042] in relation to a nuisance falling within paragraph (g) of section 79(1) (noise emitted from premises so as to be prejudicial to health or a nuisance) of that Act, no order is to be made, and no fine may be imposed, under section 82(2)[^f00043] of that Act if—
 
@@ -782,11 +782,11 @@ Development consent granted by this Order is to be treated as specific planning 
 
 (2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) of the Control of Pollution Act 1974 does not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised development.
 
-### 36. Protection of interests[^key-48ceb1ee5c9d278ba75aa17c1cedb798]
+### 36. Protection of interests[^c-48ceb1ee5c9d278ba75aa17c1cedb798]
 
 Schedule 8 (protective provisions) has effect.
 
-### 37. Crown rights[^key-b01a5c2cab2d106c05391493f337c39a]
+### 37. Crown rights[^c-b01a5c2cab2d106c05391493f337c39a]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular, nothing in this Order authorises the undertaker or any licensee—
 
@@ -798,7 +798,7 @@ Schedule 8 (protective provisions) has effect.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and is deemed to have been given in writing where it is sent electronically.
 
-### 38. Certification of plans, etc.[^key-403b30081d67451c7674e2c40820b0ce]
+### 38. Certification of plans, etc.[^c-403b30081d67451c7674e2c40820b0ce]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the Secretary of State copies of—
 
@@ -816,7 +816,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 39. Service of notices[^key-87829712b05e595db5a7d6e893e1d5d9]
+### 39. Service of notices[^c-87829712b05e595db5a7d6e893e1d5d9]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -856,11 +856,11 @@ for certification that they are true copies of the documents referred to in this
 
 (10) In this article “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served, given or supplied by means of a notice or document in printed form.
 
-### 40. Arbitration[^key-c86965c9edd8c74edeef9e9fe3f9951d]
+### 40. Arbitration[^c-c86965c9edd8c74edeef9e9fe3f9951d]
 
 Except where otherwise expressly provided for in this Order and unless otherwise agreed between the parties, any difference under any provision of this Order (other than a difference which falls to be determined by the tribunal) must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
-### 41. Traffic regulation[^key-78d8b294a2d5f240567ea22bb5a15880]
+### 41. Traffic regulation[^c-78d8b294a2d5f240567ea22bb5a15880]
 
 (1) This article applies to roads in respect of which the undertaker is not the traffic authority.
 
@@ -906,7 +906,7 @@ either at all times or at times, on days or during such periods as may be specif
 
 (11) If the traffic authority fails to notify the undertaker of its decision within 28 days of receiving an application for consent under paragraph (2) the traffic authority is deemed to have granted consent.
 
-### 42. Provision as to approvals etc. under Schedule 2[^key-9959a9b0bd2d3b70b3eab2ca825ae285]
+### 42. Provision as to approvals etc. under Schedule 2[^c-9959a9b0bd2d3b70b3eab2ca825ae285]
 
 (1) Where the application is for a consent, agreement or approval required by a requirement under Schedule 2 (requirements), the following provisions apply, as far as they relate to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission, as if the requirement was a condition imposed on the grant of a planning permission—
 
@@ -927,13 +927,13 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-3bd683dd8490dac1c5bdd9c663526ddd]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-3bd683dd8490dac1c5bdd9c663526ddd]
 
 Articles 2 and 3
 
 ### In the administrative area of North Tyneside Council
 
-[^key-3bd683dd8490dac1c5bdd9c663526ddd]
+[^c-3bd683dd8490dac1c5bdd9c663526ddd]
 
 A nationally significant infrastructure project as defined in sections 14 and 22 of the 2008 Act[^f00048], comprising—
 
@@ -1010,20 +1010,20 @@ In connection with the construction of any of those works, further development w
 
 Article 3
 
-### 1. Interpretation[^key-b583c6a03c338360af6aa163ac85791f]
+### 1. Interpretation[^c-b583c6a03c338360af6aa163ac85791f]
 
 In this Schedule—
 
 - “CEMP” means construction environmental management plan;
-- “[^key-e8bbe9088bfad3705320f7594d1588fc]**European protected species**” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017;
+- “[^c-e8bbe9088bfad3705320f7594d1588fc]**European protected species**” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017;
 - “protected species” means species which are subject to protection under the laws of England or which are European protected species; and
 - “suitably qualified ecologist” means an ecologist who is a full member of the Chartered Institute of Ecology and Environmental Management.
 
-### 2. Time limits[^key-d81de96118e608eacf30ef3394889072]
+### 2. Time limits[^c-d81de96118e608eacf30ef3394889072]
 
 The authorised development must not commence later than the expiration of 5 years beginning with the date on which this Order comes into force.
 
-### 3. Construction Environmental Management Plan[^key-1874aed2d159409c60a3437fac29072c]
+### 3. Construction Environmental Management Plan[^c-1874aed2d159409c60a3437fac29072c]
 
 (1) No authorised development is to commence until a CEMP has been submitted to and approved in writing by the relevant planning authority.
 
@@ -1055,7 +1055,7 @@ The authorised development must not commence later than the expiration of 5 year
 
 (3) The authorised development must be constructed in accordance with the approved CEMP.
 
-### 4. Landscaping[^key-315315b3d086fbecb052eb56ea72cf64]
+### 4. Landscaping[^c-315315b3d086fbecb052eb56ea72cf64]
 
 (1) No part of the authorised development is to commence until a written landscaping scheme for that part has been submitted to and approved in writing by the relevant planning authority.
 
@@ -1072,7 +1072,7 @@ The authorised development must not commence later than the expiration of 5 year
 - (e) details of existing trees to be retained, with measures for their protection during the construction period; and
 - (f) implementation timetables for all landscaping works.
 
-### 5. Implementation and maintenance of landscaping[^key-d06bfde0b75345bf18985192a6623629]
+### 5. Implementation and maintenance of landscaping[^c-d06bfde0b75345bf18985192a6623629]
 
 (1) All landscaping works must be carried out in accordance with the landscaping scheme approved under Requirement 4.
 
@@ -1080,11 +1080,11 @@ The authorised development must not commence later than the expiration of 5 year
 
 (3) Any tree or shrub planted as part of the landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless the relevant planning authority gives consent in writing to a variation.
 
-### 6. Fencing[^key-10953d520bbdee87974609d0038e07a6]
+### 6. Fencing[^c-10953d520bbdee87974609d0038e07a6]
 
 Any permanent and temporary fencing and other means of enclosure for the authorised development must be constructed and installed in accordance with the undertaker’s Manual of Contract Documents for Highway Works except where any departures from that manual are agreed in writing by the relevant planning authority in connection with the authorised development.
 
-### 7. Contaminated land and groundwater[^key-8348a762260c871f458206b5c9171dd7]
+### 7. Contaminated land and groundwater[^c-8348a762260c871f458206b5c9171dd7]
 
 (1) In the event that contaminated land, including groundwater, is found at any time when carrying out the authorised development, which was not previously identified in the environmental report, the undertaker must cease construction of the authorised development in the vicinity of that contaminated land and must report it immediately in writing to the Environment Agency and relevant planning authority, and in agreement with the Environment Agency and the relevant planning authority undertake a risk assessment of the contamination which must be submitted to the relevant planning authority.
 
@@ -1096,7 +1096,7 @@ Any permanent and temporary fencing and other means of enclosure for the authori
 
 (5) Where the relevant planning authority determines in writing that remediation is not necessary, construction of the authorised development in the vicinity of the contaminated land may recommence.
 
-### 8. Archaeology[^key-075e1dc7dc415df5ef9c5e660a6bc454]
+### 8. Archaeology[^c-075e1dc7dc415df5ef9c5e660a6bc454]
 
 (1) No part of the authorised development is to commence until for that part a written scheme for the investigation of areas of archaeological interest, reflecting the mitigation measures included in section 5 of the environmental report, has been submitted to and approved in writing by the relevant planning authority.
 
@@ -1110,7 +1110,7 @@ Any permanent and temporary fencing and other means of enclosure for the authori
 
 (6) If the relevant planning authority determines in writing that the archaeological remains require further investigation, no construction operations are to take place within 10 metres of the remains until provision has been made for the further investigation and recording of the remains in accordance with details to be submitted in writing to, and approved in writing by, the relevant planning authority.
 
-### 9. Ecological management plan[^key-fd3adf9b588b26e5e5ccae1fed4c05e1]
+### 9. Ecological management plan[^c-fd3adf9b588b26e5e5ccae1fed4c05e1]
 
 (1) No part of the authorised development is to commence until a written ecological management plan applicable to that part, reflecting the survey results and ecological mitigation measures included in section 7 of the environmental report, and including a timetable for its implementation, has been prepared in consultation with Natural England in so far as relevant to protected species or protected sites and submitted to and approved in writing by the relevant planning authority.
 
@@ -1124,23 +1124,23 @@ Any permanent and temporary fencing and other means of enclosure for the authori
 
 (6) If the SQE advises the undertaker that a method statement or species protection plan is not required under sub-paragraph (3), the undertaker may recommence construction following receipt of written confirmation from the SQE.
 
-### 10. Traffic Management[^key-fd2284ac7e59c7c8e5d538ae5a8c435e]
+### 10. Traffic Management[^c-fd2284ac7e59c7c8e5d538ae5a8c435e]
 
 (1) No authorised development is to commence until a traffic management plan for the construction of the authorised development has been prepared in consultation with the local highway authority and submitted to and approved in writing by the undertaker.
 
 (2) The authorised development must be constructed in accordance with the approved management plan.
 
-### 11. Detailed design[^key-0c6f0af7c4fc78605b623d848d2fa9b7]
+### 11. Detailed design[^c-0c6f0af7c4fc78605b623d848d2fa9b7]
 
 The authorised development must be carried out in accordance with the scheme design shown on the engineering drawings and sections or with any altered scheme design approved in writing by the relevant planning authority, provided that the development so altered falls within the limits of deviation and any alterations are minor or immaterial.
 
-### 12. Surface and foul water drainage[^key-6782b7372780b8c940cdfb91a83c6d79]
+### 12. Surface and foul water drainage[^c-6782b7372780b8c940cdfb91a83c6d79]
 
 (1) No authorised development is to commence until written details of the surface and foul water drainage system, reflecting the mitigation measures in section 12 of the environmental report and including means of pollution control, have been prepared in consultation with the Environment Agency and submitted to and approved in writing by the relevant planning authority.
 
 (2) The drainage system must be constructed in accordance with the approved details referred to in sub-paragraph (1).
 
-### 13. Approvals and amendments to approved details[^key-b28d3853061819f2f47855ba7f255db6]
+### 13. Approvals and amendments to approved details[^c-b28d3853061819f2f47855ba7f255db6]
 
 (1) Where the agreement or approval of the relevant planning authority is required under any requirement in this Schedule, such agreement or approval may only be given where it has been demonstrated to the satisfaction of the relevant planning authority that the subject matter of the agreement or approval sought is unlikely to give rise to any materially different adverse environmental effect from those assessed in the environmental report.
 
@@ -1150,7 +1150,7 @@ The authorised development must be carried out in accordance with the scheme des
 
 Article 10
 
-### PART 1 — TRUNK ROADS[^key-5e651097ddf64574ca160be5d27316ee]
+### PART 1 — TRUNK ROADS[^c-5e651097ddf64574ca160be5d27316ee]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road to become a Trunk Road* |
 | --- | --- |
@@ -1159,7 +1159,7 @@ Article 10
 | North Tyneside | Southbound off-slip road to the north of the A19/A1058 Coast Road junction between point 1/5 and point 1/6 on the rights of way and access plans, comprising 407 metres. |
 | North Tyneside | New section of A19 dual carriageway under the existing A19/A1058 Coast Road junction between point 1/7 and point 1/8 on the rights of way and access plans, comprising 867 metres. |
 
-### PART 2 — ROADS SUBJECT TO 50 MILES PER HOUR LIMIT[^key-2fb2f569cd3ef70197181ee8484d8af4]
+### PART 2 — ROADS SUBJECT TO 50 MILES PER HOUR LIMIT[^c-2fb2f569cd3ef70197181ee8484d8af4]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -1169,7 +1169,7 @@ Article 10
 | North Tyneside | Southbound off slip road to the north of the A19/A1058 Coast Road junction between point 1/7 and point 1/8 on the traffic regulation plans, comprising 407 metres. |
 | North Tyneside | A19 mainline on both north and southbound carriageways from point 1/9 to point 1/10 on the traffic regulation plans, comprising 2,120 metres. |
 
-### PART 3 — CYCLE TRACKS AND FOOTWAYS[^key-cb495b883a5c8b9b10f2cd9cb9b270c2]
+### PART 3 — CYCLE TRACKS AND FOOTWAYS[^c-cb495b883a5c8b9b10f2cd9cb9b270c2]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of Cycle track/Footway* |
 | --- | --- |
@@ -1190,7 +1190,7 @@ Article 12
 | North Tyneside | Closure of a layby on A19 mainline northbound carriageway as shown on the traffic regulation plans. | Location 1/21 on the traffic regulation plans. |
 | North Tyneside | Closure of a layby on A19 mainline southbound carriageway as shown on the traffic regulation plans. | Location 1/22 on the traffic regulation plans. |
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-f35fb7d2899202f88cecf31a23ce29a1]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-f35fb7d2899202f88cecf31a23ce29a1]
 
 Article 21
 
@@ -1214,11 +1214,11 @@ Article 21
 
 Article 21
 
-### 1. Compensation enactments[^key-f8d925973c9e5d8914569fc3215c8e67]
+### 1. Compensation enactments[^c-f8d925973c9e5d8914569fc3215c8e67]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-7d825be15ead05ed0cebbdfc6a92f102] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00051] has effect subject to the modifications set out in sub-paragraphs (2) and (3).
+**2.**[^c-7d825be15ead05ed0cebbdfc6a92f102] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00051] has effect subject to the modifications set out in sub-paragraphs (2) and (3).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4—
 
@@ -1236,7 +1236,7 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 3. Application of the 1965 Act[^key-76234093f99e49cb4d9b71ab3044e64b]
+### 3. Application of the 1965 Act[^c-76234093f99e49cb4d9b71ab3044e64b]
 
 (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -1245,13 +1245,13 @@ The enactments for the time being in force with respect to compensation for the 
 
 (2) Without limitation on the scope of sub-paragraph (1), Part 1 of the 1965 Act applies in relation to the compulsory acquisition under this Order of a right by the creation of a new right with the modifications specified in the following provisions of this Schedule.
 
-**4.**[^key-1812059336d4e1cf0b0c2446805d85f4] For section 7 of the 1965 Act (measure of compensation) substitute—
+**4.**[^c-1812059336d4e1cf0b0c2446805d85f4] For section 7 of the 1965 Act (measure of compensation) substitute—
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act, regard must be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of the owner, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
 .
 
-**5.**[^key-0d903d5e2a3e4df6facee3cfcf37ad1d] For section 8 (provisions as to divided land) of the 1965 Act substitute—
+**5.**[^c-0d903d5e2a3e4df6facee3cfcf37ad1d] For section 8 (provisions as to divided land) of the 1965 Act substitute—
 
 > **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”)–
 >
@@ -1268,7 +1268,7 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-**6.**[^key-e23ee9b1ebe00ddf9fcb53b982a0f771] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say–
+**6.**[^c-e23ee9b1ebe00ddf9fcb53b982a0f771] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say–
 
 - (a) section 9(4) (failure by owners to convey);
 - (b) paragraph 10(3) of Schedule 1 (owners under incapacity);
@@ -1277,13 +1277,13 @@ The enactments for the time being in force with respect to compensation for the 
 
 are modified so as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**7.**[^key-572ea37e22cf978f8f55b763c9affc37] Section 11[^f00054] (powers of entry) of the 1965 Act is modified so as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12[^f00055] (penalty for unauthorised entry) and 13[^f00056] (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
+**7.**[^c-572ea37e22cf978f8f55b763c9affc37] Section 11[^f00054] (powers of entry) of the 1965 Act is modified so as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12[^f00055] (penalty for unauthorised entry) and 13[^f00056] (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
 
-**8.**[^key-99b3d93f77e2768147fe58b06fdfcff2] Section 20[^f00057] (protection for interests of tenants at will, etc.) of the 1965 Act applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
+**8.**[^c-99b3d93f77e2768147fe58b06fdfcff2] Section 20[^f00057] (protection for interests of tenants at will, etc.) of the 1965 Act applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
-**9.**[^key-34e2e5fc7f4878c9489f7c3d1de13198] Section 22 (interests omitted from purchase) of the 1965 Act is modified so as to enable the acquiring authority in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+**9.**[^c-34e2e5fc7f4878c9489f7c3d1de13198] Section 22 (interests omitted from purchase) of the 1965 Act is modified so as to enable the acquiring authority in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
 
-## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-6464a62093cd6c84fb03de5aa44b17f2]
+## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-6464a62093cd6c84fb03de5aa44b17f2]
 
 Article 27
 
@@ -1305,9 +1305,9 @@ Articles 29 and 36
 
 ### PART 1 — FOR THE PROTECTION OF ELECTRICITY, WATER AND SEWERAGE UNDERTAKERS
 
-**1.**[^key-63302136ba328e15f57fa71cbda1f60a] For the protection of the utility undertakers referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker concerned.
+**1.**[^c-63302136ba328e15f57fa71cbda1f60a] For the protection of the utility undertakers referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker concerned.
 
-**2.**[^key-28c163344dd1dca859fbb8006879eb25] In this Part of this Schedule—
+**2.**[^c-28c163344dd1dca859fbb8006879eb25] In this Part of this Schedule—
 
 - “alternative apparatus” means alternative apparatus adequate to enable the utility undertaker in question to fulfil its statutory functions in a manner no less efficient than previously;
 - “apparatus” means—
@@ -1330,25 +1330,25 @@ Articles 29 and 36
 
   for the area of the authorised development, and in relation to any apparatus, means the utility undertaker to whom it belongs or by whom it is maintained.
 
-#### 3. On street apparatus[^key-69d6e4a22a4c5904eda21dabeb8133e7]
+#### 3. On street apparatus[^c-69d6e4a22a4c5904eda21dabeb8133e7]
 
 This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the utility undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 4. Apparatus in stopped up streets[^key-7b91d3ec284d44e4ce2e7555fac620a1]
+#### 4. Apparatus in stopped up streets[^c-7b91d3ec284d44e4ce2e7555fac620a1]
 
 (1) Where any street is stopped up under article 12 (permanent stopping up and restriction of use of streets), any utility undertaker whose apparatus is in the street has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to the utility undertaker legal easements reasonably satisfactory to the utility undertaker in respect of such apparatus and access to it, but nothing in this paragraph affects any right of the undertaker or of the utility undertaker to require the removal of that apparatus under paragraph 7 or the power of the undertaker to carry out works under paragraph 9.
 
 (2) Regardless of the temporary stopping up or diversion of any highway under the powers conferred by article 11 (temporary stopping up and restriction of use of streets), a utility undertaker is at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the stopping up or diversion was in that highway.
 
-#### 5. Protective works to buildings[^key-b76d25b4558eef5b8de9b84acae1e7a9]
+#### 5. Protective works to buildings[^c-b76d25b4558eef5b8de9b84acae1e7a9]
 
 The undertaker, in the case of the powers conferred by article 16 (protective work to buildings), must exercise those powers so as not to obstruct or render less convenient the access to any apparatus.
 
-#### 6. Acquisition of land[^key-55286fa4bcab7944043e3a6d42ab659d]
+#### 6. Acquisition of land[^c-55286fa4bcab7944043e3a6d42ab659d]
 
 Regardless of any provision in this Order or anything shown on the land plans, the undertaker must not acquire any apparatus otherwise than by agreement.
 
-#### 7. Removal of apparatus[^key-3f9cae4cbce4b15426742ad7ea1e2513]
+#### 7. Removal of apparatus[^c-3f9cae4cbce4b15426742ad7ea1e2513]
 
 (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed or requires that the utility undertaker’s apparatus is relocated or diverted, that apparatus must not be removed under this Part of this Schedule and any right of a utility undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the utility undertaker in question in accordance with sub-paragraphs (2) to (7).
 
@@ -1364,13 +1364,13 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 
 (7) Nothing in sub-paragraph (6) authorises the undertaker to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-#### 8. Facilities and rights for alternative apparatus[^key-8f220b5b96839605da574e97260d4c5c]
+#### 8. Facilities and rights for alternative apparatus[^c-8f220b5b96839605da574e97260d4c5c]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to a utility undertaker facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between the undertaker and the utility undertaker in question or in default of agreement settled by arbitration in accordance with article 40 (arbitration).
 
 (2) If the facilities and rights to be afforded by the undertaker in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the utility undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by the undertaker to that utility undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 9. Retained apparatus[^key-863628c495a30474671661c30c573a0e]
+#### 9. Retained apparatus[^c-863628c495a30474671661c30c573a0e]
 
 (1) Not less than 28 days before starting the execution of any works in, on or under any land purchased, held, appropriated or used under this Order that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 7(2), the undertaker must submit to the utility undertaker in question a plan of the works to be executed.
 
@@ -1392,7 +1392,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 - (d) the position of all electricity apparatus; and
 - (e) by way of detailed drawings, every alteration proposed to be made to such apparatus.
 
-#### 10. Expenses and costs[^key-1c66717950207765dcab9a1a278334ef]
+#### 10. Expenses and costs[^c-1c66717950207765dcab9a1a278334ef]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to a utility undertaker all expenses reasonably incurred by that utility undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 7(2).
 
@@ -1412,7 +1412,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to a utility undertaker in respect of works by virtue of sub-paragraph (1), if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the utility undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, is to be reduced by the amount which represents that benefit.
 
-**11.**[^key-c90dd2cba2a2155644c38ab3f5ffaf9a] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 5 or 7(2), any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any utility undertaker, the undertaker must—
+**11.**[^c-c90dd2cba2a2155644c38ab3f5ffaf9a] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 5 or 7(2), any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any utility undertaker, the undertaker must—
 
 - (a) bear and pay the cost reasonably incurred by that utility undertaker in making good such damage or restoring the supply; and
 - (b) make reasonable compensation to that utility undertaker for any other expenses, loss, damages, penalty or costs incurred by the utility undertaker,
@@ -1425,19 +1425,19 @@ by reason or in consequence of any such damage or interruption
 
 (4) A utility undertaker must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise is to be made without the consent of the undertaker and, if such consent is withheld, has the sole conduct of any settlement or compromise of any proceedings necessary to resist the claim or demand.
 
-#### 12. Cooperation[^key-7985a1e8192f49a9b52beebda698096c]
+#### 12. Cooperation[^c-7985a1e8192f49a9b52beebda698096c]
 
 Where in consequence of the proposed construction of any of the authorised development, the undertaker or a utility undertaker requires the removal of apparatus under paragraph 7(2) or a utility undertaker makes requirements for the protection or alteration of apparatus under paragraph 9, the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of the utility undertaker’s undertaking and each utility undertaker must use its best endeavours to co-operate with the undertaker for that purpose.
 
-**13.**[^key-ce757322c2303d2f01ed86ddcbf81bc0] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and a utility undertaker in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
+**13.**[^c-ce757322c2303d2f01ed86ddcbf81bc0] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and a utility undertaker in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
 ### PART 2 — FOR THE PROTECTION OF NORTHERN GAS NETWORKS LIMITED
 
-#### 14. Application[^key-f53b5c8f181bfd67f62d242b0b55ce0a]
+#### 14. Application[^c-f53b5c8f181bfd67f62d242b0b55ce0a]
 
 For the protection of the utility undertaker the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker.
 
-#### 15. Interpretation[^key-bd3fa8f009b4b531d2d4dc8abce9d503]
+#### 15. Interpretation[^c-bd3fa8f009b4b531d2d4dc8abce9d503]
 
 In this Part of this Schedule—
 
@@ -1449,19 +1449,19 @@ In this Part of this Schedule—
 - “plan” or “plans” include all designs, drawings, specifications, method statements, soil reports, programmes, calculations, risk assessments and other documents that are reasonably necessary properly and sufficiently to describe the works to be executed; and
 - “utility undertaker” means Northern Gas Networks Limited, a gas transporter within the meaning of Part 1 of the Gas Act 1986[^f00062].
 
-**16.**[^key-b004efd04bc856722d2f06020248c0e1] Except for paragraphs 17 (apparatus of utility undertaker in stopped up streets), 21 (retained apparatus: protection), 22 (expenses) and 23 (indemnity), this Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the utility undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+**16.**[^c-b004efd04bc856722d2f06020248c0e1] Except for paragraphs 17 (apparatus of utility undertaker in stopped up streets), 21 (retained apparatus: protection), 22 (expenses) and 23 (indemnity), this Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the utility undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 17. Apparatus of utility undertaker in stopped up streets[^key-e163df6133819ef5a5a7afaaf4acf7be]
+#### 17. Apparatus of utility undertaker in stopped up streets[^c-e163df6133819ef5a5a7afaaf4acf7be]
 
 (1) Where any street is stopped up under article 12 (permanent stopping up and restriction of use of streets) and the utility undertaker has apparatus which is in that street or accessed via that street, the utility undertaker has the same rights in respect of such apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to the utility undertaker legal easements reasonably satisfactory to the utility undertaker in respect of such apparatus and access to it prior to the stopping up of any such street.
 
 (2) Regardless of the temporary stopping up or diversion of any highway under the powers conferred by article 11 (temporary stopping up and restriction of use of streets), the utility undertaker is at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the stopping up or diversion was in that highway, subject always to the undertaker’s unimpeded ability to carry out the authorised development.
 
-#### 18. Acquisition of land[^key-f84cbfd390471512435edf4010205dba]
+#### 18. Acquisition of land[^c-f84cbfd390471512435edf4010205dba]
 
 Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker must not acquire any apparatus or override any easement or other interest of the utility undertaker otherwise than by agreement.
 
-#### 19. Removal or diversion of apparatus[^key-d1b746cb4a6f28f25ff871ad118ebd81]
+#### 19. Removal or diversion of apparatus[^c-d1b746cb4a6f28f25ff871ad118ebd81]
 
 (1) If the undertaker acquires any interest in land in which the utility undertaker’s apparatus is placed, that apparatus must not be removed and any right of the utility undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the utility undertaker.
 
@@ -1485,7 +1485,7 @@ and the utility undertaker must commence the planning for the removal or diversi
 
 (6) Paragraphs 22 (expenses) and 23 (indemnity) of this Part of this Schedule apply to removal or diversion works under this paragraph, but the utility undertaker must provide to the undertaker for its approval a cost estimate for works that the utility undertaker proposes to carry out, and the undertaker is not liable for any costs under this paragraph that are not in accordance with an estimate that it has approved.
 
-#### 20. Facilities and rights for alternative apparatus[^key-274e6f227620271206dfd3c89e1f5d6c]
+#### 20. Facilities and rights for alternative apparatus[^c-274e6f227620271206dfd3c89e1f5d6c]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to the utility undertaker facilities and rights for the construction and maintenance in the undertaker’s land of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and the utility undertaker and must be no less favourable on the whole to the utility undertaker than the facilities and rights enjoyed by it in respect of the apparatus to be removed, unless otherwise reasonably agreed.
 
@@ -1493,7 +1493,7 @@ and the utility undertaker must commence the planning for the removal or diversi
 
 (3) If the amount of compensation cannot be agreed, then either the undertaker or the utility undertaker may refer the matter to arbitration, and the arbitrator must make such provision for the payment of compensation by the undertaker to the utility undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 21. Retained apparatus: protection[^key-826bd0270446a73ee2cf98e7759cdcdc]
+#### 21. Retained apparatus: protection[^c-826bd0270446a73ee2cf98e7759cdcdc]
 
 (1) Not less than 56 days before commencing the execution of any works that will or may affect any apparatus, the removal or diversion of which has not been required by the undertaker under paragraph 19(2) or otherwise, the undertaker must submit to the utility undertaker in question a plan showing the works and the apparatus.
 
@@ -1534,7 +1534,7 @@ and the utility undertaker must commence the planning for the removal or diversi
 
 (10) At all times when carrying out any works authorised under this Order, the undertaker must comply with the utility undertaker’s policies for safe working in proximity to gas apparatus “Specification for safe working in the vicinity of Northern Gas Networks, Gas pipelines and associated installation requirements for third parties NGN/SPSSW22” and Health and Safety Executive guidance document “HS(G)47 Avoiding Danger from underground services”.
 
-#### 22. Expenses[^key-bd27ead6a52b62ee83288d531dfc9c4b]
+#### 22. Expenses[^c-bd27ead6a52b62ee83288d531dfc9c4b]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to the utility undertaker on demand all charges, costs and expenses reasonably incurred by the utility undertaker in, or in connection with, the inspection, removal or diversion, relaying or replacing, alteration or protection of any apparatus or the construction of any new apparatus which may be reasonably required and necessary in consequence of the execution of the works, including without limitation—
 
@@ -1559,7 +1559,7 @@ then, if this incurs greater expense than would have been incurred by a like-for
 
 (5) For the purposes of sub-paragraph (4) an extension of apparatus to a length greater than the length of existing apparatus is not to be treated as a placing of apparatus of greater dimensions than those of the existing apparatus.
 
-#### 23. Indemnity[^key-bef6ed5c3e3926f5aa8696d38196161f]
+#### 23. Indemnity[^c-bef6ed5c3e3926f5aa8696d38196161f]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), if by reason or in consequence of the construction of any works carried out under this Part of this Schedule or in consequence of the construction, use, maintenance of the works by or on behalf of the undertaker or failure of any of the works in consequence of any act or default of the undertaker (or any person employed or authorised by it) in the course of carrying out such works, there is subsidence resulting from any of the works, or any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by the utility undertaker, or the utility undertaker becomes liable to pay any amount to any third party, the undertaker must—
 
@@ -1574,46 +1574,46 @@ then, if this incurs greater expense than would have been incurred by a like-for
 
 (5) The utility undertaker must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise is to be made without first consulting the undertaker and considering its promptly made representations to the extent practicable.
 
-#### 24. Enactments and agreements[^key-f1c619f6f1cd349105eec642c9bb0222]
+#### 24. Enactments and agreements[^c-f1c619f6f1cd349105eec642c9bb0222]
 
 Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and the utility undertaker in respect of any apparatus laid or erected in land belonging to the undertaker.
 
-#### 25. Co-operation[^key-46f522334045519b7403971e11194085]
+#### 25. Co-operation[^c-46f522334045519b7403971e11194085]
 
 Where in consequence of the proposed construction of any of the authorised development the undertaker or the utility undertaker requires the removal of apparatus in accordance with the provisions of this Part of this Schedule, the undertaker must use its best endeavours to co-ordinate the execution of the works to or for the benefit of the apparatus in the interests of safety and the efficient and economic execution of such works, taking into account the need to ensure the safe and efficient operation of the utility undertaker’s undertaking, and the utility undertaker must use its best endeavours to co-operate with the undertaker for that purpose.
 
-#### 26. Access[^key-4820ac812fe14e59900a39330570b059]
+#### 26. Access[^c-4820ac812fe14e59900a39330570b059]
 
 If in consequence of an agreement reached in accordance with paragraph 18 or the powers granted under this Order, the access to any apparatus is materially obstructed, the undertaker must provide such alternative means of access to such apparatus as will enable the utility undertaker to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 27. Arbitration[^key-1bbe61b1f9c07c38385391b9fa4a31a8]
+#### 27. Arbitration[^c-1bbe61b1f9c07c38385391b9fa4a31a8]
 
 Any difference or dispute arising between the undertaker and the utility undertaker under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and that utility undertaker, be determined by arbitration in accordance with article 40 (arbitration).
 
-#### 28. Works falling outside of development authorised by the Order[^key-90c2e1b9456af8cc110b60ad7ca23b3f]
+#### 28. Works falling outside of development authorised by the Order[^c-90c2e1b9456af8cc110b60ad7ca23b3f]
 
 Nothing in this schedule requires the undertaker to carry out works, or requires the undertaker to enable the utility undertaker to carry out works, that are not authorised by this Order. The utility undertaker must not request any alteration, diversion, protective work or any other work which is not authorised to be carried out under this Order (but for the avoidance of doubt, it may elect to carry out such works itself under any other planning permission available to it).
 
 ### PART 3 — FOR THE PROTECTION OF OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**29.**[^key-12c09e85be3a07fdf120478530c66d83] For the protection of any operator, the following provisions, unless otherwise agreed in writing between the undertaker and the operator, have effect.
+**29.**[^c-12c09e85be3a07fdf120478530c66d83] For the protection of any operator, the following provisions, unless otherwise agreed in writing between the undertaker and the operator, have effect.
 
-**30.**[^key-e3c030a19514e8bb6d1bdc1777002e02] In this Part of this Schedule—
+**30.**[^c-e3c030a19514e8bb6d1bdc1777002e02] In this Part of this Schedule—
 
 - “the 2003 Act” means the Communications Act 2003[^f00063];
-- [^key-61c23b9db20719d6a92428a63f7544a4]...
+- [^c-61c23b9db20719d6a92428a63f7544a4]...
 - “electronic communications apparatus” has the same meaning as in the electronic communications code;
 - “the electronic communications code” has the same meaning as in Chapter 1 of Part 2 of the 2003 Act[^f00065];
 - “electronic communications code network” means–
-  - (a) so much of an electronic communications network or infrastructure system[^key-4f9a5e86cedc57751a88d81dcd9a396a] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
+  - (a) so much of an electronic communications network or infrastructure system[^c-4f9a5e86cedc57751a88d81dcd9a396a] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
   - (b) an electronic communications network which the undertaker is providing or proposing to provide;
 - “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106 of the 2003 Act;
-- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^key-c17a587f98755e4958ead17e52418657] and
+- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^c-c17a587f98755e4958ead17e52418657] and
 - “operator” means the operator of an electronic communications code network.
 
-**31.**[^key-d9f390461992e8fc7629d974dd1af604] The exercise of the powers conferred by article 29 (statutory undertakers) is subject to Part 10 of Schedule 3A to the Communications Act 2003 (undertaker’s works)[^key-23ba8c5fd1e4238032e8280ef4fe18d1].
+**31.**[^c-d9f390461992e8fc7629d974dd1af604] The exercise of the powers conferred by article 29 (statutory undertakers) is subject to Part 10 of Schedule 3A to the Communications Act 2003 (undertaker’s works)[^c-23ba8c5fd1e4238032e8280ef4fe18d1].
 
-**32.**[^key-41eaeb8a26273b5090c0f4422c1cf92c] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction, or of any subsidence resulting from the authorised development—
+**32.**[^c-41eaeb8a26273b5090c0f4422c1cf92c] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction, or of any subsidence resulting from the authorised development—
 
 - (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised development, or other property of an operator); or
 - (b) there is any interruption in the supply of the service provided by an operator,
@@ -1653,9 +1653,9 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103), amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635).
 
-[^key-d92627c28f59ce1a5e1d5e7b0fe36efa]: Commencement: Art. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d92627c28f59ce1a5e1d5e7b0fe36efa]: Commencement: Art. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-90f23c62f1d860670cb575651c85d6dd]: Commencement: Art. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-90f23c62f1d860670cb575651c85d6dd]: Commencement: Art. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -1681,17 +1681,17 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00015]: Footnote: As amended by section 1 of, and Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-52f7f1e71cf3fdb1ff31eb32e11ab322]: Commencement: Art. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-52f7f1e71cf3fdb1ff31eb32e11ab322]: Commencement: Art. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-b5c4d401e7d7f5554a0c8b8de652b6ef]: Commencement: Art. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b5c4d401e7d7f5554a0c8b8de652b6ef]: Commencement: Art. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-2b23ed2ec2020718efd3deb7bb407c58]: Commencement: Art. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-2b23ed2ec2020718efd3deb7bb407c58]: Commencement: Art. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-375544660969bd317e34a477bede945c]: Commencement: Art. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-375544660969bd317e34a477bede945c]: Commencement: Art. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-ff2cf737c63d7fe1feb82512973f2aa2]: Commencement: Art. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-ff2cf737c63d7fe1feb82512973f2aa2]: Commencement: Art. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-731fd8821ba89a06abf0e8bdbb814487]: Commencement: Art. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-731fd8821ba89a06abf0e8bdbb814487]: Commencement: Art. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00016]: Footnote: As amended by section 102 of, and schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
@@ -1723,21 +1723,21 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00030]: Footnote: As amended by section 42 of the Traffic Management Act 2004.
 
-[^key-f8f55b47b2bafde519d1ab06b823caaa]: Commencement: Art. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-f8f55b47b2bafde519d1ab06b823caaa]: Commencement: Art. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-78d1606606ae7e55083f94e23b0d6618]: Commencement: Art. 10 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-78d1606606ae7e55083f94e23b0d6618]: Commencement: Art. 10 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00031]: Footnote: As amended by section 22 of the 1991 Act, and by section 1 and schedule 1 of the Infrastructure Act 2015.
 
-[^key-7da52c40f8de36b4dbe82964274d8774]: Commencement: Art. 11 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-7da52c40f8de36b4dbe82964274d8774]: Commencement: Art. 11 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-d1880403fb61ecb22f4a860af10e292f]: Commencement: Art. 12 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d1880403fb61ecb22f4a860af10e292f]: Commencement: Art. 12 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-d5d67588dc63aac9f842f232978d962b]: Commencement: Art. 13 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d5d67588dc63aac9f842f232978d962b]: Commencement: Art. 13 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-4ac68e9d1bafcf4b5fc79b0b4c27baf5]: Commencement: Art. 14 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-4ac68e9d1bafcf4b5fc79b0b4c27baf5]: Commencement: Art. 14 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-8e8b3ac70ef22bc71d3ebdc83795ce55]: Textual amendment: Words in [art. 14(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/73/article/14/2/a/iii) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/2)
+[^c-8e8b3ac70ef22bc71d3ebdc83795ce55]: Textual amendment: Words in [art. 14(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/73/article/14/2/a/iii) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/2)
 
 [^f00033]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
@@ -1745,59 +1745,59 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00035]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-390843776994f7b5fda50471e66ee79b]: Commencement: Art. 15 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-390843776994f7b5fda50471e66ee79b]: Commencement: Art. 15 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00036]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(1) and (8) of, and schedule 2 to, the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and paragraph 16(1) of schedule 3 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-855f914b8df963a7d37b04ed8db66c9b]: Textual amendment: Words in [art. 15(7)](https://www.legislation.gov.uk/uksi/2016/73/article/15/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 107](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/107) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-855f914b8df963a7d37b04ed8db66c9b]: Textual amendment: Words in [art. 15(7)](https://www.legislation.gov.uk/uksi/2016/73/article/15/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 107](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/107) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00038]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-67a86d59135c66f75086668c241c0063]: Commencement: Art. 16 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-67a86d59135c66f75086668c241c0063]: Commencement: Art. 16 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00039]: Footnote: As amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-4bf43d665c4f872912d33ae45700986e]: Commencement: Art. 17 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-4bf43d665c4f872912d33ae45700986e]: Commencement: Art. 17 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-b2a4f67faa95e4042a36d46d84d61b8e]: Commencement: Art. 18 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b2a4f67faa95e4042a36d46d84d61b8e]: Commencement: Art. 18 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-ae7ac90df333ed7f6def79f306411488]: Commencement: Art. 19 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-ae7ac90df333ed7f6def79f306411488]: Commencement: Art. 19 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00040]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-fb44de5f3b7d0501923e8634f0c07ac2]: Commencement: Art. 20 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-fb44de5f3b7d0501923e8634f0c07ac2]: Commencement: Art. 20 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-36d0206418038aa85761660d15373e45]: Commencement: Art. 21 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-36d0206418038aa85761660d15373e45]: Commencement: Art. 21 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-610cea186a45ec77898079695222de5f]: Commencement: Art. 22 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-610cea186a45ec77898079695222de5f]: Commencement: Art. 22 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-1cfa7840c9dafbedcdf5f5fb58c746b9]: Commencement: Art. 23 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-1cfa7840c9dafbedcdf5f5fb58c746b9]: Commencement: Art. 23 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-50fdc7209b22302fd218b7c8303e741e]: Commencement: Art. 24 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-50fdc7209b22302fd218b7c8303e741e]: Commencement: Art. 24 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-4da63137eccd1b37348aca3834613631]: Commencement: Art. 25 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-4da63137eccd1b37348aca3834613631]: Commencement: Art. 25 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-1262464ccffbe414018fcbbe0a2eaa73]: Commencement: Art. 26 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-1262464ccffbe414018fcbbe0a2eaa73]: Commencement: Art. 26 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-46691da14c8424d5d71825d9ba729ae8]: Commencement: Art. 27 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-46691da14c8424d5d71825d9ba729ae8]: Commencement: Art. 27 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-551b5ed6bf668d8fca1759fc73e57471]: Commencement: Art. 28 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-551b5ed6bf668d8fca1759fc73e57471]: Commencement: Art. 28 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-e877383386d20c0391243e8ef1159e74]: Commencement: Art. 29 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-e877383386d20c0391243e8ef1159e74]: Commencement: Art. 29 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-3265b2320332021584cb503eee533d25]: Commencement: Art. 30 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-3265b2320332021584cb503eee533d25]: Commencement: Art. 30 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00041]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-b89c2be78e98aecd747b9457a62978b1]: Commencement: Art. 31 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b89c2be78e98aecd747b9457a62978b1]: Commencement: Art. 31 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-0f18925242697f74ebdb0251e61e3c2f]: Commencement: Art. 32 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-0f18925242697f74ebdb0251e61e3c2f]: Commencement: Art. 32 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-a23e1bb3b60c0187d8af49c17c4a2c39]: Commencement: Art. 33 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-a23e1bb3b60c0187d8af49c17c4a2c39]: Commencement: Art. 33 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-a52d26f94192c916ed84d3e66d403ee9]: Commencement: Art. 34 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-a52d26f94192c916ed84d3e66d403ee9]: Commencement: Art. 34 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-d894cb6a9185f04faee10acc3bf575e8]: Commencement: Art. 35 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d894cb6a9185f04faee10acc3bf575e8]: Commencement: Art. 35 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00042]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this sub-section which are not relevant to this Order.
 
@@ -1805,89 +1805,89 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00044]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61 was amended by section 162 of, and paragraph 15(1) and (3) of Schedule 15 to, the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43); there are other amendments to section 61 but none is relevant to this Order.
 
-[^key-48ceb1ee5c9d278ba75aa17c1cedb798]: Commencement: Art. 36 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-48ceb1ee5c9d278ba75aa17c1cedb798]: Commencement: Art. 36 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-b01a5c2cab2d106c05391493f337c39a]: Commencement: Art. 37 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b01a5c2cab2d106c05391493f337c39a]: Commencement: Art. 37 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-403b30081d67451c7674e2c40820b0ce]: Commencement: Art. 38 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-403b30081d67451c7674e2c40820b0ce]: Commencement: Art. 38 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-87829712b05e595db5a7d6e893e1d5d9]: Commencement: Art. 39 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-87829712b05e595db5a7d6e893e1d5d9]: Commencement: Art. 39 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00045]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-c86965c9edd8c74edeef9e9fe3f9951d]: Commencement: Art. 40 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-c86965c9edd8c74edeef9e9fe3f9951d]: Commencement: Art. 40 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-78d8b294a2d5f240567ea22bb5a15880]: Commencement: Art. 41 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-78d8b294a2d5f240567ea22bb5a15880]: Commencement: Art. 41 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00046]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the 1991 Act.
 
 [^f00047]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-9959a9b0bd2d3b70b3eab2ca825ae285]: Commencement: Art. 42 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-9959a9b0bd2d3b70b3eab2ca825ae285]: Commencement: Art. 42 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-3bd683dd8490dac1c5bdd9c663526ddd]: Commencement: Sch. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-3bd683dd8490dac1c5bdd9c663526ddd]: Commencement: Sch. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00048]: Footnote: Section 22 was substituted by article 3 of [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883).
 
 [^f00049]: Footnote: The Order does not include a Work No. 2c, which is now to be carried out outside the scope of the Order.
 
-[^key-b583c6a03c338360af6aa163ac85791f]: Commencement: Sch. 2 para. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b583c6a03c338360af6aa163ac85791f]: Commencement: Sch. 2 para. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-e8bbe9088bfad3705320f7594d1588fc]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/73/schedule/2/paragraph/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 64](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/64)
+[^c-e8bbe9088bfad3705320f7594d1588fc]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/73/schedule/2/paragraph/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 64](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/64)
 
-[^key-d81de96118e608eacf30ef3394889072]: Commencement: Sch. 2 para. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d81de96118e608eacf30ef3394889072]: Commencement: Sch. 2 para. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-1874aed2d159409c60a3437fac29072c]: Commencement: Sch. 2 para. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-1874aed2d159409c60a3437fac29072c]: Commencement: Sch. 2 para. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-315315b3d086fbecb052eb56ea72cf64]: Commencement: Sch. 2 para. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-315315b3d086fbecb052eb56ea72cf64]: Commencement: Sch. 2 para. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-d06bfde0b75345bf18985192a6623629]: Commencement: Sch. 2 para. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d06bfde0b75345bf18985192a6623629]: Commencement: Sch. 2 para. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-10953d520bbdee87974609d0038e07a6]: Commencement: Sch. 2 para. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-10953d520bbdee87974609d0038e07a6]: Commencement: Sch. 2 para. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-8348a762260c871f458206b5c9171dd7]: Commencement: Sch. 2 para. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-8348a762260c871f458206b5c9171dd7]: Commencement: Sch. 2 para. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-075e1dc7dc415df5ef9c5e660a6bc454]: Commencement: Sch. 2 para. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-075e1dc7dc415df5ef9c5e660a6bc454]: Commencement: Sch. 2 para. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-fd3adf9b588b26e5e5ccae1fed4c05e1]: Commencement: Sch. 2 para. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-fd3adf9b588b26e5e5ccae1fed4c05e1]: Commencement: Sch. 2 para. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-fd2284ac7e59c7c8e5d538ae5a8c435e]: Commencement: Sch. 2 para. 10 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-fd2284ac7e59c7c8e5d538ae5a8c435e]: Commencement: Sch. 2 para. 10 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-0c6f0af7c4fc78605b623d848d2fa9b7]: Commencement: Sch. 2 para. 11 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-0c6f0af7c4fc78605b623d848d2fa9b7]: Commencement: Sch. 2 para. 11 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-6782b7372780b8c940cdfb91a83c6d79]: Commencement: Sch. 2 para. 12 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-6782b7372780b8c940cdfb91a83c6d79]: Commencement: Sch. 2 para. 12 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-b28d3853061819f2f47855ba7f255db6]: Commencement: Sch. 2 para. 13 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b28d3853061819f2f47855ba7f255db6]: Commencement: Sch. 2 para. 13 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-5e651097ddf64574ca160be5d27316ee]: Commencement: Sch. 3 Pt. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-5e651097ddf64574ca160be5d27316ee]: Commencement: Sch. 3 Pt. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-2fb2f569cd3ef70197181ee8484d8af4]: Commencement: Sch. 3 Pt. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-2fb2f569cd3ef70197181ee8484d8af4]: Commencement: Sch. 3 Pt. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-cb495b883a5c8b9b10f2cd9cb9b270c2]: Commencement: Sch. 3 Pt. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-cb495b883a5c8b9b10f2cd9cb9b270c2]: Commencement: Sch. 3 Pt. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^M_I_5930676b-0450-4f91-b19d-6c160390752d]: Commencement: Sch. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-f35fb7d2899202f88cecf31a23ce29a1]: Commencement: Sch. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-f35fb7d2899202f88cecf31a23ce29a1]: Commencement: Sch. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-f8d925973c9e5d8914569fc3215c8e67]: Commencement: Sch. 6 para. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-f8d925973c9e5d8914569fc3215c8e67]: Commencement: Sch. 6 para. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-7d825be15ead05ed0cebbdfc6a92f102]: Commencement: Sch. 6 para. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-7d825be15ead05ed0cebbdfc6a92f102]: Commencement: Sch. 6 para. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00051]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
 [^f00052]: Footnote: Section 58(1) was amended by section 16(3) of, and Schedule 5 to, the Compulsory Purchase (Vesting Declarations) Act [1981 (c. 66)](https://www.legislation.gov.uk/ukpga/1981/66), section 4 of, and paragraph 29(1) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-76234093f99e49cb4d9b71ab3044e64b]: Commencement: Sch. 6 para. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-76234093f99e49cb4d9b71ab3044e64b]: Commencement: Sch. 6 para. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-1812059336d4e1cf0b0c2446805d85f4]: Commencement: Sch. 6 para. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-1812059336d4e1cf0b0c2446805d85f4]: Commencement: Sch. 6 para. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-0d903d5e2a3e4df6facee3cfcf37ad1d]: Commencement: Sch. 6 para. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-0d903d5e2a3e4df6facee3cfcf37ad1d]: Commencement: Sch. 6 para. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00053]: Footnote: [S.I. 2016/73](https://www.legislation.gov.uk/uksi/2016/73).
 
-[^key-e23ee9b1ebe00ddf9fcb53b982a0f771]: Commencement: Sch. 6 para. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-e23ee9b1ebe00ddf9fcb53b982a0f771]: Commencement: Sch. 6 para. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-572ea37e22cf978f8f55b763c9affc37]: Commencement: Sch. 6 para. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-572ea37e22cf978f8f55b763c9affc37]: Commencement: Sch. 6 para. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00054]: Footnote: Section 11 was amended by section 34(1) of, and schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and part 1 of schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -1895,17 +1895,17 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00056]: Footnote: Section 13 was amended by section 62(3), 139(4) to (9) and 146 of, and paragraphs 27 and 28 of Schedule 13 and part 3 of schedule 23 to, The Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-99b3d93f77e2768147fe58b06fdfcff2]: Commencement: Sch. 6 para. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-99b3d93f77e2768147fe58b06fdfcff2]: Commencement: Sch. 6 para. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00057]: Footnote: Section 20 was amended by paragraph 4 of schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-34e2e5fc7f4878c9489f7c3d1de13198]: Commencement: Sch. 6 para. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-34e2e5fc7f4878c9489f7c3d1de13198]: Commencement: Sch. 6 para. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-6464a62093cd6c84fb03de5aa44b17f2]: Commencement: Sch. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-6464a62093cd6c84fb03de5aa44b17f2]: Commencement: Sch. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-63302136ba328e15f57fa71cbda1f60a]: Commencement: Sch. 8 para. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-63302136ba328e15f57fa71cbda1f60a]: Commencement: Sch. 8 para. 1 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-28c163344dd1dca859fbb8006879eb25]: Commencement: Sch. 8 para. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-28c163344dd1dca859fbb8006879eb25]: Commencement: Sch. 8 para. 2 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00058]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). The definition of “electrical plant” (in section 64) was amended by paragraphs 24, and 38(1) and (3) of schedule 6 to the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
@@ -1915,76 +1915,76 @@ A copy of the plans, engineering drawings and sections and the book of reference
 
 [^f00061]: Footnote: As amended by section 96(4) of the Water Act 2003 and section 42(3) of the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-69d6e4a22a4c5904eda21dabeb8133e7]: Commencement: Sch. 8 para. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-69d6e4a22a4c5904eda21dabeb8133e7]: Commencement: Sch. 8 para. 3 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-7b91d3ec284d44e4ce2e7555fac620a1]: Commencement: Sch. 8 para. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-7b91d3ec284d44e4ce2e7555fac620a1]: Commencement: Sch. 8 para. 4 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-b76d25b4558eef5b8de9b84acae1e7a9]: Commencement: Sch. 8 para. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b76d25b4558eef5b8de9b84acae1e7a9]: Commencement: Sch. 8 para. 5 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-55286fa4bcab7944043e3a6d42ab659d]: Commencement: Sch. 8 para. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-55286fa4bcab7944043e3a6d42ab659d]: Commencement: Sch. 8 para. 6 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-3f9cae4cbce4b15426742ad7ea1e2513]: Commencement: Sch. 8 para. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-3f9cae4cbce4b15426742ad7ea1e2513]: Commencement: Sch. 8 para. 7 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-8f220b5b96839605da574e97260d4c5c]: Commencement: Sch. 8 para. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-8f220b5b96839605da574e97260d4c5c]: Commencement: Sch. 8 para. 8 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-863628c495a30474671661c30c573a0e]: Commencement: Sch. 8 para. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-863628c495a30474671661c30c573a0e]: Commencement: Sch. 8 para. 9 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-1c66717950207765dcab9a1a278334ef]: Commencement: Sch. 8 para. 10 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-1c66717950207765dcab9a1a278334ef]: Commencement: Sch. 8 para. 10 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-c90dd2cba2a2155644c38ab3f5ffaf9a]: Commencement: Sch. 8 para. 11 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-c90dd2cba2a2155644c38ab3f5ffaf9a]: Commencement: Sch. 8 para. 11 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-7985a1e8192f49a9b52beebda698096c]: Commencement: Sch. 8 para. 12 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-7985a1e8192f49a9b52beebda698096c]: Commencement: Sch. 8 para. 12 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-ce757322c2303d2f01ed86ddcbf81bc0]: Commencement: Sch. 8 para. 13 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-ce757322c2303d2f01ed86ddcbf81bc0]: Commencement: Sch. 8 para. 13 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-f53b5c8f181bfd67f62d242b0b55ce0a]: Commencement: Sch. 8 para. 14 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-f53b5c8f181bfd67f62d242b0b55ce0a]: Commencement: Sch. 8 para. 14 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-bd3fa8f009b4b531d2d4dc8abce9d503]: Commencement: Sch. 8 para. 15 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-bd3fa8f009b4b531d2d4dc8abce9d503]: Commencement: Sch. 8 para. 15 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00062]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and was further amended by sections 3(2) and 76 of, and paragraphs 1 and 4 of schedule 6, and schedule 8 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), sections 149(1) and (5) and 197(9) of, and part 1 of schedule 23 to, the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
-[^key-b004efd04bc856722d2f06020248c0e1]: Commencement: Sch. 8 para. 16 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-b004efd04bc856722d2f06020248c0e1]: Commencement: Sch. 8 para. 16 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-e163df6133819ef5a5a7afaaf4acf7be]: Commencement: Sch. 8 para. 17 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-e163df6133819ef5a5a7afaaf4acf7be]: Commencement: Sch. 8 para. 17 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-f84cbfd390471512435edf4010205dba]: Commencement: Sch. 8 para. 18 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-f84cbfd390471512435edf4010205dba]: Commencement: Sch. 8 para. 18 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-d1b746cb4a6f28f25ff871ad118ebd81]: Commencement: Sch. 8 para. 19 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d1b746cb4a6f28f25ff871ad118ebd81]: Commencement: Sch. 8 para. 19 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-274e6f227620271206dfd3c89e1f5d6c]: Commencement: Sch. 8 para. 20 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-274e6f227620271206dfd3c89e1f5d6c]: Commencement: Sch. 8 para. 20 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-826bd0270446a73ee2cf98e7759cdcdc]: Commencement: Sch. 8 para. 21 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-826bd0270446a73ee2cf98e7759cdcdc]: Commencement: Sch. 8 para. 21 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-bd27ead6a52b62ee83288d531dfc9c4b]: Commencement: Sch. 8 para. 22 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-bd27ead6a52b62ee83288d531dfc9c4b]: Commencement: Sch. 8 para. 22 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-bef6ed5c3e3926f5aa8696d38196161f]: Commencement: Sch. 8 para. 23 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-bef6ed5c3e3926f5aa8696d38196161f]: Commencement: Sch. 8 para. 23 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-f1c619f6f1cd349105eec642c9bb0222]: Commencement: Sch. 8 para. 24 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-f1c619f6f1cd349105eec642c9bb0222]: Commencement: Sch. 8 para. 24 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-46f522334045519b7403971e11194085]: Commencement: Sch. 8 para. 25 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-46f522334045519b7403971e11194085]: Commencement: Sch. 8 para. 25 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-4820ac812fe14e59900a39330570b059]: Commencement: Sch. 8 para. 26 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-4820ac812fe14e59900a39330570b059]: Commencement: Sch. 8 para. 26 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-1bbe61b1f9c07c38385391b9fa4a31a8]: Commencement: Sch. 8 para. 27 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-1bbe61b1f9c07c38385391b9fa4a31a8]: Commencement: Sch. 8 para. 27 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-90c2e1b9456af8cc110b60ad7ca23b3f]: Commencement: Sch. 8 para. 28 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-90c2e1b9456af8cc110b60ad7ca23b3f]: Commencement: Sch. 8 para. 28 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-12c09e85be3a07fdf120478530c66d83]: Commencement: Sch. 8 para. 29 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-12c09e85be3a07fdf120478530c66d83]: Commencement: Sch. 8 para. 29 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-e3c030a19514e8bb6d1bdc1777002e02]: Commencement: Sch. 8 para. 30 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-e3c030a19514e8bb6d1bdc1777002e02]: Commencement: Sch. 8 para. 30 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
 [^f00063]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-61c23b9db20719d6a92428a63f7544a4]: Textual amendment: Words in [Sch. 8 para. 30](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/30) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/a/i)
+[^c-61c23b9db20719d6a92428a63f7544a4]: Textual amendment: Words in [Sch. 8 para. 30](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/30) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/a/i)
 
 [^f00065]: Footnote: See section 106 of the 2003 Act.
 
-[^key-4f9a5e86cedc57751a88d81dcd9a396a]: Textual amendment: Words in [Sch. 8 para. 30](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/30) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/a/ii)
+[^c-4f9a5e86cedc57751a88d81dcd9a396a]: Textual amendment: Words in [Sch. 8 para. 30](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/30) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/a/ii)
 
-[^key-c17a587f98755e4958ead17e52418657]: Textual amendment: Words in [Sch. 8 para. 30](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/30) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/a/iii)
+[^c-c17a587f98755e4958ead17e52418657]: Textual amendment: Words in [Sch. 8 para. 30](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/30) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/a/iii)
 
-[^key-d9f390461992e8fc7629d974dd1af604]: Commencement: Sch. 8 para. 31 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-d9f390461992e8fc7629d974dd1af604]: Commencement: Sch. 8 para. 31 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
 
-[^key-23ba8c5fd1e4238032e8280ef4fe18d1]: Textual amendment: Words in [Sch. 8 para. 31](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/31) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/b)
+[^c-23ba8c5fd1e4238032e8280ef4fe18d1]: Textual amendment: Words in [Sch. 8 para. 31](https://www.legislation.gov.uk/uksi/2016/73/schedule/8/paragraph/31) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/2/paragraph/6/3/b)
 
-[^key-41eaeb8a26273b5090c0f4422c1cf92c]: Commencement: Sch. 8 para. 32 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)
+[^c-41eaeb8a26273b5090c0f4422c1cf92c]: Commencement: Sch. 8 para. 32 in force at 18.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1)

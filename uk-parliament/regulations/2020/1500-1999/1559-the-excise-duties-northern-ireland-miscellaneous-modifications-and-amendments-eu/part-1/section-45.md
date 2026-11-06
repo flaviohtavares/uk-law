@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**45.**[^key-44b18ed397212a892faae9635881bcd8] For regulation 48 substitute—
+**45.**[^c-44b18ed397212a892faae9635881bcd8] For regulation 48 substitute—
 
 > **48. Report of export from territory of the EU or Northern Ireland when EU computerised system unavailable**
 >
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44b18ed397212a892faae9635881bcd8]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1559/regulation/45) substituted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [10](https://www.legislation.gov.uk/uksi/2024/941/regulation/10)
+[^c-44b18ed397212a892faae9635881bcd8]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1559/regulation/45) substituted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [10](https://www.legislation.gov.uk/uksi/2024/941/regulation/10)

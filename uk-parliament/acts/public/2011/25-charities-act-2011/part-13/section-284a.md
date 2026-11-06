@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284A. Power to borrow from permanent endowment: general[^key-9eb9be259e9953b2b724d25fca1cee2a]
+## 284A. Power to borrow from permanent endowment: general[^c-9eb9be259e9953b2b724d25fca1cee2a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ is to be added to the available endowment fund and is to be subject to the same 
 
 ## Annotations
 
-[^key-9eb9be259e9953b2b724d25fca1cee2a]: Textual amendment: [Ss. 284A-284D](https://www.legislation.gov.uk/ukpga/2011/25/section/284A) and cross-heading inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/12/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/4)
+[^c-9eb9be259e9953b2b724d25fca1cee2a]: Textual amendment: [Ss. 284A-284D](https://www.legislation.gov.uk/ukpga/2011/25/section/284A) and cross-heading inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/12/2), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/4)

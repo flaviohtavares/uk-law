@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Application of sums by enforcement receivers[^key-53a81ba3ed280db9fceb97e28ab4e0ea]
+## 33. Application of sums by enforcement receivers[^c-53a81ba3ed280db9fceb97e28ab4e0ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53a81ba3ed280db9fceb97e28ab4e0ea]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2005/3181/article/33) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-53a81ba3ed280db9fceb97e28ab4e0ea]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2005/3181/article/33) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

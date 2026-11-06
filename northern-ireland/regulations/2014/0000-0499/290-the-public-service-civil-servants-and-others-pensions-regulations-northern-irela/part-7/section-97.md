@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Option for pension credit member to commute part of pension[^key-3520d6661a6e58a51176744f9531b119]
+## 97. Option for pension credit member to commute part of pension[^c-3520d6661a6e58a51176744f9531b119]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3520d6661a6e58a51176744f9531b119]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2014/290/regulation/97) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-3520d6661a6e58a51176744f9531b119]: Commencement: [Reg. 97](https://www.legislation.gov.uk/nisr/2014/290/regulation/97) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

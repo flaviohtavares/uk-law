@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — TEMPORARY SPEED LIMITS[^key-b527426c81abe254dd63f5a20986dd60]
+### PART 1 — TEMPORARY SPEED LIMITS[^c-b527426c81abe254dd63f5a20986dd60]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Temporary speed limit* |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ Article 15
 | Rutland County Council | Main Street From a point 190m in a generally easterly direction from its junction with Uffington Lane (reference SL9A) for a distance of 600m in a generally easterly direction (to reference SL9B) as shown on sheet 9 of the traffic regulation measures plans – temporary measures | 30 miles per hour |
 | Rutland County Council and Lincolnshire County Council | Uffington Lane From a point 20m in a generally southerly direction from its junction with Main Street (reference SL10A) for a distance of 600m in a generally southerly direction (to reference SL10B) as shown on sheet 10 of the traffic regulation measures plans – temporary measures | 30 miles per hour |
 
-### PART 2 — TEMPORARY ROAD CLOSURES[^key-e3807e36f1d6dd87c237af10e7564ffa]
+### PART 2 — TEMPORARY ROAD CLOSURES[^c-e3807e36f1d6dd87c237af10e7564ffa]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Temporary road closures* |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Article 15
 | Rutland County Council | Main Street<br>From its junction with Uffington Lane (reference RC–4A) in a generally easterly direction for a distance of 660m (to reference RC–4B) as shown on sheets 9 and 10 of the traffic regulation measures plans – temporary road closures | Closed to all traffic save for traffic under the direction of the undertaker |
 | Rutland County Council | Pickworth Road<br>From its junction with High Street (reference RC–5A) in a generally south-easterly direction for a distance of 1,590m (to reference RC–5B) as shown on sheets 12 and 13 of the traffic regulation measures plans – temporary road closures | Closed to all traffic save for traffic under the direction of the undertaker |
 
-### PART 3 — TEMPORARY TRAFFIC SIGNALS[^key-e9aeff3f92028025ae5caa8455917c16]
+### PART 3 — TEMPORARY TRAFFIC SIGNALS[^c-e9aeff3f92028025ae5caa8455917c16]
 
 | *(1)*<br>*Area* | *(2)*<br>*Extent of temporary traffic signals* |
 | --- | --- |
@@ -64,8 +64,8 @@ Article 15
 
 ## Annotations
 
-[^key-b527426c81abe254dd63f5a20986dd60]: Commencement: Sch. 8 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-b527426c81abe254dd63f5a20986dd60]: Commencement: Sch. 8 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-e3807e36f1d6dd87c237af10e7564ffa]: Commencement: Sch. 8 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-e3807e36f1d6dd87c237af10e7564ffa]: Commencement: Sch. 8 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-e9aeff3f92028025ae5caa8455917c16]: Commencement: Sch. 8 Pt. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-e9aeff3f92028025ae5caa8455917c16]: Commencement: Sch. 8 Pt. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

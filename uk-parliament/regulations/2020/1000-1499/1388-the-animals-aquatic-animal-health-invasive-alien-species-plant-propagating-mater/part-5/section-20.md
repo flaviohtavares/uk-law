@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019[^key-9bf842df8ecedd75410f987ebb5b89e4]
+## 20. The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019[^c-9bf842df8ecedd75410f987ebb5b89e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -191,6 +191,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bf842df8ecedd75410f987ebb5b89e4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1388/regulation/20) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-9bf842df8ecedd75410f987ebb5b89e4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1388/regulation/20) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00053]: Footnote: [S.I. 2019/170](https://www.legislation.gov.uk/uksi/2019/170), amended by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220) and [S.I. 2019/1229](https://www.legislation.gov.uk/uksi/2019/1229).

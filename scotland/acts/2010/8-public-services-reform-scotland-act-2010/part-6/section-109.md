@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Transfer of staff etc. to Healthcare Improvement Scotland[^key-f5035a0a300ea3a835cd334fc898d3fb][^key-9e94c51564b93bed78ea1d6ef6906d03]
+## 109. Transfer of staff etc. to Healthcare Improvement Scotland[^c-f5035a0a300ea3a835cd334fc898d3fb][^c-9e94c51564b93bed78ea1d6ef6906d03]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5035a0a300ea3a835cd334fc898d3fb]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/8/section/109) in force at 19.6.2024 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/131/schedule/1)
+[^c-f5035a0a300ea3a835cd334fc898d3fb]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/8/section/109) in force at 19.6.2024 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/131/schedule/1)
 
-[^key-9e94c51564b93bed78ea1d6ef6906d03]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/8/section/109) in force at 19.6.2025 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2024/131/schedule/2)
+[^c-9e94c51564b93bed78ea1d6ef6906d03]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/8/section/109) in force at 19.6.2025 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2024/131/schedule/2)

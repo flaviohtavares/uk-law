@@ -27,7 +27,7 @@ summary: ''
 
 as is appropriate; and they may provide such day care for children within their area who satisfy the conditions mentioned in paragraphs (a) and (b) but are not in need.
 
-(1A)[^key-6dd15b1c6ab7dd0434aff4719f2de95d] A local authority must, at least once every two years—
+(1A)[^c-6dd15b1c6ab7dd0434aff4719f2de95d] A local authority must, at least once every two years—
 
 - (a) consult such persons as appear to be representative of parents of children in need within their area who satisfy the conditions mentioned in paragraphs (a) and (b) of subsection (1) above about how they should provide day care for such children in pursuance of that subsection; and
 - (b) after having had regard to the views expressed, prepare and publish their plans for how they intend to provide day care for such children in pursuance of that subsection.
@@ -49,7 +49,7 @@ as is appropriate; and they may provide such day care for children within their 
 
 as is appropriate; and they may provide such care for children within their area who are in such attendance but are not in need.
 
-(3A)[^key-32940174eb38d5ad2c256165f060ac30] A local authority must, at least once every two years—
+(3A)[^c-32940174eb38d5ad2c256165f060ac30] A local authority must, at least once every two years—
 
 - (a) consult such persons as appear to be representative of parents of children in need within their area who are in attendance at a school about how they should provide appropriate care for such children in pursuance of subsection (3) above; and
 - (b) after having had regard to the views expressed, prepare and publish their plans for how they intend to provide appropriate care for such children in pursuance of that subsection.
@@ -70,8 +70,8 @@ as is appropriate; and they may provide such care for children within their area
 
 ## Annotations
 
-[^key-6dd15b1c6ab7dd0434aff4719f2de95d]: Textual amendment: S. 27(1A)(1B) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 55(2)](https://www.legislation.gov.uk/asp/2014/8/section/55/2), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-6dd15b1c6ab7dd0434aff4719f2de95d]: Textual amendment: S. 27(1A)(1B) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 55(2)](https://www.legislation.gov.uk/asp/2014/8/section/55/2), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-32940174eb38d5ad2c256165f060ac30]: Textual amendment: S. 27(3A)-(3D) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 55(3)](https://www.legislation.gov.uk/asp/2014/8/section/55/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-32940174eb38d5ad2c256165f060ac30]: Textual amendment: S. 27(3A)-(3D) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 55(3)](https://www.legislation.gov.uk/asp/2014/8/section/55/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
 [^c13125681]: Marginal citation: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44).

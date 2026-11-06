@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Conditions of permits: specific conditions for Part A installations and Part A mobile plant[^key-d57f3042d07ae5a46182ad1456707c92]
+## 13. Conditions of permits: specific conditions for Part A installations and Part A mobile plant[^c-d57f3042d07ae5a46182ad1456707c92]
 
 *Extent: N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 - (a) waste oils having different characteristics are not mixed; and
 - (b) waste oils are not mixed with other kinds of waste or substances, if such mixing would impede their treatment.
 
-(10) In paragraph (9), “waste oils” and “treatment” have the same meanings as in the Directive[^key-f048db8da94b7d7e321a98a6ba314faf] .
+(10) In paragraph (9), “waste oils” and “treatment” have the same meanings as in the Directive[^c-f048db8da94b7d7e321a98a6ba314faf] .
 
 (11)[^M_F_21aa9acd-56b4-4c9c-c81b-c0a84e3c3b35] A permit granted or varied on or after 1st April 2015 for an activity described in Chapter 5 of Part 1 of Schedule 1, or in Section 6.8 of Chapter 6 of that Part, shall contain any conditions as appear to the chief inspector to be appropriate to ensure that no separately collected food waste is mixed with any other waste or any material, to the extent that mixing would hamper future recycling.
 
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d57f3042d07ae5a46182ad1456707c92]: Commencement: Reg. 13 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-d57f3042d07ae5a46182ad1456707c92]: Commencement: Reg. 13 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-f048db8da94b7d7e321a98a6ba314faf]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/nisr/2013/160/regulation/13/10) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [11(4)](https://www.legislation.gov.uk/nisr/2020/285/regulation/11/4)
+[^c-f048db8da94b7d7e321a98a6ba314faf]: Textual amendment: Words in [reg. 13(10)](https://www.legislation.gov.uk/nisr/2013/160/regulation/13/10) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [11(4)](https://www.legislation.gov.uk/nisr/2020/285/regulation/11/4)
 
 [^M_F_21aa9acd-56b4-4c9c-c81b-c0a84e3c3b35]: Textual amendment: [Reg. 13 (11)(12)](https://editorial.legislation.gov.uk/nisr/2013/160/regulation/13) inserted (14.02.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2015/14/regulation/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Requirements relating to separate collection etc. of waste[^key-6e6b1354888092e7b07d44d7fbab1c4c]
+## 65. Requirements relating to separate collection etc. of waste[^c-6e6b1354888092e7b07d44d7fbab1c4c]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ In the Environmental Protection Act 1990 (c. 43), after section 45A insert—
 
 ## Annotations
 
-[^key-6e6b1354888092e7b07d44d7fbab1c4c]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2016/3/section/65) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/a)
+[^c-6e6b1354888092e7b07d44d7fbab1c4c]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2016/3/section/65) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/a)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284B. Provisions supplementary to section 284A.[^key-00d1233d9ae151b4d3fdbaa5421a57f1]
+## 284B. Provisions supplementary to section 284A.[^c-00d1233d9ae151b4d3fdbaa5421a57f1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f78ea692f1bf24e6c7a93b46e3352772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f78ea692f1bf24e6c7a93b46e3352772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The total amount of chargeable gains that are treated as accruing to any person under subsection (3) of section 284A in respect of any such benefit as is referred to in that subsection shall not exceed the amount of that benefit.
 
@@ -41,6 +41,6 @@ all such adjustments shall be made (whether by way of assessment, amendment of a
 
 ## Annotations
 
-[^key-00d1233d9ae151b4d3fdbaa5421a57f1]: Textual amendment: Ss. 284A, 284B inserted (with effect in accordance with s. 76(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 76(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/76/1)
+[^c-00d1233d9ae151b4d3fdbaa5421a57f1]: Textual amendment: Ss. 284A, 284B inserted (with effect in accordance with s. 76(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 76(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/76/1)
 
-[^key-f78ea692f1bf24e6c7a93b46e3352772]: Textual amendment: S. 284B(1) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/44)
+[^c-f78ea692f1bf24e6c7a93b46e3352772]: Textual amendment: S. 284B(1) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/44)

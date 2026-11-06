@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Information to be included in certain instruments[^key-4c65f26efe61f4daf3ef1a4404cda44e][^key-793a9c7d2a21aa4827725c6dcd7b63fa]
+## 23. Information to be included in certain instruments[^c-4c65f26efe61f4daf3ef1a4404cda44e][^c-793a9c7d2a21aa4827725c6dcd7b63fa]
 
 *Extent: E+W*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c65f26efe61f4daf3ef1a4404cda44e]: Commencement: S. 23 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-4c65f26efe61f4daf3ef1a4404cda44e]: Commencement: S. 23 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-793a9c7d2a21aa4827725c6dcd7b63fa]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/6/section/23) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/5) (with [regs. 9](https://www.legislation.gov.uk/uksi/2024/265/regulation/9), [10](https://www.legislation.gov.uk/uksi/2024/265/regulation/10))
+[^c-793a9c7d2a21aa4827725c6dcd7b63fa]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/6/section/23) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/5) (with [regs. 9](https://www.legislation.gov.uk/uksi/2024/265/regulation/9), [10](https://www.legislation.gov.uk/uksi/2024/265/regulation/10))

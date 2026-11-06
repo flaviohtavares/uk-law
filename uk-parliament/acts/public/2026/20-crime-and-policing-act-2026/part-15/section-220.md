@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Conditions for imposing electronic monitoring requirement: England and Wales[^key-fe84e2d45955a9bf55518924670f6e15]
+## 220. Conditions for imposing electronic monitoring requirement: England and Wales[^c-fe84e2d45955a9bf55518924670f6e15]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe84e2d45955a9bf55518924670f6e15]: Commencement: S. 220 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fe84e2d45955a9bf55518924670f6e15]: Commencement: S. 220 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

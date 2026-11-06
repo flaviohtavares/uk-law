@@ -33,14 +33,14 @@ of 7 February 2018
 
 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by establishing European Union reference laboratories for pests of plants (revoked)
 
-[^key-c4951efdb2af76fb0efc7ce8589d71c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4951efdb2af76fb0efc7ce8589d71c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c4951efdb2af76fb0efc7ce8589d71c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c4951efdb2af76fb0efc7ce8589d71c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c4951efdb2af76fb0efc7ce8589d71c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c4951efdb2af76fb0efc7ce8589d71c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4951efdb2af76fb0efc7ce8589d71c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4951efdb2af76fb0efc7ce8589d71c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4951efdb2af76fb0efc7ce8589d71c4]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/2)
+[^c-c4951efdb2af76fb0efc7ce8589d71c4]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/2)

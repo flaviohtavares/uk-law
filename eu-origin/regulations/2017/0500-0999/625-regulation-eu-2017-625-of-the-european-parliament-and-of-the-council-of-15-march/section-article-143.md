@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 143. Data protection[^key-a0f416079f53fdacf9f0600245a082cf]
+## Article 143. Data protection[^c-a0f416079f53fdacf9f0600245a082cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ United Kingdom data protection legislation, as defined in section 3(9) of the Da
 
 ## Annotations
 
-[^key-a0f416079f53fdacf9f0600245a082cf]: Textual amendment: [Art. 143](https://www.legislation.gov.uk/eur/2017/625/article/143) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a0f416079f53fdacf9f0600245a082cf]: Textual amendment: [Art. 143](https://www.legislation.gov.uk/eur/2017/625/article/143) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

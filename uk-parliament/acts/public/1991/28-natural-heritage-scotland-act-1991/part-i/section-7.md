@@ -66,7 +66,7 @@ except where the damage is attributable to the fault of the person who sustained
 
 (11) SNH shall not authorise any person to exercise a power to enter land under section 108 of the National Parks and Access to the [^c1044313]Countryside Act 1949; but nothing in this subsection shall affect the validity of anything done in pursuance of an authorisation granted before the date of coming into force of this section by the Nature Conservancy Council for Scotland.
 
-(12)[^key-62ec742f9ef60f3e4faf6d999f16513d] In subsection (1) above, “ **enactment** ” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(12)[^c-62ec742f9ef60f3e4faf6d999f16513d] In subsection (1) above, “ **enactment** ” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
@@ -84,4 +84,4 @@ except where the damage is attributable to the fault of the person who sustained
 
 [^c1044313]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97) .
 
-[^key-62ec742f9ef60f3e4faf6d999f16513d]: Textual amendment: S. 7(12) added (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3) , [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2) , [Sch. 3 para. 41(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/41/2) ; [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1) [(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2) , [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-62ec742f9ef60f3e4faf6d999f16513d]: Textual amendment: S. 7(12) added (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3) , [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2) , [Sch. 3 para. 41(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/41/2) ; [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1) [(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2) , [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

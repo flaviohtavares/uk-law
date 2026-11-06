@@ -33,7 +33,7 @@ summary: ''
 
 (5) Judicial notice shall be taken of any document so stamped.
 
-(6)[^key-6b8ff7cc74a662f12b28b4ab24c08b6c] Regulations under section 159 may make provision for any person to have access, on payment of the prescribed fee, to any information contained in any civil partnership registration records.
+(6)[^c-6b8ff7cc74a662f12b28b4ab24c08b6c] Regulations under section 159 may make provision for any person to have access, on payment of the prescribed fee, to any information contained in any civil partnership registration records.
 
 (7) Regulations under section 159 may provide that the relevant period must have expired in relation to the information.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c20570921]: Commencement: S. 155 wholly in force at 5.12.2005; s. 155 not in force at Royal Assent see s. 263; s. 155(3) in force at 5.9.2005 for certain purposes by [S.I. 2005/2399](https://www.legislation.gov.uk/uksi/2005/2399), [art. 2](https://www.legislation.gov.uk/uksi/2005/2399/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/2399/schedule) and otherwise 5.12.2005 insofar as not already in force by [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule); s. 155 in force at 5.12.2005 insofar as not already in force by [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
 
-[^key-6b8ff7cc74a662f12b28b4ab24c08b6c]: Textual amendment: [S. 155(6)-(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/155/6) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 23(2)](https://www.legislation.gov.uk/nia/2011/20/section/23/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-6b8ff7cc74a662f12b28b4ab24c08b6c]: Textual amendment: [S. 155(6)-(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/155/6) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 23(2)](https://www.legislation.gov.uk/nia/2011/20/section/23/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16AA. Licensing: land on which certain birds may be killed or taken[^key-6c50c1680e39c8bc16be4911c86fb9fe]
+## 16AA. Licensing: land on which certain birds may be killed or taken[^c-6c50c1680e39c8bc16be4911c86fb9fe]
 
 *Extent: S*
 
@@ -30,13 +30,13 @@ summary: ''
 
 - (a) be made to the relevant authority,
 - (b) be made in such manner and form as the relevant authority may require,
-- (c)[^key-9e2e689d449d0dda98f4b1f0e8e5e5a6] describe the area of land to which the applicant proposes the licence should relate,
+- (c)[^c-9e2e689d449d0dda98f4b1f0e8e5e5a6] describe the area of land to which the applicant proposes the licence should relate,
 - (d) contain or be accompanied by such information as the relevant authority may require, and
 - (e) be accompanied by payment of such reasonable fee as the relevant authority may require.
 
 (5) The relevant authority must publicise any requirements which are for the time being set under subsection (4)(b) to (e).
 
-(5A)[^key-5e6a62f2751f8a367be9dcff5bad9dd0] The relevant authority may—
+(5A)[^c-5e6a62f2751f8a367be9dcff5bad9dd0] The relevant authority may—
 
 - (a) where it considers it reasonable and appropriate to do so, propose to the applicant a different area to which the licence is to relate from that specified in the application, together with reasons for such a proposal, and
 - (b) if unable to reach agreement with the applicant as to what is an appropriate area of land to which the licence is to relate, refuse the application.
@@ -61,10 +61,10 @@ summary: ''
     - (A) fails to comply with any conditions attached to the licence, or
     - (B) ceases to be in a position to ensure compliance with the conditions,
   - (ii) the relevant authority is satisfied that the licence holder or a person involved in managing the land to which the licence relates—
-    - (A) has committed a relevant offence that supports or benefits the activities permitted by the licence,[^key-e005e2166f510a8163b98e29eed2e79a] or
+    - (A) has committed a relevant offence that supports or benefits the activities permitted by the licence,[^c-e005e2166f510a8163b98e29eed2e79a] or
     - (B) has knowingly caused or permitted another person to do so.
 
-(9A)[^key-d2b4b06d5ba56392dcb6caafa72ef583] The relevant authority may not modify a licence under subsection (9)(a) to identify a different area of land to which the licence relates from that which was identified when the licence was granted without the prior agreement of the licence holder.
+(9A)[^c-d2b4b06d5ba56392dcb6caafa72ef583] The relevant authority may not modify a licence under subsection (9)(a) to identify a different area of land to which the licence relates from that which was identified when the licence was granted without the prior agreement of the licence holder.
 
 (10) Where the relevant authority has modified, suspended or revoked a person’s section 16AA licence—
 
@@ -94,12 +94,12 @@ summary: ''
 
 ## Annotations
 
-[^key-6c50c1680e39c8bc16be4911c86fb9fe]: Textual amendment: Ss. 16AA-16AF inserted (S.) (1.7.2024 for the insertion of ss. 16AC and 16AD, 22.7.2024 in so far as not already in force) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 10(2)](https://www.legislation.gov.uk/asp/2024/4/section/10/2), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/168](https://www.legislation.gov.uk/ssi/2024/168), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/2)
+[^c-6c50c1680e39c8bc16be4911c86fb9fe]: Textual amendment: Ss. 16AA-16AF inserted (S.) (1.7.2024 for the insertion of ss. 16AC and 16AD, 22.7.2024 in so far as not already in force) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 10(2)](https://www.legislation.gov.uk/asp/2024/4/section/10/2), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/168](https://www.legislation.gov.uk/ssi/2024/168), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/2)
 
-[^key-9e2e689d449d0dda98f4b1f0e8e5e5a6]: Textual amendment: S. 16AA(4)(c) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(2)](https://www.legislation.gov.uk/asp/2026/6/section/48/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
+[^c-9e2e689d449d0dda98f4b1f0e8e5e5a6]: Textual amendment: S. 16AA(4)(c) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(2)](https://www.legislation.gov.uk/asp/2026/6/section/48/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
 
-[^key-5e6a62f2751f8a367be9dcff5bad9dd0]: Textual amendment: S. 16AA(5A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(3)](https://www.legislation.gov.uk/asp/2026/6/section/48/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
+[^c-5e6a62f2751f8a367be9dcff5bad9dd0]: Textual amendment: S. 16AA(5A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(3)](https://www.legislation.gov.uk/asp/2026/6/section/48/3), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
 
-[^key-e005e2166f510a8163b98e29eed2e79a]: Textual amendment: Words in s. 16AA(9)(b)(ii) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(4)](https://www.legislation.gov.uk/asp/2026/6/section/48/4), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2) (with [s. 48(6)](https://www.legislation.gov.uk/asp/2026/6/section/48/6)); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
+[^c-e005e2166f510a8163b98e29eed2e79a]: Textual amendment: Words in s. 16AA(9)(b)(ii) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(4)](https://www.legislation.gov.uk/asp/2026/6/section/48/4), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2) (with [s. 48(6)](https://www.legislation.gov.uk/asp/2026/6/section/48/6)); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
 
-[^key-d2b4b06d5ba56392dcb6caafa72ef583]: Textual amendment: S. 16AA(9A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(5)](https://www.legislation.gov.uk/asp/2026/6/section/48/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)
+[^c-d2b4b06d5ba56392dcb6caafa72ef583]: Textual amendment: S. 16AA(9A) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 48(5)](https://www.legislation.gov.uk/asp/2026/6/section/48/5), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z3)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z3)

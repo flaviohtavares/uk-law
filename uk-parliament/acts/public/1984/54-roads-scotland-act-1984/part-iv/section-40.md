@@ -30,7 +30,7 @@ In sections 36 to 39C of this Act—
 
 “**statutory**”, in relation to a speed limit, means having effect by virtue of an enactment other than section 84(1)(b) or (c) of the Road Traffic Regulation Act 1984 (temporary and variable speed limits)[^c1610705]; and[^c1610706]
 
-“[^key-9fb3d956ac988d4a339221d110181799]**traffic calming works**”, in relation to a road, means works affecting the movement of vehicular or other traffic for the purpose of—
+“[^c-9fb3d956ac988d4a339221d110181799]**traffic calming works**”, in relation to a road, means works affecting the movement of vehicular or other traffic for the purpose of—
 
 - (a) promoting safety (including avoiding or reducing, or reducing the likelihood of, danger connected with terrorism within the meaning of section 1 of the Terrorism Act 2000 (c. 11)), or
 - (b) preserving or improving the environment through which the road runs.
@@ -49,4 +49,4 @@ In sections 36 to 39C of this Act—
 
 [^c1610706]: Textual amendment: Words in s. 40 added (16.5.1992) by [Traffic Calming Act 1992 (c. 30)](https://www.legislation.gov.uk/ukpga/1992/30), [ss. 2(c)](https://www.legislation.gov.uk/ukpga/1992/30/section/2/c), [3](https://www.legislation.gov.uk/ukpga/1992/30/section/3)
 
-[^key-9fb3d956ac988d4a339221d110181799]: Textual amendment: Words in s. 40 substituted (19.1.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/17/2); [S.I. 2004/3281](https://www.legislation.gov.uk/uksi/2004/3281), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/4/a)
+[^c-9fb3d956ac988d4a339221d110181799]: Textual amendment: Words in s. 40 substituted (19.1.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/17/2); [S.I. 2004/3281](https://www.legislation.gov.uk/uksi/2004/3281), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2004/3281/article/2/4/a)

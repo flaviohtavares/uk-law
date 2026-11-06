@@ -24,11 +24,11 @@ Article 2
 
 ### PART 1 — Requirements
 
-#### 1. Time limits[^key-3956f0e007055ff3c3267cca37a12b08]
+#### 1. Time limits[^c-3956f0e007055ff3c3267cca37a12b08]
 
 The authorised development must commence no later than the expiration of seven years beginning with the date this Order comes into force.
 
-#### 2. Offshore design parameters[^key-9585eced63675d6c23a2abe7a27e858b]
+#### 2. Offshore design parameters[^c-9585eced63675d6c23a2abe7a27e858b]
 
 (1) The wind turbine generators to be constructed and operated within Work No. 1 of the authorised development must be located within the area delineated by the co-ordinates in the table in Schedule 16 (offshore co-ordinates) and shown as Work No. 1 on sheet 2 of the offshore works plan.
 
@@ -49,7 +49,7 @@ Table 1
 | Maximum pile diameter of four pile structures (metres) | 3.5 |
 | Maximum total seabed footprint for wind turbine generators (excluding scour protection) (metres squared) | 99,274 |
 | Maximum total seabed footprint for wind turbine generators (including scour protection) (metres squared) | 834,896 |
-| Maximum total scour protection[^key-985d697670dccbb9b5fa6de826466c42] volume for wind turbine generator foundations (metres cubed) | 1,248,850 |
+| Maximum total scour protection[^c-985d697670dccbb9b5fa6de826466c42] volume for wind turbine generator foundations (metres cubed) | 1,248,850 |
 | Maximum total length of inter-array cables (kilometres) | 200 |
 | Maximum inter-array cable protection area (metres squared) | 321,600 |
 | Maximum inter-array cable protection volume (metres cubed) | 187,600 |
@@ -68,7 +68,7 @@ Table 1
 - (b) shown shaded in yellow and outlined in a blue dotted line (and labelled Trinity (22m CD)) to a level of 22 metres below Chart Datum; and
 - (c) shown shaded in yellow and cross hatched in orange (and labelled Sunk Area B (19m CD)) to a level of 19 metres below Chart Datum.
 
-#### 3. Aviation safety[^key-8ed5cb1cdc5b3978fe304c348fe5b9bb]
+#### 3. Aviation safety[^c-8ed5cb1cdc5b3978fe304c348fe5b9bb]
 
 (1) The undertaker must exhibit such lights, with such shape, colour and character and at such times as are required by Air Navigation Order 2016[^f00051] (with any reference to the territorial sea being read as a reference to the Renewable Energy Zone established under section 84 of the 2004 Act) and/or determined necessary for aviation safety as directed in writing by the Civil Aviation Authority, in consultation with the Defence Infrastructure Organisation Safeguarding. Lighting installed specifically to meet Ministry of Defence aviation safety requirements must remain operational for the life of the authorised development unless otherwise agreed with the Ministry of Defence.
 
@@ -84,7 +84,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 
 (3) The lights installed in accordance with sub-paragraph (1) will be operated at the lowest permissible lighting intensity level.
 
-#### 4. Stages of authorised development onshore[^key-44186552e6151c58b0a706b31b3f4a56]
+#### 4. Stages of authorised development onshore[^c-44186552e6151c58b0a706b31b3f4a56]
 
 (1) The onshore works must not be commenced until notification has been submitted to the discharging authority detailing whether the onshore works will be constructed—
 
@@ -95,7 +95,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 
 (3) The onshore works must be constructed in accordance with the details provided under sub-paragraph (2) of this requirement.
 
-#### 5. Onshore substation works, design and landscaping[^key-0bda1a30b18195822e528db76c31b337]
+#### 5. Onshore substation works, design and landscaping[^c-0bda1a30b18195822e528db76c31b337]
 
 (1) Construction of Work No. 15B (the onshore electrical substation infrastructure) must not commence until details of—
 
@@ -134,15 +134,15 @@ have been submitted to and approved by the discharging authority.
 
 (9) The landscaping of Work No. 15 must be maintained throughout the operation of Work No. 15B.
 
-#### 6. Code of construction practice[^key-dc68dcaeec74957dcd542a0a9ca48578]
+#### 6. Code of construction practice[^c-dc68dcaeec74957dcd542a0a9ca48578]
 
-(1) No stage of the onshore works may commence until for that stage[^key-a7b31eda60d4f5e8f439c5c728fbf8e0] a final version of a code of construction practice has been submitted to and approved by the discharging authority in consultation with the relevant statutory nature conservation body, the Environment Agency, the highway authority, the lead local flood authority, Historic England (where relevant), the Forestry Commission (where relevant), and to the extent that it relates to works seaward of mean high water springs, the MMO.
+(1) No stage of the onshore works may commence until for that stage[^c-a7b31eda60d4f5e8f439c5c728fbf8e0] a final version of a code of construction practice has been submitted to and approved by the discharging authority in consultation with the relevant statutory nature conservation body, the Environment Agency, the highway authority, the lead local flood authority, Historic England (where relevant), the Forestry Commission (where relevant), and to the extent that it relates to works seaward of mean high water springs, the MMO.
 
-(2) The final code of construction practice for each stage[^key-dcce4d66351cae094761a6879b795a97] submitted under sub-paragraph (1) must be in accordance with the code of construction practice (October 2025, Revision G) certified under article 43 of this Order.
+(2) The final code of construction practice for each stage[^c-dcce4d66351cae094761a6879b795a97] submitted under sub-paragraph (1) must be in accordance with the code of construction practice (October 2025, Revision G) certified under article 43 of this Order.
 
 (3) The onshore works must be carried out in accordance with the approved final version of the code of construction practice.
 
-#### 7. Traffic and access plans[^key-a5d1233cf65d70f824fe8193add168dc]
+#### 7. Traffic and access plans[^c-a5d1233cf65d70f824fe8193add168dc]
 
 (1) No stage of the onshore works may be commenced until for that stage the following plans have been submitted to and approved by the discharging authority—
 
@@ -154,13 +154,13 @@ have been submitted to and approved by the discharging authority.
 
 (3) The onshore works must be carried out in accordance with the approved plans as applicable in each stage.
 
-#### 8. Permanent highway accesses[^key-67c2e87f15b9729e074459a1fac7a1dd]
+#### 8. Permanent highway accesses[^c-67c2e87f15b9729e074459a1fac7a1dd]
 
 (1) No new permanent means of access to a highway to be used by vehicular traffic, or any permanent alteration to an existing means of access to a highway used by vehicular traffic may be formed until written details of the design, layout and siting of that new or altered access have been submitted to and approved by the discharging authority in consultation with the highway authority.
 
 (2) Any new permanent means of access to a highway or any permanent alteration to an existing means of access must be constructed in accordance with the details approved under sub-paragraph (1).
 
-#### 9. Onshore archaeology[^key-5f5c24c70fa15dbb8d09f9464d7f1b6b]
+#### 9. Onshore archaeology[^c-5f5c24c70fa15dbb8d09f9464d7f1b6b]
 
 (1) Geoarchaeological and archaeological evaluation and mitigation must be carried out in accordance with the archaeological mitigation strategy.
 
@@ -174,7 +174,7 @@ have been submitted to and approved by the discharging authority.
 
 (6) For the purposes of this requirement “**intrusive**” in relation to onshore site preparation works means works within the onshore Order limits that require the breaking of the surface of the land.
 
-#### 10. Landscape and Ecological Management Plan[^key-0c3bb767e1aecab138bf0a077f54a337]
+#### 10. Landscape and Ecological Management Plan[^c-0c3bb767e1aecab138bf0a077f54a337]
 
 (1) No stage of the onshore works may commence until for that stage a written landscape and ecological management plan in accordance with the outline landscape and ecological management plan as appropriate for the relevant stage, has been submitted to and approved by the discharging authority in consultation with the relevant statutory nature conservation body, the Environment Agency, the lead local flood authority, Historic England (where relevant), the Forestry Commission (where relevant), and to the extent that it relates to works seaward of mean high water springs, the MMO.
 
@@ -184,25 +184,25 @@ have been submitted to and approved by the discharging authority.
 
 (4) Onshore site preparation works must only take place in accordance with the relevant details set out in the outline landscape and ecological management plan as certified in accordance with article 43 (certification of plans, etc.).
 
-#### 11. Soil Management Plan[^key-edc43bd7aabb37c41966f719e08736f7]
+#### 11. Soil Management Plan[^c-edc43bd7aabb37c41966f719e08736f7]
 
 (1) No stage of the onshore works may be commenced until, for that stage, a soil management plan in accordance with the measures included in the code of construction practice (October 2025, Revision G), as appropriate for the relevant stage, has been submitted to and approved by the discharging authority.
 
 (2) The onshore works must be carried out in accordance with the approved soil management plan(s) as applicable in each stage.
 
-#### 12. Protected species onshore[^key-02c811cb8a23d67bcfb563dc152f282d]
+#### 12. Protected species onshore[^c-02c811cb8a23d67bcfb563dc152f282d]
 
 (1) No stage of the onshore works other than surveying and investigation necessary to comply with this requirement may be undertaken until, for that stage, pre-construction survey work has been carried out to establish whether a European protected species or nationally protected species under the Wildlife and Countryside Act 1981[^f00052] and the Protection of Badgers Act 1992[^f00053] is present on any of the land affected, or likely to be affected, by any part of that stage of the onshore works.
 
 (2) The compensatory works other than surveying and investigation necessary to comply with this requirement may not be undertaken until, for those works, pre-construction survey work has been carried out to establish whether a European protected species or nationally protected species under the Wildlife and Countryside Act 1981 and the Protection of Badgers Act 1992 is present on any of the land affected, or likely to be affected, by any part of the compensatory works.
 
-(3) Where a European protected species or nationally protected species under the Wildlife and Countryside Act 1981 and the Protection of Badgers Act 1992 is shown to be present, the stage of the onshore works or compensatory works likely to affect the species must not be commenced until a scheme of protection and mitigation measures for that stage has been submitted to [^key-1685d6b402110db92b274e03522a3032]... the discharging authority in the case of the onshore works, or the relevant planning authority in the case of compensatory works.
+(3) Where a European protected species or nationally protected species under the Wildlife and Countryside Act 1981 and the Protection of Badgers Act 1992 is shown to be present, the stage of the onshore works or compensatory works likely to affect the species must not be commenced until a scheme of protection and mitigation measures for that stage has been submitted to [^c-1685d6b402110db92b274e03522a3032]... the discharging authority in the case of the onshore works, or the relevant planning authority in the case of compensatory works.
 
 (4) Each stage of the onshore works or the compensatory works which requires a scheme of protection and mitigation measures in accordance with sub-paragraph (3) of this requirement must be carried out in accordance with the approved scheme as applicable in each stage.
 
 (5) In this paragraph, “**European protected species**” has the same meaning as in regulations 42 (European protected species of animals) and 46 (European protected species of plants) of the Conservation of Habitats and Species Regulations 2017[^f00054].
 
-#### 13. Ground water monitoring[^key-8b0c4fd85fe8ac93c36d129a4a1431ac]
+#### 13. Ground water monitoring[^c-8b0c4fd85fe8ac93c36d129a4a1431ac]
 
 (1) No stage of the onshore works for which a groundwater monitoring plan is required in accordance with the outline groundwater monitoring plan, must be commenced until, for that stage a groundwater monitoring plan has been submitted to and approved by the discharging authority.
 
@@ -210,11 +210,11 @@ have been submitted to and approved by the discharging authority.
 
 (3) Any plan approved under sub-paragraph (1) must be implemented as approved.
 
-#### 14. Restoration of land used temporarily for construction[^key-62c4114c68dafe2f79013dbb28326c82]
+#### 14. Restoration of land used temporarily for construction[^c-62c4114c68dafe2f79013dbb28326c82]
 
 Subject to requirement 19(4), any land which is used temporarily for the construction of the onshore works and not ultimately incorporated into permanent works or approved landscaping, must be reinstated within twelve months of the completion of the relevant stage of the onshore works or such other time period as may be agreed in writing with the discharging authority.
 
-#### 15. Control of noise during operational stage[^key-af5a9e2819b5b63dad44041505542fa3]
+#### 15. Control of noise during operational stage[^c-af5a9e2819b5b63dad44041505542fa3]
 
 (1) The noise rating level for the standard operation of Work No. 15B (the onshore electrical substation) must not exceed—
 
@@ -230,17 +230,17 @@ Subject to requirement 19(4), any land which is used temporarily for the constru
 - (a) the required meteorological and other conditions under which the measurements will be taken, acknowledging that data obtained during emergency operation or testing of certain plant and equipment is not to be taken into account, and
 - (b) suitable monitoring locations (and alternative locations if appropriate).
 
-(4) Within 12 months of commencement of operation of Work No. 15B, the undertaker must carry out noise evaluations at the noise sensitive locations listed in sub-paragraphs (1)(a) and (1)(b) and submit the results to the discharging authority[^key-6480843d1840bee10b4a5299e6cd6e70]. If the noise rating levels are found to be exceeded, the undertaker must provide details of further noise monitoring and mitigation to be agreed in writing by the discharging authority.
+(4) Within 12 months of commencement of operation of Work No. 15B, the undertaker must carry out noise evaluations at the noise sensitive locations listed in sub-paragraphs (1)(a) and (1)(b) and submit the results to the discharging authority[^c-6480843d1840bee10b4a5299e6cd6e70]. If the noise rating levels are found to be exceeded, the undertaker must provide details of further noise monitoring and mitigation to be agreed in writing by the discharging authority.
 
 (5) For the purposes of this requirement “**standard operation**” means the ordinary operation of the substations excluding emergency operation and the testing of plant and equipment associated with emergency operation.
 
-#### 16. Skills and employment strategy[^key-aaaf4fc9b2f77a1195848018b521a5a6]
+#### 16. Skills and employment strategy[^c-aaaf4fc9b2f77a1195848018b521a5a6]
 
 (1) No onshore works or offshore works other than Work Nos. 13, 13A, 18A and 18B must be commenced until a skills and employment strategy, in accordance with the outline skills and employment strategy has been submitted to and approved by the discharging authority.
 
 (2) The skills and employment strategy must be implemented in accordance with the approved details.
 
-#### 17. Onshore build options[^key-14fd43cc2d0da7a31db023e08acde640]
+#### 17. Onshore build options[^c-14fd43cc2d0da7a31db023e08acde640]
 
 (1) Other than in relation to Work Nos. 13 and 13A, the undertaker may commence or exercise powers of compulsory acquisition under Part 5 of this Order in relation only to either build option 1 or build option 2.
 
@@ -252,7 +252,7 @@ Subject to requirement 19(4), any land which is used temporarily for the constru
 - (b) as necessary to create a transitional (tapered) area between the width for the trenched installation and the width for the trenchless installation compounds, to such extent as is necessary to properly space out the cables approaching the trenchless installation compound, up to the maximum width of the trenchless installation compound concerned in each relevant location; or
 - (c) where necessary to provide connections to accesses, haul routes and temporary construction compounds as authorised by Schedule 1 where the width may extend to that necessary to effect the connection required.
 
-#### 18. Compensatory Works[^key-4d16f94026067afe4164a6f9fad4dcc1]
+#### 18. Compensatory Works[^c-4d16f94026067afe4164a6f9fad4dcc1]
 
 (1) The compensatory works must not be commenced under this Order until details of—
 
@@ -263,7 +263,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (2) The compensatory works must be carried out in accordance with the approved details.
 
-#### 19. Reuse of temporary works with the onshore works for North Falls[^key-862a62d407d0f56a3d5038c90eee79b2]
+#### 19. Reuse of temporary works with the onshore works for North Falls[^c-862a62d407d0f56a3d5038c90eee79b2]
 
 (1) In the event that any temporary works which have been constructed pursuant to any development consent order that may be made by the Secretary of State in relation to North Falls are proposed to be reused by the undertaker in connection with the authorised development, such reuse must not be commenced until a scheme which accords with sub-paragraph (2) has been submitted to and approved by the discharging authority.
 
@@ -273,27 +273,27 @@ have been submitted to and approved by the relevant planning authority.
 
 (4) Where in the event that any temporary works which have been constructed as part of the onshore works pursuant to this Order are to be subsequently used for the purposes of the construction of North Falls, the undertaker will not be required to maintain, restore or reinstate any such temporary works.
 
-#### 20. Biodiversity net gain[^key-dcbacf4d39577a051765c63ef5df2fc8]
+#### 20. Biodiversity net gain[^c-dcbacf4d39577a051765c63ef5df2fc8]
 
 (1) No stage of Work No. 15 (substation zone works) (excluding any onshore site preparation works) may commence until—
 
-- (a) a biodiversity net gain strategy which accords with the outline biodiversity net gain information comprising the Onshore Biodiversity Net Gain Indicative Design Stage Report has been approved in writing by the discharging authority[^key-30a705f7f9064a23eb54035c3c6aa058];
-- (b) the biodiversity gain strategy must set out how it will secure a minimum of 10% biodiversity net gain for all of the onshore works of the authorised development, using a biodiversity metric approved by the discharging authority[^key-c7452927802d30a52b699a3e6d793b1f]; and
+- (a) a biodiversity net gain strategy which accords with the outline biodiversity net gain information comprising the Onshore Biodiversity Net Gain Indicative Design Stage Report has been approved in writing by the discharging authority[^c-30a705f7f9064a23eb54035c3c6aa058];
+- (b) the biodiversity gain strategy must set out how it will secure a minimum of 10% biodiversity net gain for all of the onshore works of the authorised development, using a biodiversity metric approved by the discharging authority[^c-c7452927802d30a52b699a3e6d793b1f]; and
 - (c) the biodiversity net gain strategy must be accompanied by copies of any legal agreements with any offsite provider which demonstrate that the delivery of any offsite biodiversity units which contribute towards achieving a minimum of 10% biodiversity net gain for the onshore works of the authorised development, and the maintenance of the offsite works for a period of thirty years from the date of the final commissioning of the authorised development, is secured.
 
 (2) The location for delivery of offsite biodiversity units is to follow a prioritisation exercise, as described in the Onshore Biodiversity Net Gain Indicative Design Stage Report, with priority given to areas inside or within close proximity to the proposed Order limits (within Tendring District or same National Character Area within Essex).
 
 (3) The biodiversity net gain strategy must be implemented as approved.
 
-(4)[^key-3eccc4488386be9ca2afd6a2ab182bfb] Any remaining shortfall in biodiversity units identified following detailed design will be secured prior to construction works being completed.
+(4)[^c-3eccc4488386be9ca2afd6a2ab182bfb] Any remaining shortfall in biodiversity units identified following detailed design will be secured prior to construction works being completed.
 
 (5) In this paragraph “**offsite biodiversity units**” means any contribution to the minimum 10% biodiversity net gain for the onshore works of the authorised development that are to take place outside of the Order limits.
 
-#### 21. Offshore decommissioning[^key-2cfee21625df3e90fadb86cb1ca04551]
+#### 21. Offshore decommissioning[^c-2cfee21625df3e90fadb86cb1ca04551]
 
-The offshore works must not be commenced until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) (requirement to prepare decommissioning programmes) of the 2004 Act has been submitted to [^key-b454d5c10234dec33845e620224d5054]... the Secretary of State.
+The offshore works must not be commenced until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) (requirement to prepare decommissioning programmes) of the 2004 Act has been submitted to [^c-b454d5c10234dec33845e620224d5054]... the Secretary of State.
 
-#### 22. Onshore decommissioning[^key-57c0d246d7e4b8f07025890b28c2f47d]
+#### 22. Onshore decommissioning[^c-57c0d246d7e4b8f07025890b28c2f47d]
 
 (1) A written scheme of decommissioning for the onshore works must be submitted to and approved by the discharging authority not less than six months prior to any decommissioning works commencing.
 
@@ -301,9 +301,9 @@ The offshore works must not be commenced until a written decommissioning program
 
 (3) The scheme approved under sub-paragraph (1) must be implemented as approved in the carrying out of any decommissioning works or relevant part of it.
 
-#### 23. Migratory bat monitoring[^key-3eb788dbf852a9e8518bc256043a4c0d]
+#### 23. Migratory bat monitoring[^c-3eb788dbf852a9e8518bc256043a4c0d]
 
-(1) Work No.1 must not be commenced[^key-8188b2dc6fb9717aa577061e0ffc4fdf] until a migratory bat monitoring plan, which must detail proposals for pre-construction, construction, and post-construction monitoring of migratory bats within and in proximity to the array area[^key-6fb5a0fd18e6872e79caf367f8626ba3], has been submitted to and approved by the Secretary of State in consultation with the relevant statutory nature conservation bodies, the MMO, and the Bat Conservation Trust.
+(1) Work No.1 must not be commenced[^c-8188b2dc6fb9717aa577061e0ffc4fdf] until a migratory bat monitoring plan, which must detail proposals for pre-construction, construction, and post-construction monitoring of migratory bats within and in proximity to the array area[^c-6fb5a0fd18e6872e79caf367f8626ba3], has been submitted to and approved by the Secretary of State in consultation with the relevant statutory nature conservation bodies, the MMO, and the Bat Conservation Trust.
 
 (2) The migratory bat monitoring plan must include—
 
@@ -320,19 +320,19 @@ The offshore works must not be commenced until a written decommissioning program
 
 (4) Any monitoring report compiled in accordance with the migratory bat monitoring plan as approved under sub-paragraph (1) must be made publicly available and submitted to the Crown Estate Marine Data Exchange, the relevant Local Environmental Records Centre(s), and any relevant ecological recording schemes, unless otherwise agreed in writing by the Secretary of State in consultation with the relevant statutory nature conservation bodies and the MMO.
 
-#### 24. Landfall drilling risk assessment[^key-0ed75fddc791002b4b7b3c934e08eade]
+#### 24. Landfall drilling risk assessment[^c-0ed75fddc791002b4b7b3c934e08eade]
 
 (1) No part of Work No. 4 may commence until a landfall drilling environmental risk assessment, in accordance with the approach set out in the code of construction practice, has been submitted to and approved by the discharging authority in consultation with the relevant statutory nature conservation body and the Environment Agency.
 
 (2) Any control measures identified in the risk assessment submitted under sub-paragraph (1) must be implemented as approved.
 
-#### 25. Farmland bird compensation[^key-7ddddd906a5043bd514a2b879e6eaa6e]
+#### 25. Farmland bird compensation[^c-7ddddd906a5043bd514a2b879e6eaa6e]
 
 (1) In this requirement—
 
 - “**compensation measure**” means habitat creation or improvement designed to compensate for the loss and / or displacement of skylark and corn bunting territories as a result of the authorised development;
 - “**FBCP**” means the farmland bird compensation plan for the delivery of the compensation measure;
-- “**Nature Restoration Fund**” means the fund proposed to be established and operated by Defra pursuant to the Planning and Infrastructure Bill for the implementation of strategic mitigation and / or compensation measures or any equivalent fund established [^key-abb6206ed9d1f741af0ab7c6b1287132]... for that purpose; and
+- “**Nature Restoration Fund**” means the fund proposed to be established and operated by Defra pursuant to the Planning and Infrastructure Bill for the implementation of strategic mitigation and / or compensation measures or any equivalent fund established [^c-abb6206ed9d1f741af0ab7c6b1287132]... for that purpose; and
 - “**Nature Restoration Fund Payment**” means a contribution to the Nature Restoration Fund to compensate for the loss and / or displacement of skylark and corn bunting territories as a result of the authorised development, the sum of which will be agreed with Defra or another organisation responsible for the operation of the Nature Restoration Fund.
 
 (2) No part of Work No. 15B is to commence until the undertaker has confirmed in writing to the Secretary of State that—
@@ -366,21 +366,21 @@ The offshore works must not be commenced until a written decommissioning program
 
 (10) The FBCP approved under sub-paragraph (4) includes any amendments that may subsequently be approved in writing by the Secretary of State, including any amendments to the location(s) where the compensation measure will be delivered, as referred to in sub-paragraph (5)(c).
 
-#### 26. Requirement for written approval[^key-74895f8237815181ced419107b96711e]
+#### 26. Requirement for written approval[^c-74895f8237815181ced419107b96711e]
 
 Where under any of the above requirements the approval or agreement of the Secretary of State, the discharging authority or the relevant planning authority is necessary, that approval or agreement must be given in writing.
 
-#### 27. Amendments to approved details[^key-773248048bde1618df3ca529cb6bd3c0]
+#### 27. Amendments to approved details[^c-773248048bde1618df3ca529cb6bd3c0]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved under this Schedule, the approved details are taken to include any amendments that may subsequently be approved or agreed by the Secretary of State, the discharging authority, or the relevant planning authority.
 
 ### PART 2 — Approval of matters specified in requirements
 
-#### 1. Interpretation[^key-0c2d851116c1a74091b9b7aaf7d3b296]
+#### 1. Interpretation[^c-0c2d851116c1a74091b9b7aaf7d3b296]
 
 In this Part of this Schedule “**application**” means an application for any consent, agreement or approval required by a requirement whether or not the application seeks to discharge a requirement in whole or in part.
 
-#### 2. Applications made under requirements[^key-b03da04b1a396a46d9c1a331c9439067]
+#### 2. Applications made under requirements[^c-b03da04b1a396a46d9c1a331c9439067]
 
 (1) Where an application has been made to the discharging authority or the relevant planning authority for any agreement or approval required pursuant to a requirement included in this Order, the discharging authority or relevant planning authority must give notice to the undertaker of their decision, including the reasons, on the application, within a period of 8 weeks beginning with—
 
@@ -399,7 +399,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (4) With respect to Requirements 5, 12 and 18, where an application has been made to the discharging authority or relevant planning authority for any agreement or approval required pursuant to those requirements and the discharging authority or the relevant planning authority has not given notice to the undertaker of their decision within the period set out in sub-paragraph (1), within a period of 8 weeks or by the conclusion of such period as may be extended by agreement under sub-paragraph (1)(c), then the application shall be deemed to have been refused consent.
 
-#### 3. Further information[^key-b4913d803d5aed14b77f3bc53cba1f67]
+#### 3. Further information[^c-b4913d803d5aed14b77f3bc53cba1f67]
 
 (1) Where an application has been made under paragraph 2 the discharging authority or the relevant planning authority has the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -409,17 +409,17 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (4) In the event that the discharging authority or the relevant planning authority does not give such notification as specified in sub-paragraphs (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-#### 4. Provision of information by Consultees[^key-1802ba0b7781403f1f6f9ed8c30d536a]
+#### 4. Provision of information by Consultees[^c-1802ba0b7781403f1f6f9ed8c30d536a]
 
 (1) Any consultee who receives a consultation under paragraph 3(3) must respond to that request within 28 days from receipt unless sub-paragraph (2) of this paragraph applies.
 
 (2) Where any consultee requests further information in accordance with the timescales set out in paragraph 3(3) then they must respond to the consultation within ten working days from the receipt of the further information requested.
 
-#### 5. Fees[^key-e34d7faecad4ad9d97c2ce2c75a412d0]
+#### 5. Fees[^c-e34d7faecad4ad9d97c2ce2c75a412d0]
 
 Where an application is made to the discharging authority or the relevant planning authority for agreement or approval in respect of a requirement the fee for the discharge of conditions as specified in Regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00055] (or any regulations replacing the same) is to be paid by the undertaker to the discharging authority or the relevant planning authority in accordance with these regulations unless a bespoke arrangement has been agreed between the undertaker and discharging authority or the relevant planning authority, and legally secured.
 
-#### 6. Appeal[^key-91236f8c133d9c5cc47e325edd8184d6]
+#### 6. Appeal[^c-91236f8c133d9c5cc47e325edd8184d6]
 
 (1) The undertaker may appeal to the Secretary of State in the event that the discharging authority or the relevant planning authority refuses an application, including any deemed refusal of consent under paragraph 2(4), for any consent, agreement or approval required by a requirement included in this Order, or grants it subject to conditions.
 
@@ -460,102 +460,102 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-3956f0e007055ff3c3267cca37a12b08]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-3956f0e007055ff3c3267cca37a12b08]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-9585eced63675d6c23a2abe7a27e858b]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-9585eced63675d6c23a2abe7a27e858b]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-985d697670dccbb9b5fa6de826466c42]: Textual amendment: Word in Sch. 2 Pt. 1 para. 2(2) table 1 inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-985d697670dccbb9b5fa6de826466c42]: Textual amendment: Word in Sch. 2 Pt. 1 para. 2(2) table 1 inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-8ed5cb1cdc5b3978fe304c348fe5b9bb]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-8ed5cb1cdc5b3978fe304c348fe5b9bb]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00051]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765).
 
-[^key-44186552e6151c58b0a706b31b3f4a56]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-44186552e6151c58b0a706b31b3f4a56]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-0bda1a30b18195822e528db76c31b337]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-0bda1a30b18195822e528db76c31b337]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-dc68dcaeec74957dcd542a0a9ca48578]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-dc68dcaeec74957dcd542a0a9ca48578]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-a7b31eda60d4f5e8f439c5c728fbf8e0]: Textual amendment: Words in Sch. 2 Pt. 1 para. 6(1) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-a7b31eda60d4f5e8f439c5c728fbf8e0]: Textual amendment: Words in Sch. 2 Pt. 1 para. 6(1) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-dcce4d66351cae094761a6879b795a97]: Textual amendment: Words in Sch. 2 Pt. 1 para. 6(2) inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-dcce4d66351cae094761a6879b795a97]: Textual amendment: Words in Sch. 2 Pt. 1 para. 6(2) inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-a5d1233cf65d70f824fe8193add168dc]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-a5d1233cf65d70f824fe8193add168dc]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-67c2e87f15b9729e074459a1fac7a1dd]: Commencement: Sch. 2 Pt. 1 para. 8 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-67c2e87f15b9729e074459a1fac7a1dd]: Commencement: Sch. 2 Pt. 1 para. 8 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-5f5c24c70fa15dbb8d09f9464d7f1b6b]: Commencement: Sch. 2 Pt. 1 para. 9 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-5f5c24c70fa15dbb8d09f9464d7f1b6b]: Commencement: Sch. 2 Pt. 1 para. 9 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-0c3bb767e1aecab138bf0a077f54a337]: Commencement: Sch. 2 Pt. 1 para. 10 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-0c3bb767e1aecab138bf0a077f54a337]: Commencement: Sch. 2 Pt. 1 para. 10 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-edc43bd7aabb37c41966f719e08736f7]: Commencement: Sch. 2 Pt. 1 para. 11 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-edc43bd7aabb37c41966f719e08736f7]: Commencement: Sch. 2 Pt. 1 para. 11 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-02c811cb8a23d67bcfb563dc152f282d]: Commencement: Sch. 2 Pt. 1 para. 12 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-02c811cb8a23d67bcfb563dc152f282d]: Commencement: Sch. 2 Pt. 1 para. 12 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00052]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
 [^f00053]: Footnote: [1992 c. 51](https://www.legislation.gov.uk/ukpga/1992/51).
 
-[^key-1685d6b402110db92b274e03522a3032]: Textual amendment: Words in Sch. 2 Pt. 1 para. 12(3) omitted (6.10.2026) by virtue of [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-1685d6b402110db92b274e03522a3032]: Textual amendment: Words in Sch. 2 Pt. 1 para. 12(3) omitted (6.10.2026) by virtue of [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
 [^f00054]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
-[^key-8b0c4fd85fe8ac93c36d129a4a1431ac]: Commencement: Sch. 2 Pt. 1 para. 13 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-8b0c4fd85fe8ac93c36d129a4a1431ac]: Commencement: Sch. 2 Pt. 1 para. 13 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-62c4114c68dafe2f79013dbb28326c82]: Commencement: Sch. 2 Pt. 1 para. 14 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-62c4114c68dafe2f79013dbb28326c82]: Commencement: Sch. 2 Pt. 1 para. 14 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-af5a9e2819b5b63dad44041505542fa3]: Commencement: Sch. 2 Pt. 1 para. 15 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-af5a9e2819b5b63dad44041505542fa3]: Commencement: Sch. 2 Pt. 1 para. 15 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-6480843d1840bee10b4a5299e6cd6e70]: Textual amendment: Words in Sch. 2 Pt. 1 para. 15(4) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-6480843d1840bee10b4a5299e6cd6e70]: Textual amendment: Words in Sch. 2 Pt. 1 para. 15(4) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-aaaf4fc9b2f77a1195848018b521a5a6]: Commencement: Sch. 2 Pt. 1 para. 16 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-aaaf4fc9b2f77a1195848018b521a5a6]: Commencement: Sch. 2 Pt. 1 para. 16 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-14fd43cc2d0da7a31db023e08acde640]: Commencement: Sch. 2 Pt. 1 para. 17 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-14fd43cc2d0da7a31db023e08acde640]: Commencement: Sch. 2 Pt. 1 para. 17 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-4d16f94026067afe4164a6f9fad4dcc1]: Commencement: Sch. 2 Pt. 1 para. 18 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-4d16f94026067afe4164a6f9fad4dcc1]: Commencement: Sch. 2 Pt. 1 para. 18 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-862a62d407d0f56a3d5038c90eee79b2]: Commencement: Sch. 2 Pt. 1 para. 19 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-862a62d407d0f56a3d5038c90eee79b2]: Commencement: Sch. 2 Pt. 1 para. 19 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-dcbacf4d39577a051765c63ef5df2fc8]: Commencement: Sch. 2 Pt. 1 para. 20 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-dcbacf4d39577a051765c63ef5df2fc8]: Commencement: Sch. 2 Pt. 1 para. 20 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-30a705f7f9064a23eb54035c3c6aa058]: Textual amendment: Words in Sch. 2 Pt. 1 para. 20(1)(a) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-30a705f7f9064a23eb54035c3c6aa058]: Textual amendment: Words in Sch. 2 Pt. 1 para. 20(1)(a) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-c7452927802d30a52b699a3e6d793b1f]: Textual amendment: Words in Sch. 2 Pt. 1 para. 20(1)(b) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-c7452927802d30a52b699a3e6d793b1f]: Textual amendment: Words in Sch. 2 Pt. 1 para. 20(1)(b) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-3eccc4488386be9ca2afd6a2ab182bfb]: Textual amendment: Sch. 2 Pt. 1 para. 20(4) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-3eccc4488386be9ca2afd6a2ab182bfb]: Textual amendment: Sch. 2 Pt. 1 para. 20(4) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-2cfee21625df3e90fadb86cb1ca04551]: Commencement: Sch. 2 Pt. 1 para. 21 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-2cfee21625df3e90fadb86cb1ca04551]: Commencement: Sch. 2 Pt. 1 para. 21 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-b454d5c10234dec33845e620224d5054]: Textual amendment: Words in Sch. 2 Pt. 1 para. 21 omitted (6.10.2026) by virtue of [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-b454d5c10234dec33845e620224d5054]: Textual amendment: Words in Sch. 2 Pt. 1 para. 21 omitted (6.10.2026) by virtue of [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-57c0d246d7e4b8f07025890b28c2f47d]: Commencement: Sch. 2 Pt. 1 para. 22 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-57c0d246d7e4b8f07025890b28c2f47d]: Commencement: Sch. 2 Pt. 1 para. 22 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-3eb788dbf852a9e8518bc256043a4c0d]: Commencement: Sch. 2 Pt. 1 para. 23 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-3eb788dbf852a9e8518bc256043a4c0d]: Commencement: Sch. 2 Pt. 1 para. 23 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-8188b2dc6fb9717aa577061e0ffc4fdf]: Textual amendment: Words in Sch. 2 Pt. 1 para. 23(1) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-8188b2dc6fb9717aa577061e0ffc4fdf]: Textual amendment: Words in Sch. 2 Pt. 1 para. 23(1) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-6fb5a0fd18e6872e79caf367f8626ba3]: Textual amendment: Words in Sch. 2 Pt. 1 para. 23(1) inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-6fb5a0fd18e6872e79caf367f8626ba3]: Textual amendment: Words in Sch. 2 Pt. 1 para. 23(1) inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-0ed75fddc791002b4b7b3c934e08eade]: Commencement: Sch. 2 Pt. 1 para. 24 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-0ed75fddc791002b4b7b3c934e08eade]: Commencement: Sch. 2 Pt. 1 para. 24 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-7ddddd906a5043bd514a2b879e6eaa6e]: Commencement: Sch. 2 Pt. 1 para. 25 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-7ddddd906a5043bd514a2b879e6eaa6e]: Commencement: Sch. 2 Pt. 1 para. 25 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-abb6206ed9d1f741af0ab7c6b1287132]: Textual amendment: Words in Sch. 2 Pt. 1 para. 25(1) omitted (6.10.2026) by virtue of [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-abb6206ed9d1f741af0ab7c6b1287132]: Textual amendment: Words in Sch. 2 Pt. 1 para. 25(1) omitted (6.10.2026) by virtue of [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-74895f8237815181ced419107b96711e]: Commencement: Sch. 2 Pt. 1 para. 26 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-74895f8237815181ced419107b96711e]: Commencement: Sch. 2 Pt. 1 para. 26 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-773248048bde1618df3ca529cb6bd3c0]: Commencement: Sch. 2 Pt. 1 para. 27 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-773248048bde1618df3ca529cb6bd3c0]: Commencement: Sch. 2 Pt. 1 para. 27 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-0c2d851116c1a74091b9b7aaf7d3b296]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-0c2d851116c1a74091b9b7aaf7d3b296]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-b03da04b1a396a46d9c1a331c9439067]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-b03da04b1a396a46d9c1a331c9439067]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-b4913d803d5aed14b77f3bc53cba1f67]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-b4913d803d5aed14b77f3bc53cba1f67]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-1802ba0b7781403f1f6f9ed8c30d536a]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-1802ba0b7781403f1f6f9ed8c30d536a]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-e34d7faecad4ad9d97c2ce2c75a412d0]: Commencement: Sch. 2 Pt. 2 para. 5 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-e34d7faecad4ad9d97c2ce2c75a412d0]: Commencement: Sch. 2 Pt. 2 para. 5 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00055]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920).
 
-[^key-91236f8c133d9c5cc47e325edd8184d6]: Commencement: Sch. 2 Pt. 2 para. 6 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-91236f8c133d9c5cc47e325edd8184d6]: Commencement: Sch. 2 Pt. 2 para. 6 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42F. Determination to maintain[^key-00f86e4c54f9730392b505827865b475]
+## 42F. Determination to maintain[^c-00f86e4c54f9730392b505827865b475]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if the TRA proposes to determine that[^key-ad038202e7a0b3f23a99e33fe6a92d53] the application to goods of a definitive safeguarding remedy should be maintained.
+(1) This regulation applies if the TRA proposes to determine that[^c-ad038202e7a0b3f23a99e33fe6a92d53] the application to goods of a definitive safeguarding remedy should be maintained.
 
-(1A)[^key-8544071ca41f3a5798f5df01f6215fc3] The[^key-86e330e57409245571c2f05e49e9da42] TRA must notify the Secretary of State of its proposed determination.
+(1A)[^c-8544071ca41f3a5798f5df01f6215fc3] The[^c-86e330e57409245571c2f05e49e9da42] TRA must notify the Secretary of State of its proposed determination.
 
 (1B) Where the Secretary of State has been notified in accordance with paragraph (1A), the Secretary of State may, within the relevant period (and subject to paragraph (1C)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)
+[^c-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)
 
-[^key-ad038202e7a0b3f23a99e33fe6a92d53]: Textual amendment: Words in reg. 42F(1) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [37(7)(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/37/7/a)
+[^c-ad038202e7a0b3f23a99e33fe6a92d53]: Textual amendment: Words in reg. 42F(1) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [37(7)(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/37/7/a)
 
-[^key-8544071ca41f3a5798f5df01f6215fc3]: Textual amendment: Reg. 42F(1A)-(1F) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/954/regulation/21) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-8544071ca41f3a5798f5df01f6215fc3]: Textual amendment: Reg. 42F(1A)-(1F) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/954/regulation/21) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
 
-[^key-86e330e57409245571c2f05e49e9da42]: Textual amendment: Word in reg. 42F(1A) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [37(7)(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/37/7/b)
+[^c-86e330e57409245571c2f05e49e9da42]: Textual amendment: Word in reg. 42F(1A) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [37(7)(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/37/7/b)

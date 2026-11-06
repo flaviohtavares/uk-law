@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 568. Borrowing powers[^key-94323a848bb9358c1bfd4ec45675dcf7]
+## 568. Borrowing powers[^c-94323a848bb9358c1bfd4ec45675dcf7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94323a848bb9358c1bfd4ec45675dcf7]: Commencement: Art. 568 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-94323a848bb9358c1bfd4ec45675dcf7]: Commencement: Art. 568 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

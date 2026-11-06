@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Restrictions on use of certain articles[^M_I_3027665f-b526-4c90-f21e-e419af7a6dd2][^key-9224a597c0a684f3e62e92b7c9b3118d]
+## 80. Restrictions on use of certain articles[^M_I_3027665f-b526-4c90-f21e-e419af7a6dd2][^c-9224a597c0a684f3e62e92b7c9b3118d]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^M_I_3027665f-b526-4c90-f21e-e419af7a6dd2]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-9224a597c0a684f3e62e92b7c9b3118d]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/30/section/80) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9224a597c0a684f3e62e92b7c9b3118d]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/30/section/80) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

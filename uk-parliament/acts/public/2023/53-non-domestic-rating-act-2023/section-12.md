@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 12. Sharing of information between billing authorities and HMRC[^key-421fe896b829d2bcbd616f0cbf7bda78]
+## 12. Sharing of information between billing authorities and HMRC[^c-421fe896b829d2bcbd616f0cbf7bda78]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-421fe896b829d2bcbd616f0cbf7bda78]: Commencement: S. 12 not in force at Royal Assent, see [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/4/a)
+[^c-421fe896b829d2bcbd616f0cbf7bda78]: Commencement: S. 12 not in force at Royal Assent, see [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/4/a)

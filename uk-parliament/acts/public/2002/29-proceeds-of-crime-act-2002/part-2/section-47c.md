@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47C. Power to seize property[^key-aba2a29eed054d2a12dfdb2a9ad47eaa]
+## 47C. Power to seize property[^c-aba2a29eed054d2a12dfdb2a9ad47eaa]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the property may otherwise be made unavailable for satisfying any confiscation order that has been or may be made against the defendant, or
 - (b) the value of the property may otherwise be diminished as a result of conduct by the defendant or any other person.
 
-(2) But the officer may not under subsection (1)[^key-aa20da0ccf7a29155003f01006530be6] seize—
+(2) But the officer may not under subsection (1)[^c-aa20da0ccf7a29155003f01006530be6] seize—
 
 - (a) cash, or
 - (b) exempt property.
@@ -41,7 +41,7 @@ summary: ''
 
 Section 47B(11) is subject to this subsection.
 
-(5A)[^key-a1fe0de053edbbedf4b935ff32990d17] On being satisfied as mentioned in section 47B(1) an appropriate officer may seize any free property if the officer has reasonable grounds for suspecting that it is a cryptoasset-related item.
+(5A)[^c-a1fe0de053edbbedf4b935ff32990d17] On being satisfied as mentioned in section 47B(1) an appropriate officer may seize any free property if the officer has reasonable grounds for suspecting that it is a cryptoasset-related item.
 
 (5B) A “cryptoasset-related item” is an item of property that is, or that contains or gives access to information that is, likely to assist in the seizure under subsection (1) of any cryptoasset.
 
@@ -64,11 +64,11 @@ require any information which is stored in any electronic form and accessible fr
 (6) The power conferred by this section—
 
 - (a) may be exercised only with the appropriate approval under section 47G unless, in the circumstances, it is not practicable to obtain that approval before exercising the power, and
-- (aa)[^key-3691ce7805b471e297ef4d176c362c86] where applicable, in accordance with subsection (6A) or (6B).
+- (aa)[^c-3691ce7805b471e297ef4d176c362c86] where applicable, in accordance with subsection (6A) or (6B).
 
-(6A)[^key-0c41f8400b33b9f2cab7e12c431496f6] The power conferred by this section is exercisable by an officer of Revenue and Customs only if the officer has reasonable grounds for suspecting that conduct constituting the relevant offence relates to an assigned matter (within the meaning of the Customs and Excise Management Act 1979).
+(6A)[^c-0c41f8400b33b9f2cab7e12c431496f6] The power conferred by this section is exercisable by an officer of Revenue and Customs only if the officer has reasonable grounds for suspecting that conduct constituting the relevant offence relates to an assigned matter (within the meaning of the Customs and Excise Management Act 1979).
 
-(6B)[^key-1c35892a76df8ed054ab3f4b2375e195] The power conferred by this section is exercisable by an immigration officer only if the officer has reasonable grounds for suspecting that conduct constituting the relevant offence—
+(6B)[^c-1c35892a76df8ed054ab3f4b2375e195] The power conferred by this section is exercisable by an immigration officer only if the officer has reasonable grounds for suspecting that conduct constituting the relevant offence—
 
 - (a) relates to the entitlement of one or more persons who are not nationals of the United Kingdom to enter, transit across, or be in, the United Kingdom (including conduct which relates to conditions or other controls on any such entitlement), or
 - (b) is undertaken for the purposes of, or otherwise in relation to, a relevant nationality enactment.
@@ -78,7 +78,7 @@ require any information which is stored in any electronic form and accessible fr
 - (a) in a case where the officer is satisfied that the first, second, third or fourth condition in section 47B is met, the offence mentioned in that condition,
 - (b) in a case where the officer is satisfied that any of the other conditions in section 47B is met, the offence (or any of the offences) concerned.
 
-(8)[^key-d86395c1b24e576a286793a052f1f129] Relevant nationality enactment” means any enactment in—
+(8)[^c-d86395c1b24e576a286793a052f1f129] Relevant nationality enactment” means any enactment in—
 
 - (a) the British Nationality Act 1981,
 - (b) the Hong Kong Act 1985,
@@ -89,16 +89,16 @@ require any information which is stored in any electronic form and accessible fr
 
 ## Annotations
 
-[^key-aba2a29eed054d2a12dfdb2a9ad47eaa]: Textual amendment: Ss. 47A-47S and cross-heading inserted (22.11.2014 for the insertion of ss. 47A, 47G, 47S(1)-(5) for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-aba2a29eed054d2a12dfdb2a9ad47eaa]: Textual amendment: Ss. 47A-47S and cross-heading inserted (22.11.2014 for the insertion of ss. 47A, 47G, 47S(1)-(5) for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-aa20da0ccf7a29155003f01006530be6]: Textual amendment: Words in [s. 47C(2)](https://www.legislation.gov.uk/ukpga/2002/29/section/47C/2) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/3/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
+[^c-aa20da0ccf7a29155003f01006530be6]: Textual amendment: Words in [s. 47C(2)](https://www.legislation.gov.uk/ukpga/2002/29/section/47C/2) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/3/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
 
-[^key-a1fe0de053edbbedf4b935ff32990d17]: Textual amendment: [S. 47C(5A)-(5F)](https://www.legislation.gov.uk/ukpga/2002/29/section/47C/5A) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/3/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
+[^c-a1fe0de053edbbedf4b935ff32990d17]: Textual amendment: [S. 47C(5A)-(5F)](https://www.legislation.gov.uk/ukpga/2002/29/section/47C/5A) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/3/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
 
-[^key-3691ce7805b471e297ef4d176c362c86]: Textual amendment: S. 47C(6)(aa) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/2/a) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
+[^c-3691ce7805b471e297ef4d176c362c86]: Textual amendment: S. 47C(6)(aa) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/2/a) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
 
-[^key-0c41f8400b33b9f2cab7e12c431496f6]: Textual amendment: S. 47C(6A) substituted (22.11.2014) for words by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/2/b) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
+[^c-0c41f8400b33b9f2cab7e12c431496f6]: Textual amendment: S. 47C(6A) substituted (22.11.2014) for words by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/2/b) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
 
-[^key-1c35892a76df8ed054ab3f4b2375e195]: Textual amendment: S. 47C(6B) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/3) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
+[^c-1c35892a76df8ed054ab3f4b2375e195]: Textual amendment: S. 47C(6B) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/3) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
 
-[^key-d86395c1b24e576a286793a052f1f129]: Textual amendment: S. 47C(8) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/4) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)
+[^c-d86395c1b24e576a286793a052f1f129]: Textual amendment: S. 47C(8) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 16(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/16/4) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/e)

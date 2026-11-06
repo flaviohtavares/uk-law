@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A fee of £11,974[^key-532ed67cca9ea2aab486938605e3b6d5] is payable by a person who gives notice, under any of the provisions specified in paragraph (2), of their wish to—
+(1) A fee of £11,974[^c-532ed67cca9ea2aab486938605e3b6d5] is payable by a person who gives notice, under any of the provisions specified in paragraph (2), of their wish to—
 
 - (a) make further representations to the licensing authority or appear before or be heard by a person appointed, or
 - (b) propose that there should be a review upon oral representations.
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-532ed67cca9ea2aab486938605e3b6d5]: Textual amendment: Sum in reg. 42(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2023/314/regulation/24)
+[^c-532ed67cca9ea2aab486938605e3b6d5]: Textual amendment: Sum in reg. 42(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2023/314/regulation/24)
 
 [^c23108321]: Marginal citation: [Regulation 45H](https://www.legislation.gov.uk/uksi/2016/190/regulation/45H) was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 

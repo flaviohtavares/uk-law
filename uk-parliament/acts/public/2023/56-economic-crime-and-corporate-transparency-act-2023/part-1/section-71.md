@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Requirements for administrative restoration[^key-02675de2210a95054340479263e6276f][^key-9125e2f8c08bef83a89f1aef5b089f26]
+## 71. Requirements for administrative restoration[^c-02675de2210a95054340479263e6276f][^c-9125e2f8c08bef83a89f1aef5b089f26]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ In section 1025 of the Companies Act 2006 (requirements for administrative resto
 
 ## Annotations
 
-[^key-02675de2210a95054340479263e6276f]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-02675de2210a95054340479263e6276f]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-9125e2f8c08bef83a89f1aef5b089f26]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/56/section/71) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z16)
+[^c-9125e2f8c08bef83a89f1aef5b089f26]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/56/section/71) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z16)

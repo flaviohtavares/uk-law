@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Retrospective amendment of certain provisions of Settled Land Acts.[^key-8e4b402a70c56e9b20d0c35b1c9db9a7]
+## 118. Retrospective amendment of certain provisions of Settled Land Acts.[^c-8e4b402a70c56e9b20d0c35b1c9db9a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e4b402a70c56e9b20d0c35b1c9db9a7]: Textual amendment: S. 118 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-8e4b402a70c56e9b20d0c35b1c9db9a7]: Textual amendment: S. 118 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)

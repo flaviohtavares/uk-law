@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 127. Liability for combined benefits[^key-05a4099fb7636a59ce6882bd29e4e013]
+## 127. Liability for combined benefits[^c-05a4099fb7636a59ce6882bd29e4e013]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ such payments must be made to the authority maintaining the new fund by the auth
 
 ## Annotations
 
-[^key-05a4099fb7636a59ce6882bd29e4e013]: Commencement: Reg. 127 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-05a4099fb7636a59ce6882bd29e4e013]: Commencement: Reg. 127 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

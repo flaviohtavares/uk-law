@@ -32,7 +32,7 @@ summary: ''
 
 Weights And Measures
 
-The Measuring Instruments (Amendment) Regulations 2010 (revoked)[^key-e9286fa4e3d2c1b3169185225a6b1add]
+The Measuring Instruments (Amendment) Regulations 2010 (revoked)[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st June 2011
 
-[^key-e9286fa4e3d2c1b3169185225a6b1add]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9286fa4e3d2c1b3169185225a6b1add]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 1. Citation and commencement[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Measuring Instruments (Liquid Fuel and Lubricants) Regulations 2006[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 2. Amendment of the Measuring Instruments (Liquid Fuel and Lubricants) Regulations 2006[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Measuring Instruments (Cold–water Meters) Regulations 2006[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 3. Amendment of the Measuring Instruments (Cold–water Meters) Regulations 2006[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Measuring Instruments (Liquid Fuel delivered from Road Tankers) Regulations 2006[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 4. Amendment of the Measuring Instruments (Liquid Fuel delivered from Road Tankers) Regulations 2006[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Measuring Instruments (Non-Prescribed Instruments) Regulations 2006[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 5. Amendment of the Measuring Instruments (Non-Prescribed Instruments) Regulations 2006[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Measuring Instruments (Active Electrical Energy Meters) Regulations 2006[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 6. Amendment of the Measuring Instruments (Active Electrical Energy Meters) Regulations 2006[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Measuring Instruments (Gas Meters) Regulations 2006[^key-e9286fa4e3d2c1b3169185225a6b1add]
+## 7. Amendment of the Measuring Instruments (Gas Meters) Regulations 2006[^c-e9286fa4e3d2c1b3169185225a6b1add]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9286fa4e3d2c1b3169185225a6b1add]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9286fa4e3d2c1b3169185225a6b1add]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e9286fa4e3d2c1b3169185225a6b1add]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9286fa4e3d2c1b3169185225a6b1add]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9286fa4e3d2c1b3169185225a6b1add]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) table (with regs. 3(4), 5, 67(5), Sch. 3 para. 2)
+[^c-e9286fa4e3d2c1b3169185225a6b1add]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) table (with regs. 3(4), 5, 67(5), Sch. 3 para. 2)

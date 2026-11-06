@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17ZA. Registered email addresses[^key-d05695f96d82267b04075e3c217b89e6]
+## 17ZA. Registered email addresses[^c-d05695f96d82267b04075e3c217b89e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ Sections 88A and 88B apply to LLPs, modified so they read as follows—
 
 ## Annotations
 
-[^key-d05695f96d82267b04075e3c217b89e6]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2009/1804/part/4A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/234/regulation/17); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d05695f96d82267b04075e3c217b89e6]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2009/1804/part/4A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/234/regulation/17); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

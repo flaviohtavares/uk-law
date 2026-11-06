@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36A. Commitment to prison and disqualification from driving[^key-bed416a7b3deaf58cbda1c03668f58b9][^c20958421]
+## 36A. Commitment to prison and disqualification from driving[^c-bed416a7b3deaf58cbda1c03668f58b9][^c20958421]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bed416a7b3deaf58cbda1c03668f58b9]: Modification: [Art. 36A](https://www.legislation.gov.uk/nisi/1991/2628/article/36A) excluded (30.6.2014) by [The Child Support Fees Regulations (Northern Ireland) 2014 (S.R. 2014/182)](https://www.legislation.gov.uk/nisr/2014/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/182/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2014/182/regulation/9/2/a)
+[^c-bed416a7b3deaf58cbda1c03668f58b9]: Modification: [Art. 36A](https://www.legislation.gov.uk/nisi/1991/2628/article/36A) excluded (30.6.2014) by [The Child Support Fees Regulations (Northern Ireland) 2014 (S.R. 2014/182)](https://www.legislation.gov.uk/nisr/2014/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/182/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2014/182/regulation/9/2/a)
 
 [^c20958421]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)

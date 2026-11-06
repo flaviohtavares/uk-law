@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Overseas life insurance companies[^key-7fb69b3d22835955bdf87cd252cbc104]
+## 156. Overseas life insurance companies[^c-7fb69b3d22835955bdf87cd252cbc104]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fb69b3d22835955bdf87cd252cbc104]: Textual amendment: [S. 156](https://www.legislation.gov.uk/ukpga/2003/14/section/156) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 109](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/109)
+[^c-7fb69b3d22835955bdf87cd252cbc104]: Textual amendment: [S. 156](https://www.legislation.gov.uk/ukpga/2003/14/section/156) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 109](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/109)

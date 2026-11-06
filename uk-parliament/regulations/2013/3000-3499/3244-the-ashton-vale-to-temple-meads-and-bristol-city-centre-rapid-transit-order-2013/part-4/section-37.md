@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Power to charge fares[^key-9eb6a6910c3017b41a174d9753532fb4]
+## 37. Power to charge fares[^c-9eb6a6910c3017b41a174d9753532fb4]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9eb6a6910c3017b41a174d9753532fb4]: Commencement: Art. 37 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-9eb6a6910c3017b41a174d9753532fb4]: Commencement: Art. 37 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00021]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).

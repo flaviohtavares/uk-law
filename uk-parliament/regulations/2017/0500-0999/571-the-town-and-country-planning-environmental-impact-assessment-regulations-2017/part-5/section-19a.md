@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Exceptions to requirements in relation to publication of notice, inspection of copies and availability of copies for the period from 24th December 2020 to 31st December 2021[^key-1bfdc39adc0a8a1ca329354fd0e63011]
+## 19A. Exceptions to requirements in relation to publication of notice, inspection of copies and availability of copies for the period from 24th December 2020 to 31st December 2021[^c-1bfdc39adc0a8a1ca329354fd0e63011]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bfdc39adc0a8a1ca329354fd0e63011]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2017/571/regulation/19A) inserted (temp. until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1398/regulation/9) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))
+[^c-1bfdc39adc0a8a1ca329354fd0e63011]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2017/571/regulation/19A) inserted (temp. until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1398/regulation/9) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))

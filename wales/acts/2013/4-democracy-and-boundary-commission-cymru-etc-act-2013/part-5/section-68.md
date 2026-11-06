@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Joint standards committees[^key-8a78510551407a65aefb7e4d9465a1ee]
+## 68. Joint standards committees[^c-8a78510551407a65aefb7e4d9465a1ee]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ summary: ''
 
 (4) In section 106 (Wales)—
 
-- (a)[^key-9e4a9f06c8054e30b57f1aadba5317f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9e4a9f06c8054e30b57f1aadba5317f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (6), after “section 21A(13)(b)” insert “ or regulations made under section 53(11) or (subject to subsection (6A)) section 54(5) ”,
 - (c) after subsection (6) insert—
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a78510551407a65aefb7e4d9465a1ee]: Commencement: S. 68 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/e)
+[^c-8a78510551407a65aefb7e4d9465a1ee]: Commencement: S. 68 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/e)
 
-[^key-9e4a9f06c8054e30b57f1aadba5317f7]: Textual amendment: S. 68(4)(a) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 62(5)](https://www.legislation.gov.uk/asc/2021/1/section/62/5), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)
+[^c-9e4a9f06c8054e30b57f1aadba5317f7]: Textual amendment: S. 68(4)(a) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 62(5)](https://www.legislation.gov.uk/asc/2021/1/section/62/5), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)

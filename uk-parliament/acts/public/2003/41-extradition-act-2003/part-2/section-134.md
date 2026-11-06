@@ -24,7 +24,7 @@ summary: ''
 
 - (a) an order for the person’s discharge is made under this Part;
 - (b) the person is taken to be discharged under this Part;
-- (ba)[^key-5d9756c8c33993800718a959f7fde4a9] the High Court dismisses an application for leave to appeal to it under section 105 or 110;
+- (ba)[^c-5d9756c8c33993800718a959f7fde4a9] the High Court dismisses an application for leave to appeal to it under section 105 or 110;
 - (c) the High Court dismisses an appeal under section 105 or 110;
 - (d) the High Court or the Supreme Court[^c2088054] dismisses an application for leave to appeal to the Supreme Court under section 114, if the application is made on behalf of the category 2 territory;
 - (e) the Supreme Court dismisses an appeal under section 114, if the appeal is brought on behalf of the category 2 territory.
@@ -37,11 +37,11 @@ summary: ''
 
 (3) In a case falling within subsection (1)(b), the appropriate judge may make an order under subsection (5) in favour of the person.
 
-(4) In a case falling within subsection (1)(ba), (c)[^key-751ab0ce2ededee8ab4bb0dd2912d5e4], (d) or (e), the court by which the application or appeal is dismissed may make an order under subsection (5) in favour of the person.
+(4) In a case falling within subsection (1)(ba), (c)[^c-751ab0ce2ededee8ab4bb0dd2912d5e4], (d) or (e), the court by which the application or appeal is dismissed may make an order under subsection (5) in favour of the person.
 
 (5) An order under this subsection in favour of a person is an order for a payment of the appropriate amount to be made to the person out of money provided by Parliament.
 
-(5A)[^key-80ddb6b8976c4e0083cdf390397592ef] In England and Wales, an order under subsection (5) is to be made, and the appropriate amount is to be determined, in accordance with sections 135A and 135B.
+(5A)[^c-80ddb6b8976c4e0083cdf390397592ef] In England and Wales, an order under subsection (5) is to be made, and the appropriate amount is to be determined, in accordance with sections 135A and 135B.
 
 (5B) In Scotland and Northern Ireland, an order under subsection (5) is to be made, and the appropriate amount is to be determined, in accordance with subsections (6) to (9).
 
@@ -66,12 +66,12 @@ summary: ''
 
 [^c2087191]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-5d9756c8c33993800718a959f7fde4a9]: Textual amendment: S. 134(1)(ba) inserted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(13)(a)](https://www.legislation.gov.uk/uksi/2015/992/article/3/13/a) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
+[^c-5d9756c8c33993800718a959f7fde4a9]: Textual amendment: S. 134(1)(ba) inserted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(13)(a)](https://www.legislation.gov.uk/uksi/2015/992/article/3/13/a) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
 
 [^c2088054]: Textual amendment: Words in s. 134 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 81(4)(m)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/81/4/m); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-751ab0ce2ededee8ab4bb0dd2912d5e4]: Textual amendment: Words in s. 134(4) substituted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(13)(b)](https://www.legislation.gov.uk/uksi/2015/992/article/3/13/b) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
+[^c-751ab0ce2ededee8ab4bb0dd2912d5e4]: Textual amendment: Words in s. 134(4) substituted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(13)(b)](https://www.legislation.gov.uk/uksi/2015/992/article/3/13/b) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
 
-[^key-80ddb6b8976c4e0083cdf390397592ef]: Textual amendment: S. 134(5A)(5B) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/16/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+[^c-80ddb6b8976c4e0083cdf390397592ef]: Textual amendment: S. 134(5A)(5B) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/16/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
 
 [^c2088348]: Textual amendment: S. 134(9) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 70(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/70/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)

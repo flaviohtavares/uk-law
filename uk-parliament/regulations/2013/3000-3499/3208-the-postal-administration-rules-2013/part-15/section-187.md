@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Information to be contained in all notifications to the registrar[^key-9e2a63b49b106dfa8b8c98e22c993db5]
+## 187. Information to be contained in all notifications to the registrar[^c-9e2a63b49b106dfa8b8c98e22c993db5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the notification must be authenticated by the person making the notification.
 
 ## Annotations
 
-[^key-9e2a63b49b106dfa8b8c98e22c993db5]: Commencement: [Rule 187](https://www.legislation.gov.uk/uksi/2013/3208/rule/187) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9e2a63b49b106dfa8b8c98e22c993db5]: Commencement: [Rule 187](https://www.legislation.gov.uk/uksi/2013/3208/rule/187) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

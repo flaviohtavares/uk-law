@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Members of Parliament etc.[^key-1b46be1b8bec0ce54d5c37509195daaf]
+## 26. Members of Parliament etc.[^c-1b46be1b8bec0ce54d5c37509195daaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (2) The Secretary of State may not issue the warrant without the approval of
 
-- (a)[^key-377c39f04c4ea43f2adab7738a7cd0d0] the Prime Minister , or[^key-c1388aac94a37134ac6b30f7144c201e]
+- (a)[^c-377c39f04c4ea43f2adab7738a7cd0d0] the Prime Minister , or[^c-c1388aac94a37134ac6b30f7144c201e]
 - (b) if conditions A and B are met, an individual (other than that Secretary of State) designated by the Prime Minister under this section.
 
-(2A)[^key-9402ae9c5f21da25c79c7d0e860d8394] Condition A is that the Prime Minister is unable to decide whether to give approval under subsection (2), due to incapacity or inability to access secure communications.
+(2A)[^c-9402ae9c5f21da25c79c7d0e860d8394] Condition A is that the Prime Minister is unable to decide whether to give approval under subsection (2), due to incapacity or inability to access secure communications.
 
 (2B) Condition B is that the Secretary of State or a senior official considers that there is an urgent need for the decision (as to whether to give such approval) to be made.
 
@@ -56,16 +56,16 @@ summary: ''
 - (b) a member of the Scottish Parliament;
 - (c) a member of the National Assembly for Wales;
 - (d) a member of the Northern Ireland Assembly;
-- (e)[^key-f3f3b3a60dd2646eb8283a145e497c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-f3f3b3a60dd2646eb8283a145e497c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b46be1b8bec0ce54d5c37509195daaf]: Commencement: S. 26 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/j)
+[^c-1b46be1b8bec0ce54d5c37509195daaf]: Commencement: S. 26 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/j)
 
-[^key-377c39f04c4ea43f2adab7738a7cd0d0]: Textual amendment: Words in s. 26(2) renumbered as s. 26(2)(a) (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/22/2/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
+[^c-377c39f04c4ea43f2adab7738a7cd0d0]: Textual amendment: Words in s. 26(2) renumbered as s. 26(2)(a) (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/22/2/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
 
-[^key-c1388aac94a37134ac6b30f7144c201e]: Textual amendment: S. 26(2)(b) and word inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/22/2/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
+[^c-c1388aac94a37134ac6b30f7144c201e]: Textual amendment: S. 26(2)(b) and word inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/22/2/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
 
-[^key-9402ae9c5f21da25c79c7d0e860d8394]: Textual amendment: S. 26(2A)-(2F) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/22/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
+[^c-9402ae9c5f21da25c79c7d0e860d8394]: Textual amendment: S. 26(2A)-(2F) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/22/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
 
-[^key-f3f3b3a60dd2646eb8283a145e497c67]: Textual amendment: S. 26(3)(e) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f3f3b3a60dd2646eb8283a145e497c67]: Textual amendment: S. 26(3)(e) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -37,34 +37,34 @@ on the transmission of confidential data under the common framework for business
 
 (2011/11/EU) (revoked)
 
-[^key-11dec3175bcc991e874b9741982a83c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11dec3175bcc991e874b9741982a83c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-11dec3175bcc991e874b9741982a83c2]
+## Article 1. Scope[^c-11dec3175bcc991e874b9741982a83c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Format and procedures for transmission[^key-11dec3175bcc991e874b9741982a83c2]
+## Article 2. Format and procedures for transmission[^c-11dec3175bcc991e874b9741982a83c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Security and confidentiality measures[^key-11dec3175bcc991e874b9741982a83c2]
+## Article 3. Security and confidentiality measures[^c-11dec3175bcc991e874b9741982a83c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Final provision[^key-11dec3175bcc991e874b9741982a83c2]
+## Article 4. Final provision[^c-11dec3175bcc991e874b9741982a83c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11dec3175bcc991e874b9741982a83c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11dec3175bcc991e874b9741982a83c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — STRUCTURE AND FORMAT FOR THE TRANSMISSION OF DATA[^key-11dec3175bcc991e874b9741982a83c2]
+## ANNEX — STRUCTURE AND FORMAT FOR THE TRANSMISSION OF DATA[^c-11dec3175bcc991e874b9741982a83c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11dec3175bcc991e874b9741982a83c2]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/64)
+[^c-11dec3175bcc991e874b9741982a83c2]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/64)

@@ -121,7 +121,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation shall apply from 1 January 2006.
 
-[^key-7bcb52aaf245533f064ab829f3567475]...
+[^c-7bcb52aaf245533f064ab829f3567475]...
 
 Done at Brussels, 24 November 2005.
 
@@ -139,4 +139,4 @@ Joaquín Almunia
 
 [^f00003]: Footnote: [OJ L 256, 7.9.1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.256.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 493/2005 ([OJ L 82, 31.3.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.082.01.0001.01.ENG)).’
 
-[^key-7bcb52aaf245533f064ab829f3567475]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/1915/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(a)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bcb52aaf245533f064ab829f3567475]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/1915/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(a)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

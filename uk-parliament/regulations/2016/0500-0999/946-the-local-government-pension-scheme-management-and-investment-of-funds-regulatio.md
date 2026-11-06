@@ -32,7 +32,7 @@ summary: ''
 
 Public Service Pensions, England And Wales
 
-The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2016 (revoked)[^key-7bc6b645f4e05922ae5450011ba6cbef]
+The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2016 (revoked)[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 Made
 
@@ -46,64 +46,64 @@ Coming into force
 
 1st November 2016
 
-[^key-7bc6b645f4e05922ae5450011ba6cbef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bc6b645f4e05922ae5450011ba6cbef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 1. Citation, commencement and extent[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 2. Interpretation[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Investment[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 3. Investment[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Management of a pension fund[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 4. Management of a pension fund[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restriction on power to borrow[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 5. Restriction on power to borrow[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Separate bank account[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 6. Separate bank account[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Investment strategy statement[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 7. Investment strategy statement[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Directions by the Secretary of State[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 8. Directions by the Secretary of State[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Investment managers[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 9. Investment managers[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Investments under section 11(1) of the Trustee Investments Act 1961[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 10. Investments under section 11(1) of the Trustee Investments Act 1961[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Consequential amendments[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 11. Consequential amendments[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocations and transitional provision[^key-7bc6b645f4e05922ae5450011ba6cbef]
+## 12. Revocations and transitional provision[^c-7bc6b645f4e05922ae5450011ba6cbef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7bc6b645f4e05922ae5450011ba6cbef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bc6b645f4e05922ae5450011ba6cbef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7bc6b645f4e05922ae5450011ba6cbef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bc6b645f4e05922ae5450011ba6cbef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7bc6b645f4e05922ae5450011ba6cbef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/946) revoked (30.6.2026) by [The Local Government Pension Scheme (Pooling, Management and Investment of Funds) Regulations 2026 (S.I. 2026/544)](https://www.legislation.gov.uk/uksi/2026/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/544/regulation/1/2), [22(1)](https://www.legislation.gov.uk/uksi/2026/544/regulation/22/1) (with [reg. 24](https://www.legislation.gov.uk/uksi/2026/544/regulation/24))
+[^c-7bc6b645f4e05922ae5450011ba6cbef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/946) revoked (30.6.2026) by [The Local Government Pension Scheme (Pooling, Management and Investment of Funds) Regulations 2026 (S.I. 2026/544)](https://www.legislation.gov.uk/uksi/2026/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/544/regulation/1/2), [22(1)](https://www.legislation.gov.uk/uksi/2026/544/regulation/22/1) (with [reg. 24](https://www.legislation.gov.uk/uksi/2026/544/regulation/24))

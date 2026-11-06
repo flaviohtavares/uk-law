@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-8ddf9550e40b50648c90de25e64c8a70] Subject to paragraph (2), the amount of sitting, recreational and dining space which is used for the provision of the service in accordance with regulation 44(6) must be at least—
+(1)[^c-8ddf9550e40b50648c90de25e64c8a70] Subject to paragraph (2), the amount of sitting, recreational and dining space which is used for the provision of the service in accordance with regulation 44(6) must be at least—
 
 - (a) 4.1 square metres for each individual;
 - (b) 5.1 square metres for wheelchair users.
 
-(2)[^key-55ff447b30454a2e6b947105335df5d8] For Category B premises, this regulation applies so that the space requirement must be met in relation to any additional rooms for individuals.
+(2)[^c-55ff447b30454a2e6b947105335df5d8] For Category B premises, this regulation applies so that the space requirement must be met in relation to any additional rooms for individuals.
 
 ## Annotations
 
-[^key-8ddf9550e40b50648c90de25e64c8a70]: Textual amendment: Words in reg. 52 substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/11/a)
+[^c-8ddf9550e40b50648c90de25e64c8a70]: Textual amendment: Words in reg. 52 substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/11/a)
 
-[^key-55ff447b30454a2e6b947105335df5d8]: Textual amendment: Reg. 52(2) added (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/11/b)
+[^c-55ff447b30454a2e6b947105335df5d8]: Textual amendment: Reg. 52(2) added (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/11/b)

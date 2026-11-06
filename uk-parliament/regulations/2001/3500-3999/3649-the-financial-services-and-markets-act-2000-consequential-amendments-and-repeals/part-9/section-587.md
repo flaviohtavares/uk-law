@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 587. Interpretation of the 2000 Order: Insurance business[^key-2c2db59a00fcdef7c43d430d5b277b4d]
+## 587. Interpretation of the 2000 Order: Insurance business[^c-2c2db59a00fcdef7c43d430d5b277b4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c2db59a00fcdef7c43d430d5b277b4d]: Commencement: Art. 587 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2c2db59a00fcdef7c43d430d5b277b4d]: Commencement: Art. 587 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

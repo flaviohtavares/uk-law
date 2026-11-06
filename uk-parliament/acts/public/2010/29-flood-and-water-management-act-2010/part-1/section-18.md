@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Reports about flood and coastal erosion risk management[^key-c11a60bd929fe05283ef11789a4a99f7][^key-2c9a3c57bf76f48989c0a691dd864e02][^key-0e2c7efa3965888837d7cbeac008e5b6]
+## 18. Reports about flood and coastal erosion risk management[^c-c11a60bd929fe05283ef11789a4a99f7][^c-2c9a3c57bf76f48989c0a691dd864e02][^c-0e2c7efa3965888837d7cbeac008e5b6]
 
 *Extent: E+W*
 
-(1) The Environment Agency must report to the Minister about flood and coastal erosion risk management in England[^key-246f4da8c90f2ffc97ee16d9a9ee17e2].
+(1) The Environment Agency must report to the Minister about flood and coastal erosion risk management in England[^c-246f4da8c90f2ffc97ee16d9a9ee17e2].
 
-(1A)[^key-1576b1b36b80e3a81d5196ad1d465673] The Natural Resources Body for Wales must report to the Minister about flood and coastal erosion risk management in Wales.
+(1A)[^c-1576b1b36b80e3a81d5196ad1d465673] The Natural Resources Body for Wales must report to the Minister about flood and coastal erosion risk management in Wales.
 
 (2) In particular, the report must include information about the application of the national flood and coastal erosion risk management strategies under sections 7 and 8.
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c11a60bd929fe05283ef11789a4a99f7]: Commencement: S. 18 in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/b)
+[^c-c11a60bd929fe05283ef11789a4a99f7]: Commencement: S. 18 in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/b)
 
-[^key-2c9a3c57bf76f48989c0a691dd864e02]: Commencement: S. 18 in force at 1.11.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 4(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/4/c)
+[^c-2c9a3c57bf76f48989c0a691dd864e02]: Commencement: S. 18 in force at 1.11.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 4(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/4/c)
 
-[^key-0e2c7efa3965888837d7cbeac008e5b6]: Textual amendment: S. 18 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 459(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/459/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0e2c7efa3965888837d7cbeac008e5b6]: Textual amendment: S. 18 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 459(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/459/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-246f4da8c90f2ffc97ee16d9a9ee17e2]: Textual amendment: Words in s. 18(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 459(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/459/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-246f4da8c90f2ffc97ee16d9a9ee17e2]: Textual amendment: Words in s. 18(1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 459(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/459/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1576b1b36b80e3a81d5196ad1d465673]: Textual amendment: S. 18(1A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 459(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/459/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1576b1b36b80e3a81d5196ad1d465673]: Textual amendment: S. 18(1A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 459(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/459/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

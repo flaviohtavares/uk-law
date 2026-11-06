@@ -30,10 +30,10 @@ summary: ''
 - (f) positive covenants by a transferor or transferee and indemnity convenants by a transferee entered under rules 64 or 65,
 - (g) details of any modification of the covenants implied by paragraphs 20(2) and (3) of Schedule 12 to the Act entered under rule 66,
 - (h) details of any modification of the covenants implied under the Law of Property (Miscellaneous Provisions) Act 1994 [^c10309941] entered under rule 67(6),
-- (i)[^key-38fd8b53350f164f581b7e7783dc9800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-38fd8b53350f164f581b7e7783dc9800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) such other matters as are required to be entered in the proprietorship register by these rules.
 
-(2)[^key-c85f10d61a02a74c578ae4b4f9c9def6] Where practicable, the registrar must enter in the proprietorship register—
+(2)[^c-c85f10d61a02a74c578ae4b4f9c9def6] Where practicable, the registrar must enter in the proprietorship register—
 
 - (a) on first registration of a registered estate,
 - (b) following completion by registration of a lease which is a registrable disposition, and
@@ -49,6 +49,6 @@ summary: ''
 
 [^c10309941]: Marginal citation: [1994 c. 36](https://www.legislation.gov.uk/ukpga/1994/36).
 
-[^key-38fd8b53350f164f581b7e7783dc9800]: Textual amendment: Rule 8(1)(i) omitted (10.11.2008) by virtue of [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/4/a) (with [rule 6](https://www.legislation.gov.uk/uksi/2008/1919/rule/6))
+[^c-38fd8b53350f164f581b7e7783dc9800]: Textual amendment: Rule 8(1)(i) omitted (10.11.2008) by virtue of [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/4/a) (with [rule 6](https://www.legislation.gov.uk/uksi/2008/1919/rule/6))
 
-[^key-c85f10d61a02a74c578ae4b4f9c9def6]: Textual amendment: Rule 8(2)(3) substituted for rule 8(2) (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/4/b) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-c85f10d61a02a74c578ae4b4f9c9def6]: Textual amendment: Rule 8(2)(3) substituted for rule 8(2) (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/4/b) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

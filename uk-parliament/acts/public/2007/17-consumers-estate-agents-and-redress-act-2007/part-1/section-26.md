@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Enforcement by court of section 24 notice[^key-939262c14f54f0fc65af656dc84ae2c6][^key-a55ad460b0829a4689bc949c4dfc7f38][^key-6340f2f6a2d82dee9d7592ce09b80e30]
+## 26. Enforcement by court of section 24 notice[^c-939262c14f54f0fc65af656dc84ae2c6][^c-a55ad460b0829a4689bc949c4dfc7f38][^c-6340f2f6a2d82dee9d7592ce09b80e30]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) But this section does not apply in relation to a notice if, or to the extent that, section 25(1) applies in relation to the notice.
 
-(3) The consumer advocacy body in question[^key-18ff84c1d31af9f8b8ca055d42839463] may apply to the court for an order requiring the defaulter to comply with the notice or with such directions for the like purpose as may be contained in the order.
+(3) The consumer advocacy body in question[^c-18ff84c1d31af9f8b8ca055d42839463] may apply to the court for an order requiring the defaulter to comply with the notice or with such directions for the like purpose as may be contained in the order.
 
 (4) An order under this section may, in particular, provide that all the costs or expenses of and incidental to the application are to be borne—
 
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-939262c14f54f0fc65af656dc84ae2c6]: Commencement: S. 26 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-939262c14f54f0fc65af656dc84ae2c6]: Commencement: S. 26 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-a55ad460b0829a4689bc949c4dfc7f38]: Modification: Pt. 1: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(1)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/1)
+[^c-a55ad460b0829a4689bc949c4dfc7f38]: Modification: Pt. 1: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(1)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/1)
 
-[^key-6340f2f6a2d82dee9d7592ce09b80e30]: Modification: Pt. 1: power to extend (N.I.) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/3)
+[^c-6340f2f6a2d82dee9d7592ce09b80e30]: Modification: Pt. 1: power to extend (N.I.) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/3)
 
-[^key-18ff84c1d31af9f8b8ca055d42839463]: Textual amendment: Words in s. 26(3) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(29)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/29) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-18ff84c1d31af9f8b8ca055d42839463]: Textual amendment: Words in s. 26(3) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(29)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/29) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))

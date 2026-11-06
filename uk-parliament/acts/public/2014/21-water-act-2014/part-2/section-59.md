@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Main rivers in England and Wales[^key-b13015a066dfd0a463b7c88f4fb02ed9]
+## 59. Main rivers in England and Wales[^c-b13015a066dfd0a463b7c88f4fb02ed9]
 
 *Extent: E+W*
 
@@ -287,4 +287,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b13015a066dfd0a463b7c88f4fb02ed9]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/21/section/59) in force at 1.10.2014 by [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)
+[^c-b13015a066dfd0a463b7c88f4fb02ed9]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2014/21/section/59) in force at 1.10.2014 by [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)

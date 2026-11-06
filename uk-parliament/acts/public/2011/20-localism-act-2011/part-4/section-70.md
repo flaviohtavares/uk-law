@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Small business relief[^key-4f4daac819c30d16efcf96bbedeea173]
+## 70. Small business relief[^c-4f4daac819c30d16efcf96bbedeea173]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f4daac819c30d16efcf96bbedeea173]: Textual amendment: [S. 70](https://www.legislation.gov.uk/ukpga/2011/20/section/70) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/10)
+[^c-4f4daac819c30d16efcf96bbedeea173]: Textual amendment: [S. 70](https://www.legislation.gov.uk/ukpga/2011/20/section/70) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/10)

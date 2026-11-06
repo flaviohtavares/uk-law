@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Directions concerning identification of housing renewal areas[^key-1922f557aa389e677b76d8f0e6576fbc]
+## 6. Directions concerning identification of housing renewal areas[^c-1922f557aa389e677b76d8f0e6576fbc]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1922f557aa389e677b76d8f0e6576fbc]: Commencement: S. 6 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-1922f557aa389e677b76d8f0e6576fbc]: Commencement: S. 6 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

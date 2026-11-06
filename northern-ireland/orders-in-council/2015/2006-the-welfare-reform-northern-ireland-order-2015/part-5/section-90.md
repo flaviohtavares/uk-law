@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Care home residents[^key-867281633ffec86c01565fcb1e37fdc7]
+## 90. Care home residents[^c-867281633ffec86c01565fcb1e37fdc7]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-867281633ffec86c01565fcb1e37fdc7]: Commencement: [Art. 90](https://www.legislation.gov.uk/nisi/2015/2006/article/90) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/d)
+[^c-867281633ffec86c01565fcb1e37fdc7]: Commencement: [Art. 90](https://www.legislation.gov.uk/nisi/2015/2006/article/90) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/d)

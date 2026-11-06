@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69D. Penalties under section 69C: officers' liability[^key-75148ff020c4ea81a8e32e5b00aac9be]
+## 69D. Penalties under section 69C: officers' liability[^c-75148ff020c4ea81a8e32e5b00aac9be]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ In this subsection “**conduct**” includes omissions.
 
 ## Annotations
 
-[^key-75148ff020c4ea81a8e32e5b00aac9be]: Textual amendment: Ss. 69C-69E inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/2) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/7))
+[^c-75148ff020c4ea81a8e32e5b00aac9be]: Textual amendment: Ss. 69C-69E inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/2) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/68/7))

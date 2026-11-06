@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Conflicts assessments[^key-83a15162425be4bfdde404f62be3cf97][^key-6efbad7cb89d372a18babe65b497ce37][^key-add790a39dd3c268ed4363eb8747c544]
+## 83. Conflicts assessments[^c-83a15162425be4bfdde404f62be3cf97][^c-6efbad7cb89d372a18babe65b497ce37][^c-add790a39dd3c268ed4363eb8747c544]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-83a15162425be4bfdde404f62be3cf97]: Commencement: S. 83 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-83a15162425be4bfdde404f62be3cf97]: Commencement: S. 83 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-6efbad7cb89d372a18babe65b497ce37]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/54/section/83) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-6efbad7cb89d372a18babe65b497ce37]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/54/section/83) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-add790a39dd3c268ed4363eb8747c544]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/2023/54/section/83) applied (with modifications) (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-add790a39dd3c268ed4363eb8747c544]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/2023/54/section/83) applied (with modifications) (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

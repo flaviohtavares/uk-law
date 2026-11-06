@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Practice rules for licensed providers[^key-1a7234fdcf8303a8c0759a2fb1900ea3]
+## 124. Practice rules for licensed providers[^c-1a7234fdcf8303a8c0759a2fb1900ea3]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a7234fdcf8303a8c0759a2fb1900ea3]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2010/16/section/124) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-1a7234fdcf8303a8c0759a2fb1900ea3]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2010/16/section/124) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

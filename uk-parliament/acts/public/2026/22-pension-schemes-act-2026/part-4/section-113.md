@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. New public schemes: further provision[^key-9f976f3a3b900353a98a91528f4d49bb]
+## 113. New public schemes: further provision[^c-9f976f3a3b900353a98a91528f4d49bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f976f3a3b900353a98a91528f4d49bb]: Commencement: S. 113 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)
+[^c-9f976f3a3b900353a98a91528f4d49bb]: Commencement: S. 113 in force at Royal Assent, see [s. 133(1)(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1/10)

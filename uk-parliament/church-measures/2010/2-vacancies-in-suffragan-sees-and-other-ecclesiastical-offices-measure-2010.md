@@ -33,11 +33,11 @@ A Measure to amend the law with respect to the appointment of suffragan bishops;
 
 \[18th March 2010\]
 
-## 1. Amendment of Suffragan Bishops Act 1534[^key-0f58db919870688c58abf7ba62e6162e]
+## 1. Amendment of Suffragan Bishops Act 1534[^c-0f58db919870688c58abf7ba62e6162e]
 
 Section 1 of the Suffragan Bishops Act 1534 (26 Hen. 8 c. 14) shall have effect as if it required only one person to be presented to Her Majesty for appointment to a suffragan see and any reference in that section to two persons or to one of those persons shall be construed as a reference to the single person presented to Her Majesty.
 
-## 2. Appointments by the Crown during certain vacancies[^key-a25e2632ac97a1fade86849527542971]
+## 2. Appointments by the Crown during certain vacancies[^c-a25e2632ac97a1fade86849527542971]
 
 (1) This section applies where Her Majesty has the right of presentation to an ecclesiastical office which is vacant during a vacancy in the see of a diocesan bishop and to which the right of presentation would, but for that vacancy, be exercisable by that bishop.
 
@@ -56,7 +56,7 @@ Section 1 of the Suffragan Bishops Act 1534 (26 Hen. 8 c. 14) shall have effect 
 
 (5) This section shall have effect notwithstanding section 15 of the 2007 Measure or, in the case of a scheme under section 11 of the 1978 Measure, section 14 of that Measure.
 
-## 3. Abolition of Crown's rights in relation to cession[^key-3b9d39b62849c79c8fa9f76580da0886]
+## 3. Abolition of Crown's rights in relation to cession[^c-3b9d39b62849c79c8fa9f76580da0886]
 
 The rules of law by which Her Majesty has the right of presentation to—
 
@@ -65,7 +65,7 @@ The rules of law by which Her Majesty has the right of presentation to—
 
 are abolished.
 
-## 4. Citation, commencement and extent[^key-82755dd91151057bd14c0f6ecc52c6ac]
+## 4. Citation, commencement and extent[^c-82755dd91151057bd14c0f6ecc52c6ac]
 
 (1) This Measure may be cited as the Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010.
 
@@ -78,10 +78,10 @@ are abolished.
 
 ## Annotations
 
-[^key-0f58db919870688c58abf7ba62e6162e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2010/2/section/1) in force at 1.6.2010 by [S.I. 2010/1](https://www.legislation.gov.uk/ukci/2010/1), [art. 2](https://www.legislation.gov.uk/ukci/2010/1/article/2)
+[^c-0f58db919870688c58abf7ba62e6162e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2010/2/section/1) in force at 1.6.2010 by [S.I. 2010/1](https://www.legislation.gov.uk/ukci/2010/1), [art. 2](https://www.legislation.gov.uk/ukci/2010/1/article/2)
 
-[^key-a25e2632ac97a1fade86849527542971]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2010/2/section/2) in force at 1.1.2011 by [S.I. 2010/6](https://www.legislation.gov.uk/ukci/2010/6), [art. 2](https://www.legislation.gov.uk/ukci/2010/6/article/2)
+[^c-a25e2632ac97a1fade86849527542971]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2010/2/section/2) in force at 1.1.2011 by [S.I. 2010/6](https://www.legislation.gov.uk/ukci/2010/6), [art. 2](https://www.legislation.gov.uk/ukci/2010/6/article/2)
 
-[^key-3b9d39b62849c79c8fa9f76580da0886]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2010/2/section/3) in force at 1.6.2010 by [S.I. 2010/1](https://www.legislation.gov.uk/ukci/2010/1), [art. 2](https://www.legislation.gov.uk/ukci/2010/1/article/2)
+[^c-3b9d39b62849c79c8fa9f76580da0886]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2010/2/section/3) in force at 1.6.2010 by [S.I. 2010/1](https://www.legislation.gov.uk/ukci/2010/1), [art. 2](https://www.legislation.gov.uk/ukci/2010/1/article/2)
 
-[^key-82755dd91151057bd14c0f6ecc52c6ac]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2010/2/section/4) in force at 11.6.2010 by [S.I. 2010/3](https://www.legislation.gov.uk/ukci/2010/3), [art. 2](https://www.legislation.gov.uk/ukci/2010/3/article/2)
+[^c-82755dd91151057bd14c0f6ecc52c6ac]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2010/2/section/4) in force at 11.6.2010 by [S.I. 2010/3](https://www.legislation.gov.uk/ukci/2010/3), [art. 2](https://www.legislation.gov.uk/ukci/2010/3/article/2)

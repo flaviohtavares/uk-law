@@ -28,8 +28,8 @@ summary: ''
 
 is not a distribution for the purposes of the Corporation Tax Acts.
 
-(2)[^key-f2d50763af95dd44b82480bec5be9b21] But subsection (1) does not apply if the company to which the interest or other distribution is paid is entitled under any enactment to an exemption from tax in respect of that interest or distribution.
+(2)[^c-f2d50763af95dd44b82480bec5be9b21] But subsection (1) does not apply if the company to which the interest or other distribution is paid is entitled under any enactment to an exemption from tax in respect of that interest or distribution.
 
 ## Annotations
 
-[^key-f2d50763af95dd44b82480bec5be9b21]: Modification: S. 1032(2) modified (with effect in accordance with art. 1 of the amending S.I.) by [Corporation Tax Act 2010 (Transitional Provision) Order 2010 (S.I. 2010/665)](https://www.legislation.gov.uk/uksi/2010/665), [arts. 1](https://www.legislation.gov.uk/uksi/2010/665/article/1), [2](https://www.legislation.gov.uk/uksi/2010/665/article/2)
+[^c-f2d50763af95dd44b82480bec5be9b21]: Modification: S. 1032(2) modified (with effect in accordance with art. 1 of the amending S.I.) by [Corporation Tax Act 2010 (Transitional Provision) Order 2010 (S.I. 2010/665)](https://www.legislation.gov.uk/uksi/2010/665), [arts. 1](https://www.legislation.gov.uk/uksi/2010/665/article/1), [2](https://www.legislation.gov.uk/uksi/2010/665/article/2)

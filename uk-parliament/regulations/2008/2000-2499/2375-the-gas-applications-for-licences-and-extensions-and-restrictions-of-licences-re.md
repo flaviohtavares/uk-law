@@ -31,7 +31,7 @@ summary: ''
 
 Gas
 
-The Gas (Applications for Licences and Extensions and Restrictions of Licences) Regulations 2008 (revoked)[^key-31c128f9bdeb39463396a19b64172de4]
+The Gas (Applications for Licences and Extensions and Restrictions of Licences) Regulations 2008 (revoked)[^c-31c128f9bdeb39463396a19b64172de4]
 
 Made
 
@@ -41,51 +41,51 @@ Coming into force
 
 1st October 2008
 
-[^key-31c128f9bdeb39463396a19b64172de4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31c128f9bdeb39463396a19b64172de4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-31c128f9bdeb39463396a19b64172de4]
+## 1. Citation, commencement and revocation[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provisions[^key-31c128f9bdeb39463396a19b64172de4]
+## 2. Transitional provisions[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-31c128f9bdeb39463396a19b64172de4]
+## 3. Interpretation[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Manner of Application[^key-31c128f9bdeb39463396a19b64172de4]
+## 4. Manner of Application[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Form of application[^key-31c128f9bdeb39463396a19b64172de4]
+## 5. Form of application[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Additional information and documents to accompany application[^key-31c128f9bdeb39463396a19b64172de4]
+## 6. Additional information and documents to accompany application[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application fees[^key-31c128f9bdeb39463396a19b64172de4]
+## 7. Application fees[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Publication of notice of application[^key-31c128f9bdeb39463396a19b64172de4]
+## 8. Publication of notice of application[^c-31c128f9bdeb39463396a19b64172de4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31c128f9bdeb39463396a19b64172de4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31c128f9bdeb39463396a19b64172de4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FORM OF APPLICATION IN RESPECT OF A SUPPLIER LICENCE, SHIPPER LICENCE, TRANSPORTER LICENCE OR AN INTERCONNECTOR LICENCE UNDER THE GAS ACT 1986[^key-31c128f9bdeb39463396a19b64172de4]
+## SCHEDULE 1 — FORM OF APPLICATION IN RESPECT OF A SUPPLIER LICENCE, SHIPPER LICENCE, TRANSPORTER LICENCE OR AN INTERCONNECTOR LICENCE UNDER THE GAS ACT 1986[^c-31c128f9bdeb39463396a19b64172de4]
 
 Regulation 5
 
-### GENERAL PARTICULARS[^key-31c128f9bdeb39463396a19b64172de4]
+### GENERAL PARTICULARS[^c-31c128f9bdeb39463396a19b64172de4]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/2375/images/uksi_20082375_en_002)
 
@@ -93,11 +93,11 @@ Regulation 5
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/2375/images/uksi_20082375_en_004)
 
-## SCHEDULE 2[^key-31c128f9bdeb39463396a19b64172de4]
+## SCHEDULE 2[^c-31c128f9bdeb39463396a19b64172de4]
 
 Regulation 6
 
-### PART 1 — FURTHER INFORMATION AND DOCUMENTS TO ACCOMPANY AN APPLICATION IN RESPECT OF A SUPPLIER LICENCE[^key-31c128f9bdeb39463396a19b64172de4]
+### PART 1 — FURTHER INFORMATION AND DOCUMENTS TO ACCOMPANY AN APPLICATION IN RESPECT OF A SUPPLIER LICENCE[^c-31c128f9bdeb39463396a19b64172de4]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/2375/images/uksi_20082375_en_005)
 
@@ -105,7 +105,7 @@ Regulation 6
 
 [image: see source](https://www.legislation.gov.uk/uksi/2008/2375/images/uksi_20082375_en_007)
 
-## SCHEDULE 3 — APPLICATION FEES[^key-31c128f9bdeb39463396a19b64172de4]
+## SCHEDULE 3 — APPLICATION FEES[^c-31c128f9bdeb39463396a19b64172de4]
 
 Regulation 7
 
@@ -113,8 +113,8 @@ Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-31c128f9bdeb39463396a19b64172de4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31c128f9bdeb39463396a19b64172de4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31c128f9bdeb39463396a19b64172de4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2375) revoked (28.12.2009) by [The Gas (Applications for Licences and Extensions and Restrictions of Licences) Regulations 2009 (S.I. 2009/3190)](https://www.legislation.gov.uk/uksi/2009/3190), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3190/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2009/3190/regulation/1/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/3190/regulation/2))
+[^c-31c128f9bdeb39463396a19b64172de4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2375) revoked (28.12.2009) by [The Gas (Applications for Licences and Extensions and Restrictions of Licences) Regulations 2009 (S.I. 2009/3190)](https://www.legislation.gov.uk/uksi/2009/3190), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3190/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2009/3190/regulation/1/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/3190/regulation/2))

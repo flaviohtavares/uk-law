@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Compulsory acquisition of land[^key-b9fb27f02994e31cc69909570ef03488]
+## 30. Compulsory acquisition of land[^c-b9fb27f02994e31cc69909570ef03488]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9fb27f02994e31cc69909570ef03488]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2014/2935/article/30) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-b9fb27f02994e31cc69909570ef03488]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2014/2935/article/30) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

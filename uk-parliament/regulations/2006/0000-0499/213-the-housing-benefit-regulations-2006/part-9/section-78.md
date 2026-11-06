@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Date on which housing benefit is to end where entitlement to severe disablement allowance or incapacity benefit ceases[^key-bcc72134b9dd654eece09f726ec642e7]
+## 78. Date on which housing benefit is to end where entitlement to severe disablement allowance or incapacity benefit ceases[^c-bcc72134b9dd654eece09f726ec642e7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc72134b9dd654eece09f726ec642e7]: Textual amendment: Reg. 78 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/b)
+[^c-bcc72134b9dd654eece09f726ec642e7]: Textual amendment: Reg. 78 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/b)

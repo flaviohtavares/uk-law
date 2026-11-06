@@ -31,7 +31,7 @@ Education Act 1973
 
 An Act to make provision for terminating and in part replacing the powers possessed by the Secretary of State for Education and Science and the Secretary of State for Wales under the Charities Act 1960 concurrently with the Charity Commissioners or under the Endowed Schools Acts 1869 to 1948, and enlarging certain other powers of modifying educational trusts, and for supplementing awards under section 1 and restricting awards under section 2 of the Education Act 1962, and for purposes connected therewith.
 
-\[18th April 1973\][^c824363][^c824364][^c824365][^c824366][^c824367][^key-a620975775e3106fc9021dd90ada631b][^key-38a7772126d2e9204748f9ad2554dc7b][^key-40611332f1a4c8cef6993afe617f19f5]
+\[18th April 1973\][^c824363][^c824364][^c824365][^c824366][^c824367][^c-a620975775e3106fc9021dd90ada631b][^c-38a7772126d2e9204748f9ad2554dc7b][^c-40611332f1a4c8cef6993afe617f19f5]
 
 ## Educational trusts
 
@@ -113,11 +113,11 @@ but on the appointed day any functions so conferred and any reference so extende
 
 [^c824367]: Commencement: Act partly in force at Royal Assent see s. 1(5); Act wholly in force at 1.2.1974
 
-[^key-a620975775e3106fc9021dd90ada631b]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-a620975775e3106fc9021dd90ada631b]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-38a7772126d2e9204748f9ad2554dc7b]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
+[^c-38a7772126d2e9204748f9ad2554dc7b]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
 
-[^key-40611332f1a4c8cef6993afe617f19f5]: Modification: Act modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-40611332f1a4c8cef6993afe617f19f5]: Modification: Act modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
 [^c824384]: Marginal citation: [1960 c. 58](https://www.legislation.gov.uk/ukpga/1960/58).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Regulation of provision of micromobility vehicles[^key-17bf25f907c3078765166139fa5bd63e]
+## 24. Regulation of provision of micromobility vehicles[^c-17bf25f907c3078765166139fa5bd63e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 confers on strategic authorities, and local authorities where there i
 
 ## Annotations
 
-[^key-17bf25f907c3078765166139fa5bd63e]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-17bf25f907c3078765166139fa5bd63e]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Limitation of administration charges: costs of proceedings[^key-5149593fb754d1c45b777bfa0f616165]
+## 131. Limitation of administration charges: costs of proceedings[^c-5149593fb754d1c45b777bfa0f616165]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ In Schedule 11 to the Commonhold and Leasehold Reform Act 2002 (administration c
 
 ## Annotations
 
-[^key-5149593fb754d1c45b777bfa0f616165]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2016/22/section/131) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/281/regulation/6))
+[^c-5149593fb754d1c45b777bfa0f616165]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2016/22/section/131) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/281/regulation/6))

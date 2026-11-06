@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Civil defence.[^key-8ca29ca67b80f2d071bdf91808e1f640]
+## 38. Civil defence.[^c-8ca29ca67b80f2d071bdf91808e1f640]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ca29ca67b80f2d071bdf91808e1f640]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/1985/51/section/38) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-8ca29ca67b80f2d071bdf91808e1f640]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/1985/51/section/38) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

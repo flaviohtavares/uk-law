@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Onwards sharing of information shared under section 33[^key-48386e8a81988e6ac5738256caed2837][^key-719371057afcc47c50e837199bb5a883]
+## 34. Onwards sharing of information shared under section 33[^c-48386e8a81988e6ac5738256caed2837][^c-719371057afcc47c50e837199bb5a883]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48386e8a81988e6ac5738256caed2837]: Commencement: S. 34 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-48386e8a81988e6ac5738256caed2837]: Commencement: S. 34 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-719371057afcc47c50e837199bb5a883]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/31/section/34) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)
+[^c-719371057afcc47c50e837199bb5a883]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/31/section/34) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

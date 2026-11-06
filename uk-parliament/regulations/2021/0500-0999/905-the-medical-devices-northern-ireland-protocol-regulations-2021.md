@@ -50,17 +50,17 @@ The Treasury has consented to the making of these Regulations as required by par
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-884a02b2567719a70cf1f413dab8b849]
+### 1. Citation and commencement[^c-884a02b2567719a70cf1f413dab8b849]
 
 (1) These Regulations may be cited as the Medical Devices (Northern Ireland Protocol) Regulations 2021.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-### 2. Extent and application[^key-93bef00876d80b82de5f2a1614622cbd]
+### 2. Extent and application[^c-93bef00876d80b82de5f2a1614622cbd]
 
 (1) Parts 1, 4, 5, 7 and 8 extend to England and Wales, Scotland and Northern Ireland.
 
-(2) Parts 2, 2A,[^key-4cb75f3fbc4c4d2c202b04b4dd5e8adf] 3 , 3A[^key-2b9d9f11ac93da360123a54d0f4b827b] and 6 extend to Northern Ireland only.
+(2) Parts 2, 2A,[^c-4cb75f3fbc4c4d2c202b04b4dd5e8adf] 3 , 3A[^c-2b9d9f11ac93da360123a54d0f4b827b] and 6 extend to Northern Ireland only.
 
 (3) Any amendment made by Part 9 has the same extent as the provision amended.
 
@@ -69,27 +69,27 @@ The Treasury has consented to the making of these Regulations as required by par
 - (a) Regulations 30, and 32 to 37 apply in relation to Northern Ireland only;
 - (b) Regulation 31 applies in relation to Great Britain only.
 
-### 3. Interpretation[^key-b10298fecb28a8f8b9776f5d697a90c0]
+### 3. Interpretation[^c-b10298fecb28a8f8b9776f5d697a90c0]
 
 (1) In these Regulations—
 
 - “Regulation (EU) 2017/745” means Regulation (EU) 2017/745 of the European Parliament and of the Council of 5th April 2017 on medical devices, amending [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042)[^f00003];
-- “[^key-0d6885683b60310c4969c9f66d5a01b0]**Regulation (EU) 2017/746**” means [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227);
+- “[^c-0d6885683b60310c4969c9f66d5a01b0]**Regulation (EU) 2017/746**” means [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227);
 - “ethics committee” means a research ethics committee recognised or established by, or on behalf of, the Scottish Ministers, the Welsh Ministers, the Department of Health in Northern Ireland or the Health Research Authority[^f00004].
-- “[^key-497e4c585fe0ec75b1e711b249017505]**Institute**” means the charitable organisation with registered number 803725 and known as the Chartered Institute of Arbitrators;
+- “[^c-497e4c585fe0ec75b1e711b249017505]**Institute**” means the charitable organisation with registered number 803725 and known as the Chartered Institute of Arbitrators;
 - “**UK(NI) indication**” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020.
 
-(2)[^key-2226258d5a3cc430a7f22571345aff10] Unless otherwise defined in these Regulations—
+(2)[^c-2226258d5a3cc430a7f22571345aff10] Unless otherwise defined in these Regulations—
 
 - (a) terms used in Parts 2 and 3 have the same meaning as in [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745);
 - (b) terms used in Parts 2A and 3A have the same meaning as in [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
 
-(3)[^key-dc6c8f5b26adaf4dc1444525269b184f] In these Regulations, a reference to an Article or an Annex is—
+(3)[^c-dc6c8f5b26adaf4dc1444525269b184f] In these Regulations, a reference to an Article or an Annex is—
 
 - (a) in Parts 2 and 3, a reference to an Article or an Annex of [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745);
 - (b) in Parts 2A and 3A, a reference to an Article or an Annex of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
 
-### 4. Scope[^key-2933a8bf08d80bb529aa1702b35bfbcc][^key-872f3996524141906efe941a12699c06]
+### 4. Scope[^c-2933a8bf08d80bb529aa1702b35bfbcc][^c-872f3996524141906efe941a12699c06]
 
 In these Regulations—
 
@@ -101,18 +101,18 @@ In these Regulations—
 
 *Extent: N.I.*
 
-### 5. Reprocessing of single-use devices[^key-7014e620f9b4a7d7a52af0d1955f8e69]
+### 5. Reprocessing of single-use devices[^c-7014e620f9b4a7d7a52af0d1955f8e69]
 
 The reprocessing and further use of single-use devices is permitted only when it is carried out in accordance with Article 17.
 
-### 6. Requirement on health institutions to provide information relating to implanted devices[^key-cc874e9cc48454e3d050f7834b5b6d73]
+### 6. Requirement on health institutions to provide information relating to implanted devices[^c-cc874e9cc48454e3d050f7834b5b6d73]
 
 A health institution which has implanted a device to which Article 18 applies, must make available to the patient in whom the device has been implanted—
 
 - (a) the implant card for the device bearing the health institution’s identity, and
 - (b) the information provided by the manufacturer with the device pursuant to Article 18(1), by any means that allow rapid access to that information.
 
-### 7. Registration of custom-made devices[^key-a2147609613128d8c9d9ef8308be7476]
+### 7. Registration of custom-made devices[^c-a2147609613128d8c9d9ef8308be7476]
 
 (1) A manufacturer who makes custom-made devices available on the market in Northern Ireland must register that type of device with the Secretary of State.
 
@@ -129,9 +129,9 @@ A health institution which has implanted a device to which Article 18 applies, m
 
 (4) The manufacturer must ensure that the information submitted to the Secretary of State remains up to date.
 
-(5) The fee payable to the Secretary of State for registering a device or amending the registration of a device under this regulation is £300[^key-9f7c129db3bdbd786e04248e80aca94e].
+(5) The fee payable to the Secretary of State for registering a device or amending the registration of a device under this regulation is £300[^c-9f7c129db3bdbd786e04248e80aca94e].
 
-(5A)[^key-8cf369713a6460e7888208527136ae0b] Any person who has a registration in accordance with this regulation shall, in respect of the maintenance of that registration by the Secretary of State, pay to the Secretary of State an annual fee of £300 for each device registered, and that fee—
+(5A)[^c-8cf369713a6460e7888208527136ae0b] Any person who has a registration in accordance with this regulation shall, in respect of the maintenance of that registration by the Secretary of State, pay to the Secretary of State an annual fee of £300 for each device registered, and that fee—
 
 - (a) shall be payable for each fee period during which the registration is maintained, starting with the fee period immediately following that in which the person paid the fee for the device registration in accordance with paragraph (5); and
 - (b) shall be due on the first day of each fee period in relation to which a fee is payable.
@@ -158,11 +158,11 @@ A health institution which has implanted a device to which Article 18 applies, m
 
 (6) This regulation does not apply before 1st September 2021 in respect of any class IIa or class IIb non-implantable devices made available on the market by a manufacturer who is not established in the United Kingdom.
 
-### 8. Certificates of free sale under [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) - fee[^key-35192063eef320919276a7174fe10902][^key-6b02eab9937dc75ce5a744360adeb81d]
+### 8. Certificates of free sale under [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) - fee[^c-35192063eef320919276a7174fe10902][^c-6b02eab9937dc75ce5a744360adeb81d]
 
 A manufacturer or authorised representative who requests a certificate of free sale from the Secretary of State under Article 60(1), must pay to the Secretary of State a fee of £75.
 
-### 9. Retention of documentation relating to conformity assessments and custom-made devices[^key-be38519e5d0586545f085a0a20145147]
+### 9. Retention of documentation relating to conformity assessments and custom-made devices[^c-be38519e5d0586545f085a0a20145147]
 
 (1) The liquidator or trustee in bankruptcy of a manufacturer, or of an authorised representative, must—
 
@@ -174,7 +174,7 @@ A manufacturer or authorised representative who requests a certificate of free s
 - (a) in the case of information relating to an implantable device, 15 years after the last device was placed on the market, and
 - (b) in any other case, 10 years after the last device was placed on the market.
 
-### 10. UK(NI) indication under [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745)[^key-d0d3197d54375992ab26b1ca2f3637a0][^key-1d4aa01cb0017303f07134a948276c60]
+### 10. UK(NI) indication under [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745)[^c-d0d3197d54375992ab26b1ca2f3637a0][^c-1d4aa01cb0017303f07134a948276c60]
 
 (1) This regulation applies if the CE marking is affixed in accordance with Article 20 on the basis of a certificate issued by a notified body established in the United Kingdom.
 
@@ -185,13 +185,13 @@ A manufacturer or authorised representative who requests a certificate of free s
 (4) The manufacturer must affix the UK(NI) indication—
 
 - (a) visibly, legibly and indelibly, and
-- (b) before placing the device on the market [^key-7cced74ec7462863ee829d9923d407dd]....
+- (b) before placing the device on the market [^c-7cced74ec7462863ee829d9923d407dd]....
 
-(5) A person may only make available on the market [^key-2e3816d217bf296050c6d10533f5eed8]... a device to which this regulation applies if the manufacturer has affixed the UK(NI) indication in accordance with this regulation.
+(5) A person may only make available on the market [^c-2e3816d217bf296050c6d10533f5eed8]... a device to which this regulation applies if the manufacturer has affixed the UK(NI) indication in accordance with this regulation.
 
-(6)[^key-381310b752a32e0a209405ec6611ea32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-381310b752a32e0a209405ec6611ea32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2A — Making available on the market and putting into service under [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^key-46159b404fc9fbf6d53bae652b91ce9d]
+## Part 2A — Making available on the market and putting into service under [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^c-46159b404fc9fbf6d53bae652b91ce9d]
 
 ### 10A. Certificates of free sale under [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) – fee
 
@@ -225,7 +225,7 @@ A manufacturer or authorised representative who requests a certificate of free s
 
 *Extent: N.I.*
 
-### A11. Legal representatives and contact persons for clinical investigations[^key-af347dc56bf0ef274f6a6f7f4d3ddc9f]
+### A11. Legal representatives and contact persons for clinical investigations[^c-af347dc56bf0ef274f6a6f7f4d3ddc9f]
 
 (1) The first subparagraph of Article 62(2) (requirement to have a legal representative established in the Union) does not apply to a clinical investigation conducted in Northern Ireland if all of the following conditions are met—
 
@@ -256,13 +256,13 @@ A manufacturer or authorised representative who requests a certificate of free s
 
 (6) Where the sponsor has a legal representative established in Great Britain, the application form and the clinical investigation plan drawn up in accordance with chapter II of Annex XV must include the name, address and contact details of the legal representative established in Great Britain.
 
-### 11. Ethical review of clinical investigations[^key-22eb20a9be2c03bebfb650d4e14a1934]
+### 11. Ethical review of clinical investigations[^c-22eb20a9be2c03bebfb650d4e14a1934]
 
 (1) A sponsor proposing to conduct a clinical investigation of a device in Northern Ireland must apply to an ethics committee for an ethical review of the proposed clinical investigation.
 
 (2) The sponsor must submit to the Secretary of State a copy of the opinion of the ethics committee as soon as it becomes available and before the clinical investigation is started.
 
-### 12. Prior authorisation of clinical investigations by the Secretary of State[^key-7bcd0190ed0badbb583ca5f2b2dfa252]
+### 12. Prior authorisation of clinical investigations by the Secretary of State[^c-7bcd0190ed0badbb583ca5f2b2dfa252]
 
 (1) A clinical investigation to which Article 70(7)(a) applies must not start unless—
 
@@ -276,7 +276,7 @@ A manufacturer or authorised representative who requests a certificate of free s
 
 (3) If the Secretary of State requests additional information from the sponsor under Article 70(6), the expiry of the periods in paragraph (2) is suspended from the date of the first request until such time as the additional information has been received.
 
-### 13. Arbitration following the refusal of a clinical investigation application[^key-16a551bc855e4f618286cf4c0c54b08f]
+### 13. Arbitration following the refusal of a clinical investigation application[^c-16a551bc855e4f618286cf4c0c54b08f]
 
 (1) A sponsor notified of a refusal under Article 70(3), 71(4), or 78(10) may, within 28 days of being notified, apply to the Institute to appoint an adjudicator to review the refusal.
 
@@ -292,13 +292,13 @@ A manufacturer or authorised representative who requests a certificate of free s
 
 (5) The sponsor must pay any fees, costs or expenses of the Institute and its appointed adjudicator that are payable in connection with the application made under paragraph (1).
 
-(6)[^key-c9d2f9e70f42670544d218008de52d5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c9d2f9e70f42670544d218008de52d5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Damage compensation in relation to clinical investigations[^key-ce3d1669cc4e1fe785feee740c16c184]
+### 14. Damage compensation in relation to clinical investigations[^c-ce3d1669cc4e1fe785feee740c16c184]
 
 A sponsor of a clinical investigation must hold sufficient insurance (or equivalent financial resources) to meet any potential financial liability in the event of injury or death attributable to participation in the clinical investigation.
 
-### 15. Retention of documentation relating to clinical investigations[^key-b543f42c5677dc2401435db05469b791]
+### 15. Retention of documentation relating to clinical investigations[^c-b543f42c5677dc2401435db05469b791]
 
 (1) The liquidator or trustee in bankruptcy of a sponsor of a clinical investigation or of a sponsor’s legal representative or contact person under Article 62(2), must—
 
@@ -312,7 +312,7 @@ A sponsor of a clinical investigation must hold sufficient insurance (or equival
   - (ii) if the device was not an implantable device, 10 years after the last device was placed on the market;
 - (b) in any other case, 10 years after the clinical investigation ended.
 
-### 16. Clinical investigation fees[^key-16eb21c6ef919a7941fd492bd7455db5]
+### 16. Clinical investigation fees[^c-16eb21c6ef919a7941fd492bd7455db5]
 
 (1) The sponsor of a clinical investigation must pay the relevant fee for—
 
@@ -325,7 +325,7 @@ A sponsor of a clinical investigation must hold sufficient insurance (or equival
 
 (4) Fees for clinical investigations are set out in Schedule 1.
 
-(4A)[^key-2215ac2ca70fcb7530800216f7ce48dc] Where the relevant fee is payable pursuant to paragraph (1)(a) by a small company, if the small company so requests to the Secretary of State in writing, 50% of that fee shall be payable when the application to which it relates is submitted to the Secretary of State and 50% of that fee shall be payable within six months of the date on which the application was submitted.
+(4A)[^c-2215ac2ca70fcb7530800216f7ce48dc] Where the relevant fee is payable pursuant to paragraph (1)(a) by a small company, if the small company so requests to the Secretary of State in writing, 50% of that fee shall be payable when the application to which it relates is submitted to the Secretary of State and 50% of that fee shall be payable within six months of the date on which the application was submitted.
 
 (4B) For the purpose of this regulation, a company is a small company if, for the financial year before that in which the application or notification is submitted or given, the total value of products it has sold or supplied for the financial year is not more than the amount specified in item 1 in section 382(3) (qualification of company as small) of the Companies Act 2006 and either—
 
@@ -336,10 +336,10 @@ A sponsor of a clinical investigation must hold sufficient insurance (or equival
 
 (5) In this regulation, “the relevant fee” means—
 
-- (a) for a clinical investigation of a class I device, class IIa device or class IIb device, which is neither an implantable device nor a long-term invasive device[^key-63cc9f9080af53f839727389a8fa0a3f], the fee in table 1 in Schedule 1, and
-- (b) for a clinical investigation of a class IIb device, which is either an implantable device or a long-term invasive device or a class III device[^key-5d0733b44d96cacb058cf07faffa1022], the fee in table 2 in Schedule 1.
+- (a) for a clinical investigation of a class I device, class IIa device or class IIb device, which is neither an implantable device nor a long-term invasive device[^c-63cc9f9080af53f839727389a8fa0a3f], the fee in table 1 in Schedule 1, and
+- (b) for a clinical investigation of a class IIb device, which is either an implantable device or a long-term invasive device or a class III device[^c-5d0733b44d96cacb058cf07faffa1022], the fee in table 2 in Schedule 1.
 
-### 17. Clinical investigations not carried out for a purpose specified in Article 62(1)[^key-776a788cd97da035dd221ccc28e12165]
+### 17. Clinical investigations not carried out for a purpose specified in Article 62(1)[^c-776a788cd97da035dd221ccc28e12165]
 
 (1) The provisions in paragraph (2) apply to clinical investigations of custom-made devices carried out for a purpose other than one of the purposes specified in Article 62(1), in addition to the provisions specified in Article 82(1).
 
@@ -373,7 +373,7 @@ A sponsor of a clinical investigation must hold sufficient insurance (or equival
   - (ii) paragraphs (4) and (5);
 - (l) Annex XV except section 3.1.1 in Chapter II.
 
-### 17A. Advice in relation to intended clinical investigations[^key-5da1ca96ac992f5d656d8ae841f46fbe]
+### 17A. Advice in relation to intended clinical investigations[^c-5da1ca96ac992f5d656d8ae841f46fbe]
 
 (1) A manufacturer or sponsor may request a meeting with the Secretary of State in advance of an application being submitted under Article 70(1) in order to—
 
@@ -382,12 +382,12 @@ A sponsor of a clinical investigation must hold sufficient insurance (or equival
 
 (2) A person who requests a meeting with the Secretary of State under paragraph (1), must pay the following fees in advance of that meeting—
 
-- (a) £987[^key-eec6fc43dcc1f7b0b81fdf3770b60e0e] for a regulatory advice meeting under paragraph (1)(a); and
-- (b) £852[^key-7a26d325ec9df9437d2d95f308cee102] for a statistical review meeting under paragraph (1)(b).
+- (a) £987[^c-eec6fc43dcc1f7b0b81fdf3770b60e0e] for a regulatory advice meeting under paragraph (1)(a); and
+- (b) £852[^c-7a26d325ec9df9437d2d95f308cee102] for a statistical review meeting under paragraph (1)(b).
 
 (3) In this regulation, “**statistical review**” means a review of the statistical sections of the application which a sponsor intends to submit to the Secretary of State under Article 70(1) in respect of an intended clinical investigation.
 
-## Part 3A — Performance studies under [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^key-4f8df89cb3b38aa8dbf01a3b9c3909a9]
+## Part 3A — Performance studies under [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^c-4f8df89cb3b38aa8dbf01a3b9c3909a9]
 
 ### 17B. Legal representatives and contact persons for performance studies
 
@@ -458,25 +458,25 @@ A sponsor of a performance study must hold sufficient insurance (or equivalent f
 - (a) in the case of documentation relating to the performance study of a device that was subsequently placed on the market, 10 years after the last device was placed on the market;
 - (b) in any other case, 10 years after the performance study ended.
 
-## PART 4 — Notified bodies designated under Regulation (EU) 2017/745 and [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^key-1a06ecef2ba6010a6218dd6dc569e543]
+## PART 4 — Notified bodies designated under Regulation (EU) 2017/745 and [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746)[^c-1a06ecef2ba6010a6218dd6dc569e543]
 
-### 18. Notified bodies[^key-a3e8e23e6384ee2f8dd2ec00afecb6ea]
+### 18. Notified bodies[^c-a3e8e23e6384ee2f8dd2ec00afecb6ea]
 
-(1) The Secretary of State is the appointed authority responsible for notified bodies under Article 35 of[^key-bbaa78ceef028eda6a9230e586e2b24a] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and Article 31 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
+(1) The Secretary of State is the appointed authority responsible for notified bodies under Article 35 of[^c-bbaa78ceef028eda6a9230e586e2b24a] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and Article 31 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
 
-(2) In the event of restriction, suspension, or withdrawal of a designation, the notified body must provide the Secretary of State with any documents requested for the purposes of enabling the Secretary of State to exercise the functions of the authority responsible for notified bodies under Article 46(6) of[^key-8d3bfeb9ac6f2a57cceea7fa5bd228b8] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and Article 42(6) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
+(2) In the event of restriction, suspension, or withdrawal of a designation, the notified body must provide the Secretary of State with any documents requested for the purposes of enabling the Secretary of State to exercise the functions of the authority responsible for notified bodies under Article 46(6) of[^c-8d3bfeb9ac6f2a57cceea7fa5bd228b8] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and Article 42(6) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
 
-### 19. Fees payable in connection with the designation of notified bodies[^key-223ccb6f716b4ffcda1e8c3557b0d9f9]
+### 19. Fees payable in connection with the designation of notified bodies[^c-223ccb6f716b4ffcda1e8c3557b0d9f9]
 
 (1) Fees in connection with the designation of notified bodies are set out in Schedule 2.
 
 (2) The applicant must pay the Secretary of State the fee specified in table 1 in Schedule 2 for an application—
 
-- (a) for initial designation as a notified body under Article 38 of[^key-46d8754297ecdf112518355b70fa0292] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746);
-- (b) for reassessment under Article 44(10) of[^key-ce1bdb791ae28ab8f526069da4584e26] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(10) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746);
-- (c) to extend the scope of a designation under Article 46(1) of[^key-a0f647c53d24261239aead10fe58abfe] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 42(1) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
+- (a) for initial designation as a notified body under Article 38 of[^c-46d8754297ecdf112518355b70fa0292] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746);
+- (b) for reassessment under Article 44(10) of[^c-ce1bdb791ae28ab8f526069da4584e26] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(10) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746);
+- (c) to extend the scope of a designation under Article 46(1) of[^c-a0f647c53d24261239aead10fe58abfe] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 42(1) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
 
-(3) A notified body designated by the Secretary of State under Article 42 of[^key-228167a828c0fe1c05f2e243654c9c01] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) that submits a summary evaluation report to the Secretary of State in accordance with Article 5(4) of Regulation (EU) 722/2012, must pay to the Secretary of State a fee of £1,503[^key-f8ace2c8cc0803418601c5043396ccff].
+(3) A notified body designated by the Secretary of State under Article 42 of[^c-228167a828c0fe1c05f2e243654c9c01] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) that submits a summary evaluation report to the Secretary of State in accordance with Article 5(4) of Regulation (EU) 722/2012, must pay to the Secretary of State a fee of £1,503[^c-f8ace2c8cc0803418601c5043396ccff].
 
 (4) A fee specified in table 1 in Schedule 2 or paragraph (3) is payable when the application or submission to which it relates is made to the Secretary of State.
 
@@ -486,8 +486,8 @@ A sponsor of a performance study must hold sufficient insurance (or equivalent f
 
 - (a) the fee specified for that assessment or review in table 2 in Schedule 2,
 - (b) an amount for time spent by each member of staff to undertake the assessment or review at a rate—
-  - (i) for the time spent on site, of £732[^key-c65352293e1fd6072f13950c62fe6590] per half day (period of less than a half day counting as a half day) up to a maximum of 2 half days on any one date, and
-  - (ii) for the time spent travelling to and from the site, of £198[^key-8041c18d859e5ad3476f1d3a468e8787] per hour,
+  - (i) for the time spent on site, of £732[^c-c65352293e1fd6072f13950c62fe6590] per half day (period of less than a half day counting as a half day) up to a maximum of 2 half days on any one date, and
+  - (ii) for the time spent travelling to and from the site, of £198[^c-8041c18d859e5ad3476f1d3a468e8787] per hour,
 - (c) the actual costs of travel, accommodation and subsistence, and
 - (d) out of pocket expenses.
 
@@ -495,12 +495,12 @@ A sponsor of a performance study must hold sufficient insurance (or equivalent f
 
 (8) If a conformity assessment body fails to pay a fee under paragraph (6), the Secretary of State may—
 
-- (a) refuse to designate the body under Article 42 of[^key-6de8c109a900729fa1dcc7980f2f8b83] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 38 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746);
+- (a) refuse to designate the body under Article 42 of[^c-6de8c109a900729fa1dcc7980f2f8b83] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 38 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746);
 - (b) if the body has already been designated, suspend, restrict, or fully or partially withdraw, the designation.
 
 (9) In this regulation, “Regulation (EU) 722/2012” means [Commission Regulation (EU) No 722/2012](https://www.legislation.gov.uk/european/regulation/2012/0722) of 8th August 2012 concerning particular requirements as regards the requirements laid down in Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042) with respect to active implantable medical devices and medical devices manufactured utilising tissues of animal origin[^f00006].
 
-## Part 4A — Fees for consultation in relation to the safety, quality and usefulness of a medicinal substance incorporated in a device[^key-c7fc87863f2ec1091da528a8254280f0]
+## Part 4A — Fees for consultation in relation to the safety, quality and usefulness of a medicinal substance incorporated in a device[^c-c7fc87863f2ec1091da528a8254280f0]
 
 ### 19A. Interpretation of Part 4A
 
@@ -546,18 +546,18 @@ In this Part—
 
 (1) Subject to regulation 19B(2) and paragraph (3), the fee in respect of a consultation in relation to a device which incorporates one or more medicinal substances is—
 
-- (a) £4,953[^key-5ce2b5fde44ba6e7c557d09120ea4594] if each medicinal substance is manufactured by an approved manufacturer of that substance;
-- (b) £11,543[^key-dd55fbd21267b6bd40190a74a19ac014] if any of the medicinal substances are not manufactured by an approved manufacturer of that substance.
+- (a) £4,953[^c-5ce2b5fde44ba6e7c557d09120ea4594] if each medicinal substance is manufactured by an approved manufacturer of that substance;
+- (b) £11,543[^c-dd55fbd21267b6bd40190a74a19ac014] if any of the medicinal substances are not manufactured by an approved manufacturer of that substance.
 
 (2) Subject to paragraph (3), the fee in respect of a further consultation in relation to a device which incorporates one or more medicinal substances is—
 
-- (a) £980[^key-f168ce71123d89e0983abed77b2656f7] if each medicinal substance is manufactured by an approved manufacturer of that substance;
-- (b) £2,668[^key-7f75e18bf1ab821dd067d5ee18d7d19d] if any of the medicinal substances are not manufactured by an approved manufacturer of that substance.
+- (a) £980[^c-f168ce71123d89e0983abed77b2656f7] if each medicinal substance is manufactured by an approved manufacturer of that substance;
+- (b) £2,668[^c-7f75e18bf1ab821dd067d5ee18d7d19d] if any of the medicinal substances are not manufactured by an approved manufacturer of that substance.
 
 (3) In relation to a device which incorporates a new medicinal substance, the fee is—
 
-- (a) £50,644[^key-d7ad19b1310a8a42fadb40a09b612541] for a consultation; and
-- (b) £12,574[^key-963db8f1683cb7fd03bc53b6d3625261] for a further consultation.
+- (a) £50,644[^c-d7ad19b1310a8a42fadb40a09b612541] for a consultation; and
+- (b) £12,574[^c-963db8f1683cb7fd03bc53b6d3625261] for a further consultation.
 
 (4) Where a notified body consults the Secretary of State in relation to more than one device at the same time and those devices—
 
@@ -569,21 +569,21 @@ the fee payable for that consultation is the fee which would be payable under th
 
 (5) Any fee payable under this regulation must be paid to the Secretary of State not later than the day on which the notified body consults the Secretary of State.
 
-### 19D. Fees for pre-consultation meetings[^key-c2b183cef27849c5ee42a8091799b6e1]
+### 19D. Fees for pre-consultation meetings[^c-c2b183cef27849c5ee42a8091799b6e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — General provision about language requirements and fees
 
-### 20. Language requirements[^key-15b42a32d937e8a736726f528c7a8782]
+### 20. Language requirements[^c-15b42a32d937e8a736726f528c7a8782]
 
-Where Regulation (EU) 2017/745 or[^key-dddb52e7b37b27ab4e8487dbe1a21e17] [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) provide for the UK in respect of Northern Ireland to determine the language requirements for information and documentation, such information and documentation must be written in English.
+Where Regulation (EU) 2017/745 or[^c-dddb52e7b37b27ab4e8487dbe1a21e17] [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) provide for the UK in respect of Northern Ireland to determine the language requirements for information and documentation, such information and documentation must be written in English.
 
-### 21. Unpaid fees[^key-7abc9f1ff480371d020ae2dd2bd496b8]
+### 21. Unpaid fees[^c-7abc9f1ff480371d020ae2dd2bd496b8]
 
 All unpaid sums due by way of, or on account of, any fees payable under these Regulations are recoverable as debts due to the Crown.
 
-### 22. Waivers, reductions and refunds[^key-ffe5847566740478411111f78dd40451]
+### 22. Waivers, reductions and refunds[^c-ffe5847566740478411111f78dd40451]
 
 The Secretary of State may—
 
@@ -594,9 +594,9 @@ The Secretary of State may—
 
 *Extent: N.I.*
 
-### 23. Offence of breaching certain provisions[^key-7256c7c9f0a10a1905d23dadbcf1b924]
+### 23. Offence of breaching certain provisions[^c-7256c7c9f0a10a1905d23dadbcf1b924]
 
-(1)[^key-6de3e4c4ebc767d66b29e11cb7342330] A person commits an offence if the person contravenes a prohibition or fails to comply with a requirement in a provision of—
+(1)[^c-6de3e4c4ebc767d66b29e11cb7342330] A person commits an offence if the person contravenes a prohibition or fails to comply with a requirement in a provision of—
 
 - (a) the regulations listed in Table 1;
 - (b) the articles of [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) listed in Table 2;
@@ -616,7 +616,7 @@ in Schedule 3 to these Regulations.
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which such evidence came to the prosecutor’s knowledge is conclusive evidence of that fact, and
 - (b) a certificate stating that matter and purporting to be so signed is to be treated as so signed until the contrary is proved.
 
-### 24. Defence of due diligence[^key-9f9618d2c6d56cee3f3b226c5aad1d0d]
+### 24. Defence of due diligence[^c-9f9618d2c6d56cee3f3b226c5aad1d0d]
 
 (1) It is a defence for a person charged with an offence under regulation 23(1) to show that the person took all reasonable steps and exercised all due diligence to avoid commission of the offence.
 
@@ -634,7 +634,7 @@ the defendant is not, without leave of the court, entitled to rely on that defen
 - (a) the steps which the defendant took or might reasonably have taken to verify the information, and
 - (b) whether the defendant had any reason to disbelieve the information.
 
-### 25. Offences by bodies corporate[^key-ab57a2e781b9dbf69672c68d7f22e9ed]
+### 25. Offences by bodies corporate[^c-ab57a2e781b9dbf69672c68d7f22e9ed]
 
 (1) Where an offence under regulation 23(1) committed by a body corporate or a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer, the officer (as well as the body corporate or partnership) commits the offence and is liable to be proceeded against and punished accordingly.
 
@@ -650,15 +650,15 @@ the defendant is not, without leave of the court, entitled to rely on that defen
 - (a) a partner, or
 - (b) a person purporting to act as a partner.
 
-### 26. Enforcement[^key-416b49b58e72911a9c20712968861534]
+### 26. Enforcement[^c-416b49b58e72911a9c20712968861534]
 
-(1) It is the duty of the Secretary of State to enforce these Regulations ,[^key-3b4d45898349d14f552948deee868b18] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
+(1) It is the duty of the Secretary of State to enforce these Regulations ,[^c-3b4d45898349d14f552948deee868b18] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746).
 
-(2) It is the duty of each district council in Northern Ireland to enforce these Regulations ,[^key-6c598425840d13dc5c0e9cc84a3f4794] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) within its area (concurrently with the Secretary of State) in relation to devices that are ordinarily intended for private use or consumption.
+(2) It is the duty of each district council in Northern Ireland to enforce these Regulations ,[^c-6c598425840d13dc5c0e9cc84a3f4794] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) and [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) within its area (concurrently with the Secretary of State) in relation to devices that are ordinarily intended for private use or consumption.
 
 ## PART 7 — Amendment of primary legislation
 
-### 27. Investigatory powers under the Consumer Rights Act 2015[^key-51a42a287d26a5a8cd40a18792be57ba]
+### 27. Investigatory powers under the Consumer Rights Act 2015[^c-51a42a287d26a5a8cd40a18792be57ba]
 
 (1) Schedule 5 to the Consumer Rights Act 2015[^f00007](investigatory powers etc) is amended in accordance with this regulation.
 
@@ -698,7 +698,7 @@ the defendant is not, without leave of the court, entitled to rely on that defen
   > - (a) where a domestic enforcer is acting pursuant to a duty mentioned in sub-paragraph (1)(a) or (b), any medical device to which the Medical Devices Regulations 2002 apply;
   > - (b) where a domestic enforcer is acting pursuant to the duty mentioned in sub-paragraph (1)(c), any medical device to which Regulation (EU) 2017/745 on medical devices applies.
 
-### 28. Amendment of the Medicines and Medical Devices Act 2021[^key-87fe6d9f2783ec94b27bc1016db76e55]
+### 28. Amendment of the Medicines and Medical Devices Act 2021[^c-87fe6d9f2783ec94b27bc1016db76e55]
 
 (1) The Medicines and Medical Devices Act 2021[^f00010] is amended in accordance with this regulation.
 
@@ -793,11 +793,11 @@ the defendant is not, without leave of the court, entitled to rely on that defen
 
 ## PART 8 — Amendment of the Medical Devices Regulations 2002
 
-### 29. Amendments to the Medical Devices Regulations 2002[^key-4dd5f75e0a741f8406ab39c094653345]
+### 29. Amendments to the Medical Devices Regulations 2002[^c-4dd5f75e0a741f8406ab39c094653345]
 
 The Medical Devices Regulations 2002[^f00011] are amended in accordance with this Part.
 
-### 30. Amendment of regulation 2 (interpretation)[^key-2fd08e9afa06eb8c4af948bdde738507]
+### 30. Amendment of regulation 2 (interpretation)[^c-2fd08e9afa06eb8c4af948bdde738507]
 
 In regulation 2, in paragraph (1)—
 
@@ -812,7 +812,7 @@ In regulation 2, in paragraph (1)—
 
   .
 
-### 31. Amendment of regulation 2A (medical devices which are qualifying Northern Ireland goods)[^key-3c6c5a4a2151dbd883c9f2849ddc5550]
+### 31. Amendment of regulation 2A (medical devices which are qualifying Northern Ireland goods)[^c-3c6c5a4a2151dbd883c9f2849ddc5550]
 
 In regulation 2A—
 
@@ -825,7 +825,7 @@ In regulation 2A—
 
     .
 
-### 32. Revocation and transitional provision[^key-3aa93da66ad630c0c5710b301ff98b5a]
+### 32. Revocation and transitional provision[^c-3aa93da66ad630c0c5710b301ff98b5a]
 
 After regulation 3 (scope), insert—
 
@@ -851,13 +851,13 @@ After regulation 3 (scope), insert—
 > - (a) it may be placed on the market, put into service or made available in Northern Ireland in accordance with the requirements of Directive 93/42 or Directive 90/385, rather than Regulation (EU) 2017/745; and
 > - (b) it is placed on the market, put into service or made available in Northern Ireland in accordance with, and subject to the requirements of and the arrangements set out in, Parts 2, 3 and 5 to 7.
 
-### 33. Amendment of regulation 10A (UK(NI) indication: general medical devices)[^key-84b99c46118cc1e7da8b14268f90b733]
+### 33. Amendment of regulation 10A (UK(NI) indication: general medical devices)[^c-84b99c46118cc1e7da8b14268f90b733]
 
 In regulation 10A, after paragraph (3), insert—
 
 > (3A) The UK(NI) indication may be less than 5mm high provided that it is the same height as the CE marking that it accompanies.
 
-### 34. Amendment of regulation 19 (registration of persons placing general medical devices on the market)[^key-7f857837e19b68c2c1d47cae1421c7ed]
+### 34. Amendment of regulation 19 (registration of persons placing general medical devices on the market)[^c-7f857837e19b68c2c1d47cae1421c7ed]
 
 In regulation 19—
 
@@ -867,7 +867,7 @@ In regulation 19—
 - (d) omit paragraph (5); and
 - (e) omit paragraph (6).
 
-### 35. Amendment of regulation 21B (registration of persons placing active implantable medical devices on the market)[^key-e34aa9951d2b7ca1882206df390bf1de]
+### 35. Amendment of regulation 21B (registration of persons placing active implantable medical devices on the market)[^c-e34aa9951d2b7ca1882206df390bf1de]
 
 In regulation 21B—
 
@@ -877,13 +877,13 @@ In regulation 21B—
 - (d) omit paragraph (5); and
 - (e) omit paragraph (6).
 
-### 36. Amendment of regulation 24A (UK(NI) indication: active implantable medical devices)[^key-e71f428965b3710b0d9d27f790d7be6b]
+### 36. Amendment of regulation 24A (UK(NI) indication: active implantable medical devices)[^c-e71f428965b3710b0d9d27f790d7be6b]
 
 In regulation 24A, after paragraph (3), insert—
 
 > (3A) The UK(NI) indication may be less than 5mm high provided that it is the same height as the CE marking that it accompanies.
 
-### 37. Amendment of regulation 36A (UK(NI) indication: in vitro diagnostic medical devices)[^key-30ef2b8b2885209e2f46c384f86a13e7]
+### 37. Amendment of regulation 36A (UK(NI) indication: in vitro diagnostic medical devices)[^c-30ef2b8b2885209e2f46c384f86a13e7]
 
 In regulation 36A, after paragraph (3), insert—
 
@@ -891,11 +891,11 @@ In regulation 36A, after paragraph (3), insert—
 
 ## PART 9 — Amendments of other secondary legislation
 
-### 38. Amendment of the Blood Safety and Quality Regulations 2005[^key-6259efbff93c644ebcb03d5c351e745f]
+### 38. Amendment of the Blood Safety and Quality Regulations 2005[^c-6259efbff93c644ebcb03d5c351e745f]
 
 In the Blood Safety and Quality Regulations 2005[^f00012], in regulation 2 (scope of the regulations), in paragraph (3), at the end insert “and Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042)”.
 
-### 39. Amendment of the Human Tissue (Quality and Safety for Human Application) Regulations 2007[^key-7fd4b54646ec73c4cb4e8634b2c97342]
+### 39. Amendment of the Human Tissue (Quality and Safety for Human Application) Regulations 2007[^c-7fd4b54646ec73c4cb4e8634b2c97342]
 
 In the Human Tissue (Quality and Safety for Human Application) Regulations 2007[^f00013], in regulation 2 (extent and application)—
 
@@ -906,7 +906,7 @@ In the Human Tissue (Quality and Safety for Human Application) Regulations 2007[
   >
   > - (e) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042).
 
-### 40. Amendment of the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-0021aaceb03d41cbe4e464fafef1c1ae]
+### 40. Amendment of the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-0021aaceb03d41cbe4e464fafef1c1ae]
 
 (1) The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00014] is amended as follows.
 
@@ -919,7 +919,7 @@ In the Human Tissue (Quality and Safety for Human Application) Regulations 2007[
 
 (3) In Part 3 of the Schedule, in the section headed “Public health and safety”, after “The Personal Protective Equipment (Enforcement) Regulations 2018”, insert “The Medical Devices (Northern Ireland Protocol) Regulations 2021”.
 
-### 41. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016[^key-fd1c599b5cb0832fde62f664dc89558f]
+### 41. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016[^c-fd1c599b5cb0832fde62f664dc89558f]
 
 In the Medicines (Products for Human Use) (Fees) Regulations 2016[^f00015], in regulation 10(5) (fee for advice for other purposes)—
 
@@ -930,7 +930,7 @@ In the Medicines (Products for Human Use) (Fees) Regulations 2016[^f00015], in r
   >
   > - (c) obtaining an EU technical documentation assessment certificate or EU type-examination certificate of the type mentioned in section 5 of Annex IX and section 6 of Annex X of Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) and [93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042), for a medical device incorporating that product or a product of that type.
 
-### 42. Amendment of the Economic Growth (Regulatory Functions) Order 2017[^key-206af1643ef1395fff8b31e176a7a91b]
+### 42. Amendment of the Economic Growth (Regulatory Functions) Order 2017[^c-206af1643ef1395fff8b31e176a7a91b]
 
 In the Economic Growth (Regulatory Functions) Order 2017[^f00016], in Part 3 of the Schedule, in the section headed “Medicines”, after “Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/european/regulation/2006/1901) of the European Parliament and of the Council on medicinal products for paediatric use and amending Regulation [(EEC) No 1768/92](https://www.legislation.gov.uk/european/regulation/1992/1768), [Directive 2001/20/EC](https://www.legislation.gov.uk/european/directive/2001/0020), [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) and Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726)”, insert—
 
@@ -939,7 +939,7 @@ In the Economic Growth (Regulatory Functions) Order 2017[^f00016], in Part 3 of 
 
 .
 
-### 43. Amendment of the Market Surveillance (Northern Ireland) Regulations 2021[^key-f2d215c6060b584bcba78b2b94def595]
+### 43. Amendment of the Market Surveillance (Northern Ireland) Regulations 2021[^c-f2d215c6060b584bcba78b2b94def595]
 
 *Extent: N.I.*
 
@@ -993,7 +993,7 @@ Two Lords Commissioners of Her Majesty’s Treasury
 
 21st July 2021
 
-## SCHEDULE 1 — Fees for clinical investigations[^key-3e24ed9219c3af9fe8d658639dec4e38]
+## SCHEDULE 1 — Fees for clinical investigations[^c-3e24ed9219c3af9fe8d658639dec4e38]
 
 *Extent: N.I.*
 
@@ -1001,25 +1001,25 @@ Regulation 16
 
 Table 1
 
-Clinical investigation of a class I device, class IIa device or class IIb device, which is neither an implantable device nor a long-term invasive device[^key-dd2a1b48ca5ffb1e022dbae92a251460]
+Clinical investigation of a class I device, class IIa device or class IIb device, which is neither an implantable device nor a long-term invasive device[^c-dd2a1b48ca5ffb1e022dbae92a251460]
 
 | Activity | Fee |
 | --- | --- |
-| 1\. Application submitted under Article 70(1) | £15,309[^key-f6efd3f3ebe119ba1483cf7353ae1f6c] |
-| 2\. Application re-submitted under Article 70(1) where the changes from the immediately preceding application are limited to addressing the grounds on which the Secretary of State previously refused the application under Article 71(4) | £11,701[^key-b2d400a5dc71ecb1b4f628dfdaa448a9] |
-| 3\. Notification of a substantial modification under Article 75(1) | £226[^key-b449abc2684e557b426acd67cb69aae8] |
+| 1\. Application submitted under Article 70(1) | £15,309[^c-f6efd3f3ebe119ba1483cf7353ae1f6c] |
+| 2\. Application re-submitted under Article 70(1) where the changes from the immediately preceding application are limited to addressing the grounds on which the Secretary of State previously refused the application under Article 71(4) | £11,701[^c-b2d400a5dc71ecb1b4f628dfdaa448a9] |
+| 3\. Notification of a substantial modification under Article 75(1) | £226[^c-b449abc2684e557b426acd67cb69aae8] |
 
 Table 2
 
-Clinical investigation of a class IIb device, which is either an implantable device or a long-term invasive device, or a class III device[^key-e0edd67e8c649e42a14976e887ab6706]
+Clinical investigation of a class IIb device, which is either an implantable device or a long-term invasive device, or a class III device[^c-e0edd67e8c649e42a14976e887ab6706]
 
 | Activity | Fee |
 | --- | --- |
-| 1\. Application submitted under Article 70(1) | £32,016[^key-60bce4518ea3dead44cc45de46c62186] |
-| 2\. Application re-submitted under Article 70(1) where the changes from the immediately preceding application are limited to addressing the grounds on which the Secretary of State previously refused the application under Article 71(4) | £22,678[^key-7250477f8dbbfffeaf6faf570e50f6a1] |
-| 3\. Notification of a substantial modification under Article 75(1) | £361[^key-8052097bc4b56b5405954988f12a7739] |
+| 1\. Application submitted under Article 70(1) | £32,016[^c-60bce4518ea3dead44cc45de46c62186] |
+| 2\. Application re-submitted under Article 70(1) where the changes from the immediately preceding application are limited to addressing the grounds on which the Secretary of State previously refused the application under Article 71(4) | £22,678[^c-7250477f8dbbfffeaf6faf570e50f6a1] |
+| 3\. Notification of a substantial modification under Article 75(1) | £361[^c-8052097bc4b56b5405954988f12a7739] |
 
-## SCHEDULE 2 — Fees in connection with the designation of notified bodies[^key-a4cd67e235d370c49525e985a0303ce8]
+## SCHEDULE 2 — Fees in connection with the designation of notified bodies[^c-a4cd67e235d370c49525e985a0303ce8]
 
 Regulation 19
 
@@ -1029,11 +1029,11 @@ Application fees
 
 | Application | Fee |
 | --- | --- |
-| 1\. For initial designation submitted under Article 38 of[^key-8dc255c67896054dd9217a930f58fb48] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £41,337[^key-e4c83844b9de8966ffc4c12fe4ca91cc] |
-| 2\. For initial designation re-submitted under Article 38 of[^key-8368f6879b6154cd2a21d4718ef59796] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) where the changes from the immediately preceding application are limited to addressing the grounds on which the Secretary of State previously refused the application | £10,335[^key-60c1b2b32d10e7f12ba0c0e3188127df] |
-| 3\. For reassessment under Article 44(10) of[^key-c5f95690e6871fab6a6c87fcc5625863] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(10) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £41,337[^key-d52442a90ed1e63ee079d78cd0f79685] |
-| 4\. For an extension of the scope of the designation under Article 46(1)[^key-4c2f260bb69d97920bb336f7374cbd33] of[^key-42be2110502a077884d7c9feeb313ac6] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 42(1) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) which extends the body’s designation to carry out tasks included in an Annex to[^key-8623e6620e22bd2d10b14405d44fafad] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) that was not previously within the body’s designation | £14,568[^key-1b211e24be73a63b9dedb6b5662ff132] |
-| 5\. For an extension of the scope of the designation under Article 46(1)[^key-d3e5ac10b0a5dd5261391c23db1859bf] of[^key-df06d7e180543e629467efda31ecd910] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 42(1) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) which extends the body’s designation to carry out tasks that were not previously within the scope of the body’s designation and where the Secretary of State considers that an additional assessment of the body’s procedures is required | £21,105[^key-a609a2f84e399d9b889c57953e176fa1] |
+| 1\. For initial designation submitted under Article 38 of[^c-8dc255c67896054dd9217a930f58fb48] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £41,337[^c-e4c83844b9de8966ffc4c12fe4ca91cc] |
+| 2\. For initial designation re-submitted under Article 38 of[^c-8368f6879b6154cd2a21d4718ef59796] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) where the changes from the immediately preceding application are limited to addressing the grounds on which the Secretary of State previously refused the application | £10,335[^c-60c1b2b32d10e7f12ba0c0e3188127df] |
+| 3\. For reassessment under Article 44(10) of[^c-c5f95690e6871fab6a6c87fcc5625863] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(10) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £41,337[^c-d52442a90ed1e63ee079d78cd0f79685] |
+| 4\. For an extension of the scope of the designation under Article 46(1)[^c-4c2f260bb69d97920bb336f7374cbd33] of[^c-42be2110502a077884d7c9feeb313ac6] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 42(1) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) which extends the body’s designation to carry out tasks included in an Annex to[^c-8623e6620e22bd2d10b14405d44fafad] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) that was not previously within the body’s designation | £14,568[^c-1b211e24be73a63b9dedb6b5662ff132] |
+| 5\. For an extension of the scope of the designation under Article 46(1)[^c-d3e5ac10b0a5dd5261391c23db1859bf] of[^c-df06d7e180543e629467efda31ecd910] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 42(1) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) which extends the body’s designation to carry out tasks that were not previously within the scope of the body’s designation and where the Secretary of State considers that an additional assessment of the body’s procedures is required | £21,105[^c-a609a2f84e399d9b889c57953e176fa1] |
 
 Table 2
 
@@ -1041,19 +1041,19 @@ Fees for assessments and reviews
 
 | Activity | Fee |
 | --- | --- |
-| 1\. On-site assessment under Article 39(4) of[^key-7c44be263728f35c8089bef9a60ad317] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 35(4) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) in connection with an application for initial designation under Article 38 of[^key-54a7881e6a4d3a3e9602c3f4912b1dc0] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746), or an application for reassessment under Article 44(10) of[^key-06b85a6f570bf265651559b73f987910] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(10) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £67,606[^key-42da303be086bf8edcd3d6a62d0b0011] |
-| 2\. On-site audit as part of an annual reassessment under Article 44(4) of[^key-a74a4a3f545e63548a39a78e18ca1b76] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(4) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £52,929[^key-fcb850383e3802f3f66b1709d2466185] |
-| 3\. Observed audit of notified body personnel under Article 44(5) of[^key-5256c738cfdf1c7e9492020d9ec2f5b3] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(5) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £11,672[^key-e518ccbee49e1c1c9f63308a4e1d63ce] |
-| 4\. On-site assessment of a subsidiary | £26,408[^key-28b9cb6b7b59a16e386133070da203a3] |
-| 5\. ‘For-cause’ review under Article 44(7) of[^key-ab5283e149e3773caf924280ab7b3144] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(7) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) to—<br>(a) review assessments by the notified body, including clinical evaluation documentation;<br>(b) otherwise verify compliance with the requirements of Regulation (EU) 2017/745 , or[^key-3f1ed50243b6838d0f0003f914a2b37c] [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) or address a particular issue | (a) £21,535[^key-a2a6ee7482193904bc94dda0eefeaec4]<br>(b) £26,408[^key-b527305b21f36dd88248c58a1743e28d] |
+| 1\. On-site assessment under Article 39(4) of[^c-7c44be263728f35c8089bef9a60ad317] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 35(4) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) in connection with an application for initial designation under Article 38 of[^c-54a7881e6a4d3a3e9602c3f4912b1dc0] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 34 of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746), or an application for reassessment under Article 44(10) of[^c-06b85a6f570bf265651559b73f987910] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(10) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £67,606[^c-42da303be086bf8edcd3d6a62d0b0011] |
+| 2\. On-site audit as part of an annual reassessment under Article 44(4) of[^c-a74a4a3f545e63548a39a78e18ca1b76] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(4) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £52,929[^c-fcb850383e3802f3f66b1709d2466185] |
+| 3\. Observed audit of notified body personnel under Article 44(5) of[^c-5256c738cfdf1c7e9492020d9ec2f5b3] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(5) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) | £11,672[^c-e518ccbee49e1c1c9f63308a4e1d63ce] |
+| 4\. On-site assessment of a subsidiary | £26,408[^c-28b9cb6b7b59a16e386133070da203a3] |
+| 5\. ‘For-cause’ review under Article 44(7) of[^c-ab5283e149e3773caf924280ab7b3144] [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) or Article 40(7) of [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) to—<br>(a) review assessments by the notified body, including clinical evaluation documentation;<br>(b) otherwise verify compliance with the requirements of Regulation (EU) 2017/745 , or[^c-3f1ed50243b6838d0f0003f914a2b37c] [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) or address a particular issue | (a) £21,535[^c-a2a6ee7482193904bc94dda0eefeaec4]<br>(b) £26,408[^c-b527305b21f36dd88248c58a1743e28d] |
 
-## SCHEDULE 3 — Provisions breach of which is an offence under regulation 23[^key-06236f7ce4dba646c84ee1378fc35db9]
+## SCHEDULE 3 — Provisions breach of which is an offence under regulation 23[^c-06236f7ce4dba646c84ee1378fc35db9]
 
 *Extent: N.I.*
 
 Regulation 23
 
-Table 1[^key-af284e53c1eed313d26c2e8eaa4148b4]
+Table 1[^c-af284e53c1eed313d26c2e8eaa4148b4]
 
 | Regulation | Title of the regulation |
 | --- | --- |
@@ -1080,7 +1080,7 @@ Table 2
 | 6(1)-(3) | Distance sales |
 | 7 | Claims |
 | 9(3), (4) | Common specifications |
-| 10 (except in paragraph 14, only the first sub-paragraph) | general obligations of manufacturers[^key-cf6d9d123b241a04dd76bb6a82bb7171] |
+| 10 (except in paragraph 14, only the first sub-paragraph) | general obligations of manufacturers[^c-cf6d9d123b241a04dd76bb6a82bb7171] |
 | 11(1), (3), (6) | Authorised representative |
 | 12 | Change of authorised representative |
 | 13 | General obligations of importers |
@@ -1093,7 +1093,7 @@ Table 2
 | 22(1), (3) to (5) | Systems and procedure packs |
 | 23(1) | Parts and components |
 | 25(1), (2) | Identification within the supply chain |
-| 32(1) (except the second sentence of the third sub-paragraph), (2)[^key-99e70cdf1755d70fa07c07a761a8387b] | Summary of safety and clinical performance |
+| 32(1) (except the second sentence of the third sub-paragraph), (2)[^c-99e70cdf1755d70fa07c07a761a8387b] | Summary of safety and clinical performance |
 | 52(1) to (4), (6) to (11), (13) | Conformity assessment procedures |
 | 53(3) | Involvement of notified bodies in conformity assessment procedures |
 | 58(1) | Voluntary change of notified body |
@@ -1101,11 +1101,11 @@ Table 2
 | 82(1) | Requirements regarding other clinical investigations |
 | 84 | Post-market surveillance plan |
 | 85 | Post-market surveillance report |
-| 86 (except the second and third sentences of paragraph (2))[^key-6ec0db027e576af77b2a758160a01d78] | Periodic safety update report |
+| 86 (except the second and third sentences of paragraph (2))[^c-6ec0db027e576af77b2a758160a01d78] | Periodic safety update report |
 | 89(1), (3) (only the second sub-paragraph),(5), (8) | Analysis of serious incidents and field safety corrective actions |
 | 94 (only the final paragraph) | Evaluation of devices suspected of presenting an unacceptable risk or other non-compliance |
 
-Table 3[^key-7afeca309d653b6a24213c0e37f109f5]
+Table 3[^c-7afeca309d653b6a24213c0e37f109f5]
 
 | Article | Title of the article |
 | --- | --- |
@@ -1164,159 +1164,159 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Paragraph 8F was inserted by paragraph 51 of Schedule 5 to the 2020 Act.
 
-[^key-884a02b2567719a70cf1f413dab8b849]: Commencement: Reg. 1 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-884a02b2567719a70cf1f413dab8b849]: Commencement: Reg. 1 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-93bef00876d80b82de5f2a1614622cbd]: Commencement: Reg. 2 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-93bef00876d80b82de5f2a1614622cbd]: Commencement: Reg. 2 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-4cb75f3fbc4c4d2c202b04b4dd5e8adf]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/2/2) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/28/a)
+[^c-4cb75f3fbc4c4d2c202b04b4dd5e8adf]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/2/2) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/28/a)
 
-[^key-2b9d9f11ac93da360123a54d0f4b827b]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/2/2) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/28/b)
+[^c-2b9d9f11ac93da360123a54d0f4b827b]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/2/2) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/28/b)
 
-[^key-b10298fecb28a8f8b9776f5d697a90c0]: Commencement: Reg. 3 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-b10298fecb28a8f8b9776f5d697a90c0]: Commencement: Reg. 3 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00003]: Footnote: OJ No. L 117, 05.05.2017, p. 1., amended by Regulation (EU) 2020/561 of the European Parliament and of the Council of 23 April 2020, OJ No. L 130, 24.04.2020, p.18.
 
-[^key-0d6885683b60310c4969c9f66d5a01b0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(a)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/a/i)
+[^c-0d6885683b60310c4969c9f66d5a01b0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(a)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/a/i)
 
 [^f00004]: Footnote: The Health Research Authority is established by section 109 of the Care Act [2014 (c.23)](https://www.legislation.gov.uk/ukpga/2014/23).
 
-[^key-497e4c585fe0ec75b1e711b249017505]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/a/ii)
+[^c-497e4c585fe0ec75b1e711b249017505]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/a/ii)
 
-[^key-2226258d5a3cc430a7f22571345aff10]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/b)
+[^c-2226258d5a3cc430a7f22571345aff10]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/b)
 
-[^key-dc6c8f5b26adaf4dc1444525269b184f]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/3) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/c)
+[^c-dc6c8f5b26adaf4dc1444525269b184f]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/905/regulation/3/3) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/29/c)
 
-[^key-2933a8bf08d80bb529aa1702b35bfbcc]: Commencement: Reg. 4 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-2933a8bf08d80bb529aa1702b35bfbcc]: Commencement: Reg. 4 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-872f3996524141906efe941a12699c06]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/221/regulation/30)
+[^c-872f3996524141906efe941a12699c06]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/221/regulation/30)
 
-[^key-7014e620f9b4a7d7a52af0d1955f8e69]: Commencement: Reg. 5 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-7014e620f9b4a7d7a52af0d1955f8e69]: Commencement: Reg. 5 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-cc874e9cc48454e3d050f7834b5b6d73]: Commencement: Reg. 6 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-cc874e9cc48454e3d050f7834b5b6d73]: Commencement: Reg. 6 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-a2147609613128d8c9d9ef8308be7476]: Commencement: Reg. 7 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-a2147609613128d8c9d9ef8308be7476]: Commencement: Reg. 7 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-9f7c129db3bdbd786e04248e80aca94e]: Textual amendment: Sum in reg. 7(5) substituted (1.4.2026) by [The Medical Devices (Fees Amendment) Regulations 2026 (S.I. 2026/197)](https://www.legislation.gov.uk/uksi/2026/197), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/5/2/a)
+[^c-9f7c129db3bdbd786e04248e80aca94e]: Textual amendment: Sum in reg. 7(5) substituted (1.4.2026) by [The Medical Devices (Fees Amendment) Regulations 2026 (S.I. 2026/197)](https://www.legislation.gov.uk/uksi/2026/197), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/5/2/a)
 
-[^key-8cf369713a6460e7888208527136ae0b]: Textual amendment: [Reg. 7(5A)-(5F)](https://www.legislation.gov.uk/uksi/2021/905/regulation/7/5A) inserted (1.4.2026) by [The Medical Devices (Fees Amendment) Regulations 2026 (S.I. 2026/197)](https://www.legislation.gov.uk/uksi/2026/197), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/197/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/197/regulation/5/2/b)
+[^c-8cf369713a6460e7888208527136ae0b]: Textual amendment: [Reg. 7(5A)-(5F)](https://www.legislation.gov.uk/uksi/2021/905/regulation/7/5A) inserted (1.4.2026) by [The Medical Devices (Fees Amendment) Regulations 2026 (S.I. 2026/197)](https://www.legislation.gov.uk/uksi/2026/197), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/197/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/197/regulation/5/2/b)
 
-[^key-35192063eef320919276a7174fe10902]: Commencement: Reg. 8 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-35192063eef320919276a7174fe10902]: Commencement: Reg. 8 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-6b02eab9937dc75ce5a744360adeb81d]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2021/905/regulation/8) heading inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2024/221/regulation/31)
+[^c-6b02eab9937dc75ce5a744360adeb81d]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2021/905/regulation/8) heading inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2024/221/regulation/31)
 
-[^key-be38519e5d0586545f085a0a20145147]: Commencement: Reg. 9 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-be38519e5d0586545f085a0a20145147]: Commencement: Reg. 9 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-d0d3197d54375992ab26b1ca2f3637a0]: Commencement: Reg. 10 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-d0d3197d54375992ab26b1ca2f3637a0]: Commencement: Reg. 10 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-1d4aa01cb0017303f07134a948276c60]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2021/905/regulation/10) heading inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/a)
+[^c-1d4aa01cb0017303f07134a948276c60]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2021/905/regulation/10) heading inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/a)
 
-[^key-7cced74ec7462863ee829d9923d407dd]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/10/4/b) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/b)
+[^c-7cced74ec7462863ee829d9923d407dd]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/10/4/b) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/b)
 
-[^key-2e3816d217bf296050c6d10533f5eed8]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2021/905/regulation/10/5) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/c)
+[^c-2e3816d217bf296050c6d10533f5eed8]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2021/905/regulation/10/5) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/c)
 
-[^key-381310b752a32e0a209405ec6611ea32]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2021/905/regulation/10/6) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(d)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/d)
+[^c-381310b752a32e0a209405ec6611ea32]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2021/905/regulation/10/6) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [32(d)](https://www.legislation.gov.uk/uksi/2024/221/regulation/32/d)
 
-[^key-46159b404fc9fbf6d53bae652b91ce9d]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2021/905/part/2A) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2024/221/regulation/33)
+[^c-46159b404fc9fbf6d53bae652b91ce9d]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2021/905/part/2A) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2024/221/regulation/33)
 
-[^key-af347dc56bf0ef274f6a6f7f4d3ddc9f]: Textual amendment: [Reg. A11](https://www.legislation.gov.uk/uksi/2021/905/regulation/A11) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2024/221/regulation/34)
+[^c-af347dc56bf0ef274f6a6f7f4d3ddc9f]: Textual amendment: [Reg. A11](https://www.legislation.gov.uk/uksi/2021/905/regulation/A11) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2024/221/regulation/34)
 
-[^key-22eb20a9be2c03bebfb650d4e14a1934]: Commencement: Reg. 11 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-22eb20a9be2c03bebfb650d4e14a1934]: Commencement: Reg. 11 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-7bcd0190ed0badbb583ca5f2b2dfa252]: Commencement: Reg. 12 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-7bcd0190ed0badbb583ca5f2b2dfa252]: Commencement: Reg. 12 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-16a551bc855e4f618286cf4c0c54b08f]: Commencement: Reg. 13 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-16a551bc855e4f618286cf4c0c54b08f]: Commencement: Reg. 13 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-c9d2f9e70f42670544d218008de52d5e]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2021/905/regulation/13/6) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2024/221/regulation/35)
+[^c-c9d2f9e70f42670544d218008de52d5e]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2021/905/regulation/13/6) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2024/221/regulation/35)
 
-[^key-ce3d1669cc4e1fe785feee740c16c184]: Commencement: Reg. 14 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-ce3d1669cc4e1fe785feee740c16c184]: Commencement: Reg. 14 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-b543f42c5677dc2401435db05469b791]: Commencement: Reg. 15 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-b543f42c5677dc2401435db05469b791]: Commencement: Reg. 15 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-16eb21c6ef919a7941fd492bd7455db5]: Commencement: Reg. 16 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-16eb21c6ef919a7941fd492bd7455db5]: Commencement: Reg. 16 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-2215ac2ca70fcb7530800216f7ce48dc]: Textual amendment: [Reg. 16(4A)-(4C)](https://www.legislation.gov.uk/uksi/2021/905/regulation/16/4A) inserted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2025/749/regulation/16)
+[^c-2215ac2ca70fcb7530800216f7ce48dc]: Textual amendment: [Reg. 16(4A)-(4C)](https://www.legislation.gov.uk/uksi/2021/905/regulation/16/4A) inserted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2025/749/regulation/16)
 
-[^key-63cc9f9080af53f839727389a8fa0a3f]: Textual amendment: Words in [reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/16/5/a) substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2023/377/regulation/20/a)
+[^c-63cc9f9080af53f839727389a8fa0a3f]: Textual amendment: Words in [reg. 16(5)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/16/5/a) substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2023/377/regulation/20/a)
 
-[^key-5d0733b44d96cacb058cf07faffa1022]: Textual amendment: Words in [reg. 16(5)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/16/5/b) substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2023/377/regulation/20/b)
+[^c-5d0733b44d96cacb058cf07faffa1022]: Textual amendment: Words in [reg. 16(5)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/16/5/b) substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2023/377/regulation/20/b)
 
-[^key-776a788cd97da035dd221ccc28e12165]: Commencement: Reg. 17 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-776a788cd97da035dd221ccc28e12165]: Commencement: Reg. 17 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-5da1ca96ac992f5d656d8ae841f46fbe]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2021/905/regulation/17A) inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/377/regulation/21)
+[^c-5da1ca96ac992f5d656d8ae841f46fbe]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2021/905/regulation/17A) inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/377/regulation/21)
 
-[^key-eec6fc43dcc1f7b0b81fdf3770b60e0e]: Textual amendment: Sum in reg. 17A(2)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/17/a)
+[^c-eec6fc43dcc1f7b0b81fdf3770b60e0e]: Textual amendment: Sum in reg. 17A(2)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/17/a)
 
-[^key-7a26d325ec9df9437d2d95f308cee102]: Textual amendment: Sum in reg. 17A(2)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/17/b)
+[^c-7a26d325ec9df9437d2d95f308cee102]: Textual amendment: Sum in reg. 17A(2)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/17/b)
 
-[^key-4f8df89cb3b38aa8dbf01a3b9c3909a9]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2021/905/part/3A) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2024/221/regulation/36)
+[^c-4f8df89cb3b38aa8dbf01a3b9c3909a9]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2021/905/part/3A) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2024/221/regulation/36)
 
-[^key-1a06ecef2ba6010a6218dd6dc569e543]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2021/905/part/4) heading inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2024/221/regulation/37)
+[^c-1a06ecef2ba6010a6218dd6dc569e543]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2021/905/part/4) heading inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2024/221/regulation/37)
 
-[^key-a3e8e23e6384ee2f8dd2ec00afecb6ea]: Commencement: Reg. 18 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-a3e8e23e6384ee2f8dd2ec00afecb6ea]: Commencement: Reg. 18 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-bbaa78ceef028eda6a9230e586e2b24a]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/18/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/38/a)
+[^c-bbaa78ceef028eda6a9230e586e2b24a]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/18/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/38/a)
 
-[^key-8d3bfeb9ac6f2a57cceea7fa5bd228b8]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/18/2) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/38/b)
+[^c-8d3bfeb9ac6f2a57cceea7fa5bd228b8]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/18/2) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/38/b)
 
-[^key-223ccb6f716b4ffcda1e8c3557b0d9f9]: Commencement: Reg. 19 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-223ccb6f716b4ffcda1e8c3557b0d9f9]: Commencement: Reg. 19 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-46d8754297ecdf112518355b70fa0292]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/2/a) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(a)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/a/i)
+[^c-46d8754297ecdf112518355b70fa0292]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/2/a) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(a)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/a/i)
 
-[^key-ce1bdb791ae28ab8f526069da4584e26]: Textual amendment: Words in [reg. 19(2)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/2/b) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(a)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/a/ii)
+[^c-ce1bdb791ae28ab8f526069da4584e26]: Textual amendment: Words in [reg. 19(2)(b)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/2/b) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(a)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/a/ii)
 
-[^key-a0f647c53d24261239aead10fe58abfe]: Textual amendment: Words in [reg. 19(2)(c)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/2/c) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(a)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/a/iii)
+[^c-a0f647c53d24261239aead10fe58abfe]: Textual amendment: Words in [reg. 19(2)(c)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/2/c) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(a)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/a/iii)
 
-[^key-228167a828c0fe1c05f2e243654c9c01]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/3) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/b)
+[^c-228167a828c0fe1c05f2e243654c9c01]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/3) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/b)
 
-[^key-f8ace2c8cc0803418601c5043396ccff]: Textual amendment: Sum in reg. 19(3) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/18/a)
+[^c-f8ace2c8cc0803418601c5043396ccff]: Textual amendment: Sum in reg. 19(3) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/18/a)
 
-[^key-c65352293e1fd6072f13950c62fe6590]: Textual amendment: Sum in reg. 19(6)(b)(i) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [18(b)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/18/b/i)
+[^c-c65352293e1fd6072f13950c62fe6590]: Textual amendment: Sum in reg. 19(6)(b)(i) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [18(b)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/18/b/i)
 
-[^key-8041c18d859e5ad3476f1d3a468e8787]: Textual amendment: Sum in reg. 19(6)(b)(ii) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/18/b/ii)
+[^c-8041c18d859e5ad3476f1d3a468e8787]: Textual amendment: Sum in reg. 19(6)(b)(ii) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/18/b/ii)
 
-[^key-6de8c109a900729fa1dcc7980f2f8b83]: Textual amendment: Words in [reg. 19(8)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/8/a) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/c)
+[^c-6de8c109a900729fa1dcc7980f2f8b83]: Textual amendment: Words in [reg. 19(8)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/19/8/a) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/39/c)
 
 [^f00006]: Footnote: OJ No. L 212, 09.08.2012, p. 3.
 
-[^key-c7fc87863f2ec1091da528a8254280f0]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2021/905/part/4A) inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2023/377/regulation/23)
+[^c-c7fc87863f2ec1091da528a8254280f0]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2021/905/part/4A) inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2023/377/regulation/23)
 
-[^key-5ce2b5fde44ba6e7c557d09120ea4594]: Textual amendment: Sum in reg. 19C(1)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(a)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/a/i)
+[^c-5ce2b5fde44ba6e7c557d09120ea4594]: Textual amendment: Sum in reg. 19C(1)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(a)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/a/i)
 
-[^key-dd55fbd21267b6bd40190a74a19ac014]: Textual amendment: Sum in reg. 19C(1)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(a)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/a/ii)
+[^c-dd55fbd21267b6bd40190a74a19ac014]: Textual amendment: Sum in reg. 19C(1)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(a)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/a/ii)
 
-[^key-f168ce71123d89e0983abed77b2656f7]: Textual amendment: Sum in reg. 19C(2)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(b)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/b/i)
+[^c-f168ce71123d89e0983abed77b2656f7]: Textual amendment: Sum in reg. 19C(2)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(b)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/b/i)
 
-[^key-7f75e18bf1ab821dd067d5ee18d7d19d]: Textual amendment: Sum in reg. 19C(2)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/b/ii)
+[^c-7f75e18bf1ab821dd067d5ee18d7d19d]: Textual amendment: Sum in reg. 19C(2)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/b/ii)
 
-[^key-d7ad19b1310a8a42fadb40a09b612541]: Textual amendment: Sum in reg. 19C(3)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(c)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/c/i)
+[^c-d7ad19b1310a8a42fadb40a09b612541]: Textual amendment: Sum in reg. 19C(3)(a) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(c)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/c/i)
 
-[^key-963db8f1683cb7fd03bc53b6d3625261]: Textual amendment: Sum in reg. 19C(3)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/c/ii)
+[^c-963db8f1683cb7fd03bc53b6d3625261]: Textual amendment: Sum in reg. 19C(3)(b) substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/19/c/ii)
 
-[^key-c2b183cef27849c5ee42a8091799b6e1]: Textual amendment: [Reg. 19D](https://www.legislation.gov.uk/uksi/2021/905/regulation/19D) omitted (16.7.2025) by virtue of [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2025/749/regulation/20)
+[^c-c2b183cef27849c5ee42a8091799b6e1]: Textual amendment: [Reg. 19D](https://www.legislation.gov.uk/uksi/2021/905/regulation/19D) omitted (16.7.2025) by virtue of [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2025/749/regulation/20)
 
-[^key-15b42a32d937e8a736726f528c7a8782]: Commencement: Reg. 20 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-15b42a32d937e8a736726f528c7a8782]: Commencement: Reg. 20 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-dddb52e7b37b27ab4e8487dbe1a21e17]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2021/905/regulation/20) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/221/regulation/40)
+[^c-dddb52e7b37b27ab4e8487dbe1a21e17]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2021/905/regulation/20) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/221/regulation/40)
 
-[^key-7abc9f1ff480371d020ae2dd2bd496b8]: Commencement: Reg. 21 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-7abc9f1ff480371d020ae2dd2bd496b8]: Commencement: Reg. 21 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-ffe5847566740478411111f78dd40451]: Commencement: Reg. 22 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-ffe5847566740478411111f78dd40451]: Commencement: Reg. 22 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-7256c7c9f0a10a1905d23dadbcf1b924]: Commencement: Reg. 23 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-7256c7c9f0a10a1905d23dadbcf1b924]: Commencement: Reg. 23 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-6de3e4c4ebc767d66b29e11cb7342330]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/23/1) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2024/221/regulation/41)
+[^c-6de3e4c4ebc767d66b29e11cb7342330]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/23/1) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2024/221/regulation/41)
 
-[^key-9f9618d2c6d56cee3f3b226c5aad1d0d]: Commencement: Reg. 24 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-9f9618d2c6d56cee3f3b226c5aad1d0d]: Commencement: Reg. 24 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-ab57a2e781b9dbf69672c68d7f22e9ed]: Commencement: Reg. 25 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-ab57a2e781b9dbf69672c68d7f22e9ed]: Commencement: Reg. 25 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-416b49b58e72911a9c20712968861534]: Commencement: Reg. 26 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-416b49b58e72911a9c20712968861534]: Commencement: Reg. 26 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-3b4d45898349d14f552948deee868b18]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/26/1) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [42(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/42/a)
+[^c-3b4d45898349d14f552948deee868b18]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2021/905/regulation/26/1) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [42(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/42/a)
 
-[^key-6c598425840d13dc5c0e9cc84a3f4794]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/26/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [42(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/42/b)
+[^c-6c598425840d13dc5c0e9cc84a3f4794]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/26/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [42(b)](https://www.legislation.gov.uk/uksi/2024/221/regulation/42/b)
 
-[^key-51a42a287d26a5a8cd40a18792be57ba]: Commencement: Reg. 27 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-51a42a287d26a5a8cd40a18792be57ba]: Commencement: Reg. 27 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00007]: Footnote: [2015 c.15](https://www.legislation.gov.uk/ukpga/2015/15).
 
@@ -1324,134 +1324,134 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: Paragraph 30A was inserted by section 41(2)(d) of the Medicines and Medical Devices Act [2021 (c.3)](https://www.legislation.gov.uk/ukpga/2021/3).
 
-[^key-87fe6d9f2783ec94b27bc1016db76e55]: Commencement: Reg. 28 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-87fe6d9f2783ec94b27bc1016db76e55]: Commencement: Reg. 28 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00010]: Footnote: [2021 c.3](https://www.legislation.gov.uk/ukpga/2021/3).
 
-[^key-4dd5f75e0a741f8406ab39c094653345]: Commencement: Reg. 29 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-4dd5f75e0a741f8406ab39c094653345]: Commencement: Reg. 29 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), as amended by [S.I. 2003/1400](https://www.legislation.gov.uk/uksi/2003/1400), [2003/1697](https://www.legislation.gov.uk/uksi/2003/1697), [2005/2759](https://www.legislation.gov.uk/uksi/2005/2759), [2909](https://www.legislation.gov.uk/uksi/2005/2909), [2007/400](https://www.legislation.gov.uk/uksi/2007/400), [803](https://www.legislation.gov.uk/uksi/2007/803), [2008/2936](https://www.legislation.gov.uk/uksi/2008/2936), [2009/383](https://www.legislation.gov.uk/uksi/2009/383), [2010/557](https://www.legislation.gov.uk/uksi/2010/557), [2012/1426](https://www.legislation.gov.uk/uksi/2012/1426), [2013/525](https://www.legislation.gov.uk/uksi/2013/525), [2327](https://www.legislation.gov.uk/uksi/2013/2327), [2017/207](https://www.legislation.gov.uk/uksi/2017/207), [2019/791](https://www.legislation.gov.uk/uksi/2019/791), [1385](https://www.legislation.gov.uk/uksi/2019/1385) and [2020/1478](https://www.legislation.gov.uk/uksi/2020/1478).
 
-[^key-2fd08e9afa06eb8c4af948bdde738507]: Commencement: Reg. 30 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-2fd08e9afa06eb8c4af948bdde738507]: Commencement: Reg. 30 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-3c6c5a4a2151dbd883c9f2849ddc5550]: Commencement: Reg. 31 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-3c6c5a4a2151dbd883c9f2849ddc5550]: Commencement: Reg. 31 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-3aa93da66ad630c0c5710b301ff98b5a]: Commencement: Reg. 32 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-3aa93da66ad630c0c5710b301ff98b5a]: Commencement: Reg. 32 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-84b99c46118cc1e7da8b14268f90b733]: Commencement: Reg. 33 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-84b99c46118cc1e7da8b14268f90b733]: Commencement: Reg. 33 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-7f857837e19b68c2c1d47cae1421c7ed]: Commencement: Reg. 34 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-7f857837e19b68c2c1d47cae1421c7ed]: Commencement: Reg. 34 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-e34aa9951d2b7ca1882206df390bf1de]: Commencement: Reg. 35 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-e34aa9951d2b7ca1882206df390bf1de]: Commencement: Reg. 35 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-e71f428965b3710b0d9d27f790d7be6b]: Commencement: Reg. 36 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-e71f428965b3710b0d9d27f790d7be6b]: Commencement: Reg. 36 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-30ef2b8b2885209e2f46c384f86a13e7]: Commencement: Reg. 37 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-30ef2b8b2885209e2f46c384f86a13e7]: Commencement: Reg. 37 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-6259efbff93c644ebcb03d5c351e745f]: Commencement: Reg. 38 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-6259efbff93c644ebcb03d5c351e745f]: Commencement: Reg. 38 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50); regulation 2 was amended by [S.I. 2019/4](https://www.legislation.gov.uk/uksi/2019/4).
 
-[^key-7fd4b54646ec73c4cb4e8634b2c97342]: Commencement: Reg. 39 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-7fd4b54646ec73c4cb4e8634b2c97342]: Commencement: Reg. 39 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2007/1523](https://www.legislation.gov.uk/uksi/2007/1523); regulation 2 was amended by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [2018/335](https://www.legislation.gov.uk/uksi/2018/335), and [2019/481](https://www.legislation.gov.uk/uksi/2019/481).
 
-[^key-0021aaceb03d41cbe4e464fafef1c1ae]: Commencement: Reg. 40 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-0021aaceb03d41cbe4e464fafef1c1ae]: Commencement: Reg. 40 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544), to which there are amendments not relevant to these Regulations.
 
-[^key-fd1c599b5cb0832fde62f664dc89558f]: Commencement: Reg. 41 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-fd1c599b5cb0832fde62f664dc89558f]: Commencement: Reg. 41 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2016/190](https://www.legislation.gov.uk/uksi/2016/190), amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775); there are other amending instruments but none is relevant.
 
-[^key-206af1643ef1395fff8b31e176a7a91b]: Commencement: Reg. 42 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-206af1643ef1395fff8b31e176a7a91b]: Commencement: Reg. 42 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2017/267](https://www.legislation.gov.uk/uksi/2017/267), to which there are amendments not relevant to these Regulations.
 
-[^key-f2d215c6060b584bcba78b2b94def595]: Commencement: Reg. 43 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-f2d215c6060b584bcba78b2b94def595]: Commencement: Reg. 43 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2021/858](https://www.legislation.gov.uk/uksi/2021/858)
 
-[^key-3e24ed9219c3af9fe8d658639dec4e38]: Commencement: Sch. 1 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-3e24ed9219c3af9fe8d658639dec4e38]: Commencement: Sch. 1 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-dd2a1b48ca5ffb1e022dbae92a251460]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 heading substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/24/2)
+[^c-dd2a1b48ca5ffb1e022dbae92a251460]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 heading substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/24/2)
 
-[^key-f6efd3f3ebe119ba1483cf7353ae1f6c]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/2/a)
+[^c-f6efd3f3ebe119ba1483cf7353ae1f6c]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/2/a)
 
-[^key-b2d400a5dc71ecb1b4f628dfdaa448a9]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/2/b)
+[^c-b2d400a5dc71ecb1b4f628dfdaa448a9]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/2/b)
 
-[^key-b449abc2684e557b426acd67cb69aae8]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/2/c)
+[^c-b449abc2684e557b426acd67cb69aae8]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/2/c)
 
-[^key-e0edd67e8c649e42a14976e887ab6706]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 heading substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2023/377/regulation/24/4)
+[^c-e0edd67e8c649e42a14976e887ab6706]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 heading substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2023/377/regulation/24/4)
 
-[^key-60bce4518ea3dead44cc45de46c62186]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/3/a)
+[^c-60bce4518ea3dead44cc45de46c62186]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/3/a)
 
-[^key-7250477f8dbbfffeaf6faf570e50f6a1]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/3/b)
+[^c-7250477f8dbbfffeaf6faf570e50f6a1]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/3/b)
 
-[^key-8052097bc4b56b5405954988f12a7739]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/3/c)
+[^c-8052097bc4b56b5405954988f12a7739]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/905/schedule/1) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/21/3/c)
 
-[^key-a4cd67e235d370c49525e985a0303ce8]: Commencement: Sch. 2 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-a4cd67e235d370c49525e985a0303ce8]: Commencement: Sch. 2 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-8dc255c67896054dd9217a930f58fb48]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/i)
+[^c-8dc255c67896054dd9217a930f58fb48]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/i)
 
-[^key-e4c83844b9de8966ffc4c12fe4ca91cc]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/a)
+[^c-e4c83844b9de8966ffc4c12fe4ca91cc]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/a)
 
-[^key-8368f6879b6154cd2a21d4718ef59796]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/ii)
+[^c-8368f6879b6154cd2a21d4718ef59796]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/ii)
 
-[^key-60c1b2b32d10e7f12ba0c0e3188127df]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/b)
+[^c-60c1b2b32d10e7f12ba0c0e3188127df]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/b)
 
-[^key-c5f95690e6871fab6a6c87fcc5625863]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/iii)
+[^c-c5f95690e6871fab6a6c87fcc5625863]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/iii)
 
-[^key-d52442a90ed1e63ee079d78cd0f79685]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/c)
+[^c-d52442a90ed1e63ee079d78cd0f79685]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/c)
 
-[^key-4c2f260bb69d97920bb336f7374cbd33]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [25(2)(a)](https://www.legislation.gov.uk/uksi/2023/377/regulation/25/2/a)
+[^c-4c2f260bb69d97920bb336f7374cbd33]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [25(2)(a)](https://www.legislation.gov.uk/uksi/2023/377/regulation/25/2/a)
 
-[^key-42be2110502a077884d7c9feeb313ac6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/iv/aa)
+[^c-42be2110502a077884d7c9feeb313ac6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/iv/aa)
 
-[^key-8623e6620e22bd2d10b14405d44fafad]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/iv/bb)
+[^c-8623e6620e22bd2d10b14405d44fafad]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/iv/bb)
 
-[^key-1b211e24be73a63b9dedb6b5662ff132]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(d)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/d)
+[^c-1b211e24be73a63b9dedb6b5662ff132]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(d)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/d)
 
-[^key-d3e5ac10b0a5dd5261391c23db1859bf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [25(2)(b)](https://www.legislation.gov.uk/uksi/2023/377/regulation/25/2/b)
+[^c-d3e5ac10b0a5dd5261391c23db1859bf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [25(2)(b)](https://www.legislation.gov.uk/uksi/2023/377/regulation/25/2/b)
 
-[^key-df06d7e180543e629467efda31ecd910]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(v)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/v)
+[^c-df06d7e180543e629467efda31ecd910]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(a)(v)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/a/v)
 
-[^key-a609a2f84e399d9b889c57953e176fa1]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(e)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/e)
+[^c-a609a2f84e399d9b889c57953e176fa1]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 1 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(2)(e)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/2/e)
 
-[^key-7c44be263728f35c8089bef9a60ad317]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/i/aa)
+[^c-7c44be263728f35c8089bef9a60ad317]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/i/aa)
 
-[^key-54a7881e6a4d3a3e9602c3f4912b1dc0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/i/bb)
+[^c-54a7881e6a4d3a3e9602c3f4912b1dc0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/i/bb)
 
-[^key-06b85a6f570bf265651559b73f987910]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/i/cc)
+[^c-06b85a6f570bf265651559b73f987910]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/i/cc)
 
-[^key-42da303be086bf8edcd3d6a62d0b0011]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/a)
+[^c-42da303be086bf8edcd3d6a62d0b0011]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/a)
 
-[^key-a74a4a3f545e63548a39a78e18ca1b76]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/ii)
+[^c-a74a4a3f545e63548a39a78e18ca1b76]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/ii)
 
-[^key-fcb850383e3802f3f66b1709d2466185]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/b)
+[^c-fcb850383e3802f3f66b1709d2466185]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/b)
 
-[^key-5256c738cfdf1c7e9492020d9ec2f5b3]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/iii)
+[^c-5256c738cfdf1c7e9492020d9ec2f5b3]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/iii)
 
-[^key-e518ccbee49e1c1c9f63308a4e1d63ce]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/c)
+[^c-e518ccbee49e1c1c9f63308a4e1d63ce]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(c)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/c)
 
-[^key-28b9cb6b7b59a16e386133070da203a3]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(d)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/d)
+[^c-28b9cb6b7b59a16e386133070da203a3]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(d)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/d)
 
-[^key-ab5283e149e3773caf924280ab7b3144]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/iv/aa)
+[^c-ab5283e149e3773caf924280ab7b3144]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/iv/aa)
 
-[^key-3f1ed50243b6838d0f0003f914a2b37c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/iv/bb)
+[^c-3f1ed50243b6838d0f0003f914a2b37c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [43(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2024/221/regulation/43/b/iv/bb)
 
-[^key-a2a6ee7482193904bc94dda0eefeaec4]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(e)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/e/i)
+[^c-a2a6ee7482193904bc94dda0eefeaec4]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(e)(i)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/e/i)
 
-[^key-b527305b21f36dd88248c58a1743e28d]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/e/ii)
+[^c-b527305b21f36dd88248c58a1743e28d]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/905/schedule/2) Table 2 substituted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [22(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/749/regulation/22/3/e/ii)
 
-[^key-06236f7ce4dba646c84ee1378fc35db9]: Commencement: Sch. 3 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
+[^c-06236f7ce4dba646c84ee1378fc35db9]: Commencement: Sch. 3 in force at 27.7.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2)
 
-[^key-af284e53c1eed313d26c2e8eaa4148b4]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 1 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/a)
+[^c-af284e53c1eed313d26c2e8eaa4148b4]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 1 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/a)
 
-[^key-cf6d9d123b241a04dd76bb6a82bb7171]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 2 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(b)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/b/i)
+[^c-cf6d9d123b241a04dd76bb6a82bb7171]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 2 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(b)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/b/i)
 
-[^key-99e70cdf1755d70fa07c07a761a8387b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 2 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/b/ii)
+[^c-99e70cdf1755d70fa07c07a761a8387b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 2 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/b/ii)
 
-[^key-6ec0db027e576af77b2a758160a01d78]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 2 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(b)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/b/iii)
+[^c-6ec0db027e576af77b2a758160a01d78]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 2 substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(b)(iii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/b/iii)
 
-[^key-7afeca309d653b6a24213c0e37f109f5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 3 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/c)
+[^c-7afeca309d653b6a24213c0e37f109f5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/905/schedule/3) Table 3 inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [44(c)](https://www.legislation.gov.uk/uksi/2024/221/regulation/44/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Apparatus and rights of statutory undertakers in closed streets[^key-51e7aa221737236f15ca8f7ca7397476]
+## 35. Apparatus and rights of statutory undertakers in closed streets[^c-51e7aa221737236f15ca8f7ca7397476]
 
 *Extent: E+W+S*
 
@@ -51,6 +51,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-51e7aa221737236f15ca8f7ca7397476]: Commencement: Art. 35 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-51e7aa221737236f15ca8f7ca7397476]: Commencement: Art. 35 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00043]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to section 151 which are not relevant to this Order.

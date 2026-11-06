@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Forms of enforcement[^key-286246f1e8bf69711c36abe68367415f]
+## 55. Forms of enforcement[^c-286246f1e8bf69711c36abe68367415f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-286246f1e8bf69711c36abe68367415f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/26/section/55) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-286246f1e8bf69711c36abe68367415f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/26/section/55) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

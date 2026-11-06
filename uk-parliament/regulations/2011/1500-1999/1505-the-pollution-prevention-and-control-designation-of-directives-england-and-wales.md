@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2011 (revoked)[^key-3e969aed04ce5cf0a0612d1efbdf4caf]
+The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2011 (revoked)[^c-3e969aed04ce5cf0a0612d1efbdf4caf]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 12th July 2011
 
-[^key-3e969aed04ce5cf0a0612d1efbdf4caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e969aed04ce5cf0a0612d1efbdf4caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-3e969aed04ce5cf0a0612d1efbdf4caf]
+## 1. Citation, commencement, extent and application[^c-3e969aed04ce5cf0a0612d1efbdf4caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-3e969aed04ce5cf0a0612d1efbdf4caf]
+## 2. Revocation[^c-3e969aed04ce5cf0a0612d1efbdf4caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation[^key-3e969aed04ce5cf0a0612d1efbdf4caf]
+## 3. Designation[^c-3e969aed04ce5cf0a0612d1efbdf4caf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e969aed04ce5cf0a0612d1efbdf4caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e969aed04ce5cf0a0612d1efbdf4caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e969aed04ce5cf0a0612d1efbdf4caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e969aed04ce5cf0a0612d1efbdf4caf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e969aed04ce5cf0a0612d1efbdf4caf]: Textual amendment: Order revoked (10.2.2013) by [The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2013 (S.I. 2013/123)](https://www.legislation.gov.uk/uksi/2013/123), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/123/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/123/article/3)
+[^c-3e969aed04ce5cf0a0612d1efbdf4caf]: Textual amendment: Order revoked (10.2.2013) by [The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2013 (S.I. 2013/123)](https://www.legislation.gov.uk/uksi/2013/123), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/123/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/123/article/3)

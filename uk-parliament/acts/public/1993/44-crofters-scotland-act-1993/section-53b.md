@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53B. Access to croft[^key-4ced30e597fc3ddb25a0a3f54e82b89d]
+## 53B. Access to croft[^c-4ced30e597fc3ddb25a0a3f54e82b89d]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ the crofter may make application to the Land Court for an order under subsection
 
 ## Annotations
 
-[^key-4ced30e597fc3ddb25a0a3f54e82b89d]: Textual amendment: S. 53B inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 19](https://www.legislation.gov.uk/asp/2007/7/section/19), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-4ced30e597fc3ddb25a0a3f54e82b89d]: Textual amendment: S. 53B inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 19](https://www.legislation.gov.uk/asp/2007/7/section/19), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)

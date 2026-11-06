@@ -32,21 +32,21 @@ substitute—
 > | *Proceedings* | *Time* |
 > | --- | --- |
 > | Publication of notice of election | Not later than the twenty-fifth day before the day of election. |
-> | Delivery of nomination papers | Not later than 4 in the afternoon[^key-617d358d7bf9742697b4c88db0231e4e] on the nineteenth day before the day of election. |
-> | Delivery of notices of withdrawals of candidature[^key-491ef388819ef3b4142e79a42dfad0ec] | Not later than 4 in the afternoon on the nineteenth day before the day of election |
-> | Publication of statement as to persons nominated | Not later than 4 in the afternoon[^key-84635b2b3a954c39c260b833861975a0] on the eighteenth[^key-b2c9d986a98ad2abc7928eba984e64ac] day before the day of election. |
-> | [^key-7968a483f25eed24e3d6397eb8b4feac]. . . | [^key-7968a483f25eed24e3d6397eb8b4feac]. . . |
+> | Delivery of nomination papers | Not later than 4 in the afternoon[^c-617d358d7bf9742697b4c88db0231e4e] on the nineteenth day before the day of election. |
+> | Delivery of notices of withdrawals of candidature[^c-491ef388819ef3b4142e79a42dfad0ec] | Not later than 4 in the afternoon on the nineteenth day before the day of election |
+> | Publication of statement as to persons nominated | Not later than 4 in the afternoon[^c-84635b2b3a954c39c260b833861975a0] on the eighteenth[^c-b2c9d986a98ad2abc7928eba984e64ac] day before the day of election. |
+> | [^c-7968a483f25eed24e3d6397eb8b4feac]. . . | [^c-7968a483f25eed24e3d6397eb8b4feac]. . . |
 > | Notice of poll | Not later than the sixth day before the day of election. |
 > | Polling | Between the hours of 7 in the morning and 10 at night on the day of election. |
 
 ## Annotations
 
-[^key-617d358d7bf9742697b4c88db0231e4e]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/a)
+[^c-617d358d7bf9742697b4c88db0231e4e]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/a)
 
-[^key-491ef388819ef3b4142e79a42dfad0ec]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/b)
+[^c-491ef388819ef3b4142e79a42dfad0ec]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/b)
 
-[^key-84635b2b3a954c39c260b833861975a0]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(c)(i)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/c/i)
+[^c-84635b2b3a954c39c260b833861975a0]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(c)(i)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/c/i)
 
-[^key-b2c9d986a98ad2abc7928eba984e64ac]: Textual amendment: Word in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/c/ii)
+[^c-b2c9d986a98ad2abc7928eba984e64ac]: Textual amendment: Word in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/c/ii)
 
-[^key-7968a483f25eed24e3d6397eb8b4feac]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(d)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/d)
+[^c-7968a483f25eed24e3d6397eb8b4feac]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2007/3541/rule/7) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(1)(d)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/1/d)

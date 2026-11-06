@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Fees for planning applications etc[^key-344451f447f3445ab062b884ef40fdcf]
+## 51. Fees for planning applications etc[^c-344451f447f3445ab062b884ef40fdcf]
 
 *Extent: E+W*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-344451f447f3445ab062b884ef40fdcf]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 118(2)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/a)
+[^c-344451f447f3445ab062b884ef40fdcf]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 118(2)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/a)

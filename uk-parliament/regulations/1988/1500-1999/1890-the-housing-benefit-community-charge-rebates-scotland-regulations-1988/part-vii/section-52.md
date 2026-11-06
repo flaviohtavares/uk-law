@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Date on which entitlement is to begin[^key-10d8f5209f6baacbf44dcd01756aef1d]
+## 52. Date on which entitlement is to begin[^c-10d8f5209f6baacbf44dcd01756aef1d]
 
 *Extent: E+W+S*
 
 (1) Subject to paragraphs (2) and (3) and to regulation 59(15) to (17) (renewal claims) any person by whom or in respect of whom a claim for housing benefit is made and who is otherwise entitled to that benefit shall be so entitled from the benefit week following the date on which that claim is made or is treated as made.
 
-(2)[^key-351564c4a4cac46e0f12d28d41bd296f] Where a person, who is otherwise entitled to housing benefit,
+(2)[^c-351564c4a4cac46e0f12d28d41bd296f] Where a person, who is otherwise entitled to housing benefit,
 
 - (a) becomes liable for an appropriate authority’s personal community charge on a day prior to which he was not liable for that charge or for a collective community charge contribution in the area of that authority, or
 - (b) ceases to be a registered student,
@@ -40,6 +40,6 @@ if his claim for housing benefit is made or is treated as made in the benefit we
 
 ## Annotations
 
-[^key-10d8f5209f6baacbf44dcd01756aef1d]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1988/1890/regulation/52) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-10d8f5209f6baacbf44dcd01756aef1d]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1988/1890/regulation/52) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-351564c4a4cac46e0f12d28d41bd296f]: Textual amendment: [Reg. 52(2)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/52/2)[(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/52/3) substituted (10.7.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment (No. 2) Regulations 1989 (S.I. 1989/972)](https://www.legislation.gov.uk/uksi/1989/972), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/972/regulation/1/1/a), [3](https://www.legislation.gov.uk/uksi/1989/972/regulation/3)
+[^c-351564c4a4cac46e0f12d28d41bd296f]: Textual amendment: [Reg. 52(2)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/52/2)[(3)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/52/3) substituted (10.7.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment (No. 2) Regulations 1989 (S.I. 1989/972)](https://www.legislation.gov.uk/uksi/1989/972), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/972/regulation/1/1/a), [3](https://www.legislation.gov.uk/uksi/1989/972/regulation/3)

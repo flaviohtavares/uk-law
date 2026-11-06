@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Legal services[^key-e6e5c24ec4eec459c09518a8c226f1a0]
+## 3. Legal services[^c-e6e5c24ec4eec459c09518a8c226f1a0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6e5c24ec4eec459c09518a8c226f1a0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/16/section/3) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-e6e5c24ec4eec459c09518a8c226f1a0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/16/section/3) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

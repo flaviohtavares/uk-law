@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any question of disputed compensation under this Part of this Act shall be referred to and determined by the Upper Tribunal[^key-edcfd205c12a5b9481c3bd58a7fb4cde] [^c776125]
+(1) Any question of disputed compensation under this Part of this Act shall be referred to and determined by the Upper Tribunal[^c-edcfd205c12a5b9481c3bd58a7fb4cde] [^c776125]
 
 (2) No such question arising out of a claim made before the first claim day[^c776126] shall be referred to The Tribunal[^c776127] before that day.
 
 ## Annotations
 
-[^key-edcfd205c12a5b9481c3bd58a7fb4cde]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/16/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/103) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-edcfd205c12a5b9481c3bd58a7fb4cde]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/16/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/103) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c776125]: Textual amendment: Words repealed by [Land Compensation (Scotland) Act 1973 (c. 56)](https://www.legislation.gov.uk/ukpga/1973/56), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1973/56/schedule/2/part/I)
 

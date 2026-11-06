@@ -32,7 +32,7 @@ summary: ''
 - (c) to a defence of automatism or coercion;
 - (d) in a prosecution for an offence to which section 288C of this Act applies, to a defence of consent.
 
-(2A)[^key-ae2b91af33664192c2845322a440b36c] Subsection (1) does not apply where—
+(2A)[^c-ae2b91af33664192c2845322a440b36c] Subsection (1) does not apply where—
 
 - (a) the accused lodges a defence statement under section 125 of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13),
 - (b) the statement is lodged—
@@ -67,4 +67,4 @@ together with the particulars mentioned in subsection (6) below.
 
 [^c19931661]: Textual amendment: S. 149B substituted (10.12.2007) for ss. 149, 149A by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 19](https://www.legislation.gov.uk/asp/2007/6/section/19), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1) , [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (subject to [art. 7](https://www.legislation.gov.uk/ssi/2007/479/article/7)) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-ae2b91af33664192c2845322a440b36c]: Textual amendment: S. 149B(2A) inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 125(7)](https://www.legislation.gov.uk/asp/2010/13/section/125/7), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) (with [s. 125(1)](https://www.legislation.gov.uk/asp/2010/13/section/125/1)); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ae2b91af33664192c2845322a440b36c]: Textual amendment: S. 149B(2A) inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 125(7)](https://www.legislation.gov.uk/asp/2010/13/section/125/7), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) (with [s. 125(1)](https://www.legislation.gov.uk/asp/2010/13/section/125/1)); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

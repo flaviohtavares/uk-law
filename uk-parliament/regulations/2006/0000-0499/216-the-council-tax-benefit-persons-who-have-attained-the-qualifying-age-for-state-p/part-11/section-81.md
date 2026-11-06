@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 81. Information to be supplied by an authority to another authority[^key-0f238f395d6941b4298f2c07cf3a3f28]
+## 81. Information to be supplied by an authority to another authority[^c-0f238f395d6941b4298f2c07cf3a3f28]
 
 (1) This regulation applies for the purposes of section 128A of the Administration Act [^c1541630](duty of an authority to disclose information to another authority).
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f238f395d6941b4298f2c07cf3a3f28]: Textual amendment: Reg. 81 82 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/10/3)
+[^c-0f238f395d6941b4298f2c07cf3a3f28]: Textual amendment: Reg. 81 82 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/10/3)
 
 [^c1541630]: Marginal citation: Inserted by the [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [section 28(2)](https://www.legislation.gov.uk/ukpga/1995/18/section/28/2)

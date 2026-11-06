@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Criminal investigations into foreign power threat activity[^key-90f023aa0ce009ec3eaac3d785a29c50][^key-5b3eda5f428b47781e4a968fd7dd7fe1]
+## 46. Criminal investigations into foreign power threat activity[^c-90f023aa0ce009ec3eaac3d785a29c50][^c-5b3eda5f428b47781e4a968fd7dd7fe1]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90f023aa0ce009ec3eaac3d785a29c50]: Commencement: S. 46 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-90f023aa0ce009ec3eaac3d785a29c50]: Commencement: S. 46 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-5b3eda5f428b47781e4a968fd7dd7fe1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/32/section/46) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-5b3eda5f428b47781e4a968fd7dd7fe1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/32/section/46) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

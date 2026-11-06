@@ -32,7 +32,7 @@ summary: ''
 
 Police
 
-The Police Act 1997 (Alteration of the Meaning of Suitability Information relating to Children and Protected Adults) (Scotland) (No. 2) Order 2010 (revoked)[^key-1a0adce4c80e4716abedcc0049e4f1e8]
+The Police Act 1997 (Alteration of the Meaning of Suitability Information relating to Children and Protected Adults) (Scotland) (No. 2) Order 2010 (revoked)[^c-1a0adce4c80e4716abedcc0049e4f1e8]
 
 Made
 
@@ -44,28 +44,28 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1(1)
 
-[^key-1a0adce4c80e4716abedcc0049e4f1e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a0adce4c80e4716abedcc0049e4f1e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1a0adce4c80e4716abedcc0049e4f1e8]
+## 1. Citation and commencement[^c-1a0adce4c80e4716abedcc0049e4f1e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Alteration of the meaning of suitability information relating to children[^key-1a0adce4c80e4716abedcc0049e4f1e8]
+## 2. Alteration of the meaning of suitability information relating to children[^c-1a0adce4c80e4716abedcc0049e4f1e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Alteration of the meaning of suitability information relating to protected adults[^key-1a0adce4c80e4716abedcc0049e4f1e8]
+## 3. Alteration of the meaning of suitability information relating to protected adults[^c-1a0adce4c80e4716abedcc0049e4f1e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a0adce4c80e4716abedcc0049e4f1e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a0adce4c80e4716abedcc0049e4f1e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a0adce4c80e4716abedcc0049e4f1e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a0adce4c80e4716abedcc0049e4f1e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a0adce4c80e4716abedcc0049e4f1e8]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/382) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/12) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-1a0adce4c80e4716abedcc0049e4f1e8]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/382) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/12) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

@@ -38,76 +38,76 @@ on the harmonisation of the 1 427 - 1 517  MHz frequency band for terrestrial s
 
 (Text with EEA relevance) (revoked)
 
-[^key-af28bd56242949952dc4dfbc9662d2b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af28bd56242949952dc4dfbc9662d2b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2a.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2a.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-af28bd56242949952dc4dfbc9662d2b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 2(1) AND 2(2)[^key-af28bd56242949952dc4dfbc9662d2b3]
+## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 2(1) AND 2(2)[^c-af28bd56242949952dc4dfbc9662d2b3]
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] A.
+[^c-af28bd56242949952dc4dfbc9662d2b3] A.
 
 GENERAL PARAMETERS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] 1.
+[^c-af28bd56242949952dc4dfbc9662d2b3] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] 2.
+[^c-af28bd56242949952dc4dfbc9662d2b3] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] 3.
+[^c-af28bd56242949952dc4dfbc9662d2b3] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] B.
+[^c-af28bd56242949952dc4dfbc9662d2b3] B.
 
 TECHNICAL CONDITIONS FOR BASE STATIONS — BLOCK EDGE MASK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] In-block requirements
+[^c-af28bd56242949952dc4dfbc9662d2b3] In-block requirements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 1
+[^c-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] Out-of-block requirements
+[^c-af28bd56242949952dc4dfbc9662d2b3] Out-of-block requirements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] Coexistence requirements for adjacent bands
+[^c-af28bd56242949952dc4dfbc9662d2b3] Coexistence requirements for adjacent bands
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 3
+[^c-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 4
+[^c-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 5
+[^c-af28bd56242949952dc4dfbc9662d2b3] Explanatory note to Table 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af28bd56242949952dc4dfbc9662d2b3]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af28bd56242949952dc4dfbc9662d2b3]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

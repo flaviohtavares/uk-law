@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Civil function[^key-bf760849e769be5524711b8d97f76d50]
+## 3. Civil function[^c-bf760849e769be5524711b8d97f76d50]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf760849e769be5524711b8d97f76d50]: Commencement: S. 3 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-bf760849e769be5524711b8d97f76d50]: Commencement: S. 3 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

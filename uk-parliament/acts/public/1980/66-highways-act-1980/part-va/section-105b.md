@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105B. Publication of screening decision and environmental statement for projects subject to an environmental impact assessment[^key-d1271d722e7de06e530c94cd095d1392][^key-de2dfd5ab3ce881b21d6c97b4c81189c][^c13422031]
+## 105B. Publication of screening decision and environmental statement for projects subject to an environmental impact assessment[^c-d1271d722e7de06e530c94cd095d1392][^c-de2dfd5ab3ce881b21d6c97b4c81189c][^c13422031]
 
 *Extent: E+W*
 
 (1) This section applies of a project authority considers that a project—
 
-- (a) is of a type specified in[^key-d1b52569b5694b3a42ca925b52bd9001] Annex I, or
-- (b) is a relevant project of a type specified in[^key-b8ba7a838b16ba3fbefb9e1923fbf769] Annex II which should be made subject to an environmental impact assessment.
+- (a) is of a type specified in[^c-d1b52569b5694b3a42ca925b52bd9001] Annex I, or
+- (b) is a relevant project of a type specified in[^c-b8ba7a838b16ba3fbefb9e1923fbf769] Annex II which should be made subject to an environmental impact assessment.
 
 (2) The project authority must, not later than the date when details of the project itself are published—
 
@@ -43,7 +43,7 @@ summary: ''
 - (c) a description of the features of the project or measures envisaged to avoid, prevent or reduce and, if possible, offset any likely significant effects of the project on the environment,
 - (d) a description of the reasonable alternatives studied by the project authority which are relevant to the project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the project on the environment,
 - (e) a non-technical summary of the information mentioned in paragraphs (a) to (d), and
-- (f) any additional information of a type[^key-3a8824595fd14fe60d77103e3b88e846] specified in Annex IV that is relevant to the specific characteristics of the project, or type of project, and to the environmental features likely to be affected.
+- (f) any additional information of a type[^c-3a8824595fd14fe60d77103e3b88e846] specified in Annex IV that is relevant to the specific characteristics of the project, or type of project, and to the environmental features likely to be affected.
 
 (5) The environmental statement must be accompanied by a statement from the project authority setting out the relevant expertise or qualifications of the experts who prepared the environmental statement.
 
@@ -52,7 +52,7 @@ summary: ''
 - (a) that the project authority, as the relevant highway authority, is considering implementing the project;
 - (b) the proposed location and nature of the project;
 - (c) that the project is subject to an environmental impact assessment and, where relevant, that section 105C applies;
-- (d) if the project is a relevant project of a type specified in[^key-dba999311bd4c6c027106f7ee6203df9] Annex II, the reasons for the determination that the project should be made subject to an environmental impact assessment with reference to the selection criteria set out[^key-81c9cbb6bd5321b55dcb1eb6212585e6] in Annex III;
+- (d) if the project is a relevant project of a type specified in[^c-dba999311bd4c6c027106f7ee6203df9] Annex II, the reasons for the determination that the project should be made subject to an environmental impact assessment with reference to the selection criteria set out[^c-81c9cbb6bd5321b55dcb1eb6212585e6] in Annex III;
 - (e) that a copy of the environmental statement may be inspected at an address in the area in which the project is proposed to be situated during the period specified under paragraph (j);
 - (f) the times at which the copy of the environmental statement may be so inspected;
 - (g) an address from which copies of the environmental statement may be obtained and from which further information about the project may be requested during the period specified under paragraph (j);
@@ -76,18 +76,18 @@ summary: ''
 
 ## Annotations
 
-[^key-d1271d722e7de06e530c94cd095d1392]: Modification: Ss. 105A-105C functions exercisable jointly (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/9/2), [10(b)](https://www.legislation.gov.uk/uksi/2018/103/regulation/10/b)
+[^c-d1271d722e7de06e530c94cd095d1392]: Modification: Ss. 105A-105C functions exercisable jointly (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/9/2), [10(b)](https://www.legislation.gov.uk/uksi/2018/103/regulation/10/b)
 
-[^key-de2dfd5ab3ce881b21d6c97b4c81189c]: Textual amendment: Ss. 105B-105BA substituted for s. 105B (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/4) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
+[^c-de2dfd5ab3ce881b21d6c97b4c81189c]: Textual amendment: Ss. 105B-105BA substituted for s. 105B (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/4) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
 
 [^c13422031]: Textual amendment: Pt. VA substituted (13.3.1999) by [S.I. 1999/369](https://www.legislation.gov.uk/uksi/1999/369), [reg.2](https://www.legislation.gov.uk/uksi/1999/369/regulation/2)
 
-[^key-d1b52569b5694b3a42ca925b52bd9001]: Textual amendment: Words in [s. 105B(1)(a)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/1/a) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/a)
+[^c-d1b52569b5694b3a42ca925b52bd9001]: Textual amendment: Words in [s. 105B(1)(a)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/1/a) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/a)
 
-[^key-b8ba7a838b16ba3fbefb9e1923fbf769]: Textual amendment: Words in [s. 105B(1)(b)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/1/b) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/b)
+[^c-b8ba7a838b16ba3fbefb9e1923fbf769]: Textual amendment: Words in [s. 105B(1)(b)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/1/b) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/b)
 
-[^key-3a8824595fd14fe60d77103e3b88e846]: Textual amendment: Words in [s. 105B(4)(f)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/4/f) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/c)
+[^c-3a8824595fd14fe60d77103e3b88e846]: Textual amendment: Words in [s. 105B(4)(f)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/4/f) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/c)
 
-[^key-dba999311bd4c6c027106f7ee6203df9]: Textual amendment: Words in [s. 105B(6)(d)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/6/d) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(d)(i)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/d/i)
+[^c-dba999311bd4c6c027106f7ee6203df9]: Textual amendment: Words in [s. 105B(6)(d)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/6/d) substituted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(d)(i)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/d/i)
 
-[^key-81c9cbb6bd5321b55dcb1eb6212585e6]: Textual amendment: Words in [s. 105B(6)(d)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/6/d) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/d/ii)
+[^c-81c9cbb6bd5321b55dcb1eb6212585e6]: Textual amendment: Words in [s. 105B(6)(d)](https://www.legislation.gov.uk/ukpga/1980/66/section/105B/6/d) inserted (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [3(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/460/regulation/3/7/d/ii)

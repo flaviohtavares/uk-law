@@ -52,11 +52,11 @@ In considering the rate of import duty that ought to apply to goods in a standar
 
 In accordance with section 52(2) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, for these Regulations to come into force on such day as the Treasury may by regulations under section 52 of that Act appoint.
 
-## 1. Citation and commencement[^key-f358c437d52122ef1bfbb0899f844876][^key-a0b94ec09935469edc753ac87ff842fe]
+## 1. Citation and commencement[^c-f358c437d52122ef1bfbb0899f844876][^c-a0b94ec09935469edc753ac87ff842fe]
 
 These Regulations may be cited as the Customs Tariff (Establishment) (EU Exit) (Amendment) (No. 2) Regulations 2021 and come into force on such day as the Treasury may by regulations under section 52 of the Taxation (Cross-border) Trade Act 2018 appoint.
 
-## 2. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^key-9a2106f2092fbf569a3f0a3a42cefb23][^key-80c047d1db82ed8d088415eb80a7f1e8]
+## 2. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^c-9a2106f2092fbf569a3f0a3a42cefb23][^c-80c047d1db82ed8d088415eb80a7f1e8]
 
 In regulation 1(2) of the Customs Tariff (Establishment) (EU Exit) Regulations 2020 [^c24562311], in the definition of “Tariff of the United Kingdom”, for “1.3, dated 27th April 2021”, substitute “ 1.4, dated 28th May 2021 ”[^c24562321] .
 
@@ -84,13 +84,13 @@ There is no significant impact on business, charities or voluntary bodies as a r
 
 [^c24562301]: Marginal citation: “A standard case” is defined by section 8(8) of the Act.
 
-[^key-f358c437d52122ef1bfbb0899f844876]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1)
+[^c-f358c437d52122ef1bfbb0899f844876]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1)
 
-[^key-a0b94ec09935469edc753ac87ff842fe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1) in force at 10.6.2021 by [S.I. 2021/690](https://www.legislation.gov.uk/uksi/2021/690), [reg. 2](https://www.legislation.gov.uk/uksi/2021/690/regulation/2)
+[^c-a0b94ec09935469edc753ac87ff842fe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1) in force at 10.6.2021 by [S.I. 2021/690](https://www.legislation.gov.uk/uksi/2021/690), [reg. 2](https://www.legislation.gov.uk/uksi/2021/690/regulation/2)
 
-[^key-9a2106f2092fbf569a3f0a3a42cefb23]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1)
+[^c-9a2106f2092fbf569a3f0a3a42cefb23]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1)
 
-[^key-80c047d1db82ed8d088415eb80a7f1e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/661/regulation/2) in force at 10.6.2021 by [S.I. 2021/690](https://www.legislation.gov.uk/uksi/2021/690), [reg. 2](https://www.legislation.gov.uk/uksi/2021/690/regulation/2)
+[^c-80c047d1db82ed8d088415eb80a7f1e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/661/regulation/2) in force at 10.6.2021 by [S.I. 2021/690](https://www.legislation.gov.uk/uksi/2021/690), [reg. 2](https://www.legislation.gov.uk/uksi/2021/690/regulation/2)
 
 [^c24562311]: Marginal citation: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430), amended by [S.I. 2021/63](https://www.legislation.gov.uk/uksi/2021/63), [S.I](https://www.legislation.gov.uk/uksi/2021/63/section/I). 2021/380 and [S.I. 2021/520](https://www.legislation.gov.uk/uksi/2021/520).
 

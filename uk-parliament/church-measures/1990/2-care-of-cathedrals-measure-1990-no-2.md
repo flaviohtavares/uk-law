@@ -29,366 +29,366 @@ Care of Cathedrals Measure 1990 (repealed)
 
 1990 No. 2
 
-[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## General principle[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## General principle[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
-### 1. Duty to have regard to cathedral’s purpose.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Approval required for alterations to cathedrals[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-### 2. Approval required for alterations to cathedrals.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 1. Duty to have regard to cathedral’s purpose.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Establishment and functions of the Cathedrals Fabric Commission and fabric advisory committees.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## Approval required for alterations to cathedrals[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
-### 3. The Cathedrals Fabric Commission for England.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Establishment of fabric advisory committees.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 2. Approval required for alterations to cathedrals.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Powers of fabric advisory committee in relation to application of section 2.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## Establishment and functions of the Cathedrals Fabric Commission and fabric advisory committees.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+### 3. The Cathedrals Fabric Commission for England.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Applications for approval[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-### 6. Body to which application for approval to be made.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 4. Establishment of fabric advisory committees.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6A. Treasure[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 5. Powers of fabric advisory committee in relation to application of section 2.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Applications for approval of fabric advisory committee.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## Applications for approval[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+### 6. Body to which application for approval to be made.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Applications for approval of Cathedrals Fabric Commission.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 6A. Treasure[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Appeals[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-### 9. Appeals to Cathedrals Fabric Commission.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 7. Applications for approval of fabric advisory committee.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Commission of Review.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 8. Applications for approval of Cathedrals Fabric Commission.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10A. Conditions applying to approval[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## Appeals[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+### 9. Appeals to Cathedrals Fabric Commission.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10B. Registers of applications[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 10. Commission of Review.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10C. Right of appeal by tenant[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 10A. Conditions applying to approval[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Miscellaneous and general[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-### 11. Further powers of the Cathedrals Fabric Commission.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 10B. Registers of applications[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11A. General duties of approval bodies[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 10C. Right of appeal by tenant[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Provisions as to cathedral architects or surveyors of the fabric and cathedral archaeologists.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## Miscellaneous and general[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+### 11. Further powers of the Cathedrals Fabric Commission.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Inventories, et ceteralaetc.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 11A. General duties of approval bodies[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Reports and inspections by cathedral architects or surveyors of the fabric[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 12. Provisions as to cathedral architects or surveyors of the fabric and cathedral archaeologists.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14A. Reports by cathedral archaeologists[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 13. Inventories, et ceteralaetc.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14B. Maintenance of records[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 14. Reports and inspections by cathedral architects or surveyors of the fabric[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Applications for listed building or scheduled monument consent.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 14A. Reports by cathedral archaeologists[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 14B. Maintenance of records[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Applications for listed building or scheduled monument consent.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-### 17. Saving.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 17. Saving.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Power to exclude parish church cathedrals.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 18. Power to exclude parish church cathedrals.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Notices.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 19. Notices.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Interpretation.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 20. Interpretation.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Short title and commencement.[^key-ecf7e5b8db8cba0d73ba3f979a8d1679][^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### 21. Short title and commencement.[^c-ecf7e5b8db8cba0d73ba3f979a8d1679][^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] SCHEDULES
+[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] SCHEDULES
 
-## SCHEDULE 1 — The Cathedrals Fabric Commission for England[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+## SCHEDULE 1 — The Cathedrals Fabric Commission for England[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 Section 3.
 
-### Membership[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### Membership[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3A.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7A.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7A.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Casual Vacancies[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-**May not be in force at this date. Check the source.**
-
-**8.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Casual Vacancies[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**9.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**10.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Secretary[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+**9.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**11.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Committees[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-**May not be in force at this date. Check the source.**
-
-**12.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Secretary[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**13.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-**May not be in force at this date. Check the source.**
-
-**14.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Committees[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**14A.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**15.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Proceedings[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**16.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**16A.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14A.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**17.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Designated organisations[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+**15.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**18.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Fabric Advisory Committees[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+**May not be in force at this date. Check the source.**
+
+**16A.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+**17.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Designated organisations[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
+
+**May not be in force at this date. Check the source.**
+
+**18.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Fabric Advisory Committees[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 Section 4.
 
-### Membership[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### Membership[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Casual vacancies[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
-
-**May not be in force at this date. Check the source.**
-
-**9.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Procedure[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]
+### Casual vacancies[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**10.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Procedure[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]
 
 **May not be in force at this date. Check the source.**
 
-**11.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**11A.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**12.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11A.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**13.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**14.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**15.**[^key-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+**15.**[^c-ecf7e5b8db8cba0d73ba3f979a8d1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecf7e5b8db8cba0d73ba3f979a8d1679]: Textual amendment: Measure repealed (1.9.2011) by [Care of Cathedrals Measure 2011 (No. 1)](https://www.legislation.gov.uk/ukcm/2011/1), [s. 34(2)](https://www.legislation.gov.uk/ukcm/2011/1/section/34/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2011/1/schedule/3) (with [s. 31](https://www.legislation.gov.uk/ukcm/2011/1/section/31)); [2011 No. 2](https://www.legislation.gov.uk/ukci/2011/2), [art. 2](https://www.legislation.gov.uk/ukci/2011/2/article/2)
+[^c-ecf7e5b8db8cba0d73ba3f979a8d1679]: Textual amendment: Measure repealed (1.9.2011) by [Care of Cathedrals Measure 2011 (No. 1)](https://www.legislation.gov.uk/ukcm/2011/1), [s. 34(2)](https://www.legislation.gov.uk/ukcm/2011/1/section/34/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2011/1/schedule/3) (with [s. 31](https://www.legislation.gov.uk/ukcm/2011/1/section/31)); [2011 No. 2](https://www.legislation.gov.uk/ukci/2011/2), [art. 2](https://www.legislation.gov.uk/ukci/2011/2/article/2)

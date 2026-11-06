@@ -46,13 +46,13 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 A draft of this instrument was laid before and approved by a resolution of each House of Parliament in accordance with section 52(2) of the Child Support Act 1991[^f00003] and section 55(5) of the Child Maintenance and Other Payments Act 2008[^f00004].
 
-## 1. Citation, commencement and cessation[^key-7ae4a79c609f8c3de3b1c2c040526427]
+## 1. Citation, commencement and cessation[^c-7ae4a79c609f8c3de3b1c2c040526427]
 
 (1) These Regulations may be cited as the Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 and come into force on 23rd May 2016.
 
 (2) Regulations 2(2)(b) and 3 cease to have effect on 22nd May 2021 and the Child Support Fees Regulations 2014[^f00005] apply thereafter as if the amendments made to them by regulation 3 had not been made.
 
-## 2. Modification of the Child Support (Collection and Enforcement) Regulations 1992[^key-6081fbc7b98d4df007f2a97318f4ed7d]
+## 2. Modification of the Child Support (Collection and Enforcement) Regulations 1992[^c-6081fbc7b98d4df007f2a97318f4ed7d]
 
 (1) The Child Support (Collection and Enforcement) Regulations 1992[^f00006] are modified as follows in relation to a case in which liability to pay child support maintenance is calculated in accordance with Part 1 of Schedule 1 (calculation of weekly amount of child support maintenance) to the Child Support Act 1991[^f00007] as amended by paragraph 2 of Schedule 4 (changes to the calculation of maintenance) to the Child Maintenance and Other Payments Act 2008.
 
@@ -61,7 +61,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 - (a) in sub-paragraph (a)—
   - (i) in paragraph (i) after “arrears” there were inserted “or a payment towards an enforcement fee”;
   - (ii) in paragraph (ii) after “maintenance” there were inserted “and, where payable, fees”;
-- (b)[^key-e3c3a7d6b6f0e0448a27b9d00c41c469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e3c3a7d6b6f0e0448a27b9d00c41c469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) there were inserted at the end of sub-paragraph (d)—
 
   > ; or
@@ -83,13 +83,13 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 ## 3. Amendment of the Child Support Fees Regulations 2014
 
-(...)[^key-b38fee82790229f8bab075809abfc2b6][^key-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(...)[^c-b38fee82790229f8bab075809abfc2b6][^c-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b38fee82790229f8bab075809abfc2b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> [^key-b38fee82790229f8bab075809abfc2b6]
+> [^c-b38fee82790229f8bab075809abfc2b6]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,16 +131,16 @@ An impact assessment has not been published for this instrument as it has no imp
 
 [^f00004]: Footnote: Section 55(5) was amended by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
 
-[^key-7ae4a79c609f8c3de3b1c2c040526427]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/439/regulation/1) in force at 23.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)
+[^c-7ae4a79c609f8c3de3b1c2c040526427]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/439/regulation/1) in force at 23.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2014/612](https://www.legislation.gov.uk/uksi/2014/612).
 
-[^key-6081fbc7b98d4df007f2a97318f4ed7d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/439/regulation/2) in force at 23.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)
+[^c-6081fbc7b98d4df007f2a97318f4ed7d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/439/regulation/2) in force at 23.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989). Regulations 25A to 25AD were inserted by [S.I. 2009/1815](https://www.legislation.gov.uk/uksi/2009/1815). References to “the Commission” in these Regulations were replaced with references to “the Secretary of State” by [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007). [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989) was amended by [S.I. 2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) which was amended by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621). The effect of this (insofar as is relevant) is that regulation 2 of [S.I. 2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) modifies [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989) in relation to cases administered under the 2012 scheme of child support.
 
 [^f00007]: Footnote: Part 1 of Schedule 1 to the 1991 Act was substituted by section 1(3) of, and Schedule 1 to, the 2000 Act and amended by Schedule 4 to the 2008 Act.
 
-[^key-e3c3a7d6b6f0e0448a27b9d00c41c469]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/2/b) ceases to have effect by virtue of (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
+[^c-e3c3a7d6b6f0e0448a27b9d00c41c469]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/2/b) ceases to have effect by virtue of (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
 
-[^key-b38fee82790229f8bab075809abfc2b6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/439/regulation/3) ceases to have effect by virtue of (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
+[^c-b38fee82790229f8bab075809abfc2b6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/439/regulation/3) ceases to have effect by virtue of (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)

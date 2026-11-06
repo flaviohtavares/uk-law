@@ -37,8 +37,8 @@ summary: ''
 >
 > (4) An order under this section must include provision for the grant of a new licence to every holder of a licence surrendered (with its counterpart) in pursuance of the order who—
 >
-> - (a) pays such fee (if any) as is specified by the order, [^key-91f918a6d57285754a6093780c872ab1]...
-> - (b) provides the Secretary of State with such evidence or further evidence as the Secretary of State may require (which may include a photograph which is a current likeness of him) and[^key-e9455a5e0873670f8853631cd6a05b7c]
+> - (a) pays such fee (if any) as is specified by the order, [^c-91f918a6d57285754a6093780c872ab1]...
+> - (b) provides the Secretary of State with such evidence or further evidence as the Secretary of State may require (which may include a photograph which is a current likeness of him) and[^c-e9455a5e0873670f8853631cd6a05b7c]
 > - (c) provides such evidence or further evidence as the Secretary of State may require for the purpose of satisfying the Secretary of State that the holder is not suffering from a relevant or prospective disability.
 >
 > (5) A replacement licence granted pursuant to provision made by virtue of subsection (4) above expires on the date on which the surrendered licence would have expired had it not been surrendered (but subject to subsection (6) below).
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91f918a6d57285754a6093780c872ab1]: Textual amendment: Word in s. 39(1) omitted (E.W.S.) (20.4.2012) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/2/paragraph/2/2/a)
+[^c-91f918a6d57285754a6093780c872ab1]: Textual amendment: Word in s. 39(1) omitted (E.W.S.) (20.4.2012) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/2/paragraph/2/2/a)
 
-[^key-e9455a5e0873670f8853631cd6a05b7c]: Textual amendment: Words in s. 39(1) inserted (E.W.S.) (20.4.2012) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/2/paragraph/2/2/b)
+[^c-e9455a5e0873670f8853631cd6a05b7c]: Textual amendment: Words in s. 39(1) inserted (E.W.S.) (20.4.2012) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/2/paragraph/2/2/b)

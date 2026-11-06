@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Application of landlord and tenant law[^key-d8cd846978c246c9eadf17be71c12ac3]
+## 37. Application of landlord and tenant law[^c-d8cd846978c246c9eadf17be71c12ac3]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-d8cd846978c246c9eadf17be71c12ac3]: Commencement: Art. 37 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-d8cd846978c246c9eadf17be71c12ac3]: Commencement: Art. 37 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

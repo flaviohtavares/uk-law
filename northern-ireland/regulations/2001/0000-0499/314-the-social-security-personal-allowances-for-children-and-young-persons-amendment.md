@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 131(1) and 171(1) to (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 6(5) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 2(1) and (2)(*a*) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-31acefe3681a36cc9336e920daa9a9b0]
+## 1. Citation, commencement and interpretation[^c-31acefe3681a36cc9336e920daa9a9b0]
 
 (1) These Regulations may be cited as the Social Security (Personal Allowances for Children and Young Persons Amendment) Regulations (Northern Ireland) 2001 and shall, subject to paragraphs (2) and (3), come into operation on 22nd October 2001.
 
@@ -56,7 +56,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Housing benefit, income support and jobseeker’s allowance: personal allowances in respect of children and young persons[^key-8a4c07b8e8d1705aa3569806fbf7c8bc]
+## 2. Housing benefit, income support and jobseeker’s allowance: personal allowances in respect of children and young persons[^c-8a4c07b8e8d1705aa3569806fbf7c8bc]
 
 (1) In column (2) of the table in each of the provisions specified in paragraph (2) (which specify the personal allowances to be applied in respect of children or young persons when calculating applicable amounts)—
 
@@ -65,7 +65,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) The provisions specified for the purposes of paragraph (1) are—
 
-- (a)[^key-ce1a2e9c19ad835e824e90dd065af740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ce1a2e9c19ad835e824e90dd065af740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 2(1) of Schedule 2 (applicable amounts) to the Income Support Regulations;
 - (c) paragraph 2(1) of Schedule 1 (applicable amounts) to the Jobseeker’s Allowance Regulations.
 
@@ -109,7 +109,7 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-31acefe3681a36cc9336e920daa9a9b0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/314/regulation/1) in operation at 22.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/314/regulation/1/1)
+[^c-31acefe3681a36cc9336e920daa9a9b0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/314/regulation/1) in operation at 22.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/314/regulation/1/1)
 
 [^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -121,6 +121,6 @@ These Regulations do not impose any charge on business.
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8a4c07b8e8d1705aa3569806fbf7c8bc]: Commencement: Reg. 2 in operation at 22.10.2001 with effect in accordance with reg. 1(2)(3)
+[^c-8a4c07b8e8d1705aa3569806fbf7c8bc]: Commencement: Reg. 2 in operation at 22.10.2001 with effect in accordance with reg. 1(2)(3)
 
-[^key-ce1a2e9c19ad835e824e90dd065af740]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/314/regulation/2/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-ce1a2e9c19ad835e824e90dd065af740]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/314/regulation/2/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

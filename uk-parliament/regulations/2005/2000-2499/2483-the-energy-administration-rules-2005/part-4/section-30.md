@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Minutes[^key-68fb47585892f4fb133223650662ffec]
+## 30. Minutes[^c-68fb47585892f4fb133223650662ffec]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68fb47585892f4fb133223650662ffec]: Commencement: Rule 30 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-68fb47585892f4fb133223650662ffec]: Commencement: Rule 30 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

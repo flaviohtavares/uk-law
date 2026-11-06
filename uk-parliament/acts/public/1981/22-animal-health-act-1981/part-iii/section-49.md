@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Enforcement and interpretation.[^key-22893f74ef936b48202c6f36b3fb7b46]
+## 49. Enforcement and interpretation.[^c-22893f74ef936b48202c6f36b3fb7b46]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22893f74ef936b48202c6f36b3fb7b46]: Textual amendment: [Ss. 40-49](https://www.legislation.gov.uk/ukpga/1981/22/section/40) omitted (22.7.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 5(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/a), [7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2); [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2); [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/b); [S.I. 2024/689](https://www.legislation.gov.uk/uksi/2024/689), [reg. 2](https://www.legislation.gov.uk/uksi/2024/689/regulation/2)
+[^c-22893f74ef936b48202c6f36b3fb7b46]: Textual amendment: [Ss. 40-49](https://www.legislation.gov.uk/ukpga/1981/22/section/40) omitted (22.7.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 5(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/a), [7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2); [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2); [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/b); [S.I. 2024/689](https://www.legislation.gov.uk/uksi/2024/689), [reg. 2](https://www.legislation.gov.uk/uksi/2024/689/regulation/2)

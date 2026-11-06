@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33D. Qualifying Northern Ireland Goods[^key-2cb7a1180cf49e3321c343f8678c379e]
+## 33D. Qualifying Northern Ireland Goods[^c-2cb7a1180cf49e3321c343f8678c379e]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
   - (ii) the manufacturer has drawn up the technical documentation; and
   - (iii) the regulated measuring instrument bears the CE marking.
 
-(3A)[^key-51bb6d18cb100f54048c7022acfc44b7] After a regulated measuring instrument has been placed on the market pursuant to this regulation, regulations 72 and 73 are to be read in relation to that instrument subject to the following modifications—
+(3A)[^c-51bb6d18cb100f54048c7022acfc44b7] After a regulated measuring instrument has been placed on the market pursuant to this regulation, regulations 72 and 73 are to be read in relation to that instrument subject to the following modifications—
 
 - (a) the reference in regulation 72(2)(a) to “UK marking” is to be read as a reference to the CE marking, within the meaning of regulation 2(1) as it applies in Northern Ireland;
 - (b) the reference in regulation 72(2)(b) to “M marking”, is to be read as a reference to the M Marking as defined in regulation 2(1) as it applies in Northern Ireland;
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2cb7a1180cf49e3321c343f8678c379e]: Textual amendment: Regs. 33A-33D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 18](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/18) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 19(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/19/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cb7a1180cf49e3321c343f8678c379e]: Textual amendment: Regs. 33A-33D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 18](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/18) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 19(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/19/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-51bb6d18cb100f54048c7022acfc44b7]: Textual amendment: [Reg. 33D(3A)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/33D/3A) inserted (E.W.S) (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/12/4)
+[^c-51bb6d18cb100f54048c7022acfc44b7]: Textual amendment: [Reg. 33D(3A)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/33D/3A) inserted (E.W.S) (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/12/4)

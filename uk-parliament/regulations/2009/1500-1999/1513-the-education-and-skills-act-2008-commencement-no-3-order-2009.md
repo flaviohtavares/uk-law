@@ -37,19 +37,19 @@ Made
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 173 of the Education and Skills Act 2008[^f00001]:
 
-## 1. Citation and interpretation[^key-4df5a82a247fd855d48a920612ea1bd8]
+## 1. Citation and interpretation[^c-4df5a82a247fd855d48a920612ea1bd8]
 
 (1) This Order may be cited as the Education and Skills Act 2008 (Commencement No. 3) Order 2009.
 
 (2) In this Order “the Act” means the Education and Skills Act 2008.
 
-## 2. Provisions coming into force on 19th June 2009[^key-9617d538a451189e2f5c353ee3a45147]
+## 2. Provisions coming into force on 19th June 2009[^c-9617d538a451189e2f5c353ee3a45147]
 
 (1) Section 86 of the Act (learning aims for persons aged 19 and over) comes into force on 19th June 2009 for the purposes of exercising any power to make subordinate legislation conferred by section 4A, 4B or 4C of, or Schedule 1A to, the Learning and Skills Act 2000[^f00002].
 
 (2) Chapter 1 of Part 4 of the Act (regulation and inspection of independent educational institutions in England) comes into force on 19th June 2009 for the purposes of making regulations.
 
-## 2A. Transitory provisions[^key-c60163d4df80cdbd88d0916129823dc7]
+## 2A. Transitory provisions[^c-c60163d4df80cdbd88d0916129823dc7]
 
 (1) Section 111 of the Act has effect, during the period before sections 108 and 109 of the Act come into force for all purposes in relation to independent schools, subject to the modifications in paragraphs (2) to (5).
 
@@ -66,7 +66,7 @@ The Secretary of State for Children, Schools and Families makes the following Or
 
 (6) In this article “the 2002 Act” means the Education Act 2002.
 
-## 3. Provisions coming into force on 1st September 2009[^key-1a851ab515fbc43a8049a2b493a29cf5]
+## 3. Provisions coming into force on 1st September 2009[^c-1a851ab515fbc43a8049a2b493a29cf5]
 
 The following provisions of the Act come into force on 1st September 2009—
 
@@ -127,14 +127,14 @@ The following provisions of the Act have been brought into force in England by c
 
 [^f00001]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
 
-[^key-4df5a82a247fd855d48a920612ea1bd8]: Commencement: Art. 1 in force at made date
+[^c-4df5a82a247fd855d48a920612ea1bd8]: Commencement: Art. 1 in force at made date
 
-[^key-9617d538a451189e2f5c353ee3a45147]: Commencement: Art. 2 in force at made date
+[^c-9617d538a451189e2f5c353ee3a45147]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21); sections 4A, 4B and 4C and Schedule 1A are inserted by section 86 of the Education and Skills Act 2008.
 
-[^key-c60163d4df80cdbd88d0916129823dc7]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2009/1513/article/2A) inserted (1.7.2009) by [The Education and Skills Act 2008 (Commencement No. 4, Commencement No. 3 (Amendment), Transitory and Saving Provisions) Order 2009 (S.I. 2009/1606)](https://www.legislation.gov.uk/uksi/2009/1606), [art. 7(2)](https://www.legislation.gov.uk/uksi/2009/1606/article/7/2)
+[^c-c60163d4df80cdbd88d0916129823dc7]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2009/1513/article/2A) inserted (1.7.2009) by [The Education and Skills Act 2008 (Commencement No. 4, Commencement No. 3 (Amendment), Transitory and Saving Provisions) Order 2009 (S.I. 2009/1606)](https://www.legislation.gov.uk/uksi/2009/1606), [art. 7(2)](https://www.legislation.gov.uk/uksi/2009/1606/article/7/2)
 
-[^key-1a851ab515fbc43a8049a2b493a29cf5]: Commencement: Art. 3 in force at made date
+[^c-1a851ab515fbc43a8049a2b493a29cf5]: Commencement: Art. 3 in force at made date
 
 [^f00003]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29A. Appeals and removals: application of sections 18 to 20[^key-89ccd5125ecc7f42260e68f253692e7d]
+## 29A. Appeals and removals: application of sections 18 to 20[^c-89ccd5125ecc7f42260e68f253692e7d]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89ccd5125ecc7f42260e68f253692e7d]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/asp/2007/14/section/29A) and cross-heading inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 85(3)](https://www.legislation.gov.uk/asp/2020/13/section/85/3), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))
+[^c-89ccd5125ecc7f42260e68f253692e7d]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/asp/2007/14/section/29A) and cross-heading inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 85(3)](https://www.legislation.gov.uk/asp/2020/13/section/85/3), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))

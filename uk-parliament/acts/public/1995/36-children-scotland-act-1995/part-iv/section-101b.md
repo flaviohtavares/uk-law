@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101B. Register of curators ad litem for the purposes of section 11D[^key-240b82b6489fa575561852e812b2b142]
+## 101B. Register of curators ad litem for the purposes of section 11D[^c-240b82b6489fa575561852e812b2b142]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-240b82b6489fa575561852e812b2b142]: Textual amendment: S. 101B inserted (25.10.2021 for specified purposes) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 17(3)](https://www.legislation.gov.uk/asp/2020/16/section/17/3), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/d)
+[^c-240b82b6489fa575561852e812b2b142]: Textual amendment: S. 101B inserted (25.10.2021 for specified purposes) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 17(3)](https://www.legislation.gov.uk/asp/2020/16/section/17/3), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/d)

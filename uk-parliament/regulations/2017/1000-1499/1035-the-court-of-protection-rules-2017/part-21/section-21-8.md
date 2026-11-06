@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.8. Hearings and judgments in contempt proceedings[^key-d301ac6fb80ebdbaa10b54f971c927c8]
+## 21.8. Hearings and judgments in contempt proceedings[^c-d301ac6fb80ebdbaa10b54f971c927c8]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 - (f) it involves uncontentious matters arising in the administration of the affairs of P or in the administration of P’s estate; or
 - (g) the court for any other reason considers this to be necessary to secure the proper administration of justice.
 
-(5) Subject to paragraph (11), the court may[^key-16bcc5b21cd9a43f749d6759b35c5915] order that the identity of any person[^key-9e2f6d0dc9df1453d7c7c94ff7fc5b98] shall not be disclosed if, and only if, it considers non-disclosure necessary to secure the proper administration of justice and in order to protect the interests of that person or any other person[^key-e3ea21021583bd05e80c9a7e39bd0e92].
+(5) Subject to paragraph (11), the court may[^c-16bcc5b21cd9a43f749d6759b35c5915] order that the identity of any person[^c-9e2f6d0dc9df1453d7c7c94ff7fc5b98] shall not be disclosed if, and only if, it considers non-disclosure necessary to secure the proper administration of justice and in order to protect the interests of that person or any other person[^c-e3ea21021583bd05e80c9a7e39bd0e92].
 
 (6) Unless and to the extent that the court otherwise directs, where the court acts under paragraph (4) or (5), a copy of the court’s order shall be published on the website of the Judiciary of England and Wales (which may be found at www.judiciary.uk). Any person who is not a party to the proceedings may apply to attend the hearing and make submissions or apply to set aside or vary the order.
 
@@ -50,22 +50,22 @@ summary: ''
 
 (11) At the conclusion of the hearing, whether or not held in private, the court shall sit in public to give a reasoned public judgment stating its findings and any punishment.
 
-(11A)[^key-87cc415e54cab6ff8b9b4d2a5683b516] If a committal order is made, it must name the defendant.
+(11A)[^c-87cc415e54cab6ff8b9b4d2a5683b516] If a committal order is made, it must name the defendant.
 
 (12) The court shall inform the defendant of the right to appeal without permission, the time limit for appealing and the court before which any appeal must be brought.
 
-(13)[^key-4bbc4c274a8145d5b72af3654151edb5] Where the court makes an order for committal, the court shall ensure that the judgment in the contempt proceedings is transcribed and published on the website of the judiciary of England and Wales.
+(13)[^c-4bbc4c274a8145d5b72af3654151edb5] Where the court makes an order for committal, the court shall ensure that the judgment in the contempt proceedings is transcribed and published on the website of the judiciary of England and Wales.
 
 ## Annotations
 
-[^key-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
+[^c-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
 
-[^key-16bcc5b21cd9a43f749d6759b35c5915]: Textual amendment: Words in rule 21.8(5) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/a/i)
+[^c-16bcc5b21cd9a43f749d6759b35c5915]: Textual amendment: Words in rule 21.8(5) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/a/i)
 
-[^key-9e2f6d0dc9df1453d7c7c94ff7fc5b98]: Textual amendment: Word in rule 21.8(5) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/a/ii/aa)
+[^c-9e2f6d0dc9df1453d7c7c94ff7fc5b98]: Textual amendment: Word in rule 21.8(5) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/a/ii/aa)
 
-[^key-e3ea21021583bd05e80c9a7e39bd0e92]: Textual amendment: Words in rule 21.8(5) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/a/ii/bb)
+[^c-e3ea21021583bd05e80c9a7e39bd0e92]: Textual amendment: Words in rule 21.8(5) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/a/ii/bb)
 
-[^key-87cc415e54cab6ff8b9b4d2a5683b516]: Textual amendment: Rule 21.8(11A) inserted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/b)
+[^c-87cc415e54cab6ff8b9b4d2a5683b516]: Textual amendment: Rule 21.8(11A) inserted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/b)
 
-[^key-4bbc4c274a8145d5b72af3654151edb5]: Textual amendment: Rule 21.8(13) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/c)
+[^c-4bbc4c274a8145d5b72af3654151edb5]: Textual amendment: Rule 21.8(13) substituted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2025/866/rule/6/c)

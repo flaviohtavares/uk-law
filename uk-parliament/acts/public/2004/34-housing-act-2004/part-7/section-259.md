@@ -33,10 +33,10 @@ summary: ''
 - (a) physical violence or mental abuse, or
 - (b) threats of such violence or abuse,
 
-from persons who are or were their spouses or civil partners[^key-1e63b609d62c685f0167bb508c039a94] or with whom they are or were co-habiting.
+from persons who are or were their spouses or civil partners[^c-1e63b609d62c685f0167bb508c039a94] or with whom they are or were co-habiting.
 
 ## Annotations
 
 [^c693774]: Commencement: S. 259 wholly in force at 18.1.2005; s. 259 in force for certain purposes at Royal Assent and in force otherwise at 18.1.2005, see s. 270(2)(b)(3)(a)
 
-[^key-1e63b609d62c685f0167bb508c039a94]: Textual amendment: Words in [s. 259(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/259/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 26(5)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/26/5)
+[^c-1e63b609d62c685f0167bb508c039a94]: Textual amendment: Words in [s. 259(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/259/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 26(5)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/26/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Sustainable procurement duty[^key-17595723d4e3cfb6a1a3e54728e84551]
+## 9. Sustainable procurement duty[^c-17595723d4e3cfb6a1a3e54728e84551]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17595723d4e3cfb6a1a3e54728e84551]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/12/section/9) in force at 1.6.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 4](https://www.legislation.gov.uk/ssi/2016/30/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-17595723d4e3cfb6a1a3e54728e84551]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/12/section/9) in force at 1.6.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 4](https://www.legislation.gov.uk/ssi/2016/30/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

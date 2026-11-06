@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2081/2003
 
 of 27 November 2003 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States (Text with EEA relevance) (revoked)
 
-[^key-ff66356cf0a1445cc151e3f08fa9deee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff66356cf0a1445cc151e3f08fa9deee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ff66356cf0a1445cc151e3f08fa9deee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ff66356cf0a1445cc151e3f08fa9deee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff66356cf0a1445cc151e3f08fa9deee]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/44)
+[^c-ff66356cf0a1445cc151e3f08fa9deee]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/44)

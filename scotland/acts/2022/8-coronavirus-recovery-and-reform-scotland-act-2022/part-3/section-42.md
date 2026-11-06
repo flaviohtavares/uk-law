@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Members of children’s hearings[^key-df91d9c267a970917f72fdf5a7db7e8e]
+## 42. Members of children’s hearings[^c-df91d9c267a970917f72fdf5a7db7e8e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df91d9c267a970917f72fdf5a7db7e8e]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2022/8/section/42) in force at 1.11.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-df91d9c267a970917f72fdf5a7db7e8e]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2022/8/section/42) in force at 1.11.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

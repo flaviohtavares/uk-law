@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143AB. Special provision under section 143A: consultation[^key-7ac5834387d334e4427c2a78d08a9e4b]
+## 143AB. Special provision under section 143A: consultation[^c-7ac5834387d334e4427c2a78d08a9e4b]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ac5834387d334e4427c2a78d08a9e4b]: Textual amendment: Ss. 143AA, 143AB inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2025/5/section/13/3), [17(5)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/b)
+[^c-7ac5834387d334e4427c2a78d08a9e4b]: Textual amendment: Ss. 143AA, 143AB inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2025/5/section/13/3), [17(5)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/b)

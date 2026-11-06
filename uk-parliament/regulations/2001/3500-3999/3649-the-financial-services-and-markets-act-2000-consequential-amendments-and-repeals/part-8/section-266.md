@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 266. Meaning of “legal proceedings”[^key-60a4c74010ef7df616fc907026258691]
+## 266. Meaning of “legal proceedings”[^c-60a4c74010ef7df616fc907026258691]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 10 of the Bankers' Books Evidence Act 1879 (interpretation), in the d
 
 ## Annotations
 
-[^key-60a4c74010ef7df616fc907026258691]: Commencement: Art. 266 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-60a4c74010ef7df616fc907026258691]: Commencement: Art. 266 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00181]: Footnote: Paragraph (c) was substituted by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32) s. 45(1).

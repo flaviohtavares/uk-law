@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Appeals etc relating to universal credit[^key-a6cbffba2307fc10a5f8592a0ce66eda]
+## 13. Appeals etc relating to universal credit[^c-a6cbffba2307fc10a5f8592a0ce66eda]
 
 *Extent: N.I.*
 
@@ -31,14 +31,14 @@ summary: ''
 (2) Subject to paragraph (3), where this regulation applies—
 
 - (a) all awards of a relevant benefit to which the claimant would (were it not for the effect of these Regulations) be entitled are to terminate, by virtue of this regulation, at the beginning of the first day of entitlement to that award; and
-- (b) any legislative provision except regulation 6(2A)[^key-7aa52a3fb7dd287434a111fd7942ed25] under which an award would otherwise terminate on a later date does not apply.
+- (b) any legislative provision except regulation 6(2A)[^c-7aa52a3fb7dd287434a111fd7942ed25] under which an award would otherwise terminate on a later date does not apply.
 
-(3) An award of housing benefit to which a claimant is entitled in respect of specified accommodation or temporary accommodation[^key-2591c8600ade6bfedbefceed8e5da88b] does not terminate by virtue of this regulation.
+(3) An award of housing benefit to which a claimant is entitled in respect of specified accommodation or temporary accommodation[^c-2591c8600ade6bfedbefceed8e5da88b] does not terminate by virtue of this regulation.
 
 ## Annotations
 
-[^key-a6cbffba2307fc10a5f8592a0ce66eda]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/226/regulation/13) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-a6cbffba2307fc10a5f8592a0ce66eda]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/226/regulation/13) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
-[^key-7aa52a3fb7dd287434a111fd7942ed25]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2016/226/regulation/13/2/b) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [9(9)(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/9/9/a)
+[^c-7aa52a3fb7dd287434a111fd7942ed25]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2016/226/regulation/13/2/b) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [9(9)(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/9/9/a)
 
-[^key-2591c8600ade6bfedbefceed8e5da88b]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2016/226/regulation/13/3) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/9/9/b) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-2591c8600ade6bfedbefceed8e5da88b]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2016/226/regulation/13/3) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/9/9/b) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where on an application made by a person entitled to any interest in land used in whole or in part as a site for dwellings[^c19123291][^c15073101] or houses in multiple occupation or both the appropriate tribunal[^key-4c251ba7f76f593876cc587f73bf2812] is satisfied—
+(1) Where on an application made by a person entitled to any interest in land used in whole or in part as a site for dwellings[^c19123291][^c15073101] or houses in multiple occupation or both the appropriate tribunal[^c-4c251ba7f76f593876cc587f73bf2812] is satisfied—
 
 - (a) that the premises on the land are, or are likely to become, dangerous or harmful to health or safety[^c19123551] and the interests of the applicant are thereby prejudiced, or
 - (b) that the applicant should be entrusted with the carrying out of a scheme of improvement or reconstruction approved by the local housing authority,
@@ -41,7 +41,7 @@ the tribunal[^c19122031] may make an order empowering the applicant forthwith to
 
 [^c15073101]: Textual amendment: Words substituted by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 165(1)(b)](https://www.legislation.gov.uk/ukpga/1989/42/section/165/1/b), [Sch. 9 Pt. II para. 38](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/part/II/paragraph/38)
 
-[^key-4c251ba7f76f593876cc587f73bf2812]: Textual amendment: Words in s. 318(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/45) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4c251ba7f76f593876cc587f73bf2812]: Textual amendment: Words in s. 318(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/45) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c19123551]: Textual amendment: Words in s. 318(1)(a) substituted (6.4.2006 for E. and 16.6.2006 for W.) by Housing Act 2004 (c. 34.), ss. 65(1), 270(4)(5), {Sch. 15 para. 25(b)}; [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Disclosing jury's deliberations[^key-fb161589f566b77b8a72e2b886599a54]
+## 74. Disclosing jury's deliberations[^c-fb161589f566b77b8a72e2b886599a54]
 
 *Extent: E+W+S+N.I.*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb161589f566b77b8a72e2b886599a54]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2015/2/section/74) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))
+[^c-fb161589f566b77b8a72e2b886599a54]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2015/2/section/74) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))

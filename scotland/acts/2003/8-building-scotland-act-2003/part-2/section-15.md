@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Building warrants: late applications[^key-c53f4cb2ea7754ba0e15fb0a357128a5]
+## 15. Building warrants: late applications[^c-c53f4cb2ea7754ba0e15fb0a357128a5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where work for which a building warrant is required under section 8 has commence
 
 ## Annotations
 
-[^key-c53f4cb2ea7754ba0e15fb0a357128a5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2003/8/section/15) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-c53f4cb2ea7754ba0e15fb0a357128a5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2003/8/section/15) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

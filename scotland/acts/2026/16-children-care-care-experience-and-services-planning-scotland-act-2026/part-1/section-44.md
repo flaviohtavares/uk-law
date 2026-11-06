@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Role of Principal Reporter and grounds hearing[^key-30e6070ad44a1f06c7ba9388489dfbb1]
+## 44. Role of Principal Reporter and grounds hearing[^c-30e6070ad44a1f06c7ba9388489dfbb1]
 
 *Extent: S*
 
@@ -599,4 +599,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e6070ad44a1f06c7ba9388489dfbb1]: Commencement: S. 44 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-30e6070ad44a1f06c7ba9388489dfbb1]: Commencement: S. 44 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

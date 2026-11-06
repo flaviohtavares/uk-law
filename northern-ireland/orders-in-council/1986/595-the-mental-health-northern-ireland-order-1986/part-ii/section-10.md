@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Disregard of assessment period for certain purposes[^key-53b68a7bef2e06670de5ed723fa16d9d][^key-d0977ad662758e66dbbb395d7542a892][^key-42056f7475fc7e2edadb439c11c20616]
+## 10. Disregard of assessment period for certain purposes[^c-53b68a7bef2e06670de5ed723fa16d9d][^c-d0977ad662758e66dbbb395d7542a892][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -49,8 +49,8 @@ to determine any question affecting the rights, privileges, obligations or liabi
 
 ## Annotations
 
-[^key-53b68a7bef2e06670de5ed723fa16d9d]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1986/595/article/10) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(g)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/g), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-53b68a7bef2e06670de5ed723fa16d9d]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1986/595/article/10) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(g)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/g), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-d0977ad662758e66dbbb395d7542a892]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1986/595/article/10) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(g)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/g), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-d0977ad662758e66dbbb395d7542a892]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1986/595/article/10) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(g)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/g), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

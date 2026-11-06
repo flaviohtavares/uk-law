@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Meaning of “permanent breakdown in health”[^key-c4a0698f6d04095172e485f4fb8e7edc]
+## 54. Meaning of “permanent breakdown in health”[^c-c4a0698f6d04095172e485f4fb8e7edc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter, a member’s breakdown in health is “permane
 
 ## Annotations
 
-[^key-c4a0698f6d04095172e485f4fb8e7edc]: Commencement: Reg. 54 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-c4a0698f6d04095172e485f4fb8e7edc]: Commencement: Reg. 54 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Fees relating to the supply of marked registers and lists[^key-147ee5f3d7261f4ecb8b36727a4d6115]
+## 119. Fees relating to the supply of marked registers and lists[^c-147ee5f3d7261f4ecb8b36727a4d6115]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The formula used for the purpose of calculating the fee that shall be paid to th
 
 ## Annotations
 
-[^key-147ee5f3d7261f4ecb8b36727a4d6115]: Modification: [Reg. 119](https://www.legislation.gov.uk/uksi/2008/1741/regulation/119) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(h)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/h)
+[^c-147ee5f3d7261f4ecb8b36727a4d6115]: Modification: [Reg. 119](https://www.legislation.gov.uk/uksi/2008/1741/regulation/119) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(h)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/h)

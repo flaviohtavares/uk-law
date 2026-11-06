@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13A. Re-instatement of designation[^key-04088ad19ec8ae7ac577291c6dcf2920]
+## 13A. Re-instatement of designation[^c-04088ad19ec8ae7ac577291c6dcf2920]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04088ad19ec8ae7ac577291c6dcf2920]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/ssi/2010/208/regulation/13A) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [13](https://www.legislation.gov.uk/ssi/2019/174/regulation/13)
+[^c-04088ad19ec8ae7ac577291c6dcf2920]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/ssi/2010/208/regulation/13A) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [13](https://www.legislation.gov.uk/ssi/2019/174/regulation/13)

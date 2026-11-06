@@ -35,7 +35,7 @@ An Act to make provision with respect to the transfer of liabilities of certain 
 
 [^c832052][^c832053]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Transfer of residual liabilities: England and Wales.[^key-c17ec1298c46156ffd0d9e02621e9fa6]
+## 1. Transfer of residual liabilities: England and Wales.[^c-c17ec1298c46156ffd0d9e02621e9fa6]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ An Act to make provision with respect to the transfer of liabilities of certain 
 
 *Extent: S*
 
-(1) If a National Health Service trust, a Health Board , a Special Health Board or the Common Services Agency for the Scottish Health Service[^key-f0b871cb4b472c1efff0ad866f44a9f0] ceases to exist, the Secretary of State must exercise his statutory powers to transfer property, rights and liabilities of the body so as to secure that all of its liabilities are dealt with.
+(1) If a National Health Service trust, a Health Board , a Special Health Board or the Common Services Agency for the Scottish Health Service[^c-f0b871cb4b472c1efff0ad866f44a9f0] ceases to exist, the Secretary of State must exercise his statutory powers to transfer property, rights and liabilities of the body so as to secure that all of its liabilities are dealt with.
 
 (2) For the purposes of subsection (1), a liability is dealt with by being transferred to—
 
@@ -76,8 +76,8 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c832060]North
 
 [^c832053]: Commencement: Act wholly in force at Royal Assent
 
-[^key-c17ec1298c46156ffd0d9e02621e9fa6]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/15/section/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-c17ec1298c46156ffd0d9e02621e9fa6]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/15/section/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-f0b871cb4b472c1efff0ad866f44a9f0]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1996/15/section/2/1) substituted (25.7.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 64](https://www.legislation.gov.uk/asp/2014/9/section/64), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/202](https://www.legislation.gov.uk/ssi/2014/202), [art. 2](https://www.legislation.gov.uk/ssi/2014/202/article/2)
+[^c-f0b871cb4b472c1efff0ad866f44a9f0]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1996/15/section/2/1) substituted (25.7.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 64](https://www.legislation.gov.uk/asp/2014/9/section/64), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/202](https://www.legislation.gov.uk/ssi/2014/202), [art. 2](https://www.legislation.gov.uk/ssi/2014/202/article/2)
 
 [^c832060]: Marginal citation: [1974 c.28](https://www.legislation.gov.uk/ukpga/1974/28).

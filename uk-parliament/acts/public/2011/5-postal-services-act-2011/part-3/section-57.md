@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Decisions by OFCOM to impose regulatory conditions, penalties etc[^key-76df6a651597c803073a8b2601e6df6c]
+## 57. Decisions by OFCOM to impose regulatory conditions, penalties etc[^c-76df6a651597c803073a8b2601e6df6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) a decision to give, modify or withdraw a direction, consent or approval that falls within paragraph 2 of Schedule 6,
 - (c) a decision to impose a penalty, or give or modify a direction, under any provision of Schedule 4, 7 or 8,
 - (d) a decision to give or modify a direction under section 89A or 116(2A) of the Postal Services Act 2000 (schemes as to terms and conditions for provision of postal services, and the Postcode Address File), or
-- (e) a decision to give a direction under section 25(5) of the Consumers, Estate Agents and Redress Act 2007 (enforcement of requirements to give information to the Citizens Advice[^key-f57cf1dd3fc049158db0b9dbe3be0a44] etc).
+- (e) a decision to give a direction under section 25(5) of the Consumers, Estate Agents and Redress Act 2007 (enforcement of requirements to give information to the Citizens Advice[^c-f57cf1dd3fc049158db0b9dbe3be0a44] etc).
 
 (2) A person affected by a qualifying decision may appeal against it to the Competition Appeal Tribunal (“the CAT”).
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76df6a651597c803073a8b2601e6df6c]: Commencement: S. 57 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-76df6a651597c803073a8b2601e6df6c]: Commencement: S. 57 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-f57cf1dd3fc049158db0b9dbe3be0a44]: Textual amendment: Words in [s. 57(1)(e)](https://www.legislation.gov.uk/ukpga/2011/5/section/57/1/e) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/13/4) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-f57cf1dd3fc049158db0b9dbe3be0a44]: Textual amendment: Words in [s. 57(1)(e)](https://www.legislation.gov.uk/ukpga/2011/5/section/57/1/e) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/13/4) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))

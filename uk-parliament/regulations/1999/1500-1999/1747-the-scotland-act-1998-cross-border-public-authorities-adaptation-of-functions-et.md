@@ -52,23 +52,23 @@ And whereas it has been recommended to Her Majesty in Council to make this Order
 
 Now therefore, Her Majesty, in exercise of the powers conferred upon Her by sections 89 and 113 of the Scotland Act 1998[^f00002] and of all other powers enabling Her in that behalf, is pleased by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation and commencement[^key-bb92954573db2d839cc060c0578a5925]
+## 1. Citation and commencement[^c-bb92954573db2d839cc060c0578a5925]
 
 This Order may be cited as the Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) Order 1999 and shall come into force on the principal appointed day[^f00003]
 
-## 2. Interpretation[^key-3bec7d895372bd25b77c915bee59cf5e]
+## 2. Interpretation[^c-3bec7d895372bd25b77c915bee59cf5e]
 
 In this Order, “the Act” means the Scotland Act 1998.
 
-## 3. Adaptation of functions etc.[^key-d3ca2e672d1852ea77139294f5e388ca]
+## 3. Adaptation of functions etc.[^c-d3ca2e672d1852ea77139294f5e388ca]
 
-The modifications mentioned in Part II of each of Schedules 2 to 23 to this Order and the provisions set out in Parts III and[^key-0a9d2050e8f553a8fd584a560c2a5ff1] IV of Schedule 16 to this Order, which modifications and provisions relate to the cross-border public authority or authorities mentioned in Part I of each of those Schedules, shall have effect.
+The modifications mentioned in Part II of each of Schedules 2 to 23 to this Order and the provisions set out in Parts III and[^c-0a9d2050e8f553a8fd584a560c2a5ff1] IV of Schedule 16 to this Order, which modifications and provisions relate to the cross-border public authority or authorities mentioned in Part I of each of those Schedules, shall have effect.
 
-## 4. Modification of enactments[^key-98e50cf92551b73bbaf239672e8b29e0]
+## 4. Modification of enactments[^c-98e50cf92551b73bbaf239672e8b29e0]
 
 Sections 118 to 121 of the Act shall apply in relation to any function exercisable by the Scottish Ministers alone by virtue of this Order as they apply in relation to functions of the Scottish Ministers exercisable within devolved competence.
 
-## 5. Transitional and saving provisions[^key-e2427e0a54feb2df585a15ef3d9daac8]
+## 5. Transitional and saving provisions[^c-e2427e0a54feb2df585a15ef3d9daac8]
 
 (1) The transfer, by virtue of this Order of any function exercisable by a Minister of the Crown to the Scottish Ministers shall not affect the validity of anything done (or having effect as if done) by or in relation to a Minister of the Crown before the transfer takes effect.
 
@@ -80,24 +80,24 @@ A. K. Galloway
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — CROSS-BORDER PUBLIC AUTHORITIES[^key-ca91a113f22751b802fc58f8acd95977]
+## SCHEDULE 1 — CROSS-BORDER PUBLIC AUTHORITIES[^c-ca91a113f22751b802fc58f8acd95977]
 
 Preamble
 
-[^key-ca91a113f22751b802fc58f8acd95977]
+[^c-ca91a113f22751b802fc58f8acd95977]
 
-- [^key-8155b8253432c6257f0f1ea7dd0cd4ad]...
+- [^c-8155b8253432c6257f0f1ea7dd0cd4ad]...
 - Advisory Committee on Pesticides[^f00004] Advisory Committee on Releases to the Environment[^f00005] British Potato Council[^f00006] British Wool Marketing Board[^f00007] Chief Commissioner and Commissioners[^f00008] Committee of Investigation for Great Britain[^f00009] Consumers' Committee for Great Britain[^f00010]
 - Controller of Plant Variety Rights[^f00011]
-- [^key-43e9894b9f026831b76a31fd0c84e6fc]...
+- [^c-43e9894b9f026831b76a31fd0c84e6fc]...
 - Criminal Injuries Compensation Appeals Panel[^f00013]
 - Criminal Injuries Compensation Authority[^f00014]
 - Criminal Injuries Compensation Board[^f00015]
-- [^key-ae321d3c6c0946b5ca6bbe6a137c280e]...
-- [^key-7799a662036dd67d5f195a4f2a7db29f]...
+- [^c-ae321d3c6c0946b5ca6bbe6a137c280e]...
+- [^c-7799a662036dd67d5f195a4f2a7db29f]...
 - Home-Grown Cereals Authority[^f00018]
 - Horticultural Development Council[^f00019]
-- [^key-d3b18c292884f662c580180125fdd8cd]...
+- [^c-d3b18c292884f662c580180125fdd8cd]...
 - Meat and Livestock Commission[^f00021]
 - Meat and Livestock Commission’s Consumers Committee[^f00022]
 - Milk Development Council[^f00023]
@@ -106,41 +106,41 @@ Preamble
 - Plant Varieties and Seeds Tribunal[^f00026]
 - Plant Variety Rights Office[^f00027]
 - Police Information Technology Organisation[^f00028]
-- Police Negotiating Board for the United Kingdom *(affected by repeal, see note)*[^key-493a6bfc21f05b101fc8379e743e712c][^f00029]
+- Police Negotiating Board for the United Kingdom *(affected by repeal, see note)*[^c-493a6bfc21f05b101fc8379e743e712c][^f00029]
 - Rail Users' Consultative Committee for Scotland[^f00030]
-- [^key-df1b544410326525787aa7fd2ddc32ad]...
+- [^c-df1b544410326525787aa7fd2ddc32ad]...
 - Sea Fish Industry Authority[^f00032]
 - The Service Authority for the National Criminal Intelligence Service[^f00033]
 
-## SCHEDULE 2 — ADVISORY COMMITTEE ON PESTICIDES[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+## SCHEDULE 2 — ADVISORY COMMITTEE ON PESTICIDES[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
 **No longer in force.**
 
 Article 3
 
-### PART I — APPLICATION AND INTERPRETATION[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+### PART I — APPLICATION AND INTERPRETATION[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
-**1.**[^key-5c4029f54a2c9ab47c8adcafebc7be82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5c4029f54a2c9ab47c8adcafebc7be82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — MODIFICATIONS[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+### PART II — MODIFICATIONS[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
-#### 2. Modification of functions in relation to the Committee[^key-5c4029f54a2c9ab47c8adcafebc7be82]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3.[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+#### 2. Modification of functions in relation to the Committee[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Modification of 1985 Act[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+#### 3.[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Modification of the Order[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+#### 4. Modification of 1985 Act[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Modification of the Regulations[^key-5c4029f54a2c9ab47c8adcafebc7be82]
+#### 5. Modification of the Order[^c-5c4029f54a2c9ab47c8adcafebc7be82]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Modification of the Regulations[^c-5c4029f54a2c9ab47c8adcafebc7be82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -150,16 +150,16 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-e7d8fd6b24262e5b2c8312457bd312ed] This Schedule shall apply to the Advisory Committee on Releases to the Environment.
+**1.**[^c-e7d8fd6b24262e5b2c8312457bd312ed] This Schedule shall apply to the Advisory Committee on Releases to the Environment.
 
-**2.**[^key-3d178bf51bcf7633f8c8ee13d71e49a1] In this Schedule–
+**2.**[^c-3d178bf51bcf7633f8c8ee13d71e49a1] In this Schedule–
 
 - “the 1990 Act” means the Environmental Protection Act 1990[^f00037];
 - “the Committee” means the Advisory Committee on Releases to the Environment established under section 124 of the 1990 Act.
 
 ### PART II — MODIFICATIONS
 
-#### 3. Modification of functions in relation to the Committee[^key-172275e54b7ed6b181eb07470ab3255b]
+#### 3. Modification of functions in relation to the Committee[^c-172275e54b7ed6b181eb07470ab3255b]
 
 (1) Any function which is–
 
@@ -181,7 +181,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-f74068b09cd57b29c5807d873a9e9465] (1) This Schedule shall apply to the British Potato Council.
+**1.**[^c-f74068b09cd57b29c5807d873a9e9465] (1) This Schedule shall apply to the British Potato Council.
 
 (2) In this Schedule–
 
@@ -191,7 +191,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. General modification of functions in relation to the Council[^key-9da9532882ddf0125545bba097ddf2e7]
+#### 2. General modification of functions in relation to the Council[^c-9da9532882ddf0125545bba097ddf2e7]
 
 (1) Any function which is exercisable in relation to the Council by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -204,7 +204,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) This paragraph does not apply to any function to which paragraph 3 applies.
 
-#### 3. Modification of function under the 1947 Act[^key-19ef6a32fff22947ee7dfa1cb61714f5]
+#### 3. Modification of function under the 1947 Act[^c-19ef6a32fff22947ee7dfa1cb61714f5]
 
 (1) This paragraph applies to any function exercisable by a Minister of the Crown under the 1947 Act to modify the principal Order.
 
@@ -218,7 +218,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-557f4eba34e77d621943c2b693e5af0c] (1) This Schedule shall apply to the British Wool Marketing Board.
+**1.**[^c-557f4eba34e77d621943c2b693e5af0c] (1) This Schedule shall apply to the British Wool Marketing Board.
 
 (2) In this Schedule–
 
@@ -228,7 +228,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. General modification of functions[^key-98469f39500c450eee2b9ddb974c0e6d]
+#### 2. General modification of functions[^c-98469f39500c450eee2b9ddb974c0e6d]
 
 (1) Any function which is exercisable in relation to the Board by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -241,7 +241,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) This paragraph does not apply to any function to which paragraph 3 applies.
 
-#### 3. Modification of function under the 1958 Act[^key-7c473b196580aeed0d15e678e9a6414d]
+#### 3. Modification of function under the 1958 Act[^c-7c473b196580aeed0d15e678e9a6414d]
 
 (1) This paragraph applies to any function exercisable by a Minister of the Crown under the 1958 Act to modify the principal Order.
 
@@ -255,19 +255,19 @@ Article 3
 
 ### PART I — APPLICATION
 
-**1.**[^key-7eb43e49062ce67469865a622ead1d7a] This Schedule shall apply to the Chief Commissioner and other Commissioners appointed for the purposes of Part III of the Police Act 1997[^f00042].
+**1.**[^c-7eb43e49062ce67469865a622ead1d7a] This Schedule shall apply to the Chief Commissioner and other Commissioners appointed for the purposes of Part III of the Police Act 1997[^f00042].
 
 ### PART II — MODIFICATIONS
 
-**2.**[^key-06c23b36c8e478dcaf980904842f65c9] (1) Part III of the Police Act 1997 is amended as follows.
+**2.**[^c-06c23b36c8e478dcaf980904842f65c9] (1) Part III of the Police Act 1997 is amended as follows.
 
-(2)[^key-f51f05f56d8d5edde5b7f8fea6e9f0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f51f05f56d8d5edde5b7f8fea6e9f0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 105 (appeals by authorising officers: supplementary), at the end of subsection (1)(b), there is inserted “and the Scottish Ministers”.
 
 (4) In section 106 (appeals by complainants), in subsection (4)(b), after the words “Prime Minister”, there are inserted the words “and to the Scottish Ministers”.
 
-(5)[^key-4ce4a082da9f6ace1a8e2c61b0c2e95a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4ce4a082da9f6ace1a8e2c61b0c2e95a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph 4 of Schedule 7, after “Prime Minister”, there is inserted “and to the Scottish Ministers”.
 
@@ -281,7 +281,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-f6e32325d73e222b395b285a6ea67a0b] (1) This Schedule shall apply to the Committee of Investigation for Great Britain and the Consumers' Committee for Great Britain.
+**1.**[^c-f6e32325d73e222b395b285a6ea67a0b] (1) This Schedule shall apply to the Committee of Investigation for Great Britain and the Consumers' Committee for Great Britain.
 
 (2) In this Schedule–
 
@@ -290,7 +290,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. General modification of functions in relation to the Committees[^key-ca6cbcd47dd9c02d938113919a624469]
+#### 2. General modification of functions in relation to the Committees[^c-ca6cbcd47dd9c02d938113919a624469]
 
 (1) Any function which is exercisable in relation to the Committee by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -303,7 +303,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) This paragraph does not apply to any function to which paragraph 3 applies.
 
-#### 3.[^key-3d0cb639744cd42cf0c1421340883028]
+#### 3.[^c-3d0cb639744cd42cf0c1421340883028]
 
 (1) This paragraph applies to the function of making regulations under section 19(5) of the 1958 Act and to functions of making orders under section 19(6) or (7) of that Act.
 
@@ -323,7 +323,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-18b3eaa20b9053924f89e67ee62d51eb] (1) This Schedule shall apply to the–
+**1.**[^c-18b3eaa20b9053924f89e67ee62d51eb] (1) This Schedule shall apply to the–
 
 - (a) Controller of Plant Variety Rights;
 - (b) Plant Varieties and Seeds Tribunals;
@@ -338,7 +338,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. Modification of functions in relation to the Office, the Controller and the Tribunal[^key-2d89454a2ca033eeedac29d50d56ebbc]
+#### 2. Modification of functions in relation to the Office, the Controller and the Tribunal[^c-2d89454a2ca033eeedac29d50d56ebbc]
 
 (1) Any function which is–
 
@@ -349,7 +349,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (2) This paragraph shall not apply to any function to which paragraph 3 or 4 applies.
 
-#### 3.[^key-7282d4c164a69bb1198fc0a4926fb06d]
+#### 3.[^c-7282d4c164a69bb1198fc0a4926fb06d]
 
 (1) This paragraph applies to any function of making regulations under sections 17(8), 18, 22(2), 24, 26(2), 28, 29, 44 and 48 of the 1997 Act.
 
@@ -357,19 +357,19 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) Any function to which this paragraph applies shall be exercisable only with the consent of the Scottish Ministers, and section 88(2) of the Act shall not apply in relation to any such function.
 
-#### 3A.[^key-147062c477038bd60ab3782e27e56a82]
+#### 3A.[^c-147062c477038bd60ab3782e27e56a82]
 
 (1) This paragraph applies to the function of making orders under paragraph 6(2)(c) of Schedule 2 to the 1997 Act.
 
 (2) The function to which this paragraph applies shall be exercisable only with the consent of the Scottish Ministers, and section of 88(2) of the Act shall not apply in relation to that function.
 
-#### 4.[^key-44de0640d5006115092d9d6ce8662def]
+#### 4.[^c-44de0640d5006115092d9d6ce8662def]
 
 (1) This paragraph applies to the function of making rules under paragraph 13 of Schedule 3 to the 1997 Act.
 
 (2) The function to which this paragraph applies shall be exercisable in relation to Scotland by the Scottish Ministers instead of by the Lord Chancellor, and section 88(2) of the Act shall not apply in relation to any such function.
 
-## SCHEDULE 9[^key-72f469581339eecf67d89d3c0019aa8a]
+## SCHEDULE 9[^c-72f469581339eecf67d89d3c0019aa8a]
 
 COUNCIL ON TRIBUNALS
 
@@ -379,11 +379,11 @@ Article 3
 
 ### PART I — APPLICATION
 
-**1.**[^key-75a784ef796b9b0292fefcdd5fabaacf] This Schedule shall apply to the Council on Tribunals and the Scottish Committee of the Council on Tribunals.
+**1.**[^c-75a784ef796b9b0292fefcdd5fabaacf] This Schedule shall apply to the Council on Tribunals and the Scottish Committee of the Council on Tribunals.
 
 ### PART II — MODIFICATIONS
 
-**2.**[^key-931b6ca662749cf4a3a780eb59625579] (1) The Tribunals and Inquiries Act 1992[^f00045] is amended as follows.
+**2.**[^c-931b6ca662749cf4a3a780eb59625579] (1) The Tribunals and Inquiries Act 1992[^f00045] is amended as follows.
 
 (2) In each of sections 2(1) and (2), 4(1) to (4), (6) and (7) and 5(3)(c), for “Lord Advocate” wherever those words appear there is substituted “Scottish Ministers”.
 
@@ -407,7 +407,7 @@ Article 3
 
 ### PART I — APPLICATION, INTERPRETATION AND TRANSITIONAL PROVISION
 
-**1.**[^key-43adc032aaca3d717af03ca2002d35e0] (1) This Schedule shall apply to the–
+**1.**[^c-43adc032aaca3d717af03ca2002d35e0] (1) This Schedule shall apply to the–
 
 - (a) Criminal Injuries Compensation Appeals Panel;
 - (b) Criminal Injuries Compensation Authority; and
@@ -426,11 +426,11 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53)[^key-1690b7c9046dff9863abec55ef512840]
+#### 2. Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53)[^c-1690b7c9046dff9863abec55ef512840]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Criminal Injuries Compensation Scheme 1990[^key-7adb3cf9ba7a26be9ace2691c024b323]
+#### 3. Criminal Injuries Compensation Scheme 1990[^c-7adb3cf9ba7a26be9ace2691c024b323]
 
 (1) The Criminal Injuries Compensation Scheme 1990 is amended as follows.
 
@@ -445,7 +445,7 @@ Article 3
 - (a) for “Secretary of State for Scotland” there is substituted “Scottish Ministers”; and
 - (b) after “Parliament” there is inserted “and in the Scottish Parliament”.
 
-#### 4. Criminal Injuries Compensation Scheme 1996[^key-a4cd8dc5442e74e84c162d43b176ff93]
+#### 4. Criminal Injuries Compensation Scheme 1996[^c-a4cd8dc5442e74e84c162d43b176ff93]
 
 (1) The Criminal Injuries Compensation Scheme 1996 is amended as follows.
 
@@ -457,37 +457,37 @@ Article 3
 
 .
 
-## SCHEDULE 11 — FOOD FROM BRITAIN[^key-0f568823488fff5eb122d3660ad29878]
+## SCHEDULE 11 — FOOD FROM BRITAIN[^c-0f568823488fff5eb122d3660ad29878]
 
 **No longer in force.**
 
 Article 3
 
-### PART I — APPLICATION AND INTERPRETATION[^key-0f568823488fff5eb122d3660ad29878]
+### PART I — APPLICATION AND INTERPRETATION[^c-0f568823488fff5eb122d3660ad29878]
 
-**1.**[^key-0f568823488fff5eb122d3660ad29878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0f568823488fff5eb122d3660ad29878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0f568823488fff5eb122d3660ad29878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0f568823488fff5eb122d3660ad29878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — MODIFICATIONS[^key-0f568823488fff5eb122d3660ad29878]
+### PART II — MODIFICATIONS[^c-0f568823488fff5eb122d3660ad29878]
 
-#### 3. Modification of functions in relation to Food from Britain[^key-0f568823488fff5eb122d3660ad29878]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4.[^key-0f568823488fff5eb122d3660ad29878]
+#### 3. Modification of functions in relation to Food from Britain[^c-0f568823488fff5eb122d3660ad29878]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Modification of the 1967 Act[^key-0f568823488fff5eb122d3660ad29878]
+#### 4.[^c-0f568823488fff5eb122d3660ad29878]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Modification of the 1983 Act[^key-0f568823488fff5eb122d3660ad29878]
+#### 5. Modification of the 1967 Act[^c-0f568823488fff5eb122d3660ad29878]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 12 — FORESTRY COMMISSIONERS[^key-995706e79efc3d4c2923c97f5cd04d4d]
+#### 6. Modification of the 1983 Act[^c-0f568823488fff5eb122d3660ad29878]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 12 — FORESTRY COMMISSIONERS[^c-995706e79efc3d4c2923c97f5cd04d4d]
 
 **No longer in force.**
 
@@ -529,7 +529,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-dd359ffba7716804f1c50f3f68fef483] (1) This Schedule shall apply to the Home-Grown Cereals Authority.
+**1.**[^c-dd359ffba7716804f1c50f3f68fef483] (1) This Schedule shall apply to the Home-Grown Cereals Authority.
 
 (2) In this Schedule–
 
@@ -540,7 +540,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. General modification of functions in relation to the Authority[^key-3a19cd282b4323df31b6483ea2e1211b]
+#### 2. General modification of functions in relation to the Authority[^c-3a19cd282b4323df31b6483ea2e1211b]
 
 (1) Any function exercisable in relation to the Authority by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -555,7 +555,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (4) This paragraph does not apply to any function to which paragraph 3 applies.
 
-#### 3.[^key-4718cc604a503341d92f552571faad2f]
+#### 3.[^c-4718cc604a503341d92f552571faad2f]
 
 (1) This paragraph applies to functions under sections 7, 13, 16 and 23 of, and Schedule 3 to, the 1965 Act, and section 6 of the 1986 Act.
 
@@ -563,7 +563,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) Any function to which this paragraph applies shall be exercisable only with the consent of the Scottish Ministers, and section 88(2) of the Act shall not apply in relation to any such function.
 
-#### 4. Modification of the 1970 Act[^key-1448279489779adeab6e6f4a4ee3e63e]
+#### 4. Modification of the 1970 Act[^c-1448279489779adeab6e6f4a4ee3e63e]
 
 (1) Without prejudice to the generality of the modifications made by paragraph 2, the consequential modification made by sub-paragraph (2) below shall have effect.
 
@@ -575,7 +575,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-5f4b693208f61e9a96da3a65d40557fc] (1) This Schedule shall apply to the Horticultural Development Council.
+**1.**[^c-5f4b693208f61e9a96da3a65d40557fc] (1) This Schedule shall apply to the Horticultural Development Council.
 
 (2) In this Schedule–
 
@@ -585,7 +585,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. General modification of functions in relation to the Council[^key-a6d62a24205eb8286f651401e0fb2ecb]
+#### 2. General modification of functions in relation to the Council[^c-a6d62a24205eb8286f651401e0fb2ecb]
 
 (1) Any function exercisable in relation to the Council by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -598,7 +598,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) This paragraph does not apply to any function to which paragraph 3 applies.
 
-#### 3. Modification of function under the 1947 Act[^key-617f4f2ae719a35c70a6bdb222a21367]
+#### 3. Modification of function under the 1947 Act[^c-617f4f2ae719a35c70a6bdb222a21367]
 
 (1) This paragraph applies to any function exercisable by a Minister of the Crown under the 1947 Act to modify the principal Order.
 
@@ -606,19 +606,19 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) Any function to which this paragraph applies shall be exercisable only with the consent of the Scottish Ministers, and section 88(2) of the Act shall not apply in relation to any such function.
 
-## SCHEDULE 15 — INTERVENTION BOARD FOR AGRICULTURAL PRODUCE[^key-b7e68305a5ab2e938dd9dcfec88fe231]
+## SCHEDULE 15 — INTERVENTION BOARD FOR AGRICULTURAL PRODUCE[^c-b7e68305a5ab2e938dd9dcfec88fe231]
 
 **No longer in force.**
 
 Article 3
 
-### PART I — APPLICATION AND INTERPRETATION[^key-b7e68305a5ab2e938dd9dcfec88fe231]
+### PART I — APPLICATION AND INTERPRETATION[^c-b7e68305a5ab2e938dd9dcfec88fe231]
 
-**1.**[^key-b7e68305a5ab2e938dd9dcfec88fe231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b7e68305a5ab2e938dd9dcfec88fe231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — MODIFICATIONS[^key-b7e68305a5ab2e938dd9dcfec88fe231]
+### PART II — MODIFICATIONS[^c-b7e68305a5ab2e938dd9dcfec88fe231]
 
-#### 2. Modification of functions in relation to the Board[^key-b7e68305a5ab2e938dd9dcfec88fe231]
+#### 2. Modification of functions in relation to the Board[^c-b7e68305a5ab2e938dd9dcfec88fe231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -632,19 +632,19 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-64891a1f88fea86f809096e58bd897bc] (1) This Schedule shall apply to the Meat and Livestock Commission and the Meat and Livestock Commission’s Consumers Committee.
+**1.**[^c-64891a1f88fea86f809096e58bd897bc] (1) This Schedule shall apply to the Meat and Livestock Commission and the Meat and Livestock Commission’s Consumers Committee.
 
 (2) In this Schedule–
 
 - “the 1967 Act” means the Agriculture Act 1967[^f00062];
-- “the Commission” means the Meat and Livestock Commission established by section 1 of the 1967 Act; [^key-2ea810ac745de6fa8a89f407b58de425]...
+- “the Commission” means the Meat and Livestock Commission established by section 1 of the 1967 Act; [^c-2ea810ac745de6fa8a89f407b58de425]...
 - “the Consumers Committee” means the Meat and Livestock Commission’s Consumers Committee appointed under section 2(1) of the 1967 Act;
-- “levy” means the levy received by[^key-f441dfbbfcb94a252ecada7cced3664e] the Commission under a levy scheme confirmed under section 13 of the 1967 Act; and
+- “levy” means the levy received by[^c-f441dfbbfcb94a252ecada7cced3664e] the Commission under a levy scheme confirmed under section 13 of the 1967 Act; and
 - “the Scottish levy” means that part of the levy which is determined in accordance with paragraph 6(1).
 
 ### PART II — MODIFICATIONS
 
-#### 2. Modification of functions in relation to the Commission and the Consumers Committee[^key-38adae6e2c55f6c0e9f70e4d671eb3c7]
+#### 2. Modification of functions in relation to the Commission and the Consumers Committee[^c-38adae6e2c55f6c0e9f70e4d671eb3c7]
 
 (1) Any function which is exercisable in relation to the Commission or the Consumers Committee by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -657,9 +657,9 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) The exercise by the Scottish Ministers of any function by virtue of sub-paragraph (1) shall not require the approval of a Minister of the Crown.
 
-(4) This paragraph shall not apply to any function to which paragraph 3 applies and shall, with effect from the coming into force date of the Scotland Act 1998 (Cross Border Public Authorities) (Adaptation of Functions[^key-dfa761568d61181575b912fa632a4ef8] etc.) (Amendment) Order 2002, be disapplied to any function to which paragraph 4 or 5 applies.
+(4) This paragraph shall not apply to any function to which paragraph 3 applies and shall, with effect from the coming into force date of the Scotland Act 1998 (Cross Border Public Authorities) (Adaptation of Functions[^c-dfa761568d61181575b912fa632a4ef8] etc.) (Amendment) Order 2002, be disapplied to any function to which paragraph 4 or 5 applies.
 
-#### 3.[^key-8a2f97a12913e51081b1f15f9d7e5564]
+#### 3.[^c-8a2f97a12913e51081b1f15f9d7e5564]
 
 (1) This paragraph applies to any function of making orders under section 6 or 16(1)(b) of the 1967 Act or making schemes under section 9 or 13 of that Act.
 
@@ -667,7 +667,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) Any function to which this paragraph applies shall be exercisable only with the consent of the Scottish Ministers, and section 88(2) of the Act shall not apply in relation to any such function.
 
-**4.**[^key-a7ce7b8545b02e9f919558f3ada15152] (1) This paragraph applies to the function of giving directions to the Commission under section 20 of the 1967 Act in so far as it relates to the use of the Scottish levy.
+**4.**[^c-a7ce7b8545b02e9f919558f3ada15152] (1) This paragraph applies to the function of giving directions to the Commission under section 20 of the 1967 Act in so far as it relates to the use of the Scottish levy.
 
 (2) The function to which this paragraph applies shall be exercisable by the Scottish Ministers acting alone.
 
@@ -675,7 +675,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (2) The function to which this paragraph applies shall be exercisable by the Secretary of State and the National Assembly for Wales acting jointly.
 
-### PART III — THE SCOTTISH LEVY[^key-093ac5be11e167fd463506d4742567f6]
+### PART III — THE SCOTTISH LEVY[^c-093ac5be11e167fd463506d4742567f6]
 
 **6.** (1) The Secretary of State, the National Assembly for Wales and the Scottish Ministers, acting jointly, may from time to time make a determination of the Scottish levy.
 
@@ -693,7 +693,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-a633c7d3dbc88483cfbacbffdf394c74] (1) This Schedule shall apply to the Milk Development Council.
+**1.**[^c-a633c7d3dbc88483cfbacbffdf394c74] (1) This Schedule shall apply to the Milk Development Council.
 
 (2) In this Schedule–
 
@@ -703,7 +703,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. General modification of functions in relation to the Council[^key-47dda0cc82b1e5b6b973a10287db5c03]
+#### 2. General modification of functions in relation to the Council[^c-47dda0cc82b1e5b6b973a10287db5c03]
 
 (1) Any function exercisable in relation to the Council by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -716,7 +716,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) This paragraph does not apply to any function to which paragraph 3 applies.
 
-#### 3. Modification of function under the 1947 Act[^key-32e47bbb4a76f352dd948954e03de406]
+#### 3. Modification of function under the 1947 Act[^c-32e47bbb4a76f352dd948954e03de406]
 
 (1) This paragraph applies to any function exercisable by a Minister of the Crown under the 1947 Act to modify the principal Order.
 
@@ -724,7 +724,7 @@ shall instead be exercisable by the Scottish Ministers and those other Ministers
 
 (3) Any function to which this paragraph applies shall be exercisable only with the consent of the Scottish Ministers, and section 88(2) shall not apply in relation to any such function.
 
-#### 4. Modification of the principal Order[^key-0a0c96ca85f3364d9ee9fcc6055358fc]
+#### 4. Modification of the principal Order[^c-0a0c96ca85f3364d9ee9fcc6055358fc]
 
 (1) Without prejudice to the generality of the modification made by paragraph 2, the consequential modifications to the principal Order made by sub-paragraph (2) shall have effect.
 
@@ -740,11 +740,11 @@ Article 3
 
 ### PART I — APPLICATION
 
-**1.**[^key-3544b0723ff4d1f1ed0f08689d6676b1] This Schedule shall apply to the National Criminal Intelligence Service and the Service Authority for the National Criminal Intelligence Service.
+**1.**[^c-3544b0723ff4d1f1ed0f08689d6676b1] This Schedule shall apply to the National Criminal Intelligence Service and the Service Authority for the National Criminal Intelligence Service.
 
 ### PART II — MODIFICATIONS
 
-**2.**[^key-4e8dd236564512f60f0c276c0d3ec07d] (1) Part I of the Police Act 1997 is amended as follows.
+**2.**[^c-4e8dd236564512f60f0c276c0d3ec07d] (1) Part I of the Police Act 1997 is amended as follows.
 
 (2) In section 1 (the Service Authority for the National Criminal Intelligence Service), in subsection (4)–
 
@@ -784,9 +784,9 @@ Article 3
 
   .
 
-(6)[^key-84f3147321d0c03380b25944f3c21023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-84f3147321d0c03380b25944f3c21023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-84f3147321d0c03380b25944f3c21023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-84f3147321d0c03380b25944f3c21023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 8 (Deputy Director General), after subsection (3), there is inserted–
 
@@ -843,7 +843,7 @@ Article 3
 
 (15) In section 29 (removal of Director General etc.)–
 
-- (a)[^key-d68dce8c391b0cc7990dfd201c0e92ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d68dce8c391b0cc7990dfd201c0e92ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (5), after the words “Government Department,” there are inserted the words “of the Scottish Administration,”.
 
 (16) In section 30 (power to give directions after adverse report)–
@@ -888,7 +888,7 @@ Article 3
 
   .
 
-(20)[^key-136d3c2809e07d217b1a85446dff6c6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(20)[^c-136d3c2809e07d217b1a85446dff6c6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (21) In section 35 (regulations as to standard of equipment), after the words “Secretary of State may”, there are inserted the words “, after consultation with the Scottish Ministers,”.
 
@@ -913,7 +913,7 @@ Article 3
 
 .
 
-(25)[^key-95c928fe443f7e7bbbdba512195272c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(25)[^c-95c928fe443f7e7bbbdba512195272c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (26) In paragraph 2 of Schedule 1, after sub-paragraph (3), there is inserted–
 
@@ -921,12 +921,12 @@ Article 3
 
 .
 
-(27)[^key-d2266ce810882a586ef2e5c29634d0c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(27)[^c-d2266ce810882a586ef2e5c29634d0c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (28) In paragraph 8 of Schedule 1–
 
 - (a) in sub-paragraph (a), after the word “paragraph”, there are inserted the words “after consultation with the Scottish Ministers”; and
-- (b)[^key-d164909834f20168dba7118f030f5b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d164909834f20168dba7118f030f5b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (29) In paragraph 6 of Schedule 2, in sub-paragraph (2)–
 
@@ -947,7 +947,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-1dff5c99eba7fb75962510af632cefb9] (1) This Schedule shall apply to the National Radiological Protection Board.
+**1.**[^c-1dff5c99eba7fb75962510af632cefb9] (1) This Schedule shall apply to the National Radiological Protection Board.
 
 (2) In this Schedule–
 
@@ -956,7 +956,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. Modification of functions in relation to the Board[^key-da4800041b4cec8f75f64cebe982e230]
+#### 2. Modification of functions in relation to the Board[^c-da4800041b4cec8f75f64cebe982e230]
 
 (1) Any function exercisable in relation to the Board by the Secretary of State for Scotland acting alone shall instead be exercisable by the Scottish Ministers.
 
@@ -973,11 +973,11 @@ Article 3
 
 ### PART I — APPLICATION
 
-**1.**[^key-44ccc9e0ae5df6cd9acbc566069d1454] This Schedule shall apply to the Police Information Technology Organisation.
+**1.**[^c-44ccc9e0ae5df6cd9acbc566069d1454] This Schedule shall apply to the Police Information Technology Organisation.
 
 ### PART II — MODIFICATIONS
 
-**2.**[^key-ec21732d0f0ac566fbefbea2e372aad5] (1) Part IV of the Police Act 1997[^f00066] is amended as follows.
+**2.**[^c-ec21732d0f0ac566fbefbea2e372aad5] (1) Part IV of the Police Act 1997[^f00066] is amended as follows.
 
 (2) In section 109 (Police Information Technology Organisation), after subsection (3), there is inserted–
 
@@ -1055,34 +1055,34 @@ Article 3
 
   .
 
-## SCHEDULE 21 (affected by repeal, see note) — POLICE NEGOTIATING BOARD FOR THE UNITED KINGDOM (affected by repeal, see note)[^key-e2ac49d3e1878987ef1bd752c98d5863][^key-e2ac49d3e1878987ef1bd752c98d5863]
+## SCHEDULE 21 (affected by repeal, see note) — POLICE NEGOTIATING BOARD FOR THE UNITED KINGDOM (affected by repeal, see note)[^c-e2ac49d3e1878987ef1bd752c98d5863][^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-Article 3 *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+Article 3 *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-### PART I (affected by repeal, see note) — APPLICATION (affected by repeal, see note)[^key-e2ac49d3e1878987ef1bd752c98d5863][^key-e2ac49d3e1878987ef1bd752c98d5863]
+### PART I (affected by repeal, see note) — APPLICATION (affected by repeal, see note)[^c-e2ac49d3e1878987ef1bd752c98d5863][^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-**1.**[^key-c45b47ede7dbf4716cf9ea78eade28f4] This Schedule shall apply to the Police Negotiating Board for the United Kingdom. *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+**1.**[^c-c45b47ede7dbf4716cf9ea78eade28f4] This Schedule shall apply to the Police Negotiating Board for the United Kingdom. *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-### PART II (affected by repeal, see note) — MODIFICATIONS (affected by repeal, see note)[^key-e2ac49d3e1878987ef1bd752c98d5863][^key-e2ac49d3e1878987ef1bd752c98d5863]
+### PART II (affected by repeal, see note) — MODIFICATIONS (affected by repeal, see note)[^c-e2ac49d3e1878987ef1bd752c98d5863][^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-**2.**[^key-29ee4c65f1d1ef9d0e23855fcebbff71] In Part III of the Police Act 1996 *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863][^f00067], in section 61 (the Police Negotiating Board for the United Kingdom)– *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+**2.**[^c-29ee4c65f1d1ef9d0e23855fcebbff71] In Part III of the Police Act 1996 *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863][^f00067], in section 61 (the Police Negotiating Board for the United Kingdom)– *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-- (a) in subsection (1)– *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
-  - (i) at the end of paragraph (c), the word “and” is omitted; and *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
-  - (ii (affected by repeal, see note))[^key-e2ac49d3e1878987ef1bd752c98d5863] at the end of paragraph (e), there is inserted– *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+- (a) in subsection (1)– *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
+  - (i) at the end of paragraph (c), the word “and” is omitted; and *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
+  - (ii (affected by repeal, see note))[^c-e2ac49d3e1878987ef1bd752c98d5863] at the end of paragraph (e), there is inserted– *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-    > and *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+    > and *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
     >
-    > - (e) the Scottish Ministers, *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+    > - (e) the Scottish Ministers, *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
     ;
-- (b) in subsection (2), after “Prime Minister”, there is inserted “after consultation with the Scottish Ministers”; *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
-- (c) in subsection (3), for the words “paragraphs (a), (b) and (c)”, there is substituted “paragraphs (a), (b), (c) and (e)”; and *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
-- (d) after subsection (4) there is inserted– *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+- (b) in subsection (2), after “Prime Minister”, there is inserted “after consultation with the Scottish Ministers”; *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
+- (c) in subsection (3), for the words “paragraphs (a), (b) and (c)”, there is substituted “paragraphs (a), (b), (c) and (e)”; and *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
+- (d) after subsection (4) there is inserted– *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
-  > (5) The Scottish Ministers may make payments towards the expenses incurred by *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863] the Board *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863] in relation to the exercise by it of its function in or as regards Scotland. *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+  > (5) The Scottish Ministers may make payments towards the expenses incurred by *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863] the Board *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863] in relation to the exercise by it of its function in or as regards Scotland. *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
   >
-  > (6) For the purposes of section 36(3) of the Police (Scotland) Act 1967, any expenditure under subsection (5) above shall be treated as expenditure incurred under section 36(1) of the said Act of 1967. *(affected by repeal, see note)*[^key-e2ac49d3e1878987ef1bd752c98d5863]
+  > (6) For the purposes of section 36(3) of the Police (Scotland) Act 1967, any expenditure under subsection (5) above shall be treated as expenditure incurred under section 36(1) of the said Act of 1967. *(affected by repeal, see note)*[^c-e2ac49d3e1878987ef1bd752c98d5863]
 
   .
 
@@ -1092,11 +1092,11 @@ Article 3
 
 ### PART I — APPLICATION
 
-**1.**[^key-fbeb9e57b810675984aa4dfaedc06a4a] This Schedule shall apply to the Rail Users' Consultative Committee for Scotland.
+**1.**[^c-fbeb9e57b810675984aa4dfaedc06a4a] This Schedule shall apply to the Rail Users' Consultative Committee for Scotland.
 
 ### PART II — MODIFICATIONS
 
-**2.**[^key-76136c35ffc3fb22a766e9bb1e1c8303] (1) The Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43) is amended as follows.
+**2.**[^c-76136c35ffc3fb22a766e9bb1e1c8303] (1) The Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43) is amended as follows.
 
 (2) In section 2–
 
@@ -1128,7 +1128,7 @@ Article 3
 
 ### PART I — APPLICATION AND INTERPRETATION
 
-**1.**[^key-d8287eb56dd060ed37dfcd41ee2666ee] (1) This Schedule shall apply to the Sea Fish Industry Authority.
+**1.**[^c-d8287eb56dd060ed37dfcd41ee2666ee] (1) This Schedule shall apply to the Sea Fish Industry Authority.
 
 (2) In this Schedule–
 
@@ -1137,7 +1137,7 @@ Article 3
 
 ### PART II — MODIFICATIONS
 
-#### 2. Modification of application of section 88 of the Act[^key-63008c7e863a0ee6c3851988ad79ceeb]
+#### 2. Modification of application of section 88 of the Act[^c-63008c7e863a0ee6c3851988ad79ceeb]
 
 (1) Section 88(1) of the Act shall not apply in relation to any function under section 16 of the 1981 Act which is specifically exercisable in relation to the Authority.
 
@@ -1151,7 +1151,7 @@ Article 3
 - (b) any statement as to a guarantee, any sums paid in fulfilment of a guarantee, or sums remaining to be repaid, under section 9(2), (3) or (4); and
 - (c) copies of the report of the Authority for any financial year, the statement of accounts, and the auditor’s report, under section 11(8).
 
-#### 3. Modification of the 1981 Act[^key-c3595591bd0e7cfe1fa6e669946a4853]
+#### 3. Modification of the 1981 Act[^c-c3595591bd0e7cfe1fa6e669946a4853]
 
 (1) The 1981 Act is amended as follows.
 
@@ -1190,23 +1190,23 @@ This Order will come into force on the principal appointed day, which is current
 
 [^f00002]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-bb92954573db2d839cc060c0578a5925]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-bb92954573db2d839cc060c0578a5925]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00003]: Footnote: Article 3 of the Scotland Act 1998 (Commencement) Order 1998 (S.I. [1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)) specifies 1st July 1999 as the principal appointed day for the purposes of the Scotland Act 1998.
 
-[^key-3bec7d895372bd25b77c915bee59cf5e]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-3bec7d895372bd25b77c915bee59cf5e]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-d3ca2e672d1852ea77139294f5e388ca]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-d3ca2e672d1852ea77139294f5e388ca]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-0a9d2050e8f553a8fd584a560c2a5ff1]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1999/1747/article/3) substituted (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [2](https://www.legislation.gov.uk/uksi/2002/2636/article/2)
+[^c-0a9d2050e8f553a8fd584a560c2a5ff1]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1999/1747/article/3) substituted (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [2](https://www.legislation.gov.uk/uksi/2002/2636/article/2)
 
-[^key-98e50cf92551b73bbaf239672e8b29e0]: Commencement: Art. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-98e50cf92551b73bbaf239672e8b29e0]: Commencement: Art. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-e2427e0a54feb2df585a15ef3d9daac8]: Commencement: Art. 5 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-e2427e0a54feb2df585a15ef3d9daac8]: Commencement: Art. 5 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-ca91a113f22751b802fc58f8acd95977]: Commencement: Sch. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-ca91a113f22751b802fc58f8acd95977]: Commencement: Sch. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-8155b8253432c6257f0f1ea7dd0cd4ad]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 51(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/51/a)
+[^c-8155b8253432c6257f0f1ea7dd0cd4ad]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 51(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/51/a)
 
 [^f00004]: Footnote: The Advisory Committee on Pesticides was established by article 3 of the Control of Pesticides (Advisory Committee on Pesticides) Order 1985 (S.I. [1985/1516](https://www.legislation.gov.uk/uksi/1985/1516)).
 
@@ -1224,7 +1224,7 @@ This Order will come into force on the principal appointed day, which is current
 
 [^f00011]: Footnote: The Controller of Plant Variety Rights was constituted by section 2 of the Plant Varieties Act [1997 (c. 66)](https://www.legislation.gov.uk/ukpga/1997/66).
 
-[^key-43e9894b9f026831b76a31fd0c84e6fc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 137(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/137)
+[^c-43e9894b9f026831b76a31fd0c84e6fc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 137(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/137)
 
 [^f00013]: Footnote: The Criminal Injuries Compensation Appeals Panel was constituted by the Criminal Injuries Compensation Scheme 1996. The 1996 Scheme was made by the Secretary of State on 12th December 1995 under section 1 of the Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53).
 
@@ -1232,15 +1232,15 @@ This Order will come into force on the principal appointed day, which is current
 
 [^f00015]: Footnote: The Criminal Injuries Compensation Board was constituted by the Criminal Injuries Compensation Scheme 1990. The 1990 Scheme came into operation on 1st February 1990 and is a revision of the 1964 Scheme which was announced in both Houses of Parliament on 24th June 1964 in the exercise of the prerogative power.
 
-[^key-ae321d3c6c0946b5ca6bbe6a137c280e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-ae321d3c6c0946b5ca6bbe6a137c280e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
-[^key-7799a662036dd67d5f195a4f2a7db29f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/article/1/2), [Sch. para. 61(2)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/61/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
+[^c-7799a662036dd67d5f195a4f2a7db29f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/article/1/2), [Sch. para. 61(2)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/61/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
 
 [^f00018]: Footnote: The Home-Grown Cereals Authority was constituted by section 1 of the Cereals Marketing Act [1965 (c. 14)](https://www.legislation.gov.uk/ukpga/1965/14). Section 1 was amended by section 4(3) of the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49).
 
 [^f00019]: Footnote: The Horticultural Development Council was constituted by article 3(1) of the Horticultural Development Council Order 1986 (S.I. [1986/1110](https://www.legislation.gov.uk/uksi/1986/1110)), to which there are amendments not relevant to this Order.
 
-[^key-d3b18c292884f662c580180125fdd8cd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) revoked (15.11.2001) by [The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686)](https://www.legislation.gov.uk/uksi/2001/3686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/1/1), [6(15)(a)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/6/15/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8))
+[^c-d3b18c292884f662c580180125fdd8cd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) revoked (15.11.2001) by [The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686)](https://www.legislation.gov.uk/uksi/2001/3686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/1/1), [6(15)(a)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/6/15/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8))
 
 [^f00021]: Footnote: The Meat and Livestock Commission was constituted by section 1 of the Agriculture Act [1967 (c. 22)](https://www.legislation.gov.uk/ukpga/1967/22).
 
@@ -1258,101 +1258,101 @@ This Order will come into force on the principal appointed day, which is current
 
 [^f00028]: Footnote: The Police Information Technology Organisation was constituted by section 109 of the Police Act 1997.
 
-[^key-493a6bfc21f05b101fc8379e743e712c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) revoked (17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/iii)
+[^c-493a6bfc21f05b101fc8379e743e712c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) revoked (17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/iii)
 
 [^f00029]: Footnote: The Police Negotiating Board for the United Kingdom was constituted by section 61 of the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16).
 
 [^f00030]: Footnote: The Rail Users' Consultative Committee for Scotland was constituted by section 2 of the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-df1b544410326525787aa7fd2ddc32ad]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 51(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/51/b)
+[^c-df1b544410326525787aa7fd2ddc32ad]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1747/schedule/1) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 51(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/51/b)
 
 [^f00032]: Footnote: The Sea Fish Industry Authority was constituted by section 1 of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29).
 
 [^f00033]: Footnote: The Service Authority for the National Criminal Intelligence Service was constituted by section 1 of the Police Act 1997.
 
-[^key-5c4029f54a2c9ab47c8adcafebc7be82]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1747/schedule/2) revoked (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/2)
+[^c-5c4029f54a2c9ab47c8adcafebc7be82]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1747/schedule/2) revoked (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/2)
 
-[^key-e7d8fd6b24262e5b2c8312457bd312ed]: Commencement: Sch. 3 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-e7d8fd6b24262e5b2c8312457bd312ed]: Commencement: Sch. 3 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-3d178bf51bcf7633f8c8ee13d71e49a1]: Commencement: Sch. 3 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-3d178bf51bcf7633f8c8ee13d71e49a1]: Commencement: Sch. 3 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00037]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-172275e54b7ed6b181eb07470ab3255b]: Commencement: Sch. 3 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-172275e54b7ed6b181eb07470ab3255b]: Commencement: Sch. 3 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-f74068b09cd57b29c5807d873a9e9465]: Commencement: Sch. 4 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-f74068b09cd57b29c5807d873a9e9465]: Commencement: Sch. 4 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00038]: Footnote: S.I. [1997/266](https://www.legislation.gov.uk/uksi/1997/266).
 
 [^f00039]: Footnote: [1947 c. 40](https://www.legislation.gov.uk/ukpga/1947/40).
 
-[^key-9da9532882ddf0125545bba097ddf2e7]: Commencement: Sch. 4 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-9da9532882ddf0125545bba097ddf2e7]: Commencement: Sch. 4 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-19ef6a32fff22947ee7dfa1cb61714f5]: Commencement: Sch. 4 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-19ef6a32fff22947ee7dfa1cb61714f5]: Commencement: Sch. 4 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-557f4eba34e77d621943c2b693e5af0c]: Commencement: Sch. 5 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-557f4eba34e77d621943c2b693e5af0c]: Commencement: Sch. 5 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00040]: Footnote: S.I. [1950/1326](https://www.legislation.gov.uk/uksi/1950/1326).
 
 [^f00041]: Footnote: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-98469f39500c450eee2b9ddb974c0e6d]: Commencement: Sch. 5 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-98469f39500c450eee2b9ddb974c0e6d]: Commencement: Sch. 5 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-7c473b196580aeed0d15e678e9a6414d]: Commencement: Sch. 5 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-7c473b196580aeed0d15e678e9a6414d]: Commencement: Sch. 5 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-7eb43e49062ce67469865a622ead1d7a]: Commencement: Sch. 6 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-7eb43e49062ce67469865a622ead1d7a]: Commencement: Sch. 6 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00042]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-06c23b36c8e478dcaf980904842f65c9]: Commencement: Sch. 6 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-06c23b36c8e478dcaf980904842f65c9]: Commencement: Sch. 6 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-f51f05f56d8d5edde5b7f8fea6e9f0bd]: Textual amendment: [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/6/paragraph/2/2) revoked (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-f51f05f56d8d5edde5b7f8fea6e9f0bd]: Textual amendment: [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/6/paragraph/2/2) revoked (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-4ce4a082da9f6ace1a8e2c61b0c2e95a]: Textual amendment: [Sch. 6 para. 2(5)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/6/paragraph/2/5) revoked (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-4ce4a082da9f6ace1a8e2c61b0c2e95a]: Textual amendment: [Sch. 6 para. 2(5)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/6/paragraph/2/5) revoked (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-f6e32325d73e222b395b285a6ea67a0b]: Commencement: Sch. 7 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-f6e32325d73e222b395b285a6ea67a0b]: Commencement: Sch. 7 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00043]: Footnote: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-ca6cbcd47dd9c02d938113919a624469]: Commencement: Sch. 7 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-ca6cbcd47dd9c02d938113919a624469]: Commencement: Sch. 7 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-3d0cb639744cd42cf0c1421340883028]: Commencement: Sch. 7 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-3d0cb639744cd42cf0c1421340883028]: Commencement: Sch. 7 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-18b3eaa20b9053924f89e67ee62d51eb]: Commencement: Sch. 8 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-18b3eaa20b9053924f89e67ee62d51eb]: Commencement: Sch. 8 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00044]: Footnote: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66).
 
-[^key-2d89454a2ca033eeedac29d50d56ebbc]: Commencement: Sch. 8 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-2d89454a2ca033eeedac29d50d56ebbc]: Commencement: Sch. 8 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-7282d4c164a69bb1198fc0a4926fb06d]: Commencement: Sch. 8 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-7282d4c164a69bb1198fc0a4926fb06d]: Commencement: Sch. 8 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-147062c477038bd60ab3782e27e56a82]: Textual amendment: [Sch. 8 para. 3A](https://www.legislation.gov.uk/uksi/1999/1747/schedule/8/paragraph/3A) inserted (14.12.2000) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (No. 2) Order 2000 (S.I. 2000/3251)](https://www.legislation.gov.uk/uksi/2000/3251), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2000/3251/schedule/6/paragraph/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
+[^c-147062c477038bd60ab3782e27e56a82]: Textual amendment: [Sch. 8 para. 3A](https://www.legislation.gov.uk/uksi/1999/1747/schedule/8/paragraph/3A) inserted (14.12.2000) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (No. 2) Order 2000 (S.I. 2000/3251)](https://www.legislation.gov.uk/uksi/2000/3251), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2000/3251/schedule/6/paragraph/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
 
-[^key-44de0640d5006115092d9d6ce8662def]: Commencement: Sch. 8 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-44de0640d5006115092d9d6ce8662def]: Commencement: Sch. 8 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-72f469581339eecf67d89d3c0019aa8a]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/1999/1747/schedule/9) revoked (1.11.2007 to the extent that Sch. 9 applies to 1992 c. 53, ss. 2, 4) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(d)(vi)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/d/vi)
+[^c-72f469581339eecf67d89d3c0019aa8a]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/1999/1747/schedule/9) revoked (1.11.2007 to the extent that Sch. 9 applies to 1992 c. 53, ss. 2, 4) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(d)(vi)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/d/vi)
 
-[^key-75a784ef796b9b0292fefcdd5fabaacf]: Commencement: Sch. 9 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-75a784ef796b9b0292fefcdd5fabaacf]: Commencement: Sch. 9 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-931b6ca662749cf4a3a780eb59625579]: Commencement: Sch. 9 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-931b6ca662749cf4a3a780eb59625579]: Commencement: Sch. 9 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00045]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53); the functions of the Lord Advocate under this Act were transferred to the Secretary of State by S.I. [1999/678](https://www.legislation.gov.uk/uksi/1999/678).
 
-[^key-43adc032aaca3d717af03ca2002d35e0]: Commencement: Sch. 10 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-43adc032aaca3d717af03ca2002d35e0]: Commencement: Sch. 10 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00046]: Footnote: [1995 c. 53](https://www.legislation.gov.uk/ukpga/1995/53).
 
-[^key-1690b7c9046dff9863abec55ef512840]: Textual amendment: [Sch. 10 para. 2](https://www.legislation.gov.uk/uksi/1999/1747/schedule/10/paragraph/2) revoked (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(u)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/u)
+[^c-1690b7c9046dff9863abec55ef512840]: Textual amendment: [Sch. 10 para. 2](https://www.legislation.gov.uk/uksi/1999/1747/schedule/10/paragraph/2) revoked (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(u)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/u)
 
-[^key-7adb3cf9ba7a26be9ace2691c024b323]: Commencement: Sch. 10 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-7adb3cf9ba7a26be9ace2691c024b323]: Commencement: Sch. 10 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-a4cd8dc5442e74e84c162d43b176ff93]: Commencement: Sch. 10 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-a4cd8dc5442e74e84c162d43b176ff93]: Commencement: Sch. 10 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-0f568823488fff5eb122d3660ad29878]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/uksi/1999/1747/schedule/11) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-0f568823488fff5eb122d3660ad29878]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/uksi/1999/1747/schedule/11) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
-[^key-995706e79efc3d4c2923c97f5cd04d4d]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/uksi/1999/1747/schedule/12) revoked (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/article/1/2), [Sch. para. 61(3)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/61/3); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
+[^c-995706e79efc3d4c2923c97f5cd04d4d]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/uksi/1999/1747/schedule/12) revoked (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/article/1/2), [Sch. para. 61(3)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/61/3); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
 
-[^key-dd359ffba7716804f1c50f3f68fef483]: Commencement: Sch. 13 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-dd359ffba7716804f1c50f3f68fef483]: Commencement: Sch. 13 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00056]: Footnote: [1965 c. 14](https://www.legislation.gov.uk/ukpga/1965/14).
 
@@ -1360,98 +1360,98 @@ This Order will come into force on the principal appointed day, which is current
 
 [^f00058]: Footnote: [1986 c. 49](https://www.legislation.gov.uk/ukpga/1986/49).
 
-[^key-3a19cd282b4323df31b6483ea2e1211b]: Commencement: Sch. 13 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-3a19cd282b4323df31b6483ea2e1211b]: Commencement: Sch. 13 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-4718cc604a503341d92f552571faad2f]: Commencement: Sch. 13 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-4718cc604a503341d92f552571faad2f]: Commencement: Sch. 13 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-1448279489779adeab6e6f4a4ee3e63e]: Commencement: Sch. 13 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-1448279489779adeab6e6f4a4ee3e63e]: Commencement: Sch. 13 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-5f4b693208f61e9a96da3a65d40557fc]: Commencement: Sch. 14 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-5f4b693208f61e9a96da3a65d40557fc]: Commencement: Sch. 14 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00059]: Footnote: S.I. [1986/1110](https://www.legislation.gov.uk/uksi/1986/1110).
 
 [^f00060]: Footnote: [1947 c. 40](https://www.legislation.gov.uk/ukpga/1947/40).
 
-[^key-a6d62a24205eb8286f651401e0fb2ecb]: Commencement: Sch. 14 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-a6d62a24205eb8286f651401e0fb2ecb]: Commencement: Sch. 14 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-617f4f2ae719a35c70a6bdb222a21367]: Commencement: Sch. 14 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-617f4f2ae719a35c70a6bdb222a21367]: Commencement: Sch. 14 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-b7e68305a5ab2e938dd9dcfec88fe231]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/uksi/1999/1747/schedule/15) revoked (15.11.2001) by [The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686)](https://www.legislation.gov.uk/uksi/2001/3686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/1/1), [6(15)(b)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/6/15/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8))
+[^c-b7e68305a5ab2e938dd9dcfec88fe231]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/uksi/1999/1747/schedule/15) revoked (15.11.2001) by [The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686)](https://www.legislation.gov.uk/uksi/2001/3686), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/1/1), [6(15)(b)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/6/15/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2001/3686/regulation/8))
 
-[^key-64891a1f88fea86f809096e58bd897bc]: Commencement: Sch. 16 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-64891a1f88fea86f809096e58bd897bc]: Commencement: Sch. 16 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00062]: Footnote: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
 
-[^key-2ea810ac745de6fa8a89f407b58de425]: Textual amendment: Word in [Sch. 16 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/1/2) omitted (23.10.2002) by virtue of [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/a/i)
+[^c-2ea810ac745de6fa8a89f407b58de425]: Textual amendment: Word in [Sch. 16 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/1/2) omitted (23.10.2002) by virtue of [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/a/i)
 
-[^key-f441dfbbfcb94a252ecada7cced3664e]: Textual amendment: Words in [Sch. 16 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/1/2) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/a/ii)
+[^c-f441dfbbfcb94a252ecada7cced3664e]: Textual amendment: Words in [Sch. 16 para. 1(2)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/1/2) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/a/ii)
 
-[^key-38adae6e2c55f6c0e9f70e4d671eb3c7]: Commencement: Sch. 16 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-38adae6e2c55f6c0e9f70e4d671eb3c7]: Commencement: Sch. 16 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-dfa761568d61181575b912fa632a4ef8]: Textual amendment: Words in [Sch. 16 para. 2(4)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/2/4) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/b/i)
+[^c-dfa761568d61181575b912fa632a4ef8]: Textual amendment: Words in [Sch. 16 para. 2(4)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/2/4) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/b/i)
 
-[^key-8a2f97a12913e51081b1f15f9d7e5564]: Commencement: Sch. 16 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-8a2f97a12913e51081b1f15f9d7e5564]: Commencement: Sch. 16 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-a7ce7b8545b02e9f919558f3ada15152]: Textual amendment: [Sch. 16 paras. 4](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/4), [5](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/5) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/b/ii)
+[^c-a7ce7b8545b02e9f919558f3ada15152]: Textual amendment: [Sch. 16 paras. 4](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/4), [5](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/paragraph/5) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/b/ii)
 
-[^key-093ac5be11e167fd463506d4742567f6]: Textual amendment: [Sch. 16 Pts. 3, 4](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/part/3) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/c)
+[^c-093ac5be11e167fd463506d4742567f6]: Textual amendment: [Sch. 16 Pts. 3, 4](https://www.legislation.gov.uk/uksi/1999/1747/schedule/16/part/3) added (23.10.2002) by [The Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) (Amendment) Order 2002 (S.I. 2002/2636)](https://www.legislation.gov.uk/uksi/2002/2636), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2636/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2002/2636/article/3/c)
 
-[^key-a633c7d3dbc88483cfbacbffdf394c74]: Commencement: Sch. 17 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-a633c7d3dbc88483cfbacbffdf394c74]: Commencement: Sch. 17 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00063]: Footnote: S.I. [1995/356](https://www.legislation.gov.uk/uksi/1995/356).
 
 [^f00064]: Footnote: [1947 c. 40](https://www.legislation.gov.uk/ukpga/1947/40).
 
-[^key-47dda0cc82b1e5b6b973a10287db5c03]: Commencement: Sch. 17 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-47dda0cc82b1e5b6b973a10287db5c03]: Commencement: Sch. 17 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-32e47bbb4a76f352dd948954e03de406]: Commencement: Sch. 17 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-32e47bbb4a76f352dd948954e03de406]: Commencement: Sch. 17 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-0a0c96ca85f3364d9ee9fcc6055358fc]: Commencement: Sch. 17 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-0a0c96ca85f3364d9ee9fcc6055358fc]: Commencement: Sch. 17 para. 4 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-3544b0723ff4d1f1ed0f08689d6676b1]: Commencement: Sch. 18 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-3544b0723ff4d1f1ed0f08689d6676b1]: Commencement: Sch. 18 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-4e8dd236564512f60f0c276c0d3ec07d]: Commencement: Sch. 18 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-4e8dd236564512f60f0c276c0d3ec07d]: Commencement: Sch. 18 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-84f3147321d0c03380b25944f3c21023]: Textual amendment: [Sch. 18 para. 2(6)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/6)[(7)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/7) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
+[^c-84f3147321d0c03380b25944f3c21023]: Textual amendment: [Sch. 18 para. 2(6)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/6)[(7)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/7) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
 
-[^key-d68dce8c391b0cc7990dfd201c0e92ea]: Textual amendment: [Sch. 18 para. 2(15)(a)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/15/a) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
+[^c-d68dce8c391b0cc7990dfd201c0e92ea]: Textual amendment: [Sch. 18 para. 2(15)(a)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/15/a) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
 
-[^key-136d3c2809e07d217b1a85446dff6c6f]: Textual amendment: [Sch. 18 para. 2(20)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/20) revoked (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-136d3c2809e07d217b1a85446dff6c6f]: Textual amendment: [Sch. 18 para. 2(20)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/20) revoked (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
-[^key-95c928fe443f7e7bbbdba512195272c3]: Textual amendment: [Sch. 18 para. 2(25)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/25) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
+[^c-95c928fe443f7e7bbbdba512195272c3]: Textual amendment: [Sch. 18 para. 2(25)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/25) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
 
-[^key-d2266ce810882a586ef2e5c29634d0c4]: Textual amendment: [Sch. 18 para. 2(27)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/27) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
+[^c-d2266ce810882a586ef2e5c29634d0c4]: Textual amendment: [Sch. 18 para. 2(27)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/27) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
 
-[^key-d164909834f20168dba7118f030f5b4a]: Textual amendment: [Sch. 18 para. 2(28)(b)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/28/b) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
+[^c-d164909834f20168dba7118f030f5b4a]: Textual amendment: [Sch. 18 para. 2(28)(b)](https://www.legislation.gov.uk/uksi/1999/1747/schedule/18/paragraph/2/28/b) revoked (1.4.2002) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 5](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3)
 
-[^key-1dff5c99eba7fb75962510af632cefb9]: Commencement: Sch. 19 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-1dff5c99eba7fb75962510af632cefb9]: Commencement: Sch. 19 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00065]: Footnote: [1970 c. 46](https://www.legislation.gov.uk/ukpga/1970/46).
 
-[^key-da4800041b4cec8f75f64cebe982e230]: Commencement: Sch. 19 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-da4800041b4cec8f75f64cebe982e230]: Commencement: Sch. 19 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-44ccc9e0ae5df6cd9acbc566069d1454]: Commencement: Sch. 20 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-44ccc9e0ae5df6cd9acbc566069d1454]: Commencement: Sch. 20 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-ec21732d0f0ac566fbefbea2e372aad5]: Commencement: Sch. 20 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-ec21732d0f0ac566fbefbea2e372aad5]: Commencement: Sch. 20 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00066]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-e2ac49d3e1878987ef1bd752c98d5863]: Textual amendment: [Sch. 21](https://www.legislation.gov.uk/uksi/1999/1747/schedule/21) revoked (17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/iii)
+[^c-e2ac49d3e1878987ef1bd752c98d5863]: Textual amendment: [Sch. 21](https://www.legislation.gov.uk/uksi/1999/1747/schedule/21) revoked (17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/iii)
 
-[^key-c45b47ede7dbf4716cf9ea78eade28f4]: Commencement: Sch. 21 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-c45b47ede7dbf4716cf9ea78eade28f4]: Commencement: Sch. 21 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-29ee4c65f1d1ef9d0e23855fcebbff71]: Commencement: Sch. 21 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-29ee4c65f1d1ef9d0e23855fcebbff71]: Commencement: Sch. 21 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00067]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-fbeb9e57b810675984aa4dfaedc06a4a]: Commencement: Sch. 22 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-fbeb9e57b810675984aa4dfaedc06a4a]: Commencement: Sch. 22 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-76136c35ffc3fb22a766e9bb1e1c8303]: Commencement: Sch. 22 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-76136c35ffc3fb22a766e9bb1e1c8303]: Commencement: Sch. 22 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-d8287eb56dd060ed37dfcd41ee2666ee]: Commencement: Sch. 23 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-d8287eb56dd060ed37dfcd41ee2666ee]: Commencement: Sch. 23 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
 [^f00068]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-63008c7e863a0ee6c3851988ad79ceeb]: Commencement: Sch. 23 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-63008c7e863a0ee6c3851988ad79ceeb]: Commencement: Sch. 23 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
 
-[^key-c3595591bd0e7cfe1fa6e669946a4853]: Commencement: Sch. 23 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)
+[^c-c3595591bd0e7cfe1fa6e669946a4853]: Commencement: Sch. 23 para. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1747/article/1)

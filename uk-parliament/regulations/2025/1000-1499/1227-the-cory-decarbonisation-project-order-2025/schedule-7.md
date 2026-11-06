@@ -22,7 +22,7 @@ summary: ''
 
 Article 16
 
-### PART 1 — TEMPORARY ALTERATION, PROHIBITION, DIVERSION OR RESTRICTION OF THE USE OF STREETS AND PUBLIC RIGHTS OF WAY[^key-62f82eb2f4ce3145554660177cc52e94]
+### PART 1 — TEMPORARY ALTERATION, PROHIBITION, DIVERSION OR RESTRICTION OF THE USE OF STREETS AND PUBLIC RIGHTS OF WAY[^c-62f82eb2f4ce3145554660177cc52e94]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street or public right of way subject to temporary prohibition or restriction of use* | *(3)*<br>*Extent of temporary alteration, prohibition, diversion or restriction of use of streets* |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Article 16
 | London Borough of Bexley | Footpath 4 | Public right of way to be temporarily altered, restricted, diverted or use prohibited between the points marked C and F on the access and rights of way plan shown with a green dashed line. |
 | London Borough of Bexley | Thames Water Access Road | Street to be temporarily altered, restricted, diverted or use prohibited between the points marked H and I on the access and rights of way plan shown with a blue and black dashed line. |
 
-### PART 2 — AUTHORISING TEMPORARY USE OF VEHICULAR USE ON PUBLIC RIGHTS OF WAY[^key-8aeff90c59af2cd1a2cb9c40cb005a2f]
+### PART 2 — AUTHORISING TEMPORARY USE OF VEHICULAR USE ON PUBLIC RIGHTS OF WAY[^c-8aeff90c59af2cd1a2cb9c40cb005a2f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -42,6 +42,6 @@ Article 16
 
 ## Annotations
 
-[^key-62f82eb2f4ce3145554660177cc52e94]: Commencement: Sch. 7 Pt. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-62f82eb2f4ce3145554660177cc52e94]: Commencement: Sch. 7 Pt. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-8aeff90c59af2cd1a2cb9c40cb005a2f]: Commencement: Sch. 7 Pt. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-8aeff90c59af2cd1a2cb9c40cb005a2f]: Commencement: Sch. 7 Pt. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

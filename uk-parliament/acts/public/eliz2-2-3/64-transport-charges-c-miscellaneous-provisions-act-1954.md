@@ -41,7 +41,7 @@ An Act to amend the law relating to the charges of certain undertakings connecte
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c619579]
 
-## 6. Revision of charges by independent harbour undertakings, etc.[^key-3cc8e8643cba0cd27a6163c77b8de031][^c619593][^c619592]
+## 6. Revision of charges by independent harbour undertakings, etc.[^c-3cc8e8643cba0cd27a6163c77b8de031][^c619593][^c619592]
 
 (1) This section shall apply to any independent statutory undertaking, being—
 
@@ -68,7 +68,7 @@ Provided that—
 - (iii) where the statutory provisions in force with respect to any particular undertaking on the third day of September, nineteen hundred and thirty-nine, authorised a maximum for any charge and made no provision for its revision, an order under this subsection shall not revise that charge so as to make it lower than the maximum so authorised;
 - (iv) where immediately before the commencement of this Act, or, in the case of an undertaking such as is referred to in paragraph (f) of subsection (1) of this section, immediately before the coming into force of the order therein mentioned, the undertakers were required by any statutory provision then in force to keep charges levied according to classes of voyages or otherwise in definite proportions, the Minister shall not make an order revising any of those charges which does not maintain the same proportions.
 
-(3)[^c619601][^key-be0343d41208b2c060f71600df72dbbb] In making any order on an application under this section, the Minister shall have regard to the financial position and future prospects of the undertaking and shall not make any revision of charges which in his opinion would be likely to result in the undertaking receiving an annual revenue either substantially less or substantially more than adequate to meet such expenditure on the working, management and maintenance of the undertaking and such other costs, charges and expenses of the undertaking as are properly chargeable to revenue, including reasonable contributions to any reserve, contingency or other fund and, where appropriate, a reasonable return upon the paid up share capital of the undertaking:
+(3)[^c619601][^c-be0343d41208b2c060f71600df72dbbb] In making any order on an application under this section, the Minister shall have regard to the financial position and future prospects of the undertaking and shall not make any revision of charges which in his opinion would be likely to result in the undertaking receiving an annual revenue either substantially less or substantially more than adequate to meet such expenditure on the working, management and maintenance of the undertaking and such other costs, charges and expenses of the undertaking as are properly chargeable to revenue, including reasonable contributions to any reserve, contingency or other fund and, where appropriate, a reasonable return upon the paid up share capital of the undertaking:
 
 Provided that where the Minister is satisfied that, in view of the financial position of the undertaking during such period immediately preceding the application as may appear to him appropriate, there are special circumstances affecting the undertaking, the Minister may make such revision of charges as he may consider just and reasonable in the light of those special circumstances, notwithstanding that it is in his opinion likely to result in the undertaking receiving an annual revenue substantially less than adequate for the purposes aforesaid.
 
@@ -102,11 +102,11 @@ Provided that—
 
 ## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c619612]
 
-## 10. Yearly accounts and returns by independent railway undertakings.[^key-dff3f3e1a7654de249b5dc9f945a6c53][^c619613]
+## 10. Yearly accounts and returns by independent railway undertakings.[^c-dff3f3e1a7654de249b5dc9f945a6c53][^c619613]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Repeal of requirement to transmit benefit of rate-relief.[^key-a6132b37968eec965eadea7e880ccbef][^c619616]
+## 11. Repeal of requirement to transmit benefit of rate-relief.[^c-a6132b37968eec965eadea7e880ccbef][^c619616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -203,7 +203,7 @@ Provided that any such provision conferring upon the undertakers a power of revi
 
 [^c619579]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/5) repealed by [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1962/46/schedule/12/part/I)
 
-[^key-3cc8e8643cba0cd27a6163c77b8de031]: Modification: S. 6 excluded by 1980 c. x s. 92D (as substituted) (1.7.2004) by [Mersey Tunnels Act 2004 (c. ii)](https://www.legislation.gov.uk/ukla/2004/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2004/2/schedule/1/paragraph/1)
+[^c-3cc8e8643cba0cd27a6163c77b8de031]: Modification: S. 6 excluded by 1980 c. x s. 92D (as substituted) (1.7.2004) by [Mersey Tunnels Act 2004 (c. ii)](https://www.legislation.gov.uk/ukla/2004/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2004/2/schedule/1/paragraph/1)
 
 [^c619593]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only.
 
@@ -225,7 +225,7 @@ Provided that any such provision conferring upon the undertakers a power of revi
 
 [^c619601]: Modification: S. 6(3) modified (5.7.1994) by [1994 c. viii](https://www.legislation.gov.uk/ukla/1994/8), [s. 47](https://www.legislation.gov.uk/ukla/1994/8/section/47).
 
-[^key-be0343d41208b2c060f71600df72dbbb]: Modification: [S. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/6/3) applied (with modifications) (30.5.2024) by [The Rixton and Warburton Bridge Order 2024 (S.I. 2024/630)](https://www.legislation.gov.uk/uksi/2024/630), [arts. 1](https://www.legislation.gov.uk/uksi/2024/630/article/1), [14](https://www.legislation.gov.uk/uksi/2024/630/article/14)
+[^c-be0343d41208b2c060f71600df72dbbb]: Modification: [S. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/6/3) applied (with modifications) (30.5.2024) by [The Rixton and Warburton Bridge Order 2024 (S.I. 2024/630)](https://www.legislation.gov.uk/uksi/2024/630), [arts. 1](https://www.legislation.gov.uk/uksi/2024/630/article/1), [14](https://www.legislation.gov.uk/uksi/2024/630/article/14)
 
 [^c619602]: Textual amendment: Words substituted by virtue of [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 272](https://www.legislation.gov.uk/ukpga/1972/70/section/272) (2)
 
@@ -245,11 +245,11 @@ Provided that any such provision conferring upon the undertakers a power of revi
 
 [^c619612]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/9) repealed (26.2.1998) by [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [s. 68(1)](https://www.legislation.gov.uk/ukpga/1992/42/section/68/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1992/42/schedule/4), [Pt.I](https://www.legislation.gov.uk/ukpga/1992/42/part/I); [S.I. 1998/274](https://www.legislation.gov.uk/uksi/1998/274), [art. 2](https://www.legislation.gov.uk/uksi/1998/274/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/274/schedule)
 
-[^key-dff3f3e1a7654de249b5dc9f945a6c53]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/10) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/9) Group 3(2)
+[^c-dff3f3e1a7654de249b5dc9f945a6c53]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/10) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/9) Group 3(2)
 
 [^c619613]: Modification: The text of ss. 10 and 11 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-a6132b37968eec965eadea7e880ccbef]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-a6132b37968eec965eadea7e880ccbef]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/64/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c619616]: Modification: The text of ss. 10 and 11 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

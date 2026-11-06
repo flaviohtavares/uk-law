@@ -23,7 +23,7 @@ summary: ''
 (1) The company's last annual accounts means the company's individual accounts—
 
 - (a) that were last circulated to members in accordance with section 423 (duty to circulate copies of annual accounts and reports), or
-- (b)[^key-aa1b5aeb0822f2e920d117653e1065ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aa1b5aeb0822f2e920d117653e1065ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The accounts must have been properly prepared in accordance with this Act, or have been so prepared subject only to matters that are not material for determining (by reference to the items mentioned in section 836(1)) whether the distribution would contravene this Part.
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c19684471]: Commencement: S. 837 wholly in force at 6.4.2008; s. 837 not in force at Royal Assent see s. 1300; s. 837 in force at 6.4.2008 by [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/1/k) (with savings in [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12) and subject to transitional adaptations in [Sch. 1 paras. 14-20](https://www.legislation.gov.uk/uksi/2007/3495/schedule/1/paragraph/14) and with savings in [Sch. 4 paras. 33-35](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/33))
 
-[^key-aa1b5aeb0822f2e920d117653e1065ab]: Textual amendment: S. 837(1)(b) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/23)
+[^c-aa1b5aeb0822f2e920d117653e1065ab]: Textual amendment: S. 837(1)(b) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/23)

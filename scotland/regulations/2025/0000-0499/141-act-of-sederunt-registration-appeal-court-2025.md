@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Registration Appeal Court) 2025 (revoked)[^key-8e6e5f443f665867b7b9e69c3720cc16]
+Act of Sederunt (Registration Appeal Court) 2025 (revoked)[^c-8e6e5f443f665867b7b9e69c3720cc16]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 9th June 2025
 
-[^key-8e6e5f443f665867b7b9e69c3720cc16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e6e5f443f665867b7b9e69c3720cc16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement, etc.[^key-8e6e5f443f665867b7b9e69c3720cc16]
+## 1. Citation and commencement, etc.[^c-8e6e5f443f665867b7b9e69c3720cc16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration Appeal Court[^key-8e6e5f443f665867b7b9e69c3720cc16]
+## 2. Registration Appeal Court[^c-8e6e5f443f665867b7b9e69c3720cc16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8e6e5f443f665867b7b9e69c3720cc16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e6e5f443f665867b7b9e69c3720cc16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8e6e5f443f665867b7b9e69c3720cc16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e6e5f443f665867b7b9e69c3720cc16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e6e5f443f665867b7b9e69c3720cc16]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2025/141) revoked (13.3.2026) by [Act of Sederunt (Registration Appeal Court) 2026 (S.S.I. 2026/73)](https://www.legislation.gov.uk/ssi/2026/73), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/73/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/73/paragraph/2/2)
+[^c-8e6e5f443f665867b7b9e69c3720cc16]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2025/141) revoked (13.3.2026) by [Act of Sederunt (Registration Appeal Court) 2026 (S.S.I. 2026/73)](https://www.legislation.gov.uk/ssi/2026/73), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/73/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/73/paragraph/2/2)

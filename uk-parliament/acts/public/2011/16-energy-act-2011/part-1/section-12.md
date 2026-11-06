@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Disclosure of green deal plan etc in connection with sale or letting out[^key-0952c23d2d1a4313603e4897c8c1f7a0][^key-89f90ab367bf4b44b6f7284123370fc0]
+## 12. Disclosure of green deal plan etc in connection with sale or letting out[^c-0952c23d2d1a4313603e4897c8c1f7a0][^c-89f90ab367bf4b44b6f7284123370fc0]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0952c23d2d1a4313603e4897c8c1f7a0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/16/section/12) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-0952c23d2d1a4313603e4897c8c1f7a0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/16/section/12) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-89f90ab367bf4b44b6f7284123370fc0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/16/section/12) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/125/article/2/c)
+[^c-89f90ab367bf4b44b6f7284123370fc0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/16/section/12) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/125/article/2/c)

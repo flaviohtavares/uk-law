@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS[^key-5c023c0d83cf77dd8ade0c447e040a0a]
+## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS[^c-5c023c0d83cf77dd8ade0c447e040a0a]
 
 *Extent: E+W*
 
@@ -212,6 +212,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c023c0d83cf77dd8ade0c447e040a0a]: Modification: [Sch. 4](https://www.legislation.gov.uk/anaw/2013/6/schedule/4) having effect as specified (6.1.2014) by [The Mobile Homes (Wales) Act 2013 (Commencement, Transitional and Saving Provisions) Order 2014 (No. 11)](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/wsi/2014/11/article/3/2)
+[^c-5c023c0d83cf77dd8ade0c447e040a0a]: Modification: [Sch. 4](https://www.legislation.gov.uk/anaw/2013/6/schedule/4) having effect as specified (6.1.2014) by [The Mobile Homes (Wales) Act 2013 (Commencement, Transitional and Saving Provisions) Order 2014 (No. 11)](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/wsi/2014/11/article/3/2)
 
 [^M_C_e6df2b64-83ab-4744-d9e4-3175f1208e56]: Modification: Sch. 4 para. 4: consequential amendments to be treated as not having effect until 1.10.2014 by virtue of [The Mobile Homes (Wales) Act 2013 (Commencement, Transitional and Saving Provisions) Order 2014 (S.I. 2014/11)](https://www.legislation.gov.uk/uksi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/11/article/3/2)

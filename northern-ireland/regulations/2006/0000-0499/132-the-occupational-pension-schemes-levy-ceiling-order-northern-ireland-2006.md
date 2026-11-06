@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2006 (revoked)[^key-15548e8c0f6c383d46b44cbaae18d670]
+The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2006 (revoked)[^c-15548e8c0f6c383d46b44cbaae18d670]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 16th March 2006
 
-[^key-15548e8c0f6c383d46b44cbaae18d670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15548e8c0f6c383d46b44cbaae18d670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-15548e8c0f6c383d46b44cbaae18d670]
+## 1. Citation and commencement[^c-15548e8c0f6c383d46b44cbaae18d670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-15548e8c0f6c383d46b44cbaae18d670]
+## 2. The levy ceiling[^c-15548e8c0f6c383d46b44cbaae18d670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15548e8c0f6c383d46b44cbaae18d670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15548e8c0f6c383d46b44cbaae18d670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-15548e8c0f6c383d46b44cbaae18d670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15548e8c0f6c383d46b44cbaae18d670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-15548e8c0f6c383d46b44cbaae18d670]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/132) revoked (31.3.2007) by [The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2007 (S.R. 2007/212)](https://www.legislation.gov.uk/nisr/2007/212), [arts. 1](https://www.legislation.gov.uk/nisr/2007/212/article/1), [3](https://www.legislation.gov.uk/nisr/2007/212/article/3)
+[^c-15548e8c0f6c383d46b44cbaae18d670]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/132) revoked (31.3.2007) by [The Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2007 (S.R. 2007/212)](https://www.legislation.gov.uk/nisr/2007/212), [arts. 1](https://www.legislation.gov.uk/nisr/2007/212/article/1), [3](https://www.legislation.gov.uk/nisr/2007/212/article/3)

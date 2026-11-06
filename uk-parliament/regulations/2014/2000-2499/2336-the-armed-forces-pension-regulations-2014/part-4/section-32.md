@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Account to specify amount of pension for a scheme year[^key-8de1794d7c77e125ac0cfe59112216e2]
+## 32. Account to specify amount of pension for a scheme year[^c-8de1794d7c77e125ac0cfe59112216e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,14 +32,14 @@ summary: ''
 
 (6) The amount of club transfer earned pension for a scheme year is the amount which member is entitled to count under regulation 111 (amount of club transfer earned pension).
 
-(7) The added pension (member) for a scheme year is the sum of the amounts a member is entitled to count under Chapter 1 of Part 7 (Contributions) after exercising an option under regulation 91(1)(a) (member’s option to make periodical contributions to purchase added pension) or regulation 92(1)(a) (member’s option to pay lump sum contributions to purchase pension)[^key-4de163e40a3cba19e36910a7b896f160].
+(7) The added pension (member) for a scheme year is the sum of the amounts a member is entitled to count under Chapter 1 of Part 7 (Contributions) after exercising an option under regulation 91(1)(a) (member’s option to make periodical contributions to purchase added pension) or regulation 92(1)(a) (member’s option to pay lump sum contributions to purchase pension)[^c-4de163e40a3cba19e36910a7b896f160].
 
-(8) The added pension (member and dependants) for a scheme year is the sum of the amounts a member is entitled to count under Chapter 1 of Part 7 (Contributions) after exercising an option under regulation 91(1)(b) (member’s option to make periodical contributions to purchase added pension) or regulation 92(1)(b) (member’s option to pay lump sum contributions to purchase pension)[^key-e7673bc2c3932f83990a81ff8eff11ad].
+(8) The added pension (member and dependants) for a scheme year is the sum of the amounts a member is entitled to count under Chapter 1 of Part 7 (Contributions) after exercising an option under regulation 91(1)(b) (member’s option to make periodical contributions to purchase added pension) or regulation 92(1)(b) (member’s option to pay lump sum contributions to purchase pension)[^c-e7673bc2c3932f83990a81ff8eff11ad].
 
 ## Annotations
 
-[^key-8de1794d7c77e125ac0cfe59112216e2]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/2336/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-8de1794d7c77e125ac0cfe59112216e2]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/2336/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-4de163e40a3cba19e36910a7b896f160]: Textual amendment: Words in [reg. 32(7)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/32/7) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/4/a)
+[^c-4de163e40a3cba19e36910a7b896f160]: Textual amendment: Words in [reg. 32(7)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/32/7) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/4/a)
 
-[^key-e7673bc2c3932f83990a81ff8eff11ad]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/32/8) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/4/b)
+[^c-e7673bc2c3932f83990a81ff8eff11ad]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/32/8) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/4/b)

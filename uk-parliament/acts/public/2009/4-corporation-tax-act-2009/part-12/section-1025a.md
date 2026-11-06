@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1025A. Application of Chapter: employees of overseas companies who take up employment with, or work for, a UK company[^key-f33078558d6a5aff307b7e8047c5b4f7]
+## 1025A. Application of Chapter: employees of overseas companies who take up employment with, or work for, a UK company[^c-f33078558d6a5aff307b7e8047c5b4f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ For the purposes of paragraph (d) it does not matter if the amount of the relief
 
 ## Annotations
 
-[^key-f33078558d6a5aff307b7e8047c5b4f7]: Textual amendment: Ss. 1025A, 1025B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 45](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/45), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-f33078558d6a5aff307b7e8047c5b4f7]: Textual amendment: Ss. 1025A, 1025B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 45](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/45), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

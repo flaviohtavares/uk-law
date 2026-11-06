@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Money laundering: defence where overseas conduct is legal under local law[^key-17c12e508da554e464449d3e30d06ded]
+## 102. Money laundering: defence where overseas conduct is legal under local law[^c-17c12e508da554e464449d3e30d06ded]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17c12e508da554e464449d3e30d06ded]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2005/15/section/102) in force at 15.5.2006 by [S.I. 2006/1085](https://www.legislation.gov.uk/uksi/2006/1085), [art. 3](https://www.legislation.gov.uk/uksi/2006/1085/article/3)
+[^c-17c12e508da554e464449d3e30d06ded]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2005/15/section/102) in force at 15.5.2006 by [S.I. 2006/1085](https://www.legislation.gov.uk/uksi/2006/1085), [art. 3](https://www.legislation.gov.uk/uksi/2006/1085/article/3)

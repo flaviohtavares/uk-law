@@ -45,11 +45,11 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-4d8951453e9fa91235cb1873b869ad7c]
+### 1. Citation and commencement[^c-4d8951453e9fa91235cb1873b869ad7c]
 
 These Regulations may be cited as the Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003 and shall come into operation on 1st June 2003.
 
-### 2. Interpretation[^key-28090b73622a9da5ac750c6183718306]
+### 2. Interpretation[^c-28090b73622a9da5ac750c6183718306]
 
 In these Regulations–
 
@@ -74,13 +74,13 @@ In these Regulations–
 
 ## PART II — REQUIREMENTS, PROCEDURE, RECOGNITION AND EFFECT OF ADOPTION IN NORTHERN IRELAND WHERE THE UNITED KINGDOM IS THE RECEIVING STATE
 
-### 3. Application for determination of eligibility, and assessment of suitability, to adopt[^key-07dec7df8c71c31351c5a183dfa4ca38]
+### 3. Application for determination of eligibility, and assessment of suitability, to adopt[^c-07dec7df8c71c31351c5a183dfa4ca38]
 
 (1) A married couple or a person habitually resident in the British Islands who wishes to adopt a child habitually resident in a Convention country outside the British Islands under the Convention must apply to an adoption agency for a determination of eligibility and an assessment of his suitability to adopt.
 
 (2) An application under this regulation must be made in writing and include such information as the adoption agency may require.
 
-### 4. Eligibility requirements and requirement to notify[^key-3279747df584e10d45a8f3bbd9d28592]
+### 4. Eligibility requirements and requirement to notify[^c-3279747df584e10d45a8f3bbd9d28592]
 
 (1) An adoption agency may not consider a person eligible to adopt unless the application under regulation 3 is made by a married couple or one person and–
 
@@ -89,7 +89,7 @@ In these Regulations–
 
 (2) The adoption agency must notify a prospective adopter in writing as soon as possible after becoming aware that he is not eligible to adopt because he does not meet the requirements of paragraph (1).
 
-### 5. Requirement to provide counselling and information[^key-f470444f72c90978ee90cf02d852c7f4]
+### 5. Requirement to provide counselling and information[^c-f470444f72c90978ee90cf02d852c7f4]
 
 (1) Subject to paragraph (2), where an application is made in accordance with regulation 3, the adoption agency must–
 
@@ -99,7 +99,7 @@ In these Regulations–
 
 (2) Paragraph (1) does not apply if the adoption agency is satisfied that the requirements set out in paragraph (1) have been carried out in respect of the prospective adopter by another adoption agency.
 
-### 6. Procedure in respect of carrying out an assessment[^key-76248c9dcec2e8a1b013afbbc1d25405]
+### 6. Procedure in respect of carrying out an assessment[^c-76248c9dcec2e8a1b013afbbc1d25405]
 
 (1) Where, following the procedures referred to in paragraph (1) of regulation 5, and subject to paragraph (1) of regulation 4, the adoption agency is satisfied that the prospective adopter is eligible to adopt and considers he may be suitable to be an adoptive parent it must set up a case record in respect of him and place on it any information obtained under this regulation.
 
@@ -124,7 +124,7 @@ and in a case where the adoption agency is not the HSS trust in whose area the p
 
 (6) At the end of the period of 28 days referred to in paragraph (5) (or earlier if any observations made by the prospective adopter are received before the 28 days has expired), the adoption agency must pass the report referred to in paragraph (4), together with all relevant information obtained by it under this regulation (including the prospective adopter’s observations on the report), to the adoption panel.
 
-### 7. Adoption panel function[^key-a1dfcd1b227eaefbbad396f58fd06525]
+### 7. Adoption panel function[^c-a1dfcd1b227eaefbbad396f58fd06525]
 
 (1) Subject to paragraph (2), the adoption panel must consider the case of the prospective adopter referred to it by the adoption agency and make a recommendation to the adoption agency as to whether the prospective adopter is suitable to be an adoptive parent.
 
@@ -134,7 +134,7 @@ and in a case where the adoption agency is not the HSS trust in whose area the p
 - (b) may request the adoption agency to obtain any other relevant information which the adoption panel considers necessary; and
 - (c) may obtain legal advice as it considers necessary in relation to the case.
 
-### 8. Adoption agency decision and notification[^key-f44769e4a5852b9ef1e0cc9b68948ea9]
+### 8. Adoption agency decision and notification[^c-f44769e4a5852b9ef1e0cc9b68948ea9]
 
 (1) The adoption agency must take into account the recommendation of the adoption panel in coming to a decision about whether the prospective adopter is suitable to be an adoptive parent.
 
@@ -158,7 +158,7 @@ and in a case where the adoption agency is not the HSS trust in whose area the p
 
 (9) As soon as possible after making the decision under paragraph (8), the adoption agency must notify the prospective adopter in writing of its decision, stating its reasons for that decision if it does not consider the prospective adopter to be suitable to be an adoptive parent, and of the adoption panel’s recommendations, if different from the adoption agency’s decision.
 
-### 9. Procedure where the prospective adopter is approved by the adoption agency[^key-61f0ccf5b4ae9e7dc8f8b62666ed17de]
+### 9. Procedure where the prospective adopter is approved by the adoption agency[^c-61f0ccf5b4ae9e7dc8f8b62666ed17de]
 
 (1) Where the adoption agency is satisfied that the prospective adopter is eligible to adopt and has approved him as suitable to be an adoptive parent (“its decision”) it must send to the Central Authority–
 
@@ -179,7 +179,7 @@ and in a case where the adoption agency is not the HSS trust in whose area the p
 
 (4) The Central Authority must notify the adoption agency and the prospective adopter in writing that the certificate and the documents referred to in paragraph (3) have been sent to SOCA.
 
-### 10. Procedure following receipt of the Article 16 report from SOCA[^key-5d92ef9c239b3fd7bf181a4700d6168f]
+### 10. Procedure following receipt of the Article 16 report from SOCA[^c-5d92ef9c239b3fd7bf181a4700d6168f]
 
 (1) Where the Central Authority receives, from SOCA, the Article 16[^f00012] report and other information specified in Article 16(2)[^f00013] of the Convention (“the documents”), relating to the child whom SOCA considers should be placed for adoption with the prospective adopter, the Central Authority must send the Article 16 report and the documents to the adoption agency.
 
@@ -216,7 +216,7 @@ and in a case where the adoption agency is not the HSS trust in whose area the p
 
 (8) Following any agreement under Article 17(c) of the Convention and the placement of the child by the adoption agency with the prospective adopter, the prospective adopter must accompany the child on entering the United Kingdom.
 
-### 11. Duty of adoption agency before the child’s arrival in Northern Ireland[^key-97db5d92174c52527b0bcaa0d700f8a9]
+### 11. Duty of adoption agency before the child’s arrival in Northern Ireland[^c-97db5d92174c52527b0bcaa0d700f8a9]
 
 Where the adoption agency is informed by the Central Authority that the agreement under Article 17(c) of the Convention has been made and the adoption may proceed, the adoption agency must–
 
@@ -228,18 +228,18 @@ Where the adoption agency is informed by the Central Authority that the agreemen
 - (b) in a case where the adoption agency is not the HSS trust within whose area the prospective adopter has his home, notify that HSS trust of the particulars of the placement; and
 - (c) notify the Education and Library Board within whose area the prospective adopter has his home in writing of the particulars of the placement if the child is of compulsory school age within the meaning of Article 46 of the Education and Libraries (Northern Ireland) Order 1986[^f00015] or if the adoption agency’s medical adviser[^f00016] considers the child to have special needs or to be disabled.
 
-### 12. Requirements following the child’s arrival in Northern Ireland but no Convention adoption is made in the State of origin[^key-1d997efa4bf6cb980c64c0591ce62521]
+### 12. Requirements following the child’s arrival in Northern Ireland but no Convention adoption is made in the State of origin[^c-1d997efa4bf6cb980c64c0591ce62521]
 
 Regulations 13 to 17 apply where, following agreement between the Central Authority and SOCA under Article 17(c) of the Convention that the adoption may proceed, no Convention adoption is made or applied for in the State of origin but the child is placed with the prospective adopter in the State of origin and he then returns to Northern Ireland with the child.
 
-### 13. Duty of prospective adopter to notify HSS trust[^key-f422743db9c4a16d24e8bb57084a5e2b]
+### 13. Duty of prospective adopter to notify HSS trust[^c-f422743db9c4a16d24e8bb57084a5e2b]
 
 A prospective adopter to whom regulation 12 applies must within the period of fourteen days beginning with the date on which he brings the child into the United Kingdom give notice to the HSS trust within whose area he has his home (“the relevant HSS trust”) of–
 
 - (a) his intention to apply for an adoption order to be made as a Convention adoption order in accordance with Article 22 of the 1987 Order; or
 - (b) his intention not to give the child a home.
 
-### 14. Duty of prospective adopter where a child is placed with him[^key-e339ce9b4de525f022fad1677301514b]
+### 14. Duty of prospective adopter where a child is placed with him[^c-e339ce9b4de525f022fad1677301514b]
 
 (1) The prospective adopter with whom the child is placed is not required to allow the child to visit or stay with any person, or otherwise to allow contact between the child and any person, except under a contact order.
 
@@ -254,14 +254,14 @@ unless the court gives leave or the relevant HSS trust agrees.
 
 (4) Paragraph (2)(b) does not apply if the removal of the child is for a period of less than one month by the prospective adopter.
 
-### 15. Prospective adopter unable to proceed with application to adopt[^key-3ee1dd92fe2deccf667c7e749ab98ccd]
+### 15. Prospective adopter unable to proceed with application to adopt[^c-3ee1dd92fe2deccf667c7e749ab98ccd]
 
 Where the child is placed with the prospective adopter or regulation 18 applies and the prospective adopter gives notice to the relevant HSS trust that he does not wish to proceed with the adoption and no longer wishes to give the child a home, the relevant HSS trust must–
 
 - (a) receive the child from him before the end of the period of 7 days beginning with the giving of notice; and
 - (b) notify the Central Authority in writing of his decision not to proceed with the adoption.
 
-### 16. Surrender of the child to the relevant HSS trust[^key-45e4afdefb2d276d8f962efaad6d728a]
+### 16. Surrender of the child to the relevant HSS trust[^c-45e4afdefb2d276d8f962efaad6d728a]
 
 (1) Subject to paragraph (4), where the child is placed with the prospective adopter or regulation 18 applies and the relevant HSS trust is of the opinion that–
 
@@ -283,7 +283,7 @@ the prospective adopter is not required by virtue of the notice to surrender the
 
 (5) This regulation does not affect the exercise by any HSS trust or other person of any power conferred by any statutory provision or the exercise of any power of arrest.
 
-### 17. Breakdown of placement[^key-2688ddd6605a4a460ef61292a40a3370]
+### 17. Breakdown of placement[^c-2688ddd6605a4a460ef61292a40a3370]
 
 (1) This regulation applies where–
 
@@ -310,7 +310,7 @@ the prospective adopter is not required by virtue of the notice to surrender the
 
 (6) Before coming to any decision under this regulation, the relevant HSS trust must have regard to the wishes and feelings of the child, having regard to his age and understanding and, where appropriate, obtain his consent in relation to measures to be taken under this regulation.
 
-### 18. Convention adoption subject to a probationary period[^key-f164c04cfe90da0a10abb2d5203812f7]
+### 18. Convention adoption subject to a probationary period[^c-f164c04cfe90da0a10abb2d5203812f7]
 
 (1) This regulation applies where–
 
@@ -319,7 +319,7 @@ the prospective adopter is not required by virtue of the notice to surrender the
 
 (2) The relevant HSS trust must, if requested by the competent authority of the State of origin, submit a report about the placement to that competent authority and such a report must be prepared within such a timescale and must contain such information as the competent authority may reasonably require.
 
-### 19. Prescribed requirements for the purposes of making a Convention adoption order[^key-f3423efcf670a37328f3ac895dbd774b]
+### 19. Prescribed requirements for the purposes of making a Convention adoption order[^c-f3423efcf670a37328f3ac895dbd774b]
 
 (1) For the purposes of Article 16A of the 1987 Order[^f00018] (requirements in respect of adoption order made as a Convention adoption order), the prescribed requirements are, in the case where the United Kingdom is the receiving State–
 
@@ -328,7 +328,7 @@ the prospective adopter is not required by virtue of the notice to surrender the
 - (c) the child to be adopted was, on the date on which the agreement under Article 17(c) was made, habitually resident in a Convention country outside the British Islands; and
 - (d) in a case where the applicant (in the case of an application by one person) or one of the spouses(in the case of a married couple) is not a British citizen by virtue of the British Nationality Act 1981[^f00019], the Home Office has confirmed that the child is authorised to enter and reside permanently in the United Kingdom.
 
-### 20. Procedural requirements following a Convention adoption order or Convention adoption – Article 23 of the Convention[^key-97333d7328bf48e072564429425de870]
+### 20. Procedural requirements following a Convention adoption order or Convention adoption – Article 23 of the Convention[^c-97333d7328bf48e072564429425de870]
 
 (1) Where a Convention adoption order is made, the court must send a copy of that adoption order to the Central Authority.
 
@@ -345,7 +345,7 @@ the prospective adopter is not required by virtue of the notice to surrender the
 - (a) the adoptive parents; and
 - (b) the adoption agency and, if different, the relevant HSS trust.
 
-### 21. Refusal of a court to make a Convention adoption order[^key-9f169fa943692b9dcfe98a0cbeeedad8]
+### 21. Refusal of a court to make a Convention adoption order[^c-9f169fa943692b9dcfe98a0cbeeedad8]
 
 (1) Where an application for a Convention adoption order is refused by the court or is withdrawn, the relevant HSS trust must decide on a plan for the child’s permanent care.
 
@@ -353,7 +353,7 @@ the prospective adopter is not required by virtue of the notice to surrender the
 
 (3) If the court so orders, the prospective adopter must surrender the child to the relevant HSS trust within the period determined by the court for the purpose.
 
-### 22. Annulment of a Convention adoption order or a Convention adoption[^key-84a98edc163d4fe463570fd5bdfff71c]
+### 22. Annulment of a Convention adoption order or a Convention adoption[^c-84a98edc163d4fe463570fd5bdfff71c]
 
 Where a Convention adoption order or a Convention adoption is annulled under Article 55A of the 1987 Order, the court must send a copy of the order to–
 
@@ -363,7 +363,7 @@ Where a Convention adoption order or a Convention adoption is annulled under Art
 
 ## PART III — REQUIREMENTS AND PROCEDURE WHERE THE UNITED KINGDOM IS THE STATE OF ORIGIN
 
-### 23. Duty of adoption agency in respect of assessment of a child[^key-3e5e49ce78b36c41c5a8cfd39a0821e3]
+### 23. Duty of adoption agency in respect of assessment of a child[^c-3e5e49ce78b36c41c5a8cfd39a0821e3]
 
 (1) This regulation applies where
 
@@ -385,7 +385,7 @@ Where a Convention adoption order or a Convention adoption is annulled under Art
 - (a) more than 12 months have elapsed since the first decision; or
 - (b) there are significant overriding factors which indicate that the child should be referred to the adoption panel under paragraph (1) prior to the expiration of the 12 month period.
 
-### 24. Adoption panel function[^key-e0b32423d8835b31c25b8fdaef1c0ba1]
+### 24. Adoption panel function[^c-e0b32423d8835b31c25b8fdaef1c0ba1]
 
 (1) The adoption panel must consider the case of the child and make a recommendation to the HSS trust as to whether adoption by a person habitually resident in a Convention country outside the British Islands is in the best interests of the child.
 
@@ -395,7 +395,7 @@ Where a Convention adoption order or a Convention adoption is annulled under Art
 - (b) request the HSS trust to obtain any other relevant information which the panel considers necessary; and
 - (c) obtain legal advice in relation to the case as may be necessary.
 
-### 25. HSS trust decision and notification[^key-77c3882e719bacb95bc900987faf0dad]
+### 25. HSS trust decision and notification[^c-77c3882e719bacb95bc900987faf0dad]
 
 (1) The HSS trust must make a decision on the matter referred to the adoption panel under regulation 23(2) only after taking into account the recommendation of the adoption panel.
 
@@ -422,7 +422,7 @@ it must notify the Central Authority accordingly and the Central Authority must 
 - (a) in relation to the Central Authority, a list of children notified to the Central Authority in accordance with paragraph (3), or
 - (b) in relation to any other Central Authority within the British Islands, a list of children notified to that Central Authority in accordance with provisions which correspond to paragraph (3).
 
-### 26. Receipt of Article 15 report from RSCA[^key-ed8e0c06f2249446c8f00e3a99cf279d]
+### 26. Receipt of Article 15 report from RSCA[^c-ed8e0c06f2249446c8f00e3a99cf279d]
 
 (1) This regulation applies where–
 
@@ -448,7 +448,7 @@ the Central Authority must consult the Convention list and may, if the Central A
 - (c) its observations on the proposed placement; and
 - (d) any other relevant information about the child.
 
-### 27. Duty of adoption panel in respect of a proposed placement[^key-5ab4c2a92f1b4619e170809ffc42287d]
+### 27. Duty of adoption panel in respect of a proposed placement[^c-5ab4c2a92f1b4619e170809ffc42287d]
 
 (1) The adoption panel must consider the proposed placement referred to it by the HSS trust under regulation 23(2) and make a recommendation to the HSS trust as to whether–
 
@@ -463,13 +463,13 @@ the Central Authority must consult the Convention list and may, if the Central A
 - (d) may request the HSS trust to obtain any other relevant information which the panel considers necessary; and
 - (e) may obtain legal advice as it considers necessary in relation to the case.
 
-### 28. HSS trust decision in respect of a placement[^key-389d40a9949c5e39bc220eb615a532ee]
+### 28. HSS trust decision in respect of a placement[^c-389d40a9949c5e39bc220eb615a532ee]
 
 (1) The HSS trust must make a decision about the proposed placement only after having taken into account the recommendations of the adoption panel.
 
 (2) No member of an adoption panel shall take part in any decision made by the HSS trust under paragraph (1).
 
-### 29. Preparation of the Article 16 report for RSCA[^key-54fbf6f8e9c79be87eb231cee0b08f4b]
+### 29. Preparation of the Article 16 report for RSCA[^c-54fbf6f8e9c79be87eb231cee0b08f4b]
 
 (1) Where the HSS trust decides under regulation 28 that the proposed placement is in the best interests of the child and the adoption may proceed, it must prepare a report for the purposes of Article 16(1) of the Convention (“the Article 16 report”) which must include–
 
@@ -502,7 +502,7 @@ the Central Authority must consult the Convention list and may, if the Central A
 
 (7) In paragraph (5), “Convention prospective adopter” means, in the case where the Convention prospective adopters are a married couple, both of them.
 
-### 30. Prescribed requirements for the purposes of making a Convention adoption order[^key-afd1d2394fe4e329ca7612403eb12628]
+### 30. Prescribed requirements for the purposes of making a Convention adoption order[^c-afd1d2394fe4e329ca7612403eb12628]
 
 For the purposes of Article 16A[^f00024] of the 1987 Order (Convention adoption orders), the prescribed requirements are in the case where the United Kingdom is the State of origin–
 
@@ -511,7 +511,7 @@ For the purposes of Article 16A[^f00024] of the 1987 Order (Convention adoption 
 - (c) the child to be adopted is habitually resident in any part of the British Islands on the date of the application; and
 - (d) the child to be adopted has not attained the age of 18 years on the date of the application.
 
-### 31. Procedural requirements following a Convention adoption order or Convention adoption – Article 23 of the Convention[^key-7f8592e089931e70a31e361f626a265a]
+### 31. Procedural requirements following a Convention adoption order or Convention adoption – Article 23 of the Convention[^c-7f8592e089931e70a31e361f626a265a]
 
 (1) Where a Convention adoption order is made, the court must send a copy of that order to the Central Authority.
 
@@ -527,17 +527,17 @@ For the purposes of Article 16A[^f00024] of the 1987 Order (Convention adoption 
 
 ## PART IV — MISCELLANEOUS
 
-### 32. Application, with modifications, of provisions of the 1987 Order[^key-f974d1937b2c7759a8e0faf6441d7bf5]
+### 32. Application, with modifications, of provisions of the 1987 Order[^c-f974d1937b2c7759a8e0faf6441d7bf5]
 
 (1) The provisions of the 1987 Order set out in column 1 of Schedule 3 shall apply with the modifications set out in column 2 of that Schedule in relation to adoptions under the Convention.
 
 (2) Paragraph (1) does not preclude the application of provisions of the 1987 Order, which do not require modifications, to adoptions under the Convention.
 
-### 33. Application, with modifications, of provisions of the Adoption Agencies Regulations[^key-9c25d48249592fc78a78f12d3775407b]
+### 33. Application, with modifications, of provisions of the Adoption Agencies Regulations[^c-9c25d48249592fc78a78f12d3775407b]
 
 The provisions of the Adoption Agencies Regulations set out in column 1 of Schedule 4 shall apply with the modifications set out in column 2 of that Schedule in relation to adoptions under the Convention.
 
-### 34. Offences[^key-16aac2ab3b1eed93db8e6f886f191f66]
+### 34. Offences[^c-16aac2ab3b1eed93db8e6f886f191f66]
 
 Any person who contravenes or fails to comply with–
 
@@ -548,7 +548,7 @@ Any person who contravenes or fails to comply with–
 
 without reasonable excuse, is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding level 5 on the standard scale, or both.
 
-### 35. Transitional provision[^key-b8e106e596b52e8c991c31ec685598a5]
+### 35. Transitional provision[^c-b8e106e596b52e8c991c31ec685598a5]
 
 (1) These regulations shall not apply in relation to the case of any prospective adopter who wishes to adopt a child from a Convention country outside the British Islands which has been referred by the adoption agency (dealing with the case) to the adoption panel before the date these regulations come into operation.
 
@@ -562,7 +562,7 @@ Senior Officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE 1[^key-0aef332a8ce8ca59e538cca6ad38a1ef]
+## SCHEDULE 1[^c-0aef332a8ce8ca59e538cca6ad38a1ef]
 
 Regulation 9
 
@@ -570,7 +570,7 @@ CERTIFICATE OF ELIGIBILITY AND APPROVAL
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/16/images/nisr_20030016_en_001)
 
-## SCHEDULE 2[^key-1848ad36e0a5bb8e59039febf60614bf]
+## SCHEDULE 2[^c-1848ad36e0a5bb8e59039febf60614bf]
 
 Regulations 20 and 31
 
@@ -578,7 +578,7 @@ CERTIFICATE THAT THE CONVENTION ADOPTION ORDER HAS BEEN MADE IN ACCORDANCE WITH 
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/16/images/nisr_20030016_en_002)
 
-## SCHEDULE 3 — APPLICATION, WITH MODIFICATIONS, OF THE PROVISIONS OF THE 1987 ORDER[^key-b1ece722bd0077b3f04ad44edeb12c9b]
+## SCHEDULE 3 — APPLICATION, WITH MODIFICATIONS, OF THE PROVISIONS OF THE 1987 ORDER[^c-b1ece722bd0077b3f04ad44edeb12c9b]
 
 Regulation 32(1)
 
@@ -597,7 +597,7 @@ Regulation 32(1)
 </tbody>
 </table>
 
-## SCHEDULE 4 — APPLICATION, WITH MODIFICATIONS, OF THE PROVISIONS OF THE ADOPTION AGENCIES REGULATIONS[^key-4a64b034ac6f1bae5ba327c5fc5022d4]
+## SCHEDULE 4 — APPLICATION, WITH MODIFICATIONS, OF THE PROVISIONS OF THE ADOPTION AGENCIES REGULATIONS[^c-4a64b034ac6f1bae5ba327c5fc5022d4]
 
 Regulation 33
 
@@ -641,9 +641,9 @@ Part IV makes miscellaneous provisions. Regulations 32 and 33 provide for the mo
 
 [^f00004]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203) – as amended by S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429), S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) and [2001 c. 11 (N.I.)](https://www.legislation.gov.uk/nia/2001/11)
 
-[^key-4d8951453e9fa91235cb1873b869ad7c]: Commencement: Reg. 1 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-4d8951453e9fa91235cb1873b869ad7c]: Commencement: Reg. 1 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-28090b73622a9da5ac750c6183718306]: Commencement: Reg. 2 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-28090b73622a9da5ac750c6183718306]: Commencement: Reg. 2 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253); relevant amending Regulations are [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
 
@@ -659,21 +659,21 @@ Part IV makes miscellaneous provisions. Regulations 32 and 33 provide for the mo
 
 [^f00011]: Footnote: [SI 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-07dec7df8c71c31351c5a183dfa4ca38]: Commencement: Reg. 3 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-07dec7df8c71c31351c5a183dfa4ca38]: Commencement: Reg. 3 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-3279747df584e10d45a8f3bbd9d28592]: Commencement: Reg. 4 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-3279747df584e10d45a8f3bbd9d28592]: Commencement: Reg. 4 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-f470444f72c90978ee90cf02d852c7f4]: Commencement: Reg. 5 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-f470444f72c90978ee90cf02d852c7f4]: Commencement: Reg. 5 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-76248c9dcec2e8a1b013afbbc1d25405]: Commencement: Reg. 6 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-76248c9dcec2e8a1b013afbbc1d25405]: Commencement: Reg. 6 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-a1dfcd1b227eaefbbad396f58fd06525]: Commencement: Reg. 7 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-a1dfcd1b227eaefbbad396f58fd06525]: Commencement: Reg. 7 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-f44769e4a5852b9ef1e0cc9b68948ea9]: Commencement: Reg. 8 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-f44769e4a5852b9ef1e0cc9b68948ea9]: Commencement: Reg. 8 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-61f0ccf5b4ae9e7dc8f8b62666ed17de]: Commencement: Reg. 9 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-61f0ccf5b4ae9e7dc8f8b62666ed17de]: Commencement: Reg. 9 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-5d92ef9c239b3fd7bf181a4700d6168f]: Commencement: Reg. 10 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-5d92ef9c239b3fd7bf181a4700d6168f]: Commencement: Reg. 10 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00012]: Footnote: Article 16(1) provides for SOCA to prepare a report which includes information about the child’s identity, adoptability, background, social environment, family history, medical history including that of the child’s family, and any special needs of the child; and other specified considerations relating to the child
 
@@ -681,63 +681,63 @@ Part IV makes miscellaneous provisions. Regulations 32 and 33 provide for the mo
 
 [^f00014]: Footnote: Article 17 sets out the conditions which must be satisfied before a decision may be made by the State of origin that a child may be placed with prospective adopters. The condition at 17(c) is that the Central Authority of the State of origin and the receiving State have agreed that the adoption may proceed
 
-[^key-97db5d92174c52527b0bcaa0d700f8a9]: Commencement: Reg. 11 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-97db5d92174c52527b0bcaa0d700f8a9]: Commencement: Reg. 11 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00015]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594) – Article 46 was substituted by Article 156 of S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
 [^f00016]: Footnote: *See* Regulation 6(4) of the Adoption Agencies Regulations
 
-[^key-1d997efa4bf6cb980c64c0591ce62521]: Commencement: Reg. 12 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-1d997efa4bf6cb980c64c0591ce62521]: Commencement: Reg. 12 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-f422743db9c4a16d24e8bb57084a5e2b]: Commencement: Reg. 13 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-f422743db9c4a16d24e8bb57084a5e2b]: Commencement: Reg. 13 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-e339ce9b4de525f022fad1677301514b]: Commencement: Reg. 14 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-e339ce9b4de525f022fad1677301514b]: Commencement: Reg. 14 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-3ee1dd92fe2deccf667c7e749ab98ccd]: Commencement: Reg. 15 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-3ee1dd92fe2deccf667c7e749ab98ccd]: Commencement: Reg. 15 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-45e4afdefb2d276d8f962efaad6d728a]: Commencement: Reg. 16 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-45e4afdefb2d276d8f962efaad6d728a]: Commencement: Reg. 16 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-2688ddd6605a4a460ef61292a40a3370]: Commencement: Reg. 17 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-2688ddd6605a4a460ef61292a40a3370]: Commencement: Reg. 17 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00017]: Footnote: Article 55A was inserted by section 5 of the 2001 Act
 
-[^key-f164c04cfe90da0a10abb2d5203812f7]: Commencement: Reg. 18 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-f164c04cfe90da0a10abb2d5203812f7]: Commencement: Reg. 18 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-f3423efcf670a37328f3ac895dbd774b]: Commencement: Reg. 19 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-f3423efcf670a37328f3ac895dbd774b]: Commencement: Reg. 19 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00018]: Footnote: Article 16A of the 1987 Order was inserted by section 3 of the 2001 Act
 
 [^f00019]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61)
 
-[^key-97333d7328bf48e072564429425de870]: Commencement: Reg. 20 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-97333d7328bf48e072564429425de870]: Commencement: Reg. 20 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00020]: Footnote: Article 23 provides that an adoption certificate certified by the competent authority of the State as having been made in accordance with the Convention shall be recognised by other contracting States. The certificate shall certify when and by whom the agreement that the adoption could proceed was given
 
-[^key-9f169fa943692b9dcfe98a0cbeeedad8]: Commencement: Reg. 21 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-9f169fa943692b9dcfe98a0cbeeedad8]: Commencement: Reg. 21 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-84a98edc163d4fe463570fd5bdfff71c]: Commencement: Reg. 22 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-84a98edc163d4fe463570fd5bdfff71c]: Commencement: Reg. 22 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-3e5e49ce78b36c41c5a8cfd39a0821e3]: Commencement: Reg. 23 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-3e5e49ce78b36c41c5a8cfd39a0821e3]: Commencement: Reg. 23 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00021]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36)
 
 [^f00022]: Footnote: [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28)
 
-[^key-e0b32423d8835b31c25b8fdaef1c0ba1]: Commencement: Reg. 24 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-e0b32423d8835b31c25b8fdaef1c0ba1]: Commencement: Reg. 24 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-77c3882e719bacb95bc900987faf0dad]: Commencement: Reg. 25 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-77c3882e719bacb95bc900987faf0dad]: Commencement: Reg. 25 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-ed8e0c06f2249446c8f00e3a99cf279d]: Commencement: Reg. 26 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-ed8e0c06f2249446c8f00e3a99cf279d]: Commencement: Reg. 26 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00023]: Footnote: Article 15 provides for the RSCA, if satisfied that the applicants are eligible and suitable to adopt, to prepare a report including information about their identity, eligibility and suitability to adopt, background, family and medical history, social environment, reasons for adoption, ability to undertake an intercountry adoption, as well as the characteristics of the child for whom they would be qualified to care
 
-[^key-5ab4c2a92f1b4619e170809ffc42287d]: Commencement: Reg. 27 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-5ab4c2a92f1b4619e170809ffc42287d]: Commencement: Reg. 27 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-389d40a9949c5e39bc220eb615a532ee]: Commencement: Reg. 28 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-389d40a9949c5e39bc220eb615a532ee]: Commencement: Reg. 28 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-54fbf6f8e9c79be87eb231cee0b08f4b]: Commencement: Reg. 29 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-54fbf6f8e9c79be87eb231cee0b08f4b]: Commencement: Reg. 29 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-afd1d2394fe4e329ca7612403eb12628]: Commencement: Reg. 30 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-afd1d2394fe4e329ca7612403eb12628]: Commencement: Reg. 30 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
 [^f00024]: Footnote: Article 16A of the 1987 Order was inserted by section 3 of the 2001 Act
 
@@ -745,20 +745,20 @@ Part IV makes miscellaneous provisions. Regulations 32 and 33 provide for the mo
 
 [^f00026]: Footnote: [1978 c. 28](https://www.legislation.gov.uk/ukpga/1978/28)
 
-[^key-7f8592e089931e70a31e361f626a265a]: Commencement: Reg. 31 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-7f8592e089931e70a31e361f626a265a]: Commencement: Reg. 31 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-f974d1937b2c7759a8e0faf6441d7bf5]: Commencement: Reg. 32 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-f974d1937b2c7759a8e0faf6441d7bf5]: Commencement: Reg. 32 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-9c25d48249592fc78a78f12d3775407b]: Commencement: Reg. 33 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-9c25d48249592fc78a78f12d3775407b]: Commencement: Reg. 33 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-16aac2ab3b1eed93db8e6f886f191f66]: Commencement: Reg. 34 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-16aac2ab3b1eed93db8e6f886f191f66]: Commencement: Reg. 34 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-b8e106e596b52e8c991c31ec685598a5]: Commencement: Reg. 35 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-b8e106e596b52e8c991c31ec685598a5]: Commencement: Reg. 35 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-0aef332a8ce8ca59e538cca6ad38a1ef]: Commencement: Sch. 1 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-0aef332a8ce8ca59e538cca6ad38a1ef]: Commencement: Sch. 1 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-1848ad36e0a5bb8e59039febf60614bf]: Commencement: Sch. 2 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-1848ad36e0a5bb8e59039febf60614bf]: Commencement: Sch. 2 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-b1ece722bd0077b3f04ad44edeb12c9b]: Commencement: Sch. 3 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-b1ece722bd0077b3f04ad44edeb12c9b]: Commencement: Sch. 3 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
 
-[^key-4a64b034ac6f1bae5ba327c5fc5022d4]: Commencement: Sch. 4 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)
+[^c-4a64b034ac6f1bae5ba327c5fc5022d4]: Commencement: Sch. 4 in operation at 1.6.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/16/regulation/1)

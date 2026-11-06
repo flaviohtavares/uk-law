@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Monitoring boards, courts boards and youth offending teams[^key-fab3ed5e20af480c5248b419c9c3d9dc]
+## 3. Monitoring boards, courts boards and youth offending teams[^c-fab3ed5e20af480c5248b419c9c3d9dc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fab3ed5e20af480c5248b419c9c3d9dc]: Textual amendment: Pt. 1 Ch. 1 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 45](https://www.legislation.gov.uk/ukpga/2011/20/section/45), [240(1)(d)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/d), [Sch. 25 Pt. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/6)
+[^c-fab3ed5e20af480c5248b419c9c3d9dc]: Textual amendment: Pt. 1 Ch. 1 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 45](https://www.legislation.gov.uk/ukpga/2011/20/section/45), [240(1)(d)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/d), [Sch. 25 Pt. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/6)

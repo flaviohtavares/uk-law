@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Enforcement orders: requirement to pay monetary penalty[^key-c245ca4d5e5e9c941e65bc69a1a18bd2][^key-4aade6b64be4f70d2fdfb3afbfd51554]
+## 158. Enforcement orders: requirement to pay monetary penalty[^c-c245ca4d5e5e9c941e65bc69a1a18bd2][^c-4aade6b64be4f70d2fdfb3afbfd51554]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c245ca4d5e5e9c941e65bc69a1a18bd2]: Commencement: S. 158 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c245ca4d5e5e9c941e65bc69a1a18bd2]: Commencement: S. 158 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4aade6b64be4f70d2fdfb3afbfd51554]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2024/13/section/158) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-4aade6b64be4f70d2fdfb3afbfd51554]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2024/13/section/158) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

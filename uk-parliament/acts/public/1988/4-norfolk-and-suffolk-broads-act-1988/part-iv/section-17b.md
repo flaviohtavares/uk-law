@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17B. Duty of public bodies etc to contribute to the Broads Plan[^key-e98b5a7a35c0b8b8040a2afa8516e9d4]
+## 17B. Duty of public bodies etc to contribute to the Broads Plan[^c-e98b5a7a35c0b8b8040a2afa8516e9d4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e98b5a7a35c0b8b8040a2afa8516e9d4]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/ukpga/1988/4/section/17B) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(14)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/14), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-e98b5a7a35c0b8b8040a2afa8516e9d4]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/ukpga/1988/4/section/17B) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(14)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/14), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

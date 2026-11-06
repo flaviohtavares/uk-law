@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Construction and maintenance of altered streets[^key-7aa76ade012f60b2b703d6d53001919c]
+## 10. Construction and maintenance of altered streets[^c-7aa76ade012f60b2b703d6d53001919c]
 
 *Extent: E+W*
 
-(1) The permanent alterations to each of the streets specified in Part 1 (permanent alteration of layout) of Schedule 5 (alteration of streets) to this Order must be completed to the reasonable satisfaction of the street authority, in a form reasonably required by the street authority, and, unless otherwise agreed by the street authority[^key-4c4b252cf523e53ac8d72a23f706ec1a], the alterations must be maintained by and at the expense of the undertaker for a period of 12 months from their completion and from the expiry of that period by and at the expense of the street authority.
+(1) The permanent alterations to each of the streets specified in Part 1 (permanent alteration of layout) of Schedule 5 (alteration of streets) to this Order must be completed to the reasonable satisfaction of the street authority, in a form reasonably required by the street authority, and, unless otherwise agreed by the street authority[^c-4c4b252cf523e53ac8d72a23f706ec1a], the alterations must be maintained by and at the expense of the undertaker for a period of 12 months from their completion and from the expiry of that period by and at the expense of the street authority.
 
 (2) Subject to paragraph (3), the temporary alterations to each of the streets specified in Part 2 (temporary alteration of layout) of Schedule 5 (alteration of streets) must be completed to the reasonable satisfaction of the street authority, in a form reasonably required by the street authority, and the temporary alterations must be maintained by and at the expense of the undertaker for the duration that the temporary alterations are used by the undertaker for the purposes of construction or decommissioning of the authorised development.
 
@@ -42,6 +42,6 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-7aa76ade012f60b2b703d6d53001919c]: Commencement: Art. 10 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-7aa76ade012f60b2b703d6d53001919c]: Commencement: Art. 10 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-4c4b252cf523e53ac8d72a23f706ec1a]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2024/796/article/10/1) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-4c4b252cf523e53ac8d72a23f706ec1a]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2024/796/article/10/1) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

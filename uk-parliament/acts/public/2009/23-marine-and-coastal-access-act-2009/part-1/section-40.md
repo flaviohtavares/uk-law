@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Interim arrangements[^key-7e8381f0fb1fc46a17d1cf84606aa113]
+## 40. Interim arrangements[^c-7e8381f0fb1fc46a17d1cf84606aa113]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ to provide to the MMO on a temporary basis such staff, premises or other facilit
 
 ## Annotations
 
-[^key-7e8381f0fb1fc46a17d1cf84606aa113]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2009/23/section/40) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-7e8381f0fb1fc46a17d1cf84606aa113]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2009/23/section/40) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

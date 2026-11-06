@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Application for prohibitory property order[^key-3648e0b95a9b6084af573e0ff50a037b]
+## 161. Application for prohibitory property order[^c-3648e0b95a9b6084af573e0ff50a037b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the authority has taken all reasonable steps to so.
 
 ## Annotations
 
-[^key-3648e0b95a9b6084af573e0ff50a037b]: Commencement: [Art. 161](https://www.legislation.gov.uk/uksi/2005/3181/article/161) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-3648e0b95a9b6084af573e0ff50a037b]: Commencement: [Art. 161](https://www.legislation.gov.uk/uksi/2005/3181/article/161) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

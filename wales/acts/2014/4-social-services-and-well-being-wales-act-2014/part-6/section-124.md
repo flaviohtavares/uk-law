@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Arrangements to assist children to live outside England and Wales[^key-5738fdaf02c8ad80bc3c47808296fb0c]
+## 124. Arrangements to assist children to live outside England and Wales[^c-5738fdaf02c8ad80bc3c47808296fb0c]
 
 *Extent: E+W*
 
@@ -47,13 +47,13 @@ summary: ''
 - (a) where an appeal is made against the decision, the period between the making of the decision and the determination of the appeal, and
 - (b) otherwise, the period during which an appeal may be made against the decision.
 
-(9) This section does not apply —[^key-73e95acffe3d66b2cddd88f214134e47]
+(9) This section does not apply —[^c-73e95acffe3d66b2cddd88f214134e47]
 
 - (a) to a local authority placing a child in secure accommodation in Scotland under section 25 of the Children Act 1989, or
 - (b) to a local authority placing a child for adoption with prospective adopters.
 
 ## Annotations
 
-[^key-5738fdaf02c8ad80bc3c47808296fb0c]: Commencement: S. 124 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-5738fdaf02c8ad80bc3c47808296fb0c]: Commencement: S. 124 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-73e95acffe3d66b2cddd88f214134e47]: Textual amendment: Words in s. 124(9) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/13)
+[^c-73e95acffe3d66b2cddd88f214134e47]: Textual amendment: Words in s. 124(9) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/13)

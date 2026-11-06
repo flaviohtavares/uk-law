@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Payments for wrongful termination[^key-41f20e4a54fb66d9c24003a3d6d0983c][^key-5ace87c226c161d67fc44907fc563880]
+## 34. Payments for wrongful termination[^c-41f20e4a54fb66d9c24003a3d6d0983c][^c-5ace87c226c161d67fc44907fc563880]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41f20e4a54fb66d9c24003a3d6d0983c]: Commencement: S. 34 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-41f20e4a54fb66d9c24003a3d6d0983c]: Commencement: S. 34 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-5ace87c226c161d67fc44907fc563880]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2025/13/section/34) in force at 6.10.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/3)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/3)
+[^c-5ace87c226c161d67fc44907fc563880]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2025/13/section/34) in force at 6.10.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/3)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/3)

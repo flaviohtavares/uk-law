@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Complaint or investigation relating to Northern Ireland Troubles[^key-0d9bbe9a103928abd66507456c84e9f6]
+## 47A. Complaint or investigation relating to Northern Ireland Troubles[^c-0d9bbe9a103928abd66507456c84e9f6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ insofar as the complaint or investigation relates to conduct forming part of the
 
 ## Annotations
 
-[^key-0d9bbe9a103928abd66507456c84e9f6]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/asp/2006/10/section/47A) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/45/3), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-0d9bbe9a103928abd66507456c84e9f6]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/asp/2006/10/section/47A) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/45/3), [63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

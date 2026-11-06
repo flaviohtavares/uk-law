@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Credit unions[^key-d92d694a102ffea2a8a623566d1cb09a][^key-6cbb6ca4a6a293de2e5d7130424566b5]
+## 73. Credit unions[^c-d92d694a102ffea2a8a623566d1cb09a][^c-6cbb6ca4a6a293de2e5d7130424566b5]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 14 amends the Credit Unions Act 1979 to make provision about additional
 
 ## Annotations
 
-[^key-d92d694a102ffea2a8a623566d1cb09a]: Commencement: S. 73 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d92d694a102ffea2a8a623566d1cb09a]: Commencement: S. 73 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6cbb6ca4a6a293de2e5d7130424566b5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/29/section/73) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(vv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/vv)
+[^c-6cbb6ca4a6a293de2e5d7130424566b5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/29/section/73) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(vv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/vv)

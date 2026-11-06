@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made[^key-f068616848daae134fc28c694d63bdad]
+## 26. Conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made[^c-f068616848daae134fc28c694d63bdad]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f068616848daae134fc28c694d63bdad]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/219/regulation/26) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-f068616848daae134fc28c694d63bdad]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/219/regulation/26) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -34,12 +34,12 @@ shall apply in relation to payments under this section as they apply in relation
 
 (3) The Secretary of State may by order make provision—
 
-- (a)[^key-95b345a973baf929ef97b3b7e5881b01] imposing a limit on the total amount of expenditure in any year that may be incurred by a relevant authority in making discretionary housing payments;
+- (a)[^c-95b345a973baf929ef97b3b7e5881b01] imposing a limit on the total amount of expenditure in any year that may be incurred by a relevant authority in making discretionary housing payments;
 - (b) imposing subsidiary limits on the expenditure that may be incurred in any year by a relevant authority in making discretionary housing payments in the circumstances specified in the order.
 
 (4) An order imposing a limit by virtue of subsection (3)(a) or (b) may fix that limit either by specifying the amount of the limit or by providing for the means by which it is to be determined.
 
-(5)[^key-a7eda78dfc6982add5e697fa10d32608] An order under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(5)[^c-a7eda78dfc6982add5e697fa10d32608] An order under this section shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (6) Subsections (4) to (6) of section 189 of the [^c11421871]Social Security Administration Act 1992 (supplemental and incidental powers etc.) shall apply in relation to any power to make an order under this section as they apply in relation to the powers to make an order that are conferred by that Act.
 
@@ -60,9 +60,9 @@ shall apply in relation to payments under this section as they apply in relation
 
 [^c11421861]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-95b345a973baf929ef97b3b7e5881b01]: Modification: [S. 70(3)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/70/3/a): transfer of functions (6.11.2014) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2014 (S.I. 2014/2918)](https://www.legislation.gov.uk/uksi/2014/2918), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/2/1) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2014/2918/article/2/2), [5](https://www.legislation.gov.uk/uksi/2014/2918/article/5))
+[^c-95b345a973baf929ef97b3b7e5881b01]: Modification: [S. 70(3)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/70/3/a): transfer of functions (6.11.2014) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2014 (S.I. 2014/2918)](https://www.legislation.gov.uk/uksi/2014/2918), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/2/1) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2014/2918/article/2/2), [5](https://www.legislation.gov.uk/uksi/2014/2918/article/5))
 
-[^key-a7eda78dfc6982add5e697fa10d32608]: Modification: [S. 70(5)](https://www.legislation.gov.uk/ukpga/2000/19/section/70/5) excluded (6.11.2014) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2014 (S.I. 2014/2918)](https://www.legislation.gov.uk/uksi/2014/2918), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/4/1)
+[^c-a7eda78dfc6982add5e697fa10d32608]: Modification: [S. 70(5)](https://www.legislation.gov.uk/ukpga/2000/19/section/70/5) excluded (6.11.2014) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2014 (S.I. 2014/2918)](https://www.legislation.gov.uk/uksi/2014/2918), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2014/2918/article/4/1)
 
 [^c11421871]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 

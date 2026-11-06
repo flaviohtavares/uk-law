@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Power to deal with unserviceable vessels[^key-15fa77c4a931858b276515db3f52b51c]
+## 61. Power to deal with unserviceable vessels[^c-15fa77c4a931858b276515db3f52b51c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15fa77c4a931858b276515db3f52b51c]: Commencement: Art. 61 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-15fa77c4a931858b276515db3f52b51c]: Commencement: Art. 61 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

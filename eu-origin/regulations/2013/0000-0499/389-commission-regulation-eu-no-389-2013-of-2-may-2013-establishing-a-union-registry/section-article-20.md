@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 20. Opening external trading platform accounts in the Union Registry[^key-da94e880fad4281e77c09667a332446c]
+## Article 20. Opening external trading platform accounts in the Union Registry[^c-da94e880fad4281e77c09667a332446c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da94e880fad4281e77c09667a332446c]: Textual amendment: [Arts. 19-21](https://www.legislation.gov.uk/eur/2013/389/article/19) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(12)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/12)
+[^c-da94e880fad4281e77c09667a332446c]: Textual amendment: [Arts. 19-21](https://www.legislation.gov.uk/eur/2013/389/article/19) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(12)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/12)

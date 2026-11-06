@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89C. Disabled person's interest: powers of advancement etc[^key-d8a956d0ae5e159905ff10d53f6b9db3]
+## 89C. Disabled person's interest: powers of advancement etc[^c-d8a956d0ae5e159905ff10d53f6b9db3]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8a956d0ae5e159905ff10d53f6b9db3]: Textual amendment: S. 89C inserted (with effect in accordance with Sch. 44 para. 10(3)-(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/10/2)
+[^c-d8a956d0ae5e159905ff10d53f6b9db3]: Textual amendment: S. 89C inserted (with effect in accordance with Sch. 44 para. 10(3)-(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/10/2)

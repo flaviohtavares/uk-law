@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326. Duty to observe fairness code[^key-06d59a276b08adbc56eb508ba9e18530]
+## 326. Duty to observe fairness code[^c-06d59a276b08adbc56eb508ba9e18530]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ of the code for the time being in force under section 107 of the 1996 Act (the f
 
 ## Annotations
 
-[^key-06d59a276b08adbc56eb508ba9e18530]: Commencement: S. 326 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-06d59a276b08adbc56eb508ba9e18530]: Commencement: S. 326 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

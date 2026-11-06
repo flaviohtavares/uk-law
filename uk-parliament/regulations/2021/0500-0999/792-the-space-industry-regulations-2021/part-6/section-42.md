@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. The licensee’s organisation and management[^key-bd166e80db887b2429c67214944938de]
+## 42. The licensee’s organisation and management[^c-bd166e80db887b2429c67214944938de]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd166e80db887b2429c67214944938de]: Commencement: Reg. 42 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-bd166e80db887b2429c67214944938de]: Commencement: Reg. 42 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00038]: Footnote: See section 5(1) of the Space Industry Act 2018 for the definition of “zone”.

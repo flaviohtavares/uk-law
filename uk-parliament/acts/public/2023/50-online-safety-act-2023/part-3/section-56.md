@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. “Recognised news publisher”[^key-bfcfed32a6feaf0db94388f405f7e0cf]
+## 56. “Recognised news publisher”[^c-bfcfed32a6feaf0db94388f405f7e0cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfcfed32a6feaf0db94388f405f7e0cf]: Commencement: S. 56 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-bfcfed32a6feaf0db94388f405f7e0cf]: Commencement: S. 56 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

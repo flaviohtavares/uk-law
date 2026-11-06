@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-756205f9851aebf704d9e50a7fc4634a]
+## 15. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-756205f9851aebf704d9e50a7fc4634a]
 
 *Extent: E+W+S*
 
-(1)[^key-f3afa23412aab1c030468bf14d870adc] Subject to the following provisions of this regulation, a person is to be treated as responsible for a child or young person for whom he is receiving child benefit and this includes a child or young person to whom paragraph (3) of regulation 14 applies.[^key-b9eb3d7ac8e45022fdaa0a9d9ce3051f]
+(1)[^c-f3afa23412aab1c030468bf14d870adc] Subject to the following provisions of this regulation, a person is to be treated as responsible for a child or young person for whom he is receiving child benefit and this includes a child or young person to whom paragraph (3) of regulation 14 applies.[^c-b9eb3d7ac8e45022fdaa0a9d9ce3051f]
 
 (1A) In a case where a child (“the first child”) is in receipt of child benefit in respect of another child (“the second child”), the person treated as responsible for the first child in accordance with the provisions of this regulation shall also be treated as responsible for the second child.
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-756205f9851aebf704d9e50a7fc4634a]: Commencement: Reg. 15 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-756205f9851aebf704d9e50a7fc4634a]: Commencement: Reg. 15 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-f3afa23412aab1c030468bf14d870adc]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1)[(1A)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1A)[(2)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/2) substituted for [reg. 15(1)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1)[(2)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/2) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a), [5](https://www.legislation.gov.uk/uksi/1993/2119/regulation/5)
+[^c-f3afa23412aab1c030468bf14d870adc]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1)[(1A)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1A)[(2)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/2) substituted for [reg. 15(1)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1)[(2)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/2) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a), [5](https://www.legislation.gov.uk/uksi/1993/2119/regulation/5)
 
-[^key-b9eb3d7ac8e45022fdaa0a9d9ce3051f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1) added (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit) (Amendment) Regulations 2002 (S.I. 2002/2402)](https://www.legislation.gov.uk/uksi/2002/2402), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2402/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2002/2402/schedule/1/paragraph/3)
+[^c-b9eb3d7ac8e45022fdaa0a9d9ce3051f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1987/1967/regulation/15/1) added (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit) (Amendment) Regulations 2002 (S.I. 2002/2402)](https://www.legislation.gov.uk/uksi/2002/2402), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2402/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2002/2402/schedule/1/paragraph/3)

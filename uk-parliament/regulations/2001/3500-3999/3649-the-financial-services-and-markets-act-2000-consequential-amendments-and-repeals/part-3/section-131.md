@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Discharge of protected rights on winding up: insurance policies[^key-4379e04e694377e93576770ed556f752]
+## 131. Discharge of protected rights on winding up: insurance policies[^c-4379e04e694377e93576770ed556f752]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 28A of the Pension Schemes (Northern Ireland) Act 1993 (discharge of 
 
 ## Annotations
 
-[^key-4379e04e694377e93576770ed556f752]: Commencement: Art. 131 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4379e04e694377e93576770ed556f752]: Commencement: Art. 131 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

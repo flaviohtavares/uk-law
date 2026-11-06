@@ -30,15 +30,15 @@ Section 35.
 
 #### Commencement of trade etc.
 
-**2.**[^key-7eb74c00274ef02cca29014666688060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7eb74c00274ef02cca29014666688060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Discontinuance of trade etc.
 
-**3.**[^key-5a728a63226907b512daaa09b7f4b7ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5a728a63226907b512daaa09b7f4b7ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Underpayments
 
-**4.**[^key-18d2b7fb70d0f2350a614df2f3fd5a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-18d2b7fb70d0f2350a614df2f3fd5a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Additional relief in respect of children
 
@@ -63,7 +63,7 @@ Section 35.
 
 #### Blind person’s allowance
 
-**8.**[^key-4a189f6e328bf477233d464f662b9e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4a189f6e328bf477233d464f662b9e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Life assurance premiums
 
@@ -74,11 +74,11 @@ Section 35.
 
 #### Payments securing annuities
 
-**10.**[^key-c52f02e2495621e5040583e4a64f2dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c52f02e2495621e5040583e4a64f2dac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Married couples living together
 
-**11.**[^key-2bf5c227636171a6ac6a0a3a8d0d97e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2bf5c227636171a6ac6a0a3a8d0d97e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Business expansion scheme
 
@@ -104,7 +104,7 @@ Section 35.
 
 #### Qualifying maintenance payments
 
-**13.**[^key-80c78f31855714a3d2fa13687c980e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-80c78f31855714a3d2fa13687c980e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Home loans
 
@@ -112,19 +112,19 @@ Section 35.
 
 #### Loans for shares in employee-controlled company
 
-**15.**[^key-dfc56fa2f28b4bda9e6a4ed314dfbb52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-dfc56fa2f28b4bda9e6a4ed314dfbb52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Close company loans
 
-**16.**[^key-4da621f84f504d0605c4f1eb398f25f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4da621f84f504d0605c4f1eb398f25f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Trade unions and employers’ associations
 
-**17.**[^key-4da621f84f504d0605c4f1eb398f25f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4da621f84f504d0605c4f1eb398f25f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Retirement benefit schemes
 
-**18.**[^key-ae809123d39e4bf41815cc6f48ee30db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-ae809123d39e4bf41815cc6f48ee30db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Partnership retirement annuities
 
@@ -134,11 +134,11 @@ Section 35.
 
 #### Earned income
 
-**21.**[^key-fed0c50af28df7c309a643c496ad53d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-fed0c50af28df7c309a643c496ad53d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Total income
 
-**22.**[^key-bc44417225bf432ab22dfab4383efc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-bc44417225bf432ab22dfab4383efc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Other Provisions
 
@@ -191,11 +191,11 @@ the same particulars shall be included in the return as would have been required
 
 ## Annotations
 
-[^key-7eb74c00274ef02cca29014666688060]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-7eb74c00274ef02cca29014666688060]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-5a728a63226907b512daaa09b7f4b7ea]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-5a728a63226907b512daaa09b7f4b7ea]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-18d2b7fb70d0f2350a614df2f3fd5a30]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/4) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-18d2b7fb70d0f2350a614df2f3fd5a30]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/4) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13529911]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/5) repealed (27.7.1999 with effect for the year 2000-01 and subsequent years of assessment) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(4)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/4), note
 
@@ -203,27 +203,27 @@ the same particulars shall be included in the return as would have been required
 
 [^c13529931]: Textual amendment: [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/7/3) repealed (27.7.1999 with effect for the year 2001-02 and subsequent years of assessment) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(5)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/5), note 2
 
-[^key-4a189f6e328bf477233d464f662b9e68]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/8) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/b)
+[^c-4a189f6e328bf477233d464f662b9e68]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/8) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/b)
 
-[^key-c52f02e2495621e5040583e4a64f2dac]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/10) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/b)
+[^c-c52f02e2495621e5040583e4a64f2dac]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/10) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/b)
 
-[^key-2bf5c227636171a6ac6a0a3a8d0d97e2]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/11) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-2bf5c227636171a6ac6a0a3a8d0d97e2]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/11) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-80c78f31855714a3d2fa13687c980e05]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/13) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-80c78f31855714a3d2fa13687c980e05]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/13) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c13529941]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/14) repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(7) note 4 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(7)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/7)
 
-[^key-dfc56fa2f28b4bda9e6a4ed314dfbb52]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/15) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-dfc56fa2f28b4bda9e6a4ed314dfbb52]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/15) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-4da621f84f504d0605c4f1eb398f25f7]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/17) repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4da621f84f504d0605c4f1eb398f25f7]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/17) repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ae809123d39e4bf41815cc6f48ee30db]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/18) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-ae809123d39e4bf41815cc6f48ee30db]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/18) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c13529951]: Textual amendment: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/20) repealed (1.5.1995 wih effect for the year 1995-96 and subsequent years of assessment) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29 Pt. VIII(8)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/VIII/8), note
 
-[^key-fed0c50af28df7c309a643c496ad53d9]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/21) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fed0c50af28df7c309a643c496ad53d9]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/21) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 13](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/13) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-bc44417225bf432ab22dfab4383efc47]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/22) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-bc44417225bf432ab22dfab4383efc47]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/22) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c13529961]: Textual amendment: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/1988/39/schedule/3/paragraph/23) repealed by [Capital Allowances Act 1990 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1990/1), [s. 164(4)](https://www.legislation.gov.uk/ukpga/1990/1/section/164/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/1/schedule/2) (with ss. 82 and 164(5))
 

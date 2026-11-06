@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Unfair dismissal: adjustments under sections 31 and 38[^key-af0c1153a6ef75d6b6ba4d2c988ff87c]
+## 39. Unfair dismissal: adjustments under sections 31 and 38[^c-af0c1153a6ef75d6b6ba4d2c988ff87c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ In the Employment Rights Act 1996 (c. 18), after section 124 there is insertedâ€
 
 ## Annotations
 
-[^key-af0c1153a6ef75d6b6ba4d2c988ff87c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2002/22/section/39) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+[^c-af0c1153a6ef75d6b6ba4d2c988ff87c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2002/22/section/39) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)

@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 22(1) and (2) of the Petroleum Act 1987[^f00001] (hereinafter referred to as “the Act”) and of all other powers enabling him in that behalf, hereby makes the following order:
 
-## 1. Citation and commencement[^key-2a530ad5fd43efbf10639393fe1da47e]
+## 1. Citation and commencement[^c-2a530ad5fd43efbf10639393fe1da47e]
 
 This order may be cited as the Offshore Installations (Safety Zones) (No. 3) Order 2000 and shall come into force on 6th November 2000.
 
-## 2. Establishment of safety zones[^key-943efa1cd1a26c8883ef2246c96a0672]
+## 2. Establishment of safety zones[^c-943efa1cd1a26c8883ef2246c96a0672]
 
 A safety zone is hereby established around each installation specified in column 1 of the Schedule hereto (being an installation stationed in waters to which subsection (7) of section 21 of the Act applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -59,7 +59,7 @@ Department of the Environment, Transport and the Regions
 
 16th October 2000
 
-## SCHEDULE — Safety Zones[^key-0b55ac6cbd9ce972dbeebefc9f656231]
+## SCHEDULE — Safety Zones[^c-0b55ac6cbd9ce972dbeebefc9f656231]
 
 Article 2
 
@@ -76,7 +76,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-86d9657a4bcdb1fdf738f1db0bc95371][^key-86d9657a4bcdb1fdf738f1db0bc95371][^key-86d9657a4bcdb1fdf738f1db0bc95371]
+[^c-86d9657a4bcdb1fdf738f1db0bc95371][^c-86d9657a4bcdb1fdf738f1db0bc95371][^c-86d9657a4bcdb1fdf738f1db0bc95371]
 
 (This note is not part of the Order)
 
@@ -88,10 +88,10 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12).
 
-[^key-2a530ad5fd43efbf10639393fe1da47e]: Commencement: Art. 1 in force at 6.11.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/2846/article/1)
+[^c-2a530ad5fd43efbf10639393fe1da47e]: Commencement: Art. 1 in force at 6.11.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/2846/article/1)
 
-[^key-943efa1cd1a26c8883ef2246c96a0672]: Commencement: Art. 2 in force at 6.11.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/2846/article/1)
+[^c-943efa1cd1a26c8883ef2246c96a0672]: Commencement: Art. 2 in force at 6.11.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/2846/article/1)
 
-[^key-0b55ac6cbd9ce972dbeebefc9f656231]: Commencement: Sch. in force at 6.11.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/2846/article/1)
+[^c-0b55ac6cbd9ce972dbeebefc9f656231]: Commencement: Sch. in force at 6.11.2000, see [art. 1](https://www.legislation.gov.uk/uksi/2000/2846/article/1)
 
-[^key-86d9657a4bcdb1fdf738f1db0bc95371]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2000/2846/schedule) omitted (24.12.2024) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2024 (S.I. 2024/1278)](https://www.legislation.gov.uk/uksi/2024/1278), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/4/2)
+[^c-86d9657a4bcdb1fdf738f1db0bc95371]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2000/2846/schedule) omitted (24.12.2024) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2024 (S.I. 2024/1278)](https://www.legislation.gov.uk/uksi/2024/1278), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/4/2)

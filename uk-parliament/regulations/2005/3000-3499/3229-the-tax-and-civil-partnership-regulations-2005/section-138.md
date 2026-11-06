@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138.[^key-bd1357d85b714a62f491c50baff943fb]
+## 138.[^c-bd1357d85b714a62f491c50baff943fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 52 (conditions of liability where intermediary is a partnership), in 
 
 ## Annotations
 
-[^key-bd1357d85b714a62f491c50baff943fb]: Commencement: Reg. 138 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bd1357d85b714a62f491c50baff943fb]: Commencement: Reg. 138 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

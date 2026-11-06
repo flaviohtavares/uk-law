@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Meaning of deposit-taking business, chief executive and manager[^key-621c815b8b39dcc9e47a2caa100c243d]
+## 71. Meaning of deposit-taking business, chief executive and manager[^c-621c815b8b39dcc9e47a2caa100c243d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-621c815b8b39dcc9e47a2caa100c243d]: Commencement: Art. 71 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-621c815b8b39dcc9e47a2caa100c243d]: Commencement: Art. 71 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00074]: Footnote: Part II was inserted by [SR (NI) 1992/258](https://www.legislation.gov.uk/nisr/1992/258), regulation 5, Schedule 1.
 

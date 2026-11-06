@@ -43,17 +43,17 @@ In exercise of the powers conferred on the Secretary of State by sections 218(1)
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-828536ba4a98f67aec8bfe7466f0882c]
+### 1. Citation and commencement[^c-828536ba4a98f67aec8bfe7466f0882c]
 
 These Regulations may be cited as the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999 and shall come into force on 1st September 1999.
 
-### 2. Revocations and transitional provisions[^key-44f6da661187b49a7017db664778f535]
+### 2. Revocations and transitional provisions[^c-44f6da661187b49a7017db664778f535]
 
 (1) Part I of Schedule I shall have effect as respects the revocations there mentioned.
 
 (2) Part II of Schedule 1 shall have effect as respects the transitional matters there mentioned.
 
-### 3. Interpretation[^key-b63811ae060769b9781aee3b0e9aab64]
+### 3. Interpretation[^c-b63811ae060769b9781aee3b0e9aab64]
 
 (1) Except where the context otherwise requires, in these Regulations—
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Education (Teachers' Qualifications and He
 
 ## PART II — PROVISIONS APPLYING TO SCHOOLS AND FURTHER EDUCATION INSTITUTIONS
 
-### 4. Staffing of schools and further education institutions[^key-582b35759032da2be962b4a18f78ffd8]
+### 4. Staffing of schools and further education institutions[^c-582b35759032da2be962b4a18f78ffd8]
 
 (1) At any school or further education institution there shall be employed a staff of teachers suitable and sufficient in numbers for the purpose of securing the provision of education appropriate to the ages, abilities, aptitudes and needs of the pupils or students having regard to any arrangements for the utilisation of the services of teachers employed otherwise than at the school or further education institution in question.
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Education (Teachers' Qualifications and He
 
 ## PART III — PROVISIONS OF GENERAL APPLICATION
 
-**5.**[^key-9093bf89dd68272532cb63dad4250690] (1) Any reference in this Part to relevant employment is subject to paragraph (2), a reference to employment—
+**5.**[^c-9093bf89dd68272532cb63dad4250690] (1) Any reference in this Part to relevant employment is subject to paragraph (2), a reference to employment—
 
 - (a) by a local education authority, as teachers (whether or not at a school or further education institution) or as workers with children or young persons;
 - (b) by any other body, as teachers at a school or further education institution; or
@@ -123,7 +123,7 @@ These Regulations may be cited as the Education (Teachers' Qualifications and He
 
 (2) For the purposes of this Part, employment includes the engagement of a person to provide his services as a teacher otherwise than under a contract of employment and references to employment or relevant employment shall be construed accordingly.
 
-### 6. Health standards-appointments[^key-f00b6395b2cf2a9c2f341a87c44181db]
+### 6. Health standards-appointments[^c-f00b6395b2cf2a9c2f341a87c44181db]
 
 (1) Subject to paragraph (4), a person shall not be appointed to relevant employment if, having regard to any duty of the employer under Part II of the Disability Discrimination Act 1995[^f00010], he does not have the health and mental and physical capacity for that employment.
 
@@ -135,7 +135,7 @@ These Regulations may be cited as the Education (Teachers' Qualifications and He
 
 (5) Nothing in paragraph (4) prevents the appointment or engagement of a person who has ceased to be incapacitated and whose retirement pension has for that reason ceased to be payable.
 
-### 7. Health standards-continued employment[^key-eaa06b468db4efa06872a0d85315342f]
+### 7. Health standards-continued employment[^c-eaa06b468db4efa06872a0d85315342f]
 
 (1) A person in relevant employment shall not continue in that employment if, having regard to any duty of the employer under Part II of the Disability Discrimination Act 1995, he does not have the health and mental and physical capacity for that employment.
 
@@ -149,7 +149,7 @@ These Regulations may be cited as the Education (Teachers' Qualifications and He
 
 ## PART IV — PROVISIONS APPLYING ONLY TO SCHOOLS
 
-### 8. Employment to which Part IV applies[^key-7fc79100a74f2a166a7ecc439d5db45a]
+### 8. Employment to which Part IV applies[^c-7fc79100a74f2a166a7ecc439d5db45a]
 
 Subject to regulation 9 this Part shall apply in relation to the employment of persons as teachers at schools, unless they are employed solely in the provision of—
 
@@ -157,27 +157,27 @@ Subject to regulation 9 this Part shall apply in relation to the employment of p
 - (b) full-time education to persons who have attained the age of 19 years only; or
 - (c) both such part-time and such full-time education.
 
-**9.**[^key-76ea0f3e5f90fe5059306fb7d4bbb41a] For the purposes of this Part, employment includes the engagement of a person to provide his services as a teacher otherwise than under a contract of employment and references to employment or being employed shall be construed accordingly.
+**9.**[^c-76ea0f3e5f90fe5059306fb7d4bbb41a] For the purposes of this Part, employment includes the engagement of a person to provide his services as a teacher otherwise than under a contract of employment and references to employment or being employed shall be construed accordingly.
 
-### 10. Employment normally restricted to qualified teachers[^key-96e601eff5750f8c253e0c87bf40e5b6]
+### 10. Employment normally restricted to qualified teachers[^c-96e601eff5750f8c253e0c87bf40e5b6]
 
 Save in the cases and circumstances specified in Schedule 2, and subject to regulations 11, 12, 13 and 14 no person shall be employed as a teacher at a school unless he is a qualified teacher in accordance with Schedule 3.
 
-### 11. Employment of teachers of hearing impaired pupils[^key-426af64f088b2e5068858c20892fe0d1]
+### 11. Employment of teachers of hearing impaired pupils[^c-426af64f088b2e5068858c20892fe0d1]
 
 Subject to regulations 13 and 14, a person shall not be a qualified teacher for the purpose of employment at a school as a teacher of a class of pupils who are hearing impaired (otherwise than to give instruction in a craft, trade or domestic subject), unless in addition to being a qualified teacher in accordance with Schedule 3, he possesses a qualification for the time being approved by the Assembly for the purpose of this regulation.
 
-### 12. Employment of teachers of visually impaired pupils[^key-ab8b0d8a444ce4991fda5a6066f63cc4]
+### 12. Employment of teachers of visually impaired pupils[^c-ab8b0d8a444ce4991fda5a6066f63cc4]
 
 Subject to regulations 13 and 14, a person shall not be a qualified teacher for the purpose of employment at a school as a teacher of a class of pupils who are visually impaired (otherwise than to give instruction in a craft, trade or domestic subject), unless in addition to being a qualified teacher in accordance with Schedule 3, he possesses a qualification for the time being approved by the Assembly for the purpose of this regulation.
 
-### 13. Employment of teachers of pupils who are both hearing and visually impaired[^key-e62b7e71a074712237321ef6f46493bf]
+### 13. Employment of teachers of pupils who are both hearing and visually impaired[^c-e62b7e71a074712237321ef6f46493bf]
 
 (1) Subject to paragraph (2) and regulation 14, a person shall not be a qualified teacher for the purpose of employment at a school as a teacher of a class of pupils who are both hearing impaired and visually impaired (otherwise than to give instruction in a craft, trade or domestic subject), unless in addition to being a qualified teacher in accordance with Schedule 3, he possesses a qualification for the time being approved by the Assembly for the purpose of this regulation.
 
 (2) A person who possesses a qualification approved under regulation 11 or 12 shall be a qualified teacher for the purpose mentioned in paragraph (1) notwithstanding that he does not possess a qualification approved for the purpose of that paragraph where his employers are satisfied that no teacher with such a qualification is available to teach the class in question.
 
-### 14. Temporary employment of teachers of the visually impaired or hearing impaired (or both)[^key-1ee0a7cf4990778eb8bfe2a9f1599f0f]
+### 14. Temporary employment of teachers of the visually impaired or hearing impaired (or both)[^c-1ee0a7cf4990778eb8bfe2a9f1599f0f]
 
 A person may be employed at a special school as the teacher of a class of pupils who are—
 
@@ -197,7 +197,7 @@ Presiding Officer, National Assembly for Wales
 
 Regulation 2
 
-### PART I: — REVOCATIONS[^key-5cdc7ddb89733f6e4e831a49de21d2a9]
+### PART I: — REVOCATIONS[^c-5cdc7ddb89733f6e4e831a49de21d2a9]
 
 #### The Education (Teachers) Regulations 1993 ([S.I.1993/543](https://www.legislation.gov.uk/uksi/1993/543))
 
@@ -221,7 +221,7 @@ Regulation 4 is revoked as regards Wales.
 
 ### PART II — GENERAL TRANSITIONAL — PROVISIONS
 
-#### 1. Existing qualifications for teaching hearing impaired pupils[^key-01193d95de7b9ed4b74b8c822718b516]
+#### 1. Existing qualifications for teaching hearing impaired pupils[^c-01193d95de7b9ed4b74b8c822718b516]
 
 Any person who immediately before 1st September 1999 possessed—
 
@@ -234,7 +234,7 @@ Any person who immediately before 1st September 1999 possessed—
 
 shall be treated as possessing a qualification approved for the purpose of regulation 11.
 
-#### 2. Existing qualifications for teaching visually impaired pupils[^key-6115a99a0a05480ccd33879f07b88329]
+#### 2. Existing qualifications for teaching visually impaired pupils[^c-6115a99a0a05480ccd33879f07b88329]
 
 Any person who immediately before 1st September 1999 possessed—
 
@@ -246,19 +246,19 @@ Any person who immediately before 1st September 1999 possessed—
 
 shall be treated as possessing a qualification approved for the purpose of regulation 12.
 
-#### 3. Continued employment of existing teachers of pupils who are hearing or visually impaired or both[^key-94b8a53e67d0bf5ea0cba6bbf38d6eda]
+#### 3. Continued employment of existing teachers of pupils who are hearing or visually impaired or both[^c-94b8a53e67d0bf5ea0cba6bbf38d6eda]
 
 A person who has satisfied the requirements of regulation 18 of the 1982 Regulations for employment at a special school as the teacher of a class of pupils who were both deaf or partially hearing and blind may, notwithstanding that he is not a qualified teacher for the purpose of regulation 13(1), be employed at a school as a teacher of a class of pupils who are both hearing and visually impaired.
 
-#### 4. Period of employment of student teachers[^key-ae2a1c14fd3d4b3197e55a9b30c0690e]
+#### 4. Period of employment of student teachers[^c-ae2a1c14fd3d4b3197e55a9b30c0690e]
 
 An approval for the purposes of paragraph 2(2)(a) of Schedule 3 to the 1989 Regulations of a period exceeding two years during which a person may be employed as a student teacher shall have effect as if given for the purposes of paragraph 2(2)(a) of Schedule 2.
 
-#### 5. Accreditation of institutions providing initial teacher training[^key-ff87d1b8f955b2f045ad4d00ae37985b]
+#### 5. Accreditation of institutions providing initial teacher training[^c-ff87d1b8f955b2f045ad4d00ae37985b]
 
 Any accreditation for the purposes of paragraph 3 of Schedule 3 to the 1993 Regulations in force immediately before 1st September 1999 shall have effect as if given for the purposes of paragraph 2 of Schedule 3.
 
-#### 6. Probation decisions by the Assembly[^key-2f4eec2f26e20dcdc43226de307d829c]
+#### 6. Probation decisions by the Assembly[^c-2f4eec2f26e20dcdc43226de307d829c]
 
 (1) In the case of a person who, on 1st September 1992, had commenced but not completed a period of probation under regulation 14 of, and Schedule 6 to, the 1989 Regulations, regulation 14 and Schedule 6 shall continue to have effect until all their provisions have been complied with.
 
@@ -269,14 +269,14 @@ Any accreditation for the purposes of paragraph 3 of Schedule 3 to the 1993 Regu
 
 shall not be employed as a teacher in a school without the consent of the Assembly.
 
-#### 7. Licensed, overseas trained and registered teachers[^key-f6333688d8455dd2f909f9a64d589b99]
+#### 7. Licensed, overseas trained and registered teachers[^c-f6333688d8455dd2f909f9a64d589b99]
 
 The 1993 Regulations shall continue to apply as if the Education (Teachers) (Amendment) (No. 2) Regulations 1997[^f00013] and these Regulations had not been made for the purposes of—
 
 - (a) permitting the employment as a teacher at a school of an unqualified teacher who was a licensed teacher or an overseas trained teacher as therein defined on 30th November 1997, and duties imposed on persons in connection therewith shall continue to apply; and
 - (b) determining whether a person, who on or at any time before 30th November 1997 was a licensed teacher, overseas trained teacher or registered teacher as therein defined, is a qualified teacher.
 
-**8.**[^key-3f2001b46a8ea016ce112b1692074766] Where a function conferred by these Regulations on the Assembly was, before 1st July 1999, carried out by the Secretary of State pursuant to the 1982 Regulations, the 1989 Regulations or the 1993 Regulations, any reference in these Regulations to the performance of that function by the Assembly shall, in relation to any time before 1st July 1999, include a reference to its performance by the Secretary of State.
+**8.**[^c-3f2001b46a8ea016ce112b1692074766] Where a function conferred by these Regulations on the Assembly was, before 1st July 1999, carried out by the Secretary of State pursuant to the 1982 Regulations, the 1989 Regulations or the 1993 Regulations, any reference in these Regulations to the performance of that function by the Assembly shall, in relation to any time before 1st July 1999, include a reference to its performance by the Secretary of State.
 
 ## SCHEDULE 2 — CASES AND CIRCUMSTANCES IN WHICH UNQUALIFIED TEACHERS MAY BE EMPLOYED AT SCHOOLS
 
@@ -284,13 +284,13 @@ Regulation 10
 
 ### PART 1 — GENERAL
 
-#### 1. Existing unqualified teachers in nursery classes and at nursery schools[^key-6cb3600bdb1c713b7c65612822708797]
+#### 1. Existing unqualified teachers in nursery classes and at nursery schools[^c-6cb3600bdb1c713b7c65612822708797]
 
 (1) This paragraph shall apply in the case of an unqualified teacher whose employment as an assistant teacher at a nursery school or as a teacher of a nursery class was permitted by paragraph 4 of Schedule 4 to the 1982 Regulations and who was so employed immediately before 1st September 1989.
 
 (2) Such a teacher may continue to be employed as he was employed immediately before 1st September 1989.
 
-#### 2. Student teachers[^key-b616e2de930f197e11f9e38220ec7a62]
+#### 2. Student teachers[^c-b616e2de930f197e11f9e38220ec7a62]
 
 (1) This paragraph shall apply in the case of an unqualified teacher over the age of 18 years who either—
 
@@ -302,7 +302,7 @@ Regulation 10
 - (a) the aggregate period for which he has been employed by virtue of this paragraph, paragraph 2(2) of Schedule 2 to the 1993 Regulations or paragraph 2(2) of Schedule 3 to the 1989 Regulations, by one or more authorities or bodies, does not exceed 2 years or such longer period, if any, as is approved in his case by the Assembly; and
 - (b) he is required neither to take responsibility for a class nor to teach a subject which is not also taught by a qualified teacher at the school.
 
-#### 3. Instructors with special qualifications or experience[^key-cccb62d12f4c3535fdc95d66770144ee]
+#### 3. Instructors with special qualifications or experience[^c-cccb62d12f4c3535fdc95d66770144ee]
 
 (1) This paragraph shall apply in the case of an unqualified teacher appointed, or proposed to be appointed, to give instruction in any art or skill or in any subject or group of subjects (including any form of vocational training) the teaching of which requires special qualifications or experience if, at the time of his appointment—
 
@@ -316,7 +316,7 @@ Regulation 10
 - (a) where his appointment was for a specified period, if and so long as that period has not expired; or
 - (b) where his appointment was for an unspecified period, if it was not otherwise expressed to be temporary only.
 
-#### 4. Temporary teachers[^key-e2370252ea8fa03ce90b2234f92c5892]
+#### 4. Temporary teachers[^c-e2370252ea8fa03ce90b2234f92c5892]
 
 (1) Subject to sub-paragraph (2) below, an unqualified teacher may be employed at a school (other than a pupil referral unit) if—
 
@@ -327,11 +327,11 @@ Regulation 10
 
 ### PART II — GRADUATE TEACHERS
 
-**5.**[^key-8061b66889531ae72c1c160c485e1a6e] (1) This paragraph shall apply to a person who is not a qualified teacher but who has been granted an authorisation to teach in accordance with this Part of this Schedule.
+**5.**[^c-8061b66889531ae72c1c160c485e1a6e] (1) This paragraph shall apply to a person who is not a qualified teacher but who has been granted an authorisation to teach in accordance with this Part of this Schedule.
 
 (2) Subject to the provisions of this Part of this Schedule, such a person may be employed as a teacher at a school, except a pupil referral unit.
 
-**6.**[^key-252ba898e38e1c3a386934c468e7d57a] (1) On the recommendation of the recommending body, the Assembly may grant an authorisation to teach to the person named in that recommendation.
+**6.**[^c-252ba898e38e1c3a386934c468e7d57a] (1) On the recommendation of the recommending body, the Assembly may grant an authorisation to teach to the person named in that recommendation.
 
 (2) A recommendation for an authorisation shall contain such particulars as the Assembly may determine and shall also contain the particulars set out in sub-paragraphs (3) to (6).
 
@@ -351,11 +351,11 @@ Regulation 10
 
 (6) It shall contain the name of the institution or body who will be the person’s employer.
 
-**7.**[^key-54f2daff78e767184743b7152d5f7d52] The length of the proposed period of training shall be appropriate to the person’s need for practical teaching experience and training and, in the case of a first recommendation where the person will be employed full-time, it shall be not less than three months and not more than one year.
+**7.**[^c-54f2daff78e767184743b7152d5f7d52] The length of the proposed period of training shall be appropriate to the person’s need for practical teaching experience and training and, in the case of a first recommendation where the person will be employed full-time, it shall be not less than three months and not more than one year.
 
-**8.**[^key-d485ac28841643d737a3b521a673e5e0] Where the recommending body have submitted a recommendation to the Assembly, the person named in that recommendation may be provisionally employed as a graduate teacher at the school or schools specified in the recommendation until 14 days after the Assembly have notified the recommending body of their decision whether or not to grant the authorisation.
+**8.**[^c-d485ac28841643d737a3b521a673e5e0] Where the recommending body have submitted a recommendation to the Assembly, the person named in that recommendation may be provisionally employed as a graduate teacher at the school or schools specified in the recommendation until 14 days after the Assembly have notified the recommending body of their decision whether or not to grant the authorisation.
 
-**9.**[^key-d4eee87fdae5cdfbaecef124081e966d] (1) Subject to sub-paragraph (2), an authorisation shall remain in force for the period of training proposed in the recommendation.
+**9.**[^c-d4eee87fdae5cdfbaecef124081e966d] (1) Subject to sub-paragraph (2), an authorisation shall remain in force for the period of training proposed in the recommendation.
 
 (2) An authorisation shall lapse in any of the following circumstances—
 
@@ -364,17 +364,17 @@ Regulation 10
   - (i) where that arises because of the change of status of a school at which he is employed to another type of school, or
   - (ii) where the employer named in the recom-mendation was a local education authority and immediately on ceasing to be employed by that authority he is employed by another local education authority.
 
-**10.**[^key-c67679f43b20c891d41b7bd2ed8a2051] The recommending body shall cause the graduate teacher to receive during the period of the authorisation the training, particulars of which were given in pursuance of paragraph 6(4).
+**10.**[^c-c67679f43b20c891d41b7bd2ed8a2051] The recommending body shall cause the graduate teacher to receive during the period of the authorisation the training, particulars of which were given in pursuance of paragraph 6(4).
 
-**11.**[^key-2154a819791d15723cdf5eb0959788b2] Where an authorisation lapses by virtue of paragraph 9(2) the recommending body shall report the facts of the case to the Assembly.
+**11.**[^c-2154a819791d15723cdf5eb0959788b2] Where an authorisation lapses by virtue of paragraph 9(2) the recommending body shall report the facts of the case to the Assembly.
 
 ### PART III — REGISTERED TEACHERS
 
-**12.**[^key-6f1bc360de181b0838fe2aba8df9b8db] (1) This paragraph shall apply to a person who is not a qualified teacher but who has been granted an authorisation to teach in accordance with this Part of this Schedule.
+**12.**[^c-6f1bc360de181b0838fe2aba8df9b8db] (1) This paragraph shall apply to a person who is not a qualified teacher but who has been granted an authorisation to teach in accordance with this Part of this Schedule.
 
 (2) Subject to the provisions of this Part of this Schedule, such a person may be employed as a teacher at a school, except a pupil referral unit.
 
-**13.**[^key-5b84be32f68b3188d4d89ae966f15631] (1) On the recommendation of the recommending body the Assembly may grant an authorisation to teach to the person named in that recommendation.
+**13.**[^c-5b84be32f68b3188d4d89ae966f15631] (1) On the recommendation of the recommending body the Assembly may grant an authorisation to teach to the person named in that recommendation.
 
 (2) A recommendation for an authorisation shall contain such particulars as the Assembly may determine and shall also contain the particulars set out in sub-paragraphs (3) to (6).
 
@@ -396,11 +396,11 @@ Regulation 10
 
 (6) It shall contain the name of the institution or body who will be the person’s employer.
 
-**14.**[^key-6dd8f561c24e2a497f8b3a6308b11d1b] The length of the proposed period of training shall be appropriate to the person’s need for practical teaching experience and training and, in the case of a first recommendation where the person will be employed full-time, it shall be not less than one year and not more than two years.
+**14.**[^c-6dd8f561c24e2a497f8b3a6308b11d1b] The length of the proposed period of training shall be appropriate to the person’s need for practical teaching experience and training and, in the case of a first recommendation where the person will be employed full-time, it shall be not less than one year and not more than two years.
 
-**15.**[^key-27d293f957a8d73f31fd7192104292c5] Where the recommending body have submitted a recommendation to the Assembly, the person named in that recommendation may be provisionally employed as a registered teacher at the school or schools specified in the recommendation until 14 days after the Assembly have notified the recommending body of their decision whether or not to grant the authorisation.
+**15.**[^c-27d293f957a8d73f31fd7192104292c5] Where the recommending body have submitted a recommendation to the Assembly, the person named in that recommendation may be provisionally employed as a registered teacher at the school or schools specified in the recommendation until 14 days after the Assembly have notified the recommending body of their decision whether or not to grant the authorisation.
 
-**16.**[^key-79155bbfc095c445515844a75d8bed0c] (1) Subject to sub-paragraph (2), an authorisation shall remain in force for the period of training proposed in the recommendation.
+**16.**[^c-79155bbfc095c445515844a75d8bed0c] (1) Subject to sub-paragraph (2), an authorisation shall remain in force for the period of training proposed in the recommendation.
 
 (2) An authorisation shall lapse in any of the following circumstances—
 
@@ -409,15 +409,15 @@ Regulation 10
   - (i) where that arises because of the change of status of a school at which he is employed to another type of school, or
   - (ii) where the employer named in the recommendation was a local education authority and immediately on ceasing to be employed by that authority he is employed by another local education authority.
 
-**17.**[^key-bc5f2097d1147d2e7cc7774e023353e0] The recommending body shall cause the registered teacher to receive during the period of the authorisation the training, particulars of which were given in pursuance of paragraph 13(4).
+**17.**[^c-bc5f2097d1147d2e7cc7774e023353e0] The recommending body shall cause the registered teacher to receive during the period of the authorisation the training, particulars of which were given in pursuance of paragraph 13(4).
 
-**18.**[^key-2b78d6d80b0b06349a70a912e3f8f86c] Where an authorisation lapses by virtue of paragraph 16(2) the recommending body shall report the facts of the case to the Assembly.
+**18.**[^c-2b78d6d80b0b06349a70a912e3f8f86c] Where an authorisation lapses by virtue of paragraph 16(2) the recommending body shall report the facts of the case to the Assembly.
 
 ## SCHEDULE 3 — QUALIFIED TEACHERS AND TRANSITIONAL PROVISIONS RELATING TO QUALIFIED TEACHERS
 
 Regulations 3(2) and 10
 
-**1.**[^key-3ff5acf90a3abfbe6c27a2244b161d4b] (1) A person shall be a qualified teacher for the purpose of regulation 10 (but subject to regulations 11 to 13)—
+**1.**[^c-3ff5acf90a3abfbe6c27a2244b161d4b] (1) A person shall be a qualified teacher for the purpose of regulation 10 (but subject to regulations 11 to 13)—
 
 - (a) if he was qualified to be employed as a teacher immediately before 1st September 1999 by virtue of Schedule 3 to the 1993 Regulations[^f00014]; or
 - (b) if, the Assembly being satisfied on or after 1st September 1999 that he is a person mentioned in paragraphs 2 to 9 and, if he is a person mentioned in paragraph 7 or 8, that the statement submitted by the recommending body or, the States of Guernsey Education Council (as the case may be) is correct, he has received written notification from the Assembly that he is a qualified teacher; or
@@ -431,7 +431,7 @@ and in the case of a person receiving written notification under paragraph (b) t
 
 (4) In the case of a person mentioned in paragraph 8, the Assembly shall not provide for the person to be a qualified teacher from a date prior to the date on which he completed the period of service as a teacher licensed by the States of Guernsey Education Council as specified in the statement of the States of Guernsey Education Council.
 
-**2.**[^key-33f7dd146c903b94122d001deef9a21a] (1) The person—
+**2.**[^c-33f7dd146c903b94122d001deef9a21a] (1) The person—
 
 - (a) holds a degree or equivalent qualification granted by a United Kingdom institution or an equivalent degree or other qualification granted by a foreign institution; and
 - (b) has successfully completed a course of initial training for teachers in schools at an accredited institution in Wales.
@@ -442,15 +442,15 @@ and in the case of a person receiving written notification under paragraph (b) t
 - (b) a “foreign” institution means any institution other than a United Kingdom institution; and
 - (c) an “accredited institution” means an institution accredited by the Higher Education Funding Council for Wales, as a provider of courses satisfying such provisions as to curricula and other criteria as may from time to time be specified by the Assembly.
 
-**3.**[^key-0994b4d7093db6849e73c99beb4d0c74] The person has successfully completed a course of initial training for teachers in schools at an educational institution in Scotland or Northern Ireland.
+**3.**[^c-0994b4d7093db6849e73c99beb4d0c74] The person has successfully completed a course of initial training for teachers in schools at an educational institution in Scotland or Northern Ireland.
 
-**4.**[^key-d3b043d2ca51d3f2db9ab6ee7b5ed9bd] The person is registered as a teacher of primary or secondary education with the General Teaching Council for Scotland.
+**4.**[^c-d3b043d2ca51d3f2db9ab6ee7b5ed9bd] The person is registered as a teacher of primary or secondary education with the General Teaching Council for Scotland.
 
-**5.**[^key-f9af0d012f8281dfdfa203869b6817c2] The person has been awarded confirmation of recognition as a teacher in schools in Northern Ireland by the Department of Education, Northern Ireland Office, that confirmation not having been subsequently withdrawn.
+**5.**[^c-f9af0d012f8281dfdfa203869b6817c2] The person has been awarded confirmation of recognition as a teacher in schools in Northern Ireland by the Department of Education, Northern Ireland Office, that confirmation not having been subsequently withdrawn.
 
-**6.**[^key-d89d4c6a781ccf263f2fec3249bd1a87] The person is a person who as respects the profession of school teacher, falls within Article 3 of Council Directive 89/48 EEC[^f00015] on a general system for the recognition of higher-education diplomas awarded on completion of professional education and training of at least three years' duration, as extended by the Agreement of the European Economic Area signed at Oporto on 2nd May 1992[^f00016] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00017].
+**6.**[^c-d89d4c6a781ccf263f2fec3249bd1a87] The person is a person who as respects the profession of school teacher, falls within Article 3 of Council Directive 89/48 EEC[^f00015] on a general system for the recognition of higher-education diplomas awarded on completion of professional education and training of at least three years' duration, as extended by the Agreement of the European Economic Area signed at Oporto on 2nd May 1992[^f00016] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00017].
 
-**7.**[^key-a19321a56e7b5915652bdd6b35e78d74] (1) Where the person has been granted an authorisation, the recommending body has submitted to the Assembly—
+**7.**[^c-a19321a56e7b5915652bdd6b35e78d74] (1) Where the person has been granted an authorisation, the recommending body has submitted to the Assembly—
 
 - (a) a recommendation that the person should be awarded qualified teacher status; and
 - (b) the statement described in sub-paragraph (2).
@@ -469,7 +469,7 @@ and in the case of a person receiving written notification under paragraph (b) t
 - (b) the “specified standards” means the standards, applying as at the time of assessment, specified by the Assembly as the standards required of a person who seeks to become a qualified teacher;
 - (c) “United Kingdom institution” has the same meaning as in paragraph 2(2)(a).
 
-**8.**[^key-aa09d56759e12bac1c36eab47c80386f] The States of Guernsey Education Council has submitted to the Assembly a recommendation that the person should be awarded qualified teacher status and—
+**8.**[^c-aa09d56759e12bac1c36eab47c80386f] The States of Guernsey Education Council has submitted to the Assembly a recommendation that the person should be awarded qualified teacher status and—
 
 - (a) a statement that he has successfully completed two school years' full-time service or the equivalent period of part-time service as a teacher licensed by the States of Guernsey Education Council and the training specified in the licence;
 - (b) a statement that—
@@ -483,7 +483,7 @@ and in the case of a person receiving written notification under paragraph (b) t
     - (bb) a first degree course and a post-graduate course of initial training for teachers in schools at such an institution (whether or not the same institution), and
   - (iii) he had been employed for not less than one year as a teacher or lecturer in a school, independent school (including a city college), institution or university or other educational establishment either in England or Wales or elsewhere and was not dismissed on grounds other than redundancy.
 
-**9.**[^key-c663850e292cb43de003e63d0d9cc4f0] (1) The person—
+**9.**[^c-c663850e292cb43de003e63d0d9cc4f0] (1) The person—
 
 - (a) is in the opinion of the Assembly a suitable person to be a teacher at a school;
 - (b) has satisfactorily completed a training programme;
@@ -522,11 +522,11 @@ The Regulations do not supersede the provisions in relation to barring contained
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/1672](https://www.legislation.gov.uk/uksi/1999/1672)).
 
-[^key-828536ba4a98f67aec8bfe7466f0882c]: Commencement: Reg. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-828536ba4a98f67aec8bfe7466f0882c]: Commencement: Reg. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-44f6da661187b49a7017db664778f535]: Commencement: Reg. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-44f6da661187b49a7017db664778f535]: Commencement: Reg. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-b63811ae060769b9781aee3b0e9aab64]: Commencement: Reg. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-b63811ae060769b9781aee3b0e9aab64]: Commencement: Reg. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
 [^f00003]: Footnote: The National Assembly for Wales was established by section 1 of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38). All the functions of the Secretary of State relevant to these Regulations are transferred to the Assembly by the National Assembly for Wales (Transfer of Functions) Order 1999 with effect from 1st July 1999. Accordingly, in relation to Wales, references to the Secretary of State in the relevant sections of and Schedules to the Education Reform Act 1988 are to be construed as being, or including, a reference to the Assembly see section 43 of the Government of Wales Act 1998.
 
@@ -542,103 +542,103 @@ The Regulations do not supersede the provisions in relation to barring contained
 
 [^f00009]: Footnote: S.I. [1993/543](https://www.legislation.gov.uk/uksi/1993/543).
 
-[^key-582b35759032da2be962b4a18f78ffd8]: Commencement: Reg. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-582b35759032da2be962b4a18f78ffd8]: Commencement: Reg. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-9093bf89dd68272532cb63dad4250690]: Commencement: Reg. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-9093bf89dd68272532cb63dad4250690]: Commencement: Reg. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-f00b6395b2cf2a9c2f341a87c44181db]: Commencement: Reg. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-f00b6395b2cf2a9c2f341a87c44181db]: Commencement: Reg. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
 [^f00010]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
 
 [^f00011]: Footnote: S.I. [1997/3001](https://www.legislation.gov.uk/uksi/1997/3001) to which there are amendments not relevant to these Regulations.
 
-[^key-eaa06b468db4efa06872a0d85315342f]: Commencement: Reg. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-eaa06b468db4efa06872a0d85315342f]: Commencement: Reg. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-7fc79100a74f2a166a7ecc439d5db45a]: Commencement: Reg. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-7fc79100a74f2a166a7ecc439d5db45a]: Commencement: Reg. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-76ea0f3e5f90fe5059306fb7d4bbb41a]: Commencement: Reg. 9 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-76ea0f3e5f90fe5059306fb7d4bbb41a]: Commencement: Reg. 9 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-96e601eff5750f8c253e0c87bf40e5b6]: Commencement: Reg. 10 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-96e601eff5750f8c253e0c87bf40e5b6]: Commencement: Reg. 10 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-426af64f088b2e5068858c20892fe0d1]: Commencement: Reg. 11 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-426af64f088b2e5068858c20892fe0d1]: Commencement: Reg. 11 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-ab8b0d8a444ce4991fda5a6066f63cc4]: Commencement: Reg. 12 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-ab8b0d8a444ce4991fda5a6066f63cc4]: Commencement: Reg. 12 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-e62b7e71a074712237321ef6f46493bf]: Commencement: Reg. 13 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-e62b7e71a074712237321ef6f46493bf]: Commencement: Reg. 13 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-1ee0a7cf4990778eb8bfe2a9f1599f0f]: Commencement: Reg. 14 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-1ee0a7cf4990778eb8bfe2a9f1599f0f]: Commencement: Reg. 14 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-5cdc7ddb89733f6e4e831a49de21d2a9]: Commencement: Sch. 1 Pt. I in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-5cdc7ddb89733f6e4e831a49de21d2a9]: Commencement: Sch. 1 Pt. I in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-01193d95de7b9ed4b74b8c822718b516]: Commencement: Sch. 1 Pt. II para. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-01193d95de7b9ed4b74b8c822718b516]: Commencement: Sch. 1 Pt. II para. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-6115a99a0a05480ccd33879f07b88329]: Commencement: Sch. 1 para. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-6115a99a0a05480ccd33879f07b88329]: Commencement: Sch. 1 para. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
 [^f00012]: Footnote: S.I. [1959/365](https://www.legislation.gov.uk/uksi/1959/365); the relevant amending instruments are S.I. [1968/1281](https://www.legislation.gov.uk/uksi/1968/1281) and [1971/342](https://www.legislation.gov.uk/uksi/1971/342).
 
-[^key-94b8a53e67d0bf5ea0cba6bbf38d6eda]: Commencement: Sch. 1 para. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-94b8a53e67d0bf5ea0cba6bbf38d6eda]: Commencement: Sch. 1 para. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-ae2a1c14fd3d4b3197e55a9b30c0690e]: Commencement: Sch. 1 para. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-ae2a1c14fd3d4b3197e55a9b30c0690e]: Commencement: Sch. 1 para. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-ff87d1b8f955b2f045ad4d00ae37985b]: Commencement: Sch. 1 para. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-ff87d1b8f955b2f045ad4d00ae37985b]: Commencement: Sch. 1 para. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-2f4eec2f26e20dcdc43226de307d829c]: Commencement: Sch. 1 para. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-2f4eec2f26e20dcdc43226de307d829c]: Commencement: Sch. 1 para. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-f6333688d8455dd2f909f9a64d589b99]: Commencement: Sch. 1 para. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-f6333688d8455dd2f909f9a64d589b99]: Commencement: Sch. 1 para. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
 [^f00013]: Footnote: S.I. [1997/2679](https://www.legislation.gov.uk/uksi/1997/2679).
 
-[^key-3f2001b46a8ea016ce112b1692074766]: Commencement: Sch. 1 para. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-3f2001b46a8ea016ce112b1692074766]: Commencement: Sch. 1 para. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-6cb3600bdb1c713b7c65612822708797]: Commencement: Sch. 2 para. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-6cb3600bdb1c713b7c65612822708797]: Commencement: Sch. 2 para. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-b616e2de930f197e11f9e38220ec7a62]: Commencement: Sch. 2 para. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-b616e2de930f197e11f9e38220ec7a62]: Commencement: Sch. 2 para. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-cccb62d12f4c3535fdc95d66770144ee]: Commencement: Sch. 2 para. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-cccb62d12f4c3535fdc95d66770144ee]: Commencement: Sch. 2 para. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-e2370252ea8fa03ce90b2234f92c5892]: Commencement: Sch. 2 para. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-e2370252ea8fa03ce90b2234f92c5892]: Commencement: Sch. 2 para. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-8061b66889531ae72c1c160c485e1a6e]: Commencement: Sch. 2 para. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-8061b66889531ae72c1c160c485e1a6e]: Commencement: Sch. 2 para. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-252ba898e38e1c3a386934c468e7d57a]: Commencement: Sch. 2 para. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-252ba898e38e1c3a386934c468e7d57a]: Commencement: Sch. 2 para. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-54f2daff78e767184743b7152d5f7d52]: Commencement: Sch. 2 para. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-54f2daff78e767184743b7152d5f7d52]: Commencement: Sch. 2 para. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-d485ac28841643d737a3b521a673e5e0]: Commencement: Sch. 2 para. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-d485ac28841643d737a3b521a673e5e0]: Commencement: Sch. 2 para. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-d4eee87fdae5cdfbaecef124081e966d]: Commencement: Sch. 2 para. 9 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-d4eee87fdae5cdfbaecef124081e966d]: Commencement: Sch. 2 para. 9 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-c67679f43b20c891d41b7bd2ed8a2051]: Commencement: Sch. 2 para. 10 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-c67679f43b20c891d41b7bd2ed8a2051]: Commencement: Sch. 2 para. 10 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-2154a819791d15723cdf5eb0959788b2]: Commencement: Sch. 2 para. 11 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-2154a819791d15723cdf5eb0959788b2]: Commencement: Sch. 2 para. 11 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-6f1bc360de181b0838fe2aba8df9b8db]: Commencement: Sch. 2 para. 12 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-6f1bc360de181b0838fe2aba8df9b8db]: Commencement: Sch. 2 para. 12 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-5b84be32f68b3188d4d89ae966f15631]: Commencement: Sch. 2 para. 13 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-5b84be32f68b3188d4d89ae966f15631]: Commencement: Sch. 2 para. 13 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-6dd8f561c24e2a497f8b3a6308b11d1b]: Commencement: Sch. 2 para. 14 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-6dd8f561c24e2a497f8b3a6308b11d1b]: Commencement: Sch. 2 para. 14 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-27d293f957a8d73f31fd7192104292c5]: Commencement: Sch. 2 para. 15 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-27d293f957a8d73f31fd7192104292c5]: Commencement: Sch. 2 para. 15 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-79155bbfc095c445515844a75d8bed0c]: Commencement: Sch. 2 para. 16 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-79155bbfc095c445515844a75d8bed0c]: Commencement: Sch. 2 para. 16 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-bc5f2097d1147d2e7cc7774e023353e0]: Commencement: Sch. 2 para. 17 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-bc5f2097d1147d2e7cc7774e023353e0]: Commencement: Sch. 2 para. 17 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-2b78d6d80b0b06349a70a912e3f8f86c]: Commencement: Sch. 2 para. 18 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-2b78d6d80b0b06349a70a912e3f8f86c]: Commencement: Sch. 2 para. 18 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-3ff5acf90a3abfbe6c27a2244b161d4b]: Commencement: Sch. 3 para. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-3ff5acf90a3abfbe6c27a2244b161d4b]: Commencement: Sch. 3 para. 1 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
 [^f00014]: Footnote: S.I. [1993/543](https://www.legislation.gov.uk/uksi/1993/543); a new Schedule 3 was substituted by S.I. [1997/2679](https://www.legislation.gov.uk/uksi/1997/2679).
 
-[^key-33f7dd146c903b94122d001deef9a21a]: Commencement: Sch. 3 para. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-33f7dd146c903b94122d001deef9a21a]: Commencement: Sch. 3 para. 2 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-0994b4d7093db6849e73c99beb4d0c74]: Commencement: Sch. 3 para. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-0994b4d7093db6849e73c99beb4d0c74]: Commencement: Sch. 3 para. 3 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-d3b043d2ca51d3f2db9ab6ee7b5ed9bd]: Commencement: Sch. 3 para. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-d3b043d2ca51d3f2db9ab6ee7b5ed9bd]: Commencement: Sch. 3 para. 4 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-f9af0d012f8281dfdfa203869b6817c2]: Commencement: Sch. 3 para. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-f9af0d012f8281dfdfa203869b6817c2]: Commencement: Sch. 3 para. 5 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-d89d4c6a781ccf263f2fec3249bd1a87]: Commencement: Sch. 3 para. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-d89d4c6a781ccf263f2fec3249bd1a87]: Commencement: Sch. 3 para. 6 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
 [^f00015]: Footnote: OJ No L19, 24.1.89, p16.
 
@@ -646,8 +646,8 @@ The Regulations do not supersede the provisions in relation to barring contained
 
 [^f00017]: Footnote: Cm 2183.
 
-[^key-a19321a56e7b5915652bdd6b35e78d74]: Commencement: Sch. 3 para. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-a19321a56e7b5915652bdd6b35e78d74]: Commencement: Sch. 3 para. 7 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-aa09d56759e12bac1c36eab47c80386f]: Commencement: Sch. 3 para. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-aa09d56759e12bac1c36eab47c80386f]: Commencement: Sch. 3 para. 8 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
 
-[^key-c663850e292cb43de003e63d0d9cc4f0]: Commencement: Sch. 3 para. 9 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)
+[^c-c663850e292cb43de003e63d0d9cc4f0]: Commencement: Sch. 3 para. 9 in force at 1.9.1999, see [reg. 1](https://www.legislation.gov.uk/wsi/1999/2817/regulation/1)

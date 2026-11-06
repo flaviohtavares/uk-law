@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61Z1. Wales: pre-application services[^key-f2eb3afab66b277e32ea2a7e6ce59112]
+## 61Z1. Wales: pre-application services[^c-f2eb3afab66b277e32ea2a7e6ce59112]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2eb3afab66b277e32ea2a7e6ce59112]: Textual amendment: Ss. 61Z1, 61Z2 inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 18](https://www.legislation.gov.uk/anaw/2015/4/section/18), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a)
+[^c-f2eb3afab66b277e32ea2a7e6ce59112]: Textual amendment: Ss. 61Z1, 61Z2 inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 18](https://www.legislation.gov.uk/anaw/2015/4/section/18), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a)

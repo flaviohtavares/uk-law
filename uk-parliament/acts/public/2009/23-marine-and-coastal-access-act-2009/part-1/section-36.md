@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Government guarantees[^key-b3a025b990ed9b7e024083d64e15559f]
+## 36. Government guarantees[^c-b3a025b990ed9b7e024083d64e15559f]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ as the Secretary of State may from time to time direct.
 
 ## Annotations
 
-[^key-b3a025b990ed9b7e024083d64e15559f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2009/23/section/36) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-b3a025b990ed9b7e024083d64e15559f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2009/23/section/36) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

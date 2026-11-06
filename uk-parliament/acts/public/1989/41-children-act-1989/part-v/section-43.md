@@ -62,7 +62,7 @@ summary: ''
 - (a) the child’s parents;
 - (b) any person who is not a parent of his but who has parental responsibility for him;
 - (c) any other person caring for the child;
-- (d)[^key-7a845356387d2fc1836e320800e6cf4e] any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
+- (d)[^c-7a845356387d2fc1836e320800e6cf4e] any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
 - (e) any person who is allowed to have contact with the child by virtue of an order under section 34; and
 - (f) the child,
 
@@ -81,4 +81,4 @@ may apply to the court for a child assessment order to be varied or discharged.
 
 [^c15165671]: Commencement: S. 43 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-7a845356387d2fc1836e320800e6cf4e]: Textual amendment: [S. 43(11)(d)](https://www.legislation.gov.uk/ukpga/1989/41/section/43/11/d) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/34); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-7a845356387d2fc1836e320800e6cf4e]: Textual amendment: [S. 43(11)(d)](https://www.legislation.gov.uk/ukpga/1989/41/section/43/11/d) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/34); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

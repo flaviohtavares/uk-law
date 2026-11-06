@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air
 
-The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-1df2915bf1f891c1466f362bea701cae]
+The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-1df2915bf1f891c1466f362bea701cae]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 3rd November 2014
 
-[^key-1df2915bf1f891c1466f362bea701cae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1df2915bf1f891c1466f362bea701cae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1df2915bf1f891c1466f362bea701cae]
+## 1. Citation and commencement[^c-1df2915bf1f891c1466f362bea701cae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-1df2915bf1f891c1466f362bea701cae]
+## 2. Amendments[^c-1df2915bf1f891c1466f362bea701cae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1df2915bf1f891c1466f362bea701cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1df2915bf1f891c1466f362bea701cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1df2915bf1f891c1466f362bea701cae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1df2915bf1f891c1466f362bea701cae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1df2915bf1f891c1466f362bea701cae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1df2915bf1f891c1466f362bea701cae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1df2915bf1f891c1466f362bea701cae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2014/249) repealed (10.10.2016) by [Environmental Better Regulation Act (Northern Ireland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [art. 2](https://www.legislation.gov.uk/nia/2016/13/article/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/13/schedule/3)
+[^c-1df2915bf1f891c1466f362bea701cae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2014/249) repealed (10.10.2016) by [Environmental Better Regulation Act (Northern Ireland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [art. 2](https://www.legislation.gov.uk/nia/2016/13/article/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/13/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Section 59: offences[^key-09134ba65ed64053f5891f6cd0a9b6dd]
+## 60. Section 59: offences[^c-09134ba65ed64053f5891f6cd0a9b6dd]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09134ba65ed64053f5891f6cd0a9b6dd]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2016/20/section/60) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 7](https://www.legislation.gov.uk/ssi/2018/380/regulation/7), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-09134ba65ed64053f5891f6cd0a9b6dd]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2016/20/section/60) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 7](https://www.legislation.gov.uk/ssi/2018/380/regulation/7), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on the Secretary of State by sections 8, 20 and 190 of the Local Government and Housing Act 1989[^f00001] and which are now vested in the Welsh Ministers so far as exercisable in relation to Wales[^f00002].
 
-## 1. Title, commencement and interpretation[^key-625211e222d48a3b3e3a43516c763baf]
+## 1. Title, commencement and interpretation[^c-625211e222d48a3b3e3a43516c763baf]
 
 (1) The title of these Regulations is the Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014.
 
@@ -53,11 +53,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3)  In these Regulations “the 2006 Regulations” (“*Rheoliadau 2006*”) means the Local Authorities (Standing Orders) (Wales) Regulations 2006.
 
-## 2. Amendments to the Local Authorities (Standing Orders) (Wales) Regulations 2006[^key-36020a42aff68f478a704d8f848121c9]
+## 2. Amendments to the Local Authorities (Standing Orders) (Wales) Regulations 2006[^c-36020a42aff68f478a704d8f848121c9]
 
 The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are amended as follows.
 
-**3.**[^key-b529531c6a361a2bc41285fb8798afab] In regulation 2 (interpretation)—
+**3.**[^c-b529531c6a361a2bc41285fb8798afab] In regulation 2 (interpretation)—
 
 - (a) omit the definition of “alternative arrangements” (“*trefniadau amgen*”);
 - (b) omit the definition of “council manager” (“*rheolwr cyngor*”);
@@ -66,15 +66,15 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
   - (i) "“head of democratic services” (“*pennaeth gwasanaethau democrataidd*”) means the officer designated under section 8 of the Local Government (Wales) Measure 2011 (head of democratic services)[^f00004];"; and
   - (ii) "“remuneration” (“*cydnabyddiaeth ariannol*”) has the same meaning as in section 43(3) of the Localism Act 2011[^f00005];".
 
-**4.**[^key-b73c1ba372cd27abcd0b6e9624ec4590] In regulation 5 (executive arrangements – standing orders relating to staff)—
+**4.**[^c-b73c1ba372cd27abcd0b6e9624ec4590] In regulation 5 (executive arrangements – standing orders relating to staff)—
 
 - (a) omit paragraph (1)(c);
 - (b) in paragraph (1)(d) for “(a), (b) and (c)” substitute “(a) and (b)”; and
 - (c) in paragraph (2) for “(a), (b), (c) or (d)” substitute “(a), (b) or (d)”.
 
-**5.**[^key-aa4c151719d8dd4e529f7b5344e4cd87] Omit regulation 6 (alternative arrangements – standing orders relating to staff).
+**5.**[^c-aa4c151719d8dd4e529f7b5344e4cd87] Omit regulation 6 (alternative arrangements – standing orders relating to staff).
 
-**6.**[^key-49e2b5641d1df2be090c803a1eac3610] For regulation 7 (standing orders relating to staff) substitute—
+**6.**[^c-49e2b5641d1df2be090c803a1eac3610] For regulation 7 (standing orders relating to staff) substitute—
 
 > **7. Standing orders relating to staff**
 >
@@ -85,7 +85,7 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
 > - (a) paragraph 4(1) of Part 1 of Schedule 3 and paragraph 4(1) of Part 2 of Schedule 3 relating to the function of approving the appointment or dismissal of the head of the authority’s paid service; and
 > - (b) paragraph 6 of Part 1 of Schedule 3 and paragraph 6 of Part 2 of Schedule 3 relating to the function of determining the level, and any change in the level, of remuneration to be paid to a chief officer.
 
-**7.**[^key-e06cce209fe9fa9b5b7180445541f2f7] (1) The existing text of regulation 8 (standing orders in respect of disciplinary action) becomes regulation 8(1).
+**7.**[^c-e06cce209fe9fa9b5b7180445541f2f7] (1) The existing text of regulation 8 (standing orders in respect of disciplinary action) becomes regulation 8(1).
 
 (2) In regulation 8(1) for “or its chief finance officer” substitute “, its chief finance officer, its head of democratic services or any officer referred to in paragraph (2)”.
 
@@ -96,7 +96,7 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
 > - (a) the officer was, but at the time of the proposed disciplinary action no longer is, an officer referred to in paragraph (1); and
 > - (b) the alleged misconduct or, as the case may be, the reason for the proposal for dismissal, occurred during the period when the officer was an officer referred to in paragraph (1).
 
-**8.**[^key-1440f8c4d7440357189b94fd5febc51a] In regulation 9 (investigation of alleged misconduct)—
+**8.**[^c-1440f8c4d7440357189b94fd5febc51a] In regulation 9 (investigation of alleged misconduct)—
 
 - (a) for paragraph (1) substitute—
 
@@ -114,7 +114,7 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
 - (b) in paragraph (5)(b) for “National Assembly for Wales” substitute “Welsh Ministers”; and
 - (c) omit paragraph (11).
 
-**9.**[^key-428ba8620870e627048d1a95508cb507] (1) In Schedule 1, in Part 1—
+**9.**[^c-428ba8620870e627048d1a95508cb507] (1) In Schedule 1, in Part 1—
 
 - (a) for paragraph 1 substitute—
 
@@ -137,7 +137,7 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
 
 (2) In Schedule 1, in Part 2, in paragraph 3 omit sub-paragraph (a).
 
-**10.**[^key-75ef02c2b282caafd958f81a462f99e2] (1) In Schedule 3, in Part 1—
+**10.**[^c-75ef02c2b282caafd958f81a462f99e2] (1) In Schedule 3, in Part 1—
 
 - (a) the existing text of paragraph 3 becomes paragraph 3(1);
 - (b) in paragraph 3(1), after paragraph (g) insert—
@@ -183,7 +183,7 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
 
 (3) In Schedule 3 omit Parts 3 and 4.
 
-**11.**[^key-b879bfdd38cafe241dbc81461d7a81f6] (1) In Schedule 4, in paragraph 1—
+**11.**[^c-b879bfdd38cafe241dbc81461d7a81f6] (1) In Schedule 4, in paragraph 1—
 
 - (a) omit ““council manager” (“*rheolwr cyngor*”),”; and
 - (b) for “and monitoring officer” (“*swyddog monitro*”)” substitute “, “monitoring officer” (“*swyddog monitro*”) and “head of democratic services” (“*pennaeth gwasanaethau democrataidd*”)”.
@@ -201,7 +201,7 @@ The Local Authorities (Standing Orders) (Wales) Regulations 2006[^f00003] are am
   > - (a) the officer was, but at the time of the proposed disciplinary action no longer is, an officer referred to in sub-paragraph (1); and
   > - (b) the alleged misconduct or, as the case may be, the reason for the proposal for dismissal, occurred during the period when the officer was an officer referred to in sub-paragraph (1).
 
-## 12. Transitional provisions[^key-383bcd2bc075c492a875c625e851a506]
+## 12. Transitional provisions[^c-383bcd2bc075c492a875c625e851a506]
 
 Anything which, before the date on which the relevant authority incorporates standing orders in accordance with these Regulations, was being done by, to or in relation to an officer in accordance with—
 
@@ -210,7 +210,7 @@ Anything which, before the date on which the relevant authority incorporates sta
 
 may be continued after that date by, to or in relation to that officer in accordance with the provisions referred to in paragraphs (a) or (b), as the case may be.
 
-## 13. Implementation[^key-672fc79df535429cc3ab9de179bc1ff1]
+## 13. Implementation[^c-672fc79df535429cc3ab9de179bc1ff1]
 
 A relevant authority must revise its existing standing orders in so far as is necessary to conform with the amendments made by these Regulations by no later than the date which is ten weeks after these Regulations come into force.
 
@@ -262,36 +262,36 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Powers under sections 8, 20 and 190 of the Local Government and Housing Act 1989 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously vested in the National Assembly for Wales by virtue of article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-625211e222d48a3b3e3a43516c763baf]: Commencement: Reg. 1 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-625211e222d48a3b3e3a43516c763baf]: Commencement: Reg. 1 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-36020a42aff68f478a704d8f848121c9]: Commencement: Reg. 2 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-36020a42aff68f478a704d8f848121c9]: Commencement: Reg. 2 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2006/1275 (W. 121)](https://www.legislation.gov.uk/wsi/2006/1275), amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142).
 
-[^key-b529531c6a361a2bc41285fb8798afab]: Commencement: Reg. 3 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-b529531c6a361a2bc41285fb8798afab]: Commencement: Reg. 3 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
 [^f00004]: Footnote: [2011 nawm 4](https://www.legislation.gov.uk/mwa/2011/4).
 
 [^f00005]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-b73c1ba372cd27abcd0b6e9624ec4590]: Commencement: Reg. 4 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-b73c1ba372cd27abcd0b6e9624ec4590]: Commencement: Reg. 4 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-aa4c151719d8dd4e529f7b5344e4cd87]: Commencement: Reg. 5 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-aa4c151719d8dd4e529f7b5344e4cd87]: Commencement: Reg. 5 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-49e2b5641d1df2be090c803a1eac3610]: Commencement: Reg. 6 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-49e2b5641d1df2be090c803a1eac3610]: Commencement: Reg. 6 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
 [^f00006]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 101 was amended by [S.I. 2002/803 (W. 88)](https://www.legislation.gov.uk/wsi/2002/803), paragraph 3(2) and (3) of Schedule 3 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), paragraph 1 of Part 4 of Schedule 22 to the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), paragraph 26(3) of Schedule 15 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and sections 1 and 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). There are other amendments to that section which are not relevant to these Regulations.
 
-[^key-e06cce209fe9fa9b5b7180445541f2f7]: Commencement: Reg. 7 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-e06cce209fe9fa9b5b7180445541f2f7]: Commencement: Reg. 7 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-1440f8c4d7440357189b94fd5febc51a]: Commencement: Reg. 8 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-1440f8c4d7440357189b94fd5febc51a]: Commencement: Reg. 8 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-428ba8620870e627048d1a95508cb507]: Commencement: Reg. 9 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-428ba8620870e627048d1a95508cb507]: Commencement: Reg. 9 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-75ef02c2b282caafd958f81a462f99e2]: Commencement: Reg. 10 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-75ef02c2b282caafd958f81a462f99e2]: Commencement: Reg. 10 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-b879bfdd38cafe241dbc81461d7a81f6]: Commencement: Reg. 11 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-b879bfdd38cafe241dbc81461d7a81f6]: Commencement: Reg. 11 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-383bcd2bc075c492a875c625e851a506]: Commencement: Reg. 12 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-383bcd2bc075c492a875c625e851a506]: Commencement: Reg. 12 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
 
-[^key-672fc79df535429cc3ab9de179bc1ff1]: Commencement: Reg. 13 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)
+[^c-672fc79df535429cc3ab9de179bc1ff1]: Commencement: Reg. 13 in force at 1.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2)

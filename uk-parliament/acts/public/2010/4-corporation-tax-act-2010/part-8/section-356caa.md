@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356CAA. Expenditure on acquisition of asset: further disqualifying conditions[^key-fc06bf84fa19dcd415fa339e004267e6][^key-85a4309dc4c6cdaa460c0f2040952fa9]
+## 356CAA. Expenditure on acquisition of asset: further disqualifying conditions[^c-fc06bf84fa19dcd415fa339e004267e6][^c-85a4309dc4c6cdaa460c0f2040952fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc06bf84fa19dcd415fa339e004267e6]: Textual amendment: [S. 356CAA](https://www.legislation.gov.uk/ukpga/2010/4/section/356CAA) inserted (with effect in accordance with s. 61(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/61/3)
+[^c-fc06bf84fa19dcd415fa339e004267e6]: Textual amendment: [S. 356CAA](https://www.legislation.gov.uk/ukpga/2010/4/section/356CAA) inserted (with effect in accordance with s. 61(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/61/3)
 
-[^key-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)
+[^c-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)

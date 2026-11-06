@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Dose limitation[^key-bf28b84b830417569fd0fc4d51d0e1ce]
+## 12. Dose limitation[^c-bf28b84b830417569fd0fc4d51d0e1ce]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf28b84b830417569fd0fc4d51d0e1ce]: Modification: [Reg. 12](https://www.legislation.gov.uk/nisr/2017/229/regulation/12) disapplied (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [regs. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [18](https://www.legislation.gov.uk/nisr/2019/185/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))
+[^c-bf28b84b830417569fd0fc4d51d0e1ce]: Modification: [Reg. 12](https://www.legislation.gov.uk/nisr/2017/229/regulation/12) disapplied (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [regs. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [18](https://www.legislation.gov.uk/nisr/2019/185/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))

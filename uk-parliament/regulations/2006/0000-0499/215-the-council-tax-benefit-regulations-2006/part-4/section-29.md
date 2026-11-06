@@ -16,7 +16,7 @@ summary: ''
 
 ## 29. Deduction of tax and contributions of self-employed earners
 
-(1) The amount to be deducted in respect of income tax under regulation 28(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit of self-employed earners) shall be calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at [^key-4be83a99dce53bbbf57886fc8ebac98d]... the basic rate of tax applicable to the assessment period less only the personal relief to which the claimant is entitled under sections 257(1) of the Income and Corporation Taxes Act 1988 [^c1541307] (personal allowances) as is appropriate to his circumstances; but, if the assessment period is less than a year, the earnings to which the basic[^key-0869d95adc764e0f3dcc2bfad74afbc0][^key-c7b6f11274129630462a39e1c1fa515d] rate of tax is to be applied and the amount of the personal reliefs deductible under this paragraph shall be calculated on a pro rata basis.
+(1) The amount to be deducted in respect of income tax under regulation 28(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit of self-employed earners) shall be calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at [^c-4be83a99dce53bbbf57886fc8ebac98d]... the basic rate of tax applicable to the assessment period less only the personal relief to which the claimant is entitled under sections 257(1) of the Income and Corporation Taxes Act 1988 [^c1541307] (personal allowances) as is appropriate to his circumstances; but, if the assessment period is less than a year, the earnings to which the basic[^c-0869d95adc764e0f3dcc2bfad74afbc0][^c-c7b6f11274129630462a39e1c1fa515d] rate of tax is to be applied and the amount of the personal reliefs deductible under this paragraph shall be calculated on a pro rata basis.
 
 (2) The amount to be deducted in respect of social security contributions under regulation 28(1)(b)(i), (3)(b)(ii) or (9)(a)(ii) shall be the total of—
 
@@ -30,10 +30,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4be83a99dce53bbbf57886fc8ebac98d]: Textual amendment: Words in reg. 29(1) omitted (6.4.2009) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/4/a)
+[^c-4be83a99dce53bbbf57886fc8ebac98d]: Textual amendment: Words in reg. 29(1) omitted (6.4.2009) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/4/a)
 
 [^c1541307]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-0869d95adc764e0f3dcc2bfad74afbc0]: Textual amendment: Word in reg. 29(1) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/4/b)
+[^c-0869d95adc764e0f3dcc2bfad74afbc0]: Textual amendment: Word in reg. 29(1) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/4/b)
 
-[^key-c7b6f11274129630462a39e1c1fa515d]: Textual amendment: Words in reg. 29(1) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/13/5)
+[^c-c7b6f11274129630462a39e1c1fa515d]: Textual amendment: Words in reg. 29(1) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/13/5)

@@ -54,7 +54,7 @@ The Secretary of State for Social Security in exercise of the powers conferred u
 
 (1) Where, by virtue of subsection (1) of section 48A of the Pension Schemes Act, section 44(6) of the Contributions and Benefits Act has effect for the tax year 1997-98 or any later tax year, in relation to some but not all of the earnings of an earner, the application of section 44(5) of the Contributions and Benefits Act is modified for that year in accordance with this regulation.
 
-(2) In a case where the year is one in which the amount of a Class 1 contribution in respect of the earnings paid to or for the benefit of an earner in a tax week was[^key-0311378a41ced00a0398549691f3ad0d] reduced under sections 41 (as it had effect before the second abolition date)[^key-c08c974e02e298bf7080559eb80b3f54] or 42A of the Pension Schemes Act [^c1765546] (reduced rates of Class 1 contributions for earners in contracted-out employment) section 44(5) of the Contributions and Benefits Act is modified so that the qualifying earnings factor for the purposes of section 44(5)(a) of that Act shall be calculated by applying the formula—
+(2) In a case where the year is one in which the amount of a Class 1 contribution in respect of the earnings paid to or for the benefit of an earner in a tax week was[^c-0311378a41ced00a0398549691f3ad0d] reduced under sections 41 (as it had effect before the second abolition date)[^c-c08c974e02e298bf7080559eb80b3f54] or 42A of the Pension Schemes Act [^c1765546] (reduced rates of Class 1 contributions for earners in contracted-out employment) section 44(5) of the Contributions and Benefits Act is modified so that the qualifying earnings factor for the purposes of section 44(5)(a) of that Act shall be calculated by applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1996/2477)
 
@@ -88,9 +88,9 @@ These Regulations do not impose any costs on business.
 
 [^c1765545]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-0311378a41ced00a0398549691f3ad0d]: Textual amendment: Words in reg. 2(2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/200/article/8/a)
+[^c-0311378a41ced00a0398549691f3ad0d]: Textual amendment: Words in reg. 2(2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/200/article/8/a)
 
-[^key-c08c974e02e298bf7080559eb80b3f54]: Textual amendment: Words in reg. 2(2) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/200/article/8/b)
+[^c-c08c974e02e298bf7080559eb80b3f54]: Textual amendment: Words in reg. 2(2) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/200/article/8/b)
 
 [^c1765546]: Marginal citation: Section 41(1) is substituted by section 137(2) of the Pensions Act 1995. Section 42A is inserted by section 137(5) of the Pensions Act 1995.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-809fd7d6efaa896d6249f3fd38206b3b]
+## SCHEDULE 8 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-809fd7d6efaa896d6249f3fd38206b3b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Article 40
 
 ## Annotations
 
-[^key-809fd7d6efaa896d6249f3fd38206b3b]: Commencement: Sch. 8 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-809fd7d6efaa896d6249f3fd38206b3b]: Commencement: Sch. 8 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

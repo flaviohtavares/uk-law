@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Burden of proof: county courts[^key-bb6f2ecde6f166d7de1b289a3d01c846]
+## 45. Burden of proof: county courts[^c-bb6f2ecde6f166d7de1b289a3d01c846]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ the court shall uphold the claim unless the respondent proves that he did not co
 
 ## Annotations
 
-[^key-bb6f2ecde6f166d7de1b289a3d01c846]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/261/regulation/45) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-bb6f2ecde6f166d7de1b289a3d01c846]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/261/regulation/45) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

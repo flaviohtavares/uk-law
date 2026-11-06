@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Set-off for enhancement in value of retained land[^key-1a90401b73c9c003d47d671ca7803c8c]
+## 38. Set-off for enhancement in value of retained land[^c-1a90401b73c9c003d47d671ca7803c8c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-1a90401b73c9c003d47d671ca7803c8c]: Commencement: Art. 38 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-1a90401b73c9c003d47d671ca7803c8c]: Commencement: Art. 38 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

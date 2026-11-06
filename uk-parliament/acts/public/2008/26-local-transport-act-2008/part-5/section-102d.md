@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102D. Power to make provision supplemental to section 102B[^key-6c947fd084a0c5d36701b12fbe779010]
+## 102D. Power to make provision supplemental to section 102B[^c-6c947fd084a0c5d36701b12fbe779010]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 ## Annotations
 
-[^key-6c947fd084a0c5d36701b12fbe779010]: Textual amendment: Pt. 5 Ch. 4 inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-6c947fd084a0c5d36701b12fbe779010]: Textual amendment: Pt. 5 Ch. 4 inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)

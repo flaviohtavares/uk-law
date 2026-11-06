@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The following applies where a person engaged in any business makes a general assignment to another person of his existing or future book debts, or any class of them, and is subsequently made[^key-466f063a81cb406aab71afb59e68f753] bankrupt.
+(1) The following applies where a person engaged in any business makes a general assignment to another person of his existing or future book debts, or any class of them, and is subsequently made[^c-466f063a81cb406aab71afb59e68f753] bankrupt.
 
-(2) The assignment is void against the trustee of the bankrupt’s estate as regards book debts which were not paid before the making of the bankruptcy application or (as the case may be) the[^key-7f760d114fda67db738a3fdbccb01ff5] presentation of the bankruptcy petition, unless the assignment has been registered under the [^c15580701]Bills of Sale Act 1878.
+(2) The assignment is void against the trustee of the bankrupt’s estate as regards book debts which were not paid before the making of the bankruptcy application or (as the case may be) the[^c-7f760d114fda67db738a3fdbccb01ff5] presentation of the bankruptcy petition, unless the assignment has been registered under the [^c15580701]Bills of Sale Act 1878.
 
 (3) For the purposes of subsections (1) and (2)—
 
@@ -37,8 +37,8 @@ summary: ''
 
 [^c15580691]: Modification: Ss. 342–345 applied with modifications by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), [art. 3](https://www.legislation.gov.uk/uksi/1986/1999/article/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/1999/schedule/1/part/II)
 
-[^key-466f063a81cb406aab71afb59e68f753]: Textual amendment: Word in s. 344(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 37(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/37/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-466f063a81cb406aab71afb59e68f753]: Textual amendment: Word in s. 344(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 37(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/37/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-7f760d114fda67db738a3fdbccb01ff5]: Textual amendment: Words in s. 344(2) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 37(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/37/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-7f760d114fda67db738a3fdbccb01ff5]: Textual amendment: Words in s. 344(2) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 37(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/37/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c15580701]: Marginal citation: [1878 c. 31](https://www.legislation.gov.uk/ukpga/1878/31).

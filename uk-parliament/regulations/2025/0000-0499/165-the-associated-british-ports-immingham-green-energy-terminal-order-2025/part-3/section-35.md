@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Acquisition of part of certain properties[^key-fb330b18e376ff22d3809ca0476d9cd0]
+## 35. Acquisition of part of certain properties[^c-fb330b18e376ff22d3809ca0476d9cd0]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-fb330b18e376ff22d3809ca0476d9cd0]: Commencement: Art. 35 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-fb330b18e376ff22d3809ca0476d9cd0]: Commencement: Art. 35 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

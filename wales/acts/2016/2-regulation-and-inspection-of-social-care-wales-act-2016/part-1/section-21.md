@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Responsible individuals[^key-04a9c9fb8db89879b54a8d6a7b08b350]
+## 21. Responsible individuals[^c-04a9c9fb8db89879b54a8d6a7b08b350]
 
 *Extent: E+W*
 
-[^key-c652e9de400ecc1e48a180c915421123]
+[^c-c652e9de400ecc1e48a180c915421123]
 
 (1) In this Part, “**responsible individual**” means an individual—
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) who the Welsh Ministers are satisfied is a fit and proper person to be a responsible individual (see section 9), and
 - (c) designated by a service provider in respect of a place at, from or in relation to which the provider provides a regulated service and specified as such in the service provider's registration.
 
-(2)[^key-62279fa4ba31008c4e9c2e5d9594f65b][^key-9baf50f826f19542f95ef085f723840d][^key-a3cdeec413c02850f33d9bed86fe1bc5][^key-63e49d5ea2fb989f35f90b143b8149a1] To be eligible to be a responsible individual the individual must—
+(2)[^c-62279fa4ba31008c4e9c2e5d9594f65b][^c-9baf50f826f19542f95ef085f723840d][^c-a3cdeec413c02850f33d9bed86fe1bc5][^c-63e49d5ea2fb989f35f90b143b8149a1] To be eligible to be a responsible individual the individual must—
 
 - (a) where the service provider is an individual, be the service provider;
 - (b) where the service provider is a partnership, be one of the partners;
@@ -50,14 +50,14 @@ summary: ''
 
 ## Annotations
 
-[^key-04a9c9fb8db89879b54a8d6a7b08b350]: Commencement: S. 21 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-04a9c9fb8db89879b54a8d6a7b08b350]: Commencement: S. 21 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
 
-[^key-c652e9de400ecc1e48a180c915421123]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2016/2/part/1) applied (with modifications) (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [79(3)](https://www.legislation.gov.uk/wsi/2024/388/regulation/79/3)
+[^c-c652e9de400ecc1e48a180c915421123]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2016/2/part/1) applied (with modifications) (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [79(3)](https://www.legislation.gov.uk/wsi/2024/388/regulation/79/3)
 
-[^key-62279fa4ba31008c4e9c2e5d9594f65b]: Modification: S. 21(2) restricted (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [68](https://www.legislation.gov.uk/wsi/2019/163/regulation/68)
+[^c-62279fa4ba31008c4e9c2e5d9594f65b]: Modification: S. 21(2) restricted (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [68](https://www.legislation.gov.uk/wsi/2019/163/regulation/68)
 
-[^key-9baf50f826f19542f95ef085f723840d]: Modification: S. 21(2) restricted (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [59](https://www.legislation.gov.uk/wsi/2019/165/regulation/59)
+[^c-9baf50f826f19542f95ef085f723840d]: Modification: S. 21(2) restricted (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [59](https://www.legislation.gov.uk/wsi/2019/165/regulation/59)
 
-[^key-a3cdeec413c02850f33d9bed86fe1bc5]: Modification: S. 21(2) restricted (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [72](https://www.legislation.gov.uk/wsi/2019/169/regulation/72)
+[^c-a3cdeec413c02850f33d9bed86fe1bc5]: Modification: S. 21(2) restricted (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [72](https://www.legislation.gov.uk/wsi/2019/169/regulation/72)
 
-[^key-63e49d5ea2fb989f35f90b143b8149a1]: Modification: [S. 21(2)](https://www.legislation.gov.uk/anaw/2016/2/section/21/2) excluded (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [80](https://www.legislation.gov.uk/wsi/2024/388/regulation/80)
+[^c-63e49d5ea2fb989f35f90b143b8149a1]: Modification: [S. 21(2)](https://www.legislation.gov.uk/anaw/2016/2/section/21/2) excluded (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [80](https://www.legislation.gov.uk/wsi/2024/388/regulation/80)

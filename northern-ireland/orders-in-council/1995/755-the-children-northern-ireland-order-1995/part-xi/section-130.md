@@ -34,7 +34,7 @@ summary: ''
 - (c) the arrangements made for their welfare; and
 - (d) any records relating to them which are kept for the purposes of this Part.
 
-(4)[^key-1d734645b3304e6550a33a44161d0f65][^key-68e4c302b70d48b29b171758d29a7020] Every authority shall secure that the premises mentioned in paragraph (1) are inspected at least once every year.
+(4)[^c-1d734645b3304e6550a33a44161d0f65][^c-68e4c302b70d48b29b171758d29a7020] Every authority shall secure that the premises mentioned in paragraph (1) are inspected at least once every year.
 
 (5) Where—
 
@@ -56,6 +56,6 @@ the authority shall serve on that person a notice informing him that the inspect
 
 ## Annotations
 
-[^key-1d734645b3304e6550a33a44161d0f65]: Modification: [Art. 130(4)](https://www.legislation.gov.uk/nisi/1995/755/article/130/4) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 16 para. 16(11)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/16/11) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-1d734645b3304e6550a33a44161d0f65]: Modification: [Art. 130(4)](https://www.legislation.gov.uk/nisi/1995/755/article/130/4) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 16 para. 16(11)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/16/11) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-68e4c302b70d48b29b171758d29a7020]: Modification: [Art. 130(4)](https://www.legislation.gov.uk/nisi/1995/755/article/130/4) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 16 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-68e4c302b70d48b29b171758d29a7020]: Modification: [Art. 130(4)](https://www.legislation.gov.uk/nisi/1995/755/article/130/4) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 16 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

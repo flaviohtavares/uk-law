@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Adjournment of meeting to approve the statement of proposals[^key-eb999c02fd1e8bed510afbfdb57e2241]
+## 30. Adjournment of meeting to approve the statement of proposals[^c-eb999c02fd1e8bed510afbfdb57e2241]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb999c02fd1e8bed510afbfdb57e2241]: Commencement: [Rule 30](https://www.legislation.gov.uk/nisr/2026/11/rule/30) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-eb999c02fd1e8bed510afbfdb57e2241]: Commencement: [Rule 30](https://www.legislation.gov.uk/nisr/2026/11/rule/30) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

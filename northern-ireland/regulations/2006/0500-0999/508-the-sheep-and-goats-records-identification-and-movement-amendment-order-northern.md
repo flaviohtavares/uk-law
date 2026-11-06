@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture
 
-The Sheep and Goats (Records, Identification and Movement) (Amendment) Order (Northern Ireland) 2006 (revoked)[^key-aee5a708ef7340ea2a46dc4e54a4931f]
+The Sheep and Goats (Records, Identification and Movement) (Amendment) Order (Northern Ireland) 2006 (revoked)[^c-aee5a708ef7340ea2a46dc4e54a4931f]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 31st December 2006
 
-[^key-aee5a708ef7340ea2a46dc4e54a4931f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aee5a708ef7340ea2a46dc4e54a4931f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aee5a708ef7340ea2a46dc4e54a4931f]
+## 1. Citation and commencement[^c-aee5a708ef7340ea2a46dc4e54a4931f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of The Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2005[^key-aee5a708ef7340ea2a46dc4e54a4931f]
+## 2. Amendment of The Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2005[^c-aee5a708ef7340ea2a46dc4e54a4931f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-aee5a708ef7340ea2a46dc4e54a4931f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aee5a708ef7340ea2a46dc4e54a4931f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aee5a708ef7340ea2a46dc4e54a4931f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-aee5a708ef7340ea2a46dc4e54a4931f]
+## SCHEDULE[^c-aee5a708ef7340ea2a46dc4e54a4931f]
 
 Article 6
 
-[^key-aee5a708ef7340ea2a46dc4e54a4931f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aee5a708ef7340ea2a46dc4e54a4931f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aee5a708ef7340ea2a46dc4e54a4931f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/508) revoked (31.12.2009) by [The Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2009 (S.R. 2009/411)](https://www.legislation.gov.uk/nisr/2009/411), [arts. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1), [41](https://www.legislation.gov.uk/nisr/2009/411/article/41)
+[^c-aee5a708ef7340ea2a46dc4e54a4931f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/508) revoked (31.12.2009) by [The Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2009 (S.R. 2009/411)](https://www.legislation.gov.uk/nisr/2009/411), [arts. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1), [41](https://www.legislation.gov.uk/nisr/2009/411/article/41)

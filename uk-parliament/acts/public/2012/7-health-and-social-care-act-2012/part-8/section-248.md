@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Dissolution of predecessor body[^key-3673a916b3226b475a10772ed4f7b2ee]
+## 248. Dissolution of predecessor body[^c-3673a916b3226b475a10772ed4f7b2ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Special Health Authority known as the National Institute for Health and Clin
 
 ## Annotations
 
-[^key-3673a916b3226b475a10772ed4f7b2ee]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2012/7/section/248) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3673a916b3226b475a10772ed4f7b2ee]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2012/7/section/248) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

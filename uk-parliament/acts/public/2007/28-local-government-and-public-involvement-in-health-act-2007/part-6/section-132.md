@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Guidance[^key-57149ffb923970245e2f27d3bab80495]
+## 132. Guidance[^c-57149ffb923970245e2f27d3bab80495]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After section 237D of the Local Government Act 1972 (c. 70) (as inserted by sect
 
 ## Annotations
 
-[^key-57149ffb923970245e2f27d3bab80495]: Commencement: S. 132 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/112/article/2/d)
+[^c-57149ffb923970245e2f27d3bab80495]: Commencement: S. 132 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/112/article/2/d)

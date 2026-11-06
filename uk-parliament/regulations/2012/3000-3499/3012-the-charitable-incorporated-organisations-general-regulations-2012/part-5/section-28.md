@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Power of court to order rectification of register of members[^key-1e74a6b8e2417a86dcd8e69bcd85bce6]
+## 28. Power of court to order rectification of register of members[^c-1e74a6b8e2417a86dcd8e69bcd85bce6]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ a relevant person may apply to the court for the rectification of the register.
 
 ## Annotations
 
-[^key-1e74a6b8e2417a86dcd8e69bcd85bce6]: Commencement: Reg. 28 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-1e74a6b8e2417a86dcd8e69bcd85bce6]: Commencement: Reg. 28 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

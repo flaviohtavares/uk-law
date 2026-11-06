@@ -29,7 +29,7 @@ summary: ''
 
 (5) A person shall be treated as engaged in remunerative work during any period for which he is absent from work referred to in paragraph (1) if the absence is either without good cause or by reason of a recognised, customary or other holiday.
 
-(6) A person on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^key-4c7f6358b14358f661ca4bcdf6a90a64] for more than 3 days in any benefit week shall be treated as not being engaged in remunerative work in that week.
+(6) A person on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^c-4c7f6358b14358f661ca4bcdf6a90a64] for more than 3 days in any benefit week shall be treated as not being engaged in remunerative work in that week.
 
 (7) A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave or adoption leave, or is absent from work because he is ill.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c7f6358b14358f661ca4bcdf6a90a64]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2006/216/regulation/6/6) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [68](https://www.legislation.gov.uk/uksi/2008/1082/regulation/68)
+[^c-4c7f6358b14358f661ca4bcdf6a90a64]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2006/216/regulation/6/6) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [68](https://www.legislation.gov.uk/uksi/2008/1082/regulation/68)

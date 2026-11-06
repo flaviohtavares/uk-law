@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Meaning and effect of PPP administration orders.[^key-798c470bca0e994d406854e85a1d97b3]
+## 220. Meaning and effect of PPP administration orders.[^c-798c470bca0e994d406854e85a1d97b3]
 
 *Extent: E+W+S*
 
@@ -41,14 +41,14 @@ summary: ''
 (7) In this section—
 
 - business and property have the same meaning as they have in the [^c12803881]Insolvency Act 1986;
-- “the court”, in relation to a[^key-b317541bfcdef5dc4c03e81d45109235] PPP company, means the court—
+- “the court”, in relation to a[^c-b317541bfcdef5dc4c03e81d45109235] PPP company, means the court—
   - (a) having jurisdiction to wind up the company, or
   - (b) that would have such jurisdiction apart from section 221(2) or 441(2) of the Insolvency Act 1986 (exclusion of winding up jurisdiction in case of companies having principal place of business in, or incorporated in, Northern Ireland);
 - the PPP administration order provisions of this Act means this section, sections 221 to 224 below and Schedules 14 and 15 to this Act.
 
 ## Annotations
 
-[^key-798c470bca0e994d406854e85a1d97b3]: Commencement: S. 220 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-798c470bca0e994d406854e85a1d97b3]: Commencement: S. 220 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
 [^c12803861]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c12803881]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-b317541bfcdef5dc4c03e81d45109235]: Textual amendment: Words in s. 220(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b317541bfcdef5dc4c03e81d45109235]: Textual amendment: Words in s. 220(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

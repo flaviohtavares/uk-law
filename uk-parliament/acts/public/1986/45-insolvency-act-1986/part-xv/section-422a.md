@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 422A. Meaning of “relevant offence”[^key-35e492b4038a1b8e2471c0fa0b71d235]
+## 422A. Meaning of “relevant offence”[^c-35e492b4038a1b8e2471c0fa0b71d235]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In this Part “**relevant offence**” means a criminal offence punishable with
 
 ## Annotations
 
-[^key-35e492b4038a1b8e2471c0fa0b71d235]: Textual amendment: S. 422A inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/41) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35e492b4038a1b8e2471c0fa0b71d235]: Textual amendment: S. 422A inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/41) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

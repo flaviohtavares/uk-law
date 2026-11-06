@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Relationship with amounts to be disregarded under Schedule 3[^key-e7803653dd9493334ea13f1920feabe1]
+## 41. Relationship with amounts to be disregarded under Schedule 3[^c-e7803653dd9493334ea13f1920feabe1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No part of a student’s covenant income or grant income shall be disregarded un
 
 ## Annotations
 
-[^key-e7803653dd9493334ea13f1920feabe1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1988/1890/regulation/41) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-e7803653dd9493334ea13f1920feabe1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1988/1890/regulation/41) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

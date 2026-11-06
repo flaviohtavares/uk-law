@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Cancellation of ill-health pension: failure to receive appropriate medical treatment[^key-ccc2e228d1fe494825c19f04b4a366e0]
+## 105. Cancellation of ill-health pension: failure to receive appropriate medical treatment[^c-ccc2e228d1fe494825c19f04b4a366e0]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ccc2e228d1fe494825c19f04b4a366e0]: Commencement: Reg. 105 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ccc2e228d1fe494825c19f04b4a366e0]: Commencement: Reg. 105 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00055]: Footnote: See provisions on appeals.

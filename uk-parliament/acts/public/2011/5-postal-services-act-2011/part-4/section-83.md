@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Regulatory conditions to secure funding of postal administration order[^key-5c27bf4ab3a8542380850926a7c34b2f]
+## 83. Regulatory conditions to secure funding of postal administration order[^c-5c27bf4ab3a8542380850926a7c34b2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c27bf4ab3a8542380850926a7c34b2f]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2011/5/section/83) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5c27bf4ab3a8542380850926a7c34b2f]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2011/5/section/83) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

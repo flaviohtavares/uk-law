@@ -44,17 +44,17 @@ The Department of Finance[^f00001]makes these Regulations in exercise of the pow
 
 In accordance with section 22(2) and (3) of the 2014 Act, the Department of Finance has consulted the representatives of such persons as appear to the Department likely to be affected by these Regulations and laid a report before the Assembly.
 
-## 1. Citation and commencement[^key-4566ba0c803a85bca63d04f095487a80]
+## 1. Citation and commencement[^c-4566ba0c803a85bca63d04f095487a80]
 
 (1) These Regulations may be cited as the Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2025.
 
 (2) These Regulations shall come into operation on 1st July 2025.
 
-## 2. Amendments to the Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^key-5acae0af231f9873b0faadde6459db38]
+## 2. Amendments to the Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^c-5acae0af231f9873b0faadde6459db38]
 
 The Public Service (Civil Servants and Others) Pensions Regulations (Northern Ireland) 2014[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 134[^key-262ce572808551098011b2cdb7d5e7d3]
+## 3. Amendment of regulation 134[^c-262ce572808551098011b2cdb7d5e7d3]
 
 In regulation 134 (Rate of member contributions)—
 
@@ -129,10 +129,10 @@ An impact assessment has not been produced for this statutory rule as no impact 
 
 [^f00002]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-4566ba0c803a85bca63d04f095487a80]: Commencement: Reg. 1 in operation at 1.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2)
+[^c-4566ba0c803a85bca63d04f095487a80]: Commencement: Reg. 1 in operation at 1.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2)
 
-[^key-5acae0af231f9873b0faadde6459db38]: Commencement: Reg. 2 in operation at 1.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2)
+[^c-5acae0af231f9873b0faadde6459db38]: Commencement: Reg. 2 in operation at 1.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2014/290](https://www.legislation.gov.uk/nisr/2014/290), as amended by [S.R. 2015/181](https://www.legislation.gov.uk/nisr/2015/181), [S.R. 2019/60](https://www.legislation.gov.uk/nisr/2019/60), [S.R. 2022/67](https://www.legislation.gov.uk/nisr/2022/67), [S.R. 2022/126](https://www.legislation.gov.uk/nisr/2022/126) and [S.I. 2023/1267](https://www.legislation.gov.uk/uksi/2023/1267).
 
-[^key-262ce572808551098011b2cdb7d5e7d3]: Commencement: Reg. 3 in operation at 1.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2)
+[^c-262ce572808551098011b2cdb7d5e7d3]: Commencement: Reg. 3 in operation at 1.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2)

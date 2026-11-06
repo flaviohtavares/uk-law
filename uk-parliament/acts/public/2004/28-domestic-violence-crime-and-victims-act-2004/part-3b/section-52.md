@@ -29,7 +29,7 @@ summary: ''
 
 (3) It is immaterial for the purposes of subsection (2)(a) that—
 
-- (a) no person has reported[^key-d419b2dd6bdd3afd99d57fd8fc621c5b] the offence;
+- (a) no person has reported[^c-d419b2dd6bdd3afd99d57fd8fc621c5b] the offence;
 - (b) no person has been charged with or convicted of the offence.
 
 (4) “**Witness**” means a person (other than a defendant)—
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d419b2dd6bdd3afd99d57fd8fc621c5b]: Textual amendment: Words in [s. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2004/28/section/52/3/a) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2024/21/section/1/6), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/a)
+[^c-d419b2dd6bdd3afd99d57fd8fc621c5b]: Textual amendment: Words in [s. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2004/28/section/52/3/a) substituted (29.1.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2024/21/section/1/6), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/a)

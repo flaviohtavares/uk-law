@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Defences[^key-724c09c007a79af521bf525fe46446c8][^key-8c3a972f47acfd42074ea1ac9256fb62]
+## 36. Defences[^c-724c09c007a79af521bf525fe46446c8][^c-8c3a972f47acfd42074ea1ac9256fb62]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-724c09c007a79af521bf525fe46446c8]: Commencement: Reg. 36 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-724c09c007a79af521bf525fe46446c8]: Commencement: Reg. 36 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-8c3a972f47acfd42074ea1ac9256fb62]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2019/461/regulation/36) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c3a972f47acfd42074ea1ac9256fb62]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2019/461/regulation/36) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

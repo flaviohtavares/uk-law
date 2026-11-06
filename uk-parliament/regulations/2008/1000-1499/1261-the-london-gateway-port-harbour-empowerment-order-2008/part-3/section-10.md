@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Power to construct, etc., works[^key-2949c3c461f45bdab8f60dcb4ae07ede]
+## 10. Power to construct, etc., works[^c-2949c3c461f45bdab8f60dcb4ae07ede]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2949c3c461f45bdab8f60dcb4ae07ede]: Commencement: Art. 10 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-2949c3c461f45bdab8f60dcb4ae07ede]: Commencement: Art. 10 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

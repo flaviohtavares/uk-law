@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Additional rate code: deductions[^key-8c4fa2d90f433972500d4b20d3b8429f]
+## 32A. Additional rate code: deductions[^c-8c4fa2d90f433972500d4b20d3b8429f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If the employee’s code is the additional rate code the employer must deduct ta
 
 ## Annotations
 
-[^key-8c4fa2d90f433972500d4b20d3b8429f]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/32A) and cross-heading inserted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/729/regulation/7)
+[^c-8c4fa2d90f433972500d4b20d3b8429f]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/32A) and cross-heading inserted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/729/regulation/7)

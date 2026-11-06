@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72.[^key-8ea32529fe73b825cdde83c6dc3a5413]
+## 72.[^c-8ea32529fe73b825cdde83c6dc3a5413]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 417 (meaning of “participator”, “associate”, “director” a
 
 ## Annotations
 
-[^key-8ea32529fe73b825cdde83c6dc3a5413]: Commencement: Reg. 72 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-8ea32529fe73b825cdde83c6dc3a5413]: Commencement: Reg. 72 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

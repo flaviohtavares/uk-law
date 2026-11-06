@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Preparation of a scheme[^key-0d1fa77ba007ae2df3586d9ea3e3f20c]
+## 17. Preparation of a scheme[^c-0d1fa77ba007ae2df3586d9ea3e3f20c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1fa77ba007ae2df3586d9ea3e3f20c]: Commencement: Reg. 17 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-0d1fa77ba007ae2df3586d9ea3e3f20c]: Commencement: Reg. 17 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

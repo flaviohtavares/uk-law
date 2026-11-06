@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Consequential amendments[^key-aa22727ac056bfc981f48dedaecf456d]
+## 94. Consequential amendments[^c-aa22727ac056bfc981f48dedaecf456d]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ In section 56 (interpretation of Part 1) of the Environment Act 1995[^f00035], i
 
 ## Annotations
 
-[^key-aa22727ac056bfc981f48dedaecf456d]: Commencement: Reg. 94 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-aa22727ac056bfc981f48dedaecf456d]: Commencement: Reg. 94 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
 [^f00035]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).

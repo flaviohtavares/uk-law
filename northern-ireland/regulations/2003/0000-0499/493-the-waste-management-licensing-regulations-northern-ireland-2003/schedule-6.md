@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — Prescribed Offences[^key-1bfa8feea1c664e2104de85b77b91dd6]
+## SCHEDULE 6 — Prescribed Offences[^c-1bfa8feea1c664e2104de85b77b91dd6]
 
 *Extent: N.I.*
 
@@ -45,8 +45,8 @@ Relevant Environmental Offences
 | 13\. | Regulations 18(10), 24(1) and 24(2) of the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2006 |
 | 14\. | Regulations 40(1), 40(3), 40(4), 40(5), 40(6), 40(7) and 40(8) of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 |
 | 15\. | Regulations 17, 18, 19(2), 21, 22(2), 23, 24(2), 25, 26, 31, 32(2), 36, 37(2), 38(2), 38(3), 38(4), 39(2), 40(2), 41(2), 42(2), 43, 44(2), 45(2), 52(1), 53, 54, 55 and 57 of the Transfrontier Shipment of Waste Regulations 2007 |
-| 16.[^key-d0c82612cbf6d8144b7d59b3673aeb37] | Regulation 30(1) of the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 |
-| 16a.[^key-a319d1c548191c465dd9781800650ed6] | Regulation 21(1) of the Merchant Shipping (Prevention of Pollution by Garbage from Ships) Regulations 2020 |
+| 16.[^c-d0c82612cbf6d8144b7d59b3673aeb37] | Regulation 30(1) of the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 |
+| 16a.[^c-a319d1c548191c465dd9781800650ed6] | Regulation 21(1) of the Merchant Shipping (Prevention of Pollution by Garbage from Ships) Regulations 2020 |
 | 17\. | Regulations 89(1), 89(2), 89(3), 89(4), 89(5) and 89(6) of the Waste Batteries and Accumulators Regulations 2009 |
 | 18\. | Regulations 9(3), 10(3), 17(4), 26(14) and 27 of the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009 |
 | 19\. | Regulations 19(1), 24(3) and 25(3) of the Groundwater Regulations (Northern Ireland) 2009 |
@@ -98,8 +98,8 @@ Other Relevant Offences
 
 ## Annotations
 
-[^key-1bfa8feea1c664e2104de85b77b91dd6]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/493/schedule/6) substituted (1.11.2017) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/202)](https://www.legislation.gov.uk/nisr/2017/202), [regs. 1](https://www.legislation.gov.uk/nisr/2017/202/regulation/1), [2](https://www.legislation.gov.uk/nisr/2017/202/regulation/2)
+[^c-1bfa8feea1c664e2104de85b77b91dd6]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/493/schedule/6) substituted (1.11.2017) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/202)](https://www.legislation.gov.uk/nisr/2017/202), [regs. 1](https://www.legislation.gov.uk/nisr/2017/202/regulation/1), [2](https://www.legislation.gov.uk/nisr/2017/202/regulation/2)
 
-[^key-d0c82612cbf6d8144b7d59b3673aeb37]: Textual amendment: Words in [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/6/paragraph/1) Table 1 substituted (22.7.2020) by [The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620)](https://www.legislation.gov.uk/uksi/2020/620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/paragraph/1/a)
+[^c-d0c82612cbf6d8144b7d59b3673aeb37]: Textual amendment: Words in [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/6/paragraph/1) Table 1 substituted (22.7.2020) by [The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620)](https://www.legislation.gov.uk/uksi/2020/620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/paragraph/1/a)
 
-[^key-a319d1c548191c465dd9781800650ed6]: Textual amendment: Words in [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/6/paragraph/1) Table 1 inserted (22.7.2020) by [The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620)](https://www.legislation.gov.uk/uksi/2020/620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/paragraph/1/b)
+[^c-a319d1c548191c465dd9781800650ed6]: Textual amendment: Words in [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/6/paragraph/1) Table 1 inserted (22.7.2020) by [The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620)](https://www.legislation.gov.uk/uksi/2020/620), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/paragraph/1/b)

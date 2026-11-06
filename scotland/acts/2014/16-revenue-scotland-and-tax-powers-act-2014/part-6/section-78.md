@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Assessment of penalties under section 76[^key-3f7fe284ad4050daf6812051226e4625][^key-4e4aceb7804f1cf5b8409fe1931a4d87]
+## 78. Assessment of penalties under section 76[^c-3f7fe284ad4050daf6812051226e4625][^c-4e4aceb7804f1cf5b8409fe1931a4d87]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f7fe284ad4050daf6812051226e4625]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/16/section/78) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-3f7fe284ad4050daf6812051226e4625]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/16/section/78) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-4e4aceb7804f1cf5b8409fe1931a4d87]: Modification: [Ss. 76-79](https://www.legislation.gov.uk/asp/2014/16/section/76) applied (1.4.2015) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 (S.S.I. 2015/130)](https://www.legislation.gov.uk/ssi/2015/130), [regs. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/130/regulation/4/2)
+[^c-4e4aceb7804f1cf5b8409fe1931a4d87]: Modification: [Ss. 76-79](https://www.legislation.gov.uk/asp/2014/16/section/76) applied (1.4.2015) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 (S.S.I. 2015/130)](https://www.legislation.gov.uk/ssi/2015/130), [regs. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/130/regulation/4/2)

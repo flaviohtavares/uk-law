@@ -55,17 +55,17 @@ The Secretary of State for Transport, being a Minister designated [^c5243311] fo
 These Regulations may be cited as the Ship and Port Facility (Security) Regulations 2004 and shall come into force —
 
 - (a) from 1st July 2004 for international shipping; and
-- (b)[^key-0761de4166211627ae050d35f1d50be7] on 1st July 2005 for all other purposes.
+- (b)[^c-0761de4166211627ae050d35f1d50be7] on 1st July 2005 for all other purposes.
 
 ### 2. Interpretation
 
 (1) In these Regulations—
 
-- “**the EC Regulation**” means Regulation [(EC) No 725/2004](https://www.legislation.gov.uk/european/regulation/2004/0725) of the European Parliament and of the Council of 31 March 2004 [^c5243331]on enhancing ship and port facility security , as amended by the Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019[^key-a2f378423b4a44faa6bebe3173142b37];
-- “[^key-9ce28a102211b65ee36fbe58272b5e85]**the SOLAS Convention**” means the International Convention for the Safety of Life at Sea 1974 as amended from time to time (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);
-- “[^key-edf1a45588eb246ad590bb94e4c49cfc]**ISPS Code**” means the International Ship and Port Facility Security Code as amended from time to time (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);
+- “**the EC Regulation**” means Regulation [(EC) No 725/2004](https://www.legislation.gov.uk/european/regulation/2004/0725) of the European Parliament and of the Council of 31 March 2004 [^c5243331]on enhancing ship and port facility security , as amended by the Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019[^c-a2f378423b4a44faa6bebe3173142b37];
+- “[^c-9ce28a102211b65ee36fbe58272b5e85]**the SOLAS Convention**” means the International Convention for the Safety of Life at Sea 1974 as amended from time to time (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);
+- “[^c-edf1a45588eb246ad590bb94e4c49cfc]**ISPS Code**” means the International Ship and Port Facility Security Code as amended from time to time (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);
 - “[^M_F_c533a9dc-7064-4d56-dbb8-903e6d27f5a2]**address**”, in relation to electronic communications, means any number or address used for the purposes of such communications;
-- “[^key-c4f1a9fc15b46bf3dde747b3cd118394]**Class A passenger ship**” and “**Class B passenger ship**” have the same meaning as in Article 3 of the EC Regulation;
+- “[^c-c4f1a9fc15b46bf3dde747b3cd118394]**Class A passenger ship**” and “**Class B passenger ship**” have the same meaning as in Article 3 of the EC Regulation;
 - “**constable**” includes any person having the powers and privileges of a constable;
 - “**domestic shipping**” means any transport service by ship in sea areas from a port facility of the United Kingdom to the same port facility or another port facility within the United Kingdom;
 - “**duly authorised officer**” means either—
@@ -79,7 +79,7 @@ These Regulations may be cited as the Ship and Port Facility (Security) Regulati
 - “**non-United Kingdom ship**” means a ship other than a United Kingdom ship;
 - “**owner of the port facility security plan**” means the person who submits the port facility security plan or the person on whose behalf that plan is submitted to the Secretary of State for approval under section 16.2 of Part A of the ISPS Code;
 - “**restricted area**” means an area in a ship or a port facility that is identified as such in a ship security plan or port facility security plan;
-- “[^key-9083b804b8e3730d2e1485531628e6a5]**tanker**” has the same meaning as in Article 3(3) of the EC Regulation;
+- “[^c-9083b804b8e3730d2e1485531628e6a5]**tanker**” has the same meaning as in Article 3(3) of the EC Regulation;
 - “**United Kingdom registration provisions**” means Part II of the Merchant Shipping Act 1995, or any Order in Council under section 1 of the Hovercraft Act 1968 [^c5243401].
 - “**United Kingdom ship**” has the same meaning as in section 85(2) of the Merchant Shipping Act 1995, and
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom.
@@ -101,7 +101,7 @@ The purpose of these Regulations is to provide for the implementation of the EC 
   - (ii) cargo ships, including high speed craft, of 500 gross tonnage and upwards;
   - (iii) mobile offshore drilling units;
 - (b) Class A passenger ships operating domestic services within United Kingdom waters and their companies;
-- (ba)[^key-51e9c748ead23e022b74de1b657aad7c] Class B passenger ships operating domestic services within United Kingdom waters which are certified to carry more than 250 passengers, and their companies;
+- (ba)[^c-51e9c748ead23e022b74de1b657aad7c] Class B passenger ships operating domestic services within United Kingdom waters which are certified to carry more than 250 passengers, and their companies;
 - (bb) tankers operating domestic services within United Kingdom waters and their companies;
 - (c) the following port facilities—
   - (i) port facilities serving the ships specified in paragraph (1)(a); and
@@ -121,8 +121,8 @@ The purpose of these Regulations is to provide for the implementation of the EC 
 
 The Secretary of State for Transport is hereby designated—
 
-- (a)[^key-a500311362839c36fb33d43a221467bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-a500311362839c36fb33d43a221467bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a500311362839c36fb33d43a221467bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a500311362839c36fb33d43a221467bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the “**designated authority**” for the purposes of Chapter XI-2 of the SOLAS Convention and the ISPS Code.
 
 ## PART 2 — INSPECTIONS
@@ -163,10 +163,10 @@ commits an offence.
 
 (6) A person guilty of an offence under paragraph (5) is liable —
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-354ea935ae090f12bf37a56fd7e69566], or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-354ea935ae090f12bf37a56fd7e69566], or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
 
-### 7. Inspection of companies and port facilities by the European Commission[^key-83112edcbef279ecec447f63e11f834b]
+### 7. Inspection of companies and port facilities by the European Commission[^c-83112edcbef279ecec447f63e11f834b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -204,7 +204,7 @@ commits an offence.
 
 (9) A person who is guilty of an offence under paragraph (8) shall be liable —
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-90775447f315d39dba7c4be188e8381f], or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-90775447f315d39dba7c4be188e8381f], or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
 
 ### 9. Compensation for invalid detention of a ship
@@ -230,11 +230,11 @@ commits an offence.
 - (a) go, onto or into any part of a restricted area of a ship except with the permission of the master or the ship security officer or a person acting on their behalf, and in accordance with any conditions subject to which that permission is for the time being granted, or
 - (b) remain in any part of such a restricted area after being requested to leave by the master or the ship security officer or a person acting on their behalf.
 
-(2)[^key-65d01b58d84b888b5168e39efb0f6b1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-65d01b58d84b888b5168e39efb0f6b1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Subject to paragraph 3A,[^key-4fcf6395fce847b77025212e903f4dd8] a person who contravenes paragraph (1) without lawful authority or reasonable excuse is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(3) Subject to paragraph 3A,[^c-4fcf6395fce847b77025212e903f4dd8] a person who contravenes paragraph (1) without lawful authority or reasonable excuse is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(3A)[^key-1806e8d4ac90d267ff1462db93805d9f] A person who contravenes paragraph (1)(a) is not guilty of an offence unless it is proved that, at the material time, notices stating that the area concerned was a restricted area were posted so as to be readily seen and read by persons entering the area.
+(3A)[^c-1806e8d4ac90d267ff1462db93805d9f] A person who contravenes paragraph (1)(a) is not guilty of an offence unless it is proved that, at the material time, notices stating that the area concerned was a restricted area were posted so as to be readily seen and read by persons entering the area.
 
 (4) A constable, or the master or the ship security officer, or a person acting on behalf of the master or the ship security officer, may use such force as is reasonable in the circumstances to remove from a restricted area a person remaining in it in contravention of paragraph (1)(b).
 
@@ -245,11 +245,11 @@ commits an offence.
 - (a) go, onto or into any part of a restricted area of a port facility except with the permission of the port facility security officer or a person acting on his behalf, and in accordance with any conditions subject to which that permission is for the time being granted, or
 - (b) remain in any part of such a restricted area after being requested to leave by the port facility security officer or a person acting on his behalf.
 
-(2)[^key-37cb830751d123ed14baed527be51ac7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-37cb830751d123ed14baed527be51ac7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Subject to paragraph 3A,[^key-f14e31f3051cc6ef1b1542adaa7b6980] a person who contravenes paragraph (1) without lawful authority or reasonable excuse is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(3) Subject to paragraph 3A,[^c-f14e31f3051cc6ef1b1542adaa7b6980] a person who contravenes paragraph (1) without lawful authority or reasonable excuse is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(3A)[^key-f44ce0f2b3aece06a536c51f704c2d90] A person who contravenes paragraph (1)(a) is not guilty of an offence unless it is proved that, at the material time, notices stating that the area concerned was a restricted area were posted so as to be readily seen and read by persons entering the area.
+(3A)[^c-f44ce0f2b3aece06a536c51f704c2d90] A person who contravenes paragraph (1)(a) is not guilty of an offence unless it is proved that, at the material time, notices stating that the area concerned was a restricted area were posted so as to be readily seen and read by persons entering the area.
 
 (4) A constable, or the port facility security officer, or a person acting on behalf of the port facility security officer, may use such force as is reasonable in the circumstances to remove from a restricted area a person remaining in it in contravention of paragraph (1)(b).
 
@@ -266,7 +266,7 @@ commits an offence.
 
 (2) A person guilty of an offence under paragraph (1)(a) is liable —
 
-- (a) on summary conviction to a fine not exceeding the statutory maximum[^key-22babe43deb67cbef40fc6eeb347c2ec], or
+- (a) on summary conviction to a fine not exceeding the statutory maximum[^c-22babe43deb67cbef40fc6eeb347c2ec], or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
 
 (3) A person guilty of an offence under paragraph (1)(b) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
@@ -280,7 +280,7 @@ commits an offence.
 - (a) the requirements of Chapter XI-2 of the SOLAS Convention;
 - (b) the requirements of Part A of the ISPS Code;
 - (c) the requirements of paragraphs 1.12, 6.1, 8.3, 8.5, 8.7, 8.8, 8.9, 8.10, 13.6, 13.7, 18.5 or 18.6 of Part B of the ISPS Code;
-- (d)[^key-26b0240312df1b2b6abfe0a9e899ec84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-26b0240312df1b2b6abfe0a9e899ec84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the requirement to submit specified changes or amendments to a ship security plan or a port facility security plan to the Secretary of State for approval in accordance with regulation 19.
 
 (2) The persons referred to in paragraph (1) are—
@@ -313,7 +313,7 @@ commits an offence.
 
 (1) Any person, who without reasonable excuse, fails to comply with an enforcement notice served on him is guilty of an offence and liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-0760ac8290b3672e25ef98d6e7ee44b9], or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-0760ac8290b3672e25ef98d6e7ee44b9], or
 - (b) on conviction on indictment to a fine.
 
 (2) Where a person is convicted of an offence under paragraph (1) and if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding £100 for each day on which the failure continues.
@@ -325,7 +325,7 @@ commits an offence.
 (2) The grounds of objection to an enforcement notice are—
 
 - (a) that the steps required by the notice to be taken for the purposes of regulation 13 have been complied with;
-- (b)[^key-1f115e91f7ad90498b489516076d313b] that the matters stated in the enforcement notice in accordance with regulation 14(1) do not constitute a failure to comply with the requirements specified in regulation 13;
+- (b)[^c-1f115e91f7ad90498b489516076d313b] that the matters stated in the enforcement notice in accordance with regulation 14(1) do not constitute a failure to comply with the requirements specified in regulation 13;
 - (c) that any requirement of the notice —
   - (i) is unnecessary for complying with the requirements specified in regulation 13 and should be dispensed with or;
   - (ii) having regard to the terms of those requirements, is excessively onerous or inconvenient and should be modified in a manner specified in the notice of objection served under paragraph (1).
@@ -509,57 +509,57 @@ Copies of the SOLAS Convention and the ISPS Code referred to in these regulation
 
 [^c5243321]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-0761de4166211627ae050d35f1d50be7]: Textual amendment: Reg. 1(b) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/2)
+[^c-0761de4166211627ae050d35f1d50be7]: Textual amendment: Reg. 1(b) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/2)
 
 [^c5243331]: Marginal citation: OJ L129/ 6, 29.4.2004
 
-[^key-a2f378423b4a44faa6bebe3173142b37]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2f378423b4a44faa6bebe3173142b37]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ce28a102211b65ee36fbe58272b5e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ce28a102211b65ee36fbe58272b5e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-edf1a45588eb246ad590bb94e4c49cfc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edf1a45588eb246ad590bb94e4c49cfc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_c533a9dc-7064-4d56-dbb8-903e6d27f5a2]: Textual amendment: Words in reg. 2(1) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/9/2)
 
-[^key-c4f1a9fc15b46bf3dde747b3cd118394]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(d)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4f1a9fc15b46bf3dde747b3cd118394]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(d)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5243381]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); [section 256](https://www.legislation.gov.uk/uksi/2004/1495/section/256) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 6](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6), [paragraph 15](https://www.legislation.gov.uk/ukpga/1997/28/paragraph/15).
 
 [^c5243391]: Marginal citation: [1990 c. 31](https://www.legislation.gov.uk/ukpga/1990/31); there are amendments to section 46 which are not directly relevant to these Regulations.
 
-[^key-9083b804b8e3730d2e1485531628e6a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(e)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9083b804b8e3730d2e1485531628e6a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(e)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5243401]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-51e9c748ead23e022b74de1b657aad7c]: Textual amendment: [Reg. 4(1)(ba)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/4/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/4/1/bb) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51e9c748ead23e022b74de1b657aad7c]: Textual amendment: [Reg. 4(1)(ba)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/4/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/4/1/bb) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a500311362839c36fb33d43a221467bc]: Textual amendment: [Reg. 5(a)(b)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/5/a/b) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a500311362839c36fb33d43a221467bc]: Textual amendment: [Reg. 5(a)(b)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/5/a/b) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-354ea935ae090f12bf37a56fd7e69566]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/6/6/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+[^c-354ea935ae090f12bf37a56fd7e69566]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/6/6/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
 
-[^key-83112edcbef279ecec447f63e11f834b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1495/regulation/7) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83112edcbef279ecec447f63e11f834b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1495/regulation/7) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90775447f315d39dba7c4be188e8381f]: Textual amendment: Words in [reg. 8(9)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/8/9/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+[^c-90775447f315d39dba7c4be188e8381f]: Textual amendment: Words in [reg. 8(9)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/8/9/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
 
-[^key-65d01b58d84b888b5168e39efb0f6b1a]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/2) omitted (1.7.2005) by virtue of [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/a)
+[^c-65d01b58d84b888b5168e39efb0f6b1a]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/2) omitted (1.7.2005) by virtue of [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/a)
 
-[^key-4fcf6395fce847b77025212e903f4dd8]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/3) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/b)
+[^c-4fcf6395fce847b77025212e903f4dd8]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/3) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/b)
 
-[^key-1806e8d4ac90d267ff1462db93805d9f]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/3A) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/c)
+[^c-1806e8d4ac90d267ff1462db93805d9f]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/3A) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/c)
 
-[^key-37cb830751d123ed14baed527be51ac7]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/2) omitted (1.7.2005) by virtue of [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/a)
+[^c-37cb830751d123ed14baed527be51ac7]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/2) omitted (1.7.2005) by virtue of [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/a)
 
-[^key-f14e31f3051cc6ef1b1542adaa7b6980]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/3) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/b)
+[^c-f14e31f3051cc6ef1b1542adaa7b6980]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/3) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/b)
 
-[^key-f44ce0f2b3aece06a536c51f704c2d90]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/3A) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/c)
+[^c-f44ce0f2b3aece06a536c51f704c2d90]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/3A) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/c)
 
-[^key-22babe43deb67cbef40fc6eeb347c2ec]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/12/2/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+[^c-22babe43deb67cbef40fc6eeb347c2ec]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/12/2/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
 
-[^key-26b0240312df1b2b6abfe0a9e899ec84]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/13/1/d) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26b0240312df1b2b6abfe0a9e899ec84]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/13/1/d) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0760ac8290b3672e25ef98d6e7ee44b9]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/15/1/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+[^c-0760ac8290b3672e25ef98d6e7ee44b9]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/15/1/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
 
-[^key-1f115e91f7ad90498b489516076d313b]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/16/2/b) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/5)
+[^c-1f115e91f7ad90498b489516076d313b]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/16/2/b) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/5)
 
 [^c5243411]: Marginal citation: The relevant provisions are in Part A of the ISPS Code; [section 9](https://www.legislation.gov.uk/uksi/2004/1495/section/9).5 (for ship security plans) and section 16.6 (for port facility security plans).
 

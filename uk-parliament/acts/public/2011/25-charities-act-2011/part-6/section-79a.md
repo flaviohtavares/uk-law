@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79A. Removal of disqualified trustee[^key-c7d882fda192932ef293f1601405d1f8]
+## 79A. Removal of disqualified trustee[^c-c7d882fda192932ef293f1601405d1f8]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Commission may remove a charity trustee or trustee for a charity by order ma
 
 ## Annotations
 
-[^key-c7d882fda192932ef293f1601405d1f8]: Textual amendment: S. 79A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/5/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)
+[^c-c7d882fda192932ef293f1601405d1f8]: Textual amendment: S. 79A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/5/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)

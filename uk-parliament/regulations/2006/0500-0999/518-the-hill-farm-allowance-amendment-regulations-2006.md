@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Hill Farm Allowance (Amendment) Regulations 2006 (revoked)[^key-e54695f91390e4ce0c5145fea829f8a0]
+The Hill Farm Allowance (Amendment) Regulations 2006 (revoked)[^c-e54695f91390e4ce0c5145fea829f8a0]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 28th March 2006
 
-[^key-e54695f91390e4ce0c5145fea829f8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e54695f91390e4ce0c5145fea829f8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e54695f91390e4ce0c5145fea829f8a0]
+## 1. Title and commencement[^c-e54695f91390e4ce0c5145fea829f8a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the definition of “moorland”[^key-e54695f91390e4ce0c5145fea829f8a0]
+## 2. Amendment of the definition of “moorland”[^c-e54695f91390e4ce0c5145fea829f8a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e54695f91390e4ce0c5145fea829f8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e54695f91390e4ce0c5145fea829f8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e54695f91390e4ce0c5145fea829f8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e54695f91390e4ce0c5145fea829f8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e54695f91390e4ce0c5145fea829f8a0]: Textual amendment: Regulations revoked (15.2.2013) by [The Uplands Transitional Payment Regulations 2013 (S.I. 2013/109)](https://www.legislation.gov.uk/uksi/2013/109), regs. 1(1), [9(b)](https://www.legislation.gov.uk/uksi/2013/109/regulation/9/b)
+[^c-e54695f91390e4ce0c5145fea829f8a0]: Textual amendment: Regulations revoked (15.2.2013) by [The Uplands Transitional Payment Regulations 2013 (S.I. 2013/109)](https://www.legislation.gov.uk/uksi/2013/109), regs. 1(1), [9(b)](https://www.legislation.gov.uk/uksi/2013/109/regulation/9/b)

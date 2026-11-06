@@ -53,7 +53,7 @@ And whereas Your Majesty in the same Message put both Houses of Parliament in mi
 
 (1) If a Regency becomes necessary under this Act, the Regent shall be that person who, excluding any persons disqualified under this section, is next in the line of succession to the Crown.
 
-(2) A person shall be disqualified from becoming or being Regent, if he is not a British subject of full age and domiciled in some part of the United Kingdom, or is a person who would, under section two of the [^c588471]Act of Settlement, be incapable of inheriting, possessing, and enjoying the Crown , or is a person disqualified from succeeding to the Crown by virtue of section 3(3) of the Succession to the Crown Act 2013[^key-82504b37694d506fceb3f48d435e0430]; and section three of the Act of Settlement shall apply in the case of a Regent as it applies in the case of a Sovereign.
+(2) A person shall be disqualified from becoming or being Regent, if he is not a British subject of full age and domiciled in some part of the United Kingdom, or is a person who would, under section two of the [^c588471]Act of Settlement, be incapable of inheriting, possessing, and enjoying the Crown , or is a person disqualified from succeeding to the Crown by virtue of section 3(3) of the Succession to the Crown Act 2013[^c-82504b37694d506fceb3f48d435e0430]; and section three of the Act of Settlement shall apply in the case of a Regent as it applies in the case of a Sovereign.
 
 (3) If any person who would at the commencement of a Regency have become Regent but for the fact that he was not then of full age becomes of full age during the Regency, he shall, if he is not otherwise disqualified under this section, thereupon become Regent instead of the person who has theretofore been Regent.
 
@@ -75,11 +75,11 @@ During a Regency, unless Parliament otherwise determines,—
 - (b) if the Sovereign, being married, is under the age of eighteen years or has been declared under this Act to be incapable for the time being of performing the royal functions, the wife or husband of the Sovereign, if of full age, shall have the guardianship of the person of the Sovereign;
 - (c) the Regent shall, save in the cases aforesaid, have the guardianship of the person of the Sovereign; and the property of the Sovereign, except any private property which in accordance with the terms of any trust affecting it to be administered by some other person, shall be administered by the Regent.
 
-## 6. Power to delegate royal functions to Counsellors of State.[^key-1992f9fa39b9ee4eb0d9cdf18aeee266]
+## 6. Power to delegate royal functions to Counsellors of State.[^c-1992f9fa39b9ee4eb0d9cdf18aeee266]
 
 (1) In the event of illness not amounting to such infirmity of mind or body as is mentioned in section two of this Act, or of absence or intended absence from the United Kingdom, the Sovereign may, in order to prevent delay or difficulty in the despatch of public business, by Letters Patent under the Great Seal, delegate, for the period of that illness or absence, to Counsellors of State such of the royal functions as may be specified in the Letters Patent, and may in like manner revoke or vary any such delegation:
 
-Provided that no power to dissolve Parliament otherwise than on the express instructions of the Sovereign, or[^key-1116d157f523c81a63a2acf8648defcc] [^key-b40ea400b147444f3059ab96e97a27a9]... to grant any rank, title or dignity of the peerage may be delegated.
+Provided that no power to dissolve Parliament otherwise than on the express instructions of the Sovereign, or[^c-1116d157f523c81a63a2acf8648defcc] [^c-b40ea400b147444f3059ab96e97a27a9]... to grant any rank, title or dignity of the peerage may be delegated.
 
 (2)[^c588473][^c588472] Subject as hereinafter provided, the Counsellors of State shall be the wife or husband of the Sovereign (if the Sovereign is married), and the four persons who, excluding any persons disqualified under this section, are next in the line of succession to the Crown, or if the number of such persons next in the line of succession is less than four, then all such persons:
 
@@ -123,13 +123,13 @@ Section 4.
 
 [^c588471]: Marginal citation: [1700 c. 2](https://www.legislation.gov.uk/aep/1700/2).
 
-[^key-82504b37694d506fceb3f48d435e0430]: Textual amendment: Words in s. 3(2) inserted (26.3.2015) by [Succession to the Crown Act 2013 (c. 20)](https://www.legislation.gov.uk/ukpga/2013/20), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2013/20/section/5/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/4); [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-82504b37694d506fceb3f48d435e0430]: Textual amendment: Words in s. 3(2) inserted (26.3.2015) by [Succession to the Crown Act 2013 (c. 20)](https://www.legislation.gov.uk/ukpga/2013/20), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2013/20/section/5/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/4); [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
-[^key-1992f9fa39b9ee4eb0d9cdf18aeee266]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/16/section/6) modified (7.12.2022) by [Counsellors of State Act 2022 (c. 47)](https://www.legislation.gov.uk/ukpga/2022/47), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2022/47/section/1/1), [2(2)](https://www.legislation.gov.uk/ukpga/2022/47/section/2/2)
+[^c-1992f9fa39b9ee4eb0d9cdf18aeee266]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/16/section/6) modified (7.12.2022) by [Counsellors of State Act 2022 (c. 47)](https://www.legislation.gov.uk/ukpga/2022/47), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2022/47/section/1/1), [2(2)](https://www.legislation.gov.uk/ukpga/2022/47/section/2/2)
 
-[^key-1116d157f523c81a63a2acf8648defcc]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/16/section/6/1) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/3)
+[^c-1116d157f523c81a63a2acf8648defcc]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/16/section/6/1) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/3)
 
-[^key-b40ea400b147444f3059ab96e97a27a9]: Textual amendment: Words in s. 6(1) omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/5) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-b40ea400b147444f3059ab96e97a27a9]: Textual amendment: Words in s. 6(1) omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/5) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
 
 [^c588473]: Modification: S. 6(2) modified (temp.) by [Regency Act 1953 (2 & 3 Eliz. 2 c. 1)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/1), [s. 3](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/1/section/3)
 

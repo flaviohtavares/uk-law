@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.34. Use of Welsh language at Crown Court trial[^key-141262935eca3f50531c634213aed66a]
+## 3.34. Use of Welsh language at Crown Court trial[^c-141262935eca3f50531c634213aed66a]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ Where a Crown Court trial will take place in Wales and a participant wishes to u
 
 ## Annotations
 
-[^key-141262935eca3f50531c634213aed66a]: Commencement: [Rule 3.34](https://www.legislation.gov.uk/uksi/2025/909/rule/3.34) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-141262935eca3f50531c634213aed66a]: Commencement: [Rule 3.34](https://www.legislation.gov.uk/uksi/2025/909/rule/3.34) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00142]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 180. Contributions under Schedule 2[^key-66e313c3679ea21baf1ed6b99e15f32c]
+## 180. Contributions under Schedule 2[^c-66e313c3679ea21baf1ed6b99e15f32c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Schedule 2 has effect for the purpose of enabling—
 
 ## Annotations
 
-[^key-66e313c3679ea21baf1ed6b99e15f32c]: Commencement: [Reg. 180](https://www.legislation.gov.uk/ssi/2014/292/regulation/180) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-66e313c3679ea21baf1ed6b99e15f32c]: Commencement: [Reg. 180](https://www.legislation.gov.uk/ssi/2014/292/regulation/180) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

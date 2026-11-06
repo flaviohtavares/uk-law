@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Effect of transfers out[^key-ba6c266177f9151817ed8ab5a231fa8c]
+## 104. Effect of transfers out[^c-ba6c266177f9151817ed8ab5a231fa8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a transfer value payment is made under this Chapter in respect of a member’
 
 ## Annotations
 
-[^key-ba6c266177f9151817ed8ab5a231fa8c]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2014/2336/regulation/104) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-ba6c266177f9151817ed8ab5a231fa8c]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2014/2336/regulation/104) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

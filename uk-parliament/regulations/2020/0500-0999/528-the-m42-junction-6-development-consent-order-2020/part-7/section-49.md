@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Application, disapplication and modification of legislative provisions[^key-33f1bb458f55aa2ee796f584222e029f]
+## 49. Application, disapplication and modification of legislative provisions[^c-33f1bb458f55aa2ee796f584222e029f]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-33f1bb458f55aa2ee796f584222e029f]: Commencement: Art. 49 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-33f1bb458f55aa2ee796f584222e029f]: Commencement: Art. 49 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00073]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Duty to report concerns about drivers licensed in other areas[^key-4583c4220be585265fba6a678b0e52f2]
+## 75. Duty to report concerns about drivers licensed in other areas[^c-4583c4220be585265fba6a678b0e52f2]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4583c4220be585265fba6a678b0e52f2]: Commencement: S. 75 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-4583c4220be585265fba6a678b0e52f2]: Commencement: S. 75 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

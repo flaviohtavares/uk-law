@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^key-aa65387e7e3e55b08759f4327502eefa]
+## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^c-aa65387e7e3e55b08759f4327502eefa]
 
 *Extent: S*
 
@@ -24,58 +24,58 @@ summary: ''
 
 Regulation 63(1)
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa65387e7e3e55b08759f4327502eefa]
+[^c-aa65387e7e3e55b08759f4327502eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa65387e7e3e55b08759f4327502eefa]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l), [38(l)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l) (with [reg. 39(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/39/b))
+[^c-aa65387e7e3e55b08759f4327502eefa]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l), [38(l)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/l) (with [reg. 39(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/39/b))

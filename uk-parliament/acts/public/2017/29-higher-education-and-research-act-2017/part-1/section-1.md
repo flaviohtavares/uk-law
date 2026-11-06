@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Office for Students[^key-13082e086398242abab8084a2ad9648f]
+## 1. The Office for Students[^c-13082e086398242abab8084a2ad9648f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13082e086398242abab8084a2ad9648f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/29/section/1) in force at 1.1.2018 by [S.I. 2017/788](https://www.legislation.gov.uk/uksi/2017/788), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/788/regulation/2/a)
+[^c-13082e086398242abab8084a2ad9648f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/29/section/1) in force at 1.1.2018 by [S.I. 2017/788](https://www.legislation.gov.uk/uksi/2017/788), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/788/regulation/2/a)

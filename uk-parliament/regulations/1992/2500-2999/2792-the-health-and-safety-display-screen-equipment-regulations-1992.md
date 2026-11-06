@@ -94,7 +94,7 @@ and where as a result of any such review changes to an assessment are required, 
 
 (4) The reference in paragraph (3) to “an assessment” is a reference to an assessment made by the employer concerned in pursuance of paragraph (1) and changed by him where necessary in pursuance of paragraph (2).
 
-## 3. Requirements for workstations[^key-a08e9503b769708821925eb1f9853a81]
+## 3. Requirements for workstations[^c-a08e9503b769708821925eb1f9853a81]
 
 Every employer shall ensure that any workstation which may be used for the purposes of his undertaking meets the requirements laid down in the Schedule to these Regulations, to the extent specified in paragraph 1 thereof.
 
@@ -104,7 +104,7 @@ Every employer shall so plan the activities of users at work in his undertaking 
 
 ## 5. Eyes and eyesight
 
-(1)[^key-b81e038a6d9a2f3cab89eead14d0f5b6] Where a person—
+(1)[^c-b81e038a6d9a2f3cab89eead14d0f5b6] Where a person—
 
 - (a) is a user in the undertaking in which he is employed; or
 - (b) is to become a user in the undertaking in which he is, or is to become, employed,
@@ -116,7 +116,7 @@ the employer who carries on the undertaking shall, if requested by that person, 
 - (a) in the case of a person mentioned in paragraph (1)(a), as soon as practicable after the request; and
 - (b) in the case of a person mentioned in paragraph (1)(b), before he becomes a user.
 
-(3) At regular intervals after an employee has been provided (whether before or after becoming an employee)[^key-8624356a4d02de8ea8b97cf47baecccb] with an eye and eyesight test in accordance with paragraphs (1) and (2), his employer shall, subject to paragraph (6), ensure that he is provided with a further eye and eyesight test of an appropriate nature, any such test to be carried out by a competent person.
+(3) At regular intervals after an employee has been provided (whether before or after becoming an employee)[^c-8624356a4d02de8ea8b97cf47baecccb] with an eye and eyesight test in accordance with paragraphs (1) and (2), his employer shall, subject to paragraph (6), ensure that he is provided with a further eye and eyesight test of an appropriate nature, any such test to be carried out by a competent person.
 
 (4) Where a user experiences visual difficulties which may reasonably be considered to be caused by work on display screen equipment, his employer shall ensure that he is provided at his request with an appropriate eye and eyesight test, any such test to be carried out by a competent person as soon as practicable after being requested as aforesaid.
 
@@ -129,7 +129,7 @@ the employer who carries on the undertaking shall, if requested by that person, 
 
 ## 6. Provision of training
 
-(1)[^key-4aeb62bf5f65caadcc842e5a05ea02ba] Where a person—
+(1)[^c-4aeb62bf5f65caadcc842e5a05ea02ba] Where a person—
 
 - (a) is a user in the undertaking in which he is employed; or
 - (b) is to become a user in the undertaking in which he is, or is to become, employed,
@@ -335,13 +335,13 @@ meets the requirements laid down in the Schedule to these Regulations. In the ca
 
 [^c18395411]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37); [sections 15(1)](https://www.legislation.gov.uk/uksi/1992/2792/section/15/1) and 50(3) were amended by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6) and 16(3) respectively.
 
-[^key-a08e9503b769708821925eb1f9853a81]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2792/regulation/3) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/a)
+[^c-a08e9503b769708821925eb1f9853a81]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2792/regulation/3) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/a)
 
-[^key-b81e038a6d9a2f3cab89eead14d0f5b6]: Textual amendment: Reg. 5(1)(2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/b)
+[^c-b81e038a6d9a2f3cab89eead14d0f5b6]: Textual amendment: Reg. 5(1)(2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/b)
 
-[^key-8624356a4d02de8ea8b97cf47baecccb]: Textual amendment: Words in reg. 5(3) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/c)
+[^c-8624356a4d02de8ea8b97cf47baecccb]: Textual amendment: Words in reg. 5(3) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/c)
 
-[^key-4aeb62bf5f65caadcc842e5a05ea02ba]: Textual amendment: Reg. 6(1)(1A) substituted for reg. 6(1) (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/d)
+[^c-4aeb62bf5f65caadcc842e5a05ea02ba]: Textual amendment: Reg. 6(1)(1A) substituted for reg. 6(1) (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/3/d)
 
 [^c18395421]: Marginal citation: [1952 c.7](https://www.legislation.gov.uk/ukpga/1952/7).
 

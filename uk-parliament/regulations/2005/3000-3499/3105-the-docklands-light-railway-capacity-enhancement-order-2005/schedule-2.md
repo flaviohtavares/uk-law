@@ -22,7 +22,7 @@ summary: ''
 
 Articles 5 and 24
 
-### PART 1 — GENERAL[^key-0f18f74b56e6d0e9b10fe42337b708ab]
+### PART 1 — GENERAL[^c-0f18f74b56e6d0e9b10fe42337b708ab]
 
 <table>
 <thead>
@@ -44,7 +44,7 @@ Articles 5 and 24
 </tbody>
 </table>
 
-### PART 2 — STATION WORKS[^key-6ce57a010e199e294029622870f1af37]
+### PART 2 — STATION WORKS[^c-6ce57a010e199e294029622870f1af37]
 
 <table>
 <thead>
@@ -70,6 +70,6 @@ Articles 5 and 24
 
 ## Annotations
 
-[^key-0f18f74b56e6d0e9b10fe42337b708ab]: Commencement: Sch. 2 Pt. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-0f18f74b56e6d0e9b10fe42337b708ab]: Commencement: Sch. 2 Pt. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
-[^key-6ce57a010e199e294029622870f1af37]: Commencement: Sch. 2 Pt. 2 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-6ce57a010e199e294029622870f1af37]: Commencement: Sch. 2 Pt. 2 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

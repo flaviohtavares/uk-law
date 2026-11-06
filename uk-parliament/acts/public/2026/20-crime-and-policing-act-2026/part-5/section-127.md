@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Minor and consequential amendments[^key-c12c251c83a4f3e4d65a332908c4f059]
+## 127. Minor and consequential amendments[^c-c12c251c83a4f3e4d65a332908c4f059]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 15 contains minor and consequential amendments relating to this Chapter
 
 ## Annotations
 
-[^key-c12c251c83a4f3e4d65a332908c4f059]: Commencement: S. 127 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-c12c251c83a4f3e4d65a332908c4f059]: Commencement: S. 127 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

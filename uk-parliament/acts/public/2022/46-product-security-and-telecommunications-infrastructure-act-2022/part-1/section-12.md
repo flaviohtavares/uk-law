@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Duty to maintain records[^key-12eab91595ff9ae3cfa8ed9bd0c9dc13][^key-3ca97825e90d594a260676e8a6e73997]
+## 12. Duty to maintain records[^c-12eab91595ff9ae3cfa8ed9bd0c9dc13][^c-3ca97825e90d594a260676e8a6e73997]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12eab91595ff9ae3cfa8ed9bd0c9dc13]: Commencement: S. 12 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-12eab91595ff9ae3cfa8ed9bd0c9dc13]: Commencement: S. 12 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-3ca97825e90d594a260676e8a6e73997]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/46/section/12) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-3ca97825e90d594a260676e8a6e73997]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/46/section/12) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

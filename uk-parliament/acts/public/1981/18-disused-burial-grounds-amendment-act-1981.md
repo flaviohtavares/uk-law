@@ -31,7 +31,7 @@ Disused Burial Grounds (Amendment) Act 1981
 
 An Act to amend the Disused Burial Grounds Act 1884 to enable building to take place on certain disused burial grounds with appropriate safeguards; and for purposes connected therewith.
 
-\[21st May 1981\][^key-4fa4134e7e6f08fabe9736d39da39bec]
+\[21st May 1981\][^c-4fa4134e7e6f08fabe9736d39da39bec]
 
 ## 1. Exclusion of Disused Burial Grounds Act 1884 in certain cases.[^c740353]
 
@@ -60,7 +60,7 @@ and the other requirements of the said Schedule have been complied with in respe
 
 (3) Any order made under the last foregoing subsection may be amended or revoked by a subsequent order made in like manner and subject to the like conditions on the application by or on behalf of such church or other religious body and if at any time the requirements of subsection (1) of this section and of the said Schedule are complied with in respect of the land, the order shall cease to have effect.
 
-(4) Where an order is made under this section in respect of any land, a copy thereof, certified by or on behalf of the Secretary of State to be a true copy, shall be sent to the Chief Land Registrar,[^key-ffe098010175c9c8f402b16209cdd442] and the order shall be a local land charge.
+(4) Where an order is made under this section in respect of any land, a copy thereof, certified by or on behalf of the Secretary of State to be a true copy, shall be sent to the Chief Land Registrar,[^c-ffe098010175c9c8f402b16209cdd442] and the order shall be a local land charge.
 
 (5) Where by virtue of any such order human remains are not removed and reinterred or cremated:
 
@@ -94,7 +94,7 @@ and on the sale of the land it shall be sufficient for the purposes of subsectio
 
 This Act shall not apply to any consecrated land and shall not affect the jurisdiction of the Consistory Court.
 
-## 6. Saving for the Charity Commission.[^key-6779408c1611df5b0f59ca3d91e1d8af]
+## 6. Saving for the Charity Commission.[^c-6779408c1611df5b0f59ca3d91e1d8af]
 
 Nothing in this Act affects the charitable jurisdiction of the High Court or the Charity Commission and in particular, in the absence of appropriate provisions in the governing instrument of the charity concerning—
 
@@ -109,7 +109,7 @@ The provisions of the planning Acts (within the meaning of the Town and Country 
 
 ## 8. Determination of questions.
 
-If any person claiming compensation under subsection (3) of section 4 of this Act, or giving such notice as is mentioned in paragraph 3 of the said Schedule, fails to satisfy the church or other religious body owning the land or on whose behalf it is held that he is the person entitled to burial rights in the said land or that he is such personal representative or relative as he claims to be, or if any question arises about the amount of compensation for loss of such rights, or as to the reasonableness of the expenses or proposed expenses of the removal and reinterment or cremation of human remains or the removal and disposal of any tombstone, monument or memorial under the said paragraph, the question shall be determined on the application of either party by the County Court [^key-4cce63ac947293fe3c921c313f002ae1]... shall have power to make an order determining such question and as to the payment of the costs of the application[^key-7daf5674168f2edae1e7dd0460ab8eb7]....
+If any person claiming compensation under subsection (3) of section 4 of this Act, or giving such notice as is mentioned in paragraph 3 of the said Schedule, fails to satisfy the church or other religious body owning the land or on whose behalf it is held that he is the person entitled to burial rights in the said land or that he is such personal representative or relative as he claims to be, or if any question arises about the amount of compensation for loss of such rights, or as to the reasonableness of the expenses or proposed expenses of the removal and reinterment or cremation of human remains or the removal and disposal of any tombstone, monument or memorial under the said paragraph, the question shall be determined on the application of either party by the County Court [^c-4cce63ac947293fe3c921c313f002ae1]... shall have power to make an order determining such question and as to the payment of the costs of the application[^c-7daf5674168f2edae1e7dd0460ab8eb7]....
 
 ## 9. Interpretation.
 
@@ -119,7 +119,7 @@ In this Act unless the context otherwise requires:—
 - “**Commonwealth war burial**” means a burial of any member of the forces of His Majesty fallen in the war of 1914—21 or in the war of 1939—1947;
 - “**consecrated land**” means land which has been consecrated according to the rites and ceremonies of the Church of England and is outside the area subject to the Welsh Church Acts 1914 to 1945;
 - “**the principal Act**” means the Disused Burial Grounds Act 1884;
-- “**relative**” means in relation to any person whose remains are interred, a spouse or civil partner[^key-c1e78df5bd1efb3e03a04fa4f1341246] , parent or grand-parent, or child or grandchild, including a legitimated child, and any person who is, or is the child of, a brother, sister, uncle or aunt.
+- “**relative**” means in relation to any person whose remains are interred, a spouse or civil partner[^c-c1e78df5bd1efb3e03a04fa4f1341246] , parent or grand-parent, or child or grandchild, including a legitimated child, and any person who is, or is the child of, a brother, sister, uncle or aunt.
 
 ## 10. Short title and extent.
 
@@ -174,23 +174,23 @@ Provided also that where the Commission themselves remove from the land and disp
 
 ## Annotations
 
-[^key-4fa4134e7e6f08fabe9736d39da39bec]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/18) excluded (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2587/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2013/2587/article/7/3) (with [arts. 42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
+[^c-4fa4134e7e6f08fabe9736d39da39bec]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/18) excluded (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2587/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2013/2587/article/7/3) (with [arts. 42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
 
 [^c740353]: Marginal citation: [1884 c. 72](https://www.legislation.gov.uk/ukpga/1884/72).
 
-[^key-ffe098010175c9c8f402b16209cdd442]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/1981/18/section/2/4) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/36) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-ffe098010175c9c8f402b16209cdd442]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/1981/18/section/2/4) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/36) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c740355]: Marginal citation: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81).
 
-[^key-6779408c1611df5b0f59ca3d91e1d8af]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1981/18/section/6) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/37) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-6779408c1611df5b0f59ca3d91e1d8af]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1981/18/section/6) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/37) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c740358]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/48)
 
-[^key-4cce63ac947293fe3c921c313f002ae1]: Textual amendment: Words in s. 8 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 80(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/80/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4cce63ac947293fe3c921c313f002ae1]: Textual amendment: Words in s. 8 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 80(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/80/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7daf5674168f2edae1e7dd0460ab8eb7]: Textual amendment: Words in s. 8 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 80(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/80/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7daf5674168f2edae1e7dd0460ab8eb7]: Textual amendment: Words in s. 8 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 80(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/80/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-c1e78df5bd1efb3e03a04fa4f1341246]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1981/18/section/9) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 66](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/66); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-c1e78df5bd1efb3e03a04fa4f1341246]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1981/18/section/9) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 66](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/66); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
 [^c740359]: Marginal citation: [1884 c. 72](https://www.legislation.gov.uk/ukpga/1884/72).
 

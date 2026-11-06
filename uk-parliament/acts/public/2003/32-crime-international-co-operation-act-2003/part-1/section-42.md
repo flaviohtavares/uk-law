@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Offence of disclosure[^key-f33a0ca095d92e339cd1d9604310788d]
+## 42. Offence of disclosure[^c-f33a0ca095d92e339cd1d9604310788d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
 - (a) a financial institution is specified in a customer information order or account monitoring order made in any part of the United Kingdom, or
-- (b) the Secretary of State or the Lord Advocate receives a request under section 13 for evidence to be obtained from a financial institution in connection with the investigation of an offence [^key-958cb7a1edb3b66978e9ae769f7aa868]....
+- (b) the Secretary of State or the Lord Advocate receives a request under section 13 for evidence to be obtained from a financial institution in connection with the investigation of an offence [^c-958cb7a1edb3b66978e9ae769f7aa868]....
 
 (2) If the institution, or an employee of the institution, discloses any of the following information, the institution or (as the case may be) the employee is guilty of an offence.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f33a0ca095d92e339cd1d9604310788d]: Commencement: S. 42 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
+[^c-f33a0ca095d92e339cd1d9604310788d]: Commencement: S. 42 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
 
-[^key-958cb7a1edb3b66978e9ae769f7aa868]: Textual amendment: Words in s. 42(1)(b) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/6); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-958cb7a1edb3b66978e9ae769f7aa868]: Textual amendment: Words in s. 42(1)(b) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/6); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Assumed yield from capital[^key-647d969bd0c3efbeb3f5c695bd57a7d3]
+## 63. Assumed yield from capital[^c-647d969bd0c3efbeb3f5c695bd57a7d3]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-647d969bd0c3efbeb3f5c695bd57a7d3]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2021/249/regulation/63) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-647d969bd0c3efbeb3f5c695bd57a7d3]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2021/249/regulation/63) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47B. Approval of equivalent bodies, equivalent standards and equivalent certification schemes[^key-ebbb60846b5bf1e8c6a66f5224bc802d]
+## 47B. Approval of equivalent bodies, equivalent standards and equivalent certification schemes[^c-ebbb60846b5bf1e8c6a66f5224bc802d]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebbb60846b5bf1e8c6a66f5224bc802d]: Textual amendment: [Regs. 47A](https://www.legislation.gov.uk/uksi/2018/611/regulation/47A), [47B](https://www.legislation.gov.uk/uksi/2018/611/regulation/47B) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2022/159/regulation/40)
+[^c-ebbb60846b5bf1e8c6a66f5224bc802d]: Textual amendment: [Regs. 47A](https://www.legislation.gov.uk/uksi/2018/611/regulation/47A), [47B](https://www.legislation.gov.uk/uksi/2018/611/regulation/47B) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2022/159/regulation/40)

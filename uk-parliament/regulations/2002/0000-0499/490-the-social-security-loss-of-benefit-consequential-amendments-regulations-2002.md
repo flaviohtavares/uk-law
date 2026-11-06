@@ -47,9 +47,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) In these Regulations—
 
-[^key-a1db2ebacd4311a3f81bf8bc1d6f2a5e]...
+[^c-a1db2ebacd4311a3f81bf8bc1d6f2a5e]...
 
-[^key-a1db2ebacd4311a3f81bf8bc1d6f2a5e]...
+[^c-a1db2ebacd4311a3f81bf8bc1d6f2a5e]...
 
 “the Income Support Regulations” means the Income Support (General) Regulations 1987 [^c964769];
 
@@ -60,8 +60,8 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 (1) At the end of—
 
 - (a) paragraph 13 of Schedule 2 to the Income Support Regulations [^c964771];
-- (b)[^key-9d62da036abfa609fe6c5f3b1eba6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-9d62da036abfa609fe6c5f3b1eba6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9d62da036abfa609fe6c5f3b1eba6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9d62da036abfa609fe6c5f3b1eba6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (which relate to severe disability premium), there shall be added the following sub-paragraph—
 
@@ -93,7 +93,7 @@ In the Social Security (Credits) Regulations 1975 [^c964776]—
 
 At the end of paragraph 4(b) of Schedule 1B to the Income Support Regulations [^c964777] (prescribed categories of person—person caring for another), there shall be added the words “ or would be in receipt of that allowance but for the application of a restriction under section 7 of the Social Security Fraud Act 2001 (loss of benefit provisions) ”.
 
-## 5. Amendment of the Housing Benefit Regulations and of the Council Tax Benefit Regulations[^key-fd23788817899c1050fdd38e715c334a]
+## 5. Amendment of the Housing Benefit Regulations and of the Council Tax Benefit Regulations[^c-fd23788817899c1050fdd38e715c334a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -149,7 +149,7 @@ In the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulatio
 
 ## 10. Amendment of the Discretionary Financial Assistance Regulations 2001
 
-In regulation 3(1) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c] [^c964783] (circumstances in which discretionary housing payments may be made), after the words “Child Support, Pensions and Social Security Act 2000” there shall be inserted the words *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c] “ or section 7, 8 or 9 of the Social Security Fraud Act 2001 ” *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c]. *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c]
+In regulation 3(1) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-725342aad41d86708aa65d8f83fea27c] [^c964783] (circumstances in which discretionary housing payments may be made), after the words “Child Support, Pensions and Social Security Act 2000” there shall be inserted the words *(Extent: E)* *(affected by repeal, see note)*[^c-725342aad41d86708aa65d8f83fea27c] “ or section 7, 8 or 9 of the Social Security Fraud Act 2001 ” *(Extent: E)* *(affected by repeal, see note)*[^c-725342aad41d86708aa65d8f83fea27c]. *(Extent: E)* *(affected by repeal, see note)*[^c-725342aad41d86708aa65d8f83fea27c]
 
 ## 11. Amendment of the Social Security (Breach of Community Order) Regulations 2001
 
@@ -214,7 +214,7 @@ These Regulations do not impose a charge on business.
 
 [^c964766]: Marginal citation: [Section 12(3)(a)](https://www.legislation.gov.uk/uksi/2002/490/section/12/3/a) of that Act added sections 7 to 11 of that Act to the list of “the relevant enactments” in respect of which regulations must normally be referred to the Social Security Advisory Committee.*See* however section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-a1db2ebacd4311a3f81bf8bc1d6f2a5e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/490/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-a1db2ebacd4311a3f81bf8bc1d6f2a5e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/490/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c964769]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -222,7 +222,7 @@ These Regulations do not impose a charge on business.
 
 [^c964771]: Marginal citation: The relevant amending instrument to paragraph 13 is [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
 
-[^key-9d62da036abfa609fe6c5f3b1eba6e0b]: Textual amendment: Reg. 2(1)(b)(c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-9d62da036abfa609fe6c5f3b1eba6e0b]: Textual amendment: Reg. 2(1)(b)(c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c964774]: Marginal citation: Paragraph 15 is amended by [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
 
@@ -232,7 +232,7 @@ These Regulations do not impose a charge on business.
 
 [^c964777]: Marginal citation: [Schedule 1B](https://www.legislation.gov.uk/uksi/2002/490/schedule/1B) is inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), [paragraph 4(b)](https://www.legislation.gov.uk/uksi/1996/206/paragraph/4/b) of that Schedule is amended by [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
 
-[^key-fd23788817899c1050fdd38e715c334a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/490/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-fd23788817899c1050fdd38e715c334a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/490/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c964778]: Marginal citation: [S.I. 1996/2570](https://www.legislation.gov.uk/uksi/1996/2570); the relevant amending instrument is [S.I. 2001/1711](https://www.legislation.gov.uk/uksi/2001/1711).
 
@@ -244,7 +244,7 @@ These Regulations do not impose a charge on business.
 
 [^c964782]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-725342aad41d86708aa65d8f83fea27c]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2002/490/regulation/10) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-725342aad41d86708aa65d8f83fea27c]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2002/490/regulation/10) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^c964783]: Marginal citation: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167); [regulation 3(1)](https://www.legislation.gov.uk/uksi/2002/490/regulation/3/1) is added by [S.I. 2001/1711](https://www.legislation.gov.uk/uksi/2001/1711).
 

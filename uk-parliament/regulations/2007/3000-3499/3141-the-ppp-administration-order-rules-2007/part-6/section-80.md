@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Further information and disclosure[^key-0bc52f89aa4dd193eea85ee2dcc8778a]
+## 80. Further information and disclosure[^c-0bc52f89aa4dd193eea85ee2dcc8778a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc52f89aa4dd193eea85ee2dcc8778a]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2007/3141/rule/80) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-0bc52f89aa4dd193eea85ee2dcc8778a]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2007/3141/rule/80) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

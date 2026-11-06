@@ -25,7 +25,7 @@ summary: ''
 - (a) with any sluices, floodgates, groynes, sea defences or other works used by any person for draining, preserving or improving any land under any local statutory provision; or
 - (b) with any such works used by any person for irrigating any land.
 
-(2) Where the appropriate agency[^key-1b8abae1db8866568af986b68f896bcc] proposes, otherwise than in exercise of any compulsory powers—
+(2) Where the appropriate agency[^c-1b8abae1db8866568af986b68f896bcc] proposes, otherwise than in exercise of any compulsory powers—
 
 - (a) to construct or alter any such inland waters in any internal drainage district as do not form part of a main river; or
 - (b) to construct or alter any works on or in any such inland waters,
@@ -48,4 +48,4 @@ shall be referred to the arbitration of a single arbitrator to be appointed by a
 
 [^c18739171]: Modification: S. 179 applied (01.12.1991) by [Land Drainage Act 1991 (c. 59, SIF 73:1)](https://www.legislation.gov.uk/ukpga/1991/59), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/67/2), [76(2)](https://www.legislation.gov.uk/ukpga/1991/59/section/76/2).
 
-[^key-1b8abae1db8866568af986b68f896bcc]: Textual amendment: Words in ss. 176-179 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b8abae1db8866568af986b68f896bcc]: Textual amendment: Words in ss. 176-179 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

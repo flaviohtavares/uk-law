@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Determination by CMA of appeal[^key-3a1f5a286cfa31df42256550a5fd93a8]
+## 22. Determination by CMA of appeal[^c-3a1f5a286cfa31df42256550a5fd93a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a1f5a286cfa31df42256550a5fd93a8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/52/section/22) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-3a1f5a286cfa31df42256550a5fd93a8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/52/section/22) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

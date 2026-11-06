@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67B. Defence to offence of contravening section 63(a) or (b): product sold or supplied[^key-cd94600ee6a0fdb159df7fabfb1af9af]
+## 67B. Defence to offence of contravening section 63(a) or (b): product sold or supplied[^c-cd94600ee6a0fdb159df7fabfb1af9af]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) It is a defence for the defendant to prove that—
 
-- (a)[^key-5ecde9ca2a3718fc076afe7b98d56389] the adulteration took place—
+- (a)[^c-5ecde9ca2a3718fc076afe7b98d56389] the adulteration took place—
   - (i) at a registered pharmacy, or
   - (ii) in the course of the provision of a relevant pharmacy service;
 - (b) the person who adulterated the product—
@@ -47,7 +47,7 @@ summary: ''
 
 - (a) the person who adulterated the product;
 - (b) (in a case within subsection (2)(b)(ii)) the supervising registrant;
-- (c) the person carrying on the retail pharmacy business , or the relevant pharmacy service,[^key-cb055ecad0c55a8875ab4fa74cf465eb] in the course of which the product was sold or supplied.
+- (c) the person carrying on the retail pharmacy business , or the relevant pharmacy service,[^c-cb055ecad0c55a8875ab4fa74cf465eb] in the course of which the product was sold or supplied.
 
 (5) Condition B is that—
 
@@ -59,14 +59,14 @@ summary: ''
 (6) In subsection (5), “appropriate person” means any of the following—
 
 - (a) the person who adulterated the product or (in a case within subsection (2)(b)(ii)) the supervising registrant;
-- (b) the person carrying on the retail pharmacy business , or the relevant pharmacy service,[^key-b04b67f3c031d2ff15ef191ff7874a02] in the course of which the product was sold or supplied, or any person acting on that person’s behalf.
+- (b) the person carrying on the retail pharmacy business , or the relevant pharmacy service,[^c-b04b67f3c031d2ff15ef191ff7874a02] in the course of which the product was sold or supplied, or any person acting on that person’s behalf.
 
 ## Annotations
 
-[^key-cd94600ee6a0fdb159df7fabfb1af9af]: Textual amendment: Ss. 67A-67E inserted (16.4.2018) by [The Pharmacy (Preparation and Dispensing Errors Registered Pharmacies) Order 2018 (S.I. 2018/181)](https://www.legislation.gov.uk/uksi/2018/181), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/181/article/1/3), [4](https://www.legislation.gov.uk/uksi/2018/181/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2018/181/article/2)); [S.I. 2018/402](https://www.legislation.gov.uk/uksi/2018/402), [art. 2](https://www.legislation.gov.uk/uksi/2018/402/article/2)
+[^c-cd94600ee6a0fdb159df7fabfb1af9af]: Textual amendment: Ss. 67A-67E inserted (16.4.2018) by [The Pharmacy (Preparation and Dispensing Errors Registered Pharmacies) Order 2018 (S.I. 2018/181)](https://www.legislation.gov.uk/uksi/2018/181), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/181/article/1/3), [4](https://www.legislation.gov.uk/uksi/2018/181/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2018/181/article/2)); [S.I. 2018/402](https://www.legislation.gov.uk/uksi/2018/402), [art. 2](https://www.legislation.gov.uk/uksi/2018/402/article/2)
 
-[^key-5ecde9ca2a3718fc076afe7b98d56389]: Textual amendment: [S. 67B(2)(a)](https://www.legislation.gov.uk/ukpga/1968/67/section/67B/2/a) substituted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2022/851/article/6/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-5ecde9ca2a3718fc076afe7b98d56389]: Textual amendment: [S. 67B(2)(a)](https://www.legislation.gov.uk/ukpga/1968/67/section/67B/2/a) substituted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2022/851/article/6/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
-[^key-cb055ecad0c55a8875ab4fa74cf465eb]: Textual amendment: Words in [s. 67B(4)(c)](https://www.legislation.gov.uk/ukpga/1968/67/section/67B/4/c) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2022/851/article/6/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-cb055ecad0c55a8875ab4fa74cf465eb]: Textual amendment: Words in [s. 67B(4)(c)](https://www.legislation.gov.uk/ukpga/1968/67/section/67B/4/c) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2022/851/article/6/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
 
-[^key-b04b67f3c031d2ff15ef191ff7874a02]: Textual amendment: Words in [s. 67B(6)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/67B/6/b) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2022/851/article/6/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+[^c-b04b67f3c031d2ff15ef191ff7874a02]: Textual amendment: Words in [s. 67B(6)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/67B/6/b) inserted (1.12.2022) by [The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022 (S.I. 2022/851)](https://www.legislation.gov.uk/uksi/2022/851), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2022/851/article/6/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/851/article/3)); [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)

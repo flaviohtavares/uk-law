@@ -27,7 +27,7 @@ summary: ''
 - (a) by a resolution of the society or branch in general meeting; or
 - (b) in such other manner as the rules of the society or branch may provide.
 
-(3) If a trustee is appointed under subsection (2)(a) above, the society or branch shall send to the FCA[^key-7fb635fe70ac9a7319d78f8ce6dc0a86] a copy of the resolution appointing him, signed by the trustee so appointed and by the secretary of the society or branch.
+(3) If a trustee is appointed under subsection (2)(a) above, the society or branch shall send to the FCA[^c-7fb635fe70ac9a7319d78f8ce6dc0a86] a copy of the resolution appointing him, signed by the trustee so appointed and by the secretary of the society or branch.
 
 (4) If a trustee is appointed under subsection (2)(b) above, the society or branch shall send to the FCA—
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c1073059]: Textual amendment: S. 24 substituted (1.1.1994) by [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 95](https://www.legislation.gov.uk/ukpga/1992/40/section/95), [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/9) (with ss. 7(5) and 93(4)); [S.I. 1993/2213](https://www.legislation.gov.uk/uksi/1993/2213), [art. 2 Sch. 6](https://www.legislation.gov.uk/uksi/1993/2213/article/2/schedule/6).
 
-[^key-7fb635fe70ac9a7319d78f8ce6dc0a86]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/1974/46/section/24) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(g)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/g) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7fb635fe70ac9a7319d78f8ce6dc0a86]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/1974/46/section/24) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(g)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/g) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

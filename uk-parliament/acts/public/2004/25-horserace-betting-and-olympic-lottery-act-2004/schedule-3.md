@@ -122,7 +122,7 @@ Section 16
 
 ### Transfer of undertakings
 
-**12.** (1) Nothing in a transfer scheme shall affect the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-195a3ab41d762013b344d76aaa9afee7].
+**12.** (1) Nothing in a transfer scheme shall affect the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-195a3ab41d762013b344d76aaa9afee7].
 
 (2) The Secretary of State shall not approve, make or modify a transfer scheme unless satisfied that sufficient notice has been given to enable compliance with any applicable requirement of those regulations.
 
@@ -182,4 +182,4 @@ Section 16
 
 ## Annotations
 
-[^key-195a3ab41d762013b344d76aaa9afee7]: Textual amendment: Words in Sch. 3 para. 12(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(j)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/j)
+[^c-195a3ab41d762013b344d76aaa9afee7]: Textual amendment: Words in Sch. 3 para. 12(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(j)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/j)

@@ -32,7 +32,7 @@ summary: ''
 
 MERCHANT SHIPPING
 
-The Merchant Shipping (Fees) (Amendment)Regulations 2004 (revoked)[^key-05abf24499e73d9c01b7d77ef711fd5c]
+The Merchant Shipping (Fees) (Amendment)Regulations 2004 (revoked)[^c-05abf24499e73d9c01b7d77ef711fd5c]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 6th September 2004
 
-[^key-05abf24499e73d9c01b7d77ef711fd5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05abf24499e73d9c01b7d77ef711fd5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-05abf24499e73d9c01b7d77ef711fd5c]
+## 1. Citation and commencement[^c-05abf24499e73d9c01b7d77ef711fd5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Fees) Regulations 1996[^key-05abf24499e73d9c01b7d77ef711fd5c]
+## 2. Amendment of the Merchant Shipping (Fees) Regulations 1996[^c-05abf24499e73d9c01b7d77ef711fd5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-05abf24499e73d9c01b7d77ef711fd5c]
+## 3.[^c-05abf24499e73d9c01b7d77ef711fd5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-05abf24499e73d9c01b7d77ef711fd5c]
+## 4.[^c-05abf24499e73d9c01b7d77ef711fd5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05abf24499e73d9c01b7d77ef711fd5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05abf24499e73d9c01b7d77ef711fd5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-05abf24499e73d9c01b7d77ef711fd5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05abf24499e73d9c01b7d77ef711fd5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05abf24499e73d9c01b7d77ef711fd5c]: Textual amendment: Regulations revoked (11.9.2006) by [The Merchant Shipping (Fees) Regulations 2006 (S.I. 2006/2055)](https://www.legislation.gov.uk/uksi/2006/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2055/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2055/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2055/regulation/6))
+[^c-05abf24499e73d9c01b7d77ef711fd5c]: Textual amendment: Regulations revoked (11.9.2006) by [The Merchant Shipping (Fees) Regulations 2006 (S.I. 2006/2055)](https://www.legislation.gov.uk/uksi/2006/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2055/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2055/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2055/regulation/6))

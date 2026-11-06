@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Financial limits[^key-12b0e8e616992b7ca22a2200d0c76f27]
+## 23. Financial limits[^c-12b0e8e616992b7ca22a2200d0c76f27]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12b0e8e616992b7ca22a2200d0c76f27]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2008/17/section/23) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-12b0e8e616992b7ca22a2200d0c76f27]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2008/17/section/23) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

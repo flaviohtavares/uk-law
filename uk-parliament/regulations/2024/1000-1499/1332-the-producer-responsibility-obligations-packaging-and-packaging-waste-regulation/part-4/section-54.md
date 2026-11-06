@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Cancellation of registration of a compliance scheme[^key-1453f97f447b86cd24f1df0559200277]
+## 54. Cancellation of registration of a compliance scheme[^c-1453f97f447b86cd24f1df0559200277]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1453f97f447b86cd24f1df0559200277]: Commencement: Reg. 54 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-1453f97f447b86cd24f1df0559200277]: Commencement: Reg. 54 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

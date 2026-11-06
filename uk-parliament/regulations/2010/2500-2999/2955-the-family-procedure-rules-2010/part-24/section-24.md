@@ -25,9 +25,9 @@ summary: ''
 - (a) for the circumstances in which a person may be required to attend court to give evidence or to produce a document; and
 - (b) for a party to obtain evidence before a hearing to be used at the hearing.
 
-(2)[^key-029b6bce8f23d47f5395c34c1313eb3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-029b6bce8f23d47f5395c34c1313eb3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-([^key-cacc7e7f807c50c1034c20a9a93b07a0]... )
+([^c-cacc7e7f807c50c1034c20a9a93b07a0]... )
 
 ## 24.2. Witness summonses
 
@@ -49,7 +49,7 @@ summary: ''
 
 (5) The only documents that a summons under this rule can require a person to produce before a hearing are documents which that person could be required to produce at the hearing.
 
-([^key-e7a04a6d9133fa6ef6f5c03759f428a6]... )
+([^c-e7a04a6d9133fa6ef6f5c03759f428a6]... )
 
 ## 24.3. Issue of a witness summons
 
@@ -85,7 +85,7 @@ summary: ''
 
 is binding until the conclusion of the hearing at which the attendance of the witness is required.
 
-([^key-9a225b26c95eb68d92f3cff33a46b306]... )
+([^c-9a225b26c95eb68d92f3cff33a46b306]... )
 
 ## 24.5. Who is to serve a witness summons
 
@@ -135,7 +135,7 @@ At the time of service of a witness summons the witness must be offered or paidâ
 
 (Part 22 (evidence) contains the general rules about witness statements and witness summaries.)
 
-([^key-10bfdbb8d4f96a7bfb62cf73ef82bba8]... )
+([^c-10bfdbb8d4f96a7bfb62cf73ef82bba8]... )
 
 ## 24.8. Conduct of examination
 
@@ -145,7 +145,7 @@ At the time of service of a witness summons the witness must be offered or paidâ
 
 (2) If all the parties are present, the examiner may conduct the examination of a person not named in the order for examination if all the parties and the person to be examined consent.
 
-(3) In disputed[^key-e2cfee431847932b3a2ef5d76bc57412] proceedings under Part 7 (matrimonial and civil partnership proceedings), the examiner may conduct the examination in private if of the view that it is appropriate to do so.
+(3) In disputed[^c-e2cfee431847932b3a2ef5d76bc57412] proceedings under Part 7 (matrimonial and civil partnership proceedings), the examiner may conduct the examination in private if of the view that it is appropriate to do so.
 
 (4) Save in proceedings to which paragraph (3) applies, the examiner will conduct the examination in private unless of the view that it is not appropriate to do so.
 
@@ -175,7 +175,7 @@ a certificate of that person's failure or refusal, signed by the examiner, must 
 
 (4) The court may order the person against whom an order is made under this rule to pay any costs resulting from that person's failure or refusal.
 
-([^key-fbb2dddd94ff9e88b3d18718a27e866c]... )
+([^c-fbb2dddd94ff9e88b3d18718a27e866c]... )
 
 ## 24.10. Use of deposition at a hearing
 
@@ -191,7 +191,7 @@ a certificate of that person's failure or refusal, signed by the examiner, must 
 
 (5) Where a deposition is given in evidence at the final hearing, it is treated as if it were a witness statement for the purposes of rule 22.19 (availability of witness statements for inspection).
 
-([^key-6c29e57d39c1fc950bfa84fba65d0957]... )
+([^c-6c29e57d39c1fc950bfa84fba65d0957]... )
 
 ## 24.11. Restrictions on subsequent use of deposition taken for the purpose of any hearing except the final hearing
 
@@ -211,13 +211,13 @@ a certificate of that person's failure or refusal, signed by the examiner, must 
 
 *Extent: E+W*
 
-(1) This rule applies where a party wishes to take a deposition from a person out of the jurisdiction[^key-7e83fabf1f50b0f65e489521a0e584dc].
+(1) This rule applies where a party wishes to take a deposition from a person out of the jurisdiction[^c-7e83fabf1f50b0f65e489521a0e584dc].
 
 (2) The High Court may order the issue of a letter of request to the judicial authorities of the country in which the proposed deponent is.
 
 (3) A letter of request is a request to a judicial authority to take the evidence of that person, or arrange for it to be taken.
 
-(4) The High Court may make an order under this rule in relation to family court[^key-284b870736ac2b38a8dca94f20bf3837] proceedings.
+(4) The High Court may make an order under this rule in relation to family court[^c-284b870736ac2b38a8dca94f20bf3837] proceedings.
 
 (5) If the government of a country allows a person appointed by the High Court to examine a person in that country, the High Court may make an order appointing a special examiner for that purpose.
 
@@ -236,7 +236,7 @@ a certificate of that person's failure or refusal, signed by the examiner, must 
 - (a) English is one of the official languages of the country where the examination is to take place; or
 - (b) a practice direction has specified that country as a country where no translation is necessary.
 
-([^key-36643f4430b8a58efc511fa8f8af5f38]... )
+([^c-36643f4430b8a58efc511fa8f8af5f38]... )
 
 ## 24.13. Fees and expenses of examiner of the court
 
@@ -264,13 +264,13 @@ a certificate of that person's failure or refusal, signed by the examiner, must 
 
 (3) The Lord Chancellor may revoke an appointment at any time.
 
-## 24.15. Interpretation[^key-4a8bfdcdba2a25342d71de2e096a6d72]
+## 24.15. Interpretation[^c-4a8bfdcdba2a25342d71de2e096a6d72]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.16. Where a person to be examined is in another Regulation State[^key-4a8bfdcdba2a25342d71de2e096a6d72]
+## 24.16. Where a person to be examined is in another Regulation State[^c-4a8bfdcdba2a25342d71de2e096a6d72]
 
 *Extent: E+W*
 
@@ -278,26 +278,26 @@ a certificate of that person's failure or refusal, signed by the examiner, must 
 
 ## Annotations
 
-[^key-029b6bce8f23d47f5395c34c1313eb3a]: Textual amendment: Rule 24.1(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [69](https://www.legislation.gov.uk/uksi/2013/3204/rule/69) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-029b6bce8f23d47f5395c34c1313eb3a]: Textual amendment: Rule 24.1(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [69](https://www.legislation.gov.uk/uksi/2013/3204/rule/69) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-cacc7e7f807c50c1034c20a9a93b07a0]: Textual amendment: Words in [rule 24.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.1) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cacc7e7f807c50c1034c20a9a93b07a0]: Textual amendment: Words in [rule 24.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.1) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7a04a6d9133fa6ef6f5c03759f428a6]: Textual amendment: Words in [rule 24.2](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.2) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7a04a6d9133fa6ef6f5c03759f428a6]: Textual amendment: Words in [rule 24.2](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.2) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a225b26c95eb68d92f3cff33a46b306]: Textual amendment: Words in [rule 24.4](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.4) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a225b26c95eb68d92f3cff33a46b306]: Textual amendment: Words in [rule 24.4](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.4) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-10bfdbb8d4f96a7bfb62cf73ef82bba8]: Textual amendment: Words in [rule 24.7](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.7) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10bfdbb8d4f96a7bfb62cf73ef82bba8]: Textual amendment: Words in [rule 24.7](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.7) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2cfee431847932b3a2ef5d76bc57412]: Textual amendment: Word in [rule 24.8(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.8/3) substituted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [26](https://www.legislation.gov.uk/uksi/2022/44/rule/26) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e2cfee431847932b3a2ef5d76bc57412]: Textual amendment: Word in [rule 24.8(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.8/3) substituted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [26](https://www.legislation.gov.uk/uksi/2022/44/rule/26) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-fbb2dddd94ff9e88b3d18718a27e866c]: Textual amendment: Words in [rule 24.9](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.9) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbb2dddd94ff9e88b3d18718a27e866c]: Textual amendment: Words in [rule 24.9](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.9) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c29e57d39c1fc950bfa84fba65d0957]: Textual amendment: Words in [rule 24.10](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.10) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c29e57d39c1fc950bfa84fba65d0957]: Textual amendment: Words in [rule 24.10](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.10) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e83fabf1f50b0f65e489521a0e584dc]: Textual amendment: Words in [rule 24.12(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.12/1) substituted (31.12.2020) by [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(4)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/4/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e83fabf1f50b0f65e489521a0e584dc]: Textual amendment: Words in [rule 24.12(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.12/1) substituted (31.12.2020) by [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(4)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/4/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-284b870736ac2b38a8dca94f20bf3837]: Textual amendment: Words in rule 24.12(4) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [70](https://www.legislation.gov.uk/uksi/2013/3204/rule/70) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-284b870736ac2b38a8dca94f20bf3837]: Textual amendment: Words in rule 24.12(4) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [70](https://www.legislation.gov.uk/uksi/2013/3204/rule/70) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-36643f4430b8a58efc511fa8f8af5f38]: Textual amendment: Words in [rule 24.12](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.12) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(4)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/4/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36643f4430b8a58efc511fa8f8af5f38]: Textual amendment: Words in [rule 24.12](https://www.legislation.gov.uk/uksi/2010/2955/rule/24.12) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(4)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/4/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a8bfdcdba2a25342d71de2e096a6d72]: Textual amendment: [Pt. 24 Ch. 2](https://www.legislation.gov.uk/uksi/2010/2955/part/24/chapter/2) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/5) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a8bfdcdba2a25342d71de2e096a6d72]: Textual amendment: [Pt. 24 Ch. 2](https://www.legislation.gov.uk/uksi/2010/2955/part/24/chapter/2) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2019/517/regulation/16/5) (with [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

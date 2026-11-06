@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Investigatory powers of Commission[^key-1d35f6c760c46007f47b1b6bc60e3bd9]
+## 2. Investigatory powers of Commission[^c-1d35f6c760c46007f47b1b6bc60e3bd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d35f6c760c46007f47b1b6bc60e3bd9]: Commencement: S. 2 in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))
+[^c-1d35f6c760c46007f47b1b6bc60e3bd9]: Commencement: S. 2 in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))

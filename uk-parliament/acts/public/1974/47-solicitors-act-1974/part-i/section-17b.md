@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17B. Duration and publicity of suspension of sole solicitor endorsement[^key-bed350e3566be49ffdbc29c966d5e475][^c20512821][^c20410481]
+## 17B. Duration and publicity of suspension of sole solicitor endorsement[^c-bed350e3566be49ffdbc29c966d5e475][^c20512821][^c20410481]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bed350e3566be49ffdbc29c966d5e475]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/ukpga/1974/47/section/17B) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/10)
+[^c-bed350e3566be49ffdbc29c966d5e475]: Textual amendment: [S. 17B](https://www.legislation.gov.uk/ukpga/1974/47/section/17B) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/10)
 
 [^c20512821]: Modification: S. 17B extended (with modifications) (1.7.2009) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [Sch. 4 para. 7(1)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/1) [Table (as substituted by The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(7)(a)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/7/a))
 

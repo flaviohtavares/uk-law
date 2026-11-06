@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Powers to wind up occupational pension schemes[^key-af50238af81d16d74c9a2fd8dabdf692]
+## 22. Powers to wind up occupational pension schemes[^c-af50238af81d16d74c9a2fd8dabdf692]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ In section 11 of the Pensions Act 1995 (powers to wind up occupational pension s
 
 ## Annotations
 
-[^key-af50238af81d16d74c9a2fd8dabdf692]: Commencement: S. 22 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-af50238af81d16d74c9a2fd8dabdf692]: Commencement: S. 22 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

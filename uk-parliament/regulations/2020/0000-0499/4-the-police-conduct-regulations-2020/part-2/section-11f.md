@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11F. Automatic or mandatory suspension: officer charged with a relevant offence[^key-9cce54244657b8a4f16bf057c8ff6fa0]
+## 11F. Automatic or mandatory suspension: officer charged with a relevant offence[^c-9cce54244657b8a4f16bf057c8ff6fa0]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cce54244657b8a4f16bf057c8ff6fa0]: Textual amendment: [Regs. 11-11H](https://www.legislation.gov.uk/uksi/2020/4/regulation/11) substituted for [reg. 11](https://www.legislation.gov.uk/uksi/2020/4/regulation/11) (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/653/regulation/5) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-9cce54244657b8a4f16bf057c8ff6fa0]: Textual amendment: [Regs. 11-11H](https://www.legislation.gov.uk/uksi/2020/4/regulation/11) substituted for [reg. 11](https://www.legislation.gov.uk/uksi/2020/4/regulation/11) (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/653/regulation/5) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))

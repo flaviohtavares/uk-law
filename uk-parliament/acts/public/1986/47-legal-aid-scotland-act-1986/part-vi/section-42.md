@@ -31,7 +31,7 @@ and does not include the subject matter of the dispute.
 
 (3) Except in so far as regulations made under this section otherwise provide, the resources of a person’s spouse shall be treated for the purposes of this section as that person’s own resources, and such regulations may also make provision, in relation to minors and pupils and other special cases, for taking into account the resources of other persons.
 
-(4)[^key-877da4e8f41985478347068e7a1d6a7a] Regulations under this section may make different provision for—
+(4)[^c-877da4e8f41985478347068e7a1d6a7a] Regulations under this section may make different provision for—
 
 - (a) children's legal aid and legal aid other than children's legal aid,
 - (b) advice and assistance in relation to children's matters and advice and assistance other than advice and assistance in relation to children's matters.
@@ -44,4 +44,4 @@ and does not include the subject matter of the dispute.
 
 [^c20845541]: Modification: S. 42 amended by [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), [reg. 11(2)](https://www.legislation.gov.uk/ssi/2002/494/regulation/11/2) (as substituted (7.4.2003 with effect as mentioned in reg. 2 of the substituting S.S.I.) by [The Civil Legal Aid (Scotland) Amendment Regulations 2003 (S.S.I. 2003/49)](https://www.legislation.gov.uk/ssi/2003/49), [reg. 4](https://www.legislation.gov.uk/ssi/2003/49/regulation/4))
 
-[^key-877da4e8f41985478347068e7a1d6a7a]: Textual amendment: S. 42(4)(5) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 5 para. 1(9)](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/1/9) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-877da4e8f41985478347068e7a1d6a7a]: Textual amendment: S. 42(4)(5) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 5 para. 1(9)](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/1/9) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

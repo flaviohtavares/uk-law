@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4C. Registration and enforcement of judgments under the 2019 Hague Convention[^key-e5c8cb23a512a791e0b6ad144c28c61f][^key-2f398dcbbf1565e99bc0b16cc399651c]
+## 4C. Registration and enforcement of judgments under the 2019 Hague Convention[^c-e5c8cb23a512a791e0b6ad144c28c61f][^c-2f398dcbbf1565e99bc0b16cc399651c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c8cb23a512a791e0b6ad144c28c61f]: Modification: [S. 4C](https://www.legislation.gov.uk/ukpga/1982/27/section/4C) applied (with modifications) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 19(1)-(3)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/1)
+[^c-e5c8cb23a512a791e0b6ad144c28c61f]: Modification: [S. 4C](https://www.legislation.gov.uk/ukpga/1982/27/section/4C) applied (with modifications) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 19(1)-(3)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/1)
 
-[^key-2f398dcbbf1565e99bc0b16cc399651c]: Textual amendment: [S. 4C](https://www.legislation.gov.uk/ukpga/1982/27/section/4C) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 7](https://www.legislation.gov.uk/uksi/2024/713/regulation/7)
+[^c-2f398dcbbf1565e99bc0b16cc399651c]: Textual amendment: [S. 4C](https://www.legislation.gov.uk/ukpga/1982/27/section/4C) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 7](https://www.legislation.gov.uk/uksi/2024/713/regulation/7)

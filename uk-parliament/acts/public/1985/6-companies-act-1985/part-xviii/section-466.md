@@ -32,14 +32,14 @@ summary: ''
 
 (3)[^c17417461] Section 464 applies to an instrument of alteration under this section as it applies to an instrument creating a floating charge.
 
-(4)[^c17417531] Subsection (4A) applies to an alteration of a floating charge, where the alteration is one which[^key-df6f9541fcef10c4bf08ff72396e6468]—
+(4)[^c17417531] Subsection (4A) applies to an alteration of a floating charge, where the alteration is one which[^c-df6f9541fcef10c4bf08ff72396e6468]—
 
 - (a) prohibits or restricts the creation of any fixed security or any other floating charge having priority over, or ranking pari passu with, the floating charge; or
 - (b) varies, or otherwise regulates the order of, the ranking of the floating charge in relation to fixed securities or to other floating charges; or
 - (c) releases property from the floating charge; or
 - (d) increases the amount secured by the floating charge.
 
-(4A)[^key-32248c8ee03c6ddabb3eea266984bea7] Every alteration to a floating charge created by a company is, so far as any security on the company’s property or any part of it is conferred by the alteration, void against the liquidator or administrator and any creditor of the company, unless the documents referred to in subsection (4B) are delivered to the registrar for registration by the company or any person interested in the charge before the end of the relevant period allowed for delivery.
+(4A)[^c-32248c8ee03c6ddabb3eea266984bea7] Every alteration to a floating charge created by a company is, so far as any security on the company’s property or any part of it is conferred by the alteration, void against the liquidator or administrator and any creditor of the company, unless the documents referred to in subsection (4B) are delivered to the registrar for registration by the company or any person interested in the charge before the end of the relevant period allowed for delivery.
 
 (4B) The documents referred to in subsection (4A) are—
 
@@ -54,7 +54,7 @@ summary: ''
 
 (4C) In subsection (4A) “the relevant period allowed for delivery” is—
 
-- (a)[^key-552763214855e1d96e94dfb5abe9dae3] the period of 21 days beginning with the day after the date of execution of the instrument of alteration, or
+- (a)[^c-552763214855e1d96e94dfb5abe9dae3] the period of 21 days beginning with the day after the date of execution of the instrument of alteration, or
 - (b) if an order under section 859F(3) of the Companies Act 2006 (as applied by subsection (4E)) has been made, the period allowed by the order.
 
 (4D) Subsection (4A) is without prejudice to any contract or obligation for repayment of the money secured by the alteration to the charge; and when an alteration becomes void under subsection (4A) the money secured by it immediately becomes payable.
@@ -71,9 +71,9 @@ summary: ''
 - (f) references to registration under section 859A or 859B were to registration under this section;
 - (g) references to a statement or notice delivered to the registrar in accordance with Chapter A1 of Part 25 of the Companies Act 2006 were to a statement delivered to the registrar in accordance with subsection (4A).
 
-(5)[^key-b021adf44984dcad1aa2436e328089e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b021adf44984dcad1aa2436e328089e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^c17417461] Any reference (however expressed) in any enactment, including this Act, to a floating charge is, for the purposes of this section and unless the context otherwise requires, to be construed as including a reference to the floating charge as altered by an alteration[^key-27b19ddb2e3d20c47293089b48acec79] falling under subsection (4) of this section[^c17417551].
+(6)[^c17417461] Any reference (however expressed) in any enactment, including this Act, to a floating charge is, for the purposes of this section and unless the context otherwise requires, to be construed as including a reference to the floating charge as altered by an alteration[^c-27b19ddb2e3d20c47293089b48acec79] falling under subsection (4) of this section[^c17417551].
 
 ## Annotations
 
@@ -93,14 +93,14 @@ summary: ''
 
 [^c17417531]: Textual amendment: S. 466(4)(5) repealed (*prosp.*) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 140(8)](https://www.legislation.gov.uk/ukpga/1989/40/section/140/8), [212](https://www.legislation.gov.uk/ukpga/1989/40/section/212), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [215(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/215/2), [Sch. 24](https://www.legislation.gov.uk/ukpga/1989/40/schedule/24)
 
-[^key-df6f9541fcef10c4bf08ff72396e6468]: Textual amendment: Words in s. 466(4) substituted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
+[^c-df6f9541fcef10c4bf08ff72396e6468]: Textual amendment: Words in s. 466(4) substituted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
-[^key-32248c8ee03c6ddabb3eea266984bea7]: Textual amendment: S. 466(4A)-(4F) inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
+[^c-32248c8ee03c6ddabb3eea266984bea7]: Textual amendment: S. 466(4A)-(4F) inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
-[^key-552763214855e1d96e94dfb5abe9dae3]: Modification: S. 466(4C)(a) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [38(1)](https://www.legislation.gov.uk/uksi/2020/645/regulation/38/1) (with [reg. 38(2)](https://www.legislation.gov.uk/uksi/2020/645/regulation/38/2))
+[^c-552763214855e1d96e94dfb5abe9dae3]: Modification: S. 466(4C)(a) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [38(1)](https://www.legislation.gov.uk/uksi/2020/645/regulation/38/1) (with [reg. 38(2)](https://www.legislation.gov.uk/uksi/2020/645/regulation/38/2))
 
-[^key-b021adf44984dcad1aa2436e328089e1]: Textual amendment: S. 466(5) omitted (6.4.2013) by virtue of [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
+[^c-b021adf44984dcad1aa2436e328089e1]: Textual amendment: S. 466(5) omitted (6.4.2013) by virtue of [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
-[^key-27b19ddb2e3d20c47293089b48acec79]: Textual amendment: Words in s. 466(6) substituted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
+[^c-27b19ddb2e3d20c47293089b48acec79]: Textual amendment: Words in s. 466(6) substituted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/1/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
 [^c17417551]: Textual amendment: Words repealed (*prosp.*) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 140(8)](https://www.legislation.gov.uk/ukpga/1989/40/section/140/8), [212](https://www.legislation.gov.uk/ukpga/1989/40/section/212), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [215(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/215/2), [Sch. 24](https://www.legislation.gov.uk/ukpga/1989/40/schedule/24)

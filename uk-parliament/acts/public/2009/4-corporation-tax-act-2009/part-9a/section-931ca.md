@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 931CA. Further exemption where distribution received from CFC[^key-389d15cb88173812f6a4c44f4817335e][^key-c2daeff2dc2f1c78d3413089f450a47e]
+## 931CA. Further exemption where distribution received from CFC[^c-389d15cb88173812f6a4c44f4817335e][^c-c2daeff2dc2f1c78d3413089f450a47e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-389d15cb88173812f6a4c44f4817335e]: Textual amendment: S. 931CA inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/30) (with [Sch. 20 para. 52](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/52))
+[^c-389d15cb88173812f6a4c44f4817335e]: Textual amendment: S. 931CA inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/30) (with [Sch. 20 para. 52](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/52))
 
-[^key-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
+[^c-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))

@@ -48,13 +48,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State makes these Regulations independently of any proposals made by the Health and Safety Executive, as provided by section 50(1)(b) of the 1974 Act having consulted, in accordance with section 50(1AA) [^c23674341] of that Act, the Executive, the Office for Nuclear Regulation and such other persons as appeared to the Secretary of State to be appropriate.
 
-## 1. Citation, commencement and extent[^key-6b6e6237387e356fc2d5b7b983431623]
+## 1. Citation, commencement and extent[^c-6b6e6237387e356fc2d5b7b983431623]
 
 (1) These Regulations may be cited as the Radiation (Emergency Preparedness and Public Information) Regulations 2019 and come into force on the 22nd May 2019.
 
 (2) These Regulations do not extend to Northern Ireland.
 
-## 2. Interpretation[^key-835833b8e7ab71ae57d46d7b83e911de]
+## 2. Interpretation[^c-835833b8e7ab71ae57d46d7b83e911de]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -79,7 +79,7 @@ The Secretary of State makes these Regulations independently of any proposals ma
 - “**emergency worker**” means any person who has a defined responding role in an operator's emergency plan or a local authority's off-site emergency plan, and who might be exposed to radiation as a result of a potential or actual radiation emergency;
 - “**existing exposure situation**” means an exposure situation which does not call or no longer calls for the implementation of any protective action from an emergency plan;
 - “**health authority**” means—
-  - (a) in relation to England, an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-b9ad146d3500292fb16547a30e99eb12],
+  - (a) in relation to England, an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-b9ad146d3500292fb16547a30e99eb12],
   - (b) in relation to Wales, means a local health board established under section 11 of the National Health Service (Wales) Act 2006 [^c23674401], and
   - (c) in relation to Scotland, a health board established under section 2 of the National Health Service (Scotland) Act 1978 [^c23674411];
 - “**installation**” means a unit in which the radioactive substances present are, or are intended to be, produced, used, handled or stored, and it includes—
@@ -150,7 +150,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (5) In these Regulations, references to “local authority”, unless the context otherwise requires, are to the local authority in which the premises are situated, and references to “lead local authority”, where more than one local authority is involved, are to that local authority.
 
-## 3. Application[^key-ef3979aa83a061e916e7b3aa8e470bf3]
+## 3. Application[^c-ef3979aa83a061e916e7b3aa8e470bf3]
 
 (1) Subject to paragraphs (2) and (5) and with the exception of regulation 22, these Regulations apply to any work with ionising radiation which involves having on any premises, or providing for there to be on any premises, a radioactive substance containing more than the quantity specified in relation to that radionuclide in Schedule 1 or, in the case of fissile material, more than the mass of that material specified in Schedule 2.
 
@@ -173,7 +173,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 - (c) any radioactive substance conforming to the specifications for special form radioactive material set out in sub-section 2.7.2.3.3. of the UN Model Recommendations on the Transport of Dangerous Goods: Model Regulations (“**UN Model Regulations**”) [^c23674451], as revised or reissued from time to time;
 - (d) any radioactive substance which is in a package which complies with the requirements for a Type B(U) package, a Type B(M) package or a Type C package as set out in subsections 6.4.8, 6.4.9 or 6.4.10 of the UN Model Regulations respectively.
 
-## 4. Hazard evaluation[^key-57c91ac9188206b928cc7e20bd49f72d]
+## 4. Hazard evaluation[^c-57c91ac9188206b928cc7e20bd49f72d]
 
 (1) The operator of any premises to which these Regulations apply must make a written evaluation before any work with ionising radiation is carried out for the first time at those premises.
 
@@ -192,13 +192,13 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (7) The operator must provide the regulator with details of the evaluation made under paragraph (1) within 28 days of the date on which it is made.
 
-## 5. Consequence assessment[^key-e7eb06fa7e34edcba69ba2e5d4fe4878]
+## 5. Consequence assessment[^c-e7eb06fa7e34edcba69ba2e5d4fe4878]
 
 (1) Where the evaluation undertaken under regulation 4 reveals the potential for a radiation emergency to occur, the operator must make an assessment, in accordance with Schedule 3, to consider and evaluate a full range of possible consequences of the identified radiation emergencies, both on the premises and outside the premises, including the geographical extent of those consequences and any variable factors which have the potential to affect the severity of those consequences.
 
 (2) The assessment required by this regulation must be completed within two months after the day on which the hazard evaluation required by regulation 4 is completed.
 
-## 6. Review of hazard evaluation and consequence assessment[^key-d84be72daedfd1b96792e46d5b8d0c39]
+## 6. Review of hazard evaluation and consequence assessment[^c-d84be72daedfd1b96792e46d5b8d0c39]
 
 (1) Where the operator proposes a material change, or where a material change occurs, in the work with ionising radiation to which an operator was required to make an evaluation pursuant to regulation 4(1), the operator must make a further assessment to take account of that change.
 
@@ -211,7 +211,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (4) The further evaluation required by this regulation must comply with the provisions of regulation 4(2) to (4), and regulation 5, where applicable.
 
-## 7. Consequences report[^key-56bb383b2d6092121518726bbd4e7941]
+## 7. Consequences report[^c-56bb383b2d6092121518726bbd4e7941]
 
 (1) Where the operator has made an assessment pursuant to regulation 5(1) or a review in accordance with regulation 6(1) or 6(2), unless regulation 6(2)(b) applies, the operator must prepare a report setting out the consequences identified by that assessment, called a consequences report, as soon as reasonably practicable on completion of the assessment.
 
@@ -228,7 +228,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (6) The operator must provide the regulator with details of the assessment made under regulation 5 and the consequences report within 28 days of the date on which the consequences report is sent to the local authority.
 
-## 8. Detailed emergency planning zone[^key-eb4a0798fd84006a5a5761a521f29efc]
+## 8. Detailed emergency planning zone[^c-eb4a0798fd84006a5a5761a521f29efc]
 
 (1) The local authority must determine the detailed emergency planning zone on the basis of the operator's recommendation made under paragraph 2 of Schedule 4 and may extend that area in consideration of—
 
@@ -251,7 +251,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (7) If the local authority re-determines the detailed emergency planning zone in accordance with paragraph (6), it must inform the operator and regulator as soon as reasonably practicable.
 
-## 9. Outline planning zone[^key-4306d40dce0047ab5afb71ca291e33ab]
+## 9. Outline planning zone[^c-4306d40dce0047ab5afb71ca291e33ab]
 
 (1) The outline planning zone must be determined as follows—
 
@@ -270,7 +270,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (4) The planning to be undertaken by the local authority in relation to the outline planning zone must be commensurate to the risk of a radiation emergency affecting that area, and the local authority's off-site emergency plan required under regulation 11 must clearly set out when that plan would be brought into effect in relation to the outline planning zone.
 
-## 10. Operator's emergency plan[^key-fbc3ed49b380617493545fd962005d94]
+## 10. Operator's emergency plan[^c-fbc3ed49b380617493545fd962005d94]
 
 (1) Where the operator has made an evaluation in accordance with regulation 4(1) which shows that a radiation emergency might arise, the operator must make an adequate emergency plan designed to secure, so far as is reasonably practicable, the restriction of exposure to ionising radiation and the health and safety of persons who may be affected by radiation emergencies identified by the evaluation.
 
@@ -295,10 +295,10 @@ and any duty imposed by these Regulations on the operator extends only in relati
 - (b) any persons carrying out work on behalf of the operator and who the operator considers might be affected by a radiation emergency;
 - (c) the lead local authority;
 - (d) the health authority in whose area the premises to which the emergency plan relates is situated;
-- (e) the UK Health Security Agency[^key-cd2448e3397074ac061a9037e9d92569];
-- (f) in addition to the UK Health Security Agency[^key-5ad1726645bf1647cf9dac89fbf616dd], if the premises to which the emergency plan relates is in—
+- (e) the UK Health Security Agency[^c-cd2448e3397074ac061a9037e9d92569];
+- (f) in addition to the UK Health Security Agency[^c-5ad1726645bf1647cf9dac89fbf616dd], if the premises to which the emergency plan relates is in—
   - (i) Wales, Public Health Wales, and
-  - (ii) Scotland, Health Protection Scotland[^key-11e39adddd9e8ac4a50a837fd045177b];
+  - (ii) Scotland, Health Protection Scotland[^c-11e39adddd9e8ac4a50a837fd045177b];
 - (g) the Category 1 responders in whose area in which the premises to which the emergency plan relates is situated; and
 - (h) such other persons, bodies or authorities as the operator considers appropriate.
 
@@ -319,7 +319,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (10) The operator must retain the emergency plan on the premises to which it relates, and must provide details of that plan to the local authority and the regulator upon request and within such reasonable time as the local authority or the regulator may request.
 
-## 11. Local authority's off-site emergency plan[^key-ab6704fcec0d2c135f6ad689d3bce30e]
+## 11. Local authority's off-site emergency plan[^c-ab6704fcec0d2c135f6ad689d3bce30e]
 
 (1) Where premises require a planning zone under either or both of regulations 8 or 9, the local authority must make an adequate off-site emergency plan covering that zone or zones.
 
@@ -341,10 +341,10 @@ and any duty imposed by these Regulations on the operator extends only in relati
 - (c) the Category 2 responders (where appropriate) in whose area in which the premises to which the emergency plan relates is situated;
 - (d) each health authority in the vicinity of the premises to which the plan relates (if that health authority is not a Category 1 responder);
 - (e) the Agency;
-- (f) the UK Health Security Agency[^key-147ad99ceba70bc5bc6cac30dbaffef0];
-- (g) in addition to the UK Health Security Agency[^key-89097c32a295ac71f97a2aaebf0da954], if the premises to which the emergency plan relates is in—
+- (f) the UK Health Security Agency[^c-147ad99ceba70bc5bc6cac30dbaffef0];
+- (g) in addition to the UK Health Security Agency[^c-89097c32a295ac71f97a2aaebf0da954], if the premises to which the emergency plan relates is in—
   - (i) Wales, Public Health Wales, and
-  - (ii) Scotland, Public Health Scotland[^key-9808993e9a34f17cebf136ce216f161d]; and
+  - (ii) Scotland, Public Health Scotland[^c-9808993e9a34f17cebf136ce216f161d]; and
 - (h) such other persons, bodies or authorities as the local authority considers appropriate.
 
 (6) The employer of any emergency worker who may be required to participate in the implementation of the off-site emergency plan must ensure that each such emergency worker is provided with—
@@ -356,7 +356,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (8) The local authority must provide a copy of the off-site emergency plan, or parts of it, to the regulator upon request and within such reasonable time as the regulator may specify.
 
-## 12. Reviewing and testing of emergency plans[^key-f35a015b3da6c278f6b46902b992c347]
+## 12. Reviewing and testing of emergency plans[^c-f35a015b3da6c278f6b46902b992c347]
 
 (1) Each operator or local authority who has prepared an emergency plan pursuant to regulation 10 or 11, as the case may be, must, at suitable intervals not exceeding 3 years unless otherwise agreed by the regulator—
 
@@ -405,7 +405,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (10) Where a report made under paragraph (8) was made by the operator, the operator must send it to the local authority within 28 days of its preparation, and where such a report was made by the local authority, the local authority must send it to the operator within 28 days of its completion.
 
-## 13. Co-operation: operator and local authority[^key-ee5d67ed77ae34aacb1f1f6e3c2445ce]
+## 13. Co-operation: operator and local authority[^c-ee5d67ed77ae34aacb1f1f6e3c2445ce]
 
 (1) The operator and the local authority must co-operate in respect of their duties to prepare emergency plans to ensure that—
 
@@ -415,7 +415,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (2) The local authority must, in particular, inform the operator which responder or responders should be contacted in order to provide early warning of a radiation emergency as required by paragraph 1(f) of Schedule 6.
 
-## 14. Co-operation between local authorities[^key-71180758f3abcd97cf1b7b757f76b86d]
+## 14. Co-operation between local authorities[^c-71180758f3abcd97cf1b7b757f76b86d]
 
 (1) A local authority may request, in writing, the co-operation of another local authority in order to—
 
@@ -424,7 +424,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (2) Where a local authority has made a written request of another local authority under paragraph (1), the local authority which has received such a request must, as soon as reasonably practicable, co-operate in assisting the requesting local authority in both making and testing the off-site emergency plan.
 
-## 15. Consultation and co-operation: employers[^key-f54e2d245e67e6a5174362f9e3a558cf]
+## 15. Consultation and co-operation: employers[^c-f54e2d245e67e6a5174362f9e3a558cf]
 
 (1) In performing the duties imposed on an operator under regulations 4(1), 5(1), 6(1) and (2), 7(1) and 10, that operator must consult any other employer who carries out work with ionising radiation on the premises and take into account relevant matters arising from that consultation.
 
@@ -434,7 +434,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (4) The co-operation required by an employer under paragraphs (2) and (3) extends to co-operation in the testing of emergency plans where such co-operation is necessary to secure compliance with regulation 12.
 
-## 16. Charge for preparation, review and testing of emergency plans[^key-9107fcf5cc8803369ee08ad28ee6bc0c]
+## 16. Charge for preparation, review and testing of emergency plans[^c-9107fcf5cc8803369ee08ad28ee6bc0c]
 
 (1) A local authority may charge the operator a fee for the performance of the local authority's functions in relation to the off-site emergency plan relating to that operator's premises under regulations 8, 11, 12 and 21.
 
@@ -448,7 +448,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (6) A fee charged under this regulation is recoverable as a civil debt.
 
-## 17. Implementation of emergency plans[^key-ef6c7d20504ecc2ae393280269ff7440]
+## 17. Implementation of emergency plans[^c-ef6c7d20504ecc2ae393280269ff7440]
 
 (1) An operator who has prepared an emergency plan pursuant to regulation 10 must take reasonable steps to put it, or such parts of it as are necessary, into effect without delay—
 
@@ -480,7 +480,7 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (9) The operator must provide the regulator with a copy of the report made under paragraph (8) within 28 days of the day on which it was completed.
 
-## 18. Emergency exposures: employees[^key-d9cea7ed3b18cfc95866f05338bc78dd]
+## 18. Emergency exposures: employees[^c-d9cea7ed3b18cfc95866f05338bc78dd]
 
 (1) Where an emergency plan prepared pursuant to these Regulations provides for the possibility of any employee receiving an emergency exposure, each employer must, in relation to that employer's employees—
 
@@ -529,14 +529,14 @@ and any duty imposed by these Regulations on the operator extends only in relati
 
 (12) An employer who has a duty under this regulation must also comply with that duty as regards any person who regularly provides a service to that employer as a volunteer.
 
-## 19. Disapplication of dose limits[^key-be33f5b2c97bdb14eb2374fb8a42e336]
+## 19. Disapplication of dose limits[^c-be33f5b2c97bdb14eb2374fb8a42e336]
 
 Except in relation to a perceived risk arising from a radiation emergency, regulation 12 of the 2017 Regulations does not apply to an emergency worker, where that emergency worker—
 
 - (a) is engaged in preventing the imminent occurrence of a radiation emergency; or
 - (b) is acting to mitigate the consequences of a radiation emergency which it is expected will occur or which has occurred.
 
-## 20. Reference levels[^key-f87b5fbbd22a199497fed91fea2e60f4]
+## 20. Reference levels[^c-f87b5fbbd22a199497fed91fea2e60f4]
 
 (1) The operator or local authority which has prepared an emergency plan in accordance with regulations 10 or 11, as the case may be, must ensure that the emergency plan prioritises keeping effective doses below a 100 mSv reference level.
 
@@ -554,7 +554,7 @@ Except in relation to a perceived risk arising from a radiation emergency, regul
 
 (8) Any revision of the reference levels in response to a radiation emergency made in accordance with paragraph (3), (4), (5) or (7) must be recorded in the report required by regulation 17(6).
 
-## 21. Prior information to the public[^key-d6ed579e34303b2292fc29445d2ffcec]
+## 21. Prior information to the public[^c-d6ed579e34303b2292fc29445d2ffcec]
 
 (1) The local authority which has responsibility for an area covered by an off-site emergency plan with a detailed emergency planning zone must, in cooperation with the operator, ensure that members of the public are made aware of the relevant information, and, where appropriate, are provided with it.
 
@@ -586,7 +586,7 @@ Except in relation to a perceived risk arising from a radiation emergency, regul
 
 (10) Where a report is made pursuant to regulation 7, the local authority must make that report available to the public as soon as reasonably practicable after it has been sent to the regulator under that regulation (except that, with the approval of the regulator, the local authority must not make available any part or parts of such report for reasons of industrial, commercial or personal confidentiality, public security or national security).
 
-## 22. Duty of local authority to supply information to the public in the event of an emergency[^key-f796a49e41661dd4e1ca81689c6ccbfd]
+## 22. Duty of local authority to supply information to the public in the event of an emergency[^c-f796a49e41661dd4e1ca81689c6ccbfd]
 
 (1) Every local authority must prepare and keep up to date arrangements to supply, in the event of an emergency in that local authority's area (however that emergency may arise), information about and advice on the facts of the emergency, of the steps to be taken and, as appropriate, of the protective action applicable.
 
@@ -600,11 +600,11 @@ Except in relation to a perceived risk arising from a radiation emergency, regul
 
 (6) In this regulation, “**emergency**” includes a radiation emergency, but also includes any other emergency (whether within the United Kingdom or otherwise) which does or could have the same impact as a radiation emergency in Great Britain.
 
-## 23. Retention of information[^key-d0155366a9bf46740078ea26d1b112ca]
+## 23. Retention of information[^c-d0155366a9bf46740078ea26d1b112ca]
 
 Each operator and each local authority which has duties by virtue of these Regulations must retain the information they are required to prepare, in particular under regulations 4 to 12 and 17, and must produce that information if requested to do so by the regulator or the Secretary of State.
 
-## 24. Radiation protection adviser[^key-17640ca6a05fa9c12571ed910961a2c0]
+## 24. Radiation protection adviser[^c-17640ca6a05fa9c12571ed910961a2c0]
 
 (1) Every employer which carries out work with ionising radiation must consult one or more suitable radiation protection advisers about occupational and public exposure to assist with that employer's preparations for responding to radiation emergency situations.
 
@@ -612,7 +612,7 @@ Each operator and each local authority which has duties by virtue of these Regul
 
 (3) The employer must provide any radiation protection adviser appointed by it with adequate information and facilities for the performance of the radiation protection adviser's functions arising from their consultation or appointment under this regulation.
 
-## 25. Modifications relating to the Ministry of Defence etc[^key-d42434c8a82f605803b3d0a2c138d4af]
+## 25. Modifications relating to the Ministry of Defence etc[^c-d42434c8a82f605803b3d0a2c138d4af]
 
 (1) In this regulation, any reference to—
 
@@ -630,15 +630,15 @@ from all or any of the requirements or prohibitions imposed by these Regulations
 
 (3) The requirements of regulation 18 do not have effect in relation to Her Majesty's Forces to the extent that compliance with those requirements would, in the opinion of the Secretary of State for Defence, be against the interests of national security.
 
-## 26. Disclosure of information[^key-b03dc7cb24c3f759c62d681ea13c619f]
+## 26. Disclosure of information[^c-b03dc7cb24c3f759c62d681ea13c619f]
 
 Where any person is entitled to seek any information from an operator under these Regulations, the Secretary of State may certify in writing that, in the opinion of the Secretary of State, the provision of that information would be contrary to the interests of national security.
 
-## 27. Revocation[^key-6041a7d3831ce440e600628ecdd17e68]
+## 27. Revocation[^c-6041a7d3831ce440e600628ecdd17e68]
 
 The Radiation (Emergency Preparedness and Public Information) Regulations 2001 [^c23674491] are revoked.
 
-## 28. Transitional and savings provisions[^key-7d3c9b130786382d1a4e0f7adb80f152]
+## 28. Transitional and savings provisions[^c-7d3c9b130786382d1a4e0f7adb80f152]
 
 (1) Any person who had a duty under the Radiation (Emergency Preparedness and Public Information) Regulations 2001 (“**the 2001 Regulations**”) prior to these Regulations coming into force may continue to comply with the provisions of the 2001 Regulations instead of the provisions of these Regulations, notwithstanding the revocation made in regulation 27, until the end of 21st May 2020.
 
@@ -649,11 +649,11 @@ The Radiation (Emergency Preparedness and Public Information) Regulations 2001 [
 - (a) any test of an emergency plan carried out in the three years prior to the coming into force date is to be treated as though it were a test undertaken pursuant to regulation 12; and
 - (b) within 6 months of the coming into force date, if an operator has complied with its obligations under these Regulations in full, that operator may continue to work with ionising radiation or commence work with ionising radiation, as the case may be, although the local authority has not prepared its off-site emergency plan as required by these Regulations, where the regulator, exceptionally, determines that it would be reasonable so to do.
 
-## 29. Consequential amendments[^key-828a85594b847e32f3d333d8cbae7efc]
+## 29. Consequential amendments[^c-828a85594b847e32f3d333d8cbae7efc]
 
 Schedule 10 makes amendments consequential upon these Regulations.
 
-## 30. Review[^key-3d20b5e84da3127e6b32a684eddefc17]
+## 30. Review[^c-3d20b5e84da3127e6b32a684eddefc17]
 
 (1) The Secretary of State must from time to time—
 
@@ -685,7 +685,7 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 3(1)
 
-### PART 1 — Table of radionuclides[^key-6af3ac198a25375d54ba74715f13a999]
+### PART 1 — Table of radionuclides[^c-6af3ac198a25375d54ba74715f13a999]
 
 | *Radionuclide* | *Form* | *Activity (Bq)* |
 | --- | --- | --- |
@@ -1649,17 +1649,17 @@ Regulation 3(1)
 | Zr-95 |  | 3 x 10<sup>12</sup> |
 | Zr-97 |  | 4 x 10<sup>12</sup> |
 
-### PART 2 — Quantity ratios for more than one radionuclide[^key-c24f3adfa76d6616387c9df29923171e]
+### PART 2 — Quantity ratios for more than one radionuclide[^c-c24f3adfa76d6616387c9df29923171e]
 
 For the purpose of regulation 3(4), the quantity ratio for more than one radionuclide is the sum of the quotients of the quantity of a radionuclide present Q<sub>p</sub> divided by the quantity of that radionuclide specified in the appropriate column of Part 1 of this Schedule Q<sub>lim</sub>, namely—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2019/703)
 
-## SCHEDULE 2[^key-1364716954b84f4c0a926cde9a461e29]
+## SCHEDULE 2[^c-1364716954b84f4c0a926cde9a461e29]
 
 Regulation 3(1)
 
-[^key-1364716954b84f4c0a926cde9a461e29]
+[^c-1364716954b84f4c0a926cde9a461e29]
 
 For the purpose of regulation 3(1), the specified mass of a fissile material set out below is—
 
@@ -1672,28 +1672,28 @@ For the purpose of regulation 3(1), the specified mass of a fissile material set
 
 Regulation 5(1)
 
-**1.**[^key-b3375fa5266a4b545d4b44a107b6dc45] The following requirements must be complied with in the assessment of consequences required by regulation 5.
+**1.**[^c-b3375fa5266a4b545d4b44a107b6dc45] The following requirements must be complied with in the assessment of consequences required by regulation 5.
 
-**2.**[^key-4d7ecae8cd52c570dc4113829624c997] The assessment must be based on a suitable and sufficient range of source terms representing a range of potential radiation emergencies which might arise from the work with ionising radiation.
+**2.**[^c-4d7ecae8cd52c570dc4113829624c997] The assessment must be based on a suitable and sufficient range of source terms representing a range of potential radiation emergencies which might arise from the work with ionising radiation.
 
-**3.**[^key-5d4f60465057a5aecbe02484506e5ec6] The calculations undertaken in support of the assessment must consider a range of weather conditions (if weather conditions are capable of affecting the extent of the impact of the radiation emergency) to account for—
+**3.**[^c-5d4f60465057a5aecbe02484506e5ec6] The calculations undertaken in support of the assessment must consider a range of weather conditions (if weather conditions are capable of affecting the extent of the impact of the radiation emergency) to account for—
 
 - (a) the likely consequences arising from such conditions; and
 - (b) consequences which are less likely, but with greater impact.
 
-**4.**[^key-3901ea7d23d3db38ed67de56122212cb] The assessment must consider the consequences of the potential radiation emergencies identified in regulation 4 on the population within the geographical extent of the potential radiation emergency, accounting. for different characteristics, including, for example age and other characteristics which would render specific members of the public especially vulnerable.
+**4.**[^c-3901ea7d23d3db38ed67de56122212cb] The assessment must consider the consequences of the potential radiation emergencies identified in regulation 4 on the population within the geographical extent of the potential radiation emergency, accounting. for different characteristics, including, for example age and other characteristics which would render specific members of the public especially vulnerable.
 
-**5.**[^key-738b661b4366b58d64492637ea32a985] The assessment must consider what would be an effective and, where relevant, equivalent dose to the thyroid in the context of each potential radiation emergency identified.
+**5.**[^c-738b661b4366b58d64492637ea32a985] The assessment must consider what would be an effective and, where relevant, equivalent dose to the thyroid in the context of each potential radiation emergency identified.
 
-**6.**[^key-d8e6b53287cb47ad3629e3026cd069f7] The assessment must include all relevant pathways by which members of the public could be exposed to radiation in the context of each potential radiation emergency identified.
+**6.**[^c-d8e6b53287cb47ad3629e3026cd069f7] The assessment must include all relevant pathways by which members of the public could be exposed to radiation in the context of each potential radiation emergency identified.
 
-**7.**[^key-fcef72175f1d05d8024da4007a28bcc3] The assessment must identify any protective action that may need to be taken for the range of potential radiation emergencies.
+**7.**[^c-fcef72175f1d05d8024da4007a28bcc3] The assessment must identify any protective action that may need to be taken for the range of potential radiation emergencies.
 
-**8.**[^key-375cfbf603d2ac0b67e4cd890478b9df] The assessment must assess the consequences of suitable and sufficient source terms by distance and by exposure pathway, and the distances to which protective action would be required based on the United Kingdom's Emergency Reference Levels, published by the UK Health Security Agency[^key-66438d05547c532b6405b91a104310c1] [^c23674521].
+**8.**[^c-375cfbf603d2ac0b67e4cd890478b9df] The assessment must assess the consequences of suitable and sufficient source terms by distance and by exposure pathway, and the distances to which protective action would be required based on the United Kingdom's Emergency Reference Levels, published by the UK Health Security Agency[^c-66438d05547c532b6405b91a104310c1] [^c23674521].
 
-**8A.**[^key-3a25492d0ef343ef0e6d9607cdb6e2c1] If the United Kingdom’s Emergency Reference Levels have not been published by the UK Health Security Agency, the assessment referred to in paragraph 8 must instead be based on the United Kingdom’s Emergency Reference Levels published by Public Health England
+**8A.**[^c-3a25492d0ef343ef0e6d9607cdb6e2c1] If the United Kingdom’s Emergency Reference Levels have not been published by the UK Health Security Agency, the assessment referred to in paragraph 8 must instead be based on the United Kingdom’s Emergency Reference Levels published by Public Health England
 
-**9.**[^key-49a0330a7852e0b25d69dc69a71b4337] In this Schedule “**source term**” means the radioactivity which could give rise to direct external exposures from the premises or which could be released to the environment in a radiation emergency and, for releases, includes—
+**9.**[^c-49a0330a7852e0b25d69dc69a71b4337] In this Schedule “**source term**” means the radioactivity which could give rise to direct external exposures from the premises or which could be released to the environment in a radiation emergency and, for releases, includes—
 
 - (a) the amount of each radionuclide released;
 - (b) the time distribution of the release;
@@ -1706,7 +1706,7 @@ Regulation 7(3)
 
 ### PART 1 — Factual Information
 
-**1.**[^key-669d342b7d5e265e240964f13c9265b6] The following factual information must be provided in the operator's consequences report—
+**1.**[^c-669d342b7d5e265e240964f13c9265b6] The following factual information must be provided in the operator's consequences report—
 
 - (a) the name and address of the operator;
 - (b) the postal address of the premises where the radioactive substance will be processed, manufactured, used or stored, or where the facilities for processing, manufacture, use or storage exist;
@@ -1714,21 +1714,21 @@ Regulation 7(3)
 
 ### PART 2 — Recommendations
 
-**2.**[^key-f93892ba8a3c04e7b9f47f47f5153e8b] The operator must include the following recommendations in the consequences report—
+**2.**[^c-f93892ba8a3c04e7b9f47f47f5153e8b] The operator must include the following recommendations in the consequences report—
 
 - (a) the proposed minimum geographical extent from the premises to be covered by the local authority's off-site emergency plan; and
 - (b) the minimum distances to which urgent protective action may need to be taken, marking against each distance the timescale for implementation of the relevant action.
 
-**3.**[^key-b1bae4db10e6366ea5dc01e6dcd897f3] In relation to a minimum geographical extent recommended under paragraph 2, the operator must also include within the consequences report—
+**3.**[^c-b1bae4db10e6366ea5dc01e6dcd897f3] In relation to a minimum geographical extent recommended under paragraph 2, the operator must also include within the consequences report—
 
 - (a) the recommended urgent protective actions to be taken within that zone, if any, together with timescales for the implementation of those actions; and
 - (b) details of the environmental pathways at risk in order to support the determination of food and water restrictions in the event of a radiation emergency.
 
 ### PART 3 — Rationale
 
-**4.**[^key-5c57411f2bb617496fa4e9b374bb2f39] The operator must set out the rationale supporting each recommendation made in the consequences report.
+**4.**[^c-5c57411f2bb617496fa4e9b374bb2f39] The operator must set out the rationale supporting each recommendation made in the consequences report.
 
-**5.**[^key-c0cc7a052105d15bebd30aea8469478d] In particular, the operator must set out—
+**5.**[^c-c0cc7a052105d15bebd30aea8469478d] In particular, the operator must set out—
 
 - (a) the rationale for its recommendation on the minimum distances for which urgent protective action may need to be taken; and
 - (b) where the operator and local authority have agreed that no off-site planning is required, and therefore no emergency planning is recommended, the rationale for that agreement.
@@ -1737,7 +1737,7 @@ Regulation 7(3)
 
 Regulation 9(1)(a)
 
-**1.**[^key-1fbbf813813c393a44d7a1ec2fffee06] The following table applies for the purpose of setting the outline planning zone under regulation 9(1)(a).
+**1.**[^c-1fbbf813813c393a44d7a1ec2fffee06] The following table applies for the purpose of setting the outline planning zone under regulation 9(1)(a).
 
 | *Category* | *Nature of site* | *Outline planning zone* |
 | --- | --- | --- |
@@ -1747,7 +1747,7 @@ Regulation 9(1)(a)
 | 4 | Decommissioned sites without a significant presence of irradiated fuels | 1 kilometre |
 | 5 | Sites involved in the production of radiopharmaceuticals | No outline planning zone |
 
-**2.**[^key-01530a90612d3c2044545a39d00e6046] In the Table at paragraph 1 “**High Level Waste**” means waste which is radioactive enough for the heat released as a result of radioactive decay to increase significantly its temperature and the temperature of its surroundings and includes—
+**2.**[^c-01530a90612d3c2044545a39d00e6046] In the Table at paragraph 1 “**High Level Waste**” means waste which is radioactive enough for the heat released as a result of radioactive decay to increase significantly its temperature and the temperature of its surroundings and includes—
 
 - (a) the liquid residue that contains most of the radioactivity from the reprocessing of spent nuclear fuel;
 - (b) this residue once it has solidified; or
@@ -1759,7 +1759,7 @@ Regulations 10(3) and 11(3)
 
 ### PART 1 — Information to be included in an operator's emergency plan
 
-**1.**[^key-0028002a75213d7a78f55a82f27f38c6] The information referred to in regulation 10(3) is as follows—
+**1.**[^c-0028002a75213d7a78f55a82f27f38c6] The information referred to in regulation 10(3) is as follows—
 
 - (a) the arrangements to set emergency procedures in motion;
 - (b) the arrangements to co-ordinate the on-site mitigatory action;
@@ -1780,7 +1780,7 @@ Regulations 10(3) and 11(3)
 
 #### CHAPTER 1 — Information about detailed emergency planning zones
 
-**2.**[^key-3e5d6b338d93d430d063f020c0c047f1] The information referred to in regulation 11(3)(a) is as follows—
+**2.**[^c-3e5d6b338d93d430d063f020c0c047f1] The information referred to in regulation 11(3)(a) is as follows—
 
 - (a) the arrangements to set emergency procedures in motion;
 - (b) the arrangements to co-ordinate the off-site protective action;
@@ -1797,18 +1797,18 @@ Regulations 10(3) and 11(3)
 
 #### CHAPTER 2 — Information about outline planning zones
 
-**3.**[^key-a034ed8819a76d5f5919121c39a34398] The information referred to in regulation 11(3)(b) is as follows—
+**3.**[^c-a034ed8819a76d5f5919121c39a34398] The information referred to in regulation 11(3)(b) is as follows—
 
 - (a) where there is no detailed emergency planning zone, the information set out at paragraph 2; and
 - (b) in all cases—
   - (i) at what stage and how the response to a radiation emergency triggers a response within the outline planning zone; and
   - (ii) whether there are any areas of detailed planning within the outline planning zone and, if so, the detailed planning arrangements in respect of any such area.
 
-**4.**[^key-637ac66b08906c815f45792abf03554e] In paragraph 3(b)(ii), an area of detailed planning within the outline planning zone means an area within which a greater degree of planning is necessary as a result of the existence of particular factors such as schools or hospitals within that area.
+**4.**[^c-637ac66b08906c815f45792abf03554e] In paragraph 3(b)(ii), an area of detailed planning within the outline planning zone means an area within which a greater degree of planning is necessary as a result of the existence of particular factors such as schools or hospitals within that area.
 
 #### CHAPTER 3 — Information which an off-site emergency plan must contain
 
-**5.**[^key-c488db7124e6520811b02660c2be8e97] In order to comply with regulation 11(3)(c) an off-site emergency plan must—
+**5.**[^c-c488db7124e6520811b02660c2be8e97] In order to comply with regulation 11(3)(c) an off-site emergency plan must—
 
 - (a) set out the extent of the detailed emergency planning zone (if any) and the outline planning zone (if any);
 - (b) in respect of the detailed emergency planning zone, set out—
@@ -1823,7 +1823,7 @@ Regulations 10(3) and 11(3)
 
 ### PART 1 — Principles to which emergency plans must have regard
 
-**1.**[^key-824fcc78538d7672c489c1635134582b] Any person with responsibility for preparing an emergency plan under these Regulations must consider the following principles when preparing that plan—
+**1.**[^c-824fcc78538d7672c489c1635134582b] Any person with responsibility for preparing an emergency plan under these Regulations must consider the following principles when preparing that plan—
 
 - (a) the necessity for the plan to respond to the particular characteristics of a given radiation emergency as those characteristics emerge;
 - (b) the necessity to optimise protection strategies to ensure that the proposed response, as a whole, is predicted to do more to mitigate the radiation emergency and facilitate transition from that emergency to an existing exposure situation than to increase its duration or consequences, taking into account—
@@ -1835,7 +1835,7 @@ Regulations 10(3) and 11(3)
 
 ### PART 2 — Purposes of emergency plans
 
-**2.**[^key-1b74e3a72f7fd0d41f95afb338f3cfa3] Any person with responsibility for preparing an emergency plan under these Regulations must ensure that the plan, if implemented, would fulfil the following purposes—
+**2.**[^c-1b74e3a72f7fd0d41f95afb338f3cfa3] Any person with responsibility for preparing an emergency plan under these Regulations must ensure that the plan, if implemented, would fulfil the following purposes—
 
 - (a) to reduce or stop the effects of the radiation emergency;
 - (b) to reduce the exposure to individuals and to the environment resulting from the release of ionising radiation;
@@ -1848,33 +1848,33 @@ Regulation 21(3)
 
 ### PART 1 — Information in relation to detailed emergency planning zones
 
-**1.**[^key-3aeab8bcf8bc8be5a8153b17c3031cd7] Basic facts about ionising radiation and its effects on persons and on the environment.
+**1.**[^c-3aeab8bcf8bc8be5a8153b17c3031cd7] Basic facts about ionising radiation and its effects on persons and on the environment.
 
-**2.**[^key-d8848a0ba775dd4b202465d10318eda6] The various types of radiation emergency identified and their consequences for the general public and the environment.
+**2.**[^c-d8848a0ba775dd4b202465d10318eda6] The various types of radiation emergency identified and their consequences for the general public and the environment.
 
-**3.**[^key-98f6ff4895f39d0cf8567cce120ce654] Protective action envisaged to alert, protect and assist the general public in the event of a radiation emergency.
+**3.**[^c-98f6ff4895f39d0cf8567cce120ce654] Protective action envisaged to alert, protect and assist the general public in the event of a radiation emergency.
 
-**4.**[^key-bf16eb633cd69d8cc46411802271da87] Appropriate information on protective action to be taken by the general public in the event of a radiation emergency.
+**4.**[^c-bf16eb633cd69d8cc46411802271da87] Appropriate information on protective action to be taken by the general public in the event of a radiation emergency.
 
-**5.**[^key-5cb88feda571f68154a399eed7bcfea4] The authority or authorities responsible for implementing the protective action referred to in paragraphs 3 and 4 above.
+**5.**[^c-5cb88feda571f68154a399eed7bcfea4] The authority or authorities responsible for implementing the protective action referred to in paragraphs 3 and 4 above.
 
-**6.**[^key-000ade2cebd14df77abc598a1f388b17] The extent of the detailed emergency planning zone.
+**6.**[^c-000ade2cebd14df77abc598a1f388b17] The extent of the detailed emergency planning zone.
 
 ### PART 2 — Information in relation to outline planning zones
 
-**7.**[^key-111c98a7a7972b9b0d802878ff55be1d] Where the information set out at paragraphs 1 to 5 can be obtained.
+**7.**[^c-111c98a7a7972b9b0d802878ff55be1d] Where the information set out at paragraphs 1 to 5 can be obtained.
 
-**8.**[^key-b5de6c62b7a5ea6b38b2a5941cf9c857] The extent of the outline planning zone.
+**8.**[^c-b5de6c62b7a5ea6b38b2a5941cf9c857] The extent of the outline planning zone.
 
-**9.**[^key-d6a6cab559e03c5c50b3f0681b62081f] The factors which would cause the plan in respect of the outline planning zone to be triggered, and whether there are any areas of detailed planning within the outline planning zone as defined at paragraph 4 of Part 2 of Schedule 6.
+**9.**[^c-d6a6cab559e03c5c50b3f0681b62081f] The factors which would cause the plan in respect of the outline planning zone to be triggered, and whether there are any areas of detailed planning within the outline planning zone as defined at paragraph 4 of Part 2 of Schedule 6.
 
 ## SCHEDULE 9 — Information to be supplied in the event of a radiation emergency
 
 Regulation 22(4)
 
-**1.**[^key-9e4fb0bff8f0c1a307966f6fff1d2efc] Information on the type of emergency which has occurred, and, where possible, its characteristics, for example, its origin, extent and probable development.
+**1.**[^c-9e4fb0bff8f0c1a307966f6fff1d2efc] Information on the type of emergency which has occurred, and, where possible, its characteristics, for example, its origin, extent and probable development.
 
-**2.**[^key-4e7cd01dd0385d8c1922db3639c22698] Advice on protective action which may include, depending on the type of emergency—
+**2.**[^c-4e7cd01dd0385d8c1922db3639c22698] Advice on protective action which may include, depending on the type of emergency—
 
 - (a) any restrictions on the consumption of certain foodstuffs and water supply likely to be contaminated;
 - (b) any basic rules on hygiene and decontamination;
@@ -1883,23 +1883,23 @@ Regulation 22(4)
 - (e) any evacuation arrangements;
 - (f) special warnings for certain population groups.
 
-**3.**[^key-ccd524489e2d7b0cac8c8fa371734181] Details concerning any announcements recommending cooperation with instructions or requests by the regulator.
+**3.**[^c-ccd524489e2d7b0cac8c8fa371734181] Details concerning any announcements recommending cooperation with instructions or requests by the regulator.
 
-**4.**[^key-fb11817ade452425f28ed33898d4d147] Where an incident which is likely to give rise to a release of radioactivity or ionising radiation has taken place but no release has yet occurred, the information and advice should include the following—
+**4.**[^c-fb11817ade452425f28ed33898d4d147] Where an incident which is likely to give rise to a release of radioactivity or ionising radiation has taken place but no release has yet occurred, the information and advice should include the following—
 
 - (a) details of the relevant communications channels on which information about the incident will be available;
 - (b) preparatory advice to establishments with particular collective responsibilities; and
 - (c) recommendations to occupational groups particularly affected.
 
-**5.**[^key-8c5955be1a7a72442c57025d08796f5b] If time permits, information setting out the basic facts about radioactivity and its effects on persons and on the environment.
+**5.**[^c-8c5955be1a7a72442c57025d08796f5b] If time permits, information setting out the basic facts about radioactivity and its effects on persons and on the environment.
 
-**6.**[^key-f5f8117c772ba89a3ff1012ffbb9f211] In paragraph 4(b), “**establishments with particular collective responsibilities**” means hospitals, care homes, schools or similar establishments.
+**6.**[^c-f5f8117c772ba89a3ff1012ffbb9f211] In paragraph 4(b), “**establishments with particular collective responsibilities**” means hospitals, care homes, schools or similar establishments.
 
 ## SCHEDULE 10 — Consequential amendments
 
 Regulation 29
 
-### 1. Road Vehicles (Construction and Use) Regulations 1986[^key-090ee7b837eaba34d1fc77ea4887c29f]
+### 1. Road Vehicles (Construction and Use) Regulations 1986[^c-090ee7b837eaba34d1fc77ea4887c29f]
 
 Regulation 37 of the Road Vehicles (Construction and Use) Regulations 1986 [^c23674531] is amended as follows—
 
@@ -1910,7 +1910,7 @@ Regulation 37 of the Road Vehicles (Construction and Use) Regulations 1986 [^c23
 
   .
 
-### 2. Road Vehicles Lighting Regulations 1989[^key-f3025c51b7cd44dbedc620476ec53d44]
+### 2. Road Vehicles Lighting Regulations 1989[^c-f3025c51b7cd44dbedc620476ec53d44]
 
 Regulation 3 of the Road Vehicles Lighting Regulations 1989 [^c23674541] is amended as follows—
 
@@ -1919,31 +1919,31 @@ Regulation 3 of the Road Vehicles Lighting Regulations 1989 [^c23674541] is amen
   - (i) omit “radiation accident and”; and
   - (ii) for “2001” substitute “ 2019 ”.
 
-### 3. Health and Safety (Enforcing Authority) Regulations 1998[^key-acb0c16a23bdeeb542000b5f59dd629d]
+### 3. Health and Safety (Enforcing Authority) Regulations 1998[^c-acb0c16a23bdeeb542000b5f59dd629d]
 
 In regulation 4A(2)(aa) of the Health and Safety (Enforcing Authority) Regulations 1998 [^c23674551] for “Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 4. Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005[^key-b8470c02a2435853e24ca87551be68c6]
+### 4. Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005[^c-b8470c02a2435853e24ca87551be68c6]
 
 In regulation 9(c) of the Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005 [^c23674561] for “Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 5. Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005[^key-08d055c9fe025058aee8c29ed2a70bbe]
+### 5. Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005[^c-08d055c9fe025058aee8c29ed2a70bbe]
 
 In regulation 12(e) of the Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005 [^c23674571] for “Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 6. Radioactive Contaminated Land (Modification of Enactments) (England) Regulations 2006[^key-dc8c73cc68a2c8c539e25a59804510b9]
+### 6. Radioactive Contaminated Land (Modification of Enactments) (England) Regulations 2006[^c-dc8c73cc68a2c8c539e25a59804510b9]
 
 In regulation 17(3) of the Radioactive Contaminated Land (Modification of Enactments) (England) Regulations 2006 [^c23674581] in the inserted paragraph (4C) for “paragraph (2) of regulation 13 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ paragraph (3) of regulation 17 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 7. Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006[^key-3bd8ae5a7fd5539cdb7e115bb1ee9b3b]
+### 7. Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006[^c-3bd8ae5a7fd5539cdb7e115bb1ee9b3b]
 
 In regulation 17(3) of the Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006 [^c23674591] in the inserted paragraph (4C) for “paragraph (2) of regulation 13 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ paragraph (3) of regulation 17 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 8. Radioactive Contaminated Land (Scotland) Regulations 2007[^key-1e0dd3f80bc80c920bcd58eeb12277d3]
+### 8. Radioactive Contaminated Land (Scotland) Regulations 2007[^c-1e0dd3f80bc80c920bcd58eeb12277d3]
 
 In regulation 15 of the Radioactive Contaminated Land (Scotland) Regulations 2007 [^c23674601] in the inserted subsection 7(a) for “regulation 12(2) of the Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ regulation 17(3) of the Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 9. Local Government (Structural Changes) (Transitional Arrangements) (No. 2) Regulations 2008[^key-3fa69edcecbf5559c5ee8a4d57c8614b]
+### 9. Local Government (Structural Changes) (Transitional Arrangements) (No. 2) Regulations 2008[^c-3fa69edcecbf5559c5ee8a4d57c8614b]
 
 (1) Regulation 11 of the Local Government (Structural Changes) (Transitional Arrangements) (No. 2) Regulations 2008 [^c23674611] is amended as follows.
 
@@ -1956,7 +1956,7 @@ In regulation 15 of the Radioactive Contaminated Land (Scotland) Regulations 200
 
 (4) In paragraph 5 for “2001” substitute “ 2019 ”.
 
-### 10. Human Medicines Regulations 2012[^key-d3389e9fbdcdc042087200de5d978144]
+### 10. Human Medicines Regulations 2012[^c-d3389e9fbdcdc042087200de5d978144]
 
 (1) The Human Medicines Regulations 2012 [^c23674621] are amended as follows.
 
@@ -1964,7 +1964,7 @@ In regulation 15 of the Radioactive Contaminated Land (Scotland) Regulations 200
 
 (3) In the entry numbered 19 in the first column of the table in Part 5 of Schedule 17 for “Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 11. Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015[^key-2be38898954e1812194af2b4252103cf]
+### 11. Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015[^c-2be38898954e1812194af2b4252103cf]
 
 The table in Part 2 of Schedule 2 to the Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 [^c23674631] is amended as follows—
 
@@ -1979,7 +1979,7 @@ The table in Part 2 of Schedule 2 to the Infrastructure Planning (Interested Par
 
   .
 
-### 12. Health and Safety and Nuclear (Fees) Regulations 2016[^key-4d920570fa42692d5d12b70d3c690fe5]
+### 12. Health and Safety and Nuclear (Fees) Regulations 2016[^c-4d920570fa42692d5d12b70d3c690fe5]
 
 (1) The Health and Safety and Nuclear (Fees) Regulations 2016 [^c23674641] are amended as follows.
 
@@ -1998,11 +1998,11 @@ The table in Part 2 of Schedule 2 to the Infrastructure Planning (Interested Par
 - (a) in the heading for “Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”; and
 - (b) in the first column of table 2 for “regulation 14 of the 2001 Regulations” in both places it occurs substitute “ regulation 18 of the 2019 Regulations ”.
 
-### 13. Ionising Radiations Regulations 2017[^key-c2aee3de3f9af4636baae7773115dc68]
+### 13. Ionising Radiations Regulations 2017[^c-c2aee3de3f9af4636baae7773115dc68]
 
 In regulation 36(1) of the Ionising Radiations Regulations 2017 [^c23674651] for “Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
-### 14. Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) Regulations 2018[^key-32edfea27c484ca1a77607c596d8ab39]
+### 14. Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) Regulations 2018[^c-32edfea27c484ca1a77607c596d8ab39]
 
 In regulation 4(2)(a) of the Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) Regulations 2018 [^c23674661] for “paragraph (2) of regulation 13 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2001” substitute “ paragraph (3) of regulation 17 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019 ”.
 
@@ -2070,9 +2070,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23674341]: Marginal citation: [Section 50](https://www.legislation.gov.uk/uksi/2019/703/section/50) was amended by paragraph 11 of Schedule 12 to the Energy Act 2013 and article 16 of [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-6b6e6237387e356fc2d5b7b983431623]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/703/regulation/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-6b6e6237387e356fc2d5b7b983431623]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/703/regulation/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-835833b8e7ab71ae57d46d7b83e911de]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/703/regulation/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-835833b8e7ab71ae57d46d7b83e911de]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/703/regulation/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674351]: Marginal citation: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075).
 
@@ -2082,7 +2082,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23674381]: Marginal citation: [Parts 3](https://www.legislation.gov.uk/uksi/2019/703/part/3) and 4 of Schedule 1 have been amended by paragraph 132 of Schedule 5 to the Health and Social Care Act 2012, paragraph 16 of Schedule 9 to the [Civil Aviation Act 2012 (c.19)](https://www.legislation.gov.uk/ukpga/2012/19), [paragraph 81](https://www.legislation.gov.uk/ukpga/2012/19/paragraph/81) of Part 5 of Schedule 12 to the Energy Act 2013, paragraph 152 of Part 2 of Schedule 1 to the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [article 2](https://www.legislation.gov.uk/ukpga/2015/7/article/2) of [S.I. 2005/2043](https://www.legislation.gov.uk/uksi/2005/2043), [paragraph 4](https://www.legislation.gov.uk/uksi/2005/2043/paragraph/4) of Part 1 of Schedule 1 to [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), [paragraph 6](https://www.legislation.gov.uk/uksi/2005/3050/paragraph/6) of Part 1 of Schedule 1 to [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), and article 41 of [S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644). Part 5 of Schedule 1 was inserted by article 41 of [S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644).
 
-[^key-b9ad146d3500292fb16547a30e99eb12]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/703) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-b9ad146d3500292fb16547a30e99eb12]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/703) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c23674401]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
@@ -2094,228 +2094,228 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23674441]: Marginal citation: [Regulation 2B](https://www.legislation.gov.uk/uksi/2019/703/regulation/2B) was inserted by paragraph 73 of Part 3 of Schedule 3 to [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
 
-[^key-ef3979aa83a061e916e7b3aa8e470bf3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-ef3979aa83a061e916e7b3aa8e470bf3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674451]: Marginal citation: The Model Recommendations can be found at https://www.unece.org/trans/danger/publi/unrec/rev19/19files\_e.html or can be inspected at the offices of the Department of Business, Energy and Industrial Strategy at 1 Victoria Street, London, SW1H 0ET.
 
-[^key-57c91ac9188206b928cc7e20bd49f72d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/703/regulation/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-57c91ac9188206b928cc7e20bd49f72d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/703/regulation/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674461]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242). Regulation 3 was amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457), [S.I](https://www.legislation.gov.uk/uksi/2003/2457/section/I). 2005/1541, [S.S.I. 2006/457](https://www.legislation.gov.uk/ssi/2006/457), [S.I](https://www.legislation.gov.uk/ssi/2006/457/section/I). 2015/21 and [S.I. 2015/1637](https://www.legislation.gov.uk/uksi/2015/1637).
 
-[^key-e7eb06fa7e34edcba69ba2e5d4fe4878]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/703/regulation/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-e7eb06fa7e34edcba69ba2e5d4fe4878]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/703/regulation/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d84be72daedfd1b96792e46d5b8d0c39]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/703/regulation/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d84be72daedfd1b96792e46d5b8d0c39]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/703/regulation/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-56bb383b2d6092121518726bbd4e7941]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/703/regulation/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-56bb383b2d6092121518726bbd4e7941]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/703/regulation/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-eb4a0798fd84006a5a5761a521f29efc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/703/regulation/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-eb4a0798fd84006a5a5761a521f29efc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/703/regulation/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-4306d40dce0047ab5afb71ca291e33ab]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/703/regulation/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-4306d40dce0047ab5afb71ca291e33ab]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/703/regulation/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-fbc3ed49b380617493545fd962005d94]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/703/regulation/10) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-fbc3ed49b380617493545fd962005d94]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/703/regulation/10) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-cd2448e3397074ac061a9037e9d92569]: Textual amendment: Words in [reg. 10(5)(e)](https://www.legislation.gov.uk/uksi/2019/703/regulation/10/5/e) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
+[^c-cd2448e3397074ac061a9037e9d92569]: Textual amendment: Words in [reg. 10(5)(e)](https://www.legislation.gov.uk/uksi/2019/703/regulation/10/5/e) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
 
-[^key-5ad1726645bf1647cf9dac89fbf616dd]: Textual amendment: Words in [reg. 10(5)(f)](https://www.legislation.gov.uk/uksi/2019/703/regulation/10/5/f) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
+[^c-5ad1726645bf1647cf9dac89fbf616dd]: Textual amendment: Words in [reg. 10(5)(f)](https://www.legislation.gov.uk/uksi/2019/703/regulation/10/5/f) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
 
-[^key-11e39adddd9e8ac4a50a837fd045177b]: Textual amendment: Words in reg. 10(5)(f)(ii) substituted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 16(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/16/2) (with [art. 4(4)(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4/5))
+[^c-11e39adddd9e8ac4a50a837fd045177b]: Textual amendment: Words in reg. 10(5)(f)(ii) substituted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 16(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/16/2) (with [art. 4(4)(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4/5))
 
-[^key-ab6704fcec0d2c135f6ad689d3bce30e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/703/regulation/11) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-ab6704fcec0d2c135f6ad689d3bce30e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/703/regulation/11) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-147ad99ceba70bc5bc6cac30dbaffef0]: Textual amendment: Words in [reg. 11(5)(f)](https://www.legislation.gov.uk/uksi/2019/703/regulation/11/5/f) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
+[^c-147ad99ceba70bc5bc6cac30dbaffef0]: Textual amendment: Words in [reg. 11(5)(f)](https://www.legislation.gov.uk/uksi/2019/703/regulation/11/5/f) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
 
-[^key-89097c32a295ac71f97a2aaebf0da954]: Textual amendment: Words in [reg. 11(5)(g)](https://www.legislation.gov.uk/uksi/2019/703/regulation/11/5/g) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
+[^c-89097c32a295ac71f97a2aaebf0da954]: Textual amendment: Words in [reg. 11(5)(g)](https://www.legislation.gov.uk/uksi/2019/703/regulation/11/5/g) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/2)
 
-[^key-9808993e9a34f17cebf136ce216f161d]: Textual amendment: Words in reg. 11(5)(g)(ii) substituted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 16(3)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/16/3) (with [art. 4(4)(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4/5))
+[^c-9808993e9a34f17cebf136ce216f161d]: Textual amendment: Words in reg. 11(5)(g)(ii) substituted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 16(3)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/16/3) (with [art. 4(4)(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4/5))
 
-[^key-f35a015b3da6c278f6b46902b992c347]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/703/regulation/12) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f35a015b3da6c278f6b46902b992c347]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/703/regulation/12) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-ee5d67ed77ae34aacb1f1f6e3c2445ce]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/703/regulation/13) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-ee5d67ed77ae34aacb1f1f6e3c2445ce]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/703/regulation/13) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-71180758f3abcd97cf1b7b757f76b86d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/703/regulation/14) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-71180758f3abcd97cf1b7b757f76b86d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/703/regulation/14) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-f54e2d245e67e6a5174362f9e3a558cf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/703/regulation/15) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f54e2d245e67e6a5174362f9e3a558cf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/703/regulation/15) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-9107fcf5cc8803369ee08ad28ee6bc0c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/703/regulation/16) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-9107fcf5cc8803369ee08ad28ee6bc0c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/703/regulation/16) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-ef6c7d20504ecc2ae393280269ff7440]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/703/regulation/17) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-ef6c7d20504ecc2ae393280269ff7440]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/703/regulation/17) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d9cea7ed3b18cfc95866f05338bc78dd]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/703/regulation/18) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d9cea7ed3b18cfc95866f05338bc78dd]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/703/regulation/18) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-be33f5b2c97bdb14eb2374fb8a42e336]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/703/regulation/19) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-be33f5b2c97bdb14eb2374fb8a42e336]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/703/regulation/19) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-f87b5fbbd22a199497fed91fea2e60f4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/703/regulation/20) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f87b5fbbd22a199497fed91fea2e60f4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/703/regulation/20) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d6ed579e34303b2292fc29445d2ffcec]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/703/regulation/21) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d6ed579e34303b2292fc29445d2ffcec]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/703/regulation/21) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-f796a49e41661dd4e1ca81689c6ccbfd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/703/regulation/22) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f796a49e41661dd4e1ca81689c6ccbfd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/703/regulation/22) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d0155366a9bf46740078ea26d1b112ca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/703/regulation/23) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d0155366a9bf46740078ea26d1b112ca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/703/regulation/23) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-17640ca6a05fa9c12571ed910961a2c0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/703/regulation/24) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-17640ca6a05fa9c12571ed910961a2c0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/703/regulation/24) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d42434c8a82f605803b3d0a2c138d4af]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/703/regulation/25) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d42434c8a82f605803b3d0a2c138d4af]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/703/regulation/25) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674471]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
 [^c23674481]: Marginal citation: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
-[^key-b03dc7cb24c3f759c62d681ea13c619f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/703/regulation/26) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-b03dc7cb24c3f759c62d681ea13c619f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/703/regulation/26) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-6041a7d3831ce440e600628ecdd17e68]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/703/regulation/27) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-6041a7d3831ce440e600628ecdd17e68]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/703/regulation/27) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674491]: Marginal citation: [S.I. 2001/2975](https://www.legislation.gov.uk/uksi/2001/2975).
 
-[^key-7d3c9b130786382d1a4e0f7adb80f152]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/703/regulation/28) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-7d3c9b130786382d1a4e0f7adb80f152]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/703/regulation/28) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-828a85594b847e32f3d333d8cbae7efc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/703/regulation/29) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-828a85594b847e32f3d333d8cbae7efc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/703/regulation/29) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-3d20b5e84da3127e6b32a684eddefc17]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/703/regulation/30) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-3d20b5e84da3127e6b32a684eddefc17]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/703/regulation/30) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674501]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
 [^c23674511]: Marginal citation: OJ No L13, 17.1.2014, p 1.
 
-[^key-6af3ac198a25375d54ba74715f13a999]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/1/part/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-6af3ac198a25375d54ba74715f13a999]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/1/part/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-c24f3adfa76d6616387c9df29923171e]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/1/part/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-c24f3adfa76d6616387c9df29923171e]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/1/part/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-1364716954b84f4c0a926cde9a461e29]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-1364716954b84f4c0a926cde9a461e29]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-b3375fa5266a4b545d4b44a107b6dc45]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-b3375fa5266a4b545d4b44a107b6dc45]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-4d7ecae8cd52c570dc4113829624c997]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-4d7ecae8cd52c570dc4113829624c997]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-5d4f60465057a5aecbe02484506e5ec6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-5d4f60465057a5aecbe02484506e5ec6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-3901ea7d23d3db38ed67de56122212cb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-3901ea7d23d3db38ed67de56122212cb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-738b661b4366b58d64492637ea32a985]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-738b661b4366b58d64492637ea32a985]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d8e6b53287cb47ad3629e3026cd069f7]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d8e6b53287cb47ad3629e3026cd069f7]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-fcef72175f1d05d8024da4007a28bcc3]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-fcef72175f1d05d8024da4007a28bcc3]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-375cfbf603d2ac0b67e4cd890478b9df]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-375cfbf603d2ac0b67e4cd890478b9df]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-66438d05547c532b6405b91a104310c1]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/8) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/3)
+[^c-66438d05547c532b6405b91a104310c1]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/8) substituted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/3)
 
 [^c23674521]: Marginal citation: Available at https://www.gov.uk/government/publications/radiation-emergency-reference-levels or in hard copy from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET. The functions of the National Radiological Protection Board were transferred to the Health Protection Agency by section 3 of the [Health Protection Act 2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17). The Health Protection Agency was abolished by section 56 of the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and its functions are now exercised by Public Health England.
 
-[^key-3a25492d0ef343ef0e6d9607cdb6e2c1]: Textual amendment: [Sch. 3 para. 8A](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/8A) inserted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/4)
+[^c-3a25492d0ef343ef0e6d9607cdb6e2c1]: Textual amendment: [Sch. 3 para. 8A](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/8A) inserted (1.11.2021) by [The Radiation Emergency and Consultation Regulations 2021 (S.I. 2021/1110)](https://www.legislation.gov.uk/uksi/2021/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1110/regulation/2/4)
 
-[^key-49a0330a7852e0b25d69dc69a71b4337]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-49a0330a7852e0b25d69dc69a71b4337]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2019/703/schedule/3/paragraph/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-669d342b7d5e265e240964f13c9265b6]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-669d342b7d5e265e240964f13c9265b6]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-f93892ba8a3c04e7b9f47f47f5153e8b]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f93892ba8a3c04e7b9f47f47f5153e8b]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-b1bae4db10e6366ea5dc01e6dcd897f3]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-b1bae4db10e6366ea5dc01e6dcd897f3]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-5c57411f2bb617496fa4e9b374bb2f39]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-5c57411f2bb617496fa4e9b374bb2f39]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-c0cc7a052105d15bebd30aea8469478d]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-c0cc7a052105d15bebd30aea8469478d]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/4/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-1fbbf813813c393a44d7a1ec2fffee06]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/5/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-1fbbf813813c393a44d7a1ec2fffee06]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/5/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-01530a90612d3c2044545a39d00e6046]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/5/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-01530a90612d3c2044545a39d00e6046]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/5/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-0028002a75213d7a78f55a82f27f38c6]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-0028002a75213d7a78f55a82f27f38c6]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-3e5d6b338d93d430d063f020c0c047f1]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-3e5d6b338d93d430d063f020c0c047f1]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-a034ed8819a76d5f5919121c39a34398]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-a034ed8819a76d5f5919121c39a34398]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-637ac66b08906c815f45792abf03554e]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-637ac66b08906c815f45792abf03554e]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-c488db7124e6520811b02660c2be8e97]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-c488db7124e6520811b02660c2be8e97]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/6/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-824fcc78538d7672c489c1635134582b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/7/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-824fcc78538d7672c489c1635134582b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/7/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-1b74e3a72f7fd0d41f95afb338f3cfa3]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/7/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-1b74e3a72f7fd0d41f95afb338f3cfa3]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/7/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-3aeab8bcf8bc8be5a8153b17c3031cd7]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-3aeab8bcf8bc8be5a8153b17c3031cd7]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d8848a0ba775dd4b202465d10318eda6]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d8848a0ba775dd4b202465d10318eda6]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-98f6ff4895f39d0cf8567cce120ce654]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-98f6ff4895f39d0cf8567cce120ce654]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-bf16eb633cd69d8cc46411802271da87]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-bf16eb633cd69d8cc46411802271da87]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-5cb88feda571f68154a399eed7bcfea4]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-5cb88feda571f68154a399eed7bcfea4]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-000ade2cebd14df77abc598a1f388b17]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-000ade2cebd14df77abc598a1f388b17]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-111c98a7a7972b9b0d802878ff55be1d]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-111c98a7a7972b9b0d802878ff55be1d]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-b5de6c62b7a5ea6b38b2a5941cf9c857]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-b5de6c62b7a5ea6b38b2a5941cf9c857]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-d6a6cab559e03c5c50b3f0681b62081f]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d6a6cab559e03c5c50b3f0681b62081f]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/uksi/2019/703/schedule/8/paragraph/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-9e4fb0bff8f0c1a307966f6fff1d2efc]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-9e4fb0bff8f0c1a307966f6fff1d2efc]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-4e7cd01dd0385d8c1922db3639c22698]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-4e7cd01dd0385d8c1922db3639c22698]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-ccd524489e2d7b0cac8c8fa371734181]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-ccd524489e2d7b0cac8c8fa371734181]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-fb11817ade452425f28ed33898d4d147]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-fb11817ade452425f28ed33898d4d147]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-8c5955be1a7a72442c57025d08796f5b]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-8c5955be1a7a72442c57025d08796f5b]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-f5f8117c772ba89a3ff1012ffbb9f211]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f5f8117c772ba89a3ff1012ffbb9f211]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/9/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
-[^key-090ee7b837eaba34d1fc77ea4887c29f]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-090ee7b837eaba34d1fc77ea4887c29f]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/1) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674531]: Marginal citation: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078). Paragraph (5)(k) and (9A) were substituted by [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935). There are other amendments, but none are relevant to this instrument.
 
-[^key-f3025c51b7cd44dbedc620476ec53d44]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-f3025c51b7cd44dbedc620476ec53d44]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/2) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674541]: Marginal citation: [S.I. 1989/1796](https://www.legislation.gov.uk/uksi/1989/1796). Regulation 3 was amended by [S.I. 2005/2559](https://www.legislation.gov.uk/uksi/2005/2559). There are other amendments, but none are relevant to this instrument.
 
-[^key-acb0c16a23bdeeb542000b5f59dd629d]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-acb0c16a23bdeeb542000b5f59dd629d]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/3) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674551]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494). Regulation 4A was inserted by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469) and amended by [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075).
 
-[^key-b8470c02a2435853e24ca87551be68c6]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-b8470c02a2435853e24ca87551be68c6]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/4) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674561]: Marginal citation: [S.S.I. 2005/494](https://www.legislation.gov.uk/ssi/2005/494). Regulation 9 has been amended, but that amendment is not relevant to this instrument.
 
-[^key-08d055c9fe025058aee8c29ed2a70bbe]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-08d055c9fe025058aee8c29ed2a70bbe]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/5) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674571]: Marginal citation: [S.I. 2005/2042](https://www.legislation.gov.uk/uksi/2005/2042). Regulation 12 has been amended, but that amendment is not relevant to this instrument.
 
-[^key-dc8c73cc68a2c8c539e25a59804510b9]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-dc8c73cc68a2c8c539e25a59804510b9]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/6) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674581]: Marginal citation: [S.I. 2006/1379](https://www.legislation.gov.uk/uksi/2006/1379). Regulation 17 was substituted by [S.I. 2008/520](https://www.legislation.gov.uk/uksi/2008/520). Other amendments have been made but none are relevant to this instrument.
 
-[^key-3bd8ae5a7fd5539cdb7e115bb1ee9b3b]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-3bd8ae5a7fd5539cdb7e115bb1ee9b3b]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/7) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674591]: Marginal citation: [S.I. 2006/2988](https://www.legislation.gov.uk/uksi/2006/2988) (W. 277). Regulation 17 was substituted by [S.I. 2008/521](https://www.legislation.gov.uk/uksi/2008/521). Other amendments have been made but none are relevant to this instrument.
 
-[^key-1e0dd3f80bc80c920bcd58eeb12277d3]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-1e0dd3f80bc80c920bcd58eeb12277d3]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/8) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674601]: Marginal citation: [S.S.I. 2007/179](https://www.legislation.gov.uk/ssi/2007/179). Regulation 15 was substituted by [S.I. 2007/3240](https://www.legislation.gov.uk/uksi/2007/3240). Other amendments have been made but none are relevant to this instrument.
 
-[^key-3fa69edcecbf5559c5ee8a4d57c8614b]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-3fa69edcecbf5559c5ee8a4d57c8614b]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/9) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674611]: Marginal citation: [S.I. 2008/2867](https://www.legislation.gov.uk/uksi/2008/2867). Amendments have been made but none are relevant to this instrument.
 
-[^key-d3389e9fbdcdc042087200de5d978144]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/10) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-d3389e9fbdcdc042087200de5d978144]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/10) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674621]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), which was amended by [S.I. 2018/64](https://www.legislation.gov.uk/uksi/2018/64) and [S.I. 2018/199](https://www.legislation.gov.uk/uksi/2018/199).
 
-[^key-2be38898954e1812194af2b4252103cf]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/11) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-2be38898954e1812194af2b4252103cf]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/11) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674631]: Marginal citation: [S.I. 2015/462](https://www.legislation.gov.uk/uksi/2015/462). Amendments have been made but none are relevant to this instrument.
 
-[^key-4d920570fa42692d5d12b70d3c690fe5]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/12) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-4d920570fa42692d5d12b70d3c690fe5]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/12) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674641]: Marginal citation: [S.I. 2016/253](https://www.legislation.gov.uk/uksi/2016/253). Regulation 8 was amended by [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075). Other amendments have been made but none are relevant to this instrument.
 
-[^key-c2aee3de3f9af4636baae7773115dc68]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/13) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-c2aee3de3f9af4636baae7773115dc68]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/13) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674651]: Marginal citation: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075). Amendments have been made but none are relevant to this instrument.
 
-[^key-32edfea27c484ca1a77607c596d8ab39]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/14) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
+[^c-32edfea27c484ca1a77607c596d8ab39]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/14) in force at 22.5.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1)
 
 [^c23674661]: Marginal citation: [S.I. 2018/482](https://www.legislation.gov.uk/uksi/2018/482). Amendments have been made but none are relevant to this instrument.

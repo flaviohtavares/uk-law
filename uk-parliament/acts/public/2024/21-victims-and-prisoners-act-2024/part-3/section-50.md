@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Payments[^key-1df8feff18457adda60f13c27d055e62]
+## 50. Payments[^c-1df8feff18457adda60f13c27d055e62]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1df8feff18457adda60f13c27d055e62]: Commencement: S. 50 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-1df8feff18457adda60f13c27d055e62]: Commencement: S. 50 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

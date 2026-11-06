@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Applicable amount in hardship cases[^key-2335b447e32dc1a5a5aaab39345107de]
+## 145. Applicable amount in hardship cases[^c-2335b447e32dc1a5a5aaab39345107de]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2335b447e32dc1a5a5aaab39345107de]: Commencement: Reg. 145 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2335b447e32dc1a5a5aaab39345107de]: Commencement: Reg. 145 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

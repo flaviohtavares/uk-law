@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Meaning of the Approved Carriage List and other approved documents[^key-32a7451a2e1120aaefc03c9972843ff6]
+## 5. Meaning of the Approved Carriage List and other approved documents[^c-32a7451a2e1120aaefc03c9972843ff6]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32a7451a2e1120aaefc03c9972843ff6]: Commencement: Reg. 5 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-32a7451a2e1120aaefc03c9972843ff6]: Commencement: Reg. 5 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

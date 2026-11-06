@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Collective money purchase benefits – amendments to subordinate legislation[^key-09c1423b3a80a169fcb5238dfb9069d2]
+## 35. Collective money purchase benefits – amendments to subordinate legislation[^c-09c1423b3a80a169fcb5238dfb9069d2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 contains amendments to subordinate legislation in relation to pension
 
 ## Annotations
 
-[^key-09c1423b3a80a169fcb5238dfb9069d2]: Commencement: Reg. 35 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-09c1423b3a80a169fcb5238dfb9069d2]: Commencement: Reg. 35 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

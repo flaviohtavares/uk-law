@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Regulations 53 to 56: interpretation[^key-2afa33a9fcade754fd673df489e23c0b]
+## 57. Regulations 53 to 56: interpretation[^c-2afa33a9fcade754fd673df489e23c0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Terms used in regulations 53 to 56 have the same meaning as they have in the 200
 
 ## Annotations
 
-[^key-2afa33a9fcade754fd673df489e23c0b]: Commencement: Reg. 57 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-2afa33a9fcade754fd673df489e23c0b]: Commencement: Reg. 57 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

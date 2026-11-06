@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Amendment of Annex 1 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-742569b6d9e0fbd267e234ca885738bc]
+## 309. Amendment of Annex 1 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-742569b6d9e0fbd267e234ca885738bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Annex 1 (Part-FCL) is amended in accordance with regulations 310 to 315.
 
 ## Annotations
 
-[^key-742569b6d9e0fbd267e234ca885738bc]: Commencement: Reg. 309 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-742569b6d9e0fbd267e234ca885738bc]: Commencement: Reg. 309 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Handing in postal voting documents[^key-7d79ac4bb256005108307bc58e995831]
+## 5. Handing in postal voting documents[^c-7d79ac4bb256005108307bc58e995831]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d148b2be891bc0eaad9f329c9ec4c7ef][^key-e3028bb651a3739a08a51542b3c7e9f1] RPA 1983 is amended as follows.
+(1)[^c-d148b2be891bc0eaad9f329c9ec4c7ef][^c-e3028bb651a3739a08a51542b3c7e9f1] RPA 1983 is amended as follows.
 
-(2)[^key-521be61b2c36dc91a8fb7fad6524ae45] Schedule 1 (Parliamentary elections rules) is amended in accordance with subsections (3) and (4).
+(2)[^c-521be61b2c36dc91a8fb7fad6524ae45] Schedule 1 (Parliamentary elections rules) is amended in accordance with subsections (3) and (4).
 
-(3)[^key-521be61b2c36dc91a8fb7fad6524ae45] In rule 32 (admission to polling station), in paragraph (1), after sub-paragraph (b) insert—
+(3)[^c-521be61b2c36dc91a8fb7fad6524ae45] In rule 32 (admission to polling station), in paragraph (1), after sub-paragraph (b) insert—
 
 > - (ba) where regulations under rule 45(1B)(a) or (b) provide that a postal ballot paper or postal voting statement may be returned by hand to a polling station, persons aged 18 or over returning such a document by hand;
 
 .
 
-(4)[^key-521be61b2c36dc91a8fb7fad6524ae45] In rule 45 (the count)—
+(4)[^c-521be61b2c36dc91a8fb7fad6524ae45] In rule 45 (the count)—
 
 - (a) in paragraph (1B)—
   - (i) omit “and” at the end of sub-paragraph (c);
@@ -51,7 +51,7 @@ summary: ''
 
     > - (c) where regulations contain provision made by virtue of paragraph 12ZB of Schedule 2 (handing in postal voting documents: Northern Ireland), the postal ballot paper is not one that falls to be rejected in accordance with that provision.
 
-(5)[^key-78b86d9474f44919f292570f526024d3] In Schedule 2 (provisions which may be contained in regulations as to registration etc), after paragraph 12 insert—
+(5)[^c-78b86d9474f44919f292570f526024d3] In Schedule 2 (provisions which may be contained in regulations as to registration etc), after paragraph 12 insert—
 
 > **12ZA.** (1) Where regulations under rule 45(1B)(a) or (b) in Schedule 1 provide that a postal voting document may be returned by hand to a polling station or to the returning officer, provision within this paragraph.
 >
@@ -187,12 +187,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7d79ac4bb256005108307bc58e995831]: Commencement: S. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-7d79ac4bb256005108307bc58e995831]: Commencement: S. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d148b2be891bc0eaad9f329c9ec4c7ef]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/1) in force at 6.2.2023 for specified purposes by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/a)
+[^c-d148b2be891bc0eaad9f329c9ec4c7ef]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/1) in force at 6.2.2023 for specified purposes by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/a)
 
-[^key-e3028bb651a3739a08a51542b3c7e9f1]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/1) in force at 12.12.2023 in so far as not already in force by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-e3028bb651a3739a08a51542b3c7e9f1]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/1) in force at 12.12.2023 in so far as not already in force by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
-[^key-521be61b2c36dc91a8fb7fad6524ae45]: Commencement: [S. 5(2)-(4)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/2) in force at 12.12.2023 by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-521be61b2c36dc91a8fb7fad6524ae45]: Commencement: [S. 5(2)-(4)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/2) in force at 12.12.2023 by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
-[^key-78b86d9474f44919f292570f526024d3]: Commencement: [S. 5(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/5) in force at 6.2.2023 by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/a)
+[^c-78b86d9474f44919f292570f526024d3]: Commencement: [S. 5(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/5/5) in force at 6.2.2023 by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/a)

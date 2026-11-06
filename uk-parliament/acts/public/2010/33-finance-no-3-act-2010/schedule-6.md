@@ -53,9 +53,9 @@ Section 12
   > - (f) the surrendering company and the claimant company are both UK related, and
   > - (g) the link company is UK related or established in the EEA.
 
-(4)[^key-6e72f85948e85d97805b28f7a8b7b3c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6e72f85948e85d97805b28f7a8b7b3c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2a3f0865acf932f365fe914a4b51dc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2a3f0865acf932f365fe914a4b51dc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Section 146 (maximum amount of group relief in consortium claims) is amended as follows.
 
@@ -165,6 +165,6 @@ Section 12
 
 ## Annotations
 
-[^key-6e72f85948e85d97805b28f7a8b7b3c3]: Textual amendment: [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/4/4) omitted (with effect in accordance with s. 35(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/35/2/d)
+[^c-6e72f85948e85d97805b28f7a8b7b3c3]: Textual amendment: [Sch. 6 para. 4(4)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/4/4) omitted (with effect in accordance with s. 35(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/35/2/d)
 
-[^key-2a3f0865acf932f365fe914a4b51dc76]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/5) omitted (with effect in accordance with s. 35(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/35/2/d)
+[^c-2a3f0865acf932f365fe914a4b51dc76]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/5) omitted (with effect in accordance with s. 35(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/35/2/d)

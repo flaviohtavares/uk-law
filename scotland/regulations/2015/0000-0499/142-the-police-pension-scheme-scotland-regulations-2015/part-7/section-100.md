@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Review of lower tier ill-health pension[^key-39384e6b49d58c0c5f7792d596bb5ce7]
+## 100. Review of lower tier ill-health pension[^c-39384e6b49d58c0c5f7792d596bb5ce7]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39384e6b49d58c0c5f7792d596bb5ce7]: Commencement: Reg. 100 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-39384e6b49d58c0c5f7792d596bb5ce7]: Commencement: Reg. 100 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

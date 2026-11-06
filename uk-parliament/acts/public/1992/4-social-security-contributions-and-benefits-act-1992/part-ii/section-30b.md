@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30B. Incapacity benefit: rate.[^key-c9fff0d08ff85ffbb3292e89373d480e]
+## 30B. Incapacity benefit: rate.[^c-c9fff0d08ff85ffbb3292e89373d480e]
 
 *Extent: E+W+S*
 
@@ -30,8 +30,8 @@ The benefit is payable at the lower rate so specified for the first 196 days of 
 
 But in determining that rate any increase of the following descriptions shall be disregarded—
 
-- (a) any increase (for married people[^key-ae78281db7a912a268970fc4d41ec956] or civil partners[^key-29fbe7dff9de977f9da47be188895d19]) under section 51A(2) below or (for deferred retirement) under Schedule 5 to this Act;
-- (b)[^key-8532c9c56a6c3ec79e049744f73c3c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any increase (for married people[^c-ae78281db7a912a268970fc4d41ec956] or civil partners[^c-29fbe7dff9de977f9da47be188895d19]) under section 51A(2) below or (for deferred retirement) under Schedule 5 to this Act;
+- (b)[^c-8532c9c56a6c3ec79e049744f73c3c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any increase (for Category A or Category B pensioners) under section 150 of the Administration Act (annual up-rating) of the sums mentioned in subsection (1)(e) of that section.
 
 (4) In the case of a person who has been entitled to short-term incapacity benefit for 196 days or more in any period of incapacity for work and—
@@ -51,16 +51,16 @@ For the purposes of this subsection a person is terminally ill if he suffers fro
 
 For this purpose “**the qualifying date**” means the first day of the period of incapacity for work or such earlier day as may be prescribed.
 
-(8)[^key-94807c2edf99789201799fb3c60f44bb] This section has effect subject to sections 30DD (reduction for pension payments) and section 30E (reduction for councillor’s allowance) below.
+(8)[^c-94807c2edf99789201799fb3c60f44bb] This section has effect subject to sections 30DD (reduction for pension payments) and section 30E (reduction for councillor’s allowance) below.
 
 ## Annotations
 
-[^key-c9fff0d08ff85ffbb3292e89373d480e]: Textual amendment: S. 30B inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1995/18/section/2/1), [16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1996/2208/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310))
+[^c-c9fff0d08ff85ffbb3292e89373d480e]: Textual amendment: S. 30B inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1995/18/section/2/1), [16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1996/2208/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310))
 
-[^key-ae78281db7a912a268970fc4d41ec956]: Textual amendment: Words in s. 30B(3) substituted (19.7.1995) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2/a), [Sch. 4 para. 21(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/3)
+[^c-ae78281db7a912a268970fc4d41ec956]: Textual amendment: Words in s. 30B(3) substituted (19.7.1995) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2/a), [Sch. 4 para. 21(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/3)
 
-[^key-29fbe7dff9de977f9da47be188895d19]: Textual amendment: Words in s. 30B(3)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 15](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/15); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-29fbe7dff9de977f9da47be188895d19]: Textual amendment: Words in s. 30B(3)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 15](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/15); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-8532c9c56a6c3ec79e049744f73c3c67]: Textual amendment: S. 30B(3)(b) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/4), [27(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/b), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/12), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-8532c9c56a6c3ec79e049744f73c3c67]: Textual amendment: S. 30B(3)(b) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/4), [27(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/b), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2007/22/schedule/1/paragraph/12), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
-[^key-94807c2edf99789201799fb3c60f44bb]: Textual amendment: S. 30B(8) added (3.11.2000 for specified purposes, 6.4.2001 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/89/1), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8/paragraph/22); [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958), [art. 2(3)(e)(4)(5)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/3/e)
+[^c-94807c2edf99789201799fb3c60f44bb]: Textual amendment: S. 30B(8) added (3.11.2000 for specified purposes, 6.4.2001 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/89/1), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8/paragraph/22); [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958), [art. 2(3)(e)(4)(5)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/3/e)

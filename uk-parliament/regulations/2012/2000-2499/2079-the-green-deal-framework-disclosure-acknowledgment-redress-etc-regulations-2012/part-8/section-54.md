@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Enforcement undertakings[^key-3620b99683c93c89eca1f490233b2297]
+## 54. Enforcement undertakings[^c-3620b99683c93c89eca1f490233b2297]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3620b99683c93c89eca1f490233b2297]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2012/2079/regulation/54) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-3620b99683c93c89eca1f490233b2297]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2012/2079/regulation/54) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

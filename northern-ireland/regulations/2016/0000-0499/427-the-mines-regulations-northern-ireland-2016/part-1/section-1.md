@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-e6a100cfa1442edffc5e2c6fe73993d9]
+## 1. Citation, commencement and extent[^c-e6a100cfa1442edffc5e2c6fe73993d9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6a100cfa1442edffc5e2c6fe73993d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/427/regulation/1) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-e6a100cfa1442edffc5e2c6fe73993d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/427/regulation/1) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

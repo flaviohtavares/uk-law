@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Refusal and obstruction of inspector[^key-cbaa721bba456198f8c52cb0526d793e][^key-70f5507e89122e9f812ddc59015b61d3][^key-a83dd5193752693b57f49b2d8d47c35e][^key-88ff810c2f6ad10042730105d134f080][^key-0a97d3c8d22593f2c6b7c3ad47e9c987][^c10346591]
+## 66A. Refusal and obstruction of inspector[^c-cbaa721bba456198f8c52cb0526d793e][^c-70f5507e89122e9f812ddc59015b61d3][^c-a83dd5193752693b57f49b2d8d47c35e][^c-88ff810c2f6ad10042730105d134f080][^c-0a97d3c8d22593f2c6b7c3ad47e9c987][^c10346591]
 
 *Extent: E+W*
 
@@ -33,14 +33,14 @@ summary: ''
 
 ## Annotations
 
-[^key-cbaa721bba456198f8c52cb0526d793e]: Modification: S. 66A applied (with modifications) (W.) (6.7.2006) by [The Avian Influenza (Vaccination) (Wales) Regulations 2006 (S.I. 2006/1761)](https://www.legislation.gov.uk/uksi/2006/1761), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1761/regulation/1/2), [18(1)](https://www.legislation.gov.uk/uksi/2006/1761/regulation/18/1)
+[^c-cbaa721bba456198f8c52cb0526d793e]: Modification: S. 66A applied (with modifications) (W.) (6.7.2006) by [The Avian Influenza (Vaccination) (Wales) Regulations 2006 (S.I. 2006/1761)](https://www.legislation.gov.uk/uksi/2006/1761), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1761/regulation/1/2), [18(1)](https://www.legislation.gov.uk/uksi/2006/1761/regulation/18/1)
 
-[^key-70f5507e89122e9f812ddc59015b61d3]: Modification: S. 66A applied (E.) (13.11.2006) by [The Avian Influenza (Preventive Measures) (England) Regulations 2006 (S.I. 2006/2701)](https://www.legislation.gov.uk/uksi/2006/2701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/20/1/a)
+[^c-70f5507e89122e9f812ddc59015b61d3]: Modification: S. 66A applied (E.) (13.11.2006) by [The Avian Influenza (Preventive Measures) (England) Regulations 2006 (S.I. 2006/2701)](https://www.legislation.gov.uk/uksi/2006/2701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/20/1/a)
 
-[^key-a83dd5193752693b57f49b2d8d47c35e]: Modification: S. 66A applied (W.) (13.11.2006) by [Avian Influenza (Preventive Measures) (Wales) Regulations 2006 (S.I. 2006/2803)](https://www.legislation.gov.uk/uksi/2006/2803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/1/1), [20(1)(a)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/20/1/a)
+[^c-a83dd5193752693b57f49b2d8d47c35e]: Modification: S. 66A applied (W.) (13.11.2006) by [Avian Influenza (Preventive Measures) (Wales) Regulations 2006 (S.I. 2006/2803)](https://www.legislation.gov.uk/uksi/2006/2803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/1/1), [20(1)(a)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/20/1/a)
 
-[^key-88ff810c2f6ad10042730105d134f080]: Modification: S. 66A applied (with modifications) (W.) (14.11.2006) by [The Avian Influenza (Vaccination) (Wales) (No.2) Regulations 2006 (S.I. 2006/2932)](https://www.legislation.gov.uk/uksi/2006/2932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/1/2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/21/1/a)
+[^c-88ff810c2f6ad10042730105d134f080]: Modification: S. 66A applied (with modifications) (W.) (14.11.2006) by [The Avian Influenza (Vaccination) (Wales) (No.2) Regulations 2006 (S.I. 2006/2932)](https://www.legislation.gov.uk/uksi/2006/2932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/1/2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/21/1/a)
 
-[^key-0a97d3c8d22593f2c6b7c3ad47e9c987]: Modification: S. 66A applied (with modifications) (E.) (14.11.2006) by [The Avian Influenza (Vaccination) (England) Regulations 2006 (S.I. 2006/2703)](https://www.legislation.gov.uk/uksi/2006/2703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/1/2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/21/1/a)
+[^c-0a97d3c8d22593f2c6b7c3ad47e9c987]: Modification: S. 66A applied (with modifications) (E.) (14.11.2006) by [The Avian Influenza (Vaccination) (England) Regulations 2006 (S.I. 2006/2703)](https://www.legislation.gov.uk/uksi/2006/2703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/1/2), [21(1)(a)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/21/1/a)
 
 [^c10346591]: Textual amendment: S. 66A inserted (E.W.) (14.1.2003) by [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/42/section/8/2); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2](https://www.legislation.gov.uk/uksi/2002/3044/article/2)

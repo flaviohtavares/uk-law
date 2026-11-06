@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Brokering services: non-UK activity relating to military goods and military technology[^key-ba4d8e7ce417e8f7a811b31e5551fcfb][^key-9bd6a1228ab57b6966d5e55d7f9c4196]
+## 26. Brokering services: non-UK activity relating to military goods and military technology[^c-ba4d8e7ce417e8f7a811b31e5551fcfb][^c-9bd6a1228ab57b6966d5e55d7f9c4196]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba4d8e7ce417e8f7a811b31e5551fcfb]: Commencement: Reg. 26 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-ba4d8e7ce417e8f7a811b31e5551fcfb]: Commencement: Reg. 26 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-9bd6a1228ab57b6966d5e55d7f9c4196]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1278/regulation/26) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-9bd6a1228ab57b6966d5e55d7f9c4196]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1278/regulation/26) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

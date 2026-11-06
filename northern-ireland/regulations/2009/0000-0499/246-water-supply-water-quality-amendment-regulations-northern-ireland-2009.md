@@ -32,7 +32,7 @@ summary: ''
 
 Water And Sewerage
 
-Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-ab2d0517da31254c5d9738860d2604c9]
+Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-ab2d0517da31254c5d9738860d2604c9]
 
 Made
 
@@ -42,42 +42,42 @@ Coming into operation
 
 15th July 2009
 
-[^key-ab2d0517da31254c5d9738860d2604c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab2d0517da31254c5d9738860d2604c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1[^key-ab2d0517da31254c5d9738860d2604c9]
+## PART 1[^c-ab2d0517da31254c5d9738860d2604c9]
 
-### GENERAL[^key-ab2d0517da31254c5d9738860d2604c9]
+### GENERAL[^c-ab2d0517da31254c5d9738860d2604c9]
 
-#### 1. Citation, Commencement and Interpretation[^key-ab2d0517da31254c5d9738860d2604c9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Amendments to the Principal Regulations[^key-ab2d0517da31254c5d9738860d2604c9]
+#### 1. Citation, Commencement and Interpretation[^c-ab2d0517da31254c5d9738860d2604c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Further amendments to the Principal Regulations[^key-ab2d0517da31254c5d9738860d2604c9]
+#### 2. Amendments to the Principal Regulations[^c-ab2d0517da31254c5d9738860d2604c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab2d0517da31254c5d9738860d2604c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 3. Further amendments to the Principal Regulations[^c-ab2d0517da31254c5d9738860d2604c9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ab2d0517da31254c5d9738860d2604c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FURTHER AMENDMENTS TO THE PRINCIPAL REGULATIONS[^key-ab2d0517da31254c5d9738860d2604c9]
+## SCHEDULE 1 — FURTHER AMENDMENTS TO THE PRINCIPAL REGULATIONS[^c-ab2d0517da31254c5d9738860d2604c9]
 
 Regulation 3
 
-**1.**[^key-ab2d0517da31254c5d9738860d2604c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ab2d0517da31254c5d9738860d2604c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ab2d0517da31254c5d9738860d2604c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ab2d0517da31254c5d9738860d2604c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ab2d0517da31254c5d9738860d2604c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ab2d0517da31254c5d9738860d2604c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab2d0517da31254c5d9738860d2604c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab2d0517da31254c5d9738860d2604c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab2d0517da31254c5d9738860d2604c9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/246) revoked (27.10.2017) by [The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 (S.R. 2017/212)](https://www.legislation.gov.uk/nisr/2017/212), [Sch. 6](https://www.legislation.gov.uk/nisr/2017/212/schedule/6)
+[^c-ab2d0517da31254c5d9738860d2604c9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/246) revoked (27.10.2017) by [The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 (S.R. 2017/212)](https://www.legislation.gov.uk/nisr/2017/212), [Sch. 6](https://www.legislation.gov.uk/nisr/2017/212/schedule/6)

@@ -51,10 +51,10 @@ he may by regulations make such amendment.
 
 (5) Regulations under this section shall be made by statutory instrument, but shall not be made unless a draft of any such statutory instrument has been laid before and approved by resolution of each House of Parliament.
 
-(6) For the purposes of this section “**authority**” means a local authority, a joint board [^c12268591]. . ., the Strathclyde Passenger Transport Authority or a Transport Partnership created by order under section 1 of the Transport (Scotland) Act 2005[^key-f3d0558a0885c000538c0f9e6a407eea].
+(6) For the purposes of this section “**authority**” means a local authority, a joint board [^c12268591]. . ., the Strathclyde Passenger Transport Authority or a Transport Partnership created by order under section 1 of the Transport (Scotland) Act 2005[^c-f3d0558a0885c000538c0f9e6a407eea].
 
 ## Annotations
 
 [^c12268591]: Textual amendment: Words in s. 165(6) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxxvi)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxxvi)
 
-[^key-f3d0558a0885c000538c0f9e6a407eea]: Textual amendment: Words in s. 165(6) substituted (19.3.2020) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 122(3)](https://www.legislation.gov.uk/asp/2019/17/section/122/3), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2020/68](https://www.legislation.gov.uk/ssi/2020/68), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/68/regulation/2/a)
+[^c-f3d0558a0885c000538c0f9e6a407eea]: Textual amendment: Words in s. 165(6) substituted (19.3.2020) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 122(3)](https://www.legislation.gov.uk/asp/2019/17/section/122/3), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2020/68](https://www.legislation.gov.uk/ssi/2020/68), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/68/regulation/2/a)

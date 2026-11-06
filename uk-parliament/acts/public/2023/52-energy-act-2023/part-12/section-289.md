@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Interpretation of Part 12[^key-03b1238029af8b0ff0c4aedb3f3e033d][^key-9f1ca76f0d7e0398fbe2844cfdd254aa]
+## 289. Interpretation of Part 12[^c-03b1238029af8b0ff0c4aedb3f3e033d][^c-9f1ca76f0d7e0398fbe2844cfdd254aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03b1238029af8b0ff0c4aedb3f3e033d]: Commencement: S. 289 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-03b1238029af8b0ff0c4aedb3f3e033d]: Commencement: S. 289 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-9f1ca76f0d7e0398fbe2844cfdd254aa]: Commencement: [S. 289](https://www.legislation.gov.uk/ukpga/2023/52/section/289) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/xi)
+[^c-9f1ca76f0d7e0398fbe2844cfdd254aa]: Commencement: [S. 289](https://www.legislation.gov.uk/ukpga/2023/52/section/289) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/xi)

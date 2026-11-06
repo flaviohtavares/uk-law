@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 415. Channel Islands, Isle of Man and British overseas territories[^key-16a2d8a9a811f0b0ed99dbb27946ed9e][^key-bc02f2193397226659b73f3999a341bd]
+## 415. Channel Islands, Isle of Man and British overseas territories[^c-16a2d8a9a811f0b0ed99dbb27946ed9e][^c-bc02f2193397226659b73f3999a341bd]
 
 *Extent: E+W*
 
@@ -42,12 +42,12 @@ summary: ''
 - (b) an amendment, modification or repeal made by this Act of a provision of, or made under, the Armed Forces Act 2006, or
 - (c) an amendment, modification or repeal made by this Act of any other provision, so far as the provision is applied (by whatever words) by or under the Armed Forces Act 2006.
 
-(7)[^key-da7f7e4089bd8b622b6bd5dce0e3fc72] In subsection (6) references to this Act include this Act as amended by the [Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520).
+(7)[^c-da7f7e4089bd8b622b6bd5dce0e3fc72] In subsection (6) references to this Act include this Act as amended by the [Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520).
 
 ## Annotations
 
-[^key-16a2d8a9a811f0b0ed99dbb27946ed9e]: Commencement: [S. 415](https://www.legislation.gov.uk/ukpga/2020/17/section/415) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-16a2d8a9a811f0b0ed99dbb27946ed9e]: Commencement: [S. 415](https://www.legislation.gov.uk/ukpga/2020/17/section/415) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bc02f2193397226659b73f3999a341bd]: Modification: [S. 415](https://www.legislation.gov.uk/ukpga/2020/17/section/415): power extended (11.7.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 99(7)](https://www.legislation.gov.uk/ukpga/2023/32/section/99/7), [100(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97))
+[^c-bc02f2193397226659b73f3999a341bd]: Modification: [S. 415](https://www.legislation.gov.uk/ukpga/2020/17/section/415): power extended (11.7.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 99(7)](https://www.legislation.gov.uk/ukpga/2023/32/section/99/7), [100(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97))
 
-[^key-da7f7e4089bd8b622b6bd5dce0e3fc72]: Textual amendment: [S. 415(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/415/7) inserted (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/17/5), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)
+[^c-da7f7e4089bd8b622b6bd5dce0e3fc72]: Textual amendment: [S. 415(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/415/7) inserted (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/17/5), [24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)

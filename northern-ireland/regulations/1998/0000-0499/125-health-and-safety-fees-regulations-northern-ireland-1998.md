@@ -40,27 +40,27 @@ Coming into operation
 
 The Department of Economic Development[^f00001], in exercise of the powers conferred on it by Articles 49 and 55(2) of the Health and Safety at Work (Northern Ireland) Order 1978[^f00002] (“the 1978 Order”) and, being the Department concerned[^f00003], in exercise of the powers conferred on it by Articles 40(2) and (4) and 55(2) of the 1978 Order and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of the 1978 Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-311feaaa588226875cda1fe2a181e96a]
+## 1. Citation, commencement and interpretation[^c-311feaaa588226875cda1fe2a181e96a]
 
 (1) These Regulations may be cited as the Health and Safety (Fees) Regulations (Northern Ireland) 1998 and shall come into operation on 5th May 1998.
 
 (2) In these Regulations—
 
 - “employment medical adviser” means an employment medical adviser appointed under Article 48(3) of the 1978 Order; and
-- “the Executive” means the Health and Safety Executive for Northern Ireland;[^key-a97d638ccaba5808c5d18453a950a5e0]
+- “the Executive” means the Health and Safety Executive for Northern Ireland;[^c-a97d638ccaba5808c5d18453a950a5e0]
 - “renewal of licence” means the granting of a licence to follow a previous licence without any amendment or gap in time.
 
-## 2. Fees payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^key-8ebb0dff44de6e0a7f131e4df6bbad3b]
+## 2. Fees payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^c-8ebb0dff44de6e0a7f131e4df6bbad3b]
 
 The fee payable under each provision specified in column 1 of Schedule 1 for the purpose described in the corresponding entry in column 2 shall be that specified in the corresponding entry in column 3 of that Schedule.
 
-## 3. Date from which fees are payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^key-d84b2044e2f5ae275e214e5f9648aceb]
+## 3. Date from which fees are payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^c-d84b2044e2f5ae275e214e5f9648aceb]
 
 Notwithstanding the provisions of section 4 of the Petroleum (Consolidation) Act (Northern Ireland) 1929[^f00004] or section 1(4) of the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^f00005], the fees specified in Schedule 1 shall be payable for any petroleum-spirit licence first having effect or any transfer or renewal of a licence first taking effect on or after the date of the coming into operation of these Regulations irrespective of the date of the application for that licence, transfer or renewal.
 
-## 4. Fees payable for medical examination or surveillance by an employment medical adviser[^key-de416426b1d1b19da8b21db443ed3aa4]
+## 4. Fees payable for medical examination or surveillance by an employment medical adviser[^c-de416426b1d1b19da8b21db443ed3aa4]
 
-(1) A fee shall be payable to the Executive[^key-09cb3a723b1477134b822502a13d2daa] by an employer in respect of a medical examination or medical surveillance of each of his employees by an employment medical adviser for the purposes of any provision specified in column 1 of Schedule 2.
+(1) A fee shall be payable to the Executive[^c-09cb3a723b1477134b822502a13d2daa] by an employer in respect of a medical examination or medical surveillance of each of his employees by an employment medical adviser for the purposes of any provision specified in column 1 of Schedule 2.
 
 (2) The fee payable under paragraph (1) shall be a basic fee for each examination or on each occasion when the surveillance is carried out together with additional fees for X-rays and laboratory tests where these are taken or carried out in connection with the examination or surveillance.
 
@@ -70,47 +70,47 @@ Notwithstanding the provisions of section 4 of the Petroleum (Consolidation) Act
 - (b) the additional fee for X-rays shall be the amount specified in column 4 of that Schedule for that provision and shall cover all X-rays taken in connection with any one examination or any one occasion when surveillance is carried out;
 - (c) the additional fee for laboratory tests shall be the amount specified in column 5 of that Schedule for that provision and shall cover all such tests carried out in connection with any one examination or any one occasion when surveillance is carried out.
 
-(4) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the Control of Asbestos at Work Regulations (Northern Ireland) 1988[^f00006], that self-employed person shall pay to the Executive[^key-873ef3af41a24f6f41cfa57200b116c2] fees ascertained in accordance with paragraphs (2) and (3).
+(4) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the Control of Asbestos at Work Regulations (Northern Ireland) 1988[^f00006], that self-employed person shall pay to the Executive[^c-873ef3af41a24f6f41cfa57200b116c2] fees ascertained in accordance with paragraphs (2) and (3).
 
-## 5. Fees payable for medical surveillance by an employment medical adviser under the Ionising Radiations Regulations (Northern Ireland) 1985[^key-aded99b76255748a727ba7bbd1859257]
+## 5. Fees payable for medical surveillance by an employment medical adviser under the Ionising Radiations Regulations (Northern Ireland) 1985[^c-aded99b76255748a727ba7bbd1859257]
 
-(1) Fees shall be payable in accordance with paragraphs (2) and (3) by an employer to the Executive[^key-c4fb508597b118b288fde8537b1eab98] in respect of medical surveillance of any of his employees by an employment medical adviser for the purposes of the Ionising Radiations Regulations (Northern Ireland) 1985[^f00007].
+(1) Fees shall be payable in accordance with paragraphs (2) and (3) by an employer to the Executive[^c-c4fb508597b118b288fde8537b1eab98] in respect of medical surveillance of any of his employees by an employment medical adviser for the purposes of the Ionising Radiations Regulations (Northern Ireland) 1985[^f00007].
 
 (2) Subject to paragraph (3), where the medical surveillance includes an examination of, or interview with, the employee, the fee shall be a basic fee for each examination or interview or combination thereof of £42 together with an additional fee of £47 in respect of all X-rays taken, and £28 in respect of all laboratory tests carried out, in connection with any one such examination or interview or combination thereof.
 
 (3) Where the medical surveillance is confined to an examination of, and making of entries in, records, the fee shall be £26.
 
-## 6. Fees payable for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^key-e32d972dd885509dbc4621dd94a4856f]
+## 6. Fees payable for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^c-e32d972dd885509dbc4621dd94a4856f]
 
-(1) Fees shall be payable in accordance with paragraph (2) by an employer to the Executive[^key-c844d65de0138a173707697394860819] in respect of medical surveillance of any of his employees by an employment medical adviser for the purposes of the Control of Lead at Work Regulations (Northern Ireland) 1986[^f00008].
+(1) Fees shall be payable in accordance with paragraph (2) by an employer to the Executive[^c-c844d65de0138a173707697394860819] in respect of medical surveillance of any of his employees by an employment medical adviser for the purposes of the Control of Lead at Work Regulations (Northern Ireland) 1986[^f00008].
 
 (2) The fee payable for each item described in column 1 of Schedule 3 shall be that specified in the corresponding entry in column 2 of that Schedule.
 
-## 7. Fee payable on application for a licence under the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^key-8fc1b58b6a168bb1250a2cca9cb90b65]
+## 7. Fee payable on application for a licence under the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^c-8fc1b58b6a168bb1250a2cca9cb90b65]
 
-(1) A fee shall be payable by the applicant to the Executive[^key-76ee3b5420443f3cafcf88c4a8434da2] on each application for a licence under the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^f00009].
+(1) A fee shall be payable by the applicant to the Executive[^c-76ee3b5420443f3cafcf88c4a8434da2] on each application for a licence under the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^f00009].
 
 (2) The fee payable on application for a licence described in column 1 of Schedule 4 shall be that specified in column 2 of that Schedule.
 
-## 8. Fee payable on application for approval under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^key-7b8a3df54773452d7ce6a690be41818a]
+## 8. Fee payable on application for approval under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^c-7b8a3df54773452d7ce6a690be41818a]
 
-(1) A fee shall be payable by the applicant to the Executive[^key-551349e9f4322d7dfb1dd71310d05fa8] on each application for approval of a scheme or programme for examination of containers under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^f00010].
+(1) A fee shall be payable by the applicant to the Executive[^c-551349e9f4322d7dfb1dd71310d05fa8] on each application for approval of a scheme or programme for examination of containers under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^f00010].
 
 (2) The fee payable on application for the approval described in column 1 of Schedule 5 shall be that specified in column 2 of that Schedule.
 
-## 9. Fees associated with notifications and applications under the Notification of New Substances Regulations (Northern Ireland) 1994[^key-5b5db7ec4ac8ffa4caadb1a8dde48bcf]
+## 9. Fees associated with notifications and applications under the Notification of New Substances Regulations (Northern Ireland) 1994[^c-5b5db7ec4ac8ffa4caadb1a8dde48bcf]
 
-(1) The fee fixed by column 2 of Schedule 6 shall be payable by a notifier to the Executive[^key-c4ed03aab9951d0208630b6809b3efea] on each such notification or application under the Notification of New Substances Regulations (Northern Ireland) 1994[^f00011] as is referred to in the corresponding entry in column 1 of that Schedule.
+(1) The fee fixed by column 2 of Schedule 6 shall be payable by a notifier to the Executive[^c-c4ed03aab9951d0208630b6809b3efea] on each such notification or application under the Notification of New Substances Regulations (Northern Ireland) 1994[^f00011] as is referred to in the corresponding entry in column 1 of that Schedule.
 
 (2) The Executive shall repay to the notifier the amount of any rebate due to the notifier in the circumstances described in Schedule 6.
 
-## 10. Fees associated with notifications under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^key-b4ab2d21b23023ec573fd9b020c8135e]
+## 10. Fees associated with notifications under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^c-b4ab2d21b23023ec573fd9b020c8135e]
 
-(1) A fee shall be payable by a notifier to the Executive[^key-18ea64bc8f81e8429380ba45764863c6] on each notification of the intention to use premises for activities involving genetic modification for the first time and of individual activities involving genetic modification under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^f00012].
+(1) A fee shall be payable by a notifier to the Executive[^c-18ea64bc8f81e8429380ba45764863c6] on each notification of the intention to use premises for activities involving genetic modification for the first time and of individual activities involving genetic modification under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^f00012].
 
 (2) The fee payable for each notification described in column 1 of Schedule 7 shall be that specified in the corresponding entry in column 2 of that Schedule.
 
-## 11. Fee payable for vocational training certificates under the Carriage of Dangerous Goods by Road (Driver Training) Regulations (Northern Ireland) 1997[^key-a5e27bc3ecb6969cf019d0a8b68f0b71]
+## 11. Fee payable for vocational training certificates under the Carriage of Dangerous Goods by Road (Driver Training) Regulations (Northern Ireland) 1997[^c-a5e27bc3ecb6969cf019d0a8b68f0b71]
 
 (1) A driver may only be issued with a vocational training certificate in accordance with paragraph (1) of regulation 4 of the Carriage of Dangerous Goods by Road (Driver Training) Regulations (Northern Ireland) 1997[^f00013] where a fee of the sum specified in Schedule 8 has been paid to the Secretary of State.
 
@@ -118,7 +118,7 @@ Notwithstanding the provisions of section 4 of the Petroleum (Consolidation) Act
 
 (3) Nothing in this regulation shall be construed as making a fee payable by a person in any of the capacities specified in Article 40(4) of the 1978 Order.
 
-## 12. Revocations[^key-ec1bd8ded88aa30393846f96429c4d9a]
+## 12. Revocations[^c-ec1bd8ded88aa30393846f96429c4d9a]
 
 (1) The Regulations specified in column 1 of Schedule 9 are hereby revoked to the extent specified in the corresponding entry in column 3 of that Schedule.
 
@@ -134,7 +134,7 @@ Assistant Secretary
 
 26th March 1998.
 
-## SCHEDULE 1 — Fees relating to applications for petroleum-spirit licences[^key-25fc67e6d7e1f62d4ed9f8c85ca261ea]
+## SCHEDULE 1 — Fees relating to applications for petroleum-spirit licences[^c-25fc67e6d7e1f62d4ed9f8c85ca261ea]
 
 Regulation 2
 
@@ -157,7 +157,7 @@ Regulation 2
 </tbody>
 </table>
 
-## SCHEDULE 2 — Fees payable for medical examination or surveillance by an employment medical adviser[^key-d41f3c8fe67a48cd1b3dc590e819e44b]
+## SCHEDULE 2 — Fees payable for medical examination or surveillance by an employment medical adviser[^c-d41f3c8fe67a48cd1b3dc590e819e44b]
 
 Regulation 4
 
@@ -174,7 +174,7 @@ Regulation 4
 </tbody>
 </table>
 
-## SCHEDULE 3 — Fees payable for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^key-065036cb672f5f10b6d78ba67f01bf24]
+## SCHEDULE 3 — Fees payable for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 1986[^c-065036cb672f5f10b6d78ba67f01bf24]
 
 Regulation 6
 
@@ -190,7 +190,7 @@ Regulation 6
 </tbody>
 </table>
 
-## SCHEDULE 4 — Fee payable on application for a licence under the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^key-88b9148b95dce5b619a2acd62fd93921]
+## SCHEDULE 4 — Fee payable on application for a licence under the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^c-88b9148b95dce5b619a2acd62fd93921]
 
 Regulation 7
 
@@ -204,7 +204,7 @@ Regulation 7
 </tbody>
 </table>
 
-## SCHEDULE 5 — Fee payable on application for approval under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^key-fa997a02c18392b529823a7655a53d2e]
+## SCHEDULE 5 — Fee payable on application for approval under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^c-fa997a02c18392b529823a7655a53d2e]
 
 Regulation 8
 
@@ -218,7 +218,7 @@ Regulation 8
 </tbody>
 </table>
 
-## SCHEDULE 6 — Fees associated with notifications and applications under the Notification of New Substances Regulations (Northern Ireland) 1994[^key-90d0d094e95b392973cd939659d22e74]
+## SCHEDULE 6 — Fees associated with notifications and applications under the Notification of New Substances Regulations (Northern Ireland) 1994[^c-90d0d094e95b392973cd939659d22e74]
 
 Regulation 9
 
@@ -240,7 +240,7 @@ Regulation 9
 </tbody>
 </table>
 
-## SCHEDULE 7 — Fees associated with notifications under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^key-f3e59eaa89a05229cae62b14dbc915d6]
+## SCHEDULE 7 — Fees associated with notifications under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^c-f3e59eaa89a05229cae62b14dbc915d6]
 
 Regulation 10
 
@@ -257,7 +257,7 @@ Regulation 10
 </tbody>
 </table>
 
-## SCHEDULE 8 — Fee payable for vocational training certificates under the Carriage of Dangerous Goods by Road (Driver Training) Regulations (Northern Ireland) 1997[^key-09278bfa574ebd0882f6f3df2da5f86e]
+## SCHEDULE 8 — Fee payable for vocational training certificates under the Carriage of Dangerous Goods by Road (Driver Training) Regulations (Northern Ireland) 1997[^c-09278bfa574ebd0882f6f3df2da5f86e]
 
 Regulation 11
 
@@ -271,7 +271,7 @@ Regulation 11
 </tbody>
 </table>
 
-## SCHEDULE 9 — Revocations[^key-6249fa093ef3977499ca2bef9135f70e]
+## SCHEDULE 9 — Revocations[^c-6249fa093ef3977499ca2bef9135f70e]
 
 Regulation 12
 
@@ -351,84 +351,84 @@ Regulation 12
 
 [^f00003]: Footnote: *See* Article 2(2) of [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
-[^key-311feaaa588226875cda1fe2a181e96a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/125/regulation/1) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-311feaaa588226875cda1fe2a181e96a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/125/regulation/1) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-a97d638ccaba5808c5d18453a950a5e0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/2) inserted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-a97d638ccaba5808c5d18453a950a5e0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/2) inserted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
-[^key-8ebb0dff44de6e0a7f131e4df6bbad3b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/125/regulation/2) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-8ebb0dff44de6e0a7f131e4df6bbad3b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/125/regulation/2) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-d84b2044e2f5ae275e214e5f9648aceb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/125/regulation/3) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-d84b2044e2f5ae275e214e5f9648aceb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/125/regulation/3) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
 [^f00004]: Footnote: [1929 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13); section 4 was amended by [S.R. 1992 No. 396](https://www.legislation.gov.uk/nisr/1992/396)
 
 [^f00005]: Footnote: [1937 c. 4 (N.I.)](https://www.legislation.gov.uk/apni/1937/4) (1 Edw. 8 & 1 Geo. 6); section 1(4) was amended by [S.R. 1992 No. 396](https://www.legislation.gov.uk/nisr/1992/396)
 
-[^key-de416426b1d1b19da8b21db443ed3aa4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/125/regulation/4) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-de416426b1d1b19da8b21db443ed3aa4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/125/regulation/4) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-09cb3a723b1477134b822502a13d2daa]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/4/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-09cb3a723b1477134b822502a13d2daa]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/4/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00006]: Footnote: [S.R. 1988 No. 74](https://www.legislation.gov.uk/nisr/1988/74), as amended by [S.R. 1993 No. 26](https://www.legislation.gov.uk/nisr/1993/26)
 
-[^key-873ef3af41a24f6f41cfa57200b116c2]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/1998/125/regulation/4/4) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-873ef3af41a24f6f41cfa57200b116c2]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/nisr/1998/125/regulation/4/4) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
-[^key-aded99b76255748a727ba7bbd1859257]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/125/regulation/5) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-aded99b76255748a727ba7bbd1859257]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/125/regulation/5) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-c4fb508597b118b288fde8537b1eab98]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/5/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-c4fb508597b118b288fde8537b1eab98]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/5/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00007]: Footnote: [S.R. 1985 No. 273](https://www.legislation.gov.uk/nisr/1985/273)
 
-[^key-e32d972dd885509dbc4621dd94a4856f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/125/regulation/6) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-e32d972dd885509dbc4621dd94a4856f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/125/regulation/6) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-c844d65de0138a173707697394860819]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/6/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-c844d65de0138a173707697394860819]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/6/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00008]: Footnote: [S.R. 1986 No. 36](https://www.legislation.gov.uk/nisr/1986/36), to which there are amendments not relevant to these Regulations
 
-[^key-8fc1b58b6a168bb1250a2cca9cb90b65]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/125/regulation/7) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-8fc1b58b6a168bb1250a2cca9cb90b65]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/125/regulation/7) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-76ee3b5420443f3cafcf88c4a8434da2]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/7/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-76ee3b5420443f3cafcf88c4a8434da2]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/7/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00009]: Footnote: [S.R. 1984 No. 205](https://www.legislation.gov.uk/nisr/1984/205); relevant amending Regulations are [S.R. 1991 No. 143](https://www.legislation.gov.uk/nisr/1991/143) and [S.R. 1997 No. 234](https://www.legislation.gov.uk/nisr/1997/234)
 
-[^key-7b8a3df54773452d7ce6a690be41818a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/125/regulation/8) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-7b8a3df54773452d7ce6a690be41818a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/125/regulation/8) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-551349e9f4322d7dfb1dd71310d05fa8]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/8/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-551349e9f4322d7dfb1dd71310d05fa8]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/8/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00010]: Footnote: [S.R. 1992 No. 2](https://www.legislation.gov.uk/nisr/1992/2)
 
-[^key-5b5db7ec4ac8ffa4caadb1a8dde48bcf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/125/regulation/9) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-5b5db7ec4ac8ffa4caadb1a8dde48bcf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/125/regulation/9) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-c4ed03aab9951d0208630b6809b3efea]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/1998/125/regulation/9) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-c4ed03aab9951d0208630b6809b3efea]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/1998/125/regulation/9) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00011]: Footnote: [S.R. 1994 No. 6](https://www.legislation.gov.uk/nisr/1994/6), to which the relevant amendment is [S.R. 1997 No. 234](https://www.legislation.gov.uk/nisr/1997/234), regulation 4 and Schedule
 
-[^key-b4ab2d21b23023ec573fd9b020c8135e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/125/regulation/10) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-b4ab2d21b23023ec573fd9b020c8135e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/125/regulation/10) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-18ea64bc8f81e8429380ba45764863c6]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/10/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
+[^c-18ea64bc8f81e8429380ba45764863c6]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/10/1) substituted (1.4.1999) by [Health and Safety (Modifications) Regulations (Northern Ireland) 1999 (S.R. 1999/150)](https://www.legislation.gov.uk/nisr/1999/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/150/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/150/regulation/3))
 
 [^f00012]: Footnote: [S.R. 1994 No. 143](https://www.legislation.gov.uk/nisr/1994/143); the relevant amending Regulations are [S.R. 1996 No. 250](https://www.legislation.gov.uk/nisr/1996/250) and [S.R. 1997 No. 234](https://www.legislation.gov.uk/nisr/1997/234), regulation 5
 
-[^key-a5e27bc3ecb6969cf019d0a8b68f0b71]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/125/regulation/11) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-a5e27bc3ecb6969cf019d0a8b68f0b71]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/125/regulation/11) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1997 No. 249](https://www.legislation.gov.uk/nisr/1997/249)
 
-[^key-ec1bd8ded88aa30393846f96429c4d9a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/125/regulation/12) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-ec1bd8ded88aa30393846f96429c4d9a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/125/regulation/12) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1997 No. 225](https://www.legislation.gov.uk/nisr/1997/225)
 
-[^key-25fc67e6d7e1f62d4ed9f8c85ca261ea]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1998/125/schedule/1) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-25fc67e6d7e1f62d4ed9f8c85ca261ea]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1998/125/schedule/1) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-d41f3c8fe67a48cd1b3dc590e819e44b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1998/125/schedule/2) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-d41f3c8fe67a48cd1b3dc590e819e44b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1998/125/schedule/2) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-065036cb672f5f10b6d78ba67f01bf24]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/1998/125/schedule/3) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-065036cb672f5f10b6d78ba67f01bf24]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/1998/125/schedule/3) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-88b9148b95dce5b619a2acd62fd93921]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/1998/125/schedule/4) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-88b9148b95dce5b619a2acd62fd93921]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/1998/125/schedule/4) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-fa997a02c18392b529823a7655a53d2e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/1998/125/schedule/5) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-fa997a02c18392b529823a7655a53d2e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/1998/125/schedule/5) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-90d0d094e95b392973cd939659d22e74]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/1998/125/schedule/6) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-90d0d094e95b392973cd939659d22e74]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/1998/125/schedule/6) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-f3e59eaa89a05229cae62b14dbc915d6]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/1998/125/schedule/7) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-f3e59eaa89a05229cae62b14dbc915d6]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/1998/125/schedule/7) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-09278bfa574ebd0882f6f3df2da5f86e]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/1998/125/schedule/8) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-09278bfa574ebd0882f6f3df2da5f86e]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/1998/125/schedule/8) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
 
-[^key-6249fa093ef3977499ca2bef9135f70e]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/1998/125/schedule/9) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)
+[^c-6249fa093ef3977499ca2bef9135f70e]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/1998/125/schedule/9) in operation at 5.5.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/125/regulation/1/1)

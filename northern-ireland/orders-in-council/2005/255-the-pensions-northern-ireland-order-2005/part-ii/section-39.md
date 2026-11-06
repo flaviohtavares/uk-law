@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Financial support directions[^c17103081][^key-5b1497955c7897ab19b1fa3c32066701]
+## 39. Financial support directions[^c17103081][^c-5b1497955c7897ab19b1fa3c32066701]
 
 *Extent: N.I.*
 
@@ -63,20 +63,20 @@ at a time determined by the Regulator which falls within paragraph (9) ( “the 
 
 (8) A financial support direction must identify all the persons to whom the direction is issued.
 
-(9) A time falls within this paragraph if it is a time which falls within a prescribed period which ends with the giving of a warning notice in respect of[^key-a6ce9126a74d0f91f3e6f9a64f548849] the financial support direction in question.
+(9) A time falls within this paragraph if it is a time which falls within a prescribed period which ends with the giving of a warning notice in respect of[^c-a6ce9126a74d0f91f3e6f9a64f548849] the financial support direction in question.
 
 (10) For the purposes of paragraph (3), a scheme is in existence until it is wound up.
 
 (11) Subject to Article 283 (protected items), no duty to which a person is subject is to be regarded as contravened merely because of any information or opinion contained in a notice given by virtue of paragraph (3)(c).
 
-(12)[^key-668fed736aabdd8125a8e1c683a295b8] In this Article “ **a warning notice** ” means a notice given as mentioned in Article 91(2)(a).
+(12)[^c-668fed736aabdd8125a8e1c683a295b8] In this Article “ **a warning notice** ” means a notice given as mentioned in Article 91(2)(a).
 
 ## Annotations
 
 [^c17103081]: Textual amendment: mod. by SR 2005/378
 
-[^key-5b1497955c7897ab19b1fa3c32066701]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/2005/255/article/39) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/14/4)
+[^c-5b1497955c7897ab19b1fa3c32066701]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/2005/255/article/39) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/14/4)
 
-[^key-a6ce9126a74d0f91f3e6f9a64f548849]: Textual amendment: Words in art. 39(9) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 24(5)](https://www.legislation.gov.uk/nia/2012/3/section/24/5), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)
+[^c-a6ce9126a74d0f91f3e6f9a64f548849]: Textual amendment: Words in art. 39(9) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 24(5)](https://www.legislation.gov.uk/nia/2012/3/section/24/5), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)
 
-[^key-668fed736aabdd8125a8e1c683a295b8]: Textual amendment: Art. 39(12) added (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 24(6)](https://www.legislation.gov.uk/nia/2012/3/section/24/6), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)
+[^c-668fed736aabdd8125a8e1c683a295b8]: Textual amendment: Art. 39(12) added (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 24(6)](https://www.legislation.gov.uk/nia/2012/3/section/24/6), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/g)

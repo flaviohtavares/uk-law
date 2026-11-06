@@ -82,7 +82,7 @@ summary: ''
 - (f) explosives falling within the scope of Council Directive [93/15/EEC](https://www.legislation.gov.uk/european/directive/1993/0015) on the harmonization of the use of the provisions relating to the placing on the market of explosives for civil uses [^V_NI_ec5ad7ef-5747-b3ea-7bfb-8b1206bd19be];
 - (g) projectiles and propelling charges and blank ammunition used in portable firearms, other guns and artillery; and
 - (h) fireworks which—
-  - (i) are built by a manufacturer established in Northern Ireland[^key-c7c0b6ce41311793d4da67fa5abc924a];
+  - (i) are built by a manufacturer established in Northern Ireland[^c-c7c0b6ce41311793d4da67fa5abc924a];
   - (ii) are built for the manufacturer's own use; and
   - (iii) comply with the law applicable to such fireworks (excluding these Regulations).
 
@@ -108,4 +108,4 @@ summary: ''
 
 [^V_NI_ec5ad7ef-5747-b3ea-7bfb-8b1206bd19be]: Textual amendment: OJ L 121, 15.5.1993, p. 20.
 
-[^key-c7c0b6ce41311793d4da67fa5abc924a]: Textual amendment: Words in [reg. 3(2)(h)(i)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/3/2/h/i) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/7/paragraph/2/3)
+[^c-c7c0b6ce41311793d4da67fa5abc924a]: Textual amendment: Words in [reg. 3(2)(h)(i)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/3/2/h/i) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/7/paragraph/2/3)

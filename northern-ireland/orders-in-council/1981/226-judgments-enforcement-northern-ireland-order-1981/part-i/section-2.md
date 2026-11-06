@@ -27,7 +27,7 @@ summary: ''
 - “administration order” has the meaning given by Article 80;
 - “amount due on foot of a judgment” means the outstanding balance of all moneys due and payable under the judgment at the date when application is made under Article 22 to enforce the judgment;
 - “amount recoverable on foot of a judgment” means the amount recoverable under Article 126;
-- [^key-5baad6a3f6c0389b9c08dcee583673cf]...
+- [^c-5baad6a3f6c0389b9c08dcee583673cf]...
 - “assignees in bankruptcy” has the same meaning as in the Bankruptcy Acts (Northern Ireland) 1857 to 1980;
 - “attachment of earnings order” in Articles 73 to 79 means an order under Article 73, in Articles 97 to 105 means an order under Article 99 and elsewhere, unless the context otherwise requires, means an order under Article 73 or Article 99;
 - “bankrupt” has the same meaning as in the Bankruptcy Acts (Northern Ireland) 1857 to 1980;
@@ -90,7 +90,7 @@ summary: ''
 
 [^m00001]: Marginal citation: 1954 c.33
 
-[^key-5baad6a3f6c0389b9c08dcee583673cf]: Textual amendment: Art. 2(2): definition of " appropriate county court" repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-5baad6a3f6c0389b9c08dcee583673cf]: Textual amendment: Art. 2(2): definition of " appropriate county court" repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c22018291]: Textual amendment: Art. 2(2): words in the definition of "the Chief Enforcement Officer" substituted (12.4.2010) by [Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 4](https://www.legislation.gov.uk/nisr/2010/133/article/4), [Sch. para. 14(2)(a)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/14/2/a) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 

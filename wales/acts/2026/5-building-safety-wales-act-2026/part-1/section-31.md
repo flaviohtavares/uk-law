@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Timing and review of fire risk assessments[^key-3ad0db46fb3c2975449964c951b54a4b]
+## 31. Timing and review of fire risk assessments[^c-3ad0db46fb3c2975449964c951b54a4b]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad0db46fb3c2975449964c951b54a4b]: Commencement: S. 31 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-3ad0db46fb3c2975449964c951b54a4b]: Commencement: S. 31 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Extent[^key-415a873fb75a1a0b4fa0be7819e7877b]
+## 3. Extent[^c-415a873fb75a1a0b4fa0be7819e7877b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules extend to Scotland only.
 
 ## Annotations
 
-[^key-415a873fb75a1a0b4fa0be7819e7877b]: Commencement: Rule 3 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-415a873fb75a1a0b4fa0be7819e7877b]: Commencement: Rule 3 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

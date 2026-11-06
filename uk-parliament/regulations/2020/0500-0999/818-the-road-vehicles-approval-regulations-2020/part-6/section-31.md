@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Transitional provision: national small series type approval of vehicles over 4m in height[^key-a0fbd528babb5e2449fe65e98bfb5ac9]
+## 31. Transitional provision: national small series type approval of vehicles over 4m in height[^c-a0fbd528babb5e2449fe65e98bfb5ac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ Maximum permitted number
 
 ## Annotations
 
-[^key-a0fbd528babb5e2449fe65e98bfb5ac9]: Commencement: Reg. 31 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-a0fbd528babb5e2449fe65e98bfb5ac9]: Commencement: Reg. 31 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)

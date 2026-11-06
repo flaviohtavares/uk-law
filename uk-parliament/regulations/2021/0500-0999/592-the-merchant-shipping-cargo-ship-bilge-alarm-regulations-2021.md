@@ -49,13 +49,13 @@ Coming into force
 
 The Secretary of State in exercise of the powers conferred by sections 85(1), (3)(a), (d) and (f), (6) and (7) and 86(1) of the Merchant Shipping Act 1995[^f00001], and having consulted the persons referred to in section 86(4) of that Act, makes the following Regulations.
 
-## 1. Citation. commencement and extent[^key-26aadcdf8c099528236ab41b89844af8]
+## 1. Citation. commencement and extent[^c-26aadcdf8c099528236ab41b89844af8]
 
 (1) These Regulations may be cited as the Merchant Shipping (Cargo Ship) (Bilge Alarm) Regulations 2021 and come into force on 30th June 2021.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-34b86d3f6883b45ef5fc347f000dbf55]
+## 2. Interpretation[^c-34b86d3f6883b45ef5fc347f000dbf55]
 
 In these Regulations—
 
@@ -79,7 +79,7 @@ In these Regulations—
 
     where, in the case of any vessel referred to in paragraphs (a) or (b) no other payments are made by or on behalf of the users of the vessel, other than by the owner; and in this definition “immediate family” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the relative’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant.
 
-## 3. Application[^key-6c275f657fce23d3411ce78241fdc15a]
+## 3. Application[^c-6c275f657fce23d3411ce78241fdc15a]
 
 (1) Subject to paragraph (2), these Regulations apply to—
 
@@ -98,9 +98,9 @@ In these Regulations—
 - “gross tons” means the gross tonnage of a ship determined in accordance with the Schedule (Gross Tonnage);
 - “length” has the same meaning as in regulation 2 of the Merchant Shipping (Load Line) Regulations 1998[^f00002].
 
-## 4. Bilge water level detectors and alarms[^key-a00b70bfb70ba067701f4c5399e339a6]
+## 4. Bilge water level detectors and alarms[^c-a00b70bfb70ba067701f4c5399e339a6]
 
-(1) A ship to which these Regulations apply must, from[^key-2650f113cffecf481d7fc3e6d6412d83] its effective date, have a bilge water level detector installed in—
+(1) A ship to which these Regulations apply must, from[^c-2650f113cffecf481d7fc3e6d6412d83] its effective date, have a bilge water level detector installed in—
 
 - (a) any engine room; and
 - (b) any other space where bilge water is likely to accumulate.
@@ -128,7 +128,7 @@ in all of the weather and operational conditions reasonably anticipated to be ap
 - “bilge water level detector” means a device which detects the level of bilge water in the bilge;
 - “control position” means the area from which the command and navigation of the ship is carried out;
 - “effective date” means—
-  - (a) 29th March 2023, in the case of a new ship first launched on or before that date, and, in the case of a new ship first launched after that date, the date on which the ship is first launched; and[^key-bfbdd5fbcc010febfbfaf67edb6471b7]
+  - (a) 29th March 2023, in the case of a new ship first launched on or before that date, and, in the case of a new ship first launched after that date, the date on which the ship is first launched; and[^c-bfbdd5fbcc010febfbfaf67edb6471b7]
   - (b) in the case of any other ship to which these Regulations apply, the first anniversary of the date that these Regulations come into force;
 - “new ship” means a ship the keel of which is laid, or which is at a similar stage of construction, on or after the date on which these Regulations come into force;
 - “relevant level” means a level of bilge water that—
@@ -138,7 +138,7 @@ in all of the weather and operational conditions reasonably anticipated to be ap
   - (a) construction identifiable with a particular ship begins; and
   - (b) assembly of that ship has commenced comprising at least 50 tonnes or one per cent of the estimated mass of all structural material, whichever is the less.
 
-## 5. Exemptions[^key-a0e98f18bb6a774f3bd3992f21caffa8]
+## 5. Exemptions[^c-a0e98f18bb6a774f3bd3992f21caffa8]
 
 (1) The Secretary of State may grant exemptions from all or any of the requirements of these Regulations (as may be specified in the exemption) for individual cases or classes of case on such terms (if any) as the Secretary of State may specify if satisfied that—
 
@@ -155,7 +155,7 @@ in all of the weather and operational conditions reasonably anticipated to be ap
 
 (4) In this regulation “in writing” includes the provision of such communication by electronic mail, facsimile or similar means which is capable of producing a document containing the text of any communication.
 
-## 6. Offence and penalties[^key-baafda900ad1809ab085ffa3d5e5495f]
+## 6. Offence and penalties[^c-baafda900ad1809ab085ffa3d5e5495f]
 
 (1) If a ship to which these Regulations apply does not meet the requirements of regulation 4, each of the owner, manager, demise charterer and master of that ship will, in respect of each case of non-compliance, be guilty of an offence.
 
@@ -168,7 +168,7 @@ in all of the weather and operational conditions reasonably anticipated to be ap
 
 (3) In any proceedings for an offence under these Regulations it is a defence for the defendant to show that all reasonable steps had been taken by the defendant to ensure compliance with these Regulations.
 
-## 7. Detention[^key-1da9c354c1528b41455e2867de3d1db7]
+## 7. Detention[^c-1da9c354c1528b41455e2867de3d1db7]
 
 (1) A ship that does not meet the requirements of regulation 4 is liable to be detained until it complies.
 
@@ -186,33 +186,33 @@ Department for Transport
 
 Regulation 3
 
-**1.**[^key-ec61b80cc96553e2dccaf26d4545f679] The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 and 4, and the “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 5 to 7.
+**1.**[^c-ec61b80cc96553e2dccaf26d4545f679] The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 and 4, and the “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 5 to 7.
 
-**2.**[^key-d3ce24d97d4242919a0f5e93ec502ec8] In this Schedule—
+**2.**[^c-d3ce24d97d4242919a0f5e93ec502ec8] In this Schedule—
 
 - “the 1997 Regulations” means the Merchant Shipping (Tonnage) Regulations 1997[^f00004];
 - “length” has the same meaning as in the 1997 Regulations; and
 - “the Tonnage Convention” means the International Convention on Tonnage Measurement of Ships, 1969[^f00005].
 
-### 3. United Kingdom ships[^key-90f717e4f09012201ad5955b55855092]
+### 3. United Kingdom ships[^c-90f717e4f09012201ad5955b55855092]
 
 In the case of a ship of 24 metres in length or over for which the Secretary of State permits the continuing use of a gross tonnage pursuant to regulation 12(1) (use of gross tonnage ascertained under previous Regulations) of the 1997 Regulations, the “gross tonnage” is the smaller of—
 
 - (a) the largest gross tonnage permitted for that ship pursuant to regulation 12(1) of the 1997 Regulations; and
 - (b) the gross tonnage of the ship determined in accordance with regulation 6 (gross tonnage) of the 1997 Regulations.
 
-**4.**[^key-8fad50fdb1148b7988a721b479a3c4a2] In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 (gross tonnage) of the 1997 Regulations.
+**4.**[^c-8fad50fdb1148b7988a721b479a3c4a2] In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 (gross tonnage) of the 1997 Regulations.
 
-### 5. Ships other than United Kingdom ships[^key-26151ca4af543c999f7657c6463e3326]
+### 5. Ships other than United Kingdom ships[^c-26151ca4af543c999f7657c6463e3326]
 
 Subject to paragraph 6, in the case of a ship which has a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is that gross tonnage.
 
-**6.**[^key-7f152f34f4fc4b0b2b9acaf060e87a6c] Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the ship’s flag State permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
+**6.**[^c-7f152f34f4fc4b0b2b9acaf060e87a6c] Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the ship’s flag State permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
 
 - (a) the largest gross tonnage permitted by the flag State to be used for that ship; and
 - (b) the gross tonnage determined in accordance with the Tonnage Convention.
 
-**7.**[^key-64464e230a7ed7fce27a896eeb83266e] In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the ship’s flag State, and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them.
+**7.**[^c-64464e230a7ed7fce27a896eeb83266e] In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the ship’s flag State, and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them.
 
 EXPLANATORY NOTE
 
@@ -236,42 +236,42 @@ An impact assessment of the effect this instrument will have on the costs of bus
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7, Part 1. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). There are other amendments to section 85 which are not relevant to these Regulations.
 
-[^key-26aadcdf8c099528236ab41b89844af8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/592/regulation/1) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-26aadcdf8c099528236ab41b89844af8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/592/regulation/1) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-34b86d3f6883b45ef5fc347f000dbf55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/592/regulation/2) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-34b86d3f6883b45ef5fc347f000dbf55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/592/regulation/2) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-6c275f657fce23d3411ce78241fdc15a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/592/regulation/3) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-6c275f657fce23d3411ce78241fdc15a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/592/regulation/3) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1998/2241](https://www.legislation.gov.uk/uksi/1998/2241). The definition of “length” was substituted by [S.I. 2000/1335](https://www.legislation.gov.uk/uksi/2000/1335).
 
-[^key-a00b70bfb70ba067701f4c5399e339a6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/592/regulation/4) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-a00b70bfb70ba067701f4c5399e339a6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/592/regulation/4) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-2650f113cffecf481d7fc3e6d6412d83]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/4/1) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/246/regulation/21/2/a)
+[^c-2650f113cffecf481d7fc3e6d6412d83]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/4/1) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/246/regulation/21/2/a)
 
-[^key-bfbdd5fbcc010febfbfaf67edb6471b7]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2021/592/regulation/4/6) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/246/regulation/21/2/b)
+[^c-bfbdd5fbcc010febfbfaf67edb6471b7]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2021/592/regulation/4/6) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/246/regulation/21/2/b)
 
-[^key-a0e98f18bb6a774f3bd3992f21caffa8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/592/regulation/5) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-a0e98f18bb6a774f3bd3992f21caffa8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/592/regulation/5) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-baafda900ad1809ab085ffa3d5e5495f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/592/regulation/6) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-baafda900ad1809ab085ffa3d5e5495f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/592/regulation/6) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-1da9c354c1528b41455e2867de3d1db7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/592/regulation/7) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-1da9c354c1528b41455e2867de3d1db7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/592/regulation/7) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
 [^f00003]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 5, and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), Schedule 4, Part 1, paragraph 27(1) and (15).
 
-[^key-ec61b80cc96553e2dccaf26d4545f679]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/1) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-ec61b80cc96553e2dccaf26d4545f679]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/1) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-d3ce24d97d4242919a0f5e93ec502ec8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/2) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-d3ce24d97d4242919a0f5e93ec502ec8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/2) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
 [^f00005]: Footnote: The Tonnage Convention was published by Cmnd. 4332 and subsequently in Cmnd. 8716. An electronic copy of the Tonnage Convention is available via the Foreign and Commonwealth office treaties database ( https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=68110). A hard copy of Cmnd. 8716 is available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW (catalogue number: HL/PO/JO/10/11/2156/147).
 
-[^key-90f717e4f09012201ad5955b55855092]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/3) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-90f717e4f09012201ad5955b55855092]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/3) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-8fad50fdb1148b7988a721b479a3c4a2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/4) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-8fad50fdb1148b7988a721b479a3c4a2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/4) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-26151ca4af543c999f7657c6463e3326]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/5) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-26151ca4af543c999f7657c6463e3326]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/5) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-7f152f34f4fc4b0b2b9acaf060e87a6c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/6) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-7f152f34f4fc4b0b2b9acaf060e87a6c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/6) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
 
-[^key-64464e230a7ed7fce27a896eeb83266e]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/7) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)
+[^c-64464e230a7ed7fce27a896eeb83266e]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2021/592/schedule/paragraph/7) in force at 30.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/592/regulation/1/1)

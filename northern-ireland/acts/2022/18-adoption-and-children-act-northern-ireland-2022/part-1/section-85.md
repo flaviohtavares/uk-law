@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Power to modify sections 82 and 84[^key-4aa3a24d32eb70e3d7097577126e587b]
+## 85. Power to modify sections 82 and 84[^c-4aa3a24d32eb70e3d7097577126e587b]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ and any prescribed conditions are met.
 
 ## Annotations
 
-[^key-4aa3a24d32eb70e3d7097577126e587b]: Commencement: S. 85 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-4aa3a24d32eb70e3d7097577126e587b]: Commencement: S. 85 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

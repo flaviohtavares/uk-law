@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13ZA. Article 13: further provision relating to specified state professionals[^key-df266e095dbfd39cffcfc7fef55a55e0]
+## 13ZA. Article 13: further provision relating to specified state professionals[^c-df266e095dbfd39cffcfc7fef55a55e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df266e095dbfd39cffcfc7fef55a55e0]: Textual amendment: [Art. 13ZA](https://www.legislation.gov.uk/uksi/2002/253/article/13ZA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 65](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/65)
+[^c-df266e095dbfd39cffcfc7fef55a55e0]: Textual amendment: [Art. 13ZA](https://www.legislation.gov.uk/uksi/2002/253/article/13ZA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 65](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/65)

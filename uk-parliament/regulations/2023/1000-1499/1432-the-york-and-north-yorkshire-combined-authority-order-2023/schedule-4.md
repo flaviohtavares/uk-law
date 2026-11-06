@@ -22,7 +22,7 @@ summary: ''
 
 Article 20(4)
 
-**1.**[^key-5f997d6a468746ff5672a7a01fa0f1c0] (1) Part 3 of the TM Act is modified as follows.
+**1.**[^c-5f997d6a468746ff5672a7a01fa0f1c0] (1) Part 3 of the TM Act is modified as follows.
 
 (2) Section 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England) has effect as if—
 
@@ -53,4 +53,4 @@ Article 20(4)
 
 ## Annotations
 
-[^key-5f997d6a468746ff5672a7a01fa0f1c0]: Commencement: Sch. 4 para. 1 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-5f997d6a468746ff5672a7a01fa0f1c0]: Commencement: Sch. 4 para. 1 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Cap for trading period[^key-7e63db665040482ddbf2bdf44c0bfd97]
+## 19. Cap for trading period[^c-7e63db665040482ddbf2bdf44c0bfd97]
 
 *Extent: E+W+S+N.I.*
 
 The number of allowances created in the trading period may not exceed the sum of—
 
-- (a) 633,116,297[^key-5dd60e74b3035debf2e84c4c2155b4cd] multiplied by the 2021-2025 hospital and small emitter reduction factor; and
-- (b) 312,248,470[^key-14e914aeeeb1d36a65071b2dddb58d3d] multiplied by the 2026-2030 hospital and small emitter reduction factor.
+- (a) 633,116,297[^c-5dd60e74b3035debf2e84c4c2155b4cd] multiplied by the 2021-2025 hospital and small emitter reduction factor; and
+- (b) 312,248,470[^c-14e914aeeeb1d36a65071b2dddb58d3d] multiplied by the 2026-2030 hospital and small emitter reduction factor.
 
 ## Annotations
 
-[^key-7e63db665040482ddbf2bdf44c0bfd97]: Commencement: Art. 19 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-7e63db665040482ddbf2bdf44c0bfd97]: Commencement: Art. 19 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-5dd60e74b3035debf2e84c4c2155b4cd]: Textual amendment: Sum in [art. 19(a)](https://www.legislation.gov.uk/uksi/2020/1265/article/19/a) substituted (19.12.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/c), [6(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/6/2)
+[^c-5dd60e74b3035debf2e84c4c2155b4cd]: Textual amendment: Sum in [art. 19(a)](https://www.legislation.gov.uk/uksi/2020/1265/article/19/a) substituted (19.12.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/c), [6(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/6/2)
 
-[^key-14e914aeeeb1d36a65071b2dddb58d3d]: Textual amendment: Sum in art. 19(b) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/6/2)
+[^c-14e914aeeeb1d36a65071b2dddb58d3d]: Textual amendment: Sum in art. 19(b) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/6/2)

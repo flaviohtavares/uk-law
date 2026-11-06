@@ -85,7 +85,7 @@ Section 62
 - (b) has ceased to be appropriate for the appointment because of considerations listed in paragraph 1(3),
 - (c) has, within the preceding nine months, failed to discharge the functions of his office for a continuous period of at least six months,
 - (d) has been convicted of an offence,
-- (e) is an undischarged bankrupt or a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^key-f72711d11fa932968ec031e56b63faf4], or
+- (e) is an undischarged bankrupt or a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986)[^c-f72711d11fa932968ec031e56b63faf4], or
 - (f) is otherwise unfit to hold his office or unable to discharge its functions.
 
 ### Salary, allowances and expenses
@@ -216,4 +216,4 @@ the Lord Chancellor may make to or in respect of him a payment of such amount as
 
 ## Annotations
 
-[^key-f72711d11fa932968ec031e56b63faf4]: Textual amendment: Words in [Sch. 13 para. 5(2)(e)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/13/paragraph/5/2/e) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 52(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/52/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-f72711d11fa932968ec031e56b63faf4]: Textual amendment: Words in [Sch. 13 para. 5(2)(e)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/13/paragraph/5/2/e) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 52(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/52/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

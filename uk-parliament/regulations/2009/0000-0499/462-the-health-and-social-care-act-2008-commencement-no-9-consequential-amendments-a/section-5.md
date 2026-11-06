@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Appointed day for minor and consequential amendments relating to Part 5 of the Act[^key-ed197d366024160f2b6ee1225ae4076d]
+## 5. Appointed day for minor and consequential amendments relating to Part 5 of the Act[^c-ed197d366024160f2b6ee1225ae4076d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed197d366024160f2b6ee1225ae4076d]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/462/article/5) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-ed197d366024160f2b6ee1225ae4076d]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/462/article/5) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

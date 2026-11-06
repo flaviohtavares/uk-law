@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food Labelling (Amendment No. 2) Regulations (Northern Ireland) 2004 (revoked)[^key-73390b889c42439ddb5c5db7699c0b2c]
+The Food Labelling (Amendment No. 2) Regulations (Northern Ireland) 2004 (revoked)[^c-73390b889c42439ddb5c5db7699c0b2c]
 
 Made
 
@@ -41,80 +41,80 @@ Coming into operation
 
 25th November 2004
 
-[^key-73390b889c42439ddb5c5db7699c0b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73390b889c42439ddb5c5db7699c0b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-73390b889c42439ddb5c5db7699c0b2c]
+## 1. Citation and commencement[^c-73390b889c42439ddb5c5db7699c0b2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-73390b889c42439ddb5c5db7699c0b2c]
+## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-73390b889c42439ddb5c5db7699c0b2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73390b889c42439ddb5c5db7699c0b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73390b889c42439ddb5c5db7699c0b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NEW SCHEDULE AA1 TO BE INSERTED IN THE FOOD LABELLING REGULATIONS (NORTHERN IRELAND) 1996[^key-73390b889c42439ddb5c5db7699c0b2c]
+## SCHEDULE — NEW SCHEDULE AA1 TO BE INSERTED IN THE FOOD LABELLING REGULATIONS (NORTHERN IRELAND) 1996[^c-73390b889c42439ddb5c5db7699c0b2c]
 
 Regulation 14
 
-> **SCHEDULE AA1 — ALLERGENIC INGREDIENTS[^key-73390b889c42439ddb5c5db7699c0b2c]**
+> **SCHEDULE AA1 — ALLERGENIC INGREDIENTS[^c-73390b889c42439ddb5c5db7699c0b2c]**
 >
 > Regulations 2(1) and 34B
 >
-> **1.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12.**[^key-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-73390b889c42439ddb5c5db7699c0b2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73390b889c42439ddb5c5db7699c0b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73390b889c42439ddb5c5db7699c0b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73390b889c42439ddb5c5db7699c0b2c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/469) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [Sch. 6 para. 15](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/15)
+[^c-73390b889c42439ddb5c5db7699c0b2c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/469) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [Sch. 6 para. 15](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/paragraph/15)

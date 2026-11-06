@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. The qualifying limitation[^key-da77fa3040efc80144dd3bfa25bab861]
+## 30. The qualifying limitation[^c-da77fa3040efc80144dd3bfa25bab861]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da77fa3040efc80144dd3bfa25bab861]: Textual amendment: Reg. 30 substituted (18.11.2009) by [The Hazardous Waste (Wales) (Amendment) Regulations 2009 (S.I. 2009/2861)](https://www.legislation.gov.uk/uksi/2009/2861), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2861/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2009/2861/regulation/11)
+[^c-da77fa3040efc80144dd3bfa25bab861]: Textual amendment: Reg. 30 substituted (18.11.2009) by [The Hazardous Waste (Wales) (Amendment) Regulations 2009 (S.I. 2009/2861)](https://www.legislation.gov.uk/uksi/2009/2861), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2861/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2009/2861/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Producing copies of documents[^key-3edd71be0c57be41bdd7645b8074e951]
+## 96. Producing copies of documents[^c-3edd71be0c57be41bdd7645b8074e951]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ as WRA may specify.
 
 ## Annotations
 
-[^key-3edd71be0c57be41bdd7645b8074e951]: Commencement: S. 96 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-3edd71be0c57be41bdd7645b8074e951]: Commencement: S. 96 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

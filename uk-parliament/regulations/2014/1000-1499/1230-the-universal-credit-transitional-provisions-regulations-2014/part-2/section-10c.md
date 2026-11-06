@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10C. Compensatory payment disregarded as capital[^key-b85f1ea096b74cef021094753d47cb85]
+## 10C. Compensatory payment disregarded as capital[^c-b85f1ea096b74cef021094753d47cb85]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the payment is to be disregarded from the calculation of the claimant’s capita
 
 ## Annotations
 
-[^key-b85f1ea096b74cef021094753d47cb85]: Textual amendment: Reg. 10C inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/618/regulation/9)
+[^c-b85f1ea096b74cef021094753d47cb85]: Textual amendment: Reg. 10C inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/618/regulation/9)

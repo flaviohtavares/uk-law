@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Verification, filing and statement of concurrence[^key-28f49d533d7bd67fba1c1ddead541067]
+## 21. Verification, filing and statement of concurrence[^c-28f49d533d7bd67fba1c1ddead541067]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28f49d533d7bd67fba1c1ddead541067]: Commencement: Rule 21 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-28f49d533d7bd67fba1c1ddead541067]: Commencement: Rule 21 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

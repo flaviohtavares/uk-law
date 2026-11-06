@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Meaning of “principal accountable person”[^key-232c852a2d11d8cc54c819aa37d4f35e]
+## 9. Meaning of “principal accountable person”[^c-232c852a2d11d8cc54c819aa37d4f35e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-232c852a2d11d8cc54c819aa37d4f35e]: Commencement: S. 9 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-232c852a2d11d8cc54c819aa37d4f35e]: Commencement: S. 9 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

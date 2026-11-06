@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Extension of jurisdiction of Employment Appeal Tribunal[^key-b148f9a10025466f16dbab4de98ae15a]
+## 38. Extension of jurisdiction of Employment Appeal Tribunal[^c-b148f9a10025466f16dbab4de98ae15a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ In section 21(1) of the Employment Tribunals Act 1996 (c. 17) (proceedings from 
 
 ## Annotations
 
-[^key-b148f9a10025466f16dbab4de98ae15a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/24/section/38) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a)
+[^c-b148f9a10025466f16dbab4de98ae15a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/24/section/38) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a)

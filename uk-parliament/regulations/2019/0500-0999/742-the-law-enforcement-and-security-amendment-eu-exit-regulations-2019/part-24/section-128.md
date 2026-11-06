@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Amendment of the Policing and Crime Act 2017[^key-d071eb45b397f7c6bae940865f1db03e]
+## 128. Amendment of the Policing and Crime Act 2017[^c-d071eb45b397f7c6bae940865f1db03e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Policing and Crime Act 2017 [^c23692231], omit section 144 (powers to cre
 
 ## Annotations
 
-[^key-d071eb45b397f7c6bae940865f1db03e]: Commencement: Reg. 128 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d071eb45b397f7c6bae940865f1db03e]: Commencement: Reg. 128 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692231]: Marginal citation: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3).

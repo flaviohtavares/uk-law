@@ -51,7 +51,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Directive [2009/48/EC](https://www.legislation.gov.uk/european/directive/2009/0048) of the European Parliament and of the Council on the safety of toys (which is implemented by means of these Regulations) is implemented in other relevant states[^key-1b2ee7a2ee9f5c860ee55df1308c5d57].
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Directive [2009/48/EC](https://www.legislation.gov.uk/european/directive/2009/0048) of the European Parliament and of the Council on the safety of toys (which is implemented by means of these Regulations) is implemented in other relevant states[^c-1b2ee7a2ee9f5c860ee55df1308c5d57].
 
 (3) The report must in particular—
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^M_E_69823cb5-9c78-43e0-d526-050b74d81abb]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1b2ee7a2ee9f5c860ee55df1308c5d57]: Textual amendment: Words in [reg. 58(2)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/58/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/7)
+[^c-1b2ee7a2ee9f5c860ee55df1308c5d57]: Textual amendment: Words in [reg. 58(2)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/58/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/5/paragraph/7)

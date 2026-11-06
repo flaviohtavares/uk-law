@@ -34,34 +34,34 @@ of 19 October 2001
 
 establishing additional technical measures for the recovery of the stocks of cod in the North Sea and to the west of Scotland (revoked)
 
-[^key-2096545111da80ab5ac9c47d3540e02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2096545111da80ab5ac9c47d3540e02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9a.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9a.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-2096545111da80ab5ac9c47d3540e02a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2096545111da80ab5ac9c47d3540e02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2096545111da80ab5ac9c47d3540e02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2096545111da80ab5ac9c47d3540e02a]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2096545111da80ab5ac9c47d3540e02a]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

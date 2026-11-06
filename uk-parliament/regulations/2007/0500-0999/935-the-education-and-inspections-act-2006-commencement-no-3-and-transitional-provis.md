@@ -39,7 +39,7 @@ Made
 
 The Secretary of State for Education and Skills, in exercise of the powers conferred by sections 181 and 188(3) of the Education and Inspections Act 2006[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-7222e669b1719aee04c1fb60746d5379]
+## 1. Citation and interpretation[^c-7222e669b1719aee04c1fb60746d5379]
 
 (1) This Order may be cited as the Education and Inspections Act 2006 (Commencement No. 3 and Transitional Provisions and Savings) Order 2007.
 
@@ -49,13 +49,13 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 - “EA 1996” means the Education Act 1996[^f00002],
 - “SSFA 1998” means the School Standards and Framework Act 1998[^f00003].
 
-## 2. Provisions coming into force on 28th March 2007[^key-8c33db9cf897e77b751a8fc9bfdbdd93]
+## 2. Provisions coming into force on 28th March 2007[^c-8c33db9cf897e77b751a8fc9bfdbdd93]
 
 Section 164 of the Act comes into force in relation to England only on 28th March 2007.
 
-**3.**[^key-aed42c33e050b828c7f98bb72fe41cc1] Section 160 of the Act comes into force on 28th March 2007.
+**3.**[^c-aed42c33e050b828c7f98bb72fe41cc1] Section 160 of the Act comes into force on 28th March 2007.
 
-## 4. Provisions coming into force on 1st April 2007[^key-6e68f900f523e80e8272aa461fe2f3cb]
+## 4. Provisions coming into force on 1st April 2007[^c-6e68f900f523e80e8272aa461fe2f3cb]
 
 The following provisions of the Act come into force in relation to England only on 1st April 2007—
 
@@ -70,7 +70,7 @@ The following provisions of the Act come into force in relation to England only 
 
   in SSFA 1998 of section 61.
 
-**5.**[^key-c654c8b0ba7d373714f147324b9aab1b] The following provisions of the Act come into force on 1st April 2007—
+**5.**[^c-c654c8b0ba7d373714f147324b9aab1b] The following provisions of the Act come into force on 1st April 2007—
 
 - (a) section 5 in relation to primary schools which are not special schools, only in relation to the local education authorities listed in the Schedule,
 - (b) section 18 (1) to (3),
@@ -110,7 +110,7 @@ The following provisions of the Act come into force in relation to England only 
   - Part 4 (Schools Causing Concern),
   - Part 5 (Inspections), except for the repeal of section 38 of the Children Act 2004.
 
-## 6. Provisions coming into force on 25th May 2007[^key-de2137308703d2538ecbe6a4e28dcedd]
+## 6. Provisions coming into force on 25th May 2007[^c-de2137308703d2538ecbe6a4e28dcedd]
 
 The following provisions of the Act come into force in relation to England only on 25th May 2007—
 
@@ -119,7 +119,7 @@ The following provisions of the Act come into force in relation to England only 
 - (c) section 184 to the extent that it related to the provision set out in paragraph (d),
 - (d) in Schedule 18 (Part 6) the repeal of section 5 of SSFA 1998.
 
-**7.**[^key-7d76216d6ec9f48cbb31eabf362fe9cb] The following provisions of the Act come into force on 25th May 2007—
+**7.**[^c-7d76216d6ec9f48cbb31eabf362fe9cb] The following provisions of the Act come into force on 25th May 2007—
 
 - (a) sections 2 and 3,
 - (b) sections 7 to 17,
@@ -134,7 +134,7 @@ The following provisions of the Act come into force in relation to England only 
 - (k) section 36,
 - (l) section 54 to the extent it is not already in force,
 - (m) section 184 to the extent that it relates to the provision set out in paragraph (q),
-- (n) in Schedule 2, paragraphs 1 to 4, 6 to 10, 12, 16, 18 (2) to (5) [^key-18694e0d6192ee12e69d7b2e96bfe54e]... and 21 to 31,
+- (n) in Schedule 2, paragraphs 1 to 4, 6 to 10, 12, 16, 18 (2) to (5) [^c-18694e0d6192ee12e69d7b2e96bfe54e]... and 21 to 31,
 - (o) Schedule 3,
 - (p) Schedule 4,
 - (q) in Schedule 18—
@@ -153,7 +153,7 @@ The following provisions of the Act come into force in relation to England only 
   - in the Education Act 2002, in Schedule 21, of paragraph 118(3)(b) and (4)(a)(ii),
   - in the Education Act 2005, in Schedule 12, of paragraph 15.
 
-## 8. Transitional provisions and savings[^key-42441663204278a943636906109ffdac]
+## 8. Transitional provisions and savings[^c-42441663204278a943636906109ffdac]
 
 (1) Despite the disapplication of section 15 of SSFA 1998 from England made by Schedule 7 to the Act, that section continues to have effect in relation to any warning notice given to the governing body of a maintained school in England under that section before 1st April 2007.
 
@@ -177,11 +177,11 @@ Department for Education and Skills
 
 20th March 2007
 
-## SCHEDULE — APPLICATION OF SECTION 5 OF THE ACT IN RELATION TO PRIMARY SCHOOLS WHICH ARE NOT SPECIAL SCHOOLS[^key-ba36ce61c85623a3bd4daff25ee934f4]
+## SCHEDULE — APPLICATION OF SECTION 5 OF THE ACT IN RELATION TO PRIMARY SCHOOLS WHICH ARE NOT SPECIAL SCHOOLS[^c-ba36ce61c85623a3bd4daff25ee934f4]
 
 Article 5(a)
 
-[^key-ba36ce61c85623a3bd4daff25ee934f4]
+[^c-ba36ce61c85623a3bd4daff25ee934f4]
 
 - Bath and North East Somerset Council
 - Bedfordshire County Council
@@ -302,26 +302,26 @@ The following provisions of this Act have been brought into force by commencemen
 
 [^f00001]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-7222e669b1719aee04c1fb60746d5379]: Commencement: Art. 1 in force at made date
+[^c-7222e669b1719aee04c1fb60746d5379]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00003]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
 
-[^key-8c33db9cf897e77b751a8fc9bfdbdd93]: Commencement: Art. 2 in force at made date
+[^c-8c33db9cf897e77b751a8fc9bfdbdd93]: Commencement: Art. 2 in force at made date
 
-[^key-aed42c33e050b828c7f98bb72fe41cc1]: Commencement: Art. 3 in force at made date
+[^c-aed42c33e050b828c7f98bb72fe41cc1]: Commencement: Art. 3 in force at made date
 
-[^key-6e68f900f523e80e8272aa461fe2f3cb]: Commencement: Art. 4 in force at made date
+[^c-6e68f900f523e80e8272aa461fe2f3cb]: Commencement: Art. 4 in force at made date
 
-[^key-c654c8b0ba7d373714f147324b9aab1b]: Commencement: Art. 5 in force at made date
+[^c-c654c8b0ba7d373714f147324b9aab1b]: Commencement: Art. 5 in force at made date
 
-[^key-de2137308703d2538ecbe6a4e28dcedd]: Commencement: Art. 6 in force at made date
+[^c-de2137308703d2538ecbe6a4e28dcedd]: Commencement: Art. 6 in force at made date
 
-[^key-7d76216d6ec9f48cbb31eabf362fe9cb]: Commencement: Art. 7 in force at made date
+[^c-7d76216d6ec9f48cbb31eabf362fe9cb]: Commencement: Art. 7 in force at made date
 
-[^key-18694e0d6192ee12e69d7b2e96bfe54e]: Textual amendment: Word in art. 7(n) omitted (19.4.2007) by virtue of [The Education and Inspections Act 2006 (Commencement No.4 and Transitional Provisions and Amendment) Order 2007 (S.I. 2007/1271)](https://www.legislation.gov.uk/uksi/2007/1271), [art. 4](https://www.legislation.gov.uk/uksi/2007/1271/article/4)
+[^c-18694e0d6192ee12e69d7b2e96bfe54e]: Textual amendment: Word in art. 7(n) omitted (19.4.2007) by virtue of [The Education and Inspections Act 2006 (Commencement No.4 and Transitional Provisions and Amendment) Order 2007 (S.I. 2007/1271)](https://www.legislation.gov.uk/uksi/2007/1271), [art. 4](https://www.legislation.gov.uk/uksi/2007/1271/article/4)
 
-[^key-42441663204278a943636906109ffdac]: Commencement: Art. 8 in force at made date
+[^c-42441663204278a943636906109ffdac]: Commencement: Art. 8 in force at made date
 
-[^key-ba36ce61c85623a3bd4daff25ee934f4]: Commencement: Sch. in force at made date
+[^c-ba36ce61c85623a3bd4daff25ee934f4]: Commencement: Sch. in force at made date

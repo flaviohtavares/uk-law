@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112A. When ill-health pension is taken to become payable before death of member: commutation of whole pension (serious ill-health)[^key-b2f0e11c49e54261c3f43150facdcdcf]
+## 112A. When ill-health pension is taken to become payable before death of member: commutation of whole pension (serious ill-health)[^c-b2f0e11c49e54261c3f43150facdcdcf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ An ill-health pension is taken to become payable before the death of a member (D
 
 ## Annotations
 
-[^key-b2f0e11c49e54261c3f43150facdcdcf]: Textual amendment: [Reg. 112A](https://www.legislation.gov.uk/uksi/2014/512/regulation/112A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [16](https://www.legislation.gov.uk/uksi/2017/1084/regulation/16)
+[^c-b2f0e11c49e54261c3f43150facdcdcf]: Textual amendment: [Reg. 112A](https://www.legislation.gov.uk/uksi/2014/512/regulation/112A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [16](https://www.legislation.gov.uk/uksi/2017/1084/regulation/16)

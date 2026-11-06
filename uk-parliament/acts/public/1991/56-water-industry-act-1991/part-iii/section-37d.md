@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Directions given under section 37A , 37AA[^key-2bbbb668e09def195b24cbd9534cbf2d] or 37B above may be—
+(1) Directions given under section 37A , 37AA[^c-2bbbb668e09def195b24cbd9534cbf2d] or 37B above may be—
 
 - (a) general directions applying to all water undertakers; or
 - (b) directions applying only to one or more water undertakers specified in the directions,
@@ -32,11 +32,11 @@ and shall be given by an instrument in writing.
 (3) The duties of—
 
 - (a) a water undertaker under sections 37A to 37C above and under this section; and
-- (b) a water supply licensee[^key-81b26ff5789d4cce243dca4a7cf7d265] under section 37C above,
+- (b) a water supply licensee[^c-81b26ff5789d4cce243dca4a7cf7d265] under section 37C above,
 
 shall be enforceable by the Secretary of State under section 18 above.
 
-(4)[^key-5501aee519ff64955510305806594119] The Minister may by order made by statutory instrument amend the period for the time being specified in section 37A(6)(c).
+(4)[^c-5501aee519ff64955510305806594119] The Minister may by order made by statutory instrument amend the period for the time being specified in section 37A(6)(c).
 
 (5) In subsection (4), “**the Minister**” means—
 
@@ -65,8 +65,8 @@ the instrument is to have no further effect and Her Majesty may by Order in Coun
 
 [^c19905171]: Textual amendment: Ss. 37A-37D inserted (1.10.2004 for specified purposes and 1.10.2005 for further specified purposes and 1.4.2006 for specified provisions and further purposes and 1.4.2007 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/j) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2528/article/4)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/i) (with [Sch. paras. 6](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/6), [8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(q)](https://www.legislation.gov.uk/uksi/2006/984/article/2/q) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/984/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/984/schedule)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/a)
 
-[^key-2bbbb668e09def195b24cbd9534cbf2d]: Textual amendment: Word in s. 37D(1) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/27/4), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)
+[^c-2bbbb668e09def195b24cbd9534cbf2d]: Textual amendment: Word in s. 37D(1) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/27/4), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)
 
-[^key-81b26ff5789d4cce243dca4a7cf7d265]: Textual amendment: Words in s. 37D(3)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/49); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-81b26ff5789d4cce243dca4a7cf7d265]: Textual amendment: Words in s. 37D(3)(b) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/49); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(k)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/k) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-5501aee519ff64955510305806594119]: Textual amendment: S. 37D(4)-(9) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/28/3), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)
+[^c-5501aee519ff64955510305806594119]: Textual amendment: S. 37D(4)-(9) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/28/3), [94(2)(g)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/g)

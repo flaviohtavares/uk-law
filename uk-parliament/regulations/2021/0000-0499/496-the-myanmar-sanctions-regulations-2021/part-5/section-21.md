@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Interpretation of other expressions used in this Part[^key-9dba4e168aad800c205f97c507382b46]
+## 21. Interpretation of other expressions used in this Part[^c-9dba4e168aad800c205f97c507382b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dba4e168aad800c205f97c507382b46]: Commencement: Reg. 21 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-9dba4e168aad800c205f97c507382b46]: Commencement: Reg. 21 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

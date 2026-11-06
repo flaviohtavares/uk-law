@@ -32,7 +32,7 @@ summary: ''
 
   a recording which is, and which he knows or has reason to believe is, an illicit recording.
 
-(1A)[^key-c8c7b2768c82f4e9aa63780aca01be21] A person (“P”) who infringes a performer's making available right in a recording commits an offence if P—
+(1A)[^c-c8c7b2768c82f4e9aa63780aca01be21] A person (“P”) who infringes a performer's making available right in a recording commits an offence if P—
 
 - (a) knows or has reason to believe that P is infringing the right, and
 - (b) either—
@@ -66,13 +66,13 @@ thereby infringing any of the rights conferred by this Chapter, if he knows or h
 
 (5) A person guilty of an offence under subsection (1)(a), (b) or (d)(iii) is liable—
 
-- (a) on summary conviction to imprisonment for a term not exceeding six months or a fine[^key-0d7a67f75b9855b0522f578d86f974b8], or both;
+- (a) on summary conviction to imprisonment for a term not exceeding six months or a fine[^c-0d7a67f75b9855b0522f578d86f974b8], or both;
 - (b) on conviction on indictment to a fine or imprisonment for a term not exceeding ten[^c20312101] years, or both.
 
 (5A)[^c20312111] A person guilty of an offence under subsection (1A) is liable—
 
-- (a) on summary conviction to imprisonment for a term not exceeding three months or a fine[^key-4337d6bb0b5be9a5f96a41d7740fa030], or both;
-- (b) on conviction on indictment to a fine or imprisonment for a term not exceeding ten[^key-9f9ce0d3862817545a893b5793f21c85] years, or both.
+- (a) on summary conviction to imprisonment for a term not exceeding three months or a fine[^c-4337d6bb0b5be9a5f96a41d7740fa030], or both;
+- (b) on conviction on indictment to a fine or imprisonment for a term not exceeding ten[^c-9f9ce0d3862817545a893b5793f21c85] years, or both.
 
 (6) A person guilty of any other offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale or imprisonment for a term not exceeding six months, or both.
 
@@ -82,16 +82,16 @@ thereby infringing any of the rights conferred by this Chapter, if he knows or h
 
 [^c20325341]: Textual amendment: Words in s. 198(1)(c)(2)(4) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 
-[^key-c8c7b2768c82f4e9aa63780aca01be21]: Textual amendment: S. 198(1A)(1B) substituted for s. 198(1A) (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/4), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
+[^c-c8c7b2768c82f4e9aa63780aca01be21]: Textual amendment: S. 198(1A)(1B) substituted for s. 198(1A) (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/4), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
 
 [^c20312091]: Textual amendment: S. 198(2)(b) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/1), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/4/5) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-0d7a67f75b9855b0522f578d86f974b8]: Textual amendment: Words in s. 198(5)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(3)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-0d7a67f75b9855b0522f578d86f974b8]: Textual amendment: Words in s. 198(5)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(3)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c20312101]: Textual amendment: S. 198(5)(b) substituted (20.11.2002) by [2002 c. 25](https://www.legislation.gov.uk/ukpga/2002/25), [s. 1(3)(5)](https://www.legislation.gov.uk/ukpga/2002/25/section/1/3); [S.I. 2002/2749](https://www.legislation.gov.uk/uksi/2002/2749), [art. 2](https://www.legislation.gov.uk/uksi/2002/2749/article/2)
 
 [^c20312111]: Textual amendment: S. 198(5A) inserted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 26(3)(b)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/26/3/b) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-4337d6bb0b5be9a5f96a41d7740fa030]: Textual amendment: Words in s. 198(5A)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(3)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-4337d6bb0b5be9a5f96a41d7740fa030]: Textual amendment: Words in s. 198(5A)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(3)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-9f9ce0d3862817545a893b5793f21c85]: Textual amendment: Word in s. 198(5A)(b) substituted (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
+[^c-9f9ce0d3862817545a893b5793f21c85]: Textual amendment: Word in s. 198(5A)(b) substituted (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)

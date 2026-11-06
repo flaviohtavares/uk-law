@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Duty to rehouse displaced residents[^key-0c1bc24f38e520afd6d8433abaa0d675]
+## 9. Duty to rehouse displaced residents[^c-0c1bc24f38e520afd6d8433abaa0d675]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c1bc24f38e520afd6d8433abaa0d675]: Commencement: S. 9 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-0c1bc24f38e520afd6d8433abaa0d675]: Commencement: S. 9 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

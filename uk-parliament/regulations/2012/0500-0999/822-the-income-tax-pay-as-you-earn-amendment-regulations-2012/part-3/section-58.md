@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. New Part 4A[^key-22931041308c7b116ec5db5fa77052cd]
+## 58. New Part 4A[^c-22931041308c7b116ec5db5fa77052cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -194,7 +194,7 @@ After regulation 97L (repayment of surplus amounts) insert—
 
 ## Annotations
 
-[^key-22931041308c7b116ec5db5fa77052cd]: Commencement: Reg. 58 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-22931041308c7b116ec5db5fa77052cd]: Commencement: Reg. 58 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 67G is inserted by regulation 27(b) of these Regulations.
 

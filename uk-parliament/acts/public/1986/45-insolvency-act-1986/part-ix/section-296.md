@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1) At any time when the official receiver is the trustee of a bankrupt’s estate by virtue of any provision of this Chapter [^key-ca63d97d17d79916a30d855dded291b2]... he may apply to the Secretary of State for the appointment of a person as trustee instead of the official receiver.
+(1) At any time when the official receiver is the trustee of a bankrupt’s estate by virtue of any provision of this Chapter [^c-ca63d97d17d79916a30d855dded291b2]... he may apply to the Secretary of State for the appointment of a person as trustee instead of the official receiver.
 
 (2) On an application under subsection (1) the Secretary of State shall either make an appointment or decline to make one.
 
-(3) Such an application may be made notwithstanding that the Secretary of State has declined to make an appointment either on a previous application under subsection (1) [^key-35e5e2f3e85b663887789ab3ad961b38]... or under section 300(4) below.
+(3) Such an application may be made notwithstanding that the Secretary of State has declined to make an appointment either on a previous application under subsection (1) [^c-35e5e2f3e85b663887789ab3ad961b38]... or under section 300(4) below.
 
 (4) Where the trustee of a bankrupt’s estate has been appointed by the Secretary of State (whether under this section or otherwise), the trustee shall give notice to the bankrupt’s creditors of his appointment or, if the court so allows, shall advertise his appointment in accordance with the court’s directions.
 
-(5) In that notice or advertisement the trustee shall explain the procedure for establishing a creditors' committee under section 301.[^key-598a367237b955daccb5641a84199aba]
+(5) In that notice or advertisement the trustee shall explain the procedure for establishing a creditors' committee under section 301.[^c-598a367237b955daccb5641a84199aba]
 
 ## Annotations
 
@@ -38,8 +38,8 @@ summary: ''
 
 [^c15578741]: Modification: S. 296 modified (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 11(2)(3)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/2/3), [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7/paragraph/13)
 
-[^key-ca63d97d17d79916a30d855dded291b2]: Textual amendment: Words in s. 296(1) omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/7/a); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
+[^c-ca63d97d17d79916a30d855dded291b2]: Textual amendment: Words in s. 296(1) omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/7/a); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
 
-[^key-35e5e2f3e85b663887789ab3ad961b38]: Textual amendment: Words in s. 296(3) omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/7/b); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
+[^c-35e5e2f3e85b663887789ab3ad961b38]: Textual amendment: Words in s. 296(3) omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/7/b); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
 
-[^key-598a367237b955daccb5641a84199aba]: Textual amendment: Words in s. 296(5) substituted for s. 296(5)(a)(b) (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 76](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/76); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e)
+[^c-598a367237b955daccb5641a84199aba]: Textual amendment: Words in s. 296(5) substituted for s. 296(5)(a)(b) (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 76](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/76); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e)

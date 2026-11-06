@@ -113,7 +113,7 @@ HAS ADOPTED THIS REGULATION:
 
 ### Article 1. Scope
 
-This Regulation shall apply to consortia only in so far as they provide international liner shipping services from or to one or more ports in the United Kingdom[^key-0ded718ccbe60c60b696ef896af99223].
+This Regulation shall apply to consortia only in so far as they provide international liner shipping services from or to one or more ports in the United Kingdom[^c-0ded718ccbe60c60b696ef896af99223].
 
 ### Article 2. Definitions
 
@@ -122,14 +122,14 @@ For the purposes of this Regulation the following definitions shall apply:
 - 1.. ‘consortium’ means an agreement or a set of interrelated agreements between two or more vessel-operating carriers which provide international liner shipping services exclusively for the carriage of cargo relating to one or more trades, the object of which is to bring about cooperation in the joint operation of a maritime transport service, and which improves the service that would be offered individually by each of its members in the absence of the consortium, in order to rationalise their operations by means of technical, operational and/or commercial arrangements;
 - 2.. ‘liner shipping’ means the transport of goods on a regular basis on a particular route or routes between ports and in accordance with timetables and sailing dates advertised in advance and available, even on an occasional basis, to any transport user against payment;
 - 3.. ‘transport user’ means any undertaking (such as shipper, consignee or forwarder) which has entered into, or intends to enter into, a contractual agreement with a consortium member for the shipment of goods;
-- 3A.. “[^key-da1ae5ba14395ca43c66906a54f752b8]**the Chapter 1 prohibition**” means the prohibition imposed by section 2(1) of the Competition Act 1998;
+- 3A.. “[^c-da1ae5ba14395ca43c66906a54f752b8]**the Chapter 1 prohibition**” means the prohibition imposed by section 2(1) of the Competition Act 1998;
 - 4.. ‘commencement of the service’ means the date on which the first vessel sails on the service.
 
 ## CHAPTER II — EXEMPTIONS
 
 ### Article 3. Exempted agreements
 
-Subject to the provisions of this Regulation, the following activities of a consortium are exempt from the Chapter 1 prohibition:[^key-a4fd9ef912aa5f20f5730c5ee793101d]
+Subject to the provisions of this Regulation, the following activities of a consortium are exempt from the Chapter 1 prohibition:[^c-a4fd9ef912aa5f20f5730c5ee793101d]
 
 - 1.. the joint operation of liner shipping services including any of the following activities:
   - ((a)) the coordination and/or joint fixing of sailing timetables and the determination of ports of call;
@@ -182,7 +182,7 @@ This Regulation shall enter into force on 26 April 2010.
 
 It shall apply until[^c000001] 25 April 2024 .
 
-[^key-fe48721f1acca1b94dcaff4c1e7605c1]...
+[^c-fe48721f1acca1b94dcaff4c1e7605c1]...
 
 ## Annotations
 
@@ -196,12 +196,12 @@ It shall apply until[^c000001] 25 April 2024 .
 
 [^f00005]: Footnote: [OJ L 1, 4.1.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.001.01.0001.01.ENG).
 
-[^key-0ded718ccbe60c60b696ef896af99223]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2009/906/article/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ded718ccbe60c60b696ef896af99223]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2009/906/article/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da1ae5ba14395ca43c66906a54f752b8]: Textual amendment: [Art. 2(3A)](https://www.legislation.gov.uk/eur/2009/906/article/2/3A) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da1ae5ba14395ca43c66906a54f752b8]: Textual amendment: [Art. 2(3A)](https://www.legislation.gov.uk/eur/2009/906/article/2/3A) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4fd9ef912aa5f20f5730c5ee793101d]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2009/906/article/3) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4fd9ef912aa5f20f5730c5ee793101d]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2009/906/article/3) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2020/436 of 24 March 2020 amending Regulation (EC) No 906/2009 as regards its period of application (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2020/436).
 
-[^key-fe48721f1acca1b94dcaff4c1e7605c1]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe48721f1acca1b94dcaff4c1e7605c1]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

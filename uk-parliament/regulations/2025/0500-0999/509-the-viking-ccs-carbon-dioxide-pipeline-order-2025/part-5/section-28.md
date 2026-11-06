@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Application of the 1981 Act[^key-1f49ab49eaf3dd8fc11b1cec2eb2feb6]
+## 28. Application of the 1981 Act[^c-1f49ab49eaf3dd8fc11b1cec2eb2feb6]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f49ab49eaf3dd8fc11b1cec2eb2feb6]: Commencement: Art. 28 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-1f49ab49eaf3dd8fc11b1cec2eb2feb6]: Commencement: Art. 28 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

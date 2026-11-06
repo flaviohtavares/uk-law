@@ -143,7 +143,7 @@ The Treasury, in exercise of the powers conferred by section 2(2) of, and paragr
 
 (3) Paragraph (1) is subject to regulation 9.
 
-### 7A. Funds and economic resources: Government of Democratic People’s Republic of Korea and Worker’s Party of Korea[^key-340733248e7d423b8d9425efdecff884]
+### 7A. Funds and economic resources: Government of Democratic People’s Republic of Korea and Worker’s Party of Korea[^c-340733248e7d423b8d9425efdecff884]
 
 (1) The Treasury may direct that the provisions of regulations 4 to 7 apply in relation to a person as if that person were a designated person.
 
@@ -187,7 +187,7 @@ The Treasury, in exercise of the powers conferred by section 2(2) of, and paragr
 
 ### 9. Licences
 
-(1) The prohibitions in regulations 3 to 7A,[^key-0cfc57b4b08723468837669ffb80eb13] 10(1)(b) to (d)[^key-640f39485398f31cce7fa7ab42ed66fa] and 13B(2) do not apply to anything done under the authority of a licence granted by the Treasury.
+(1) The prohibitions in regulations 3 to 7A,[^c-0cfc57b4b08723468837669ffb80eb13] 10(1)(b) to (d)[^c-640f39485398f31cce7fa7ab42ed66fa] and 13B(2) do not apply to anything done under the authority of a licence granted by the Treasury.
 
 (2) A licence must specify the acts authorised by it and may be—
 
@@ -213,7 +213,7 @@ The Treasury, in exercise of the powers conferred by section 2(2) of, and paragr
 
 ### 10. Credit and financial institutions: accounts and correspondent banking relationships
 
-(1)[^key-c6478686ff7226cf6fee988357d4fa65] A credit or financial institution must not—
+(1)[^c-c6478686ff7226cf6fee988357d4fa65] A credit or financial institution must not—
 
 - (a) open a new bank account with,
 - (b) establish a new correspondent banking relationship with,
@@ -233,7 +233,7 @@ take an ownership interest in, a person falling within paragraph (2), if the cre
 - (a) open a new representative office in the Democratic People's Republic of Korea, or
 - (b) establish a new branch or subsidiary in the Democratic People's Republic of Korea.
 
-(4)[^key-3f4a9b37c7feb81302f6975a58952f48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3f4a9b37c7feb81302f6975a58952f48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Agreements
 
@@ -261,13 +261,13 @@ if P knows or has reasonable cause to suspect that P is assisting such a person,
 
 - (a) the Democratic People's Republic of Korea and its Government, and its public bodies, corporations and agencies;
 - (b) the Central Bank of the Democratic People's Republic of Korea;
-- (c) a person[^key-11a677d2fb6be16d5c7d2b29aabc42b5] referred to in regulation 10(2);
+- (c) a person[^c-11a677d2fb6be16d5c7d2b29aabc42b5] referred to in regulation 10(2);
 - (d) a person, entity or body acting on behalf of or at the direction of a legal person, entity or body falling within sub-paragraphs (a) or (b);
 - (e) a legal person, entity or body owned or controlled by a person, entity or body falling within sub-paragraphs (a) to (c).
 
-### 13A. DPRK credit and financial institutions: branches, subsidiaries, and representative offices[^key-08b62d20a13e2e98c367c209784320d1]
+### 13A. DPRK credit and financial institutions: branches, subsidiaries, and representative offices[^c-08b62d20a13e2e98c367c209784320d1]
 
-A person falling within regulation 10(2) must not open , operate or facilitate the operation of[^key-1ac941cdb1c1d9d9baadf28d8fbe5f24]—
+A person falling within regulation 10(2) must not open , operate or facilitate the operation of[^c-1ac941cdb1c1d9d9baadf28d8fbe5f24]—
 
 - (a) a branch;
 - (b) a subsidiary; or
@@ -312,9 +312,9 @@ A credit or financial institution must not participate in any business arrangeme
 - (a) any person listed in Annex IV of the Council Regulation; or
 - (b) any other person acting on behalf or at the direction of such a person.
 
-### 13D. Financial support for trade[^key-294d5303b35a320c2eb40ba2e2b3cc13]
+### 13D. Financial support for trade[^c-294d5303b35a320c2eb40ba2e2b3cc13]
 
-(1) A person may not provide any financial support for trade with the Democratic People’s Republic of Korea[^key-60a2a79524783505166b03a18c9b3783] which may contribute to–
+(1) A person may not provide any financial support for trade with the Democratic People’s Republic of Korea[^c-60a2a79524783505166b03a18c9b3783] which may contribute to–
 
 - (a) nuclear-related programmes;
 - (b) other weapons of mass destruction-related programmes;
@@ -331,10 +331,10 @@ A credit or financial institution must not participate in any business arrangeme
 
 (3) The prohibition in paragraph (1) does not apply to–
 
-- (a) contracts and agreements for the provision of financial support entered into prior to 29th May 2016[^key-a5340c422eff16a38df47ef8bfbf0b1b]; and
+- (a) contracts and agreements for the provision of financial support entered into prior to 29th May 2016[^c-a5340c422eff16a38df47ef8bfbf0b1b]; and
 - (b) contracts and agreements for the provision of financial support for trade in food, agricultural, medical or humanitarian purposes.
 
-### 13E. Investment and commercial activities[^key-0cf680ca94077a4570e497c314852a45]
+### 13E. Investment and commercial activities[^c-0cf680ca94077a4570e497c314852a45]
 
 (1) A person must not accept or approve investment in a commercial activity made by a person listed in paragraph (6).
 
@@ -426,11 +426,11 @@ A credit or financial institution must not participate in any business arrangeme
 
 ### 14. Contravention and circumvention of prohibitions
 
-(1) A person who contravenes any of the prohibitions in regulations 3 to 7A[^key-4efc8ae88a0139c600a8e397212dc2c5] and 10 to 13F[^key-9d4d3a1abe24c7b10a30f17399f29a0f] commits an offence.
+(1) A person who contravenes any of the prohibitions in regulations 3 to 7A[^c-4efc8ae88a0139c600a8e397212dc2c5] and 10 to 13F[^c-9d4d3a1abe24c7b10a30f17399f29a0f] commits an offence.
 
 (2) A person commits an offence who intentionally participates in activities knowing that the object or effect of them is (whether directly or indirectly)—
 
-- (a) to circumvent any of the prohibitions in regulations 3 to 7A[^key-be460d6ca876648dc807a58355512ae7] and 10 to 13F[^key-ad744c12c14935bb97a010d7592f821d], or
+- (a) to circumvent any of the prohibitions in regulations 3 to 7A[^c-be460d6ca876648dc807a58355512ae7] and 10 to 13F[^c-ad744c12c14935bb97a010d7592f821d], or
 - (b) to enable or facilitate the contravention of any such prohibition or requirement.
 
 ### 15. Officers of a body corporate etc.
@@ -453,7 +453,7 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 ### 16. Penalties
 
-(1) A person guilty of an offence under regulation 9 , 13G[^key-a4c635f683eb05ec46a74248a70dce02] or 14 is liable—
+(1) A person guilty of an offence under regulation 9 , 13G[^c-a4c635f683eb05ec46a74248a70dce02] or 14 is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
 - (b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum or to both.
@@ -736,39 +736,39 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c23372081]: Marginal citation: Schedule 2 was amended by the [Dormant Bank and Building Society Accounts Act 2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), [section 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15), [Schedule 2](https://www.legislation.gov.uk/ukpga/2008/31/schedule/2), [paragraph 1](https://www.legislation.gov.uk/ukpga/2008/31/paragraph/1), the [Regulation of Financial Services (Land Transactions) Act 2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24), [section 1](https://www.legislation.gov.uk/ukpga/2005/24/section/1) and the Financial Services Act 2012, section 7(2) to (5) and section 8.
 
-[^key-340733248e7d423b8d9425efdecff884]: Textual amendment: Reg. 7A inserted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/578/regulation/3)
+[^c-340733248e7d423b8d9425efdecff884]: Textual amendment: Reg. 7A inserted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/578/regulation/3)
 
-[^key-0cfc57b4b08723468837669ffb80eb13]: Textual amendment: Words in reg. 9(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/578/regulation/4)
+[^c-0cfc57b4b08723468837669ffb80eb13]: Textual amendment: Words in reg. 9(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/578/regulation/4)
 
-[^key-640f39485398f31cce7fa7ab42ed66fa]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/9/1) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/a)
+[^c-640f39485398f31cce7fa7ab42ed66fa]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/9/1) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/a)
 
-[^key-c6478686ff7226cf6fee988357d4fa65]: Textual amendment: Reg. 10(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/578/regulation/5)
+[^c-c6478686ff7226cf6fee988357d4fa65]: Textual amendment: Reg. 10(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/578/regulation/5)
 
-[^key-3f4a9b37c7feb81302f6975a58952f48]: Textual amendment: Reg. 10(4) omitted (13.5.2016) by virtue of [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/578/regulation/6)
+[^c-3f4a9b37c7feb81302f6975a58952f48]: Textual amendment: Reg. 10(4) omitted (13.5.2016) by virtue of [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/578/regulation/6)
 
-[^key-11a677d2fb6be16d5c7d2b29aabc42b5]: Textual amendment: Words in [reg. 13(4)(c)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13/4/c) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/b)
+[^c-11a677d2fb6be16d5c7d2b29aabc42b5]: Textual amendment: Words in [reg. 13(4)(c)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13/4/c) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/b)
 
-[^key-08b62d20a13e2e98c367c209784320d1]: Textual amendment: Regs. 13A-13D inserted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/578/regulation/7)
+[^c-08b62d20a13e2e98c367c209784320d1]: Textual amendment: Regs. 13A-13D inserted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/578/regulation/7)
 
-[^key-1ac941cdb1c1d9d9baadf28d8fbe5f24]: Textual amendment: Words in [reg. 13A](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13A) inserted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/c)
+[^c-1ac941cdb1c1d9d9baadf28d8fbe5f24]: Textual amendment: Words in [reg. 13A](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13A) inserted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/c)
 
-[^key-294d5303b35a320c2eb40ba2e2b3cc13]: Textual amendment: Reg. 13D replaced (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/634/regulation/3)
+[^c-294d5303b35a320c2eb40ba2e2b3cc13]: Textual amendment: Reg. 13D replaced (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/634/regulation/3)
 
-[^key-60a2a79524783505166b03a18c9b3783]: Textual amendment: Words in [reg. 13D(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13D/1) inserted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/d/i)
+[^c-60a2a79524783505166b03a18c9b3783]: Textual amendment: Words in [reg. 13D(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13D/1) inserted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/d/i)
 
-[^key-a5340c422eff16a38df47ef8bfbf0b1b]: Textual amendment: Words in [reg. 13D(3)(a)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13D/3/a) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/d/ii)
+[^c-a5340c422eff16a38df47ef8bfbf0b1b]: Textual amendment: Words in [reg. 13D(3)(a)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/13D/3/a) substituted (5.1.2017) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/1214)](https://www.legislation.gov.uk/uksi/2016/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1214/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2016/1214/regulation/2/d/ii)
 
-[^key-0cf680ca94077a4570e497c314852a45]: Textual amendment: Regs. 13E-13G inserted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/634/regulation/4)
+[^c-0cf680ca94077a4570e497c314852a45]: Textual amendment: Regs. 13E-13G inserted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/634/regulation/4)
 
-[^key-4efc8ae88a0139c600a8e397212dc2c5]: Textual amendment: Word in reg. 14(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/578/regulation/8/a)
+[^c-4efc8ae88a0139c600a8e397212dc2c5]: Textual amendment: Word in reg. 14(1) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/578/regulation/8/a)
 
-[^key-9d4d3a1abe24c7b10a30f17399f29a0f]: Textual amendment: Word in reg. 14(1) substituted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/634/regulation/5)
+[^c-9d4d3a1abe24c7b10a30f17399f29a0f]: Textual amendment: Word in reg. 14(1) substituted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/634/regulation/5)
 
-[^key-be460d6ca876648dc807a58355512ae7]: Textual amendment: Word in reg. 14(2)(a) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/578/regulation/8/a)
+[^c-be460d6ca876648dc807a58355512ae7]: Textual amendment: Word in reg. 14(2)(a) substituted (13.5.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) Regulations 2016 (S.I. 2016/578)](https://www.legislation.gov.uk/uksi/2016/578), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/578/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/578/regulation/8/a)
 
-[^key-ad744c12c14935bb97a010d7592f821d]: Textual amendment: Word in reg. 14(2)(a) substituted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/634/regulation/5)
+[^c-ad744c12c14935bb97a010d7592f821d]: Textual amendment: Word in reg. 14(2)(a) substituted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/634/regulation/5)
 
-[^key-a4c635f683eb05ec46a74248a70dce02]: Textual amendment: Word in reg. 16(1) inserted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/634/regulation/6)
+[^c-a4c635f683eb05ec46a74248a70dce02]: Textual amendment: Word in reg. 16(1) inserted (11.6.2016) by [The Democratic Peoples Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/634)](https://www.legislation.gov.uk/uksi/2016/634), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/634/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/634/regulation/6)
 
 [^c23372101]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 

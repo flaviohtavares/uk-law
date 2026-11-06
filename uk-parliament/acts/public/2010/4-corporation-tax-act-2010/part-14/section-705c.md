@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 705C. Restriction on debits to be brought into account[^key-792c6c7f5cce8069a82c5256b870259b]
+## 705C. Restriction on debits to be brought into account[^c-792c6c7f5cce8069a82c5256b870259b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ do not include relevant non-trading debits so far as amount A exceeds amount B.
 
 ## Annotations
 
-[^key-792c6c7f5cce8069a82c5256b870259b]: Textual amendment: Pt. 14 Ch. 5A inserted (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 13 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/13/paragraph/1/3)
+[^c-792c6c7f5cce8069a82c5256b870259b]: Textual amendment: Pt. 14 Ch. 5A inserted (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 13 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/13/paragraph/1/3)

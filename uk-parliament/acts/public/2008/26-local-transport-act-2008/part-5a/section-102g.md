@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102G. Constitution of STBs[^key-6e2ee48c09053746a72efbd34e02c3e6]
+## 102G. Constitution of STBs[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 *Extent: E+W*
 
@@ -60,12 +60,12 @@ summary: ''
 (10) For the purposes of subsections (3) and (4), the “elected members” of a constituent authority—
 
 - (a) in the case of a combined authority, are the mayor for the area of the combined authority (if there is one) and those members of the authority who are appointed from among the elected members of the authority's constituent councils (see section 85(1)(b) above as applied by section 104(2) of the Local Democracy, Economic Development and Construction Act 2009);
-- (aa)[^key-c66afe86ff088e232cfad4efbc3f3ee5] in the case of a combined county authority, are the mayor for the area of the combined county authority (if there is one) and those members of the authority who are appointed from among the elected members of the authority’s constituent councils (see section 10(4)(b) of the Levelling-up and Regeneration Act 2023);
+- (aa)[^c-c66afe86ff088e232cfad4efbc3f3ee5] in the case of a combined county authority, are the mayor for the area of the combined county authority (if there is one) and those members of the authority who are appointed from among the elected members of the authority’s constituent councils (see section 10(4)(b) of the Levelling-up and Regeneration Act 2023);
 - (b) in the case of an ITA, are those members of the ITA who are appointed from among the elected members of the ITA's constituent councils (see section 85(1)(b) above);
 - (c) in the case of a county council, a unitary district council or the Council of the Isles of Scilly, are the elected members of the council.
 
 ## Annotations
 
-[^key-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-c66afe86ff088e232cfad4efbc3f3ee5]: Textual amendment: [S. 102G(10)(aa)](https://www.legislation.gov.uk/ukpga/2008/26/section/102G/10/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 182](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/182) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c66afe86ff088e232cfad4efbc3f3ee5]: Textual amendment: [S. 102G(10)(aa)](https://www.legislation.gov.uk/ukpga/2008/26/section/102G/10/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 182](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/182) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

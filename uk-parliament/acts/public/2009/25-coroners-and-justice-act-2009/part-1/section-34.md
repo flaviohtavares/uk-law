@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Allowances, fees and expenses[^key-ba9e8b55b79927cd5fb24eb4402dc7aa]
+## 34. Allowances, fees and expenses[^c-ba9e8b55b79927cd5fb24eb4402dc7aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 makes provision about allowances, fees and expenses.
 
 ## Annotations
 
-[^key-ba9e8b55b79927cd5fb24eb4402dc7aa]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2009/25/section/34) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/c)
+[^c-ba9e8b55b79927cd5fb24eb4402dc7aa]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2009/25/section/34) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/c)

@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 218(8)(c), 219(10), 220(2) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-41b8f5e48433720b206d474b0458a569]
+## 1. Citation, commencement and interpretation[^c-41b8f5e48433720b206d474b0458a569]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006, immediately prior to the coming into operation of the provisions of Article 2(6) of, and Part 6 of the Schedule to, the Pensions (2005 Order) (Commencement No. 7) Order (Northern Ireland) 2005[^f00002].
 
@@ -60,8 +60,8 @@ The Department for Social Development makes the following Regulations in exercis
   - (a) by some or all of the members of the scheme (otherwise than wholly or mainly by members who are directors of companies which are employers in relation to the scheme), or
   - (b) by an organisation which represents some or all of the members of the scheme (other than wholly or mainly members who are such directors);
 - “insurer” (subject to paragraph (5)) means—
-  - (a) a person who has permission under Part IV of the Financial Services and Markets Act 2000[^f00004] (permission to carry on regulated activities) to effect or carry out contracts of long-term insurance, [^key-71ee26d339a6a75749b824fbe588a925]...
-  - (b) [^key-71ee26d339a6a75749b824fbe588a925]...
+  - (a) a person who has permission under Part IV of the Financial Services and Markets Act 2000[^f00004] (permission to carry on regulated activities) to effect or carry out contracts of long-term insurance, [^c-71ee26d339a6a75749b824fbe588a925]...
+  - (b) [^c-71ee26d339a6a75749b824fbe588a925]...
 - “registered pension scheme” has the meaning given in section 150(2) of the Finance Act 2004[^f00005] (meaning of “pension scheme”);
 - “relevant centralised scheme” means a scheme in which—
   - (a) membership is open to employees of more than one employer under a single scheme;
@@ -109,7 +109,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (7) In these Regulations, any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 2005 bearing that number.
 
-## 2. Exemptions from requirement to have member-nominated trustees[^key-13e8195e5859ba5e7b7d70235e1c4513]
+## 2. Exemptions from requirement to have member-nominated trustees[^c-13e8195e5859ba5e7b7d70235e1c4513]
 
 For the purposes of Article 218(8)(c) (requirement for member-nominated trustees) a scheme is of a prescribed description if the scheme—
 
@@ -130,7 +130,7 @@ For the purposes of Article 218(8)(c) (requirement for member-nominated trustees
   or[^M_F_4f2e2a9e-ee1a-4f7f-cb30-c9a8484014e0]
 - (n) is designated as an existing scheme by virtue of Article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994 (designation of existing schemes).
 
-## 3. Prescribed exemptions from requirement to have member-nominated directors of corporate trustees[^key-5ea37d007cd3251069015ba622c6aaad]
+## 3. Prescribed exemptions from requirement to have member-nominated directors of corporate trustees[^c-5ea37d007cd3251069015ba622c6aaad]
 
 For the purposes of Article 219(10) (requirement for member-nominated directors of corporate trustees) a scheme is of a prescribed description if the scheme—
 
@@ -153,7 +153,7 @@ For the purposes of Article 219(10) (requirement for member-nominated directors 
   or[^M_F_934d9726-ce69-4cf7-f6a0-3b251cef543f]
 - (p) is designated as an existing scheme by virtue of Article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994.
 
-## 4. Transitional[^key-31b4736c0687580672e8371519d60740]
+## 4. Transitional[^c-31b4736c0687580672e8371519d60740]
 
 In relation to a scheme which has alternative arrangements for the appointment of trustees or directors approved under Article 17(1) (exceptions) or 19(1) (corporate trustees: exceptions) of the 1995 Order immediately prior to the date those Articles were repealed, the approval of such arrangements shall cease to have effect—
 
@@ -162,7 +162,7 @@ In relation to a scheme which has alternative arrangements for the appointment o
 
 whichever is the earlier.
 
-## 5. Modifications of Articles 218 and 219[^key-d7c8ae8c0121b4f836293b1915212440]
+## 5. Modifications of Articles 218 and 219[^c-d7c8ae8c0121b4f836293b1915212440]
 
 (1) Articles 218 (requirement for member-nominated trustees) and 219 (requirement for member-nominated directors of corporate trustees) shall be modified in their application to the cases prescribed in paragraphs (2) to (7)[^M_F_d36339b4-753e-4dc2-b355-5ee867f3ae1a].
 
@@ -227,7 +227,7 @@ Article 219 shall be modified as if after paragraph (1) there were inserted the 
 
 - “(1A) But paragraph (1) does not apply to such a company which only has directors who are independent (or a sole director who is independent) within the meaning given by Article 23(3) of the 1995 Order.”.
 
-## 6. Revocations[^key-758cd4de4dd090d3ad28903f5f1effb6]
+## 6. Revocations[^c-758cd4de4dd090d3ad28903f5f1effb6]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -239,7 +239,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — Revocations[^key-55d727a18dc273704f793f5be903e532]
+## SCHEDULE — Revocations[^c-55d727a18dc273704f793f5be903e532]
 
 Regulation 6
 
@@ -280,7 +280,7 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-41b8f5e48433720b206d474b0458a569]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/148/regulation/1) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-41b8f5e48433720b206d474b0458a569]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/148/regulation/1) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 543 (C. 37)](https://www.legislation.gov.uk/nisr/2005/543); Articles 16 to 18, 20 and 21 of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) were amended by paragraphs 34 and 38 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), respectively. Articles 16 to 21 of the Pensions (Northern Ireland) Order 1995 are repealed by Schedule 11 to the Pensions (Northern Ireland) Order 2005 with effect from 6th April 2006
 
@@ -288,7 +288,7 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00004]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-71ee26d339a6a75749b824fbe588a925]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/148/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71ee26d339a6a75749b824fbe588a925]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/148/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
@@ -298,7 +298,7 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00008]: Footnote: Article 4 was amended by paragraph 80 of Schedule 29 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-13e8195e5859ba5e7b7d70235e1c4513]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/148/regulation/2) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-13e8195e5859ba5e7b7d70235e1c4513]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/148/regulation/2) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
 
 [^f00009]: Footnote: Article 22 was amended by section 43(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and Article 32(2) of, and paragraph 34 of Schedule 10 to, the Pensions (Northern Ireland) Order 2005
 
@@ -316,7 +316,7 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^M_F_4f2e2a9e-ee1a-4f7f-cb30-c9a8484014e0]: Textual amendment: Words in reg. 2 inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(3)(b)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
 
-[^key-5ea37d007cd3251069015ba622c6aaad]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/148/regulation/3) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-5ea37d007cd3251069015ba622c6aaad]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/148/regulation/3) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
 
 [^M_F_9cdf90cf-a5ee-4072-b147-5099f9a5ee80]: Textual amendment: Words in [reg. 3(l)](https://www.legislation.gov.uk/nisr/2006/148/regulation/3) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://editorial.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/1), [20(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/20)
 
@@ -324,11 +324,11 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^M_F_934d9726-ce69-4cf7-f6a0-3b251cef543f]: Textual amendment: Words in reg. 3 inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185/contents), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1), [19(4)(b)](https://www.legislation.gov.uk/nisr/2007/185/regulation/19)
 
-[^key-31b4736c0687580672e8371519d60740]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/148/regulation/4) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-31b4736c0687580672e8371519d60740]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/148/regulation/4) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1996 No. 431](https://www.legislation.gov.uk/nisr/1996/431); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and [S.R. 2002 No. 279](https://www.legislation.gov.uk/nisr/2002/279)
 
-[^key-d7c8ae8c0121b4f836293b1915212440]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-d7c8ae8c0121b4f836293b1915212440]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
 
 [^M_F_d36339b4-753e-4dc2-b355-5ee867f3ae1a]: Textual amendment: Words in [Reg. 5](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) substituted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://editorial.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/1), [20(3)(a)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/20)
 
@@ -336,6 +336,6 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^M_F_8f1fb998-2344-48a6-c1f4-77af5616cf4b]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/nisr/2006/148/regulation/5) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://editorial.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/1), [20(3)(b)](https://editorial.legislation.gov.uk/nisr/2009/115/regulation/20)
 
-[^key-758cd4de4dd090d3ad28903f5f1effb6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/148/regulation/6) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-758cd4de4dd090d3ad28903f5f1effb6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/148/regulation/6) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
 
-[^key-55d727a18dc273704f793f5be903e532]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/148/schedule) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)
+[^c-55d727a18dc273704f793f5be903e532]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/148/schedule) in operation at 6.4.2006, immediately prior to the coming into operation of [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art.2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/543/regulation/1/1)

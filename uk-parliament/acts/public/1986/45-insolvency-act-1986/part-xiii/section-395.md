@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395. Right to make representations.[^key-e2cb3465ee0bdce71c4df30a9682cd87]
+## 395. Right to make representations.[^c-e2cb3465ee0bdce71c4df30a9682cd87]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cb3465ee0bdce71c4df30a9682cd87]: Textual amendment: Ss. 392-398 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/21) (with [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/23)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)
+[^c-e2cb3465ee0bdce71c4df30a9682cd87]: Textual amendment: Ss. 392-398 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/21) (with [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/23)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/vi)

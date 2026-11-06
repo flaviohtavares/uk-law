@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Duties in relation to the approved documents[^key-cc573c15b4120d9a7a1fe84a6b5be1a9]
+## 6. Duties in relation to the approved documents[^c-cc573c15b4120d9a7a1fe84a6b5be1a9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Without prejudice to the generality of the provisions contained in these Regulat
 
 ## Annotations
 
-[^key-cc573c15b4120d9a7a1fe84a6b5be1a9]: Commencement: Reg. 6 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-cc573c15b4120d9a7a1fe84a6b5be1a9]: Commencement: Reg. 6 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

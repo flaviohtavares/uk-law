@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.29. Interpretation[^key-ddaebdd120b49393e473685ec4e5b144]
+## 3.29. Interpretation[^c-ddaebdd120b49393e473685ec4e5b144]
 
 *Extent: S*
 
-In this Part, “**application**” means, except in rule 3.33, an application for a child protection order in terms of section 37 of the[^key-eadf441c8cc48bbd158af0bc0d0681cd] 2011 Act.
+In this Part, “**application**” means, except in rule 3.33, an application for a child protection order in terms of section 37 of the[^c-eadf441c8cc48bbd158af0bc0d0681cd] 2011 Act.
 
 ## Annotations
 
-[^key-ddaebdd120b49393e473685ec4e5b144]: Commencement: Rule 3.29 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-ddaebdd120b49393e473685ec4e5b144]: Commencement: Rule 3.29 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-eadf441c8cc48bbd158af0bc0d0681cd]: Textual amendment: Words in rule 3.29 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(23)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/23) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-eadf441c8cc48bbd158af0bc0d0681cd]: Textual amendment: Words in rule 3.29 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(23)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/23) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

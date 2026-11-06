@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Public Contracts website[^key-073a2546e4d810d8df8d2cf814c13a5c]
+## 22. Public Contracts website[^c-073a2546e4d810d8df8d2cf814c13a5c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-073a2546e4d810d8df8d2cf814c13a5c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/12/section/22) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-073a2546e4d810d8df8d2cf814c13a5c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/12/section/22) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

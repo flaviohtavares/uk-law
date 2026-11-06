@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Return to continuing care[^key-76c914f67b4b3c4126cfd76b1ab1721f]
+## 24. Return to continuing care[^c-76c914f67b4b3c4126cfd76b1ab1721f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76c914f67b4b3c4126cfd76b1ab1721f]: Commencement: S. 24 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-76c914f67b4b3c4126cfd76b1ab1721f]: Commencement: S. 24 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

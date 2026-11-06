@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. The form of notices and other documents[^key-0d7b461644ca44d41222d4c46943862d]
+## 84. The form of notices and other documents[^c-0d7b461644ca44d41222d4c46943862d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to any order of the court, any notice or other document required to be g
 
 ## Annotations
 
-[^key-0d7b461644ca44d41222d4c46943862d]: Commencement: Rule 84 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-0d7b461644ca44d41222d4c46943862d]: Commencement: Rule 84 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

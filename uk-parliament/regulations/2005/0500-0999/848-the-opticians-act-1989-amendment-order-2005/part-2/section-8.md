@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of section 8[^key-774ec55a25098d3b073784cd6ac9471b]
+## 8. Amendment of section 8[^c-774ec55a25098d3b073784cd6ac9471b]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ summary: ''
 
 ## Annotations
 
-[^key-774ec55a25098d3b073784cd6ac9471b]: Commencement: Art. 8 comes into force in accordance with art. 1(3)-(6)
+[^c-774ec55a25098d3b073784cd6ac9471b]: Commencement: Art. 8 comes into force in accordance with art. 1(3)-(6)
 
 [^f00003]: Footnote: S.I. [2005/18](https://www.legislation.gov.uk/uksi/2005/18).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Preparation of local well-being plans: Commissioner's advice[^key-f69a478999b1dd629fd707db193d4b77]
+## 42. Preparation of local well-being plans: Commissioner's advice[^c-f69a478999b1dd629fd707db193d4b77]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f69a478999b1dd629fd707db193d4b77]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2015/2/section/42) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-f69a478999b1dd629fd707db193d4b77]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2015/2/section/42) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

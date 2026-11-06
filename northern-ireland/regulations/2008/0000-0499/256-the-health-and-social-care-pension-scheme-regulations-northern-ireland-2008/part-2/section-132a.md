@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132A. Interest and Administration Charges: Late paid contributions[^key-9115750cb0b18b7513099098a91e8be9]
+## 132A. Interest and Administration Charges: Late paid contributions[^c-9115750cb0b18b7513099098a91e8be9]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9115750cb0b18b7513099098a91e8be9]: Textual amendment: [Reg. 132A](https://www.legislation.gov.uk/nisr/2008/256/regulation/132A) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2015/121/regulation/32)
+[^c-9115750cb0b18b7513099098a91e8be9]: Textual amendment: [Reg. 132A](https://www.legislation.gov.uk/nisr/2008/256/regulation/132A) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2015/121/regulation/32)

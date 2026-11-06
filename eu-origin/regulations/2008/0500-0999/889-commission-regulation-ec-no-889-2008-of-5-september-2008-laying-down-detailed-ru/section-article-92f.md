@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The relevant authority[^key-823986ac4c94c8c88d9831c17c87bd36] shall ensure that their multi-annual national control plans referred to in Article 41 of Regulation (EC) No 882/2004 cover the supervision of controls performed on the organic production in accordance with this Regulation and to include the specific data on that supervision, hereinafter referred to as ‘ the organic data ’, in the annual report referred to in Article 44 of Regulation (EC) No 882/2004. The organic data shall cover the topics listed in Annex XIIIb to this Regulation.
+The relevant authority[^c-823986ac4c94c8c88d9831c17c87bd36] shall ensure that their multi-annual national control plans referred to in Article 41 of Regulation (EC) No 882/2004 cover the supervision of controls performed on the organic production in accordance with this Regulation and to include the specific data on that supervision, hereinafter referred to as ‘ the organic data ’, in the annual report referred to in Article 44 of Regulation (EC) No 882/2004. The organic data shall cover the topics listed in Annex XIIIb to this Regulation.
 
 The organic data shall be based on information on the controls performed by the control bodies and/or control authorities and on audits performed by the competent authority.
 
@@ -32,4 +32,4 @@ The relevant authority may insert the organic data as an organic chapter of thei
 
 [^c000008]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) No 392/2013 of 29 April 2013 amending Regulation (EC) No 889/2008 as regards the control system for organic production](https://www.legislation.gov.uk/eur/2013/392).
 
-[^key-823986ac4c94c8c88d9831c17c87bd36]: Textual amendment: Words in [Art. 92f](https://www.legislation.gov.uk/eur/2008/889/article/92f) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(47)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-823986ac4c94c8c88d9831c17c87bd36]: Textual amendment: Words in [Art. 92f](https://www.legislation.gov.uk/eur/2008/889/article/92f) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(47)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

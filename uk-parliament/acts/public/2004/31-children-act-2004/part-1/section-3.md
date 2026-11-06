@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Children’s Commissioner may only conduct an inquiry under this section if he is satisfied that the inquiry would not duplicate work that is the function of another person (having consulted such persons as he considers appropriate).
 
-(3)[^key-7fc126ab78b04ee635e8d93593d80b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7fc126ab78b04ee635e8d93593d80b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Children’s Commissioner may, if he thinks fit, hold an inquiry under this section, or any part of it, in private.
 
@@ -35,12 +35,12 @@ summary: ''
 
 (6) The report need not identify any individual child if the Children’s Commissioner considers that it would be undesirable for the identity of the child to be made public.
 
-(7) Where the Children’s Commissioner has published a report under this section containing recommendations in respect of any person exercising functions of a public nature[^key-799ce65ff9a41146af373adae2a6b8c8], he may require that person to state in writing, within such period as the Children’s Commissioner may reasonably require, what action the person has taken or proposes to take in response to the recommendations.
+(7) Where the Children’s Commissioner has published a report under this section containing recommendations in respect of any person exercising functions of a public nature[^c-799ce65ff9a41146af373adae2a6b8c8], he may require that person to state in writing, within such period as the Children’s Commissioner may reasonably require, what action the person has taken or proposes to take in response to the recommendations.
 
 (8) Subsections (2) and (3) of section 250 of the Local Government Act 1972 (c. 70) apply for the purposes of an inquiry held under this section with the substitution for references to the person appointed to hold the inquiry of references to the Children’s Commissioner.
 
 ## Annotations
 
-[^key-7fc126ab78b04ee635e8d93593d80b77]: Textual amendment: S. 3(3) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/1/2)
+[^c-7fc126ab78b04ee635e8d93593d80b77]: Textual amendment: S. 3(3) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/1/2)
 
-[^key-799ce65ff9a41146af373adae2a6b8c8]: Textual amendment: Words in s. 3(7) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/1/3)
+[^c-799ce65ff9a41146af373adae2a6b8c8]: Textual amendment: Words in s. 3(7) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/1/3)

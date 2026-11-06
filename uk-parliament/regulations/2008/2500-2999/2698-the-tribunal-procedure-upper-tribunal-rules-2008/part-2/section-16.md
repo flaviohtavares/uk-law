@@ -28,7 +28,7 @@ summary: ''
 
 (3) No person may be compelled to give any evidence or produce any document that the person could not be compelled to give or produce on a trial of an action in a court of law in the part of the United Kingdom where the proceedings are due to be determined.
 
-(4)[^key-824b11a6d69e3f26240dbf4b81706933] A person who receives a summons, citation or order may apply to the Upper Tribunal for it to be varied or set aside if they did not have an opportunity to object to it before it was made or issued.
+(4)[^c-824b11a6d69e3f26240dbf4b81706933] A person who receives a summons, citation or order may apply to the Upper Tribunal for it to be varied or set aside if they did not have an opportunity to object to it before it was made or issued.
 
 (5) A person making an application under paragraph (4) must do so as soon as reasonably practicable after receiving notice of the summons, citation or order.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-824b11a6d69e3f26240dbf4b81706933]: Textual amendment: Rule 16(4)(5)(6) substituted for rule 16(4) (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [11](https://www.legislation.gov.uk/uksi/2009/274/article/11)
+[^c-824b11a6d69e3f26240dbf4b81706933]: Textual amendment: Rule 16(4)(5)(6) substituted for rule 16(4) (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [11](https://www.legislation.gov.uk/uksi/2009/274/article/11)

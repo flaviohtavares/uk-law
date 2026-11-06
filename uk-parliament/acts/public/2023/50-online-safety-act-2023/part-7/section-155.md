@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Consumer consultation[^key-7e53bd2375f222694e63d2a8e91902c0][^key-1595ca34e14f4153acc6284952a92625]
+## 155. Consumer consultation[^c-7e53bd2375f222694e63d2a8e91902c0][^c-1595ca34e14f4153acc6284952a92625]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e53bd2375f222694e63d2a8e91902c0]: Commencement: S. 155 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-7e53bd2375f222694e63d2a8e91902c0]: Commencement: S. 155 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-1595ca34e14f4153acc6284952a92625]: Commencement: S. 155 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-1595ca34e14f4153acc6284952a92625]: Commencement: S. 155 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

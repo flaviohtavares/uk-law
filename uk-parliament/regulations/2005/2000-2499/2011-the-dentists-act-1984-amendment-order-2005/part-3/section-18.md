@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Substitution of sections 27 and 28[^key-cc1dfd968cb534f1c3d92cef5a24ea5c]
+## 18. Substitution of sections 27 and 28[^c-cc1dfd968cb534f1c3d92cef5a24ea5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -232,4 +232,4 @@ For sections 27 and 28 substitute—
 
 ## Annotations
 
-[^key-cc1dfd968cb534f1c3d92cef5a24ea5c]: Commencement: Art. 18 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-cc1dfd968cb534f1c3d92cef5a24ea5c]: Commencement: Art. 18 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

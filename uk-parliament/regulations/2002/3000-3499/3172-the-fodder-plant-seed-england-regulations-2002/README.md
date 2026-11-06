@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Fodder Plant Seed (England) Regulations 2002 (revoked)[^key-adb5a887fed4c1e50580766f32b23713]
+The Fodder Plant Seed (England) Regulations 2002 (revoked)[^c-adb5a887fed4c1e50580766f32b23713]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 31st January 2003
 
-[^key-adb5a887fed4c1e50580766f32b23713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adb5a887fed4c1e50580766f32b23713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-adb5a887fed4c1e50580766f32b23713]
+### PART I — GENERAL[^c-adb5a887fed4c1e50580766f32b23713]
 
 *Extent: E+W+S+NI*
 
@@ -61,7 +61,7 @@ Coming into force
 - [Section 4 — Definition of marketing](part-i/section-4.md)
 - [Section 5 — Seed to which these Regulations apply](part-i/section-5.md)
 
-### PART II — PROCEDURES RELATING TO THE OFFICIAL CERTIFICATION OF SEED[^key-adb5a887fed4c1e50580766f32b23713]
+### PART II — PROCEDURES RELATING TO THE OFFICIAL CERTIFICATION OF SEED[^c-adb5a887fed4c1e50580766f32b23713]
 
 *Extent: E+W+S+NI*
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 13 — Re-grading of seed](part-ii/section-13.md)
 - [Section 14 — Withdrawals](part-ii/section-14.md)
 
-### PART III — CONTROL OF FODDER PLANT SEED[^key-adb5a887fed4c1e50580766f32b23713]
+### PART III — CONTROL OF FODDER PLANT SEED[^c-adb5a887fed4c1e50580766f32b23713]
 
 *Extent: E+W+S+NI*
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 25 — Sealing of packages](part-iii/section-25.md)
 - [Section 26 — Labelling of packages](part-iii/section-26.md)
 
-### PART IV — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^key-adb5a887fed4c1e50580766f32b23713]
+### PART IV — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^c-adb5a887fed4c1e50580766f32b23713]
 
 *Extent: E+W+S+NI*
 
@@ -126,14 +126,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-adb5a887fed4c1e50580766f32b23713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adb5a887fed4c1e50580766f32b23713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
 **May not be in force at this date. Check the source.**
 
-[^key-adb5a887fed4c1e50580766f32b23713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adb5a887fed4c1e50580766f32b23713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adb5a887fed4c1e50580766f32b23713]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/b)
+[^c-adb5a887fed4c1e50580766f32b23713]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/b)

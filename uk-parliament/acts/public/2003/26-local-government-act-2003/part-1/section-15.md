@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Guidance[^key-7c9e4b75e948f41046b31ec35cfe6dc5][^key-c78abff24633a8ff6b65d7057ffc42f4]
+## 15. Guidance[^c-7c9e4b75e948f41046b31ec35cfe6dc5][^c-c78abff24633a8ff6b65d7057ffc42f4]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c9e4b75e948f41046b31ec35cfe6dc5]: Commencement: S. 15 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-7c9e4b75e948f41046b31ec35cfe6dc5]: Commencement: S. 15 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-c78abff24633a8ff6b65d7057ffc42f4]: Commencement: S. 15 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
+[^c-c78abff24633a8ff6b65d7057ffc42f4]: Commencement: S. 15 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))

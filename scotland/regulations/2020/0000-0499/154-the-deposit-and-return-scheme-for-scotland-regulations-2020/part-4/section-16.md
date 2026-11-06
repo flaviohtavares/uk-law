@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Obligations of a scheme administrator[^key-78653a54d1a0ab5b39ed48565ece008f][^key-febb137e7910820fa67c4baf58011d09]
+## 16. Obligations of a scheme administrator[^c-78653a54d1a0ab5b39ed48565ece008f][^c-febb137e7910820fa67c4baf58011d09]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78653a54d1a0ab5b39ed48565ece008f]: Commencement: Reg. 16 in force at 20.5.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/2)
+[^c-78653a54d1a0ab5b39ed48565ece008f]: Commencement: Reg. 16 in force at 20.5.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/2)
 
-[^key-febb137e7910820fa67c4baf58011d09]: Textual amendment: [Regs. 16-16B](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) substituted for [reg. 16](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [15](https://www.legislation.gov.uk/ssi/2025/188/regulation/15)
+[^c-febb137e7910820fa67c4baf58011d09]: Textual amendment: [Regs. 16-16B](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) substituted for [reg. 16](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [15](https://www.legislation.gov.uk/ssi/2025/188/regulation/15)

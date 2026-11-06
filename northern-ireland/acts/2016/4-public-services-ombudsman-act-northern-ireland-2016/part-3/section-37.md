@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Model complaints handling procedures[^key-f2c686f0fee0ece4ce0ec449b25a7aba]
+## 37. Model complaints handling procedures[^c-f2c686f0fee0ece4ce0ec449b25a7aba]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2c686f0fee0ece4ce0ec449b25a7aba]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2016/4/section/37) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-f2c686f0fee0ece4ce0ec449b25a7aba]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2016/4/section/37) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

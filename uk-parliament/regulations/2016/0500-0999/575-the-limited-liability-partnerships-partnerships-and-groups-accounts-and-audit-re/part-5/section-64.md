@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment to the Partnerships (Accounts) Regulations 2008[^key-c33a3f62297beae89ec7f91843246907]
+## 64. Amendment to the Partnerships (Accounts) Regulations 2008[^c-c33a3f62297beae89ec7f91843246907]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c33a3f62297beae89ec7f91843246907]: Commencement: Reg. 64 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-c33a3f62297beae89ec7f91843246907]: Commencement: Reg. 64 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00051]: Footnote: [S.I. 2008/569](https://www.legislation.gov.uk/uksi/2008/569), amended by [S.I. 2013/2005](https://www.legislation.gov.uk/uksi/2013/2005), [2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 832A. Section 832: temporary non-residents[^key-bbdf9d5830ca26a56e140246a93d5e2b][^key-5fae1b4f49ac55f528385e35452020be]
+## 832A. Section 832: temporary non-residents[^c-bbdf9d5830ca26a56e140246a93d5e2b][^c-5fae1b4f49ac55f528385e35452020be]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbdf9d5830ca26a56e140246a93d5e2b]: Textual amendment: S. 832A substituted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 118](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/118)
+[^c-bbdf9d5830ca26a56e140246a93d5e2b]: Textual amendment: S. 832A substituted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 118](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/118)
 
-[^key-5fae1b4f49ac55f528385e35452020be]: Textual amendment: Ss. 832-832B substituted for s. 832 (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/53) (with [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/83))
+[^c-5fae1b4f49ac55f528385e35452020be]: Textual amendment: Ss. 832-832B substituted for s. 832 (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/53) (with [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/83))

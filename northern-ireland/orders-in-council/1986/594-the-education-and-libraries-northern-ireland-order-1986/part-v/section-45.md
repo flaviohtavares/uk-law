@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-442a43817cd934101db3b183f558834c][^key-8d09d36b1ea397e85f49476c09b11fbb] The parent of every child of compulsory school age shall cause him to receive efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have, either by regular attendance at school or otherwise.
+(1)[^c-442a43817cd934101db3b183f558834c][^c-8d09d36b1ea397e85f49476c09b11fbb] The parent of every child of compulsory school age shall cause him to receive efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have, either by regular attendance at school or otherwise.
 
 (2) The provisions of Schedule 13 shall apply to the enforcement of the provisions of paragraph (1) and a parent who contravenes the provisions of that Schedule shall be guilty of an offence and liable to the penalties provided by paragraph 4 of that Schedule.
 
 ## Annotations
 
-[^key-442a43817cd934101db3b183f558834c]: Modification: [Art. 45(1)](https://www.legislation.gov.uk/nisi/1986/594/article/45/1) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-442a43817cd934101db3b183f558834c]: Modification: [Art. 45(1)](https://www.legislation.gov.uk/nisi/1986/594/article/45/1) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-8d09d36b1ea397e85f49476c09b11fbb]: Modification: [Art. 45(1)](https://www.legislation.gov.uk/nisi/1986/594/article/45/1) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-8d09d36b1ea397e85f49476c09b11fbb]: Modification: [Art. 45(1)](https://www.legislation.gov.uk/nisi/1986/594/article/45/1) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

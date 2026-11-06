@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Composition of committee when creditors paid in full[^key-1895ffac99598c08333f69d2ae359fce]
+## 77. Composition of committee when creditors paid in full[^c-1895ffac99598c08333f69d2ae359fce]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1895ffac99598c08333f69d2ae359fce]: Commencement: Rule 77 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-1895ffac99598c08333f69d2ae359fce]: Commencement: Rule 77 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00035]: Footnote: Rule 4.59 was amended by paragraph 141(18) of Schedule 2(II) to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).

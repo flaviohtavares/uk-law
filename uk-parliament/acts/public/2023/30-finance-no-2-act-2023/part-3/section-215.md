@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the covered taxes payable by the entity (determined in accordance with Chapter 5) in the income period;
 - (b) distributions and deemed distributions paid by the entity and received by shareholders other than other investment entities in the review period;
-- (c) if, on determining the adjusted profits for the accounting periods in the review period, the entity has made a loss for one or more of those periods [^key-8ec063e6cc79076f936260a79506d8ce]..., the sum of those losses;
+- (c) if, on determining the adjusted profits for the accounting periods in the review period, the entity has made a loss for one or more of those periods [^c-8ec063e6cc79076f936260a79506d8ce]..., the sum of those losses;
 - (d) the investment loss carry-forward amount for the review period.
 
 (3) But an amount referred to in subsection (2) is not to be deducted from the undistributed income amount for an accounting period if it has already been deducted from the undistributed income amount for a previous accounting period.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ec063e6cc79076f936260a79506d8ce]: Textual amendment: Words in s. 215(2)(c) omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 62](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/62), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-8ec063e6cc79076f936260a79506d8ce]: Textual amendment: Words in s. 215(2)(c) omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 62](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/62), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

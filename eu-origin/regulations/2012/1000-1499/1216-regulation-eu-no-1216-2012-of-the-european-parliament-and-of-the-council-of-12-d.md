@@ -33,22 +33,22 @@ of 12 December 2012
 
 introducing, on the occasion of the accession of Croatia to the European Union, special temporary measures for the recruitment of Union officials and temporary staff (revoked)
 
-[^key-dee078f8f1d223e85eba6dc23e5c3501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dee078f8f1d223e85eba6dc23e5c3501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Recruitment of officials[^key-dee078f8f1d223e85eba6dc23e5c3501]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Recruitment of temporary staff[^key-dee078f8f1d223e85eba6dc23e5c3501]
+## Article 1. Recruitment of officials[^c-dee078f8f1d223e85eba6dc23e5c3501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-dee078f8f1d223e85eba6dc23e5c3501]
+## Article 2. Recruitment of temporary staff[^c-dee078f8f1d223e85eba6dc23e5c3501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dee078f8f1d223e85eba6dc23e5c3501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-dee078f8f1d223e85eba6dc23e5c3501]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-dee078f8f1d223e85eba6dc23e5c3501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dee078f8f1d223e85eba6dc23e5c3501]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dee078f8f1d223e85eba6dc23e5c3501]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

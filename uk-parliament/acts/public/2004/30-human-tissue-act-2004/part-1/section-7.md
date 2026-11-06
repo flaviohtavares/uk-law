@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Powers to dispense with need for consent[^key-868fab059ec53c3b22552fb422d946ed][^key-db5cc8a1aa2b0e2e9f32518e54adf5a8]
+## 7. Powers to dispense with need for consent[^c-868fab059ec53c3b22552fb422d946ed][^c-db5cc8a1aa2b0e2e9f32518e54adf5a8]
 
 *Extent: E+W+N.I.*
 
@@ -57,6 +57,6 @@ it may direct that subsection (3) apply to the material for the benefit of the o
 
 ## Annotations
 
-[^key-868fab059ec53c3b22552fb422d946ed]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/30/section/7) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-868fab059ec53c3b22552fb422d946ed]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/30/section/7) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-db5cc8a1aa2b0e2e9f32518e54adf5a8]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/30/section/7) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-db5cc8a1aa2b0e2e9f32518e54adf5a8]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/30/section/7) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

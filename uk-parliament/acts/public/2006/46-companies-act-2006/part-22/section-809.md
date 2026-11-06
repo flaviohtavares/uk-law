@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809. Register to be kept available for inspection[^c18916021][^key-842b23674e8e107cca6a17631b395e6b][^key-6515c8c424c68bb89bb47f71b59b7926]
+## 809. Register to be kept available for inspection[^c18916021][^c-842b23674e8e107cca6a17631b395e6b][^c-6515c8c424c68bb89bb47f71b59b7926]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c18916021]: Commencement: S. 809 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/d) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-842b23674e8e107cca6a17631b395e6b]: Modification: [S. 809](https://www.legislation.gov.uk/ukpga/2006/46/section/809) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(xii)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/xii)
+[^c-842b23674e8e107cca6a17631b395e6b]: Modification: [S. 809](https://www.legislation.gov.uk/ukpga/2006/46/section/809) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(xii)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/xii)
 
-[^key-6515c8c424c68bb89bb47f71b59b7926]: Modification: [S. 809](https://www.legislation.gov.uk/ukpga/2006/46/section/809) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-6515c8c424c68bb89bb47f71b59b7926]: Modification: [S. 809](https://www.legislation.gov.uk/ukpga/2006/46/section/809) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

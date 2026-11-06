@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. The Chief Regulator of Qualifications and Examinations[^key-58ab4454632f82d4c431acc91e10882d]
+## 21. The Chief Regulator of Qualifications and Examinations[^c-58ab4454632f82d4c431acc91e10882d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 (the Chief Regulator of Qualifications and Examinations) has effect.
 
 ## Annotations
 
-[^key-58ab4454632f82d4c431acc91e10882d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/21/section/21) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-58ab4454632f82d4c431acc91e10882d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/21/section/21) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

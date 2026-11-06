@@ -34,44 +34,44 @@ of 9 October 2014
 
 laying down detailed rules on the functioning of the Advisory Councils under the Common Fisheries Policy (revoked)
 
-[^key-6d7da069976cecf64f1e53c5c09bc479]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7da069976cecf64f1e53c5c09bc479]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 1. Scope[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 2. Definitions[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Start of the functioning of the new Advisory Councils[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 3. Start of the functioning of the new Advisory Councils[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Structure and organisation of the Advisory Councils[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 4. Structure and organisation of the Advisory Councils[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Working methods[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 5. Working methods[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Financial contribution by Advisory Councils[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 6. Financial contribution by Advisory Councils[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Support by Member States[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 7. Support by Member States[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-6d7da069976cecf64f1e53c5c09bc479]
+## Article 8. Entry into force[^c-6d7da069976cecf64f1e53c5c09bc479]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d7da069976cecf64f1e53c5c09bc479]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7da069976cecf64f1e53c5c09bc479]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d7da069976cecf64f1e53c5c09bc479]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6d7da069976cecf64f1e53c5c09bc479]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

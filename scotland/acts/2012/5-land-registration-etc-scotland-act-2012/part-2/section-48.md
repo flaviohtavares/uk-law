@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Closure of Register of Sasines etc.[^key-8369febdb4d40270a3f604973e54be0b]
+## 48. Closure of Register of Sasines etc.[^c-8369febdb4d40270a3f604973e54be0b]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8369febdb4d40270a3f604973e54be0b]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2012/5/section/48) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-8369febdb4d40270a3f604973e54be0b]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2012/5/section/48) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

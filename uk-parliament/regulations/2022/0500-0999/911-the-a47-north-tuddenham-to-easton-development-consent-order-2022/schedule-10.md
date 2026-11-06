@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — DOCUMENTS, ETC. TO BE CERTIFIED[^key-fe68b11f5402c259e52dbc81b70531f0]
+## SCHEDULE 10 — DOCUMENTS, ETC. TO BE CERTIFIED[^c-fe68b11f5402c259e52dbc81b70531f0]
 
 *Extent: E+W+S*
 
@@ -39,10 +39,10 @@ Articles 2 and 50
 | Hedgerow plans | TR010038/APP/2.12 | Revision 4 \[REP9-006\] |
 | De-trunking plans | TR010038/APP/2.13 | Revision 2 \[AS-033\] |
 | Outline traffic management plan | TR010038/APP/7.5 | Revision 0 \[APP-144\] |
-| [^key-6a236323496bdac3a0c18d36532acc72]. . . | [^key-6a236323496bdac3a0c18d36532acc72]. . . | [^key-6a236323496bdac3a0c18d36532acc72]. . . |
+| [^c-6a236323496bdac3a0c18d36532acc72]. . . | [^c-6a236323496bdac3a0c18d36532acc72]. . . | [^c-6a236323496bdac3a0c18d36532acc72]. . . |
 
 ## Annotations
 
-[^key-fe68b11f5402c259e52dbc81b70531f0]: Commencement: Sch. 10 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-fe68b11f5402c259e52dbc81b70531f0]: Commencement: Sch. 10 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
-[^key-6a236323496bdac3a0c18d36532acc72]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2022/911/schedule/10) row 16 omitted (11.10.2023) by virtue of The A47 North Tuddenham to [Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)
+[^c-6a236323496bdac3a0c18d36532acc72]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2022/911/schedule/10) row 16 omitted (11.10.2023) by virtue of The A47 North Tuddenham to [Easton Development Consent (Correction) Order 2023 (S.I. 2023/1076)](https://www.legislation.gov.uk/uksi/2023/1076), [art. 1](https://www.legislation.gov.uk/uksi/2023/1076/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1076/schedule)

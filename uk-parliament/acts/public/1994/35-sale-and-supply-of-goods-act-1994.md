@@ -442,11 +442,11 @@ Section 7.
 
 ### The Trading Stamps Act 1964 (c. 71)
 
-**1.**[^key-932364dc41ccdb216cddf625a9d0b475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-932364dc41ccdb216cddf625a9d0b475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Trading Stamps Act (Northern Ireland) 1965 (c. 6 (N.I.))
 
-**2.**[^key-84aa880a6c628487203d57054a264449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-84aa880a6c628487203d57054a264449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Uniform Laws on International Sales Act 1967 (c. 45)
 
@@ -609,7 +609,7 @@ Section 7.
 
 (8) In section 55 (exclusion of implied terms) in subsection (2) for “condition or warranty” (in both places) there is substituted “ term ”.
 
-(9)[^key-88506eac1784a74e043ad3d84b9675d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-88506eac1784a74e043ad3d84b9675d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) For the heading “*Conditions and warranties*” that precedes sections 10 to 14 there is substituted the heading “ *Implied terms etc.* ”.
 
@@ -742,8 +742,8 @@ Section 7.
 
 [^c834236]: Marginal citation: [1982 c. 29](https://www.legislation.gov.uk/ukpga/1982/29).
 
-[^key-932364dc41ccdb216cddf625a9d0b475]: Textual amendment: Sch. 2 para. 1 repealed (E.W.S.) (6.4.2005) by [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 1](https://www.legislation.gov.uk/uksi/2005/871/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/871/schedule)
+[^c-932364dc41ccdb216cddf625a9d0b475]: Textual amendment: Sch. 2 para. 1 repealed (E.W.S.) (6.4.2005) by [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 1](https://www.legislation.gov.uk/uksi/2005/871/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/871/schedule)
 
-[^key-84aa880a6c628487203d57054a264449]: Textual amendment: Sch. 2 para. 2 repealed (N.I.) (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1452/schedule/2); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/d)
+[^c-84aa880a6c628487203d57054a264449]: Textual amendment: Sch. 2 para. 2 repealed (N.I.) (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1452/schedule/2); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/d)
 
-[^key-88506eac1784a74e043ad3d84b9675d2]: Textual amendment: [Sch. 2 para. 5(9)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/5/9) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/55/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-88506eac1784a74e043ad3d84b9675d2]: Textual amendment: [Sch. 2 para. 5(9)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/5/9) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/55/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

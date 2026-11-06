@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Use of electronic mail for direct marketing by charities[^key-c599bd2ba7b18cf8269ac24bd01ded08][^key-3106b3d2656932d6605dc8ad907b37ed]
+## 114. Use of electronic mail for direct marketing by charities[^c-c599bd2ba7b18cf8269ac24bd01ded08][^c-3106b3d2656932d6605dc8ad907b37ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c599bd2ba7b18cf8269ac24bd01ded08]: Commencement: S. 114 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-c599bd2ba7b18cf8269ac24bd01ded08]: Commencement: S. 114 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-3106b3d2656932d6605dc8ad907b37ed]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/18/section/114) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/x)
+[^c-3106b3d2656932d6605dc8ad907b37ed]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/18/section/114) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/x)

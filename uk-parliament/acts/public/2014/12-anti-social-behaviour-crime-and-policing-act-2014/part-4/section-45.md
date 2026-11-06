@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Occupier or owner unascertainable[^key-629aea4753d6ade01a879bfe8c3edcf3]
+## 45. Occupier or owner unascertainable[^c-629aea4753d6ade01a879bfe8c3edcf3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-629aea4753d6ade01a879bfe8c3edcf3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/12/section/45) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-629aea4753d6ade01a879bfe8c3edcf3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/12/section/45) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

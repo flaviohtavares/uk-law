@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Interpretation of this Chapter[^key-20ecafddf53515d07b9b66c20cc59277][^key-d5759e25de9d2ab6cc36d447b5e584ad]
+## 73. Interpretation of this Chapter[^c-20ecafddf53515d07b9b66c20cc59277][^c-d5759e25de9d2ab6cc36d447b5e584ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20ecafddf53515d07b9b66c20cc59277]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2017/30/section/73) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-20ecafddf53515d07b9b66c20cc59277]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2017/30/section/73) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-d5759e25de9d2ab6cc36d447b5e584ad]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2017/30/section/73) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(jj)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/jj)
+[^c-d5759e25de9d2ab6cc36d447b5e584ad]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2017/30/section/73) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(jj)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/jj)

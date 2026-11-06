@@ -37,7 +37,7 @@ on cross-border payments in the Community and repealing Regulation (EC) No 2560/
 
 (Text with EEA relevance)
 
-[^key-6a5c1dd323941dfcfe83d6e4083ad64d]
+[^c-6a5c1dd323941dfcfe83d6e4083ad64d]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -145,49 +145,49 @@ HAVE ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter and scope
 
-1.[^c000001] This Regulation lays down rules on cross-border payments and on the transparency of currency conversion charges within the United Kingdom[^key-ef804520dec9f402078d504ebbebef41].
+1.[^c000001] This Regulation lays down rules on cross-border payments and on the transparency of currency conversion charges within the United Kingdom[^c-ef804520dec9f402078d504ebbebef41].
 
-2. [^key-2a9e813b58f0d24ff4331251e68e6947]...
+2. [^c-2a9e813b58f0d24ff4331251e68e6947]...
 
-This Regulation shall apply to national and cross-border payments that are denominated in euro, sterling or in a national currency of a Member State of the European Union other than the euro and that involve a currency conversion service.[^key-c8c29d50b48d58a10cb83efff9f801e8]
+This Regulation shall apply to national and cross-border payments that are denominated in euro, sterling or in a national currency of a Member State of the European Union other than the euro and that involve a currency conversion service.[^c-c8c29d50b48d58a10cb83efff9f801e8]
 
-(2A.)[^key-09b13fab530b197375dc25cb01ec886b] In respect of cross-border payments, this Regulation applies only to those parts of a payment transaction which are carried out in the United Kingdom.
+(2A.)[^c-09b13fab530b197375dc25cb01ec886b] In respect of cross-border payments, this Regulation applies only to those parts of a payment transaction which are carried out in the United Kingdom.
 
 3. This Regulation shall not apply to payments made by payment service providers for their own account or on behalf of other payment service providers.
 
-4.[^key-696f39f966607516d2e3f3868acf5fa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-696f39f966607516d2e3f3868acf5fa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 2. Definitions
 
 For the purposes of this Regulation, the following definitions shall apply:
 
-- 1.. ‘cross-border payment’ means an electronically processed payment transaction initiated by a payer or by or through a payee where—[^key-96095ff2aeede4d1a63dc6d873fde7bb]
+- 1.. ‘cross-border payment’ means an electronically processed payment transaction initiated by a payer or by or through a payee where—[^c-96095ff2aeede4d1a63dc6d873fde7bb]
   - (a) the payer’s payment service provider is located in the United Kingdom and the payee’s payment service provider is located in the EEA; or
   - (b) the payee’s payment service provider is located in the United Kingdom and the payer’s payment service provider is located in the EEA,
 
   and for the purposes of this definition, “payment service provider” has the same meaning as in regulation 40(1A)(a) of the Payment Services Regulations 2017;
-- 2.. ‘national payment’ means an electronically processed payment transaction initiated by a payer, or by or through a payee, where the payer’s payment service provider and the payee’s payment service provider are located in the United Kingdom[^key-c4268a5a5f9ce72aa316f026213cc37e];
+- 2.. ‘national payment’ means an electronically processed payment transaction initiated by a payer, or by or through a payee, where the payer’s payment service provider and the payee’s payment service provider are located in the United Kingdom[^c-c4268a5a5f9ce72aa316f026213cc37e];
 - 3.. ‘payer’ means a natural or legal person who holds a payment account and allows a payment order from that payment account, or, where there is no payment account, a natural or legal person who gives a payment order;
 - 4.. ‘payee’ means a natural or legal person who is the intended recipient of funds which have been the subject of a payment transaction;
-- 5.. ‘payment service provider’ has the same meaning as in regulation 2(1) of the Payment Services Regulations 2017;[^key-20917b9e559c1b84d6a239113ab14442]
+- 5.. ‘payment service provider’ has the same meaning as in regulation 2(1) of the Payment Services Regulations 2017;[^c-20917b9e559c1b84d6a239113ab14442]
 - 6.. ‘payment service user’ means a natural or legal person making use of a payment service in the capacity of either payer or payee, or both;
 - 7.. ‘payment transaction’ means an act, initiated by a payer or by or through a payee, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and the payee;
 - 8.. ‘payment order’ means an instruction by a payer or payee to his payment service provider requesting the execution of a payment transaction;
-- 9.. ‘charge’ means any amount levied on a payment service user by a payment service provider that is directly or indirectly linked to a payment transaction, any amount levied on a payment service user by a payment service provider or a party providing currency conversion services in accordance with regulation 57(2) of the Payment Services Regulations 2017[^key-e838ec98473f18749930a0132345915b] for a currency conversion service, or a combination thereof;
-- 10.. ‘funds’ has the same meaning as in regulation 2(1) of the Payment Services Regulations 2017.[^key-c9625ffc44f5b6ee85fa8b5495b19c1d]
-- 11.. [^key-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 12.. [^key-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 13.. [^key-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 14.. [^key-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- 15.. [^key-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 9.. ‘charge’ means any amount levied on a payment service user by a payment service provider that is directly or indirectly linked to a payment transaction, any amount levied on a payment service user by a payment service provider or a party providing currency conversion services in accordance with regulation 57(2) of the Payment Services Regulations 2017[^c-e838ec98473f18749930a0132345915b] for a currency conversion service, or a combination thereof;
+- 10.. ‘funds’ has the same meaning as in regulation 2(1) of the Payment Services Regulations 2017.[^c-c9625ffc44f5b6ee85fa8b5495b19c1d]
+- 11.. [^c-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 12.. [^c-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 13.. [^c-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 14.. [^c-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- 15.. [^c-0dadb1b0fe4ae697382b6052003784e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Charges for cross-border payments and corresponding national payments[^key-2259c9432a1b5c3cb39cb1535ece4426]
+## Article 3. Charges for cross-border payments and corresponding national payments[^c-2259c9432a1b5c3cb39cb1535ece4426]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 3a. Currency conversion charges related to card-based transactions[^c000002]
 
-1. With regard to the information requirements on currency conversion charges and the applicable exchange rate, as set out in regulations 43(1), 48(1) (taken with paragraph 3 of Schedule 4) and 57(2) of the Payment Services Regulations 2017[^key-b4494629ff2ebd4c446c814295615a39], payment service providers, and parties providing currency conversion services at an automated teller machine (ATM) or at the point of sale, as referred to in regulation 57(2) of the Payment Services Regulations 2017[^key-aefcc810b47517c5ac458ee3696062b9], shall express the total currency conversion charges as a percentage mark-up over the latest available euro foreign exchange reference rates issued by the European Central Bank (ECB). That mark-up shall be disclosed to the payer prior to the initiation of the payment transaction.
+1. With regard to the information requirements on currency conversion charges and the applicable exchange rate, as set out in regulations 43(1), 48(1) (taken with paragraph 3 of Schedule 4) and 57(2) of the Payment Services Regulations 2017[^c-b4494629ff2ebd4c446c814295615a39], payment service providers, and parties providing currency conversion services at an automated teller machine (ATM) or at the point of sale, as referred to in regulation 57(2) of the Payment Services Regulations 2017[^c-aefcc810b47517c5ac458ee3696062b9], shall express the total currency conversion charges as a percentage mark-up over the latest available euro foreign exchange reference rates issued by the European Central Bank (ECB). That mark-up shall be disclosed to the payer prior to the initiation of the payment transaction.
 
 2. Payment service providers shall also make the mark-ups referred to in paragraph 1 public in a comprehensible and easily accessible manner on a broadly available and easily accessible electronic platform.
 
@@ -202,65 +202,65 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 ## Article 3b. Currency conversion charges related to credit transfers
 
-1. When a currency conversion service is offered by the payer's payment service provider in relation to a credit transfer, as defined in regulation 2(1) of the Payment Services Regulations 2017[^key-b949b7e8f2e0f4724ceff1708bd6813a], that is initiated online directly, using the website or the mobile banking application of the payment service provider, the payment service provider, with regard to regulations 43(1) and 48(1) (taken with paragraph 3 of Schedule 4) of the Payment Services Regulations 2017[^key-cf0a3b5f3926fe31a4ea6c027476476c], shall inform the payer prior to the initiation of the payment transaction, in a clear, neutral and comprehensible manner, of the estimated charges for currency conversion services applicable to the credit transfer.
+1. When a currency conversion service is offered by the payer's payment service provider in relation to a credit transfer, as defined in regulation 2(1) of the Payment Services Regulations 2017[^c-b949b7e8f2e0f4724ceff1708bd6813a], that is initiated online directly, using the website or the mobile banking application of the payment service provider, the payment service provider, with regard to regulations 43(1) and 48(1) (taken with paragraph 3 of Schedule 4) of the Payment Services Regulations 2017[^c-cf0a3b5f3926fe31a4ea6c027476476c], shall inform the payer prior to the initiation of the payment transaction, in a clear, neutral and comprehensible manner, of the estimated charges for currency conversion services applicable to the credit transfer.
 
 2. Prior to the initiation of a payment transaction, the payment service provider shall communicate to the payer, in a clear, neutral and comprehensible manner, the estimated total amount of the credit transfer in the currency of the payer's account, including any transaction fee and any currency conversion charges. The payment service provider shall also communicate the estimated amount to be transferred to the payee in the currency used by the payee.
 
-## Article 4. Measures for facilitating the automation of payments[^key-556086e218a1969d2237187c4918346e]
+## Article 4. Measures for facilitating the automation of payments[^c-556086e218a1969d2237187c4918346e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Balance of payments reporting obligations[^key-556086e218a1969d2237187c4918346e]
+## Article 5. Balance of payments reporting obligations[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Interchange fee for cross-border direct debit transactions[^key-556086e218a1969d2237187c4918346e]
+## Article 6. Interchange fee for cross-border direct debit transactions[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Interchange fee for national direct debit transactions[^key-556086e218a1969d2237187c4918346e]
+## Article 7. Interchange fee for national direct debit transactions[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Reachability for direct debit transactions[^key-556086e218a1969d2237187c4918346e]
+## Article 8. Reachability for direct debit transactions[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Competent authorities[^key-556086e218a1969d2237187c4918346e]
+## Article 9. Competent authorities[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Complaint procedures for alleged infringements of this Regulation[^key-556086e218a1969d2237187c4918346e]
+## Article 10. Complaint procedures for alleged infringements of this Regulation[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Out-of-court complaint and redress procedures[^key-556086e218a1969d2237187c4918346e]
+## Article 11. Out-of-court complaint and redress procedures[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Cross-border cooperation[^key-556086e218a1969d2237187c4918346e]
+## Article 12. Cross-border cooperation[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Penalties[^key-556086e218a1969d2237187c4918346e]
+## Article 13. Penalties[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Application to currencies other than the euro[^key-556086e218a1969d2237187c4918346e]
+## Article 14. Application to currencies other than the euro[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Review[^key-556086e218a1969d2237187c4918346e]
+## Article 15. Review[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Repeal[^key-556086e218a1969d2237187c4918346e]
+## Article 16. Repeal[^c-556086e218a1969d2237187c4918346e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Entry into force[^key-556086e218a1969d2237187c4918346e]
+## Article 17. Entry into force[^c-556086e218a1969d2237187c4918346e]
 
 **No longer in force.**
 
@@ -270,7 +270,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 ## Annotations
 
-[^key-6a5c1dd323941dfcfe83d6e4083ad64d]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-6a5c1dd323941dfcfe83d6e4083ad64d]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: Opinion of 24 March 2009 (not yet published in the Official Journal).
 
@@ -284,40 +284,40 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 [^c000001]: Textual amendment: Substituted by [Regulation (EU) 2019/518 of the European Parliament and of the Council of 19 March 2019 amending Regulation (EC) No 924/2009 as regards certain charges on cross-border payments in the Union and currency conversion charges (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/518).
 
-[^key-ef804520dec9f402078d504ebbebef41]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2009/924/article/1/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/a)
+[^c-ef804520dec9f402078d504ebbebef41]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2009/924/article/1/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/a)
 
-[^key-2a9e813b58f0d24ff4331251e68e6947]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2009/924/article/1/2) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/b/i)
+[^c-2a9e813b58f0d24ff4331251e68e6947]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2009/924/article/1/2) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/b/i)
 
-[^key-c8c29d50b48d58a10cb83efff9f801e8]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2009/924/article/1/2) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/b/ii)
+[^c-c8c29d50b48d58a10cb83efff9f801e8]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2009/924/article/1/2) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/b/ii)
 
-[^key-09b13fab530b197375dc25cb01ec886b]: Textual amendment: [Art. 1(2A)](https://www.legislation.gov.uk/eur/2009/924/article/1/2A) inserted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/c)
+[^c-09b13fab530b197375dc25cb01ec886b]: Textual amendment: [Art. 1(2A)](https://www.legislation.gov.uk/eur/2009/924/article/1/2A) inserted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/c)
 
-[^key-696f39f966607516d2e3f3868acf5fa2]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/eur/2009/924/article/1/4) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/d)
+[^c-696f39f966607516d2e3f3868acf5fa2]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/eur/2009/924/article/1/4) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(2)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/2/d)
 
-[^key-96095ff2aeede4d1a63dc6d873fde7bb]: Textual amendment: Art. 2(1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/a)
+[^c-96095ff2aeede4d1a63dc6d873fde7bb]: Textual amendment: Art. 2(1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/a)
 
-[^key-c4268a5a5f9ce72aa316f026213cc37e]: Textual amendment: Words in Art. 2(2) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/b)
+[^c-c4268a5a5f9ce72aa316f026213cc37e]: Textual amendment: Words in Art. 2(2) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/b)
 
-[^key-20917b9e559c1b84d6a239113ab14442]: Textual amendment: Art. 2(5) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/c)
+[^c-20917b9e559c1b84d6a239113ab14442]: Textual amendment: Art. 2(5) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/c)
 
-[^key-e838ec98473f18749930a0132345915b]: Textual amendment: Words in Art. 2(9) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/d)
+[^c-e838ec98473f18749930a0132345915b]: Textual amendment: Words in Art. 2(9) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/d)
 
-[^key-c9625ffc44f5b6ee85fa8b5495b19c1d]: Textual amendment: Art. 2(10) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(e)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/e)
+[^c-c9625ffc44f5b6ee85fa8b5495b19c1d]: Textual amendment: Art. 2(10) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(e)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/e)
 
-[^key-0dadb1b0fe4ae697382b6052003784e5]: Textual amendment: Art. 2(11)-(15) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(f)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/f)
+[^c-0dadb1b0fe4ae697382b6052003784e5]: Textual amendment: Art. 2(11)-(15) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(3)(f)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/3/f)
 
-[^key-2259c9432a1b5c3cb39cb1535ece4426]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2009/924/article/3) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/4)
+[^c-2259c9432a1b5c3cb39cb1535ece4426]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2009/924/article/3) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/4)
 
 [^c000002]: Textual amendment: Inserted by [Regulation (EU) 2019/518 of the European Parliament and of the Council of 19 March 2019 amending Regulation (EC) No 924/2009 as regards certain charges on cross-border payments in the Union and currency conversion charges (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/518).
 
-[^key-b4494629ff2ebd4c446c814295615a39]: Textual amendment: Words in [Art. 3a(1)](https://www.legislation.gov.uk/eur/2009/924/article/3a/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(5)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/5/a)
+[^c-b4494629ff2ebd4c446c814295615a39]: Textual amendment: Words in [Art. 3a(1)](https://www.legislation.gov.uk/eur/2009/924/article/3a/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(5)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/5/a)
 
-[^key-aefcc810b47517c5ac458ee3696062b9]: Textual amendment: Words in [Art. 3a(1)](https://www.legislation.gov.uk/eur/2009/924/article/3a/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(5)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/5/b)
+[^c-aefcc810b47517c5ac458ee3696062b9]: Textual amendment: Words in [Art. 3a(1)](https://www.legislation.gov.uk/eur/2009/924/article/3a/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(5)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/5/b)
 
-[^key-b949b7e8f2e0f4724ceff1708bd6813a]: Textual amendment: Words in [Art. 3b(1)](https://www.legislation.gov.uk/eur/2009/924/article/3b/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(6)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/6/a)
+[^c-b949b7e8f2e0f4724ceff1708bd6813a]: Textual amendment: Words in [Art. 3b(1)](https://www.legislation.gov.uk/eur/2009/924/article/3b/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(6)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/6/a)
 
-[^key-cf0a3b5f3926fe31a4ea6c027476476c]: Textual amendment: Words in [Art. 3b(1)](https://www.legislation.gov.uk/eur/2009/924/article/3b/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(6)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/6/b)
+[^c-cf0a3b5f3926fe31a4ea6c027476476c]: Textual amendment: Words in [Art. 3b(1)](https://www.legislation.gov.uk/eur/2009/924/article/3b/1) substituted (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(6)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/6/b)
 
-[^key-556086e218a1969d2237187c4918346e]: Textual amendment: [Arts. 4-17](https://www.legislation.gov.uk/eur/2009/924/article/4) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/7)
+[^c-556086e218a1969d2237187c4918346e]: Textual amendment: [Arts. 4-17](https://www.legislation.gov.uk/eur/2009/924/article/4) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/7)
 
 [^M_F_c52ae918-b2c0-4ed4-ffcd-16c06e6d302c]: Textual amendment: Arts. 4-17 (including binding words) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [72(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72/7)

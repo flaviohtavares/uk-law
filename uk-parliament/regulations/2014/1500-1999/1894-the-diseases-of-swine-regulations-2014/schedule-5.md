@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Revocations[^key-6ef72ea9695c00e0cc75cc00c2470534]
+## SCHEDULE 5 — Revocations[^c-6ef72ea9695c00e0cc75cc00c2470534]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Regulation 43(1)
 
 ## Annotations
 
-[^key-6ef72ea9695c00e0cc75cc00c2470534]: Commencement: Sch. 5 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-6ef72ea9695c00e0cc75cc00c2470534]: Commencement: Sch. 5 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

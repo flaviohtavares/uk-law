@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Power to make provision about compensation on termination[^key-cbb06116931cda52a177f245ecc7d3d6]
+## 23. Power to make provision about compensation on termination[^c-cbb06116931cda52a177f245ecc7d3d6]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbb06116931cda52a177f245ecc7d3d6]: Commencement: S. 23 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-cbb06116931cda52a177f245ecc7d3d6]: Commencement: S. 23 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

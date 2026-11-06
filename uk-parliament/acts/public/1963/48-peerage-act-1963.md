@@ -39,7 +39,7 @@ An Act to authorise the disclaimer for life of certain hereditary peerages; to i
 
 (1) Subject to the provisions of this section, any person who, after the commencement of this Act, succeeds to a peerage in the peerage of England, Scotland, Great Britain or the United Kingdom may, by an instrument of disclaimer delivered to the Lord Chancellor within the period prescribed by this Act, disclaim that peerage for his life.
 
-(2) Any instrument of disclaimer to be delivered under this section in respect of a peerage shall be delivered within the period of twelve months beginning with the day on which the person disclaiming succeeds to that peerage or, if he is under the age of twenty-one when he so succeeds, the period of twelve months beginning with the day on which he attains that age [^key-0f899cb4665ab537a697bafdcf6e0d77]....
+(2) Any instrument of disclaimer to be delivered under this section in respect of a peerage shall be delivered within the period of twelve months beginning with the day on which the person disclaiming succeeds to that peerage or, if he is under the age of twenty-one when he so succeeds, the period of twelve months beginning with the day on which he attains that age [^c-0f899cb4665ab537a697bafdcf6e0d77]....
 
 (3) The foregoing provisions of this section shall apply to a person who has succeeded to a peerage before the commencement of this Act as they apply to a person who succeeds to a peerage after the commencement of this Act, but subject to the following modifications:—
 
@@ -67,15 +67,15 @@ but shall not accelerate the succession to that peerage nor affect its devolutio
 
 (4) The reference in the foregoing subsection to estates or other property limited or settled to devolve with a peerage shall, for the purposes of the application of this Act to Scotland, be construed as including a reference to estates or other land devolving as aforesaid under an entail or special destination, or the beneficial interest in which so devolves under a trust.
 
-## ...[^key-4889ba6d6366e2d48acada4f02e91859]
+## ...[^c-4889ba6d6366e2d48acada4f02e91859]
 
-### 4. Scottish peerages.[^key-4889ba6d6366e2d48acada4f02e91859]
+### 4. Scottish peerages.[^c-4889ba6d6366e2d48acada4f02e91859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654633]
 
-### 6. Peeresses in own right.[^key-d8e0924af768bfbdb95baa300523654d]
+### 6. Peeresses in own right.[^c-d8e0924af768bfbdb95baa300523654d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,7 +133,7 @@ Annex
 
 ## Annotations
 
-[^key-0f899cb4665ab537a697bafdcf6e0d77]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/1/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-0f899cb4665ab537a697bafdcf6e0d77]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/1/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
 [^c654628]: Textual amendment: [S. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1963/48/section/1/3/b) and word repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
 
@@ -143,11 +143,11 @@ Annex
 
 [^c654632]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/3/2) repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
 
-[^key-4889ba6d6366e2d48acada4f02e91859]: Textual amendment: S. 4 and cross-heading omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-4889ba6d6366e2d48acada4f02e91859]: Textual amendment: S. 4 and cross-heading omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
 [^c654633]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1963/48/section/5) repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
 
-[^key-d8e0924af768bfbdb95baa300523654d]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1963/48/section/6) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(c)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/c), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-d8e0924af768bfbdb95baa300523654d]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1963/48/section/6) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(c)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/c), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
 [^c654634]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1963/48/schedule/2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 

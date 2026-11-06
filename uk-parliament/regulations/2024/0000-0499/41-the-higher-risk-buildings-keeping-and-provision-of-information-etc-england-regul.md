@@ -50,13 +50,13 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-d611d48489a2e0cfa53b3e53f5024f6f]
+### 1. Citation, commencement, extent and application[^c-d611d48489a2e0cfa53b3e53f5024f6f]
 
 (1) These Regulations may be cited as the Higher-Risk Buildings (Keeping and Provision of Information etc.) (England) Regulations 2024 and come into force at the same time as section 83 of the 2022 Act comes into force.
 
 (2) These Regulations extend to England and Wales and apply in relation to England only.
 
-### 2. Interpretation[^key-1d2c3f4542136fde429d0f6aeed3725a]
+### 2. Interpretation[^c-1d2c3f4542136fde429d0f6aeed3725a]
 
 In these Regulations—
 
@@ -96,7 +96,7 @@ In these Regulations—
   - (b) regulation 20A (provisions applicable to third party certification schemes) of the 2010 Regulations applies;
 - “**wider building**” has the same meaning as in regulation 4(8) of the Higher-Risk Buildings (Descriptions and Supplementary Provisions) Regulations 2023[^f00015].
 
-### 3. Direction to be made by regulator[^key-0e3ed2c3abe0b43c0f2121cecf93f6fd]
+### 3. Direction to be made by regulator[^c-0e3ed2c3abe0b43c0f2121cecf93f6fd]
 
 (1) The information prescribed by regulation 5 must be given to the regulator in a way specified in a direction made by the regulator.
 
@@ -108,7 +108,7 @@ In these Regulations—
 
 ## PART 2 — Keeping information about higher-risk buildings
 
-### 4. Golden thread information[^key-cdb2e83e98895ecea6f37a1084b5eed7]
+### 4. Golden thread information[^c-cdb2e83e98895ecea6f37a1084b5eed7]
 
 (1) The information and documents prescribed for the purposes of section 88(1) and (2) of the 2022 Act (together “the golden thread information”) are set out in Schedule 1[^f00016].
 
@@ -116,7 +116,7 @@ In these Regulations—
 
 ## PART 3 — Prescribed persons and provision of information
 
-### 5. Provision of information to the regulator[^key-1478d4cb42cb20d19e32eacc034ce574]
+### 5. Provision of information to the regulator[^c-1478d4cb42cb20d19e32eacc034ce574]
 
 (1) Where an appointment referred to in paragraph (2) is made in relation to an AP, the AP must provide the following information to the regulator—
 
@@ -142,7 +142,7 @@ In these Regulations—
 - “**monitor**” has the meaning given in section A54(1) of the Insolvency Act 1986;
 - “**supervisor**” has the meaning given in section 263(2) of the Insolvency Act 1986 (where the supervisor is the supervisor of an individual voluntary arrangement) and the meaning given in section 7(2) of the same Act (where the supervisor is the supervisor of a company voluntary arrangement).
 
-### 6. Provision of information and documents to another AP for the higher-risk building[^key-a870546380d8459a5ac70708083f0ade]
+### 6. Provision of information and documents to another AP for the higher-risk building[^c-a870546380d8459a5ac70708083f0ade]
 
 (1) Subject to paragraph (2) and regulations 17 and 18, where there is more than one AP for a higher-risk building each AP for that building must provide to every other AP for that building the golden thread information that that AP is required to keep for that building.
 
@@ -151,7 +151,7 @@ In these Regulations—
 - (a) provide to another AP any information or document obtained from that AP where that information or document is up to date, or
 - (b) provide to another AP any information or document that is kept by the AP but to which the other AP has access and has been notified of this in writing by the AP.
 
-### 7. Provision of information and documents to residents of the building[^key-4affd7f18db6da43b701d63ea8c156ac]
+### 7. Provision of information and documents to residents of the building[^c-4affd7f18db6da43b701d63ea8c156ac]
 
 (1) Subject to paragraph (2) and regulation 18, an AP for a higher-risk building must provide to each person who is aged 16 or over and who resides in the part of the building for which that AP is responsible the information or a copy of a document prescribed in Schedule 2.
 
@@ -160,17 +160,17 @@ In these Regulations—
 - (a) is not aware that the person resides in that part of the building, and
 - (b) has taken all reasonable steps to make themselves aware of who resides in residential units in that part of the building.
 
-### 8. Provision of information and documents to owners of residential units in the building[^key-2d9acedcbfe2f168d44a7e2f258a63f9]
+### 8. Provision of information and documents to owners of residential units in the building[^c-2d9acedcbfe2f168d44a7e2f258a63f9]
 
 Subject to regulation 18, an AP for a higher-risk building must take all reasonable steps to provide to each owner of a residential unit in the part of the building for which that AP is responsible the information or a copy of a document prescribed in Schedule 2.
 
-### 9. Provision of documents to relevant landlord etc[^key-8cd4892b58d9e509747d291d159771c6]
+### 9. Provision of documents to relevant landlord etc[^c-8cd4892b58d9e509747d291d159771c6]
 
 (1) A relevant landlord is prescribed for the purposes of section 89(1)(e) of the 2022 Act.
 
 (2) Subject to regulation 17, where an AP has given a contravention notice[^f00024] to a person who resides in, but is not the owner of, a residential unit in a higher-risk building, the AP must take all reasonable steps to provide a copy of that notice to the relevant landlord.
 
-### 10. Provision of information and documents to client etc[^key-a1dae5115751301546ef18aaa7c47b1f]
+### 10. Provision of information and documents to client etc[^c-a1dae5115751301546ef18aaa7c47b1f]
 
 (1) Subject to paragraph (5) and regulations 15, 17 and 18, in relation to any project, the client for the project is prescribed for the purposes of section 89(1)(e) of the 2022 Act.
 
@@ -199,7 +199,7 @@ Subject to regulation 18, an AP for a higher-risk building must take all reasona
 
 (6) In this regulation “**notice**” means a notice given in accordance with paragraph (5)(b).
 
-### 11. Provision of information and documents to relevant RP etc[^key-b7835316622c74762436db25761002d0]
+### 11. Provision of information and documents to relevant RP etc[^c-b7835316622c74762436db25761002d0]
 
 (1) Subject to regulations 17 and 18, a relevant RP is prescribed for the purposes of section 89(1)(e) of the 2022 Act.
 
@@ -218,7 +218,7 @@ Subject to regulation 18, an AP for a higher-risk building must take all reasona
 
 (5) Paragraph (2) does not apply to any document that the relevant RP has previously given to the AP and is the same version of the document as the version that was given.
 
-### 12. Provision of information and documents to a fire and rescue authority etc[^key-bd7ada3aaaf26eab105bd6c2b2533641]
+### 12. Provision of information and documents to a fire and rescue authority etc[^c-bd7ada3aaaf26eab105bd6c2b2533641]
 
 (1) Subject to regulation 18, the fire and rescue authority for the area in which a higher-risk building is situated is prescribed for the purposes of section 89(1)(e) of the 2022 Act.
 
@@ -243,17 +243,17 @@ Subject to regulation 18, an AP for a higher-risk building must take all reasona
 
 (4) Where the fire and rescue authority for the area in which a higher-risk building is situated makes a written request to an AP for the higher-risk building to be provided with any information or a copy of a document that the AP is responsible for keeping as golden thread information, the AP must provide to that fire and rescue authority the information and a copy of the document requested.
 
-### 13. Provision of information and documents etc on change in AP[^key-72731c0f78c502ab1e2900b824649aa7]
+### 13. Provision of information and documents etc on change in AP[^c-72731c0f78c502ab1e2900b824649aa7]
 
 Subject to regulation 17, the information and documents prescribed for the purposes of section 90(2) of the 2022 Act are the golden thread information that the outgoing person was, immediately before the relevant time[^f00026], required to keep under regulation 4 by virtue of being an AP for the higher-risk building and, where applicable, was, immediately before the relevant time, required to keep under regulation 4 by virtue of being the PAP for the higher-risk building.
 
-### 14. Resident engagement: requests for further information[^key-907500e18cebd2fb12dfe6841d14cec2]
+### 14. Resident engagement: requests for further information[^c-907500e18cebd2fb12dfe6841d14cec2]
 
 Subject to regulations 16, 17 and 18, the information and documents prescribed for the purposes of section 92(1) of the 2022 Act are the information and documents specified in Schedule 3 to these Regulations.
 
 ## PART 4 — Limitations in relation to the duty to provide information or documents
 
-### 15. Exception for security: provision of documents to a client[^key-e7edb30d167f235066c45cacc761be50]
+### 15. Exception for security: provision of documents to a client[^c-e7edb30d167f235066c45cacc761be50]
 
 (1) The duty under regulation 10(3)(b) does not apply to any security sensitive material in a document described in paragraph 24(1) (structural risks) of Schedule 1 that an AP would otherwise be required to provide to a resident client.
 
@@ -264,7 +264,7 @@ Subject to regulations 16, 17 and 18, the information and documents prescribed f
   - (i) it relates to a relevant safety item[^f00027], and
   - (ii) it discloses how the item operates or how to interfere with its intended function.
 
-### 16. Exception for security: requests for further information by a resident or owner of a residential unit[^key-06886cc5c8da91c55e9675a03b7de2de]
+### 16. Exception for security: requests for further information by a resident or owner of a residential unit[^c-06886cc5c8da91c55e9675a03b7de2de]
 
 (1) The duty under section 92(2) of the 2022 Act does not apply to any security sensitive information, or to any security sensitive material in a document, that falls within any of the following provisions of Schedule 1—
 
@@ -281,7 +281,7 @@ Subject to regulations 16, 17 and 18, the information and documents prescribed f
   - (i) it relates to a relevant safety item[^f00028], and
   - (ii) it discloses how the item operates or how to interfere with its intended function.
 
-### 17. Exception for commercial sensitivity[^key-124650bda1137e275d7cc86fbfbe36f1]
+### 17. Exception for commercial sensitivity[^c-124650bda1137e275d7cc86fbfbe36f1]
 
 (1) This regulation applies in relation to the following—
 
@@ -334,7 +334,7 @@ Subject to regulations 16, 17 and 18, the information and documents prescribed f
   - (b) an AP, a relevant RP, or an AP client, that is necessary to enable them to identify, assess or manage a building safety risk in the higher-risk building or to understand how this is being done by another person who has responsibilities in relation to fire or structural safety for that higher-risk building;
 - “**trade secret**” means information, whether or not contained in a document or part of a document, which is not generally known or readily accessible to an AP, a RP or an AP client and has commercial value because it is secret.
 
-### 18. Exception for personal data[^key-26386d68d80b866164a07d0d45cad07c]
+### 18. Exception for personal data[^c-26386d68d80b866164a07d0d45cad07c]
 
 (1) Subject to paragraph (6), this regulation applies in relation to—
 
@@ -372,7 +372,7 @@ Subject to regulations 16, 17 and 18, the information and documents prescribed f
 - “**permitted personal data**” means any personal data that a PAP must display in accordance with section 82(1) of the 2022 Act;
 - “**significant for managing building safety**” means any information or material within a document that is necessary to enable the AP, PAP, relevant RP, AP client or fire and rescue authority to identify, assess or manage a building safety risk in the higher-risk building or to understand how this is being done by another who has responsibilities in relation to fire or structural safety for that higher-risk building.
 
-### 19. Limitation of liability for disclosure of information[^key-a4c8224114f8eece16a8e3eba428ce19]
+### 19. Limitation of liability for disclosure of information[^c-a4c8224114f8eece16a8e3eba428ce19]
 
 Where an AP, PAP or outgoing person discloses information in accordance with Parts 3 and 4 of these Regulations, the disclosure of information does not breach—
 
@@ -381,7 +381,7 @@ Where an AP, PAP or outgoing person discloses information in accordance with Par
 
 ## PART 5 — Amendment to the Higher-Risk Buildings (Descriptions and Supplementary Provisions) Regulations 2023
 
-### 20. Exclusions from the definition of “higher-risk building”[^key-bc9947f51d4d69be0503f1d5af0466ae]
+### 20. Exclusions from the definition of “higher-risk building”[^c-bc9947f51d4d69be0503f1d5af0466ae]
 
 (1) The Higher-Risk Buildings (Descriptions and Supplementary Provisions) Regulations 2023[^f00032] are amended as follows.
 
@@ -421,7 +421,7 @@ Where an AP, PAP or outgoing person discloses information in accordance with Par
 
 ## PART 6 — Amendment to the Higher-Risk Buildings (Key Building Information etc.) (England) Regulations 2023
 
-### 21. Buildings with more than one AP[^key-bed329f369b6e82a3ede9aca7f0c8fce]
+### 21. Buildings with more than one AP[^c-bed329f369b6e82a3ede9aca7f0c8fce]
 
 (1) The Higher-Risk Buildings (Key Building Information etc.) (England) Regulations 2023[^f00033] are amended as follows.
 
@@ -450,15 +450,15 @@ Department for Levelling Up, Housing and Communities
 
 Regulation 4
 
-### 1. Information to be kept by accountable persons[^key-16ea5758f7e82364f60bcd6d49247913]
+### 1. Information to be kept by accountable persons[^c-16ea5758f7e82364f60bcd6d49247913]
 
 The information described in paragraphs 2 to 14 is prescribed under section 88(1) of the 2022 Act.
 
-### 2. Building compliance: scheme work[^key-ecb7a0b5e88b0956fb06087730431e56]
+### 2. Building compliance: scheme work[^c-ecb7a0b5e88b0956fb06087730431e56]
 
 In relation to work to the higher-risk building that consists only of scheme work, the fire safety information which the client of that scheme work is required to give to any RP for that higher-risk building pursuant to the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023[^f00034].
 
-### 3. Registration[^key-401ae3f80962855b53923456e06014c6]
+### 3. Registration[^c-401ae3f80962855b53923456e06014c6]
 
 (1) Where a higher-risk building has been registered[^f00035], the most up to date registration information for that building.
 
@@ -466,13 +466,13 @@ In relation to work to the higher-risk building that consists only of scheme wor
 
 (3) In sub-paragraph (1) “**registration information**” has the meaning given in regulation 1(3) of the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023[^f00036].
 
-### 4. Key building information[^key-909562b9f0d4a65eb93b7f3bac157dfb]
+### 4. Key building information[^c-909562b9f0d4a65eb93b7f3bac157dfb]
 
 (1) Where an application for registration in relation to a higher-risk building has been made and 28 days have elapsed since that application was made, the key building information for the building that is given by the PAP to the regulator pursuant to regulations 19 and 21 of the Higher-Risk Buildings (Key Building Information etc.) (England) Regulations 2023.
 
 (2) The information in sub-paragraph (1) is only prescribed for the AP that is also the PAP for the higher-risk building.
 
-### 5. Building assessment certification application[^key-4141605798b542d7c8ad7c34abb42712]
+### 5. Building assessment certification application[^c-4141605798b542d7c8ad7c34abb42712]
 
 (1) Where an application has been made for a building assessment certificate in relation to a higher-risk building—
 
@@ -481,11 +481,11 @@ In relation to work to the higher-risk building that consists only of scheme wor
 
 (2) Any information prescribed in sub-paragraph (1) is only prescribed for the AP that is also the PAP for the higher-risk building.
 
-### 6. Fire safety management[^key-a135642e200cacb58fa8c64181baab69]
+### 6. Fire safety management[^c-a135642e200cacb58fa8c64181baab69]
 
 A list identifying each fire safety management measure, and a record of where each of those measures is located.
 
-### 7. Evacuation[^key-7bf1653961970c7f3ad9ed3e21da8840]
+### 7. Evacuation[^c-7bf1653961970c7f3ad9ed3e21da8840]
 
 (1) Where an evacuation strategy has been produced in relation to a building—
 
@@ -500,11 +500,11 @@ A list identifying each fire safety management measure, and a record of where ea
   - (c) information about any fire safety management measure that may assist a person to evacuate the building;
 - “**evacuation strategy**” has the same meaning as in regulation 9 of the Fire Safety Regulations[^f00037].
 
-### 8. Fire Safety Regulations information[^key-9260b8b2c917cbaef359ac61c6cb4824]
+### 8. Fire Safety Regulations information[^c-9260b8b2c917cbaef359ac61c6cb4824]
 
 Where regulation 4 of the Fire Safety Regulations imposes a requirement in relation to a higher-risk building, any information required under regulation 4(3)(a) and (b) of those Regulations.
 
-### 9. Structural risks[^key-490139b834f5ad79986034eb274b8da8]
+### 9. Structural risks[^c-490139b834f5ad79986034eb274b8da8]
 
 (1) A list identifying each structural safety measure in the building.
 
@@ -513,14 +513,14 @@ Where regulation 4 of the Fire Safety Regulations imposes a requirement in relat
 - (a) has been put in place for the purpose of preventing or reducing the severity of any structural failure in the higher-risk building, and
 - (b) has not been provided by a resident for their own use.
 
-### 10. Management of building safety risks[^key-917d9abf6fc64ec3b4a85c980a66bbbe]
+### 10. Management of building safety risks[^c-917d9abf6fc64ec3b4a85c980a66bbbe]
 
 In relation to the management of any building safety risk where it relates to the part of the building for which the AP is responsible—
 
 - (a) the schedule of any maintenance and repairs that are planned in relation to any equipment, device or materials (whether or not a fixture or part of the fabric of the building), by or on behalf of any AP for the building pursuant, whether in full or in part, to complying with section 84(1) (management of building safety risks) of the 2022 Act;
 - (b) where an inspection has been undertaken in relation to any building safety risk to the higher-risk building and a report of the outcome of the inspection has been produced, the most recent report.
 
-### 11. Building design[^key-9d45ddb1297a615632af29b9cbe502c2]
+### 11. Building design[^c-9d45ddb1297a615632af29b9cbe502c2]
 
 Any information recorded as part of the planning, design or construction of the higher-risk building (or part of the building), which relates to the approach taken in designing the building (or part of the building), including in particular—
 
@@ -528,18 +528,18 @@ Any information recorded as part of the planning, design or construction of the 
 - (b) any British or International building standard applied to and complied with in its construction;
 - (c) any description as to the intention of the design used in its construction.
 
-### 12. Mandatory reporting requirements[^key-5d9e3546a82e7309a5dd0f083cee907b]
+### 12. Mandatory reporting requirements[^c-5d9e3546a82e7309a5dd0f083cee907b]
 
 In relation to a report under a mandatory occurrence reporting system[^f00039] for the higher-risk building where no more than 7 years have passed since the day that the AP created or received the report—
 
 - (a) any information provided to the regulator by the AP in accordance with section 87(1) (mandatory reporting requirements) of the 2022 Act or regulations made under that section, and
 - (b) a description in summary of any steps taken by the AP in response to that report.
 
-### 13. Resident engagement[^key-81479de4b2dd8f90f9307b7b673570e6]
+### 13. Resident engagement[^c-81479de4b2dd8f90f9307b7b673570e6]
 
 Any information which an AP is required to give to a resident of the higher-risk building or an owner of a residential unit in the higher-risk building, pursuant to regulations 7 or 8 and Schedule 2.
 
-### 14. Complaints[^key-0cf33e4ea7a6a5be43b9e3842503012f]
+### 14. Complaints[^c-0cf33e4ea7a6a5be43b9e3842503012f]
 
 In relation to a relevant complaint[^f00040] made to a PAP where no more than 7 years have passed since the day that the PAP received the complaint, a description, in summary of—
 
@@ -548,11 +548,11 @@ In relation to a relevant complaint[^f00040] made to a PAP where no more than 7 
 - (c) any involvement of the regulator in relation to or in response to the complaint, and
 - (d) the outcome of the complaint.
 
-### 15. Documents to be kept by accountable person[^key-b4a0951e6b06483c0e67f5707633234f]
+### 15. Documents to be kept by accountable person[^c-b4a0951e6b06483c0e67f5707633234f]
 
 The documents specified in paragraphs 16 to 31 are prescribed under section 88(2) of the Act.
 
-### 16. Completion and partial completion of works[^key-ffb628eed9b736d8ac5dbf09a4b67ae9]
+### 16. Completion and partial completion of works[^c-ffb628eed9b736d8ac5dbf09a4b67ae9]
 
 (1) Where a completion certificate application by a client has been approved by the regulator, the documents are—
 
@@ -566,13 +566,13 @@ The documents specified in paragraphs 16 to 31 are prescribed under section 88(2
 
 (3) In sub-paragraphs (1) and (2) “**completion certificate application**” and “**partial completion certificate application**” have the same meanings as in the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023[^f00041].
 
-### 17. Building compliance: scheme work[^key-c360381b93d7c62fd5a6473201debbf5]
+### 17. Building compliance: scheme work[^c-c360381b93d7c62fd5a6473201debbf5]
 
 (1) Subject to sub-paragraph (2), in relation to work to the higher-risk building that consists only of scheme work, the document is any certificate that the person carrying out the work is required to give to the client as “the occupier”, in accordance with regulations 20(3)(a) and 20A(4)(a) of the 2010 Regulations.
 
 (2) Where the work to the higher-risk building updates previous work of the same nature to the same part of the building, the certificate which is given in relation to that updating work is the prescribed document and the previous certificate is not.
 
-### 18. Registration[^key-b53846234fde7b9526ad4c68ef504b3d]
+### 18. Registration[^c-b53846234fde7b9526ad4c68ef504b3d]
 
 (1) Where a higher-risk building has been registered, the document is any certificate that the PAP for the building is required to give to the regulator pursuant to regulations 4(b) and 18(1)(d) of the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023.
 
@@ -580,7 +580,7 @@ The documents specified in paragraphs 16 to 31 are prescribed under section 88(2
 
 (3) The document prescribed in sub-paragraph (1) is only prescribed for the AP that is also the PAP for the higher-risk building.
 
-### 19. Building assessment certification application[^key-2697e1e43034b0e2993d34bb6c299aba]
+### 19. Building assessment certification application[^c-2697e1e43034b0e2993d34bb6c299aba]
 
 (1) Where an application has been made for a building assessment certificate in relation to a higher-risk building, the documents are—
 
@@ -589,24 +589,24 @@ The documents specified in paragraphs 16 to 31 are prescribed under section 88(2
 
 (2) Any document prescribed in sub-paragraph (1) is only prescribed for the AP that is also the PAP for the higher-risk building.
 
-### 20. Refusal of building assessment certification application[^key-2068493c8c72ae7fdaa2f472900a29cc]
+### 20. Refusal of building assessment certification application[^c-2068493c8c72ae7fdaa2f472900a29cc]
 
 (1) Where the regulator has given a notice in relation to a higher-risk building under section 81(3)(b) (building assessment certificates) of the 2022 Act and no more than 7 years have passed since the day that the PAP for the building received it, the document is that notice.
 
 (2) The document in sub-paragraph (1) is only prescribed for the AP that is also the PAP for the higher-risk building.
 
-### 21. Building assessment certificate[^key-b814e1e0b271ab26b7be2703bf323abf]
+### 21. Building assessment certificate[^c-b814e1e0b271ab26b7be2703bf323abf]
 
 Where the AP is also the PAP for a higher-risk building, the document is the most recent building assessment certificate in relation to the higher-risk building.
 
-### 22. Fire safety management[^key-333b10bcd2a62d181859011efbc1f2f1]
+### 22. Fire safety management[^c-333b10bcd2a62d181859011efbc1f2f1]
 
 The documents are the most recent version of any document created or received by an AP, in relation to the part of the higher-risk building for which it is responsible, where that document was created for the purpose of—
 
 - (a) complying with article 9 of the Regulatory Reform (Fire Safety) Order 2005, and
 - (b) managing the risk of fire spread in any part of the higher-risk building.
 
-### 23. Fire Safety Regulations information[^key-7c0deaceeb59a51944c901d426c00a0f]
+### 23. Fire Safety Regulations information[^c-7c0deaceeb59a51944c901d426c00a0f]
 
 (1) Where regulation 5 or 6 of the Fire Safety Regulations imposes a requirement in relation to a higher-risk building, the documents are—
 
@@ -615,7 +615,7 @@ The documents are the most recent version of any document created or received by
 
 (2) Where a new version of a document referred to in sub-paragraph (1) is produced the previous version ceases to be prescribed under sub-paragraph (1).
 
-### 24. Structural risks[^key-ec24b3f56be430832786c74ad206d199]
+### 24. Structural risks[^c-ec24b3f56be430832786c74ad206d199]
 
 (1) The documents are—
 
@@ -627,11 +627,11 @@ The documents are the most recent version of any document created or received by
 - (a) there is more than one report in relation to the same part of the higher-risk building, and
 - (b) the most recent report contains all the information necessary to enable any AP for the higher-risk building to identify, assess or manage building safety risks under Part 4 of the 2022 Act in respect of that building.
 
-### 25. Building safety risk assessment[^key-1664ed0255a43568432a9a515eb9fc01]
+### 25. Building safety risk assessment[^c-1664ed0255a43568432a9a515eb9fc01]
 
 Any report that contains an up to date assessment of any building safety risk to the higher-risk building as a whole or to any part of that building for which the AP is responsible.
 
-### 26. Management of building safety risks[^key-54888dd4adaad1fd219d64ec6466fd5f]
+### 26. Management of building safety risks[^c-54888dd4adaad1fd219d64ec6466fd5f]
 
 In relation to the management of any building safety risk that relates to the part of a higher-risk building for which the AP is responsible, the documents are—
 
@@ -639,22 +639,22 @@ In relation to the management of any building safety risk that relates to the pa
 - (b) a record of any maintenance of and any repairs undertaken to any equipment, device or materials (whether or not a fixture or part of the fabric of the building), which were planned by or on behalf of any AP for the building to comply with section 84(1) (management of building safety risks) of the 2022 Act, where no more than 7 years have passed since the day on which the record was created, and
 - (c) the most recent version of any document, relating to a building safety risk to the higher-risk building, that was created for the purpose, whether in full or in part, of enabling the effective planning, organisation, monitoring, control and review of steps taken with regard to managing building safety risks in the higher-risk building pursuant to section 84(5) of the 2022 Act.
 
-### 27. Plans[^key-6a0961f0a6a363521fac162447342b40]
+### 27. Plans[^c-6a0961f0a6a363521fac162447342b40]
 
 Any plan, in relation to a higher-risk building for which the AP is responsible, of—
 
 - (a) the current construction of the building;
 - (b) the building when it was first constructed.
 
-### 28. Mandatory reporting requirements[^key-3d6e81f79ae0af72708d4b27a19d2d55]
+### 28. Mandatory reporting requirements[^c-3d6e81f79ae0af72708d4b27a19d2d55]
 
 In relation to a report under a mandatory occurrence reporting system for the higher-risk building where no more than 7 years have passed since the day that the report was received or created by the AP, the documents are any document which describes the detailed arrangements for such reporting.
 
-### 29. Resident engagement[^key-9fcfabb8cb4d96a6a7dcea30bf8e0dd4]
+### 29. Resident engagement[^c-9fcfabb8cb4d96a6a7dcea30bf8e0dd4]
 
 Any document which an AP is required to give to a resident of the higher-risk building or an owner of a residential unit in the higher-risk building, pursuant to regulations 7 or 8 and Schedule 2.
 
-### 30. Complaints[^key-c7e98d18e82ce686297c871ada4ec96c]
+### 30. Complaints[^c-c7e98d18e82ce686297c871ada4ec96c]
 
 (1) In relation to recurring complaints, where no more than 7 years have passed since the day that the most recent complaint was received by the PAP, the documents are any log that records either or both of the following—
 
@@ -663,7 +663,7 @@ Any document which an AP is required to give to a resident of the higher-risk bu
 
 (2) In sub-paragraph (1) “**recurring complaint**” means any relevant complaint[^f00043] made to a PAP that is made in relation to the same person or in relation to the same, or substantially the same, issue as an earlier complaint.
 
-### 31. Contravention notices[^key-42440f5aa340d11a7a68d65ef1cd016c]
+### 31. Contravention notices[^c-42440f5aa340d11a7a68d65ef1cd016c]
 
 Any contravention notice given by an AP pursuant to section 96 (contravention notices) of the 2022 Act where no more than 5 years have passed since the day that the notice was given.
 
@@ -671,7 +671,7 @@ Any contravention notice given by an AP pursuant to section 96 (contravention no
 
 Regulations 7 and 8
 
-### 1. Information relating to the prevention and mitigation of building safety risks[^key-84710fc6a7e65aa478530ebd6d669094]
+### 1. Information relating to the prevention and mitigation of building safety risks[^c-84710fc6a7e65aa478530ebd6d669094]
 
 (1) A summary, which is to include an evaluation of the level of risk to residents of the higher-risk building, of the most up to date fire risk assessment for each part of the higher-risk building.
 
@@ -704,7 +704,7 @@ Regulations 7 and 8
 - (c) a fire alarm activation device;
 - (d) any other piece of equipment provided by an RP or AP for the higher-risk building and kept in the building for the primary purpose of assisting evacuation of the higher-risk building in the event of a building safety related emergency.
 
-### 2. Information relating to the duty-holders, regulator and other persons[^key-5dd14d9c6cdfd9a1a199a2f38eb6638a]
+### 2. Information relating to the duty-holders, regulator and other persons[^c-5dd14d9c6cdfd9a1a199a2f38eb6638a]
 
 (1) A summary explaining the role and duties of each relevant person in relation to the higher-risk building.
 
@@ -722,7 +722,7 @@ Regulations 7 and 8
 - (d) any RP responsible for any part of the higher-risk building, and
 - (e) any person the PAP has appointed for administrative purposes as a single point of contact in regard to resident communication.
 
-### 3. Information and documents relating to the rights of residents and owners of residential units[^key-588c2b8c4286087997f338f67d079d8a]
+### 3. Information and documents relating to the rights of residents and owners of residential units[^c-588c2b8c4286087997f338f67d079d8a]
 
 (1) The most up to date version of the residents’ engagement strategy[^f00044].
 
@@ -752,7 +752,7 @@ Regulations 7 and 8
 
 Regulation 14
 
-### 1. Information and documents prescribed[^key-ab7245862e196852ca1866e7f31238b3]
+### 1. Information and documents prescribed[^c-ab7245862e196852ca1866e7f31238b3]
 
 (1) The information prescribed is—
 
@@ -809,9 +809,9 @@ A full impact assessment of the effect that this instrument, together with the B
 
 [^f00004]: Footnote: The cost-benefit analysis is available at https://www.gov.uk/government/publications/amendment-to-the-higher-risk-buildings-regulations-2023-cost-benefit-analysis-statement A paper copy can be requested by writing to the Building Safety Programme in the Department of Levelling Up, Housing and Communities at 2 Marsham Street, London, SW1P 4DF.
 
-[^key-d611d48489a2e0cfa53b3e53f5024f6f]: Commencement: Reg. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-d611d48489a2e0cfa53b3e53f5024f6f]: Commencement: Reg. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-1d2c3f4542136fde429d0f6aeed3725a]: Commencement: Reg. 2 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-1d2c3f4542136fde429d0f6aeed3725a]: Commencement: Reg. 2 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214) as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/110](https://www.legislation.gov.uk/uksi/2014/110), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), [2016/1274](https://www.legislation.gov.uk/uksi/2016/1274), [2018/1230](https://www.legislation.gov.uk/uksi/2018/1230), [2021/1391](https://www.legislation.gov.uk/uksi/2021/1391), [2022/608](https://www.legislation.gov.uk/uksi/2022/608) and [2023/520](https://www.legislation.gov.uk/uksi/2023/520). There are other amending instruments, but none is relevant to this instrument.
 
@@ -835,15 +835,15 @@ A full impact assessment of the effect that this instrument, together with the B
 
 [^f00015]: Footnote: [S.I. 2023/275](https://www.legislation.gov.uk/uksi/2023/275).
 
-[^key-0e3ed2c3abe0b43c0f2121cecf93f6fd]: Commencement: Reg. 3 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-0e3ed2c3abe0b43c0f2121cecf93f6fd]: Commencement: Reg. 3 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-cdb2e83e98895ecea6f37a1084b5eed7]: Commencement: Reg. 4 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-cdb2e83e98895ecea6f37a1084b5eed7]: Commencement: Reg. 4 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00016]: Footnote: The standards in accordance with which the information and documents must be kept are prescribed in the Higher-Risk Building (Management of Safety Risks) (England) Regulations 2023, [S.I. 2023/907](https://www.legislation.gov.uk/uksi/2023/907).
 
 [^f00017]: Footnote: See section 74 of the 2022 Act and regulations 26 to 30 of the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023, [S.I. 2023/315](https://www.legislation.gov.uk/uksi/2023/315) as amended by regulation 21 of these Regulations.
 
-[^key-1478d4cb42cb20d19e32eacc034ce574]: Commencement: Reg. 5 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-1478d4cb42cb20d19e32eacc034ce574]: Commencement: Reg. 5 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00018]: Footnote: Part A1 was inserted by section 1(1) of the Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
@@ -857,39 +857,39 @@ A full impact assessment of the effect that this instrument, together with the B
 
 [^f00023]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-a870546380d8459a5ac70708083f0ade]: Commencement: Reg. 6 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-a870546380d8459a5ac70708083f0ade]: Commencement: Reg. 6 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-4affd7f18db6da43b701d63ea8c156ac]: Commencement: Reg. 7 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-4affd7f18db6da43b701d63ea8c156ac]: Commencement: Reg. 7 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-2d9acedcbfe2f168d44a7e2f258a63f9]: Commencement: Reg. 8 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-2d9acedcbfe2f168d44a7e2f258a63f9]: Commencement: Reg. 8 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-8cd4892b58d9e509747d291d159771c6]: Commencement: Reg. 9 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-8cd4892b58d9e509747d291d159771c6]: Commencement: Reg. 9 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00024]: Footnote: See section 96 of the 2022 Act in relation to contravention notices.
 
-[^key-a1dae5115751301546ef18aaa7c47b1f]: Commencement: Reg. 10 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-a1dae5115751301546ef18aaa7c47b1f]: Commencement: Reg. 10 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-b7835316622c74762436db25761002d0]: Commencement: Reg. 11 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-b7835316622c74762436db25761002d0]: Commencement: Reg. 11 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00025]: Footnote: See section 85(1) of the 2022 Act for the definition of “safety case report”.
 
-[^key-bd7ada3aaaf26eab105bd6c2b2533641]: Commencement: Reg. 12 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-bd7ada3aaaf26eab105bd6c2b2533641]: Commencement: Reg. 12 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-72731c0f78c502ab1e2900b824649aa7]: Commencement: Reg. 13 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-72731c0f78c502ab1e2900b824649aa7]: Commencement: Reg. 13 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00026]: Footnote: See section 90(1) of the 2022 Act for the definition of “relevant time”.
 
-[^key-907500e18cebd2fb12dfe6841d14cec2]: Commencement: Reg. 14 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-907500e18cebd2fb12dfe6841d14cec2]: Commencement: Reg. 14 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-e7edb30d167f235066c45cacc761be50]: Commencement: Reg. 15 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-e7edb30d167f235066c45cacc761be50]: Commencement: Reg. 15 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00027]: Footnote: See section 95(4) of the 2022 for the meaning of “relevant safety item”.
 
-[^key-06886cc5c8da91c55e9675a03b7de2de]: Commencement: Reg. 16 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-06886cc5c8da91c55e9675a03b7de2de]: Commencement: Reg. 16 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00028]: Footnote: See section 95(4) of the 2022 Act for the meaning of “relevant safety item”.
 
-[^key-124650bda1137e275d7cc86fbfbe36f1]: Commencement: Reg. 17 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-124650bda1137e275d7cc86fbfbe36f1]: Commencement: Reg. 17 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00029]: Footnote: See section 81(1)(a) of the 2022 Act for the definition of “building assessment certificate”.
 
@@ -897,105 +897,105 @@ A full impact assessment of the effect that this instrument, together with the B
 
 [^f00031]: Footnote: See section 62(1) of the 2022 Act for the definition of “building safety risk”.
 
-[^key-26386d68d80b866164a07d0d45cad07c]: Commencement: Reg. 18 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-26386d68d80b866164a07d0d45cad07c]: Commencement: Reg. 18 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-a4c8224114f8eece16a8e3eba428ce19]: Commencement: Reg. 19 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-a4c8224114f8eece16a8e3eba428ce19]: Commencement: Reg. 19 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-bc9947f51d4d69be0503f1d5af0466ae]: Commencement: Reg. 20 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-bc9947f51d4d69be0503f1d5af0466ae]: Commencement: Reg. 20 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 2023/275](https://www.legislation.gov.uk/uksi/2023/275).
 
-[^key-bed329f369b6e82a3ede9aca7f0c8fce]: Commencement: Reg. 21 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-bed329f369b6e82a3ede9aca7f0c8fce]: Commencement: Reg. 21 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 2023/396](https://www.legislation.gov.uk/uksi/2023/396).
 
-[^key-16ea5758f7e82364f60bcd6d49247913]: Commencement: Sch. 1 para. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-16ea5758f7e82364f60bcd6d49247913]: Commencement: Sch. 1 para. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-ecb7a0b5e88b0956fb06087730431e56]: Commencement: Sch. 1 para. 2 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-ecb7a0b5e88b0956fb06087730431e56]: Commencement: Sch. 1 para. 2 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2023/909](https://www.legislation.gov.uk/uksi/2023/909).
 
-[^key-401ae3f80962855b53923456e06014c6]: Commencement: Sch. 1 para. 3 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-401ae3f80962855b53923456e06014c6]: Commencement: Sch. 1 para. 3 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00035]: Footnote: See section 78 of the 2022 Act as to the registration of higher-risk buildings.
 
 [^f00036]: Footnote: [S.I. 2023/315](https://www.legislation.gov.uk/uksi/2023/315).
 
-[^key-909562b9f0d4a65eb93b7f3bac157dfb]: Commencement: Sch. 1 para. 4 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-909562b9f0d4a65eb93b7f3bac157dfb]: Commencement: Sch. 1 para. 4 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-4141605798b542d7c8ad7c34abb42712]: Commencement: Sch. 1 para. 5 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-4141605798b542d7c8ad7c34abb42712]: Commencement: Sch. 1 para. 5 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-a135642e200cacb58fa8c64181baab69]: Commencement: Sch. 1 para. 6 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-a135642e200cacb58fa8c64181baab69]: Commencement: Sch. 1 para. 6 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-7bf1653961970c7f3ad9ed3e21da8840]: Commencement: Sch. 1 para. 7 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-7bf1653961970c7f3ad9ed3e21da8840]: Commencement: Sch. 1 para. 7 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00037]: Footnote: For an explanation of “evacuation strategy” see paragraph “What we have done” in the “Fact sheet: information to residents (regulation 9)” at https://www.gov.uk/government/publications/fire-safety-england-regulations-2022/fact-sheet-information-to-residents-regulation-9.
 
-[^key-9260b8b2c917cbaef359ac61c6cb4824]: Commencement: Sch. 1 para. 8 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-9260b8b2c917cbaef359ac61c6cb4824]: Commencement: Sch. 1 para. 8 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-490139b834f5ad79986034eb274b8da8]: Commencement: Sch. 1 para. 9 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-490139b834f5ad79986034eb274b8da8]: Commencement: Sch. 1 para. 9 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-917d9abf6fc64ec3b4a85c980a66bbbe]: Commencement: Sch. 1 para. 10 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-917d9abf6fc64ec3b4a85c980a66bbbe]: Commencement: Sch. 1 para. 10 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-9d45ddb1297a615632af29b9cbe502c2]: Commencement: Sch. 1 para. 11 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-9d45ddb1297a615632af29b9cbe502c2]: Commencement: Sch. 1 para. 11 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00038]: Footnote: A copy of the National Planning Policy Framework is available from https://www.gov.uk/government/publications/national-planning-policy-framework--2 or is available for inspection at the principal office of the Department of Levelling Up, Housing and Communities at 2 Marsham Street, London SW1P 4DF during normal office hours.
 
-[^key-5d9e3546a82e7309a5dd0f083cee907b]: Commencement: Sch. 1 para. 12 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-5d9e3546a82e7309a5dd0f083cee907b]: Commencement: Sch. 1 para. 12 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00039]: Footnote: See section 87(6) of the 2022 Act for the definition of “mandatory occurrence reporting system”.
 
-[^key-81479de4b2dd8f90f9307b7b673570e6]: Commencement: Sch. 1 para. 13 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-81479de4b2dd8f90f9307b7b673570e6]: Commencement: Sch. 1 para. 13 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-0cf33e4ea7a6a5be43b9e3842503012f]: Commencement: Sch. 1 para. 14 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-0cf33e4ea7a6a5be43b9e3842503012f]: Commencement: Sch. 1 para. 14 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00040]: Footnote: See section 93(4) of the 2022 Act for the definition of “relevant complaint”.
 
-[^key-b4a0951e6b06483c0e67f5707633234f]: Commencement: Sch. 1 para. 15 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-b4a0951e6b06483c0e67f5707633234f]: Commencement: Sch. 1 para. 15 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-ffb628eed9b736d8ac5dbf09a4b67ae9]: Commencement: Sch. 1 para. 16 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-ffb628eed9b736d8ac5dbf09a4b67ae9]: Commencement: Sch. 1 para. 16 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00041]: Footnote: See regulation 40 (completion certificate applications) and regulation 45 (partial completion applications).
 
-[^key-c360381b93d7c62fd5a6473201debbf5]: Commencement: Sch. 1 para. 17 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-c360381b93d7c62fd5a6473201debbf5]: Commencement: Sch. 1 para. 17 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-b53846234fde7b9526ad4c68ef504b3d]: Commencement: Sch. 1 para. 18 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-b53846234fde7b9526ad4c68ef504b3d]: Commencement: Sch. 1 para. 18 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-2697e1e43034b0e2993d34bb6c299aba]: Commencement: Sch. 1 para. 19 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-2697e1e43034b0e2993d34bb6c299aba]: Commencement: Sch. 1 para. 19 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-2068493c8c72ae7fdaa2f472900a29cc]: Commencement: Sch. 1 para. 20 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-2068493c8c72ae7fdaa2f472900a29cc]: Commencement: Sch. 1 para. 20 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-b814e1e0b271ab26b7be2703bf323abf]: Commencement: Sch. 1 para. 21 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-b814e1e0b271ab26b7be2703bf323abf]: Commencement: Sch. 1 para. 21 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-333b10bcd2a62d181859011efbc1f2f1]: Commencement: Sch. 1 para. 22 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-333b10bcd2a62d181859011efbc1f2f1]: Commencement: Sch. 1 para. 22 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-7c0deaceeb59a51944c901d426c00a0f]: Commencement: Sch. 1 para. 23 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-7c0deaceeb59a51944c901d426c00a0f]: Commencement: Sch. 1 para. 23 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-ec24b3f56be430832786c74ad206d199]: Commencement: Sch. 1 para. 24 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-ec24b3f56be430832786c74ad206d199]: Commencement: Sch. 1 para. 24 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-1664ed0255a43568432a9a515eb9fc01]: Commencement: Sch. 1 para. 25 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-1664ed0255a43568432a9a515eb9fc01]: Commencement: Sch. 1 para. 25 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-54888dd4adaad1fd219d64ec6466fd5f]: Commencement: Sch. 1 para. 26 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-54888dd4adaad1fd219d64ec6466fd5f]: Commencement: Sch. 1 para. 26 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00042]: Footnote: See section 85(1) of the 2022 Act for the definition of “safety case report”.
 
-[^key-6a0961f0a6a363521fac162447342b40]: Commencement: Sch. 1 para. 27 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-6a0961f0a6a363521fac162447342b40]: Commencement: Sch. 1 para. 27 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-3d6e81f79ae0af72708d4b27a19d2d55]: Commencement: Sch. 1 para. 28 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-3d6e81f79ae0af72708d4b27a19d2d55]: Commencement: Sch. 1 para. 28 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-9fcfabb8cb4d96a6a7dcea30bf8e0dd4]: Commencement: Sch. 1 para. 29 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-9fcfabb8cb4d96a6a7dcea30bf8e0dd4]: Commencement: Sch. 1 para. 29 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-c7e98d18e82ce686297c871ada4ec96c]: Commencement: Sch. 1 para. 30 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-c7e98d18e82ce686297c871ada4ec96c]: Commencement: Sch. 1 para. 30 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00043]: Footnote: See section 93 of the 2022 Act for the meaning of “relevant complaint”.
 
-[^key-42440f5aa340d11a7a68d65ef1cd016c]: Commencement: Sch. 1 para. 31 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-42440f5aa340d11a7a68d65ef1cd016c]: Commencement: Sch. 1 para. 31 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-84710fc6a7e65aa478530ebd6d669094]: Commencement: Sch. 2 para. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-84710fc6a7e65aa478530ebd6d669094]: Commencement: Sch. 2 para. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-5dd14d9c6cdfd9a1a199a2f38eb6638a]: Commencement: Sch. 2 para. 2 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-5dd14d9c6cdfd9a1a199a2f38eb6638a]: Commencement: Sch. 2 para. 2 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
-[^key-588c2b8c4286087997f338f67d079d8a]: Commencement: Sch. 2 para. 3 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-588c2b8c4286087997f338f67d079d8a]: Commencement: Sch. 2 para. 3 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00044]: Footnote: See section 91(1) of 2022 Act for the definition of a “residents’ engagement strategy”.
 
@@ -1003,7 +1003,7 @@ A full impact assessment of the effect that this instrument, together with the B
 
 [^f00046]: Footnote: See section 93 of the 2022 Act for the definition of “relevant complaint”.
 
-[^key-ab7245862e196852ca1866e7f31238b3]: Commencement: Sch. 3 para. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
+[^c-ab7245862e196852ca1866e7f31238b3]: Commencement: Sch. 3 para. 1 in force at 16.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/41/regulation/1/1)
 
 [^f00047]: Footnote: See section 85(1) of the 2022 Act for the definition of “safety case report”.
 

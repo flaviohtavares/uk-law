@@ -29,8 +29,8 @@ summary: ''
 
 (2) The Department may by regulations make provision extending or restricting the availability of home repair assistance, by reference to such description of persons, circumstances or other factors as the Department thinks fit.
 
-(3) Regulations under paragraph (2) may proceed wholly or in part by reference to the provisions relating to entitlement to housing benefit, universal credit,[^key-af68100b9d259e086bb97d098effea01] or any other form of assistance, as they have effect from time to time.
+(3) Regulations under paragraph (2) may proceed wholly or in part by reference to the provisions relating to entitlement to housing benefit, universal credit,[^c-af68100b9d259e086bb97d098effea01] or any other form of assistance, as they have effect from time to time.
 
 ## Annotations
 
-[^key-af68100b9d259e086bb97d098effea01]: Textual amendment: Words in [art. 109(3)](https://www.legislation.gov.uk/nisi/2003/412/article/109/3) inserted (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [13(4)](https://www.legislation.gov.uk/nisr/2016/236/regulation/13/4)
+[^c-af68100b9d259e086bb97d098effea01]: Textual amendment: Words in [art. 109(3)](https://www.legislation.gov.uk/nisi/2003/412/article/109/3) inserted (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [13(4)](https://www.legislation.gov.uk/nisr/2016/236/regulation/13/4)

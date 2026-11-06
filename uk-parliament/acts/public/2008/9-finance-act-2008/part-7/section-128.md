@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Summary warrant: Scotland[^key-762776c662ae474c16aa9096fe0d295f]
+## 128. Summary warrant: Scotland[^c-762776c662ae474c16aa9096fe0d295f]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ in connection with the execution of a summary warrant are to be chargeable again
 
 ## Annotations
 
-[^key-762776c662ae474c16aa9096fe0d295f]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2008/9/section/128) in force at 23.11.2009 by [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3024/article/4))
+[^c-762776c662ae474c16aa9096fe0d295f]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2008/9/section/128) in force at 23.11.2009 by [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3024/article/4))

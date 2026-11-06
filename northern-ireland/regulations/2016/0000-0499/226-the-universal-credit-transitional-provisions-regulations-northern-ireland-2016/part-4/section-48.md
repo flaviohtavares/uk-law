@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Notified persons who claim as a different benefit unit[^key-bc98106a0e7e090122696abd58fe59d9][^key-e97a2f3efa41f940f3ec36113800032e]
+## 48. Notified persons who claim as a different benefit unit[^c-bc98106a0e7e090122696abd58fe59d9][^c-e97a2f3efa41f940f3ec36113800032e]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc98106a0e7e090122696abd58fe59d9]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/nisr/2016/226/regulation/48) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/8/1)
+[^c-bc98106a0e7e090122696abd58fe59d9]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/nisr/2016/226/regulation/48) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [8(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/8/1)
 
-[^key-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)
+[^c-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)

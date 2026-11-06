@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Old system students who are transferring students[^key-5f345b785d954acf443f4b6f7bf4c901]
+## 25. Old system students who are transferring students[^c-5f345b785d954acf443f4b6f7bf4c901]
 
 *Extent: N.I.*
 
@@ -79,4 +79,4 @@ where
 
 ## Annotations
 
-[^key-5f345b785d954acf443f4b6f7bf4c901]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/195/regulation/25) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-5f345b785d954acf443f4b6f7bf4c901]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/195/regulation/25) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

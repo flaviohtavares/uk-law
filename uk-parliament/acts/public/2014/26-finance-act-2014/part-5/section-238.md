@@ -35,7 +35,7 @@ summary: ''
   - (ii) impose on C obligations within both paragraph 11(4) and (5) of that Schedule (contractual terms requiring contribution to fighting funds and restricting settlement of proceedings);
 - (f) to ensure that the recipient does not promote relevant proposals or relevant arrangements which rely on, or involve a proposal to rely on, one or more contrived or abnormal steps to produce a tax advantage;
 - (g) to ensure that the recipient does not fail to comply with any stop notice which has effect under paragraph 12 of Schedule 34.
-- (h)[^key-cb839fa304ed400c3ee5e2b28a7eb2ee] to ensure that the recipient provides such information or documents to HMRC as are required for the purpose of monitoring whether and to what extent the recipient is complying with any of the conditions in the notice.
+- (h)[^c-cb839fa304ed400c3ee5e2b28a7eb2ee] to ensure that the recipient provides such information or documents to HMRC as are required for the purpose of monitoring whether and to what extent the recipient is complying with any of the conditions in the notice.
 
 (4) References in subsection (3) to ensuring that adequate information is provided about proposals or arrangements include—
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb839fa304ed400c3ee5e2b28a7eb2ee]: Textual amendment: [S. 238(3)(h)](https://www.legislation.gov.uk/ukpga/2014/26/section/238/3/h) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/23)
+[^c-cb839fa304ed400c3ee5e2b28a7eb2ee]: Textual amendment: [S. 238(3)(h)](https://www.legislation.gov.uk/ukpga/2014/26/section/238/3/h) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/23)

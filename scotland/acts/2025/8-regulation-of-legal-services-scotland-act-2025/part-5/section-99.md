@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Civil enforcement in relation to offences[^key-27d584497b07694db267a8cd3aadc5e6]
+## 99. Civil enforcement in relation to offences[^c-27d584497b07694db267a8cd3aadc5e6]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27d584497b07694db267a8cd3aadc5e6]: Commencement: S. 99 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-27d584497b07694db267a8cd3aadc5e6]: Commencement: S. 99 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

@@ -30,7 +30,7 @@ summary: ''
 
 the Director must notify the individual.
 
-(2) Subject to paragraph (3), in the circumstances[^key-cef9186c4a14ba40d5f2c6e69a3eb237] described in paragraph (1), the Director must send to the individual and provider or proposed provider—
+(2) Subject to paragraph (3), in the circumstances[^c-cef9186c4a14ba40d5f2c6e69a3eb237] described in paragraph (1), the Director must send to the individual and provider or proposed provider—
 
 - (a) written notice of the determination, amendment or withdrawal of a determination in a form specified by the Lord Chancellor;
 - (b) written reasons for the determination, amendment or withdrawal of a determination; and
@@ -38,10 +38,10 @@ the Director must notify the individual.
 
 and may provide information about alternative ways of obtaining or funding civil legal services.
 
-(3)[^key-d897a48bd8fad214269b01c77073cfff] Paragraph (2) does not apply in respect of a provider or proposed provider if they have carried out any of the actions described in paragraph (1).
+(3)[^c-d897a48bd8fad214269b01c77073cfff] Paragraph (2) does not apply in respect of a provider or proposed provider if they have carried out any of the actions described in paragraph (1).
 
 ## Annotations
 
-[^key-cef9186c4a14ba40d5f2c6e69a3eb237]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/43/2) substituted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/5/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
+[^c-cef9186c4a14ba40d5f2c6e69a3eb237]: Textual amendment: Words in [reg. 43(2)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/43/2) substituted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/5/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
 
-[^key-d897a48bd8fad214269b01c77073cfff]: Textual amendment: [Reg. 43(3)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/43/3) inserted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/5/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
+[^c-d897a48bd8fad214269b01c77073cfff]: Textual amendment: [Reg. 43(3)](https://www.legislation.gov.uk/uksi/2012/3098/regulation/43/3) inserted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/5/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))

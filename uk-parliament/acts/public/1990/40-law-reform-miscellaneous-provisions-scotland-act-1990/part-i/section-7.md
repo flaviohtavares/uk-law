@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Powers of Court of Session to deal with management of charities.[^key-84b3a8d7638622e55427ff30c086f233]
+## 7. Powers of Court of Session to deal with management of charities.[^c-84b3a8d7638622e55427ff30c086f233]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b3a8d7638622e55427ff30c086f233]: Textual amendment: Ss. 2-8 repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/b); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-84b3a8d7638622e55427ff30c086f233]: Textual amendment: Ss. 2-8 repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/b); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

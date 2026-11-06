@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Additional powers in respect of licensing and regulation of salmon dealing[^key-6c03c3e87eeb954895de77e7cd466ab8]
+## 65. Additional powers in respect of licensing and regulation of salmon dealing[^c-6c03c3e87eeb954895de77e7cd466ab8]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ but not so as to enable these powers to be exercised in any dwelling house or an
 
 ## Annotations
 
-[^key-6c03c3e87eeb954895de77e7cd466ab8]: Commencement: S. 65 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-6c03c3e87eeb954895de77e7cd466ab8]: Commencement: S. 65 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

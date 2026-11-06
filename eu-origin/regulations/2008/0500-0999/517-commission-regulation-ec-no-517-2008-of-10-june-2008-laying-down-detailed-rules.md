@@ -73,7 +73,7 @@ HAS ADOPTED THIS REGULATION:
 
 ### Article 1. Subject matter
 
-This Regulation lays down detailed rules for the implementation of Regulation (EC) No 850/98 as regards the determination of the mesh size and the assessment of the twine thickness of fishing nets by [^key-629f0cc6f13ea51f6ec5946a433fbfd2]... inspectors.
+This Regulation lays down detailed rules for the implementation of Regulation (EC) No 850/98 as regards the determination of the mesh size and the assessment of the twine thickness of fishing nets by [^c-629f0cc6f13ea51f6ec5946a433fbfd2]... inspectors.
 
 ### Article 2. Definitions
 
@@ -97,7 +97,7 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 ### Article 3. Mesh gauge and twine thickness gauges
 
-1. Inspectors[^key-c55f26d444cb1b79b538712792d12349] shall use the mesh gauge and twine thickness gauges which comply with the provisions of this Regulation for the determination of the mesh size and the twine thickness of fishing nets when conducting fishery inspections.
+1. Inspectors[^c-c55f26d444cb1b79b538712792d12349] shall use the mesh gauge and twine thickness gauges which comply with the provisions of this Regulation for the determination of the mesh size and the twine thickness of fishing nets when conducting fishery inspections.
 
 2. The technical specifications applying to the mesh gauge are set out in Annex III.
 
@@ -105,11 +105,11 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 4. The mesh gauge and twine thickness gauges referred to in paragraph 1 shall be marked ‘EC gauge’ and certified by the manufacturer as complying with the technical specification referred in paragraphs 2 and 3 respectively.
 
-5. The mesh gauge and twine thickness gauges sold or distributed for use by entities or persons other than the competent authorities of a fisheries administration[^key-634444fc809d1642a1e33848a20475b5] shall not be marked ‘EC gauge’.
+5. The mesh gauge and twine thickness gauges sold or distributed for use by entities or persons other than the competent authorities of a fisheries administration[^c-634444fc809d1642a1e33848a20475b5] shall not be marked ‘EC gauge’.
 
 ### Article 4. Calibration instruments for the mesh gauge
 
-A fisheries administration must ensure that the calibrated test weights[^key-2e239d621213a0db9a804aae0146487c] and calibrated test measuring plate provided for in figure 1 of Annex V are[^key-3aaab01256e2a065ee188c2a48c4a24a] certified by the appropriate certification authority[^key-48abb9c5bd872a882d46fc3c376401b1] and marked ‘EC’.
+A fisheries administration must ensure that the calibrated test weights[^c-2e239d621213a0db9a804aae0146487c] and calibrated test measuring plate provided for in figure 1 of Annex V are[^c-3aaab01256e2a065ee188c2a48c4a24a] certified by the appropriate certification authority[^c-48abb9c5bd872a882d46fc3c376401b1] and marked ‘EC’.
 
 ### Article 5. Testing of the mesh gauges
 
@@ -235,11 +235,11 @@ When the thickness of the twine prevents the closure of the jaws of the gauge or
 
 2. Reference to the provisions of the Regulation (EC) No 129/2003 shall be construed as reference to the present Regulation and read in accordance with the correlation table in Annex IX.
 
-### Article 24. Transitional provisions[^key-38c9a6e749ae09b0ada282b8bbc423bf]
+### Article 24. Transitional provisions[^c-38c9a6e749ae09b0ada282b8bbc423bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Entry into force[^key-9e53370c33592c50f8b18316f9900f41]
+### Article 25. Entry into force[^c-9e53370c33592c50f8b18316f9900f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -453,21 +453,21 @@ Correlation table
 
 [^f00002]: Footnote: [OJ L 22, 25.1.2003, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.022.01.0005.01.ENG).
 
-[^key-629f0cc6f13ea51f6ec5946a433fbfd2]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2008/517/article/1) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-629f0cc6f13ea51f6ec5946a433fbfd2]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2008/517/article/1) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c55f26d444cb1b79b538712792d12349]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2008/517/article/3/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c55f26d444cb1b79b538712792d12349]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2008/517/article/3/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-634444fc809d1642a1e33848a20475b5]: Textual amendment: Words in [Art. 3(5)](https://www.legislation.gov.uk/eur/2008/517/article/3/5) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-634444fc809d1642a1e33848a20475b5]: Textual amendment: Words in [Art. 3(5)](https://www.legislation.gov.uk/eur/2008/517/article/3/5) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e239d621213a0db9a804aae0146487c]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2008/517/article/4) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e239d621213a0db9a804aae0146487c]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2008/517/article/4) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3aaab01256e2a065ee188c2a48c4a24a]: Textual amendment: Word in [Art. 4](https://www.legislation.gov.uk/eur/2008/517/article/4) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3aaab01256e2a065ee188c2a48c4a24a]: Textual amendment: Word in [Art. 4](https://www.legislation.gov.uk/eur/2008/517/article/4) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48abb9c5bd872a882d46fc3c376401b1]: Textual amendment: Words in Art. 4 substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(4)(c)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/4/c) (as amended by [S.I. 2019/1312](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48abb9c5bd872a882d46fc3c376401b1]: Textual amendment: Words in Art. 4 substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(4)(c)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/4/c) (as amended by [S.I. 2019/1312](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-38c9a6e749ae09b0ada282b8bbc423bf]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/eur/2008/517/article/24) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38c9a6e749ae09b0ada282b8bbc423bf]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/eur/2008/517/article/24) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e53370c33592c50f8b18316f9900f41]: Textual amendment: [Art. 25](https://www.legislation.gov.uk/eur/2008/517/article/25) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e53370c33592c50f8b18316f9900f41]: Textual amendment: [Art. 25](https://www.legislation.gov.uk/eur/2008/517/article/25) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2019/753/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Internal protection (IP) codes are specified in the international standard of the International Electrotechnical Commission (IEC) 60529.
 

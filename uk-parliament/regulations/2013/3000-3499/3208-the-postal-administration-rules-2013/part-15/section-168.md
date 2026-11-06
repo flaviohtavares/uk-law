@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. Electronic delivery of postal administration proceedings to courts[^key-a5e24353cf22a33a1ca206f2dfa9ae6d]
+## 168. Electronic delivery of postal administration proceedings to courts[^c-a5e24353cf22a33a1ca206f2dfa9ae6d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5e24353cf22a33a1ca206f2dfa9ae6d]: Commencement: [Rule 168](https://www.legislation.gov.uk/uksi/2013/3208/rule/168) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-a5e24353cf22a33a1ca206f2dfa9ae6d]: Commencement: [Rule 168](https://www.legislation.gov.uk/uksi/2013/3208/rule/168) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

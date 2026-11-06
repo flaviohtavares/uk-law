@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Judicial approval for directed surveillance and covert human intelligence sources[^key-3aeb815b2d300ac5b7464db7ee2d75d0]
+## 38. Judicial approval for directed surveillance and covert human intelligence sources[^c-3aeb815b2d300ac5b7464db7ee2d75d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3aeb815b2d300ac5b7464db7ee2d75d0]: Commencement: S. 38 in force at 1.11.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2075/article/6))
+[^c-3aeb815b2d300ac5b7464db7ee2d75d0]: Commencement: S. 38 in force at 1.11.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2075/article/6))

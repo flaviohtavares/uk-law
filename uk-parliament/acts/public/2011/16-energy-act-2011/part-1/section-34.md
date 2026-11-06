@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power of Secretary of State to deal with special circumstances[^key-1634dd3ddae7c8047209a76d52ca121c]
+## 34. Power of Secretary of State to deal with special circumstances[^c-1634dd3ddae7c8047209a76d52ca121c]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1634dd3ddae7c8047209a76d52ca121c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/16/section/34) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(x)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/x)
+[^c-1634dd3ddae7c8047209a76d52ca121c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/16/section/34) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(x)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/x)

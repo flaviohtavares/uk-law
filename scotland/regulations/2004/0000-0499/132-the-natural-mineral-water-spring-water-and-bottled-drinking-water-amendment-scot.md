@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Natural Mineral Water, Spring Water and Bottled Drinking Water Amendment (Scotland) Regulations 2004 (revoked)[^key-1f2f730a056f24d1aade4c21162282c9]
+The Natural Mineral Water, Spring Water and Bottled Drinking Water Amendment (Scotland) Regulations 2004 (revoked)[^c-1f2f730a056f24d1aade4c21162282c9]
 
 Made
 
@@ -51,86 +51,86 @@ Regulations 5, 8(2), 11(a) and 12(2)
 
 1st July 2004
 
-[^key-1f2f730a056f24d1aade4c21162282c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f2f730a056f24d1aade4c21162282c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1f2f730a056f24d1aade4c21162282c9]
+## 1. Citation, commencement and extent[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999[^key-1f2f730a056f24d1aade4c21162282c9]
+## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 3.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 4.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 5.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 6.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 7.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 8.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 9.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 10.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 11.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 12.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 13.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 14.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-1f2f730a056f24d1aade4c21162282c9]
+## 15.[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f2f730a056f24d1aade4c21162282c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f2f730a056f24d1aade4c21162282c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULES 5, 6 AND 7 TO BE INSERTED IN THE NATURAL MINERAL WATER, SPRING WATER AND BOTTLED DRINKING WATER REGULATIONS 1999[^key-1f2f730a056f24d1aade4c21162282c9]
+## SCHEDULE — SCHEDULES 5, 6 AND 7 TO BE INSERTED IN THE NATURAL MINERAL WATER, SPRING WATER AND BOTTLED DRINKING WATER REGULATIONS 1999[^c-1f2f730a056f24d1aade4c21162282c9]
 
 Regulation 15
 
-[^key-1f2f730a056f24d1aade4c21162282c9]
+[^c-1f2f730a056f24d1aade4c21162282c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f2f730a056f24d1aade4c21162282c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f2f730a056f24d1aade4c21162282c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f2f730a056f24d1aade4c21162282c9]: Textual amendment: Regulations revoked (30.10.2007) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007 (S.S.I. 2007/483)](https://www.legislation.gov.uk/ssi/2007/483), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/483/regulation/23/2), [23(2)](https://www.legislation.gov.uk/ssi/2007/483/regulation/23/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2007/483/regulation/3))
+[^c-1f2f730a056f24d1aade4c21162282c9]: Textual amendment: Regulations revoked (30.10.2007) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007 (S.S.I. 2007/483)](https://www.legislation.gov.uk/ssi/2007/483), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/483/regulation/23/2), [23(2)](https://www.legislation.gov.uk/ssi/2007/483/regulation/23/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2007/483/regulation/3))

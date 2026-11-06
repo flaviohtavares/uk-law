@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Assistance with respect to employment and training: Northern Ireland[^key-b96980a62f0c89bc2c87ad2a139dacbd]
+## 109. Assistance with respect to employment and training: Northern Ireland[^c-b96980a62f0c89bc2c87ad2a139dacbd]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b96980a62f0c89bc2c87ad2a139dacbd]: Textual amendment: S. 109 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/20)
+[^c-b96980a62f0c89bc2c87ad2a139dacbd]: Textual amendment: S. 109 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/20)

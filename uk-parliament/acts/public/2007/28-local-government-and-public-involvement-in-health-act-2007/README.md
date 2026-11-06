@@ -34,7 +34,7 @@ An Act to make provision with respect to local government and the functions and 
 
 \[30th October 2007\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f31a372a927df7d1d404d09176c3aca2][^key-7ec2bc336e56a6acbd55b8620b3f7a29]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f31a372a927df7d1d404d09176c3aca2][^c-7ec2bc336e56a6acbd55b8620b3f7a29]
 
 ## Contents
 
@@ -42,7 +42,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Chapter 1 — Structural and boundary change[^key-f2152c5579f5aa5db8ec2b494dfeed63][^key-957f112d0d8f5eaae32f358fe6a832e6][^key-196d348e318dc1fd186b67d181a3c6bc][^key-53676b7c786c477ec8e67a6bf1c485e1]
+#### Chapter 1 — Structural and boundary change[^c-f2152c5579f5aa5db8ec2b494dfeed63][^c-957f112d0d8f5eaae32f358fe6a832e6][^c-196d348e318dc1fd186b67d181a3c6bc][^c-53676b7c786c477ec8e67a6bf1c485e1]
 
 ##### Change from two tiers to single tier of local government
 
@@ -95,7 +95,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Chapter 1 — Power of district councils in England to change electoral scheme[^key-246fd4c6aadaf2dce245020898812984]
+#### Chapter 1 — Power of district councils in England to change electoral scheme[^c-246fd4c6aadaf2dce245020898812984]
 
 *Extent: E+W*
 
@@ -197,7 +197,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 77 — Extension of power to certain parish councils](part-4/section-77.md)
 - [Section 78 — Community strategies](part-4/section-78.md)
 
-#### Chapter 3 — Reorganisation[^key-bb5ae59dd2f192c07e43fee84d756e7e]
+#### Chapter 3 — Reorganisation[^c-bb5ae59dd2f192c07e43fee84d756e7e]
 
 ##### Key terms used
 
@@ -249,11 +249,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 101 — Consequential amendments](part-4/section-101.md)
 - [Section 102 — Interpretation](part-4/section-102.md)
 
-### Part 5 — Co-operation of English authorities with local partners, etc[^key-2baff744e519066f75d580539232d2a4][^key-74f5036c3ab0faa31ee615e885d1f8fb][^key-d3a18bcc129a603ddece427f5f56bc2e]
+### Part 5 — Co-operation of English authorities with local partners, etc[^c-2baff744e519066f75d580539232d2a4][^c-74f5036c3ab0faa31ee615e885d1f8fb][^c-d3a18bcc129a603ddece427f5f56bc2e]
 
 *Extent: E+W*
 
-#### Chapter 1 — ...Community strategies[^key-4f4ba6aa2eb92698e7369f2f37f3489c]
+#### Chapter 1 — ...Community strategies[^c-4f4ba6aa2eb92698e7369f2f37f3489c]
 
 *Extent: E+W*
 
@@ -478,7 +478,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Local arrangements[^key-f4db78e17ff0027a26356b081f1070e7]
+#### Local arrangements[^c-f4db78e17ff0027a26356b081f1070e7]
 
 - [Section 221 — Health services and social services...](part-14/section-221.md)
 - [Section 222 — Local Healthwatch organisations](part-14/section-222.md)
@@ -561,28 +561,28 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f31a372a927df7d1d404d09176c3aca2]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/15)
+[^c-f31a372a927df7d1d404d09176c3aca2]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/15)
 
-[^key-7ec2bc336e56a6acbd55b8620b3f7a29]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2007/28) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/15)
+[^c-7ec2bc336e56a6acbd55b8620b3f7a29]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2007/28) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/15)
 
-[^key-f2152c5579f5aa5db8ec2b494dfeed63]: Modification: Pt. 1 Ch. 1: transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/60/1), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b) (with [s. 63(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/3)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
+[^c-f2152c5579f5aa5db8ec2b494dfeed63]: Modification: Pt. 1 Ch. 1: transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/60/1), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b) (with [s. 63(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/3)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
 
-[^key-957f112d0d8f5eaae32f358fe6a832e6]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2007/28/part/1/chapter/1) applied (with modifications) (25.5.2018) by [The Somerset West and Taunton (Modification of Boundary Change Enactments) Regulations 2018 (S.I. 2018/638)](https://www.legislation.gov.uk/uksi/2018/638), [regs. 1](https://www.legislation.gov.uk/uksi/2018/638/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/638/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/638/regulation/4))
+[^c-957f112d0d8f5eaae32f358fe6a832e6]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2007/28/part/1/chapter/1) applied (with modifications) (25.5.2018) by [The Somerset West and Taunton (Modification of Boundary Change Enactments) Regulations 2018 (S.I. 2018/638)](https://www.legislation.gov.uk/uksi/2018/638), [regs. 1](https://www.legislation.gov.uk/uksi/2018/638/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/638/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/638/regulation/4))
 
-[^key-196d348e318dc1fd186b67d181a3c6bc]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2007/28/part/1/chapter/1) applied (with modifications) (25.5.2018) by [The Dorset (Structural Changes) (Modification of the Local Government and Public Involvement in Health Act 2007) Regulations 2018 (S.I. 2018/636)](https://www.legislation.gov.uk/uksi/2018/636), [regs. 1](https://www.legislation.gov.uk/uksi/2018/636/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/636/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/636/regulation/4))
+[^c-196d348e318dc1fd186b67d181a3c6bc]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2007/28/part/1/chapter/1) applied (with modifications) (25.5.2018) by [The Dorset (Structural Changes) (Modification of the Local Government and Public Involvement in Health Act 2007) Regulations 2018 (S.I. 2018/636)](https://www.legislation.gov.uk/uksi/2018/636), [regs. 1](https://www.legislation.gov.uk/uksi/2018/636/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/636/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/636/regulation/4))
 
-[^key-53676b7c786c477ec8e67a6bf1c485e1]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2007/28/part/1/chapter/1) applied (with modifications) (22.2.2019) by [The Buckinghamshire (Structural Changes) (Modification of the Local Government and Public Involvement in Health Act 2007) Regulations 2019 (S.I. 2019/332)](https://www.legislation.gov.uk/uksi/2019/332), [regs. 1](https://www.legislation.gov.uk/uksi/2019/332/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/332/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/332/regulation/5))
+[^c-53676b7c786c477ec8e67a6bf1c485e1]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2007/28/part/1/chapter/1) applied (with modifications) (22.2.2019) by [The Buckinghamshire (Structural Changes) (Modification of the Local Government and Public Involvement in Health Act 2007) Regulations 2019 (S.I. 2019/332)](https://www.legislation.gov.uk/uksi/2019/332), [regs. 1](https://www.legislation.gov.uk/uksi/2019/332/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/332/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/332/regulation/5))
 
-[^key-246fd4c6aadaf2dce245020898812984]: Modification: Pt. 2 Ch. 1: transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(2)(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/60/3/b), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b) (with [s. 63(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/4)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
+[^c-246fd4c6aadaf2dce245020898812984]: Modification: Pt. 2 Ch. 1: transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(2)(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/60/3/b), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b) (with [s. 63(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/4)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
 
-[^key-bb5ae59dd2f192c07e43fee84d756e7e]: Modification: Pt. 4 Ch. 3: transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(2)(3)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/60/3/d), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b) (with [s. 63(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/4)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
+[^c-bb5ae59dd2f192c07e43fee84d756e7e]: Modification: Pt. 4 Ch. 3: transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(2)(3)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/60/3/d), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b) (with [s. 63(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/63/4)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
 
-[^key-2baff744e519066f75d580539232d2a4]: Modification: Pt. 5 modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [12](https://www.legislation.gov.uk/uksi/2008/2113/regulation/12)
+[^c-2baff744e519066f75d580539232d2a4]: Modification: Pt. 5 modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [12](https://www.legislation.gov.uk/uksi/2008/2113/regulation/12)
 
-[^key-74f5036c3ab0faa31ee615e885d1f8fb]: Modification: Pt. 5 modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2008/2113/regulation/11/2)
+[^c-74f5036c3ab0faa31ee615e885d1f8fb]: Modification: Pt. 5 modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2008/2113/regulation/11/2)
 
-[^key-d3a18bcc129a603ddece427f5f56bc2e]: Modification: [Pt. 5](https://www.legislation.gov.uk/ukpga/2007/28/part/5) modified by S.I. 2008/2113, reg. 11 (as substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/14/3))
+[^c-d3a18bcc129a603ddece427f5f56bc2e]: Modification: [Pt. 5](https://www.legislation.gov.uk/ukpga/2007/28/part/5) modified by S.I. 2008/2113, reg. 11 (as substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/14/3))
 
-[^key-4f4ba6aa2eb92698e7369f2f37f3489c]: Textual amendment: Words in Pt. 5 Ch. 1 heading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/2), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-4f4ba6aa2eb92698e7369f2f37f3489c]: Textual amendment: Words in Pt. 5 Ch. 1 heading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/101/2), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
 
-[^key-f4db78e17ff0027a26356b081f1070e7]: Textual amendment: S. 221 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 182(10)](https://www.legislation.gov.uk/ukpga/2012/7/section/182/10), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f4db78e17ff0027a26356b081f1070e7]: Textual amendment: S. 221 cross-heading substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 182(10)](https://www.legislation.gov.uk/ukpga/2012/7/section/182/10), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

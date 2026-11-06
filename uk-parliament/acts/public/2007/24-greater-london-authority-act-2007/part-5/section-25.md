@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Membership[^key-a46b0db21fb2a572665b93611f58faf5]
+## 25. Membership[^c-a46b0db21fb2a572665b93611f58faf5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a46b0db21fb2a572665b93611f58faf5]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2007/24/section/25) repealed (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 123(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/123/a); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-a46b0db21fb2a572665b93611f58faf5]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2007/24/section/25) repealed (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 123(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/123/a); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)

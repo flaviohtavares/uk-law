@@ -31,7 +31,7 @@ summary: ''
 
 TOWN AND COUNTRY PLANNING, WALES
 
-The Planning (Listed Buildings and Conservation Areas) (Amendment) (Wales) Regulations 2009 (revoked)[^key-81fd34546a6319c40daa34ab83432756]
+The Planning (Listed Buildings and Conservation Areas) (Amendment) (Wales) Regulations 2009 (revoked)[^c-81fd34546a6319c40daa34ab83432756]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 June 2009
 
-[^key-81fd34546a6319c40daa34ab83432756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81fd34546a6319c40daa34ab83432756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-81fd34546a6319c40daa34ab83432756]
+## 1. Title, commencement, interpretation and application[^c-81fd34546a6319c40daa34ab83432756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^key-81fd34546a6319c40daa34ab83432756]
+## 2. Amendment of the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^c-81fd34546a6319c40daa34ab83432756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Planning (Listed Buildings and Conservation Areas) (Amendment) (Wales) Regulations 2006[^key-81fd34546a6319c40daa34ab83432756]
+## 3. Revocation of the Planning (Listed Buildings and Conservation Areas) (Amendment) (Wales) Regulations 2006[^c-81fd34546a6319c40daa34ab83432756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81fd34546a6319c40daa34ab83432756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81fd34546a6319c40daa34ab83432756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-81fd34546a6319c40daa34ab83432756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81fd34546a6319c40daa34ab83432756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81fd34546a6319c40daa34ab83432756]: Textual amendment: Regulations revoked (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (S.I. 2012/793)](https://www.legislation.gov.uk/uksi/2012/793), [regs. 1](https://www.legislation.gov.uk/uksi/2012/793/regulation/1), [18](https://www.legislation.gov.uk/uksi/2012/793/regulation/18), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/793/schedule/5)
+[^c-81fd34546a6319c40daa34ab83432756]: Textual amendment: Regulations revoked (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (S.I. 2012/793)](https://www.legislation.gov.uk/uksi/2012/793), [regs. 1](https://www.legislation.gov.uk/uksi/2012/793/regulation/1), [18](https://www.legislation.gov.uk/uksi/2012/793/regulation/18), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/793/schedule/5)

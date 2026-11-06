@@ -16,32 +16,32 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Revocation or amendment of custody plus orders and amendment of intermittent custody orders[^key-a3711348b679f3c4787d96bc8d22ff00]
+## SCHEDULE 10 — Revocation or amendment of custody plus orders and amendment of intermittent custody orders[^c-a3711348b679f3c4787d96bc8d22ff00]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### ...[^key-a3711348b679f3c4787d96bc8d22ff00]
+### ...[^c-a3711348b679f3c4787d96bc8d22ff00]
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3711348b679f3c4787d96bc8d22ff00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3711348b679f3c4787d96bc8d22ff00]: Textual amendment: Sch. 10 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/89/1/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/a)
+[^c-a3711348b679f3c4787d96bc8d22ff00]: Textual amendment: Sch. 10 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/89/1/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/a)

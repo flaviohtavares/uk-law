@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**310.**[^key-e76cde6bf69642a3a5eb2dd20aeea14e] In section 162(4)(f) (arrangements to promote co-operation: adults with needs for care and support and carers) for “NHS trust” substitute “NHS Trust”.
+**310.**[^c-e76cde6bf69642a3a5eb2dd20aeea14e] In section 162(4)(f) (arrangements to promote co-operation: adults with needs for care and support and carers) for “NHS trust” substitute “NHS Trust”.
 
 ## Annotations
 
-[^key-e76cde6bf69642a3a5eb2dd20aeea14e]: Commencement: Reg. 310 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e76cde6bf69642a3a5eb2dd20aeea14e]: Commencement: Reg. 310 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

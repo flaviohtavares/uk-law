@@ -24,7 +24,7 @@ Section 90
 
 ### Abolition of Poisons Board
 
-**1.**[^c22548881][^key-7118e8d53a3f7bfcd58149484fb46f98][^key-d3750b22d4bb0630a1dc7ce21fe1e561] (1) The Poisons Board is abolished.
+**1.**[^c22548881][^c-7118e8d53a3f7bfcd58149484fb46f98][^c-d3750b22d4bb0630a1dc7ce21fe1e561] (1) The Poisons Board is abolished.
 
 (2) As a result—
 
@@ -33,9 +33,9 @@ Section 90
 
 ### Establishment of common regulatory system
 
-**2.**[^c22548891][^key-ec5e5527d58747fa5f2e6f30630ca7bc][^key-0abe95fc4ae0dce8e017f55561b0111c] The Poisons Act 1972 is amended as follows.
+**2.**[^c22548891][^c-ec5e5527d58747fa5f2e6f30630ca7bc][^c-0abe95fc4ae0dce8e017f55561b0111c] The Poisons Act 1972 is amended as follows.
 
-**3.**[^c22548901][^key-128cda122785804e7920e599cbb1ee84][^key-78d14b4e172c71fbecf67640fef12fb8] For section 2 substitute—
+**3.**[^c22548901][^c-128cda122785804e7920e599cbb1ee84][^c-78d14b4e172c71fbecf67640fef12fb8] For section 2 substitute—
 
 > **2. Regulated substances and reportable substances**
 >
@@ -117,7 +117,7 @@ Section 90
 > - (a) they are in common use, or are likely to come into common use, for purposes other than the treatment of human ailments, and
 > - (b) it is reasonably necessary to include them in one of those Parts if members of the general public are to have adequate facilities for obtaining them.
 
-**4.**[^c22548911][^key-bba1d910d7b89231898260218bdf3a1c][^key-df5b1aace185fe74bd1ddfc2bd714fa8] For section 3 substitute—
+**4.**[^c22548911][^c-bba1d910d7b89231898260218bdf3a1c][^c-df5b1aace185fe74bd1ddfc2bd714fa8] For section 3 substitute—
 
 > **3. Activities prohibited without a licence**
 >
@@ -218,9 +218,9 @@ Section 90
 >
 > (9) A person does not commit an offence under subsection (8) if the requirements of subsection (1) or, as the case may be, (5) do not apply to the person's case by virtue of regulations made under section 9B.
 
-**5.**[^c22548921][^key-59d81acd4d7208ce796be73337895557][^key-88503b6a2808fa022e910a4de035e5ce] Omit section 4.
+**5.**[^c22548921][^c-59d81acd4d7208ce796be73337895557][^c-88503b6a2808fa022e910a4de035e5ce] Omit section 4.
 
-**6.**[^c22548931][^key-57d1977b8a771063f135577a18e45c83][^key-49fb23c411fa8dd0f73152ee9f469dd5] After that section insert—
+**6.**[^c22548931][^c-57d1977b8a771063f135577a18e45c83][^c-49fb23c411fa8dd0f73152ee9f469dd5] After that section insert—
 
 > **4A. Licences**
 >
@@ -290,9 +290,9 @@ Section 90
 >   - (i) an Act or instrument made under an Act, or
 >   - (ii) any Northern Ireland legislation or instrument made under Northern Ireland legislation.
 
-**7.**[^c22548941][^key-f2e41af5e6101c49f938dd70256ea97f][^key-0966863e38f9d5c950b017aea1786e6b] Omit sections 5 and 6.
+**7.**[^c22548941][^c-f2e41af5e6101c49f938dd70256ea97f][^c-0966863e38f9d5c950b017aea1786e6b] Omit sections 5 and 6.
 
-**8.**[^c22548951][^key-92a2d20776145b9959af78d2df7396a0][^key-c2d188e14ac34378342b4953c07797a5] For section 7 substitute—
+**8.**[^c22548951][^c-92a2d20776145b9959af78d2df7396a0][^c-c2d188e14ac34378342b4953c07797a5] For section 7 substitute—
 
 > **7. Regulations about poisons and explosives precursors**
 >
@@ -315,7 +315,7 @@ Section 90
 >
 > (6) References in this section to “substances” are to regulated substances and reportable substances.
 
-**9.**[^c22548961][^key-b98fce8a17775227d850d7b56a9f46a5][^key-332eb2e9dc7f631c99c6f91ba5884944] After section 7 insert—
+**9.**[^c22548961][^c-b98fce8a17775227d850d7b56a9f46a5][^c-332eb2e9dc7f631c99c6f91ba5884944] After section 7 insert—
 
 > **7A. Proof of lack of knowledge**
 >
@@ -343,7 +343,7 @@ Section 90
 >
 > (6) Nothing in this section affects any defence that it is open to a person accused of an offence to which this section applies to raise apart from this section.
 
-**10.**[^c22548971][^key-364370f00d3eb2db012803d6b181f3f6][^key-5ed9bf09d63f97fab006366b64314c1a] For section 8 substitute—
+**10.**[^c22548971][^c-364370f00d3eb2db012803d6b181f3f6][^c-5ed9bf09d63f97fab006366b64314c1a] For section 8 substitute—
 
 > **8. Penalties**
 >
@@ -414,7 +414,7 @@ Section 90
 >
 > that person, as well as the partnership, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-**11.**[^c22548981][^key-2d16837551f28bb5027bd0ad9cab0727][^key-1cb94ebe9b2180afad67424036cb0bcf] (1) Section 9 (inspection and enforcement) is amended as follows.
+**11.**[^c22548981][^c-2d16837551f28bb5027bd0ad9cab0727][^c-1cb94ebe9b2180afad67424036cb0bcf] (1) Section 9 (inspection and enforcement) is amended as follows.
 
 (2) For subsection (4) substitute—
 
@@ -431,13 +431,13 @@ Section 90
 
 (3) Omit subsections (5) to (7).
 
-**12.**[^c22548991][^key-95574498ef1cce35b41f0d3aaf7c9769][^key-86c656144ad05389bffc817eb391de23] After section 9 insert—
+**12.**[^c22548991][^c-95574498ef1cce35b41f0d3aaf7c9769][^c-86c656144ad05389bffc817eb391de23] After section 9 insert—
 
 > **9A. Application of PACE powers**
 >
 > As regards England and Wales, sections 8, 17 and 18 of the Police and Criminal Evidence Act 1984 (powers of entry and search) apply in relation to an offence under section 3A(3) or (4), 3B(3), 3C(8) or 7(4) of this Act as in relation to an indictable offence.
 
-**13.**[^c22549001][^key-4c942f4ac218048ce759986fe7e3c788][^key-44f0c20119ec46c0152a6720fe11f726] After section 9A (inserted by paragraph 12) insert—
+**13.**[^c22549001][^c-4c942f4ac218048ce759986fe7e3c788][^c-44f0c20119ec46c0152a6720fe11f726] After section 9A (inserted by paragraph 12) insert—
 
 > **9B. Power to disapply requirements or exclusions in specified circumstances**
 >
@@ -465,7 +465,7 @@ Section 90
 > - (d) references to a substance also include a mixture, and
 > - (e) references to a group of substances includes a group comprising all the substances listed in Schedule 1A.
 
-**14.**[^c22549011][^key-dfdaddbd53e4b4a381c087f43d363ded][^key-b4a7f30fcac6ce1b47b7804edcff4726] For section 10 substitute—
+**14.**[^c22549011][^c-dfdaddbd53e4b4a381c087f43d363ded][^c-b4a7f30fcac6ce1b47b7804edcff4726] For section 10 substitute—
 
 > **10. Regulations**
 >
@@ -479,7 +479,7 @@ Section 90
 >
 > (3) An instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**15.**[^c22549021][^key-de7b646d80b67685c9c3760b47649258][^key-1b5e13f521f28e2693d5318aee171832] (1) Section 11 (interpretation) is amended as follows.
+**15.**[^c22549021][^c-de7b646d80b67685c9c3760b47649258][^c-1b5e13f521f28e2693d5318aee171832] (1) Section 11 (interpretation) is amended as follows.
 
 (2) Omit subsection (1).
 
@@ -536,7 +536,7 @@ Section 90
 >
 > (4) References in this Act to supplying something include any kind of supply or making available, whether in return for payment or free of charge.
 
-**16.**[^c22549031][^key-58e922b875bb18eea5b86f4ae4abc929][^key-efde9f22f89da7f82687011e7647bfcc] After Schedule 1 (which is omitted by paragraph 1 of this Schedule) insert—
+**16.**[^c22549031][^c-58e922b875bb18eea5b86f4ae4abc929][^c-efde9f22f89da7f82687011e7647bfcc] After Schedule 1 (which is omitted by paragraph 1 of this Schedule) insert—
 
 > **SCHEDULE 1A — Regulated substances and reportable substances**
 >
@@ -632,96 +632,96 @@ Section 90
 
 [^c22548881]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-7118e8d53a3f7bfcd58149484fb46f98]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-7118e8d53a3f7bfcd58149484fb46f98]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-d3750b22d4bb0630a1dc7ce21fe1e561]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-d3750b22d4bb0630a1dc7ce21fe1e561]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548891]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-ec5e5527d58747fa5f2e6f30630ca7bc]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/2) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-ec5e5527d58747fa5f2e6f30630ca7bc]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/2) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-0abe95fc4ae0dce8e017f55561b0111c]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/2) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-0abe95fc4ae0dce8e017f55561b0111c]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/2) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548901]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-128cda122785804e7920e599cbb1ee84]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-128cda122785804e7920e599cbb1ee84]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-78d14b4e172c71fbecf67640fef12fb8]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-78d14b4e172c71fbecf67640fef12fb8]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548911]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-bba1d910d7b89231898260218bdf3a1c]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-bba1d910d7b89231898260218bdf3a1c]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-df5b1aace185fe74bd1ddfc2bd714fa8]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-df5b1aace185fe74bd1ddfc2bd714fa8]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548921]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-59d81acd4d7208ce796be73337895557]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-59d81acd4d7208ce796be73337895557]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-88503b6a2808fa022e910a4de035e5ce]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-88503b6a2808fa022e910a4de035e5ce]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548931]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-57d1977b8a771063f135577a18e45c83]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-57d1977b8a771063f135577a18e45c83]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-49fb23c411fa8dd0f73152ee9f469dd5]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-49fb23c411fa8dd0f73152ee9f469dd5]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548941]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-f2e41af5e6101c49f938dd70256ea97f]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-f2e41af5e6101c49f938dd70256ea97f]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-0966863e38f9d5c950b017aea1786e6b]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-0966863e38f9d5c950b017aea1786e6b]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548951]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-92a2d20776145b9959af78d2df7396a0]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-92a2d20776145b9959af78d2df7396a0]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-c2d188e14ac34378342b4953c07797a5]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-c2d188e14ac34378342b4953c07797a5]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548961]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-b98fce8a17775227d850d7b56a9f46a5]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-b98fce8a17775227d850d7b56a9f46a5]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-332eb2e9dc7f631c99c6f91ba5884944]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-332eb2e9dc7f631c99c6f91ba5884944]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548971]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-364370f00d3eb2db012803d6b181f3f6]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-364370f00d3eb2db012803d6b181f3f6]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-5ed9bf09d63f97fab006366b64314c1a]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-5ed9bf09d63f97fab006366b64314c1a]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548981]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-2d16837551f28bb5027bd0ad9cab0727]: Commencement: [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-2d16837551f28bb5027bd0ad9cab0727]: Commencement: [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-1cb94ebe9b2180afad67424036cb0bcf]: Commencement: [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-1cb94ebe9b2180afad67424036cb0bcf]: Commencement: [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22548991]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-95574498ef1cce35b41f0d3aaf7c9769]: Commencement: [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-95574498ef1cce35b41f0d3aaf7c9769]: Commencement: [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-86c656144ad05389bffc817eb391de23]: Commencement: [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-86c656144ad05389bffc817eb391de23]: Commencement: [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22549001]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-4c942f4ac218048ce759986fe7e3c788]: Commencement: [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-4c942f4ac218048ce759986fe7e3c788]: Commencement: [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-44f0c20119ec46c0152a6720fe11f726]: Commencement: [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-44f0c20119ec46c0152a6720fe11f726]: Commencement: [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22549011]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-dfdaddbd53e4b4a381c087f43d363ded]: Commencement: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-dfdaddbd53e4b4a381c087f43d363ded]: Commencement: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-b4a7f30fcac6ce1b47b7804edcff4726]: Commencement: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-b4a7f30fcac6ce1b47b7804edcff4726]: Commencement: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22549021]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-de7b646d80b67685c9c3760b47649258]: Commencement: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-de7b646d80b67685c9c3760b47649258]: Commencement: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-1b5e13f521f28e2693d5318aee171832]: Commencement: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-1b5e13f521f28e2693d5318aee171832]: Commencement: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
 
 [^c22549031]: Commencement: [Sch. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-58e922b875bb18eea5b86f4ae4abc929]: Commencement: [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-58e922b875bb18eea5b86f4ae4abc929]: Commencement: [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-efde9f22f89da7f82687011e7647bfcc]: Commencement: [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-efde9f22f89da7f82687011e7647bfcc]: Commencement: [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)

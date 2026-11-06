@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-a878cd9392484351a3c6d98b67165575][^key-ec37394378a7a0559b29d610dad0fdd3][^key-b107d215a84bc4314490eda5b007a5cb] Section 73 of the Pensions Act 2004 (inspection of premises) is amended as follows.
+(1)[^c-a878cd9392484351a3c6d98b67165575][^c-ec37394378a7a0559b29d610dad0fdd3][^c-b107d215a84bc4314490eda5b007a5cb] Section 73 of the Pensions Act 2004 (inspection of premises) is amended as follows.
 
 (2) In subsection (2)—
 
-- (a)[^key-0cf688498841625fb50cad0116f6f2e7][^key-d2ac842704ed863ee799227f38a2abd0] after paragraph (da) insert—
+- (a)[^c-0cf688498841625fb50cad0116f6f2e7][^c-d2ac842704ed863ee799227f38a2abd0] after paragraph (da) insert—
 
   > - (db) the Pension Schemes Act 2017;
   > - (dc) Part 1 of the Pension Schemes Act 2021;
 
   ;
-- (b)[^key-97e40ac0e7ceeaf545f5f1091095f8a4][^key-ca03d21f0b0d7a727236be6bd00baf20] in paragraph (e), for “(da)” substitute “ (dc) ”.
+- (b)[^c-97e40ac0e7ceeaf545f5f1091095f8a4][^c-ca03d21f0b0d7a727236be6bd00baf20] in paragraph (e), for “(da)” substitute “ (dc) ”.
 
-(3)[^key-454f48425a85e56eba945984c69f01a4] After subsection (2) insert—
+(3)[^c-454f48425a85e56eba945984c69f01a4] After subsection (2) insert—
 
 > (2A) An inspector may, for the purposes of investigating whether the Regulator has grounds in the case of an occupational pension scheme for issuing—
 >
@@ -45,7 +45,7 @@ summary: ''
 >
 > at any reasonable time enter premises liable to inspection.
 
-(4)[^key-454f48425a85e56eba945984c69f01a4] After subsection (5) insert—
+(4)[^c-454f48425a85e56eba945984c69f01a4] After subsection (5) insert—
 
 > (5A) An inspector may, for the purposes of investigating whether the relevant provisions are being, or have been, complied with in the case of a scheme, at any reasonable time enter premises liable to inspection.
 >
@@ -54,7 +54,7 @@ summary: ''
 > - (a) such provisions of the pensions legislation as may be prescribed;
 > - (b) any provisions in force in Northern Ireland corresponding to the provisions so prescribed.
 
-(5)[^key-454f48425a85e56eba945984c69f01a4] In subsection (6) (premises liable to inspection)—
+(5)[^c-454f48425a85e56eba945984c69f01a4] In subsection (6) (premises liable to inspection)—
 
 - (a) in paragraph (b), omit the “or” at the end;
 - (b) after paragraph (c) insert—
@@ -63,13 +63,13 @@ summary: ''
   > - (e) the administration of the business of the employer in relation to the scheme, or work connected with that administration, is being carried out there, or
   > - (f) in the case of an occupational pension scheme other than a money purchase scheme, a prescribed scheme or a scheme of a prescribed description, documents relevant to a change in the ownership of the employer or of a significant asset of the employer are being kept there.
 
-(6)[^key-454f48425a85e56eba945984c69f01a4] After subsection (6) insert—
+(6)[^c-454f48425a85e56eba945984c69f01a4] After subsection (6) insert—
 
 > (6A) In the application of this section in relation to a provision mentioned in subsection (1), (2A), (3), (4) or (5A), references in this section to “employer” are to be read as having the meaning that it has for the purposes of the provision in question.
 >
 > (6B) In this section a reference to an employer in relation to an occupational pension scheme includes a reference to a person who has been the employer in relation to the scheme.
 
-(7)[^key-454f48425a85e56eba945984c69f01a4] In subsection (7), for “this section,” substitute
+(7)[^c-454f48425a85e56eba945984c69f01a4] In subsection (7), for “this section,” substitute
 
 > this section—
 >
@@ -85,18 +85,18 @@ summary: ''
 
 ## Annotations
 
-[^key-a878cd9392484351a3c6d98b67165575]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/1) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/f)
+[^c-a878cd9392484351a3c6d98b67165575]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/1) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/f)
 
-[^key-ec37394378a7a0559b29d610dad0fdd3]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/1) in force at 29.6.2022 for specified purposes by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/b)
+[^c-ec37394378a7a0559b29d610dad0fdd3]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/1) in force at 29.6.2022 for specified purposes by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/b)
 
-[^key-b107d215a84bc4314490eda5b007a5cb]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/1) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/b)
+[^c-b107d215a84bc4314490eda5b007a5cb]: Commencement: [S. 111(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/1) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/b)
 
-[^key-0cf688498841625fb50cad0116f6f2e7]: Commencement: [S. 111(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/a) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/f)
+[^c-0cf688498841625fb50cad0116f6f2e7]: Commencement: [S. 111(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/a) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/f)
 
-[^key-d2ac842704ed863ee799227f38a2abd0]: Commencement: [S. 111(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/a) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/b)
+[^c-d2ac842704ed863ee799227f38a2abd0]: Commencement: [S. 111(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/a) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/b)
 
-[^key-97e40ac0e7ceeaf545f5f1091095f8a4]: Commencement: [S. 111(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/b) in force at 29.6.2022 for specified purposes by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/a)
+[^c-97e40ac0e7ceeaf545f5f1091095f8a4]: Commencement: [S. 111(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/b) in force at 29.6.2022 for specified purposes by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/a)
 
-[^key-ca03d21f0b0d7a727236be6bd00baf20]: Commencement: [S. 111(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/b) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/b)
+[^c-ca03d21f0b0d7a727236be6bd00baf20]: Commencement: [S. 111(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/2/b) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/b)
 
-[^key-454f48425a85e56eba945984c69f01a4]: Commencement: [S. 111(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/3) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/f)
+[^c-454f48425a85e56eba945984c69f01a4]: Commencement: [S. 111(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/1/section/111/3) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/f)

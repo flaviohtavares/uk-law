@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Register of foster carers: interpretation[^key-303bbc8b3277937e5a4cf94a3b783b1e]
+## 35. Register of foster carers: interpretation[^c-303bbc8b3277937e5a4cf94a3b783b1e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In sections 30 to 34—
 
 ## Annotations
 
-[^key-303bbc8b3277937e5a4cf94a3b783b1e]: Commencement: S. 35 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-303bbc8b3277937e5a4cf94a3b783b1e]: Commencement: S. 35 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

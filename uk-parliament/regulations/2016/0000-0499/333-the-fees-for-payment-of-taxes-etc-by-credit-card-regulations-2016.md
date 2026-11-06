@@ -46,27 +46,27 @@ Coming into force
 
 1st April 2016
 
-[^key-7234ccb4ff4e8bbeece1647bae0dc753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7234ccb4ff4e8bbeece1647bae0dc753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7234ccb4ff4e8bbeece1647bae0dc753]
+## 1. Citation, commencement and interpretation[^c-7234ccb4ff4e8bbeece1647bae0dc753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fee payable where a payment is made by a relevant credit card[^key-7234ccb4ff4e8bbeece1647bae0dc753]
+## 2. Fee payable where a payment is made by a relevant credit card[^c-7234ccb4ff4e8bbeece1647bae0dc753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7234ccb4ff4e8bbeece1647bae0dc753]
+## 3. Revocation[^c-7234ccb4ff4e8bbeece1647bae0dc753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7234ccb4ff4e8bbeece1647bae0dc753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7234ccb4ff4e8bbeece1647bae0dc753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7234ccb4ff4e8bbeece1647bae0dc753]
+## SCHEDULE[^c-7234ccb4ff4e8bbeece1647bae0dc753]
 
 Regulations 1 and 2
 
@@ -74,8 +74,8 @@ Regulations 1 and 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7234ccb4ff4e8bbeece1647bae0dc753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7234ccb4ff4e8bbeece1647bae0dc753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7234ccb4ff4e8bbeece1647bae0dc753]: Textual amendment: Regulations revoked (1.11.2020) by The Fees for Payment of Taxes, etc. by [Card Regulations 2020 (S.I. 2020/657)](https://www.legislation.gov.uk/uksi/2020/657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/657/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/657/regulation/4/a)
+[^c-7234ccb4ff4e8bbeece1647bae0dc753]: Textual amendment: Regulations revoked (1.11.2020) by The Fees for Payment of Taxes, etc. by [Card Regulations 2020 (S.I. 2020/657)](https://www.legislation.gov.uk/uksi/2020/657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/657/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/657/regulation/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Requests for statement of reasons[^key-27f20a22288c1db7f8ad3bf37531b20d]
+## 68. Requests for statement of reasons[^c-27f20a22288c1db7f8ad3bf37531b20d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f20a22288c1db7f8ad3bf37531b20d]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1988/1890/regulation/68) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-27f20a22288c1db7f8ad3bf37531b20d]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1988/1890/regulation/68) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

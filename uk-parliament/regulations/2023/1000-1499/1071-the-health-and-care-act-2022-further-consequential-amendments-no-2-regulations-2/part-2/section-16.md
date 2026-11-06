@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendment of the Special Guardianship (Wales) Regulations 2005 (Welsh language text)[^key-f835251a92f582273012b64585a82079]
+## 16. Amendment of the Special Guardianship (Wales) Regulations 2005 (Welsh language text)[^c-f835251a92f582273012b64585a82079]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f835251a92f582273012b64585a82079]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1071/regulation/16) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-f835251a92f582273012b64585a82079]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1071/regulation/16) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

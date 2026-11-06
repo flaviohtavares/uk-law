@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Breach of official duty[^key-8e966d2a342351ba506dd2753798f82d]
+## 28. Breach of official duty[^c-8e966d2a342351ba506dd2753798f82d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ and “official duty” shall for the purpose of this article be construed accor
 
 ## Annotations
 
-[^key-8e966d2a342351ba506dd2753798f82d]: Commencement: Art. 28 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8e966d2a342351ba506dd2753798f82d]: Commencement: Art. 28 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

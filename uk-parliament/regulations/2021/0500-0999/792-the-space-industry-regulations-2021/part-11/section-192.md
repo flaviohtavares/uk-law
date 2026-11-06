@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Segregated areas[^key-621c4850d0d48349e5653468d6426055]
+## 192. Segregated areas[^c-621c4850d0d48349e5653468d6426055]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-621c4850d0d48349e5653468d6426055]: Commencement: Reg. 192 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-621c4850d0d48349e5653468d6426055]: Commencement: Reg. 192 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

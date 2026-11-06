@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A4. Duties of constituent institutions[^key-8bda631822805cb33c30e65002813dcf]
+## A4. Duties of constituent institutions[^c-8bda631822805cb33c30e65002813dcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bda631822805cb33c30e65002813dcf]: Textual amendment: [S. A4](https://www.legislation.gov.uk/ukpga/2017/29/section/A4) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/16/section/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/b)
+[^c-8bda631822805cb33c30e65002813dcf]: Textual amendment: [S. A4](https://www.legislation.gov.uk/ukpga/2017/29/section/A4) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/16/section/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/b)

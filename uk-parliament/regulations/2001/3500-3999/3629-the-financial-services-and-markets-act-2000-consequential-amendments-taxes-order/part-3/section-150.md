@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Certain business carried on outside the United Kingdom[^key-d8bce24f8bcd1dccdf305ef0b7183e10]
+## 150. Certain business carried on outside the United Kingdom[^c-d8bce24f8bcd1dccdf305ef0b7183e10]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8bce24f8bcd1dccdf305ef0b7183e10]: Commencement: Art. 150 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-d8bce24f8bcd1dccdf305ef0b7183e10]: Commencement: Art. 150 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00142]: Footnote: Regulation 8 was amended by regulation 7(2) of S.I. [1999/1408](https://www.legislation.gov.uk/uksi/1999/1408).

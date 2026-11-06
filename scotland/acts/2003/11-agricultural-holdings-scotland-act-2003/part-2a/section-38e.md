@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38E. Tenant's right to buy[^key-2523e7bef0ebb2d09cd2ebeb80b18917]
+## 38E. Tenant's right to buy[^c-2523e7bef0ebb2d09cd2ebeb80b18917]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ the tenant's right to buy is extinguished.
 
 ## Annotations
 
-[^key-2523e7bef0ebb2d09cd2ebeb80b18917]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/asp/2003/11/part/2A) inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 100(2)](https://www.legislation.gov.uk/asp/2016/18/section/100/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)
+[^c-2523e7bef0ebb2d09cd2ebeb80b18917]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/asp/2003/11/part/2A) inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 100(2)](https://www.legislation.gov.uk/asp/2016/18/section/100/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)

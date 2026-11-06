@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Remunerative work[^key-1a54e0f809ad33626ef2d633a22af059][^key-a511e480e0d24fd18229cc4246b95444]
+## 6. Remunerative work[^c-1a54e0f809ad33626ef2d633a22af059][^c-a511e480e0d24fd18229cc4246b95444]
 
 *Extent: N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 
 (5) A person shall be treated as engaged in remunerative work during any period for which he is absent from work referred to in paragraph (1) if the absence is either without good cause or by reason of a recognised, customary or other holiday.
 
-(6) A person on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^key-f4bc0ae77f53b7d822b1240aa9d15e05] for more than 3 days in any benefit week shall be treated as not being in remunerative work in that week.
+(6) A person on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^c-f4bc0ae77f53b7d822b1240aa9d15e05] for more than 3 days in any benefit week shall be treated as not being in remunerative work in that week.
 
-(7) A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave , shared parental leave[^key-e2e31f8eb713230c59b006aeb0a0e570] , parental bereavement leave[^key-15b63d16f0a02492aff57fc7fa780b4b] or adoption leave, or is absent from work because he is ill.
+(7) A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave , shared parental leave[^c-e2e31f8eb713230c59b006aeb0a0e570] , parental bereavement leave[^c-15b63d16f0a02492aff57fc7fa780b4b] or adoption leave, or is absent from work because he is ill.
 
 (8) A person shall not be treated as engaged in remunerative work on any day on which he is engaged in an activity in respect of which—
 
@@ -44,12 +44,12 @@ summary: ''
 
 ## Annotations
 
-[^key-1a54e0f809ad33626ef2d633a22af059]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/405/regulation/6) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-1a54e0f809ad33626ef2d633a22af059]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/405/regulation/6) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-a511e480e0d24fd18229cc4246b95444]: Modification: [Regs. 3-6](https://www.legislation.gov.uk/nisr/2006/405/regulation/3) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2007/204/regulation/3)
+[^c-a511e480e0d24fd18229cc4246b95444]: Modification: [Regs. 3-6](https://www.legislation.gov.uk/nisr/2006/405/regulation/3) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2007/204/regulation/3)
 
-[^key-f4bc0ae77f53b7d822b1240aa9d15e05]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/6/6) substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/4/a)
+[^c-f4bc0ae77f53b7d822b1240aa9d15e05]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/6/6) substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/4/a)
 
-[^key-e2e31f8eb713230c59b006aeb0a0e570]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/nisr/2006/405/regulation/6/7) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [15(3)](https://www.legislation.gov.uk/nisr/2015/146/article/15/3)
+[^c-e2e31f8eb713230c59b006aeb0a0e570]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/nisr/2006/405/regulation/6/7) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [15(3)](https://www.legislation.gov.uk/nisr/2015/146/article/15/3)
 
-[^key-15b63d16f0a02492aff57fc7fa780b4b]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/nisr/2006/405/regulation/6/7) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2023/157/regulation/11/3), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-15b63d16f0a02492aff57fc7fa780b4b]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/nisr/2006/405/regulation/6/7) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [11(3)](https://www.legislation.gov.uk/nisr/2023/157/regulation/11/3), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)

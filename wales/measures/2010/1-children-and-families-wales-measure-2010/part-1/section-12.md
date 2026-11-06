@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Participation of children in local authority decision making[^key-6349f8a3a46431899496869c148625b4]
+## 12. Participation of children in local authority decision making[^c-6349f8a3a46431899496869c148625b4]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6349f8a3a46431899496869c148625b4]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2010/1/section/12) in force at 31.1.2012 by [S.I. 2012/191](https://www.legislation.gov.uk/wsi/2012/191), [art. 5](https://www.legislation.gov.uk/wsi/2012/191/article/5)
+[^c-6349f8a3a46431899496869c148625b4]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2010/1/section/12) in force at 31.1.2012 by [S.I. 2012/191](https://www.legislation.gov.uk/wsi/2012/191), [art. 5](https://www.legislation.gov.uk/wsi/2012/191/article/5)

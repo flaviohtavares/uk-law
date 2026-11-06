@@ -37,53 +37,53 @@ of 20 October 2016
 
 establishing a discard plan for certain demersal fisheries in the Mediterranean Sea (revoked)
 
-[^key-934e5b9816abf5412244995317165455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-934e5b9816abf5412244995317165455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Implementation of the landing obligation[^key-934e5b9816abf5412244995317165455]
+## Article 1. Implementation of the landing obligation[^c-934e5b9816abf5412244995317165455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-934e5b9816abf5412244995317165455]
+## Article 2. Definitions[^c-934e5b9816abf5412244995317165455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Survivability exemption[^key-934e5b9816abf5412244995317165455]
+## Article 3. Survivability exemption[^c-934e5b9816abf5412244995317165455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. De minimis exemption[^key-934e5b9816abf5412244995317165455]
+## Article 4. De minimis exemption[^c-934e5b9816abf5412244995317165455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. List of vessels[^key-934e5b9816abf5412244995317165455]
+## Article 5. List of vessels[^c-934e5b9816abf5412244995317165455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force and application[^key-934e5b9816abf5412244995317165455]
+## Article 6. Entry into force and application[^c-934e5b9816abf5412244995317165455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-934e5b9816abf5412244995317165455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-934e5b9816abf5412244995317165455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-934e5b9816abf5412244995317165455]
+## ANNEX[^c-934e5b9816abf5412244995317165455]
 
-[^key-934e5b9816abf5412244995317165455]1.
+[^c-934e5b9816abf5412244995317165455]1.
 
 **Western Mediterranean Sea**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-934e5b9816abf5412244995317165455]2.
+[^c-934e5b9816abf5412244995317165455]2.
 
 **Adriatic Sea**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-934e5b9816abf5412244995317165455]3.
+[^c-934e5b9816abf5412244995317165455]3.
 
 **South-eastern Mediterranean Sea**
 
@@ -91,4 +91,4 @@ establishing a discard plan for certain demersal fisheries in the Mediterranean 
 
 ## Annotations
 
-[^key-934e5b9816abf5412244995317165455]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-934e5b9816abf5412244995317165455]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

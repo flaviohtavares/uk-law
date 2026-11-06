@@ -69,17 +69,17 @@ In these Regulations—
 - “**amendment notice**” means the notice given to the Registrar in accordance with regulation 21;
 - “**applicable charge**” means the charge fixed by the Lord Chancellor in accordance with section 98(4) of the Act, or in accordance with section 98(4) as applied by section 98(7)(b) of the Act;
 - “**appropriate officer**” means—
-  - (a) in the case of the High Court or a county court, an officer of the court in which the judgment is entered or with which a tribunal decision is filed[^key-39ef0afba65e41c7f955a803321de5b0];
+  - (a) in the case of the High Court or a county court, an officer of the court in which the judgment is entered or with which a tribunal decision is filed[^c-39ef0afba65e41c7f955a803321de5b0];
   - (b) in the case of a registration under paragraph 38(1)(b) of Schedule 5 to the Act—
     - (i) where a fines officer exercises the power to register following service of a notice under paragraph 37(6)(b) of that Schedule, that officer; or
     - (ii) where a court exercises the power to register by virtue of paragraph 39(3) or (4) of that Schedule, an officer of that court;
   - (c) in respect of a liability order designated for the purposes of section 33(5) of the Child Support Act 1991 [^c12433411], the Secretary of State;
 - “**appropriate fee**” means the fee prescribed under section 92(1) of the Act;
 - “**certificate of satisfaction**” means the certificate applied for under regulation 17;
-- “[^key-cbdbaadc3705a2dd00202d8875bdbd7a]**data protection principles**” means the principles set out in Article 5(1) of the UK GDPR[^key-fe1bb3d31fc473be08b7b4258d13e102];
-- “**debt**” means the sum of money owed by virtue of a judgment, administration order, fine or tribunal decision[^key-e25625e34b50a79cd4dc498bd3bd38ea], and “**debtor**” means the individual, incorporated or unincorporated body liable to pay that sum;
+- “[^c-cbdbaadc3705a2dd00202d8875bdbd7a]**data protection principles**” means the principles set out in Article 5(1) of the UK GDPR[^c-fe1bb3d31fc473be08b7b4258d13e102];
+- “**debt**” means the sum of money owed by virtue of a judgment, administration order, fine or tribunal decision[^c-e25625e34b50a79cd4dc498bd3bd38ea], and “**debtor**” means the individual, incorporated or unincorporated body liable to pay that sum;
 - “**family proceedings**” has the same meaning as in section 63 (interpretation) of the Family Law Act 1996 [^c12433431];
-- [^key-f9581ca1a3ab2d47c7c12a940a0cd395]...
+- [^c-f9581ca1a3ab2d47c7c12a940a0cd395]...
 - “**judgment**” means any judgment or order of the court for a sum of money and, in respect of a county court, includes a liability order designated by the Secretary of State for the purposes of section 33(5) of the Child Support Act 1991;
 - “**Local Justice Area**” means the area specified in an order made under section 8(2) of the Act;
 - “**Registrar**” means—
@@ -87,9 +87,9 @@ In these Regulations—
   - (b) otherwise, the Lord Chancellor;
 - “**the Register**” means the register kept in accordance with section 98(1) of the Act;
 - “**satisfied**”, in relation to a debt, means that the debt has been paid in full, and “**satisfaction**” is to be construed accordingly;
-- “**Technology and Construction Court**” has the same meaning as in Part 60 of the 1998 Rules;[^key-eaac6388274b8705e383d7eae3fc5e8d]
+- “**Technology and Construction Court**” has the same meaning as in Part 60 of the 1998 Rules;[^c-eaac6388274b8705e383d7eae3fc5e8d]
 - “tribunal decision” includes an award.
-- “[^key-301b4e5e455da457634ba96dfe0501a0]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+- “[^c-301b4e5e455da457634ba96dfe0501a0]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
 
 ## 4. Amendment to the Register of Fines Regulations 2003
 
@@ -100,8 +100,8 @@ In regulation 1(2) of the Register of Fines Regulations 2003 [^c12433441], for �
 Any step to be taken under these Regulations by the appropriate officer or the Registrar shall be taken—
 
 - (a) in respect of—
-  - (i) the registration of judgments to which regulation 8(1)(a) applies; [^key-92e61aea8d7a17be09204fa29d176e97]...
-  - (ii) the registration of administration orders to which regulation 8(1)(b) applies; and[^key-95d6b99911a746e9007001e28dd14c0d]
+  - (i) the registration of judgments to which regulation 8(1)(a) applies; [^c-92e61aea8d7a17be09204fa29d176e97]...
+  - (ii) the registration of administration orders to which regulation 8(1)(b) applies; and[^c-95d6b99911a746e9007001e28dd14c0d]
   - (iii) the registration of tribunal decisions to which regulation 8(1)(d) applies,
 
   within one working day;
@@ -121,7 +121,7 @@ Any step to be taken under these Regulations by the appropriate officer or the R
 
 Where the Registrar is not a body corporate, the Register shall be kept by the Lord Chancellor in such a manner and at such a place as he shall determine.
 
-## 8. Registration of judgments, administration orders, fines and tribunal decisions[^key-3a50028523350c5b6831aa4e9a15bf7d]
+## 8. Registration of judgments, administration orders, fines and tribunal decisions[^c-3a50028523350c5b6831aa4e9a15bf7d]
 
 (1) The appropriate officer shall send to the Registrar a return of—
 
@@ -129,7 +129,7 @@ Where the Registrar is not a body corporate, the Register shall be kept by the L
   - (i) the High Court; and
   - (ii) a county court;
 - (b) every administration order made under section 112 of the County Courts Act 1984 [^c12433451] (power of county courts to make administration orders);
-- (c) every sum to be registered by virtue of paragraph 38(1)(b) of Schedule 5 to the Act (further steps available against defaulters);[^key-b531da8db3e364a5b206f6be7ee97eb1]
+- (c) every sum to be registered by virtue of paragraph 38(1)(b) of Schedule 5 to the Act (further steps available against defaulters);[^c-b531da8db3e364a5b206f6be7ee97eb1]
 - (d) subject to regulation 9A, every tribunal decision made by—
   - (i) the First-tier Tribunal;
   - (ii) the Upper Tribunal;
@@ -160,7 +160,7 @@ Regulation 8(1)(a) does not apply to—
   - (i) section 73(15) of the Road Traffic Act 1991 [^c12433461] (order for the recovery of an amount which is payable under an adjudication of a parking adjudicator); or
   - (ii) paragraph 7 of Schedule 6 to that Act (order for the recovery of an increased penalty charge).
 
-## 9A. Exempt tribunal decisions[^key-936a0456cb8c5920ed6dcf3ac92c395d]
+## 9A. Exempt tribunal decisions[^c-936a0456cb8c5920ed6dcf3ac92c395d]
 
 Regulation 8(1)(d) does not apply until, pursuant to rule 70.5(2A)(a) of the 1998 Rules—
 
@@ -169,10 +169,10 @@ Regulation 8(1)(d) does not apply until, pursuant to rule 70.5(2A)(a) of the 199
 
 ## 10. Information contained in the appropriate officer's return
 
-(1)[^key-250caf249ba12f94d1235cbc455deea3] The return sent by virtue of regulation 8(1) shall contain details of—
+(1)[^c-250caf249ba12f94d1235cbc455deea3] The return sent by virtue of regulation 8(1) shall contain details of—
 
 - (a) the full name and address of the debtor in respect of whom the entry in the Register is to be made;
-- (aa)[^key-22d13d7581cc8bab3ea4fe570b92cc25] subject to paragraph (2), the full name of the claimant for whom the entry in the Register is to be made;
+- (aa)[^c-22d13d7581cc8bab3ea4fe570b92cc25] subject to paragraph (2), the full name of the claimant for whom the entry in the Register is to be made;
 - (b) if the entry is to be in respect of an individual, that individual's date of birth (where known);
 - (c) the amount of the debt;
 - (d) the case number;
@@ -185,12 +185,12 @@ Regulation 8(1)(d) does not apply until, pursuant to rule 70.5(2A)(a) of the 199
   - (ii) the date of the order;
 - (h) in respect of a return sent by virtue of regulation 8(1)(c)—
   - (i) the Local Justice Area which imposed the fine; and
-  - (ii) the date of conviction;[^key-54fcd4e96c63297bf82ae6c42527194f]
+  - (ii) the date of conviction;[^c-54fcd4e96c63297bf82ae6c42527194f]
 - (i) in respect of a return sent by virtue of regulation 8(1)(d)—
   - (i) the name of the court with which the tribunal decision was filed in accordance with regulation 9A; and
   - (ii) the date on which the tribunal decision was filed with the court.
 
-(2)[^key-55a4f5020359c188c4c900a7994372a2] Paragraph (1)(aa) does not apply—
+(2)[^c-55a4f5020359c188c4c900a7994372a2] Paragraph (1)(aa) does not apply—
 
 - (a) where the identity of the claimant is protected by—
   - (i) an order of the court made pursuant to rule 39.2(4) of the 1998 Rules; or
@@ -204,19 +204,19 @@ Regulation 8(1)(d) does not apply until, pursuant to rule 70.5(2A)(a) of the 199
 
   in pursuance of which a sum of money is payable.
 
-## 11. Cancellation or endorsement of entries relating to judgments of the High Court or a county court or tribunal decisions[^key-faee43e161c9c0dfa938c6985908deb6]
+## 11. Cancellation or endorsement of entries relating to judgments of the High Court or a county court or tribunal decisions[^c-faee43e161c9c0dfa938c6985908deb6]
 
-(1) This regulation applies where an entry in the Register is one to which regulation 8(1)(a) applies (judgments entered in the High Court or a county court) or to which regulation 8(1)(d) applies (tribunal decisions)[^key-2d17af8c4b93db4bf4cfddb2bd9c5aab].
+(1) This regulation applies where an entry in the Register is one to which regulation 8(1)(a) applies (judgments entered in the High Court or a county court) or to which regulation 8(1)(d) applies (tribunal decisions)[^c-2d17af8c4b93db4bf4cfddb2bd9c5aab].
 
 (2) Where it comes to the attention of the appropriate officer that—
 
-- (a) the debt to which the entry relates has been satisfied one month or less from the date of the judgment or the date on which the tribunal decision was filed with the court in accordance with regulation 9A;[^key-5323cf9d0809dc66fd3fb7f10796d9ee]
-- (b) the judgment to which the entry relates has been set aside or reversed; or[^key-b3dc80ef963a77b983ebbd3f47a54793]
+- (a) the debt to which the entry relates has been satisfied one month or less from the date of the judgment or the date on which the tribunal decision was filed with the court in accordance with regulation 9A;[^c-5323cf9d0809dc66fd3fb7f10796d9ee]
+- (b) the judgment to which the entry relates has been set aside or reversed; or[^c-b3dc80ef963a77b983ebbd3f47a54793]
 - (c) the tribunal decision to which the entry relates has been set aside,
 
 that officer shall send a request to the Registrar to cancel the entry.
 
-(3) Where it comes to the attention of the appropriate officer that the debt has been satisfied more than one month from the date of the judgment or the date on which the tribunal decision was filed with the court in accordance with regulation 9A[^key-46ddd2c8b168df41fdaa0fd5c9818462], that officer shall send a request to the Registrar to endorse the entry as to the satisfaction of the debt.
+(3) Where it comes to the attention of the appropriate officer that the debt has been satisfied more than one month from the date of the judgment or the date on which the tribunal decision was filed with the court in accordance with regulation 9A[^c-46ddd2c8b168df41fdaa0fd5c9818462], that officer shall send a request to the Registrar to endorse the entry as to the satisfaction of the debt.
 
 ## 12. Endorsement of entries relating to county court administration orders
 
@@ -248,8 +248,8 @@ that officer shall send a request to the Registrar to cancel the entry.
 
 Where an entry in the Register is endorsed in accordance with regulations 11(3) or 13(3) and the appropriate officer is later of the opinion that the debt was satisfied one month or less from—
 
-- (a) the date of the judgment or administration order; [^key-4d420d1ddc23b8e9aba9b814fee4c53b]...
-- (b) the date on which the fine was registered; or[^key-18b662f80d860bc98e0c7715c07ecee8]
+- (a) the date of the judgment or administration order; [^c-4d420d1ddc23b8e9aba9b814fee4c53b]...
+- (b) the date on which the fine was registered; or[^c-18b662f80d860bc98e0c7715c07ecee8]
 - (c) the date on which the tribunal decision was filed with the court in accordance with regulation 9A,
 
 that officer shall send a request to the Registrar to cancel the relevant entry.
@@ -282,7 +282,7 @@ Following receipt of a request under—
 
 ## 18.
 
-(1) In the case of an application for a certificate of satisfaction in respect of an entry in the Register to which regulation 8(1)(a) applies (judgments entered in the High Court or a county court) or to which regulation 8(1)(d) applies (tribunal decisions)[^key-aa1c1668b9358847fd1741c8d161f43a], the application under regulation 17(1) shall be accompanied by—
+(1) In the case of an application for a certificate of satisfaction in respect of an entry in the Register to which regulation 8(1)(a) applies (judgments entered in the High Court or a county court) or to which regulation 8(1)(d) applies (tribunal decisions)[^c-aa1c1668b9358847fd1741c8d161f43a], the application under regulation 17(1) shall be accompanied by—
 
 - (a) sufficient evidence that the debt has been satisfied;
 - (b) a statement that the registered debtor has taken reasonable steps to obtain such evidence, but has been unable to do so; or
@@ -310,8 +310,8 @@ the appropriate officer shall issue a certificate of satisfaction to the registe
 
 (1) Where it comes to the attention of the appropriate officer that the amount liable to be paid differs from the amount entered in the Register, due to—
 
-- (a) the issue of a final costs certificate; [^key-3b433cfbb15bbc5798955970dd62f40d]...
-- (b) an increase in the amount of the debt; or[^key-d0780b5d886547516481ab8d85e0beab]
+- (a) the issue of a final costs certificate; [^c-3b433cfbb15bbc5798955970dd62f40d]...
+- (b) an increase in the amount of the debt; or[^c-d0780b5d886547516481ab8d85e0beab]
 - (c) in the case of an entry to which regulation 8(1)(d) applies, a tribunal decision on appeal,
 
 the appropriate officer shall send a return to the Registrar to amend the Register to reflect the revised amount.
@@ -320,9 +320,9 @@ the appropriate officer shall send a return to the Registrar to amend the Regist
 
 (3) Following receipt of a return sent in accordance with this regulation, the Registrar shall amend the Register accordingly.
 
-## 21. Correction of registered details of the judgment, administration order, fine or tribunal decision[^key-1a6ee923edd3c2c0d0a5c3e27e2a89a7]
+## 21. Correction of registered details of the judgment, administration order, fine or tribunal decision[^c-1a6ee923edd3c2c0d0a5c3e27e2a89a7]
 
-(1) Where it comes to the attention of a registered debtor that the entry in the Register relating to his debt is inaccurate with respect to the details of the judgment, administration order, fine or tribunal decision[^key-8d5bb451294b9b904bed7582feef3fea], that debtor may give notice to the Registrar requiring an amendment to be made (“amendment notice”).
+(1) Where it comes to the attention of a registered debtor that the entry in the Register relating to his debt is inaccurate with respect to the details of the judgment, administration order, fine or tribunal decision[^c-8d5bb451294b9b904bed7582feef3fea], that debtor may give notice to the Registrar requiring an amendment to be made (“amendment notice”).
 
 (2) The amendment notice shall—
 
@@ -355,7 +355,7 @@ Where the appropriate officer informs the Registrar that the entry is accurate, 
 The Registrar shall remove any entry in the Register registered—
 
 - (a) by virtue of regulation 8(1)(a) or (b), six years from the date of the judgment;
-- (b) by virtue of regulation 8(1)(c), five years from the date of conviction;[^key-7bb53befb40f1f5a6da336b4127e70a4]
+- (b) by virtue of regulation 8(1)(c), five years from the date of conviction;[^c-7bb53befb40f1f5a6da336b4127e70a4]
 - (c) by virtue of regulation 8(1)(d), six years from the date on which the tribunal decision was filed with the court in accordance with regulation 9A.
 
 ## 27. Searches of the Register
@@ -427,70 +427,70 @@ In particular, these Regulations provide for—
 
 [^c12433401]: Marginal citation: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132), frequently amended.
 
-[^key-39ef0afba65e41c7f955a803321de5b0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/3/a)
+[^c-39ef0afba65e41c7f955a803321de5b0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/3/a)
 
 [^c12433411]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
 
-[^key-cbdbaadc3705a2dd00202d8875bdbd7a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 318(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/318/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-cbdbaadc3705a2dd00202d8875bdbd7a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 318(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/318/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-fe1bb3d31fc473be08b7b4258d13e102]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 62(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/62/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe1bb3d31fc473be08b7b4258d13e102]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 62(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/62/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e25625e34b50a79cd4dc498bd3bd38ea]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/3/b)
+[^c-e25625e34b50a79cd4dc498bd3bd38ea]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/3/b)
 
 [^c12433431]: Marginal citation: [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27).
 
-[^key-f9581ca1a3ab2d47c7c12a940a0cd395]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 62(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/62/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9581ca1a3ab2d47c7c12a940a0cd395]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 62(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/62/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eaac6388274b8705e383d7eae3fc5e8d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2009/474/regulation/3/c)
+[^c-eaac6388274b8705e383d7eae3fc5e8d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2009/474/regulation/3/c)
 
-[^key-301b4e5e455da457634ba96dfe0501a0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 62(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/62/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-301b4e5e455da457634ba96dfe0501a0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2005/3595/regulation/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 62(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/62/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12433441]: Marginal citation: [S.I. 2003/3184](https://www.legislation.gov.uk/uksi/2003/3184), amended by [S.I. 2005/485](https://www.legislation.gov.uk/uksi/2005/485).
 
-[^key-92e61aea8d7a17be09204fa29d176e97]: Textual amendment: Word in [reg. 5(a)(i)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/5/a/i) omitted (1.4.2009) by virtue of [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/4/a)
+[^c-92e61aea8d7a17be09204fa29d176e97]: Textual amendment: Word in [reg. 5(a)(i)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/5/a/i) omitted (1.4.2009) by virtue of [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/4/a)
 
-[^key-95d6b99911a746e9007001e28dd14c0d]: Textual amendment: [Reg. 5(a)(iii)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/5/a/iii) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/4/b)
+[^c-95d6b99911a746e9007001e28dd14c0d]: Textual amendment: [Reg. 5(a)(iii)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/5/a/iii) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/4/b)
 
-[^key-3a50028523350c5b6831aa4e9a15bf7d]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2005/3595/regulation/8) heading substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/474/regulation/5)
+[^c-3a50028523350c5b6831aa4e9a15bf7d]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2005/3595/regulation/8) heading substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/474/regulation/5)
 
 [^c12433451]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
-[^key-b531da8db3e364a5b206f6be7ee97eb1]: Textual amendment: [Reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/8/1/d) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/474/regulation/6)
+[^c-b531da8db3e364a5b206f6be7ee97eb1]: Textual amendment: [Reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/8/1/d) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/474/regulation/6)
 
 [^c12433461]: Marginal citation: [1991 c. 40](https://www.legislation.gov.uk/ukpga/1991/40).
 
-[^key-936a0456cb8c5920ed6dcf3ac92c395d]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2005/3595/regulation/9A) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/474/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/uksi/2009/474/regulation/17))
+[^c-936a0456cb8c5920ed6dcf3ac92c395d]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2005/3595/regulation/9A) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/474/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/uksi/2009/474/regulation/17))
 
-[^key-250caf249ba12f94d1235cbc455deea3]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/1) renumbered as reg. 10(1) (26.7.2026) by [The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/697)](https://www.legislation.gov.uk/uksi/2026/697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/697/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/697/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/697/regulation/3))
+[^c-250caf249ba12f94d1235cbc455deea3]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/1) renumbered as reg. 10(1) (26.7.2026) by [The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/697)](https://www.legislation.gov.uk/uksi/2026/697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/697/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/697/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/697/regulation/3))
 
-[^key-22d13d7581cc8bab3ea4fe570b92cc25]: Textual amendment: [Reg. 10(1)(aa)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/1/aa) inserted (26.7.2026) by [The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/697)](https://www.legislation.gov.uk/uksi/2026/697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/697/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/697/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/697/regulation/3))
+[^c-22d13d7581cc8bab3ea4fe570b92cc25]: Textual amendment: [Reg. 10(1)(aa)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/1/aa) inserted (26.7.2026) by [The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/697)](https://www.legislation.gov.uk/uksi/2026/697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/697/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/697/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/697/regulation/3))
 
-[^key-54fcd4e96c63297bf82ae6c42527194f]: Textual amendment: [Reg. 10(i)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/i) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/474/regulation/8)
+[^c-54fcd4e96c63297bf82ae6c42527194f]: Textual amendment: [Reg. 10(i)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/i) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/474/regulation/8)
 
-[^key-55a4f5020359c188c4c900a7994372a2]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/2) inserted (26.7.2026) by [The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/697)](https://www.legislation.gov.uk/uksi/2026/697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/697/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/697/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/697/regulation/3))
+[^c-55a4f5020359c188c4c900a7994372a2]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/10/2) inserted (26.7.2026) by [The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/697)](https://www.legislation.gov.uk/uksi/2026/697), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/697/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/697/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/697/regulation/3))
 
-[^key-faee43e161c9c0dfa938c6985908deb6]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11) heading inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/474/regulation/9)
+[^c-faee43e161c9c0dfa938c6985908deb6]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11) heading inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/474/regulation/9)
 
-[^key-2d17af8c4b93db4bf4cfddb2bd9c5aab]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/1) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/a)
+[^c-2d17af8c4b93db4bf4cfddb2bd9c5aab]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/1) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/a)
 
-[^key-5323cf9d0809dc66fd3fb7f10796d9ee]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/2/a) substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/b/i)
+[^c-5323cf9d0809dc66fd3fb7f10796d9ee]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/2/a) substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/b/i)
 
-[^key-b3dc80ef963a77b983ebbd3f47a54793]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/2/c) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/b/ii)
+[^c-b3dc80ef963a77b983ebbd3f47a54793]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/2/c) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/b/ii)
 
-[^key-46ddd2c8b168df41fdaa0fd5c9818462]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/3) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/c)
+[^c-46ddd2c8b168df41fdaa0fd5c9818462]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/11/3) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2009/474/regulation/10/c)
 
-[^key-4d420d1ddc23b8e9aba9b814fee4c53b]: Textual amendment: Word in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/14/a) omitted (1.4.2009) by virtue of [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/11/a)
+[^c-4d420d1ddc23b8e9aba9b814fee4c53b]: Textual amendment: Word in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/14/a) omitted (1.4.2009) by virtue of [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/11/a)
 
-[^key-18b662f80d860bc98e0c7715c07ecee8]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/14/c) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/11/b)
+[^c-18b662f80d860bc98e0c7715c07ecee8]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/14/c) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/11/b)
 
-[^key-aa1c1668b9358847fd1741c8d161f43a]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/18/1) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [12](https://www.legislation.gov.uk/uksi/2009/474/regulation/12)
+[^c-aa1c1668b9358847fd1741c8d161f43a]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/18/1) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [12](https://www.legislation.gov.uk/uksi/2009/474/regulation/12)
 
-[^key-3b433cfbb15bbc5798955970dd62f40d]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/20/1/a) omitted (1.4.2009) by virtue of [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/13/a)
+[^c-3b433cfbb15bbc5798955970dd62f40d]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/20/1/a) omitted (1.4.2009) by virtue of [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2009/474/regulation/13/a)
 
-[^key-d0780b5d886547516481ab8d85e0beab]: Textual amendment: [Reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/20/1/c) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/13/b)
+[^c-d0780b5d886547516481ab8d85e0beab]: Textual amendment: [Reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/20/1/c) and word inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2009/474/regulation/13/b)
 
-[^key-1a6ee923edd3c2c0d0a5c3e27e2a89a7]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2005/3595/regulation/21) heading substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/474/regulation/14)
+[^c-1a6ee923edd3c2c0d0a5c3e27e2a89a7]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2005/3595/regulation/21) heading substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/474/regulation/14)
 
-[^key-8d5bb451294b9b904bed7582feef3fea]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/21/1) substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [15](https://www.legislation.gov.uk/uksi/2009/474/regulation/15)
+[^c-8d5bb451294b9b904bed7582feef3fea]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/21/1) substituted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [15](https://www.legislation.gov.uk/uksi/2009/474/regulation/15)
 
-[^key-7bb53befb40f1f5a6da336b4127e70a4]: Textual amendment: [Reg. 26(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/26/c) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [16](https://www.legislation.gov.uk/uksi/2009/474/regulation/16)
+[^c-7bb53befb40f1f5a6da336b4127e70a4]: Textual amendment: [Reg. 26(c)](https://www.legislation.gov.uk/uksi/2005/3595/regulation/26/c) inserted (1.4.2009) by [The Register of Judgments, Orders and Fines (Amendment) Regulations 2009 (S.I. 2009/474)](https://www.legislation.gov.uk/uksi/2009/474), [regs. 1](https://www.legislation.gov.uk/uksi/2009/474/regulation/1), [16](https://www.legislation.gov.uk/uksi/2009/474/regulation/16)

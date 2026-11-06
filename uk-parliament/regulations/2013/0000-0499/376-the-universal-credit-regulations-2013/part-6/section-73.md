@@ -29,7 +29,7 @@ summary: ''
 - (c) three monthly payments are multiplied by 4 and divided by 12; and
 - (d) annual payments are divided by 12.
 
-(2A)[^key-ef01a2a48b7a89da73f58ad8eb865b51] Where the period in respect of which unearned income is paid begins or ends during an assessment period the amount of unearned income for that assessment period is to be calculated as follows—
+(2A)[^c-ef01a2a48b7a89da73f58ad8eb865b51] Where the period in respect of which unearned income is paid begins or ends during an assessment period the amount of unearned income for that assessment period is to be calculated as follows—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/376)
 
@@ -44,4 +44,4 @@ where N is the number of days in respect of which unearned income is paid that f
 
 ## Annotations
 
-[^key-ef01a2a48b7a89da73f58ad8eb865b51]: Textual amendment: [Reg. 73(2A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/73/2A) inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-ef01a2a48b7a89da73f58ad8eb865b51]: Textual amendment: [Reg. 73(2A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/73/2A) inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))

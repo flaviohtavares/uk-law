@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 17AB. Generating stations using excluded capacity to generate electricity[^key-e8a7e6294985e17f66da7f7c939405f3]
+## 17AB. Generating stations using excluded capacity to generate electricity[^c-e8a7e6294985e17f66da7f7c939405f3]
 
 (1) This article applies to a generating station where excluded capacity forms all or part of the total installed capacity of the station.
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8a7e6294985e17f66da7f7c939405f3]: Textual amendment: Art. 17AB substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [5](https://www.legislation.gov.uk/ssi/2014/94/article/5) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-e8a7e6294985e17f66da7f7c939405f3]: Textual amendment: Art. 17AB substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [5](https://www.legislation.gov.uk/ssi/2014/94/article/5) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

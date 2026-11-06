@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Interpretation of Part 2[^key-31b9ad6befbcee02f74992732451616c]
+## 26. Interpretation of Part 2[^c-31b9ad6befbcee02f74992732451616c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - “**occupational pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993,
 - “**pensionable service**” has the meaning given by section 124(1) of the Pensions Act 1995,
 - “**pension credit right**” has the meaning given by section 124(1) of the Pensions Act 1995,
-- “prescribed” means—[^key-a48d760765985af01f3a6f627932afc1]
+- “prescribed” means—[^c-a48d760765985af01f3a6f627932afc1]
   - (a) in section 22(3), specified in, or determined in accordance with, an order made by the Secretary of State;
   - (b) elsewhere in this Part, specified in, or determined in accordance with, an order made by the Minister for the Civil Service or the Secretary of State,
 - “**qualifying accrued rights**”, in relation to qualifying members of the RMPP, has the meaning given by section 16,
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31b9ad6befbcee02f74992732451616c]: Commencement: S. 26 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-31b9ad6befbcee02f74992732451616c]: Commencement: S. 26 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-a48d760765985af01f3a6f627932afc1]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/26/1) substituted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2014/500/article/5/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-a48d760765985af01f3a6f627932afc1]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/26/1) substituted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2014/500/article/5/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 460. Revocation of the 1994 Regulations[^key-3161eb696de9f7e1d445fb44971c1655]
+## 460. Revocation of the 1994 Regulations[^c-3161eb696de9f7e1d445fb44971c1655]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies Regulations 1994 are revoked.
 
 ## Annotations
 
-[^key-3161eb696de9f7e1d445fb44971c1655]: Commencement: Art. 460 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3161eb696de9f7e1d445fb44971c1655]: Commencement: Art. 460 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20.4. Auditor’s statement[^key-132c2a7194812e9b1954d06dfe91800d]
+## 20.4. Auditor’s statement[^c-132c2a7194812e9b1954d06dfe91800d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-132c2a7194812e9b1954d06dfe91800d]: Commencement: Para. 20.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-132c2a7194812e9b1954d06dfe91800d]: Commencement: Para. 20.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

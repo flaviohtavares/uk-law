@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Restricted sale orders[^key-70d61703df333e74d9e048ae2f7f7609]
+## 28. Restricted sale orders[^c-70d61703df333e74d9e048ae2f7f7609]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70d61703df333e74d9e048ae2f7f7609]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2026/18/section/28) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-70d61703df333e74d9e048ae2f7f7609]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2026/18/section/28) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

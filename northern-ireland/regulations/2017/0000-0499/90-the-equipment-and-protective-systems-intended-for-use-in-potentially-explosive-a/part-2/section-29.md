@@ -26,7 +26,7 @@ summary: ''
   - (i) bears a CE marking where applicable;
   - (ii) is accompanied by the EU declaration of conformity or the attestation of conformity;
   - (iii) is accompanied by the required documents; and
-  - (iv) is accompanied by instructions and safety information in a language which can be easily understood by end-users in the relevant state[^key-b5dffca50138eda7063cd8a141f0c628] in which the product is to be made available on the market;
+  - (iv) is accompanied by instructions and safety information in a language which can be easily understood by end-users in the relevant state[^c-b5dffca50138eda7063cd8a141f0c628] in which the product is to be made available on the market;
 - (b) the manufacturer has complied with the requirements set out in regulation 11 (Labelling and packaging of products), regulation 12 (Labelling and packaging of products, other than components) and regulation 13 (Information identifying manufacturer); and
 - (c) the importer has complied with the requirements set out in regulation 21 (Information identifying importer).
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5dffca50138eda7063cd8a141f0c628]: Textual amendment: Words in [reg. 29(1)(a)(iv)](https://www.legislation.gov.uk/nisr/2017/90/regulation/29/1/a/iv) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2023/861/regulation/4/3)
+[^c-b5dffca50138eda7063cd8a141f0c628]: Textual amendment: Words in [reg. 29(1)(a)(iv)](https://www.legislation.gov.uk/nisr/2017/90/regulation/29/1/a/iv) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2023/861/regulation/4/3)

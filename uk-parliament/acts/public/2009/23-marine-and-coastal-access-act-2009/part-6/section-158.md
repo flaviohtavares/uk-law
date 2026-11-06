@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Byelaws: supplementary provision[^key-73bb03fc3701ab28426c13826cee19e9]
+## 158. Byelaws: supplementary provision[^c-73bb03fc3701ab28426c13826cee19e9]
 
 *Extent: E+W*
 
@@ -45,13 +45,13 @@ summary: ''
 - (a) a site of special scientific interest, within the meaning of Part 2 of the Wildlife and Countryside Act 1981 (c. 69);
 - (b) a national nature reserve declared in accordance with section 35 of that Act;
 - (c) a Ramsar site, within the meaning of section 37A of that Act;
-- (d) a European marine site, within the meaning of the Conservation of Habitats and Species Regulations 2017 ([^key-0873291d4fd5060a7fdb83ad8e30ecb3][S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) (see regulation 8) ;
+- (d) a European marine site, within the meaning of the Conservation of Habitats and Species Regulations 2017 ([^c-0873291d4fd5060a7fdb83ad8e30ecb3][S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) (see regulation 8) ;
 - (e) a marine conservation zone designated by an order under section 116.
 
 (7) In this section “**specified**” means specified in the byelaw.
 
 ## Annotations
 
-[^key-73bb03fc3701ab28426c13826cee19e9]: Commencement: S. 158 in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-73bb03fc3701ab28426c13826cee19e9]: Commencement: S. 158 in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
 
-[^key-0873291d4fd5060a7fdb83ad8e30ecb3]: Textual amendment: Words in s. 158(6)(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/8/3)
+[^c-0873291d4fd5060a7fdb83ad8e30ecb3]: Textual amendment: Words in s. 158(6)(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/8/3)

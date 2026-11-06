@@ -51,7 +51,7 @@ Coming into force
 
 The High Court of Justiciary makes this Act of Adjournal under the powers conferred by section 305 of the Criminal Procedure (Scotland) Act 1995[^f00001], and all other powers enabling it to do so.
 
-## 1. Citation and commencement etc.[^key-43f430af037ccba153f7a44d7cab4c06]
+## 1. Citation and commencement etc.[^c-43f430af037ccba153f7a44d7cab4c06]
 
 (1) This Act of Adjournal may be cited as the Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015.
 
@@ -59,7 +59,7 @@ The High Court of Justiciary makes this Act of Adjournal under the powers confer
 
 (3) A certified copy is to be inserted in the Books of Adjournal.
 
-## 2. Amendment of Chapter 19 of the Criminal Procedure Rules 1996[^key-0bb3afa33f1985996e9ffa99bc987b8f]
+## 2. Amendment of Chapter 19 of the Criminal Procedure Rules 1996[^c-0bb3afa33f1985996e9ffa99bc987b8f]
 
 (1) Chapter 19 (appeals from summary proceedings) of the Criminal Procedure Rules 1996[^f00002] is amended in accordance with this paragraph.
 
@@ -93,8 +93,8 @@ The High Court of Justiciary makes this Act of Adjournal under the powers confer
 >
 > (1) The solicitor for the appellant or the appellant, if unrepresented, must enter appearance—
 >
-> - (a) at the same time as lodging a stated case in accordance with section 179(9) of the Act of 1995[^key-73c41ea5880d9d45df3f85331d980962]; or
-> - (b) within 7 days after the Clerk of the Sheriff Appeal Court intimates that leave to appeal has been granted in accordance with section 187(9)(a) of the Act of 1995[^key-bbb441eb08a0c28f4bf9900ef5b4d363].
+> - (a) at the same time as lodging a stated case in accordance with section 179(9) of the Act of 1995[^c-73c41ea5880d9d45df3f85331d980962]; or
+> - (b) within 7 days after the Clerk of the Sheriff Appeal Court intimates that leave to appeal has been granted in accordance with section 187(9)(a) of the Act of 1995[^c-bbb441eb08a0c28f4bf9900ef5b4d363].
 >
 > (2) Appearance is entered by lodging Form 19.11–A with the Clerk of the Sheriff Appeal Court.
 >
@@ -224,7 +224,7 @@ The High Court of Justiciary makes this Act of Adjournal under the powers confer
   - (ii) for “Lord Justice-General” in each place where it occurs substitute “President of the Sheriff Appeal Court”;
   - (iii) for “Lord Justice-Clerk” in each place where it occurs substitute “Vice President of the Sheriff Appeal Court”.
 
-## 3. Amendment of the Criminal Procedure Rules 1996: appeals etc. from Sheriff Appeal Court[^key-d915ea94ca9348153ad2d64bc0e5cc0e]
+## 3. Amendment of the Criminal Procedure Rules 1996: appeals etc. from Sheriff Appeal Court[^c-d915ea94ca9348153ad2d64bc0e5cc0e]
 
 After Chapter 19C (risk assessment) of the Criminal Procedure Rules 1996[^f00011], insert—
 
@@ -357,7 +357,7 @@ After Chapter 19C (risk assessment) of the Criminal Procedure Rules 1996[^f00011
 >
 > **19E.4. Solicitor entering appearance etc.**
 >
-> (1) The solicitor for the appellant or the appellant, if unrepresented, must enter appearance within 7 days after the Clerk of Justiciary intimates that permission has been given in accordance with section 194ZF(2)(a) of the Act of 1995[^key-afb6cd0c48950722e943b9a94fa35dc0].
+> (1) The solicitor for the appellant or the appellant, if unrepresented, must enter appearance within 7 days after the Clerk of Justiciary intimates that permission has been given in accordance with section 194ZF(2)(a) of the Act of 1995[^c-afb6cd0c48950722e943b9a94fa35dc0].
 >
 > (2) Appearance is entered by lodging Form 19E.4–A with the Clerk of Justiciary.
 >
@@ -390,7 +390,7 @@ After Chapter 19C (risk assessment) of the Criminal Procedure Rules 1996[^f00011
 
 .
 
-## 4. Amendment of the Criminal Procedure Rules 1996: miscellaneous[^key-c11af93e4f0ff5c0baca9d0d47ebc82f]
+## 4. Amendment of the Criminal Procedure Rules 1996: miscellaneous[^c-c11af93e4f0ff5c0baca9d0d47ebc82f]
 
 (1) The Criminal Procedure Rules 1996 are amended in accordance with this paragraph.
 
@@ -477,7 +477,7 @@ After Chapter 19C (risk assessment) of the Criminal Procedure Rules 1996[^f00011
 - (a) for “High Court” substitute “Sheriff Appeal Court”;
 - (b) the heading becomes “Appeal to the Sheriff Appeal Court”.
 
-## 5. Amendment of the Appendix to the Criminal Procedure Rules 1996[^key-14c364788a33ba0495ab296eba941bf4]
+## 5. Amendment of the Appendix to the Criminal Procedure Rules 1996[^c-14c364788a33ba0495ab296eba941bf4]
 
 (1) The Appendix to the Criminal Procedure Rules 1996[^f00021] is amended in accordance with this paragraph.
 
@@ -542,7 +542,7 @@ After Chapter 19C (risk assessment) of the Criminal Procedure Rules 1996[^f00011
 (23) In Form 38 (form of application to High Court for transfer of rights of appeal of deceased person)[^f00036]—
 
 - (a) after “UNTO THE RIGHT HONOURABLE THE LORD JUSTICE GENERAL, LORD JUSTICE CLERK and LORDS COMMISSIONERS OF JUSTICIARY” insert “\[*or* UNTO THE HONOURABLE THE APPEAL SHERIFFS in the SHERIFF APPEAL COURT\]”;
-- (b) in paragraph 5[^key-58fd5d2528d9045e14d4d30d29d25ea4], after “the Crown Agent” insert “\[*or* the prosecutor\];
+- (b) in paragraph 5[^c-58fd5d2528d9045e14d4d30d29d25ea4], after “the Crown Agent” insert “\[*or* the prosecutor\];
 - (c) the title of the Form becomes “Form of application for transfer of rights of appeal of deceased person”.
 
 (24) In Form 51.4 (form of appeal under section 28E(11) of the Animal Health Act 1981, section 43(2) of the Animal Health and Welfare (Scotland) Act 2006 or section 49(2) of the Animal Welfare Act 2006)[^f00037], for “Clerk of Justiciary” substitute “Clerk of the Sheriff Appeal Court \[*or* Clerk of Justiciary\]”.
@@ -569,7 +569,7 @@ After Chapter 19C (risk assessment) of the Criminal Procedure Rules 1996[^f00011
 - (a) for “UNTO THE RIGHT HONOURABLE THE LORD JUSTICE GENERAL, LORD JUSTICE-CLERK AND LORDS COMMISSIONERS OF JUSTICIARY” substitute “UNTO THE HONOURABLE THE APPEAL SHERIFFS in the SHERIFF APPEAL COURT”;
 - (b) in paragraph 1, for “the High Court \[*or* Sheriff\] \[*or* Justices\]” substitute “the Sheriff \[*or* Justices\]”.
 
-## 6. Saving[^key-1a3578733e917bf4bd744477950a589b]
+## 6. Saving[^c-1a3578733e917bf4bd744477950a589b]
 
 (1) The following provisions do not apply to appeals from summary criminal proceedings made to the High Court of Justiciary before 22nd September 2015—
 
@@ -596,7 +596,7 @@ Edinburgh
 
 4th June 2015
 
-## SCHEDULE[^key-b9559139e51e916ddc08ebc0e04b0c80]
+## SCHEDULE[^c-b9559139e51e916ddc08ebc0e04b0c80]
 
 Paragraph 5(16), (17), (18) and (20)
 
@@ -624,7 +624,7 @@ Form 19E.1–B
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/245/images/ssi_20150245_en_007)
 
-[^key-a1c513281fc0e1d5b1e265e394314c90]Form 19E.2
+[^c-a1c513281fc0e1d5b1e265e394314c90]Form 19E.2
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/245/images/ssi_20150245_en_008)
 
@@ -664,9 +664,9 @@ Paragraph 6 makes saving provisions so that the Rules as they applied immediatel
 
 [^f00001]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-43f430af037ccba153f7a44d7cab4c06]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-43f430af037ccba153f7a44d7cab4c06]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
-[^key-0bb3afa33f1985996e9ffa99bc987b8f]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2015/245/paragraph/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-0bb3afa33f1985996e9ffa99bc987b8f]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2015/245/paragraph/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
 [^f00002]: Footnote: The Criminal Procedure Rules 1996 are in Schedule 2 to the Act of Adjournal (Criminal Procedure Rules) 1996 ([S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513), last amended by [S.S.I. 2015/201](https://www.legislation.gov.uk/ssi/2015/201)). Chapter 19 was last amended by [S.S.I. 2012/187](https://www.legislation.gov.uk/ssi/2012/187).
 
@@ -674,9 +674,9 @@ Paragraph 6 makes saving provisions so that the Rules as they applied immediatel
 
 [^f00004]: Footnote: Rule 19.10A was inserted by [S.I. 1997/1834](https://www.legislation.gov.uk/uksi/1997/1834).
 
-[^key-73c41ea5880d9d45df3f85331d980962]: Textual amendment: Words in [para. 2(9)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/2/9) inserted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(2)(a)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/2/a)
+[^c-73c41ea5880d9d45df3f85331d980962]: Textual amendment: Words in [para. 2(9)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/2/9) inserted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(2)(a)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/2/a)
 
-[^key-bbb441eb08a0c28f4bf9900ef5b4d363]: Textual amendment: Words in [para. 2(9)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/2/9) inserted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(2)(b)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/2/b)
+[^c-bbb441eb08a0c28f4bf9900ef5b4d363]: Textual amendment: Words in [para. 2(9)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/2/9) inserted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(2)(b)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/2/b)
 
 [^f00005]: Footnote: Rule 19.12 was amended by [S.S.I. 2004/346](https://www.legislation.gov.uk/ssi/2004/346).
 
@@ -690,13 +690,13 @@ Paragraph 6 makes saving provisions so that the Rules as they applied immediatel
 
 [^f00010]: Footnote: Rule 19.19 was inserted by [S.S.I. 2003/387](https://www.legislation.gov.uk/ssi/2003/387) and last amended by [S.S.I. 2012/187](https://www.legislation.gov.uk/ssi/2012/187).
 
-[^key-d915ea94ca9348153ad2d64bc0e5cc0e]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2015/245/paragraph/3) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-d915ea94ca9348153ad2d64bc0e5cc0e]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2015/245/paragraph/3) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
 [^f00011]: Footnote: The Criminal Procedure Rules 1996 are in Schedule 2 to the Act of Adjournal (Criminal Procedure Rules) 1996 ([S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513), last amended by [S.S.I. 2015/201](https://www.legislation.gov.uk/ssi/2015/201)). Chapter 19C was inserted by [S.S.I. 2006/302](https://www.legislation.gov.uk/ssi/2006/302).
 
-[^key-afb6cd0c48950722e943b9a94fa35dc0]: Textual amendment: Words in [para. 3](https://www.legislation.gov.uk/ssi/2015/245/paragraph/3) inserted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/3)
+[^c-afb6cd0c48950722e943b9a94fa35dc0]: Textual amendment: Words in [para. 3](https://www.legislation.gov.uk/ssi/2015/245/paragraph/3) inserted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/3)
 
-[^key-c11af93e4f0ff5c0baca9d0d47ebc82f]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2015/245/paragraph/4) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-c11af93e4f0ff5c0baca9d0d47ebc82f]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2015/245/paragraph/4) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
 [^f00012]: Footnote: Section 32(11) was inserted by section 122(8) of the Courts Reform (Scotland) Act [2013 (asp 18)](https://www.legislation.gov.uk/asp/2013/18).
 
@@ -716,7 +716,7 @@ Paragraph 6 makes saving provisions so that the Rules as they applied immediatel
 
 [^f00020]: Footnote: Rule 58.3 was inserted by [S.S.I. 2011/194](https://www.legislation.gov.uk/ssi/2011/194).
 
-[^key-14c364788a33ba0495ab296eba941bf4]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2015/245/paragraph/5) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-14c364788a33ba0495ab296eba941bf4]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2015/245/paragraph/5) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
 [^f00021]: Footnote: The Criminal Procedure Rules 1996 are in Schedule 2 to the Act of Adjournal (Criminal Procedure Rules) 1996 ([S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513), last amended by [S.S.I. 2015/201](https://www.legislation.gov.uk/ssi/2015/201)). The Appendix was last amended by [S.S.I. 2015/201](https://www.legislation.gov.uk/ssi/2015/201).
 
@@ -750,7 +750,7 @@ Paragraph 6 makes saving provisions so that the Rules as they applied immediatel
 
 [^f00036]: Footnote: Form 38 was inserted by [S.I. 1997/1834](https://www.legislation.gov.uk/uksi/1997/1834).
 
-[^key-58fd5d2528d9045e14d4d30d29d25ea4]: Textual amendment: Words in [para. 5(23)(b)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/5/23/b) substituted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(4)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/4)
+[^c-58fd5d2528d9045e14d4d30d29d25ea4]: Textual amendment: Words in [para. 5(23)(b)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/5/23/b) substituted (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(4)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/4)
 
 [^f00037]: Footnote: Form 51.4 was inserted by [S.S.I. 2007/238](https://www.legislation.gov.uk/ssi/2007/238) and amended by [S.S.I. 2008/61](https://www.legislation.gov.uk/ssi/2008/61).
 
@@ -762,8 +762,8 @@ Paragraph 6 makes saving provisions so that the Rules as they applied immediatel
 
 [^f00041]: Footnote: Form 58.3 was inserted by [S.S.I. 2011/194](https://www.legislation.gov.uk/ssi/2011/194).
 
-[^key-1a3578733e917bf4bd744477950a589b]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2015/245/paragraph/6) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-1a3578733e917bf4bd744477950a589b]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2015/245/paragraph/6) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
-[^key-b9559139e51e916ddc08ebc0e04b0c80]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/245/schedule) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
+[^c-b9559139e51e916ddc08ebc0e04b0c80]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/245/schedule) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/245/paragraph/1/2)
 
-[^key-a1c513281fc0e1d5b1e265e394314c90]: Textual amendment: Sch. Form 19E.2: the word “19E.2(5)” substituted for “19E.2(4)” in each place it occurs (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(5)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/5)
+[^c-a1c513281fc0e1d5b1e265e394314c90]: Textual amendment: Sch. Form 19E.2: the word “19E.2(5)” substituted for “19E.2(4)” in each place it occurs (1.9.2015) by [Act of Adjournal (Criminal Procedure Rules 1996 and Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (No. 4) (Sheriff Appeal Court) 2015 Amendment) (Miscellaneous) 2015 (S.S.I. 2015/295)](https://www.legislation.gov.uk/ssi/2015/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/1/2), [6(5)](https://www.legislation.gov.uk/ssi/2015/295/paragraph/6/5)

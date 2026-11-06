@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Adoption by one person[^key-85256fd7afb49c20a60ae0f3d62cc6e7][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-53ba17b1255684f8ccbd096c6ad94632][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 30. Adoption by one person[^c-85256fd7afb49c20a60ae0f3d62cc6e7][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-53ba17b1255684f8ccbd096c6ad94632][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -64,10 +64,10 @@ summary: ''
 
 - (a) the other natural parent is dead,
 - (b) the other natural parent cannot be found,
-- (c)[^key-d87773e991ef262ac7a892d3546e5773] by virtue of the provisions specified in subsection (7A), there is no other parent, or
+- (c)[^c-d87773e991ef262ac7a892d3546e5773] by virtue of the provisions specified in subsection (7A), there is no other parent, or
 - (d) the exclusion of the other natural parent from the application for adoption is justified on some other ground.
 
-(7A)[^key-e64a9e4f49cd0c97ad7854ef3dfef8ac] The provisions referred to in subsection (7)(c) are—
+(7A)[^c-e64a9e4f49cd0c97ad7854ef3dfef8ac] The provisions referred to in subsection (7)(c) are—
 
 - (a) section 28 of the Human Fertilisation and Embryology Act 1990 (disregarding subsections (5A) to (5I) of that section), or
 - (b) sections 34 to 47 of the Human Fertilisation and Embryology Act 2008 (disregarding sections 39, 40 and 46 of that Act).
@@ -76,12 +76,12 @@ summary: ''
 
 ## Annotations
 
-[^key-85256fd7afb49c20a60ae0f3d62cc6e7]: Commencement: S. 30 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-85256fd7afb49c20a60ae0f3d62cc6e7]: Commencement: S. 30 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-53ba17b1255684f8ccbd096c6ad94632]: Modification: S. 30 applied (with modifications) (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/2/c)
+[^c-53ba17b1255684f8ccbd096c6ad94632]: Modification: S. 30 applied (with modifications) (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/2/c)
 
-[^key-d87773e991ef262ac7a892d3546e5773]: Textual amendment: S. 30(7)(c) substituted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 56(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/56/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)[(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-d87773e991ef262ac7a892d3546e5773]: Textual amendment: S. 30(7)(c) substituted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 56(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/56/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)[(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-e64a9e4f49cd0c97ad7854ef3dfef8ac]: Textual amendment: S. 30(7A) inserted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 56(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/56/3); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)[(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-e64a9e4f49cd0c97ad7854ef3dfef8ac]: Textual amendment: S. 30(7A) inserted (6.4.2009 for specified purposes, 1.9.2009 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 56(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/56/3); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)[(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))

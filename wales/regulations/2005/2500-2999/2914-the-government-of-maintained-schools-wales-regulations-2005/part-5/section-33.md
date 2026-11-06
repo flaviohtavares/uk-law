@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Contents and form of instrument of government[^key-ebd16f8399b6071412d6f1ab107a7d40][^key-9d9da62c4364c8210344b84d314b3b90]
+## 33. Contents and form of instrument of government[^c-ebd16f8399b6071412d6f1ab107a7d40][^c-9d9da62c4364c8210344b84d314b3b90]
 
 *Extent: E+W*
 
@@ -45,14 +45,14 @@ summary: ''
 
 (4) The instrument of government must (subject to any statutory provision) comply with any trust relating to the school.
 
-(5)[^key-c5c0d62ccd71a0c91ecabb97c04d74ac] Sub-paragraphs (d) and (e) of paragraph (1) do not apply to associate pupil governors.
+(5)[^c-c5c0d62ccd71a0c91ecabb97c04d74ac] Sub-paragraphs (d) and (e) of paragraph (1) do not apply to associate pupil governors.
 
 ## Annotations
 
-[^key-ebd16f8399b6071412d6f1ab107a7d40]: Commencement: Reg. 33 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-ebd16f8399b6071412d6f1ab107a7d40]: Commencement: Reg. 33 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-9d9da62c4364c8210344b84d314b3b90]: Modification: [Reg. 33](https://www.legislation.gov.uk/wsi/2005/2914/regulation/33) modified (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [81(4)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/81/4/a)
+[^c-9d9da62c4364c8210344b84d314b3b90]: Modification: [Reg. 33](https://www.legislation.gov.uk/wsi/2005/2914/regulation/33) modified (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [81(4)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/81/4/a)
 
 [^M_F_2c27dddb-2d77-4447-e4eb-980bfcd4ebc1]: Textual amendment: Words in [reg. 33(1)(d)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/33/1/d) inserted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/uksi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3200/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2005/3200/regulation/8/6)
 
-[^key-c5c0d62ccd71a0c91ecabb97c04d74ac]: Textual amendment: [Reg. 33(5)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/33/5) added (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(7)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/7)
+[^c-c5c0d62ccd71a0c91ecabb97c04d74ac]: Textual amendment: [Reg. 33(5)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/33/5) added (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(7)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/7)

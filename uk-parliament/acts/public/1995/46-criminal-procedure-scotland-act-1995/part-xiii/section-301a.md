@@ -39,9 +39,9 @@ summary: ''
 - (a) in connection with solemn proceedings, until the indictment has been served on the accused or the accused has been cited under section 66(4)(b) of this Act;
 - (b) in connection with summary proceedings, until the accused has answered the complaint.
 
-(5) A decision of the sheriff on an application for an order under subsection (1) above may be appealed to the appropriate Appeal Court[^key-e105bca7aaeb90964259a07c337e3f1e].
+(5) A decision of the sheriff on an application for an order under subsection (1) above may be appealed to the appropriate Appeal Court[^c-e105bca7aaeb90964259a07c337e3f1e].
 
-(6) In an appeal under subsection (5) above, the appropriate Appeal Court[^key-cd975eae25a488516b5094386199aa64] may uphold, vary or quash the decision of the sheriff.
+(6) In an appeal under subsection (5) above, the appropriate Appeal Court[^c-cd975eae25a488516b5094386199aa64] may uphold, vary or quash the decision of the sheriff.
 
 (7) The prosecutor is entitled to be heard in any—
 
@@ -52,7 +52,7 @@ even if the prosecutor is not a party to the application or (as the case may be)
 
 (8) The competence of the High Court to make, in connection with criminal proceedings, the orders mentioned in subsection (3) above is restricted to making them in connection with proceedings in that court.
 
-(9)[^key-d954774cc0994e59f77a1e7407bcb49b] In this section, “appropriate Appeal Court” means—
+(9)[^c-d954774cc0994e59f77a1e7407bcb49b] In this section, “appropriate Appeal Court” means—
 
 - (a) in the case of an appeal under subsection (5) against a decision made in solemn proceedings, the High Court;
 - (b) in the case of an appeal under subsection (5) against a decision made in summary proceedings, the Sheriff Appeal Court.
@@ -63,8 +63,8 @@ even if the prosecutor is not a party to the application or (as the case may be)
 
 [^c19856811]: Modification: S. 301A(2)(b)(ii) applied (10.12.2007) by [The District Courts and Justices of the Peace (Scotland) Order 2007 (S.S.I. 2007/480)](https://www.legislation.gov.uk/ssi/2007/480), [art. 4(1)(d)](https://www.legislation.gov.uk/ssi/2007/480/article/4/1/d)
 
-[^key-e105bca7aaeb90964259a07c337e3f1e]: Textual amendment: Words in s. 301A(5) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(20)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/20/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-e105bca7aaeb90964259a07c337e3f1e]: Textual amendment: Words in s. 301A(5) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(20)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/20/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-cd975eae25a488516b5094386199aa64]: Textual amendment: Words in s. 301A(6) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(20)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/20/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-cd975eae25a488516b5094386199aa64]: Textual amendment: Words in s. 301A(6) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(20)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/20/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-d954774cc0994e59f77a1e7407bcb49b]: Textual amendment: S. 301A(9) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(20)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/20/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-d954774cc0994e59f77a1e7407bcb49b]: Textual amendment: S. 301A(9) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(20)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/20/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

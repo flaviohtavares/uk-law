@@ -46,10 +46,10 @@ summary: ''
 (9) In this section—
 
 - “**insolvency administration order**” has the same meaning as in any order under section 421 having effect for the time being,
-- “**value lost to the estate**” means the amount which, if paid to the trustee, would in the court’s opinion restore the position to what it would have been if the deceased had been made[^key-35be02414d28b9ab31a9fc7526570062] bankrupt immediately before his death.
+- “**value lost to the estate**” means the amount which, if paid to the trustee, would in the court’s opinion restore the position to what it would have been if the deceased had been made[^c-35be02414d28b9ab31a9fc7526570062] bankrupt immediately before his death.
 
 ## Annotations
 
 [^c15584641]: Textual amendment: S. 421A inserted (2.4.2001) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 12(1)](https://www.legislation.gov.uk/ukpga/2000/39/section/12/1); [S.I. 2001/766](https://www.legislation.gov.uk/uksi/2001/766), [art. 2](https://www.legislation.gov.uk/uksi/2001/766/article/2) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/766/article/3))
 
-[^key-35be02414d28b9ab31a9fc7526570062]: Textual amendment: Word in s. 421A(9) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 60](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/60); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-35be02414d28b9ab31a9fc7526570062]: Textual amendment: Word in s. 421A(9) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 60](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/60); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

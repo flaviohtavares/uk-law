@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (revoked)[^key-1a66a1b225a7339a600845ea671fb847]
+The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (revoked)[^c-1a66a1b225a7339a600845ea671fb847]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 1st August 2006
 
-[^key-1a66a1b225a7339a600845ea671fb847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a66a1b225a7339a600845ea671fb847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTORY PROVISIONS[^key-1a66a1b225a7339a600845ea671fb847]
+### PART I — INTRODUCTORY PROVISIONS[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -60,7 +60,7 @@ Coming into force
 - [Section 7 — Exemptions](part-i/section-7.md)
 - [Section 8 — Competent authority](part-i/section-8.md)
 
-### PART II — REQUIREMENTS OF ADR AND RID[^key-1a66a1b225a7339a600845ea671fb847]
+### PART II — REQUIREMENTS OF ADR AND RID[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -85,7 +85,7 @@ Coming into force
 - [Section 24 — Vehicle crews, equipment, operation and documentation](part-ii/section-24.md)
 - [Section 25 — Construction and approval of vehicles](part-ii/section-25.md)
 
-### PART III — COMPETENT AUTHORITY FUNCTIONS[^key-1a66a1b225a7339a600845ea671fb847]
+### PART III — COMPETENT AUTHORITY FUNCTIONS[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -103,7 +103,7 @@ Coming into force
 - [Section 35 — Miscellaneous functions of the Northern Ireland competent authority](part-iii/section-35.md)
 - [Section 36 — Exemption certificates, temporary and ad hoc exemptions](part-iii/section-36.md)
 
-### PART IV — TRANSPORTABLE PRESSURE EQUIPMENT[^key-1a66a1b225a7339a600845ea671fb847]
+### PART IV — TRANSPORTABLE PRESSURE EQUIPMENT[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -119,7 +119,7 @@ Coming into force
 - [Section 44 — Appointment of notified bodies and approved bodies by the Northern Ireland competent authority](part-iv/section-44.md)
 - [Section 45 — Conformity marking](part-iv/section-45.md)
 
-### PART V — ADDITIONAL REQUIREMENTS TO ADR AND RID[^key-1a66a1b225a7339a600845ea671fb847]
+### PART V — ADDITIONAL REQUIREMENTS TO ADR AND RID[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -130,7 +130,7 @@ Coming into force
 - [Section 48 — Keeping of information by carriers](part-v/section-48.md)
 - [Section 49 — Placards, marks and plate markings for carriage within Northern Ireland](part-v/section-49.md)
 
-### PART VI — MISCELLANEOUS[^key-1a66a1b225a7339a600845ea671fb847]
+### PART VI — MISCELLANEOUS[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -164,14 +164,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-1a66a1b225a7339a600845ea671fb847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a66a1b225a7339a600845ea671fb847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a66a1b225a7339a600845ea671fb847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a66a1b225a7339a600845ea671fb847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a66a1b225a7339a600845ea671fb847]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/173) revoked (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [31](https://www.legislation.gov.uk/nisr/2010/160/regulation/31), [Sch. 6](https://www.legislation.gov.uk/nisr/2010/160/schedule/6)
+[^c-1a66a1b225a7339a600845ea671fb847]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/173) revoked (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [31](https://www.legislation.gov.uk/nisr/2010/160/regulation/31), [Sch. 6](https://www.legislation.gov.uk/nisr/2010/160/schedule/6)

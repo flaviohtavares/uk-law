@@ -30,8 +30,8 @@ summary: ''
 - (d) for the publication by any person so specified of any information or advice so specified;
 - (e) for the classification and protection of confidential or sensitive information.
 
-(3)[^key-8dae9af3bbc009639bd2884b0d6b4941] The prohibition on disclosure of information by section 105(1) of the Utilities Act 2000 does not apply to a disclosure required by virtue of this section.
+(3)[^c-8dae9af3bbc009639bd2884b0d6b4941] The prohibition on disclosure of information by section 105(1) of the Utilities Act 2000 does not apply to a disclosure required by virtue of this section.
 
 ## Annotations
 
-[^key-8dae9af3bbc009639bd2884b0d6b4941]: Modification: [S. 33(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/33/3) applied (1.8.2014) by [The Electricity Capacity Regulations 2014 (S.I. 2014/2043)](https://www.legislation.gov.uk/uksi/2014/2043), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/1/2), [66](https://www.legislation.gov.uk/uksi/2014/2043/regulation/66)
+[^c-8dae9af3bbc009639bd2884b0d6b4941]: Modification: [S. 33(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/33/3) applied (1.8.2014) by [The Electricity Capacity Regulations 2014 (S.I. 2014/2043)](https://www.legislation.gov.uk/uksi/2014/2043), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/1/2), [66](https://www.legislation.gov.uk/uksi/2014/2043/regulation/66)

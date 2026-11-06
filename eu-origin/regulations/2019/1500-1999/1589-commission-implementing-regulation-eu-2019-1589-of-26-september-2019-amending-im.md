@@ -35,18 +35,18 @@ amending Implementing Regulation (EU) No 540/2011 as regards the extension of th
 
 (Text with EEA relevance) (revoked)
 
-[^key-42d35a9d72809638db473edf8d6de913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d35a9d72809638db473edf8d6de913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-42d35a9d72809638db473edf8d6de913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-42d35a9d72809638db473edf8d6de913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-42d35a9d72809638db473edf8d6de913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-42d35a9d72809638db473edf8d6de913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42d35a9d72809638db473edf8d6de913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d35a9d72809638db473edf8d6de913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-42d35a9d72809638db473edf8d6de913]
+## ANNEX[^c-42d35a9d72809638db473edf8d6de913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42d35a9d72809638db473edf8d6de913]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/15)
+[^c-42d35a9d72809638db473edf8d6de913]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/15)

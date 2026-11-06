@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. OGA’s power to require information about change in control of licence holder[^key-50c308fdbb2ec48a45775bc8ad021f38]
+## 29A. OGA’s power to require information about change in control of licence holder[^c-50c308fdbb2ec48a45775bc8ad021f38]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50c308fdbb2ec48a45775bc8ad021f38]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/2008/32/section/29A) and cross-heading inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 106](https://www.legislation.gov.uk/ukpga/2023/52/section/106), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/iv)
+[^c-50c308fdbb2ec48a45775bc8ad021f38]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/2008/32/section/29A) and cross-heading inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 106](https://www.legislation.gov.uk/ukpga/2023/52/section/106), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/iv)

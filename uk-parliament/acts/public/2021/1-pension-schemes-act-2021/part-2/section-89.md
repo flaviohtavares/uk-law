@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Continuity option 3: conversion to closed scheme[^c24481141][^key-69529db0a2725c114db173bc1353d78a]
+## 89. Continuity option 3: conversion to closed scheme[^c24481141][^c-69529db0a2725c114db173bc1353d78a]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ The reference to closure of the scheme in subsection (7) is to be read according
 
 [^c24481141]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/1/section/89) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-69529db0a2725c114db173bc1353d78a]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/1/section/89) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-69529db0a2725c114db173bc1353d78a]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/1/section/89) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

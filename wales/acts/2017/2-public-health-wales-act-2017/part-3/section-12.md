@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Public playgrounds[^key-d00bcebd84fdf407d21bf61002e31484]
+## 12. Public playgrounds[^c-d00bcebd84fdf407d21bf61002e31484]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d00bcebd84fdf407d21bf61002e31484]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2017/2/section/12) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-d00bcebd84fdf407d21bf61002e31484]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2017/2/section/12) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

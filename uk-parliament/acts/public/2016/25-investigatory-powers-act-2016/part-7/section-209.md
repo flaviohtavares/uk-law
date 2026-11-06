@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Approval of specific BPD warrants issued in urgent cases[^key-bf666b3d5bcb954b31410937aa0fe3bf]
+## 209. Approval of specific BPD warrants issued in urgent cases[^c-bf666b3d5bcb954b31410937aa0fe3bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and section 208(4) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-bf666b3d5bcb954b31410937aa0fe3bf]: Commencement: S. 209 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-bf666b3d5bcb954b31410937aa0fe3bf]: Commencement: S. 209 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

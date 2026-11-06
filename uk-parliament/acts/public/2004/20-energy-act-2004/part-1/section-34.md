@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of Schedule 12 to the 1989 Act[^key-4a49bceaf332b5497fff1c836cac23a1]
+## 34. Amendment of Schedule 12 to the 1989 Act[^c-4a49bceaf332b5497fff1c836cac23a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a49bceaf332b5497fff1c836cac23a1]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/20/section/34) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4a49bceaf332b5497fff1c836cac23a1]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/20/section/34) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

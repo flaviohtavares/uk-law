@@ -26,7 +26,7 @@ Section 80
 
 *Extent: E+W*
 
-**1.**[^key-5b0c1335c0469a0125836282c725ae19] After Schedule 1 to the Children and Young Persons Act 1933 insert—
+**1.**[^c-5b0c1335c0469a0125836282c725ae19] After Schedule 1 to the Children and Young Persons Act 1933 insert—
 
 > **SCHEDULE 1A — Prohibition on publication of certain matters: providers of information society services**
 >
@@ -146,7 +146,7 @@ Section 80
 
 ### Youth Justice and Criminal Evidence Act 1999 (c. 23)
 
-**2.**[^key-9e1582ef8ff4ac9e80e777dab705c9a8] After Schedule 2 to the Youth Justice and Criminal Evidence Act 1999 insert—
+**2.**[^c-9e1582ef8ff4ac9e80e777dab705c9a8] After Schedule 2 to the Youth Justice and Criminal Evidence Act 1999 insert—
 
 > **SCHEDULE 2A — Restriction of reporting of criminal proceedings for lifetime of witnesses and victims under 18: providers of information society services**
 >
@@ -276,6 +276,6 @@ Section 80
 
 ## Annotations
 
-[^key-5b0c1335c0469a0125836282c725ae19]: Commencement: Sch. 15 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/81) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/5))
+[^c-5b0c1335c0469a0125836282c725ae19]: Commencement: Sch. 15 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/81) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/5))
 
-[^key-9e1582ef8ff4ac9e80e777dab705c9a8]: Commencement: Sch. 15 para. 2 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/81)
+[^c-9e1582ef8ff4ac9e80e777dab705c9a8]: Commencement: Sch. 15 para. 2 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/81)

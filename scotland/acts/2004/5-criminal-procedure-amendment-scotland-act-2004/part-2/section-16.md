@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Uncontroversial evidence[^key-7edb0e1dbfee2611039abb3a2891de6e]
+## 16. Uncontroversial evidence[^c-7edb0e1dbfee2611039abb3a2891de6e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 258 (uncontroversial evidence) of the 1995 Act, after subsection (4) 
 
 ## Annotations
 
-[^key-7edb0e1dbfee2611039abb3a2891de6e]: Commencement: S. 16 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-7edb0e1dbfee2611039abb3a2891de6e]: Commencement: S. 16 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

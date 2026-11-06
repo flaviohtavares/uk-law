@@ -22,7 +22,7 @@ summary: ''
 
 Section 178
 
-### Part 1 — Coroners etc[^key-283fe5e21a8b328e0d8f097ee16f855d][^key-dd90230e04d7e31dd24fb722a17b4d5a][^key-4ef4d918f03df8c5db6d160f4d7ffc63]
+### Part 1 — Coroners etc[^c-283fe5e21a8b328e0d8f097ee16f855d][^c-dd90230e04d7e31dd24fb722a17b4d5a][^c-4ef4d918f03df8c5db6d160f4d7ffc63]
 
 <table>
 <tbody>
@@ -60,7 +60,7 @@ Section 178
 </tbody>
 </table>
 
-### Part 2 — Criminal offences[^key-b938f15bc18ff3a1f8b6d9d2a35a18f6][^key-64083c68f951988ecedbca17bc128532][^key-0e7e3d8e3c5bec03bb43c37a502056d2][^c20103651]
+### Part 2 — Criminal offences[^c-b938f15bc18ff3a1f8b6d9d2a35a18f6][^c-64083c68f951988ecedbca17bc128532][^c-0e7e3d8e3c5bec03bb43c37a502056d2][^c20103651]
 
 <table>
 <tfoot>
@@ -88,7 +88,7 @@ Section 178
 </tbody>
 </table>
 
-### Part 3 — Criminal evidence and procedure[^key-6aebde9536d03641798826ec8d986028][^key-6558cc37d0999bc910fd08f3924ade53][^key-fc338fdb7bf2ed9d38b1c8f1a8d236b4][^key-5cd8f2167aa5b647ebcdd27da8ee3bd2][^c20103661]
+### Part 3 — Criminal evidence and procedure[^c-6aebde9536d03641798826ec8d986028][^c-6558cc37d0999bc910fd08f3924ade53][^c-fc338fdb7bf2ed9d38b1c8f1a8d236b4][^c-5cd8f2167aa5b647ebcdd27da8ee3bd2][^c20103661]
 
 <table>
 <tbody>
@@ -113,7 +113,7 @@ Section 178
 </tbody>
 </table>
 
-### Part 4 — Sentencing[^key-89a260a6cba2b70dc33e97880badca52][^c20103671]
+### Part 4 — Sentencing[^c-89a260a6cba2b70dc33e97880badca52][^c20103671]
 
 <table>
 <tbody>
@@ -131,7 +131,7 @@ Section 178
 </tbody>
 </table>
 
-### Part 5 — Miscellaneous criminal justice provisions[^key-5a647fc5d97f973e89da5425be19d86d][^key-ab821621e72b6c200feaadd65f1f8348][^key-a1b366c6c36a06cd6e6a4cac4ee63f58][^c20103681]
+### Part 5 — Miscellaneous criminal justice provisions[^c-5a647fc5d97f973e89da5425be19d86d][^c-ab821621e72b6c200feaadd65f1f8348][^c-a1b366c6c36a06cd6e6a4cac4ee63f58][^c20103681]
 
 <table>
 <tbody>
@@ -158,9 +158,9 @@ Section 178
 </tbody>
 </table>
 
-[^key-996c8f58f124b11a09482a0d75f12f09]
+[^c-996c8f58f124b11a09482a0d75f12f09]
 
-### Part 6 — Legal aid[^key-c48bb399b17cee9aa4dde9dba3087df5][^c20103691]
+### Part 6 — Legal aid[^c-c48bb399b17cee9aa4dde9dba3087df5][^c20103691]
 
 <table>
 <tbody>
@@ -173,13 +173,13 @@ Section 178
 </tbody>
 </table>
 
-### Part 7 — Criminal memoirs etc[^key-76920a2300c64fef9d86154f0e984ed9]
+### Part 7 — Criminal memoirs etc[^c-76920a2300c64fef9d86154f0e984ed9]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Serious Organised Crime and Police Act 2005 (c. 15) | In section 3(1), the “or” following paragraph (a). |
 
-### Part 8 — Data Protection Act 1998[^key-70253cc5e68bcceaecb4e46a19c48025]
+### Part 8 — Data Protection Act 1998[^c-70253cc5e68bcceaecb4e46a19c48025]
 
 <table>
 <tbody>
@@ -199,48 +199,48 @@ Section 178
 
 ## Annotations
 
-[^key-283fe5e21a8b328e0d8f097ee16f855d]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) in force at 12.2.2013 for specified purposes by [S.I. 2013/250](https://www.legislation.gov.uk/uksi/2013/250), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/250/article/2/b)
+[^c-283fe5e21a8b328e0d8f097ee16f855d]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) in force at 12.2.2013 for specified purposes by [S.I. 2013/250](https://www.legislation.gov.uk/uksi/2013/250), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/250/article/2/b)
 
-[^key-dd90230e04d7e31dd24fb722a17b4d5a]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) in force at 25.7.2013 for specified purposes by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(p)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/p) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/1869/article/3))
+[^c-dd90230e04d7e31dd24fb722a17b4d5a]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) in force at 25.7.2013 for specified purposes by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(p)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/p) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/1869/article/3))
 
-[^key-4ef4d918f03df8c5db6d160f4d7ffc63]: Modification: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) modified (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/2/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-4ef4d918f03df8c5db6d160f4d7ffc63]: Modification: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/1) modified (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/2/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
-[^key-b938f15bc18ff3a1f8b6d9d2a35a18f6]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/27/a) (as amended (29.1.2010) by [S.I. 2010/186](https://www.legislation.gov.uk/uksi/2010/186), art. 2)
+[^c-b938f15bc18ff3a1f8b6d9d2a35a18f6]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/27/a) (as amended (29.1.2010) by [S.I. 2010/186](https://www.legislation.gov.uk/uksi/2010/186), art. 2)
 
-[^key-64083c68f951988ecedbca17bc128532]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 4.10.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(g)](https://www.legislation.gov.uk/uksi/2010/816/article/5/g) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7)) (as amended (11.3.2011) by [S.I. 2011/722](https://www.legislation.gov.uk/uksi/2011/722), art. 2)
+[^c-64083c68f951988ecedbca17bc128532]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 4.10.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(g)](https://www.legislation.gov.uk/uksi/2010/816/article/5/g) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7)) (as amended (11.3.2011) by [S.I. 2011/722](https://www.legislation.gov.uk/uksi/2011/722), art. 2)
 
-[^key-0e7e3d8e3c5bec03bb43c37a502056d2]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 1.6.2011 for specified purposes for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(g)](https://www.legislation.gov.uk/nisr/2011/182/article/3/g)
+[^c-0e7e3d8e3c5bec03bb43c37a502056d2]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 1.6.2011 for specified purposes for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(g)](https://www.legislation.gov.uk/nisr/2011/182/article/3/g)
 
 [^c20103651]: Commencement: [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) partly in force; [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) in force at 12.1.2010 for specified purposes, see [s. 182(2)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e)
 
-[^key-6aebde9536d03641798826ec8d986028]: Commencement: Sch. 23 Pt. 3 in force at 6.4.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2, 4(1)](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/a)
+[^c-6aebde9536d03641798826ec8d986028]: Commencement: Sch. 23 Pt. 3 in force at 6.4.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2, 4(1)](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/a)
 
-[^key-6558cc37d0999bc910fd08f3924ade53]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) in force at 27.6.2011 for specified purposes by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/h)
+[^c-6558cc37d0999bc910fd08f3924ade53]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) in force at 27.6.2011 for specified purposes by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/h)
 
-[^key-fc338fdb7bf2ed9d38b1c8f1a8d236b4]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) in force at 3.10.2011 for specified purposes by [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2148/article/2/1/e)
+[^c-fc338fdb7bf2ed9d38b1c8f1a8d236b4]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) in force at 3.10.2011 for specified purposes by [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2148/article/2/1/e)
 
-[^key-5cd8f2167aa5b647ebcdd27da8ee3bd2]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/e)
+[^c-5cd8f2167aa5b647ebcdd27da8ee3bd2]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/e)
 
 [^c20103661]: Commencement: Sch. 23 Pt. 3 partly in force; Sch. 23 Pt. 3 in force at Royal Assent for specified purposes and at 1.1.2010 for further specified purposes, see [s. 182(1)(j)(3)(d)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/j/3/d)
 
-[^key-89a260a6cba2b70dc33e97880badca52]: Commencement: [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/4) in force at 6.4.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7)) (as amended (11.3.2011) by [S.I. 2011/722](https://www.legislation.gov.uk/uksi/2011/722), art. 2)
+[^c-89a260a6cba2b70dc33e97880badca52]: Commencement: [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/4) in force at 6.4.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7)) (as amended (11.3.2011) by [S.I. 2011/722](https://www.legislation.gov.uk/uksi/2011/722), art. 2)
 
 [^c20103671]: Commencement: [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/4) partly in force; [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/4) in force at Royal Assent for specified purposes, see [s. 182(1)(j)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/j)
 
-[^key-5a647fc5d97f973e89da5425be19d86d]: Commencement: Sch. 23 Pt. 5 in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2010/145/article/2/1/c)
+[^c-5a647fc5d97f973e89da5425be19d86d]: Commencement: Sch. 23 Pt. 5 in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2010/145/article/2/1/c)
 
-[^key-ab821621e72b6c200feaadd65f1f8348]: Commencement: Sch. 23 Pt. 5 in force at 2.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/2/e)
+[^c-ab821621e72b6c200feaadd65f1f8348]: Commencement: Sch. 23 Pt. 5 in force at 2.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/2/e)
 
-[^key-a1b366c6c36a06cd6e6a4cac4ee63f58]: Commencement: Sch. 23 Pt. 5 in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/f)
+[^c-a1b366c6c36a06cd6e6a4cac4ee63f58]: Commencement: Sch. 23 Pt. 5 in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/f)
 
 [^c20103681]: Commencement: Sch. 23 Pt. 5 partly in force; Sch. 23 Pt. 5 in force at Royal Assent for specified purposes, see [s. 182(1)(j)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/j)
 
-[^key-996c8f58f124b11a09482a0d75f12f09]: Textual amendment: Words in [Sch. 23 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/5) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-996c8f58f124b11a09482a0d75f12f09]: Textual amendment: Words in [Sch. 23 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/5) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
 
-[^key-c48bb399b17cee9aa4dde9dba3087df5]: Commencement: [Sch. 23 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/6) in force at 1.2.2010 in so far as not already in force by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/27/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/145/article/3))
+[^c-c48bb399b17cee9aa4dde9dba3087df5]: Commencement: [Sch. 23 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/6) in force at 1.2.2010 in so far as not already in force by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/27/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/145/article/3))
 
 [^c20103691]: Commencement: [Sch. 23 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/6) partly in force; [Sch. 23 Pt. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/6) in force at Royal Assent for specified purposes, see [s. 182(1)(j)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/j)
 
-[^key-76920a2300c64fef9d86154f0e984ed9]: Commencement: [Sch. 23 Pt. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/7) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/c)
+[^c-76920a2300c64fef9d86154f0e984ed9]: Commencement: [Sch. 23 Pt. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/7) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/c)
 
-[^key-70253cc5e68bcceaecb4e46a19c48025]: Commencement: [Sch. 23 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/8) in force at 6.4.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(d)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/d)
+[^c-70253cc5e68bcceaecb4e46a19c48025]: Commencement: [Sch. 23 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/8) in force at 6.4.2010 for specified purposes by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 22(d)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/22/d)

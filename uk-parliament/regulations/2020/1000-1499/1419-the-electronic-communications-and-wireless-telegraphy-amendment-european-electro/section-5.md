@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Review of legacy services[^key-bd237d1ad72fc640496f2eb3ffdfbb66]
+## 5. Review of legacy services[^c-bd237d1ad72fc640496f2eb3ffdfbb66]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ During the period beginning with 21st December 2020 and ending with IP completio
 
 ## Annotations
 
-[^key-bd237d1ad72fc640496f2eb3ffdfbb66]: Commencement: Reg. 5 in force at 21.12.2020, see reg. 1(2)
+[^c-bd237d1ad72fc640496f2eb3ffdfbb66]: Commencement: Reg. 5 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362381]: Marginal citation: Section 72A was inserted by section 1(7) of the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 

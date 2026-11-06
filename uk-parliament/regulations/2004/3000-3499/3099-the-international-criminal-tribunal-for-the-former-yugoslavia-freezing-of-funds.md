@@ -32,7 +32,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The International Criminal Tribunal for the Former Yugoslavia (Freezing of Funds and Economic Resources of Indictees) (Amendment) Regulations 2004 (revoked)[^key-c588bf4a3fa2065d29ae7b4bf26957e7]
+The International Criminal Tribunal for the Former Yugoslavia (Freezing of Funds and Economic Resources of Indictees) (Amendment) Regulations 2004 (revoked)[^c-c588bf4a3fa2065d29ae7b4bf26957e7]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 25th November 2004
 
-[^key-c588bf4a3fa2065d29ae7b4bf26957e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c588bf4a3fa2065d29ae7b4bf26957e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c588bf4a3fa2065d29ae7b4bf26957e7]
+## 1. Citation and commencement[^c-c588bf4a3fa2065d29ae7b4bf26957e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the International Criminal Tribunal for the Former Yugoslavia (Freezing of Funds and Economic Resources of Indictees) Regulations 2004[^key-c588bf4a3fa2065d29ae7b4bf26957e7]
+## 2. Amendment to the International Criminal Tribunal for the Former Yugoslavia (Freezing of Funds and Economic Resources of Indictees) Regulations 2004[^c-c588bf4a3fa2065d29ae7b4bf26957e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c588bf4a3fa2065d29ae7b4bf26957e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c588bf4a3fa2065d29ae7b4bf26957e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c588bf4a3fa2065d29ae7b4bf26957e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c588bf4a3fa2065d29ae7b4bf26957e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c588bf4a3fa2065d29ae7b4bf26957e7]: Textual amendment: Regulations revoked (29.6.2005) by [The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) Regulations 2005 (S.I. 2005/1527)](https://www.legislation.gov.uk/uksi/2005/1527), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/7/2)
+[^c-c588bf4a3fa2065d29ae7b4bf26957e7]: Textual amendment: Regulations revoked (29.6.2005) by [The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) Regulations 2005 (S.I. 2005/1527)](https://www.legislation.gov.uk/uksi/2005/1527), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/7/2)

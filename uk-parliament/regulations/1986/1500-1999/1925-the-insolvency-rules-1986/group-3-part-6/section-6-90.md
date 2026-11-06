@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.90. Suspension of meeting[^key-89abe4e864d6948ae04f9fc2639094b2]
+## 6.90. Suspension of meeting[^c-89abe4e864d6948ae04f9fc2639094b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Once only in the course of any meeting, the chairman may, in his discretion and 
 
 ## Annotations
 
-[^key-89abe4e864d6948ae04f9fc2639094b2]: Commencement: [Rule 6.90](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.90) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-89abe4e864d6948ae04f9fc2639094b2]: Commencement: [Rule 6.90](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.90) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

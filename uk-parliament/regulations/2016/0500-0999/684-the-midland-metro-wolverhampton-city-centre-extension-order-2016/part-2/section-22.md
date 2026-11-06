@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Power to survey and investigate land, etc.[^key-b3846c57d7e252b1744269cd68f03090]
+## 22. Power to survey and investigate land, etc.[^c-b3846c57d7e252b1744269cd68f03090]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-b3846c57d7e252b1744269cd68f03090]: Commencement: Art. 22 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-b3846c57d7e252b1744269cd68f03090]: Commencement: Art. 22 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00035]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).

@@ -33,7 +33,7 @@ summary: ''
 
 FOOD
 
-The Food (Revision of Penalties) Regulations 1982 (revoked)[^key-3b520ec7c04f693d9082e812b94fe899]
+The Food (Revision of Penalties) Regulations 1982 (revoked)[^c-3b520ec7c04f693d9082e812b94fe899]
 
 Made
 
@@ -47,86 +47,86 @@ Coming into Operation
 
 1st January 1983
 
-[^key-3b520ec7c04f693d9082e812b94fe899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b520ec7c04f693d9082e812b94fe899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+N.I.*
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-3b520ec7c04f693d9082e812b94fe899]
+## 1. Title and commencement[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Summary offences[^key-3b520ec7c04f693d9082e812b94fe899]
+## 2. Summary offences[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences triable either way[^key-3b520ec7c04f693d9082e812b94fe899]
+## 3. Offences triable either way[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences under pre-1956 regulations and orders[^key-3b520ec7c04f693d9082e812b94fe899]
+## 4. Offences under pre-1956 regulations and orders[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences committed before 1st January 1983[^key-3b520ec7c04f693d9082e812b94fe899]
+## 5. Offences committed before 1st January 1983[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b520ec7c04f693d9082e812b94fe899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b520ec7c04f693d9082e812b94fe899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+N.I.*
 
 **No longer in force.**
 
-## SCHEDULE 1 — REGULATIONS WHOSE OFFENCES ARE TO CONTINUE TO BE SUMMARY OFFENCES[^key-3b520ec7c04f693d9082e812b94fe899]
+## SCHEDULE 1 — REGULATIONS WHOSE OFFENCES ARE TO CONTINUE TO BE SUMMARY OFFENCES[^c-3b520ec7c04f693d9082e812b94fe899]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REGULATIONS WHOSE OFFENCES ARE TO BE TRIABLE EITHER WAY[^key-3b520ec7c04f693d9082e812b94fe899]
+## SCHEDULE 2 — REGULATIONS WHOSE OFFENCES ARE TO BE TRIABLE EITHER WAY[^c-3b520ec7c04f693d9082e812b94fe899]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — NEW PROVISIONS IN PRE-1956 REGULATIONS AND ORDERS[^key-3b520ec7c04f693d9082e812b94fe899]
+## SCHEDULE 3 — NEW PROVISIONS IN PRE-1956 REGULATIONS AND ORDERS[^c-3b520ec7c04f693d9082e812b94fe899]
 
 Regulation 4
 
-### PART I — NEW REGULATION TO APPEAR IN THE PUBLIC HEALTH (IMPORTED MILK) REGULATIONS 1926[^key-3b520ec7c04f693d9082e812b94fe899]
+### PART I — NEW REGULATION TO APPEAR IN THE PUBLIC HEALTH (IMPORTED MILK) REGULATIONS 1926[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — NEW REGULATION TO APPEAR IN THE PUBLIC HEALTH (IMPORTED MILK) REGULATIONS 1926 AND THE PUBLIC HEALTH (SHELL-FISH) REGULATIONS 1934[^key-3b520ec7c04f693d9082e812b94fe899]
+### PART II — NEW REGULATION TO APPEAR IN THE PUBLIC HEALTH (IMPORTED MILK) REGULATIONS 1926 AND THE PUBLIC HEALTH (SHELL-FISH) REGULATIONS 1934[^c-3b520ec7c04f693d9082e812b94fe899]
 
-(1)[^key-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — NEW PARAGRAPH TO APPEAR IN THE PUBLIC HEALTH (SHELL-FISH) REGULATIONS 1934[^key-3b520ec7c04f693d9082e812b94fe899]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART IV — NEW ARTICLE TO APPEAR IN THE FOOD STANDARDS (GENERAL PROVISIONS) ORDER 1944 AND THE OFFALS IN MEAT PRODUCTS ORDER 1953[^key-3b520ec7c04f693d9082e812b94fe899]
+### PART III — NEW PARAGRAPH TO APPEAR IN THE PUBLIC HEALTH (SHELL-FISH) REGULATIONS 1934[^c-3b520ec7c04f693d9082e812b94fe899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — FURTHER NEW ARTICLE TO APPEAR IN THE FOOD STANDARDS (GENERAL PROVISIONS) ORDER 1944 AND THE OFFALS IN MEAT PRODUCTS ORDER 1953[^key-3b520ec7c04f693d9082e812b94fe899]
+### PART IV — NEW ARTICLE TO APPEAR IN THE FOOD STANDARDS (GENERAL PROVISIONS) ORDER 1944 AND THE OFFALS IN MEAT PRODUCTS ORDER 1953[^c-3b520ec7c04f693d9082e812b94fe899]
 
-(1)[^key-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART V — FURTHER NEW ARTICLE TO APPEAR IN THE FOOD STANDARDS (GENERAL PROVISIONS) ORDER 1944 AND THE OFFALS IN MEAT PRODUCTS ORDER 1953[^c-3b520ec7c04f693d9082e812b94fe899]
+
+(1)[^c-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c-3b520ec7c04f693d9082e812b94fe899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3b520ec7c04f693d9082e812b94fe899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b520ec7c04f693d9082e812b94fe899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b520ec7c04f693d9082e812b94fe899]: Textual amendment: Regulations revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4))[S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3b520ec7c04f693d9082e812b94fe899]: Textual amendment: Regulations revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4))[S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

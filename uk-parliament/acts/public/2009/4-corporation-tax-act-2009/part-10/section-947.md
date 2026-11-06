@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the income of the deceased's personal representatives in that capacity which is charged to United Kingdom income tax for the tax year,
 - (b) the income of the deceased's personal representatives in that capacity on which such tax would have been charged for the tax year if—
-  - (i) it was income of a UK resident [^key-c8144fd4bb9d5e4b93eac79256bf1f52]..., and
+  - (i) it was income of a UK resident [^c-c8144fd4bb9d5e4b93eac79256bf1f52]..., and
   - (ii) it was income from a source in the United Kingdom,
 - (c) any amount of income treated as arising to the personal representatives under section 410(4) (stock dividends) of ITTOIA that would be charged to income tax under Chapter 5 of Part 4 of that Act if income arising to personal representatives were so charged (see section 411 of that Act),
 - (d) in a case where section 419(2) of ITTOIA applies (release of loans to participator in close company: loans and advances to persons who die), the amount that would be charged to income tax under Chapter 6 of Part 4 of that Act apart from that section, and
@@ -50,4 +50,4 @@ but excluding real property included in a residuary gift made by will by a speci
 
 ## Annotations
 
-[^key-c8144fd4bb9d5e4b93eac79256bf1f52]: Textual amendment: Words in s. 947(2)(b)(i) omitted (with application in accordance with Sch. 46 para. 140(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 140(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/140/1)
+[^c-c8144fd4bb9d5e4b93eac79256bf1f52]: Textual amendment: Words in s. 947(2)(b)(i) omitted (with application in accordance with Sch. 46 para. 140(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 140(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/140/1)

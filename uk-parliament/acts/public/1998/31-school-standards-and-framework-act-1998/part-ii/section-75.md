@@ -27,8 +27,8 @@ summary: ''
 
 the governing body shall transfer to those persons the land held by the governing body on which the building is to be constructed.
 
-(2) Paragraph A1 or[^key-90b0793a537206613c7207f41e631991] 1 of Schedule 22 does not apply to any transfer required by subsection (1).
+(2) Paragraph A1 or[^c-90b0793a537206613c7207f41e631991] 1 of Schedule 22 does not apply to any transfer required by subsection (1).
 
 ## Annotations
 
-[^key-90b0793a537206613c7207f41e631991]: Textual amendment: Words in [s. 75(2)](https://www.legislation.gov.uk/ukpga/1998/31/section/75/2) inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/19); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-90b0793a537206613c7207f41e631991]: Textual amendment: Words in [s. 75(2)](https://www.legislation.gov.uk/ukpga/1998/31/section/75/2) inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/19); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)

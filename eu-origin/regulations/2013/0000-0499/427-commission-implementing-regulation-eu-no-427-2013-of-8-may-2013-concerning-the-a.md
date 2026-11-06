@@ -35,26 +35,26 @@ concerning the authorisation of selenomethionine produced by *Saccharomyces cere
 
 (Text with EEA relevance) (revoked)
 
-[^key-1d5ac65ddd730c35739dce8579fe3a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d5ac65ddd730c35739dce8579fe3a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d5ac65ddd730c35739dce8579fe3a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d5ac65ddd730c35739dce8579fe3a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1d5ac65ddd730c35739dce8579fe3a7d]
+## ANNEX[^c-1d5ac65ddd730c35739dce8579fe3a7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d5ac65ddd730c35739dce8579fe3a7d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 104](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/104) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-1d5ac65ddd730c35739dce8579fe3a7d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 104](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/104) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

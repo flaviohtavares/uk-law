@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87A. Benefit of non-cash voucher treated as earnings: optional remuneration arrangements[^key-83c355685bba2d9f90065ce886329f45]
+## 87A. Benefit of non-cash voucher treated as earnings: optional remuneration arrangements[^c-83c355685bba2d9f90065ce886329f45]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83c355685bba2d9f90065ce886329f45]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2003/1/section/87A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/4)
+[^c-83c355685bba2d9f90065ce886329f45]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2003/1/section/87A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/4)

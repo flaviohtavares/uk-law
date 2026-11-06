@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Commencement[^key-e1390a5421cf51c6c3c8b8b732d83c8b]
+## 121. Commencement[^c-e1390a5421cf51c6c3c8b8b732d83c8b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1390a5421cf51c6c3c8b8b732d83c8b]: Commencement: S. 121 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)
+[^c-e1390a5421cf51c6c3c8b8b732d83c8b]: Commencement: S. 121 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)

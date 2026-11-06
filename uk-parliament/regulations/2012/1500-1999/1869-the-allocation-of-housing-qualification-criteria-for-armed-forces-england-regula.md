@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 160ZA(8)(b) of the Housing Act 1996[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-dfd96ad36d9726992b28d8ff7554ca48]
+## 1. Citation and commencement[^c-dfd96ad36d9726992b28d8ff7554ca48]
 
 (1) These Regulations may be cited as the Allocation of Housing (Qualification Criteria for Armed Forces) (England) Regulations 2012.
 
 (2) These Regulations come into force on 24th August 2012.
 
-## 2. Interpretation[^key-6da3c4523558d9302921522e26e4c1a5]
+## 2. Interpretation[^c-6da3c4523558d9302921522e26e4c1a5]
 
 In these Regulations—
 
@@ -60,7 +60,7 @@ In these Regulations—
 - “local connection” has the meaning given by section 199 of the 1996 Act; and
 - “regular forces” and “reserve forces” have the meanings given by section 374 of the Armed Forces Act 2006[^f00002].
 
-## 3. Criterion that may not be used in deciding what classes of persons are not qualifying persons[^key-0c6c5e4c392bcda0ad612e7812a36468]
+## 3. Criterion that may not be used in deciding what classes of persons are not qualifying persons[^c-0c6c5e4c392bcda0ad612e7812a36468]
 
 (1) In deciding what classes of persons are not qualifying persons under section 160ZA(7) of the 1996 Act, a local housing authority in England may not use the criterion set out in paragraph (2).
 
@@ -68,7 +68,7 @@ In these Regulations—
 
 (3) A relevant person is a person who—
 
-- (a) is serving in the regular forces or who has served in the regular forces [^key-d6fd31ed8c0bfc02e04d9e7fed46cbd6]...;
+- (a) is serving in the regular forces or who has served in the regular forces [^c-d6fd31ed8c0bfc02e04d9e7fed46cbd6]...;
 - (b) has recently ceased, or will cease to be entitled, to reside in accommodation provided by the Ministry of Defence following the death of that person’s spouse or civil partner where—
   - (i) the spouse or civil partner has served in the regular forces; and
   - (ii) their death was attributable (wholly or partly) to that service; or
@@ -96,12 +96,12 @@ The Localism Act 2011 amends the Housing Act 1996 to give local housing authorit
 
 [^f00001]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). Section 160ZA was inserted by s146 of the Localism Act 2011 ([2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20)).
 
-[^key-dfd96ad36d9726992b28d8ff7554ca48]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1) in force at 24.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1/2)
+[^c-dfd96ad36d9726992b28d8ff7554ca48]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1) in force at 24.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1/2)
 
-[^key-6da3c4523558d9302921522e26e4c1a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1869/regulation/2) in force at 24.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1/2)
+[^c-6da3c4523558d9302921522e26e4c1a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1869/regulation/2) in force at 24.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1/2)
 
 [^f00002]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-0c6c5e4c392bcda0ad612e7812a36468]: Commencement: Reg. 3 in force at 24.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1/2)
+[^c-0c6c5e4c392bcda0ad612e7812a36468]: Commencement: Reg. 3 in force at 24.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1869/regulation/1/2)
 
-[^key-d6fd31ed8c0bfc02e04d9e7fed46cbd6]: Textual amendment: Words in reg. 3(3)(a) omitted (18.12.2024) by virtue of [The Allocation of Housing (Qualification Criteria for Armed Forces) (England) (Amendment) Regulations 2024 (S.I. 2024/1225)](https://www.legislation.gov.uk/uksi/2024/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1225/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1225/regulation/2)
+[^c-d6fd31ed8c0bfc02e04d9e7fed46cbd6]: Textual amendment: Words in reg. 3(3)(a) omitted (18.12.2024) by virtue of [The Allocation of Housing (Qualification Criteria for Armed Forces) (England) (Amendment) Regulations 2024 (S.I. 2024/1225)](https://www.legislation.gov.uk/uksi/2024/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1225/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1225/regulation/2)

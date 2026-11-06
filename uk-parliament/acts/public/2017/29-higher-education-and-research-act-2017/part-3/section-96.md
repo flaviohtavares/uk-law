@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Exercise of functions by Innovate UK[^key-c14fb5ddc3b79e4b3a08176f67f311fe]
+## 96. Exercise of functions by Innovate UK[^c-c14fb5ddc3b79e4b3a08176f67f311fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c14fb5ddc3b79e4b3a08176f67f311fe]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2017/29/section/96) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-c14fb5ddc3b79e4b3a08176f67f311fe]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2017/29/section/96) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

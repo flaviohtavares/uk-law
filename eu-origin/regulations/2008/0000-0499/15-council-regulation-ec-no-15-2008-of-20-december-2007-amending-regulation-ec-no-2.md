@@ -33,14 +33,14 @@ of 20 December 2007
 
 amending Regulation (EC) No 2100/94 as regards the entitlement to file an application for a Community plant variety right (revoked)
 
-[^key-ab753bcf28ea8146d7a8ac6f1cb5ab9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab753bcf28ea8146d7a8ac6f1cb5ab9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ab753bcf28ea8146d7a8ac6f1cb5ab9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ab753bcf28ea8146d7a8ac6f1cb5ab9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ab753bcf28ea8146d7a8ac6f1cb5ab9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ab753bcf28ea8146d7a8ac6f1cb5ab9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab753bcf28ea8146d7a8ac6f1cb5ab9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab753bcf28ea8146d7a8ac6f1cb5ab9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab753bcf28ea8146d7a8ac6f1cb5ab9b]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab753bcf28ea8146d7a8ac6f1cb5ab9b]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

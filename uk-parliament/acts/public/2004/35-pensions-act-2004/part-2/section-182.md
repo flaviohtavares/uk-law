@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Cases where fraud compensation payments can be made[^key-f3ce738a1cbce6a56b8fc3e960d2df20][^key-9f7630100fb0bee3a3dbda1545f54369][^key-85813573544152d94d8068f5d8d11a27][^key-967ac56626dbf3e686c8fdd313a4e9fb][^M_I_864cb277-9733-47a8-d3cc-7fc8075cad4e][^key-9f7630100fb0bee3a3dbda1545f54369]
+## 182. Cases where fraud compensation payments can be made[^c-f3ce738a1cbce6a56b8fc3e960d2df20][^c-9f7630100fb0bee3a3dbda1545f54369][^c-85813573544152d94d8068f5d8d11a27][^c-967ac56626dbf3e686c8fdd313a4e9fb][^M_I_864cb277-9733-47a8-d3cc-7fc8075cad4e][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S*
 
@@ -113,12 +113,12 @@ or within such longer period as the Board may determine in any case.
 
 ## Annotations
 
-[^key-f3ce738a1cbce6a56b8fc3e960d2df20]: Commencement: S. 182 in force at 1.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/3/a)
+[^c-f3ce738a1cbce6a56b8fc3e960d2df20]: Commencement: S. 182 in force at 1.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/3/a)
 
-[^key-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-85813573544152d94d8068f5d8d11a27]: Modification: Ss. 182-187: power to modify conferred (5.9.2018 for specified purposes, 1.10.2018 so far as not already in force) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/36/1), [44(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/2); [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-85813573544152d94d8068f5d8d11a27]: Modification: Ss. 182-187: power to modify conferred (5.9.2018 for specified purposes, 1.10.2018 so far as not already in force) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/36/1), [44(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/2); [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-967ac56626dbf3e686c8fdd313a4e9fb]: Modification: S. 182 modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [23(1)(2)(a)(i)-(iii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)
+[^c-967ac56626dbf3e686c8fdd313a4e9fb]: Modification: S. 182 modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [23(1)(2)(a)(i)-(iii)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)
 
 [^M_I_864cb277-9733-47a8-d3cc-7fc8075cad4e]: Commencement: S. 182 in force at 12.7.2005 for specified purposes by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), art. 2(3)(a)

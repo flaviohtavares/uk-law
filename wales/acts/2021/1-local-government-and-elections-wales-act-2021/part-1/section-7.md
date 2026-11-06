@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. The voting system that applies[^key-c03ca48417450c9a8c2b63629ca7734b]
+## 7. The voting system that applies[^c-c03ca48417450c9a8c2b63629ca7734b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c03ca48417450c9a8c2b63629ca7734b]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2021/1/section/7) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-c03ca48417450c9a8c2b63629ca7734b]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2021/1/section/7) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. The Tobacco Products Regulations 2001[^key-c0cf7589d4102cff6a47800b06d8131e]
+## 98. The Tobacco Products Regulations 2001[^c-c0cf7589d4102cff6a47800b06d8131e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0cf7589d4102cff6a47800b06d8131e]: Commencement: Reg. 98 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-c0cf7589d4102cff6a47800b06d8131e]: Commencement: Reg. 98 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2001/1712](https://www.legislation.gov.uk/uksi/2001/1712); as amended by [S.I. 2002/2692](https://www.legislation.gov.uk/uksi/2002/2692), [S.I. 2006/1787](https://www.legislation.gov.uk/uksi/2006/1787) and [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593); there are other amendments but none are relevant.

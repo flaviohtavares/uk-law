@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Nomination for lump-sum death grant[^key-d299b882e26581103700b9580260afac]
+## 44. Nomination for lump-sum death grant[^c-d299b882e26581103700b9580260afac]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d299b882e26581103700b9580260afac]: Commencement: Reg. 44 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-d299b882e26581103700b9580260afac]: Commencement: Reg. 44 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

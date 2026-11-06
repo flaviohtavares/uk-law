@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Guidance by Secretary of State[^key-bb8312ac2f389424ffc3f522749119a3]
+## 22. Guidance by Secretary of State[^c-bb8312ac2f389424ffc3f522749119a3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ After section 16J of the Children Act 2004 (inserted by section 21 of this Act) 
 
 ## Annotations
 
-[^key-bb8312ac2f389424ffc3f522749119a3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/16/section/22) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/k)
+[^c-bb8312ac2f389424ffc3f522749119a3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/16/section/22) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/k)

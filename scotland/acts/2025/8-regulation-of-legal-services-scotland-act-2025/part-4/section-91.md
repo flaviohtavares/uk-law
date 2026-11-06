@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Offence of pretending to be a regulated legal services provider[^key-5a478249b357f777a411849822789bcd]
+## 91. Offence of pretending to be a regulated legal services provider[^c-5a478249b357f777a411849822789bcd]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a478249b357f777a411849822789bcd]: Commencement: S. 91 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5a478249b357f777a411849822789bcd]: Commencement: S. 91 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

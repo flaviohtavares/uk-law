@@ -44,7 +44,7 @@ and there is produced to the Secretary of State evidence that the person importi
 
 (2) The exemption shall however cease to apply if, at any time during the period prescribed by sub-paragraph (1), the importer of the vehicle becomes liable to pay any duty or tax chargeable in respect of its importation.
 
-### 3. List of countries[^key-4c7eef756b20248eb7ffd53f95e0630c]
+### 3. List of countries[^c-4c7eef756b20248eb7ffd53f95e0630c]
 
 The countries referred to in paragraph 1(2)(b) are—
 
@@ -117,4 +117,4 @@ The headquarters and organisations referred to in paragraph 1(2)(c) are—
 
 ## Annotations
 
-[^key-4c7eef756b20248eb7ffd53f95e0630c]: Textual amendment: Sch. 5 paras. 3, 4 substituted (1.10.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2003 (S.I. 2003/2154)](https://www.legislation.gov.uk/uksi/2003/2154), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2154/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/2154/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2003/2154/schedule)
+[^c-4c7eef756b20248eb7ffd53f95e0630c]: Textual amendment: Sch. 5 paras. 3, 4 substituted (1.10.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2003 (S.I. 2003/2154)](https://www.legislation.gov.uk/uksi/2003/2154), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2154/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/2154/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2003/2154/schedule)

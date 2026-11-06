@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Protection arrangements for persons at risk[^key-bd6e5b2a1db195112bcc762609be2ae1]
+## 178. Protection arrangements for persons at risk[^c-bd6e5b2a1db195112bcc762609be2ae1]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd6e5b2a1db195112bcc762609be2ae1]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2014/12/section/178) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/18)
+[^c-bd6e5b2a1db195112bcc762609be2ae1]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2014/12/section/178) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/18)

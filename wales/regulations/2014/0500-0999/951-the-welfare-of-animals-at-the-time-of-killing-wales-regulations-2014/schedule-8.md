@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 45
 
-### 1. Animals delivered other than in containers[^key-52ec19f54d0962c4ff405f9953922ea7]
+### 1. Animals delivered other than in containers[^c-52ec19f54d0962c4ff405f9953922ea7]
 
 The business operator must ensure that—
 
 - (a) bridges, ramps or gangways are fitted with sides, railings or some other means of protection to prevent animals falling off them; and
 - (b) all passageways are constructed to minimise the risk of injury to an animal and arranged to take account of the gregarious tendencies of the animals which use them.
 
-### 2. Lairages other than field lairages[^key-53d27bfe7cb5e3c9917ce574d7c9e242]
+### 2. Lairages other than field lairages[^c-53d27bfe7cb5e3c9917ce574d7c9e242]
 
 The business operator must ensure that a lairage other than a field lairage has—
 
@@ -38,7 +38,7 @@ The business operator must ensure that a lairage other than a field lairage has�
 - (c) adequate lighting (whether fixed or portable) to enable the animals to be thoroughly inspected at any time; and
 - (d) drinking facilities adequate in number and size for the watering of animals confined in the lairage, fixed where practicable, and constructed and placed so that they are easily accessible to all the animals, can readily be filled and cannot readily be fouled.
 
-### 3. Field lairages[^key-1e58c2097d30e1efaa93f7099dad6142]
+### 3. Field lairages[^c-1e58c2097d30e1efaa93f7099dad6142]
 
 The business operator must ensure that a field lairage—
 
@@ -46,7 +46,7 @@ The business operator must ensure that a field lairage—
 - (b) has adequate lighting (whether fixed or portable) to enable the animals to be thoroughly inspected at any time; and
 - (c) is provided with drinking facilities adequate in number and size for the watering of animals confined in the lairage, fixed where practicable, and constructed and placed so that they are easily accessible to all the animals, can readily be filled and cannot readily be fouled.
 
-### 4. Shackle lines[^key-1e213229fef9122a3246440b2d353125]
+### 4. Shackle lines[^c-1e213229fef9122a3246440b2d353125]
 
 In the case of a slaughterhouse where poultry are killed, the business operator must ensure that—
 
@@ -54,21 +54,21 @@ In the case of a slaughterhouse where poultry are killed, the business operator 
 - (b) no poultry are suspended for more than 3 minutes in the case of a turkey or 2 minutes in other cases before being stunned; and
 - (c) the whole length of the shackle line up to the point of entry into the scald tank is immediately accessible to any person so that poultry may if necessary receive attention.
 
-### 5. Electrical stunning other than by waterbath[^key-ea619bb0092a0a2c562828af05d21203]
+### 5. Electrical stunning other than by waterbath[^c-ea619bb0092a0a2c562828af05d21203]
 
 No person may use electrodes to stun an animal individually unless the apparatus—
 
 - (a) incorporates an audible or visible device indicating the length of time of its application to an animal; and
 - (b) is connected to a device indicating the voltage and the current under load, positioned so as to be clearly visible to the operator.
 
-### 6. Electrical stunning by waterbath[^key-b1fe9f856bdb91d6b7ff48d949f1b617]
+### 6. Electrical stunning by waterbath[^c-b1fe9f856bdb91d6b7ff48d949f1b617]
 
 No person may use a waterbath stunner unless—
 
 - (a) the electrode which is immersed in the water extends the length of the waterbath; and
 - (b) the waterbath stunner does not overflow at the entrance, or, if an overflow is unavoidable, measures are taken to ensure that no poultry receive an electric shock before they are stunned.
 
-### 7. Exposure to gas[^key-82fa9ed46d62bedda09c782d6b5a46d7]
+### 7. Exposure to gas[^c-82fa9ed46d62bedda09c782d6b5a46d7]
 
 No person may stun pigs or poultry by exposure to gas unless the gas stunner provided for that purpose, including any equipment used for conveying the pigs or poultry through the gas, is—
 
@@ -79,16 +79,16 @@ No person may stun pigs or poultry by exposure to gas unless the gas stunner pro
 
 ## Annotations
 
-[^key-52ec19f54d0962c4ff405f9953922ea7]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-52ec19f54d0962c4ff405f9953922ea7]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-53d27bfe7cb5e3c9917ce574d7c9e242]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-53d27bfe7cb5e3c9917ce574d7c9e242]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-1e58c2097d30e1efaa93f7099dad6142]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-1e58c2097d30e1efaa93f7099dad6142]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-1e213229fef9122a3246440b2d353125]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-1e213229fef9122a3246440b2d353125]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-ea619bb0092a0a2c562828af05d21203]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ea619bb0092a0a2c562828af05d21203]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-b1fe9f856bdb91d6b7ff48d949f1b617]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b1fe9f856bdb91d6b7ff48d949f1b617]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-82fa9ed46d62bedda09c782d6b5a46d7]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-82fa9ed46d62bedda09c782d6b5a46d7]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/wsi/2014/951/schedule/8/paragraph/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

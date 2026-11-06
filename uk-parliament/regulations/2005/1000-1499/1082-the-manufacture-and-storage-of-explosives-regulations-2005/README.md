@@ -30,28 +30,28 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Manufacture and Storage of Explosives Regulations 2005 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+The Manufacture and Storage of Explosives Regulations 2005 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-Made *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+Made *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-4th April 2005 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+4th April 2005 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-Laid before Parliament *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+Laid before Parliament *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-5th April 2005 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+5th April 2005 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-Coming into force in accordance with regulation 1 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+Coming into force in accordance with regulation 1 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-The Secretary of State, in exercise of the powers conferred upon him by sections 15(1), (2), (3)(a), (4), (5), (6)(b), 43(2), (4), (5) and (6), 80(1) and 82(3)(a) of, and paragraphs 1(1), (2) and (3), 2, 3(1), 4, 5, 7, 11, 14, 15(1), 16, 18 and 20 of Schedule 3 to, the Health and Safety at Work etc. Act 1974 *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766][^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf — *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+The Secretary of State, in exercise of the powers conferred upon him by sections 15(1), (2), (3)(a), (4), (5), (6)(b), 43(2), (4), (5) and (6), 80(1) and 82(3)(a) of, and paragraphs 1(1), (2) and (3), 2, 3(1), 4, 5, 7, 11, 14, 15(1), 16, 18 and 20 of Schedule 3 to, the Health and Safety at Work etc. Act 1974 *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766][^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf — *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-- (a) for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, and *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
-- (b) it appearing to him that the modifications to the Acts and other instruments mentioned in paragraphs 4 to 6, 7(2), (3), (5) and (7), 8(3) and (4), 9 to 13, 15 to 21, 26, 27, 29, 33, 35, 36, 39 and 43 of Schedule 5, and the repeals of the Acts marked with an asterisk in Schedule 6 are expedient as set out in section 80(1) of the 1974 Act and that it also appears to him not to be appropriate to consult bodies in respect of such modifications in accordance with section 80(4) of that Act, *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+- (a) for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, and *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
+- (b) it appearing to him that the modifications to the Acts and other instruments mentioned in paragraphs 4 to 6, 7(2), (3), (5) and (7), 8(3) and (4), 9 to 13, 15 to 21, 26, 27, 29, 33, 35, 36, 39 and 43 of Schedule 5, and the repeals of the Acts marked with an asterisk in Schedule 6 are expedient as set out in section 80(1) of the 1974 Act and that it also appears to him not to be appropriate to consult bodies in respect of such modifications in accordance with section 80(4) of that Act, *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
-hereby makes the following Regulations: *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+hereby makes the following Regulations: *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — INTRODUCTION (affected by repeal, see note)[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+### PART 1 (affected by repeal, see note) — INTRODUCTION (affected by repeal, see note)[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ hereby makes the following Regulations: *(affected by repeal, see note)*[^key-c8
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Application](part-1/section-3.md)
 
-### PART 2 (affected by repeal, see note) — SAFETY REQUIREMENTS (affected by repeal, see note)[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+### PART 2 (affected by repeal, see note) — SAFETY REQUIREMENTS (affected by repeal, see note)[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ hereby makes the following Regulations: *(affected by repeal, see note)*[^key-c8
 - [Section 7 — Employment of young persons](part-2/section-7.md)
 - [Section 8 — Unauthorised access](part-2/section-8.md)
 
-### PART 3 (affected by repeal, see note) — LICENSING AND REGISTRATION REQUIREMENTS (affected by repeal, see note)[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+### PART 3 (affected by repeal, see note) — LICENSING AND REGISTRATION REQUIREMENTS (affected by repeal, see note)[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ hereby makes the following Regulations: *(affected by repeal, see note)*[^key-c8
 - [Section 22 — Registers and retention of documents](part-3/section-22.md)
 - [Section 23 — Defences](part-3/section-23.md)
 
-### PART 4 (affected by repeal, see note) — PROHIBITIONS CONCERNING CERTAIN EXPLOSIVES AND MISCELLANEOUS PROVISIONS (affected by repeal, see note)[^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+### PART 4 (affected by repeal, see note) — PROHIBITIONS CONCERNING CERTAIN EXPLOSIVES AND MISCELLANEOUS PROVISIONS (affected by repeal, see note)[^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,6 +142,6 @@ Department for Work and Pensions
 
 ## Annotations
 
-[^key-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
+[^c-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); section 15 was amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), section 116 and Schedule 15, paragraphs 6 and 16.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. General functions of the Combined Authority exercisable only by the Mayor[^key-88a62809b780783cf4ab729661c32c95]
+## 42. General functions of the Combined Authority exercisable only by the Mayor[^c-88a62809b780783cf4ab729661c32c95]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88a62809b780783cf4ab729661c32c95]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2023/1432/article/42) in force at 7.5.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3)
+[^c-88a62809b780783cf4ab729661c32c95]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2023/1432/article/42) in force at 7.5.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Temporary use of land for constructing the authorised development[^key-8528d2cf7812506e3c08c6a6efca13d8]
+## 29. Temporary use of land for constructing the authorised development[^c-8528d2cf7812506e3c08c6a6efca13d8]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8528d2cf7812506e3c08c6a6efca13d8]: Commencement: Art. 29 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-8528d2cf7812506e3c08c6a6efca13d8]: Commencement: Art. 29 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

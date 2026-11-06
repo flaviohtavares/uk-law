@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 824. Repayment supplements: individuals and others.[^c21628821][^c22800861][^c23813151][^c23813331][^key-2666dd61dc08aeb31d6c6696a229d2f1]
+## 824. Repayment supplements: individuals and others.[^c21628821][^c22800861][^c23813151][^c23813331][^c-2666dd61dc08aeb31d6c6696a229d2f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 - (a) an amount paid on account of income tax under section 59A of the Management Act;
 - (b) any income tax paid by or on behalf of an individual for a year of assessment;
-- (c)[^c23813271][^key-1b67f45f6df23d0b71f5ad7fbfbf3519] a penalty payable under any paragraph of Schedule 56 to the Finance Act 2009 in respect of an amount falling within any of the following items of the Table in paragraph 1 of that Schedule— *(affected by repeal, see note)*[^key-1b67f45f6df23d0b71f5ad7fbfbf3519]
-  - (i) item 1, 12, 18 or 19; or *(affected by repeal, see note)*[^key-1b67f45f6df23d0b71f5ad7fbfbf3519]
-  - (ii (affected by repeal, see note))[^key-1b67f45f6df23d0b71f5ad7fbfbf3519] insofar as the tax falls within item 1, item 17, 23 or 24; and *(affected by repeal, see note)*[^key-1b67f45f6df23d0b71f5ad7fbfbf3519]
-- (d) a penalty incurred by an individual under any of the provisions of that Act *(affected by repeal, see note)*[^key-b98474e89ff7754ec740850808b1c0c3] the Finance Act 2009 or Schedules 24 to 26 to the Finance Act 2021,
+- (c)[^c23813271][^c-1b67f45f6df23d0b71f5ad7fbfbf3519] a penalty payable under any paragraph of Schedule 56 to the Finance Act 2009 in respect of an amount falling within any of the following items of the Table in paragraph 1 of that Schedule— *(affected by repeal, see note)*[^c-1b67f45f6df23d0b71f5ad7fbfbf3519]
+  - (i) item 1, 12, 18 or 19; or *(affected by repeal, see note)*[^c-1b67f45f6df23d0b71f5ad7fbfbf3519]
+  - (ii (affected by repeal, see note))[^c-1b67f45f6df23d0b71f5ad7fbfbf3519] insofar as the tax falls within item 1, item 17, 23 or 24; and *(affected by repeal, see note)*[^c-1b67f45f6df23d0b71f5ad7fbfbf3519]
+- (d) a penalty incurred by an individual under any of the provisions of that Act *(affected by repeal, see note)*[^c-b98474e89ff7754ec740850808b1c0c3] the Finance Act 2009 or Schedules 24 to 26 to the Finance Act 2021,
 
 shall be increased under this section by an amount (a “**repayment supplement**”) equal to interest on the amount repaid at the rate applicable under section 178 of the Finance Act 1989 for the period (if any) between the relevant time and the date on which the order for the repayment is issued.
 
@@ -107,15 +107,15 @@ but does not include a reference to amounts which, in that year, are deducted at
 
 [^c23813331]: Modification: S. 824 restricted (1.4.2011) by [The Finance Act 2009, Sections 101 to 103 (Income Tax Self Assessment) (Appointed Days and Transitional and Consequential Provisions) Order 2011 (S.I. 2011/701](https://www.legislation.gov.uk/uksi/2011/701)), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2011/701/article/4/2/a), [5](https://www.legislation.gov.uk/uksi/2011/701/article/5)
 
-[^key-2666dd61dc08aeb31d6c6696a229d2f1]: Modification: S. 824 excluded (5.10.2020) by [The Finance Act 2009, Sections 101 and 102 (Disguised Remuneration Repayment Scheme) (Appointed Day and Consequential Amendment) Order 2020 (S.I. 2020/979)](https://www.legislation.gov.uk/uksi/2020/979), [arts. 1](https://www.legislation.gov.uk/uksi/2020/979/article/1), [4](https://www.legislation.gov.uk/uksi/2020/979/article/4)
+[^c-2666dd61dc08aeb31d6c6696a229d2f1]: Modification: S. 824 excluded (5.10.2020) by [The Finance Act 2009, Sections 101 and 102 (Disguised Remuneration Repayment Scheme) (Appointed Day and Consequential Amendment) Order 2020 (S.I. 2020/979)](https://www.legislation.gov.uk/uksi/2020/979), [arts. 1](https://www.legislation.gov.uk/uksi/2020/979/article/1), [4](https://www.legislation.gov.uk/uksi/2020/979/article/4)
 
 [^c22800701]: Textual amendment: S. 824(1) substituted (with effect in accordance with s. 199(2)(3), [Sch. 19 para. 41(4)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/41/4) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [Sch. 19 para. 41(1)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/19/paragraph/41/1); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), [art. 2](https://www.legislation.gov.uk/uksi/1998/3173/article/2)
 
 [^c23813271]: Textual amendment: S. 824(1)(c) substituted (1.4.2011) by The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 ([S.I. 2011/702](https://www.legislation.gov.uk/uksi/2011/702)), arts. 1(1), 11 (with arts. 20, 22)
 
-[^key-1b67f45f6df23d0b71f5ad7fbfbf3519]: Textual amendment: S. 824(1)(c) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 10(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-1b67f45f6df23d0b71f5ad7fbfbf3519]: Textual amendment: S. 824(1)(c) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 10(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-b98474e89ff7754ec740850808b1c0c3]: Textual amendment: Words in s. 824(1)(d) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 10(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-b98474e89ff7754ec740850808b1c0c3]: Textual amendment: Words in s. 824(1)(d) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 10(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
 [^c21628881]: Textual amendment: S. 824(1A) repealed (from 18.8.1989) by [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [ss. 178(7)](https://www.legislation.gov.uk/ukpga/1989/26/section/178/7), [187](https://www.legislation.gov.uk/ukpga/1989/26/section/187), [Sch. 17 Pt. 10](https://www.legislation.gov.uk/ukpga/1989/26/schedule/17/part/10), Note; [S.I. 1989/1298](https://www.legislation.gov.uk/uksi/1989/1298)
 

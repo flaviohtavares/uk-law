@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Partners of parents[^key-46a28a5775e22179bc10b07a1d38fb79]
+## 36. Partners of parents[^c-46a28a5775e22179bc10b07a1d38fb79]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46a28a5775e22179bc10b07a1d38fb79]: Commencement: S. 36 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-46a28a5775e22179bc10b07a1d38fb79]: Commencement: S. 36 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

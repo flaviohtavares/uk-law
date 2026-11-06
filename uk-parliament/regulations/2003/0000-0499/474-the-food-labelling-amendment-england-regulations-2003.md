@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Food Labelling (Amendment) (England) Regulations 2003 (revoked)[^key-0feb80def4b83d281308ad1caf5a12a1]
+The Food Labelling (Amendment) (England) Regulations 2003 (revoked)[^c-0feb80def4b83d281308ad1caf5a12a1]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 24th March 2003
 
-[^key-0feb80def4b83d281308ad1caf5a12a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0feb80def4b83d281308ad1caf5a12a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-0feb80def4b83d281308ad1caf5a12a1]
+## 1. Title, commencement and extent[^c-0feb80def4b83d281308ad1caf5a12a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-0feb80def4b83d281308ad1caf5a12a1]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-0feb80def4b83d281308ad1caf5a12a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0feb80def4b83d281308ad1caf5a12a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0feb80def4b83d281308ad1caf5a12a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0feb80def4b83d281308ad1caf5a12a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0feb80def4b83d281308ad1caf5a12a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0feb80def4b83d281308ad1caf5a12a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0feb80def4b83d281308ad1caf5a12a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0feb80def4b83d281308ad1caf5a12a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0feb80def4b83d281308ad1caf5a12a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0feb80def4b83d281308ad1caf5a12a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0feb80def4b83d281308ad1caf5a12a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0feb80def4b83d281308ad1caf5a12a1]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1 Entry 11](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1)
+[^c-0feb80def4b83d281308ad1caf5a12a1]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1 Entry 11](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1)

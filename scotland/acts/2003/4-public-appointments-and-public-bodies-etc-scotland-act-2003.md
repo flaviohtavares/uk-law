@@ -32,17 +32,17 @@ Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
 An Act of the Scottish Parliament to establish the office of Commissioner for Public Appointments in Scotland; to make provision in respect of appointments to certain public bodies; to dissolve certain public bodies; to make provision as to certain functions of Health Boards and National Health Service trusts; to make provision as to the functions of the Law Society of Scotland and the Scottish Solicitors' Discipline Tribunal regarding the regulation of conveyancing and executry practitioners and the provision of services by such practitioners; to make modifications in relation to those services, including conferring certain notarial and other functions on such practitioners; to establish the Historic Environment Advisory Council for Scotland; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 5th February 2003 and received Royal Assent on 11th March 2003[^key-df601fefd0dcc03cac6bcf1c4e7a7a36]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 5th February 2003 and received Royal Assent on 11th March 2003[^c-df601fefd0dcc03cac6bcf1c4e7a7a36]
 
 ## Part 1 — The Commissioner for Public Appointments in Scotland
 
-### 1. Commissioner for Public Appointments in Scotland[^key-5e5fde42e007bd1b76341297813d9e5c]
+### 1. Commissioner for Public Appointments in Scotland[^c-5e5fde42e007bd1b76341297813d9e5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Commissioner’s functions[^key-36df6f9785f29d5a164272606d53c970]
+### 2. The Commissioner’s functions[^c-36df6f9785f29d5a164272606d53c970]
 
-(1)[^key-a2a2a4b9b6c82e536fa60eb1e26af2fc][^key-2cc5e07d0f7fabbd7a7088b32bff2810][^key-58f6f773c816f98c087de0f30a0fb90e][^key-2c68106d5a163316d39461ada098f778][^key-634f7dca784567f46b88fb6c21b7bc01][^key-be2dd4a9511b3ea1a6bbb439c297fd4d] The Commissioner for Ethical Standards in Public Life in Scotland[^key-9b942ea313b75c08c112052beb25ef41][^key-8ad83e16994264a20ac33b1ec2b95533] (the “Commissioner”) is to prepare and publish a code of practice in respect of the making by the Scottish Ministers of any appointment or, as the case may be, the making by them of any recommendation for any appointment—
+(1)[^c-a2a2a4b9b6c82e536fa60eb1e26af2fc][^c-2cc5e07d0f7fabbd7a7088b32bff2810][^c-58f6f773c816f98c087de0f30a0fb90e][^c-2c68106d5a163316d39461ada098f778][^c-634f7dca784567f46b88fb6c21b7bc01][^c-be2dd4a9511b3ea1a6bbb439c297fd4d] The Commissioner for Ethical Standards in Public Life in Scotland[^c-9b942ea313b75c08c112052beb25ef41][^c-8ad83e16994264a20ac33b1ec2b95533] (the “Commissioner”) is to prepare and publish a code of practice in respect of the making by the Scottish Ministers of any appointment or, as the case may be, the making by them of any recommendation for any appointment—
 
 - (a) of a person to an office specified in schedule 2; and
 - (b) to a body specified in that schedule (being an appointment of a person to an office of, or as a member of, the body),
@@ -104,7 +104,7 @@ as regards the code.
 
 but, in preparing the strategy or setting targets, the Commissioner must consult the Parliament and the Scottish Ministers.
 
-### 3. The Commissioner’s functions: further provision[^key-a09cb59c0bbe53b81da97d17bce9f667]
+### 3. The Commissioner’s functions: further provision[^c-a09cb59c0bbe53b81da97d17bce9f667]
 
 (1) The Scottish Ministers must provide the Commissioner with such information as the Commissioner reasonably requires in the exercise of the Commissioner’s functions.
 
@@ -117,7 +117,7 @@ but, in preparing the strategy or setting targets, the Commissioner must consult
 
   which they consider appropriate so to confer or remove.
 
-(2A)[^key-a3246bc2940624f2c3eb6aa3b3b01aa5] Before making an order under subsection (2)(b), the Scottish Ministers must consult the Parliamentary corporation.
+(2A)[^c-a3246bc2940624f2c3eb6aa3b3b01aa5] Before making an order under subsection (2)(b), the Scottish Ministers must consult the Parliamentary corporation.
 
 (3) Where—
 
@@ -132,21 +132,21 @@ the Scottish Ministers may by order provide that the office or body is to be tre
 
 ### Dissolution of certain bodies
 
-#### 4. Dissolution of certain bodies[^key-667ce6b736e32e0ab9ec55b31a8236ef]
+#### 4. Dissolution of certain bodies[^c-667ce6b736e32e0ab9ec55b31a8236ef]
 
 The following bodies are dissolved—
 
 - (a) the Ancient Monuments Board for Scotland;
 - (b) the Historic Buildings Council for Scotland;
-- (c)[^key-62884fa090fca9e337dd4b481a002790] the Scottish Hospital Trust;
-- (d)[^key-d188ba7cb28862aadb6cbcccd679408c] the Scottish Medical Practices Committee; and
-- (e)[^key-9df96a5f3366e9e5bc797de3493e7f6c] the Scottish Conveyancing and Executry Services Board.
+- (c)[^c-62884fa090fca9e337dd4b481a002790] the Scottish Hospital Trust;
+- (d)[^c-d188ba7cb28862aadb6cbcccd679408c] the Scottish Medical Practices Committee; and
+- (e)[^c-9df96a5f3366e9e5bc797de3493e7f6c] the Scottish Conveyancing and Executry Services Board.
 
 ### Health Service bodies
 
 #### 5. Property of the Scottish Hospital Trust
 
-(1)[^key-16c48a294c12d605a9467092c22b4593] Any—
+(1)[^c-16c48a294c12d605a9467092c22b4593] Any—
 
 - (a) endowment (and accumulated income thereof) held by the Scottish Hospital Trust by virtue of subsection (3) of section 11 (Scottish Hospital Trust) of the National Health Service (Scotland) Act 1978 (c. 29) (in this Act referred to as the “**1978 Act**”);
 - (b) endowment and other property (and accumulated income thereof) held by it by virtue of paragraph 4(e) to (f) of Schedule 6 (the Hospital Trust) to that Act; and
@@ -154,20 +154,20 @@ The following bodies are dissolved—
 
 (in this section and section 6 referred to as the “**Trust property**”) is transferred to, and vested in, the Health Boards.
 
-(2)[^key-bcd4138c9462d1cd086b763d49964eca] The Scottish Ministers may by regulations make provision for the purposes of or in connection with the transfer and vesting of the Trust property by virtue of subsection (1) and may, in particular, make provision as to how the Trust property is to be divided among different Health Boards, including—
+(2)[^c-bcd4138c9462d1cd086b763d49964eca] The Scottish Ministers may by regulations make provision for the purposes of or in connection with the transfer and vesting of the Trust property by virtue of subsection (1) and may, in particular, make provision as to how the Trust property is to be divided among different Health Boards, including—
 
 - (a) prescribing the method of calculating the capital value of the property and the share of each Health Board in it;
 - (b) providing for any of the Trust property to be realised for value and for the value to be transferred to and vested in the appropriate Health Board in lieu of the property.
 
-(3)[^key-bcd4138c9462d1cd086b763d49964eca] Before making regulations under subsection (2), the Scottish Ministers must consult the Scottish Hospital Trust and all Health Boards and NHS trusts on the proposed regulations.
+(3)[^c-bcd4138c9462d1cd086b763d49964eca] Before making regulations under subsection (2), the Scottish Ministers must consult the Scottish Hospital Trust and all Health Boards and NHS trusts on the proposed regulations.
 
-(4)[^key-bcd4138c9462d1cd086b763d49964eca] Any Trust property (including any value in lieu of the property) which has been transferred to a Health Board by virtue of subsections (1) and (2), may be transferred by the Board to, and vested in, another Health Board, subject to such conditions (including conditions as to the extent of any transfer or of the transfer of any class of property) as the Scottish Ministers may by regulations provide for.
+(4)[^c-bcd4138c9462d1cd086b763d49964eca] Any Trust property (including any value in lieu of the property) which has been transferred to a Health Board by virtue of subsections (1) and (2), may be transferred by the Board to, and vested in, another Health Board, subject to such conditions (including conditions as to the extent of any transfer or of the transfer of any class of property) as the Scottish Ministers may by regulations provide for.
 
-(5)[^key-bcd4138c9462d1cd086b763d49964eca] Where Trust property has been transferred by a Health Board to another Health Board under subsection (4), the other Health Board is (except where, by virtue of a subsequent transfer, the property is held by an NHS trust) to transfer it back to the Health Board which made the transfer within a reasonable time of any requirement for such a transfer as that Health Board may make; and any property so transferred vests in that Health Board.
+(5)[^c-bcd4138c9462d1cd086b763d49964eca] Where Trust property has been transferred by a Health Board to another Health Board under subsection (4), the other Health Board is (except where, by virtue of a subsequent transfer, the property is held by an NHS trust) to transfer it back to the Health Board which made the transfer within a reasonable time of any requirement for such a transfer as that Health Board may make; and any property so transferred vests in that Health Board.
 
-(6)[^key-bcd4138c9462d1cd086b763d49964eca] In this section and sections 6 to 9, the expression “**NHS trust**” is to be construed in accordance with section 108(1) (interpretation) of the 1978 Act.
+(6)[^c-bcd4138c9462d1cd086b763d49964eca] In this section and sections 6 to 9, the expression “**NHS trust**” is to be construed in accordance with section 108(1) (interpretation) of the 1978 Act.
 
-#### 6. Transfer of certain property between Health Boards and NHS trusts[^key-f4f077d488e3ceab4c1a660ba807c773]
+#### 6. Transfer of certain property between Health Boards and NHS trusts[^c-f4f077d488e3ceab4c1a660ba807c773]
 
 (1) Any Trust property (including any value in lieu of the property) which—
 
@@ -182,7 +182,7 @@ may, without prejudice to section 12D (transfer of property, rights and liabilit
 
 #### 7. Investment and borrowing
 
-(1)[^key-42be586a3f090799ab57d4889b54edf4] A Health Board has the following powers—
+(1)[^c-42be586a3f090799ab57d4889b54edf4] A Health Board has the following powers—
 
 - (a) the like powers in relation to its funds as trustees have, in relation to their trust estate, under section 4(1) of the Trusts (Scotland) Act 1921 (c. 58); and
 - (b) power to purchase and lease land and to invest in any security in which trustees are authorised to invest under or in pursuance of the Trusts (Scotland) Act 1921 and the Trustee Investments Act 1961 (c. 62) and—
@@ -190,24 +190,24 @@ may, without prejudice to section 12D (transfer of property, rights and liabilit
   - (ii) to make a narrower-range investment falling within Part II of Schedule 1 to the Trustee Investments Act 1961 without first obtaining advice as required by section 6 of that Act; and
   - (iii) to invest in the units of a unit trust scheme or in participation certificates or in any form of participation under any trust or scheme having the effect of enabling persons to participate in the profits and income arising from the acquisition, holding, management or disposal of securities or of land.
 
-(2)[^key-42be586a3f090799ab57d4889b54edf4] A Health Board must obtain advice on any investment under subsection (1) from a person whom the Board considers to be qualified to give such advice by the person’s ability in, and practical experience of, financial matters; and, where the person is not an officer or employee of the Board, the advice may be given on such terms as the Board and the person may agree to.
+(2)[^c-42be586a3f090799ab57d4889b54edf4] A Health Board must obtain advice on any investment under subsection (1) from a person whom the Board considers to be qualified to give such advice by the person’s ability in, and practical experience of, financial matters; and, where the person is not an officer or employee of the Board, the advice may be given on such terms as the Board and the person may agree to.
 
-(3)[^key-42be586a3f090799ab57d4889b54edf4] A Health Board may borrow from any endowment held by it provided that the endowment does not relate to—
+(3)[^c-42be586a3f090799ab57d4889b54edf4] A Health Board may borrow from any endowment held by it provided that the endowment does not relate to—
 
 - (a) the services provided by another Health Board; or
 - (b) any service which it is the function of an NHS trust to make arrangements for, administer or provide.
 
-(4)[^key-42be586a3f090799ab57d4889b54edf4] A Health Board may make loans to another Health Board from any endowment held by the Board provided that the endowment relates to the services provided by that other Board; and that other Health Board may borrow accordingly.
+(4)[^c-42be586a3f090799ab57d4889b54edf4] A Health Board may make loans to another Health Board from any endowment held by the Board provided that the endowment relates to the services provided by that other Board; and that other Health Board may borrow accordingly.
 
-(5)[^key-42be586a3f090799ab57d4889b54edf4] A Health Board may make loans to any NHS trust from any endowment held by the Board provided that the endowment relates to any service which it is the function of the trust to make arrangements for, administer or provide; and the NHS trust may borrow accordingly.
+(5)[^c-42be586a3f090799ab57d4889b54edf4] A Health Board may make loans to any NHS trust from any endowment held by the Board provided that the endowment relates to any service which it is the function of the trust to make arrangements for, administer or provide; and the NHS trust may borrow accordingly.
 
-(6)[^key-42be586a3f090799ab57d4889b54edf4] An NHS trust may borrow from any endowment held by the trust.
+(6)[^c-42be586a3f090799ab57d4889b54edf4] An NHS trust may borrow from any endowment held by the trust.
 
-(7)[^key-42be586a3f090799ab57d4889b54edf4] Any loans or borrowing under subsections (3) to (6) require the consent of the Scottish Ministers.
+(7)[^c-42be586a3f090799ab57d4889b54edf4] Any loans or borrowing under subsections (3) to (6) require the consent of the Scottish Ministers.
 
-(8)[^key-7c66dec42d078ea9474f165f5a9706f8] The Scottish Ministers may by regulations make provision as to the terms and conditions to apply to any such loans or borrowing.
+(8)[^c-7c66dec42d078ea9474f165f5a9706f8] The Scottish Ministers may by regulations make provision as to the terms and conditions to apply to any such loans or borrowing.
 
-#### 8. Endowment schemes[^key-48ccd9fde323c32d041a24853b5c626d]
+#### 8. Endowment schemes[^c-48ccd9fde323c32d041a24853b5c626d]
 
 (1) The Scottish Ministers are by regulations to make a scheme for the distribution of the income from endowments held by Health Boards and NHS trusts.
 
@@ -218,11 +218,11 @@ may, without prejudice to section 12D (transfer of property, rights and liabilit
 - (a) in so far as it is distributed among Health Boards, to be used by Boards for purposes relating to services provided under the 1978 Act in or in relation to hospitals, or to research into any such matters as are mentioned in section 47(2) of that Act, or for purposes intended to preserve the memory of any person or category of person; and
 - (b) in so far as it is distributed among NHS trusts, to be used by trusts for purposes relating to services which it is their function to make arrangements for, administer or provide.
 
-#### 9. Directions in relation to endowments[^key-063f87bd397bfb369b417f85b94dc16f]
+#### 9. Directions in relation to endowments[^c-063f87bd397bfb369b417f85b94dc16f]
 
 The Scottish Ministers may, without prejudice to section 2(5) of, and paragraph 6(1) of Schedule 7A to, the 1978 Act (which confer powers as to directions), give directions to Health Boards and NHS trusts (either generally or to any particular Board or trust or in any particular case) for the purpose of or in connection with the exercise of their functions as to endowments; and a Board or trust must comply with any such directions given to it.
 
-#### 10. Holding of certain property by NHS trusts and Health Boards[^key-3d7362fbf91617eaf473d464c915c53d]
+#### 10. Holding of certain property by NHS trusts and Health Boards[^c-3d7362fbf91617eaf473d464c915c53d]
 
 (1) In section 12G (trust property of NHS trusts) of the 1978 Act, in subsection (3)(b), after the words “12D” there is inserted “or a request under section 6(1) of the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)”.
 
@@ -240,11 +240,11 @@ The Scottish Ministers may, without prejudice to section 2(5) of, and paragraph 
 
 ### Law Society functions etc. as to certain legal services
 
-#### 11. Property etc. of the Scottish Conveyancing and Executry Services Board[^key-e5e634f04259491593a78a9f6d05ca73]
+#### 11. Property etc. of the Scottish Conveyancing and Executry Services Board[^c-e5e634f04259491593a78a9f6d05ca73]
 
 All property, rights and liabilities of the Scottish Conveyancing and Executry Services Board are transferred to, and vested in, the Scottish Ministers; and any property or rights so transferred may be transferred by the Scottish Ministers to the Law Society of Scotland.
 
-#### 12. Regulation by the Law Society of conveyancing and executry services[^key-b4c509515f08cebde011282136d2f7d8]
+#### 12. Regulation by the Law Society of conveyancing and executry services[^c-b4c509515f08cebde011282136d2f7d8]
 
 In the Solicitors (Scotland) Act 1980 (c. 46) (in this Act referred to as the “**1980 Act**”)—
 
@@ -256,7 +256,7 @@ In the Solicitors (Scotland) Act 1980 (c. 46) (in this Act referred to as the �
 
   .
 
-#### 13. Scottish Solicitors' Discipline Tribunal and certain practitioners[^key-e4903b292ae7fcdede205a2ec90ff8a0]
+#### 13. Scottish Solicitors' Discipline Tribunal and certain practitioners[^c-e4903b292ae7fcdede205a2ec90ff8a0]
 
 In the 1980 Act—
 
@@ -279,7 +279,7 @@ In the 1980 Act—
 
     .
 
-#### 14. Exercise by certain practitioners of notarial and other functions[^key-ae0381da80de34d95503f335b7b1258e]
+#### 14. Exercise by certain practitioners of notarial and other functions[^c-ae0381da80de34d95503f335b7b1258e]
 
 (1) The functions of a notary public specified in subsection (2) may be exercised in any case by an independent conveyancing practitioner instead of a notary public provided that the exercise of any such function by the practitioner is in connection with other conveyancing services being provided by the practitioner in the case.
 
@@ -299,17 +299,17 @@ In the 1980 Act—
 
 ### The Historic Environment Advisory Council for Scotland
 
-#### 15. The Historic Environment Advisory Council for Scotland[^key-3eb76cd8da9dd6f2e032185cf31b235a]
+#### 15. The Historic Environment Advisory Council for Scotland[^c-3eb76cd8da9dd6f2e032185cf31b235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. The Advisory Council’s functions[^key-4b16194d1d2d46c0283c1c254034b933]
+#### 16. The Advisory Council’s functions[^c-4b16194d1d2d46c0283c1c254034b933]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Miscellaneous provision
 
-#### 17. Miscellaneous provision[^key-f97c127ed66137786cd90303b14c43c8][^key-5996e3b2e4be90dc9f3d23aa30c35146][^key-064b0f0f8988565d9063002e9b30f195][^key-eb918507399a6cf144318f6ac8b0486c][^key-84da98ca1602f6dcd3ab76b8e3c480bd][^key-fafa3f12dba0f00f99402d8a580b3cfd]
+#### 17. Miscellaneous provision[^c-f97c127ed66137786cd90303b14c43c8][^c-5996e3b2e4be90dc9f3d23aa30c35146][^c-064b0f0f8988565d9063002e9b30f195][^c-eb918507399a6cf144318f6ac8b0486c][^c-84da98ca1602f6dcd3ab76b8e3c480bd][^c-fafa3f12dba0f00f99402d8a580b3cfd]
 
 Schedule 4 (which makes provision in connection with the dissolution of the bodies mentioned in section 4, makes provision as to the functions of Health Boards, makes provision as to the functions of the Law Society of Scotland and the Scottish Solicitors' Discipline Tribunal in relation to the provision of conveyancing and executry services, makes modifications in relation to those services and makes minor and consequential amendments to enactments) has effect.
 
@@ -344,15 +344,15 @@ is not made unless a draft of the instrument has been laid before, and approved 
 
 The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of or in consequence of this Act.
 
-### 20. Interpretation[^key-832a42a3982963ab283250fae9026e20]
+### 20. Interpretation[^c-832a42a3982963ab283250fae9026e20]
 
 In this Act—
 
 - “**the 1978 Act**” means the National Health Service (Scotland) Act 1978 (c. 29);
 - “**the 1980 Act**” means the Solicitors (Scotland) Act 1980 (c. 46);
 - “**the 1990 Act**” means the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40);
-- [^key-cad0995ef618ec2ba15de5c6c1579845]...
-- “Commissioner” means the Commissioner for Ethical Standards in Public Life in Scotland;[^key-8ab828f71110ea24d2f2b8a880ce90f0]
+- [^c-cad0995ef618ec2ba15de5c6c1579845]...
+- “Commissioner” means the Commissioner for Ethical Standards in Public Life in Scotland;[^c-8ab828f71110ea24d2f2b8a880ce90f0]
 - “**the Parliament**” means the Scottish Parliament;
 - “**the specified authorities**” is to be construed in accordance with section 2.
 
@@ -364,7 +364,7 @@ In this Act—
 
 (3) Different days may be so appointed for different provisions and for different purposes.
 
-## SCHEDULE 1 — The Commissioner[^key-63647049b90f823d9a2b7b2c4f6f5ce5]
+## SCHEDULE 1 — The Commissioner[^c-63647049b90f823d9a2b7b2c4f6f5ce5]
 
 **No longer in force.**
 
@@ -398,134 +398,134 @@ In this Act—
 
 **14.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The specified authorities[^key-c0fc01a7b3671bb720c329770e79558a]
+## SCHEDULE 2 — The specified authorities[^c-c0fc01a7b3671bb720c329770e79558a]
 
 (introduced by section 2)
 
-### Offices[^key-c0fc01a7b3671bb720c329770e79558a]
+### Offices[^c-c0fc01a7b3671bb720c329770e79558a]
 
-- The chairing member of the board of management of a college of further education which is designated as a regional college by order under section 7A of the Further and Higher Education (Scotland) Act 2005[^key-1948b8d307d40cc84afb8bf4b54ab9b3]
+- The chairing member of the board of management of a college of further education which is designated as a regional college by order under section 7A of the Further and Higher Education (Scotland) Act 2005[^c-1948b8d307d40cc84afb8bf4b54ab9b3]
 - The chairing member of a regional board established by or in pursuance of section 7B of that Act
-- Chairperson of the Police Negotiating Board for Scotland[^key-b92bb1094cf4a9596522ec6b12e28f44]
-- [^key-f3d22d1226cf63da7236e53709d95851]...
-- [^key-ff60aaa635f9bbd017e22a58ce3442ea]...
-- the Convener of the School Closure Review Panels[^key-47df27741a01ab9ba4b3aeace7206f75]
-- a non-executive director of the Scottish National Investment Bank p.l.c.[^key-1580dba1ec59fd0b55ebd42f753301a1]
+- Chairperson of the Police Negotiating Board for Scotland[^c-b92bb1094cf4a9596522ec6b12e28f44]
+- [^c-f3d22d1226cf63da7236e53709d95851]...
+- [^c-ff60aaa635f9bbd017e22a58ce3442ea]...
+- the Convener of the School Closure Review Panels[^c-47df27741a01ab9ba4b3aeace7206f75]
+- a non-executive director of the Scottish National Investment Bank p.l.c.[^c-1580dba1ec59fd0b55ebd42f753301a1]
 
-### Executive bodies[^key-c0fc01a7b3671bb720c329770e79558a]
+### Executive bodies[^c-c0fc01a7b3671bb720c329770e79558a]
 
 - Accounts Commission for Scotland
-- Architecture and Design Scotland[^key-daa8f5ac6efcf4d6af7e39203ba8be25]
+- Architecture and Design Scotland[^c-daa8f5ac6efcf4d6af7e39203ba8be25]
 - Bòrd na Gàidhlig[^M_F_6717533d-fa23-4024-f06f-d365dbd960f8]
-- Children’s Hearings Scotland[^key-0faa3c7d3233d38417d711523a72b9d7]
-- Community Justice Scotland[^key-f745ee614fe3a2c51a793fe273215a97]
-- Consumer Scotland[^key-76c45de7e491f851b74956f7fc01a091]
+- Children’s Hearings Scotland[^c-0faa3c7d3233d38417d711523a72b9d7]
+- Community Justice Scotland[^c-f745ee614fe3a2c51a793fe273215a97]
+- Consumer Scotland[^c-76c45de7e491f851b74956f7fc01a091]
 - Creative Scotland[^M_F_c8fb94bd-42fc-4865-8336-eb076556a3ef]
 - Crofters Commission
-- Environmental Standards Scotland[^key-62781608f6f43955f10652099d24a6e6]
-- Food Standards Scotland[^key-406bd06ddec30f6b69230c64730f7aab]
-- [^key-7648721ebe013a583d8cdccf2084f5ac]...
+- Environmental Standards Scotland[^c-62781608f6f43955f10652099d24a6e6]
+- Food Standards Scotland[^c-406bd06ddec30f6b69230c64730f7aab]
+- [^c-7648721ebe013a583d8cdccf2084f5ac]...
 - Highlands & Islands Enterprise
-- Historic Environment Scotland[^key-50c9763cb9e0a7e4b67a8d544f376aaa]
-- ILF Scotland[^key-c9e7f0d9265ed6fc45297d0b3202823b]
+- Historic Environment Scotland[^c-50c9763cb9e0a7e4b67a8d544f376aaa]
+- ILF Scotland[^c-c9e7f0d9265ed6fc45297d0b3202823b]
 - Learning & Teaching Scotland
 - National Galleries of Scotland
 - National Library of Scotland
 - National Museums of Scotland
-- any National Park authority (except in respect of nominated members, as defined in paragraph 3(7) of schedule 1 to the National Parks (Scotland) Act 2000)[^key-a5b2173d2173d98676bbf2c3328c6fd9]
-- [^key-fe5f46eb51a973131b767ec76c7842ca]...
-- Qualifications Scotland[^key-d375db12575c5ef6cbdee347ba087a3a]
-- Quality Meat Scotland[^key-a267ff1a27d2c5759c1fabe9c5b0d3b8]
-- Revenue Scotland[^key-315426080cc823806378b6425454abfb]
-- Risk Management Authority[^key-10fd490840493764b86f915f19a889e5]
+- any National Park authority (except in respect of nominated members, as defined in paragraph 3(7) of schedule 1 to the National Parks (Scotland) Act 2000)[^c-a5b2173d2173d98676bbf2c3328c6fd9]
+- [^c-fe5f46eb51a973131b767ec76c7842ca]...
+- Qualifications Scotland[^c-d375db12575c5ef6cbdee347ba087a3a]
+- Quality Meat Scotland[^c-a267ff1a27d2c5759c1fabe9c5b0d3b8]
+- Revenue Scotland[^c-315426080cc823806378b6425454abfb]
+- Risk Management Authority[^c-10fd490840493764b86f915f19a889e5]
 - Royal Botanic Garden, Edinburgh
-- [^key-b45871864bb7488f96734b63662bb7a9]...
+- [^c-b45871864bb7488f96734b63662bb7a9]...
 - Scottish Agricultural Wages Board
-- [^key-89cd0c9d059d1f8cfe0213854f6d0926]...
-- Scottish Charity Regulator[^key-4fa78534cd500eb66ade2d6f40181742]
+- [^c-89cd0c9d059d1f8cfe0213854f6d0926]...
+- Scottish Charity Regulator[^c-4fa78534cd500eb66ade2d6f40181742]
 - Scottish Children’s Reporter Administration
-- [^key-fab18134dc29c0eed5c327545108d9c2]...
+- [^c-fab18134dc29c0eed5c327545108d9c2]...
 - Scottish Criminal Cases Review Commission
 - Scottish Enterprise
 - Scottish Environment Protection Agency
-- Scottish Fire and Rescue Service[^key-c4973102625d125e26a75c75405d1bed]
-- Scottish Fiscal Commission[^key-2721eebb7098305fa21d0491319b9e03]
-- The Scottish Food Commission[^key-ec71226fa83a79283ed75342753e3752]
-- Scottish Further and Higher Education Funding Council[^key-5533cf7bdf6ca20818a86c4e4e3f8ec0]
-- Scottish Housing Regulator[^key-be623ddb8cc432bdad5980be6c5bbddc]
-- [^key-88c6d60709be35f2fde704dbe079e432]...
-- [^key-88c6d60709be35f2fde704dbe079e432]...
-- [^key-cacb907acd8a94b816895fce271ba363]...
+- Scottish Fire and Rescue Service[^c-c4973102625d125e26a75c75405d1bed]
+- Scottish Fiscal Commission[^c-2721eebb7098305fa21d0491319b9e03]
+- The Scottish Food Commission[^c-ec71226fa83a79283ed75342753e3752]
+- Scottish Further and Higher Education Funding Council[^c-5533cf7bdf6ca20818a86c4e4e3f8ec0]
+- Scottish Housing Regulator[^c-be623ddb8cc432bdad5980be6c5bbddc]
+- [^c-88c6d60709be35f2fde704dbe079e432]...
+- [^c-88c6d60709be35f2fde704dbe079e432]...
+- [^c-cacb907acd8a94b816895fce271ba363]...
 - Scottish Legal Aid Board
-- Scottish Legal Complaints Commission[^key-b47497af153b19d73b20ce45f968628d]
+- Scottish Legal Complaints Commission[^c-b47497af153b19d73b20ce45f968628d]
 - Scottish Natural Heritage
-- Scottish Police Authority[^key-d8b5d8480cf9e58c0532292bda94f17c]
-- [^key-3151d0730b0cddb5d79c67e075122be8]...
-- [^key-92e7127d5f21efdcc206e8fbcb707a5a]...
-- [^key-6b71c1b34b55485484d02686a8b058a1]...
+- Scottish Police Authority[^c-d8b5d8480cf9e58c0532292bda94f17c]
+- [^c-3151d0730b0cddb5d79c67e075122be8]...
+- [^c-92e7127d5f21efdcc206e8fbcb707a5a]...
+- [^c-6b71c1b34b55485484d02686a8b058a1]...
 - Scottish Social Services Council
 - Scottish Sports Council
-- [^key-4bd9aded5d394d698e8f3253335d5676]...
+- [^c-4bd9aded5d394d698e8f3253335d5676]...
 - Scottish University for Industry
-- The Skills Development Scotland[^key-51d00c461f574029b2a0191818de1d13] Co. Limited
-- Social Care and Social Work Improvement Scotland[^key-330cf8e471f07728af40e668cc49f783]
-- South of Scotland Enterprise[^key-fb77ea5a029fd9c3125605fdaf39c826]
-- VisitScotland[^key-b26c9498873e23d3daff0c82880fd5bd]
-- Water Industry Commission for Scotland[^key-411f825c969b47d2b5fe165f52904207]
-- Zero Waste Scotland[^key-0fa1b3591221c2899a4ae37d98fa532a]
+- The Skills Development Scotland[^c-51d00c461f574029b2a0191818de1d13] Co. Limited
+- Social Care and Social Work Improvement Scotland[^c-330cf8e471f07728af40e668cc49f783]
+- South of Scotland Enterprise[^c-fb77ea5a029fd9c3125605fdaf39c826]
+- VisitScotland[^c-b26c9498873e23d3daff0c82880fd5bd]
+- Water Industry Commission for Scotland[^c-411f825c969b47d2b5fe165f52904207]
+- Zero Waste Scotland[^c-0fa1b3591221c2899a4ae37d98fa532a]
 
-### Advisory bodies[^key-c0fc01a7b3671bb720c329770e79558a]
+### Advisory bodies[^c-c0fc01a7b3671bb720c329770e79558a]
 
-- [^key-5f5b41212ba04d037c7a205623a44e31]...
-- [^key-6ebfe85e677ad459fc1da9a7e6a6ee76]...
-- [^key-5418c962a21ee464602790620577e596]...
-- [^key-851f085fc5c4738d458341e9ff51e276]...
-- [^key-692343d7af8bddf294dd4b770e0ba830]...
-- [^key-4a421620fc5cd75aa43043600860d315]...
-- [^key-39019e09500ae11a024a5e59929ba18c]...
-- [^key-46fe12b996f7d60afca1bbc513a19aa4]...
-- [^key-e8d02c31492caff3d54ff3127ddc0f6e]...
-- Boundaries Scotland[^key-77d038584d4c341b5f50942071e5cf12]
-- Judicial Appointments Board for Scotland[^key-8fdb2727d2740ce19268ff6b16115847]
-- [^key-810a4e0e025863586dfd09aa39f8d818]...
+- [^c-5f5b41212ba04d037c7a205623a44e31]...
+- [^c-6ebfe85e677ad459fc1da9a7e6a6ee76]...
+- [^c-5418c962a21ee464602790620577e596]...
+- [^c-851f085fc5c4738d458341e9ff51e276]...
+- [^c-692343d7af8bddf294dd4b770e0ba830]...
+- [^c-4a421620fc5cd75aa43043600860d315]...
+- [^c-39019e09500ae11a024a5e59929ba18c]...
+- [^c-46fe12b996f7d60afca1bbc513a19aa4]...
+- [^c-e8d02c31492caff3d54ff3127ddc0f6e]...
+- Boundaries Scotland[^c-77d038584d4c341b5f50942071e5cf12]
+- Judicial Appointments Board for Scotland[^c-8fdb2727d2740ce19268ff6b16115847]
+- [^c-810a4e0e025863586dfd09aa39f8d818]...
 - Mobility and Access Committee for Scotland
-- Public Transport Users' Committee for Scotland[^key-0f1135422d1bf9c6b56d42585e56f8ef]
-- Scottish Fuel Poverty Advisory Panel[^key-47b14825b338bf21b1cc37faad899382]
-- [^key-851f085fc5c4738d458341e9ff51e276]...
+- Public Transport Users' Committee for Scotland[^c-0f1135422d1bf9c6b56d42585e56f8ef]
+- Scottish Fuel Poverty Advisory Panel[^c-47b14825b338bf21b1cc37faad899382]
+- [^c-851f085fc5c4738d458341e9ff51e276]...
 - [^M_F_b688b2ec-d2f4-4855-e287-dc255b21b22d]...
-- [^key-f6a5380764ef9c5dd09b00c7398ab239]...
-- [^key-a8a07412645c28ea312e86a842f4b4b8]...
-- Scottish Land Commission[^key-68de8032181e06917c4fbc6ad946f760]
+- [^c-f6a5380764ef9c5dd09b00c7398ab239]...
+- [^c-a8a07412645c28ea312e86a842f4b4b8]...
+- Scottish Land Commission[^c-68de8032181e06917c4fbc6ad946f760]
 - Scottish Law Commission
-- Scottish Local Authorities Remuneration Committee[^key-3501102a6ed63ba3af29140fbc57af2d]
-- [^key-fa2a8fca6850769bdeb3034dd391eb04]...
+- Scottish Local Authorities Remuneration Committee[^c-3501102a6ed63ba3af29140fbc57af2d]
+- [^c-fa2a8fca6850769bdeb3034dd391eb04]...
 
-### ...[^key-c0fc01a7b3671bb720c329770e79558a][^key-7f04ce8d7d6b5b97f1c6f97e18130237]
+### ...[^c-c0fc01a7b3671bb720c329770e79558a][^c-7f04ce8d7d6b5b97f1c6f97e18130237]
 
-- [^key-f7a4535a71d094f35279862a0c3b0141]...
-- [^key-1050b92a8e92bd76cdb3a00f69c1dc2c]...
-- [^key-df119c0df288d2fbf84d89c5c2f06bac]...
+- [^c-f7a4535a71d094f35279862a0c3b0141]...
+- [^c-1050b92a8e92bd76cdb3a00f69c1dc2c]...
+- [^c-df119c0df288d2fbf84d89c5c2f06bac]...
 
-### Public corporations[^key-c0fc01a7b3671bb720c329770e79558a]
+### Public corporations[^c-c0fc01a7b3671bb720c329770e79558a]
 
-Caledonian Maritime Assets Ltd[^key-7023815b6145b14cdacc53f755bd24a3]
+Caledonian Maritime Assets Ltd[^c-7023815b6145b14cdacc53f755bd24a3]
 
-David MacBrayne Ltd[^key-d042823519be964cee3588f387083462]
+David MacBrayne Ltd[^c-d042823519be964cee3588f387083462]
 
-Highlands and Islands Airports Ltd[^key-b67190a3b2f1004dcd5fc57f02773fbf]
+Highlands and Islands Airports Ltd[^c-b67190a3b2f1004dcd5fc57f02773fbf]
 
-Scottish Futures Trust Ltd[^key-31a7a9fb46491d67bc3ae9bae5f64e97]
+Scottish Futures Trust Ltd[^c-31a7a9fb46491d67bc3ae9bae5f64e97]
 
 Scottish Water
 
-### National Health Service bodies[^key-c0fc01a7b3671bb720c329770e79558a]
+### National Health Service bodies[^c-c0fc01a7b3671bb720c329770e79558a]
 
-- [^key-9b9b9152268e28249d966375915b62f2]...
-- Common Services Agency for the Scottish Health Service[^key-20336ec653d395d5f6393973868f10fa] , but Part 1 does not apply in relation to the appointment of a member by the Scottish Ministers made under Schedule 5 to the National Health Service (Scotland) Act 1978 by virtue of the member being—[^key-79e181d99d4f03b16fcc7db0a31bdefc]
+- [^c-9b9b9152268e28249d966375915b62f2]...
+- Common Services Agency for the Scottish Health Service[^c-20336ec653d395d5f6393973868f10fa] , but Part 1 does not apply in relation to the appointment of a member by the Scottish Ministers made under Schedule 5 to the National Health Service (Scotland) Act 1978 by virtue of the member being—[^c-79e181d99d4f03b16fcc7db0a31bdefc]
   - (a) employed as an officer of the Common Services Agency for the Scottish Health Service,
   - (b) a member of a body set up by the Common Services Agency for the Scottish Health Service which represents health care professionals, or
   - (c) a member of a body set up by the Common Services Agency for the Scottish Health Service which represents Common Services Agency for the Scottish Health Service employees.
-- any Health Board , but Part 1 does not apply in relation to appointments made under Schedule 1 to the National Health Service (Scotland) Act 1978 of the following persons to a Health Board—[^key-a1e8f91e7a69baa282ef2587e27b24ed]
+- any Health Board , but Part 1 does not apply in relation to appointments made under Schedule 1 to the National Health Service (Scotland) Act 1978 of the following persons to a Health Board—[^c-a1e8f91e7a69baa282ef2587e27b24ed]
   - (a) councillors appointed by the Scottish Ministers following nomination by local authorities in the area of the Health Board;
   - (b) a member appointed by the Scottish Ministers by virtue of the member—
     - (i) holding a post in a university with a medical or dental school,
@@ -533,24 +533,24 @@ Scottish Water
     - (iii) being a member of a body set up by a Health Board which represents health care professionals working in the Health Board area,
     - (iv) being a member of a body set up by a Health Board which represents Health Board employees, or
     - (v) being a member of a community health partnership established by virtue of section 4A of the National Health Service (Scotland) Act 1978.
-- Healthcare Improvement Scotland[^key-15447340c9f97054697c491bc8f37ce5]
+- Healthcare Improvement Scotland[^c-15447340c9f97054697c491bc8f37ce5]
 - Mental Welfare Commission for Scotland
-- [^key-9b9b9152268e28249d966375915b62f2]...
-- any Special Health Board , but Part 1 does not apply in relation to the appointment of a member by the Scottish Ministers made under Schedule 1 to the National Health Service (Scotland) Act 1978, as applied to each Special Health Board by virtue of the member being—[^key-40e2140141776303bdaa331d8feb9d34]
+- [^c-9b9b9152268e28249d966375915b62f2]...
+- any Special Health Board , but Part 1 does not apply in relation to the appointment of a member by the Scottish Ministers made under Schedule 1 to the National Health Service (Scotland) Act 1978, as applied to each Special Health Board by virtue of the member being—[^c-40e2140141776303bdaa331d8feb9d34]
   - (i) employed as an officer of the Special Health Board,
   - (ii) a member of a body set up by a Special Health Board which represents health care professionals, or
-  - (iii) a member of a body set up by a Special Health Board which represents Special Health Board employees; [^key-3c718395552a702748483fdd01e64fdb]...
-  - (iv) [^key-3c718395552a702748483fdd01e64fdb]... or[^key-ef1f465048f418e9d83e4de766d0989e]
+  - (iii) a member of a body set up by a Special Health Board which represents Special Health Board employees; [^c-3c718395552a702748483fdd01e64fdb]...
+  - (iv) [^c-3c718395552a702748483fdd01e64fdb]... or[^c-ef1f465048f418e9d83e4de766d0989e]
   - (v) a councillor appointed as a member of the board of Public Health Scotland following nomination by the Convention of Scottish Local Authorities.
 
-### Other Public Bodies[^key-11652d9ef24c1a659e6db4aa8db79c9d]
+### Other Public Bodies[^c-11652d9ef24c1a659e6db4aa8db79c9d]
 
-- Crown Estate Scotland[^key-74496b4073f1a7b8cc576622e900ada6][^key-5f564767175e626d363e6a1217f002de]
-- [^key-ade1748d41fde200de48da4f5bf6ba0b]...
-- Poverty and Inequality Commission[^key-f7722e28523ebad4e4b4e693c231040a]
-- Scottish Commission on Social Security[^key-8dee7b43db8ae70d6c9e844b0bde2985]
+- Crown Estate Scotland[^c-74496b4073f1a7b8cc576622e900ada6][^c-5f564767175e626d363e6a1217f002de]
+- [^c-ade1748d41fde200de48da4f5bf6ba0b]...
+- Poverty and Inequality Commission[^c-f7722e28523ebad4e4b4e693c231040a]
+- Scottish Commission on Social Security[^c-8dee7b43db8ae70d6c9e844b0bde2985]
 
-## SCHEDULE 3 — The Advisory Council[^key-28cdad844cc084450760df8dbccf3e1e]
+## SCHEDULE 3 — The Advisory Council[^c-28cdad844cc084450760df8dbccf3e1e]
 
 **No longer in force.**
 
@@ -576,9 +576,9 @@ Scottish Water
 
 (introduced by section 17)
 
-**1.**[^key-0f9b130ce10d69f563392230c82ccc77] In section 2 (petition to Commissary to be substituted) of the Confirmation of Executors (Scotland) Act 1858, the words “or a recognised financial institution providing executry services” are repealed.
+**1.**[^c-0f9b130ce10d69f563392230c82ccc77] In section 2 (petition to Commissary to be substituted) of the Confirmation of Executors (Scotland) Act 1858, the words “or a recognised financial institution providing executry services” are repealed.
 
-**2.**[^key-10d0c7252f6bf78dede637b99d654ee8] In the Historic Buildings and Ancient Monuments Act 1953—
+**2.**[^c-10d0c7252f6bf78dede637b99d654ee8] In the Historic Buildings and Ancient Monuments Act 1953—
 
 - (a) section 2 (Historic Buildings Council for Scotland) is repealed except in so far as it applies, by virtue of section 3(3) of that Act, to the Historic Buildings Council for Wales;
 - (b) in section 3(3) (Historic Buildings Council for Wales), for the words from “apply” in the second place where it appears to the end there is substituted “applied to the Historic Buildings Council for Scotland immediately before the coming into force of paragraph 2(a) of schedule 4 to the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)”; and
@@ -588,57 +588,57 @@ Scottish Water
 
 **3.** In the House of Commons Disqualification Act 1975, in Part II of Schedule 1(offices disqualifying for membership)—
 
-- (a)[^key-d8ab9065b903a25eb95aadb09f21a8d1] in the entry relating to Medical Practices Committees, the words from “or” to the end are repealed; and
-- (b)[^key-b7c5501bfdc1b460832feb9d2d20816e] the entry relating to the Scottish Conveyancing and Executry Services Board is repealed.
+- (a)[^c-d8ab9065b903a25eb95aadb09f21a8d1] in the entry relating to Medical Practices Committees, the words from “or” to the end are repealed; and
+- (b)[^c-b7c5501bfdc1b460832feb9d2d20816e] the entry relating to the Scottish Conveyancing and Executry Services Board is repealed.
 
-**4.**[^key-22649cad01eba8158fcd63915f25d7a2] In the Race Relations Act 1976, in Part II of Schedule 1A (bodies and other persons subject to general statutory duty), the paragraphs relating to—
+**4.**[^c-22649cad01eba8158fcd63915f25d7a2] In the Race Relations Act 1976, in Part II of Schedule 1A (bodies and other persons subject to general statutory duty), the paragraphs relating to—
 
 - (a) the Ancient Monuments Board for Scotland;
 - (b) the Historic Buildings Council for Scotland;
-- (c)[^key-cafa7b7701697786b3f4fbc74333754d] the Scottish Hospital Trust;
-- (d)[^key-64aa06a544a3f7e0eb88dc2811304dc6] the Scottish Medical Practices Committee; and
-- (e)[^key-513cc89223db46b141f9ea9f8a608403] the Scottish Conveyancing and Executry Services Board,
+- (c)[^c-cafa7b7701697786b3f4fbc74333754d] the Scottish Hospital Trust;
+- (d)[^c-64aa06a544a3f7e0eb88dc2811304dc6] the Scottish Medical Practices Committee; and
+- (e)[^c-513cc89223db46b141f9ea9f8a608403] the Scottish Conveyancing and Executry Services Board,
 
 are repealed.
 
 **5.** (1) The 1978 Act is amended in accordance with this paragraph.
 
-(2)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] Section 3 is repealed.
+(2)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] Section 3 is repealed.
 
-(3)[^key-ff071428510eae38036c0994dfe40798] Section 11 is repealed.
+(3)[^c-ff071428510eae38036c0994dfe40798] Section 11 is repealed.
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e1d684681fe5e55241dd34a3dbf66c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] Section 24 is repealed.
+(10)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] Section 24 is repealed.
 
-(11)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] In section 77 (default powers), paragraph (b) of subsection (1) is repealed.
+(11)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] In section 77 (default powers), paragraph (b) of subsection (1) is repealed.
 
-(12)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] In section 85 (expenses of certain bodies), paragraph (c) of subsection (1) is repealed.
+(12)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] In section 85 (expenses of certain bodies), paragraph (c) of subsection (1) is repealed.
 
-(13)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] In section 88 (payments to members of certain bodies)—
+(13)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] In section 88 (payments to members of certain bodies)—
 
 - (a) in subsection (1), paragraph (a) is repealed; and
 - (b) in subsection (2), paragraph (a) is repealed.
 
-(14)[^key-dc7c47f627d779d9dd5e282b35e1cd53] In section 108(1)(interpretation), the entries relating to the Hospital Trust and the Medical Practices Committee are repealed.
+(14)[^c-dc7c47f627d779d9dd5e282b35e1cd53] In section 108(1)(interpretation), the entries relating to the Hospital Trust and the Medical Practices Committee are repealed.
 
-(15)[^key-0cd72e1aad1418dbd524185ed0b547b6] In Schedule 1 (health boards), paragraphs 16 and 17 are repealed.
+(15)[^c-0cd72e1aad1418dbd524185ed0b547b6] In Schedule 1 (health boards), paragraphs 16 and 17 are repealed.
 
-(16)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] Schedule 2 is repealed.
+(16)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] Schedule 2 is repealed.
 
-(17)[^key-ff071428510eae38036c0994dfe40798] Schedule 6 is repealed.
+(17)[^c-ff071428510eae38036c0994dfe40798] Schedule 6 is repealed.
 
-(18)[^key-23d3cfb0cdcfc93d913d50b7e2b441fe] In Schedule 9 (additional provisions as to prohibition of sale of medical practices), in paragraph 1—
+(18)[^c-23d3cfb0cdcfc93d913d50b7e2b441fe] In Schedule 9 (additional provisions as to prohibition of sale of medical practices), in paragraph 1—
 
 - (a) in sub-paragraph (2), for the words “Medical Practices Committee” there is substituted “ Health Board which has arrangements with the practitioners of the medical practice for the provision by them of general medical services ”;
 - (b) in sub-paragraph (3)—
@@ -648,7 +648,7 @@ are repealed.
 - (d) in sub-paragraph (6), for the word “Committee” there is substituted “ Board ”; and
 - (e) in sub-paragraph (7), for the words “The Medical Practices Committee” there is substituted “ A Health Board ”.
 
-**6.**[^key-a00d3c7fd8fbdff571897e91ee82a831] In the Ancient Monuments and Archaeological Areas Act 1979—
+**6.**[^c-a00d3c7fd8fbdff571897e91ee82a831] In the Ancient Monuments and Archaeological Areas Act 1979—
 
 - (a) in section 22 (Ancient Monuments Boards)—
   - (i) in subsection (1), paragraph (b) and the word “and” immediately following it are repealed;
@@ -659,7 +659,7 @@ are repealed.
   - (ii) the word “each” in the first place where it appears is repealed; and
   - (iii) for the words “them” and “their” there is substituted “it” and “its” respectively.
 
-**7.**[^key-ed9918ae658373a8c70984d700cd869a] In section 32 (offence for unqualified persons to prepare certain documents) of the 1980 Act, in subsection (2A), for the words “qualified conveyancer” there is substituted . “conveyancing practitioner”
+**7.**[^c-ed9918ae658373a8c70984d700cd869a] In section 32 (offence for unqualified persons to prepare certain documents) of the 1980 Act, in subsection (2A), for the words “qualified conveyancer” there is substituted . “conveyancing practitioner”
 
 **Not yet in force.**
 
@@ -670,19 +670,19 @@ are repealed.
 
 are repealed.
 
-**9.**[^key-63c27362e3d584d350e63dfc8977b0d6] In section 43A (application of Act to services provided under the 1990 Act) of the Legal Aid (Scotland) Act 1986, in subsection (1)—
+**9.**[^c-63c27362e3d584d350e63dfc8977b0d6] In section 43A (application of Act to services provided under the 1990 Act) of the Legal Aid (Scotland) Act 1986, in subsection (1)—
 
 - (a) the words “and recognised financial institutions” are repealed; and
 - (b) for the words “qualified conveyancers” there is substituted “ conveyancing practitioners ”.
 
-**10.**[^key-b5e38461f5ff06a1f941789c938d2c48] In the Electricity Act 1989, in paragraph 4(2) of Schedule 9 (preservation of amenity and fisheries), the words from “, the” to “Scotland” in the second place where it appears are repealed.
+**10.**[^c-b5e38461f5ff06a1f941789c938d2c48] In the Electricity Act 1989, in paragraph 4(2) of Schedule 9 (preservation of amenity and fisheries), the words from “, the” to “Scotland” in the second place where it appears are repealed.
 
 **11.** In the National Health Service and Community Care Act 1990—
 
-- (a)[^key-cd39a440f4cd0a1b42b3134df12b4b64] in section 39 (distribution of general medical services), subsection (7) is repealed; and
+- (a)[^c-cd39a440f4cd0a1b42b3134df12b4b64] in section 39 (distribution of general medical services), subsection (7) is repealed; and
 - (b) in Schedule 9 (minor and consequential amendments), sub-paragraphs (2) and (24) of paragraph 19 are repealed.
 
-**12.**[^key-cf3cbfdd06fa222d0a224e50fbb3e812] (1) The 1990 Act is amended in accordance with this paragraph.
+**12.**[^c-cf3cbfdd06fa222d0a224e50fbb3e812] (1) The 1990 Act is amended in accordance with this paragraph.
 
 (2) For section 16 (the Scottish Conveyancing and Executry Services Board) there is substituted—
 
@@ -1079,13 +1079,13 @@ are repealed.
 
 (16) Schedule 1 (Scottish Conveyancing and Executry Services Board) is repealed.
 
-**13.**[^key-5808cab07867e38bf8c4229769a41fcd] In the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997—
+**13.**[^c-5808cab07867e38bf8c4229769a41fcd] In the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997—
 
 - (a) in section 69 (grants and loans for preservation and enhancement of conservation areas), subsections (4) to (6) are repealed;
 - (b) in section 71 (town scheme agreements), subsection (2) is repealed; and
 - (c) in section 72 (grants for repairing of buildings in town schemes), subsection (3) is repealed.
 
-**14.**[^key-02dc01baf650ff3f42becf2a6851b78d] In the National Health Service (Primary Care) Act 1997—
+**14.**[^c-02dc01baf650ff3f42becf2a6851b78d] In the National Health Service (Primary Care) Act 1997—
 
 - (a) in section 5 (approval of pilot schemes), subsection (5) is repealed.
 - (b) in section 33 (medical lists and vacancies: Scotland), subsection (2) is repealed;
@@ -1103,32 +1103,32 @@ are repealed.
 
 **15.** In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies) the entries relating to—
 
-- (a)[^key-a208e99305f7000dc40b3489a45ed29e] the Scottish Medical Practices Committee; and
-- (b)[^key-ee0d3b0ebc4cfd00647364d0950ac3a3] the Scottish Conveyancing and Executry Services Board,
+- (a)[^c-a208e99305f7000dc40b3489a45ed29e] the Scottish Medical Practices Committee; and
+- (b)[^c-ee0d3b0ebc4cfd00647364d0950ac3a3] the Scottish Conveyancing and Executry Services Board,
 
 are repealed.
 
 **16.** In the Scottish Public Services Ombudsman Act 2002, in Part 2 of schedule 2 (listed authorities)—
 
-- (a)[^key-be9526887023d52abe95e76f48e80004] the paragraph relating to the Scottish Medical Practices Committee is repealed; [^key-ec7036ab94529050b7c82ff2c6d0657d]...
-- (b) [^key-ec7036ab94529050b7c82ff2c6d0657d]...
+- (a)[^c-be9526887023d52abe95e76f48e80004] the paragraph relating to the Scottish Medical Practices Committee is repealed; [^c-ec7036ab94529050b7c82ff2c6d0657d]...
+- (b) [^c-ec7036ab94529050b7c82ff2c6d0657d]...
 
 **17.** In the Freedom of Information (Scotland) Act 2002, in schedule 1 (Scottish public authorities)—
 
 - (a) in Part 4, the paragraphs relating to—
-  - (i)[^key-f905da6f6ad2cd34dd217f0362afb77b] the Scottish Hospital Trust; and
-  - (ii)[^key-41281999ec2571464998402424f88d7d] the Scottish Medical Practices Committee,
+  - (i)[^c-f905da6f6ad2cd34dd217f0362afb77b] the Scottish Hospital Trust; and
+  - (ii)[^c-41281999ec2571464998402424f88d7d] the Scottish Medical Practices Committee,
 
   are repealed;
 - (b) in Part 7, the paragraphs relating to—
   - (i) the Ancient Monuments Board for Scotland;
   - (ii) the Historic Buildings Council for Scotland; and
-  - (iii)[^key-e018edb152a1c09ab3139df89f6be2bb] the Scottish Conveyancing and Executry Services Board,
+  - (iii)[^c-e018edb152a1c09ab3139df89f6be2bb] the Scottish Conveyancing and Executry Services Board,
 
   are repealed; and
 - (c) in that Part—
-  - (i)[^key-ff03438540b2794a9476717c5edbbb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (...)[^key-b389d02012bc26bea261c48674f158dc][^key-ff03438540b2794a9476717c5edbbb9c] after paragraph 67 there is inserted—
+  - (i)[^c-ff03438540b2794a9476717c5edbbb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (...)[^c-b389d02012bc26bea261c48674f158dc][^c-ff03438540b2794a9476717c5edbbb9c] after paragraph 67 there is inserted—
 
     > **67A.** The Historic Environment Advisory Council for Scotland.
 
@@ -1136,324 +1136,324 @@ are repealed.
 
 ## Annotations
 
-[^key-df601fefd0dcc03cac6bcf1c4e7a7a36]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/4): transfer of functions (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 2(2)](https://www.legislation.gov.uk/asp/2010/11/section/2/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-df601fefd0dcc03cac6bcf1c4e7a7a36]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/4): transfer of functions (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 2(2)](https://www.legislation.gov.uk/asp/2010/11/section/2/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-5e5fde42e007bd1b76341297813d9e5c]: Textual amendment: S. 1 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-5e5fde42e007bd1b76341297813d9e5c]: Textual amendment: S. 1 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-36df6f9785f29d5a164272606d53c970]: Commencement: S. 2 in force at 1.6.2004 by [S.S.I. 2004/232](https://www.legislation.gov.uk/ssi/2004/232), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/232/article/2/a)
+[^c-36df6f9785f29d5a164272606d53c970]: Commencement: S. 2 in force at 1.6.2004 by [S.S.I. 2004/232](https://www.legislation.gov.uk/ssi/2004/232), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/232/article/2/a)
 
-[^key-a2a2a4b9b6c82e536fa60eb1e26af2fc]: Modification: S. 2(1) extended (1.6.2006) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Office or Body as Specified Authority) Order 2006 (S.S.I. 2006/303)](https://www.legislation.gov.uk/ssi/2006/303), [arts. 1](https://www.legislation.gov.uk/ssi/2006/303/article/1), [2](https://www.legislation.gov.uk/ssi/2006/303/article/2)
+[^c-a2a2a4b9b6c82e536fa60eb1e26af2fc]: Modification: S. 2(1) extended (1.6.2006) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Office or Body as Specified Authority) Order 2006 (S.S.I. 2006/303)](https://www.legislation.gov.uk/ssi/2006/303), [arts. 1](https://www.legislation.gov.uk/ssi/2006/303/article/1), [2](https://www.legislation.gov.uk/ssi/2006/303/article/2)
 
-[^key-2cc5e07d0f7fabbd7a7088b32bff2810]: Modification: S. 2(1) modified (14.1.2016) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Community Justice Scotland as Specified Authority) Order 2016 (S.S.I. 2016/20)](https://www.legislation.gov.uk/ssi/2016/20), [arts. 1](https://www.legislation.gov.uk/ssi/2016/20/article/1), [4](https://www.legislation.gov.uk/ssi/2016/20/article/4)
+[^c-2cc5e07d0f7fabbd7a7088b32bff2810]: Modification: S. 2(1) modified (14.1.2016) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Community Justice Scotland as Specified Authority) Order 2016 (S.S.I. 2016/20)](https://www.legislation.gov.uk/ssi/2016/20), [arts. 1](https://www.legislation.gov.uk/ssi/2016/20/article/1), [4](https://www.legislation.gov.uk/ssi/2016/20/article/4)
 
-[^key-58f6f773c816f98c087de0f30a0fb90e]: Modification: S. 2(1) modified (6.10.2016) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Crown Estate Scotland (Interim Management) as Specified Authority) Order 2016 (S.S.I. 2016/311)](https://www.legislation.gov.uk/ssi/2016/311), [arts. 1](https://www.legislation.gov.uk/ssi/2016/311/paragraph/1), [2](https://www.legislation.gov.uk/ssi/2016/311/paragraph/2)
+[^c-58f6f773c816f98c087de0f30a0fb90e]: Modification: S. 2(1) modified (6.10.2016) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Crown Estate Scotland (Interim Management) as Specified Authority) Order 2016 (S.S.I. 2016/311)](https://www.legislation.gov.uk/ssi/2016/311), [arts. 1](https://www.legislation.gov.uk/ssi/2016/311/paragraph/1), [2](https://www.legislation.gov.uk/ssi/2016/311/paragraph/2)
 
-[^key-2c68106d5a163316d39461ada098f778]: Modification: S. 2(1) modified (24.3.2019) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of South of Scotland Enterprise as Specified Authority) Order 2019 (S.S.I. 2019/184)](https://www.legislation.gov.uk/ssi/2019/184), [arts. 1](https://www.legislation.gov.uk/ssi/2019/184/article/1), [2](https://www.legislation.gov.uk/ssi/2019/184/article/2)
+[^c-2c68106d5a163316d39461ada098f778]: Modification: S. 2(1) modified (24.3.2019) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of South of Scotland Enterprise as Specified Authority) Order 2019 (S.S.I. 2019/184)](https://www.legislation.gov.uk/ssi/2019/184), [arts. 1](https://www.legislation.gov.uk/ssi/2019/184/article/1), [2](https://www.legislation.gov.uk/ssi/2019/184/article/2)
 
-[^key-634f7dca784567f46b88fb6c21b7bc01]: Modification: S. 2(1) modified (2.4.2020) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Consumer Scotland as Specified Authority) Order 2020 (S.S.I. 2020/109)](https://www.legislation.gov.uk/ssi/2020/109), [arts. 1](https://www.legislation.gov.uk/ssi/2020/109/article/1), [2](https://www.legislation.gov.uk/ssi/2020/109/article/2)
+[^c-634f7dca784567f46b88fb6c21b7bc01]: Modification: S. 2(1) modified (2.4.2020) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Consumer Scotland as Specified Authority) Order 2020 (S.S.I. 2020/109)](https://www.legislation.gov.uk/ssi/2020/109), [arts. 1](https://www.legislation.gov.uk/ssi/2020/109/article/1), [2](https://www.legislation.gov.uk/ssi/2020/109/article/2)
 
-[^key-be2dd4a9511b3ea1a6bbb439c297fd4d]: Modification: [S. 2(1)](https://www.legislation.gov.uk/asp/2003/4/section/2/1) modified (11.7.2020) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Non-executive Directors of the Scottish National Investment Bank p.l.c. as Specified Authorities) Order 2020 (S.S.I. 2020/212)](https://www.legislation.gov.uk/ssi/2020/212), [arts. 1](https://www.legislation.gov.uk/ssi/2020/212/article/1), [2](https://www.legislation.gov.uk/ssi/2020/212/article/2)
+[^c-be2dd4a9511b3ea1a6bbb439c297fd4d]: Modification: [S. 2(1)](https://www.legislation.gov.uk/asp/2003/4/section/2/1) modified (11.7.2020) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Non-executive Directors of the Scottish National Investment Bank p.l.c. as Specified Authorities) Order 2020 (S.S.I. 2020/212)](https://www.legislation.gov.uk/ssi/2020/212), [arts. 1](https://www.legislation.gov.uk/ssi/2020/212/article/1), [2](https://www.legislation.gov.uk/ssi/2020/212/article/2)
 
-[^key-9b942ea313b75c08c112052beb25ef41]: Textual amendment: Words in s. 2(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 16(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/16/a) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-9b942ea313b75c08c112052beb25ef41]: Textual amendment: Words in s. 2(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 16(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/16/a) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-8ad83e16994264a20ac33b1ec2b95533]: Textual amendment: Words in s. 2(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 16](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/16) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-8ad83e16994264a20ac33b1ec2b95533]: Textual amendment: Words in s. 2(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 16](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/16) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-a09cb59c0bbe53b81da97d17bce9f667]: Commencement: S. 3 in force at 1.6.2004 by [S.S.I. 2004/232](https://www.legislation.gov.uk/ssi/2004/232), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/232/article/2/a)
+[^c-a09cb59c0bbe53b81da97d17bce9f667]: Commencement: S. 3 in force at 1.6.2004 by [S.S.I. 2004/232](https://www.legislation.gov.uk/ssi/2004/232), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/232/article/2/a)
 
-[^key-a3246bc2940624f2c3eb6aa3b3b01aa5]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/asp/2003/4/section/3/2A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(9)](https://www.legislation.gov.uk/asp/2010/11/section/29/9), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-a3246bc2940624f2c3eb6aa3b3b01aa5]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/asp/2003/4/section/3/2A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(9)](https://www.legislation.gov.uk/asp/2010/11/section/29/9), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-667ce6b736e32e0ab9ec55b31a8236ef]: Commencement: S. 4(a)(b) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/a)
+[^c-667ce6b736e32e0ab9ec55b31a8236ef]: Commencement: S. 4(a)(b) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/a)
 
-[^key-62884fa090fca9e337dd4b481a002790]: Commencement: [S. 4(c)](https://www.legislation.gov.uk/asp/2003/4/section/4/c) in force at 6.5.2004 by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/198/article/2/a)
+[^c-62884fa090fca9e337dd4b481a002790]: Commencement: [S. 4(c)](https://www.legislation.gov.uk/asp/2003/4/section/4/c) in force at 6.5.2004 by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/198/article/2/a)
 
-[^key-d188ba7cb28862aadb6cbcccd679408c]: Commencement: [S. 4(d)](https://www.legislation.gov.uk/asp/2003/4/section/4/d) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/148/article/2/a)
+[^c-d188ba7cb28862aadb6cbcccd679408c]: Commencement: [S. 4(d)](https://www.legislation.gov.uk/asp/2003/4/section/4/d) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(a)](https://www.legislation.gov.uk/ssi/2004/148/article/2/a)
 
-[^key-9df96a5f3366e9e5bc797de3493e7f6c]: Commencement: [S. 4(e)](https://www.legislation.gov.uk/asp/2003/4/section/4/e) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-9df96a5f3366e9e5bc797de3493e7f6c]: Commencement: [S. 4(e)](https://www.legislation.gov.uk/asp/2003/4/section/4/e) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
-[^key-16c48a294c12d605a9467092c22b4593]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2003/4/section/5/1) in force at 12.2.2004 for specified purposes and 31.3.2004 in so far as not already in force by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(3)](https://www.legislation.gov.uk/ssi/2003/602/article/2/3) (as substituted (2.2.2004) by S.S.I. 2004/45, art. 2(2))
+[^c-16c48a294c12d605a9467092c22b4593]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2003/4/section/5/1) in force at 12.2.2004 for specified purposes and 31.3.2004 in so far as not already in force by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(3)](https://www.legislation.gov.uk/ssi/2003/602/article/2/3) (as substituted (2.2.2004) by S.S.I. 2004/45, art. 2(2))
 
-[^key-bcd4138c9462d1cd086b763d49964eca]: Commencement: [S. 5(2)-(6)](https://www.legislation.gov.uk/asp/2003/4/section/5/2) in force at 1.1.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/602/article/2/1)
+[^c-bcd4138c9462d1cd086b763d49964eca]: Commencement: [S. 5(2)-(6)](https://www.legislation.gov.uk/asp/2003/4/section/5/2) in force at 1.1.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/602/article/2/1)
 
-[^key-f4f077d488e3ceab4c1a660ba807c773]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2003/4/section/6) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(a)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/a)
+[^c-f4f077d488e3ceab4c1a660ba807c773]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2003/4/section/6) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(a)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/a)
 
-[^key-42be586a3f090799ab57d4889b54edf4]: Commencement: [S. 7(1)-(7)](https://www.legislation.gov.uk/asp/2003/4/section/7/1) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(b)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/b)
+[^c-42be586a3f090799ab57d4889b54edf4]: Commencement: [S. 7(1)-(7)](https://www.legislation.gov.uk/asp/2003/4/section/7/1) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(b)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/b)
 
-[^key-7c66dec42d078ea9474f165f5a9706f8]: Commencement: [S. 7(8)](https://www.legislation.gov.uk/asp/2003/4/section/7/8) in force at 1.1.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/602/article/2/1)
+[^c-7c66dec42d078ea9474f165f5a9706f8]: Commencement: [S. 7(8)](https://www.legislation.gov.uk/asp/2003/4/section/7/8) in force at 1.1.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/602/article/2/1)
 
-[^key-48ccd9fde323c32d041a24853b5c626d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2003/4/section/8) in force at 1.1.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/602/article/2/1)
+[^c-48ccd9fde323c32d041a24853b5c626d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2003/4/section/8) in force at 1.1.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/602/article/2/1)
 
-[^key-063f87bd397bfb369b417f85b94dc16f]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2003/4/section/9) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(c)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/c)
+[^c-063f87bd397bfb369b417f85b94dc16f]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2003/4/section/9) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(c)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/c)
 
-[^key-3d7362fbf91617eaf473d464c915c53d]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2003/4/section/10) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(c)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/c)
+[^c-3d7362fbf91617eaf473d464c915c53d]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2003/4/section/10) in force at 12.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(4)(c)](https://www.legislation.gov.uk/ssi/2003/602/article/2/4/c)
 
-[^key-e5e634f04259491593a78a9f6d05ca73]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2003/4/section/11) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-e5e634f04259491593a78a9f6d05ca73]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2003/4/section/11) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
-[^key-b4c509515f08cebde011282136d2f7d8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2003/4/section/12) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-b4c509515f08cebde011282136d2f7d8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2003/4/section/12) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
-[^key-e4903b292ae7fcdede205a2ec90ff8a0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2003/4/section/13) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-e4903b292ae7fcdede205a2ec90ff8a0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2003/4/section/13) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
-[^key-ae0381da80de34d95503f335b7b1258e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2003/4/section/14) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
+[^c-ae0381da80de34d95503f335b7b1258e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2003/4/section/14) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/384/article/2/a)
 
-[^key-3eb76cd8da9dd6f2e032185cf31b235a]: Textual amendment: S. 15 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-3eb76cd8da9dd6f2e032185cf31b235a]: Textual amendment: S. 15 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-4b16194d1d2d46c0283c1c254034b933]: Textual amendment: S. 16 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-4b16194d1d2d46c0283c1c254034b933]: Textual amendment: S. 16 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-f97c127ed66137786cd90303b14c43c8]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 31.5.2003 for specified purposes by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/b)
+[^c-f97c127ed66137786cd90303b14c43c8]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 31.5.2003 for specified purposes by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/b)
 
-[^key-5996e3b2e4be90dc9f3d23aa30c35146]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 1.6.2003 for specified purposes by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2003/219/article/2/2/b)
+[^c-5996e3b2e4be90dc9f3d23aa30c35146]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 1.6.2003 for specified purposes by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2003/219/article/2/2/b)
 
-[^key-064b0f0f8988565d9063002e9b30f195]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 15.8.2003 for specified purposes by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/384/article/2/b)
+[^c-064b0f0f8988565d9063002e9b30f195]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 15.8.2003 for specified purposes by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(b)](https://www.legislation.gov.uk/ssi/2003/384/article/2/b)
 
-[^key-eb918507399a6cf144318f6ac8b0486c]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 6.2.2004 for specified purposes by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(2)](https://www.legislation.gov.uk/ssi/2003/602/article/2/2)
+[^c-eb918507399a6cf144318f6ac8b0486c]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 6.2.2004 for specified purposes by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(2)](https://www.legislation.gov.uk/ssi/2003/602/article/2/2)
 
-[^key-84da98ca1602f6dcd3ab76b8e3c480bd]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 1.4.2004 for specified purposes by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/148/article/2/b)
+[^c-84da98ca1602f6dcd3ab76b8e3c480bd]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 1.4.2004 for specified purposes by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/148/article/2/b)
 
-[^key-fafa3f12dba0f00f99402d8a580b3cfd]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 6.5.2004 for specified purposes by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/198/article/2/b)
+[^c-fafa3f12dba0f00f99402d8a580b3cfd]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2003/4/section/17) in force at 6.5.2004 for specified purposes by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/198/article/2/b)
 
-[^key-832a42a3982963ab283250fae9026e20]: Commencement: S. 20 in force at 15.8.2003 for specified purposes by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/384/article/2/c)
+[^c-832a42a3982963ab283250fae9026e20]: Commencement: S. 20 in force at 15.8.2003 for specified purposes by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/384/article/2/c)
 
-[^key-cad0995ef618ec2ba15de5c6c1579845]: Textual amendment: Words in s. 20 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(c)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-cad0995ef618ec2ba15de5c6c1579845]: Textual amendment: Words in s. 20 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(c)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-8ab828f71110ea24d2f2b8a880ce90f0]: Textual amendment: Words in [s. 20](https://www.legislation.gov.uk/asp/2003/4/section/20) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 16(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/16/b) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-8ab828f71110ea24d2f2b8a880ce90f0]: Textual amendment: Words in [s. 20](https://www.legislation.gov.uk/asp/2003/4/section/20) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 16(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/16/b) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-63647049b90f823d9a2b7b2c4f6f5ce5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/asp/2003/4/schedule/1) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-63647049b90f823d9a2b7b2c4f6f5ce5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/asp/2003/4/schedule/1) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-c0fc01a7b3671bb720c329770e79558a]: Commencement: Sch. 2 in force at 1.6.2004 by [S.S.I. 2004/232](https://www.legislation.gov.uk/ssi/2004/232), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/232/article/2/b)
+[^c-c0fc01a7b3671bb720c329770e79558a]: Commencement: Sch. 2 in force at 1.6.2004 by [S.S.I. 2004/232](https://www.legislation.gov.uk/ssi/2004/232), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/232/article/2/b)
 
-[^key-1948b8d307d40cc84afb8bf4b54ab9b3]: Textual amendment: Words in sch. 2 inserted (3.3.2014 for specified purposes, 1.5.2014 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 7](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/7); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-1948b8d307d40cc84afb8bf4b54ab9b3]: Textual amendment: Words in sch. 2 inserted (3.3.2014 for specified purposes, 1.5.2014 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 7](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/7); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-b92bb1094cf4a9596522ec6b12e28f44]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (9.3.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 114(1)(b)](https://www.legislation.gov.uk/asp/2016/1/section/114/1/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(d)](https://www.legislation.gov.uk/ssi/2023/49/article/2/d)
+[^c-b92bb1094cf4a9596522ec6b12e28f44]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (9.3.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 114(1)(b)](https://www.legislation.gov.uk/asp/2016/1/section/114/1/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(d)](https://www.legislation.gov.uk/ssi/2023/49/article/2/d)
 
-[^key-f3d22d1226cf63da7236e53709d95851]: Textual amendment: Words in sch. 2 repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 10](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/10) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+[^c-f3d22d1226cf63da7236e53709d95851]: Textual amendment: Words in sch. 2 repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 10](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/10) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
 
-[^key-ff60aaa635f9bbd017e22a58ce3442ea]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) repealed (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/3/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-ff60aaa635f9bbd017e22a58ce3442ea]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) repealed (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/3/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-47df27741a01ab9ba4b3aeace7206f75]: Textual amendment: Words in sch. 2 inserted (9.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(12)](https://www.legislation.gov.uk/asp/2014/8/section/81/12), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
+[^c-47df27741a01ab9ba4b3aeace7206f75]: Textual amendment: Words in sch. 2 inserted (9.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(12)](https://www.legislation.gov.uk/asp/2014/8/section/81/12), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
 
-[^key-1580dba1ec59fd0b55ebd42f753301a1]: Textual amendment: Words in sch. 2 inserted (16.9.2020) by [Scottish National Investment Bank Act 2020 (asp 3)](https://www.legislation.gov.uk/asp/2020/3), [s. 35(2)](https://www.legislation.gov.uk/asp/2020/3/section/35/2), [sch. para. 3](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/3); [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+[^c-1580dba1ec59fd0b55ebd42f753301a1]: Textual amendment: Words in sch. 2 inserted (16.9.2020) by [Scottish National Investment Bank Act 2020 (asp 3)](https://www.legislation.gov.uk/asp/2020/3), [s. 35(2)](https://www.legislation.gov.uk/asp/2020/3/section/35/2), [sch. para. 3](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/3); [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
 
-[^key-daa8f5ac6efcf4d6af7e39203ba8be25]: Textual amendment: Words in sch. 2 inserted (22.3.2011) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) (No. 2) Order 2011 (S.S.I. 2011/236)](https://www.legislation.gov.uk/ssi/2011/236), [arts. 1](https://www.legislation.gov.uk/ssi/2011/236/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/236/article/2/2/a)
+[^c-daa8f5ac6efcf4d6af7e39203ba8be25]: Textual amendment: Words in sch. 2 inserted (22.3.2011) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) (No. 2) Order 2011 (S.S.I. 2011/236)](https://www.legislation.gov.uk/ssi/2011/236), [arts. 1](https://www.legislation.gov.uk/ssi/2011/236/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2011/236/article/2/2/a)
 
 [^M_F_6717533d-fa23-4024-f06f-d365dbd960f8]: Textual amendment: Words in sch. 2 inserted (13.2.2006) by [Gaelic Language (Scotland) Act 2005 (asp 7)](https://www.legislation.gov.uk/asp/2005/7), [s. 13(2)](https://www.legislation.gov.uk/asp/2005/7/section/13/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2005/7/schedule/2/paragraph/4); [S.S.I. 2006/31](https://www.legislation.gov.uk/ssi/2006/31), [art. 2](https://www.legislation.gov.uk/ssi/2006/31/article/2)
 
-[^key-0faa3c7d3233d38417d711523a72b9d7]: Textual amendment: Words in sch. 2 inserted (18.4.2011) by [The Childrens Hearings (Scotland) Act 2011 (Consequential Provision) and Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2011 (S.S.I. 2011/186)](https://www.legislation.gov.uk/ssi/2011/186), [arts. 1](https://www.legislation.gov.uk/ssi/2011/186/article/1), [3](https://www.legislation.gov.uk/ssi/2011/186/article/3)
+[^c-0faa3c7d3233d38417d711523a72b9d7]: Textual amendment: Words in sch. 2 inserted (18.4.2011) by [The Childrens Hearings (Scotland) Act 2011 (Consequential Provision) and Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2011 (S.S.I. 2011/186)](https://www.legislation.gov.uk/ssi/2011/186), [arts. 1](https://www.legislation.gov.uk/ssi/2011/186/article/1), [3](https://www.legislation.gov.uk/ssi/2011/186/article/3)
 
-[^key-f745ee614fe3a2c51a793fe273215a97]: Textual amendment: Words in sch. 2 inserted (1.4.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 1 para. 14(4)](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14/4); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-f745ee614fe3a2c51a793fe273215a97]: Textual amendment: Words in sch. 2 inserted (1.4.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 1 para. 14(4)](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14/4); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-76c45de7e491f851b74956f7fc01a091]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.4.2022) by [Consumer Scotland Act 2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11), [s. 29(2)](https://www.legislation.gov.uk/asp/2020/11/section/29/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/4); [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-76c45de7e491f851b74956f7fc01a091]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.4.2022) by [Consumer Scotland Act 2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11), [s. 29(2)](https://www.legislation.gov.uk/asp/2020/11/section/29/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/4); [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
 [^M_F_c8fb94bd-42fc-4865-8336-eb076556a3ef]: Textual amendment: Words in sch. 2 inserted (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 4(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/4/a); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
 
-[^key-62781608f6f43955f10652099d24a6e6]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.10.2021) by [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4)](https://www.legislation.gov.uk/asp/2021/4), [s. 51(2)](https://www.legislation.gov.uk/asp/2021/4/section/51/2), [sch. 1 para. 15(3)](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15/3) (with [s. 48(2)](https://www.legislation.gov.uk/asp/2021/4/section/48/2)); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-62781608f6f43955f10652099d24a6e6]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.10.2021) by [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4)](https://www.legislation.gov.uk/asp/2021/4), [s. 51(2)](https://www.legislation.gov.uk/asp/2021/4/section/51/2), [sch. 1 para. 15(3)](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15/3) (with [s. 48(2)](https://www.legislation.gov.uk/asp/2021/4/section/48/2)); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-406bd06ddec30f6b69230c64730f7aab]: Textual amendment: Words in sch. 2 inserted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 17(4)](https://www.legislation.gov.uk/asp/2015/1/section/17/4), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-406bd06ddec30f6b69230c64730f7aab]: Textual amendment: Words in sch. 2 inserted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 17(4)](https://www.legislation.gov.uk/asp/2015/1/section/17/4), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-7648721ebe013a583d8cdccf2084f5ac]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 1 para. 31](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/31); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-7648721ebe013a583d8cdccf2084f5ac]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 1 para. 31](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/31); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-50c9763cb9e0a7e4b67a8d544f376aaa]: Textual amendment: Words in sch. 2 inserted (27.2.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 6 para. 4(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/4/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-50c9763cb9e0a7e4b67a8d544f376aaa]: Textual amendment: Words in sch. 2 inserted (27.2.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 6 para. 4(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/4/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-c9e7f0d9265ed6fc45297d0b3202823b]: Textual amendment: Words in sch. 2 inserted (28.6.2018) by [The ILF Scotland (Miscellaneous Listings) Order 2018 (S.S.I. 2018/214)](https://www.legislation.gov.uk/ssi/2018/214), [arts. 1](https://www.legislation.gov.uk/ssi/2018/214/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/214/article/3/2)
+[^c-c9e7f0d9265ed6fc45297d0b3202823b]: Textual amendment: Words in sch. 2 inserted (28.6.2018) by [The ILF Scotland (Miscellaneous Listings) Order 2018 (S.S.I. 2018/214)](https://www.legislation.gov.uk/ssi/2018/214), [arts. 1](https://www.legislation.gov.uk/ssi/2018/214/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2018/214/article/3/2)
 
-[^key-a5b2173d2173d98676bbf2c3328c6fd9]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/b)
+[^c-a5b2173d2173d98676bbf2c3328c6fd9]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/b)
 
-[^key-fe5f46eb51a973131b767ec76c7842ca]: Textual amendment: Words in sch. 2 omitted (26.10.2005) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2005/540/article/2/3/b)
+[^c-fe5f46eb51a973131b767ec76c7842ca]: Textual amendment: Words in sch. 2 omitted (26.10.2005) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2005/540/article/2/3/b)
 
-[^key-d375db12575c5ef6cbdee347ba087a3a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.12.2025) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/4/2/a); [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)
+[^c-d375db12575c5ef6cbdee347ba087a3a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.12.2025) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/4/2/a); [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)
 
-[^key-a267ff1a27d2c5759c1fabe9c5b0d3b8]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/a/i)
+[^c-a267ff1a27d2c5759c1fabe9c5b0d3b8]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/a/i)
 
-[^key-315426080cc823806378b6425454abfb]: Textual amendment: Words in sch. 2 inserted (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [sch. 4 para. 6](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/6) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-315426080cc823806378b6425454abfb]: Textual amendment: Words in sch. 2 inserted (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [sch. 4 para. 6](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/6) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-10fd490840493764b86f915f19a889e5]: Textual amendment: Words in sch. 2 inserted (26.10.2005) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2005/540/article/2/3/a)
+[^c-10fd490840493764b86f915f19a889e5]: Textual amendment: Words in sch. 2 inserted (26.10.2005) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2005/540/article/2/3/a)
 
-[^key-b45871864bb7488f96734b63662bb7a9]: Textual amendment: Words in sch. 2 repealed (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 6 para. 4(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/4/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-b45871864bb7488f96734b63662bb7a9]: Textual amendment: Words in sch. 2 repealed (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 6 para. 4(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/4/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
 
-[^key-89cd0c9d059d1f8cfe0213854f6d0926]: Textual amendment: Words in sch. 2 repealed (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 4(b)(i)](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/4/b/i); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-89cd0c9d059d1f8cfe0213854f6d0926]: Textual amendment: Words in sch. 2 repealed (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 4(b)(i)](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/4/b/i); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
 
-[^key-4fa78534cd500eb66ade2d6f40181742]: Textual amendment: Words in sch. 2 inserted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 4 para. 14](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/14); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-4fa78534cd500eb66ade2d6f40181742]: Textual amendment: Words in sch. 2 inserted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 4 para. 14](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/14); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-fab18134dc29c0eed5c327545108d9c2]: Textual amendment: Sch. 2 entry repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 12(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/12/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); S.S.I. 2011/122, art. 2, sch.
+[^c-fab18134dc29c0eed5c327545108d9c2]: Textual amendment: Sch. 2 entry repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 12(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/12/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); S.S.I. 2011/122, art. 2, sch.
 
-[^key-c4973102625d125e26a75c75405d1bed]: Textual amendment: Words in sch. 2 inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 65](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/65); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-c4973102625d125e26a75c75405d1bed]: Textual amendment: Words in sch. 2 inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 65](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/65); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-2721eebb7098305fa21d0491319b9e03]: Textual amendment: Words in sch. 2 inserted (1.4.2017) by [Scottish Fiscal Commission Act 2016 (asp 17)](https://www.legislation.gov.uk/asp/2016/17), [ss. 29(3)](https://www.legislation.gov.uk/asp/2016/17/section/29/3), [31(2)](https://www.legislation.gov.uk/asp/2016/17/section/31/2); [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+[^c-2721eebb7098305fa21d0491319b9e03]: Textual amendment: Words in sch. 2 inserted (1.4.2017) by [Scottish Fiscal Commission Act 2016 (asp 17)](https://www.legislation.gov.uk/asp/2016/17), [ss. 29(3)](https://www.legislation.gov.uk/asp/2016/17/section/29/3), [31(2)](https://www.legislation.gov.uk/asp/2016/17/section/31/2); [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
 
-[^key-ec71226fa83a79283ed75342753e3752]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (15.2.2024) by [Good Food Nation (Scotland) Act 2022 (asp 5)](https://www.legislation.gov.uk/asp/2022/5), [s. 28(2)](https://www.legislation.gov.uk/asp/2022/5/section/28/2), [sch. para. 21(3)](https://www.legislation.gov.uk/asp/2022/5/schedule/paragraph/21/3); [S.S.I. 2024/29](https://www.legislation.gov.uk/ssi/2024/29), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/29/schedule/1)
+[^c-ec71226fa83a79283ed75342753e3752]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (15.2.2024) by [Good Food Nation (Scotland) Act 2022 (asp 5)](https://www.legislation.gov.uk/asp/2022/5), [s. 28(2)](https://www.legislation.gov.uk/asp/2022/5/section/28/2), [sch. para. 21(3)](https://www.legislation.gov.uk/asp/2022/5/schedule/paragraph/21/3); [S.S.I. 2024/29](https://www.legislation.gov.uk/ssi/2024/29), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/29/schedule/1)
 
-[^key-5533cf7bdf6ca20818a86c4e4e3f8ec0]: Textual amendment: Words in sch. 2 inserted (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 13(a)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/13/a); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-5533cf7bdf6ca20818a86c4e4e3f8ec0]: Textual amendment: Words in sch. 2 inserted (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 13(a)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/13/a); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-be623ddb8cc432bdad5980be6c5bbddc]: Textual amendment: Words in sch. 2 inserted (1.4.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 10](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/10); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-be623ddb8cc432bdad5980be6c5bbddc]: Textual amendment: Words in sch. 2 inserted (1.4.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 10](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/10); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-88c6d60709be35f2fde704dbe079e432]: Textual amendment: Words in sch. 2 repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 13(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/13/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-88c6d60709be35f2fde704dbe079e432]: Textual amendment: Words in sch. 2 repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 13(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/13/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-cacb907acd8a94b816895fce271ba363]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/c)
+[^c-cacb907acd8a94b816895fce271ba363]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/c)
 
-[^key-b47497af153b19d73b20ce45f968628d]: Textual amendment: Words in sch. 2 inserted (23.11.2007) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [sch. 5 para. 6](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/6) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2007/497](https://www.legislation.gov.uk/ssi/2007/497), [art. 2(f)](https://www.legislation.gov.uk/ssi/2007/497/article/2/f)
+[^c-b47497af153b19d73b20ce45f968628d]: Textual amendment: Words in sch. 2 inserted (23.11.2007) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [s. 82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [sch. 5 para. 6](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/6) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2007/497](https://www.legislation.gov.uk/ssi/2007/497), [art. 2(f)](https://www.legislation.gov.uk/ssi/2007/497/article/2/f)
 
-[^key-d8b5d8480cf9e58c0532292bda94f17c]: Textual amendment: Words in sch. 2 inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/a), [sch. 1 para. 16](https://www.legislation.gov.uk/asp/2012/8/schedule/1/paragraph/16)
+[^c-d8b5d8480cf9e58c0532292bda94f17c]: Textual amendment: Words in sch. 2 inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/a), [sch. 1 para. 16](https://www.legislation.gov.uk/asp/2012/8/schedule/1/paragraph/16)
 
-[^key-3151d0730b0cddb5d79c67e075122be8]: Textual amendment: Words in sch. 2 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-3151d0730b0cddb5d79c67e075122be8]: Textual amendment: Words in sch. 2 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-92e7127d5f21efdcc206e8fbcb707a5a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) repealed (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/4/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-92e7127d5f21efdcc206e8fbcb707a5a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) repealed (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/4/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-6b71c1b34b55485484d02686a8b058a1]: Textual amendment: Words in sch. 2 repealed (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 4(b)(ii)](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/4/b/ii); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-6b71c1b34b55485484d02686a8b058a1]: Textual amendment: Words in sch. 2 repealed (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 4(b)(ii)](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/4/b/ii); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
 
-[^key-4bd9aded5d394d698e8f3253335d5676]: Textual amendment: Words in sch. 2 repealed (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [s. 5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/9/a); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-4bd9aded5d394d698e8f3253335d5676]: Textual amendment: Words in sch. 2 repealed (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [s. 5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/9/a); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-51d00c461f574029b2a0191818de1d13]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/a/ii)
+[^c-51d00c461f574029b2a0191818de1d13]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2008/348/article/2/2/a/ii)
 
-[^key-330cf8e471f07728af40e668cc49f783]: Textual amendment: Words in sch. 2 inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 12(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/12/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); S.S.I. 2011/122, art. 2, sch.
+[^c-330cf8e471f07728af40e668cc49f783]: Textual amendment: Words in sch. 2 inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 12(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/12/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); S.S.I. 2011/122, art. 2, sch.
 
-[^key-fb77ea5a029fd9c3125605fdaf39c826]: Textual amendment: Words in sch. 2 inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/4); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-fb77ea5a029fd9c3125605fdaf39c826]: Textual amendment: Words in sch. 2 inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/4); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-b26c9498873e23d3daff0c82880fd5bd]: Textual amendment: Word in sch. 2 inserted (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [s. 5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [sch. 2 para. 9(b)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/9/b); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+[^c-b26c9498873e23d3daff0c82880fd5bd]: Textual amendment: Word in sch. 2 inserted (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [s. 5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [sch. 2 para. 9(b)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/9/b); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
 
-[^key-411f825c969b47d2b5fe165f52904207]: Textual amendment: Words in sch. 2 inserted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 10](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/10) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+[^c-411f825c969b47d2b5fe165f52904207]: Textual amendment: Words in sch. 2 inserted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 10](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/10) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
 
-[^key-0fa1b3591221c2899a4ae37d98fa532a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [s. 27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2), [sch. para. 3(2)](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/3/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-0fa1b3591221c2899a4ae37d98fa532a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/2) inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [s. 27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2), [sch. para. 3(2)](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/3/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
 
-[^key-5f5b41212ba04d037c7a205623a44e31]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/8/section/2/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-5f5b41212ba04d037c7a205623a44e31]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/8/section/2/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-6ebfe85e677ad459fc1da9a7e6a6ee76]: Textual amendment: Words in sch. 2 omitted (22.3.2011) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) (No. 2) Order 2011 (S.S.I. 2011/236)](https://www.legislation.gov.uk/ssi/2011/236), [arts. 1](https://www.legislation.gov.uk/ssi/2011/236/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/236/article/2/2/b)
+[^c-6ebfe85e677ad459fc1da9a7e6a6ee76]: Textual amendment: Words in sch. 2 omitted (22.3.2011) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) (No. 2) Order 2011 (S.S.I. 2011/236)](https://www.legislation.gov.uk/ssi/2011/236), [arts. 1](https://www.legislation.gov.uk/ssi/2011/236/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2011/236/article/2/2/b)
 
-[^key-5418c962a21ee464602790620577e596]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(3)](https://www.legislation.gov.uk/asp/2010/8/section/6/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-5418c962a21ee464602790620577e596]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(3)](https://www.legislation.gov.uk/asp/2010/8/section/6/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-851f085fc5c4738d458341e9ff51e276]: Textual amendment: Words in sch. 2 omitted (26.10.2005) by virtue of [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2005/540/article/2/4/b)
+[^c-851f085fc5c4738d458341e9ff51e276]: Textual amendment: Words in sch. 2 omitted (26.10.2005) by virtue of [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2005/540/article/2/4/b)
 
-[^key-692343d7af8bddf294dd4b770e0ba830]: Textual amendment: Words in sch. 2 omitted (1.10.2010) by virtue of [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2010/29/section/46/4), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-692343d7af8bddf294dd4b770e0ba830]: Textual amendment: Words in sch. 2 omitted (1.10.2010) by virtue of [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2010/29/section/46/4), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-4a421620fc5cd75aa43043600860d315]: Textual amendment: Words in sch. 2 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-4a421620fc5cd75aa43043600860d315]: Textual amendment: Words in sch. 2 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
-[^key-39019e09500ae11a024a5e59929ba18c]: Textual amendment: Words in sch. 2 repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 173](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/173), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-39019e09500ae11a024a5e59929ba18c]: Textual amendment: Words in sch. 2 repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 173](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/173), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-46fe12b996f7d60afca1bbc513a19aa4]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(d)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-46fe12b996f7d60afca1bbc513a19aa4]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(d)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-e8d02c31492caff3d54ff3127ddc0f6e]: Textual amendment: Words in sch. 2 repealed (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [s. 84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [sch. para. 29](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/29); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended (27.11.2007) by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527), art. 2(6)(c))
+[^c-e8d02c31492caff3d54ff3127ddc0f6e]: Textual amendment: Words in sch. 2 repealed (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [s. 84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [sch. para. 29](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/29); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended (27.11.2007) by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527), art. 2(6)(c))
 
-[^key-77d038584d4c341b5f50942071e5cf12]: Textual amendment: Words in sch. 2 inserted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 6(a)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/6/a); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-77d038584d4c341b5f50942071e5cf12]: Textual amendment: Words in sch. 2 inserted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 6(a)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/6/a); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-8fdb2727d2740ce19268ff6b16115847]: Textual amendment: Words in sch. 2 inserted (1.6.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [s. 76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1), [sch. 1 para. 18(1)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/18/1); [S.S.I. 2009/192](https://www.legislation.gov.uk/ssi/2009/192), [art. 2](https://www.legislation.gov.uk/ssi/2009/192/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/192/schedule)
+[^c-8fdb2727d2740ce19268ff6b16115847]: Textual amendment: Words in sch. 2 inserted (1.6.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [s. 76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1), [sch. 1 para. 18(1)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/18/1); [S.S.I. 2009/192](https://www.legislation.gov.uk/ssi/2009/192), [art. 2](https://www.legislation.gov.uk/ssi/2009/192/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/192/schedule)
 
-[^key-810a4e0e025863586dfd09aa39f8d818]: Textual amendment: Words in sch. 2 repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 6(b)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/6/b); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-810a4e0e025863586dfd09aa39f8d818]: Textual amendment: Words in sch. 2 repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 6(b)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/6/b); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-0f1135422d1bf9c6b56d42585e56f8ef]: Textual amendment: Words in sch. 2 inserted (1.1.2007) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Public Transport Users Committee for Scotland as Specified Authority and Amendment of Specified Authorities) Order 2006 (S.S.I. 2006/363)](https://www.legislation.gov.uk/ssi/2006/363), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2006/363/article/1/3), [3](https://www.legislation.gov.uk/ssi/2006/363/article/3)
+[^c-0f1135422d1bf9c6b56d42585e56f8ef]: Textual amendment: Words in sch. 2 inserted (1.1.2007) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Treatment of Public Transport Users Committee for Scotland as Specified Authority and Amendment of Specified Authorities) Order 2006 (S.S.I. 2006/363)](https://www.legislation.gov.uk/ssi/2006/363), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2006/363/article/1/3), [3](https://www.legislation.gov.uk/ssi/2006/363/article/3)
 
-[^key-47b14825b338bf21b1cc37faad899382]: Textual amendment: Words in sch. 2 inserted (6.5.2020) by [The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020 (S.S.I. 2020/141)](https://www.legislation.gov.uk/ssi/2020/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/141/regulation/1/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2020/141/schedule/paragraph/3)
+[^c-47b14825b338bf21b1cc37faad899382]: Textual amendment: Words in sch. 2 inserted (6.5.2020) by [The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020 (S.S.I. 2020/141)](https://www.legislation.gov.uk/ssi/2020/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/141/regulation/1/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2020/141/schedule/paragraph/3)
 
 [^M_F_b688b2ec-d2f4-4855-e287-dc255b21b22d]: Textual amendment: Words in sch. 2 omitted (25.10.2018) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2018 (S.S.I. 2018/299)](https://www.legislation.gov.uk/ssi/2018/299), [arts. 1](https://www.legislation.gov.uk/asp/2005/7/article/1), [2(2)](https://www.legislation.gov.uk/asp/2005/7/article/2/2)
 
-[^key-f6a5380764ef9c5dd09b00c7398ab239]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2008/348/article/2/3/b)
+[^c-f6a5380764ef9c5dd09b00c7398ab239]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2008/348/article/2/3/b)
 
-[^key-a8a07412645c28ea312e86a842f4b4b8]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 5(5)](https://www.legislation.gov.uk/asp/2010/8/section/5/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a8a07412645c28ea312e86a842f4b4b8]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 5(5)](https://www.legislation.gov.uk/asp/2010/8/section/5/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-68de8032181e06917c4fbc6ad946f760]: Textual amendment: Words in sch. 2 inserted (22.11.2017) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2017 (S.S.I. 2017/401)](https://www.legislation.gov.uk/ssi/2017/401), [arts. 1](https://www.legislation.gov.uk/ssi/2017/401/article/1), [2](https://www.legislation.gov.uk/ssi/2017/401/article/2)
+[^c-68de8032181e06917c4fbc6ad946f760]: Textual amendment: Words in sch. 2 inserted (22.11.2017) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2017 (S.S.I. 2017/401)](https://www.legislation.gov.uk/ssi/2017/401), [arts. 1](https://www.legislation.gov.uk/ssi/2017/401/article/1), [2](https://www.legislation.gov.uk/ssi/2017/401/article/2)
 
-[^key-3501102a6ed63ba3af29140fbc57af2d]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2008/348/article/2/3/a)
+[^c-3501102a6ed63ba3af29140fbc57af2d]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2008/348/article/2/3/a)
 
-[^key-fa2a8fca6850769bdeb3034dd391eb04]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 4(6)](https://www.legislation.gov.uk/asp/2010/8/section/4/6), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-fa2a8fca6850769bdeb3034dd391eb04]: Textual amendment: Words in sch. 2 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 4(6)](https://www.legislation.gov.uk/asp/2010/8/section/4/6), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-7f04ce8d7d6b5b97f1c6f97e18130237]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/a)
+[^c-7f04ce8d7d6b5b97f1c6f97e18130237]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/a)
 
-[^key-f7a4535a71d094f35279862a0c3b0141]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/b/i)
+[^c-f7a4535a71d094f35279862a0c3b0141]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/b/i)
 
-[^key-1050b92a8e92bd76cdb3a00f69c1dc2c]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/b/ii)
+[^c-1050b92a8e92bd76cdb3a00f69c1dc2c]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/b/ii)
 
-[^key-df119c0df288d2fbf84d89c5c2f06bac]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/b/iii)
+[^c-df119c0df288d2fbf84d89c5c2f06bac]: Textual amendment: Words in sch. 2 omitted (22.10.2008) by virtue of [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/348/article/2/4/b/iii)
 
-[^key-7023815b6145b14cdacc53f755bd24a3]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2008/348/article/2/5/a)
+[^c-7023815b6145b14cdacc53f755bd24a3]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2008/348/article/2/5/a)
 
-[^key-d042823519be964cee3588f387083462]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2008/348/article/2/5/b)
+[^c-d042823519be964cee3588f387083462]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2008/348/article/2/5/b)
 
-[^key-b67190a3b2f1004dcd5fc57f02773fbf]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2008/348/article/2/5/c)
+[^c-b67190a3b2f1004dcd5fc57f02773fbf]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2008/348/article/2/5/c)
 
-[^key-31a7a9fb46491d67bc3ae9bae5f64e97]: Textual amendment: Words in sch. 2 inserted (6.11.2009) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2009 (S.S.I. 2009/390)](https://www.legislation.gov.uk/ssi/2009/390), [arts. 1](https://www.legislation.gov.uk/ssi/2009/390/article/1), [2](https://www.legislation.gov.uk/ssi/2009/390/article/2)
+[^c-31a7a9fb46491d67bc3ae9bae5f64e97]: Textual amendment: Words in sch. 2 inserted (6.11.2009) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2009 (S.S.I. 2009/390)](https://www.legislation.gov.uk/ssi/2009/390), [arts. 1](https://www.legislation.gov.uk/ssi/2009/390/article/1), [2](https://www.legislation.gov.uk/ssi/2009/390/article/2)
 
-[^key-9b9b9152268e28249d966375915b62f2]: Textual amendment: Words in sch. 2 omitted (26.10.2005) by virtue of [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2005/540/article/2/5)
+[^c-9b9b9152268e28249d966375915b62f2]: Textual amendment: Words in sch. 2 omitted (26.10.2005) by virtue of [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2005/540/article/2/5)
 
-[^key-20336ec653d395d5f6393973868f10fa]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2008/348/article/2/6)
+[^c-20336ec653d395d5f6393973868f10fa]: Textual amendment: Words in sch. 2 inserted (22.10.2008) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2008 (S.S.I. 2008/348)](https://www.legislation.gov.uk/ssi/2008/348), [arts. 1](https://www.legislation.gov.uk/ssi/2008/348/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2008/348/article/2/6)
 
-[^key-79e181d99d4f03b16fcc7db0a31bdefc]: Textual amendment: Words in sch. 2 inserted (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/50/article/2/2)
+[^c-79e181d99d4f03b16fcc7db0a31bdefc]: Textual amendment: Words in sch. 2 inserted (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/50/article/2/2)
 
-[^key-a1e8f91e7a69baa282ef2587e27b24ed]: Textual amendment: Words in sch. 2 inserted (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/50/article/2/3)
+[^c-a1e8f91e7a69baa282ef2587e27b24ed]: Textual amendment: Words in sch. 2 inserted (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/50/article/2/3)
 
-[^key-15447340c9f97054697c491bc8f37ce5]: Textual amendment: Words in sch. 2 inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 26](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/26); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); S.S.I. 2011/122, art. 2, sch.
+[^c-15447340c9f97054697c491bc8f37ce5]: Textual amendment: Words in sch. 2 inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 26](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/26); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); S.S.I. 2011/122, art. 2, sch.
 
-[^key-40e2140141776303bdaa331d8feb9d34]: Textual amendment: Words in sch. 2 inserted (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/50/article/2/4)
+[^c-40e2140141776303bdaa331d8feb9d34]: Textual amendment: Words in sch. 2 inserted (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/50/article/2/4)
 
-[^key-3c718395552a702748483fdd01e64fdb]: Textual amendment: Words in sch. 2 omitted (1.4.2020) by virtue of [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/3/2) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-3c718395552a702748483fdd01e64fdb]: Textual amendment: Words in sch. 2 omitted (1.4.2020) by virtue of [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/3/2) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-ef1f465048f418e9d83e4de766d0989e]: Textual amendment: Words in sch. 2 inserted (1.4.2020) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2020 (S.S.I. 2020/82)](https://www.legislation.gov.uk/ssi/2020/82), [arts. 1](https://www.legislation.gov.uk/ssi/2020/82/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/82/article/2/2)
+[^c-ef1f465048f418e9d83e4de766d0989e]: Textual amendment: Words in sch. 2 inserted (1.4.2020) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2020 (S.S.I. 2020/82)](https://www.legislation.gov.uk/ssi/2020/82), [arts. 1](https://www.legislation.gov.uk/ssi/2020/82/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/82/article/2/2)
 
-[^key-11652d9ef24c1a659e6db4aa8db79c9d]: Textual amendment: Words in sch. 2 inserted (26.10.2005) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2005/540/article/2/6)
+[^c-11652d9ef24c1a659e6db4aa8db79c9d]: Textual amendment: Words in sch. 2 inserted (26.10.2005) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2005 (S.S.I. 2005/540)](https://www.legislation.gov.uk/ssi/2005/540), [arts. 1](https://www.legislation.gov.uk/ssi/2005/540/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2005/540/article/2/6)
 
-[^key-74496b4073f1a7b8cc576622e900ada6]: Textual amendment: Words in sch. 2 substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/5); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-74496b4073f1a7b8cc576622e900ada6]: Textual amendment: Words in sch. 2 substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/5); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-5f564767175e626d363e6a1217f002de]: Textual amendment: Words in sch. 2 inserted (16.2.2017) by [The Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36)](https://www.legislation.gov.uk/ssi/2017/36), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1), [21(5)](https://www.legislation.gov.uk/ssi/2017/36/article/21/5)
+[^c-5f564767175e626d363e6a1217f002de]: Textual amendment: Words in sch. 2 inserted (16.2.2017) by [The Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36)](https://www.legislation.gov.uk/ssi/2017/36), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1), [21(5)](https://www.legislation.gov.uk/ssi/2017/36/article/21/5)
 
-[^key-ade1748d41fde200de48da4f5bf6ba0b]: Textual amendment: Words in sch. 2 repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 46(2)](https://www.legislation.gov.uk/asp/2019/14/section/46/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/k)
+[^c-ade1748d41fde200de48da4f5bf6ba0b]: Textual amendment: Words in sch. 2 repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 46(2)](https://www.legislation.gov.uk/asp/2019/14/section/46/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/k)
 
-[^key-f7722e28523ebad4e4b4e693c231040a]: Textual amendment: Words in sch. 2 inserted (1.7.2019) by [Child Poverty (Scotland) Act 2017 (asp 6)](https://www.legislation.gov.uk/asp/2017/6), [s. 16(2)](https://www.legislation.gov.uk/asp/2017/6/section/16/2), [sch. para. 13(3)](https://www.legislation.gov.uk/asp/2017/6/schedule/paragraph/13/3)
+[^c-f7722e28523ebad4e4b4e693c231040a]: Textual amendment: Words in sch. 2 inserted (1.7.2019) by [Child Poverty (Scotland) Act 2017 (asp 6)](https://www.legislation.gov.uk/asp/2017/6), [s. 16(2)](https://www.legislation.gov.uk/asp/2017/6/section/16/2), [sch. para. 13(3)](https://www.legislation.gov.uk/asp/2017/6/schedule/paragraph/13/3)
 
-[^key-8dee7b43db8ae70d6c9e844b0bde2985]: Textual amendment: Words in sch. 2 inserted (21.1.2019) by [Social Security (Scotland) Act 2018 (asp 9)](https://www.legislation.gov.uk/asp/2018/9), [s. 99(2)](https://www.legislation.gov.uk/asp/2018/9/section/99/2), [sch. 1 para. 20](https://www.legislation.gov.uk/asp/2018/9/schedule/1/paragraph/20); [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3))
+[^c-8dee7b43db8ae70d6c9e844b0bde2985]: Textual amendment: Words in sch. 2 inserted (21.1.2019) by [Social Security (Scotland) Act 2018 (asp 9)](https://www.legislation.gov.uk/asp/2018/9), [s. 99(2)](https://www.legislation.gov.uk/asp/2018/9/section/99/2), [sch. 1 para. 20](https://www.legislation.gov.uk/asp/2018/9/schedule/1/paragraph/20); [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3))
 
-[^key-28cdad844cc084450760df8dbccf3e1e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2003/4/schedule/3) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(e)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/e), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-28cdad844cc084450760df8dbccf3e1e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2003/4/schedule/3) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 7(3)(e)](https://www.legislation.gov.uk/asp/2010/8/section/7/3/e), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-0f9b130ce10d69f563392230c82ccc77]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/1) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-0f9b130ce10d69f563392230c82ccc77]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/1) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-10d0c7252f6bf78dede637b99d654ee8]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/2) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
+[^c-10d0c7252f6bf78dede637b99d654ee8]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/2) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
 
-[^key-d8ab9065b903a25eb95aadb09f21a8d1]: Commencement: [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/3/a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-d8ab9065b903a25eb95aadb09f21a8d1]: Commencement: [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/3/a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-b7c5501bfdc1b460832feb9d2d20816e]: Commencement: [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/3/b) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-b7c5501bfdc1b460832feb9d2d20816e]: Commencement: [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/3/b) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-22649cad01eba8158fcd63915f25d7a2]: Commencement: [Sch. 4 para. 4(a)(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/a/b) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
+[^c-22649cad01eba8158fcd63915f25d7a2]: Commencement: [Sch. 4 para. 4(a)(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/a/b) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
 
-[^key-cafa7b7701697786b3f4fbc74333754d]: Commencement: [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/c) in force at 6.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2003/602/article/2/2/a)
+[^c-cafa7b7701697786b3f4fbc74333754d]: Commencement: [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/c) in force at 6.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2003/602/article/2/2/a)
 
-[^key-64aa06a544a3f7e0eb88dc2811304dc6]: Commencement: [Sch. 4 para. 4(d)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/d) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-64aa06a544a3f7e0eb88dc2811304dc6]: Commencement: [Sch. 4 para. 4(d)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/d) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-513cc89223db46b141f9ea9f8a608403]: Commencement: [Sch. 4 para. 4(e)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/e) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-513cc89223db46b141f9ea9f8a608403]: Commencement: [Sch. 4 para. 4(e)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/4/e) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-23d3cfb0cdcfc93d913d50b7e2b441fe]: Commencement: Sch. 4 para. 5(2) (10)-(13) (16) (18) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-23d3cfb0cdcfc93d913d50b7e2b441fe]: Commencement: Sch. 4 para. 5(2) (10)-(13) (16) (18) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-ff071428510eae38036c0994dfe40798]: Commencement: [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/5/3)[(17)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/5/17) in force at 6.5.2004 by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/198/article/2/c)
+[^c-ff071428510eae38036c0994dfe40798]: Commencement: [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/5/3)[(17)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/5/17) in force at 6.5.2004 by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/198/article/2/c)
 
-[^key-0e1d684681fe5e55241dd34a3dbf66c3]: Textual amendment: Sch. 4 para. 5(4)-(9) omitted (1.4.2004) by virtue of [Primary Medical Services (Scotland) Act 2004 (Modification of Enactments) Order 2004 (S.S.I. 2004/167)](https://www.legislation.gov.uk/ssi/2004/167), [art. 1](https://www.legislation.gov.uk/ssi/2004/167/article/1), [Sch. para. 7](https://www.legislation.gov.uk/ssi/2004/167/schedule/paragraph/7)
+[^c-0e1d684681fe5e55241dd34a3dbf66c3]: Textual amendment: Sch. 4 para. 5(4)-(9) omitted (1.4.2004) by virtue of [Primary Medical Services (Scotland) Act 2004 (Modification of Enactments) Order 2004 (S.S.I. 2004/167)](https://www.legislation.gov.uk/ssi/2004/167), [art. 1](https://www.legislation.gov.uk/ssi/2004/167/article/1), [Sch. para. 7](https://www.legislation.gov.uk/ssi/2004/167/schedule/paragraph/7)
 
-[^key-dc7c47f627d779d9dd5e282b35e1cd53]: Commencement: Sch. 4 para. 5(14) in force at 1.4.2004 for specified purposes by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-dc7c47f627d779d9dd5e282b35e1cd53]: Commencement: Sch. 4 para. 5(14) in force at 1.4.2004 for specified purposes by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-0cd72e1aad1418dbd524185ed0b547b6]: Commencement: Sch. 4 para. 5(15) in force at 6.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2003/602/article/2/2/b)
+[^c-0cd72e1aad1418dbd524185ed0b547b6]: Commencement: Sch. 4 para. 5(15) in force at 6.2.2004 by [S.S.I. 2003/602](https://www.legislation.gov.uk/ssi/2003/602), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2003/602/article/2/2/b)
 
-[^key-a00d3c7fd8fbdff571897e91ee82a831]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/6) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
+[^c-a00d3c7fd8fbdff571897e91ee82a831]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/6) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
 
-[^key-ed9918ae658373a8c70984d700cd869a]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/7) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-ed9918ae658373a8c70984d700cd869a]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/7) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-63c27362e3d584d350e63dfc8977b0d6]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/9) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-63c27362e3d584d350e63dfc8977b0d6]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/9) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-b5e38461f5ff06a1f941789c938d2c48]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/10) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
+[^c-b5e38461f5ff06a1f941789c938d2c48]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/10) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
 
-[^key-cd39a440f4cd0a1b42b3134df12b4b64]: Commencement: [Sch. 4 para. 11(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/11/a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-cd39a440f4cd0a1b42b3134df12b4b64]: Commencement: [Sch. 4 para. 11(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/11/a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-cf3cbfdd06fa222d0a224e50fbb3e812]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-cf3cbfdd06fa222d0a224e50fbb3e812]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/12) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-5808cab07867e38bf8c4229769a41fcd]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/13) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
+[^c-5808cab07867e38bf8c4229769a41fcd]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/13) in force at 31.5.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/1/c)
 
-[^key-02dc01baf650ff3f42becf2a6851b78d]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-02dc01baf650ff3f42becf2a6851b78d]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-a208e99305f7000dc40b3489a45ed29e]: Commencement: [Sch. 4 para. 15(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/15/a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-a208e99305f7000dc40b3489a45ed29e]: Commencement: [Sch. 4 para. 15(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/15/a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-ee0d3b0ebc4cfd00647364d0950ac3a3]: Commencement: [Sch. 4 para. 15(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/15/b) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-ee0d3b0ebc4cfd00647364d0950ac3a3]: Commencement: [Sch. 4 para. 15(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/15/b) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-be9526887023d52abe95e76f48e80004]: Commencement: Sch. 4 para. 16(a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-be9526887023d52abe95e76f48e80004]: Commencement: Sch. 4 para. 16(a) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-ec7036ab94529050b7c82ff2c6d0657d]: Textual amendment: Sch. 4 para. 16(b) and word repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 18](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/18) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-ec7036ab94529050b7c82ff2c6d0657d]: Textual amendment: Sch. 4 para. 16(b) and word repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 18](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/18) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-f905da6f6ad2cd34dd217f0362afb77b]: Commencement: Sch. 4 para. 17(a)(i) in force at 6.5.2004 by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/198/article/2/c)
+[^c-f905da6f6ad2cd34dd217f0362afb77b]: Commencement: Sch. 4 para. 17(a)(i) in force at 6.5.2004 by [S.S.I. 2004/198](https://www.legislation.gov.uk/ssi/2004/198), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/198/article/2/c)
 
-[^key-41281999ec2571464998402424f88d7d]: Commencement: Sch. 4 para. 17(a)(ii) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-41281999ec2571464998402424f88d7d]: Commencement: Sch. 4 para. 17(a)(ii) in force at 1.4.2004 by [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-e018edb152a1c09ab3139df89f6be2bb]: Commencement: Sch. 4 para. 17(b)(iii) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-e018edb152a1c09ab3139df89f6be2bb]: Commencement: Sch. 4 para. 17(b)(iii) in force at 15.8.2003 by [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
-[^key-ff03438540b2794a9476717c5edbbb9c]: Textual amendment: Sch. 4 para. 17(c)(i) and sub-para number (ii) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 19](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/19) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-ff03438540b2794a9476717c5edbbb9c]: Textual amendment: Sch. 4 para. 17(c)(i) and sub-para number (ii) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 19](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/19) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-b389d02012bc26bea261c48674f158dc]: Commencement: Sch. 4 para. 17(c)(ii) in force at 1.6.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/2/c)
+[^c-b389d02012bc26bea261c48674f158dc]: Commencement: Sch. 4 para. 17(c)(ii) in force at 1.6.2003 by [S.S.I. 2003/219](https://www.legislation.gov.uk/ssi/2003/219), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2003/219/article/2/2/c)

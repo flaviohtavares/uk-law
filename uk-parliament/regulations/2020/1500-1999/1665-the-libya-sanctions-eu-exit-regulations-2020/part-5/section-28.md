@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Technical assistance relating to restricted goods and restricted technology[^key-0819a714fbab2e6fef4c8f1d9e67435c]
+## 28. Technical assistance relating to restricted goods and restricted technology[^c-0819a714fbab2e6fef4c8f1d9e67435c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0819a714fbab2e6fef4c8f1d9e67435c]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-0819a714fbab2e6fef4c8f1d9e67435c]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

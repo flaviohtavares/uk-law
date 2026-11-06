@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 154. Amendments, transitional and transitory provisions, savings and repeals[^key-53b3b5debff529096b00089112f03901]
+## 154. Amendments, transitional and transitory provisions, savings and repeals[^c-53b3b5debff529096b00089112f03901]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53b3b5debff529096b00089112f03901]: Commencement: S. 154 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-53b3b5debff529096b00089112f03901]: Commencement: S. 154 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

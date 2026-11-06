@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Power to acquire land[^key-f672b3bc3c0e5228603fab1c626f2e18]
+## 20. Power to acquire land[^c-f672b3bc3c0e5228603fab1c626f2e18]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f672b3bc3c0e5228603fab1c626f2e18]: Commencement: Art. 20 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-f672b3bc3c0e5228603fab1c626f2e18]: Commencement: Art. 20 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

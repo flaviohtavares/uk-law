@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Remuneration[^key-198c54273db6e983da19bea692313403]
+## 99A. Remuneration[^c-198c54273db6e983da19bea692313403]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-198c54273db6e983da19bea692313403]: Textual amendment: S. 99A inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/18) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-198c54273db6e983da19bea692313403]: Textual amendment: S. 99A inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/18) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

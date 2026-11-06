@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Community planning[^key-c022ade90aba1a0ed33e58b96974a208]
+## 66. Community planning[^c-c022ade90aba1a0ed33e58b96974a208]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ and expressions used in this subsection and in section 28E of that Act (Executiv
 
 ## Annotations
 
-[^key-c022ade90aba1a0ed33e58b96974a208]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2014/8/section/66) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-c022ade90aba1a0ed33e58b96974a208]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2014/8/section/66) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

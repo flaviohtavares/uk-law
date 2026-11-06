@@ -123,7 +123,7 @@ Provided that nothing in this section shall apply to any species which was at th
 - “Statutory period” means …
 - *Definition in 1954 c. 33 (NI) s. 41(2) substituted by 1979 NI 12*
 
-(2)[^key-53e1d46247e439c0078dec1593b267fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-53e1d46247e439c0078dec1593b267fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10. Short title.
 
@@ -143,4 +143,4 @@ This Act may be cited as the Destructive Imported Animals Act (Northern Ireland)
 
 [^c1153205]: Textual amendment: SR 1993/270
 
-[^key-53e1d46247e439c0078dec1593b267fb]: Textual amendment: S. 9(2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/811/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53e1d46247e439c0078dec1593b267fb]: Textual amendment: S. 9(2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/811/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

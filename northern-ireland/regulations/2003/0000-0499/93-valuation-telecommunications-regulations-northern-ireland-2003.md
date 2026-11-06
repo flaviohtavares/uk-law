@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Valuation (Telecommunications) Regulations (Northern Ireland) 2003 (revoked)[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+Valuation (Telecommunications) Regulations (Northern Ireland) 2003 (revoked)[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 1st April 2003
 
-[^key-9bd0dc7da8b6edb263433a3c064c5db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd0dc7da8b6edb263433a3c064c5db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+## 1. Citation and commencement[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+## 2. Interpretation[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. British Telecommunications Plc[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+## 3. British Telecommunications Plc[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. ntl Group Limited[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+## 4. ntl Group Limited[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Cable & Wireless U.K.[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+## 5. Cable & Wireless U.K.[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-9bd0dc7da8b6edb263433a3c064c5db7]
+## 6. Revocation[^c-9bd0dc7da8b6edb263433a3c064c5db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bd0dc7da8b6edb263433a3c064c5db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd0dc7da8b6edb263433a3c064c5db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9bd0dc7da8b6edb263433a3c064c5db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd0dc7da8b6edb263433a3c064c5db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bd0dc7da8b6edb263433a3c064c5db7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/93) revoked (31.1.2011) by [Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 (S.R. 2010/431)](https://www.legislation.gov.uk/nisr/2010/431), [regs. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/431/regulation/6)
+[^c-9bd0dc7da8b6edb263433a3c064c5db7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/93) revoked (31.1.2011) by [Valuation (Telecommunications, Natural Gas and Water) Regulations (Northern Ireland) 2010 (S.R. 2010/431)](https://www.legislation.gov.uk/nisr/2010/431), [regs. 1](https://www.legislation.gov.uk/nisr/2010/431/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/431/regulation/6)

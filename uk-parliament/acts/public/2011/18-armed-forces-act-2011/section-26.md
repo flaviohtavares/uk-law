@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Judge advocates sitting in civilian courts[^key-4176b31cb7b7aeb7ca3f2d719cd7102d]
+## 26. Judge advocates sitting in civilian courts[^c-4176b31cb7b7aeb7ca3f2d719cd7102d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (which makes provision enabling judge advocates to sit in the Crown C
 
 ## Annotations
 
-[^key-4176b31cb7b7aeb7ca3f2d719cd7102d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2011/18/section/26) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
+[^c-4176b31cb7b7aeb7ca3f2d719cd7102d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2011/18/section/26) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)

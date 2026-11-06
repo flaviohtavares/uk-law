@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Street works[^key-03b74d4a86f942db0b72fdf16207016b]
+## 10. Street works[^c-03b74d4a86f942db0b72fdf16207016b]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03b74d4a86f942db0b72fdf16207016b]: Commencement: Art. 10 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-03b74d4a86f942db0b72fdf16207016b]: Commencement: Art. 10 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00027]: Footnote: Section 48 is amended by sections 124 and 134 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), and section 51 was amended by sections 40 and 99 and Schedule 1 to the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).

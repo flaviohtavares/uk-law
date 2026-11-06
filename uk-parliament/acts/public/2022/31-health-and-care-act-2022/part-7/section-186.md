@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Commencement[^key-c773dab5889954552ecb372afb9c554d]
+## 186. Commencement[^c-c773dab5889954552ecb372afb9c554d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c773dab5889954552ecb372afb9c554d]: Commencement: S. 186 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)
+[^c-c773dab5889954552ecb372afb9c554d]: Commencement: S. 186 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)

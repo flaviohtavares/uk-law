@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Remediation costs under qualifying leases etc.[^key-4c8cafa1c9f826d6b4b79976bb62772f]
+## 116. Remediation costs under qualifying leases etc.[^c-4c8cafa1c9f826d6b4b79976bb62772f]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c8cafa1c9f826d6b4b79976bb62772f]: Commencement: S. 116 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-4c8cafa1c9f826d6b4b79976bb62772f]: Commencement: S. 116 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

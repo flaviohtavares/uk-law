@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Claims for compensation and interest.[^key-cc87d5d61317c4bb6e5a2444af13a0ab]
+## 72. Claims for compensation and interest.[^c-cc87d5d61317c4bb6e5a2444af13a0ab]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Provided that nothing in this subsection shall authorise the imposition of any r
 
 ## Annotations
 
-[^key-cc87d5d61317c4bb6e5a2444af13a0ab]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/72) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/644/article/6/b)
+[^c-cc87d5d61317c4bb6e5a2444af13a0ab]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/72) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/644/article/6/b)

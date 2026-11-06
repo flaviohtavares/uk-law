@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40D. Interpretation[^key-ee96820e708471d9139ec0a57cf4b3c6]
+## 40D. Interpretation[^c-ee96820e708471d9139ec0a57cf4b3c6]
 
 *Extent: E+W+S*
 
@@ -32,13 +32,13 @@ summary: ''
 
 (3) Nothing in this Part
 
-- (a)[^key-7866add0480f25fc96df5b300e6691f5] affects any power to disclose information that exists apart from this Part,
-- (b)[^key-c7f25e4c0cc2a5cb74829763f7cfeb8e] authorises the disclosure of any information in contravention of any provision made by or under any Act which prevents disclosure of the information.
+- (a)[^c-7866add0480f25fc96df5b300e6691f5] affects any power to disclose information that exists apart from this Part,
+- (b)[^c-c7f25e4c0cc2a5cb74829763f7cfeb8e] authorises the disclosure of any information in contravention of any provision made by or under any Act which prevents disclosure of the information.
 
 ## Annotations
 
-[^key-ee96820e708471d9139ec0a57cf4b3c6]: Textual amendment: Pt. 1A inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/26/1), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/695/article/2/a)
+[^c-ee96820e708471d9139ec0a57cf4b3c6]: Textual amendment: Pt. 1A inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/26/1), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/695/article/2/a)
 
-[^key-7866add0480f25fc96df5b300e6691f5]: Textual amendment: Words in s. 40D(3) renumbered as s. 40D(3)(a) (2.1.2018) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2), [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/28/a); [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
+[^c-7866add0480f25fc96df5b300e6691f5]: Textual amendment: Words in s. 40D(3) renumbered as s. 40D(3)(a) (2.1.2018) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2), [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/28/a); [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
 
-[^key-c7f25e4c0cc2a5cb74829763f7cfeb8e]: Textual amendment: S. 40D(3)(b) inserted (2.1.2018) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2), [Sch. 1 para. 28(b)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/28/b); [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
+[^c-c7f25e4c0cc2a5cb74829763f7cfeb8e]: Textual amendment: S. 40D(3)(b) inserted (2.1.2018) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2), [Sch. 1 para. 28(b)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/28/b); [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)

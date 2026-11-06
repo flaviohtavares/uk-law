@@ -34,7 +34,7 @@ Section 50.
 
 *Extent: E+W+S*
 
-**2.**[^key-d75f4980ff95978134073a8dd8878078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d75f4980ff95978134073a8dd8878078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment particulars
 
@@ -44,7 +44,7 @@ Section 50.
 
 ### Transfers of undertakings
 
-**4.**[^key-39dbb098bc3e0e81a82d6fac617d180a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-39dbb098bc3e0e81a82d6fac617d180a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Wages Councils
 
@@ -85,10 +85,10 @@ and, subject to the following provisions, the other sections of Part II which re
 
 [^c1092735]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-d75f4980ff95978134073a8dd8878078]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-d75f4980ff95978134073a8dd8878078]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1092736]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/3) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-39dbb098bc3e0e81a82d6fac617d180a]: Textual amendment: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/4) repealed (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/20/2) (with [reg. 21(6)](https://www.legislation.gov.uk/uksi/2006/246/regulation/21/6))
+[^c-39dbb098bc3e0e81a82d6fac617d180a]: Textual amendment: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/4) repealed (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/20/2) (with [reg. 21(6)](https://www.legislation.gov.uk/uksi/2006/246/regulation/21/6))
 
 [^c1092739]: Marginal citation: [1986 c. 48](https://www.legislation.gov.uk/ukpga/1986/48).

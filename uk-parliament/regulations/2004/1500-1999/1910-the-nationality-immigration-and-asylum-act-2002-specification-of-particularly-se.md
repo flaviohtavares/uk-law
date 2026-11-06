@@ -46,9 +46,9 @@ Coming into force
 
 In exercise of the powers conferred upon him by section 72(4)(a) of the Nationality, Immigration and Asylum Act 2002[^f00001], the Secretary of State hereby makes the following Order:
 
-**1.**[^key-014ff364e6d170bf5cd4de4779066219] This Order may be cited as the Nationality, Immigration and Asylum Act 2002 (Specification of Particularly Serious Crimes) Order 2004 and shall come into force on 12th August 2004.
+**1.**[^c-014ff364e6d170bf5cd4de4779066219] This Order may be cited as the Nationality, Immigration and Asylum Act 2002 (Specification of Particularly Serious Crimes) Order 2004 and shall come into force on 12th August 2004.
 
-**2.**[^key-407427c9d39b9b95076935c77b09fb1a] An offence of a description set out in any of Schedules 1 to 6 to this Order is hereby specified for the purposes of section 72(4)(a) of the Nationality, Immigration and Asylum Act 2002.
+**2.**[^c-407427c9d39b9b95076935c77b09fb1a] An offence of a description set out in any of Schedules 1 to 6 to this Order is hereby specified for the purposes of section 72(4)(a) of the Nationality, Immigration and Asylum Act 2002.
 
 Des Browne
 
@@ -58,7 +58,7 @@ Home Office
 
 20th July 2004
 
-## SCHEDULE 1 — STATUTORY OFFENCES THAT APPLY THROUGHOUT THE UNITED KINGDOM[^key-9de74c807790073d763c6f2dd423052a]
+## SCHEDULE 1 — STATUTORY OFFENCES THAT APPLY THROUGHOUT THE UNITED KINGDOM[^c-9de74c807790073d763c6f2dd423052a]
 
 ### Offences under the Explosive Substances Act 1883[^f00002]
 
@@ -236,11 +236,11 @@ Home Office
 
 ## SCHEDULE 2 — OFFENCES UNDER THE COMMON LAW OF ENGLAND AND WALES AND STATUTORY OFFENCES THAT APPLY ONLY IN ENGLAND AND WALES
 
-**1.**[^key-54aa47e7eee1fdfcbe1b8a3664ac35fe] Offences under the Common Law of England and Wales.
+**1.**[^c-54aa47e7eee1fdfcbe1b8a3664ac35fe] Offences under the Common Law of England and Wales.
 
 - Manslaughter.
 
-**2.**[^key-8878ba922acb559a5f59277289c05df0] Statutory offences that apply only in England and Wales.
+**2.**[^c-8878ba922acb559a5f59277289c05df0] Statutory offences that apply only in England and Wales.
 
 ### Offences under the Infant Life (Preservation) Act 1929)[^f00025]
 
@@ -333,7 +333,7 @@ Home Office
 
 ## SCHEDULE 3 — OFFENCES UNDER THE COMMON LAW OF SCOTLAND AND STATUTORY OFFENCES THAT APPLY ONLY IN SCOTLAND
 
-**1.**[^key-237d3ce543d85a973dd6d38947ea2ca8] Offences under the Common Law of Scotland.
+**1.**[^c-237d3ce543d85a973dd6d38947ea2ca8] Offences under the Common Law of Scotland.
 
 - Abduction.
 - Abduction of women or girls with intent to rape.
@@ -356,7 +356,7 @@ Home Office
 - Wilful fire-raising.
 - Wrongful imprisonment.
 
-**2.**[^key-37311171d2933c079a01f5b7d781e882] Statutory offences that apply only in Scotland.
+**2.**[^c-37311171d2933c079a01f5b7d781e882] Statutory offences that apply only in Scotland.
 
 ### Offences under the Children and Young Persons (Scotland) Act 1937[^f00040]
 
@@ -402,13 +402,13 @@ Home Office
 
 ## SCHEDULE 4 — OFFENCES UNDER THE COMMON LAW OF NORTHERN IRELAND AND STATUTORY OFFENCES THAT APPLY ONLY IN NORTHERN IRELAND
 
-**1.**[^key-b7b2b980df2383727da06a10216101bc] Offences under the Common Law of Northern Ireland.
+**1.**[^c-b7b2b980df2383727da06a10216101bc] Offences under the Common Law of Northern Ireland.
 
 - Affray.
 - Rape.
 - Rioting.
 
-**2.**[^key-725207beb61b7427d97a8bb4b052a3ef] Statutory offences that apply only in Northern Ireland.
+**2.**[^c-725207beb61b7427d97a8bb4b052a3ef] Statutory offences that apply only in Northern Ireland.
 
 ### Offences under the Offences Against the Person Act 1861
 
@@ -505,7 +505,7 @@ Home Office
 - Article 20 (committing assault, intending to commit buggery).
 - Article 21(1) (indecently assaulting a man).
 
-## SCHEDULE 5 — STATUTORY OFFENCES THAT APPLY ONLY IN ENGLAND AND WALES AND SCOTLAND[^key-f3bb6d149f35e8d959cc1e8a56141bf2]
+## SCHEDULE 5 — STATUTORY OFFENCES THAT APPLY ONLY IN ENGLAND AND WALES AND SCOTLAND[^c-f3bb6d149f35e8d959cc1e8a56141bf2]
 
 ### Offences under the Firearms Act 1968[^f00071]
 
@@ -526,12 +526,12 @@ Home Office
 
 ## SCHEDULE 6 — OFFENCES UNDER THE COMMON LAW OF ENGLAND AND WALES AND NORTHERN IRELAND AND STATUTORY OFFENCES THAT APPLY ONLY IN ENGLAND AND WALES AND NORTHERN IRELAND
 
-**1.**[^key-71e10ba5c35ef094eec426f3a1a2f477] Offences under Common Law of England and Wales and Northern Ireland.
+**1.**[^c-71e10ba5c35ef094eec426f3a1a2f477] Offences under Common Law of England and Wales and Northern Ireland.
 
 - False Imprisonment.
 - Kidnapping.
 
-**2.**[^key-19da18b5ec970bb91bdcb0030ad562f9] Statutory offences that apply only in England and Wales and Northern Ireland.
+**2.**[^c-19da18b5ec970bb91bdcb0030ad562f9] Statutory offences that apply only in England and Wales and Northern Ireland.
 
 ### Offences under the Accessories and Abettors Act 1861[^f00077]
 
@@ -593,11 +593,11 @@ This Order specifies that an offence described in any of the six Schedules to it
 
 [^f00001]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-014ff364e6d170bf5cd4de4779066219]: Commencement: Art. 1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-014ff364e6d170bf5cd4de4779066219]: Commencement: Art. 1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
-[^key-407427c9d39b9b95076935c77b09fb1a]: Commencement: Art. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-407427c9d39b9b95076935c77b09fb1a]: Commencement: Art. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
-[^key-9de74c807790073d763c6f2dd423052a]: Commencement: Sch. 1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-9de74c807790073d763c6f2dd423052a]: Commencement: Sch. 1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
 [^f00002]: Footnote: [1883 46 and 47 Vict c. 3](https://www.legislation.gov.uk/ukpga/1883/3).
 
@@ -645,9 +645,9 @@ This Order specifies that an offence described in any of the six Schedules to it
 
 [^f00024]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-54aa47e7eee1fdfcbe1b8a3664ac35fe]: Commencement: Sch. 2 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-54aa47e7eee1fdfcbe1b8a3664ac35fe]: Commencement: Sch. 2 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
-[^key-8878ba922acb559a5f59277289c05df0]: Commencement: Sch. 2 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-8878ba922acb559a5f59277289c05df0]: Commencement: Sch. 2 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
 [^f00025]: Footnote: [1929 19 & 20 Geo 5 c. 34](https://www.legislation.gov.uk/ukpga/1929/34).
 
@@ -679,9 +679,9 @@ This Order specifies that an offence described in any of the six Schedules to it
 
 [^f00039]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-237d3ce543d85a973dd6d38947ea2ca8]: Commencement: Sch. 3 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-237d3ce543d85a973dd6d38947ea2ca8]: Commencement: Sch. 3 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
-[^key-37311171d2933c079a01f5b7d781e882]: Commencement: Sch. 3 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-37311171d2933c079a01f5b7d781e882]: Commencement: Sch. 3 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
 [^f00040]: Footnote: [1937 c. 37](https://www.legislation.gov.uk/ukpga/1937/37).
 
@@ -707,9 +707,9 @@ This Order specifies that an offence described in any of the six Schedules to it
 
 [^f00051]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7).
 
-[^key-b7b2b980df2383727da06a10216101bc]: Commencement: Sch. 4 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-b7b2b980df2383727da06a10216101bc]: Commencement: Sch. 4 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
-[^key-725207beb61b7427d97a8bb4b052a3ef]: Commencement: Sch. 4 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-725207beb61b7427d97a8bb4b052a3ef]: Commencement: Sch. 4 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
 [^f00052]: Footnote: [1885 Ch. 69](https://www.legislation.gov.uk/ukpga/1885/69).
 
@@ -749,7 +749,7 @@ This Order specifies that an offence described in any of the six Schedules to it
 
 [^f00070]: Footnote: [2003 NI 13](https://www.legislation.gov.uk/nisi/2003/1247).
 
-[^key-f3bb6d149f35e8d959cc1e8a56141bf2]: Commencement: Sch. 5 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-f3bb6d149f35e8d959cc1e8a56141bf2]: Commencement: Sch. 5 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
 [^f00071]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
@@ -763,9 +763,9 @@ This Order specifies that an offence described in any of the six Schedules to it
 
 [^f00076]: Footnote: Section 3A was inserted by section 3 of the Road Traffic Act 1991.
 
-[^key-71e10ba5c35ef094eec426f3a1a2f477]: Commencement: Sch. 6 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-71e10ba5c35ef094eec426f3a1a2f477]: Commencement: Sch. 6 para. 1n1 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
-[^key-19da18b5ec970bb91bdcb0030ad562f9]: Commencement: Sch. 6 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
+[^c-19da18b5ec970bb91bdcb0030ad562f9]: Commencement: Sch. 6 para. 2 in force at 12.8.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1910/article/1)
 
 [^f00077]: Footnote: [1861 24 and 25 Vict c. 97](https://www.legislation.gov.uk/ukpga/1861/97).
 

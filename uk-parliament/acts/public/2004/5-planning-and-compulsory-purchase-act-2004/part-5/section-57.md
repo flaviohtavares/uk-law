@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Correction notice[^key-abe94f869202599d1092b7074e7626ad][^key-446ef1fd195c571cc94910d88a00c666]
+## 57. Correction notice[^c-abe94f869202599d1092b7074e7626ad][^c-446ef1fd195c571cc94910d88a00c666]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abe94f869202599d1092b7074e7626ad]: Commencement: S. 57 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-abe94f869202599d1092b7074e7626ad]: Commencement: S. 57 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-446ef1fd195c571cc94910d88a00c666]: Commencement: S. 57 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
+[^c-446ef1fd195c571cc94910d88a00c666]: Commencement: S. 57 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Fees for birth, death, marriage and civil partnership certificates[^key-4ab2d53936406f2704fcd796ab57ada4]
+## 81. Fees for birth, death, marriage and civil partnership certificates[^c-4ab2d53936406f2704fcd796ab57ada4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ or a person having an interest in any of those, were a depositor in the National
 
 ## Annotations
 
-[^key-4ab2d53936406f2704fcd796ab57ada4]: Commencement: Reg. 81 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-4ab2d53936406f2704fcd796ab57ada4]: Commencement: Reg. 81 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00024]: Footnote: [1887 c. 40](https://www.legislation.gov.uk/ukpga/1887/40).
 

@@ -81,10 +81,10 @@ The Secretary of State and (acting only in relation to Wales) the Welsh Minister
 
 (1) The competent authorities responsible for fisheries monitoring centres for the purposes of Article 9(8) of the Control Regulation are—
 
-- (a) for the fisheries monitoring centre for English and Welsh fishing boats and for [^key-d5159965628e63e13013591610b62ec4]... third country fishing boats in British Fishery Limits (other than in Scotland, the Scottish zone [^c22352911], Northern Ireland or the Northern Ireland zone), the Marine Management Organisation;
-- (b) for the fisheries monitoring centre for Northern Ireland fishing boats and for [^key-25acc4cd631c113743936733f760c600]... third country fishing boats in Northern Ireland or the Northern Ireland zone, the Department of Agriculture and Rural Development.
+- (a) for the fisheries monitoring centre for English and Welsh fishing boats and for [^c-d5159965628e63e13013591610b62ec4]... third country fishing boats in British Fishery Limits (other than in Scotland, the Scottish zone [^c22352911], Northern Ireland or the Northern Ireland zone), the Marine Management Organisation;
+- (b) for the fisheries monitoring centre for Northern Ireland fishing boats and for [^c-25acc4cd631c113743936733f760c600]... third country fishing boats in Northern Ireland or the Northern Ireland zone, the Department of Agriculture and Rural Development.
 
-(2)[^key-331f2660d4bd06321a8866c9f10f1faa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-331f2660d4bd06321a8866c9f10f1faa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The competent national authority for the purposes of Article 125 of the Commission Implementing Regulation is—
 
@@ -107,7 +107,7 @@ The Secretary of State and (acting only in relation to Wales) the Welsh Minister
 
 (1) This article applies where a court in England or Wales imposes a fine on a person convicted of an offence under—
 
-- (a) section 30(1) of the Fisheries Act 1981 [^key-f3f9a804f4b0ab24f9193dff0706e0b2]... [^c22352921]; or
+- (a) section 30(1) of the Fisheries Act 1981 [^c-f3f9a804f4b0ab24f9193dff0706e0b2]... [^c22352921]; or
 - (b) an order extending to any part of the United Kingdom which is to any extent made under section 30(2) of that Act.
 
 (2) The court may, for the purposes of recovering the fine—
@@ -340,15 +340,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c22352901]: Marginal citation: The Northern Ireland zone is defined in section 98(1) of the [Northern Ireland Act 1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-d5159965628e63e13013591610b62ec4]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/2/1/a) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5159965628e63e13013591610b62ec4]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/2/1/a) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22352911]: Marginal citation: The Scottish zone is defined in section 126(1) of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-25acc4cd631c113743936733f760c600]: Textual amendment: Words in [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/2/1/b) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25acc4cd631c113743936733f760c600]: Textual amendment: Words in [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/191/article/2/1/b) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-331f2660d4bd06321a8866c9f10f1faa]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2015/191/article/2/2) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-331f2660d4bd06321a8866c9f10f1faa]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2015/191/article/2/2) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3f9a804f4b0ab24f9193dff0706e0b2]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/3/1/a) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3f9a804f4b0ab24f9193dff0706e0b2]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/191/article/3/1/a) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22352921]: Marginal citation: [Section 30(1)](https://www.legislation.gov.uk/uksi/2015/191/section/30/1) was amended by section 293(2) of the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23) and by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 

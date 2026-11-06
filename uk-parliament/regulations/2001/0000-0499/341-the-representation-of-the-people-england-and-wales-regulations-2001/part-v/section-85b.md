@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85B. Postal Voting Statements: additional personal identifier verification[^key-e8f84f206233bae3e56ab9339ccb05ae]
+## 85B. Postal Voting Statements: additional personal identifier verification[^c-e8f84f206233bae3e56ab9339ccb05ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f84f206233bae3e56ab9339ccb05ae]: Textual amendment: [Reg. 85B](https://www.legislation.gov.uk/uksi/2001/341/regulation/85B) revoked (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)
+[^c-e8f84f206233bae3e56ab9339ccb05ae]: Textual amendment: [Reg. 85B](https://www.legislation.gov.uk/uksi/2001/341/regulation/85B) revoked (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)

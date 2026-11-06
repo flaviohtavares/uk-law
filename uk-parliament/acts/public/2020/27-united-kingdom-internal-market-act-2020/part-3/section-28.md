@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Professional regulation not within section 24: equal treatment[^key-9b59b79884fe2546cce02840a26845f4]
+## 28. Professional regulation not within section 24: equal treatment[^c-9b59b79884fe2546cce02840a26845f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b59b79884fe2546cce02840a26845f4]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/27/section/28) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)
+[^c-9b59b79884fe2546cce02840a26845f4]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/27/section/28) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)

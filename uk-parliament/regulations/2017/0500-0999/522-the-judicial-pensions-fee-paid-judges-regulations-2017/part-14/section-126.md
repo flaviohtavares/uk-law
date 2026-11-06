@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Valuation of benefits for unretired JASAPS members[^key-d46219c355e19ca05450cefbf650a71f]
+## 126. Valuation of benefits for unretired JASAPS members[^c-d46219c355e19ca05450cefbf650a71f]
 
 *Extent: E+W+S+N.I.*
 
-(1) When an unretired[^key-b3904eddd47c5eff8e885f5163a75658] JASAPS member (“M”) who has purchased units of added surviving adult's pension dies, M's surviving spouse or surviving civil partner is entitled to receive additional pension under the JASAPS.
+(1) When an unretired[^c-b3904eddd47c5eff8e885f5163a75658] JASAPS member (“M”) who has purchased units of added surviving adult's pension dies, M's surviving spouse or surviving civil partner is entitled to receive additional pension under the JASAPS.
 
 (2) When M dies, the administrators must calculate the number of units of added surviving adult's pension M has purchased by dividing the total contributions made by M under regulation 125(1) by the cost of a unit of added surviving adult's pension determined under regulation 124(1), and notify the surviving spouse or civil partner of that amount.
 
@@ -58,6 +58,6 @@ paragraph (5) does not apply unless the administrators are satisfied that the de
 
 ## Annotations
 
-[^key-d46219c355e19ca05450cefbf650a71f]: Textual amendment: Word in [reg. 126](https://www.legislation.gov.uk/uksi/2017/522/regulation/126) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2023/403/regulation/64)
+[^c-d46219c355e19ca05450cefbf650a71f]: Textual amendment: Word in [reg. 126](https://www.legislation.gov.uk/uksi/2017/522/regulation/126) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2023/403/regulation/64)
 
-[^key-b3904eddd47c5eff8e885f5163a75658]: Textual amendment: Word in [reg. 126(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/126/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2023/403/regulation/64)
+[^c-b3904eddd47c5eff8e885f5163a75658]: Textual amendment: Word in [reg. 126(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/126/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2023/403/regulation/64)

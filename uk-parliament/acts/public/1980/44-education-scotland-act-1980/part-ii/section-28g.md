@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28G. Application of sections 28A to 28F and Schedule A1 to young persons.[^key-cafc016c45f8c536017dcfe381ec7c77]
+## 28G. Application of sections 28A to 28F and Schedule A1 to young persons.[^c-cafc016c45f8c536017dcfe381ec7c77]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cafc016c45f8c536017dcfe381ec7c77]: Modification: S. 28G excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-cafc016c45f8c536017dcfe381ec7c77]: Modification: S. 28G excluded (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2004/4/schedule/2/paragraph/1); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
 [^c16022271]: Textual amendment: Word in s. 28G inserted (26.2.2002) by [School Education (Amendment) (Scotland) Act 2002 (asp 2)](https://www.legislation.gov.uk/asp/2002/2), [s. 1(3)(a)(b)](https://www.legislation.gov.uk/asp/2002/2/section/1/3/a/b); [S.S.I. 2002/74](https://www.legislation.gov.uk/ssi/2002/74), [art. 2](https://www.legislation.gov.uk/ssi/2002/74/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9A — Increased rates for non-resident transactions[^key-c530ccc7491e1888266574b5dd841bb0]
+## SCHEDULE 9A — Increased rates for non-resident transactions[^c-c530ccc7491e1888266574b5dd841bb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,7 +153,7 @@ For the purposes of this Schedule, an individual is “non-resident” in relati
 
 (4) This paragraph is subject to—
 
-- (a) paragraph 15 (co-ownership [^key-505e5ade531e7f715f2b20439a90fd29]... contractual schemes);
+- (a) paragraph 15 (co-ownership [^c-505e5ade531e7f715f2b20439a90fd29]... contractual schemes);
 - (b) paragraph 16 (alternative property finance).
 
 #### 8. Meaning of “close company”
@@ -279,13 +279,13 @@ no rights and powers of A may be attributed to B under paragraph (c) or (d) of s
 
 (3) In this paragraph “settlement” does not include a settlement under a unit trust scheme.
 
-#### 15. Co-ownership ... contractual schemes[^key-0e67b1a032f81d762443f254ba439506]
+#### 15. Co-ownership ... contractual schemes[^c-0e67b1a032f81d762443f254ba439506]
 
 (1) Subject to sub-paragraph (2), a co-ownership authorised contractual scheme is not “non-resident” in relation to any chargeable transaction.
 
 (2) A collective investment scheme that is a co-ownership authorised contractual scheme by virtue of section 102A(7) (EEA schemes) is “non-resident” in relation to all chargeable transactions.
 
-(3)[^key-93249b54db695c5008de0eaff2f05712] A Reserved Investor Fund (Contractual Scheme) is not “**non-resident**” in relation to any chargeable transaction.
+(3)[^c-93249b54db695c5008de0eaff2f05712] A Reserved Investor Fund (Contractual Scheme) is not “**non-resident**” in relation to any chargeable transaction.
 
 #### 16. Alternative property finance
 
@@ -372,10 +372,10 @@ In this Schedule—
 
 ## Annotations
 
-[^key-c530ccc7491e1888266574b5dd841bb0]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A) inserted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/5)
+[^c-c530ccc7491e1888266574b5dd841bb0]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A) inserted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/5)
 
-[^key-505e5ade531e7f715f2b20439a90fd29]: Textual amendment: Word in [Sch. 9A para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/7/4/a) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(7)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/7) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-505e5ade531e7f715f2b20439a90fd29]: Textual amendment: Word in [Sch. 9A para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/7/4/a) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(7)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/7) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-0e67b1a032f81d762443f254ba439506]: Textual amendment: Word in [Sch. 9A para. 15](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/15) cross-heading omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(8)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/8) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-0e67b1a032f81d762443f254ba439506]: Textual amendment: Word in [Sch. 9A para. 15](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/15) cross-heading omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(8)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/8) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-93249b54db695c5008de0eaff2f05712]: Textual amendment: [Sch. 9A para. 15(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/15/3) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(9)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/9) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-93249b54db695c5008de0eaff2f05712]: Textual amendment: [Sch. 9A para. 15(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/15/3) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(9)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/9) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

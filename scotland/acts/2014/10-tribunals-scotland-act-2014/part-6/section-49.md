@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Disposal of an appeal[^key-4d1f9c37c2e4fe9f48663e672e41fbee]
+## 49. Disposal of an appeal[^c-4d1f9c37c2e4fe9f48663e672e41fbee]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d1f9c37c2e4fe9f48663e672e41fbee]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2014/10/section/49) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-4d1f9c37c2e4fe9f48663e672e41fbee]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2014/10/section/49) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

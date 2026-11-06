@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 190. Effect of orders made outwith Scotland[^key-8b685e5124db5aba63ade4e26d6ecac4]
+## 190. Effect of orders made outwith Scotland[^c-8b685e5124db5aba63ade4e26d6ecac4]
 
 *Extent: S*
 
-(1) The Scottish Ministers may by regulations make provision for a specified non-Scottish order which appears to them to correspond to a compulsory supervision order to have effect in Scotland[^key-176b088ca0ce1e50c42b31a68f936cbd].
+(1) The Scottish Ministers may by regulations make provision for a specified non-Scottish order which appears to them to correspond to a compulsory supervision order to have effect in Scotland[^c-176b088ca0ce1e50c42b31a68f936cbd].
 
-(2)[^key-5907089f80a5ca0f44e4eee46829c923] Regulations under subsection (1) may in particular—
+(2)[^c-5907089f80a5ca0f44e4eee46829c923] Regulations under subsection (1) may in particular—
 
 - (a) provide that a non-Scottish order is to have such effect only—
   - (i) in specified circumstances,
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8b685e5124db5aba63ade4e26d6ecac4]: Commencement: S. 190 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-8b685e5124db5aba63ade4e26d6ecac4]: Commencement: S. 190 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-176b088ca0ce1e50c42b31a68f936cbd]: Textual amendment: Words in [s. 190(1)](https://www.legislation.gov.uk/asp/2011/1/section/190/1) substituted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 29(2)(a)](https://www.legislation.gov.uk/asp/2024/5/section/29/2/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/c)
+[^c-176b088ca0ce1e50c42b31a68f936cbd]: Textual amendment: Words in [s. 190(1)](https://www.legislation.gov.uk/asp/2011/1/section/190/1) substituted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 29(2)(a)](https://www.legislation.gov.uk/asp/2024/5/section/29/2/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/c)
 
-[^key-5907089f80a5ca0f44e4eee46829c923]: Textual amendment: [S. 190(2)](https://www.legislation.gov.uk/asp/2011/1/section/190/2)[(2A)](https://www.legislation.gov.uk/asp/2011/1/section/190/2A) substituted for [s. 190(2)](https://www.legislation.gov.uk/asp/2011/1/section/190/2) (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/asp/2024/5/section/29/2/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/c)
+[^c-5907089f80a5ca0f44e4eee46829c923]: Textual amendment: [S. 190(2)](https://www.legislation.gov.uk/asp/2011/1/section/190/2)[(2A)](https://www.legislation.gov.uk/asp/2011/1/section/190/2A) substituted for [s. 190(2)](https://www.legislation.gov.uk/asp/2011/1/section/190/2) (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/asp/2024/5/section/29/2/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/c)

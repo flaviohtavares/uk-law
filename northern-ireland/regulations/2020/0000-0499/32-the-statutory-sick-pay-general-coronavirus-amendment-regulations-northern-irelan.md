@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities [^c23990061] makes the following Regulations in exercise of the powers conferred by sections 147(4), 149(6) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23990071] and now vested in it [^c23990081].
 
-## 1. Citation, commencement and interpretation[^key-59348d5b4d0dc9afa17ba465015c5563]
+## 1. Citation, commencement and interpretation[^c-59348d5b4d0dc9afa17ba465015c5563]
 
 (1) These Regulations may be cited as the Statutory Sick Pay (General) (Coronavirus Amendment) Regulations (Northern Ireland) 2020 and shall come into operation on 13th March 2020.
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c23990091] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Statutory Sick Pay (General) Regulations[^key-8a01f2ab0ef597c168a2f3c02945667d]
+## 2. Amendment of the Statutory Sick Pay (General) Regulations[^c-8a01f2ab0ef597c168a2f3c02945667d]
 
 (1) The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982 [^c23990101] are amended as follows.
 
@@ -74,7 +74,7 @@ The Department for Communities [^c23990061] makes the following Regulations in e
 
 .
 
-## 3. Expiry[^key-1686940c3821229c0e61426392afb847]
+## 3. Expiry[^c-1686940c3821229c0e61426392afb847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -106,11 +106,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^c23990081]: Marginal citation: Functions previously discharged by the Department of Health and Social Services were transferred the Department for Social Development in accordance with Article 8(b) of S.R. [1999 No. 481](https://www.legislation.gov.uk/ukcm/1999/481)and section 1(7) of the [Departments Act (Northern Ireland) 2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-59348d5b4d0dc9afa17ba465015c5563]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/32/regulation/1) in operation at 13.3.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/32/regulation/1/1)
+[^c-59348d5b4d0dc9afa17ba465015c5563]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/32/regulation/1) in operation at 13.3.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/32/regulation/1/1)
 
 [^c23990091]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8a01f2ab0ef597c168a2f3c02945667d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/32/regulation/2) in operation at 13.3.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/32/regulation/1/1)
+[^c-8a01f2ab0ef597c168a2f3c02945667d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/32/regulation/2) in operation at 13.3.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/32/regulation/1/1)
 
 [^c23990101]: Marginal citation: S.R. [1982 No. 263](https://www.legislation.gov.uk/ukcm/1982/263); relevant amending Regulations are S.R. [2006 No. 142](https://www.legislation.gov.uk/ukcm/2006/142) and S.R. [2012 No. 121](https://www.legislation.gov.uk/ukcm/2012/121)
 
@@ -118,4 +118,4 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^c23990121]: Marginal citation: Established under the Health and Social Care (Reform) Act (Northern Ireland) [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
 
-[^key-1686940c3821229c0e61426392afb847]: Textual amendment: Reg. 3 omitted (28.3.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/54)](https://www.legislation.gov.uk/nisr/2020/54), [regs. 1](https://www.legislation.gov.uk/nisr/2020/54/regulation/1), [4](https://www.legislation.gov.uk/nisr/2020/54/regulation/4)
+[^c-1686940c3821229c0e61426392afb847]: Textual amendment: Reg. 3 omitted (28.3.2020) by virtue of [The Statutory Sick Pay (Coronavirus) (Suspension of Waiting Days and General Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/54)](https://www.legislation.gov.uk/nisr/2020/54), [regs. 1](https://www.legislation.gov.uk/nisr/2020/54/regulation/1), [4](https://www.legislation.gov.uk/nisr/2020/54/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2B. Connected Schemes[^key-a97145f6c9eaa72e79daeab396866d2c]
+## 2B. Connected Schemes[^c-a97145f6c9eaa72e79daeab396866d2c]
 
 *Extent: N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 - (b) an injury or compensation scheme established under Article 3 of the 1972 Order; and
 - (c) a statutory pension scheme that is a defined contributions scheme.
 
-(3)[^key-497e324c25e84ae5720724df85c90840] Sub-paragraphs (a) and (b) of paragraph (2) do not apply for the purposes of regulation 62B of the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023
+(3)[^c-497e324c25e84ae5720724df85c90840] Sub-paragraphs (a) and (b) of paragraph (2) do not apply for the purposes of regulation 62B of the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations (Northern Ireland) 2023
 
 ## Annotations
 
-[^key-a97145f6c9eaa72e79daeab396866d2c]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/nisr/2014/290/regulation/2A) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2022/67/regulation/4)
+[^c-a97145f6c9eaa72e79daeab396866d2c]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/nisr/2014/290/regulation/2A) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2022/67/regulation/4)
 
-[^key-497e324c25e84ae5720724df85c90840]: Textual amendment: [Reg. 2B(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/2B/3) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/2/2)
+[^c-497e324c25e84ae5720724df85c90840]: Textual amendment: [Reg. 2B(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/2B/3) inserted (18.6.2026) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/99)](https://www.legislation.gov.uk/nisr/2026/99), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2026/99/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2026/99/regulation/2/2)

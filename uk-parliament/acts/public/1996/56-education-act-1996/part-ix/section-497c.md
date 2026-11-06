@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 497C. Academies: power to secure performance of proprietor’s duties[^key-5a4087feb17f8ff55842274b918624a7]
+## 497C. Academies: power to secure performance of proprietor’s duties[^c-5a4087feb17f8ff55842274b918624a7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4087feb17f8ff55842274b918624a7]: Textual amendment: S. 497C inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 56](https://www.legislation.gov.uk/ukpga/2026/21/section/56), [78(2)(g)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/g)
+[^c-5a4087feb17f8ff55842274b918624a7]: Textual amendment: S. 497C inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 56](https://www.legislation.gov.uk/ukpga/2026/21/section/56), [78(2)(g)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/g)

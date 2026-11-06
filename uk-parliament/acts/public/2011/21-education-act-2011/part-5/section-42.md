@@ -51,7 +51,7 @@ summary: ''
 
 (7) In subsection (4), after “subsection (1)” insert “ or (1A) ”.
 
-(8)[^key-076ebd2df002b19037be32433320c2ac] After subsection (5) insert—
+(8)[^c-076ebd2df002b19037be32433320c2ac] After subsection (5) insert—
 
 > (5A) In the case of an inspection conducted under subsection (1) in response to a request from the provider of the education or training concerned, the Chief Inspector may charge the provider for the cost of the inspection.
 
@@ -83,4 +83,4 @@ summary: ''
 
 [^c2114842]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2011/21/section/42) partly in force: s. 42(1)-(7)(9)-(11) in force at Royal Assent
 
-[^key-076ebd2df002b19037be32433320c2ac]: Commencement: [S. 42(8)](https://www.legislation.gov.uk/ukpga/2011/21/section/42/8) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-076ebd2df002b19037be32433320c2ac]: Commencement: [S. 42(8)](https://www.legislation.gov.uk/ukpga/2011/21/section/42/8) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

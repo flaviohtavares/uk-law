@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Guidance about the disclosure of information by police forces[^key-b724922f8fbebdc07497515dfa187239]
+## 132. Guidance about the disclosure of information by police forces[^c-b724922f8fbebdc07497515dfa187239]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ In the [Stalking Protection Act 2019](https://www.legislation.gov.uk/ukpga/2019/
 
 ## Annotations
 
-[^key-b724922f8fbebdc07497515dfa187239]: Commencement: S. 132 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b724922f8fbebdc07497515dfa187239]: Commencement: S. 132 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

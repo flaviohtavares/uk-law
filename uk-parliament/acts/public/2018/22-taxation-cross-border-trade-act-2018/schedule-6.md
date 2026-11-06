@@ -24,9 +24,9 @@ Section 20
 
 ### Notification of liability to pay import duty
 
-**1.**[^c23442301][^key-525de37bdbf1155d5c57bbc0a63e507b] A liability of a person to pay import duty may not be enforced unless the person has been notified of the liability in accordance with the provision made by or under this Schedule.
+**1.**[^c23442301][^c-525de37bdbf1155d5c57bbc0a63e507b] A liability of a person to pay import duty may not be enforced unless the person has been notified of the liability in accordance with the provision made by or under this Schedule.
 
-**2.**[^c23442311][^key-af2034f3e003daf1e48e056f9f85a693] (1) If HMRC consider that a person is liable to pay import duty, they must notify the person of that fact specifying—
+**2.**[^c23442311][^c-af2034f3e003daf1e48e056f9f85a693] (1) If HMRC consider that a person is liable to pay import duty, they must notify the person of that fact specifying—
 
 - (a) the amount of the duty,
 - (b) the circumstances giving rise to the liability, and
@@ -34,7 +34,7 @@ Section 20
 
 (2) The notification may be given in such form and manner as HMRC consider appropriate.
 
-**3.**[^c23442321][^key-164699c703f74bd41f74b080dc3bebee] (1) HMRC Commissioners may by regulations make provision—
+**3.**[^c23442321][^c-164699c703f74bd41f74b080dc3bebee] (1) HMRC Commissioners may by regulations make provision—
 
 - (a) specifying cases where it is to be presumed that a person has been notified under paragraph 2 (including cases where the presumption may not be rebutted),
 - (b) specifying cases in which the duty to notify under paragraph 2 is taken to be met by the doing of some other specified act, or
@@ -45,13 +45,13 @@ Section 20
 - (a) must contain provision for securing that the existence of a liability to pay import duty is acknowledged in some other way (for example, by the provision of documents or information to HMRC in which a person sets out or self-assesses the liability), and
 - (b) may contain any other provision that HMRC Commissioners consider appropriate for the purpose of securing the enforceability of the liability (for example, by requiring a guarantee to be given in respect of any liability to import duty).
 
-**4.**[^c23442331][^key-1fe8a7f017ed8fe4b50b63c0810b9339] (1) The general rule is that a notification under paragraph 2 of a liability to pay import duty must be given before the end of the period of 3 years beginning with the day on which the liability was incurred.
+**4.**[^c23442331][^c-1fe8a7f017ed8fe4b50b63c0810b9339] (1) The general rule is that a notification under paragraph 2 of a liability to pay import duty must be given before the end of the period of 3 years beginning with the day on which the liability was incurred.
 
 (2) If the liability is incurred in circumstances where, in the opinion of an HMRC officer, an offence has been committed (whether or not the offence relates in any way to import duty), the period of 3 years for notifying is extended to a period of 20 years.
 
 ### Payment of import duty
 
-**5.**[^c23442341][^key-cf46dcb90811f1df23cae8c1fef6ecbc] (1) HMRC Commissioners must make regulations about the payment of import duty.
+**5.**[^c23442341][^c-cf46dcb90811f1df23cae8c1fef6ecbc] (1) HMRC Commissioners must make regulations about the payment of import duty.
 
 (2) The regulations may (among other things) make provision about—
 
@@ -69,7 +69,7 @@ Section 20
 
 ### Guarantees
 
-**6.**[^c23442351][^key-89be6f03005ae7d6b5d5212cec752f8e] (1) HMRC Commissioners must make regulations about the giving of guarantees in respect of any liability to pay import duty.
+**6.**[^c23442351][^c-89be6f03005ae7d6b5d5212cec752f8e] (1) HMRC Commissioners must make regulations about the giving of guarantees in respect of any liability to pay import duty.
 
 (2) The provision that may be made by the regulations includes (among other things) provision about—
 
@@ -77,9 +77,9 @@ Section 20
 - (b) the circumstances in which a guarantee is to be regarded as discharged (in full or in part), and
 - (c) the steps required to be taken by HMRC officers in cases where the guarantee is to be enforced or discharged (to any extent).
 
-**7.**[^c23442361][^key-97d22ce4ea9a058a09eab02d1dc2e0ad] In the case of goods declared for the free-circulation procedure, regulations under paragraph 6 must provide that, if a guarantee as to the payment of a liability to import duty is given in accordance with specified conditions, the liability is deferred until such time as is specified.
+**7.**[^c23442361][^c-97d22ce4ea9a058a09eab02d1dc2e0ad] In the case of goods declared for the free-circulation procedure, regulations under paragraph 6 must provide that, if a guarantee as to the payment of a liability to import duty is given in accordance with specified conditions, the liability is deferred until such time as is specified.
 
-**8.**[^c23442371][^key-c05d77736482e3e0c15c0a260d6356d3] (1) In the case of goods declared for a special Customs procedure, the provision that may be made by regulations under paragraph 6 includes provision requiring—
+**8.**[^c23442371][^c-c05d77736482e3e0c15c0a260d6356d3] (1) In the case of goods declared for a special Customs procedure, the provision that may be made by regulations under paragraph 6 includes provision requiring—
 
 - (a) a guarantee to be given in respect of a liability to import duty that might be incurred in respect of particular goods declared for a special Customs procedure, or
 - (b) a guarantee (a “comprehensive guarantee”) to be given in respect of a liability to import duty that might be incurred in respect of all goods declared for a special Customs procedure.
@@ -91,11 +91,11 @@ Section 20
 
 (3) Regulations under paragraph 6 may make provision for a guarantee in respect of any liability to import duty in respect of any goods declared for a special Customs procedure to extend also to any liability to import duty in respect of any goods declared for the free-circulation procedure.
 
-**9.**[^c23442381][^key-b746f2e572e4fb330d31d2ee29ecae95] For the purposes of paragraphs 6 to 8 any reference to a liability to import duty includes a potential liability to import duty.
+**9.**[^c23442381][^c-b746f2e572e4fb330d31d2ee29ecae95] For the purposes of paragraphs 6 to 8 any reference to a liability to import duty includes a potential liability to import duty.
 
 ### Repayment of import duty
 
-**10.**[^c23442391][^key-8f991583477d84478c2fe347321ff9b4] (1) HMRC Commissioners must make regulations about—
+**10.**[^c23442391][^c-8f991583477d84478c2fe347321ff9b4] (1) HMRC Commissioners must make regulations about—
 
 - (a) the repayment of import duty, and
 - (b) the repayment of interest paid in respect of import duty,
@@ -120,11 +120,11 @@ in specified cases if a claim for the purpose is made and other specified condit
 
 ### Remission of import duty
 
-**11.**[^c23442401][^key-beed89606cb99b176e31eeb753f03312] HMRC Commissioners may make regulations about the remission of import duty.
+**11.**[^c23442401][^c-beed89606cb99b176e31eeb753f03312] HMRC Commissioners may make regulations about the remission of import duty.
 
 ### Recovery of import duty
 
-**12.**[^c23442411][^key-692cf6cccac15682d3900a05435d003b][^key-4a16287173db5417fe8658765ddb451f] (1) Any amount due by way of import duty is recoverable as a debt due to the Crown.
+**12.**[^c23442411][^c-692cf6cccac15682d3900a05435d003b][^c-4a16287173db5417fe8658765ddb451f] (1) Any amount due by way of import duty is recoverable as a debt due to the Crown.
 
 (2) If—
 
@@ -141,50 +141,50 @@ the amount due by way of import duty ceases to be recoverable as a debt due to t
 
 [^c23442301]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/1) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-525de37bdbf1155d5c57bbc0a63e507b]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-525de37bdbf1155d5c57bbc0a63e507b]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442311]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/2) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-af2034f3e003daf1e48e056f9f85a693]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-af2034f3e003daf1e48e056f9f85a693]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442321]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/3) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-164699c703f74bd41f74b080dc3bebee]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-164699c703f74bd41f74b080dc3bebee]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442331]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/4) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1fe8a7f017ed8fe4b50b63c0810b9339]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1fe8a7f017ed8fe4b50b63c0810b9339]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442341]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/5) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-cf46dcb90811f1df23cae8c1fef6ecbc]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-cf46dcb90811f1df23cae8c1fef6ecbc]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442351]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/6) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-89be6f03005ae7d6b5d5212cec752f8e]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-89be6f03005ae7d6b5d5212cec752f8e]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442361]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/7) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-97d22ce4ea9a058a09eab02d1dc2e0ad]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-97d22ce4ea9a058a09eab02d1dc2e0ad]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442371]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/8) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-c05d77736482e3e0c15c0a260d6356d3]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-c05d77736482e3e0c15c0a260d6356d3]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442381]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/9) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b746f2e572e4fb330d31d2ee29ecae95]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b746f2e572e4fb330d31d2ee29ecae95]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442391]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/10) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8f991583477d84478c2fe347321ff9b4]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8f991583477d84478c2fe347321ff9b4]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442401]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/11) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-beed89606cb99b176e31eeb753f03312]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-beed89606cb99b176e31eeb753f03312]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23442411]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/12) in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-692cf6cccac15682d3900a05435d003b]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-692cf6cccac15682d3900a05435d003b]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2018/22/schedule/6/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-4a16287173db5417fe8658765ddb451f]: Modification: Sch. 6 para. 12 applied (31.12.2020 for specified purposes, 4.9.2021 for specified purposes) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 16Q](https://www.legislation.gov.uk/uksi/2020/1605/regulation/16Q) (as inserted by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(4)(5)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/4/5), [6(8)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/8); [S.I. 2021/983](https://www.legislation.gov.uk/uksi/2021/983), [reg. 2](https://www.legislation.gov.uk/uksi/2021/983/regulation/2))
+[^c-4a16287173db5417fe8658765ddb451f]: Modification: Sch. 6 para. 12 applied (31.12.2020 for specified purposes, 4.9.2021 for specified purposes) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 16Q](https://www.legislation.gov.uk/uksi/2020/1605/regulation/16Q) (as inserted by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(4)(5)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/4/5), [6(8)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/8); [S.I. 2021/983](https://www.legislation.gov.uk/uksi/2021/983), [reg. 2](https://www.legislation.gov.uk/uksi/2021/983/regulation/2))

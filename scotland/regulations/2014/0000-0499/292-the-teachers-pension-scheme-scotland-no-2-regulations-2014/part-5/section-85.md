@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Arrears of pension payable to deferred member who becomes pensioner member after reaching normal pension age[^key-9a85237093f7cbc3d8027cc4b7bfe7a5]
+## 85. Arrears of pension payable to deferred member who becomes pensioner member after reaching normal pension age[^c-9a85237093f7cbc3d8027cc4b7bfe7a5]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A deferred member (P) who becomes a pensioner member after reaching normal pensi
 
 ## Annotations
 
-[^key-9a85237093f7cbc3d8027cc4b7bfe7a5]: Commencement: [Reg. 85](https://www.legislation.gov.uk/ssi/2014/292/regulation/85) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9a85237093f7cbc3d8027cc4b7bfe7a5]: Commencement: [Reg. 85](https://www.legislation.gov.uk/ssi/2014/292/regulation/85) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Extinguishment of private rights and restrictive covenants relating to apparatus removed from land subject to temporary possession[^key-82ca0335e733aa1398a8270161593d97]
+## 27. Extinguishment of private rights and restrictive covenants relating to apparatus removed from land subject to temporary possession[^c-82ca0335e733aa1398a8270161593d97]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82ca0335e733aa1398a8270161593d97]: Commencement: Art. 27 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-82ca0335e733aa1398a8270161593d97]: Commencement: Art. 27 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

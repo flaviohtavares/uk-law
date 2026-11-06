@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Non-recovery of council tax arrears caused by official error[^key-7a1e055e03341ef234c0a771abf5ad3d]
+## 21. Non-recovery of council tax arrears caused by official error[^c-7a1e055e03341ef234c0a771abf5ad3d]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ where the applicant, a person acting on their behalf or any other person to whom
 
 ## Annotations
 
-[^key-7a1e055e03341ef234c0a771abf5ad3d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/249/regulation/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-7a1e055e03341ef234c0a771abf5ad3d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/249/regulation/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

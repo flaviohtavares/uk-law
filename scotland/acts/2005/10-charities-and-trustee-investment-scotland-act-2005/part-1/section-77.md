@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Reconsideration of decision remitted to OSCR[^key-9d47ceda6ffe12ef6af08dad1d8fa33e]
+## 77. Reconsideration of decision remitted to OSCR[^c-9d47ceda6ffe12ef6af08dad1d8fa33e]
 
 *Extent: S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 - (a) reconsider the decision,
 - (b) confirm, vary, reverse or revoke it, and
-- (c) give notice of its decision under paragraph (b) to the person who appealed its earlier decision to the First-tier Tribunal[^key-4c72a9fd40c0995fdc5390081f1ef4cc] .
+- (c) give notice of its decision under paragraph (b) to the person who appealed its earlier decision to the First-tier Tribunal[^c-4c72a9fd40c0995fdc5390081f1ef4cc] .
 
 (2) That notice must set out OSCR's reasons for its decision under subsection (1)(b).
 
 ## Annotations
 
-[^key-9d47ceda6ffe12ef6af08dad1d8fa33e]: Commencement: S. 77 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-9d47ceda6ffe12ef6af08dad1d8fa33e]: Commencement: S. 77 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-4c72a9fd40c0995fdc5390081f1ef4cc]: Textual amendment: Words in [s. 77(1)(c)](https://www.legislation.gov.uk/asp/2005/10/section/77/1/c) substituted (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 2(5)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/2/5)
+[^c-4c72a9fd40c0995fdc5390081f1ef4cc]: Textual amendment: Words in [s. 77(1)(c)](https://www.legislation.gov.uk/asp/2005/10/section/77/1/c) substituted (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 2(5)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/2/5)

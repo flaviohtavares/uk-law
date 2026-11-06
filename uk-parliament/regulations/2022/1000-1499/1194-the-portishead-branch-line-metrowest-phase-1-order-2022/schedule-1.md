@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Authorised development[^key-1512417ed60e9b05ec542a9681ac7947]
+## SCHEDULE 1 — Authorised development[^c-1512417ed60e9b05ec542a9681ac7947]
 
 *Extent: E+W*
 
 Article 2
 
-[^key-1512417ed60e9b05ec542a9681ac7947]
+[^c-1512417ed60e9b05ec542a9681ac7947]
 
 A nationally significant infrastructure project as defined in sections 14 and 25 of the 2008 Act comprising**—**
 
 ### In the district of North Somerset:
 
-[^key-1512417ed60e9b05ec542a9681ac7947]
+[^c-1512417ed60e9b05ec542a9681ac7947]
 
 **Work No. 1** – a railway of 2,264 metres in length shown on sheets 1, 1A, 2, and 3 of the works plans commencing at a point 96 metres north of the junction of Quays Avenue and Galingale Way, Portishead, using the track bed of the disused Portishead Branch Line railway, and terminating at a point 57 metres to the east of the bridge carrying Station Road (Portbury) over the disused Portishead Branch Line railway;
 
@@ -42,7 +42,7 @@ Associated development within the meaning of section 115(2)[^f00066] (developmen
 
 ### In the district of North Somerset:
 
-[^key-1512417ed60e9b05ec542a9681ac7947]
+[^c-1512417ed60e9b05ec542a9681ac7947]
 
 **Work No. 2** – diversion of the highway of Quays Avenue, Portishead, of 181 metres in length, shown on sheets 1 and 1A of the works plans, from the junction of Quays Avenue and Galingale Way to a point west of the existing gyratory junction of Quays Avenue, Harbour Road and Phoenix Way, Portishead, together with connections to existing highways, widening of the southern footway of Harbour Road, landscaping, new bus waiting facilities, signage, lighting, pedestrian crossing facilities, pipes, drains, cables, ducts, troughs, telecommunications apparatus, conduits and apparatus for utilities as well as footways, and a connection to the pedestrian and cycle track forming part of Work No. 4;
 
@@ -138,7 +138,7 @@ Associated development within the meaning of section 115(2)[^f00066] (developmen
 
 ### In the City and County of Bristol:
 
-[^key-1512417ed60e9b05ec542a9681ac7947]
+[^c-1512417ed60e9b05ec542a9681ac7947]
 
 **Work No. 26** – permanent vehicular access, ramp, flood mitigation works and railway maintenance compound, of 2,948 square metres in area shown on sheet 15 of the works plans, east of the highway of the A369 classified road known as Clanage Road, Ashton, north of the Bedminster Cricket Club;
 
@@ -181,6 +181,6 @@ And in connection with such works further associated development within the Orde
 
 ## Annotations
 
-[^key-1512417ed60e9b05ec542a9681ac7947]: Commencement: Sch. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-1512417ed60e9b05ec542a9681ac7947]: Commencement: Sch. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00066]: Footnote: Section 115(2) was amended by section 160(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

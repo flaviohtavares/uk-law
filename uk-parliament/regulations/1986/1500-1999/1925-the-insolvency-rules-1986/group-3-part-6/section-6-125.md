@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.125. Hand-over of estate to trustee[^key-841f41e8b844943a43525e4474b20c93]
+## 6.125. Hand-over of estate to trustee[^c-841f41e8b844943a43525e4474b20c93]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-841f41e8b844943a43525e4474b20c93]: Commencement: [Rule 6.125](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.125) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-841f41e8b844943a43525e4474b20c93]: Commencement: [Rule 6.125](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.125) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

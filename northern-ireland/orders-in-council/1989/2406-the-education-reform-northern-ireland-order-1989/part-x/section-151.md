@@ -51,11 +51,11 @@ is regularly reviewed in accordance with such requirements as may be prescribed.
 
 (5) In this Article “employing authority” means—
 
-- (a) in relation to teachers employed in controlled schools[^c17610931]. . . , the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] [^key-bea0ed6e8a095e18424bd4422974d556]...;
+- (a) in relation to teachers employed in controlled schools[^c17610931]. . . , the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] [^c-bea0ed6e8a095e18424bd4422974d556]...;
 - (b) in relation to teachers[^c17610941]. . . employed by the Council for Catholic Maintained Schools, that Council;
 - (c) in relation to teachers employed in a voluntary school (other than a Catholic maintained school), the managers of that school;
 - (d) in relation to teachers employed in a grant‐maintained integrated school, the Board of Governors of the school;
-- (e) in relation to peripatetic teachers, the Authority [^key-3661f4272d8c32fdf33efee43e6f9c8b]...;
+- (e) in relation to peripatetic teachers, the Authority [^c-3661f4272d8c32fdf33efee43e6f9c8b]...;
 - (f)[^c17610951] in relation to teachers employed in an institution of further education, the governing body of that institution.
 
 ## Annotations
@@ -66,12 +66,12 @@ is regularly reviewed in accordance with such requirements as may be prescribed.
 
 [^c17610931]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-bea0ed6e8a095e18424bd4422974d556]: Textual amendment: Words in art. 151(5)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-bea0ed6e8a095e18424bd4422974d556]: Textual amendment: Words in art. 151(5)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17610941]: Textual amendment: [1993 NI 12](https://www.legislation.gov.uk/nisi/1993)
 
-[^key-3661f4272d8c32fdf33efee43e6f9c8b]: Textual amendment: Words in art. 151(5)(e) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-3661f4272d8c32fdf33efee43e6f9c8b]: Textual amendment: Words in art. 151(5)(e) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17610951]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)

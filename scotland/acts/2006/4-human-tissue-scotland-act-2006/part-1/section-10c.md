@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10C. Power to make provision about decisions[^key-ba034c6a36f1eadd798f254294ebfbf2]
+## 10C. Power to make provision about decisions[^c-ba034c6a36f1eadd798f254294ebfbf2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba034c6a36f1eadd798f254294ebfbf2]: Textual amendment: S. 10C inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 19(2)](https://www.legislation.gov.uk/asp/2019/11/section/19/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-ba034c6a36f1eadd798f254294ebfbf2]: Textual amendment: S. 10C inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 19(2)](https://www.legislation.gov.uk/asp/2019/11/section/19/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

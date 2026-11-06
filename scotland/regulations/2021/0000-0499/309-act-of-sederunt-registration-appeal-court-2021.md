@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Registration Appeal Court) 2021 (revoked)[^key-a4f4ffdeced2cd363d149520bade3dd2]
+Act of Sederunt (Registration Appeal Court) 2021 (revoked)[^c-a4f4ffdeced2cd363d149520bade3dd2]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 13th October 2021
 
-[^key-a4f4ffdeced2cd363d149520bade3dd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4f4ffdeced2cd363d149520bade3dd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement, etc.[^key-a4f4ffdeced2cd363d149520bade3dd2]
+## 1. Citation and commencement, etc.[^c-a4f4ffdeced2cd363d149520bade3dd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration Appeal Court[^key-a4f4ffdeced2cd363d149520bade3dd2]
+## 2. Registration Appeal Court[^c-a4f4ffdeced2cd363d149520bade3dd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4f4ffdeced2cd363d149520bade3dd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4f4ffdeced2cd363d149520bade3dd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4f4ffdeced2cd363d149520bade3dd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4f4ffdeced2cd363d149520bade3dd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4f4ffdeced2cd363d149520bade3dd2]: Textual amendment: Act of Sederunt revoked (9.6.2025) by [Act of Sederunt (Registration Appeal Court) 2025 (S.S.I. 2025/141)](https://www.legislation.gov.uk/ssi/2025/141), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/141/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2025/141/paragraph/2/2)
+[^c-a4f4ffdeced2cd363d149520bade3dd2]: Textual amendment: Act of Sederunt revoked (9.6.2025) by [Act of Sederunt (Registration Appeal Court) 2025 (S.S.I. 2025/141)](https://www.legislation.gov.uk/ssi/2025/141), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/141/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2025/141/paragraph/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Access to catering waste and other animal by-products[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+## 11. Access to catering waste and other animal by-products[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 223. Notification by administrator of court order[^key-b0575bdf2ad080996b3e76207f6a3bc9]
+## 223. Notification by administrator of court order[^c-b0575bdf2ad080996b3e76207f6a3bc9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0575bdf2ad080996b3e76207f6a3bc9]: Commencement: [Rule 223](https://www.legislation.gov.uk/uksi/2011/1301/rule/223) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b0575bdf2ad080996b3e76207f6a3bc9]: Commencement: [Rule 223](https://www.legislation.gov.uk/uksi/2011/1301/rule/223) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

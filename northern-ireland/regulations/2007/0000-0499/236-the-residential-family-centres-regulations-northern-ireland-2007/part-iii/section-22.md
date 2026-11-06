@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Records[^key-7b35bd7be697a41d57fe53a085ab06ee]
+## 22. Records[^c-7b35bd7be697a41d57fe53a085ab06ee]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) The registered person shall ensure that the records referred to in paragraphs (1) and (2)—
 
 - (a) are kept up to date;
-- (b) are at all times available for inspection in the residential family centre by any person authorised by the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] to enter and inspect the centre;
+- (b) are at all times available for inspection in the residential family centre by any person authorised by the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] to enter and inspect the centre;
 - (c) ensure that residents are aware of arrangements to access their personal records; and
 - (d) shall be retained at the residential family centre for a period of not less than fifteen years from the date of the last entry.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b35bd7be697a41d57fe53a085ab06ee]: Commencement: Reg. 22 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-7b35bd7be697a41d57fe53a085ab06ee]: Commencement: Reg. 22 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

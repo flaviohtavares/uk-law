@@ -41,24 +41,24 @@ Coming into force
 
 1st April 2015
 
-[^key-c15224485e0202cf15b73e66e043f928]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c15224485e0202cf15b73e66e043f928]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c15224485e0202cf15b73e66e043f928]
+## 1. Citation and commencement[^c-c15224485e0202cf15b73e66e043f928]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^key-c15224485e0202cf15b73e66e043f928]
+## 2. Amendment of the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^c-c15224485e0202cf15b73e66e043f928]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c15224485e0202cf15b73e66e043f928]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c15224485e0202cf15b73e66e043f928]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c15224485e0202cf15b73e66e043f928]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c15224485e0202cf15b73e66e043f928]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c15224485e0202cf15b73e66e043f928]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/678) revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)
+[^c-c15224485e0202cf15b73e66e043f928]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/678) revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)

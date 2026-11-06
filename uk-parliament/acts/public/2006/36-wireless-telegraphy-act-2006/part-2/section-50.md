@@ -34,7 +34,7 @@ summary: ''
 
 (4) The regulations may make different provision for ships or aircraft registered in different countries.
 
-(5) Except as provided by this section or in consequence of an Order in Council under section 119(3), nothing in sections 8 to 11, 35 to 38, 45 to 48[^key-ce9a1b5057a01dcfdb740d164ba6580a], 105 and 119 operates so as to impose any prohibition or restriction on persons using wireless telegraphy apparatus on board a foreign-registered ship or aircraft.
+(5) Except as provided by this section or in consequence of an Order in Council under section 119(3), nothing in sections 8 to 11, 35 to 38, 45 to 48[^c-ce9a1b5057a01dcfdb740d164ba6580a], 105 and 119 operates so as to impose any prohibition or restriction on persons using wireless telegraphy apparatus on board a foreign-registered ship or aircraft.
 
 (6) A foreign-registered ship or aircraft is one that—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9a1b5057a01dcfdb740d164ba6580a]: Textual amendment: Word in s. 50(5) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 259(7)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/259/7/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))
+[^c-ce9a1b5057a01dcfdb740d164ba6580a]: Textual amendment: Word in s. 50(5) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 259(7)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/259/7/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/652/regulation/20))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Certification of plans, etc.[^key-374f7182359fef7222493f390643b5f1]
+## 44. Certification of plans, etc.[^c-374f7182359fef7222493f390643b5f1]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ any other plans or documents referred to in this Order as requiring certificatio
 
 ## Annotations
 
-[^key-374f7182359fef7222493f390643b5f1]: Commencement: Art. 44 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-374f7182359fef7222493f390643b5f1]: Commencement: Art. 44 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

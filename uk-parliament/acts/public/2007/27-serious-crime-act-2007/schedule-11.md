@@ -24,9 +24,9 @@ Section 79
 
 ### Amendments to Chapter 3 of Part 5 of 2002 Act
 
-**1.**[^key-dee3bd86ff708c04ec9cc7d62054c810] Chapter 3 of Part 5 of the Proceeds of Crime Act 2002 (c. 29) (recovery of cash in summary proceedings) is amended in accordance with paragraphs 2 to 13.
+**1.**[^c-dee3bd86ff708c04ec9cc7d62054c810] Chapter 3 of Part 5 of the Proceeds of Crime Act 2002 (c. 29) (recovery of cash in summary proceedings) is amended in accordance with paragraphs 2 to 13.
 
-**2.**[^key-d0f44870951b8014b57a5b918aa62e57] (1) Section 289 (powers to search for cash) is amended as follows.
+**2.**[^c-d0f44870951b8014b57a5b918aa62e57] (1) Section 289 (powers to search for cash) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -41,7 +41,7 @@ Section 79
 
 > - (c) are exercisable by an accredited financial investigator only in relation to premises or (as the case may be) suspects in England, Wales or Northern Ireland.
 
-**3.**[^key-12b38412796e981aba36692577fea85b] (1) Section 290 (prior approval by senior officer) is amended as follows.
+**3.**[^c-12b38412796e981aba36692577fea85b] (1) Section 290 (prior approval by senior officer) is amended as follows.
 
 (2) In subsection (4), after paragraph (b), insert—
 
@@ -49,15 +49,15 @@ Section 79
 
 (3) In subsection (6) for “or constable” substitute “ , constable or accredited financial investigator ”.
 
-**4.**[^key-9f6c7cf958720f7453a9fe02ac4b8c49] In section 291(2) (report on exercise of powers) for “or constable” substitute “ , constable or accredited financial investigator ”.
+**4.**[^c-9f6c7cf958720f7453a9fe02ac4b8c49] In section 291(2) (report on exercise of powers) for “or constable” substitute “ , constable or accredited financial investigator ”.
 
-**5.**[^key-aba7f577d1de19f1e9cf664798040103] (1) Section 292 (code of practice) is amended as follows.
+**5.**[^c-aba7f577d1de19f1e9cf664798040103] (1) Section 292 (code of practice) is amended as follows.
 
 (2) In subsection (1) after “constables” insert “ and accredited financial investigators ”.
 
 (3) In subsection (6) for “or constable” substitute “ , a constable or an accredited financial investigator ”.
 
-**6.**[^key-a526b19bcf1586a76c255f293c06a716] (1) Section 294 (seizure of cash) is amended as follows.
+**6.**[^c-a526b19bcf1586a76c255f293c06a716] (1) Section 294 (seizure of cash) is amended as follows.
 
 (2) In subsections (1) and (2) for “or constable” substitute “ , a constable or an accredited financial investigator ”.
 
@@ -65,19 +65,19 @@ Section 79
 
 > (4) This section does not authorise the seizure by an accredited financial investigator of cash found in Scotland.
 
-**7.**[^key-cafce8377440346637df6f91ccb2ad4d] (1) Section 295 (detention of seized cash) is amended as follows.
+**7.**[^c-cafce8377440346637df6f91ccb2ad4d] (1) Section 295 (detention of seized cash) is amended as follows.
 
 (2) In subsection (1) for “or constable” substitute “ , constable or accredited financial investigator ”.
 
 (3) In subsection (4)(a) for “or a constable” substitute “ , a constable or an accredited financial investigator ”.
 
-**8.**[^key-217d2aeaf07baf8ec43c9cb877afcd5a] In section 296(2) (release of part of cash seized) for “or constable” substitute “ , constable or accredited financial investigator ”.
+**8.**[^c-217d2aeaf07baf8ec43c9cb877afcd5a] In section 296(2) (release of part of cash seized) for “or constable” substitute “ , constable or accredited financial investigator ”.
 
-**9.**[^key-67056d302a155517c8135f0699a1cbf5] In section 297(4) (release of detained cash) after “constable” insert “ or accredited financial investigator ”.
+**9.**[^c-67056d302a155517c8135f0699a1cbf5] In section 297(4) (release of detained cash) after “constable” insert “ or accredited financial investigator ”.
 
-**10.**[^key-a26df377d29c20cd00826bb64dfaf62f] In section 298(1)(a) (power to apply for forfeiture) before “or” insert “ , an accredited financial investigator ”.
+**10.**[^c-a26df377d29c20cd00826bb64dfaf62f] In section 298(1)(a) (power to apply for forfeiture) before “or” insert “ , an accredited financial investigator ”.
 
-**11.**[^key-a3f899f87f114e0b836a7b1517d3ad2b] After section 302(7) insert—
+**11.**[^c-a3f899f87f114e0b836a7b1517d3ad2b] After section 302(7) insert—
 
 > (7A) If the cash was seized by an accredited financial investigator who was not an officer of Revenue and Customs or a constable, the compensation is to be paid as follows—
 >
@@ -93,7 +93,7 @@ Section 79
 >
 > (7B) The Secretary of State may by order amend subsection (7A).
 
-**12.**[^key-b504c9baa89175219da6de775e78835e] (1) Section 302A (powers for prosecutors to appear in proceedings) (as inserted by section 84(1) above) is amended as follows.
+**12.**[^c-b504c9baa89175219da6de775e78835e] (1) Section 302A (powers for prosecutors to appear in proceedings) (as inserted by section 84(1) above) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -104,7 +104,7 @@ Section 79
 
 > (4) The references in subsection (1) to an accredited financial investigator do not include an accredited financial investigator who is an officer of Revenue and Customs but the references in subsection (2) to an officer of Revenue and Customs do include an accredited financial investigator who is an officer of Revenue and Customs.
 
-**13.**[^key-918fb413163f4655d5077371117938c6] After section 303 insert—
+**13.**[^c-918fb413163f4655d5077371117938c6] After section 303 insert—
 
 > **303A. Financial investigators**
 >
@@ -122,9 +122,9 @@ Section 79
 
 ### Other amendments to 2002 Act
 
-**14.**[^key-dced4373074cfff3e81f4e3fc58cfcd0] In section 438(1)(f) of the Proceeds of Crime Act 2002 (c. 29) (disclosure of information by the Director of the Assets Recovery Agency) before “or” insert “ , an accredited financial investigator ”.
+**14.**[^c-dced4373074cfff3e81f4e3fc58cfcd0] In section 438(1)(f) of the Proceeds of Crime Act 2002 (c. 29) (disclosure of information by the Director of the Assets Recovery Agency) before “or” insert “ , an accredited financial investigator ”.
 
-**15.**[^key-fcef1929f7309412a70495abbcca7b39] (1) Section 459 of that Act (orders and regulations) is amended as follows.
+**15.**[^c-fcef1929f7309412a70495abbcca7b39] (1) Section 459 of that Act (orders and regulations) is amended as follows.
 
 (2) In subsection (4)(a) (exceptions to negative procedure) after “292(4),” insert “ 302(7B), ”.
 
@@ -136,42 +136,42 @@ Section 79
 
 ### Amendments to other enactments
 
-**16.**[^key-b4d4749426b03c8748f76062b8a7489d] In section 40(2)(ca)(iv) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (confidentiality) (as inserted by Schedule 8) after “Customs” insert “ , an accredited financial investigator ”.
+**16.**[^c-b4d4749426b03c8748f76062b8a7489d] In section 40(2)(ca)(iv) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (confidentiality) (as inserted by Schedule 8) after “Customs” insert “ , an accredited financial investigator ”.
 
-**17.**[^key-ec9c702f331d50bd9606be02c03e4063] In section 33(2)(cd) of the Serious Organised Crime and Police Act 2005 (c. 15) (disclosure of information by SOCA) (as inserted by Schedule 8) after “Customs” insert “ , an accredited financial investigator ”.
+**17.**[^c-ec9c702f331d50bd9606be02c03e4063] In section 33(2)(cd) of the Serious Organised Crime and Police Act 2005 (c. 15) (disclosure of information by SOCA) (as inserted by Schedule 8) after “Customs” insert “ , an accredited financial investigator ”.
 
 ## Annotations
 
-[^key-dee3bd86ff708c04ec9cc7d62054c810]: Commencement: Sch. 11 para. 1 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-dee3bd86ff708c04ec9cc7d62054c810]: Commencement: Sch. 11 para. 1 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-d0f44870951b8014b57a5b918aa62e57]: Commencement: Sch. 11 para. 2 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-d0f44870951b8014b57a5b918aa62e57]: Commencement: Sch. 11 para. 2 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-12b38412796e981aba36692577fea85b]: Commencement: Sch. 11 para. 3 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-12b38412796e981aba36692577fea85b]: Commencement: Sch. 11 para. 3 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-9f6c7cf958720f7453a9fe02ac4b8c49]: Commencement: Sch. 11 para. 4 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-9f6c7cf958720f7453a9fe02ac4b8c49]: Commencement: Sch. 11 para. 4 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-aba7f577d1de19f1e9cf664798040103]: Commencement: Sch. 11 para. 5 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-aba7f577d1de19f1e9cf664798040103]: Commencement: Sch. 11 para. 5 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-a526b19bcf1586a76c255f293c06a716]: Commencement: Sch. 11 para. 6 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-a526b19bcf1586a76c255f293c06a716]: Commencement: Sch. 11 para. 6 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-cafce8377440346637df6f91ccb2ad4d]: Commencement: Sch. 11 para. 7 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-cafce8377440346637df6f91ccb2ad4d]: Commencement: Sch. 11 para. 7 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-217d2aeaf07baf8ec43c9cb877afcd5a]: Commencement: Sch. 11 para. 8 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-217d2aeaf07baf8ec43c9cb877afcd5a]: Commencement: Sch. 11 para. 8 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-67056d302a155517c8135f0699a1cbf5]: Commencement: Sch. 11 para. 9 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-67056d302a155517c8135f0699a1cbf5]: Commencement: Sch. 11 para. 9 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-a26df377d29c20cd00826bb64dfaf62f]: Commencement: Sch. 11 para. 10 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-a26df377d29c20cd00826bb64dfaf62f]: Commencement: Sch. 11 para. 10 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-a3f899f87f114e0b836a7b1517d3ad2b]: Commencement: Sch. 11 para. 11 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-a3f899f87f114e0b836a7b1517d3ad2b]: Commencement: Sch. 11 para. 11 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-b504c9baa89175219da6de775e78835e]: Commencement: Sch. 11 para. 12 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-b504c9baa89175219da6de775e78835e]: Commencement: Sch. 11 para. 12 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-918fb413163f4655d5077371117938c6]: Commencement: Sch. 11 para. 13 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-918fb413163f4655d5077371117938c6]: Commencement: Sch. 11 para. 13 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-dced4373074cfff3e81f4e3fc58cfcd0]: Commencement: Sch. 11 para. 14 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-dced4373074cfff3e81f4e3fc58cfcd0]: Commencement: Sch. 11 para. 14 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-fcef1929f7309412a70495abbcca7b39]: Commencement: Sch. 11 para. 15 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-fcef1929f7309412a70495abbcca7b39]: Commencement: Sch. 11 para. 15 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-b4d4749426b03c8748f76062b8a7489d]: Commencement: Sch. 11 para. 16 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-b4d4749426b03c8748f76062b8a7489d]: Commencement: Sch. 11 para. 16 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
 
-[^key-ec9c702f331d50bd9606be02c03e4063]: Commencement: Sch. 11 para. 17 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-ec9c702f331d50bd9606be02c03e4063]: Commencement: Sch. 11 para. 17 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)

@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Goods Vehicles (Licensing of Operators) (Temporary Use in Great Britain) (Amendment) Regulations 2017 (revoked)[^key-baf1064b7702019001f286da5fc7f900]
+The Goods Vehicles (Licensing of Operators) (Temporary Use in Great Britain) (Amendment) Regulations 2017 (revoked)[^c-baf1064b7702019001f286da5fc7f900]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 26th May 2017
 
-[^key-baf1064b7702019001f286da5fc7f900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-baf1064b7702019001f286da5fc7f900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-baf1064b7702019001f286da5fc7f900]
+## 1. Citation and commencement[^c-baf1064b7702019001f286da5fc7f900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-baf1064b7702019001f286da5fc7f900]
+## 2. Amendment of Regulations[^c-baf1064b7702019001f286da5fc7f900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-baf1064b7702019001f286da5fc7f900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-baf1064b7702019001f286da5fc7f900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-baf1064b7702019001f286da5fc7f900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-baf1064b7702019001f286da5fc7f900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-baf1064b7702019001f286da5fc7f900]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/577) revoked (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/805/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2023/805/regulation/11))
+[^c-baf1064b7702019001f286da5fc7f900]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/577) revoked (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/805/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2023/805/regulation/11))

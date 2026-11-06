@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009 (revoked)[^key-9b74eb70119916b33747cc14ce73c2ba]
+The Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009 (revoked)[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 Made
 
@@ -46,75 +46,75 @@ Coming into force
 
 1st January 2010
 
-[^key-9b74eb70119916b33747cc14ce73c2ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b74eb70119916b33747cc14ce73c2ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 1. Title and commencement[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 2. Interpretation[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Competent authority[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 3. Competent authority[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designated coordinating authority[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 4. Designated coordinating authority[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Applications[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 5. Applications[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Minimum size of agricultural area[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 6. Minimum size of agricultural area[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Interest[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 7. Interest[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Recovery of payments[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 8. Recovery of payments[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of authorised persons[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 9. Powers of authorised persons[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Offences and penalties[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 10. Offences and penalties[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Liability of Directors etc.[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 11. Liability of Directors etc.[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Offences by partnerships and unincorporated associations[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 12. Offences by partnerships and unincorporated associations[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Agency arrangements[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 13. Agency arrangements[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Set off[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 14. Set off[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Revocations and savings[^key-9b74eb70119916b33747cc14ce73c2ba]
+## 15. Revocations and savings[^c-9b74eb70119916b33747cc14ce73c2ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b74eb70119916b33747cc14ce73c2ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b74eb70119916b33747cc14ce73c2ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9b74eb70119916b33747cc14ce73c2ba]EXPLANATORY NOTE
+[^c-9b74eb70119916b33747cc14ce73c2ba]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -144,4 +144,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-9b74eb70119916b33747cc14ce73c2ba]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-9b74eb70119916b33747cc14ce73c2ba]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

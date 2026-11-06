@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Series of leases whose term would extend beyond 21 years[^key-2c78cfa7eeaadf49ed2dd05532441108]
+## 4. Series of leases whose term would extend beyond 21 years[^c-2c78cfa7eeaadf49ed2dd05532441108]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ would exceed 21 years.
 
 ## Annotations
 
-[^key-2c78cfa7eeaadf49ed2dd05532441108]: Commencement: S. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2c78cfa7eeaadf49ed2dd05532441108]: Commencement: S. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

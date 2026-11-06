@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Breach of requirement as to brakes, steering-gear or tyres.[^key-846e98114ae16057c8e8cb7aa8eed682][^c13972981]
+## 41A. Breach of requirement as to brakes, steering-gear or tyres.[^c-846e98114ae16057c8e8cb7aa8eed682][^c13972981]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-846e98114ae16057c8e8cb7aa8eed682]: Modification: S. 41A excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-846e98114ae16057c8e8cb7aa8eed682]: Modification: S. 41A excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13972981]: Textual amendment: Ss. 41A, 41B, 42 substituted (1.7.1992) for s. 42 by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 8(2)](https://www.legislation.gov.uk/ukpga/1991/40/section/8/2); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.

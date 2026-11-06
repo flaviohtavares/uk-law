@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259ID. Section 259ID income for the purposes of section 259IC[^key-39483b88db5e7b01365c0ed710b71fe4]
+## 259ID. Section 259ID income for the purposes of section 259IC[^c-39483b88db5e7b01365c0ed710b71fe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39483b88db5e7b01365c0ed710b71fe4]: Textual amendment: [S. 259ID](https://www.legislation.gov.uk/ukpga/2010/8/section/259ID) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 12(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/12/4)
+[^c-39483b88db5e7b01365c0ed710b71fe4]: Textual amendment: [S. 259ID](https://www.legislation.gov.uk/ukpga/2010/8/section/259ID) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 12(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/12/4)

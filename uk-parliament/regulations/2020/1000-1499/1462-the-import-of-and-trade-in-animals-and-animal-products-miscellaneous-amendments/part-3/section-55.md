@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Commission Decision [2009/712/EC](https://www.legislation.gov.uk/european/decision/2009/0712) implementing Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073) as regards Internet-based information pages containing lists of establishments and laboratories approved by Member States in accordance with Community veterinary legislation[^key-e8857f08b5977f2950d856271593dcab]
+## 55. Commission Decision [2009/712/EC](https://www.legislation.gov.uk/european/decision/2009/0712) implementing Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073) as regards Internet-based information pages containing lists of establishments and laboratories approved by Member States in accordance with Community veterinary legislation[^c-e8857f08b5977f2950d856271593dcab]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8857f08b5977f2950d856271593dcab]: Commencement: Reg. 55 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-e8857f08b5977f2950d856271593dcab]: Commencement: Reg. 55 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

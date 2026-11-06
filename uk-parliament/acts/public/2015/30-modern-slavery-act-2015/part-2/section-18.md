@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Prohibitions on foreign travel[^key-d63bd1b03a76db6bc71e08cc34c5d6e0]
+## 18. Prohibitions on foreign travel[^c-d63bd1b03a76db6bc71e08cc34c5d6e0]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d63bd1b03a76db6bc71e08cc34c5d6e0]: Commencement: S. 18 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-d63bd1b03a76db6bc71e08cc34c5d6e0]: Commencement: S. 18 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

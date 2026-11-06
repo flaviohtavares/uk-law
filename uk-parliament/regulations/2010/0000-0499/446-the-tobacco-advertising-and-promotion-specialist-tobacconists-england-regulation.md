@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 6(A1), 7B(3) and 19(2) of the Tobacco Advertising and Promotion Act 2002[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation[^key-27e0d67ce81207567653e3a0d2bf4da2]
+## 1. Citation, commencement, application and interpretation[^c-27e0d67ce81207567653e3a0d2bf4da2]
 
-(1) These Regulations may be cited as the Tobacco Advertising and Promotion (Specialist Tobacconists) (England) Regulations 2010 and come into force on 6th April 2015[^key-114a114fb71a619746967ac114cab827].
+(1) These Regulations may be cited as the Tobacco Advertising and Promotion (Specialist Tobacconists) (England) Regulations 2010 and come into force on 6th April 2015[^c-114a114fb71a619746967ac114cab827].
 
 (2) These Regulations apply to England.
 
 (3) In these Regulations “the Act” means the Tobacco Advertising and Promotion Act 2002.
 
-## 2. Advertising in specialist tobacconists[^key-e4994c58af5fd7265ca9afda71d6f178]
+## 2. Advertising in specialist tobacconists[^c-e4994c58af5fd7265ca9afda71d6f178]
 
 (1) No offence is committed under section 2 of the Act (prohibition of tobacco advertising) if a tobacco advertisement—
 
@@ -75,7 +75,7 @@ The Secretary of State, in exercise of the powers conferred by sections 6(A1), 7
 
 (4) The health warning must state—
 
-- (a) in a case where half or more[^key-be535a140fc26ad43c53c88be7204542] of the area of an advertisement other than the information area (“the advertisement area”) is used to advertise tobacco products which are intended to be smoked—
+- (a) in a case where half or more[^c-be535a140fc26ad43c53c88be7204542] of the area of an advertisement other than the information area (“the advertisement area”) is used to advertise tobacco products which are intended to be smoked—
 
   > - “Smoking kills”; or
   > - “Smoking seriously harms you and others around you”
@@ -106,18 +106,18 @@ and, for the purposes of this paragraph, the total area of the advertisement mea
 - (h) surrounded by a black border outside the information area, which shall be not less than 3 millimetres and not more than 4 millimetres in width, which does not interfere with the text of the warning or information; and
 - (i) irremovably printed on the advertisement or affixed to the advertisement by means of an irremovable sticker.
 
-## 3. Display of tobacco products in specialist tobacconists[^key-edd83b02ad69dfa90a64f875a2826aa1]
+## 3. Display of tobacco products in specialist tobacconists[^c-edd83b02ad69dfa90a64f875a2826aa1]
 
 No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays)[^f00003] by a display of tobacco products if the display is—
 
 - (a) in a specialist tobacconist; and
 - (b) not visible from outside of the premises of the specialist tobacconist.
 
-## 4. Revocation[^key-27c4e5dca13c6ae80f3844e378029ba6]
+## 4. Revocation[^c-27c4e5dca13c6ae80f3844e378029ba6]
 
 The Tobacco Advertising and Promotion (Specialist Tobacconists) Regulations 2004[^f00004] are revoked.
 
-## 5. Review[^key-464458e31039fb1bb333751cadfca1d4]
+## 5. Review[^c-464458e31039fb1bb333751cadfca1d4]
 
 (1) The Secretary of State must from time to time—
 
@@ -163,22 +163,22 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2002 c.36](https://www.legislation.gov.uk/ukpga/2002/36). Sections 6(A1) and 7B(3) were inserted by the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21), sections 20 and 21. The Secretary of State is the “appropriate Minister” in relation to England under section 21(1) of the Tobacco Advertising and Promotion Act 2002 (“the Act”), which was substituted by section 24 of, and paragraphs 2 and 12 of Schedule 4 to, the Health Act 2009.
 
-[^key-27e0d67ce81207567653e3a0d2bf4da2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/446/regulation/1) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
+[^c-27e0d67ce81207567653e3a0d2bf4da2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/446/regulation/1) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
 
-[^key-114a114fb71a619746967ac114cab827]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1256/regulation/3)
+[^c-114a114fb71a619746967ac114cab827]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1256/regulation/3)
 
-[^key-e4994c58af5fd7265ca9afda71d6f178]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/446/regulation/2) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
+[^c-e4994c58af5fd7265ca9afda71d6f178]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/446/regulation/2) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
 
 [^f00002]: Footnote: *See* section 6(2) and (3) of the Act for the definition of a “specialist tobacconist”.
 
-[^key-be535a140fc26ad43c53c88be7204542]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2010/446/regulation/2/4/a) substituted (E.) (6.4.2015) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/677/regulation/3/a)
+[^c-be535a140fc26ad43c53c88be7204542]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2010/446/regulation/2/4/a) substituted (E.) (6.4.2015) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/677/regulation/3/a)
 
-[^key-edd83b02ad69dfa90a64f875a2826aa1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/446/regulation/3) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
+[^c-edd83b02ad69dfa90a64f875a2826aa1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/446/regulation/3) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
 
 [^f00003]: Footnote: Section 7A was inserted by the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21), section 21.
 
-[^key-27c4e5dca13c6ae80f3844e378029ba6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/446/regulation/4) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
+[^c-27c4e5dca13c6ae80f3844e378029ba6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/446/regulation/4) in force at 6.4.2015 (as amended by S.I. 2011/256, reg. 3), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/446/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2004/1277](https://www.legislation.gov.uk/uksi/2004/1277). There are no amendments to these Regulations.
 
-[^key-464458e31039fb1bb333751cadfca1d4]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/446/regulation/5) inserted (6.4.2015) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/677/regulation/3/b)
+[^c-464458e31039fb1bb333751cadfca1d4]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/446/regulation/5) inserted (6.4.2015) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/677/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Offence of breaching restrictions under section 96[^key-d4c34b268b125492d46e7c2d4c9b24b8]
+## 97. Offence of breaching restrictions under section 96[^c-d4c34b268b125492d46e7c2d4c9b24b8]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c34b268b125492d46e7c2d4c9b24b8]: Commencement: S. 97 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d4c34b268b125492d46e7c2d4c9b24b8]: Commencement: S. 97 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

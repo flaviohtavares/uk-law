@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Extension of provisions about audiovisual and radio broadcasting[^key-db0e31667547800a1aadce7592f3eee4]
+## 133. Extension of provisions about audiovisual and radio broadcasting[^c-db0e31667547800a1aadce7592f3eee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Schedule 16 contains—
 
 ## Annotations
 
-[^key-db0e31667547800a1aadce7592f3eee4]: Commencement: S. 133 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-db0e31667547800a1aadce7592f3eee4]: Commencement: S. 133 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

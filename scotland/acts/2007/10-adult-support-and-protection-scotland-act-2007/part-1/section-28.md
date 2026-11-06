@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Arrest for breach of banning order[^key-fceb2456d428b5a028094ff30b7fb08a]
+## 28. Arrest for breach of banning order[^c-fceb2456d428b5a028094ff30b7fb08a]
 
 *Extent: S*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) reasonably suspects the subject to be breaching, or to have breached, the order, and
 - (b) considers that there would, if the subject were not arrested, be a risk of the subject breaching the order again.
 
-(2)[^key-02fe552d21f16bf869b4be4835febd5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02fe552d21f16bf869b4be4835febd5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fceb2456d428b5a028094ff30b7fb08a]: Commencement: S. 28 in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-fceb2456d428b5a028094ff30b7fb08a]: Commencement: S. 28 in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
 
-[^key-02fe552d21f16bf869b4be4835febd5c]: Textual amendment: [S. 28(2)](https://www.legislation.gov.uk/asp/2007/10/section/28/2) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 6(2)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/6/2)
+[^c-02fe552d21f16bf869b4be4835febd5c]: Textual amendment: [S. 28(2)](https://www.legislation.gov.uk/asp/2007/10/section/28/2) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 6(2)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/6/2)

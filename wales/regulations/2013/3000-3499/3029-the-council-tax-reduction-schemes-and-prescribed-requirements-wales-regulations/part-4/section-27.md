@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Classes of person who must not be included in a scheme[^key-066e22c80f372532f844470298eb3f70]
+## 27. Classes of person who must not be included in a scheme[^c-066e22c80f372532f844470298eb3f70]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The classes of persons described in regulations 28 to 31 are classes of person p
 
 ## Annotations
 
-[^key-066e22c80f372532f844470298eb3f70]: Commencement: Reg. 27 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-066e22c80f372532f844470298eb3f70]: Commencement: Reg. 27 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00102]: Footnote: Schedule 1B was inserted by section 10(2) and (3)(a) of, and paragraph 1 of Schedule 4 to, the Local Government Finance Act [2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17).

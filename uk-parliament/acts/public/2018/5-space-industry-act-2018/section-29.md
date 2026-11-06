@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Power to give directions: international obligations of the UK[^key-75ee68b5c7f4ce1d03aa153c0c03ac83]
+## 29. Power to give directions: international obligations of the UK[^c-75ee68b5c7f4ce1d03aa153c0c03ac83]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ if the Secretary of State considers it necessary or expedient to give the direct
 
 ## Annotations
 
-[^key-75ee68b5c7f4ce1d03aa153c0c03ac83]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2018/5/section/29) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/50) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-75ee68b5c7f4ce1d03aa153c0c03ac83]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2018/5/section/29) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/50) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

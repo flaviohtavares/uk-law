@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17B. Duty to ensure disqualified person is not a member[^key-fdcb4c51d1e63d40a4c37e871207cfd0]
+## 17B. Duty to ensure disqualified person is not a member[^c-fdcb4c51d1e63d40a4c37e871207cfd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Section 169A applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-fdcb4c51d1e63d40a4c37e871207cfd0]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17B) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/234/regulation/19); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-fdcb4c51d1e63d40a4c37e871207cfd0]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17B) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2024/234/regulation/19); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

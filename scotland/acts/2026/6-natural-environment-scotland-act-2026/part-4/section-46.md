@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Guidance about scallop shells[^key-d14e5ba44edba8b94bc3c63b0391238f][^key-00c75c438b6cbcafb0da1e17a0dad029]
+## 46. Guidance about scallop shells[^c-d14e5ba44edba8b94bc3c63b0391238f][^c-00c75c438b6cbcafb0da1e17a0dad029]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d14e5ba44edba8b94bc3c63b0391238f]: Commencement: S. 46 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-d14e5ba44edba8b94bc3c63b0391238f]: Commencement: S. 46 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-00c75c438b6cbcafb0da1e17a0dad029]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2026/6/section/46) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z1)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z1)
+[^c-00c75c438b6cbcafb0da1e17a0dad029]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2026/6/section/46) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z1)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z1)

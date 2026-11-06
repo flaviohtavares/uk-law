@@ -34,7 +34,7 @@ Income Tax
 
 Corporation Tax
 
-The Capital Allowances (Energy-saving Plant and Machinery) (Amendment) Order 2008 (revoked)[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]
+The Capital Allowances (Energy-saving Plant and Machinery) (Amendment) Order 2008 (revoked)[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 11th August 2008
 
-[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]
+## 1. Citation and commencement[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Capital Allowances (Energy-saving Plant and Machinery) Order 2001[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]
+## 2. Amendment of the Capital Allowances (Energy-saving Plant and Machinery) Order 2001[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f1d9b9108e4a88d75ffcd12a9d7a131]: Textual amendment: Order revoked (22.3.2018) by [The Capital Allowances (Energy-saving Plant and Machinery) Order 2018 (S.I. 2018/268)](https://www.legislation.gov.uk/uksi/2018/268), [arts. 1](https://www.legislation.gov.uk/uksi/2018/268/article/1), [7(h)](https://www.legislation.gov.uk/uksi/2018/268/article/7/h)
+[^c-7f1d9b9108e4a88d75ffcd12a9d7a131]: Textual amendment: Order revoked (22.3.2018) by [The Capital Allowances (Energy-saving Plant and Machinery) Order 2018 (S.I. 2018/268)](https://www.legislation.gov.uk/uksi/2018/268), [arts. 1](https://www.legislation.gov.uk/uksi/2018/268/article/1), [7(h)](https://www.legislation.gov.uk/uksi/2018/268/article/7/h)

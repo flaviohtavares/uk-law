@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. First-tier Tribunal's jurisdiction[^key-e10104150cba90511aa3880afa58b68d]
+## 68. First-tier Tribunal's jurisdiction[^c-e10104150cba90511aa3880afa58b68d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e10104150cba90511aa3880afa58b68d]: Textual amendment: S. 68 repealed (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 14(2)](https://www.legislation.gov.uk/asp/2020/18/section/14/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
+[^c-e10104150cba90511aa3880afa58b68d]: Textual amendment: S. 68 repealed (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 14(2)](https://www.legislation.gov.uk/asp/2020/18/section/14/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)

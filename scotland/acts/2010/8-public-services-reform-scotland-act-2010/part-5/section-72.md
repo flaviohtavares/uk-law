@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Right to make representations to SCSWIS as respects proposals under Chapter 3[^key-6382b764cd8a755b8813b9c2c91ad22d][^key-04dfc593027e7f9d7eb5c8d15ed6ca58]
+## 72. Right to make representations to SCSWIS as respects proposals under Chapter 3[^c-6382b764cd8a755b8813b9c2c91ad22d][^c-04dfc593027e7f9d7eb5c8d15ed6ca58]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6382b764cd8a755b8813b9c2c91ad22d]: Commencement: S. 72 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-6382b764cd8a755b8813b9c2c91ad22d]: Commencement: S. 72 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-04dfc593027e7f9d7eb5c8d15ed6ca58]: Commencement: S. 72 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-04dfc593027e7f9d7eb5c8d15ed6ca58]: Commencement: S. 72 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

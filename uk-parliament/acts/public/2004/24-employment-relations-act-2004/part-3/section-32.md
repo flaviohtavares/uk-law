@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Dismissal for use of union services or refusal of inducement[^key-7e302b66ef18c3bfee06a11641654ce3]
+## 32. Dismissal for use of union services or refusal of inducement[^c-7e302b66ef18c3bfee06a11641654ce3]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e302b66ef18c3bfee06a11641654ce3]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2004/24/section/32) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2566/article/7))
+[^c-7e302b66ef18c3bfee06a11641654ce3]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2004/24/section/32) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2566/article/7))

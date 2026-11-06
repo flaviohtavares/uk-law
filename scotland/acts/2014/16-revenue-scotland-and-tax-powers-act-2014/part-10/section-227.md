@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 227. Requirement for contact details for debtor[^key-60a997415ad94613353b5ae702d2b981]
+## 227. Requirement for contact details for debtor[^c-60a997415ad94613353b5ae702d2b981]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60a997415ad94613353b5ae702d2b981]: Commencement: [S. 227](https://www.legislation.gov.uk/asp/2014/16/section/227) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-60a997415ad94613353b5ae702d2b981]: Commencement: [S. 227](https://www.legislation.gov.uk/asp/2014/16/section/227) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

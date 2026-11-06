@@ -31,7 +31,7 @@ summary: ''
 
 MEDICAL PROFESSION
 
-The European Specialist Medical Qualifications Amendment Regulations 2002 (revoked)[^key-ec140829f59753121f4048ab92a9a7d7]
+The European Specialist Medical Qualifications Amendment Regulations 2002 (revoked)[^c-ec140829f59753121f4048ab92a9a7d7]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 17th April 2002
 
-[^key-ec140829f59753121f4048ab92a9a7d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec140829f59753121f4048ab92a9a7d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ec140829f59753121f4048ab92a9a7d7]
+## 1. Citation and commencement[^c-ec140829f59753121f4048ab92a9a7d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the European Specialist Medical Qualifications Order 1995[^key-ec140829f59753121f4048ab92a9a7d7]
+## 2. Amendment of the European Specialist Medical Qualifications Order 1995[^c-ec140829f59753121f4048ab92a9a7d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec140829f59753121f4048ab92a9a7d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec140829f59753121f4048ab92a9a7d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ec140829f59753121f4048ab92a9a7d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec140829f59753121f4048ab92a9a7d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec140829f59753121f4048ab92a9a7d7]: Textual amendment: Regulations revoked (30.9.2005 as notified in the London, Edinburgh and Belfast Gazettes dated 26.8.2005) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)](https://www.legislation.gov.uk/uksi/2003/1250), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1250/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2003/1250/article/1/3), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1250/schedule/10/part/2)
+[^c-ec140829f59753121f4048ab92a9a7d7]: Textual amendment: Regulations revoked (30.9.2005 as notified in the London, Edinburgh and Belfast Gazettes dated 26.8.2005) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)](https://www.legislation.gov.uk/uksi/2003/1250), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1250/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2003/1250/article/1/3), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1250/schedule/10/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44B. Deemed earnings factors: 2010–11 onwards[^key-23ad7c62045cb4c50a1d3b7f0eea2346]
+## 44B. Deemed earnings factors: 2010–11 onwards[^c-23ad7c62045cb4c50a1d3b7f0eea2346]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of section 44(6)(za) above, if any of Conditions A to C in subsections (3) to (5) below is satisfied for a relevant year to which this section applies, a pensioner is deemed to have an earnings factor for that year which—
 
-- (a) is derived from so much of his earnings as did not exceed the upper accrual point[^key-970fe1c21235cbd0df98a75db2a24913] and on which primary Class 1 contributions were paid; and
+- (a) is derived from so much of his earnings as did not exceed the upper accrual point[^c-970fe1c21235cbd0df98a75db2a24913] and on which primary Class 1 contributions were paid; and
 - (b) is equal to the amount which, when added to any other earnings factors taken into account under that provision, produces an aggregate of earnings factors equal to the low earnings threshold.
 
 (3) Condition A is that the pensioner would, apart from this section, have an earnings factor for the year—
@@ -46,14 +46,14 @@ summary: ''
 
 (7) In this section—
 
-- (a)[^key-6a143ad315fb36ce781371ac6aa8b259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6a143ad315fb36ce781371ac6aa8b259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**the low earnings threshold**” means the low earnings threshold for the year concerned as specified in section 44A above; and
 - (c) in subsections (3) and (4) above, any reference to the pensioner's earnings factor for a relevant year is to be construed in accordance with section 44(6)(za) above.
 
 ## Annotations
 
-[^key-23ad7c62045cb4c50a1d3b7f0eea2346]: Textual amendment: [Ss. 44B](https://www.legislation.gov.uk/ukpga/1992/7/section/44B), [44C](https://www.legislation.gov.uk/ukpga/1992/7/section/44C) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 7(1)](https://www.legislation.gov.uk/nia/2008/1/section/7/1)
+[^c-23ad7c62045cb4c50a1d3b7f0eea2346]: Textual amendment: [Ss. 44B](https://www.legislation.gov.uk/ukpga/1992/7/section/44B), [44C](https://www.legislation.gov.uk/ukpga/1992/7/section/44C) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 7(1)](https://www.legislation.gov.uk/nia/2008/1/section/7/1)
 
-[^key-970fe1c21235cbd0df98a75db2a24913]: Textual amendment: Words in [s. 44B(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/44B/2/a) substituted (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(2)](https://www.legislation.gov.uk/nia/2008/13/section/118/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/7/paragraph/5) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73))
+[^c-970fe1c21235cbd0df98a75db2a24913]: Textual amendment: Words in [s. 44B(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/44B/2/a) substituted (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(2)](https://www.legislation.gov.uk/nia/2008/13/section/118/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/7/paragraph/5) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73))
 
-[^key-6a143ad315fb36ce781371ac6aa8b259]: Textual amendment: [S. 44B(7)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/44B/7/a) repealed (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(2)](https://www.legislation.gov.uk/nia/2008/13/section/118/2), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/6) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73))
+[^c-6a143ad315fb36ce781371ac6aa8b259]: Textual amendment: [S. 44B(7)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/44B/7/a) repealed (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(2)](https://www.legislation.gov.uk/nia/2008/13/section/118/2), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/6) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73))

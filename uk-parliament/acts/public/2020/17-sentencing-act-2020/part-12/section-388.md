@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 388. Review of sentence following subsequent agreement for assistance by offender[^key-c134bd2e3e0794e28dfa0243903968d3]
+## 388. Review of sentence following subsequent agreement for assistance by offender[^c-c134bd2e3e0794e28dfa0243903968d3]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ But this is subject to subsection (10).
 
 ## Annotations
 
-[^key-c134bd2e3e0794e28dfa0243903968d3]: Commencement: S. 388 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c134bd2e3e0794e28dfa0243903968d3]: Commencement: S. 388 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

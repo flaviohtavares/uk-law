@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. HRA action plans[^key-897a745d2404417955f7e712210c35ef]
+## 3. HRA action plans[^c-897a745d2404417955f7e712210c35ef]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-897a745d2404417955f7e712210c35ef]: Commencement: S. 3 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-897a745d2404417955f7e712210c35ef]: Commencement: S. 3 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

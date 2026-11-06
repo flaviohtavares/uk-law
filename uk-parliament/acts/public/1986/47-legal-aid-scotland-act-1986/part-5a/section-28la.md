@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28LA. Power of Scottish Ministers to provide for children's legal aid to be available to other persons in relation to court proceedings[^key-9a84552e60916c2a3b09839028510865]
+## 28LA. Power of Scottish Ministers to provide for children's legal aid to be available to other persons in relation to court proceedings[^c-9a84552e60916c2a3b09839028510865]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) that it is in the best interests of the child that children's legal aid be made available,
 - (b) that it is reasonable in the particular circumstances of the case that the child should receive children's legal aid,
 - (c) that, after consideration of the disposable income and disposable capital of the child, the expenses of the case cannot be met without undue hardship to the child, and
-- (d) if the proceedings are an appeal to the Sheriff Appeal Court[^key-c4e0620e79cf7839b41dd1aa5c22a044] or the Court of Session under Part 15 of the 2011 Act, that the child has substantial grounds for making or responding to the appeal.
+- (d) if the proceedings are an appeal to the Sheriff Appeal Court[^c-c4e0620e79cf7839b41dd1aa5c22a044] or the Court of Session under Part 15 of the 2011 Act, that the child has substantial grounds for making or responding to the appeal.
 
 (4) If regulations are made making children's legal aid available to a person other than a child, the regulations must include provision requiring the Board to be satisfied that the conditions in subsection (5) are met before children's legal aid is made available.
 
@@ -41,12 +41,12 @@ summary: ''
 
 - (a) that it is reasonable in the particular circumstances of the case that the person should receive children's legal aid,
 - (b) that, after consideration of the disposable income and disposable capital of the person, the expenses of the case cannot be met without undue hardship to the person or the dependants of the person, and
-- (c) if the proceedings are an appeal to the Sheriff Appeal Court[^key-9b7534f97259bc69d51c7af16fca71dd] or the Court of Session under Part 15 of the 2011 Act, that the person has substantial grounds for making or responding to the appeal.
+- (c) if the proceedings are an appeal to the Sheriff Appeal Court[^c-9b7534f97259bc69d51c7af16fca71dd] or the Court of Session under Part 15 of the 2011 Act, that the person has substantial grounds for making or responding to the appeal.
 
 ## Annotations
 
-[^key-9a84552e60916c2a3b09839028510865]: Textual amendment: S. 28LA inserted (28.11.2016) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 92(3)](https://www.legislation.gov.uk/asp/2014/8/section/92/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/2/a)
+[^c-9a84552e60916c2a3b09839028510865]: Textual amendment: S. 28LA inserted (28.11.2016) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 92(3)](https://www.legislation.gov.uk/asp/2014/8/section/92/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/2/a)
 
-[^key-c4e0620e79cf7839b41dd1aa5c22a044]: Textual amendment: Words in s. 28LA(3)(d) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(5)(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/5/a) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-c4e0620e79cf7839b41dd1aa5c22a044]: Textual amendment: Words in s. 28LA(3)(d) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(5)(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/5/a) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-9b7534f97259bc69d51c7af16fca71dd]: Textual amendment: Words in s. 28LA(5)(c) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(5)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/5/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-9b7534f97259bc69d51c7af16fca71dd]: Textual amendment: Words in s. 28LA(5)(c) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(5)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/5/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))

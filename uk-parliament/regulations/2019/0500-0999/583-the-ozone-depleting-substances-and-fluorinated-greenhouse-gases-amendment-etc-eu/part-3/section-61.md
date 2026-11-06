@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Commission Regulation [(EC) No 1497/2007](https://www.legislation.gov.uk/eur/2007/1497)[^key-3059446897ef4f690056f53a23249447]
+## 61. Commission Regulation [(EC) No 1497/2007](https://www.legislation.gov.uk/eur/2007/1497)[^c-3059446897ef4f690056f53a23249447]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Commission Regulation [(EC) No 1497/2007](https://www.legislation.gov.uk/eur/
 
 ## Annotations
 
-[^key-3059446897ef4f690056f53a23249447]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3059446897ef4f690056f53a23249447]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

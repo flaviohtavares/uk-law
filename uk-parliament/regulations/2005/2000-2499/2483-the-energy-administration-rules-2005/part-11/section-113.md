@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Right to inspect file[^key-175165b0f2110a7d2bd54921e0200382]
+## 113. Right to inspect file[^c-175165b0f2110a7d2bd54921e0200382]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ An application for a direction of the court under this paragraph may be made by 
 
 ## Annotations
 
-[^key-175165b0f2110a7d2bd54921e0200382]: Commencement: Rule 113 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-175165b0f2110a7d2bd54921e0200382]: Commencement: Rule 113 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

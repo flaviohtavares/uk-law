@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Benefits in respect of period before amendments[^key-26d28aad43eb6714e0b08dc4b44a1e51]
+## 67. Benefits in respect of period before amendments[^c-26d28aad43eb6714e0b08dc4b44a1e51]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26d28aad43eb6714e0b08dc4b44a1e51]: Commencement: Reg. 67 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-26d28aad43eb6714e0b08dc4b44a1e51]: Commencement: Reg. 67 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107F. Entitlement to leave under Article 107E: further provision[^key-19972f31637f696df1d9548fa61c1b9b][^c22340171]
+## 107F. Entitlement to leave under Article 107E: further provision[^c-19972f31637f696df1d9548fa61c1b9b][^c22340171]
 
 *Extent: N.I.*
 
@@ -95,6 +95,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
+[^c-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)

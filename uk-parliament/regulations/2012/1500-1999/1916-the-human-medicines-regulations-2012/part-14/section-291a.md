@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291A. Campaigns relating to the suspected or confirmed spread of pathogenic agents etc.[^key-da26b914c888b74ec684e1e6872164af]
+## 291A. Campaigns relating to the suspected or confirmed spread of pathogenic agents etc.[^c-da26b914c888b74ec684e1e6872164af]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da26b914c888b74ec684e1e6872164af]: Textual amendment: Reg. 291A inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2020/1125/regulation/24) and reg. 291A inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2020/349/regulation/24)
+[^c-da26b914c888b74ec684e1e6872164af]: Textual amendment: Reg. 291A inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2020/1125/regulation/24) and reg. 291A inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2020/349/regulation/24)

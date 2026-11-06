@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Powers of Crown Court to remit cases to the magistrates’ court[^key-8eced7ddc3c2c37fe74e039da6916245]
+## 11. Powers of Crown Court to remit cases to the magistrates’ court[^c-8eced7ddc3c2c37fe74e039da6916245]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eced7ddc3c2c37fe74e039da6916245]: Commencement: S. 11 in force at Royal Assent, see [s. 51(1)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/a)
+[^c-8eced7ddc3c2c37fe74e039da6916245]: Commencement: S. 11 in force at Royal Assent, see [s. 51(1)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/a)

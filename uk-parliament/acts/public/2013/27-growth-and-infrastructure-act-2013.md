@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Promoting growth and facilitating provision of infrastructure, and related matters
 
-### 1. Option to make planning application directly to Secretary of State[^c2186836][^key-52fd2c0d45f3c1a5b92b3d3bed27c3d9][^key-7522d2ef9fd8b978a314c73e692e77ba][^key-f87e39dab4dcd73c5241ac404501ce35]
+### 1. Option to make planning application directly to Secretary of State[^c2186836][^c-52fd2c0d45f3c1a5b92b3d3bed27c3d9][^c-7522d2ef9fd8b978a314c73e692e77ba][^c-f87e39dab4dcd73c5241ac404501ce35]
 
 *Extent: E+W*
 
@@ -134,14 +134,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-(1)[^key-741f72775be957bf86ab42f038ec8d31] In section 320 of the Town and Country Planning Act 1990 (local inquiries), at the end insert—
+(1)[^c-741f72775be957bf86ab42f038ec8d31] In section 320 of the Town and Country Planning Act 1990 (local inquiries), at the end insert—
 
 > (3) In its application by subsection (2) to an inquiry held in England, section 250(4) of that Act has effect as if—
 >
 > - (a) after “the costs incurred by him in relation to the inquiry” there were inserted “ , or such portion of those costs as he may direct, ”, and
 > - (b) after “the amount of the costs so incurred” there were inserted “ or, where he directs a portion of them to be paid, the amount of that portion ”.
 
-(2)[^key-741f72775be957bf86ab42f038ec8d31] In section 322 of that Act (orders as to costs of parties where no local inquiry held), after subsection (1A) insert—
+(2)[^c-741f72775be957bf86ab42f038ec8d31] In section 322 of that Act (orders as to costs of parties where no local inquiry held), after subsection (1A) insert—
 
 > (1B) Section 250(4) of the Local Government Act 1972 applies to costs incurred by the Secretary of State, or a person appointed by the Secretary of State, in relation to proceedings in England to which this section applies which do not give rise to a local inquiry as it applies to costs incurred in relation to a local inquiry.
 >
@@ -152,7 +152,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (1D) Section 42 of the Housing and Planning Act 1986 (recovery of Minister's costs) applies to costs incurred in relation to proceedings in England to which this section applies which do not give rise to a local inquiry as it applies to costs incurred in relation to an inquiry.
 
-(3)[^key-741f72775be957bf86ab42f038ec8d31] In section 322A of that Act (costs orders: supplementary), after subsection (2) insert—
+(3)[^c-741f72775be957bf86ab42f038ec8d31] In section 322A of that Act (costs orders: supplementary), after subsection (2) insert—
 
 > (3) Where this section applies in the case of an inquiry or hearing which was to take place in England but did not, section 250(4) of that Act applies to costs incurred by the Secretary of State or a person appointed by the Secretary of State as if—
 >
@@ -166,30 +166,30 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (5) Section 42 of the Housing and Planning Act 1986 (recovery of Minister's costs) applies to costs incurred in relation to a hearing of the kind referred to in subsection (1) or (1A) which was to take place in England but did not as it applies to costs incurred in relation to an inquiry which was to take place but did not.
 
-(4)[^key-741f72775be957bf86ab42f038ec8d31] In section 322B of that Act (local inquiries in London: costs), in the subsection set out in subsection (5)—
+(4)[^c-741f72775be957bf86ab42f038ec8d31] In section 322B of that Act (local inquiries in London: costs), in the subsection set out in subsection (5)—
 
 - (a) after “the costs incurred by the Secretary of State in relation to the inquiry” insert “ , or such portion of those costs as he may direct, ”, and
 - (b) after “the amount of the costs so incurred” insert “ or, where he directs a portion of them to be paid, the amount of that portion ”.
 
-(5)[^key-741f72775be957bf86ab42f038ec8d31] In section 323 of that Act (power to make provision about procedure in cases where no inquiry or hearing etc), after subsection (3) insert—
+(5)[^c-741f72775be957bf86ab42f038ec8d31] In section 323 of that Act (power to make provision about procedure in cases where no inquiry or hearing etc), after subsection (3) insert—
 
 > (4) Regulations made by the Secretary of State under this section may include provision as to the circumstances in which, in proceedings in England such as are mentioned in subsection (1) or (1A)—
 >
 > - (a) directions may be given under section 250(4) of the Local Government Act 1972 as applied by a prescribed provision of this Act;
 > - (b) orders for costs may be made under section 250(5) of that Act as so applied.
 
-(6)[^key-741f72775be957bf86ab42f038ec8d31] In section 9 of the Tribunals and Inquiries Act 1992 (power to make provision about procedure in inquiries and hearings), after subsection (3) insert—
+(6)[^c-741f72775be957bf86ab42f038ec8d31] In section 9 of the Tribunals and Inquiries Act 1992 (power to make provision about procedure in inquiries and hearings), after subsection (3) insert—
 
 > (3ZA) Rules made by the Lord Chancellor under this section may include provision as to the circumstances in which, in statutory inquiries held in England—
 >
 > - (a) directions may be given under section 250(4) of the Local Government Act 1972 as applied by a provision of the Town and Country Planning Act 1990 specified in the rules;
 > - (b) orders for costs may be made under section 250(5) of the Local Government Act 1972 as so applied.
 
-(7)[^key-21d51113190109bea688eec2b5475ca8] In Schedule 6 to the Town and Country Planning Act 1990 (determination of certain appeals by person appointed by the Secretary of State), in paragraph 2, after sub-paragraph (10) insert—
+(7)[^c-21d51113190109bea688eec2b5475ca8] In Schedule 6 to the Town and Country Planning Act 1990 (determination of certain appeals by person appointed by the Secretary of State), in paragraph 2, after sub-paragraph (10) insert—
 
 > (11) The Secretary of State may, if he thinks fit, direct that anything in connection with an appeal in England to which this Schedule applies which would otherwise fall to be done by an appointed person shall instead be done by the Secretary of State.
 
-### 3. Compulsory purchase inquiries: costs[^key-aea125314b062634447bbba45be0c42e]
+### 3. Compulsory purchase inquiries: costs[^c-aea125314b062634447bbba45be0c42e]
 
 *Extent: E+W*
 
@@ -226,7 +226,7 @@ In section 5 of the Acquisition of Land Act 1981 (public local inquiries), after
 
 (2) In section 70A(5) of that Act (“**relevant application**” includes an application for approval under section 60(2)) after “60(2)” insert “ , (2A) or (2B) ”.
 
-### 5. Local development orders: repeal of pre-adoption intervention powers[^key-f38f78960e3e59e2286990c195e56b76]
+### 5. Local development orders: repeal of pre-adoption intervention powers[^c-f38f78960e3e59e2286990c195e56b76]
 
 *Extent: E+W*
 
@@ -252,7 +252,7 @@ In section 5 of the Acquisition of Land Act 1981 (public local inquiries), after
 - (a) paragraph 4 (information about local development orders to be included in English planning authorities' monitoring reports under section 35 of the Planning and Compulsory Purchase Act 2004), and
 - (b) in paragraph 1(3), the words “35 or”.
 
-### 6. Limits on power to require information with planning applications[^key-3ba5ead5255dfefab2e82487e8905c99]
+### 6. Limits on power to require information with planning applications[^c-3ba5ead5255dfefab2e82487e8905c99]
 
 *Extent: E+W*
 
@@ -428,11 +428,11 @@ In section 62 of the Town and Country Planning Act 1990 (applications for planni
 
 (4) Sections 106BA, 106BB and 106BC of the Town and Country Planning Act 1990, and subsection (5) of this section, are repealed at the end of 30 April 2016.
 
-(5)[^key-5816028563f1c6707b77ba22de57ad9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5816028563f1c6707b77ba22de57ad9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The Secretary of State may by order make transitional or transitory provision or savings relating to any of the repeals made by subsection (4).
 
-### 8. Disposals of land held for planning purposes[^key-382724bc8847861ae739ccaeb350cc77]
+### 8. Disposals of land held for planning purposes[^c-382724bc8847861ae739ccaeb350cc77]
 
 *Extent: E+W*
 
@@ -477,7 +477,7 @@ In section 62 of the Town and Country Planning Act 1990 (applications for planni
 
 (4) Consultation undertaken for the purposes of section 109(4) of the Communications Act 2003 in anticipation of the commencement of this section (including consultation undertaken before the passing of this Act) is as effective as consultation undertaken after that commencement.
 
-### 10. Periodic review of mineral planning permissions[^key-9f4745303d5ba98aefaf91adc02418b0]
+### 10. Periodic review of mineral planning permissions[^c-9f4745303d5ba98aefaf91adc02418b0]
 
 *Extent: E+W*
 
@@ -554,7 +554,7 @@ In section 62 of the Town and Country Planning Act 1990 (applications for planni
 
 (5) In that section, in subsection (2), for “any such order” substitute “ any order under section 257(1) or 258 ”.
 
-### 13. Declarations negativing intention to dedicate way as highway[^key-574dc7d4da4f14608d16016c70959254][^key-345d408d6dc61085a4424e99b245be7c]
+### 13. Declarations negativing intention to dedicate way as highway[^c-574dc7d4da4f14608d16016c70959254][^c-345d408d6dc61085a4424e99b245be7c]
 
 *Extent: E+W*
 
@@ -607,7 +607,7 @@ In section 62 of the Town and Country Planning Act 1990 (applications for planni
 
 (7) In consequence of the amendment made by subsection (2)(c), omit paragraph 3 of Schedule 6 to the Countryside and Rights of Way Act 2000.
 
-### 14. Registration of town or village green: reduction of section 15(3)(c) period[^key-c00abd3a1297f55633ac7ab04a3c778a]
+### 14. Registration of town or village green: reduction of section 15(3)(c) period[^c-c00abd3a1297f55633ac7ab04a3c778a]
 
 *Extent: E+W*
 
@@ -622,7 +622,7 @@ In section 62 of the Town and Country Planning Act 1990 (applications for planni
 > - (a) in the case of an application relating to land in England, the period of one year beginning with the cessation mentioned in subsection (3)(b);
 > - (b) in the case of an application relating to land in Wales, the period of two years beginning with that cessation.
 
-### 15. Registration of town or village green: statement by owner[^key-39c0e848bb85b5732a399d8721e38e03][^key-ea6a47cdf4b2c292db7df7af04d97970]
+### 15. Registration of town or village green: statement by owner[^c-39c0e848bb85b5732a399d8721e38e03][^c-ea6a47cdf4b2c292db7df7af04d97970]
 
 *Extent: E+W*
 
@@ -751,7 +751,7 @@ In section 24 of the Commons Act 2006 (regulations about making and determinatio
 
 In section 7B of the Gas Act 1986 (general provisions about licences under section 7 for gas transporters, under section 7ZA for gas interconnectors, and under section 7A for gas suppliers and gas shippers) in subsection (5)(b)(ii) (gas transporter's licence may require payments to be made to holder of licence under section 7A) omit “under section 7A above”.
 
-### 20. Variation of consents under Electricity Act 1989[^key-976c1adcf9b5b0cb9be9d9ff68585ef1][^key-7430542314d5ebb82568fbda01a9d25e]
+### 20. Variation of consents under Electricity Act 1989[^c-976c1adcf9b5b0cb9be9d9ff68585ef1][^c-7430542314d5ebb82568fbda01a9d25e]
 
 *Extent: E+W*
 
@@ -810,9 +810,9 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 
 *Extent: E+W*
 
-(1)[^key-14d41e0368312a93d1e5ff6cb67bfdce] Section 90 of the Town and Country Planning Act 1990 (deemed planning permission: development with government authorisation) is amended as set out in subsections (2) and (3).
+(1)[^c-14d41e0368312a93d1e5ff6cb67bfdce] Section 90 of the Town and Country Planning Act 1990 (deemed planning permission: development with government authorisation) is amended as set out in subsections (2) and (3).
 
-(2)[^key-14d41e0368312a93d1e5ff6cb67bfdce] For subsection (2) substitute—
+(2)[^c-14d41e0368312a93d1e5ff6cb67bfdce] For subsection (2) substitute—
 
 > (2) On granting or varying a consent under section 36 or 37 of the Electricity Act 1989 in relation to a generating station or electric line in England or Wales, the Secretary of State may give a direction for planning permission to be deemed to be granted, subject to such conditions (if any) as may be specified in the direction, for—
 >
@@ -825,7 +825,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 > - (b) a direction for any conditions subject to which any such existing planning permission was deemed to be granted to be varied as specified in the direction;
 > - (c) a direction for any consent, agreement or approval given in respect of a condition subject to which any such existing planning permission was deemed to be granted to be treated as given in respect of a condition subject to which a new or varied planning permission is deemed to be granted.
 
-(3)[^key-14d41e0368312a93d1e5ff6cb67bfdce] For subsection (5) substitute—
+(3)[^c-14d41e0368312a93d1e5ff6cb67bfdce] For subsection (5) substitute—
 
 > (5) In subsection (2), the reference to ancillary development, in the case of a consent relating to the extension of a generating station, does not include any development which is not directly related to the generation of electricity by that station.
 >
@@ -836,9 +836,9 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 >
 > (7) In this section “**electric line**”, “**extension**”, “**generating station**” and “**Renewable Energy Zone**” have the same meanings as in Part 1 of the Electricity Act 1989.
 
-(4)[^key-eef33392e4ef57a9f66bcc9278d4a352] Section 57 of the Town and Country Planning (Scotland) Act 1997 (deemed planning permission: development with government authorisation) is amended as set out in subsections (5) and (6).
+(4)[^c-eef33392e4ef57a9f66bcc9278d4a352] Section 57 of the Town and Country Planning (Scotland) Act 1997 (deemed planning permission: development with government authorisation) is amended as set out in subsections (5) and (6).
 
-(5)[^key-eef33392e4ef57a9f66bcc9278d4a352] For subsection (2) substitute—
+(5)[^c-eef33392e4ef57a9f66bcc9278d4a352] For subsection (2) substitute—
 
 > (2) On granting or varying a consent under section 36 or 37 of the Electricity Act 1989, the Scottish Ministers may give a direction for planning permission to be deemed to be granted, subject to such conditions (if any) as may be specified in the direction, for—
 >
@@ -851,9 +851,9 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 > - (b) a direction for any conditions subject to which any such existing planning permission was deemed to be granted to be varied as specified in the direction;
 > - (c) a direction for any consent, agreement or approval given in respect of a condition subject to which any such existing planning permission was deemed to be granted to be treated as given in respect of a condition subject to which a new or varied planning permission is deemed to be granted.
 
-(6)[^key-eef33392e4ef57a9f66bcc9278d4a352] In subsection (5), for “In subsection (2) “**ancillary development**”, in relation to development consisting of” substitute “ In subsection (2)(b), the reference to ancillary development, in the case of a consent relating to ”.
+(6)[^c-eef33392e4ef57a9f66bcc9278d4a352] In subsection (5), for “In subsection (2) “**ancillary development**”, in relation to development consisting of” substitute “ In subsection (2)(b), the reference to ancillary development, in the case of a consent relating to ”.
 
-### 22. Variation and replacement of pre-Planning Act 2008 consents[^key-2611a2dbeb81cf247cb8392f5f7b2f73]
+### 22. Variation and replacement of pre-Planning Act 2008 consents[^c-2611a2dbeb81cf247cb8392f5f7b2f73]
 
 *Extent: E+W*
 
@@ -876,7 +876,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 
 (2) This section is deemed to have had effect since Part 4 of the Planning Act 2008 came into force.
 
-### 23. Removal of Planning Act 2008 consent and certification requirements[^key-daa13529626dc5d19d2ecfe11eabf6d5]
+### 23. Removal of Planning Act 2008 consent and certification requirements[^c-daa13529626dc5d19d2ecfe11eabf6d5]
 
 *Extent: E+W*
 
@@ -909,7 +909,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 
 (5) In Schedule 12 (modifications of Act in its application to Scotland), in paragraph 18, for “Section 137(7)” substitute “ Section 138(4A) ”.
 
-### 24. Special parliamentary procedure in cases under the Planning Act 2008[^key-e7b90729ca9ed14f32b241e28682f642]
+### 24. Special parliamentary procedure in cases under the Planning Act 2008[^c-e7b90729ca9ed14f32b241e28682f642]
 
 *Extent: E+W*
 
@@ -990,11 +990,11 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 
 ### 25. Modifications of special parliamentary procedure in certain cases
 
-(1)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] The Statutory Orders (Special Procedure) Act 1945 is amended as follows.
+(1)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] The Statutory Orders (Special Procedure) Act 1945 is amended as follows.
 
-(2)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] In section 1(1) (Act applies where subsequent Act requires an order to be subject to parliamentary procedure) after “provision is made requiring that any such order shall be subject to special parliamentary procedure” insert “ or requiring that any such order shall be subject to special parliamentary procedure to a limited extent ”.
+(2)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] In section 1(1) (Act applies where subsequent Act requires an order to be subject to parliamentary procedure) after “provision is made requiring that any such order shall be subject to special parliamentary procedure” insert “ or requiring that any such order shall be subject to special parliamentary procedure to a limited extent ”.
 
-(3)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] In section 1 after subsection (2) insert—
+(3)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] In section 1 after subsection (2) insert—
 
 > (3) In this Act “**special-acquisition provision**” means—
 >
@@ -1015,7 +1015,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 >
 > (6) In subsection (4)(b)(ii) “**common**”, “**fuel or field garden allotment**” and “**open space**” have the same meaning as in section 19 of that Act.
 
-(4)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] After section 1 insert—
+(4)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] After section 1 insert—
 
 > **1A. Order subject to special parliamentary procedure only so far as authorising certain acquisitions of land or rights**
 >
@@ -1097,7 +1097,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 >
 > (19) In section 7 a reference to an order to which this Act applies is to be read as a reference to the special authorisation.
 
-(5)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] After section 9 insert—
+(5)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] After section 9 insert—
 
 > **9A. Standing Orders in cases where section 1A applies**
 >
@@ -1111,20 +1111,20 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 >
 > (5) Where Standing Orders of either House of Parliament make provision that relates to orders to which this Act applies and is for a purpose mentioned in section 9 then, unless the Standing Orders provide otherwise, the provision applies in relation to a special-acquisition order only so far as the order authorises compulsory acquisition of, or of a right over, land to which the particular special-acquisition provision applies.
 
-(6)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] In section 11(1) (interpretation) after the definition of “Prescribed” insert—
+(6)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] In section 11(1) (interpretation) after the definition of “Prescribed” insert—
 
 > “**Special-acquisition provision**” has the meaning given by section 1(3) of this Act;
 
 .
 
-(7)[^key-90d9d17bd362a811b49869ffd91ca74c] In the Acquisition of Land Act 1981—
+(7)[^c-90d9d17bd362a811b49869ffd91ca74c] In the Acquisition of Land Act 1981—
 
 - (a) in sections 17(2) and 18(2) (certain compulsory purchase orders subject to special parliamentary procedure so far as authorising acquisition of special land if owner objects to the order) for “the order” substitute “ the compulsory purchase of the land ”, and
 - (b) in paragraphs 4(2) and 5(2) of Schedule 3 (certain compulsory purchase orders subject to special parliamentary procedure so far as authorising acquisition of rights over special land if owner objects to the order) for “the order” substitute “ the compulsory purchase of the rights ”.
 
-(8)[^key-90d9d17bd362a811b49869ffd91ca74c] In paragraph 12 of Schedule 4 to the New Towns Act 1981 (certain compulsory purchase orders subject to special parliamentary procedure so far as authorising acquisition of special land if owner objects to the order) for “to the order” substitute “ to the acquisition of the land ”.
+(8)[^c-90d9d17bd362a811b49869ffd91ca74c] In paragraph 12 of Schedule 4 to the New Towns Act 1981 (certain compulsory purchase orders subject to special parliamentary procedure so far as authorising acquisition of special land if owner objects to the order) for “to the order” substitute “ to the acquisition of the land ”.
 
-(9)[^key-90d9d17bd362a811b49869ffd91ca74c] In each of the following provisions (which refer to orders confirmed by Act under section 6 of the 1945 Act) before “6” insert “ 4 or ”
+(9)[^c-90d9d17bd362a811b49869ffd91ca74c] In each of the following provisions (which refer to orders confirmed by Act under section 6 of the 1945 Act) before “6” insert “ 4 or ”
 
 - section 44(1) of the Harbours Act 1964,
 - section 27 of the Acquisition of Land Act 1981,
@@ -1133,7 +1133,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 - paragraph 6(6)(a) of Schedule 19 to the Water Resources Act 1991, and
 - section 12(3)(b) of the Transport and Works Act 1992.
 
-(10)[^key-9639c27f55c37757ff4a2dd3dba2d570][^key-21b2a0d37dc79d60ec0b2599fb23e63b] An amendment made by subsection (4) or (5), so far as it applies to orders granting development consent, applies to any such order made after the amendment comes into force.
+(10)[^c-9639c27f55c37757ff4a2dd3dba2d570][^c-21b2a0d37dc79d60ec0b2599fb23e63b] An amendment made by subsection (4) or (5), so far as it applies to orders granting development consent, applies to any such order made after the amendment comes into force.
 
 ### 26. Bringing business and commercial projects within Planning Act 2008 regime
 
@@ -1222,7 +1222,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 - (a) in subsection (5)(e) (regulations not subject to negative procedure), after “section” insert “ 35(2)(a)(ii), ”;
 - (b) in subsection (7) (regulations subject to affirmative procedure), after “section” insert “ 35(2)(a)(ii), ”.
 
-### 27. Authorisation of road user charging under Planning Act 2008[^key-50bca668606cd609195c24c2aed0a3f2]
+### 27. Authorisation of road user charging under Planning Act 2008[^c-50bca668606cd609195c24c2aed0a3f2]
 
 *Extent: E+W*
 
@@ -1239,7 +1239,7 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 
 (3) Omit subsection (3).
 
-### 28. Delegation of planning functions by Mayor of London[^key-cf9363bf81af58ff88af9477a6f80432]
+### 28. Delegation of planning functions by Mayor of London[^c-cf9363bf81af58ff88af9477a6f80432]
 
 *Extent: E+W*
 
@@ -1293,11 +1293,11 @@ In section 7B of the Gas Act 1986 (general provisions about licences under secti
 
 (10) In subsection (7) (expiry of five year period not to detract from duty to maintain list) omit “five year”.
 
-### 30. Power to postpone compilation of Welsh rating lists[^key-a1c2c3da7a24a5ce580707807ceecec7]
+### 30. Power to postpone compilation of Welsh rating lists[^c-a1c2c3da7a24a5ce580707807ceecec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Employee shareholders[^key-f4d6a8253fb14a70812eb7714e049978]
+### 31. Employee shareholders[^c-f4d6a8253fb14a70812eb7714e049978]
 
 (1) After section 205 of the Employment Rights Act 1996 insert—
 
@@ -1478,9 +1478,9 @@ Section 1
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-d1f49bbae1b1d1a4ebb38cf3bc5442c9][^key-763017c5b082a1c8f4f019f720a6e626][^key-1d3329489e318849e71ab01f9f6c526b] The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-d1f49bbae1b1d1a4ebb38cf3bc5442c9][^c-763017c5b082a1c8f4f019f720a6e626][^c-1d3329489e318849e71ab01f9f6c526b] The Town and Country Planning Act 1990 is amended as follows.
 
-**2.**[^key-d3eeae7e2e22e347b8093710a645b503][^key-603e840f0a3f3f54f0355197dc84bb43][^key-e5cd2bce1a60b9eaa31696423e58266f] (1) In section 2A (Mayor of London: applications of strategic importance) after subsection (1A) insert—
+**2.**[^c-d3eeae7e2e22e347b8093710a645b503][^c-603e840f0a3f3f54f0355197dc84bb43][^c-e5cd2bce1a60b9eaa31696423e58266f] (1) In section 2A (Mayor of London: applications of strategic importance) after subsection (1A) insert—
 
 > (1B) Where this section applies to an application for planning permission made to the Secretary of State under section 62A, the Mayor of London may direct—
 >
@@ -1492,11 +1492,11 @@ Section 1
 - (a) in section 2A(2) after “(1)” insert “ or (1B) ”, and
 - (b) in section 2C(1) after “to whom the original application was made” insert “ or to whom the original application would have been made had it not been made to the Secretary of State under section 62A ”.
 
-**3.**[^key-0dbb80cb3e0e18b5e788c73820a9e5bb][^key-7c6dee99a478b3d95e97fe1f0231129d][^key-0c5e46e04a7356806ad46150ee2cdd19] In section 58(1)(b) (planning permission may be granted on application to local planning authority) after “on application to the authority” insert “ (or, in the cases provided in this Part, on application to the Secretary of State) ”.
+**3.**[^c-0dbb80cb3e0e18b5e788c73820a9e5bb][^c-7c6dee99a478b3d95e97fe1f0231129d][^c-0c5e46e04a7356806ad46150ee2cdd19] In section 58(1)(b) (planning permission may be granted on application to local planning authority) after “on application to the authority” insert “ (or, in the cases provided in this Part, on application to the Secretary of State) ”.
 
-**4.**[^key-750f7ac333903693ebf97144fcc1dffd][^key-2f4917084567db4ff0247596702c06f6][^key-1e9150b4b82139f218819d8915182aa6] In section 59(2)(b) (development order may provide for planning permission to be granted on application to local planning authority) after “on application to the authority” insert “ (or, in the cases provided in the following provisions, on application to the Secretary of State) ”.
+**4.**[^c-750f7ac333903693ebf97144fcc1dffd][^c-2f4917084567db4ff0247596702c06f6][^c-1e9150b4b82139f218819d8915182aa6] In section 59(2)(b) (development order may provide for planning permission to be granted on application to local planning authority) after “on application to the authority” insert “ (or, in the cases provided in the following provisions, on application to the Secretary of State) ”.
 
-**5.**[^key-61c22f25290fd81d3e32f62c42dcde72][^key-a46d5f189f9ef54bb20a4274fb31d23c][^key-14143fca7dc8a52e9766dc277549ea5e] After section 76B insert—
+**5.**[^c-61c22f25290fd81d3e32f62c42dcde72][^c-a46d5f189f9ef54bb20a4274fb31d23c][^c-14143fca7dc8a52e9766dc277549ea5e] After section 76B insert—
 
 > **76C. Provisions applying to applications made under section 62A**
 >
@@ -1558,26 +1558,26 @@ Section 1
 > - (a) anything done by or on behalf of the Secretary of State in connection with the application which might have been done by a person appointed under section 76D to determine the application is, unless the person appointed under section 76D to determine the application directs otherwise, to be treated as having been done by that person, and
 > - (b) subject to that, section 76D applies to the application as if no direction under subsection (1) had been given in relation to the application.
 
-**6.**[^key-2ebd67cb4ed0241c1fdf1260298e4c43][^key-7d4d515e173ca9315bcac669ab31863c][^key-b663a8741a1d0680c819ca963a9f6847] In section 70A(2) (power to decline to determine planning application where Secretary of State has refused similar application in previous two years) after “has refused a similar application” insert “ made to the Secretary of State under section 62A or ”.
+**6.**[^c-2ebd67cb4ed0241c1fdf1260298e4c43][^c-7d4d515e173ca9315bcac669ab31863c][^c-b663a8741a1d0680c819ca963a9f6847] In section 70A(2) (power to decline to determine planning application where Secretary of State has refused similar application in previous two years) after “has refused a similar application” insert “ made to the Secretary of State under section 62A or ”.
 
-**7.**[^key-9048401c5e103578550c0e11eb12687f][^key-9495590ab857b1100bfd66a7eed8e605][^key-b982ee9ff0611f81a0a1be06c7f25f83] In section 70B(3) (power to decline to determine planning application where Secretary of State currently considering similar application) after “in pursuance of section” insert “ 62A, ”.
+**7.**[^c-9048401c5e103578550c0e11eb12687f][^c-9495590ab857b1100bfd66a7eed8e605][^c-b982ee9ff0611f81a0a1be06c7f25f83] In section 70B(3) (power to decline to determine planning application where Secretary of State currently considering similar application) after “in pursuance of section” insert “ 62A, ”.
 
-**8.**[^key-9d5a20dbacc79f48adc06d1c62bf75ab][^key-a4a36ba92dc7d0a0a8e593e0db2517f3][^key-03662836c791e9abb43ea039804e4ee7] In section 78(2) (right to appeal where local planning authority has taken none of the listed steps in relation to an application) after “made such an application” insert “ to the local planning authority ”.
+**8.**[^c-9d5a20dbacc79f48adc06d1c62bf75ab][^c-a4a36ba92dc7d0a0a8e593e0db2517f3][^c-03662836c791e9abb43ea039804e4ee7] In section 78(2) (right to appeal where local planning authority has taken none of the listed steps in relation to an application) after “made such an application” insert “ to the local planning authority ”.
 
-**9.**[^key-938074fda50cdd2ed2ca8f9467b9398b][^key-b909cd75274bf78c9bcee0b37a79b16b][^key-42d3dac75ae5f47ed38a645e9056d610] In section 284(3) (actions which may be questioned in legal proceedings only so far as provided by Part 12 of the 1990 Act) before paragraph (za) insert—
+**9.**[^c-938074fda50cdd2ed2ca8f9467b9398b][^c-b909cd75274bf78c9bcee0b37a79b16b][^c-42d3dac75ae5f47ed38a645e9056d610] In section 284(3) (actions which may be questioned in legal proceedings only so far as provided by Part 12 of the 1990 Act) before paragraph (za) insert—
 
 > - (ya) any decision on an application made to the Secretary of State under section 62A;
 
 .
 
-**10.**[^key-fd0f7b8a6fea5f69d0c161a8cc295a93][^key-adabdce30b2c3c0cb98b716d1501a082][^key-16fd292e78106dc12d0637eae1b6cfb9] In section 303 (fees for planning applications etc) as substituted by section 199 of the Planning Act 2008, after subsection (1) insert—
+**10.**[^c-fd0f7b8a6fea5f69d0c161a8cc295a93][^c-adabdce30b2c3c0cb98b716d1501a082][^c-16fd292e78106dc12d0637eae1b6cfb9] In section 303 (fees for planning applications etc) as substituted by section 199 of the Planning Act 2008, after subsection (1) insert—
 
 > (1A) The Secretary of State may by regulations make provision for the payment of a fee to the Secretary of State in respect of—
 >
 > - (a) any application made to the Secretary of State under section 62A;
 > - (b) the giving of advice about applying under section 62A for any permission, approval or consent or for anything else for which an application may be made under that section.
 
-**11.**[^key-3160556fa09447d6a452dcd1fde7abdb][^key-32edeaa72a89f9024077fa322122a3f3][^key-0e7455b4eda6841fac5ac0bf786cf434] In section 319A(7) (proceedings for which Secretary of State must determine the procedure) before paragraph (a) insert—
+**11.**[^c-3160556fa09447d6a452dcd1fde7abdb][^c-32edeaa72a89f9024077fa322122a3f3][^c-0e7455b4eda6841fac5ac0bf786cf434] In section 319A(7) (proceedings for which Secretary of State must determine the procedure) before paragraph (a) insert—
 
 > - (za) an application made to the Secretary of State under section 62A;
 
@@ -1585,7 +1585,7 @@ Section 1
 
 ### Planning and Compulsory Purchase Act 2004 (c. 5)
 
-**12.**[^key-6f6992704695d34ea87c908e41e7152b][^key-265352d8da125a3017b68bc0dbb7970d][^key-382a2d2a83699146ad4d8731aa100b32] In section 59(2) of the Planning and Compulsory Purchase Act 2004 (correctable errors: meaning of “inspector”) after “to determine appeals instead of the Secretary of State” insert “ or appointed under section 76D of the principal Act to determine applications instead of the Secretary of State ”.
+**12.**[^c-6f6992704695d34ea87c908e41e7152b][^c-265352d8da125a3017b68bc0dbb7970d][^c-382a2d2a83699146ad4d8731aa100b32] In section 59(2) of the Planning and Compulsory Purchase Act 2004 (correctable errors: meaning of “inspector”) after “to determine appeals instead of the Secretary of State” insert “ or appointed under section 76D of the principal Act to determine applications instead of the Secretary of State ”.
 
 ## SCHEDULE 2 — Modification or discharge of affordable housing requirements: related amendments
 
@@ -1668,17 +1668,17 @@ Section 7
 
 Section 10
 
-**1.**[^key-f6beba34afa4e3de37c1c3a19d580c44] Schedule 14 to the Environment Act 1995 (periodic review of mineral planning permissions) is amended as follows.
+**1.**[^c-f6beba34afa4e3de37c1c3a19d580c44] Schedule 14 to the Environment Act 1995 (periodic review of mineral planning permissions) is amended as follows.
 
-**2.**[^key-5631440d7ac93c540aca4d436975053e] Before paragraph 1 insert—
+**2.**[^c-5631440d7ac93c540aca4d436975053e] Before paragraph 1 insert—
 
 > **Power to carry out periodic reviews**
 >
 > **A1.** The mineral planning authority for an area in England may, in accordance with the provisions of this Schedule, cause one or more periodic reviews to be carried out of the mineral permissions relating to a mining site.
 
-**3.**[^key-6b9b4b1909cefd63be5c2665759ce2c6] In paragraph 1 (duty to carry out periodic reviews), after “The mineral planning authority” insert “ for an area in Wales ”.
+**3.**[^c-6b9b4b1909cefd63be5c2665759ce2c6] In paragraph 1 (duty to carry out periodic reviews), after “The mineral planning authority” insert “ for an area in Wales ”.
 
-**4.**[^key-c23f00b992f1f4b4ef182e50e81c807a] In paragraph 2(1) (interpretation), for the definition of “first review date” substitute—
+**4.**[^c-c23f00b992f1f4b4ef182e50e81c807a] In paragraph 2(1) (interpretation), for the definition of “first review date” substitute—
 
 > “first review date”—
 >
@@ -1687,7 +1687,7 @@ Section 10
 
 .
 
-**5.**[^key-e8d2ec4fd16b9036da59ad506e088443] After paragraph 2 insert—
+**5.**[^c-e8d2ec4fd16b9036da59ad506e088443] After paragraph 2 insert—
 
 > **The first review date: mineral planning authorities in England**
 >
@@ -1703,7 +1703,7 @@ Section 10
 >
 > (2) This paragraph is subject to paragraphs 3A and 5 below (power to specify different relevant date, and postponement of first review date).
 
-**6.**[^key-0dbd9e8e0141eaa47a80bcd460edb12b] (1) Paragraph 3 (the first review date) is amended as follows.
+**6.**[^c-0dbd9e8e0141eaa47a80bcd460edb12b] (1) Paragraph 3 (the first review date) is amended as follows.
 
 (2) Before sub-paragraph (1) insert—
 
@@ -1713,9 +1713,9 @@ Section 10
 
 (4) For the italic heading immediately before that paragraph substitute “ The relevant date for the purposes of a first periodic review ”.
 
-**7.**[^key-2d530d5074d15be75a9d867c79725dbb] In paragraph 3A (power to specify a first review date by order), for “first review date” in each place substitute “ relevant date ”.
+**7.**[^c-2d530d5074d15be75a9d867c79725dbb] In paragraph 3A (power to specify a first review date by order), for “first review date” in each place substitute “ relevant date ”.
 
-**8.**[^key-72ef2ee9031a062176890c3adec478ea] (1) Paragraph 4 (service of notice of first periodic review) is amended as follows.
+**8.**[^c-72ef2ee9031a062176890c3adec478ea] (1) Paragraph 4 (service of notice of first periodic review) is amended as follows.
 
 (2) Before sub-paragraph (1) insert—
 
@@ -1729,7 +1729,7 @@ Section 10
 - (a) omit “of the mineral permissions relating to a mining site”, and
 - (b) for “that site” substitute “ the site to which the review relates ”.
 
-**9.**[^key-4a240b9b03375422537016a8d8b9cb88] (1) Paragraph 12 (second and subsequent periodic reviews) is amended as follows.
+**9.**[^c-4a240b9b03375422537016a8d8b9cb88] (1) Paragraph 12 (second and subsequent periodic reviews) is amended as follows.
 
 (2) Before sub-paragraph (1) insert—
 
@@ -1798,152 +1798,152 @@ In the Commons Act 2006, after Schedule 1 insert—
 
 [^c2186836]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) partly in force; [s. 1(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/1/1) in force for specified purposes at Royal Assent, see [s. 35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
 
-[^key-52fd2c0d45f3c1a5b92b3d3bed27c3d9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-52fd2c0d45f3c1a5b92b3d3bed27c3d9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-7522d2ef9fd8b978a314c73e692e77ba]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-7522d2ef9fd8b978a314c73e692e77ba]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-f87e39dab4dcd73c5241ac404501ce35]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-f87e39dab4dcd73c5241ac404501ce35]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/27/section/1) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-741f72775be957bf86ab42f038ec8d31]: Commencement: [S. 2(1)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/1) in force at 1.10.2013 by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/b)
+[^c-741f72775be957bf86ab42f038ec8d31]: Commencement: [S. 2(1)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/1) in force at 1.10.2013 by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/b)
 
-[^key-21d51113190109bea688eec2b5475ca8]: Commencement: [S. 2(7)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/7) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/a)
+[^c-21d51113190109bea688eec2b5475ca8]: Commencement: [S. 2(7)](https://www.legislation.gov.uk/ukpga/2013/27/section/2/7) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/a)
 
-[^key-aea125314b062634447bbba45be0c42e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/27/section/3) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/b)
+[^c-aea125314b062634447bbba45be0c42e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/27/section/3) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/b)
 
-[^key-f38f78960e3e59e2286990c195e56b76]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/27/section/5) in force at 9.12.2013 by [S.I. 2013/2878](https://www.legislation.gov.uk/uksi/2013/2878), [art. 2](https://www.legislation.gov.uk/uksi/2013/2878/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2878/article/3))
+[^c-f38f78960e3e59e2286990c195e56b76]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/27/section/5) in force at 9.12.2013 by [S.I. 2013/2878](https://www.legislation.gov.uk/uksi/2013/2878), [art. 2](https://www.legislation.gov.uk/uksi/2013/2878/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2878/article/3))
 
-[^key-3ba5ead5255dfefab2e82487e8905c99]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/27/section/6) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/c)
+[^c-3ba5ead5255dfefab2e82487e8905c99]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/27/section/6) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/c)
 
-[^key-5816028563f1c6707b77ba22de57ad9a]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/5) repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-5816028563f1c6707b77ba22de57ad9a]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/5) repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
 
-[^key-382724bc8847861ae739ccaeb350cc77]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/27/section/8) in force at 25.6.2013 for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 3](https://www.legislation.gov.uk/uksi/2013/1124/article/3)
+[^c-382724bc8847861ae739ccaeb350cc77]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/27/section/8) in force at 25.6.2013 for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 3](https://www.legislation.gov.uk/uksi/2013/1124/article/3)
 
-[^key-9f4745303d5ba98aefaf91adc02418b0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/27/section/10) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-9f4745303d5ba98aefaf91adc02418b0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/27/section/10) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-574dc7d4da4f14608d16016c70959254]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/27/section/13) in force at 25.6.2013 for specified purposes by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/a)
+[^c-574dc7d4da4f14608d16016c70959254]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/27/section/13) in force at 25.6.2013 for specified purposes by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/a)
 
-[^key-345d408d6dc61085a4424e99b245be7c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/27/section/13) in force at 1.10.2013 in so far as not already in force by [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1766/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1766/article/4))
+[^c-345d408d6dc61085a4424e99b245be7c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/27/section/13) in force at 1.10.2013 in so far as not already in force by [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1766/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1766/article/4))
 
-[^key-c00abd3a1297f55633ac7ab04a3c778a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/27/section/14) in force at 1.10.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 6](https://www.legislation.gov.uk/uksi/2013/1488/article/6) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8))
+[^c-c00abd3a1297f55633ac7ab04a3c778a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/27/section/14) in force at 1.10.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 6](https://www.legislation.gov.uk/uksi/2013/1488/article/6) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8))
 
-[^key-39c0e848bb85b5732a399d8721e38e03]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15) in force at 25.6.2013 for specified purposes by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/b)
+[^c-39c0e848bb85b5732a399d8721e38e03]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15) in force at 25.6.2013 for specified purposes by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/b)
 
-[^key-ea6a47cdf4b2c292db7df7af04d97970]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15) in force at 1.10.2013 in so far as not already in force by [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1766/article/3/b)
+[^c-ea6a47cdf4b2c292db7df7af04d97970]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15) in force at 1.10.2013 in so far as not already in force by [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1766/article/3/b)
 
-[^key-976c1adcf9b5b0cb9be9d9ff68585ef1]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/27/section/20) in force at 31.7.2013 in relation to E.W. so far as it is not already in force by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 5(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/5/a)
+[^c-976c1adcf9b5b0cb9be9d9ff68585ef1]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/27/section/20) in force at 31.7.2013 in relation to E.W. so far as it is not already in force by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 5(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/5/a)
 
-[^key-7430542314d5ebb82568fbda01a9d25e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/27/section/20) in force at 1.12.2013 in relation to S. so far as it is not already in force by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 7](https://www.legislation.gov.uk/uksi/2013/1488/article/7)
+[^c-7430542314d5ebb82568fbda01a9d25e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/27/section/20) in force at 1.12.2013 in relation to S. so far as it is not already in force by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 7](https://www.legislation.gov.uk/uksi/2013/1488/article/7)
 
-[^key-14d41e0368312a93d1e5ff6cb67bfdce]: Commencement: [S. 21(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/21/1) in force at 31.7.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 5(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/5/b)
+[^c-14d41e0368312a93d1e5ff6cb67bfdce]: Commencement: [S. 21(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/21/1) in force at 31.7.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 5(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/5/b)
 
-[^key-eef33392e4ef57a9f66bcc9278d4a352]: Commencement: [S. 21(4)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/21/4) in force at 1.12.2013 by [S.S.I. 2013/303](https://www.legislation.gov.uk/ssi/2013/303), [art. 2](https://www.legislation.gov.uk/ssi/2013/303/article/2)
+[^c-eef33392e4ef57a9f66bcc9278d4a352]: Commencement: [S. 21(4)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/21/4) in force at 1.12.2013 by [S.S.I. 2013/303](https://www.legislation.gov.uk/ssi/2013/303), [art. 2](https://www.legislation.gov.uk/ssi/2013/303/article/2)
 
-[^key-2611a2dbeb81cf247cb8392f5f7b2f73]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/27/section/22) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/a)
+[^c-2611a2dbeb81cf247cb8392f5f7b2f73]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/27/section/22) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/a)
 
-[^key-daa13529626dc5d19d2ecfe11eabf6d5]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2013/27/section/23) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/1124/article/6))
+[^c-daa13529626dc5d19d2ecfe11eabf6d5]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2013/27/section/23) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/1124/article/6))
 
-[^key-e7b90729ca9ed14f32b241e28682f642]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/27/section/24) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1124/article/7))
+[^c-e7b90729ca9ed14f32b241e28682f642]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/27/section/24) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1124/article/7))
 
-[^key-9639c27f55c37757ff4a2dd3dba2d570]: Commencement: [S. 25(1)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/1) [(10)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/10) in force at 25.6.2013 in so far as not already in force by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8))
+[^c-9639c27f55c37757ff4a2dd3dba2d570]: Commencement: [S. 25(1)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/1) [(10)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/10) in force at 25.6.2013 in so far as not already in force by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8))
 
-[^key-21b2a0d37dc79d60ec0b2599fb23e63b]: Commencement: [S. 25(1)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/1) [(10)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/10) in force at 25.6.2013 for specified purposes by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1124/article/8))
+[^c-21b2a0d37dc79d60ec0b2599fb23e63b]: Commencement: [S. 25(1)-(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/1) [(10)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/10) in force at 25.6.2013 for specified purposes by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1124/article/8))
 
-[^key-90d9d17bd362a811b49869ffd91ca74c]: Commencement: [S. 25(7)-(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/7) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8))
+[^c-90d9d17bd362a811b49869ffd91ca74c]: Commencement: [S. 25(7)-(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/7) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8))
 
-[^key-50bca668606cd609195c24c2aed0a3f2]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/27/section/27) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 9](https://www.legislation.gov.uk/uksi/2013/1124/article/9) (with [arts. 10](https://www.legislation.gov.uk/uksi/2013/1124/article/10), [11](https://www.legislation.gov.uk/uksi/2013/1124/article/11))
+[^c-50bca668606cd609195c24c2aed0a3f2]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/27/section/27) in force at 25.6.2013 by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 9](https://www.legislation.gov.uk/uksi/2013/1124/article/9) (with [arts. 10](https://www.legislation.gov.uk/uksi/2013/1124/article/10), [11](https://www.legislation.gov.uk/uksi/2013/1124/article/11))
 
-[^key-cf9363bf81af58ff88af9477a6f80432]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2013/27/section/28) in force at 1.10.2013 by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/c)
+[^c-cf9363bf81af58ff88af9477a6f80432]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2013/27/section/28) in force at 1.10.2013 by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/c)
 
-[^key-a1c2c3da7a24a5ce580707807ceecec7]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2013/27/section/30) omitted (W.) (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 4(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/4/2)
+[^c-a1c2c3da7a24a5ce580707807ceecec7]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2013/27/section/30) omitted (W.) (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 4(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/4/2)
 
-[^key-f4d6a8253fb14a70812eb7714e049978]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/27/section/31) in force at 1.9.2013 by [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
+[^c-f4d6a8253fb14a70812eb7714e049978]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/27/section/31) in force at 1.9.2013 by [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
 
-[^key-d1f49bbae1b1d1a4ebb38cf3bc5442c9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/1) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-d1f49bbae1b1d1a4ebb38cf3bc5442c9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/1) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-763017c5b082a1c8f4f019f720a6e626]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/1) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-763017c5b082a1c8f4f019f720a6e626]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/1) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-1d3329489e318849e71ab01f9f6c526b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/1) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-1d3329489e318849e71ab01f9f6c526b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/1) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-d3eeae7e2e22e347b8093710a645b503]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/2) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-d3eeae7e2e22e347b8093710a645b503]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/2) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-603e840f0a3f3f54f0355197dc84bb43]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/2) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-603e840f0a3f3f54f0355197dc84bb43]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/2) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-e5cd2bce1a60b9eaa31696423e58266f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/2) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-e5cd2bce1a60b9eaa31696423e58266f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/2) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-0dbb80cb3e0e18b5e788c73820a9e5bb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/3) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-0dbb80cb3e0e18b5e788c73820a9e5bb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/3) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-7c6dee99a478b3d95e97fe1f0231129d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/3) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-7c6dee99a478b3d95e97fe1f0231129d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/3) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-0c5e46e04a7356806ad46150ee2cdd19]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/3) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-0c5e46e04a7356806ad46150ee2cdd19]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/3) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-750f7ac333903693ebf97144fcc1dffd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/4) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-750f7ac333903693ebf97144fcc1dffd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/4) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-2f4917084567db4ff0247596702c06f6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/4) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-2f4917084567db4ff0247596702c06f6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/4) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-1e9150b4b82139f218819d8915182aa6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/4) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-1e9150b4b82139f218819d8915182aa6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/4) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-61c22f25290fd81d3e32f62c42dcde72]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-61c22f25290fd81d3e32f62c42dcde72]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-a46d5f189f9ef54bb20a4274fb31d23c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-a46d5f189f9ef54bb20a4274fb31d23c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-14143fca7dc8a52e9766dc277549ea5e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-14143fca7dc8a52e9766dc277549ea5e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/5) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-2ebd67cb4ed0241c1fdf1260298e4c43]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/6) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-2ebd67cb4ed0241c1fdf1260298e4c43]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/6) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-7d4d515e173ca9315bcac669ab31863c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/6) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-7d4d515e173ca9315bcac669ab31863c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/6) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-b663a8741a1d0680c819ca963a9f6847]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/6) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-b663a8741a1d0680c819ca963a9f6847]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/6) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-9048401c5e103578550c0e11eb12687f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/7) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-9048401c5e103578550c0e11eb12687f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/7) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-9495590ab857b1100bfd66a7eed8e605]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/7) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-9495590ab857b1100bfd66a7eed8e605]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/7) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-b982ee9ff0611f81a0a1be06c7f25f83]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/7) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-b982ee9ff0611f81a0a1be06c7f25f83]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/7) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-9d5a20dbacc79f48adc06d1c62bf75ab]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/8) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-9d5a20dbacc79f48adc06d1c62bf75ab]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/8) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-a4a36ba92dc7d0a0a8e593e0db2517f3]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/8) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-a4a36ba92dc7d0a0a8e593e0db2517f3]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/8) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-03662836c791e9abb43ea039804e4ee7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/8) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-03662836c791e9abb43ea039804e4ee7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/8) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-938074fda50cdd2ed2ca8f9467b9398b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/9) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-938074fda50cdd2ed2ca8f9467b9398b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/9) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-b909cd75274bf78c9bcee0b37a79b16b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/9) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-b909cd75274bf78c9bcee0b37a79b16b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/9) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-42d3dac75ae5f47ed38a645e9056d610]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/9) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-42d3dac75ae5f47ed38a645e9056d610]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/9) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-fd0f7b8a6fea5f69d0c161a8cc295a93]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/10) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-fd0f7b8a6fea5f69d0c161a8cc295a93]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/10) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-adabdce30b2c3c0cb98b716d1501a082]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/10) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-adabdce30b2c3c0cb98b716d1501a082]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/10) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-16fd292e78106dc12d0637eae1b6cfb9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/10) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-16fd292e78106dc12d0637eae1b6cfb9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/10) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-3160556fa09447d6a452dcd1fde7abdb]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/11) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-3160556fa09447d6a452dcd1fde7abdb]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/11) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-32edeaa72a89f9024077fa322122a3f3]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/11) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-32edeaa72a89f9024077fa322122a3f3]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/11) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-0e7455b4eda6841fac5ac0bf786cf434]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/11) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-0e7455b4eda6841fac5ac0bf786cf434]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/11) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-6f6992704695d34ea87c908e41e7152b]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
+[^c-6f6992704695d34ea87c908e41e7152b]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12) in force at 9.5.2013 for specified purposes for E. by [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2)
 
-[^key-265352d8da125a3017b68bc0dbb7970d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
+[^c-265352d8da125a3017b68bc0dbb7970d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12) in force at 1.10.2013 for specified purposes by [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/a)
 
-[^key-382a2d2a83699146ad4d8731aa100b32]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-382a2d2a83699146ad4d8731aa100b32]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12) in force at 1.10.2014 in so far as not already in force by [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-f6beba34afa4e3de37c1c3a19d580c44]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-f6beba34afa4e3de37c1c3a19d580c44]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-5631440d7ac93c540aca4d436975053e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-5631440d7ac93c540aca4d436975053e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-6b9b4b1909cefd63be5c2665759ce2c6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-6b9b4b1909cefd63be5c2665759ce2c6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-c23f00b992f1f4b4ef182e50e81c807a]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-c23f00b992f1f4b4ef182e50e81c807a]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-e8d2ec4fd16b9036da59ad506e088443]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-e8d2ec4fd16b9036da59ad506e088443]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-0dbd9e8e0141eaa47a80bcd460edb12b]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-0dbd9e8e0141eaa47a80bcd460edb12b]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-2d530d5074d15be75a9d867c79725dbb]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-2d530d5074d15be75a9d867c79725dbb]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-72ef2ee9031a062176890c3adec478ea]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/8) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-72ef2ee9031a062176890c3adec478ea]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/8) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
 
-[^key-4a240b9b03375422537016a8d8b9cb88]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/9) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)
+[^c-4a240b9b03375422537016a8d8b9cb88]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2013/27/schedule/3/paragraph/9) in force at 25.6.2013 by [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/d)

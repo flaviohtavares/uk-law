@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Supplementary provision[^key-d8225ca1dca0d1157c9f35aa595ce07f]
+## 4A. Supplementary provision[^c-d8225ca1dca0d1157c9f35aa595ce07f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8225ca1dca0d1157c9f35aa595ce07f]: Textual amendment: S. 4A inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/57/3), [118(2)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/a)
+[^c-d8225ca1dca0d1157c9f35aa595ce07f]: Textual amendment: S. 4A inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/57/3), [118(2)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/a)

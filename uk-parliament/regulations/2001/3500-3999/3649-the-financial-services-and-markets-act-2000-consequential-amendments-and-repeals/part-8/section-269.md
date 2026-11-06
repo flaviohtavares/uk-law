@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Manner of investment[^key-02457ef52c837fa75e67e3084816b5e8]
+## 269. Manner of investment[^c-02457ef52c837fa75e67e3084816b5e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-02457ef52c837fa75e67e3084816b5e8]: Commencement: Art. 269 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-02457ef52c837fa75e67e3084816b5e8]: Commencement: Art. 269 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00184]: Footnote: Schedule 1 has been repealed, except in so far as it is applied by or under any other enactment, by virtue of the Trustees Act [2000 (c. 29)](https://www.legislation.gov.uk/ukpga/2000/29) Schedule 2 Pt. 1, paragraph 1(1).
 

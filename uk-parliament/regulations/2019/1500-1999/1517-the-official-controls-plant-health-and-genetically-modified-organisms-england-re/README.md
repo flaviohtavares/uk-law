@@ -50,7 +50,7 @@ The Secretary of State is designated for the purposes of section 2(2) of the Eur
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears expedient to the Secretary of State for the references to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants [^c23955991], and to the European Union instruments mentioned in regulation 3(1), to be construed as references to those instruments as amended from time to time.[^key-cd676e1a6b780bac8fb352ca0a77cc56]
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears expedient to the Secretary of State for the references to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants [^c23955991], and to the European Union instruments mentioned in regulation 3(1), to be construed as references to those instruments as amended from time to time.[^c-cd676e1a6b780bac8fb352ca0a77cc56]
 
 ## Contents
 
@@ -157,7 +157,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - [Section 47 — Offences by partnerships and unincorporated associations](part-11/section-47.md)
 - [Section 48 — Penalties](part-11/section-48.md)
 
-### PART 11A — Civil Sanctions[^key-564bf31b39ab46e1b52b85700db21c25]
+### PART 11A — Civil Sanctions[^c-564bf31b39ab46e1b52b85700db21c25]
 
 - [Section 48A — Civil sanctions](part-11a/section-48a.md)
 
@@ -257,6 +257,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23955991]: Marginal citation: OJ No. L 319, 10.12.2019, p.1.
 
-[^key-cd676e1a6b780bac8fb352ca0a77cc56]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/1517) applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
+[^c-cd676e1a6b780bac8fb352ca0a77cc56]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/1517) applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
 
-[^key-564bf31b39ab46e1b52b85700db21c25]: Textual amendment: [Pt. 11A](https://www.legislation.gov.uk/uksi/2019/1517/part/11A) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/8)
+[^c-564bf31b39ab46e1b52b85700db21c25]: Textual amendment: [Pt. 11A](https://www.legislation.gov.uk/uksi/2019/1517/part/11A) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/8)

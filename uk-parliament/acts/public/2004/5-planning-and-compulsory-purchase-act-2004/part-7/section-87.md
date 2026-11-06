@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Old mining permissions[^key-a95ae45c41e25f14fdef33af045f8e5a]
+## 87. Old mining permissions[^c-a95ae45c41e25f14fdef33af045f8e5a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a95ae45c41e25f14fdef33af045f8e5a]: Commencement: S. 87 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-a95ae45c41e25f14fdef33af045f8e5a]: Commencement: S. 87 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

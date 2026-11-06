@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Power to operate and use railway[^key-990b50bb12846e8c7f845e0c78579d91]
+## 35. Power to operate and use railway[^c-990b50bb12846e8c7f845e0c78579d91]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-990b50bb12846e8c7f845e0c78579d91]: Commencement: Art. 35 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-990b50bb12846e8c7f845e0c78579d91]: Commencement: Art. 35 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Amendment of regulation Q1[^key-ed463921fe20fcbecf0b256de2bd70b6]
+## 45. Amendment of regulation Q1[^c-ed463921fe20fcbecf0b256de2bd70b6]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed463921fe20fcbecf0b256de2bd70b6]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-ed463921fe20fcbecf0b256de2bd70b6]: Commencement: Reg. 45 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

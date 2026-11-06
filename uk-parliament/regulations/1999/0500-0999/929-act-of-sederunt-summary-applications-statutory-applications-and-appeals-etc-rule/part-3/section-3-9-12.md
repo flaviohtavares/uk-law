@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.12. Administrator’s title to act[^key-2e38ad21335e965ef427d5db436ad683]
+## 3.9.12. Administrator’s title to act[^c-2e38ad21335e965ef427d5db436ad683]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An administrator appointed under this Part shall not be entitled to act until he
 
 ## Annotations
 
-[^key-2e38ad21335e965ef427d5db436ad683]: Commencement: Rule 3.9.12 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-2e38ad21335e965ef427d5db436ad683]: Commencement: Rule 3.9.12 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

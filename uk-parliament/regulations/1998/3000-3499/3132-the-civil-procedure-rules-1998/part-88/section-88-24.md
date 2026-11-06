@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88.24. Special advocate: communicating about proceedings[^key-270bf180eeba0836ea41457ffcd264be]
+## 88.24. Special advocate: communicating about proceedings[^c-270bf180eeba0836ea41457ffcd264be]
 
 *Extent: E+W*
 
 (1) The special advocate may communicate with the relevant party or the relevant party’s legal representative at any time before the Secretary of State serves closed material on the special advocate.
 
-(2) After the Secretary of State[^key-d7f33ca154317e6569448593c7669613] serves closed material on the special advocate, the special advocate must not communicate with any person about any matter connected with the proceedings, except in accordance with paragraph (3) or (6)(b) or with a direction of the court pursuant to a request under paragraph (4).
+(2) After the Secretary of State[^c-d7f33ca154317e6569448593c7669613] serves closed material on the special advocate, the special advocate must not communicate with any person about any matter connected with the proceedings, except in accordance with paragraph (3) or (6)(b) or with a direction of the court pursuant to a request under paragraph (4).
 
 (3) The special advocate may, without directions from the court, communicate about the proceedings with—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
+[^c-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
 
-[^key-d7f33ca154317e6569448593c7669613]: Textual amendment: Words in [rule 88.24(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.24/2) substituted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [9(c)](https://www.legislation.gov.uk/uksi/2015/877/rule/9/c)
+[^c-d7f33ca154317e6569448593c7669613]: Textual amendment: Words in [rule 88.24(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.24/2) substituted (17.4.2015) by [The Civil Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/877)](https://www.legislation.gov.uk/uksi/2015/877), [rules 2](https://www.legislation.gov.uk/uksi/2015/877/rule/2), [9(c)](https://www.legislation.gov.uk/uksi/2015/877/rule/9/c)

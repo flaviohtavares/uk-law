@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Modification of Chapter 4 of Part 2 of the 1998 Act[^key-e42880d97fafdf05c7d813ee0bce6432]
+## 78. Modification of Chapter 4 of Part 2 of the 1998 Act[^c-e42880d97fafdf05c7d813ee0bce6432]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e42880d97fafdf05c7d813ee0bce6432]: Commencement: Reg. 78 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-e42880d97fafdf05c7d813ee0bce6432]: Commencement: Reg. 78 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00038]: Footnote: Subsection (1) was amended by section 40 of, and Schedule 3 to, the 2002 Act. Subsection (4)(za) was inserted by section 40 of, and Schedule 3 to, the 2002 Act. Subsection (5) was amended by paragraph 10 of Schedule 21 to the 2002 Act. Subsection (1) was further amended by section 117 of, and Schedule 18 to, the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18).

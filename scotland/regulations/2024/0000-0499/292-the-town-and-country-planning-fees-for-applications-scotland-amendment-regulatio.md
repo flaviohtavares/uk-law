@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 252 of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-8aab1ba4101ce394ff85c7f677ff0cd6]
+## 1. Citation and commencement[^c-8aab1ba4101ce394ff85c7f677ff0cd6]
 
 These Regulations may be cited as the Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 and come into force on 12 December 2024.
 
-## 2. Amendment of the Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022[^key-2f5214b08de3484e13b6eb4306f33875]
+## 2. Amendment of the Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022[^c-2f5214b08de3484e13b6eb4306f33875]
 
 The Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022 are amended in accordance with regulations 3 to 8.
 
-## 3. Amendment of regulation 1 – citation, commencement and application[^key-1b34d96b70a2c226eb148cd3844d5fea]
+## 3. Amendment of regulation 1 – citation, commencement and application[^c-1b34d96b70a2c226eb148cd3844d5fea]
 
 In regulation 1(2) (citation, commencement and application) after sub-paragraph (b)(iii) insert—
 
@@ -64,7 +64,7 @@ In regulation 1(2) (citation, commencement and application) after sub-paragraph 
 
 .
 
-## 4. Amendment of regulation 2 – interpretation[^key-02fcb9e94bd09b9446cc062df264ef4c]
+## 4. Amendment of regulation 2 – interpretation[^c-02fcb9e94bd09b9446cc062df264ef4c]
 
 In regulation 2 (interpretation) after the definition of “planning permission in principle” insert—
 
@@ -72,11 +72,11 @@ In regulation 2 (interpretation) after the definition of “planning permission 
 
 .
 
-## 5. Amendment of regulation 3 – payment of fees[^key-3500f5463e27e6bb27e43e37a940df09]
+## 5. Amendment of regulation 3 – payment of fees[^c-3500f5463e27e6bb27e43e37a940df09]
 
 In regulation 3 (payment of fees) in paragraphs (2)(b) and (3) for “£300” substitute “£346”.
 
-## 6. Amendment of regulation 4 – discretion to charge fees[^key-068c1a9d0cf8f32a0b4e6a586cdf898c]
+## 6. Amendment of regulation 4 – discretion to charge fees[^c-068c1a9d0cf8f32a0b4e6a586cdf898c]
 
 In regulation 4 (discretion to charge fees)—
 
@@ -103,7 +103,7 @@ In regulation 4 (discretion to charge fees)—
   .
 - (e) in paragraph (6), after “paragraph (5)” insert “or (5A)”.
 
-## 7. Discretion to charge fees – masterplan consent area schemes[^key-928a81e3294598b84ecaaa8082e31709]
+## 7. Discretion to charge fees – masterplan consent area schemes[^c-928a81e3294598b84ecaaa8082e31709]
 
 After regulation 4 insert—
 
@@ -133,7 +133,7 @@ After regulation 4 insert—
 
 .
 
-## 8. Amendment of schedule 1 – calculation of fees[^key-38668bf931dfa04c8a832b5dd1c5e09a]
+## 8. Amendment of schedule 1 – calculation of fees[^c-38668bf931dfa04c8a832b5dd1c5e09a]
 
 In schedule 1 (calculation of fees)—
 
@@ -230,7 +230,7 @@ In schedule 1 (calculation of fees)—
   > </tbody>
   > </table>
   >
-  > [^key-8f1bf252c8ed92b3538c6ae0c264a0f6]
+  > [^c-8f1bf252c8ed92b3538c6ae0c264a0f6]
   >
   > TABLE 2
   >
@@ -280,7 +280,7 @@ In schedule 1 (calculation of fees)—
   > | 8\. An application made by virtue of paragraph (4) of Class 22 of Part 7 (forestry buildings and operations) of schedule 1 of the General Permitted Development Order. | No fee. |
   > | 9\. An application made by virtue of sub-paragraph (23) of Class 67 of Part 20 (development by electronic communications code operators) of schedule 1 of the General Permitted Development Order. | £750. |
 
-## 9. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 and saving provision[^key-83938e9b9f56eab5d8cce81bdebac3ca]
+## 9. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 and saving provision[^c-83938e9b9f56eab5d8cce81bdebac3ca]
 
 (1) Subject to paragraph (3), the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (“**the 2015 Regulations**”) are amended in accordance with paragraph (2).
 
@@ -331,26 +331,26 @@ Regulation 9 amends the Town and Country Planning (Hazardous Substances) (Scotla
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 252 was amended by section 31 of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 55 of the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), and section 41 of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13). The functions of the Secretary of State in so far as they are within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-8aab1ba4101ce394ff85c7f677ff0cd6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-8aab1ba4101ce394ff85c7f677ff0cd6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-2f5214b08de3484e13b6eb4306f33875]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/292/regulation/2) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-2f5214b08de3484e13b6eb4306f33875]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/292/regulation/2) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-1b34d96b70a2c226eb148cd3844d5fea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/292/regulation/3) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-1b34d96b70a2c226eb148cd3844d5fea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/292/regulation/3) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-02fcb9e94bd09b9446cc062df264ef4c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/292/regulation/4) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-02fcb9e94bd09b9446cc062df264ef4c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/292/regulation/4) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-3500f5463e27e6bb27e43e37a940df09]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2024/292/regulation/5) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-3500f5463e27e6bb27e43e37a940df09]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2024/292/regulation/5) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-068c1a9d0cf8f32a0b4e6a586cdf898c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2024/292/regulation/6) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-068c1a9d0cf8f32a0b4e6a586cdf898c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2024/292/regulation/6) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-928a81e3294598b84ecaaa8082e31709]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2024/292/regulation/7) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-928a81e3294598b84ecaaa8082e31709]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2024/292/regulation/7) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
-[^key-38668bf931dfa04c8a832b5dd1c5e09a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/292/regulation/8) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-38668bf931dfa04c8a832b5dd1c5e09a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/292/regulation/8) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
 [^f00002]: Footnote: Table 1 of Part 3 of schedule 1 was amended by [S.S.I. 2022/190](https://www.legislation.gov.uk/ssi/2022/190).
 
-[^key-8f1bf252c8ed92b3538c6ae0c264a0f6]: Textual amendment: Sum in [reg. 8(c)](https://www.legislation.gov.uk/ssi/2024/292/regulation/8/c) substituted (11.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment (Amendment) Regulations 2024 (S.S.I. 2024/369)](https://www.legislation.gov.uk/ssi/2024/369), [regs. 1](https://www.legislation.gov.uk/ssi/2024/369/regulation/1), [2](https://www.legislation.gov.uk/ssi/2024/369/regulation/2)
+[^c-8f1bf252c8ed92b3538c6ae0c264a0f6]: Textual amendment: Sum in [reg. 8(c)](https://www.legislation.gov.uk/ssi/2024/292/regulation/8/c) substituted (11.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment (Amendment) Regulations 2024 (S.S.I. 2024/369)](https://www.legislation.gov.uk/ssi/2024/369), [regs. 1](https://www.legislation.gov.uk/ssi/2024/369/regulation/1), [2](https://www.legislation.gov.uk/ssi/2024/369/regulation/2)
 
-[^key-83938e9b9f56eab5d8cce81bdebac3ca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/292/regulation/9) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
+[^c-83938e9b9f56eab5d8cce81bdebac3ca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/292/regulation/9) in force at 12.12.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1)
 
 [^f00003]: Footnote: Regulation 55(1) was amended by [S.S.I. 2022/50](https://www.legislation.gov.uk/ssi/2022/50).

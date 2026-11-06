@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Linking rules – limited capability for work[^key-9c02d76c58b74736ded36bc68fcd7f91]
+## 149. Linking rules – limited capability for work[^c-9c02d76c58b74736ded36bc68fcd7f91]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c02d76c58b74736ded36bc68fcd7f91]: Textual amendment: [Reg. 149](https://www.legislation.gov.uk/nisr/2008/280/regulation/149) omitted (28.11.2016) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2016 (S.R. 2016/176)](https://www.legislation.gov.uk/nisr/2016/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/176/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/nisr/2016/176/regulation/4/6/b)
+[^c-9c02d76c58b74736ded36bc68fcd7f91]: Textual amendment: [Reg. 149](https://www.legislation.gov.uk/nisr/2008/280/regulation/149) omitted (28.11.2016) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2016 (S.R. 2016/176)](https://www.legislation.gov.uk/nisr/2016/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/176/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/nisr/2016/176/regulation/4/6/b)

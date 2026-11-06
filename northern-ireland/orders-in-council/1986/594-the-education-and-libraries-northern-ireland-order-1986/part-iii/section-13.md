@@ -33,7 +33,7 @@ summary: ''
 
 the required number of parent members shall be made up by persons appointed by the voting members of the Board of Governors of the school.
 
-(3AA)[^c17005851] Where, in relation to a school established in a hospital, the Authority is of the opinion that[^key-61fe8f951973a1526082ee7c1c061bdd] it is likely to be impracticable for there to be elections of parent members at the school, the required number of parent members may be made up by persons appointed by the voting members of the Board of Governors of the school.
+(3AA)[^c17005851] Where, in relation to a school established in a hospital, the Authority is of the opinion that[^c-61fe8f951973a1526082ee7c1c061bdd] it is likely to be impracticable for there to be elections of parent members at the school, the required number of parent members may be made up by persons appointed by the voting members of the Board of Governors of the school.
 
 (3B) Where it is reasonably practicable to do so, it shall be the duty of the voting members of the Board of Governors in appointing any person under paragraph (3A) or (3AA) to appoint a person who is the parent of a registered pupil at the school.
 
@@ -57,7 +57,7 @@ the required number of parent members shall be made up by persons appointed by t
 
 [^c17005851]: Textual amendment: [1993 NI 12](https://www.legislation.gov.uk/nisi/1993)
 
-[^key-61fe8f951973a1526082ee7c1c061bdd]: Textual amendment: Words in art. 13(3AA) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-61fe8f951973a1526082ee7c1c061bdd]: Textual amendment: Words in art. 13(3AA) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19586841]: Textual amendment: Words in art. 13(3C)(3D) substituted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 23(a)](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/23/a); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art.2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 

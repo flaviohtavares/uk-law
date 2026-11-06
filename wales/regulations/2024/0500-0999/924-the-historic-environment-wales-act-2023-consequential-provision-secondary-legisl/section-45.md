@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. The Overhead Lines (Exemption) (England and Wales) Regulations 2009[^key-8b046243f095b77b814737a3ce8a79ae]
+## 45. The Overhead Lines (Exemption) (England and Wales) Regulations 2009[^c-8b046243f095b77b814737a3ce8a79ae]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In regulation 3(2) of the Overhead Lines (Exemption) (England and Wales) Regulat
 
 ## Annotations
 
-[^key-8b046243f095b77b814737a3ce8a79ae]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2024/924/regulation/45) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8b046243f095b77b814737a3ce8a79ae]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2024/924/regulation/45) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2009/640](https://www.legislation.gov.uk/uksi/2009/640), to which there are amendments not relevant to these Regulations.

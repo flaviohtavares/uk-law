@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Sub-occupation contract never takes effect as transfer[^key-454af0a6acba5e17d403598d258593f4]
+## 60. Sub-occupation contract never takes effect as transfer[^c-454af0a6acba5e17d403598d258593f4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-454af0a6acba5e17d403598d258593f4]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2016/1/section/60) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-454af0a6acba5e17d403598d258593f4]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2016/1/section/60) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

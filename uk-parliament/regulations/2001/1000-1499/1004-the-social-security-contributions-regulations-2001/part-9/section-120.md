@@ -26,8 +26,8 @@ summary: ''
 
 - (a) a change in the amount of the mariner’s earnings; or
 - (b) a change in one or more of the following figures applicable in respect of the mariner’s employment—
-  - (i) the main primary percentage or the additional primary percentage[^key-b1287081380bffdd9b82188d76b0f3c8] for a primary Class 1 contribution specified in section 8(2) of the Act [^c17675741] or the percentage rate for a secondary Class 1 contribution specified in section 9(2) of the Act,
-  - (ii)[^key-704b3c5eb281d9191357b88501278ba6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) the main primary percentage or the additional primary percentage[^c-b1287081380bffdd9b82188d76b0f3c8] for a primary Class 1 contribution specified in section 8(2) of the Act [^c17675741] or the percentage rate for a secondary Class 1 contribution specified in section 9(2) of the Act,
+  - (ii)[^c-704b3c5eb281d9191357b88501278ba6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the amount by which the percentage rate of a secondary Class 1 contribution is reduced in accordance with regulation 119(1),
   - (iv) the lower or upper earnings limit for primary Class 1 contributions specified in section 5(1) of the Act [^c17675761].
 
@@ -80,10 +80,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b1287081380bffdd9b82188d76b0f3c8]: Textual amendment: Words in reg. 120(2)(b)(i) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/964/regulation/4)
+[^c-b1287081380bffdd9b82188d76b0f3c8]: Textual amendment: Words in reg. 120(2)(b)(i) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/964/regulation/4)
 
 [^c17675741]: Textual amendment: Section 8 was substituted by paragraph 4 of Part I of Schedule 9 to the Welfare Reform Act.
 
-[^key-704b3c5eb281d9191357b88501278ba6]: Textual amendment: [Reg. 120(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/120/2/b/ii) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [16](https://www.legislation.gov.uk/uksi/2016/352/regulation/16) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-704b3c5eb281d9191357b88501278ba6]: Textual amendment: [Reg. 120(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/120/2/b/ii) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [16](https://www.legislation.gov.uk/uksi/2016/352/regulation/16) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
 [^c17675761]: Textual amendment: Section 5 was substituted by paragraph 1 of Part I of Schedule 9 to the Welfare Reform Act.

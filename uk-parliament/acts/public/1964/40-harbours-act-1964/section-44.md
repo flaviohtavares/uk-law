@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A person who desires to question any such order as follows, namely, a harbour revision or empowerment order (not being one confirmed by Act of Parliament under section *(Extent: S)* *(affected by repeal, see note)*[^key-cf0892be5dd1eece22cfc8c8e7081cff] 4 or[^key-9d182f4d4391583a8b6cde814ffb73b7] *(Extent: S)* *(affected by repeal, see note)*[^key-cf0892be5dd1eece22cfc8c8e7081cff] 6 of the *(Extent: S)* *(affected by repeal, see note)*[^key-cf0892be5dd1eece22cfc8c8e7081cff] [^c7740281]Statutory Orders (Special Procedure) Act 1945, or under section 2(4), as read with section 10, of that Act) *(Extent: S)* *(affected by repeal, see note)*[^key-cf0892be5dd1eece22cfc8c8e7081cff] or an order under section 15A of this Act,[^c7740291] on the ground that there was no power to make the order or that a requirement of this Act was not complied with in relation to the order, [^c7740301]... may, within six weeks from the date on which the order becomes operative [^c7740301]... make an application for the purpose to the High Court or the Court of Session, as the case may be.
+(1) A person who desires to question any such order as follows, namely, a harbour revision or empowerment order (not being one confirmed by Act of Parliament under section *(Extent: S)* *(affected by repeal, see note)*[^c-cf0892be5dd1eece22cfc8c8e7081cff] 4 or[^c-9d182f4d4391583a8b6cde814ffb73b7] *(Extent: S)* *(affected by repeal, see note)*[^c-cf0892be5dd1eece22cfc8c8e7081cff] 6 of the *(Extent: S)* *(affected by repeal, see note)*[^c-cf0892be5dd1eece22cfc8c8e7081cff] [^c7740281]Statutory Orders (Special Procedure) Act 1945, or under section 2(4), as read with section 10, of that Act) *(Extent: S)* *(affected by repeal, see note)*[^c-cf0892be5dd1eece22cfc8c8e7081cff] or an order under section 15A of this Act,[^c7740291] on the ground that there was no power to make the order or that a requirement of this Act was not complied with in relation to the order, [^c7740301]... may, within six weeks from the date on which the order becomes operative [^c7740301]... make an application for the purpose to the High Court or the Court of Session, as the case may be.
 
 (1A) On an application under the foregoing subsection [^c7740301]... , the court—
 
@@ -37,7 +37,7 @@ summary: ''
 
 *Extent: S*
 
-(6)[^key-fa50bf7511bbf689ddef800b6cf58bb9] In the case of an order falling within subsection (7), an environmental organisation is to be deemed to have sufficient interest to make an application under subsection (1).
+(6)[^c-fa50bf7511bbf689ddef800b6cf58bb9] In the case of an order falling within subsection (7), an environmental organisation is to be deemed to have sufficient interest to make an application under subsection (1).
 
 (7) An order is within this subsection if, in relation to the proposed application relating to the project authorised by the order, the Scottish Ministers decided that an environmental impact assessment was required and informed the applicant accordingly under paragraph 6(2)(a) of Schedule 3.
 
@@ -45,21 +45,21 @@ summary: ''
 
 *Extent: E+W*
 
-(6)[^key-50a026f234c0aabe2826074293a9f10b] In the case of an order falling within subsection (7), an environmental organisation is [^key-0710fbd7e6827fb6db68c217b5e80154]... to be deemed to have sufficient interest to make an application under subsection (1).
+(6)[^c-50a026f234c0aabe2826074293a9f10b] In the case of an order falling within subsection (7), an environmental organisation is [^c-0710fbd7e6827fb6db68c217b5e80154]... to be deemed to have sufficient interest to make an application under subsection (1).
 
-(7 (Extent: E+W))[^key-269fa65f7b3f23f1f87c7bf742646434] An order is within this subsection if, in relation to the proposed application relating to the project authorised by the order, the Secretary of State decided that an environmental impact assessment was required and informed the applicant accordingly under paragraph 6(2)(a) of Schedule 3. *(Extent: E+W)*
+(7 (Extent: E+W))[^c-269fa65f7b3f23f1f87c7bf742646434] An order is within this subsection if, in relation to the proposed application relating to the project authorised by the order, the Secretary of State decided that an environmental impact assessment was required and informed the applicant accordingly under paragraph 6(2)(a) of Schedule 3. *(Extent: E+W)*
 
 (8 (Extent: E+W)) For the purposes of subsections (6) and (7), an “environmental organisation” is a non-governmental organisation promoting environmental protection. *(Extent: E+W)*
 
-(9)[^key-6b9875be45517180159b966bc218f003] Section 17D(3) applies this section to closure orders.
+(9)[^c-6b9875be45517180159b966bc218f003] Section 17D(3) applies this section to closure orders.
 
 ## Annotations
 
 [^c7740271]: Textual amendment: S. 44 substituted by virtue of [Docks and Harbours Act 1966 (c. 28)](https://www.legislation.gov.uk/ukpga/1966/28), [s. 44](https://www.legislation.gov.uk/ukpga/1966/28/section/44), [Sch. 2](https://www.legislation.gov.uk/ukpga/1966/28/schedule/2)
 
-[^key-cf0892be5dd1eece22cfc8c8e7081cff]: Textual amendment: Words in s. 44(1) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-cf0892be5dd1eece22cfc8c8e7081cff]: Textual amendment: Words in s. 44(1) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-9d182f4d4391583a8b6cde814ffb73b7]: Textual amendment: Words in s. 44(1) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8), [(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
+[^c-9d182f4d4391583a8b6cde814ffb73b7]: Textual amendment: Words in s. 44(1) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8), [(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
 
 [^c7740281]: Marginal citation: [1945 c. 18](https://www.legislation.gov.uk/ukpga/1945/18). (9 & 10 Geo. 6)
 
@@ -73,12 +73,12 @@ summary: ''
 
 [^c7740361]: Textual amendment: Words inserted by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 6 para. 6(4)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/6/4)
 
-[^key-fa50bf7511bbf689ddef800b6cf58bb9]: Textual amendment: S. 44(6)-(8) substituted (S.) (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/460/regulation/2/3)
+[^c-fa50bf7511bbf689ddef800b6cf58bb9]: Textual amendment: S. 44(6)-(8) substituted (S.) (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/460/regulation/2/3)
 
-[^key-50a026f234c0aabe2826074293a9f10b]: Textual amendment: S. 44(6)-(8) added (E.W.) (10.3.2009) by [The Harbour Works (Environmental Impact Assessment) (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/269)](https://www.legislation.gov.uk/uksi/2009/269), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/269/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/269/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/269/regulation/1/2))
+[^c-50a026f234c0aabe2826074293a9f10b]: Textual amendment: S. 44(6)-(8) added (E.W.) (10.3.2009) by [The Harbour Works (Environmental Impact Assessment) (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/269)](https://www.legislation.gov.uk/uksi/2009/269), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/269/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/269/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/269/regulation/1/2))
 
-[^key-0710fbd7e6827fb6db68c217b5e80154]: Textual amendment: Words in s. 44(6) omitted (E.W.) (31.12.2020) by virtue of [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/460/regulation/2/2/a)
+[^c-0710fbd7e6827fb6db68c217b5e80154]: Textual amendment: Words in s. 44(6) omitted (E.W.) (31.12.2020) by virtue of [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/460/regulation/2/2/a)
 
-[^key-269fa65f7b3f23f1f87c7bf742646434]: Textual amendment: S. 44(7)(8) substituted (E.W.) (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/460/regulation/2/2/b)
+[^c-269fa65f7b3f23f1f87c7bf742646434]: Textual amendment: S. 44(7)(8) substituted (E.W.) (31.12.2020) by [The Harbours and Highways (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/460)](https://www.legislation.gov.uk/uksi/2020/460), [regs. 1](https://www.legislation.gov.uk/uksi/2020/460/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/460/regulation/2/2/b)
 
-[^key-6b9875be45517180159b966bc218f003]: Textual amendment: S. 44(9) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/6/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-6b9875be45517180159b966bc218f003]: Textual amendment: S. 44(9) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/6/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)

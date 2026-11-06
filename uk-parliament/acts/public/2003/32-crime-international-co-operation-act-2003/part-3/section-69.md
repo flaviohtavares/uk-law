@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Endorsement of licence: Northern Ireland[^key-6774135b5d2129507e3048cd4f2538b6]
+## 69. Endorsement of licence: Northern Ireland[^c-6774135b5d2129507e3048cd4f2538b6]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f63fc405154390be3a9cabbc2772c5fb] This section applies where a person who—
+(1)[^c-f63fc405154390be3a9cabbc2772c5fb] This section applies where a person who—
 
 - (a) is normally resident in Northern Ireland, or
 - (b) is not normally resident in Northern Ireland but holds a Northern Ireland licence,
@@ -56,6 +56,6 @@ those particulars must be entered on the counterpart of the new licence or the n
 
 ## Annotations
 
-[^key-6774135b5d2129507e3048cd4f2538b6]: Commencement: S. 69 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-6774135b5d2129507e3048cd4f2538b6]: Commencement: S. 69 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
 
-[^key-f63fc405154390be3a9cabbc2772c5fb]: Textual amendment: S. 69(1) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/12) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-f63fc405154390be3a9cabbc2772c5fb]: Textual amendment: S. 69(1) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/12) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

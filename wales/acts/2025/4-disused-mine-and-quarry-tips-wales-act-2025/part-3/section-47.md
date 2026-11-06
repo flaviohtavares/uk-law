@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Duty to give interested parties copies of notice[^key-dcaa621b5378fced3bae364eccc23afe]
+## 47. Duty to give interested parties copies of notice[^c-dcaa621b5378fced3bae364eccc23afe]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcaa621b5378fced3bae364eccc23afe]: Commencement: S. 47 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-dcaa621b5378fced3bae364eccc23afe]: Commencement: S. 47 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

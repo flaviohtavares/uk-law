@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Extradition to a territory that is party to an international Convention[^key-b21224386d0edb3592f2a6d35b2cf756]
+## 169. Extradition to a territory that is party to an international Convention[^c-b21224386d0edb3592f2a6d35b2cf756]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ For section 193 of the Extradition Act 2003 there is substituted—
 
 ## Annotations
 
-[^key-b21224386d0edb3592f2a6d35b2cf756]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2014/12/section/169) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(n)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/n)
+[^c-b21224386d0edb3592f2a6d35b2cf756]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2014/12/section/169) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(n)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/n)

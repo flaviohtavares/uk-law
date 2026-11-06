@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Time limit for offences[^key-9ab56533b1b5e144ae8d000e3c108fa5]
+## 32. Time limit for offences[^c-9ab56533b1b5e144ae8d000e3c108fa5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 136 of the Criminal Procedure (Scotland) Act 1995 (time limit for certai
 
 ## Annotations
 
-[^key-9ab56533b1b5e144ae8d000e3c108fa5]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/10/section/32) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-9ab56533b1b5e144ae8d000e3c108fa5]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/10/section/32) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))

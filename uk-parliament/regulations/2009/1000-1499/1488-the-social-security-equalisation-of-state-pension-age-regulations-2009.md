@@ -53,15 +53,15 @@ With respect to regulations 24 to 41, in accordance with section 176(1) of the S
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00002].
 
-## 1. Citation and commencement[^key-c214766e46cd4b2841a7b5742a93e79a]
+## 1. Citation and commencement[^c-c214766e46cd4b2841a7b5742a93e79a]
 
 These Regulations may be cited as the Social Security (Equalisation of State Pension Age) Regulations 2009 and shall come into force on 6th April 2010.
 
-## 2. Amendment of the Income Support (General) Regulations 1987[^key-28fff0858db6950ebd74fe60fd193e1b]
+## 2. Amendment of the Income Support (General) Regulations 1987[^c-28fff0858db6950ebd74fe60fd193e1b]
 
 The Income Support (General) Regulations 1987[^f00003] are amended as follows.
 
-**3.**[^key-79897b2c7e579415b21a1b358075313e] (1) Schedule 2 (applicable amounts) is amended in accordance with this regulation.
+**3.**[^c-79897b2c7e579415b21a1b358075313e] (1) Schedule 2 (applicable amounts) is amended in accordance with this regulation.
 
 (2) In paragraph 9 (pensioner premium for persons under 75), for “not less than 60” substitute “not less than the qualifying age for state pension credit”.
 
@@ -75,23 +75,23 @@ The Income Support (General) Regulations 1987[^f00003] are amended as follows.
 
 (5) In sub-paragraph (1) of paragraph 13A (enhanced disability premium), for “is aged less than 60” substitute “has not attained the qualifying age for state pension credit”.
 
-**4.**[^key-b155a26760078e7b914c3a19ca772940] (1) Schedule 10 (capital to be disregarded) is amended in accordance with this regulation.
+**4.**[^c-b155a26760078e7b914c3a19ca772940] (1) Schedule 10 (capital to be disregarded) is amended in accordance with this regulation.
 
 (2) In sub-paragraph (a) of paragraph 4, for “is aged 60 or over” substitute “has attained the qualifying age for state pension credit”.
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-e8833d56d5ae4289156367d3d658b405]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-e8833d56d5ae4289156367d3d658b405]
 
 The Social Security (Claims and Payments) Regulations 1987[^f00004] are amended as follows.
 
-**6.**[^key-82593a0da417101d56761039bdbf3726] (1) Regulation 36 (payment to a partner as alternative payee) is amended in accordance with this regulation.
+**6.**[^c-82593a0da417101d56761039bdbf3726] (1) Regulation 36 (payment to a partner as alternative payee) is amended in accordance with this regulation.
 
 (2) In paragraph (2), for “the other person has not yet attained the age of 60 in the qualifying week” substitute “in the qualifying week the other person has not yet attained the qualifying age”.
 
-## 7. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995[^key-429b478f769af55af56977cababa279b]
+## 7. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995[^c-429b478f769af55af56977cababa279b]
 
 The Social Security (Incapacity Benefit) (Transitional) Regulations 1995[^f00005] are amended as follows.
 
-**8.**[^key-1be589d3d17a87a4f54424e6a4b2cbf3] (1) Regulation 1 (citation, commencement and interpretation) is amended in accordance with this regulation.
+**8.**[^c-1be589d3d17a87a4f54424e6a4b2cbf3] (1) Regulation 1 (citation, commencement and interpretation) is amended in accordance with this regulation.
 
 (2) In paragraph (2), for the definition of “pensionable age” substitute—
 
@@ -99,11 +99,11 @@ The Social Security (Incapacity Benefit) (Transitional) Regulations 1995[^f00005
 
 .
 
-## 9. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-4a5da0039b8c06e9256157e59926df1b]
+## 9. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-4a5da0039b8c06e9256157e59926df1b]
 
 The Jobseeker’s Allowance Regulations 1996[^f00007] are amended as follows.
 
-**10.**[^key-c3128abfbaed0ecd54bfb1aa66717bea] (1) Regulation 1 (citation, commencement and interpretation) is amended in accordance with this regulation.
+**10.**[^c-c3128abfbaed0ecd54bfb1aa66717bea] (1) Regulation 1 (citation, commencement and interpretation) is amended in accordance with this regulation.
 
 (2) In paragraph (3), after the definition of “polygamous marriage” insert—
 
@@ -113,11 +113,11 @@ The Jobseeker’s Allowance Regulations 1996[^f00007] are amended as follows.
 
 .
 
-**11.**[^key-f41784c09671d3b1c16572ae8c528005] (1) Regulation 49 (persons approaching retirement and the jobseeking period) is amended in accordance with this regulation.
+**11.**[^c-f41784c09671d3b1c16572ae8c528005] (1) Regulation 49 (persons approaching retirement and the jobseeking period) is amended in accordance with this regulation.
 
 (2) In paragraph (1)(b), for “the age of 60” substitute “the qualifying age for state pension credit”.
 
-**12.**[^key-e5eca69839dace9dfafe183b395d6214] (1) Schedule A1 (categories of members of a joint-claim couple who are not required to satisfy the conditions in section 1(2B)(b)) is amended in accordance with this regulation.
+**12.**[^c-e5eca69839dace9dfafe183b395d6214] (1) Schedule A1 (categories of members of a joint-claim couple who are not required to satisfy the conditions in section 1(2B)(b)) is amended in accordance with this regulation.
 
 (2) For paragraph 13 substitute—
 
@@ -127,7 +127,7 @@ The Jobseeker’s Allowance Regulations 1996[^f00007] are amended as follows.
 
 .
 
-**13.**[^key-65aebf574acc487998b58dd3f4266294] (1) Schedule 1 (applicable amounts) is amended in accordance with this regulation.
+**13.**[^c-65aebf574acc487998b58dd3f4266294] (1) Schedule 1 (applicable amounts) is amended in accordance with this regulation.
 
 (2) In Part 3 (premiums)—
 
@@ -154,119 +154,119 @@ The Jobseeker’s Allowance Regulations 1996[^f00007] are amended as follows.
 
 (5) In Part 4B (weekly amounts of premiums specified in Part 4A), in sub-paragraph (1) of paragraph 20M, for “is aged over 60” substitute “has attained the qualifying age for state pension credit”.
 
-**14.**[^key-83057d7a40ff38141b5434afd7c028d4] (1) Schedule 2 (housing costs) is amended in accordance with this regulation.
+**14.**[^c-83057d7a40ff38141b5434afd7c028d4] (1) Schedule 2 (housing costs) is amended in accordance with this regulation.
 
 (2) In sub-paragraph (1)(a) of paragraph 8 (general exclusions from paragraphs 6 and 7), for “is aged 60 or over” substitute “has attained the qualifying age for state pension credit”.
 
-**15.**[^key-6528ffcd7609690aec9decef552ac591] (1) Schedule 6 (sums to be disregarded in the calculation of earnings) is amended in accordance with this regulation.
+**15.**[^c-6528ffcd7609690aec9decef552ac591] (1) Schedule 6 (sums to be disregarded in the calculation of earnings) is amended in accordance with this regulation.
 
 (2) In paragraph 5—
 
 - (a) in sub-paragraph (3)(b), for “is under the age of 60” substitute “has not attained the qualifying age for state pension credit”;
 - (b) in sub-paragraphs (4)(b) and (7)(a)(i), (b) and (c), for “the age of 60” substitute “the qualifying age for state pension credit”.
 
-**16.**[^key-4b48ab98a5ff256fc8808afd6061d2af] (1) Schedule 6A (sums to be disregarded in the calculation of earnings of members of joint-claim couples) is amended in accordance with this regulation.
+**16.**[^c-4b48ab98a5ff256fc8808afd6061d2af] (1) Schedule 6A (sums to be disregarded in the calculation of earnings of members of joint-claim couples) is amended in accordance with this regulation.
 
 (2) In paragraph 1—
 
 - (a) in sub-paragraph (3)(b), for “is under the age of 60” substitute “has not attained the qualifying age for state pension credit”;
 - (b) in sub-paragraphs (4)(b) and (5)(a)(i), (b) and (c), for “the age of 60” substitute “the qualifying age for state pension credit”.
 
-**17.**[^key-e5edd4be030d140e20797641eb42793f] (1) Schedule 8 (capital to be disregarded) is amended in accordance with this regulation.
+**17.**[^c-e5edd4be030d140e20797641eb42793f] (1) Schedule 8 (capital to be disregarded) is amended in accordance with this regulation.
 
 (2) In sub-paragraph (a) of paragraph 4, for “is aged 60 or over” substitute “has attained the qualifying age for state pension credit”.
 
-## 18. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-bb39c7f006e49d251bbe380801f0e1b9][^key-39539aebd716c7e667e30d0a37060954]
+## 18. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-bb39c7f006e49d251bbe380801f0e1b9][^c-39539aebd716c7e667e30d0a37060954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-bb39c7f006e49d251bbe380801f0e1b9][^key-1a646076378a2e747cd8b357e0deee8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-bb39c7f006e49d251bbe380801f0e1b9][^c-1a646076378a2e747cd8b357e0deee8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-bb39c7f006e49d251bbe380801f0e1b9][^key-eb0d1c1a96f605feb426863141a703ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-bb39c7f006e49d251bbe380801f0e1b9][^c-eb0d1c1a96f605feb426863141a703ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-bb39c7f006e49d251bbe380801f0e1b9][^key-1c97c84469b619d7a8df6ad44d228073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-bb39c7f006e49d251bbe380801f0e1b9][^c-1c97c84469b619d7a8df6ad44d228073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Amendment of the State Pension Credit Regulations 2002[^key-d668b78335461b9c8b4b3fedf1752e29]
+## 22. Amendment of the State Pension Credit Regulations 2002[^c-d668b78335461b9c8b4b3fedf1752e29]
 
 The State Pension Credit Regulations 2002[^f00009] are amended as follows.
 
-**23.**[^key-892baf35b4b04131040aaf4c77fcaa8b] (1) Part 1 (capital disregarded for the purpose of calculating income) of Schedule 5 (income from capital) is amended in accordance with this regulation.
+**23.**[^c-892baf35b4b04131040aaf4c77fcaa8b] (1) Part 1 (capital disregarded for the purpose of calculating income) of Schedule 5 (income from capital) is amended in accordance with this regulation.
 
 (2) In paragraph 4(a), for “is either aged 60 or over or incapacitated” substitute “has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 24. Amendment of the Housing Benefit Regulations 2006[^key-7e45a61b934db0e9e4fffe6357c142c6]
+## 24. Amendment of the Housing Benefit Regulations 2006[^c-7e45a61b934db0e9e4fffe6357c142c6]
 
 The Housing Benefit Regulations 2006[^f00010] are amended as follows.
 
-**25.**[^key-8d76096b48eba4a5167946cb937b8dd2] (1) Regulation 83 (time and manner in which claims are to be made) is amended in accordance with this regulation.
+**25.**[^c-8d76096b48eba4a5167946cb937b8dd2] (1) Regulation 83 (time and manner in which claims are to be made) is amended in accordance with this regulation.
 
 (2) In paragraph (11), for “the age of 59 years and 35 weeks” substitute “the age which is 17 weeks younger than the qualifying age for state pension credit”.
 
-**26.**[^key-332000d7523d1d08fd345580d22fab9d] (1) Schedule 3 (applicable amounts) is amended in accordance with this regulation.
+**26.**[^c-332000d7523d1d08fd345580d22fab9d] (1) Schedule 3 (applicable amounts) is amended in accordance with this regulation.
 
 (2) In paragraph 12 (disability premium), for “is aged less than 60”, wherever those words occur, substitute “has not attained the qualifying age for state pension credit”.
 
 (3) In sub-paragraph (1) of paragraph 15 (enhanced disability premium), for “is aged less than 60” substitute “has not attained the qualifying age for state pension credit”.
 
-**27.**[^key-19429370c1b38303a23ab21329450594] (1) Schedule 4 (sums to be disregarded in the calculation of earnings) is amended in accordance with this regulation.
+**27.**[^c-19429370c1b38303a23ab21329450594] (1) Schedule 4 (sums to be disregarded in the calculation of earnings) is amended in accordance with this regulation.
 
 (2) In paragraph 3(3)(b), for “is under the age of 60” substitute “has not attained the qualifying age for state pension credit”.
 
-**28.**[^key-d97ebfe381c678f90021ef82b370fda5] (1) Schedule 6 (capital to be disregarded) is amended in accordance with this regulation.
+**28.**[^c-d97ebfe381c678f90021ef82b370fda5] (1) Schedule 6 (capital to be disregarded) is amended in accordance with this regulation.
 
 (2) In paragraph 4(a), for “where that person is either aged 60 or over or incapacitated” substitute “where that person has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 29. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-30c10ff5676e083afa87b60c9036271b]
+## 29. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-30c10ff5676e083afa87b60c9036271b]
 
 The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00011] are amended as follows.
 
-**30.**[^key-b3ab0610c23a2eb2b19688427fc5b8c3] (1) Regulation 64 (time and manner in which claims are to be made) is amended in accordance with this regulation.
+**30.**[^c-b3ab0610c23a2eb2b19688427fc5b8c3] (1) Regulation 64 (time and manner in which claims are to be made) is amended in accordance with this regulation.
 
 (2) In paragraph (12), for “the age of 59 years and 35 weeks” substitute “the age which is 17 weeks younger than the qualifying age for state pension credit”.
 
-**31.**[^key-bc2e956037e1f075933e28f4273b10b7] (1) Schedule 6 (capital to be disregarded) is amended in accordance with this regulation.
+**31.**[^c-bc2e956037e1f075933e28f4273b10b7] (1) Schedule 6 (capital to be disregarded) is amended in accordance with this regulation.
 
 (2) In paragraph 4(a), for “where that person is either aged 60 or over or incapacitated” substitute “where that person has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 32. Amendment of the Council Tax Benefit Regulations 2006[^key-41c78b29f9785fa549d52c55970b3cf5]
+## 32. Amendment of the Council Tax Benefit Regulations 2006[^c-41c78b29f9785fa549d52c55970b3cf5]
 
 The Council Tax Benefit Regulations 2006[^f00012] are amended as follows.
 
-**33.**[^key-c34b3a4010971e2bd8c50fce68d6dff6] (1) Regulation 69 (time and manner in which claims are to be made) is amended in accordance with this regulation.
+**33.**[^c-c34b3a4010971e2bd8c50fce68d6dff6] (1) Regulation 69 (time and manner in which claims are to be made) is amended in accordance with this regulation.
 
 (2) In paragraph (13), for “the age of 59 years and 35 weeks” substitute “the age which is 17 weeks younger than the qualifying age for state pension credit”.
 
-**34.**[^key-a931541cfa74f1af1acb16539a7fe236] (1) Schedule 1 (applicable amounts) is amended in accordance with this regulation.
+**34.**[^c-a931541cfa74f1af1acb16539a7fe236] (1) Schedule 1 (applicable amounts) is amended in accordance with this regulation.
 
 (2) In paragraph 12 (disability premium), for “is aged less than 60”, wherever those words occur, substitute “has not attained the qualifying age for state pension credit”.
 
 (3) In sub-paragraph (1) of paragraph 15 (enhanced disability premium), for “is aged less than 60” substitute “has not attained the qualifying age for state pension credit”.
 
-**35.**[^key-0f4497f912ee254423227ce91f3dd9e2] (1) Schedule 3 (sums to be disregarded in the calculation of earnings) is amended in accordance with this regulation.
+**35.**[^c-0f4497f912ee254423227ce91f3dd9e2] (1) Schedule 3 (sums to be disregarded in the calculation of earnings) is amended in accordance with this regulation.
 
 (2) In paragraph 3(3)(b), for “is under the age of 60” substitute “has not attained the qualifying age for state pension credit”.
 
-**36.**[^key-0c488a53e486f00b1f75fa725a1df2ef] (1) Schedule 5 (capital to be disregarded) is amended in accordance with this regulation.
+**36.**[^c-0c488a53e486f00b1f75fa725a1df2ef] (1) Schedule 5 (capital to be disregarded) is amended in accordance with this regulation.
 
 (2) In paragraph 4(a), for “where that person is either aged 60 or over or incapacitated” substitute “where that person has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 37. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-4ed9097e78bc9c02ae64ab7cdc779622]
+## 37. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-4ed9097e78bc9c02ae64ab7cdc779622]
 
 The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00013] are amended as follows.
 
-**38.**[^key-c08861f41d3632b2cdd1533b9bad3d3f] (1) Regulation 53 (time and manner in which claims are to be made) is amended in accordance with this regulation.
+**38.**[^c-c08861f41d3632b2cdd1533b9bad3d3f] (1) Regulation 53 (time and manner in which claims are to be made) is amended in accordance with this regulation.
 
 (2) In paragraph (12A), for “the age of 59 years and 35 weeks” substitute “the age which is 17 weeks younger than the qualifying age for state pension credit”.
 
-**39.**[^key-706520d0b82d226bcf5db6d693ca97c8] (1) Schedule 4 (capital disregards) is amended in accordance with this regulation.
+**39.**[^c-706520d0b82d226bcf5db6d693ca97c8] (1) Schedule 4 (capital disregards) is amended in accordance with this regulation.
 
 (2) In paragraph 4(a), for “where that person is either aged 60 or over or incapacitated” substitute “where that person has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 40. Amendment of the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006[^key-480ec307e61eeedeca2e171b8dea185e]
+## 40. Amendment of the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006[^c-480ec307e61eeedeca2e171b8dea185e]
 
 The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006[^f00014] are amended as follows.
 
-**41.**[^key-9b54959db419dd893d22482225ef2205] (1) Schedule 3 (transitional and savings provisions) is amended in accordance with this regulation.
+**41.**[^c-9b54959db419dd893d22482225ef2205] (1) Schedule 3 (transitional and savings provisions) is amended in accordance with this regulation.
 
 (2) In paragraph 5(2), in regulation 13 (restrictions on unreasonable payments) as set out in that paragraph, for paragraph (4)(a) substitute—
 
@@ -274,15 +274,15 @@ The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulatio
 
 .
 
-## 42. Amendment of the Employment and Support Allowance Regulations 2008[^key-b49571eef066e5919210f805d53e1a0f]
+## 42. Amendment of the Employment and Support Allowance Regulations 2008[^c-b49571eef066e5919210f805d53e1a0f]
 
 The Employment and Support Allowance Regulations 2008[^f00015] are amended as follows.
 
-**43.**[^key-e4236db709f683e387ccd0df5e4b15de] (1) Regulation 158 (meaning of “person in hardship”) is amended in accordance with this regulation.
+**43.**[^c-e4236db709f683e387ccd0df5e4b15de] (1) Regulation 158 (meaning of “person in hardship”) is amended in accordance with this regulation.
 
 (2) In paragraph (3)(e), for “is aged 60 or more” substitute “has attained the qualifying age for state pension credit”.
 
-**44.**[^key-052479bc69e8e70092f3d004521b7a9a] (1) Schedule 9 (capital to be disregarded) is amended in accordance with this regulation.
+**44.**[^c-052479bc69e8e70092f3d004521b7a9a] (1) Schedule 9 (capital to be disregarded) is amended in accordance with this regulation.
 
 (2) In paragraph 4(a), for “is aged 60 or over” substitute “has attained the qualifying age for state pension credit”.
 
@@ -296,11 +296,11 @@ Department for Work and Pensions
 
 9th June 2009
 
-## SCHEDULE — Enactments conferring powers under which these Regulations are made[^key-b55aab5174437a61c090ba87253a5534]
+## SCHEDULE — Enactments conferring powers under which these Regulations are made[^c-b55aab5174437a61c090ba87253a5534]
 
 Preamble
 
-[^key-b55aab5174437a61c090ba87253a5534]
+[^c-b55aab5174437a61c090ba87253a5534]
 
 The following provisions of the Social Security Contributions and Benefits Act 1992[^f00016]—
 
@@ -312,7 +312,7 @@ The following provisions of the Social Security Contributions and Benefits Act 1
 - (f) subsections (2) and (4) of section 138[^f00021] (payments out of the social fund);
 - (g) subsections (1), (3) and (4) of section 175[^f00022] (regulations, orders and schemes).
 
-[^key-b55aab5174437a61c090ba87253a5534]
+[^c-b55aab5174437a61c090ba87253a5534]
 
 The following provisions of the Social Security Administration Act 1992[^f00023]—
 
@@ -321,14 +321,14 @@ The following provisions of the Social Security Administration Act 1992[^f00023]
 - (j) subsection (1), (4) and (5) of section 189 (regulations and orders - general);
 - (k) section 191 (interpretation - general).
 
-[^key-b55aab5174437a61c090ba87253a5534]
+[^c-b55aab5174437a61c090ba87253a5534]
 
 The following provisions of the Social Security (Incapacity for Work) Act 1994[^f00024]—
 
 - (l) subsections (1), (5) and (7) of section 4 (power to provide for the transition to incapacity benefit);
 - (m) subsection (1) of section 12 (general power to make transitional and consequential provision).
 
-[^key-b55aab5174437a61c090ba87253a5534]
+[^c-b55aab5174437a61c090ba87253a5534]
 
 The following provisions of the Jobseekers Act 1995[^f00025]—
 
@@ -339,7 +339,7 @@ The following provisions of the Jobseekers Act 1995[^f00025]—
 - (r) subsections (1), (2) and (4) of section 36 (regulations and orders);
 - (s) paragraph 8A(1) of Schedule 1 (supplementary provisions).
 
-[^key-b55aab5174437a61c090ba87253a5534]
+[^c-b55aab5174437a61c090ba87253a5534]
 
 The following provisions of the State Pension Credit Act 2002[^f00026]—
 
@@ -347,7 +347,7 @@ The following provisions of the State Pension Credit Act 2002[^f00026]—
 - (u) subsection (1) of section 17 (other interpretation provisions);
 - (v) subsection (1) of section 19 (regulations and orders).
 
-[^key-b55aab5174437a61c090ba87253a5534]
+[^c-b55aab5174437a61c090ba87253a5534]
 
 The following provisions of the Welfare Reform Act 2007[^f00027]—
 
@@ -398,121 +398,121 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00002]: Footnote: Section 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) provides that matter which would otherwise be referable to the Social Security Advisory Committee may not be so referred with the agreement of that Committee. These Regulations would otherwise be referable to the Committee by virtue of section 170 of that Act.
 
-[^key-c214766e46cd4b2841a7b5742a93e79a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-c214766e46cd4b2841a7b5742a93e79a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-28fff0858db6950ebd74fe60fd193e1b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1488/regulation/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-28fff0858db6950ebd74fe60fd193e1b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1488/regulation/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Relevant amending instruments are [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445), [S.I. 1989/534](https://www.legislation.gov.uk/uksi/1989/534), [S.I. 1990/1776](https://www.legislation.gov.uk/uksi/1990/1776), [S.I. 2000/724](https://www.legislation.gov.uk/uksi/2000/724), [S.I. 2000/2629](https://www.legislation.gov.uk/uksi/2000/2629), [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455), [S.I. 2003/2379](https://www.legislation.gov.uk/uksi/2003/2379) and [S.I. 2007/719](https://www.legislation.gov.uk/uksi/2007/719).
 
-[^key-79897b2c7e579415b21a1b358075313e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1488/regulation/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-79897b2c7e579415b21a1b358075313e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1488/regulation/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-b155a26760078e7b914c3a19ca772940]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1488/regulation/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-b155a26760078e7b914c3a19ca772940]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1488/regulation/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-e8833d56d5ae4289156367d3d658b405]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1488/regulation/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-e8833d56d5ae4289156367d3d658b405]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1488/regulation/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph (2) of regulation 36 was inserted by [S.I. 2002/2660](https://www.legislation.gov.uk/uksi/2002/2660) and was amended by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877).
 
-[^key-82593a0da417101d56761039bdbf3726]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1488/regulation/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-82593a0da417101d56761039bdbf3726]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1488/regulation/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-429b478f769af55af56977cababa279b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1488/regulation/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-429b478f769af55af56977cababa279b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1488/regulation/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1995/310](https://www.legislation.gov.uk/uksi/1995/310).
 
-[^key-1be589d3d17a87a4f54424e6a4b2cbf3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1488/regulation/8) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-1be589d3d17a87a4f54424e6a4b2cbf3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1488/regulation/8) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00006]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Paragraph 1 of Schedule 4 was amended by paragraph 39 of Schedule 2 to the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 13 of Schedule 3 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5) and paragraph 4 of Schedule 3 to the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22).
 
-[^key-4a5da0039b8c06e9256157e59926df1b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1488/regulation/9) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-4a5da0039b8c06e9256157e59926df1b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1488/regulation/9) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). Relevant amending instruments are [S.I. 1996/2538](https://www.legislation.gov.uk/uksi/1996/2538), [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978), [S.I. 2000/724](https://www.legislation.gov.uk/uksi/2000/724), [S.I. 2000/2629](https://www.legislation.gov.uk/uksi/2000/2629), [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455), [S.I. 2007/719](https://www.legislation.gov.uk/uksi/2007/719), [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554) and [S.I. 2009/497](https://www.legislation.gov.uk/uksi/2009/497).
 
-[^key-c3128abfbaed0ecd54bfb1aa66717bea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1488/regulation/10) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-c3128abfbaed0ecd54bfb1aa66717bea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1488/regulation/10) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-f41784c09671d3b1c16572ae8c528005]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1488/regulation/11) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-f41784c09671d3b1c16572ae8c528005]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1488/regulation/11) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-e5eca69839dace9dfafe183b395d6214]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/1488/regulation/12) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-e5eca69839dace9dfafe183b395d6214]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/1488/regulation/12) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-65aebf574acc487998b58dd3f4266294]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/1488/regulation/13) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-65aebf574acc487998b58dd3f4266294]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/1488/regulation/13) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-83057d7a40ff38141b5434afd7c028d4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/1488/regulation/14) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-83057d7a40ff38141b5434afd7c028d4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/1488/regulation/14) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-6528ffcd7609690aec9decef552ac591]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/1488/regulation/15) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-6528ffcd7609690aec9decef552ac591]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/1488/regulation/15) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-4b48ab98a5ff256fc8808afd6061d2af]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/1488/regulation/16) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-4b48ab98a5ff256fc8808afd6061d2af]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/1488/regulation/16) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-e5edd4be030d140e20797641eb42793f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/1488/regulation/17) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-e5edd4be030d140e20797641eb42793f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/1488/regulation/17) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-bb39c7f006e49d251bbe380801f0e1b9]: Textual amendment: [Regs. 18-21](https://www.legislation.gov.uk/uksi/2009/1488/regulation/18) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-bb39c7f006e49d251bbe380801f0e1b9]: Textual amendment: [Regs. 18-21](https://www.legislation.gov.uk/uksi/2009/1488/regulation/18) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-39539aebd716c7e667e30d0a37060954]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/1488/regulation/18) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-39539aebd716c7e667e30d0a37060954]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/1488/regulation/18) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-1a646076378a2e747cd8b357e0deee8c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/1488/regulation/19) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-1a646076378a2e747cd8b357e0deee8c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/1488/regulation/19) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-eb0d1c1a96f605feb426863141a703ca]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/1488/regulation/20) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-eb0d1c1a96f605feb426863141a703ca]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/1488/regulation/20) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-1c97c84469b619d7a8df6ad44d228073]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/1488/regulation/21) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-1c97c84469b619d7a8df6ad44d228073]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/1488/regulation/21) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-d668b78335461b9c8b4b3fedf1752e29]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/1488/regulation/22) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-d668b78335461b9c8b4b3fedf1752e29]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/1488/regulation/22) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792). The relevant amending instrument is [S.I. 2004/2327](https://www.legislation.gov.uk/uksi/2004/2327).
 
-[^key-892baf35b4b04131040aaf4c77fcaa8b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/1488/regulation/23) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-892baf35b4b04131040aaf4c77fcaa8b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/1488/regulation/23) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-7e45a61b934db0e9e4fffe6357c142c6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/1488/regulation/24) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-7e45a61b934db0e9e4fffe6357c142c6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/1488/regulation/24) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Relevant amending instruments are [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428).
 
-[^key-8d76096b48eba4a5167946cb937b8dd2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/1488/regulation/25) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-8d76096b48eba4a5167946cb937b8dd2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/1488/regulation/25) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-332000d7523d1d08fd345580d22fab9d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/1488/regulation/26) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-332000d7523d1d08fd345580d22fab9d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/1488/regulation/26) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-19429370c1b38303a23ab21329450594]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/1488/regulation/27) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-19429370c1b38303a23ab21329450594]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/1488/regulation/27) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-d97ebfe381c678f90021ef82b370fda5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/1488/regulation/28) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-d97ebfe381c678f90021ef82b370fda5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/1488/regulation/28) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-30c10ff5676e083afa87b60c9036271b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/1488/regulation/29) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-30c10ff5676e083afa87b60c9036271b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/1488/regulation/29) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
-[^key-b3ab0610c23a2eb2b19688427fc5b8c3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/1488/regulation/30) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-b3ab0610c23a2eb2b19688427fc5b8c3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/1488/regulation/30) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-bc2e956037e1f075933e28f4273b10b7]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/1488/regulation/31) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-bc2e956037e1f075933e28f4273b10b7]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/1488/regulation/31) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-41c78b29f9785fa549d52c55970b3cf5]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/1488/regulation/32) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-41c78b29f9785fa549d52c55970b3cf5]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/1488/regulation/32) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215). Relevant amending instruments are [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428).
 
-[^key-c34b3a4010971e2bd8c50fce68d6dff6]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/1488/regulation/33) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-c34b3a4010971e2bd8c50fce68d6dff6]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/1488/regulation/33) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-a931541cfa74f1af1acb16539a7fe236]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2009/1488/regulation/34) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-a931541cfa74f1af1acb16539a7fe236]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2009/1488/regulation/34) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-0f4497f912ee254423227ce91f3dd9e2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2009/1488/regulation/35) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-0f4497f912ee254423227ce91f3dd9e2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2009/1488/regulation/35) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-0c488a53e486f00b1f75fa725a1df2ef]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2009/1488/regulation/36) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-0c488a53e486f00b1f75fa725a1df2ef]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2009/1488/regulation/36) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-4ed9097e78bc9c02ae64ab7cdc779622]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2009/1488/regulation/37) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-4ed9097e78bc9c02ae64ab7cdc779622]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2009/1488/regulation/37) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216). Relevant amending instrument is [S.I. 2008/1042](https://www.legislation.gov.uk/uksi/2008/1042).
 
-[^key-c08861f41d3632b2cdd1533b9bad3d3f]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/1488/regulation/38) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-c08861f41d3632b2cdd1533b9bad3d3f]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/1488/regulation/38) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-706520d0b82d226bcf5db6d693ca97c8]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/1488/regulation/39) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-706520d0b82d226bcf5db6d693ca97c8]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/1488/regulation/39) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-480ec307e61eeedeca2e171b8dea185e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2009/1488/regulation/40) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-480ec307e61eeedeca2e171b8dea185e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2009/1488/regulation/40) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217).
 
-[^key-9b54959db419dd893d22482225ef2205]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2009/1488/regulation/41) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-9b54959db419dd893d22482225ef2205]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2009/1488/regulation/41) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-b49571eef066e5919210f805d53e1a0f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2009/1488/regulation/42) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-b49571eef066e5919210f805d53e1a0f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2009/1488/regulation/42) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00015]: Footnote: [S.I 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-e4236db709f683e387ccd0df5e4b15de]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/1488/regulation/43) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-e4236db709f683e387ccd0df5e4b15de]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/1488/regulation/43) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-052479bc69e8e70092f3d004521b7a9a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2009/1488/regulation/44) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-052479bc69e8e70092f3d004521b7a9a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2009/1488/regulation/44) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
-[^key-b55aab5174437a61c090ba87253a5534]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/1488/schedule) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
+[^c-b55aab5174437a61c090ba87253a5534]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/1488/schedule) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1)
 
 [^f00016]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

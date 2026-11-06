@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Civil Service Pension Board: conflicts of interest[^key-7ec7a7f4cca70e36b7fa178998edec86]
+## 8. Civil Service Pension Board: conflicts of interest[^c-7ec7a7f4cca70e36b7fa178998edec86]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec7a7f4cca70e36b7fa178998edec86]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1964/regulation/8) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-7ec7a7f4cca70e36b7fa178998edec86]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1964/regulation/8) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00046]: Footnote: See section 5(5) of the Act for the meaning of “conflict of interest”.

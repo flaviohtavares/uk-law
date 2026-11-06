@@ -34,7 +34,7 @@ This instrument supersedes [SI 2010/829](https://www.legislation.gov.uk/uksi/201
 
 Electricity, England And Wales
 
-The Renewables Obligation (Amendment) Order 2010 (revoked)[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+The Renewables Obligation (Amendment) Order 2010 (revoked)[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 Made
 
@@ -44,92 +44,92 @@ Coming into force
 
 1st April 2010
 
-[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 1. Citation, commencement and extent[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 2. Amendments[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The renewables obligation[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 3. The renewables obligation[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Calculation B[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 4. Calculation B[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Omission of Calculation C[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 5. Omission of Calculation C[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Determining the total number of renewables obligation certificates to be produced in an obligation period[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 6. Determining the total number of renewables obligation certificates to be produced in an obligation period[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 7. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Cases and circumstances when a ROC must not be issued[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 8. Cases and circumstances when a ROC must not be issued[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Banding[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 9. Banding[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Refusing to issue and revoking ROCs[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 10. Refusing to issue and revoking ROCs[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Refusing to issue and revoking ROCs: supplemental[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 11. Refusing to issue and revoking ROCs: supplemental[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Late payments to discharge the renewables obligation[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 12. Late payments to discharge the renewables obligation[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Information to be provided to the Authority where electricity is generated from biomass[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 13. Information to be provided to the Authority where electricity is generated from biomass[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Preliminary accreditation and accreditation of generating stations[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 14. Preliminary accreditation and accreditation of generating stations[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. The 2009 Order: Schedule 1[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 15. The 2009 Order: Schedule 1[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. The 2009 Order: Schedule 2[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 16. The 2009 Order: Schedule 2[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. The 2009 Order: Schedule 3[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 17. The 2009 Order: Schedule 3[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. The 2009 Order: Schedule 4[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 18. The 2009 Order: Schedule 4[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Transitionals[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]
+## 19. Transitionals[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fe79f589c1bafbbfd7dff6f3985a8f1]: Textual amendment: Order revoked (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [95(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1947/article/95/1/b/ii)
+[^c-0fe79f589c1bafbbfd7dff6f3985a8f1]: Textual amendment: Order revoked (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [95(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1947/article/95/1/b/ii)

@@ -22,9 +22,9 @@ summary: ''
 
 (1) Regulations made under section 182 may make different provision with respect to different areas, and in particular may make special provision—
 
-- (a) with respect to conservation areas, [^key-fef03f21066b61ed7e5c33fa6967b145]...
+- (a) with respect to conservation areas, [^c-fef03f21066b61ed7e5c33fa6967b145]...
 - (b) with respect to areas defined for the purposes of the regulations as areas of special control,
-- (c)[^key-0f241d9cf2ca79ab7126c8fbe328ce8e] with respect to masterplan consent areas.
+- (c)[^c-0f241d9cf2ca79ab7126c8fbe328ce8e] with respect to masterplan consent areas.
 
 (2) An area may be defined as an area of special control if it is—
 
@@ -47,6 +47,6 @@ before the order is made or approved.
 
 ## Annotations
 
-[^key-fef03f21066b61ed7e5c33fa6967b145]: Textual amendment: Word in [s. 183(1)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/183/1/a) repealed (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 5(7)(a)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/5/7/a); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/d)
+[^c-fef03f21066b61ed7e5c33fa6967b145]: Textual amendment: Word in [s. 183(1)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/183/1/a) repealed (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 5(7)(a)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/5/7/a); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/d)
 
-[^key-0f241d9cf2ca79ab7126c8fbe328ce8e]: Textual amendment: [S. 183(1)(c)](https://www.legislation.gov.uk/ukpga/1997/8/section/183/1/c) inserted (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 5(7)(b)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/5/7/b); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/d)
+[^c-0f241d9cf2ca79ab7126c8fbe328ce8e]: Textual amendment: [S. 183(1)(c)](https://www.legislation.gov.uk/ukpga/1997/8/section/183/1/c) inserted (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 5(7)(b)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/5/7/b); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/d)

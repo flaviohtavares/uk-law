@@ -46,11 +46,11 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-ba956f775ff6b76e15442079564d4659]
+### 1. Citation and commencement[^c-ba956f775ff6b76e15442079564d4659]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014.
 
-(2) This article and articles 15 and 17[^key-46b5bf5c63a7c82af68313b0e5a53d86] come into force on the day after the day on which this Order is made.
+(2) This article and articles 15 and 17[^c-46b5bf5c63a7c82af68313b0e5a53d86] come into force on the day after the day on which this Order is made.
 
 (3) This Order comes into force on the day after the day on which this Order is made for the purposes of the FCA[^f00004]—
 
@@ -59,7 +59,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (c) issuing information sheets under the Consumer Credit Act 1974[^f00005];
 - (d) imposing requirements or giving directions.
 
-(3A)[^key-0755f5de59f8dffe417197d269df1cb6] Article 19(4) comes into force on 31st March 2014, to the extent it is not already in force.
+(3A)[^c-0755f5de59f8dffe417197d269df1cb6] Article 19(4) comes into force on 31st March 2014, to the extent it is not already in force.
 
 (4) This Order comes into force on 1st April 2014, to the extent it is not already in force, immediately after—
 
@@ -68,7 +68,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 2 — The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001
 
-### 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-7852c91224ee7c95093bbcc59d1276c4][^key-210c88b129f66ebd24e37dfab25e439c]
+### 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-7852c91224ee7c95093bbcc59d1276c4][^c-210c88b129f66ebd24e37dfab25e439c]
 
 (1) The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00008] is amended as follows.
 
@@ -368,15 +368,15 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 3 — Amendments of primary legislation
 
-### 3. The Consumer Credit Act 1974[^key-32d26db3fe9ec24ea0b0ce15f1e52239][^key-f31283c49d31fd8bf3354e67fad39b09]
+### 3. The Consumer Credit Act 1974[^c-32d26db3fe9ec24ea0b0ce15f1e52239][^c-f31283c49d31fd8bf3354e67fad39b09]
 
 (1) The Consumer Credit Act 1974[^f00032] is amended as follows.
 
 (2) In section 86A(5) and (7)[^f00033] (FCA to prepare information sheets on arrears and default), after “it is issued” insert “or on such later date as the FCA may specify in relation to the information sheet”.
 
-(3)[^key-3ba729bbb0cd6c934e98290665fabc12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3ba729bbb0cd6c934e98290665fabc12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Applications under the Consumer Credit Act 1974[^key-99427886283f1779f3801829c5779f58][^key-a4efeab6250b8da89405f9729831ba95]
+### 4. Applications under the Consumer Credit Act 1974[^c-99427886283f1779f3801829c5779f58][^c-a4efeab6250b8da89405f9729831ba95]
 
 (1) Section 55U(4), (5), (7) and (8) of the Financial Services and Markets Act 2000 (applications under this Part)[^f00036] apply to an application made under a provision of the Consumer Credit Act 1974 specified in paragraph (2) as if the application were an application made to the FCA under Part 4A of the Financial Services and Markets Act 2000.
 
@@ -387,7 +387,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (c) section 101(8) (right to terminate hire agreement);
 - (d) section 160 (alternative procedure for business consumers).
 
-### 5. The Financial Services and Markets Act 2000[^key-5e4311eddbb5f8fec007502da115c89d][^key-5be6e69049e57485ba74193042dc4314]
+### 5. The Financial Services and Markets Act 2000[^c-5e4311eddbb5f8fec007502da115c89d][^c-5be6e69049e57485ba74193042dc4314]
 
 (1) In Schedule 6 to the Financial Services and Markets Act 2000 (threshold conditions)[^f00037], Part 1B (Part 4A permission: authorised persons who are not PRA-authorised persons)[^f00038] is amended as follows.
 
@@ -451,11 +451,11 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 4 — Amendments of secondary legislation
 
-### 6. Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983[^key-280869adea0927bd910a6ed51a2391ed][^key-c6abb6094175e4c1717875fd1b3a9b61]
+### 6. Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983[^c-280869adea0927bd910a6ed51a2391ed][^c-c6abb6094175e4c1717875fd1b3a9b61]
 
 In paragraph 10A of Schedule 2 to the Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983[^f00042] (form of default notice etc.), for “Office of Fair Trading” substitute “Financial Conduct Authority”.
 
-### 7. The Consumer Credit (Credit Reference Agency) Regulations 2000[^key-dc84bf44352b2c1661fa914f0b42aa60][^key-037a4acb037ddeb18a2b79714f28999a]
+### 7. The Consumer Credit (Credit Reference Agency) Regulations 2000[^c-dc84bf44352b2c1661fa914f0b42aa60][^c-037a4acb037ddeb18a2b79714f28999a]
 
 In Schedules 2 and 3 to the Consumer Credit (Credit Reference Agency) Regulations 2000[^f00043] (credit reference agency files)—
 
@@ -497,7 +497,7 @@ In Schedules 2 and 3 to the Consumer Credit (Credit Reference Agency) Regulation
 
   .
 
-### 8. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-61e93c2c1bab7e65eaee39ed6d206a77][^key-fd1c74b8ee080087582318a99cdc586c]
+### 8. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^c-61e93c2c1bab7e65eaee39ed6d206a77][^c-fd1c74b8ee080087582318a99cdc586c]
 
 (1) The Schedule to Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00045] is amended as follows.
 
@@ -511,7 +511,7 @@ In Schedules 2 and 3 to the Consumer Credit (Credit Reference Agency) Regulation
 - (b) in the heading to paragraph 52[^f00046], for “Insolvency practitioners” substitute “Official receivers”;
 - (c) omit paragraph 52(1)(a), (2) and (3).
 
-### 9. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-fe5d10ee9526a4af3a02c0254e0697b7][^key-80ec255d09073d5be6fbc1ae17399498]
+### 9. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^c-fe5d10ee9526a4af3a02c0254e0697b7][^c-80ec255d09073d5be6fbc1ae17399498]
 
 (1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^f00047] are amended as follows.
 
@@ -524,7 +524,7 @@ In Schedules 2 and 3 to the Consumer Credit (Credit Reference Agency) Regulation
 
   .
 
-### 10. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-1fb60d55a043cf81b3652aa5098e1759][^key-398b7edb37ac4603eb9b23122ad8ae6d]
+### 10. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-1fb60d55a043cf81b3652aa5098e1759][^c-398b7edb37ac4603eb9b23122ad8ae6d]
 
 (1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00049] (controlled activities) is amended as follows.
 
@@ -623,7 +623,7 @@ In Schedules 2 and 3 to the Consumer Credit (Credit Reference Agency) Regulation
 - (e) in paragraph 11 (agreeing to carry on specified kinds of activity), for “10B” substitute “10BB”;
 - (f) in paragraph 28 (interpretation), in the definition of “relevant credit agreement”, after “regulated mortgage contract” insert “or a regulated home purchase plan”.
 
-### 11. The Consumer Credit (Information Requirements and Duration of Licences and Charges) Regulations 2007[^key-a1c1b3f5938c38d2673aeadc1fd69ba0][^key-93b81155ed556bd6b2d7bd82b9c79d22]
+### 11. The Consumer Credit (Information Requirements and Duration of Licences and Charges) Regulations 2007[^c-a1c1b3f5938c38d2673aeadc1fd69ba0][^c-93b81155ed556bd6b2d7bd82b9c79d22]
 
 (1) Consumer Credit (Information Requirements and Duration of Licences and Charges) Regulations 2007[^f00054] are amended as follows.
 
@@ -633,15 +633,15 @@ In Schedules 2 and 3 to the Consumer Credit (Credit Reference Agency) Regulation
 
 (4) In paragraph 6 of Schedule 5 (information and statement to be included in all notices under section 130A of the 1974 Act), for “Office of Fair Trading” substitute “Financial Conduct Authority”.
 
-### 12. The Payment Services Regulations 2009[^key-64d0e223d63b3c305bb4b77e4fdf750a]
+### 12. The Payment Services Regulations 2009[^c-64d0e223d63b3c305bb4b77e4fdf750a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Saving of section 51 of the Consumer Credit Act 1974 for the purposes of the Payment Services Regulations 2009[^key-631fdfde30a9b7c998755494abd0e862]
+### 13. Saving of section 51 of the Consumer Credit Act 1974 for the purposes of the Payment Services Regulations 2009[^c-631fdfde30a9b7c998755494abd0e862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. The Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009[^key-b9ed2d54168d7e2b1d042e350f15ac0e][^key-fd9a0e6b6287f1489565bd5ba4a51b42]
+### 14. The Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009[^c-b9ed2d54168d7e2b1d042e350f15ac0e][^c-fd9a0e6b6287f1489565bd5ba4a51b42]
 
 In article 6A of the Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009 (specific exemptions in respect of consumer credit)[^f00061]—
 
@@ -661,7 +661,7 @@ In article 6A of the Financial Services and Markets Act 2000 (Controllers) (Exem
     - (bb) after “legal” insert “or equitable”;
 - (e) in paragraph (9), for “regulation” substitute “article”.
 
-### 15. Transitional provision relating to the Consumer Credit (Disclosure of Information) Regulations 2010[^key-e944f1e417f6f17ce0f3a2e5373d5c03]
+### 15. Transitional provision relating to the Consumer Credit (Disclosure of Information) Regulations 2010[^c-e944f1e417f6f17ce0f3a2e5373d5c03]
 
 (1) Pre-contract credit information (within the meaning given by regulation 1(2) of the Consumer Credit (Disclosure of Information) Regulations 2010[^f00062]) disclosed to a debtor in the period specified in paragraph (2) which contains the information specified in paragraph (3) is to be treated as if it contained the information required by—
 
@@ -675,11 +675,11 @@ In article 6A of the Financial Services and Markets Act 2000 (Controllers) (Exem
 - (a) in the case of a person who is carrying on an activity which is exempt from the general prohibition in section 19 of the Financial Services and Markets Act 2000 by virtue of by virtue of section 327 of that Act, the Office of Fair Trading as the supervisory authority before 1st April 2014 and the relevant designated professional body as the supervisory authority after 31st March 2014, or
 - (b) in any other case, the Office of Fair Trading as the supervisory authority before 1st April 2014 and the Financial Conduct Authority as the supervisory authority after 31st March 2014.
 
-### 16. The Consumer Credit (Agreements) Regulations 2010[^key-befe390e6de31cd517b7e3141f60a112][^key-554abca5f42e75c612edd36d85dc8a72]
+### 16. The Consumer Credit (Agreements) Regulations 2010[^c-befe390e6de31cd517b7e3141f60a112][^c-554abca5f42e75c612edd36d85dc8a72]
 
 In paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 2010[^f00064] (information to be included in regulated consumer credit agreements), in the second column, after “the Act” insert “or, in a case where the supplier is carrying on an activity which is exempt from the general prohibition in section 19 of the Financial Services and Markets Act 2000 by virtue of section 327 of that Act, a statement specifying (i) that the activity of the supplier is so exempt and (ii) the relevant designated professional body (within the meaning of section 326 of that Act) as the supervisory authority under that Act, and (iii) the geographical address of the relevant designated professional body”.
 
-### 17. Transitional provision relating to the Consumer Credit (Agreements) Regulations 2010[^key-9298365f5b751432548995294a387094]
+### 17. Transitional provision relating to the Consumer Credit (Agreements) Regulations 2010[^c-9298365f5b751432548995294a387094]
 
 (1) An agreement presented, sent, given or delivered to the debtor (whether for signature or otherwise) in the period specified in paragraph (2) which contains the information specified in paragraph (3) is to be treated as if it contained the information required by paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 2010.
 
@@ -690,7 +690,7 @@ In paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 20
 - (a) in the case of a person who is carrying on an activity which is exempt from the general prohibition in section 19 of the Financial Services and Markets Act 2000 by virtue of by virtue of section 327 of that Act, the Office of Fair Trading, Fleetbank House, 2-6 Salisbury Square, London EC4Y 8JX as the supervisory authority before 1st April 2014 and the relevant designated professional body as the supervisory authority after 31st March 2014, or
 - (b) in any other case, the Office of Fair Trading, Fleetbank House, 2-6 Salisbury Square, London EC4Y 8JX as the supervisory authority before 1st April 2014 and the Financial Conduct Authority, 25 The North Colonnade, Canary Wharf, London, E14 5HS as the supervisory authority after 31st March 2014.
 
-### 18. The Electronic Money Regulations 2011[^key-f632d4b441e1cd71b95a01d3db028a98][^key-e0fa1fee97db9ae94fc9005687308b92]
+### 18. The Electronic Money Regulations 2011[^c-f632d4b441e1cd71b95a01d3db028a98][^c-e0fa1fee97db9ae94fc9005687308b92]
 
 (1) The Electronic Money Regulations 2011[^f00065] are amended as follows.
 
@@ -895,11 +895,11 @@ In paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 20
   - (i) in sub-paragraph (c)(i), after “(including as applied by regulation 15) of” insert “, or paragraph 4 of Schedule 4A to,”;
   - (ii) in sub-paragraph (e), after “(including as applied by regulation 15) of” insert “, or paragraph 4 of Schedule 2A to,”.
 
-### 19. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^key-561792480b3fa2bc2031851135ec72c7][^key-7658ab601d7b0b37845cc1dfcea28e6b]
+### 19. The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^c-561792480b3fa2bc2031851135ec72c7][^c-7658ab601d7b0b37845cc1dfcea28e6b]
 
-(1)[^key-7658ab601d7b0b37845cc1dfcea28e6b] The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^f00069] is amended as follows.
+(1)[^c-7658ab601d7b0b37845cc1dfcea28e6b] The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013[^f00069] is amended as follows.
 
-(2)[^key-7658ab601d7b0b37845cc1dfcea28e6b] In article 56 (interim permission)—
+(2)[^c-7658ab601d7b0b37845cc1dfcea28e6b] In article 56 (interim permission)—
 
 - (a) in paragraph (3), after “regulated activities” insert “of the kind specified by article 60B (regulated credit agreements)”;
 - (b) after paragraph (3), insert—
@@ -911,11 +911,11 @@ In paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 20
   - (i) in the opening words of that paragraph, for “61” substitute “59”;
   - (ii) in sub-paragraph (a), for “commencement” substitute “1st April 2014”.
 
-(3)[^key-7658ab601d7b0b37845cc1dfcea28e6b] In article 58 (duration of interim permission), after paragraph (5)[^key-8fdf5b3fcd9c0e4502cd11f04215c769], insert—
+(3)[^c-7658ab601d7b0b37845cc1dfcea28e6b] In article 58 (duration of interim permission), after paragraph (5)[^c-8fdf5b3fcd9c0e4502cd11f04215c769], insert—
 
-> (6)[^key-bc71e0b450f2fc80a5737a6be5c3f293] Where P’s interim permission ceases to have effect in accordance with paragraph (1)—
+> (6)[^c-bc71e0b450f2fc80a5737a6be5c3f293] Where P’s interim permission ceases to have effect in accordance with paragraph (1)—
 >
-> - (a) paragraph (7)[^key-dd39502cded55a2265affc6e175b7506] applies in respect of an act or omission by P which occurred at a time when P had an interim permission;
+> - (a) paragraph (7)[^c-dd39502cded55a2265affc6e175b7506] applies in respect of an act or omission by P which occurred at a time when P had an interim permission;
 > - (b) any requirement—
 >   - (i) imposed on P under section 55L, 55M or 404F(7) of the Act at a time when P had an interim permission, and
 >   - (ii) which is in effect immediately before that interim permission ceases to have effect,
@@ -929,11 +929,11 @@ In paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 20
 
 .
 
-(4)[^key-900331892c719ec8cb8efba3246e2c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-900331892c719ec8cb8efba3246e2c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Review of retained provisions of the Consumer Credit Act 1974
 
-### 20. Review of retained provisions of the Consumer Credit Act 1974[^key-ca10fdcf076d72d3f7312f661ea85cac][^key-c5e8ca7287521dacad86d598b8530483]
+### 20. Review of retained provisions of the Consumer Credit Act 1974[^c-ca10fdcf076d72d3f7312f661ea85cac][^c-c5e8ca7287521dacad86d598b8530483]
 
 (1) The FCA must arrange for—
 
@@ -960,7 +960,7 @@ In paragraph 33 of Schedule 1 to the Consumer Credit (Agreements) Regulations 20
 
 (8) The Treasury must lay a copy of the report submitted under this article before Parliament.
 
-### 21. Conduct of review[^key-5f009fe90b6fc0a5387ed40eddd21664][^key-1aa5cbae828c385dfe5bb20656ba4818]
+### 21. Conduct of review[^c-5f009fe90b6fc0a5387ed40eddd21664][^c-1aa5cbae828c385dfe5bb20656ba4818]
 
 (1) The person conducting the review (“R”) must prepare an interim report of the initial views of R on the matter specified in paragraph (2) of article 20 and (where appropriate) setting out proposed recommendations to the Treasury.
 
@@ -1024,23 +1024,23 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00003]: Footnote: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-ba956f775ff6b76e15442079564d4659]: Commencement: Art. 1 in force at 14.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2)
+[^c-ba956f775ff6b76e15442079564d4659]: Commencement: Art. 1 in force at 14.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2)
 
-[^key-46b5bf5c63a7c82af68313b0e5a53d86]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/a)
+[^c-46b5bf5c63a7c82af68313b0e5a53d86]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/a)
 
 [^f00004]: Footnote: Section 417 of the Financial Services and Markets Act 2000, as amended by the Financial Services Act 2012, section 48, defines the “FCA” as meaning the Financial Conduct Authority.
 
 [^f00005]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-0755f5de59f8dffe417197d269df1cb6]: Textual amendment: [Art. 1(3A)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3A) inserted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/b)
+[^c-0755f5de59f8dffe417197d269df1cb6]: Textual amendment: [Art. 1(3A)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3A) inserted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/b)
 
 [^f00006]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Article 1(6) of that Order brings that Order into force on 1st April 2014 to the extent that it is not already in force.
 
 [^f00007]: Footnote: [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882). Article 1(1)(b) of that Order brings that Order into force on 1st April 2014 to the extent that it is not already in force.
 
-[^key-7852c91224ee7c95093bbcc59d1276c4]: Commencement: Art. 2 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-7852c91224ee7c95093bbcc59d1276c4]: Commencement: Art. 2 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-210c88b129f66ebd24e37dfab25e439c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/366/article/2) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-210c88b129f66ebd24e37dfab25e439c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/366/article/2) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00008]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Other relevant amending instruments are noted below.
 
@@ -1090,25 +1090,25 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00031]: Footnote: OJ L 133, 22.5.2008, p.66.
 
-[^key-32d26db3fe9ec24ea0b0ce15f1e52239]: Commencement: Art. 3 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-32d26db3fe9ec24ea0b0ce15f1e52239]: Commencement: Art. 3 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-f31283c49d31fd8bf3354e67fad39b09]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/366/article/3) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-f31283c49d31fd8bf3354e67fad39b09]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/366/article/3) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00032]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39); section 126 amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
 [^f00033]: Footnote: Inserted by the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), section 8; amended by [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882).
 
-[^key-3ba729bbb0cd6c934e98290665fabc12]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2014/366/article/3/3) omitted (30.3.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2014/506/article/6/3)
+[^c-3ba729bbb0cd6c934e98290665fabc12]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2014/366/article/3/3) omitted (30.3.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2014/506/article/6/3)
 
-[^key-99427886283f1779f3801829c5779f58]: Commencement: Art. 4 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-99427886283f1779f3801829c5779f58]: Commencement: Art. 4 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-a4efeab6250b8da89405f9729831ba95]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/366/article/4) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-a4efeab6250b8da89405f9729831ba95]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/366/article/4) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00036]: Footnote: Section 55U substituted by the Financial Services Act 2012, section 11.
 
-[^key-5e4311eddbb5f8fec007502da115c89d]: Commencement: Art. 5 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-5e4311eddbb5f8fec007502da115c89d]: Commencement: Art. 5 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-5be6e69049e57485ba74193042dc4314]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/366/article/5) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-5be6e69049e57485ba74193042dc4314]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/366/article/5) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00037]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Schedule 6 amended by [S.I. 2013/555](https://www.legislation.gov.uk/uksi/2013/555) and [1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
@@ -1120,39 +1120,39 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00041]: Footnote: [1972 Chapter 9](https://www.legislation.gov.uk/ukpga/1972/9). Section 148 of that Act provides that “district” has the meaning assigned to it by section 1(3) of that Act, and in relation to any council means the district for which that council acts.
 
-[^key-280869adea0927bd910a6ed51a2391ed]: Commencement: Art. 6 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-280869adea0927bd910a6ed51a2391ed]: Commencement: Art. 6 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-c6abb6094175e4c1717875fd1b3a9b61]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/366/article/6) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-c6abb6094175e4c1717875fd1b3a9b61]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/366/article/6) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00042]: Footnote: [S.I. 1983/1561](https://www.legislation.gov.uk/uksi/1983/1561); paragraph 10A inserted by [S.I. 2007/1167](https://www.legislation.gov.uk/uksi/2007/1167).
 
-[^key-dc84bf44352b2c1661fa914f0b42aa60]: Commencement: Art. 7 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-dc84bf44352b2c1661fa914f0b42aa60]: Commencement: Art. 7 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-037a4acb037ddeb18a2b79714f28999a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/366/article/7) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-037a4acb037ddeb18a2b79714f28999a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/366/article/7) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00043]: Footnote: [S.I. 2000/290](https://www.legislation.gov.uk/uksi/2000/290).
 
 [^f00044]: Footnote: The Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 2, provides that a reference to the Director General of Fair Trading in an enactment made before that Act is to have effect as if it were a reference to the Office of Fair Trading.
 
-[^key-61e93c2c1bab7e65eaee39ed6d206a77]: Commencement: Art. 8 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-61e93c2c1bab7e65eaee39ed6d206a77]: Commencement: Art. 8 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-fd1c74b8ee080087582318a99cdc586c]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/366/article/8) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-fd1c74b8ee080087582318a99cdc586c]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/366/article/8) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00045]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201).
 
 [^f00046]: Footnote: Inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-fe5d10ee9526a4af3a02c0254e0697b7]: Commencement: Art. 9 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-fe5d10ee9526a4af3a02c0254e0697b7]: Commencement: Art. 9 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-80ec255d09073d5be6fbc1ae17399498]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/366/article/9) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-80ec255d09073d5be6fbc1ae17399498]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/366/article/9) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00047]: Footnote: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217).
 
 [^f00048]: Footnote: Regulation 3 amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475), [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475), [S.I. 2006/2383](https://www.legislation.gov.uk/uksi/2006/2383), [S.I. 2006/3414](https://www.legislation.gov.uk/uksi/2006/3414), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-1fb60d55a043cf81b3652aa5098e1759]: Commencement: Art. 10 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-1fb60d55a043cf81b3652aa5098e1759]: Commencement: Art. 10 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-398b7edb37ac4603eb9b23122ad8ae6d]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/366/article/10) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-398b7edb37ac4603eb9b23122ad8ae6d]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/366/article/10) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00049]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
 
@@ -1164,39 +1164,39 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00053]: Footnote: Amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). There are other amending instruments but none is relevant.
 
-[^key-a1c1b3f5938c38d2673aeadc1fd69ba0]: Commencement: Art. 11 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-a1c1b3f5938c38d2673aeadc1fd69ba0]: Commencement: Art. 11 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-93b81155ed556bd6b2d7bd82b9c79d22]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2014/366/article/11) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-93b81155ed556bd6b2d7bd82b9c79d22]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2014/366/article/11) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00054]: Footnote: [S.I. 2007/1167](https://www.legislation.gov.uk/uksi/2007/1167).
 
-[^key-64d0e223d63b3c305bb4b77e4fdf750a]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2014/366/article/12) revoked (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-64d0e223d63b3c305bb4b77e4fdf750a]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2014/366/article/12) revoked (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-631fdfde30a9b7c998755494abd0e862]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2014/366/article/13) revoked (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-631fdfde30a9b7c998755494abd0e862]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2014/366/article/13) revoked (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-b9ed2d54168d7e2b1d042e350f15ac0e]: Commencement: Art. 14 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-b9ed2d54168d7e2b1d042e350f15ac0e]: Commencement: Art. 14 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-fd9a0e6b6287f1489565bd5ba4a51b42]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2014/366/article/14) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-fd9a0e6b6287f1489565bd5ba4a51b42]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2014/366/article/14) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00061]: Footnote: [S.I. 2009/774](https://www.legislation.gov.uk/uksi/2009/774). Article 6A was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-e944f1e417f6f17ce0f3a2e5373d5c03]: Commencement: Art. 15 in force at 14.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2)
+[^c-e944f1e417f6f17ce0f3a2e5373d5c03]: Commencement: Art. 15 in force at 14.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2)
 
 [^f00062]: Footnote: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013).
 
 [^f00063]: Footnote: Table 5 of Schedule 1 and table 5 of Schedule 3 amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-befe390e6de31cd517b7e3141f60a112]: Commencement: Art. 16 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-befe390e6de31cd517b7e3141f60a112]: Commencement: Art. 16 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-554abca5f42e75c612edd36d85dc8a72]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2014/366/article/16) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-554abca5f42e75c612edd36d85dc8a72]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2014/366/article/16) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00064]: Footnote: [S.I. 2010/1014](https://www.legislation.gov.uk/uksi/2010/1014); paragraph 33 amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-9298365f5b751432548995294a387094]: Commencement: Art. 17 in force at 14.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2)
+[^c-9298365f5b751432548995294a387094]: Commencement: Art. 17 in force at 14.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/366/article/1/2)
 
-[^key-f632d4b441e1cd71b95a01d3db028a98]: Commencement: Art. 18 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-f632d4b441e1cd71b95a01d3db028a98]: Commencement: Art. 18 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-e0fa1fee97db9ae94fc9005687308b92]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2014/366/article/18) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-e0fa1fee97db9ae94fc9005687308b92]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2014/366/article/18) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
 [^f00065]: Footnote: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 
@@ -1206,24 +1206,24 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00068]: Footnote: Amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
 
-[^key-561792480b3fa2bc2031851135ec72c7]: Commencement: [Art. 19(1)-(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/1) in force at 14.2.2014 for specified purposes (as amended by [S.I. 2014/506](https://www.legislation.gov.uk/uksi/2014/506), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/b)) , see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
+[^c-561792480b3fa2bc2031851135ec72c7]: Commencement: [Art. 19(1)-(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/1) in force at 14.2.2014 for specified purposes (as amended by [S.I. 2014/506](https://www.legislation.gov.uk/uksi/2014/506), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/b)) , see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
 
-[^key-7658ab601d7b0b37845cc1dfcea28e6b]: Commencement: [Art. 19(1)-(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/1) in force at 1.4.2014 in so far as not already in force (as amended by [S.I. 2014/506](https://www.legislation.gov.uk/uksi/2014/506), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/b)), see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
+[^c-7658ab601d7b0b37845cc1dfcea28e6b]: Commencement: [Art. 19(1)-(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/1) in force at 1.4.2014 in so far as not already in force (as amended by [S.I. 2014/506](https://www.legislation.gov.uk/uksi/2014/506), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/2/b)), see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/506/article/1/3)
 
 [^f00069]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-8fdf5b3fcd9c0e4502cd11f04215c769]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/3) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/506/article/6/4/a)
+[^c-8fdf5b3fcd9c0e4502cd11f04215c769]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/3) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/506/article/6/4/a)
 
-[^key-bc71e0b450f2fc80a5737a6be5c3f293]: Textual amendment: [Art. 19(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/3): new paragraphs renumbered as (6)(7) (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/4/b)
+[^c-bc71e0b450f2fc80a5737a6be5c3f293]: Textual amendment: [Art. 19(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/3): new paragraphs renumbered as (6)(7) (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2014/506/article/6/4/b)
 
-[^key-dd39502cded55a2265affc6e175b7506]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/3) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(4)(c)](https://www.legislation.gov.uk/uksi/2014/506/article/6/4/c)
+[^c-dd39502cded55a2265affc6e175b7506]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/uksi/2014/366/article/19/3) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [6(4)(c)](https://www.legislation.gov.uk/uksi/2014/506/article/6/4/c)
 
-[^key-900331892c719ec8cb8efba3246e2c2e]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2014/366/article/19/4) revoked (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-900331892c719ec8cb8efba3246e2c2e]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2014/366/article/19/4) revoked (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-ca10fdcf076d72d3f7312f661ea85cac]: Commencement: Art. 20 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-ca10fdcf076d72d3f7312f661ea85cac]: Commencement: Art. 20 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-c5e8ca7287521dacad86d598b8530483]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2014/366/article/20) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-c5e8ca7287521dacad86d598b8530483]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2014/366/article/20) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
 
-[^key-5f009fe90b6fc0a5387ed40eddd21664]: Commencement: Art. 21 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
+[^c-5f009fe90b6fc0a5387ed40eddd21664]: Commencement: Art. 21 in force at 14.2.2014 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)
 
-[^key-1aa5cbae828c385dfe5bb20656ba4818]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2014/366/article/21) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)
+[^c-1aa5cbae828c385dfe5bb20656ba4818]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2014/366/article/21) in force at 1.4.2014 in so far as not already in force, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4)

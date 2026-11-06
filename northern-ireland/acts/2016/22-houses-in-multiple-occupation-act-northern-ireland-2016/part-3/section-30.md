@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Unlicensed HMO[^key-2e4a314c88582b7641685fb964e04cdf]
+## 30. Unlicensed HMO[^c-2e4a314c88582b7641685fb964e04cdf]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ the agent commits an offence.
 
 ## Annotations
 
-[^key-2e4a314c88582b7641685fb964e04cdf]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2016/22/section/30) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-2e4a314c88582b7641685fb964e04cdf]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2016/22/section/30) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

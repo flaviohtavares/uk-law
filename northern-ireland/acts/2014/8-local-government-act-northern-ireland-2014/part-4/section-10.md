@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Exercise of functions not prevented by arrangements under this Part[^key-376c75a51ddb42cc894ed2df528977d9]
+## 10. Exercise of functions not prevented by arrangements under this Part[^c-376c75a51ddb42cc894ed2df528977d9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any arrangements made by a council or committee under this Part for the discharg
 
 ## Annotations
 
-[^key-376c75a51ddb42cc894ed2df528977d9]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/8/section/10) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-376c75a51ddb42cc894ed2df528977d9]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/8/section/10) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

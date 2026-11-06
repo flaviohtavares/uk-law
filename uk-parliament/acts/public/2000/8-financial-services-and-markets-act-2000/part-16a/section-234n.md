@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234N. Exclusion of general duties[^key-00d743c3e92dc1f5da9030527edf3fec]
+## 234N. Exclusion of general duties[^c-00d743c3e92dc1f5da9030527edf3fec]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00d743c3e92dc1f5da9030527edf3fec]: Textual amendment: Ss. 234I-234O inserted (1.11.2014 for the insertion of ss. 234J, 234M for specified purposes and for the insertion of ss. 234N, 234O, 1.4.2015 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3); [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [arts. 2(b)(aa)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/aa)[(i)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/i), [3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)
+[^c-00d743c3e92dc1f5da9030527edf3fec]: Textual amendment: Ss. 234I-234O inserted (1.11.2014 for the insertion of ss. 234J, 234M for specified purposes and for the insertion of ss. 234N, 234O, 1.4.2015 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/8/paragraph/3); [S.I. 2014/2458](https://www.legislation.gov.uk/uksi/2014/2458), [arts. 2(b)(aa)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/aa)[(i)](https://www.legislation.gov.uk/uksi/2014/2458/article/2/b/i), [3(b)(v)](https://www.legislation.gov.uk/uksi/2014/2458/article/3/b/v)

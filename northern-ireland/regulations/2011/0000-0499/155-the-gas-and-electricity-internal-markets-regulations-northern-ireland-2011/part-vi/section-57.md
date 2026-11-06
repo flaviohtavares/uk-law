@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Authority’s monitoring functions in relation to electricity[^key-84defb27db732c1d5298404ba67a3b93]
+## 57. Authority’s monitoring functions in relation to electricity[^c-84defb27db732c1d5298404ba67a3b93]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ After Article 50(3A) of the Electricity Order there shall be inserted the follow
 
 ## Annotations
 
-[^key-84defb27db732c1d5298404ba67a3b93]: Commencement: Reg. 57 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-84defb27db732c1d5298404ba67a3b93]: Commencement: Reg. 57 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

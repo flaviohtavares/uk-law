@@ -452,7 +452,7 @@ of so much of that undertaking as it is appropriate to transfer for the purpose 
 
 which the company subject to the energy administration order has been maintaining as the holder of a relevant licence.
 
-#### 19. Applications for energy administration orders[^key-fa6015168f77d48015ce54135495c68d]
+#### 19. Applications for energy administration orders[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) An application for an energy administration order in relation to a company may be made only—
 
@@ -475,7 +475,7 @@ which the company subject to the energy administration order has been maintainin
   - (i) are equivalent to those of an administrative receiver; and
   - (ii) relate only to the affairs and business of the company so far as carried on in Northern Ireland and to its property in Northern Ireland.
 
-#### 20. Powers of court[^key-fa6015168f77d48015ce54135495c68d]
+#### 20. Powers of court[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) On hearing an application for an energy administration order, the High Court has the following powers—
 
@@ -519,7 +519,7 @@ which the company subject to the energy administration order has been maintainin
 - (a) it is a company which is deemed to be so unable under Article 103 of the Insolvency Order (definition of inability to pay debts); or
 - (b) it is an unregistered company which is deemed, by virtue of any of Articles 186 to 188 of that Order, to be so unable for the purposes of Article 185 of that Order (winding up of unregistered companies), or which would be so deemed if it were an unregistered company for the purposes of those Articles.
 
-#### 21. Energy administrators[^key-fa6015168f77d48015ce54135495c68d]
+#### 21. Energy administrators[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) The energy administrator of a company—
 
@@ -541,7 +541,7 @@ which the company subject to the energy administration order has been maintainin
 - (b) the circumstances (if any) in which powers and duties of an energy administrator are to be exercisable, or may be performed, by one of the persons appointed to be the energy administrator, or by particular appointees, acting alone; and
 - (c) the circumstances (if any) in which things done in relation to one of the persons appointed to be the energy administrator, or in relation to particular appointees, are to be treated as done in relation to all of them.
 
-#### 22. Conduct of administration, transfer schemes etc.[^key-fa6015168f77d48015ce54135495c68d]
+#### 22. Conduct of administration, transfer schemes etc.[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) The Department may by regulations—
 
@@ -554,7 +554,7 @@ which the company subject to the energy administration order has been maintainin
 
 ### Restrictions on other insolvency procedures
 
-#### 23. Restrictions on winding-up orders[^key-fa6015168f77d48015ce54135495c68d]
+#### 23. Restrictions on winding-up orders[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) This section applies where a petition for the winding up of a protected energy company is presented by a person other than the Department.
 
@@ -570,7 +570,7 @@ which the company subject to the energy administration order has been maintainin
 - (a) its powers under Article 105 of the Insolvency Order (other than its power of adjournment); and
 - (b) its powers under Article 115 of that Order.
 
-#### 24. Restrictions on voluntary winding up[^key-fa6015168f77d48015ce54135495c68d]
+#### 24. Restrictions on voluntary winding up[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) A protected energy company has no power to pass a resolution for voluntary winding up without the permission of the High Court.
 
@@ -585,7 +585,7 @@ which the company subject to the energy administration order has been maintainin
 
 (5) In this section “**a resolution for voluntary winding up**” has the same meaning as in the Insolvency Order.
 
-#### 25. Restrictions on making ordinary administration orders[^key-fa6015168f77d48015ce54135495c68d]
+#### 25. Restrictions on making ordinary administration orders[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) This section applies where an ordinary administration application is made in relation to a protected energy company by a person other than the Department.
 
@@ -606,7 +606,7 @@ which the company subject to the energy administration order has been maintainin
 
 (6) In this section “**ordinary administration application**” means an application in accordance with paragraph 13 of Schedule B1 to the Insolvency Order.
 
-#### 26. Restrictions on administrator appointments by creditors etc.[^key-fa6015168f77d48015ce54135495c68d]
+#### 26. Restrictions on administrator appointments by creditors etc.[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) No step is to be taken by any person to make an appointment in relation to a company under paragraph 15 or 23 of Schedule B1 to the Insolvency Order (powers of holder of floating charge and of the company itself and of its directors to appoint administrators) if—
 
@@ -625,7 +625,7 @@ which the company subject to the energy administration order has been maintainin
 
 (4) Paragraph 45 of Schedule B1 to the Insolvency Order (interim moratorium) does not prevent, or require the permission of the High Court for, the making of an application for an energy administration order at any time before the appointment takes effect.
 
-#### 27. Restrictions on enforcement of security[^key-fa6015168f77d48015ce54135495c68d]
+#### 27. Restrictions on enforcement of security[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) No step to enforce a security over property of a protected energy company is to be taken by any person, unless—
 
@@ -636,7 +636,7 @@ which the company subject to the energy administration order has been maintainin
 
 ### Financial support for company in administration
 
-#### 28. Grant and loans[^key-fa6015168f77d48015ce54135495c68d]
+#### 28. Grant and loans[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) This section applies where an energy administration order has been made in relation to a company.
 
@@ -658,7 +658,7 @@ as the Department may from time to time direct.
 - (a) for the making of a grant or loan under this section; and
 - (b) for the giving by the Department of a direction under subsection (5).
 
-#### 29. Indemnities[^key-fa6015168f77d48015ce54135495c68d]
+#### 29. Indemnities[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) This section applies where an energy administration order has been made in relation to a company.
 
@@ -704,7 +704,7 @@ as the Department may from time to time direct.
 - (a) the references to the energy administrator are to be construed, where two or more persons are appointed to act as the energy administrator, as references to any one or more of them; and
 - (b) the references to a firm of which a person was a member or employee at a particular time include references to a firm which holds itself out to be the successor of a firm of which that person was a member or employee at that time.
 
-#### 30. Guarantees[^key-fa6015168f77d48015ce54135495c68d]
+#### 30. Guarantees[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) This section applies where an energy administration order has been made in relation to a company.
 
@@ -744,7 +744,7 @@ as the Department may from time to time direct.
 
 **Not yet in force.**
 
-#### 31. Modification of particular or standard conditions[^key-fa6015168f77d48015ce54135495c68d]
+#### 31. Modification of particular or standard conditions[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) Where the Department considers it appropriate to do so in connection with the provision made by this Part, it may make—
 
@@ -778,7 +778,7 @@ as the Department may from time to time direct.
 - “**electricity licence**” means a licence under Article 10 of the Electricity (Northern Ireland) Order 1992;
 - “**gas licence**” means a licence under Article 8 of the Gas Order.
 
-#### 32. Licence condition to secure funding of energy administration[^key-fa6015168f77d48015ce54135495c68d]
+#### 32. Licence condition to secure funding of energy administration[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) The modifications that may be made under section 31 include, in particular, modifications imposing conditions requiring the licence holder (L)—
 
@@ -805,7 +805,7 @@ as the Department may from time to time direct.
 
 ### Interpretation of Part 2
 
-#### 33. Interpretation of Part 2[^key-fa6015168f77d48015ce54135495c68d]
+#### 33. Interpretation of Part 2[^c-fa6015168f77d48015ce54135495c68d]
 
 (1) In this Part—
 
@@ -861,7 +861,7 @@ as the Department may from time to time direct.
 
 (4) Paragraphs (4) to (7) of Article 69 of the Gas Order (content of regulations) apply in relation to regulations under this Act as they apply in relation to regulations under that Order.
 
-### 35. Interpretation[^key-7d83b5ed89927146f3f963ce7233654d]
+### 35. Interpretation[^c-7d83b5ed89927146f3f963ce7233654d]
 
 (1) In this Act—
 
@@ -888,7 +888,7 @@ which is defined in Article 2 or 3 of the Gas Order has the same meaning as in P
 
 This Act may be cited as the Energy Act (Northern Ireland) 2011.
 
-## SCHEDULE — ENERGY TRANSFER SCHEMES[^key-f561fee6586f75efdb923ed5a45adfea]
+## SCHEDULE — ENERGY TRANSFER SCHEMES[^c-f561fee6586f75efdb923ed5a45adfea]
 
 ### Application of Schedule
 
@@ -1138,10 +1138,10 @@ the property, right or liability acquired or incurred shall immediately become t
 
 [^c22527071]: Textual amendment: [S. 17(5)](https://www.legislation.gov.uk/nia/2011/6/section/17/5): words in definition of "relevant licence" inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 89](https://www.legislation.gov.uk/nisr/2011/155/regulation/89)
 
-[^key-fa6015168f77d48015ce54135495c68d]: Modification: [Ss. 19-33](https://www.legislation.gov.uk/nia/2011/6/section/19): power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-fa6015168f77d48015ce54135495c68d]: Modification: [Ss. 19-33](https://www.legislation.gov.uk/nia/2011/6/section/19): power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
-[^key-7d83b5ed89927146f3f963ce7233654d]: Modification: [S. 35](https://www.legislation.gov.uk/nia/2011/6/section/35): power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-7d83b5ed89927146f3f963ce7233654d]: Modification: [S. 35](https://www.legislation.gov.uk/nia/2011/6/section/35): power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
 [^c22526961]: Subordinate legislation: [S. 36(1)](https://www.legislation.gov.uk/nia/2011/6/section/36/1) power partly exercised: 21.3.2011 appointed for specified provisions by [S.R. 2011/95](https://www.legislation.gov.uk/nisr/2011/95), [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/95/article/2/1)
 
-[^key-f561fee6586f75efdb923ed5a45adfea]: Modification: [Sch.](https://www.legislation.gov.uk/nia/2011/6/schedule): power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-f561fee6586f75efdb923ed5a45adfea]: Modification: [Sch.](https://www.legislation.gov.uk/nia/2011/6/schedule): power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

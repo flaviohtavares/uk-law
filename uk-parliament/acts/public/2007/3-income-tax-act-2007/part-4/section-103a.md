@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103A. Meaning of “limited partner”[^key-628c41a7e5d3b31c011b66bbf5c33a43]
+## 103A. Meaning of “limited partner”[^c-628c41a7e5d3b31c011b66bbf5c33a43]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-628c41a7e5d3b31c011b66bbf5c33a43]: Textual amendment: Ss. 103A, 103B inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 8](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/8), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-628c41a7e5d3b31c011b66bbf5c33a43]: Textual amendment: Ss. 103A, 103B inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 8](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/8), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

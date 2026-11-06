@@ -32,7 +32,7 @@ summary: ''
 
 Sheriff Court
 
-The Sheriff Court Fees Amendment Order 2012 (revoked)[^key-b5f8b4952b3b0efee3752c3739981b28]
+The Sheriff Court Fees Amendment Order 2012 (revoked)[^c-b5f8b4952b3b0efee3752c3739981b28]
 
 Made
 
@@ -44,35 +44,35 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-b5f8b4952b3b0efee3752c3739981b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5f8b4952b3b0efee3752c3739981b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-b5f8b4952b3b0efee3752c3739981b28]
+## 1. Citation, commencement and effect[^c-b5f8b4952b3b0efee3752c3739981b28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sheriff Court Fees Order 1997[^key-b5f8b4952b3b0efee3752c3739981b28]
+## 2. Amendment of the Sheriff Court Fees Order 1997[^c-b5f8b4952b3b0efee3752c3739981b28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5f8b4952b3b0efee3752c3739981b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5f8b4952b3b0efee3752c3739981b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-b5f8b4952b3b0efee3752c3739981b28]
+## SCHEDULE 1 — TABLE OF FEES[^c-b5f8b4952b3b0efee3752c3739981b28]
 
 Article 2(10)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-b5f8b4952b3b0efee3752c3739981b28]
+## SCHEDULE 2 — TABLE OF FEES[^c-b5f8b4952b3b0efee3752c3739981b28]
 
 Article 2(10)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-b5f8b4952b3b0efee3752c3739981b28]
+## SCHEDULE 3 — TABLE OF FEES[^c-b5f8b4952b3b0efee3752c3739981b28]
 
 Article 2(10)(c)
 
@@ -80,8 +80,8 @@ Article 2(10)(c)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5f8b4952b3b0efee3752c3739981b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5f8b4952b3b0efee3752c3739981b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5f8b4952b3b0efee3752c3739981b28]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/293) revoked (22.9.2015) by [The Sheriff Court Fees Order 2015 (revoked) 2015 (S.S.I. 2015/264)](https://www.legislation.gov.uk/ssi/2015/264), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/264/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/264/schedule/4)
+[^c-b5f8b4952b3b0efee3752c3739981b28]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/293) revoked (22.9.2015) by [The Sheriff Court Fees Order 2015 (revoked) 2015 (S.S.I. 2015/264)](https://www.legislation.gov.uk/ssi/2015/264), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/264/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/264/schedule/4)

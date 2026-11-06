@@ -44,19 +44,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 A draft of these Regulations was laid before Parliament in accordance with section 63(5)(c) of that Act and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and interpretation[^key-cecd1b9e176450f9878b6fee9c651e76]
+## 1. Citation, commencement, extent and interpretation[^c-cecd1b9e176450f9878b6fee9c651e76]
 
 (1) These Regulations may be cited as the National Security and Investment Act 2021 (Monetary Penalties) (Turnover of a Business) Regulations 2021, and come into force on 4th January 2022.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-(3) In these Regulations, “**the Act**” means the National Security and Investment Act 2021 , and “[^key-822d828dc86bf5e33b52d1cb2950b18d]**Secretary of State**” includes the Chancellor of the Duchy of Lancaster.
+(3) In these Regulations, “**the Act**” means the National Security and Investment Act 2021 , and “[^c-822d828dc86bf5e33b52d1cb2950b18d]**Secretary of State**” includes the Chancellor of the Duchy of Lancaster.
 
-## 2. Meaning of “business”[^key-1bb0b806cb05641b2911afac90285121]
+## 2. Meaning of “business”[^c-1bb0b806cb05641b2911afac90285121]
 
 For the purposes of section 41 of the Act (permitted maximum penalties), “**business**” includes a sole trader.
 
-## 3. Control of a business[^key-5d5f826bdc5315ddbcae407a729d3609]
+## 3. Control of a business[^c-5d5f826bdc5315ddbcae407a729d3609]
 
 (1) For the purposes of section 41 of the Act (permitted maximum penalties), a business is to be treated as controlled by another business (“**A**”) where—
 
@@ -79,7 +79,7 @@ For the purposes of section 41 of the Act (permitted maximum penalties), “**bu
 - (a) to a body corporate include a body incorporated outside the United Kingdom; and
 - (b) to a partnership or an unincorporated association or group of persons include a partnership or unincorporated association or group of persons formed or established, or having any members incorporated, formed or established, outside the United Kingdom.
 
-## 4. Turnover of a business[^key-7f7b4a0998c7e74cb00d75c6c2be7726]
+## 4. Turnover of a business[^c-7f7b4a0998c7e74cb00d75c6c2be7726]
 
 (1) This regulation applies to determine the turnover of a business (“**A**”) and any business owned or controlled by A for the purposes of section 41 of the Act (permitted maximum penalties).
 
@@ -119,7 +119,7 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 4
 
-### 1. Interpretation[^key-01d2bc9b5d2035d2a722898434e01386]
+### 1. Interpretation[^c-01d2bc9b5d2035d2a722898434e01386]
 
 (1) In this Schedule—
 
@@ -135,7 +135,7 @@ Regulation 4
 
 (2) The provisions of this Schedule are to be interpreted in accordance with generally accepted accounting principles and practices.
 
-### 2. Turnover of a business[^key-2e4d392e3a2ca07d38a80141c975c1ac]
+### 2. Turnover of a business[^c-2e4d392e3a2ca07d38a80141c975c1ac]
 
 (1) The turnover of a business is the sum of all amounts derived from the sale of products and the provision of services falling within the ordinary activities of the business to businesses or consumers, after the deduction of sales rebates, value added tax and other taxes directly related to turnover.
 
@@ -143,7 +143,7 @@ Regulation 4
 
 (3) Paragraph 5 also applies to determine the turnover of a business for the purposes of this Schedule.
 
-### 3. Turnover in respect of activities of a credit institution or financial institution[^key-34b5b97e757e9dd9e8aef380da81752d]
+### 3. Turnover in respect of activities of a credit institution or financial institution[^c-34b5b97e757e9dd9e8aef380da81752d]
 
 (1) The turnover of a business in respect of the activities of a credit institution or financial institution is the sum of the following income items received by the institution, after deduction of value added tax and other taxes directly related to those items—
 
@@ -158,11 +158,11 @@ Regulation 4
 
 (2) Expressions used in sub-paragraph (1) have the meanings given by Council Directive [(EEC) 86/635](https://www.legislation.gov.uk/european/regulation/19635/0086) of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions[^f00004].
 
-### 4. Turnover in respect of activities of an insurance undertaking[^key-0898188e3cf7a6138e620093dce1d75c]
+### 4. Turnover in respect of activities of an insurance undertaking[^c-0898188e3cf7a6138e620093dce1d75c]
 
 The turnover of a business in respect of the activities of an insurance undertaking is the total value of gross premiums received, comprising all amounts received and receivable in respect of insurance contracts issued by or on behalf of the undertaking, including outgoing reinsurance premiums, and after deduction of taxes and parafiscal contributions or levies charged by reference to the amounts of individual premiums or the total volume of premiums.
 
-### 5. Further provisions about determining turnover[^key-e06c18f8d4c1bb8726d3d71826026d10]
+### 5. Further provisions about determining turnover[^c-e06c18f8d4c1bb8726d3d71826026d10]
 
 (1) The turnover of a business is its turnover both in and outside the United Kingdom.
 
@@ -174,7 +174,7 @@ The turnover of a business in respect of the activities of an insurance undertak
 
 (5) Where an acquisition, divestment or other transaction or event has occurred since the end of the period in which the turnover of the business is determined in accordance with regulation 3 which the Secretary of State considers may have a significant impact on the turnover of the business, the Secretary of State may take account of that transaction or event if the Secretary of State considers it appropriate to do so and accordingly increase or (as the case may be) reduce by such amount as the Secretary of State considers appropriate the amount which would otherwise constitute the business’s turnover.
 
-### 6. Subsidies[^key-85dd56b9424ff63e4c1f61dd8e4e5aa2]
+### 6. Subsidies[^c-85dd56b9424ff63e4c1f61dd8e4e5aa2]
 
 (1) For the purposes of paragraph 5(2), “**subsidy**” means financial assistance which—
 
@@ -217,30 +217,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2021 c. 25](https://www.legislation.gov.uk/ukpga/2021/25).
 
-[^key-cecd1b9e176450f9878b6fee9c651e76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-cecd1b9e176450f9878b6fee9c651e76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
-[^key-822d828dc86bf5e33b52d1cb2950b18d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/3) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 72](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/72) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-822d828dc86bf5e33b52d1cb2950b18d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/3) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 72](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/72) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-1bb0b806cb05641b2911afac90285121]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1262/regulation/2) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-1bb0b806cb05641b2911afac90285121]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1262/regulation/2) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
-[^key-5d5f826bdc5315ddbcae407a729d3609]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1262/regulation/3) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-5d5f826bdc5315ddbcae407a729d3609]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1262/regulation/3) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
 [^f00002]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-7f7b4a0998c7e74cb00d75c6c2be7726]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1262/regulation/4) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-7f7b4a0998c7e74cb00d75c6c2be7726]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1262/regulation/4) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
-[^key-01d2bc9b5d2035d2a722898434e01386]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/1) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-01d2bc9b5d2035d2a722898434e01386]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/1) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2013/575. Article 4 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401), [2019/264](https://www.legislation.gov.uk/uksi/2019/264), [710](https://www.legislation.gov.uk/uksi/2019/710) and [1232](https://www.legislation.gov.uk/uksi/2019/1232), and is amended prospectively by the Financial Services Act [2021 (c.22)](https://www.legislation.gov.uk/ukpga/2021/22), section 1 and Schedule 1.
 
-[^key-2e4d392e3a2ca07d38a80141c975c1ac]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/2) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-2e4d392e3a2ca07d38a80141c975c1ac]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/2) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
-[^key-34b5b97e757e9dd9e8aef380da81752d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/3) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-34b5b97e757e9dd9e8aef380da81752d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/3) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
 [^f00004]: Footnote: OJ No. L372, 31.12.86, p.1, amended by Directives [2001/65/EC](https://www.legislation.gov.uk/european/directive/2001/0065) (OJ No. L 283, 27.10.01, p. 28), [2003/51/EC](https://www.legislation.gov.uk/european/directive/2003/0051) (OJ No. L178, 17.7. 03, p. 16), and [2006/46/EC](https://www.legislation.gov.uk/european/directive/2006/0046) (OJ No. L224, 16.8.06, p. 1).
 
-[^key-0898188e3cf7a6138e620093dce1d75c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/4) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-0898188e3cf7a6138e620093dce1d75c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/4) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
-[^key-e06c18f8d4c1bb8726d3d71826026d10]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/5) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-e06c18f8d4c1bb8726d3d71826026d10]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/5) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
 
-[^key-85dd56b9424ff63e4c1f61dd8e4e5aa2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/6) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)
+[^c-85dd56b9424ff63e4c1f61dd8e4e5aa2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2021/1262/schedule/paragraph/6) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1262/regulation/1/1)

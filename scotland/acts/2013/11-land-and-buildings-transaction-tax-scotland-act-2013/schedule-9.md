@@ -24,7 +24,7 @@ summary: ''
 
 ### The relief
 
-#### 1. The relief[^key-9895f427dda208f117e519cfedca60eb][^M_I_a036a445-8bb7-4bec-bfe4-23adb297dde8]
+#### 1. The relief[^c-9895f427dda208f117e519cfedca60eb][^M_I_a036a445-8bb7-4bec-bfe4-23adb297dde8]
 
 A land transaction—
 
@@ -35,12 +35,12 @@ is exempt from charge.
 
 ### Interpretation
 
-**4.**[^key-2f09175454a1dc3dae24e6be596f84ca] In this schedule “**crofting community right to buy**” means the right exercisable by a crofting community body under Part 3 of the Land Reform (Scotland) Act 2003 (asp 2).
+**4.**[^c-2f09175454a1dc3dae24e6be596f84ca] In this schedule “**crofting community right to buy**” means the right exercisable by a crofting community body under Part 3 of the Land Reform (Scotland) Act 2003 (asp 2).
 
 ## Annotations
 
-[^key-9895f427dda208f117e519cfedca60eb]: Textual amendment: Sch. 9 para. 1 substituted (1.4.2015) for paras. 1-3 by [The Land and Buildings Transaction Tax (Addition and Modification of Reliefs) (Scotland) Order 2015 (S.S.I. 2015/93)](https://www.legislation.gov.uk/ssi/2015/93) , [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/93/article/1/2) , [2(4)](https://www.legislation.gov.uk/ssi/2015/93/article/2/4)
+[^c-9895f427dda208f117e519cfedca60eb]: Textual amendment: Sch. 9 para. 1 substituted (1.4.2015) for paras. 1-3 by [The Land and Buildings Transaction Tax (Addition and Modification of Reliefs) (Scotland) Order 2015 (S.S.I. 2015/93)](https://www.legislation.gov.uk/ssi/2015/93) , [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/93/article/1/2) , [2(4)](https://www.legislation.gov.uk/ssi/2015/93/article/2/4)
 
 [^M_I_a036a445-8bb7-4bec-bfe4-23adb297dde8]: Commencement: Sch. 9 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , art. 2
 
-[^key-2f09175454a1dc3dae24e6be596f84ca]: Commencement: Sch. 9 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-2f09175454a1dc3dae24e6be596f84ca]: Commencement: Sch. 9 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Application of regulation 30 of the 2004 Regulations to general medical services contracts entered into under Part 2 of the No. 1 Order[^key-f562b5964fb3893a5852cf67a5a41963]
+## 73. Application of regulation 30 of the 2004 Regulations to general medical services contracts entered into under Part 2 of the No. 1 Order[^c-f562b5964fb3893a5852cf67a5a41963]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a person enters into a general medical services contract pursuant to an en
 
 ## Annotations
 
-[^key-f562b5964fb3893a5852cf67a5a41963]: Commencement: Art. 73 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f562b5964fb3893a5852cf67a5a41963]: Commencement: Art. 73 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

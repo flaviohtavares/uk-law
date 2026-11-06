@@ -310,17 +310,17 @@ but with the substitution of accounting periods for chargeable accounting period
 
 **30.** Sections 249 to 254 (tax arbitrage: receipt notices) do not apply in relation to any contribution to the capital of a UK resident company made before 16 March 2005.
 
-### Part 7 — Tax treatment of financing costs and income[^key-ca7eaffce64b6f55314723529ce898b7]
+### Part 7 — Tax treatment of financing costs and income[^c-ca7eaffce64b6f55314723529ce898b7]
 
 **No longer in force.**
 
-#### Periods of account in relation to which Part 7 does not have effect[^key-ca7eaffce64b6f55314723529ce898b7]
+#### Periods of account in relation to which Part 7 does not have effect[^c-ca7eaffce64b6f55314723529ce898b7]
 
-**31.**[^key-ca7eaffce64b6f55314723529ce898b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-ca7eaffce64b6f55314723529ce898b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Exclusion of certain debits and credits[^key-ca7eaffce64b6f55314723529ce898b7]
+#### Exclusion of certain debits and credits[^c-ca7eaffce64b6f55314723529ce898b7]
 
-**32.**[^key-ca7eaffce64b6f55314723529ce898b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-ca7eaffce64b6f55314723529ce898b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 8 — Offshore funds
 
@@ -489,4 +489,4 @@ but with the substitution of accounting periods for chargeable accounting period
 
 ## Annotations
 
-[^key-ca7eaffce64b6f55314723529ce898b7]: Textual amendment: [Sch. 9 Pt. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/part/7) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(1)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/1/b)
+[^c-ca7eaffce64b6f55314723529ce898b7]: Textual amendment: [Sch. 9 Pt. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/part/7) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(1)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/1/b)

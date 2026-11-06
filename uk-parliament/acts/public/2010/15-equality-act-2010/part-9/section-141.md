@@ -40,7 +40,7 @@ summary: ''
 - (a) has not attained the age of 16, or
 - (b) is incapable (within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)).
 
-(8)[^key-d9f9dd17dece6ed4962c64e996e8dee0] Service complaint” means a complaint made under section 340A(1) or (2) of the Armed Forces Act 2006.
+(8)[^c-d9f9dd17dece6ed4962c64e996e8dee0] Service complaint” means a complaint made under section 340A(1) or (2) of the Armed Forces Act 2006.
 
 (9) “**Criminal matter**” means—
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c21892951]: Commencement: S. 141 wholly in force; s. 141 not in force at Royal Assent see s. 216; s. 141 in force at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(9)(j)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/9/j) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), and subject to transitional provision in [art. 7](https://www.legislation.gov.uk/uksi/2010/2317/article/7))
 
-[^key-d9f9dd17dece6ed4962c64e996e8dee0]: Textual amendment: [S. 141(8)](https://www.legislation.gov.uk/ukpga/2010/15/section/141/8) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/15); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-d9f9dd17dece6ed4962c64e996e8dee0]: Textual amendment: [S. 141(8)](https://www.legislation.gov.uk/ukpga/2010/15/section/141/8) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/15); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))

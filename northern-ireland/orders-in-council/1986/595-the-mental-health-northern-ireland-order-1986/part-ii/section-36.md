@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Appointment by county court of acting nearest relative[^key-ff71bdf2ff07acde96643e11a4277cb4][^key-23f2c72ff24c614290514b3642e15157]
+## 36. Appointment by county court of acting nearest relative[^c-ff71bdf2ff07acde96643e11a4277cb4][^c-23f2c72ff24c614290514b3642e15157]
 
 *Extent: N.I.*
 
@@ -43,8 +43,8 @@ but in relation to an application made by an approved social worker paragraph (1
 
 ## Annotations
 
-[^key-ff71bdf2ff07acde96643e11a4277cb4]: Modification: [Art. 36](https://www.legislation.gov.uk/nisi/1986/595/article/36) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(ff)(i)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/ff/i)[(ii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/ff/ii), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-ff71bdf2ff07acde96643e11a4277cb4]: Modification: [Art. 36](https://www.legislation.gov.uk/nisi/1986/595/article/36) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(ff)(i)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/ff/i)[(ii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/ff/ii), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-23f2c72ff24c614290514b3642e15157]: Modification: [Art. 36](https://www.legislation.gov.uk/nisi/1986/595/article/36) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(w)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/w), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-23f2c72ff24c614290514b3642e15157]: Modification: [Art. 36](https://www.legislation.gov.uk/nisi/1986/595/article/36) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(w)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/w), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
 [^c17124311]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)

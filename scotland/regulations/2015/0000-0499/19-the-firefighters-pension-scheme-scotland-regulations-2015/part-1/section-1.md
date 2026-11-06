@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-15ad38cd7700e2a36e89e415156bed26]
+## 1. Citation and commencement[^c-15ad38cd7700e2a36e89e415156bed26]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15ad38cd7700e2a36e89e415156bed26]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/19/regulation/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-15ad38cd7700e2a36e89e415156bed26]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/19/regulation/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

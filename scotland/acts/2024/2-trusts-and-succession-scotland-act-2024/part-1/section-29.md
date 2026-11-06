@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Trustees’ duty to provide information other than on request[^key-765ec5515aec7fda61476fbfaaf5d612]
+## 29. Trustees’ duty to provide information other than on request[^c-765ec5515aec7fda61476fbfaaf5d612]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-765ec5515aec7fda61476fbfaaf5d612]: Commencement: S. 29 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-765ec5515aec7fda61476fbfaaf5d612]: Commencement: S. 29 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

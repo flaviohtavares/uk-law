@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72B. Power to request additional evidence in relation to absent signing applications where registration officer considers it necessary[^key-ef45cd1e42d46816a759c17f3c2d618d]
+## 72B. Power to request additional evidence in relation to absent signing applications where registration officer considers it necessary[^c-ef45cd1e42d46816a759c17f3c2d618d]
 
 *Extent: E+W+S*
 
@@ -59,7 +59,7 @@ summary: ''
 - (a) paragraph (3) applies as if, in sub-paragraph (a)(vii), the words from “and which must” to “Kingdom” were omitted;
 - (b) paragraph (4) applies as if after “kinds of evidence” there were inserted “, must have been issued in the United Kingdom or Crown Dependencies”.
 
-(5A)[^key-bf2492931e7a100ab5f24df69cdb5486] If an applicant who is, or has applied to be, registered in a register of parliamentary electors other than in pursuance of an overseas elector’s declaration is unable to give the documentary evidence required under paragraphs (2) to (4), the registration officer may require that the applicant give an attestation which must—
+(5A)[^c-bf2492931e7a100ab5f24df69cdb5486] If an applicant who is, or has applied to be, registered in a register of parliamentary electors other than in pursuance of an overseas elector’s declaration is unable to give the documentary evidence required under paragraphs (2) to (4), the registration officer may require that the applicant give an attestation which must—
 
 - (a) confirm that the applicant is the person named in the application;
 - (b) state that the person signing the attestation is aware of the penalty for providing false information to a registration officer;
@@ -75,13 +75,13 @@ summary: ''
 - (d) state the full name, date of birth, address, electoral number and occupation of the person signing the attestation, and
 - (e) state the date on which it is made.
 
-(6) If an applicant who is registered, or has applied to be registered, in a register of parliamentary electors in pursuance of an overseas elector’s declaration[^key-b78ff9449d8c9ca1aafe9f5a9e0a5727] is unable to give the documentary evidence required under paragraphs (2) to (4), the registration officer may require that the applicant give an attestation which must—
+(6) If an applicant who is registered, or has applied to be registered, in a register of parliamentary electors in pursuance of an overseas elector’s declaration[^c-b78ff9449d8c9ca1aafe9f5a9e0a5727] is unable to give the documentary evidence required under paragraphs (2) to (4), the registration officer may require that the applicant give an attestation which must—
 
 - (a) confirm that the applicant is the person named in the application,
 - (b) be in writing and signed by a qualifying attestor,
 - (c) state the qualifying attestor’s full name, date of birth, occupation, residential address and (if different) the address in respect of which the qualifying attestor is registered as an elector,
 - (d) state—
-  - (i) where the qualifying attestor is registered in pursuance of an overseas elector’s declaration, the attestor’s British or Irish[^key-110489dad1eaf2fd75f4ca31f1a65c15] passport number together with its date and place of issue;
+  - (i) where the qualifying attestor is registered in pursuance of an overseas elector’s declaration, the attestor’s British or Irish[^c-110489dad1eaf2fd75f4ca31f1a65c15] passport number together with its date and place of issue;
   - (ii) otherwise—
     - (aa) where the qualifying attestor is registered in respect of an address in Northern Ireland and has been allocated a digital registration number in accordance with section 10B of the 1983 Act (register of electors in Northern Ireland: digital registration number), that digital registration number,
     - (bb) in all other cases, the qualifying attestor’s electoral number,
@@ -98,19 +98,19 @@ summary: ''
 - (c) who is—
   - (i) where the applicant is or is to be registered in pursuance of an overseas elector’s declaration, registered as an elector,
   - (ii) otherwise—
-    - (aa) where the applicant is or is to be registered in a local authority area in England or Wales, registered as an elector in a local authority area[^key-2ab2c45e36ef7158137833fa250edd8a] in England or Wales,
+    - (aa) where the applicant is or is to be registered in a local authority area in England or Wales, registered as an elector in a local authority area[^c-2ab2c45e36ef7158137833fa250edd8a] in England or Wales,
     - (bb) where the applicant is or is to be registered in a local authority area in Scotland, registered as an elector in a local authority area in Scotland,
 - (d) except where the person is registered in pursuance of an overseas elector’s declaration, whom the registration officer is satisfied is of good standing in the community, and
 - (e) who has not already signed a relevant identity attestation for two other applicants since, whichever is the later,—
   - (i) the date on which the revised register in which the qualifying attestor’s name appears was last published under section 13(1) of the 1983 Act; or
   - (ii) the date on which a notice specifying the qualifying attestor’s entry in the register was issued under (as the case may be) section 13A(2), 13AB(2), 13B or 13BC of that Act (and if there has been more than one such notice, the date on which the last one was issued).
 
-(8) In paragraphs (5A)(c)(iv) and (7)(e)[^key-44395a95e69ba3a0b89ec6c488535229], a “relevant identity attestation” is an attestation provided in accordance with—
+(8) In paragraphs (5A)(c)(iv) and (7)(e)[^c-44395a95e69ba3a0b89ec6c488535229], a “relevant identity attestation” is an attestation provided in accordance with—
 
-- (a) paragraph (5A) or (6)[^key-72a4b527b7b48c44b6086eb2e9f9edd3];
-- (b) regulation 26B(6) or (6ZA) or 56C(5A) or (6)[^key-c85a617a0b6b3e6455a2726a60d321fe] of the 2001 Regulations;
-- (c) regulation 26B(6) or (6ZA) or 56C(5A) or (6)[^key-7fa53f9ded9ea3caa281b35aa3d34bc1] of the Representation of the People (Scotland) Regulations 2001;
-- (ca)[^key-04d356998fb6c7b3886e3357c5a9dd8a] regulation 25A(3) of the Representation of the People (Northern Ireland) Regulations 2008;
+- (a) paragraph (5A) or (6)[^c-72a4b527b7b48c44b6086eb2e9f9edd3];
+- (b) regulation 26B(6) or (6ZA) or 56C(5A) or (6)[^c-c85a617a0b6b3e6455a2726a60d321fe] of the 2001 Regulations;
+- (c) regulation 26B(6) or (6ZA) or 56C(5A) or (6)[^c-7fa53f9ded9ea3caa281b35aa3d34bc1] of the Representation of the People (Scotland) Regulations 2001;
+- (ca)[^c-04d356998fb6c7b3886e3357c5a9dd8a] regulation 25A(3) of the Representation of the People (Northern Ireland) Regulations 2008;
 - (d) paragraph 16C(5) of Schedule 2 to the Police and Crime Commissioner Elections Order 2012;
 - (e) regulation 7(6) of the Voter Identification Regulations 2022.
 
@@ -146,22 +146,22 @@ summary: ''
 
 ## Annotations
 
-[^key-ef45cd1e42d46816a759c17f3c2d618d]: Textual amendment: Regs. 72A-72C inserted (E.W.S.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(13)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/13) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-ef45cd1e42d46816a759c17f3c2d618d]: Textual amendment: Regs. 72A-72C inserted (E.W.S.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(13)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/13) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
 
-[^key-bf2492931e7a100ab5f24df69cdb5486]: Textual amendment: Reg. 72B(5A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/a)
+[^c-bf2492931e7a100ab5f24df69cdb5486]: Textual amendment: Reg. 72B(5A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/a)
 
-[^key-b78ff9449d8c9ca1aafe9f5a9e0a5727]: Textual amendment: Words in reg. 72B(6) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/b/i)
+[^c-b78ff9449d8c9ca1aafe9f5a9e0a5727]: Textual amendment: Words in reg. 72B(6) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/b/i)
 
-[^key-110489dad1eaf2fd75f4ca31f1a65c15]: Textual amendment: Words in reg. 72B(6)(d)(i) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/b/ii)
+[^c-110489dad1eaf2fd75f4ca31f1a65c15]: Textual amendment: Words in reg. 72B(6)(d)(i) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/b/ii)
 
-[^key-2ab2c45e36ef7158137833fa250edd8a]: Textual amendment: Word in reg. 72B(7)(c)(ii)(aa) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(c)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/c)
+[^c-2ab2c45e36ef7158137833fa250edd8a]: Textual amendment: Word in reg. 72B(7)(c)(ii)(aa) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(c)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/c)
 
-[^key-44395a95e69ba3a0b89ec6c488535229]: Textual amendment: Words in reg. 72B(8) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/i)
+[^c-44395a95e69ba3a0b89ec6c488535229]: Textual amendment: Words in reg. 72B(8) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/i)
 
-[^key-72a4b527b7b48c44b6086eb2e9f9edd3]: Textual amendment: Words in reg. 72B(8)(a) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/ii)
+[^c-72a4b527b7b48c44b6086eb2e9f9edd3]: Textual amendment: Words in reg. 72B(8)(a) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/ii)
 
-[^key-c85a617a0b6b3e6455a2726a60d321fe]: Textual amendment: Words in reg. 72B(8)(b) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/iii)
+[^c-c85a617a0b6b3e6455a2726a60d321fe]: Textual amendment: Words in reg. 72B(8)(b) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/iii)
 
-[^key-7fa53f9ded9ea3caa281b35aa3d34bc1]: Textual amendment: Words in reg. 72B(8)(c) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/iii)
+[^c-7fa53f9ded9ea3caa281b35aa3d34bc1]: Textual amendment: Words in reg. 72B(8)(c) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [13(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/13/5/d/iii)
 
-[^key-04d356998fb6c7b3886e3357c5a9dd8a]: Textual amendment: Reg. 72B(8)(ca) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [25(2)](https://www.legislation.gov.uk/uksi/2024/43/regulation/25/2)
+[^c-04d356998fb6c7b3886e3357c5a9dd8a]: Textual amendment: Reg. 72B(8)(ca) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [25(2)](https://www.legislation.gov.uk/uksi/2024/43/regulation/25/2)

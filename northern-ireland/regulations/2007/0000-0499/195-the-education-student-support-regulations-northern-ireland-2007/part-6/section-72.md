@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Students residing with parents[^key-8e9eee3dda8d8d6fc7c515a75d53c049]
+## 72. Students residing with parents[^c-8e9eee3dda8d8d6fc7c515a75d53c049]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where an eligible student resides at his parents’ home and the Department is s
 
 ## Annotations
 
-[^key-8e9eee3dda8d8d6fc7c515a75d53c049]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2007/195/regulation/72) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8e9eee3dda8d8d6fc7c515a75d53c049]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2007/195/regulation/72) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

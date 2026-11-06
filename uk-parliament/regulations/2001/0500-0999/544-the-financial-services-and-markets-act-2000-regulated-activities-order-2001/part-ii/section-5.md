@@ -25,7 +25,7 @@ summary: ''
 - (a) money received by way of deposit is lent to others; or
 - (b) any other activity of the person accepting the deposit is financed wholly, or to a material extent, out of the capital of or interest on money received by way of deposit.
 
-(2) In paragraph (1), “deposit" means a sum of money, other than one excluded by any of articles 6 to[^key-14dc5e09fd300b4ad785134a2f1f5d59] 9A[^key-15f402649a9215370a34f03b681b949c] 9AZA, paid on terms—
+(2) In paragraph (1), “deposit" means a sum of money, other than one excluded by any of articles 6 to[^c-14dc5e09fd300b4ad785134a2f1f5d59] 9A[^c-15f402649a9215370a34f03b681b949c] 9AZA, paid on terms—
 
 - (a) under which it will be repaid, with or without interest or premium, and either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it; and
 - (b) which are not referable to the provision of property (other than currency) or services or the giving of security.
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14dc5e09fd300b4ad785134a2f1f5d59]: Textual amendment: Words in art. 5(2) substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [3(1)](https://www.legislation.gov.uk/uksi/2002/682/article/3/1)
+[^c-14dc5e09fd300b4ad785134a2f1f5d59]: Textual amendment: Words in art. 5(2) substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [3(1)](https://www.legislation.gov.uk/uksi/2002/682/article/3/1)
 
-[^key-15f402649a9215370a34f03b681b949c]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/uksi/2001/544/article/5/2) substituted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/3) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-15f402649a9215370a34f03b681b949c]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/uksi/2001/544/article/5/2) substituted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/3) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

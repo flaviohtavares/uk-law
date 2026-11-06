@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Regulations and orders[^key-40cd3c59f09d783114548b919cda30be]
+## 40. Regulations and orders[^c-40cd3c59f09d783114548b919cda30be]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40cd3c59f09d783114548b919cda30be]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/16/section/40) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xv)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xv)
+[^c-40cd3c59f09d783114548b919cda30be]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/16/section/40) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xv)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xv)

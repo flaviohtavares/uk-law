@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Design and relocation notifications for production installation[^key-4a43aa512a51f2b3df6cbc69ddd448b7]
+## 6. Design and relocation notifications for production installation[^c-4a43aa512a51f2b3df6cbc69ddd448b7]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 at such time before the submission of a field development programme to the Department of Trade and Industry as will enable him to take account in the design of any matters relating to health and safety raised by the Executive within 3 months (or such shorter period as the Executive may specify) of that time.
 
-(2) The operator of a production installation which is to be moved to a new location within internal waters[^key-d775baf7370468be6a247dfea28abb9f] (whether from outside internal waters[^key-9570d7d1035b0a8a4dd806a57f56e416] or not) and operated there shall—
+(2) The operator of a production installation which is to be moved to a new location within internal waters[^c-d775baf7370468be6a247dfea28abb9f] (whether from outside internal waters[^c-9570d7d1035b0a8a4dd806a57f56e416] or not) and operated there shall—
 
 - (a) prepare a relocation notification containing the particulars specified in Schedule 2 not contained in any current safety case for that installation; and
 - (b) send the relocation notification to the Executive,
@@ -51,8 +51,8 @@ the duty holder shall notify the Executive of that change as soon as practicable
 
 ## Annotations
 
-[^key-4a43aa512a51f2b3df6cbc69ddd448b7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/247/regulation/6) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-4a43aa512a51f2b3df6cbc69ddd448b7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/247/regulation/6) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
 
-[^key-d775baf7370468be6a247dfea28abb9f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2007/247/regulation/6/2) inserted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 39](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/39) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-d775baf7370468be6a247dfea28abb9f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2007/247/regulation/6/2) inserted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 39](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/39) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
-[^key-9570d7d1035b0a8a4dd806a57f56e416]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/nisr/2007/247) substituted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 36(1)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/36/1) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [36(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-9570d7d1035b0a8a4dd806a57f56e416]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/nisr/2007/247) substituted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 36(1)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/36/1) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [36(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51ZA. Special provision for married person whose spouse changed gender[^key-ae78cc946c2ec725195f0479d5dfc82c]
+## 51ZA. Special provision for married person whose spouse changed gender[^c-ae78cc946c2ec725195f0479d5dfc82c]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ and in such a case the reference in section 48B(1ZB)(a)(ii) to the spouse having
 
 ## Annotations
 
-[^key-ae78cc946c2ec725195f0479d5dfc82c]: Textual amendment: [S. 51ZA](https://www.legislation.gov.uk/ukpga/1992/7/section/51ZA) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(10)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/10) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-ae78cc946c2ec725195f0479d5dfc82c]: Textual amendment: [S. 51ZA](https://www.legislation.gov.uk/ukpga/1992/7/section/51ZA) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(10)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/10) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

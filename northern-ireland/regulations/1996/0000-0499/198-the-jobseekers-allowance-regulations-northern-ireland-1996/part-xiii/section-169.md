@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 169. Trade disputes: exemptions from Article 17 of the Order[^key-2ad2525cd4df79d02a9cd59b4f766dd5]
+## 169. Trade disputes: exemptions from Article 17 of the Order[^c-2ad2525cd4df79d02a9cd59b4f766dd5]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ Article 17(2) of the Order (trade disputes: effect on other claimants) shall not
 
 ## Annotations
 
-[^key-2ad2525cd4df79d02a9cd59b4f766dd5]: Commencement: Reg. 169 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2ad2525cd4df79d02a9cd59b4f766dd5]: Commencement: Reg. 169 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

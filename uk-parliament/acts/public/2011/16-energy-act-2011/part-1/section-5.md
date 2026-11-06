@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Terms of plan etc[^key-451cafc2a43665f6243fbc2dc123c444][^key-a6215022a8208a81506ecc22970f0d56]
+## 5. Terms of plan etc[^c-451cafc2a43665f6243fbc2dc123c444][^c-a6215022a8208a81506ecc22970f0d56]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-451cafc2a43665f6243fbc2dc123c444]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/16/section/5) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-451cafc2a43665f6243fbc2dc123c444]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/16/section/5) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-a6215022a8208a81506ecc22970f0d56]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/16/section/5) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
+[^c-a6215022a8208a81506ecc22970f0d56]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/16/section/5) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)

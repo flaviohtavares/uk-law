@@ -24,7 +24,7 @@ summary: ''
 
 (2) Until every individual register is held in electronic form, the index need not contain the name of any corporate or joint proprietor of an estate or of a charge registered as proprietor prior to 1st May 1972.
 
-(3)[^key-c441cb46104358e1016b237581e4334a] A person may apply in Form PN1 for a search to be made in the index in respect of—
+(3)[^c-c441cb46104358e1016b237581e4334a] A person may apply in Form PN1 for a search to be made in the index in respect of—
 
 - (a) his own name,
 - (b) the name of a corporation aggregate, or
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c441cb46104358e1016b237581e4334a]: Textual amendment: Rule 11(3) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/6) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-c441cb46104358e1016b237581e4334a]: Textual amendment: Rule 11(3) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/6) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.5. Recording and transcription of proceedings in the Crown Court[^key-f278968ae2fad74eacedb0a6029bb8b8]
+## 5.5. Recording and transcription of proceedings in the Crown Court[^c-f278968ae2fad74eacedb0a6029bb8b8]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f278968ae2fad74eacedb0a6029bb8b8]: Commencement: [Rule 5.5](https://www.legislation.gov.uk/uksi/2025/909/rule/5.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f278968ae2fad74eacedb0a6029bb8b8]: Commencement: [Rule 5.5](https://www.legislation.gov.uk/uksi/2025/909/rule/5.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00191]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).

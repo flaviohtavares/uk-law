@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Warrants under section 236 of the 1986 Act[^key-9f950bfbaa903e2b9f9affc450e86c27]
+## 114. Warrants under section 236 of the 1986 Act[^c-9f950bfbaa903e2b9f9affc450e86c27]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-9f950bfbaa903e2b9f9affc450e86c27]: Commencement: [Rule 114](https://www.legislation.gov.uk/uksi/2013/3208/rule/114) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9f950bfbaa903e2b9f9affc450e86c27]: Commencement: [Rule 114](https://www.legislation.gov.uk/uksi/2013/3208/rule/114) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

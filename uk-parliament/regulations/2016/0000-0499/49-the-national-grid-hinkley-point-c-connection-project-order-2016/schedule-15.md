@@ -99,17 +99,17 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 (2) In this Part—
 
 - “2003 Act” means the Communications Act 2003;
-- [^key-3e8c89b27e02de1cbc684a98a772a429]...
+- [^c-3e8c89b27e02de1cbc684a98a772a429]...
 - “electronic communications apparatus” has the same meaning as in the electronic communications code;
 - “electronic communications code” has the same meaning as in Chapter 1 of Part 2 of the 2003 Act[^f00038];
 - “electronic communications code network” means—
-  - (a) so much of an electronic communications network or infrastructure system[^key-a27c4e14509b16e4c2bac8298d2560a7] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
+  - (a) so much of an electronic communications network or infrastructure system[^c-a27c4e14509b16e4c2bac8298d2560a7] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
   - (b) an electronic communications network which the Secretary of State is providing or proposing to provide;
 - “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106 of the 2003 Act;
-- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^key-07c8c7c9c55deab3e625fec540817e7a]
+- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^c-07c8c7c9c55deab3e625fec540817e7a]
 - “operator” means the operator of an electronic communications code network.
 
-**9.** The exercise of the powers in article 33 (statutory undertakers) is subject to Part 10 of Schedule 3A to the Communications Act 2003[^key-836ed2540366d8ea6f22b0e4732c49e6].
+**9.** The exercise of the powers in article 33 (statutory undertakers) is subject to Part 10 of Schedule 3A to the Communications Act 2003[^c-836ed2540366d8ea6f22b0e4732c49e6].
 
 **10.** (1) Subject to sub-paragraphs (2) to (3), if as the result of the authorised development or its construction, or of any subsidence resulting from any of those works, any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or other property of an operator, the undertaker must bear and pay the cost reasonably and properly incurred by the operator in making good such damage.
 
@@ -459,7 +459,7 @@ but not otherwise.
 
 (6) The undertaker must, before submitting any relevant proposals to the relevant highway authority for approval under the provisions of this Order, consult with BPC in relation to—
 
-- (a) any proposed exercise of powers under article 13 or[^key-b356b6d3f7e2058221c5b2c411da74b2] 40 affecting any part of the dock access network; and
+- (a) any proposed exercise of powers under article 13 or[^c-b356b6d3f7e2058221c5b2c411da74b2] 40 affecting any part of the dock access network; and
 - (b) any proposed variations or extensions to such proposals.
 
 (7) Despite any provision of this Order, the undertaker must not, except with the agreement of BPC, exercise any power under article 13 or 40 to use or to authorise the use of any private street or public right of way on BPC’s land or any dock public road as a temporary working site or as a parking place.
@@ -513,7 +513,7 @@ but not otherwise.
 
 (2) The undertaker must promptly and at its cost and expense make good any and all damage and wear and tear caused to any part of BPC’s land which is used by the undertaker for the purpose of gaining access to the authorised development or any other land or in connection with the carrying out, inspection or maintenance of the authorised development and must restore all such land (together with all associated structures, signs and barriers) to at least as good a condition as they were in before the undertaker’s use started including making good the subsoil, foundations and surface of that land.
 
-(3) If required to do so by BPC (acting reasonably), the undertaker must at its cost and expense[^key-0ce2084980474d00d91b7beeb2548102] procure that surveys are carried out to a specification approved by BPC (acting reasonably) to show the condition of the relevant land to be used for access (together with all associated structures, signs and barriers) before the undertaker’s use of them begins and after that use ends.
+(3) If required to do so by BPC (acting reasonably), the undertaker must at its cost and expense[^c-0ce2084980474d00d91b7beeb2548102] procure that surveys are carried out to a specification approved by BPC (acting reasonably) to show the condition of the relevant land to be used for access (together with all associated structures, signs and barriers) before the undertaker’s use of them begins and after that use ends.
 
 (4) If required to do so by BPC (acting reasonably), the undertaker must permit BPC to inspect the execution of all works of reinstatement being carried out under this paragraph in order to ensure compliance by the undertaker with the requirements of this paragraph.
 
@@ -567,7 +567,7 @@ but not otherwise.
 
 (2) In this paragraph “BPC’s apparatus” means all and any gas, oil and water pipes, water tanks, cisterns, drains and drainage works, sewers, pumps, electric and communication wires, cables and plant, ducts, conduits, governors, transformers, meters and any other service media, surface water interceptors (and whether in all cases for drainage, gas, oil, water, electricity, telephone, television, data and information transmission or any other service) on BPC’s land or used by BPC in connection with its statutory undertaking.
 
-#### 61A. Acquisition and use of land[^key-a1317bf18b1f1ca6fe01189b350d28b4]
+#### 61A. Acquisition and use of land[^c-a1317bf18b1f1ca6fe01189b350d28b4]
 
 The undertaker must not exercise the powers conferred by—
 
@@ -727,7 +727,7 @@ Any dispute arising between the undertaker and the Port Authority under this Par
 - “drainage work” means any watercourse and includes any land which provides or is expected to provide flood storage capacity for any watercourse and any bank, wall, embankment, outfall or other structure, or any appliance, constructed or used for land drainage, flood defence or tidal monitoring;
 - “flood defence structure” means any valve, sluice, clyse, hatch, flashboard, flood gate, lasher, staunch gates, paddle, penstock, lock, weir, dam, pumping machinery, pump, pipe or other structure or appliance for controlling, measuring or regulating the level of water or the flow of water into, in or out of a main river or for drawing water from or delivering water into a main river.
 
-(2)[^key-1760f1c9f921e4a043f5660d8063f04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1760f1c9f921e4a043f5660d8063f04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **72.** The undertaker must not open or close or interfere with any flood defence structure without first obtaining the consent of the Agency in writing.
 
@@ -852,15 +852,15 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 [^f00037]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by section 76 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-3e8c89b27e02de1cbc684a98a772a429]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/15/part/2/paragraph/8/2) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/a/i)
+[^c-3e8c89b27e02de1cbc684a98a772a429]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/15/part/2/paragraph/8/2) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/a/i)
 
 [^f00038]: Footnote: See section 106.
 
-[^key-a27c4e14509b16e4c2bac8298d2560a7]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/15/part/2/paragraph/8/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/a/ii)
+[^c-a27c4e14509b16e4c2bac8298d2560a7]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/15/part/2/paragraph/8/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/a/ii)
 
-[^key-07c8c7c9c55deab3e625fec540817e7a]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/15/part/2/paragraph/8/2) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/a/iii)
+[^c-07c8c7c9c55deab3e625fec540817e7a]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/15/part/2/paragraph/8/2) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/a/iii)
 
-[^key-836ed2540366d8ea6f22b0e4732c49e6]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2016/49/schedule/1/part/2/paragraph/9) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/b)
+[^c-836ed2540366d8ea6f22b0e4732c49e6]: Textual amendment: Words in [Sch. 15 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2016/49/schedule/1/part/2/paragraph/9) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 57(2)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/57/2/b)
 
 [^f00040]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
@@ -870,17 +870,17 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 [^M_F_29739059-ebb3-4d67-d575-25700de05b39]: Textual amendment: Words in Sch. 15 para. 50(1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-b356b6d3f7e2058221c5b2c411da74b2]: Textual amendment: Words in Sch. 15 para. 52 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-b356b6d3f7e2058221c5b2c411da74b2]: Textual amendment: Words in Sch. 15 para. 52 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
 [^M_F_d6a14742-23ed-4659-c4b7-072556bde0cd]: Textual amendment: Words in Sch. 15 para. 55(1) omitted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-0ce2084980474d00d91b7beeb2548102]: Textual amendment: Words in Sch. 15 para. 55(3) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-0ce2084980474d00d91b7beeb2548102]: Textual amendment: Words in Sch. 15 para. 55(3) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
 [^M_F_2ac3fe10-4ef9-4c5a-d031-435ea85f9a63]: Textual amendment: Words in Sch. 15 para. 59(3) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
 [^M_F_ffbb752e-949c-48d7-ab1e-fe00117b566a]: Textual amendment: Words in Sch. 15 para. 59(3)(c) omitted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-a1317bf18b1f1ca6fe01189b350d28b4]: Textual amendment: Sch. 15 paras. 61A, 61B inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [arts. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [2](https://www.legislation.gov.uk/uksi/2017/786/article/2)
+[^c-a1317bf18b1f1ca6fe01189b350d28b4]: Textual amendment: Sch. 15 paras. 61A, 61B inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [arts. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [2](https://www.legislation.gov.uk/uksi/2017/786/article/2)
 
 [^M_F_ec84bf2d-ae7a-4b21-e617-b53163de07ed]: Textual amendment: Sch. 15 para. 61C renumbered (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
@@ -892,4 +892,4 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 [^f00043]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-1760f1c9f921e4a043f5660d8063f04c]: Textual amendment: Sch. 15 para. 71(2) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-1760f1c9f921e4a043f5660d8063f04c]: Textual amendment: Sch. 15 para. 71(2) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)

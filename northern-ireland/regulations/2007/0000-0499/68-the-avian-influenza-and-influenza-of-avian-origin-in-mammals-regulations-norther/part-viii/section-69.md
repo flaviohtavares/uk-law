@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Additional measures at restocked commercial poultry premises[^key-561a3102e64a27629e3334ee248ffd2e]
+## 69. Additional measures at restocked commercial poultry premises[^c-561a3102e64a27629e3334ee248ffd2e]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-561a3102e64a27629e3334ee248ffd2e]: Commencement: Reg. 69 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-561a3102e64a27629e3334ee248ffd2e]: Commencement: Reg. 69 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

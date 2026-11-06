@@ -53,7 +53,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 ## PART 1 — Introduction
 
-### 1. Title, application and coming into force[^key-22c16462e3ccb9bd2d4e6f92223ef6ef]
+### 1. Title, application and coming into force[^c-22c16462e3ccb9bd2d4e6f92223ef6ef]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020.
 
@@ -61,7 +61,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 (3) These Regulations come into force at 12.01 a.m. on 18 September 2020.
 
-### 2. Interpretation[^key-5ae458caac1a058b6d3d5bdcc56a4cf0]
+### 2. Interpretation[^c-5ae458caac1a058b6d3d5bdcc56a4cf0]
 
 In these Regulations—
 
@@ -74,17 +74,17 @@ In these Regulations—
 - (g) “**public place**” has the meaning given by regulation 7(2);
 - (h) “**public place direction**” has the meaning given by regulation 7.
 
-### 3. Expiry[^key-e5019a04267fdb72618df805952699f2]
+### 3. Expiry[^c-e5019a04267fdb72618df805952699f2]
 
-(1) These Regulations expire at the end of the day on 18 April 2022[^key-23aecfce7abb6e8eccb287190686c9b7].
+(1) These Regulations expire at the end of the day on 18 April 2022[^c-23aecfce7abb6e8eccb287190686c9b7].
 
 (2) This regulation does not affect the validity of anything done pursuant to these Regulations before they expire.
 
 ## PART 2 — Local authority directions in relation to premises, events and public places
 
-### CHAPTER 1 — Giving and withdrawing directions[^key-c48636b60cbf1298b31f32be93f8976f]
+### CHAPTER 1 — Giving and withdrawing directions[^c-c48636b60cbf1298b31f32be93f8976f]
 
-#### 4. Public health conditions for giving directions[^key-f1ec82718c7fe3bde34cefbb5e834122]
+#### 4. Public health conditions for giving directions[^c-f1ec82718c7fe3bde34cefbb5e834122]
 
 (1) If it considers that the public health conditions are met, a local authority may give—
 
@@ -98,7 +98,7 @@ In these Regulations—
 - (b) the direction is necessary for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection by coronavirus in the local authority's area, and
 - (c) the prohibitions, requirements or restrictions imposed by the direction are a proportionate means of achieving that purpose.
 
-#### 5. Premises directions[^key-26c6c4b68f6dc8a39815025240ecf452]
+#### 5. Premises directions[^c-26c6c4b68f6dc8a39815025240ecf452]
 
 (1) A local authority may give a premises direction in respect of any premises in its area.
 
@@ -122,16 +122,16 @@ In these Regulations—
 
 (7) No person may, without reasonable excuse, act in contravention of a premises direction.
 
-#### 6. Event directions[^key-bc5b50cecda23f1337c60b08cc54438e]
+#### 6. Event directions[^c-bc5b50cecda23f1337c60b08cc54438e]
 
 (1) A local authority may give an event direction in respect of any event held, or proposed to be held, in its area.
 
-(2)[^key-398d26aac10556ec07276b12459e9ab5] In considering whether the public health conditions are met, a local authority must, in particular, have regard to whether people are gathering, or are likely to gather, at the event in contravention of whichever of the following provisions of the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 applies to the area in which the event is held or is proposed to be held—
+(2)[^c-398d26aac10556ec07276b12459e9ab5] In considering whether the public health conditions are met, a local authority must, in particular, have regard to whether people are gathering, or are likely to gather, at the event in contravention of whichever of the following provisions of the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 applies to the area in which the event is held or is proposed to be held—
 
 - (a) paragraph 2 of Schedule 1;
 - (b) paragraph 2 of Schedule 2;
-- (c) paragraph 3[^key-183067154ff200b7ad6da4cdd093545f] of Schedule 3;
-- (d)[^key-d4588b8e61bfddc6884c00407093d0ff] paragraph 2 of Schedule 4.
+- (c) paragraph 3[^c-183067154ff200b7ad6da4cdd093545f] of Schedule 3;
+- (d)[^c-d4588b8e61bfddc6884c00407093d0ff] paragraph 2 of Schedule 4.
 
 (3) An event direction may—
 
@@ -151,9 +151,9 @@ In these Regulations—
 
 (7) For the purposes of this Part, a person is not involved in organising an event if the person's only involvement is, or would be, attending it.
 
-(8)[^key-e223049b2f90304cdc9f354c148d872e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e223049b2f90304cdc9f354c148d872e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Public place directions[^key-d970de4b6c0a6b5098e84ae101d85d80]
+#### 7. Public place directions[^c-d970de4b6c0a6b5098e84ae101d85d80]
 
 (1) A local authority may give a public place direction in respect of any public place in the authority’s area.
 
@@ -218,26 +218,26 @@ apply to the property (subject to such terms as may be included in the agreement
 - (c) “public path” has the meaning given in regulation 14(7)(b), and
 - (d) premises are authorised for the sale or supply of alcohol where the premises have been granted or given an authorisation under the Licensing Act 2003, and “authorisation” has the meaning given by section 136(5) of that Act.
 
-#### 8. Review and withdrawal[^key-e7f2fba7b04033967583ea9ce0e89c40][^key-45947bf8d57e9dce4c33075016d33c3e]
+#### 8. Review and withdrawal[^c-e7f2fba7b04033967583ea9ce0e89c40][^c-45947bf8d57e9dce4c33075016d33c3e]
 
 (1) Where a local authority gives a direction under this Part, the authority must review whether the public health conditions continue to be met in relation to the direction—
 
 - (a) at least once in the period of 7 days beginning on the day after the day direction is given, and
 - (b) at least once in every subsequent period of 7 days.
 
-(2) If, on a review under paragraph (1), the local authority considers that the public health conditions are no longer met, the local authority must withdraw[^key-cb6bffbce2291e45eb8c5a0a4f129a28] the direction.
+(2) If, on a review under paragraph (1), the local authority considers that the public health conditions are no longer met, the local authority must withdraw[^c-cb6bffbce2291e45eb8c5a0a4f129a28] the direction.
 
-(3) Paragraph (2) does not prevent a local authority from withdrawing[^key-26b9abf8ddbba5f91338813cb5cb3101] a direction at any time if the authority considers that the public health conditions are no longer met in relation to the direction.
+(3) Paragraph (2) does not prevent a local authority from withdrawing[^c-26b9abf8ddbba5f91338813cb5cb3101] a direction at any time if the authority considers that the public health conditions are no longer met in relation to the direction.
 
-(4) A direction is withdrawn[^key-33fb116e479628b28f5a81444a050620] by giving notice in writing to each person to whom the direction was given.
+(4) A direction is withdrawn[^c-33fb116e479628b28f5a81444a050620] by giving notice in writing to each person to whom the direction was given.
 
 (5) Paragraphs (2) and (3) of regulation 11 apply to a withdrawal as they apply to a direction.
 
 (6) A direction ceases to have effect at the time notice of withdrawal is given.
 
-#### 9. Requirement to have regard to advice or guidance and to consult[^key-86bdc27f939cd22771e6936c3e935efb]
+#### 9. Requirement to have regard to advice or guidance and to consult[^c-86bdc27f939cd22771e6936c3e935efb]
 
-In determining whether to give or withdraw[^key-7fd07a556d96ce34bf5280566dd09b54] a direction under this Part a local authority must—
+In determining whether to give or withdraw[^c-7fd07a556d96ce34bf5280566dd09b54] a direction under this Part a local authority must—
 
 - (a) have regard to—
   - (i) any advice given to it by the authority's Director of Public Protection;
@@ -246,18 +246,18 @@ In determining whether to give or withdraw[^key-7fd07a556d96ce34bf5280566dd09b54
 
 ### CHAPTER 2 — Form and procedure
 
-#### 10. Form and content of directions[^key-423b7c165149d5f46d3829a8f96eb427]
+#### 10. Form and content of directions[^c-423b7c165149d5f46d3829a8f96eb427]
 
 A direction given under this Part must—
 
 - (a) be in writing;
-- (b) contain a description of the premises, event or public place to which the direction relates (and in the case of a public place direction see regulation 7(6)[^key-8c81890e0550409aebd1e81cb614a15b]);
+- (b) contain a description of the premises, event or public place to which the direction relates (and in the case of a public place direction see regulation 7(6)[^c-8c81890e0550409aebd1e81cb614a15b]);
 - (c) state the date and time from which each prohibition, requirement or restriction imposed by the direction takes effect (which must not be earlier than when the direction is given);
 - (d) state the date and time at which each such prohibition, requirement or restriction ceases to have effect (which must be no later than 21 days after it takes effect);
 - (e) set out the reasons why the local authority considers the public health conditions to be met in relation to the direction;
 - (f) give details of the right of appeal, and the right to make representations, conferred by regulation 12.
 
-#### 11. Giving a direction[^key-aaf952d8110c58835b43f29c713e6f64]
+#### 11. Giving a direction[^c-aaf952d8110c58835b43f29c713e6f64]
 
 (1) A local authority gives a direction under this Part by giving the direction in writing—
 
@@ -282,7 +282,7 @@ A direction given under this Part must—
   - (iii) where the local authority's area is adjacent to the area of a county or district council in England, that council, and
 - (c) publish the direction in such manner as the local authority considers appropriate to bring it to the attention of persons who may be affected by it.
 
-#### 12. Appeals and representations[^key-e4d12dc8c183e9927d3d70d7c9de50ab]
+#### 12. Appeals and representations[^c-e4d12dc8c183e9927d3d70d7c9de50ab]
 
 (1) In this regulation, “**interested person**” means—
 
@@ -313,9 +313,9 @@ A direction given under this Part must—
 
 (5) Making representations under paragraph (2)(b) does not affect an interested person's right of appeal under paragraph (2)(a).
 
-### CHAPTER 3 — Welsh Ministers' power to require withdrawal[^key-e81855fcd5d1ffda2c4b845e89e33a7e]
+### CHAPTER 3 — Welsh Ministers' power to require withdrawal[^c-e81855fcd5d1ffda2c4b845e89e33a7e]
 
-#### 13. Power of Welsh Ministers to require a local authority to withdraw a direction[^key-b736fed209582227f0ddf624c4387ce3][^key-2344d646f67d4b61ba2db349a738a239]
+#### 13. Power of Welsh Ministers to require a local authority to withdraw a direction[^c-b736fed209582227f0ddf624c4387ce3][^c-2344d646f67d4b61ba2db349a738a239]
 
 (1) If the Welsh Ministers consider that the public health conditions are no longer met in relation to a direction given by a local authority under this Part, the Welsh Ministers must require the authority to withdraw the direction.
 
@@ -328,7 +328,7 @@ A direction given under this Part must—
 
 ## PART 3 — Duty to close certain public paths and access land
 
-### 14. Closure of public paths and access land[^key-1ebcdd419ff7c7c6ae96f4b3f48a60bf]
+### 14. Closure of public paths and access land[^c-1ebcdd419ff7c7c6ae96f4b3f48a60bf]
 
 (1) Where paragraph (2) applies to a public path or access land in the area of a relevant authority, the relevant authority must—
 
@@ -372,7 +372,7 @@ the path or land is to be treated as if it were closed under paragraph (1) of th
 
 ## PART 4 — Enforcement
 
-### 15. Enforcement officers[^key-839d6ecbbba4924f68f07d48bd92182c]
+### 15. Enforcement officers[^c-839d6ecbbba4924f68f07d48bd92182c]
 
 (1) For the purposes of regulations 16, 17 and 19, an “**enforcement officer**” means—
 
@@ -388,12 +388,12 @@ the path or land is to be treated as if it were closed under paragraph (1) of th
 
 (2) A person designated by a National Park authority or Natural Resources Wales may exercise an enforcement officer's functions only in relation to a contravention (or alleged contravention) of the requirement in regulation 14(4).
 
-### 16. Enforcement actions[^key-ace26a018ec5988aa843976166a5e88c]
+### 16. Enforcement actions[^c-ace26a018ec5988aa843976166a5e88c]
 
 (1) An enforcement officer may give a compliance notice to a person if the officer has reasonable grounds for suspecting that the person—
 
 - (a) is acting in contravention of a premises direction, event direction or public place direction, or
-- (b) is failing, or has failed, to take the steps required under regulation 5(6), 6(5) or 7(8)[^key-61fb633c7df137c11ca39d639c55a45a].
+- (b) is failing, or has failed, to take the steps required under regulation 5(6), 6(5) or 7(8)[^c-61fb633c7df137c11ca39d639c55a45a].
 
 (2) A compliance notice may specify measures that the person to whom it is given must take as soon as is reasonably practicable so as to—
 
@@ -411,19 +411,19 @@ the path or land is to be treated as if it were closed under paragraph (1) of th
 - (b) direct a person to leave the event;
 - (c) remove a person from the event.
 
-(5) Where a constable has reasonable grounds for suspecting that a person is in a public place in contravention of a public place direction imposing a prohibition, requirement or restriction in relation to access to the place[^key-2263b114f39f33a93fca73a536e99928], the constable may—
+(5) Where a constable has reasonable grounds for suspecting that a person is in a public place in contravention of a public place direction imposing a prohibition, requirement or restriction in relation to access to the place[^c-2263b114f39f33a93fca73a536e99928], the constable may—
 
 - (a) direct the person to leave the place;
 - (b) remove the person from the place.
 
-(5A)[^key-298e30b51b874a119bdaf3509222b1ff] Where a constable has reasonable grounds for suspecting that a person in a public place is acting in contravention of a public place direction imposing a prohibition, requirement or restriction in relation to the carrying on of an activity in the place, the constable may take such action as the constable considers necessary to prevent the person from continuing to act in contravention of the direction (including removing the person from the place).
+(5A)[^c-298e30b51b874a119bdaf3509222b1ff] Where a constable has reasonable grounds for suspecting that a person in a public place is acting in contravention of a public place direction imposing a prohibition, requirement or restriction in relation to the carrying on of an activity in the place, the constable may take such action as the constable considers necessary to prevent the person from continuing to act in contravention of the direction (including removing the person from the place).
 
 (6) A constable may—
 
-- (a) when exercising the power in paragraph (3), (4) , (5) or (5A)[^key-98b4d679d03eeee4cb7f40aa0af3f820] direct a person to follow such instructions as the constable considers necessary;
-- (b) use reasonable force in the exercise of the power in paragraph (3)(b), (4)(c) , (5)(b) or (5A)[^key-1636feaf384bc7fcfc871fdec310ca4c].
+- (a) when exercising the power in paragraph (3), (4) , (5) or (5A)[^c-98b4d679d03eeee4cb7f40aa0af3f820] direct a person to follow such instructions as the constable considers necessary;
+- (b) use reasonable force in the exercise of the power in paragraph (3)(b), (4)(c) , (5)(b) or (5A)[^c-1636feaf384bc7fcfc871fdec310ca4c].
 
-(7) Where a constable has reasonable grounds to suspect that the person referred to in paragraph (3), (4) , (5) or (5A)[^key-7035ba49b84ad5358053f3fd87f27c3e] is a child (“C”) accompanied by an individual (“I”) who has responsibility for C—
+(7) Where a constable has reasonable grounds to suspect that the person referred to in paragraph (3), (4) , (5) or (5A)[^c-7035ba49b84ad5358053f3fd87f27c3e] is a child (“C”) accompanied by an individual (“I”) who has responsibility for C—
 
 - (a) the constable may direct I to ensure that C leaves the premises, event or public place, as the case may be, and
 - (b) I must, so far as reasonably practicable, ensure that C complies with any direction or instruction given by the constable to C.
@@ -446,7 +446,7 @@ the path or land is to be treated as if it were closed under paragraph (1) of th
 
 (13) References in this regulation to a “constable” are to be read as including a police community support officer.
 
-### 17. Power of entry[^key-6777180a2b239639e3eb00307ab161f4]
+### 17. Power of entry[^c-6777180a2b239639e3eb00307ab161f4]
 
 (1) An enforcement officer may enter premises to take, or facilitate the taking of, enforcement action under regulation 16.
 
@@ -460,14 +460,14 @@ the path or land is to be treated as if it were closed under paragraph (1) of th
 - (a) if asked by a person on the premises, must show evidence of the officer's identity and outline the purpose for which the power is exercised;
 - (b) if the premises are unoccupied or the occupier is temporarily absent, must leave the premises as effectively secured against unauthorised entry as when the officer found them.
 
-(4)[^key-80571041213016d680a4e7154a1874fa] An enforcement officer may enter premises used wholly or mainly as a private dwelling only if the enforcement officer is a constable.
+(4)[^c-80571041213016d680a4e7154a1874fa] An enforcement officer may enter premises used wholly or mainly as a private dwelling only if the enforcement officer is a constable.
 
-### 18. Offences and penalties[^key-402f0a1d02ec280a3f9cbe28a26f52e0]
+### 18. Offences and penalties[^c-402f0a1d02ec280a3f9cbe28a26f52e0]
 
 (1) A person who—
 
-- (a) contravenes regulation 5(7), 6(6) or 7(9)[^key-ff6c22ba8cf0be98576e96cea9a31e37],
-- (b) without reasonable excuse, fails to take the steps required under regulation 5(6), 6(5), or 7(8)[^key-607d3b12721e6a9d0a39cdbe50a868d8], or
+- (a) contravenes regulation 5(7), 6(6) or 7(9)[^c-ff6c22ba8cf0be98576e96cea9a31e37],
+- (b) without reasonable excuse, fails to take the steps required under regulation 5(6), 6(5), or 7(8)[^c-607d3b12721e6a9d0a39cdbe50a868d8], or
 - (c) without reasonable excuse, contravenes regulation 14(4),
 
 commits an offence.
@@ -507,7 +507,7 @@ the officer (as well as the body corporate) is guilty of the offence and liable 
 
 (12) A fine imposed on an unincorporated association other than a partnership on its conviction for an offence under these Regulations is to be paid out of the funds of the association.
 
-### 19. Fixed penalty notices[^key-d7711e8e7fb945d7faf8470b763e25f6]
+### 19. Fixed penalty notices[^c-d7711e8e7fb945d7faf8470b763e25f6]
 
 (1) An enforcement officer may issue a fixed penalty notice to anyone that the officer reasonably believes—
 
@@ -556,9 +556,9 @@ as the notice may specify.
 
 - (a) the Health Protection (Coronavirus Restrictions) (Wales) Regulations 2020;
 - (b) the Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020.
-- (c)[^key-ff52f4780e0fc23e6431ae7992f4576a] the Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020.
-- (d)[^key-67b485ec9dd02f3d04f64746b5b85ab6] the Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020.
-- (e)[^key-f6ba20011e35067607de26bce03e976d] the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 if regulation 48 of those Regulations applies to the notice.
+- (c)[^c-ff52f4780e0fc23e6431ae7992f4576a] the Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020.
+- (d)[^c-67b485ec9dd02f3d04f64746b5b85ab6] the Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020.
+- (e)[^c-f6ba20011e35067607de26bce03e976d] the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 if regulation 48 of those Regulations applies to the notice.
 
 (11) Whatever other method may be specified under paragraph (6)(e), payment of a fixed penalty may be made by pre-paying and posting to the person whose name is stated under paragraph (6)(d), at the stated address, a letter containing the amount of the penalty (in cash or otherwise).
 
@@ -577,17 +577,17 @@ is evidence of the facts stated.
 
 (14) Where a fixed penalty is issued in respect of the alleged offence of contravening the requirement in regulation 14(4), references in this regulation to a “local authority” are to be read as including references to a National Park authority in Wales.
 
-### 20. Prosecutions[^key-a809cff94fdc1e20925fded7da41eb70]
+### 20. Prosecutions[^c-a809cff94fdc1e20925fded7da41eb70]
 
-No proceedings for an offence under these Regulations may be brought other than by the Director of Public Prosecutions , a local authority[^key-271203f695d50ddaa477294ebb47b2be] or any person designated by the Welsh Ministers.
+No proceedings for an offence under these Regulations may be brought other than by the Director of Public Prosecutions , a local authority[^c-271203f695d50ddaa477294ebb47b2be] or any person designated by the Welsh Ministers.
 
 ## PART 5 — Revocation and consequential amendment
 
-### 21. Revocation[^key-942695450aee4215bc30dfa4c5adae50]
+### 21. Revocation[^c-942695450aee4215bc30dfa4c5adae50]
 
 The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities) (Wales) Regulations 2020 [^c24287631] are revoked.
 
-### 22. Consequential amendment[^key-dec1fdd2fc4481c65272223cc224d112]
+### 22. Consequential amendment[^c-dec1fdd2fc4481c65272223cc224d112]
 
 In regulation 21(11) of the Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020, for “the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities) (Wales) Regulations 2020” substitute “ the Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) Regulations 2020 ”.
 
@@ -619,63 +619,63 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24287481]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Sections 45C, 45F and 45P were inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The functions under these sections are conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister, as respects Wales, is the Welsh Ministers.
 
-[^key-22c16462e3ccb9bd2d4e6f92223ef6ef]: Commencement: Reg. 1 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-22c16462e3ccb9bd2d4e6f92223ef6ef]: Commencement: Reg. 1 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-5ae458caac1a058b6d3d5bdcc56a4cf0]: Commencement: Reg. 2 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-5ae458caac1a058b6d3d5bdcc56a4cf0]: Commencement: Reg. 2 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-e5019a04267fdb72618df805952699f2]: Commencement: Reg. 3 in force at 18.9.2020 at 12.01 a.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1011/regulation/1/3)
+[^c-e5019a04267fdb72618df805952699f2]: Commencement: Reg. 3 in force at 18.9.2020 at 12.01 a.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1011/regulation/1/3)
 
-[^key-23aecfce7abb6e8eccb287190686c9b7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2020/1011/regulation/3/1) substituted (26.3.2022) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/378)](https://www.legislation.gov.uk/wsi/2022/378), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/378/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/378/regulation/3)
+[^c-23aecfce7abb6e8eccb287190686c9b7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2020/1011/regulation/3/1) substituted (26.3.2022) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/378)](https://www.legislation.gov.uk/wsi/2022/378), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/378/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/378/regulation/3)
 
-[^key-c48636b60cbf1298b31f32be93f8976f]: Textual amendment: Word in Pt. 2 Ch. 1 heading substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/a)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-c48636b60cbf1298b31f32be93f8976f]: Textual amendment: Word in Pt. 2 Ch. 1 heading substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/a)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-f1ec82718c7fe3bde34cefbb5e834122]: Commencement: Reg. 4 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-f1ec82718c7fe3bde34cefbb5e834122]: Commencement: Reg. 4 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-26c6c4b68f6dc8a39815025240ecf452]: Commencement: Reg. 5 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-26c6c4b68f6dc8a39815025240ecf452]: Commencement: Reg. 5 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-bc5b50cecda23f1337c60b08cc54438e]: Commencement: Reg. 6 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-bc5b50cecda23f1337c60b08cc54438e]: Commencement: Reg. 6 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-398d26aac10556ec07276b12459e9ab5]: Textual amendment: Reg. 6(2) substituted (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2021/57/regulation/3/3/a)
+[^c-398d26aac10556ec07276b12459e9ab5]: Textual amendment: Reg. 6(2) substituted (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2021/57/regulation/3/3/a)
 
-[^key-183067154ff200b7ad6da4cdd093545f]: Textual amendment: Words in [reg. 6(2)(c)](https://www.legislation.gov.uk/wsi/2020/1011/regulation/6/2/c) substituted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2021/542/regulation/4)
+[^c-183067154ff200b7ad6da4cdd093545f]: Textual amendment: Words in [reg. 6(2)(c)](https://www.legislation.gov.uk/wsi/2020/1011/regulation/6/2/c) substituted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2021/542/regulation/4)
 
-[^key-d4588b8e61bfddc6884c00407093d0ff]: Modification: Reg. 6(2)(d) modified (temp.) (13.3.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2021 (S.I. 2021/307)](https://www.legislation.gov.uk/wsi/2021/307), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/307/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2021/307/regulation/3/2)
+[^c-d4588b8e61bfddc6884c00407093d0ff]: Modification: Reg. 6(2)(d) modified (temp.) (13.3.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2021 (S.I. 2021/307)](https://www.legislation.gov.uk/wsi/2021/307), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/307/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2021/307/regulation/3/2)
 
-[^key-e223049b2f90304cdc9f354c148d872e]: Textual amendment: Reg. 6(8) omitted (20.1.2021) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2021/57/regulation/3/3/b)
+[^c-e223049b2f90304cdc9f354c148d872e]: Textual amendment: Reg. 6(8) omitted (20.1.2021) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2021/57/regulation/3/3/b)
 
-[^key-d970de4b6c0a6b5098e84ae101d85d80]: Textual amendment: Reg. 7 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/2)
+[^c-d970de4b6c0a6b5098e84ae101d85d80]: Textual amendment: Reg. 7 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/2)
 
-[^key-e7f2fba7b04033967583ea9ce0e89c40]: Commencement: Reg. 8 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-e7f2fba7b04033967583ea9ce0e89c40]: Commencement: Reg. 8 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-45947bf8d57e9dce4c33075016d33c3e]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/b)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-45947bf8d57e9dce4c33075016d33c3e]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/b)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-cb6bffbce2291e45eb8c5a0a4f129a28]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/c)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-cb6bffbce2291e45eb8c5a0a4f129a28]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/c)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-26b9abf8ddbba5f91338813cb5cb3101]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/a)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-26b9abf8ddbba5f91338813cb5cb3101]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/a)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-33fb116e479628b28f5a81444a050620]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/d)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-33fb116e479628b28f5a81444a050620]: Textual amendment: Word in reg. 8 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/d)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-86bdc27f939cd22771e6936c3e935efb]: Commencement: Reg. 9 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-86bdc27f939cd22771e6936c3e935efb]: Commencement: Reg. 9 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-7fd07a556d96ce34bf5280566dd09b54]: Textual amendment: Word in reg. 9 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/c)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-7fd07a556d96ce34bf5280566dd09b54]: Textual amendment: Word in reg. 9 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/c)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-423b7c165149d5f46d3829a8f96eb427]: Commencement: Reg. 10 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-423b7c165149d5f46d3829a8f96eb427]: Commencement: Reg. 10 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-8c81890e0550409aebd1e81cb614a15b]: Textual amendment: Words in reg. 10(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/3)
+[^c-8c81890e0550409aebd1e81cb614a15b]: Textual amendment: Words in reg. 10(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/3)
 
-[^key-aaf952d8110c58835b43f29c713e6f64]: Commencement: Reg. 11 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-aaf952d8110c58835b43f29c713e6f64]: Commencement: Reg. 11 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-e4d12dc8c183e9927d3d70d7c9de50ab]: Commencement: Reg. 12 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-e4d12dc8c183e9927d3d70d7c9de50ab]: Commencement: Reg. 12 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
 [^c24287531]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-e81855fcd5d1ffda2c4b845e89e33a7e]: Textual amendment: Word in Pt. 2 Ch. 3 heading substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/b)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-e81855fcd5d1ffda2c4b845e89e33a7e]: Textual amendment: Word in Pt. 2 Ch. 3 heading substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/b)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-b736fed209582227f0ddf624c4387ce3]: Commencement: Reg. 13 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-b736fed209582227f0ddf624c4387ce3]: Commencement: Reg. 13 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-2344d646f67d4b61ba2db349a738a239]: Textual amendment: Word in reg. 13 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/c)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
+[^c-2344d646f67d4b61ba2db349a738a239]: Textual amendment: Word in reg. 13 substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/6/c)[(7)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/7)
 
-[^key-1ebcdd419ff7c7c6ae96f4b3f48a60bf]: Commencement: Reg. 14 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-1ebcdd419ff7c7c6ae96f4b3f48a60bf]: Commencement: Reg. 14 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
 [^c24287541]: Marginal citation: [S.I. 2020/334](https://www.legislation.gov.uk/uksi/2020/334) (W. 76), revoked by [S.I. 2020/353](https://www.legislation.gov.uk/uksi/2020/353) (W. 80).
 
@@ -691,50 +691,50 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24287601]: Marginal citation: Section 1(1) was amended by section 303(2)(a) of the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-839d6ecbbba4924f68f07d48bd92182c]: Commencement: Reg. 15 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-839d6ecbbba4924f68f07d48bd92182c]: Commencement: Reg. 15 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-ace26a018ec5988aa843976166a5e88c]: Commencement: Reg. 16 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-ace26a018ec5988aa843976166a5e88c]: Commencement: Reg. 16 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-61fb633c7df137c11ca39d639c55a45a]: Textual amendment: Word in reg. 16(1)(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/a)
+[^c-61fb633c7df137c11ca39d639c55a45a]: Textual amendment: Word in reg. 16(1)(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/a)
 
-[^key-2263b114f39f33a93fca73a536e99928]: Textual amendment: Words in reg. 16(5) inserted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/b)
+[^c-2263b114f39f33a93fca73a536e99928]: Textual amendment: Words in reg. 16(5) inserted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/b)
 
-[^key-298e30b51b874a119bdaf3509222b1ff]: Textual amendment: Reg. 16(5A) inserted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/c)
+[^c-298e30b51b874a119bdaf3509222b1ff]: Textual amendment: Reg. 16(5A) inserted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/c)
 
-[^key-98b4d679d03eeee4cb7f40aa0af3f820]: Textual amendment: Words in reg. 16(6)(a) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(d)(i)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/d/i)
+[^c-98b4d679d03eeee4cb7f40aa0af3f820]: Textual amendment: Words in reg. 16(6)(a) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(d)(i)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/d/i)
 
-[^key-1636feaf384bc7fcfc871fdec310ca4c]: Textual amendment: Words in reg. 16(6)(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/d/ii)
+[^c-1636feaf384bc7fcfc871fdec310ca4c]: Textual amendment: Words in reg. 16(6)(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/d/ii)
 
-[^key-7035ba49b84ad5358053f3fd87f27c3e]: Textual amendment: Words in reg. 16(7) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/e)
+[^c-7035ba49b84ad5358053f3fd87f27c3e]: Textual amendment: Words in reg. 16(7) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/4/e)
 
-[^key-6777180a2b239639e3eb00307ab161f4]: Commencement: Reg. 17 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-6777180a2b239639e3eb00307ab161f4]: Commencement: Reg. 17 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-80571041213016d680a4e7154a1874fa]: Textual amendment: Reg. 17(4) inserted (4.12.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020 (S.I. 2020/1409)](https://www.legislation.gov.uk/wsi/2020/1409), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/3/4)
+[^c-80571041213016d680a4e7154a1874fa]: Textual amendment: Reg. 17(4) inserted (4.12.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020 (S.I. 2020/1409)](https://www.legislation.gov.uk/wsi/2020/1409), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/3/4)
 
-[^key-402f0a1d02ec280a3f9cbe28a26f52e0]: Commencement: Reg. 18 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-402f0a1d02ec280a3f9cbe28a26f52e0]: Commencement: Reg. 18 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-ff6c22ba8cf0be98576e96cea9a31e37]: Textual amendment: Word in reg. 18(1)(a) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/5/a)
+[^c-ff6c22ba8cf0be98576e96cea9a31e37]: Textual amendment: Word in reg. 18(1)(a) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/5/a)
 
-[^key-607d3b12721e6a9d0a39cdbe50a868d8]: Textual amendment: Word in reg. 18(1)(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/5/b)
+[^c-607d3b12721e6a9d0a39cdbe50a868d8]: Textual amendment: Word in reg. 18(1)(b) substituted (12.10.2020) by [The Health Protection (Coronavirus Restrictions) (Functions of Local Authorities etc.) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1100)](https://www.legislation.gov.uk/wsi/2020/1100), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1100/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2020/1100/regulation/2/5/b)
 
 [^c24287611]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60). Section 24 was substituted by section 110(1) of the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
 [^c24287621]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86).
 
-[^key-d7711e8e7fb945d7faf8470b763e25f6]: Commencement: Reg. 19 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-d7711e8e7fb945d7faf8470b763e25f6]: Commencement: Reg. 19 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-ff52f4780e0fc23e6431ae7992f4576a]: Textual amendment: Reg. 19(10)(c) inserted (23.10.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020 (S.I. 2020/1149)](https://www.legislation.gov.uk/wsi/2020/1149), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/1/3), [35(1)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/1149/regulation/2)); and reg. 19(10)(c) also expressed to be inserted (4.12.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020 (S.I. 2020/1409)](https://www.legislation.gov.uk/wsi/2020/1409), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/3/5)
+[^c-ff52f4780e0fc23e6431ae7992f4576a]: Textual amendment: Reg. 19(10)(c) inserted (23.10.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020 (S.I. 2020/1149)](https://www.legislation.gov.uk/wsi/2020/1149), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/1/3), [35(1)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/1149/regulation/2)); and reg. 19(10)(c) also expressed to be inserted (4.12.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020 (S.I. 2020/1409)](https://www.legislation.gov.uk/wsi/2020/1409), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/3/5)
 
-[^key-67b485ec9dd02f3d04f64746b5b85ab6]: Textual amendment: Reg. 19(10)(d) inserted (9.11.2020) by [The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020 (S.I. 2020/1219)](https://www.legislation.gov.uk/wsi/2020/1219), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1219/regulation/1/3), [48](https://www.legislation.gov.uk/wsi/2020/1219/regulation/48) (with [reg. 3](https://www.legislation.gov.uk/wsi/2020/1219/regulation/3))
+[^c-67b485ec9dd02f3d04f64746b5b85ab6]: Textual amendment: Reg. 19(10)(d) inserted (9.11.2020) by [The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020 (S.I. 2020/1219)](https://www.legislation.gov.uk/wsi/2020/1219), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1219/regulation/1/3), [48](https://www.legislation.gov.uk/wsi/2020/1219/regulation/48) (with [reg. 3](https://www.legislation.gov.uk/wsi/2020/1219/regulation/3))
 
-[^key-f6ba20011e35067607de26bce03e976d]: Textual amendment: Reg. 19(10)(e) inserted (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/wsi/2020/1609), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3), [59](https://www.legislation.gov.uk/wsi/2020/1609/regulation/59) (as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), regs. 1(2), 2(2))
+[^c-f6ba20011e35067607de26bce03e976d]: Textual amendment: Reg. 19(10)(e) inserted (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/wsi/2020/1609), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3), [59](https://www.legislation.gov.uk/wsi/2020/1609/regulation/59) (as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), regs. 1(2), 2(2))
 
-[^key-a809cff94fdc1e20925fded7da41eb70]: Commencement: Reg. 20 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-a809cff94fdc1e20925fded7da41eb70]: Commencement: Reg. 20 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
-[^key-271203f695d50ddaa477294ebb47b2be]: Textual amendment: Words in reg. 20 inserted (4.12.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020 (S.I. 2020/1409)](https://www.legislation.gov.uk/wsi/2020/1409), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/3/6)
+[^c-271203f695d50ddaa477294ebb47b2be]: Textual amendment: Words in reg. 20 inserted (4.12.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions and Functions of Local Authorities) (Amendment) (Wales) Regulations 2020 (S.I. 2020/1409)](https://www.legislation.gov.uk/wsi/2020/1409), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2020/1409/regulation/3/6)
 
-[^key-942695450aee4215bc30dfa4c5adae50]: Commencement: Reg. 21 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-942695450aee4215bc30dfa4c5adae50]: Commencement: Reg. 21 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
 
 [^c24287631]: Marginal citation: [S.I. 2020/984](https://www.legislation.gov.uk/uksi/2020/984) (W. 221).
 
-[^key-dec1fdd2fc4481c65272223cc224d112]: Commencement: Reg. 22 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)
+[^c-dec1fdd2fc4481c65272223cc224d112]: Commencement: Reg. 22 in force at 18.9.2020 at 12.01 a.m., see reg. 1(3)

@@ -94,7 +94,7 @@ Section 39
 
 **6.** (1) Section 549 (distributions: supplementary) is amended as follows.
 
-(2) In subsection[^key-7f2a70ef2f97a05e6576b31106185bfe] (2A) after “shareholder” insert “ so far as they are distributions of exempt profits ”.
+(2) In subsection[^c-7f2a70ef2f97a05e6576b31106185bfe] (2A) after “shareholder” insert “ so far as they are distributions of exempt profits ”.
 
 (3) After subsection (3) insert—
 
@@ -179,4 +179,4 @@ Section 39
 
 ## Annotations
 
-[^key-7f2a70ef2f97a05e6576b31106185bfe]: Textual amendment: Word in Sch. 19 para. 6(2) substituted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/a)
+[^c-7f2a70ef2f97a05e6576b31106185bfe]: Textual amendment: Word in Sch. 19 para. 6(2) substituted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/a)

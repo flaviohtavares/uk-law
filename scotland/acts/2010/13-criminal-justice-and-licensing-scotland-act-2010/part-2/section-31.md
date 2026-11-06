@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Failure to report serious organised crime[^key-c17d48972076b196a84ecc3b18b1cb5f]
+## 31. Failure to report serious organised crime[^c-c17d48972076b196a84ecc3b18b1cb5f]
 
 *Extent: S*
 
@@ -49,7 +49,7 @@ summary: ''
 - (b) from a person seeking legal advice from the adviser (or from that person's representative), or
 - (c) from a person, for the purpose of actual or contemplated legal proceedings.
 
-(7)[^key-896ff2d5eb562040680e0ed723f9e2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-896ff2d5eb562040680e0ed723f9e2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) A person guilty of an offence under this section is liable—
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c17d48972076b196a84ecc3b18b1cb5f]: Commencement: S. 31 in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-c17d48972076b196a84ecc3b18b1cb5f]: Commencement: S. 31 in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-896ff2d5eb562040680e0ed723f9e2de]: Textual amendment: [S. 31(7)](https://www.legislation.gov.uk/asp/2010/13/section/31/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-896ff2d5eb562040680e0ed723f9e2de]: Textual amendment: [S. 31(7)](https://www.legislation.gov.uk/asp/2010/13/section/31/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

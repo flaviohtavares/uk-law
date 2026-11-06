@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Meaning of “listed investment”[^key-00ad310c56c0873edb082d66fa333fa0]
+## 242. Meaning of “listed investment”[^c-00ad310c56c0873edb082d66fa333fa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In paragraph 15 of Schedule 2 to the Registered Housing Associations (Accounting
 
 ## Annotations
 
-[^key-00ad310c56c0873edb082d66fa333fa0]: Commencement: Art. 242 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-00ad310c56c0873edb082d66fa333fa0]: Commencement: Art. 242 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

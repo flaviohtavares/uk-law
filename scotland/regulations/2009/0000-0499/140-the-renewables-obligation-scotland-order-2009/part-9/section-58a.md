@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 58A. Registration of offshore wind turbines[^key-b97971e192f744b6f55c9d6924f1a73a]
+## 58A. Registration of offshore wind turbines[^c-b97971e192f744b6f55c9d6924f1a73a]
 
 (1) This article applies to a generating station which—
 
@@ -30,13 +30,13 @@ summary: ''
 - (a) identify the location, or the proposed location, of the wind turbine; and
 - (b) specify the total installed capacity of the wind turbine.
 
-(3A)[^key-3ebbbc90c7edecfe94694045a4af51f7] An application to register one or more wind turbines under this article must be accompanied by—
+(3A)[^c-3ebbbc90c7edecfe94694045a4af51f7] An application to register one or more wind turbines under this article must be accompanied by—
 
 - (a) one of the documents referred to in article 58B(5)(a);
 - (b) one of the documents referred to in article 58B(5)(b); and
 - (c) a declaration made in writing from the operator of the generating station that the national system operator has been sent a copy of the application.
 
-(4) Following receipt of an application meeting the requirements of paragraphs (3) and (3A)[^key-db72e3ad95a7b0d9589f048aeb7c4711], the Authority must register the wind turbines to which the application relates if the Authority is satisfied that—
+(4) Following receipt of an application meeting the requirements of paragraphs (3) and (3A)[^c-db72e3ad95a7b0d9589f048aeb7c4711], the Authority must register the wind turbines to which the application relates if the Authority is satisfied that—
 
 - (a) where the station was accredited before 1st April 2011, the wind turbines are registrable additional turbines;
 - (b) where the wind turbines are registrable additional turbines—
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b97971e192f744b6f55c9d6924f1a73a]: Textual amendment: Art. 58A inserted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [15](https://www.legislation.gov.uk/ssi/2011/225/article/15) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))
+[^c-b97971e192f744b6f55c9d6924f1a73a]: Textual amendment: Art. 58A inserted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [15](https://www.legislation.gov.uk/ssi/2011/225/article/15) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))
 
-[^key-3ebbbc90c7edecfe94694045a4af51f7]: Textual amendment: Art. 58A(3A) inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [22(2)](https://www.legislation.gov.uk/ssi/2014/94/article/22/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-3ebbbc90c7edecfe94694045a4af51f7]: Textual amendment: Art. 58A(3A) inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [22(2)](https://www.legislation.gov.uk/ssi/2014/94/article/22/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-db72e3ad95a7b0d9589f048aeb7c4711]: Textual amendment: Words in art. 58A(4) substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [22(3)](https://www.legislation.gov.uk/ssi/2014/94/article/22/3) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-db72e3ad95a7b0d9589f048aeb7c4711]: Textual amendment: Words in art. 58A(4) substituted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [22(3)](https://www.legislation.gov.uk/ssi/2014/94/article/22/3) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

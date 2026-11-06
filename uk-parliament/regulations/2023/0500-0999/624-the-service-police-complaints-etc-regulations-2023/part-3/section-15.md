@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Recording of complaints: copies of complaints etc.[^key-52b1ff703030f775b7b19431e5e923f2]
+## 15. Recording of complaints: copies of complaints etc.[^c-52b1ff703030f775b7b19431e5e923f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52b1ff703030f775b7b19431e5e923f2]: Commencement: Reg. 15 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-52b1ff703030f775b7b19431e5e923f2]: Commencement: Reg. 15 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

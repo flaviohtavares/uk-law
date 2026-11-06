@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Children born after the member’s death[^key-d2f902094100c3d9ca68ebc94c7310ab]
+## 75. Children born after the member’s death[^c-d2f902094100c3d9ca68ebc94c7310ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f902094100c3d9ca68ebc94c7310ab]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/2336/regulation/75) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d2f902094100c3d9ca68ebc94c7310ab]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/2336/regulation/75) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

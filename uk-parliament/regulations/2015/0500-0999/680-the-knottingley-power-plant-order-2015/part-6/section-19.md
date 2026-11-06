@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Compulsory acquisition of land – incorporation of the minerals code[^key-552f6add1073a9a08511ddeea8c9180b]
+## 19. Compulsory acquisition of land – incorporation of the minerals code[^c-552f6add1073a9a08511ddeea8c9180b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981 (minerals) are i
 
 ## Annotations
 
-[^key-552f6add1073a9a08511ddeea8c9180b]: Commencement: Art. 19 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-552f6add1073a9a08511ddeea8c9180b]: Commencement: Art. 19 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

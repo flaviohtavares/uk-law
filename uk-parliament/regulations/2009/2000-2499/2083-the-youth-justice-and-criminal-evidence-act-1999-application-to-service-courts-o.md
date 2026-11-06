@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 61(1) and (2) of the Youth Justice and Criminal Evidence Act 1999[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-7ec03b78dbdb9f000bcd32bb78261636]
+## 1. Citation and commencement[^c-7ec03b78dbdb9f000bcd32bb78261636]
 
 This Order may be cited as the Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 and shall come into force on 31<sup>st</sup> October 2009.
 
-## 2. Interpretation[^key-33de6001972f420aef3a75d5f4374cdd]
+## 2. Interpretation[^c-33de6001972f420aef3a75d5f4374cdd]
 
 (1) In this Order—
 
@@ -58,7 +58,7 @@ This Order may be cited as the Youth Justice and Criminal Evidence Act 1999 (App
 - “the 2006 Act” means the Armed Forces Act 2006[^f00002];
 - “Court Martial Rules” means rules made under section 163 of the 2006 Act;
 - “CMAC Rules” means rules made under section 49 of the Court Martial Appeals Act 1968[^f00003];
-- “SAC Rules” means rules made under section 151 of the 2006 Act;[^key-7c07a23ceed03357646cd2136255d865]
+- “SAC Rules” means rules made under section 151 of the 2006 Act;[^c-7c07a23ceed03357646cd2136255d865]
 - “SCC Rules” means rules made under section 288 of the 2006 Act;
 - “the competence of witnesses and capacity to be sworn provisions” has the meaning given by article 9(4);
 - “the general and final provisions” has the meaning given by article 11(2);
@@ -68,8 +68,8 @@ This Order may be cited as the Youth Justice and Criminal Evidence Act 1999 (App
 - “the protection of witnesses from cross-examination provisions” has the meaning given by article 5(3);
 - “Rules of court” means rules of evidence and procedure for proceedings before—
   - (a) the Court Martial;
-  - (b) the Service Civilian Court; [^key-31ff1519ff75f6b2fb6f68766477d8a7]...
-  - (c) the Court Martial Appeal Court; and[^key-e4e9ab9881eff8f3c9d598757249cc7e]
+  - (b) the Service Civilian Court; [^c-31ff1519ff75f6b2fb6f68766477d8a7]...
+  - (c) the Court Martial Appeal Court; and[^c-e4e9ab9881eff8f3c9d598757249cc7e]
   - (d) the Summary Appeal Court;
 - “the special measures provisions” has the meaning given by article 3(3).
 
@@ -77,23 +77,23 @@ This Order may be cited as the Youth Justice and Criminal Evidence Act 1999 (App
 
 - (a) in relation to proceedings before the Court Martial, as a reference to a special measures direction within the meaning of Court Martial Rules;
 - (b) in relation to proceedings before the Service Civilian Court, as a reference to a special measures direction within the meaning of SCC Rules;
-- (c) in relation to proceedings before the Court Martial Appeal Court, as a reference to a direction under section 19 of the Act ;[^key-e359a0a11a558b6e1038c17a139b3f07]
-- (d)[^key-04b2c053ad5148cbfc3a829f9e6a5cc8] in relation to proceedings before the Summary Appeal Court, as a reference to a special measures direction within the meaning of the SAC Rules.
+- (c) in relation to proceedings before the Court Martial Appeal Court, as a reference to a direction under section 19 of the Act ;[^c-e359a0a11a558b6e1038c17a139b3f07]
+- (d)[^c-04b2c053ad5148cbfc3a829f9e6a5cc8] in relation to proceedings before the Summary Appeal Court, as a reference to a special measures direction within the meaning of the SAC Rules.
 
-## 3. Application of special measures provisions[^key-93fb6571ff6428788e2dc3c45862f31c]
+## 3. Application of special measures provisions[^c-93fb6571ff6428788e2dc3c45862f31c]
 
-(1) The special measures provisions in paragraph (3)(a) to (ga)[^key-bd0fac065694c27aa76bdf63ab286c77], (i), (k), (n), (nb),[^key-6bdfe2ea94aa4cf98f0f9a12b6bced4e] (p) and (s) shall apply in relation to proceedings before the Court Martial Appeal Court as they apply in relation to criminal proceedings, subject to the modifications specified in article 4.
+(1) The special measures provisions in paragraph (3)(a) to (ga)[^c-bd0fac065694c27aa76bdf63ab286c77], (i), (k), (n), (nb),[^c-6bdfe2ea94aa4cf98f0f9a12b6bced4e] (p) and (s) shall apply in relation to proceedings before the Court Martial Appeal Court as they apply in relation to criminal proceedings, subject to the modifications specified in article 4.
 
 (2) The special measures provisions in paragraph (3)(h), (j), (l), (m), (o), (q) and (r) shall apply in relation to proceedings before—
 
 - (a) the Court Martial,
-- (b) the Service Civilian Court, [^key-1129cb2096ede9be27427fd7aa906422]...
-- (c) the Court Martial Appeal Court, and[^key-f1ad15ede3603726d927b84582094ccd]
+- (b) the Service Civilian Court, [^c-1129cb2096ede9be27427fd7aa906422]...
+- (c) the Court Martial Appeal Court, and[^c-f1ad15ede3603726d927b84582094ccd]
 - (d) the Summary Appeal Court,
 
 as they apply in relation to criminal proceedings, subject to the modifications specified in article 4.
 
-(2A)[^key-8e6481b09ebba4828cee50b7155abab6] The special measures provision in paragraph (3)(na) applies in relation to proceedings before—
+(2A)[^c-8e6481b09ebba4828cee50b7155abab6] The special measures provision in paragraph (3)(na) applies in relation to proceedings before—
 
 - (a) the Court Martial,
 - (b) the Service Civilian Court, and
@@ -110,7 +110,7 @@ as it applies in relation to criminal proceedings, subject to the modifications 
 - (e) section 20 (further provisions about directions: general);
 - (f) section 21 (special provisions relating to child witnesses);
 - (g) section 22 (extension of provisions of section 21 to certain witnesses over 17);
-- (ga)[^key-f4ba4f7bba250f51f402c44ac313dd2f] section 22A (special provision relating to sexual offences);
+- (ga)[^c-f4ba4f7bba250f51f402c44ac313dd2f] section 22A (special provision relating to sexual offences);
 - (h) section 23 (screening witness from accused);
 - (i) section 24(1) to (4) and (8) (evidence by live link);
 - (j) section 25(1) to (3) and (5) (evidence given in private);
@@ -118,7 +118,7 @@ as it applies in relation to criminal proceedings, subject to the modifications 
 - (l) section 26 (removal of wigs and gowns);
 - (m) section 27(1) and (11) (video recorded evidence in chief);
 - (n) section 27(2) to (9) (video recorded evidence in chief);
-- (na)[^key-683c972c923416a88a3d2c274a3d25dd] section 28(1) (video recorded cross-examination or re-examination);
+- (na)[^c-683c972c923416a88a3d2c274a3d25dd] section 28(1) (video recorded cross-examination or re-examination);
 - (nb) section 28(2) to (7) (video recorded cross-examination or re-examination);
 - (o) section 29(1), (2) and (5) to (7) (examination of witness through intermediary);
 - (p) section 29(3) and (4) (examination of witness through intermediary);
@@ -126,13 +126,13 @@ as it applies in relation to criminal proceedings, subject to the modifications 
 - (r) section 31 (status of evidence given under Chapter 1 of Part 2 of the Act); and
 - (s) section 33 (interpretation etc of Chapter 1).
 
-## 4. Modification of special measures provisions[^key-c676b59b7b9c094e01d2a65726ddd5f1]
+## 4. Modification of special measures provisions[^c-c676b59b7b9c094e01d2a65726ddd5f1]
 
 (1) In their application by virtue of article 3, the special measures provisions are modified as follows.
 
 (2) Any reference to a special measures direction has the same meaning as in this Order.
 
-(3) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^key-98cc41fffe6052f493b72665898d4973].
+(3) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^c-98cc41fffe6052f493b72665898d4973].
 
 (4) Any reference to the witness is to be read as a reference to the witness to whose evidence the special measures direction applies.
 
@@ -144,15 +144,15 @@ as it applies in relation to criminal proceedings, subject to the modifications 
 
   as a reference to the defendant;
 - (b) in relation to appellate proceedings within the meaning of Court Martial Rules, as a reference to the appellant;
-- (c) in relation to proceedings before the Court Martial Appeal Court, as a reference to the person charged with an offence to which the proceedings relate (whether or not he has been convicted) ;[^key-548c6fc5004933c31cb289f0242827b2]
-- (d)[^key-c347ffad9d68879c456af2f15fae05c4] in relation to proceedings within the meaning of the SAC Rules, as a reference to the appellant.
+- (c) in relation to proceedings before the Court Martial Appeal Court, as a reference to the person charged with an offence to which the proceedings relate (whether or not he has been convicted) ;[^c-548c6fc5004933c31cb289f0242827b2]
+- (d)[^c-c347ffad9d68879c456af2f15fae05c4] in relation to proceedings within the meaning of the SAC Rules, as a reference to the appellant.
 
 (6) Any reference to—
 
 - (a) the court (except in section 25(1) of the Act), or
 - (b) the judge,
 
-is to be read, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-561d172c46c1189d926a87f8494834e1], as a reference to the judge advocate.
+is to be read, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-561d172c46c1189d926a87f8494834e1], as a reference to the judge advocate.
 
 (7) Any reference to Criminal Procedure Rules is to be read as a reference to Rules of court.
 
@@ -162,19 +162,19 @@ is to be read, in relation to proceedings before the Court Martial , the Service
 
 (10) Sections 21(1)(b) and 22(1)(b) of the Act have effect as if after the words “relate is” wherever they occur there were inserted “an offence under section 42 of the Armed Forces Act 2006 to which the corresponding offence under the law of England and Wales (within the meaning of that Act) is”.
 
-(10A)[^key-a27c7213f3f3805c522cd041d751d43d] Section 22A of the Act has effect in relation to proceedings before the Court Martial Appeal Court as if—
+(10A)[^c-a27c7213f3f3805c522cd041d751d43d] Section 22A of the Act has effect in relation to proceedings before the Court Martial Appeal Court as if—
 
 - (a) in subsection (1) the reference to a sexual offence included an offence under section 42 of the 2006 Act (criminal conduct) as respects which the corresponding offence under the law of England and Wales is an offence referred to in section 62(1)(b) of the Act; and
 - (b) in subsection (2) for the words “if the place of trial is a magistrates’ court” there were substituted the words “if the corresponding offence in respect of that offence for the purposes of section 42 is a summary offence under the law of England and Wales”.
 
 (11) Section 23(2)(a) of the Act has effect, in relation to proceedings before—
 
-- (a) the Court Martial or the Summary Appeal Court[^key-24bdd6afceffa556c83945af4617781c] as if for the words “or justices (or both) and the jury (if there is one)” there were substituted “and any lay members”;
+- (a) the Court Martial or the Summary Appeal Court[^c-24bdd6afceffa556c83945af4617781c] as if for the words “or justices (or both) and the jury (if there is one)” there were substituted “and any lay members”;
 - (b) the Service Civilian Court or the Court Martial Appeal Court as if the words “or justices (or both) and the jury (if there is one)” were omitted.
 
-(12) Section 24(3)(b) of the Act has effect in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-83ef5bce397276b73d6543b56cc01b80] as if for the word “its” there was substituted “his”.
+(12) Section 24(3)(b) of the Act has effect in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-83ef5bce397276b73d6543b56cc01b80] as if for the word “its” there was substituted “his”.
 
-(13) Section 27(7)(b) of the Act has effect in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-2f89dd7a2605dbab42e43c07d83a5185] as if for the word “its” there was substituted “his”.
+(13) Section 27(7)(b) of the Act has effect in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-2f89dd7a2605dbab42e43c07d83a5185] as if for the word “its” there was substituted “his”.
 
 (14) In section 29 to 31 of the Act, references to a witness include a defendant or appellant who gives evidence.
 
@@ -184,9 +184,9 @@ is to be read, in relation to proceedings before the Court Martial , the Service
 - (b) the word “and” at the end of paragraph (a) was omitted; and
 - (c) paragraph (b) was omitted.
 
-(16) Section 29(6) of the Act has effect in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-042fb497e46f3807010380675c3ff847] as if for the word “court’s” there was substituted “judge advocate’s”.
+(16) Section 29(6) of the Act has effect in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-042fb497e46f3807010380675c3ff847] as if for the word “court’s” there was substituted “judge advocate’s”.
 
-## 5. Application of protection of witnesses from cross-examination provisions[^key-7084cb3af7670db9c7fbbb42d3e07949]
+## 5. Application of protection of witnesses from cross-examination provisions[^c-7084cb3af7670db9c7fbbb42d3e07949]
 
 (1) The protection of witnesses from cross-examination provisions in paragraph (3)(a) to (e) shall apply in relation to proceedings before—
 
@@ -194,7 +194,7 @@ is to be read, in relation to proceedings before the Court Martial , the Service
 - (b) the Service Civilian Court, and
 - (c) the Court Martial Appeal Court,
 
-(1A)[^key-ebe12e24fef1d784bec261acd3b58dda] The protection of witnesses from cross-examination provisions in paragraph (3)(b) to (e) shall apply in relation to proceedings before the Summary Appeal Court as they apply in relation to criminal proceedings, subject to the modifications specified in article 6.
+(1A)[^c-ebe12e24fef1d784bec261acd3b58dda] The protection of witnesses from cross-examination provisions in paragraph (3)(b) to (e) shall apply in relation to proceedings before the Summary Appeal Court as they apply in relation to criminal proceedings, subject to the modifications specified in article 6.
 
 as they apply in relation to criminal proceedings, subject to the modifications specified in article 6.
 
@@ -209,18 +209,18 @@ as they apply in relation to criminal proceedings, subject to the modifications 
 - (e) section 38 (defence representation for purposes of cross-examination); and
 - (f) section 39 (warning to jury).
 
-## 6. Modification of protection of witnesses from cross-examination provisions[^key-134e7aa16b98b1abf90bb04acbc10323]
+## 6. Modification of protection of witnesses from cross-examination provisions[^c-134e7aa16b98b1abf90bb04acbc10323]
 
 (1) In their application by virtue of article 5, the protection of witnesses from cross-examination provisions are modified as follows.
 
-(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^key-e75306f6dd787d152d8dd3ef00068203].
+(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^c-e75306f6dd787d152d8dd3ef00068203].
 
 (3) Any reference to—
 
 - (a) the court, or
 - (b) the judge,
 
-is to be read, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-9a28eb77438b15866c5bceb0145e2afc], as a reference to the judge advocate.
+is to be read, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-9a28eb77438b15866c5bceb0145e2afc], as a reference to the judge advocate.
 
 (4) Any reference to the accused is to be read—
 
@@ -230,26 +230,26 @@ is to be read, in relation to proceedings before the Court Martial , the Service
 
   as a reference to the defendant;
 - (b) in relation to appellate proceedings within the meaning of Court Martial Rules, as a reference to the appellant;
-- (c) in relation to proceedings before the Court Martial Appeal Court, as a reference to the person charged with an offence to which the proceedings relate (whether or not he has been convicted) ;[^key-0f252f5054a1276443c940f3a06a3fff]
-- (d)[^key-155da995273ae40147cee4eded768c4f] in relation to proceedings before the Summary Appeal Court, as a reference to the appellant.
+- (c) in relation to proceedings before the Court Martial Appeal Court, as a reference to the person charged with an offence to which the proceedings relate (whether or not he has been convicted) ;[^c-0f252f5054a1276443c940f3a06a3fff]
+- (d)[^c-155da995273ae40147cee4eded768c4f] in relation to proceedings before the Summary Appeal Court, as a reference to the appellant.
 
 (5) Any reference to Criminal Procedure Rules is to be read as a reference to Rules of court.
 
-(6) Any reference to the jury is to be read, in relation to proceedings with lay members (within the meaning of Court Martial Rules or the SAC Rules[^key-c82132a07d568c4476f23c44f580c8be]), as a reference to those lay members.
+(6) Any reference to the jury is to be read, in relation to proceedings with lay members (within the meaning of Court Martial Rules or the SAC Rules[^c-c82132a07d568c4476f23c44f580c8be]), as a reference to those lay members.
 
 (7) Section 35(3) of the Act has effect as if for the words “The offences to which this section applies are—” there were substituted “This section applies to any offence under section 42 of the Armed Forces Act 2006 to which the corresponding offence under the law of England and Wales (within the meaning of that Act) is—” and for the word “any” in paragraph (a) there was substituted “an”.
 
-(8) Section 36(1)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-735c1783f5cf94b116bf4623cca8b3e9], as if for the words “of its” there were substituted “of his”.
+(8) Section 36(1)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-735c1783f5cf94b116bf4623cca8b3e9], as if for the words “of its” there were substituted “of his”.
 
-(9) Section 37(2)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-9ad3987fdc11e9fff5a4ee6a05272527], as if for the word “its” there was substituted “his”.
+(9) Section 37(2)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-9ad3987fdc11e9fff5a4ee6a05272527], as if for the word “its” there was substituted “his”.
 
 (10) Section 37(4) of the Act has effect, in relation to proceedings before—
 
-- (a) the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-2fb9cbfb4c8bc215179a35a60e6c4948], as if for the word “its” there was substituted “his”;
-- (b) the Court Martial , the Court Martial Appeal Court or the Summary Appeal Court[^key-b32a61e73eca9e8d714b7795024dffe8], as if the words “and, if it is a magistrates’ court, must cause them to be entered in the register of its proceedings” were omitted;
+- (a) the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-2fb9cbfb4c8bc215179a35a60e6c4948], as if for the word “its” there was substituted “his”;
+- (b) the Court Martial , the Court Martial Appeal Court or the Summary Appeal Court[^c-b32a61e73eca9e8d714b7795024dffe8], as if the words “and, if it is a magistrates’ court, must cause them to be entered in the register of its proceedings” were omitted;
 - (c) the Service Civilian Court, as if for the words “and, if it is a magistrates’ court, must cause them to be entered in the register of its proceedings” there were substituted “and the judge advocate must cause them to be entered in the record of proceedings”.
 
-(11) Section 38(2) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-37133cbe4c64a4df17ed5469abd54bc3], as if for the words “it must” there were substituted “he must” and as if for the words “it may” there were substituted “he may”.
+(11) Section 38(2) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-37133cbe4c64a4df17ed5469abd54bc3], as if for the words “it must” there were substituted “he must” and as if for the words “it may” there were substituted “he may”.
 
 (12) Section 38(4) of the Act has effect as if the word “qualified” was omitted.
 
@@ -262,7 +262,7 @@ were omitted.
 
 (14) Section 39(1) of the Act has effect as if the words “on a trial on indictment with a jury” were omitted.
 
-## 7. Application of protection of complainants in proceedings for sexual offences provisions[^key-9cfbc68705563ab227e7c181d384a60b]
+## 7. Application of protection of complainants in proceedings for sexual offences provisions[^c-9cfbc68705563ab227e7c181d384a60b]
 
 (1) The protection of complainants in proceedings for sexual offences provisions shall apply in relation to proceedings before—
 
@@ -278,7 +278,7 @@ as they apply in relation to criminal proceedings, subject to the modifications 
 - (b) section 42(1) and (3) (interpretation and application of section 41); and
 - (c) section 43 (procedure on applications under section 41).
 
-## 8. Modification of protection of complainants in proceedings for sexual offences provisions[^key-4546b60b0cf69dbffc8ef4ef04d16218]
+## 8. Modification of protection of complainants in proceedings for sexual offences provisions[^c-4546b60b0cf69dbffc8ef4ef04d16218]
 
 (1) In their application by virtue of article 7, the protection of complainants in proceedings for sexual offences provisions are modified as follows.
 
@@ -319,26 +319,26 @@ were omitted.
 
 (10) Section 43(3)(b) of the Act has effect, in relation to proceedings before the Court Martial or the Service Civilian Court as if for the words “it considers would assist it” there were substituted “he considers would assist him”.
 
-## 9. Application of competence of witnesses and capacity to be sworn provisions[^key-0770dfc4a9c5bf3eb4af8ec6ba5615ec]
+## 9. Application of competence of witnesses and capacity to be sworn provisions[^c-0770dfc4a9c5bf3eb4af8ec6ba5615ec]
 
 (1) The competence of witnesses and capacity to be sworn provisions in paragraph (4)(a), (b), (e), (g), and (i) shall apply in relation to proceedings before—
 
 - (a) the Court Martial,
-- (b) the Service Civilian Court, [^key-1e6d49bd6d99c001baa53c44ab316173]...
-- (c) the Court Martial Appeal Court, and[^key-f13aafd3c41af8ce2e30fea60a434c86]
+- (b) the Service Civilian Court, [^c-1e6d49bd6d99c001baa53c44ab316173]...
+- (c) the Court Martial Appeal Court, and[^c-f13aafd3c41af8ce2e30fea60a434c86]
 - (d) the Summary Appeal Court,
 
 as they apply in relation to criminal proceedings, subject to the modifications specified in article 10.
 
 (2) The competence of witnesses and capacity to be sworn provisions in paragraph (4)(d) and (h) shall apply in relation to proceedings before—
 
-- (a) the Court Martial, [^key-c4e69d4498223a6d20a87048394db807]...
-- (b) the Service Civilian Court, and[^key-6ca3d1d4811b732a4910c36deb6ae7ef]
+- (a) the Court Martial, [^c-c4e69d4498223a6d20a87048394db807]...
+- (b) the Service Civilian Court, and[^c-6ca3d1d4811b732a4910c36deb6ae7ef]
 - (d) the Summary Appeal Court,
 
 as they apply in relation to criminal proceedings, subject to the modifications specified in article 10.
 
-(3) The competence of witnesses and capacity to be sworn provisions in paragraph (4)(c) and (f) shall apply, in relation to proceedings before the Court Martial or the Summary Appeal Court[^key-12a3ffed6bc4649c00bf0869682f8c60], as they apply in relation to criminal proceedings, subject to the modifications specified in article 10.
+(3) The competence of witnesses and capacity to be sworn provisions in paragraph (4)(c) and (f) shall apply, in relation to proceedings before the Court Martial or the Summary Appeal Court[^c-12a3ffed6bc4649c00bf0869682f8c60], as they apply in relation to criminal proceedings, subject to the modifications specified in article 10.
 
 (4) In this Order “the competence of witnesses and capacity to be sworn provisions” means the following provisions of the Act—
 
@@ -352,34 +352,34 @@ as they apply in relation to criminal proceedings, subject to the modifications 
 - (h) section 56(5) (reception of unsworn evidence); and
 - (i) section 57 (penalty for giving false unsworn evidence).
 
-## 10. Modification of competence of witnesses and capacity to be sworn provisions[^key-f29d2da3dba91585ee08bd443bc890b3]
+## 10. Modification of competence of witnesses and capacity to be sworn provisions[^c-f29d2da3dba91585ee08bd443bc890b3]
 
 (1) In their application by virtue of article 9, the competence of witnesses and capacity to be sworn provisions are modified as follows.
 
-(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^key-e11080efeadb850b18175eb0c8ddb70e].
+(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^c-e11080efeadb850b18175eb0c8ddb70e].
 
 (3) Any reference to the court is to be read—
 
-- (a) in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-8c1e0061e8c530d095675db821c576bc], as a reference to the judge advocate; or
+- (a) in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-8c1e0061e8c530d095675db821c576bc], as a reference to the judge advocate; or
 - (b) as a reference to the Court Martial Appeal Court.
 
-(4) Section 54(1)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-ef639a31dc8c83a17e47ed107fd7091d] as if for the word “its” there was substituted “his”.
+(4) Section 54(1)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-ef639a31dc8c83a17e47ed107fd7091d] as if for the word “its” there was substituted “his”.
 
-(5) Section 54(4) of the Act has effect, in relation to proceedings before the Court Martial or the Summary Appeal Court[^key-f780e7632705be3c4ccb1a38aaf1e5d1], as if for the words “jury (if there is one)” there were substituted “any lay members”.
+(5) Section 54(4) of the Act has effect, in relation to proceedings before the Court Martial or the Summary Appeal Court[^c-f780e7632705be3c4ccb1a38aaf1e5d1], as if for the words “jury (if there is one)” there were substituted “any lay members”.
 
-(6) Section 55(1)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-57af1e883e31cf02fb2796557fe8def5] as if for the word “its” there was substituted “his”.
+(6) Section 55(1)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-57af1e883e31cf02fb2796557fe8def5] as if for the word “its” there was substituted “his”.
 
-(7) Section 55(5) of the Act has effect, in relation to proceedings before the Court Martial or the Summary Appeal Court[^key-71f404f0de05d4fd0b2c08ec1ec80506], as if for the words “jury (if there is one)” there were substituted “any lay members”.
+(7) Section 55(5) of the Act has effect, in relation to proceedings before the Court Martial or the Summary Appeal Court[^c-71f404f0de05d4fd0b2c08ec1ec80506], as if for the words “jury (if there is one)” there were substituted “any lay members”.
 
-(8) Section 56(5) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-5e705cf1ae1cc8c6a17f0db72cb992ae], as if for the words “any of sections 2(1), 13(1) and 16(1) of the Criminal Appeal Act 1968” there were substituted “section 12(1) of the Courts-Martial (Appeals) Act 1968” and as if for the words “Court of Appeal” there were substituted “Court Martial Appeal Court”.
+(8) Section 56(5) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-5e705cf1ae1cc8c6a17f0db72cb992ae], as if for the words “any of sections 2(1), 13(1) and 16(1) of the Criminal Appeal Act 1968” there were substituted “section 12(1) of the Courts-Martial (Appeals) Act 1968” and as if for the words “Court of Appeal” there were substituted “Court Martial Appeal Court”.
 
-## 11. Application of general and final provisions[^key-72b46c9981dad0cba0390ca2a915bd50]
+## 11. Application of general and final provisions[^c-72b46c9981dad0cba0390ca2a915bd50]
 
 (1) The general and final provisions, so far as having effect for the purposes of Chapter 1 to 3 and 5 of Part 2 of the Act, shall apply in relation to proceedings before—
 
 - (a) the Court Martial,
-- (b) the Service Civilian Court, [^key-a2233186101c601110183370904c3e97]...
-- (c) the Court Martial Appeal Court, and[^key-fb173496232c5aba547a04953eeaafae]
+- (b) the Service Civilian Court, [^c-a2233186101c601110183370904c3e97]...
+- (c) the Court Martial Appeal Court, and[^c-fb173496232c5aba547a04953eeaafae]
 - (d) the Summary Appeal Court,
 
 as they apply in relation to criminal proceedings, subject to the modifications specified in article 12.
@@ -390,11 +390,11 @@ as they apply in relation to criminal proceedings, subject to the modifications 
 - (b) section 63 (general interpretation etc of Part 2); and
 - (c) section 65 (general supplementary provisions).
 
-## 12. Modification of general and final provisions[^key-57c09a629607626a912188cedae93747]
+## 12. Modification of general and final provisions[^c-57c09a629607626a912188cedae93747]
 
 (1) In their application by virtue of article 11, the general and final provisions are modified as follows.
 
-(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^key-361e7f221e0bbb3abf0a0c50c0da8cd2].
+(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^c-361e7f221e0bbb3abf0a0c50c0da8cd2].
 
 (3) Any reference to Criminal Procedure Rules is to be read as a reference to Rules of court.
 
@@ -409,36 +409,36 @@ as they apply in relation to criminal proceedings, subject to the modifications 
   ; and
 - (b) for the definition of “legal representative” there was substituted—
 
-  > - “legal representative” means a person appointed as a legal representative under the Court Martial Rules, the SCC Rules , the CMAC Rules or the SAC Rules[^key-b5742d008a831b7a196a5511e613cb0f];
+  > - “legal representative” means a person appointed as a legal representative under the Court Martial Rules, the SCC Rules , the CMAC Rules or the SAC Rules[^c-b5742d008a831b7a196a5511e613cb0f];
 
   .
 
 (6) Section 63(2) of the Act has effect as if for the word “court” there was substituted—
 
-- (a) in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-e4573166bb467b6e45f9e746ddc176b5], “judge advocate”; or
+- (a) in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-e4573166bb467b6e45f9e746ddc176b5], “judge advocate”; or
 - (b) in relation to proceedings before the Court Martial Appeal Court, “Court Martial Appeal Court”.
 
-(7) Section 65(3) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-02dcbcfeb9ccfba284609f5d5dbd54d3], as if for the word “court” there was substituted “judge advocate”.
+(7) Section 65(3) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-02dcbcfeb9ccfba284609f5d5dbd54d3], as if for the word “court” there was substituted “judge advocate”.
 
-## 13. Modification of reporting restrictions provisions[^key-1053f95a891526a6da085c1d3823e30f]
+## 13. Modification of reporting restrictions provisions[^c-1053f95a891526a6da085c1d3823e30f]
 
 (1) Chapter 4 of Part 2 (and sections 63 and 65 so far as having effect for the purposes of that Chapter) of the Act are modified as follows.
 
-(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^key-ba290ce76f80bc30d8a24c121cc5c8ea].
+(2) Any reference to criminal proceedings is to be read as a reference to proceedings before the Court Martial, the Service Civilian Court , the Court Martial Appeal Court or the Summary Appeal Court[^c-ba290ce76f80bc30d8a24c121cc5c8ea].
 
 (3) Any reference to Criminal Procedure Rules is to be read as a reference to Rules of court.
 
-(4) In relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-e359288bdcafb6e7d82617ab2eb05c90]—
+(4) In relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-e359288bdcafb6e7d82617ab2eb05c90]—
 
 - (a) section 45(3) to (6), (9) and (10)(b) of the Act,
-- (aa)[^key-3aa96d9ee91b3fa6b0da65281dca1dd8] section 45A(2), (5) to (11), (13) and (14) of the Act,
+- (aa)[^c-3aa96d9ee91b3fa6b0da65281dca1dd8] section 45A(2), (5) to (11), (13) and (14) of the Act,
 - (b) section 46(1) to (5) and (8) to (11) of the Act,
 - (c) section 47(2)(b)(ii) and (3) to (5) of the Act, and
 - (d) section 52(1) of the Act,
 
 have effect as if for the word “court” wherever it appears there were substituted “judge advocate”.
 
-(5) Section 45A(3)(a), (6)(d) and (7)(b), section 46(1) and (4)(d) and section 47(4) to (6)[^key-0b01ef4ec15f047ecac0d6a5d7b8a31b] of the Act have effect as if for the word “accused” wherever it appears there were substituted—
+(5) Section 45A(3)(a), (6)(d) and (7)(b), section 46(1) and (4)(d) and section 47(4) to (6)[^c-0b01ef4ec15f047ecac0d6a5d7b8a31b] of the Act have effect as if for the word “accused” wherever it appears there were substituted—
 
 - (a) in relation to—
   - (i) trial proceedings within the meaning of Court Martial Rules, or
@@ -447,19 +447,19 @@ have effect as if for the word “court” wherever it appears there were substi
 “defendant”;
 
 - (b) in relation to appellate proceedings within the meaning of Court Martial Rules, “appellant”;
-- (c) in relation to proceedings before the Court Martial Appeal Court, “person charged with an offence to which the proceedings relate (whether or not he has been convicted)” ;[^key-0011858ed64bc8779691153a870db81e]
-- (d)[^key-dad236514a46e145039adab52450dda5] in relation to proceedings before the Summary Appeal Court, “appellant”.
+- (c) in relation to proceedings before the Court Martial Appeal Court, “person charged with an offence to which the proceedings relate (whether or not he has been convicted)” ;[^c-0011858ed64bc8779691153a870db81e]
+- (d)[^c-dad236514a46e145039adab52450dda5] in relation to proceedings before the Summary Appeal Court, “appellant”.
 
-(6) Section 47(2)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-aac75831426c28f6c520289bb912d063], as if for the word “its” there was substituted “his”.
+(6) Section 47(2)(b) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-aac75831426c28f6c520289bb912d063], as if for the word “its” there was substituted “his”.
 
 (7) Section 63(2) of the Act has effect as if for the word “court” there was substituted—
 
-- (a) in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-c94e5b675f5e69c2836a71890b9374f5], “judge advocate”; or
+- (a) in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-c94e5b675f5e69c2836a71890b9374f5], “judge advocate”; or
 - (b) in relation to proceedings before the Court Martial Appeal Court, “Court Martial Appeal Court”.
 
-(8) Section 65(3) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^key-0507a7ecee278f390cc29945e5403925], as if for the word “court” there was substituted “judge advocate”.
+(8) Section 65(3) of the Act has effect, in relation to proceedings before the Court Martial , the Service Civilian Court or the Summary Appeal Court[^c-0507a7ecee278f390cc29945e5403925], as if for the word “court” there was substituted “judge advocate”.
 
-## 14. Revocations[^key-b97639bae5926a2434fd0f1ed56dc7fa]
+## 14. Revocations[^c-b97639bae5926a2434fd0f1ed56dc7fa]
 
 The following Orders are revoked—
 
@@ -499,155 +499,155 @@ Article 14 revokes three Orders which previously applied provisions of the Act (
 
 [^f00001]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 
-[^key-7ec03b78dbdb9f000bcd32bb78261636]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-7ec03b78dbdb9f000bcd32bb78261636]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-33de6001972f420aef3a75d5f4374cdd]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2083/article/2) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-33de6001972f420aef3a75d5f4374cdd]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2083/article/2) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
 [^f00002]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
 [^f00003]: Footnote: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20).
 
-[^key-7c07a23ceed03357646cd2136255d865]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/1) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/2)
+[^c-7c07a23ceed03357646cd2136255d865]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/1) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/2)
 
-[^key-31ff1519ff75f6b2fb6f68766477d8a7]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/1) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/3/a)
+[^c-31ff1519ff75f6b2fb6f68766477d8a7]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/1) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/3/a)
 
-[^key-e4e9ab9881eff8f3c9d598757249cc7e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/1) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/3/b)
+[^c-e4e9ab9881eff8f3c9d598757249cc7e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/1) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/3/b)
 
-[^key-e359a0a11a558b6e1038c17a139b3f07]: Textual amendment: [Art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/2/c): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/4/a)
+[^c-e359a0a11a558b6e1038c17a139b3f07]: Textual amendment: [Art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/2/c): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/4/a)
 
-[^key-04b2c053ad5148cbfc3a829f9e6a5cc8]: Textual amendment: [Art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/2/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/4/b)
+[^c-04b2c053ad5148cbfc3a829f9e6a5cc8]: Textual amendment: [Art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/2/2/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/3/4/b)
 
-[^key-93fb6571ff6428788e2dc3c45862f31c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2083/article/3) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-93fb6571ff6428788e2dc3c45862f31c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2083/article/3) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-bd0fac065694c27aa76bdf63ab286c77]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/1) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/a/i)
+[^c-bd0fac065694c27aa76bdf63ab286c77]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/1) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/a/i)
 
-[^key-6bdfe2ea94aa4cf98f0f9a12b6bced4e]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/1) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/a/ii)
+[^c-6bdfe2ea94aa4cf98f0f9a12b6bced4e]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/1) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/a/ii)
 
-[^key-1129cb2096ede9be27427fd7aa906422]: Textual amendment: Word in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/2/b) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/4/2)
+[^c-1129cb2096ede9be27427fd7aa906422]: Textual amendment: Word in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/2/b) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/4/2)
 
-[^key-f1ad15ede3603726d927b84582094ccd]: Textual amendment: [Art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/2/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/4/3)
+[^c-f1ad15ede3603726d927b84582094ccd]: Textual amendment: [Art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/2/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/4/3)
 
-[^key-8e6481b09ebba4828cee50b7155abab6]: Textual amendment: [Art. 3(2A)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/2A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/b)
+[^c-8e6481b09ebba4828cee50b7155abab6]: Textual amendment: [Art. 3(2A)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/2A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/b)
 
-[^key-f4ba4f7bba250f51f402c44ac313dd2f]: Textual amendment: [Art. 3(3)(ga)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/3/ga) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(c)(i)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/c/i)
+[^c-f4ba4f7bba250f51f402c44ac313dd2f]: Textual amendment: [Art. 3(3)(ga)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/3/ga) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(c)(i)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/c/i)
 
-[^key-683c972c923416a88a3d2c274a3d25dd]: Textual amendment: [Art. 3(3)(na)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/3/na)[(nb)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/3/nb) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/c/ii)
+[^c-683c972c923416a88a3d2c274a3d25dd]: Textual amendment: [Art. 3(3)(na)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/3/na)[(nb)](https://www.legislation.gov.uk/uksi/2009/2083/article/3/3/nb) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2022/605/rule/4/c/ii)
 
-[^key-c676b59b7b9c094e01d2a65726ddd5f1]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2083/article/4) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-c676b59b7b9c094e01d2a65726ddd5f1]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2083/article/4) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-98cc41fffe6052f493b72665898d4973]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/3) substituted (15.11.2015) by virtue of [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/2)
+[^c-98cc41fffe6052f493b72665898d4973]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/3) substituted (15.11.2015) by virtue of [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/2)
 
-[^key-548c6fc5004933c31cb289f0242827b2]: Textual amendment: [Art. 4(5)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/5/c): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/3/a)
+[^c-548c6fc5004933c31cb289f0242827b2]: Textual amendment: [Art. 4(5)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/5/c): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/3/a)
 
-[^key-c347ffad9d68879c456af2f15fae05c4]: Textual amendment: [Art. 4(5)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/5/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/3/b)
+[^c-c347ffad9d68879c456af2f15fae05c4]: Textual amendment: [Art. 4(5)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/5/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/3/b)
 
-[^key-561d172c46c1189d926a87f8494834e1]: Textual amendment: Words in [art. 4(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/6) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/4)
+[^c-561d172c46c1189d926a87f8494834e1]: Textual amendment: Words in [art. 4(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/6) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/4)
 
-[^key-a27c7213f3f3805c522cd041d751d43d]: Textual amendment: [Art. 4(10A)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/10A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2022/605/rule/5)
+[^c-a27c7213f3f3805c522cd041d751d43d]: Textual amendment: [Art. 4(10A)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/10A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2022/605/rule/5)
 
-[^key-24bdd6afceffa556c83945af4617781c]: Textual amendment: Words in [art. 4(11)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/11/a) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/5)
+[^c-24bdd6afceffa556c83945af4617781c]: Textual amendment: Words in [art. 4(11)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/11/a) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/5)
 
-[^key-83ef5bce397276b73d6543b56cc01b80]: Textual amendment: Words in [art. 4(12)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/12) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/6)
+[^c-83ef5bce397276b73d6543b56cc01b80]: Textual amendment: Words in [art. 4(12)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/12) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/6)
 
-[^key-2f89dd7a2605dbab42e43c07d83a5185]: Textual amendment: Words in [art. 4(13)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/13) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/7)
+[^c-2f89dd7a2605dbab42e43c07d83a5185]: Textual amendment: Words in [art. 4(13)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/13) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/7)
 
-[^key-042fb497e46f3807010380675c3ff847]: Textual amendment: Words in [art. 4(16)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/16) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(8)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/8)
+[^c-042fb497e46f3807010380675c3ff847]: Textual amendment: Words in [art. 4(16)](https://www.legislation.gov.uk/uksi/2009/2083/article/4/16) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [5(8)](https://www.legislation.gov.uk/uksi/2015/1805/article/5/8)
 
-[^key-7084cb3af7670db9c7fbbb42d3e07949]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/2083/article/5) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-7084cb3af7670db9c7fbbb42d3e07949]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/2083/article/5) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-ebe12e24fef1d784bec261acd3b58dda]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2009/2083/article/5/1A) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/6/2)
+[^c-ebe12e24fef1d784bec261acd3b58dda]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2009/2083/article/5/1A) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/6/2)
 
-[^key-134e7aa16b98b1abf90bb04acbc10323]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/2083/article/6) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-134e7aa16b98b1abf90bb04acbc10323]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/2083/article/6) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-e75306f6dd787d152d8dd3ef00068203]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/2)
+[^c-e75306f6dd787d152d8dd3ef00068203]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/2)
 
-[^key-9a28eb77438b15866c5bceb0145e2afc]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/3) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/3)
+[^c-9a28eb77438b15866c5bceb0145e2afc]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/3) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/3)
 
-[^key-0f252f5054a1276443c940f3a06a3fff]: Textual amendment: [Art. 6(4)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/4/c): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/4/a)
+[^c-0f252f5054a1276443c940f3a06a3fff]: Textual amendment: [Art. 6(4)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/4/c): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/4/a)
 
-[^key-155da995273ae40147cee4eded768c4f]: Textual amendment: [Art. 6(4)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/4/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/4/b)
+[^c-155da995273ae40147cee4eded768c4f]: Textual amendment: [Art. 6(4)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/4/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/4/b)
 
-[^key-c82132a07d568c4476f23c44f580c8be]: Textual amendment: Words in [art. 6(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/6) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/5)
+[^c-c82132a07d568c4476f23c44f580c8be]: Textual amendment: Words in [art. 6(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/6) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/5)
 
-[^key-735c1783f5cf94b116bf4623cca8b3e9]: Textual amendment: Words in [art. 6(8)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/8) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/6)
+[^c-735c1783f5cf94b116bf4623cca8b3e9]: Textual amendment: Words in [art. 6(8)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/8) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/6)
 
-[^key-9ad3987fdc11e9fff5a4ee6a05272527]: Textual amendment: Words in [art. 6(9)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/9) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/7)
+[^c-9ad3987fdc11e9fff5a4ee6a05272527]: Textual amendment: Words in [art. 6(9)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/9) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/7)
 
-[^key-2fb9cbfb4c8bc215179a35a60e6c4948]: Textual amendment: Words in [art. 6(10)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/10/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(8)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/8)
+[^c-2fb9cbfb4c8bc215179a35a60e6c4948]: Textual amendment: Words in [art. 6(10)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/10/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(8)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/8)
 
-[^key-b32a61e73eca9e8d714b7795024dffe8]: Textual amendment: Words in [art. 6(10)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/10/b) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(9)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/9)
+[^c-b32a61e73eca9e8d714b7795024dffe8]: Textual amendment: Words in [art. 6(10)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/10/b) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(9)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/9)
 
-[^key-37133cbe4c64a4df17ed5469abd54bc3]: Textual amendment: Words in [art. 6(11)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/11) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(10)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/10)
+[^c-37133cbe4c64a4df17ed5469abd54bc3]: Textual amendment: Words in [art. 6(11)](https://www.legislation.gov.uk/uksi/2009/2083/article/6/11) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [7(10)](https://www.legislation.gov.uk/uksi/2015/1805/article/7/10)
 
-[^key-9cfbc68705563ab227e7c181d384a60b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/2083/article/7) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-9cfbc68705563ab227e7c181d384a60b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/2083/article/7) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-4546b60b0cf69dbffc8ef4ef04d16218]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/2083/article/8) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-4546b60b0cf69dbffc8ef4ef04d16218]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/2083/article/8) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-0770dfc4a9c5bf3eb4af8ec6ba5615ec]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/2083/article/9) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-0770dfc4a9c5bf3eb4af8ec6ba5615ec]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/2083/article/9) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-1e6d49bd6d99c001baa53c44ab316173]: Textual amendment: Word in [art. 9(1)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/1/b) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/2)
+[^c-1e6d49bd6d99c001baa53c44ab316173]: Textual amendment: Word in [art. 9(1)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/1/b) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/2)
 
-[^key-f13aafd3c41af8ce2e30fea60a434c86]: Textual amendment: [Art. 9(1)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/1/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/3)
+[^c-f13aafd3c41af8ce2e30fea60a434c86]: Textual amendment: [Art. 9(1)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/1/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/3)
 
-[^key-c4e69d4498223a6d20a87048394db807]: Textual amendment: Word in [art. 9(2)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/2/a) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/4)
+[^c-c4e69d4498223a6d20a87048394db807]: Textual amendment: Word in [art. 9(2)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/2/a) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/4)
 
-[^key-6ca3d1d4811b732a4910c36deb6ae7ef]: Textual amendment: [Art. 9(2)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/2/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/5)
+[^c-6ca3d1d4811b732a4910c36deb6ae7ef]: Textual amendment: [Art. 9(2)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/2/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/5)
 
-[^key-12a3ffed6bc4649c00bf0869682f8c60]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/3) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/6)
+[^c-12a3ffed6bc4649c00bf0869682f8c60]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2009/2083/article/9/3) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [8(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/8/6)
 
-[^key-f29d2da3dba91585ee08bd443bc890b3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/2083/article/10) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-f29d2da3dba91585ee08bd443bc890b3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/2083/article/10) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-e11080efeadb850b18175eb0c8ddb70e]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/2)
+[^c-e11080efeadb850b18175eb0c8ddb70e]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/2)
 
-[^key-8c1e0061e8c530d095675db821c576bc]: Textual amendment: Words in [art. 10(3)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/3/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/3)
+[^c-8c1e0061e8c530d095675db821c576bc]: Textual amendment: Words in [art. 10(3)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/3/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/3)
 
-[^key-ef639a31dc8c83a17e47ed107fd7091d]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/4) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/4)
+[^c-ef639a31dc8c83a17e47ed107fd7091d]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/4) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/4)
 
-[^key-f780e7632705be3c4ccb1a38aaf1e5d1]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/5) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/5)
+[^c-f780e7632705be3c4ccb1a38aaf1e5d1]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/5) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/5)
 
-[^key-57af1e883e31cf02fb2796557fe8def5]: Textual amendment: Words in [art. 10(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/6) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/6)
+[^c-57af1e883e31cf02fb2796557fe8def5]: Textual amendment: Words in [art. 10(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/6) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/6)
 
-[^key-71f404f0de05d4fd0b2c08ec1ec80506]: Textual amendment: Words in [art. 10(7)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/7) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/7)
+[^c-71f404f0de05d4fd0b2c08ec1ec80506]: Textual amendment: Words in [art. 10(7)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/7) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/7)
 
-[^key-5e705cf1ae1cc8c6a17f0db72cb992ae]: Textual amendment: Words in [art. 10(8)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/8) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(8)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/8)
+[^c-5e705cf1ae1cc8c6a17f0db72cb992ae]: Textual amendment: Words in [art. 10(8)](https://www.legislation.gov.uk/uksi/2009/2083/article/10/8) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [9(8)](https://www.legislation.gov.uk/uksi/2015/1805/article/9/8)
 
-[^key-72b46c9981dad0cba0390ca2a915bd50]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/2083/article/11) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-72b46c9981dad0cba0390ca2a915bd50]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/2083/article/11) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-a2233186101c601110183370904c3e97]: Textual amendment: Word in [art. 11(1)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/11/1/b) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/10/2)
+[^c-a2233186101c601110183370904c3e97]: Textual amendment: Word in [art. 11(1)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/11/1/b) revoked (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/10/2)
 
-[^key-fb173496232c5aba547a04953eeaafae]: Textual amendment: [Art. 11(1)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/11/1/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/10/3)
+[^c-fb173496232c5aba547a04953eeaafae]: Textual amendment: [Art. 11(1)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/11/1/d) and word inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/10/3)
 
-[^key-57c09a629607626a912188cedae93747]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/2083/article/12) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-57c09a629607626a912188cedae93747]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/2083/article/12) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-361e7f221e0bbb3abf0a0c50c0da8cd2]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/2)
+[^c-361e7f221e0bbb3abf0a0c50c0da8cd2]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/2)
 
-[^key-b5742d008a831b7a196a5511e613cb0f]: Textual amendment: Words in [art. 12(5)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/5/b) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/3)
+[^c-b5742d008a831b7a196a5511e613cb0f]: Textual amendment: Words in [art. 12(5)(b)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/5/b) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/3)
 
-[^key-e4573166bb467b6e45f9e746ddc176b5]: Textual amendment: Words in [art. 12(6)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/6/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/4)
+[^c-e4573166bb467b6e45f9e746ddc176b5]: Textual amendment: Words in [art. 12(6)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/6/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(4)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/4)
 
-[^key-02dcbcfeb9ccfba284609f5d5dbd54d3]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/7) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/5)
+[^c-02dcbcfeb9ccfba284609f5d5dbd54d3]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2009/2083/article/12/7) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [11(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/11/5)
 
-[^key-1053f95a891526a6da085c1d3823e30f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2009/2083/article/13) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-1053f95a891526a6da085c1d3823e30f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2009/2083/article/13) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
-[^key-ba290ce76f80bc30d8a24c121cc5c8ea]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/2)
+[^c-ba290ce76f80bc30d8a24c121cc5c8ea]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/2) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/2)
 
-[^key-e359288bdcafb6e7d82617ab2eb05c90]: Textual amendment: Words in [art. 13(4)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/4) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/3)
+[^c-e359288bdcafb6e7d82617ab2eb05c90]: Textual amendment: Words in [art. 13(4)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/4) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/3)
 
-[^key-3aa96d9ee91b3fa6b0da65281dca1dd8]: Textual amendment: [Art. 13(4)(aa)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/4/aa) inserted (13.4.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) Order 2015 (S.I. 2015/727)](https://www.legislation.gov.uk/uksi/2015/727), [arts. 1](https://www.legislation.gov.uk/uksi/2015/727/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/727/article/3/2)
+[^c-3aa96d9ee91b3fa6b0da65281dca1dd8]: Textual amendment: [Art. 13(4)(aa)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/4/aa) inserted (13.4.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) Order 2015 (S.I. 2015/727)](https://www.legislation.gov.uk/uksi/2015/727), [arts. 1](https://www.legislation.gov.uk/uksi/2015/727/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/727/article/3/2)
 
-[^key-0b01ef4ec15f047ecac0d6a5d7b8a31b]: Textual amendment: Words in [art. 13(5)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/5) substituted (13.4.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) Order 2015 (S.I. 2015/727)](https://www.legislation.gov.uk/uksi/2015/727), [arts. 1](https://www.legislation.gov.uk/uksi/2015/727/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/727/article/3/3)
+[^c-0b01ef4ec15f047ecac0d6a5d7b8a31b]: Textual amendment: Words in [art. 13(5)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/5) substituted (13.4.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) Order 2015 (S.I. 2015/727)](https://www.legislation.gov.uk/uksi/2015/727), [arts. 1](https://www.legislation.gov.uk/uksi/2015/727/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/727/article/3/3)
 
-[^key-0011858ed64bc8779691153a870db81e]: Textual amendment: [Art. 13(5)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/5): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/4/a)
+[^c-0011858ed64bc8779691153a870db81e]: Textual amendment: [Art. 13(5)(c)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/5): semicolon substituted for full stop (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/4/a)
 
-[^key-dad236514a46e145039adab52450dda5]: Textual amendment: [Art. 13(5)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/5/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/4/b)
+[^c-dad236514a46e145039adab52450dda5]: Textual amendment: [Art. 13(5)(d)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/5/d) inserted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/4/b)
 
-[^key-aac75831426c28f6c520289bb912d063]: Textual amendment: Words in [art. 13(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/6) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/5)
+[^c-aac75831426c28f6c520289bb912d063]: Textual amendment: Words in [art. 13(6)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/6) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(5)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/5)
 
-[^key-c94e5b675f5e69c2836a71890b9374f5]: Textual amendment: Words in [art. 13(7)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/7/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/6)
+[^c-c94e5b675f5e69c2836a71890b9374f5]: Textual amendment: Words in [art. 13(7)(a)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/7/a) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(6)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/6)
 
-[^key-0507a7ecee278f390cc29945e5403925]: Textual amendment: Words in [art. 13(8)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/8) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/7)
+[^c-0507a7ecee278f390cc29945e5403925]: Textual amendment: Words in [art. 13(8)](https://www.legislation.gov.uk/uksi/2009/2083/article/13/8) substituted (15.11.2015) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) (Amendment) (No. 2) Order 2015 (S.I. 2015/1805)](https://www.legislation.gov.uk/uksi/2015/1805), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1805/article/1), [12(7)](https://www.legislation.gov.uk/uksi/2015/1805/article/12/7)
 
-[^key-b97639bae5926a2434fd0f1ed56dc7fa]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2009/2083/article/14) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
+[^c-b97639bae5926a2434fd0f1ed56dc7fa]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2009/2083/article/14) in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1)
 
 [^f00004]: Footnote: [S.I. 2006/2886](https://www.legislation.gov.uk/uksi/2006/2886).
 

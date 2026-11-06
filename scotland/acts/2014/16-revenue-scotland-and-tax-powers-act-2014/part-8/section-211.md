@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 211. Interaction of penalties under section 209 with other penalties[^key-8445b0b227a4aedec3ea896ee58a9207]
+## 211. Interaction of penalties under section 209 with other penalties[^c-8445b0b227a4aedec3ea896ee58a9207]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The amount of a penalty for which P is liable under section 209 is to be reduced
 
 ## Annotations
 
-[^key-8445b0b227a4aedec3ea896ee58a9207]: Commencement: [S. 211](https://www.legislation.gov.uk/asp/2014/16/section/211) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-8445b0b227a4aedec3ea896ee58a9207]: Commencement: [S. 211](https://www.legislation.gov.uk/asp/2014/16/section/211) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)

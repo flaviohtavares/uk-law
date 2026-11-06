@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services
 
-The Money Laundering (Amendment) Regulations 2011 (revoked)[^key-c1ac4c2b8f12d300fb56a365b2234229]
+The Money Laundering (Amendment) Regulations 2011 (revoked)[^c-c1ac4c2b8f12d300fb56a365b2234229]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st November 2011
 
-[^key-c1ac4c2b8f12d300fb56a365b2234229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1ac4c2b8f12d300fb56a365b2234229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c1ac4c2b8f12d300fb56a365b2234229]
+## 1. Citation and commencement[^c-c1ac4c2b8f12d300fb56a365b2234229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Money Laundering Regulations 2007[^key-c1ac4c2b8f12d300fb56a365b2234229]
+## 2. Amendment of the Money Laundering Regulations 2007[^c-c1ac4c2b8f12d300fb56a365b2234229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1ac4c2b8f12d300fb56a365b2234229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1ac4c2b8f12d300fb56a365b2234229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c1ac4c2b8f12d300fb56a365b2234229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1ac4c2b8f12d300fb56a365b2234229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1ac4c2b8f12d300fb56a365b2234229]: Textual amendment: Regulations revoked (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), regs.1(2), [110](https://www.legislation.gov.uk/uksi/2017/692/regulation/110) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-c1ac4c2b8f12d300fb56a365b2234229]: Textual amendment: Regulations revoked (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), regs.1(2), [110](https://www.legislation.gov.uk/uksi/2017/692/regulation/110) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

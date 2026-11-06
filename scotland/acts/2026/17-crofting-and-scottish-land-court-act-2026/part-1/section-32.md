@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. First registration of crofts purchased by tenant crofter[^key-bd4077e345cc7bd70cd6a6dbfc3693c9]
+## 32. First registration of crofts purchased by tenant crofter[^c-bd4077e345cc7bd70cd6a6dbfc3693c9]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd4077e345cc7bd70cd6a6dbfc3693c9]: Commencement: S. 32 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-bd4077e345cc7bd70cd6a6dbfc3693c9]: Commencement: S. 32 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Revocation of regulations 255A, 255B and 255C[^key-3af694e087b83db1f1a5256f37690fce]
+## 109. Revocation of regulations 255A, 255B and 255C[^c-3af694e087b83db1f1a5256f37690fce]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ Omit—
 
 ## Annotations
 
-[^key-3af694e087b83db1f1a5256f37690fce]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2024/832/regulation/109) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-3af694e087b83db1f1a5256f37690fce]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2024/832/regulation/109) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00117]: Footnote: Regulations 255A, 255B and 255C were inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).

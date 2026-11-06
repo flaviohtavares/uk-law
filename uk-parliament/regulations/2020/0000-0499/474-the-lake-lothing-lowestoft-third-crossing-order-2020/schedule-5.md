@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-7c0e4b436d20988ab1cdafb71c404cac]
+## SCHEDULE 5 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-7c0e4b436d20988ab1cdafb71c404cac]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 19
 
 ## Annotations
 
-[^key-7c0e4b436d20988ab1cdafb71c404cac]: Commencement: Sch. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-7c0e4b436d20988ab1cdafb71c404cac]: Commencement: Sch. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

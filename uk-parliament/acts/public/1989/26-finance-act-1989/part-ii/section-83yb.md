@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83YB. Meaning of “appropriate line 51 amount” for purposes of s.83YA[^key-87e78cd5deea5811bd3ab7cfa80c4969]
+## 83YB. Meaning of “appropriate line 51 amount” for purposes of s.83YA[^c-87e78cd5deea5811bd3ab7cfa80c4969]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87e78cd5deea5811bd3ab7cfa80c4969]: Textual amendment: S. 83YB omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 55](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/55)
+[^c-87e78cd5deea5811bd3ab7cfa80c4969]: Textual amendment: S. 83YB omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 55](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/55)

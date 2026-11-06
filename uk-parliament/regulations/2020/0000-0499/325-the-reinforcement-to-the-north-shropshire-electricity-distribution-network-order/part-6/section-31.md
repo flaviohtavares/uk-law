@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Felling or lopping of trees and removal of hedgerows[^key-3ce20cb20f989c28ac97aad829577850]
+## 31. Felling or lopping of trees and removal of hedgerows[^c-3ce20cb20f989c28ac97aad829577850]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce20cb20f989c28ac97aad829577850]: Commencement: Art. 31 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-3ce20cb20f989c28ac97aad829577850]: Commencement: Art. 31 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030721]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2020/325/section/I) 1997/1160, amended by the Countryside and Rights of Way Act [2000 c.37](https://www.legislation.gov.uk/ukpga/2000/37), [section 73(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/73/2) and by [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [S.I](https://www.legislation.gov.uk/uksi/2003/2155/section/I). 2006/1177, [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307) and [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Termination of interim trustee's functions where not appointed trustee[^key-0c9d7716f040caed11993464eb8b0d13]
+## 56. Termination of interim trustee's functions where not appointed trustee[^c-0c9d7716f040caed11993464eb8b0d13]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ in respect of any act or omission of the interim trustee in exercising the funct
 
 ## Annotations
 
-[^key-0c9d7716f040caed11993464eb8b0d13]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2016/21/section/56) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0c9d7716f040caed11993464eb8b0d13]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2016/21/section/56) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

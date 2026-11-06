@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 387. Failure by offender to provide agreed assistance: review of sentence[^key-78f83f8f5129ec904cf268cf99d230ac]
+## 387. Failure by offender to provide agreed assistance: review of sentence[^c-78f83f8f5129ec904cf268cf99d230ac]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ This is subject to subsection (8).
 
 ## Annotations
 
-[^key-78f83f8f5129ec904cf268cf99d230ac]: Commencement: S. 387 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-78f83f8f5129ec904cf268cf99d230ac]: Commencement: S. 387 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

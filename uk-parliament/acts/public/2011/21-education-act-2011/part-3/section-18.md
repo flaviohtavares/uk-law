@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Abolition of the School Support Staff Negotiating Body[^key-6e47d5522fbb2ce8e651785c4df33b94]
+## 18. Abolition of the School Support Staff Negotiating Body[^c-6e47d5522fbb2ce8e651785c4df33b94]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e47d5522fbb2ce8e651785c4df33b94]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/21/section/18) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-6e47d5522fbb2ce8e651785c4df33b94]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/21/section/18) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Failure to comply with certain requirements[^key-1e5fa755602f1df02ed69b3b5137390b]
+## 24. Failure to comply with certain requirements[^c-1e5fa755602f1df02ed69b3b5137390b]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ After section 453B of the Companies Act 1985 (c. 6) (inserted by section 23) ins
 
 ## Annotations
 
-[^key-1e5fa755602f1df02ed69b3b5137390b]: Commencement: S. 24 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-1e5fa755602f1df02ed69b3b5137390b]: Commencement: S. 24 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))

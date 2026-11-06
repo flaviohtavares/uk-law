@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 *Extent: E+W*
 
 Article 2
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 In the County of North Yorkshire and the District of Selby a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act all as set out in this Schedule.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 The nationally significant infrastructure project comprises up to four generating stations with a combined gross electrical output capacity of up to 3,800 megawatts comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 1** – an electricity generating station (Unit X) fuelled by natural gas and with a gross electrical output capacity of up to 1,800 megawatts including—
 
@@ -68,7 +68,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (vi) electricity (including a 132 kilovolt electricity cable across New Road connecting Work No. 1A to Work No.5), water, wastewater and telecommunications and other services; and
   - (vii) hard and soft landscaping including tree planting, ecological mitigation, temporary and permanent fencing and other boundary treatments.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 2** – an electricity generating station (Unit Y) fuelled by natural gas and with a gross electrical output capacity of up to 1,800 megawatts including—
 
@@ -104,7 +104,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (vi) electricity, water, wastewater and telecommunications and other services; and
   - (vii) hard and soft landscaping including tree planting, ecological mitigation, temporary and permanent fencing and other boundary treatments.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 3** – up to two battery storage facilities including—
 
@@ -125,7 +125,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (iv) switch gear and ancillary equipment; and
   - (v) electrical underground cable connecting to Work No. 2A.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 4** – new gas insulated switchgear banking buildings including—
 
@@ -139,7 +139,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (ii) up to three sets of cable sealing ends; and
   - (iii) ground raising and ground preparation works.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 5** – a natural gas receiving facility compound including—
 
@@ -148,7 +148,7 @@ The nationally significant infrastructure project comprises up to four generatin
 - (c) electricity supply kiosks and associated cabling;
 - (d) emergency generator;
 - (e) electrical pre-heaters and electrical compressors housed in a building;
-- (f) up to two boiler houses with a total installed thermal input capacity to the heat exchangers[^key-61f8615098b0f095615bb2b4b1aa00e1] of 7.2 megawatts and each boiler house with up to two stacks;
+- (f) up to two boiler houses with a total installed thermal input capacity to the heat exchangers[^c-61f8615098b0f095615bb2b4b1aa00e1] of 7.2 megawatts and each boiler house with up to two stacks;
 - (g) control and instrumentation kiosks and associated wiring;
 - (h) creation of a permanent access from New Road including permanent road surface and kerb stones, signing and road markings works, drainage, car parking, fencing and other incidental works;
 - (i) security infrastructure, including cameras, lighting (including perimeter lighting columns), stock proof fencing and perimeter fencing;
@@ -157,7 +157,7 @@ The nationally significant infrastructure project comprises up to four generatin
 - (l) ground raising and ground preparation works; and
 - (m) hard and soft landscaping including tree planting, ecological mitigation, temporary and permanent fencing and other boundary treatments.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 6** – above ground gas installation including—
 
@@ -183,7 +183,7 @@ The nationally significant infrastructure project comprises up to four generatin
 - (c) **Work No. 6C** – (in connection with Work No. 6A) temporary construction laydown area.
 - (d) **Work No. 6D** – (in connection with Work No. 6B) temporary construction laydown area and creation of up to two construction access routes from Rusholme Lane.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 7** – a gas pipeline including—
 
@@ -196,7 +196,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (vi) hard and soft landscaping including tree planting, ecological mitigation, temporary and permanent fencing and other boundary treatments.
 - (b) **Work No. 7B** – temporary construction laydown area for gas pipeline.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 8** – electrical connections including—
 
@@ -229,7 +229,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (xii) security and site lighting infrastructure, including cameras, perimeter fencing and lighting columns; and
   - (xiii) hard and soft landscaping including ecological mitigation.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 9** – temporary construction laydown areas including—
 
@@ -249,7 +249,7 @@ The nationally significant infrastructure project comprises up to four generatin
   - (v) car parking; and
   - (vi) electricity, water, waste water and telecommunications connections.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 10** – carbon capture readiness comprising—
 
@@ -257,7 +257,7 @@ The nationally significant infrastructure project comprises up to four generatin
 - (b) **Work No. 10B** – diversions for public rights of way 35.47/1/1 and 35.47/6/1; and
 - (c) **Work No. 10C** – hard and soft landscaping including tree planting, ecological mitigation, temporary and permanent fencing and other boundary treatments.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 11** – retained and enhanced landscaping including—
 
@@ -265,7 +265,7 @@ The nationally significant infrastructure project comprises up to four generatin
 - (b) landscape and biodiversity enhancement measures; and
 - (c) security fencing, gates, boundary treatment and other means of enclosure.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 12** – decommissioning and demolition of sludge lagoons and construction of replacement sludge lagoons including—
 
@@ -282,15 +282,15 @@ The nationally significant infrastructure project comprises up to four generatin
     - (bb) underground pipework, valves and sluices; and
     - (cc) access roads.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 13** – removal of existing 132 kilovolt overhead line and removal of two 132 kilovolt pylons and foundations.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 **Work No. 14** – construction of temporary passing place on Rusholme Lane.
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]
 
 In connection with and in addition to Work Nos. 1 to 14, further associated development including—
 
@@ -309,6 +309,6 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-8a0b9b5bb9730fc874a61631e40fd9bb]: Commencement: Sch. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-8a0b9b5bb9730fc874a61631e40fd9bb]: Commencement: Sch. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-61f8615098b0f095615bb2b4b1aa00e1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1315/schedule/1) inserted (19.8.2020) by [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)
+[^c-61f8615098b0f095615bb2b4b1aa00e1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1315/schedule/1) inserted (19.8.2020) by [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Apportionment of set fee remuneration[^key-0a63a1911593a10985e62372c5189888]
+## 205. Apportionment of set fee remuneration[^c-0a63a1911593a10985e62372c5189888]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ and paragraphs (4) to (6) apply as appropriate.
 
 ## Annotations
 
-[^key-0a63a1911593a10985e62372c5189888]: Commencement: [Rule 205](https://www.legislation.gov.uk/uksi/2011/1301/rule/205) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0a63a1911593a10985e62372c5189888]: Commencement: [Rule 205](https://www.legislation.gov.uk/uksi/2011/1301/rule/205) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

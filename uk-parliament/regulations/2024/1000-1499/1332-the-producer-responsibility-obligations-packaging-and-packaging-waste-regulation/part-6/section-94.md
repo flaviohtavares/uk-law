@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Applications for accreditation: reprocessors[^key-386082caeedbaf5b41883249b37d1d33]
+## 94. Applications for accreditation: reprocessors[^c-386082caeedbaf5b41883249b37d1d33]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-386082caeedbaf5b41883249b37d1d33]: Commencement: Reg. 94 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-386082caeedbaf5b41883249b37d1d33]: Commencement: Reg. 94 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

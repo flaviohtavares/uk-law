@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**33.**[^key-733de8a372d74486bacca06803336c57] In regulation 36—
+**33.**[^c-733de8a372d74486bacca06803336c57] In regulation 36—
 
 - (a) for “UK” substitute “NI”;
 - (b) for “the United Kingdom” substitute “Northern Ireland”.
 
 ## Annotations
 
-[^key-733de8a372d74486bacca06803336c57]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-733de8a372d74486bacca06803336c57]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

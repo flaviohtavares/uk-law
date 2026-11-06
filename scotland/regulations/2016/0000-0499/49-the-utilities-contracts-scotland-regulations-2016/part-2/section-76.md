@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Criteria for qualitative selection[^key-b61e0437b0e96c8b9685984ea11a2f65]
+## 76. Criteria for qualitative selection[^c-b61e0437b0e96c8b9685984ea11a2f65]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b61e0437b0e96c8b9685984ea11a2f65]: Commencement: [Reg. 76](https://www.legislation.gov.uk/ssi/2016/49/regulation/76) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-b61e0437b0e96c8b9685984ea11a2f65]: Commencement: [Reg. 76](https://www.legislation.gov.uk/ssi/2016/49/regulation/76) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

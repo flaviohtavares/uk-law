@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 188. Pension credit member's rights[^key-2429744ac637120a0309fa4720a9f540]
+## 188. Pension credit member's rights[^c-2429744ac637120a0309fa4720a9f540]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2429744ac637120a0309fa4720a9f540]: Textual amendment: [Reg. 188](https://www.legislation.gov.uk/nisr/2008/256/regulation/188) omitted (with effect in accordance with reg. 1(3)(j) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [61](https://www.legislation.gov.uk/nisr/2009/188/regulation/61)
+[^c-2429744ac637120a0309fa4720a9f540]: Textual amendment: [Reg. 188](https://www.legislation.gov.uk/nisr/2008/256/regulation/188) omitted (with effect in accordance with reg. 1(3)(j) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [61](https://www.legislation.gov.uk/nisr/2009/188/regulation/61)

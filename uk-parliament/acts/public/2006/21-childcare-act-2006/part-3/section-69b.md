@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69B. Cancellation of registration: childminder agencies[^key-5b3a92d5a125ad03826b0199302553d1]
+## 69B. Cancellation of registration: childminder agencies[^c-5b3a92d5a125ad03826b0199302553d1]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3a92d5a125ad03826b0199302553d1]: Textual amendment: [Ss. 69B](https://www.legislation.gov.uk/ukpga/2006/21/section/69B), [69C](https://www.legislation.gov.uk/ukpga/2006/21/section/69C) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/36); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-5b3a92d5a125ad03826b0199302553d1]: Textual amendment: [Ss. 69B](https://www.legislation.gov.uk/ukpga/2006/21/section/69B), [69C](https://www.legislation.gov.uk/ukpga/2006/21/section/69C) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/36); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Power to inspect premises or property for valuation etc.[^key-a15c87dad911db590abbaf9877492bf5]
+## 106. Power to inspect premises or property for valuation etc.[^c-a15c87dad911db590abbaf9877492bf5]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a15c87dad911db590abbaf9877492bf5]: Commencement: S. 106 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-a15c87dad911db590abbaf9877492bf5]: Commencement: S. 106 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Certificated bailiffs[^key-42801fb0dfe33ed4e4ea6e588ba8c86a][^key-abdb8d9b4b10503e5034b0cdb3e44c8e]
+## 83. Certificated bailiffs[^c-42801fb0dfe33ed4e4ea6e588ba8c86a][^c-abdb8d9b4b10503e5034b0cdb3e44c8e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42801fb0dfe33ed4e4ea6e588ba8c86a]: Textual amendment: S. 83 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 156(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/156/b), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-42801fb0dfe33ed4e4ea6e588ba8c86a]: Textual amendment: S. 83 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 156(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/156/b), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-abdb8d9b4b10503e5034b0cdb3e44c8e]: Modification: S. 83 saving with effect by 2007 c. 15, Sch. 13 para. 156 (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [5](https://www.legislation.gov.uk/uksi/2014/600/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-abdb8d9b4b10503e5034b0cdb3e44c8e]: Modification: S. 83 saving with effect by 2007 c. 15, Sch. 13 para. 156 (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [5](https://www.legislation.gov.uk/uksi/2014/600/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))

@@ -28,7 +28,7 @@ Interest-rate contracts:
 - ((b)) basis-swaps;
 - ((c)) forward rate agreements;
 - ((d)) interest-rate futures;
-- ((e)) interest-rate options;[^key-2e230c6f620fb06f8eda2c6adb358228]
+- ((e)) interest-rate options;[^c-2e230c6f620fb06f8eda2c6adb358228]
 - ((f)) other contracts of similar nature.
 
 2\.
@@ -38,20 +38,20 @@ Foreign-exchange contracts and contracts concerning gold:
 - ((a)) cross-currency interest-rate swaps;
 - ((b)) forward foreign-exchange contracts;
 - ((c)) currency futures;
-- ((d)) currency options;[^key-8170e296e4e118421f993388cc699749]
+- ((d)) currency options;[^c-8170e296e4e118421f993388cc699749]
 - ((e)) other contracts of a similar nature;
 - ((f)) contracts of a nature similar to (a) to (e) concerning gold.
 
 3\.
 
-Contracts of a nature similar to those in points 1(a) to (e) and 2(a) to (d) of this Annex concerning other reference items or indices. This includes as a minimum all instruments specified in paragraphs 4 to 7, 9, 10 and 11 of Part 1 of Schedule 2 to the Regulated Activities Order not otherwise included in point 1 or 2 of this Annex.[^key-c49cd0f7b30259251adf5876ee06db41]
+Contracts of a nature similar to those in points 1(a) to (e) and 2(a) to (d) of this Annex concerning other reference items or indices. This includes as a minimum all instruments specified in paragraphs 4 to 7, 9, 10 and 11 of Part 1 of Schedule 2 to the Regulated Activities Order not otherwise included in point 1 or 2 of this Annex.[^c-c49cd0f7b30259251adf5876ee06db41]
 
 ## Annotations
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-2e230c6f620fb06f8eda2c6adb358228]: Textual amendment: Annex 2 point 1(e) substituted (1.1.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/4/paragraph/13/2); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/c)
+[^c-2e230c6f620fb06f8eda2c6adb358228]: Textual amendment: Annex 2 point 1(e) substituted (1.1.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/4/paragraph/13/2); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/c)
 
-[^key-8170e296e4e118421f993388cc699749]: Textual amendment: Annex 2 point 2(d) substituted (1.1.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/4/paragraph/13/3); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/c)
+[^c-8170e296e4e118421f993388cc699749]: Textual amendment: Annex 2 point 2(d) substituted (1.1.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/4/paragraph/13/3); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/c)
 
-[^key-c49cd0f7b30259251adf5876ee06db41]: Textual amendment: Annex 2 point 3 substituted (1.1.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 4 para. 13(4)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/4/paragraph/13/4); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/c)
+[^c-c49cd0f7b30259251adf5876ee06db41]: Textual amendment: Annex 2 point 3 substituted (1.1.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 4 para. 13(4)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/4/paragraph/13/4); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/c)

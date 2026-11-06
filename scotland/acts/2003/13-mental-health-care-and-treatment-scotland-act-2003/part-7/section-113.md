@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Non-compliance generally with order[^key-d0033fb4fe3c48a5140d1386a8913d40]
+## 113. Non-compliance generally with order[^c-d0033fb4fe3c48a5140d1386a8913d40]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ the power conferred by subsection (4) below may be exercised.
 
 ## Annotations
 
-[^key-d0033fb4fe3c48a5140d1386a8913d40]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2003/13/section/113) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-d0033fb4fe3c48a5140d1386a8913d40]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2003/13/section/113) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

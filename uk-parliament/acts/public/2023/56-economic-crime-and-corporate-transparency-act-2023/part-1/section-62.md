@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Duty to deliver information about exemption from Part 21A[^key-6ec70e53ee9d8556586b61eade9d757c]
+## 62. Duty to deliver information about exemption from Part 21A[^c-6ec70e53ee9d8556586b61eade9d757c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 853H of the Companies Act 2006 (duty to deliver information about exe
 
 ## Annotations
 
-[^key-6ec70e53ee9d8556586b61eade9d757c]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6ec70e53ee9d8556586b61eade9d757c]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

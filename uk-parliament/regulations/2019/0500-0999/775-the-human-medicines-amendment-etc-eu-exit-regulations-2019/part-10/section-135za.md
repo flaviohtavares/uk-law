@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135ZA. New regulation 135ZA (amendment of regulation 167 (supply to fulfil special patient needs))[^M_I_91de5844-ef39-4d39-ebcf-2ab5124fa7ca][^key-b5241c5d22ce41904685c0e1c3feee41]
+## 135ZA. New regulation 135ZA (amendment of regulation 167 (supply to fulfil special patient needs))[^M_I_91de5844-ef39-4d39-ebcf-2ab5124fa7ca][^c-b5241c5d22ce41904685c0e1c3feee41]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ In regulation 167 (supply to fulfil special patient needs)—
 
 [^M_I_91de5844-ef39-4d39-ebcf-2ab5124fa7ca]: Commencement: Reg. 135ZA in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b5241c5d22ce41904685c0e1c3feee41]: Textual amendment: Reg. 135ZA inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 102](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/102)
+[^c-b5241c5d22ce41904685c0e1c3feee41]: Textual amendment: Reg. 135ZA inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 102](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/102)

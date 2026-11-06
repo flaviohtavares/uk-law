@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Dutyholders and general duties[^key-0754ed4760281dd5d18045d2c4ca4352][^key-f893b15c547bcc7e1e892ceee7a72883][^key-9471b9f39bf945292096d3909491d1d8]
+## 34. Dutyholders and general duties[^c-0754ed4760281dd5d18045d2c4ca4352][^c-f893b15c547bcc7e1e892ceee7a72883][^c-9471b9f39bf945292096d3909491d1d8]
 
 *Extent: E+W*
 
@@ -53,8 +53,8 @@ In Schedule 1 to the Building Act 1984 (building regulations) after paragraph 5 
 
 ## Annotations
 
-[^key-0754ed4760281dd5d18045d2c4ca4352]: Commencement: S. 34 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
+[^c-0754ed4760281dd5d18045d2c4ca4352]: Commencement: S. 34 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
 
-[^key-f893b15c547bcc7e1e892ceee7a72883]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/30/section/34) in force at 6.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(n)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/n)
+[^c-f893b15c547bcc7e1e892ceee7a72883]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/30/section/34) in force at 6.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(n)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/n)
 
-[^key-9471b9f39bf945292096d3909491d1d8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/30/section/34) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/ii)
+[^c-9471b9f39bf945292096d3909491d1d8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/30/section/34) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/ii)

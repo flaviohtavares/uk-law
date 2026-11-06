@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 In accordance with section 1(3) of that Act it considers that the authorisation of the use of electronic communications by this Order for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases.
 
-## 1. Citation and commencement[^key-73e99a59ca735d5347f831401f3ab5fd]
+## 1. Citation and commencement[^c-73e99a59ca735d5347f831401f3ab5fd]
 
 This Order may be cited as the Social Security (Electronic Communications) (Amendment) Order (Northern Ireland) 2025 and shall come into operation on the same day as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2025[^f00003].
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-e6b86525e2e8fe5972a5a07b51d5b885]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-e6b86525e2e8fe5972a5a07b51d5b885]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -103,11 +103,11 @@ A full impact assessment has not been produced for this Order as no significant 
 
 [^f00002]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9)
 
-[^key-73e99a59ca735d5347f831401f3ab5fd]: Commencement: Art. 1 in operation at 1.8.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/129/article/1)
+[^c-73e99a59ca735d5347f831401f3ab5fd]: Commencement: Art. 1 in operation at 1.8.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/129/article/1)
 
 [^f00003]: Footnote: [S.R. 2025 No. 127](https://www.legislation.gov.uk/nisr/2025/127)
 
-[^key-e6b86525e2e8fe5972a5a07b51d5b885]: Commencement: Art. 2 in operation at 1.8.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/129/article/1)
+[^c-e6b86525e2e8fe5972a5a07b51d5b885]: Commencement: Art. 2 in operation at 1.8.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/129/article/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 

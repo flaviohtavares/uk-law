@@ -34,7 +34,7 @@ Taxes
 
 Tonnage Tax
 
-The Tonnage Tax (Training Requirement) (Amendment) Regulations 2009 (revoked)[^key-ef3eee0da329654dd4e3916b8d2cd7cd]
+The Tonnage Tax (Training Requirement) (Amendment) Regulations 2009 (revoked)[^c-ef3eee0da329654dd4e3916b8d2cd7cd]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 1st October 2009
 
-[^key-ef3eee0da329654dd4e3916b8d2cd7cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef3eee0da329654dd4e3916b8d2cd7cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef3eee0da329654dd4e3916b8d2cd7cd]
+## 1. Citation and commencement[^c-ef3eee0da329654dd4e3916b8d2cd7cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-ef3eee0da329654dd4e3916b8d2cd7cd]
+## 2. Application[^c-ef3eee0da329654dd4e3916b8d2cd7cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payments in lieu of training[^key-ef3eee0da329654dd4e3916b8d2cd7cd]
+## 3. Payments in lieu of training[^c-ef3eee0da329654dd4e3916b8d2cd7cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-ef3eee0da329654dd4e3916b8d2cd7cd]
+## 4. Revocations[^c-ef3eee0da329654dd4e3916b8d2cd7cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef3eee0da329654dd4e3916b8d2cd7cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef3eee0da329654dd4e3916b8d2cd7cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-ef3eee0da329654dd4e3916b8d2cd7cd]
+## SCHEDULE — REVOCATIONS[^c-ef3eee0da329654dd4e3916b8d2cd7cd]
 
 Regulation 4
 
@@ -80,8 +80,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef3eee0da329654dd4e3916b8d2cd7cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef3eee0da329654dd4e3916b8d2cd7cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef3eee0da329654dd4e3916b8d2cd7cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2304) revoked (1.10.2010) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2010 (S.I. 2010/2158)](https://www.legislation.gov.uk/uksi/2010/2158), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2158/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/2158/regulation/4)
+[^c-ef3eee0da329654dd4e3916b8d2cd7cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2304) revoked (1.10.2010) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2010 (S.I. 2010/2158)](https://www.legislation.gov.uk/uksi/2010/2158), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2158/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/2158/regulation/4)

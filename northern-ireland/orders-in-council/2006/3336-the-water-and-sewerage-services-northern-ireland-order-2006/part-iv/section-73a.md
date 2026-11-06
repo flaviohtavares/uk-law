@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73A. Combination of water resources management plans and drought plans[^key-575a8b92a02f77464f5b471d607470bf]
+## 73A. Combination of water resources management plans and drought plans[^c-575a8b92a02f77464f5b471d607470bf]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-575a8b92a02f77464f5b471d607470bf]: Textual amendment: [Art. 73A](https://www.legislation.gov.uk/nisi/2006/3336/article/73A) inserted (23.3.2016) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/7/schedule/1/paragraph/6)
+[^c-575a8b92a02f77464f5b471d607470bf]: Textual amendment: [Art. 73A](https://www.legislation.gov.uk/nisi/2006/3336/article/73A) inserted (23.3.2016) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/7/schedule/1/paragraph/6)

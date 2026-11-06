@@ -46,17 +46,17 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 1142(1)(e), (3) and (4) of the Corporation Tax Act 2009[^f00001].
 
-## 1. Citation, commencement and effect[^key-191c424cd4b8729bb57320793306a7c8]
+## 1. Citation, commencement and effect[^c-191c424cd4b8729bb57320793306a7c8]
 
 (1) This Order may be cited as the Research and Development (Qualifying Bodies) (Tax) Order 2018 and shall come into force on 16th March 2018.
 
 (2) In relation to a body specified in column (1) of the Schedule to this Order, this Order has effect in relation to expenditure incurred on or after the date set out in column (4) opposite the entry in column (1) for that body.
 
-## 2. Bodies prescribed for the purposes of Part 13 of the Corporation Tax Act 2009[^key-22e415958e0c1bde5ae4854ece289890]
+## 2. Bodies prescribed for the purposes of Part 13 of the Corporation Tax Act 2009[^c-22e415958e0c1bde5ae4854ece289890]
 
 Each of the bodies specified in column (1) of the Schedule to this Order is a body prescribed for the purposes of Part 13 of the Corporation Tax Act 2009 (additional relief for expenditure on research and development).
 
-**3.**[^key-5738528a7694b0f8b6fdf9d7bd547caf] The Research and Development (Qualifying Bodies) (Tax) Order 2012[^f00002] is revoked.
+**3.**[^c-5738528a7694b0f8b6fdf9d7bd547caf] The Research and Development (Qualifying Bodies) (Tax) Order 2012[^f00002] is revoked.
 
 Andrew Stephenson
 
@@ -64,7 +64,7 @@ Rebecca Harris
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## SCHEDULE — PRESCRIBED BODIES[^key-25dfab64c691e146ff6d1d94991cb42d]
+## SCHEDULE — PRESCRIBED BODIES[^c-25dfab64c691e146ff6d1d94991cb42d]
 
 <table>
 <thead>
@@ -315,7 +315,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 </tbody>
 </table>
 
-[^key-f987a6d4e0639fe8a637e5652c93737c][^key-f987a6d4e0639fe8a637e5652c93737c][^key-f987a6d4e0639fe8a637e5652c93737c][^key-f987a6d4e0639fe8a637e5652c93737c]
+[^c-f987a6d4e0639fe8a637e5652c93737c][^c-f987a6d4e0639fe8a637e5652c93737c][^c-f987a6d4e0639fe8a637e5652c93737c][^c-f987a6d4e0639fe8a637e5652c93737c]
 
 EXPLANATORY NOTE
 
@@ -337,14 +337,14 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
 
-[^key-191c424cd4b8729bb57320793306a7c8]: Commencement: Art. 1 in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
+[^c-191c424cd4b8729bb57320793306a7c8]: Commencement: Art. 1 in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
 
-[^key-22e415958e0c1bde5ae4854ece289890]: Commencement: Art. 2 in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
+[^c-22e415958e0c1bde5ae4854ece289890]: Commencement: Art. 2 in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
 
-[^key-5738528a7694b0f8b6fdf9d7bd547caf]: Commencement: Art. 3 in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
+[^c-5738528a7694b0f8b6fdf9d7bd547caf]: Commencement: Art. 3 in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2012/286](https://www.legislation.gov.uk/uksi/2012/286).
 
-[^key-25dfab64c691e146ff6d1d94991cb42d]: Commencement: Sch. in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
+[^c-25dfab64c691e146ff6d1d94991cb42d]: Commencement: Sch. in force at 16.3.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1)
 
-[^key-f987a6d4e0639fe8a637e5652c93737c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2018/217/schedule) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Research and Development (Qualifying Bodies) (Tax) (Amendment and Further Prescribed Bodies) Order 2022 (S.I. 2022/690)](https://www.legislation.gov.uk/uksi/2022/690), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/690/article/1/1), [2](https://www.legislation.gov.uk/uksi/2022/690/article/2)
+[^c-f987a6d4e0639fe8a637e5652c93737c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2018/217/schedule) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Research and Development (Qualifying Bodies) (Tax) (Amendment and Further Prescribed Bodies) Order 2022 (S.I. 2022/690)](https://www.legislation.gov.uk/uksi/2022/690), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/690/article/1/1), [2](https://www.legislation.gov.uk/uksi/2022/690/article/2)

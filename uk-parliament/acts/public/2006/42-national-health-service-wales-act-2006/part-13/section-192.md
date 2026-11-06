@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-ac82ea3023f4551dd7be6fb220eae375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ac82ea3023f4551dd7be6fb220eae375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A local social services authority which provides premises, furniture or equipment for any of the purposes of this Act may permit the use of the premises, furniture or equipment by—
 
@@ -32,17 +32,17 @@ summary: ''
 
 (4) A local social services authority may provide (or improve or furnish) residential accommodation for officers—
 
-- (a) employed by it for the purposes of any of its functions as a local social services authority, [^key-182bfcb3226be270e6846cd49516e38e]...
-- (b)[^key-182bfcb3226be270e6846cd49516e38e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) employed by it for the purposes of any of its functions as a local social services authority, [^c-182bfcb3226be270e6846cd49516e38e]...
+- (b)[^c-182bfcb3226be270e6846cd49516e38e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In this section [^key-b830403f48e81e8575f1a33843520d3b]... “**equipment**” includes any machinery, apparatus or appliance, whether fixed or not, and any vehicle.
+(5) In this section [^c-b830403f48e81e8575f1a33843520d3b]... “**equipment**” includes any machinery, apparatus or appliance, whether fixed or not, and any vehicle.
 
 ## Annotations
 
-[^key-ac82ea3023f4551dd7be6fb220eae375]: Textual amendment: S. 192(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [248(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/248/a)
+[^c-ac82ea3023f4551dd7be6fb220eae375]: Textual amendment: S. 192(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [248(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/248/a)
 
 [^c20963151]: Textual amendment: S. 192(2)(c) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 61(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/61/2)
 
-[^key-182bfcb3226be270e6846cd49516e38e]: Textual amendment: S. 192(4)(b) and preceding word omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [248(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/248/b)
+[^c-182bfcb3226be270e6846cd49516e38e]: Textual amendment: S. 192(4)(b) and preceding word omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [248(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/248/b)
 
-[^key-b830403f48e81e8575f1a33843520d3b]: Textual amendment: Words in s. 192(5) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [248(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/248/c)
+[^c-b830403f48e81e8575f1a33843520d3b]: Textual amendment: Words in s. 192(5) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [248(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/248/c)

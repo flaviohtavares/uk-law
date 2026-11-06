@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87A. Interest on unpaid tax: cases involving Reserved Investor Fund (Contractual Schemes)[^key-f4ae1262f0fa6528789210e9a67831ab]
+## 87A. Interest on unpaid tax: cases involving Reserved Investor Fund (Contractual Schemes)[^c-f4ae1262f0fa6528789210e9a67831ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ and in such a case the “**relevant date**” means the effective date of the r
 
 ## Annotations
 
-[^key-f4ae1262f0fa6528789210e9a67831ab]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2003/14/section/87A) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [58(6)](https://www.legislation.gov.uk/uksi/2025/200/regulation/58/6) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-f4ae1262f0fa6528789210e9a67831ab]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2003/14/section/87A) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [58(6)](https://www.legislation.gov.uk/uksi/2025/200/regulation/58/6) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

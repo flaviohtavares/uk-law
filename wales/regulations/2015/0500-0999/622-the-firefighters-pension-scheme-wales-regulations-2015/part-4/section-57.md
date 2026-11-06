@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Account established after ill-health award ceases to be payable[^key-daa60e78bca64cdec37f2b72d88bf161]
+## 57. Account established after ill-health award ceases to be payable[^c-daa60e78bca64cdec37f2b72d88bf161]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If a lower tier ill-health pension ceases to be payable to a person (P) under re
 
 ## Annotations
 
-[^key-daa60e78bca64cdec37f2b72d88bf161]: Commencement: Reg. 57 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-daa60e78bca64cdec37f2b72d88bf161]: Commencement: Reg. 57 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

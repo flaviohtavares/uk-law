@@ -50,25 +50,25 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-5107203019ef482cfffbb621330af38d]
+### 1. Citation and commencement[^c-5107203019ef482cfffbb621330af38d]
 
 These Regulations may be cited as the Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
-### 2. Interpretation[^key-1b54098f0c55d120435abedca181163c]
+### 2. Interpretation[^c-1b54098f0c55d120435abedca181163c]
 
 In these Regulations, “**Regulation 2016/52**” means Council Regulation (Euratom) 2016/52 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation (Euratom) No. 3954/87 and Commission Regulations (Euratom) No. 944/89 and (Euratom) No. 770/90.
 
 ## PART 2 — Amendment of retained direct EU legislation
 
-### 3. Amendment of Regulation 2016/52[^key-c4bb5e7e0b7264e208e382cec4737ac0]
+### 3. Amendment of Regulation 2016/52[^c-c4bb5e7e0b7264e208e382cec4737ac0]
 
 Regulation 2016/52 is amended as follows.
 
-### 4.[^key-6780ed581d343ce2efa4b3a6b41ba9ea]
+### 4.[^c-6780ed581d343ce2efa4b3a6b41ba9ea]
 
 In Article 1, omit the second paragraph.
 
-### 5.[^key-bf4af0c90a46f67bd68d8a460f122205]
+### 5.[^c-bf4af0c90a46f67bd68d8a460f122205]
 
 In Article 2, at the end, insert—
 
@@ -77,20 +77,20 @@ In Article 2, at the end, insert—
 > - (a) in relation to England, the Secretary of State;
 > - (b) in relation to Wales, the Welsh Ministers;
 > - (c) in relation to Scotland, the Scottish Ministers;
-> - (d)[^key-d478c0c9424a62fe54b2edf44a59bdde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-d478c0c9424a62fe54b2edf44a59bdde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (7) “**Food Safety Authority**” means—
 >
-> - (i) as regards England and Wales[^key-f7315fb21b794a68bf5733e746fa7fa1], the Food Standards Agency;
+> - (i) as regards England and Wales[^c-f7315fb21b794a68bf5733e746fa7fa1], the Food Standards Agency;
 > - (ii) as regards Scotland, Food Standards Scotland;
 >
 > (8) “**prescribe**” means prescribe by regulations;
 >
-> (9)[^key-3de87591dfde1d5f415673e0f361e196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (9)[^c-3de87591dfde1d5f415673e0f361e196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
-### 6.[^key-9459bb8a84f550778cbf7a9c3a74dec7]
+### 6.[^c-9459bb8a84f550778cbf7a9c3a74dec7]
 
 For Article 3, substitute—
 
@@ -120,15 +120,15 @@ For Article 3, substitute—
 >
 > **7.**
 >
-> When reviewing measures prescribed under this Article, the appropriate authority must consider, among other matters, whether the nuclear accident or any other case of radiological emergency has caused such widespread contamination of food or feed consumed in Great Britain[^key-f8926d4f56645e5ae59761be2d4c4ee9] that the rationale and assumptions underpinning the maximum permitted levels set out in Annexes 1, 2 and 3 to this Regulation are no longer valid.
+> When reviewing measures prescribed under this Article, the appropriate authority must consider, among other matters, whether the nuclear accident or any other case of radiological emergency has caused such widespread contamination of food or feed consumed in Great Britain[^c-f8926d4f56645e5ae59761be2d4c4ee9] that the rationale and assumptions underpinning the maximum permitted levels set out in Annexes 1, 2 and 3 to this Regulation are no longer valid.
 
 .
 
-### 7.[^key-b009316a385151b271137e5f657e82a8]
+### 7.[^c-b009316a385151b271137e5f657e82a8]
 
 Omit Articles 4 and 5.
 
-### 8.[^key-8dc646f0b6f5bb93189944997d1ac130]
+### 8.[^c-8dc646f0b6f5bb93189944997d1ac130]
 
 Insert a new Article 5A—
 
@@ -140,7 +140,7 @@ Insert a new Article 5A—
 >
 > - (a) so far as exercisable by a Minister of the Crown, is exercisable by statutory instrument;
 > - (b) so far as exercisable by the Welsh Ministers, is exercisable by statutory instrument;
-> - (c)[^key-df6c40d53ac7aabe0be388ec2982a1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-df6c40d53ac7aabe0be388ec2982a1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **2.**
 >
@@ -155,12 +155,12 @@ Insert a new Article 5A—
 >
 > **4.**
 >
-> Any statutory instrument or Scottish statutory instrument[^key-63cb4c3463db26a0d2abf7a44ea8579b] containing regulations made under Article 3 is subject to annulment in pursuance of a resolution—
+> Any statutory instrument or Scottish statutory instrument[^c-63cb4c3463db26a0d2abf7a44ea8579b] containing regulations made under Article 3 is subject to annulment in pursuance of a resolution—
 >
 > - (a) in the case of England, of either House of Parliament;
-> - (b) in the case of Wales, of Senedd Cymru[^key-6f3dc487c392ae524584fbb53b0d5c17];
+> - (b) in the case of Wales, of Senedd Cymru[^c-6f3dc487c392ae524584fbb53b0d5c17];
 > - (c) in the case of Scotland, of the Scottish Parliament;
-> - (d)[^key-476f343093ca80e998374dc6da9215eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-476f343093ca80e998374dc6da9215eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **5.**
 >
@@ -169,19 +169,19 @@ Insert a new Article 5A—
 > - (a) of the Secretary of State to make regulations is limited to regulations which apply in relation to England only;
 > - (b) of the Welsh Ministers to make regulations is limited to regulations which apply in relation to Wales only;
 > - (c) of the Scottish Ministers to make regulations is limited to regulations which apply in relation to Scotland only;
-> - (d)[^key-15eff68dfed66f7c55fc676ec9e73a00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-15eff68dfed66f7c55fc676ec9e73a00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
-### 9.[^key-f85d12f7b9bac5c6a3e8191f4605b67f]
+### 9.[^c-f85d12f7b9bac5c6a3e8191f4605b67f]
 
 Omit Article 6.
 
-### 10.[^key-1a99b3865dfc42e55151ac6bc74fa16c]
+### 10.[^c-1a99b3865dfc42e55151ac6bc74fa16c]
 
 After Article 8, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 11.[^key-b359be1221af4357de2d84b9d102d1d2]
+### 11.[^c-b359be1221af4357de2d84b9d102d1d2]
 
 In Annex 1, at footnote (1), for “Member States” substitute “ The Food Safety Authority ”.
 
@@ -205,44 +205,44 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23678571]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-5107203019ef482cfffbb621330af38d]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5107203019ef482cfffbb621330af38d]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1b54098f0c55d120435abedca181163c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1b54098f0c55d120435abedca181163c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c4bb5e7e0b7264e208e382cec4737ac0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c4bb5e7e0b7264e208e382cec4737ac0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6780ed581d343ce2efa4b3a6b41ba9ea]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6780ed581d343ce2efa4b3a6b41ba9ea]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bf4af0c90a46f67bd68d8a460f122205]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bf4af0c90a46f67bd68d8a460f122205]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d478c0c9424a62fe54b2edf44a59bdde]: Textual amendment: Words in reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2/a)
+[^c-d478c0c9424a62fe54b2edf44a59bdde]: Textual amendment: Words in reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2/a)
 
-[^key-f7315fb21b794a68bf5733e746fa7fa1]: Textual amendment: Words in reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2/b)
+[^c-f7315fb21b794a68bf5733e746fa7fa1]: Textual amendment: Words in reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2/b)
 
-[^key-3de87591dfde1d5f415673e0f361e196]: Textual amendment: Words in reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2/c)
+[^c-3de87591dfde1d5f415673e0f361e196]: Textual amendment: Words in reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2/c)
 
-[^key-9459bb8a84f550778cbf7a9c3a74dec7]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9459bb8a84f550778cbf7a9c3a74dec7]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f8926d4f56645e5ae59761be2d4c4ee9]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/3)
+[^c-f8926d4f56645e5ae59761be2d4c4ee9]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/3)
 
-[^key-b009316a385151b271137e5f657e82a8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b009316a385151b271137e5f657e82a8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8dc646f0b6f5bb93189944997d1ac130]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8dc646f0b6f5bb93189944997d1ac130]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-df6c40d53ac7aabe0be388ec2982a1b4]: Textual amendment: Words in reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/a)
+[^c-df6c40d53ac7aabe0be388ec2982a1b4]: Textual amendment: Words in reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/a)
 
 [^c23678591]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-63cb4c3463db26a0d2abf7a44ea8579b]: Textual amendment: Words in reg. 8 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/b/i)
+[^c-63cb4c3463db26a0d2abf7a44ea8579b]: Textual amendment: Words in reg. 8 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/b/i)
 
-[^key-6f3dc487c392ae524584fbb53b0d5c17]: Textual amendment: Words in reg. 8 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/b/ii)
+[^c-6f3dc487c392ae524584fbb53b0d5c17]: Textual amendment: Words in reg. 8 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/b/ii)
 
-[^key-476f343093ca80e998374dc6da9215eb]: Textual amendment: Words in reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/b/iii)
+[^c-476f343093ca80e998374dc6da9215eb]: Textual amendment: Words in reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/b/iii)
 
-[^key-15eff68dfed66f7c55fc676ec9e73a00]: Textual amendment: Words in reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/c)
+[^c-15eff68dfed66f7c55fc676ec9e73a00]: Textual amendment: Words in reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4/c)
 
-[^key-f85d12f7b9bac5c6a3e8191f4605b67f]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f85d12f7b9bac5c6a3e8191f4605b67f]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1a99b3865dfc42e55151ac6bc74fa16c]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1a99b3865dfc42e55151ac6bc74fa16c]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b359be1221af4357de2d84b9d102d1d2]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b359be1221af4357de2d84b9d102d1d2]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

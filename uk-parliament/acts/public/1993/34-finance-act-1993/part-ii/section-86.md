@@ -24,9 +24,9 @@ summary: ''
 
 > **CLASS 6**
 >
-> Ewe and suckler cow premium quotas (that is, rights in respect of any ewes or suckler cows to receive payments by way of any subsidy entitlement to which is determined by reference to limits contained in an EU[^key-fe6c5b718a2bbf5df855c4cb4512daab] instrument).
+> Ewe and suckler cow premium quotas (that is, rights in respect of any ewes or suckler cows to receive payments by way of any subsidy entitlement to which is determined by reference to limits contained in an EU[^c-fe6c5b718a2bbf5df855c4cb4512daab] instrument).
 
-(2)[^key-6aa6ee568cc161474b69a398a4f22319] The Treasury may by order made by statutory instrument amend section 155 of the Taxation of Chargeable Gains Act 1992 (roll-over relief: relevant classes of assets) so as to add to or amend the classes of assets specified in that section.
+(2)[^c-6aa6ee568cc161474b69a398a4f22319] The Treasury may by order made by statutory instrument amend section 155 of the Taxation of Chargeable Gains Act 1992 (roll-over relief: relevant classes of assets) so as to add to or amend the classes of assets specified in that section.
 
 (2A) But an order under subsection (2) may not restrict the assets which fall within a class listed in that section (whether by virtue of subsection (2) or otherwise).
 
@@ -40,8 +40,8 @@ summary: ''
 
 [^c15150961]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-fe6c5b718a2bbf5df855c4cb4512daab]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-fe6c5b718a2bbf5df855c4cb4512daab]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-6aa6ee568cc161474b69a398a4f22319]: Textual amendment: S. 86(2)-(2B) substituted for s. 86(2) (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/37/2)
+[^c-6aa6ee568cc161474b69a398a4f22319]: Textual amendment: S. 86(2)-(2B) substituted for s. 86(2) (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/37/2)
 
 [^c15150981]: Marginal citation: [1979 c. 14](https://www.legislation.gov.uk/ukpga/1979/14).

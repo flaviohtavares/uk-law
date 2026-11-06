@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-3e75e721e3cf96847d720b788fb03577] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development and so far as the provisions still in force are incompatible with the powers contained within this Order—
+**1.**[^c-3e75e721e3cf96847d720b788fb03577] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development and so far as the provisions still in force are incompatible with the powers contained within this Order—
 
 - (a) Anglian Water Authority Act 1977[^f00048];
 - (b) Blankney Fen, Blankney Dales, Linwood Fen, Linwood Dales, Martin Fen and Martin Dales Drainage Act 1832[^f00049];
@@ -40,7 +40,7 @@ Article 6
 
 ## Annotations
 
-[^key-3e75e721e3cf96847d720b788fb03577]: Commencement: Sch. 3 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-3e75e721e3cf96847d720b788fb03577]: Commencement: Sch. 3 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00048]: Footnote: [1977 c. i](https://www.legislation.gov.uk/ukla/1977/1).
 

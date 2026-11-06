@@ -26,10 +26,10 @@ summary: ''
 - (b) amends that Order so as to—
   - (i) make provision for independent advocates for children; and
   - (ii) require persons making certain decisions to have a child's best interests as their primary consideration;
-- (c)[^key-c0c386ba5df8f04548e52bcf0b6d1081] makes other amendments of that Order.
+- (c)[^c-c0c386ba5df8f04548e52bcf0b6d1081] makes other amendments of that Order.
 
 (2) In this section “**children**” means children under 16.
 
 ## Annotations
 
-[^key-c0c386ba5df8f04548e52bcf0b6d1081]: Commencement: [S. 266(1)(c)](https://www.legislation.gov.uk/nia/2016/18/section/266/1/c) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-c0c386ba5df8f04548e52bcf0b6d1081]: Commencement: [S. 266(1)(c)](https://www.legislation.gov.uk/nia/2016/18/section/266/1/c) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

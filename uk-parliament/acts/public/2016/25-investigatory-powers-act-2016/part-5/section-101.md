@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Subject-matter of warrants[^key-8c319df5b09b0a61296b24f249b43fd5]
+## 101. Subject-matter of warrants[^c-8c319df5b09b0a61296b24f249b43fd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c319df5b09b0a61296b24f249b43fd5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2016/25/section/101) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/c)
+[^c-8c319df5b09b0a61296b24f249b43fd5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2016/25/section/101) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/c)

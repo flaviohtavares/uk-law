@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 34. Payment of pension etc.[^key-7521fd6345441f4eb32076d84637ba88]
+## 34. Payment of pension etc.[^c-7521fd6345441f4eb32076d84637ba88]
 
 *Extent: E*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7521fd6345441f4eb32076d84637ba88]: Commencement: [S. 34](https://www.legislation.gov.uk/ukcm/2018/9/section/34) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-7521fd6345441f4eb32076d84637ba88]: Commencement: [S. 34](https://www.legislation.gov.uk/ukcm/2018/9/section/34) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 122. Reports by the competent authority on controls in third countries[^key-8cd19a4882193a9d187b76ec0cb6fa77]
+## Article 122. Reports by the competent authority on controls in third countries[^c-8cd19a4882193a9d187b76ec0cb6fa77]
 
 *Extent: E+W+S+N.I.*
 
-The competent authority[^key-29e1ef01d93751acd9a16d4eff7f66b4] shall report on the findings of each control performed in accordance with Articles 120 and 121. Its report shall, where appropriate, contain recommendations.
+The competent authority[^c-29e1ef01d93751acd9a16d4eff7f66b4] shall report on the findings of each control performed in accordance with Articles 120 and 121. Its report shall, where appropriate, contain recommendations.
 
 The competent authority shall make its reports publicly available.
 
 ## Annotations
 
-[^key-8cd19a4882193a9d187b76ec0cb6fa77]: Textual amendment: Words in [Art. 122](https://www.legislation.gov.uk/eur/2017/625/article/122) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(8)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/8) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-8cd19a4882193a9d187b76ec0cb6fa77]: Textual amendment: Words in [Art. 122](https://www.legislation.gov.uk/eur/2017/625/article/122) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(8)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/8) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-29e1ef01d93751acd9a16d4eff7f66b4]: Textual amendment: Words in [Art. 122](https://www.legislation.gov.uk/eur/2017/625/article/122) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(9)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/9) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-29e1ef01d93751acd9a16d4eff7f66b4]: Textual amendment: Words in [Art. 122](https://www.legislation.gov.uk/eur/2017/625/article/122) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [21(9)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/21/9) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

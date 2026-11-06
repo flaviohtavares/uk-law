@@ -52,18 +52,18 @@ In accordance with paragraph 1(3) of Schedule 7 to the 2018 Act, a draft of this
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-bb2520e4043a8f61c65cb66301f0f34e]
+### 1. Citation and commencement[^c-bb2520e4043a8f61c65cb66301f0f34e]
 
 These Regulations—
 
 - (a) may be cited as the Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019; and
 - (b) come into force as regards—
-  - (i) this regulation and Part 3, on 29th March 2019[^key-a8a538008bb8bffe88364ad4b1876267];
+  - (i) this regulation and Part 3, on 29th March 2019[^c-a8a538008bb8bffe88364ad4b1876267];
   - (ii) the remainder of these Regulations, on exit day.
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Road Traffic Act 1988[^key-210436179ff58ae354166d09ced56c71]
+### 2. Amendment of the Road Traffic Act 1988[^c-210436179ff58ae354166d09ced56c71]
 
 (1) The Road Traffic Act 1988 [^c23677731] is amended as follows.
 
@@ -84,11 +84,11 @@ These Regulations—
   >
   > - “**relevant European approval**” means—
   >   - (a) an EC type-approval certificate, as defined in Article 3(34) of the road vehicles type approval Directive,
-  >   - (aa) an EU type-approval certificate, as referred to in Article 28 of the road vehicles type approval Regulation,[^key-25e89105324c013890dbe4a8e8b2c35b]
+  >   - (aa) an EU type-approval certificate, as referred to in Article 28 of the road vehicles type approval Regulation,[^c-25e89105324c013890dbe4a8e8b2c35b]
   >   - (b) an EU type-approval certificate, as defined in Article 3(32) of the tractor type approval Regulation, or
   >   - (c) an EU type-approval certificate, as defined in Article 3(5) of the motorcycle type approval Regulation,
   >
-  >   whether issued before IP completion day[^key-e9992e480fd2709300f92cc259cff8b6] or, in accordance with that legislation as it has effect in EU law, on or after IP completion day;
+  >   whether issued before IP completion day[^c-e9992e480fd2709300f92cc259cff8b6] or, in accordance with that legislation as it has effect in EU law, on or after IP completion day;
   > - “**relevant regulations**” means—
   >   - (a) regulations made under section 54 of this Act, or
   >   - (b) regulations made under section 2(2) of, or paragraph 1A of Schedule 2 to, the European Communities Act 1972 in relation to the regulation of the type, description, construction or equipment of vehicles, or of components of vehicles, or in relation to any vehicle type-approval scheme.
@@ -115,7 +115,7 @@ These Regulations—
   > (9) In this section, “**European type approval requirements**” means requirements prescribed in—
   >
   > - (a) regulations made under section 2(2) of, or paragraph 1A of Schedule 2 to, the European Communities Act 1972 in relation to the regulation of the type, description, construction or equipment of vehicles, or of components of vehicles, or in relation to any vehicle type-approval scheme,
-  > - (aa)[^key-962c215f28cc77c3336d9751cf9e99d7] the road vehicles type approval Regulation,
+  > - (aa)[^c-962c215f28cc77c3336d9751cf9e99d7] the road vehicles type approval Regulation,
   > - (b) the tractor type approval Regulation, or
   > - (c) the motorcycle type approval Regulation.
 
@@ -129,11 +129,11 @@ These Regulations—
   >
   > (1ZB) In subsection (1ZA) “**relevant European certificate of conformity**” means—
   >
-  > - (a) a certificate of conformity issued before IP completion day[^key-5c8062c93216f7ab11056abcf5a2ddae] by a manufacturer under any provision of the law of a member State other than the United Kingdom giving effect to Article 18 of the road vehicles type approval Directive,
-  > - (aa)[^key-6a32a346310e3e37ae632884b509cfa1] a certificate of conformity issued before IP completion day under Article 36 the road vehicles type approval Regulation,
+  > - (a) a certificate of conformity issued before IP completion day[^c-5c8062c93216f7ab11056abcf5a2ddae] by a manufacturer under any provision of the law of a member State other than the United Kingdom giving effect to Article 18 of the road vehicles type approval Directive,
+  > - (aa)[^c-6a32a346310e3e37ae632884b509cfa1] a certificate of conformity issued before IP completion day under Article 36 the road vehicles type approval Regulation,
   > - (b) a certificate of conformity issued before IP completion day under Article 33 of the tractor type approval Regulation, or
   > - (c) a certificate of conformity issued before IP completion day under Article 38 of the motorcycle type approval Regulation, or
-  > - (d) a certificate of conformity issued on or after IP completion day under that law, Article 36,[^key-020dedc64bb5b5d1354ceff1ccf0ddd1] Article 33 or Article 38 as it has effect at that time.
+  > - (d) a certificate of conformity issued on or after IP completion day under that law, Article 36,[^c-020dedc64bb5b5d1354ceff1ccf0ddd1] Article 33 or Article 38 as it has effect at that time.
 
   ;
 - (b) in subsection (1A), after “85 of this Act”, insert “ and except in the expression “relevant European certificate of conformity” and in the definition of that expression in subsection (1ZB) ”.
@@ -159,22 +159,22 @@ These Regulations—
 
 (5) In section 85 (interpretation of Part 2), in subsection (1), in the definition of “EC certificate of conformity”[^c23677761]—
 
-- (a)[^key-27819b9b904cef9d9d74247ddff0aa46] in paragraph (a)—
+- (a)[^c-27819b9b904cef9d9d74247ddff0aa46] in paragraph (a)—
   - (i) in sub-paragraph (iv), omit “other than the United Kingdom”;
   - (ii) in sub-paragraph (v), after “type approval Regulation”, insert “or under Article 36 or 37 of that Regulation as it has effect in EU law”;
 - (b) in paragraph (b), after “that Regulation”, insert “ or under Article 38 of that Regulation as it has effect in EU law ”;
 - (c) in paragraph (c), after “that Regulation”, insert “ or under Article 33 of that Regulation as it has effect in EU law ”;
-- (d)[^key-296b9b1024e7998c3046942720c2a9b5] in paragraph (d)—
+- (d)[^c-296b9b1024e7998c3046942720c2a9b5] in paragraph (d)—
   - (i) in sub-paragraph (ii), omit “other than the United Kingdom”;
   - (ii) in sub-paragraph (iii), after “type approval Regulation”, insert “or under Article 36 or 37 of that Regulation as it has effect in EU law”;
 
-### 3. Amendment of the Vehicle Excise and Registration Act 1994[^key-a3efb2fd1ec166b9d533753dc1f94583]
+### 3. Amendment of the Vehicle Excise and Registration Act 1994[^c-a3efb2fd1ec166b9d533753dc1f94583]
 
 (1) The Vehicle Excise and Registration Act 1994 [^c23677771] is amended as follows.
 
 (2) In section 7 (issue of vehicle licences)—
 
-- (a)[^key-88989ed0b6a1f319950f2ca5b6dcd4e4] after subsection (5A)[^M_F_e5070fd0-e433-467c-fd90-d5f540f1d98f], insert—
+- (a)[^c-88989ed0b6a1f319950f2ca5b6dcd4e4] after subsection (5A)[^M_F_e5070fd0-e433-467c-fd90-d5f540f1d98f], insert—
 
   > (5B) The Secretary of State may not issue a vehicle licence in respect of a vehicle—
   >
@@ -235,18 +235,18 @@ These Regulations—
 
   > “**EU State**” means—
   >
-  > - (a) in relation to the period before IP completion day[^key-7255adc76e7988175db7fd0fe07bb1ec], a member State other than the United Kingdom, and
+  > - (a) in relation to the period before IP completion day[^c-7255adc76e7988175db7fd0fe07bb1ec], a member State other than the United Kingdom, and
   > - (b) in relation to the period on or after IP completion day, a member State;
 
   ;
 
-  > “[^key-6afe9379dd058acc5945beddfc93df1f]**qualifying Northern Ireland goods**” has the meaning given by regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018;
+  > “[^c-6afe9379dd058acc5945beddfc93df1f]**qualifying Northern Ireland goods**” has the meaning given by regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018;
 
   ;
 
   > “**relevant European approval**” has the meaning given in section 55(1C) of the Road Traffic Act 1988;
 
-  > “[^key-c38ce9ebdd7bd6a08e185752b9749058]**relevant Northern Ireland certificate**” means—
+  > “[^c-c38ce9ebdd7bd6a08e185752b9749058]**relevant Northern Ireland certificate**” means—
   >
   > - (a) a certificate issued pursuant to regulation 16(7) or 18(10) of the Road Vehicles (Approval) Regulations 2020 ([S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818)), as they apply in and in relation to Northern Ireland,
   > - (b) a certificate of conformity issued under Article 31A(3) of the Road Traffic (Northern Ireland) Order 1981,
@@ -260,7 +260,7 @@ These Regulations—
   > - (a) a certificate of conformity issued under section 57 of the Road Traffic Act 1988,
   > - (b) a Minister's approval certificate issued under section 58 of that Act,
   > - (c) a certificate issued pursuant to regulation 25(10) or 27(10) of the Road Vehicles (Approval) Regulations 2009 (S.I. 2009/717),
-  > - (ca)[^key-34bb465dfd73b13f6015eeb2a2040ecf] a certificate issued pursuant to regulation 16(7) or 18(10) of the Road Vehicles (Approval) Regulations 2020 ([S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818)),
+  > - (ca)[^c-34bb465dfd73b13f6015eeb2a2040ecf] a certificate issued pursuant to regulation 16(7) or 18(10) of the Road Vehicles (Approval) Regulations 2020 ([S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818)),
   > - (d) a certificate of conformity issued under Article 31A(3) of the Road Traffic (Northern Ireland) Order 1981,
   > - (e) a Department's approval certificate issued under Article 31A(4) or (5) of that Order, or
   > - (f) an EC certificate of conformity which was issued otherwise than in reliance on a valid relevant European approval granted by or on the authority of an EU State;
@@ -271,9 +271,9 @@ These Regulations—
 
 > **22B. Registration of vehicles: certificates of conformity etc.**
 >
-> (1) Subsections (2) to (3C)[^key-f9d3a0f2e09ff9d9fa50eaa722bbdcdc] have effect notwithstanding any other enactment.
+> (1) Subsections (2) to (3C)[^c-f9d3a0f2e09ff9d9fa50eaa722bbdcdc] have effect notwithstanding any other enactment.
 >
-> (2)[^key-b61233d4acd04ca5b63616a4d9f49ee9] A vehicle—
+> (2)[^c-b61233d4acd04ca5b63616a4d9f49ee9] A vehicle—
 >
 > - (a) which was completed before IP completion day, and
 > - (b) in respect of which there is an EC certificate of conformity issued in reliance on a relevant European approval granted by or on the authority of an EU State,
@@ -307,9 +307,9 @@ These Regulations—
 > - “**EU State**” means—
 >   - (a) in relation to the period before exit day, a member State other than the United Kingdom,
 >   - (b) in relation to the period on or after exit day, a member State;
-> - “[^key-c9217d601b1b799e8df2bcc2ecec3808]**qualifying Northern Ireland goods**” has the meaning given by regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018;
+> - “[^c-c9217d601b1b799e8df2bcc2ecec3808]**qualifying Northern Ireland goods**” has the meaning given by regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018;
 > - “**relevant European approval**” has the meaning given in section 55(1C) of that Act;
-> - “[^key-51d65b0d5362e45b2b5c3edba4fdc78f]**relevant Northern Ireland certificate**” means—
+> - “[^c-51d65b0d5362e45b2b5c3edba4fdc78f]**relevant Northern Ireland certificate**” means—
 >   - (a) a certificate issued pursuant to regulation 16(7) or 18(10) of the Road Vehicles (Approval) Regulations 2020 ([S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818)), as they apply in and in relation to Northern Ireland,
 >   - (b) a certificate of conformity issued under Article 31A(3) of the Road Traffic (Northern Ireland) Order 1981,
 >   - (c) a Department’s approval certificate issued under Article 31A(4) or (5) of that Order, or
@@ -318,7 +318,7 @@ These Regulations—
 >   - (a) a certificate of conformity issued under section 57 of the Road Traffic Act 1988,
 >   - (b) a Minister's approval certificate issued under section 58 of that Act,
 >   - (c) a certificate issued pursuant to regulation 25(10) or 27(10) of the Road Vehicles (Approval) Regulations 2009 (S.I. 2009/717),
->   - (ca) a certificate issued pursuant to regulation 16(7) or 18(10) of the Road Vehicles (Approval) Regulations 2020 ([^key-dd1e03f35cb4af58848f2244f0bf91ec][S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818)),
+>   - (ca) a certificate issued pursuant to regulation 16(7) or 18(10) of the Road Vehicles (Approval) Regulations 2020 ([^c-dd1e03f35cb4af58848f2244f0bf91ec][S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818)),
 >   - (d) a certificate of conformity issued under Article 31A(3) of the Road Traffic (Northern Ireland) Order 1981,
 >   - (e) a Department's approval certificate issued under Article 31A(4) or (5) of that Order, or
 >   - (f) an EC certificate of conformity which was issued otherwise than in reliance on a valid relevant European approval granted by or on the authority of an EU State.
@@ -327,7 +327,7 @@ These Regulations—
 
 ## PART 3 — Amendment of Northern Ireland legislation: European Communities Act 1972
 
-### 4. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-231c4674d714d164578acc95d38057fc]
+### 4. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-231c4674d714d164578acc95d38057fc]
 
 (1) The Road Traffic (Northern Ireland) Order 1981 [^c23677811] is amended as follows.
 
@@ -361,21 +361,21 @@ These Regulations—
 
 ## PART 4 — Amendment of Northern Ireland legislation: European Union (Withdrawal) Act 2018
 
-### 5. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-07d0994d0d84927b3a24580255cec4c3]
+### 5. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-07d0994d0d84927b3a24580255cec4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Amendment of subordinate legislation
 
-### 6. Amendment of the Road Vehicles (Approval) Regulations 2009[^key-98c6a38b7cefba47f6546805c5189446]
+### 6. Amendment of the Road Vehicles (Approval) Regulations 2009[^c-98c6a38b7cefba47f6546805c5189446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018[^key-fac1028726e7d65b39900759e65bd83d]
+### 7. Amendment of the Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018[^c-fac1028726e7d65b39900759e65bd83d]
 
 (1) The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 [^c23677891] are amended as follows.
 
-(2)[^key-b56cec40afed5aeda8117b4f9ed34c5f] After regulation 10 (withdrawal and suspension of approvals: effect), insert—
+(2)[^c-b56cec40afed5aeda8117b4f9ed34c5f] After regulation 10 (withdrawal and suspension of approvals: effect), insert—
 
 > **10A. Products approved in member States or in Northern Ireland**
 >
@@ -397,7 +397,7 @@ These Regulations—
 
 .
 
-### 7A. Amendment of the Road Vehicles Approval Regulations 2020[^M_I_cafd4a46-72e5-4c80-9b4a-6bac7a0ee714][^key-5760826f46f007a3493fac9026195d54]
+### 7A. Amendment of the Road Vehicles Approval Regulations 2020[^M_I_cafd4a46-72e5-4c80-9b4a-6bac7a0ee714][^c-5760826f46f007a3493fac9026195d54]
 
 (1) The Road Vehicle Approval Regulations 2020 are amended as follows.
 
@@ -457,7 +457,7 @@ These Regulations—
 
 ## PART 6 — Amendment of retained direct EU legislation
 
-### A8. Amendment of [Commission Regulation (EU) No 1230/2012](https://www.legislation.gov.uk/eur/2012/1230)[^M_I_2959b30b-ef91-4f17-a9c6-0a198c298264][^key-9760b04b77cad9db1b204ad66b004ba5]
+### A8. Amendment of [Commission Regulation (EU) No 1230/2012](https://www.legislation.gov.uk/eur/2012/1230)[^M_I_2959b30b-ef91-4f17-a9c6-0a198c298264][^c-9760b04b77cad9db1b204ad66b004ba5]
 
 (1) [Commission Regulation (EU) No 1230/2012](https://www.legislation.gov.uk/eur/2012/1230) of 12 December 2012 implementing Regulation [(EC) No 661/2009](https://www.legislation.gov.uk/eur/2009/0661) of the European Parliament and of the Council with regard to type-approval requirements for masses and dimensions of motor vehicles and their trailers is amended as follows.
 
@@ -475,17 +475,17 @@ These Regulations—
   - (ii) in points 1.2 and 1.4, for “length, width and height”, in each place those words occur, substitute “length and width”;
   - (iii) in point 1.3, omit “, height”
 
-### 8. Amendment of Regulation (EU) No 167/2013[^key-834ec5cbbc633477d37c9d4d4b39f5ad]
+### 8. Amendment of Regulation (EU) No 167/2013[^c-834ec5cbbc633477d37c9d4d4b39f5ad]
 
 (1) Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5th February 2013 on the approval and market surveillance of agricultural and forestry vehicles is amended as follows.
 
 (2) In Article 3 (definitions), after the final paragraph, insert—
 
-> References in this Regulation to Member States are to be read (insofar as is possible) as including Great Britain[^key-2cc244e9cc895805f8c22765b2f1dcb9].
+> References in this Regulation to Member States are to be read (insofar as is possible) as including Great Britain[^c-2cc244e9cc895805f8c22765b2f1dcb9].
 
 .
 
-(3)[^key-610f05a072031ab7988d34440b624d01] In Article 40—
+(3)[^c-610f05a072031ab7988d34440b624d01] In Article 40—
 
 - (a) in paragraph 1, for the words from “if they comply” to the end substitute “if paragraph 1A applies to the components or separate technical units”;
 - (b) after paragraph 1, insert—
@@ -498,17 +498,17 @@ These Regulations—
 
   .
 
-### 9. Amendment of Regulation (EU) No 168/2013[^key-eec26da294d17a3b53d558c1b130bfdb]
+### 9. Amendment of Regulation (EU) No 168/2013[^c-eec26da294d17a3b53d558c1b130bfdb]
 
 (1) Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15th January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles is amended as follows.
 
 (2) In Article 3 (definitions), after the final paragraph, insert—
 
-> References in this Regulation to Member States are to be read (insofar as is possible) as including Great Britain[^key-c4a462b0e1f85d6e58532dbd98d5ae6a].
+> References in this Regulation to Member States are to be read (insofar as is possible) as including Great Britain[^c-c4a462b0e1f85d6e58532dbd98d5ae6a].
 
 .
 
-(3)[^key-3b1d10111d0a85a3a70e002ed2fdc963] In Article 45—
+(3)[^c-3b1d10111d0a85a3a70e002ed2fdc963] In Article 45—
 
 - (a) in paragraph 1, for the words from “if they comply” to the end substitute “if paragraph 1A applies to the components or separate technical units”;
 - (b) after paragraph 1, insert—
@@ -521,7 +521,7 @@ These Regulations—
 
   .
 
-### 10. Amendment of Regulation (EU) 2016/1628[^key-1fa3ee7383621b7c73b56c772bf33561]
+### 10. Amendment of Regulation (EU) 2016/1628[^c-1fa3ee7383621b7c73b56c772bf33561]
 
 (1) Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14th September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery is amended as follows.
 
@@ -531,17 +531,17 @@ These Regulations—
 
 .
 
-### 10ZA. Amendment of Regulation (EU) 2018/858[^M_I_79240089-0ece-42d5-bf17-0ca0e4bdf301][^key-5aadd2acb42cae670496af04768bbca5]
+### 10ZA. Amendment of Regulation (EU) 2018/858[^M_I_79240089-0ece-42d5-bf17-0ca0e4bdf301][^c-5aadd2acb42cae670496af04768bbca5]
 
 (1) Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles is amended as follows.
 
 (2) In Article 3 (definitions), after point (58), insert—
 
-> References in this Regulation to Member States are to be read (insofar as is possible) as including Great Britain[^key-3d47b0bd037a36c1c33d13910e14086f].
+> References in this Regulation to Member States are to be read (insofar as is possible) as including Great Britain[^c-3d47b0bd037a36c1c33d13910e14086f].
 
 .
 
-(2A)[^key-5cd2adb0b79d5979f4d09a1ea4e56bcf] In Article 50—
+(2A)[^c-5cd2adb0b79d5979f4d09a1ea4e56bcf] In Article 50—
 
 - (a) in paragraph 1, for the words from “if they comply” to the end substitute “if paragraph 1A applies to the components or separate technical units”;
 - (b) after paragraph 1, insert—
@@ -561,7 +561,7 @@ These Regulations—
 
 (4) In paragraph (3), the “relevant period” means the period of six months beginning with the day on which IP completion day falls.
 
-## PART 6A — Revocation of retained direct EU legislation and transitional provision[^key-b94662e37df5428d9c117ffc5d98dcb8]
+## PART 6A — Revocation of retained direct EU legislation and transitional provision[^c-b94662e37df5428d9c117ffc5d98dcb8]
 
 ### 10A. Revocation of Regulation (EU) 2019/26 and transitional provision[^M_I_94580939-9e19-49d1-a1da-26ac8b050bff]
 
@@ -570,7 +570,7 @@ These Regulations—
 - (a) is revoked; and
 - (b) is to be treated as though it never formed part of retained EU law.
 
-(2) Any valid UK type-approval (as defined in Article 3(2) of Regulation (EU) 2019/26 of the European Parliament and of the Council of 8 January 2019 complementing Union type-approval legislation with regard to the withdrawal of the United Kingdom from the Union [^M_F_c82ffd09-4858-460d-e0ff-95cdc8ed729c], as it had effect in EU law before IP completion day[^key-4292df93087014a90af531c154085cf1]) existing immediately before IP completion day—
+(2) Any valid UK type-approval (as defined in Article 3(2) of Regulation (EU) 2019/26 of the European Parliament and of the Council of 8 January 2019 complementing Union type-approval legislation with regard to the withdrawal of the United Kingdom from the Union [^M_F_c82ffd09-4858-460d-e0ff-95cdc8ed729c], as it had effect in EU law before IP completion day[^c-4292df93087014a90af531c154085cf1]) existing immediately before IP completion day—
 
 - (a) to the extent it is rendered invalid by—
   - (i) the third sentence of Article 5(5) of that Regulation; or
@@ -581,15 +581,15 @@ These Regulations—
 
 ## PART 7 — Expiry of Regulations
 
-### 11. Expiry and saving[^key-6271f6e5321d12720e7b4be49177f978]
+### 11. Expiry and saving[^c-6271f6e5321d12720e7b4be49177f978]
 
-(1) Parts 2 , 5 and 6[^key-a539729529fe370bb1eadb73a16c9096] of these Regulations expire at the end of a period of two years beginning with IP completion day[^key-83d4418eabfb4ff28c9ff1411ebd1ced].
+(1) Parts 2 , 5 and 6[^c-a539729529fe370bb1eadb73a16c9096] of these Regulations expire at the end of a period of two years beginning with IP completion day[^c-83d4418eabfb4ff28c9ff1411ebd1ced].
 
 (2) The expiry provided for in paragraph (1) does not affect the validity of a type-approval certificate issued, following approval under—
 
 - (a) section 55(1A) of the Road Traffic Act 1988;
-- (b)[^key-8a15967e45af97dba69be0b619bc08e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-31ef09426d06224eeb6a1d0dbef22799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8a15967e45af97dba69be0b619bc08e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-31ef09426d06224eeb6a1d0dbef22799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 before the date on which expiry takes effect.
 
@@ -625,126 +625,126 @@ An Explanatory Memorandum has been prepared and is available alongside this inst
 
 [^c23677721]: Marginal citation: OJ No L 60, 2.3.2013, p.1.
 
-[^key-bb2520e4043a8f61c65cb66301f0f34e]: Commencement: Reg. 1 in force at 29.3.2019, see reg. 1(b)(i) (as amended by [S.I. 2019/691](https://www.legislation.gov.uk/uksi/2019/691), [regs. 1](https://www.legislation.gov.uk/uksi/2019/691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/691/regulation/2))
+[^c-bb2520e4043a8f61c65cb66301f0f34e]: Commencement: Reg. 1 in force at 29.3.2019, see reg. 1(b)(i) (as amended by [S.I. 2019/691](https://www.legislation.gov.uk/uksi/2019/691), [regs. 1](https://www.legislation.gov.uk/uksi/2019/691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/691/regulation/2))
 
-[^key-a8a538008bb8bffe88364ad4b1876267]: Textual amendment: Words in reg. 1(b)(i) substituted (28.3.2019) by [The Road Vehicles and Non-Road Mobile Machinery (Type Approval) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/691)](https://www.legislation.gov.uk/uksi/2019/691), [regs. 1](https://www.legislation.gov.uk/uksi/2019/691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/691/regulation/2)
+[^c-a8a538008bb8bffe88364ad4b1876267]: Textual amendment: Words in reg. 1(b)(i) substituted (28.3.2019) by [The Road Vehicles and Non-Road Mobile Machinery (Type Approval) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/691)](https://www.legislation.gov.uk/uksi/2019/691), [regs. 1](https://www.legislation.gov.uk/uksi/2019/691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/691/regulation/2)
 
-[^key-210436179ff58ae354166d09ced56c71]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-210436179ff58ae354166d09ced56c71]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
 [^c23677731]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
 [^c23677741]: Marginal citation: Section 55 was amended by section 17(1)(a) of the [Transport Act 1982 (c. 49)](https://www.legislation.gov.uk/ukpga/1982/49).
 
-[^key-25e89105324c013890dbe4a8e8b2c35b]: Textual amendment: Words in reg. 2(2)(a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/a/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-25e89105324c013890dbe4a8e8b2c35b]: Textual amendment: Words in reg. 2(2)(a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/a/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-e9992e480fd2709300f92cc259cff8b6]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/2/a)
+[^c-e9992e480fd2709300f92cc259cff8b6]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/2/a)
 
-[^key-962c215f28cc77c3336d9751cf9e99d7]: Textual amendment: Words in reg. 2(2)(e) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/a/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-962c215f28cc77c3336d9751cf9e99d7]: Textual amendment: Words in reg. 2(2)(e) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/a/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c23677751]: Marginal citation: Section 57 was amended by section 17(1)(a) of the Transport Act 1982 and [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107).
 
-[^key-5c8062c93216f7ab11056abcf5a2ddae]: Textual amendment: Words in reg. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/2/b)
+[^c-5c8062c93216f7ab11056abcf5a2ddae]: Textual amendment: Words in reg. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/2/b)
 
-[^key-6a32a346310e3e37ae632884b509cfa1]: Textual amendment: Words in reg. 2(3)(a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/b/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-6a32a346310e3e37ae632884b509cfa1]: Textual amendment: Words in reg. 2(3)(a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/b/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-020dedc64bb5b5d1354ceff1ccf0ddd1]: Textual amendment: Words in reg. 2(3)(a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/b/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-020dedc64bb5b5d1354ceff1ccf0ddd1]: Textual amendment: Words in reg. 2(3)(a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/b/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c23677761]: Marginal citation: The definition of EC certificate of conformity was inserted by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107), substituted by [S.I. 2009/818](https://www.legislation.gov.uk/uksi/2009/818) and amended by [S.I. 2018/235](https://www.legislation.gov.uk/uksi/2018/235) and 236.
 
-[^key-27819b9b904cef9d9d74247ddff0aa46]: Textual amendment: Reg. 2(5)(a) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/c/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-27819b9b904cef9d9d74247ddff0aa46]: Textual amendment: Reg. 2(5)(a) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/c/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-296b9b1024e7998c3046942720c2a9b5]: Textual amendment: Reg. 2(5)(d) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/c/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-296b9b1024e7998c3046942720c2a9b5]: Textual amendment: Reg. 2(5)(d) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/2/c/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-a3efb2fd1ec166b9d533753dc1f94583]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-a3efb2fd1ec166b9d533753dc1f94583]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
 [^c23677771]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-88989ed0b6a1f319950f2ca5b6dcd4e4]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/i)
+[^c-88989ed0b6a1f319950f2ca5b6dcd4e4]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/i)
 
 [^M_F_e5070fd0-e433-467c-fd90-d5f540f1d98f]: Textual amendment: Subsection (5A) was inserted by section 15(1) of the HGV Road User Levy Act [2013 (c. 7)](https://www.legislation.gov.uk/ukpga/2013/7).
 
 [^c23677791]: Marginal citation: Subsection (8) was inserted by section 17(10) and (14) of the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8) and amended by section 15(2) of the HGV Road User Levy Act 2013.
 
-[^key-7255adc76e7988175db7fd0fe07bb1ec]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/ii/aa)
+[^c-7255adc76e7988175db7fd0fe07bb1ec]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/ii/aa)
 
-[^key-6afe9379dd058acc5945beddfc93df1f]: Textual amendment: Words in reg. 3(2)(b) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/ii/bb)
+[^c-6afe9379dd058acc5945beddfc93df1f]: Textual amendment: Words in reg. 3(2)(b) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/ii/bb)
 
-[^key-c38ce9ebdd7bd6a08e185752b9749058]: Textual amendment: Words in reg. 3(2)(b) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/ii/cc)
+[^c-c38ce9ebdd7bd6a08e185752b9749058]: Textual amendment: Words in reg. 3(2)(b) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/ii/cc)
 
-[^key-34bb465dfd73b13f6015eeb2a2040ecf]: Textual amendment: Words in reg. 3(2)(b) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-34bb465dfd73b13f6015eeb2a2040ecf]: Textual amendment: Words in reg. 3(2)(b) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c23677801]: Marginal citation: Subsection 22A was inserted by section 33(2) of the [Vehicles (Crime) Act 2001 (c. 3)](https://www.legislation.gov.uk/ukpga/2001/3) and amended by section 48(3) of the [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-f9d3a0f2e09ff9d9fa50eaa722bbdcdc]: Textual amendment: Words in reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/i)
+[^c-f9d3a0f2e09ff9d9fa50eaa722bbdcdc]: Textual amendment: Words in reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/i)
 
-[^key-b61233d4acd04ca5b63616a4d9f49ee9]: Textual amendment: Words in reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/ii)
+[^c-b61233d4acd04ca5b63616a4d9f49ee9]: Textual amendment: Words in reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/ii)
 
-[^key-c9217d601b1b799e8df2bcc2ecec3808]: Textual amendment: Words in reg. 3(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/iii)
+[^c-c9217d601b1b799e8df2bcc2ecec3808]: Textual amendment: Words in reg. 3(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/iii)
 
-[^key-51d65b0d5362e45b2b5c3edba4fdc78f]: Textual amendment: Words in reg. 3(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/iv)
+[^c-51d65b0d5362e45b2b5c3edba4fdc78f]: Textual amendment: Words in reg. 3(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/b/iv)
 
-[^key-dd1e03f35cb4af58848f2244f0bf91ec]: Textual amendment: Words in reg. 3(3) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-dd1e03f35cb4af58848f2244f0bf91ec]: Textual amendment: Words in reg. 3(3) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-231c4674d714d164578acc95d38057fc]: Commencement: Reg. 4 in force at 29.3.2019, see reg. 1(b)(i) (as amended by [S.I. 2019/691](https://www.legislation.gov.uk/uksi/2019/691), [regs. 1](https://www.legislation.gov.uk/uksi/2019/691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/691/regulation/2))
+[^c-231c4674d714d164578acc95d38057fc]: Commencement: Reg. 4 in force at 29.3.2019, see reg. 1(b)(i) (as amended by [S.I. 2019/691](https://www.legislation.gov.uk/uksi/2019/691), [regs. 1](https://www.legislation.gov.uk/uksi/2019/691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/691/regulation/2))
 
 [^c23677811]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
 
 [^c23677821]: Marginal citation: Article 31A was inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755) and amended by [S.R.1993/246](https://www.legislation.gov.uk/nisr/1993/246), [S.I](https://www.legislation.gov.uk/nisr/1993/246/section/I). 2006/1254 (N.I. 9) and [S.I. 2018/235](https://www.legislation.gov.uk/uksi/2018/235).
 
-[^key-07d0994d0d84927b3a24580255cec4c3]: Textual amendment: Pt. 4 omitted (N.I.) (31.12.2020 immediately before IP completion day) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/4)
+[^c-07d0994d0d84927b3a24580255cec4c3]: Textual amendment: Pt. 4 omitted (N.I.) (31.12.2020 immediately before IP completion day) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/4)
 
-[^key-98c6a38b7cefba47f6546805c5189446]: Textual amendment: Reg. 6 omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(5)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/5) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-98c6a38b7cefba47f6546805c5189446]: Textual amendment: Reg. 6 omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(5)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/5) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-fac1028726e7d65b39900759e65bd83d]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-fac1028726e7d65b39900759e65bd83d]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
 [^c23677891]: Marginal citation: [S.I. 2018/764](https://www.legislation.gov.uk/uksi/2018/764).
 
-[^key-b56cec40afed5aeda8117b4f9ed34c5f]: Textual amendment: Reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/5)
+[^c-b56cec40afed5aeda8117b4f9ed34c5f]: Textual amendment: Reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/5)
 
 [^M_I_cafd4a46-72e5-4c80-9b4a-6bac7a0ee714]: Commencement: Reg. 7A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
-[^key-5760826f46f007a3493fac9026195d54]: Textual amendment: Reg. 7A inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/6)
+[^c-5760826f46f007a3493fac9026195d54]: Textual amendment: Reg. 7A inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/6)
 
 [^M_I_2959b30b-ef91-4f17-a9c6-0a198c298264]: Commencement: Reg. A8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
-[^key-9760b04b77cad9db1b204ad66b004ba5]: Textual amendment: Reg. A8 inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/7)
+[^c-9760b04b77cad9db1b204ad66b004ba5]: Textual amendment: Reg. A8 inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/7)
 
-[^key-834ec5cbbc633477d37c9d4d4b39f5ad]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-834ec5cbbc633477d37c9d4d4b39f5ad]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
-[^key-2cc244e9cc895805f8c22765b2f1dcb9]: Textual amendment: Words in reg. 8(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/8/a)
+[^c-2cc244e9cc895805f8c22765b2f1dcb9]: Textual amendment: Words in reg. 8(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/8/a)
 
-[^key-610f05a072031ab7988d34440b624d01]: Textual amendment: Reg. 8(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/8/b)
+[^c-610f05a072031ab7988d34440b624d01]: Textual amendment: Reg. 8(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/8/b)
 
-[^key-eec26da294d17a3b53d558c1b130bfdb]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-eec26da294d17a3b53d558c1b130bfdb]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
-[^key-c4a462b0e1f85d6e58532dbd98d5ae6a]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/9/a)
+[^c-c4a462b0e1f85d6e58532dbd98d5ae6a]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/9/a)
 
-[^key-3b1d10111d0a85a3a70e002ed2fdc963]: Textual amendment: Reg. 9(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/9/b)
+[^c-3b1d10111d0a85a3a70e002ed2fdc963]: Textual amendment: Reg. 9(3) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/9/b)
 
-[^key-1fa3ee7383621b7c73b56c772bf33561]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-1fa3ee7383621b7c73b56c772bf33561]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
 [^M_I_79240089-0ece-42d5-bf17-0ca0e4bdf301]: Commencement: Reg. 10ZA in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
-[^key-5aadd2acb42cae670496af04768bbca5]: Textual amendment: Reg. 10ZA inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(6)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/6) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-5aadd2acb42cae670496af04768bbca5]: Textual amendment: Reg. 10ZA inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 39(6)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/39/6) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-3d47b0bd037a36c1c33d13910e14086f]: Textual amendment: Words in [reg. 10ZA(2)](https://www.legislation.gov.uk/uksi/2019/648/regulation/10ZA/2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/10/a)
+[^c-3d47b0bd037a36c1c33d13910e14086f]: Textual amendment: Words in [reg. 10ZA(2)](https://www.legislation.gov.uk/uksi/2019/648/regulation/10ZA/2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/10/a)
 
-[^key-5cd2adb0b79d5979f4d09a1ea4e56bcf]: Textual amendment: [Reg. 10ZA(2A)](https://www.legislation.gov.uk/uksi/2019/648/regulation/10ZA/2A) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/10/b)
+[^c-5cd2adb0b79d5979f4d09a1ea4e56bcf]: Textual amendment: [Reg. 10ZA(2A)](https://www.legislation.gov.uk/uksi/2019/648/regulation/10ZA/2A) inserted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/10/b)
 
-[^key-b94662e37df5428d9c117ffc5d98dcb8]: Textual amendment: Pt. 6A inserted (15.8.2019) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1156)](https://www.legislation.gov.uk/uksi/2019/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1156/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1156/regulation/2/b)
+[^c-b94662e37df5428d9c117ffc5d98dcb8]: Textual amendment: Pt. 6A inserted (15.8.2019) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1156)](https://www.legislation.gov.uk/uksi/2019/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1156/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1156/regulation/2/b)
 
 [^M_I_94580939-9e19-49d1-a1da-26ac8b050bff]: Commencement: Reg. 10A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
 [^M_F_c82ffd09-4858-460d-e0ff-95cdc8ed729c]: Textual amendment: OJ L 8I, 10.1.2019, p. 1.
 
-[^key-4292df93087014a90af531c154085cf1]: Textual amendment: Words in reg. 10A(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/11)
+[^c-4292df93087014a90af531c154085cf1]: Textual amendment: Words in reg. 10A(2) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/11)
 
-[^key-6271f6e5321d12720e7b4be49177f978]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
+[^c-6271f6e5321d12720e7b4be49177f978]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/b/ii)
 
-[^key-a539729529fe370bb1eadb73a16c9096]: Textual amendment: Words in reg. 11(1) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/a/i)
+[^c-a539729529fe370bb1eadb73a16c9096]: Textual amendment: Words in reg. 11(1) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/a/i)
 
-[^key-83d4418eabfb4ff28c9ff1411ebd1ced]: Textual amendment: Words in reg. 11(1) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/a/ii)
+[^c-83d4418eabfb4ff28c9ff1411ebd1ced]: Textual amendment: Words in reg. 11(1) substituted (31.12.2020 immediately before IP completion day) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/a/ii)
 
-[^key-8a15967e45af97dba69be0b619bc08e8]: Textual amendment: Reg. 11(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/b/i)
+[^c-8a15967e45af97dba69be0b619bc08e8]: Textual amendment: Reg. 11(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/b/i)
 
-[^key-31ef09426d06224eeb6a1d0dbef22799]: Textual amendment: Reg. 11(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/b/ii)
+[^c-31ef09426d06224eeb6a1d0dbef22799]: Textual amendment: Reg. 11(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(12)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12/b/ii)

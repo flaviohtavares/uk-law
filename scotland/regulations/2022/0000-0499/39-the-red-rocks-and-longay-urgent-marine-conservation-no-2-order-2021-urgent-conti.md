@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The Red Rocks and Longay Urgent Marine Conservation (No. 2) Order 2021 (Urgent Continuation) Order 2022 (revoked)[^key-ae995d245c8e32dd4207fd445254a1f5]
+The Red Rocks and Longay Urgent Marine Conservation (No. 2) Order 2021 (Urgent Continuation) Order 2022 (revoked)[^c-ae995d245c8e32dd4207fd445254a1f5]
 
 Made
 
@@ -48,22 +48,22 @@ Coming into force
 
 16th March 2022
 
-[^key-ae995d245c8e32dd4207fd445254a1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae995d245c8e32dd4207fd445254a1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ae995d245c8e32dd4207fd445254a1f5]
+## 1. Citation and commencement[^c-ae995d245c8e32dd4207fd445254a1f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Continuation of the Red Rocks and Longay Urgent Marine Conservation (No. 2) Order 2021 and duration in force[^key-ae995d245c8e32dd4207fd445254a1f5]
+## 2. Continuation of the Red Rocks and Longay Urgent Marine Conservation (No. 2) Order 2021 and duration in force[^c-ae995d245c8e32dd4207fd445254a1f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae995d245c8e32dd4207fd445254a1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae995d245c8e32dd4207fd445254a1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae995d245c8e32dd4207fd445254a1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae995d245c8e32dd4207fd445254a1f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae995d245c8e32dd4207fd445254a1f5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/39) revoked (9.2.2023) by [The Red Rocks and Longay Marine Conservation Order 2022 (S.S.I. 2022/372)](https://www.legislation.gov.uk/ssi/2022/372), [arts. 1](https://www.legislation.gov.uk/ssi/2022/372/article/1), [8](https://www.legislation.gov.uk/ssi/2022/372/article/8)
+[^c-ae995d245c8e32dd4207fd445254a1f5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/39) revoked (9.2.2023) by [The Red Rocks and Longay Marine Conservation Order 2022 (S.S.I. 2022/372)](https://www.legislation.gov.uk/ssi/2022/372), [arts. 1](https://www.legislation.gov.uk/ssi/2022/372/article/1), [8](https://www.legislation.gov.uk/ssi/2022/372/article/8)

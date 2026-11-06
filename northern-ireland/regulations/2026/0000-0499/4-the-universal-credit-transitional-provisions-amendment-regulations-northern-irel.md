@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and commencement[^key-03f711fd951f6cd3eece1159aca0d8f7]
+## 1. Citation and commencement[^c-03f711fd951f6cd3eece1159aca0d8f7]
 
 These Regulations may be cited as the Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 29th January 2026.
 
-## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-b6e81d930333f2019391cade0cc558d9]
+## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-b6e81d930333f2019391cade0cc558d9]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00004] are amended in accordance with paragraphs (2) and (3).
 
@@ -142,9 +142,9 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-03f711fd951f6cd3eece1159aca0d8f7]: Commencement: Reg. 1 in operation at 29.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/4/regulation/1)
+[^c-03f711fd951f6cd3eece1159aca0d8f7]: Commencement: Reg. 1 in operation at 29.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/4/regulation/1)
 
-[^key-b6e81d930333f2019391cade0cc558d9]: Commencement: Reg. 2 in operation at 29.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/4/regulation/1)
+[^c-b6e81d930333f2019391cade0cc558d9]: Commencement: Reg. 2 in operation at 29.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/4/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226); relevant amending instruments are [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152), [S.R. 2021 No. 2](https://www.legislation.gov.uk/nisr/2021/2), [S.R. 2024 No. 5](https://www.legislation.gov.uk/nisr/2024/5), [S.R. 2025 No. 3](https://www.legislation.gov.uk/nisr/2025/3)
 

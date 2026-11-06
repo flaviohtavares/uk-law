@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3ZA. Registered crofts[^key-dd813fcab24473e1485bd8e693e782e7]
+## 3ZA. Registered crofts[^c-dd813fcab24473e1485bd8e693e782e7]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ is registered in the Crofting Register.
 
 ## Annotations
 
-[^key-dd813fcab24473e1485bd8e693e782e7]: Textual amendment: S. 3ZA inserted (30.11.2012) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 22(2)](https://www.legislation.gov.uk/asp/2010/14/section/22/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-dd813fcab24473e1485bd8e693e782e7]: Textual amendment: S. 3ZA inserted (30.11.2012) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 22(2)](https://www.legislation.gov.uk/asp/2010/14/section/22/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

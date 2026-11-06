@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309D. Deputy Health Advisers: identity and appointment[^key-c94b4e3d05227e60d2d829dc5f132093]
+## 309D. Deputy Health Advisers: identity and appointment[^c-c94b4e3d05227e60d2d829dc5f132093]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c94b4e3d05227e60d2d829dc5f132093]: Textual amendment: Pt. 5A inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/21/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-c94b4e3d05227e60d2d829dc5f132093]: Textual amendment: Pt. 5A inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/21/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)

@@ -36,7 +36,7 @@ Fees And Charges
 
 Consumer Protection
 
-The Medicines (Products for Human Use) (Fees) Regulations 2009 (revoked)[^key-5470e79035bf1330494896f42d3f9c1c]
+The Medicines (Products for Human Use) (Fees) Regulations 2009 (revoked)[^c-5470e79035bf1330494896f42d3f9c1c]
 
 Made
 
@@ -50,11 +50,11 @@ Coming into force
 
 1st<sup></sup>April 2009
 
-[^key-5470e79035bf1330494896f42d3f9c1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5470e79035bf1330494896f42d3f9c1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 1 — General[^c-5470e79035bf1330494896f42d3f9c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ Coming into force
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Capital Fees for Pre-Application Meetings[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 2 — Capital Fees for Pre-Application Meetings[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 10 — Fee for advice for other purposes](part-2/section-10.md)
 - [Section 11 — Time for payment of fees under regulations 4 to 10](part-2/section-11.md)
 
-### PART 3 — Capital Fees for Applications for Authorizations, Registrations, Licences, Certificates or Authorisations and for Associated Inspections[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 3 — Capital Fees for Applications for Authorizations, Registrations, Licences, Certificates or Authorisations and for Associated Inspections[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -85,7 +85,7 @@ Coming into force
 - [Section 13 — Fee for applications for copy certificates of good manufacturing practice](part-3/section-13.md)
 - [Section 14 — Fees for applications for certificates and copy certificates by exporters of medicinal products](part-3/section-14.md)
 
-### PART 4 — Capital Fees for Assistance in Obtaining Marketing Authorizations in Other EEA States[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 4 — Capital Fees for Assistance in Obtaining Marketing Authorizations in Other EEA States[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -93,7 +93,7 @@ Coming into force
 - [Section 16 — Fees for applications for regulatory assistance under the mutual recognition procedure](part-4/section-16.md)
 - [Section 17 — Time for payment of fees under regulation 16](part-4/section-17.md)
 
-### PART 5 — Capital Fees for Applications for Variations of Authorizations, Registrations, Licences and Certificates and for Associated Inspections[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 5 — Capital Fees for Applications for Variations of Authorizations, Registrations, Licences and Certificates and for Associated Inspections[^c-5470e79035bf1330494896f42d3f9c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,7 +105,7 @@ Coming into force
 - [Section 20 — Applications for multiple variations](part-5/section-20.md)
 - [Section 20A — Applications for variations to the terms of a marketing authorization](part-5/section-20a.md)
 
-### PART 6 — Capital Fees for Assessment of Labels and Leaflets[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 6 — Capital Fees for Assessment of Labels and Leaflets[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -113,20 +113,20 @@ Coming into force
 - [Section 22 — Fees for assessment of a set of proposed changes to labels and leaflets](part-6/section-22.md)
 - [Section 23 — Time for payment of fees under regulation 22](part-6/section-23.md)
 
-### PART 7 — Capital Fees for Applications for Renewals of Certain Licences, Authorizations and Registrations and for Associated Inspections[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 7 — Capital Fees for Applications for Renewals of Certain Licences, Authorizations and Registrations and for Associated Inspections[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
 - [Section 24 — Fees for renewals of certain manufacturer's licences](part-7/section-24.md)
 - [Section 25 — Fees for renewals in terms which are not identical to the existing authorization, licence or certificate](part-7/section-25.md)
 
-### PART 8 — Capital Fees for Regulatory Assistance Given by the United Kingdom Acting as Reference Member State Relating to the Assessment of Applications for the Renewal of Specified Marketing Authorizations[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 8 — Capital Fees for Regulatory Assistance Given by the United Kingdom Acting as Reference Member State Relating to the Assessment of Applications for the Renewal of Specified Marketing Authorizations[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
 - [Section 26 — Fees for regulatory assistance for certain marketing authorizations](part-8/section-26.md)
 
-### PART 9 — Capital Fees for Inspections[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 9 — Capital Fees for Inspections[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -137,28 +137,28 @@ Coming into force
 - [Section 31 — Amount of and time for payment of inspection fees in respect of an application for a wholesale dealer's licence](part-9/section-31.md)
 - [Section 32 — Adjustment and refund of inspection fees in respect of a wholesale dealer's licence](part-9/section-32.md)
 
-### PART 10 — Periodic Fees for Marketing Authorizations and Licences[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 10 — Periodic Fees for Marketing Authorizations and Licences[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
 - [Section 33 — Periodic fees](part-10/section-33.md)
 - [Section 34 — Periodic fees for clinical trial authorisations](part-10/section-34.md)
 
-### PART 11 — Capital Fees For Application For Membership of Good Clinical Practice Accreditation Scheme and for Certificate of Membership[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 11 — Capital Fees For Application For Membership of Good Clinical Practice Accreditation Scheme and for Certificate of Membership[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
 - [Section 35 — Meaning of “good clinical practice accreditation” scheme](part-11/section-35.md)
 - [Section 36 — Fees for applications for membership and certificate](part-11/section-36.md)
 
-### PART 12 — Capital Fee for a Person Appointed Hearing[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 12 — Capital Fee for a Person Appointed Hearing[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
 - [Section 37 — Fee for a person appointed hearing](part-12/section-37.md)
 - [Section 38 — Time for payment under regulation 37](part-12/section-38.md)
 
-### PART 13 — Administration[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 13 — Administration[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -174,13 +174,13 @@ Coming into force
 - [Section 48 — Suspension of licences and authorisations](part-13/section-48.md)
 - [Section 49 — Civil proceedings to recover unpaid fees](part-13/section-49.md)
 
-### PART 14[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 14[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
 - [Section 50 — Amendment of the Medicines (Homoeopathic Medicinal Products for Human Use) Regulations 1994](part-14/section-50.md)
 
-### PART 15 — Revocations and Savings[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 15 — Revocations and Savings[^c-5470e79035bf1330494896f42d3f9c1c]
 
 **No longer in force.**
 
@@ -198,14 +198,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-5470e79035bf1330494896f42d3f9c1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5470e79035bf1330494896f42d3f9c1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-5470e79035bf1330494896f42d3f9c1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5470e79035bf1330494896f42d3f9c1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5470e79035bf1330494896f42d3f9c1c]: Textual amendment: Regulations revoked (1.4.2010) by [The Medicines (Products for Human Use) (Fees) Regulations 2010 (S.I. 2010/551)](https://www.legislation.gov.uk/uksi/2010/551), [regs. 1](https://www.legislation.gov.uk/uksi/2010/551/regulation/1), [52(1)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/1) (with [reg. 52(2)-(4)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/2))
+[^c-5470e79035bf1330494896f42d3f9c1c]: Textual amendment: Regulations revoked (1.4.2010) by [The Medicines (Products for Human Use) (Fees) Regulations 2010 (S.I. 2010/551)](https://www.legislation.gov.uk/uksi/2010/551), [regs. 1](https://www.legislation.gov.uk/uksi/2010/551/regulation/1), [52(1)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/1) (with [reg. 52(2)-(4)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/2))

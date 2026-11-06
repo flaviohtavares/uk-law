@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-As soon as reasonably practicable after a departure has been authorised under regulation 24(1) or 25(5) [^key-88d983853b937ccc0ffd56e70aa75383]..., Scottish Water must—
+As soon as reasonably practicable after a departure has been authorised under regulation 24(1) or 25(5) [^c-88d983853b937ccc0ffd56e70aa75383]..., Scottish Water must—
 
 - (a) inform those of its consumers who are likely to be affected by the departure (or the conditions governing it)—
   - (i) except in a case to which regulation 25(4) applies, of the departure and the conditions governing it (including the matters specified in regulation 25(3)(a)(ii), (iii), (viii) and (ix)); or
@@ -29,4 +29,4 @@ As soon as reasonably practicable after a departure has been authorised under re
 
 ## Annotations
 
-[^key-88d983853b937ccc0ffd56e70aa75383]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/ssi/2014/364/regulation/27) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2022/387/regulation/12)
+[^c-88d983853b937ccc0ffd56e70aa75383]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/ssi/2014/364/regulation/27) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2022/387/regulation/12)

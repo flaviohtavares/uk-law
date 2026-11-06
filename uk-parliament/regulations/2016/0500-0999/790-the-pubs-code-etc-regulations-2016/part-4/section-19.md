@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Duty to conduct a rent assessment or an assessment of money payable in lieu of rent[^key-fe46c2d21a96ee1d613ab6ba11ee7c87]
+## 19. Duty to conduct a rent assessment or an assessment of money payable in lieu of rent[^c-fe46c2d21a96ee1d613ab6ba11ee7c87]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe46c2d21a96ee1d613ab6ba11ee7c87]: Commencement: Reg. 19 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-fe46c2d21a96ee1d613ab6ba11ee7c87]: Commencement: Reg. 19 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

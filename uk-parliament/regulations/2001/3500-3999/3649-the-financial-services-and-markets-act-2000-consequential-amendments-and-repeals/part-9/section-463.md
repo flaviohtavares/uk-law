@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 463. General representatives[^key-8d1433d69264244709939b1543d7b8d5]
+## 463. General representatives[^c-8d1433d69264244709939b1543d7b8d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Schedule to the Insurance Premium Tax Regulations 1994, in Form 1 (Applic
 
 ## Annotations
 
-[^key-8d1433d69264244709939b1543d7b8d5]: Commencement: Art. 463 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8d1433d69264244709939b1543d7b8d5]: Commencement: Art. 463 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00311]: Footnote: Form 1 was substituted by [S.I. 1997/1157](https://www.legislation.gov.uk/uksi/1997/1157), regulation 15, Schedule.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Notices by SEPA[^key-e189ec96891b2a0c3a6640e405c7e047]
+## 106. Notices by SEPA[^c-e189ec96891b2a0c3a6640e405c7e047]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e189ec96891b2a0c3a6640e405c7e047]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2011/9/section/106) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-e189ec96891b2a0c3a6640e405c7e047]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2011/9/section/106) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

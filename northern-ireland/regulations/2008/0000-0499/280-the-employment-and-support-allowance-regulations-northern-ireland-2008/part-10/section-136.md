@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Other amounts to be disregarded[^key-f879b5968e227ee954922c5734ada9d7]
+## 136. Other amounts to be disregarded[^c-f879b5968e227ee954922c5734ada9d7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f879b5968e227ee954922c5734ada9d7]: Commencement: [Reg. 136](https://www.legislation.gov.uk/nisr/2008/280/regulation/136) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-f879b5968e227ee954922c5734ada9d7]: Commencement: [Reg. 136](https://www.legislation.gov.uk/nisr/2008/280/regulation/136) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

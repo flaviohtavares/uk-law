@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amount of full retirement pension[^key-5fdb380cb5259d9684820d91b5301fb5]
+## 48. Amount of full retirement pension[^c-5fdb380cb5259d9684820d91b5301fb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fdb380cb5259d9684820d91b5301fb5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2015/182/regulation/48) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-5fdb380cb5259d9684820d91b5301fb5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2015/182/regulation/48) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

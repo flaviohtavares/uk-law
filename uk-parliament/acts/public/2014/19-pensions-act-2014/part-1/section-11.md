@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Reduced rate elections: effect on section 4 pensions[^key-3e2aeef2e3c6e7b7b4326de3bd613f52]
+## 11. Reduced rate elections: effect on section 4 pensions[^c-3e2aeef2e3c6e7b7b4326de3bd613f52]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e2aeef2e3c6e7b7b4326de3bd613f52]: Commencement: S. 11 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-3e2aeef2e3c6e7b7b4326de3bd613f52]: Commencement: S. 11 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

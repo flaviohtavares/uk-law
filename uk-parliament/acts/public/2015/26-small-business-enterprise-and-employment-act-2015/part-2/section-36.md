@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Section 35: supplementary and consequential provision[^key-a5097a4453f9d8f86c5bc1727fbcd4c4][^key-6780687745610725e4ad37b657285b85]
+## 36. Section 35: supplementary and consequential provision[^c-a5097a4453f9d8f86c5bc1727fbcd4c4][^c-6780687745610725e4ad37b657285b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5097a4453f9d8f86c5bc1727fbcd4c4]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/26/section/36) in force at 1.10.2015 for E. by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b)
+[^c-a5097a4453f9d8f86c5bc1727fbcd4c4]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/26/section/36) in force at 1.10.2015 for E. by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b)
 
-[^key-6780687745610725e4ad37b657285b85]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/26/section/36) in force at 1.10.2015 for W. by [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1710/article/2/b)
+[^c-6780687745610725e4ad37b657285b85]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/26/section/36) in force at 1.10.2015 for W. by [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1710/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Isle of Man and Channel Islands.[^key-47c2a2f591bd4f2c77afd7dbb8c27992]
+## 76. Isle of Man and Channel Islands.[^c-47c2a2f591bd4f2c77afd7dbb8c27992]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47c2a2f591bd4f2c77afd7dbb8c27992]: Textual amendment: S. 76 repealed (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/30), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-47c2a2f591bd4f2c77afd7dbb8c27992]: Textual amendment: S. 76 repealed (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/30), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))

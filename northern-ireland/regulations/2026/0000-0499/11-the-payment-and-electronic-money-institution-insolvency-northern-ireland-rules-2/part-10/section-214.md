@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 214. Procedure for examination[^key-85ef30eb8ffd6370b66d449208ba052c]
+## 214. Procedure for examination[^c-85ef30eb8ffd6370b66d449208ba052c]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85ef30eb8ffd6370b66d449208ba052c]: Commencement: [Rule 214](https://www.legislation.gov.uk/nisr/2026/11/rule/214) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-85ef30eb8ffd6370b66d449208ba052c]: Commencement: [Rule 214](https://www.legislation.gov.uk/nisr/2026/11/rule/214) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Suspicion of non-compliance[^key-e929c6e0d3bc5ccf142a564da1a1ff89]
+## 8. Suspicion of non-compliance[^c-e929c6e0d3bc5ccf142a564da1a1ff89]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ pending the outcome of official controls to confirm or eliminate the suspicion r
 
 ## Annotations
 
-[^key-e929c6e0d3bc5ccf142a564da1a1ff89]: Commencement: Reg. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-e929c6e0d3bc5ccf142a564da1a1ff89]: Commencement: Reg. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

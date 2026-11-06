@@ -55,7 +55,7 @@ These Regulations
 - (b) apply in relation to Wales; and
 - (c) come into force on the 1 January 2014.
 
-## 2. Amendments to the Beef and Pig Carcase Classification (Wales) Regulations 2011[^key-95211061940a16de58762a62cd92c32c]
+## 2. Amendments to the Beef and Pig Carcase Classification (Wales) Regulations 2011[^c-95211061940a16de58762a62cd92c32c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -293,7 +293,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22005161]: Marginal citation: O.J. L 347, 20.12.2013, p. 671.
 
-[^key-95211061940a16de58762a62cd92c32c]: Textual amendment: Reg. 2 revoked (14.12.2018) by [The Carcase Classification and Price Reporting (Wales) Regulations 2018 (S.I. 2018/1215)](https://www.legislation.gov.uk/wsi/2018/1215), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/1/3), [4(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/4/b) (with [reg. 6](https://www.legislation.gov.uk/wsi/2018/1215/regulation/6))
+[^c-95211061940a16de58762a62cd92c32c]: Textual amendment: Reg. 2 revoked (14.12.2018) by [The Carcase Classification and Price Reporting (Wales) Regulations 2018 (S.I. 2018/1215)](https://www.legislation.gov.uk/wsi/2018/1215), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/1/3), [4(b)](https://www.legislation.gov.uk/wsi/2018/1215/regulation/4/b) (with [reg. 6](https://www.legislation.gov.uk/wsi/2018/1215/regulation/6))
 
 [^c22005181]: Marginal citation: [S.I. 2011/991](https://www.legislation.gov.uk/uksi/2011/991) (W. 145).
 

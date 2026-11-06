@@ -36,7 +36,7 @@ An Act to vary the application of Article 39A of the Rates (Northern Ireland) Or
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Non-domestic rates valuations: effects of coronavirus to be disregarded[^key-f142f560c9d7d3e1b1288ebf4cf93ee3]
+## 1. Non-domestic rates valuations: effects of coronavirus to be disregarded[^c-f142f560c9d7d3e1b1288ebf4cf93ee3]
 
 (1) For the purposes of the application of Article 39A of the Rates Order (valuation of hereditament) to the net annual value list that came into force on 1st April 2020 and to each subsequent net annual value list, the matters mentioned in paragraph (1A) of that Article are to be treated as not including, and as never having included, any matter directly or indirectly attributable to coronavirus.
 
@@ -57,7 +57,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “**the Rates Order**” means the Rates (Northern Ireland) Order 1977, and
 - “**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-## 2.. Commencement and short title[^key-ac6fdf29f1e1d4b4c50f77347841c2d6]
+## 2.. Commencement and short title[^c-ac6fdf29f1e1d4b4c50f77347841c2d6]
 
 (1) This Act comes into operation on the day after Royal Assent.
 
@@ -65,6 +65,6 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-f142f560c9d7d3e1b1288ebf4cf93ee3]: Commencement: S. 1 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/12/section/2/1)
+[^c-f142f560c9d7d3e1b1288ebf4cf93ee3]: Commencement: S. 1 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/12/section/2/1)
 
-[^key-ac6fdf29f1e1d4b4c50f77347841c2d6]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/12/section/2/1)
+[^c-ac6fdf29f1e1d4b4c50f77347841c2d6]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/12/section/2/1)

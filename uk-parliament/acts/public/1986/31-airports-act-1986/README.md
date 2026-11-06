@@ -111,24 +111,24 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 34 — Matters to be taken into account by CAA.](part-iii/section-34.md)
 - [Section 35 — Regulation of availability of airports by reference to airport licences.](part-iii/section-35.md)
 
-### Part IV — Economic Regulation of Airports[^key-ae4cbeacf91c296cb8daec726749c72f][^key-a836c105d67279cf22cc8595878ae2a3]
+### Part IV — Economic Regulation of Airports[^c-ae4cbeacf91c296cb8daec726749c72f][^c-a836c105d67279cf22cc8595878ae2a3]
 
 *Extent: E+W+S*
 
-#### Preliminary[^key-a836c105d67279cf22cc8595878ae2a3]
+#### Preliminary[^c-a836c105d67279cf22cc8595878ae2a3]
 
 **No longer in force.**
 
 - [Section 36 — Interpretation of Part IV, etc.](part-iv/section-36.md)
 
-#### Permissions[^key-a836c105d67279cf22cc8595878ae2a3]
+#### Permissions[^c-a836c105d67279cf22cc8595878ae2a3]
 
 **No longer in force.**
 
 - [Section 37 — Airports subject to economic regulation; requirement for permission to levy airport charges.](part-iv/section-37.md)
 - [Section 38 — Grant or refusal of permissions.](part-iv/section-38.md)
 
-#### Conditions[^key-a836c105d67279cf22cc8595878ae2a3]
+#### Conditions[^c-a836c105d67279cf22cc8595878ae2a3]
 
 *Extent: E+W+S*
 
@@ -141,7 +141,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 41 — Discretionary conditions.](part-iv/section-41.md)
 - [Section 42 — Discretionary conditions: supplementary provisions.](part-iv/section-42.md)
 
-#### References to Commission[^key-a836c105d67279cf22cc8595878ae2a3]
+#### References to Commission[^c-a836c105d67279cf22cc8595878ae2a3]
 
 *Extent: E+W+S*
 
@@ -155,7 +155,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 46 — Imposition or modification of conditions following Commission’s report.](part-iv/section-46.md)
 - [Section 47 — Charges to be paid by airport operators in respect of Commission’s expenses.](part-iv/section-47.md)
 
-#### Enforcement of conditions[^key-a836c105d67279cf22cc8595878ae2a3]
+#### Enforcement of conditions[^c-a836c105d67279cf22cc8595878ae2a3]
 
 **No longer in force.**
 
@@ -163,7 +163,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 49 — Validity and effect of compliance orders.](part-iv/section-49.md)
 - [Section 50 — Breach of accounts conditions: criminal penalties etc.](part-iv/section-50.md)
 
-#### Supplementary[^key-a836c105d67279cf22cc8595878ae2a3]
+#### Supplementary[^c-a836c105d67279cf22cc8595878ae2a3]
 
 **No longer in force.**
 
@@ -174,7 +174,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 55 — Application of Part IV to associated companies of airport operators.](part-iv/section-55.md)
 - [Section 56 — Co-ordination of exercise of functions by CAA and Director General of Fair Trading.](part-iv/section-56.md)
 
-### Part V — Status of Certain Airport Operators as Statutory Undertakers, etc.[^key-ce6a315a6ea889d100a5467babf90c46]
+### Part V — Status of Certain Airport Operators as Statutory Undertakers, etc.[^c-ce6a315a6ea889d100a5467babf90c46]
 
 *Extent: E+W+S*
 
@@ -239,8 +239,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ae4cbeacf91c296cb8daec726749c72f]: Modification: Pt. IV modified (temp. until 31.3.2014) (6.4.2013) by [The Civil Aviation Act 2012 (Commencement No. 1, Transitional, Transitory and Saving Provisions) Order 2013 (S.I. 2013/589)](https://www.legislation.gov.uk/uksi/2013/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/589/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/589/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2013/589/article/3/2))
+[^c-ae4cbeacf91c296cb8daec726749c72f]: Modification: Pt. IV modified (temp. until 31.3.2014) (6.4.2013) by [The Civil Aviation Act 2012 (Commencement No. 1, Transitional, Transitory and Saving Provisions) Order 2013 (S.I. 2013/589)](https://www.legislation.gov.uk/uksi/2013/589), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/589/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/589/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2013/589/article/3/2))
 
-[^key-a836c105d67279cf22cc8595878ae2a3]: Textual amendment: Pt. IV repealed (6.4.2013 for the repeal of ss. 37(2)-(7)(9)(10), 38, 40A, 40B, 41(1), 53, 1.4.2014 in so far as not already in force) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/76/1), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [arts. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/589/article/3), [6](https://www.legislation.gov.uk/uksi/2013/589/article/6))
+[^c-a836c105d67279cf22cc8595878ae2a3]: Textual amendment: Pt. IV repealed (6.4.2013 for the repeal of ss. 37(2)-(7)(9)(10), 38, 40A, 40B, 41(1), 53, 1.4.2014 in so far as not already in force) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/76/1), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [arts. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/589/article/3), [6](https://www.legislation.gov.uk/uksi/2013/589/article/6))
 
-[^key-ce6a315a6ea889d100a5467babf90c46]: Modification: Pt. V applied (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 10 para. 10(3)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/10/3) (with [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/11), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-ce6a315a6ea889d100a5467babf90c46]: Modification: Pt. V applied (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 10 para. 10(3)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/10/3) (with [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/11), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

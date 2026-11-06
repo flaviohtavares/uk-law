@@ -40,11 +40,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 3(2), 35(2) and 37(1) of the Local Government (Scotland) Act 1975[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-4381d8bf1271563fab04185e1fa65925]
+## 1. Citation and commencement[^c-4381d8bf1271563fab04185e1fa65925]
 
 This Order may be cited as the Valuation Roll and Valuation Notice (Scotland) Amendment Order 1995 and shall come into force on 7th March 1995.
 
-## 2. Amendment of Order[^key-d1aa53982bcfcd0ef5cfda184d195e60]
+## 2. Amendment of Order[^c-d1aa53982bcfcd0ef5cfda184d195e60]
 
 In the Schedule to the Valuation Roll and Valuation Notice (Scotland) Order 1989[^f00002]—
 
@@ -69,8 +69,8 @@ This Order amends the Valuation Roll and Valuation Notice (Scotland) Order 1989 
 
 [^f00001]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30); section 37(1) contains a definition of “prescribed” which is relevant to the exercise of the powers under which this Order is made and which was amended by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 43(c).
 
-[^key-4381d8bf1271563fab04185e1fa65925]: Commencement: Art. 1 in force at 7.3.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/573/article/1)
+[^c-4381d8bf1271563fab04185e1fa65925]: Commencement: Art. 1 in force at 7.3.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/573/article/1)
 
-[^key-d1aa53982bcfcd0ef5cfda184d195e60]: Commencement: Art. 2 in force at 7.3.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/573/article/1)
+[^c-d1aa53982bcfcd0ef5cfda184d195e60]: Commencement: Art. 2 in force at 7.3.1995, see [art. 1](https://www.legislation.gov.uk/uksi/1995/573/article/1)
 
 [^f00002]: Footnote: S.I. [1989/2385](https://www.legislation.gov.uk/uksi/1989/2385), to which there are amendments not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Requisition and adoption of sewers[^key-bf450aa4ed310a97edf87e48531c3c4f]
+## 93. Requisition and adoption of sewers[^c-bf450aa4ed310a97edf87e48531c3c4f]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf450aa4ed310a97edf87e48531c3c4f]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2003/37/section/93) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-bf450aa4ed310a97edf87e48531c3c4f]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2003/37/section/93) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

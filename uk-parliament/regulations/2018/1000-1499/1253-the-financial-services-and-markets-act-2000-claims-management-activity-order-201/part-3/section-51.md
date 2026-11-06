@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Penalties for conduct for which the Regulator has not given notice of proposed penalty[^key-9bb1406580af10503cfd147d34dee1ef][^key-d789b280e4862bd1566992818d19ef86]
+## 51. Penalties for conduct for which the Regulator has not given notice of proposed penalty[^c-9bb1406580af10503cfd147d34dee1ef][^c-d789b280e4862bd1566992818d19ef86]
 
 *Extent: E+W+S*
 
@@ -53,9 +53,9 @@ summary: ''
 
 ## Annotations
 
-[^key-9bb1406580af10503cfd147d34dee1ef]: Commencement: Art. 51 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-9bb1406580af10503cfd147d34dee1ef]: Commencement: Art. 51 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d789b280e4862bd1566992818d19ef86]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2018/1253/article/51) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d789b280e4862bd1566992818d19ef86]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2018/1253/article/51) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00086]: Footnote: Regulation 12(5) was amended by [S.I. 2015/42](https://www.legislation.gov.uk/uksi/2015/42).
 

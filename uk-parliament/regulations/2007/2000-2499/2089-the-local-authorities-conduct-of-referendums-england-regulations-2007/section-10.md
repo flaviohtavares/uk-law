@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Combination of polls: general[^key-b121c565723b3b046dda82cfd483fc5e]
+## 10. Combination of polls: general[^c-b121c565723b3b046dda82cfd483fc5e]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ may hold a referendum in their area within the period beginning 28 days before t
 
 ## Annotations
 
-[^key-b121c565723b3b046dda82cfd483fc5e]: Commencement: Reg. 10 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-b121c565723b3b046dda82cfd483fc5e]: Commencement: Reg. 10 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00021]: Footnote: [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24); the present section 1 was substituted by section 1 of the European Parliament (Representation) Act [2003 (c. 7)](https://www.legislation.gov.uk/ukpga/2003/7) and amended by [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366) and [2004/1245](https://www.legislation.gov.uk/uksi/2004/1245).
 

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section has effect where a lessor is proceeding by action in the county court[^key-971a4049e38f94ce52ff72aa04702e6d] (being an action in which the county court has jurisdiction) to enforce against a lessee a right of re-entry or forfeiture in respect of any land for non-payment of rent.
+(1) This section has effect where a lessor is proceeding by action in the county court[^c-971a4049e38f94ce52ff72aa04702e6d] (being an action in which the county court has jurisdiction) to enforce against a lessee a right of re-entry or forfeiture in respect of any land for non-payment of rent.
 
 (2) If the lessee pays into court or to the lessor[^c4408891] not less than 5 clear days before the return day all the rent in arrear and the costs of the action, the action shall cease, and the lessee shall hold the land according to the lease without any new lease.
 
-(3)[^key-ae58db1438259228eaa168d92c56e66b] If—
+(3)[^c-ae58db1438259228eaa168d92c56e66b] If—
 
 - (a) the action does not cease under subsection (2); and
 - (b) the court at the trial is satisfied that the lessor is entitled to enforce the right of re-entry or forfeiture,
@@ -83,11 +83,11 @@ In this subsection any reference to the land includes a reference to a part of t
 
 ## Annotations
 
-[^key-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c4408891]: Textual amendment: Words in [s. 138(2)(3)(5)(7)(8)(9)](https://www.legislation.gov.uk/ukpga/1984/28/section/138/2/3/5/7/8/9) inserted (1.7.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/1990/41/schedule/17/paragraph/17); [S.I. 1991/1364](https://www.legislation.gov.uk/uksi/1991/1364), [art. 2](https://www.legislation.gov.uk/uksi/1991/1364/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/1364/schedule)
 
-[^key-ae58db1438259228eaa168d92c56e66b]: Modification: S. 138(3) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 82(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/7/section/82/7), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-ae58db1438259228eaa168d92c56e66b]: Modification: S. 138(3) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 82(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/7/section/82/7), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
 [^M_F_ae9e5c1c-bf2f-42f1-9fc4-9785966fc2c5]: Textual amendment: Words repealed by the [Administration of Justice Act 1985 (c. 61, SIF 34)](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/1985/61/section/55/2), [67(2)](https://www.legislation.gov.uk/ukpga/1985/61/section/67/2), [Sch. 8 Pt. III](https://www.legislation.gov.uk/ukpga/1985/61/schedule/8/part/III)
 

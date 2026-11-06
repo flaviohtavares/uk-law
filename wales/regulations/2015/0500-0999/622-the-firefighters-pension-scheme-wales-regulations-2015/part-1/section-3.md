@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation[^key-634e6f6d89da03197328d86437ab8d4b]
+## 3. Interpretation[^c-634e6f6d89da03197328d86437ab8d4b]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ In these Regulations, unless the context otherwise requires—
 - “additional adoption leave” (“*absenoldeb mabwysiadu ychwanegol*”) means leave under section 75B of the Employment Rights Act 1996[^f00013];
 - “additional maternity leave” (“*absenoldeb mamolaeth ychwanegol*”) means leave under section 73 of the Employment Rights Act 1996[^f00014];
 - “additional paternity leave” (“*absenoldeb tadolaeth ychwanegol*”) means leave under the Additional Paternity Leave Regulations 2010[^f00015];
-- “adjusted lower tier ill-health pension” (“[^key-74827596e2193d200ccd2479b180e513]*pensiwn addasedig afiechyd haen isaf*”) has the meaning given in regulation 75(4) (annual rate of ill-health awards);
+- “adjusted lower tier ill-health pension” (“[^c-74827596e2193d200ccd2479b180e513]*pensiwn addasedig afiechyd haen isaf*”) has the meaning given in regulation 75(4) (annual rate of ill-health awards);
 - “age addition” (“*ychwanegiad oedran*”) has the meaning given in regulation 35 (determination of “the age addition”);
 - “allocation amount” (“*swm y dyraniad*”) means the amount of the pension allocated as a result of making an allocation election;
 - “allocation election” (“*dewisiad i ddyrannu*”) means an election under regulation 81 (allocation election);
@@ -58,8 +58,8 @@ In these Regulations, unless the context otherwise requires—
   - (b) ordinary maternity leave,
   - (c) additional maternity or adoption leave,
   - (d) paternity leave,
-  - (e) additional paternity leave, [^key-a4d3ba127991c72d2029ac27f82e3e18]...
-  - (f) a period of parental leave , or[^key-a09af67748bb6db7ec9eb8d7ca13228f]
+  - (e) additional paternity leave, [^c-a4d3ba127991c72d2029ac27f82e3e18]...
+  - (f) a period of parental leave , or[^c-a09af67748bb6db7ec9eb8d7ca13228f]
   - (g) parental bereavement leave;
 - “closing date” (“*dyddiad cau*”), in relation to a transition member, has the meaning given in paragraph 1 of Schedule 2 (transitional provisions);
 - “club scheme” (“*cynllun clwb*”) means a registered occupational pension scheme (other than a connected scheme) that has agreed to make and receive club transfer value payments under the club transfer arrangements;
@@ -108,13 +108,13 @@ In these Regulations, unless the context otherwise requires—
   - (a) a lower tier ill-health pension, and
   - (b) a higher tier ill-health pension where this has also been awarded;
 - “index adjustment” (“*addasiad mynegai*”) means—
-  - (a) in relation to the opening balance of earned pension for any scheme year, the change in earnings and the index supplement[^key-b23096183540fe6524ec07fda3ba84b9] for the previous scheme year[^f00024], and
+  - (a) in relation to the opening balance of earned pension for any scheme year, the change in earnings and the index supplement[^c-b23096183540fe6524ec07fda3ba84b9] for the previous scheme year[^f00024], and
   - (b) in relation to the opening balance of club transfer earned pension for any scheme year, the in-service revaluation index that the sending scheme would have applied to the transferred pension for that scheme year, had it not been transferred;
-- “[^key-1d183146987687288bd6b630c5550472]**index supplement**” (“***atodiad mynegai***”) means an amount of earned pension equal to the value of the index adjustment where the change in earnings is increased—
+- “[^c-1d183146987687288bd6b630c5550472]**index supplement**” (“***atodiad mynegai***”) means an amount of earned pension equal to the value of the index adjustment where the change in earnings is increased—
   - (a) for 2021, by 0.2% above the amount specified in the Public Service Pensions Revaluation Order 2021;
   - (b) for 2022, by 0.4% above the amount specified in the Public Service Pensions Revaluation Order 2022;
 - “initial period” (“*cyfnod dechreuol*”) has the meaning given in regulation 86 (meaning of “initial period”);
-- “in-service revaluation index” (“*mynegai ailbrisio mewn-gwasanaeth*”), in relation to a pension scheme, means the percentage increase or decrease by which the pensionable earnings of a person, or a proportion of those earnings accrued as a pension, are revalued whilst the person is in pensionable service in that pension scheme and, in this scheme, includes the index supplement[^key-d96197130d59a8da8f9df42095561dcf];
+- “in-service revaluation index” (“*mynegai ailbrisio mewn-gwasanaeth*”), in relation to a pension scheme, means the percentage increase or decrease by which the pensionable earnings of a person, or a proportion of those earnings accrued as a pension, are revalued whilst the person is in pensionable service in that pension scheme and, in this scheme, includes the index supplement[^c-d96197130d59a8da8f9df42095561dcf];
 - “IQMP” (“*YMCA*”) means a medical practitioner holding a diploma in occupational medicine or an equivalent or higher qualification issued by a competent authority in an EEA State, or being an Associate, a Member or a Fellow of the Faculty of Occupational Medicine or an equivalent institution of an EEA State; and for the purposes of this definition “a competent authority” has the meaning given in section 55(1) of the Medical Act 1983[^f00025];
 - “last active scheme year” (“*blwyddyn gynllun actif olaf*”) means the scheme year in which an active member of this scheme ceases to be in pensionable service under this scheme;
 - “last day of pensionable service” (“*diwrnod olaf o wasanaeth pensiynadwy*”) means the last day of a continuous period of pensionable service under this scheme;
@@ -128,7 +128,7 @@ In these Regulations, unless the context otherwise requires—
 - “opening balance” (“*balans agoriadol*”), in relation to a description of pension for a scheme year other than added pension, has the meaning given in regulation 44 (opening balance, index adjustment and age addition) and in relation to added pension, has the meaning given in regulation 49 (account to specify opening balance and PIA index adjustment);
 - “ordinary adoption leave” (“*absenoldeb mabwysiadu arferol*”) means leave under section 75A of the Employment Rights Act 1996[^f00027];
 - “ordinary maternity leave” (“*absenoldeb mamolaeth arferol*”) means leave under section 71 of the Employment Rights Act 1996[^f00028];
-- “parental bereavement leave”[^key-26de7aae21237f2bac2816601641f453] *(“absenoldeb profedigaeth rhiant”)* has the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;
+- “parental bereavement leave”[^c-26de7aae21237f2bac2816601641f453] *(“absenoldeb profedigaeth rhiant”)* has the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;
 - “parental leave” (“*absenoldeb rhiant*”) has the meaning given in regulation 2(1) of the Maternity and Parental Leave etc. Regulations 1999[^f00029];
 - “partial retirement option” (“*opsiwn o ran-ymddeoliad*”) means the option exercisable under regulation 72 (exercise of partial retirement option);
 - “paternity leave” (“*absenoldeb tadolaeth*”) means leave under regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002[^f00030];
@@ -177,7 +177,7 @@ In these Regulations, unless the context otherwise requires—
 - “retirement pension” (“*pensiwn ymddeol*”) means—
   - (a) in relation to a pensioner member who was an active member at the time of claiming a retirement pension, a retirement earned pension and a retirement added pension (if any);
   - (b) in relation to a pensioner member who was a deferred member at the time of claiming a retirement pension, the retirement amount of deferred pension;
-  - (c) an ill-health award and the payment of any equivalent amount to the[^key-db48001e18069c8bf43ae052f5d67567] 1992 Scheme lower tier ill-health pension (if any) and the payment of any equivalent amount to the NFPS lower tier ill-health pension (if any);
+  - (c) an ill-health award and the payment of any equivalent amount to the[^c-db48001e18069c8bf43ae052f5d67567] 1992 Scheme lower tier ill-health pension (if any) and the payment of any equivalent amount to the NFPS lower tier ill-health pension (if any);
 - “retirement PIA index adjustment” (“*addasiad mynegai DPC ymddeol*”), in relation to an amount of accrued pension, has the meaning given in regulation 34 (calculation of “retirement PIA index adjustment”);
 - “role” (“*rôl*”), in relation to a firefighter, means the role in which the firefighter is for the time being employed, being a role set out in “Fire and Rescue Services Rolemaps” issued by the National Joint Council for Local Authority Fire and Rescue Services in August 2005[^f00036];
 - “this scheme” (“*y cynllun hwn*”) means the scheme established by these Regulations;
@@ -191,8 +191,8 @@ In these Regulations, unless the context otherwise requires—
 - “statutory pay” (“*tâl statudol*”) means—
   - (a) statutory adoption pay within the meaning of section 171ZL(1) (entitlement) of the Social Security Contributions and Benefits Act 1992[^f00037],
   - (b) statutory maternity pay within the meaning of section 164(1) (statutory maternity pay -entitlement and liability to pay) of the Social Security Contributions and Benefits Act 1992[^f00038],
-  - (c) ordinary statutory paternity pay within the meaning of section 171ZA(1) (entitlement: birth) or 171ZB(1) (entitlement: adoption) of the Social Security Contributions and Benefits Act 1992[^f00039], [^key-70670226ac5e5eae8b4c0d145b1c1224]...
-  - (d) additional statutory paternity pay within the meaning of section 171ZEA(1) (entitlement to additional statutory paternity pay: birth) or 171ZEB(1) (entitlement to additional statutory paternity pay: adoption) of the Social Security Contributions and Benefits Act 1992[^f00040] , or[^key-90dd2b2574ef7bc0a626fbf103cf2215]
+  - (c) ordinary statutory paternity pay within the meaning of section 171ZA(1) (entitlement: birth) or 171ZB(1) (entitlement: adoption) of the Social Security Contributions and Benefits Act 1992[^f00039], [^c-70670226ac5e5eae8b4c0d145b1c1224]...
+  - (d) additional statutory paternity pay within the meaning of section 171ZEA(1) (entitlement to additional statutory paternity pay: birth) or 171ZEB(1) (entitlement to additional statutory paternity pay: adoption) of the Social Security Contributions and Benefits Act 1992[^f00040] , or[^c-90dd2b2574ef7bc0a626fbf103cf2215]
   - (e) statutory parental bereavement pay within the meaning of section 171ZZ6 (entitlement) of the Social Security Contributions and Benefits Act 1992;
 - “survivor member” (“*aelod-oroeswr*”) has the meaning given in regulation 61 (establishment of survivor member’s account);
 - “surviving partner” (“*partner sy’n goroesi*”) has the meaning given in regulation 85 (meaning of “surviving partner”);
@@ -214,7 +214,7 @@ In these Regulations, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-634e6f6d89da03197328d86437ab8d4b]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-634e6f6d89da03197328d86437ab8d4b]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129). The name of the scheme was changed to the Firefighters’ Pension (Wales) Scheme by [S.I. 2004/2918 (W. 257)](https://www.legislation.gov.uk/wsi/2004/2918). Other amendments made are not relevant to these Regulations.
 
@@ -234,7 +234,7 @@ In these Regulations, unless the context otherwise requires—
 
 [^f00015]: Footnote: [S.I. 2010/1055](https://www.legislation.gov.uk/uksi/2010/1055).
 
-[^key-74827596e2193d200ccd2479b180e513]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/1/a)
+[^c-74827596e2193d200ccd2479b180e513]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/1/a)
 
 [^f00016]: Footnote: Section 228 was substituted by the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 17, paragraphs 1 and 4 and was amended by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), section 49.
 
@@ -244,9 +244,9 @@ In these Regulations, unless the context otherwise requires—
 
 [^f00019]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), section 1(5) and the WRPA [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4). Section 8(2) of PIA 1971 may be applied subject to such modifications, adaptations and exceptions as may be specified in regulations under section 5(3) of that Act.
 
-[^key-a4d3ba127991c72d2029ac27f82e3e18]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) omitted (1.9.2025) by virtue of [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/a/i)
+[^c-a4d3ba127991c72d2029ac27f82e3e18]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) omitted (1.9.2025) by virtue of [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/a/i)
 
-[^key-a09af67748bb6db7ec9eb8d7ca13228f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/a/ii)
+[^c-a09af67748bb6db7ec9eb8d7ca13228f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/a/ii)
 
 [^f00020]: Footnote: Section 14 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 5, paragraph 27 and Schedule 7, Part 3; the Social Security Contributions (Transfer of Functions etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), Schedule 1, paragraph 38; and the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 22.
 
@@ -256,13 +256,13 @@ In these Regulations, unless the context otherwise requires—
 
 [^f00023]: Footnote: Section 15A was inserted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 32(1) and (3).
 
-[^key-b23096183540fe6524ec07fda3ba84b9]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (21.10.2024) by [The Firefighters’ Pension Schemes (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/972)](https://www.legislation.gov.uk/wsi/2024/972), [regs. 2](https://www.legislation.gov.uk/wsi/2024/972/regulation/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2024/972/regulation/3/2/a)
+[^c-b23096183540fe6524ec07fda3ba84b9]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (21.10.2024) by [The Firefighters’ Pension Schemes (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/972)](https://www.legislation.gov.uk/wsi/2024/972), [regs. 2](https://www.legislation.gov.uk/wsi/2024/972/regulation/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2024/972/regulation/3/2/a)
 
 [^f00024]: Footnote: Under section 9 of the 2013 Act the change in earnings to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.
 
-[^key-1d183146987687288bd6b630c5550472]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (21.10.2024) by [The Firefighters’ Pension Schemes (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/972)](https://www.legislation.gov.uk/wsi/2024/972), [regs. 2](https://www.legislation.gov.uk/wsi/2024/972/regulation/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2024/972/regulation/3/2/b)
+[^c-1d183146987687288bd6b630c5550472]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (21.10.2024) by [The Firefighters’ Pension Schemes (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/972)](https://www.legislation.gov.uk/wsi/2024/972), [regs. 2](https://www.legislation.gov.uk/wsi/2024/972/regulation/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2024/972/regulation/3/2/b)
 
-[^key-d96197130d59a8da8f9df42095561dcf]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (21.10.2024) by [The Firefighters’ Pension Schemes (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/972)](https://www.legislation.gov.uk/wsi/2024/972), [regs. 2](https://www.legislation.gov.uk/wsi/2024/972/regulation/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2024/972/regulation/3/2/c)
+[^c-d96197130d59a8da8f9df42095561dcf]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (21.10.2024) by [The Firefighters’ Pension Schemes (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/972)](https://www.legislation.gov.uk/wsi/2024/972), [regs. 2](https://www.legislation.gov.uk/wsi/2024/972/regulation/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2024/972/regulation/3/2/c)
 
 [^f00025]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); the definition of “competent authority” was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
@@ -272,7 +272,7 @@ In these Regulations, unless the context otherwise requires—
 
 [^f00028]: Footnote: Section 71 was substituted by the Employment Relations Act 1999. It was amended by section 118 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), the Work and Families Act [2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), Schedule 1, paragraph 31 and the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 17.
 
-[^key-26de7aae21237f2bac2816601641f453]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/b)
+[^c-26de7aae21237f2bac2816601641f453]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/b)
 
 [^f00029]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312) to which there are amendments not relevant to these Regulations.
 
@@ -288,7 +288,7 @@ In these Regulations, unless the context otherwise requires—
 
 [^f00035]: Footnote: Section 27 was amended by the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), Schedule 17, paragraph 1.
 
-[^key-db48001e18069c8bf43ae052f5d67567]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/1/b)
+[^c-db48001e18069c8bf43ae052f5d67567]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/1/b)
 
 [^f00036]: Footnote: A copy is available at http://www.local.gov.uk/c/document\_library/get\_file?uuid=326723e9-8192-4798-89bb-d152fb05fa5f&groupId=10180.
 
@@ -298,11 +298,11 @@ In these Regulations, unless the context otherwise requires—
 
 [^f00039]: Footnote: Sections 171ZA and 171ZB were inserted by the Employment Act 2002, section 2. Subsections (1) of those sections were amended by the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraphs 12 and 13.
 
-[^key-70670226ac5e5eae8b4c0d145b1c1224]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) omitted (1.9.2025) by virtue of [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/c/i)
+[^c-70670226ac5e5eae8b4c0d145b1c1224]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) omitted (1.9.2025) by virtue of [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/c/i)
 
 [^f00040]: Footnote: Sections 171ZEA and 171ZEB were inserted by the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), sections 6 and 7.
 
-[^key-90dd2b2574ef7bc0a626fbf103cf2215]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/c/ii)
+[^c-90dd2b2574ef7bc0a626fbf103cf2215]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2015/622/regulation/3) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2025/930/regulation/3/c/ii)
 
 [^f00041]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 

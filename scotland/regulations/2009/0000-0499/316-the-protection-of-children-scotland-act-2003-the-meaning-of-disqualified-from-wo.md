@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Protection of Children (Scotland) Act 2003 (The Meaning of Disqualified from Working with Children: Corresponding Disqualifications in Northern Ireland) (No. 2) Order 2009 (revoked)[^key-aae089119a2a0b5b445a3dda707a029d]
+The Protection of Children (Scotland) Act 2003 (The Meaning of Disqualified from Working with Children: Corresponding Disqualifications in Northern Ireland) (No. 2) Order 2009 (revoked)[^c-aae089119a2a0b5b445a3dda707a029d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 12th October 2009
 
-[^key-aae089119a2a0b5b445a3dda707a029d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aae089119a2a0b5b445a3dda707a029d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aae089119a2a0b5b445a3dda707a029d]
+## 1. Citation and commencement[^c-aae089119a2a0b5b445a3dda707a029d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Corresponding disqualifications under the law of Northern Ireland[^key-aae089119a2a0b5b445a3dda707a029d]
+## 2. Corresponding disqualifications under the law of Northern Ireland[^c-aae089119a2a0b5b445a3dda707a029d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aae089119a2a0b5b445a3dda707a029d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aae089119a2a0b5b445a3dda707a029d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aae089119a2a0b5b445a3dda707a029d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aae089119a2a0b5b445a3dda707a029d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aae089119a2a0b5b445a3dda707a029d]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/316) revoked (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Corresponding Disqualifications) Order 2010 (S.S.I. 2010/346)](https://www.legislation.gov.uk/ssi/2010/346), [arts. 1](https://www.legislation.gov.uk/ssi/2010/346/article/1), [3](https://www.legislation.gov.uk/ssi/2010/346/article/3)
+[^c-aae089119a2a0b5b445a3dda707a029d]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/316) revoked (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Corresponding Disqualifications) Order 2010 (S.S.I. 2010/346)](https://www.legislation.gov.uk/ssi/2010/346), [arts. 1](https://www.legislation.gov.uk/ssi/2010/346/article/1), [3](https://www.legislation.gov.uk/ssi/2010/346/article/3)

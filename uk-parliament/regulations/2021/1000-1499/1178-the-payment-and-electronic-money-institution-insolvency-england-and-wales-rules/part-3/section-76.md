@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Termination of membership[^key-55df0e83444e401a9dfd591494a7a651]
+## 76. Termination of membership[^c-55df0e83444e401a9dfd591494a7a651]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but the administrator may require that person to resign if the administrator thi
 
 ## Annotations
 
-[^key-55df0e83444e401a9dfd591494a7a651]: Commencement: Rule 76 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-55df0e83444e401a9dfd591494a7a651]: Commencement: Rule 76 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

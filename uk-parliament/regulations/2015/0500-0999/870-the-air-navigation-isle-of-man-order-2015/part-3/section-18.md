@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Issue of national permits to fly[^key-7dc463d493298ad2b73db4b367bf4d44]
+## 18. Issue of national permits to fly[^c-7dc463d493298ad2b73db4b367bf4d44]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dc463d493298ad2b73db4b367bf4d44]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2015/870/article/18) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-7dc463d493298ad2b73db4b367bf4d44]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2015/870/article/18) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

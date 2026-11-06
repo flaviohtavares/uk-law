@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Disease control (slaughter) statement[^key-2f67651e4e3231b6da618fb1823f6724]
+## 3. Disease control (slaughter) statement[^c-2f67651e4e3231b6da618fb1823f6724]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ After section 32E (inserted by section 1 of this Act) of the 1981 Act there is i
 
 ## Annotations
 
-[^key-2f67651e4e3231b6da618fb1823f6724]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2006/11/section/3) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-2f67651e4e3231b6da618fb1823f6724]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2006/11/section/3) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

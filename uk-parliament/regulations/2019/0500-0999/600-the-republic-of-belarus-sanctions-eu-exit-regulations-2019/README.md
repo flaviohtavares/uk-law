@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State [^c23946931], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii), (d)(i) and (ii), 4, 5, 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 56 and 62(4) to (6) of, and paragraphs 2(b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 11(a)(ii), 13(b), (h), (k), (l), (m) and (n), 14(a), (f) and (k), 17(a), 19(a), 20 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23946941], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-768541fd3163cc6917ca2e1091cb70e9][^key-6486ac1bddef7e77cb05a2d652388067]
+The Secretary of State [^c23946931], in exercise of the powers conferred by sections 1(1)(c) and (3)(b), 3(1)(a), (b)(ii), (d)(i) and (ii), 4, 5, 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 56 and 62(4) to (6) of, and paragraphs 2(b), 4(b) and (c), 5(a)(ii) and (b), 6(a)(ii) and (b), 11(a)(ii), 13(b), (h), (k), (l), (m) and (n), 14(a), (f) and (k), 17(a), 19(a), 20 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23946941], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-768541fd3163cc6917ca2e1091cb70e9][^c-6486ac1bddef7e77cb05a2d652388067]
 
 ## Contents
 
@@ -74,7 +74,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Asset-freeze etc.[^key-2a633dbf122fada24462491085db6dfa]
+#### CHAPTER 1 — Asset-freeze etc.[^c-2a633dbf122fada24462491085db6dfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 14 — Making economic resources available to designated persons](part-3/section-14.md)
 - [Section 15 — Making economic resources available for benefit of designated persons](part-3/section-15.md)
 
-#### CHAPTER 2 — Other financial restrictions[^key-259b078ee073881bbd9447845e718ca6]
+#### CHAPTER 2 — Other financial restrictions[^c-259b078ee073881bbd9447845e718ca6]
 
 - [Section 15A — Dealing with transferable securities or money-market instruments](part-3/section-15a.md)
 - [Section 15B — Loans and credit arrangements](part-3/section-15b.md)
@@ -93,11 +93,11 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 15CA — Provision of financial services relating to foreign exchange reserve and asset management](part-3/section-15ca.md)
 - [Section 15D — Interpretation of terms relating to other financial restrictions](part-3/section-15d.md)
 
-#### CHAPTER 3 — Further Provision[^key-5ff2e67038bc683de35960575770b193]
+#### CHAPTER 3 — Further Provision[^c-5ff2e67038bc683de35960575770b193]
 
 - [Section 16 — Circumventing etc prohibitions](part-3/section-16.md)
 
-### PART 3A — Director disqualification sanctions[^key-ce1f8aa5dc364200243edd0e44ba8556]
+### PART 3A — Director disqualification sanctions[^c-ce1f8aa5dc364200243edd0e44ba8556]
 
 - [Section 16A — Director disqualification sanctions](part-3a/section-16a.md)
 
@@ -120,7 +120,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 19A — Definition of “interception and monitoring services”](part-5/section-19a.md)
 - [Section 20 — Interpretation of other expressions used in this Part](part-5/section-20.md)
 
-#### CHAPTER 2 — Exports to Belarus and related activities[^key-f121f5327165f72230e10880198ffa83]
+#### CHAPTER 2 — Exports to Belarus and related activities[^c-f121f5327165f72230e10880198ffa83]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,7 +133,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 26 — Financial services and funds relating to certain arrangements](part-5/section-26.md)
 - [Section 27 — Brokering services: certain arrangements relating to non-UK activities](part-5/section-27.md)
 
-#### CHAPTER 2A — Dual-use goods, dual-use technology and related activities[^key-9c89c49d16f673921fcc23c7dfa85dc0]
+#### CHAPTER 2A — Dual-use goods, dual-use technology and related activities[^c-9c89c49d16f673921fcc23c7dfa85dc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -146,7 +146,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 27G — Financial services and funds relating to dual-use goods and dual-use technology](part-5/section-27g.md)
 - [Section 27H — Brokering services: non-UK activity relating to dual-use goods and dual-use technology](part-5/section-27h.md)
 
-#### CHAPTER 2B — Imports from Belarus and related activities[^key-35bee44ed08174597adfa5d6b4c2a55e][^key-f7a3ba8536983c352463a7524212023e]
+#### CHAPTER 2B — Imports from Belarus and related activities[^c-35bee44ed08174597adfa5d6b4c2a55e][^c-f7a3ba8536983c352463a7524212023e]
 
 - [Section 27I — Import of goods originating in, or consigned from, Belarus](part-5/section-27i.md)
 - [Section 27J — Acquisition of goods connected to Belarus](part-5/section-27j.md)
@@ -154,12 +154,12 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 27L — Technical assistance relating to certain activities](part-5/section-27l.md)
 - [Section 27M — Financial services, funds and brokering services relating to certain arrangements](part-5/section-27m.md)
 
-#### CHAPTER 2C — Other trade prohibitions[^key-35bee44ed08174597adfa5d6b4c2a55e][^key-42ab7bba812988a6f8bbb441698b41c2]
+#### CHAPTER 2C — Other trade prohibitions[^c-35bee44ed08174597adfa5d6b4c2a55e][^c-42ab7bba812988a6f8bbb441698b41c2]
 
 - [Section 27N — Technical assistance relating to aircraft and ships](part-5/section-27n.md)
 - [Section 27O — Enabling or facilitating military activities](part-5/section-27o.md)
 
-#### CHAPTER 2D — Internet services[^key-e0e5fcdf409353c6aa367ff238f45d41]
+#### CHAPTER 2D — Internet services[^c-e0e5fcdf409353c6aa367ff238f45d41]
 
 - [Section 27P — Preventing provision of internet services to or for the benefit of designated persons](part-5/section-27p.md)
 
@@ -171,7 +171,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 28A — Trade: end-use control](part-5/section-28a.md)
 - [Section 29 — Defences](part-5/section-29.md)
 
-### PART 5A — Aircraft[^key-396da29829b415a3b27d2cbd14af1a5e]
+### PART 5A — Aircraft[^c-396da29829b415a3b27d2cbd14af1a5e]
 
 - [Section 29A — Movement of aircraft](part-5a/section-29a.md)
 - [Section 29B — Directions under regulation 29A](part-5a/section-29b.md)
@@ -180,7 +180,7 @@ The Secretary of State [^c23946931], in exercise of the powers conferred by sect
 - [Section 29D — Offences](part-5a/section-29d.md)
 - [Section 29E — Interpretation of Part 5A](part-5a/section-29e.md)
 
-### PART 5B — Ships[^key-b0567ee47c496d3437e7b4d3990e3ad9]
+### PART 5B — Ships[^c-b0567ee47c496d3437e7b4d3990e3ad9]
 
 - [Section 29F — Prohibition on port entry](part-5b/section-29f.md)
 - [Section 29G — Directions prohibiting port entry](part-5b/section-29g.md)
@@ -335,30 +335,30 @@ An Impact Assessment has not been produced for these Regulations, as they are in
 
 [^c23946941]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-768541fd3163cc6917ca2e1091cb70e9]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Republic of Belarus (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1271)](https://www.legislation.gov.uk/uksi/2020/1271), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1271/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1271/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18) (as amended (11.11.2021) by [S.I. 2021/1256](https://www.legislation.gov.uk/uksi/2021/1256), [art. 3](https://www.legislation.gov.uk/uksi/2021/1256/article/3); (15.12.2022) by [S.I. 2022/1339](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 3-31](https://www.legislation.gov.uk/uksi/2022/1339/article/3); and (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [Sch. 11](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11))
+[^c-768541fd3163cc6917ca2e1091cb70e9]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Republic of Belarus (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1271)](https://www.legislation.gov.uk/uksi/2020/1271), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1271/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1271/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18) (as amended (11.11.2021) by [S.I. 2021/1256](https://www.legislation.gov.uk/uksi/2021/1256), [art. 3](https://www.legislation.gov.uk/uksi/2021/1256/article/3); (15.12.2022) by [S.I. 2022/1339](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 3-31](https://www.legislation.gov.uk/uksi/2022/1339/article/3); and (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [Sch. 11](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11))
 
-[^key-6486ac1bddef7e77cb05a2d652388067]: Modification: Regulations extended (Isle of Man) (with modifications) (11.11.2021) by [The Republic of Belarus (Sanctions) (EU Exit) (Isle of Man) Order 2021 (S.I. 2021/1257)](https://www.legislation.gov.uk/uksi/2021/1257), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1257/article/1), [2](https://www.legislation.gov.uk/uksi/2021/1257/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/1257/schedule)
+[^c-6486ac1bddef7e77cb05a2d652388067]: Modification: Regulations extended (Isle of Man) (with modifications) (11.11.2021) by [The Republic of Belarus (Sanctions) (EU Exit) (Isle of Man) Order 2021 (S.I. 2021/1257)](https://www.legislation.gov.uk/uksi/2021/1257), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1257/article/1), [2](https://www.legislation.gov.uk/uksi/2021/1257/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/1257/schedule)
 
-[^key-2a633dbf122fada24462491085db6dfa]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/1) heading inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/7/2)
+[^c-2a633dbf122fada24462491085db6dfa]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/1) heading inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/7/2)
 
-[^key-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
+[^c-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
 
-[^key-5ff2e67038bc683de35960575770b193]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/3) heading inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
+[^c-5ff2e67038bc683de35960575770b193]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/3) heading inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
 
-[^key-ce1f8aa5dc364200243edd0e44ba8556]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/600/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/4)
+[^c-ce1f8aa5dc364200243edd0e44ba8556]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/600/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/4)
 
-[^key-f121f5327165f72230e10880198ffa83]: Textual amendment: [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2) heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/a)
+[^c-f121f5327165f72230e10880198ffa83]: Textual amendment: [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2) heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/17/a)
 
-[^key-9c89c49d16f673921fcc23c7dfa85dc0]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2A) omitted (5.7.2022) by virtue of [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2022/748/regulation/18)
+[^c-9c89c49d16f673921fcc23c7dfa85dc0]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2A) omitted (5.7.2022) by virtue of [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2022/748/regulation/18)
 
-[^key-35bee44ed08174597adfa5d6b4c2a55e]: Textual amendment: [Pt. 5 Chs. 2A-2C](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2021/1146/regulation/19)
+[^c-35bee44ed08174597adfa5d6b4c2a55e]: Textual amendment: [Pt. 5 Chs. 2A-2C](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2021/1146/regulation/19)
 
-[^key-f7a3ba8536983c352463a7524212023e]: Textual amendment: [Pt. 5 Ch. 2B](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2B) heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/19/a)
+[^c-f7a3ba8536983c352463a7524212023e]: Textual amendment: [Pt. 5 Ch. 2B](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2B) heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/19/a)
 
-[^key-42ab7bba812988a6f8bbb441698b41c2]: Textual amendment: Pt. 5 Ch. 2C heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/20/a)
+[^c-42ab7bba812988a6f8bbb441698b41c2]: Textual amendment: Pt. 5 Ch. 2C heading substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2022/748/regulation/20/a)
 
-[^key-e0e5fcdf409353c6aa367ff238f45d41]: Textual amendment: [Pt. 5 Ch. 2D](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2D) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/616/regulation/10)
+[^c-e0e5fcdf409353c6aa367ff238f45d41]: Textual amendment: [Pt. 5 Ch. 2D](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2D) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/616/regulation/10)
 
-[^key-396da29829b415a3b27d2cbd14af1a5e]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2019/600/part/5A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2021/1146/regulation/21)
+[^c-396da29829b415a3b27d2cbd14af1a5e]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2019/600/part/5A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2021/1146/regulation/21)
 
-[^key-b0567ee47c496d3437e7b4d3990e3ad9]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2019/600/part/5B) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/748/regulation/28)
+[^c-b0567ee47c496d3437e7b4d3990e3ad9]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2019/600/part/5B) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/748/regulation/28)

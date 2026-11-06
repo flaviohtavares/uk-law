@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Repeals[^M_I_5ca8b2c9-6eb4-4f65-f827-b9a8709d4b24][^key-b4334ac1cc3694b858f9ce95fae37e99]
+## 113. Repeals[^M_I_5ca8b2c9-6eb4-4f65-f827-b9a8709d4b24][^c-b4334ac1cc3694b858f9ce95fae37e99]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_5ca8b2c9-6eb4-4f65-f827-b9a8709d4b24]: Commencement: S. 113 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-b4334ac1cc3694b858f9ce95fae37e99]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/30/section/113) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/i) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/1), [4](https://www.legislation.gov.uk/uksi/2023/884/regulation/4), [9](https://www.legislation.gov.uk/uksi/2023/884/regulation/9), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-b4334ac1cc3694b858f9ce95fae37e99]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/30/section/113) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/i) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/1), [4](https://www.legislation.gov.uk/uksi/2023/884/regulation/4), [9](https://www.legislation.gov.uk/uksi/2023/884/regulation/9), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

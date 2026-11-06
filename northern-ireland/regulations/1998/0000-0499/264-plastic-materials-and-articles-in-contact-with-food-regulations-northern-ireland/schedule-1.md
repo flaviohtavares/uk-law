@@ -439,16 +439,16 @@ Regulation 4
 
 ### Part II — Supplementary
 
-**1.**[^key-0708ef83b95156f5e38397e5cb9d242a] In regulation 4 and Part I—
+**1.**[^c-0708ef83b95156f5e38397e5cb9d242a] In regulation 4 and Part I—
 
 - (a) the PM/REF No. of any substance is its EEC packaging material reference number,
 - (b) the CAS No. of any substance is its CAS (Chemical Abstracts Service) Registry Number,
 - (c) the name of any substance is its chemical name, and to the extent that there is any inconsistency between CAS No. and the name, the name shall take precedence over the CAS No., and
 - (d) references to specific migration are to be taken to mean specific migration as measured in accordance with Schedules 3 and 4.
 
-**2.**[^key-1629cb98a97dc6081b9b480ebe7a43b9] If a substance appearing in Part I as an individual compound also falls within a generic term which appears therein, the restriction (if any) applying to that substance shall be that indicated for the individual compound and the entry applying to the generic term shall be treated as varied to such extent (if any) as is necessary therefor.
+**2.**[^c-1629cb98a97dc6081b9b480ebe7a43b9] If a substance appearing in Part I as an individual compound also falls within a generic term which appears therein, the restriction (if any) applying to that substance shall be that indicated for the individual compound and the entry applying to the generic term shall be treated as varied to such extent (if any) as is necessary therefor.
 
-**3.**[^key-eaf61159a0e364791b992cb48b079228] (1) The items identified in Part I shall be taken to include—
+**3.**[^c-eaf61159a0e364791b992cb48b079228] (1) The items identified in Part I shall be taken to include—
 
 - (a) substances undergoing polymerisation (which shall be taken to include polycondensation, polyaddition or any other similar process) to manufacture macromolecules,
 - (b) natural or synthetic macromolecular substances used in the manufacture of modified macromolecules, if the monomers required to synthesise them are not so identified, and
@@ -460,8 +460,8 @@ Regulation 4
 
 ## Annotations
 
-[^key-0708ef83b95156f5e38397e5cb9d242a]: Commencement: Sch. 1 para. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-0708ef83b95156f5e38397e5cb9d242a]: Commencement: Sch. 1 para. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-1629cb98a97dc6081b9b480ebe7a43b9]: Commencement: Sch. 1 para. 2 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-1629cb98a97dc6081b9b480ebe7a43b9]: Commencement: Sch. 1 para. 2 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-eaf61159a0e364791b992cb48b079228]: Commencement: Sch. 1 para. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-eaf61159a0e364791b992cb48b079228]: Commencement: Sch. 1 para. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

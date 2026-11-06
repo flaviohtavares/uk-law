@@ -30,7 +30,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Protection (Prescribed Processes and Substances) (Amendment) Regulations 1992 (revoked)[^key-2de949096f1d38bb11f34b69b19922d6]
+The Environmental Protection (Prescribed Processes and Substances) (Amendment) Regulations 1992 (revoked)[^c-2de949096f1d38bb11f34b69b19922d6]
 
 Made
 
@@ -44,64 +44,64 @@ Coming into force
 
 1st April 1992
 
-[^key-2de949096f1d38bb11f34b69b19922d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2de949096f1d38bb11f34b69b19922d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2de949096f1d38bb11f34b69b19922d6]
+## 1. Citation, commencement and interpretation[^c-2de949096f1d38bb11f34b69b19922d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1991 Regulations and transitionals[^key-2de949096f1d38bb11f34b69b19922d6]
+## 2. Amendment of the 1991 Regulations and transitionals[^c-2de949096f1d38bb11f34b69b19922d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2de949096f1d38bb11f34b69b19922d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2de949096f1d38bb11f34b69b19922d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — AMENDMENT OF THE 1991 REGULATIONS[^key-2de949096f1d38bb11f34b69b19922d6]
+## SCHEDULE 1 — AMENDMENT OF THE 1991 REGULATIONS[^c-2de949096f1d38bb11f34b69b19922d6]
 
 Regulation 2
 
-**1.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TRANSITIONALS[^key-2de949096f1d38bb11f34b69b19922d6]
+## SCHEDULE 2 — TRANSITIONALS[^c-2de949096f1d38bb11f34b69b19922d6]
 
 Regulation 2
 
-**1.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2de949096f1d38bb11f34b69b19922d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2de949096f1d38bb11f34b69b19922d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2de949096f1d38bb11f34b69b19922d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2de949096f1d38bb11f34b69b19922d6]: Textual amendment: Regulations revoked (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and lapsed (S.) (1.4.2015) by virtue of repeal of power conferring provision [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [s. 2](https://www.legislation.gov.uk/ukpga/1990/43/section/2) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)
+[^c-2de949096f1d38bb11f34b69b19922d6]: Textual amendment: Regulations revoked (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and lapsed (S.) (1.4.2015) by virtue of repeal of power conferring provision [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [s. 2](https://www.legislation.gov.uk/ukpga/1990/43/section/2) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)

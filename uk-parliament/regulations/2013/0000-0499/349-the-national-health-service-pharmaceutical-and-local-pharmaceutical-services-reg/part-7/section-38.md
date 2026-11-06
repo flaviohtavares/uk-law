@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] is considering making a determination that an area (A1) is or is not to be, or is or is not to be part of, a controlled locality (whether or not of its own motion), before making the proposed determination, it must give notice of the proposed determination to—
+(1) If NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] is considering making a determination that an area (A1) is or is not to be, or is or is not to be part of, a controlled locality (whether or not of its own motion), before making the proposed determination, it must give notice of the proposed determination to—
 
 - (a) any Local Pharmaceutical Committee whose area includes all or part of A1;
 - (b) any Local Medical Committee whose area includes all or part of A1;
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

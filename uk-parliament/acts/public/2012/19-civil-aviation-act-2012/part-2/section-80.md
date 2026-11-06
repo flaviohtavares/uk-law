@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Advice and assistance in connection with aviation security[^key-1b1ce500e8634f43046c829f4b3e9f68]
+## 80. Advice and assistance in connection with aviation security[^c-1b1ce500e8634f43046c829f4b3e9f68]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ After section 21G of the Aviation Security Act 1982 insert—
 
 ## Annotations
 
-[^key-1b1ce500e8634f43046c829f4b3e9f68]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2012/19/section/80) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/262/article/3/c)
+[^c-1b1ce500e8634f43046c829f4b3e9f68]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2012/19/section/80) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/262/article/3/c)

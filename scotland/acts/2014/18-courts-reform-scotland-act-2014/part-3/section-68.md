@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Return of verdict[^key-be7e87ad38ddf4c7841186137648ef5e]
+## 68. Return of verdict[^c-be7e87ad38ddf4c7841186137648ef5e]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7e87ad38ddf4c7841186137648ef5e]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/18/section/68) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-be7e87ad38ddf4c7841186137648ef5e]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/18/section/68) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

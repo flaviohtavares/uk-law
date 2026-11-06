@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 266. Statements of programme policy[^key-c2e85bbc6d8424a26b4bc51f99ce5e62]
+## 266. Statements of programme policy[^c-c2e85bbc6d8424a26b4bc51f99ce5e62]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the public service remit for the channel will be fulfilled; and
 - (b) the duties imposed on the provider by virtue of sections 277 to 296 will be performed.
 
-(2A)[^key-982ed4e5a8daf99f6dd4436279f39fb7] The condition must require such proposals—
+(2A)[^c-982ed4e5a8daf99f6dd4436279f39fb7] The condition must require such proposals—
 
 - (a) to state whether two or more relevant audiovisual services (including the channel) are proposed to be used to fulfil the public service remit for the channel, and
 - (b) if so, to identify, in relation to each of the relevant audiovisual services, its proposed contribution to the fulfilment of the remit.
@@ -45,7 +45,7 @@ summary: ''
 - (d) must be published by the provider of the channel in question as soon as practicable after its preparation is complete; and
 - (e) must be published in such manner as, having regard to any guidance given by OFCOM, the provider considers appropriate.
 
-(5) In preparing guidance about the preparation of such a statement, OFCOM must have regard, in particular, to the matters which, in the light of the provisions of section 264(4) to (6)[^key-4b49c97fd8ba344213b1da15fb08ec9c], they consider should be included in statements of programme policy.
+(5) In preparing guidance about the preparation of such a statement, OFCOM must have regard, in particular, to the matters which, in the light of the provisions of section 264(4) to (6)[^c-4b49c97fd8ba344213b1da15fb08ec9c], they consider should be included in statements of programme policy.
 
 (6) It shall be the duty of OFCOM—
 
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c2e85bbc6d8424a26b4bc51f99ce5e62]: Commencement: S. 266 in force at 28.12.2004 by [S.I. 2004/3309](https://www.legislation.gov.uk/uksi/2004/3309), [art. 3](https://www.legislation.gov.uk/uksi/2004/3309/article/3)
+[^c-c2e85bbc6d8424a26b4bc51f99ce5e62]: Commencement: S. 266 in force at 28.12.2004 by [S.I. 2004/3309](https://www.legislation.gov.uk/uksi/2004/3309), [art. 3](https://www.legislation.gov.uk/uksi/2004/3309/article/3)
 
-[^key-982ed4e5a8daf99f6dd4436279f39fb7]: Textual amendment: [S. 266(2A)](https://www.legislation.gov.uk/ukpga/2003/21/section/266/2A) inserted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/4/2), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/d)
+[^c-982ed4e5a8daf99f6dd4436279f39fb7]: Textual amendment: [S. 266(2A)](https://www.legislation.gov.uk/ukpga/2003/21/section/266/2A) inserted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/4/2), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/d)
 
-[^key-4b49c97fd8ba344213b1da15fb08ec9c]: Textual amendment: Words in [s. 266(5)](https://www.legislation.gov.uk/ukpga/2003/21/section/266/5) substituted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/4/3), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/d)
+[^c-4b49c97fd8ba344213b1da15fb08ec9c]: Textual amendment: Words in [s. 266(5)](https://www.legislation.gov.uk/ukpga/2003/21/section/266/5) substituted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/4/3), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Revocation of HMO licence[^key-1d322fef986518a823c4a9772a394f8a]
+## 139. Revocation of HMO licence[^c-1d322fef986518a823c4a9772a394f8a]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ inviting each of them to make oral representations about the proposal.
 
 ## Annotations
 
-[^key-1d322fef986518a823c4a9772a394f8a]: Commencement: S. 139 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-1d322fef986518a823c4a9772a394f8a]: Commencement: S. 139 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
 [^c1898073]: Textual amendment: Words in s. 139(2)(c) substituted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 17(2)(3)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/17/2/3/b)

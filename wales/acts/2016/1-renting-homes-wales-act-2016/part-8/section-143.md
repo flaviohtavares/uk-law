@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Supported standard contract and supported accommodation[^key-2c4a7a111611ef94160cfdb28495974b]
+## 143. Supported standard contract and supported accommodation[^c-2c4a7a111611ef94160cfdb28495974b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4a7a111611ef94160cfdb28495974b]: Commencement: [S. 143](https://www.legislation.gov.uk/anaw/2016/1/section/143) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-2c4a7a111611ef94160cfdb28495974b]: Commencement: [S. 143](https://www.legislation.gov.uk/anaw/2016/1/section/143) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

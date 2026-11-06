@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. List of the relevant conditions[^key-4870fa3897d353ce12c945958ac33a29]
+## 7. List of the relevant conditions[^c-4870fa3897d353ce12c945958ac33a29]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4870fa3897d353ce12c945958ac33a29]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/14/section/7) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(e)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/e) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-4870fa3897d353ce12c945958ac33a29]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/14/section/7) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(e)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/e) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Joint or concurrent appointments[^key-60078f977ca6514d5b54ed0e74b638d5]
+## 68. Joint or concurrent appointments[^c-60078f977ca6514d5b54ed0e74b638d5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60078f977ca6514d5b54ed0e74b638d5]: Commencement: Rule 68 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-60078f977ca6514d5b54ed0e74b638d5]: Commencement: Rule 68 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

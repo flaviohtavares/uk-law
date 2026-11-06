@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-d0419a8bd90e6c1ed9ca88eb6f7533b4]
+## 2. Interpretation[^c-d0419a8bd90e6c1ed9ca88eb6f7533b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In these Regulations—
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**conduct**” includes acts and omissions;
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
-- “[^key-1b7fb6beb03919922ff9d0b391c67a69]**director disqualification licence**” means a licence under regulation 44A;
+- “[^c-1b7fb6beb03919922ff9d0b391c67a69]**director disqualification licence**” means a licence under regulation 44A;
 - “**the Dual-Use Regulation**” means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/european/regulation/2009/0428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items;
 - “**humanitarian assistance activity**” includes the work of international and non-governmental organisations carrying out relief activities in Myanmar for the benefit of the civilian population there;
 - “**the Myanmar security forces**” means the Tatmadaw and the Myanmar Police Force, including the Border Guard Force, and any person acting on their behalf or under their command or control;
@@ -40,8 +40,8 @@ In these Regulations—
 
 ## Annotations
 
-[^key-d0419a8bd90e6c1ed9ca88eb6f7533b4]: Commencement: Reg. 2 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
+[^c-d0419a8bd90e6c1ed9ca88eb6f7533b4]: Commencement: Reg. 2 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
 
 [^c24500161]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Amendments have been made to this Act and are cited, where relevant, in respect of the applicable regulations.
 
-[^key-1b7fb6beb03919922ff9d0b391c67a69]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/496/regulation/2) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/2)
+[^c-1b7fb6beb03919922ff9d0b391c67a69]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/496/regulation/2) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/2)

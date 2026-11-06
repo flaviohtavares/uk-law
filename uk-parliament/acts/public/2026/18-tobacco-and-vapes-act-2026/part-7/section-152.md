@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Amendments consequential on sections 148 to 151[^key-d12a82d9399c38d60475358860b5126c]
+## 152. Amendments consequential on sections 148 to 151[^c-d12a82d9399c38d60475358860b5126c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 18 contains amendments consequential on sections 148 to 151.
 
 ## Annotations
 
-[^key-d12a82d9399c38d60475358860b5126c]: Commencement: S. 152 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-d12a82d9399c38d60475358860b5126c]: Commencement: S. 152 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)

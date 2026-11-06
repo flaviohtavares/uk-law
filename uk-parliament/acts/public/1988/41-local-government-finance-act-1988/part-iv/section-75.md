@@ -45,7 +45,7 @@ summary: ''
 
 (6) The regulations may include provision—
 
-- (a)[^c13071311] that a billing authority making calculations in accordance with section 31A or[^key-2d0264c620d7468aa0049c1c01f3f820] 32 of the Local Government Finance Act 1992 (originally or by way of substitute) may anticipate a special levy;
+- (a)[^c13071311] that a billing authority making calculations in accordance with section 31A or[^c-2d0264c620d7468aa0049c1c01f3f820] 32 of the Local Government Finance Act 1992 (originally or by way of substitute) may anticipate a special levy;
 - (b) as to the treatment as special expenses of amounts so anticipated;
 - (c) as to the treatment of any special levy actually issued.
 
@@ -54,7 +54,7 @@ summary: ''
 - (a) provision equivalent to anything in Chapter III or IV of Part I of the Local Government Finance Act 1992 or regulations made under either Chapter (subject to such modifications as the appropriate Minister thinks fit);
 - (b) provision amending or adapting any provision of that Act in consequence of any provision included under subsection (6) above.
 
-(7A)[^key-7e29d355e7f80f4328cdf8318688b15f] Regulations made by the Welsh Ministers may include provision for appeals to be made to the Welsh Ministers from special levies issued to meet expenses incurred in the exercise of functions relating to land drainage.
+(7A)[^c-7e29d355e7f80f4328cdf8318688b15f] Regulations made by the Welsh Ministers may include provision for appeals to be made to the Welsh Ministers from special levies issued to meet expenses incurred in the exercise of functions relating to land drainage.
 
 (8)[^c13071331] In this section “**the appropriate Minister**” has the same meaning as in section 118 below.
 
@@ -70,10 +70,10 @@ summary: ''
 
 [^c13071311]: Textual amendment: S. 75(6)(a) substituted (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 73(3)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/73/3) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-2d0264c620d7468aa0049c1c01f3f820]: Textual amendment: Words in s. 75(6)(a) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/3); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-2d0264c620d7468aa0049c1c01f3f820]: Textual amendment: Words in s. 75(6)(a) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/3); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
 [^c13071321]: Textual amendment: S. 75(7) substituted (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 73(4)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/73/4) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-7e29d355e7f80f4328cdf8318688b15f]: Textual amendment: S. 75(7A) inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 84(2)](https://www.legislation.gov.uk/anaw/2016/3/section/84/2), [88(2)(e)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/e)
+[^c-7e29d355e7f80f4328cdf8318688b15f]: Textual amendment: S. 75(7A) inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 84(2)](https://www.legislation.gov.uk/anaw/2016/3/section/84/2), [88(2)(e)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/e)
 
 [^c13071331]: Textual amendment: S. 75(8) added by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 55(4)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/55/4)

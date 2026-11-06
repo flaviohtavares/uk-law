@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357JJ. Restricted deduction: Northern Ireland rate lower than main rate[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357JJ. Restricted deduction: Northern Ireland rate lower than main rate[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
-(1) The amount of the restricted deduction for a Northern Ireland loss for the purposes of section 357JC(2) or (4), 357JG(2) or 357JHB(2)[^key-02e8e719d08a56de3bdb35d76069840f] is the amount determined under subsection (2) or (3).
+(1) The amount of the restricted deduction for a Northern Ireland loss for the purposes of section 357JC(2) or (4), 357JG(2) or 357JHB(2)[^c-02e8e719d08a56de3bdb35d76069840f] is the amount determined under subsection (2) or (3).
 
 (2) If the profit period falls within only one financial year, the amount of the restricted deduction for the loss is—
 
@@ -64,12 +64,12 @@ L2 is the amount of the loss (if any) that is matched.
 - (a) an amount of a loss is “matched” if relief in relation to the loss is given against Northern Ireland profits, and
 - (b) an amount of a loss is “unmatched” if relief in relation to the loss is given against profits that are not Northern Ireland profits.
 
-(6) In this section “the loss” and “the profit period” have the meanings given by section 357JC(1) or (3), 357JG(1) or 357JHB(1)[^key-d178d9f438ded0e677942c146f0b5d59] (as the case may be).
+(6) In this section “the loss” and “the profit period” have the meanings given by section 357JC(1) or (3), 357JG(1) or 357JHB(1)[^c-d178d9f438ded0e677942c146f0b5d59] (as the case may be).
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-02e8e719d08a56de3bdb35d76069840f]: Textual amendment: Words in s. 357JJ(1) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 97(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/97/a)
+[^c-02e8e719d08a56de3bdb35d76069840f]: Textual amendment: Words in s. 357JJ(1) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 97(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/97/a)
 
-[^key-d178d9f438ded0e677942c146f0b5d59]: Textual amendment: Words in s. 357JJ(6) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 97(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/97/b)
+[^c-d178d9f438ded0e677942c146f0b5d59]: Textual amendment: Words in s. 357JJ(6) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 97(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/97/b)

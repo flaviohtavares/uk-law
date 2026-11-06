@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Additional payments to be made in respect of additional services licences.[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+## 118. Additional payments to be made in respect of additional services licences.[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 *Extent: E+W+S+N.I.*
 
-(1) An additional services licence shall include conditions requiring the licence holder to pay to OFCOM[^key-24d08fc2a121001dbb770b9ac28bf23a] (in addition to any fees required to be so paid by virtue of section 87(1)(c))—
+(1) An additional services licence shall include conditions requiring the licence holder to pay to OFCOM[^c-24d08fc2a121001dbb770b9ac28bf23a] (in addition to any fees required to be so paid by virtue of section 87(1)(c))—
 
 - (a) in respect of the first complete calendar year falling within the period for which the licence is in force, the amount specified in his cash bid;
 - (b) in respect of each subsequent year falling wholly or partly within that period, the amount so specified as increased by the appropriate percentage; and
@@ -47,6 +47,6 @@ any reference in subsection (1)(c) to an accounting period of his shall include 
 
 ## Annotations
 
-[^key-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-24d08fc2a121001dbb770b9ac28bf23a]: Textual amendment: Words in s. 118 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 56](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/56) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-24d08fc2a121001dbb770b9ac28bf23a]: Textual amendment: Words in s. 118 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 56](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/56) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

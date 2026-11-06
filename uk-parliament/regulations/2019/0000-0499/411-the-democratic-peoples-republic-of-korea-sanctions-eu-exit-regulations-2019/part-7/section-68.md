@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Interpretation of Part 7[^key-a2d85b6ea6861adb6850ed4236ea0cf7][^key-aad85f9987c3f980ae89c8e5cc37d990]
+## 68. Interpretation of Part 7[^c-a2d85b6ea6861adb6850ed4236ea0cf7][^c-aad85f9987c3f980ae89c8e5cc37d990]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ and the reference to a legal title or other interest includes one held jointly w
 
 ## Annotations
 
-[^key-a2d85b6ea6861adb6850ed4236ea0cf7]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-a2d85b6ea6861adb6850ed4236ea0cf7]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-aad85f9987c3f980ae89c8e5cc37d990]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/411/regulation/68) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aad85f9987c3f980ae89c8e5cc37d990]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/411/regulation/68) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636531]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), as amended by [S.I. 2017/1112](https://www.legislation.gov.uk/uksi/2017/1112), [S.I](https://www.legislation.gov.uk/uksi/2017/1112/section/I). 2018/623, .

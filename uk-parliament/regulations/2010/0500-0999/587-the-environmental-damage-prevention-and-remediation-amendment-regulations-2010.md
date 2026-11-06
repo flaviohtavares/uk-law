@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England
 
-The Environmental Damage (Prevention and Remediation) (Amendment) Regulations 2010 (revoked)[^key-38a38299c0c40465cd3bf879a2cb5be0]
+The Environmental Damage (Prevention and Remediation) (Amendment) Regulations 2010 (revoked)[^c-38a38299c0c40465cd3bf879a2cb5be0]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st April 2010
 
-[^key-38a38299c0c40465cd3bf879a2cb5be0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38a38299c0c40465cd3bf879a2cb5be0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-38a38299c0c40465cd3bf879a2cb5be0]
+## 1. Title, commencement and application[^c-38a38299c0c40465cd3bf879a2cb5be0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-38a38299c0c40465cd3bf879a2cb5be0]
+## 2. Amendments[^c-38a38299c0c40465cd3bf879a2cb5be0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38a38299c0c40465cd3bf879a2cb5be0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38a38299c0c40465cd3bf879a2cb5be0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-38a38299c0c40465cd3bf879a2cb5be0]EXPLANATORY NOTE
+[^c-38a38299c0c40465cd3bf879a2cb5be0]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ A transposition note setting out how the 2009 Regulations, as amended by this in
 
 ## Annotations
 
-[^key-38a38299c0c40465cd3bf879a2cb5be0]: Textual amendment: Regulations revoked (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) Regulations 2015 (S.I. 2015/810)](https://www.legislation.gov.uk/uksi/2015/810), [reg. 36](https://www.legislation.gov.uk/uksi/2015/810/regulation/36) (with [regs. 4-8](https://www.legislation.gov.uk/uksi/2015/810/regulation/4))
+[^c-38a38299c0c40465cd3bf879a2cb5be0]: Textual amendment: Regulations revoked (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) Regulations 2015 (S.I. 2015/810)](https://www.legislation.gov.uk/uksi/2015/810), [reg. 36](https://www.legislation.gov.uk/uksi/2015/810/regulation/36) (with [regs. 4-8](https://www.legislation.gov.uk/uksi/2015/810/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.5. Form and content of statutory demand[^key-26c64d48783023150d2599f949abdf2b]
+## 4.5. Form and content of statutory demand[^c-26c64d48783023150d2599f949abdf2b]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In either case the amount claimed must be limited to that which has accrued due 
 
 ## Annotations
 
-[^key-26c64d48783023150d2599f949abdf2b]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-26c64d48783023150d2599f949abdf2b]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00032]: Marginal citation: \[FORM 4.1\]

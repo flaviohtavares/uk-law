@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Restoration proceedings[^key-47bc587cc6a4e91f0cc94d7b11494e30]
+## 98. Restoration proceedings[^c-47bc587cc6a4e91f0cc94d7b11494e30]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the panel may direct that P may not make further applications under section 97(2
 
 ## Annotations
 
-[^key-47bc587cc6a4e91f0cc94d7b11494e30]: Commencement: S. 98 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-47bc587cc6a4e91f0cc94d7b11494e30]: Commencement: S. 98 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

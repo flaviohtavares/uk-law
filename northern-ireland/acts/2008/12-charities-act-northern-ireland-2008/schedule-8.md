@@ -85,7 +85,7 @@ Section 183.
 
 ### The Trustee Act (Northern Ireland) 2001 (c. 14)
 
-**8.**[^key-4adce5bc78057579d734224efcc6afaf] In section 43(1) (interpretation), in the definition of “charitable trust”, for “the Charities Act (Northern Ireland) 1964 (c. 33)” substitute “ the Charities Act (Northern Ireland) 2008 ”.
+**8.**[^c-4adce5bc78057579d734224efcc6afaf] In section 43(1) (interpretation), in the definition of “charitable trust”, for “the Charities Act (Northern Ireland) 1964 (c. 33)” substitute “ the Charities Act (Northern Ireland) 2008 ”.
 
 ### The Criminal Justice and Police Act 2001 (c. 16)
 
@@ -99,11 +99,11 @@ Section 183.
 
 ### The Housing (Northern Ireland) Order 2003 (NI 2)
 
-**10.**[^key-4401e427298cf964af4896a175874b0a] In Article 119(6) (religious denominations, charities, &c.) for “the Charities Act (Northern Ireland) 1964” substitute “ the Charities Act (Northern Ireland) 2008 ”.
+**10.**[^c-4401e427298cf964af4896a175874b0a] In Article 119(6) (religious denominations, charities, &c.) for “the Charities Act (Northern Ireland) 1964” substitute “ the Charities Act (Northern Ireland) 2008 ”.
 
 ### The Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
 
-**11.**[^key-9c91dadfade9b35b4dba589d863844fe] In section 63(1) (interpretation), for the definition of “Northern Ireland charity” substitute—
+**11.**[^c-9c91dadfade9b35b4dba589d863844fe] In section 63(1) (interpretation), for the definition of “Northern Ireland charity” substitute—
 
 > “**Northern Ireland charity**” means a charity within the meaning of the Charities Act (Northern Ireland) 2008 (see section 1 of that Act);
 
@@ -114,7 +114,7 @@ Section 183.
 **12.** In Schedule 3 (disclosure for facilitating discharge of functions by other supervising authorities)—
 
 - (a) in the entry relating to the Department, omit the words “the Charities Act (Northern Ireland) 1964 (c. 33)”; and
-- (b)[^key-4ab98082fbdd10f5116041b73e59efee] at the end add—
+- (b)[^c-4ab98082fbdd10f5116041b73e59efee] at the end add—
 
   > |  |  |
   > | --- | --- |
@@ -124,9 +124,9 @@ Section 183.
 
 ### The Companies Act 2006 (c. 46)
 
-**13.**[^c22542481] (1)[^key-5d0f4cd457b90e9ac973ddb6275f4c13] In section 21(2)(b) for “Article 9 of the Charities (Northern Ireland) Order 1987 (SI 1987/2048 (N.I.19))” substitute “ section 96 of the Charities Act (Northern Ireland) 2008 ”.
+**13.**[^c22542481] (1)[^c-5d0f4cd457b90e9ac973ddb6275f4c13] In section 21(2)(b) for “Article 9 of the Charities (Northern Ireland) Order 1987 (SI 1987/2048 (N.I.19))” substitute “ section 96 of the Charities Act (Northern Ireland) 2008 ”.
 
-(2)[^key-5d0f4cd457b90e9ac973ddb6275f4c13] In section 31(4)(b) for “Article 9 of the Charities (Northern Ireland) Order 1987 (SI 1987/2048 (N.I.19))” substitute “ section 96 of the Charities Act (Northern Ireland) 2008 ”.
+(2)[^c-5d0f4cd457b90e9ac973ddb6275f4c13] In section 31(4)(b) for “Article 9 of the Charities (Northern Ireland) Order 1987 (SI 1987/2048 (N.I.19))” substitute “ section 96 of the Charities Act (Northern Ireland) 2008 ”.
 
 (3)[^c22542491] In section 1140(2)(c)(ii) after “Charities Act 1993 (c. 10)” insert “ or section 33 of Charities Act (Northern Ireland) 2008 ”.
 
@@ -142,18 +142,18 @@ Section 183.
 
 ## Annotations
 
-[^key-4adce5bc78057579d734224efcc6afaf]: Commencement: Sch. 8 para. 8 in operation at 24.6.2013 for specified purposes by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-4adce5bc78057579d734224efcc6afaf]: Commencement: Sch. 8 para. 8 in operation at 24.6.2013 for specified purposes by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
 [^c22542471]: Modification: [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/9) modified (18.2.2011) by [Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2011 (S.R. 2011/12)](https://www.legislation.gov.uk/nisr/2011/12), [art. 2](https://www.legislation.gov.uk/nisr/2011/12/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/12/schedule)
 
-[^key-4401e427298cf964af4896a175874b0a]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/10) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-4401e427298cf964af4896a175874b0a]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/10) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
-[^key-9c91dadfade9b35b4dba589d863844fe]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/11) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-9c91dadfade9b35b4dba589d863844fe]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/11) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
-[^key-4ab98082fbdd10f5116041b73e59efee]: Commencement: [Sch. 8 para. 12(b)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/12/b) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-4ab98082fbdd10f5116041b73e59efee]: Commencement: [Sch. 8 para. 12(b)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/12/b) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
 [^c22542481]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13) partly in operation; [Sch. 8 para. 13](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13) not in operation at Royal Assent see [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1); [Sch. 8 para. 13(3)(4)(5)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13/3/4/5) in operation at 18.2.2011 by [S.R. 2011/11](https://www.legislation.gov.uk/nisr/2011/11), [art. 2](https://www.legislation.gov.uk/nisr/2011/11/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/11/schedule)
 
-[^key-5d0f4cd457b90e9ac973ddb6275f4c13]: Commencement: [Sch. 8 para. 13(1)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13/1)[(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13/2) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-5d0f4cd457b90e9ac973ddb6275f4c13]: Commencement: [Sch. 8 para. 13(1)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13/1)[(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13/2) in operation at 24.6.2013 by [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
 [^c22542491]: Modification: [Sch. 8 para. 13(3)(4)(5)](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/13/3/4/5) modified (18.2.2011) by [Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2011 (S.R. 2011/12)](https://www.legislation.gov.uk/nisr/2011/12), [art. 2](https://www.legislation.gov.uk/nisr/2011/12/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/12/schedule)

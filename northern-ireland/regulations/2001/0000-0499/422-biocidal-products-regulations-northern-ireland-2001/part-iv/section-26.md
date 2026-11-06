@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Confidentiality[^key-a431ea5eade6571d438e82264b91c9f7]
+## 26. Confidentiality[^c-a431ea5eade6571d438e82264b91c9f7]
 
 *Extent: N.I.*
 
@@ -74,6 +74,6 @@ after consulting that person as appropriate, the Executive shall review whether 
 
 ## Annotations
 
-[^key-a431ea5eade6571d438e82264b91c9f7]: Commencement: Reg. 26 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-a431ea5eade6571d438e82264b91c9f7]: Commencement: Reg. 26 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00021]: Footnote: [S.R. 1993 No. 45](https://www.legislation.gov.uk/nisr/1993/45), as amended by [S.R. 1998 No. 238](https://www.legislation.gov.uk/nisr/1998/238)

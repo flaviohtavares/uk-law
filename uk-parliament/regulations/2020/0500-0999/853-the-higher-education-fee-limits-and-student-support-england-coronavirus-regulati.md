@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (revoked)[^key-ec101e77f420d18554d1bf23080a939d]
+The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (revoked)[^c-ec101e77f420d18554d1bf23080a939d]
 
 Made
 
@@ -42,38 +42,38 @@ Coming into force
 
 13th August 2020
 
-[^key-ec101e77f420d18554d1bf23080a939d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec101e77f420d18554d1bf23080a939d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-ec101e77f420d18554d1bf23080a939d]
+## PART 1 — General[^c-ec101e77f420d18554d1bf23080a939d]
 
-### 1. Citation and commencement[^key-ec101e77f420d18554d1bf23080a939d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of Fee Limits[^key-ec101e77f420d18554d1bf23080a939d]
-
-### 2. Amendment of the Higher Education (Fee Limits and Fee Limit Condition) (England) Regulations 2018[^key-ec101e77f420d18554d1bf23080a939d]
+### 1. Citation and commencement[^c-ec101e77f420d18554d1bf23080a939d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Higher Education (Fee Limits for Accelerated Courses) (England) Regulations 2019[^key-ec101e77f420d18554d1bf23080a939d]
+## PART 2 — Amendment of Fee Limits[^c-ec101e77f420d18554d1bf23080a939d]
+
+### 2. Amendment of the Higher Education (Fee Limits and Fee Limit Condition) (England) Regulations 2018[^c-ec101e77f420d18554d1bf23080a939d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of Fee Loan Amounts[^key-ec101e77f420d18554d1bf23080a939d]
-
-### 4. Amendment of the Education (Student Support) Regulations 2011[^key-ec101e77f420d18554d1bf23080a939d]
+### 3. Amendment of the Higher Education (Fee Limits for Accelerated Courses) (England) Regulations 2019[^c-ec101e77f420d18554d1bf23080a939d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec101e77f420d18554d1bf23080a939d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Amendment of Fee Loan Amounts[^c-ec101e77f420d18554d1bf23080a939d]
+
+### 4. Amendment of the Education (Student Support) Regulations 2011[^c-ec101e77f420d18554d1bf23080a939d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ec101e77f420d18554d1bf23080a939d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ec101e77f420d18554d1bf23080a939d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec101e77f420d18554d1bf23080a939d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec101e77f420d18554d1bf23080a939d]: Textual amendment: Regulations revoked (25.11.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) (Revocation) Regulations 2020 (S.I. 2020/1341)](https://www.legislation.gov.uk/uksi/2020/1341), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1341/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1341/regulation/2)
+[^c-ec101e77f420d18554d1bf23080a939d]: Textual amendment: Regulations revoked (25.11.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) (Revocation) Regulations 2020 (S.I. 2020/1341)](https://www.legislation.gov.uk/uksi/2020/1341), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1341/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1341/regulation/2)

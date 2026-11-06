@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 540. Agricultural buildings[^key-6bb472c878ad48c88105c7ea581121da]
+## 540. Agricultural buildings[^c-6bb472c878ad48c88105c7ea581121da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bb472c878ad48c88105c7ea581121da]: Textual amendment: S. 540 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/10)
+[^c-6bb472c878ad48c88105c7ea581121da]: Textual amendment: S. 540 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/10)

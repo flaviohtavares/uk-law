@@ -44,9 +44,9 @@ Coming into force in accordance with regulation 1(2)
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 4, 84(2) and 86(5) of the Financial Services and Markets Act 2023[^f00001].
 
-## PART 1 — Introductory[^key-85f1f237ab4524bdd17e67c559e6b0e4]
+## PART 1 — Introductory[^c-85f1f237ab4524bdd17e67c559e6b0e4]
 
-### 1. Citation, commencement and extent[^key-dfbd336ed6afd1ebe0d3ddb02c97f98c][^key-7f8ae24ec001f2bb723efde1161364fd]
+### 1. Citation, commencement and extent[^c-dfbd336ed6afd1ebe0d3ddb02c97f98c][^c-7f8ae24ec001f2bb723efde1161364fd]
 
 (1) These Regulations may be cited as the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023.
 
@@ -54,13 +54,13 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## PART 2 — Prudential requirements[^key-755ba78806857a59db13c86afdd392a8]
+## PART 2 — Prudential requirements[^c-755ba78806857a59db13c86afdd392a8]
 
-### Chapter 1 — Matching adjustment[^key-91ee4860362536c182db0cb0c0cedc2b]
+### Chapter 1 — Matching adjustment[^c-91ee4860362536c182db0cb0c0cedc2b]
 
-#### 2. Interpretation of Chapter 1[^key-f8252a1c3bda69745314e37a5c1f0874][^key-bbbad69005789dde8576d16473bc33b1][^key-141a3e7a7e754e37f8b3a20a37ea5de3]
+#### 2. Interpretation of Chapter 1[^c-f8252a1c3bda69745314e37a5c1f0874][^c-bbbad69005789dde8576d16473bc33b1][^c-141a3e7a7e754e37f8b3a20a37ea5de3]
 
-(1) In this Chapter[^key-5a5cc14fd5c5a5a6368816ff90d621d6] —
+(1) In this Chapter[^c-5a5cc14fd5c5a5a6368816ff90d621d6] —
 
 - “**assigned portfolio of assets**” means the portfolio referred to in regulation 4(3);
 - “**credit rating**” means a credit rating defined in Article 3(1) of Regulation [(EC) No 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060) of the European Parliament and of the Council of 16 September 2009 on credit rating agencies[^f00002] issued or endorsed by a credit rating agency in accordance with Article 4 of that Regulation;
@@ -70,9 +70,9 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 - “**PRA rules**” means the rules made by the PRA under FSMA 2000, as they have effect from time to time;
 - “**reinsurance undertaking**” means a reinsurance undertaking, as defined in section 417(1) of FSMA 2000, in relation to which PRA rules provide for the calculation of a best estimate of future cash flows using the relevant risk-free interest rate term structure.
 
-(2) Any other term used in this Chapter[^key-80ca00c0b7223cf570a9483557d2718c] which is used in PRA rules applicable to insurance and reinsurance undertakings has the same meaning as in those rules.
+(2) Any other term used in this Chapter[^c-80ca00c0b7223cf570a9483557d2718c] which is used in PRA rules applicable to insurance and reinsurance undertakings has the same meaning as in those rules.
 
-#### 3. PRA duty to publish technical information[^key-d0919365e119e5a1634e086fa0558f4c][^key-4106ec796f8c2ee9e19655f32a114d43]
+#### 3. PRA duty to publish technical information[^c-d0919365e119e5a1634e086fa0558f4c][^c-4106ec796f8c2ee9e19655f32a114d43]
 
 (1) Every quarter the PRA must publish on its website—
 
@@ -83,7 +83,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (2) Paragraph 17(9)(b) of Schedule 6A to the Bank of England Act 1998[^f00005] (restriction on delegation of functions by the Prudential Regulation Committee) does not prohibit the making of a rule that imposes an obligation on PRA-authorised persons by reference to information published by the PRA under this regulation.
 
-#### 4. Application of the matching adjustment[^key-a5db81833d73f89351f3ba8ac0780a09][^key-34ee2573a1e92fc48191d6fce7cc19cd]
+#### 4. Application of the matching adjustment[^c-a5db81833d73f89351f3ba8ac0780a09][^c-34ee2573a1e92fc48191d6fce7cc19cd]
 
 (1) This regulation applies where an insurance or reinsurance undertaking (“the undertaking”) applies to the PRA to disapply or modify its rules, such that the applicant undertaking may apply a matching adjustment to the relevant risk-free interest rate term structure in order to calculate the best estimate of a portfolio of long-term insurance or reinsurance obligations.
 
@@ -122,7 +122,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 - (b) set out in rules referred to in regulation 7(b), or
 - (c) imposed under section 138BA(4)(a) of FSMA 2000.
 
-#### 5. Calculation of the matching adjustment[^key-c842af6454d3b40b5a2a9c656b7de9cf][^key-04451dff08afc2d6fc6e791614b37a20]
+#### 5. Calculation of the matching adjustment[^c-c842af6454d3b40b5a2a9c656b7de9cf][^c-04451dff08afc2d6fc6e791614b37a20]
 
 (1) For each currency the matching adjustment referred to in regulation 4(1) must be equal to the difference of—
 
@@ -140,7 +140,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (5) The deduction of the fundamental spread under paragraph (4) from the result of the calculation set out in paragraph (1) must include only the portion of the fundamental spread (as calculated in accordance with regulation 6) that has not already been reflected in the adjustment to the cash flows of the assigned portfolio of assets in accordance with paragraphs (1) to (3).
 
-#### 6. Calculation of fundamental spread[^key-48e649b6a023d305ed216509ec38a742][^key-94482c7b494e99d1de02b7949d0ee3f0]
+#### 6. Calculation of fundamental spread[^c-48e649b6a023d305ed216509ec38a742][^c-94482c7b494e99d1de02b7949d0ee3f0]
 
 (1) The fundamental spread referred to in regulation 5 must be calculated in a transparent, prudent, reliable and objective manner that is consistent over time and based on relevant indices where available.
 
@@ -172,7 +172,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (9) The fundamental spread calculated in accordance with this regulation may be increased in accordance with PRA rules referred to in regulation 7(e) or 7(f).
 
-#### 7. Power of PRA to make rules[^key-119617ba3df69bb47cb98b203586c8e7]
+#### 7. Power of PRA to make rules[^c-119617ba3df69bb47cb98b203586c8e7]
 
 Notwithstanding regulations 4 to 6, the PRA’s power to make general rules under section 137G of FSMA 2000[^f00007] (the PRA’s general rules) continues to include power to make rules—
 
@@ -188,7 +188,7 @@ Notwithstanding regulations 4 to 6, the PRA’s power to make general rules unde
 - (e) requiring an insurance or reinsurance undertaking whose assigned portfolio of assets includes assets without fixed cash flows (excluding assets of the kind specified in regulation 4(9)(b) or (c)) to increase the fundamental spread calculated in accordance with regulation 6 by an amount to be determined in accordance with the rules;
 - (f) permitting an insurance or reinsurance undertaking to increase the fundamental spread calculated in accordance with regulation 6 and any applicable rules made under paragraph (e) where the undertaking considers an increase is necessary to ensure that the fundamental spread covers all the risks retained by the undertaking.
 
-### CHAPTER 2 — Risk margin[^key-f39690821bdc5ad1c002830833db867d]
+### CHAPTER 2 — Risk margin[^c-f39690821bdc5ad1c002830833db867d]
 
 #### 7A. Interpretation of Chapter 2
 
@@ -223,18 +223,18 @@ where—
 
 Notwithstanding regulation 7B, the PRA’s power to make general rules under section 137G of FSMA 2000[^f00006] continues to include power to make rules permitting an insurance or reinsurance undertaking to use simplified methods to calculate risk margin which are proportionate to the nature, scale and complexity of the risk underlying its insurance or reinsurance obligations.
 
-## PART 3 — Enforcement and review[^key-37e479666c0e657dfd3f03cad58200b9]
+## PART 3 — Enforcement and review[^c-37e479666c0e657dfd3f03cad58200b9]
 
-### 8. PRA’s functions and powers under FSMA 2000[^key-92c439edc907d2dc773f43926d9dbdde][^key-4eab1d32e6e3f036902a8062a60dd740]
+### 8. PRA’s functions and powers under FSMA 2000[^c-92c439edc907d2dc773f43926d9dbdde][^c-4eab1d32e6e3f036902a8062a60dd740]
 
-(1) FSMA 2000 applies in relation to regulations 5 (calculation of the matching adjustment) , 6 (calculation of fundamental spread) and 7B (risk margin)[^key-d2fc7c2dd636082f23ede35d23433632] with the modifications set out in paragraphs (2) to (8).
+(1) FSMA 2000 applies in relation to regulations 5 (calculation of the matching adjustment) , 6 (calculation of fundamental spread) and 7B (risk margin)[^c-d2fc7c2dd636082f23ede35d23433632] with the modifications set out in paragraphs (2) to (8).
 
 (2) Section 39[^f00008] (exemption of appointed representatives) applies as if in subsection (4)—
 
 - (a) “or” at the end of paragraph (a) were omitted;
 - (b) after paragraph (a) there were inserted—
 
-  > - (aa) regulation 5, 6 or 7B[^key-bd71eb2a1421ad9ad9c8354d6da5bf76] of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023, or
+  > - (aa) regulation 5, 6 or 7B[^c-bd71eb2a1421ad9ad9c8354d6da5bf76] of the Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023, or
 
   .
 
@@ -329,7 +329,7 @@ Notwithstanding regulation 7B, the PRA’s power to make general rules under sec
 
     .
 
-### 9. Review[^key-d3c471f3cb6cd578757c93fd9236bdc7][^key-8318ec128e6962a1ae85d490baeecc91]
+### 9. Review[^c-d3c471f3cb6cd578757c93fd9236bdc7][^c-8318ec128e6962a1ae85d490baeecc91]
 
 (1) The Treasury must from time to time—
 
@@ -349,7 +349,7 @@ Notwithstanding regulation 7B, the PRA’s power to make general rules under sec
 
 (5) In this regulation “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015[^f00015] (duty to review regulatory provisions in secondary legislation) (see section 32 of that Act).
 
-## PART 4 — Overseas Insurance Regime[^key-fff57da5e9f83d2d58548e67b3bf0ce1]
+## PART 4 — Overseas Insurance Regime[^c-fff57da5e9f83d2d58548e67b3bf0ce1]
 
 ### 10. Interpretation
 
@@ -359,7 +359,7 @@ In this Part—
 - “**insurance undertaking**” has the meaning given in section 417(1) of FSMA 2000[^f00005];
 - “**insurance group**” means a group which contains one or more insurance undertakings or reinsurance undertakings;
 - “**overseas insurance undertaking**” means an undertaking with its head office in an overseas jurisdiction which if it was carrying on its activities in the United Kingdom would require authorisation for the regulated activity of effecting or carrying out contracts of insurance as principal under FSMA 2000;
-- “**overseas jurisdiction**” means a country or territory outside the United Kingdom [^key-d04407de8b98d5a0fd2fc34e6922a0f9]...;
+- “**overseas jurisdiction**” means a country or territory outside the United Kingdom [^c-d04407de8b98d5a0fd2fc34e6922a0f9]...;
 - “**overseas reinsurance undertaking**” means an undertaking with its head office in an overseas jurisdiction which if it was carrying on its activities in the United Kingdom would require authorisation for the regulated activity of effecting or carrying out contracts of insurance that are limited to reinsurance contracts as principal under FSMA 2000;
 - “**PRA rules**” means the rules made by the PRA under FSMA 2000, as they have effect from time to time;
 - “**reinsurance undertaking**” has the meaning given in section 417(1) of FSMA 2000;
@@ -485,23 +485,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-85f1f237ab4524bdd17e67c559e6b0e4]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2023/1347/part/1) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/2)
+[^c-85f1f237ab4524bdd17e67c559e6b0e4]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2023/1347/part/1) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/2)
 
-[^key-dfbd336ed6afd1ebe0d3ddb02c97f98c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-dfbd336ed6afd1ebe0d3ddb02c97f98c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-7f8ae24ec001f2bb723efde1161364fd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-7f8ae24ec001f2bb723efde1161364fd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-755ba78806857a59db13c86afdd392a8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2023/1347/part/2) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/3)
+[^c-755ba78806857a59db13c86afdd392a8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2023/1347/part/2) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/3)
 
-[^key-91ee4860362536c182db0cb0c0cedc2b]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2023/1347/part/2/chapter/1) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/3)
+[^c-91ee4860362536c182db0cb0c0cedc2b]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2023/1347/part/2/chapter/1) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/3)
 
-[^key-f8252a1c3bda69745314e37a5c1f0874]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-f8252a1c3bda69745314e37a5c1f0874]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-bbbad69005789dde8576d16473bc33b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-bbbad69005789dde8576d16473bc33b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-141a3e7a7e754e37f8b3a20a37ea5de3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2) heading substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/4/a)
+[^c-141a3e7a7e754e37f8b3a20a37ea5de3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2) heading substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/4/a)
 
-[^key-5a5cc14fd5c5a5a6368816ff90d621d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2/1) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/4/b)
+[^c-5a5cc14fd5c5a5a6368816ff90d621d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2/1) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/4/b)
 
 [^f00002]: Footnote: EUR 1060/2009. Articles 4 and 5 were amended by [S.I. 2019/266](https://www.legislation.gov.uk/uksi/2019/266), [2020/628](https://www.legislation.gov.uk/uksi/2020/628), [1055](https://www.legislation.gov.uk/uksi/2020/1055) and [1301](https://www.legislation.gov.uk/uksi/2020/1301).
 
@@ -509,45 +509,45 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: Section 2B was substituted by section 6 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-80ca00c0b7223cf570a9483557d2718c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2/2) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/4/c)
+[^c-80ca00c0b7223cf570a9483557d2718c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/2/2) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/4/c)
 
-[^key-d0919365e119e5a1634e086fa0558f4c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1347/regulation/3) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-d0919365e119e5a1634e086fa0558f4c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1347/regulation/3) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-4106ec796f8c2ee9e19655f32a114d43]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1347/regulation/3) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-4106ec796f8c2ee9e19655f32a114d43]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1347/regulation/3) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
 [^f00005]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11). Schedule 6A was inserted by section 13 of and Schedule 1 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14).
 
-[^key-a5db81833d73f89351f3ba8ac0780a09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1347/regulation/4) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-a5db81833d73f89351f3ba8ac0780a09]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1347/regulation/4) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-34ee2573a1e92fc48191d6fce7cc19cd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1347/regulation/4) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-34ee2573a1e92fc48191d6fce7cc19cd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1347/regulation/4) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
 [^f00006]: Footnote: Section 138BA was inserted by section 34 of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-c842af6454d3b40b5a2a9c656b7de9cf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1347/regulation/5) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-c842af6454d3b40b5a2a9c656b7de9cf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1347/regulation/5) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-04451dff08afc2d6fc6e791614b37a20]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1347/regulation/5) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-04451dff08afc2d6fc6e791614b37a20]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1347/regulation/5) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-48e649b6a023d305ed216509ec38a742]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1347/regulation/6) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-48e649b6a023d305ed216509ec38a742]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1347/regulation/6) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-94482c7b494e99d1de02b7949d0ee3f0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1347/regulation/6) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-94482c7b494e99d1de02b7949d0ee3f0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1347/regulation/6) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-119617ba3df69bb47cb98b203586c8e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1347/regulation/7) in force at 7.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-119617ba3df69bb47cb98b203586c8e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1347/regulation/7) in force at 7.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
 [^f00007]: Footnote: Section 137G was inserted by section 24 of the Financial Services Act 2012.
 
-[^key-f39690821bdc5ad1c002830833db867d]: Textual amendment: [Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2023/1347/part/2/chapter/2) inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/5)
+[^c-f39690821bdc5ad1c002830833db867d]: Textual amendment: [Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2023/1347/part/2/chapter/2) inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/5)
 
-[^key-37e479666c0e657dfd3f03cad58200b9]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2023/1347/part/3) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/6)
+[^c-37e479666c0e657dfd3f03cad58200b9]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2023/1347/part/3) heading inserted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/6)
 
-[^key-92c439edc907d2dc773f43926d9dbdde]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-92c439edc907d2dc773f43926d9dbdde]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-4eab1d32e6e3f036902a8062a60dd740]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-4eab1d32e6e3f036902a8062a60dd740]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8) in force at 30.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-d2fc7c2dd636082f23ede35d23433632]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8/1) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/7/a)
+[^c-d2fc7c2dd636082f23ede35d23433632]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8/1) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/7/a)
 
 [^f00008]: Footnote: Subsection (4) was substituted by paragraph 5 of Schedule 18 to the Financial Services Act 2012 and amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-bd71eb2a1421ad9ad9c8354d6da5bf76]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/7/b)
+[^c-bd71eb2a1421ad9ad9c8354d6da5bf76]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2023/1347/regulation/8) substituted (1.11.2024 for specified purposes and 31.12.20204 otherwise) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/2/7/b)
 
 [^f00009]: Footnote: Section 66B was inserted by section 32 of the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and subsection (4) was amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
@@ -561,12 +561,12 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00014]: Footnote: Subsection (7)(d) was inserted by paragraph 3(4) of Schedule 10 to the Financial Services (Banking Reform) Act 2013. Subsection (9) was inserted by paragraph 23 of Part 5 of Schedule 9 to the Financial Services Act 2012 and amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-d3c471f3cb6cd578757c93fd9236bdc7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1347/regulation/9) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-d3c471f3cb6cd578757c93fd9236bdc7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1347/regulation/9) in force at 7.4.2024 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
-[^key-8318ec128e6962a1ae85d490baeecc91]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1347/regulation/9) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
+[^c-8318ec128e6962a1ae85d490baeecc91]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1347/regulation/9) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2)
 
 [^f00015]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-fff57da5e9f83d2d58548e67b3bf0ce1]: Textual amendment: Pt. 4 inserted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1116/regulation/4)
+[^c-fff57da5e9f83d2d58548e67b3bf0ce1]: Textual amendment: Pt. 4 inserted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1116/regulation/4)
 
-[^key-d04407de8b98d5a0fd2fc34e6922a0f9]: Textual amendment: Words in reg. 10 omitted (28.11.2025) by virtue of [The Financial Services (Overseas Recognition Regime Designations) Regulations 2025 (S.I. 2025/1147)](https://www.legislation.gov.uk/uksi/2025/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/7/2)
+[^c-d04407de8b98d5a0fd2fc34e6922a0f9]: Textual amendment: Words in reg. 10 omitted (28.11.2025) by virtue of [The Financial Services (Overseas Recognition Regime Designations) Regulations 2025 (S.I. 2025/1147)](https://www.legislation.gov.uk/uksi/2025/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/1147/regulation/7/2)

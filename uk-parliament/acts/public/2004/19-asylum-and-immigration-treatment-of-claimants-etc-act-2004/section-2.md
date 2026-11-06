@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Entering United Kingdom without passport, &c.[^key-4f7713fa2268b03adf4f0c9e93f2ee4e]
+## 2. Entering United Kingdom without passport, &c.[^c-4f7713fa2268b03adf4f0c9e93f2ee4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,22 +37,22 @@ summary: ''
 
 (4) It is a defence for a person charged with an offence under subsection (1)—
 
-- (a)[^key-af4b7ffc993dd2e169c7cfa941a082c9] to prove that he is —
+- (a)[^c-af4b7ffc993dd2e169c7cfa941a082c9] to prove that he is —
   - (i) an Irish citizen,
   - (ii) has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules, or
   - (iii) is a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020,
-- (b)[^key-9cb13c666df1ece8c3dc557caba4f6c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9cb13c666df1ece8c3dc557caba4f6c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) to prove that he has a reasonable excuse for not being in possession of a document of the kind specified in subsection (1),
 - (d) to produce a false immigration document and to prove that he used that document as an immigration document for all purposes in connection with his journey to the United Kingdom, or
 - (e) to prove that he travelled to the United Kingdom without, at any stage since he set out on the journey, having possession of an immigration document.
 
 (5) It is a defence for a person charged with an offence under subsection (2) in respect of a child—
 
-- (a)[^key-5cc4a38f1c89d613312b3001a9fd7968] to prove that the child is—
+- (a)[^c-5cc4a38f1c89d613312b3001a9fd7968] to prove that the child is—
   - (i) an Irish citizen,
   - (ii) has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules, or
   - (iii) is a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020,
-- (b)[^key-4a3c7b0b97ff69ad2bff37f94cfb06ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4a3c7b0b97ff69ad2bff37f94cfb06ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) to prove that the person has a reasonable excuse for not being in possession of a document of the kind specified in subsection (2),
 - (d) to produce a false immigration document and to prove that it was used as an immigration document for all purposes in connection with the child’s journey to the United Kingdom, or
 - (e) to prove that he travelled to the United Kingdom with the child without, at any stage since he set out on the journey, having possession of an immigration document in respect of the child.
@@ -77,7 +77,7 @@ summary: ''
 (9) A person guilty of an offence under this section shall be liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
-- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-6c49a675473b0b36b3f2575d8c7219bb], to a fine not exceeding the statutory maximum or to both.
+- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-6c49a675473b0b36b3f2575d8c7219bb], to a fine not exceeding the statutory maximum or to both.
 
 (10) If a constable or *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_57356551-ed73-4224-d420-2578f6e39636]an *(Extent: N.I.)* immigration officer reasonably suspects that a person has committed an offence under this section he may arrest the person without warrant.
 
@@ -88,14 +88,14 @@ summary: ''
 
 (12) In this section—
 
-- [^key-d66011d08c8628f65927622982740bca]...
+- [^c-d66011d08c8628f65927622982740bca]...
 - “**immigration document**” means—
   - (a) a passport, and
-  - (b) a document which relates to a national of a State other than the United Kingdom and which is designed to serve the same purpose as a passport, [^key-6bced664ee62957d0cc903847c40c61e]...
+  - (b) a document which relates to a national of a State other than the United Kingdom and which is designed to serve the same purpose as a passport, [^c-6bced664ee62957d0cc903847c40c61e]...
 - “**leave or asylum interview**” means an interview with an immigration officer or an official of the Secretary of State at which a person—
   - (a) seeks leave to enter or remain in the United Kingdom, or
   - (b) claims that to remove him from or require him to leave the United Kingdom would breach the United Kingdom’s obligations under the Refugee Convention or would be unlawful under section 6 of the Human Rights Act 1998 (c. 42) as being incompatible with his Convention rights.
-- “residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020.[^key-e008612951c197a4a9bb3ee9d314e70f]
+- “residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020.[^c-e008612951c197a4a9bb3ee9d314e70f]
 
 (13) For the purposes of this section—
 
@@ -107,7 +107,7 @@ summary: ''
 
 (14) Section 11 of the Immigration Act 1971 (c. 77) shall have effect for the purpose of the construction of a reference in this section to entering the United Kingdom.
 
-(15) In so far as this section extends to England and Wales, subsection (9)(b) shall, until 2 May 2022[^key-33498cc187b988b6cd475c5fc0daf71f], have effect as if the reference to the general limit in a magistrates’ court[^key-8a376de542c37b3e62d6c0efefd03609] were a reference to six months.
+(15) In so far as this section extends to England and Wales, subsection (9)(b) shall, until 2 May 2022[^c-33498cc187b988b6cd475c5fc0daf71f], have effect as if the reference to the general limit in a magistrates’ court[^c-8a376de542c37b3e62d6c0efefd03609] were a reference to six months.
 
 (16) In so far as this section extends to Scotland, subsection (9)(b) shall have effect as if the reference to twelve months were a reference to six months.
 
@@ -115,26 +115,26 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7713fa2268b03adf4f0c9e93f2ee4e]: Modification: S. 2 applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(l)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/l)
+[^c-4f7713fa2268b03adf4f0c9e93f2ee4e]: Modification: S. 2 applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(l)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/l)
 
-[^key-af4b7ffc993dd2e169c7cfa941a082c9]: Textual amendment: S. 2(4)(a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/a/i)
+[^c-af4b7ffc993dd2e169c7cfa941a082c9]: Textual amendment: S. 2(4)(a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/a/i)
 
-[^key-9cb13c666df1ece8c3dc557caba4f6c3]: Textual amendment: S. 2(4)(b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/a/ii)
+[^c-9cb13c666df1ece8c3dc557caba4f6c3]: Textual amendment: S. 2(4)(b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/a/ii)
 
-[^key-5cc4a38f1c89d613312b3001a9fd7968]: Textual amendment: S. 2(5)(a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/b/i)
+[^c-5cc4a38f1c89d613312b3001a9fd7968]: Textual amendment: S. 2(5)(a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/b/i)
 
-[^key-4a3c7b0b97ff69ad2bff37f94cfb06ee]: Textual amendment: S. 2(5)(b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/b/ii)
+[^c-4a3c7b0b97ff69ad2bff37f94cfb06ee]: Textual amendment: S. 2(5)(b) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/b/ii)
 
-[^key-6c49a675473b0b36b3f2575d8c7219bb]: Textual amendment: Words in [s. 2(9)(b)](https://www.legislation.gov.uk/ukpga/2004/19/section/2/9/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-6c49a675473b0b36b3f2575d8c7219bb]: Textual amendment: Words in [s. 2(9)(b)](https://www.legislation.gov.uk/ukpga/2004/19/section/2/9/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^M_F_57356551-ed73-4224-d420-2578f6e39636]: Textual amendment: Word in s. 2(10) substituted (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 63(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/63/a); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m); and (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/uksi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/288/article/1/2), [Sch. 1 para. 39(1)](https://www.legislation.gov.uk/uksi/2007/288/schedule/1/paragraph/39/1)
 
-[^key-d66011d08c8628f65927622982740bca]: Textual amendment: Words in s. 2(12) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/c/i)
+[^c-d66011d08c8628f65927622982740bca]: Textual amendment: Words in s. 2(12) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/c/i)
 
-[^key-6bced664ee62957d0cc903847c40c61e]: Textual amendment: Word in s. 2(12) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/c/ii)
+[^c-6bced664ee62957d0cc903847c40c61e]: Textual amendment: Word in s. 2(12) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/c/ii)
 
-[^key-e008612951c197a4a9bb3ee9d314e70f]: Textual amendment: Words in s. 2(12) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/c/iii)
+[^c-e008612951c197a4a9bb3ee9d314e70f]: Textual amendment: Words in s. 2(12) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [15(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/15/2/c/iii)
 
-[^key-33498cc187b988b6cd475c5fc0daf71f]: Textual amendment: Words in [s. 2(15)](https://www.legislation.gov.uk/ukpga/2004/19/section/2/15) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-33498cc187b988b6cd475c5fc0daf71f]: Textual amendment: Words in [s. 2(15)](https://www.legislation.gov.uk/ukpga/2004/19/section/2/15) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-8a376de542c37b3e62d6c0efefd03609]: Textual amendment: Words in [s. 2(15)](https://www.legislation.gov.uk/ukpga/2004/19/section/2/15) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-8a376de542c37b3e62d6c0efefd03609]: Textual amendment: Words in [s. 2(15)](https://www.legislation.gov.uk/ukpga/2004/19/section/2/15) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

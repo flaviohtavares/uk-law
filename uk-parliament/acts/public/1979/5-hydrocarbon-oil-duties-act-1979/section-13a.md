@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Rebate on unleaded petrol[^key-1b147d45cf1e6a38d8408a84bdaab966]
+## 13A. Rebate on unleaded petrol[^c-1b147d45cf1e6a38d8408a84bdaab966]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b147d45cf1e6a38d8408a84bdaab966]: Textual amendment: S. 13A omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/7)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-1b147d45cf1e6a38d8408a84bdaab966]: Textual amendment: S. 13A omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/7)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)

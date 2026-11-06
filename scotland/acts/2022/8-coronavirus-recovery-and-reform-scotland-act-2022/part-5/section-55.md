@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Criminal procedure time limits: consequential modifications[^key-699b46ef53c45daaa190321876af72af]
+## 55. Criminal procedure time limits: consequential modifications[^c-699b46ef53c45daaa190321876af72af]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-699b46ef53c45daaa190321876af72af]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2022/8/section/55) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-699b46ef53c45daaa190321876af72af]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2022/8/section/55) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

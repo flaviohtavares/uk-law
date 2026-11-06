@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Actionable loss arising from pension mis-selling[^key-87a78fedde8411b096398065f29424a6]
+## 244. Actionable loss arising from pension mis-selling[^c-87a78fedde8411b096398065f29424a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph (1)(c) of regulation B6[^f00169] of the National Health Service Sup
 
 ## Annotations
 
-[^key-87a78fedde8411b096398065f29424a6]: Commencement: Art. 244 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-87a78fedde8411b096398065f29424a6]: Commencement: Art. 244 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00169]: Footnote: Regulation B6 was inserted by the National Health Services Superannuation Scheme (Scotland) Amendment Regulations 1997 ([S.I. 1997/1434 (S.111)](https://www.legislation.gov.uk/uksi/1997/1434), regulation 4.

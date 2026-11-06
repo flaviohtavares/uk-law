@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Falsification of a Level 1 or Level 2 disclosure[^key-aeb4e8619a5f50ac6970fa318d825ee6]
+## 41. Falsification of a Level 1 or Level 2 disclosure[^c-aeb4e8619a5f50ac6970fa318d825ee6]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeb4e8619a5f50ac6970fa318d825ee6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2020/13/section/41) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-aeb4e8619a5f50ac6970fa318d825ee6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2020/13/section/41) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

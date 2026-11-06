@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The local authority may, by notice in writing served on the occupier or owner of a private dwelling which is, or when a smoke control order comes into operation will be, within a smoke control area, require the carrying out of adaptations in or in connection with the dwelling to avoid the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England or Wales)[^key-e018649cc95b9af02b351311668c0dcd].
+(1) The local authority may, by notice in writing served on the occupier or owner of a private dwelling which is, or when a smoke control order comes into operation will be, within a smoke control area, require the carrying out of adaptations in or in connection with the dwelling to avoid the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England or Wales)[^c-e018649cc95b9af02b351311668c0dcd].
 
 (2) The provisions of Part XII of the [^c10490501]Public Health Act 1936 with respect to appeals against, and the enforcement of, notices requiring the execution of works shall apply in relation to any notice under subsection (1).
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e018649cc95b9af02b351311668c0dcd]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/24/1) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/13); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
+[^c-e018649cc95b9af02b351311668c0dcd]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/24/1) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/13); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
 
 [^c10490501]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 

@@ -32,7 +32,7 @@ summary: ''
 
 WEIGHTS AND MEASURES
 
-The Measuring Instruments (Non-Prescribed Instruments) Regulations 2006 (revoked)[^key-82cb515286303d8bc0c1d6318293755d]
+The Measuring Instruments (Non-Prescribed Instruments) Regulations 2006 (revoked)[^c-82cb515286303d8bc0c1d6318293755d]
 
 Made
 
@@ -52,7 +52,7 @@ Remaining regulations
 
 30th October 2006
 
-[^key-82cb515286303d8bc0c1d6318293755d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82cb515286303d8bc0c1d6318293755d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -78,14 +78,14 @@ Remaining regulations
 
 **No longer in force.**
 
-[^key-82cb515286303d8bc0c1d6318293755d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82cb515286303d8bc0c1d6318293755d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-82cb515286303d8bc0c1d6318293755d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82cb515286303d8bc0c1d6318293755d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82cb515286303d8bc0c1d6318293755d]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/2))
+[^c-82cb515286303d8bc0c1d6318293755d]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/2))

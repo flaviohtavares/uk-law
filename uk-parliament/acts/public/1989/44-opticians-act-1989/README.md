@@ -87,7 +87,7 @@ An Act to consolidate certain enactments relating to opticians with amendments t
 - [Section 12 — Education and training](part-ii/section-12.md)
 - [Section 13 — Supervision of training establishments and qualifying assessments .](part-ii/section-13.md)
 
-### PART 2A — FITNESS TO PRACTISE[^key-972a3774dc0bacc972bd8abfe5f33ba4]
+### PART 2A — FITNESS TO PRACTISE[^c-972a3774dc0bacc972bd8abfe5f33ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,7 +106,7 @@ An Act to consolidate certain enactments relating to opticians with amendments t
 - [Section 13L — Interim orders](part-2a/section-13l.md)
 - [Section 13M — Provisions supplementary to section 13L](part-2a/section-13m.md)
 
-### Part III — Disciplinary Proceedings[^key-495305aa53c283345bae615589c9a745]
+### Part III — Disciplinary Proceedings[^c-495305aa53c283345bae615589c9a745]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,7 +123,7 @@ An Act to consolidate certain enactments relating to opticians with amendments t
 - [Section 22 — Assessors to Disciplinary Committee.](part-iii/section-22.md)
 - [Section 23 — Appeals in disciplinary and other cases.](part-iii/section-23.md)
 
-### PART 3A — PROCEEDINGS AND APPEALS[^key-4be6831b60d6149c70886030f19057eb]
+### PART 3A — PROCEEDINGS AND APPEALS[^c-4be6831b60d6149c70886030f19057eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,8 +184,8 @@ SCHEDULES
 
 [^c8063421]: Modification: Act: power to modify conferred (15.3.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 60(1)(2)(a)(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/60/1/2/a/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/8/schedule/3); [S.I. 2000/779](https://www.legislation.gov.uk/uksi/2000/779), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/779/article/2/1)
 
-[^key-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-495305aa53c283345bae615589c9a745]: Textual amendment: Pt. 3 omitted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(1)](https://www.legislation.gov.uk/uksi/2005/848/article/17/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-495305aa53c283345bae615589c9a745]: Textual amendment: Pt. 3 omitted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(1)](https://www.legislation.gov.uk/uksi/2005/848/article/17/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

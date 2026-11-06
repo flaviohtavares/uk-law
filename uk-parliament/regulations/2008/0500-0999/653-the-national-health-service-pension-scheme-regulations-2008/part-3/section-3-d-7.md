@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.D.7. Early retirement on ill-health (active members and non-contributing members)[^key-d8b7394b5516cee263fa1805f85422f4][^key-b6a71f2a43031977f031d74b07fe1ce5]
+## 3.D.7. Early retirement on ill-health (active members and non-contributing members)[^c-d8b7394b5516cee263fa1805f85422f4][^c-b6a71f2a43031977f031d74b07fe1ce5]
 
 *Extent: E+W*
 
 (1) A pension payable under this regulation shall be known as an ill-health pension and may be paid at two different tiers known as a tier 1 ill-health pension and a tier 2 ill-health pension.
 
-(2) An active member or a non-contributing member[^key-46a9d44f8d4a29cb583c20fe95e97a42] who has not reached the age of 65 and who has ceased to be employed in NHS employment is entitled to immediate payment of a tier 1 ill-health pension that is payable for life if—
+(2) An active member or a non-contributing member[^c-46a9d44f8d4a29cb583c20fe95e97a42] who has not reached the age of 65 and who has ceased to be employed in NHS employment is entitled to immediate payment of a tier 1 ill-health pension that is payable for life if—
 
 - (a) in the opinion of the Secretary of State the member suffers from physical or mental infirmity as a result of which the member is permanently incapable of discharging the duties of the member’s employment efficiently,
 - (b) the member’s employment is terminated because of that physical or mental infirmity,
@@ -40,10 +40,10 @@ summary: ''
 
 (5) The annual amount of a tier 2 ill-health pension (disregarding any additional pension) is calculated as specified in regulation 3.D.1(4), but on the assumption that the member’s pensionable service—
 
-- (a)[^key-93a118dea1bd7238c47b23fedae374a3] is increased by the enhancement period where the member—
+- (a)[^c-93a118dea1bd7238c47b23fedae374a3] is increased by the enhancement period where the member—
   - (i) has not had a break in pensionable service of 12 months or more; or
   - (ii) has returned to pensionable employment 12 months or more after having a break in such service and it would be more favourable to the member to treat the member’s pensionable service before and after the break, and all such other breaks (if any) as continuous;
-- (b)[^key-5bc8d90536b3cd679754feab6fa6ba67] is not increased by the enhancement period in the circumstances referred to in (a) (ii)[^key-b1cae792e2a8d5c9b7fa1f25b4818e58] if—
+- (b)[^c-5bc8d90536b3cd679754feab6fa6ba67] is not increased by the enhancement period in the circumstances referred to in (a) (ii)[^c-b1cae792e2a8d5c9b7fa1f25b4818e58] if—
   - (i) the member’s pensionable service before and after the break is treated separately under regulation 3.G.2; or
   - (ii) the member’s pensionable service in respect of an earlier service credit is treated separately under regulation 3.K.7.
 
@@ -51,10 +51,10 @@ summary: ''
 
 This is subject to paragraph (7).
 
-(7) If a member is entitled to have the member’s pensionable service increased by the enhancement period—[^key-362b1a5d8af2b450fb1908c82b9221af]
+(7) If a member is entitled to have the member’s pensionable service increased by the enhancement period—[^c-362b1a5d8af2b450fb1908c82b9221af]
 
 - (a) the member’s pensionable service shall be increased by the enhancement period and the enhancement factor shall be the proportion by which the member’s pensionable service is increased by that period,
-- (b) the length of the member’s officer service (under Part 2 of these Regulations) , if any,[^key-eadee22f9c8cb14b1431543934fe1cc7] and the member’s practitioner service will each be increased by the enhancement factor, and
+- (b) the length of the member’s officer service (under Part 2 of these Regulations) , if any,[^c-eadee22f9c8cb14b1431543934fe1cc7] and the member’s practitioner service will each be increased by the enhancement factor, and
 - (c) the annual amount of a tier 2 ill-health pension (disregarding any additional pension) is calculated as specified in regulation 3.D.1(4), but on the assumption that the member’s uprated earnings are increased by the enhancement factor.
 
 (8) In this regulation “the member’s assumed service” means the further pensionable service that the member could have counted if the member had continued in service until reaching the age of 65.
@@ -122,37 +122,37 @@ This is subject to paragraph (9).
 
     before the member reaches age 65, or
   - (c) that, through no fault on the part of the member, it is not possible for the member to receive before the member reaches age 65;
-- “permanently” means—[^key-a47b39c8f5d52c2e2aff40ff3ac1f041]
+- “permanently” means—[^c-a47b39c8f5d52c2e2aff40ff3ac1f041]
   - (a) the period until age 65, and
   - (b) in the case of a 2008 Section Optant who, before joining this Section of the Scheme, was assessed by a medical adviser as being—
   - (i) permanently incapable of efficiently discharging their duties for the purposes of regulation E2A(2)(b)(i) of the 1995 Regulations (ill-health pension on early retirement), that Optant shall be deemed to be permanently incapable of discharging the duties of the Optant’s employment efficiently for the purposes of paragraph (2)(a) of this regulation;
   - (ii) permanently incapable of regular employment of like duration for the purposes of regulation E2A(2)(b)(ii) of the 1995 Regulations, that Optant shall be deemed to be permanently incapable of engaging in regular employment of like duration for the purposes of paragraph (3)(a) of this regulation;
 - “regular employment of like duration” means such employment as the Secretary of State considers would involve a similar level of engagement to the member’s current pensionable service as a practitioner.
 
-(18)[^key-8c400771984ade6ef994b96760babd1b] In the case of a 2008 Section Optant, this regulation is subject to regulations 3.K.11, 3.K.13 to 3.K.16 and 3.K.18.
+(18)[^c-8c400771984ade6ef994b96760babd1b] In the case of a 2008 Section Optant, this regulation is subject to regulations 3.K.11, 3.K.13 to 3.K.16 and 3.K.18.
 
-(19)[^key-0cd027775ce4e04740e9121a7dd91272] In the case of a Waiting Period Joiner, this regulation is subject to regulation 3.L.3.
+(19)[^c-0cd027775ce4e04740e9121a7dd91272] In the case of a Waiting Period Joiner, this regulation is subject to regulation 3.L.3.
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-b6a71f2a43031977f031d74b07fe1ce5]: Textual amendment: Words in [reg. 3.D.7 heading](https://www.legislation.gov.uk/uksi/2008/653/part/3/chapter/3.D/crossheading/entitlement-to-pensions) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/60/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-b6a71f2a43031977f031d74b07fe1ce5]: Textual amendment: Words in [reg. 3.D.7 heading](https://www.legislation.gov.uk/uksi/2008/653/part/3/chapter/3.D/crossheading/entitlement-to-pensions) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/60/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-46a9d44f8d4a29cb583c20fe95e97a42]: Textual amendment: Words in [reg. 3.D.7(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/2) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/60/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-46a9d44f8d4a29cb583c20fe95e97a42]: Textual amendment: Words in [reg. 3.D.7(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/2) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/60/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-93a118dea1bd7238c47b23fedae374a3]: Textual amendment: [Reg. 3.D.7(5)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/5/a) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(2)(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-93a118dea1bd7238c47b23fedae374a3]: Textual amendment: [Reg. 3.D.7(5)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/5/a) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(2)(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-5bc8d90536b3cd679754feab6fa6ba67]: Textual amendment: [Reg. 3.D.7(5)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/5/b) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [71(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/71/2)
+[^c-5bc8d90536b3cd679754feab6fa6ba67]: Textual amendment: [Reg. 3.D.7(5)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/5/b) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [71(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/71/2)
 
-[^key-b1cae792e2a8d5c9b7fa1f25b4818e58]: Textual amendment: Word in [reg. 3.D.7(5)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/5/b) inserted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(2)(b)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/2/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-b1cae792e2a8d5c9b7fa1f25b4818e58]: Textual amendment: Word in [reg. 3.D.7(5)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/5/b) inserted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(2)(b)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/2/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-362b1a5d8af2b450fb1908c82b9221af]: Textual amendment: Words in [reg. 3.D.7(7)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/7) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(3)(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/3/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-362b1a5d8af2b450fb1908c82b9221af]: Textual amendment: Words in [reg. 3.D.7(7)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/7) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(3)(a)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/3/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-eadee22f9c8cb14b1431543934fe1cc7]: Textual amendment: Words in [reg. 3.D.7(7)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/7/b) inserted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(3)(b)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/3/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
+[^c-eadee22f9c8cb14b1431543934fe1cc7]: Textual amendment: Words in [reg. 3.D.7(7)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/7/b) inserted (with effect from 1.4.2008) by [The National Health Service Pension Schemes and Injury Benefits (Amendment) Regulations 2021 (S.I. 2021/631)](https://www.legislation.gov.uk/uksi/2021/631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2021/631/regulation/1/7), [21(3)(b)](https://www.legislation.gov.uk/uksi/2021/631/regulation/21/3/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2021/631/regulation/34))
 
-[^key-a47b39c8f5d52c2e2aff40ff3ac1f041]: Textual amendment: Words in [reg. 3.D.7(17)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/17) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [71(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/71/3)
+[^c-a47b39c8f5d52c2e2aff40ff3ac1f041]: Textual amendment: Words in [reg. 3.D.7(17)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/17) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [71(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/71/3)
 
-[^key-8c400771984ade6ef994b96760babd1b]: Textual amendment: [Reg. 3.D.7(18)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/18) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [71(4)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/71/4)
+[^c-8c400771984ade6ef994b96760babd1b]: Textual amendment: [Reg. 3.D.7(18)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/18) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [71(4)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/71/4)
 
-[^key-0cd027775ce4e04740e9121a7dd91272]: Textual amendment: [Reg. 3.D.7(19)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/19) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2010/492/regulation/42)
+[^c-0cd027775ce4e04740e9121a7dd91272]: Textual amendment: [Reg. 3.D.7(19)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.7/19) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2010/492/regulation/42)

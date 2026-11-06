@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Requirement for banks to provide information[^key-30a9613a436b087ed3f9808729f7d170][^key-de33b562d30ecb31b89a3ba429c6c09b]
+## 19. Requirement for banks to provide information[^c-30a9613a436b087ed3f9808729f7d170][^c-de33b562d30ecb31b89a3ba429c6c09b]
 
 *Extent: E+W*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30a9613a436b087ed3f9808729f7d170]: Commencement: S. 19 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-30a9613a436b087ed3f9808729f7d170]: Commencement: S. 19 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-de33b562d30ecb31b89a3ba429c6c09b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/28/section/19) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-de33b562d30ecb31b89a3ba429c6c09b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/28/section/19) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

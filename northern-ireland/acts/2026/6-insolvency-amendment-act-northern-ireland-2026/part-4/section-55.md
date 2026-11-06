@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Dissolution in other cases[^key-a5b7f39daf7da0716e3d8996737fdb8a]
+## 55. Dissolution in other cases[^c-a5b7f39daf7da0716e3d8996737fdb8a]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5b7f39daf7da0716e3d8996737fdb8a]: Commencement: S. 55 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a5b7f39daf7da0716e3d8996737fdb8a]: Commencement: S. 55 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

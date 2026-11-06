@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Special notices of births and deaths[^key-c8595ec7a64676c95fad0ee3d4156f5c]
+## 284. Special notices of births and deaths[^c-c8595ec7a64676c95fad0ee3d4156f5c]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8595ec7a64676c95fad0ee3d4156f5c]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2012/7/section/284) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c8595ec7a64676c95fad0ee3d4156f5c]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2012/7/section/284) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

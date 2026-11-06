@@ -33,13 +33,13 @@ An Act to make new provision in respect of pilotage.
 
 \[15th May 1987\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ece3575072fa431c6528177aad7e9dd4]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ece3575072fa431c6528177aad7e9dd4]
 
 ## Part I — Pilotage Functions of Competent Harbour Authorities
 
 ### Preliminary
 
-#### 1. Meaning of “competent harbour authority” and “harbour”.[^key-77ec21568ee68ea01f179675394ebd16]
+#### 1. Meaning of “competent harbour authority” and “harbour”.[^c-77ec21568ee68ea01f179675394ebd16]
 
 (1) Subject to the following provisions of this section, in this Act “**competent harbour authority**” means any harbour authority—
 
@@ -60,22 +60,22 @@ and references to a harbour authority’s harbour are to the area or areas insid
 
 (4) A harbour authority which is not a competent harbour authority may apply to the Secretary of State to be treated for the purposes of this Act as such an authority and on such an application the Secretary of State may by order provide that the applicant shall be a competent harbour authority for the purposes of this Act.
 
-(4A)[^key-5b1af4a03e27b454ef4c77f50f843437] A harbour authority in England or Wales is not a competent harbour authority for the purposes of this Act while it is specified in an order of the Secretary of State under this subsection.
+(4A)[^c-5b1af4a03e27b454ef4c77f50f843437] A harbour authority in England or Wales is not a competent harbour authority for the purposes of this Act while it is specified in an order of the Secretary of State under this subsection.
 
 (4B) A harbour authority in Scotland is not a competent harbour authority for the purposes of this Act while it is specified in an order of the Scottish Ministers under this subsection.
 
-(5)[^key-34d6418e01e4f740564654bc6a02bfed] An order under this section may be amended or revoked by further order.
+(5)[^c-34d6418e01e4f740564654bc6a02bfed] An order under this section may be amended or revoked by further order.
 
 (6) The Secretary of State shall maintain a list of the authorities which are for the time being competent harbour authorities for the purposes of this Act.
 
-(7) Before making an order under *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8] subsection (3) or (4)[^key-eabb16887a770931377700e915d3c1f9] *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8] the Secretary of State shall inform the persons he considers may be affected by the order of the terms of the proposed order and that they may within such reasonable period as he may specify object to the making of the order by giving him notice in writing. *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+(7) Before making an order under *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8] subsection (3) or (4)[^c-eabb16887a770931377700e915d3c1f9] *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8] the Secretary of State shall inform the persons he considers may be affected by the order of the terms of the proposed order and that they may within such reasonable period as he may specify object to the making of the order by giving him notice in writing. *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8]
 
-(8) Where any person has duly objected under subsection (7) above to the making of a proposed order and has not withdrawn his objection, then if the Secretary of State makes an order in that form (or a substantially similar form) it shall be subject to special parliamentary procedure, and the *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8] [^c789072] Statutory Orders (Special Procedure) Act 1945 shall have effect accordingly, but as if— *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+(8) Where any person has duly objected under subsection (7) above to the making of a proposed order and has not withdrawn his objection, then if the Secretary of State makes an order in that form (or a substantially similar form) it shall be subject to special parliamentary procedure, and the *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8] [^c789072] Statutory Orders (Special Procedure) Act 1945 shall have effect accordingly, but as if— *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-5d5cecc12d6edcb2e0221916af868ed8] sections 2 and 10(2) of that Act (which relate to preliminary proceedings) were omitted; and *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
-- (b (Extent: S) (affected by repeal, see note))[^key-5d5cecc12d6edcb2e0221916af868ed8] that Act extended to Northern Ireland and, in the application of section 7(3) of that Act to Northern Ireland, for any reference to a local authority and the Secretary of State there were substituted respectively a reference to a district council and the Department of the Environment for Northern Ireland. *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+- (a (Extent: S) (affected by repeal, see note))[^c-5d5cecc12d6edcb2e0221916af868ed8] sections 2 and 10(2) of that Act (which relate to preliminary proceedings) were omitted; and *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8]
+- (b (Extent: S) (affected by repeal, see note))[^c-5d5cecc12d6edcb2e0221916af868ed8] that Act extended to Northern Ireland and, in the application of section 7(3) of that Act to Northern Ireland, for any reference to a local authority and the Secretary of State there were substituted respectively a reference to a district council and the Department of the Environment for Northern Ireland. *(Extent: S)* *(affected by repeal, see note)*[^c-5d5cecc12d6edcb2e0221916af868ed8]
 
-(8AA)[^key-0f4f8c21b817ed59756027bb65fff23f] Before making an order under subsection (4A) or (4B) the person making the order must consult—
+(8AA)[^c-0f4f8c21b817ed59756027bb65fff23f] Before making an order under subsection (4A) or (4B) the person making the order must consult—
 
 - (a) any harbour authority to which the order would apply, and
 - (b) anyone else who the person making the order thinks appropriate.
@@ -97,9 +97,9 @@ and references to a harbour authority’s harbour are to the area or areas insid
 
 and for the purposes of this subsection a person is connected with a statutory harbour undertaker or, as the case may be, harbour authority, if he is a holding company or subsidiary of the undertaker, or authority, or a member of a consortium the members of which between them own, directly or indirectly, more than half the issued share capital of the undertaker or authority.
 
-#### 1A (Extent: S). Procedure on orders under section 1 (Extent: S)[^key-fffa50fa72a69ebe5510eb0211f0f2f2]
+#### 1A (Extent: S). Procedure on orders under section 1 (Extent: S)[^c-fffa50fa72a69ebe5510eb0211f0f2f2]
 
-(1 (Extent: S)) Where the Scottish Ministers propose to make an order under section 1 above (other than under subsection (4) *(Extent: S)*or (4B)[^key-600bf090e3c8586c767b1ff0f4341f14] *(Extent: S)* of that section), they must before doing so— *(Extent: S)*
+(1 (Extent: S)) Where the Scottish Ministers propose to make an order under section 1 above (other than under subsection (4) *(Extent: S)*or (4B)[^c-600bf090e3c8586c767b1ff0f4341f14] *(Extent: S)* of that section), they must before doing so— *(Extent: S)*
 
 - (a (Extent: S)) publish a notice— *(Extent: S)*
   - (i (Extent: S)) in a newspaper circulating in the area in which the provisions of the order will have most effect; *(Extent: S)*
@@ -176,20 +176,20 @@ before deciding whether or not to make the proposed order (with or without modif
 
 #### 3. Authorisation of pilots.
 
-(1) Subject to subsections (1A) and[^key-c6e4f71edf292bc08da22651aba47560] (3) and section 4 below, a competent harbour authority may authorise such persons to act as pilots in or in any part of the area in relation to which its duty under section 2(1) above is exercisable as it considers are suitably qualified to do so; and such an authorisation shall specify the area within which it has effect and may specify that it only has effect in relation to ships of a particular description.
+(1) Subject to subsections (1A) and[^c-c6e4f71edf292bc08da22651aba47560] (3) and section 4 below, a competent harbour authority may authorise such persons to act as pilots in or in any part of the area in relation to which its duty under section 2(1) above is exercisable as it considers are suitably qualified to do so; and such an authorisation shall specify the area within which it has effect and may specify that it only has effect in relation to ships of a particular description.
 
-(1A)[^key-8d5cc9bc39c0f5ecd9ae05b83ff4e896] In considering whether a person is suitably qualified—
+(1A)[^c-8d5cc9bc39c0f5ecd9ae05b83ff4e896] In considering whether a person is suitably qualified—
 
 - (a) to be authorised under subsection (1) above to act as a pilot—
   - (i) in inland waters only; or
   - (ii) in inland waters and other waters; or
 - (b) to continue to be so authorised,
 
-a competent harbour authority shall act in accordance with Schedule A1 to this Act (which makes provision about persons with qualifications obtained in EEA States [^key-d38265854a7e11bbadd04d9bbfa911d5]...).
+a competent harbour authority shall act in accordance with Schedule A1 to this Act (which makes provision about persons with qualifications obtained in EEA States [^c-d38265854a7e11bbadd04d9bbfa911d5]...).
 
-(2) The authority may determine the qualifications in respect of [^key-105431893c331c9b465cb4aeace0f930]... physical fitness, time of service, local knowledge, skill, character and otherwise to be required from persons applying for authorisation and provide for the examination of such persons; and different qualifications may be required from persons who immediately before the appointed day were the holders of licences under section 12 of the [^c789085]Pilotage Act 1983, time-expired apprentice pilots or recognised assistant pilots.
+(2) The authority may determine the qualifications in respect of [^c-105431893c331c9b465cb4aeace0f930]... physical fitness, time of service, local knowledge, skill, character and otherwise to be required from persons applying for authorisation and provide for the examination of such persons; and different qualifications may be required from persons who immediately before the appointed day were the holders of licences under section 12 of the [^c789085]Pilotage Act 1983, time-expired apprentice pilots or recognised assistant pilots.
 
-(2A)[^key-9cf34513aa8c1a0d06b26bef2a2e7fdf] Nothing in any determination made by a competent harbour authority under subsection (2) above shall permit the authority to act in such a way as to contravene Schedule A1 to this Act (which makes provision about persons with qualifications obtained in EEA States [^key-b17cb31369eb455cbab630ff94dd80e9]...).
+(2A)[^c-9cf34513aa8c1a0d06b26bef2a2e7fdf] Nothing in any determination made by a competent harbour authority under subsection (2) above shall permit the authority to act in such a way as to contravene Schedule A1 to this Act (which makes provision about persons with qualifications obtained in EEA States [^c-b17cb31369eb455cbab630ff94dd80e9]...).
 
 (3) During the period of four years beginning with the appointed day a competent harbour authority shall not authorise any persons who were not immediately before the appointed day holders of full licences (that is to say, licences under that section other than licences for a limited period which are not renewable) unless the number of such persons applying to be authorised under this section who have the required qualifications falls short of the number the authority considers are required to be authorised.
 
@@ -217,12 +217,12 @@ but the authorisation of a person who provides his services as a pilot under a c
 
 (9A)[^c789086][^c1595215] A person who is an authorised pilot for a harbour for which the competent harbour authority is a local authority which are operating executive arrangements shall not by reason of his holding of any office or employment as a pilot be disqualified—
 
-- (a) for being a member of the executive of the local authority , or an assistant to the executive, *(Extent: W)*[^key-ed81c454554f8c185ffe411087fbf3b6] where that executive is to any extent responsible for any function in respect of which knowledge or experience relevant to pilotage is material; or
+- (a) for being a member of the executive of the local authority , or an assistant to the executive, *(Extent: W)*[^c-ed81c454554f8c185ffe411087fbf3b6] where that executive is to any extent responsible for any function in respect of which knowledge or experience relevant to pilotage is material; or
 - (b) for being a member of a committee of the executive of the local authority with any functions in respect of which knowledge or experience relevant to pilotage is material.
 
 (10) In this section—
 
-- “ *(Extent: W)*[^key-b1df3c3e3c36563723d4b0dc8a2943e5]**assistant to the executive *(Extent: W)***” has the same meaning as in Schedule 1 to the Local Government Act 2000 (see paragraph 3A of that Schedule); *(Extent: W)*
+- “ *(Extent: W)*[^c-b1df3c3e3c36563723d4b0dc8a2943e5]**assistant to the executive *(Extent: W)***” has the same meaning as in Schedule 1 to the Local Government Act 2000 (see paragraph 3A of that Schedule); *(Extent: W)*
 - “executive” and “executive arrangements” have the same meaning as in Part II of the Local Government Act 2000;[^c1595220]
 - [^c1595220]“**local authority**” means—
   - (a) in England and Wales, a local authority within the meaning of the [^c789088]Local Government Act 1972;
@@ -311,9 +311,9 @@ or, in either case, such persons as it considers to be representative of them.
 
 #### 8. Pilotage exemption certificates.
 
-(1) Subject to subsection (3) below, a competent harbour authority which has given a pilotage direction shall, on application by any person who is bona fide a deck officer[^key-f2ea0d072361cf8f37fd7595ab754fd5] of any ship, grant a certificate (in this Act referred to as a “pilotage exemption certificate”) to him if it is satisfied (by examination or by reference to such other requirements as it may reasonably impose)—
+(1) Subject to subsection (3) below, a competent harbour authority which has given a pilotage direction shall, on application by any person who is bona fide a deck officer[^c-f2ea0d072361cf8f37fd7595ab754fd5] of any ship, grant a certificate (in this Act referred to as a “pilotage exemption certificate”) to him if it is satisfied (by examination or by reference to such other requirements as it may reasonably impose)—
 
-- (a) that his skill, experience and local knowledge are sufficient for him to be capable of piloting the ship of which he is a deck officer[^key-307cc63710a2ab8cb0f02677d0460c7b] (or that and any other ships specified in the certificate) within its harbour or such part of its harbour as may be so specified; and
+- (a) that his skill, experience and local knowledge are sufficient for him to be capable of piloting the ship of which he is a deck officer[^c-307cc63710a2ab8cb0f02677d0460c7b] (or that and any other ships specified in the certificate) within its harbour or such part of its harbour as may be so specified; and
 - (b) in any case where it appears to the authority to be necessary in the interests of safety, that his knowledge of English is sufficient for that purpose.
 
 (2) The requirements imposed under subsection (1) above—
@@ -321,22 +321,22 @@ or, in either case, such persons as it considers to be representative of them.
 - (a) must not be unduly onerous having regard to the difficulties and danger of navigation in the harbour in question; and
 - (b) must not be more onerous than those required to be met by a person (other than a person who immediately before the appointed day was the holder of a licence under section 12 of the Pilotage Act 1983 or a time-expired apprentice pilot or recognised assistant pilot within the meaning of section 3 above) applying to the authority for authorisation under section 3 above.
 
-(3)[^key-5f35537672ab637ce8d077627fe847c2] If the Secretary of State is satisfied, on application by a competent harbour authority, that it is appropriate to do so by reason of the unusual hazards involved in shipping movements within its harbour, he may direct that during such period (not exceeding three years) as he may specify, notwithstanding that the authority is satisfied as mentioned in subsection (1) above, it may refuse to grant pilotage exemption certificates under that subsection.
+(3)[^c-5f35537672ab637ce8d077627fe847c2] If the Secretary of State is satisfied, on application by a competent harbour authority, that it is appropriate to do so by reason of the unusual hazards involved in shipping movements within its harbour, he may direct that during such period (not exceeding three years) as he may specify, notwithstanding that the authority is satisfied as mentioned in subsection (1) above, it may refuse to grant pilotage exemption certificates under that subsection.
 
 (4) Where a direction is given in respect of a competent harbour authority under subsection (3) above any pilotage exemption certificate granted by the authority shall cease to have effect and the authority shall notify the holders of such certificates of that fact.
 
 (5) A pilotage exemption certificate shall not remain in force for more than one year from the date on which it is granted, but—
 
-- (a) if the holder continues to be a deck officer of a ship[^key-d0f9811c65a7d1093b097f244ffdcade], may be renewed annually by the competent harbour authority on application by the holder if the authority continues to besatisfied as mentioned in subsection (1) above; and
+- (a) if the holder continues to be a deck officer of a ship[^c-d0f9811c65a7d1093b097f244ffdcade], may be renewed annually by the competent harbour authority on application by the holder if the authority continues to besatisfied as mentioned in subsection (1) above; and
 - (b) on the application of the holder may be altered so as to refer to different ships from those to which it previously referred if the authority is so satisfied as respects those ships.
 
-(6)[^key-ee9dd6ae84e95ca0ac74a5a09cbeb852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ee9dd6ae84e95ca0ac74a5a09cbeb852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) Before refusing an application by any person under this section for the grant, renewal or alteration of a certificate [^key-5fb1c821b88d30aef5407bc7d67b9c05]... a competent harbour authority shall give him written notice of its intention to do so, stating the reasons for which it proposes to act, and shall give him a reasonable opportunity of making representations.
+(7) Before refusing an application by any person under this section for the grant, renewal or alteration of a certificate [^c-5fb1c821b88d30aef5407bc7d67b9c05]... a competent harbour authority shall give him written notice of its intention to do so, stating the reasons for which it proposes to act, and shall give him a reasonable opportunity of making representations.
 
 (8) A competent harbour authority may charge such fees in respect of any examination required to be taken for the purposes of this section or the grant, renewal or alteration of any pilotage exemption certificate as the authority considers reasonable for the purposes of meeting its administrative costs in connection therewith.
 
-#### 8A. Pilotage exemption certificates: suspension and revocation[^key-c451a6426244d642ab29597b279b1e61]
+#### 8A. Pilotage exemption certificates: suspension and revocation[^c-c451a6426244d642ab29597b279b1e61]
 
 (1) A competent harbour authority may by written notice suspend or revoke a person's pilotage exemption certificate in the following cases.
 
@@ -384,13 +384,13 @@ A competent harbour authority shall secure that any ship owned or operated by it
 - (d) charges in respect of the cost of providing, maintaining and operating pilot boats for the area; and
 - (e) charges in respect of any other costs involved in providing and maintaining the pilotage organisation provided by the authority.
 
-(3) A competent harbour authority which has given a pilotage direction may also make reasonable charges in respect of any ship navigating within the area to which the direction applies under the pilotage of a deck officer[^key-cd61458791e2b7d1feb9067c94bd16c6] who is the holder of a pilotage exemption certificate in respect of the area and ship in question.
+(3) A competent harbour authority which has given a pilotage direction may also make reasonable charges in respect of any ship navigating within the area to which the direction applies under the pilotage of a deck officer[^c-cd61458791e2b7d1feb9067c94bd16c6] who is the holder of a pilotage exemption certificate in respect of the area and ship in question.
 
 (4) Different charges may be made under this section in different circumstances.
 
 (5) A competent harbour authority shall arrange for the charges to be made by it under this section to be published in such manner as to bring them to the notice of those persons likely to be interested.
 
-(6)[^key-110b14a839af874f791e1d9cdde8bc5c] Subsections (2) to (12) of section 31 of the [^c789104]Harbours Act 1964, or in Northern Ireland subsections (1) and (3) to (11) of section 7 of the [^c789105]Harbours Act (Northern Ireland) 1970, (right of objection to ship, passenger and goods dues) shall apply as respects charges imposed by an authority by virtue of this section as they apply as respects charges to which section 31 or, as the case may be, section 7 applies but—
+(6)[^c-110b14a839af874f791e1d9cdde8bc5c] Subsections (2) to (12) of section 31 of the [^c789104]Harbours Act 1964, or in Northern Ireland subsections (1) and (3) to (11) of section 7 of the [^c789105]Harbours Act (Northern Ireland) 1970, (right of objection to ship, passenger and goods dues) shall apply as respects charges imposed by an authority by virtue of this section as they apply as respects charges to which section 31 or, as the case may be, section 7 applies but—
 
 - (a) with the substitution for the references to the persons mentioned in section 31(2)(a) and (b) and (3)(b) or, as the case may be, section 7(1)(a) and (b) and (3)(b) of references to—
   - (i) the owners of ships which customarily navigate in the harbour in question;
@@ -416,7 +416,7 @@ A competent harbour authority shall secure that any ship owned or operated by it
 
 (4) An authority which has entered into arrangements with another authority under subsection (2) or (3) above may withdraw from the arrangements on giving reasonable notice to the other authority.
 
-#### 12. Information and directions as to joint arrangements.[^key-a94ec69876b72c5d9b564bcdfa9ca59c]
+#### 12. Information and directions as to joint arrangements.[^c-a94ec69876b72c5d9b564bcdfa9ca59c]
 
 (1) Where—
 
@@ -437,7 +437,7 @@ the Secretary of State may require any of the authorities or, in the case of par
 
 (4) Section 11(4) above shall not apply to any arrangements made or modified by virtue of a direction under this section.
 
-#### 13. Resolution of disputes between authorities.[^key-7af55d960b163b96942abbeb19b16fd0]
+#### 13. Resolution of disputes between authorities.[^c-7af55d960b163b96942abbeb19b16fd0]
 
 (1) Where any dispute arises between two or more competent harbour authorities concerning—
 
@@ -473,11 +473,11 @@ or between a competent harbour authority and such a person as mentioned in secti
 (1) A ship which is being navigated in an area and in circumstances in which pilotage is compulsory for it by virtue of a pilotage direction shall be—
 
 - (a) under the pilotage of an authorised pilot accompanied by such an assistant, if any, as is required by virtue of the direction; or
-- (b) under the pilotage of a deck officer[^key-954839648006ab78e1a5312d57bc747c] possessing a pilotage exemption certificate in respect of that area and ship.
+- (b) under the pilotage of a deck officer[^c-954839648006ab78e1a5312d57bc747c] possessing a pilotage exemption certificate in respect of that area and ship.
 
 (2) If any ship is not under pilotage as required by subsection (1) above after an authorised pilot has offered to take charge of the ship, the master of the ship shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(3)[^key-7d724c12d4af9b99834d2aebe0899b91] The master of a ship commits an offence if—
+(3)[^c-7d724c12d4af9b99834d2aebe0899b91] The master of a ship commits an offence if—
 
 - (a) the ship is navigated in an area in which a pilotage direction applies to it, and
 - (b) the competent harbour authority which gave the direction has not been given pilotage notification.
@@ -552,7 +552,7 @@ The fact that a ship is being navigated in an area and in circumstances in which
 
 (1) Where—
 
-- (a) the master of a ship, which is navigating in an area in circumstances in which pilotage is compulsory for it but is not under the pilotage of an authorised pilot or a deck officer[^key-82172a9cc14d274383720e7fee8347a4] possessing a pilotage exemption certificate in respect of the ship and the area, is offered the services of an authorised pilot; or
+- (a) the master of a ship, which is navigating in an area in circumstances in which pilotage is compulsory for it but is not under the pilotage of an authorised pilot or a deck officer[^c-82172a9cc14d274383720e7fee8347a4] possessing a pilotage exemption certificate in respect of the ship and the area, is offered the services of an authorised pilot; or
 - (b) the master of a ship accepts the services of an authorised pilot in any other circumstances,
 
 he shall facilitate the pilot boarding and subsequently leaving the ship.
@@ -626,29 +626,29 @@ and the act or omission is deliberate or amounts to a breach or neglect of duty 
 
 ### 24. Abolition of pilotage authorities.
 
-(1)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Where an order is made under section 1(3)(b) above in respect of an authority to which any property, rights or liabilities have been transferred under this section, the order shall, if the Secretary of State considers that it is appropriate for it to do so, make provision for the transfer of them to the authority which he considers should exercise pilotage functions within its harbour.
 
-(12)[^key-36ecaaf3dec24a86ab8d18ba789d5b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-36ecaaf3dec24a86ab8d18ba789d5b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 25. Transfer of staff of pilotage authorities etc.
 
@@ -686,27 +686,27 @@ and the act or omission is deliberate or amounts to a breach or neglect of duty 
 - (b) the contract of employment between the employee and the licensed pilot shall have effect from the appointed day as if originally made between the employee and the person by whom the scheme provides that he shall be employed on and after that day; and
 - (c) without prejudice to paragraph (b) above, subsections (4)(b), (5) and (6) above shall apply as they apply to the transfer of an employee of a pilotage authority but with the substitution for the references in subsections (4)(b) and (6) to the pilotage authority of references to the licensed pilot.
 
-(8)[^key-4bce6a0592479b96496969953860d5f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4bce6a0592479b96496969953860d5f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Abolition of Pilotage Commission.[^key-ca3f88ace9326e118b050cb56c6ef654]
+### 26. Abolition of Pilotage Commission.[^c-ca3f88ace9326e118b050cb56c6ef654]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c789128]
 
-### 28. Pilots’ compensation schemes.[^key-5716687c38e84d90a54d7628ff7576ab]
+### 28. Pilots’ compensation schemes.[^c-5716687c38e84d90a54d7628ff7576ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 29. Funding of reorganisation.
 
-(1)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A competent harbour authority may recover any sums required by it by virtue of this Part of this Act by increasing any charges, dues or fees payable to it.
 
@@ -716,7 +716,7 @@ and the act or omission is deliberate or amounts to a breach or neglect of duty 
 
 (1) Any power to make an order or regulations under this Act shall be exercisable by statutory instrument.
 
-(2) Any statutory instrument containing such an order or regulations (except an order made under section 1 to which subsection (8) of that section applies *(Extent: S)* *(affected by repeal, see note)*[^key-45234cfe2f2cd7e9b9b50d7c90b8577c] or an order made under section 33 below) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2) Any statutory instrument containing such an order or regulations (except an order made under section 1 to which subsection (8) of that section applies *(Extent: S)* *(affected by repeal, see note)*[^c-45234cfe2f2cd7e9b9b50d7c90b8577c] or an order made under section 33 below) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ### 31. Interpretation.
 
@@ -726,7 +726,7 @@ and the act or omission is deliberate or amounts to a breach or neglect of duty 
 - “**authorised pilot**”, in relation to any area, means a person authorised under section 3 above for that area and, in relation to any ship, a person so authorised in respect of ships of that description;
 - “**competent harbour authority**” has the meaning given in section 1 above;
 
-  “[^key-452ba5beaa73194a242f839958b45d2b] **deck officer** ”, in relation to a ship, includes the master and first mate;
+  “[^c-452ba5beaa73194a242f839958b45d2b] **deck officer** ”, in relation to a ship, includes the master and first mate;
 - “**former pilotage district**” has the meaning given in section 1(2) above;
 - “**harbour**”, in relation to a competent harbour authority, has the meaning given in section 1 above;
 - “**harbour authority**” has the same meaning as in the [^c789132]Harbours Act 1964 (“the 1964 Act”) or, in Northern Ireland, the Harbours Act (Northern Ireland) 1970 (“the 1970 Act”);
@@ -765,7 +765,7 @@ and the act or omission is deliberate or amounts to a breach or neglect of duty 
 
 SCHEDULES
 
-## SCHEDULE A1 — RECOGNITION OF EEA QUALIFICATIONS AND EXPERIENCE IN RELATION TO PILOTAGE IN INLAND WATERS[^key-846ed46647b493ee6c2800037c55996b]
+## SCHEDULE A1 — RECOGNITION OF EEA QUALIFICATIONS AND EXPERIENCE IN RELATION TO PILOTAGE IN INLAND WATERS[^c-846ed46647b493ee6c2800037c55996b]
 
 Section 3(1A) and (2A)
 
@@ -780,7 +780,7 @@ Section 3(1A) and (2A)
 
 - “adaptation period” means a period during which the applicant acts as a pilot under the supervision of a pilot authorised by the competent harbour authority, with or without undertaking further education and training, with the aim of assessing his ability to act as a pilot in the United Kingdom;
 - “aptitude test” means a test of the applicant’s professional knowledge conducted by the competent harbour authority with the aim of assessing his ability to act as a pilot in the United Kingdom; and
-- “EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978[^key-af71422411607fa28951d82f76f387ba]
+- “EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978[^c-af71422411607fa28951d82f76f387ba]
 
 ### 2. Formal qualifications
 
@@ -788,8 +788,8 @@ Section 3(1A) and (2A)
 
 - (a) a competent harbour authority requires particular formal qualifications from persons applying for authorisation; and
 - (b) a person applying for authorisation (“the applicant”)—
-  - (i) is a national of an EEA State [^key-e645fc5b777da9041ebd2f13ffa20b3d]...; and
-  - (ii) does not hold the required qualifications, but holds formal qualifications obtained in an EEA State [^key-e645fc5b777da9041ebd2f13ffa20b3d]....
+  - (i) is a national of an EEA State [^c-e645fc5b777da9041ebd2f13ffa20b3d]...; and
+  - (ii) does not hold the required qualifications, but holds formal qualifications obtained in an EEA State [^c-e645fc5b777da9041ebd2f13ffa20b3d]....
 
 (2) If the applicant’s formal qualifications show a level of knowledge and skill corresponding to or exceeding the level shown by the formal qualifications required by the authority, the authority shall not refuse the applicant authorisation, or refuse to consider the application, on the basis that he does not hold the required formal qualifications.
 
@@ -807,7 +807,7 @@ Section 3(1A) and (2A)
 
 - (a) a competent harbour authority requires persons applying for authorisation to have knowledge of, and to demonstrate that they apply, specific national rules in force; and
 - (b) a person applying for authorisation (“the applicant”)—
-  - (i) is a national of an EEA State [^key-5b9927ccc6b57b98449e4554b7944b01]...; and
+  - (i) is a national of an EEA State [^c-5b9927ccc6b57b98449e4554b7944b01]...; and
   - (ii) envisages acting as a pilot in a self-employed capacity or as a manager of an undertaking.
 
 (2) The competent harbour authority shall not refuse the applicant authorisation on the basis that he does not have knowledge of, or has not demonstrated that he applies, the specific national rules in force unless—
@@ -817,7 +817,7 @@ Section 3(1A) and (2A)
 
 (3) The authority shall make provision for an adaptation period and an aptitude test for this purpose and shall endeavour to take into consideration the applicant’s preference as to which one of those alternatives he undergoes.
 
-### 4. Consideration of application to which paragraph 2 or 3 applies, and appeals[^key-273d346b066cd5115b9de0cf19b53fef]
+### 4. Consideration of application to which paragraph 2 or 3 applies, and appeals[^c-273d346b066cd5115b9de0cf19b53fef]
 
 (1) This paragraph applies where a person (“the applicant”) makes an application to a competent harbour authority for authorisation and paragraph 2 or paragraph 3 applies.
 
@@ -838,7 +838,7 @@ Section 3(1A) and (2A)
 
 (1) This paragraph applies where a competent harbour authority requires general commercial or professional knowledge and ability from persons applying for authorisation.
 
-(2) The authority shall accept, as sufficient evidence of such knowledge and ability, appropriate experience gained in an EEA State [^key-1b0f4a011882b7a5d2ac20fbc1ce29a2]... by a person applying for authorisation (“the applicant”).
+(2) The authority shall accept, as sufficient evidence of such knowledge and ability, appropriate experience gained in an EEA State [^c-1b0f4a011882b7a5d2ac20fbc1ce29a2]... by a person applying for authorisation (“the applicant”).
 
 (3) For the purposes of this paragraph, “appropriate experience” means any of the following—
 
@@ -862,7 +862,7 @@ Section 3(1A) and (2A)
 (2) For the purpose of proof of the prior training mentioned in paragraph 5(3)(b) and (d), that training must be either—
 
 - (a) attested to by a certificate which is nationally recognised in the EEA State in which it was obtained (“a training certificate”); or
-- (b) regarded by a competent professional or trade body of an EEA State [^key-32353dc12dc3f08a6fecb891987c201a]... as fully satisfying that body’s requirements.
+- (b) regarded by a competent professional or trade body of an EEA State [^c-32353dc12dc3f08a6fecb891987c201a]... as fully satisfying that body’s requirements.
 
 (3) Where the applicant holds a certificate which—
 
@@ -882,7 +882,7 @@ that certificate may be treated by the competent harbour authority in the same w
 (1) This paragraph applies where—
 
 - (a) a competent harbour authority requires persons who apply for authorisation to furnish proof of their good character or proof that they are not and have not previously been declared bankrupt; and
-- (b) a person applying for authorisation (“the applicant”) is a national of an EEA State [^key-602301858c331313e854bc7be9cf1f27]....
+- (b) a person applying for authorisation (“the applicant”) is a national of an EEA State [^c-602301858c331313e854bc7be9cf1f27]....
 
 (2) The competent harbour authority shall accept, as sufficient evidence that such a requirement is satisfied by the applicant—
 
@@ -1012,53 +1012,53 @@ Section 32(5).
 
 ## Annotations
 
-[^key-ece3575072fa431c6528177aad7e9dd4]: Modification: Act applied (30.11.2020) by [The Harwich Haven and Walton Backwaters (Application of the Pilotage Act 1987) Order 2020 (S.I. 2020/1187)](https://www.legislation.gov.uk/uksi/2020/1187), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1187/article/1), [2](https://www.legislation.gov.uk/uksi/2020/1187/article/2)
+[^c-ece3575072fa431c6528177aad7e9dd4]: Modification: Act applied (30.11.2020) by [The Harwich Haven and Walton Backwaters (Application of the Pilotage Act 1987) Order 2020 (S.I. 2020/1187)](https://www.legislation.gov.uk/uksi/2020/1187), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1187/article/1), [2](https://www.legislation.gov.uk/uksi/2020/1187/article/2)
 
-[^key-77ec21568ee68ea01f179675394ebd16]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/21/section/1): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/i), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-77ec21568ee68ea01f179675394ebd16]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/21/section/1): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/i), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
 [^c789071]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
 
-[^key-5b1af4a03e27b454ef4c77f50f843437]: Textual amendment: S. 1(4A)(4B) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(1),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/1) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-5b1af4a03e27b454ef4c77f50f843437]: Textual amendment: S. 1(4A)(4B) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(1),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/1) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-34d6418e01e4f740564654bc6a02bfed]: Textual amendment: S. 1(5) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(2),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/2) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-34d6418e01e4f740564654bc6a02bfed]: Textual amendment: S. 1(5) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(2),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/2) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-5d5cecc12d6edcb2e0221916af868ed8]: Textual amendment: S. 1(7)(8) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8),](https://www.legislation.gov.uk/asp/2007/8) [s. 30(4),](https://www.legislation.gov.uk/asp/2007/8/section/30/4) [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-5d5cecc12d6edcb2e0221916af868ed8]: Textual amendment: S. 1(7)(8) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8),](https://www.legislation.gov.uk/asp/2007/8) [s. 30(4),](https://www.legislation.gov.uk/asp/2007/8/section/30/4) [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-eabb16887a770931377700e915d3c1f9]: Textual amendment: Words in s. 1(7) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(3),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/3) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-eabb16887a770931377700e915d3c1f9]: Textual amendment: Words in s. 1(7) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(3),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/3) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
 [^c789072]: Marginal citation: [1945 c. 18](https://www.legislation.gov.uk/ukpga/1945/18).
 
-[^key-0f4f8c21b817ed59756027bb65fff23f]: Textual amendment: S. 1(8AA)(8B) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(4),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/4) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-0f4f8c21b817ed59756027bb65fff23f]: Textual amendment: S. 1(8AA)(8B) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(4),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/4) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
 [^c789073]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^c789074]: Marginal citation: [1970 c.1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1).
 
-[^key-fffa50fa72a69ebe5510eb0211f0f2f2]: Textual amendment: S. 1A inserted (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 26](https://www.legislation.gov.uk/asp/2007/8/section/26), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-fffa50fa72a69ebe5510eb0211f0f2f2]: Textual amendment: S. 1A inserted (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 26](https://www.legislation.gov.uk/asp/2007/8/section/26), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-600bf090e3c8586c767b1ff0f4341f14]: Textual amendment: Words in s. 1A(1) inserted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2013/23/section/1/5), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-600bf090e3c8586c767b1ff0f4341f14]: Textual amendment: Words in s. 1A(1) inserted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2013/23/section/1/5), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-c6e4f71edf292bc08da22651aba47560]: Textual amendment: Word in s. 3(1) substituted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/2)
+[^c-c6e4f71edf292bc08da22651aba47560]: Textual amendment: Word in s. 3(1) substituted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/2)
 
-[^key-8d5cc9bc39c0f5ecd9ae05b83ff4e896]: Textual amendment: S. 3(1A) inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/3)
+[^c-8d5cc9bc39c0f5ecd9ae05b83ff4e896]: Textual amendment: S. 3(1A) inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/3)
 
-[^key-d38265854a7e11bbadd04d9bbfa911d5]: Textual amendment: Words in s. 3(1A) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/a)
+[^c-d38265854a7e11bbadd04d9bbfa911d5]: Textual amendment: Words in s. 3(1A) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/a)
 
-[^key-105431893c331c9b465cb4aeace0f930]: Textual amendment: Word in s. 3(2) omitted (1.10.2006) by virtue of [Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1)[Sch. 8 para. 7(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/7/2) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+[^c-105431893c331c9b465cb4aeace0f930]: Textual amendment: Word in s. 3(2) omitted (1.10.2006) by virtue of [Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1)[Sch. 8 para. 7(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/7/2) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
 
 [^c789085]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
 
-[^key-9cf34513aa8c1a0d06b26bef2a2e7fdf]: Textual amendment: S. 3(2A) inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/4)
+[^c-9cf34513aa8c1a0d06b26bef2a2e7fdf]: Textual amendment: S. 3(2A) inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/4)
 
-[^key-b17cb31369eb455cbab630ff94dd80e9]: Textual amendment: Words in s. 3(2A) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/a)
+[^c-b17cb31369eb455cbab630ff94dd80e9]: Textual amendment: Words in s. 3(2A) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/a)
 
 [^c789086]: Textual amendment: S. 3(9A) inserted (E.) (11.7.2001) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 (S.I. 2001/2237)](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(i)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/i), [17(a)](https://www.legislation.gov.uk/uksi/2001/2237/article/17/a)
 
 [^c1595215]: Textual amendment: S. 3(9A) inserted (W.) (1.4.2002) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (Wales) Order 2002 (S.I. 2002/808)](https://www.legislation.gov.uk/uksi/2002/808), [arts. 2(h)](https://www.legislation.gov.uk/uksi/2002/808/article/2/h), [16(a)](https://www.legislation.gov.uk/uksi/2002/808/article/16/a)
 
-[^key-ed81c454554f8c185ffe411087fbf3b6]: Textual amendment: Words in [s. 3(9A)(a)](https://www.legislation.gov.uk/ukpga/1987/21/section/3/9A/a) inserted (W.) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/3/a); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
+[^c-ed81c454554f8c185ffe411087fbf3b6]: Textual amendment: Words in [s. 3(9A)(a)](https://www.legislation.gov.uk/ukpga/1987/21/section/3/9A/a) inserted (W.) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/3/a); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
 
-[^key-b1df3c3e3c36563723d4b0dc8a2943e5]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/1987/21/section/3/10) inserted (W.) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/3/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
+[^c-b1df3c3e3c36563723d4b0dc8a2943e5]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/1987/21/section/3/10) inserted (W.) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/3/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
 
 [^c1595220]: Textual amendment: Definitions of "executive" and "executive arrangements" in s. 3(10) inserted (E.) (11.7.2001) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 (S.I. 2001/2237)](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(i)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/i), [17(b)](https://www.legislation.gov.uk/uksi/2001/2237/article/17/b) and (W.) (1.4.2002) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (Wales) Order 2002 (S.I. 2002/808)](https://www.legislation.gov.uk/uksi/2002/808), [arts. 2(h)](https://www.legislation.gov.uk/uksi/2002/808/article/2/h), [16(b)](https://www.legislation.gov.uk/uksi/2002/808/article/16/b)
 
@@ -1078,55 +1078,55 @@ Section 32(5).
 
 [^c789103]: Marginal citation: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1).
 
-[^key-f2ea0d072361cf8f37fd7595ab754fd5]: Textual amendment: Words in s. 8(1) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/1/a), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), art. 3
+[^c-f2ea0d072361cf8f37fd7595ab754fd5]: Textual amendment: Words in s. 8(1) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/1/a), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), art. 3
 
-[^key-307cc63710a2ab8cb0f02677d0460c7b]: Textual amendment: Words in s. 8(1)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/1/b), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-307cc63710a2ab8cb0f02677d0460c7b]: Textual amendment: Words in s. 8(1)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/1/b), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-5f35537672ab637ce8d077627fe847c2]: Modification: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1987/21/section/8/3): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/ii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-5f35537672ab637ce8d077627fe847c2]: Modification: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1987/21/section/8/3): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/ii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
-[^key-d0f9811c65a7d1093b097f244ffdcade]: Textual amendment: Words in s. 8(5)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-d0f9811c65a7d1093b097f244ffdcade]: Textual amendment: Words in s. 8(5)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-ee9dd6ae84e95ca0ac74a5a09cbeb852]: Textual amendment: S. 8(6) omitted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/2/a), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-ee9dd6ae84e95ca0ac74a5a09cbeb852]: Textual amendment: S. 8(6) omitted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/2/a), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-5fb1c821b88d30aef5407bc7d67b9c05]: Textual amendment: Words in s. 8(7) omitted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/2/b), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-5fb1c821b88d30aef5407bc7d67b9c05]: Textual amendment: Words in s. 8(7) omitted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/2/b), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-c451a6426244d642ab29597b279b1e61]: Textual amendment: Ss. 8A, 8B inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [Ss. 3(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-c451a6426244d642ab29597b279b1e61]: Textual amendment: Ss. 8A, 8B inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [Ss. 3(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-cd61458791e2b7d1feb9067c94bd16c6]: Textual amendment: Words in s. 10(3) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-cd61458791e2b7d1feb9067c94bd16c6]: Textual amendment: Words in s. 10(3) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-110b14a839af874f791e1d9cdde8bc5c]: Modification: [S. 10(6)](https://www.legislation.gov.uk/ukpga/1987/21/section/10/6): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-110b14a839af874f791e1d9cdde8bc5c]: Modification: [S. 10(6)](https://www.legislation.gov.uk/ukpga/1987/21/section/10/6): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
 [^c789104]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^c789105]: Marginal citation: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1)
 
-[^key-a94ec69876b72c5d9b564bcdfa9ca59c]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/1987/21/section/12): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(iv)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/iv), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-a94ec69876b72c5d9b564bcdfa9ca59c]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/1987/21/section/12): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(iv)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/iv), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
 [^c789106]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^c789107]: Marginal citation: [1865 c.125](https://www.legislation.gov.uk/ukpga/1865/125).
 
-[^key-7af55d960b163b96942abbeb19b16fd0]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1987/21/section/13): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(v)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/v), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-7af55d960b163b96942abbeb19b16fd0]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1987/21/section/13): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(v)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/v), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
 [^c789108]: Marginal citation: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^c789109]: Marginal citation: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1).
 
-[^key-954839648006ab78e1a5312d57bc747c]: Textual amendment: Words in s. 15(1)(b) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-954839648006ab78e1a5312d57bc747c]: Textual amendment: Words in s. 15(1)(b) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-7d724c12d4af9b99834d2aebe0899b91]: Textual amendment: S. 15(3)-(5) substituted for s. 15(3) (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-7d724c12d4af9b99834d2aebe0899b91]: Textual amendment: S. 15(3)-(5) substituted for s. 15(3) (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
 [^c789110]: Marginal citation: [1865 c. 125](https://www.legislation.gov.uk/ukpga/1865/125).
 
 [^c789111]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
 
-[^key-82172a9cc14d274383720e7fee8347a4]: Textual amendment: Words in s. 20(1)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-82172a9cc14d274383720e7fee8347a4]: Textual amendment: Words in s. 20(1)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
 [^c789114]: Textual amendment: Words in s. 22(3)(7) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 80(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/80/a) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
 
-[^key-3e03882e31fa323802aa68790e298c2a]: Textual amendment: S. 24(1)-(10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+[^c-3e03882e31fa323802aa68790e298c2a]: Textual amendment: S. 24(1)-(10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
 
-[^key-36ecaaf3dec24a86ab8d18ba789d5b0c]: Textual amendment: S. 24(12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+[^c-36ecaaf3dec24a86ab8d18ba789d5b0c]: Textual amendment: S. 24(12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
 
 [^c789122]: Textual amendment: Words in s. 25(6)(a) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/32) (with [s. 199](https://www.legislation.gov.uk/ukpga/1996/18/section/199))
 
@@ -1134,19 +1134,19 @@ Section 32(5).
 
 [^c789124]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
 
-[^key-4bce6a0592479b96496969953860d5f0]: Textual amendment: S. 25(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+[^c-4bce6a0592479b96496969953860d5f0]: Textual amendment: S. 25(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
 
-[^key-ca3f88ace9326e118b050cb56c6ef654]: Textual amendment: S. 26 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+[^c-ca3f88ace9326e118b050cb56c6ef654]: Textual amendment: S. 26 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
 
 [^c789128]: Textual amendment: S. 27 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XV) Group1.
 
-[^key-5716687c38e84d90a54d7628ff7576ab]: Textual amendment: S. 28 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+[^c-5716687c38e84d90a54d7628ff7576ab]: Textual amendment: S. 28 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
 
-[^key-6f245947d1e50a8a67e221a004f351d3]: Textual amendment: S. 29(1)-(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+[^c-6f245947d1e50a8a67e221a004f351d3]: Textual amendment: S. 29(1)-(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
 
-[^key-45234cfe2f2cd7e9b9b50d7c90b8577c]: Textual amendment: Words in s. 30(2) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-45234cfe2f2cd7e9b9b50d7c90b8577c]: Textual amendment: Words in s. 30(2) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-452ba5beaa73194a242f839958b45d2b]: Textual amendment: Words in s. 31(1) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/4), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-452ba5beaa73194a242f839958b45d2b]: Textual amendment: Words in s. 31(1) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/4), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
 [^c789132]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
@@ -1160,21 +1160,21 @@ Section 32(5).
 
 [^c789141]: Textual amendment: Words in s. 33(2) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XV) Group1.
 
-[^key-846ed46647b493ee6c2800037c55996b]: Textual amendment: Sch. A1 inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/5)
+[^c-846ed46647b493ee6c2800037c55996b]: Textual amendment: Sch. A1 inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/5)
 
-[^key-af71422411607fa28951d82f76f387ba]: Textual amendment: Words in Sch. A1 para. 1(2) substituted (29.11.2019) by [The Pilotage Act 1987 (Amendment) Regulations 2019 (S.I. 2019/1305)](https://www.legislation.gov.uk/uksi/2019/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1305/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1305/regulation/2)
+[^c-af71422411607fa28951d82f76f387ba]: Textual amendment: Words in Sch. A1 para. 1(2) substituted (29.11.2019) by [The Pilotage Act 1987 (Amendment) Regulations 2019 (S.I. 2019/1305)](https://www.legislation.gov.uk/uksi/2019/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1305/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1305/regulation/2)
 
-[^key-e645fc5b777da9041ebd2f13ffa20b3d]: Textual amendment: Words in Sch. A1 para. 2(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+[^c-e645fc5b777da9041ebd2f13ffa20b3d]: Textual amendment: Words in Sch. A1 para. 2(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
 
-[^key-5b9927ccc6b57b98449e4554b7944b01]: Textual amendment: Words in Sch. A1 para. 3(1)(b)(i) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+[^c-5b9927ccc6b57b98449e4554b7944b01]: Textual amendment: Words in Sch. A1 para. 3(1)(b)(i) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
 
-[^key-273d346b066cd5115b9de0cf19b53fef]: Modification: Sch. A1 para. 4: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(vi)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/vi), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
+[^c-273d346b066cd5115b9de0cf19b53fef]: Modification: Sch. A1 para. 4: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(vi)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/vi), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
 
-[^key-1b0f4a011882b7a5d2ac20fbc1ce29a2]: Textual amendment: Words in Sch. A1 para. 5(2) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+[^c-1b0f4a011882b7a5d2ac20fbc1ce29a2]: Textual amendment: Words in Sch. A1 para. 5(2) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
 
-[^key-32353dc12dc3f08a6fecb891987c201a]: Textual amendment: Words in Sch. A1 para. 6(2)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+[^c-32353dc12dc3f08a6fecb891987c201a]: Textual amendment: Words in Sch. A1 para. 6(2)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
 
-[^key-602301858c331313e854bc7be9cf1f27]: Textual amendment: Words in Sch. A1 para. 7(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/ii)
+[^c-602301858c331313e854bc7be9cf1f27]: Textual amendment: Words in Sch. A1 para. 7(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/ii)
 
 [^M_F_357bd78f-0027-440d-fd09-da8785f4fc39]: Textual amendment: Words in Sch. A1 para. 8(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/ii)
 

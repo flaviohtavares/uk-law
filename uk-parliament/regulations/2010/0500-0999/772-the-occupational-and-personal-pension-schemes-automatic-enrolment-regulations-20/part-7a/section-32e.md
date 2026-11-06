@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32E. Alternative requirements for a money purchase scheme[^key-021bf0aea326ae513867e96a32ed0baf]
+## 32E. Alternative requirements for a money purchase scheme[^c-021bf0aea326ae513867e96a32ed0baf]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (1A),[^key-b3996ef4fdc1f8018b9036eeb002da0d] in relation to a money purchase scheme to which section 20 of the Act applies [^key-6aff1f05f0a7914fb17837f9ceffb2ca]... the prescribed alternative requirement is the first, second or third set of requirements below.
+(1) Subject to paragraph (1A),[^c-b3996ef4fdc1f8018b9036eeb002da0d] in relation to a money purchase scheme to which section 20 of the Act applies [^c-6aff1f05f0a7914fb17837f9ceffb2ca]... the prescribed alternative requirement is the first, second or third set of requirements below.
 
-(1A)[^key-e6aed45c2a3752d8f8804d95dd986362] In relation to a money purchase scheme—
+(1A)[^c-e6aed45c2a3752d8f8804d95dd986362] In relation to a money purchase scheme—
 
 - (a) to which section 20 of the Act applies; and
 - (b) which provides collective money purchase benefits,
@@ -59,10 +59,10 @@ the prescribed alternative requirement is the first, second or third set of requ
 
 ## Annotations
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
 
-[^key-b3996ef4fdc1f8018b9036eeb002da0d]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32E/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/2/a)
+[^c-b3996ef4fdc1f8018b9036eeb002da0d]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32E/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/2/a)
 
-[^key-6aff1f05f0a7914fb17837f9ceffb2ca]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32E/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [33(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/33/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6aff1f05f0a7914fb17837f9ceffb2ca]: Textual amendment: Words in [reg. 32E(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32E/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [33(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/33/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6aed45c2a3752d8f8804d95dd986362]: Textual amendment: [Reg. 32E(1A)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32E/1A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/2/b)
+[^c-e6aed45c2a3752d8f8804d95dd986362]: Textual amendment: [Reg. 32E(1A)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32E/1A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/2/b)

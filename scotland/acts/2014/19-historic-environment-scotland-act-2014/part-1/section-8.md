@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Delegation of functions in relation to collections[^key-b52e5bb1f97bf7218ba89f9aa4eb65d8]
+## 8. Delegation of functions in relation to collections[^c-b52e5bb1f97bf7218ba89f9aa4eb65d8]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b52e5bb1f97bf7218ba89f9aa4eb65d8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/19/section/8) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-b52e5bb1f97bf7218ba89f9aa4eb65d8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/19/section/8) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

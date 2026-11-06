@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252B. Knowledge-intensive company reaching turnover of £200,000[^key-6a2016f45d93f9500f66c9bb81e680ba]
+## 252B. Knowledge-intensive company reaching turnover of £200,000[^c-6a2016f45d93f9500f66c9bb81e680ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ the company is treated as reaching an annual turnover of £200,000 or more by re
 
 ## Annotations
 
-[^key-6a2016f45d93f9500f66c9bb81e680ba]: Textual amendment: [S. 252B](https://www.legislation.gov.uk/ukpga/2007/3/section/252B) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-6a2016f45d93f9500f66c9bb81e680ba]: Textual amendment: [S. 252B](https://www.legislation.gov.uk/ukpga/2007/3/section/252B) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)

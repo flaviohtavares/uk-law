@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.52. Order of appointment[^key-84705747fbde7534c446be0f05d8d69d]
+## 6.52. Order of appointment[^c-84705747fbde7534c446be0f05d8d69d]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84705747fbde7534c446be0f05d8d69d]: Commencement: [Rule 6.52](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.52) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-84705747fbde7534c446be0f05d8d69d]: Commencement: [Rule 6.52](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.52) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00150]: Marginal citation: \[FORM 6.32\]

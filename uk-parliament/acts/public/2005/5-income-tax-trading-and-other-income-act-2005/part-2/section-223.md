@@ -22,16 +22,16 @@ summary: ''
 
 (1) If a taxpayer makes an averaging claim, the amount taken to be the taxpayer's profits of each of the tax years for which the claim is made is adjusted in accordance with this section.
 
-(2) But this is subject to paragraph 3 of Schedule 1B to TMA 1970 (claim given effect in the last of the two or five tax years[^key-7ec29ea24eabeec628cd561c757788df]).
+(2) But this is subject to paragraph 3 of Schedule 1B to TMA 1970 (claim given effect in the last of the two or five tax years[^c-7ec29ea24eabeec628cd561c757788df]).
 
-(3)[^key-f0ff5cc873f519dd9d77685ee2b42a71] The amount of the adjusted profits of each of the tax years to which the claim relates is the average of the relevant profits of those tax years.
+(3)[^c-f0ff5cc873f519dd9d77685ee2b42a71] The amount of the adjusted profits of each of the tax years to which the claim relates is the average of the relevant profits of those tax years.
 
-(4)[^key-0c949d8437d286f85d3e9cd099389165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0c949d8437d286f85d3e9cd099389165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ec29ea24eabeec628cd561c757788df]: Textual amendment: Words in s. 223(2) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/5/a)
+[^c-7ec29ea24eabeec628cd561c757788df]: Textual amendment: Words in s. 223(2) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/5/a)
 
-[^key-f0ff5cc873f519dd9d77685ee2b42a71]: Textual amendment: S. 223(3) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/5/b)
+[^c-f0ff5cc873f519dd9d77685ee2b42a71]: Textual amendment: S. 223(3) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/5/b)
 
-[^key-0c949d8437d286f85d3e9cd099389165]: Textual amendment: S. 223(4) omitted (with effect in accordance with s. 25(12) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(5)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/5/c)
+[^c-0c949d8437d286f85d3e9cd099389165]: Textual amendment: S. 223(4) omitted (with effect in accordance with s. 25(12) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(5)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/5/c)

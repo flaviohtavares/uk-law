@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Decision 2015/2119/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the production of wood-based panels[^key-655010380b63d2ae6dfba84b2ba967d9]
+## 16. Decision 2015/2119/EU establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the production of wood-based panels[^c-655010380b63d2ae6dfba84b2ba967d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-655010380b63d2ae6dfba84b2ba967d9]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-655010380b63d2ae6dfba84b2ba967d9]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

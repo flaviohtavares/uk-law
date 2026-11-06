@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34A. Personal hygiene - coronavirus[^key-63feb364946c46c7463cb5a4fc3b7f05]
+## 34A. Personal hygiene - coronavirus[^c-63feb364946c46c7463cb5a4fc3b7f05]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63feb364946c46c7463cb5a4fc3b7f05]: Textual amendment: [Rule 34A](https://www.legislation.gov.uk/ssi/2011/331/rule/34A) omitted (29.9.2020) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2020 (S.S.I. 2020/264)](https://www.legislation.gov.uk/ssi/2020/264), [rules 1](https://www.legislation.gov.uk/ssi/2020/264/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/264/rule/2/4)
+[^c-63feb364946c46c7463cb5a4fc3b7f05]: Textual amendment: [Rule 34A](https://www.legislation.gov.uk/ssi/2011/331/rule/34A) omitted (29.9.2020) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2020 (S.S.I. 2020/264)](https://www.legislation.gov.uk/ssi/2020/264), [rules 1](https://www.legislation.gov.uk/ssi/2020/264/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/264/rule/2/4)

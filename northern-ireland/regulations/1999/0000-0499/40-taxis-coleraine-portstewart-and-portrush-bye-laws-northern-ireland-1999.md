@@ -40,18 +40,18 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 65(1) and (2) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Bye-Laws:
 
-## 1. Citation, commencement and interpretation[^key-028d9e888a6dc1fa90bc6f2bd890d585]
+## 1. Citation, commencement and interpretation[^c-028d9e888a6dc1fa90bc6f2bd890d585]
 
 (1) These Bye-Laws may be cited as the Taxis (Coleraine, Portstewart and Portrush) Bye-Laws (Northern Ireland) 1999 and shall come into operation on 15th March 1999.
 
 (2) In these Bye-Laws “taxi” means a public service vehicle used in standing or plying for hire on a road and used to carry passengers for hire and being a vehicle seating not more than eight passengers in addition to the driver.
 
-## 2. Location and number of taxis[^key-ebc10f699451362a010c71af4117ac0b]
+## 2. Location and number of taxis[^c-ebc10f699451362a010c71af4117ac0b]
 
 In the local government district of Coleraine—
 
 - (a) in the town of Coleraine no stand or starting place for taxis shall be used except that specified in column 2 of Part I of the Schedule in relation to the location specified opposite thereto in column 1, their number shall not exceed that specified in column 3 and the hours available for use shall be as stated in column 4;
-- (b)[^key-4eb4760392b54c7a299b5c825aee86cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4eb4760392b54c7a299b5c825aee86cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the town of Portrush no stand or starting place for taxis shall be used except that specified in column 2 of Part III of the Schedule in relation to the location specified opposite thereto in column 1, their number shall not exceed that specified in column 3 and the hours available for use shall be as stated in column 4.
 
 Sealed with the Official Seal of the Department of the Environment on
@@ -62,7 +62,7 @@ Assistant Secretary
 
 1st February 1999.
 
-## SCHEDULE[^key-95307ed25cd3024ab7096c207c312577]
+## SCHEDULE[^c-95307ed25cd3024ab7096c207c312577]
 
 ### PART I — COLERAINE
 
@@ -109,7 +109,7 @@ Assistant Secretary
 </tbody>
 </table>
 
-[^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9][^key-49e4cc15632f5501b9636d1516f527a9]
+[^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9][^c-49e4cc15632f5501b9636d1516f527a9]
 
 ### PART III — PORTRUSH
 
@@ -135,12 +135,12 @@ These Bye-Laws prescribe the precise location which may be used as stands or sta
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-028d9e888a6dc1fa90bc6f2bd890d585]: Commencement: [byelaw 1](https://www.legislation.gov.uk/nisr/1999/40/section/1) in operation at 15.3.1999, see [byelaw 1(1)](https://www.legislation.gov.uk/nisr/1999/40/section/1)
+[^c-028d9e888a6dc1fa90bc6f2bd890d585]: Commencement: [byelaw 1](https://www.legislation.gov.uk/nisr/1999/40/section/1) in operation at 15.3.1999, see [byelaw 1(1)](https://www.legislation.gov.uk/nisr/1999/40/section/1)
 
-[^key-ebc10f699451362a010c71af4117ac0b]: Commencement: [byelaw 2](https://www.legislation.gov.uk/nisr/1999/40/section/2) in operation at 15.3.1999, see [byelaw 1(1)](https://www.legislation.gov.uk/nisr/1999/40/section/1)
+[^c-ebc10f699451362a010c71af4117ac0b]: Commencement: [byelaw 2](https://www.legislation.gov.uk/nisr/1999/40/section/2) in operation at 15.3.1999, see [byelaw 1(1)](https://www.legislation.gov.uk/nisr/1999/40/section/1)
 
-[^key-4eb4760392b54c7a299b5c825aee86cb]: Textual amendment: Byelaw 2(b) revoked (15.7.2020) by [The Taxis (Portstewart) Order (Northern Ireland) 2020 (S.R. 2020/114)](https://www.legislation.gov.uk/nisr/2020/114), [art. 1(1)](https://www.legislation.gov.uk/nisr/2020/114/schedule), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/114/schedule/2)
+[^c-4eb4760392b54c7a299b5c825aee86cb]: Textual amendment: Byelaw 2(b) revoked (15.7.2020) by [The Taxis (Portstewart) Order (Northern Ireland) 2020 (S.R. 2020/114)](https://www.legislation.gov.uk/nisr/2020/114), [art. 1(1)](https://www.legislation.gov.uk/nisr/2020/114/schedule), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/114/schedule/2)
 
-[^key-95307ed25cd3024ab7096c207c312577]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1999/40/schedule) substituted (12.10.2009) by [The Taxis (Coleraine, Portstewart and Portrush) (Amendment) Bye-Laws (Northern Ireland) 2009 (S.R. 2009/322)](https://www.legislation.gov.uk/nisr/2009/322), [byelaw 2](https://editorial.legislation.gov.uk/nisr/2009/322/section/2)
+[^c-95307ed25cd3024ab7096c207c312577]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1999/40/schedule) substituted (12.10.2009) by [The Taxis (Coleraine, Portstewart and Portrush) (Amendment) Bye-Laws (Northern Ireland) 2009 (S.R. 2009/322)](https://www.legislation.gov.uk/nisr/2009/322), [byelaw 2](https://editorial.legislation.gov.uk/nisr/2009/322/section/2)
 
-[^key-49e4cc15632f5501b9636d1516f527a9]: Textual amendment: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1999/40/schedule/part/II) revoked (15.7.2020) by [The Taxis (Portstewart) Order (Northern Ireland) 2020 (S.R. 2020/114)](https://www.legislation.gov.uk/nisr/2020/114), [art. 1(1)](https://www.legislation.gov.uk/nisr/2020/114/schedule), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/114/schedule/2)
+[^c-49e4cc15632f5501b9636d1516f527a9]: Textual amendment: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1999/40/schedule/part/II) revoked (15.7.2020) by [The Taxis (Portstewart) Order (Northern Ireland) 2020 (S.R. 2020/114)](https://www.legislation.gov.uk/nisr/2020/114), [art. 1(1)](https://www.legislation.gov.uk/nisr/2020/114/schedule), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/114/schedule/2)

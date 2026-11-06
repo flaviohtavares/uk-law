@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 95. Authentication and authorisation of authorised representatives in the Union Registry[^key-77a2d59ea87f6386ee8603eb7dd2002c]
+## Article 95. Authentication and authorisation of authorised representatives in the Union Registry[^c-77a2d59ea87f6386ee8603eb7dd2002c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77a2d59ea87f6386ee8603eb7dd2002c]: Textual amendment: [Art. 95](https://www.legislation.gov.uk/eur/2013/389/article/95) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/6)
+[^c-77a2d59ea87f6386ee8603eb7dd2002c]: Textual amendment: [Art. 95](https://www.legislation.gov.uk/eur/2013/389/article/95) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/6)

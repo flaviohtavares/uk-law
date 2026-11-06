@@ -44,11 +44,11 @@ The Department of Finance [^f00001], in exercise of the powers conferred by sect
 
 In accordance with section 8A(5) of the Act the Department of Finance have consulted, where they think it appropriate, with the Treasury.
 
-## 1. Title and commencement[^key-81bc355c3ad85a1a1b8992cc43b95c09]
+## 1. Title and commencement[^c-81bc355c3ad85a1a1b8992cc43b95c09]
 
 This Order may be cited as the Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2025 and shall come into operation on 1st April 2025.
 
-## 2. Designation of Bodies[^key-3e81d49144b39d0d7001171103f28a02]
+## 2. Designation of Bodies[^c-3e81d49144b39d0d7001171103f28a02]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of sections 8A and 8B of the Government Resources and Accounts Act (Northern Ireland) 2001—
 
@@ -67,7 +67,7 @@ Department of Finance
 
 Article 2
 
-### PART 1 — Department of Agriculture, Environment and Rural Affairs[^key-ccbf33dafac5ab47a2acdc572de220d8]
+### PART 1 — Department of Agriculture, Environment and Rural Affairs[^c-ccbf33dafac5ab47a2acdc572de220d8]
 
 Agri-Food and Biosciences Institute
 
@@ -77,7 +77,7 @@ Loughs Agency of the Foyle, Carlingford and Irish Lights Commission
 
 Northern Ireland Fishery Harbour Authority
 
-### PART 2 — Department for Communities[^key-e8de2a17e7be016b6518ec1697f1d94d]
+### PART 2 — Department for Communities[^c-e8de2a17e7be016b6518ec1697f1d94d]
 
 Armagh Observatory and Planetarium
 
@@ -121,7 +121,7 @@ Sports Council for Northern Ireland (Sport NI)
 
 Ulster Supported Employment Limited
 
-### PART 3 — Department for the Economy[^key-9e47c5a3bf2c1d0578085b9b4986a836]
+### PART 3 — Department for the Economy[^c-9e47c5a3bf2c1d0578085b9b4986a836]
 
 Belfast Metropolitan College (BMC)
 
@@ -155,7 +155,7 @@ Stranmillis University College
 
 Tourism Ireland Company Limited by Guarantee (trading as Tourism Ireland)
 
-### PART 4 — Department of Education[^key-fc65189e5da93ebf178946d5b2b966d0]
+### PART 4 — Department of Education[^c-fc65189e5da93ebf178946d5b2b966d0]
 
 Comhairle na Gaelscolaíochta
 
@@ -181,7 +181,7 @@ Voluntary Grammar Schools
 
 Youth Council for Northern Ireland
 
-### PART 5 — Department of Finance[^key-5a02bd100a411a6986151af348932656]
+### PART 5 — Department of Finance[^c-5a02bd100a411a6986151af348932656]
 
 Civil Service Appeals Board (CSAB)
 
@@ -197,7 +197,7 @@ Special EU Programmes Body (SEUPB)
 
 Statistics Advisory Committee (SAC)
 
-### PART 6 — Department of Health[^key-ba195140e81783abddac8cce5faeef7f]
+### PART 6 — Department of Health[^c-ba195140e81783abddac8cce5faeef7f]
 
 Belfast Health and Social Care Trust
 
@@ -237,11 +237,11 @@ The Institute of Public Health in Ireland CLG
 
 Western Health and Social Care Trust
 
-### PART 7 — Department for Infrastructure[^key-b828435367525f51d01f3cc73810e02e]
+### PART 7 — Department for Infrastructure[^c-b828435367525f51d01f3cc73810e02e]
 
 Waterways Ireland
 
-### PART 8 — Department of Justice[^key-8f20821ecb2bdfc3b4c31a8a434aea9c]
+### PART 8 — Department of Justice[^c-8f20821ecb2bdfc3b4c31a8a434aea9c]
 
 Care Tribunal
 
@@ -319,7 +319,7 @@ State Pathologist’s Department
 
 Youth Justice Agency (YJA)
 
-### PART 9 — The Executive Office[^key-be88d256cfccd8e8204f9f17b46ece09]
+### PART 9 — The Executive Office[^c-be88d256cfccd8e8204f9f17b46ece09]
 
 Attorney General for Northern Ireland (AGNI)
 
@@ -363,24 +363,24 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: [2001 (c.6) (NI)](https://www.legislation.gov.uk/nia/2001/6), sections 8A and 8B were inserted by the Financial Reporting (Department and Public Bodies) Act (Northern Ireland) [2022 (c.8)](https://www.legislation.gov.uk/ukpga/2022/8)
 
-[^key-81bc355c3ad85a1a1b8992cc43b95c09]: Commencement: Art. 1 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-81bc355c3ad85a1a1b8992cc43b95c09]: Commencement: Art. 1 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-3e81d49144b39d0d7001171103f28a02]: Commencement: Art. 2 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-3e81d49144b39d0d7001171103f28a02]: Commencement: Art. 2 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-ccbf33dafac5ab47a2acdc572de220d8]: Commencement: Sch. Pt. 1 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-ccbf33dafac5ab47a2acdc572de220d8]: Commencement: Sch. Pt. 1 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-e8de2a17e7be016b6518ec1697f1d94d]: Commencement: Sch. Pt. 2 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-e8de2a17e7be016b6518ec1697f1d94d]: Commencement: Sch. Pt. 2 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-9e47c5a3bf2c1d0578085b9b4986a836]: Commencement: Sch. Pt. 3 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-9e47c5a3bf2c1d0578085b9b4986a836]: Commencement: Sch. Pt. 3 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-fc65189e5da93ebf178946d5b2b966d0]: Commencement: Sch. Pt. 4 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-fc65189e5da93ebf178946d5b2b966d0]: Commencement: Sch. Pt. 4 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-5a02bd100a411a6986151af348932656]: Commencement: Sch. Pt. 5 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-5a02bd100a411a6986151af348932656]: Commencement: Sch. Pt. 5 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-ba195140e81783abddac8cce5faeef7f]: Commencement: Sch. Pt. 6 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-ba195140e81783abddac8cce5faeef7f]: Commencement: Sch. Pt. 6 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-b828435367525f51d01f3cc73810e02e]: Commencement: Sch. Pt. 7 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-b828435367525f51d01f3cc73810e02e]: Commencement: Sch. Pt. 7 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-8f20821ecb2bdfc3b4c31a8a434aea9c]: Commencement: Sch. Pt. 8 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-8f20821ecb2bdfc3b4c31a8a434aea9c]: Commencement: Sch. Pt. 8 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
 
-[^key-be88d256cfccd8e8204f9f17b46ece09]: Commencement: Sch. Pt. 9 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)
+[^c-be88d256cfccd8e8204f9f17b46ece09]: Commencement: Sch. Pt. 9 in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/50/article/1)

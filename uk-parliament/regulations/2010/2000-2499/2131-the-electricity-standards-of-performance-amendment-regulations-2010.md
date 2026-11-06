@@ -31,7 +31,7 @@ summary: ''
 
 Electricity
 
-The Electricity (Standards of Performance) (Amendment) Regulations 2010 (revoked)[^key-0a2ddd97bfcd72f5c3dbade17b99e228]
+The Electricity (Standards of Performance) (Amendment) Regulations 2010 (revoked)[^c-0a2ddd97bfcd72f5c3dbade17b99e228]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st October 2010
 
-[^key-0a2ddd97bfcd72f5c3dbade17b99e228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a2ddd97bfcd72f5c3dbade17b99e228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0a2ddd97bfcd72f5c3dbade17b99e228]
+## 1. Citation, commencement and interpretation[^c-0a2ddd97bfcd72f5c3dbade17b99e228]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the earlier Regulations[^key-0a2ddd97bfcd72f5c3dbade17b99e228]
+## 2. Amendment of the earlier Regulations[^c-0a2ddd97bfcd72f5c3dbade17b99e228]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-0a2ddd97bfcd72f5c3dbade17b99e228]
+## 3. Transitional provision[^c-0a2ddd97bfcd72f5c3dbade17b99e228]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a2ddd97bfcd72f5c3dbade17b99e228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a2ddd97bfcd72f5c3dbade17b99e228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a2ddd97bfcd72f5c3dbade17b99e228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a2ddd97bfcd72f5c3dbade17b99e228]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a2ddd97bfcd72f5c3dbade17b99e228]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2131) revoked (1.4.2015) by [The Electricity (Standards of Performance) Regulations 2015 (S.I. 2015/699)](https://www.legislation.gov.uk/uksi/2015/699), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/1)
+[^c-0a2ddd97bfcd72f5c3dbade17b99e228]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2131) revoked (1.4.2015) by [The Electricity (Standards of Performance) Regulations 2015 (S.I. 2015/699)](https://www.legislation.gov.uk/uksi/2015/699), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/1)

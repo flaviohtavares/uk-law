@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Exception to requirement to ensure availability of copies of environmental statements[^key-9e147c0eafaaaf7f1ebd66072a6427b5]
+## 23A. Exception to requirement to ensure availability of copies of environmental statements[^c-9e147c0eafaaaf7f1ebd66072a6427b5]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e147c0eafaaaf7f1ebd66072a6427b5]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2017/571/regulation/23A) inserted (temp.until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/1398/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))
+[^c-9e147c0eafaaaf7f1ebd66072a6427b5]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2017/571/regulation/23A) inserted (temp.until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/1398/regulation/11) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))

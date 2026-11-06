@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Service of notices[^key-e35b031b252ad3202521536537396cbc]
+## 40. Service of notices[^c-e35b031b252ad3202521536537396cbc]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) by post;
 - (b) by delivering it to the person on whom it is to be served or to whom it is to be given or supplied; or
-- (c) with the consent of the recipient and subject to paragraphs (5) to (8)[^key-e1fe3bb14a8f9947fb7afd07e73e8ac4], by electronic transmission.
+- (c) with the consent of the recipient and subject to paragraphs (5) to (8)[^c-e1fe3bb14a8f9947fb7afd07e73e8ac4], by electronic transmission.
 
 (2) Where the person on whom a notice or other document to be served for the purposes of this Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e35b031b252ad3202521536537396cbc]: Commencement: Art. 40 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-e35b031b252ad3202521536537396cbc]: Commencement: Art. 40 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-e1fe3bb14a8f9947fb7afd07e73e8ac4]: Textual amendment: Words in [art. 40(1)(c)](https://www.legislation.gov.uk/uksi/2019/1268/article/40/1/c) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
+[^c-e1fe3bb14a8f9947fb7afd07e73e8ac4]: Textual amendment: Words in [art. 40(1)(c)](https://www.legislation.gov.uk/uksi/2019/1268/article/40/1/c) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
 
 [^f00027]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by section 144 and paragraph 19 of Schedule 10 to the Road Traffic Regulation Act [1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27). There are other amendments not relevant to this Order.

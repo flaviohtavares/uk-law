@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 31. Form of application[^key-6428f0aa40d17a1f305040f3e597d8a8]
+## 31. Form of application[^c-6428f0aa40d17a1f305040f3e597d8a8]
 
 *Extent: E*
 
@@ -27,10 +27,10 @@ summary: ''
 
 (2) The respondent shall respond in writing using form 9 in the Schedule to any application made by the Designated Officer, and shall send such response to the Registrar of Tribunals and a copy of it to the Designated Officer.
 
-(3) The Designated Officer shall adapt forms 8 and 9 as appropriate, and shall send or deliver a copy to the respondent at the same time[^key-1e96f5a47ef5951b02ea60b089cbaff5] as the application or response, as the case may be, is sent or delivered to the Registrar of Tribunals.
+(3) The Designated Officer shall adapt forms 8 and 9 as appropriate, and shall send or deliver a copy to the respondent at the same time[^c-1e96f5a47ef5951b02ea60b089cbaff5] as the application or response, as the case may be, is sent or delivered to the Registrar of Tribunals.
 
 ## Annotations
 
-[^key-6428f0aa40d17a1f305040f3e597d8a8]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2005/2022/rule/31) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-6428f0aa40d17a1f305040f3e597d8a8]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2005/2022/rule/31) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-1e96f5a47ef5951b02ea60b089cbaff5]: Textual amendment: Word in rule 31(3) inserted (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 10](https://www.legislation.gov.uk/uksi/2013/1917/rule/10), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)
+[^c-1e96f5a47ef5951b02ea60b089cbaff5]: Textual amendment: Word in rule 31(3) inserted (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 10](https://www.legislation.gov.uk/uksi/2013/1917/rule/10), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)

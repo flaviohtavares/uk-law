@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) On summary conviction of any of the offences triable either way listed in Schedule 1 to this Act a person shall be liable to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-5056729c2044f66160a1697d9a622c2a] or to a fine not exceeding the prescribed sum or both, except that—
+(1) On summary conviction of any of the offences triable either way listed in Schedule 1 to this Act a person shall be liable to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-5056729c2044f66160a1697d9a622c2a] or to a fine not exceeding the prescribed sum or both, except that—
 
 - (a) a magistrates’ court shall not have power to impose imprisonment for an offence so listed if the Crown Court would not have that power in the case of an adult convicted of it on indictment;
 - (b) [^c19497511]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -58,7 +58,7 @@ summary: ''
 - “**the prescribed sum**” means £5,000[^c18241891] or such sum as is for the time being substituted in this definition by an order in force under section 143(1) below;
 - “**relevant enactment**” means an enactment contained in the [^c18241901]Criminal Law Act 1977 or in any Act passed before, or in the same Session as, that Act.
 
-(10)[^key-59ea01fadba39b9d945d23eb7c1037c8] Section 85 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (removal of limit on certain fines on conviction by magistrates’ court) makes provision that affects the application of this section.
+(10)[^c-59ea01fadba39b9d945d23eb7c1037c8] Section 85 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (removal of limit on certain fines on conviction by magistrates’ court) makes provision that affects the application of this section.
 
 ## Annotations
 
@@ -72,7 +72,7 @@ summary: ''
 
     S. 32 extended (N.I.) by [Telecommunications Act 1984 (c.12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 106(2)(a)](https://www.legislation.gov.uk/ukpga/1984/12/section/106/2/a)
 
-[^key-5056729c2044f66160a1697d9a622c2a]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1980/43/section/32/1) substituted (14.7.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/13/4), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4); [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/c)
+[^c-5056729c2044f66160a1697d9a622c2a]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1980/43/section/32/1) substituted (14.7.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/13/4), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4); [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/c)
 
 [^c19497511]: Textual amendment: S. 32(1)(b) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/2), [92](https://www.legislation.gov.uk/ukpga/2007/27/section/92), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 6 para. 55(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/55/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)(i)(ii)(g)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a/i/ii/g)
 
@@ -90,4 +90,4 @@ summary: ''
 
 [^c18241901]: Marginal citation: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45).
 
-[^key-59ea01fadba39b9d945d23eb7c1037c8]: Textual amendment: S. 32(10) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-59ea01fadba39b9d945d23eb7c1037c8]: Textual amendment: S. 32(10) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

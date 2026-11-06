@@ -31,8 +31,8 @@ summary: ''
 - (a) that basis does not apply if it would work in an unjust or unreasonable way in relation to any person, and
 - (b) in that case the apportionment is to be made instead on a just and reasonable basis.
 
-(5) The proportion of the income that derives from plant or machinery falling within section 410(6)[^key-048bf51058a7b71cc88e22936543ec8d] is to be determined on a just and reasonable basis.
+(5) The proportion of the income that derives from plant or machinery falling within section 410(6)[^c-048bf51058a7b71cc88e22936543ec8d] is to be determined on a just and reasonable basis.
 
 ## Annotations
 
-[^key-048bf51058a7b71cc88e22936543ec8d]: Textual amendment: Words in s. 414(5) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/14)
+[^c-048bf51058a7b71cc88e22936543ec8d]: Textual amendment: Words in s. 414(5) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/14)

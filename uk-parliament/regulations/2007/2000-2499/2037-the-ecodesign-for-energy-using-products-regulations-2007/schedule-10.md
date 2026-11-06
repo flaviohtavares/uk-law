@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Revocations[^key-103bc36561c2e47c5c4432fff3008f4b]
+## SCHEDULE 10 — Revocations[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 28
 
 ## Annotations
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)
+[^c-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L8. Rights and payments to be taken into account in determining amount of benefit[^key-7f95bfb6b402284e8c9d36fea12d93f6]
+## L8. Rights and payments to be taken into account in determining amount of benefit[^c-7f95bfb6b402284e8c9d36fea12d93f6]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ In determining the amount of any benefit under this Part the relevant body is to
 
 ## Annotations
 
-[^key-7f95bfb6b402284e8c9d36fea12d93f6]: Commencement: [Reg. L8](https://www.legislation.gov.uk/uksi/1986/24/regulation/L8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7f95bfb6b402284e8c9d36fea12d93f6]: Commencement: [Reg. L8](https://www.legislation.gov.uk/uksi/1986/24/regulation/L8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00071]: Footnote: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14).

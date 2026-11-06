@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Power to acquire new rights[^key-8b42fd758d0b6f3a969a02e7f22cd13c]
+## 24. Power to acquire new rights[^c-8b42fd758d0b6f3a969a02e7f22cd13c]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b42fd758d0b6f3a969a02e7f22cd13c]: Commencement: Art. 24 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-8b42fd758d0b6f3a969a02e7f22cd13c]: Commencement: Art. 24 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

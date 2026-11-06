@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Amendment of Annex VI to Regulation (EU) No 2018/1139[^key-40cad90b54d2e2972114d4415388d4dd]
+## 177. Amendment of Annex VI to Regulation (EU) No 2018/1139[^c-40cad90b54d2e2972114d4415388d4dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Annex VI (essential requirements for qualified entities), in point 6, for the
 
 ## Annotations
 
-[^key-40cad90b54d2e2972114d4415388d4dd]: Commencement: Reg. 177 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-40cad90b54d2e2972114d4415388d4dd]: Commencement: Reg. 177 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

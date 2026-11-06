@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Interpretation of Part 2[^key-a4262fceaae9825d8e1f7e45c3c2cd46]
+## 18. Interpretation of Part 2[^c-a4262fceaae9825d8e1f7e45c3c2cd46]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In this Part—
 
 ## Annotations
 
-[^key-a4262fceaae9825d8e1f7e45c3c2cd46]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2015/6/section/18) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-a4262fceaae9825d8e1f7e45c3c2cd46]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2015/6/section/18) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

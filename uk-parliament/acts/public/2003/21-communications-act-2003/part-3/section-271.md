@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Power to amend public service remits[^key-92793b6d93828d875c53492aa522c995]
+## 271. Power to amend public service remits[^c-92793b6d93828d875c53492aa522c995]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may by order modify any one or more of the following—
 
-- (a) the public service remit for any licensed public service channel [^key-fbfc6f31116dbb17eeaf94766a648da3]...;
-- (b)[^key-9116adc0859a4ed7d671067d20ed3513] the public service remit for television in the United Kingdom (see section 264(4) to (8C)).
-- (c)[^key-d0c5d3029c23ee8157c79397b21d68c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the public service remit for any licensed public service channel [^c-fbfc6f31116dbb17eeaf94766a648da3]...;
+- (b)[^c-9116adc0859a4ed7d671067d20ed3513] the public service remit for television in the United Kingdom (see section 264(4) to (8C)).
+- (c)[^c-d0c5d3029c23ee8157c79397b21d68c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Secretary of State is not to make an order under this section except where—
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-92793b6d93828d875c53492aa522c995]: Commencement: S. 271 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-92793b6d93828d875c53492aa522c995]: Commencement: S. 271 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fbfc6f31116dbb17eeaf94766a648da3]: Textual amendment: Words in [s. 271(1)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/271/1/a) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/42); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-fbfc6f31116dbb17eeaf94766a648da3]: Textual amendment: Words in [s. 271(1)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/271/1/a) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/42); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-9116adc0859a4ed7d671067d20ed3513]: Textual amendment: [S. 271(1)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/271/1/b) substituted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 7(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/7/a), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/g)
+[^c-9116adc0859a4ed7d671067d20ed3513]: Textual amendment: [S. 271(1)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/271/1/b) substituted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 7(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/7/a), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/g)
 
-[^key-d0c5d3029c23ee8157c79397b21d68c5]: Textual amendment: [S. 271(1)(c)](https://www.legislation.gov.uk/ukpga/2003/21/section/271/1/c) omitted (1.1.2026) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 7(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/7/b), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/g)
+[^c-d0c5d3029c23ee8157c79397b21d68c5]: Textual amendment: [S. 271(1)(c)](https://www.legislation.gov.uk/ukpga/2003/21/section/271/1/c) omitted (1.1.2026) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 7(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/7/b), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/g)

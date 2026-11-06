@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Failure to surrender commission, etc.[^key-7b57c1c9d89b0c57767927100b45857e]
+## 14. Failure to surrender commission, etc.[^c-7b57c1c9d89b0c57767927100b45857e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b57c1c9d89b0c57767927100b45857e]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1979/2/section/14) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/e), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-7b57c1c9d89b0c57767927100b45857e]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1979/2/section/14) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/e), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

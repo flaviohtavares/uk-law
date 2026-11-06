@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 18 — Serial tax avoidance[^key-78a646550e8dc65d14ae1ea1efe2c69c]
+## SCHEDULE 18 — Serial tax avoidance[^c-78a646550e8dc65d14ae1ea1efe2c69c]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ Section 159
 
 #### Meaning of “tax”
 
-**4.** (1)[^key-41c9635a050e6d1d38661a949423023c] In this Schedule “**tax**” includes any of the following taxes—
+**4.** (1)[^c-41c9635a050e6d1d38661a949423023c] In this Schedule “**tax**” includes any of the following taxes—
 
 - (a) income tax,
 - (b) corporation tax, including any amount chargeable as if it were corporation tax or treated as if it were corporation tax,
@@ -80,10 +80,10 @@ Section 159
 - (g) inheritance tax,
 - (h) stamp duty land tax,
 - (i) annual tax on enveloped dwellings,
-- (j) VAT and indirect taxes[^key-14636ba6cca82aa116b1e0fa5b0e2108], and
+- (j) VAT and indirect taxes[^c-14636ba6cca82aa116b1e0fa5b0e2108], and
 - (k) national insurance contributions.
 
-(2)[^key-d2410d8ea3de29f9bda90764f603b9c2] For the purposes of this Schedule “indirect tax” means any of the following—
+(2)[^c-d2410d8ea3de29f9bda90764f603b9c2] For the purposes of this Schedule “indirect tax” means any of the following—
 
 - insurance premium tax
 - general betting duty
@@ -92,7 +92,7 @@ Section 159
 - machine games duty
 - gaming duty
 - lottery duty
-- [^key-0e832ea593b3af32d35cf418ef302c57]...
+- [^c-0e832ea593b3af32d35cf418ef302c57]...
 - air passenger duty
 - hydrocarbon oils duty
 - tobacco products duty
@@ -102,7 +102,7 @@ Section 159
 - landfill tax
 - plastic packaging tax[^M_F_a3804192-7a52-45ec-9a63-7a6995f1a719]
 - climate change levy
-- carbon border adjustment mechanism[^key-7a8029a94f1c504498fca123bba91518]
+- carbon border adjustment mechanism[^c-7a8029a94f1c504498fca123bba91518]
 - customs duties.
 
 #### Meaning of “tax advantage” in relation to VAT
@@ -169,9 +169,9 @@ is treated as providing the information at the end of the period referred to in 
 
 (4) In this paragraph “**notifiable arrangements**” has the same meaning as in Part 7 of FA 2004.
 
-#### “Disclosable Schedule 11A VAT arrangements”[^key-c03d64f9a33910017aac822a66067154]
+#### “Disclosable Schedule 11A VAT arrangements”[^c-c03d64f9a33910017aac822a66067154]
 
-**8A.**[^key-b71755ae2a6bde81bcf06800e64855b2] (1) For the purposes of this Schedule arrangements are “disclosable VAT arrangements” at any time if at that time sub-paragraph (2) or (3) applies.
+**8A.**[^c-b71755ae2a6bde81bcf06800e64855b2] (1) For the purposes of this Schedule arrangements are “disclosable VAT arrangements” at any time if at that time sub-paragraph (2) or (3) applies.
 
 (2) This sub-paragraph applies if the arrangements are disclosable Schedule 11A VAT arrangements (see paragraph 9).
 
@@ -192,13 +192,13 @@ is treated as providing the information at the end of the period referred to in 
 
 is treated as providing the information at the end of the period referred to in paragraph 12(1).
 
-**9.** For the purposes of paragraph 8A[^key-47c7f0e2046b96367a9db83852b830a5] arrangements are “disclosable Schedule 11A[^key-21066d74a54745220e2ff37fee499ed6] VAT arrangements” at any time if at that time—
+**9.** For the purposes of paragraph 8A[^c-47c7f0e2046b96367a9db83852b830a5] arrangements are “disclosable Schedule 11A[^c-21066d74a54745220e2ff37fee499ed6] VAT arrangements” at any time if at that time—
 
 - (a) a person has complied with paragraph 6 of Schedule 11A to VATA 1994 in relation to the arrangements (duty to notify Commissioners),
 - (b) a person under a duty to comply with that paragraph in relation to the arrangements has failed to do so, or
 - (c) a reference number has been allocated to the scheme under paragraph 9 of that Schedule (voluntary notification of avoidance scheme which is not a designated scheme).
 
-#### “Disclosable indirect tax arrangements”[^key-a8c8f164e44f5ebf240cef201a6445e7]
+#### “Disclosable indirect tax arrangements”[^c-a8c8f164e44f5ebf240cef201a6445e7]
 
 **9A.** (1) For the purposes of this Schedule arrangements are “disclosable indirect tax arrangements” at any time if at that time—
 
@@ -217,9 +217,9 @@ is treated as providing the information at the end of the period referred to in 
 
 is treated as providing the information at the end of the period referred to in paragraph 12(1).
 
-#### Paragraphs 8 to 9A: “failure to comply”[^key-cf629d745c669ebed577bd81350d46a1]
+#### Paragraphs 8 to 9A: “failure to comply”[^c-cf629d745c669ebed577bd81350d46a1]
 
-**10.** (1) A person “fails to comply” with any provision mentioned in paragraph 8(1) , 8A(2)(c), 9(a) or 9A(1)(c)[^key-5a869c6a9495cfa1ee519225e0b6d878] if and only if any of the conditions in sub-paragraphs (2) to (4) is met.
+**10.** (1) A person “fails to comply” with any provision mentioned in paragraph 8(1) , 8A(2)(c), 9(a) or 9A(1)(c)[^c-5a869c6a9495cfa1ee519225e0b6d878] if and only if any of the conditions in sub-paragraphs (2) to (4) is met.
 
 (2) The condition in this sub-paragraph is that—
 
@@ -244,7 +244,7 @@ is treated as providing the information at the end of the period referred to in 
 
 #### “Relevant defeat”
 
-**11.** (1) A person (“P”) incurs a “**relevant defeat**” in relation to arrangements if any of Conditions A to F[^key-778388ad55476aa760bcbb62f27c51d6] is met in relation to P and the arrangements.
+**11.** (1) A person (“P”) incurs a “**relevant defeat**” in relation to arrangements if any of Conditions A to F[^c-778388ad55476aa760bcbb62f27c51d6] is met in relation to P and the arrangements.
 
 (2) The relevant defeat is incurred when the condition in question is first met.
 
@@ -391,7 +391,7 @@ For the purposes of paragraph (a) a payment in respect of a liability to pay nat
 - (a) is a full and explicit disclosure of an inaccuracy in a return or other document or of a failure to comply with an obligation, and
 - (b) was made at a time when neither S nor P had reason to believe that HMRC were about to begin enquiries into the affairs of S or P relating to VAT.
 
-#### Condition F[^key-1884d073a18dab74b48c3ffdac7f3ea9]
+#### Condition F[^c-1884d073a18dab74b48c3ffdac7f3ea9]
 
 **16A.** (1) Condition F is that—
 
@@ -440,18 +440,18 @@ For the purposes of paragraph (a) a payment in respect of a liability to pay nat
 
 (3) An information notice must state whether or not P—
 
-- (a) has in the reporting period delivered a return, or made a claim election, declaration or application for approval,[^key-6e42141d10384b6e7ba59045e4d08391] on the basis that a relevant tax advantage arises, or has since the end of the reporting period delivered on that basis a return which P was required to deliver before the end of that period,
-- (b) has in the reporting period failed to take action which P would be required to take under or by virtue of an enactment relating to tax but for particular disclosable[^key-c45b365623da78b429bca81262a15967] arrangements to which P is a party,
+- (a) has in the reporting period delivered a return, or made a claim election, declaration or application for approval,[^c-6e42141d10384b6e7ba59045e4d08391] on the basis that a relevant tax advantage arises, or has since the end of the reporting period delivered on that basis a return which P was required to deliver before the end of that period,
+- (b) has in the reporting period failed to take action which P would be required to take under or by virtue of an enactment relating to tax but for particular disclosable[^c-c45b365623da78b429bca81262a15967] arrangements to which P is a party,
 - (c) has in the reporting period become a party to arrangements which—
   - (i) relate to the position with respect to VAT of another person (“S”) who has made supplies of goods or services to P, and
   - (ii) might be expected to enable P to obtain a relevant tax advantage (“the expected tax advantage”) in connection with those supplies of goods or services,
 - (d) has failed to deliver a return which P was required to deliver by a date falling in the reporting period.
 
-(4) In this paragraph “**relevant tax advantage**” means a tax advantage which particular disclosable[^key-7568f899dea0262d5e73255b305c1820] arrangements enable, or might be expected to enable, P to obtain.
+(4) In this paragraph “**relevant tax advantage**” means a tax advantage which particular disclosable[^c-7568f899dea0262d5e73255b305c1820] arrangements enable, or might be expected to enable, P to obtain.
 
-(5) If P has, in the reporting period concerned, made a return, claim election, declaration or application for approval[^key-42df955b2c11608c32d64463d365a7e3] on the basis mentioned in sub-paragraph (3)(a) or failed to take action as mentioned in sub-paragraph (3)(b) the information notice must—
+(5) If P has, in the reporting period concerned, made a return, claim election, declaration or application for approval[^c-42df955b2c11608c32d64463d365a7e3] on the basis mentioned in sub-paragraph (3)(a) or failed to take action as mentioned in sub-paragraph (3)(b) the information notice must—
 
-- (a) explain (on the assumptions made by P in so acting or failing to act) how the disclosable[^key-c4ca55d00e0cca47d0fcff97b659e1bf] arrangements enable P to obtain the tax advantage, or (as the case may be) have the result that P is not required to take the action in question, and
+- (a) explain (on the assumptions made by P in so acting or failing to act) how the disclosable[^c-c4ca55d00e0cca47d0fcff97b659e1bf] arrangements enable P to obtain the tax advantage, or (as the case may be) have the result that P is not required to take the action in question, and
 - (b) state (on the same assumptions) the amount of the relevant tax advantage mentioned in sub-paragraph (3)(a) or (as the case may be) the amount of any tax advantage which arises in connection with the absence of a requirement to take the action mentioned in sub-paragraph (3)(b).
 
 (6) If P has, in the reporting period, become a party to arrangements such as are mentioned in sub-paragraph (3)(c), the information notice—
@@ -477,7 +477,7 @@ or, if earlier, the time when the warning period would have expired but for the 
 - (a) the first reporting period in any warning period begins with the first day of the warning period and ends with a day specified by HMRC (“the specified day”),
 - (b) the remainder of the warning period is divided into further reporting periods each of which begins immediately after the end of the preceding reporting period and is twelve months long or (if that would be shorter) ends at the end of the warning period.
 
-(12)[^key-2c7b486422cb3b38223371dc0e25dbeb] In this paragraph “disclosable arrangements” means any of the following—
+(12)[^c-2c7b486422cb3b38223371dc0e25dbeb] In this paragraph “disclosable arrangements” means any of the following—
 
 - (a) DOTAS arrangements,
 - (b) disclosable VAT arrangements, and
@@ -727,9 +727,9 @@ For the purposes of paragraph (b) it does not matter whether the reference is (f
 
 **27.** In this Part of this Schedule “**claim for relief**” includes any election or other similar action which is in substance a claim for relief.
 
-#### VAT and indirect taxes[^key-ed34df9bb0295ff3daa3e7929e3244e7]
+#### VAT and indirect taxes[^c-ed34df9bb0295ff3daa3e7929e3244e7]
 
-**28.** In this Part of this Schedule “**tax**” does not include VAT or any other indirect tax[^key-9f619def242e240ba4d60afe8ad1fc41].
+**28.** In this Part of this Schedule “**tax**” does not include VAT or any other indirect tax[^c-9f619def242e240ba4d60afe8ad1fc41].
 
 #### Power to amend
 
@@ -777,17 +777,17 @@ For the purposes of paragraph (b) it does not matter whether the reference is (f
 
 #### Value of the counteracted advantage: basic rule for taxes other than VAT
 
-**32.** (1) In relation to a relevant defeat incurred by virtue of Condition A, B C or F[^key-abcebd1b76f18df9c8f452655cdc7fa1], the “value of the counteracted advantage” is—
+**32.** (1) In relation to a relevant defeat incurred by virtue of Condition A, B C or F[^c-abcebd1b76f18df9c8f452655cdc7fa1], the “value of the counteracted advantage” is—
 
 - (a) in the case of a relevant defeat incurred by virtue of Condition A, the additional amount due or payable in respect of tax as a result of the counteraction mentioned in paragraph 12(1)(c);
 - (b) in the case of a relevant defeat incurred by virtue of Condition B, the additional amount due or payable in respect of tax as a result of the action mentioned in paragraph 13(1);
-- (c) in the case of a relevant defeat incurred by virtue of Condition C, the additional amount due or payable in respect of tax as a result of the counteraction mentioned in paragraph 14(1)(d) ;[^key-d985b023c4f3206c70bf8d35e5fa6ef8]
+- (c) in the case of a relevant defeat incurred by virtue of Condition C, the additional amount due or payable in respect of tax as a result of the counteraction mentioned in paragraph 14(1)(d) ;[^c-d985b023c4f3206c70bf8d35e5fa6ef8]
 - (d) in the case of a relevant defeat incurred by virtue of Condition F, the additional amount due or payable in respect of tax as a result of the counteraction mentioned in paragraph 16A(1)(d).
 
 (2) The reference in sub-paragraph (1) to the additional amount due and payable includes a reference to—
 
 - (a) an amount payable to HMRC having erroneously been paid by way of repayment of tax, and
-- (b) an amount which would be repayable by HMRC if the counteraction mentioned in paragraph (a) (c) or (d)[^key-27bfb207b3f436f2a19c9c914fe1b41d] of sub-paragraph (1) were not made or the action mentioned in paragraph (b) of that sub-paragraph were not taken (as the case may be).
+- (b) an amount which would be repayable by HMRC if the counteraction mentioned in paragraph (a) (c) or (d)[^c-27bfb207b3f436f2a19c9c914fe1b41d] of sub-paragraph (1) were not made or the action mentioned in paragraph (b) of that sub-paragraph were not taken (as the case may be).
 
 (3) The following are ignored in calculating the value of the counteracted advantage—
 
@@ -836,7 +836,7 @@ or, if less, 100% of the amount of the deferred tax.
 
 - (a) in relation to a relevant defeat incurred by virtue of Condition A, the tax advantage mentioned in paragraph 12(1)(b);
 - (b) in relation to a relevant defeat incurred by virtue of Condition B, the denied advantage in relation to which the action mentioned in paragraph 13(1) is taken;
-- (c) in relation to a relevant defeat incurred by virtue of Condition C, means any tax advantage in respect of which the counteraction mentioned in paragraph 14(1)(c) is made ;[^key-5483b87b24ef5f4b07f4e3521693dc48]
+- (c) in relation to a relevant defeat incurred by virtue of Condition C, means any tax advantage in respect of which the counteraction mentioned in paragraph 14(1)(c) is made ;[^c-5483b87b24ef5f4b07f4e3521693dc48]
 - (d) in relation to a relevant defeat incurred by virtue of Condition F, means any tax advantage in respect of which the counteraction mentioned in paragraph 16A(1)(c) is made.
 
 (2) In sub-paragraph (1)(c) “counteraction” is to be interpreted in accordance with paragraph 14(5).
@@ -978,7 +978,7 @@ or, if less, 100% of the amount of the deferred tax.
 
 (7) In sub-paragraph (6) “counteraction” is to be interpreted in accordance with paragraph 16(2).
 
-(8)[^key-0c50c8e78bf6b4bda97be611df83f0a3] In relation to a relevant defeat incurred by virtue of Condition F, “the relevant failure” means the failures or inaccuracies as a result of which the adjustments, assessments, or other actions mentioned in paragraph 16A(5) are required.
+(8)[^c-0c50c8e78bf6b4bda97be611df83f0a3] In relation to a relevant defeat incurred by virtue of Condition F, “the relevant failure” means the failures or inaccuracies as a result of which the adjustments, assessments, or other actions mentioned in paragraph 16A(5) are required.
 
 #### Mitigation of penalties
 
@@ -1235,7 +1235,7 @@ In this sub-paragraph “**relevant obligation**” means an obligation which wo
 
 (8) In sub-paragraph (7) “**relevant failure**” means a failure to comply with an obligation relating to VAT.
 
-(8A)[^key-c863b19b0b9a2ca772f21e753e7476ef] If the person incurs the relevant defeat by virtue of Condition F, the person is treated as having “used” the arrangements on the following dates—
+(8A)[^c-c863b19b0b9a2ca772f21e753e7476ef] If the person incurs the relevant defeat by virtue of Condition F, the person is treated as having “used” the arrangements on the following dates—
 
 - (a) the filing date of any return made by the person on the basis mentioned in paragraph 16A(2)(a);
 - (b) the date on which the person makes any claim, declaration or application for approval;
@@ -1282,13 +1282,13 @@ whenever the regulations are made.
 - “**arrangements**” has the meaning given by paragraph 2(6);
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**contract settlement**” means an agreement in connection with a person's liability to make a payment to the Commissioners under or by virtue of an enactment;
-- “disclosable indirect tax arrangements” is to be interpreted in accordance with paragraph 9A;[^key-d5b39e4893f2fac46dff64bbda4f0984]
+- “disclosable indirect tax arrangements” is to be interpreted in accordance with paragraph 9A;[^c-d5b39e4893f2fac46dff64bbda4f0984]
 - “disclosable Schedule 11A VAT arrangements is to be interpreted in accordance with paragraph 9;
-- “disclosable VAT arrangements” is to be interpreted in accordance with paragraph 8A[^key-3cd54fbb7a25212470d0ee968280bf58];
+- “disclosable VAT arrangements” is to be interpreted in accordance with paragraph 8A[^c-3cd54fbb7a25212470d0ee968280bf58];
 - “DOTAS arrangements” is to be interpreted in accordance with paragraph 8 (and see also paragraph 57(2));
 - “**follower notice**” has the meaning given by paragraph 13(6);
 - “**HMRC**” means Her Majesty's Revenue and Customs;
-- “indirect tax” has the meaning given by paragraph 4(2);[^key-b682b18c94bdbf94937c204611fb5487]
+- “indirect tax” has the meaning given by paragraph 4(2);[^c-b682b18c94bdbf94937c204611fb5487]
 - “**national insurance contributions**” means contributions under Part 1 of the Social Security Contributions and Benefits Act 1992 or Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “**net income**” has the meaning given by section 23 of ITA 2007 (see Step 2 of that section);
 - “**partnership follower notice**” has the meaning given by paragraph 2(2) of Schedule 31 to FA 2014;
@@ -1299,7 +1299,7 @@ whenever the regulations are made.
   - (c) Class 1B contributions;
   - (d) Class 2 contributions which must be paid but in relation to which section 11A of the Act in question (application of certain provisions of the Income Tax Acts in relation to Class 2 contributions under section 11(2) of that Act) does not apply;
 - “relevant defeat” is to be interpreted in accordance with paragraph 11;
-- “**tax**” has the meaning given by paragraph 4(1)[^key-52393cf866ae2f5fed116a0d9acc9fff];
+- “**tax**” has the meaning given by paragraph 4(1)[^c-52393cf866ae2f5fed116a0d9acc9fff];
 - “**tax advantage**” has the meaning given by paragraph 7;
 - “**warning notice**” has the meaning given by paragraph 2.
 
@@ -1399,19 +1399,19 @@ is to be disregarded for the purposes of paragraph 30 (penalty).
 
 ## Annotations
 
-[^key-78a646550e8dc65d14ae1ea1efe2c69c]: Modification: Sch. 18 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by 1994 c. 23, Sch. 9ZA para. 79 (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/2) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/4), [Sch. 2 para. 7(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-78a646550e8dc65d14ae1ea1efe2c69c]: Modification: Sch. 18 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by 1994 c. 23, Sch. 9ZA para. 79 (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/2) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/4), [Sch. 2 para. 7(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-41c9635a050e6d1d38661a949423023c]: Textual amendment: Sch. 18 para. 4 renumbered as Sch. 18 para. 4(1) (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/2/a)
+[^c-41c9635a050e6d1d38661a949423023c]: Textual amendment: Sch. 18 para. 4 renumbered as Sch. 18 para. 4(1) (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/2/a)
 
-[^key-14636ba6cca82aa116b1e0fa5b0e2108]: Textual amendment: Words in Sch. 18 para. 4(1)(j) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/2/b)
+[^c-14636ba6cca82aa116b1e0fa5b0e2108]: Textual amendment: Words in Sch. 18 para. 4(1)(j) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/2/b)
 
-[^key-d2410d8ea3de29f9bda90764f603b9c2]: Textual amendment: Sch. 18 para. 4(2) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/2/c)
+[^c-d2410d8ea3de29f9bda90764f603b9c2]: Textual amendment: Sch. 18 para. 4(2) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/2/c)
 
-[^key-0e832ea593b3af32d35cf418ef302c57]: Textual amendment: Words in [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/4/2) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/18) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-0e832ea593b3af32d35cf418ef302c57]: Textual amendment: Words in [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/4/2) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/18) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
 [^M_F_a3804192-7a52-45ec-9a63-7a6995f1a719]: Textual amendment: Words in Sch. 18 para. 4(2) inserted (10.12.2021 for specified purposes, 1.4.2022 in so far as not already in force and with effect in accordance with [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/b) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 85(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/a), [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/13); [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [regs. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-7a8029a94f1c504498fca123bba91518]: Textual amendment: Words in [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/4/2) inserted (with effect in accordance with s. 158 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 158](https://www.legislation.gov.uk/ukpga/2026/11/section/158), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/19/paragraph/3)
+[^c-7a8029a94f1c504498fca123bba91518]: Textual amendment: Words in [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/4/2) inserted (with effect in accordance with s. 158 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 158](https://www.legislation.gov.uk/ukpga/2026/11/section/158), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/19/paragraph/3)
 
 [^M_F_91cac09d-4282-4284-93fe-76daf444d0f8]: Textual amendment: Sch. 18 para. 5(4)(b) omitted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (2018 c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 121(a)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/121/a/i) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
@@ -1421,60 +1421,60 @@ is to be disregarded for the purposes of paragraph 30 (penalty).
 
 [^M_F_d3fffa1d-ee28-40ef-e9b6-81acc6a63e66]: Textual amendment: Words in Sch. 18 para. 6(2)(c) omitted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (2018 c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 121(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/121/b/ii) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-c03d64f9a33910017aac822a66067154]: Textual amendment: Words in heading before Sch. 18 para. 9 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/4)
+[^c-c03d64f9a33910017aac822a66067154]: Textual amendment: Words in heading before Sch. 18 para. 9 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/4)
 
-[^key-b71755ae2a6bde81bcf06800e64855b2]: Textual amendment: Sch. 18 para. 8A inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/3)
+[^c-b71755ae2a6bde81bcf06800e64855b2]: Textual amendment: Sch. 18 para. 8A inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/3)
 
-[^key-47c7f0e2046b96367a9db83852b830a5]: Textual amendment: Words in Sch. 18 para. 9 substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/5/a)
+[^c-47c7f0e2046b96367a9db83852b830a5]: Textual amendment: Words in Sch. 18 para. 9 substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/5/a)
 
-[^key-21066d74a54745220e2ff37fee499ed6]: Textual amendment: Words in Sch. 18 para. 9 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/5/b)
+[^c-21066d74a54745220e2ff37fee499ed6]: Textual amendment: Words in Sch. 18 para. 9 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/5/b)
 
-[^key-a8c8f164e44f5ebf240cef201a6445e7]: Textual amendment: Sch. 18 para. 9A and cross-heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/6)
+[^c-a8c8f164e44f5ebf240cef201a6445e7]: Textual amendment: Sch. 18 para. 9A and cross-heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/6)
 
-[^key-cf629d745c669ebed577bd81350d46a1]: Textual amendment: Words in Sch. 18 para. 10 heading substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/7)
+[^c-cf629d745c669ebed577bd81350d46a1]: Textual amendment: Words in Sch. 18 para. 10 heading substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/7)
 
-[^key-5a869c6a9495cfa1ee519225e0b6d878]: Textual amendment: Words in Sch. 18 para. 10(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/8)
+[^c-5a869c6a9495cfa1ee519225e0b6d878]: Textual amendment: Words in Sch. 18 para. 10(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/8)
 
-[^key-778388ad55476aa760bcbb62f27c51d6]: Textual amendment: Sch. 18 para. 11(1): "F" substituted for "E" (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(9)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/9)
+[^c-778388ad55476aa760bcbb62f27c51d6]: Textual amendment: Sch. 18 para. 11(1): "F" substituted for "E" (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(9)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/9)
 
-[^key-1884d073a18dab74b48c3ffdac7f3ea9]: Textual amendment: Sch. 18 para. 16A and cross-heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(10)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/10)
+[^c-1884d073a18dab74b48c3ffdac7f3ea9]: Textual amendment: Sch. 18 para. 16A and cross-heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(10)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/10)
 
-[^key-6e42141d10384b6e7ba59045e4d08391]: Textual amendment: Words in Sch. 18 para. 17(3)(a) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/a)
+[^c-6e42141d10384b6e7ba59045e4d08391]: Textual amendment: Words in Sch. 18 para. 17(3)(a) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/a)
 
-[^key-c45b365623da78b429bca81262a15967]: Textual amendment: Word in Sch. 18 para. 17(3)(b) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/b)
+[^c-c45b365623da78b429bca81262a15967]: Textual amendment: Word in Sch. 18 para. 17(3)(b) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/b)
 
-[^key-7568f899dea0262d5e73255b305c1820]: Textual amendment: Word in Sch. 18 para. 17(4) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/b)
+[^c-7568f899dea0262d5e73255b305c1820]: Textual amendment: Word in Sch. 18 para. 17(4) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/b)
 
-[^key-42df955b2c11608c32d64463d365a7e3]: Textual amendment: Words in Sch. 18 para. 17(5) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/c)
+[^c-42df955b2c11608c32d64463d365a7e3]: Textual amendment: Words in Sch. 18 para. 17(5) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/c)
 
-[^key-c4ca55d00e0cca47d0fcff97b659e1bf]: Textual amendment: Word in Sch. 18 para. 17(5)(a) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/b)
+[^c-c4ca55d00e0cca47d0fcff97b659e1bf]: Textual amendment: Word in Sch. 18 para. 17(5)(a) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/b)
 
-[^key-2c7b486422cb3b38223371dc0e25dbeb]: Textual amendment: Sch. 18 para. 17(12) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/d)
+[^c-2c7b486422cb3b38223371dc0e25dbeb]: Textual amendment: Sch. 18 para. 17(12) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(11)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/11/d)
 
-[^key-ed34df9bb0295ff3daa3e7929e3244e7]: Textual amendment: Words in Sch. 18 para. 28 heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(12)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/12)
+[^c-ed34df9bb0295ff3daa3e7929e3244e7]: Textual amendment: Words in Sch. 18 para. 28 heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(12)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/12)
 
-[^key-9f619def242e240ba4d60afe8ad1fc41]: Textual amendment: Words in Sch. 18 para. 28 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(13)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/13)
+[^c-9f619def242e240ba4d60afe8ad1fc41]: Textual amendment: Words in Sch. 18 para. 28 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(13)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/13)
 
-[^key-abcebd1b76f18df9c8f452655cdc7fa1]: Textual amendment: Words in Sch. 18 para. 32(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(14)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/14/a)
+[^c-abcebd1b76f18df9c8f452655cdc7fa1]: Textual amendment: Words in Sch. 18 para. 32(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(14)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/14/a)
 
-[^key-d985b023c4f3206c70bf8d35e5fa6ef8]: Textual amendment: Sch. 18 para. 32(1)(d) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(14)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/14/a)
+[^c-d985b023c4f3206c70bf8d35e5fa6ef8]: Textual amendment: Sch. 18 para. 32(1)(d) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(14)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/14/a)
 
-[^key-27bfb207b3f436f2a19c9c914fe1b41d]: Textual amendment: Words in Sch. 18 para. 32(2)(b) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(14)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/14/b)
+[^c-27bfb207b3f436f2a19c9c914fe1b41d]: Textual amendment: Words in Sch. 18 para. 32(2)(b) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(14)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/14/b)
 
-[^key-5483b87b24ef5f4b07f4e3521693dc48]: Textual amendment: Sch. 18 para. 35(1)(d) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(15)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/15)
+[^c-5483b87b24ef5f4b07f4e3521693dc48]: Textual amendment: Sch. 18 para. 35(1)(d) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(15)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/15)
 
 [^M_F_22b327b0-7947-4843-e0b7-a89eb205c344]: Textual amendment: Sch. 18 para. 38(8)(b) omitted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (2018 c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 121(c)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/121/c/i) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^M_F_53a64b58-64cd-4e04-ae82-3156e9e96505]: Textual amendment: Words in Sch. 18 para. 38(8)(c) omitted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (2018 c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 121(c)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/121/c/ii) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-0c50c8e78bf6b4bda97be611df83f0a3]: Textual amendment: Sch. 18 para. 43(8) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(16)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/16)
+[^c-0c50c8e78bf6b4bda97be611df83f0a3]: Textual amendment: Sch. 18 para. 43(8) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(16)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/16)
 
-[^key-c863b19b0b9a2ca772f21e753e7476ef]: Textual amendment: Sch. 18 para. 55(8A) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(17)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/17)
+[^c-c863b19b0b9a2ca772f21e753e7476ef]: Textual amendment: Sch. 18 para. 55(8A) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(17)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/17)
 
-[^key-d5b39e4893f2fac46dff64bbda4f0984]: Textual amendment: Words in Sch. 18 para. 58(1) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/a)
+[^c-d5b39e4893f2fac46dff64bbda4f0984]: Textual amendment: Words in Sch. 18 para. 58(1) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/a)
 
-[^key-3cd54fbb7a25212470d0ee968280bf58]: Textual amendment: Word in Sch. 18 para. 58(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/c)
+[^c-3cd54fbb7a25212470d0ee968280bf58]: Textual amendment: Word in Sch. 18 para. 58(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/c)
 
-[^key-b682b18c94bdbf94937c204611fb5487]: Textual amendment: Words in Sch. 18 para. 58(1) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/b)
+[^c-b682b18c94bdbf94937c204611fb5487]: Textual amendment: Words in Sch. 18 para. 58(1) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/b)
 
-[^key-52393cf866ae2f5fed116a0d9acc9fff]: Textual amendment: Word in Sch. 18 para. 58(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/d)
+[^c-52393cf866ae2f5fed116a0d9acc9fff]: Textual amendment: Word in Sch. 18 para. 58(1) substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 55(18)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/55/18/d)

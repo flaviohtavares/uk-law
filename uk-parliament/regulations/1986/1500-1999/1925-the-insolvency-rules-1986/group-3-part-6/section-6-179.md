@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.179. Communication of disclaimer to persons interested[^key-5446c88d249eb49a64a64d4927ca31d6]
+## 6.179. Communication of disclaimer to persons interested[^c-5446c88d249eb49a64a64d4927ca31d6]
 
 *Extent: E+W*
 
@@ -40,10 +40,10 @@ But compliance with this paragraph is not required if—
 - (a) the trustee is satisfied that the person has already been made aware of the disclaimer and its date, or
 - (b) the court, on the trustee's application, orders that compliance is not required in that particular case.
 
-(7)[^key-7443357e2420aa0e7b8249b05e78ba4d] A notice or copy notice to be served on any person under the age of 18 in relation to the disclaimer of property in a dwelling-house is sufficiently served if sent or given to the parent or guardian of that person.
+(7)[^c-7443357e2420aa0e7b8249b05e78ba4d] A notice or copy notice to be served on any person under the age of 18 in relation to the disclaimer of property in a dwelling-house is sufficiently served if sent or given to the parent or guardian of that person.
 
 ## Annotations
 
-[^key-5446c88d249eb49a64a64d4927ca31d6]: Commencement: [Rule 6.179](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.179) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5446c88d249eb49a64a64d4927ca31d6]: Commencement: [Rule 6.179](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.179) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-7443357e2420aa0e7b8249b05e78ba4d]: Textual amendment: [Rule 6.179(7)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.179/7) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 120](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/120)
+[^c-7443357e2420aa0e7b8249b05e78ba4d]: Textual amendment: [Rule 6.179(7)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.179/7) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 120](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/120)

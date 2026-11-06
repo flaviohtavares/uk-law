@@ -25,9 +25,9 @@ summary: ''
 - (a) illness or injury,
 - (b) ordinary maternity leave,
 - (c) ordinary adoption leave,
-- (ca)[^key-55bad46a93e2d651105f8d37187a0d31] parental bereavement leave,
-- (d) paternity leave [^key-995f856dcccb8bf424ffd56fc512bbfe]...
-- (e)[^key-37efef1c3236b128582e924907fa3965] parental leave or shared parental leave,
+- (ca)[^c-55bad46a93e2d651105f8d37187a0d31] parental bereavement leave,
+- (d) paternity leave [^c-995f856dcccb8bf424ffd56fc512bbfe]...
+- (e)[^c-37efef1c3236b128582e924907fa3965] parental leave or shared parental leave,
 
 and the earnings used to calculate the person's pensionable pay have ceased to be paid before the person's death.
 
@@ -35,8 +35,8 @@ and the earnings used to calculate the person's pensionable pay have ceased to b
 
 ## Annotations
 
-[^key-55bad46a93e2d651105f8d37187a0d31]: Textual amendment: [Reg. 216(1)(ca)](https://www.legislation.gov.uk/nisr/2008/256/regulation/216/1/ca) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [15(12)](https://www.legislation.gov.uk/nisr/2023/157/regulation/15/12)
+[^c-55bad46a93e2d651105f8d37187a0d31]: Textual amendment: [Reg. 216(1)(ca)](https://www.legislation.gov.uk/nisr/2008/256/regulation/216/1/ca) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [15(12)](https://www.legislation.gov.uk/nisr/2023/157/regulation/15/12)
 
-[^key-995f856dcccb8bf424ffd56fc512bbfe]: Textual amendment: Words in [reg. 216(d)](https://www.legislation.gov.uk/nisr/2008/256/regulation/216/d) omitted (with effect in accordance with reg. 1(3) of the amending Rule) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [16(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/16/a)
+[^c-995f856dcccb8bf424ffd56fc512bbfe]: Textual amendment: Words in [reg. 216(d)](https://www.legislation.gov.uk/nisr/2008/256/regulation/216/d) omitted (with effect in accordance with reg. 1(3) of the amending Rule) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [16(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/16/a)
 
-[^key-37efef1c3236b128582e924907fa3965]: Textual amendment: [Reg. 216(e)](https://www.legislation.gov.uk/nisr/2008/256/regulation/216/e) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [16(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/16/b)
+[^c-37efef1c3236b128582e924907fa3965]: Textual amendment: [Reg. 216(e)](https://www.legislation.gov.uk/nisr/2008/256/regulation/216/e) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by virtue of [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [16(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/16/b)

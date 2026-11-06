@@ -50,7 +50,7 @@ Coming into force in accordance with article 1
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 138(2) and (3) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-db6671d973c4623bb82863252af4256b]
+## 1. Citation, commencement and interpretation[^c-db6671d973c4623bb82863252af4256b]
 
 (1) This Order may be cited as the Courts Reform (Scotland) Act 2014 (Commencement No. 2, Transitional and Saving Provisions) Order 2015.
 
@@ -60,15 +60,15 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (4) In this Order, “the Act” means the Courts Reform (Scotland) Act 2014.
 
-## 2. Appointed day[^key-c46fbdb2da13a40426fed34893088b97][^key-c364ffbf64fe8b15e34f835b7d70ab9d]
+## 2. Appointed day[^c-c46fbdb2da13a40426fed34893088b97][^c-c364ffbf64fe8b15e34f835b7d70ab9d]
 
-(1)[^key-c46fbdb2da13a40426fed34893088b97] The day appointed for the coming into force of section 23(5) of the Act (power of Court of Session to make rules about procedure at tribunal constituted under section 21) is 12th March 2015.
+(1)[^c-c46fbdb2da13a40426fed34893088b97] The day appointed for the coming into force of section 23(5) of the Act (power of Court of Session to make rules about procedure at tribunal constituted under section 21) is 12th March 2015.
 
-(2)[^key-c364ffbf64fe8b15e34f835b7d70ab9d] Subject to paragraph (3), the day appointed for the coming into force of the provisions of the Act specified in column 1 of the table in the Schedule to this Order (the subject matter of which is specified in column 2 of that table) is 1st April 2015.
+(2)[^c-c364ffbf64fe8b15e34f835b7d70ab9d] Subject to paragraph (3), the day appointed for the coming into force of the provisions of the Act specified in column 1 of the table in the Schedule to this Order (the subject matter of which is specified in column 2 of that table) is 1st April 2015.
 
-(3)[^key-c364ffbf64fe8b15e34f835b7d70ab9d] Where a purpose is specified in column 3 of the table in the Schedule, a provision specified in column 1 of that table comes into force only for that purpose.
+(3)[^c-c364ffbf64fe8b15e34f835b7d70ab9d] Where a purpose is specified in column 3 of the table in the Schedule, a provision specified in column 1 of that table comes into force only for that purpose.
 
-## 3. Payment of judicial remuneration and expenses[^key-39d78a4143395b95a686d57003953742]
+## 3. Payment of judicial remuneration and expenses[^c-39d78a4143395b95a686d57003953742]
 
 (1) Paragraphs (2) to (4) apply until the day on which section 16(12) of the Act (salaries and remuneration payable by SCTS) comes into force.
 
@@ -78,11 +78,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (4) Sums required by the Scottish Ministers for the payment of a salary or remuneration under paragraph (2) are charged on the Scottish Consolidated Fund.
 
-## 4. Tribunal to consider fitness for office[^key-63b964ced42bb235076c51204ad42610]
+## 4. Tribunal to consider fitness for office[^c-63b964ced42bb235076c51204ad42610]
 
 Judicial conduct occurring before 1st April 2015 may be taken into account in any proceedings under section 21 of the Act (tribunal to consider fitness for office).
 
-## 5. Re-employment of former sheriffs principal in the Sheriff Appeal Court[^key-0113311678fab5ecd22e9557d0c62027]
+## 5. Re-employment of former sheriffs principal in the Sheriff Appeal Court[^c-0113311678fab5ecd22e9557d0c62027]
 
 (1) Section 51(1) of the Act (re-employment of former Appeal Sheriffs) has effect as if the reference in it to a qualifying former Appeal Sheriff included a reference to a qualifying former sheriff principal.
 
@@ -93,14 +93,14 @@ Judicial conduct occurring before 1st April 2015 may be taken into account in an
   - (ii) ceased to hold that office other than by virtue of an order under section 12E of the Sheriff Courts (Scotland) Act 1971 (removal from office)[^f00002]; and
 - (b) has not reached the age of 75.
 
-## 6. Saving for regulation of commissary business[^key-3ff921d7d80a4f99a5d3462960fe075d]
+## 6. Saving for regulation of commissary business[^c-3ff921d7d80a4f99a5d3462960fe075d]
 
 Despite the repeal of section 54 of the Sheriff Courts (Scotland) Act 1876[^f00003] (courts to make acts of sederunt) by paragraph 3 of schedule 5 to the Act—
 
 - (a) any act of sederunt made under that section shall continue to have effect on or after 1st April 2015 as it had effect immediately before that date; and
 - (b) that section shall continue to have effect for the purpose of enabling the revocation of any act of sederunt made under it.
 
-## 7. Saving for existing subordinate legislation[^key-3c7aa2aa8e93f2c15c6bf1a00ca1a915]
+## 7. Saving for existing subordinate legislation[^c-3c7aa2aa8e93f2c15c6bf1a00ca1a915]
 
 (1) Despite the coming into force of paragraphs 4(f), 6(2), 26, 28 and 30(3) of schedule 5 to the Act (which repeal the enactments specified in paragraph (2)), any subordinate legislation made under an enactment specified in paragraph (2) continues to have effect.
 
@@ -112,7 +112,7 @@ Despite the repeal of section 54 of the Sheriff Courts (Scotland) Act 1876[^f000
 - (d) in the Sheriff Courts (Scotland) Act 1971—
   - (i) section 32 (power of Court of Session to regulate civil procedure in sheriff court);
   - (ii) section 32A[^f00007] (rules for lay representation); and
-  - (iii)[^key-8da09d2961245a91696cce8cf4db49b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-8da09d2961245a91696cce8cf4db49b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in the Court of Session Act 1988[^f00008]—
   - (i) section 5 (power to regulate procedure etc. by act of sederunt);
   - (ii) section 5A[^f00009] (rules for lay representation); and
@@ -130,7 +130,7 @@ Edinburgh
 
 24th February 2015
 
-## SCHEDULE — Provisions of the Act coming into force on 1st April 2015[^key-97742874891d26bf5e7c1773a77507be]
+## SCHEDULE — Provisions of the Act coming into force on 1st April 2015[^c-97742874891d26bf5e7c1773a77507be]
 
 Article 2
 
@@ -242,25 +242,25 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-db6671d973c4623bb82863252af4256b]: Commencement: Art. 1 in force at 12.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/77/article/1/2)
+[^c-db6671d973c4623bb82863252af4256b]: Commencement: Art. 1 in force at 12.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/77/article/1/2)
 
-[^key-c46fbdb2da13a40426fed34893088b97]: Commencement: Art. 2(1) in force at 12.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/77/article/1/2)
+[^c-c46fbdb2da13a40426fed34893088b97]: Commencement: Art. 2(1) in force at 12.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/77/article/1/2)
 
-[^key-c364ffbf64fe8b15e34f835b7d70ab9d]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-c364ffbf64fe8b15e34f835b7d70ab9d]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
-[^key-39d78a4143395b95a686d57003953742]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/77/article/3) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-39d78a4143395b95a686d57003953742]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/77/article/3) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
-[^key-63b964ced42bb235076c51204ad42610]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/77/article/4) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-63b964ced42bb235076c51204ad42610]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/77/article/4) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
-[^key-0113311678fab5ecd22e9557d0c62027]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/77/article/5) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-0113311678fab5ecd22e9557d0c62027]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/77/article/5) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
 [^f00002]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58); section 12E was inserted by the Judiciary and Courts (Scotland) Act [2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), section 40.
 
-[^key-3ff921d7d80a4f99a5d3462960fe075d]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/77/article/6) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-3ff921d7d80a4f99a5d3462960fe075d]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/77/article/6) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
 [^f00003]: Footnote: [1876 c.70](https://www.legislation.gov.uk/ukpga/1876/70); section 54 was repealed, except in so far as it relates to commissary regulations, by the Sheriff Courts (Scotland) Act [1907 (c.51)](https://www.legislation.gov.uk/ukpga/1907/51), Schedule 2. Section 54 was amended by the Public Records (Scotland) Act [1937 (c.43)](https://www.legislation.gov.uk/ukpga/1937/43), Schedule 2 and the Sheriff Courts (Scotland) Act [1971 (c.58)](https://www.legislation.gov.uk/ukpga/1971/58), Schedule 1, paragraph 1; the relevant acts of sederunt are [S.S.I. 2013/291](https://www.legislation.gov.uk/ssi/2013/291) and [S.S.I. 2014/265](https://www.legislation.gov.uk/ssi/2014/265).
 
-[^key-3c7aa2aa8e93f2c15c6bf1a00ca1a915]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-3c7aa2aa8e93f2c15c6bf1a00ca1a915]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
 [^f00004]: Footnote: [1895 c.14](https://www.legislation.gov.uk/ukpga/1895/14); section 2 was substituted by the Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act [1983 (c.12)](https://www.legislation.gov.uk/ukpga/1983/12), section 4.
 
@@ -270,13 +270,13 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00007]: Footnote: Section 32A was added by the Legal Services (Scotland) Act [2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), section 127(b).
 
-[^key-8da09d2961245a91696cce8cf4db49b4]: Textual amendment: [Art. 7(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2015/77/article/7/2/d/iii) revoked (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2015/338/schedule/1/paragraph/4)
+[^c-8da09d2961245a91696cce8cf4db49b4]: Textual amendment: [Art. 7(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2015/77/article/7/2/d/iii) revoked (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2015/338/schedule/1/paragraph/4)
 
 [^f00008]: Footnote: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36).
 
 [^f00009]: Footnote: Section 5A was added by the Legal Services (Scotland) Act [2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), section 126(b).
 
-[^key-97742874891d26bf5e7c1773a77507be]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
+[^c-97742874891d26bf5e7c1773a77507be]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) in force at 1.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2015/77/article/1/3)
 
 [^f01000]: Footnote: (1)
 

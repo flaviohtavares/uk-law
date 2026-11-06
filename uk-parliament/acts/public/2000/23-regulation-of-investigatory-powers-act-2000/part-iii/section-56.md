@@ -23,16 +23,16 @@ summary: ''
 (1) In this Part—
 
 - “**chief officer of police**” means any of the following—
-  - (a) the chief constable of a police force maintained under or by virtue of section 2 of the [^c10567991]Police Act 1996 [^key-b2813c6da35995182e2a7170b61e22e3]...;
+  - (a) the chief constable of a police force maintained under or by virtue of section 2 of the [^c10567991]Police Act 1996 [^c-b2813c6da35995182e2a7170b61e22e3]...;
   - (b) the Commissioner of Police of the Metropolis;
   - (c) the Commissioner of Police for the City of London;
-  - (ca) the chief constable of the Police Service of Scotland;[^key-569f030cfcc0a97f84631ec07143b257]
+  - (ca) the chief constable of the Police Service of Scotland;[^c-569f030cfcc0a97f84631ec07143b257]
   - (d) the Chief Constable of the Royal Ulster Constabulary;
   - (e) the Chief Constable of the Ministry of Defence Police;
   - (f) the Provost Marshal of the Royal Navy Police[^c19929401];
   - (g) the Provost Marshal of the Royal Military Police;
   - (h) the Provost Marshal of the Royal Air Force Police;
-  - (ha) the Provost Marshal for serious crime;[^key-8dcf524c63f359ff82f6f39d47c0f1fa]
+  - (ha) the Provost Marshal for serious crime;[^c-8dcf524c63f359ff82f6f39d47c0f1fa]
   - (i) the Chief Constable of the British Transport Police;
   - (j) [^c19912911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (k) [^c19912911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -45,15 +45,15 @@ summary: ''
   - (a) allows access to the electronic data, or
   - (b) facilitates the putting of the data into an intelligible form;
 - “**the police**” means—
-  - (a) any constable (except a constable who is a[^c19913201] National Crime Agency officer[^key-73aed1b706462e7c51d71066db039d35] [^key-63555d2dd90fc452a3ca9c22e5159f67]...);
+  - (a) any constable (except a constable who is a[^c19913201] National Crime Agency officer[^c-73aed1b706462e7c51d71066db039d35] [^c-63555d2dd90fc452a3ca9c22e5159f67]...);
   - (b) the Commissioner of Police of the Metropolis or any Assistant Commissioner of Police of the Metropolis; or
   - (c) the Commissioner of Police for the City of London;
 - “**protected information**” means any electronic data which, without the key to the data—
   - (a) cannot, or cannot readily, be accessed, or
   - (b) cannot, or cannot readily, be put into an intelligible form;
-- [^key-4e2a101a40b0c04e0ff031ff02144eaf]...
+- [^c-4e2a101a40b0c04e0ff031ff02144eaf]...
 - “**section 49 notice**” means a notice under section 49;
-- [^key-d65b6f64fc36efd0a5a669d4ae6e9d67]...
+- [^c-d65b6f64fc36efd0a5a669d4ae6e9d67]...
 - “**warrant**” includes any authorisation, notice or other instrument (however described) conferring a power of the same description as may, in other cases, be conferred by a warrant.
 
 (2) References in this Part to a person’s having information (including a key to protected information) in his possession include references—
@@ -78,13 +78,13 @@ summary: ''
 
 [^c10567991]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-b2813c6da35995182e2a7170b61e22e3]: Textual amendment: S. 56(1): words in para. (a) of the definition of "chief officer of police" omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/a/i)
+[^c-b2813c6da35995182e2a7170b61e22e3]: Textual amendment: S. 56(1): words in para. (a) of the definition of "chief officer of police" omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/a/i)
 
-[^key-569f030cfcc0a97f84631ec07143b257]: Textual amendment: S. 56(1): para. (ca) in the definition of "chief officer of police" inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/a/ii)
+[^c-569f030cfcc0a97f84631ec07143b257]: Textual amendment: S. 56(1): para. (ca) in the definition of "chief officer of police" inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/a/ii)
 
 [^c19929401]: Textual amendment: S. 56(1): words in the definition of "chief officer of police" substituted (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 174](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/174); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/1)
 
-[^key-8dcf524c63f359ff82f6f39d47c0f1fa]: Textual amendment: Words in [s. 56(1)](https://www.legislation.gov.uk/ukpga/2000/23/section/56/1) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/20); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-8dcf524c63f359ff82f6f39d47c0f1fa]: Textual amendment: Words in [s. 56(1)](https://www.legislation.gov.uk/ukpga/2000/23/section/56/1) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/20); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
 [^c19912911]: Textual amendment: S. 56(1): paras (j) and (k) in the definition of "chief officer of police" repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 146(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/146/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(hh)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/hh) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
@@ -92,10 +92,10 @@ summary: ''
 
 [^c19913201]: Textual amendment: S. 56(1): words in the definition of "the police" inserted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 149(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/149/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-73aed1b706462e7c51d71066db039d35]: Textual amendment: S. 56(1): words in para. (a) of the definition of "the police" substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 94(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/94/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-73aed1b706462e7c51d71066db039d35]: Textual amendment: S. 56(1): words in para. (a) of the definition of "the police" substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 94(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/94/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-63555d2dd90fc452a3ca9c22e5159f67]: Textual amendment: S. 56(1): words in para. (a) of the definition of "the police" omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/b)
+[^c-63555d2dd90fc452a3ca9c22e5159f67]: Textual amendment: S. 56(1): words in para. (a) of the definition of "the police" omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/b)
 
-[^key-4e2a101a40b0c04e0ff031ff02144eaf]: Textual amendment: Definition in s. 56(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/c)
+[^c-4e2a101a40b0c04e0ff031ff02144eaf]: Textual amendment: Definition in s. 56(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 33(19)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/33/19/c)
 
-[^key-d65b6f64fc36efd0a5a669d4ae6e9d67]: Textual amendment: Definition in s. 56(1) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 94(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/94/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-d65b6f64fc36efd0a5a669d4ae6e9d67]: Textual amendment: Definition in s. 56(1) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 94(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/94/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

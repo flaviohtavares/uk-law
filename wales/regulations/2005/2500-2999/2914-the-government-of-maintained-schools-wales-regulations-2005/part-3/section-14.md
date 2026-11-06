@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Maintained Nursery Schools[^key-7e2cde9dbbea1c8fa7d60735272557bb]
+## 14. Maintained Nursery Schools[^c-7e2cde9dbbea1c8fa7d60735272557bb]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
   | *Category of governor* | *Normal basis* | *Option if less than 100 registered pupils* |
   | --- | --- | --- |
   | Parent Governors | 4 or 5 | 3 |
-  | Authority governors[^key-ba9765eb17fdfe36a61b38bbffcb8b32] | 3 or 4 | 2 |
+  | Authority governors[^c-ba9765eb17fdfe36a61b38bbffcb8b32] | 3 or 4 | 2 |
   | Teacher Governors | 1 or 2 | 1 |
   | Staff governors | 1 | 1 or 0 |
   | Community Governors | 3 or 4 | 2 |
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e2cde9dbbea1c8fa7d60735272557bb]: Commencement: Reg. 14 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-7e2cde9dbbea1c8fa7d60735272557bb]: Commencement: Reg. 14 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-ba9765eb17fdfe36a61b38bbffcb8b32]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/wsi/2005/2914/regulation/14) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/7)
+[^c-ba9765eb17fdfe36a61b38bbffcb8b32]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/wsi/2005/2914/regulation/14) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/7)

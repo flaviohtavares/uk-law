@@ -29,7 +29,7 @@ Slaughter of Poultry Act 1967
 
 1967 c. 24
 
-An Act to provide for the humane slaughter, for certain commercial purposes, of poultry.[^key-bb02ad4ddf6eb87601a9c0eea1fcea57]
+An Act to provide for the humane slaughter, for certain commercial purposes, of poultry.[^c-bb02ad4ddf6eb87601a9c0eea1fcea57]
 
 \[10th May 1967\][^c668116][^c668117]
 
@@ -95,7 +95,7 @@ An Act to provide for the humane slaughter, for certain commercial purposes, of 
 - (b) subsection (4)(a) shall cease to have effect; and
 - (c) in subsection (4)(b) the reference to any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days shall be read as if it were a reference to any time during which the Scottish Parliament is dissolved or is in recess for more than four days.
 
-## 4. Power of entry.[^c668146][^key-47072e14639b43e6eabac768428feea4][^c668145]
+## 4. Power of entry.[^c668146][^c-47072e14639b43e6eabac768428feea4][^c668145]
 
 (1) Where the power conferred by this subsection is exercisable in relation to any premises to which regulations under section 3 of this Act apply, a person authorised in that behalf by the Minister of Agriculture, Fisheries and Food or the Secretary of State or by the local authority within whose area the premises are situated may enter the premises for the purpose of ascertaining whether there is, or has been, on those premises any contravention of any provision of this Act or of any regulations made or code of practice issued under it.
 
@@ -153,7 +153,7 @@ In this Act—
 
 ## Annotations
 
-[^key-bb02ad4ddf6eb87601a9c0eea1fcea57]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/24) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-bb02ad4ddf6eb87601a9c0eea1fcea57]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/24) repealed (S.) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
 [^c668116]: Commencement: Act not in force at Royal Assent; wholly in force at 1.1.1970
 
@@ -179,7 +179,7 @@ In this Act—
 
     S. 4: functions transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-47072e14639b43e6eabac768428feea4]: Modification: S. 4 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-47072e14639b43e6eabac768428feea4]: Modification: S. 4 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c668145]: Textual amendment: S. 4 substituted by [Animal Health and Welfare Act 1984 (c. 40, SIF 2:8)](https://www.legislation.gov.uk/ukpga/1984/40), [s. 8](https://www.legislation.gov.uk/ukpga/1984/40/section/8)
 

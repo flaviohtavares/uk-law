@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. During flight: monitoring and termination[^key-cd4b6d4a6202d5b17d0fc2e5a3fe8e78]
+## 100. During flight: monitoring and termination[^c-cd4b6d4a6202d5b17d0fc2e5a3fe8e78]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd4b6d4a6202d5b17d0fc2e5a3fe8e78]: Commencement: Reg. 100 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-cd4b6d4a6202d5b17d0fc2e5a3fe8e78]: Commencement: Reg. 100 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

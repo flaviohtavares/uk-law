@@ -50,7 +50,7 @@ and if a person is charged with an offence the period may extend beyond a convic
 
 (5) The code may include provision about the time when, the form in which, the way in which, and the extent to which, information or any other material is to be revealed to the person mentioned in subsection (1)(e).
 
-(6)[^key-0517143d8a5473f00c44ee7871235518] The code must be so framed that it does not apply to any of the following—
+(6)[^c-0517143d8a5473f00c44ee7871235518] The code must be so framed that it does not apply to any of the following—
 
 - (a) material intercepted in obedience to a warrant issued under section 2 of the Interception of Communications Act 1985;
 - (b) material intercepted under the authority of an interception warrant under section 5 of the Regulation of Investigatory Powers Act 2000;
@@ -66,4 +66,4 @@ and if a person is charged with an offence the period may extend beyond a convic
 
 ## Annotations
 
-[^key-0517143d8a5473f00c44ee7871235518]: Textual amendment: [S. 23(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/23/6) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 39(5)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/39/5) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-0517143d8a5473f00c44ee7871235518]: Textual amendment: [S. 23(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/23/6) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 39(5)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/39/5) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)

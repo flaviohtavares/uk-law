@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations, in exercise of the powers
 
 In accordance with paragraph 24(1) of Schedule 7 to the Tribunals Courts and Enforcement Act 2007[^f00003], they have consulted the Administrative Justice and Tribunals Council and its Scottish Committee.
 
-## 1. Citation, commencement and interpretation[^key-0cb4887ed1c8c6f7b29a24747b4d11e7]
+## 1. Citation, commencement and interpretation[^c-0cb4887ed1c8c6f7b29a24747b4d11e7]
 
 (1) These Regulations may be cited as the National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 and come into force on 2nd July 2010.
 
 (2) In these Regulations, “the principal Regulations” means the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^f00004].
 
-## 2. Amendment of the principal Regulations[^key-7d5362fcce423caa3a309a44f89692ee]
+## 2. Amendment of the principal Regulations[^c-7d5362fcce423caa3a309a44f89692ee]
 
 (1) The principal Regulations are amended in accordance with the following paragraphs.
 
@@ -93,7 +93,7 @@ In accordance with paragraph 24(1) of Schedule 7 to the Tribunals Courts and E
 
 (8) In regulation 11 (recovery of amounts from practitioners following appeal) after “dentist” in each place where it appears insert “or dental body corporate”.
 
-(9)[^key-d58f163274168e7327cd3f98bdc00cb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-d58f163274168e7327cd3f98bdc00cb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In Schedule 1, (constitution of discipline committees) paragraph 2(4)(b) after “dentist” insert “or dental body corporate”.
 
@@ -179,11 +179,11 @@ Regulation 2(11)(c) amends paragraph 5(2)(a) of Schedule 2 to provide for circum
 
 [^f00003]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15); Discipline Committees of a Health Board, or a joint committee of Health Boards, constituted in accordance with regulation 3 of the principal Regulations are listed tribunals for the purposes of Schedule 7 in terms of [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436).
 
-[^key-0cb4887ed1c8c6f7b29a24747b4d11e7]: Commencement: Reg. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1)
+[^c-0cb4887ed1c8c6f7b29a24747b4d11e7]: Commencement: Reg. 1 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2006/330](https://www.legislation.gov.uk/ssi/2006/330), amended by [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183) and [308](https://www.legislation.gov.uk/ssi/2009/308).
 
-[^key-7d5362fcce423caa3a309a44f89692ee]: Commencement: Reg. 2 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1)
+[^c-7d5362fcce423caa3a309a44f89692ee]: Commencement: Reg. 2 in force at 2.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1)
 
 [^f00005]: Footnote: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24); section 43 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), article 39.
 
@@ -191,4 +191,4 @@ Regulation 2(11)(c) amends paragraph 5(2)(a) of Schedule 2 to provide for circum
 
 [^f00007]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208).
 
-[^key-d58f163274168e7327cd3f98bdc00cb3]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/9) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/86)
+[^c-d58f163274168e7327cd3f98bdc00cb3]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/9) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/86)

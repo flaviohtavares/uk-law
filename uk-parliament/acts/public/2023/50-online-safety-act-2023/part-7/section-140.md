@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Penalty for failure to comply with notice under section 121(1)[^key-34909e14da9be37b898eb99a1c2168b6][^key-f9b84f28ae0f510f10d901e7ec91f864]
+## 140. Penalty for failure to comply with notice under section 121(1)[^c-34909e14da9be37b898eb99a1c2168b6][^c-f9b84f28ae0f510f10d901e7ec91f864]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34909e14da9be37b898eb99a1c2168b6]: Commencement: S. 140 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-34909e14da9be37b898eb99a1c2168b6]: Commencement: S. 140 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-f9b84f28ae0f510f10d901e7ec91f864]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2023/50/section/140) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-f9b84f28ae0f510f10d901e7ec91f864]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2023/50/section/140) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

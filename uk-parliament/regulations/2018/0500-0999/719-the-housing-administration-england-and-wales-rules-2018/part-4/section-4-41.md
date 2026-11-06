@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.41. Appeals and reviews of housing administration orders[^key-fb21bd096b4df8897c9af4aee7f44bbc]
+## 4.41. Appeals and reviews of housing administration orders[^c-fb21bd096b4df8897c9af4aee7f44bbc]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ and for the purposes of each definition a person appointed to act as a deputy fo
 
 ## Annotations
 
-[^key-fb21bd096b4df8897c9af4aee7f44bbc]: Commencement: Rule 4.41 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-fb21bd096b4df8897c9af4aee7f44bbc]: Commencement: Rule 4.41 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00024]: Footnote: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28). Section 5 was amended by paragraph 4 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 

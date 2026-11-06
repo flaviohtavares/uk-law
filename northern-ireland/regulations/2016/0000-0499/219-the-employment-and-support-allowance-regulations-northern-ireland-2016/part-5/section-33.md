@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Information required for determining capability for work-related activity[^key-e370a76dca190b05c6867c93f80bdbce]
+## 33. Information required for determining capability for work-related activity[^c-e370a76dca190b05c6867c93f80bdbce]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e370a76dca190b05c6867c93f80bdbce]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2016/219/regulation/33) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-e370a76dca190b05c6867c93f80bdbce]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2016/219/regulation/33) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

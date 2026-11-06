@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 18. Measures geared to the sustainable use of biocidal products[^key-d2ace424960e07c57a8ebd157c2b8b30]
+## Article 18. Measures geared to the sustainable use of biocidal products[^c-d2ace424960e07c57a8ebd157c2b8b30]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ace424960e07c57a8ebd157c2b8b30]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/eur/2012/528/article/18) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/79); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2ace424960e07c57a8ebd157c2b8b30]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/eur/2012/528/article/18) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/79); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

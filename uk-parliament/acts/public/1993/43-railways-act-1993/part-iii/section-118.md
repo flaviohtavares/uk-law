@@ -22,7 +22,7 @@ summary: ''
 
 (1) In time of hostilities, whether actual or imminent, severe international tension or great national emergency, the Secretary of State may give directions under this subsection to such of the following persons as he may consider appropriate, that is to say—
 
-- (a) the Office of Rail and Road[^key-1b19fcef67fe6d45963daad2189d03c8];
+- (a) the Office of Rail and Road[^c-1b19fcef67fe6d45963daad2189d03c8];
 - (b)[^c19020651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any person who is the owner or operator of a relevant asset;
 - (d) any person who provides railway services.
@@ -76,7 +76,7 @@ and, subject to that, expressions used in this section and in Part I [^c14112081
 
 ## Annotations
 
-[^key-1b19fcef67fe6d45963daad2189d03c8]: Textual amendment: Words in s. 118(1)(a)(3)(5)(9) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(zz)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/zz)
+[^c-1b19fcef67fe6d45963daad2189d03c8]: Textual amendment: Words in s. 118(1)(a)(3)(5)(9) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(zz)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/zz)
 
 [^c19020651]: Textual amendment: S. 118(1)(b) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 

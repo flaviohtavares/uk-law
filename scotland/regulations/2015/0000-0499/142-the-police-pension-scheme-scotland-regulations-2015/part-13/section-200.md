@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 200. Pension supervising authority[^key-a3690753bd1011b026a438fabab4fc13]
+## 200. Pension supervising authority[^c-a3690753bd1011b026a438fabab4fc13]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3690753bd1011b026a438fabab4fc13]: Commencement: Reg. 200 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-a3690753bd1011b026a438fabab4fc13]: Commencement: Reg. 200 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

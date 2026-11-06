@@ -32,7 +32,7 @@ This Statutory Instrument has been made in consequence of defects in [S.I. 1994/
 
 ENVIRONMENTAL PROTECTION
 
-The Environmental Protection (Prescribed Processes and Substances Etc.) (Amendment) (No. 2) Regulations 1994 (revoked)[^key-78d4b324c5b5c269dc15fd0ef3979aa3]
+The Environmental Protection (Prescribed Processes and Substances Etc.) (Amendment) (No. 2) Regulations 1994 (revoked)[^c-78d4b324c5b5c269dc15fd0ef3979aa3]
 
 Made
 
@@ -46,64 +46,64 @@ Coming into force
 
 1st June 1994
 
-[^key-78d4b324c5b5c269dc15fd0ef3979aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78d4b324c5b5c269dc15fd0ef3979aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-78d4b324c5b5c269dc15fd0ef3979aa3]
+## 1. Citation and commencement[^c-78d4b324c5b5c269dc15fd0ef3979aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulations[^key-78d4b324c5b5c269dc15fd0ef3979aa3]
+## 2. Amendment of regulations[^c-78d4b324c5b5c269dc15fd0ef3979aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78d4b324c5b5c269dc15fd0ef3979aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78d4b324c5b5c269dc15fd0ef3979aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 6 TO THE ENVIRONMENTAL PROTECTION (PRESCRIBED PROCESSES AND SUBSTANCES ETC.) (AMENDMENT) REGULATIONS 1994[^key-78d4b324c5b5c269dc15fd0ef3979aa3]
+## SCHEDULE — SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 6 TO THE ENVIRONMENTAL PROTECTION (PRESCRIBED PROCESSES AND SUBSTANCES ETC.) (AMENDMENT) REGULATIONS 1994[^c-78d4b324c5b5c269dc15fd0ef3979aa3]
 
 Regulation 2
 
-> **SCHEDULE 6 — TRANSITIONALS[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **SCHEDULE 6 — TRANSITIONALS[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > Regulation 5
 >
-> **7. Interpretation[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **7. Interpretation[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2. Processes which cease to be prescribed processes[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **2. Processes which cease to be prescribed processes[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Processes which become Part A prescribed processes[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **3. Processes which become Part A prescribed processes[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Processes which transfer from Part B to Part A[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **4. Processes which transfer from Part B to Part A[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Processes which become Part B prescribed processes[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **5. Processes which become Part B prescribed processes[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Processes which transfer from Part A to Part B[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **6. Processes which transfer from Part A to Part B[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-78d4b324c5b5c269dc15fd0ef3979aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-78d4b324c5b5c269dc15fd0ef3979aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Substantial changes[^key-78d4b324c5b5c269dc15fd0ef3979aa3]**
+> **8. Substantial changes[^c-78d4b324c5b5c269dc15fd0ef3979aa3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-78d4b324c5b5c269dc15fd0ef3979aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78d4b324c5b5c269dc15fd0ef3979aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78d4b324c5b5c269dc15fd0ef3979aa3]: Textual amendment: Regulations revoked (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and lapsed (S.) (1.4.2015) by virtue of repeal of power conferring provisions [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [s. 2](https://www.legislation.gov.uk/ukpga/1990/43/section/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/43/schedule/1) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)
+[^c-78d4b324c5b5c269dc15fd0ef3979aa3]: Textual amendment: Regulations revoked (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)); and lapsed (S.) (1.4.2015) by virtue of repeal of power conferring provisions [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), [s. 2](https://www.legislation.gov.uk/ukpga/1990/43/section/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/43/schedule/1) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)

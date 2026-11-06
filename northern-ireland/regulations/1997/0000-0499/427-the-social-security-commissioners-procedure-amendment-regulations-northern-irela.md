@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security Commissioners Procedure (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-b8839eeab0d0884188dca5d55549ce88]
+The Social Security Commissioners Procedure (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-b8839eeab0d0884188dca5d55549ce88]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 1st November 1997
 
-[^key-b8839eeab0d0884188dca5d55549ce88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8839eeab0d0884188dca5d55549ce88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b8839eeab0d0884188dca5d55549ce88]
+## 1. Citation and commencement[^c-b8839eeab0d0884188dca5d55549ce88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security Commissioners Procedure Regulations[^key-b8839eeab0d0884188dca5d55549ce88]
+## 2. Amendment of the Social Security Commissioners Procedure Regulations[^c-b8839eeab0d0884188dca5d55549ce88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8839eeab0d0884188dca5d55549ce88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8839eeab0d0884188dca5d55549ce88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b8839eeab0d0884188dca5d55549ce88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8839eeab0d0884188dca5d55549ce88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b8839eeab0d0884188dca5d55549ce88]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/427) revoked (7.6.2026) by [The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 (S.R. 1999/225)](https://www.legislation.gov.uk/nisr/1999/225), [regs. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/1999/225/regulation/2/c)
+[^c-b8839eeab0d0884188dca5d55549ce88]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/427) revoked (7.6.2026) by [The Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 (S.R. 1999/225)](https://www.legislation.gov.uk/nisr/1999/225), [regs. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/1999/225/regulation/2/c)

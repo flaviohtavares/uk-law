@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Hearing in public or private[^key-e7c6d433f393472f152654bf3c8f6d79]
+## 30. Hearing in public or private[^c-e7c6d433f393472f152654bf3c8f6d79]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7c6d433f393472f152654bf3c8f6d79]: Commencement: Reg. 30 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-e7c6d433f393472f152654bf3c8f6d79]: Commencement: Reg. 30 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14H. Termination and resumption of accepted employer status[^key-24b4a48e0293be1c22d775da0e3d92bd]
+## 14H. Termination and resumption of accepted employer status[^c-24b4a48e0293be1c22d775da0e3d92bd]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24b4a48e0293be1c22d775da0e3d92bd]: Textual amendment: [Regs. 14A-14H](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A) inserted (1.4.2014) by [The Teachers’ Pensions (Amendment) Regulations 2014 (S.I. 2014/424)](https://www.legislation.gov.uk/uksi/2014/424), [regs. 1](https://www.legislation.gov.uk/uksi/2014/424/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/424/regulation/5)
+[^c-24b4a48e0293be1c22d775da0e3d92bd]: Textual amendment: [Regs. 14A-14H](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A) inserted (1.4.2014) by [The Teachers’ Pensions (Amendment) Regulations 2014 (S.I. 2014/424)](https://www.legislation.gov.uk/uksi/2014/424), [regs. 1](https://www.legislation.gov.uk/uksi/2014/424/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/424/regulation/5)

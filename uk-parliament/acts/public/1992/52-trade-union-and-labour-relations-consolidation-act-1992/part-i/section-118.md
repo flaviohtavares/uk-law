@@ -34,7 +34,7 @@ summary: ''
 - (ca)[^c14515981] sections 37A to 37E (investigation of financial affairs), and
 - (d) sections 38 to 42 (members’ superannuation schemes).
 
-(4A)[^key-ff48ded76185d94cf70f3e50f456f3b5] In the case of a federated trade union which, by virtue of subsection (4), is not required to send an annual return to the Certification Officer under section 32, section 24ZA (duty to provide membership audit certificate) applies as if section 32 does apply to the union.
+(4A)[^c-ff48ded76185d94cf70f3e50f456f3b5] In the case of a federated trade union which, by virtue of subsection (4), is not required to send an annual return to the Certification Officer under section 32, section 24ZA (duty to provide membership audit certificate) applies as if section 32 does apply to the union.
 
 (5) Sections 29 to 31 (right of member to access to accounting records) do not apply to a federated trade union which has no members other than constituent or affiliated organisations or representatives of such organisations.
 
@@ -47,7 +47,7 @@ For this purpose “**merchant seaman**” means a person whose employment, or t
 
 (7) The provisions of Chapter VI (application of funds for political objects) apply to a trade union which is in whole or part an association or combination of other unions as if the individual members of the component unions were members of that union and not of the component unions.
 
-But nothing in that Chapter prevents a component union from collecting contributions on behalf of the association or combination from such of its members as are contributors[^key-a93577289936c53ee81a37b019d35e09] to the political fund of the association or combination.
+But nothing in that Chapter prevents a component union from collecting contributions on behalf of the association or combination from such of its members as are contributors[^c-a93577289936c53ee81a37b019d35e09] to the political fund of the association or combination.
 
 (8)[^c20383551] In the application of section 116A to a federated trade union, subsection (2) of that section shall be omitted.
 
@@ -59,8 +59,8 @@ But nothing in that Chapter prevents a component union from collecting contribut
 
 [^c14515981]: Textual amendment: S. 118(4)(ca) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para. 62(b)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/62/b); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-ff48ded76185d94cf70f3e50f456f3b5]: Textual amendment: S. 118(4A) inserted (6.4.2015 with application in accordance with art. 3 of the commencing S.I.) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2014/4/section/40/4), [45(1)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/a)
+[^c-ff48ded76185d94cf70f3e50f456f3b5]: Textual amendment: S. 118(4A) inserted (6.4.2015 with application in accordance with art. 3 of the commencing S.I.) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2014/4/section/40/4), [45(1)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/a)
 
-[^key-a93577289936c53ee81a37b019d35e09]: Textual amendment: Word in [s. 118(7)](https://www.legislation.gov.uk/ukpga/1992/52/section/118/7) substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/10); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/139/regulation/4))
+[^c-a93577289936c53ee81a37b019d35e09]: Textual amendment: Word in [s. 118(7)](https://www.legislation.gov.uk/ukpga/1992/52/section/118/7) substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/10); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/139/regulation/4))
 
 [^c20383551]: Textual amendment: S. 118(8) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/55/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))

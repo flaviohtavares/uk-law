@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Functions of police and crime commissioners[^key-d01650aaafbb5429aecd29b1e96d32c3]
+## 46. Functions of police and crime commissioners[^c-d01650aaafbb5429aecd29b1e96d32c3]
 
 *Extent: E+W*
 
@@ -136,4 +136,4 @@ insert—
 
 ## Annotations
 
-[^key-d01650aaafbb5429aecd29b1e96d32c3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2026/23/section/46) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-d01650aaafbb5429aecd29b1e96d32c3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2026/23/section/46) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

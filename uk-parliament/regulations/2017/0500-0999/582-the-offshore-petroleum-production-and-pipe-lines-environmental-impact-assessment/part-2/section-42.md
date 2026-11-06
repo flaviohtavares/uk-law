@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Substitution of Schedule 2 (matters to be taken into account in making an environmental determination or giving a direction under regulation 3(3))[^key-2b7b251f68badd28c17c97a21a0c6e53]
+## 42. Substitution of Schedule 2 (matters to be taken into account in making an environmental determination or giving a direction under regulation 3(3))[^c-2b7b251f68badd28c17c97a21a0c6e53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For Schedule 2, substitute the schedule that is set out in Schedule 4 to these R
 
 ## Annotations
 
-[^key-2b7b251f68badd28c17c97a21a0c6e53]: Commencement: Reg. 42 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-2b7b251f68badd28c17c97a21a0c6e53]: Commencement: Reg. 42 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

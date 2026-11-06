@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Further entitlement after time-limiting[^key-a2ff7eb4f91bac3c7c6b26b382e344f8]
+## 58. Further entitlement after time-limiting[^c-a2ff7eb4f91bac3c7c6b26b382e344f8]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2ff7eb4f91bac3c7c6b26b382e344f8]: Commencement: [Art. 58](https://www.legislation.gov.uk/nisi/2015/2006/article/58) in operation at 28.11.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by S.R. 2016/166, art. 3)
+[^c-a2ff7eb4f91bac3c7c6b26b382e344f8]: Commencement: [Art. 58](https://www.legislation.gov.uk/nisi/2015/2006/article/58) in operation at 28.11.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by S.R. 2016/166, art. 3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2B — Land criteria[^key-a328146d1b52d980296b0d512af27431]
+## SCHEDULE 2B — Land criteria[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -24,40 +24,40 @@ summary: ''
 
 Regulation 36A
 
-### PART 1 — Interpretation[^key-a328146d1b52d980296b0d512af27431]
+### PART 1 — Interpretation[^c-a328146d1b52d980296b0d512af27431]
 
-**1.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Land criteria for solid biomass which is wood or wholly derived from wood, excluding energy crops[^key-a328146d1b52d980296b0d512af27431]
+### PART 2 — Land criteria for solid biomass which is wood or wholly derived from wood, excluding energy crops[^c-a328146d1b52d980296b0d512af27431]
 
-**4.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Land criteria for other solid biomass including energy crops[^key-a328146d1b52d980296b0d512af27431]
+### PART 3 — Land criteria for other solid biomass including energy crops[^c-a328146d1b52d980296b0d512af27431]
 
-**10.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a328146d1b52d980296b0d512af27431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

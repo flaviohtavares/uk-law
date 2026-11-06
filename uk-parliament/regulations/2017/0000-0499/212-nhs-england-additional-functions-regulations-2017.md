@@ -30,7 +30,7 @@ summary: ''
 
 National Health Service, England
 
-NHS England[^key-3d7ed74251c23b93016e0c579cedaf68] (Additional Functions) Regulations 2017
+NHS England[^c-3d7ed74251c23b93016e0c579cedaf68] (Additional Functions) Regulations 2017
 
 Made
 
@@ -44,11 +44,11 @@ The Secretary of State, in exercise of the powers conferred by sections 13Z1 and
 
 In accordance with section 272(6)(zb) of that Act[^f00002], a draft of this instrument was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-7352519dfdee28beabcb050c0e2ae9f4]
+## 1. Citation and commencement[^c-7352519dfdee28beabcb050c0e2ae9f4]
 
 These Regulations may be cited as NHS England (Additional Functions) Regulations 2017 and come into force on 1st April 2017.
 
-## 2. Interpretation[^key-ffe68ea8622a0496d4dd81f747d8083e]
+## 2. Interpretation[^c-ffe68ea8622a0496d4dd81f747d8083e]
 
 In these Regulations—
 
@@ -56,11 +56,11 @@ In these Regulations—
 - “health service” means the health service continued under section 1(1) of the 2006 Act[^f00003]; and
 - “regulation 4(1) function” means the function specified in regulation 4(1).
 
-## 3. Additional functions of NHS England[^key-b21408a759d0cb0f9f083f9231372999]
+## 3. Additional functions of NHS England[^c-b21408a759d0cb0f9f083f9231372999]
 
 NHS England is to have the functions specified in regulations 4 to 6.
 
-## 4. Power to conclude and manage framework agreements[^key-3fe561df6fb01a23e81bb67aa78212ff]
+## 4. Power to conclude and manage framework agreements[^c-3fe561df6fb01a23e81bb67aa78212ff]
 
 (1) NHS England may conclude and manage framework agreements to facilitate the purchase and supply of a service, drug, medicine or other substance or product to which paragraph (2) applies.
 
@@ -72,17 +72,17 @@ NHS England is to have the functions specified in regulations 4 to 6.
 
 (3) In this regulation—
 
-- (a) “framework agreement” means an agreement between NHS England and one (or more than one) supplier[^key-829eea5bd58802594896f12408ef8019], the purpose of which is to establish the terms governing contracts to be entered into during a given period, in particular with regard to price and, where appropriate, the quantity envisaged; and
+- (a) “framework agreement” means an agreement between NHS England and one (or more than one) supplier[^c-829eea5bd58802594896f12408ef8019], the purpose of which is to establish the terms governing contracts to be entered into during a given period, in particular with regard to price and, where appropriate, the quantity envisaged; and
 - (b) “other substance or product” includes—
   - (i) medical supplies within the meaning of section 260(5) of the 2006 Act[^f00006];
   - (ii) a medical device within the meaning of regulation 2 (interpretation) of the Medical Devices Regulations 2002[^f00007]; and
   - (iii) a human blood component.
 
-## 5. Duty to provide assistance[^key-8b741b1ae69c65c093ff49ef44a78bc1]
+## 5. Duty to provide assistance[^c-8b741b1ae69c65c093ff49ef44a78bc1]
 
 In relation to the exercise of the regulation 4(1) function, NHS England must comply with a request made by the Secretary of State for any assistance the Secretary of State considers necessary or expedient for the purposes of the functions of the Secretary of State relating to the health service.
 
-## 6. Duty to consult and collaborate[^key-bf423d9df1cc0016ad9ab5102727b66c]
+## 6. Duty to consult and collaborate[^c-bf423d9df1cc0016ad9ab5102727b66c]
 
 (1) For the purposes of exercising the regulation 4(1) function, NHS England must consult and collaborate with the registered pharmacist, or a person representing the registered pharmacist, of every trust.
 
@@ -121,31 +121,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 ## Annotations
 
-[^key-3d7ed74251c23b93016e0c579cedaf68]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-3d7ed74251c23b93016e0c579cedaf68]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Section 13Z1 of the National Health Service Act 2006 (“the 2006 Act”) was inserted by section 23(1) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Section 275 of the 2006 Act defines “regulations” as regulations made by the Secretary of State. By virtue of section 271(1) of the 2006 Act, the Secretary of State’s power in section 13Z1 of that Act to make these Regulations is exercisable only in relation to England.
 
 [^f00002]: Footnote: Section 272(6)(zb) of the 2006 Act was inserted by section 23(2) of the 2012 Act.
 
-[^key-7352519dfdee28beabcb050c0e2ae9f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
+[^c-7352519dfdee28beabcb050c0e2ae9f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
 
-[^key-ffe68ea8622a0496d4dd81f747d8083e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/212/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
+[^c-ffe68ea8622a0496d4dd81f747d8083e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/212/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
 
 [^f00003]: Footnote: Section 275(1) of the 2006 Act defines “the health service” as including the health service in Wales. These Regulations apply only to the health service in England.
 
-[^key-b21408a759d0cb0f9f083f9231372999]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
+[^c-b21408a759d0cb0f9f083f9231372999]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
 
-[^key-3fe561df6fb01a23e81bb67aa78212ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/212/regulation/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
+[^c-3fe561df6fb01a23e81bb67aa78212ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/212/regulation/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
 
-[^key-829eea5bd58802594896f12408ef8019]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2017/212/regulation/4/3/a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/22/2)
+[^c-829eea5bd58802594896f12408ef8019]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2017/212/regulation/4/3/a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/22/2)
 
 [^f00006]: Footnote: Section 260(5) of the 2006 Act defines “medical supplies” as including surgical, dental and optical materials and equipment.
 
 [^f00007]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), as amended. Amendments relevant to these Regulations have been made by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936).
 
-[^key-8b741b1ae69c65c093ff49ef44a78bc1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/212/regulation/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
+[^c-8b741b1ae69c65c093ff49ef44a78bc1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/212/regulation/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
 
-[^key-bf423d9df1cc0016ad9ab5102727b66c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/212/regulation/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
+[^c-bf423d9df1cc0016ad9ab5102727b66c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/212/regulation/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/212/regulation/1)
 
 [^f00008]: Footnote: NHS trusts are to be abolished under section 179(1) of the 2012 Act. Section 179(1) is not yet in force.
 

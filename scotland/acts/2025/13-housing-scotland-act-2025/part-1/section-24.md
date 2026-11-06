@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Private residential tenancies not in rent control area: frequency of rent increase[^key-affea5f82a71f64b4aa6c1658703a251]
+## 24. Private residential tenancies not in rent control area: frequency of rent increase[^c-affea5f82a71f64b4aa6c1658703a251]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-affea5f82a71f64b4aa6c1658703a251]: Commencement: S. 24 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-affea5f82a71f64b4aa6c1658703a251]: Commencement: S. 24 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

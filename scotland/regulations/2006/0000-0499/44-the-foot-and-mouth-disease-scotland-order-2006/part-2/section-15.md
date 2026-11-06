@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) On the declaration of any suspect premises the Scottish Ministers may[^key-de83008d8f0433c0567e25ce13506140] also declare an area around those premises of such size as they think fit to prevent the spread of disease to be a temporary control zone.
+(1) On the declaration of any suspect premises the Scottish Ministers may[^c-de83008d8f0433c0567e25ce13506140] also declare an area around those premises of such size as they think fit to prevent the spread of disease to be a temporary control zone.
 
 (2) If the Scottish Ministers are satisfied that an animal or carcase in England or Wales is suspected of being infected or contaminated, they may declare a temporary control zone of such size as they think fit to prevent the spread of disease.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de83008d8f0433c0567e25ce13506140]: Textual amendment: Word in [art. 15(1)](https://www.legislation.gov.uk/ssi/2006/44/article/15/1) substituted (30.12.2021) by [The Animal Health (Notification and Control Measures) (Miscellaneous Amendments) (Scotland) (No. 2) Order 2021 (S.S.I. 2021/456)](https://www.legislation.gov.uk/ssi/2021/456), [arts. 1](https://www.legislation.gov.uk/ssi/2021/456/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/456/article/3/2)
+[^c-de83008d8f0433c0567e25ce13506140]: Textual amendment: Word in [art. 15(1)](https://www.legislation.gov.uk/ssi/2006/44/article/15/1) substituted (30.12.2021) by [The Animal Health (Notification and Control Measures) (Miscellaneous Amendments) (Scotland) (No. 2) Order 2021 (S.S.I. 2021/456)](https://www.legislation.gov.uk/ssi/2021/456), [arts. 1](https://www.legislation.gov.uk/ssi/2021/456/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/456/article/3/2)

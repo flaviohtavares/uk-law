@@ -54,11 +54,11 @@ The Marine Management Organisation, being satisfied as mentioned in section 14(2
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-b18d52c8604c232495dca55cbdb2d9d0]
+### 1. Citation and commencement[^c-b18d52c8604c232495dca55cbdb2d9d0]
 
 This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall come into force on 17th February 2021.
 
-### 2. Interpretation[^key-8abb837dfa93ff8c1fa7f70dde05f338]
+### 2. Interpretation[^c-8abb837dfa93ff8c1fa7f70dde05f338]
 
 (1) In this Order—
 
@@ -72,7 +72,7 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
 - “**the Order of 1988**” means the Weymouth and Portland (Pilotage) Harbour Revision Order 1988[^f00014];
 - “**the Order of 1996**” means the Weymouth Harbour Revision Order 1996[^f00015];
 - “**aids to navigation**” includes lights, buoys, beacons and signals including sound and electronic signals and any structure required to house the same;
-- “[^key-7203e300ec8fad6cd23d403f75666dd9] **ashore**” means all those parts of the harbour not within the wet harbour area;
+- “[^c-7203e300ec8fad6cd23d403f75666dd9] **ashore**” means all those parts of the harbour not within the wet harbour area;
 - “**the Council**” means Dorset Council;
 - “**charges**” means the charges, rates, tolls and dues which the Council is for the time being authorised to demand, take and recover in relation to the harbour undertaking;
 - “**commercial refuelling activities**” means recharging or emptying (in whole or part) a vessel with fuel in exchange for financial payment or other valuable consideration;
@@ -104,7 +104,7 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
   - (a) by means of a handlebar-operated linkage system (with or without a rudder at the stern), or
   - (b) by the person or persons riding the craft using their body weight for the purpose, or
   - (c) by a combination of the methods referred to in (a) and (b) above;
-- [^key-026a487c284fa0b77f015b91af78c50f]...
+- [^c-026a487c284fa0b77f015b91af78c50f]...
 - “**the level of high water**” means the level of mean high-water springs;
 - “**the level of low water**” means the level of mean low-water springs;
 - “**master**”, in relation to a vessel, means any person having or taking command, charge, management or conduct of the vessel for the time being;
@@ -124,7 +124,7 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
 
 (3) Reference points specified in this Order shall be construed as references to Latitude and Longitude reference points.
 
-### 3. Incorporation of the provisions of Harbour, Docks and Piers Clauses Act 1847[^key-6d56d39ba497a988af47755b1adf70d0]
+### 3. Incorporation of the provisions of Harbour, Docks and Piers Clauses Act 1847[^c-6d56d39ba497a988af47755b1adf70d0]
 
 (1) The Act of 1847 (except sections 6 to 26, 28, 31, 42, 48 to 50, 67, 70, 92 and 101), (so far as applicable to the purposes and not inconsistent with the provisions of this Order, the Act of 1854 , the Act of 1887 and the Act of 1914 respectively), is hereby incorporated with this Order, the Act of 1854, the Act of 1887 and the Act of 1914 respectively subject to the modifications stated in paragraphs (2) to (4) below.
 
@@ -142,15 +142,15 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
 
 ## PART 2 — JURISDICTION, HARBOUR LIMITS AND GENERAL FUNCTIONS
 
-### 4. Jurisdiction[^key-9c34a97251ef952ca77310da438fb477]
+### 4. Jurisdiction[^c-9c34a97251ef952ca77310da438fb477]
 
 (1) The Council shall exercise jurisdiction as a harbour authority within the meaning of section 57 (interpretation) of the Act of 1964, and the powers of the harbour master shall be exercisable within the harbour.
 
-(2) For and incidental to the performance of its functions [^key-a61ac87d100ab39e813fe54561a95e45]..., the Council may employ and appoint harbour masters.
+(2) For and incidental to the performance of its functions [^c-a61ac87d100ab39e813fe54561a95e45]..., the Council may employ and appoint harbour masters.
 
 (3) The Council shall, within the harbour, be a local lighthouse authority within the meaning of sections 193 (general and local lighthouse authorities) and 201 (powers of harbour authorities) of the Merchant Shipping Act 1995[^f00021].
 
-### 5. General functions[^key-78ef27ba1e557d03a6cd836001e4e0b7]
+### 5. General functions[^c-78ef27ba1e557d03a6cd836001e4e0b7]
 
 (1) The Council may, subject to the provisions of this Order, take all such steps from time to time as it considers necessary or desirable for the maintenance, operation, management and improvement of the harbour and the harbour facilities afforded therein or in connection therewith, and for the conservation of the harbour’s flora, fauna and geological and physiographical features of special interest.
 
@@ -159,9 +159,9 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
 - (a) improve, maintain, regulate, manage, mark and light the harbour and provide harbour facilities therein;
 - (b) subject to obtaining the necessary rights in or over land—
   - (i) execute and place in and over the harbour such structures, works and equipment as are required; and
-  - (ii) operate, maintain, renew, alter, extend, demolish and reconstruct structures, harbour facilities, works and equipment in the harbour (including those executed or placed pursuant to sub-paragraph (i) above); [^key-baf3ad69a0aee7d7b791143de2be49f7]...
-- (c)[^key-455e64372b38f1f1b26ae70fc55431b1] acquire land; and
-- (d)[^key-27960026df3ad9f24390e698141bee71] do all other things which in its opinion are expedient to facilitate the operation, improvement or development of the harbour undertaking.
+  - (ii) operate, maintain, renew, alter, extend, demolish and reconstruct structures, harbour facilities, works and equipment in the harbour (including those executed or placed pursuant to sub-paragraph (i) above); [^c-baf3ad69a0aee7d7b791143de2be49f7]...
+- (c)[^c-455e64372b38f1f1b26ae70fc55431b1] acquire land; and
+- (d)[^c-27960026df3ad9f24390e698141bee71] do all other things which in its opinion are expedient to facilitate the operation, improvement or development of the harbour undertaking.
 
 (3) The Council shall, from time to time, formulate, publish[^f00022] and review a business plan (“Harbour Business Plan”) in relation to its maintenance, conservation, operation, management and improvement of the harbour undertaking, which it shall have regard to when performing its functions.
 
@@ -172,7 +172,7 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
 
 (5) This article is without prejudice to the powers of the Council under or by virtue of any other enactment.
 
-### 6. Harbour Limits[^key-7980a96018984d95dbe8c8f851900074]
+### 6. Harbour Limits[^c-7980a96018984d95dbe8c8f851900074]
 
 (1) The limits of the harbour within which the Council shall exercise jurisdiction as a harbour authority and the powers of the harbour master may be exercised shall comprise—
 
@@ -185,7 +185,7 @@ This Order may be cited as the Weymouth Harbour Revision Order 2021 and shall co
 
 ## PART 3 — FINANCES
 
-### 7. Application of finances[^key-f5efbf9f9d6af7ccdceaefc731865364]
+### 7. Application of finances[^c-f5efbf9f9d6af7ccdceaefc731865364]
 
 The Council shall apply the harbour revenue in the manner following and not otherwise—
 
@@ -194,7 +194,7 @@ The Council shall apply the harbour revenue in the manner following and not othe
 - (c) thirdly in payment of all other expenses properly chargeable to harbour revenue; and
 - (d) fourthly to an account established as a reserve fund for the harbour.
 
-### 8. Reserve fund[^key-dc63a95bd95ac9253add51da5a039c7b]
+### 8. Reserve fund[^c-dc63a95bd95ac9253add51da5a039c7b]
 
 (1) The Council shall establish and maintain a reserve fund.
 
@@ -208,7 +208,7 @@ The Council shall apply the harbour revenue in the manner following and not othe
 - (d) for improving the operational area and the navigation of the harbour and the approaches to the harbour; or
 - (e) for any other lawful purpose sanctioned by the Council and connected with the harbour undertaking.
 
-### 9. Borrowing powers[^key-8d0c51d8974cfbd9c2ea10d9e48aebe2]
+### 9. Borrowing powers[^c-8d0c51d8974cfbd9c2ea10d9e48aebe2]
 
 (1) Notwithstanding anything contained in any enactment, the Council may from time to time, for the general purposes of the harbour undertaking, borrow upon the security of all or any of the harbour revenue and property and by any method or methods which it sees fit such sums of money as it considers necessary.
 
@@ -223,15 +223,15 @@ The Council shall apply the harbour revenue in the manner following and not othe
 
 ## PART 4 — CHARGES
 
-### 10. Charges other than ship, passenger and goods dues[^key-287dd18278cad49d517cd7a12247c6be]
+### 10. Charges other than ship, passenger and goods dues[^c-287dd18278cad49d517cd7a12247c6be]
 
 The Council may demand, take and recover in respect of any dracone or floating dock, crane, rig, drilling rig, or floating platform or any other vessel not being a ship as defined in section 57(1) of the Act of 1964 entering, using or leaving the harbour such reasonable charges as it may determine and sections 30 (duty of harbour and local lighthouse authorities to make available for inspection, and to keep for sale, copies of lists of certain charges) and 31 (right of objection to ship, passenger and goods dues) of the Act of 1964 shall with all necessary modification apply to the charges authorised by this article as they may apply to ship, passenger and goods dues demanded under section 26 (repeal of provisions limiting discretion of certain harbour authorities as to ship, passenger and goods dues charged by them) of the Act of 1964.
 
-### 11. Charges for services or facilities[^key-7b22bcb9b2844c62491296a710184893]
+### 11. Charges for services or facilities[^c-7b22bcb9b2844c62491296a710184893]
 
-In addition to article 10 of this Order and its power to demand ship, passenger and goods dues under section 26 of the Act of 1964, the Council may demand, take and recover such reasonable charges for services and facilities (including pontoons) provided by the Council at the harbour or in connection with the harbour undertaking as it may[^key-55529167e1fe8e35d0f5556395231129] determine.
+In addition to article 10 of this Order and its power to demand ship, passenger and goods dues under section 26 of the Act of 1964, the Council may demand, take and recover such reasonable charges for services and facilities (including pontoons) provided by the Council at the harbour or in connection with the harbour undertaking as it may[^c-55529167e1fe8e35d0f5556395231129] determine.
 
-### 12. Payment of charges[^key-bb5da4094468d79191651aba2a12f9ce]
+### 12. Payment of charges[^c-bb5da4094468d79191651aba2a12f9ce]
 
 (1) The charges which the Council is for the time being authorised to demand, take and recover in respect of vessels and goods or otherwise under any enactment shall be payable before the removal from the harbour or the harbour premises of any vessel or goods in respect of which they are payable, and may be demanded, taken and recovered by such persons, at such places, at such times and under such terms and conditions as the Council may from time to time specify in its published list of charges.
 
@@ -244,29 +244,29 @@ In addition to article 10 of this Order and its power to demand ship, passenger 
 
 (4) Without prejudice to paragraph (1) above, the terms and conditions as to the payment of charges which the Council may from time to time specify may include the time when a charge falls due for payment and may require such information to be given to the Council by the owner or master of a vessel or a person using a service or facility of the Council as the Council may require in connection with the assessment or collection of a charge.
 
-### 13. Compounding arrangements and rebates[^key-82bd7d4922c127fa1364cfdbe2988652]
+### 13. Compounding arrangements and rebates[^c-82bd7d4922c127fa1364cfdbe2988652]
 
 (1) The Council may confer total or partial exemptions from, or allow rebates to or make compositions with any person with respect to charges, and may vary or extinguish any such exemption, rebate or composition.
 
 (2) Nothing in section 30 of the Act of 1964 shall require the Council to include in the list of ship, passenger and goods dues kept at the harbour office, as required by subsection (1) of that section, charges reduced by a total or partial exemption, a rebate allowed on, or subject to a compounding arrangement in respect of, a due included in the said list.
 
-### 14. Deposit for charges[^key-75fe9d8bd9d60ce3eed4ab7c5728a089]
+### 14. Deposit for charges[^c-75fe9d8bd9d60ce3eed4ab7c5728a089]
 
 (1) The Council may, if it thinks fit, require a person who incurs or is about to incur a charge to deposit with it, or to guarantee, such sum of money as is, in the opinion of the Council, reasonable having regard to the amount or probable amount of the charge.
 
 (2) Where such a person fails to deposit or guarantee the sum of money required the Council may detain in the harbour the vessel or goods in respect of which the charge has been or will be incurred, until the requirement has been complied with or the charge paid.
 
-### 15. Liens for charges[^key-32d3fa577a3da677adcb6cee218e4f19]
+### 15. Liens for charges[^c-32d3fa577a3da677adcb6cee218e4f19]
 
 (1) A person who by agreement with the Council collects charges on their behalf and who pays or gives security for the payment of charges on goods in their possession shall have a lien on those goods for the amount paid or security given in respect thereof.
 
 (2) A wharfinger or carrier who is not personally liable for the payment of charges may pay or by agreement with the Council give security for charges on goods in their custody, and in that event they shall have a like lien on the goods for the amount of those charges as they would have in respect of their charges for safe custody or carriage of the goods, as the case may be.
 
-### 16. Refusal to pay charges for a landing place[^key-978cbe0ccefa2ba49b03a85294d52abc]
+### 16. Refusal to pay charges for a landing place[^c-978cbe0ccefa2ba49b03a85294d52abc]
 
 The harbour master may prevent a vessel from using a landing place provided by the Council, if the master of the vessel refuses to pay the charges for such use.
 
-### 17. Exemptions from harbour dues[^key-04da768dae221fb5628061d5393b94f2]
+### 17. Exemptions from harbour dues[^c-04da768dae221fb5628061d5393b94f2]
 
 (1) Except insofar as may be agreed between the Council and the government department or person concerned the Council shall not be entitled to demand harbour dues from, or in respect of—
 
@@ -281,11 +281,11 @@ The harbour master may prevent a vessel from using a landing place provided by t
 
 (2) In this article “**dues**” means ship, passenger and goods dues which the Council may demand under section 26 of the Act of 1964.
 
-### 18. Recovery of charges[^key-8534a61ca4f0f87e7af54017c994c0eb]
+### 18. Recovery of charges[^c-8534a61ca4f0f87e7af54017c994c0eb]
 
 In addition to any other remedy given by this Order and by the Act of 1847 as incorporated with this Order, (and, in a case where the master of a vessel in respect of which a charge is payable to the Council refuses or neglects to pay the same or any part thereof, whether or not the Councils’ collector has gone on board the vessel and demanded the charge pursuant to section 44 of that Act), the Council may recover any charges payable to it as a debt in any court of competent jurisdiction.
 
-### 19. Harbour master may prevent sailing of vessels[^key-0fac46bcb2ed97ec39abbf1fd5224ca8]
+### 19. Harbour master may prevent sailing of vessels[^c-0fac46bcb2ed97ec39abbf1fd5224ca8]
 
 The harbour master may prevent the removal or sailing from the harbour of any vessel until evidence has been produced to the harbour master of the payment of any charges payable in respect of—
 
@@ -295,7 +295,7 @@ The harbour master may prevent the removal or sailing from the harbour of any ve
 
 ## PART 5 — GENERAL DIRECTIONS, SPECIAL DIRECTIONS AND BYELAWS
 
-### 20. Power to make byelaws[^key-fe761b11c50068fbb75656ff4d33349c]
+### 20. Power to make byelaws[^c-fe761b11c50068fbb75656ff4d33349c]
 
 (1) The Council may make such byelaws as it thinks fit for the efficient management and regulation of the harbour.
 
@@ -318,7 +318,7 @@ The harbour master may prevent the removal or sailing from the harbour of any ve
 
 (6) The provisions contained in subsections (3) to (8) of section 236 (Procedure etc., for byelaws) and section 238 (Evidence of byelaws) of the Local Government Act 1972[^f00025] (which relates to the procedure etc. for byelaws and evidence of byelaws) shall apply to any byelaws made by the Council under this article; and those provisions, in their application to any such byelaws, shall have effect.
 
-### 21. Power to make general directions as to the use of the harbour, etc.[^key-de42db1f222aa891b89ced56fc6b5050]
+### 21. Power to make general directions as to the use of the harbour, etc.[^c-de42db1f222aa891b89ced56fc6b5050]
 
 (1) The Council may, in accordance with the requirements of article 22 (procedure for giving, amending or revoking general directions), give a general direction for all or any of the following purposes—
 
@@ -406,7 +406,7 @@ and every direction must specify the extent of its application in relation to th
 
 (4) In an emergency, the Council may give notice of the giving or amendment of a general direction in any manner which it considers to be appropriate.
 
-### 24. Special directions[^key-71b890c74ac0fc9bebadfd22fbdcaf03]
+### 24. Special directions[^c-71b890c74ac0fc9bebadfd22fbdcaf03]
 
 (1) The harbour master may give a special direction in respect of a vessel anywhere in the harbour for any of the following purposes—
 
@@ -427,13 +427,13 @@ and every direction must specify the extent of its application in relation to th
 
 (3) The harbour master may revoke or amend a special direction.
 
-### 25. Failure to comply with directions[^key-50dc80d01bc7694773fe9eaf6116dce3]
+### 25. Failure to comply with directions[^c-50dc80d01bc7694773fe9eaf6116dce3]
 
 (1) A person who fails to comply with a general direction or a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (2) In any proceedings for an offence under paragraph (1) above, it shall be a defence for the person charged to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
-### 26. Enforcement of directions[^key-8ab74dbe4ab232ca4284020a68e462ca]
+### 26. Enforcement of directions[^c-8ab74dbe4ab232ca4284020a68e462ca]
 
 (1) Without prejudice to any other remedy available to the Council, if a special direction is not complied with within a reasonable time, the harbour master may put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -444,13 +444,13 @@ and every direction must specify the extent of its application in relation to th
 
 (3) Expenses incurred by the Council in the exercise of the powers conferred by paragraph (1) above shall be recoverable by the Council as if it were a charge of the Council in respect of the vessel.
 
-### 27. Master’s responsibility in relation to directions[^key-4d9501df2ffccd7b4db647008ca3f0ea]
+### 27. Master’s responsibility in relation to directions[^c-4d9501df2ffccd7b4db647008ca3f0ea]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to the vessel, to persons on board the vessel, to the cargo or any other person or property.
 
 ## PART 6 — MISCELLANEOUS AND GENERAL
 
-### 28. Advisory bodies[^key-f1211dd1bfca7bc6fe42e6351b2484d0]
+### 28. Advisory bodies[^c-f1211dd1bfca7bc6fe42e6351b2484d0]
 
 (1) The Council must establish one or more advisory body or bodies which the Council must consult on all matters substantially affecting the management, maintenance, improvement, conservation, protection or regulation of the harbour and its navigation.
 
@@ -470,18 +470,18 @@ The giving of a general direction or a special direction shall not diminish or i
 
 (9) A member of such an advisory body may resign their office at any time by notice in writing given to the Council.
 
-### 29. Development of land etc.[^key-685733bd79f9d2a58867a867b208f991]
+### 29. Development of land etc.[^c-685733bd79f9d2a58867a867b208f991]
 
 (1) The Council may, subject to obtaining the necessary rights in or over land—
 
 - (a) use or develop for any purpose, and deal with, any land within or in the vicinity of the harbour; or
-- (b) form, invest in and promote, or join with another person in forming, investing in and promoting, a company[^key-93e443bf8a8b8488159ced4a63e5aae4] for using or developing for any purpose, and dealing with, any land within or in the vicinity of the harbour,
+- (b) form, invest in and promote, or join with another person in forming, investing in and promoting, a company[^c-93e443bf8a8b8488159ced4a63e5aae4] for using or developing for any purpose, and dealing with, any land within or in the vicinity of the harbour,
 
 provided that it is conducive to the improvement, maintenance or management of the harbour in an efficient and economical manner.
 
-(2) Except as is otherwise provided by any enactment or rule of law, the powers of the company[^key-c1aff3ab78ab827aeb6c83d5306993fa] referred to in paragraph (1)(b) may include powers to do anything necessary or expedient for the purposes of the objects mentioned in that paragraph or for purposes incidental to those purposes, notwithstanding that the Council would not itself have the power to do that thing.
+(2) Except as is otherwise provided by any enactment or rule of law, the powers of the company[^c-c1aff3ab78ab827aeb6c83d5306993fa] referred to in paragraph (1)(b) may include powers to do anything necessary or expedient for the purposes of the objects mentioned in that paragraph or for purposes incidental to those purposes, notwithstanding that the Council would not itself have the power to do that thing.
 
-### 30. Powers to grant tenancies and to dispose of land[^key-9b512ae5dd85100c263e657f1234d93f]
+### 30. Powers to grant tenancies and to dispose of land[^c-9b512ae5dd85100c263e657f1234d93f]
 
 (1) The Council may, for the purposes of or in connection with the carrying on of the harbour undertaking, lease or grant the use or occupation of, or any right or interest in or over, any lands, works, buildings, machinery, equipment or other property forming part of the harbour for such period, at such rents and other considerations and on such terms and conditions as it thinks fit.
 
@@ -492,7 +492,7 @@ provided that it is conducive to the improvement, maintenance or management of t
 
 (3) The powers conferred in this article in relation to the Inner Harbour North may be exercised by the Council in respect of the Inner Harbour North, in addition to and not subject to the restrictions contained in the Order of 1996.
 
-### 31. Power to appropriate lands and works for particular uses, etc.[^key-f49eefa6257e28d96918c78f8317d6ba]
+### 31. Power to appropriate lands and works for particular uses, etc.[^c-f49eefa6257e28d96918c78f8317d6ba]
 
 (1) Notwithstanding anything in any statutory provision of local application the Council may from time to time for the purpose of or in connection with the management of the harbour set apart and appropriate any part of the harbour for the time being vested in, or occupied or administered by the Council as part of the harbour undertaking for the exclusive, partial or preferential use and accommodation of any particular trade, person, vessel or class of vessels, or goods, subject to the payment of such charges and subject to such terms, conditions and regulations as the Council may think fit.
 
@@ -501,26 +501,26 @@ provided that it is conducive to the improvement, maintenance or management of t
 - (a) the harbour master, or as the case may be, such officer, may order any person or vessel making use of the harbour without such consent to leave or be removed; and
 - (b) the provisions of section 58 (Powers of harbour master as to mooring of vessels in harbour) of the Act of 1847 shall extend and apply with the necessary modifications to and in relation to such vessels.
 
-### 32. Other commercial activities[^key-fdff66a22ccdfba2e14a2007094326fe]
+### 32. Other commercial activities[^c-fdff66a22ccdfba2e14a2007094326fe]
 
 (1) The Council may, in addition to any other powers conferred on the Council—
 
 - (a) carry on at any place a trade or business of any kind including a trade or business carried on in conjunction with another person; or
-- (b) form, invest in and promote, or join with another person in forming, investing in and promoting, a company[^key-69c67d591d55a967e706e03fa6dfc40c], for carrying on any part of the harbour undertaking or carrying on at any place a trade or business of any kind,
+- (b) form, invest in and promote, or join with another person in forming, investing in and promoting, a company[^c-69c67d591d55a967e706e03fa6dfc40c], for carrying on any part of the harbour undertaking or carrying on at any place a trade or business of any kind,
 
 provided that it is conducive to the improvement maintenance or management of the harbour in an efficient and economical manner.
 
-(2) Except as is otherwise provided by any enactment or rule of law, the powers of a company[^key-28438ba966c7c53c454a2fdc83221b9c] referred to in paragraph (1)(b) may include powers to do anything necessary or expedient for the purposes of the objects mentioned in that paragraph or for purposes incidental to those purposes, notwithstanding that the Council would not itself have the power to do that thing.
+(2) Except as is otherwise provided by any enactment or rule of law, the powers of a company[^c-28438ba966c7c53c454a2fdc83221b9c] referred to in paragraph (1)(b) may include powers to do anything necessary or expedient for the purposes of the objects mentioned in that paragraph or for purposes incidental to those purposes, notwithstanding that the Council would not itself have the power to do that thing.
 
 (3) The powers of the Council under this article are additional to the powers of the Council under section 37 (Powers of harbour authorities to acquire a harbour business or shares in a harbour business) of the Docks and Harbours Act 1966[^f00026].
 
-### 33. Power to delegate functions[^key-7528298807209793800d7e971219df04]
+### 33. Power to delegate functions[^c-7528298807209793800d7e971219df04]
 
 Subject to paragraph 9B of Schedule 2 to the Act of 1964[^f00027] (functions which cannot be delegated under a power conferred by a harbour revision order), the Council may delegate the performance of any of its functions to be carried out by any such Company as is referred to in article 32(1)(b).
 
-### 34. Moorings[^key-4cb9d4a823e8cc7e5cff444ae37f508c]
+### 34. Moorings[^c-4cb9d4a823e8cc7e5cff444ae37f508c]
 
-(1)[^key-6d3046dc05217547106acef0c5de241f] The Council may provide, place, lay down, maintain, retain, renew, use, have and remove moorings within the harbour—
+(1)[^c-6d3046dc05217547106acef0c5de241f] The Council may provide, place, lay down, maintain, retain, renew, use, have and remove moorings within the harbour—
 
 - (a) on land owned or leased by it; and
 - (b) with the consent in writing of the owner and lessee, on any other land in the harbour.
@@ -537,7 +537,7 @@ Subject to paragraph 9B of Schedule 2 to the Act of 1964[^f00027] (functions whi
 
 (7) Subject to paragraphs (8) and (9) the Council may from time to time grant to a person with or without conditions a licence to place, lay down, maintain, renew, use and have existing and future moorings, for vessels in the harbour.
 
-(8) Nothing in any licence granted under paragraph (7) shall entitle a person to place, lay down, maintain, renew or use and have any mooring on land not owned or leased by them or by the Council or in which they have no [^key-b07971dfc830094734e786c98f0cdff6]... interest.
+(8) Nothing in any licence granted under paragraph (7) shall entitle a person to place, lay down, maintain, renew or use and have any mooring on land not owned or leased by them or by the Council or in which they have no [^c-b07971dfc830094734e786c98f0cdff6]... interest.
 
 (9) A licence granted under paragraph (7) shall be valid only for a period of a maximum of one year commencing with the date on which it is granted.
 
@@ -556,11 +556,11 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (13) In this article “**mooring**” includes any buoy, pile, post, chain, pillar or like apparatus or convenience used for the mooring of vessels.
 
-### 35. Bunkering[^key-40b87228377ab05967ad68b149a613dd]
+### 35. Bunkering[^c-40b87228377ab05967ad68b149a613dd]
 
 (1) The Council may from time to time grant to a person with or without conditions a licence to carry out commercial refuelling activities related to vessels in the harbour.
 
-(2) Nothing in any licence granted under paragraph (1) shall entitle a person to carry out commercial refuelling activities from on land not owned or leased by them or by the Council or in which they have no [^key-bef1cdc3551301f381ff1b0b51500388]... interest.
+(2) Nothing in any licence granted under paragraph (1) shall entitle a person to carry out commercial refuelling activities from on land not owned or leased by them or by the Council or in which they have no [^c-bef1cdc3551301f381ff1b0b51500388]... interest.
 
 (3) Any licence granted under paragraph (1) shall be valid only for a period of one year commencing with the date on which it is granted.
 
@@ -568,17 +568,17 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (5) Any person who without reasonable excuse carries out or permits a commercial refuelling activity related to a vessel in the harbour except in accordance with a licence issued by the Council under this article, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 36. Aids to navigation[^key-d2c6c96c2e272a3d7e1f231bee23131f]
+### 36. Aids to navigation[^c-d2c6c96c2e272a3d7e1f231bee23131f]
 
 (1) In addition to its powers under section 201 of the Merchant Shipping Act 1995 (powers of harbour authorities as local lighthouse authorities) but subject to obtaining any necessary interest in or over land, the Council may erect or place, alter, discontinue or remove aids to navigation in any place adjacent to the harbour.
 
 (2) The Council shall not exercise the powers of paragraph (1) above without the approval of the Trinity House.
 
-### 37. Power to dredge[^key-9d23fb1702619bd97e160cc615e11407]
+### 37. Power to dredge[^c-9d23fb1702619bd97e160cc615e11407]
 
 The Council, as may appear to it to be necessary or desirable for the purposes of the harbour undertaking, may deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the harbour and the approaches thereto, and it may use, appropriate or dispose of the materials (other than “wreck” within the meaning of Part IX of the Merchant Shipping Act 1995) from time to time dredged by it.
 
-### 38. Repair of landing places, etc.[^key-fdb0cbea1cec8d5c3de85887ac0a2f7c]
+### 38. Repair of landing places, etc.[^c-fdb0cbea1cec8d5c3de85887ac0a2f7c]
 
 (1) In this article, “**relevant feature**” means any landing place, jetty, wall, embankment, bridge, structure or other work in the harbour or on land immediately adjoining the waters of the harbour other than a relevant feature under the control or management of the Council.
 
@@ -602,7 +602,7 @@ The Council, as may appear to it to be necessary or desirable for the purposes o
 
 (8) On an appeal under paragraph (5) above, the Secretary of State shall either quash the notice, modify its requirements or dismiss the appeal.
 
-### 39. Power with respect to disposal of wrecks[^key-c4d42d61f24f3c01a226ca57cb60e92d]
+### 39. Power with respect to disposal of wrecks[^c-c4d42d61f24f3c01a226ca57cb60e92d]
 
 (1) In its application to the Council, section 252 of the Merchant Shipping Act 1995 (powers of harbour and conservancy authorities in relation to wrecks) has effect in relation to the harbour and its approaches in relation to a vessel sunk, stranded or abandoned before, as well as after, the coming into force of this Order.
 
@@ -618,17 +618,17 @@ The Council, as may appear to it to be necessary or desirable for the purposes o
 
 (7) The powers conferred on the Council by this article shall be in addition to and not in derogation of any other powers exercisable by it for or with respect to the removal of wrecks within the harbour and its approaches.
 
-### 40. Powers to deal with unserviceable vessels[^key-acb1397c5a85b91b3cc4d60933dff9b2]
+### 40. Powers to deal with unserviceable vessels[^c-acb1397c5a85b91b3cc4d60933dff9b2]
 
 (1) In addition to the powers conferred on the harbour master by section 57 of the Act of 1847 (unserviceable vessels to be altogether removed from the harbour) and on the Council by section 252 of the Merchant Shipping Act 1995 (Powers of harbour and conservancy authorities in relation to wrecks) the Council may sell, break up or otherwise dispose of any vessel which is unserviceable and has been laid by or neglected in the harbour or on land immediately adjoining the harbour.
 
-(2) The Council may retain out of the proceeds of sale of such vessel, or any part of such proceeds, any expenses incurred by it in respect of the vessel, or in marking, buoying, lighting or otherwise controlling the vessel or warning shipping of its presence and any expenses incurred by the harbour master under section 57 on the Act of 1847 and shall pay the surplus, if any, to the person [^key-11b6999af31c6e1b03c29a703fb6a7b6]... entitled to that surplus.
+(2) The Council may retain out of the proceeds of sale of such vessel, or any part of such proceeds, any expenses incurred by it in respect of the vessel, or in marking, buoying, lighting or otherwise controlling the vessel or warning shipping of its presence and any expenses incurred by the harbour master under section 57 on the Act of 1847 and shall pay the surplus, if any, to the person [^c-11b6999af31c6e1b03c29a703fb6a7b6]... entitled to that surplus.
 
 (3) If the proceeds of the sale are insufficient to reimburse the Council for the said expenses, or there is no sale, the Council may recover the deficiency, or where there is no sale, the whole of the expenses, from the owner as a simple contract debt.
 
 (4) Except in the case of emergency, the Council shall, before exercising its powers under this article, give 14 days’ notice in writing of its intention to do so to the registered owner of the vessel and by advertisement in each of two successive weeks in a local newspaper circulating in the area of the harbour, provided that, if the registered owner or their place of business or address is not known to the Council or is outside of the United Kingdom, the notice may be given by displaying it at the principal office of the Council and electronically on the Council’s website for two successive weeks.
 
-### 41. Removal of obstructions other than vessels[^key-1612a7bb9dfc8f44be15cd9aa3712186]
+### 41. Removal of obstructions other than vessels[^c-1612a7bb9dfc8f44be15cd9aa3712186]
 
 (1) The Council may remove anything, other than a vessel, causing or likely to become an obstruction to, or cause interference with, navigation in any part of the harbour or any approach to the harbour.
 
@@ -652,18 +652,18 @@ The Council, as may appear to it to be necessary or desirable for the purposes o
 - (a) shall be paid to any person who within 24 months from the time when the property came into the custody of the Council proves to the reasonable satisfaction of the Council that they were the owner at that time; or
 - (b) if within the said period no person proves their ownership at the said time, shall vest in the Council.
 
-(7)[^key-05012b4c2f914baf211be6dc38cc6782] If the proceeds of sale of anything removed under this article are insufficient to reimburse the Council for the expenses set out in paragraph (6), or there is no sale because the property is unsaleable, the Council may—
+(7)[^c-05012b4c2f914baf211be6dc38cc6782] If the proceeds of sale of anything removed under this article are insufficient to reimburse the Council for the expenses set out in paragraph (6), or there is no sale because the property is unsaleable, the Council may—
 
 - (a) recover the deficiency; or
 - (b) where there is no sale, the whole of the expenses,
 
 from the person who was the owner at the time when the property removed came into the custody of the Council or who was the owner at the time of its abandonment of loss.
 
-### 42. Saving for Trinity House[^key-d393d10dd49f92360f04bdec5cdb6b78]
+### 42. Saving for Trinity House[^c-d393d10dd49f92360f04bdec5cdb6b78]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of Trinity House.
 
-### 43. Notices[^key-1af3298c2467b6e9f5790b05b19db66f]
+### 43. Notices[^c-1af3298c2467b6e9f5790b05b19db66f]
 
 (1) Except where this Order expressly provides otherwise, a notice or other document required or authorised to be given for the purposes of this Order, or any direction given under this Order, must be in writing and be sent by first class post.
 
@@ -684,7 +684,7 @@ Nothing in this Order shall prejudice or derogate from any of the rights, duties
 - (b) in the case of a notice or document relating to a vessel (including a wreck), it may be given by exhibiting it in a conspicuous position on or near the vessel (unless it would not be reasonably practicable to exhibit the notice or document in this manner or if the notice or document would not be likely to be seen if it were so exhibited) or by handing it to a member of the crew; and
 - (c) in the case of any other notice or document or a notice or document that is not capable of being given pursuant to sub-paragraph (b) it may be given by displaying it at the office of the harbour master for the period of its duration.
 
-### 44. Crown Rights[^key-3692494b273614c9bb297fcaaaad37ef]
+### 44. Crown Rights[^c-3692494b273614c9bb297fcaaaad37ef]
 
 (1) Nothing in this Order shall—
 
@@ -695,11 +695,11 @@ Nothing in this Order shall prejudice or derogate from any of the rights, duties
 
 (2) A consent under paragraph (1)(b) may be given unconditionally or subject to such conditions and upon such terms as may be considered necessary or appropriate.
 
-### 45. Saving for existing Byelaws etc.[^key-6db03aa3fc9dde7ffc0d43fb35547b0f]
+### 45. Saving for existing Byelaws etc.[^c-6db03aa3fc9dde7ffc0d43fb35547b0f]
 
 Any byelaw, regulation, licence, lease, consent or other agreement made, issued, entered into or granted by the Council in relation to the harbour undertaking and in force immediately on or before the date on which this Order comes into force, shall, notwithstanding the repeals and amendments set out in articles 46, 47 and Schedule 2 of this Order, continue to have effect.
 
-### 46. Amendment of the Acts of 1854, 1879, 1887, 1914 and Orders of 1930 and 1988[^key-ecd701e2a26f9f23bc8bda2c872b4724]
+### 46. Amendment of the Acts of 1854, 1879, 1887, 1914 and Orders of 1930 and 1988[^c-ecd701e2a26f9f23bc8bda2c872b4724]
 
 (1) the Act of 1854 is amended as follows—
 
@@ -750,7 +750,7 @@ For Article 11 substitute “Section 7 of the Act of 1914 and Articles 6 to 10 (
 - (a) in Article 2 for the definition of “the Harbour” substitute “**the Harbour**” means the area described in article 6(1) of the Weymouth Harbour Revision Order 2021, and
 - (b) The plan deposited in connection with the Order of 1988 (therein called the “signed plan”) shall be treated as being amended accordingly.
 
-### 47. Revocation and Repeal[^key-1ab0fc4afe1d8fc2c219bfeb408f4256]
+### 47. Revocation and Repeal[^c-1ab0fc4afe1d8fc2c219bfeb408f4256]
 
 On the date of this Order the enactments mentioned in the first and second columns of the Schedule 2 to this Order shall be revoked or repealed (as appropriate) to the extent specified in the third column of that Schedule.
 
@@ -770,65 +770,65 @@ SCHEDULES
 
 Article 20
 
-**1.**[^key-41788b0f386a9e5903380dec492ca7a4] regulating the use of any works and facilities provided by the Council;
+**1.**[^c-41788b0f386a9e5903380dec492ca7a4] regulating the use of any works and facilities provided by the Council;
 
-**2.**[^key-5367c249ceb187220d2fde4f7bdf04f8] preventing damage or injury to any vessel, goods, vehicle, plant, machinery, property or persons within the harbour and to any aids to navigation which are used in connection with the harbour;
+**2.**[^c-5367c249ceb187220d2fde4f7bdf04f8] preventing damage or injury to any vessel, goods, vehicle, plant, machinery, property or persons within the harbour and to any aids to navigation which are used in connection with the harbour;
 
-**3.**[^key-a70f13df88ca5247ba78f1db45be8cc0] regulating the conduct of all persons within the harbour, not being—
+**3.**[^c-a70f13df88ca5247ba78f1db45be8cc0] regulating the conduct of all persons within the harbour, not being—
 
 - (a) members of a police force;
 - (b) officers or servants of the Crown; or
 - (c) members of a fire brigade, whilst in the exercise of their duties as such;
 
-**4.**[^key-c0f5d8ad7a9b9c7b135d47aaa8873773] regulating the placing, maintenance and use of moorings within the harbour;
+**4.**[^c-c0f5d8ad7a9b9c7b135d47aaa8873773] regulating the placing, maintenance and use of moorings within the harbour;
 
-**5.**[^key-eb603440726b58e7da24fd554a861fde] preventing and removing obstructions or impediments within the harbour or the harbour premises;
+**5.**[^c-eb603440726b58e7da24fd554a861fde] preventing and removing obstructions or impediments within the harbour or the harbour premises;
 
-**6.**[^key-e04b20a7a5fadf504b3b04e2cf189040] regulating the launching of vessels into the harbour and /or from the harbour premises;
+**6.**[^c-e04b20a7a5fadf504b3b04e2cf189040] regulating the launching of vessels into the harbour and /or from the harbour premises;
 
-**7.**[^key-7a0f6b34ef75fcce4d722531b9c09565] regulating or prohibiting the use in the harbour or on board any vessel therein of fires, lights, tobacco or any other substance, equipment, tools or appliances which the Council considers involves a risk of fire, explosion or chemical reaction;
+**7.**[^c-7a0f6b34ef75fcce4d722531b9c09565] regulating or prohibiting the use in the harbour or on board any vessel therein of fires, lights, tobacco or any other substance, equipment, tools or appliances which the Council considers involves a risk of fire, explosion or chemical reaction;
 
-**8.**[^key-8b56b6eba21a5d9acaaa620e7cf4fd28] prohibiting the use of or regulating the use, movement, speed, placing, loading, unloading, driving and parking of vehicles within the harbour premises;
+**8.**[^c-8b56b6eba21a5d9acaaa620e7cf4fd28] prohibiting the use of or regulating the use, movement, speed, placing, loading, unloading, driving and parking of vehicles within the harbour premises;
 
-**9.**[^key-237504534fa6ee0da3ffbca1f71489b8] requiring the use of silencers or other similar apparatus, and the control of noise generally on vessels in the harbour;
+**9.**[^c-237504534fa6ee0da3ffbca1f71489b8] requiring the use of silencers or other similar apparatus, and the control of noise generally on vessels in the harbour;
 
-**10.**[^key-f1142b30b6f2fac7ddfe6724020bf979] regulating the navigation of vessels in the harbour and their entry into and departure therefrom and, without prejudice to the generality of the foregoing, for prescribing rules for regulating the speed and manner of navigation and the lights and signals to be exhibited or made by, or for the benefit of, vessels using, navigating or mooring within the harbour;
+**10.**[^c-f1142b30b6f2fac7ddfe6724020bf979] regulating the navigation of vessels in the harbour and their entry into and departure therefrom and, without prejudice to the generality of the foregoing, for prescribing rules for regulating the speed and manner of navigation and the lights and signals to be exhibited or made by, or for the benefit of, vessels using, navigating or mooring within the harbour;
 
-**11.**[^key-b1e2de55de9d9e136cc2bf5484578093] regulating the embarkation of persons on, or their disembarkation from, vessels within the harbour;
+**11.**[^c-b1e2de55de9d9e136cc2bf5484578093] regulating the embarkation of persons on, or their disembarkation from, vessels within the harbour;
 
-**12.**[^key-d3b35166572cb0f753729d4a40cfa0cd] prescribing the lights and signals to be exhibited or made—
+**12.**[^c-d3b35166572cb0f753729d4a40cfa0cd] prescribing the lights and signals to be exhibited or made—
 
 - (a) by vessels aground within the harbour;
 - (b) by vessels or other devices used for marking obstructions within the harbour; and
 - (c) at the entrance to any dock or at any wharf, pier or other work for assisting the navigation of vessels within the harbour;
 
-**13.**[^key-d15e27def12931a899ee801386d5d4c2] prohibiting or regulating the discharge into the harbour of any material or substance;
+**13.**[^c-d15e27def12931a899ee801386d5d4c2] prohibiting or regulating the discharge into the harbour of any material or substance;
 
-**14.**[^key-97f797ac162820fc05320a705d25da7d] regulating or prohibiting fishing for marine creatures of any type and by whatever means from any pier, jetty, wharf, breakwater or other installation or structure of any kind within the harbour, from any vessel within the harbour or from the foreshore where such fishing interferes with the operation of the port or the safety of navigation in the harbour;
+**14.**[^c-97f797ac162820fc05320a705d25da7d] regulating or prohibiting fishing for marine creatures of any type and by whatever means from any pier, jetty, wharf, breakwater or other installation or structure of any kind within the harbour, from any vessel within the harbour or from the foreshore where such fishing interferes with the operation of the port or the safety of navigation in the harbour;
 
-**15.**[^key-10176b5769070bda685ed08be66c0a95] regulating or prohibiting bathing within the harbour;
+**15.**[^c-10176b5769070bda685ed08be66c0a95] regulating or prohibiting bathing within the harbour;
 
-**16.**[^key-a8662de4e0a6320920c31a641fc89bc2] regulating or prohibiting the use by vehicles of the foreshore within the harbour premises;
+**16.**[^c-a8662de4e0a6320920c31a641fc89bc2] regulating or prohibiting the use by vehicles of the foreshore within the harbour premises;
 
-**17.**[^key-822356dc0bcab40a29944c684f230fe7] regulating the berthing, mooring and anchoring of vessels in any part of the harbour and regulating the careening and beaching of vessels within the harbour;
+**17.**[^c-822356dc0bcab40a29944c684f230fe7] regulating the berthing, mooring and anchoring of vessels in any part of the harbour and regulating the careening and beaching of vessels within the harbour;
 
-**18.**[^key-38180adee49122d103a46edb909d38d0] regulating the use within the harbour of yachts, sailing boats, rowing boats, pleasure craft, windsurfers, kitesurfers, jet bikes, jet kayaks, flyboards, other personal watercraft and other small craft;
+**18.**[^c-38180adee49122d103a46edb909d38d0] regulating the use within the harbour of yachts, sailing boats, rowing boats, pleasure craft, windsurfers, kitesurfers, jet bikes, jet kayaks, flyboards, other personal watercraft and other small craft;
 
-**19.**[^key-513aa54170a2a8a5a4eddf873f096cfe] regulating or prohibiting the activities within the harbour of divers, surfers, underwater swimmers, water-skiers and other persons engaged in similar recreational pursuits (including those engaged on a commercial basis);
+**19.**[^c-513aa54170a2a8a5a4eddf873f096cfe] regulating or prohibiting the activities within the harbour of divers, surfers, underwater swimmers, water-skiers and other persons engaged in similar recreational pursuits (including those engaged on a commercial basis);
 
-**20.**[^key-3c46c728ca152989937a94d21b17b8c7] regulating the conveyance to and the laying down at or on the harbour premises of all goods intended for shipment;
+**20.**[^c-3c46c728ca152989937a94d21b17b8c7] regulating the conveyance to and the laying down at or on the harbour premises of all goods intended for shipment;
 
-**21.**[^key-c0b21035e1b49f16b030ef54bd027ab2] regulating the control of animals within the harbour;
+**21.**[^c-c0b21035e1b49f16b030ef54bd027ab2] regulating the control of animals within the harbour;
 
-**22.**[^key-68d722b7b78826ec03b99b41eabcb29d] preventing the disposal of any waste matter except at places or in a manner prescribed by the Council;
+**22.**[^c-68d722b7b78826ec03b99b41eabcb29d] preventing the disposal of any waste matter except at places or in a manner prescribed by the Council;
 
-**23.**[^key-4d2d9d48e63d2886b47c194582cc5a42] regulating the conveyance, landing, laying down, discharge and removal of goods, gear, equipment, timber, logs, floats, or rafts of timber and other items within the harbour or the harbour premises;
+**23.**[^c-4d2d9d48e63d2886b47c194582cc5a42] regulating the conveyance, landing, laying down, discharge and removal of goods, gear, equipment, timber, logs, floats, or rafts of timber and other items within the harbour or the harbour premises;
 
-**24.**[^key-e766058f524b7ddb783287e5529270b3] regulating the exercise of the powers vested in the harbour master; and
+**24.**[^c-e766058f524b7ddb783287e5529270b3] regulating the exercise of the powers vested in the harbour master; and
 
-**25.**[^key-406d92adf3b7bd2e0e561ce02830f8df] for the purposes specified in section 83 of the Act of 1847 (Byelaws may be made for all or any of the purposes herein named).
+**25.**[^c-406d92adf3b7bd2e0e561ce02830f8df] for the purposes specified in section 83 of the Act of 1847 (Byelaws may be made for all or any of the purposes herein named).
 
-## SCHEDULE 2 — REVOCATION/REPEAL[^key-85f8aadff335e695c1576bfac73da733]
+## SCHEDULE 2 — REVOCATION/REPEAL[^c-85f8aadff335e695c1576bfac73da733]
 
 Article 47
 
@@ -849,20 +849,20 @@ Table
 | 20 & 21 Geo. 5. c. cxlii. | Pier and Harbour Orders Confirmation (No. 2) Act 1930 | Articles 9, 10, 12 and 16 of the Weymouth and Melcombe Regis Harbour Order 1930 |
 | [S.I. 1993/1027](https://www.legislation.gov.uk/uksi/1993/1027) | The Weymouth and Portland Harbour Revision Order 1993 | Whole Order |
 
-## SCHEDULE 3 — ACTS AND ORDERS[^key-af74c8b6f2522816065631507e1cde6f]
+## SCHEDULE 3 — ACTS AND ORDERS[^c-af74c8b6f2522816065631507e1cde6f]
 
 Article 2
 
-[^key-af74c8b6f2522816065631507e1cde6f]
+[^c-af74c8b6f2522816065631507e1cde6f]
 
-- The Weymouth Harbour and Melcombe Regis Markets and Pier[^key-61ef53c2ec33c031d8f3d22cee44fbb8] Act 1854
-- [^key-ab42c3c7ef4a43404a58a944bfcbf68e]... Weymouth and Melcombe Regis Markets and Pier Amendment[^key-ce637a407f5a5b5aedadf0dc4e75f97f] Act 1859
+- The Weymouth Harbour and Melcombe Regis Markets and Pier[^c-61ef53c2ec33c031d8f3d22cee44fbb8] Act 1854
+- [^c-ab42c3c7ef4a43404a58a944bfcbf68e]... Weymouth and Melcombe Regis Markets and Pier Amendment[^c-ce637a407f5a5b5aedadf0dc4e75f97f] Act 1859
 - Weymouth and Melcombe Regis Bridge Act 1879
 - Weymouth and Melcombe Regis Corporation Act 1887
-- The[^key-890a91ff5fc3db9a642ac2f85f6e5aa1] Weymouth and Melcombe Regis Corporation Act 1914
+- The[^c-890a91ff5fc3db9a642ac2f85f6e5aa1] Weymouth and Melcombe Regis Corporation Act 1914
 - Weymouth and Melcombe Regis Harbour Order 1925
 - Weymouth and Melcombe Regis Harbour Order 1930
-- Weymouth [^key-6fbcf42f5ccf2737d3d28548e25315e4]... Harbour Revision Order 1996
+- Weymouth [^c-6fbcf42f5ccf2737d3d28548e25315e4]... Harbour Revision Order 1996
 
 EXPLANATORY NOTE
 
@@ -908,9 +908,9 @@ An Explanatory Memorandum is available alongside the instrument on the UK legisl
 
 [^f00006]: Footnote: The Marine Management Organisation was established by section 1 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-b18d52c8604c232495dca55cbdb2d9d0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-b18d52c8604c232495dca55cbdb2d9d0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-8abb837dfa93ff8c1fa7f70dde05f338]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/43/article/2) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-8abb837dfa93ff8c1fa7f70dde05f338]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/43/article/2) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
 [^f00007]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -930,7 +930,7 @@ An Explanatory Memorandum is available alongside the instrument on the UK legisl
 
 [^f00015]: Footnote: [S.I. 1996/15](https://www.legislation.gov.uk/uksi/1996/15).
 
-[^key-7203e300ec8fad6cd23d403f75666dd9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/43/article/2/1) inserted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/2/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-7203e300ec8fad6cd23d403f75666dd9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/43/article/2/1) inserted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/2/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^f00016]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210), Schedule 1 paragraph 9(a).
 
@@ -938,202 +938,202 @@ An Explanatory Memorandum is available alongside the instrument on the UK legisl
 
 [^f00018]: Footnote: Dorset Council, County Hall, Colliton Park, Dorchester, Dorset, DT1 1XJ.
 
-[^key-026a487c284fa0b77f015b91af78c50f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/43/article/2/1) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/2/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-026a487c284fa0b77f015b91af78c50f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/43/article/2/1) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/2/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^f00019]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
 [^f00020]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74): section 1 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30.
 
-[^key-6d56d39ba497a988af47755b1adf70d0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/43/article/3) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-6d56d39ba497a988af47755b1adf70d0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/43/article/3) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-9c34a97251ef952ca77310da438fb477]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/43/article/4) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-9c34a97251ef952ca77310da438fb477]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/43/article/4) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-a61ac87d100ab39e813fe54561a95e45]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2021/43/article/4/2) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(3)](https://www.legislation.gov.uk/uksi/2026/62/article/54/3) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-a61ac87d100ab39e813fe54561a95e45]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2021/43/article/4/2) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(3)](https://www.legislation.gov.uk/uksi/2026/62/article/54/3) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^f00021]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-78ef27ba1e557d03a6cd836001e4e0b7]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/43/article/5) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-78ef27ba1e557d03a6cd836001e4e0b7]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/43/article/5) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-baf3ad69a0aee7d7b791143de2be49f7]: Textual amendment: Word in [art. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/43/article/5/2/b/ii) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(4)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/4/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-baf3ad69a0aee7d7b791143de2be49f7]: Textual amendment: Word in [art. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/43/article/5/2/b/ii) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(4)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/4/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-455e64372b38f1f1b26ae70fc55431b1]: Textual amendment: [Art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/43/article/5/2/c) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(4)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/4/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-455e64372b38f1f1b26ae70fc55431b1]: Textual amendment: [Art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/43/article/5/2/c) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(4)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/4/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-27960026df3ad9f24390e698141bee71]: Textual amendment: [Art. 5(2)(d)](https://www.legislation.gov.uk/uksi/2021/43/article/5/2/d) inserted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(4)(c)](https://www.legislation.gov.uk/uksi/2026/62/article/54/4/c) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-27960026df3ad9f24390e698141bee71]: Textual amendment: [Art. 5(2)(d)](https://www.legislation.gov.uk/uksi/2021/43/article/5/2/d) inserted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(4)(c)](https://www.legislation.gov.uk/uksi/2026/62/article/54/4/c) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^f00022]: Footnote: Available online at https://www.weymouth-harbour.co.uk/ or for inspection at Weymouth Harbour Office, 13 Custom Quay House, Weymouth, Dorset, DT4 8BG.
 
-[^key-7980a96018984d95dbe8c8f851900074]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/43/article/6) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-7980a96018984d95dbe8c8f851900074]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/43/article/6) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
 [^f00023]: Footnote: Weymouth Harbour Office, 13 Custom Quay House, Weymouth, Dorset, DT4 8BG.
 
 [^f00024]: Footnote: https://www.weymouth-harbour.co.uk/.
 
-[^key-f5efbf9f9d6af7ccdceaefc731865364]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/43/article/7) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-f5efbf9f9d6af7ccdceaefc731865364]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/43/article/7) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-dc63a95bd95ac9253add51da5a039c7b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2021/43/article/8) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-dc63a95bd95ac9253add51da5a039c7b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2021/43/article/8) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-8d0c51d8974cfbd9c2ea10d9e48aebe2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2021/43/article/9) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-8d0c51d8974cfbd9c2ea10d9e48aebe2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2021/43/article/9) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-287dd18278cad49d517cd7a12247c6be]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2021/43/article/10) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-287dd18278cad49d517cd7a12247c6be]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2021/43/article/10) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-7b22bcb9b2844c62491296a710184893]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2021/43/article/11) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-7b22bcb9b2844c62491296a710184893]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2021/43/article/11) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-55529167e1fe8e35d0f5556395231129]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2021/43/article/11) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(5)](https://www.legislation.gov.uk/uksi/2026/62/article/54/5) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-55529167e1fe8e35d0f5556395231129]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2021/43/article/11) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(5)](https://www.legislation.gov.uk/uksi/2026/62/article/54/5) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-bb5da4094468d79191651aba2a12f9ce]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2021/43/article/12) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-bb5da4094468d79191651aba2a12f9ce]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2021/43/article/12) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-82bd7d4922c127fa1364cfdbe2988652]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2021/43/article/13) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-82bd7d4922c127fa1364cfdbe2988652]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2021/43/article/13) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-75fe9d8bd9d60ce3eed4ab7c5728a089]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2021/43/article/14) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-75fe9d8bd9d60ce3eed4ab7c5728a089]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2021/43/article/14) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-32d3fa577a3da677adcb6cee218e4f19]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2021/43/article/15) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-32d3fa577a3da677adcb6cee218e4f19]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2021/43/article/15) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-978cbe0ccefa2ba49b03a85294d52abc]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2021/43/article/16) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-978cbe0ccefa2ba49b03a85294d52abc]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2021/43/article/16) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-04da768dae221fb5628061d5393b94f2]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2021/43/article/17) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-04da768dae221fb5628061d5393b94f2]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2021/43/article/17) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-8534a61ca4f0f87e7af54017c994c0eb]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2021/43/article/18) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-8534a61ca4f0f87e7af54017c994c0eb]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2021/43/article/18) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-0fac46bcb2ed97ec39abbf1fd5224ca8]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2021/43/article/19) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-0fac46bcb2ed97ec39abbf1fd5224ca8]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2021/43/article/19) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-fe761b11c50068fbb75656ff4d33349c]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2021/43/article/20) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-fe761b11c50068fbb75656ff4d33349c]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2021/43/article/20) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
 [^f00025]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-de42db1f222aa891b89ced56fc6b5050]: Textual amendment: [Arts. 21-23](https://www.legislation.gov.uk/uksi/2021/43/article/21) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(6)](https://www.legislation.gov.uk/uksi/2026/62/article/54/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/62/schedule/2) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-de42db1f222aa891b89ced56fc6b5050]: Textual amendment: [Arts. 21-23](https://www.legislation.gov.uk/uksi/2021/43/article/21) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(6)](https://www.legislation.gov.uk/uksi/2026/62/article/54/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/62/schedule/2) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-71b890c74ac0fc9bebadfd22fbdcaf03]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2021/43/article/24) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-71b890c74ac0fc9bebadfd22fbdcaf03]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2021/43/article/24) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-50dc80d01bc7694773fe9eaf6116dce3]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2021/43/article/25) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-50dc80d01bc7694773fe9eaf6116dce3]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2021/43/article/25) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-8ab74dbe4ab232ca4284020a68e462ca]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2021/43/article/26) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-8ab74dbe4ab232ca4284020a68e462ca]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2021/43/article/26) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-4d9501df2ffccd7b4db647008ca3f0ea]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2021/43/article/27) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-4d9501df2ffccd7b4db647008ca3f0ea]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2021/43/article/27) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-f1211dd1bfca7bc6fe42e6351b2484d0]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2021/43/article/28) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-f1211dd1bfca7bc6fe42e6351b2484d0]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2021/43/article/28) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-685733bd79f9d2a58867a867b208f991]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2021/43/article/29) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-685733bd79f9d2a58867a867b208f991]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2021/43/article/29) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-93e443bf8a8b8488159ced4a63e5aae4]: Textual amendment: Word in [art. 29(1)(b)](https://www.legislation.gov.uk/uksi/2021/43/article/29/1/b) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(7)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/7/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-93e443bf8a8b8488159ced4a63e5aae4]: Textual amendment: Word in [art. 29(1)(b)](https://www.legislation.gov.uk/uksi/2021/43/article/29/1/b) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(7)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/7/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-c1aff3ab78ab827aeb6c83d5306993fa]: Textual amendment: Word in [art. 29(2)](https://www.legislation.gov.uk/uksi/2021/43/article/29/2) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(7)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/7/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-c1aff3ab78ab827aeb6c83d5306993fa]: Textual amendment: Word in [art. 29(2)](https://www.legislation.gov.uk/uksi/2021/43/article/29/2) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(7)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/7/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-9b512ae5dd85100c263e657f1234d93f]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2021/43/article/30) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-9b512ae5dd85100c263e657f1234d93f]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2021/43/article/30) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-f49eefa6257e28d96918c78f8317d6ba]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2021/43/article/31) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-f49eefa6257e28d96918c78f8317d6ba]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2021/43/article/31) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-fdff66a22ccdfba2e14a2007094326fe]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2021/43/article/32) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-fdff66a22ccdfba2e14a2007094326fe]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2021/43/article/32) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-69c67d591d55a967e706e03fa6dfc40c]: Textual amendment: Word in [art. 32(1)(b)](https://www.legislation.gov.uk/uksi/2021/43/article/32/1/b) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(8)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/8/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-69c67d591d55a967e706e03fa6dfc40c]: Textual amendment: Word in [art. 32(1)(b)](https://www.legislation.gov.uk/uksi/2021/43/article/32/1/b) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(8)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/8/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-28438ba966c7c53c454a2fdc83221b9c]: Textual amendment: Word in [art. 32(2)](https://www.legislation.gov.uk/uksi/2021/43/article/32/2) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(8)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/8/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-28438ba966c7c53c454a2fdc83221b9c]: Textual amendment: Word in [art. 32(2)](https://www.legislation.gov.uk/uksi/2021/43/article/32/2) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(8)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/8/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
 [^f00026]: Footnote: [1966 c.28](https://www.legislation.gov.uk/ukpga/1966/28); section 37(3) was repealed by the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 4 (Part II).
 
-[^key-7528298807209793800d7e971219df04]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2021/43/article/33) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-7528298807209793800d7e971219df04]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2021/43/article/33) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
 [^f00027]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-4cb9d4a823e8cc7e5cff444ae37f508c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2021/43/article/34) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-4cb9d4a823e8cc7e5cff444ae37f508c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2021/43/article/34) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-6d3046dc05217547106acef0c5de241f]: Textual amendment: [Art. 34(1)](https://www.legislation.gov.uk/uksi/2021/43/article/34/1) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(9)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/9/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-6d3046dc05217547106acef0c5de241f]: Textual amendment: [Art. 34(1)](https://www.legislation.gov.uk/uksi/2021/43/article/34/1) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(9)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/9/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-b07971dfc830094734e786c98f0cdff6]: Textual amendment: Word in [art. 34(8)](https://www.legislation.gov.uk/uksi/2021/43/article/34/8) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(9)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/9/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-b07971dfc830094734e786c98f0cdff6]: Textual amendment: Word in [art. 34(8)](https://www.legislation.gov.uk/uksi/2021/43/article/34/8) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(9)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/9/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-40b87228377ab05967ad68b149a613dd]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2021/43/article/35) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-40b87228377ab05967ad68b149a613dd]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2021/43/article/35) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-bef1cdc3551301f381ff1b0b51500388]: Textual amendment: Word in [art. 35(2)](https://www.legislation.gov.uk/uksi/2021/43/article/35/2) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(10)](https://www.legislation.gov.uk/uksi/2026/62/article/54/10) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-bef1cdc3551301f381ff1b0b51500388]: Textual amendment: Word in [art. 35(2)](https://www.legislation.gov.uk/uksi/2021/43/article/35/2) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(10)](https://www.legislation.gov.uk/uksi/2026/62/article/54/10) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-d2c6c96c2e272a3d7e1f231bee23131f]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2021/43/article/36) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-d2c6c96c2e272a3d7e1f231bee23131f]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2021/43/article/36) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-9d23fb1702619bd97e160cc615e11407]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2021/43/article/37) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-9d23fb1702619bd97e160cc615e11407]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2021/43/article/37) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-fdb0cbea1cec8d5c3de85887ac0a2f7c]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2021/43/article/38) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-fdb0cbea1cec8d5c3de85887ac0a2f7c]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2021/43/article/38) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-c4d42d61f24f3c01a226ca57cb60e92d]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2021/43/article/39) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-c4d42d61f24f3c01a226ca57cb60e92d]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2021/43/article/39) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-acb1397c5a85b91b3cc4d60933dff9b2]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2021/43/article/40) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-acb1397c5a85b91b3cc4d60933dff9b2]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2021/43/article/40) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-11b6999af31c6e1b03c29a703fb6a7b6]: Textual amendment: Words in [art. 40(2)](https://www.legislation.gov.uk/uksi/2021/43/article/40/2) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(11)](https://www.legislation.gov.uk/uksi/2026/62/article/54/11) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-11b6999af31c6e1b03c29a703fb6a7b6]: Textual amendment: Words in [art. 40(2)](https://www.legislation.gov.uk/uksi/2021/43/article/40/2) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(11)](https://www.legislation.gov.uk/uksi/2026/62/article/54/11) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-1612a7bb9dfc8f44be15cd9aa3712186]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2021/43/article/41) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-1612a7bb9dfc8f44be15cd9aa3712186]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2021/43/article/41) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-05012b4c2f914baf211be6dc38cc6782]: Textual amendment: [Art. 41(7)](https://www.legislation.gov.uk/uksi/2021/43/article/41/7) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(12)](https://www.legislation.gov.uk/uksi/2026/62/article/54/12) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-05012b4c2f914baf211be6dc38cc6782]: Textual amendment: [Art. 41(7)](https://www.legislation.gov.uk/uksi/2021/43/article/41/7) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(12)](https://www.legislation.gov.uk/uksi/2026/62/article/54/12) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-d393d10dd49f92360f04bdec5cdb6b78]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2021/43/article/42) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-d393d10dd49f92360f04bdec5cdb6b78]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2021/43/article/42) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-1af3298c2467b6e9f5790b05b19db66f]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2021/43/article/43) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-1af3298c2467b6e9f5790b05b19db66f]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2021/43/article/43) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
 [^f00028]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-3692494b273614c9bb297fcaaaad37ef]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2021/43/article/44) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-3692494b273614c9bb297fcaaaad37ef]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2021/43/article/44) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-6db03aa3fc9dde7ffc0d43fb35547b0f]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2021/43/article/45) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-6db03aa3fc9dde7ffc0d43fb35547b0f]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2021/43/article/45) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-ecd701e2a26f9f23bc8bda2c872b4724]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2021/43/article/46) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-ecd701e2a26f9f23bc8bda2c872b4724]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2021/43/article/46) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-1ab0fc4afe1d8fc2c219bfeb408f4256]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2021/43/article/47) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-1ab0fc4afe1d8fc2c219bfeb408f4256]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2021/43/article/47) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-41788b0f386a9e5903380dec492ca7a4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/1) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-41788b0f386a9e5903380dec492ca7a4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/1) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-5367c249ceb187220d2fde4f7bdf04f8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/2) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-5367c249ceb187220d2fde4f7bdf04f8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/2) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-a70f13df88ca5247ba78f1db45be8cc0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/3) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-a70f13df88ca5247ba78f1db45be8cc0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/3) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-c0f5d8ad7a9b9c7b135d47aaa8873773]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/4) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-c0f5d8ad7a9b9c7b135d47aaa8873773]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/4) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-eb603440726b58e7da24fd554a861fde]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/5) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-eb603440726b58e7da24fd554a861fde]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/5) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-e04b20a7a5fadf504b3b04e2cf189040]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/6) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-e04b20a7a5fadf504b3b04e2cf189040]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/6) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-7a0f6b34ef75fcce4d722531b9c09565]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/7) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-7a0f6b34ef75fcce4d722531b9c09565]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/7) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-8b56b6eba21a5d9acaaa620e7cf4fd28]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/8) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-8b56b6eba21a5d9acaaa620e7cf4fd28]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/8) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-237504534fa6ee0da3ffbca1f71489b8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/9) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-237504534fa6ee0da3ffbca1f71489b8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/9) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-f1142b30b6f2fac7ddfe6724020bf979]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/10) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-f1142b30b6f2fac7ddfe6724020bf979]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/10) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-b1e2de55de9d9e136cc2bf5484578093]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/11) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-b1e2de55de9d9e136cc2bf5484578093]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/11) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-d3b35166572cb0f753729d4a40cfa0cd]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/12) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-d3b35166572cb0f753729d4a40cfa0cd]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/12) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-d15e27def12931a899ee801386d5d4c2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/13) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-d15e27def12931a899ee801386d5d4c2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/13) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-97f797ac162820fc05320a705d25da7d]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/14) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-97f797ac162820fc05320a705d25da7d]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/14) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-10176b5769070bda685ed08be66c0a95]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/15) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-10176b5769070bda685ed08be66c0a95]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/15) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-a8662de4e0a6320920c31a641fc89bc2]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/16) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-a8662de4e0a6320920c31a641fc89bc2]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/16) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-822356dc0bcab40a29944c684f230fe7]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/17) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-822356dc0bcab40a29944c684f230fe7]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/17) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-38180adee49122d103a46edb909d38d0]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/18) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-38180adee49122d103a46edb909d38d0]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/18) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-513aa54170a2a8a5a4eddf873f096cfe]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/19) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-513aa54170a2a8a5a4eddf873f096cfe]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/19) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-3c46c728ca152989937a94d21b17b8c7]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/20) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-3c46c728ca152989937a94d21b17b8c7]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/20) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-c0b21035e1b49f16b030ef54bd027ab2]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/21) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-c0b21035e1b49f16b030ef54bd027ab2]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/21) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-68d722b7b78826ec03b99b41eabcb29d]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/22) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-68d722b7b78826ec03b99b41eabcb29d]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/22) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-4d2d9d48e63d2886b47c194582cc5a42]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/23) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-4d2d9d48e63d2886b47c194582cc5a42]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/23) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-e766058f524b7ddb783287e5529270b3]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/24) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-e766058f524b7ddb783287e5529270b3]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/24) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-406d92adf3b7bd2e0e561ce02830f8df]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/25) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-406d92adf3b7bd2e0e561ce02830f8df]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2021/43/schedule/1/paragraph/25) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-85f8aadff335e695c1576bfac73da733]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/43/schedule/2) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-85f8aadff335e695c1576bfac73da733]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/43/schedule/2) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-af74c8b6f2522816065631507e1cde6f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
+[^c-af74c8b6f2522816065631507e1cde6f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) in force at 17.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/43/article/1)
 
-[^key-61ef53c2ec33c031d8f3d22cee44fbb8]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-61ef53c2ec33c031d8f3d22cee44fbb8]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(a)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/a) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-ab42c3c7ef4a43404a58a944bfcbf68e]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-ab42c3c7ef4a43404a58a944bfcbf68e]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(b)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/b) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-ce637a407f5a5b5aedadf0dc4e75f97f]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(c)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/c) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-ce637a407f5a5b5aedadf0dc4e75f97f]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) substituted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(c)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/c) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-890a91ff5fc3db9a642ac2f85f6e5aa1]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) inserted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(d)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/d) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-890a91ff5fc3db9a642ac2f85f6e5aa1]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) inserted (20.2.2026) by [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(d)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/d) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
 
-[^key-6fbcf42f5ccf2737d3d28548e25315e4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(e)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/e) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))
+[^c-6fbcf42f5ccf2737d3d28548e25315e4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/43/schedule/3) omitted (20.2.2026) by virtue of [The Lyme Regis, Bridport (West Bay) and Weymouth Harbour Revision Order 2026 (S.I. 2026/62)](https://www.legislation.gov.uk/uksi/2026/62), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/62/article/1/1), [54(13)(e)](https://www.legislation.gov.uk/uksi/2026/62/article/54/13/e) (with [arts. 30](https://www.legislation.gov.uk/uksi/2026/62/article/30), [51](https://www.legislation.gov.uk/uksi/2026/62/article/51), [52](https://www.legislation.gov.uk/uksi/2026/62/article/52))

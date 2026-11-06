@@ -38,7 +38,7 @@ as they think fit.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-(4) Where the Authority is given any notice under this section it shall forthwith send copies of the notice to the Ministers and Natural England[^key-21405bb3a27cffd4a19c97dc7781fb2a] .
+(4) Where the Authority is given any notice under this section it shall forthwith send copies of the notice to the Ministers and Natural England[^c-21405bb3a27cffd4a19c97dc7781fb2a] .
 
 (5) Any person authorised in writing by the Ministers may, at any reasonable time and (if required to do so) on producing evidence that he is authorised, enter any land for the purpose of assisting the Ministers in deciding whether or not to make an order under this section affecting that land.
 
@@ -52,4 +52,4 @@ as they think fit.
 
 ## Annotations
 
-[^key-21405bb3a27cffd4a19c97dc7781fb2a]: Textual amendment: Words in s. 5(4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 111](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/111); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-21405bb3a27cffd4a19c97dc7781fb2a]: Textual amendment: Words in s. 5(4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 111](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/111); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

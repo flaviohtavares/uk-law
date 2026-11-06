@@ -39,10 +39,10 @@ summary: ''
 - (a) may be designated by a delegation order under section 1252, and
 - (b) may accordingly exercise functions of the Secretary of State in pursuance of the order,
 
-despite any involvement of the body in the exercise of any functions under arrangements within [^key-a50e679f4e22db78360a7dd18dfc179f]... paragraph 1 or 2 of Schedule 12.
+despite any involvement of the body in the exercise of any functions under arrangements within [^c-a50e679f4e22db78360a7dd18dfc179f]... paragraph 1 or 2 of Schedule 12.
 
 ## Annotations
 
 [^c18959581]: Commencement: S. 1253 wholly in force at 6.4.2008; s. 1253 not in force at Royal Assent, see s. 1300; s. 1253 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); s. 1253 in force at 6.4.2008 by [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/1/u) (with savings in [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12), [Sch. 4 paras. 37-42](https://www.legislation.gov.uk/uksi/2007/3495/schedule/4/paragraph/37))
 
-[^key-a50e679f4e22db78360a7dd18dfc179f]: Textual amendment: Words in s. 1253(5) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 40(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/40/2)
+[^c-a50e679f4e22db78360a7dd18dfc179f]: Textual amendment: Words in s. 1253(5) omitted (17.6.2016) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 40(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/40/2)

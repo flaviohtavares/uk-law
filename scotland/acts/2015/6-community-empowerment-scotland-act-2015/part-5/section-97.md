@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Interpretation of Part 5[^key-f7c0e3b04a9ea292466ac260e5981f68]
+## 97. Interpretation of Part 5[^c-f7c0e3b04a9ea292466ac260e5981f68]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7c0e3b04a9ea292466ac260e5981f68]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2015/6/section/97) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-f7c0e3b04a9ea292466ac260e5981f68]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2015/6/section/97) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

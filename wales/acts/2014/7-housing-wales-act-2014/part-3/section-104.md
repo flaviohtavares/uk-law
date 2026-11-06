@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Failure to comply with duty under section 103[^key-37c7ba57949170f8e168db68a6fc3aa5]
+## 104. Failure to comply with duty under section 103[^c-37c7ba57949170f8e168db68a6fc3aa5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37c7ba57949170f8e168db68a6fc3aa5]: Commencement: [S. 104](https://www.legislation.gov.uk/anaw/2014/7/section/104) in force at 16.3.2016 by [S.I. 2016/266](https://www.legislation.gov.uk/wsi/2016/266), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/266/article/2/b)
+[^c-37c7ba57949170f8e168db68a6fc3aa5]: Commencement: [S. 104](https://www.legislation.gov.uk/anaw/2014/7/section/104) in force at 16.3.2016 by [S.I. 2016/266](https://www.legislation.gov.uk/wsi/2016/266), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/266/article/2/b)

@@ -49,7 +49,7 @@ In exercise of the powers conferred on the Secretary of State by sections 316A(2
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-a668932f5265a6325a5207f40d80f0a6]
+### 1. Citation and commencement[^c-a668932f5265a6325a5207f40d80f0a6]
 
 (1) These Regulations may be cited as the Education (Special Educational Needs) (England) (Consolidation) Regulations 2001.
 
@@ -57,7 +57,7 @@ In exercise of the powers conferred on the Secretary of State by sections 316A(2
 
 (3) These Regulations apply only in relation to England.
 
-### 2. Interpretation[^key-8c5193dc18503ed64d79acdf63e26bb0]
+### 2. Interpretation[^c-8c5193dc18503ed64d79acdf63e26bb0]
 
 (1) In these Regulations—
 
@@ -108,18 +108,18 @@ In exercise of the powers conferred on the Secretary of State by sections 316A(2
 - (c) to a regulation are references to a regulation in these Regulations;
 - (d) to a paragraph are references to a paragraph in the regulation concerned.
 
-### 3. Delegation of functions[^key-3ec07c4f6acc877d9eea2b40d27a51f6]
+### 3. Delegation of functions[^c-3ec07c4f6acc877d9eea2b40d27a51f6]
 
 Where a head teacher has any functions or duties under these Regulations he may delegate those functions or duties—
 
 - (a) generally to a member of the staff of the school who is a qualified teacher, or
 - (b) in a particular case to a member of the staff of the school who teaches the child in question.
 
-### 4. Notices[^key-9e009efc5b64fbde2f534e5e48738a1b]
+### 4. Notices[^c-9e009efc5b64fbde2f534e5e48738a1b]
 
 Any notice required to be given by these Regulations shall be given in writing.
 
-### 5. Service of documents[^key-0737e130308b40320a62b75da41613c1]
+### 5. Service of documents[^c-0737e130308b40320a62b75da41613c1]
 
 (1) Where any provision in Part IV of the Act or in these Regulations authorises or requires any document to be served or sent to a person or any notice to be given to a person the document may be served or sent or the notice may be given by properly addressing, pre-paying and posting a letter containing the document or notice.
 
@@ -137,7 +137,7 @@ Any notice required to be given by these Regulations shall be given in writing.
 
 ## PART II — ASSESSMENTS
 
-### 6. Notices relating to assessment[^key-8ff1270dc414cc452b2c7ef3e653d001]
+### 6. Notices relating to assessment[^c-8ff1270dc414cc452b2c7ef3e653d001]
 
 (1) Paragraph (2) applies where—
 
@@ -172,7 +172,7 @@ the authority shall give notice to the persons referred to in paragraph (2)(a) t
 - (a) choose not to serve a notice on the head teacher or head of SEN under paragraph (5)(b), and
 - (b) endorse the notice served on the responsible body under section 329A(7) or serve a further notice accompanying that notice informing the head teacher of the school or the head of SEN in relation to the early education provider of the help the authority are likely to request.
 
-### 7. Advice to be sought[^key-3fb933003ce31d139b2afdef92731730]
+### 7. Advice to be sought[^c-3fb933003ce31d139b2afdef92731730]
 
 (1) For the purpose of making an assessment an authority shall seek—
 
@@ -203,7 +203,7 @@ under section 323(1)(d) or section 329A(3)(d) as the case may be.
 - (a) the authority have obtained advice under paragraph (1)(b), (c ), (d), (e) or (f) respectively within the preceding 12 months, and
 - (b) the authority, the person from whom the advice was obtained and the child’s parent are satisfied that the existing advice is sufficient for the purpose of arriving at a satisfactory assessment.
 
-### 8. Educational Advice[^key-7d5848647fafb7c998f1fc6e63665e72]
+### 8. Educational Advice[^c-7d5848647fafb7c998f1fc6e63665e72]
 
 (1) The educational advice referred to in regulation 7(1)(b) shall, subject to paragraphs (2) to (5), be sought—
 
@@ -234,11 +234,11 @@ and any such person from whom advice is sought as provided in paragraph (1) is n
 
 (9) Paragraphs (4) and (7) are without prejudice to regulation 7(3).
 
-### 9. Medical advice[^key-5447d26fa65e4825514eb74cb40d333c]
+### 9. Medical advice[^c-5447d26fa65e4825514eb74cb40d333c]
 
 The advice referred to in regulation 7(1)(c) shall be sought from the health authority, who shall obtain the advice from a fully registered medical practitioner.
 
-### 10. Psychological advice[^key-00865674852d0fde04a4acb826fc83e2]
+### 10. Psychological advice[^c-00865674852d0fde04a4acb826fc83e2]
 
 (1) The psychological advice referred to in regulation 7(1)(d) shall be sought from a person—
 
@@ -249,7 +249,7 @@ The advice referred to in regulation 7(1)(c) shall be sought from the health aut
 
 (3) Paragraph (2) is without prejudice to regulation 7(3).
 
-### 11. Matters to be taken into account in making an assessment[^key-012468e85076aec92f1eb97855bb931f]
+### 11. Matters to be taken into account in making an assessment[^c-012468e85076aec92f1eb97855bb931f]
 
 When making an assessment an authority shall take into consideration—
 
@@ -257,7 +257,7 @@ When making an assessment an authority shall take into consideration—
 - (b) any evidence submitted by, or at the request of, the child’s parent under section 323(1)(d) or section 329A(3)(d), and
 - (c) the advice obtained under regulation 7.
 
-### 12. Time limits and prescribed information[^key-7be2863ba684839a9e53913972d16cfc]
+### 12. Time limits and prescribed information[^c-7be2863ba684839a9e53913972d16cfc]
 
 (1) Where under section 323(1) an authority serve a notice on a child’s parent informing him that they are considering whether to make an assessment they shall within 6 weeks of the date of service of that notice give notice to the child’s parent of—
 
@@ -333,7 +333,7 @@ in either case the availability to the parent of advice and information on matte
 
 (11) A social services authority need not comply with the request referred to in paragraph (8) if they have not before the date on which a copy of a notice has been served on them in accordance with regulation 6(2), 6(4) or 6(5) produced or maintained any information or records relevant to the assessment of the child.
 
-### 13. Children without statements in special schools[^key-fd09b83b1d02ce88ddf971be819e446d]
+### 13. Children without statements in special schools[^c-fd09b83b1d02ce88ddf971be819e446d]
 
 If a child without a statement has been admitted to a special school for the purposes of an assessment, as provided for in section 316A(2), he may remain at that school—
 
@@ -342,7 +342,7 @@ If a child without a statement has been admitted to a special school for the pur
 
 ## PART III — STATEMENTS
 
-### 14. Notices accompanying a proposed statement or proposed amended statement[^key-dd7d1dc296bf31b77e761c96f558405b]
+### 14. Notices accompanying a proposed statement or proposed amended statement[^c-dd7d1dc296bf31b77e761c96f558405b]
 
 The notice which shall be served by an authority on a parent pursuant to paragraph 2B(2) of Schedule 27 to accompany—
 
@@ -351,11 +351,11 @@ The notice which shall be served by an authority on a parent pursuant to paragra
 
 shall contain the information as specified in Part A of Schedule 1 to these Regulations.
 
-### 15. Notice accompanying an amendment notice[^key-8139bc849f7ae149eff16a8380caeb07]
+### 15. Notice accompanying an amendment notice[^c-8139bc849f7ae149eff16a8380caeb07]
 
 The notice which shall be served by an authority on a parent pursuant to paragraph 2B(2) of Schedule 27 to accompany an amendment notice (served under paragraph 2A(4) of Schedule 27) shall contain the information as specified in Part B of Schedule 1 to these Regulations.
 
-### 16. Statement of special educational needs[^key-a5d2c7c30465ea80b948bf394b820720]
+### 16. Statement of special educational needs[^c-a5d2c7c30465ea80b948bf394b820720]
 
 A statement shall—
 
@@ -369,7 +369,7 @@ A statement shall—
   - (iii) amended pursuant to an order of the Tribunal, and the date of any such order, or
   - (iv) amended pursuant to a direction of the Secretary of State, and the date of any such direction.
 
-### 17. Time limits and prescribed information[^key-966639992d80c742424ce70abb9a432d]
+### 17. Time limits and prescribed information[^c-966639992d80c742424ce70abb9a432d]
 
 (1) Where an authority have made an assessment of a child for whom no statement is maintained they shall within 2 weeks of the date on which the assessment was completed either—
 
@@ -423,7 +423,7 @@ A statement shall—
 - (a) the availability to the parent of arrangements for the prevention and resolution of disagreements between parents and authorities made by the authority under section 332B, and
 - (b) the fact that the arrangements made under section 332B cannot affect any right the parent has to appeal to the Tribunal and that the parent may appeal to the Tribunal and take up the arrangements made under section 332B.
 
-### 18. Reviews of statements[^key-8c6b1d75401dc7730fada26e5cc00b63]
+### 18. Reviews of statements[^c-8c6b1d75401dc7730fada26e5cc00b63]
 
 (1) Not less than two weeks before the first day of every school term an authority shall serve a notice on the head teacher of every school listing those pupils with statements registered at that school
 
@@ -465,7 +465,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
   - (iii) whose annual reviews fall to be carried out before the commencement of the second term after the notice is given, and
 - (b) indicating the school attended by those children or the educational provision made in respect of them.
 
-### 19. Phase transfers[^key-ad8cd2ef74bc14ec25a4a0dca757fbed]
+### 19. Phase transfers[^c-ad8cd2ef74bc14ec25a4a0dca757fbed]
 
 (1) This regulation applies where—
 
@@ -481,7 +481,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (3) Where this Regulation applies an authority must ensure that the child’s statement is amended so that before 15th February in the calendar year of the child’s transfer the statement names the school or other institution which the child will be attending following that transfer.
 
-### 20. Review of statement of child attending school (other than a review in respect of a child in his tenth year of compulsory education)[^key-8502bc7a7edf253b27955067bb648dba]
+### 20. Review of statement of child attending school (other than a review in respect of a child in his tenth year of compulsory education)[^c-8502bc7a7edf253b27955067bb648dba]
 
 (1) This regulation applies where—
 
@@ -555,7 +555,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (16) In this regulation the term “school” shall have the same meaning as it does in regulation 18.
 
-### 21. Reviews of statements where child in his tenth year of compulsory education attends school[^key-0c017780438355523d05d79ab3bb8499]
+### 21. Reviews of statements where child in his tenth year of compulsory education attends school[^c-0c017780438355523d05d79ab3bb8499]
 
 (1) This regulation applies where—
 
@@ -631,7 +631,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (16) In this regulation the term “school” shall have the same meaning as it does in regulation 18.
 
-### 22. Review of statement where child does not attend school[^key-c940950c05f6c1e0b6f70ec17c1637f2]
+### 22. Review of statement where child does not attend school[^c-c940950c05f6c1e0b6f70ec17c1637f2]
 
 (1) This regulation applies where an authority carry out an annual review of a statement and the child concerned does not attend a school.
 
@@ -663,7 +663,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (11) In this regulation the term “school” shall have the same meaning as it does in regulation 18.
 
-### 23. Transfer of statements[^key-db406271eba05e190f1e9f529841e9df]
+### 23. Transfer of statements[^c-db406271eba05e190f1e9f529841e9df]
 
 (1) This regulation applies where a child in respect of whom a statement is maintained moves from the area of the authority which maintains the statement (“the old authority”) into that of another (“the new authority”).
 
@@ -691,7 +691,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (8) An authority to whom a statement is transferred from a local education authority in Wales shall treat the statement as having been transferred by an old authority for the purposes of paragraphs (3) to (6).
 
-### 24. Restriction on disclosure of statements[^key-c49abd068f11f29a59311ed6b2a07497]
+### 24. Restriction on disclosure of statements[^c-c49abd068f11f29a59311ed6b2a07497]
 
 (1) Subject to the provisions of the Act and of these Regulations, a statement in respect of a child shall not be disclosed without the child’s consent except—
 
@@ -717,7 +717,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 ## PART IV — COMPLIANCE WITH TRIBUNAL ORDERS
 
-### 25. Compliance with Tribunal Orders[^key-f60a84b31295f164e512c3df6efa4a32]
+### 25. Compliance with Tribunal Orders[^c-f60a84b31295f164e512c3df6efa4a32]
 
 (1) Subject to paragraph (4), if the Tribunal, following an appeal to it by a parent, makes an order requiring an authority to perform an action referred to in paragraph (2) the authority shall perform that action within the period specified in paragraph (2).
 
@@ -742,7 +742,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 - (d) a meeting between the child’s parent and an officer of the authority has been held pursuant to paragraph 4(1) of Schedule 27 and the child’s parent under paragraph 4(2) of that Schedule either required that another such meeting be arranged or has required that a meeting with the appropriate person be arranged, or
 - (e) the authority have sent a written request to the Secretary of State seeking his consent under section 347(5) to the child being educated at an independent school which is not approved by him and such consent has not been received by the authority within 3 weeks of the day on which the request was sent.
 
-### 26. Compliance with parents' requests when an authority concedes an appeal to the Tribunal[^key-4b793617d9f2757965927b1db3e2dabf]
+### 26. Compliance with parents' requests when an authority concedes an appeal to the Tribunal[^c-4b793617d9f2757965927b1db3e2dabf]
 
 (1) Subject to paragraph (3) if, under section 326A(2), an appeal to the Tribunal is treated as having being determined in favour of the parent making the appeal, the authority shall—
 
@@ -762,13 +762,13 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 ## PART V — REVOCATION AND TRANSITIONAL PROVISIONS
 
-### 27. Revocations[^key-3ede043ceb5daa6e15b72b2c661614c9]
+### 27. Revocations[^c-3ede043ceb5daa6e15b72b2c661614c9]
 
 (1) Subject to regulation 28, the 1994 Regulations are revoked.
 
 (2) The Education (Special Educational Needs) (England) Regulations 2001[^f00017]; the Education (Special Educational Needs) (England) (Amendment) Regulations 2001[^f00018] and the Education (Special Educational Needs) (England) (Amendment No. 2) Regulations 2001[^f00019] are hereby revoked.
 
-### 28. Transitional provisions[^key-049c014afc832a8bb716a6bafb8b1176]
+### 28. Transitional provisions[^c-049c014afc832a8bb716a6bafb8b1176]
 
 (1) Subject to the following provisions of this regulation references in these Regulations to anything done under these Regulations shall be read in relation to the times, circumstances or purposes in relation to which a corresponding provision of the 1994 Regulations had effect and so far as the nature of the reference permits as including a reference to that corresponding provision.
 
@@ -806,13 +806,13 @@ Secretary of State for Education and Skills
 
 22nd October 2001
 
-## SCHEDULE 1[^key-ea565b260b623515ac379e45c7ea3ffa]
+## SCHEDULE 1[^c-ea565b260b623515ac379e45c7ea3ffa]
 
 Regulation 14
 
 [image: see source](https://www.legislation.gov.uk/uksi/2001/3455/images/uksi_20013455_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2001/3455/images/uksi_20013455_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2001/3455/images/uksi_20013455_en_003)
 
-## SCHEDULE 2 — Set out name of Authority — STATEMENT OF SPECIAL EDUCATIONAL NEEDS[^key-a2415e3ece21f9ff7210aec33e4e7d4c]
+## SCHEDULE 2 — Set out name of Authority — STATEMENT OF SPECIAL EDUCATIONAL NEEDS[^c-a2415e3ece21f9ff7210aec33e4e7d4c]
 
 Regulation 16
 
@@ -848,9 +848,9 @@ Provision is made for the transition from the regime imposed by the 1994 Regulat
 
 [^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), the powers conferred by sections 322(4), 324(2), 328(1), and 569, and by paragraphs 2(1) and (2) of Schedule 26 are exercisable by the Secretary of State only in relation to England. For the meaning of regulations see section 579(1) of the Act. Sections 316A(2), 325(2A) and 2(B), 326A(4), 328(3A) and (3B), 329A(9) and 336A(1) were inserted by the Special Educational Needs and Disability Act [2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10), section 1, paragraph 6 of Schedule 8, section 5, paragraph 7 of Schedule 8, section 8 and section 4 respectively.
 
-[^key-a668932f5265a6325a5207f40d80f0a6]: Commencement: Reg. 1 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-a668932f5265a6325a5207f40d80f0a6]: Commencement: Reg. 1 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-8c5193dc18503ed64d79acdf63e26bb0]: Commencement: Reg. 2 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-8c5193dc18503ed64d79acdf63e26bb0]: Commencement: Reg. 2 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
 [^f00002]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); sections 8, 9 and 10 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 45.
 
@@ -868,53 +868,53 @@ Provision is made for the transition from the regime imposed by the 1994 Regulat
 
 [^f00009]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
-[^key-3ec07c4f6acc877d9eea2b40d27a51f6]: Commencement: Reg. 3 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-3ec07c4f6acc877d9eea2b40d27a51f6]: Commencement: Reg. 3 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-9e009efc5b64fbde2f534e5e48738a1b]: Commencement: Reg. 4 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-9e009efc5b64fbde2f534e5e48738a1b]: Commencement: Reg. 4 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-0737e130308b40320a62b75da41613c1]: Commencement: Reg. 5 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-0737e130308b40320a62b75da41613c1]: Commencement: Reg. 5 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-8ff1270dc414cc452b2c7ef3e653d001]: Commencement: Reg. 6 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-8ff1270dc414cc452b2c7ef3e653d001]: Commencement: Reg. 6 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-3fb933003ce31d139b2afdef92731730]: Commencement: Reg. 7 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-3fb933003ce31d139b2afdef92731730]: Commencement: Reg. 7 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-7d5848647fafb7c998f1fc6e63665e72]: Commencement: Reg. 8 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-7d5848647fafb7c998f1fc6e63665e72]: Commencement: Reg. 8 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-5447d26fa65e4825514eb74cb40d333c]: Commencement: Reg. 9 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-5447d26fa65e4825514eb74cb40d333c]: Commencement: Reg. 9 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-00865674852d0fde04a4acb826fc83e2]: Commencement: Reg. 10 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-00865674852d0fde04a4acb826fc83e2]: Commencement: Reg. 10 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-012468e85076aec92f1eb97855bb931f]: Commencement: Reg. 11 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-012468e85076aec92f1eb97855bb931f]: Commencement: Reg. 11 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-7be2863ba684839a9e53913972d16cfc]: Commencement: Reg. 12 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-7be2863ba684839a9e53913972d16cfc]: Commencement: Reg. 12 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-fd09b83b1d02ce88ddf971be819e446d]: Commencement: Reg. 13 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-fd09b83b1d02ce88ddf971be819e446d]: Commencement: Reg. 13 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
 [^f00010]: Footnote: Once a statement has been made for a child that statement will determine whether he will be educated in a special school or elsewhere.
 
-[^key-dd7d1dc296bf31b77e761c96f558405b]: Commencement: Reg. 14 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-dd7d1dc296bf31b77e761c96f558405b]: Commencement: Reg. 14 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-8139bc849f7ae149eff16a8380caeb07]: Commencement: Reg. 15 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-8139bc849f7ae149eff16a8380caeb07]: Commencement: Reg. 15 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-a5d2c7c30465ea80b948bf394b820720]: Commencement: Reg. 16 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-a5d2c7c30465ea80b948bf394b820720]: Commencement: Reg. 16 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-966639992d80c742424ce70abb9a432d]: Commencement: Reg. 17 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-966639992d80c742424ce70abb9a432d]: Commencement: Reg. 17 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
 [^f00011]: Footnote: The Special Educational Needs Tribunal Regulations 2001 (S.I. [2001/600](https://www.legislation.gov.uk/uksi/2001/600)) provide that an appeal must be made no later than the first working day after the expiry of two months from which the authority notify a parent of his right of appeal. Under paragraph 11(5) of Schedule 27 to the Act an authority may not cease to maintain a statement if a parent has appealed against the authority’s determination to cease to maintain a statement and that appeal has not been determined by the Tribunal or withdrawn.
 
-[^key-8c6b1d75401dc7730fada26e5cc00b63]: Commencement: Reg. 18 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-8c6b1d75401dc7730fada26e5cc00b63]: Commencement: Reg. 18 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-ad8cd2ef74bc14ec25a4a0dca757fbed]: Commencement: Reg. 19 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-ad8cd2ef74bc14ec25a4a0dca757fbed]: Commencement: Reg. 19 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-8502bc7a7edf253b27955067bb648dba]: Commencement: Reg. 20 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-8502bc7a7edf253b27955067bb648dba]: Commencement: Reg. 20 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-0c017780438355523d05d79ab3bb8499]: Commencement: Reg. 21 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-0c017780438355523d05d79ab3bb8499]: Commencement: Reg. 21 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-c940950c05f6c1e0b6f70ec17c1637f2]: Commencement: Reg. 22 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-c940950c05f6c1e0b6f70ec17c1637f2]: Commencement: Reg. 22 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-db406271eba05e190f1e9f529841e9df]: Commencement: Reg. 23 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-db406271eba05e190f1e9f529841e9df]: Commencement: Reg. 23 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-c49abd068f11f29a59311ed6b2a07497]: Commencement: Reg. 24 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-c49abd068f11f29a59311ed6b2a07497]: Commencement: Reg. 24 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
 [^f00012]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -926,11 +926,11 @@ Provision is made for the transition from the regime imposed by the 1994 Regulat
 
 [^f00016]: Footnote: S.I. [2000/3371](https://www.legislation.gov.uk/uksi/2000/3371).
 
-[^key-f60a84b31295f164e512c3df6efa4a32]: Commencement: Reg. 25 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-f60a84b31295f164e512c3df6efa4a32]: Commencement: Reg. 25 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-4b793617d9f2757965927b1db3e2dabf]: Commencement: Reg. 26 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-4b793617d9f2757965927b1db3e2dabf]: Commencement: Reg. 26 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-3ede043ceb5daa6e15b72b2c661614c9]: Commencement: Reg. 27 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-3ede043ceb5daa6e15b72b2c661614c9]: Commencement: Reg. 27 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
 [^f00017]: Footnote: S.I. [2001/2216](https://www.legislation.gov.uk/uksi/2001/2216).
 
@@ -938,8 +938,8 @@ Provision is made for the transition from the regime imposed by the 1994 Regulat
 
 [^f00019]: Footnote: S.I. [2001/2612](https://www.legislation.gov.uk/uksi/2001/2612).
 
-[^key-049c014afc832a8bb716a6bafb8b1176]: Commencement: Reg. 28 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-049c014afc832a8bb716a6bafb8b1176]: Commencement: Reg. 28 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-ea565b260b623515ac379e45c7ea3ffa]: Commencement: Sch. 1 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-ea565b260b623515ac379e45c7ea3ffa]: Commencement: Sch. 1 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
 
-[^key-a2415e3ece21f9ff7210aec33e4e7d4c]: Commencement: Sch. 2 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)
+[^c-a2415e3ece21f9ff7210aec33e4e7d4c]: Commencement: Sch. 2 in force at 1.1.2002, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/3455/regulation/1/2)

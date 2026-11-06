@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Arbitration[^key-65b4a713fe5521a409d6c88c185f72b7]
+## 38. Arbitration[^c-65b4a713fe5521a409d6c88c185f72b7]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65b4a713fe5521a409d6c88c185f72b7]: Commencement: Art. 38 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-65b4a713fe5521a409d6c88c185f72b7]: Commencement: Art. 38 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

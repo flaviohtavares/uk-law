@@ -37,12 +37,12 @@ summary: ''
 > - (b) specify different dates in relation to different descriptions of company, and
 > - (c) include provision for a company to elect that the regulations are to apply to it or provision for a company to elect that they are not to apply to it.
 
-(4)[^key-815edea985fc9d2e28cf11dac5037ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-815edea985fc9d2e28cf11dac5037ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-815edea985fc9d2e28cf11dac5037ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-815edea985fc9d2e28cf11dac5037ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-815edea985fc9d2e28cf11dac5037ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-815edea985fc9d2e28cf11dac5037ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-815edea985fc9d2e28cf11dac5037ad2]: Textual amendment: S. 59(4)-(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-815edea985fc9d2e28cf11dac5037ad2]: Textual amendment: S. 59(4)-(6) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

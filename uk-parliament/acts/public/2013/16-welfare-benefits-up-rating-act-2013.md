@@ -36,20 +36,20 @@ An Act to make provision relating to the up-rating of certain social security be
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Up-rating of certain social security benefits for tax years 2014-15 and 2015-16[^key-5dbc5726d3776157109b6b2b55514e50]
+## 1. Up-rating of certain social security benefits for tax years 2014-15 and 2015-16[^c-5dbc5726d3776157109b6b2b55514e50]
 
 (1) The Secretary of State must, in each of the tax years ending with 5 April 2014 and 5 April 2015, make an order by statutory instrument increasing each of the relevant sums by 1%.
 
 For the meaning of the “relevant sums” see paragraph 1 of the Schedule.
 
-(2) Subject to subsection (2A),[^key-a1a405527f1b5b9e4259d06195a80c54]an order under this section must be framed so as to bring the variations to which it relates into force—
+(2) Subject to subsection (2A),[^c-a1a405527f1b5b9e4259d06195a80c54]an order under this section must be framed so as to bring the variations to which it relates into force—
 
 - (a) in the week beginning with the first Monday in the tax year following that in which the order is made, or
 - (b) on an earlier date in April specified in the order;
 
 and the provision that may be made under this subsection includes provision bringing the variation in a particular sum into force on different dates for different purposes.
 
-(2A)[^key-422bd46174aaa4849a4d0caf8960ef28] An order under this section shall be framed so that—
+(2A)[^c-422bd46174aaa4849a4d0caf8960ef28] An order under this section shall be framed so that—
 
 - (a) any variation of the relevant sums referred to in paragraphs 1(j) to (1) of the Schedule (sums specified under Part 1 of the Welfare Reform Act 2012) comes into force in relation to a person on the relevant day; and
 - (b) any other variation to which the order relates comes into force, for the purposes of determining the amount of universal credit to which a person is entitled, on the relevant day.
@@ -75,7 +75,7 @@ and the provision that may be made under this subsection includes provision brin
 
 (9) Nothing in section 166 of the Social Security Administration (Northern Ireland) Act 1992 applies in relation to an order made by the Treasury under section 132 of that Act which corresponds to an order made under this section.
 
-## 2. Up-rating of tax credits for tax years 2014-15 and 2015-16[^key-12cba96ddfeddf0cab145935db42031c]
+## 2. Up-rating of tax credits for tax years 2014-15 and 2015-16[^c-12cba96ddfeddf0cab145935db42031c]
 
 (1) The Treasury must, in each of the tax years ending with 5 April 2014 and 5 April 2015, make an order by statutory instrument increasing each of the relevant amounts by 1%.
 
@@ -113,7 +113,7 @@ Sections 1 and 2
 
 *Extent: E+W+S*
 
-**1.**[^key-1da49da88a4cd09927fcb81ee233ce2c] The “**relevant sums**” for the purposes of section 1 are the sums—
+**1.**[^c-1da49da88a4cd09927fcb81ee233ce2c] The “**relevant sums**” for the purposes of section 1 are the sums—
 
 - (a) specified in paragraph 1 of Schedule 2 to the Income Support (General) Regulations 1987 (S.I. 1987/1967);
 - (b) specified in paragraph 1 of Schedule 3 to the Housing Benefit Regulations 2006 (S.I. 2006/213);
@@ -130,21 +130,21 @@ Sections 1 and 2
 
 ### The “relevant amounts” for the purposes of section 2
 
-**2.**[^key-42be306b4521519aa7d26a8aa32c2792] The “**relevant amounts**” for the purposes of section 2 are the monetary amounts—
+**2.**[^c-42be306b4521519aa7d26a8aa32c2792] The “**relevant amounts**” for the purposes of section 2 are the monetary amounts—
 
 - (a) specified in Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (S.I. 2002/2005) for the basic element, the 30 hour element, the second adult element and the lone parent element;
 - (b) specified in regulation 7(4)(c) and (f) of the Child Tax Credit Regulations 2002 (S.I. 2002/2007).
 
 ## Annotations
 
-[^key-5dbc5726d3776157109b6b2b55514e50]: Commencement: S. 1 in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/a)
+[^c-5dbc5726d3776157109b6b2b55514e50]: Commencement: S. 1 in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/a)
 
-[^key-a1a405527f1b5b9e4259d06195a80c54]: Textual amendment: Words in s. 1(2) inserted (26.11.2014) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/7/2/a/i)
+[^c-a1a405527f1b5b9e4259d06195a80c54]: Textual amendment: Words in s. 1(2) inserted (26.11.2014) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/7/2/a/i)
 
-[^key-422bd46174aaa4849a4d0caf8960ef28]: Textual amendment: S. 1(2A-2C) inserted (26.11.2014) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/7/2/a/ii)
+[^c-422bd46174aaa4849a4d0caf8960ef28]: Textual amendment: S. 1(2A-2C) inserted (26.11.2014) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/7/2/a/ii)
 
-[^key-12cba96ddfeddf0cab145935db42031c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/16/section/2) in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/b)
+[^c-12cba96ddfeddf0cab145935db42031c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/16/section/2) in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/b)
 
-[^key-1da49da88a4cd09927fcb81ee233ce2c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2013/16/schedule/paragraph/1) in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/c)
+[^c-1da49da88a4cd09927fcb81ee233ce2c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2013/16/schedule/paragraph/1) in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/c)
 
-[^key-42be306b4521519aa7d26a8aa32c2792]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2013/16/schedule/paragraph/2) in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/c)
+[^c-42be306b4521519aa7d26a8aa32c2792]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2013/16/schedule/paragraph/2) in force at 1.10.2013 by [S.I. 2013/2317](https://www.legislation.gov.uk/uksi/2013/2317), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2317/article/2/c)

@@ -45,13 +45,13 @@ Coming into Force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 21, 23, 33 and 273(3) of the Town and Country Planning (Scotland) Act 1972[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-82745e354d590df84bdad45232de7dd9]
+## 1. Citation and commencement[^c-82745e354d590df84bdad45232de7dd9]
 
 (1) This Order may be cited as the Town and Country Planning (General Development) (Scotland) Amendment Order 1990 and shall be included amongst the Orders which may be cited together as the Town and Country Planning (General Development) (Scotland) Orders 1981 to 1990[^f00002].
 
 (2) This Order shall come into force on 31st March 1990.
 
-## 2. Amendment of the general development order[^key-3b58f9e3d66dc05746e89766f4ede1ec]
+## 2. Amendment of the general development order[^c-3b58f9e3d66dc05746e89766f4ede1ec]
 
 The Town and Country Planning (General Development) (Scotland) Order 1981[^f00003] shall be amended as follows:–
 
@@ -111,11 +111,11 @@ The Order amends the Town and Country Planning (General Development) (Scotland) 
 
 [^f00001]: Footnote: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52).
 
-[^key-82745e354d590df84bdad45232de7dd9]: Commencement: Art. 1 in force at 31.3.1990, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1990/508/article/1/2)
+[^c-82745e354d590df84bdad45232de7dd9]: Commencement: Art. 1 in force at 31.3.1990, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1990/508/article/1/2)
 
 [^f00002]: Footnote: S.I. [1981/830](https://www.legislation.gov.uk/uksi/1981/830), [1983/1620](https://www.legislation.gov.uk/uksi/1983/1620), [1984/237](https://www.legislation.gov.uk/uksi/1984/237), [1985/1014](https://www.legislation.gov.uk/uksi/1985/1014) and [2007](https://www.legislation.gov.uk/uksi/1985/2007), [1986/1356](https://www.legislation.gov.uk/uksi/1986/1356), [1988/977](https://www.legislation.gov.uk/uksi/1988/977) and [1249](https://www.legislation.gov.uk/uksi/1988/1249) and [1989/148](https://www.legislation.gov.uk/uksi/1989/148).
 
-[^key-3b58f9e3d66dc05746e89766f4ede1ec]: Commencement: Art. 2 in force at 31.3.1990, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1990/508/article/1/2)
+[^c-3b58f9e3d66dc05746e89766f4ede1ec]: Commencement: Art. 2 in force at 31.3.1990, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1990/508/article/1/2)
 
 [^f00003]: Footnote: Relevant amending instruments are S.I. [1985/1014](https://www.legislation.gov.uk/uksi/1985/1014) and [2007](https://www.legislation.gov.uk/uksi/1985/2007) and [1986/1356](https://www.legislation.gov.uk/uksi/1986/1356).
 

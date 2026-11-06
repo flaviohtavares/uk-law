@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 30. Revaluation[^key-fde46be04385c711d231c51e923c9f90]
+## 30. Revaluation[^c-fde46be04385c711d231c51e923c9f90]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fde46be04385c711d231c51e923c9f90]: Commencement: [S. 30](https://www.legislation.gov.uk/ukcm/2018/9/section/30) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-fde46be04385c711d231c51e923c9f90]: Commencement: [S. 30](https://www.legislation.gov.uk/ukcm/2018/9/section/30) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

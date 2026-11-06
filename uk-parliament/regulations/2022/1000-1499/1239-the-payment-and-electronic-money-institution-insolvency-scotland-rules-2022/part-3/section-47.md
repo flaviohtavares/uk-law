@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Statements of claim and proxies in adjournment[^key-5742ea3c6df125598a1eb62205b0922b]
+## 47. Statements of claim and proxies in adjournment[^c-5742ea3c6df125598a1eb62205b0922b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a meeting under these Rules is adjourned, statements of claim and proxies 
 
 ## Annotations
 
-[^key-5742ea3c6df125598a1eb62205b0922b]: Commencement: Rule 47 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-5742ea3c6df125598a1eb62205b0922b]: Commencement: Rule 47 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

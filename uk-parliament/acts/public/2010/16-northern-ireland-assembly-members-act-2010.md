@@ -36,7 +36,7 @@ An Act to make provision relating to salaries, allowances and pensions for membe
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Salaries and allowances[^key-66669394cdcdeba125a495433aa63322]
+## 1. Salaries and allowances[^c-66669394cdcdeba125a495433aa63322]
 
 (1) Section 47 of the Northern Ireland Act 1998 (salaries and allowances of members of the Northern Ireland Assembly) is amended as follows.
 
@@ -89,7 +89,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (14) Any determination under section 47 of the Northern Ireland Act 1998 which is in force immediately before this section comes into force is to be treated as provision under section 47(2A)(a) of that Act; and if the determination does not make the provision required by section 47(4) (as substituted by this section) it has effect as if it made that provision.
 
-## 2. Pensions etc.[^key-369e488ee6abb1e381811f264558fc0f]
+## 2. Pensions etc.[^c-369e488ee6abb1e381811f264558fc0f]
 
 (1) Section 48 of the Northern Ireland Act 1998 (pensions etc. of members of the Northern Ireland Assembly) is amended as follows.
 
@@ -111,6 +111,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-66669394cdcdeba125a495433aa63322]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2010/16/section/1) in force at 5.7.2010 by [S.I. 2010/1726](https://www.legislation.gov.uk/uksi/2010/1726), [art. 2](https://www.legislation.gov.uk/uksi/2010/1726/article/2)
+[^c-66669394cdcdeba125a495433aa63322]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2010/16/section/1) in force at 5.7.2010 by [S.I. 2010/1726](https://www.legislation.gov.uk/uksi/2010/1726), [art. 2](https://www.legislation.gov.uk/uksi/2010/1726/article/2)
 
-[^key-369e488ee6abb1e381811f264558fc0f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/16/section/2) in force at 5.7.2010 by [S.I. 2010/1726](https://www.legislation.gov.uk/uksi/2010/1726), [art. 2](https://www.legislation.gov.uk/uksi/2010/1726/article/2)
+[^c-369e488ee6abb1e381811f264558fc0f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/16/section/2) in force at 5.7.2010 by [S.I. 2010/1726](https://www.legislation.gov.uk/uksi/2010/1726), [art. 2](https://www.legislation.gov.uk/uksi/2010/1726/article/2)

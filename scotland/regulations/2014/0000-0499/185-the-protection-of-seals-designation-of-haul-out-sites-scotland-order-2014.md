@@ -48,17 +48,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 117 of that Act they have consulted the Natural Environment Research Council.
 
-## 1. Citation and commencement[^key-1ac54fd9239353065315d72a7b7a8bbf]
+## 1. Citation and commencement[^c-1ac54fd9239353065315d72a7b7a8bbf]
 
 This Order may be cited as the Protection of Seals (Designation of Haul-Out Sites) (Scotland) Order 2014 and comes into force on 30th September 2014.
 
-## 2. Interpretation[^key-8407064d2f9de5aa1f8ef2070be7542c]
+## 2. Interpretation[^c-8407064d2f9de5aa1f8ef2070be7542c]
 
 (1) The co-ordinates in the Schedule to this Order are defined on the World Geodetic System 1984 Datum[^f00002].
 
 (2) In article 3(3), the reference to “the lines” means loxodromic lines.
 
-## 3. Designation of haul-out sites[^key-b25e5f46ba754dc43f084a6e4f12a32e]
+## 3. Designation of haul-out sites[^c-b25e5f46ba754dc43f084a6e4f12a32e]
 
 (1) The places referred to in paragraph (2) are designated as haul-out sites for the purposes of section 117 of the Marine (Scotland) Act 2010.
 
@@ -81,7 +81,7 @@ Edinburgh
 
 24th June 2014
 
-## SCHEDULE — DESIGNATED HAUL-OUT SITES[^key-755f8465e91adddfe4d7764c606094a0]
+## SCHEDULE — DESIGNATED HAUL-OUT SITES[^c-755f8465e91adddfe4d7764c606094a0]
 
 Article 3(3)
 
@@ -289,7 +289,7 @@ Article 3(3)
 </tbody>
 </table>
 
-[^key-3c7bca6785e294f9c120d15d63ce091a]
+[^c-3c7bca6785e294f9c120d15d63ce091a]
 
 EXPLANATORY NOTE
 
@@ -303,14 +303,14 @@ Illustrative maps for each designated area may be viewed at www.scotland.gov.uk/
 
 [^f00001]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5).
 
-[^key-1ac54fd9239353065315d72a7b7a8bbf]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
+[^c-1ac54fd9239353065315d72a7b7a8bbf]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
 
-[^key-8407064d2f9de5aa1f8ef2070be7542c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/185/article/2) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
+[^c-8407064d2f9de5aa1f8ef2070be7542c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/185/article/2) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
 
 [^f00002]: Footnote: Definitions of World Geodetic System 1984 Datum and co-ordinate reference system are available via the EPSG Geodetic Parameter Registry as EPSG: 6326 (http://epsg.io/6326-datum) and EPSG: 4326 (http://epsg.10/4326) respectively.
 
-[^key-b25e5f46ba754dc43f084a6e4f12a32e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/185/article/3) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
+[^c-b25e5f46ba754dc43f084a6e4f12a32e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/185/article/3) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
 
-[^key-755f8465e91adddfe4d7764c606094a0]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/185/schedule) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
+[^c-755f8465e91adddfe4d7764c606094a0]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/185/schedule) in force at 30.9.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/185/article/1)
 
-[^key-3c7bca6785e294f9c120d15d63ce091a]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/185/schedule) inserted (4.5.2017) by [The Protection of Seals (Designation of Haul-Out Sites) (Scotland) Amendment Order 2017 (S.S.I. 2017/63)](https://www.legislation.gov.uk/ssi/2017/63), [arts. 1](https://www.legislation.gov.uk/ssi/2017/63/article/1), [2](https://www.legislation.gov.uk/ssi/2017/63/article/2)
+[^c-3c7bca6785e294f9c120d15d63ce091a]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/185/schedule) inserted (4.5.2017) by [The Protection of Seals (Designation of Haul-Out Sites) (Scotland) Amendment Order 2017 (S.S.I. 2017/63)](https://www.legislation.gov.uk/ssi/2017/63), [arts. 1](https://www.legislation.gov.uk/ssi/2017/63/article/1), [2](https://www.legislation.gov.uk/ssi/2017/63/article/2)

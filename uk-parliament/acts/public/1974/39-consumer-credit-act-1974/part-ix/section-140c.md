@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140C. Interpretation of ss. 140A and 140B[^key-2c4fbf348bc0681c9fc2e0bcb50ffb43][^c18853461][^c18853421]
+## 140C. Interpretation of ss. 140A and 140B[^c-2c4fbf348bc0681c9fc2e0bcb50ffb43][^c18853461][^c18853421]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4fbf348bc0681c9fc2e0bcb50ffb43]: Modification: Ss. 140A-140C applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [29(12)](https://www.legislation.gov.uk/uksi/2015/910/article/29/12) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-2c4fbf348bc0681c9fc2e0bcb50ffb43]: Modification: Ss. 140A-140C applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [29(12)](https://www.legislation.gov.uk/uksi/2015/910/article/29/12) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
 [^c18853461]: Textual amendment: S. 140C inserted (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {21}, 71(2) (with Sch. 3 para. 16); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
 

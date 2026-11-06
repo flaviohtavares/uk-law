@@ -46,7 +46,7 @@ In accordance with section 120A(7) of that Act, a draft of this instrument has b
 
 ## Part 1 — INTRODUCTORY
 
-### 1. Citation, commencement, extent and application[^key-2b11091b9cea0161c21cae44d8964609]
+### 1. Citation, commencement, extent and application[^c-2b11091b9cea0161c21cae44d8964609]
 
 (1) These Regulations may be cited as the Building Safety Levy (England) Regulations 2025.
 
@@ -65,7 +65,7 @@ In accordance with section 120A(7) of that Act, a draft of this instrument has b
 
 if the variation application or commencement notice relates to an original application which was made before the commencement date.
 
-### 2. Interpretation[^key-78d7173c32bb62cc4af2058b3f5bb718]
+### 2. Interpretation[^c-78d7173c32bb62cc4af2058b3f5bb718]
 
 (1) In these Regulations—
 
@@ -160,11 +160,11 @@ if the variation application or commencement notice relates to an original appli
 
 ## Part 2 — BUILDING SAFETY LEVY: GENERAL PROVISION
 
-### 3. Building safety levy[^key-1941817eec67efcd64818ea2f23a534c]
+### 3. Building safety levy[^c-1941817eec67efcd64818ea2f23a534c]
 
 A levy, called “building safety levy”, is to be charged in accordance with these Regulations.
 
-### 4. Designation of collecting authorities[^key-d49abfada3f72388a14d0f9801c62393]
+### 4. Designation of collecting authorities[^c-d49abfada3f72388a14d0f9801c62393]
 
 (1) Subject to paragraph (2), the local authority[^f00020] for the area in which a building or proposed building to which a building control application relates is or is to be situated is designated as the person to whom the building safety levy in relation to such an application is to be paid.
 
@@ -181,7 +181,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 
 ## Part 3 — KEY CONCEPTS
 
-### 5. “Building control application”[^key-2759d77a7f2b3e51042d5559ed10dab5]
+### 5. “Building control application”[^c-2759d77a7f2b3e51042d5559ed10dab5]
 
 (1) Each of the following is a “building control application”—
 
@@ -199,7 +199,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 - (c) in the case of a higher-risk building application, if the application is submitted to the regulator in accordance with regulations 3(a) and 4, or 11(1)(a) and 12, of the HRB Regulations;
 - (d) in the case of an updated application, in the circumstances described in regulation 42(3).
 
-### 6. “Major residential development” etc[^key-649bc82f1bffeac57315f49b4569dc73]
+### 6. “Major residential development” etc[^c-649bc82f1bffeac57315f49b4569dc73]
 
 (1) Subject to paragraphs (2) and (3), “**major residential development**” means development resulting in the provision of—
 
@@ -212,7 +212,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 
 (4) “**Bedspace**”, in relation to purpose-built student accommodation, means a sleeping area for one person (which may be in the same room as a bedspace for another person).
 
-### 7. “Residential building” and “relevant residential building”[^key-92ec09d2f2553e26d3e576577807e0cf]
+### 7. “Residential building” and “relevant residential building”[^c-92ec09d2f2553e26d3e576577807e0cf]
 
 (1) “**Residential building**” means a building that—
 
@@ -235,7 +235,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 - (a) references to a residential building include references to a proposed residential building, and
 - (b) references to a relevant residential building, apart from the references in regulations 17(2) and 18(2), include references to a proposed relevant residential building.
 
-### 8. “Ordinary residential dwelling”[^key-719ba72becf17327e0e31abca63d7c2d]
+### 8. “Ordinary residential dwelling”[^c-719ba72becf17327e0e31abca63d7c2d]
 
 (1) For the purposes of these Regulations, a dwelling is an “ordinary residential dwelling” unless it is—
 
@@ -245,7 +245,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 
 (2) Schedule 2 makes further provision about each of the exemptions referred to in paragraph (1).
 
-### 9. “Purpose-built student accommodation” etc[^key-37e91c68d53b1848a3abb464899b5d1f]
+### 9. “Purpose-built student accommodation” etc[^c-37e91c68d53b1848a3abb464899b5d1f]
 
 (1) “**Purpose-built student accommodation**” means a building, or part of a building, that is designed or adapted for occupation solely or principally by persons undertaking a full-time course of further or higher education at a qualifying institution.
 
@@ -253,7 +253,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 
 (3) References in these Regulations to a dwelling do not include references to purpose-built student accommodation.
 
-### 10. “Residential floorspace”[^key-e694cd621d56807fda144c081dfe2069]
+### 10. “Residential floorspace”[^c-e694cd621d56807fda144c081dfe2069]
 
 “**Residential floorspace**” means the gross internal area of each of the following—
 
@@ -261,7 +261,7 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 - (b) purpose-built student accommodation;
 - (c) communal space for residents.
 
-### 11. “Communal space for residents”[^key-ecb87002e0a819d108ee309924b83992]
+### 11. “Communal space for residents”[^c-ecb87002e0a819d108ee309924b83992]
 
 (1) “**Communal space for residents**” means an area of a residential building, other than an excluded area, which is—
 
@@ -287,14 +287,14 @@ then any reference in these Regulations (except in paragraphs (1) and (2)) to th
 
 (4) Where building work to which a building control application relates is part of a wider development, in determining whether an area referred to in paragraph (1) is wholly or mainly for the benefit of the occupants of relevant residential units or, as the case may be, of other units, regard is to be had to all such units in all of the buildings across the wider development.
 
-### 12. “Gross internal area”[^key-80ff4cc63928217459b3b397c28965ae]
+### 12. “Gross internal area”[^c-80ff4cc63928217459b3b397c28965ae]
 
 For the purposes of the application of any provision of these Regulations, the “gross internal area” of a dwelling, purpose-built student accommodation or an area within a building is to be measured—
 
 - (a) in accordance with the Code of Measuring Practice (6th edition)[^f00023], and
 - (b) in square metres, rounded to the nearest whole number (where 0.5 or more is rounded up).
 
-### 13. Exempt person: non-profit registered providers of social housing[^key-5c0685f4011133c6d68a328327d4cc92]
+### 13. Exempt person: non-profit registered providers of social housing[^c-5c0685f4011133c6d68a328327d4cc92]
 
 (1) “**Exempt person**” means—
 
@@ -306,7 +306,7 @@ For the purposes of the application of any provision of these Regulations, the �
 - (a) the registered provider or persons acting on behalf of the registered provider;
 - (b) the registered provider’s wholly-owned subsidiaries or persons acting on behalf of the registered provider’s wholly-owned subsidiaries.
 
-### 14. Commencement of building work[^key-d5625e3cd31f8f4853553ab97d4d30d2]
+### 14. Commencement of building work[^c-d5625e3cd31f8f4853553ab97d4d30d2]
 
 (1) Building work is to be regarded as “commenced”, for the purposes of any provision of these Regulations, if it is regarded as commenced—
 
@@ -325,7 +325,7 @@ For the purposes of the application of any provision of these Regulations, the �
 
 ## Part 4 — CHARGE TO THE LEVY
 
-### 15. Charge to building safety levy[^key-4837594262c0b8d05f059b7cf7624689]
+### 15. Charge to building safety levy[^c-4837594262c0b8d05f059b7cf7624689]
 
 (1) A building control application is “chargeable”, subject to the exception in paragraph (2), if—
 
@@ -343,7 +343,7 @@ For the purposes of the application of any provision of these Regulations, the �
 - (a) some or all of the building work is permitted to be carried out pursuant to a planning permission, granted before or after the building control application is submitted, for a wider development, or
 - (b) the building work affects only the interior of a building or buildings and is carried out as part of a wider development for which a planning permission is granted, whether before or after the building control application is submitted.
 
-### 16. Amount charged[^key-ed50cdfd6e6805bb4ee763e2b0f99c8f]
+### 16. Amount charged[^c-ed50cdfd6e6805bb4ee763e2b0f99c8f]
 
 (1) The amount of building safety levy charged in respect of a chargeable application is the amount given by—
 
@@ -364,7 +364,7 @@ where—
 
 (4) Where the building control application relates to part of a relevant residential building references in this regulation and in regulations 17 to 19 to the building are to be treated as references to the part of the building to which the application relates.
 
-### 17. Chargeable accommodation floorspace[^key-3fa8721aa48a4347cb1fccac46aa2778]
+### 17. Chargeable accommodation floorspace[^c-3fa8721aa48a4347cb1fccac46aa2778]
 
 (1) This regulation applies for the purposes of determining the amount of chargeable accommodation floorspace under the formula in regulation 16(2).
 
@@ -393,7 +393,7 @@ where—
 - (a) regulation 10(a);
 - (b) regulation 10(b).
 
-### 18. Chargeable amount of communal floorspace: general[^key-06c861c938434e421803236491b4507f]
+### 18. Chargeable amount of communal floorspace: general[^c-06c861c938434e421803236491b4507f]
 
 (1) This regulation applies for the purposes of determining the chargeable amount of communal floorspace under the formula in regulation 16(2).
 
@@ -426,7 +426,7 @@ where—
   - (ii) the planning permission, or as the case may be the development consent under section 31 of the Planning Act 2008, for the development to which the building work relates, and
 - (b) references to a “pre-commencement” area are references to the area at the time the application was made.
 
-### 19. Chargeable amount of communal floorspace: “relevant percentage”[^key-aef53894100ef55409ec49f794554a27]
+### 19. Chargeable amount of communal floorspace: “relevant percentage”[^c-aef53894100ef55409ec49f794554a27]
 
 (1) In relation to an area of communal space for residents which falls within regulation 11(1)(a), the relevant percentage is 100%.
 
@@ -456,7 +456,7 @@ where—
   - (b) U is the amount given by paragraph (b) of Step 1, and
   - (c) O is the amount given by paragraph (b) of Step 2.
 
-### 20. Applicable area rate[^key-4d081bb5a0187e9aa613f8a7eeb531f7]
+### 20. Applicable area rate[^c-4d081bb5a0187e9aa613f8a7eeb531f7]
 
 (1) This regulation applies for the purposes of determining the applicable area rate under the formula in regulation 16(2).
 
@@ -470,29 +470,29 @@ where—
 - (a) the building work to which the chargeable application relates is to be carried out in relation to development for which planning permission is granted by the Town and Country Planning (General Permitted Development) (England) Order 2015[^f00029], or
 - (b) the building work to which the application relates is to be carried out on a previously developed site (as defined in regulation 21).
 
-### 21. Previously developed sites[^key-0fafa16eca8c5eca265d74e7340c3a77]
+### 21. Previously developed sites[^c-0fafa16eca8c5eca265d74e7340c3a77]
 
 (1) A site is a previously developed site if immediately before the relevant date at least 75% of the land to which the relevant planning permission relates is previously developed.
 
-(2) Land is “previously developed” if, on or after 1st July 1948, a building was situated on the land, whether or not that building is situated on the land on the relevant date , and that building was not wholly underground[^key-992947cc0a48bd719d07ff3fd4f7649e].
+(2) Land is “previously developed” if, on or after 1st July 1948, a building was situated on the land, whether or not that building is situated on the land on the relevant date , and that building was not wholly underground[^c-992947cc0a48bd719d07ff3fd4f7649e].
 
 (3) But paragraph (2) is subject to the exceptions in paragraph (4).
 
-(4) Land is not “previously developed” at a particular time if, at that time any one or more of the following conditions are met[^key-3c180ac0d815e9ba08d991cbed763aba]—
+(4) Land is not “previously developed” at a particular time if, at that time any one or more of the following conditions are met[^c-3c180ac0d815e9ba08d991cbed763aba]—
 
 - (a) a building used for the purposes of agriculture or forestry is situated on the land,
 - (b) the building that was most recently situated on the land was a building used for the purposes of agriculture or forestry,
-- (c) the land has been developed for minerals extraction, [^key-8dba9b781a6dae09135131034848686a]...
+- (c) the land has been developed for minerals extraction, [^c-8dba9b781a6dae09135131034848686a]...
 - (d) the land has been developed for waste disposal by landfill.
-- (e)[^key-9a579f9edc851041200b64c8fbdd61f2] any operations which have been carried out in, on, over or under the land are not lawful.
+- (e)[^c-9a579f9edc851041200b64c8fbdd61f2] any operations which have been carried out in, on, over or under the land are not lawful.
 
-(4A)[^key-48ddb4c4e35e56f0c4d962685aebd809] For the purposes of calculating whether at least 75% of land is previously developed for the purposes of paragraph (1), any underground part of a building which extends beyond the part of the building which is not underground is not to be taken into account.
+(4A)[^c-48ddb4c4e35e56f0c4d962685aebd809] For the purposes of calculating whether at least 75% of land is previously developed for the purposes of paragraph (1), any underground part of a building which extends beyond the part of the building which is not underground is not to be taken into account.
 
 (5) In this regulation—
 
 - “**agriculture**” has the meaning given by section 336 of TCPA 1990;
-- areas which are reinforced for load-bearing, paved or otherwise surfaced with man-made materials;[^key-508a9d537dff14b79671f1d3edad9c14]
-- “[^key-df43490562b6c31f3641bdfac490874b]**building**” means any permanent building and any other permanent man-made structure or erection, including any extension, and any part of a building, as so defined;
+- areas which are reinforced for load-bearing, paved or otherwise surfaced with man-made materials;[^c-508a9d537dff14b79671f1d3edad9c14]
+- “[^c-df43490562b6c31f3641bdfac490874b]**building**” means any permanent building and any other permanent man-made structure or erection, including any extension, and any part of a building, as so defined;
 - “**forestry**” includes afforestation;
 - “**lawful**”, in relation to operations, has the same meaning as in section 191 of TCPA 1990;
 - plant and machinery;
@@ -509,15 +509,15 @@ where—
 
 ## Part 5 — LIABILITY TO PAY THE LEVY
 
-### 22. Liability of named client to pay the levy[^key-89f2ebd5977682af1882691976737310]
+### 22. Liability of named client to pay the levy[^c-89f2ebd5977682af1882691976737310]
 
 The named client in relation to a chargeable application is liable to pay the amount of building safety levy charged in respect of the application.
 
-### 23. “Named client”[^key-3bda49a922d4edaed465928e69ea80de]
+### 23. “Named client”[^c-3bda49a922d4edaed465928e69ea80de]
 
 Schedule 4 makes provision about the meaning of “**named client**” in relation to each kind of building control application.
 
-### 24. Levy due date[^key-654c0008ef29c9fa6a6642ed44093f22]
+### 24. Levy due date[^c-654c0008ef29c9fa6a6642ed44093f22]
 
 (1) Building safety levy charged in respect of a chargeable application must be paid on or before the earlier of—
 
@@ -548,7 +548,7 @@ Schedule 4 makes provision about the meaning of “**named client**” in relati
 
 ### Chapter 1 — Amendment of secondary legislation
 
-#### 25. Amendment of 2010 Regulations: general[^key-118b6cf10ceb611263daf227f6d759f8]
+#### 25. Amendment of 2010 Regulations: general[^c-118b6cf10ceb611263daf227f6d759f8]
 
 (1) Regulation 2 of the 2010 Regulations is amended as follows.
 
@@ -579,7 +579,7 @@ Schedule 4 makes provision about the meaning of “**named client**” in relati
 - “**updated application**” has the meaning given in the BSL Regulations;
 - “**variation application**” has the meaning given in the BSL Regulations.
 
-#### 26. Amendment of 2010 Regulations: requirement in relation to building safety levy information[^key-a6eceb3ebc0a9e153bc64d23a9c61cc6]
+#### 26. Amendment of 2010 Regulations: requirement in relation to building safety levy information[^c-a6eceb3ebc0a9e153bc64d23a9c61cc6]
 
 (1) Regulation 14 of the 2010 Regulations is amended as follows.
 
@@ -630,7 +630,7 @@ Schedule 4 makes provision about the meaning of “**named client**” in relati
 
 .
 
-#### 27. Amendment of 2010 Regulations: building safety levy information[^key-4c0f4ba16e53c5e80c991c0183d41e2f]
+#### 27. Amendment of 2010 Regulations: building safety levy information[^c-4c0f4ba16e53c5e80c991c0183d41e2f]
 
 After regulation 14 of the 2010 Regulations insert—
 
@@ -670,7 +670,7 @@ After regulation 14 of the 2010 Regulations insert—
 
 .
 
-#### 28. Amendment of 2010 Regulations: notices etc[^key-ef2fb9c8d32cdf3907848bc65760f9d9]
+#### 28. Amendment of 2010 Regulations: notices etc[^c-ef2fb9c8d32cdf3907848bc65760f9d9]
 
 (1) In regulation 16 of the 2010 Regulations—
 
@@ -761,7 +761,7 @@ After regulation 14 of the 2010 Regulations insert—
 
 .
 
-#### 29. Amendment of RBCA Regulations: information to be provided with initial notices etc[^key-20fd997f301ad807053f29d0ce535b5d]
+#### 29. Amendment of RBCA Regulations: information to be provided with initial notices etc[^c-20fd997f301ad807053f29d0ce535b5d]
 
 (1) The RBCA Regulations are amended as follows.
 
@@ -903,7 +903,7 @@ After regulation 14 of the 2010 Regulations insert—
 
 .
 
-#### 30. Amendment of HRB Regulations: general[^key-287ee9e461e7bf5b8ee1a18cf07d40d1]
+#### 30. Amendment of HRB Regulations: general[^c-287ee9e461e7bf5b8ee1a18cf07d40d1]
 
 (1) The HRB Regulations are amended as follows.
 
@@ -1033,7 +1033,7 @@ After regulation 14 of the 2010 Regulations insert—
 
   .
 
-#### 31. Amendment of HRB Regulations: building safety levy information etc[^key-2188c6cf70694c6bb4112aa731c69ddf]
+#### 31. Amendment of HRB Regulations: building safety levy information etc[^c-2188c6cf70694c6bb4112aa731c69ddf]
 
 After Chapter 2 of Part 2 of the HRB Regulations insert—
 
@@ -1114,7 +1114,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 ### Chapter 2 — Applications made to the regulator: provision of information to, and by, the collecting authority
 
-#### 32. Provision of application information by the regulator[^key-dfe53c8f194e52941b28d8be05453133]
+#### 32. Provision of application information by the regulator[^c-dfe53c8f194e52941b28d8be05453133]
 
 (1) This regulation applies where the regulator receives—
 
@@ -1148,7 +1148,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 (6) If rejection of an application referred to in paragraph (1) is appealed under regulation 49(1) of the HRB Regulations and the regulator is notified that the appeal is allowed, the regulator must notify the collecting authority, before the end of the period of 5 working days beginning with the day on which the regulator receives the appeal decision, that the appeal has been allowed.
 
-#### 33. Provision of commencement of building work information by the regulator[^key-384aef6089471072539d4a5b2dbf551a]
+#### 33. Provision of commencement of building work information by the regulator[^c-384aef6089471072539d4a5b2dbf551a]
 
 (1) If the regulator receives a commencement notice which includes information required under regulation 9(3A)(a) or (b) or 17(3A)(a) or (b) of the HRB Regulations, the regulator must—
 
@@ -1166,7 +1166,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 (5) If rejection of a commencement notice referred to in paragraph (1) or (2) is appealed and the regulator is notified that the appeal is allowed, the regulator must notify the collecting authority that the appeal has been allowed before the end of the period of 5 working days beginning with the day on which the regulator receives the appeal decision.
 
-#### 34. Provision of new named client information by the regulator[^key-0ee43b8588c0364fe1dccdaf848631fd]
+#### 34. Provision of new named client information by the regulator[^c-0ee43b8588c0364fe1dccdaf848631fd]
 
 (1) This regulation applies if—
 
@@ -1179,7 +1179,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 (2) The regulator must, before the end of the period of 5 working days beginning with the day on which the notice is received, provide a copy of the notice to the collecting authority.
 
-#### 35. Provision of confirmation by collecting authority[^key-03359e8d35450435dc0ec4f2c30475a0]
+#### 35. Provision of confirmation by collecting authority[^c-03359e8d35450435dc0ec4f2c30475a0]
 
 (1) Paragraph (3) applies if, pursuant to regulation 14 of the 2010 Regulations, a collecting authority receives evidence from a named client of a type referred to in regulation 14(7) of those Regulations.
 
@@ -1189,7 +1189,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 ### Chapter 3 — Section 30A applications: provision of information by Secretary of State to a collecting authority
 
-#### 36. Applications under section 30A of the 1984 Act: rejection of higher-risk building application[^key-197c798a7c2e188b65764a84a22b1856]
+#### 36. Applications under section 30A of the 1984 Act: rejection of higher-risk building application[^c-197c798a7c2e188b65764a84a22b1856]
 
 (1) Paragraph (2) applies if—
 
@@ -1202,7 +1202,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 ## Part 7 — DETERMINATION OF LEVY LIABILITY
 
-### 37. Collecting authority: determination of levy liability amount[^key-65cf485ac1c4811115f6c76e4579f626]
+### 37. Collecting authority: determination of levy liability amount[^c-65cf485ac1c4811115f6c76e4579f626]
 
 (1) This regulation applies if—
 
@@ -1245,7 +1245,7 @@ After Chapter 2 of Part 2 of the HRB Regulations insert—
 
 paragraph (7) does not have effect if the appeal is allowed.
 
-### 38. “Determination period”[^key-c01e0e8ef33d0cfed2ed81dc94803c8f]
+### 38. “Determination period”[^c-c01e0e8ef33d0cfed2ed81dc94803c8f]
 
 (1) Subject to paragraphs (3) to (9), in regulation 37, the “**determination period**” means the period of 5 weeks beginning with the receipt date or such longer period as the collecting authority and the named client agree in writing.
 
@@ -1254,14 +1254,14 @@ paragraph (7) does not have effect if the appeal is allowed.
 - (a) in the case of a building control application which is not an updated application, the date on which the collecting authority receives the last of the following documents—
   - (i) the building safety levy information in relation to the application;
   - (ii) the first compliant commencement notice, or a copy of it, in relation to building work to which the building control application relates;
-  - (iii) the evidence, in relation to that notice, required in accordance with[^key-bf2f5cfdcb188b0a9ce0153ac62020b2] regulation 16(3CA) of the 2010 Regulations, regulation 9(3B) or 17(3B) of the HRB Regulations or, as the case may be, regulation 15(2A) of the RBCA Regulations;
+  - (iii) the evidence, in relation to that notice, required in accordance with[^c-bf2f5cfdcb188b0a9ce0153ac62020b2] regulation 16(3CA) of the 2010 Regulations, regulation 9(3B) or 17(3B) of the HRB Regulations or, as the case may be, regulation 15(2A) of the RBCA Regulations;
 - (b) in the case of a pre-commencement updated application, the date on which the collecting authority receives the last of the following documents—
   - (i) the building safety levy information in relation to the updated application;
   - (ii) the first compliant commencement notice, or a copy of it, in relation to building work to which the updated application relates;
-  - (iii) the evidence, in relation to that notice, required in accordance with[^key-d307228b2c3a88421463c58c5d33f4a3] regulation 16(3CA) of the 2010 Regulations, regulation 9(3B) or 17(3B) of the HRB Regulations or, as the case may be, regulation 15(2A) of the RBCA Regulations;
+  - (iii) the evidence, in relation to that notice, required in accordance with[^c-d307228b2c3a88421463c58c5d33f4a3] regulation 16(3CA) of the 2010 Regulations, regulation 9(3B) or 17(3B) of the HRB Regulations or, as the case may be, regulation 15(2A) of the RBCA Regulations;
 - (c) in the case of an updated application which is received after the first compliant commencement notice, or a copy of it, has been received, the date on which the collecting authority receives the last of the following documents—
   - (i) the building safety levy information in relation to the updated application;
-  - (ii) the statements and evidence required in accordance with[^key-c62446957617619d714c8031650bf6df] regulation 14(1)(h)(ii) or (iii)[^key-10e8bb185e9130e2b3d4b2aa4b26ac62] of the 2010 Regulations, regulation 21(2)(g)(ii) or (iii) and (5)[^key-18a077d0f85b337494c93ca288f445df] of the HRB Regulations or, as the case may be, paragraph 1(h) or (i)[^key-74c3ee4ce44a905535d2a0f229172634] of the Annex to Form 2 in Schedule 1 to the RBCA Regulations.
+  - (ii) the statements and evidence required in accordance with[^c-c62446957617619d714c8031650bf6df] regulation 14(1)(h)(ii) or (iii)[^c-10e8bb185e9130e2b3d4b2aa4b26ac62] of the 2010 Regulations, regulation 21(2)(g)(ii) or (iii) and (5)[^c-18a077d0f85b337494c93ca288f445df] of the HRB Regulations or, as the case may be, paragraph 1(h) or (i)[^c-74c3ee4ce44a905535d2a0f229172634] of the Annex to Form 2 in Schedule 1 to the RBCA Regulations.
 
 (3) If the collecting authority considers that the information provided is not sufficient for the purposes of making a determination under regulation 37(2)(a) or (3)(a)—
 
@@ -1299,11 +1299,11 @@ the determination period ends on the day which is 5 weeks after the day on which
 
 (10) In this regulation, “**compliant commencement notice**” means—
 
-- (a) in relation to a higher-risk building application or a pre-commencement updated application in relation to such an application, a commencement notice which includes the information required in accordance with[^key-33f1caa73569089bdce0741f2c940e42] regulations 9(3A) or 17(3A) of the HRB Regulations;
+- (a) in relation to a higher-risk building application or a pre-commencement updated application in relation to such an application, a commencement notice which includes the information required in accordance with[^c-33f1caa73569089bdce0741f2c940e42] regulations 9(3A) or 17(3A) of the HRB Regulations;
 - (b) in relation to an application for building control approval with full plans, a section 91ZB application or a pre-commencement updated application in relation to such an application, a commencement notice which includes the information required in accordance with regulation 16(3CA) of the 2010 Regulations;
 - (c) in relation to an initial notice or a pre-commencement updated application in relation to such a notice, a commencement notice which includes the information required in accordance with regulation 15(2A) of the RBCA Regulations.
 
-### 39. “Levy liability notice”[^key-56764d6e6249f9815c63c14563b67e52]
+### 39. “Levy liability notice”[^c-56764d6e6249f9815c63c14563b67e52]
 
 (1) A “levy liability notice” is a notice, in relation to a chargeable application, stating the levy liability amount.
 
@@ -1330,7 +1330,7 @@ the determination period ends on the day which is 5 weeks after the day on which
 
 (4) Where the building control application referred to in paragraph (2)(a) relates to part of a relevant residential building the reference in paragraph (2)(e) to the relevant residential building is a reference to the part of the building to which the application relates.
 
-### 40. “Notice of no charge”[^key-a08bcb48e891d7be6866da35f4c18936]
+### 40. “Notice of no charge”[^c-a08bcb48e891d7be6866da35f4c18936]
 
 (1) A “notice of no charge” is a notice, in relation to a building control application, stating that no building safety levy is chargeable in respect of the application.
 
@@ -1348,7 +1348,7 @@ the determination period ends on the day which is 5 weeks after the day on which
 
 ### Chapter 1 — Meaning and effect of variation applications
 
-#### 41. Variation applications[^key-038cc54b88b5eb5275e74538f46301db]
+#### 41. Variation applications[^c-038cc54b88b5eb5275e74538f46301db]
 
 (1) A “**variation application**” means—
 
@@ -1364,7 +1364,7 @@ the determination period ends on the day which is 5 weeks after the day on which
 - (b) in the case of an amendment notice, it is given to a local authority in accordance with section 51A(2)(a) of the 1984 Act[^f00035];
 - (c) in the case of a change control application, it is submitted to the regulator in accordance with regulations 18(5) and 21 of the HRB Regulations.
 
-#### 42. Effect of a variation application[^key-7cdc6227a7e68eb4f1ebfdf37d654e28]
+#### 42. Effect of a variation application[^c-7cdc6227a7e68eb4f1ebfdf37d654e28]
 
 (1) This regulation applies if—
 
@@ -1404,7 +1404,7 @@ the completed work is to be treated as if it were as described in the original a
 
 (8) In a case where an application is made to the Secretary of State under section 30A of the 1984 Act in relation to a variation application, the reference in paragraph (7) to a building control authority is to be treated as a reference to the Secretary of State.
 
-#### 43. Cancellation and reinstatement of levy determination notices[^key-023190b8693e02b20021478c9a5e11d3]
+#### 43. Cancellation and reinstatement of levy determination notices[^c-023190b8693e02b20021478c9a5e11d3]
 
 (1) This regulation applies where a collecting authority has given a levy determination notice in relation to a building control application.
 
@@ -1442,11 +1442,11 @@ then on the day on which the rejection notice is given or, if the regulator is t
 
 ### Chapter 2 — Amendment of secondary legislation
 
-#### 44. Amendment of RBCA Regulations: information to be provided with amendment notices[^key-c21b7070e9220a7dcd20d13926e5c0ff]
+#### 44. Amendment of RBCA Regulations: information to be provided with amendment notices[^c-c21b7070e9220a7dcd20d13926e5c0ff]
 
 In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding form in Schedule 5.
 
-#### 45. Amendment of HRB Regulations: information to be provided with change control applications[^key-54b6759ae74024063afc29d994fe6d67]
+#### 45. Amendment of HRB Regulations: information to be provided with change control applications[^c-54b6759ae74024063afc29d994fe6d67]
 
 (1) Regulation 21 of the HRB Regulations is amended as follows[^f00037].
 
@@ -1493,7 +1493,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 ### Chapter 1 — “Levy information spot check”
 
-#### 46. “Levy information spot check”[^key-28c448570c8c2e29153e8aeaa9fbab12]
+#### 46. “Levy information spot check”[^c-28c448570c8c2e29153e8aeaa9fbab12]
 
 (1) A “**levy information spot check**” means an assessment as to the accuracy of a set of levy information in relation to a building control application, by reference to—
 
@@ -1508,11 +1508,11 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 - (b) the planning permission, or as the case may be the development consent under section 31 of the Planning Act 2008, for the development in relation to which the building work to which the application relates is to be carried out, and
 - (c) such other information as is reasonably available to the collecting authority.
 
-(2) A levy information spot check, in relation to a building control application, may only be carried out during the relevant period [^key-bc671283ef77b93f279391eedf47d90a]....
+(2) A levy information spot check, in relation to a building control application, may only be carried out during the relevant period [^c-bc671283ef77b93f279391eedf47d90a]....
 
 (3) In this regulation—
 
-- “[^key-b517732c55bca537d0d8f1c08ff515a5]**relevant period**” means—
+- “[^c-b517732c55bca537d0d8f1c08ff515a5]**relevant period**” means—
   - (a) in the case where a levy update notice in relation to the building control application is selected for a levy information spot check under regulation 47 or 48, the period under regulation 53(10) to (12) for determining the levy update application;
   - (b) in all other cases, the determination period under regulation 38(7) to (9) in relation to the building control application;
 - “**set of levy information**” means—
@@ -1521,7 +1521,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 ### Chapter 2 — Circumstances in which levy information spot checks are carried out
 
-#### 47. Requirement to carry out levy information spot checks: Category 1[^key-549d0a1fb63305bf93f4109f23c96d27]
+#### 47. Requirement to carry out levy information spot checks: Category 1[^c-549d0a1fb63305bf93f4109f23c96d27]
 
 (1) This regulation applies if, in a financial quarter, a collecting authority receives one or more sets of Category 1 levy information.
 
@@ -1546,7 +1546,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
   - (a) an updated application in relation to an initial notice, or
   - (b) a non-RBCA pre-commencement updated application.
 
-#### 48. Requirement to carry out levy information spot checks: Category 2[^key-2b892eca587eeba56f4e35fbfa1b21b0]
+#### 48. Requirement to carry out levy information spot checks: Category 2[^c-2b892eca587eeba56f4e35fbfa1b21b0]
 
 (1) This regulation applies if, in a financial quarter, a collecting authority receives one or more sets of Category 2 levy information.
 
@@ -1570,7 +1570,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 ### Chapter 3 — Process for carrying out levy information spot checks
 
-#### 49. Requirement to notify named client of levy information spot check[^key-d0c354f38c1e393dbb11d426289dd453][^key-0a9f401a015db138e3da235ab719bc1d]
+#### 49. Requirement to notify named client of levy information spot check[^c-d0c354f38c1e393dbb11d426289dd453][^c-0a9f401a015db138e3da235ab719bc1d]
 
 (1) This regulation applies where a building control application or a levy update notice is selected for a levy information spot check under regulation 47 or 48.
 
@@ -1580,7 +1580,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 - (b) specifying the last date by which the spot check must be carried out, which is the end of the relevant period, as defined in regulation 46(3), and
 - (c) stating that, if the collecting authority requests further information for the purposes of carrying out the levy information spot check, the period for carrying out the spot check is revised in accordance with regulation 50(3).
 
-#### 50. Further information and notice of outcome[^key-d133c0c9c4a4ab4afced3f84d99b587b]
+#### 50. Further information and notice of outcome[^c-d133c0c9c4a4ab4afced3f84d99b587b]
 
 (1) This regulation applies where a collecting authority has given notice in relation to a building control application under regulation 49 that it is carrying out a levy information spot check.
 
@@ -1593,7 +1593,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 (4) In this regulation “the LDN day” is the day on which the collecting authority gives a levy determination notice or a revised levy determination notice in relation to the building control application to which the levy information spot check relates.
 
-#### 51. Inaccurate building safety levy information[^key-db3af419c2959c54cd6e01cf997f825d]
+#### 51. Inaccurate building safety levy information[^c-db3af419c2959c54cd6e01cf997f825d]
 
 (1) This paragraph applies if, having carried out a levy information spot check in relation to a building control application, the collecting authority does not consider that the set of levy information is accurate.
 
@@ -1604,7 +1604,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 ### Chapter 4 — Levy update notices
 
-#### 52. Levy update notices[^key-6b74fc765a3c085cf74ffd84ed0a4b87]
+#### 52. Levy update notices[^c-6b74fc765a3c085cf74ffd84ed0a4b87]
 
 (1) This regulation applies if—
 
@@ -1622,15 +1622,15 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 (3) Subject to paragraph (4), the levy update notice must be signed by the named client and include—
 
-- (a) a statement setting out the number of dwellings, if any, that would be provided as a result of the building work to which the application relates (updated for the changes referred to in paragraph (1)(c)) which are within any of sub-paragraphs (a) to (c) of regulation 8(1) of these Regulations[^key-39797fd041695b10e846d01b9756dd08],
+- (a) a statement setting out the number of dwellings, if any, that would be provided as a result of the building work to which the application relates (updated for the changes referred to in paragraph (1)(c)) which are within any of sub-paragraphs (a) to (c) of regulation 8(1) of these Regulations[^c-39797fd041695b10e846d01b9756dd08],
 - (b) a statement setting out the levy charging information (updated for the changes referred to in paragraph (1)(c)), in relation to the application,
 - (c) a statement confirming whether or not the applicable planning information provided with the first compliant commencement notice under regulation 16(3C) of the 2010 Regulations, regulation 15(2) of the RBCA Regulations or regulations 9(3A) or 17(3A) of the HRB Regulations continues to be correct and if it is not, the statement must include the applicable planning information as updated,
-- (d) if a new person (NP) has become the client in relation to building work to which an initial notice relates (and details of NP have not already been given to the authority in an amendment notice, a levy update notice, a notice under regulation 15(2) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 or notice under paragraph 2(3) of Schedule 4 to these Regulations[^key-56da4c04a3a144b6ce39dee15439f2c1]), a statement explaining that NP is the new named client and setting out the contact information for NP,
-- (da)[^key-bf4f71b41fba9460a9f47046edbf11e9] a statement as to whether the building work to which the application relates is, or is anticipated to be, major residential development or is part of a wider development which is, or is anticipated to be, major residential development,
+- (d) if a new person (NP) has become the client in relation to building work to which an initial notice relates (and details of NP have not already been given to the authority in an amendment notice, a levy update notice, a notice under regulation 15(2) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024 or notice under paragraph 2(3) of Schedule 4 to these Regulations[^c-56da4c04a3a144b6ce39dee15439f2c1]), a statement explaining that NP is the new named client and setting out the contact information for NP,
+- (da)[^c-bf4f71b41fba9460a9f47046edbf11e9] a statement as to whether the building work to which the application relates is, or is anticipated to be, major residential development or is part of a wider development which is, or is anticipated to be, major residential development,
 - (db) the number of dwellings, if any, that would be provided as a result of the building work to which the application relates,
 - (dc) if purpose-built student accommodation would be provided as a result of the building work to which the application relates, the number of bedspaces that would be contained in the purpose-built student accommodation,
 - (dd) the details of the levy determination notice referred to in paragraph (1)(a), and
-- (e) evidence as to the matters described in sub-paragraphs (a) to (c) and (da)[^key-e207bded190e56724caabd8dc8d55724].
+- (e) evidence as to the matters described in sub-paragraphs (a) to (c) and (da)[^c-e207bded190e56724caabd8dc8d55724].
 
 (4) If the change to which the notice relates results in the building control application no longer being chargeable, the statement under paragraph (3)(b) must instead explain how the application is no longer chargeable.
 
@@ -1638,7 +1638,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 (6) A levy update notice given in relation to a change in paragraph (1)(c)(ii) or (iv) may only be given by the new named client.
 
-#### 53. Procedure and outcome for levy updates[^key-25669138d638d3cda38f590d8ad4cc20]
+#### 53. Procedure and outcome for levy updates[^c-25669138d638d3cda38f590d8ad4cc20]
 
 (1) This regulation applies if the collecting authority—
 
@@ -1652,7 +1652,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 (3) Subject to paragraphs (6) to (12), the collecting authority must, before the end of the period of 5 weeks beginning with the receipt date—
 
-- (a) determine in accordance with regulation 15 whether or not the building control application is[^key-287a3c12d3fb6d60d630b26516d212b3] chargeable having regard to the levy update application, and
+- (a) determine in accordance with regulation 15 whether or not the building control application is[^c-287a3c12d3fb6d60d630b26516d212b3] chargeable having regard to the levy update application, and
 - (b) take either the steps specified in paragraph (4) or the step specified in paragraph (5).
 
 (4) If the building control application, having regard to the levy update application, is chargeable, the collecting authority must—
@@ -1700,7 +1700,7 @@ In Schedule 1 to the RBCA Regulations, for Form 2, substitute the corresponding 
 
 the completed work is to be treated as if it were as described in the building control application, including any variations to that work which were described in any variation application approved before the work was completed, and no regard is to be had to how a change listed in regulation 52(1)(c) relates to the completed work.
 
-#### 54. Request for revised levy determination[^key-e6de9cddc51e543a6403fa5043ddeea3]
+#### 54. Request for revised levy determination[^c-e6de9cddc51e543a6403fa5043ddeea3]
 
 (1) This paragraph applies if—
 
@@ -1728,7 +1728,7 @@ the completed work is to be treated as if it were as described in the building c
 (4) If following receipt of a request application in accordance with this regulation the collecting authority is satisfied the conditions in paragraph (1) are met, the collecting authority must, before the end of the period of 5 weeks beginning with the date on which the request application is received—
 
 - (a) determine the new levy liability amount in relation to the building control application referred to in paragraph (1) (where, subject to paragraph (5), a new levy liability amount has the meaning given in regulation 67);
-- (b) give the named client a revised levy determination notice in relation to the building control application (where, subject to paragraph (5A), a revised levy determination notice has the meaning given in regulation 67)[^key-f53b1fcc99876654b7fa8b8bf44cff60];
+- (b) give the named client a revised levy determination notice in relation to the building control application (where, subject to paragraph (5A), a revised levy determination notice has the meaning given in regulation 67)[^c-f53b1fcc99876654b7fa8b8bf44cff60];
 - (c) if the building control application referred to in paragraph (1) is an initial notice or an updated application in relation to an initial notice, give a copy of the revised levy determination notice to the registered building control approver.
 
 (5) In determining the amount referred to in paragraph (4)(a), regulation 67 has effect as if in paragraphs (3) to (5) of that regulation any reference to—
@@ -1737,7 +1737,7 @@ the completed work is to be treated as if it were as described in the building c
 - (b) the building control application referred to in regulation 66(1) were a reference to the building control application referred to in this regulation;
 - (c) part lapse work were a reference to regulation 54 work.
 
-(5A)[^key-c698b095cd2f4f7fb59c38f0f8207f03] For the purposes of paragraph (4)(b), regulation 67(6) has effect as if any reference in that paragraph to—
+(5A)[^c-c698b095cd2f4f7fb59c38f0f8207f03] For the purposes of paragraph (4)(b), regulation 67(6) has effect as if any reference in that paragraph to—
 
 - (a) the refund application were a reference to the request application;
 - (b) the new levy liability amount were a reference to the new levy liability amount determined under this regulation;
@@ -1763,7 +1763,7 @@ the completed work is to be treated as if it were as described in the building c
 
 ### Chapter 1 — Payment of levy
 
-#### 55. Requirements in relation to levy payment certificates[^key-833ddebd06fce44ff04d1aba47ab658e]
+#### 55. Requirements in relation to levy payment certificates[^c-833ddebd06fce44ff04d1aba47ab658e]
 
 (1) This regulation applies where a collecting authority receives payment, in full, of the levy liability amount in relation to a building control application.
 
@@ -1772,7 +1772,7 @@ the completed work is to be treated as if it were as described in the building c
 - (a) give a levy payment certificate to the named client in relation to the building control application, and
 - (b) if the application is an initial notice or an updated application where the original application was an initial notice, give a copy of the levy payment certificate to the registered building control approver.
 
-#### 56. Content of levy payment certificate[^key-f180700a521ac106936b6719ff058240]
+#### 56. Content of levy payment certificate[^c-f180700a521ac106936b6719ff058240]
 
 (1) A “levy payment certificate” is a notice in relation to a chargeable application stating the amount of building safety levy paid in respect of the application.
 
@@ -1791,7 +1791,7 @@ the completed work is to be treated as if it were as described in the building c
 
 ### Chapter 2 — Amendment of secondary legislation
 
-#### 57. Amendment of 2010 Regulations: completion notice[^key-9dfe0bad24067f3fc1212d8efe089b9b]
+#### 57. Amendment of 2010 Regulations: completion notice[^c-9dfe0bad24067f3fc1212d8efe089b9b]
 
 (1) Regulation 16 of the 2010 Regulations is amended as follows.
 
@@ -1812,7 +1812,7 @@ the completed work is to be treated as if it were as described in the building c
 
 .
 
-#### 58. Amendment of 2010 Regulations: withholding a completion certificate[^key-604fe59337aa6b22e5527bc118ed303c]
+#### 58. Amendment of 2010 Regulations: withholding a completion certificate[^c-604fe59337aa6b22e5527bc118ed303c]
 
 (1) Regulation 17 of the 2010 Regulations is amended as follows.
 
@@ -1824,7 +1824,7 @@ the completed work is to be treated as if it were as described in the building c
 
 .
 
-#### 59. Amendment of RBCA Regulations: compliance declarations[^key-cf6079f0f84b36f375b4dc85d0f2b87b]
+#### 59. Amendment of RBCA Regulations: compliance declarations[^c-cf6079f0f84b36f375b4dc85d0f2b87b]
 
 (1) Regulation 18 of the RBCA Regulations is amended as follows.
 
@@ -1849,7 +1849,7 @@ insert—
 
 .
 
-#### 60. Amendment of RBCA Regulations: rejecting final certificate[^key-0fc87647e8d027d0cdbae57bbe056403]
+#### 60. Amendment of RBCA Regulations: rejecting final certificate[^c-0fc87647e8d027d0cdbae57bbe056403]
 
 (1) The RBCA Regulations are amended as follows.
 
@@ -1863,7 +1863,7 @@ insert—
 
 .
 
-#### 61. Amendment of HRB Regulations: completion certificate applications[^key-a8229a973b6a4ff35ed6f9f5287666b8]
+#### 61. Amendment of HRB Regulations: completion certificate applications[^c-a8229a973b6a4ff35ed6f9f5287666b8]
 
 (1) The HRB Regulations are amended as follows.
 
@@ -1907,7 +1907,7 @@ insert—
 
   .
 
-#### 62. Amendment of HRB Regulations: rejecting completion certificate applications[^key-1506d9b84a12fd34bf730d30cdf7baeb]
+#### 62. Amendment of HRB Regulations: rejecting completion certificate applications[^c-1506d9b84a12fd34bf730d30cdf7baeb]
 
 (1) The HRB Regulations are amended as follows.
 
@@ -1925,7 +1925,7 @@ insert—
 
 ### Chapter 3 — Provision of information in relation to completion applications etc
 
-#### 63. Provision of information by the named client and by the collecting authority in relation to completion applications[^key-ec6133c34bf13dfb88b45e05a649a184]
+#### 63. Provision of information by the named client and by the collecting authority in relation to completion applications[^c-ec6133c34bf13dfb88b45e05a649a184]
 
 (1) This regulation applies where a building control authority receives an HRB-related completion application or a LABC completion application.
 
@@ -1962,7 +1962,7 @@ the building control authority must ask the collecting authority whether or not 
   - (b) a final certificate, given in relation to an initial notice, which is required to include a final certificate statement;
 - “**levy liability statement**” has the meaning given in regulation 16(5B) of the 2010 Regulations, regulation 18(2) of the RBCA Regulations or, as the case may be, regulation 40(3A) or 45(4A) of the HRB Regulations.
 
-#### 64. Rejection of applications by the Secretary of State[^key-7831aa17b38cafcc2d266ec5c805655b]
+#### 64. Rejection of applications by the Secretary of State[^c-7831aa17b38cafcc2d266ec5c805655b]
 
 (1) This regulation applies where, under section 30A of the 1984 Act, a person has applied for a HRB completion application to be determined by the Secretary of State.
 
@@ -1984,7 +1984,7 @@ before the end of the period of 10 working days beginning with the day the reque
 
 ### Chapter 4 — Refunds
 
-#### 65. Refund of levy payments: conditions A to D[^key-26790acea3c986c0d93dde1a6499bb6f]
+#### 65. Refund of levy payments: conditions A to D[^c-26790acea3c986c0d93dde1a6499bb6f]
 
 (1) This regulation applies in relation to a building control application if—
 
@@ -2042,7 +2042,7 @@ before the end of the period of 10 working days beginning with the day the reque
 - (a) the date on which the revised levy determination notice is given or, in the case of an updated application, the levy determination notice is given, and
 - (b) the date on which the collecting authority receives details of a bank account, nominated by the named client, into which the payment is to be made.
 
-#### 66. Refund of levy payments: conditions E to K[^key-bf54891f522eddf48218e2522f73249f]
+#### 66. Refund of levy payments: conditions E to K[^c-bf54891f522eddf48218e2522f73249f]
 
 (1) This regulation applies in relation to a building control application if—
 
@@ -2202,7 +2202,7 @@ the collecting authority must, within the refund payment period, pay to the name
   - (c) the time the most recent levy update notice, if any, was given under regulation 52(2) in relation to the building control application;
 - “**uncertificated work**” means the part of the original work in respect of which no final certificate has been accepted or, as the case may be, no completion certificate has been given, where the original work means the building work described in the building control application referred to in paragraph (1).
 
-#### 67. Refunds: levy liability amount, levy liability notices and levy payment certificates[^key-fda74be88540b494d7a03384d42864bb]
+#### 67. Refunds: levy liability amount, levy liability notices and levy payment certificates[^c-fda74be88540b494d7a03384d42864bb]
 
 (1) This regulation applies if, following receipt of a refund application in accordance with regulation 66, a collecting authority is satisfied the requirements of regulation 66(1) are met.
 
@@ -2245,7 +2245,7 @@ the collecting authority must, within the refund payment period, pay to the name
     - (bb) give the named client a revised levy determination notice and a revised levy payment certificate in relation to the building control application,
     - (cc) where condition H applies, also give a copy of the revised levy determination notice and revised levy payment certificate to the registered building control approver.
 
-(2A)[^key-ed3584ca29148da68859d5d54c1a361c] If a revised levy determination notice is given in accordance with paragraph (2)(a)(ii) or (2)(d)(vii)(bb) and that notice specifies that there is no charge, the levy liability notice in relation to the application referred to in regulation 66(1)(a) is cancelled and the revised levy determination notice given under paragraph (2)(a)(ii) or (2)(d)(vii)(bb) (as the case may be) must include a statement to that effect.
+(2A)[^c-ed3584ca29148da68859d5d54c1a361c] If a revised levy determination notice is given in accordance with paragraph (2)(a)(ii) or (2)(d)(vii)(bb) and that notice specifies that there is no charge, the levy liability notice in relation to the application referred to in regulation 66(1)(a) is cancelled and the revised levy determination notice given under paragraph (2)(a)(ii) or (2)(d)(vii)(bb) (as the case may be) must include a statement to that effect.
 
 (2B) If a revised levy payment certificate is given in accordance with paragraph (2)(a)(iii) or (2)(d)(vii)(bb) and the revised levy determination notice given in accordance with paragraph (2)(a)(ii) or (2)(d)(vii)(bb) (as the case may be) specifies that there is no charge, the levy payment certificate referred to in regulation 66(1)(b) is cancelled and the revised levy payment certificate given under paragraph (2)(a)(iii) or (2)(d)(vii)(bb) (as the case may be) must include a statement to that effect.
 
@@ -2316,7 +2316,7 @@ the collecting authority must, within the refund payment period, pay to the name
 
 ## Part 11 — PAYMENT OF RECEIPTS TO THE SECRETARY OF STATE
 
-### 68. Provision of payment information to the Secretary of State[^key-faf9360586c0147be542779046f6085b]
+### 68. Provision of payment information to the Secretary of State[^c-faf9360586c0147be542779046f6085b]
 
 (1) A collecting authority must prepare a building safety levy return for each financial quarter.
 
@@ -2343,7 +2343,7 @@ the collecting authority must, within the refund payment period, pay to the name
 - (a) is given by the collecting authority during the financial quarter, and
 - (b) is not cancelled before the end of that financial quarter.
 
-### 69. Payment and deduction of administrative expenses[^key-6767e8f06327360a56c240e9fece246e]
+### 69. Payment and deduction of administrative expenses[^c-6767e8f06327360a56c240e9fece246e]
 
 (1) The collecting authority must, in respect of each financial quarter, pay an amount equal to the levy balance for that quarter to the Secretary of State within 42 days of the end of that quarter.
 
@@ -2374,7 +2374,7 @@ the collecting authority must, within the refund payment period, pay to the name
 - (f) costs associated with legal proceedings in connection with the building safety levy;
 - (g) any other amounts for which the collecting authority is legally liable in connection with the building safety levy.
 
-### 70. Reimbursement by the Secretary of State[^key-b459102dd1ba5094056f3bbe5e5379c1]
+### 70. Reimbursement by the Secretary of State[^c-b459102dd1ba5094056f3bbe5e5379c1]
 
 (1) This regulation applies if a collecting authority’s levy balance is a negative amount for the financial quarter ending on the last day of March in any year.
 
@@ -2384,7 +2384,7 @@ the collecting authority must, within the refund payment period, pay to the name
 
 ## Part 12 — DECISIONS OF COLLECTING AUTHORITY: REVIEWS AND APPEALS
 
-### 71. Request for a review[^key-c64cd28c48c7f7947121918acd7d3230]
+### 71. Request for a review[^c-c64cd28c48c7f7947121918acd7d3230]
 
 (1) The named client in relation to a building control application may request a review of—
 
@@ -2406,7 +2406,7 @@ the collecting authority must, within the refund payment period, pay to the name
 
 (5) A person may not request a review of the decision reached on an earlier review, but this does not prevent a review of a decision in relation to an updated application where a review has been carried out in relation to the original application or another updated application in relation to that original application.
 
-### 72. Carrying out a review[^key-7ad65d3de8db35163a8a9b6d75892731]
+### 72. Carrying out a review[^c-7ad65d3de8db35163a8a9b6d75892731]
 
 (1) If a request for a review is made in accordance with regulation 71, the collecting authority must review the decision.
 
@@ -2427,9 +2427,9 @@ the collecting authority must, within the refund payment period, pay to the name
 
 (5) Before the end of the period of 28 days beginning with the date on which the request for review is received, the collecting authority must notify the named client of its decision on the review and the reasons for that decision, and regulations 37, 53, 54, 65, 66 or, as the case may be, 67 apply to the new decision as they applied to the original decision.
 
-(6)[^key-7b8ebe9e97b540fa44f1b58e099d439e] If the new decision is that no building safety levy is chargeable in relation to the building control application and a notice of no charge is given in relation to the new decision in accordance with regulation 37(4), the levy liability notice referred to in regulation 71(1)(a) is cancelled and the notice of no charge given under regulation 37(4) must include a statement to that effect.
+(6)[^c-7b8ebe9e97b540fa44f1b58e099d439e] If the new decision is that no building safety levy is chargeable in relation to the building control application and a notice of no charge is given in relation to the new decision in accordance with regulation 37(4), the levy liability notice referred to in regulation 71(1)(a) is cancelled and the notice of no charge given under regulation 37(4) must include a statement to that effect.
 
-### 73. Appeal against decision on a review[^key-b544b75fc25372a7f355ae04a9836ea9]
+### 73. Appeal against decision on a review[^c-b544b75fc25372a7f355ae04a9836ea9]
 
 (1) A person who has requested a review under regulation 71 may appeal to the First-tier Tribunal—
 
@@ -2453,11 +2453,11 @@ the collecting authority must, within the refund payment period, pay to the name
 
 (5) Where the First-tier Tribunal substitutes a decision under paragraph (4)(b), then regulations 37, 53, 54, 65, 66 or, as the case may be, 67 apply to the new decision as they applied to the original decision.
 
-(6)[^key-156299e8f9761a8066d3c3bf0d91e43b] If the new decision is that no building safety levy is chargeable in relation to the building control application and a notice of no charge is given in relation to the new decision in accordance with regulation 37(4), the levy liability notice referred to in regulation 71(1)(a) is cancelled and the notice of no charge given under regulation 37(4) must include a statement to that effect.
+(6)[^c-156299e8f9761a8066d3c3bf0d91e43b] If the new decision is that no building safety levy is chargeable in relation to the building control application and a notice of no charge is given in relation to the new decision in accordance with regulation 37(4), the levy liability notice referred to in regulation 71(1)(a) is cancelled and the notice of no charge given under regulation 37(4) must include a statement to that effect.
 
 ## Part 13 — SECRETARY OF STATE REVIEW OF REGULATIONS
 
-### 74. Secretary of State review of building safety levy[^key-2a2a498d1442a8a76924c0c9f4d6e1b0]
+### 74. Secretary of State review of building safety levy[^c-2a2a498d1442a8a76924c0c9f4d6e1b0]
 
 (1) The Secretary of State must carry out reviews of—
 
@@ -2486,7 +2486,7 @@ Schedules
 
 Regulation 7(2)
 
-### 1. Exempt buildings: general[^key-2ea214508192ffaac9046d111facc3ac]
+### 1. Exempt buildings: general[^c-2ea214508192ffaac9046d111facc3ac]
 
 (1) A building is an “exempt building” if it is designed or adapted (or is in the process of being constructed or adapted) for use primarily as—
 
@@ -2503,32 +2503,32 @@ Regulation 7(2)
 
 (2) Paragraphs 2 to 8 apply for the purposes of this paragraph.
 
-### 2. School accommodation[^key-594fcf0ce971fbc29fd3aad10232ba73]
+### 2. School accommodation[^c-594fcf0ce971fbc29fd3aad10232ba73]
 
 (1) “**School accommodation**” means residential accommodation provided by a school for the use of its students.
 
 (2) “**School**” has the meaning given in section 4 of the Education Act 1996[^f00056].
 
-### 3. Care homes[^key-67e333eb2bd8a3b1b1eb71cf44f541bd]
+### 3. Care homes[^c-67e333eb2bd8a3b1b1eb71cf44f541bd]
 
 “**Care home**” has the meaning given in section 3 of the Care Standards Act 2000[^f00057].
 
-### 4. Secure residential institutions[^key-4495ab16d4f4321a1c9d319def4de372]
+### 4. Secure residential institutions[^c-4495ab16d4f4321a1c9d319def4de372]
 
 “**Secure residential institution**” means an institution used for the provision of secure residential accommodation, including as a prison, young offenders institution, detention centre, secure training centre, custody centre, short term holding centre or secure local authority accommodation.
 
-### 5. Hospitals[^key-f8e10038a3485935c04c209212bb6a84]
+### 5. Hospitals[^c-f8e10038a3485935c04c209212bb6a84]
 
 “**Hospital**” means an institution which—
 
 - (a) is a hospital within the meaning of section 275 of the National Health Service Act 2006[^f00058], and
 - (b) has at least one bed intended for an overnight stay of a patient admitted to the institution.
 
-### 6. Accommodation for victims of domestic abuse[^key-870d958ac57967052a0b0be23820b19f]
+### 6. Accommodation for victims of domestic abuse[^c-870d958ac57967052a0b0be23820b19f]
 
 “**Accommodation for victims of domestic abuse**” means accommodation of the description specified in regulation 2(2) of the Domestic Abuse Support (Relevant Accommodation and Housing Benefit and Universal Credit Sanctuary Schemes) (Amendment) Regulations 2021[^f00059].
 
-### 7. Children’s homes, residential family centres and supported accommodation for children[^key-08804647d8415b5142c408e812f2a5eb]
+### 7. Children’s homes, residential family centres and supported accommodation for children[^c-08804647d8415b5142c408e812f2a5eb]
 
 (1) The following terms have the same meaning as in the Care Standards Act 2000[^f00060]—
 
@@ -2537,7 +2537,7 @@ Regulation 7(2)
 
 (2) “**Supported accommodation for children**” means accommodation that is within the definition of supported accommodation in regulation 2 of the Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022[^f00061].
 
-### 8. Temporary accommodation for homeless people[^key-c8d89020d2fa422622a6de9ce5746a4f]
+### 8. Temporary accommodation for homeless people[^c-c8d89020d2fa422622a6de9ce5746a4f]
 
 “**Temporary accommodation for homeless people**” means accommodation the availability for occupation of which is secured under Part 7 of the Housing Act 1996[^f00062].
 
@@ -2547,11 +2547,11 @@ Regulation 8(2)
 
 ### Part 1 — Social housing
 
-#### 1. “Social housing”: general[^key-598a2f77390e63c8b4caa84d6b287b46]
+#### 1. “Social housing”: general[^c-598a2f77390e63c8b4caa84d6b287b46]
 
 A dwelling is “social housing” if it satisfies at least one of conditions 1 to 4.
 
-#### 2. Condition 1[^key-2559278979ccac7abf27fec97dbcd914]
+#### 2. Condition 1[^c-2559278979ccac7abf27fec97dbcd914]
 
 Condition 1 is that—
 
@@ -2567,7 +2567,7 @@ Condition 1 is that—
   - (i) the dwelling is one in relation to which the Rent Standard 2020[^f00065] set under section 194(2A) of the Housing and Regeneration Act 2008[^f00066] applies, or
   - (ii) if sub-paragraph (i) does not apply, the rent is no more than 80% of market rent, including service charges.
 
-#### 3. Condition 2[^key-11858a28136b586ad9c98ffce392ea06]
+#### 3. Condition 2[^c-11858a28136b586ad9c98ffce392ea06]
 
 (1) Condition 2 is that the following criteria are met—
 
@@ -2599,7 +2599,7 @@ Condition 1 is that—
   - (ii) if that index is not published for a particular month, any substituted index or index figures published by the Statistics Board;
 - (d) the “**RPI increase**”, in relation to a reference period, means the percentage change in the retail prices index for the period.
 
-#### 4. Condition 3[^key-fd79329274cacfbb61c3ce63e40268ba]
+#### 4. Condition 3[^c-fd79329274cacfbb61c3ce63e40268ba]
 
 Condition 3 is that—
 
@@ -2616,14 +2616,14 @@ Condition 3 is that—
   - (ii) the rent is no more than 80% of market rent, including service charges, and
 - (c) a planning obligation designed to ensure compliance with both criteria at sub-paragraph (b) has been entered into in respect of the planning permission which permits the building work to which the building control application relates.
 
-#### 5. Condition 4[^key-1a562df29ac869305c698a8527b2c640]
+#### 5. Condition 4[^c-1a562df29ac869305c698a8527b2c640]
 
 Condition 4 is that the following criteria are met—
 
 - (a) the first sale of the dwelling is for no more than 70% of its market value (where the market value at any time is the price that the dwelling might reasonably be expected to fetch if sold at that time on the open market), and
 - (b) a planning obligation has been entered into prior to the first sale of the dwelling designed to ensure that any subsequent sale of the dwelling is for no more than 70% of its market value.
 
-#### 6. Definitions[^key-c81250a28b475c711dff5e20c340c81b]
+#### 6. Definitions[^c-c81250a28b475c711dff5e20c340c81b]
 
 In this Part of this Schedule—
 
@@ -2637,7 +2637,7 @@ In this Part of this Schedule—
 
 ### Part 2 — Supported housing
 
-#### 7. Supported housing[^key-efed07602f4b0691b6bacf667311a3bf]
+#### 7. Supported housing[^c-efed07602f4b0691b6bacf667311a3bf]
 
 (1) Each of the following is “supported housing”—
 
@@ -2661,7 +2661,7 @@ In this Part of this Schedule—
 
 ### Part 3 — Exempt accommodation
 
-**8.**[^key-8349ea6b7c9688a01d23d8813b7f4948] (1) “**Exempt accommodation**” means—
+**8.**[^c-8349ea6b7c9688a01d23d8813b7f4948] (1) “**Exempt accommodation**” means—
 
 - (a) school accommodation,
 - (b) accommodation for victims of domestic abuse,
@@ -2678,7 +2678,7 @@ In this Part of this Schedule—
 
 (2) Terms used in sub-paragraph (1) have the same meaning as in Schedule 1.
 
-## Schedule 3 — Area Rates[^key-40d4d710a10e9b867a184fb40a9236ac]
+## Schedule 3 — Area Rates[^c-40d4d710a10e9b867a184fb40a9236ac]
 
 Regulation 20
 
@@ -2918,7 +2918,7 @@ Table 1
 | Southwark | 28.47 | 56.93 |
 | Spelthorne | 25.81 | 51.62 |
 | St Albans | 24.77 | 49.55 |
-| St Helens[^key-f608dde03ade1fcce47536f8abc74dc9] | 10.37 | 20.73 |
+| St Helens[^c-f608dde03ade1fcce47536f8abc74dc9] | 10.37 | 20.73 |
 | Stafford | 12.29 | 24.58 |
 | Staffordshire Moorlands | 11.05 | 22.09 |
 | Stevenage | 21.73 | 43.46 |
@@ -2990,7 +2990,7 @@ Table 1
 
 Regulation 23
 
-### 1. Named client in relation to building control applications with full plans or related updated application[^key-1fa2ac52da86060ecaca94e5a8a386ee]
+### 1. Named client in relation to building control applications with full plans or related updated application[^c-1fa2ac52da86060ecaca94e5a8a386ee]
 
 (1) This paragraph applies in relation to a building control application which is—
 
@@ -3012,7 +3012,7 @@ Regulation 23
 - (a) in a case within sub-paragraph (1)(a), references to the application for building control approval with full plans, and
 - (b) in a case within sub-paragraph (1)(b), references to the variation application in relation to the updated application.
 
-### 2. Named client in relation to initial notice or related updated application[^key-ee71ff109b38188d0c0ea10fb1f517f8]
+### 2. Named client in relation to initial notice or related updated application[^c-ee71ff109b38188d0c0ea10fb1f517f8]
 
 (1) This paragraph applies in relation to a building control application which is—
 
@@ -3038,7 +3038,7 @@ Regulation 23
 
 (4) In sub-paragraphs (2)(f) and (3), “**the client**” has the meaning given in regulation 2 of the 2010 Regulations.
 
-### 3. Named client in relation to higher-risk building application or related updated application[^key-3cc5cd2c48d619726093210a503c7a09]
+### 3. Named client in relation to higher-risk building application or related updated application[^c-3cc5cd2c48d619726093210a503c7a09]
 
 (1) This paragraph applies in relation to—
 
@@ -3057,11 +3057,11 @@ Regulation 23
 - (a) the person named as the new client in that notice, or
 - (b) if more than one notice is given, the person named as the new client in the latest of those notices.
 
-## Schedule 5 — RBCA Regulations: substituted forms[^key-7f1ca5213c2567addc4fe0f9895b7d44]
+## Schedule 5 — RBCA Regulations: substituted forms[^c-7f1ca5213c2567addc4fe0f9895b7d44]
 
 Regulations 29, 44 and 60
 
-[^key-7f1ca5213c2567addc4fe0f9895b7d44]
+[^c-7f1ca5213c2567addc4fe0f9895b7d44]
 
 The following Forms 1, 2, 4 and 5 are substituted for the corresponding forms in Schedule 1 to the RBCA Regulations.
 
@@ -3107,9 +3107,9 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 51A was inserted by [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905). Sections 105C and 120A were inserted by section 58 of, and paragraph 77 of Schedule 5 to, the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30) respectively. Section 120B was inserted by paragraph 77 of Schedule 5 to that Act. Section 51(2) applies the powers in section 50(5) to (7) to final certificates. Section 51A(6) applies the powers in section 47(5) to amendment notices. See section 105C(11) for the definition of “specified” and section 126 for the definition of “prescribed”.
 
-[^key-2b11091b9cea0161c21cae44d8964609]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2b11091b9cea0161c21cae44d8964609]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-78d7173c32bb62cc4af2058b3f5bb718]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1236/regulation/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-78d7173c32bb62cc4af2058b3f5bb718]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1236/regulation/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), [2022/564](https://www.legislation.gov.uk/uksi/2022/564), [2023/520](https://www.legislation.gov.uk/uksi/2023/520), [2023/911](https://www.legislation.gov.uk/uksi/2023/911) and [2024/110](https://www.legislation.gov.uk/uksi/2024/110). There are other amending instruments, but none is relevant to this instrument.
 
@@ -3147,39 +3147,39 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00019]: Footnote: See regulation 2 of those Regulations.
 
-[^key-1941817eec67efcd64818ea2f23a534c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1236/regulation/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-1941817eec67efcd64818ea2f23a534c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1236/regulation/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-d49abfada3f72388a14d0f9801c62393]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1236/regulation/4) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-d49abfada3f72388a14d0f9801c62393]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1236/regulation/4) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00020]: Footnote: See section 126 of the 1984 Act for the definition of “local authority” which was substituted by paragraph 14(4) of Schedule 7 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). There are other amendments to section 126 not relevant to this instrument.
 
-[^key-2759d77a7f2b3e51042d5559ed10dab5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1236/regulation/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2759d77a7f2b3e51042d5559ed10dab5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1236/regulation/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00021]: Footnote: Regulation 14 was substituted by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
-[^key-649bc82f1bffeac57315f49b4569dc73]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1236/regulation/6) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-649bc82f1bffeac57315f49b4569dc73]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1236/regulation/6) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-92ec09d2f2553e26d3e576577807e0cf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1236/regulation/7) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-92ec09d2f2553e26d3e576577807e0cf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1236/regulation/7) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-719ba72becf17327e0e31abca63d7c2d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1236/regulation/8) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-719ba72becf17327e0e31abca63d7c2d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1236/regulation/8) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-37e91c68d53b1848a3abb464899b5d1f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1236/regulation/9) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-37e91c68d53b1848a3abb464899b5d1f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1236/regulation/9) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00022]: Footnote: [2004 c. 8](https://www.legislation.gov.uk/ukpga/2004/8). See section 11 for the definition of “qualifying institution”. Section 11 is amended by section 89(2) of the Consumer Rights Act [2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15) and section 89(2) of the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-e694cd621d56807fda144c081dfe2069]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1236/regulation/10) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-e694cd621d56807fda144c081dfe2069]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1236/regulation/10) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-ecb87002e0a819d108ee309924b83992]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1236/regulation/11) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-ecb87002e0a819d108ee309924b83992]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1236/regulation/11) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-80ff4cc63928217459b3b397c28965ae]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1236/regulation/12) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-80ff4cc63928217459b3b397c28965ae]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1236/regulation/12) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00023]: Footnote: The Code of Measuring Practice (6th edition) was published by the Royal Institution of Chartered Surveyors in May 2015. The Code is available at https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/real-estate-standards/code-of-measuring-practice and is also available for inspection during office hours at the Ministry of Housing, Communities and Local Government, 2 Marsham Street, London, SW1P 4DF.
 
-[^key-5c0685f4011133c6d68a328327d4cc92]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1236/regulation/13) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-5c0685f4011133c6d68a328327d4cc92]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1236/regulation/13) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00024]: Footnote: By virtue of Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) see section 80 of the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17) for the meaning of “registered provider of social housing” and section 115 of that Act for what is meant by “**non-profit**” in relation to such providers. Section 80 was amended by [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844). Section 115 was amended by paragraph 23 of Schedule 4 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), section 8 of, and paragraph 2 of Schedule 4 to, the Social Housing (Regulation) Act [2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36) and [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844).
 
-[^key-d5625e3cd31f8f4853553ab97d4d30d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/1236/regulation/14) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-d5625e3cd31f8f4853553ab97d4d30d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/1236/regulation/14) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00025]: Footnote: Regulation 46A was inserted into the 2010 Regulations by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
@@ -3187,117 +3187,117 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00027]: Footnote: Regulation 16(3C) was inserted into the 2010 Regulations by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
-[^key-4837594262c0b8d05f059b7cf7624689]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/1236/regulation/15) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-4837594262c0b8d05f059b7cf7624689]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/1236/regulation/15) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-ed50cdfd6e6805bb4ee763e2b0f99c8f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/1236/regulation/16) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-ed50cdfd6e6805bb4ee763e2b0f99c8f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/1236/regulation/16) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-3fa8721aa48a4347cb1fccac46aa2778]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/1236/regulation/17) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-3fa8721aa48a4347cb1fccac46aa2778]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/1236/regulation/17) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00028]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-06c861c938434e421803236491b4507f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/1236/regulation/18) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-06c861c938434e421803236491b4507f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/1236/regulation/18) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-aef53894100ef55409ec49f794554a27]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/1236/regulation/19) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-aef53894100ef55409ec49f794554a27]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/1236/regulation/19) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-4d081bb5a0187e9aa613f8a7eeb531f7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/1236/regulation/20) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-4d081bb5a0187e9aa613f8a7eeb531f7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/1236/regulation/20) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), which has been amended by [S.I. 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2016/772](https://www.legislation.gov.uk/uksi/2016/772), [2016/1040](https://www.legislation.gov.uk/uksi/2016/1040), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/391](https://www.legislation.gov.uk/uksi/2017/391), [2017/571](https://www.legislation.gov.uk/uksi/2017/571), [2017/619](https://www.legislation.gov.uk/uksi/2017/619), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2018/343](https://www.legislation.gov.uk/uksi/2018/343), [2018/695](https://www.legislation.gov.uk/uksi/2018/695), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330), [2020/412](https://www.legislation.gov.uk/uksi/2020/412), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/755](https://www.legislation.gov.uk/uksi/2020/755), [2020/756](https://www.legislation.gov.uk/uksi/2020/756), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243), [2020/1459](https://www.legislation.gov.uk/uksi/2020/1459), [2021/428](https://www.legislation.gov.uk/uksi/2021/428), [2021/467](https://www.legislation.gov.uk/uksi/2021/467), [2021/814](https://www.legislation.gov.uk/uksi/2021/814), [2021/1464](https://www.legislation.gov.uk/uksi/2021/1464), [2022/278](https://www.legislation.gov.uk/uksi/2022/278), [2023/747](https://www.legislation.gov.uk/uksi/2023/747), [2023/1279](https://www.legislation.gov.uk/uksi/2023/1279) and [2024/141](https://www.legislation.gov.uk/uksi/2024/141).
 
-[^key-0fafa16eca8c5eca265d74e7340c3a77]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-0fafa16eca8c5eca265d74e7340c3a77]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-992947cc0a48bd719d07ff3fd4f7649e]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/2) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/a)
+[^c-992947cc0a48bd719d07ff3fd4f7649e]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/2) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/a)
 
-[^key-3c180ac0d815e9ba08d991cbed763aba]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/b/i)
+[^c-3c180ac0d815e9ba08d991cbed763aba]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/b/i)
 
-[^key-8dba9b781a6dae09135131034848686a]: Textual amendment: Word in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4) omitted (1.10.2026) by virtue of [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/b/ii)
+[^c-8dba9b781a6dae09135131034848686a]: Textual amendment: Word in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4) omitted (1.10.2026) by virtue of [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/b/ii)
 
-[^key-9a579f9edc851041200b64c8fbdd61f2]: Textual amendment: Words in [reg. 21(4)(e)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4/e) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/b/iii)
+[^c-9a579f9edc851041200b64c8fbdd61f2]: Textual amendment: Words in [reg. 21(4)(e)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4/e) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/b/iii)
 
-[^key-48ddb4c4e35e56f0c4d962685aebd809]: Textual amendment: [Reg. 21(4A)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4A) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/c)
+[^c-48ddb4c4e35e56f0c4d962685aebd809]: Textual amendment: [Reg. 21(4A)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/4A) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/c)
 
-[^key-508a9d537dff14b79671f1d3edad9c14]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/5) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/d/ii)
+[^c-508a9d537dff14b79671f1d3edad9c14]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/5) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/d/ii)
 
-[^key-df43490562b6c31f3641bdfac490874b]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/5) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(d)(i)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/d/i)
+[^c-df43490562b6c31f3641bdfac490874b]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/21/5) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [3(d)(i)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/3/d/i)
 
-[^key-89f2ebd5977682af1882691976737310]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/1236/regulation/22) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-89f2ebd5977682af1882691976737310]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/1236/regulation/22) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-3bda49a922d4edaed465928e69ea80de]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/1236/regulation/23) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-3bda49a922d4edaed465928e69ea80de]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/1236/regulation/23) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-654c0008ef29c9fa6a6642ed44093f22]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/1236/regulation/24) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-654c0008ef29c9fa6a6642ed44093f22]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/1236/regulation/24) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00030]: Footnote: For the definition of “registered building control approver” see section 58N of the 1984 Act which was inserted by section 42 of the Building Safety Act 2022.
 
-[^key-118b6cf10ceb611263daf227f6d759f8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/1236/regulation/25) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-118b6cf10ceb611263daf227f6d759f8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/1236/regulation/25) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-a6eceb3ebc0a9e153bc64d23a9c61cc6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/1236/regulation/26) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-a6eceb3ebc0a9e153bc64d23a9c61cc6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/1236/regulation/26) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-4c0f4ba16e53c5e80c991c0183d41e2f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/1236/regulation/27) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-4c0f4ba16e53c5e80c991c0183d41e2f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/1236/regulation/27) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-ef2fb9c8d32cdf3907848bc65760f9d9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/1236/regulation/28) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-ef2fb9c8d32cdf3907848bc65760f9d9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/1236/regulation/28) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-20fd997f301ad807053f29d0ce535b5d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/1236/regulation/29) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-20fd997f301ad807053f29d0ce535b5d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/1236/regulation/29) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-287ee9e461e7bf5b8ee1a18cf07d40d1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/1236/regulation/30) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-287ee9e461e7bf5b8ee1a18cf07d40d1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/1236/regulation/30) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-2188c6cf70694c6bb4112aa731c69ddf]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/1236/regulation/31) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2188c6cf70694c6bb4112aa731c69ddf]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/1236/regulation/31) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-dfe53c8f194e52941b28d8be05453133]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/1236/regulation/32) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-dfe53c8f194e52941b28d8be05453133]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/1236/regulation/32) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00031]: Footnote: Regulation 14A was inserted by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
-[^key-384aef6089471072539d4a5b2dbf551a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/1236/regulation/33) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-384aef6089471072539d4a5b2dbf551a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/1236/regulation/33) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00032]: Footnote: Regulation 16(3CA) is inserted by regulation 28 of this instrument.
 
 [^f00033]: Footnote: Regulation 16(3E) was inserted by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
-[^key-0ee43b8588c0364fe1dccdaf848631fd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/1236/regulation/34) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-0ee43b8588c0364fe1dccdaf848631fd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/1236/regulation/34) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00034]: Footnote: Regulation 11O was inserted by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911).
 
-[^key-03359e8d35450435dc0ec4f2c30475a0]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/1236/regulation/35) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-03359e8d35450435dc0ec4f2c30475a0]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/1236/regulation/35) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-197c798a7c2e188b65764a84a22b1856]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/1236/regulation/36) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-197c798a7c2e188b65764a84a22b1856]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/1236/regulation/36) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-65cf485ac1c4811115f6c76e4579f626]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/1236/regulation/37) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-65cf485ac1c4811115f6c76e4579f626]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/1236/regulation/37) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-c01e0e8ef33d0cfed2ed81dc94803c8f]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-c01e0e8ef33d0cfed2ed81dc94803c8f]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-bf2f5cfdcb188b0a9ce0153ac62020b2]: Textual amendment: Words in [reg. 38(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/a/iii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/i)
+[^c-bf2f5cfdcb188b0a9ce0153ac62020b2]: Textual amendment: Words in [reg. 38(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/a/iii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/i)
 
-[^key-d307228b2c3a88421463c58c5d33f4a3]: Textual amendment: Words in [reg. 38(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/b/iii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/ii)
+[^c-d307228b2c3a88421463c58c5d33f4a3]: Textual amendment: Words in [reg. 38(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/b/iii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/ii)
 
-[^key-c62446957617619d714c8031650bf6df]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/aa)
+[^c-c62446957617619d714c8031650bf6df]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/aa)
 
-[^key-10e8bb185e9130e2b3d4b2aa4b26ac62]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/bb)
+[^c-10e8bb185e9130e2b3d4b2aa4b26ac62]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/bb)
 
-[^key-18a077d0f85b337494c93ca288f445df]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/cc)
+[^c-18a077d0f85b337494c93ca288f445df]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/cc)
 
-[^key-74c3ee4ce44a905535d2a0f229172634]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(dd)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/dd)
+[^c-74c3ee4ce44a905535d2a0f229172634]: Textual amendment: Words in [reg. 38(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/2/c/ii) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(a)(iii)(dd)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/a/iii/dd)
 
-[^key-33f1caa73569089bdce0741f2c940e42]: Textual amendment: Words in [reg. 38(10)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/10) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/b)
+[^c-33f1caa73569089bdce0741f2c940e42]: Textual amendment: Words in [reg. 38(10)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/38/10) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/4/b)
 
-[^key-56764d6e6249f9815c63c14563b67e52]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/1236/regulation/39) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-56764d6e6249f9815c63c14563b67e52]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/1236/regulation/39) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-a08bcb48e891d7be6866da35f4c18936]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/1236/regulation/40) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-a08bcb48e891d7be6866da35f4c18936]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/1236/regulation/40) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-038cc54b88b5eb5275e74538f46301db]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/1236/regulation/41) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-038cc54b88b5eb5275e74538f46301db]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/1236/regulation/41) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00035]: Footnote: Section 51A was substituted by section 46(2) of the Building Safety Act 2022.
 
-[^key-7cdc6227a7e68eb4f1ebfdf37d654e28]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/1236/regulation/42) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-7cdc6227a7e68eb4f1ebfdf37d654e28]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/1236/regulation/42) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00036]: Footnote: Section 51B(1) was substituted by paragraph 43 of Schedule 5 to the Building Safety Act 2022.
 
-[^key-023190b8693e02b20021478c9a5e11d3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/1236/regulation/43) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-023190b8693e02b20021478c9a5e11d3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/1236/regulation/43) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-c21b7070e9220a7dcd20d13926e5c0ff]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/1236/regulation/44) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-c21b7070e9220a7dcd20d13926e5c0ff]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/1236/regulation/44) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-54b6759ae74024063afc29d994fe6d67]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/1236/regulation/45) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-54b6759ae74024063afc29d994fe6d67]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/1236/regulation/45) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00037]: Footnote: Regulations 17A and 17B are inserted into the HRB Regulations by regulation 31 of this instrument.
 
-[^key-28c448570c8c2e29153e8aeaa9fbab12]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/1236/regulation/46) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-28c448570c8c2e29153e8aeaa9fbab12]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/1236/regulation/46) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00038]: Footnote: Regulation 16(3CA) is inserted into the 2010 Regulations by regulation 28 of this instrument.
 
@@ -3311,75 +3311,75 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00043]: Footnote: Form 2 was substituted in Schedule 1 to the RBCA Regulations by regulation 44 of this instrument.
 
-[^key-bc671283ef77b93f279391eedf47d90a]: Textual amendment: Words in [reg. 46(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/46/2) omitted (1.10.2026) by virtue of [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/5/1/a)
+[^c-bc671283ef77b93f279391eedf47d90a]: Textual amendment: Words in [reg. 46(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/46/2) omitted (1.10.2026) by virtue of [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/5/1/a)
 
-[^key-b517732c55bca537d0d8f1c08ff515a5]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/46/3) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/5/1/b)
+[^c-b517732c55bca537d0d8f1c08ff515a5]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/46/3) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/5/1/b)
 
-[^key-549d0a1fb63305bf93f4109f23c96d27]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/1236/regulation/47) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-549d0a1fb63305bf93f4109f23c96d27]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/1236/regulation/47) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00044]: Footnote: Regulation 14(1)(h) was inserted into the 2010 Regulations by regulation 26 of this instrument.
 
 [^f00045]: Footnote: Regulation 21(2)(g) was inserted into the HRB Regulations by regulation 45 of this instrument.
 
-[^key-2b892eca587eeba56f4e35fbfa1b21b0]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/1236/regulation/48) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2b892eca587eeba56f4e35fbfa1b21b0]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/1236/regulation/48) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-d0c354f38c1e393dbb11d426289dd453]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/1236/regulation/49) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-d0c354f38c1e393dbb11d426289dd453]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/1236/regulation/49) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-0a9f401a015db138e3da235ab719bc1d]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/1236/regulation/49) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/5/2)
+[^c-0a9f401a015db138e3da235ab719bc1d]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/1236/regulation/49) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/5/2)
 
-[^key-d133c0c9c4a4ab4afced3f84d99b587b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2025/1236/regulation/50) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-d133c0c9c4a4ab4afced3f84d99b587b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2025/1236/regulation/50) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-db3af419c2959c54cd6e01cf997f825d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2025/1236/regulation/51) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-db3af419c2959c54cd6e01cf997f825d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2025/1236/regulation/51) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-6b74fc765a3c085cf74ffd84ed0a4b87]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-6b74fc765a3c085cf74ffd84ed0a4b87]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-39797fd041695b10e846d01b9756dd08]: Textual amendment: Words in [reg. 52(3)(a)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/a) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/a)
+[^c-39797fd041695b10e846d01b9756dd08]: Textual amendment: Words in [reg. 52(3)(a)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/a) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/a)
 
-[^key-56da4c04a3a144b6ce39dee15439f2c1]: Textual amendment: Words in [reg. 52(3)(d)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/d) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/b)
+[^c-56da4c04a3a144b6ce39dee15439f2c1]: Textual amendment: Words in [reg. 52(3)(d)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/d) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/b)
 
-[^key-bf4f71b41fba9460a9f47046edbf11e9]: Textual amendment: [Reg. 52(3)(da)-(dd)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/da) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/c)
+[^c-bf4f71b41fba9460a9f47046edbf11e9]: Textual amendment: [Reg. 52(3)(da)-(dd)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/da) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/c)
 
-[^key-e207bded190e56724caabd8dc8d55724]: Textual amendment: Words in [reg. 52(3)(e)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/e) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(d)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/d)
+[^c-e207bded190e56724caabd8dc8d55724]: Textual amendment: Words in [reg. 52(3)(e)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/52/3/e) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(1)(d)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/1/d)
 
-[^key-25669138d638d3cda38f590d8ad4cc20]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2025/1236/regulation/53) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-25669138d638d3cda38f590d8ad4cc20]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2025/1236/regulation/53) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-287a3c12d3fb6d60d630b26516d212b3]: Textual amendment: Word in [reg. 53(3)(a)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/53/3/a) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/2)
+[^c-287a3c12d3fb6d60d630b26516d212b3]: Textual amendment: Word in [reg. 53(3)(a)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/53/3/a) substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/6/2)
 
-[^key-e6de9cddc51e543a6403fa5043ddeea3]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-e6de9cddc51e543a6403fa5043ddeea3]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-f53b1fcc99876654b7fa8b8bf44cff60]: Textual amendment: Words in [reg. 54(4)(b)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54/4/b) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/1/a)
+[^c-f53b1fcc99876654b7fa8b8bf44cff60]: Textual amendment: Words in [reg. 54(4)(b)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54/4/b) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/1/a)
 
-[^key-c698b095cd2f4f7fb59c38f0f8207f03]: Textual amendment: [Reg. 54(5A)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54/5A)[(5B)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54/5B) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/1/b)
+[^c-c698b095cd2f4f7fb59c38f0f8207f03]: Textual amendment: [Reg. 54(5A)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54/5A)[(5B)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/54/5B) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/1/b)
 
 [^f00046]: Footnote: Section 32 was substituted and section 53A was inserted into the 1984 Act by section 36 of the Building Safety Act 2022.
 
-[^key-833ddebd06fce44ff04d1aba47ab658e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2025/1236/regulation/55) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-833ddebd06fce44ff04d1aba47ab658e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2025/1236/regulation/55) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-f180700a521ac106936b6719ff058240]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2025/1236/regulation/56) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-f180700a521ac106936b6719ff058240]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2025/1236/regulation/56) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-9dfe0bad24067f3fc1212d8efe089b9b]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2025/1236/regulation/57) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-9dfe0bad24067f3fc1212d8efe089b9b]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2025/1236/regulation/57) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-604fe59337aa6b22e5527bc118ed303c]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2025/1236/regulation/58) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-604fe59337aa6b22e5527bc118ed303c]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2025/1236/regulation/58) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-cf6079f0f84b36f375b4dc85d0f2b87b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2025/1236/regulation/59) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-cf6079f0f84b36f375b4dc85d0f2b87b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2025/1236/regulation/59) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-0fc87647e8d027d0cdbae57bbe056403]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2025/1236/regulation/60) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-0fc87647e8d027d0cdbae57bbe056403]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2025/1236/regulation/60) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-a8229a973b6a4ff35ed6f9f5287666b8]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2025/1236/regulation/61) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-a8229a973b6a4ff35ed6f9f5287666b8]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2025/1236/regulation/61) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-1506d9b84a12fd34bf730d30cdf7baeb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2025/1236/regulation/62) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-1506d9b84a12fd34bf730d30cdf7baeb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2025/1236/regulation/62) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-ec6133c34bf13dfb88b45e05a649a184]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2025/1236/regulation/63) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-ec6133c34bf13dfb88b45e05a649a184]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2025/1236/regulation/63) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00047]: Footnote: Section 50(5) to (7) of the 1984 Act, as applied to final certificates by section 51(2), sets out when a final certificate is accepted.
 
 [^f00048]: Footnote: See section 51 of the 1984 Act for the definition of “final certificate”.
 
-[^key-7831aa17b38cafcc2d266ec5c805655b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2025/1236/regulation/64) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-7831aa17b38cafcc2d266ec5c805655b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2025/1236/regulation/64) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-26790acea3c986c0d93dde1a6499bb6f]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2025/1236/regulation/65) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-26790acea3c986c0d93dde1a6499bb6f]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2025/1236/regulation/65) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-bf54891f522eddf48218e2522f73249f]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2025/1236/regulation/66) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-bf54891f522eddf48218e2522f73249f]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2025/1236/regulation/66) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00049]: Footnote: Section 50(5) to (7) of the 1984 Act, as applied to final certificates by section 51(2), sets out when a final certificate is accepted.
 
@@ -3395,61 +3395,61 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00055]: Footnote: Section 32 was substituted and section 53A was inserted into the 1984 Act by section 36 of the Building Safety Act 2022.
 
-[^key-fda74be88540b494d7a03384d42864bb]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2025/1236/regulation/67) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-fda74be88540b494d7a03384d42864bb]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2025/1236/regulation/67) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-ed3584ca29148da68859d5d54c1a361c]: Textual amendment: [Reg. 67(2A)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/67/2A)[(2B)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/67/2B) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/2)
+[^c-ed3584ca29148da68859d5d54c1a361c]: Textual amendment: [Reg. 67(2A)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/67/2A)[(2B)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/67/2B) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/2)
 
-[^key-faf9360586c0147be542779046f6085b]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2025/1236/regulation/68) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-faf9360586c0147be542779046f6085b]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2025/1236/regulation/68) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-6767e8f06327360a56c240e9fece246e]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2025/1236/regulation/69) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-6767e8f06327360a56c240e9fece246e]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2025/1236/regulation/69) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-b459102dd1ba5094056f3bbe5e5379c1]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2025/1236/regulation/70) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-b459102dd1ba5094056f3bbe5e5379c1]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2025/1236/regulation/70) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-c64cd28c48c7f7947121918acd7d3230]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2025/1236/regulation/71) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-c64cd28c48c7f7947121918acd7d3230]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2025/1236/regulation/71) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-7ad65d3de8db35163a8a9b6d75892731]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2025/1236/regulation/72) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-7ad65d3de8db35163a8a9b6d75892731]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2025/1236/regulation/72) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-7b8ebe9e97b540fa44f1b58e099d439e]: Textual amendment: [Reg. 72(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/72/6) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/3)
+[^c-7b8ebe9e97b540fa44f1b58e099d439e]: Textual amendment: [Reg. 72(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/72/6) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/3)
 
-[^key-b544b75fc25372a7f355ae04a9836ea9]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2025/1236/regulation/73) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-b544b75fc25372a7f355ae04a9836ea9]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2025/1236/regulation/73) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-156299e8f9761a8066d3c3bf0d91e43b]: Textual amendment: [Reg. 73(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/73/6) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/4)
+[^c-156299e8f9761a8066d3c3bf0d91e43b]: Textual amendment: [Reg. 73(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/73/6) inserted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/7/4)
 
-[^key-2a2a498d1442a8a76924c0c9f4d6e1b0]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2025/1236/regulation/74) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2a2a498d1442a8a76924c0c9f4d6e1b0]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2025/1236/regulation/74) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-2ea214508192ffaac9046d111facc3ac]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2ea214508192ffaac9046d111facc3ac]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-594fcf0ce971fbc29fd3aad10232ba73]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-594fcf0ce971fbc29fd3aad10232ba73]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00056]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 4 is amended by sections 51 and 57 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), section 216(4) of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 95 of the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), section 82 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
 
-[^key-67e333eb2bd8a3b1b1eb71cf44f541bd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-67e333eb2bd8a3b1b1eb71cf44f541bd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00057]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 is amended by sections 95 and 170 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and section 188 of the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-4495ab16d4f4321a1c9d319def4de372]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/4) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-4495ab16d4f4321a1c9d319def4de372]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/4) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-f8e10038a3485935c04c209212bb6a84]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-f8e10038a3485935c04c209212bb6a84]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00058]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-870d958ac57967052a0b0be23820b19f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/6) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-870d958ac57967052a0b0be23820b19f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/6) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00059]: Footnote: [S.I. 2021/991](https://www.legislation.gov.uk/uksi/2021/991).
 
-[^key-08804647d8415b5142c408e812f2a5eb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/7) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-08804647d8415b5142c408e812f2a5eb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/7) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00060]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). For the definitions of “children’s home” and “residential family centre” see sections 1 and 4(2) of that Act. Section 1 was amended by paragraphs 1 and 2 of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and paragraphs 1 and 2 of Schedule 3 to the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2). Section 4(2) was amended by paragraph 4 of Schedule 3 to the 2016 Act.
 
 [^f00061]: Footnote: [S.I. 2022/808](https://www.legislation.gov.uk/uksi/2022/808).
 
-[^key-c8d89020d2fa422622a6de9ce5746a4f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/8) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-c8d89020d2fa422622a6de9ce5746a4f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2025/1236/schedule/1/paragraph/8) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00062]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
 
-[^key-598a2f77390e63c8b4caa84d6b287b46]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-598a2f77390e63c8b4caa84d6b287b46]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-2559278979ccac7abf27fec97dbcd914]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-2559278979ccac7abf27fec97dbcd914]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00063]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Paragraph 4ZA of Schedule 1 was inserted by section 297 of the Housing and Regeneration Act [2018 (c. 17)](https://www.legislation.gov.uk/ukpga/2018/17) and amended by paragraph 12 of Schedule 11 to the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12); paragraph 17 of Schedule 7 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2022/1166](https://www.legislation.gov.uk/uksi/2022/1166).
 
@@ -3459,15 +3459,15 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00066]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17). Section 194(2A) was inserted by paragraph 5 of Schedule 17 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-11858a28136b586ad9c98ffce392ea06]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-11858a28136b586ad9c98ffce392ea06]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00067]: Footnote: The Statistics Board was established by section 1 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-fd79329274cacfbb61c3ce63e40268ba]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/4) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-fd79329274cacfbb61c3ce63e40268ba]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/4) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-1a562df29ac869305c698a8527b2c640]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-1a562df29ac869305c698a8527b2c640]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-c81250a28b475c711dff5e20c340c81b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/6) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-c81250a28b475c711dff5e20c340c81b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/6) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00068]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50). For the meaning of “assured agricultural occupancy” see section 24 of that Act, which was amended by section 103 of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) (“**the 1996 Act**”) and [S.I. 1990/434](https://www.legislation.gov.uk/uksi/1990/434). For the meaning of “assured shorthold tenancy” see sections 19A and 20 of the Housing Act 1988; section 19A was inserted by section 96 of the 1996 Act and section 20 was amended by Schedules 8 and 19 to that Act. For the meaning of “assured tenancy” see section 1 of the Housing Act 1988, which was amended by Schedule 19 to the 1996 Act, paragraph 4 of the Schedule to the Prevention of Social Housing Fraud Act [2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3) and [S.I. 1990/434](https://www.legislation.gov.uk/uksi/1990/434) and [2022/1166](https://www.legislation.gov.uk/uksi/2022/1166).
 
@@ -3479,22 +3479,22 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00072]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). For the meaning of “secure tenancy” see section 79 of that Act, which was amended by [S.I. 2022/1166](https://www.legislation.gov.uk/uksi/2022/1166).
 
-[^key-efed07602f4b0691b6bacf667311a3bf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/7) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-efed07602f4b0691b6bacf667311a3bf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/7) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
 [^f00073]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69). Section 1 was amended by sections 1 and 3 of, and paragraph 6 of Schedule 2 to, the Housing (Scotland) Act [1988 (c. 43)](https://www.legislation.gov.uk/ukpga/1988/43); paragraph 36 of Schedule 4 to the Co-operative and Community Benefit Societies Act [2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14) and [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325).
 
 [^f00074]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-8349ea6b7c9688a01d23d8813b7f4948]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/8) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-8349ea6b7c9688a01d23d8813b7f4948]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1236/schedule/2/paragraph/8) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-40d4d710a10e9b867a184fb40a9236ac]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-40d4d710a10e9b867a184fb40a9236ac]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-f608dde03ade1fcce47536f8abc74dc9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/3) Table substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/1034/regulation/8)
+[^c-f608dde03ade1fcce47536f8abc74dc9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/3) Table substituted (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/1034/regulation/8)
 
-[^key-1fa2ac52da86060ecaca94e5a8a386ee]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2025/1236/schedule/4/paragraph/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-1fa2ac52da86060ecaca94e5a8a386ee]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2025/1236/schedule/4/paragraph/1) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-ee71ff109b38188d0c0ea10fb1f517f8]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/1236/schedule/4/paragraph/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-ee71ff109b38188d0c0ea10fb1f517f8]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/1236/schedule/4/paragraph/2) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-3cc5cd2c48d619726093210a503c7a09]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/4/paragraph/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-3cc5cd2c48d619726093210a503c7a09]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2025/1236/schedule/4/paragraph/3) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
 
-[^key-7f1ca5213c2567addc4fe0f9895b7d44]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)
+[^c-7f1ca5213c2567addc4fe0f9895b7d44]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2025/1236/schedule/5) in force at 1.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2)

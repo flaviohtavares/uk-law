@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c16324901] The amount of a guarantee payment payable to an employee in respect of any day shall not exceed £41[^key-bc160ef4e158b465d71727fccde0038e].
+(1)[^c16324901] The amount of a guarantee payment payable to an employee in respect of any day shall not exceed £41[^c-bc160ef4e158b465d71727fccde0038e].
 
 (2) An employee is not entitled to guarantee payments in respect of more than the specified number of days in any period of three months.
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^c16324901]: Modification: S. 31(1): power to amend conferred (17.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 34(1)(a)](https://www.legislation.gov.uk/ukpga/1999/26/section/34/1/a); [S.I. 1999/3374](https://www.legislation.gov.uk/uksi/1999/3374), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/3374/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/3374/article/3))
 
-[^key-bc160ef4e158b465d71727fccde0038e]: Textual amendment: Sum in [s. 31(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/31/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-bc160ef4e158b465d71727fccde0038e]: Textual amendment: Sum in [s. 31(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/31/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
 
 [^c16324921]: Textual amendment: S. 31(7) substituted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 35](https://www.legislation.gov.uk/ukpga/1999/26/section/35); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I)

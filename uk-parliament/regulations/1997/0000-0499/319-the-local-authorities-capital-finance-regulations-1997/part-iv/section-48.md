@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Leases having an adjusted cost of nil[^key-d5ed882621c64bf79562c22cb89239b5]
+## 48. Leases having an adjusted cost of nil[^c-d5ed882621c64bf79562c22cb89239b5]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the adjusted cost of the arrangement shall be nil.
 
 ## Annotations
 
-[^key-d5ed882621c64bf79562c22cb89239b5]: Commencement: Reg. 48 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d5ed882621c64bf79562c22cb89239b5]: Commencement: Reg. 48 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

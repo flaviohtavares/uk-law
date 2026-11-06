@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.27.3. Application for an interim ASBO[^key-c5f274493532a530c78070f0011164cb]
+## 3.27.3. Application for an interim ASBO[^c-c5f274493532a530c78070f0011164cb]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5f274493532a530c78070f0011164cb]: Textual amendment: Ch. 3 Pt. 27 inserted (28.10.2004 for the insertion of rules 3.27.1-3.27.4, 3.27.6 -3.27.11; 31.1.2005 for the insertion of rule 3.27.18; 4.4.2005 for the insertion of rules 3.27.5, 3.27.15-3.27.17; 15.11.2005 in so far as not already in force) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455](https://www.legislation.gov.uk/ssi/2004/455)), [paras. 1(1)(b)(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1), [2(4)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/4)
+[^c-c5f274493532a530c78070f0011164cb]: Textual amendment: Ch. 3 Pt. 27 inserted (28.10.2004 for the insertion of rules 3.27.1-3.27.4, 3.27.6 -3.27.11; 31.1.2005 for the insertion of rule 3.27.18; 4.4.2005 for the insertion of rules 3.27.5, 3.27.15-3.27.17; 15.11.2005 in so far as not already in force) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455](https://www.legislation.gov.uk/ssi/2004/455)), [paras. 1(1)(b)(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1), [2(4)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/4)

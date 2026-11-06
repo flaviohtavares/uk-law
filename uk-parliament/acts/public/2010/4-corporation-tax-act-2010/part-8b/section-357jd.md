@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357JD. Availability of relief[^key-9a88b14356260e15817338424543ecc9][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357JD. Availability of relief[^c-9a88b14356260e15817338424543ecc9][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a88b14356260e15817338424543ecc9]: Textual amendment: Ss. 357JB, 357JC substituted for ss. 357JB-357JE (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/95)
+[^c-9a88b14356260e15817338424543ecc9]: Textual amendment: Ss. 357JB, 357JC substituted for ss. 357JB-357JE (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/95)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

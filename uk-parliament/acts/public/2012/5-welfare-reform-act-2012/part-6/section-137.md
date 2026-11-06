@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Collection of child support maintenance[^key-cf53475c1fdf6cc4bb9bd841ad5fabc4]
+## 137. Collection of child support maintenance[^c-cf53475c1fdf6cc4bb9bd841ad5fabc4]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) in subsection (2), the words from “or“ to “made” are repealed;
 - (b) after subsection (2) there is inserted—
 
-  > (2A) The Secretary of State[^key-42f5375561941a918438d4998ad77645] may only make arrangements under subsection (2)(a) if—
+  > (2A) The Secretary of State[^c-42f5375561941a918438d4998ad77645] may only make arrangements under subsection (2)(a) if—
   >
   > - (a) the non-resident parent agrees to the arrangements, or
   > - (b) the Secretary of State is satisfied that without the arrangements child support maintenance is unlikely to be paid in accordance with the calculation.
@@ -37,7 +37,7 @@ summary: ''
 - (a) in subsection (3), for the words from “person with care” to “made or” there is substituted “ person with care or ”;
 - (b) after subsection (3) there is inserted—
 
-  > (3A) The Secretary of State[^key-bb086e664e9663b16b650bab3ba095d4] may only make arrangements under subsection (3)(a) if—
+  > (3A) The Secretary of State[^c-bb086e664e9663b16b650bab3ba095d4] may only make arrangements under subsection (3)(a) if—
   >
   > - (a) the non-resident parent agrees to the arrangements, or
   > - (b) the Secretary of State is satisfied that without the arrangements child support maintenance is unlikely to be paid in accordance with the calculation.
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cf53475c1fdf6cc4bb9bd841ad5fabc4]: Commencement: S. 137 in force at 30.6.2014 by [S.I. 2014/1635](https://www.legislation.gov.uk/uksi/2014/1635), [art. 4](https://www.legislation.gov.uk/uksi/2014/1635/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/1635/article/5))
+[^c-cf53475c1fdf6cc4bb9bd841ad5fabc4]: Commencement: S. 137 in force at 30.6.2014 by [S.I. 2014/1635](https://www.legislation.gov.uk/uksi/2014/1635), [art. 4](https://www.legislation.gov.uk/uksi/2014/1635/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/1635/article/5))
 
-[^key-42f5375561941a918438d4998ad77645]: Textual amendment: Words in s. 137(2)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 106(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/106/2)
+[^c-42f5375561941a918438d4998ad77645]: Textual amendment: Words in s. 137(2)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 106(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/106/2)
 
-[^key-bb086e664e9663b16b650bab3ba095d4]: Textual amendment: Words in s. 137(3)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 106(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/106/3)
+[^c-bb086e664e9663b16b650bab3ba095d4]: Textual amendment: Words in s. 137(3)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 106(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/106/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.61. Application for extension of moratorium period[^key-6e515fa47467db914089271c34f9e10d]
+## 47.61. Application for extension of moratorium period[^c-6e515fa47467db914089271c34f9e10d]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6e515fa47467db914089271c34f9e10d]: Commencement: Rule 47.61 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6e515fa47467db914089271c34f9e10d]: Commencement: Rule 47.61 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01268]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 336B was inserted by section 10 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 

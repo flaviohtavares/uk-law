@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Sex with an adult relative: penetration[^c20943271][^key-ca58542e2585aeb68d40caea4959bdc9]
+## 64. Sex with an adult relative: penetration[^c20943271][^c-ca58542e2585aeb68d40caea4959bdc9]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ is to be read as preventing the application of section 39 of the Adoption Act 19
 
 [^c20943271]: Modification: S. 64 modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [reg. 5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
 
-[^key-ca58542e2585aeb68d40caea4959bdc9]: Modification: [S. 64](https://www.legislation.gov.uk/ukpga/2003/42/section/64) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/20)
+[^c-ca58542e2585aeb68d40caea4959bdc9]: Modification: [S. 64](https://www.legislation.gov.uk/ukpga/2003/42/section/64) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/20)
 
 [^c20909791]: Textual amendment: Words in s. 64(1) inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73), [153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 5(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/5/2)
 

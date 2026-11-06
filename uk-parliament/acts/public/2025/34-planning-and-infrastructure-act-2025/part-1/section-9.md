@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Examination of applications for development consent[^key-7e00d7f2e49cafa8a65ec0937be716e8][^key-f9a5688e646f148b05b4170641e032ff]
+## 9. Examination of applications for development consent[^c-7e00d7f2e49cafa8a65ec0937be716e8][^c-f9a5688e646f148b05b4170641e032ff]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e00d7f2e49cafa8a65ec0937be716e8]: Commencement: S. 9 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
+[^c-7e00d7f2e49cafa8a65ec0937be716e8]: Commencement: S. 9 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
 
-[^key-f9a5688e646f148b05b4170641e032ff]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/34/section/9) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/f)
+[^c-f9a5688e646f148b05b4170641e032ff]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/34/section/9) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/f)

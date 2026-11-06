@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Confiscating alcohol from young persons[^key-d79608a5d6b21fc7d215b453459bf76c]
+## 29. Confiscating alcohol from young persons[^c-d79608a5d6b21fc7d215b453459bf76c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d79608a5d6b21fc7d215b453459bf76c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2009/26/section/29) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/125/article/2/f)
+[^c-d79608a5d6b21fc7d215b453459bf76c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2009/26/section/29) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/125/article/2/f)

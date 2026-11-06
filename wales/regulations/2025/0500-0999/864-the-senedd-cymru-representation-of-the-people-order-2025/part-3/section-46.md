@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Individual candidates: expenses incurred other than for election purposes[^key-4782cdd5d23e06d0e207bd06778e994f]
+## 46. Individual candidates: expenses incurred other than for election purposes[^c-4782cdd5d23e06d0e207bd06778e994f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4782cdd5d23e06d0e207bd06778e994f]: Commencement: Art. 46 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4782cdd5d23e06d0e207bd06778e994f]: Commencement: Art. 46 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

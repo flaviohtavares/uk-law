@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Plea of guilty[^key-bec4671e24b15dc3da92fc1b281059aa]
+## 83. Plea of guilty[^c-bec4671e24b15dc3da92fc1b281059aa]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In the 1995 Act—
 
 ## Annotations
 
-[^key-bec4671e24b15dc3da92fc1b281059aa]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2016/1/section/83) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-bec4671e24b15dc3da92fc1b281059aa]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2016/1/section/83) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

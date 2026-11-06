@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Power to make consequential provision[^key-6c3e4984be71092ede48cf9bc1314420]
+## 223. Power to make consequential provision[^c-6c3e4984be71092ede48cf9bc1314420]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c3e4984be71092ede48cf9bc1314420]: Commencement: S. 223 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
+[^c-6c3e4984be71092ede48cf9bc1314420]: Commencement: S. 223 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)

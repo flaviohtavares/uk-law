@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Register of third country auditors[^key-562ea2e3e044108ac4b25baeacde283f]
+## 34. Register of third country auditors[^c-562ea2e3e044108ac4b25baeacde283f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-562ea2e3e044108ac4b25baeacde283f]: Textual amendment: Regs. 29, 34-40 revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), [reg. 3](https://www.legislation.gov.uk/uksi/2013/1672/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)
+[^c-562ea2e3e044108ac4b25baeacde283f]: Textual amendment: Regs. 29, 34-40 revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), [reg. 3](https://www.legislation.gov.uk/uksi/2013/1672/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)

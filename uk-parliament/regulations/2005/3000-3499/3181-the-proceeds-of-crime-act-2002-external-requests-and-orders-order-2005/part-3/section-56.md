@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Action on receipt of external request in connection with criminal investigations or proceedings[^key-822f95f41897dab0f581ed4bf82d0a32]
+## 56. Action on receipt of external request in connection with criminal investigations or proceedings[^c-822f95f41897dab0f581ed4bf82d0a32]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-822f95f41897dab0f581ed4bf82d0a32]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2005/3181/article/56) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-822f95f41897dab0f581ed4bf82d0a32]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2005/3181/article/56) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

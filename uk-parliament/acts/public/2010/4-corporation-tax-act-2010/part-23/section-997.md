@@ -33,7 +33,7 @@ summary: ''
 
 (4) Chapter 6 contains provision of more general application about returns and information relating to distributions.
 
-(5)[^key-dbfe49907fe7e4823dc7ae314dca0383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-dbfe49907fe7e4823dc7ae314dca0383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Chapter 8 contains definitions and other provision about the interpretation of this Part.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbfe49907fe7e4823dc7ae314dca0383]: Textual amendment: [S. 997(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/997/5) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/35)
+[^c-dbfe49907fe7e4823dc7ae314dca0383]: Textual amendment: [S. 997(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/997/5) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/35)

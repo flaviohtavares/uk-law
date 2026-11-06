@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Notice of partial loss.[^key-48c4b31027f820e8b84b091d95c7cf35][^key-5adb21c417c35661dacea9322f250417][^c12406661]
+## 4A. Notice of partial loss.[^c-48c4b31027f820e8b84b091d95c7cf35][^c-5adb21c417c35661dacea9322f250417][^c12406661]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,9 +30,9 @@ summary: ''
 
 ## Annotations
 
-[^key-48c4b31027f820e8b84b091d95c7cf35]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/4A) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-48c4b31027f820e8b84b091d95c7cf35]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/4A) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-5adb21c417c35661dacea9322f250417]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/4A) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-5adb21c417c35661dacea9322f250417]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/4A) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c12406661]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/4A) inserted (with saving) by Carriage by [Air and Road Act 1979 (c. 28, SIF 9)](https://www.legislation.gov.uk/ukpga/1979/28), [s. 2(1)(2)](https://www.legislation.gov.uk/ukpga/1979/28/section/2/1/2)
 

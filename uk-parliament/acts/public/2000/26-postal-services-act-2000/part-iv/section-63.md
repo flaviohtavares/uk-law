@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Power to direct issue of certain securities etc[^key-97b03ff65bb60131f4dbe6e60abc35a1]
+## 63. Power to direct issue of certain securities etc[^c-97b03ff65bb60131f4dbe6e60abc35a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ that is wholly owned by the Crown.
 
 ## Annotations
 
-[^key-97b03ff65bb60131f4dbe6e60abc35a1]: Textual amendment: S. 63 substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/7); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-97b03ff65bb60131f4dbe6e60abc35a1]: Textual amendment: S. 63 substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/7); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

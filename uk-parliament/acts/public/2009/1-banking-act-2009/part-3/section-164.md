@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Scottish partnerships[^M_I_419eca26-4153-44f6-b39b-e98bde745596][^key-c88769c7af5f12ec106cc485a9bdfa80]
+## 164. Scottish partnerships[^M_I_419eca26-4153-44f6-b39b-e98bde745596][^c-c88769c7af5f12ec106cc485a9bdfa80]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_419eca26-4153-44f6-b39b-e98bde745596]: Commencement: S. 164 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-c88769c7af5f12ec106cc485a9bdfa80]: Commencement: S. 164 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-c88769c7af5f12ec106cc485a9bdfa80]: Commencement: S. 164 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

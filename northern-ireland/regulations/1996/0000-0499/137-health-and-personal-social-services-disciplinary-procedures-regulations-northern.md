@@ -42,11 +42,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-fedebcdf09fba14d567773f8f20b907f]
+### 1. Citation and commencement[^c-fedebcdf09fba14d567773f8f20b907f]
 
 (1) These Regulations may be cited as the Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-### 2. Interpretation[^key-c2062a1eb06f1d5d61ecdf3951b30d09]
+### 2. Interpretation[^c-c2062a1eb06f1d5d61ecdf3951b30d09]
 
 (1) In these Regulations—
 
@@ -125,7 +125,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part II — Provisions relating to investigations, disputes, appeals etc
 
-### 3. Establishment of committees[^key-79ed88d3916b8c91e60c9bde72edbc2e]
+### 3. Establishment of committees[^c-79ed88d3916b8c91e60c9bde72edbc2e]
 
 (1) Subject to paragraph (2) each Board shall have—
 
@@ -141,7 +141,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) Schedule 1 shall have effect with respect to the committees mentioned in paragraph (1).
 
-### 4. Provisions relating to the start of disciplinary proceedings[^key-08843af564e295bae7d29dedb925ee1b]
+### 4. Provisions relating to the start of disciplinary proceedings[^c-08843af564e295bae7d29dedb925ee1b]
 
 (1) Where an appropriate Board receives information which it considers could amount to an allegation that a practitioner has failed to comply with his terms of service, it shall decide either to take no action or to take one or both of the courses of action set out in paragraph (2).
 
@@ -175,7 +175,7 @@ shall be taken as an allegation made against the deputy except where there are r
 
 (8) In this regulation “the relevant time” means the time of the event, treatment, or other matter giving rise to the allegation.
 
-### 5. Referral to discipline committee[^key-1de40e001c2ed58e8b6c052029585f91]
+### 5. Referral to discipline committee[^c-1de40e001c2ed58e8b6c052029585f91]
 
 (1) Where an appropriate Board decides to proceed under regulation 4(2)(*a*) or (7) it shall, subject to paragraph (2), refer the matter to another Board, for investigation by that Board’s appropriate discipline committee.
 
@@ -190,7 +190,7 @@ shall be taken as an allegation made against the deputy except where there are r
 
 (4) If in the opinion of a discipline committee a matter referred to it includes allegations which are required, by virtue of paragraph (1), to be investigated also by another discipline committee, it shall refer the matter to a joint discipline committee instead of dealing with the matter itself.
 
-### 6. Time limits[^key-ca9555a5b404e0d2b9aedcc6ddf64d5a]
+### 6. Time limits[^c-ca9555a5b404e0d2b9aedcc6ddf64d5a]
 
 (1) Where the disciplinary matter concerns an allegation which has been the subject of a complaint the appropriate Board shall refer it under regulation 5(1) within 28 days of the allegation having ceased to be the subject of a complaint which is being investigated.
 
@@ -208,7 +208,7 @@ shall be taken as an allegation made against the deputy except where there are r
 
 (5) For the purposes of paragraph (3) “treatment” has the same meaning as in regulation 2 of the Dental Regulations.
 
-### 7. Investigation by discipline committee[^key-60e6430a86edd9ee0c145c668b6ef7d0]
+### 7. Investigation by discipline committee[^c-60e6430a86edd9ee0c145c668b6ef7d0]
 
 (1) A discipline committee shall investigate any matter which is referred to it.
 
@@ -216,7 +216,7 @@ shall be taken as an allegation made against the deputy except where there are r
 
 (3) Where the disciplinary matter concerns an alleged overpayment made to a practitioner pursuant to regulation 4(7) the appropriate Board may refer it under regulation 5(1) at any time.
 
-### 8. Determination of appropriate Board[^key-b34e3d0ad4c77c55d1f829678867ded8]
+### 8. Determination of appropriate Board[^c-b34e3d0ad4c77c55d1f829678867ded8]
 
 (1) The appropriate Board, after due consideration of a report presented to it by the discipline committee pursuant to paragraph 7(1) of Schedule 2, shall—
 
@@ -265,7 +265,7 @@ shall be taken as an allegation made against the deputy except where there are r
   - (i) that the appeal has been withdrawn, or
   - (ii) of the Department’s determination of the appeal.
 
-### 9. Appeal to the Department[^key-667e69e5b059110e858fbe2f77bebcac]
+### 9. Appeal to the Department[^c-667e69e5b059110e858fbe2f77bebcac]
 
 (1) An appeal may be made to the Department by a practitioner—
 
@@ -300,7 +300,7 @@ by giving notice of appeal in accordance with paragraph (2).
 - (a) by giving written notice to the Department of his intention to do so; and
 - (b) with the consent of the Department.
 
-### 10. Procedure on Appeal[^key-cfe15a6feec32e99ce0e9dff0aaf4c0d]
+### 10. Procedure on Appeal[^c-cfe15a6feec32e99ce0e9dff0aaf4c0d]
 
 (1) Subject to paragraph (5), if the Department, after considering a notice of appeal and any further particulars furnished by the practitioner, is of the opinion that the notice and particulars disclose no reasonable grounds of appeal or that the appeal is otherwise vexatious or frivolous, it may determine the appeal by dismissing it forthwith.
 
@@ -352,7 +352,7 @@ by giving notice of appeal in accordance with paragraph (2).
 
 (15) The provisions as to enquiries contained in Schedule 8 to the Order shall apply to an appeal held under this regulation as if in paragraph 3 of that Schedule for the words “person appointed to hold the inquiry” there were substituted the words “persons hearing the appeal”.
 
-### 11. Recovery of amounts from practitioners following appeal[^key-4ffdd5d63b1fba0a62d880478768fb56]
+### 11. Recovery of amounts from practitioners following appeal[^c-4ffdd5d63b1fba0a62d880478768fb56]
 
 (1) Where—
 
@@ -371,7 +371,7 @@ the Department shall, subject to the following provisions of this regulation, de
 
 (6) Any sum which falls by virtue of paragraph (3) to be recovered by the Board shall, to the extent that it is not recovered by deduction from the practitioner’s remuneration, be a debt owed by the practitioner to that Board.
 
-### 12. Prior approval in dental cases[^key-efff510abff26e05b0efb30906713667]
+### 12. Prior approval in dental cases[^c-efff510abff26e05b0efb30906713667]
 
 (1) Where—
 
@@ -424,11 +424,11 @@ and shall give notice in writing to the dentist, the appropriate Board and the D
   - (i) for the word “Department” there were substituted the words “appropriate Board”, and
   - (ii) the words “appropriate Board”, as they appear in that paragraph without the modifications mentioned in this paragraph, were omitted.
 
-### 13. Death of practitioner[^key-4dc7bba3e62b5da0ef9d3d05264b118e]
+### 13. Death of practitioner[^c-4dc7bba3e62b5da0ef9d3d05264b118e]
 
 Where, at any time after a disciplinary matter has been referred under regulation 5(1) but before the appropriate Board makes a determination under regulation 8 in relation to that matter, the practitioner to whom the matter relates dies, no further action shall be taken under these Regulations in relation to that practitioner.
 
-### 14. Excessive prescribing by doctors[^key-19fa742fb9cf4ebabf6244664107d394]
+### 14. Excessive prescribing by doctors[^c-19fa742fb9cf4ebabf6244664107d394]
 
 (1) Where it appears to the Board that a question arises whether the cost of any drug or appliance ordered by a doctor on a prescription form in relation to any patient is, by reason of the character of the drug or appliance in question or the quantity in which it was so ordered, in excess of that which was reasonably necessary for the proper treatment of that patient, it may refer that question for investigation and determination by a committee (in these Regulations known as “the professional committee”) which shall be appointed in accordance with paragraph (3).
 
@@ -569,7 +569,7 @@ and shall determine the appeal accordingly by allowing it or dismissing it.
 - (a) the time allowed under paragraph (19) for an appeal against that determination has expired, and no such appeal has been made; or
 - (b) an appeal has been made and has been withdrawn or dismissed.
 
-### 15. Investigation of certification[^key-51a5883e92dc26ad7f6ad191436f3efa]
+### 15. Investigation of certification[^c-51a5883e92dc26ad7f6ad191436f3efa]
 
 (1) Where it appears to the Department after an investigation of the medical certificates issued under and for the purposes of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^f00011] by a doctor to persons for whose treatment he is responsible under his terms of service, that the doctor has failed to exercise reasonable care in the issue of such certificates, the Department may refer the matter to the Local Medical Committee.
 
@@ -618,7 +618,7 @@ the Department may, if it is satisfied that there has been a failure on the part
 - (a) that question had arisen in any of the circumstances mentioned in paragraph (1) of that regulation; and
 - (b) the references to “the Board” in paragraph (5) of that regulation were references to “the Local Medical Committee”.
 
-### 16. Investigation of record keeping[^key-f7d8cd6414813b97486eb85d3e2f892a]
+### 16. Investigation of record keeping[^c-f7d8cd6414813b97486eb85d3e2f892a]
 
 (1) Where it appears to the Board, after an examination by a medical officer of any record cards held by a doctor, that the doctor has failed to carry out his obligations under paragraph 12 of his terms of service in so far as such obligations involve the recording of clinical data regarding his patients, the Board may refer the matter for consideration by the Local Medical Committee.
 
@@ -686,7 +686,7 @@ the Department may, if it is satisfied that there has been a failure on the part
 - (a) that question had arisen in any of the circumstances mentioned in paragraph (1) of that regulation; and
 - (b) the references to “the Board” in paragraph (5) of that regulation, were references to “the relevant Local Representative Committee”.
 
-### 17. Decision as to treatment for which fees may be charged by doctors[^key-f25f925bda2f5a1d7b4a4977d03a7e24]
+### 17. Decision as to treatment for which fees may be charged by doctors[^c-f25f925bda2f5a1d7b4a4977d03a7e24]
 
 (1) If any question arises, either in the course of an investigation by a medical discipline committee or otherwise, as to whether any treatment given by a medical practitioner to a patient is treatment for which he may demand or accept a fee from that patient (unless it arises in relation to sub-paragraph (1)(*a*), (*e*) or (*f*) of paragraph (17) of the terms of service) the question shall be referred to and determined by the Local Medical Committee.
 
@@ -712,11 +712,11 @@ the Department may, if it is satisfied that there has been a failure on the part
 
 ## Part III — Miscellaneous provisions
 
-### 18. Power to dispense with requirements as to notices[^key-da4920064cd3fd7cb8bbb5abefffb960]
+### 18. Power to dispense with requirements as to notices[^c-da4920064cd3fd7cb8bbb5abefffb960]
 
 The Department may dispense with any requirements of these Regulations respecting notices, applications, documents or otherwise in any case where it appears to the Department just and proper to do so.
 
-### 19. Power to extend time limits[^key-0ce34c57a5f23ee97b6c0ba4a943d9b8]
+### 19. Power to extend time limits[^c-0ce34c57a5f23ee97b6c0ba4a943d9b8]
 
 (1) Where, by virtue of a provision of these Regulations mentioned in paragraph (3)—
 
@@ -744,7 +744,7 @@ and shall include a statement of the grounds for the application.
 - (a) regulation 14(5), the Board;
 - (b) regulation 14(19) or (21)(*a*) or (*b*), 15(7) or 16(10), the Department.
 
-### 20. Fresh appointments[^key-76f0afadcb9da814b2b275acbaf69df9]
+### 20. Fresh appointments[^c-76f0afadcb9da814b2b275acbaf69df9]
 
 (1) Where a person appointed by the Department for any purpose of any provision of regulation 10—
 
@@ -755,7 +755,7 @@ and shall include a statement of the grounds for the application.
 
 (3) For the purposes of this regulation a person has completed the purpose for which he was appointed if he has indicated to any other person also appointed for that purpose the decision to be given or recommendation to be made, even if he has not signed a report embodying the decision or recommendation.
 
-### 21. Referral of matters to professional bodies[^key-5beb732123620d07d2cadb8a364dd7bf]
+### 21. Referral of matters to professional bodies[^c-5beb732123620d07d2cadb8a364dd7bf]
 
 (1) Where, in relation to any disciplinary matter—
 
@@ -781,7 +781,7 @@ it may refer to that body any documents in its possession connected with that di
 - (c) in relation to an optician, the General Optical Council[^f00014];
 - (d) in relation to a pharmacist, the Pharmaceutical Society of Northern Ireland.
 
-### 22. Transitional provisions[^key-2ffa4a0d47b679ffc11fc8994f578273]
+### 22. Transitional provisions[^c-2ffa4a0d47b679ffc11fc8994f578273]
 
 Where, before 1st April 1996—
 
@@ -791,7 +791,7 @@ Where, before 1st April 1996—
 
 the provisions of those Regulations shall continue to apply on and after that date, as respects any investigation, consideration, hearing, referral, report or determination which, by virtue of any provision of those Regulations, falls to be undertaken, held or made in relation to any such application, reference, appeal or representations, or in relation to any appeal under those Regulations from any determination of such application, reference or representations.
 
-### 23. Revocation[^key-96e4fa0fe42941fc1e50c761fa9ec897]
+### 23. Revocation[^c-96e4fa0fe42941fc1e50c761fa9ec897]
 
 The Health and Personal Social Services (Services Committee) Regulations (Northern Ireland) 1973 are hereby revoked.
 
@@ -807,13 +807,13 @@ Assistant Secretary
 
 Regulation 3(4)
 
-**1.**[^key-7a2231945dc22271b2e7cbd8aa2d8fbc] A discipline committee, other than a joint discipline committee, shall consist of—
+**1.**[^c-7a2231945dc22271b2e7cbd8aa2d8fbc] A discipline committee, other than a joint discipline committee, shall consist of—
 
 - (a) a chairman appointed in accordance with paragraph 4; and
 - (b) no more than three lay persons appointed by the Board; and
 - (c) no more than three professional persons appointed by the Board from a list of nominees provided by the relevant Local Representative Committee for the Board’s area.
 
-**2.**[^key-83063f6066bdd37c76e7e8609be1d6d9] (1) A joint discipline committee shall consist of—
+**2.**[^c-83063f6066bdd37c76e7e8609be1d6d9] (1) A joint discipline committee shall consist of—
 
 - (a) a chairman appointed in accordance with paragraph 4; and
 - (b) ten other members of whom—
@@ -834,11 +834,11 @@ Regulation 3(4)
 - (c) in relation to a member appointed by the ophthalmic discipline committee, an ophthalmic medical practitioner or an optician;
 - (d) in relation to a member appointed by the pharmaceutical discipline committee, a chemist.
 
-**3.**[^key-876b02eee047890063365f76182f0573] (1) As respects each discipline committee, not fewer than three lay persons and not fewer than three professional persons shall be appointed as deputies, according to the same provisions as apply to the appointment of members of that committee other than the chairman.
+**3.**[^c-876b02eee047890063365f76182f0573] (1) As respects each discipline committee, not fewer than three lay persons and not fewer than three professional persons shall be appointed as deputies, according to the same provisions as apply to the appointment of members of that committee other than the chairman.
 
 (2) Where a member of a discipline committee, other than the chairman, is absent a deputy appointed according to the same provisions as that member may act in his place.
 
-**4.**[^key-f86f07876c9b9f52d8fc63c32876f49c] (1) The chairman of a discipline committee shall be a solicitor or barrister appointed by the Board.
+**4.**[^c-f86f07876c9b9f52d8fc63c32876f49c] (1) The chairman of a discipline committee shall be a solicitor or barrister appointed by the Board.
 
 (2) The Board shall, within 14 days of making an appointment under sub-paragraph (1), give notice in writing of the appointment to the other members of the discipline committee.
 
@@ -853,22 +853,22 @@ Regulation 3(4)
 
 (6) A person appointed as chairman of a discipline committee who is already a member of that discipline committee shall, on his appointment as chairman, cease to be a member otherwise than in his capacity as chairman and a new member shall be appointed to take his place.
 
-**5.**[^key-d2741d06eb158cec460291537c6693c0] (1) A person shall be appointed to act as deputy for the chairman of any discipline committee and the provisions of paragraph 4 shall apply to that appointment as they apply to the appointment of the chairman.
+**5.**[^c-d2741d06eb158cec460291537c6693c0] (1) A person shall be appointed to act as deputy for the chairman of any discipline committee and the provisions of paragraph 4 shall apply to that appointment as they apply to the appointment of the chairman.
 
 (2) The deputy chairman may, in the absence of the chairman, act in his place and may, if when appointed already a member of the committee, continue as a member but when acting as chairman shall act only in that capacity.
 
-**6.**[^key-338657d94f6ee7dc654ecb3921278ac9] (1) Subject to the other provisions of this Schedule, a Board may make standing orders with respect to the term of office of any members and deputy members of any discipline committee.
+**6.**[^c-338657d94f6ee7dc654ecb3921278ac9] (1) Subject to the other provisions of this Schedule, a Board may make standing orders with respect to the term of office of any members and deputy members of any discipline committee.
 
 (2) Subject to any re-appointment, the term of office of any member or deputy member of such a committee shall not exceed one year.
 
 (3) A chairman of a discipline committee may attend and take part in any proceedings of the Board at which a report of that committee is being considered, but may not vote.
 
-**7.**[^key-4873690d57cb43a5027a315924d31fcf] A person who is a member of a discipline committee constituted under this Schedule shall cease to hold office—
+**7.**[^c-4873690d57cb43a5027a315924d31fcf] A person who is a member of a discipline committee constituted under this Schedule shall cease to hold office—
 
 - (a) where he is the chairman or a lay member, on his ceasing to be a lay person;
 - (b) where he is a member not mentioned in sub-paragraph (*a*), on his ceasing to be a professional person.
 
-**8.**[^key-cc29018e279f9f51ae17e4cf3283d9e9] In this Schedule—
+**8.**[^c-cc29018e279f9f51ae17e4cf3283d9e9] In this Schedule—
 
 - (a) “lay member” means, in relation to a discipline committee or joint discipline committee, any member (other than the chairman) who is a lay person;
 - (b) “lay person” means a person who is not and never has been—
@@ -887,7 +887,7 @@ Regulation 3(4)
 
 Regulation 7(2)
 
-### 1. Board’s Statement of Case[^key-09a708a954042048b3ba92d5491a055f]
+### 1. Board’s Statement of Case[^c-09a708a954042048b3ba92d5491a055f]
 
 (1) Where a disciplinary matter is referred to the appropriate discipline committee in accordance with regulation 5(1) the appropriate Board shall—
 
@@ -905,7 +905,7 @@ Regulation 7(2)
 
 (4) Where the Board requests an extension of the 28 day period mentioned in sub-paragraph (1)(*b*) before it expires, the chairman of the discipline committee may grant an extension of that period for a further 28 days from the day on which the period would otherwise expire.
 
-### 2. Disciplinary matters in relation to deputies[^key-555e040db77d0181b80d72fc67d9248f]
+### 2. Disciplinary matters in relation to deputies[^c-555e040db77d0181b80d72fc67d9248f]
 
 (1) Where a disciplinary matter which is investigated in relation to—
 
@@ -929,13 +929,13 @@ the appropriate Board shall send a notice in writing in accordance with sub-para
 
 (4) A disciplinary matter of the type mentioned in regulation 4(6)(*a*) or (*b*) shall be brought as soon as practicable before the disciplinary committee.
 
-### 3. Response of practitioner[^key-ca0630eccb7b4efd468e803a5d13bc4f]
+### 3. Response of practitioner[^c-ca0630eccb7b4efd468e803a5d13bc4f]
 
 (1) Where the practitioner wishes to respond to the statement of case he shall send to the appropriate Board and the discipline committee his response to the statement of case within 28 days of the date on which the statement of case was sent to him.
 
 (2) Where the practitioner requests an extension of the 28 day period mentioned in sub-paragraph (1) before it expires, the chairman of the discipline committee may grant an extension of that period for a further 28 days from the day on which the period would otherwise expire.
 
-### 4. Preparation for the hearing[^key-d0353f4596c97b7ce834b2ab86f4d7df]
+### 4. Preparation for the hearing[^c-d0353f4596c97b7ce834b2ab86f4d7df]
 
 (1) The Board which has appointed the discipline committee shall in writing—
 
@@ -959,7 +959,7 @@ the appropriate Board shall send a notice in writing in accordance with sub-para
 
 copies of the appropriate Board’s statement of case, of any response of the practitioner, of any comments made under paragraph 2(2)(a)(ii) and of any further observations or correspondence between the parties.
 
-### 5. Attendance at hearing[^key-bd04de2bea44b15f9349eedb58ccb7b7]
+### 5. Attendance at hearing[^c-bd04de2bea44b15f9349eedb58ccb7b7]
 
 (1) The hearing before the discipline committee shall be in private, and no person shall be admitted to it unless he is a person specified in sub-paragraph (2).
 
@@ -978,7 +978,7 @@ copies of the appropriate Board’s statement of case, of any response of the pr
 
 (5) Any person permitted to attend the hearing under sub-paragraph (2)(*d*) for the purpose of giving evidence shall, unless the discipline committee otherwise directs, be excluded from the hearing except while he is actually giving evidence.
 
-### 6. Procedure at the hearing[^key-39d66dc853b36b4ea5ac9dfa5c90f2b6]
+### 6. Procedure at the hearing[^c-39d66dc853b36b4ea5ac9dfa5c90f2b6]
 
 (1) At the hearing, any person mentioned in sub-paragraph (2)(*a*) or (*b*) of paragraph 5 may, subject to sub-paragraph (3) of that paragraph—
 
@@ -1008,7 +1008,7 @@ copies of the appropriate Board’s statement of case, of any response of the pr
 
 (11) Subject to the other provisions of this Schedule, the procedure at the hearing shall be such as the investigating discipline committee may determine.
 
-### 7. The committee’s report[^key-7e4d11eb44ec6c9beab81e359a921682]
+### 7. The committee’s report[^c-7e4d11eb44ec6c9beab81e359a921682]
 
 (1) The discipline committee shall present to the appropriate Board a report in writing which shall contain—
 
@@ -1022,7 +1022,7 @@ copies of the appropriate Board’s statement of case, of any response of the pr
 
 (3) For the purposes of sub-paragraph (2) “another discipline committee” shall be construed as including a services committee which investigated a complaint under the provisions of the Health and Personal Social Services (Services Committee) Regulations (Northern Ireland) 1973.
 
-### 8. Provision as to quorum, composition and voting[^key-fdc84b4dd1d0af05eb9634fbbcc5ea53]
+### 8. Provision as to quorum, composition and voting[^c-fdc84b4dd1d0af05eb9634fbbcc5ea53]
 
 (1) At any hearing of a discipline committee other than a joint discipline committee the quorum shall consist of a chairman, two lay members and two members who are professional persons.
 
@@ -1042,7 +1042,7 @@ copies of the appropriate Board’s statement of case, of any response of the pr
 
 (5) Where there is an equality of votes among members of a discipline committee, the chairman shall have a casting vote, but shall not otherwise be entitled to vote.
 
-### 9. Interpretation[^key-6555e978ead782635074015f26fb7e15]
+### 9. Interpretation[^c-6555e978ead782635074015f26fb7e15]
 
 In this Schedule, unless the context otherwise requires—
 
@@ -1059,20 +1059,20 @@ In this Schedule, unless the context otherwise requires—
 
 Regulation 11(1)
 
-**1.**[^key-20751a5f2219c96441de1703d9f1eb51] Any of the following failures to comply with terms of service is specified for the purposes of regulation 11(1) in relation to a doctor—
+**1.**[^c-20751a5f2219c96441de1703d9f1eb51] Any of the following failures to comply with terms of service is specified for the purposes of regulation 11(1) in relation to a doctor—
 
 - (a) a failure to exercise reasonable care and skill in the treatment of a patient;
 - (b) a failure to visit, or to treat, a patient whose condition so requires;
 - (c) a failure to order, or to provide, any necessary drug or appliance for the use of a patient;
 - (d) a failure to discharge any obligation on a doctor to give a patient the requisite assistance to enable him to obtain any treatment which is not within the scope of the doctor’s obligations under his terms of service.
 
-**2.**[^key-d05cc25dc7025371319926f3643571a3] A failure to exercise a proper degree of skill and attention in the treatment of a patient is specified for the purposes of regulation 11(1) in relation to a dentist.
+**2.**[^c-d05cc25dc7025371319926f3643571a3] A failure to exercise a proper degree of skill and attention in the treatment of a patient is specified for the purposes of regulation 11(1) in relation to a dentist.
 
 ## SCHEDULE 4 — Rules of procedure under regulation 17
 
 Regulation 17(8)
 
-**1.**[^key-22d02b133839a08e2170742d31a1ef45] (1) The Board shall prepare and submit to the Local Medical Committee a written statement of the facts in connection with which the question has arisen and of the decision given by the Board and the grounds on which it is based.
+**1.**[^c-22d02b133839a08e2170742d31a1ef45] (1) The Board shall prepare and submit to the Local Medical Committee a written statement of the facts in connection with which the question has arisen and of the decision given by the Board and the grounds on which it is based.
 
 (2) The Local Medical Committee shall, as soon as may be after receipt of the statement mentioned in sub-paragraph (1)—
 
@@ -1081,7 +1081,7 @@ Regulation 17(8)
 
 (3) The Board shall send the statements prepared by itself and by the Local Medical Committee to the Department and the Department may, if it thinks fit, require both or either of those bodies to furnish it with further particulars regarding the facts of the case, or the decision, or the grounds for the decision.
 
-**2.**[^key-a4494e1caac7863aecf8b724f218c41f] (1) Where the Department thinks fit to refer a matter under regulation 17(6), it may require either the Board or the Local Medical Committee to furnish written statements of the facts in connection with which the question has arisen and of its decision and the grounds on which the decision is based.
+**2.**[^c-a4494e1caac7863aecf8b724f218c41f] (1) Where the Department thinks fit to refer a matter under regulation 17(6), it may require either the Board or the Local Medical Committee to furnish written statements of the facts in connection with which the question has arisen and of its decision and the grounds on which the decision is based.
 
 (2) The Department shall inform any body which has furnished a statement under sub-paragraph (1)—
 
@@ -1125,9 +1125,9 @@ These Regulations, which come into operation on 1st April 1996, also make transi
 
 [^f00002]: Footnote: [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)
 
-[^key-fedebcdf09fba14d567773f8f20b907f]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-fedebcdf09fba14d567773f8f20b907f]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-c2062a1eb06f1d5d61ecdf3951b30d09]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-c2062a1eb06f1d5d61ecdf3951b30d09]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326)
 
@@ -1145,45 +1145,45 @@ These Regulations, which come into operation on 1st April 1996, also make transi
 
 [^f00010]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163); relevant amending regulations are [S.R. 1996 No. 135](https://www.legislation.gov.uk/nisr/1996/135)
 
-[^key-79ed88d3916b8c91e60c9bde72edbc2e]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-79ed88d3916b8c91e60c9bde72edbc2e]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-08843af564e295bae7d29dedb925ee1b]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-08843af564e295bae7d29dedb925ee1b]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-1de40e001c2ed58e8b6c052029585f91]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-1de40e001c2ed58e8b6c052029585f91]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-ca9555a5b404e0d2b9aedcc6ddf64d5a]: Commencement: Reg. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-ca9555a5b404e0d2b9aedcc6ddf64d5a]: Commencement: Reg. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-60e6430a86edd9ee0c145c668b6ef7d0]: Commencement: Reg. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-60e6430a86edd9ee0c145c668b6ef7d0]: Commencement: Reg. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-b34e3d0ad4c77c55d1f829678867ded8]: Commencement: Reg. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-b34e3d0ad4c77c55d1f829678867ded8]: Commencement: Reg. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-667e69e5b059110e858fbe2f77bebcac]: Commencement: Reg. 9 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-667e69e5b059110e858fbe2f77bebcac]: Commencement: Reg. 9 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-cfe15a6feec32e99ce0e9dff0aaf4c0d]: Commencement: Reg. 10 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-cfe15a6feec32e99ce0e9dff0aaf4c0d]: Commencement: Reg. 10 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-4ffdd5d63b1fba0a62d880478768fb56]: Commencement: Reg. 11 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-4ffdd5d63b1fba0a62d880478768fb56]: Commencement: Reg. 11 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-efff510abff26e05b0efb30906713667]: Commencement: Reg. 12 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-efff510abff26e05b0efb30906713667]: Commencement: Reg. 12 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-4dc7bba3e62b5da0ef9d3d05264b118e]: Commencement: Reg. 13 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-4dc7bba3e62b5da0ef9d3d05264b118e]: Commencement: Reg. 13 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-19fa742fb9cf4ebabf6244664107d394]: Commencement: Reg. 14 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-19fa742fb9cf4ebabf6244664107d394]: Commencement: Reg. 14 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-51a5883e92dc26ad7f6ad191436f3efa]: Commencement: Reg. 15 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-51a5883e92dc26ad7f6ad191436f3efa]: Commencement: Reg. 15 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175)
 
-[^key-f7d8cd6414813b97486eb85d3e2f892a]: Commencement: Reg. 16 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-f7d8cd6414813b97486eb85d3e2f892a]: Commencement: Reg. 16 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-f25f925bda2f5a1d7b4a4977d03a7e24]: Commencement: Reg. 17 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-f25f925bda2f5a1d7b4a4977d03a7e24]: Commencement: Reg. 17 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-da4920064cd3fd7cb8bbb5abefffb960]: Commencement: Reg. 18 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-da4920064cd3fd7cb8bbb5abefffb960]: Commencement: Reg. 18 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-0ce34c57a5f23ee97b6c0ba4a943d9b8]: Commencement: Reg. 19 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-0ce34c57a5f23ee97b6c0ba4a943d9b8]: Commencement: Reg. 19 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-76f0afadcb9da814b2b275acbaf69df9]: Commencement: Reg. 20 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-76f0afadcb9da814b2b275acbaf69df9]: Commencement: Reg. 20 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-5beb732123620d07d2cadb8a364dd7bf]: Commencement: Reg. 21 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-5beb732123620d07d2cadb8a364dd7bf]: Commencement: Reg. 21 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
 [^f00012]: Footnote: *See* the Medical Act [1983 (c. 54)](https://www.legislation.gov.uk/ukpga/1983/54), section 1
 
@@ -1191,27 +1191,27 @@ These Regulations, which come into operation on 1st April 1996, also make transi
 
 [^f00014]: Footnote: *See* the Opticians Act [1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44), section 1
 
-[^key-2ffa4a0d47b679ffc11fc8994f578273]: Commencement: Reg. 22 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-2ffa4a0d47b679ffc11fc8994f578273]: Commencement: Reg. 22 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. & O. 1973 No. 416](https://www.legislation.gov.uk/nisro/1973/416)
 
-[^key-96e4fa0fe42941fc1e50c761fa9ec897]: Commencement: Reg. 23 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-96e4fa0fe42941fc1e50c761fa9ec897]: Commencement: Reg. 23 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-7a2231945dc22271b2e7cbd8aa2d8fbc]: Commencement: Sch. 1 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-7a2231945dc22271b2e7cbd8aa2d8fbc]: Commencement: Sch. 1 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-83063f6066bdd37c76e7e8609be1d6d9]: Commencement: Sch. 1 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-83063f6066bdd37c76e7e8609be1d6d9]: Commencement: Sch. 1 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-876b02eee047890063365f76182f0573]: Commencement: Sch. 1 para. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-876b02eee047890063365f76182f0573]: Commencement: Sch. 1 para. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-f86f07876c9b9f52d8fc63c32876f49c]: Commencement: Sch. 1 para. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-f86f07876c9b9f52d8fc63c32876f49c]: Commencement: Sch. 1 para. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-d2741d06eb158cec460291537c6693c0]: Commencement: Sch. 1 para. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-d2741d06eb158cec460291537c6693c0]: Commencement: Sch. 1 para. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-338657d94f6ee7dc654ecb3921278ac9]: Commencement: Sch. 1 para. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-338657d94f6ee7dc654ecb3921278ac9]: Commencement: Sch. 1 para. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-4873690d57cb43a5027a315924d31fcf]: Commencement: Sch. 1 para. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-4873690d57cb43a5027a315924d31fcf]: Commencement: Sch. 1 para. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-cc29018e279f9f51ae17e4cf3283d9e9]: Commencement: Sch. 1 para. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-cc29018e279f9f51ae17e4cf3283d9e9]: Commencement: Sch. 1 para. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
 [^f00016]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44)
 
@@ -1219,28 +1219,28 @@ These Regulations, which come into operation on 1st April 1996, also make transi
 
 [^f00018]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-09a708a954042048b3ba92d5491a055f]: Commencement: Sch. 2 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-09a708a954042048b3ba92d5491a055f]: Commencement: Sch. 2 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-555e040db77d0181b80d72fc67d9248f]: Commencement: Sch. 2 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-555e040db77d0181b80d72fc67d9248f]: Commencement: Sch. 2 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-ca0630eccb7b4efd468e803a5d13bc4f]: Commencement: Sch. 2 para. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-ca0630eccb7b4efd468e803a5d13bc4f]: Commencement: Sch. 2 para. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-d0353f4596c97b7ce834b2ab86f4d7df]: Commencement: Sch. 2 para. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-d0353f4596c97b7ce834b2ab86f4d7df]: Commencement: Sch. 2 para. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-bd04de2bea44b15f9349eedb58ccb7b7]: Commencement: Sch. 2 para. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-bd04de2bea44b15f9349eedb58ccb7b7]: Commencement: Sch. 2 para. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-39d66dc853b36b4ea5ac9dfa5c90f2b6]: Commencement: Sch. 2 para. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-39d66dc853b36b4ea5ac9dfa5c90f2b6]: Commencement: Sch. 2 para. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-7e4d11eb44ec6c9beab81e359a921682]: Commencement: Sch. 2 para. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-7e4d11eb44ec6c9beab81e359a921682]: Commencement: Sch. 2 para. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-fdc84b4dd1d0af05eb9634fbbcc5ea53]: Commencement: Sch. 2 para. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-fdc84b4dd1d0af05eb9634fbbcc5ea53]: Commencement: Sch. 2 para. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-6555e978ead782635074015f26fb7e15]: Commencement: Sch. 2 para. 9 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-6555e978ead782635074015f26fb7e15]: Commencement: Sch. 2 para. 9 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-20751a5f2219c96441de1703d9f1eb51]: Commencement: Sch. 3 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-20751a5f2219c96441de1703d9f1eb51]: Commencement: Sch. 3 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-d05cc25dc7025371319926f3643571a3]: Commencement: Sch. 3 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-d05cc25dc7025371319926f3643571a3]: Commencement: Sch. 3 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-22d02b133839a08e2170742d31a1ef45]: Commencement: Sch. 4 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-22d02b133839a08e2170742d31a1ef45]: Commencement: Sch. 4 para. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
 
-[^key-a4494e1caac7863aecf8b724f218c41f]: Commencement: Sch. 4 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)
+[^c-a4494e1caac7863aecf8b724f218c41f]: Commencement: Sch. 4 para. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/137/regulation/1/1)

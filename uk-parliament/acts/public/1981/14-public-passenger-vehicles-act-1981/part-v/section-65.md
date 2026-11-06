@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies to the following documents and other things, namely—
 
 - (a)[^c2521921] a licence under Part II [^c2521931]... of this Act;
-- (ea)[^c2521941] a control document issued in pursuance of regulation 4 of the Road Transport (International Passenger Services) Regulations 2018 (S.I. 2018/1395);[^key-91d883b44a14f859e196da6f1ab63381]
+- (ea)[^c2521941] a control document issued in pursuance of regulation 4 of the Road Transport (International Passenger Services) Regulations 2018 (S.I. 2018/1395);[^c-91d883b44a14f859e196da6f1ab63381]
 - (b) a certificate of initial fitness under section 6 of this Act;
 - (bb)[^c2521951] a notice removing a prohibition under section 9 of this Act;
 - (c) a certificate under section 10 of this Act that a vehicle conforms to a type vehicle;
@@ -58,7 +58,7 @@ shall be liable—
 
 [^c2521941]: Textual amendment: S. 65(1)(ea) inserted (28.1.2000) by [S.I. 1999/3413](https://www.legislation.gov.uk/uksi/1999/3413), [reg. 10(3)](https://www.legislation.gov.uk/uksi/1999/3413/regulation/10/3)
 
-[^key-91d883b44a14f859e196da6f1ab63381]: Textual amendment: Words in [s. 65(1)(ea)](https://www.legislation.gov.uk/ukpga/1981/14/section/65/1/ea) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/6/2)
+[^c-91d883b44a14f859e196da6f1ab63381]: Textual amendment: Words in [s. 65(1)(ea)](https://www.legislation.gov.uk/ukpga/1981/14/section/65/1/ea) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/6/2)
 
 [^c2521951]: Textual amendment: S. 65(1)(*bb*) inserted (*prosp.*) by [Transport Act 1982 (c. 49, SIF 58, 107:1, 126)](https://www.legislation.gov.uk/ukpga/1982/49), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/1982/49/section/23/4), [76(2)](https://www.legislation.gov.uk/ukpga/1982/49/section/76/2)
 

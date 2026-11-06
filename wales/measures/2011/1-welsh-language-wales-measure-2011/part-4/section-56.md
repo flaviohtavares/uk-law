@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Applications to the Commissioner[^key-354fae4eb34bce8b5bb9dfec74d156e7]
+## 56. Applications to the Commissioner[^c-354fae4eb34bce8b5bb9dfec74d156e7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-354fae4eb34bce8b5bb9dfec74d156e7]: Commencement: [S. 56](https://www.legislation.gov.uk/mwa/2011/1/section/56) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-354fae4eb34bce8b5bb9dfec74d156e7]: Commencement: [S. 56](https://www.legislation.gov.uk/mwa/2011/1/section/56) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

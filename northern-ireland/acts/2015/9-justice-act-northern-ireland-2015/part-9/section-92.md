@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Case management regulations[^key-c6823638450d31c00f3d6dba9a58ba5e]
+## 92. Case management regulations[^c-c6823638450d31c00f3d6dba9a58ba5e]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6823638450d31c00f3d6dba9a58ba5e]: Commencement: [S. 92](https://www.legislation.gov.uk/nia/2015/9/section/92) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(h)](https://www.legislation.gov.uk/nisr/2016/387/article/2/h) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c6823638450d31c00f3d6dba9a58ba5e]: Commencement: [S. 92](https://www.legislation.gov.uk/nia/2015/9/section/92) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(h)](https://www.legislation.gov.uk/nisr/2016/387/article/2/h) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

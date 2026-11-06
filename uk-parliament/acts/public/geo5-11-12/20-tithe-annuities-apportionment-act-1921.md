@@ -31,22 +31,22 @@ Tithe Annuities Apportionment Act 1921 (repealed)
 
 1921 c. 20
 
-[^key-616e499a4fe382d866082cad2d869e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-616e499a4fe382d866082cad2d869e69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[28th July 1921\]
 
 **No longer in force.**
 
-## 1. Apportionment of tithe redemption annuities.[^key-616e499a4fe382d866082cad2d869e69][^key-616e499a4fe382d866082cad2d869e69]
+## 1. Apportionment of tithe redemption annuities.[^c-616e499a4fe382d866082cad2d869e69][^c-616e499a4fe382d866082cad2d869e69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-616e499a4fe382d866082cad2d869e69][^key-616e499a4fe382d866082cad2d869e69]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-616e499a4fe382d866082cad2d869e69][^c-616e499a4fe382d866082cad2d869e69]
 
-## 3. Short title.[^key-616e499a4fe382d866082cad2d869e69][^key-616e499a4fe382d866082cad2d869e69]
+## 3. Short title.[^c-616e499a4fe382d866082cad2d869e69][^c-616e499a4fe382d866082cad2d869e69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-616e499a4fe382d866082cad2d869e69]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/11-12/20) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-616e499a4fe382d866082cad2d869e69]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/11-12/20) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3

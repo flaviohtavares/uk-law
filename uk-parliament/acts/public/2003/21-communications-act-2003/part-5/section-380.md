@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 380. Additional investigation and report by OFCOM: special public interest cases[^key-be6d5bd041c385fe0c13576c27b21445]
+## 380. Additional investigation and report by OFCOM: special public interest cases[^c-be6d5bd041c385fe0c13576c27b21445]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ After section 61 of the Enterprise Act 2002 (initial investigation and report by
 
 ## Annotations
 
-[^key-be6d5bd041c385fe0c13576c27b21445]: Commencement: S. 380 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-be6d5bd041c385fe0c13576c27b21445]: Commencement: S. 380 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

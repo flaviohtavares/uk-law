@@ -24,7 +24,7 @@ Regulations 29(7) and 36
 
 ### PART 1 — Interpretation
 
-**1.**[^key-68271da2dc3551a4ade03d574c18b38b] In this Schedule—
+**1.**[^c-68271da2dc3551a4ade03d574c18b38b] In this Schedule—
 
 - “relevant functions” are—
   - (a) the development, production, provision or review of scheme communications,
@@ -37,7 +37,7 @@ Regulations 29(7) and 36
 
 #### Functionality, quality and maintenance of IT systems
 
-**2.**[^key-5669fd3e0abb06283c5c6420cc49457e] Whether the IT systems used for the purposes of carrying out relevant functions—
+**2.**[^c-5669fd3e0abb06283c5c6420cc49457e] Whether the IT systems used for the purposes of carrying out relevant functions—
 
 - (a) have the necessary capacity and capability to enable relevant functions to be carried out by, on behalf of or in respect of the scheme in accordance with—
   - (i) any legal requirement in relation to scheme communications, and
@@ -51,14 +51,14 @@ Regulations 29(7) and 36
 
 #### Resource planning
 
-**3.**[^key-002bd352edca2bcbe83d4472802e7859] Whether there are systems and processes for ensuring that there are sufficient individuals, with the relevant skills, qualifications and capacity necessary to enable relevant functions to be carried out by, on behalf of or in respect of the scheme in accordance with—
+**3.**[^c-002bd352edca2bcbe83d4472802e7859] Whether there are systems and processes for ensuring that there are sufficient individuals, with the relevant skills, qualifications and capacity necessary to enable relevant functions to be carried out by, on behalf of or in respect of the scheme in accordance with—
 
 - (a) any legal requirement in relation to scheme communications, and
 - (b) the scheme’s systems and processes concerning scheme communications.
 
 #### Quality assurance
 
-**4.**[^key-62d545c895e023b3684677f7a55aba39] Whether there are systems and processes—
+**4.**[^c-62d545c895e023b3684677f7a55aba39] Whether there are systems and processes—
 
 - (a) for assessing and improving the effectiveness of scheme communications and for updating scheme communications to take into account these assessments;
 - (b) for ensuring that the information contained in scheme communications is accurate and is not misleading;
@@ -68,7 +68,7 @@ Regulations 29(7) and 36
 
 #### Member engagement
 
-**5.**[^key-fe8a0a02e70b36923b8fc5e3c11f9c4d] Whether there are systems and processes—
+**5.**[^c-fe8a0a02e70b36923b8fc5e3c11f9c4d] Whether there are systems and processes—
 
 - (a) for gathering feedback from members concerning scheme communications;
 - (b) for evaluating feedback from members concerning scheme communications and sharing this feedback with trustees;
@@ -77,12 +77,12 @@ Regulations 29(7) and 36
 
 ## Annotations
 
-[^key-68271da2dc3551a4ade03d574c18b38b]: Commencement: Sch. 4 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-68271da2dc3551a4ade03d574c18b38b]: Commencement: Sch. 4 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-5669fd3e0abb06283c5c6420cc49457e]: Commencement: Sch. 4 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-5669fd3e0abb06283c5c6420cc49457e]: Commencement: Sch. 4 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-002bd352edca2bcbe83d4472802e7859]: Commencement: Sch. 4 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-002bd352edca2bcbe83d4472802e7859]: Commencement: Sch. 4 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-62d545c895e023b3684677f7a55aba39]: Commencement: Sch. 4 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-62d545c895e023b3684677f7a55aba39]: Commencement: Sch. 4 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-fe8a0a02e70b36923b8fc5e3c11f9c4d]: Commencement: Sch. 4 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-fe8a0a02e70b36923b8fc5e3c11f9c4d]: Commencement: Sch. 4 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

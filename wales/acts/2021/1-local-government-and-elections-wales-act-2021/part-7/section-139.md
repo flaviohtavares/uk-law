@@ -27,14 +27,14 @@ summary: ''
 
 it must not take any steps (including the holding of a referendum) to change its form of executive.
 
-(2)[^key-9853de0471b6c30f3751eda6350dfb5c] After giving notice as described in section 129(6), the Welsh Ministers may direct a restructuring council that—
+(2)[^c-9853de0471b6c30f3751eda6350dfb5c] After giving notice as described in section 129(6), the Welsh Ministers may direct a restructuring council that—
 
 - (a) until restructuring regulations applying to the council come into force, or
 - (b) until it receives notice under section 134(3),
 
 it must not take any steps (including the holding of a referendum) to change its form of executive.
 
-(3)[^key-d37bd85f86fb73347dfbae6d72517f52] While a direction under subsection (1) or (2) has effect in relation to a council, the council is not subject to any duty imposed by or under an enactment to take steps to change its form of executive.
+(3)[^c-d37bd85f86fb73347dfbae6d72517f52] While a direction under subsection (1) or (2) has effect in relation to a council, the council is not subject to any duty imposed by or under an enactment to take steps to change its form of executive.
 
 ## Annotations
 
@@ -42,6 +42,6 @@ it must not take any steps (including the holding of a referendum) to change its
 
 [^c24512151]: Commencement: S. 139(3) in force at 21.1.2021 for specified purposes, see s. 175(1)(f)(2)(d)(ii)(7)
 
-[^key-9853de0471b6c30f3751eda6350dfb5c]: Commencement: S. 139(2) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-9853de0471b6c30f3751eda6350dfb5c]: Commencement: S. 139(2) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
 
-[^key-d37bd85f86fb73347dfbae6d72517f52]: Commencement: S. 139(3) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-d37bd85f86fb73347dfbae6d72517f52]: Commencement: S. 139(3) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

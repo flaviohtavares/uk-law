@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Powers of senior officers to impose conditions on protests[^key-66f98f687e7747653c9ac6d3223b3b39][^key-dc2ce8a59ca563007bf17b770fbfc9dc]
+## 166. Powers of senior officers to impose conditions on protests[^c-66f98f687e7747653c9ac6d3223b3b39][^c-dc2ce8a59ca563007bf17b770fbfc9dc]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66f98f687e7747653c9ac6d3223b3b39]: Commencement: S. 166 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-66f98f687e7747653c9ac6d3223b3b39]: Commencement: S. 166 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-dc2ce8a59ca563007bf17b770fbfc9dc]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2026/20/section/166) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+[^c-dc2ce8a59ca563007bf17b770fbfc9dc]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2026/20/section/166) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)

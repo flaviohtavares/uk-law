@@ -24,7 +24,7 @@ summary: ''
 
 - “**1985 Act**” means the Companies Act 1985,
 - “**1986 Order**” means the Companies (Northern Ireland) Order 1986, and
-- “**LLP**” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000[^key-0468bc558ae39c4534fdee179b52e23f].
+- “**LLP**” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000[^c-0468bc558ae39c4534fdee179b52e23f].
 
 (2) In these Regulations, unless the context otherwise requires—
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0468bc558ae39c4534fdee179b52e23f]: Textual amendment: Words in reg. 3(1) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/15/2)
+[^c-0468bc558ae39c4534fdee179b52e23f]: Textual amendment: Words in reg. 3(1) substituted (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/15/2)
 
 [^c19348651]: Marginal citation: 1986 (c.45).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Annual report on Housing First[^key-da816491bde193d18ada76a455706e73]
+## 59. Annual report on Housing First[^c-da816491bde193d18ada76a455706e73]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da816491bde193d18ada76a455706e73]: Commencement: S. 59 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-da816491bde193d18ada76a455706e73]: Commencement: S. 59 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)

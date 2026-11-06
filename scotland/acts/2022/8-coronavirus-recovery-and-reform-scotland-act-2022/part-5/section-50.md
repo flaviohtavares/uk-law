@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. The measures[^key-f450f5d781fe4640e614f1ea085fc61f]
+## 50. The measures[^c-f450f5d781fe4640e614f1ea085fc61f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The schedule contains temporary modifications to the law.
 
 ## Annotations
 
-[^key-f450f5d781fe4640e614f1ea085fc61f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2022/8/section/50) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-f450f5d781fe4640e614f1ea085fc61f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2022/8/section/50) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

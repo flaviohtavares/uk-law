@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Compensation relating to code rights: England and Wales[^key-5b0e5259420bfa76abd7dba14d83c5fc][^key-e4666596974f9757959fa3074cc4f6ae]
+## 63. Compensation relating to code rights: England and Wales[^c-5b0e5259420bfa76abd7dba14d83c5fc][^c-e4666596974f9757959fa3074cc4f6ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ After section 34A of the Landlord and Tenant Act 1954 (inserted by section 61) i
 
 ## Annotations
 
-[^key-5b0e5259420bfa76abd7dba14d83c5fc]: Commencement: S. 63 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-5b0e5259420bfa76abd7dba14d83c5fc]: Commencement: S. 63 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-e4666596974f9757959fa3074cc4f6ae]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2022/46/section/63) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/c) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))
+[^c-e4666596974f9757959fa3074cc4f6ae]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2022/46/section/63) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/c) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))

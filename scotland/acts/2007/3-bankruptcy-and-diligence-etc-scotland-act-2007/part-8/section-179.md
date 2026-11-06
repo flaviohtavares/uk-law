@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The officer of court[^key-10264ccc3a4710793136a18254876e20] must, immediately after executing a money attachment, complete a schedule such as is mentioned in subsection (2) below (in this Part, the “schedule of money attachment”).
+(1) The officer of court[^c-10264ccc3a4710793136a18254876e20] must, immediately after executing a money attachment, complete a schedule such as is mentioned in subsection (2) below (in this Part, the “schedule of money attachment”).
 
 (2) A schedule of money attachment—
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2028916]: Commencement: S. 179 wholly in force at 23.11.2009; s. 179 not in force at Royal Assent see s. 227; s. 179(2)(a)(i) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(4)](https://www.legislation.gov.uk/ssi/2008/115/article/3/4), [Sch. 3](https://www.legislation.gov.uk/ssi/2008/115/schedule/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10)); s. 179 in force at 23.11.2009 in so far as not already in force by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3](https://www.legislation.gov.uk/ssi/2009/369/article/3) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-10264ccc3a4710793136a18254876e20]: Textual amendment: Words in [s. 179(1)-(4)](https://www.legislation.gov.uk/asp/2007/3/section/179/1) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-10264ccc3a4710793136a18254876e20]: Textual amendment: Words in [s. 179(1)-(4)](https://www.legislation.gov.uk/asp/2007/3/section/179/1) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

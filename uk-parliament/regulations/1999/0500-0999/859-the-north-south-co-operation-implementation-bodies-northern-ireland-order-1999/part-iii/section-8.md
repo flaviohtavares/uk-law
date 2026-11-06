@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. The implementation body for food safety[^key-a7c9f3cdd1ab302c35cdf6d3ee39df37]
+## 8. The implementation body for food safety[^c-a7c9f3cdd1ab302c35cdf6d3ee39df37]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7c9f3cdd1ab302c35cdf6d3ee39df37]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/859/article/8) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-a7c9f3cdd1ab302c35cdf6d3ee39df37]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/859/article/8) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

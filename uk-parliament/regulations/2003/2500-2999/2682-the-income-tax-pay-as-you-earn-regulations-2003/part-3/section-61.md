@@ -32,7 +32,7 @@ summary: ''
 (3) For the purposes of—
 
 - (a) item 8 of Table 2 in regulation 36(4) (Form P45), and
-- (b) regulation 55(4)(f) (P46(Pen))[^key-370d16fa5783a1b6f09892bb638e8971],
+- (b) regulation 55(4)(f) (P46(Pen))[^c-370d16fa5783a1b6f09892bb638e8971],
 
 any total payments to date and total net tax deducted which are which are notified to the employer by the Inland Revenue must be treated as if they were relevant pension payments made to the pensioner by, and tax deducted by, the pension payer.
 
@@ -40,4 +40,4 @@ any total payments to date and total net tax deducted which are which are notifi
 
 ## Annotations
 
-[^key-370d16fa5783a1b6f09892bb638e8971]: Textual amendment: Word in [reg. 61(3)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61/3/b) substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2007/2969/regulation/17)
+[^c-370d16fa5783a1b6f09892bb638e8971]: Textual amendment: Word in [reg. 61(3)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61/3/b) substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2007/2969/regulation/17)

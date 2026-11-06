@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Disqualification from carrying on, or being employed in, a children's home[^key-df4ae860c1cae089b16b521f5928844e]
+## 105. Disqualification from carrying on, or being employed in, a children's home[^c-df4ae860c1cae089b16b521f5928844e]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df4ae860c1cae089b16b521f5928844e]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2014/6/section/105) in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
+[^c-df4ae860c1cae089b16b521f5928844e]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2014/6/section/105) in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)

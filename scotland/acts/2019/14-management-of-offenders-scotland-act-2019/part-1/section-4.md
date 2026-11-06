@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. More about the list of disposals[^key-aae6d42d71328b70ac6cdc2662c78c1a]
+## 4. More about the list of disposals[^c-aae6d42d71328b70ac6cdc2662c78c1a]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ except something under which a person is to be detained in custody.
 
 ## Annotations
 
-[^key-aae6d42d71328b70ac6cdc2662c78c1a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/14/section/4) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/b)
+[^c-aae6d42d71328b70ac6cdc2662c78c1a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/14/section/4) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/b)

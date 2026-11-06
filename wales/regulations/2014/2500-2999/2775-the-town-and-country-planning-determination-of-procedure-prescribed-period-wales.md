@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Town and Country Planning (Determination of Procedure) (Prescribed Period) (Wales) Regulations 2014 (revoked)[^key-b90c4ce42a1d20f3f89b4a283d284e96]
+The Town and Country Planning (Determination of Procedure) (Prescribed Period) (Wales) Regulations 2014 (revoked)[^c-b90c4ce42a1d20f3f89b4a283d284e96]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 12 November 2014
 
-[^key-b90c4ce42a1d20f3f89b4a283d284e96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b90c4ce42a1d20f3f89b4a283d284e96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-b90c4ce42a1d20f3f89b4a283d284e96]
+## 1. Title, commencement and interpretation[^c-b90c4ce42a1d20f3f89b4a283d284e96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed period[^key-b90c4ce42a1d20f3f89b4a283d284e96]
+## 2. Prescribed period[^c-b90c4ce42a1d20f3f89b4a283d284e96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b90c4ce42a1d20f3f89b4a283d284e96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b90c4ce42a1d20f3f89b4a283d284e96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b90c4ce42a1d20f3f89b4a283d284e96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b90c4ce42a1d20f3f89b4a283d284e96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b90c4ce42a1d20f3f89b4a283d284e96]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/2775) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
+[^c-b90c4ce42a1d20f3f89b4a283d284e96]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/2775) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))

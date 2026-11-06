@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Notifiable diseases etc.: further provision[^key-390a0bee522a2b618a75e3a539931ea8]
+## 19. Notifiable diseases etc.: further provision[^c-390a0bee522a2b618a75e3a539931ea8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-390a0bee522a2b618a75e3a539931ea8]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2008/5/section/19) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-390a0bee522a2b618a75e3a539931ea8]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2008/5/section/19) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

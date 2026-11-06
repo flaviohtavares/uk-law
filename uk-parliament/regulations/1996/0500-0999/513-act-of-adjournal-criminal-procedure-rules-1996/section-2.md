@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Criminal Procedure Rules[^key-a1a4fa5f668d28bbb555d4e0cca47573]
+## 2. Criminal Procedure Rules[^c-a1a4fa5f668d28bbb555d4e0cca47573]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 to this Act of Adjournal shall have effect for the purpose of providi
 
 ## Annotations
 
-[^key-a1a4fa5f668d28bbb555d4e0cca47573]: Textual amendment: [Para. 2](https://www.legislation.gov.uk/uksi/1996/513/paragraph/2) substituted (10.3.2008) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Criminal Proceedings etc. (Reform) (Scotland) Act 2007) 2008 (S.S.I. 2008/61)](https://www.legislation.gov.uk/ssi/2008/61), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/61/paragraph/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2008/61/paragraph/2/1)
+[^c-a1a4fa5f668d28bbb555d4e0cca47573]: Textual amendment: [Para. 2](https://www.legislation.gov.uk/uksi/1996/513/paragraph/2) substituted (10.3.2008) by [Act of Adjournal (Criminal Procedure Rules Amendment) (Criminal Proceedings etc. (Reform) (Scotland) Act 2007) 2008 (S.S.I. 2008/61)](https://www.legislation.gov.uk/ssi/2008/61), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/61/paragraph/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2008/61/paragraph/2/1)

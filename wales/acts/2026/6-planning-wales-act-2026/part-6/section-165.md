@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Planning obligations[^key-155bf3afea2a8edb884aadbad2bd34bb]
+## 165. Planning obligations[^c-155bf3afea2a8edb884aadbad2bd34bb]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-155bf3afea2a8edb884aadbad2bd34bb]: Commencement: S. 165 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-155bf3afea2a8edb884aadbad2bd34bb]: Commencement: S. 165 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

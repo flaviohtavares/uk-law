@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Disapplication of constraints on works in the Humber[^key-0f06bc959fcc5159d0df0cbf36efee51]
+## 36. Disapplication of constraints on works in the Humber[^c-0f06bc959fcc5159d0df0cbf36efee51]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ The following provisions do not apply to the authorised project—
 
 ## Annotations
 
-[^key-0f06bc959fcc5159d0df0cbf36efee51]: Commencement: Art. 36 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-0f06bc959fcc5159d0df0cbf36efee51]: Commencement: Art. 36 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
 [^f00025]: Footnote: [1852 c. xxx](https://www.legislation.gov.uk/ukla/1852/30).
 

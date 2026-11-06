@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Proposals to alter mainstream schools[^key-1dd730266a9033eca1faad18c851e2fb]
+## 42. Proposals to alter mainstream schools[^c-1dd730266a9033eca1faad18c851e2fb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd730266a9033eca1faad18c851e2fb]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2013/1/section/42) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-1dd730266a9033eca1faad18c851e2fb]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2013/1/section/42) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetables) (Amendment) (Scotland) Regulations 2023 (revoked)[^key-cf93c46141c832fc12e0131c5e2d2c2e]
+The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetables) (Amendment) (Scotland) Regulations 2023 (revoked)[^c-cf93c46141c832fc12e0131c5e2d2c2e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 15th December 2023
 
-[^key-cf93c46141c832fc12e0131c5e2d2c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf93c46141c832fc12e0131c5e2d2c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cf93c46141c832fc12e0131c5e2d2c2e]
+## 1. Citation and commencement[^c-cf93c46141c832fc12e0131c5e2d2c2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council[^key-cf93c46141c832fc12e0131c5e2d2c2e]
+## 2. Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council[^c-cf93c46141c832fc12e0131c5e2d2c2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf93c46141c832fc12e0131c5e2d2c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf93c46141c832fc12e0131c5e2d2c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf93c46141c832fc12e0131c5e2d2c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf93c46141c832fc12e0131c5e2d2c2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf93c46141c832fc12e0131c5e2d2c2e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2023/311) revoked (30.1.2026) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetables) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/41)](https://www.legislation.gov.uk/ssi/2026/41), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/41/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2026/41/regulation/7)
+[^c-cf93c46141c832fc12e0131c5e2d2c2e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2023/311) revoked (30.1.2026) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetables) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/41)](https://www.legislation.gov.uk/ssi/2026/41), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/41/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2026/41/regulation/7)

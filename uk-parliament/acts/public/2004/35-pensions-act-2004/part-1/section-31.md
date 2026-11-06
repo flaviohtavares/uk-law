@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Notification of trustees, managers, employers and members[^key-aedb8819002e560b2706df3493ad8de0]
+## 31. Notification of trustees, managers, employers and members[^c-aedb8819002e560b2706df3493ad8de0]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ of the fact that the order mentioned in subsection (1) has been made and of its 
 
 ## Annotations
 
-[^key-aedb8819002e560b2706df3493ad8de0]: Commencement: S. 31 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-aedb8819002e560b2706df3493ad8de0]: Commencement: S. 31 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

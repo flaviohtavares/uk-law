@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Appeals against compliance notice etc[^key-26a36bc7dbcf1df165086164c6165e98][^key-f6c4559850b576d560db3ee3df0c1cd0]
+## 103. Appeals against compliance notice etc[^c-26a36bc7dbcf1df165086164c6165e98][^c-f6c4559850b576d560db3ee3df0c1cd0]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26a36bc7dbcf1df165086164c6165e98]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-26a36bc7dbcf1df165086164c6165e98]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-f6c4559850b576d560db3ee3df0c1cd0]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2022/30/section/103) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/u)
+[^c-f6c4559850b576d560db3ee3df0c1cd0]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2022/30/section/103) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/u)

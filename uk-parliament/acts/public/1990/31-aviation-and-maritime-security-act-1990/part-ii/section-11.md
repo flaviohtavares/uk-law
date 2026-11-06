@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Destroying ships or fixed platforms or endangering their safety.[^c10456611][^key-e3c8918e5172a077a428b5078248b9a0]
+## 11. Destroying ships or fixed platforms or endangering their safety.[^c10456611][^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (3) Nothing in subsection (2) above is to be construed as limiting the circumstances in which the commission of any act—
 
 - (a) may constitute an offence under subsection (1) above, or
-- (b)[^key-2a0a147ca0a17af010ed80df0be084b2] may constitute attempting or conspiring to commit, or aiding, abetting, counselling, procuring or inciting, or being art and part in, the commission of such an offence.
+- (b)[^c-2a0a147ca0a17af010ed80df0be084b2] may constitute attempting or conspiring to commit, or aiding, abetting, counselling, procuring or inciting, or being art and part in, the commission of such an offence.
 
 (4) Except as provided by subsection (5) below, subsections (1) and (2) above apply whether any such act as is mentioned in those subsections is committed in the United Kingdom or elsewhere and whatever the nationality of the person committing the act.
 
@@ -60,9 +60,9 @@ summary: ''
 
 [^c10456611]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1990/31/section/11) extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
-[^key-2a0a147ca0a17af010ed80df0be084b2]: Modification: [S. 11(3)(b)](https://www.legislation.gov.uk/ukpga/1990/31/section/11/3/b) modified (E.W.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/18/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-2a0a147ca0a17af010ed80df0be084b2]: Modification: [S. 11(3)(b)](https://www.legislation.gov.uk/ukpga/1990/31/section/11/3/b) modified (E.W.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/18/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c10456621]: Marginal citation: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100).
 

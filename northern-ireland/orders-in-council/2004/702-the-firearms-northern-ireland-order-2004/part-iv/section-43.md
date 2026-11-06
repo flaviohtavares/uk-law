@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Purchase or acquisition of firearms in ... member States[^key-4946d986e80ea59f729e4b9d73e91836]
+## 43. Purchase or acquisition of firearms in ... member States[^c-4946d986e80ea59f729e4b9d73e91836]
 
 *Extent: N.I.*
 
 (1) Subject to paragraphs (2) and (3), where—
 
-- (a) a person who resides in Northern Ireland purchases or acquires a firearm in a member State[^key-cc783445023c7539f4af0599ecf43416]; and
+- (a) a person who resides in Northern Ireland purchases or acquires a firearm in a member State[^c-cc783445023c7539f4af0599ecf43416]; and
 - (b) that firearm is a firearm which falls within category C for the purposes of Annex I to the European weapons directive,
 
 he shall, within 7 days from the transaction, send notice of it to the Chief Constable.
@@ -43,6 +43,6 @@ he shall, within 7 days from the transaction, send notice of it to the Chief Con
 
 ## Annotations
 
-[^key-4946d986e80ea59f729e4b9d73e91836]: Textual amendment: Word in [art. 43](https://www.legislation.gov.uk/nisi/2004/702/article/43) heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/6)
+[^c-4946d986e80ea59f729e4b9d73e91836]: Textual amendment: Word in [art. 43](https://www.legislation.gov.uk/nisi/2004/702/article/43) heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/6)
 
-[^key-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)
+[^c-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)

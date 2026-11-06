@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 19 — Local place plans[^key-9866b854fb41ca2e8c0946e6fed7a40f]
+## SCHEDULE 19 — Local place plans[^c-9866b854fb41ca2e8c0946e6fed7a40f]
 
 *Extent: E+W+S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9866b854fb41ca2e8c0946e6fed7a40f]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/1997/8/schedule/19) inserted (8.11.2019 for specified purposes, 22.1.2022 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 14(7)](https://www.legislation.gov.uk/asp/2019/13/section/14/7), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2); [S.S.I. 2021/480](https://www.legislation.gov.uk/ssi/2021/480), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/1)
+[^c-9866b854fb41ca2e8c0946e6fed7a40f]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/1997/8/schedule/19) inserted (8.11.2019 for specified purposes, 22.1.2022 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 14(7)](https://www.legislation.gov.uk/asp/2019/13/section/14/7), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2); [S.S.I. 2021/480](https://www.legislation.gov.uk/ssi/2021/480), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/1)

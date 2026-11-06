@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Federated schools[^key-13120009f626e35266cf3333ea8efac0]
+## 31. Federated schools[^c-13120009f626e35266cf3333ea8efac0]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ in accordance with Chapter 1 of Part 3.
 
 ## Annotations
 
-[^key-13120009f626e35266cf3333ea8efac0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/42/regulation/31) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-13120009f626e35266cf3333ea8efac0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/42/regulation/31) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00075]: Footnote: Section 24 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and by the [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7).

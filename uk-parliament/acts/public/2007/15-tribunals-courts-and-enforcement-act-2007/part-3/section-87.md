@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Interpretation of Chapter[^key-043f765a594680ad42befca99af0111a]
+## 87. Interpretation of Chapter[^c-043f765a594680ad42befca99af0111a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-043f765a594680ad42befca99af0111a]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2007/15/section/87) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-043f765a594680ad42befca99af0111a]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2007/15/section/87) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Permanent health insurance[^key-38a60ab9a795d45c3f31caeec103f7d1]
+## 72. Permanent health insurance[^c-38a60ab9a795d45c3f31caeec103f7d1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a60ab9a795d45c3f31caeec103f7d1]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2008/280/regulation/72) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-38a60ab9a795d45c3f31caeec103f7d1]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2008/280/regulation/72) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Devolution: Scotland and Northern Ireland[^key-e0d2fe22c831325fc6bb812ca5843a7f]
+## 45. Devolution: Scotland and Northern Ireland[^c-e0d2fe22c831325fc6bb812ca5843a7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0d2fe22c831325fc6bb812ca5843a7f]: Commencement: S. 45 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(o)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/o)
+[^c-e0d2fe22c831325fc6bb812ca5843a7f]: Commencement: S. 45 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(o)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/o)

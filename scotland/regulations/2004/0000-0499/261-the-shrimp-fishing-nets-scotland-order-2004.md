@@ -47,7 +47,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 3(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-327d3f41901c7ce68d1098f65fbd8d1d]
+## 1. Citation, commencement and extent[^c-327d3f41901c7ce68d1098f65fbd8d1d]
 
 (1) This Order may be cited as the Shrimp Fishing Nets (Scotland) Order 2004 and shall come into force on 1st July 2004.
 
@@ -55,18 +55,18 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(1) and
 
 (2) Insofar as it extends beyond Scotland and the Scottish zone, this Order does so only as a matter of Scots law.
 
-## 2. Interpretation[^key-e3ebc7bde5b1d6bf9b38adaa15761038][^key-3cba2c7f6d8a777a14080a2aa589403e]
+## 2. Interpretation[^c-e3ebc7bde5b1d6bf9b38adaa15761038][^c-3cba2c7f6d8a777a14080a2aa589403e]
 
 (1) In this Order, “codend” has the meaning given in Article 6 of [Regulation (EU) 2019/1241](https://www.legislation.gov.uk/european/regulation/2019/1241) of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures.
 
-(2)[^key-d820aad66f68c8d2648c7a50bcf642ee] For the purposes of this Order, the mesh of a net or netting shall be measured in accordance with Commission Regulation (EC) No. 517/2008 laying down detailed rules for the implementation of Council Regulation (EC) No. 850/98 as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
+(2)[^c-d820aad66f68c8d2648c7a50bcf642ee] For the purposes of this Order, the mesh of a net or netting shall be measured in accordance with Commission Regulation (EC) No. 517/2008 laying down detailed rules for the implementation of Council Regulation (EC) No. 850/98 as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
 
-## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid[^key-6329da567b93402120bc41d8def29fc8]
+## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid[^c-6329da567b93402120bc41d8def29fc8]
 
 (1) This article applies to–
 
 - (a) any Scottish fishing boat wherever it may be; and
-- (b) any other[^key-eb35fd053d44377b716b6368de8dba6b] fishing boat within the Scottish zone.
+- (b) any other[^c-eb35fd053d44377b716b6368de8dba6b] fishing boat within the Scottish zone.
 
 (2) No fishing boat to which this article applies shall carry or deploy a net the mesh of which measures between 16 and 31 millimetres unless–
 
@@ -77,9 +77,9 @@ The Scottish Ministers, in exercise of the powers conferred by sections 3(1) and
   - (i) sea fish cannot reach the codend without first passing through the grid; and
   - (ii) there is a hole in the net through which all sea fish that do not pass through the grid are able to escape;
 - (c) no sea fish have been caught; or
-- (d)[^key-8584a9a14ce2a3115596276011108206] where sea fish have been caught, the quantity of either common shrimp (*Crangon* spp.) or Aesop shrimp (*Pandalus montagui*) or a combination of the two retained on board does not exceed 5% of the total live weight of catch retained on board [^key-99307263c839f1216a3095907e2f486d]....
+- (d)[^c-8584a9a14ce2a3115596276011108206] where sea fish have been caught, the quantity of either common shrimp (*Crangon* spp.) or Aesop shrimp (*Pandalus montagui*) or a combination of the two retained on board does not exceed 5% of the total live weight of catch retained on board [^c-99307263c839f1216a3095907e2f486d]....
 
-## 4. Powers of British sea-fishery officers[^key-cc7f74318bbf1af181785cae37a176f9]
+## 4. Powers of British sea-fishery officers[^c-cc7f74318bbf1af181785cae37a176f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -109,20 +109,20 @@ A Regulatory Impact Assessment has been prepared for this Order. Copies can be o
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 3 was amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 9(1) and Schedule 2, paragraph 16(1); the Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26), section 10(1) and Schedule 1; and the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) (“the 1999 Order”), article 4 and Schedule 2, paragraph 43(1), (2) and (4). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), section 22(1) and Schedule 1, paragraph 38(3); and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 9(1) and Schedule 2, paragraph 16(1); and the 1999 Order, Schedule 2, paragraph 43(13). See section 22(2) for the definition of “the Ministers” for the purposes of sections 3 and 15(3). Section 22(2) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), sections 19(2)(d) and 45; and by the 1999 Order, article 4 and Schedule 2, paragraph 43(12).
 
-[^key-327d3f41901c7ce68d1098f65fbd8d1d]: Commencement: Art. 1 in force at 1.7.2004, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/261/article/1/1)
+[^c-327d3f41901c7ce68d1098f65fbd8d1d]: Commencement: Art. 1 in force at 1.7.2004, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/261/article/1/1)
 
-[^key-e3ebc7bde5b1d6bf9b38adaa15761038]: Commencement: Art. 2 in force at 1.7.2004, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/261/article/1/1)
+[^c-e3ebc7bde5b1d6bf9b38adaa15761038]: Commencement: Art. 2 in force at 1.7.2004, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/261/article/1/1)
 
-[^key-3cba2c7f6d8a777a14080a2aa589403e]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2004/261/article/2/1) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/4/2)
+[^c-3cba2c7f6d8a777a14080a2aa589403e]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2004/261/article/2/1) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/4/2)
 
-[^key-d820aad66f68c8d2648c7a50bcf642ee]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/ssi/2004/261/article/2/2) substituted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/69)](https://www.legislation.gov.uk/ssi/2019/69), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a), [4(2)](https://www.legislation.gov.uk/ssi/2019/69/regulation/4/2)
+[^c-d820aad66f68c8d2648c7a50bcf642ee]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/ssi/2004/261/article/2/2) substituted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/69)](https://www.legislation.gov.uk/ssi/2019/69), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a), [4(2)](https://www.legislation.gov.uk/ssi/2019/69/regulation/4/2)
 
-[^key-6329da567b93402120bc41d8def29fc8]: Commencement: Art. 3 in force at 1.7.2004, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/261/article/1/1)
+[^c-6329da567b93402120bc41d8def29fc8]: Commencement: Art. 3 in force at 1.7.2004, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/261/article/1/1)
 
-[^key-eb35fd053d44377b716b6368de8dba6b]: Textual amendment: Word in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2004/261/article/3/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/25/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-eb35fd053d44377b716b6368de8dba6b]: Textual amendment: Word in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2004/261/article/3/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/25/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-8584a9a14ce2a3115596276011108206]: Textual amendment: [Art. 3(2)(d)](https://www.legislation.gov.uk/ssi/2004/261/article/3/2/d) substituted (7.2.2008) by [The Shrimp Fishing Nets (Scotland) Amendment Order 2008 (S.S.I. 2008/10)](https://www.legislation.gov.uk/ssi/2008/10), [arts. 1](https://www.legislation.gov.uk/ssi/2008/10/article/1), [2](https://www.legislation.gov.uk/ssi/2008/10/article/2)
+[^c-8584a9a14ce2a3115596276011108206]: Textual amendment: [Art. 3(2)(d)](https://www.legislation.gov.uk/ssi/2004/261/article/3/2/d) substituted (7.2.2008) by [The Shrimp Fishing Nets (Scotland) Amendment Order 2008 (S.S.I. 2008/10)](https://www.legislation.gov.uk/ssi/2008/10), [arts. 1](https://www.legislation.gov.uk/ssi/2008/10/article/1), [2](https://www.legislation.gov.uk/ssi/2008/10/article/2)
 
-[^key-99307263c839f1216a3095907e2f486d]: Textual amendment: Words in [art. 3(2)(d)](https://www.legislation.gov.uk/ssi/2004/261/article/3/2/d) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/4/3)
+[^c-99307263c839f1216a3095907e2f486d]: Textual amendment: Words in [art. 3(2)(d)](https://www.legislation.gov.uk/ssi/2004/261/article/3/2/d) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/4/3)
 
-[^key-cc7f74318bbf1af181785cae37a176f9]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2004/261/article/4) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2020/367/regulation/4/4)
+[^c-cc7f74318bbf1af181785cae37a176f9]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2004/261/article/4) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2020/367/regulation/4/4)

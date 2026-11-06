@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Direction to offer to contract with licence holder[^key-e2cd43299bd786cedad28eb826f0fbf1]
+## 60. Direction to offer to contract with licence holder[^c-e2cd43299bd786cedad28eb826f0fbf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cd43299bd786cedad28eb826f0fbf1]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/52/section/60) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e2cd43299bd786cedad28eb826f0fbf1]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/52/section/60) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

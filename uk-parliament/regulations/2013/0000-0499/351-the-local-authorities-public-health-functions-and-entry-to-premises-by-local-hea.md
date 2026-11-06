@@ -48,7 +48,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-75d92f48fd32eda2fbda1621bd10c03b]
+### 1. Citation, commencement and interpretation[^c-75d92f48fd32eda2fbda1621bd10c03b]
 
 (1) These Regulations may be cited as the Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) Regulations 2013.
 
@@ -63,11 +63,11 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 ## PART 2 — PUBLIC HEALTH FUNCTIONS
 
-### 2. Public health functions of the Secretary of State[^key-4b068cc6dea95957fe3a7c6bb53fd504]
+### 2. Public health functions of the Secretary of State[^c-4b068cc6dea95957fe3a7c6bb53fd504]
 
 Where a local authority is required to exercise a public health function of the Secretary of State pursuant to regulation 6(1)(a) or regulation 7(3)(a), the authority may exercise the functions of the Secretary of State under section 2 (general power) and section 12 (arrangements with other bodies) of the Act[^f00007] in connection with those functions.
 
-### 3. Weighing and measuring of children[^key-8c94de2fd0d77538f5a2f3e6ba07257f]
+### 3. Weighing and measuring of children[^c-8c94de2fd0d77538f5a2f3e6ba07257f]
 
 (1) In the exercise of its functions under paragraph 7A(1) and (2) of Schedule 1 to the Act[^f00008] (weighing and measuring of children), each local authority must so far as reasonably practicable and in accordance with paragraph (4), provide for the weighing and measuring of the children to whom this regulation applies.
 
@@ -95,7 +95,7 @@ Where a local authority is required to exercise a public health function of the 
 
 (6) The duty in paragraph (1) does not apply in relation to any relevant child who has been weighed and measured during the school year in which the child is a relevant child, where the weighing and measuring was done between 1st September 2012 and the date that this Part comes into force, pursuant to arrangements made by a Primary Care Trust.
 
-### 4. Health check assessment[^key-051e84e66188f83f8fcf85b5238b1990]
+### 4. Health check assessment[^c-051e84e66188f83f8fcf85b5238b1990]
 
 (1) In the exercise of its functions under section 2B of the Act[^f00015] (functions of local authorities and Secretary of State as to improvement of public health), each local authority shall provide, or shall make arrangements to secure the provision of, health checks to be offered to eligible persons in its area.
 
@@ -130,7 +130,7 @@ Where a local authority is required to exercise a public health function of the 
 
 (6) In discharging the requirement under paragraph (1), the local authority shall act with a view to securing continuous improvement in the percentage of eligible persons in its area participating in the health checks.
 
-### 5. Conduct of health checks[^key-550c3a8c165e6e8448eaa4e1912f1ad7]
+### 5. Conduct of health checks[^c-550c3a8c165e6e8448eaa4e1912f1ad7]
 
 (1) Each local authority shall make arrangements to secure that the health checks offered to eligible persons in its area pursuant to regulation 4 are conducted, and that information related to each check is recorded and processed, in accordance with this regulation.
 
@@ -178,7 +178,7 @@ Where a local authority is required to exercise a public health function of the 
 
 (9) In any case where the health check has not been conducted by a health professional who is providing the person undergoing the health check with primary medical services[^f00019], a record of the health check containing the information which is required to be recorded under paragraph (3) shall be forwarded to such a health professional.
 
-### 5A. Universal health visitor reviews[^key-27c8f8b8e79b9758c997a8c19c08e2be]
+### 5A. Universal health visitor reviews[^c-27c8f8b8e79b9758c997a8c19c08e2be]
 
 (1) In the exercise of its functions under section 2B of the Act (functions of local authorities and Secretary of State as to improvement of public health), each local authority must, so far as reasonably practicable, provide or make arrangements to secure the provision of a universal health visitor review to be offered to or in respect of an eligible person in accordance with paragraphs (2) and (3).
 
@@ -248,11 +248,11 @@ Where a local authority is required to exercise a public health function of the 
   - (a) trained in child health and development; and
   - (b) not a family nurse.
 
-### 5C. Review[^key-3164aabf254cfbd0e6422bd3d0718ae9]
+### 5C. Review[^c-3164aabf254cfbd0e6422bd3d0718ae9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Sexual health services[^key-03a2186acc8dbc5feac9a1a494bee005]
+### 6. Sexual health services[^c-03a2186acc8dbc5feac9a1a494bee005]
 
 (1) Subject to paragraphs (4) and (5), each local authority shall provide, or shall make arrangements to secure the provision of, open access sexual health services in its area—
 
@@ -273,9 +273,9 @@ Where a local authority is required to exercise a public health function of the 
 
 (5) The duty of the local authority under paragraph (1)(b) does not include a requirement to offer services for treating or caring for people infected with Human Immunodeficiency Virus.
 
-### 7. Public health advice service[^key-f783acd0bfdacd2568cb446b3f47944a]
+### 7. Public health advice service[^c-f783acd0bfdacd2568cb446b3f47944a]
 
-(1) Each local authority shall provide, or shall make arrangements to secure the provision of, a public health advice service to any integrated care board[^key-004354e28249462066f4c4b80a2090cf] whose area falls wholly or partly within the authority’s area.
+(1) Each local authority shall provide, or shall make arrangements to secure the provision of, a public health advice service to any integrated care board[^c-004354e28249462066f4c4b80a2090cf] whose area falls wholly or partly within the authority’s area.
 
 (2) A public health advice service is a service which consists of the provision of such information and advice to an integrated care board as the local authority considers necessary or appropriate, with a view to protecting and improving the health of the people in the authority’s area.
 
@@ -299,9 +299,9 @@ Where a local authority is required to exercise a public health function of the 
 - (a) the creation of a summary of the overall health of the people in the local authority’s area which is designed to guide integrated care boards in the commissioning of appropriate health services for persons for whom an integrated care board has responsibility under section 3 of the 2006 Act[^f00022];
 - (b) the provision of assessments of the health needs of groups of individuals within the local authority’s area with particular conditions or diseases;
 - (c) advice on the development of plans for the anticipated care needs of persons for whom an integrated care board is responsible under section 3 of the 2006 Act, to improve the outcomes achieved for those persons by the provision of health services;
-- (d) advice on how to meet the duty on each integrated care board under section 14Z35 (duty to reduce inequalities)[^key-0314796ff1e20ce979039e70fbd8c1b2].
+- (d) advice on how to meet the duty on each integrated care board under section 14Z35 (duty to reduce inequalities)[^c-0314796ff1e20ce979039e70fbd8c1b2].
 
-### 8. Protecting the health of the local population[^key-38b282e46dcc8db4b2021a14c3a1491e]
+### 8. Protecting the health of the local population[^c-38b282e46dcc8db4b2021a14c3a1491e]
 
 (1) Each local authority shall provide information and advice to every responsible person and relevant body within, or which exercises functions in relation to, the authority’s area, with a view to promoting the preparation of appropriate local health protection arrangements (“health protection arrangements”), or the participation in such arrangements, by that person or body.
 
@@ -314,7 +314,7 @@ Where a local authority is required to exercise a public health function of the 
   - (b) a Chief Constable of a police force[^f00026],
   - (c) a fire and rescue authority[^f00027],
   - (d) in relation to a county council which is discharging the requirement under paragraph (1), a council for a district in that county, and
-  - (e) Public Health England, an executive agency of the Department of Health and Social Care[^key-14e8eb38090a8d910763749a48c61c4a];
+  - (e) Public Health England, an executive agency of the Department of Health and Social Care[^c-14e8eb38090a8d910763749a48c61c4a];
 - “relevant body” means a body whose activities, in the opinion of the local authority, have a significant effect upon, or whose activities may be significantly affected by a threat to, the health of individuals in the local authority’s area and may include—
   - (a) the governing body of a school which is a maintained school within the meaning of the School Standards and Framework Act 1998[^f00028],
   - (b) a body which is the proprietor of a school which is not maintained by the local authority,
@@ -349,13 +349,13 @@ Where a local authority is required to exercise a public health function of the 
 - (f) arrangements with other local authorities for managing incidents which affect the area of more than one authority in an integrated and co-ordinated manner;
 - (g) arrangements for stockpiling of medicines and medical supplies.
 
-### 8A. Expiry of Regulations 5A to 5C[^key-d03678ed896da934070f7a367148f8d2]
+### 8A. Expiry of Regulations 5A to 5C[^c-d03678ed896da934070f7a367148f8d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — CHARGES IN RESPECT OF LOCAL AUTHORITY FUNCTIONS
 
-### 9. Charges in respect of public health functions[^key-97b2435f53ebdaa529ca288c38c5c4f9]
+### 9. Charges in respect of public health functions[^c-97b2435f53ebdaa529ca288c38c5c4f9]
 
 (1) Where a local authority exercises its functions under section 2B of the Act, it may make and recover charges in respect of any of the steps which are prescribed under this regulation.
 
@@ -374,14 +374,14 @@ Where a local authority is required to exercise a public health function of the 
 
 ## PART 4 — DUTY OF SERVICES-PROVIDERS TO ALLOW ENTRY BY LOCAL HEALTHWATCH REPRESENTATIVES
 
-### 10. Interpretation[^key-7043400a949a40464588067c82b4e449]
+### 10. Interpretation[^c-7043400a949a40464588067c82b4e449]
 
 In this Part—
 
 - “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007; and
 - “care services” has the meaning given in section 221(6) of the 2007 Act[^f00031] (local arrangements in relation to health services and social services).
 
-### 11. Duty of services-providers to allow entry by Local Healthwatch organisations or contractors[^key-89f01dc9929d970ae53ee42a109b4bed]
+### 11. Duty of services-providers to allow entry by Local Healthwatch organisations or contractors[^c-89f01dc9929d970ae53ee42a109b4bed]
 
 (1) In relation to premises that a services-provider[^f00032] owns or controls, that services-provider must allow an authorised representative[^f00033] to—
 
@@ -416,18 +416,18 @@ In this Part—
   - (c) premises which are occupied by one or more persons as their home and which at least one of those persons occupies under a tenancy or a licence;
 - “social services functions”, in relation to a local authority, has the same meaning as in the Local Authority Social Services Act 1970[^f00040].
 
-### 12. Authorised representative[^key-26035a47fb57c4ef897594d65dbad51f]
+### 12. Authorised representative[^c-26035a47fb57c4ef897594d65dbad51f]
 
 An individual may be authorised for the purposes of section 225 of the 2007 Act (duties of services-providers to allow entry by Local Healthwatch organisations or contractors) only if that individual is authorised in accordance with arrangements made by a local authority under section 221(1) of the 2007 Act (health and social services: Local Healthwatch) or in accordance with Local Healthwatch arrangements[^f00041].
 
-### 13. Viewing and observing activities[^key-f429f77d1397fd5ddc11e0ed04367200]
+### 13. Viewing and observing activities[^c-f429f77d1397fd5ddc11e0ed04367200]
 
 For the purposes of section 225(4)(b) of the 2007 Act (conditions and restrictions imposed on authorised representatives of Local Healthwatch), whilst an authorised representative is on any premises as a result of a services-provider having complied with a duty imposed under regulation 11(1), the authorised representative must not act in any way that compromises—
 
 - (a) the effective provision of care services; or
 - (b) the privacy or dignity of any person.
 
-### 14. Services-provider[^key-68ad357a6dce751a987fe8d80f8be33c]
+### 14. Services-provider[^c-68ad357a6dce751a987fe8d80f8be33c]
 
 For the purposes of section 225(7)(e) of the 2007 Act, the following persons are prescribed as services-providers—
 
@@ -437,7 +437,7 @@ For the purposes of section 225(7)(e) of the 2007 Act, the following persons are
 - (d) a person providing services which are pharmaceutical services or local pharmaceutical services[^f00045] for the purposes of the Act; and
 - (e) a person who owns or controls premises where services referred to in paragraphs (a) to (d) are provided.
 
-### 15. Revocation[^key-d8ecbb1afbdea0136fafbe9c49f5d6fc]
+### 15. Revocation[^c-d8ecbb1afbdea0136fafbe9c49f5d6fc]
 
 The Local Involvement Networks (Duty of Services-Providers to Allow Entry) Regulations 2008[^f00046] are revoked.
 
@@ -501,7 +501,7 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00003]: Footnote: Section 272(6) of the 2006 Act is amended (so far as is relevant for these Regulations) by sections 18(2) and 50(2) of the 2012 Act.
 
-[^key-75d92f48fd32eda2fbda1621bd10c03b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/351/regulation/1) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/d)
+[^c-75d92f48fd32eda2fbda1621bd10c03b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/351/regulation/1) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/d)
 
 [^f00004]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7); section 18 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
 
@@ -509,11 +509,11 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00006]: Footnote: Section 186 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
 
-[^key-4b068cc6dea95957fe3a7c6bb53fd504]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/351/regulation/2) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-4b068cc6dea95957fe3a7c6bb53fd504]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/351/regulation/2) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
 [^f00007]: Footnote: Section 2 was substituted by paragraph 1(1) of Part 1 of Schedule 4 to the 2012 Act; and section 12 was amended by paragraph 8 of Part 1 of Schedule 4 to the 2012 Act.
 
-[^key-8c94de2fd0d77538f5a2f3e6ba07257f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/351/regulation/3) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-8c94de2fd0d77538f5a2f3e6ba07257f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/351/regulation/3) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
 [^f00008]: Footnote: Paragraph 7A of Schedule 1 to the 2006 Act was inserted by section 143(1) of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) and is amended by section 17(2) and (7) of the 2012 Act.
 
@@ -529,13 +529,13 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00014]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 3 was amended (so far as is relevant for these Regulations) by paragraph 9 of Schedule 7 to the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44) and by paragraph 34 of Schedule 21 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-051e84e66188f83f8fcf85b5238b1990]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/351/regulation/4) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-051e84e66188f83f8fcf85b5238b1990]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/351/regulation/4) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
 [^f00015]: Footnote: Section 2B of the 2006 Act is inserted by section 12 of the 2012 Act.
 
 [^f00016]: Footnote: Published by the National Institute for Health and Clinical Excellence, a Special Health Authority established under section 28 of the 2006 Act, at London, England. Copies are available from http://www.nice.org.uk.
 
-[^key-550c3a8c165e6e8448eaa4e1912f1ad7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/351/regulation/5) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-550c3a8c165e6e8448eaa4e1912f1ad7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/351/regulation/5) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
 [^f00017]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17); section 25(3) was amended by paragraph 17 of Schedule 10 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), by paragraph 56(b) of Schedule 17 to the 2012 Act, and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
@@ -543,15 +543,15 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00019]: Footnote: *See* section 83 of the 2006 Act for the meaning of primary medical services.
 
-[^key-27c8f8b8e79b9758c997a8c19c08e2be]: Textual amendment: [Regs. 5A-5C](https://www.legislation.gov.uk/uksi/2013/351/regulation/5A) inserted (1.10.2015) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) and Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment) Regulations 2015 (S.I. 2015/921)](https://www.legislation.gov.uk/uksi/2015/921), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/921/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2015/921/regulation/2)
+[^c-27c8f8b8e79b9758c997a8c19c08e2be]: Textual amendment: [Regs. 5A-5C](https://www.legislation.gov.uk/uksi/2013/351/regulation/5A) inserted (1.10.2015) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) and Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment) Regulations 2015 (S.I. 2015/921)](https://www.legislation.gov.uk/uksi/2015/921), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/921/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2015/921/regulation/2)
 
-[^key-3164aabf254cfbd0e6422bd3d0718ae9]: Textual amendment: [Reg. 5C](https://www.legislation.gov.uk/uksi/2013/351/regulation/5C) revoked (1.4.2017) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) (Amendment) Regulations 2017 (S.I. 2017/505)](https://www.legislation.gov.uk/uksi/2017/505), [regs. 1](https://www.legislation.gov.uk/uksi/2017/505/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/505/regulation/2/2)
+[^c-3164aabf254cfbd0e6422bd3d0718ae9]: Textual amendment: [Reg. 5C](https://www.legislation.gov.uk/uksi/2013/351/regulation/5C) revoked (1.4.2017) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) (Amendment) Regulations 2017 (S.I. 2017/505)](https://www.legislation.gov.uk/uksi/2017/505), [regs. 1](https://www.legislation.gov.uk/uksi/2017/505/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/505/regulation/2/2)
 
-[^key-03a2186acc8dbc5feac9a1a494bee005]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/351/regulation/6) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-03a2186acc8dbc5feac9a1a494bee005]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/351/regulation/6) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
-[^key-f783acd0bfdacd2568cb446b3f47944a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/351/regulation/7) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-f783acd0bfdacd2568cb446b3f47944a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/351/regulation/7) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
-[^key-004354e28249462066f4c4b80a2090cf]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/351) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-004354e28249462066f4c4b80a2090cf]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/351) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00020]: Footnote: Section 3 of the 2006 Act is amended by section 13 of the 2012 Act.
 
@@ -559,9 +559,9 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00022]: Footnote: Section 3 is amended by section 13 of the 2012 Act.
 
-[^key-0314796ff1e20ce979039e70fbd8c1b2]: Textual amendment: Words in [reg. 7(6)(d)](https://www.legislation.gov.uk/uksi/2013/351/regulation/7/6/d) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [63(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/63/2)
+[^c-0314796ff1e20ce979039e70fbd8c1b2]: Textual amendment: Words in [reg. 7(6)(d)](https://www.legislation.gov.uk/uksi/2013/351/regulation/7/6/d) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [63(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/63/2)
 
-[^key-38b282e46dcc8db4b2021a14c3a1491e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/351/regulation/8) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
+[^c-38b282e46dcc8db4b2021a14c3a1491e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/351/regulation/8) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/a)
 
 [^f00024]: Footnote: Section 2A of the 2006 Act is inserted by section 11 of the 2012 Act.
 
@@ -571,7 +571,7 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00027]: Footnote: *See* section 1 of the Fire and Rescue Authorities Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-14e8eb38090a8d910763749a48c61c4a]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2013/351/regulation/8/3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(z)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/z) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-14e8eb38090a8d910763749a48c61c4a]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2013/351/regulation/8/3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(z)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/z) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^f00028]: Footnote: *See* section 20(7) of the School Standards and Framework Act 1998 for the meaning of “maintained school”.
 
@@ -579,15 +579,15 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00030]: Footnote: *See* Part 4 of the Charities Act [2011 (c.25)](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-d03678ed896da934070f7a367148f8d2]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2013/351/regulation/8A) revoked (1.4.2017) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) (Amendment) Regulations 2017 (S.I. 2017/505)](https://www.legislation.gov.uk/uksi/2017/505), [regs. 1](https://www.legislation.gov.uk/uksi/2017/505/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/505/regulation/2/2)
+[^c-d03678ed896da934070f7a367148f8d2]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2013/351/regulation/8A) revoked (1.4.2017) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) (Amendment) Regulations 2017 (S.I. 2017/505)](https://www.legislation.gov.uk/uksi/2017/505), [regs. 1](https://www.legislation.gov.uk/uksi/2017/505/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/505/regulation/2/2)
 
-[^key-97b2435f53ebdaa529ca288c38c5c4f9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/351/regulation/9) in force at 1.4.2013, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/b)
+[^c-97b2435f53ebdaa529ca288c38c5c4f9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/351/regulation/9) in force at 1.4.2013, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/b)
 
-[^key-7043400a949a40464588067c82b4e449]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/351/regulation/10) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
+[^c-7043400a949a40464588067c82b4e449]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/351/regulation/10) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
 
 [^f00031]: Footnote: There are no relevant amendments to section 221(6).
 
-[^key-89f01dc9929d970ae53ee42a109b4bed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/351/regulation/11) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
+[^c-89f01dc9929d970ae53ee42a109b4bed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/351/regulation/11) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
 
 [^f00032]: Footnote: *See* section 225(7) of the Local Government and Public Involvement in Health Act 2007 (“the 2007 Act”) for the definition of “services-provider”.
 
@@ -607,13 +607,13 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00040]: Footnote: [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42). *See* section 1A (meaning of “social services functions”), which was inserted by section 102(3) of the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-26035a47fb57c4ef897594d65dbad51f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/351/regulation/12) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
+[^c-26035a47fb57c4ef897594d65dbad51f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/351/regulation/12) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
 
 [^f00041]: Footnote: *See* sections 222 and 225(5A) of the 2007 Act. Section 222 is amended by section 183 of the 2012 Act; section 225(5A) is inserted by section 186(6) and (9) of the 2012 Act. *See* section 229(1) of the 2007 Act for the definition of “local authority”.
 
-[^key-f429f77d1397fd5ddc11e0ed04367200]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/351/regulation/13) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
+[^c-f429f77d1397fd5ddc11e0ed04367200]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/351/regulation/13) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
 
-[^key-68ad357a6dce751a987fe8d80f8be33c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/351/regulation/14) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
+[^c-68ad357a6dce751a987fe8d80f8be33c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/351/regulation/14) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
 
 [^f00042]: Footnote: *See* section 83 of the 2006 Act (primary medical services).
 
@@ -623,6 +623,6 @@ A full Impact Assessment has not been produced for Part 4 of this instrument as 
 
 [^f00045]: Footnote: *See* section 126(8) of the 2006 Act (meaning of “pharmaceutical services”) and the definition of “local pharmaceutical services” in section 275(1) of that Act.
 
-[^key-d8ecbb1afbdea0136fafbe9c49f5d6fc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/351/regulation/15) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
+[^c-d8ecbb1afbdea0136fafbe9c49f5d6fc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/351/regulation/15) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/351/regulation/1/2/c)
 
 [^f00046]: Footnote: [S.I. 2008/915](https://www.legislation.gov.uk/uksi/2008/915).

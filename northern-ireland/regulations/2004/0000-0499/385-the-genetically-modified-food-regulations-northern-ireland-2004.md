@@ -38,18 +38,18 @@ Coming into operation
 
 8th October 2004
 
-The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(a), (e) and (f), 16(2), 17(1), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:[^key-c0b9cd03f1a664aad4479f86cda494d3]
+The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(a), (e) and (f), 16(2), 17(1), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:[^c-c0b9cd03f1a664aad4479f86cda494d3]
 
-## 1. Citation and commencement[^key-c367f653abb85cc2a501ae620ab78c11]
+## 1. Citation and commencement[^c-c367f653abb85cc2a501ae620ab78c11]
 
 These Regulations may be cited as the Genetically Modified Food Regulations (Northern Ireland) 2004 and shall come into operation on 8th October 2004.
 
-## 2. Interpretation[^key-375db53ee894215dbdfa1d94ee0cadf1]
+## 2. Interpretation[^c-375db53ee894215dbdfa1d94ee0cadf1]
 
 (1) In these Regulations –
 
 - “the Order” means the Food Safety (Northern Ireland) Order 1991;
-- “Regulation 1829/2003” means Regulation 1829/2003 of the European Parliament and of the Council on genetically modified food and feed; as last amended by Regulation[^key-2806cb55c269f1b18e74a4381c63729d] [(EC) 298/2008](https://www.legislation.gov.uk/european/regulation/2008/0298) of the European Parliament and of the Council.
+- “Regulation 1829/2003” means Regulation 1829/2003 of the European Parliament and of the Council on genetically modified food and feed; as last amended by Regulation[^c-2806cb55c269f1b18e74a4381c63729d] [(EC) 298/2008](https://www.legislation.gov.uk/european/regulation/2008/0298) of the European Parliament and of the Council.
 - “specified Community provision” means a provision of Regulation 1829/2003 specified in Column 1 and described in Column 2 of the Schedule to these Regulations.
 
 (2) In these Regulations –
@@ -60,15 +60,15 @@ These Regulations may be cited as the Genetically Modified Food Regulations (Nor
 
 (3) Other expressions used in these Regulations and in Regulation 1829/2003 have the same meanings in these Regulations as in Regulation 1829/2003.
 
-## 3. Submission of applications for authorisation to market products[^key-506810cc882585b49e7407d6c876860c]
+## 3. Submission of applications for authorisation to market products[^c-506810cc882585b49e7407d6c876860c]
 
 The national competent authority for the purposes of Chapter II of Regulation 1829/2003 shall be the Food Standards Agency[^f00005].
 
-## 4. Enforcement[^key-35f00c2cc7f2cdc9f54f8b6c80c8efb2]
+## 4. Enforcement[^c-35f00c2cc7f2cdc9f54f8b6c80c8efb2]
 
 Each district council shall enforce and execute the provisions of these Regulations and Chapter II of Regulation 1829/2003 within its district.
 
-## 5. Offences and penalties[^key-fdba4ba81e7bdfa7615f301210dadb20]
+## 5. Offences and penalties[^c-fdba4ba81e7bdfa7615f301210dadb20]
 
 (1) Any person who, after the date on which these Regulations come into operation, contravenes the specified Community provision contained in Part I of the Schedule shall be guilty of an offence and liable –
 
@@ -77,7 +77,7 @@ Each district council shall enforce and execute the provisions of these Regulati
 
 (2) Any person who, after the date on which these Regulations come into operation, contravenes any of the specified Community provisions contained in Part II of the Schedule shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
 
-## 6. Application of various provisions of the Order[^key-4c44e484d20c8bd79645ab2314e570ae]
+## 6. Application of various provisions of the Order[^c-4c44e484d20c8bd79645ab2314e570ae]
 
 (1) The following provisions of the Order shall apply for the purposes of these Regulations and Regulation 1829/2003 as they apply for the purposes of the Order –
 
@@ -93,7 +93,7 @@ Each district council shall enforce and execute the provisions of these Regulati
 
 (2) Article 35 (time limit for prosecutions) shall apply to offences under regulation 5 as it applies to offences punishable under Article 36(2) of the Order.
 
-## 7. Inspection, detention and seizure of suspected food[^key-6df0663ade08df2d45e56a93d648dcce]
+## 7. Inspection, detention and seizure of suspected food[^c-6df0663ade08df2d45e56a93d648dcce]
 
 (1) Article 7(2) of the Order shall apply for the purposes of these Regulations as if it read as follows –
 
@@ -147,11 +147,11 @@ Each district council shall enforce and execute the provisions of these Regulati
 
 .
 
-## 8. Revocation[^key-14ce0b474bae752319b733cf928994b1]
+## 8. Revocation[^c-14ce0b474bae752319b733cf928994b1]
 
 The Genetically Modified and Novel Foods (Labelling) Regulations (Northern Ireland) 2000[^f00007] are hereby revoked.
 
-## 9. Consequential amendments[^key-653d59b94865ec765f4ae275b4363ee0][^key-c929a58cf13f3a83a019d5d9e9da7d78]
+## 9. Consequential amendments[^c-653d59b94865ec765f4ae275b4363ee0][^c-c929a58cf13f3a83a019d5d9e9da7d78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -167,13 +167,13 @@ Department of Health, Social Services and Public Safety
 
 Regulations 2 and 5
 
-### PART I[^key-21a563e8497e9df4c711e93f43ba92fa]
+### PART I[^c-21a563e8497e9df4c711e93f43ba92fa]
 
 | Provision of Regulation 1829/2003 | Subject Matter |
 | --- | --- |
 | Article 4.2 | Prohibition on placing on the market a food referred to in Article 3.1 unless it is covered by an authorisation and satisfies relevant conditions of the authorisation. |
 
-### PART II[^key-da605c1f4a17a03c34cbd3640ae016e1]
+### PART II[^c-da605c1f4a17a03c34cbd3640ae016e1]
 
 | Provision of Regulation 1829/2003 | Subject Matter |
 | --- | --- |
@@ -203,36 +203,36 @@ In particular these Regulations –
 
 [^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
 
-[^key-c0b9cd03f1a664aad4479f86cda494d3]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2004/385) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-c0b9cd03f1a664aad4479f86cda494d3]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2004/385) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-c367f653abb85cc2a501ae620ab78c11]: Commencement: Reg. 1 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-c367f653abb85cc2a501ae620ab78c11]: Commencement: Reg. 1 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-375db53ee894215dbdfa1d94ee0cadf1]: Commencement: Reg. 2 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-375db53ee894215dbdfa1d94ee0cadf1]: Commencement: Reg. 2 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-2806cb55c269f1b18e74a4381c63729d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/385/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/12/2)
+[^c-2806cb55c269f1b18e74a4381c63729d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/385/regulation/2/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/12/2)
 
-[^key-506810cc882585b49e7407d6c876860c]: Commencement: Reg. 3 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-506810cc882585b49e7407d6c876860c]: Commencement: Reg. 3 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
 [^f00005]: Footnote: The address of the Food Standards Agency in Northern Ireland is 10B Clarendon Road, Belfast BT1 3BG
 
-[^key-35f00c2cc7f2cdc9f54f8b6c80c8efb2]: Commencement: Reg. 4 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-35f00c2cc7f2cdc9f54f8b6c80c8efb2]: Commencement: Reg. 4 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-fdba4ba81e7bdfa7615f301210dadb20]: Commencement: Reg. 5 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-fdba4ba81e7bdfa7615f301210dadb20]: Commencement: Reg. 5 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-4c44e484d20c8bd79645ab2314e570ae]: Commencement: Reg. 6 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-4c44e484d20c8bd79645ab2314e570ae]: Commencement: Reg. 6 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-6df0663ade08df2d45e56a93d648dcce]: Commencement: Reg. 7 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-6df0663ade08df2d45e56a93d648dcce]: Commencement: Reg. 7 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
 [^f00006]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-14ce0b474bae752319b733cf928994b1]: Commencement: Reg. 8 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-14ce0b474bae752319b733cf928994b1]: Commencement: Reg. 8 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2000 No. 189](https://www.legislation.gov.uk/nisr/2000/189), as amended by [S.R. 2003 No. 448](https://www.legislation.gov.uk/nisr/2003/448)
 
-[^key-653d59b94865ec765f4ae275b4363ee0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/385/regulation/9) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/12/3)
+[^c-653d59b94865ec765f4ae275b4363ee0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/385/regulation/9) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/12/3)
 
-[^key-c929a58cf13f3a83a019d5d9e9da7d78]: Commencement: Reg. 9 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-c929a58cf13f3a83a019d5d9e9da7d78]: Commencement: Reg. 9 in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-21a563e8497e9df4c711e93f43ba92fa]: Commencement: Sch. Pt. I in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-21a563e8497e9df4c711e93f43ba92fa]: Commencement: Sch. Pt. I in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
 
-[^key-da605c1f4a17a03c34cbd3640ae016e1]: Commencement: Sch. Pt. II in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)
+[^c-da605c1f4a17a03c34cbd3640ae016e1]: Commencement: Sch. Pt. II in operation at 8.10.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/385/regulation/1)

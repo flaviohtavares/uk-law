@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Limited disclosure[^key-9bd294164c11e3c646b1ccdf56d32a9c]
+## 21. Limited disclosure[^c-9bd294164c11e3c646b1ccdf56d32a9c]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ as it thinks just.
 
 ## Annotations
 
-[^key-9bd294164c11e3c646b1ccdf56d32a9c]: Commencement: [Rule 21](https://www.legislation.gov.uk/nisr/2026/11/rule/21) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9bd294164c11e3c646b1ccdf56d32a9c]: Commencement: [Rule 21](https://www.legislation.gov.uk/nisr/2026/11/rule/21) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Biocidal Products (Fees and Charges) Regulations 2013 (revoked)[^key-e369c91c5dd84beacb6740d246652a6c]
+The Biocidal Products (Fees and Charges) Regulations 2013 (revoked)[^c-e369c91c5dd84beacb6740d246652a6c]
 
 Made
 
@@ -46,47 +46,47 @@ Coming into force
 
 1st September 2013
 
-[^key-e369c91c5dd84beacb6740d246652a6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e369c91c5dd84beacb6740d246652a6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-e369c91c5dd84beacb6740d246652a6c]
+## 1. Citation, commencement and extent[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e369c91c5dd84beacb6740d246652a6c]
+## 2. Interpretation[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of the Member State[^key-e369c91c5dd84beacb6740d246652a6c]
+## 3. Functions of the Member State[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees[^key-e369c91c5dd84beacb6740d246652a6c]
+## 4. Fees[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Annual charge[^key-e369c91c5dd84beacb6740d246652a6c]
+## 5. Annual charge[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Calculation of charge and number of persons liable to pay the charge[^key-e369c91c5dd84beacb6740d246652a6c]
+## 6. Calculation of charge and number of persons liable to pay the charge[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Notification of liability to pay[^key-e369c91c5dd84beacb6740d246652a6c]
+## 7. Notification of liability to pay[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations and savings provisions[^key-e369c91c5dd84beacb6740d246652a6c]
+## 8. Revocations and savings provisions[^c-e369c91c5dd84beacb6740d246652a6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e369c91c5dd84beacb6740d246652a6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e369c91c5dd84beacb6740d246652a6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Activities in respect of which a fee is payable and daily rate[^key-e369c91c5dd84beacb6740d246652a6c]
+## SCHEDULE — Activities in respect of which a fee is payable and daily rate[^c-e369c91c5dd84beacb6740d246652a6c]
 
 Regulation 4
 
@@ -94,8 +94,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-e369c91c5dd84beacb6740d246652a6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e369c91c5dd84beacb6740d246652a6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e369c91c5dd84beacb6740d246652a6c]: Textual amendment: Regulations revoked (6.4.2015) by [The Health and Safety and Nuclear (Fees) Regulations 2015 (S.I. 2015/363)](https://www.legislation.gov.uk/uksi/2015/363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/363/regulation/1/2), [26(1)(b)](https://www.legislation.gov.uk/uksi/2015/363/regulation/26/1/b) (with [reg. 26(2)](https://www.legislation.gov.uk/uksi/2015/363/regulation/26/2))
+[^c-e369c91c5dd84beacb6740d246652a6c]: Textual amendment: Regulations revoked (6.4.2015) by [The Health and Safety and Nuclear (Fees) Regulations 2015 (S.I. 2015/363)](https://www.legislation.gov.uk/uksi/2015/363), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/363/regulation/1/2), [26(1)(b)](https://www.legislation.gov.uk/uksi/2015/363/regulation/26/1/b) (with [reg. 26(2)](https://www.legislation.gov.uk/uksi/2015/363/regulation/26/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Contribution rates[^key-96e2acce246fe2c6df7a969a045924a5]
+## SCHEDULE 3 — Contribution rates[^c-96e2acce246fe2c6df7a969a045924a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ Table 3
 | 15,001 to but not including 21,211 | 0.96 | 2.40 | 1.80 |
 | 21,211 to but not including 48,472 | 1.47 | 2.40 | 1.80 |
 | 48,472 to but not including 150,001 | 2.61 | 2.40 | 1.80 |
-| 150,001 and above | 4.43 | 0.00 | 0.00[^key-f146b3e095aee831270fd2540cacd633] |
+| 150,001 and above | 4.43 | 0.00 | 0.00[^c-f146b3e095aee831270fd2540cacd633] |
 
 Table 4
 
@@ -151,6 +151,6 @@ Service credit day contributions rates: personal contributions 1st April 2013 to
 
 ## Annotations
 
-[^key-96e2acce246fe2c6df7a969a045924a5]: Textual amendment: Schs. 1-3 substituted for Sch. (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2023/403/regulation/66)
+[^c-96e2acce246fe2c6df7a969a045924a5]: Textual amendment: Schs. 1-3 substituted for Sch. (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2023/403/regulation/66)
 
-[^key-f146b3e095aee831270fd2540cacd633]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2017/522/schedule/3) Table 3 substituted (with effect in accordance with Sch. para. 6(2) of the amending S.I.) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/6)
+[^c-f146b3e095aee831270fd2540cacd633]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2017/522/schedule/3) Table 3 substituted (with effect in accordance with Sch. para. 6(2) of the amending S.I.) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/6)

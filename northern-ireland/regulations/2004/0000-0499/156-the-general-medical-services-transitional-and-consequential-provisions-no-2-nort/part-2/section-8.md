@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Removals from the list of patients who have moved[^key-d087b8669848f0e7348857fea4adefab]
+## 8. Removals from the list of patients who have moved[^c-d087b8669848f0e7348857fea4adefab]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d087b8669848f0e7348857fea4adefab]: Commencement: Art. 8 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-d087b8669848f0e7348857fea4adefab]: Commencement: Art. 8 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

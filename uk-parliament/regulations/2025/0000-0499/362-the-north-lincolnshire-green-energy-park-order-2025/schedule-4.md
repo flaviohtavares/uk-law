@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — STREETS TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-f108ec15a0081a47c7da6efd24668eb5]
+## SCHEDULE 4 — STREETS TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-f108ec15a0081a47c7da6efd24668eb5]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 14
 
 ## Annotations
 
-[^key-f108ec15a0081a47c7da6efd24668eb5]: Commencement: Sch. 4 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-f108ec15a0081a47c7da6efd24668eb5]: Commencement: Sch. 4 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

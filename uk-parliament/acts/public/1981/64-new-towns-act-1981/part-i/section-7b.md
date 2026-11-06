@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7B. Arrangements for discharge of, or assistance with, planning functions in England[^key-97a5332e7b42cf981f0ec8afb7d89090]
+## 7B. Arrangements for discharge of, or assistance with, planning functions in England[^c-97a5332e7b42cf981f0ec8afb7d89090]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97a5332e7b42cf981f0ec8afb7d89090]: Textual amendment: Ss. 7A, 7B inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 175(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/175/2), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/b)
+[^c-97a5332e7b42cf981f0ec8afb7d89090]: Textual amendment: Ss. 7A, 7B inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 175(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/175/2), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/b)

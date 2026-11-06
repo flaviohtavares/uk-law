@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 310. Conditional grant of planning permission[^key-1e372f0e443f2146207664eb1f5c788b]
+## 310. Conditional grant of planning permission[^c-1e372f0e443f2146207664eb1f5c788b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Operational planning permission must not be granted subject to a condition menti
 
 ## Annotations
 
-[^key-1e372f0e443f2146207664eb1f5c788b]: Commencement: S. 310 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1e372f0e443f2146207664eb1f5c788b]: Commencement: S. 310 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

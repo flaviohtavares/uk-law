@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Meaning of “redress scheme”[^key-0bce3a1ef5189f84d8ca45880c5c937f]
+## 2. Meaning of “redress scheme”[^c-0bce3a1ef5189f84d8ca45880c5c937f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act, the “**redress scheme**” means the scheme established by this A
 
 ## Annotations
 
-[^key-0bce3a1ef5189f84d8ca45880c5c937f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/15/section/2) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-0bce3a1ef5189f84d8ca45880c5c937f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/15/section/2) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

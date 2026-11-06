@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Application of proceeds of office-holder claims[^key-c8fe5a8774ad1722a562cb9bf03dd3af]
+## 119. Application of proceeds of office-holder claims[^c-c8fe5a8774ad1722a562cb9bf03dd3af]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ After section 176ZA of the Insolvency Act 1986 insert—
 
 ## Annotations
 
-[^key-c8fe5a8774ad1722a562cb9bf03dd3af]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2015/26/section/119) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/17))
+[^c-c8fe5a8774ad1722a562cb9bf03dd3af]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2015/26/section/119) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/17))

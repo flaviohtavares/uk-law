@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Rules of the Air (Amendment) Regulations 2010 (revoked)[^key-b536e7e1568714843baea037b74b588e]
+The Rules of the Air (Amendment) Regulations 2010 (revoked)[^c-b536e7e1568714843baea037b74b588e]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 14th April 2010
 
-[^key-b536e7e1568714843baea037b74b588e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b536e7e1568714843baea037b74b588e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b536e7e1568714843baea037b74b588e]
+## 1. Citation and commencement[^c-b536e7e1568714843baea037b74b588e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Rule 6 (exemptions from the low flying prohibitions)[^key-b536e7e1568714843baea037b74b588e]
+## 2. Amendment to Rule 6 (exemptions from the low flying prohibitions)[^c-b536e7e1568714843baea037b74b588e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b536e7e1568714843baea037b74b588e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b536e7e1568714843baea037b74b588e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b536e7e1568714843baea037b74b588e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b536e7e1568714843baea037b74b588e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b536e7e1568714843baea037b74b588e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/841) revoked (30.4.2015) by [The Rules of the Air Regulations 2015 (S.I. 2015/840)](https://www.legislation.gov.uk/uksi/2015/840), [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/2)
+[^c-b536e7e1568714843baea037b74b588e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/841) revoked (30.4.2015) by [The Rules of the Air Regulations 2015 (S.I. 2015/840)](https://www.legislation.gov.uk/uksi/2015/840), [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/2)

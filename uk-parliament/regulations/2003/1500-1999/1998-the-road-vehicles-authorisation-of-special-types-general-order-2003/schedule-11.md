@@ -24,20 +24,20 @@ Article 37(b)
 
 ### PART 1 — INTERPRETATION
 
-**1.**[^key-176667cda744a0accae19edbfa4e0a7f] In this Schedule “relevant vehicle” means any motor vehicle or trailer which falls within a recognised category of special vehicles specified in article 36(1)(a) to (e).
+**1.**[^c-176667cda744a0accae19edbfa4e0a7f] In this Schedule “relevant vehicle” means any motor vehicle or trailer which falls within a recognised category of special vehicles specified in article 36(1)(a) to (e).
 
 ### PART 2 — CONDITIONS RELATING TO USE
 
 #### General restrictions
 
-**2.**[^key-e1200c050cad7c33774c1c6eb888152f] A relevant vehicle may only be used on roads for—
+**2.**[^c-e1200c050cad7c33774c1c6eb888152f] A relevant vehicle may only be used on roads for—
 
 - (a) testing;
 - (b) demonstration;
 - (c) delivery on sale;
 - (d) proceeding to, or returning from, a manufacturer or repairer for construction, repair or overhaul.
 
-**3.**[^key-752a796850915c060536ca0c28d84abb] Paragraph 2 does not apply in relation to a relevant vehicle where—
+**3.**[^c-752a796850915c060536ca0c28d84abb] Paragraph 2 does not apply in relation to a relevant vehicle where—
 
 - (a) a person (“A”) has been approved by the Secretary of State for the purposes of this Schedule;
 - (b) the vehicle is registered under the Vehicle and Excise Registration Act 1994[^f00035] and the registration is in A’s name only; and
@@ -50,7 +50,7 @@ Article 37(b)
 - (a) that A has lent the vehicle to B on terms that include a requirement for B to supply A with information or opinions derived from his use of it, and for B to return the vehicle to A on demand; and
 - (b) that the vehicle is being used by B in accordance with those terms.
 
-**4.**[^key-6a2c89b23a9b67c3cde54f2bba9b30fa] A relevant vehicle must not be used in such a way as to cause a danger of injury to any person by reason of—
+**4.**[^c-6a2c89b23a9b67c3cde54f2bba9b30fa] A relevant vehicle must not be used in such a way as to cause a danger of injury to any person by reason of—
 
 - (a) the condition of the vehicle, its accessories or equipment;
 - (b) the purpose for which it is used;
@@ -61,33 +61,33 @@ Article 37(b)
 
 #### Restriction of carriage of loads etc
 
-**5.**[^key-03d11f7588bd1c5fd9ff1db2bf6793fd] (1) A relevant vehicle that is used on roads must not carry any load or transport goods or burden.
+**5.**[^c-03d11f7588bd1c5fd9ff1db2bf6793fd] (1) A relevant vehicle that is used on roads must not carry any load or transport goods or burden.
 
 (2) But that is subject to paragraphs 6 and 7.
 
-**6.**[^key-6a2f725260d33783189d703aec181ea3] A relevant vehicle may carry—
+**6.**[^c-6a2f725260d33783189d703aec181ea3] A relevant vehicle may carry—
 
 - (a) its own necessary gear and equipment; and
 - (b) any apparatus or ballast necessary for the purpose of carrying out a test or trial of the vehicle.
 
-**7.**[^key-7cb25445d33bf4565ee5c75ad10f866e] (1) A relevant vehicle may carry a load if it complies with such of the requirements of the Authorised Weight Regulations as apply to a vehicle of that description.
+**7.**[^c-7cb25445d33bf4565ee5c75ad10f866e] (1) A relevant vehicle may carry a load if it complies with such of the requirements of the Authorised Weight Regulations as apply to a vehicle of that description.
 
 (2) Where the vehicle is one to which the Authorised Weight Regulations do not apply, the reference to requirements of those Regulations is to be taken as a reference to the applicable requirements of regulations 75 to 79 of the Construction and Use Regulations.
 
 ### PART 3 — CONDITIONS RELATING TO USE
 
-**8.**[^key-6160882383f7332a9906303c2a65222d] (1) A relevant vehicle must comply with—
+**8.**[^c-6160882383f7332a9906303c2a65222d] (1) A relevant vehicle must comply with—
 
 - (a) the provisions of the Construction and Use Regulations specified in Table 16, but subject to the modifications of those provisions which are specified in paragraph 9;
 - (b) the Authorised Weight Regulations; and
 - (c) the provisions of the Lighting Regulations specified in Table 17, but subject to the modifications of those provisions which are specified in paragraph 10.
 
-**9.**[^key-8d95a24289954227a625ecbc06a13dca] In their application to a relevant vehicle, the Construction and Use Regulations specified in Table 16 are to be read subject to the following modifications—
+**9.**[^c-8d95a24289954227a625ecbc06a13dca] In their application to a relevant vehicle, the Construction and Use Regulations specified in Table 16 are to be read subject to the following modifications—
 
 - (a) regulation 16 applies to all relevant vehicles (and not only those to which regulation 15 of those Regulations does not apply) except that, in the circumstances envisaged in the provisos to paragraphs (1), (1A), (1C) and (1D) of regulation 15, a relevant vehicle may comply instead with the requirements specified in each of those paragraphs respectively;
 - (b) regulation 82(8)(c)(ii)(B) of the Construction and Use Regulations does not require any advance notice to be given to police in accordance with paragraph 1 of Schedule 12 to those Regulations.
 
-**10.**[^key-36466d1945d35bb51827d9495f29c0ca] (1) In their application to a relevant vehicle, regulations 18 and 22 of the Lighting Regulations are to be read as if—
+**10.**[^c-36466d1945d35bb51827d9495f29c0ca] (1) In their application to a relevant vehicle, regulations 18 and 22 of the Lighting Regulations are to be read as if—
 
 - (a) the requirements relating to the markings of lamps, retro-reflectors and rear markings were omitted;
 - (b) the requirements relating to angles of visibility were omitted; and
@@ -135,7 +135,7 @@ Article 37(b)
 | 107 | Leaving motor vehicle unattended |
 | 108 | Securing of suspended implements |
 | 109 | Television sets |
-| 110[^key-107454b1d76e82cd5c97705cad6e9b64] | Mobile Telephones |
+| 110[^c-107454b1d76e82cd5c97705cad6e9b64] | Mobile Telephones |
 
 **Table 17**
 
@@ -154,26 +154,26 @@ Article 37(b)
 
 ## Annotations
 
-[^key-176667cda744a0accae19edbfa4e0a7f]: Commencement: Sch. 11 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-176667cda744a0accae19edbfa4e0a7f]: Commencement: Sch. 11 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-e1200c050cad7c33774c1c6eb888152f]: Commencement: Sch. 11 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-e1200c050cad7c33774c1c6eb888152f]: Commencement: Sch. 11 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-752a796850915c060536ca0c28d84abb]: Commencement: Sch. 11 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-752a796850915c060536ca0c28d84abb]: Commencement: Sch. 11 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00035]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-6a2c89b23a9b67c3cde54f2bba9b30fa]: Commencement: Sch. 11 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6a2c89b23a9b67c3cde54f2bba9b30fa]: Commencement: Sch. 11 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-03d11f7588bd1c5fd9ff1db2bf6793fd]: Commencement: Sch. 11 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-03d11f7588bd1c5fd9ff1db2bf6793fd]: Commencement: Sch. 11 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-6a2f725260d33783189d703aec181ea3]: Commencement: Sch. 11 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6a2f725260d33783189d703aec181ea3]: Commencement: Sch. 11 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-7cb25445d33bf4565ee5c75ad10f866e]: Commencement: Sch. 11 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-7cb25445d33bf4565ee5c75ad10f866e]: Commencement: Sch. 11 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-6160882383f7332a9906303c2a65222d]: Commencement: Sch. 11 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6160882383f7332a9906303c2a65222d]: Commencement: Sch. 11 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-8d95a24289954227a625ecbc06a13dca]: Commencement: Sch. 11 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-8d95a24289954227a625ecbc06a13dca]: Commencement: Sch. 11 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-36466d1945d35bb51827d9495f29c0ca]: Commencement: Sch. 11 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-36466d1945d35bb51827d9495f29c0ca]: Commencement: Sch. 11 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-107454b1d76e82cd5c97705cad6e9b64]: Textual amendment: Words in Sch. 11 Table 16 inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [5](https://www.legislation.gov.uk/uksi/2023/524/article/5)
+[^c-107454b1d76e82cd5c97705cad6e9b64]: Textual amendment: Words in Sch. 11 Table 16 inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [5](https://www.legislation.gov.uk/uksi/2023/524/article/5)

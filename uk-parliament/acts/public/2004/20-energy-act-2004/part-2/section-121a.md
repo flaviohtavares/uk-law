@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121A. GEMA’s power to act on behalf of Northern Ireland regulator in issuing guarantees of origin of renewables electricity[^key-8a594938fa4b4ebe4d44f15070ddc378]
+## 121A. GEMA’s power to act on behalf of Northern Ireland regulator in issuing guarantees of origin of renewables electricity[^c-8a594938fa4b4ebe4d44f15070ddc378]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a594938fa4b4ebe4d44f15070ddc378]: Textual amendment: S. 121A inserted (1.9.2008) by [Origin of Renewables Electricity (Power of Gas and Electricity Markets Authority to act for Northern Ireland Authority for Utility Regulation) Regulations 2008 (S.I. 2008/1888)](https://www.legislation.gov.uk/uksi/2008/1888), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1888/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1888/regulation/2)
+[^c-8a594938fa4b4ebe4d44f15070ddc378]: Textual amendment: S. 121A inserted (1.9.2008) by [Origin of Renewables Electricity (Power of Gas and Electricity Markets Authority to act for Northern Ireland Authority for Utility Regulation) Regulations 2008 (S.I. 2008/1888)](https://www.legislation.gov.uk/uksi/2008/1888), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1888/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1888/regulation/2)

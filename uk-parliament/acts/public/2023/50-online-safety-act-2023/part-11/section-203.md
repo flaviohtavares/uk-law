@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Application of offences to providers that are not legal persons[^key-5f282d27755b48e410d4f96094dbba61][^key-5c868472d1915380f37dce1521b9cb24][^key-aa30da5e9b525cd8090c9a2624c7fad6]
+## 203. Application of offences to providers that are not legal persons[^c-5f282d27755b48e410d4f96094dbba61][^c-5c868472d1915380f37dce1521b9cb24][^c-aa30da5e9b525cd8090c9a2624c7fad6]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,8 +59,8 @@ the officer (as well as the entity) commits the offence and (subject to section 
 
 ## Annotations
 
-[^key-5f282d27755b48e410d4f96094dbba61]: Commencement: S. 203 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5f282d27755b48e410d4f96094dbba61]: Commencement: S. 203 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-5c868472d1915380f37dce1521b9cb24]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/50/section/203) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
+[^c-5c868472d1915380f37dce1521b9cb24]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/50/section/203) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
 
-[^key-aa30da5e9b525cd8090c9a2624c7fad6]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/50/section/203) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
+[^c-aa30da5e9b525cd8090c9a2624c7fad6]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/50/section/203) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)

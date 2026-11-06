@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Effect of certificate under section 115(2) on order[^key-4c68cc6f705fc02569796a744f517e51]
+## 123. Effect of certificate under section 115(2) on order[^c-4c68cc6f705fc02569796a744f517e51]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c68cc6f705fc02569796a744f517e51]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2003/13/section/123) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-4c68cc6f705fc02569796a744f517e51]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2003/13/section/123) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

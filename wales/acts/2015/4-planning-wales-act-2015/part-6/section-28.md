@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Power of local planning authority to require information with application[^c22542841][^key-80c82c87ce1353e31b67d7ff6f89511f]
+## 28. Power of local planning authority to require information with application[^c22542841][^c-80c82c87ce1353e31b67d7ff6f89511f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 62 of TCPA 1990 (applications for planning permission), in subsection
 
 [^c22542841]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/4/section/28) partly in force; [s. 28](https://www.legislation.gov.uk/anaw/2015/4/section/28) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-80c82c87ce1353e31b67d7ff6f89511f]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/4/section/28) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [art. 8](https://www.legislation.gov.uk/wsi/2016/52/article/8))
+[^c-80c82c87ce1353e31b67d7ff6f89511f]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/4/section/28) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [art. 8](https://www.legislation.gov.uk/wsi/2016/52/article/8))

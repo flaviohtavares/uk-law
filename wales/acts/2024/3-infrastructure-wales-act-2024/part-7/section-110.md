@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Marine enforcement powers[^key-5a8e52469b584d3130c042734d459d51][^key-c1ec043a04b339f60d52f1ae58de5def]
+## 110. Marine enforcement powers[^c-5a8e52469b584d3130c042734d459d51][^c-c1ec043a04b339f60d52f1ae58de5def]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ After section 243 of the Marine and Coastal Access Act [2009 (c. 23)](https://ww
 
 ## Annotations
 
-[^key-5a8e52469b584d3130c042734d459d51]: Commencement: S. 110 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-5a8e52469b584d3130c042734d459d51]: Commencement: S. 110 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-c1ec043a04b339f60d52f1ae58de5def]: Commencement: [S. 110](https://www.legislation.gov.uk/asc/2024/3/section/110) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-c1ec043a04b339f60d52f1ae58de5def]: Commencement: [S. 110](https://www.legislation.gov.uk/asc/2024/3/section/110) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

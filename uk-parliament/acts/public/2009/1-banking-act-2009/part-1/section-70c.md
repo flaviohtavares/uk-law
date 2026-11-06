@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70C. Suspension of termination rights[^key-44d54e567fa9f6109219c67dc4206018][^key-f5a6ea081e468aba44d7ab0062328377][^key-13365eb4956bbeb16c14fa33a9936bc5]
+## 70C. Suspension of termination rights[^c-44d54e567fa9f6109219c67dc4206018][^c-f5a6ea081e468aba44d7ab0062328377][^c-13365eb4956bbeb16c14fa33a9936bc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 - (a) begins when the instrument providing for the suspension is first published, and
 - (b) must end no later than midnight at the end of the first business day following the day on which that instrument is published;
 
-[^key-bd85d6ce522a4bf2f9e9476cb916b38a]....
+[^c-bd85d6ce522a4bf2f9e9476cb916b38a]....
 
 (7) A person may exercise a termination right under a contract before the expiry of the suspension if that person is given notice by the Bank of England that the rights and liabilities of the bank under resolution covered by the contract are not—
 
@@ -68,10 +68,10 @@ a person may, on the expiry of the suspension, exercise the termination right in
 
 ## Annotations
 
-[^key-44d54e567fa9f6109219c67dc4206018]: Modification: Ss. 70A-70C restricted (28.12.2020 until IP completion day when the amending provision ceases to have effect in accordance with reg. 1(4) of the amending S.I.) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [87](https://www.legislation.gov.uk/uksi/2020/1350/regulation/87) (with [reg. 88](https://www.legislation.gov.uk/uksi/2020/1350/regulation/88))
+[^c-44d54e567fa9f6109219c67dc4206018]: Modification: Ss. 70A-70C restricted (28.12.2020 until IP completion day when the amending provision ceases to have effect in accordance with reg. 1(4) of the amending S.I.) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [87](https://www.legislation.gov.uk/uksi/2020/1350/regulation/87) (with [reg. 88](https://www.legislation.gov.uk/uksi/2020/1350/regulation/88))
 
-[^key-f5a6ea081e468aba44d7ab0062328377]: Modification: Ss. 70A-70C modified (31.12.2020 immediately before IP completion day) by S.I. 2019/341, reg. 18(2) (as inserted by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2019/710/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f5a6ea081e468aba44d7ab0062328377]: Modification: Ss. 70A-70C modified (31.12.2020 immediately before IP completion day) by S.I. 2019/341, reg. 18(2) (as inserted by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2019/710/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-13365eb4956bbeb16c14fa33a9936bc5]: Textual amendment: Ss. 70A-70D inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [77](https://www.legislation.gov.uk/uksi/2014/3329/article/77)
+[^c-13365eb4956bbeb16c14fa33a9936bc5]: Textual amendment: Ss. 70A-70D inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [77](https://www.legislation.gov.uk/uksi/2014/3329/article/77)
 
-[^key-bd85d6ce522a4bf2f9e9476cb916b38a]: Textual amendment: Words in [s. 70C(6)](https://www.legislation.gov.uk/ukpga/2009/1/section/70C/6) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd85d6ce522a4bf2f9e9476cb916b38a]: Textual amendment: Words in [s. 70C(6)](https://www.legislation.gov.uk/ukpga/2009/1/section/70C/6) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

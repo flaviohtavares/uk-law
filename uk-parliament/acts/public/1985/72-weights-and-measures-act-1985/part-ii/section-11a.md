@@ -27,7 +27,7 @@ summary: ''
 
 (2) The Secretary of State may approve the person for the purpose of–
 
-- (a) testing any equipment to which section 11 above applies and which is manufactured, installed, adjusted[^key-51ca852a3b775266dee1ca3b4de691f1] or repaired by him,
+- (a) testing any equipment to which section 11 above applies and which is manufactured, installed, adjusted[^c-51ca852a3b775266dee1ca3b4de691f1] or repaired by him,
 - (b) passing any such equipment as fit for use for trade, and
 - (c) stamping any such equipment with the prescribed stamp.
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c13369511]: Textual amendment: S. 11A inserted (29.3.1999) by [S.I. 1999/503](https://www.legislation.gov.uk/uksi/1999/503), [art. 2(7)](https://www.legislation.gov.uk/uksi/1999/503/article/2/7)
 
-[^key-51ca852a3b775266dee1ca3b4de691f1]: Textual amendment: Word in s. 11A(2)(a) inserted (19.12.2008) by [The Legislative Reform (Verification of Weighing and Measuring Equipment) Order 2008 (S.I. 2008/3262)](https://www.legislation.gov.uk/uksi/2008/3262), [arts. 1](https://www.legislation.gov.uk/uksi/2008/3262/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/3262/article/2/2)
+[^c-51ca852a3b775266dee1ca3b4de691f1]: Textual amendment: Word in s. 11A(2)(a) inserted (19.12.2008) by [The Legislative Reform (Verification of Weighing and Measuring Equipment) Order 2008 (S.I. 2008/3262)](https://www.legislation.gov.uk/uksi/2008/3262), [arts. 1](https://www.legislation.gov.uk/uksi/2008/3262/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/3262/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5A — Election expenses[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+## SCHEDULE 5A — Election expenses[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
 *Extent: N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulations 55 and 56
 
-### PART 1 — LIST OF MATTERS[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 1 — LIST OF MATTERS[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
-**1.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — GENERAL EXCLUSION[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]
+### PART 2 — GENERAL EXCLUSION[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]
 
-**7.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e30afdc92e8d3fc9aeb6a8a90802eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e30afdc92e8d3fc9aeb6a8a90802eba5]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2004/1267) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-e30afdc92e8d3fc9aeb6a8a90802eba5]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2004/1267) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 327. Foreign lawyers: authorisation under Financial Services Act 1986[^key-afe124ce49d06833f5cd0921b792ad8f]
+## 327. Foreign lawyers: authorisation under Financial Services Act 1986[^c-afe124ce49d06833f5cd0921b792ad8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Paragraph 9 of Schedule 14 to the Courts and Legal Services Act 1990 is repealed
 
 ## Annotations
 
-[^key-afe124ce49d06833f5cd0921b792ad8f]: Commencement: Art. 327 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-afe124ce49d06833f5cd0921b792ad8f]: Commencement: Art. 327 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

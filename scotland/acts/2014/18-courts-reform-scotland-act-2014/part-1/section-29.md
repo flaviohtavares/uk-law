@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Lord President's power to exercise functions under sections 27 and 28[^key-dc67f11cbaaf5fc7d484bd849c451e6e]
+## 29. Lord President's power to exercise functions under sections 27 and 28[^c-dc67f11cbaaf5fc7d484bd849c451e6e]
 
 *Extent: S*
 
 (1) Subsection (2) applies where in any case the Lord President of the Court of Session considers that the exercise by the sheriff principal of a sheriffdom of a function under section 27 or 28—
 
 - (a) is prejudicial to the efficient disposal of business in the sheriff courts of the sheriffdom,
-- (aa)[^key-e5a87410697504c70704cd2798bedc1c] is prejudicial to the carrying out of the responsibility imposed by section 27(1) in a way that accords with trauma-informed practice,
+- (aa)[^c-e5a87410697504c70704cd2798bedc1c] is prejudicial to the carrying out of the responsibility imposed by section 27(1) in a way that accords with trauma-informed practice,
 - (b) is prejudicial to the efficient organisation or administration of those courts, or
 - (c) is otherwise against the interest of the public.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc67f11cbaaf5fc7d484bd849c451e6e]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/18/section/29) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-dc67f11cbaaf5fc7d484bd849c451e6e]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/18/section/29) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-e5a87410697504c70704cd2798bedc1c]: Textual amendment: [S. 29(1)(aa)](https://www.legislation.gov.uk/asp/2014/18/section/29/1/aa) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 31(3)](https://www.legislation.gov.uk/asp/2025/12/section/31/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-e5a87410697504c70704cd2798bedc1c]: Textual amendment: [S. 29(1)(aa)](https://www.legislation.gov.uk/asp/2014/18/section/29/1/aa) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 31(3)](https://www.legislation.gov.uk/asp/2025/12/section/31/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

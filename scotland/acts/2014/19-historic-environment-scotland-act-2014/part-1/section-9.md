@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Corporate plan[^key-fea85b3441c4fab7e5890d723a393b96]
+## 9. Corporate plan[^c-fea85b3441c4fab7e5890d723a393b96]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fea85b3441c4fab7e5890d723a393b96]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/19/section/9) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-fea85b3441c4fab7e5890d723a393b96]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/19/section/9) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)

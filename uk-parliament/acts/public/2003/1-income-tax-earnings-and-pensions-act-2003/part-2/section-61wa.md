@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61WA. Anti-avoidance[^key-083a456742f05900fae79188e26321f4][^key-c5ed4a8550671f87f70e726d21948b20]
+## 61WA. Anti-avoidance[^c-083a456742f05900fae79188e26321f4][^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-083a456742f05900fae79188e26321f4]: Textual amendment: [S. 61WA](https://www.legislation.gov.uk/ukpga/2003/1/section/61WA) inserted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(8)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/8)
+[^c-083a456742f05900fae79188e26321f4]: Textual amendment: [S. 61WA](https://www.legislation.gov.uk/ukpga/2003/1/section/61WA) inserted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(8)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/8)
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)

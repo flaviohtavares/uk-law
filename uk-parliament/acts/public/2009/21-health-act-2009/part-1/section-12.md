@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Jurisdiction of Health Service Commissioner[^key-6b2695c73108a3b3ed3380866ccffadd]
+## 12. Jurisdiction of Health Service Commissioner[^c-6b2695c73108a3b3ed3380866ccffadd]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b2695c73108a3b3ed3380866ccffadd]: Commencement: S. 12 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
+[^c-6b2695c73108a3b3ed3380866ccffadd]: Commencement: S. 12 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)

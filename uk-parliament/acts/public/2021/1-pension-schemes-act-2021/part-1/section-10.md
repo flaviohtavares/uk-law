@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Reference to Tribunal of refusal to grant authorisation[^c24458151][^key-a04c3c52e7bc2f819b293c148bc08c56]
+## 10. Reference to Tribunal of refusal to grant authorisation[^c24458151][^c-a04c3c52e7bc2f819b293c148bc08c56]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c24458151]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/1/section/10) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-a04c3c52e7bc2f819b293c148bc08c56]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/1/section/10) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-a04c3c52e7bc2f819b293c148bc08c56]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/1/section/10) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

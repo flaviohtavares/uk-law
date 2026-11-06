@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Liability for offence under section 17 committed by a body[^key-c654e715fe080983a22832c710d7dfd0][^key-7b6bae1691a152dfc29b89537231744b]
+## 19. Liability for offence under section 17 committed by a body[^c-c654e715fe080983a22832c710d7dfd0][^c-7b6bae1691a152dfc29b89537231744b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ P (as well as the body) commits the offence and is liable to be proceeded agains
 
 ## Annotations
 
-[^key-c654e715fe080983a22832c710d7dfd0]: Commencement: S. 19 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-c654e715fe080983a22832c710d7dfd0]: Commencement: S. 19 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-7b6bae1691a152dfc29b89537231744b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/31/section/19) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/a)
+[^c-7b6bae1691a152dfc29b89537231744b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/31/section/19) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/a)

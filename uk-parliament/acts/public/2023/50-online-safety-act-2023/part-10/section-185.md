@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Extra-territorial application and jurisdiction[^key-4874d799f1ce43fc1e77d8ddc0e8e9d7][^key-a9c402a5a9edf359b6a553c8ab6cbe5c]
+## 185. Extra-territorial application and jurisdiction[^c-4874d799f1ce43fc1e77d8ddc0e8e9d7][^c-a9c402a5a9edf359b6a553c8ab6cbe5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4874d799f1ce43fc1e77d8ddc0e8e9d7]: Commencement: S. 185 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4874d799f1ce43fc1e77d8ddc0e8e9d7]: Commencement: S. 185 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a9c402a5a9edf359b6a553c8ab6cbe5c]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2023/50/section/185) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-a9c402a5a9edf359b6a553c8ab6cbe5c]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2023/50/section/185) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

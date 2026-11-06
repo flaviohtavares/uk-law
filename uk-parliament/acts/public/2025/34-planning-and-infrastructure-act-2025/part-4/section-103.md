@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Powers in relation to infrastructure[^key-ec73b54c32a3f1d196590c963dab29a9][^key-3eecf0d33a183659499e7bcc79acf822]
+## 103. Powers in relation to infrastructure[^c-ec73b54c32a3f1d196590c963dab29a9][^c-3eecf0d33a183659499e7bcc79acf822]
 
 *Extent: E+W*
 
@@ -145,6 +145,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec73b54c32a3f1d196590c963dab29a9]: Commencement: S. 103 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
+[^c-ec73b54c32a3f1d196590c963dab29a9]: Commencement: S. 103 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
 
-[^key-3eecf0d33a183659499e7bcc79acf822]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/34/section/103) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/g)
+[^c-3eecf0d33a183659499e7bcc79acf822]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/34/section/103) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/g)

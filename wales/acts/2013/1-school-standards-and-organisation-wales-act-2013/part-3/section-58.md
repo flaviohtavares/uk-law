@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Further provision about proposals made after a direction under section 57(2)[^key-0b9055a7e8e054bb400b5b7e399c5ae7]
+## 58. Further provision about proposals made after a direction under section 57(2)[^c-0b9055a7e8e054bb400b5b7e399c5ae7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b9055a7e8e054bb400b5b7e399c5ae7]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2013/1/section/58) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)
+[^c-0b9055a7e8e054bb400b5b7e399c5ae7]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2013/1/section/58) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)

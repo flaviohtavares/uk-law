@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Objective 1: (a) or (b)?[^key-a8ea8a3fb7cfe758c9efb66d4046fa8f]
+## 102. Objective 1: (a) or (b)?[^c-a8ea8a3fb7cfe758c9efb66d4046fa8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8ea8a3fb7cfe758c9efb66d4046fa8f]: Commencement: S. 102 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-a8ea8a3fb7cfe758c9efb66d4046fa8f]: Commencement: S. 102 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

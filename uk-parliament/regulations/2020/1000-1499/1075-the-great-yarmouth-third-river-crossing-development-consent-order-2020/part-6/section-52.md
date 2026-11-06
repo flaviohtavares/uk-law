@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Fixed penalty notices[^key-5d8ab3eeef1cf8e6252a8b298c10c2f9]
+## 52. Fixed penalty notices[^c-5d8ab3eeef1cf8e6252a8b298c10c2f9]
 
 *Extent: E+W+S*
 
@@ -72,4 +72,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-5d8ab3eeef1cf8e6252a8b298c10c2f9]: Commencement: Art. 52 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-5d8ab3eeef1cf8e6252a8b298c10c2f9]: Commencement: Art. 52 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

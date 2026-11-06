@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of local and private Acts, and of Transport and Works Act Orders[^key-27d8bd68cbaa0a83de153213eaa097e9]
+## 6. Amendment of local and private Acts, and of Transport and Works Act Orders[^c-27d8bd68cbaa0a83de153213eaa097e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27d8bd68cbaa0a83de153213eaa097e9]: Commencement: Art. 6 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-27d8bd68cbaa0a83de153213eaa097e9]: Commencement: Art. 6 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
 
 [^f00005]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).

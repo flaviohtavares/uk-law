@@ -31,7 +31,7 @@ summary: ''
 - (g) a pension—
   - (i) granted to a person on account of disablement, and
   - (ii) payable under any scheme made under section 3, 4 or 5 of the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 (c. 83).
-- (h)[^key-75a572b701b5d821bb9a1acf77c77101] a benefit under a scheme established by an order under section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004 payable to a person by reason of his illness or injury—
+- (h)[^c-75a572b701b5d821bb9a1acf77c77101] a benefit under a scheme established by an order under section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004 payable to a person by reason of his illness or injury—
   - (i) by way of a lump sum, or
   - (ii) following the termination of the person's service in the armed forces or reserve forces.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75a572b701b5d821bb9a1acf77c77101]: Textual amendment: S. 641(1)(h) inserted (with effect in accordance with s. 19(9) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2005/7/section/19/6)
+[^c-75a572b701b5d821bb9a1acf77c77101]: Textual amendment: S. 641(1)(h) inserted (with effect in accordance with s. 19(9) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 19(6)](https://www.legislation.gov.uk/ukpga/2005/7/section/19/6)

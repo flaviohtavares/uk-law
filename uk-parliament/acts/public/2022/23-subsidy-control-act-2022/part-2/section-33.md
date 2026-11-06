@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Duty to include information in the subsidy database[^key-6e16f79f9b4b862da0520d86c6126a78][^key-dae80c715f87e61f5225a507e61111f8]
+## 33. Duty to include information in the subsidy database[^c-6e16f79f9b4b862da0520d86c6126a78][^c-dae80c715f87e61f5225a507e61111f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e16f79f9b4b862da0520d86c6126a78]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/23/section/33) in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-6e16f79f9b4b862da0520d86c6126a78]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/23/section/33) in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-dae80c715f87e61f5225a507e61111f8]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/23/section/33) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-dae80c715f87e61f5225a507e61111f8]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/23/section/33) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

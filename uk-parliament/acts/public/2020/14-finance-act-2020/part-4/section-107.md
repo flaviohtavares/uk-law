@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Enterprise management incentives[^key-3c865df2bc0767f67430939d54044b48]
+## 107. Enterprise management incentives[^c-3c865df2bc0767f67430939d54044b48]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c865df2bc0767f67430939d54044b48]: Textual amendment: [S. 107](https://www.legislation.gov.uk/ukpga/2020/14/section/107) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 24](https://www.legislation.gov.uk/ukpga/2021/26/section/24)
+[^c-3c865df2bc0767f67430939d54044b48]: Textual amendment: [S. 107](https://www.legislation.gov.uk/ukpga/2020/14/section/107) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 24](https://www.legislation.gov.uk/ukpga/2021/26/section/24)

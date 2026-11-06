@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Determining the non-housing reduction[^key-8514aa37cb3ef4eefb070a78f09b1af9]
+## 148. Determining the non-housing reduction[^c-8514aa37cb3ef4eefb070a78f09b1af9]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8514aa37cb3ef4eefb070a78f09b1af9]: Commencement: Reg. 148 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-8514aa37cb3ef4eefb070a78f09b1af9]: Commencement: Reg. 148 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

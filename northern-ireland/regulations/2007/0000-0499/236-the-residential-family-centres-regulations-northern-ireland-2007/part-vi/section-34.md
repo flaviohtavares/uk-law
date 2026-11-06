@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Notice of termination of accommodation[^key-da3b2c74d45b39cc9886f377014fda9f]
+## 34. Notice of termination of accommodation[^c-da3b2c74d45b39cc9886f377014fda9f]
 
 *Extent: N.I.*
 
@@ -29,10 +29,10 @@ summary: ''
 (2) If it is impracticable for the registered person to comply with the requirement in paragraph (1)—
 
 - (a) he shall do so as soon as it is practicable to do so; and
-- (b) he shall provide to the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] a statement as to the circumstances which made it impracticable for him to comply with the requirement.
+- (b) he shall provide to the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] a statement as to the circumstances which made it impracticable for him to comply with the requirement.
 
 ## Annotations
 
-[^key-da3b2c74d45b39cc9886f377014fda9f]: Commencement: Reg. 34 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-da3b2c74d45b39cc9886f377014fda9f]: Commencement: Reg. 34 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

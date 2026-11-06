@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 170. Provisions as to references upon notices served by inspectors.[^key-ccba0c571fb2d60776039d01478a6c5c]
+## 170. Provisions as to references upon notices served by inspectors.[^c-ccba0c571fb2d60776039d01478a6c5c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccba0c571fb2d60776039d01478a6c5c]: Textual amendment: [S. 170](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/170) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-ccba0c571fb2d60776039d01478a6c5c]: Textual amendment: [S. 170](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/170) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

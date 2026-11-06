@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Simplified invoices[^key-ab08e294ac7576bb744735e5234a19ad]
+## 16A. Simplified invoices[^c-ab08e294ac7576bb744735e5234a19ad]
 
 *Extent: E+W+S+N.I.*
 
-In any case where the consideration for a supply does not exceed £250 and , where the registered person is identified for the purposes of VAT in Northern Ireland,[^key-6c53e42d42e38678fec989b95b81c80f] the supply is other than to a person in another member State, the VAT invoice that a registered person is required to provide need contain only the following particulars—
+In any case where the consideration for a supply does not exceed £250 and , where the registered person is identified for the purposes of VAT in Northern Ireland,[^c-6c53e42d42e38678fec989b95b81c80f] the supply is other than to a person in another member State, the VAT invoice that a registered person is required to provide need contain only the following particulars—
 
 - (a) the name, address and registration number of the supplier;
 - (b) the time of the supply;
@@ -30,6 +30,6 @@ In any case where the consideration for a supply does not exceed £250 and , whe
 
 ## Annotations
 
-[^key-ab08e294ac7576bb744735e5234a19ad]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16A) inserted (1.1.2013) by [The Value Added Tax (Amendment) (No. 3) Regulations 2012 (S.I. 2012/2951)](https://www.legislation.gov.uk/uksi/2012/2951), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2951/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/2951/regulation/2/6)
+[^c-ab08e294ac7576bb744735e5234a19ad]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16A) inserted (1.1.2013) by [The Value Added Tax (Amendment) (No. 3) Regulations 2012 (S.I. 2012/2951)](https://www.legislation.gov.uk/uksi/2012/2951), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2951/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/2951/regulation/2/6)
 
-[^key-6c53e42d42e38678fec989b95b81c80f]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16A) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [37](https://www.legislation.gov.uk/uksi/2020/1545/regulation/37) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-6c53e42d42e38678fec989b95b81c80f]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16A) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [37](https://www.legislation.gov.uk/uksi/2020/1545/regulation/37) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

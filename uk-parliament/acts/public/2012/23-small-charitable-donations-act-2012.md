@@ -66,26 +66,26 @@ R is the percentage rate of the basic rate of income tax for the tax year in que
 
 (5) The “gift aid donations amount” for a charity for a tax year is the amount of the gifts made to the charity in the tax year and in respect of which it has made successful gift aid exemption claims.
 
-(6) The “specified amount” for a charity for a tax year is £8,000[^key-5501411be6946195fb6e1e3c017ec74c].
+(6) The “specified amount” for a charity for a tax year is £8,000[^c-5501411be6946195fb6e1e3c017ec74c].
 
 (7) This section is subject to sections 4, 6 and 9 (connected charities and charities running charitable activities in community buildings).
 
 ### 2. Meaning of “eligible charity”
 
-(1) A charity is an eligible charity for a tax year if it is not an excluded charity for that tax year (see subsection (3)).[^key-fa76ae8aa0ec81fa6115eeb14f845f71]
+(1) A charity is an eligible charity for a tax year if it is not an excluded charity for that tax year (see subsection (3)).[^c-fa76ae8aa0ec81fa6115eeb14f845f71]
 
-(2)[^key-fcef2d5a9520b7d9bd3c75937dc4dce1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fcef2d5a9520b7d9bd3c75937dc4dce1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A charity on which a penalty has been imposed in connection with a gift aid exemption claim or top-up claim made by the charity is an excluded charity[^key-1468dcc14d6ccc0bf41c427b5e2f2083] —
+(3) A charity on which a penalty has been imposed in connection with a gift aid exemption claim or top-up claim made by the charity is an excluded charity[^c-1468dcc14d6ccc0bf41c427b5e2f2083] —
 
-- (a) for the tax year in which the claim was made, and[^key-50541c78adad381d629ad6c1a1a8af8f]
+- (a) for the tax year in which the claim was made, and[^c-50541c78adad381d629ad6c1a1a8af8f]
 - (b) for the next tax year,
 
 (even if the penalty was imposed after the tax year in which the claim was made).
 
 (4) For the purposes of this section—
 
-- (a)[^key-6db49d9c3f4aa59701faea84a0bc6c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6db49d9c3f4aa59701faea84a0bc6c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**penalty**” means a penalty under—
   - (i) Schedule 24 to the Finance Act 2007, or
   - (ii) regulations under section 11;
@@ -117,10 +117,10 @@ R is the percentage rate of the basic rate of income tax for the tax year in que
 
 (3) The specified amount for the purposes of section 1(4) for each of the charities for the tax year is an amount equal to—
 
-- (a) £8,000[^key-1d25c7622dbdafc36013c3ed1f84a710], divided by
+- (a) £8,000[^c-1d25c7622dbdafc36013c3ed1f84a710], divided by
 - (b) the number of the charities which make a top-up claim in respect of small donations made in the tax year.
 
-(4) This section does not apply if section 9 (connected charities running charitable activities in community buildings) applies.[^key-3480c3b7ea510b84de89a28d680a7a8c]
+(4) This section does not apply if section 9 (connected charities running charitable activities in community buildings) applies.[^c-3480c3b7ea510b84de89a28d680a7a8c]
 
 ### 5. Meaning of “connected”[^c21734311]
 
@@ -156,11 +156,11 @@ charity A and charity C are also connected with each other in the tax year for t
 
 (8) The Treasury may by order amend this Act so as to change the circumstances in which a charity is connected with another charity in a tax year for the purposes of the Act.
 
-### 6. Charities running charitable activities in more than one community building[^key-87e8dc19856518de3d02f81b70b5aba4]
+### 6. Charities running charitable activities in more than one community building[^c-87e8dc19856518de3d02f81b70b5aba4]
 
-(1) This section determines the specified amount for the purposes of section 1(4) for a charity that runs charitable activities in more than one community building[^key-19d52367d6e1eb06153789d1f0ad9fe3] in a tax year (see sections 7 and 8 for the meaning of certain terms used in this section).
+(1) This section determines the specified amount for the purposes of section 1(4) for a charity that runs charitable activities in more than one community building[^c-19d52367d6e1eb06153789d1f0ad9fe3] in a tax year (see sections 7 and 8 for the meaning of certain terms used in this section).
 
-(2)[^key-caa07611518989d79066e9eeabeefce7] The specified amount for the charity for the tax year is—
+(2)[^c-caa07611518989d79066e9eeabeefce7] The specified amount for the charity for the tax year is—
 
 - (a) £8,000, or
 - (b) if more, an amount equal to the sum of the amounts which, for each community building in which the charitable activities are run, is the community building amount.
@@ -188,11 +188,11 @@ This is subject to subsections (3A) and (3B).
 
 (3D) For the purposes of the definition of “local authority area” in subsection (3C), the Inner Temple and the Middle Temple are to be taken as falling within the area of the Common Council of the City of London.
 
-(4)[^key-bb0577d2501c2e3458bc81095a48e4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bb0577d2501c2e3458bc81095a48e4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-bb0577d2501c2e3458bc81095a48e4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bb0577d2501c2e3458bc81095a48e4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-bb0577d2501c2e3458bc81095a48e4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bb0577d2501c2e3458bc81095a48e4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 9 modifies this section as it applies to a charity that is connected with another eligible charity.
 
@@ -204,7 +204,7 @@ This is subject to subsections (3A) and (3B).
 - (b) the activity is of a kind that the charity makes available to the public or a section of the public, and
 - (c) none of the group is required to pay to access the building, or the part of the building, in which the activity is carried out;
 
-[^key-e9e32e0a010192772638fc1cefb9bb6a]...
+[^c-e9e32e0a010192772638fc1cefb9bb6a]...
 
 (2) For this purpose the people forming the group need not be the same on any two of the occasions.
 
@@ -223,9 +223,9 @@ This is subject to subsections (3A) and (3B).
 
 (2) Any parts of a building that are used wholly or mainly for residential purposes or the sale or supply of goods are excluded.
 
-(3) Any parts of a building that are used wholly or mainly for other commercial purposes are excluded, but this is subject to subsection (3A).[^key-89f843b3d2dd9091d16c21ae497048d6]
+(3) Any parts of a building that are used wholly or mainly for other commercial purposes are excluded, but this is subject to subsection (3A).[^c-89f843b3d2dd9091d16c21ae497048d6]
 
-(3A)[^key-45611e184a4ff241b507fd99dd07daaa] The parts mentioned in subsection (3) are not excluded from being a community building in relation to a charity if—
+(3A)[^c-45611e184a4ff241b507fd99dd07daaa] The parts mentioned in subsection (3) are not excluded from being a community building in relation to a charity if—
 
 - (a) the charity carries out a charitable activity in those parts, and
 - (b) at all times while it does so, the parts are available for use exclusively by the charity in carrying out the activity.
@@ -251,9 +251,9 @@ This is subject to subsections (3A) and (3B).
 - (a) two or more charities (“connected eligible charities”) are connected with one another in a tax year and are eligible charities for the tax year, and
 - (b) one or more of them runs charitable activities in a community building in the tax year.
 
-but see subsection (2).[^key-df63ffd5a8322d6af69c0070486419cf]
+but see subsection (2).[^c-df63ffd5a8322d6af69c0070486419cf]
 
-(2)[^key-106270abb20ad0a2927f76637e38b1d7] This section does not apply if the condition in section 9A is met.
+(2)[^c-106270abb20ad0a2927f76637e38b1d7] This section does not apply if the condition in section 9A is met.
 
 (3) Where this section applies, the specified amount for the purposes of section 1(4) for a connected eligible charity for the tax year is determined as follows.
 
@@ -263,7 +263,7 @@ but see subsection (2).[^key-df63ffd5a8322d6af69c0070486419cf]
 
 (6) If the charity does not run charitable activities in a community building in the tax year, the specified amount is nil.
 
-### 9A. Election for section 9 not to apply[^key-7af2b9c4c55af20c7e701b56b940911e]
+### 9A. Election for section 9 not to apply[^c-7af2b9c4c55af20c7e701b56b940911e]
 
 (1) The condition mentioned in section 9(2) is that HMRC have notice from each connected eligible charity that the charity does not want section 9 to apply to the connected eligible charities for the tax year.
 
@@ -330,11 +330,11 @@ the amount must be repaid to HMRC.
 
 ## Miscellaneous
 
-### 12. Charity mergers: new charity taking over activities of one charity[^key-cf7567ab320ca87e0dc325103c9b4525][^c21734351]
+### 12. Charity mergers: new charity taking over activities of one charity[^c-cf7567ab320ca87e0dc325103c9b4525][^c21734351]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Charity mergers: new charity taking over activities of several charities[^key-cf7567ab320ca87e0dc325103c9b4525][^c21734361]
+### 13. Charity mergers: new charity taking over activities of several charities[^c-cf7567ab320ca87e0dc325103c9b4525][^c21734361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -344,8 +344,8 @@ the amount must be repaid to HMRC.
 
 - (a) section 1(6) (the specified amount),
 - (b) section 4(3)(a),
-- (c) section 6(2)(a) and (3)(b)[^key-2ac6ba44572bc21a3e9c05ffd0b97655] , [^key-03eb35a10988934010ed3869f15405ba]...
-- (d)[^key-a43ca3309a0676989a1962a4555d37f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) section 6(2)(a) and (3)(b)[^c-2ac6ba44572bc21a3e9c05ffd0b97655] , [^c-03eb35a10988934010ed3869f15405ba]...
+- (d)[^c-a43ca3309a0676989a1962a4555d37f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 by substituting a different sum for the sum for the time being specified in each of those provisions.
 
@@ -359,7 +359,7 @@ by substituting a different sum for the sum for the time being specified in each
 
 (4) The Treasury may by order amend section 2 (meaning of “eligible charity”).
 
-(5)[^key-e7f837d785401b62040e8b9d6c3a679e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e7f837d785401b62040e8b9d6c3a679e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The Treasury may by order amend paragraph 1(1) and (2) of the Schedule (limit on value of individual donations) by substituting a different sum for the sum for the time being specified in each of those provisions.
 
@@ -469,30 +469,30 @@ This Act may be cited as the Small Charitable Donations Act 2012.
 
 Section 3
 
-### Small cash or contactless payment[^key-815989a51a58a0adc8dfe2c40084e5f6]
+### Small cash or contactless payment[^c-815989a51a58a0adc8dfe2c40084e5f6]
 
-**1.** (1) The gift must be £30[^key-715916f840d74b4878d38858959e1f73] or less [^key-86992e93141b21eefb29e14dd0c400d3]....
+**1.** (1) The gift must be £30[^c-715916f840d74b4878d38858959e1f73] or less [^c-86992e93141b21eefb29e14dd0c400d3]....
 
-(1A)[^key-48b1d700e2eb792c254a393ac0e036c8] The gift must be made—
+(1A)[^c-48b1d700e2eb792c254a393ac0e036c8] The gift must be made—
 
 - (a) in cash, or
 - (b) by a contactless payment.
 
-(2) Where a gift of cash is made to the charity and its managers do not know whether the gift is £30[^key-47ca6fdc64381a4016730a2d01c3ab2e] or less, the condition in sub-paragraph (1) is to be treated as met if the managers have taken reasonable steps to find out.
+(2) Where a gift of cash is made to the charity and its managers do not know whether the gift is £30[^c-47ca6fdc64381a4016730a2d01c3ab2e] or less, the condition in sub-paragraph (1) is to be treated as met if the managers have taken reasonable steps to find out.
 
 (3) In this paragraph—
 
 - “**cash**” means coins and notes in any currency;
-- “[^key-6481b05630fa7d879ecd27283dab5b98]**contactless payment**” means a payment made at a contactless payment terminal using the contactless payment facility of a card, mobile telephone or other device;
+- “[^c-6481b05630fa7d879ecd27283dab5b98]**contactless payment**” means a payment made at a contactless payment terminal using the contactless payment facility of a card, mobile telephone or other device;
 - “**managers**”, in relation to a charity, means the persons having the general control and management of the administration of the charity.
 
-### Made in the United Kingdom[^key-ec1b093df1da415ca7fc5e016e6bb5d2]
+### Made in the United Kingdom[^c-ec1b093df1da415ca7fc5e016e6bb5d2]
 
 **2.** The gift must be made in the United Kingdom.
 
 ### Deposited in United Kingdom in a bank account
 
-**3.** (1) Where the gift is made in cash,[^key-6172d6f73f7235bd280fa4da9658bf7d] The cash given to the charity must have been deposited in an account kept by or on behalf of the charity at a relevant institution and the deposit must have been made in the United Kingdom.
+**3.** (1) Where the gift is made in cash,[^c-6172d6f73f7235bd280fa4da9658bf7d] The cash given to the charity must have been deposited in an account kept by or on behalf of the charity at a relevant institution and the deposit must have been made in the United Kingdom.
 
 (2) “**Relevant institution**” has the meaning given by section 109(3) of the Charities Act 2011.
 
@@ -532,51 +532,51 @@ Section 3
 
 ## Annotations
 
-[^key-5501411be6946195fb6e1e3c017ec74c]: Textual amendment: Sum in [s. 1(6)](https://www.legislation.gov.uk/ukpga/2012/23/section/1/6) substituted (6.4.2016) by [The Small Charitable Donations Act (Amendment) Order 2015 (S.I. 2015/2027)](https://www.legislation.gov.uk/uksi/2015/2027), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2027/article/1), [3](https://www.legislation.gov.uk/uksi/2015/2027/article/3)
+[^c-5501411be6946195fb6e1e3c017ec74c]: Textual amendment: Sum in [s. 1(6)](https://www.legislation.gov.uk/ukpga/2012/23/section/1/6) substituted (6.4.2016) by [The Small Charitable Donations Act (Amendment) Order 2015 (S.I. 2015/2027)](https://www.legislation.gov.uk/uksi/2015/2027), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2027/article/1), [3](https://www.legislation.gov.uk/uksi/2015/2027/article/3)
 
-[^key-fa76ae8aa0ec81fa6115eeb14f845f71]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/1) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
+[^c-fa76ae8aa0ec81fa6115eeb14f845f71]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/1) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
 
-[^key-fcef2d5a9520b7d9bd3c75937dc4dce1]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/2) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
+[^c-fcef2d5a9520b7d9bd3c75937dc4dce1]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/2) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
 
-[^key-1468dcc14d6ccc0bf41c427b5e2f2083]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/3) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/c/i), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
+[^c-1468dcc14d6ccc0bf41c427b5e2f2083]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/3) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/c/i), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
 
-[^key-50541c78adad381d629ad6c1a1a8af8f]: Textual amendment: Word in [s. 2(3)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/3) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/c/ii), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
+[^c-50541c78adad381d629ad6c1a1a8af8f]: Textual amendment: Word in [s. 2(3)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/3) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/c/ii), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
 
-[^key-6db49d9c3f4aa59701faea84a0bc6c71]: Textual amendment: [S. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/4/a) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/d), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
+[^c-6db49d9c3f4aa59701faea84a0bc6c71]: Textual amendment: [S. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2012/23/section/2/4/a) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/2/d), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
 
-[^key-1d25c7622dbdafc36013c3ed1f84a710]: Textual amendment: Sum in s. 4(3)(a) substituted (6.4.2016) by [The Small Charitable Donations Act (Amendment) Order 2015 (S.I. 2015/2027)](https://www.legislation.gov.uk/uksi/2015/2027), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2027/article/1), [4](https://www.legislation.gov.uk/uksi/2015/2027/article/4)
+[^c-1d25c7622dbdafc36013c3ed1f84a710]: Textual amendment: Sum in s. 4(3)(a) substituted (6.4.2016) by [The Small Charitable Donations Act (Amendment) Order 2015 (S.I. 2015/2027)](https://www.legislation.gov.uk/uksi/2015/2027), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2027/article/1), [4](https://www.legislation.gov.uk/uksi/2015/2027/article/4)
 
-[^key-3480c3b7ea510b84de89a28d680a7a8c]: Textual amendment: Words in s. 4(4) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/2), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-3480c3b7ea510b84de89a28d680a7a8c]: Textual amendment: Words in s. 4(4) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/2), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
 [^c21734311]: Commencement: S. 5 wholly in force at 6.4.2013; s. 5 in force for specified purposes at Royal Assent and otherwise in force at 6.4.2013, see s. 21(1)(2)
 
-[^key-87e8dc19856518de3d02f81b70b5aba4]: Textual amendment: Words in s. 6 heading substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/2), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-87e8dc19856518de3d02f81b70b5aba4]: Textual amendment: Words in s. 6 heading substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/2), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-19d52367d6e1eb06153789d1f0ad9fe3]: Textual amendment: Words in s. 6(1) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/3), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-19d52367d6e1eb06153789d1f0ad9fe3]: Textual amendment: Words in s. 6(1) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/3), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-caa07611518989d79066e9eeabeefce7]: Textual amendment: S. 6(2)-(3D) substituted (16.1.2017) for s. 6(2)-(3) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-caa07611518989d79066e9eeabeefce7]: Textual amendment: S. 6(2)-(3D) substituted (16.1.2017) for s. 6(2)-(3) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-bb0577d2501c2e3458bc81095a48e4f8]: Textual amendment: S. 6(4)-(6) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/5), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-bb0577d2501c2e3458bc81095a48e4f8]: Textual amendment: S. 6(4)-(6) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/5), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
 [^c21734321]: Commencement: S. 7 wholly in force at 6.4.2013; s. 7 in force for specified purposes at Royal Assent and otherwise in force at 6.4.2013, see s. 21(1)(2)
 
-[^key-e9e32e0a010192772638fc1cefb9bb6a]: Textual amendment: Words in s. 7(1) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/6), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-e9e32e0a010192772638fc1cefb9bb6a]: Textual amendment: Words in s. 7(1) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/6), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
 [^c21734331]: Commencement: S. 8 wholly in force at 6.4.2013; s. 8 in force for specified purposes at Royal Assent and otherwise in force at 6.4.2013, see s. 21(1)(2)
 
-[^key-89f843b3d2dd9091d16c21ae497048d6]: Textual amendment: Words in s. 8(3) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/7/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-89f843b3d2dd9091d16c21ae497048d6]: Textual amendment: Words in s. 8(3) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/7/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-45611e184a4ff241b507fd99dd07daaa]: Textual amendment: S. 8(3A) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/7/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-45611e184a4ff241b507fd99dd07daaa]: Textual amendment: S. 8(3A) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/7/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-df63ffd5a8322d6af69c0070486419cf]: Textual amendment: Words in s. 9(1) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/3/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-df63ffd5a8322d6af69c0070486419cf]: Textual amendment: Words in s. 9(1) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/3/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-106270abb20ad0a2927f76637e38b1d7]: Textual amendment: S. 9(2)-(6) substituted (16.1.2017) for s. 9(2)-(8) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/3/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-106270abb20ad0a2927f76637e38b1d7]: Textual amendment: S. 9(2)-(6) substituted (16.1.2017) for s. 9(2)-(8) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/3/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-7af2b9c4c55af20c7e701b56b940911e]: Textual amendment: S. 9A inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-7af2b9c4c55af20c7e701b56b940911e]: Textual amendment: S. 9A inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
 [^c21734341]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2012/23/section/11) wholly in force at 6.4.2013; [s. 11](https://www.legislation.gov.uk/ukpga/2012/23/section/11) in force for specified purposes at Royal Assent and otherwise in force at 6.4.2013, see [s. 21(1)(2)](https://www.legislation.gov.uk/ukpga/2012/23/section/21/1/2)
 
-[^key-cf7567ab320ca87e0dc325103c9b4525]: Textual amendment: Ss. 12, 13 omitted (16.1.2017) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/3), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
+[^c-cf7567ab320ca87e0dc325103c9b4525]: Textual amendment: Ss. 12, 13 omitted (16.1.2017) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/3), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1) (with [s. 8(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/1/section/8/2))
 
 [^c21734351]: Commencement: S. 12 wholly in force at 6.4.2013; s. 12 in force for specified purposes at Royal Assent and otherwise in force at 6.4.2013, see s. 21(1)(2)
 
@@ -584,26 +584,26 @@ Section 3
 
 [^c21734371]: Commencement: S. 14 wholly in force at 6.4.2013; s. 14 in force for specified purposes at Royal Assent and otherwise in force at 6.4.2013, see s. 21(1)(2)
 
-[^key-2ac6ba44572bc21a3e9c05ffd0b97655]: Textual amendment: Words in [s. 14(1)(c)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/1/c) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(8)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/8), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-2ac6ba44572bc21a3e9c05ffd0b97655]: Textual amendment: Words in [s. 14(1)(c)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/1/c) substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 3(8)](https://www.legislation.gov.uk/ukpga/2017/1/section/3/8), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-03eb35a10988934010ed3869f15405ba]: Textual amendment: Word in [s. 14(1)(c)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/1/c) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/5/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-03eb35a10988934010ed3869f15405ba]: Textual amendment: Word in [s. 14(1)(c)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/1/c) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/5/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-a43ca3309a0676989a1962a4555d37f4]: Textual amendment: [S. 14(1)(d)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/1/d) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/5/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-a43ca3309a0676989a1962a4555d37f4]: Textual amendment: [S. 14(1)(d)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/1/d) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/4/5/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-e7f837d785401b62040e8b9d6c3a679e]: Textual amendment: [S. 14(5)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/5) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-e7f837d785401b62040e8b9d6c3a679e]: Textual amendment: [S. 14(5)](https://www.legislation.gov.uk/ukpga/2012/23/section/14/5) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/1/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-815989a51a58a0adc8dfe2c40084e5f6]: Textual amendment: Words in [Sch. para. 1 heading](https://www.legislation.gov.uk/ukpga/2012/23/schedule/crossheading/small-cash-payment) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-815989a51a58a0adc8dfe2c40084e5f6]: Textual amendment: Words in [Sch. para. 1 heading](https://www.legislation.gov.uk/ukpga/2012/23/schedule/crossheading/small-cash-payment) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/a), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-715916f840d74b4878d38858959e1f73]: Textual amendment: Sum in Sch. para. 1(1) substituted (6.4.2019) by [The Small Charitable Donations Act (Amendment) Order 2019 (S.I. 2019/337)](https://www.legislation.gov.uk/uksi/2019/337), [arts. 1](https://www.legislation.gov.uk/uksi/2019/337/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/337/article/2/2/a)
+[^c-715916f840d74b4878d38858959e1f73]: Textual amendment: Sum in Sch. para. 1(1) substituted (6.4.2019) by [The Small Charitable Donations Act (Amendment) Order 2019 (S.I. 2019/337)](https://www.legislation.gov.uk/uksi/2019/337), [arts. 1](https://www.legislation.gov.uk/uksi/2019/337/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/337/article/2/2/a)
 
-[^key-86992e93141b21eefb29e14dd0c400d3]: Textual amendment: Words in Sch. para. 1(1) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-86992e93141b21eefb29e14dd0c400d3]: Textual amendment: Words in Sch. para. 1(1) omitted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by virtue of [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/b), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-48b1d700e2eb792c254a393ac0e036c8]: Textual amendment: Sch. para. 1(1A) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/c), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-48b1d700e2eb792c254a393ac0e036c8]: Textual amendment: Sch. para. 1(1A) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/c), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-47ca6fdc64381a4016730a2d01c3ab2e]: Textual amendment: Sum in Sch. para. 1(2) substituted (6.4.2019) by [The Small Charitable Donations Act (Amendment) Order 2019 (S.I. 2019/337)](https://www.legislation.gov.uk/uksi/2019/337), [arts. 1](https://www.legislation.gov.uk/uksi/2019/337/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/337/article/2/2/b)
+[^c-47ca6fdc64381a4016730a2d01c3ab2e]: Textual amendment: Sum in Sch. para. 1(2) substituted (6.4.2019) by [The Small Charitable Donations Act (Amendment) Order 2019 (S.I. 2019/337)](https://www.legislation.gov.uk/uksi/2019/337), [arts. 1](https://www.legislation.gov.uk/uksi/2019/337/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/337/article/2/2/b)
 
-[^key-6481b05630fa7d879ecd27283dab5b98]: Textual amendment: Words in Sch. para. 1(3) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/d), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-6481b05630fa7d879ecd27283dab5b98]: Textual amendment: Words in Sch. para. 1(3) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/2/d), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-ec1b093df1da415ca7fc5e016e6bb5d2]: Textual amendment: Sch. para. 2 and crossheading substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/3), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-ec1b093df1da415ca7fc5e016e6bb5d2]: Textual amendment: Sch. para. 2 and crossheading substituted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/3), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
 
-[^key-6172d6f73f7235bd280fa4da9658bf7d]: Textual amendment: Words in [Sch. para. 3(1)](https://www.legislation.gov.uk/ukpga/2012/23/schedule/paragraph/3/1) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)
+[^c-6172d6f73f7235bd280fa4da9658bf7d]: Textual amendment: Words in [Sch. para. 3(1)](https://www.legislation.gov.uk/ukpga/2012/23/schedule/paragraph/3/1) inserted (16.1.2017) (with effect in accordance with s. 7(1) of the amending Act) by [Small Charitable Donations and Childcare Payments Act 2017 (c. 1)](https://www.legislation.gov.uk/ukpga/2017/1), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2017/1/section/2/4), [7(1)](https://www.legislation.gov.uk/ukpga/2017/1/section/7/1)

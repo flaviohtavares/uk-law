@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Directions to public authorities[^key-620fb8753592400f7620a43a890130e0][^key-c8381cfa8029fa53df8f50a9c994528e]
+## 130. Directions to public authorities[^c-620fb8753592400f7620a43a890130e0][^c-c8381cfa8029fa53df8f50a9c994528e]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-620fb8753592400f7620a43a890130e0]: Commencement: S. 130 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-620fb8753592400f7620a43a890130e0]: Commencement: S. 130 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-c8381cfa8029fa53df8f50a9c994528e]: Commencement: [S. 130](https://www.legislation.gov.uk/asc/2024/3/section/130) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-c8381cfa8029fa53df8f50a9c994528e]: Commencement: [S. 130](https://www.legislation.gov.uk/asc/2024/3/section/130) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

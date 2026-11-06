@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Duty to have regard to island communities[^key-4db5446cf334b92dc849376f7d808f61]
+## 7. Duty to have regard to island communities[^c-4db5446cf334b92dc849376f7d808f61]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4db5446cf334b92dc849376f7d808f61]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/12/section/7) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)
+[^c-4db5446cf334b92dc849376f7d808f61]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/12/section/7) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)

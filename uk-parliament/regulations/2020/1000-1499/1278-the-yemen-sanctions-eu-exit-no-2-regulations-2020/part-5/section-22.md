@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Making military goods and military technology available[^key-454b7125c47a9d87c325ee2ef24c8375][^key-f451605f24c03a82b5f79d6aa2b69a47]
+## 22. Making military goods and military technology available[^c-454b7125c47a9d87c325ee2ef24c8375][^c-f451605f24c03a82b5f79d6aa2b69a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-454b7125c47a9d87c325ee2ef24c8375]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-454b7125c47a9d87c325ee2ef24c8375]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-f451605f24c03a82b5f79d6aa2b69a47]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1278/regulation/22) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-f451605f24c03a82b5f79d6aa2b69a47]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1278/regulation/22) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

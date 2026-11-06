@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — ELECTIONS ABOUT SECURITIES OPTIONS, RESTRICTED SECURITIES AND CONVERTIBLE SECURITIES[^key-0aa556d8a8748d694708a3367cfeed81]
+## SCHEDULE 5 — ELECTIONS ABOUT SECURITIES OPTIONS, RESTRICTED SECURITIES AND CONVERTIBLE SECURITIES[^c-0aa556d8a8748d694708a3367cfeed81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Regulation 69
 
 **1.** (1) An election for the purposes of paragraph 3B(1) of Schedule 1 to the Act shall contain—
 
-- (a)[^key-32d3ebd7853a8fae9cddcf7f0dcf0a9a] details of the securities options, restricted securities and convertible securities to which it relates, or of the period to which it relates, within which these are intended to be awarded or acquired;
+- (a)[^c-32d3ebd7853a8fae9cddcf7f0dcf0a9a] details of the securities options, restricted securities and convertible securities to which it relates, or of the period to which it relates, within which these are intended to be awarded or acquired;
 - (b) a statement that the election relates to relevant employment income arising from the securities or securities options referred to in sub-paragraph (1)(a) on which the employed earner is liable to pay secondary Class 1 contributions under—
   - (i) in the case of securities options, section 476 of ITEPA 2003 and section 4(4)(a) of the Act;
   - (ii) in the case of restricted securities, section 426 of ITEPA 2003 and regulation 22(7);
@@ -33,7 +33,7 @@ Regulation 69
   an explanation of the effect of the relevant provision;
 - (c) the amount or proportion (as the case may be) of the liability for secondary Class 1 contributions to be transferred;
 - (d) a statement that its purpose is to transfer the liability for the secondary Class 1 contributions referred to in paragraph (c) from the secondary contributor to the employed earner;
-- (dd)[^key-86861e63d6d8aec3563b013023f61977] a statement that it does not apply in relation to any liability, or any part of any liability, arising as a result of regulations being given retrospective effect by virtue of section 4B(2) of either the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (dd)[^c-86861e63d6d8aec3563b013023f61977] a statement that it does not apply in relation to any liability, or any part of any liability, arising as a result of regulations being given retrospective effect by virtue of section 4B(2) of either the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - (e) a statement as to the method by which the secondary contributor will secure that the liability for amounts of contributions, transferred under the election, is met;
 - (f) a statement as to the circumstances in which it shall cease to have effect;
 - (g) a declaration by the employed earner that he agrees to be bound by its terms; and
@@ -60,8 +60,8 @@ Regulation 69
 
 ## Annotations
 
-[^key-0aa556d8a8748d694708a3367cfeed81]: Textual amendment: Words in Sch. 5 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2004 (S.I. 2004/2096)](https://www.legislation.gov.uk/uksi/2004/2096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/8/a)
+[^c-0aa556d8a8748d694708a3367cfeed81]: Textual amendment: Words in Sch. 5 heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2004 (S.I. 2004/2096)](https://www.legislation.gov.uk/uksi/2004/2096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/8/a)
 
-[^key-32d3ebd7853a8fae9cddcf7f0dcf0a9a]: Textual amendment: Sch. 5 para. 1(1)(a)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2004 (S.I. 2004/2096)](https://www.legislation.gov.uk/uksi/2004/2096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/8/b)
+[^c-32d3ebd7853a8fae9cddcf7f0dcf0a9a]: Textual amendment: Sch. 5 para. 1(1)(a)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2004 (S.I. 2004/2096)](https://www.legislation.gov.uk/uksi/2004/2096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/8/b)
 
-[^key-86861e63d6d8aec3563b013023f61977]: Textual amendment: Sch. 5 para. 1(1)(dd) inserted (6.4.2006) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2007 (S.I. 2007/1175)](https://www.legislation.gov.uk/uksi/2007/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1175/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1175/regulation/2/2) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1175/regulation/2/3))
+[^c-86861e63d6d8aec3563b013023f61977]: Textual amendment: Sch. 5 para. 1(1)(dd) inserted (6.4.2006) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2007 (S.I. 2007/1175)](https://www.legislation.gov.uk/uksi/2007/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1175/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1175/regulation/2/2) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1175/regulation/2/3))

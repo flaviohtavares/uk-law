@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. National Park Management Plans (England): further provision[^key-51cd836568e275d6b18596923c21cf73]
+## 66A. National Park Management Plans (England): further provision[^c-51cd836568e275d6b18596923c21cf73]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51cd836568e275d6b18596923c21cf73]: Textual amendment: [Ss. 66A](https://www.legislation.gov.uk/ukpga/1995/25/section/66A), [66B](https://www.legislation.gov.uk/ukpga/1995/25/section/66B) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/4), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-51cd836568e275d6b18596923c21cf73]: Textual amendment: [Ss. 66A](https://www.legislation.gov.uk/ukpga/1995/25/section/66A), [66B](https://www.legislation.gov.uk/ukpga/1995/25/section/66B) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/4), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

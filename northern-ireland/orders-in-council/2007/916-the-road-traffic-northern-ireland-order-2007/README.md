@@ -46,7 +46,7 @@ The Queen's Most Excellent Majesty in Council
 
 Whereas a draft of this Order in Council has been approved by resolution of each House of Parliament:
 
-[^c22088951]Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows: 208[^key-bb386401faea002bf8c3be9a541cd130]
+[^c22088951]Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows: 208[^c-bb386401faea002bf8c3be9a541cd130]
 
 ## Contents
 
@@ -231,4 +231,4 @@ This Order amends the law relating to road traffic.
 
 [^c22088951]: Modification: Order: functions of Secretary of State transferred to Department of Justice (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2010/976/article/4/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/976/schedule/1) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-bb386401faea002bf8c3be9a541cd130]: Modification: [Order](https://www.legislation.gov.uk/nisi/2007/916): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bb386401faea002bf8c3be9a541cd130]: Modification: [Order](https://www.legislation.gov.uk/nisi/2007/916): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. References to regulations made by Treasury[^key-a8cbfdf4f1153b2f9889f9a19b0757b9]
+## 183. References to regulations made by Treasury[^c-a8cbfdf4f1153b2f9889f9a19b0757b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8cbfdf4f1153b2f9889f9a19b0757b9]: Textual amendment: [Art. 183](https://www.legislation.gov.uk/uksi/2001/3649/article/183) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a8cbfdf4f1153b2f9889f9a19b0757b9]: Textual amendment: [Art. 183](https://www.legislation.gov.uk/uksi/2001/3649/article/183) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

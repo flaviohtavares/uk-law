@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Statutory undertakers[^key-7dc1748a1b7aa8883923f346d6ea5b47]
+## 40. Statutory undertakers[^c-7dc1748a1b7aa8883923f346d6ea5b47]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Subject to the provisions of Schedule 9 (protective provisions), the undertaker 
 
 ## Annotations
 
-[^key-7dc1748a1b7aa8883923f346d6ea5b47]: Commencement: Art. 40 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-7dc1748a1b7aa8883923f346d6ea5b47]: Commencement: Art. 40 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

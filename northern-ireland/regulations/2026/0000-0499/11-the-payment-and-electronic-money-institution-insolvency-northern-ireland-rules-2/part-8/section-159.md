@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Interest in property to be declared on request[^key-902296aebe37b1e9dbc9bcc16958ae0c]
+## 159. Interest in property to be declared on request[^c-902296aebe37b1e9dbc9bcc16958ae0c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-902296aebe37b1e9dbc9bcc16958ae0c]: Commencement: [Rule 159](https://www.legislation.gov.uk/nisr/2026/11/rule/159) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-902296aebe37b1e9dbc9bcc16958ae0c]: Commencement: [Rule 159](https://www.legislation.gov.uk/nisr/2026/11/rule/159) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

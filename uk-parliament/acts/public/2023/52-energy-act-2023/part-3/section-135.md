@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Applications for grant etc of gas transporter licence[^key-c67a61bedf7456baddd2d6221dba04e8]
+## 135. Applications for grant etc of gas transporter licence[^c-c67a61bedf7456baddd2d6221dba04e8]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c67a61bedf7456baddd2d6221dba04e8]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2023/52/section/135) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-c67a61bedf7456baddd2d6221dba04e8]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2023/52/section/135) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

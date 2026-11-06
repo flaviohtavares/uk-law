@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Inquiries[^key-96704484e8eea0b899e9428574df2988]
+## 183. Inquiries[^c-96704484e8eea0b899e9428574df2988]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96704484e8eea0b899e9428574df2988]: Commencement: [S. 183](https://www.legislation.gov.uk/anaw/2016/2/section/183) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(i)](https://www.legislation.gov.uk/wsi/2017/309/article/2/i) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-96704484e8eea0b899e9428574df2988]: Commencement: [S. 183](https://www.legislation.gov.uk/anaw/2016/2/section/183) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(i)](https://www.legislation.gov.uk/wsi/2017/309/article/2/i) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

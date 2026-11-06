@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Assistance to voluntary organisations.[^key-6d9ed5dc94d465d9743e48f8c1144671][^key-046ff196cf20fcbfdda9dbc11f657411][^c14159981]
+## 16. Assistance to voluntary organisations.[^c-6d9ed5dc94d465d9743e48f8c1144671][^c-046ff196cf20fcbfdda9dbc11f657411][^c14159981]
 
 *Extent: S*
 
@@ -28,9 +28,9 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9ed5dc94d465d9743e48f8c1144671]: Modification: S. 16: functions made exercisable (1.4.2026) by [S.S.I. 2008/312](https://www.legislation.gov.uk/ssi/2008/312), [art. 2(aa)](https://www.legislation.gov.uk/ssi/2008/312/article/2/aa) (as inserted by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/20/article/2/2/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6)))
+[^c-6d9ed5dc94d465d9743e48f8c1144671]: Modification: S. 16: functions made exercisable (1.4.2026) by [S.S.I. 2008/312](https://www.legislation.gov.uk/ssi/2008/312), [art. 2(aa)](https://www.legislation.gov.uk/ssi/2008/312/article/2/aa) (as inserted by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/20/article/2/2/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6)))
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c14159981]: Modification: S. 16: by [S.I. 1990/2639](https://www.legislation.gov.uk/uksi/1990/2639), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/1990/2639/article/4/2/a) certain functions of the Secretary of State under s. 16 are made exercisable (1.4.1991) by the Health Education Board for Scotland
 

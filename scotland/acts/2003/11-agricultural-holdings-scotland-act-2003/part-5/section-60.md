@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Agreements as to fixed equipment[^key-0f7972a24cb95bc0bc12dbc6a57bff29]
+## 60. Agreements as to fixed equipment[^c-0f7972a24cb95bc0bc12dbc6a57bff29]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ In section 5 (fixed equipment and insurance premiums) of the 1991 Act—
 
 ## Annotations
 
-[^key-0f7972a24cb95bc0bc12dbc6a57bff29]: Commencement: S. 60 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-0f7972a24cb95bc0bc12dbc6a57bff29]: Commencement: S. 60 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Appeal against decision on registration or removal[^key-bc2b5672f07a27008fdfbe0f5d1c187c]
+## 29. Appeal against decision on registration or removal[^c-bc2b5672f07a27008fdfbe0f5d1c187c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ and the Court's determination of the matter is final.
 
 ## Annotations
 
-[^key-bc2b5672f07a27008fdfbe0f5d1c187c]: Commencement: S. 29 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-bc2b5672f07a27008fdfbe0f5d1c187c]: Commencement: S. 29 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

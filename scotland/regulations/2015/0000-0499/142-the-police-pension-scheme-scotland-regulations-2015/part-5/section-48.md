@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Receipt of a club transfer value payment[^key-5ab49b0aad68f4632e587df0d6118626]
+## 48. Receipt of a club transfer value payment[^c-5ab49b0aad68f4632e587df0d6118626]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ab49b0aad68f4632e587df0d6118626]: Commencement: Reg. 48 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-5ab49b0aad68f4632e587df0d6118626]: Commencement: Reg. 48 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

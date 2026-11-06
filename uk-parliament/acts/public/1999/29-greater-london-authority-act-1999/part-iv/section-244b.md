@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244B. Powers of authorised persons[^key-338ea157a3edff5a208e318ce39b22fa]
+## 244B. Powers of authorised persons[^c-338ea157a3edff5a208e318ce39b22fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-338ea157a3edff5a208e318ce39b22fa]: Textual amendment: Pt. 4 Ch. 8A inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 29](https://www.legislation.gov.uk/ukpga/2025/24/section/29), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/c)
+[^c-338ea157a3edff5a208e318ce39b22fa]: Textual amendment: Pt. 4 Ch. 8A inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 29](https://www.legislation.gov.uk/ukpga/2025/24/section/29), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/c)

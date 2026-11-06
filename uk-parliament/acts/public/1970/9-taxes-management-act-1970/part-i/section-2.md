@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. General Commissioners[^key-4eb1c48de849545142e44c761d024d4d]
+## 2. General Commissioners[^c-4eb1c48de849545142e44c761d024d4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eb1c48de849545142e44c761d024d4d]: Textual amendment: S. 2 repealed (1.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/1/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 6(b)(c)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/b/c)[(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2696/article/4)) (as amended (1.4.2009) by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), arts. 1, 6, Sch. 2 para. 11(6))
+[^c-4eb1c48de849545142e44c761d024d4d]: Textual amendment: S. 2 repealed (1.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/1/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 6(b)(c)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/b/c)[(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2696/article/4)) (as amended (1.4.2009) by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), arts. 1, 6, Sch. 2 para. 11(6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Vape-free places in Northern Ireland[^key-38f8989543885154c1bc63787b0a3a8e]
+## 161. Vape-free places in Northern Ireland[^c-38f8989543885154c1bc63787b0a3a8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -140,4 +140,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f8989543885154c1bc63787b0a3a8e]: Commencement: S. 161 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-38f8989543885154c1bc63787b0a3a8e]: Commencement: S. 161 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)

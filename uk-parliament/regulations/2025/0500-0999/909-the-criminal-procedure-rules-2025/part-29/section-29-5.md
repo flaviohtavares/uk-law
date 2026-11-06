@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.5. Application for declaration about a course or programme certificate decision[^key-9ad665bb423c2f66c39fc952333c5f6d]
+## 29.5. Application for declaration about a course or programme certificate decision[^c-9ad665bb423c2f66c39fc952333c5f6d]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad665bb423c2f66c39fc952333c5f6d]: Commencement: [Rule 29.5](https://www.legislation.gov.uk/uksi/2025/909/rule/29.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9ad665bb423c2f66c39fc952333c5f6d]: Commencement: [Rule 29.5](https://www.legislation.gov.uk/uksi/2025/909/rule/29.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00714]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 30A is inserted by section 34(1) and (3) of the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), with effect from a date to be appointed. Section 34A was substituted by section 35 of the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49) and temporarily modified by section 177(1) and (2) of, and paragraphs 30 and 31 of Schedule 22 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25). It is further amended by paragraph 90(1) and (3) of Schedule 21 to the 2009 Act with effect from a date to be appointed. Section 34D was inserted by section 15(1) of the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49). It is amended by section 177(1) of, and paragraph 90(1) and (5) of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), with effect from a date to be appointed.
 

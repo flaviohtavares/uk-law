@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Prohibition of unfair commercial practices[^key-419b9226a7d5139201cb50ccfea2ae9c][^key-f41e07ee39b28f7deb0cc9cdde1d2d74]
+## 225. Prohibition of unfair commercial practices[^c-419b9226a7d5139201cb50ccfea2ae9c][^c-f41e07ee39b28f7deb0cc9cdde1d2d74]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ is prohibited.
 
 ## Annotations
 
-[^key-419b9226a7d5139201cb50ccfea2ae9c]: Commencement: S. 225 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-419b9226a7d5139201cb50ccfea2ae9c]: Commencement: S. 225 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f41e07ee39b28f7deb0cc9cdde1d2d74]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2024/13/section/225) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-f41e07ee39b28f7deb0cc9cdde1d2d74]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2024/13/section/225) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

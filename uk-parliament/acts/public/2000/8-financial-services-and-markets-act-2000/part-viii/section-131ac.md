@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131AC. Meaning of “persons closely associated” in the market abuse regulation[^key-61863ad5120815a9eb4821ea7c4cf57e]
+## 131AC. Meaning of “persons closely associated” in the market abuse regulation[^c-61863ad5120815a9eb4821ea7c4cf57e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61863ad5120815a9eb4821ea7c4cf57e]: Textual amendment: Ss. 131AA-131AE inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(15)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/15)
+[^c-61863ad5120815a9eb4821ea7c4cf57e]: Textual amendment: Ss. 131AA-131AE inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(15)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/15)

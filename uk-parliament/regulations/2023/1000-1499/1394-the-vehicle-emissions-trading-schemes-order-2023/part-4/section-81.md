@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Power of administrator to require information from participants and SPV manufacturers[^key-5f69f7b180e93a4ce718854e7945e565]
+## 81. Power of administrator to require information from participants and SPV manufacturers[^c-5f69f7b180e93a4ce718854e7945e565]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f69f7b180e93a4ce718854e7945e565]: Commencement: Art. 81 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-5f69f7b180e93a4ce718854e7945e565]: Commencement: Art. 81 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

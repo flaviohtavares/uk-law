@@ -46,11 +46,11 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred upon them by sections 426 and 428(3) of the Financial Services and Markets Act 2000[^f00001] make the following Order:
 
-## 1. Citation and commencement[^key-4e3d19805dfc2094efa7ae83f4a84be8]
+## 1. Citation and commencement[^c-4e3d19805dfc2094efa7ae83f4a84be8]
 
 This Order may be cited as the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2005 and comes into force on 16th November 2005.
 
-## 2. Variation of consumer credit regulated agreements[^key-6012decc0b32efb1255baefea86bc2ed]
+## 2. Variation of consumer credit regulated agreements[^c-6012decc0b32efb1255baefea86bc2ed]
 
 (1) Section 82 of the Consumer Credit Act 1974[^f00002] (variation of agreements) is amended as follows.
 
@@ -76,7 +76,7 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Conseque
 
 .
 
-## 3. Exception from ancillary credit business[^key-5a8bbb5b3fa63f583e09030a9bb66fcb]
+## 3. Exception from ancillary credit business[^c-5a8bbb5b3fa63f583e09030a9bb66fcb]
 
 In subsection (5D) of section 146 of the Consumer Credit Act 1974[^f00003] (exceptions from section 145), in the definition of “relevant agreement” for “a consumer credit” substitute “an”.
 
@@ -98,12 +98,12 @@ It also amends section 146, which sets out certain activities that are excluded 
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-4e3d19805dfc2094efa7ae83f4a84be8]: Commencement: Art. 1 in force at 16.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2967/article/1)
+[^c-4e3d19805dfc2094efa7ae83f4a84be8]: Commencement: Art. 1 in force at 16.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2967/article/1)
 
-[^key-6012decc0b32efb1255baefea86bc2ed]: Commencement: Art. 2 in force at 16.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2967/article/1)
+[^c-6012decc0b32efb1255baefea86bc2ed]: Commencement: Art. 2 in force at 16.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2967/article/1)
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39)
 
-[^key-5a8bbb5b3fa63f583e09030a9bb66fcb]: Commencement: Art. 3 in force at 16.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2967/article/1)
+[^c-5a8bbb5b3fa63f583e09030a9bb66fcb]: Commencement: Art. 3 in force at 16.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2967/article/1)
 
 [^f00003]: Footnote: Subsection (5D) was inserted by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475), article 21(2).

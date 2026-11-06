@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Mines (Substances Hazardous to Health) Regulations (Northern Ireland) 1998 (revoked)[^key-9bbcce058cb5997a14654c5cd03b1d73]
+Mines (Substances Hazardous to Health) Regulations (Northern Ireland) 1998 (revoked)[^c-9bbcce058cb5997a14654c5cd03b1d73]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 14th April 1998
 
-[^key-9bbcce058cb5997a14654c5cd03b1d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bbcce058cb5997a14654c5cd03b1d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9bbcce058cb5997a14654c5cd03b1d73]
+## 1. Citation and commencement[^c-9bbcce058cb5997a14654c5cd03b1d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Control of Substances Hazardous to Health Regulations (Northern Ireland) 1995[^key-9bbcce058cb5997a14654c5cd03b1d73]
+## 2. Amendment of the Control of Substances Hazardous to Health Regulations (Northern Ireland) 1995[^c-9bbcce058cb5997a14654c5cd03b1d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to section 74 of the Mines Act (Northern Ireland) 1969[^key-9bbcce058cb5997a14654c5cd03b1d73]
+## 3. Amendment to section 74 of the Mines Act (Northern Ireland) 1969[^c-9bbcce058cb5997a14654c5cd03b1d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bbcce058cb5997a14654c5cd03b1d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bbcce058cb5997a14654c5cd03b1d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9bbcce058cb5997a14654c5cd03b1d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bbcce058cb5997a14654c5cd03b1d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bbcce058cb5997a14654c5cd03b1d73]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/67) revoked (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/427/schedule/4/part/1)
+[^c-9bbcce058cb5997a14654c5cd03b1d73]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/67) revoked (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/427/schedule/4/part/1)

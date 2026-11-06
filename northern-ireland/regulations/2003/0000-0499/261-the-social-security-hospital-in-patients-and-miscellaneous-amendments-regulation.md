@@ -41,7 +41,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development, in exercise of the powers conferred by Article 48(4) of, and paragraph 5(a) of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], sections 122(1)(a) and (d), 129(4), 131(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], sections 71(1)(b) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and Articles 6(5) and 36(2)(a) of the Jobseekers (Northern Ireland) Order 1995[^f00004], and now vested in it[^f00005], and sections 2(3) and (6), 13(1) and 19(1) to (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00006] and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00007] in so far as regulation 4 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00008], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-14f0bd9fc04886092a6acd1f8f1ac184][^key-14f0bd9fc04886092a6acd1f8f1ac184]
+## 1. Citation and commencement[^c-14f0bd9fc04886092a6acd1f8f1ac184][^c-14f0bd9fc04886092a6acd1f8f1ac184]
 
 These Regulations may be cited as the Social Security (Hospital In-Patients and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation for the purposes of –
 
@@ -54,11 +54,11 @@ These Regulations may be cited as the Social Security (Hospital In-Patients and 
 - (e) regulation 4(2), on 6th October 2003; and
 - (f) regulation 5, in so far as it relates to a beneficiary paid in advance, on the first day of the first benefit week to commence for that beneficiary on or after 21st May 2003, but otherwise on the first day of the benefit week which includes that date, and for the purpose of this paragraph “benefit week” has the same meaning as in the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011].
 
-## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-9518dc1e09f13b8ca6ac04dccdbdb0de]
+## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^c-9518dc1e09f13b8ca6ac04dccdbdb0de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Income Support (General) Regulations[^key-1dd217324f15906b5f4643caf8dc89d3]
+## 3. Amendment of the Income Support (General) Regulations[^c-1dd217324f15906b5f4643caf8dc89d3]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00021] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -70,18 +70,18 @@ These Regulations may be cited as the Social Security (Hospital In-Patients and 
 
 (5) In Schedule 7 (applicable amounts in special cases) –
 
-- (a)[^key-c561e38f74d944e9d44b607afd3542a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c561e38f74d944e9d44b607afd3542a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 13[^f00026] (persons in residential accommodation) –
   - (i) in sub-paragraph (1) the words “Subject to sub-paragraph (2),”, and
   - (ii) sub-paragraph (2),
 
   shall be omitted.
 
-## 4. Amendment of the Housing Benefit (General) Regulations[^key-9c597d4ab70f6eb17b8a00a6c489fb0b]
+## 4. Amendment of the Housing Benefit (General) Regulations[^c-9c597d4ab70f6eb17b8a00a6c489fb0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-9fde7b3d919e51067d9c3b62146762a5][^key-9fde7b3d919e51067d9c3b62146762a5]
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^c-9fde7b3d919e51067d9c3b62146762a5][^c-9fde7b3d919e51067d9c3b62146762a5]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00032] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -93,40 +93,40 @@ These Regulations may be cited as the Social Security (Hospital In-Patients and 
 
 (5) In Schedule 4 (applicable amounts in special cases) –
 
-- (a)[^key-37afa99aebad2b65da36a46da89c3e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-37afa99aebad2b65da36a46da89c3e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 15 (persons in residential accommodation) –
   - (i) in sub-paragraph (1) the words “Subject to sub-paragraph (2),”, and
   - (ii) sub-paragraph (2),
 
   shall be omitted.
 
-(6)[^key-431c22090b76c3f1158e67ccc389e961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-431c22090b76c3f1158e67ccc389e961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^key-10b8f233b13d636c363d2228efef3235]
+## 6. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^c-10b8f233b13d636c363d2228efef3235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the State Pension Credit Regulations[^key-44e72bde2294bc331705c4737059fcfd][^key-44e72bde2294bc331705c4737059fcfd]
+## 7. Amendment of the State Pension Credit Regulations[^c-44e72bde2294bc331705c4737059fcfd][^c-44e72bde2294bc331705c4737059fcfd]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00038] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In paragraph 14(7)(e) of Schedule 2 (housing costs) for “13 weeks”, in both places where it occurs, there shall be substituted “52 weeks”.
 
-(3)[^key-6fbd0eda58f2c50eae73c56eae772bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6fbd0eda58f2c50eae73c56eae772bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations[^key-ac1900a266481aaa6e93bc2793805e5e][^key-ac1900a266481aaa6e93bc2793805e5e]
+## 8. Amendment of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations[^c-ac1900a266481aaa6e93bc2793805e5e][^c-ac1900a266481aaa6e93bc2793805e5e]
 
 In regulation 34 of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003[^f00039] (persons entitled to income support immediately before the appointed day) paragraphs (15) to (19) shall be omitted.
 
-## 9. Amendment of the Housing Benefit (State Pension Credit) Regulations[^key-830bc17b8d943acbec8ccd4fefdfc4ab]
+## 9. Amendment of the Housing Benefit (State Pension Credit) Regulations[^c-830bc17b8d943acbec8ccd4fefdfc4ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocations[^key-19ade453af665b6ac1af94ba19df3199][^key-de70fa5c8f57dbb423ed362002a19f0d][^key-19ade453af665b6ac1af94ba19df3199][^key-de70fa5c8f57dbb423ed362002a19f0d]
+## 10. Revocations[^c-19ade453af665b6ac1af94ba19df3199][^c-de70fa5c8f57dbb423ed362002a19f0d][^c-19ade453af665b6ac1af94ba19df3199][^c-de70fa5c8f57dbb423ed362002a19f0d]
 
-(1)[^key-19ade453af665b6ac1af94ba19df3199] The regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
+(1)[^c-19ade453af665b6ac1af94ba19df3199] The regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
-(2)[^key-de70fa5c8f57dbb423ed362002a19f0d] Regulation 19(k)(ii) of the Income Support (General) (Amendment) Regulations (Northern Ireland) 1990[^f00041] is hereby revoked.
+(2)[^c-de70fa5c8f57dbb423ed362002a19f0d] Regulation 19(k)(ii) of the Income Support (General) (Amendment) Regulations (Northern Ireland) 1990[^f00041] is hereby revoked.
 
 Sealed with the Official Seal of the Department for Social Development on 1st May 2003.
 
@@ -146,7 +146,7 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — REGULATIONS REVOKED[^key-863df278beb22fb2af646516c6c26ba9][^key-863df278beb22fb2af646516c6c26ba9]
+## SCHEDULE — REGULATIONS REVOKED[^c-863df278beb22fb2af646516c6c26ba9][^c-863df278beb22fb2af646516c6c26ba9]
 
 Regulation 10(1)
 
@@ -197,7 +197,7 @@ These Regulations do not impose a charge on business.
 
 [^f00008]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-14f0bd9fc04886092a6acd1f8f1ac184]: Commencement: Reg. 1 in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
+[^c-14f0bd9fc04886092a6acd1f8f1ac184]: Commencement: Reg. 1 in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
 
 [^f00009]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108)
 
@@ -205,9 +205,9 @@ These Regulations do not impose a charge on business.
 
 [^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); the definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(a) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
 
-[^key-9518dc1e09f13b8ca6ac04dccdbdb0de]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/261/regulation/2) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-9518dc1e09f13b8ca6ac04dccdbdb0de]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/261/regulation/2) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-1dd217324f15906b5f4643caf8dc89d3]: Commencement: Reg. 3 comes into force in accordance with reg. 1(c)
+[^c-1dd217324f15906b5f4643caf8dc89d3]: Commencement: Reg. 3 comes into force in accordance with reg. 1(c)
 
 [^f00021]: Footnote: Relevant amending regulations are [S.R. 1988 Nos. 318](https://www.legislation.gov.uk/nisr/1998/318) and [431](https://www.legislation.gov.uk/nisr/1998/431), [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367) and [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
@@ -217,13 +217,13 @@ These Regulations do not impose a charge on business.
 
 [^f00024]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
 
-[^key-c561e38f74d944e9d44b607afd3542a3]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/3/5/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-c561e38f74d944e9d44b607afd3542a3]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/3/5/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
 [^f00026]: Footnote: Paragraph 13 was amended by regulation 22(d) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 19(k) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131) and paragraph 1(6)(a) of Schedule 1 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
-[^key-9c597d4ab70f6eb17b8a00a6c489fb0b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/261/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-9c597d4ab70f6eb17b8a00a6c489fb0b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/261/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-9fde7b3d919e51067d9c3b62146762a5]: Commencement: Reg. 5 comes into force in accordance with reg. 1(f)
+[^c-9fde7b3d919e51067d9c3b62146762a5]: Commencement: Reg. 5 comes into force in accordance with reg. 1(f)
 
 [^f00032]: Footnote: Relevant amending regulations are [S.R. 2000 Nos. 350](https://www.legislation.gov.uk/nisr/2000/350) and [367](https://www.legislation.gov.uk/nisr/2000/367) and [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
@@ -231,28 +231,28 @@ These Regulations do not impose a charge on business.
 
 [^f00034]: Footnote: Paragraphs 15A and 20IA were inserted respectively by regulation 4(c)(ii) and (v) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367)
 
-[^key-37afa99aebad2b65da36a46da89c3e88]: Textual amendment: [Reg. 5(5)(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/5/5/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-37afa99aebad2b65da36a46da89c3e88]: Textual amendment: [Reg. 5(5)(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/5/5/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-431c22090b76c3f1158e67ccc389e961]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2003/261/regulation/5/6) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-431c22090b76c3f1158e67ccc389e961]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2003/261/regulation/5/6) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-10b8f233b13d636c363d2228efef3235]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/261/regulation/6) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
+[^c-10b8f233b13d636c363d2228efef3235]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/261/regulation/6) revoked (6.4.2009) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/133)](https://www.legislation.gov.uk/nisr/2009/133), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/133/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/133/schedule/2)
 
-[^key-44e72bde2294bc331705c4737059fcfd]: Commencement: Reg. 7 in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
+[^c-44e72bde2294bc331705c4737059fcfd]: Commencement: Reg. 7 in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
 
 [^f00038]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28)
 
-[^key-6fbd0eda58f2c50eae73c56eae772bb8]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2003/261/regulation/7/3) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-6fbd0eda58f2c50eae73c56eae772bb8]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2003/261/regulation/7/3) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-ac1900a266481aaa6e93bc2793805e5e]: Commencement: Reg. 8 in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
+[^c-ac1900a266481aaa6e93bc2793805e5e]: Commencement: Reg. 8 in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
 
 [^f00039]: Footnote: [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-830bc17b8d943acbec8ccd4fefdfc4ab]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/261/regulation/9) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-830bc17b8d943acbec8ccd4fefdfc4ab]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/261/regulation/9) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-19ade453af665b6ac1af94ba19df3199]: Commencement: Reg. 10(1) in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
+[^c-19ade453af665b6ac1af94ba19df3199]: Commencement: Reg. 10(1) in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
 
-[^key-de70fa5c8f57dbb423ed362002a19f0d]: Commencement: Reg. 10(2) comes into force in accordance with reg. 1(c)
+[^c-de70fa5c8f57dbb423ed362002a19f0d]: Commencement: Reg. 10(2) comes into force in accordance with reg. 1(c)
 
 [^f00041]: Footnote: [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
 
-[^key-863df278beb22fb2af646516c6c26ba9]: Commencement: Sch. in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)
+[^c-863df278beb22fb2af646516c6c26ba9]: Commencement: Sch. in operation at 21.5.2003, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a)

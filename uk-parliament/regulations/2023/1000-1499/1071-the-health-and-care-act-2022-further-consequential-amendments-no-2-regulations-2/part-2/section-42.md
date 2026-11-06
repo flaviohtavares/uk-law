@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendment of the National Health Service (Functions of the First-tier Tribunal relating to Primary Medical, Dental and Ophthalmic Services) Regulations 2010[^key-5da05daeb1739fa7b4989d8af76f73fc]
+## 42. Amendment of the National Health Service (Functions of the First-tier Tribunal relating to Primary Medical, Dental and Ophthalmic Services) Regulations 2010[^c-5da05daeb1739fa7b4989d8af76f73fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5da05daeb1739fa7b4989d8af76f73fc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2023/1071/regulation/42) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-5da05daeb1739fa7b4989d8af76f73fc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2023/1071/regulation/42) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 2010/76](https://www.legislation.gov.uk/uksi/2010/76), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

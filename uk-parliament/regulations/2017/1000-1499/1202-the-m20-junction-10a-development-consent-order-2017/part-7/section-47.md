@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Traffic regulation[^key-527bb1642016b3c57f14a267b4c5e9a9]
+## 47. Traffic regulation[^c-527bb1642016b3c57f14a267b4c5e9a9]
 
 *Extent: E+W+S*
 
@@ -68,7 +68,7 @@ Signed by authority of the Secretary of State for Transport
 
 ## Annotations
 
-[^key-527bb1642016b3c57f14a267b4c5e9a9]: Commencement: Art. 47 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-527bb1642016b3c57f14a267b4c5e9a9]: Commencement: Art. 47 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
 [^f00062]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the 1991 Act.
 

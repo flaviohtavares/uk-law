@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Court Martial sentencing powers[^key-35381bd3d88aa543f7f8e9085a5c7748]
+## SCHEDULE 1 — Court Martial sentencing powers[^c-35381bd3d88aa543f7f8e9085a5c7748]
 
 *Extent: E+W+S+N.I.*
 
@@ -245,4 +245,4 @@ Section 14
 
 ## Annotations
 
-[^key-35381bd3d88aa543f7f8e9085a5c7748]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/1) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b) (with [arts. 10-12](https://www.legislation.gov.uk/uksi/2012/669/article/10))
+[^c-35381bd3d88aa543f7f8e9085a5c7748]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/1) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b) (with [arts. 10-12](https://www.legislation.gov.uk/uksi/2012/669/article/10))

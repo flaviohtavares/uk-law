@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Transport of charcoal[^key-771529b5b1ca363887c4dfa543a2eb75]
+## 39. Transport of charcoal[^c-771529b5b1ca363887c4dfa543a2eb75]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-771529b5b1ca363887c4dfa543a2eb75]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-771529b5b1ca363887c4dfa543a2eb75]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

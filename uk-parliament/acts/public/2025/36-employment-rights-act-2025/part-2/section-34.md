@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Provision of information relating to outsourced workers[^key-73b1d3bca44912264a985c659d0745e7]
+## 34. Provision of information relating to outsourced workers[^c-73b1d3bca44912264a985c659d0745e7]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73b1d3bca44912264a985c659d0745e7]: Commencement: S. 34 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-73b1d3bca44912264a985c659d0745e7]: Commencement: S. 34 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

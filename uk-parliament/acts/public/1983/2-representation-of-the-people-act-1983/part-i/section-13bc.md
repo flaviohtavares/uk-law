@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13BC. Alteration of registers: recall petition[^key-31926116925439f4903938a5f620cd59]
+## 13BC. Alteration of registers: recall petition[^c-31926116925439f4903938a5f620cd59]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ the registration officer remains under that duty to issue the notice at the time
 
 ## Annotations
 
-[^key-31926116925439f4903938a5f620cd59]: Textual amendment: S. 13BC inserted (26.3.2015 for specified purposes, 4.3.2016 in so far as not already in force) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(2)(c)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/c), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/7); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-31926116925439f4903938a5f620cd59]: Textual amendment: S. 13BC inserted (26.3.2015 for specified purposes, 4.3.2016 in so far as not already in force) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(2)(c)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/c), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/7); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

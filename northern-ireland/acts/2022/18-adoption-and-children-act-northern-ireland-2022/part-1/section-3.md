@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Adoption authority[^key-c7ebec2f24a9d29c43ab1d8eb8f687f1]
+## 3. Adoption authority[^c-c7ebec2f24a9d29c43ab1d8eb8f687f1]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ebec2f24a9d29c43ab1d8eb8f687f1]: Commencement: S. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c7ebec2f24a9d29c43ab1d8eb8f687f1]: Commencement: S. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

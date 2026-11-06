@@ -48,7 +48,7 @@ summary: ''
 
 (8) Nothing in this Article applies to any person—
 
-- (a) arrested or detained under the terrorism provisions or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-99dfaff25b049c1e529e120651915df4];
+- (a) arrested or detained under the terrorism provisions or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-99dfaff25b049c1e529e120651915df4];
 - (b) arrested under an extradition arrest power.
 
 ## Annotations
@@ -59,4 +59,4 @@ summary: ''
 
 [^c20423961]: Textual amendment: Art. 61A inserted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [31](https://www.legislation.gov.uk/nisi/2007/288/article/31)
 
-[^key-99dfaff25b049c1e529e120651915df4]: Textual amendment: Words in art. 61A(8)(a) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 20(6)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/6); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-99dfaff25b049c1e529e120651915df4]: Textual amendment: Words in art. 61A(8)(a) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 20(6)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/6); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)

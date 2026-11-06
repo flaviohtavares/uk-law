@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**21.**[^key-7dfa918de7db9241583d15dc934546ef] (1) Section 122 (power to grant widows' and children’s pensions) is amended as follows.
+**21.**[^c-7dfa918de7db9241583d15dc934546ef] (1) Section 122 (power to grant widows' and children’s pensions) is amended as follows.
 
 (2) For the heading substitute “Power to grant widows', surviving civil partners' and children’s pensions”.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7dfa918de7db9241583d15dc934546ef]: Commencement: Art. 21 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-7dfa918de7db9241583d15dc934546ef]: Commencement: Art. 21 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00009]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).

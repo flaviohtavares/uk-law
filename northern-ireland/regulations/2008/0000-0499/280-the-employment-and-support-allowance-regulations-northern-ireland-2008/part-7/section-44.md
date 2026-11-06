@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Claimants who are treated as not entitled to any allowance at all by reason of regulation 40(1) are to be treated as not having limited capability for work[^key-43a11a2e0cca95a71db0a2bfd5816a0a]
+## 44. Claimants who are treated as not entitled to any allowance at all by reason of regulation 40(1) are to be treated as not having limited capability for work[^c-43a11a2e0cca95a71db0a2bfd5816a0a]
 
 *Extent: N.I.*
 
 (1) Where a claimant is treated as not entitled to an employment and support allowance by reason of regulation 40(1), subject to paragraph (2), the claimant is to be treated as not having limited capability for work.
 
-(2)[^key-7b65504328b2651783b97c4d3b7e0b38] Paragraph (1) does not apply where the claimant remains entitled to a contributory allowance, but is not entitled to an income-related allowance by reason of regulation 40(1).
+(2)[^c-7b65504328b2651783b97c4d3b7e0b38] Paragraph (1) does not apply where the claimant remains entitled to a contributory allowance, but is not entitled to an income-related allowance by reason of regulation 40(1).
 
-(2)[^key-c85b274cdef388863bb8e3826afe27ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c85b274cdef388863bb8e3826afe27ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Paragraph (1) applies even if—
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-43a11a2e0cca95a71db0a2bfd5816a0a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2008/280/regulation/44) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-43a11a2e0cca95a71db0a2bfd5816a0a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2008/280/regulation/44) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-7b65504328b2651783b97c4d3b7e0b38]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/44/2) inserted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2012/121/regulation/18/4)
+[^c-7b65504328b2651783b97c4d3b7e0b38]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/44/2) inserted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2012/121/regulation/18/4)
 
-[^key-c85b274cdef388863bb8e3826afe27ec]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/44/2) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)
+[^c-c85b274cdef388863bb8e3826afe27ec]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/44/2) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/357/schedule)

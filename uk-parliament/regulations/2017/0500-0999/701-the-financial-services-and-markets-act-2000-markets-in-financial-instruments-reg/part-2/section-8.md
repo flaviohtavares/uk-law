@@ -25,8 +25,8 @@ In this Chapter “**exempt investment firm**” means an authorised person who�
 - (a) is an investment firm; and
 - (b) has a Part 4A permission;
 
-but to whom the appropriate regulator has granted exemption from authorisation and operating conditions which usually apply to investment firms.[^key-53d445abaf6a3fa1ccf0be10a8255fa1]
+but to whom the appropriate regulator has granted exemption from authorisation and operating conditions which usually apply to investment firms.[^c-53d445abaf6a3fa1ccf0be10a8255fa1]
 
 ## Annotations
 
-[^key-53d445abaf6a3fa1ccf0be10a8255fa1]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2017/701/regulation/8) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/8/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53d445abaf6a3fa1ccf0be10a8255fa1]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2017/701/regulation/8) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/8/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

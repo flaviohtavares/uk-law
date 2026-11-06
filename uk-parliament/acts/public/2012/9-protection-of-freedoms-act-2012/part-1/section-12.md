@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Material obtained for one purpose and used for another[^key-b650cd947a3d77b5f2a6d9789ad729cf]
+## 12. Material obtained for one purpose and used for another[^c-b650cd947a3d77b5f2a6d9789ad729cf]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After section 63O of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-b650cd947a3d77b5f2a6d9789ad729cf]: Commencement: S. 12 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-b650cd947a3d77b5f2a6d9789ad729cf]: Commencement: S. 12 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

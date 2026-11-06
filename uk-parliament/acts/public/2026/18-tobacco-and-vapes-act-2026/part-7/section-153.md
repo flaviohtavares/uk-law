@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Smoke-free places and vehicles in Wales: duty to consult[^key-4761947285faee88bb24843b784d1f18]
+## 153. Smoke-free places and vehicles in Wales: duty to consult[^c-4761947285faee88bb24843b784d1f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4761947285faee88bb24843b784d1f18]: Commencement: S. 153 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-4761947285faee88bb24843b784d1f18]: Commencement: S. 153 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A constable may arrest without warrant an accused who has been released on bail where the constable has reasonable grounds for suspecting that the accused has broken, is breaking, or is likely to break any condition imposed on his bail.
 
-(1ZA)[^key-ea76cb1d08b7385a675e5093dec1cbce] Where—
+(1ZA)[^c-ea76cb1d08b7385a675e5093dec1cbce] Where—
 
 - (a) a constable who is not in uniform arrests a person under subsection (1), and
 - (b) the person asks to see the constable's identification,
@@ -40,7 +40,7 @@ the constable must show identification to the person as soon as reasonably pract
 
 (3) Nothing in subsection (2) above shall prevent an accused being brought before a court on a Saturday, a Sunday or such a court holiday where the court is, in pursuance of the said section 8, sitting on such day for the disposal of criminal business.
 
-(3A)[^key-9050ba0cf301b910f957a629e9d88bc6] If—
+(3A)[^c-9050ba0cf301b910f957a629e9d88bc6] If—
 
 - (a) a person is in custody only by virtue of subsection (1) or (1A), and
 - (b) in the opinion of a constable there are no reasonable grounds for suspecting that the person has broken, or is likely to break, a condition imposed on the person's bail,
@@ -73,12 +73,12 @@ the person must be released from custody immediately.
 
 ## Annotations
 
-[^key-ea76cb1d08b7385a675e5093dec1cbce]: Textual amendment: S. 28(1ZA) inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 29(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/29/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-ea76cb1d08b7385a675e5093dec1cbce]: Textual amendment: S. 28(1ZA) inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 29(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/29/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c19794581]: Textual amendment: S. 28(1A)(1B) inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 3(2)(a)](https://www.legislation.gov.uk/asp/2007/6/section/3/2/a), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
 [^c19794601]: Textual amendment: Words in s. 28(2) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 3(2)(b)](https://www.legislation.gov.uk/asp/2007/6/section/3/2/b), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-9050ba0cf301b910f957a629e9d88bc6]: Textual amendment: S. 28(3A)(3B) inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 29(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/29/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-9050ba0cf301b910f957a629e9d88bc6]: Textual amendment: S. 28(3A)(3B) inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 29(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/29/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c18937741]: Textual amendment: S. 28(4A)(4B) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 25](https://www.legislation.gov.uk/asp/2004/5/section/25), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1), [Sch. para. 9](https://www.legislation.gov.uk/asp/2004/5/schedule/paragraph/9); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 PREVENTION OF CRUELTY
 
-Welfare of Animals (Slaughter or Killing) (Amendment) (Wales) Regulations 2007 (revoked)[^key-ef4f877570a4b412579bf280cc3bfbd0]
+Welfare of Animals (Slaughter or Killing) (Amendment) (Wales) Regulations 2007 (revoked)[^c-ef4f877570a4b412579bf280cc3bfbd0]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 12 September 2007
 
-[^key-ef4f877570a4b412579bf280cc3bfbd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef4f877570a4b412579bf280cc3bfbd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-ef4f877570a4b412579bf280cc3bfbd0]
+## 1. Citation, commencement and application[^c-ef4f877570a4b412579bf280cc3bfbd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^key-ef4f877570a4b412579bf280cc3bfbd0]
+## 2. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^c-ef4f877570a4b412579bf280cc3bfbd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef4f877570a4b412579bf280cc3bfbd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef4f877570a4b412579bf280cc3bfbd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef4f877570a4b412579bf280cc3bfbd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef4f877570a4b412579bf280cc3bfbd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef4f877570a4b412579bf280cc3bfbd0]: Textual amendment: Regulations revoked (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/wsi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c), [46(d)](https://www.legislation.gov.uk/wsi/2014/951/regulation/46/d)
+[^c-ef4f877570a4b412579bf280cc3bfbd0]: Textual amendment: Regulations revoked (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/wsi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c), [46(d)](https://www.legislation.gov.uk/wsi/2014/951/regulation/46/d)

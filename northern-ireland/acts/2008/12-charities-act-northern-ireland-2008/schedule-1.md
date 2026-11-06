@@ -178,7 +178,7 @@ Section 6(7).
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**13.**[^key-e9eb2ccf0232d701fccca901c00b9f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e9eb2ccf0232d701fccca901c00b9f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information Act 2000 (c. 36)
 
@@ -188,4 +188,4 @@ Section 6(7).
 
 [^M_F_680c502e-26ce-48bf-d4df-48bf9f1a586a]: Textual amendment: Sch. 1 para. 9A and cross-heading inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 2](https://www.legislation.gov.uk/nia/2022/11/section/2), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
 
-[^key-e9eb2ccf0232d701fccca901c00b9f69]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2008/12/schedule/1/paragraph/13) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-e9eb2ccf0232d701fccca901c00b9f69]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2008/12/schedule/1/paragraph/13) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

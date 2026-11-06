@@ -100,7 +100,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 *Art.11(1) rep. by 1984 NI 2; Art.11(2) adds s.3A to 1967 c.28 (NI)*
 
-## 12. Loans for purchase of land[^key-f26924d907b11874ba966023f9ab3c4e]
+## 12. Loans for purchase of land[^c-f26924d907b11874ba966023f9ab3c4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -114,4 +114,4 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c5457111]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/1984/ni3)
 
-[^key-f26924d907b11874ba966023f9ab3c4e]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/nisi/1975/1038/article/12) repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1), [Sch.](https://www.legislation.gov.uk/nia/2014/6/schedule)
+[^c-f26924d907b11874ba966023f9ab3c4e]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/nisi/1975/1038/article/12) repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1), [Sch.](https://www.legislation.gov.uk/nia/2014/6/schedule)

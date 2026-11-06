@@ -87,15 +87,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (d) he is engaged by the Secretary-General of the United Nations, a specialised agency or the International Atomic Energy Agency to carry out such activities, or
 - (e) he is deployed by a humanitarian non-governmental organisation or agency under an agreement with the Secretary-General of the United Nations, with a specialised agency or with the International Atomic Energy Agency to carry out such activities.
 
-(2) Subject to subsections (3) and (3A)[^key-c683c30dfee78843a69483299216c4ad], in this section “**UN operation**” means an operation—
+(2) Subject to subsections (3) and (3A)[^c-c683c30dfee78843a69483299216c4ad], in this section “**UN operation**” means an operation—
 
 - (a) which is established, in accordance with the Charter of the United Nations, by an organ of the United Nations,
 - (b) which is conducted under the authority and control of the United Nations, and
 - (c) which—
-  - (i) has as its purpose a purpose mentioned in subsection (2A)[^key-ac0225257814468b58e98e3552f63d00], or
+  - (i) has as its purpose a purpose mentioned in subsection (2A)[^c-ac0225257814468b58e98e3552f63d00], or
   - (ii) has, for the purposes of the Convention, been declared by the Security Council or the General Assembly of the United Nations to be an operation where there exists an exceptional risk to the safety of the participating personnel.
 
-(2A)[^key-de87370a20e209db06424016cddf94cb] The purposes referred to in subsection (2)(c)(i) are—
+(2A)[^c-de87370a20e209db06424016cddf94cb] The purposes referred to in subsection (2)(c)(i) are—
 
 - (a) maintaining or restoring international peace and security;
 - (b) delivering humanitarian, political or development assistance in peacebuilding;
@@ -107,12 +107,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (b) in which UN workers are engaged as combatants against organised armed forces, and
 - (c) to which the law of international armed conflict applies.
 
-(3A)[^key-0969109c08b097675110fcbbd757ebea] In this section “ UN operation” also does not include any operation in respect of which a declaration is made in accordance with Article II (3) of the Optional Protocol (opt-out for operation to deliver emergency humanitarian assistance in response to natural disaster).
+(3A)[^c-0969109c08b097675110fcbbd757ebea] In this section “ UN operation” also does not include any operation in respect of which a declaration is made in accordance with Article II (3) of the Optional Protocol (opt-out for operation to deliver emergency humanitarian assistance in response to natural disaster).
 
 (4) In this section—
 
 - “**the Convention**” means the Convention on the Safety of United Nations and Associated Personnel adopted by the General Assembly of the United Nations on 9th December 1994;
-- “[^key-1bfae018b928f596606ede310893729e]**the Optional Protocol**” means the Optional Protocol to the Convention adopted by the General Assembly of the United Nations on 8 December 2005; and
+- “[^c-1bfae018b928f596606ede310893729e]**the Optional Protocol**” means the Optional Protocol to the Convention adopted by the General Assembly of the United Nations on 8 December 2005; and
 - “ **specialised agency** ” has the meaning assigned to it by Article 57 of the Charter of the United Nations.
 
 (5) If, in any proceedings, a question arises as to whether—
@@ -124,18 +124,18 @@ a certificate issued by or under the authority of the Secretary of State and sta
 
 ## 5. Provisions supplementary to sections 1 to 3.[^c1303355]
 
-(1) Proceedings for an offence which (disregarding the provisions of the [^c1303356]Internationally Protected Persons Act 1978, the [^c1303357]Suppression of Terrorism Act 1978, the Nuclear Material (Offences) Act 1983 and the Terrorism Act 2000[^key-55340ecd56ae835fb1d298eabf8c8236]) would not be an offence apart from section 1, 2 or 3 above shall not be begun—
+(1) Proceedings for an offence which (disregarding the provisions of the [^c1303356]Internationally Protected Persons Act 1978, the [^c1303357]Suppression of Terrorism Act 1978, the Nuclear Material (Offences) Act 1983 and the Terrorism Act 2000[^c-55340ecd56ae835fb1d298eabf8c8236]) would not be an offence apart from section 1, 2 or 3 above shall not be begun—
 
 - (a) in England and Wales, except by or with the consent of the Attorney General;
 - (b) in Northern Ireland, except by or with the consent of the Attorney General for Northern Ireland.
 
-(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the [^c1303359]Internationally Protected Persons Act 1978, the [^c1303360]Suppression of Terrorism Act 1978, the Nuclear Material (Offences) Act 1983 and the Terrorism Act 2000[^key-cba1b2dfc8aebf5606dc2e37f50693d1]) would not be an offence in Scotland apart from section 1, 2 or 3 above.
+(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the [^c1303359]Internationally Protected Persons Act 1978, the [^c1303360]Suppression of Terrorism Act 1978, the Nuclear Material (Offences) Act 1983 and the Terrorism Act 2000[^c-cba1b2dfc8aebf5606dc2e37f50693d1]) would not be an offence in Scotland apart from section 1, 2 or 3 above.
 
 (3) A person is guilty of an offence under, or by virtue of, section 1, 2 or 3 regardless of his nationality.
 
 (4) For the purposes of those sections, it is immaterial whether a person knows that another person is a UN worker.
 
-## 6. Extradition.[^key-b20dae7b3c4f307d0fe164a3ae2a8397][^c1303362]
+## 6. Extradition.[^c-b20dae7b3c4f307d0fe164a3ae2a8397][^c1303362]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -154,7 +154,7 @@ In this Act—
 
 (1) This Act extends to Northern Ireland.
 
-(2)[^key-e6c98635ea7087455479570a8dfbf800] Her Majesty may by Order in Council make provision for extending any of the provisions of this Act, with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man or any colony.
+(2)[^c-e6c98635ea7087455479570a8dfbf800] Her Majesty may by Order in Council make provision for extending any of the provisions of this Act, with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man or any colony.
 
 ## 10. Short title and commencement.[^c1303367]
 
@@ -247,15 +247,15 @@ Section 7.
 
     S. 4 extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509) , [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
 
-[^key-c683c30dfee78843a69483299216c4ad]: Textual amendment: Words in s. 4(2) substituted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/2/a) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+[^c-c683c30dfee78843a69483299216c4ad]: Textual amendment: Words in s. 4(2) substituted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/2/a) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
 
-[^key-ac0225257814468b58e98e3552f63d00]: Textual amendment: Words in s. 4(2)(c)(i) substituted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/2/b) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+[^c-ac0225257814468b58e98e3552f63d00]: Textual amendment: Words in s. 4(2)(c)(i) substituted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/2/b) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
 
-[^key-de87370a20e209db06424016cddf94cb]: Textual amendment: S. 4(2A) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/3) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+[^c-de87370a20e209db06424016cddf94cb]: Textual amendment: S. 4(2A) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/3) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
 
-[^key-0969109c08b097675110fcbbd757ebea]: Textual amendment: S. 4(3A) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/4) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+[^c-0969109c08b097675110fcbbd757ebea]: Textual amendment: S. 4(3A) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/4) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
 
-[^key-1bfae018b928f596606ede310893729e]: Textual amendment: Words in s. 4(4) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/5) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+[^c-1bfae018b928f596606ede310893729e]: Textual amendment: Words in s. 4(4) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/5) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
 
 [^c1303355]: Modification: S. 5 extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
 
@@ -267,15 +267,15 @@ Section 7.
 
 [^c1303357]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
 
-[^key-55340ecd56ae835fb1d298eabf8c8236]: Textual amendment: Words in s. 5(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 67](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/67); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)
+[^c-55340ecd56ae835fb1d298eabf8c8236]: Textual amendment: Words in s. 5(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 67](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/67); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)
 
 [^c1303359]: Marginal citation: [1978 c. 17](https://www.legislation.gov.uk/ukpga/1978/17).
 
 [^c1303360]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
 
-[^key-cba1b2dfc8aebf5606dc2e37f50693d1]: Textual amendment: Words in s. 5(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 67](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/67); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)
+[^c-cba1b2dfc8aebf5606dc2e37f50693d1]: Textual amendment: Words in s. 5(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 67](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/67); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)
 
-[^key-b20dae7b3c4f307d0fe164a3ae2a8397]: Textual amendment: S. 6 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-b20dae7b3c4f307d0fe164a3ae2a8397]: Textual amendment: S. 6 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
 
 [^c1303362]: Modification: S. 6 extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
 
@@ -293,7 +293,7 @@ Section 7.
 
     [S. 8](https://www.legislation.gov.uk/ukpga/1997/13/section/8) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
 
-[^key-e6c98635ea7087455479570a8dfbf800]: Modification: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1997/13/section/9/2) applied (2.7.2009) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [s. 3(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/4)
+[^c-e6c98635ea7087455479570a8dfbf800]: Modification: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1997/13/section/9/2) applied (2.7.2009) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [s. 3(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/4)
 
 [^c1303367]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/1997/13/section/10) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
 

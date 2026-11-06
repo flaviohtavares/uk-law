@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Application of landlord and tenant law[^key-4129f1a779352d1081422b01576c4e69]
+## 52. Application of landlord and tenant law[^c-4129f1a779352d1081422b01576c4e69]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4129f1a779352d1081422b01576c4e69]: Commencement: Art. 52 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-4129f1a779352d1081422b01576c4e69]: Commencement: Art. 52 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

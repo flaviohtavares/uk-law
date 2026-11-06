@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.5. Oath and affirmation[^key-72acb1e4ee08cad4fcd90a71034c8028]
+## 4.5. Oath and affirmation[^c-72acb1e4ee08cad4fcd90a71034c8028]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The sheriff may administer either the oath or affirmation to a witness.
 
 ## Annotations
 
-[^key-72acb1e4ee08cad4fcd90a71034c8028]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/ssi/2017/103/rule/4.5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-72acb1e4ee08cad4fcd90a71034c8028]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/ssi/2017/103/rule/4.5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

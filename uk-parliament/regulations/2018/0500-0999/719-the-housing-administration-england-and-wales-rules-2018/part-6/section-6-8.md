@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.8. Appointment of a replacement or additional housing administrator[^key-e7cd278d7c823f640ad9f97729a9d3aa]
+## 6.8. Appointment of a replacement or additional housing administrator[^c-e7cd278d7c823f640ad9f97729a9d3aa]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a replacement housing administrator is appointed or an additional housing 
 
 ## Annotations
 
-[^key-e7cd278d7c823f640ad9f97729a9d3aa]: Commencement: Rule 6.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e7cd278d7c823f640ad9f97729a9d3aa]: Commencement: Rule 6.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

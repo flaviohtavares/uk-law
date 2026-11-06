@@ -45,9 +45,9 @@ summary: ''
 - (b) a return under section 8A of TMA 1970 (income tax and capital gains tax: trustee's return);
 - (c) a return under section 12AA of TMA 1970 (income tax and corporation tax: partnership return);
 - (d) a company tax return under paragraph 3 of Schedule 18 to the FA 1998 (company tax return);
-- (da)[^key-b736157118c651b6921ab75e7fe1ad57] a return under regulations made under section 105 of FA 2016 (apprenticeship levy);
+- (da)[^c-b736157118c651b6921ab75e7fe1ad57] a return under regulations made under section 105 of FA 2016 (apprenticeship levy);
 - (e) a return under section 159 or 160 of FA 2013 (returns and further returns for annual tax on enveloped dwellings).
 
 ## Annotations
 
-[^key-b736157118c651b6921ab75e7fe1ad57]: Textual amendment: [S. 253(6)(da)](https://www.legislation.gov.uk/ukpga/2014/26/section/253/6/da) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 104(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/104/7) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
+[^c-b736157118c651b6921ab75e7fe1ad57]: Textual amendment: [S. 253(6)(da)](https://www.legislation.gov.uk/ukpga/2014/26/section/253/6/da) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 104(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/104/7) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))

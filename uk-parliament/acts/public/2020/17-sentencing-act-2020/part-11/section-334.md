@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 334. Duration of order etc[^key-eff6da4109069a72cebfc838e577dff5]
+## 334. Duration of order etc[^c-eff6da4109069a72cebfc838e577dff5]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eff6da4109069a72cebfc838e577dff5]: Commencement: [S. 334](https://www.legislation.gov.uk/ukpga/2020/17/section/334) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-eff6da4109069a72cebfc838e577dff5]: Commencement: [S. 334](https://www.legislation.gov.uk/ukpga/2020/17/section/334) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

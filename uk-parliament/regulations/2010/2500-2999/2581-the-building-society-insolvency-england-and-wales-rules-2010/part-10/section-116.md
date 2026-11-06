@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Membership of committee[^key-a63be3c2542d35412f224338e10f4ee3]
+## 116. Membership of committee[^c-a63be3c2542d35412f224338e10f4ee3]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a63be3c2542d35412f224338e10f4ee3]: Commencement: Rule 116 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a63be3c2542d35412f224338e10f4ee3]: Commencement: Rule 116 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00049]: Footnote: Paragraph (7) was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).

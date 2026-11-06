@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Return as to election expenses[^key-baf4f75116e729cdb8b5d1d210463c3b]
+## 19. Return as to election expenses[^c-baf4f75116e729cdb8b5d1d210463c3b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf4f75116e729cdb8b5d1d210463c3b]: Textual amendment: [S. 19](https://www.legislation.gov.uk/asp/2006/14/section/19) repealed (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 20(2)](https://www.legislation.gov.uk/asp/2020/12/section/20/2), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-baf4f75116e729cdb8b5d1d210463c3b]: Textual amendment: [S. 19](https://www.legislation.gov.uk/asp/2006/14/section/19) repealed (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 20(2)](https://www.legislation.gov.uk/asp/2020/12/section/20/2), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))

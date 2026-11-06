@@ -26,7 +26,7 @@ summary: ''
 - (b) the Franchising Director,
 - (c) the Board,
 
-shall be regarded for any purpose of the Companies Acts (as defined in section 2(1) of the Companies Act 2006)[^key-07abab07b465df12fe443cac01467552] as a shadow director, within the meaning of those Acts (see section 251 of that Act)[^key-01763bcfb2d1c7adeee50ad3343c339e], of any body falling within subsection (2) below.
+shall be regarded for any purpose of the Companies Acts (as defined in section 2(1) of the Companies Act 2006)[^c-07abab07b465df12fe443cac01467552] as a shadow director, within the meaning of those Acts (see section 251 of that Act)[^c-01763bcfb2d1c7adeee50ad3343c339e], of any body falling within subsection (2) below.
 
 (2) Those bodies are—
 
@@ -38,6 +38,6 @@ shall be regarded for any purpose of the Companies Acts (as defined in section 2
 
 ## Annotations
 
-[^key-07abab07b465df12fe443cac01467552]: Textual amendment: Words in s. 114(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(5)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-07abab07b465df12fe443cac01467552]: Textual amendment: Words in s. 114(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(5)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-01763bcfb2d1c7adeee50ad3343c339e]: Textual amendment: Words in s. 114(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(5)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/5/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-01763bcfb2d1c7adeee50ad3343c339e]: Textual amendment: Words in s. 114(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(5)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/5/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

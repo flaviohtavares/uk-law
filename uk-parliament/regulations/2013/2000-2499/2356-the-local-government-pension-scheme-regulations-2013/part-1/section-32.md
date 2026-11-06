@@ -30,7 +30,7 @@ summary: ''
 
 (5) A notice given under paragraph (3) must be given not less than three months before the beginning of the period specified and a notice given under paragraph (4) must be given within one month of the reduction in hours or grade.
 
-(5A)[^key-eeffdeeadebbc158a7bf6f9ba382e7e9] A notice may be given under paragraph (3) before the date the member fulfils any qualifying criteria for an election so long as that member fulfils the qualifying criteria on the date specified in the notice.
+(5A)[^c-eeffdeeadebbc158a7bf6f9ba382e7e9] A notice may be given under paragraph (3) before the date the member fulfils any qualifying criteria for an election so long as that member fulfils the qualifying criteria on the date specified in the notice.
 
 (6) A member may give a further notice under paragraph (3) altering the date specified in an earlier notice, but any such further notice must be given not less than three months before the beginning of the period specified in the further notice.
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeffdeeadebbc158a7bf6f9ba382e7e9]: Textual amendment: [Reg. 32(5A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/32/5A) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [12](https://www.legislation.gov.uk/uksi/2015/755/regulation/12)
+[^c-eeffdeeadebbc158a7bf6f9ba382e7e9]: Textual amendment: [Reg. 32(5A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/32/5A) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [12](https://www.legislation.gov.uk/uksi/2015/755/regulation/12)

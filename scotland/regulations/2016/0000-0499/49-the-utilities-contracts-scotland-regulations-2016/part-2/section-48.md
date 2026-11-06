@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Use of the negotiated procedure without prior call for competition[^key-5b22bb34715f3408fc91fab378f60f95]
+## 48. Use of the negotiated procedure without prior call for competition[^c-5b22bb34715f3408fc91fab378f60f95]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ Specific rules based on type of contract
 
 ## Annotations
 
-[^key-5b22bb34715f3408fc91fab378f60f95]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2016/49/regulation/48) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-5b22bb34715f3408fc91fab378f60f95]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2016/49/regulation/48) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

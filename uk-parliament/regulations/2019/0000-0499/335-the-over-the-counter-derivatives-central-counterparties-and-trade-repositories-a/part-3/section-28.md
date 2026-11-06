@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Procedure for granting and refusing authorisation[^key-05961d5e4ac03814307cd50f0e6be654]
+## 28. Procedure for granting and refusing authorisation[^c-05961d5e4ac03814307cd50f0e6be654]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In paragraph 2, omit the second sentence.
 
-(4)[^key-a14d4e7dd2d041a0a9eb4293be5e6fca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a14d4e7dd2d041a0a9eb4293be5e6fca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph 4—
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-05961d5e4ac03814307cd50f0e6be654]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-05961d5e4ac03814307cd50f0e6be654]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a14d4e7dd2d041a0a9eb4293be5e6fca]: Textual amendment: Reg. 28(4) omitted (25.6.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(4)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/4)
+[^c-a14d4e7dd2d041a0a9eb4293be5e6fca]: Textual amendment: Reg. 28(4) omitted (25.6.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [6(4)](https://www.legislation.gov.uk/uksi/2020/646/regulation/6/4)
 
 [^c23594811]: Marginal citation: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979).

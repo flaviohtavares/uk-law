@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Publicity and consultation etc. before designation[^key-33e7b2d72c42afe4a914e15f11368772]
+## 75. Publicity and consultation etc. before designation[^c-33e7b2d72c42afe4a914e15f11368772]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33e7b2d72c42afe4a914e15f11368772]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2010/5/section/75) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-33e7b2d72c42afe4a914e15f11368772]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2010/5/section/75) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

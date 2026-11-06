@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 146. Reporting failures to co-operate with an investigation to approved regulators[^key-4a71c48a06a8bf8f17d8ea830e9f5b5b]
+## 146. Reporting failures to co-operate with an investigation to approved regulators[^c-4a71c48a06a8bf8f17d8ea830e9f5b5b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ the ombudsman may make a report to that effect to the Board.
 
 ## Annotations
 
-[^key-4a71c48a06a8bf8f17d8ea830e9f5b5b]: Commencement: S. 146 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-4a71c48a06a8bf8f17d8ea830e9f5b5b]: Commencement: S. 146 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

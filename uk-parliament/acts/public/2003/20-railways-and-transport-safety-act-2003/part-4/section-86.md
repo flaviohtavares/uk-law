@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Right of entry[^key-7834fa4e506abbd961be18eb999709ea]
+## 86. Right of entry[^c-7834fa4e506abbd961be18eb999709ea]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7834fa4e506abbd961be18eb999709ea]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2003/20/section/86) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/827/article/3/i)
+[^c-7834fa4e506abbd961be18eb999709ea]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2003/20/section/86) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/827/article/3/i)

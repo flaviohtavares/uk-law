@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Building safety authorities[^key-5566fce76a3c921c99f013a468adfef9]
+## 122. Building safety authorities[^c-5566fce76a3c921c99f013a468adfef9]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5566fce76a3c921c99f013a468adfef9]: Commencement: S. 122 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5566fce76a3c921c99f013a468adfef9]: Commencement: S. 122 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -31,7 +31,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 2004 (revoked)[^key-2bd8fc219814183675f008b4b2ed1d0e]
+Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 2004 (revoked)[^c-2bd8fc219814183675f008b4b2ed1d0e]
 
 Made
 
@@ -43,30 +43,30 @@ Coming into operation
 
 12th April 2004
 
-[^key-2bd8fc219814183675f008b4b2ed1d0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bd8fc219814183675f008b4b2ed1d0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2bd8fc219814183675f008b4b2ed1d0e]
+## 1. Citation, commencement and interpretation[^c-2bd8fc219814183675f008b4b2ed1d0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-2bd8fc219814183675f008b4b2ed1d0e]
+## 2. Revocation[^c-2bd8fc219814183675f008b4b2ed1d0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons eligible for advice and assistance[^key-2bd8fc219814183675f008b4b2ed1d0e]
+## 3. Persons eligible for advice and assistance[^c-2bd8fc219814183675f008b4b2ed1d0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Contributions from persons receiving advice and assistance[^key-2bd8fc219814183675f008b4b2ed1d0e]
+## 4. Contributions from persons receiving advice and assistance[^c-2bd8fc219814183675f008b4b2ed1d0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2bd8fc219814183675f008b4b2ed1d0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bd8fc219814183675f008b4b2ed1d0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2bd8fc219814183675f008b4b2ed1d0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bd8fc219814183675f008b4b2ed1d0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2bd8fc219814183675f008b4b2ed1d0e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/88) revoked (11.4.2005) by [Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 2005 (S.R. 2005/65)](https://www.legislation.gov.uk/nisr/2005/65), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/65/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2005/65/regulation/2)
+[^c-2bd8fc219814183675f008b4b2ed1d0e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/88) revoked (11.4.2005) by [Legal Advice and Assistance (Financial Conditions) Regulations (Northern Ireland) 2005 (S.R. 2005/65)](https://www.legislation.gov.uk/nisr/2005/65), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/65/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2005/65/regulation/2)

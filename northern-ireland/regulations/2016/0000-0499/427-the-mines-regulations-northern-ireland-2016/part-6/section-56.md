@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Training and information[^key-6aaa4ce66214ca493ebe0dddc9e80454]
+## 56. Training and information[^c-6aaa4ce66214ca493ebe0dddc9e80454]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aaa4ce66214ca493ebe0dddc9e80454]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2016/427/regulation/56) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-6aaa4ce66214ca493ebe0dddc9e80454]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2016/427/regulation/56) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

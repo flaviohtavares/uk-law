@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Claims in foreign currency[^key-c14c392182bf70a1850babd201045bf5]
+## 46. Claims in foreign currency[^c-c14c392182bf70a1850babd201045bf5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c14c392182bf70a1850babd201045bf5]: Commencement: Rule 46 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c14c392182bf70a1850babd201045bf5]: Commencement: Rule 46 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

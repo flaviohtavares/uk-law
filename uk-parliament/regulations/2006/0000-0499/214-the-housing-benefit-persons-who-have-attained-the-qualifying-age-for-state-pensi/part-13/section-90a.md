@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 90A. Verifying information[^key-c130b2da279786666859f782cbdaa9f9]
+## 90A. Verifying information[^c-c130b2da279786666859f782cbdaa9f9]
 
 A relevant authority may verify relevant information supplied to, or obtained by, the authority in accordance with regulation 90.
 
 ## Annotations
 
-[^key-c130b2da279786666859f782cbdaa9f9]: Textual amendment: Reg. 90A inserted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/8/5)
+[^c-c130b2da279786666859f782cbdaa9f9]: Textual amendment: Reg. 90A inserted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/8/5)

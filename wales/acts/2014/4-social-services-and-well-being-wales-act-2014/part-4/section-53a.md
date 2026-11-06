@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53A. Direct payments: after-care under the Mental Health Act 1983[^key-747da842e445e0e492db1a4e278b409e]
+## 53A. Direct payments: after-care under the Mental Health Act 1983[^c-747da842e445e0e492db1a4e278b409e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The ways in which a local authority may discharge its duty under section 117 of 
 
 ## Annotations
 
-[^key-747da842e445e0e492db1a4e278b409e]: Textual amendment: [S. 53A](https://www.legislation.gov.uk/anaw/2014/4/section/53A) inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(c)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/c), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/iii)[(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
+[^c-747da842e445e0e492db1a4e278b409e]: Textual amendment: [S. 53A](https://www.legislation.gov.uk/anaw/2014/4/section/53A) inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(c)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/c), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/iii)[(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)

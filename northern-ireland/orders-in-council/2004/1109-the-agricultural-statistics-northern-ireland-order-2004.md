@@ -115,7 +115,7 @@ The Agricultural Statistics (Northern Ireland) Order 2004
 (2) Nothing in paragraph (1) shall restrict the disclosure of information—
 
 - (a) to a department of the Government of the United Kingdom for purposes connected with the carrying out of any of its functions relating to agricultural statistics;
-- (b) to an EU[^key-7c4c653e2dabc9f0af82751152ca7589] institution in pursuance of an EU obligation;
+- (b) to an EU[^c-7c4c653e2dabc9f0af82751152ca7589] institution in pursuance of an EU obligation;
 - (c) to the Food Standards Agency for purposes connected with the carrying out of any of its functions,
 - (d) to the Health and Safety Executive for Northern Ireland for purposes connected with the carrying out of any of its functions,
 - (e) to any person for the purposes of any criminal proceedings under Article 6 or for the purposes of any report of such proceedings;
@@ -148,4 +148,4 @@ he shall be guilty of an offence.
 
 ## Annotations
 
-[^key-7c4c653e2dabc9f0af82751152ca7589]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6)
+[^c-7c4c653e2dabc9f0af82751152ca7589]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6)

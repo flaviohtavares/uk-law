@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^c20645441] Part II of Schedule 4, shall have effect in relation to the procedure and powers of the Tribunal in relation to any complaint or appeal[^c20663571] concerning a solicitor or an[^c8123051] incorporated practice *(affected by repeal, see note)*[^key-cf2c47cf6f820b39e56eff763ad890b3] authorised legal business.
+(1)[^c20645441] Part II of Schedule 4, shall have effect in relation to the procedure and powers of the Tribunal in relation to any complaint or appeal[^c20663571] concerning a solicitor or an[^c8123051] incorporated practice *(affected by repeal, see note)*[^c-cf2c47cf6f820b39e56eff763ad890b3] authorised legal business.
 
 (2)[^c20645471] Subject to the other provisions of this Part , the provisions of sections 16 to 23 of the 1990 Act[^c20642971], and of any rules of court made under this Act, the Tribunal, with the concurrence of the Lord President, may make rules—
 
@@ -46,7 +46,7 @@ summary: ''
 
 [^c8123051]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1985/73), [s. 56](https://www.legislation.gov.uk/ukpga/1985/73/section/56), [Sch. 1 Pt. I para. 27](https://www.legislation.gov.uk/ukpga/1985/73/schedule/1/part/I/paragraph/27)
 
-[^key-cf2c47cf6f820b39e56eff763ad890b3]: Textual amendment: Words in [s. 52(1)](https://www.legislation.gov.uk/ukpga/1980/46/section/52/1) substituted (1.7.2026 for specified purposes) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3), [sch. 1 para. 30(2)](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/30/2); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-cf2c47cf6f820b39e56eff763ad890b3]: Textual amendment: Words in [s. 52(1)](https://www.legislation.gov.uk/ukpga/1980/46/section/52/1) substituted (1.7.2026 for specified purposes) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3), [sch. 1 para. 30(2)](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/30/2); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
 [^c20645471]: Modification: [S. 52(2)](https://www.legislation.gov.uk/ukpga/1980/46/section/52/2) modified (1.10.2004) by [The Solicitors (Scotland) Act 1980 (Foreign Lawyers and Multi-national Practices) Regulations 2004 (S.S.I. 2004/383)](https://www.legislation.gov.uk/ssi/2004/383), [reg. 14](https://www.legislation.gov.uk/ssi/2004/383/regulation/14)
 

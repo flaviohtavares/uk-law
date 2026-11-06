@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28L. Use of electronic communications[^key-fef804ab7c13761c381ba2c952ea669b]
+## 28L. Use of electronic communications[^c-fef804ab7c13761c381ba2c952ea669b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ of this Act.
 
 ## Annotations
 
-[^key-fef804ab7c13761c381ba2c952ea669b]: Textual amendment: S. 28L inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [4](https://www.legislation.gov.uk/ssi/2006/367/article/4)
+[^c-fef804ab7c13761c381ba2c952ea669b]: Textual amendment: S. 28L inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1), [4](https://www.legislation.gov.uk/ssi/2006/367/article/4)

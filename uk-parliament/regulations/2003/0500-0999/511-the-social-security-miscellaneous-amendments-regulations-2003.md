@@ -133,78 +133,78 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments)
 
 ## 4. Amendment of the Housing Benefit (General) Regulations 1987
 
-(1)[^key-664a74f22963ffc65a259f8b0e709652] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500762] shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+(1)[^c-664a74f22963ffc65a259f8b0e709652] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500762] shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
-(2) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings) after paragraph 74 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500763] the following paragraph shall be added– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+(2) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings) after paragraph 74 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500763] the following paragraph shall be added– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
 > **75.**
 >
-> (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
-> - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
+> - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
 .
 
-(3) After paragraph 67 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500764] of Schedule 5 (capital to be disregarded) the following paragraph shall be added– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+(3) After paragraph 67 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500764] of Schedule 5 (capital to be disregarded) the following paragraph shall be added– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
 > **68.**
 >
-> (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
-> - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
+> - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
 .
 
 ## 5. Amendment of the Council Tax Benefit (General) Regulations 1992
 
-(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500765] shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500765] shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
-(2) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+(2) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
-- (a) after paragraph 4A *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500766] the following paragraph shall be added– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+- (a) after paragraph 4A *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500766] the following paragraph shall be added– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
   > **4B.**
   >
-  > Where the claimant, or the person who was the partner of the claimant on 31 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]<sup>st *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]</sup> March 2003, was entitled on that date to income support or an income-based jobseeker’s allowance but ceased to be so entitled on or before 5 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]<sup>th *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]</sup> April 2003 by virtue only of regulation 13 of the Housing Benefit (General) Amendment (No.3) Regulations 1999 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500767], the whole of his income. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+  > Where the claimant, or the person who was the partner of the claimant on 31 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]<sup>st *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]</sup> March 2003, was entitled on that date to income support or an income-based jobseeker’s allowance but ceased to be so entitled on or before 5 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]<sup>th *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]</sup> April 2003 by virtue only of regulation 13 of the Housing Benefit (General) Amendment (No.3) Regulations 1999 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500767], the whole of his income. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
   .
-- (b) after paragraph 73 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500768] the following paragraph shall be added– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+- (b) after paragraph 73 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500768] the following paragraph shall be added– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
   > **74.**
   >
-  > (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+  > (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
   >
-  > - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
-  > - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+  > - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
+  > - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
   >
-  > where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+  > where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
   >
-  > (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+  > (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
   .
 
-(3) After paragraph 67 *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652] [^c500769] of Schedule 5 (capital to be disregarded) the following paragraph shall be added– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+(3) After paragraph 67 *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652] [^c500769] of Schedule 5 (capital to be disregarded) the following paragraph shall be added– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
 > **68.**
 >
-> (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> (1) Any payment made by a local authority to or on behalf of the claimant or his partner relating to– *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
-> - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> - (a) welfare services within the meaning of section 93(1) or (2) of the Local Government Act 2000; *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
+> - (b) housing support services in respect of which the Scottish Ministers have paid a grant to the local authority under section 91(1) of the Housing (Scotland) Act 2001, *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> where the claimant or his partner qualified for that payment. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 >
-> (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^key-664a74f22963ffc65a259f8b0e709652]
+> (2) For the purposes of sub-paragraph (1) “ *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**local authority *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]**” includes, in England, a county council. *(affected by repeal, see note)*[^c-664a74f22963ffc65a259f8b0e709652]
 
 .
 
@@ -272,7 +272,7 @@ These Regulations do not impose a charge on business.
 
 [^c500761]: Marginal citation: [Schedule 6A](https://www.legislation.gov.uk/uksi/2003/511/schedule/6A) was inserted by [S.I.2000/1978](https://www.legislation.gov.uk/uksi/2000/1978). The relevant amending instrument is [S.I.2000/2545](https://www.legislation.gov.uk/uksi/2000/2545).
 
-[^key-664a74f22963ffc65a259f8b0e709652]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/511/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-664a74f22963ffc65a259f8b0e709652]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/511/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c500762]: Marginal citation: [S.I.1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 

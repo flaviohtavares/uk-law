@@ -22,13 +22,13 @@ summary: ''
 
 Article 44
 
-### 1. Primary objective[^key-dd7ec20faa3f7668543bc1950ea00a35]
+### 1. Primary objective[^c-dd7ec20faa3f7668543bc1950ea00a35]
 
-(1) The primary objective of these arbitration rules[^key-87a0a7ace48a7d5f530cb8f774c313d2] is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within four months from the date the arbitrator is appointed pursuant to article 44 (arbitration) of the Order.
+(1) The primary objective of these arbitration rules[^c-87a0a7ace48a7d5f530cb8f774c313d2] is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within four months from the date the arbitrator is appointed pursuant to article 44 (arbitration) of the Order.
 
 (2) The arbitration is deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-94ad545a969ae0ea3b027dffff5df32f]
+### 2. Time periods[^c-94ad545a969ae0ea3b027dffff5df32f]
 
 (1) All time periods in these arbitration rules will be measured in days and this is to include weekends, but not bank or public holidays.
 
@@ -37,7 +37,7 @@ Article 44
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-e3ef5ca80d35711daea6221b7b52a9a9]
+### 3. Timetable[^c-e3ef5ca80d35711daea6221b7b52a9a9]
 
 (1) The timetable for the arbitration is to be that set out in sub-paragraphs (2) to (4) unless amended in accordance with paragraph 5(3).
 
@@ -60,7 +60,7 @@ Article 44
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-a9b5c8c850c57d3b76017a6a8a73bd3c]
+### 4. Procedure[^c-a9b5c8c850c57d3b76017a6a8a73bd3c]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. No single pleading is to exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -88,7 +88,7 @@ Article 44
 
 (11) The arbitrator’s award must include reasons. The parties will accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-d36ea2f3930cf525ccfaf147e9144da4]
+### 5. Arbitrator’s powers[^c-d36ea2f3930cf525ccfaf147e9144da4]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996[^f00069], including the non-mandatory sections, save where modified by these arbitration rules in this Schedule.
 
@@ -101,7 +101,7 @@ Article 44
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-16e9584ea77e2386b1fe8cc4d40fd0ff]
+### 6. Costs[^c-16e9584ea77e2386b1fe8cc4d40fd0ff]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -111,7 +111,7 @@ Article 44
 
 (4) The arbitrator must award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-a3c8996d62f2f77ad1f093fdea3769dc]
+### 7. Confidentiality[^c-a3c8996d62f2f77ad1f093fdea3769dc]
 
 (1) Subject to sub-paragraphs (2) and (3) the parties agree that any hearings held as part of the arbitration will be open to and accessible by the public.
 
@@ -121,20 +121,20 @@ Article 44
 
 ## Annotations
 
-[^key-dd7ec20faa3f7668543bc1950ea00a35]: Commencement: Sch. 16 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-dd7ec20faa3f7668543bc1950ea00a35]: Commencement: Sch. 16 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-87a0a7ace48a7d5f530cb8f774c313d2]: Textual amendment: Words in [Sch. 16 para. 1(1)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/16/paragraph/1/1) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-87a0a7ace48a7d5f530cb8f774c313d2]: Textual amendment: Words in [Sch. 16 para. 1(1)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/16/paragraph/1/1) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
 
-[^key-94ad545a969ae0ea3b027dffff5df32f]: Commencement: Sch. 16 para. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-94ad545a969ae0ea3b027dffff5df32f]: Commencement: Sch. 16 para. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-e3ef5ca80d35711daea6221b7b52a9a9]: Commencement: Sch. 16 para. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-e3ef5ca80d35711daea6221b7b52a9a9]: Commencement: Sch. 16 para. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-a9b5c8c850c57d3b76017a6a8a73bd3c]: Commencement: Sch. 16 para. 4 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-a9b5c8c850c57d3b76017a6a8a73bd3c]: Commencement: Sch. 16 para. 4 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-d36ea2f3930cf525ccfaf147e9144da4]: Commencement: Sch. 16 para. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-d36ea2f3930cf525ccfaf147e9144da4]: Commencement: Sch. 16 para. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00069]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-16e9584ea77e2386b1fe8cc4d40fd0ff]: Commencement: Sch. 16 para. 6 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-16e9584ea77e2386b1fe8cc4d40fd0ff]: Commencement: Sch. 16 para. 6 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-a3c8996d62f2f77ad1f093fdea3769dc]: Commencement: Sch. 16 para. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-a3c8996d62f2f77ad1f093fdea3769dc]: Commencement: Sch. 16 para. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

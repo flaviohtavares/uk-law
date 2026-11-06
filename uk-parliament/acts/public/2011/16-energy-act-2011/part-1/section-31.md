@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Delegation and conferring of functions[^key-fe7130c536c633541e08ddc226ed03db]
+## 31. Delegation and conferring of functions[^c-fe7130c536c633541e08ddc226ed03db]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe7130c536c633541e08ddc226ed03db]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2011/16/section/31) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(vii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/vii)
+[^c-fe7130c536c633541e08ddc226ed03db]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2011/16/section/31) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(vii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/vii)

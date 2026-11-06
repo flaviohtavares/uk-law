@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Planning (Hazardous Substances) (Amendment) (England) Regulations 2010 (revoked)[^key-48c76eb9d56143d0996621d7b1a45626]
+The Planning (Hazardous Substances) (Amendment) (England) Regulations 2010 (revoked)[^c-48c76eb9d56143d0996621d7b1a45626]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 28th April 2010
 
-[^key-48c76eb9d56143d0996621d7b1a45626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c76eb9d56143d0996621d7b1a45626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-48c76eb9d56143d0996621d7b1a45626]
+## 1. Citation, commencement and application[^c-48c76eb9d56143d0996621d7b1a45626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Hazardous Substances) Regulations 1992[^key-48c76eb9d56143d0996621d7b1a45626]
+## 2. Amendment of the Planning (Hazardous Substances) Regulations 1992[^c-48c76eb9d56143d0996621d7b1a45626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional exemptions[^key-48c76eb9d56143d0996621d7b1a45626]
+## 3. Transitional exemptions[^c-48c76eb9d56143d0996621d7b1a45626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48c76eb9d56143d0996621d7b1a45626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c76eb9d56143d0996621d7b1a45626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48c76eb9d56143d0996621d7b1a45626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c76eb9d56143d0996621d7b1a45626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48c76eb9d56143d0996621d7b1a45626]: Textual amendment: Regulations revoked (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-48c76eb9d56143d0996621d7b1a45626]: Textual amendment: Regulations revoked (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))

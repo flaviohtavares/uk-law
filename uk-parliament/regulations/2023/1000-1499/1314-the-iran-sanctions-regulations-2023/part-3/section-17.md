@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Making funds available for benefit of designated persons[^key-c1175d9c52bc124cc34f5729986255b5]
+## 17. Making funds available for benefit of designated persons[^c-c1175d9c52bc124cc34f5729986255b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-(3A)[^key-fd990051bad4bd252f302da98b426eac] The reference in paragraph (1) to making funds available to any person for the benefit of a designated person includes making funds available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
+(3A)[^c-fd990051bad4bd252f302da98b426eac] The reference in paragraph (1) to making funds available to any person for the benefit of a designated person includes making funds available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
 
 (4) For the purposes of this regulation—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1175d9c52bc124cc34f5729986255b5]: Commencement: Reg. 17 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-c1175d9c52bc124cc34f5729986255b5]: Commencement: Reg. 17 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-fd990051bad4bd252f302da98b426eac]: Textual amendment: [Reg. 17(3A)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/17/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/35/2)
+[^c-fd990051bad4bd252f302da98b426eac]: Textual amendment: [Reg. 17(3A)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/17/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/35/2)

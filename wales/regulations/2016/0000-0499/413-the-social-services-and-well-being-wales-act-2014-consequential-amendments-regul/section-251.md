@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**251.**[^key-9d88761858602409b62ddaba246120be] In paragraph 90 of Schedule 1 to the National Health Service (Consequential Provisions) Act 2006 (consequential amendments to the Disabled Persons (Services, Consultation and Representation) Act 1986) omit sub-paragraph (h).
+**251.**[^c-9d88761858602409b62ddaba246120be] In paragraph 90 of Schedule 1 to the National Health Service (Consequential Provisions) Act 2006 (consequential amendments to the Disabled Persons (Services, Consultation and Representation) Act 1986) omit sub-paragraph (h).
 
 ## Annotations
 
-[^key-9d88761858602409b62ddaba246120be]: Commencement: Reg. 251 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-9d88761858602409b62ddaba246120be]: Commencement: Reg. 251 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

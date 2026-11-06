@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Exclusion from registers of information affecting national security[^key-fcd88eaf79b6e13f8cebd5ad901a1e7c]
+## 34. Exclusion from registers of information affecting national security[^c-fcd88eaf79b6e13f8cebd5ad901a1e7c]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ and no information referred to the Secretary of State in pursuance of sub-paragr
 
 ## Annotations
 
-[^key-fcd88eaf79b6e13f8cebd5ad901a1e7c]: Commencement: Reg. 34 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-fcd88eaf79b6e13f8cebd5ad901a1e7c]: Commencement: Reg. 34 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -56,7 +56,7 @@ summary: ''
 
 (7) For the purposes of paragraph (5) an animal, or part of an animal, is treated as having been lawfully taken from the wild if—
 
-- (aa)[^key-eef9b277604257b52a55fc1e349f274e] it was taken from the wild in the United Kingdom without contravention of the law and before 10<sup>th</sup> June 1994;
+- (aa)[^c-eef9b277604257b52a55fc1e349f274e] it was taken from the wild in the United Kingdom without contravention of the law and before 10<sup>th</sup> June 1994;
 - (a) it was taken from the wild in the European territory of a member State, being territory to which the TFEU applies, without contravention of the law of that member State and before the implementation date; or
 - (b) it was taken from the wild elsewhere.
 
@@ -86,14 +86,14 @@ summary: ''
   - (ii) regulation 45 (prohibition of certain methods of capturing or killing wild animals);
   - (iii) regulation 59 (false statements made for obtaining licence), where that offence relates to the obtaining of a licence under regulation 55 (licences for certain activities relating to animals or plants); or
   - (iv) regulation 122 (attempts and possession of means of committing offence), where that offence relates to an offence under regulation 43 or 45;
-- (c) an offence under the 2018[^key-cce61faa05e547d6e33e3b878385f497] Regulations or an offence of attempting to commit such an offence; or
+- (c) an offence under the 2018[^c-cce61faa05e547d6e33e3b878385f497] Regulations or an offence of attempting to commit such an offence; or
 - (d) an offence under regulation 45 (protection of wild animals listed in Annex IV(a) to the Habitats Directive), 47 (prohibition of certain methods of capturing or killing wild animals) or 57 (false statements made for obtaining licence) of the Offshore Marine Conservation Regulations, an offence of attempting to commit an offence under regulation 45 or 47 of those Regulations, or an offence under regulation 71 of those Regulations (possession of means of committing offence) which relates to an offence under regulation 45 or 47 of those Regulations.
 
 (12) For the purposes of any proceedings for an offence under regulation 43(3), the common names given in parentheses in paragraphs (6) and (8) are to be disregarded.
 
 ## Annotations
 
-[^key-eef9b277604257b52a55fc1e349f274e]: Textual amendment: [Reg. 44(7)(aa)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/44/7/aa) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [17](https://www.legislation.gov.uk/uksi/2019/579/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eef9b277604257b52a55fc1e349f274e]: Textual amendment: [Reg. 44(7)(aa)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/44/7/aa) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [17](https://www.legislation.gov.uk/uksi/2019/579/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23343801]: Marginal citation: Section 9 was amended by the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [Schedule 12](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12), [paragraph 5(b)](https://www.legislation.gov.uk/ukpga/2000/37/paragraph/5/b); and by [S.I. 2007/1843](https://www.legislation.gov.uk/uksi/2007/1843) and 2011/1043.
 
@@ -101,4 +101,4 @@ summary: ''
 
 [^c23343821]: Marginal citation: Section 17 was amended by the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [Schedule 16](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16), [Part 4](https://www.legislation.gov.uk/ukpga/2000/37/part/4).
 
-[^key-cce61faa05e547d6e33e3b878385f497]: Textual amendment: Word in [reg. 44(11)(c)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/44/11/c) substituted (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/6/2)
+[^c-cce61faa05e547d6e33e3b878385f497]: Textual amendment: Word in [reg. 44(11)(c)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/44/11/c) substituted (6.11.2019) by [The Control of Trade in Endangered Species (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1354)](https://www.legislation.gov.uk/uksi/2019/1354), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1354/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/1354/regulation/6/2)

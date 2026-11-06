@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Pre-2019 securitisations[^key-9d3811d55a62c27e8729ee68858746b3]
+## 52. Pre-2019 securitisations[^c-9d3811d55a62c27e8729ee68858746b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ the revocation of the EU Securitisation Regulation 2017 by section 1(1) of, and 
 
 ## Annotations
 
-[^key-9d3811d55a62c27e8729ee68858746b3]: Commencement: Reg. 52 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-9d3811d55a62c27e8729ee68858746b3]: Commencement: Reg. 52 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

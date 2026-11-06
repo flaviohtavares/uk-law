@@ -47,13 +47,13 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-3f6df6e2205997c0787b9321b8a634e1]
+### 1. Title, commencement and application[^c-3f6df6e2205997c0787b9321b8a634e1]
 
 (1) The title of these Regulations is the Independent Health Care (Wales) Regulations 2011 and they come into force on 5 April 2011.
 
 (2) These Regulations apply in relation to Wales only.
 
-### 2. Interpretation[^key-f9da28e2d5246f04fcab6237ef28ce5a]
+### 2. Interpretation[^c-f9da28e2d5246f04fcab6237ef28ce5a]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -64,21 +64,21 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
   - (a) if an office has been specified under paragraph (2) for the area in which the establishment or agency is situated, that office;
   - (b) in any other case, any office of the registration authority;
 - “approved places” (“*lleoedd cymeradwy*”) means, in relation to an independent hospital, a bed which is available in accordance with any condition placed upon the registration of any person in respect of the independent hospital, for the use by a patient at night;
-- “dental care professional” (“[^key-b7897a296ed4c2b97a4780a16f9624bc]*proffesiynolyn gofal deintyddol*”) means—
+- “dental care professional” (“[^c-b7897a296ed4c2b97a4780a16f9624bc]*proffesiynolyn gofal deintyddol*”) means—
   - (a) a dental hygienist;
   - (b) a dental therapist; or
   - (c) a clinical dental technician;
 - “dental hygienist” (“*hylenydd deintyddol*”), “dental therapist” (“*therapydd deintyddol*”) and “clinical dental technician” (“*technegydd deintyddol clinigol*”) mean persons registered as such with the General Dental Council in the dental care professional register established under section 36B of the Dentists Act 1984;
 - “dentist” (“*deintydd*”) means a person registered in the dentists register under the Dentists Act 1984[^f00005];
 - “establishment” (“*sefydliad*”) means an independent hospital or an independent clinic;
-- “Financial Conduct Authority” (“Awdurdod Ymddygiad Ariannol”) means the body renamed the Financial Conduct Authority by section 1A(1) of the Financial Services and Markets Act 2000;[^key-9a2f9b85e2c2ba91fca6631b3854683f]
+- “Financial Conduct Authority” (“Awdurdod Ymddygiad Ariannol”) means the body renamed the Financial Conduct Authority by section 1A(1) of the Financial Services and Markets Act 2000;[^c-9a2f9b85e2c2ba91fca6631b3854683f]
 - “general practitioner” (“*ymarferydd cyffredinol*”) means a medical practitioner who provides primary medical services pursuant to sections 41, 42 and 50 of the NHS Act;
 - “health care professional” (“*proffesiynolyn gofal iechyd*”) means a person who is registered as a member of any profession to which section 60(2) of the Health Act 1999[^f00007] applies and “health care profession” must be construed accordingly;
 - “health care record” (“*cofnod gofal iechyd*”) means any record which—
   - (a) consists of information relating to the physical or mental health or condition of an individual, and
   - (b) has been made by or on behalf of a health professional in connection with the care of that individual;
 - “insurance provider” (“*darparwr yswiriant*”) means—
-  - (a) a person regulated by the Financial Conduct Authority or the Prudential Regulation Authority[^key-57d38d50fdd1ca346b90722a469b1001] who sells insurance, or underwrites the risk of such insurance, or
+  - (a) a person regulated by the Financial Conduct Authority or the Prudential Regulation Authority[^c-57d38d50fdd1ca346b90722a469b1001] who sells insurance, or underwrites the risk of such insurance, or
   - (b) the agent of such a person;
 - “medical device” (“*dyfais feddygol*”) has the same meaning as in the Medical Devices Regulations 2002[^f00008];
 - “medical practitioner” (“*ymarferydd meddygol*”) means a registered medical practitioner;
@@ -88,7 +88,7 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
 - “patient” (“*claf*”), in relation to an establishment or agency, means a person for whom treatment is provided in or for the purposes of the establishment or for the purposes of the agency;
 - “patients' guide” (“*arweiniad y cleifion*”) means the guide compiled in accordance with regulation 7;
 - “practising privileges” (“*breintiau ymarfer*”), in relation to a medical practitioner, refers to the grant to a person who is not employed in an independent hospital of permission to practise in that hospital;
-- “Prudential Regulation Authority” (“Awdurdod Rheoleiddio Darbodus”) means the body corporate originally incorporated as the Prudential Regulation Authority Limited and renamed the Prudential Regulation Authority by section 2A(1) of the Financial Services and Markets Act 2000;[^key-7a443242bb19c967d3d2c2bed00562a3]
+- “Prudential Regulation Authority” (“Awdurdod Rheoleiddio Darbodus”) means the body corporate originally incorporated as the Prudential Regulation Authority Limited and renamed the Prudential Regulation Authority by section 2A(1) of the Financial Services and Markets Act 2000;[^c-7a443242bb19c967d3d2c2bed00562a3]
 - “registered manager” (“*rheolwr cofrestredig*”), in relation to an establishment or agency, means a person who is registered under Part II of the Act as the manager of the establishment or agency;
 - “registered person” (“*person cofrestredig*”), in relation to an establishment or agency, means any person who is the registered provider or the registered manager of the establishment or agency;
 - “registered provider” (“*darparwr cofrestredig*”), in relation to an establishment or agency, means a person who is registered under Part II of the Act as the person carrying on the establishment or agency;
@@ -107,7 +107,7 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
 
 (4) In these Regulations, unless the contrary intention appears, references to employing a person include employing a person whether under a contract of service or a contract for services and references to an employee or to a person being employed is to be construed accordingly.
 
-### 3. Meaning of “independent hospital”[^key-ebce7e4cd0eae237cd000473065da8e1]
+### 3. Meaning of “independent hospital”[^c-ebce7e4cd0eae237cd000473065da8e1]
 
 (1) Subject to paragraph (2), for the purposes of section 2(7)(f) of the Act, treatment using any of the following techniques or technology are prescribed—
 
@@ -123,7 +123,7 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
 
 - (a) treatment for the relief of muscular and joint pain using an infra-red heat treatment lamp;
 - (b) treatment using a Class 3B laser product where such treatment is carried out by or under the supervision of a health care professional;
-- (ba)[^key-4afcef8de0f7df7d18b94bc88ef69c08] dental treatment using a Class 4 laser product where such treatment is carried out by or under the supervision of a dentist or dental care professional working in a private dental practice within the meaning of the Private Dentistry (Wales) Regulations 2017;
+- (ba)[^c-4afcef8de0f7df7d18b94bc88ef69c08] dental treatment using a Class 4 laser product where such treatment is carried out by or under the supervision of a dentist or dental care professional working in a private dental practice within the meaning of the Private Dentistry (Wales) Regulations 2017;
 - (c) the use of an apparatus (not being an apparatus falling within paragraph (1)(b)) for acquiring an artificial suntan, consisting of a lamp or lamps emitting ultraviolet rays.
 
 (3) For the purposes of section 2 of the Act, establishments of the following descriptions are excepted from being independent hospitals—
@@ -150,7 +150,7 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
 
 (5) The definition of “listed services” in subsection (7) of section 2 of the Act has effect as if in paragraph (a) of that definition the words “intravenously administered” were inserted after “or”.
 
-### 4. Meaning of “independent clinic”[^key-9e738df5f418d49d87090f90a3f256d1]
+### 4. Meaning of “independent clinic”[^c-9e738df5f418d49d87090f90a3f256d1]
 
 (1) For the purposes of the Act a surgery or consulting room in which a medical practitioner who provides no services in pursuance of the NHS Act in that establishment provides medical services of any kind (including psychiatric treatment) otherwise than under arrangements made on behalf of the patients by their employer, is prescribed as an independent clinic.
 
@@ -161,7 +161,7 @@ The Welsh Ministers[^f00001], in exercise of powers conferred on them by section
 
 (3) Where two or more medical practitioners use different parts of the same premises as a surgery or consulting room, or use the same surgery or consulting room at different times, each of the medical practitioners will be regarded as carrying on a separate independent clinic unless they are in practice together.
 
-### 5. Exception of undertaking from the definition of independent medical agency[^key-fbee95b828730df74498cf42e4baf145]
+### 5. Exception of undertaking from the definition of independent medical agency[^c-fbee95b828730df74498cf42e4baf145]
 
 For the purposes of the Act, any undertaking which consists of the provision of medical services by a medical practitioner only under arrangements made on behalf of the patients by—
 
@@ -171,7 +171,7 @@ For the purposes of the Act, any undertaking which consists of the provision of 
 
 is excepted from being an agency.
 
-### 6. Statement of purpose[^key-a12cba06927e6dedb12d4523b127e03a]
+### 6. Statement of purpose[^c-a12cba06927e6dedb12d4523b127e03a]
 
 (1) The registered person must compile in relation to the establishment or agency a statement on paper (in these Regulations referred to as “the statement of purpose”) which must consist of a statement as to the matters listed in Schedule 1.
 
@@ -184,7 +184,7 @@ is excepted from being an agency.
 - (a) any other provision of these Regulations; or
 - (b) the conditions for the time being in force in relation to the registration of the registered person under Part II of the Act.
 
-### 7. Patients' guide[^key-aa606079fc00fe52eaed09b54b4d3099]
+### 7. Patients' guide[^c-aa606079fc00fe52eaed09b54b4d3099]
 
 (1) The registered person must produce a written guide to the establishment or agency (in these Regulations referred to as “the patients' guide”) which must include—
 
@@ -198,14 +198,14 @@ is excepted from being an agency.
 
 (2) The registered person must provide a copy of the first patients' guide to the appropriate office of the registration authority, and must ensure that a copy of the current version of the patient’s guide is provided to every patient and any person acting on behalf of a patient.
 
-### 8. Review of statement of purpose and patients' guide[^key-7bfb6e2d563c95f969654e7555d0587e]
+### 8. Review of statement of purpose and patients' guide[^c-7bfb6e2d563c95f969654e7555d0587e]
 
 The registered person must—
 
 - (a) keep under review and, where appropriate, revise the statement of purpose and the content of the patients' guide; and
 - (b) notify the appropriate office of the registration authority of any such revision at least 28 days before it is to take effect.
 
-### 9. Policies and procedures[^key-4dada14d8a813f90610ba4705c99e62e]
+### 9. Policies and procedures[^c-4dada14d8a813f90610ba4705c99e62e]
 
 (1) The registered person must prepare and implement written statements of the policies to be applied and the procedures to be followed in or for the purposes of an establishment in relation to each of the matters specified below and for the purposes of an agency each of the matters specified in sub-paragraphs (b), (d), (f), (g), (h), (i), (m) and (n)—
 
@@ -257,7 +257,7 @@ at intervals of not more than three years and, where appropriate, revise and imp
 
 ## PART II — Registered Persons
 
-### 10. Fitness of registered provider[^key-434c3fca8159b0fbec358313e74e3399]
+### 10. Fitness of registered provider[^c-434c3fca8159b0fbec358313e74e3399]
 
 (1) A person must not carry on an establishment or agency unless the person is fit to do so.
 
@@ -276,10 +276,10 @@ at intervals of not more than three years and, where appropriate, revise and imp
 
 (4) A person is not fit to carry on an establishment or agency if—
 
-- (a) the person has been made[^key-018ee497af49cbbde04ddec73db71bf4] bankrupt or sequestration of the person’s estate has been awarded and (in either case) the person has not been discharged and the bankruptcy order has not been annulled or rescinded or a moratorium period under a debt relief order applies in relation to the person; or
+- (a) the person has been made[^c-018ee497af49cbbde04ddec73db71bf4] bankrupt or sequestration of the person’s estate has been awarded and (in either case) the person has not been discharged and the bankruptcy order has not been annulled or rescinded or a moratorium period under a debt relief order applies in relation to the person; or
 - (b) the person has made a composition or arrangement with the person’s creditors and has not been discharged in respect of it.
 
-### 11. Appointment of manager[^key-6da25b9b10758723f145f5e7a4d058f6]
+### 11. Appointment of manager[^c-6da25b9b10758723f145f5e7a4d058f6]
 
 (1) The registered provider must appoint an individual to manage the establishment or agency if—
 
@@ -296,7 +296,7 @@ at intervals of not more than three years and, where appropriate, revise and imp
 
 (3) If the registered provider is to manage the establishment or agency he or she must forthwith give notice to the appropriate office of the registration authority of the date on which such management is to begin.
 
-### 12. Fitness of manager[^key-d20f461a4d203ef540b27ced7bdd50ce]
+### 12. Fitness of manager[^c-d20f461a4d203ef540b27ced7bdd50ce]
 
 (1) A person must not manage an establishment or agency unless the person is fit to do so.
 
@@ -310,7 +310,7 @@ at intervals of not more than three years and, where appropriate, revise and imp
 
 (3) Where a person manages more than one establishment or agency he or she must spend sufficient time at each establishment or agency to ensure that the establishment or agency is managed effectively.
 
-### 13. Registered person-general requirements[^key-a80211763603981d80ee3b8ef0d7c38b]
+### 13. Registered person-general requirements[^c-a80211763603981d80ee3b8ef0d7c38b]
 
 (1) The registered provider and the registered manager must, having regard to the size of the establishment or agency, the statement of purpose and the number and needs of the patients, carry on or manage the establishment or agency, as the case may be, with sufficient care, competence and skill.
 
@@ -323,7 +323,7 @@ from time to time such training as is appropriate to ensure that he or she has t
 
 (3) Any individual managing the establishment or agency must undertake from time to time such training as is appropriate to ensure that he or she has the skills necessary for managing the establishment or agency.
 
-### 14. Notification of offences[^key-33af7a267a514d92b1435a0f3665d89b]
+### 14. Notification of offences[^c-33af7a267a514d92b1435a0f3665d89b]
 
 (1) Where the registered person or the responsible individual is convicted of any criminal offence, whether in Wales or elsewhere, the person convicted must forthwith give notice in writing to the appropriate office of the registration authority of—
 
@@ -337,7 +337,7 @@ from time to time such training as is appropriate to ensure that he or she has t
 
 ### Chapter 1 — Quality of Service Provision
 
-#### 15. Quality of treatment and other service provision[^key-508009bb4f61cc05eb6c5dedb3776a5e]
+#### 15. Quality of treatment and other service provision[^c-508009bb4f61cc05eb6c5dedb3776a5e]
 
 (1) Subject to regulation 6(4), the registered person must provide any treatments and other services to patients in accordance with the statement of purpose, and must ensure that any treatments and other services provided to each patient—
 
@@ -382,7 +382,7 @@ are protected against identifiable risks of acquiring such an infection by the m
 
 (10) The registered person must take account of any advice bulletins relating to the type of treatment the establishment or agency provides and to patient safety information published by appropriate regulatory, professional or appropriate statutory expert bodies.
 
-#### 16. Safeguarding patients from abuse[^key-139f90bb67200f086c6ef8dec89a8b52]
+#### 16. Safeguarding patients from abuse[^c-139f90bb67200f086c6ef8dec89a8b52]
 
 (1) The registered person must make suitable arrangements to ensure that patients are safeguarded against the risk of abuse by means of—
 
@@ -406,7 +406,7 @@ are protected against identifiable risks of acquiring such an infection by the m
 - (c) theft, misuse or misappropriation of money or property; or
 - (d) neglect and acts of omission which cause harm or place at risk of harm.
 
-#### 17. Capacity of patients[^key-44506863e5828a0fe80f7c5190c23008]
+#### 17. Capacity of patients[^c-44506863e5828a0fe80f7c5190c23008]
 
 (1) The registered person must, so far as is practicable, and, where the patient lacks capacity, in accordance with the principles of the 2005 Act enable each patient to make decisions about matters affecting the way in which the patient is cared for and his or her welfare.
 
@@ -414,7 +414,7 @@ are protected against identifiable risks of acquiring such an infection by the m
 
 (3) The registered person must so far as practicable, and where patients lack capacity, in accordance with the principles of the 2005 Act ascertain and take into account the wishes and feelings of all patients in determining the manner in which they are cared for and services are provided to them.
 
-#### 18. Privacy, dignity and relationships[^key-f1a398f6e690e9bfdb074c5f474efdad]
+#### 18. Privacy, dignity and relationships[^c-f1a398f6e690e9bfdb074c5f474efdad]
 
 (1) The registered person must make suitable arrangements to ensure that the establishment or agency is conducted—
 
@@ -426,7 +426,7 @@ are protected against identifiable risks of acquiring such an infection by the m
 - (a) between each other; and
 - (b) between each of them and the patients and staff.
 
-#### 19. Assessing and monitoring the quality of service provision including annual returns[^key-48febc1aed9eb9e7eada2b5c83624184]
+#### 19. Assessing and monitoring the quality of service provision including annual returns[^c-48febc1aed9eb9e7eada2b5c83624184]
 
 (1) The registered person must protect patients, and others who may be at risk, against the risks of inappropriate or unsafe care and treatment, by means of the effective operation of systems designed to enable the registered person to—
 
@@ -454,7 +454,7 @@ are protected against identifiable risks of acquiring such an infection by the m
 
 (5) The registered person must supply the annual return to the appropriate office of the registration authority within 28 days of receiving a request under paragraph (3).
 
-#### 20. Staffing[^key-dc6d6bae820b92b3692856b3b2bff2a6]
+#### 20. Staffing[^c-dc6d6bae820b92b3692856b3b2bff2a6]
 
 (1) The registered person must, having regard to the nature of the establishment or agency, the statement of purpose and the number and needs of patients—
 
@@ -476,7 +476,7 @@ which is found to be unsatisfactory.
 
 (4) The registered person must take reasonable steps to ensure that any persons working in or for the purposes of an establishment or for the purposes of an agency who are not employed by the registered person and to whom paragraph (2) does not apply, are appropriately supervised to ensure patients' health and welfare is not compromised, while carrying out their duties.
 
-#### 21. Fitness of workers[^key-83d7aff99f483d51e1a5b1eadb985333]
+#### 21. Fitness of workers[^c-83d7aff99f483d51e1a5b1eadb985333]
 
 (1) Subject to paragraph (4) the registered person must not—
 
@@ -507,11 +507,11 @@ which is found to be unsatisfactory.
 
 (6) The registered person must ensure that any person working in or for the purposes of the establishment or agency who does not fall within paragraph (1) is appropriately supervised at all times when they are in contact with patients.
 
-#### 22. Guidance for health care professionals[^key-45daab94d3a944616587e8bc885bc7b8]
+#### 22. Guidance for health care professionals[^c-45daab94d3a944616587e8bc885bc7b8]
 
 The registered person must ensure that any code of ethics or professional practice prepared by a body which is responsible for regulation of members of a health care profession is made available in the establishment or agency to members of the health care profession in question.
 
-#### 23. Records[^key-27af8cf71f4681586fb1960822099ab9]
+#### 23. Records[^c-27af8cf71f4681586fb1960822099ab9]
 
 (1) The registered person must ensure that except in cases to which regulation 43(5) applies—
 
@@ -533,7 +533,7 @@ The registered person must ensure that any code of ethics or professional practi
 
 (4) Where an establishment or agency closes the registered person must ensure that the records maintained in accordance with paragraphs (1) and (3) are kept securely elsewhere and must make them available for inspection by the registration authority at its request.
 
-#### 24. Complaints[^key-0a098a20693391e5f1a71eb149593e64]
+#### 24. Complaints[^c-0a098a20693391e5f1a71eb149593e64]
 
 (1) The registered person must establish a procedure (in these Regulations referred to as “the complaints procedure”) for considering complaints made to the registered person by a patient or a person acting on behalf of a patient.
 
@@ -554,18 +554,18 @@ The registered person must ensure that any code of ethics or professional practi
 
 (6) The registered person must supply to the registration authority at its request copies of records maintained under paragraph (5).
 
-#### 25. Research[^key-973ae396608c3d7dd4db6eed9cae3df2]
+#### 25. Research[^c-973ae396608c3d7dd4db6eed9cae3df2]
 
 (1) The registered person must ensure that—
 
 - (a) before any research involving patients, information about patients, or human tissue is undertaken in or for the purposes of an establishment, a research proposal is prepared and approval is obtained from the appropriate Research Ethics Committee; and
 - (b) all such research projects include adequate safeguards for patients and employees.
 
-(2) For the purposes of paragraph (1)(a), “the appropriate Research Ethics Committee” (“*y Pwyllgor Moeseg Ymchwil priodol*”) means a group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Welsh Ministers.[^key-7cf21d80d5eaa0f7e46be02e74c0a970]
+(2) For the purposes of paragraph (1)(a), “the appropriate Research Ethics Committee” (“*y Pwyllgor Moeseg Ymchwil priodol*”) means a group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Welsh Ministers.[^c-7cf21d80d5eaa0f7e46be02e74c0a970]
 
 ### Chapter 2 — Premises
 
-#### 26. Fitness of premises[^key-c4a3021c8177252315da78d9eeccdcb8]
+#### 26. Fitness of premises[^c-c4a3021c8177252315da78d9eeccdcb8]
 
 (1) The registered person must not use premises for the purposes of an establishment or agency unless those premises are in a location and of a physical design and layout, which are suitable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -597,7 +597,7 @@ The registered person must ensure that any code of ethics or professional practi
 - (a) paragraph (4) does not apply; and
 - (b) the registered person must ensure that the requirements of that Order and any regulations made under it, except for article 23 (duties of employees), are complied with in respect of those premises.
 
-#### 27. Fitness of premises – learning disability[^key-0126ea55f2a55e0e3e27807452da0ede]
+#### 27. Fitness of premises – learning disability[^c-0126ea55f2a55e0e3e27807452da0ede]
 
 (1) Subject to regulation 53—
 
@@ -612,7 +612,7 @@ The registered person must ensure that any code of ethics or professional practi
 
 ### Chapter 3 — Management
 
-#### 28. Visits by registered provider to establishments[^key-c7e02fd3ec064b33d228a9c0d1d3e898]
+#### 28. Visits by registered provider to establishments[^c-c7e02fd3ec064b33d228a9c0d1d3e898]
 
 (1) Where the registered provider is an individual who does not manage the establishment, that individual must visit the establishment premises in accordance with this regulation.
 
@@ -636,7 +636,7 @@ The registered person must ensure that any code of ethics or professional practi
 - (b) the registered manager; and
 - (c) in the case of a visit under paragraph (2), to each of the directors or other persons responsible for the management of the organisation.
 
-#### 29. Financial position[^key-992952f461d72a7a9996300db1b186a7]
+#### 29. Financial position[^c-992952f461d72a7a9996300db1b186a7]
 
 (1) The registered provider must carry on the establishment or agency in such manner as is likely to ensure that the establishment or agency will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -656,7 +656,7 @@ The registered person must ensure that any code of ethics or professional practi
 
 ### Chapter 4 — Notices to be given to the registration authority
 
-#### 30. Notification of death or unauthorised absence of a patient who is detained or liable to be detained under the Mental Health Act 1983[^key-02fa3dc9bab9fbebd28d709a114b0a6d]
+#### 30. Notification of death or unauthorised absence of a patient who is detained or liable to be detained under the Mental Health Act 1983[^c-02fa3dc9bab9fbebd28d709a114b0a6d]
 
 (1) The registered person must notify the registration authority without delay of the death or unauthorised absence of a patient who is liable to be detained by the registered person—
 
@@ -670,7 +670,7 @@ The registered person must ensure that any code of ethics or professional practi
 - (c) “hospital” (“*ysbyty*”) means a hospital within the meaning of Part 2 of that Act; and
 - (d) “unauthorised absence” (“*absenoldeb diawdurdod*”) means an unauthorised absence from a hospital.
 
-#### 31. Notification of events[^key-a6aea7339747e9b2293095c2165d8f8e]
+#### 31. Notification of events[^c-a6aea7339747e9b2293095c2165d8f8e]
 
 (1) The registered person must give notice to the appropriate office of the registration authority of—
 
@@ -695,7 +695,7 @@ The registered person must ensure that any code of ethics or professional practi
 - (a) receives information concerning the death of a patient who has undergone termination of a pregnancy in an independent hospital during the period of 12 months ending on the date on which the information is received; and
 - (b) has reason to believe that the patient’s death may be associated with the termination, the registered person must give notice in writing to the appropriate office of the registration authority of that information, within the period of 14 days beginning on the day on which the information is received.
 
-#### 32. Notice of absence of registered person[^key-4775761ae374e9ed9b283120b5e8f19d]
+#### 32. Notice of absence of registered person[^c-4775761ae374e9ed9b283120b5e8f19d]
 
 (1) Where—
 
@@ -723,7 +723,7 @@ has been absent from the establishment or agency for a continuous period of 28 d
 
 (5) The registered person must notify the appropriate office of the registration authority of the return to work of a person mentioned in sub-paragraph (a) or (b) of paragraph (4) not later than 7 days after the date of that person’s return.
 
-#### 33. Notice of changes[^key-010441f81b773ab3f98fb650c4f3cd04]
+#### 33. Notice of changes[^c-010441f81b773ab3f98fb650c4f3cd04]
 
 (1) The registered person must give notice in writing to the appropriate office of the registration authority as soon as it is practicable to do so if any of the following events take place or are proposed to take place—
 
@@ -739,7 +739,7 @@ has been absent from the establishment or agency for a continuous period of 28 d
 - (h) where the registered provider is a company or partnership, a receiver, manager, liquidator or provisional liquidator is appointed; or
 - (i) the premises of the establishment are significantly altered or extended, or additional premises are acquired which are intended to be used for the purposes of the establishment.
 
-#### 34. Appointment of liquidators etc[^key-79ed4c43556a0df230962540ee556a86]
+#### 34. Appointment of liquidators etc[^c-79ed4c43556a0df230962540ee556a86]
 
 (1) Any person to whom paragraph (2) applies must—
 
@@ -753,7 +753,7 @@ has been absent from the establishment or agency for a continuous period of 28 d
 - (b) a liquidator or provisional liquidator of a company which is the registered provider of an establishment or agency;
 - (c) the trustee in bankruptcy of a registered provider of an establishment or agency.
 
-#### 35. Death of registered person[^key-d0fa9858812648a7e7238d0c58a22008]
+#### 35. Death of registered person[^c-d0fa9858812648a7e7238d0c58a22008]
 
 (1) If more than one person is registered in respect of an establishment or agency, and a registered person dies, the surviving registered person must without delay notify the appropriate office of the registration authority of the death in writing.
 
@@ -777,7 +777,7 @@ has been absent from the establishment or agency for a continuous period of 28 d
 
 ### Chapter 1 — Pathology Services, Resuscitation and Treatment of Children in Independent Hospitals
 
-#### 36. Application of regulations 37 to 39[^key-dc99fad8d250061a0cc809a20aef72bc]
+#### 36. Application of regulations 37 to 39[^c-dc99fad8d250061a0cc809a20aef72bc]
 
 (1) Regulations 37 to 39 apply to independent hospitals of the following kinds—
 
@@ -786,7 +786,7 @@ has been absent from the establishment or agency for a continuous period of 28 d
 
 (2) Regulation 37 also applies to any establishment which provides pathology services.
 
-#### 37. Pathology services[^key-37878899a8fb3b7b727d91d296aeb8b9]
+#### 37. Pathology services[^c-37878899a8fb3b7b727d91d296aeb8b9]
 
 The registered person must ensure that—
 
@@ -795,7 +795,7 @@ The registered person must ensure that—
 - (c) appropriate arrangements are made for the collection, and (where pathology services are provided outside the hospital) transportation of pathology specimens; and
 - (d) the patient from whom a specimen was taken, and such specimen, is identifiable at all times.
 
-#### 38. Resuscitation[^key-33566e1fcfdc1f2ff68ad4b61598a121]
+#### 38. Resuscitation[^c-33566e1fcfdc1f2ff68ad4b61598a121]
 
 (1) The registered person must prepare and implement a written statement of the policies to be applied and the procedures to be followed in the hospital in relation to resuscitation of patients and must review such statement annually.
 
@@ -806,7 +806,7 @@ The registered person must ensure that—
 - (c) are available on request to every patient and any person acting on behalf of a patient; and
 - (d) are communicated to and understood by all employees and all medical practitioners with practising privileges who may be involved in decisions about resuscitation of a patient.
 
-#### 39. Treatment of children[^key-05d74d01d301a32fdd6459b9d19306c4]
+#### 39. Treatment of children[^c-05d74d01d301a32fdd6459b9d19306c4]
 
 The registered person must ensure that, where a child is treated in the hospital—
 
@@ -817,7 +817,7 @@ The registered person must ensure that, where a child is treated in the hospital
 
 ### Chapter 2 — Independent Hospitals in which Certain Listed Services are Provided
 
-#### 40. Surgical procedures[^key-f2c2dda271ef02e76cd11408aa40dd3e]
+#### 40. Surgical procedures[^c-f2c2dda271ef02e76cd11408aa40dd3e]
 
 (1) Where medical treatment (including cosmetic surgery) is provided under anaesthesia or sedation in an independent hospital, the registered person must ensure that—
 
@@ -836,14 +836,14 @@ The registered person must ensure that, where a child is treated in the hospital
 
 (4) In the case of a patient who lacks capacity to consent to surgery, the registered person must take proper account of any valid and applicable advance decisions made by the patient under the 2005 Act.
 
-#### 41. Dental treatment under general anaesthesia[^key-73ce2f116067c119e4cb69e5ac197534]
+#### 41. Dental treatment under general anaesthesia[^c-73ce2f116067c119e4cb69e5ac197534]
 
 Where the treatment provided in an independent hospital includes dental treatment under general anaesthesia, the registered person must ensure that—
 
 - (a) the dentist and any employees assisting him or her are suitably qualified, skilled and experienced to deal with any emergency which occurs during or as a result of the general anaesthesia or treatment; and
 - (b) adequate facilities, drugs and equipment are available to deal with any such emergency.
 
-#### 42. Obstetric services staffing[^key-e9c7ffd3a0bb7e190675857ac34f425c]
+#### 42. Obstetric services staffing[^c-e9c7ffd3a0bb7e190675857ac34f425c]
 
 (1) This regulation and regulation 43 apply to an independent hospital in which obstetric services and, in connection with childbirth, medical services, are provided.
 
@@ -855,7 +855,7 @@ Where the treatment provided in an independent hospital includes dental treatmen
 
 (5) The registered person must ensure that a health care professional who is competent to undertake resuscitation of a new born baby is available in the hospital at all times and that that person’s skills are regularly reviewed and, if necessary, updated.
 
-#### 43. Obstetric services further requirements[^key-284822f770a326eea32ffbdacb068d4b]
+#### 43. Obstetric services further requirements[^c-284822f770a326eea32ffbdacb068d4b]
 
 (1) The registered person must ensure that—
 
@@ -880,7 +880,7 @@ are reported to any person undertaking an enquiry into such deaths on behalf of 
 - “stillbirth” (“*marw-enedigaeth*”) has the meaning given to it in the Births and Deaths Registration Act 1953[^f00020];
 - “neonatal death” (“*marwolaeth plentyn newydd-anedig*”) means the death of a child before the end of the period of 28 days beginning with the date of the child’s birth.
 
-#### 44. Termination of pregnancies[^key-2917d844160490f390e8e2ef994a6575]
+#### 44. Termination of pregnancies[^c-2917d844160490f390e8e2ef994a6575]
 
 (1) This regulation applies to an independent hospital in which termination of pregnancies takes place.
 
@@ -905,7 +905,7 @@ are reported to any person undertaking an enquiry into such deaths on behalf of 
 
 (8) In this regulation, “certificate of opinion” (“*tystysgrif barn*”) means a certificate required by regulations made under section 2(1) of the Abortion Act 1967[^f00021].
 
-#### 45. Use of certain techniques or technology[^key-3263eccfa558ea932a27746cfc34516c]
+#### 45. Use of certain techniques or technology[^c-3263eccfa558ea932a27746cfc34516c]
 
 (1) The registered person must ensure that no Class 3B or Class 4 laser product (within the meaning of regulation 3(1)), or intense light source (within the meaning of that regulation) is used in or for the purposes of an independent hospital unless that hospital has in place a professional protocol drawn up by a trained and experienced medical practitioner or dentist from the relevant discipline in accordance with which treatment is to be provided, and that the treatment is provided in accordance with it.
 
@@ -926,14 +926,14 @@ are reported to any person undertaking an enquiry into such deaths on behalf of 
 
 ### Chapter 3 — Mental Health Hospitals
 
-#### 46. Application of regulations 47 to 50[^key-7e81d1031ca90c3c52a7d09dc59683db]
+#### 46. Application of regulations 47 to 50[^c-7e81d1031ca90c3c52a7d09dc59683db]
 
 Regulations 47 to 50 apply to independent hospitals of the following kinds—
 
 - (a) those the main purpose of which is to provide medical or psychiatric treatment for mental disorder; and
 - (b) those in which treatment or nursing (or both) are provided for persons liable to be detained under the Mental Health Act 1983.
 
-#### 47. Safety of patients and others[^key-053b72704285fc550104ccf4592c4ff1]
+#### 47. Safety of patients and others[^c-053b72704285fc550104ccf4592c4ff1]
 
 (1) The statement of policies and procedures which is to be prepared and implemented by the registered person in accordance with regulation 9(1)(e) must include policies and procedures in relation to—
 
@@ -949,33 +949,33 @@ Regulations 47 to 50 apply to independent hospitals of the following kinds—
 - (c) an assessment of the patient’s propensity to suicide; and
 - (d) if necessary, appropriate action to reduce the risk of the patient committing suicide.
 
-#### 48. Visitors[^key-7ac4aaa134615039daaefb808e5867f7]
+#### 48. Visitors[^c-7ac4aaa134615039daaefb808e5867f7]
 
 The registered person must prepare and implement written policies and procedures in the hospital in relation to patients receiving visitors.
 
-#### 49. Mental health records[^key-076b61a080c0d4bf7c29a536f55d462b]
+#### 49. Mental health records[^c-076b61a080c0d4bf7c29a536f55d462b]
 
 The registered person must ensure that any records which are required to be made under the Mental Health (Hospital, Guardianship, Community Treatment and Consent to Treatment) (Wales) Regulations 2008[^f00022], and which relate to the detention or treatment of a patient in an independent hospital, are kept for a period of not less than five years beginning on the date on which the person to whom they relate ceases to be a patient in the hospital.
 
 ## PART V — Additional Requirements Applying to Independent Clinics
 
-### 50. Independent clinics[^key-5278953db5639ad137c389f5579220a7]
+### 50. Independent clinics[^c-5278953db5639ad137c389f5579220a7]
 
 Where an independent clinic provides antenatal care to patients, the registered person must ensure that the health care professional who is primarily responsible for providing that care is a midwife, an appropriately qualified general practitioner, or a medical practitioner with a specialist qualification in obstetrics.
 
 ## PART VI — Miscellaneous
 
-### 51. Compliance with regulations[^key-c8995c8bfd9fccccb16f18539ce40a4b]
+### 51. Compliance with regulations[^c-c8995c8bfd9fccccb16f18539ce40a4b]
 
 Where there is more than one registered person in respect of an establishment or agency, anything which is required under these regulations to be done by the registered person will, if done by one of the registered persons, not be required to be done by any of the other registered persons.
 
-### 52. Offences[^key-d4174b61a10e3c8dac059473be6e9145]
+### 52. Offences[^c-d4174b61a10e3c8dac059473be6e9145]
 
 (1) A contravention, or failure to comply with any of the provisions of regulation 6 to 17, 18(1), 19 to 35, 37 to 45 and 47 to 50 will be an offence.
 
 (2) The registration authority may bring proceedings against a person who was once, but no longer is, a registered person, in respect of a failure to comply with regulation 23 after the person ceased to be a registered person.
 
-### 53. Transitional provisions[^key-f5abfa546b4e80b4478df0fadbebd3ee]
+### 53. Transitional provisions[^c-f5abfa546b4e80b4478df0fadbebd3ee]
 
 (1) Until such time as an intervening event takes place, regulation 27 does not apply to a person registered in respect of an independent hospital or to an applicant for registration as a manager where the registration of the registered provider was granted prior to 5 April 2011.
 
@@ -1004,7 +1004,7 @@ Where there is more than one registered person in respect of an establishment or
 
 (8) For the purposes of paragraph (7)(a)(ii) “finally disposed of” (“cael ei benderfynu'n derfynol”) means the date 28 days following the grant or refusal of registration and, if an appeal is made, the date when the appeal is finally determined or abandoned.
 
-### 54. Revocation and savings[^key-bef942f7b2d189bd7b963ba207edf0ce]
+### 54. Revocation and savings[^c-bef942f7b2d189bd7b963ba207edf0ce]
 
 (1) Subject to paragraph (2) the Private and Voluntary Health Care (Wales) Regulations 2002[^f00024] (“the 2002 Regulations”) are hereby revoked.
 
@@ -1020,65 +1020,65 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 Regulation 6
 
-**1.**[^key-f5cee7612dc189af8e075b3be75a4d1c] The aims and objectives of the establishment or agency.
+**1.**[^c-f5cee7612dc189af8e075b3be75a4d1c] The aims and objectives of the establishment or agency.
 
-**2.**[^key-7cf4a0cfcede5867b38a6c877356b688] The name, address, telephone, fax and electronic mail contact details (if any) of the registered provider and of any registered manager.
+**2.**[^c-7cf4a0cfcede5867b38a6c877356b688] The name, address, telephone, fax and electronic mail contact details (if any) of the registered provider and of any registered manager.
 
-**3.**[^key-4eaad8976414c55f7110d82773ef4a65] The relevant qualifications and relevant experience of the registered provider and any registered manager.
+**3.**[^c-4eaad8976414c55f7110d82773ef4a65] The relevant qualifications and relevant experience of the registered provider and any registered manager.
 
-**4.**[^key-b1adf6b4543d0110971ab74401a3b28c] In the case of an organisation, details of the responsible individual’s roles and responsibilities within the organisation.
+**4.**[^c-b1adf6b4543d0110971ab74401a3b28c] In the case of an organisation, details of the responsible individual’s roles and responsibilities within the organisation.
 
-**5.**[^key-b6e9130d713ea6d76fcfa0052cbf1a44] The number, relevant qualifications and experience of the staff working in the establishment or for the purposes of the agency.
+**5.**[^c-b6e9130d713ea6d76fcfa0052cbf1a44] The number, relevant qualifications and experience of the staff working in the establishment or for the purposes of the agency.
 
-**6.**[^key-5b1c76f8d41d194a32d3b7aa84df7992] The registered provider’s organisational structure.
+**6.**[^c-5b1c76f8d41d194a32d3b7aa84df7992] The registered provider’s organisational structure.
 
-**7.**[^key-7b86b643864a77851b8abebd5a852a1c] The kinds of treatment, facilities and all other services provided for in or for the purposes of the establishment or agency, including details of the range of needs which those services are intended to meet and which are available for the benefit of patients.
+**7.**[^c-7b86b643864a77851b8abebd5a852a1c] The kinds of treatment, facilities and all other services provided for in or for the purposes of the establishment or agency, including details of the range of needs which those services are intended to meet and which are available for the benefit of patients.
 
-**8.**[^key-2be27fe27ce3d1ffd66db5264bcff9d1] The arrangements made for seeking patients' views about the quality of services provided by the establishment or agency.
+**8.**[^c-2be27fe27ce3d1ffd66db5264bcff9d1] The arrangements made for seeking patients' views about the quality of services provided by the establishment or agency.
 
-**9.**[^key-845894acfef7167300c2591e0d1630ec] The arrangements made for contact between any in-patients and their relatives, friends and representatives including any limitations on visiting hours.
+**9.**[^c-845894acfef7167300c2591e0d1630ec] The arrangements made for contact between any in-patients and their relatives, friends and representatives including any limitations on visiting hours.
 
-**10.**[^key-ef0d2098500e8ddb6689d1f993c5f2e8] The arrangements for dealing with complaints as set out in regulation 24.
+**10.**[^c-ef0d2098500e8ddb6689d1f993c5f2e8] The arrangements for dealing with complaints as set out in regulation 24.
 
-**11.**[^key-e7f0222fc7ecbe988cd6e48f2593350e] The arrangements for respecting the privacy and dignity of patients.
+**11.**[^c-e7f0222fc7ecbe988cd6e48f2593350e] The arrangements for respecting the privacy and dignity of patients.
 
-**12.**[^key-459a36bb713c02e346e9b58c778986ea] The date the statement of purpose was written and, where revised in accordance with regulation 8(a), the date of such revision.
+**12.**[^c-459a36bb713c02e346e9b58c778986ea] The date the statement of purpose was written and, where revised in accordance with regulation 8(a), the date of such revision.
 
 ## SCHEDULE 2 — Information required in respect of persons seeking to carry on, manage or work at an establishment or agency
 
 Regulations 10(3), 12(2) and 21(2)
 
-**1.**[^key-6518006e8ae8c735d8f41b1ed2722a18] Positive proof of identity including a recent photograph.
+**1.**[^c-6518006e8ae8c735d8f41b1ed2722a18] Positive proof of identity including a recent photograph.
 
-**2.**[^key-67502654ef7af9dbce6cc230bebdf5c4] Either—
+**2.**[^c-67502654ef7af9dbce6cc230bebdf5c4] Either—
 
 - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997[^f00025] which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act) or suitability information relating to children (within the meaning of section 113BA(2) of that Act) or both, in respect of which less than three years have elapsed since it was issued; or
 - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997 in respect of which less than three years have elapsed since it was issued,
 
 and references to the Police Act 1997 include references to that Act as amended from time to time.
 
-**3.**[^key-79d97a50cf8085f655afdd41953dfd5f] Either—
+**3.**[^c-79d97a50cf8085f655afdd41953dfd5f] Either—
 
 - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act) or suitability information relating to children (within the meaning of section 113BA(2) of that Act); or
 - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997,
 
 and references to the Police Act 1997 include references to that Act as amended from time to time.
 
-**4.**[^key-7924a32fbfc1f0dbee79b914ad226b50] Written references from each of the person’s two most recent employers.
+**4.**[^c-7924a32fbfc1f0dbee79b914ad226b50] Written references from each of the person’s two most recent employers.
 
-**5.**[^key-14ff6339cc84fdd25c05dbf1f9180dc3] Where a person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why the employment or position ended.
+**5.**[^c-14ff6339cc84fdd25c05dbf1f9180dc3] Where a person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why the employment or position ended.
 
-**6.**[^key-85173bcc0dce9eedfcbd8c9198b13af3] Documentary evidence of any relevant qualification.
+**6.**[^c-85173bcc0dce9eedfcbd8c9198b13af3] Documentary evidence of any relevant qualification.
 
-**7.**[^key-7f03f2455d9c0db5618d29570358c5dd] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**7.**[^c-7f03f2455d9c0db5618d29570358c5dd] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**8.**[^key-01e8ecdddc444edb8e17c3287a3bbf84] Where the person is a health care professional, details of the person’s registration with the body (if any) responsible for regulation of members of the health care profession in question.
+**8.**[^c-01e8ecdddc444edb8e17c3287a3bbf84] Where the person is a health care professional, details of the person’s registration with the body (if any) responsible for regulation of members of the health care profession in question.
 
 ## SCHEDULE 3
 
 Regulation 23(1), (3)
 
-### PART I — Period for which Medical Records must be Retained[^key-00e4628844b953b627d4ba95ebf98ab2]
+### PART I — Period for which Medical Records must be Retained[^c-00e4628844b953b627d4ba95ebf98ab2]
 
 | ***Type of patient*** | ***Minimum period of retention*** |
 | --- | --- |
@@ -1094,7 +1094,7 @@ Regulation 23(1), (3)
 
 ### PART II — Records to be Maintained for Inspection
 
-**1.**[^key-5be72b16b7c3beff5deb05df0430916f] A register of patients, including—
+**1.**[^c-5be72b16b7c3beff5deb05df0430916f] A register of patients, including—
 
 - (a) the name, address, telephone number, date of birth and marital status or civil partnership status of each patient;
 - (b) the name, address and telephone number of the patient’s next of kin or any person authorised by the patient to act on the patient’s behalf;
@@ -1108,7 +1108,7 @@ Regulation 23(1), (3)
 - (j) if the patient has been transferred to a hospital (including a health service hospital), the date of the transfer, the reasons for it and the name of the hospital to which the patient was transferred;
 - (k) if the patient dies whilst in an establishment or during treatment provided for the purposes of an establishment or agency, the date, time and cause of death.
 
-**2.**[^key-3d36b36e901651965704d12e5cdbd25d] A register of all surgical operations performed in an establishment, including—
+**2.**[^c-3d36b36e901651965704d12e5cdbd25d] A register of all surgical operations performed in an establishment, including—
 
 - (a) the name of the patient on whom the operation was performed;
 - (b) the nature of the surgical procedure and the date on which it took place;
@@ -1117,17 +1117,17 @@ Regulation 23(1), (3)
 - (e) the name and signature of the person responsible for checking that all needles, swabs and equipment used during the operation have been recovered from the patient;
 - (f) details of all implanted medical devices, except where this would entail the disclosure of information contrary to the provisions of section 33A(1)(e), (f) and (g) of the Human Fertilisation and Embryology Act 1990[^f00026] (disclosure of information).
 
-**3.**[^key-adc7a7752e89a2ec53dfb419ac38b8a6] A register of all mechanical and technical equipment used for the purposes of treatment provided by the establishment or agency, including—
+**3.**[^c-adc7a7752e89a2ec53dfb419ac38b8a6] A register of all mechanical and technical equipment used for the purposes of treatment provided by the establishment or agency, including—
 
 - (a) the date of purchase of the equipment;
 - (b) the date of installation of the equipment;
 - (c) details of maintenance of the equipment and the dates on which maintenance work was carried out.
 
-**4.**[^key-3bcf56df6c0e82c77b9fe69b13e2f093] A register of all events which must be notified to the registration authority in accordance with regulations 29 and 30.
+**4.**[^c-3bcf56df6c0e82c77b9fe69b13e2f093] A register of all events which must be notified to the registration authority in accordance with regulations 29 and 30.
 
-**5.**[^key-31766054bf03921537499eda440440ea] A record of the rostered shifts for each employee and a record of the hours actually worked by each person.
+**5.**[^c-31766054bf03921537499eda440440ea] A record of the rostered shifts for each employee and a record of the hours actually worked by each person.
 
-**6.**[^key-53af55c62ea15b481c7150cbfd309a95] A record of each person employed in or for the purposes of the establishment or purpose of the agency, which must include in respect of an individual described in regulation 21(1) the following matters—
+**6.**[^c-53af55c62ea15b481c7150cbfd309a95] A record of each person employed in or for the purposes of the establishment or purpose of the agency, which must include in respect of an individual described in regulation 21(1) the following matters—
 
 - (a) the person’s name and date of birth;
 - (b) details of the person’s position in the establishment;
@@ -1140,23 +1140,23 @@ Regulation 43(5)
 
 ### PART I — Details to be Recorded in Respect of Patients Receiving Obstetric Services
 
-**1.**[^key-14747e27928b5af22ec5a5fa8b8f4991] The date and time of delivery of each patient, the number of children born to the patient, the sex of each child and whether the birth was a live birth or a stillbirth.
+**1.**[^c-14747e27928b5af22ec5a5fa8b8f4991] The date and time of delivery of each patient, the number of children born to the patient, the sex of each child and whether the birth was a live birth or a stillbirth.
 
-**2.**[^key-9c0d24bc30a78af858cae4d8020b7436] The name and qualifications of the person who delivered the patient.
+**2.**[^c-9c0d24bc30a78af858cae4d8020b7436] The name and qualifications of the person who delivered the patient.
 
-**3.**[^key-4be5a3447f739b234ed301438a371ea7] The date and time of any miscarriage occurring in the hospital.
+**3.**[^c-4be5a3447f739b234ed301438a371ea7] The date and time of any miscarriage occurring in the hospital.
 
-**4.**[^key-05eef29ed3f5099a42792230847e50e6] The date on which any child born to a patient left the hospital.
+**4.**[^c-05eef29ed3f5099a42792230847e50e6] The date on which any child born to a patient left the hospital.
 
-**5.**[^key-9bd00c6e2aa77e3c18e3f05562abf192] If any child born to a patient died in the hospital, the date and time of death.
+**5.**[^c-9bd00c6e2aa77e3c18e3f05562abf192] If any child born to a patient died in the hospital, the date and time of death.
 
 ### PART II — Details to be Recorded in Respect of a Child Born in an Independent Hospital
 
-**6.**[^key-b7bcfd2bf3f27df0980b5c5991dad587] Details of the weight and condition of the child at birth.
+**6.**[^c-b7bcfd2bf3f27df0980b5c5991dad587] Details of the weight and condition of the child at birth.
 
-**7.**[^key-7c10d14a9ceb78cb003f1a18865adbf0] A daily statement of the child’s health.
+**7.**[^c-7c10d14a9ceb78cb003f1a18865adbf0] A daily statement of the child’s health.
 
-**8.**[^key-80569b229e11b0477dd9c4004c805bce] If any paediatric examination is carried out involving any of the following procedures—
+**8.**[^c-80569b229e11b0477dd9c4004c805bce] If any paediatric examination is carried out involving any of the following procedures—
 
 - (a) examination for congenital abnormalities including congenital dislocation of the hip;
 - (b) measurement of the circumference of the head of the child;
@@ -1203,21 +1203,21 @@ Part VI deals with miscellaneous matters. In particular, regulation 52 provides 
 
 [^f00003]: Footnote: *See* section 22(9) of the Care Standards Act 2000 for the requirement to consult.
 
-[^key-3f6df6e2205997c0787b9321b8a634e1]: Commencement: Reg. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-3f6df6e2205997c0787b9321b8a634e1]: Commencement: Reg. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-f9da28e2d5246f04fcab6237ef28ce5a]: Commencement: Reg. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-f9da28e2d5246f04fcab6237ef28ce5a]: Commencement: Reg. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00004]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-b7897a296ed4c2b97a4780a16f9624bc]: Textual amendment: Words in reg. 2(1) inserted (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/wsi/2017/202), [regs. 1](https://www.legislation.gov.uk/wsi/2017/202/regulation/1), [38(1)](https://www.legislation.gov.uk/wsi/2017/202/regulation/38/1)
+[^c-b7897a296ed4c2b97a4780a16f9624bc]: Textual amendment: Words in reg. 2(1) inserted (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/wsi/2017/202), [regs. 1](https://www.legislation.gov.uk/wsi/2017/202/regulation/1), [38(1)](https://www.legislation.gov.uk/wsi/2017/202/regulation/38/1)
 
 [^f00005]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-9a2f9b85e2c2ba91fca6631b3854683f]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 202(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202/a/i)
+[^c-9a2f9b85e2c2ba91fca6631b3854683f]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 202(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202/a/i)
 
 [^f00007]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8).
 
-[^key-57d38d50fdd1ca346b90722a469b1001]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 202(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202/a/iii)
+[^c-57d38d50fdd1ca346b90722a469b1001]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 202(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202/a/iii)
 
 [^f00008]: Footnote: S.I. [2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 
@@ -1225,17 +1225,17 @@ Part VI deals with miscellaneous matters. In particular, regulation 52 provides 
 
 [^f00010]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-7a443242bb19c967d3d2c2bed00562a3]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 202(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202/a/ii)
+[^c-7a443242bb19c967d3d2c2bed00562a3]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 202(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202/a/ii)
 
 [^f00011]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). This section was inserted by [S.I.2010/234](https://www.legislation.gov.uk/uksi/2010/234) (article 4, Schedule 1, paragraph 10).
 
-[^key-ebce7e4cd0eae237cd000473065da8e1]: Commencement: Reg. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-ebce7e4cd0eae237cd000473065da8e1]: Commencement: Reg. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00012]: Footnote: Copies of BS EN 60825-1 may be obtained from BSI Customer Services, 389 Chiswick High Road, London W4 4AL.
 
 [^f00013]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37).
 
-[^key-4afcef8de0f7df7d18b94bc88ef69c08]: Textual amendment: [Reg. 3(2)(ba)](https://www.legislation.gov.uk/wsi/2011/734/regulation/3/2/ba) inserted (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/wsi/2017/202), [regs. 1](https://www.legislation.gov.uk/wsi/2017/202/regulation/1), [38(2)](https://www.legislation.gov.uk/wsi/2017/202/regulation/38/2)
+[^c-4afcef8de0f7df7d18b94bc88ef69c08]: Textual amendment: [Reg. 3(2)(ba)](https://www.legislation.gov.uk/wsi/2011/734/regulation/3/2/ba) inserted (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/wsi/2017/202), [regs. 1](https://www.legislation.gov.uk/wsi/2017/202/regulation/1), [38(2)](https://www.legislation.gov.uk/wsi/2017/202/regulation/38/2)
 
 [^f00014]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). *See* paragraph 12 of the Schedule.
 
@@ -1243,198 +1243,198 @@ Part VI deals with miscellaneous matters. In particular, regulation 52 provides 
 
 [^f00016]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-9e738df5f418d49d87090f90a3f256d1]: Commencement: Reg. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-9e738df5f418d49d87090f90a3f256d1]: Commencement: Reg. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-fbee95b828730df74498cf42e4baf145]: Commencement: Reg. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-fbee95b828730df74498cf42e4baf145]: Commencement: Reg. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-a12cba06927e6dedb12d4523b127e03a]: Commencement: Reg. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-a12cba06927e6dedb12d4523b127e03a]: Commencement: Reg. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-aa606079fc00fe52eaed09b54b4d3099]: Commencement: Reg. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-aa606079fc00fe52eaed09b54b4d3099]: Commencement: Reg. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7bfb6e2d563c95f969654e7555d0587e]: Commencement: Reg. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7bfb6e2d563c95f969654e7555d0587e]: Commencement: Reg. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-4dada14d8a813f90610ba4705c99e62e]: Commencement: Reg. 9 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-4dada14d8a813f90610ba4705c99e62e]: Commencement: Reg. 9 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-434c3fca8159b0fbec358313e74e3399]: Commencement: Reg. 10 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-434c3fca8159b0fbec358313e74e3399]: Commencement: Reg. 10 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-018ee497af49cbbde04ddec73db71bf4]: Textual amendment: Word in [reg. 10(4)(a)](https://www.legislation.gov.uk/wsi/2011/734/regulation/10/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/15/a)
+[^c-018ee497af49cbbde04ddec73db71bf4]: Textual amendment: Word in [reg. 10(4)(a)](https://www.legislation.gov.uk/wsi/2011/734/regulation/10/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/15/a)
 
-[^key-6da25b9b10758723f145f5e7a4d058f6]: Commencement: Reg. 11 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-6da25b9b10758723f145f5e7a4d058f6]: Commencement: Reg. 11 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-d20f461a4d203ef540b27ced7bdd50ce]: Commencement: Reg. 12 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-d20f461a4d203ef540b27ced7bdd50ce]: Commencement: Reg. 12 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-a80211763603981d80ee3b8ef0d7c38b]: Commencement: Reg. 13 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-a80211763603981d80ee3b8ef0d7c38b]: Commencement: Reg. 13 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-33af7a267a514d92b1435a0f3665d89b]: Commencement: Reg. 14 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-33af7a267a514d92b1435a0f3665d89b]: Commencement: Reg. 14 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00017]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
 
-[^key-508009bb4f61cc05eb6c5dedb3776a5e]: Commencement: Reg. 15 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-508009bb4f61cc05eb6c5dedb3776a5e]: Commencement: Reg. 15 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-139f90bb67200f086c6ef8dec89a8b52]: Commencement: Reg. 16 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-139f90bb67200f086c6ef8dec89a8b52]: Commencement: Reg. 16 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-44506863e5828a0fe80f7c5190c23008]: Commencement: Reg. 17 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-44506863e5828a0fe80f7c5190c23008]: Commencement: Reg. 17 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-f1a398f6e690e9bfdb074c5f474efdad]: Commencement: Reg. 18 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-f1a398f6e690e9bfdb074c5f474efdad]: Commencement: Reg. 18 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-48febc1aed9eb9e7eada2b5c83624184]: Commencement: Reg. 19 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-48febc1aed9eb9e7eada2b5c83624184]: Commencement: Reg. 19 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-dc6d6bae820b92b3692856b3b2bff2a6]: Commencement: Reg. 20 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-dc6d6bae820b92b3692856b3b2bff2a6]: Commencement: Reg. 20 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-83d7aff99f483d51e1a5b1eadb985333]: Commencement: Reg. 21 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-83d7aff99f483d51e1a5b1eadb985333]: Commencement: Reg. 21 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-45daab94d3a944616587e8bc885bc7b8]: Commencement: Reg. 22 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-45daab94d3a944616587e8bc885bc7b8]: Commencement: Reg. 22 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-27af8cf71f4681586fb1960822099ab9]: Commencement: Reg. 23 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-27af8cf71f4681586fb1960822099ab9]: Commencement: Reg. 23 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-0a098a20693391e5f1a71eb149593e64]: Commencement: Reg. 24 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-0a098a20693391e5f1a71eb149593e64]: Commencement: Reg. 24 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-973ae396608c3d7dd4db6eed9cae3df2]: Commencement: Reg. 25 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-973ae396608c3d7dd4db6eed9cae3df2]: Commencement: Reg. 25 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7cf21d80d5eaa0f7e46be02e74c0a970]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/wsi/2011/734/regulation/25/2) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/12) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
+[^c-7cf21d80d5eaa0f7e46be02e74c0a970]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/wsi/2011/734/regulation/25/2) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/12) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
 
-[^key-c4a3021c8177252315da78d9eeccdcb8]: Commencement: Reg. 26 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-c4a3021c8177252315da78d9eeccdcb8]: Commencement: Reg. 26 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00018]: Footnote: S.I. [2005/1541](https://www.legislation.gov.uk/uksi/2005/1541).
 
-[^key-0126ea55f2a55e0e3e27807452da0ede]: Commencement: Reg. 27 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-0126ea55f2a55e0e3e27807452da0ede]: Commencement: Reg. 27 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-c7e02fd3ec064b33d228a9c0d1d3e898]: Commencement: Reg. 28 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-c7e02fd3ec064b33d228a9c0d1d3e898]: Commencement: Reg. 28 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-992952f461d72a7a9996300db1b186a7]: Commencement: Reg. 29 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-992952f461d72a7a9996300db1b186a7]: Commencement: Reg. 29 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-02fa3dc9bab9fbebd28d709a114b0a6d]: Commencement: Reg. 30 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-02fa3dc9bab9fbebd28d709a114b0a6d]: Commencement: Reg. 30 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-a6aea7339747e9b2293095c2165d8f8e]: Commencement: Reg. 31 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-a6aea7339747e9b2293095c2165d8f8e]: Commencement: Reg. 31 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00019]: Footnote: *See* Schedule A1, part 13.
 
-[^key-4775761ae374e9ed9b283120b5e8f19d]: Commencement: Reg. 32 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-4775761ae374e9ed9b283120b5e8f19d]: Commencement: Reg. 32 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-010441f81b773ab3f98fb650c4f3cd04]: Commencement: Reg. 33 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-010441f81b773ab3f98fb650c4f3cd04]: Commencement: Reg. 33 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-79ed4c43556a0df230962540ee556a86]: Commencement: Reg. 34 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-79ed4c43556a0df230962540ee556a86]: Commencement: Reg. 34 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-d0fa9858812648a7e7238d0c58a22008]: Commencement: Reg. 35 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-d0fa9858812648a7e7238d0c58a22008]: Commencement: Reg. 35 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-dc99fad8d250061a0cc809a20aef72bc]: Commencement: Reg. 36 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-dc99fad8d250061a0cc809a20aef72bc]: Commencement: Reg. 36 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-37878899a8fb3b7b727d91d296aeb8b9]: Commencement: Reg. 37 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-37878899a8fb3b7b727d91d296aeb8b9]: Commencement: Reg. 37 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-33566e1fcfdc1f2ff68ad4b61598a121]: Commencement: Reg. 38 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-33566e1fcfdc1f2ff68ad4b61598a121]: Commencement: Reg. 38 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-05d74d01d301a32fdd6459b9d19306c4]: Commencement: Reg. 39 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-05d74d01d301a32fdd6459b9d19306c4]: Commencement: Reg. 39 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-f2c2dda271ef02e76cd11408aa40dd3e]: Commencement: Reg. 40 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-f2c2dda271ef02e76cd11408aa40dd3e]: Commencement: Reg. 40 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-73ce2f116067c119e4cb69e5ac197534]: Commencement: Reg. 41 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-73ce2f116067c119e4cb69e5ac197534]: Commencement: Reg. 41 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-e9c7ffd3a0bb7e190675857ac34f425c]: Commencement: Reg. 42 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-e9c7ffd3a0bb7e190675857ac34f425c]: Commencement: Reg. 42 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-284822f770a326eea32ffbdacb068d4b]: Commencement: Reg. 43 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-284822f770a326eea32ffbdacb068d4b]: Commencement: Reg. 43 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00020]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 
-[^key-2917d844160490f390e8e2ef994a6575]: Commencement: Reg. 44 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-2917d844160490f390e8e2ef994a6575]: Commencement: Reg. 44 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00021]: Footnote: [1967 c. 87](https://www.legislation.gov.uk/ukpga/1967/87).
 
-[^key-3263eccfa558ea932a27746cfc34516c]: Commencement: Reg. 45 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-3263eccfa558ea932a27746cfc34516c]: Commencement: Reg. 45 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7e81d1031ca90c3c52a7d09dc59683db]: Commencement: Reg. 46 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7e81d1031ca90c3c52a7d09dc59683db]: Commencement: Reg. 46 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-053b72704285fc550104ccf4592c4ff1]: Commencement: Reg. 47 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-053b72704285fc550104ccf4592c4ff1]: Commencement: Reg. 47 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7ac4aaa134615039daaefb808e5867f7]: Commencement: Reg. 48 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7ac4aaa134615039daaefb808e5867f7]: Commencement: Reg. 48 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-076b61a080c0d4bf7c29a536f55d462b]: Commencement: Reg. 49 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-076b61a080c0d4bf7c29a536f55d462b]: Commencement: Reg. 49 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00022]: Footnote: S.I. [2008/2439 (W.212)](https://www.legislation.gov.uk/wsi/2008/2439).
 
-[^key-5278953db5639ad137c389f5579220a7]: Commencement: Reg. 50 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-5278953db5639ad137c389f5579220a7]: Commencement: Reg. 50 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-c8995c8bfd9fccccb16f18539ce40a4b]: Commencement: Reg. 51 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-c8995c8bfd9fccccb16f18539ce40a4b]: Commencement: Reg. 51 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-d4174b61a10e3c8dac059473be6e9145]: Commencement: Reg. 52 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-d4174b61a10e3c8dac059473be6e9145]: Commencement: Reg. 52 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-f5abfa546b4e80b4478df0fadbebd3ee]: Commencement: Reg. 53 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-f5abfa546b4e80b4478df0fadbebd3ee]: Commencement: Reg. 53 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00023]: Footnote: S.I. [2011/106 (W.25)](https://www.legislation.gov.uk/wsi/2011/106).
 
-[^key-bef942f7b2d189bd7b963ba207edf0ce]: Commencement: Reg. 54 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-bef942f7b2d189bd7b963ba207edf0ce]: Commencement: Reg. 54 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00024]: Footnote: S.I. [2002/325 (W.38)](https://www.legislation.gov.uk/wsi/2002/325).
 
-[^key-f5cee7612dc189af8e075b3be75a4d1c]: Commencement: Sch. 1 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-f5cee7612dc189af8e075b3be75a4d1c]: Commencement: Sch. 1 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7cf4a0cfcede5867b38a6c877356b688]: Commencement: Sch. 1 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7cf4a0cfcede5867b38a6c877356b688]: Commencement: Sch. 1 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-4eaad8976414c55f7110d82773ef4a65]: Commencement: Sch. 1 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-4eaad8976414c55f7110d82773ef4a65]: Commencement: Sch. 1 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-b1adf6b4543d0110971ab74401a3b28c]: Commencement: Sch. 1 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-b1adf6b4543d0110971ab74401a3b28c]: Commencement: Sch. 1 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-b6e9130d713ea6d76fcfa0052cbf1a44]: Commencement: Sch. 1 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-b6e9130d713ea6d76fcfa0052cbf1a44]: Commencement: Sch. 1 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-5b1c76f8d41d194a32d3b7aa84df7992]: Commencement: Sch. 1 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-5b1c76f8d41d194a32d3b7aa84df7992]: Commencement: Sch. 1 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7b86b643864a77851b8abebd5a852a1c]: Commencement: Sch. 1 para. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7b86b643864a77851b8abebd5a852a1c]: Commencement: Sch. 1 para. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-2be27fe27ce3d1ffd66db5264bcff9d1]: Commencement: Sch. 1 para. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-2be27fe27ce3d1ffd66db5264bcff9d1]: Commencement: Sch. 1 para. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-845894acfef7167300c2591e0d1630ec]: Commencement: Sch. 1 para. 9 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-845894acfef7167300c2591e0d1630ec]: Commencement: Sch. 1 para. 9 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-ef0d2098500e8ddb6689d1f993c5f2e8]: Commencement: Sch. 1 para. 10 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-ef0d2098500e8ddb6689d1f993c5f2e8]: Commencement: Sch. 1 para. 10 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-e7f0222fc7ecbe988cd6e48f2593350e]: Commencement: Sch. 1 para. 11 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-e7f0222fc7ecbe988cd6e48f2593350e]: Commencement: Sch. 1 para. 11 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-459a36bb713c02e346e9b58c778986ea]: Commencement: Sch. 1 para. 12 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-459a36bb713c02e346e9b58c778986ea]: Commencement: Sch. 1 para. 12 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-6518006e8ae8c735d8f41b1ed2722a18]: Commencement: Sch. 2 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-6518006e8ae8c735d8f41b1ed2722a18]: Commencement: Sch. 2 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-67502654ef7af9dbce6cc230bebdf5c4]: Commencement: Sch. 2 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-67502654ef7af9dbce6cc230bebdf5c4]: Commencement: Sch. 2 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00025]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-79d97a50cf8085f655afdd41953dfd5f]: Commencement: Sch. 2 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-79d97a50cf8085f655afdd41953dfd5f]: Commencement: Sch. 2 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7924a32fbfc1f0dbee79b914ad226b50]: Commencement: Sch. 2 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7924a32fbfc1f0dbee79b914ad226b50]: Commencement: Sch. 2 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-14ff6339cc84fdd25c05dbf1f9180dc3]: Commencement: Sch. 2 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-14ff6339cc84fdd25c05dbf1f9180dc3]: Commencement: Sch. 2 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-85173bcc0dce9eedfcbd8c9198b13af3]: Commencement: Sch. 2 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-85173bcc0dce9eedfcbd8c9198b13af3]: Commencement: Sch. 2 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7f03f2455d9c0db5618d29570358c5dd]: Commencement: Sch. 2 para. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7f03f2455d9c0db5618d29570358c5dd]: Commencement: Sch. 2 para. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-01e8ecdddc444edb8e17c3287a3bbf84]: Commencement: Sch. 2 para. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-01e8ecdddc444edb8e17c3287a3bbf84]: Commencement: Sch. 2 para. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-00e4628844b953b627d4ba95ebf98ab2]: Commencement: Sch. 3 Pt. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-00e4628844b953b627d4ba95ebf98ab2]: Commencement: Sch. 3 Pt. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-5be72b16b7c3beff5deb05df0430916f]: Commencement: Sch. 3 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-5be72b16b7c3beff5deb05df0430916f]: Commencement: Sch. 3 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-3d36b36e901651965704d12e5cdbd25d]: Commencement: Sch. 3 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-3d36b36e901651965704d12e5cdbd25d]: Commencement: Sch. 3 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
 [^f00026]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37).
 
-[^key-adc7a7752e89a2ec53dfb419ac38b8a6]: Commencement: Sch. 3 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-adc7a7752e89a2ec53dfb419ac38b8a6]: Commencement: Sch. 3 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-3bcf56df6c0e82c77b9fe69b13e2f093]: Commencement: Sch. 3 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-3bcf56df6c0e82c77b9fe69b13e2f093]: Commencement: Sch. 3 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-31766054bf03921537499eda440440ea]: Commencement: Sch. 3 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-31766054bf03921537499eda440440ea]: Commencement: Sch. 3 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-53af55c62ea15b481c7150cbfd309a95]: Commencement: Sch. 3 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-53af55c62ea15b481c7150cbfd309a95]: Commencement: Sch. 3 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-14747e27928b5af22ec5a5fa8b8f4991]: Commencement: Sch. 4 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-14747e27928b5af22ec5a5fa8b8f4991]: Commencement: Sch. 4 para. 1 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-9c0d24bc30a78af858cae4d8020b7436]: Commencement: Sch. 4 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-9c0d24bc30a78af858cae4d8020b7436]: Commencement: Sch. 4 para. 2 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-4be5a3447f739b234ed301438a371ea7]: Commencement: Sch. 4 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-4be5a3447f739b234ed301438a371ea7]: Commencement: Sch. 4 para. 3 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-05eef29ed3f5099a42792230847e50e6]: Commencement: Sch. 4 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-05eef29ed3f5099a42792230847e50e6]: Commencement: Sch. 4 para. 4 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-9bd00c6e2aa77e3c18e3f05562abf192]: Commencement: Sch. 4 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-9bd00c6e2aa77e3c18e3f05562abf192]: Commencement: Sch. 4 para. 5 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-b7bcfd2bf3f27df0980b5c5991dad587]: Commencement: Sch. 4 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-b7bcfd2bf3f27df0980b5c5991dad587]: Commencement: Sch. 4 para. 6 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-7c10d14a9ceb78cb003f1a18865adbf0]: Commencement: Sch. 4 para. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-7c10d14a9ceb78cb003f1a18865adbf0]: Commencement: Sch. 4 para. 7 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
 
-[^key-80569b229e11b0477dd9c4004c805bce]: Commencement: Sch. 4 para. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)
+[^c-80569b229e11b0477dd9c4004c805bce]: Commencement: Sch. 4 para. 8 in force at 5.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/734/regulation/1/1)

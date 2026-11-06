@@ -24,9 +24,9 @@ summary: ''
 
 (2) Subsection (1) above has effect notwithstanding subsection (8) of section 152.
 
-(2A)[^key-58301cec8f061ea46d62e8ad88e91f3a] But subsection (1) is subject to section 198A(3)(a).
+(2A)[^c-58301cec8f061ea46d62e8ad88e91f3a] But subsection (1) is subject to section 198A(3)(a).
 
-(3)[^key-c32d6463e84a7740d0b379c840b6e96d] Where—
+(3)[^c-c32d6463e84a7740d0b379c840b6e96d] Where—
 
 - (a) section 152 or 153 applies in relation to any of the consideration on a material disposal, and
 - (b) the asset which constitutes the new assets for the purposes of that section is a depreciating asset,
@@ -41,12 +41,12 @@ section 154(2)(b) is to have effect as if the reference to a trade carried on by
 (5) In this section—
 
 - (a) “**material disposal**” has the meaning assigned to it by section 197; and
-- (b) “**ring fence trade**” means a trade consisting of activities falling within the definition of “oil-related activities” in section 16(2) of ITTOIA 2005 or section 274 of CTA 2010[^key-5239cda659e4198707da88cdfe21557a].
+- (b) “**ring fence trade**” means a trade consisting of activities falling within the definition of “oil-related activities” in section 16(2) of ITTOIA 2005 or section 274 of CTA 2010[^c-5239cda659e4198707da88cdfe21557a].
 
 ## Annotations
 
-[^key-58301cec8f061ea46d62e8ad88e91f3a]: Textual amendment: S. 198(2A) inserted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/11)
+[^c-58301cec8f061ea46d62e8ad88e91f3a]: Textual amendment: S. 198(2A) inserted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/11)
 
-[^key-c32d6463e84a7740d0b379c840b6e96d]: Textual amendment: S. 198(3) substituted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/10)
+[^c-c32d6463e84a7740d0b379c840b6e96d]: Textual amendment: S. 198(3) substituted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/10)
 
-[^key-5239cda659e4198707da88cdfe21557a]: Textual amendment: Words in s. 198(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 248](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/248) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5239cda659e4198707da88cdfe21557a]: Textual amendment: Words in s. 198(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 248](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/248) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

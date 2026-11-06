@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Default powers[^key-166373db83c5b5f63576fae338b68086]
+## 68. Default powers[^c-166373db83c5b5f63576fae338b68086]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ he may after such inquiry as he considers appropriate make an order declaring it
 
 ## Annotations
 
-[^key-166373db83c5b5f63576fae338b68086]: Modification: S. 68 modified (temp.) (11.7.2012) by [The Health and Social Care Act 2012 (Commencement No.2 and Transitional, Savings and Transitory Provisions) Order 2012 (S.I. 2012/1831)](https://www.legislation.gov.uk/uksi/2012/1831), [art. 13(3)-(5)](https://www.legislation.gov.uk/uksi/2012/1831/article/13/3)
+[^c-166373db83c5b5f63576fae338b68086]: Modification: S. 68 modified (temp.) (11.7.2012) by [The Health and Social Care Act 2012 (Commencement No.2 and Transitional, Savings and Transitory Provisions) Order 2012 (S.I. 2012/1831)](https://www.legislation.gov.uk/uksi/2012/1831), [art. 13(3)-(5)](https://www.legislation.gov.uk/uksi/2012/1831/article/13/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300. Obligations of responsible officer[^key-7a5ef7c9fd369b9a153c0f69c841dd08]
+## 300. Obligations of responsible officer[^c-7a5ef7c9fd369b9a153c0f69c841dd08]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ and satisfies any additional restrictions that the Secretary of State may specif
 
 ## Annotations
 
-[^key-7a5ef7c9fd369b9a153c0f69c841dd08]: Commencement: S. 300 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7a5ef7c9fd369b9a153c0f69c841dd08]: Commencement: S. 300 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 9
 
-### 1. Transfer schemes[^key-149be3a142777609039799c13fd03776]
+### 1. Transfer schemes[^c-149be3a142777609039799c13fd03776]
 
 (1) The Secretary of State may make one or more property transfer schemes or staff transfer schemes.
 
@@ -30,7 +30,7 @@ Section 9
 
 (3) A “staff transfer scheme” is a scheme for the transfer to the IFR from the Secretary of State of any rights or liabilities under or in connection with a contract of employment.
 
-### 2. Supplementary[^key-ee7b554705754b59eb4613a5b41a7814]
+### 2. Supplementary[^c-ee7b554705754b59eb4613a5b41a7814]
 
 (1) The things that may be transferred under a property transfer scheme or a staff transfer scheme include—
 
@@ -49,7 +49,7 @@ Section 9
 
 (4) A staff transfer scheme may make provision which is the same as or similar to the Transfer of Undertakings (Protection of Employment) Regulations 2006 ([S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246)).
 
-### 3. Interpretation[^key-6232aec83361849d978617d41c7f314b]
+### 3. Interpretation[^c-6232aec83361849d978617d41c7f314b]
 
 For the purposes of this Schedule—
 
@@ -58,8 +58,8 @@ For the purposes of this Schedule—
 
 ## Annotations
 
-[^key-149be3a142777609039799c13fd03776]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-149be3a142777609039799c13fd03776]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
 
-[^key-ee7b554705754b59eb4613a5b41a7814]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-ee7b554705754b59eb4613a5b41a7814]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
 
-[^key-6232aec83361849d978617d41c7f314b]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-6232aec83361849d978617d41c7f314b]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

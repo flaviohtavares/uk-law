@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Gas and heat[^key-1ac346879b9da763e9bbdc4ee682dc2e]
+## 8. Gas and heat[^c-1ac346879b9da763e9bbdc4ee682dc2e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ac346879b9da763e9bbdc4ee682dc2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/49/regulation/8) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-1ac346879b9da763e9bbdc4ee682dc2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/49/regulation/8) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

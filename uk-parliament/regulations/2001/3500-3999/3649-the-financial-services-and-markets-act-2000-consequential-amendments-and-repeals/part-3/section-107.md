@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Authorised providers in relation to superannuation schemes for teachers[^key-70752d581ee76c8e936fe59ed2057d4f]
+## 107. Authorised providers in relation to superannuation schemes for teachers[^c-70752d581ee76c8e936fe59ed2057d4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 9(6) of the Superannuation Act 1972 (superannuation schemes as respec
 
 ## Annotations
 
-[^key-70752d581ee76c8e936fe59ed2057d4f]: Commencement: Art. 107 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-70752d581ee76c8e936fe59ed2057d4f]: Commencement: Art. 107 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00100]: Footnote: The definition of “authorised provider” in section 9(6) was inserted by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) s. 8(6).

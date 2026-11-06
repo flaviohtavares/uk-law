@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Business arrangements[^key-8a367809e45d75a0631307dea40f3e94]
+## 7. Business arrangements[^c-8a367809e45d75a0631307dea40f3e94]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a367809e45d75a0631307dea40f3e94]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/10/section/7) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-8a367809e45d75a0631307dea40f3e94]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/10/section/7) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

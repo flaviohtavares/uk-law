@@ -27,7 +27,7 @@ summary: ''
 - (a) carries out taxable activities, and
 - (b) is not exempted from registration by regulations under subsection (4) below.
 
-(3) For the purposes of subsection (2) above a person carries out a taxable activity if a quantity of aggregate is subjected to commercial exploitation in England, Wales or Northern Ireland[^key-a2b00c37d0b4f9689f9dba38ff7121c8] in circumstances in which he is responsible for its being so subjected.
+(3) For the purposes of subsection (2) above a person carries out a taxable activity if a quantity of aggregate is subjected to commercial exploitation in England, Wales or Northern Ireland[^c-a2b00c37d0b4f9689f9dba38ff7121c8] in circumstances in which he is responsible for its being so subjected.
 
 (4) The Commissioners may by regulations provide for persons carrying out taxable activities to be, to such extent and subject to such conditions or restrictions as may be prescribed, either—
 
@@ -43,7 +43,7 @@ summary: ''
 - (c) for applying an exempt process to any aggregate,
 - (ca) [^c12450231]for mixing, otherwise than in permitted circumstances (within the meaning given by section 19(7)), any aggregate with any material or substance other than water,
 - (d) for storing any aggregate, or
-- (e) for the first landing in England, Wales or Northern Ireland[^key-994dc2298f78b7531a246a0ddb9b541f] of aggregate won from the seabed of any area of sea in the United Kingdom or United Kingdom waters,
+- (e) for the first landing in England, Wales or Northern Ireland[^c-994dc2298f78b7531a246a0ddb9b541f] of aggregate won from the seabed of any area of sea in the United Kingdom or United Kingdom waters,
 
 they may, if they think fit, register those premises, in any entry relating to that person and under his name, as a registered site.
 
@@ -65,13 +65,13 @@ any question for the purposes of this Part as to the boundaries at that time of 
 
 [^c12450211]: Commencement: S. 24 wholly in force; s. 24(10) in force at Royal Assent for specified purposes, see s. 24(10); s. 24 in force insofar as not already in force at 11.1.2002 by [S.I. 2001/4033](https://www.legislation.gov.uk/uksi/2001/4033), [art. 3](https://www.legislation.gov.uk/uksi/2001/4033/article/3)
 
-[^key-a2b00c37d0b4f9689f9dba38ff7121c8]: Textual amendment: Words in s. 24(3) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/5/2); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-a2b00c37d0b4f9689f9dba38ff7121c8]: Textual amendment: Words in s. 24(3) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/5/2); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
 [^c12450221]: Textual amendment: S. 24(6)(b) repealed (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [ss. 131(3)(c)(4)](https://www.legislation.gov.uk/ukpga/2002/23/section/131/3/c/4), [141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/4/3)
 
 [^c12450231]: Textual amendment: S. 24(6)(ca) inserted (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 132(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/132/3), [Sch 38 para. 7](https://www.legislation.gov.uk/ukpga/2002/23/schedule/38/paragraph/7)
 
-[^key-994dc2298f78b7531a246a0ddb9b541f]: Textual amendment: Words in s. 24(6)(e) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/5/3) (as amended (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 14 paras. 16(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/16/a), [19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-994dc2298f78b7531a246a0ddb9b541f]: Textual amendment: Words in s. 24(6)(e) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/5/3) (as amended (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 14 paras. 16(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/16/a), [19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
 [^c12450241]: Textual amendment: S. 24(8)(a) repealed (*retrospective* to 1.4.2002) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [ss. 131(3)(c)(4)](https://www.legislation.gov.uk/ukpga/2002/23/section/131/3/c/4), [141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/4/3)
 

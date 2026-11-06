@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 223. Certification of matters by Revenue Scotland[^key-89ffc6527a4ec1d852ce243ed7860380]
+## 223. Certification of matters by Revenue Scotland[^c-89ffc6527a4ec1d852ce243ed7860380]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ is sufficient evidence of that fact until the contrary is proved.
 
 ## Annotations
 
-[^key-89ffc6527a4ec1d852ce243ed7860380]: Commencement: [S. 223](https://www.legislation.gov.uk/asp/2014/16/section/223) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-89ffc6527a4ec1d852ce243ed7860380]: Commencement: [S. 223](https://www.legislation.gov.uk/asp/2014/16/section/223) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

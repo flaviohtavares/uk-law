@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Time and manner of granting community charge benefit in respect of collective community charge contributions[^key-ed26cfefbc8c3290807c8adb806fd897]
+## 77. Time and manner of granting community charge benefit in respect of collective community charge contributions[^c-ed26cfefbc8c3290807c8adb806fd897]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed26cfefbc8c3290807c8adb806fd897]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1989/1321/regulation/77) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-ed26cfefbc8c3290807c8adb806fd897]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1989/1321/regulation/77) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
 [^f00065]: Footnote: Section 11(11) of the 1987 Act was amended by the 1988 Act Schedule 12, paragraph 20(8) and Schedule 13, Part IV.

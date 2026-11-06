@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Making funds available to designated persons[^key-7d7806532eda7d9553295778391de34b][^key-4843c7b57a65bc9e60f88b3f1ac528ed][^key-69323e20aac84b8219e22c1b52707c06]
+## 12. Making funds available to designated persons[^c-7d7806532eda7d9553295778391de34b][^c-4843c7b57a65bc9e60f88b3f1ac528ed][^c-69323e20aac84b8219e22c1b52707c06]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7d7806532eda7d9553295778391de34b]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-7d7806532eda7d9553295778391de34b]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-4843c7b57a65bc9e60f88b3f1ac528ed]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4843c7b57a65bc9e60f88b3f1ac528ed]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-69323e20aac84b8219e22c1b52707c06]: Textual amendment: Regs. 10-15 become Pt. 3 Ch. 1 (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/7/1)
+[^c-69323e20aac84b8219e22c1b52707c06]: Textual amendment: Regs. 10-15 become Pt. 3 Ch. 1 (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/7/1)

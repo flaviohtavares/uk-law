@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 2 and 3(1) of the Plant Health Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-b0ffac44bf89d5d7abf1f8f39966f035]
+## 1. Citation, commencement and extent[^c-b0ffac44bf89d5d7abf1f8f39966f035]
 
 (1) This Order may be cited as the Plant Health (Great Britain) Amendment (Scotland) Order 2003 and shall come into force on 1st April 2003.
 
 (2) This Order extends to Scotland only.
 
-## 2. Amendment of the Plant Health (Great Britain) Order 1993[^key-ab1af78d89f55d9cb3047a82ea8e3d40]
+## 2. Amendment of the Plant Health (Great Britain) Order 1993[^c-ab1af78d89f55d9cb3047a82ea8e3d40]
 
 (1) The Plant Health (Great Britain) Order 1993[^f00002] is amended in accordance with paragraphs (2) to (21) below.
 
@@ -354,9 +354,9 @@ The Order makes other minor corrections and improvements to the principal Order.
 
 [^f00001]: Footnote: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8). Sections 2(1) and 3(1) were amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 8. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-b0ffac44bf89d5d7abf1f8f39966f035]: Commencement: Art. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/224/article/1/1)
+[^c-b0ffac44bf89d5d7abf1f8f39966f035]: Commencement: Art. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/224/article/1/1)
 
-[^key-ab1af78d89f55d9cb3047a82ea8e3d40]: Commencement: Art. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/224/article/1/1)
+[^c-ab1af78d89f55d9cb3047a82ea8e3d40]: Commencement: Art. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/224/article/1/1)
 
 [^f00002]: Footnote: S.I. [1993/1320](https://www.legislation.gov.uk/uksi/1993/1320); amended by S.I. [1993/3213](https://www.legislation.gov.uk/uksi/1993/3213), [1995/1358](https://www.legislation.gov.uk/uksi/1995/1358) and [2929](https://www.legislation.gov.uk/uksi/1995/2929), [1996/25](https://www.legislation.gov.uk/uksi/1996/25), [1165](https://www.legislation.gov.uk/uksi/1996/1165) and [3242](https://www.legislation.gov.uk/uksi/1996/3242), [1997/1145](https://www.legislation.gov.uk/uksi/1997/1145) and [2907](https://www.legislation.gov.uk/uksi/1997/2907), [1998/349](https://www.legislation.gov.uk/uksi/1998/349) and [1121](https://www.legislation.gov.uk/uksi/1998/1121), [S.S.I. 1999/22](https://www.legislation.gov.uk/ssi/1999/22), [2001/249](https://www.legislation.gov.uk/ssi/2001/249) and [2002/164](https://www.legislation.gov.uk/ssi/2002/164).
 

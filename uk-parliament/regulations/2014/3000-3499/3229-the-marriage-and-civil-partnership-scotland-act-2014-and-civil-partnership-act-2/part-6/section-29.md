@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Consequential modifications[^key-17e4b1b0c8668f7583ecbef54141c7f2]
+## 29. Consequential modifications[^c-17e4b1b0c8668f7583ecbef54141c7f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedules 5 and 6 to this Order (which make consequential modifications to prima
 
 ## Annotations
 
-[^key-17e4b1b0c8668f7583ecbef54141c7f2]: Commencement: Art. 29 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-17e4b1b0c8668f7583ecbef54141c7f2]: Commencement: Art. 29 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

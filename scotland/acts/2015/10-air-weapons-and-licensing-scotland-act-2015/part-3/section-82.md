@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Civic licensing standards officers[^key-2e7804bd84acabe7e84a514972f671a3]
+## 82. Civic licensing standards officers[^c-2e7804bd84acabe7e84a514972f671a3]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ After Part 3 of the 1982 Act insert—
 
 ## Annotations
 
-[^key-2e7804bd84acabe7e84a514972f671a3]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2015/10/section/82) in force at 1.5.2017 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-2e7804bd84acabe7e84a514972f671a3]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2015/10/section/82) in force at 1.5.2017 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

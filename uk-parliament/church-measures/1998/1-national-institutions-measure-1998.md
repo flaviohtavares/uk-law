@@ -56,7 +56,7 @@ A Measure passed by the General Synod of the Church of England to make better pr
 
 (2) Before determining the amount mentioned in subsection (1)(a) above the Church Commissioners shall consult the Council and in making the determination they shall have regard to any proposals made by the Council.
 
-(3)[^key-f4fe4eb2d4dbe2047b2ce7b99dde1ceb][^key-4ee50a7cf22f85fd7018dfc604d2f060] The Council shall consider and determine how to apply or distribute such sums as have been made available by the Church Commissioners under subsection (1) above, but those sums shall not be applied or distributed by the Council for any purpose other than one for which the balance in the Church Commissioners’ general fund was available immediately before the coming into force of this section and in applying or distributing those sums the Council shall have particular regard to the requirements of section 67 of the [^c923084]Ecclesiastical Commissioners Act 1840 relating to the making of additional provision for the cure of souls in parishes where such assistance is most required.
+(3)[^c-f4fe4eb2d4dbe2047b2ce7b99dde1ceb][^c-4ee50a7cf22f85fd7018dfc604d2f060] The Council shall consider and determine how to apply or distribute such sums as have been made available by the Church Commissioners under subsection (1) above, but those sums shall not be applied or distributed by the Council for any purpose other than one for which the balance in the Church Commissioners’ general fund was available immediately before the coming into force of this section and in applying or distributing those sums the Council shall have particular regard to the requirements of section 67 of the [^c923084]Ecclesiastical Commissioners Act 1840 relating to the making of additional provision for the cure of souls in parishes where such assistance is most required.
 
 (4) Where a decision is taken by the Council or the Church Commissioners to the effect that a plan should be produced under this subsection, those bodies acting jointly shall after consultation with any body appearing to them to be significantly affected, produce a plan which—
 
@@ -76,11 +76,11 @@ in so far as the plan relates to the period in question.
 
 ### 3. Accounts and audit.
 
-(1) The following provisions of this section shall have effect without prejudice to the provisions of Part 8 of the Charities Act 2011[^key-3715f5ec979b0c72a22f08f17f74e859].
+(1) The following provisions of this section shall have effect without prejudice to the provisions of Part 8 of the Charities Act 2011[^c-3715f5ec979b0c72a22f08f17f74e859].
 
-(2) The accounts of the Council for each year shall be audited by a person appointed by the Council with the approval of the General Synod, being a person eligible under subsection (2) of section 144 of that Act to carry out an audit under that subsection[^key-c62818cfd96c21f5125ae167cf753f19].
+(2) The accounts of the Council for each year shall be audited by a person appointed by the Council with the approval of the General Synod, being a person eligible under subsection (2) of section 144 of that Act to carry out an audit under that subsection[^c-c62818cfd96c21f5125ae167cf753f19].
 
-(3) The person so appointed shall be deemed, for the purposes of the said Part 8, to have been appointed in pursuance of the said section 144[^key-49a7a8f85144ef9159b07c29df3eab98].
+(3) The person so appointed shall be deemed, for the purposes of the said Part 8, to have been appointed in pursuance of the said section 144[^c-49a7a8f85144ef9159b07c29df3eab98].
 
 (4) The auditor’s report for any year, together with the accounts for that year, shall be laid before the General Synod before the end of June in the following year.
 
@@ -166,7 +166,7 @@ In this subsection “**limited partner**” and “**general partner**” have 
 
 (3) Any rules made by the General Purposes Committee under section 17 of the Church Commissioners Measure 1947 and in force immediately before the coming into force of paragraph 7 of the said Schedule 4 shall continue to have effect as if made by the Board of Governors of the Church Commissioners.
 
-### 8. Management of assets.[^key-df9afed309ce86097a22c5a0373d0b51]
+### 8. Management of assets.[^c-df9afed309ce86097a22c5a0373d0b51]
 
 The Church Commissioners shall continue to manage their assets for the advancement of any purpose for which they held those assets immediately before the coming into force of this section, and in so doing they shall have particular regard to the requirements of section 67 of the [^c923095]Ecclesiastical Commissioners Act 1840 relating to the making of additional provision for the cure of souls in parishes where such assistance is most required.
 
@@ -186,7 +186,7 @@ The Standing Orders regulating the procedure of the General Synod shall include 
 
 The General Synod shall, without prejudice to paragraph 10 of Schedule 2 to the [^c923096]Synodical Government Measure 1969, appoint or provide by its Standing Orders for the appointment of—
 
-- (a) a committee to be known as “**the Appointments Committee of the Church of England**”, the membership of which shall consist of persons who are members of the General Synod, [^key-9c1d949a2c5b0cda1cc210e32a63b296]...
+- (a) a committee to be known as “**the Appointments Committee of the Church of England**”, the membership of which shall consist of persons who are members of the General Synod, [^c-9c1d949a2c5b0cda1cc210e32a63b296]...
 - (b) a committee to be known as “**the Business Committee of the General Synod**”, the membership of which shall consist of persons who are members of the General Synod.
 
 ### 11. Restriction on elected membership of certain bodies.
@@ -283,13 +283,13 @@ Provided that a member elected under paragraph 1(1)(d), (e) or (f) above or appo
 
 **8.** The Council shall be a body corporate, with perpetual succession and a common seal.
 
-**9.** (1) A member of the Council appointed under paragraph 1(2) above [^key-e2a85e01a8e8606420c8cabe443ee72f]... shall, if not otherwise a member of the General Synod, be an ex-officio member—
+**9.** (1) A member of the Council appointed under paragraph 1(2) above [^c-e2a85e01a8e8606420c8cabe443ee72f]... shall, if not otherwise a member of the General Synod, be an ex-officio member—
 
 - (a) in the case of a bishop, of the House of Bishops,
 - (b) in the case of any other clerk in Holy Orders, of the House of Clergy, and
-- (c) in the case of a lay person who is an actual communicant (as defined in[^key-9fee0979ac3e37892ba6d653c236da16] Rule 83(2)[^key-ac5d6926494616ddbbd930d262c85d97] of the Church Representation Rules), of the House of Laity.
+- (c) in the case of a lay person who is an actual communicant (as defined in[^c-9fee0979ac3e37892ba6d653c236da16] Rule 83(2)[^c-ac5d6926494616ddbbd930d262c85d97] of the Church Representation Rules), of the House of Laity.
 
-(2) A lay[^key-ce948a63646efccede557a6359f3466d] member of the Council appointed under paragraph 1(2) above who is not an actual communicant (as so defined) shall be entitled to attend at a group of sessions of the General Synod and, subject to such restrictions as may be imposed by the Standing Orders of the General Synod, to speak in any debate.
+(2) A lay[^c-ce948a63646efccede557a6359f3466d] member of the Council appointed under paragraph 1(2) above who is not an actual communicant (as so defined) shall be entitled to attend at a group of sessions of the General Synod and, subject to such restrictions as may be imposed by the Standing Orders of the General Synod, to speak in any debate.
 
 **10.** The arrangements relating to meetings of the Council shall be such as the Council may determine and, subject to paragraph 7 above, the Council shall have power to regulate its own procedure.
 
@@ -297,7 +297,7 @@ Provided that a member elected under paragraph 1(1)(d), (e) or (f) above or appo
 
 **12.** The application of the seal of the Council shall be authenticated by the signature of the Secretary-General or of some other person authorised by the Council, either generally or specifically, to act for that purpose.
 
-**12A.**[^key-0ee4ce1a0d3bdc7a9d9797321d73e2cc] (1) A document which is signed by two members of the Council and expressed (in whatever form of words) to be executed by the Council shall have the same effect as if executed under the seal of the Council.
+**12A.**[^c-0ee4ce1a0d3bdc7a9d9797321d73e2cc] (1) A document which is signed by two members of the Council and expressed (in whatever form of words) to be executed by the Council shall have the same effect as if executed under the seal of the Council.
 
 (2) A document which is signed by two officers of the Council authorised by the Council for that purpose, and which is expressed (in whatever form of words) to be signed on behalf of the Council, shall have the same effect as if executed under the seal of the Council.
 
@@ -319,7 +319,7 @@ Provided that a member elected under paragraph 1(1)(d), (e) or (f) above or appo
 
 **16.** The Council shall appoint a chief executive, to be known as “**the Secretary General**”, and may appoint such other officers as it may determine.
 
-**17.**[^key-0f5f86ba79002b638cf5f2a14ea7be30] (1) The Council and its committees may authorise such officers as the Council may specify to carry out on its or their behalf such functions as may be specified.
+**17.**[^c-0f5f86ba79002b638cf5f2a14ea7be30] (1) The Council and its committees may authorise such officers as the Council may specify to carry out on its or their behalf such functions as may be specified.
 
 (2) The Council or any of its committees may, if it considers that any business can properly be conducted by correspondence, instruct the Secretary General or the secretary of the committee to circulate to the Council or the committee in writing or by electronic transmission proposals requiring the approval of its members.
 
@@ -572,29 +572,29 @@ Section 13(1).
 
 ### Endowments and Glebe Measure 1976
 
-**4.**[^key-39b7c9c9b8b03038bd6822d74cf24c79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-39b7c9c9b8b03038bd6822d74cf24c79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pastoral Measure 1983
 
-**5.**[^key-7d67116a7ccf868e017ea7415d3a284a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7d67116a7ccf868e017ea7415d3a284a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c923083]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-f4fe4eb2d4dbe2047b2ce7b99dde1ceb]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/2/3) modified (1.1.2014) by [Diocese in Europe Measure 2013 (No. 1)](https://www.legislation.gov.uk/ukcm/2013/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/1/2), [3(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/3/2); [2013 No. 3](https://www.legislation.gov.uk/ukci/2013/3), [art. 2](https://www.legislation.gov.uk/ukci/2013/3/article/2)
+[^c-f4fe4eb2d4dbe2047b2ce7b99dde1ceb]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/2/3) modified (1.1.2014) by [Diocese in Europe Measure 2013 (No. 1)](https://www.legislation.gov.uk/ukcm/2013/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/1/2), [3(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/3/2); [2013 No. 3](https://www.legislation.gov.uk/ukci/2013/3), [art. 2](https://www.legislation.gov.uk/ukci/2013/3/article/2)
 
-[^key-4ee50a7cf22f85fd7018dfc604d2f060]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/2/3) modified (retrosp.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/13/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-4ee50a7cf22f85fd7018dfc604d2f060]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/2/3) modified (retrosp.) (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/13/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c923084]: Marginal citation: 3 & 4 Vict. c. 113.
 
 [^c923085]: Marginal citation: 10 & 11 Geo. 6 No. 2.
 
-[^key-3715f5ec979b0c72a22f08f17f74e859]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/3/1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 80(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/80/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-3715f5ec979b0c72a22f08f17f74e859]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/3/1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 80(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/80/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-c62818cfd96c21f5125ae167cf753f19]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukcm/1998/1/section/3/2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 80(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/80/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c62818cfd96c21f5125ae167cf753f19]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukcm/1998/1/section/3/2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 80(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/80/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-49a7a8f85144ef9159b07c29df3eab98]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/3/3) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 80(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/80/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-49a7a8f85144ef9159b07c29df3eab98]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/3/3) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 80(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/80/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c923087]: Marginal citation: 10 & 11 Geo. 6 No. 2.
 
@@ -612,13 +612,13 @@ Section 13(1).
 
 [^c923094]: Marginal citation: 10 & 11 Geo. 6 No. 2.
 
-[^key-df9afed309ce86097a22c5a0373d0b51]: Modification: [S. 8](https://www.legislation.gov.uk/ukcm/1998/1/section/8) modified (1.1.2014) by [Diocese in Europe Measure 2013 (No. 1)](https://www.legislation.gov.uk/ukcm/2013/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/1/2), [3(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/3/2); [2013 No. 3](https://www.legislation.gov.uk/ukci/2013/3), [art. 2](https://www.legislation.gov.uk/ukci/2013/3/article/2)
+[^c-df9afed309ce86097a22c5a0373d0b51]: Modification: [S. 8](https://www.legislation.gov.uk/ukcm/1998/1/section/8) modified (1.1.2014) by [Diocese in Europe Measure 2013 (No. 1)](https://www.legislation.gov.uk/ukcm/2013/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/1/2), [3(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/3/2); [2013 No. 3](https://www.legislation.gov.uk/ukci/2013/3), [art. 2](https://www.legislation.gov.uk/ukci/2013/3/article/2)
 
 [^c923095]: Marginal citation: 3 & 4 Vict. c. 113.
 
 [^c923096]: Marginal citation: [1969 No. 2](https://www.legislation.gov.uk/ukcm/1969/2).
 
-[^key-9c1d949a2c5b0cda1cc210e32a63b296]: Textual amendment: Words in [s. 10(a)](https://www.legislation.gov.uk/ukcm/1998/1/section/10/a) omitted (19.5.2014) by virtue of [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/13/3); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-9c1d949a2c5b0cda1cc210e32a63b296]: Textual amendment: Words in [s. 10(a)](https://www.legislation.gov.uk/ukcm/1998/1/section/10/a) omitted (19.5.2014) by virtue of [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/13/3); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c923097]: Marginal citation: 10 & 11 Geo. 6 No. 2.
 
@@ -626,17 +626,17 @@ Section 13(1).
 
 [^c923099]: Subordinate legislation: [S. 15](https://www.legislation.gov.uk/ukcm/1998/1/section/15): power exercised (14.10.1998): 1.1.1999 day appointed for whole measure; [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-e2a85e01a8e8606420c8cabe443ee72f]: Textual amendment: Words in Sch. 1 para. 9(1) omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 13(a)](https://www.legislation.gov.uk/ukcm/2006/1/section/13/a), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-e2a85e01a8e8606420c8cabe443ee72f]: Textual amendment: Words in Sch. 1 para. 9(1) omitted (1.10.2006) by virtue of [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 13(a)](https://www.legislation.gov.uk/ukcm/2006/1/section/13/a), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-9fee0979ac3e37892ba6d653c236da16]: Textual amendment: Words in Sch. 1 para. 9(1) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 13(a)](https://www.legislation.gov.uk/ukcm/2006/1/section/13/a), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-9fee0979ac3e37892ba6d653c236da16]: Textual amendment: Words in Sch. 1 para. 9(1) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 13(a)](https://www.legislation.gov.uk/ukcm/2006/1/section/13/a), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-ac5d6926494616ddbbd930d262c85d97]: Textual amendment: Words in [Sch. 1 para. 9(1)(c)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/1/paragraph/9/1/c) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/18); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-ac5d6926494616ddbbd930d262c85d97]: Textual amendment: Words in [Sch. 1 para. 9(1)(c)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/1/paragraph/9/1/c) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/18); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-ce948a63646efccede557a6359f3466d]: Textual amendment: Word in Sch. 1 para. 9(2) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 13(b)](https://www.legislation.gov.uk/ukcm/2006/1/section/13/b), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-ce948a63646efccede557a6359f3466d]: Textual amendment: Word in Sch. 1 para. 9(2) inserted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 13(b)](https://www.legislation.gov.uk/ukcm/2006/1/section/13/b), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-0ee4ce1a0d3bdc7a9d9797321d73e2cc]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/ukcm/1998/1/schedule/1/paragraph/12A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 11(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 11(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/6)[(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
+[^c-0ee4ce1a0d3bdc7a9d9797321d73e2cc]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/ukcm/1998/1/schedule/1/paragraph/12A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 11(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 11(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/6)[(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/7)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/j)
 
-[^key-0f5f86ba79002b638cf5f2a14ea7be30]: Textual amendment: Sch. 1 para. 17 added (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/13/4); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-0f5f86ba79002b638cf5f2a14ea7be30]: Textual amendment: Sch. 1 para. 17 added (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/13/4); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^c923100]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
@@ -650,6 +650,6 @@ Section 13(1).
 
 [^c923105]: Marginal citation: [1972 No. 2](https://www.legislation.gov.uk/ukcm/1972/2).
 
-[^key-39b7c9c9b8b03038bd6822d74cf24c79]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukcm/1998/1/schedule/5/paragraph/4) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-39b7c9c9b8b03038bd6822d74cf24c79]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukcm/1998/1/schedule/5/paragraph/4) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-7d67116a7ccf868e017ea7415d3a284a]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukcm/1998/1/schedule/5/paragraph/5) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-7d67116a7ccf868e017ea7415d3a284a]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukcm/1998/1/schedule/5/paragraph/5) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

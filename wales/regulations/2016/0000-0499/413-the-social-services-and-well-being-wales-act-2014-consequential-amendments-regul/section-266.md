@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**266.**[^key-19f5b4cd60a720ddb65c3e5f73440038] In Schedule 1, omit paragraph 3(4) (definition of “local authority foster parent”).
+**266.**[^c-19f5b4cd60a720ddb65c3e5f73440038] In Schedule 1, omit paragraph 3(4) (definition of “local authority foster parent”).
 
 ## Annotations
 
-[^key-19f5b4cd60a720ddb65c3e5f73440038]: Commencement: Reg. 266 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-19f5b4cd60a720ddb65c3e5f73440038]: Commencement: Reg. 266 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

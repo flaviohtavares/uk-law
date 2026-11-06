@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Relief where national insurance contributions met by employee[^key-e8928a75bcbe3407100cbc0b75e7b3d2]
+## 85. Relief where national insurance contributions met by employee[^c-e8928a75bcbe3407100cbc0b75e7b3d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8928a75bcbe3407100cbc0b75e7b3d2]: Commencement: S. 85 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-e8928a75bcbe3407100cbc0b75e7b3d2]: Commencement: S. 85 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)

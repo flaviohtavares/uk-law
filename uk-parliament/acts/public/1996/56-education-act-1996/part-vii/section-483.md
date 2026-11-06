@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 483. City colleges: financial provisions.[^key-5996224cb9d0d61aba5c91f8f1282753]
+## 483. City colleges: financial provisions.[^c-5996224cb9d0d61aba5c91f8f1282753]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5996224cb9d0d61aba5c91f8f1282753]: Textual amendment: [S. 483](https://www.legislation.gov.uk/ukpga/1996/56/section/483) repealed (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/5); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-5996224cb9d0d61aba5c91f8f1282753]: Textual amendment: [S. 483](https://www.legislation.gov.uk/ukpga/1996/56/section/483) repealed (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/5); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)

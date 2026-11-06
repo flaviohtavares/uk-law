@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 203. Venue[^key-fca799ba3c8025199b67c50899d99588]
+## 203. Venue[^c-fca799ba3c8025199b67c50899d99588]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ in the case of a meeting to be conducted and held in accordance with rule 78(2) 
 
 ## Annotations
 
-[^key-fca799ba3c8025199b67c50899d99588]: Commencement: Rule 203 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-fca799ba3c8025199b67c50899d99588]: Commencement: Rule 203 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

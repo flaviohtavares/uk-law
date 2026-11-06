@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 11(2)(d)[^f00001] and 19(5) of the Tobacco and Primary Medical Services (Scotland) Act 2010[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-39f6a4754356005fa132e2ae87990023]
+## 1. Citation, commencement and interpretation[^c-39f6a4754356005fa132e2ae87990023]
 
 These Regulations may be cited as the Sale of Tobacco (Register of Tobacco Retailers) Regulations 2010 and come into force on 1st April 2011.
 
-**2.**[^key-0f3da6f3884881ad808e6cf83e06669e] (1) In these Regulations—
+**2.**[^c-0f3da6f3884881ad808e6cf83e06669e] (1) In these Regulations—
 
 - “the Act” means the Tobacco and Primary Medical Services (Scotland) Act 2010;
 - “banning order” means an order made under section 15(3) of the Act;
@@ -68,17 +68,17 @@ These Regulations may be cited as the Sale of Tobacco (Register of Tobacco Retai
 - (a) during the most recent period of twelve months for which accounts are available, or
 - (b) during the period for which the shop has been established, if it has not been established long enough for twelve months’ accounts to be available.
 
-## 3. Other information to be contained in application to be registered or to add further premises to an entry in the Register[^key-b720810ae5795bcc2d1869f1830473f0]
+## 3. Other information to be contained in application to be registered or to add further premises to an entry in the Register[^c-b720810ae5795bcc2d1869f1830473f0]
 
 The information prescribed for the purposes of section 11(2)(d) of the Act is—
 
 - (a) the contact details of the person completing the form;
-- (b) whether at the date of the application the applicant is as a result of a banning order banned from carrying on a tobacco or nicotine vapour product[^key-39fcd9b4dfef3131aa2169efab4d5232] business at any premises specified in the application;
+- (b) whether at the date of the application the applicant is as a result of a banning order banned from carrying on a tobacco or nicotine vapour product[^c-39fcd9b4dfef3131aa2169efab4d5232] business at any premises specified in the application;
 - (c) whether the relevant floor area of the premises at which the applicant proposes to carry on business exceeds 280 square metres;
-- (d) whether the applicant proposes to carry on a tobacco business as a specialist tobacconist [^key-d787bba6f57da07f6464ab0a2c4cfc35]...;
+- (d) whether the applicant proposes to carry on a tobacco business as a specialist tobacconist [^c-d787bba6f57da07f6464ab0a2c4cfc35]...;
 - (e) whether the premises at which the applicant proposes to carry on business is a bulk tobacconist or duty free shop.
 
-## 4. Tobacco Retailing Banning Order Notices – dimensions, wording and the size of statement[^key-cda973084d6f01096174b1add9c34ba1]
+## 4. Tobacco Retailing Banning Order Notices – dimensions, wording and the size of statement[^c-cda973084d6f01096174b1add9c34ba1]
 
 (1) The following are prescribed for the purposes of section 19(5) of the Act.
 
@@ -98,7 +98,7 @@ Edinburgh
 
 18th November 2010
 
-## SCHEDULE[^key-0b24b5ff57d2f42794f60763eccb1f3d]
+## SCHEDULE[^c-0b24b5ff57d2f42794f60763eccb1f3d]
 
 Regulation 4(3)
 
@@ -134,9 +134,9 @@ Section 19(3) sets out the requirements for the notice. In section 19(5) the Sco
 
 [^f00002]: Footnote: [2010 asp 3](https://www.legislation.gov.uk/asp/2010/3).
 
-[^key-39f6a4754356005fa132e2ae87990023]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
+[^c-39f6a4754356005fa132e2ae87990023]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
 
-[^key-0f3da6f3884881ad808e6cf83e06669e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/407/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
+[^c-0f3da6f3884881ad808e6cf83e06669e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/407/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
 
 [^f00003]: Footnote: “Premises” is defined in section 35 of the Tobacco and Primary Medical Services (Scotland) Act 2010 to include any place and any vehicle, vessel or moveable structure.
 
@@ -146,12 +146,12 @@ Section 19(3) sets out the requirements for the notice. In section 19(5) the Sco
 
 [^f00006]: Footnote: “Tobacco business” is defined in section 35 of the Tobacco and Primary Medical Services (Scotland) Act 2010 to mean a business involving the sale of tobacco products by retail.
 
-[^key-b720810ae5795bcc2d1869f1830473f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/407/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
+[^c-b720810ae5795bcc2d1869f1830473f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/407/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
 
-[^key-39fcd9b4dfef3131aa2169efab4d5232]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/b) inserted (1.4.2017) by [The Sale of Tobacco (Register of Tobacco Retailers) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/51)](https://www.legislation.gov.uk/ssi/2017/51), [regs. 1](https://www.legislation.gov.uk/ssi/2017/51/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/51/regulation/2/2)
+[^c-39fcd9b4dfef3131aa2169efab4d5232]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/b) inserted (1.4.2017) by [The Sale of Tobacco (Register of Tobacco Retailers) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/51)](https://www.legislation.gov.uk/ssi/2017/51), [regs. 1](https://www.legislation.gov.uk/ssi/2017/51/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/51/regulation/2/2)
 
-[^key-d787bba6f57da07f6464ab0a2c4cfc35]: Textual amendment: Words in [reg. 3(d)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/d) omitted (1.4.2011) by virtue of [The Sale of Tobacco (Display of Warning Statements) (Scotland) Regulations 2011 (S.S.I. 2011/132)](https://www.legislation.gov.uk/ssi/2011/132), [art. 4](https://www.legislation.gov.uk/ssi/2011/132/article/4), [reg. 1](https://www.legislation.gov.uk/ssi/2011/132/regulation/1)
+[^c-d787bba6f57da07f6464ab0a2c4cfc35]: Textual amendment: Words in [reg. 3(d)](https://www.legislation.gov.uk/ssi/2010/407/regulation/3/d) omitted (1.4.2011) by virtue of [The Sale of Tobacco (Display of Warning Statements) (Scotland) Regulations 2011 (S.S.I. 2011/132)](https://www.legislation.gov.uk/ssi/2011/132), [art. 4](https://www.legislation.gov.uk/ssi/2011/132/article/4), [reg. 1](https://www.legislation.gov.uk/ssi/2011/132/regulation/1)
 
-[^key-cda973084d6f01096174b1add9c34ba1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/407/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
+[^c-cda973084d6f01096174b1add9c34ba1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/407/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/407/regulation/1)
 
-[^key-0b24b5ff57d2f42794f60763eccb1f3d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2010/407/schedule) substituted (1.4.2017) by [The Sale of Tobacco (Register of Tobacco Retailers) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/51)](https://www.legislation.gov.uk/ssi/2017/51), [reg. 1](https://www.legislation.gov.uk/ssi/2017/51/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2017/51/schedule)
+[^c-0b24b5ff57d2f42794f60763eccb1f3d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2010/407/schedule) substituted (1.4.2017) by [The Sale of Tobacco (Register of Tobacco Retailers) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/51)](https://www.legislation.gov.uk/ssi/2017/51), [reg. 1](https://www.legislation.gov.uk/ssi/2017/51/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2017/51/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Interpretation of Chapter[^key-e082d3e5e07f29aca70a5625a075c4ef]
+## 27. Interpretation of Chapter[^c-e082d3e5e07f29aca70a5625a075c4ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ and related expressions are to be read accordingly.
 
 ## Annotations
 
-[^key-e082d3e5e07f29aca70a5625a075c4ef]: Commencement: S. 27 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e082d3e5e07f29aca70a5625a075c4ef]: Commencement: S. 27 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

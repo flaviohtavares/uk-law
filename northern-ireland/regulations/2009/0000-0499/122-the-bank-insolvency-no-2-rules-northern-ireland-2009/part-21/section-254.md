@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 254. Disqualification from dividend[^key-7e4a2cac9c2ef023a6c93bccca85c731]
+## 254. Disqualification from dividend[^c-7e4a2cac9c2ef023a6c93bccca85c731]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e4a2cac9c2ef023a6c93bccca85c731]: Commencement: Rule 254 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-7e4a2cac9c2ef023a6c93bccca85c731]: Commencement: Rule 254 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

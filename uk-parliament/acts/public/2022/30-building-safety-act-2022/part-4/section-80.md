@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Applications for building assessment certificates[^key-20591acac66b83cc470bb00ae68ce1e9][^key-a939cf812fbd5e037af36ac5cc1c2db5]
+## 80. Applications for building assessment certificates[^c-20591acac66b83cc470bb00ae68ce1e9][^c-a939cf812fbd5e037af36ac5cc1c2db5]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20591acac66b83cc470bb00ae68ce1e9]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-20591acac66b83cc470bb00ae68ce1e9]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-a939cf812fbd5e037af36ac5cc1c2db5]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/30/section/80) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/b)
+[^c-a939cf812fbd5e037af36ac5cc1c2db5]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/30/section/80) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/b)

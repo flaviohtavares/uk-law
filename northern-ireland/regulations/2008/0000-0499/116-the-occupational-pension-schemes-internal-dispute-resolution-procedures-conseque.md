@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 109(1)(d) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 50(8)(c) and (9)(c) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-f0192a1c2d2dc1c6990661a6778a37f6]
+## 1. Citation, commencement and interpretation[^c-f0192a1c2d2dc1c6990661a6778a37f6]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 and shall come into operation on 6th April 2008.
 
@@ -49,12 +49,12 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Information requirements[^key-aabc4693be97d92a1a7cb49735649518]
+## 2. Information requirements[^c-aabc4693be97d92a1a7cb49735649518]
 
 (1) When the trustees or managers of an occupational pension scheme receive (or, as the case may be, the specified person[^f00005] receives) an application under the relevant procedure, they must as soon as is reasonably practicable—
 
-- (a) inform the applicant that the Money and Pensions Service[^key-2ccf907cb0bc2c45051ee15804727f00] is available to assist members and beneficiaries of the scheme in connection with any difficulty with the scheme, and
-- (b) give the applicant the contact details for the Money and Pensions Service[^key-acbb678c3ee4923bcb2e08e47d9a30ff].
+- (a) inform the applicant that the Money and Pensions Service[^c-2ccf907cb0bc2c45051ee15804727f00] is available to assist members and beneficiaries of the scheme in connection with any difficulty with the scheme, and
+- (b) give the applicant the contact details for the Money and Pensions Service[^c-acbb678c3ee4923bcb2e08e47d9a30ff].
 
 (2) For the purposes of paragraph (1)—
 
@@ -66,11 +66,11 @@ The Department for Social Development makes the following Regulations in exercis
 - (a) a statement that the Pensions Ombudsman appointed under section 145(2) of the Pension Schemes Act 1993[^f00008] may investigate and determine any complaint or dispute of fact or law, in relation to a scheme made or referred in accordance with the Pension Schemes (Northern Ireland) Act 1993, and
 - (b) the Pensions Ombudsman’s contact details.
 
-## 3. Exempted schemes[^key-9640551ef581d5dbe7fb3ed782d7fe3f]
+## 3. Exempted schemes[^c-9640551ef581d5dbe7fb3ed782d7fe3f]
 
 An occupational pension scheme of a description prescribed for the purposes of Article 50(8)(c) is a scheme in relation to which the sole trustee of the scheme is a company and all members of the scheme are directors of that company.
 
-## 4. Exempted disputes[^key-d7b2fa5fac5077bea863aa4fece35a54]
+## 4. Exempted disputes[^c-d7b2fa5fac5077bea863aa4fece35a54]
 
 A dispute of a description prescribed for the purposes of Article 50(9)(c) is a dispute in respect of which a notice of appeal has been issued by the complainant in accordance with—
 
@@ -81,7 +81,7 @@ A dispute of a description prescribed for the purposes of Article 50(9)(c) is a 
 - (e) article 47 of the New Firefighters’ Pension Scheme (Northern Ireland) (appeal against opinion on a medical issue) set out in the Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00013], or
 - (f) regulation 68 of the Police Pension (Northern Ireland) Regulations 2007[^f00014] (appeal to independent medical referee).
 
-## 5. Transitional provisions[^key-81fd61307474c521149926ef5ab2d799]
+## 5. Transitional provisions[^c-81fd61307474c521149926ef5ab2d799]
 
 (1) Any disagreement which was ongoing before 6th April 2008 under arrangements made and implemented under Article 50(1) shall continue until the procedure under those arrangements comes to an end, as if the relevant legislative provisions governing those arrangements were still in operation.
 
@@ -97,14 +97,14 @@ A dispute of a description prescribed for the purposes of Article 50(9)(c) is a 
 - (a) to an occupational pension scheme under the arrangements required by Article 50, and
 - (b) before 6th April 2008.
 
-## 6. Consequential and miscellaneous amendments[^key-7eb10a9e39e2a3a88aac25fa6e735d13]
+## 6. Consequential and miscellaneous amendments[^c-7eb10a9e39e2a3a88aac25fa6e735d13]
 
 (1) In regulation 3 of the Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations (Northern Ireland) 1997 (exclusion from jurisdiction: use of internal disputes procedure)—
 
 - (a) in paragraph (1) for “the arrangements required by Article 50(2)(b)” substitute “Article 50(5)(b)”, and
 - (b) in paragraph (2) for “Article 50(2)(a) or (b)” substitute “Article 50(5)(b)”.
 
-(2)[^key-9dac718d13013a74e4ece672d0a5b859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9dac718d13013a74e4ece672d0a5b859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the table in Schedule 2 to the Stakeholder Pension Schemes Regulations (Northern (Ireland) 2000[^f00019] (regulations applying to schemes which are or have been registered under Article 4)—
 
@@ -117,7 +117,7 @@ A dispute of a description prescribed for the purposes of Article 50(9)(c) is a 
 
   .
 
-## 7. Revocations[^key-c494091c7dcf379cb4dddc44f8b18f6e]
+## 7. Revocations[^c-c494091c7dcf379cb4dddc44f8b18f6e]
 
 The provisions specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
@@ -129,7 +129,7 @@ John O’Neill
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Revocations[^key-58dee6ac8ab999cad53c2caf21bb0170]
+## SCHEDULE — Revocations[^c-58dee6ac8ab999cad53c2caf21bb0170]
 
 Regulation 7
 
@@ -178,25 +178,25 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-f0192a1c2d2dc1c6990661a6778a37f6]: Commencement: Reg. 1 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-f0192a1c2d2dc1c6990661a6778a37f6]: Commencement: Reg. 1 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-aabc4693be97d92a1a7cb49735649518]: Commencement: Reg. 2 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-aabc4693be97d92a1a7cb49735649518]: Commencement: Reg. 2 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
 [^f00005]: Footnote: *See* Article 50(4A) of the Pensions (Northern Ireland) Order 1995
 
-[^key-2ccf907cb0bc2c45051ee15804727f00]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2008/116/regulation/2/1/a) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/19/a)
+[^c-2ccf907cb0bc2c45051ee15804727f00]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2008/116/regulation/2/1/a) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/19/a)
 
-[^key-acbb678c3ee4923bcb2e08e47d9a30ff]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2008/116/regulation/2/1/b) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/19/b)
+[^c-acbb678c3ee4923bcb2e08e47d9a30ff]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2008/116/regulation/2/1/b) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/19/b)
 
 [^f00007]: Footnote: The definition of “member” was amended by paragraph 50(2) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
 [^f00008]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 145(2) was amended by section 274(1) of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35)
 
-[^key-9640551ef581d5dbe7fb3ed782d7fe3f]: Commencement: Reg. 3 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-9640551ef581d5dbe7fb3ed782d7fe3f]: Commencement: Reg. 3 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
-[^key-d7b2fa5fac5077bea863aa4fece35a54]: Commencement: Reg. 4 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-d7b2fa5fac5077bea863aa4fece35a54]: Commencement: Reg. 4 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1988 No. 374](https://www.legislation.gov.uk/nisr/1988/374)
 
@@ -210,20 +210,20 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00014]: Footnote: [S.R. 2007 No. 476](https://www.legislation.gov.uk/nisr/2007/476)
 
-[^key-81fd61307474c521149926ef5ab2d799]: Commencement: Reg. 5 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-81fd61307474c521149926ef5ab2d799]: Commencement: Reg. 5 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1996 No. 203](https://www.legislation.gov.uk/nisr/1996/203) as amended by [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) and [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
 [^f00016]: Footnote: [S.R. 1997 No. 39](https://www.legislation.gov.uk/nisr/1997/39)
 
-[^key-7eb10a9e39e2a3a88aac25fa6e735d13]: Commencement: Reg. 6 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-7eb10a9e39e2a3a88aac25fa6e735d13]: Commencement: Reg. 6 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
-[^key-9dac718d13013a74e4ece672d0a5b859]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2008/116/regulation/6/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-9dac718d13013a74e4ece672d0a5b859]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2008/116/regulation/6/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^f00019]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); the relevant amending Regulations are [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
 
 [^f00020]: Footnote: The entry relating to the Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations (Northern Ireland) 1996 was inserted by regulation 18(2) of [S.R. 2001 No. 119](https://www.legislation.gov.uk/nisr/2001/119)
 
-[^key-c494091c7dcf379cb4dddc44f8b18f6e]: Commencement: Reg. 7 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-c494091c7dcf379cb4dddc44f8b18f6e]: Commencement: Reg. 7 in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
 
-[^key-58dee6ac8ab999cad53c2caf21bb0170]: Commencement: Sch. in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)
+[^c-58dee6ac8ab999cad53c2caf21bb0170]: Commencement: Sch. in operation at 6.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1)

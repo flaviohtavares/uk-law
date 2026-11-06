@@ -88,19 +88,19 @@ In this Schedule—
 
 (4) For the purposes of sub-paragraph (3), “**dangerous wild animal**” means an animal of a kind specified in the first column of the Schedule to the Dangerous Wild Animals Act 1976 [^c22941481].
 
-### 5. ... Sale of animals[^key-89bb28f5665a711fd14004fb2bde5160]
+### 5. ... Sale of animals[^c-89bb28f5665a711fd14004fb2bde5160]
 
-(1) No animal of any of the following descriptions may be sold as a pet, or sold with a view to being resold as a pet, by or on behalf of the licence holder—[^key-413f996cf679fe5e45650e3b77f2913c]
+(1) No animal of any of the following descriptions may be sold as a pet, or sold with a view to being resold as a pet, by or on behalf of the licence holder—[^c-413f996cf679fe5e45650e3b77f2913c]
 
 - (a) unweaned mammals;
 - (b) mammals weaned at an age at which they should not have been weaned;
 - (c) non-mammals that are incapable of feeding themselves;
 - (d) puppies, cats, ferrets or rabbits, aged under 8 weeks.
-- (e)[^key-275d4074cbdc7a285fd65a7c8256f645] puppies or kittens which were not bred by the licence holder.
+- (e)[^c-275d4074cbdc7a285fd65a7c8256f645] puppies or kittens which were not bred by the licence holder.
 
 (2) The sale of a dog must be completed in the presence of the purchaser on the premises.
 
-(3)[^key-536dc509e1a73a2fdd2674c8a078a095] In this paragraph, “kitten” means a cat aged less than 6 months.
+(3)[^c-536dc509e1a73a2fdd2674c8a078a095] In this paragraph, “kitten” means a cat aged less than 6 months.
 
 ### 6. Protection from pain, suffering, injury and disease
 
@@ -116,10 +116,10 @@ In this Schedule—
 
 [^c22941481]: Marginal citation: [1976 c. 38](https://www.legislation.gov.uk/ukpga/1976/38). The Schedule was substituted in relation to England and Wales by article 2 of [S.I. 2007/2465](https://www.legislation.gov.uk/uksi/2007/2465).
 
-[^key-89bb28f5665a711fd14004fb2bde5160]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5) heading omitted (6.4.2020) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
+[^c-89bb28f5665a711fd14004fb2bde5160]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5) heading omitted (6.4.2020) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
 
-[^key-413f996cf679fe5e45650e3b77f2913c]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5/1) substituted (6.4.2020) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/3/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
+[^c-413f996cf679fe5e45650e3b77f2913c]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5/1) substituted (6.4.2020) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/3/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
 
-[^key-275d4074cbdc7a285fd65a7c8256f645]: Textual amendment: [Sch. 3 para. 5(1)(e)](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5/1/e) inserted (6.4.2020) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/3/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
+[^c-275d4074cbdc7a285fd65a7c8256f645]: Textual amendment: [Sch. 3 para. 5(1)(e)](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5/1/e) inserted (6.4.2020) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/3/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
 
-[^key-536dc509e1a73a2fdd2674c8a078a095]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5/3) inserted (6.4.2020) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))
+[^c-536dc509e1a73a2fdd2674c8a078a095]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2018/486/schedule/3/paragraph/5/3) inserted (6.4.2020) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) (Amendment) Regulations 2019 (S.I. 2019/1093)](https://www.legislation.gov.uk/uksi/2019/1093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1093/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/1093/regulation/3))

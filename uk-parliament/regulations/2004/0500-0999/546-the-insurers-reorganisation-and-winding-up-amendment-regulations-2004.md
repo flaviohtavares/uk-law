@@ -35,7 +35,7 @@ INSOLVENCY
 
 COMPANIES
 
-The Insurers (Reorganisation and Winding Up) (Amendment) Regulations 2004 (revoked)[^key-3553f968dc39a09a25800849e166f54d]
+The Insurers (Reorganisation and Winding Up) (Amendment) Regulations 2004 (revoked)[^c-3553f968dc39a09a25800849e166f54d]
 
 Made
 
@@ -49,22 +49,22 @@ Coming into force
 
 3rd March 2004
 
-[^key-3553f968dc39a09a25800849e166f54d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3553f968dc39a09a25800849e166f54d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-3553f968dc39a09a25800849e166f54d]
+## 1. Citation and Commencement[^c-3553f968dc39a09a25800849e166f54d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Insurers (Reorganisation and Winding Up) Regulations 2004[^key-3553f968dc39a09a25800849e166f54d]
+## 2. Amendment of the Insurers (Reorganisation and Winding Up) Regulations 2004[^c-3553f968dc39a09a25800849e166f54d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3553f968dc39a09a25800849e166f54d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3553f968dc39a09a25800849e166f54d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3553f968dc39a09a25800849e166f54d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3553f968dc39a09a25800849e166f54d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3553f968dc39a09a25800849e166f54d]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-3553f968dc39a09a25800849e166f54d]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

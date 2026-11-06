@@ -33,10 +33,10 @@ summary: ''
 
 (5) An order under this section shall be made by statutory instrument, and no order shall be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
 
-No such draft of an order making such provision as is mentioned in subsection (1) shall be laid before Parliament until after the end of the period of ten years beginning with the day on which applications for Community trade marks may first be filed in pursuance of Council Regulation[^key-3a2d9f9d48ca821effe603529a61b8e0] [(EC) No 40/94](https://www.legislation.gov.uk/eur/1994/0040) of 20th December 1993 on the Community trade mark.
+No such draft of an order making such provision as is mentioned in subsection (1) shall be laid before Parliament until after the end of the period of ten years beginning with the day on which applications for Community trade marks may first be filed in pursuance of Council Regulation[^c-3a2d9f9d48ca821effe603529a61b8e0] [(EC) No 40/94](https://www.legislation.gov.uk/eur/1994/0040) of 20th December 1993 on the Community trade mark.
 
 (6) An order under this section may contain such transitional provisions as appear to the Secretary of State to be appropriate.
 
 ## Annotations
 
-[^key-3a2d9f9d48ca821effe603529a61b8e0]: Textual amendment: Words in s. 8(5) substituted (6.4.2016) by [The European Union Trade Mark Regulations 2016 (S.I. 2016/299)](https://www.legislation.gov.uk/uksi/2016/299), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/299/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2016/299/schedule/paragraph/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2016/299/regulation/13))
+[^c-3a2d9f9d48ca821effe603529a61b8e0]: Textual amendment: Words in s. 8(5) substituted (6.4.2016) by [The European Union Trade Mark Regulations 2016 (S.I. 2016/299)](https://www.legislation.gov.uk/uksi/2016/299), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/299/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2016/299/schedule/paragraph/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2016/299/regulation/13))

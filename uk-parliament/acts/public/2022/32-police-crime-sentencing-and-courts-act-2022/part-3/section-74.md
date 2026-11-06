@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Imposing conditions on public assemblies[^key-165ea03060a323caedd6ea1e4283a0f5]
+## 74. Imposing conditions on public assemblies[^c-165ea03060a323caedd6ea1e4283a0f5]
 
 *Extent: E+W+S*
 
-(1)[^key-892c627003c41c6df906b75c4a40a08b] Section 14 of the Public Order Act 1986 (imposing conditions on public assemblies) is amended as follows.
+(1)[^c-892c627003c41c6df906b75c4a40a08b] Section 14 of the Public Order Act 1986 (imposing conditions on public assemblies) is amended as follows.
 
-(2)[^key-892c627003c41c6df906b75c4a40a08b] In subsection (1)—
+(2)[^c-892c627003c41c6df906b75c4a40a08b] In subsection (1)—
 
 - (a) for “If” substitute “Subsection (1A) applies if”,
 - (b) for the “or” at the end of paragraph (a) substitute—
@@ -35,16 +35,16 @@ summary: ''
   , and
 - (c) omit the words after paragraph (b).
 
-(3)[^key-892c627003c41c6df906b75c4a40a08b] After subsection (1) insert—
+(3)[^c-892c627003c41c6df906b75c4a40a08b] After subsection (1) insert—
 
 > (1A) The senior police officer may give directions imposing on the persons organising or taking part in the assembly—
 >
 > - (a) in the case of an assembly in England and Wales, such conditions as appear to the officer necessary to prevent the disorder, damage, disruption, impact or intimidation mentioned in subsection (1);
 > - (b) in the case of an assembly in Scotland, such conditions as to the place at which the assembly may be (or continue to be) held, its maximum duration, or the maximum number of persons who may constitute it, as appear to the officer necessary to prevent the disorder, damage, disruption or intimidation mentioned in subsection (1)(a) or (b).
 
-(4)[^key-892c627003c41c6df906b75c4a40a08b] In subsection (2), for “subsection (1)” substitute “this section”.
+(4)[^c-892c627003c41c6df906b75c4a40a08b] In subsection (2), for “subsection (1)” substitute “this section”.
 
-(5)[^key-892c627003c41c6df906b75c4a40a08b] After subsection (2) insert—
+(5)[^c-892c627003c41c6df906b75c4a40a08b] After subsection (2) insert—
 
 > (2A) For the purposes of subsection (1)(a), the cases in which a public assembly in England and Wales may result in serious disruption to the life of the community include, in particular, where—
 >
@@ -72,7 +72,7 @@ summary: ''
 > - (b) the likely duration of that impact on such persons, and
 > - (c) the likely intensity of that impact on such persons.
 
-(6)[^key-892c627003c41c6df906b75c4a40a08b] After subsection (10A) (as inserted by section 75(11)) insert—
+(6)[^c-892c627003c41c6df906b75c4a40a08b] After subsection (10A) (as inserted by section 75(11)) insert—
 
 > (11) The Secretary of State may by regulations amend any of subsections (2A) to (2C) for the purposes of making provision about the meaning for the purposes of this section of—
 >
@@ -94,15 +94,15 @@ summary: ''
 >
 > (14) A statutory instrument containing regulations under subsection (11) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(7)[^key-c6ec9d0079b0f98aad5744bcc3f62587] The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
+(7)[^c-c6ec9d0079b0f98aad5744bcc3f62587] The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
 
 - (a) prepare and publish a report on the operation of the amendments to section 14 of the Public Order Act 1986 made by this section, and
 - (b) lay the report before Parliament.
 
 ## Annotations
 
-[^key-165ea03060a323caedd6ea1e4283a0f5]: Commencement: S. 74 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-165ea03060a323caedd6ea1e4283a0f5]: Commencement: S. 74 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-892c627003c41c6df906b75c4a40a08b]: Commencement: [S. 74(1)-(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+[^c-892c627003c41c6df906b75c4a40a08b]: Commencement: [S. 74(1)-(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
 
-[^key-c6ec9d0079b0f98aad5744bcc3f62587]: Commencement: [S. 74(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/7) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-c6ec9d0079b0f98aad5744bcc3f62587]: Commencement: [S. 74(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/7) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

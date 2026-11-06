@@ -26,9 +26,9 @@ summary: ''
 - (b) is on maternity leave;
 - (c) is on adoption leave;
 - (d) is on paternity leave;
-- (e) is on parental leave, shared parental leave or parental bereavement leave[^key-857076fdbc6054c204f558ec5b7d7ef5]; [^key-804217b3b89799e1a63f9e8b54d42ccf]...
-- (ea)[^key-93e88d97b826bb76fc3892a9ef5a2f05] is on carer’s leave; [^key-3ef776be0df6cfac0d6ee0efa3326e29]...
-- (eb)[^key-3561d29e3c22e06c7bb50287826c55cc] is on neonatal care leave, or
+- (e) is on parental leave, shared parental leave or parental bereavement leave[^c-857076fdbc6054c204f558ec5b7d7ef5]; [^c-804217b3b89799e1a63f9e8b54d42ccf]...
+- (ea)[^c-93e88d97b826bb76fc3892a9ef5a2f05] is on carer’s leave; [^c-3ef776be0df6cfac0d6ee0efa3326e29]...
+- (eb)[^c-3561d29e3c22e06c7bb50287826c55cc] is on neonatal care leave, or
 - (f) is within regulation 21(4) or (6).
 
 (2) If paragraph (1) applies—
@@ -52,12 +52,12 @@ summary: ''
 
 ## Annotations
 
-[^key-857076fdbc6054c204f558ec5b7d7ef5]: Textual amendment: Words in [reg. 67(1)(e)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1/e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [38(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/38/4)
+[^c-857076fdbc6054c204f558ec5b7d7ef5]: Textual amendment: Words in [reg. 67(1)(e)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1/e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [38(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/38/4)
 
-[^key-804217b3b89799e1a63f9e8b54d42ccf]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1) omitted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [49(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/49/2)
+[^c-804217b3b89799e1a63f9e8b54d42ccf]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1) omitted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [49(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/49/2)
 
-[^key-93e88d97b826bb76fc3892a9ef5a2f05]: Textual amendment: [Reg. 67(1)(ea)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1/ea) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [49(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/49/3)
+[^c-93e88d97b826bb76fc3892a9ef5a2f05]: Textual amendment: [Reg. 67(1)(ea)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1/ea) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [49(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/49/3)
 
-[^key-3ef776be0df6cfac0d6ee0efa3326e29]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1) omitted (with effect from 6.4.2025) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [29(a)](https://www.legislation.gov.uk/ssi/2025/259/regulation/29/a)
+[^c-3ef776be0df6cfac0d6ee0efa3326e29]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1) omitted (with effect from 6.4.2025) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [29(a)](https://www.legislation.gov.uk/ssi/2025/259/regulation/29/a)
 
-[^key-3561d29e3c22e06c7bb50287826c55cc]: Textual amendment: [Reg. 67(1)(eb)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1/eb) inserted (with effect from 6.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [29(b)](https://www.legislation.gov.uk/ssi/2025/259/regulation/29/b)
+[^c-3561d29e3c22e06c7bb50287826c55cc]: Textual amendment: [Reg. 67(1)(eb)](https://www.legislation.gov.uk/ssi/2015/94/regulation/67/1/eb) inserted (with effect from 6.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(11)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/11), [29(b)](https://www.legislation.gov.uk/ssi/2025/259/regulation/29/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Review, modification and renewal of regional transport strategies[^key-b4444334614ad6783a17c66108a67bf0]
+## 7. Review, modification and renewal of regional transport strategies[^c-b4444334614ad6783a17c66108a67bf0]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4444334614ad6783a17c66108a67bf0]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2005/12/section/7) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-b4444334614ad6783a17c66108a67bf0]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2005/12/section/7) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

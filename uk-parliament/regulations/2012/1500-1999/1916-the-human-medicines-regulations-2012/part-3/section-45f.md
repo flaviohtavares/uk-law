@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45F. Provision of information[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+## 45F. Provision of information[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 *Extent: E+W+S+N.I.*
 
 (1) A broker registered in the UK must immediately inform—
 
 - (a) the licensing authority; and
-- (b)[^key-07d64c74574da11dbb8c9606b2e62c73] the UK marketing authorisation holder, or, where applicable—
+- (b)[^c-07d64c74574da11dbb8c9606b2e62c73] the UK marketing authorisation holder, or, where applicable—
   - (i) the holder of the licence or authorisation granted by an appropriate authority responsible for the licensing of medicinal products in an approved country for import, or
   - (ii) the EU marketing authorisation holder,
 
@@ -53,6 +53,6 @@ of medicinal products which the broker identifies as, suspects to be, or has rea
 
 ## Annotations
 
-[^key-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
+[^c-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
 
-[^key-07d64c74574da11dbb8c9606b2e62c73]: Textual amendment: [Reg. 45F(1)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45F/1/b) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2024/832/regulation/23)
+[^c-07d64c74574da11dbb8c9606b2e62c73]: Textual amendment: [Reg. 45F(1)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45F/1/b) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2024/832/regulation/23)

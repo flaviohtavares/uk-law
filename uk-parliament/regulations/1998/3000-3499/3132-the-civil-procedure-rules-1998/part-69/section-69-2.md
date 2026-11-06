@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69.2. Court’s power to appoint receiver[^key-76e09c6173a9121b7a071a713ba7dc87]
+## 69.2. Court’s power to appoint receiver[^c-76e09c6173a9121b7a071a713ba7dc87]
 
 *Extent: E+W*
 
@@ -33,10 +33,10 @@ summary: ''
 - (a) terminate the appointment of a receiver; and
 - (b) appoint another receiver in his place.
 
-- (Practice Direction 69[^key-4dd32914b7e24ca3016b3a2c50bb3938] describes the powers for the court to appoint a receiver.)
+- (Practice Direction 69[^c-4dd32914b7e24ca3016b3a2c50bb3938] describes the powers for the court to appoint a receiver.)
 
 ## Annotations
 
-[^key-76e09c6173a9121b7a071a713ba7dc87]: Textual amendment: [Pt. 69](https://www.legislation.gov.uk/uksi/1998/3132/part/69) inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/2058/schedule/7)
+[^c-76e09c6173a9121b7a071a713ba7dc87]: Textual amendment: [Pt. 69](https://www.legislation.gov.uk/uksi/1998/3132/part/69) inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/2058/schedule/7)
 
-[^key-4dd32914b7e24ca3016b3a2c50bb3938]: Textual amendment: Words in [rule 69.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/69.2) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/43/a)
+[^c-4dd32914b7e24ca3016b3a2c50bb3938]: Textual amendment: Words in [rule 69.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/69.2) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/43/a)

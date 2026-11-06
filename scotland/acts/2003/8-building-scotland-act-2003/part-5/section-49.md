@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Offences by bodies corporate etc.[^key-0bd68261704796716e0b7e8b04cebcf6]
+## 49. Offences by bodies corporate etc.[^c-0bd68261704796716e0b7e8b04cebcf6]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ that person, as well as the association, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-0bd68261704796716e0b7e8b04cebcf6]: Commencement: S. 49 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-0bd68261704796716e0b7e8b04cebcf6]: Commencement: S. 49 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

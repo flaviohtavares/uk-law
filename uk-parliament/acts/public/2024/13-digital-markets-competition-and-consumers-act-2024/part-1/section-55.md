@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Duty to review pro-competition orders etc[^key-2c56c64121e67e89dd8aa4a1a649c9d5][^key-10750870406ea930eb952ac51e3e4bc8]
+## 55. Duty to review pro-competition orders etc[^c-2c56c64121e67e89dd8aa4a1a649c9d5][^c-10750870406ea930eb952ac51e3e4bc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c56c64121e67e89dd8aa4a1a649c9d5]: Commencement: S. 55 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2c56c64121e67e89dd8aa4a1a649c9d5]: Commencement: S. 55 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-10750870406ea930eb952ac51e3e4bc8]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2024/13/section/55) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-10750870406ea930eb952ac51e3e4bc8]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2024/13/section/55) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

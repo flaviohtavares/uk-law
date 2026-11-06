@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The management authority[^key-ae5a4cf18a89bfc3198cacf19f869989] may issue sample collection certificates in respect of sample collections, provided the collection is covered by a valid ATA carnet and includes specimens, parts or derivatives of species listed in Annexes A, B or C of Regulation (EC) No 338/97.
+The management authority[^c-ae5a4cf18a89bfc3198cacf19f869989] may issue sample collection certificates in respect of sample collections, provided the collection is covered by a valid ATA carnet and includes specimens, parts or derivatives of species listed in Annexes A, B or C of Regulation (EC) No 338/97.
 
 For the purposes of the first paragraph, specimens, parts or derivatives of species listed in Annex A must comply with Chapter XIII of this Regulation.
 
@@ -28,4 +28,4 @@ For the purposes of the first paragraph, specimens, parts or derivatives of spec
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EC) No 100/2008 of 4 February 2008 amending, as regards sample collections and certain formalities relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2008/100).
 
-[^key-ae5a4cf18a89bfc3198cacf19f869989]: Textual amendment: Words in [Art. 44a](https://www.legislation.gov.uk/eur/2006/865/article/44a) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(35)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/35)
+[^c-ae5a4cf18a89bfc3198cacf19f869989]: Textual amendment: Words in [Art. 44a](https://www.legislation.gov.uk/eur/2006/865/article/44a) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(35)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/35)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120B. Offence of failing to comply with regulations under section 120A[^key-99815af46c548af2996b4870d53977c0]
+## 120B. Offence of failing to comply with regulations under section 120A[^c-99815af46c548af2996b4870d53977c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99815af46c548af2996b4870d53977c0]: Textual amendment: [Ss. 120A](https://www.legislation.gov.uk/ukpga/2006/46/section/120A), [120B](https://www.legislation.gov.uk/ukpga/2006/46/section/120B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2023/56/section/48/6), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z9)
+[^c-99815af46c548af2996b4870d53977c0]: Textual amendment: [Ss. 120A](https://www.legislation.gov.uk/ukpga/2006/46/section/120A), [120B](https://www.legislation.gov.uk/ukpga/2006/46/section/120B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2023/56/section/48/6), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z9)

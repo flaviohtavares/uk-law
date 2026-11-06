@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 21.1. Application of Parts 21 to 27 to appeals[^key-880638d1462e006fe0e666b84e7be08d]
+## 21.1. Application of Parts 21 to 27 to appeals[^c-880638d1462e006fe0e666b84e7be08d]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Parts 21 to 27 (in addition to the other Parts referred to in rule 2.1(2)) apply
 
 ## Annotations
 
-[^key-880638d1462e006fe0e666b84e7be08d]: Commencement: [Rule 21.1](https://www.legislation.gov.uk/uksi/2015/1568/article/21.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-880638d1462e006fe0e666b84e7be08d]: Commencement: [Rule 21.1](https://www.legislation.gov.uk/uksi/2015/1568/article/21.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

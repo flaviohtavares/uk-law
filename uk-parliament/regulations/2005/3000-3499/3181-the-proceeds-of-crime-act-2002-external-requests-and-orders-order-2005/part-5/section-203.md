@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Tracing property, etc.[^key-70315fa8291d1941a3880c04ebf57ee5]
+## 203. Tracing property, etc.[^c-70315fa8291d1941a3880c04ebf57ee5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the other property represents the original property.
 
 ## Annotations
 
-[^key-70315fa8291d1941a3880c04ebf57ee5]: Commencement: [Art. 203](https://www.legislation.gov.uk/uksi/2005/3181/article/203) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-70315fa8291d1941a3880c04ebf57ee5]: Commencement: [Art. 203](https://www.legislation.gov.uk/uksi/2005/3181/article/203) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

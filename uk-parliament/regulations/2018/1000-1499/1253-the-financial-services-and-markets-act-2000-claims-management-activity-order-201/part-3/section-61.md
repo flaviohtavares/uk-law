@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Retention of records seized by an officer of the Regulator[^key-a7e958658b1e47ecea2a290402192064][^key-8df192268ecef37a8b24f803a9902aa1]
+## 61. Retention of records seized by an officer of the Regulator[^c-a7e958658b1e47ecea2a290402192064][^c-8df192268ecef37a8b24f803a9902aa1]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a7e958658b1e47ecea2a290402192064]: Commencement: Art. 61 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-a7e958658b1e47ecea2a290402192064]: Commencement: Art. 61 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-8df192268ecef37a8b24f803a9902aa1]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2018/1253/article/61) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-8df192268ecef37a8b24f803a9902aa1]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2018/1253/article/61) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00099]: Footnote: Section 176A was inserted by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 41 and paragraph 15 of Schedule 12.

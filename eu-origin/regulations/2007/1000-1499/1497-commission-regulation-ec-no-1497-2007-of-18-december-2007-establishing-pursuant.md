@@ -132,7 +132,7 @@ Newly installed systems shall be checked for leakage immediately after they have
 
 This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-[^key-f0a39688550a009807e0bbcfb51f509d]...
+[^c-f0a39688550a009807e0bbcfb51f509d]...
 
 Done at Brussels, 18 December 2007.
 
@@ -148,4 +148,4 @@ Stavros Dimas
 
 [^f00002]: Footnote: [OJ L 244, 29.9.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.244.01.0001.01.ENG). Regulation as last amended by Commission Regulation (EC) No 899/2007 ([OJ L 196, 28.7.2007, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.196.01.0024.01.ENG)).
 
-[^key-f0a39688550a009807e0bbcfb51f509d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/1497/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [61](https://www.legislation.gov.uk/uksi/2019/583/regulation/61); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0a39688550a009807e0bbcfb51f509d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/1497/signature) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [61](https://www.legislation.gov.uk/uksi/2019/583/regulation/61); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

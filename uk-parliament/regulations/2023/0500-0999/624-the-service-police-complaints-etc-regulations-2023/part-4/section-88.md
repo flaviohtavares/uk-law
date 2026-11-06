@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Power to make super-complaints[^key-d1aadb0c32b3346a49e40121daf36588]
+## 88. Power to make super-complaints[^c-d1aadb0c32b3346a49e40121daf36588]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1aadb0c32b3346a49e40121daf36588]: Commencement: Reg. 88 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-d1aadb0c32b3346a49e40121daf36588]: Commencement: Reg. 88 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00017]: Footnote: See section 340R(2) of the 2006 Act for the meaning of “relevant body”.

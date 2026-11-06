@@ -34,7 +34,7 @@ Merchant Shipping
 
 Safety
 
-The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2011 (revoked)[^key-b86125f00d3780bf0ee2f0bb0a54254f]
+The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2011 (revoked)[^c-b86125f00d3780bf0ee2f0bb0a54254f]
 
 Made
 
@@ -48,22 +48,22 @@ Coming into force
 
 6th January 2012
 
-[^key-b86125f00d3780bf0ee2f0bb0a54254f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b86125f00d3780bf0ee2f0bb0a54254f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b86125f00d3780bf0ee2f0bb0a54254f]
+## 1. Citation and commencement[^c-b86125f00d3780bf0ee2f0bb0a54254f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Safety of Navigation) Regulations 2002[^key-b86125f00d3780bf0ee2f0bb0a54254f]
+## 2. Amendment of the Merchant Shipping (Safety of Navigation) Regulations 2002[^c-b86125f00d3780bf0ee2f0bb0a54254f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b86125f00d3780bf0ee2f0bb0a54254f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b86125f00d3780bf0ee2f0bb0a54254f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b86125f00d3780bf0ee2f0bb0a54254f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b86125f00d3780bf0ee2f0bb0a54254f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b86125f00d3780bf0ee2f0bb0a54254f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2978) revoked (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
+[^c-b86125f00d3780bf0ee2f0bb0a54254f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2978) revoked (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))

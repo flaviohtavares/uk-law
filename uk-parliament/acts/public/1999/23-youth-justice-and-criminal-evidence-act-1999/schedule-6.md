@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Repeals[^c9547991][^c9548001][^key-62f2138635fe3459f5339f59dc7e08fb][^key-17be0fe18946ba9bf085c9fad2bdc208][^key-d0463a2188f1c5a0ba50318dfed61951][^key-85b045289df37b07c6671ebcb7b55949]
+## SCHEDULE 6 — Repeals[^c9547991][^c9548001][^c-62f2138635fe3459f5339f59dc7e08fb][^c-17be0fe18946ba9bf085c9fad2bdc208][^c-d0463a2188f1c5a0ba50318dfed61951][^c-85b045289df37b07c6671ebcb7b55949]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,10 +68,10 @@ Section 67.
 
 [^c9548001]: Extent: The extent of repeals and revocations is coextensive with the enactments they affect except that the repeal of s. 62 of the Criminal Procedure and Investigations Act 1996 does not extent to Northern Ireland, see s. 68(9)
 
-[^key-62f2138635fe3459f5339f59dc7e08fb]: Commencement: Sch. 6 in force at 7.10.2004 for specified purposes for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/f)
+[^c-62f2138635fe3459f5339f59dc7e08fb]: Commencement: Sch. 6 in force at 7.10.2004 for specified purposes for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/f)
 
-[^key-17be0fe18946ba9bf085c9fad2bdc208]: Commencement: Sch. 6 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(e)](https://www.legislation.gov.uk/ssi/2004/408/article/3/e)
+[^c-17be0fe18946ba9bf085c9fad2bdc208]: Commencement: Sch. 6 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(e)](https://www.legislation.gov.uk/ssi/2004/408/article/3/e)
 
-[^key-d0463a2188f1c5a0ba50318dfed61951]: Commencement: Sch. 6 in force at 8.11.2004 for specified purposes for N.I. by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(e)](https://www.legislation.gov.uk/nisr/2004/467/article/2/e)
+[^c-d0463a2188f1c5a0ba50318dfed61951]: Commencement: Sch. 6 in force at 8.11.2004 for specified purposes for N.I. by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(e)](https://www.legislation.gov.uk/nisr/2004/467/article/2/e)
 
-[^key-85b045289df37b07c6671ebcb7b55949]: Commencement: Sch. 6 in force at 6.12.2006 for specified purposes by [S.I. 2006/2885](https://www.legislation.gov.uk/uksi/2006/2885), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2885/article/2/b)
+[^c-85b045289df37b07c6671ebcb7b55949]: Commencement: Sch. 6 in force at 6.12.2006 for specified purposes by [S.I. 2006/2885](https://www.legislation.gov.uk/uksi/2006/2885), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2885/article/2/b)

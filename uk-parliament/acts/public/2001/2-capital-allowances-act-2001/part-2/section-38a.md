@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. AIA qualifying expenditure[^key-83f8ee09957daf1a5ce469a4c54bd46f]
+## 38A. AIA qualifying expenditure[^c-83f8ee09957daf1a5ce469a4c54bd46f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83f8ee09957daf1a5ce469a4c54bd46f]: Textual amendment: Pt. 2 Ch. 3A inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/2)
+[^c-83f8ee09957daf1a5ce469a4c54bd46f]: Textual amendment: Pt. 2 Ch. 3A inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/2)

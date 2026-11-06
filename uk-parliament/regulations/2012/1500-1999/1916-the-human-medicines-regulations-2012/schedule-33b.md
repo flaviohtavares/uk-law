@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 33B — Transitional Provision in relation to the Windsor Framework[^key-16bf5c1798ea5de188f8186f1459fc03]
+## SCHEDULE 33B — Transitional Provision in relation to the Windsor Framework[^c-16bf5c1798ea5de188f8186f1459fc03]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ Reg 347B
 
 ## Annotations
 
-[^key-16bf5c1798ea5de188f8186f1459fc03]: Textual amendment: [Sch. 33B](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33B) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [146](https://www.legislation.gov.uk/uksi/2024/832/regulation/146)
+[^c-16bf5c1798ea5de188f8186f1459fc03]: Textual amendment: [Sch. 33B](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33B) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [146](https://www.legislation.gov.uk/uksi/2024/832/regulation/146)

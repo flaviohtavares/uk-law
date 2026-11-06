@@ -24,7 +24,7 @@ Article 2
 
 ### General
 
-**1.**[^key-38ac69b4404bfe9c90423bc7adbf75d3] In this Schedule–
+**1.**[^c-38ac69b4404bfe9c90423bc7adbf75d3] In this Schedule–
 
 - “the Commission” means the Preparatory Commission for the Comprehensive Nuclear Test Ban Treaty Organization established by the Text;
 - “the Text” means the Text on the establishment of the Preparatory Commission for the Comprehensive Nuclear Test Ban Treaty Organization annexed to the resolution of 19th November 1996 of the States Signatories of the Comprehensive Nuclear Test Ban Treaty[^f00025];
@@ -38,19 +38,19 @@ Article 2
 
 ### The Commission
 
-**2.**[^key-a6e5f8eb455c1a44f5540610aac9db09] The Commission shall enjoy immunity from suit and legal process, including in respect of its property and assets, except in so far as the Commission has expressly waived such immunity in any particular case (but no waiver of immunity shall be deemed to extend to any measure of execution).
+**2.**[^c-a6e5f8eb455c1a44f5540610aac9db09] The Commission shall enjoy immunity from suit and legal process, including in respect of its property and assets, except in so far as the Commission has expressly waived such immunity in any particular case (but no waiver of immunity shall be deemed to extend to any measure of execution).
 
-**3.**[^key-72949167d6c55a7ae8e67fa1bf7ad843] The Commission shall have the like inviolability of official archives as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives of a diplomatic mission.
+**3.**[^c-72949167d6c55a7ae8e67fa1bf7ad843] The Commission shall have the like inviolability of official archives as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives of a diplomatic mission.
 
-**4.**[^key-973e70529fb5155f680fb357e3afe1bc] The Commission shall have the like relief from non domestic rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
+**4.**[^c-973e70529fb5155f680fb357e3afe1bc] The Commission shall have the like relief from non domestic rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
 
-**5.**[^key-7bc914ceb774e961a384ad06756a2471] (1) Except where the prohibitions or restrictions arise from European Community law, the Commission shall have exemption from prohibitions and restrictions on importation or exportation of goods by the Commission and necessary for the exercise of its official activities, and in the case of any publication of the Commission imported or exported by it within the scope of its official activities.
+**5.**[^c-7bc914ceb774e961a384ad06756a2471] (1) Except where the prohibitions or restrictions arise from European Community law, the Commission shall have exemption from prohibitions and restrictions on importation or exportation of goods by the Commission and necessary for the exercise of its official activities, and in the case of any publication of the Commission imported or exported by it within the scope of its official activities.
 
 (2) Sub-paragraph (1) shall not apply as respects the matters reserved by virtue of Section C5 (import and export control) of Part II of Schedule 5 to the Scotland Act 1998.
 
 ### Representatives
 
-**6.**[^key-3a9eabe7c47123113d0893aa566cc61f] (1) Except in so far as in any particular case such immunity is waived by the Member which they represent, representatives of a Member at the meeting of the Commission shall enjoy, while exercising their functions (and in the course of their journey to and from the place of meeting)–
+**6.**[^c-3a9eabe7c47123113d0893aa566cc61f] (1) Except in so far as in any particular case such immunity is waived by the Member which they represent, representatives of a Member at the meeting of the Commission shall enjoy, while exercising their functions (and in the course of their journey to and from the place of meeting)–
 
 - (a) the like immunity from personal arrest or detention as is accorded to a diplomatic agent; and
 - (b) immunity from suit and legal process (even after the termination of their mission) in respect of acts, including words written or spoken, performed by them in their official capacity.
@@ -68,7 +68,7 @@ Article 2
 
 ### Executive Secretary and other staff members
 
-**7.**[^key-72c55b7226a8732555a96f64964e1004] (1) Except in so far as in any particular case such immunity or privilege is waived by the Commission, the Executive Secretary shall enjoy–
+**7.**[^c-72c55b7226a8732555a96f64964e1004] (1) Except in so far as in any particular case such immunity or privilege is waived by the Commission, the Executive Secretary shall enjoy–
 
 - (a) the like immunity from suit and legal process as is accorded to or in respect of the head of a diplomatic mission;
 - (b) the like inviolability of residence as is accorded to or in respect of the head of a diplomatic mission; and
@@ -78,13 +78,13 @@ Article 2
 
 (3) Sub paragraph (1) shall apply to the spouse (or civil partner) and any child of the Executive Secretary as it applies to the Executive Secretary.
 
-**8.**[^key-7403988af39543e29d815797352180ef] (1) Except in so far as in any particular case such immunity is waived by the Executive Secretary, all staff members shall enjoy immunity from suit and legal process (even after they have left the service of the Commission) in respect of acts, including words written or spoken, done by them in the exercise of their official functions.
+**8.**[^c-7403988af39543e29d815797352180ef] (1) Except in so far as in any particular case such immunity is waived by the Executive Secretary, all staff members shall enjoy immunity from suit and legal process (even after they have left the service of the Commission) in respect of acts, including words written or spoken, done by them in the exercise of their official functions.
 
 (2) The immunity accorded by sub-paragraph (1) shall not apply in the case of a motor traffic offence committed by a staff member or in the case of damage caused by a motor vehicle belonging to or driven by a staff member.
 
 ### Experts
 
-**9.**[^key-3f2d9e28eb844d92b04b76ac5259cbbe] (1) Except in so far as in any particular case such immunity is waived by the Executive Secretary, experts (other than staff members) serving on committees of, or performing missions for, the Commission shall enjoy–
+**9.**[^c-3f2d9e28eb844d92b04b76ac5259cbbe] (1) Except in so far as in any particular case such immunity is waived by the Executive Secretary, experts (other than staff members) serving on committees of, or performing missions for, the Commission shall enjoy–
 
 - (a) the like immunity from personal arrest or detention as is accorded to a diplomatic agent; and
 - (b) immunity from suit and legal process (even after the termination of their service or mission) in respect of acts, including words written or spoken, done by them in the exercise of their official functions.
@@ -93,7 +93,7 @@ Article 2
 
 ## Annotations
 
-[^key-38ac69b4404bfe9c90423bc7adbf75d3]: Commencement: Sch. 9 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-38ac69b4404bfe9c90423bc7adbf75d3]: Commencement: Sch. 9 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00025]: Footnote: Cm. 4399.
 
@@ -101,20 +101,20 @@ Article 2
 
 [^f00027]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81).
 
-[^key-a6e5f8eb455c1a44f5540610aac9db09]: Commencement: Sch. 9 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-a6e5f8eb455c1a44f5540610aac9db09]: Commencement: Sch. 9 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-72949167d6c55a7ae8e67fa1bf7ad843]: Commencement: Sch. 9 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-72949167d6c55a7ae8e67fa1bf7ad843]: Commencement: Sch. 9 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-973e70529fb5155f680fb357e3afe1bc]: Commencement: Sch. 9 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-973e70529fb5155f680fb357e3afe1bc]: Commencement: Sch. 9 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-7bc914ceb774e961a384ad06756a2471]: Commencement: Sch. 9 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-7bc914ceb774e961a384ad06756a2471]: Commencement: Sch. 9 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-3a9eabe7c47123113d0893aa566cc61f]: Commencement: Sch. 9 para. 6 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-3a9eabe7c47123113d0893aa566cc61f]: Commencement: Sch. 9 para. 6 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-72c55b7226a8732555a96f64964e1004]: Commencement: Sch. 9 para. 7 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-72c55b7226a8732555a96f64964e1004]: Commencement: Sch. 9 para. 7 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00028]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-7403988af39543e29d815797352180ef]: Commencement: Sch. 9 para. 8 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-7403988af39543e29d815797352180ef]: Commencement: Sch. 9 para. 8 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-3f2d9e28eb844d92b04b76ac5259cbbe]: Commencement: Sch. 9 para. 9 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-3f2d9e28eb844d92b04b76ac5259cbbe]: Commencement: Sch. 9 para. 9 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)

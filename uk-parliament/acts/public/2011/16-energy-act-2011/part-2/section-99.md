@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Licence conditions to secure funding of energy supply company administration[^key-78a8564dc89077a84e1ce3e3b0393440]
+## 99. Licence conditions to secure funding of energy supply company administration[^c-78a8564dc89077a84e1ce3e3b0393440]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a8564dc89077a84e1ce3e3b0393440]: Modification: Ss. 93-102 modified (E.W.) (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)](https://www.legislation.gov.uk/uksi/2013/1046/article/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
+[^c-78a8564dc89077a84e1ce3e3b0393440]: Modification: Ss. 93-102 modified (E.W.) (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)](https://www.legislation.gov.uk/uksi/2013/1046/article/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))

@@ -46,7 +46,7 @@ In accordance with section 128(2) of that Act, a draft of these Regulations has 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-f57fab8c260554067f547b4cbe4bd7af]
+### 1. Citation, commencement and interpretation[^c-f57fab8c260554067f547b4cbe4bd7af]
 
 (1) These Regulations may be cited as the Pavement Parking Prohibition (Exemption Orders Procedure) (Scotland) Regulations 2022 and come into force on 9 December 2022.
 
@@ -57,7 +57,7 @@ In accordance with section 128(2) of that Act, a draft of these Regulations has 
 
 ## PART 2 — Consultation, publication and representations
 
-### 2. Publication of proposals and consultation[^key-a44508a74bc7b4d994ef7a54311e0ca4]
+### 2. Publication of proposals and consultation[^c-a44508a74bc7b4d994ef7a54311e0ca4]
 
 (1) Before making an exemption order under section 51 of the Act, a local authority must—
 
@@ -83,7 +83,7 @@ In accordance with section 128(2) of that Act, a draft of these Regulations has 
 
 (4) In this regulation, “Crown road” and “appropriate Crown Authority” have the meanings given in section 131(7) of the Road Traffic Regulation Act 1984[^f00005].
 
-### 3. Representations[^key-f336f03e65986b36edf61455039fba84]
+### 3. Representations[^c-f336f03e65986b36edf61455039fba84]
 
 (1) Before the end of the period specified in accordance with paragraph 5 of Part 1 of schedule 1, any person may make representations in writing in relation to the proposed exemption order.
 
@@ -96,7 +96,7 @@ In accordance with section 128(2) of that Act, a draft of these Regulations has 
 
 ## PART 3 — Hearings
 
-### 4. Hearing[^key-4f7bff7ee2dfa4f4a42da409bb5d1f0c]
+### 4. Hearing[^c-4f7bff7ee2dfa4f4a42da409bb5d1f0c]
 
 (1) Before making an exemption order, a local authority may appoint a person (a “reporter”) to conduct a hearing in relation to the proposed exemption order or any aspect of it.
 
@@ -107,7 +107,7 @@ In accordance with section 128(2) of that Act, a draft of these Regulations has 
 
 (3) A hearing must be held in public.
 
-### 5. Notice of hearing[^key-ee21ed39495de2e474eb8c47b3faf359]
+### 5. Notice of hearing[^c-ee21ed39495de2e474eb8c47b3faf359]
 
 (1) Where a hearing is to be held the reporter must give notice in writing to that effect to—
 
@@ -119,11 +119,11 @@ In accordance with section 128(2) of that Act, a draft of these Regulations has 
 
 (3) A notice sent under paragraph (1) must include confirmation that if those persons do not reply to the reporter in terms of paragraph (2) they will not be entitled to appear at the hearing.
 
-### 6. Appearances at hearing[^key-64d3b477861291d9769d6f30087439d8]
+### 6. Appearances at hearing[^c-64d3b477861291d9769d6f30087439d8]
 
 The persons entitled to appear at a hearing are those who have informed the reporter of their intention to appear under regulation 5(2).
 
-### 7. Date and notification of hearing[^key-505b9329831105bd1a79b6ee23778b6c]
+### 7. Date and notification of hearing[^c-505b9329831105bd1a79b6ee23778b6c]
 
 (1) The reporter must fix the date and time for the holding of the hearing and the manner in which the hearing will be conducted, including its location (if appropriate), all or any of which may subsequently be varied by the reporter.
 
@@ -133,7 +133,7 @@ The persons entitled to appear at a hearing are those who have informed the repo
 - (b) the manner of the holding of the hearing, including its location, if appropriate,
 - (c) any subsequent variation of the details mentioned in sub-paragraphs (a) and (b).
 
-### 8. Procedure at hearing[^key-f97469af6f8f28feed1ec0268d451547]
+### 8. Procedure at hearing[^c-f97469af6f8f28feed1ec0268d451547]
 
 (1) Except as otherwise provided in this Part, the procedure at a hearing is as the reporter determines.
 
@@ -149,14 +149,14 @@ The persons entitled to appear at a hearing are those who have informed the repo
 
 ## PART 4 — Making of an exemption order
 
-### 9. Consideration of representations and report following hearing[^key-a647f4618e0e974e252194fc9db15d00]
+### 9. Consideration of representations and report following hearing[^c-a647f4618e0e974e252194fc9db15d00]
 
 Before making an exemption order, a local authority must consider—
 
 - (a) any representations made in accordance with regulation 3(1),
 - (b) in a case where a hearing has been held, the report and recommendations (if any) of the reporter.
 
-### 10. Making of an exemption order[^key-89c55ea6d58ddb8437e76d9ccce7953e]
+### 10. Making of an exemption order[^c-89c55ea6d58ddb8437e76d9ccce7953e]
 
 (1) A local authority may—
 
@@ -172,7 +172,7 @@ Before making an exemption order, a local authority must consider—
 
 (3) A local authority may consider whether it is appropriate to take account of representations made under this regulation which are received by it after the end of the period specified in accordance with paragraph (2)(b).
 
-### 11. Form of exemption order[^key-7746f5d59114945277553762324d7fcb]
+### 11. Form of exemption order[^c-7746f5d59114945277553762324d7fcb]
 
 An exemption order must—
 
@@ -180,7 +180,7 @@ An exemption order must—
 - (b) be accompanied by a map which indicates the footway (or part of a footway) to which the order relates,
 - (c) specify the date on which the order comes into effect.
 
-### 12. Notice of making of an exemption order[^key-052d50c3840f4fb8d1ecd7b5479a7e16]
+### 12. Notice of making of an exemption order[^c-052d50c3840f4fb8d1ecd7b5479a7e16]
 
 Within 14 days of making an exemption order under section 51 of the Act a local authority must—
 
@@ -192,7 +192,7 @@ Within 14 days of making an exemption order under section 51 of the Act a local 
 - (f) display notices containing the information set out in Part 2 of schedule 1, displayed in accordance with paragraphs 1 and 3 of schedule 2, in any footway to which the exemption order relates,
 - (g) take such other steps as it considers appropriate for ensuring that adequate publicity about the making of the exemption order is given to persons likely to be affected by it.
 
-### 13. Amending and revoking exemption orders[^key-4dd0ed743fb77aa74dad874824f8478c]
+### 13. Amending and revoking exemption orders[^c-4dd0ed743fb77aa74dad874824f8478c]
 
 The requirements of regulations 2 to 12 apply to proposals to amend or revoke an exemption order as they do to proposals to make an exemption order.
 
@@ -210,44 +210,44 @@ Regulations 2, 3, and 12
 
 ### PART 1 — PARTICULARS TO BE INCLUDED IN THE NOTICE OF PROPOSALS
 
-**1.**[^key-f5de37c3ee9c012a31524e46a588e89d] The name of the local authority.
+**1.**[^c-f5de37c3ee9c012a31524e46a588e89d] The name of the local authority.
 
-**2.**[^key-dc4e61ccf7e1e09d69b03d35128b8721] A description of the proposed exemption order.
+**2.**[^c-dc4e61ccf7e1e09d69b03d35128b8721] A description of the proposed exemption order.
 
-**3.**[^key-71fffb6ecde291a180ef0c5b34a2479e] Each address at which a copy of—
+**3.**[^c-71fffb6ecde291a180ef0c5b34a2479e] Each address at which a copy of—
 
 - (a) the proposal referred to in regulation 2(1)(b),
 - (b) the statement referred to in regulation 2(1)(c),
 
 can be inspected, and the times when inspection can take place at each such address.
 
-**4.**[^key-e5b53db606e643cbea53dafd37759c55] The fact that the information referred to in regulation 2(1)(b) and (c) is available on the local authority’s website.
+**4.**[^c-e5b53db606e643cbea53dafd37759c55] The fact that the information referred to in regulation 2(1)(b) and (c) is available on the local authority’s website.
 
-**5.**[^key-fd51ff54f38f133ce42d94dd00d2aaa7] The period within which representations may be made in relation to the proposed exemption order, being a period of at least 28 days beginning with the date on which the notice of proposals is published under regulation 2(1)(a).
+**5.**[^c-fd51ff54f38f133ce42d94dd00d2aaa7] The period within which representations may be made in relation to the proposed exemption order, being a period of at least 28 days beginning with the date on which the notice of proposals is published under regulation 2(1)(a).
 
-**6.**[^key-5dddf71e20e710c033c729c347ecf120] The address at which representations relating to the proposed exemption order can be lodged, and a statement that all representations must be made in writing and must specify the grounds on which they are made.
+**6.**[^c-5dddf71e20e710c033c729c347ecf120] The address at which representations relating to the proposed exemption order can be lodged, and a statement that all representations must be made in writing and must specify the grounds on which they are made.
 
 ### PART 2 — INFORMATION TO BE INCLUDED IN THE NOTICE OF MAKING OF AN EXEMPTION ORDER
 
-**7.**[^key-ce9c5034dbacb832403677566d38c642] The name of the local authority.
+**7.**[^c-ce9c5034dbacb832403677566d38c642] The name of the local authority.
 
-**8.**[^key-8c04744d1041c87e1447498b3d3e3e41] A description of the exemption order.
+**8.**[^c-8c04744d1041c87e1447498b3d3e3e41] A description of the exemption order.
 
-**9.**[^key-39402db67962e6b2f687486fbd45d003] The date of the making of the order and the date on which it comes into effect.
+**9.**[^c-39402db67962e6b2f687486fbd45d003] The date of the making of the order and the date on which it comes into effect.
 
-**10.**[^key-3c2ca562b6d0daa5b45d68ac3825a94d] Each address at which a copy of the exemption order and accompanying map and, where applicable, the report following the holding of a hearing under regulation 4, can be inspected, and the times when inspection can take place at each such address.
+**10.**[^c-3c2ca562b6d0daa5b45d68ac3825a94d] Each address at which a copy of the exemption order and accompanying map and, where applicable, the report following the holding of a hearing under regulation 4, can be inspected, and the times when inspection can take place at each such address.
 
-**11.**[^key-e6832716422b34ad579296c47b9675b0] The fact that a copy of the exemption order and accompanying map is available on the local authority’s website.
+**11.**[^c-e6832716422b34ad579296c47b9675b0] The fact that a copy of the exemption order and accompanying map is available on the local authority’s website.
 
 ## SCHEDULE 2 — REQUIREMENTS AS TO THE DISPLAY OF NOTICES IN A FOOTWAY TO WHICH A PROPOSAL OR EXEMPTION ORDER RELATES
 
 Regulations 2 and 12
 
-**1.**[^key-cf1e6004590ca886fab7f778c001aa7f] The notice must be displayed in a prominent position at or near each end of the footway to which the exemption order relates and in such other positions as the local authority thinks necessary for securing that adequate information about the subject matter of the notice is given to persons using the footway.
+**1.**[^c-cf1e6004590ca886fab7f778c001aa7f] The notice must be displayed in a prominent position at or near each end of the footway to which the exemption order relates and in such other positions as the local authority thinks necessary for securing that adequate information about the subject matter of the notice is given to persons using the footway.
 
-**2.**[^key-f629d86e8157fd86c13d1bfa29f33f0e] The notice must be displayed at the same time as the corresponding notice is published in accordance with regulation 2(1)(a), and the local authority must take all reasonable steps to ensure that it remains in a legible condition and continues to be displayed until the end of the representation period.
+**2.**[^c-f629d86e8157fd86c13d1bfa29f33f0e] The notice must be displayed at the same time as the corresponding notice is published in accordance with regulation 2(1)(a), and the local authority must take all reasonable steps to ensure that it remains in a legible condition and continues to be displayed until the end of the representation period.
 
-**3.**[^key-dd4fe8fc565a9a57843a58ece426a5a7] The notice must be displayed at the same time as the corresponding notice is published in accordance with regulation 12(c).
+**3.**[^c-dd4fe8fc565a9a57843a58ece426a5a7] The notice must be displayed at the same time as the corresponding notice is published in accordance with regulation 12(c).
 
 EXPLANATORY NOTE
 
@@ -275,11 +275,11 @@ Impact assessments have been prepared in relation to these Regulations, copies o
 
 [^f00001]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-f57fab8c260554067f547b4cbe4bd7af]: Commencement: Reg. 1 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-f57fab8c260554067f547b4cbe4bd7af]: Commencement: Reg. 1 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was relevantly amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17).
 
-[^key-a44508a74bc7b4d994ef7a54311e0ca4]: Commencement: Reg. 2 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-a44508a74bc7b4d994ef7a54311e0ca4]: Commencement: Reg. 2 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
 [^f00003]: Footnote: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
 
@@ -287,52 +287,52 @@ Impact assessments have been prepared in relation to these Regulations, copies o
 
 [^f00005]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 131(7) was amended by paragraph 75(3) of schedule 8 of the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) and by [S.I. 2017/524](https://www.legislation.gov.uk/uksi/2017/524).
 
-[^key-f336f03e65986b36edf61455039fba84]: Commencement: Reg. 3 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-f336f03e65986b36edf61455039fba84]: Commencement: Reg. 3 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-4f7bff7ee2dfa4f4a42da409bb5d1f0c]: Commencement: Reg. 4 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-4f7bff7ee2dfa4f4a42da409bb5d1f0c]: Commencement: Reg. 4 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-ee21ed39495de2e474eb8c47b3faf359]: Commencement: Reg. 5 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-ee21ed39495de2e474eb8c47b3faf359]: Commencement: Reg. 5 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-64d3b477861291d9769d6f30087439d8]: Commencement: Reg. 6 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-64d3b477861291d9769d6f30087439d8]: Commencement: Reg. 6 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-505b9329831105bd1a79b6ee23778b6c]: Commencement: Reg. 7 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-505b9329831105bd1a79b6ee23778b6c]: Commencement: Reg. 7 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-f97469af6f8f28feed1ec0268d451547]: Commencement: Reg. 8 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-f97469af6f8f28feed1ec0268d451547]: Commencement: Reg. 8 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-a647f4618e0e974e252194fc9db15d00]: Commencement: Reg. 9 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-a647f4618e0e974e252194fc9db15d00]: Commencement: Reg. 9 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-89c55ea6d58ddb8437e76d9ccce7953e]: Commencement: Reg. 10 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-89c55ea6d58ddb8437e76d9ccce7953e]: Commencement: Reg. 10 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-7746f5d59114945277553762324d7fcb]: Commencement: Reg. 11 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-7746f5d59114945277553762324d7fcb]: Commencement: Reg. 11 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-052d50c3840f4fb8d1ecd7b5479a7e16]: Commencement: Reg. 12 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-052d50c3840f4fb8d1ecd7b5479a7e16]: Commencement: Reg. 12 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-4dd0ed743fb77aa74dad874824f8478c]: Commencement: Reg. 13 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-4dd0ed743fb77aa74dad874824f8478c]: Commencement: Reg. 13 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-f5de37c3ee9c012a31524e46a588e89d]: Commencement: Sch. 1 para. 1 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-f5de37c3ee9c012a31524e46a588e89d]: Commencement: Sch. 1 para. 1 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-dc4e61ccf7e1e09d69b03d35128b8721]: Commencement: Sch. 1 para. 2 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-dc4e61ccf7e1e09d69b03d35128b8721]: Commencement: Sch. 1 para. 2 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-71fffb6ecde291a180ef0c5b34a2479e]: Commencement: Sch. 1 para. 3 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-71fffb6ecde291a180ef0c5b34a2479e]: Commencement: Sch. 1 para. 3 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-e5b53db606e643cbea53dafd37759c55]: Commencement: Sch. 1 para. 4 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-e5b53db606e643cbea53dafd37759c55]: Commencement: Sch. 1 para. 4 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-fd51ff54f38f133ce42d94dd00d2aaa7]: Commencement: Sch. 1 para. 5 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-fd51ff54f38f133ce42d94dd00d2aaa7]: Commencement: Sch. 1 para. 5 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-5dddf71e20e710c033c729c347ecf120]: Commencement: Sch. 1 para. 6 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-5dddf71e20e710c033c729c347ecf120]: Commencement: Sch. 1 para. 6 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-ce9c5034dbacb832403677566d38c642]: Commencement: Sch. 1 para. 7 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-ce9c5034dbacb832403677566d38c642]: Commencement: Sch. 1 para. 7 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-8c04744d1041c87e1447498b3d3e3e41]: Commencement: Sch. 1 para. 8 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-8c04744d1041c87e1447498b3d3e3e41]: Commencement: Sch. 1 para. 8 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-39402db67962e6b2f687486fbd45d003]: Commencement: Sch. 1 para. 9 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-39402db67962e6b2f687486fbd45d003]: Commencement: Sch. 1 para. 9 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-3c2ca562b6d0daa5b45d68ac3825a94d]: Commencement: Sch. 1 para. 10 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-3c2ca562b6d0daa5b45d68ac3825a94d]: Commencement: Sch. 1 para. 10 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-e6832716422b34ad579296c47b9675b0]: Commencement: Sch. 1 para. 11 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-e6832716422b34ad579296c47b9675b0]: Commencement: Sch. 1 para. 11 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-cf1e6004590ca886fab7f778c001aa7f]: Commencement: Sch. 2 para. 1 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-cf1e6004590ca886fab7f778c001aa7f]: Commencement: Sch. 2 para. 1 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-f629d86e8157fd86c13d1bfa29f33f0e]: Commencement: Sch. 2 para. 2 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-f629d86e8157fd86c13d1bfa29f33f0e]: Commencement: Sch. 2 para. 2 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
 
-[^key-dd4fe8fc565a9a57843a58ece426a5a7]: Commencement: Sch. 2 para. 3 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)
+[^c-dd4fe8fc565a9a57843a58ece426a5a7]: Commencement: Sch. 2 para. 3 in force at 9.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/360/regulation/1/1)

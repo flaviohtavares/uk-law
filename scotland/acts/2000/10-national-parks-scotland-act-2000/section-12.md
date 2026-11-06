@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. National Park Plans: procedure[^key-66760df13173d445d2da893bff56538b]
+## 12. National Park Plans: procedure[^c-66760df13173d445d2da893bff56538b]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ and may adjust it in light of such views and comments.
 
 ## Annotations
 
-[^key-66760df13173d445d2da893bff56538b]: Modification: [S. 12](https://www.legislation.gov.uk/asp/2000/10/section/12) modified (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2007/268/article/4/1) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
+[^c-66760df13173d445d2da893bff56538b]: Modification: [S. 12](https://www.legislation.gov.uk/asp/2000/10/section/12) modified (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2007/268/article/4/1) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))

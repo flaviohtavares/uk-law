@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Deemed consent under Part 4 (marine licensing) of the Marine and Coastal Access Act 2009[^key-f61650bba36159f653b7ed86c6456b47]
+## 39. Deemed consent under Part 4 (marine licensing) of the Marine and Coastal Access Act 2009[^c-f61650bba36159f653b7ed86c6456b47]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The marine licence set out in Schedule 9 is deemed to have been issued under Par
 
 ## Annotations
 
-[^key-f61650bba36159f653b7ed86c6456b47]: Commencement: Art. 39 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-f61650bba36159f653b7ed86c6456b47]: Commencement: Art. 39 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

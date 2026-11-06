@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 695A. Employment income under Part 7A[^key-56efc6336c8570c34440992f4249716d]
+## 695A. Employment income under Part 7A[^c-56efc6336c8570c34440992f4249716d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ and references to A and B are to be read accordingly.
 
 ## Annotations
 
-[^key-56efc6336c8570c34440992f4249716d]: Textual amendment: [S. 695A](https://www.legislation.gov.uk/ukpga/2003/1/section/695A) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/31)
+[^c-56efc6336c8570c34440992f4249716d]: Textual amendment: [S. 695A](https://www.legislation.gov.uk/ukpga/2003/1/section/695A) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/31)

@@ -30,12 +30,12 @@ summary: ''
 
 within the United Kingdom (which are referred to in this article as “**relevant aircraft**”).
 
-(2) A relevant aircraft which is launched, moored, tethered or ground towed[^key-87be330066c5144f48b13533833bc31f] must not be operated—
+(2) A relevant aircraft which is launched, moored, tethered or ground towed[^c-87be330066c5144f48b13533833bc31f] must not be operated—
 
 - (a) in such a manner as to—
   - (i) represent a hazard to other airspace users; or
   - (ii) without the permission of the CAA, result in any part of the relevant aircraft whilst it is being launched or ground towed, or its tether, mooring or towing equipment, extending more than 60 metres above ground level;
-- (b) within [^key-374ec2bfc77d1b8509ac728be6168736]... airspace notified for the purpose of this article;
+- (b) within [^c-374ec2bfc77d1b8509ac728be6168736]... airspace notified for the purpose of this article;
 - (c) within the aerodrome traffic zone of a notified aerodrome during the notified operating hours of that aerodrome except—
   - (i) during the day and in Visual Meteorological Conditions; and
   - (ii) with the permission of the person in charge of the aerodrome, the appropriate air traffic control unit or the CAA.
@@ -57,6 +57,6 @@ within the United Kingdom (which are referred to in this article as “**relevan
 
 ## Annotations
 
-[^key-87be330066c5144f48b13533833bc31f]: Textual amendment: Words in art. 92(2)(3) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [22(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/22/a)
+[^c-87be330066c5144f48b13533833bc31f]: Textual amendment: Words in art. 92(2)(3) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [22(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/22/a)
 
-[^key-374ec2bfc77d1b8509ac728be6168736]: Textual amendment: Words in art. 92(2)(b) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [22(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/22/b)
+[^c-374ec2bfc77d1b8509ac728be6168736]: Textual amendment: Words in art. 92(2)(b) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [22(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/22/b)

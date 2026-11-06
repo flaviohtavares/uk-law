@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Service of notices[^key-1f63c2f7f638bb6655e2201182ad2333]
+## 48. Service of notices[^c-1f63c2f7f638bb6655e2201182ad2333]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f63c2f7f638bb6655e2201182ad2333]: Commencement: Art. 48 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-1f63c2f7f638bb6655e2201182ad2333]: Commencement: Art. 48 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00082]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

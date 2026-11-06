@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Finance: disclosure to the Treasury[^key-db6ddbfe6d59d3d80ffd3530c9f31ddc]
+## 77. Finance: disclosure to the Treasury[^c-db6ddbfe6d59d3d80ffd3530c9f31ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-db6ddbfe6d59d3d80ffd3530c9f31ddc]: Commencement: Reg. 77 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-db6ddbfe6d59d3d80ffd3530c9f31ddc]: Commencement: Reg. 77 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00025]: Footnote: “**Sanctions regulations**” has the meaning given in section 1(5) of the Sanctions and Anti-Money Laundering Act 2018.
 

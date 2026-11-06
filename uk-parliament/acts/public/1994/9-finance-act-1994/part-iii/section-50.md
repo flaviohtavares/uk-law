@@ -24,10 +24,10 @@ summary: ''
 
 (2) For the purposes of this Part, the chargeable amount is such amount as, with the addition of the tax chargeable, is equal to the amount of the premium.
 
-(3) Subsections (1) and (2)[^c14451891] above shall have effect subject to sections 69 and 69A[^key-c5f4e184029eb35dad1c7797ec0be860] below.
+(3) Subsections (1) and (2)[^c14451891] above shall have effect subject to sections 69 and 69A[^c-c5f4e184029eb35dad1c7797ec0be860] below.
 
 ## Annotations
 
 [^c14451891]: Textual amendment: Words in s. 23(3) substituted (19.3.1997 with effect as mentioned in [s. 24](https://www.legislation.gov.uk/ukpga/1997/16/section/24) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 23(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/23/2)
 
-[^key-c5f4e184029eb35dad1c7797ec0be860]: Textual amendment: Words in s. 50(3) substituted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/266/article/2/2)
+[^c-c5f4e184029eb35dad1c7797ec0be860]: Textual amendment: Words in s. 50(3) substituted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/266/article/2/2)

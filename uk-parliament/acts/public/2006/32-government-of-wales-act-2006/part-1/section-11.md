@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Vacant seats[^key-07bf0734175c80c81a97b19d1a90620d]
+## 11. Vacant seats[^c-07bf0734175c80c81a97b19d1a90620d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ is treated on and after their return as not having been included on the list.
 
 ## Annotations
 
-[^key-07bf0734175c80c81a97b19d1a90620d]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2006/32/section/11) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 9(3)](https://www.legislation.gov.uk/asc/2024/4/section/9/3), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-07bf0734175c80c81a97b19d1a90620d]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2006/32/section/11) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 9(3)](https://www.legislation.gov.uk/asc/2024/4/section/9/3), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Owner liable for unsafe operation of ship.[^key-858ef635ee35e7cd0cbcb1e303a24f17]
+## 100. Owner liable for unsafe operation of ship.[^c-858ef635ee35e7cd0cbcb1e303a24f17]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) If the owner of a ship to which this section applies fails to discharge the duty imposed on him by subsection (1) above, he shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-e41262a0de9d86afcd2b9035a995a002] a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-e41262a0de9d86afcd2b9035a995a002] a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
 (4) Where any such ship—
@@ -56,6 +56,6 @@ and accordingly the reference in subsection (1) above to the taking of all reaso
 
 ## Annotations
 
-[^key-858ef635ee35e7cd0cbcb1e303a24f17]: Modification: [S. 100](https://www.legislation.gov.uk/ukpga/1995/21/section/100) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/35/article/8)
+[^c-858ef635ee35e7cd0cbcb1e303a24f17]: Modification: [S. 100](https://www.legislation.gov.uk/ukpga/1995/21/section/100) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/35/article/8)
 
-[^key-e41262a0de9d86afcd2b9035a995a002]: Textual amendment: Words in [s. 100(3)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/100/3/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-e41262a0de9d86afcd2b9035a995a002]: Textual amendment: Words in [s. 100(3)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/100/3/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

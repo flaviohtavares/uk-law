@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Valuations[^key-e50257faa7fd408b6a03a9da262bcb85]
+## 15. Valuations[^c-e50257faa7fd408b6a03a9da262bcb85]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50257faa7fd408b6a03a9da262bcb85]: Commencement: Reg. 15 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-e50257faa7fd408b6a03a9da262bcb85]: Commencement: Reg. 15 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

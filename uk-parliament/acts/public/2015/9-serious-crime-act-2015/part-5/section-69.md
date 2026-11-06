@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Possession of paedophile manual[^key-f4be42a13a6c6bbcc0b707f30d73d4d7]
+## 69. Possession of paedophile manual[^c-f4be42a13a6c6bbcc0b707f30d73d4d7]
 
 *Extent: E+W+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-2b8a25ff35edf32fe2197f66c21b01e4] or to a fine, or to both;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-2b8a25ff35edf32fe2197f66c21b01e4] or to a fine, or to both;
 - (b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both;
 - (c) on conviction on indictment, to imprisonment for a term not exceeding 3 years or to a fine, or to both.
 
@@ -58,9 +58,9 @@ summary: ''
 (8) In this section—
 
 - “**abusing children sexually**” means doing anything that constitutes—
-  - (a) an offence under Part 1 of the Sexual Offences Act 2003, or under Part 2, 3 or 4 of the Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2)), against a person under 16, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-340b1a6443f1452b364eeb2dbaffd035]
-  - (b) an offence under section 1 of the Protection of Children Act 1978, or under Article 3 of the Protection of Children (Northern Ireland) Order 1978, involving indecent photographs (but not pseudo-photographs),or *(Extent: E+W)*[^key-9dc1b04633532a1c13ab0c220cc55582]
-  - (c) an offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation), *(Extent: E+W)*[^key-f94ced97036fc3864f014b615f62d161]
+  - (a) an offence under Part 1 of the Sexual Offences Act 2003, or under Part 2, 3 or 4 of the Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2)), against a person under 16, or *(Extent: E+W)* *(affected by repeal, see note)*[^c-340b1a6443f1452b364eeb2dbaffd035]
+  - (b) an offence under section 1 of the Protection of Children Act 1978, or under Article 3 of the Protection of Children (Northern Ireland) Order 1978, involving indecent photographs (but not pseudo-photographs),or *(Extent: E+W)*[^c-9dc1b04633532a1c13ab0c220cc55582]
+  - (c) an offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation), *(Extent: E+W)*[^c-f94ced97036fc3864f014b615f62d161]
 
     or doing anything outside England and Wales or Northern Ireland that would constitute such an offence if done in England and Wales or Northern Ireland;
 - “**item**” includes anything in which information of any description is recorded;
@@ -68,12 +68,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f4be42a13a6c6bbcc0b707f30d73d4d7]: Commencement: S. 69 in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/m)
+[^c-f4be42a13a6c6bbcc0b707f30d73d4d7]: Commencement: S. 69 in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/m)
 
-[^key-2b8a25ff35edf32fe2197f66c21b01e4]: Textual amendment: Words in [s. 69(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/69/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-2b8a25ff35edf32fe2197f66c21b01e4]: Textual amendment: Words in [s. 69(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/69/3/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-340b1a6443f1452b364eeb2dbaffd035]: Textual amendment: Word in s. 69(8) omitted (E.W.) (17.3.2016) by virtue of [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2016/244/regulation/24/a)
+[^c-340b1a6443f1452b364eeb2dbaffd035]: Textual amendment: Word in s. 69(8) omitted (E.W.) (17.3.2016) by virtue of [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2016/244/regulation/24/a)
 
-[^key-9dc1b04633532a1c13ab0c220cc55582]: Textual amendment: Word in s. 69(8) inserted (E.W.) (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2016/244/regulation/24/b)
+[^c-9dc1b04633532a1c13ab0c220cc55582]: Textual amendment: Word in s. 69(8) inserted (E.W.) (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2016/244/regulation/24/b)
 
-[^key-f94ced97036fc3864f014b615f62d161]: Textual amendment: Words in s. 69(8)(c) inserted (E.W.) (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [24(c)](https://www.legislation.gov.uk/uksi/2016/244/regulation/24/c)
+[^c-f94ced97036fc3864f014b615f62d161]: Textual amendment: Words in s. 69(8)(c) inserted (E.W.) (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [24(c)](https://www.legislation.gov.uk/uksi/2016/244/regulation/24/c)

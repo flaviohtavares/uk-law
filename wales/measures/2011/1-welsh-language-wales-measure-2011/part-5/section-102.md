@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Commissioner's duty on an appeal by P[^key-593885d670564ec2552b7de2e944cca7]
+## 102. Commissioner's duty on an appeal by P[^c-593885d670564ec2552b7de2e944cca7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-593885d670564ec2552b7de2e944cca7]: Commencement: [S. 102](https://www.legislation.gov.uk/mwa/2011/1/section/102) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-593885d670564ec2552b7de2e944cca7]: Commencement: [S. 102](https://www.legislation.gov.uk/mwa/2011/1/section/102) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

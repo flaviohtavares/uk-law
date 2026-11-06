@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Other interpretation[^key-d15c56104f68b2a5546b37e4e26328aa]
+## 92. Other interpretation[^c-d15c56104f68b2a5546b37e4e26328aa]
 
 *Extent: E+W+S+N.I.*
 
 In this Part—
 
-- “appropriate officer” means—[^key-e14d88298bc2c7483dc46f94fa3cda83]
+- “appropriate officer” means—[^c-e14d88298bc2c7483dc46f94fa3cda83]
   - (a) an officer of Revenue and Customs; or
   - (b) a constable;
 - “court” means the Court of Session;
@@ -36,6 +36,6 @@ In this Part—
 
 ## Annotations
 
-[^key-d15c56104f68b2a5546b37e4e26328aa]: Commencement: [Art. 92](https://www.legislation.gov.uk/uksi/2005/3181/article/92) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d15c56104f68b2a5546b37e4e26328aa]: Commencement: [Art. 92](https://www.legislation.gov.uk/uksi/2005/3181/article/92) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-e14d88298bc2c7483dc46f94fa3cda83]: Textual amendment: Words in [art. 92](https://www.legislation.gov.uk/uksi/2005/3181/article/92) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [31](https://www.legislation.gov.uk/uksi/2015/1750/article/31)
+[^c-e14d88298bc2c7483dc46f94fa3cda83]: Textual amendment: Words in [art. 92](https://www.legislation.gov.uk/uksi/2005/3181/article/92) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [31](https://www.legislation.gov.uk/uksi/2015/1750/article/31)

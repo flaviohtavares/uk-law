@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Supplementary[^key-110efabaa6983cca3870b98bf9c034b7]
+## 25. Supplementary[^c-110efabaa6983cca3870b98bf9c034b7]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ as are necessary to enable the investigator to exercise any of the powers confer
 
 ## Annotations
 
-[^key-110efabaa6983cca3870b98bf9c034b7]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2008/5/section/25) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-110efabaa6983cca3870b98bf9c034b7]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2008/5/section/25) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

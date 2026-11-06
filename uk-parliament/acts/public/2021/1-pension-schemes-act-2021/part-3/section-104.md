@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fe22706e71b73d39735d3fecc800aa34] Section 38 of the Pensions Act 2004 (contribution notices where avoidance of employer debt) is amended as follows.
+(1)[^c-fe22706e71b73d39735d3fecc800aa34] Section 38 of the Pensions Act 2004 (contribution notices where avoidance of employer debt) is amended as follows.
 
 (2) In subsection (7) (matters that may be relevant to imposing liability), after paragraph (d) insert—
 
@@ -28,18 +28,18 @@ summary: ''
 
 .
 
-(3)[^key-2021ad8079dc52adf774c36eeb913158] In subsection (7), after paragraph (eb) insert—
+(3)[^c-2021ad8079dc52adf774c36eeb913158] In subsection (7), after paragraph (eb) insert—
 
 > - (ec) the effect of the act or failure to act on the value of the assets or liabilities of the scheme or any relevant transferee scheme,
 
 .
 
-(4)[^key-2021ad8079dc52adf774c36eeb913158] After subsection (7A) insert—
+(4)[^c-2021ad8079dc52adf774c36eeb913158] After subsection (7A) insert—
 
 > (7B) In subsection (7)(ec) “relevant transferee scheme” and the reference to the assets or liabilities of any relevant transferee scheme have the same meaning as in section 38A.
 
 ## Annotations
 
-[^key-fe22706e71b73d39735d3fecc800aa34]: Commencement: [S. 104(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/104/1) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-fe22706e71b73d39735d3fecc800aa34]: Commencement: [S. 104(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/104/1) in force at 1.10.2021 for specified purposes by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
 
-[^key-2021ad8079dc52adf774c36eeb913158]: Commencement: [S. 104(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/104/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/104/4) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-2021ad8079dc52adf774c36eeb913158]: Commencement: [S. 104(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/104/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/104/4) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))

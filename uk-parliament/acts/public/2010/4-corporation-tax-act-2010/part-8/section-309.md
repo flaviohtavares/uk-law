@@ -42,11 +42,11 @@ summary: ''
 
 are treated as separate accounting periods for the purposes of this Chapter.
 
-(4) But special provision is made elsewhere in this Chapter—[^key-4ad311f2477c731667d6c0e54986d428]
+(4) But special provision is made elsewhere in this Chapter—[^c-4ad311f2477c731667d6c0e54986d428]
 
 - (a) in relation to straddling periods (see sections 311, 324 and 327(4) to (7)), and
 - (b) in relation to accounting periods which begin before, but end on or after, 5 December 2013 (see sections 311(1C), 318A and 328A).
 
 ## Annotations
 
-[^key-4ad311f2477c731667d6c0e54986d428]: Textual amendment: Words in [s. 309(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/309/4) substituted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/3)
+[^c-4ad311f2477c731667d6c0e54986d428]: Textual amendment: Words in [s. 309(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/309/4) substituted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/3)

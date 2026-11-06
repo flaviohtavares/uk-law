@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Minimum income floor not to apply for first 12 months[^key-48e13309e41bd1810e0058821f58c1a1][^key-e97a2f3efa41f940f3ec36113800032e]
+## 60. Minimum income floor not to apply for first 12 months[^c-48e13309e41bd1810e0058821f58c1a1][^c-e97a2f3efa41f940f3ec36113800032e]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48e13309e41bd1810e0058821f58c1a1]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/nisr/2016/226/regulation/60) revoked (23.9.2020) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/4), [5(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/5/2)
+[^c-48e13309e41bd1810e0058821f58c1a1]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/nisr/2016/226/regulation/60) revoked (23.9.2020) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/4), [5(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/5/2)
 
-[^key-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)
+[^c-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)

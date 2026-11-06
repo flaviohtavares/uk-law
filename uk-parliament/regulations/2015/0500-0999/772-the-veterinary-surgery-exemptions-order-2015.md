@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Environment, Food and Rural Affairs, the Secretary of State for Scotland, the Secretary of State for Wales and the Minister of Agriculture and Rural Development for Northern Ireland acting jointly, in exercise of the powers conferred by section 19(4)(e) and (6) of the Veterinary Surgeons Act 1966[^f00001], and now vested in them[^f00002], after consultation with the Council of the Royal College of Veterinary Surgeons, make the following Order:
 
-## 1. Title, commencement and interpretation[^key-19075366d9a9bb536e145700c8d47357]
+## 1. Title, commencement and interpretation[^c-19075366d9a9bb536e145700c8d47357]
 
 (1) This Order may be cited as the Veterinary Surgery (Exemptions) Order 2015.
 
@@ -57,7 +57,7 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 - “the 1966 Act” means the Veterinary Surgeons Act 1966, and
 - “qualified person” means a person who is registered in the Register of Veterinary Surgeons or the Supplementary Veterinary Register.
 
-## 2. Physiotherapy[^key-0158b2316e96b3ed6b70b3a11fd89d9e]
+## 2. Physiotherapy[^c-0158b2316e96b3ed6b70b3a11fd89d9e]
 
 (1) Section 19(1) of the 1966 Act does not prohibit the treatment of an animal by physiotherapy if the following conditions are satisfied.
 
@@ -68,7 +68,7 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 - (a) has examined the animal, and
 - (b) has prescribed the treatment of the animal by physiotherapy.
 
-## 3. Fowls: beak trimming, snood or comb removal, etc.[^key-49d1d509d6362d05910c924451824aea]
+## 3. Fowls: beak trimming, snood or comb removal, etc.[^c-49d1d509d6362d05910c924451824aea]
 
 (1) Section 19(1) of the 1966 Act does not prohibit—
 
@@ -95,13 +95,13 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 
 (8) In the case of each activity permitted by this Article, the person carrying out the activity must be aged 18 or over.
 
-## 4. Poultry: vaccination[^key-fbf34ce361bc1d8b9cd86b634fcab434]
+## 4. Poultry: vaccination[^c-fbf34ce361bc1d8b9cd86b634fcab434]
 
 (1) Section 19(1) of the 1966 Act does not prohibit the vaccination of poultry if the person carrying out the vaccination is aged over 18.
 
 (2) “Poultry” means all species of fowls, turkeys, geese, ducks, guinea fowls, pigeons, pheasants, partridges and quails.
 
-## 5. Farm animals and badgers: blood sampling for control of disease etc.[^key-6895c563b38a0ea777aaa64f0375f2ee]
+## 5. Farm animals and badgers: blood sampling for control of disease etc.[^c-6895c563b38a0ea777aaa64f0375f2ee]
 
 (1) Section 19(1) of the 1966 Act does not prohibit the taking of blood from farm animals or badgers for use in diagnosis for the control or eradication by the Ministers of infectious disease if the condition in paragraph (2) or (3) is satisfied.
 
@@ -128,7 +128,7 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 
 (8) “The Ministers” means the Secretary of State for Environment, Food and Rural Affairs, the Secretary of State for Scotland, the Secretary of State for Wales and the Minister of Agriculture and Rural Development for Northern Ireland (whether acting jointly or otherwise); and “the appropriate Minister” is to be construed accordingly in relation to the territory concerned.
 
-## 6. Farm animals: sampling for residues[^key-df85e9a852039946f54d2ebd683886ee]
+## 6. Farm animals: sampling for residues[^c-df85e9a852039946f54d2ebd683886ee]
 
 (1) Section 19(1) of the 1966 Act does not prohibit the taking of blood from farm animals for examination for the presence of residues for the purpose of the control by the appropriate Minister of the level of residues in such animals, if the condition in Article 5(2) or (3) is satisfied.
 
@@ -142,7 +142,7 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 
 (4) “Appropriate Minister” and “farm animals” each have the same meaning as in Article 5.
 
-## 7. Revocations[^key-6a77298f29c7d171a95df43f006fb311]
+## 7. Revocations[^c-6a77298f29c7d171a95df43f006fb311]
 
 The following are revoked—
 
@@ -211,19 +211,19 @@ An impact assessment has not been produced for this instrument as, given that it
 
 [^f00002]: Footnote: Section 27(1) of the Veterinary Surgeons Act 1966 (as amended by paragraph 1 of Schedule 5 to the Transfer of Functions (Wales) (No.1) Order 1978 ([S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272))) defines “the Ministers” as the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland, the Secretary of State for Wales and the Minister of Agriculture for Northern Ireland acting jointly. The functions of the Minister of Agriculture, Fisheries and Food under section 19 of the Veterinary Surgeons Act 1966 were transferred to the Secretary of State for Environment, Food and Rural Affairs by article 3(1) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). By virtue of section 95(5) of, and paragraph 10 of Schedule 12 to, the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), the reference in the Veterinary Surgeons Act 1966 to the Minister of Agriculture for Northern Ireland is to be construed as a reference to the Northern Ireland department which exercises that function or to the Northern Ireland Minister in charge of that department. The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)).
 
-[^key-19075366d9a9bb536e145700c8d47357]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/772/article/1) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-19075366d9a9bb536e145700c8d47357]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/772/article/1) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
-[^key-0158b2316e96b3ed6b70b3a11fd89d9e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/772/article/2) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-0158b2316e96b3ed6b70b3a11fd89d9e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/772/article/2) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
-[^key-49d1d509d6362d05910c924451824aea]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/772/article/3) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-49d1d509d6362d05910c924451824aea]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/772/article/3) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
-[^key-fbf34ce361bc1d8b9cd86b634fcab434]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/772/article/4) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-fbf34ce361bc1d8b9cd86b634fcab434]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/772/article/4) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
-[^key-6895c563b38a0ea777aaa64f0375f2ee]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/772/article/5) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-6895c563b38a0ea777aaa64f0375f2ee]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/772/article/5) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
-[^key-df85e9a852039946f54d2ebd683886ee]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/772/article/6) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-df85e9a852039946f54d2ebd683886ee]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/772/article/6) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
-[^key-6a77298f29c7d171a95df43f006fb311]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/772/article/7) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
+[^c-6a77298f29c7d171a95df43f006fb311]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/772/article/7) in force at 1.7.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/772/article/1/2)
 
 [^f00003]: Footnote: [S.I. 1962/2557](https://www.legislation.gov.uk/uksi/1962/2557)
 

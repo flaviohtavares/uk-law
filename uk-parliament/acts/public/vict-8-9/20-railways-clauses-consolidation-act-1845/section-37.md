@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 37. Power to justices to order other lands to be taken.[^c6404181][^key-da0714535d6570bd2ffff2da1c7d1c46][^key-cd6051a2894e680dbd67b36016ff0965]
+## 37. Power to justices to order other lands to be taken.[^c6404181][^c-da0714535d6570bd2ffff2da1c7d1c46][^c-cd6051a2894e680dbd67b36016ff0965]
 
 *Extent: E+W+N.I.*
 
@@ -26,6 +26,6 @@ If the objection so made as aforesaid be on the ground that other lands lying co
 
 [^c6404181]: Modification: Ss. 30-44 incorporated (with modifications) (9.10.1997) by [S.I. 1997/2534](https://www.legislation.gov.uk/uksi/1997/2534), [arts. 3(1)(3)](https://www.legislation.gov.uk/uksi/1997/2534/article/3/1/3), [10(5)](https://www.legislation.gov.uk/uksi/1997/2534/article/10/5)
 
-[^key-da0714535d6570bd2ffff2da1c7d1c46]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/37) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
+[^c-da0714535d6570bd2ffff2da1c7d1c46]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/37) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
 
-[^key-cd6051a2894e680dbd67b36016ff0965]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/37) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
+[^c-cd6051a2894e680dbd67b36016ff0965]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/37) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)

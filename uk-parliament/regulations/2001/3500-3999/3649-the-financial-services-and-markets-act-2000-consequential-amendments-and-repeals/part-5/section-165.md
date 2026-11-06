@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Exempt agreements[^key-2cac6a1573868e56e995c2362cab35a0]
+## 165. Exempt agreements[^c-2cac6a1573868e56e995c2362cab35a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cac6a1573868e56e995c2362cab35a0]: Commencement: Art. 165 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2cac6a1573868e56e995c2362cab35a0]: Commencement: Art. 165 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

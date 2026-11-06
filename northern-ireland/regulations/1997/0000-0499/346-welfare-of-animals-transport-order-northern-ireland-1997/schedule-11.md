@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 11 — Form of undertaking[^key-b08605bc0aaf405cb2c5006313d63432]
+## SCHEDULE 11 — Form of undertaking[^c-b08605bc0aaf405cb2c5006313d63432]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Article 16(2)
 
 ## Annotations
 
-[^key-b08605bc0aaf405cb2c5006313d63432]: Commencement: Sch. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-b08605bc0aaf405cb2c5006313d63432]: Commencement: Sch. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

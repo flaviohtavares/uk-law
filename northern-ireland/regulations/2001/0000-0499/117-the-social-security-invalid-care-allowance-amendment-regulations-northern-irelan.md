@@ -41,18 +41,18 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by section 70(8) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-93a82ec7b1ef51d2ec05363f1ff750aa]
+## 1. Citation and commencement[^c-93a82ec7b1ef51d2ec05363f1ff750aa]
 
 These Regulations may be cited as the Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 6th April 2001.
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-27dafdc9e3c84ecc8aa08a5057c167fe]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-27dafdc9e3c84ecc8aa08a5057c167fe]
 
 In regulation 8(1) of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00003] (circumstances in which a person is or is not to be treated as gainfully employed)––
 
-- (a)[^key-06012cf9160f745a946bb268c208d0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-06012cf9160f745a946bb268c208d0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “£50” in the second place where it occurs there shall be substituted “that amount”.
 
-## 3. Revocation[^key-d5c483e13571fe028d08221fb38f306f]
+## 3. Revocation[^c-d5c483e13571fe028d08221fb38f306f]
 
 The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1993[^f00004] are hereby revoked.
 
@@ -80,14 +80,14 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-93a82ec7b1ef51d2ec05363f1ff750aa]: Commencement: Reg. 1 in operation at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/117/regulation/1)
+[^c-93a82ec7b1ef51d2ec05363f1ff750aa]: Commencement: Reg. 1 in operation at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/117/regulation/1)
 
-[^key-27dafdc9e3c84ecc8aa08a5057c167fe]: Commencement: Reg. 2 in operation at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/117/regulation/1)
+[^c-27dafdc9e3c84ecc8aa08a5057c167fe]: Commencement: Reg. 2 in operation at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/117/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); relevant amending regulations are [S.R. 1993 No. 72](https://www.legislation.gov.uk/nisr/1993/72) and [S.R. 1996 No. 521](https://www.legislation.gov.uk/nisr/1996/521)
 
-[^key-06012cf9160f745a946bb268c208d0bd]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2001/117/regulation/2/a) revoked (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2007/396/schedule/regulation/11)
+[^c-06012cf9160f745a946bb268c208d0bd]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2001/117/regulation/2/a) revoked (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2007/396/schedule/regulation/11)
 
-[^key-d5c483e13571fe028d08221fb38f306f]: Commencement: Reg. 3 in operation at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/117/regulation/1)
+[^c-d5c483e13571fe028d08221fb38f306f]: Commencement: Reg. 3 in operation at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/117/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1993 No. 72](https://www.legislation.gov.uk/nisr/1993/72)

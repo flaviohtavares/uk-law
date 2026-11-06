@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 778. Issue of certificates etc: allotment or transfer to financial institution[^c20597841][^c20602141][^c20618271][^c20622381][^key-383c487265252be89578c840d214092c]
+## 778. Issue of certificates etc: allotment or transfer to financial institution[^c20597841][^c20602141][^c20618271][^c20622381][^c-383c487265252be89578c840d214092c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ is not required in consequence of that allotment or transfer to comply with sect
 
 (2) A “**financial institution**” means—
 
-- (a) a recognised clearing house or a recognised CSD[^key-5ca668d8a65ec811cfe6381752bac6cc] acting in relation to a recognised investment exchange, or
+- (a) a recognised clearing house or a recognised CSD[^c-5ca668d8a65ec811cfe6381752bac6cc] acting in relation to a recognised investment exchange, or
 - (b) a nominee of—
   - (i) a recognised clearing house or a recognised CSD acting in that way, or
   - (ii) a recognised investment exchange,
@@ -49,6 +49,6 @@ is not required in consequence of that allotment or transfer to comply with sect
 
 [^c20622381]: Modification: S. 778 disapplied (1.1.2010) by The Northern Rock plc [Transfer Order 2009 (S.I. 2009/3226)](https://www.legislation.gov.uk/uksi/2009/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/3226/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/3226/article/3), [Sch. 1 para. 28(5)(c)](https://www.legislation.gov.uk/uksi/2009/3226/schedule/1/paragraph/28/5/c)
 
-[^key-383c487265252be89578c840d214092c]: Textual amendment: S. 778 amendment to earlier affecting provision S.I. 2009/1804, reg. 28 (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/33) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-383c487265252be89578c840d214092c]: Textual amendment: S. 778 amendment to earlier affecting provision S.I. 2009/1804, reg. 28 (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/33) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-5ca668d8a65ec811cfe6381752bac6cc]: Textual amendment: Words in s. 778(2)(a)(b)(i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/11/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-5ca668d8a65ec811cfe6381752bac6cc]: Textual amendment: Words in s. 778(2)(a)(b)(i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/11/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

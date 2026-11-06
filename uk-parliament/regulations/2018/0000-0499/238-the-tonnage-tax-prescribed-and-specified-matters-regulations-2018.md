@@ -34,7 +34,7 @@ Corporation Tax
 
 Tonnage Tax
 
-The Tonnage Tax (Prescribed and Specified Matters) Regulations 2018 (revoked)[^key-45621d95b4a1b3f89a465284524b9ae5]
+The Tonnage Tax (Prescribed and Specified Matters) Regulations 2018 (revoked)[^c-45621d95b4a1b3f89a465284524b9ae5]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 22nd March 2018
 
-[^key-45621d95b4a1b3f89a465284524b9ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45621d95b4a1b3f89a465284524b9ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-45621d95b4a1b3f89a465284524b9ae5]
+## 1. Citation, commencement and interpretation[^c-45621d95b4a1b3f89a465284524b9ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed three year period[^key-45621d95b4a1b3f89a465284524b9ae5]
+## 2. Prescribed three year period[^c-45621d95b4a1b3f89a465284524b9ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Percentage of the tonnage tax fleet which is Community-flagged[^key-45621d95b4a1b3f89a465284524b9ae5]
+## 3. Percentage of the tonnage tax fleet which is Community-flagged[^c-45621d95b4a1b3f89a465284524b9ae5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45621d95b4a1b3f89a465284524b9ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45621d95b4a1b3f89a465284524b9ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45621d95b4a1b3f89a465284524b9ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45621d95b4a1b3f89a465284524b9ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45621d95b4a1b3f89a465284524b9ae5]: Textual amendment: Regulations revoked (22.3.2019) by [The Tonnage Tax (Prescribed and Specified Matters) Regulations 2019 (S.I. 2019/398)](https://www.legislation.gov.uk/uksi/2019/398), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/398/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/398/regulation/4)
+[^c-45621d95b4a1b3f89a465284524b9ae5]: Textual amendment: Regulations revoked (22.3.2019) by [The Tonnage Tax (Prescribed and Specified Matters) Regulations 2019 (S.I. 2019/398)](https://www.legislation.gov.uk/uksi/2019/398), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/398/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/398/regulation/4)

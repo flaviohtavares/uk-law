@@ -24,9 +24,9 @@ summary: ''
 
 Section 234(1)
 
-**1.**[^key-0df11fcbc9df2419ab6bfd94cdd67866] The Counter-Terrorism Act 2008 is amended as follows.
+**1.**[^c-0df11fcbc9df2419ab6bfd94cdd67866] The Counter-Terrorism Act 2008 is amended as follows.
 
-**2.**[^key-2c20a025a006bb97c44df12fc9a73fde] (1) Section 40 (overview) is amended as follows.
+**2.**[^c-2c20a025a006bb97c44df12fc9a73fde] (1) Section 40 (overview) is amended as follows.
 
 (2) In subsection (2) after paragraph (a) insert—
 
@@ -38,15 +38,15 @@ Section 234(1)
 
 > (4) Schedule 6A provides for orders applying the notification requirements to persons dealt with for certain service offences to which this Part does not apply.
 
-**3.**[^key-9d454ad17415da143c65b8cac8ce0f5c] In section 57, in the heading for “Notification” substitute “Foreign offence notification”.
+**3.**[^c-9d454ad17415da143c65b8cac8ce0f5c] In section 57, in the heading for “Notification” substitute “Foreign offence notification”.
 
-**4.**[^key-a63cb7c728a83b5c8f6b5456c59566be] After that section insert—
+**4.**[^c-a63cb7c728a83b5c8f6b5456c59566be] After that section insert—
 
 > **57A. Domestic offence notification orders**
 >
 > Schedule 4A makes provision for notification orders applying the notification requirements of this Part to persons who have been dealt with for certain offences that are not offences to which this Part applies.
 
-**5.**[^key-c237b55e8cf0c522848da91036c73dfb] (1) Section 59 (application to service offences) is amended as follows.
+**5.**[^c-c237b55e8cf0c522848da91036c73dfb] (1) Section 59 (application to service offences) is amended as follows.
 
 (2) The existing provision becomes subsection (1) of that section.
 
@@ -54,7 +54,7 @@ Section 234(1)
 
 > (2) Schedule 6A makes provision for notification orders applying the notification requirements of this Part to persons who have been dealt with for certain service offences that are not offences to which this Part applies.
 
-**6.**[^key-22110f2b5184e3de1fd2748bd37f7731] (1) Section 61 (meaning of “dealt with” for an offence) is amended as follows.
+**6.**[^c-22110f2b5184e3de1fd2748bd37f7731] (1) Section 61 (meaning of “dealt with” for an offence) is amended as follows.
 
 (2) In subsection (4)(b)—
 
@@ -67,13 +67,13 @@ Section 234(1)
 
 .
 
-**7.**[^key-612d401c8c71561b90a3d143fedee84a] (1) Schedule 4 is amended as follows.
+**7.**[^c-612d401c8c71561b90a3d143fedee84a] (1) Schedule 4 is amended as follows.
 
 (2) In the Schedule heading for “Notification” substitute “Foreign offence notification”.
 
 (3) For “notification order”, in each place it appears (including in any heading except the Schedule heading), substitute “foreign offence notification order”.
 
-**8.**[^key-62f7ce02dee528d2e02e8bca1c0323f5] After Schedule 4 insert—
+**8.**[^c-62f7ce02dee528d2e02e8bca1c0323f5] After Schedule 4 insert—
 
 > **Schedule 4A — Domestic offence notification orders**
 >
@@ -163,7 +163,7 @@ Section 234(1)
 >
 > (5) For the meaning of “the relevant offence”, see paragraph 2(3).
 
-**9.**[^key-5437fed8fa0b77a9f240a0fd3af3b476] After Schedule 6 insert—
+**9.**[^c-5437fed8fa0b77a9f240a0fd3af3b476] After Schedule 6 insert—
 
 > **Schedule 6A — Service offence notification orders**
 >
@@ -253,20 +253,20 @@ Section 234(1)
 
 ## Annotations
 
-[^key-0df11fcbc9df2419ab6bfd94cdd67866]: Commencement: Sch. 26 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0df11fcbc9df2419ab6bfd94cdd67866]: Commencement: Sch. 26 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2c20a025a006bb97c44df12fc9a73fde]: Commencement: Sch. 26 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-2c20a025a006bb97c44df12fc9a73fde]: Commencement: Sch. 26 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9d454ad17415da143c65b8cac8ce0f5c]: Commencement: Sch. 26 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9d454ad17415da143c65b8cac8ce0f5c]: Commencement: Sch. 26 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a63cb7c728a83b5c8f6b5456c59566be]: Commencement: Sch. 26 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a63cb7c728a83b5c8f6b5456c59566be]: Commencement: Sch. 26 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c237b55e8cf0c522848da91036c73dfb]: Commencement: Sch. 26 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c237b55e8cf0c522848da91036c73dfb]: Commencement: Sch. 26 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-22110f2b5184e3de1fd2748bd37f7731]: Commencement: Sch. 26 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-22110f2b5184e3de1fd2748bd37f7731]: Commencement: Sch. 26 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-612d401c8c71561b90a3d143fedee84a]: Commencement: Sch. 26 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-612d401c8c71561b90a3d143fedee84a]: Commencement: Sch. 26 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-62f7ce02dee528d2e02e8bca1c0323f5]: Commencement: Sch. 26 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-62f7ce02dee528d2e02e8bca1c0323f5]: Commencement: Sch. 26 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5437fed8fa0b77a9f240a0fd3af3b476]: Commencement: Sch. 26 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5437fed8fa0b77a9f240a0fd3af3b476]: Commencement: Sch. 26 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

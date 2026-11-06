@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Powers of entry[^key-dc44b0317017e49789f00cc483d273ee]
+## 24. Powers of entry[^c-dc44b0317017e49789f00cc483d273ee]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc44b0317017e49789f00cc483d273ee]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/84/regulation/24) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-dc44b0317017e49789f00cc483d273ee]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/84/regulation/24) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

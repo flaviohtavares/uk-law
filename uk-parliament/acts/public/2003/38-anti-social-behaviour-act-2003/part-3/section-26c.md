@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26C. Applications under section 26A or 26B in county court proceedings[^key-fbe2cd37b0f3b871efba2e958a93b226]
+## 26C. Applications under section 26A or 26B in county court proceedings[^c-fbe2cd37b0f3b871efba2e958a93b226]
 
 *Extent: E+W*
 
-(1) Where a local authority or relevant housing provider[^key-34f545f58cf2aec73dd63910f548fa2e] (a “relevant authority”)—
+(1) Where a local authority or relevant housing provider[^c-34f545f58cf2aec73dd63910f548fa2e] (a “relevant authority”)—
 
-- (a) is a party to proceedings in the county court[^key-072c940a9dd0fed73372ccd40c696965] , and
+- (a) is a party to proceedings in the county court[^c-072c940a9dd0fed73372ccd40c696965] , and
 - (b) considers that a party to those proceedings is a person in relation to whom it would be reasonable for it to make an application for a parenting order under section 26A or 26B (a “parenting order application”),
 
 it may make such an application to that court in relation to that person.
@@ -45,8 +45,8 @@ the relevant authority may apply for a person who is a parent of the child or yo
 
 ## Annotations
 
-[^key-fbe2cd37b0f3b871efba2e958a93b226]: Textual amendment: Ss. 26A-26C inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 24](https://www.legislation.gov.uk/ukpga/2006/48/section/24), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-fbe2cd37b0f3b871efba2e958a93b226]: Textual amendment: Ss. 26A-26C inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 24](https://www.legislation.gov.uk/ukpga/2006/48/section/24), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
 
-[^key-34f545f58cf2aec73dd63910f548fa2e]: Textual amendment: Words in s. 26C(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/123) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-34f545f58cf2aec73dd63910f548fa2e]: Textual amendment: Words in s. 26C(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/123) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-072c940a9dd0fed73372ccd40c696965]: Textual amendment: Words in [ss. 26A-28](https://www.legislation.gov.uk/ukpga/2003/38/section/26A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-072c940a9dd0fed73372ccd40c696965]: Textual amendment: Words in [ss. 26A-28](https://www.legislation.gov.uk/ukpga/2003/38/section/26A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

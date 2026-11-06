@@ -49,7 +49,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 - (a) regulations 1 to 6 and 12, on 1st April 2004;
 - (b) regulation 7, on 5th April 2004;
-- (c) regulations 9 and 10, on 6th April 2004; *(affected by repeal, see note)*[^key-2fd484126353c32c32974afbfa93504c]
+- (c) regulations 9 and 10, on 6th April 2004; *(affected by repeal, see note)*[^c-2fd484126353c32c32974afbfa93504c]
 - (d) regulation 8, on 12th April 2004; and
 - (e) regulation 11, in so far as it relates to a claimant for income support or, as the case may be, a jobseeker’s allowance, on the first day of the first benefit week to commence for that claimant on or after 12th April 2004.
 
@@ -102,87 +102,87 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 ## 3. Amendment of the Housing Benefit (General) Regulations 1987 in relation to income and capital disregards
 
-(1)[^key-dd2043afa0f261de22232edfb8ec6a64] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530144] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+(1)[^c-dd2043afa0f261de22232edfb8ec6a64] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530144] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
-(2) In regulation 2(1) (interpretation) omit the definition of “ *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]ERA *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] payment” *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64][^c530145].
+(2) In regulation 2(1) (interpretation) omit the definition of “ *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]ERA *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] payment” *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64][^c530145].
 
-(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
-- (a) for paragraph 11 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530146] substitute the following paragraph— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+- (a) for paragraph 11 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530146] substitute the following paragraph— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   > **11.**
   >
-  > (1) Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990 except— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > (1) Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990 except— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > - (a) a payment made as a substitute for income support, a jobseeker’s allowance, incapacity benefit or severe disablement allowance; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  > - (b) a payment of an allowance referred to in section 2(3) of the Employment and Training Act 1973 or section 2(5) of the Enterprise and New Towns (Scotland) Act 1990; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  > - (c) a payment intended to meet the cost of living expenses which relate to any one or more of the items specified in sub-paragraph (2) whilst a claimant is participating in an education, training or other scheme to help him enhance his employment prospects unless the payment is a Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 and the period of education or training or the scheme, which is supported by that loan, has been completed; or *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  > - (d) for the purpose only of assessing entitlement to housing benefit in respect of a dwelling other than the one which the claimant normally occupies as his home, a payment made to a person to whom regulation 5(5)(b) *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530147] (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) applies to the extent that the payment is made in respect of the cost of living away from home. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > - (a) a payment made as a substitute for income support, a jobseeker’s allowance, incapacity benefit or severe disablement allowance; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  > - (b) a payment of an allowance referred to in section 2(3) of the Employment and Training Act 1973 or section 2(5) of the Enterprise and New Towns (Scotland) Act 1990; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  > - (c) a payment intended to meet the cost of living expenses which relate to any one or more of the items specified in sub-paragraph (2) whilst a claimant is participating in an education, training or other scheme to help him enhance his employment prospects unless the payment is a Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 and the period of education or training or the scheme, which is supported by that loan, has been completed; or *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  > - (d) for the purpose only of assessing entitlement to housing benefit in respect of a dwelling other than the one which the claimant normally occupies as his home, a payment made to a person to whom regulation 5(5)(b) *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530147] (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) applies to the extent that the payment is made in respect of the cost of living away from home. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > (2) The items specified in this sub-paragraph for the purposes of sub-paragraph (1)(c) are food, ordinary clothing or footwear, household fuel or rent of the claimant or, where the claimant is a member of a family, any other member of his family, or any council tax or water charges for which that claimant or member is liable. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > (2) The items specified in this sub-paragraph for the purposes of sub-paragraph (1)(c) are food, ordinary clothing or footwear, household fuel or rent of the claimant or, where the claimant is a member of a family, any other member of his family, or any council tax or water charges for which that claimant or member is liable. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > (3) For the purposes of this paragraph— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > (3) For the purposes of this paragraph— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > - “**ordinary clothing or footwear *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]**” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities; and *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  > - “**rent *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]**” means eligible rent less any deductions in respect of non-dependants which fall to be made under regulation 63 (non-dependant deductions). *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > - “**ordinary clothing or footwear *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]**” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities; and *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  > - “**rent *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]**” means eligible rent less any deductions in respect of non-dependants which fall to be made under regulation 63 (non-dependant deductions). *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   ;
-- (b) in paragraph 49 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530148] omit from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-- (c) omit paragraphs 63 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530149], 64 [^c530150], 64A [^c530151], 65 [^c530152], 68 [^c530153], 76 [^c530154] and 77 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530155].
+- (b) in paragraph 49 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530148] omit from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+- (c) omit paragraphs 63 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530149], 64 [^c530150], 64A [^c530151], 65 [^c530152], 68 [^c530153], 76 [^c530154] and 77 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530155].
 
-(4) In Schedule 5 (capital to be disregarded)— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+(4) In Schedule 5 (capital to be disregarded)— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
-- (a) for paragraph 33 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530156] substitute the following paragraph— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+- (a) for paragraph 33 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530156] substitute the following paragraph— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   > **33.**
   >
-  > Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990, but only for the period of 52 weeks beginning on the date of receipt of the payment. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990, but only for the period of 52 weeks beginning on the date of receipt of the payment. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   ;
-- (b) in paragraph 43 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530157] omit— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  - (i) “, or a training bonus under section 2 of the Employment and Training Act 1973”; and *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  - (ii (affected by repeal, see note))[^key-dd2043afa0f261de22232edfb8ec6a64] from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-- (c) omit paragraphs 53 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530158], 53A [^c530159], 54 [^c530160], 56 [^c530161], 65 [^c530162], 71 [^c530163] and 72 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530164].
+- (b) in paragraph 43 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530157] omit— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  - (i) “, or a training bonus under section 2 of the Employment and Training Act 1973”; and *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  - (ii (affected by repeal, see note))[^c-dd2043afa0f261de22232edfb8ec6a64] from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+- (c) omit paragraphs 53 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530158], 53A [^c530159], 54 [^c530160], 56 [^c530161], 65 [^c530162], 71 [^c530163] and 72 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530164].
 
 ## 4. Amendment of the Council Tax Benefit (General) Regulations 1992 in relation to income and capital disregards
 
-(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530165] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530165] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
-(2) In regulation 2(1) (interpretation) omit the definition of “ *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]ERA *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] payment” *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64][^c530166].
+(2) In regulation 2(1) (interpretation) omit the definition of “ *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]ERA *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] payment” *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64][^c530166].
 
-(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
-- (a) for paragraph 11 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530167] substitute the following paragraph— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+- (a) for paragraph 11 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530167] substitute the following paragraph— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   > **11.**
   >
-  > (1) Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990 except a payment— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > (1) Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990 except a payment— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > - (a) made as a substitute for income support, a jobseeker’s allowance, incapacity benefit or severe disablement allowance; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  > - (b) of an allowance referred to in section 2(3) of the Employment and Training Act 1973 or section 2(5) of the Enterprise and New Towns (Scotland) Act 1990; or *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  > - (c) intended to meet the cost of living expenses which relate to any one or more of the items specified in sub-paragraph (2) whilst a claimant is participating in an education, training or other scheme to help him enhance his employment prospects unless the payment is a Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 and the period of education or training or the scheme, which is supported by that loan, has been completed. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > - (a) made as a substitute for income support, a jobseeker’s allowance, incapacity benefit or severe disablement allowance; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  > - (b) of an allowance referred to in section 2(3) of the Employment and Training Act 1973 or section 2(5) of the Enterprise and New Towns (Scotland) Act 1990; or *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  > - (c) intended to meet the cost of living expenses which relate to any one or more of the items specified in sub-paragraph (2) whilst a claimant is participating in an education, training or other scheme to help him enhance his employment prospects unless the payment is a Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 and the period of education or training or the scheme, which is supported by that loan, has been completed. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > (2) The items specified in this sub-paragraph for the purposes of sub-paragraph (1)(c) are food, ordinary clothing or footwear, household fuel or rent of the claimant or, where the claimant is a member of a family, any other member of his family, or any council tax or water charges for which that claimant or member is liable. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > (2) The items specified in this sub-paragraph for the purposes of sub-paragraph (1)(c) are food, ordinary clothing or footwear, household fuel or rent of the claimant or, where the claimant is a member of a family, any other member of his family, or any council tax or water charges for which that claimant or member is liable. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
   >
-  > (3) For the purposes of this paragraph, “ *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]**ordinary clothing or footwear *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]**” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > (3) For the purposes of this paragraph, “ *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]**ordinary clothing or footwear *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]**” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   ;
-- (b) in paragraph 48 omit from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-- (c) omit paragraphs 63 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530168], 64 [^c530169], 64A [^c530170], 65 [^c530171], 67 [^c530172], 75 [^c530173] and 76 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530174].
+- (b) in paragraph 48 omit from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+- (c) omit paragraphs 63 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530168], 64 [^c530169], 64A [^c530170], 65 [^c530171], 67 [^c530172], 75 [^c530173] and 76 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530174].
 
-(4) In Schedule 5 (capital to be disregarded)— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+(4) In Schedule 5 (capital to be disregarded)— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
-- (a) for paragraph 33 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530175] substitute the following paragraph— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+- (a) for paragraph 33 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530175] substitute the following paragraph— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   > **33.**
   >
-  > Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990, but only for the period of 52 weeks beginning on the date of receipt of the payment. *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
+  > Any payment made pursuant to section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990, but only for the period of 52 weeks beginning on the date of receipt of the payment. *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
 
   ;
-- (b) in paragraph 42 omit— *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  - (i) “, or training bonus under section 2 of the Employment and Training Act 1973”; and *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-  - (ii (affected by repeal, see note))[^key-dd2043afa0f261de22232edfb8ec6a64] from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64]
-- (c) omit paragraphs 53 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530176], 53A [^c530177], 54 [^c530178], 56 [^c530179], 65 [^c530180], 71 [^c530181] and 72 *(affected by repeal, see note)*[^key-dd2043afa0f261de22232edfb8ec6a64] [^c530182].
+- (b) in paragraph 42 omit— *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  - (i) “, or training bonus under section 2 of the Employment and Training Act 1973”; and *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+  - (ii (affected by repeal, see note))[^c-dd2043afa0f261de22232edfb8ec6a64] from “or in accordance with” to “Act 1973”; *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64]
+- (c) omit paragraphs 53 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530176], 53A [^c530177], 54 [^c530178], 56 [^c530179], 65 [^c530180], 71 [^c530181] and 72 *(affected by repeal, see note)*[^c-dd2043afa0f261de22232edfb8ec6a64] [^c530182].
 
 ## 5. Amendment of the Jobseeker’s Allowance Regulations 1996 in relation to income and capital disregards
 
@@ -233,7 +233,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 - (a) in paragraph (1) for “Subject to paragraph (2A) where” substitute “ Where ”;
 - (b) omit paragraph (2A) [^c530201];
-- (c)[^key-fda5bfabb9878a5419d790d070ca992d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fda5bfabb9878a5419d790d070ca992d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 5A [^c530202] (applicable amounts of joint-claim couples in special cases) omit paragraph 6 (joint-claim couples and members of polygamous marriages where one member is, or all are, temporarily in local authority accommodation).
 
@@ -255,45 +255,45 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 ## 9. Amendment of the Housing Benefit (General) Regulations 1987 in relation to working tax credit and child tax credit
 
-(1)[^key-11d3962999a5e443dbb9806e30a1ebe0] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0] [^c530205] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+(1)[^c-11d3962999a5e443dbb9806e30a1ebe0] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0] [^c530205] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
-(2) In regulation 2(1) *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0] [^c530206] (interpretation) after the definition of “supplementary benefit” insert the following definition— *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+(2) In regulation 2(1) *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0] [^c530206] (interpretation) after the definition of “supplementary benefit” insert the following definition— *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
-> “**tax year *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]**” means, for the purposes of regulation 25 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0] [^c530207] (meaning of “income) and regulation 33 (calculation of income other than earnings), a period beginning with 6th April in one year and ending with 5th April in the next; *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
-
-.
-
-(3) In regulation 25 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (meaning of “income”) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
-
-> (3A) Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0] [^c530208] is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+> “**tax year *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]**” means, for the purposes of regulation 25 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0] [^c530207] (meaning of “income) and regulation 33 (calculation of income other than earnings), a period beginning with 6th April in one year and ending with 5th April in the next; *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
 .
 
-(4) In regulation 33 (calculation of income other than earnings) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+(3) In regulation 25 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (meaning of “income”) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
-> (3AA (affected by repeal, see note))[^key-11d3962999a5e443dbb9806e30a1ebe0] Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+> (3A) Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0] [^c530208] is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
+
+.
+
+(4) In regulation 33 (calculation of income other than earnings) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
+
+> (3AA (affected by repeal, see note))[^c-11d3962999a5e443dbb9806e30a1ebe0] Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
 .
 
 ## 10. Amendment of the Council Tax Benefit (General) Regulations 1992 in relation to working tax credit and child tax credit
 
-(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0] [^c530209] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0] [^c530209] shall be amended in accordance with this regulation. *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
-(2) In regulation 2(1) (interpretation) after the definition of “supplementary benefit” insert the following definition— *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+(2) In regulation 2(1) (interpretation) after the definition of “supplementary benefit” insert the following definition— *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
-> “**tax year *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]**” means, for the purposes of regulation 17 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (meaning of “income”) and regulation 24 (calculation of income other than earnings), a period beginning with 6th April in one year and ending with 5th April in the next; *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
-
-.
-
-(3) In regulation 17 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (meaning of “income”) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
-
-> (3A) Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+> “**tax year *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]**” means, for the purposes of regulation 17 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (meaning of “income”) and regulation 24 (calculation of income other than earnings), a period beginning with 6th April in one year and ending with 5th April in the next; *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
 .
 
-(4) In regulation 24 (calculation of income other than earnings) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+(3) In regulation 17 as substituted by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (meaning of “income”) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
-> (3A) Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^key-11d3962999a5e443dbb9806e30a1ebe0]
+> (3A) Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
+
+.
+
+(4) In regulation 24 (calculation of income other than earnings) after paragraph (3) insert the following paragraph— *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
+
+> (3A) Where an award of any working tax credit or child tax credit under the Tax Credits Act 2002 is subject to a deduction by way of recovery of an overpayment of working tax credit or child tax credit which arose in a previous tax year the amount to be taken into account under paragraph (1) shall be the amount of working tax credit or child tax credit awarded less the amount of that deduction. *(affected by repeal, see note)*[^c-11d3962999a5e443dbb9806e30a1ebe0]
 
 .
 
@@ -365,7 +365,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c530117]: Marginal citation: *See* sections 172(1) and 173(1)(b) of the Social Security Administration Act 1992; [paragraph 67](https://www.legislation.gov.uk/uksi/2004/565/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-2fd484126353c32c32974afbfa93504c]: Textual amendment: [Reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2004/565/regulation/1/2/c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-2fd484126353c32c32974afbfa93504c]: Textual amendment: [Reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2004/565/regulation/1/2/c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c530118]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). The definition of “benefit week” was amended by [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445).
 
@@ -419,7 +419,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c530143]: Marginal citation: [Paragraph 70](https://www.legislation.gov.uk/uksi/2004/565/paragraph/70) was added by [S.I. 2003/2439](https://www.legislation.gov.uk/uksi/2003/2439).
 
-[^key-dd2043afa0f261de22232edfb8ec6a64]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/565/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-dd2043afa0f261de22232edfb8ec6a64]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/565/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c530144]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971). Relevant amending instruments are [S.I. 1988/909](https://www.legislation.gov.uk/uksi/1988/909), 1971, 1992/432, 1993/2118, 1997/65, 2863, 1998/2164, 1999/3156, 2001/859, 1029, 2002/2314, 2003/2279 and 2439.
 
@@ -537,7 +537,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c530201]: Marginal citation: Paragraph (2A) was inserted by [S.I. 2001/3767](https://www.legislation.gov.uk/uksi/2001/3767).
 
-[^key-fda5bfabb9878a5419d790d070ca992d]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/uksi/2004/565/regulation/6/2/c) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-fda5bfabb9878a5419d790d070ca992d]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/uksi/2004/565/regulation/6/2/c) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
 [^c530202]: Marginal citation: Schedule 5A was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978) and amended by [S.I. 2001/3767](https://www.legislation.gov.uk/uksi/2001/3767), 2002/668, 2003/526, 1121 and 1195.
 
@@ -545,7 +545,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c530204]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597). Relevant amending instruments are [S.I. 1991/547](https://www.legislation.gov.uk/uksi/1991/547), 1617, 1992/589, 1993/965, 1996/1803, 2000/799 and 2003/136.
 
-[^key-11d3962999a5e443dbb9806e30a1ebe0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/565/regulation/9) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-11d3962999a5e443dbb9806e30a1ebe0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/565/regulation/9) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c530205]: Marginal citation: Relevant amending instruments are [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636), 2001/2319, 2002/841, 2402, 2003/325 and 2275. Regulations 25 and 33 were substituted in relation to any person who has attained the qualifying age for state pension credit by [S.I. 2003/325](https://www.legislation.gov.uk/uksi/2003/325).
 

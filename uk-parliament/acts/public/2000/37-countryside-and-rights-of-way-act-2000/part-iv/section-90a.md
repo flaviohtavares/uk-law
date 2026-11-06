@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90A. Duty of public bodies etc in relation to management plans[^key-85c89f3a0657b35de8c556b6b3bc7751]
+## 90A. Duty of public bodies etc in relation to management plans[^c-85c89f3a0657b35de8c556b6b3bc7751]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85c89f3a0657b35de8c556b6b3bc7751]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/2000/37/section/90A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(9)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/9), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-85c89f3a0657b35de8c556b6b3bc7751]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/2000/37/section/90A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(9)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/9), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

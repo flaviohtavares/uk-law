@@ -76,8 +76,8 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation lays down common airspace usage requirements and operating procedures for airborne collision avoidance to be fulfilled by:
 
-- ((a)) operators of aircraft referred to under Article 4(1)(b) and (c) of Regulation (EC) No 216/2008 undertaking flights into, within or out of the United Kingdom[^key-b23f76b72ba2e005f8d963774c9b4655]; and
-- ((b)) operators of aircraft referred to under Article 4(1)(d) of Regulation (EC) No 216/2008 undertaking flights within the airspace of the United Kingdom[^key-b3d16983b519da377e702e5ea0440255].
+- ((a)) operators of aircraft referred to under Article 4(1)(b) and (c) of Regulation (EC) No 216/2008 undertaking flights into, within or out of the United Kingdom[^c-b23f76b72ba2e005f8d963774c9b4655]; and
+- ((b)) operators of aircraft referred to under Article 4(1)(d) of Regulation (EC) No 216/2008 undertaking flights within the airspace of the United Kingdom[^c-b3d16983b519da377e702e5ea0440255].
 
 ## Article 2. Definitions
 
@@ -92,7 +92,7 @@ For the purposes of this Regulation the following definitions shall apply:
 
 1. The aeroplanes referred to in Section I of the Annex to this Regulation shall be equipped with and operated in accordance with the rules and procedures as specified in the Annex.
 
-2. The Civil Aviation Authority[^key-2a65d0ee38795e0d39742c23842889e7] shall ensure that operation of aeroplanes referred to in Article 1(2)(a) of Regulation (EC) No 216/2008 comply with the rules and procedures specified in the Annex in accordance with the conditions set out in that Article.
+2. The Civil Aviation Authority[^c-2a65d0ee38795e0d39742c23842889e7] shall ensure that operation of aeroplanes referred to in Article 1(2)(a) of Regulation (EC) No 216/2008 comply with the rules and procedures specified in the Annex in accordance with the conditions set out in that Article.
 
 ## Article 4. Special provisions applying to operators subject to Council Regulation (EEC) No 3922/91 (affected by repeal, see note)[^c000001][^c000001]
 
@@ -108,7 +108,7 @@ For the purposes of this Regulation the following definitions shall apply:
 
 3. By way of derogation from paragraph 2, in the case of aircraft with an individual certificate of airworthiness issued before 1 March 2012 , Article 3 shall apply as of 1 December 2015 .
 
-[^key-f7b5c1653d318b53c47b421ecacee917]...
+[^c-f7b5c1653d318b53c47b421ecacee917]...
 
 ## ANNEX — Airborne collision avoidance systems (ACAS) II — (Part-ACAS)
 
@@ -137,14 +137,14 @@ Operators shall establish ACAS II operational procedures and training programmes
 
 [^f00001]: Footnote: [OJ L 79, 19.3.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.079.01.0001.01.ENG).
 
-[^key-b23f76b72ba2e005f8d963774c9b4655]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2011/1332/article/1/a) substituted (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b23f76b72ba2e005f8d963774c9b4655]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2011/1332/article/1/a) substituted (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3d16983b519da377e702e5ea0440255]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2011/1332/article/1/b) substituted (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3d16983b519da377e702e5ea0440255]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2011/1332/article/1/b) substituted (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a65d0ee38795e0d39742c23842889e7]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2011/1332/article/3/2) substituted (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a65d0ee38795e0d39742c23842889e7]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2011/1332/article/3/2) substituted (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Deleted by [Commission Regulation (EU) 2016/583 of 15 April 2016 amending Regulation (EU) No 1332/2011 laying down common airspace usage requirements and operating procedures for airborne collision avoidance (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/583).
 
 [^c000002]: Textual amendment: Substituted by [Commission Regulation (EU) 2016/583 of 15 April 2016 amending Regulation (EU) No 1332/2011 laying down common airspace usage requirements and operating procedures for airborne collision avoidance (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/583).
 
-[^key-f7b5c1653d318b53c47b421ecacee917]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/1332/signature) omitted (31.12.2020) by virtue of [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7b5c1653d318b53c47b421ecacee917]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/1332/signature) omitted (31.12.2020) by virtue of [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/687/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

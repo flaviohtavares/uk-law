@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Social Security
 
-The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2023 (revoked)[^key-3cf8a799255a85172e4e19c4774a8c07]
+The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2023 (revoked)[^c-3cf8a799255a85172e4e19c4774a8c07]
 
 Made
 
@@ -42,30 +42,30 @@ Made
 
 Coming into operation in accordance with regulation 1(2)
 
-[^key-3cf8a799255a85172e4e19c4774a8c07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cf8a799255a85172e4e19c4774a8c07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3cf8a799255a85172e4e19c4774a8c07]
+## 1. Citation and commencement[^c-3cf8a799255a85172e4e19c4774a8c07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Welfare Reform Order[^key-3cf8a799255a85172e4e19c4774a8c07]
+## 2. Amendment of the Welfare Reform Order[^c-3cf8a799255a85172e4e19c4774a8c07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Universal Credit Regulations[^key-3cf8a799255a85172e4e19c4774a8c07]
+## 3. Amendment of the Universal Credit Regulations[^c-3cf8a799255a85172e4e19c4774a8c07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Housing Benefit Regulations[^key-3cf8a799255a85172e4e19c4774a8c07]
+## 4. Amendment of the Housing Benefit Regulations[^c-3cf8a799255a85172e4e19c4774a8c07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cf8a799255a85172e4e19c4774a8c07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cf8a799255a85172e4e19c4774a8c07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cf8a799255a85172e4e19c4774a8c07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cf8a799255a85172e4e19c4774a8c07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cf8a799255a85172e4e19c4774a8c07]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/42) revoked (27.9.2023) by [The Benefit Cap (Annual Limit) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/147)](https://www.legislation.gov.uk/nisr/2023/147), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/147/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2023/147/regulation/5)
+[^c-3cf8a799255a85172e4e19c4774a8c07]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/42) revoked (27.9.2023) by [The Benefit Cap (Annual Limit) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/147)](https://www.legislation.gov.uk/nisr/2023/147), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/147/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2023/147/regulation/5)

@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 31A(1), 31D(1), 31E(1) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001], and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c9695c5a1a4ff7859b4e3f05e26e0352]
+## 1. Citation, commencement and interpretation[^c-c9695c5a1a4ff7859b4e3f05e26e0352]
 
 (1) These Regulations may be cited as the Motor Vehicles (Type Approval) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 20th May 1996.
 
 (2) In these Regulations “the principal Regulations” means the Motor Vehicles (Type Approval) Regulations (Northern Ireland) 1985[^f00002].
 
-## 2. Amendments to regulation 4 (type approval requirements — application)[^key-ed573f65b35eb3d513c48b513d3a28e3]
+## 2. Amendments to regulation 4 (type approval requirements — application)[^c-ed573f65b35eb3d513c48b513d3a28e3]
 
 Regulation 4 of the principal Regulations shall be amended as follows—
 
@@ -81,7 +81,7 @@ Regulation 4 of the principal Regulations shall be amended as follows—
 
 .
 
-## 3. Amendments to Part I of Schedule 1 to the principal Regulations[^key-87d21131b0679ebf40ad4034ccc7dd1c]
+## 3. Amendments to Part I of Schedule 1 to the principal Regulations[^c-87d21131b0679ebf40ad4034ccc7dd1c]
 
 Part I of Schedule 1[^f00006] to the principal Regulations shall be amended as follows—
 
@@ -95,7 +95,7 @@ Part I of Schedule 1[^f00006] to the principal Regulations shall be amended as f
 
 (5) After item 14G(**f**) there shall be inserted item 14H set out in Schedule 2.
 
-## 4. Amendments to Schedule 1B to the principal Regulations[^key-03e7c5410a645b2a6069c00544261f4c]
+## 4. Amendments to Schedule 1B to the principal Regulations[^c-03e7c5410a645b2a6069c00544261f4c]
 
 Schedule 1B[^f00010] to the principal Regulations shall be amended as follows—
 
@@ -121,7 +121,7 @@ Assistant Secretary
 
 4th April 1996
 
-## SCHEDULE 1[^key-45c7f1bf1334a8df189e2c2004b8c866]
+## SCHEDULE 1[^c-45c7f1bf1334a8df189e2c2004b8c866]
 
 Regulation 3(2)
 
@@ -137,7 +137,7 @@ Regulation 3(2)
 </tbody>
 </table>
 
-## SCHEDULE 2[^key-ed29c9f3a9d97d44b7929b7d8883d5e2]
+## SCHEDULE 2[^c-ed29c9f3a9d97d44b7929b7d8883d5e2]
 
 Regulation 3(5)
 
@@ -173,11 +173,11 @@ A relaxation of the requirements of Council Directive [92/97/EEC](https://www.le
 
 [^f00001]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”; Articles 31A, 31D and 31E were inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755), Article 3; Articles 31A, 31D and 31E were amended by [S.R. 1993 No. 246](https://www.legislation.gov.uk/nisr/1993/246), regulations 4, 5 and 6 respectively
 
-[^key-c9695c5a1a4ff7859b4e3f05e26e0352]: Commencement: Reg. 1 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
+[^c-c9695c5a1a4ff7859b4e3f05e26e0352]: Commencement: Reg. 1 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1985 No. 294](https://www.legislation.gov.uk/nisr/1985/294); relevant amending Regulations are [S.R. 1987 No. 389](https://www.legislation.gov.uk/nisr/1987/389), [S.R. 1990 No. 84](https://www.legislation.gov.uk/nisr/1990/84), [S.R. 1992 No. 508](https://www.legislation.gov.uk/nisr/1992/508) and [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38)
 
-[^key-ed573f65b35eb3d513c48b513d3a28e3]: Commencement: Reg. 2 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
+[^c-ed573f65b35eb3d513c48b513d3a28e3]: Commencement: Reg. 2 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
 
 [^f00003]: Footnote: Paragraph (1A) was inserted by [S.R. 1992 No. 508](https://www.legislation.gov.uk/nisr/1992/508), reg. 2(2)(*b*) and amended by [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), reg. 4(2)
 
@@ -185,7 +185,7 @@ A relaxation of the requirements of Council Directive [92/97/EEC](https://www.le
 
 [^f00005]: Footnote: Paragraph (11) was inserted by [S.R. 1990 No. 84](https://www.legislation.gov.uk/nisr/1990/84), reg. 2(1) and amended by [S.R. 1992 No. 508](https://www.legislation.gov.uk/nisr/1992/508), reg. 2(2)(*f*) and [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), reg. 4(5)
 
-[^key-87d21131b0679ebf40ad4034ccc7dd1c]: Commencement: Reg. 3 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
+[^c-87d21131b0679ebf40ad4034ccc7dd1c]: Commencement: Reg. 3 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
 
 [^f00006]: Footnote: Part I was inserted by [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), reg. 6(1)
 
@@ -195,7 +195,7 @@ A relaxation of the requirements of Council Directive [92/97/EEC](https://www.le
 
 [^f00009]: Footnote: Items 14F and 14G were inserted by [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), reg. 6(2) and Schedule 1
 
-[^key-03e7c5410a645b2a6069c00544261f4c]: Commencement: Reg. 4 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
+[^c-03e7c5410a645b2a6069c00544261f4c]: Commencement: Reg. 4 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
 
 [^f00010]: Footnote: Schedule 1B was inserted by [S.R. 1990 No. 84](https://www.legislation.gov.uk/nisr/1990/84), reg. 2(4) and amended by [S.R. 1992 No. 508](https://www.legislation.gov.uk/nisr/1992/508), reg. 2(4) to (6) and Schedules 2 and 3 and by [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), reg. 8 and Schedule 3
 
@@ -205,6 +205,6 @@ A relaxation of the requirements of Council Directive [92/97/EEC](https://www.le
 
 [^f00013]: Footnote: Item 4G was inserted by [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), reg. 8(2)
 
-[^key-45c7f1bf1334a8df189e2c2004b8c866]: Commencement: Sch. 1 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
+[^c-45c7f1bf1334a8df189e2c2004b8c866]: Commencement: Sch. 1 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
 
-[^key-ed29c9f3a9d97d44b7929b7d8883d5e2]: Commencement: Sch. 2 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)
+[^c-ed29c9f3a9d97d44b7929b7d8883d5e2]: Commencement: Sch. 2 in operation at 20.5.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/156/regulation/1/1)

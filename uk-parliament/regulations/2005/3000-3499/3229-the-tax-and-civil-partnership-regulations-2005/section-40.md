@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Finance Act 1985[^key-fb9c44b234f45c195534efae8f81affe]
+## 40. Finance Act 1985[^c-fb9c44b234f45c195534efae8f81affe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Finance Act 1985 [^f00007] is amended as follows.
 
 ## Annotations
 
-[^key-fb9c44b234f45c195534efae8f81affe]: Commencement: Reg. 40 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-fb9c44b234f45c195534efae8f81affe]: Commencement: Reg. 40 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00007]: Footnote: [1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54).

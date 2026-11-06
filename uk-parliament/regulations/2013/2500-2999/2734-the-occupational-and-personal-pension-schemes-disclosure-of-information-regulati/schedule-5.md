@@ -42,7 +42,7 @@ Regulation 16(2)
 
 **6.** Details of how any deduction from benefits is calculated.
 
-**6A.**[^key-4842a2baad8e99c9054f91f09ddc8d1c] Where the trustees are required to publish a report on a website in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations 2021 (climate change reporting and publication requirements), in relation to the most recent report published—
+**6A.**[^c-4842a2baad8e99c9054f91f09ddc8d1c] Where the trustees are required to publish a report on a website in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations 2021 (climate change reporting and publication requirements), in relation to the most recent report published—
 
 - (a) the information specified in sub-paragraphs (a) to (d) of regulation 27(2) of these Regulations (provision of information on a website); and
 - (b) a statement explaining any circumstances in which the report will be provided on request in hard copy form.
@@ -65,4 +65,4 @@ Regulation 16(2)
 
 ## Annotations
 
-[^key-4842a2baad8e99c9054f91f09ddc8d1c]: Textual amendment: [Sch. 5 para. 6A](https://www.legislation.gov.uk/uksi/2013/2734/schedule/5/paragraph/6A) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations 2021 (S.I. 2021/857)](https://www.legislation.gov.uk/uksi/2021/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/857/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/857/regulation/4/4)
+[^c-4842a2baad8e99c9054f91f09ddc8d1c]: Textual amendment: [Sch. 5 para. 6A](https://www.legislation.gov.uk/uksi/2013/2734/schedule/5/paragraph/6A) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations 2021 (S.I. 2021/857)](https://www.legislation.gov.uk/uksi/2021/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/857/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/857/regulation/4/4)

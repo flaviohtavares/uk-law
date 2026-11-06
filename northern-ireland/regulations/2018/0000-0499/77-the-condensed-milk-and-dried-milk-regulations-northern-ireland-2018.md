@@ -44,15 +44,15 @@ The Department of Health[^f00001] makes the following Regulations in exercise of
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, that it is expedient for references to the European instruments and the Annex to the European instrument specified in regulation 2(4) to be construed as a reference to that instrument as amended from time to time.
 
-In accordance with Article 47(3A) of that Order, it has had regard to relevant advice given by the Food Standards Agency.[^key-9503f68e5c0ce7c7d7ddfe961c310a28]
+In accordance with Article 47(3A) of that Order, it has had regard to relevant advice given by the Food Standards Agency.[^c-9503f68e5c0ce7c7d7ddfe961c310a28]
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004]as last amended by Regulation [(EC) No 652/2014](https://www.legislation.gov.uk/european/regulation/2014/0652) of the European Parliament and of the Council laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material[^f00005], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-9503f68e5c0ce7c7d7ddfe961c310a28]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004]as last amended by Regulation [(EC) No 652/2014](https://www.legislation.gov.uk/european/regulation/2014/0652) of the European Parliament and of the Council laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material[^f00005], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-9503f68e5c0ce7c7d7ddfe961c310a28]
 
-## 1. Citation and commencement[^key-54dfb3cf6e0f97bbb55148085b4fefa4]
+## 1. Citation and commencement[^c-54dfb3cf6e0f97bbb55148085b4fefa4]
 
 These Regulations may be cited as the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018 and come into operation on 23rd April 2018.
 
-## 2. Interpretation[^key-74936858f6b0bf69878faa77890c6200]
+## 2. Interpretation[^c-74936858f6b0bf69878faa77890c6200]
 
 (1) In these Regulations
 
@@ -77,12 +77,12 @@ These Regulations may be cited as the Condensed Milk and Dried Milk Regulations 
 - (a) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives[^f00006] as last amended by Commission Regulation (EU) 2018/97 amending Annex II to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) as regards the use of sweeteners in fine bakery wares[^f00007];
 - (b) Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods[^f00008] as last amended by Commission Regulation (EU) 2017/1203 amending [Directive 2002/46/EC](https://www.legislation.gov.uk/european/directive/2002/0046) of the European Parliament and of the Council and Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council as regards organic silicon (monomethylsilanetriol) and calcium phosphoryl oligosaccharides (POs-Ca®) added to foods and used in the manufacture of food supplements[^f00009];
 - (c) First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067) laying down Community methods of analysis for testing certain partly or wholly dehydrated preserved milk for human consumption[^f00010];
-- (d) the Annex to First Commission [Directive 87/524/EEC](https://www.legislation.gov.uk/european/directive/1987/0524) laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products[^f00011];[^key-3655f39d89f6ed83e9b1f403c84e6761]
-- (e)[^key-61519765dcfe204f0027695ff84c6c37] Regulation (EU) No1169/2011 of the European Parliament and of the Council on the provision of food information to consumers.
+- (d) the Annex to First Commission [Directive 87/524/EEC](https://www.legislation.gov.uk/european/directive/1987/0524) laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products[^f00011];[^c-3655f39d89f6ed83e9b1f403c84e6761]
+- (e)[^c-61519765dcfe204f0027695ff84c6c37] Regulation (EU) No1169/2011 of the European Parliament and of the Council on the provision of food information to consumers.
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00012] applies to these regulations as it applies to an Act of the Assembly.
 
-## 3. Reserved descriptions[^key-b13a5b5965d2c766b5b458741456ed7a]
+## 3. Reserved descriptions[^c-b13a5b5965d2c766b5b458741456ed7a]
 
 A person must not sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description, derivative of a reserved description, or a substantially similar word or description unless—
 
@@ -90,9 +90,9 @@ A person must not sell any food with a label, whether or not attached to or prin
 - (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
 - (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product.
 
-## 4. Labelling and description[^key-1222e2b680f5cc37324c9ddbf2eb4167]
+## 4. Labelling and description[^c-1222e2b680f5cc37324c9ddbf2eb4167]
 
-A person must not sell any designated product unless it is marked or labelled in accordance with Regulation (EU) No 1169/2011 and complies[^key-735884c2e4fd435668fee23fc6fe8ab2] with the following particulars—
+A person must not sell any designated product unless it is marked or labelled in accordance with Regulation (EU) No 1169/2011 and complies[^c-735884c2e4fd435668fee23fc6fe8ab2] with the following particulars—
 
 - (a) its reserved description;
 - (b) except in the case of the products specified in paragraphs 1(d) and (g) and 2(d) in the table in Schedule 1, the percentage of milk fat, expressed by weight in relation to the finished product;
@@ -101,13 +101,13 @@ A person must not sell any designated product unless it is marked or labelled in
   - (i) the recommendations as to the method of dilution or reconstitution and the details of the fat content of the product when diluted or reconstituted; and
   - (ii) a statement containing the words “not intended as a food for infants under 12 months”.
 
-## 5. Manner of marking or labelling[^key-2c1be60930357595777d0fb90d97d759]
+## 5. Manner of marking or labelling[^c-2c1be60930357595777d0fb90d97d759]
 
 (1) The particulars with which a designated product is required to be marked or labelled by virtue of regulation 4(b) or (c) (or both) must appear near the trade name of the product.
 
 (2) Where designated products weighing less than 20 grams per unit are packed in an outer packaging, the particulars required by regulation 4(b) to (d) may appear on the label or the outer packaging.
 
-## 6. Application and modification of provisions of the Order[^key-c949995da4a96006342320076dd42506]
+## 6. Application and modification of provisions of the Order[^c-c949995da4a96006342320076dd42506]
 
 (1) Article 9(1) and (2) of the Order (improvement notices) apply with the modification (in the case of Article 9(1)) set out in Part 1 of Schedule 3 for the purposes of—
 
@@ -118,11 +118,11 @@ A person must not sell any designated product unless it is marked or labelled in
 
 (3) Paragraphs (1) and (2) are without prejudice to the application of the Order to these Regulations for purposes other than those specified in paragraph (1).
 
-## 7. Enforcement[^key-b91cca644e9ea3198da2da0ac5baa4e8]
+## 7. Enforcement[^c-b91cca644e9ea3198da2da0ac5baa4e8]
 
 It is the duty of each district council within its district to enforce these Regulations.
 
-## 8. Revocations[^key-1971a98217148cd0f00be61e519a9202]
+## 8. Revocations[^c-1971a98217148cd0f00be61e519a9202]
 
 The following Regulations are revoked to the extent specified—
 
@@ -158,23 +158,23 @@ Regulation 2(1)
 | (c) Dried partly skimmed milk or partly skimmed milk powder | Totally dehydrated milk containing, by weight, more than 1.5% and less than 26% fat. |
 | (d) Dried skimmed milk or skimmed-milk powder | Totally dehydrated milk containing, by weight, not more than 1.5% fat. |
 
-### 1. Notes[^key-cce7a27498a7685a186e53dfbbdafac6]
+### 1. Notes[^c-cce7a27498a7685a186e53dfbbdafac6]
 
 Any designated product may contain—
 
-- (a) any substance permitted pursuant to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives; [^key-ac52ba582bf2b2f32ad15971f10d53b8]...
-- (b) vitamins and minerals in accordance with the requirements of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) on the addition of vitamins and minerals and of certain other substances to foods ; and[^key-b956ab1f3822c7444155100ca48fc3c2]
-- (c)[^key-9a28ea74fbfdacddc2d8986e69ba2522] food enzymes in accordance with Regulation No 1332/2008 on food enzymes.
+- (a) any substance permitted pursuant to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives; [^c-ac52ba582bf2b2f32ad15971f10d53b8]...
+- (b) vitamins and minerals in accordance with the requirements of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) on the addition of vitamins and minerals and of certain other substances to foods ; and[^c-b956ab1f3822c7444155100ca48fc3c2]
+- (c)[^c-9a28ea74fbfdacddc2d8986e69ba2522] food enzymes in accordance with Regulation No 1332/2008 on food enzymes.
 
-**2.**[^key-da1a3af7f4b43132160d5befd8233cd2] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
+**2.**[^c-da1a3af7f4b43132160d5befd8233cd2] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
 
-**3.**[^key-d66fb0e07ad07d70bae53e24ba927c7c] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00016] as last amended by Commission Regulation (EU) 2017/1981 amending Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council as regards temperature conditions during transport of meat[^f00017], the preservation of the designated products must be achieved—
+**3.**[^c-d66fb0e07ad07d70bae53e24ba927c7c] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00016] as last amended by Commission Regulation (EU) 2017/1981 amending Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council as regards temperature conditions during transport of meat[^f00017], the preservation of the designated products must be achieved—
 
 - (a) by heat treatment for the products referred to in paragraph 1(a) to (d) in the table in this Schedule;
 - (b) by the addition of sucrose for the products referred to in paragraph 1(e) to (g) in the table in this Schedule; and
 - (c) by dehydration for the products referred to in paragraph 2(a) to (d) in the table in this Schedule.
 
-**4.**[^key-96179f24967e480107a20108c01a105f] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
+**4.**[^c-96179f24967e480107a20108c01a105f] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
 
 (2) Authorised raw materials for protein adjustment purposes referred to in paragraph (1) are as follows—
 
@@ -182,19 +182,19 @@ Any designated product may contain—
 - (b) milk permeate, which is the product obtained by removing milk proteins and milk fat from milk, partly skimmed milk or skimmed milk by ultrafiltration; and
 - (c) lactose, which is a natural constituent of milk normally obtained from whey with an anhydrous lactose content of not less than 99.0% m/m (mass over mass) on a dry basis, and which may be anhydrous or contain one molecule of water of crystallisation or be a mixture of both forms.
 
-**5.**[^key-7cf2d37bc48e38625b85016c8c44491e] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00018].
+**5.**[^c-7cf2d37bc48e38625b85016c8c44491e] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00018].
 
-**6.**[^key-75aeb2d5d0babd1864bfa351a42fcdfc] Without prejudice to the obligation regarding nutrition labelling laid down by Regulation (EU) No 1169/2011, the lactose content may be reduced by conversion to glucose and galactose provided that this modification is indelibly indicated on the packing of the product so that it can be easily seen and read.
+**6.**[^c-75aeb2d5d0babd1864bfa351a42fcdfc] Without prejudice to the obligation regarding nutrition labelling laid down by Regulation (EU) No 1169/2011, the lactose content may be reduced by conversion to glucose and galactose provided that this modification is indelibly indicated on the packing of the product so that it can be easily seen and read.
 
 ## SCHEDULE 2 — Permitted alternative descriptions to the reserved descriptions specified in Schedule 1
 
 Regulation 2(1)
 
-**1.**[^key-75312d85e090f69a431c9022aae3fd76] The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 7.5 % fat and 25%[^key-15ea79835c39291db8507bbcbb234e4f] total milk solids.
+**1.**[^c-75312d85e090f69a431c9022aae3fd76] The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 7.5 % fat and 25%[^c-15ea79835c39291db8507bbcbb234e4f] total milk solids.
 
-**2.**[^key-624776b0d149bad8be31f066c0e2ce89] The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
+**2.**[^c-624776b0d149bad8be31f066c0e2ce89] The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
 
-**3.**[^key-a0874192dd384e09bcd1d966c9ccc277] The term “semi-skimmed milk powder” or dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
+**3.**[^c-a0874192dd384e09bcd1d966c9ccc277] The term “semi-skimmed milk powder” or dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
 
 ## SCHEDULE 3 — Application and modification of provisions of the Order
 
@@ -202,7 +202,7 @@ Regulation 6
 
 ### PART 1 — Modification of Article 9(1)
 
-**1.**[^key-f9c36a1c24ea4dafb0897c11278b8316] For Article 9(1) of the Order (improvement notices) substitute—
+**1.**[^c-f9c36a1c24ea4dafb0897c11278b8316] For Article 9(1) of the Order (improvement notices) substitute—
 
 > (1) If an authorised officer has reasonable grounds for believing that a person is failing to comply with any of regulations 3, 4 or 5 of the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018, the authorised officer may, by a notice served on that person (in this Order referred to as an “improvement notice”)—
 >
@@ -211,7 +211,7 @@ Regulation 6
 > - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
 > - (d) require the person to take those measures, or measures that are at least equivalent to them, within such period as may be specified in the notice.
 
-### PART 2 — Application and modification of other provisions of the Order[^key-00f5cf9f7d74f4b359d68212ecb18fc4]
+### PART 2 — Application and modification of other provisions of the Order[^c-00f5cf9f7d74f4b359d68212ecb18fc4]
 
 <table>
 <thead>
@@ -255,15 +255,15 @@ The Regulations—
 
 [^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 ([2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51)) and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 ([2008 c.7](https://www.legislation.gov.uk/ukpga/2008/7))
 
-[^key-9503f68e5c0ce7c7d7ddfe961c310a28]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2018/77) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-9503f68e5c0ce7c7d7ddfe961c310a28]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2018/77) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00004]: Footnote: OJ No. L 31, 1.2.2002, p.1
 
 [^f00005]: Footnote: OJ No L 189, 27.6.2014, p 1
 
-[^key-54dfb3cf6e0f97bbb55148085b4fefa4]: Commencement: Reg. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-54dfb3cf6e0f97bbb55148085b4fefa4]: Commencement: Reg. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-74936858f6b0bf69878faa77890c6200]: Commencement: Reg. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-74936858f6b0bf69878faa77890c6200]: Commencement: Reg. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
 [^f00006]: Footnote: OJ No L 354, 31.12.08, p 16
 
@@ -277,25 +277,25 @@ The Regulations—
 
 [^f00011]: Footnote: OJ No L 306, 28.10.87, p 24
 
-[^key-3655f39d89f6ed83e9b1f403c84e6761]: Textual amendment: [Reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2018/77/regulation/2/4/d): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-3655f39d89f6ed83e9b1f403c84e6761]: Textual amendment: [Reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2018/77/regulation/2/4/d): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-61519765dcfe204f0027695ff84c6c37]: Textual amendment: [Reg. 2(4)(e)](https://www.legislation.gov.uk/nisr/2018/77/regulation/2/4/e) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-61519765dcfe204f0027695ff84c6c37]: Textual amendment: [Reg. 2(4)(e)](https://www.legislation.gov.uk/nisr/2018/77/regulation/2/4/e) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^f00012]: Footnote: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b13a5b5965d2c766b5b458741456ed7a]: Commencement: Reg. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-b13a5b5965d2c766b5b458741456ed7a]: Commencement: Reg. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-1222e2b680f5cc37324c9ddbf2eb4167]: Commencement: Reg. 4 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-1222e2b680f5cc37324c9ddbf2eb4167]: Commencement: Reg. 4 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-735884c2e4fd435668fee23fc6fe8ab2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2018/77/regulation/4) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/3) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-735884c2e4fd435668fee23fc6fe8ab2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2018/77/regulation/4) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/3) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-2c1be60930357595777d0fb90d97d759]: Commencement: Reg. 5 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-2c1be60930357595777d0fb90d97d759]: Commencement: Reg. 5 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-c949995da4a96006342320076dd42506]: Commencement: Reg. 6 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-c949995da4a96006342320076dd42506]: Commencement: Reg. 6 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-b91cca644e9ea3198da2da0ac5baa4e8]: Commencement: Reg. 7 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-b91cca644e9ea3198da2da0ac5baa4e8]: Commencement: Reg. 7 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-1971a98217148cd0f00be61e519a9202]: Commencement: Reg. 8 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-1971a98217148cd0f00be61e519a9202]: Commencement: Reg. 8 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
 [^f00013]: Footnote: [SR 2003 No 300](https://www.legislation.gov.uk/nisr/2003/300)
 
@@ -303,38 +303,38 @@ The Regulations—
 
 [^f00015]: Footnote: [SR 2008 No 42](https://www.legislation.gov.uk/nisr/2008/42)
 
-[^key-cce7a27498a7685a186e53dfbbdafac6]: Commencement: Sch. 1 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-cce7a27498a7685a186e53dfbbdafac6]: Commencement: Sch. 1 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-ac52ba582bf2b2f32ad15971f10d53b8]: Textual amendment: Word in [Sch. 1 Notes para. 1(a)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/a) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-ac52ba582bf2b2f32ad15971f10d53b8]: Textual amendment: Word in [Sch. 1 Notes para. 1(a)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/a) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-b956ab1f3822c7444155100ca48fc3c2]: Textual amendment: Words in [Sch. 1 Notes para. 1(b)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/b) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-b956ab1f3822c7444155100ca48fc3c2]: Textual amendment: Words in [Sch. 1 Notes para. 1(b)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/b) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-9a28ea74fbfdacddc2d8986e69ba2522]: Textual amendment: [Sch. 1 Notes para. 1(c)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/c) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-9a28ea74fbfdacddc2d8986e69ba2522]: Textual amendment: [Sch. 1 Notes para. 1(c)](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/1/c) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/a/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-da1a3af7f4b43132160d5befd8233cd2]: Commencement: Sch. 1 para. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-da1a3af7f4b43132160d5befd8233cd2]: Commencement: Sch. 1 para. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-d66fb0e07ad07d70bae53e24ba927c7c]: Commencement: Sch. 1 para. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-d66fb0e07ad07d70bae53e24ba927c7c]: Commencement: Sch. 1 para. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
 [^f00016]: Footnote: OJ No L 139, 30.4.04, p 55
 
 [^f00017]: Footnote: OJ No L 285, 1.11.2017, p10
 
-[^key-96179f24967e480107a20108c01a105f]: Commencement: Sch. 1 para. 4 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-96179f24967e480107a20108c01a105f]: Commencement: Sch. 1 para. 4 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-7cf2d37bc48e38625b85016c8c44491e]: Commencement: Sch. 1 para. 5 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-7cf2d37bc48e38625b85016c8c44491e]: Commencement: Sch. 1 para. 5 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
 [^f00018]: Footnote: OJ No L 327, 24.12.79, p 29
 
-[^key-75aeb2d5d0babd1864bfa351a42fcdfc]: Textual amendment: [Sch. 1 Notes para. 6](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/6) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-75aeb2d5d0babd1864bfa351a42fcdfc]: Textual amendment: [Sch. 1 Notes para. 6](https://www.legislation.gov.uk/nisr/2018/77/schedule/1/paragraph/6) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/4/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-75312d85e090f69a431c9022aae3fd76]: Commencement: Sch. 2 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-75312d85e090f69a431c9022aae3fd76]: Commencement: Sch. 2 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-15ea79835c39291db8507bbcbb234e4f]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2018/77/schedule/2/paragraph/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-15ea79835c39291db8507bbcbb234e4f]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2018/77/schedule/2/paragraph/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [6(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/6/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-624776b0d149bad8be31f066c0e2ce89]: Commencement: Sch. 2 para. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-624776b0d149bad8be31f066c0e2ce89]: Commencement: Sch. 2 para. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-a0874192dd384e09bcd1d966c9ccc277]: Commencement: Sch. 2 para. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-a0874192dd384e09bcd1d966c9ccc277]: Commencement: Sch. 2 para. 3 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-f9c36a1c24ea4dafb0897c11278b8316]: Commencement: Sch. 3 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-f9c36a1c24ea4dafb0897c11278b8316]: Commencement: Sch. 3 para. 1 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
 
-[^key-00f5cf9f7d74f4b359d68212ecb18fc4]: Commencement: Sch. 3 Pt. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)
+[^c-00f5cf9f7d74f4b359d68212ecb18fc4]: Commencement: Sch. 3 Pt. 2 in operation at 23.4.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/77/regulation/1)

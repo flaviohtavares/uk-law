@@ -23,9 +23,9 @@ summary: ''
 (1) Any person who in the course of—
 
 - (a) making an application for an ethics committee opinion;
-- (b) making a request for authorisation to conduct a clinical trial; [^key-068f5e45900985ace71f295168e44607]...
+- (b) making a request for authorisation to conduct a clinical trial; [^c-068f5e45900985ace71f295168e44607]...
 - (c) making an application for the grant or variation of a manufacturing authorisation,
-- (d)[^key-8b36254f5f7704b0d63e260a26fd8544] notifying a modification of an important detail; or
+- (d)[^c-8b36254f5f7704b0d63e260a26fd8544] notifying a modification of an important detail; or
 - (e) making a modification request,
 
 provides to the licensing authority or an ethics committee any relevant information which is false or misleading in a material particular shall be guilty of an offence.
@@ -49,6 +49,6 @@ and who, for the purposes of these Regulations, provides to the licensing author
 
 ## Annotations
 
-[^key-068f5e45900985ace71f295168e44607]: Textual amendment: Word in reg. 50(1)(b) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [35(a)](https://www.legislation.gov.uk/uksi/2025/538/regulation/35/a)
+[^c-068f5e45900985ace71f295168e44607]: Textual amendment: Word in reg. 50(1)(b) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [35(a)](https://www.legislation.gov.uk/uksi/2025/538/regulation/35/a)
 
-[^key-8b36254f5f7704b0d63e260a26fd8544]: Textual amendment: Reg. 50(1)(d)(e) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [35(b)](https://www.legislation.gov.uk/uksi/2025/538/regulation/35/b)
+[^c-8b36254f5f7704b0d63e260a26fd8544]: Textual amendment: Reg. 50(1)(d)(e) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [35(b)](https://www.legislation.gov.uk/uksi/2025/538/regulation/35/b)

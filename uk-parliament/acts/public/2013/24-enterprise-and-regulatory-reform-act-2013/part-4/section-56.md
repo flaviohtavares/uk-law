@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Review of certain provisions of Chapters 1 and 2[^key-5fd21030e051a757555a474f996d200d]
+## 56. Review of certain provisions of Chapters 1 and 2[^c-5fd21030e051a757555a474f996d200d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd21030e051a757555a474f996d200d]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/24/section/56) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5fd21030e051a757555a474f996d200d]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/24/section/56) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

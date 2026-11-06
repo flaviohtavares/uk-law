@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and Commencement[^key-53611885b8c18608671bf7cb2c4923c7]
+## 1. Citation and Commencement[^c-53611885b8c18608671bf7cb2c4923c7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Network Rail (Ipswich Chord) Order 2012 and comes
 
 ## Annotations
 
-[^key-53611885b8c18608671bf7cb2c4923c7]: Commencement: Art. 1 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-53611885b8c18608671bf7cb2c4923c7]: Commencement: Art. 1 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

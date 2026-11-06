@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The information mentioned in paragraph (2) must be given in accordance with this regulation to a member who has a right or entitlement to flexible benefits[^key-81f008c39367a7504e099f413265a6c1].
+(1) The information mentioned in paragraph (2) must be given in accordance with this regulation to a member who has a right or entitlement to flexible benefits[^c-81f008c39367a7504e099f413265a6c1].
 
-(2)[^key-6831b36890915a622b1af9ce8b9b0315] The information is—
+(2)[^c-6831b36890915a622b1af9ce8b9b0315] The information is—
 
 - (a) where the member has been given information in accordance with regulation 18A in the 12 months before the date on which the trustees or managers of the scheme give information under this regulation—
   - (i) a statement that the member has been given information about—
@@ -39,7 +39,7 @@ summary: ''
 - (a) where there is a retirement date, that date, or
 - (b) where there is no retirement date, the date the member attains normal pension age [^c2193090].
 
-(4) For the purposes of paragraph (3) where the interval between the date on which the retirement date is specified and the date that the benefits will become payable is less than four months, the information must be given within 20[^key-4453bf71215e1b33fc83f886c443f22b] days of the date on which the retirement date is specified.
+(4) For the purposes of paragraph (3) where the interval between the date on which the retirement date is specified and the date that the benefits will become payable is less than four months, the information must be given within 20[^c-4453bf71215e1b33fc83f886c443f22b] days of the date on which the retirement date is specified.
 
 (5) In this regulation, “**retirement date**” means the date specified by—
 
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-81f008c39367a7504e099f413265a6c1]: Textual amendment: Words in reg. 19(1) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/482/regulation/8/2) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
+[^c-81f008c39367a7504e099f413265a6c1]: Textual amendment: Words in reg. 19(1) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/482/regulation/8/2) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
 
-[^key-6831b36890915a622b1af9ce8b9b0315]: Textual amendment: Reg. 19(2) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/482/regulation/8/3) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
+[^c-6831b36890915a622b1af9ce8b9b0315]: Textual amendment: Reg. 19(2) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/482/regulation/8/3) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
 
 [^c2193090]: Marginal citation: *See* section 180 of the 1993 Act.
 
-[^key-4453bf71215e1b33fc83f886c443f22b]: Textual amendment: Word in reg. 19(4) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/482/regulation/8/4) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
+[^c-4453bf71215e1b33fc83f886c443f22b]: Textual amendment: Word in reg. 19(4) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/482/regulation/8/4) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))

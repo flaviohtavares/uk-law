@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Environmental targets: reporting duties[^key-f8e362ef6c091f70678d4899d67053f2][^key-d41a917d3ce8d4a05e0ed85afe6879eb]
+## 6. Environmental targets: reporting duties[^c-f8e362ef6c091f70678d4899d67053f2][^c-d41a917d3ce8d4a05e0ed85afe6879eb]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e362ef6c091f70678d4899d67053f2]: Commencement: S. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-f8e362ef6c091f70678d4899d67053f2]: Commencement: S. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-d41a917d3ce8d4a05e0ed85afe6879eb]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/30/section/6) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-d41a917d3ce8d4a05e0ed85afe6879eb]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/30/section/6) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

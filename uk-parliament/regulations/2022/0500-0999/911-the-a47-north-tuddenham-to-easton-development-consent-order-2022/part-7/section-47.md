@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Appeals relating to the Control of Pollution Act 1974[^key-73c5d0586f6c24a75a3a81bbde07efee]
+## 47. Appeals relating to the Control of Pollution Act 1974[^c-73c5d0586f6c24a75a3a81bbde07efee]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-73c5d0586f6c24a75a3a81bbde07efee]: Commencement: Art. 47 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-73c5d0586f6c24a75a3a81bbde07efee]: Commencement: Art. 47 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
 [^f00082]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61(9) was amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act 1990. There are other amendments to section 61 which are not relevant to this Order.

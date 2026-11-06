@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Correcting errors: regulations[^key-f9491118f761472a73d7e1ecb412e00c][^key-abbff640461061676c5a7585f788f3bd]
+## 88. Correcting errors: regulations[^c-f9491118f761472a73d7e1ecb412e00c][^c-abbff640461061676c5a7585f788f3bd]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9491118f761472a73d7e1ecb412e00c]: Commencement: S. 88 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-f9491118f761472a73d7e1ecb412e00c]: Commencement: S. 88 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-abbff640461061676c5a7585f788f3bd]: Commencement: [S. 88](https://www.legislation.gov.uk/asc/2024/3/section/88) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-abbff640461061676c5a7585f788f3bd]: Commencement: [S. 88](https://www.legislation.gov.uk/asc/2024/3/section/88) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

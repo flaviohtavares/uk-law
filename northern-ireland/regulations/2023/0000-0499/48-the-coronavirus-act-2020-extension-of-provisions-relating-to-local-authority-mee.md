@@ -40,15 +40,15 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020[^f00001].
 
-## 1. Citation[^key-af2f018ce4ad4a3561ab679b76b4560f]
+## 1. Citation[^c-af2f018ce4ad4a3561ab679b76b4560f]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) Order (Northern Ireland) 2023.
 
-## 2. Extension of expiry date[^key-f40ddbf5f1df5ea29460095cea6f8a2b]
+## 2. Extension of expiry date[^c-f40ddbf5f1df5ea29460095cea6f8a2b]
 
 Section 78 of the Coronavirus Act 2020[^f00002] does not expire at the time when it would otherwise expire and expires instead on 24th March 2023.
 
-## 3. Revocation[^key-033e9123f7345867b55cffdbc7221744]
+## 3. Revocation[^c-033e9123f7345867b55cffdbc7221744]
 
 The Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Meetings) (No 2) Order (Northern Ireland) 2022[^f00003] is revoked.
 
@@ -74,12 +74,12 @@ The Coronavirus Act 2020 (Extension of Provisions Relating to Local Authority Me
 
 [^f00001]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7)
 
-[^key-af2f018ce4ad4a3561ab679b76b4560f]: Commencement: Art. 1 in operation at made date
+[^c-af2f018ce4ad4a3561ab679b76b4560f]: Commencement: Art. 1 in operation at made date
 
-[^key-f40ddbf5f1df5ea29460095cea6f8a2b]: Commencement: Art. 2 in operation at made date
+[^c-f40ddbf5f1df5ea29460095cea6f8a2b]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: As amended by [2021 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2021/8) (section 1(1))
 
-[^key-033e9123f7345867b55cffdbc7221744]: Commencement: Art. 3 in operation at made date
+[^c-033e9123f7345867b55cffdbc7221744]: Commencement: Art. 3 in operation at made date
 
 [^f00003]: Footnote: [S.R. 2022 No. 226](https://www.legislation.gov.uk/nisr/2022/226)

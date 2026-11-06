@@ -36,7 +36,7 @@ An Act to make void marriages between persons either of whom is under the age of
 
 (1) A marriage between persons either of whom is under the age of sixteen shall be void:
 
-[^key-fa6980968eb439ffb7081ca501dd6b49]...[^m00001]
+[^c-fa6980968eb439ffb7081ca501dd6b49]...[^m00001]
 
 (2) [^c2069508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -48,7 +48,7 @@ This Act may be cited as the Age of Marriage Act (Northern Ireland), 1951.
 
 ## Annotations
 
-[^key-fa6980968eb439ffb7081ca501dd6b49]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/apni/1951/25/section/1/1) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [125(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/125/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [125(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/125/2))
+[^c-fa6980968eb439ffb7081ca501dd6b49]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/apni/1951/25/section/1/1) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [125(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/125/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [125(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/125/2))
 
 [^m00001]: Marginal citation: 1885 c.69
 

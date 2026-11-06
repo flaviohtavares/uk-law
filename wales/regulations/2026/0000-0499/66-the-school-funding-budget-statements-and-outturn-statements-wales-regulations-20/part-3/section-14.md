@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Percentage of “pupil-led” funding[^key-49752d6116794313f1790f1cc43a372b]
+## 14. Percentage of “pupil-led” funding[^c-49752d6116794313f1790f1cc43a372b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49752d6116794313f1790f1cc43a372b]: Commencement: Reg. 14 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-49752d6116794313f1790f1cc43a372b]: Commencement: Reg. 14 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Interpretation of this Part and index of defined terms[^key-ad85bc511bbdbf7aba7589d8add4429e][^key-7abd4d9228723ab7ddb4ef33af787fde]
+## 49. Interpretation of this Part and index of defined terms[^c-ad85bc511bbdbf7aba7589d8add4429e][^c-7abd4d9228723ab7ddb4ef33af787fde]
 
 *Extent: E+W*
 
 (1) In this Part—
 
-- “[^key-95a9ea3a7e590c83daff99a477a43e9d]**community landlord**” (“***landlord cymunedol***”) has the meaning given by section 9 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1);
+- “[^c-95a9ea3a7e590c83daff99a477a43e9d]**community landlord**” (“***landlord cymunedol***”) has the meaning given by section 9 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1);
 - “**domestic tenancy**” (“***tenantiaeth ddomestig***”) has the meaning given by section 2;
 - “**dwelling**” (“***annedd***”) has the meaning given by section 2;
 - “**fully mutual housing association**” (“***cymdeithas dai cwbl gydfuddiannol***”) has the meaning given by section 1(2) of the Housing Association Act 1985;
@@ -51,8 +51,8 @@ and related expressions are to be construed accordingly.
 
 ## Annotations
 
-[^key-ad85bc511bbdbf7aba7589d8add4429e]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2014/7/section/49) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-ad85bc511bbdbf7aba7589d8add4429e]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2014/7/section/49) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-7abd4d9228723ab7ddb4ef33af787fde]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2014/7/section/49) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(y)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/y)
+[^c-7abd4d9228723ab7ddb4ef33af787fde]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2014/7/section/49) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(y)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/y)
 
-[^key-95a9ea3a7e590c83daff99a477a43e9d]: Textual amendment: Words in [s. 49(1)](https://www.legislation.gov.uk/anaw/2014/7/section/49/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(8)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/8)
+[^c-95a9ea3a7e590c83daff99a477a43e9d]: Textual amendment: Words in [s. 49(1)](https://www.legislation.gov.uk/anaw/2014/7/section/49/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(8)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/8)

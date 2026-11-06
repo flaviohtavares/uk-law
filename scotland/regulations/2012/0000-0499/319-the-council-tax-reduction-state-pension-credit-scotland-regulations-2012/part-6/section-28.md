@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) For the purposes of regulation 14(5) or 14A(5)[^key-22e82806238f0fd5eb63d0c7028a5cdf] (conditions of entitlement to council tax reduction) the income of an applicant is to be calculated on a weekly basis by—
+(1) For the purposes of regulation 14(5) or 14A(5)[^c-22e82806238f0fd5eb63d0c7028a5cdf] (conditions of entitlement to council tax reduction) the income of an applicant is to be calculated on a weekly basis by—
 
 - (a) calculating or estimating the amount which is likely to be the applicant's average weekly income in accordance with this Part;
 - (b) adding to that amount the weekly income calculated under regulation 27(2) (meaning of “income”: calculation of tariff income from capital); and
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e82806238f0fd5eb63d0c7028a5cdf]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/28/1) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [12](https://www.legislation.gov.uk/ssi/2016/253/regulation/12)
+[^c-22e82806238f0fd5eb63d0c7028a5cdf]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/28/1) inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [12](https://www.legislation.gov.uk/ssi/2016/253/regulation/12)

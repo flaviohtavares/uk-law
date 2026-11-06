@@ -22,7 +22,7 @@ summary: ''
 
 1. By way of derogation from point (a) of Article 37(5), the competent authorities may temporarily designate an existing official laboratory as an official laboratory in accordance with Article 37(1) for the use of a method of laboratory analysis, test or diagnosis for which it has not obtained the accreditation referred to in point (e) of Article 37(4):
 
-- (a) when the use of that method is newly required by legislation in force in the relevant constituent territory of Great Britain[^key-12462ded9cb9e771fa05d69f42f23338];
+- (a) when the use of that method is newly required by legislation in force in the relevant constituent territory of Great Britain[^c-12462ded9cb9e771fa05d69f42f23338];
 - (b) when changes to a method in use require a new accreditation or an extension of the scope of the accreditation obtained by the official laboratory; or
 - (c) in cases where the need for the use of the method results from an emergency situation or an emerging risk to human, animal or plant health, animal welfare or, as regards GMOs and plant protection products, also to the environment.
 
@@ -34,10 +34,10 @@ summary: ''
 
 3. The temporary designation provided for in paragraph 1 shall not exceed a period of one year. It may be renewed once for a further period of one year.
 
-4. The official laboratories designated in accordance with paragraph 1 shall be located in the United Kingdom.[^key-fa45dcae1eabcb901d6afeec751a33e3]
+4. The official laboratories designated in accordance with paragraph 1 shall be located in the United Kingdom.[^c-fa45dcae1eabcb901d6afeec751a33e3]
 
 ## Annotations
 
-[^key-12462ded9cb9e771fa05d69f42f23338]: Textual amendment: Words in [Art. 42(1)(a)](https://www.legislation.gov.uk/eur/2017/625/article/42/1/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(7)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/7/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-12462ded9cb9e771fa05d69f42f23338]: Textual amendment: Words in [Art. 42(1)(a)](https://www.legislation.gov.uk/eur/2017/625/article/42/1/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(7)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/7/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-fa45dcae1eabcb901d6afeec751a33e3]: Textual amendment: Words in [Art. 42(4)](https://www.legislation.gov.uk/eur/2017/625/article/42/4) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(7)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/7/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-fa45dcae1eabcb901d6afeec751a33e3]: Textual amendment: Words in [Art. 42(4)](https://www.legislation.gov.uk/eur/2017/625/article/42/4) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(7)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/7/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

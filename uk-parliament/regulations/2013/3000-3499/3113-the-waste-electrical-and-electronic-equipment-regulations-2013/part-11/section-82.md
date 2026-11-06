@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Disclosure of information[^key-7e837372ff363ce3455beff84407aec4]
+## 82. Disclosure of information[^c-7e837372ff363ce3455beff84407aec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ to any person for the purpose of facilitating the carrying out by the Secretary 
 
 ## Annotations
 
-[^key-7e837372ff363ce3455beff84407aec4]: Commencement: Reg. 82 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-7e837372ff363ce3455beff84407aec4]: Commencement: Reg. 82 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Debtor’s proposal and nominee’s report[^key-2fee258f56cebcb7b40b417b6a9ff6d3]
+## 64. Debtor’s proposal and nominee’s report[^c-2fee258f56cebcb7b40b417b6a9ff6d3]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fee258f56cebcb7b40b417b6a9ff6d3]: Commencement: S. 64 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2fee258f56cebcb7b40b417b6a9ff6d3]: Commencement: S. 64 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

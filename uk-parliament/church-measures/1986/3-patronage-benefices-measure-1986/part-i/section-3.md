@@ -46,7 +46,7 @@ summary: ''
 
 and if no such application for registration is made before the expiration of that period of twelve months the transfer shall be of no effect.
 
-(8) No transfer of a right of patronage of a benefice shall take effect during the period of a vacancy in that benefice unless the benefice is one to which a suspension period (within the meaning of[^c922662] section 85 of the Mission and Pastoral Measure 2011[^key-faf74dd0de3e68c0765d4b39c1d80220]) applies and a person holds office as priest in charge for the benefice.
+(8) No transfer of a right of patronage of a benefice shall take effect during the period of a vacancy in that benefice unless the benefice is one to which a suspension period (within the meaning of[^c922662] section 85 of the Mission and Pastoral Measure 2011[^c-faf74dd0de3e68c0765d4b39c1d80220]) applies and a person holds office as priest in charge for the benefice.
 
 (9) In this section “**transfer**” means a transfer*inter vivos* including a transfer by way of exchange; but except in subsection (6)[^c922663] it does not include a transfer by operation of law, a transfer upon the appointment of a new trustee or a transfer by the personal representatives of a deceased person.
 
@@ -54,6 +54,6 @@ and if no such application for registration is made before the expiration of tha
 
 [^c922662]: Textual amendment: Words in s. 3(8) inserted (1.9.2000) by [2000 Measure No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 17(a)](https://www.legislation.gov.uk/ukcm/2000/1/section/17/a); [Instrument dated 30.8.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-08-30)
 
-[^key-faf74dd0de3e68c0765d4b39c1d80220]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/ukcm/1986/3/section/3/8) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/7/1)
+[^c-faf74dd0de3e68c0765d4b39c1d80220]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/ukcm/1986/3/section/3/8) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/7/1)
 
 [^c922663]: Textual amendment: Words in s. 3(9) inserted (1.9.2000) by [2000 Measure No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 17(b)](https://www.legislation.gov.uk/ukcm/2000/1/section/17/b); [Instrument dated 30.8.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-08-30)

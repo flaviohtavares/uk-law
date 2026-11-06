@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Reports about supervised persons[^key-164de7e2e784063d8cd8bb08e43febc2]
+## 20. Reports about supervised persons[^c-164de7e2e784063d8cd8bb08e43febc2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-164de7e2e784063d8cd8bb08e43febc2]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/13/section/20) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
+[^c-164de7e2e784063d8cd8bb08e43febc2]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2010/13/section/20) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))

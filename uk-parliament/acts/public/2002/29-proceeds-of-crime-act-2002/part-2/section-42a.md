@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42A. Restraint orders: effect of conviction[^key-6dc518a729cc63769835d9ce502ded6d]
+## 42A. Restraint orders: effect of conviction[^c-6dc518a729cc63769835d9ce502ded6d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc518a729cc63769835d9ce502ded6d]: Textual amendment: S. 42A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 29](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/29); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-6dc518a729cc63769835d9ce502ded6d]: Textual amendment: S. 42A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 29](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/29); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

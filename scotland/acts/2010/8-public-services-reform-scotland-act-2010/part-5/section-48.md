@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Social work services[^key-509b57a610441e7206e042d9aea478ac][^key-6ceb3a696c18b7b142c73d7eca74367b]
+## 48. Social work services[^c-509b57a610441e7206e042d9aea478ac][^c-6ceb3a696c18b7b142c73d7eca74367b]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ In this Part—
 
 ## Annotations
 
-[^key-509b57a610441e7206e042d9aea478ac]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/8/section/48) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-509b57a610441e7206e042d9aea478ac]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/8/section/48) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-6ceb3a696c18b7b142c73d7eca74367b]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/8/section/48) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-6ceb3a696c18b7b142c73d7eca74367b]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/8/section/48) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

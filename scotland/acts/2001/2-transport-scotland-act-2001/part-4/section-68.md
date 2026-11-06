@@ -52,7 +52,7 @@ as may be specified in the order under that subsection.
   - (b) between such places and places outwith, but in the vicinity of, that area; or
   - (c) between places outwith, but in the vicinity of, that area;
 - “**eligible person**”, in relation to a travel concession scheme, means a person who resides in the area covered by the scheme and—
-  - (a) has attained the age of 60 years;[^key-592d925fc586d0c49d770352ddd157b0]
+  - (a) has attained the age of 60 years;[^c-592d925fc586d0c49d770352ddd157b0]
   - (b) suffers from a disability, or injury, of such description as the Scottish Ministers may by order specify; or
   - (c) is of such other description as the Scottish Ministers may by order specify;
 - “**eligible service**” means—
@@ -65,4 +65,4 @@ as may be specified in the order under that subsection.
 
 ## Annotations
 
-[^key-592d925fc586d0c49d770352ddd157b0]: Textual amendment: [Words in s. 68(7)](https://www.legislation.gov.uk/asp/2001/2/section/68/7/a) substituted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 44(2)](https://www.legislation.gov.uk/asp/2003/1/section/44/2), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-592d925fc586d0c49d770352ddd157b0]: Textual amendment: [Words in s. 68(7)](https://www.legislation.gov.uk/asp/2001/2/section/68/7/a) substituted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 44(2)](https://www.legislation.gov.uk/asp/2003/1/section/44/2), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)

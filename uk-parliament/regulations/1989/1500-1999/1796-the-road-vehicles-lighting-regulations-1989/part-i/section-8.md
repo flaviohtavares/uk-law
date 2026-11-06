@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Exemptions—Invalid carriages[^key-e11eaced3884e9318c160b74c635089a]
+## 8. Exemptions—Invalid carriages[^c-e11eaced3884e9318c160b74c635089a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ An invalid carriage having a maximum speed not exceeding 4 mph is required by th
 
 ## Annotations
 
-[^key-e11eaced3884e9318c160b74c635089a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/1796/regulation/8) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-e11eaced3884e9318c160b74c635089a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/1796/regulation/8) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

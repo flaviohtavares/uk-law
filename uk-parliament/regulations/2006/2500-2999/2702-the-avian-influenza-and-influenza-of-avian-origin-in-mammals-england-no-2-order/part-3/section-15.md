@@ -26,7 +26,7 @@ summary: ''
 - (b) other captive birds;
 - (c) eggs;
 - (d) vehicles used to transport poultry, other captive birds, eggs or anything else likely to transmit avian influenza;
-- (e) kept[^key-a425236f2cc1e49a621fef7a76b70b81] mammals.
+- (e) kept[^c-a425236f2cc1e49a621fef7a76b70b81] mammals.
 
 (2) If the Secretary of State bans or restricts the movement of mammals within a temporary movement restriction zone, he must lift the ban or restriction within 72 hours of it being imposed unless (notwithstanding any continuing restrictions on the movement of other things listed in paragraph (1)) he is satisfied that its continuation is necessary to minimise the risk of the spread of avian influenza.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a425236f2cc1e49a621fef7a76b70b81]: Textual amendment: Word in [art. 15(1)(e)](https://www.legislation.gov.uk/uksi/2006/2702/article/15/1/e) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/12)
+[^c-a425236f2cc1e49a621fef7a76b70b81]: Textual amendment: Word in [art. 15(1)(e)](https://www.legislation.gov.uk/uksi/2006/2702/article/15/1/e) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/12)

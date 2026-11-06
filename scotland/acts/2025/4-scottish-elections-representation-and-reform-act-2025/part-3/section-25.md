@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Code of practice on controls relating to third parties[^key-0d1d05f2af54d3354373e603292950b1][^key-87315382471cbb1881850b44d2bf6130]
+## 25. Code of practice on controls relating to third parties[^c-0d1d05f2af54d3354373e603292950b1][^c-87315382471cbb1881850b44d2bf6130]
 
 *Extent: S*
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1d05f2af54d3354373e603292950b1]: Commencement: S. 25 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-0d1d05f2af54d3354373e603292950b1]: Commencement: S. 25 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-87315382471cbb1881850b44d2bf6130]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2025/4/section/25) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-87315382471cbb1881850b44d2bf6130]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2025/4/section/25) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

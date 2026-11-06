@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 382. Power to determine financial circumstances of offender's parent or guardian[^key-3cb8abdbbedab8ba8b8d6336af8f94f6]
+## 382. Power to determine financial circumstances of offender's parent or guardian[^c-3cb8abdbbedab8ba8b8d6336af8f94f6]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ has been fixed under section 82(5) of the Magistrates' Courts Act 1980 (magistra
 
 ## Annotations
 
-[^key-3cb8abdbbedab8ba8b8d6336af8f94f6]: Commencement: S. 382 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3cb8abdbbedab8ba8b8d6336af8f94f6]: Commencement: S. 382 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

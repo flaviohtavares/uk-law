@@ -26,7 +26,7 @@ summary: ''
 
 (3) The relevant authority may, after consultation with Natural England[^c19496201], amend or revoke a limestone pavement order made by the authority; and the Secretary of State may, after such consultation as aforesaid, amend or revoke any such order made by him or that authority but, in the case of an order made by that authority, only after consultation with that authority.
 
-(4) If any person without reasonable excuse removes or disturbs limestone on or in any land designated by a limestone pavement order he shall be liable on summary conviction, or on conviction on indictment, to a fine[^key-93434692ecbe70c728927fc5e0c01956].
+(4) If any person without reasonable excuse removes or disturbs limestone on or in any land designated by a limestone pavement order he shall be liable on summary conviction, or on conviction on indictment, to a fine[^c-93434692ecbe70c728927fc5e0c01956].
 
 (5) It is a reasonable excuse in any event for a person to remove or disturb limestone or cause or permit its removal or disturbance, if the removal or disturbance was authorised by a planning permission granted on an application under Part III of the Town and Country Planning Act 1990[^c4945071]. . . .
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c19496201]: Textual amendment: Words in s. 34(3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107)), {Sch. 11 para. 83(3)}; [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-93434692ecbe70c728927fc5e0c01956]: Textual amendment: Words in s. 34(4) substituted for paras. (4)(a)(b) (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/10/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-93434692ecbe70c728927fc5e0c01956]: Textual amendment: Words in s. 34(4) substituted for paras. (4)(a)(b) (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/10/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c4945071]: Textual amendment: Words in s. 34(5) substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 54(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/54/1)
 

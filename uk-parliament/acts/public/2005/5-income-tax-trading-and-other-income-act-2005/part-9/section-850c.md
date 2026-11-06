@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 850C. Excess profit allocation to non-individual partners[^key-9c7ff51333a0fb38b7d7849897220877][^M_C_b29afecb-8622-42f0-99b6-ac0fb12f2824]
+## 850C. Excess profit allocation to non-individual partners[^c-9c7ff51333a0fb38b7d7849897220877][^M_C_b29afecb-8622-42f0-99b6-ac0fb12f2824]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,6 +127,6 @@ But any increase by virtue of paragraph (b) is not to exceed the amount of the e
 
 ## Annotations
 
-[^key-9c7ff51333a0fb38b7d7849897220877]: Textual amendment: Ss. 850C-850E inserted (retrospective for specified purposes and 6.4.2014 in so far as not already in force and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/7/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)
+[^c-9c7ff51333a0fb38b7d7849897220877]: Textual amendment: Ss. 850C-850E inserted (retrospective for specified purposes and 6.4.2014 in so far as not already in force and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/7/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)
 
 [^M_C_b29afecb-8622-42f0-99b6-ac0fb12f2824]: Modification: S. 850C(4) applied by 2009 c. 4, s. 1264A(1) (as inserted (retrospective for specified purposes and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/10/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11))

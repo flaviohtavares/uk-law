@@ -33,7 +33,7 @@ Animals
 
 Animal Health
 
-The Zoonoses and Animal By-Products (Fees) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-20d256babdc55510aa6c6ff922efc886]
+The Zoonoses and Animal By-Products (Fees) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-20d256babdc55510aa6c6ff922efc886]
 
 Made
 
@@ -43,36 +43,36 @@ Coming into operation
 
 28th August 2010
 
-[^key-20d256babdc55510aa6c6ff922efc886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20d256babdc55510aa6c6ff922efc886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-20d256babdc55510aa6c6ff922efc886]
+## 1. Citation, commencement and interpretation[^c-20d256babdc55510aa6c6ff922efc886]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008[^key-20d256babdc55510aa6c6ff922efc886]
+## 2. Amendment of the Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008[^c-20d256babdc55510aa6c6ff922efc886]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20d256babdc55510aa6c6ff922efc886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20d256babdc55510aa6c6ff922efc886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be substituted for the Schedule to the Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008[^key-20d256babdc55510aa6c6ff922efc886]
+## SCHEDULE — Schedule to be substituted for the Schedule to the Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008[^c-20d256babdc55510aa6c6ff922efc886]
 
 Regulation 2(3)
 
-> **SCHEDULE[^key-20d256babdc55510aa6c6ff922efc886]**
+> **SCHEDULE[^c-20d256babdc55510aa6c6ff922efc886]**
 >
 > Regulation 3
 >
-> **Fees payable to the Department[^key-20d256babdc55510aa6c6ff922efc886]**
+> **Fees payable to the Department[^c-20d256babdc55510aa6c6ff922efc886]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-20d256babdc55510aa6c6ff922efc886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-20d256babdc55510aa6c6ff922efc886]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-20d256babdc55510aa6c6ff922efc886]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/253) revoked (1.4.2011) by [The Zoonoses (Fees) Regulations (Northern Ireland) 2011 (S.R. 2011/71)](https://www.legislation.gov.uk/nisr/2011/71), [regs. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2011/71/regulation/4/3)
+[^c-20d256babdc55510aa6c6ff922efc886]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/253) revoked (1.4.2011) by [The Zoonoses (Fees) Regulations (Northern Ireland) 2011 (S.R. 2011/71)](https://www.legislation.gov.uk/nisr/2011/71), [regs. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2011/71/regulation/4/3)

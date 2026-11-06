@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Determination of application for conversion[^key-f2640d34909308a885d3762bedb65ef8]
+## 57. Determination of application for conversion[^c-f2640d34909308a885d3762bedb65ef8]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ about whether the application should be granted.
 
 ## Annotations
 
-[^key-f2640d34909308a885d3762bedb65ef8]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2005/10/section/57) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(b)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/b)
+[^c-f2640d34909308a885d3762bedb65ef8]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2005/10/section/57) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(b)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/b)

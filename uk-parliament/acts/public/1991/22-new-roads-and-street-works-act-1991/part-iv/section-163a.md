@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163A. Consultation on regulations and codes of practice[^key-7f6d0bfc8fb740e0c0ef4d99cf01c984]
+## 163A. Consultation on regulations and codes of practice[^c-7f6d0bfc8fb740e0c0ef4d99cf01c984]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ as the Scottish Ministers think appropriate.
 
 ## Annotations
 
-[^key-7f6d0bfc8fb740e0c0ef4d99cf01c984]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/1991/22/section/163A) inserted (S.) (1.10.2007) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 39](https://www.legislation.gov.uk/asp/2005/12/section/39), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2007/409](https://www.legislation.gov.uk/ssi/2007/409), [art. 2](https://www.legislation.gov.uk/ssi/2007/409/article/2)
+[^c-7f6d0bfc8fb740e0c0ef4d99cf01c984]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/1991/22/section/163A) inserted (S.) (1.10.2007) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 39](https://www.legislation.gov.uk/asp/2005/12/section/39), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2007/409](https://www.legislation.gov.uk/ssi/2007/409), [art. 2](https://www.legislation.gov.uk/ssi/2007/409/article/2)

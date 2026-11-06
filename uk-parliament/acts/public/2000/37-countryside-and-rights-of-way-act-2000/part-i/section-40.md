@@ -48,16 +48,16 @@ summary: ''
 - (a) for the purpose of determining whether any power conferred on the Forestry Commissioners by Chapter II should be exercised in relation to the land, or
 - (b) in connection with an appeal under any provision of this Part.
 
-(5)[^key-d7c24f927719db895149c850c8b1d084] A person acting in the exercise of a power conferred by this section may—
+(5)[^c-d7c24f927719db895149c850c8b1d084] A person acting in the exercise of a power conferred by this section may—
 
 - (a) use a vehicle to enter the land;
 - (b) take a constable with him if he reasonably believes he is likely to be obstructed;
 - (c) take with him equipment and materials needed for the purpose for which he is exercising the power of entry;
 - (d) take samples of the land and of anything on it.
 
-(6)[^key-d7c24f927719db895149c850c8b1d084] If in the exercise of a power conferred by this section a person enters land which is unoccupied or from which the occupier is temporarily absent, he must on his departure leave it as effectively secured against unauthorised entry as he found it.
+(6)[^c-d7c24f927719db895149c850c8b1d084] If in the exercise of a power conferred by this section a person enters land which is unoccupied or from which the occupier is temporarily absent, he must on his departure leave it as effectively secured against unauthorised entry as he found it.
 
-(7)[^key-d7c24f927719db895149c850c8b1d084] A person authorised under this section to enter upon any land—
+(7)[^c-d7c24f927719db895149c850c8b1d084] A person authorised under this section to enter upon any land—
 
 - (a) shall, if so required, produce evidence of his authority before entering, and
 - (b) shall produce such evidence if required to do so at any time while he remains on the land.
@@ -68,12 +68,12 @@ summary: ''
 - (b) it is not reasonably practicable to give such notice, or
 - (c) the entry is for the purpose specified in subsection (2)(b) and (3)(e).
 
-(9)[^key-fcc4426f1e50895c6f0e13b7b9ef0b74] The rights conferred by this section are not exercisable in relation to a dwelling.
+(9)[^c-fcc4426f1e50895c6f0e13b7b9ef0b74] The rights conferred by this section are not exercisable in relation to a dwelling.
 
-(10)[^key-fcc4426f1e50895c6f0e13b7b9ef0b74] A person who intentionally obstructs a person acting in the exercise of his powers under this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+(10)[^c-fcc4426f1e50895c6f0e13b7b9ef0b74] A person who intentionally obstructs a person acting in the exercise of his powers under this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 ## Annotations
 
-[^key-d7c24f927719db895149c850c8b1d084]: Modification: [S. 40(5)-(7)](https://www.legislation.gov.uk/ukpga/2000/37/section/40/5) applied (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/9/3) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-d7c24f927719db895149c850c8b1d084]: Modification: [S. 40(5)-(7)](https://www.legislation.gov.uk/ukpga/2000/37/section/40/5) applied (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/9/3) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
 
-[^key-fcc4426f1e50895c6f0e13b7b9ef0b74]: Modification: [S. 40(9)](https://www.legislation.gov.uk/ukpga/2000/37/section/40/9)[(10)](https://www.legislation.gov.uk/ukpga/2000/37/section/40/10) applied (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/9/3) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-fcc4426f1e50895c6f0e13b7b9ef0b74]: Modification: [S. 40(9)](https://www.legislation.gov.uk/ukpga/2000/37/section/40/9)[(10)](https://www.legislation.gov.uk/ukpga/2000/37/section/40/10) applied (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/9/3) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

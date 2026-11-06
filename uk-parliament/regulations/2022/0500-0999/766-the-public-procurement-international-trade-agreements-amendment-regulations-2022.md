@@ -46,7 +46,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and extent[^key-00d88ed25a939fbb21db6a92d158df47]
+### 1. Citation, commencement and extent[^c-00d88ed25a939fbb21db6a92d158df47]
 
 (1) These Regulations may be cited as the Public Procurement (International Trade Agreements) (Amendment) Regulations 2022 and come into force on the day after the day they are made.
 
@@ -54,17 +54,17 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 
 ## PART 2 — AMENDMENT OF UNITED KINGDOM SECONDARY LEGISLATION
 
-### 2. Amendments to the Public Contracts Regulations 2015[^key-74f146277a3a119fcc02e741e05abb03]
+### 2. Amendments to the Public Contracts Regulations 2015[^c-74f146277a3a119fcc02e741e05abb03]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments to the Concession Contracts Regulations 2016[^key-74f146277a3a119fcc02e741e05abb03]
+### 3. Amendments to the Concession Contracts Regulations 2016[^c-74f146277a3a119fcc02e741e05abb03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments to the Utilities Contracts Regulations 2016[^key-74f146277a3a119fcc02e741e05abb03]
+### 4. Amendments to the Utilities Contracts Regulations 2016[^c-74f146277a3a119fcc02e741e05abb03]
 
 **No longer in force.**
 
@@ -72,7 +72,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 
 ## PART 3 — AMENDMENT OF SCOTTISH SECONDARY LEGISLATION
 
-### 5. Amendments to the Public Contracts (Scotland) Regulations 2015[^key-56eb2995754817f564a4ccf4b0e5085f]
+### 5. Amendments to the Public Contracts (Scotland) Regulations 2015[^c-56eb2995754817f564a4ccf4b0e5085f]
 
 (1) The Public Contracts (Scotland) Regulations 2015[^f00005] are amended as follows.
 
@@ -88,7 +88,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 
 .
 
-### 6. Amendments to the Utilities Contracts (Scotland) Regulations 2016[^key-f0685338b53e414478692e4954a271c0]
+### 6. Amendments to the Utilities Contracts (Scotland) Regulations 2016[^c-f0685338b53e414478692e4954a271c0]
 
 (1) The Utilities Contracts (Scotland) Regulations 2016[^f00006] are amended as follows.
 
@@ -104,7 +104,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 
 .
 
-### 7. Amendments to the Concession Contracts (Scotland) Regulations 2016[^key-9f20e60f24b12610e5eb81a508b56e3a]
+### 7. Amendments to the Concession Contracts (Scotland) Regulations 2016[^c-9f20e60f24b12610e5eb81a508b56e3a]
 
 (1) The Concession Contracts (Scotland) Regulations 2016[^f00007] are amended as follows.
 
@@ -116,7 +116,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 
 ## PART 4 — TRANSITIONAL ARRANGEMENTS
 
-### 8. Interpretation of Part 4[^key-dad0399e20fcbcc7b6e23a09ab5754e1]
+### 8. Interpretation of Part 4[^c-dad0399e20fcbcc7b6e23a09ab5754e1]
 
 (1) In this Part—
 
@@ -139,7 +139,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, a draft o
 - (g) UK e-notification service;
 - (h) utility.
 
-### 9. Transitional provisions[^key-eb3cb27bbc76c3312801052d47d840a2]
+### 9. Transitional provisions[^c-eb3cb27bbc76c3312801052d47d840a2]
 
 (1) Nothing in these Regulations affects any procurement commenced before these Regulations come into force.
 
@@ -181,22 +181,22 @@ These Regulations also make provision for transitional arrangements, in exercise
 
 [^f00001]: Footnote: [2021 c. 10](https://www.legislation.gov.uk/ukpga/2021/10). See the definition of “international trade agreement” in section 2(2) and the definitions of “appropriate authority” and “free trade agreement” in section 5(1).
 
-[^key-00d88ed25a939fbb21db6a92d158df47]: Commencement: Reg. 1 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
+[^c-00d88ed25a939fbb21db6a92d158df47]: Commencement: Reg. 1 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
 
-[^key-74f146277a3a119fcc02e741e05abb03]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/uksi/2022/766/regulation/2) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-74f146277a3a119fcc02e741e05abb03]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/uksi/2022/766/regulation/2) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
-[^key-56eb2995754817f564a4ccf4b0e5085f]: Commencement: Reg. 5 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
+[^c-56eb2995754817f564a4ccf4b0e5085f]: Commencement: Reg. 5 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), as amended by [S.S.I 2016/47](https://www.legislation.gov.uk/ssi/2016/47), [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468), [S.I. 2021/573](https://www.legislation.gov.uk/uksi/2021/573), [S.I. 2021/787](https://www.legislation.gov.uk/uksi/2021/787), [S.I. 2021/872](https://www.legislation.gov.uk/uksi/2021/872) and [S.S.I. 2021/378](https://www.legislation.gov.uk/ssi/2021/378).
 
-[^key-f0685338b53e414478692e4954a271c0]: Commencement: Reg. 6 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
+[^c-f0685338b53e414478692e4954a271c0]: Commencement: Reg. 6 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
 
 [^f00006]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49), as amended by [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468), [S.I. 2021/573](https://www.legislation.gov.uk/uksi/2021/573), [S.I. 2021/787](https://www.legislation.gov.uk/uksi/2021/787), [S.I. 2021/872](https://www.legislation.gov.uk/uksi/2021/872) and [S.S.I. 2021/378](https://www.legislation.gov.uk/ssi/2021/378).
 
-[^key-9f20e60f24b12610e5eb81a508b56e3a]: Commencement: Reg. 7 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
+[^c-9f20e60f24b12610e5eb81a508b56e3a]: Commencement: Reg. 7 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
 
 [^f00007]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65), as amended by [S.S.I. 2016/125](https://www.legislation.gov.uk/ssi/2016/125), [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468), [S.I. 2021/573](https://www.legislation.gov.uk/uksi/2021/573), [S.I. 2021/787](https://www.legislation.gov.uk/uksi/2021/787), [S.I. 2021/872](https://www.legislation.gov.uk/uksi/2021/872) and [S.S.I. 2021/378](https://www.legislation.gov.uk/ssi/2021/378).
 
-[^key-dad0399e20fcbcc7b6e23a09ab5754e1]: Commencement: Reg. 8 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
+[^c-dad0399e20fcbcc7b6e23a09ab5754e1]: Commencement: Reg. 8 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
 
-[^key-eb3cb27bbc76c3312801052d47d840a2]: Commencement: Reg. 9 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)
+[^c-eb3cb27bbc76c3312801052d47d840a2]: Commencement: Reg. 9 in force at 27.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1)

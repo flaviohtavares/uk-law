@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 65. Exclusive right to burial places[^key-0f3c92c9db9e3c3d499dec597ef576bb]
+## 65. Exclusive right to burial places[^c-0f3c92c9db9e3c3d499dec597ef576bb]
 
 *Extent: E*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f3c92c9db9e3c3d499dec597ef576bb]: Commencement: [S. 65](https://www.legislation.gov.uk/ukcm/2018/3/section/65) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-0f3c92c9db9e3c3d499dec597ef576bb]: Commencement: [S. 65](https://www.legislation.gov.uk/ukcm/2018/3/section/65) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

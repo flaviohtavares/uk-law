@@ -214,7 +214,7 @@ the planning authority shall, within five days of receiving it, commence any app
 
 (4) In this paragraph “**appropriate consultation**” means—
 
-- (a)[^key-3b84526b789e3f26a4b4bf592070d68d] where the authority consider that nature conservation or the conservation of the natural beauty and amenity of the countryside may be affected, Natural England;
+- (a)[^c-3b84526b789e3f26a4b4bf592070d68d] where the authority consider that nature conservation or the conservation of the natural beauty and amenity of the countryside may be affected, Natural England;
 - (c) where they consider that a site of archaeological or historic interest may be affected, consultation with the Historic Buildings and Monuments Commission for England.
 
 ### Approvals: supplementary
@@ -253,4 +253,4 @@ the provisions of this paragraph shall apply in relation to the request as if th
 
 ## Annotations
 
-[^key-3b84526b789e3f26a4b4bf592070d68d]: Textual amendment: Sch. 3 para. 17(4)(a) substituted for Sch. 3 para. 17(4)(a)(b) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 109](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/109); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-3b84526b789e3f26a4b4bf592070d68d]: Textual amendment: Sch. 3 para. 17(4)(a) substituted for Sch. 3 para. 17(4)(a)(b) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 109](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/109); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

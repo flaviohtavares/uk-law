@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 395A(1), (3), (4) and (5) of the Sentencing Act 2020[^f00001]:
 
-## 1. Citation, commencement and extent[^key-c56dc32ba30932bb3d401e0bba397ccb]
+## 1. Citation, commencement and extent[^c-c56dc32ba30932bb3d401e0bba397ccb]
 
 (1) These Regulations may be cited as the Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2024.
 
@@ -54,20 +54,20 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations come into force on 14th June 2024.
 
-## 2. Special procedures for community and suspended sentence orders[^key-624c0dff02ec04bef3305732e1116b62]
+## 2. Special procedures for community and suspended sentence orders[^c-624c0dff02ec04bef3305732e1116b62]
 
 A community order[^f00002] or suspended sentence order[^f00003] qualifies for special procedures for the purposes of a relevant provision[^f00004] if the following four conditions are met.
 
-**3.**[^key-8ce363835cae6bc49d92e8fecb4248d0] The first condition is that the proposed order is made within the period beginning with the day on which these Regulations come into force and ending with 31st March 2029[^key-5f52313934eb713e43d12dc08ace3eca].
+**3.**[^c-8ce363835cae6bc49d92e8fecb4248d0] The first condition is that the proposed order is made within the period beginning with the day on which these Regulations come into force and ending with 31st March 2029[^c-5f52313934eb713e43d12dc08ace3eca].
 
-**4.**[^key-4d2c623857b66c17bc8a5248382b3117] The second condition is that the court making the order is the Crown Court sitting at Bristol.
+**4.**[^c-4d2c623857b66c17bc8a5248382b3117] The second condition is that the court making the order is the Crown Court sitting at Bristol.
 
-**5.**[^key-33c2bb80a2de603b1b0c7e64e177308e] The third condition is that the person who is to be subject to the order is—
+**5.**[^c-33c2bb80a2de603b1b0c7e64e177308e] The third condition is that the person who is to be subject to the order is—
 
 - (a) a person aged 18 or over at the date of conviction of the offence to which the order relates; and
 - (b) not a relevant offender as defined at section 80(2) of the Sexual Offences Act 2003[^f00005] at the date of conviction of the offence to which the order relates.
 
-**6.**[^key-c29328bd4f48fef91b4d41992fa10a6a] Subject to regulation 7, the fourth condition is that none of the offences to which the proposed order relates is—
+**6.**[^c-c29328bd4f48fef91b4d41992fa10a6a] Subject to regulation 7, the fourth condition is that none of the offences to which the proposed order relates is—
 
 - (a) an offence under section 1 or section 1A of the Prevention of Crime Act 1953[^f00006];
 - (b) an offence under Part 1 of the Firearms Act 1968[^f00007];
@@ -75,7 +75,7 @@ A community order[^f00002] or suspended sentence order[^f00003] qualifies for sp
 - (d) an offence under section 6 of the Offensive Weapons Act 2019[^f00009]; or
 - (e) an offence listed in paragraphs 1 to 35C of Schedule 3 to the Sexual Offences Act 2003[^f00010].
 
-**7.**[^key-90349bac64c359a03f8d226aeb5e2bba] But the fourth condition will be met where—
+**7.**[^c-90349bac64c359a03f8d226aeb5e2bba] But the fourth condition will be met where—
 
 - (a) any of the offences to which the order relates is an offence under section 1 of the Prevention of Crime Act 1953 or section 139 or 139A of the Criminal Justice Act 1988;
 - (b) the person who is to be subject to the order has not previously been convicted of an offence mentioned in sub-paragraphs (a) to (d) of regulation 6; and
@@ -111,9 +111,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17). Section 395A was inserted by section 153 of, and paragraphs 1 and 2 of Schedule 14 to, the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 
-[^key-c56dc32ba30932bb3d401e0bba397ccb]: Commencement: Reg. 1 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-c56dc32ba30932bb3d401e0bba397ccb]: Commencement: Reg. 1 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
 
-[^key-624c0dff02ec04bef3305732e1116b62]: Commencement: Reg. 2 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-624c0dff02ec04bef3305732e1116b62]: Commencement: Reg. 2 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
 
 [^f00002]: Footnote: See section 200(1) of the Sentencing Act 2020 for the meaning of “community order”.
 
@@ -121,17 +121,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: See section 395A(2) of the Sentencing Act 2020 for the meaning of “relevant provision”.
 
-[^key-8ce363835cae6bc49d92e8fecb4248d0]: Commencement: Reg. 3 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-8ce363835cae6bc49d92e8fecb4248d0]: Commencement: Reg. 3 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
 
-[^key-5f52313934eb713e43d12dc08ace3eca]: Textual amendment: Words in reg. 3 substituted (13.12.2025) by [The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) (Amendment) Regulations 2025 (S.I. 2025/1207)](https://www.legislation.gov.uk/uksi/2025/1207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1207/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1207/regulation/3)
+[^c-5f52313934eb713e43d12dc08ace3eca]: Textual amendment: Words in reg. 3 substituted (13.12.2025) by [The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) (Amendment) Regulations 2025 (S.I. 2025/1207)](https://www.legislation.gov.uk/uksi/2025/1207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1207/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1207/regulation/3)
 
-[^key-4d2c623857b66c17bc8a5248382b3117]: Commencement: Reg. 4 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-4d2c623857b66c17bc8a5248382b3117]: Commencement: Reg. 4 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
 
-[^key-33c2bb80a2de603b1b0c7e64e177308e]: Commencement: Reg. 5 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-33c2bb80a2de603b1b0c7e64e177308e]: Commencement: Reg. 5 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
 
 [^f00005]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-c29328bd4f48fef91b4d41992fa10a6a]: Commencement: Reg. 6 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-c29328bd4f48fef91b4d41992fa10a6a]: Commencement: Reg. 6 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
 
 [^f00006]: Footnote: [1953 c. 14](https://www.legislation.gov.uk/ukpga/1953/14). Section 1 was amended by section 46(1) and (3) of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 32(2) of the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 2(1) and (4) of the Offensive Weapons Act [1996 (c. 26)](https://www.legislation.gov.uk/ukpga/1996/26), section 32(1) of the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), sections 410 and 413 of, paragraph 6 of Schedule 24 to, and Schedule 28 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), section 28(1) and (2) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), section 119 of, and Part 1 of Schedule 7 to, the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), and section 40(2) of, and paragraph 2 of Schedule 2 to, the Public Order Act [1986 (c. 64)](https://www.legislation.gov.uk/ukpga/1986/64). Section 1A was inserted by section 142(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) and was amended by section 50(1) to (3) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
@@ -143,4 +143,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00010]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42). Schedule 3 was amended by section 85(1) of, and paragraphs 66(1) to (3) of Schedule 4 to, the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [S.I. 2007/296](https://www.legislation.gov.uk/uksi/2007/296), section 1(1) and (4) of the Voyeurism (Offences) Act [2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), section 177(1) of, and paragraph 62(1) and (2) of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), section 148(1) of, and paragraphs 53 and 58(1) of Schedule 26 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), section 63(2) of, and paragraph 63(1) and (2) of Schedule 6 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 410 of, and paragraphs 205 and 216 of Schedule 24 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 
-[^key-90349bac64c359a03f8d226aeb5e2bba]: Commencement: Reg. 7 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)
+[^c-90349bac64c359a03f8d226aeb5e2bba]: Commencement: Reg. 7 in force at 14.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/654/regulation/1/3)

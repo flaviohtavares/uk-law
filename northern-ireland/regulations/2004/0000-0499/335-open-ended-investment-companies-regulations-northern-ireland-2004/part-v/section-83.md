@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Minor and consequential amendments[^key-5fcd15e98ad671a6b71a7549078248e8]
+## 83. Minor and consequential amendments[^c-5fcd15e98ad671a6b71a7549078248e8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The provisions mentioned in Schedule 7 shall have effect subject to the amendmen
 
 ## Annotations
 
-[^key-5fcd15e98ad671a6b71a7549078248e8]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2004/335/regulation/83) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-5fcd15e98ad671a6b71a7549078248e8]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2004/335/regulation/83) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Sanctions[^key-99318d1e35905ba8fcee9d643534697f]
+## 67. Sanctions[^c-99318d1e35905ba8fcee9d643534697f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99318d1e35905ba8fcee9d643534697f]: Commencement: Reg. 67 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-99318d1e35905ba8fcee9d643534697f]: Commencement: Reg. 67 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

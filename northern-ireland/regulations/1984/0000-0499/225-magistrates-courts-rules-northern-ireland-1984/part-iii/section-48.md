@@ -28,13 +28,13 @@ summary: ''
 
 (4) The district judge (magistrates’ court) or lay magistrate taking the deposition shall cause it to be transmitted with his statement under paragraph (3)—
 
-- (a) if the deposition is taken under Article 41 of the Order and relates to an offence for which the accused is already committed for trial, to the chief clerk [^key-b03901ab29ddb879d7b1cb00260471d7]...; or
-- (b) in any other case, to the clerk of petty sessions[^key-5a5f1c82f391405c275b031a7b9d83b2].
+- (a) if the deposition is taken under Article 41 of the Order and relates to an offence for which the accused is already committed for trial, to the chief clerk [^c-b03901ab29ddb879d7b1cb00260471d7]...; or
+- (b) in any other case, to the clerk of petty sessions[^c-5a5f1c82f391405c275b031a7b9d83b2].
 
 ## Annotations
 
 [^f00134]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
 
-[^key-b03901ab29ddb879d7b1cb00260471d7]: Textual amendment: Words in [rule 48(4)(a)](https://www.legislation.gov.uk/nisr/1984/225/rule/48/4/a) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2016/304/article/3/11/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b03901ab29ddb879d7b1cb00260471d7]: Textual amendment: Words in [rule 48(4)(a)](https://www.legislation.gov.uk/nisr/1984/225/rule/48/4/a) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2016/304/article/3/11/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5a5f1c82f391405c275b031a7b9d83b2]: Textual amendment: Words in [rule 48(4)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/48/4/b) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(11)(b)](https://www.legislation.gov.uk/nisr/2016/304/article/3/11/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5a5f1c82f391405c275b031a7b9d83b2]: Textual amendment: Words in [rule 48(4)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/48/4/b) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(11)(b)](https://www.legislation.gov.uk/nisr/2016/304/article/3/11/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

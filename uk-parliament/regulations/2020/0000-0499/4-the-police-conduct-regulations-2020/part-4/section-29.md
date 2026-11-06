@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Role of chair of misconduct hearing[^key-29a5bdbc9f841ad4bbc9d1d8a1897e23]
+## 29. Role of chair of misconduct hearing[^c-29a5bdbc9f841ad4bbc9d1d8a1897e23]
 
 *Extent: E+W*
 
-(1) The chair of the panel constituted[^key-69974c264192c88e2aa5d6cc67ff02a6] under regulation 28 or the person to whom the responsibility for chairing the hearing has been delegated under regulation 2(4A)[^key-34ff5c56c4a1a83570d0867428ceb131] must take appropriate action to ensure the efficient and effective bringing of the proceedings and that they are conducted in a timely, fair and transparent manner.
+(1) The chair of the panel constituted[^c-69974c264192c88e2aa5d6cc67ff02a6] under regulation 28 or the person to whom the responsibility for chairing the hearing has been delegated under regulation 2(4A)[^c-34ff5c56c4a1a83570d0867428ceb131] must take appropriate action to ensure the efficient and effective bringing of the proceedings and that they are conducted in a timely, fair and transparent manner.
 
 (2) In particular, and subject to paragraph (6)(a), the chair must ensure that the first day of the misconduct hearing is not more than 100 working days beginning with the day after the date on which notice is given under regulation 30(1).
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-29a5bdbc9f841ad4bbc9d1d8a1897e23]: Commencement: Reg. 29 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-29a5bdbc9f841ad4bbc9d1d8a1897e23]: Commencement: Reg. 29 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-69974c264192c88e2aa5d6cc67ff02a6]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2020/4/regulation/29/1) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/4/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-69974c264192c88e2aa5d6cc67ff02a6]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2020/4/regulation/29/1) substituted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/4/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-34ff5c56c4a1a83570d0867428ceb131]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2020/4/regulation/29/1) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-34ff5c56c4a1a83570d0867428ceb131]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2020/4/regulation/29/1) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

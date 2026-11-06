@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3C. Modification of the Mining Waste Directive[^key-b50d4452511dac0092d974be3d31a29e]
+## 3C. Modification of the Mining Waste Directive[^c-b50d4452511dac0092d974be3d31a29e]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 (11) Article 12 is to be read as if—
 
 - (a) in paragraph 4, “national or Community” were omitted;
-- (b) in paragraph 5, for the words from “Community” to “2000/60/EC” there were substituted “ assimilated[^key-5959bd71ab23f96ba753946588bdc406] law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of England and Wales ”.
+- (b) in paragraph 5, for the words from “Community” to “2000/60/EC” there were substituted “ assimilated[^c-5959bd71ab23f96ba753946588bdc406] law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of England and Wales ”.
 
 (12) Article 13 is to be read as if—
 
@@ -79,7 +79,7 @@ summary: ''
 - (b) in paragraph 3, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) or [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
 - (c) in paragraph 4, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
 - (d) in paragraph 5, in the second sentence—
-  - (i) for “Community” there were substituted “ assimilated[^key-a207a8a0d7cfd3d90d2ef750ba0577e0] law ”;
+  - (i) for “Community” there were substituted “ assimilated[^c-a207a8a0d7cfd3d90d2ef750ba0577e0] law ”;
   - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
 
 (13) Article 24(4) is to be read as if, in the second indent “Community or” were omitted.
@@ -91,8 +91,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b50d4452511dac0092d974be3d31a29e]: Textual amendment: Regs. 3A-3E inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) (as amended by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/a) and [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2/3), [11(2)(10)(b)-(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b50d4452511dac0092d974be3d31a29e]: Textual amendment: Regs. 3A-3E inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) (as amended by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/a) and [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2/3), [11(2)(10)(b)-(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5959bd71ab23f96ba753946588bdc406]: Textual amendment: Word in [reg. 3C(11)(b)](https://www.legislation.gov.uk/uksi/2011/988/regulation/3C/11/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 22(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/22/a)
+[^c-5959bd71ab23f96ba753946588bdc406]: Textual amendment: Word in [reg. 3C(11)(b)](https://www.legislation.gov.uk/uksi/2011/988/regulation/3C/11/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 22(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/22/a)
 
-[^key-a207a8a0d7cfd3d90d2ef750ba0577e0]: Textual amendment: Word in [reg. 3C(12)(d)(i)](https://www.legislation.gov.uk/uksi/2011/988/regulation/3C/12/d/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 22(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/22/a)
+[^c-a207a8a0d7cfd3d90d2ef750ba0577e0]: Textual amendment: Word in [reg. 3C(12)(d)(i)](https://www.legislation.gov.uk/uksi/2011/988/regulation/3C/12/d/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 22(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/22/a)

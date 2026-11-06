@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Transitional provision: prior obligations[^key-77ff3da93620c9a44443a8ea0c130fe8]
+## 86. Transitional provision: prior obligations[^c-77ff3da93620c9a44443a8ea0c130fe8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ any reference in a provision mentioned in paragraph (3) to the date on which a p
 (3) The provisions referred to in paragraphs (1) and (2) are—
 
 - (a) regulation 43(5) (finance: exceptions from prohibitions), and
-- (b) paragraph 6A(b)(i)[^key-2134bd092837d940e103e1608d492808] of Schedule 3 (Treasury licences: purposes).
+- (b) paragraph 6A(b)(i)[^c-2134bd092837d940e103e1608d492808] of Schedule 3 (Treasury licences: purposes).
 
 (4) In this regulation—
 
@@ -43,6 +43,6 @@ any reference in a provision mentioned in paragraph (3) to the date on which a p
 
 ## Annotations
 
-[^key-77ff3da93620c9a44443a8ea0c130fe8]: Commencement: Reg. 86 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-77ff3da93620c9a44443a8ea0c130fe8]: Commencement: Reg. 86 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
-[^key-2134bd092837d940e103e1608d492808]: Textual amendment: Word in [reg. 86(3)(b)](https://www.legislation.gov.uk/uksi/2020/642/regulation/86/3/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(12)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/12)
+[^c-2134bd092837d940e103e1608d492808]: Textual amendment: Word in [reg. 86(3)(b)](https://www.legislation.gov.uk/uksi/2020/642/regulation/86/3/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(12)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/12)

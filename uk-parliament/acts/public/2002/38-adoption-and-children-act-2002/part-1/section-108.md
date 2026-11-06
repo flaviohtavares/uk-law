@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Channel Islands and the Isle of Man[^key-4a67a52adcebcac9dea74534c5c4f08e]
+## 108. Channel Islands and the Isle of Man[^c-4a67a52adcebcac9dea74534c5c4f08e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a67a52adcebcac9dea74534c5c4f08e]: Commencement: S. 108 in force at 7.12.2004 by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/k)
+[^c-4a67a52adcebcac9dea74534c5c4f08e]: Commencement: S. 108 in force at 7.12.2004 by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/k)

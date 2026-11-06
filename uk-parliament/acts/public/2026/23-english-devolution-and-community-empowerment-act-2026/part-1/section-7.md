@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Combined authorities and CCAs: powers not limited by other provision or powers[^key-8d05b13667ec2cf0cd55be93378d07fe]
+## 7. Combined authorities and CCAs: powers not limited by other provision or powers[^c-8d05b13667ec2cf0cd55be93378d07fe]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d05b13667ec2cf0cd55be93378d07fe]: Commencement: S. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-8d05b13667ec2cf0cd55be93378d07fe]: Commencement: S. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Prisoners returning to the UK: Modifications of Criminal Justice Act 2003[^key-93ccda34c8cc812698c539d9d1fbec45][^key-41f41d560bf5c95728b5ac863ba6f1f6]
+## SCHEDULE 8 — Prisoners returning to the UK: Modifications of Criminal Justice Act 2003[^c-93ccda34c8cc812698c539d9d1fbec45][^c-41f41d560bf5c95728b5ac863ba6f1f6]
 
 *Extent: E+W+S+N.I.*
 
 Section 47(11)
 
-[^key-41f41d560bf5c95728b5ac863ba6f1f6]This is the Schedule to be inserted after Schedule 19A to the Criminal Justice Act 2003—
+[^c-41f41d560bf5c95728b5ac863ba6f1f6]This is the Schedule to be inserted after Schedule 19A to the Criminal Justice Act 2003—
 
 > **SCHEDULE 19B — Prisoners returning to the UK: Modifications of Chapter 6 of Part 12**
 >
@@ -74,6 +74,6 @@ Section 47(11)
 
 ## Annotations
 
-[^key-93ccda34c8cc812698c539d9d1fbec45]: Commencement: Sch. 8 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-93ccda34c8cc812698c539d9d1fbec45]: Commencement: Sch. 8 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-41f41d560bf5c95728b5ac863ba6f1f6]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/8) in force at 28.6.2022 for E.W. by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))
+[^c-41f41d560bf5c95728b5ac863ba6f1f6]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/8) in force at 28.6.2022 for E.W. by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Strategy for exercise of functions[^key-8614102b207fa8b0a12aafa76a113b3a]
+## 6. Strategy for exercise of functions[^c-8614102b207fa8b0a12aafa76a113b3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8614102b207fa8b0a12aafa76a113b3a]: Commencement: Reg. 6 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8614102b207fa8b0a12aafa76a113b3a]: Commencement: Reg. 6 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

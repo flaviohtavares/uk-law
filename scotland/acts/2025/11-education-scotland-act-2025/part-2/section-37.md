@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Purpose of inspection[^key-37fb5e850d44a52674da120e9b1fc805][^key-fd9d634af2c5e795e1d927e0dca20035]
+## 37. Purpose of inspection[^c-37fb5e850d44a52674da120e9b1fc805][^c-fd9d634af2c5e795e1d927e0dca20035]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37fb5e850d44a52674da120e9b1fc805]: Commencement: S. 37 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-37fb5e850d44a52674da120e9b1fc805]: Commencement: S. 37 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-fd9d634af2c5e795e1d927e0dca20035]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/11/section/37) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-fd9d634af2c5e795e1d927e0dca20035]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/11/section/37) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

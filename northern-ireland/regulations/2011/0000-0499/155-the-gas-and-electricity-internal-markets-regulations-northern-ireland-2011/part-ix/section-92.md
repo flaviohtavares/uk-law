@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Modification of existing gas licences[^key-ae15bb79cb89c3f27cc3fa842273ba0e]
+## 92. Modification of existing gas licences[^c-ae15bb79cb89c3f27cc3fa842273ba0e]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ an existing licence as the Department or the Authority, as the case may be, cons
 
 ## Annotations
 
-[^key-ae15bb79cb89c3f27cc3fa842273ba0e]: Commencement: Reg. 92 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-ae15bb79cb89c3f27cc3fa842273ba0e]: Commencement: Reg. 92 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

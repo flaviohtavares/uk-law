@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — STREETS TO BE STOPPED UP[^key-e2b57936636a8ff7922f2560f13ebec6]
+## SCHEDULE 6 — STREETS TO BE STOPPED UP[^c-e2b57936636a8ff7922f2560f13ebec6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Article 13
 
 ## Annotations
 
-[^key-e2b57936636a8ff7922f2560f13ebec6]: Commencement: Sch. 6 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-e2b57936636a8ff7922f2560f13ebec6]: Commencement: Sch. 6 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

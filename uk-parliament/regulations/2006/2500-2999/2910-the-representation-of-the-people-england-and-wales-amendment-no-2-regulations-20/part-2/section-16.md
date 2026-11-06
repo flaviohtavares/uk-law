@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Amendments to references to names[^key-71ec5f8a9501bae4a34447c904b07ed1]
+## 16. Amendments to references to names[^c-71ec5f8a9501bae4a34447c904b07ed1]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulations 42, 62 and 111(7)[^f00033], wherever it occurs, for “name” su
 
 ## Annotations
 
-[^key-71ec5f8a9501bae4a34447c904b07ed1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2910/regulation/16) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-71ec5f8a9501bae4a34447c904b07ed1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2910/regulation/16) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00033]: Footnote: Regulation 111 was inserted by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871) and amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752)

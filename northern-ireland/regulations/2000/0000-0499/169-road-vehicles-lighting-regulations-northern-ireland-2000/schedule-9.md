@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 21, 23 and 25
 
-### Part I — Requirements Relating to Obligatory Side Marker Lamps and to Optional Side Marker Lamps to the Extent Specified in Part II[^key-f724f581f1279c9bf8804da38aa107e2]
+### Part I — Requirements Relating to Obligatory Side Marker Lamps and to Optional Side Marker Lamps to the Extent Specified in Part II[^c-f724f581f1279c9bf8804da38aa107e2]
 
 |  |  |
 | --- | --- |
@@ -55,12 +55,12 @@ Regulations 21, 23 and 25
 | *Extent: E+W+S+N.I.*<br>**10.** Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.** Tell-tale: | No requirement |
 
-### Part II — Requirements Relating to Optional Side Marker Lamps[^key-73c150688784ca17c9ce1ecbb684f88b]
+### Part II — Requirements Relating to Optional Side Marker Lamps[^c-73c150688784ca17c9ce1ecbb684f88b]
 
 Any number may be fitted and the only requirement prescribed by these Regulations in respect of any which are fitted is that specified in paragraph 7 of Part I.
 
 ## Annotations
 
-[^key-f724f581f1279c9bf8804da38aa107e2]: Commencement: [Sch. 9 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/9/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-f724f581f1279c9bf8804da38aa107e2]: Commencement: [Sch. 9 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/9/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-73c150688784ca17c9ce1ecbb684f88b]: Commencement: [Sch. 9 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/9/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-73c150688784ca17c9ce1ecbb684f88b]: Commencement: [Sch. 9 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/9/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

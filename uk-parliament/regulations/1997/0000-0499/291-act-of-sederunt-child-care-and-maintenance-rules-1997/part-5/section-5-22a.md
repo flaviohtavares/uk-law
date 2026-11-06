@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.22A. Representations or evidence by payer residing in the USA[^key-97e438fc607e0e7b34c805b62c536c55]
+## 5.22A. Representations or evidence by payer residing in the USA[^c-97e438fc607e0e7b34c805b62c536c55]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97e438fc607e0e7b34c805b62c536c55]: Textual amendment: Rules 5.22A, 5.22B inserted (2.3.2009) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment 2009 (S.S.I. 2009/29)](https://www.legislation.gov.uk/ssi/2009/29), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/2/7)
+[^c-97e438fc607e0e7b34c805b62c536c55]: Textual amendment: Rules 5.22A, 5.22B inserted (2.3.2009) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment 2009 (S.S.I. 2009/29)](https://www.legislation.gov.uk/ssi/2009/29), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2009/29/paragraph/2/7)

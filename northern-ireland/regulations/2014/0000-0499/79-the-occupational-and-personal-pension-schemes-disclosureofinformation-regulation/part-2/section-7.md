@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Basic scheme information to be given by certain schemes[^key-ac15eaeda2e7f7a3e8f44678879a911b]
+## 7. Basic scheme information to be given by certain schemes[^c-ac15eaeda2e7f7a3e8f44678879a911b]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac15eaeda2e7f7a3e8f44678879a911b]: Commencement: Reg. 7 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-ac15eaeda2e7f7a3e8f44678879a911b]: Commencement: Reg. 7 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

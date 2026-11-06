@@ -53,11 +53,11 @@ Remainder
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 19(1A), (3), (4A) and (8), 20(2), (3) and (4), 21(3), 24, 25, 34(5), 35(4) and (5), 36(4) and (5), and 210(7) of the Education Act 2002[^f00001].
 
-## 1. Citation and commencement[^key-f4c6aef5fb0607905cb24fa2767a58ed]
+## 1. Citation and commencement[^c-f4c6aef5fb0607905cb24fa2767a58ed]
 
-These Regulations may be cited as the School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 and come into force on 1st September 2014 except for regulations 2(2) and (3), and 3(2), (3) and (4)[^key-d6ab05fb1b369553e56946eeb8031d15], which come into force on 1st September 2015.
+These Regulations may be cited as the School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 and come into force on 1st September 2014 except for regulations 2(2) and (3), and 3(2), (3) and (4)[^c-d6ab05fb1b369553e56946eeb8031d15], which come into force on 1st September 2015.
 
-## 2. Amendments to the School Governance (Constitution) (England) Regulations 2012 and revocation of the School Governance (Constitution) (England) Regulations 2007[^M_I_f74fc92d-d4e0-4ad3-e7ed-acfec63a530c][^key-d7cd3b5d7f673c10333eb678da479d57]
+## 2. Amendments to the School Governance (Constitution) (England) Regulations 2012 and revocation of the School Governance (Constitution) (England) Regulations 2007[^M_I_f74fc92d-d4e0-4ad3-e7ed-acfec63a530c][^c-d7cd3b5d7f673c10333eb678da479d57]
 
 (1) The School Governance (Constitution) (England) Regulations 2012[^f00002] are amended as follows.
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the School Governance (Constitution and Federa
 
 .
 
-## 3. Amendments to the School Governance (Federations) (England) Regulations 2012 and revocation of the School Governance (Federations) (England) Regulations 2007[^M_C_81774a6e-6b25-43f6-f2ec-3feaea657720][^key-bc48cd98f92330440ddf3ad4b54be045]
+## 3. Amendments to the School Governance (Federations) (England) Regulations 2012 and revocation of the School Governance (Federations) (England) Regulations 2007[^M_C_81774a6e-6b25-43f6-f2ec-3feaea657720][^c-bc48cd98f92330440ddf3ad4b54be045]
 
 (1) The School Governance (Federations) (England) Regulations 2012[^f00003] are amended as follows.
 
@@ -212,7 +212,7 @@ These Regulations may be cited as the School Governance (Constitution and Federa
 
   .
 
-## 4. Amendment to the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013[^key-a26e6adf68280316ca8515645bd659d8]
+## 4. Amendment to the School Governance (Roles, Procedures and Allowances) (England) Regulations 2013[^c-a26e6adf68280316ca8515645bd659d8]
 
 (1) The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013[^f00005] are amended as follows.
 
@@ -254,7 +254,7 @@ These Regulations may be cited as the School Governance (Constitution and Federa
 
 (6) In paragraphs 1(2), 2(2) and 3(3) of Schedule 1, for “regulation 16(b)” substitute “regulation 16(2)”.
 
-## 5. Amendments to the School Governance (Constitution) (England) Regulations 2007 and the School Governance (Constitution) (England) Regulations 2012[^key-f7dcfdc8bae2a4c5e11ec105e1082816]
+## 5. Amendments to the School Governance (Constitution) (England) Regulations 2007 and the School Governance (Constitution) (England) Regulations 2012[^c-f7dcfdc8bae2a4c5e11ec105e1082816]
 
 After paragraph 9(ba) of Schedule 6 to the School Governance (Constitution) (England) Regulations 2007[^f00008], insert—
 
@@ -262,7 +262,7 @@ After paragraph 9(ba) of Schedule 6 to the School Governance (Constitution) (Eng
 
 .
 
-**6.**[^key-25e8495b7a44b014ad1e08127f9fc7e3] After paragraph 13(b) of Schedule 4 to the School Governance (Constitution) (England) Regulations 2012, insert—
+**6.**[^c-25e8495b7a44b014ad1e08127f9fc7e3] After paragraph 13(b) of Schedule 4 to the School Governance (Constitution) (England) Regulations 2012, insert—
 
 > - (ba) subject to a direction of the Secretary of State under section 128 of the Education and Skills Act 2008;
 
@@ -296,25 +296,25 @@ Regulations 5 and 6 amend the Constitution Regulations 2007 (until they are full
 
 [^f00001]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Section 19 was amended by [S.I. 2010/1198](https://www.legislation.gov.uk/uksi/2010/1198) and subsections (1A) and (4A) of section 19 were inserted by section 38 of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-f4c6aef5fb0607905cb24fa2767a58ed]: Commencement: Reg. 1 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+[^c-f4c6aef5fb0607905cb24fa2767a58ed]: Commencement: Reg. 1 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
 
-[^key-d6ab05fb1b369553e56946eeb8031d15]: Textual amendment: Words in reg. 1 substituted (31.8.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1959)](https://www.legislation.gov.uk/uksi/2014/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2)
+[^c-d6ab05fb1b369553e56946eeb8031d15]: Textual amendment: Words in reg. 1 substituted (31.8.2014) by [The School Governance (Constitution and Federations) (England) (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1959)](https://www.legislation.gov.uk/uksi/2014/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2)
 
 [^M_I_f74fc92d-d4e0-4ad3-e7ed-acfec63a530c]: Commencement: Reg. 2(1)(4)-(9) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
 
-[^key-d7cd3b5d7f673c10333eb678da479d57]: Commencement: Reg. 2(2)(3) in force at 1.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
+[^c-d7cd3b5d7f673c10333eb678da479d57]: Commencement: Reg. 2(2)(3) in force at 1.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
 
 [^f00002]: Footnote: [S.I. 2012/1034](https://www.legislation.gov.uk/uksi/2012/1034).
 
 [^M_C_81774a6e-6b25-43f6-f2ec-3feaea657720]: Commencement: Reg. 3(1)(5)-(12) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
 
-[^key-bc48cd98f92330440ddf3ad4b54be045]: Commencement: Reg. 3(2)-(4) in force at 1.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
+[^c-bc48cd98f92330440ddf3ad4b54be045]: Commencement: Reg. 3(2)-(4) in force at 1.9.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1) (as amended by [S.I. 2014/1959](https://www.legislation.gov.uk/uksi/2014/1959), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/1959/regulation/2/2))
 
 [^f00003]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
 
 [^f00004]: Footnote: [S.I. 2007/960](https://www.legislation.gov.uk/uksi/2007/960).
 
-[^key-a26e6adf68280316ca8515645bd659d8]: Commencement: Reg. 4 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+[^c-a26e6adf68280316ca8515645bd659d8]: Commencement: Reg. 4 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2013/1624](https://www.legislation.gov.uk/uksi/2013/1624).
 
@@ -322,10 +322,10 @@ Regulations 5 and 6 amend the Constitution Regulations 2007 (until they are full
 
 [^f00007]: Footnote: [S.I. 2012/1035](https://www.legislation.gov.uk/uksi/2012/1035).
 
-[^key-f7dcfdc8bae2a4c5e11ec105e1082816]: Commencement: Reg. 5 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+[^c-f7dcfdc8bae2a4c5e11ec105e1082816]: Commencement: Reg. 5 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2007/957](https://www.legislation.gov.uk/uksi/2007/957).
 
 [^f00009]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
 
-[^key-25e8495b7a44b014ad1e08127f9fc7e3]: Commencement: Reg. 6 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)
+[^c-25e8495b7a44b014ad1e08127f9fc7e3]: Commencement: Reg. 6 in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Police
 
-The Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) (Amendment) Order 2018 (revoked)[^key-f5f233f33b0b7c38e26502077496e203]
+The Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) (Amendment) Order 2018 (revoked)[^c-f5f233f33b0b7c38e26502077496e203]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 30th October 2018
 
-[^key-f5f233f33b0b7c38e26502077496e203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5f233f33b0b7c38e26502077496e203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f5f233f33b0b7c38e26502077496e203]
+## 1. Citation and commencement[^c-f5f233f33b0b7c38e26502077496e203]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) Order 2013[^key-f5f233f33b0b7c38e26502077496e203]
+## 2. Amendment of the Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) Order 2013[^c-f5f233f33b0b7c38e26502077496e203]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5f233f33b0b7c38e26502077496e203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5f233f33b0b7c38e26502077496e203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5f233f33b0b7c38e26502077496e203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5f233f33b0b7c38e26502077496e203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f5f233f33b0b7c38e26502077496e203]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/657) revoked (30.10.2022) by [The Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) (Amendment) Order 2022 (S.I. 2022/1022)](https://www.legislation.gov.uk/uksi/2022/1022), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1022/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2022/1022/article/4/1)
+[^c-f5f233f33b0b7c38e26502077496e203]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/657) revoked (30.10.2022) by [The Protection of Freedoms Act 2012 (Destruction, Retention and Use of Biometric Data) (Transitional, Transitory and Saving Provisions) (Amendment) Order 2022 (S.I. 2022/1022)](https://www.legislation.gov.uk/uksi/2022/1022), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1022/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2022/1022/article/4/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125A. Notifications by insolvency practitioners[^key-5e5bd8935a59cec3dc3df36357b28701]
+## 125A. Notifications by insolvency practitioners[^c-5e5bd8935a59cec3dc3df36357b28701]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e5bd8935a59cec3dc3df36357b28701]: Textual amendment: [S. 125A](https://www.legislation.gov.uk/ukpga/2022/30/section/125A) and cross-heading inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 119](https://www.legislation.gov.uk/ukpga/2024/22/section/119), [124(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/d)
+[^c-5e5bd8935a59cec3dc3df36357b28701]: Textual amendment: [S. 125A](https://www.legislation.gov.uk/ukpga/2022/30/section/125A) and cross-heading inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 119](https://www.legislation.gov.uk/ukpga/2024/22/section/119), [124(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/d)

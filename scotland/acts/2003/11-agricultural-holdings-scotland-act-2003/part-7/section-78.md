@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Agreement to refer matters to arbitration[^key-6ccd69edff46580a2791ee0df3d65faf]
+## 78. Agreement to refer matters to arbitration[^c-6ccd69edff46580a2791ee0df3d65faf]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6ccd69edff46580a2791ee0df3d65faf]: Commencement: S. 78 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-6ccd69edff46580a2791ee0df3d65faf]: Commencement: S. 78 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
 [^M_F_4e5d6325-44f9-4ccf-f77a-d14e3ede0dca]: Textual amendment: Words s. 78(1) inserted (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 118(3)(a)(i)](https://www.legislation.gov.uk/asp/2016/18/section/118/3/a/i), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [Sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
 

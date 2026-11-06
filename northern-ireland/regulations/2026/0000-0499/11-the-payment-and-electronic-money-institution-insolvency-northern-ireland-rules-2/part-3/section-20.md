@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Verification, filing and affidavit[^key-38a27765e6c3ff6a3fa709d01175ab9b]
+## 20. Verification, filing and affidavit[^c-38a27765e6c3ff6a3fa709d01175ab9b]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a27765e6c3ff6a3fa709d01175ab9b]: Commencement: [Rule 20](https://www.legislation.gov.uk/nisr/2026/11/rule/20) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-38a27765e6c3ff6a3fa709d01175ab9b]: Commencement: [Rule 20](https://www.legislation.gov.uk/nisr/2026/11/rule/20) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

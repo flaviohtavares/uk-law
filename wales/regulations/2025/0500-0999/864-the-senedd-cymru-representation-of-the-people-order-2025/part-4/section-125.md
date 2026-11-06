@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Mitigation and remission of incapacities[^key-d1676c5f40024b33e7104b930122d133]
+## 125. Mitigation and remission of incapacities[^c-d1676c5f40024b33e7104b930122d133]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1676c5f40024b33e7104b930122d133]: Commencement: Art. 125 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d1676c5f40024b33e7104b930122d133]: Commencement: Art. 125 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

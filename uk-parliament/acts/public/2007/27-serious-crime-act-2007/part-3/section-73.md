@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Data matching[^key-9a9f405e726dcd9145b64c910a48de73][^key-1100ba902e208595dbc83de9dcd6aa15]
+## 73. Data matching[^c-9a9f405e726dcd9145b64c910a48de73][^c-1100ba902e208595dbc83de9dcd6aa15]
 
 *Extent: E+W+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 7 (which makes provision about data matching) has effect.
 
 ## Annotations
 
-[^key-9a9f405e726dcd9145b64c910a48de73]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73) in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(g)](https://www.legislation.gov.uk/uksi/2008/219/article/3/g)
+[^c-9a9f405e726dcd9145b64c910a48de73]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73) in force at 1.3.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(g)](https://www.legislation.gov.uk/uksi/2008/219/article/3/g)
 
-[^key-1100ba902e208595dbc83de9dcd6aa15]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
+[^c-1100ba902e208595dbc83de9dcd6aa15]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)

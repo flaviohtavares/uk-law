@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Procedure for schools proposing to federate[^key-d434c52cc34a65335dc4cff284a32b18]
+## 7. Procedure for schools proposing to federate[^c-d434c52cc34a65335dc4cff284a32b18]
 
 *Extent: E+W*
 
 (1) Where a governing body are proposing to federate, they must first consider a report on the proposal.
 
-(2) The consideration of the report must be specified as an item on the agenda for the meeting of which notice has been given in accordance with regulation 13(4) of the Roles and Procedures Regulations[^key-78e5a9db0440a31f18ff19841fd89d45].
+(2) The consideration of the report must be specified as an item on the agenda for the meeting of which notice has been given in accordance with regulation 13(4) of the Roles and Procedures Regulations[^c-78e5a9db0440a31f18ff19841fd89d45].
 
 ## Annotations
 
-[^key-d434c52cc34a65335dc4cff284a32b18]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1035/regulation/7) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-d434c52cc34a65335dc4cff284a32b18]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1035/regulation/7) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
 
-[^key-78e5a9db0440a31f18ff19841fd89d45]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/1035/regulation/7/2) substituted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))
+[^c-78e5a9db0440a31f18ff19841fd89d45]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/1035/regulation/7/2) substituted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))

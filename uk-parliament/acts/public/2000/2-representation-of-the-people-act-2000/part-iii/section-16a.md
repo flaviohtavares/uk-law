@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Functions of the Minister for the Cabinet Office[^key-896f76cb4dd849b30063d761b961d9ce]
+## 16A. Functions of the Minister for the Cabinet Office[^c-896f76cb4dd849b30063d761b961d9ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-896f76cb4dd849b30063d761b961d9ce]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2000/2/section/16A) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/12) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-896f76cb4dd849b30063d761b961d9ce]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2000/2/section/16A) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/12) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — First Protocol[^key-72676aabeab76ca428d8bc8fe7f15f25]
+## SCHEDULE 3 — First Protocol[^c-72676aabeab76ca428d8bc8fe7f15f25]
 
 *Extent: E+W+S+N.I.*
 
 Section 1(2)
 
-[^key-72676aabeab76ca428d8bc8fe7f15f25]
+[^c-72676aabeab76ca428d8bc8fe7f15f25]
 
 The High Contracting Parties are agreed as follows:
 
@@ -80,4 +80,4 @@ In accordance with Article 102 of the Charter of the United Nations, the present
 
 ## Annotations
 
-[^key-72676aabeab76ca428d8bc8fe7f15f25]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/6/schedule/3) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-72676aabeab76ca428d8bc8fe7f15f25]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/6/schedule/3) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

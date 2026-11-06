@@ -59,11 +59,11 @@ In accordance with article 41(3) of that Order, the Health and Care Professions 
 
 In accordance with articles 41(1) and 42 of that Order, the Rules shall not come into force until approved by Order of the Privy Council.
 
-## 1. Citation and commencement[^key-46005a6c9831172b5753c8d08169fe11]
+## 1. Citation and commencement[^c-46005a6c9831172b5753c8d08169fe11]
 
 This Order may be cited as the Health and Care Professions Council (Coronavirus) (Amendment) Rules Order of Council 2021 and comes into force on 4th March 2021.
 
-## 2. Privy Council approval[^key-6b7df481e774443e26eb72991f979be3]
+## 2. Privy Council approval[^c-6b7df481e774443e26eb72991f979be3]
 
 Their Lordships, having taken the Rules into consideration, are pleased to, and do approve them.
 
@@ -79,11 +79,11 @@ The Health and Care Professions Council makes the following Rules in exercise of
 
 The Council has consulted in accordance with article 41(3) of that Order with representatives of groups of persons who appear likely to be affected by the proposed rules.
 
-### 1. Citation and commencement[^key-9a537a123b34f3eda0d41d4dd62f5eae]
+### 1. Citation and commencement[^c-9a537a123b34f3eda0d41d4dd62f5eae]
 
 These Rules may be cited as the Health and Care Professions Council (Coronavirus) (Amendment) Rules 2021 and come into force on 4th March 2021.
 
-### 2. Amendments to the Health and Care Professions Council (Investigating Committee) (Procedure) Rules 2003[^key-c568fef43815b23a3c6e58ea0fdc0dcb]
+### 2. Amendments to the Health and Care Professions Council (Investigating Committee) (Procedure) Rules 2003[^c-c568fef43815b23a3c6e58ea0fdc0dcb]
 
 (1) The Health and Care Professions Council (Investigating Committee) (Procedure) Rules 2003 [^c24419851] are amended as follows.
 
@@ -120,7 +120,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 
 .
 
-(3A)[^key-b5a2eba719c2615d6edbf010da1f3874] After rule 3 (Service of Documents), insert—
+(3A)[^c-b5a2eba719c2615d6edbf010da1f3874] After rule 3 (Service of Documents), insert—
 
 > **3A.** Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
 
@@ -128,7 +128,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 
 (4) At the beginning of rule 8(1)(a) insert “ subject to rule 2A(2)(b), ”.
 
-### 3. Amendments to the Health and Care Professions Council (Conduct and Competence Committee) (Procedure) Rules 2003[^key-7ba98aa459a0b397b2ca7a1de8bb367d]
+### 3. Amendments to the Health and Care Professions Council (Conduct and Competence Committee) (Procedure) Rules 2003[^c-7ba98aa459a0b397b2ca7a1de8bb367d]
 
 (1) The Health and Care Professions Council (Conduct and Competence Committee) (Procedure) Rules 2003 [^c24419861] are amended as follows.
 
@@ -165,7 +165,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 
 .
 
-(3A)[^key-95466d58b949f2021846f314bb370d9c] After rule 3 (Service of Documents), insert—
+(3A)[^c-95466d58b949f2021846f314bb370d9c] After rule 3 (Service of Documents), insert—
 
 > **3A.** Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
 
@@ -175,7 +175,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 
 (5) At the beginning of rule 13(10), for “A” substitute “ Subject to rule 2A, a ”.
 
-### 4. Amendments to the Health and Care Professions Council (Health Committee) (Procedure) Rules 2003[^key-b81349adc9ccab00dada30f74b95a1d8]
+### 4. Amendments to the Health and Care Professions Council (Health Committee) (Procedure) Rules 2003[^c-b81349adc9ccab00dada30f74b95a1d8]
 
 (1) The Health and Care Professions Council (Health Committee) (Procedure) Rules 2003 [^c24419871] are amended as follows.
 
@@ -210,7 +210,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 >   - (i) sent by post to or left at the last known address of that person, or
 >   - (ii) sent by electronic mail to an electronic mail address which the person has notified to the Council as an address for communications.
 
-(3A)[^key-9b4728a2ef330f23c5dd0ae23f154914] After rule 3 (Service of Documents), insert—
+(3A)[^c-9b4728a2ef330f23c5dd0ae23f154914] After rule 3 (Service of Documents), insert—
 
 > **3A.** Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
 
@@ -220,7 +220,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 
 (5) At the beginning of rule 13(10), for “A” substitute “ Subject to rule 2A, a ”.
 
-### 5. Amendments to the Health Professions Council (Registration Appeals) Rules 2003[^key-934761b6196166f64af57a6d5f0b911b]
+### 5. Amendments to the Health Professions Council (Registration Appeals) Rules 2003[^c-934761b6196166f64af57a6d5f0b911b]
 
 (1) The Health Professions Council (Registration Appeals) Rules 2003 [^c24419881] are amended as follows.
 
@@ -257,7 +257,7 @@ These Rules may be cited as the Health and Care Professions Council (Coronavirus
 
 .
 
-(3A)[^key-7377e9253549966864f83032f79f72bf] After rule 3 (Service of Documents), insert—
+(3A)[^c-7377e9253549966864f83032f79f72bf] After rule 3 (Service of Documents), insert—
 
 > **3A.** Any communications sent for the purposes of these Rules is to be treated as having been sent on the day the communication was posted or sent by electronic mail.
 
@@ -275,32 +275,32 @@ The amendments to all four sets of procedural rules are in similar form and make
 
 [^c24419841]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254), amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182) and [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436); there are other amending instruments but none is relevant.
 
-[^key-46005a6c9831172b5753c8d08169fe11]: Commencement: Art. 1 in force at 4.3.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1)
+[^c-46005a6c9831172b5753c8d08169fe11]: Commencement: Art. 1 in force at 4.3.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1)
 
-[^key-6b7df481e774443e26eb72991f979be3]: Commencement: Art. 2 in force at 4.3.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1)
+[^c-6b7df481e774443e26eb72991f979be3]: Commencement: Art. 2 in force at 4.3.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/27/article/1)
 
-[^key-9a537a123b34f3eda0d41d4dd62f5eae]: Commencement: Sch. rule 1 in force at 4.3.2021, see art. 1
+[^c-9a537a123b34f3eda0d41d4dd62f5eae]: Commencement: Sch. rule 1 in force at 4.3.2021, see art. 1
 
-[^key-c568fef43815b23a3c6e58ea0fdc0dcb]: Commencement: Sch. rule 2 in force at 4.3.2021, see art. 1
+[^c-c568fef43815b23a3c6e58ea0fdc0dcb]: Commencement: Sch. rule 2 in force at 4.3.2021, see art. 1
 
 [^c24419851]: Marginal citation: Rules as contained in the Schedule to the [Health Professions Council (Investigating Committee) (Procedure Rules) Order of Council 2003 (S.I. 2003/1574)](https://www.legislation.gov.uk/uksi/2003/1574).
 
-[^key-b5a2eba719c2615d6edbf010da1f3874]: Textual amendment: Sch. rule 2(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
+[^c-b5a2eba719c2615d6edbf010da1f3874]: Textual amendment: Sch. rule 2(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
 
-[^key-7ba98aa459a0b397b2ca7a1de8bb367d]: Commencement: Sch. rule 3 in force at 4.3.2021, see art. 1
+[^c-7ba98aa459a0b397b2ca7a1de8bb367d]: Commencement: Sch. rule 3 in force at 4.3.2021, see art. 1
 
 [^c24419861]: Marginal citation: Rules as set out in the Schedule to the [Health Professions Council (Conduct and Competence Committee) (Procedure) Rules Order of Council 2003 (S.I. 2003/1575)](https://www.legislation.gov.uk/uksi/2003/1575).
 
-[^key-95466d58b949f2021846f314bb370d9c]: Textual amendment: Sch. rule 3(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
+[^c-95466d58b949f2021846f314bb370d9c]: Textual amendment: Sch. rule 3(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
 
-[^key-b81349adc9ccab00dada30f74b95a1d8]: Commencement: Sch. rule 4 in force at 4.3.2021, see art. 1
+[^c-b81349adc9ccab00dada30f74b95a1d8]: Commencement: Sch. rule 4 in force at 4.3.2021, see art. 1
 
 [^c24419871]: Marginal citation: Rules as set out in the Schedule to the [Health Professions Council (Health Committee) (Procedure) Rules Order of Council 2003 (S.I. 2003/1576)](https://www.legislation.gov.uk/uksi/2003/1576).
 
-[^key-9b4728a2ef330f23c5dd0ae23f154914]: Textual amendment: Sch. rule 4(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
+[^c-9b4728a2ef330f23c5dd0ae23f154914]: Textual amendment: Sch. rule 4(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
 
-[^key-934761b6196166f64af57a6d5f0b911b]: Commencement: Sch. rule 5 in force at 4.3.2021, see art. 1
+[^c-934761b6196166f64af57a6d5f0b911b]: Commencement: Sch. rule 5 in force at 4.3.2021, see art. 1
 
 [^c24419881]: Marginal citation: Rules as set out in the Schedule to the [Health Professions Council (Registration Appeals) Rules Order of Council 2003 (S.I. 2003/1579)](https://www.legislation.gov.uk/uksi/2003/1579).
 
-[^key-7377e9253549966864f83032f79f72bf]: Textual amendment: Sch. rule 5(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)
+[^c-7377e9253549966864f83032f79f72bf]: Textual amendment: Sch. rule 5(3A) inserted (immediately before 4.3.2021) by [The Health and Care Professions Council (Coronavirus) (Amendment) (No. 2) Rules Order of Council 2021 (S.I. 2021/167)](https://www.legislation.gov.uk/uksi/2021/167), [art. 1](https://www.legislation.gov.uk/uksi/2021/167/article/1), [Sch. rule 2](https://www.legislation.gov.uk/uksi/2021/167/schedule/rule/2)

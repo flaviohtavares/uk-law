@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Actionable loss arising from pensions mis-selling[^key-b2f1ca31603531605e3109201df6e695]
+## 252. Actionable loss arising from pensions mis-selling[^c-b2f1ca31603531605e3109201df6e695]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 6(9) of the Local Government Pension Scheme (Scotland) Regulations
 
 ## Annotations
 
-[^key-b2f1ca31603531605e3109201df6e695]: Commencement: Art. 252 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b2f1ca31603531605e3109201df6e695]: Commencement: Art. 252 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

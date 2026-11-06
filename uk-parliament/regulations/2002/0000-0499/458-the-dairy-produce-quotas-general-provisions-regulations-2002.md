@@ -43,13 +43,13 @@ Coming into force
 
 31st March 2002
 
-[^M_F_228a2cb1-5aef-43e7-dab6-4b3bf5fcca37] [^key-dab0659605b6e0c8c52ebb068542f3b2]The Secretary of State, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting in exercise of the powers conferred on her by virtue of the said section 2(2), and of all other powers enabling her in that behalf, hereby makes the following Regulations:
+[^M_F_228a2cb1-5aef-43e7-dab6-4b3bf5fcca37] [^c-dab0659605b6e0c8c52ebb068542f3b2]The Secretary of State, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting in exercise of the powers conferred on her by virtue of the said section 2(2), and of all other powers enabling her in that behalf, hereby makes the following Regulations:
 
 ## 1. Title and commencement
 
 These Regulations may be cited as the Dairy Produce Quotas (General Provisions) Regulations 2002 and shall come into force on 31st March 2002.
 
-## 2. Interpretation[^key-f704cd352158fd581486d1c4e77088a0]
+## 2. Interpretation[^c-f704cd352158fd581486d1c4e77088a0]
 
 (1) In these Regulations—
 
@@ -104,7 +104,7 @@ In relation to a producer, a purchaser or any other relevant person, the relevan
 
 ## 4. National reserve
 
-There shall continue to be a national reserve, set up pursuant to Article 71 of the Council Regulation,[^key-d73a54d9411813ceef930e8fc93f5aa7] comprising such wholesale and direct sales quota as is not for the time being allocated to any person, including any quota withdrawn from any producer.
+There shall continue to be a national reserve, set up pursuant to Article 71 of the Council Regulation,[^c-d73a54d9411813ceef930e8fc93f5aa7] comprising such wholesale and direct sales quota as is not for the time being allocated to any person, including any quota withdrawn from any producer.
 
 ## 5. Powers of authorised officers
 
@@ -138,7 +138,7 @@ Any person who—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 7. Dairy Produce Quota Tribunals[^key-a46956c24f5fefb1d30401fb35baefb0]
+## 7. Dairy Produce Quota Tribunals[^c-a46956c24f5fefb1d30401fb35baefb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -148,29 +148,29 @@ Parliamentary Under-Secretary,
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — CONSTITUTION, STAFFING AND PROCEDURES OF DAIRY PRODUCE QUOTA TRIBUNALS[^key-e3f15f14e38876026750b633bd650c12]
+## SCHEDULE — CONSTITUTION, STAFFING AND PROCEDURES OF DAIRY PRODUCE QUOTA TRIBUNALS[^c-e3f15f14e38876026750b633bd650c12]
 
 **No longer in force.**
 
 regulation 7
 
-**1.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e3f15f14e38876026750b633bd650c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -184,16 +184,16 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^M_F_228a2cb1-5aef-43e7-dab6-4b3bf5fcca37]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
 
-[^key-dab0659605b6e0c8c52ebb068542f3b2]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/a)
+[^c-dab0659605b6e0c8c52ebb068542f3b2]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/a)
 
 [^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811). The power of the Secretary of State for Environment, Food and Rural Affairs, as a Minister designated in relation to the common agricultural policy of the European Community, to make Regulations which extend to Scotland remains exercisable by virtue of section 57(1) of the Scotland Act 1998 ([1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The Secretary of State’s power to make, as a Minister so designated, regulations which extend to Wales is confirmed by Article 3(4) of the European Communities (Designation) (No. 3) Order 1999 (S.I. [1999/2788](https://www.legislation.gov.uk/uksi/1999/2788)).
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-f704cd352158fd581486d1c4e77088a0]: Textual amendment: Reg. 2 substituted (1.4.2008) by [The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [2(1)](https://www.legislation.gov.uk/uksi/2008/438/regulation/2/1)
+[^c-f704cd352158fd581486d1c4e77088a0]: Textual amendment: Reg. 2 substituted (1.4.2008) by [The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [2(1)](https://www.legislation.gov.uk/uksi/2008/438/regulation/2/1)
 
-[^key-d73a54d9411813ceef930e8fc93f5aa7]: Textual amendment: Words in reg. 4 inserted (1.4.2008) by [The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2008/438/regulation/2/2)
+[^c-d73a54d9411813ceef930e8fc93f5aa7]: Textual amendment: Words in reg. 4 inserted (1.4.2008) by [The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2008/438/regulation/2/2)
 
-[^key-a46956c24f5fefb1d30401fb35baefb0]: Textual amendment: Reg. 7 omitted (6.4.2007) by virtue of [The Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/3)
+[^c-a46956c24f5fefb1d30401fb35baefb0]: Textual amendment: Reg. 7 omitted (6.4.2007) by virtue of [The Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/3)
 
-[^key-e3f15f14e38876026750b633bd650c12]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2002/458/schedule) omitted (6.4.2007) by virtue of [The Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/4)
+[^c-e3f15f14e38876026750b633bd650c12]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2002/458/schedule) omitted (6.4.2007) by virtue of [The Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/477/regulation/3/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Returns rendered electronically on another’s behalf[^key-ec03e6f7053da8717fc24bf9c52aaa78]
+## 80A. Returns rendered electronically on another’s behalf[^c-ec03e6f7053da8717fc24bf9c52aaa78]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec03e6f7053da8717fc24bf9c52aaa78]: Textual amendment: Reg. 80A omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2004/770/regulation/21)
+[^c-ec03e6f7053da8717fc24bf9c52aaa78]: Textual amendment: Reg. 80A omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2004/770/regulation/21)

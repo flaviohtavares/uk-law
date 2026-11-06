@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Short title[^key-29ad6018c730fe0deab95d2f087b550f]
+## 148. Short title[^c-29ad6018c730fe0deab95d2f087b550f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Infrastructure (Wales) Act 2024.
 
 ## Annotations
 
-[^key-29ad6018c730fe0deab95d2f087b550f]: Commencement: S. 148 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-29ad6018c730fe0deab95d2f087b550f]: Commencement: S. 148 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

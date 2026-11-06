@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Wales) (Amendment) Order 2010 (revoked)[^key-e62b71d21b00794420803c1f9a6e7d33]
+The Plant Health (Wales) (Amendment) Order 2010 (revoked)[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 Made
 
@@ -45,43 +45,43 @@ Coming into force
 
 17 August 2010
 
-[^key-e62b71d21b00794420803c1f9a6e7d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e62b71d21b00794420803c1f9a6e7d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 1. Title, application and commencement[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plant Health (Wales) Order 2006[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 2. Amendments to the Plant Health (Wales) Order 2006[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 20 (prevention of the spread of plant pests)[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 3. Article 20 (prevention of the spread of plant pests)[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Article 31 (examination, sampling and marking)[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 4. Article 31 (examination, sampling and marking)[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Article 38 (power to enter premises used wholly or mainly as a dwelling)[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 5. Article 38 (power to enter premises used wholly or mainly as a dwelling)[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Article 45 (offences)[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 6. Article 45 (offences)[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Schedule 15 (special measures for the control of Potato Cyst Nematode)[^key-e62b71d21b00794420803c1f9a6e7d33]
+## 7. Schedule 15 (special measures for the control of Potato Cyst Nematode)[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e62b71d21b00794420803c1f9a6e7d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e62b71d21b00794420803c1f9a6e7d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e62b71d21b00794420803c1f9a6e7d33]
+## SCHEDULE[^c-e62b71d21b00794420803c1f9a6e7d33]
 
 Article 7
 
@@ -89,8 +89,8 @@ Article 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-e62b71d21b00794420803c1f9a6e7d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e62b71d21b00794420803c1f9a6e7d33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e62b71d21b00794420803c1f9a6e7d33]: Textual amendment: Order revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/uksi/2018/1064), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1064/article/1/2), [Sch. 18](https://www.legislation.gov.uk/uksi/2018/1064/schedule/18)
+[^c-e62b71d21b00794420803c1f9a6e7d33]: Textual amendment: Order revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/uksi/2018/1064), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1064/article/1/2), [Sch. 18](https://www.legislation.gov.uk/uksi/2018/1064/schedule/18)

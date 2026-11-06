@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Suspension[^key-294eeaddd636b59e413795cb82c8fc74]
+## 48. Suspension[^c-294eeaddd636b59e413795cb82c8fc74]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Once only in the course of a meeting, the chair may, without an adjournment, dec
 
 ## Annotations
 
-[^key-294eeaddd636b59e413795cb82c8fc74]: Commencement: Rule 48 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-294eeaddd636b59e413795cb82c8fc74]: Commencement: Rule 48 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

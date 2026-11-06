@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Dissolution of the old Commission[^key-77c838c98292d7028d8729cc052f8237]
+## 91. Dissolution of the old Commission[^c-77c838c98292d7028d8729cc052f8237]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77c838c98292d7028d8729cc052f8237]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2005/16/section/91) in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
+[^c-77c838c98292d7028d8729cc052f8237]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2005/16/section/91) in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)

@@ -167,7 +167,7 @@ other than a power to legislate by means of orders, rules, regulations or other 
 
 ## 6. Consequential repeals, revocations and amendments: United Kingdom
 
-(1)[^key-3b93558a2913f8cb986c8721d998b9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3b93558a2913f8cb986c8721d998b9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Parliamentary Commissioner Act 1967[^f00012], in Schedule 2, the words “Intervention Board for Agricultural Produce.” shall be repealed.
 
@@ -282,7 +282,7 @@ other than a power to legislate by means of orders, rules, regulations or other 
 
 (4) In the Home-Grown Cereals Authority Levy Scheme (Approval) Order 1987[^f00033], in the Scheme set out in the Schedule to that Order, the definition of “Intervention Board” in paragraph 2(1) shall be deleted and for any other reference to “the Intervention Board” there shall be substituted “, as the case may be, the Secretary of State, the National Assembly for Wales or the Department of Agriculture and Rural Development”.
 
-(5)[^key-66870b2f6fc33bc6b5a43e3d8b1de8f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-66870b2f6fc33bc6b5a43e3d8b1de8f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In the Beef Special Premium (Protection of Payments) Order 1989[^f00035]—
 
@@ -305,7 +305,7 @@ other than a power to legislate by means of orders, rules, regulations or other 
 
 (7) In the Beef Special Premium (Recovery Powers) Regulations 1989[^f00036] for any reference to “the Board” there shall be substituted “the appropriate authority”.
 
-(8)[^key-fe1cca29666985b2c136653553042ad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-fe1cca29666985b2c136653553042ad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In the Home-Grown Cereals Authority Oilseeds Levy Scheme (Approval) Order 1990[^f00038], in the Scheme set out in the Schedule to that Order, the definition of “Intervention Board” in paragraph 2(1) shall be deleted and for any other reference to “the Intervention Board” there shall be substituted “, as the case may be, the Secretary of State, the National Assembly for Wales, or the Department of Agriculture and Rural Development”.
 
@@ -381,7 +381,7 @@ other than a power to legislate by means of orders, rules, regulations or other 
 - (g) in regulation 11 the words “or the Board”, the words “or its” and the words “or it” shall be deleted;
 - (h) regulation 27 shall be deleted.
 
-(16)[^key-992595652d2b8241edcf91291a0116f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-992595652d2b8241edcf91291a0116f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (17) In the Common Agricultural Policy Support Schemes (Modulation) Regulations (Northern Ireland) 2000[^f00047]—
 
@@ -471,7 +471,7 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00010]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-3b93558a2913f8cb986c8721d998b9e6]: Textual amendment: Reg. 6(1) revoked (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/8) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-3b93558a2913f8cb986c8721d998b9e6]: Textual amendment: Reg. 6(1) revoked (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/8) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^f00012]: Footnote: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13); Schedule 2 was substituted by section 1(2) of, and Schedule 1 to, the Parliamentary and Health Services Commissioners Act [1987 (c. 39)](https://www.legislation.gov.uk/ukpga/1987/39).
 
@@ -519,13 +519,13 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00033]: Footnote: S.I. [1987/671](https://www.legislation.gov.uk/uksi/1987/671) approved (with modifications) the Home-Grown Cereals Authority Levy Scheme. That Scheme was varied by the Home-Grown Cereals Authority Levy (Variation) Scheme 1990 which was approved (with a modification) by the Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1990 (S.I. [1990/1316](https://www.legislation.gov.uk/uksi/1990/1316)), the Home-Grown Cereals Authority Levy (Variation) Scheme 1991 which was approved by the Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1991 (S.I. [1991/1302](https://www.legislation.gov.uk/uksi/1991/1302)) and the Home-Grown Cereals Authority Levy (Variation) Scheme 1996 which was approved (with modifications) by the Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1996 (S.I. [1996/2843](https://www.legislation.gov.uk/uksi/1996/2843)).
 
-[^key-66870b2f6fc33bc6b5a43e3d8b1de8f5]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/7/5) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(e)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/e)
+[^c-66870b2f6fc33bc6b5a43e3d8b1de8f5]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/7/5) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(e)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/e)
 
 [^f00035]: Footnote: S.I. [1989/574](https://www.legislation.gov.uk/uksi/1989/574).
 
 [^f00036]: Footnote: S.I. [1989/575](https://www.legislation.gov.uk/uksi/1989/575).
 
-[^key-fe1cca29666985b2c136653553042ad9]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/7/8) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(e)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/e)
+[^c-fe1cca29666985b2c136653553042ad9]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/uksi/2001/3686/regulation/7/8) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(e)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/e)
 
 [^f00038]: Footnote: S.I. [1990/1317](https://www.legislation.gov.uk/uksi/1990/1317).
 
@@ -543,7 +543,7 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00045]: Footnote: S.I. [2000/3126](https://www.legislation.gov.uk/uksi/2000/3126).
 
-[^key-992595652d2b8241edcf91291a0116f2]: Textual amendment: Reg. 7(16) revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/1) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/2))
+[^c-992595652d2b8241edcf91291a0116f2]: Textual amendment: Reg. 7(16) revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/1) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15/2))
 
 [^f00047]: Footnote: [S.R. (N.I.) 2000/346](https://www.legislation.gov.uk/nisr/2000/346).
 

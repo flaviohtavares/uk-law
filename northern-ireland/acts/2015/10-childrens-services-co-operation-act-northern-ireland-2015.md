@@ -34,7 +34,7 @@ An Act to require co-operation among certain public authorities and other person
 
 \[9th December 2015\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-65aa184c2d090b8e9d04de7dad3f32f8]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-65aa184c2d090b8e9d04de7dad3f32f8]
 
 ## 1. Well-being of children and young persons
 
@@ -180,7 +180,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
   - (i) a Northern Ireland department,
   - (ii) a district council,
   - (iii) a Health and Social Care trust,
-  - (iv) [^key-452744287b9d91163d1aac0e9e108860]...
+  - (iv) [^c-452744287b9d91163d1aac0e9e108860]...
   - (v) the Regional Agency for Public Health and Social Well-being,
   - (vi) the Education Authority,
   - (vii) the Northern Ireland Housing Executive,
@@ -193,7 +193,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “**other children's service provider**” means any person or body, of whatever nature, who provides a children's service or is engaged in activities which contribute to the well-being of children or young persons (but does not include a children's authority);
 - “**well-being**” has the meaning given by section 1.
 
-(2) A person falls within this subsection if services are provided to or in respect of the person by, or on behalf of, or under arrangements made with, [^key-18b0c6fc7c35b5d229f4ef74f022202f]... a Health and Social Care trust by virtue of—
+(2) A person falls within this subsection if services are provided to or in respect of the person by, or on behalf of, or under arrangements made with, [^c-18b0c6fc7c35b5d229f4ef74f022202f]... a Health and Social Care trust by virtue of—
 
 - (a) Article 21(5), 34D, 35, 35A or 35B of the Children (Northern Ireland) Order 1995 (which provide for the continuing duties of those bodies towards young persons), or
 - (b) regulations made under Article 34E of that Order (which may provide for the appointment of personal advisers for certain young persons).
@@ -219,8 +219,8 @@ This Act may be cited as the Children's Services Co-operation Act (Northern Irel
 
 ## Annotations
 
-[^key-65aa184c2d090b8e9d04de7dad3f32f8]: Modification: [Act](https://www.legislation.gov.uk/nia/2015/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-65aa184c2d090b8e9d04de7dad3f32f8]: Modification: [Act](https://www.legislation.gov.uk/nia/2015/10): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-452744287b9d91163d1aac0e9e108860]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/nia/2015/10/section/9/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 248(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/248/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-452744287b9d91163d1aac0e9e108860]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/nia/2015/10/section/9/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 248(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/248/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-18b0c6fc7c35b5d229f4ef74f022202f]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/nia/2015/10/section/9/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 248(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/248/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-18b0c6fc7c35b5d229f4ef74f022202f]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/nia/2015/10/section/9/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 248(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/248/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

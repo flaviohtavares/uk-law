@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Powers of entry under section 77: requirement for consent[^key-37cc438ea7c79cb908853dc33edebfa2][^key-cd8a5acc220775868d30f5f8ade01fd6]
+## 78. Powers of entry under section 77: requirement for consent[^c-37cc438ea7c79cb908853dc33edebfa2][^c-cd8a5acc220775868d30f5f8ade01fd6]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ the authorised person may not enter the premises without the consent of an adult
 
 ## Annotations
 
-[^key-37cc438ea7c79cb908853dc33edebfa2]: Commencement: S. 78 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-37cc438ea7c79cb908853dc33edebfa2]: Commencement: S. 78 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
 
-[^key-cd8a5acc220775868d30f5f8ade01fd6]: Textual amendment: S. 78 substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/48); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-cd8a5acc220775868d30f5f8ade01fd6]: Textual amendment: S. 78 substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/48); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

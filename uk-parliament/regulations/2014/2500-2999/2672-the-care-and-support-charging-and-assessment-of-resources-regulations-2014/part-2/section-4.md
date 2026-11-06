@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Adults to whom services are to be provided free of charge[^key-367381e1d5c51b4549871017f06d1dfb]
+## 4. Adults to whom services are to be provided free of charge[^c-367381e1d5c51b4549871017f06d1dfb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority must not make a charge for meeting needs under section 14(1) o
 
 ## Annotations
 
-[^key-367381e1d5c51b4549871017f06d1dfb]: Commencement: Reg. 4 in force at 1.4.2015 in accordance with reg. 1
+[^c-367381e1d5c51b4549871017f06d1dfb]: Commencement: Reg. 4 in force at 1.4.2015 in accordance with reg. 1

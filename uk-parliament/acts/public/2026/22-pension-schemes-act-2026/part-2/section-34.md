@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power to alter definition of “small”[^key-1e8d1c19b4303b6c873a89d504598b88]
+## 34. Power to alter definition of “small”[^c-1e8d1c19b4303b6c873a89d504598b88]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8d1c19b4303b6c873a89d504598b88]: Commencement: S. 34 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-1e8d1c19b4303b6c873a89d504598b88]: Commencement: S. 34 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

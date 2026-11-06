@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Service of notices[^key-bc67009ccd813a92a245aa576ff67842][^key-2b366e6e9ae18885467ccd9214cf88f5]
+## 208. Service of notices[^c-bc67009ccd813a92a245aa576ff67842][^c-2b366e6e9ae18885467ccd9214cf88f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc67009ccd813a92a245aa576ff67842]: Commencement: S. 208 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-bc67009ccd813a92a245aa576ff67842]: Commencement: S. 208 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2b366e6e9ae18885467ccd9214cf88f5]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2023/50/section/208) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z27)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z27)
+[^c-2b366e6e9ae18885467ccd9214cf88f5]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2023/50/section/208) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z27)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z27)

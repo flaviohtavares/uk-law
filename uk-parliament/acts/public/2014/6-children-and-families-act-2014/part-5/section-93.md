@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Amendments consequential on section 92[^key-30044841a64a6d4c4f7f0ec3baf0703f]
+## 93. Amendments consequential on section 92[^c-30044841a64a6d4c4f7f0ec3baf0703f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30044841a64a6d4c4f7f0ec3baf0703f]: Textual amendment: S. 93 omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/21) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-30044841a64a6d4c4f7f0ec3baf0703f]: Textual amendment: S. 93 omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/21) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))

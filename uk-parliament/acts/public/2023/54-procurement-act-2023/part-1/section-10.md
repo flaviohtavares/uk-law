@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Mixed procurement: special regime contracts[^key-a1132a3c40c95f5b0c93191ca3722e44][^key-5065f8ccaba01fae8552bc92fe8385f7]
+## 10. Mixed procurement: special regime contracts[^c-a1132a3c40c95f5b0c93191ca3722e44][^c-5065f8ccaba01fae8552bc92fe8385f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ and a reference to a special regime contract of a particular kind is a reference
 
 ## Annotations
 
-[^key-a1132a3c40c95f5b0c93191ca3722e44]: Commencement: S. 10 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-a1132a3c40c95f5b0c93191ca3722e44]: Commencement: S. 10 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-5065f8ccaba01fae8552bc92fe8385f7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/54/section/10) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-5065f8ccaba01fae8552bc92fe8385f7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/54/section/10) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

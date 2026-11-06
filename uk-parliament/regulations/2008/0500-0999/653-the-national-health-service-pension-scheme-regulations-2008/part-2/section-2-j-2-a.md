@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.J.2.A. Provision of information: continuing entitlement to benefit[^key-e211864ebfe74d603abf5ae1590be790]
+## 2.J.2.A. Provision of information: continuing entitlement to benefit[^c-e211864ebfe74d603abf5ae1590be790]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e211864ebfe74d603abf5ae1590be790]: Textual amendment: [Reg. 2.J.2.A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.2.A) inserted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [48](https://www.legislation.gov.uk/uksi/2013/413/regulation/48)
+[^c-e211864ebfe74d603abf5ae1590be790]: Textual amendment: [Reg. 2.J.2.A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.2.A) inserted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [48](https://www.legislation.gov.uk/uksi/2013/413/regulation/48)

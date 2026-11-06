@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. Settling disputes by agreement[^key-8766c39672e8a577e322a5c7c8d15c4b]
+## 184. Settling disputes by agreement[^c-8766c39672e8a577e322a5c7c8d15c4b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8766c39672e8a577e322a5c7c8d15c4b]: Commencement: S. 184 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)
+[^c-8766c39672e8a577e322a5c7c8d15c4b]: Commencement: S. 184 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)

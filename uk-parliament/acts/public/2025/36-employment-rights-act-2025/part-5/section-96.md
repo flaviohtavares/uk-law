@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Power to obtain documents or information[^key-39bdf598e62821c923d718915145dd56][^key-9bcf8c245e01e4a85cdf19633804b506]
+## 96. Power to obtain documents or information[^c-39bdf598e62821c923d718915145dd56][^c-9bcf8c245e01e4a85cdf19633804b506]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ In this subsection “**specified**” means specified in the notice.
 
 ## Annotations
 
-[^key-39bdf598e62821c923d718915145dd56]: Commencement: S. 96 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-39bdf598e62821c923d718915145dd56]: Commencement: S. 96 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-9bcf8c245e01e4a85cdf19633804b506]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/36/section/96) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/c)
+[^c-9bcf8c245e01e4a85cdf19633804b506]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/36/section/96) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Proposals about orders and regulations[^key-60f24ccddf23457e16c15aacaf8bcb6e]
+## 81. Proposals about orders and regulations[^c-60f24ccddf23457e16c15aacaf8bcb6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 - (a) submit proposals to the Secretary of State for—
   - (i) nuclear regulations,
-  - (ia)[^key-e8d47a25957588fb416f99db709d97eb] regulations under section 76A (nuclear safeguards regulations etc),
+  - (ia)[^c-e8d47a25957588fb416f99db709d97eb] regulations under section 76A (nuclear safeguards regulations etc),
   - (ii) regulations under section 85,
   - (iii) regulations under section 101,
-  - (iiia)[^key-fdbb9875df9e75e24dd23f5ddba293cd] regulations under section 112(1B) (definition of “relevant international agreement”),
+  - (iiia)[^c-fdbb9875df9e75e24dd23f5ddba293cd] regulations under section 112(1B) (definition of “relevant international agreement”),
   - (iv) health and safety fees regulations, or
   - (v) orders or regulations under a relevant enactment;
 - (b) submit proposals to the Health and Safety Executive for relevant health and safety regulations.
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-60f24ccddf23457e16c15aacaf8bcb6e]: Commencement: S. 81 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-60f24ccddf23457e16c15aacaf8bcb6e]: Commencement: S. 81 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-e8d47a25957588fb416f99db709d97eb]: Textual amendment: [S. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/a)[(ia)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/ia) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 3(a)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/3/a); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-e8d47a25957588fb416f99db709d97eb]: Textual amendment: [S. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/a)[(ia)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/ia) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 3(a)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/3/a); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-fdbb9875df9e75e24dd23f5ddba293cd]: Textual amendment: [S. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/a)[(iiia)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/iiia) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/3/b); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-fdbb9875df9e75e24dd23f5ddba293cd]: Textual amendment: [S. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/a)[(iiia)](https://www.legislation.gov.uk/ukpga/2013/32/section/81/1/iiia) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/3/b); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)

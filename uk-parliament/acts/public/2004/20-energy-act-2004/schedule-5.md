@@ -24,7 +24,7 @@ Section 38
 
 ### Identification of property to which scheme applies
 
-**1.**[^key-edc4d289d64881f85f784679fe39c80e] A nuclear transfer scheme may set out the property, rights and liabilities to be transferred in one or more of the following ways—
+**1.**[^c-edc4d289d64881f85f784679fe39c80e] A nuclear transfer scheme may set out the property, rights and liabilities to be transferred in one or more of the following ways—
 
 - (a) by specifying or describing them in particular;
 - (b) by identifying them generally by reference to, or to a specified part of, an undertaking from which they are to be transferred; or
@@ -32,14 +32,14 @@ Section 38
 
 ### Property, rights and liabilities that may be transferred
 
-**2.**[^key-e88ac0ffb9e7832e32a2bfc0a53e62f1] (1) The property, rights and liabilities that may be transferred by a nuclear transfer scheme include—
+**2.**[^c-e88ac0ffb9e7832e32a2bfc0a53e62f1] (1) The property, rights and liabilities that may be transferred by a nuclear transfer scheme include—
 
 - (a) property, rights and liabilities that would not otherwise be capable of being transferred or assigned by the transferor;
 - (b) property acquired, and rights and liabilities arising, in the period after the making of the scheme and before it comes into force;
 - (c) rights and liabilities arising after it comes into force in respect of matters occurring before it comes into force;
 - (d) property situated anywhere in the United Kingdom or elsewhere;
 - (e) rights and liabilities under the law of a part of the United Kingdom or of a place outside the United Kingdom; and
-- (f) rights and liabilities under an enactment, EU[^key-1dcf5a0730be8e98b48b9ed5a9e48521] instrument or subordinate legislation.
+- (f) rights and liabilities under an enactment, EU[^c-1dcf5a0730be8e98b48b9ed5a9e48521] instrument or subordinate legislation.
 
 (2) The transfers to which effect may be given by a nuclear transfer scheme include transfers of interests and rights that are to take effect in accordance with the scheme as if there were—
 
@@ -68,7 +68,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Dividing and modifying transferor’s property, rights and liabilities
 
-**3.**[^key-9924ccae4f6d0e1ba9caa481d93b4c9a] (1) A nuclear transfer scheme may contain provision—
+**3.**[^c-9924ccae4f6d0e1ba9caa481d93b4c9a] (1) A nuclear transfer scheme may contain provision—
 
 - (a) for the creation, in favour of a transferor or transferee, of an interest or right in or in relation to property transferred in accordance with the scheme;
 - (b) for giving effect to a transfer to a person by the creation, in favour of that person, of an interest or right in or in relation to property retained by a transferor;
@@ -89,7 +89,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Obligation to effect transfers etc. under a nuclear transfer scheme
 
-**4.**[^key-dcaaa7f08727d780492e445c4655cd3a] (1) A nuclear transfer scheme may contain provision for imposing on a transferee or transferor an obligation—
+**4.**[^c-dcaaa7f08727d780492e445c4655cd3a] (1) A nuclear transfer scheme may contain provision for imposing on a transferee or transferor an obligation—
 
 - (a) to enter into such agreements with another person on whom a corresponding obligation is, or could be or has been, imposed by virtue of this paragraph (whether in the same or a different scheme), or
 - (b) to execute such instruments in favour of any such person,
@@ -127,7 +127,7 @@ to include, to the extent specified in the scheme, a transfer, interest or right
 
 ### Effect of nuclear transfer schemes
 
-**5.**[^key-4ecefbdbe53ceebae68a61d22ade6343] (1) In relation to each provision of a nuclear transfer scheme for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
+**5.**[^c-4ecefbdbe53ceebae68a61d22ade6343] (1) In relation to each provision of a nuclear transfer scheme for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
 
 - (a) this Act shall have effect so as, without further assurance, to vest the property or interests, or the rights or liabilities, in the transferee at the time at which the scheme comes into force; and
 - (b) the provisions of that scheme in relation to that property or those interests, or in relation to those rights or liabilities, shall have effect from that time.
@@ -143,7 +143,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Supplementary provisions of schemes
 
-**6.**[^key-38d6d7a058aa1a0203fe005a4b478934] (1) A nuclear transfer scheme may make incidental, supplemental, consequential and transitional provision in connection with the transfers to be made in accordance with the scheme.
+**6.**[^c-38d6d7a058aa1a0203fe005a4b478934] (1) A nuclear transfer scheme may make incidental, supplemental, consequential and transitional provision in connection with the transfers to be made in accordance with the scheme.
 
 (2) Such provision may include different provision for different cases or different purposes.
 
@@ -177,11 +177,11 @@ to be referred to such arbitration as may be specified in or determined under th
 
 ### Proof of title by certificate
 
-**7.**[^key-a97c83b4179b31465320a60c7114741d] A certificate issued by the Secretary of State to the effect that any property, right or liability vested at a particular time in accordance with a nuclear transfer scheme in a person specified in the certificate shall be conclusive evidence of the matters specified in the certificate.
+**7.**[^c-a97c83b4179b31465320a60c7114741d] A certificate issued by the Secretary of State to the effect that any property, right or liability vested at a particular time in accordance with a nuclear transfer scheme in a person specified in the certificate shall be conclusive evidence of the matters specified in the certificate.
 
 ### Duties in relation to foreign property
 
-**8.**[^key-931ab7b5868808f2622f78917547fd89] (1) Where there is a transfer in accordance with a nuclear transfer scheme of—
+**8.**[^c-931ab7b5868808f2622f78917547fd89] (1) Where there is a transfer in accordance with a nuclear transfer scheme of—
 
 - (a) foreign property, or
 - (b) a foreign right or liability,
@@ -217,7 +217,7 @@ the property, right or liability acquired or incurred shall immediately become t
 
 ### Modification of scheme by agreement
 
-**9.**[^key-540f6f9d17bd10f2c9868c115d448a13] (1) This paragraph applies in the case of a nuclear transfer scheme where a transferee agrees in writing—
+**9.**[^c-540f6f9d17bd10f2c9868c115d448a13] (1) This paragraph applies in the case of a nuclear transfer scheme where a transferee agrees in writing—
 
 - (a) with the transferor,
 - (b) with another transferee under that scheme, or
@@ -256,14 +256,14 @@ the Secretary of State must consult the NDA.
 
 ### The Transfer of Undertakings (Protection of Employment) Regulations 1981
 
-**10.**[^key-e0de1877733caa8da419f10ea3bffd79] (1) The 2006 regulations[^key-8de23f02a321be01f581598ce3689bf4] apply to a transfer of an undertaking or business[^key-6b207c65f54df21d30548c3457d136e9] or part of an undertaking or business—
+**10.**[^c-e0de1877733caa8da419f10ea3bffd79] (1) The 2006 regulations[^c-8de23f02a321be01f581598ce3689bf4] apply to a transfer of an undertaking or business[^c-6b207c65f54df21d30548c3457d136e9] or part of an undertaking or business—
 
 - (a) in accordance with a nuclear transfer scheme, or
 - (b) in accordance with a modification agreement,
 
-as if (in so far as that would not otherwise be the case) the references in those regulations to the transferor were references to the person in whom that undertaking or business or that part of an undertaking or business[^key-b9b0f9cd77cc4c24e1c066105c755337] was vested immediately before the coming into force of the transfer.
+as if (in so far as that would not otherwise be the case) the references in those regulations to the transferor were references to the person in whom that undertaking or business or that part of an undertaking or business[^c-b9b0f9cd77cc4c24e1c066105c755337] was vested immediately before the coming into force of the transfer.
 
-(1A)[^key-52280b5c90a42e4b994ea1253289a027] The 2006 regulations apply to a service provision change—
+(1A)[^c-52280b5c90a42e4b994ea1253289a027] The 2006 regulations apply to a service provision change—
 
 - (a) in accordance with a nuclear transfer scheme, or
 - (b) in accordance with a modification agreement,
@@ -275,18 +275,18 @@ as if (in so far as that would not otherwise be the case) the references in thos
 - (a) making a nuclear transfer scheme, or
 - (b) approving a modification agreement,
 
-to give such notice of his proposals to such persons as he considers appropriate for enabling the provisions of the 2006 regulations[^key-47d6e3551877ef9f7ed57f700e15cc8b] applicable to a transfer (or service provision change)[^key-30f0764f9b61ad059f9361cd8c015b3e] in accordance with the scheme or agreement to be complied with by the transferor.
+to give such notice of his proposals to such persons as he considers appropriate for enabling the provisions of the 2006 regulations[^c-47d6e3551877ef9f7ed57f700e15cc8b] applicable to a transfer (or service provision change)[^c-30f0764f9b61ad059f9361cd8c015b3e] in accordance with the scheme or agreement to be complied with by the transferor.
 
-(3) In sub-paragraph (2) “**the transferor**”, in relation to a transfer (or service provision change)[^key-357e84aeedf280d8ecae2c6e3fe6b9fb], means the person who is the transferor in relation to that transfer (or service provision change) for the purposes of the 2006 regulations[^key-f2c28e7b20d8cb0c5c5df582ffb25d5d].
+(3) In sub-paragraph (2) “**the transferor**”, in relation to a transfer (or service provision change)[^c-357e84aeedf280d8ecae2c6e3fe6b9fb], means the person who is the transferor in relation to that transfer (or service provision change) for the purposes of the 2006 regulations[^c-f2c28e7b20d8cb0c5c5df582ffb25d5d].
 
 (4) In this paragraph—
 
 - “**the 1981 regulations**” means the Transfer of Undertakings (Protection of Employment) Regulations 1981 (S.I. 1981/1794);
-- references to a service provision change are references to a service provision change falling within regulation 3(1)(b) of the[^key-c0452f62f0b722ed3df8d7691959de83] 2006 regulations.
+- references to a service provision change are references to a service provision change falling within regulation 3(1)(b) of the[^c-c0452f62f0b722ed3df8d7691959de83] 2006 regulations.
 
 ### Compensation for third parties
 
-**11.**[^key-97d5903d5e8eb05aaf30d219562c5741] (1) Where—
+**11.**[^c-97d5903d5e8eb05aaf30d219562c5741] (1) Where—
 
 - (a) an entitlement of a third party to an interest or right would, apart from a provision of a nuclear transfer scheme or paragraph 2(4) and (5), arise in respect of the transfer or creation in accordance with a nuclear transfer scheme of any property, rights or liabilities,
 - (b) the provisions of that scheme or of paragraph 2(4) and (5) have the effect of preventing the third party’s entitlement to that interest or right from arising in respect of anything for which the scheme provides, and
@@ -362,7 +362,7 @@ as it has effect in relation to the scheme but as if, in the case of a modificat
 
 ### Compensation for transferor in case of a recovery scheme
 
-**12.**[^key-c40721e09c85deb07f4d0172ae54dd82] (1) If the Secretary of State is satisfied in the case of a recovery scheme that it is just to do so he may—
+**12.**[^c-c40721e09c85deb07f4d0172ae54dd82] (1) If the Secretary of State is satisfied in the case of a recovery scheme that it is just to do so he may—
 
 - (a) pay compensation to the transferor in respect of property or rights of which he is deprived in accordance with the scheme; or
 - (b) direct the NDA to pay such compensation.
@@ -395,7 +395,7 @@ as it has effect in relation to the scheme.
 
 ### Interpretation
 
-**13.**[^key-b01653d9a71f6e386b4cc2a6f30dc513] (1) In this Schedule—
+**13.**[^c-b01653d9a71f6e386b4cc2a6f30dc513] (1) In this Schedule—
 
 - “**modification agreement**” means an agreement for a transfer that is to have effect in accordance with paragraph 9(3);
 - “**recovery scheme**” means so much of a nuclear transfer scheme as contains provision for or in connection with a transfer authorised by section 41;
@@ -411,48 +411,48 @@ as it has effect in relation to the scheme.
 
 ## Annotations
 
-[^key-edc4d289d64881f85f784679fe39c80e]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/1) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-edc4d289d64881f85f784679fe39c80e]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/1) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e88ac0ffb9e7832e32a2bfc0a53e62f1]: Commencement: Sch. 5 para. 2 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-e88ac0ffb9e7832e32a2bfc0a53e62f1]: Commencement: Sch. 5 para. 2 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-1dcf5a0730be8e98b48b9ed5a9e48521]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-1dcf5a0730be8e98b48b9ed5a9e48521]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-9924ccae4f6d0e1ba9caa481d93b4c9a]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/3) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-9924ccae4f6d0e1ba9caa481d93b4c9a]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/3) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-dcaaa7f08727d780492e445c4655cd3a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/4) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-dcaaa7f08727d780492e445c4655cd3a]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/4) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-4ecefbdbe53ceebae68a61d22ade6343]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/5) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4ecefbdbe53ceebae68a61d22ade6343]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/5) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-38d6d7a058aa1a0203fe005a4b478934]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/6) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-38d6d7a058aa1a0203fe005a4b478934]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/6) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-a97c83b4179b31465320a60c7114741d]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-a97c83b4179b31465320a60c7114741d]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-931ab7b5868808f2622f78917547fd89]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/8) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-931ab7b5868808f2622f78917547fd89]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/8) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-540f6f9d17bd10f2c9868c115d448a13]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/9) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-540f6f9d17bd10f2c9868c115d448a13]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/9) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e0de1877733caa8da419f10ea3bffd79]: Commencement: Sch. 5 para. 10 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-e0de1877733caa8da419f10ea3bffd79]: Commencement: Sch. 5 para. 10 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-8de23f02a321be01f581598ce3689bf4]: Textual amendment: Words in Sch. 5 para. 10(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/2)
+[^c-8de23f02a321be01f581598ce3689bf4]: Textual amendment: Words in Sch. 5 para. 10(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/2)
 
-[^key-6b207c65f54df21d30548c3457d136e9]: Textual amendment: Words in Sch. 5 para. 10(1) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/3/a)
+[^c-6b207c65f54df21d30548c3457d136e9]: Textual amendment: Words in Sch. 5 para. 10(1) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/3/a)
 
-[^key-b9b0f9cd77cc4c24e1c066105c755337]: Textual amendment: Words in Sch. 5 para. 10(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(3)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/3/b)
+[^c-b9b0f9cd77cc4c24e1c066105c755337]: Textual amendment: Words in Sch. 5 para. 10(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(3)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/3/b)
 
-[^key-52280b5c90a42e4b994ea1253289a027]: Textual amendment: Sch. 5 para. 10(1A) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/4)
+[^c-52280b5c90a42e4b994ea1253289a027]: Textual amendment: Sch. 5 para. 10(1A) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/4)
 
-[^key-47d6e3551877ef9f7ed57f700e15cc8b]: Textual amendment: Words in Sch. 5 para. 10(2) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/2)
+[^c-47d6e3551877ef9f7ed57f700e15cc8b]: Textual amendment: Words in Sch. 5 para. 10(2) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/2)
 
-[^key-30f0764f9b61ad059f9361cd8c015b3e]: Textual amendment: Words in Sch. 5 para. 10(2) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/5)
+[^c-30f0764f9b61ad059f9361cd8c015b3e]: Textual amendment: Words in Sch. 5 para. 10(2) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/5)
 
-[^key-357e84aeedf280d8ecae2c6e3fe6b9fb]: Textual amendment: Words in Sch. 5 para. 10(3) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(6)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/6)
+[^c-357e84aeedf280d8ecae2c6e3fe6b9fb]: Textual amendment: Words in Sch. 5 para. 10(3) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(6)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/6)
 
-[^key-f2c28e7b20d8cb0c5c5df582ffb25d5d]: Textual amendment: Words in Sch. 5 para. 10(3) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/2)
+[^c-f2c28e7b20d8cb0c5c5df582ffb25d5d]: Textual amendment: Words in Sch. 5 para. 10(3) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/2)
 
-[^key-c0452f62f0b722ed3df8d7691959de83]: Textual amendment: Words in Sch. 5 para. 10(4) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(7)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/7)
+[^c-c0452f62f0b722ed3df8d7691959de83]: Textual amendment: Words in Sch. 5 para. 10(4) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 14(7)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14/7)
 
-[^key-97d5903d5e8eb05aaf30d219562c5741]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/11) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-97d5903d5e8eb05aaf30d219562c5741]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/11) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-c40721e09c85deb07f4d0172ae54dd82]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/12) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c40721e09c85deb07f4d0172ae54dd82]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/12) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-b01653d9a71f6e386b4cc2a6f30dc513]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/13) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b01653d9a71f6e386b4cc2a6f30dc513]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2004/20/schedule/5/paragraph/13) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

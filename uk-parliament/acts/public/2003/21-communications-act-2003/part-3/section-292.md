@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292. OFCOM’s power to impose arrangements[^key-b24c6e54a8d3eeb6143645688fd0af39]
+## 292. OFCOM’s power to impose arrangements[^c-b24c6e54a8d3eeb6143645688fd0af39]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ the imposed arrangements shall cease to have effect on the coming into force of 
 
 ## Annotations
 
-[^key-b24c6e54a8d3eeb6143645688fd0af39]: Commencement: S. 292 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b24c6e54a8d3eeb6143645688fd0af39]: Commencement: S. 292 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

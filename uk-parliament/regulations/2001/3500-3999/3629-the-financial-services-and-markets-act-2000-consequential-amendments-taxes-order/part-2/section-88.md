@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Introduction[^key-febea78b8963fa6bbba38e4190679048]
+## 88. Introduction[^c-febea78b8963fa6bbba38e4190679048]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 1995 in accordance with Articles 89 to 91.
 
 ## Annotations
 
-[^key-febea78b8963fa6bbba38e4190679048]: Commencement: Art. 88 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-febea78b8963fa6bbba38e4190679048]: Commencement: Art. 88 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

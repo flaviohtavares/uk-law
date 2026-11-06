@@ -28,7 +28,7 @@ FORMS
 
 ### A. Forms used in connection with both Summary Trial and Preliminary Investigation/Inquiry
 
-[^key-b49b0ad2bd8d7f381ba49238e9fb3ef8][^key-5dc4e4d119f644cc3ed3012558afbd34]FORM 1
+[^c-b49b0ad2bd8d7f381ba49238e9fb3ef8][^c-5dc4e4d119f644cc3ed3012558afbd34]FORM 1
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -38,11 +38,11 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_001.gif)
 
-[^key-2b481849aa2869ace7eaecf8e2500e1c]...
+[^c-2b481849aa2869ace7eaecf8e2500e1c]...
 
-[^key-4771ac7da882deda77bd6f5478cb5bce]...
+[^c-4771ac7da882deda77bd6f5478cb5bce]...
 
-\[[^f00294][^key-b4a577e319644dfb55da0bd19b9cb077][^key-8c4a36fec86f5a8a14042a1c9efb2afc]FORM 2
+\[[^f00294][^c-b4a577e319644dfb55da0bd19b9cb077][^c-8c4a36fec86f5a8a14042a1c9efb2afc]FORM 2
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -56,7 +56,7 @@ JUSTICE ACT (NORTHERN IRELAND) 2015
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_004.gif)
 
-[^key-b8438f40f35434e7162b238a8159a397]...
+[^c-b8438f40f35434e7162b238a8159a397]...
 
 \[[^f00296] FORM 2B
 
@@ -76,9 +76,9 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_006.gif)
 
-[^key-cbf63155e3061e3685edeace775ee6d3]...
+[^c-cbf63155e3061e3685edeace775ee6d3]...
 
-\[[^f00298] [^key-2aba1e770e946587ffd46fc33a6e83be]FORM 3
+\[[^f00298] [^c-2aba1e770e946587ffd46fc33a6e83be]FORM 3
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -88,7 +88,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_008.gif)
 
-\[[^f00299] [^key-be36d8dd4a57406945e142a1556c389b]FORM 4
+\[[^f00299] [^c-be36d8dd4a57406945e142a1556c389b]FORM 4
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -132,7 +132,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_012.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_013.gif)
 
-[^key-32982239e41c7796196a261e51a2eb7c]FORM 7
+[^c-32982239e41c7796196a261e51a2eb7c]FORM 7
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -142,11 +142,11 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_014.gif)
 
-[^key-469851e1840bf2c60170fb80283921be]...
+[^c-469851e1840bf2c60170fb80283921be]...
 
-[^key-6f74486424fe9272839fd787277184aa]...
+[^c-6f74486424fe9272839fd787277184aa]...
 
-\[(**a**) [^key-38fff758e57ac446476b790bb18f8b4b][^key-18e246976d7930d959e2aaf4213f6147]FORM 8B
+\[(**a**) [^c-38fff758e57ac446476b790bb18f8b4b][^c-18e246976d7930d959e2aaf4213f6147]FORM 8B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -158,7 +158,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_017.gif)
 
-\[[^f00303] [^key-38fff758e57ac446476b790bb18f8b4b][^key-18e246976d7930d959e2aaf4213f6147]FORM 8C
+\[[^f00303] [^c-38fff758e57ac446476b790bb18f8b4b][^c-18e246976d7930d959e2aaf4213f6147]FORM 8C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -168,7 +168,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_018.gif)
 
-[^key-a8fd5c9649fd457c2b9cc189e521d961]...
+[^c-a8fd5c9649fd457c2b9cc189e521d961]...
 
 FORM 9
 
@@ -180,7 +180,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_020.gif)
 
-[^key-2a12d149dab0d5b85c825ada50ee2cb5]...
+[^c-2a12d149dab0d5b85c825ada50ee2cb5]...
 
 FORM 10
 
@@ -212,7 +212,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_024.gif)
 
-\[[^f00308] [^key-69f1b6ef7b1d83a91d6aed44950d33c3]FORM 10C
+\[[^f00308] [^c-69f1b6ef7b1d83a91d6aed44950d33c3]FORM 10C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -236,7 +236,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_027.gif)
 
-\[[^f00309] [^key-cdfb24f8e21dff019396403715f74ca2]FORM 11A
+\[[^f00309] [^c-cdfb24f8e21dff019396403715f74ca2]FORM 11A
 
 MAGISTRATES COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -270,7 +270,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_030.gif)
 
-\[[^f00311] [^key-fe029e477f695feac632ea2be21fde8b][^key-d63d5e80e3e5339564c0b551567945a2]FORM 14
+\[[^f00311] [^c-fe029e477f695feac632ea2be21fde8b][^c-d63d5e80e3e5339564c0b551567945a2]FORM 14
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -284,7 +284,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_031.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_032.gif)
 
-\[[^f00312] [^key-63711d5fac5e2f1c410fb3161e43fd89][^key-4357a996827bc63ddec391f806547bb2]FORM 14ZA
+\[[^f00312] [^c-63711d5fac5e2f1c410fb3161e43fd89][^c-4357a996827bc63ddec391f806547bb2]FORM 14ZA
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -298,7 +298,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_033.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_034.gif)
 
-[^key-a41b424fa8a39a33ab81bc6cc6cde644][^key-d2582e2ce307c1f62f016cebd76c89b9][^key-62005ebe311ef6eaddc4f55b4e7d6087]FORM 14A
+[^c-a41b424fa8a39a33ab81bc6cc6cde644][^c-d2582e2ce307c1f62f016cebd76c89b9][^c-62005ebe311ef6eaddc4f55b4e7d6087]FORM 14A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -312,7 +312,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_035.gif)
 
-[^key-ffd11c167260a4b3dee06bd5ea22b858][^key-05929b84d479671943a4b71add1d5548][^key-2b522cdfc16980cbc7f590d63f19763e]FORM 14B
+[^c-ffd11c167260a4b3dee06bd5ea22b858][^c-05929b84d479671943a4b71add1d5548][^c-2b522cdfc16980cbc7f590d63f19763e]FORM 14B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -326,7 +326,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_036.gif)
 
-[^key-285b2bd4e63519c078755cbbf7980d00][^key-bc9321e74650c11ef31cac02ff97cc25]FORM 14C
+[^c-285b2bd4e63519c078755cbbf7980d00][^c-bc9321e74650c11ef31cac02ff97cc25]FORM 14C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -340,7 +340,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_037.gif)
 
-[^key-a4fb87044ab464a0631e87aea0dfe495][^key-da54543fdbc56013451c9915b079feba]FORM 14D
+[^c-a4fb87044ab464a0631e87aea0dfe495][^c-da54543fdbc56013451c9915b079feba]FORM 14D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -354,7 +354,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_038.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_039.gif)
 
-\[[^f00313] [^key-3f8f672df1f36615ebac9946ddf18a43]FORM 14DA
+\[[^f00313] [^c-3f8f672df1f36615ebac9946ddf18a43]FORM 14DA
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -368,7 +368,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_040.gif)
 
-[^key-1e9bd0bae49a59815862c6b2a26b28a3][^key-5af47840391af513ba8263e426df4f34]FORM 14E
+[^c-1e9bd0bae49a59815862c6b2a26b28a3][^c-5af47840391af513ba8263e426df4f34]FORM 14E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -382,7 +382,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_041.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_042.gif)
 
-[^key-1e9bd0bae49a59815862c6b2a26b28a3][^key-5af47840391af513ba8263e426df4f34]FORM 14F
+[^c-1e9bd0bae49a59815862c6b2a26b28a3][^c-5af47840391af513ba8263e426df4f34]FORM 14F
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -402,7 +402,7 @@ FORM 15
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
-(Article 32(1)(b)(i); Rules [^key-354b55bb75b69472c91a3bd94608e33d]... 32(5) and (6))
+(Article 32(1)(b)(i); Rules [^c-354b55bb75b69472c91a3bd94608e33d]... 32(5) and (6))
 
 **Statement of Complaint(s)**
 
@@ -410,7 +410,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 \[[^f00314] ... Form 15A\]
 
-\[(**a**) [^key-c45a4a3dcf3a9aab7a0777655344d6fc][^key-5655a6ffe3e2bb1c8cb309e490e0ddad][^M_F_3da2d8c5-48ce-4e07-ea60-b9eed952b58c]FORM 15B
+\[(**a**) [^c-c45a4a3dcf3a9aab7a0777655344d6fc][^c-5655a6ffe3e2bb1c8cb309e490e0ddad][^M_F_3da2d8c5-48ce-4e07-ea60-b9eed952b58c]FORM 15B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -424,7 +424,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_046.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_047.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_048.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_049.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_050.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_051.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_052.gif)
 
-\[(**a**) [^key-3e21129dc4d9fa7dfdf90eabd3901dad]FORM 15C
+\[(**a**) [^c-3e21129dc4d9fa7dfdf90eabd3901dad]FORM 15C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -438,7 +438,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_053.gif)
 
-\[[^f00315] [^key-af0953397e26fd1303193d840ded8d80][^key-70098cbd36525f0c1cee86953d79f66b]FORM 15D
+\[[^f00315] [^c-af0953397e26fd1303193d840ded8d80][^c-70098cbd36525f0c1cee86953d79f66b]FORM 15D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -452,7 +452,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_054.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_055.gif)
 
-[^key-c7c13a40d413ec03a88e5ad8a6a8496d]FORM 15E
+[^c-c7c13a40d413ec03a88e5ad8a6a8496d]FORM 15E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -466,7 +466,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_056.gif)
 
-[^key-c7c13a40d413ec03a88e5ad8a6a8496d]FORM 15F
+[^c-c7c13a40d413ec03a88e5ad8a6a8496d]FORM 15F
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -480,7 +480,7 @@ NOTICE BY CLERK OF PETTY SESSIONS OF A DECISION OF THE COURT \[ON APPLICATION BY
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_057.gif)
 
-[^key-b3f6ad0754be0cf5f44d19dee266fca5][^key-fcde18895a89e59269da058a8865c408]FORM 15G
+[^c-b3f6ad0754be0cf5f44d19dee266fca5][^c-fcde18895a89e59269da058a8865c408]FORM 15G
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -494,7 +494,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_058.gif)
 
-[^key-afeb063e6d467dd60d4c24bc314cd000]FORM 15H
+[^c-afeb063e6d467dd60d4c24bc314cd000]FORM 15H
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -508,7 +508,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_059.gif)
 
-[^key-9892a61ebbcad2219a0f1d9082f70ef3][^key-50131a7e47d801c5c0944ddee02ffa58][^key-2ba0e1836223f214ce21cdae1fc1438c]FORM 15I
+[^c-9892a61ebbcad2219a0f1d9082f70ef3][^c-50131a7e47d801c5c0944ddee02ffa58][^c-2ba0e1836223f214ce21cdae1fc1438c]FORM 15I
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -522,7 +522,7 @@ NOTICE TO THE CLERK OF PETTY SESSIONS OF AN APPLICATION FOR LEAVE TO ADDUCE EVID
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_060.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_061.gif)
 
-[^key-9892a61ebbcad2219a0f1d9082f70ef3][^key-50131a7e47d801c5c0944ddee02ffa58]FORM 15J
+[^c-9892a61ebbcad2219a0f1d9082f70ef3][^c-50131a7e47d801c5c0944ddee02ffa58]FORM 15J
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -536,7 +536,7 @@ NOTICE TO THE CLERK OF PETTY SESSIONS WHETHER OR NOT THE PROSECUTOR OPPOSES THE 
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_062.gif)
 
-[^key-82159909c6eba7c9485cd86ec1404e84]FORM 15K
+[^c-82159909c6eba7c9485cd86ec1404e84]FORM 15K
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -550,7 +550,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_063.gif)
 
-[^key-82159909c6eba7c9485cd86ec1404e84]FORM 15L
+[^c-82159909c6eba7c9485cd86ec1404e84]FORM 15L
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -564,7 +564,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_064.gif)
 
-\[(**a**) [^key-e406473100a0bbf74765c71a033292d0]FORM 15M
+\[(**a**) [^c-e406473100a0bbf74765c71a033292d0]FORM 15M
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -578,7 +578,7 @@ YOUTH JUSTICE AND CRIMINAL EVIDENCE ACT 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_065.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_066.gif)
 
-[^key-e406473100a0bbf74765c71a033292d0]FORM 15N
+[^c-e406473100a0bbf74765c71a033292d0]FORM 15N
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -592,7 +592,7 @@ YOUTH JUSTICE AND CRIMINAL EVIDENCE ACT 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_067.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_068.gif)
 
-[^key-e406473100a0bbf74765c71a033292d0]FORM 15O
+[^c-e406473100a0bbf74765c71a033292d0]FORM 15O
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -620,7 +620,7 @@ YOUTH JUSTICE AND CRIMINAL EVIDENCE ACT 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_071.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_072.gif)
 
-[^key-fe6e1c6d30f003c27171c1e338dadf68]FORM 16
+[^c-fe6e1c6d30f003c27171c1e338dadf68]FORM 16
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -660,7 +660,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_076.gif)
 
-### D. Forms used in connection with Preliminary Inquiry.[^key-cfe4669b4038d881e425372792208cbf][^key-565ca903f16cec0c0d0a0142ed8ef792]
+### D. Forms used in connection with Preliminary Inquiry.[^c-cfe4669b4038d881e425372792208cbf][^c-565ca903f16cec0c0d0a0142ed8ef792]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_021.gif)
 
@@ -670,7 +670,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [^M_F_7c7c9bd0-c91d-4590-a8ff-1807b4785f91]...
 
-[^key-1ca70214016b70c9bb7ae311bbff23fb]FORM 23
+[^c-1ca70214016b70c9bb7ae311bbff23fb]FORM 23
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -680,7 +680,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_083.gif)
 
-[^key-1ca70214016b70c9bb7ae311bbff23fb]FORM 24
+[^c-1ca70214016b70c9bb7ae311bbff23fb]FORM 24
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -714,7 +714,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 ### E. Forms used in Connection with Committal for Trial of Person against whom an Indictment has been Presented.
 
-[^key-cb08eccf7f364b92049f29a0d9b416c6]FORM 28
+[^c-cb08eccf7f364b92049f29a0d9b416c6]FORM 28
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -724,7 +724,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_088.gif)
 
-[^key-593821191a80add861bf7c013a5ca99a]FORM 29
+[^c-593821191a80add861bf7c013a5ca99a]FORM 29
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -736,7 +736,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 ### F. Forms used in connection with Summary Trial of lndictable Offences specified in Schedule 2 to the Order
 
-[^key-2b77452cb73d08b153a8c00ee1d640c6][^key-4820e661bd1b033d62530c1b15db2c91]FORM 30
+[^c-2b77452cb73d08b153a8c00ee1d640c6][^c-4820e661bd1b033d62530c1b15db2c91]FORM 30
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -774,7 +774,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 **DEBT PROCEEDINGS**
 
-[^key-47dfd0bfd04741be34a4d74238996f96]FORM 33
+[^c-47dfd0bfd04741be34a4d74238996f96]FORM 33
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -784,7 +784,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_093.gif)
 
-[^key-d9526456bdfd6f678d2232f9e2cc8546]FORM 34
+[^c-d9526456bdfd6f678d2232f9e2cc8546]FORM 34
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -814,7 +814,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_096.gif)
 
-[^key-893390006fdc03ccc8526d911bff38fb]FORM 37
+[^c-893390006fdc03ccc8526d911bff38fb]FORM 37
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -834,7 +834,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_098.gif)
 
-[^key-46907b3acf62d0d9b53e9f302b6dc165]FORM 39
+[^c-46907b3acf62d0d9b53e9f302b6dc165]FORM 39
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -842,7 +842,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_099.gif)
 
-[^key-46907b3acf62d0d9b53e9f302b6dc165]FORM 40
+[^c-46907b3acf62d0d9b53e9f302b6dc165]FORM 40
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -852,7 +852,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 **EJECTMENT PROCEEDINGS**
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 41
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 41
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -862,7 +862,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_101.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 42
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 42
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -872,7 +872,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_102.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 43
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 43
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND)ORDER 1981
 
@@ -882,7 +882,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND)ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_103.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 44
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 44
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -892,7 +892,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_104.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 45
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 45
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -902,7 +902,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_105.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 46
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 46
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -912,7 +912,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_106.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 47
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 47
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -922,7 +922,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_107.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 48
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 48
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -932,7 +932,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_108.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 49
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 49
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -942,7 +942,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_109.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 50
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 50
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -952,7 +952,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_110.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 51
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 51
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -962,7 +962,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_111.gif)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]FORM 52
+[^c-6289ec2159c7e2868f620baafb309ac0]FORM 52
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -972,7 +972,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_112.gif)
 
-[^key-816c8eacc50e09b7289a5569c71c6625]FORM 53
+[^c-816c8eacc50e09b7289a5569c71c6625]FORM 53
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -980,7 +980,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_113.gif)
 
-[^key-816c8eacc50e09b7289a5569c71c6625]FORM 54
+[^c-816c8eacc50e09b7289a5569c71c6625]FORM 54
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -990,7 +990,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 **APPEALS AND APPLICATIONS TO MAGISTRATES’ COURTS**
 
-[^key-27e9d8a3dbd560b285e295a2af65dd9d][^key-8225dff58a2b4d3a6f21f9307d75d03f]FORM 55
+[^c-27e9d8a3dbd560b285e295a2af65dd9d][^c-8225dff58a2b4d3a6f21f9307d75d03f]FORM 55
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1000,7 +1000,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_115.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_116.gif)
 
-\[[^f00320][^key-27e9d8a3dbd560b285e295a2af65dd9d][^key-8225dff58a2b4d3a6f21f9307d75d03f]FORM 55A
+\[[^f00320][^c-27e9d8a3dbd560b285e295a2af65dd9d][^c-8225dff58a2b4d3a6f21f9307d75d03f]FORM 55A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1014,7 +1014,7 @@ CRIME (INTERNATIONAL CO-OPERATION) ACT 2003
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_117.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_118.gif)
 
-[^key-85d142cdfacacfb6120e37e0ac428a9e][^key-b25cdf9c4f59c0761e7ec41e4f1964d1][^key-612cf3ea581ee9760f9f7d524cf768e6]FORM 56
+[^c-85d142cdfacacfb6120e37e0ac428a9e][^c-b25cdf9c4f59c0761e7ec41e4f1964d1][^c-612cf3ea581ee9760f9f7d524cf768e6]FORM 56
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1026,7 +1026,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 **PROCEEDINGS ON COMPLAINT IN A CIVIL MATTER**
 
-[^key-ecc1e48aa0056f4dedca0a58b26ddf49]FORM 57
+[^c-ecc1e48aa0056f4dedca0a58b26ddf49]FORM 57
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1036,7 +1036,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_120.gif)
 
-[^key-19fd73fc4607db47af9f88f3f46330b8]FORM 58
+[^c-19fd73fc4607db47af9f88f3f46330b8]FORM 58
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1046,7 +1046,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_121.gif)
 
-[^key-19fd73fc4607db47af9f88f3f46330b8]FORM 59
+[^c-19fd73fc4607db47af9f88f3f46330b8]FORM 59
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1058,7 +1058,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 **SATISFACTION AND ENFORCEMENT OF ORDERS**
 
-### A. Orders in Criminal Proceedings[^key-6dd7f7522f396b0cc62a2facb019e348][^key-b68e7ebf43df274b531dee7268d6335a][^key-fc25f614f7e110bff4d02fa4d3861d28][^key-af1631afb3628aff9cad3e94882dcb00][^key-b4a23047b678e44d5beb94be91d36c17]
+### A. Orders in Criminal Proceedings[^c-6dd7f7522f396b0cc62a2facb019e348][^c-b68e7ebf43df274b531dee7268d6335a][^c-fc25f614f7e110bff4d02fa4d3861d28][^c-af1631afb3628aff9cad3e94882dcb00][^c-b4a23047b678e44d5beb94be91d36c17]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_001.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_002.gif)
 
@@ -1074,7 +1074,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_014.gif)
 
-[^key-9f4560473ca832b2eba468892012d3af][^key-17e8de2569dcc77c2ac8de8c93056ee2]FORM 61
+[^c-9f4560473ca832b2eba468892012d3af][^c-17e8de2569dcc77c2ac8de8c93056ee2]FORM 61
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1084,7 +1084,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_131.gif)
 
-\[[^f00325] [^key-5e221ee6d0b2b64517ea529e7c7e57ac][^key-b7f492dcdab61857e6ea028f0469e26b][^key-79a672ec079fd8558e14578b27591648][^key-daee7463a85305bdc29fac74ab963b9b]FORM 61A
+\[[^f00325] [^c-5e221ee6d0b2b64517ea529e7c7e57ac][^c-b7f492dcdab61857e6ea028f0469e26b][^c-79a672ec079fd8558e14578b27591648][^c-daee7463a85305bdc29fac74ab963b9b]FORM 61A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1092,13 +1092,13 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996
 
-Justice Act (Northern Ireland) 2016; Section 9[^key-4e8ed5d5d40a30b19d235b4ecd8d69da]
+Justice Act (Northern Ireland) 2016; Section 9[^c-4e8ed5d5d40a30b19d235b4ecd8d69da]
 
 **Warrant of Distress for Sum Registered under Article 76 of the Road Traffic Offenders (Northern Ireland) Order 1996**
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_132.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_133.gif)
 
-[^key-2aa390634ef19f9860f41802d73578cf][^key-9dd82d93f8ba41a7823dacfbdebca9dd]FORM 62
+[^c-2aa390634ef19f9860f41802d73578cf][^c-9dd82d93f8ba41a7823dacfbdebca9dd]FORM 62
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1108,7 +1108,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_134.gif)
 
-\[[^f00326][^key-4a64bf4a2ee6bfc1ea39d479617b3cf0][^key-4289b1dd90f7d1b68044e47500434312][^key-2f5ad7fe4b3b02d421af41da298791b7][^key-f226fb2326d8b70979b620772a87798e]FORM 62A
+\[[^f00326][^c-4a64bf4a2ee6bfc1ea39d479617b3cf0][^c-4289b1dd90f7d1b68044e47500434312][^c-2f5ad7fe4b3b02d421af41da298791b7][^c-f226fb2326d8b70979b620772a87798e]FORM 62A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1116,7 +1116,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996
 
-Justice Act (Northern Ireland) 2016; Section 9[^key-697cca6348f62005679a6e62cf0f1aac]
+Justice Act (Northern Ireland) 2016; Section 9[^c-697cca6348f62005679a6e62cf0f1aac]
 
 **Warrant of Commitment for Fine Registered under Article 76 of the Road Traffic Offenders (Northern Ireland) Order 1996**
 
@@ -1124,11 +1124,11 @@ Justice Act (Northern Ireland) 2016; Section 9[^key-697cca6348f62005679a6e62cf0f
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_015.gif)
 
-[^key-916441a4ca33036e54b5b6111a43c965][^key-96fcbbc237f8b6c5d67f0d1dc67b83f3][^key-85d034fdc68ecdf8bcdd1e71d50040a9]FORM 62C
+[^c-916441a4ca33036e54b5b6111a43c965][^c-96fcbbc237f8b6c5d67f0d1dc67b83f3][^c-85d034fdc68ecdf8bcdd1e71d50040a9]FORM 62C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
-(Rules 7, 17 and 106A[^key-57a54c1b107b42cb9d350f9fa3909139])
+(Rules 7, 17 and 106A[^c-57a54c1b107b42cb9d350f9fa3909139])
 
 CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
@@ -1138,7 +1138,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_138.gif)
 
-[^key-0739fb093c2ef450a0538c3658e8e70d][^key-63e103b98793f30227167ca19d5e52b8][^key-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62D
+[^c-0739fb093c2ef450a0538c3658e8e70d][^c-63e103b98793f30227167ca19d5e52b8][^c-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1152,7 +1152,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_139.gif)
 
-[^key-0739fb093c2ef450a0538c3658e8e70d][^key-63e103b98793f30227167ca19d5e52b8][^key-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62E
+[^c-0739fb093c2ef450a0538c3658e8e70d][^c-63e103b98793f30227167ca19d5e52b8][^c-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1166,7 +1166,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_140.gif)
 
-[^key-0739fb093c2ef450a0538c3658e8e70d][^key-63e103b98793f30227167ca19d5e52b8][^key-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62F
+[^c-0739fb093c2ef450a0538c3658e8e70d][^c-63e103b98793f30227167ca19d5e52b8][^c-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62F
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1180,7 +1180,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_141.gif)
 
-[^key-0739fb093c2ef450a0538c3658e8e70d][^key-63e103b98793f30227167ca19d5e52b8][^key-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62G
+[^c-0739fb093c2ef450a0538c3658e8e70d][^c-63e103b98793f30227167ca19d5e52b8][^c-c4842dd8c8506e5c45ffee1c1f17de96]FORM 62G
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1196,7 +1196,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_142.gif)
 
-[^key-5840d02ee543a5a6b5ad9bd5ebf52ae6][^key-d9050e92f8d1086d2ca42bdd324de5ba][^key-de4abeb109718ac62ea241f45afea07f]FORM 62H
+[^c-5840d02ee543a5a6b5ad9bd5ebf52ae6][^c-d9050e92f8d1086d2ca42bdd324de5ba][^c-de4abeb109718ac62ea241f45afea07f]FORM 62H
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1210,7 +1210,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_143.gif)
 
-[^key-aae7cdd6711303f1203a4b30b28575de][^key-1868830642c0daefbba98f6afec4d1c3]FORM 62I
+[^c-aae7cdd6711303f1203a4b30b28575de][^c-1868830642c0daefbba98f6afec4d1c3]FORM 62I
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1224,7 +1224,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_144.gif)
 
-[^key-7f0bc1005e450328fb82693cf24b6a6c][^key-7908c00539b834819cdcda93b3d65618][^key-46c5820d190eaeb9cbef13080e6d2783][^key-7a66ee4a8f36b85cbdbdb3c643816a67]FORM 62J
+[^c-7f0bc1005e450328fb82693cf24b6a6c][^c-7908c00539b834819cdcda93b3d65618][^c-46c5820d190eaeb9cbef13080e6d2783][^c-7a66ee4a8f36b85cbdbdb3c643816a67]FORM 62J
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1238,7 +1238,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_145.gif)
 
-[^key-f6855276f4c54bc002a11704a23c0116]FORM 62K
+[^c-f6855276f4c54bc002a11704a23c0116]FORM 62K
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1252,7 +1252,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_146.gif)
 
-[^key-f6855276f4c54bc002a11704a23c0116]FORM 62L
+[^c-f6855276f4c54bc002a11704a23c0116]FORM 62L
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1266,7 +1266,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_147.gif)
 
-\[[^f00328][^key-84b3bb72dc5d155e2e561fbdff70bd97][^key-3ece0a6704922afb7f801199922544fa][^key-c2c2cdc52f12bb3d4c8bfe2b9f4bbebf][^key-dbd99b7d7625af1723159603a52dff2c]FORM 62M
+\[[^f00328][^c-84b3bb72dc5d155e2e561fbdff70bd97][^c-3ece0a6704922afb7f801199922544fa][^c-c2c2cdc52f12bb3d4c8bfe2b9f4bbebf][^c-dbd99b7d7625af1723159603a52dff2c]FORM 62M
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1274,7 +1274,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 JUSTICE ACT (NORTHERN IRELAND) 2011
 
-Justice Act (Northern Ireland) 2016; Section 9[^key-719ed53dcd525058cb505e91a337b5ca]
+Justice Act (Northern Ireland) 2016; Section 9[^c-719ed53dcd525058cb505e91a337b5ca]
 
 **Warrant of Commitment for Sum Registered under Section 67 of the Justice Act (Northern Ireland) 2011**
 
@@ -1294,7 +1294,7 @@ TREATMENT OF OFFENDERS ACT (NORTHERN IRELAND) 1968
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_150.gif)
 
-\[[^f00329] [^key-a23587eb9777f5311fd978e2e7cd895b]FORM 63A
+\[[^f00329] [^c-a23587eb9777f5311fd978e2e7cd895b]FORM 63A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1308,7 +1308,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_151.gif)
 
-[^key-7429a19a7bae6033aa63470335b9bdd6][^key-6816c65cc50945a92e68bac316753b26]FORM 63B
+[^c-7429a19a7bae6033aa63470335b9bdd6][^c-6816c65cc50945a92e68bac316753b26]FORM 63B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1322,7 +1322,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_152.gif)
 
-[^key-dd6c0329aaf8abd070e330ad5f62e873][^key-dcd4ba73979e0d29b8ed6150a55bb9ed]FORM 63C
+[^c-dd6c0329aaf8abd070e330ad5f62e873][^c-dcd4ba73979e0d29b8ed6150a55bb9ed]FORM 63C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1336,7 +1336,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_153.gif)
 
-[^key-dd6c0329aaf8abd070e330ad5f62e873][^key-dcd4ba73979e0d29b8ed6150a55bb9ed]FORM 63D
+[^c-dd6c0329aaf8abd070e330ad5f62e873][^c-dcd4ba73979e0d29b8ed6150a55bb9ed]FORM 63D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1350,7 +1350,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_154.gif)
 
-[^key-c4075211f945d9b399586dd9cff4a9e5]FORM 63E
+[^c-c4075211f945d9b399586dd9cff4a9e5]FORM 63E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1392,7 +1392,7 @@ TREATMENT OF OFFENDERS ACT (NORTHERN IRELAND) 1968
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_157.gif)
 
-[^key-ce59d88f975e5d80fc26f9a25235980d]FORM 66
+[^c-ce59d88f975e5d80fc26f9a25235980d]FORM 66
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1406,7 +1406,7 @@ TREATMENT OF OFFENDERS (NORTHERN IRELAND) ORDER 1976
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_158.gif)
 
-[^key-ce59d88f975e5d80fc26f9a25235980d]FORM 67
+[^c-ce59d88f975e5d80fc26f9a25235980d]FORM 67
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1448,7 +1448,7 @@ TREATMENT OF OFFENDERS (NORTHERN IRELAND) ORDER 1976
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_161.gif)
 
-\[[^f00330] [^key-b156a2356c8a6f88d3f3b63cac9e26dc][^key-27686319b6bbde1ce443a4da4cc9b082][^key-76e0b1f10fe6029a9d518b81cc3a4fdc]FORM 69A
+\[[^f00330] [^c-b156a2356c8a6f88d3f3b63cac9e26dc][^c-27686319b6bbde1ce443a4da4cc9b082][^c-76e0b1f10fe6029a9d518b81cc3a4fdc]FORM 69A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1462,7 +1462,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_162.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_163.gif)
 
-[^key-a30cfc87a010a6e36e9d3cfba6eae004][^key-af5ccf24eaa9f3187c133c84e8c4b61a]FORM 69B
+[^c-a30cfc87a010a6e36e9d3cfba6eae004][^c-af5ccf24eaa9f3187c133c84e8c4b61a]FORM 69B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1476,7 +1476,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_164.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_165.gif)
 
-[^key-58f6006705ceb99a2d4e13ea01d1aa1d][^key-b67479243a0a3bee96786e2e0e7c0f44][^key-40c1c135a21a501e4e9fc973a56d5799]FORM 69C
+[^c-58f6006705ceb99a2d4e13ea01d1aa1d][^c-b67479243a0a3bee96786e2e0e7c0f44][^c-40c1c135a21a501e4e9fc973a56d5799]FORM 69C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1490,7 +1490,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_166.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_167.gif)
 
-[^key-5ad823dc8c1af285abc2358d2c814df4][^key-20c681f52854c1fe314a5e34034a762e][^key-2f18cffd6c2cba407c33c509b6f9f47a]FORM 69D
+[^c-5ad823dc8c1af285abc2358d2c814df4][^c-20c681f52854c1fe314a5e34034a762e][^c-2f18cffd6c2cba407c33c509b6f9f47a]FORM 69D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1504,7 +1504,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_168.gif)
 
-[^key-5e1f809b8e0f11929a04d7e97d0e39cb][^key-38d3858139406b159a045938cafc0aec][^key-8273c022b55ba15f49108a4c17248028]FORM 69E
+[^c-5e1f809b8e0f11929a04d7e97d0e39cb][^c-38d3858139406b159a045938cafc0aec][^c-8273c022b55ba15f49108a4c17248028]FORM 69E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1518,7 +1518,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_169.gif)
 
-[^key-5e1f809b8e0f11929a04d7e97d0e39cb][^key-38d3858139406b159a045938cafc0aec][^key-8273c022b55ba15f49108a4c17248028]FORM 69F
+[^c-5e1f809b8e0f11929a04d7e97d0e39cb][^c-38d3858139406b159a045938cafc0aec][^c-8273c022b55ba15f49108a4c17248028]FORM 69F
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1532,7 +1532,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_170.gif)
 
-[^key-0d499e4ee29a5fcdc9ae17d64d054616][^key-fc7f1336cca310b5263b5dad5e9cfc0c]FORM 69G
+[^c-0d499e4ee29a5fcdc9ae17d64d054616][^c-fc7f1336cca310b5263b5dad5e9cfc0c]FORM 69G
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1546,7 +1546,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_171.gif)
 
-[^key-328df7374997ef99e1ac476565035100][^key-02d54795554f2a97dc85ec6e2f24f18d]FORM 69H
+[^c-328df7374997ef99e1ac476565035100][^c-02d54795554f2a97dc85ec6e2f24f18d]FORM 69H
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1560,7 +1560,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_172.gif)
 
-[^key-328df7374997ef99e1ac476565035100][^key-02d54795554f2a97dc85ec6e2f24f18d]FORM 69I
+[^c-328df7374997ef99e1ac476565035100][^c-02d54795554f2a97dc85ec6e2f24f18d]FORM 69I
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1574,7 +1574,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_173.gif)
 
-[^key-328df7374997ef99e1ac476565035100][^key-02d54795554f2a97dc85ec6e2f24f18d]FORM 69J
+[^c-328df7374997ef99e1ac476565035100][^c-02d54795554f2a97dc85ec6e2f24f18d]FORM 69J
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1588,7 +1588,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_174.gif)
 
-[^key-8da622baea75d84c3fe402b445114b03][^key-b78cbaef0ebfa5aea89a666261dadcf4]FORM 69K
+[^c-8da622baea75d84c3fe402b445114b03][^c-b78cbaef0ebfa5aea89a666261dadcf4]FORM 69K
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1602,7 +1602,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_175.gif)
 
-[^key-cd2b8f24308176fd63105433991e2f17]FORM 69L
+[^c-cd2b8f24308176fd63105433991e2f17]FORM 69L
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1616,7 +1616,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_176.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_177.gif)
 
-[^key-d3fb5775f017b4312f8d5ebe10ba5c5e][^key-3d31967218c76f67d647336b3fbaf89b]FORM 69M
+[^c-d3fb5775f017b4312f8d5ebe10ba5c5e][^c-3d31967218c76f67d647336b3fbaf89b]FORM 69M
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1630,7 +1630,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_178.gif)
 
-\[[^f00331] [^key-b502806b1b673c10a40ddedf1c909c12]FORM 69N
+\[[^f00331] [^c-b502806b1b673c10a40ddedf1c909c12]FORM 69N
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1644,7 +1644,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_179.gif)
 
-[^key-b502806b1b673c10a40ddedf1c909c12]FORM 69O
+[^c-b502806b1b673c10a40ddedf1c909c12]FORM 69O
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1658,7 +1658,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_180.gif)
 
-[^key-839926f116df945b0cd4b56f9ee304ae][^key-2e738caa2b6ad0d5dfb7554eafa8391f]FORM 69P
+[^c-839926f116df945b0cd4b56f9ee304ae][^c-2e738caa2b6ad0d5dfb7554eafa8391f]FORM 69P
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1672,7 +1672,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_181.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_182.gif)
 
-[^key-839926f116df945b0cd4b56f9ee304ae][^key-2e738caa2b6ad0d5dfb7554eafa8391f]FORM 69Q
+[^c-839926f116df945b0cd4b56f9ee304ae][^c-2e738caa2b6ad0d5dfb7554eafa8391f]FORM 69Q
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1686,7 +1686,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 1996
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_183.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_184.gif)
 
-[^key-b8f6cb1b15d0ebb7c945de42f223cb8e]FORM 70
+[^c-b8f6cb1b15d0ebb7c945de42f223cb8e]FORM 70
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1696,7 +1696,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_185.gif)
 
-[^key-095ff78f364f3d1fee7ade4768484ea2]FORM 71
+[^c-095ff78f364f3d1fee7ade4768484ea2]FORM 71
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1724,7 +1724,7 @@ CRIMINAL JUSTICE AND IMMIGRATION ACT 2008
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_017.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_epp_018.gif)
 
-[^key-5db6ec8a582dfb4277082264e891bb3f]FORM 73
+[^c-5db6ec8a582dfb4277082264e891bb3f]FORM 73
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1742,7 +1742,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 ### B. Orders in Debt Proceedings
 
-[^key-b4fde764c2021ce4fa5ace79e481d6ee]FORM 75
+[^c-b4fde764c2021ce4fa5ace79e481d6ee]FORM 75
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1762,7 +1762,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_194.gif)
 
-[^key-2d6d0f971c75d62abfcb4086699bc948]FORM 77
+[^c-2d6d0f971c75d62abfcb4086699bc948]FORM 77
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1772,7 +1772,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_195.gif)
 
-[^key-2d6d0f971c75d62abfcb4086699bc948]FORM 78
+[^c-2d6d0f971c75d62abfcb4086699bc948]FORM 78
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1806,7 +1806,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_198.gif)
 
-[^key-db72d9fee06aa93d5f25411f1e8e54ae]FORM 81
+[^c-db72d9fee06aa93d5f25411f1e8e54ae]FORM 81
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1826,7 +1826,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_200.gif)
 
-[^key-acae7092bd74d4884cbcf125a0f34b90]FORM 83
+[^c-acae7092bd74d4884cbcf125a0f34b90]FORM 83
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1846,7 +1846,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_202.gif)
 
-\[(**a**) [^key-75f6568739f9439f8270499a813bd3ec]FORM 85
+\[(**a**) [^c-75f6568739f9439f8270499a813bd3ec]FORM 85
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1856,7 +1856,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_203.gif)
 
-\[[^f00334] [^key-0676765ca132a6a0375ea79e2b59f36f]FORM 85A
+\[[^f00334] [^c-0676765ca132a6a0375ea79e2b59f36f]FORM 85A
 
 THE MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1904,7 +1904,7 @@ CRIMINAL JUSTICE (MISCELLANEOUS PROVISIONS) ACT (NORTHERN IRELAND) 1968
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_207.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_208.gif)
 
-\[(**a**)[^key-fd17d9302e33c7e3dc7fc0e85873cdec][^key-021a4a863b959893b14a9956ada6ccf1][^key-3c96d040ef16133d0314f97ecdf52bac]FORM 88A
+\[(**a**)[^c-fd17d9302e33c7e3dc7fc0e85873cdec][^c-021a4a863b959893b14a9956ada6ccf1][^c-3c96d040ef16133d0314f97ecdf52bac]FORM 88A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1918,7 +1918,7 @@ CRIMINAL JUSTICE (EVIDENCE) (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_209.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_210.gif)
 
-[^key-fd17d9302e33c7e3dc7fc0e85873cdec][^key-021a4a863b959893b14a9956ada6ccf1][^key-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88B
+[^c-fd17d9302e33c7e3dc7fc0e85873cdec][^c-021a4a863b959893b14a9956ada6ccf1][^c-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1932,7 +1932,7 @@ CRIMINAL JUSTICE (EVIDENCE) (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_211.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_212.gif)
 
-[^key-15d7b9c2b0c9101134c4eb36e9783e5e][^key-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88C
+[^c-15d7b9c2b0c9101134c4eb36e9783e5e][^c-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1946,7 +1946,7 @@ CRIMINAL JUSTICE (EVIDENCE) (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_213.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_214.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_215.gif)
 
-[^key-15d7b9c2b0c9101134c4eb36e9783e5e]FORM 88D
+[^c-15d7b9c2b0c9101134c4eb36e9783e5e]FORM 88D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1960,7 +1960,7 @@ CRIMINAL JUSTICE (EVIDENCE) (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_216.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_217.gif)
 
-[^key-511ece761451a525b24a2a392fb55f93][^key-9f5f3efe81e8e8b5d3ff2c86a55c5655][^key-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88E
+[^c-511ece761451a525b24a2a392fb55f93][^c-9f5f3efe81e8e8b5d3ff2c86a55c5655][^c-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1974,7 +1974,7 @@ CRIMINAL JUSTICE (EVIDENCE) (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_218.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_219.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_220.gif)
 
-[^key-511ece761451a525b24a2a392fb55f93][^key-9f5f3efe81e8e8b5d3ff2c86a55c5655][^key-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88F
+[^c-511ece761451a525b24a2a392fb55f93][^c-9f5f3efe81e8e8b5d3ff2c86a55c5655][^c-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88F
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -1988,7 +1988,7 @@ CRIMINAL JUSTICE (EVIDENCE) (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_221.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_222.gif)
 
-\[(**a**) [^key-511ece761451a525b24a2a392fb55f93][^key-9f5f3efe81e8e8b5d3ff2c86a55c5655][^key-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88G
+\[(**a**) [^c-511ece761451a525b24a2a392fb55f93][^c-9f5f3efe81e8e8b5d3ff2c86a55c5655][^c-51c32de5fb7bf808a1f76bda92fa7a9a]FORM 88G
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2002,7 +2002,7 @@ POLICE AND CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1989
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_223.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_224.gif)
 
-[^key-aa40129248f934d8faf94f6ce260aa8d][^key-1bcb9ee39d58d837a48fdd3e8e50e8b3]FORM 88H
+[^c-aa40129248f934d8faf94f6ce260aa8d][^c-1bcb9ee39d58d837a48fdd3e8e50e8b3]FORM 88H
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2016,7 +2016,7 @@ POLICE AND CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1989
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_225.gif)
 
-\[[^f00335] [^key-f421480e25ae73053e82c7e2efb301e6][^key-5c33c39ec9cbfd93a02efbf8ea8b2584]FORM 88I
+\[[^f00335] [^c-f421480e25ae73053e82c7e2efb301e6][^c-5c33c39ec9cbfd93a02efbf8ea8b2584]FORM 88I
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2030,7 +2030,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_226.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_227.gif)
 
-[^key-b0b61ea13d0dc2e56dc7bc694618cfa4]FORM 88J
+[^c-b0b61ea13d0dc2e56dc7bc694618cfa4]FORM 88J
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2044,7 +2044,7 @@ CRIMINAL JUSTICE (NORTHERN IRELAND) ORDER 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_228.gif)
 
-\[[^f00336] [^key-827b6e4ad3c81a8684e02a3209557a9c][^key-84a2229b0f9a7c892adb290e2f841c3b]FORM 88K
+\[[^f00336] [^c-827b6e4ad3c81a8684e02a3209557a9c][^c-84a2229b0f9a7c892adb290e2f841c3b]FORM 88K
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2060,7 +2060,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_229.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_230.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_231.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_232.gif)
 
-[^key-c41bc5ac9dfa360c2f96f08cec8e659b]FORM 88L
+[^c-c41bc5ac9dfa360c2f96f08cec8e659b]FORM 88L
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2074,7 +2074,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_233.gif)
 
-\[[^f00337] [^key-9d6a698274f2eec98820581dd35843ac]FORM 88M
+\[[^f00337] [^c-9d6a698274f2eec98820581dd35843ac]FORM 88M
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2090,7 +2090,7 @@ CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1999
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_234.gif)
 
-\[[^f00338] [^key-f4705a3b46efc9a8807701b7d27f095e]FORM 88N
+\[[^f00338] [^c-f4705a3b46efc9a8807701b7d27f095e]FORM 88N
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2116,9 +2116,9 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_236.gif)
 
-[^key-b00ce75945a54ed541a4e1f1378d21b6]...
+[^c-b00ce75945a54ed541a4e1f1378d21b6]...
 
-[^key-625c5d7927b638e24dceecba233c4ae7]...
+[^c-625c5d7927b638e24dceecba233c4ae7]...
 
 FORM 90
 
@@ -2140,7 +2140,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_242.gif)
 
-\[[^f00341] [^key-6ed6c142a90e50ad155cc135cc61fa0f][^key-1d558ad3fecfee9022f696c20c188f5a][^key-964b441e202f0dbb7b3c1da56d0d1034]FORM 91A
+\[[^f00341] [^c-6ed6c142a90e50ad155cc135cc61fa0f][^c-1d558ad3fecfee9022f696c20c188f5a][^c-964b441e202f0dbb7b3c1da56d0d1034]FORM 91A
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2154,7 +2154,7 @@ POLICE AND CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1989
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_243.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_244.gif)
 
-[^key-9384df7d519a0b14189dfafac75a870d]FORM 91B
+[^c-9384df7d519a0b14189dfafac75a870d]FORM 91B
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2168,7 +2168,7 @@ POLICE AND CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1989
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_245.gif)
 
-\[[^f00342] [^key-7808296213d4be347e3d7a897a5e0e28][^key-358f68880e301f2a5801d2a6d586c8fd][^key-8db9a93c46b118dd57ce3e01ef4d6146]FORM 91C
+\[[^f00342] [^c-7808296213d4be347e3d7a897a5e0e28][^c-358f68880e301f2a5801d2a6d586c8fd][^c-8db9a93c46b118dd57ce3e01ef4d6146]FORM 91C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2178,7 +2178,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_246.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_247.gif)
 
-[^key-5b1fa68bf69d8ebbc7bb9f02ee90e7f7]FORM 91D
+[^c-5b1fa68bf69d8ebbc7bb9f02ee90e7f7]FORM 91D
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2188,7 +2188,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_248.gif)
 
-[^key-5b1fa68bf69d8ebbc7bb9f02ee90e7f7]FORM 91E
+[^c-5b1fa68bf69d8ebbc7bb9f02ee90e7f7]FORM 91E
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2198,7 +2198,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_249.gif)
 
-\[[^f00343] [^key-945a42a05a04c8cb687894bd8ff56b3c][^key-ee3e3c7f8ec504075ba5146d7f66c006]FORM 91F
+\[[^f00343] [^c-945a42a05a04c8cb687894bd8ff56b3c][^c-ee3e3c7f8ec504075ba5146d7f66c006]FORM 91F
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2212,7 +2212,7 @@ JUSTICE (NORTHERN IRELAND) ACT 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_250.gif)
 
-\[[^f00344] [^key-55d8a840588b2d1ceacba9b0e4b21b99]FORM 91G
+\[[^f00344] [^c-55d8a840588b2d1ceacba9b0e4b21b99]FORM 91G
 
 Magistrates’ Courts (Northern Ireland) Order 1981
 
@@ -2226,7 +2226,7 @@ Justice (Northern Ireland) Act 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_251.gif)
 
-\[[^f00345] [^key-b3a64e4532041d1514af13d3bb740b76][^key-66e484125ab9cea90338119c7949ea75]FORM 91H
+\[[^f00345] [^c-b3a64e4532041d1514af13d3bb740b76][^c-66e484125ab9cea90338119c7949ea75]FORM 91H
 
 Magistrates’ Courts (Northern Ireland) Order 1981
 
@@ -2240,7 +2240,7 @@ Justice (Northern Ireland) Act 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_252.gif)
 
-\[[^f00346] [^key-d9c30ace08b28b7b0911ef0078d7ff30]FORM 91I
+\[[^f00346] [^c-d9c30ace08b28b7b0911ef0078d7ff30]FORM 91I
 
 Magistrates’ Courts (Northern Ireland) Order 1981
 
@@ -2314,7 +2314,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_260.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_261.gif)
 
-[^key-89ab89b1af84fc83523b126c2672fd0a][^key-f7053944563c54e7eb11b4a895bc2891]FORM 96
+[^c-89ab89b1af84fc83523b126c2672fd0a][^c-f7053944563c54e7eb11b4a895bc2891]FORM 96
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2324,7 +2324,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_262.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_263.gif)
 
-\[[^f00351] [^key-141ed12c26ccae37190332ca4444b05b]FORM 96A
+\[[^f00351] [^c-141ed12c26ccae37190332ca4444b05b]FORM 96A
 
 JUSTICE ACT (NORTHERN IRELAND) 2011
 
@@ -2356,7 +2356,7 @@ MAGISTRATES’ COURTS RULES (NORTHERN IRELAND) 1984
 
 ### A. Appeals to County Court
 
-[^key-8b6d0a958262bd765d3ebff57c5bdead]FORM 97
+[^c-8b6d0a958262bd765d3ebff57c5bdead]FORM 97
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2376,7 +2376,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_267.gif)
 
-[^key-4c40cd7856d4e47490df4baac19e3606]FORM 99
+[^c-4c40cd7856d4e47490df4baac19e3606]FORM 99
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2386,7 +2386,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_268.gif)
 
-[^key-897cccd859b1cd90b263e7bddf124124][^key-026007f7515b747efa3251dced016220]FORM 100
+[^c-897cccd859b1cd90b263e7bddf124124][^c-026007f7515b747efa3251dced016220]FORM 100
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2398,7 +2398,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 ### B. Appeals by way of Case Stated to Court of Appeal
 
-[^key-45208fd73738d922d543aeb6e5ee0b01]FORM 101
+[^c-45208fd73738d922d543aeb6e5ee0b01]FORM 101
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2408,7 +2408,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_270.gif)
 
-[^key-6ec6b8a176a5bb16686fb8428f3c966b]FORM 102
+[^c-6ec6b8a176a5bb16686fb8428f3c966b]FORM 102
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2418,7 +2418,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_271.gif)
 
-[^key-5c606983200537853cc55e07c006074e]FORM 103
+[^c-5c606983200537853cc55e07c006074e]FORM 103
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2450,7 +2450,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 **MISCELLANEOUS**
 
-[^key-0bb0560878dfe9af98ab0baa9ca0a7db]FORM 106
+[^c-0bb0560878dfe9af98ab0baa9ca0a7db]FORM 106
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2470,7 +2470,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_277.gif)
 
-[^key-48b443d85a33f352c4197939f3e5a20e]FORM 108
+[^c-48b443d85a33f352c4197939f3e5a20e]FORM 108
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2490,11 +2490,11 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_279.gif)
 
-[^key-7286e8f7d79e358b82806ea38b2df3e7]...
+[^c-7286e8f7d79e358b82806ea38b2df3e7]...
 
-[^key-748f3d2b1d0d72094b511c787244354c]...
+[^c-748f3d2b1d0d72094b511c787244354c]...
 
-[^key-1581f09b7349e15c97feea06c3639234]FORM 109C
+[^c-1581f09b7349e15c97feea06c3639234]FORM 109C
 
 THE ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996
 
@@ -2508,11 +2508,11 @@ MAGISTRATES’ COURTS RULES (NORTHERN IRELAND) 1984
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_282.gif)
 
-[^key-4ab0383f9dd46560842c4ff356671c3b]...
+[^c-4ab0383f9dd46560842c4ff356671c3b]...
 
-[^key-4a1ac52113e11d76b2a6c111e1804657]...
+[^c-4a1ac52113e11d76b2a6c111e1804657]...
 
-[^key-699455d0224b1e28c60927e99c0c93cd]FORM 110
+[^c-699455d0224b1e28c60927e99c0c93cd]FORM 110
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2542,7 +2542,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_287.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_288.gif)
 
-[^key-b36a0be69d88104e9c8506ed06dde4dc]FORM 110C
+[^c-b36a0be69d88104e9c8506ed06dde4dc]FORM 110C
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2552,7 +2552,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_289.gif)
 
-\[[^f00356] [^key-a7459ce62d61a9f121bb8a59221b9d9f][^key-8022345305d122d5d0a5b6d06e049553]FORM 110D
+\[[^f00356] [^c-a7459ce62d61a9f121bb8a59221b9d9f][^c-8022345305d122d5d0a5b6d06e049553]FORM 110D
 
 ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996
 
@@ -2566,7 +2566,7 @@ MAGISTRATES’ COURTS RULES (NORTHERN IRELAND) 1984
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_290.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_291.gif)
 
-\[[^f00357] [^key-80866c202b53bb02935a90e0bf639ad7][^key-bde2792485d8254f02abc7489f37f6ea]FORM 110E
+\[[^f00357] [^c-80866c202b53bb02935a90e0bf639ad7][^c-bde2792485d8254f02abc7489f37f6ea]FORM 110E
 
 JUSTICE ACT (NORTHERN IRELAND) 2011
 
@@ -2580,7 +2580,7 @@ MAGISTRATES’ COURTS RULES (NORTHERN IRELAND) 1984
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_292.gif)
 
-[^key-0af8e60e781fee8eb57311064e8a60af]FORM 111
+[^c-0af8e60e781fee8eb57311064e8a60af]FORM 111
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2620,7 +2620,7 @@ MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_296.gif)
 
-[^key-2bdd97b4bff472cbc9fe779b2eddc7b4]FORM 114
+[^c-2bdd97b4bff472cbc9fe779b2eddc7b4]FORM 114
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2636,7 +2636,7 @@ JUDGEMENTS ENFORCEMENT (NORTHERN IRELAND) ORDER 1981
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_297.gif)
 
-[^key-bdecc93102257dbf2e42f2cd3587a251]FORM 115
+[^c-bdecc93102257dbf2e42f2cd3587a251]FORM 115
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2712,7 +2712,7 @@ POLICE AND CRIMINAL EVIDENCE (NORTHERN IRELAND) ORDER 1989
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_304.gif) [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_305.gif)
 
-\[[^f00360] [^key-6460f366dd59d7d28618538fbe91abcb]FORM 122
+\[[^f00360] [^c-6460f366dd59d7d28618538fbe91abcb]FORM 122
 
 ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996
 
@@ -2728,7 +2728,7 @@ MAGISTRATES’ COURTS RULES (NORTHERN IRELAND) 1984
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_306.gif)
 
-[^key-6460f366dd59d7d28618538fbe91abcb]FORM 123
+[^c-6460f366dd59d7d28618538fbe91abcb]FORM 123
 
 ROAD TRAFFIC OFFENDERS (NORTHERN IRELAND) ORDER 1996
 
@@ -2742,7 +2742,7 @@ MAGISTRATES’ COURTS RULES (NORTHERN IRELAND) 1984
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_307.gif)
 
-\[[^f00361] [^key-da9418347eb1a5717395c4ec2c2b5237][^key-5dec9f49653afb4c09f0017eb5ea247a]FORM 124
+\[[^f00361] [^c-da9418347eb1a5717395c4ec2c2b5237][^c-5dec9f49653afb4c09f0017eb5ea247a]FORM 124
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2756,7 +2756,7 @@ MENTAL HEALTH (NORTHERN IRELAND) ORDER 1986
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_308.gif)
 
-[^key-3c5e7462be5e8aa130e5564a59379742]FORM 125
+[^c-3c5e7462be5e8aa130e5564a59379742]FORM 125
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2770,7 +2770,7 @@ MENTAL HEALTH (NORTHERN IRELAND) ORDER 1986
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_309.gif)
 
-\[[^f00362] [^key-31973a6d4da02c10e9b92e0dff690bd1]FORM 126
+\[[^f00362] [^c-31973a6d4da02c10e9b92e0dff690bd1]FORM 126
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2784,7 +2784,7 @@ CORONERS AND JUSTICE ACT 2009
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/225/images/nisr_19840225_en_310.gif)
 
-\[[^f00363] [^key-70af822e30629e7ff617345e613ee33a][^key-212b98a07308ccc479a9d1af75072879]FORM 127
+\[[^f00363] [^c-70af822e30629e7ff617345e613ee33a][^c-212b98a07308ccc479a9d1af75072879]FORM 127
 
 MAGISTRATES’ COURTS (NORTHERN IRELAND) ORDER 1981
 
@@ -2818,53 +2818,53 @@ JUSTICE ACT (NORTHERN IRELAND) 2015
 
 ## Annotations
 
-[^key-b49b0ad2bd8d7f381ba49238e9fb3ef8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/1/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b49b0ad2bd8d7f381ba49238e9fb3ef8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 1(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/1/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5dc4e4d119f644cc3ed3012558afbd34]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1: at the end, the words “in the County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/1/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5dc4e4d119f644cc3ed3012558afbd34]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1: at the end, the words “in the County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/1/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2b481849aa2869ace7eaecf8e2500e1c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/a)
+[^c-2b481849aa2869ace7eaecf8e2500e1c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/a)
 
-[^key-4771ac7da882deda77bd6f5478cb5bce]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1B omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(b)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/b)
+[^c-4771ac7da882deda77bd6f5478cb5bce]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 1B omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(b)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/b)
 
 [^f00294]: Footnote: Form 2 substituted by [S.R. 2016 No. 93](https://www.legislation.gov.uk/nisr/2016/93) with effect from 1.04.16
 
-[^key-b4a577e319644dfb55da0bd19b9cb077]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2: the words “in the said petty sessions district and county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 4(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/4/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b4a577e319644dfb55da0bd19b9cb077]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2: the words “in the said petty sessions district and county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 4(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/4/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8c4a36fec86f5a8a14042a1c9efb2afc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2: the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/4/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8c4a36fec86f5a8a14042a1c9efb2afc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2: the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/4/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b8438f40f35434e7162b238a8159a397]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(c)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/c)
+[^c-b8438f40f35434e7162b238a8159a397]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(c)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/c)
 
 [^f00296]: Footnote: Form 2B substituted by [S.R. 1998 No. 419](https://www.legislation.gov.uk/nisr/1998/419) with effect from 14.12.98
 
-[^key-cbf63155e3061e3685edeace775ee6d3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2C omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(d)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/d)
+[^c-cbf63155e3061e3685edeace775ee6d3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 2C omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(d)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/d)
 
 [^f00298]: Footnote: Form 3 substituted by [S.R. 2011 No. 59](https://www.legislation.gov.uk/nisr/2011/59) with effect from 25.03.11
 
-[^key-2aba1e770e946587ffd46fc33a6e83be]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 3: in the first paragraph, the word “at…” substituted for “for the above mentioned district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/7); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2aba1e770e946587ffd46fc33a6e83be]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 3: in the first paragraph, the word “at…” substituted for “for the above mentioned district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/7); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00299]: Footnote: Forms 4 and 5 substituted by [S.R. 2011 No. 59](https://www.legislation.gov.uk/nisr/2011/59) with effect from 25.03.11.
 
-[^key-be36d8dd4a57406945e142a1556c389b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 4: the words “for the above mentioned district at…” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/8); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-be36d8dd4a57406945e142a1556c389b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 4: the words “for the above mentioned district at…” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/8); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00300]: Footnote: Form 6 substituted by [S.R. 2011 No. 59](https://www.legislation.gov.uk/nisr/2011/59) with effect from 25.03.11
 
 [^f00301]: Footnote: Form 6A substituted by [S.R. 2011 No. 59](https://www.legislation.gov.uk/nisr/2011/59) with effect from 25.03.11
 
-[^key-32982239e41c7796196a261e51a2eb7c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 7: the words “for the above mentioned district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/9); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-32982239e41c7796196a261e51a2eb7c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 7: the words “for the above mentioned district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/9); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-469851e1840bf2c60170fb80283921be]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 8 omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/10); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-469851e1840bf2c60170fb80283921be]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 8 omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/10); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-6f74486424fe9272839fd787277184aa]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 8A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(e)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/e)
+[^c-6f74486424fe9272839fd787277184aa]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 8A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(e)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/e)
 
-[^key-38fff758e57ac446476b790bb18f8b4b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 8A-8D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 11(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/11/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-38fff758e57ac446476b790bb18f8b4b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 8A-8D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 11(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/11/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-18e246976d7930d959e2aaf4213f6147]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 8A-8D: the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/11/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-18e246976d7930d959e2aaf4213f6147]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 8A-8D: the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/11/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00303]: Footnote: Form 8C inserted by [S.R. 2010 No. 12](https://www.legislation.gov.uk/nisr/2010/12) with effect from 01.03.10
 
-[^key-a8fd5c9649fd457c2b9cc189e521d961]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 8D omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(f)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/f)
+[^c-a8fd5c9649fd457c2b9cc189e521d961]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 8D omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(f)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/f)
 
-[^key-2a12d149dab0d5b85c825ada50ee2cb5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 9A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(g)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/g)
+[^c-2a12d149dab0d5b85c825ada50ee2cb5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 9A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(g)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/g)
 
 [^f00306]: Footnote: Form 10A inserted by [S.R. 1994 No. 387](https://www.legislation.gov.uk/nisr/1994/387) with effect from 01.11.94
 
@@ -2872,95 +2872,95 @@ JUSTICE ACT (NORTHERN IRELAND) 2015
 
 [^f00308]: Footnote: Form 10C inserted by [S.R. 2004 No. 433](https://www.legislation.gov.uk/nisr/2004/433) with effect from 29.10.04
 
-[^key-69f1b6ef7b1d83a91d6aed44950d33c3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 10C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/12); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-69f1b6ef7b1d83a91d6aed44950d33c3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 10C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/12); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00309]: Footnote: Form 11A inserted by [S.R. 1997 No. 529](https://www.legislation.gov.uk/nisr/1997/529) with effect from 1.1.98
 
-[^key-cdfb24f8e21dff019396403715f74ca2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 11A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/12); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-cdfb24f8e21dff019396403715f74ca2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 11A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/12); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00310]: Footnote: Words substituted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 6.10.08
 
 [^f00311]: Footnote: Forms 14-14F inserted by [S.R. 1997 No. 529](https://www.legislation.gov.uk/nisr/1997/529) with effect from 01.01.98
 
-[^key-fe029e477f695feac632ea2be21fde8b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-fe029e477f695feac632ea2be21fde8b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d63d5e80e3e5339564c0b551567945a2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d63d5e80e3e5339564c0b551567945a2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00312]: Footnote: Form 14ZA inserted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 01.04.09
 
-[^key-63711d5fac5e2f1c410fb3161e43fd89]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14ZA: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-63711d5fac5e2f1c410fb3161e43fd89]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14ZA: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-4357a996827bc63ddec391f806547bb2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14ZA: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4357a996827bc63ddec391f806547bb2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14ZA: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/13/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-a41b424fa8a39a33ab81bc6cc6cde644]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 14(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/14/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a41b424fa8a39a33ab81bc6cc6cde644]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 14(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/14/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d2582e2ce307c1f62f016cebd76c89b9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14A: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 14(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/14/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d2582e2ce307c1f62f016cebd76c89b9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14A: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 14(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/14/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-62005ebe311ef6eaddc4f55b4e7d6087]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14A: the words “in the County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 14(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/14/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-62005ebe311ef6eaddc4f55b4e7d6087]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14A: the words “in the County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 14(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/14/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-ffd11c167260a4b3dee06bd5ea22b858]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 15(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/15/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-ffd11c167260a4b3dee06bd5ea22b858]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 15(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/15/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-05929b84d479671943a4b71add1d5548]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14B: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 15(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/15/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-05929b84d479671943a4b71add1d5548]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14B: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 15(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/15/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2b522cdfc16980cbc7f590d63f19763e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14B: the words “sitting for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 15(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/15/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2b522cdfc16980cbc7f590d63f19763e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14B: the words “sitting for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 15(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/15/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-285b2bd4e63519c078755cbbf7980d00]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 16(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/16/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-285b2bd4e63519c078755cbbf7980d00]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 16(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/16/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-bc9321e74650c11ef31cac02ff97cc25]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14C: the words “for the petty sessions district of ….” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 16(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/16/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-bc9321e74650c11ef31cac02ff97cc25]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14C: the words “for the petty sessions district of ….” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 16(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/16/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-a4fb87044ab464a0631e87aea0dfe495]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 17(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/17/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a4fb87044ab464a0631e87aea0dfe495]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 17(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/17/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-da54543fdbc56013451c9915b079feba]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14D: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 17(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/17/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-da54543fdbc56013451c9915b079feba]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14D: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 17(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/17/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00313]: Footnote: Form 14DA inserted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 16.07.08
 
-[^key-3f8f672df1f36615ebac9946ddf18a43]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14DA: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/18); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3f8f672df1f36615ebac9946ddf18a43]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 14DA: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/18); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-1e9bd0bae49a59815862c6b2a26b28a3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 14E, 14F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 19(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/19/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-1e9bd0bae49a59815862c6b2a26b28a3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 14E, 14F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 19(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/19/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5af47840391af513ba8263e426df4f34]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 14E, 14F: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 19(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/19/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5af47840391af513ba8263e426df4f34]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 14E, 14F: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 19(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/19/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-354b55bb75b69472c91a3bd94608e33d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15 heading omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-354b55bb75b69472c91a3bd94608e33d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15 heading omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
 [^f00314]: Footnote: Form 15A revoked by [S.R. 2003 No. 477](https://www.legislation.gov.uk/nisr/2003/477) with effect from 01.12.03
 
-[^key-c45a4a3dcf3a9aab7a0777655344d6fc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15B: in Pt. 1, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 20(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/20/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c45a4a3dcf3a9aab7a0777655344d6fc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15B: in Pt. 1, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 20(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/20/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5655a6ffe3e2bb1c8cb309e490e0ddad]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15B: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 20(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/20/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5655a6ffe3e2bb1c8cb309e490e0ddad]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15B: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 20(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/20/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^M_F_3da2d8c5-48ce-4e07-ea60-b9eed952b58c]: Textual amendment: Sch. 1 Form 15B: the words “An application shall be made not less than 14 days before the day fixed for the commencement of the proceedings to which the application relates” substituted for “An application shall be made” to “the remand of the defendant” (17.10.2022) by The Magistrates’ [Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-3e21129dc4d9fa7dfdf90eabd3901dad]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 21](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/21); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3e21129dc4d9fa7dfdf90eabd3901dad]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 21](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/21); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00315]: Footnote: Forms 15D-15L inserted by [S.R. 2003 No. 477](https://www.legislation.gov.uk/nisr/2003/477) with effect from 1.12.03
 
-[^key-af0953397e26fd1303193d840ded8d80]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 22(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/22/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-af0953397e26fd1303193d840ded8d80]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 22(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/22/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-70098cbd36525f0c1cee86953d79f66b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15D: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 22(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/22/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-70098cbd36525f0c1cee86953d79f66b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15D: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 22(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/22/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-c7c13a40d413ec03a88e5ad8a6a8496d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15E, 15F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 23](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/23); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c7c13a40d413ec03a88e5ad8a6a8496d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15E, 15F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 23](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/23); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b3f6ad0754be0cf5f44d19dee266fca5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 24(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/24/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b3f6ad0754be0cf5f44d19dee266fca5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 24(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/24/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-fcde18895a89e59269da058a8865c408]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15G: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 24(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/24/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-fcde18895a89e59269da058a8865c408]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15G: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 24(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/24/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-afeb063e6d467dd60d4c24bc314cd000]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 25](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/25); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-afeb063e6d467dd60d4c24bc314cd000]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 25](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/25); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-9892a61ebbcad2219a0f1d9082f70ef3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15I, 15J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 26(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/26/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9892a61ebbcad2219a0f1d9082f70ef3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15I, 15J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 26(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/26/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-50131a7e47d801c5c0944ddee02ffa58]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15I, 15J: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 26(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/26/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-50131a7e47d801c5c0944ddee02ffa58]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15I, 15J: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 26(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/26/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2ba0e1836223f214ce21cdae1fc1438c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15I: the words “\[preliminary investigation\]” omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(c)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/c) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-2ba0e1836223f214ce21cdae1fc1438c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 15I: the words “\[preliminary investigation\]” omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(c)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/c) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-82159909c6eba7c9485cd86ec1404e84]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15K, 15L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 27](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/27); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-82159909c6eba7c9485cd86ec1404e84]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15K, 15L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 27](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/27); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-e406473100a0bbf74765c71a033292d0]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15M, 15N, 15O: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 28](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/28); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-e406473100a0bbf74765c71a033292d0]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 15M, 15N, 15O: at the end, the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 28](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/28); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-fe6e1c6d30f003c27171c1e338dadf68]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 16: at the end, the words “in the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 29](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/29); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-fe6e1c6d30f003c27171c1e338dadf68]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 16: at the end, the words “in the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 29](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/29); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-cfe4669b4038d881e425372792208cbf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 20A inserted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(d)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2022/218/schedule/1) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-cfe4669b4038d881e425372792208cbf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 20A inserted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(d)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2022/218/schedule/1) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-565ca903f16cec0c0d0a0142ed8ef792]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 25A substituted for Sch. 1 Form 25 (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(f)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/f), [Sch. 2](https://www.legislation.gov.uk/nisr/2022/218/schedule/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-565ca903f16cec0c0d0a0142ed8ef792]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 25A substituted for Sch. 1 Form 25 (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(f)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/f), [Sch. 2](https://www.legislation.gov.uk/nisr/2022/218/schedule/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
 [^M_F_bbd2bf66-ae0c-484d-8ff0-b3cb9170a9dc]: Textual amendment: Sch. 1 Form 20 omitted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(e)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/e) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
@@ -2968,15 +2968,15 @@ JUSTICE ACT (NORTHERN IRELAND) 2015
 
 [^M_F_7c7c9bd0-c91d-4590-a8ff-1807b4785f91]: Textual amendment: Sch. 1 Form 22 omitted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(e)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/e) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-1ca70214016b70c9bb7ae311bbff23fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 23, 24: the words “for the above-named petty session district and county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/31); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-1ca70214016b70c9bb7ae311bbff23fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 23, 24: the words “for the above-named petty session district and county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/31); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-cb08eccf7f364b92049f29a0d9b416c6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 28: the words “County Court Division of” and “in the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 32](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/32); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-cb08eccf7f364b92049f29a0d9b416c6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 28: the words “County Court Division of” and “in the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 32](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/32); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-593821191a80add861bf7c013a5ca99a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 29: the words “of the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 33](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/33); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-593821191a80add861bf7c013a5ca99a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 29: the words “of the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 33](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/33); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2b77452cb73d08b153a8c00ee1d640c6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 30: the words “in the said petty sessions district and county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 34(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/34/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2b77452cb73d08b153a8c00ee1d640c6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 30: the words “in the said petty sessions district and county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 34(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/34/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-4820e661bd1b033d62530c1b15db2c91]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 30: the words “of the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 34(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/34/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4820e661bd1b033d62530c1b15db2c91]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 30: the words “of the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 34(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/34/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00317]: Footnote: Form 30A omitted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 16.07.08
 
@@ -2984,303 +2984,303 @@ JUSTICE ACT (NORTHERN IRELAND) 2015
 
 [^f00319]: Footnote: Form 32A omitted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 16.07.08
 
-[^key-47dfd0bfd04741be34a4d74238996f96]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 33: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 35](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/35); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-47dfd0bfd04741be34a4d74238996f96]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 33: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 35](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/35); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d9526456bdfd6f678d2232f9e2cc8546]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 34: at the end, the word “at…” substituted for “for the above District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 36](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/36); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d9526456bdfd6f678d2232f9e2cc8546]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 34: at the end, the word “at…” substituted for “for the above District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 36](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/36); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-893390006fdc03ccc8526d911bff38fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 37: at the end, the words “in the county court division of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 37](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/37); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-893390006fdc03ccc8526d911bff38fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 37: at the end, the words “in the county court division of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 37](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/37); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-46907b3acf62d0d9b53e9f302b6dc165]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 39, 40: in the title, the words “County Court Division of…. Petty Sessions District of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 38](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/38); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-46907b3acf62d0d9b53e9f302b6dc165]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 39, 40: in the title, the words “County Court Division of…. Petty Sessions District of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 38](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/38); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-6289ec2159c7e2868f620baafb309ac0]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 41-52: the words “in the above-named petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 39](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/39); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-6289ec2159c7e2868f620baafb309ac0]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 41-52: the words “in the above-named petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 39](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/39); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-816c8eacc50e09b7289a5569c71c6625]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 53, 54: in the title, the words “County Court Division of…. Petty Sessions District of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 40](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/40); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-816c8eacc50e09b7289a5569c71c6625]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 53, 54: in the title, the words “County Court Division of…. Petty Sessions District of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 40](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/40); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-27e9d8a3dbd560b285e295a2af65dd9d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 55, 55A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 41(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/41/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-27e9d8a3dbd560b285e295a2af65dd9d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 55, 55A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 41(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/41/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8225dff58a2b4d3a6f21f9307d75d03f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 55, 55A: the words “for the above-named petty sessions district” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/41/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8225dff58a2b4d3a6f21f9307d75d03f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 55, 55A: the words “for the above-named petty sessions district” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/41/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00320]: Footnote: New Form 55A inserted by [S.R. 2010 No. 12](https://www.legislation.gov.uk/nisr/2010/12) with effect from 1.3.10
 
-[^key-85d142cdfacacfb6120e37e0ac428a9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 56: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 42(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/42/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-85d142cdfacacfb6120e37e0ac428a9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 56: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 42(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/42/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b25cdf9c4f59c0761e7ec41e4f1964d1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 56: the words “for the above-named petty sessions district” in the first place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/42/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b25cdf9c4f59c0761e7ec41e4f1964d1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 56: the words “for the above-named petty sessions district” in the first place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/42/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-612cf3ea581ee9760f9f7d524cf768e6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 56: at the end, the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/42/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-612cf3ea581ee9760f9f7d524cf768e6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 56: at the end, the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/42/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-ecc1e48aa0056f4dedca0a58b26ddf49]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 57: at the end, the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 43](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/43); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-ecc1e48aa0056f4dedca0a58b26ddf49]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 57: at the end, the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 43](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/43); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-19fd73fc4607db47af9f88f3f46330b8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 58, 59: in the first paragraph, the words “sitting for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 44](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/44); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-19fd73fc4607db47af9f88f3f46330b8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 58, 59: in the first paragraph, the words “sitting for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 44](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/44); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-6dd7f7522f396b0cc62a2facb019e348]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 60-60C omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(h)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/h)
+[^c-6dd7f7522f396b0cc62a2facb019e348]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 60-60C omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(h)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/h)
 
-[^key-b68e7ebf43df274b531dee7268d6335a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 60-60F inserted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/i), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
+[^c-b68e7ebf43df274b531dee7268d6335a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 60-60F inserted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/i), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
 
-[^key-fc25f614f7e110bff4d02fa4d3861d28]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62B substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(n)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/n), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
+[^c-fc25f614f7e110bff4d02fa4d3861d28]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62B substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(n)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/n), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
 
-[^key-af1631afb3628aff9cad3e94882dcb00]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 72 substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(q)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/q), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
+[^c-af1631afb3628aff9cad3e94882dcb00]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 72 substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(q)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/q), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
 
-[^key-b4a23047b678e44d5beb94be91d36c17]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 72B substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(r)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/r), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
+[^c-b4a23047b678e44d5beb94be91d36c17]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 72B substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(r)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/r), [Sch.](https://www.legislation.gov.uk/nisr/2018/103/schedule)
 
-[^key-9f4560473ca832b2eba468892012d3af]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61: the words “for the said district” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 45](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/45); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9f4560473ca832b2eba468892012d3af]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61: the words “for the said district” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 45](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/45); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-17e8de2569dcc77c2ac8de8c93056ee2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61: the words “AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court ordered pursuant to section 9(1)(f) of the Justice Act (Northern Ireland) 2016 that payment of the outstanding amount be levied by distress.” inserted after “AND WHEREAS the said order has not been complied with.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(j)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/j)
+[^c-17e8de2569dcc77c2ac8de8c93056ee2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61: the words “AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court ordered pursuant to section 9(1)(f) of the Justice Act (Northern Ireland) 2016 that payment of the outstanding amount be levied by distress.” inserted after “AND WHEREAS the said order has not been complied with.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(j)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/j)
 
 [^f00325]: Footnote: Form 61A inserted by [S.R. 1997 No. 428](https://www.legislation.gov.uk/nisr/1997/428) with effect from 14.10.97
 
-[^key-5e221ee6d0b2b64517ea529e7c7e57ac]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 46(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/46/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5e221ee6d0b2b64517ea529e7c7e57ac]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 46(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/46/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b7f492dcdab61857e6ea028f0469e26b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: the words “in the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 46(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/46/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b7f492dcdab61857e6ea028f0469e26b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: the words “in the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 46(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/46/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-79a672ec079fd8558e14578b27591648]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: the words “for the said district” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 46(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/46/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-79a672ec079fd8558e14578b27591648]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: the words “for the said district” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 46(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/46/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-daee7463a85305bdc29fac74ab963b9b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: the words “AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court ordered pursuant to section 9(1)(f) of the Justice Act (Northern Ireland) 2016 that payment of the outstanding amount be levied by distress.” inserted after “AND WHEREAS the defaulter \[defendant\] has not paid the fine as ordered.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(k)(ii)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/k/ii)
+[^c-daee7463a85305bdc29fac74ab963b9b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A: the words “AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court ordered pursuant to section 9(1)(f) of the Justice Act (Northern Ireland) 2016 that payment of the outstanding amount be levied by distress.” inserted after “AND WHEREAS the defaulter \[defendant\] has not paid the fine as ordered.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(k)(ii)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/k/ii)
 
-[^key-4e8ed5d5d40a30b19d235b4ecd8d69da]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A heading substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(k)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/k/i)
+[^c-4e8ed5d5d40a30b19d235b4ecd8d69da]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 61A heading substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(k)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/k/i)
 
-[^key-2aa390634ef19f9860f41802d73578cf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 47](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/47); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2aa390634ef19f9860f41802d73578cf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 47](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/47); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-9dd82d93f8ba41a7823dacfbdebca9dd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62: the words “\[AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court issued a committal warrant pursuant to section 9(1)(i) of the Justice Act (Northern Ireland) 2016.\]” inserted after “AND WHEREAS the said order has not been complied with.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(l)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/l)
+[^c-9dd82d93f8ba41a7823dacfbdebca9dd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62: the words “\[AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court issued a committal warrant pursuant to section 9(1)(i) of the Justice Act (Northern Ireland) 2016.\]” inserted after “AND WHEREAS the said order has not been complied with.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(l)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/l)
 
 [^f00326]: Footnote: Form 62A inserted by [S.R. 1997 No. 428](https://www.legislation.gov.uk/nisr/1997/428) with effect from 14.10.97
 
-[^key-4a64bf4a2ee6bfc1ea39d479617b3cf0]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 48(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/48/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4a64bf4a2ee6bfc1ea39d479617b3cf0]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 48(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/48/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-4289b1dd90f7d1b68044e47500434312]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: the words “in the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/48/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4289b1dd90f7d1b68044e47500434312]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: the words “in the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/48/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2f5ad7fe4b3b02d421af41da298791b7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 48(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/48/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2f5ad7fe4b3b02d421af41da298791b7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 48(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/48/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-f226fb2326d8b70979b620772a87798e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: the words “\[AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court issued a committal warrant pursuant to section 9(1)(i) of the Justice Act (Northern Ireland) 2016.\]” inserted after “AND WHEREAS the defaulter \[defendant\] has not paid the fine as ordered.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(m)(ii)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/m/ii)
+[^c-f226fb2326d8b70979b620772a87798e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A: the words “\[AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court issued a committal warrant pursuant to section 9(1)(i) of the Justice Act (Northern Ireland) 2016.\]” inserted after “AND WHEREAS the defaulter \[defendant\] has not paid the fine as ordered.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(m)(ii)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/m/ii)
 
-[^key-697cca6348f62005679a6e62cf0f1aac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A heading substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(m)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/m/i)
+[^c-697cca6348f62005679a6e62cf0f1aac]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62A heading substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(m)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/m/i)
 
-[^key-916441a4ca33036e54b5b6111a43c965]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 50(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/50/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-916441a4ca33036e54b5b6111a43c965]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 50(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/50/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-96fcbbc237f8b6c5d67f0d1dc67b83f3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62C: the words “for the petty sessions district of (place) …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 50(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/50/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-96fcbbc237f8b6c5d67f0d1dc67b83f3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62C: the words “for the petty sessions district of (place) …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 50(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/50/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-85d034fdc68ecdf8bcdd1e71d50040a9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62C: at the end, the words “in the County Court Division of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 50(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/50/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-85d034fdc68ecdf8bcdd1e71d50040a9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62C: at the end, the words “in the County Court Division of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 50(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/50/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-57a54c1b107b42cb9d350f9fa3909139]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62C-62L heading substituted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(o)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/o)
+[^c-57a54c1b107b42cb9d350f9fa3909139]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62C-62L heading substituted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(o)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/o)
 
-[^key-0739fb093c2ef450a0538c3658e8e70d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62D-62G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 51(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/51/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-0739fb093c2ef450a0538c3658e8e70d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62D-62G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 51(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/51/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-63e103b98793f30227167ca19d5e52b8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62D-62G: the words “for the petty sessions district of (place) …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 51(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/51/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-63e103b98793f30227167ca19d5e52b8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62D-62G: the words “for the petty sessions district of (place) …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 51(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/51/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-c4842dd8c8506e5c45ffee1c1f17de96]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62D-62G: the words “sitting for the petty sessions district of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 51(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/51/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c4842dd8c8506e5c45ffee1c1f17de96]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62D-62G: the words “sitting for the petty sessions district of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 51(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/51/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5840d02ee543a5a6b5ad9bd5ebf52ae6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 52(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/52/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5840d02ee543a5a6b5ad9bd5ebf52ae6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 52(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/52/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d9050e92f8d1086d2ca42bdd324de5ba]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62H: the words “for the petty sessions district of (place) ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 52(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/52/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d9050e92f8d1086d2ca42bdd324de5ba]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62H: the words “for the petty sessions district of (place) ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 52(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/52/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-de4abeb109718ac62ea241f45afea07f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62H: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 52(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/52/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-de4abeb109718ac62ea241f45afea07f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62H: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 52(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/52/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-aae7cdd6711303f1203a4b30b28575de]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62I: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 53(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/53/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-aae7cdd6711303f1203a4b30b28575de]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62I: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 53(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/53/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-1868830642c0daefbba98f6afec4d1c3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62I: the words “for the petty sessions district of …” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 53(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/53/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-1868830642c0daefbba98f6afec4d1c3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62I: the words “for the petty sessions district of …” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 53(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/53/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7f0bc1005e450328fb82693cf24b6a6c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7f0bc1005e450328fb82693cf24b6a6c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7908c00539b834819cdcda93b3d65618]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: the words “for the petty sessions district of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7908c00539b834819cdcda93b3d65618]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: the words “for the petty sessions district of …” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-46c5820d190eaeb9cbef13080e6d2783]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: the paragraph beginning “\[AND the court is satisfied” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-46c5820d190eaeb9cbef13080e6d2783]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: the paragraph beginning “\[AND the court is satisfied” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7a66ee4a8f36b85cbdbdb3c643816a67]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: the paragraph beginning “\[AND IT APPEARS” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(4)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7a66ee4a8f36b85cbdbdb3c643816a67]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62J: the paragraph beginning “\[AND IT APPEARS” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 54(4)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/54/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-f6855276f4c54bc002a11704a23c0116]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62K, 62L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 55](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/55); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f6855276f4c54bc002a11704a23c0116]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 62K, 62L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 55](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/55); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00328]: Footnote: Form 62M inserted by [S.R. 2012 No. 189](https://www.legislation.gov.uk/nisr/2012/189) with effect from 06.06.12
 
-[^key-84b3bb72dc5d155e2e561fbdff70bd97]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 56(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/56/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-84b3bb72dc5d155e2e561fbdff70bd97]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 56(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/56/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-3ece0a6704922afb7f801199922544fa]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: the words “in the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 56(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/56/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3ece0a6704922afb7f801199922544fa]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: the words “in the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 56(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/56/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-c2c2cdc52f12bb3d4c8bfe2b9f4bbebf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 56(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/56/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c2c2cdc52f12bb3d4c8bfe2b9f4bbebf]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 56(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/56/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-dbd99b7d7625af1723159603a52dff2c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: the words “\[AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court issued a committal warrant pursuant to section 9(1)(i) of the Justice Act (Northern Ireland) 2016.\]” inserted after “AND WHEREAS the defaulter \[defendant\] has not paid the fine as ordered.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(p)(ii)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/p/ii)
+[^c-dbd99b7d7625af1723159603a52dff2c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M: the words “\[AND following a default hearing at \[Default hearing venue\] on \[Default hearing date\] the court issued a committal warrant pursuant to section 9(1)(i) of the Justice Act (Northern Ireland) 2016.\]” inserted after “AND WHEREAS the defaulter \[defendant\] has not paid the fine as ordered.” (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(p)(ii)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/p/ii)
 
-[^key-719ed53dcd525058cb505e91a337b5ca]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M heading substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(p)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/p/i)
+[^c-719ed53dcd525058cb505e91a337b5ca]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 62M heading substituted (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(p)(i)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/p/i)
 
 [^f00329]: Footnote: Forms 63A-63E inserted by [S.R. 1997 No. 529](https://www.legislation.gov.uk/nisr/1997/529) with effect from 1.1.98
 
-[^key-a23587eb9777f5311fd978e2e7cd895b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 57](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/57); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a23587eb9777f5311fd978e2e7cd895b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 57](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/57); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7429a19a7bae6033aa63470335b9bdd6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 58(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/58/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7429a19a7bae6033aa63470335b9bdd6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 58(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/58/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-6816c65cc50945a92e68bac316753b26]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63B: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 58(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/58/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-6816c65cc50945a92e68bac316753b26]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63B: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 58(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/58/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-dd6c0329aaf8abd070e330ad5f62e873]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 63C, 63D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 59(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/59/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-dd6c0329aaf8abd070e330ad5f62e873]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 63C, 63D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 59(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/59/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-dcd4ba73979e0d29b8ed6150a55bb9ed]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 63C, 63D: the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 59(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/59/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-dcd4ba73979e0d29b8ed6150a55bb9ed]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 63C, 63D: the words “for the said county court division” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 59(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/59/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-c4075211f945d9b399586dd9cff4a9e5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63E: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 60](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/60); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c4075211f945d9b399586dd9cff4a9e5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 63E: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 60](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/60); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-ce59d88f975e5d80fc26f9a25235980d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 66, 67: the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 61](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/61); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-ce59d88f975e5d80fc26f9a25235980d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 66, 67: the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 61](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/61); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00330]: Footnote: Forms 69A-69Q inserted by [S.R. 1997 No. 529](https://www.legislation.gov.uk/nisr/1997/529) with effect from 1.1.98
 
-[^key-b156a2356c8a6f88d3f3b63cac9e26dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 62(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/62/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b156a2356c8a6f88d3f3b63cac9e26dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 62(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/62/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-27686319b6bbde1ce443a4da4cc9b082]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69A: the words “, who \[resides\] \[will reside\] in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 62(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/62/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-27686319b6bbde1ce443a4da4cc9b082]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69A: the words “, who \[resides\] \[will reside\] in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 62(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/62/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-76e0b1f10fe6029a9d518b81cc3a4fdc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69A: the words “appointed for or assigned to that district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 62(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/62/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-76e0b1f10fe6029a9d518b81cc3a4fdc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69A: the words “appointed for or assigned to that district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 62(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/62/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-a30cfc87a010a6e36e9d3cfba6eae004]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 63(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/63/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a30cfc87a010a6e36e9d3cfba6eae004]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 63(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/63/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-af5ccf24eaa9f3187c133c84e8c4b61a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69B: the words “, who \[resides\] \[will reside\] in the petty sessions district of ….,” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 63(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/63/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-af5ccf24eaa9f3187c133c84e8c4b61a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69B: the words “, who \[resides\] \[will reside\] in the petty sessions district of ….,” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 63(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/63/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-58f6006705ceb99a2d4e13ea01d1aa1d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 64(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/64/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-58f6006705ceb99a2d4e13ea01d1aa1d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 64(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/64/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b67479243a0a3bee96786e2e0e7c0f44]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69C: the words “, who \[resides\] \[will reside\] in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 64(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/64/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b67479243a0a3bee96786e2e0e7c0f44]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69C: the words “, who \[resides\] \[will reside\] in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 64(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/64/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-40c1c135a21a501e4e9fc973a56d5799]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69C: the words “appointed for or assigned to that district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 64(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/64/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-40c1c135a21a501e4e9fc973a56d5799]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69C: the words “appointed for or assigned to that district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 64(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/64/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5ad823dc8c1af285abc2358d2c814df4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 65(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/65/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5ad823dc8c1af285abc2358d2c814df4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 65(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/65/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-20c681f52854c1fe314a5e34034a762e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69D: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 65(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/65/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-20c681f52854c1fe314a5e34034a762e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69D: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 65(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/65/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2f18cffd6c2cba407c33c509b6f9f47a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69D: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 65(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/65/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2f18cffd6c2cba407c33c509b6f9f47a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69D: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 65(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/65/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5e1f809b8e0f11929a04d7e97d0e39cb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69E, 69F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 66(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/66/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5e1f809b8e0f11929a04d7e97d0e39cb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69E, 69F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 66(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/66/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-38d3858139406b159a045938cafc0aec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69E, 69F: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 66(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/66/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-38d3858139406b159a045938cafc0aec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69E, 69F: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 66(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/66/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8273c022b55ba15f49108a4c17248028]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69E, 69F: the words “ sitting for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 66(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/66/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8273c022b55ba15f49108a4c17248028]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69E, 69F: the words “ sitting for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 66(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/66/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-0d499e4ee29a5fcdc9ae17d64d054616]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 67(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/67/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-0d499e4ee29a5fcdc9ae17d64d054616]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 67(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/67/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-fc7f1336cca310b5263b5dad5e9cfc0c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69G: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 67(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/67/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-fc7f1336cca310b5263b5dad5e9cfc0c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69G: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 67(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/67/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-328df7374997ef99e1ac476565035100]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69H, 69I, 69J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 68(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/68/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-328df7374997ef99e1ac476565035100]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69H, 69I, 69J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 68(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/68/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-02d54795554f2a97dc85ec6e2f24f18d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69H, 69I, 69J: the words “for the petty sessions district of ….” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 68(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/68/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-02d54795554f2a97dc85ec6e2f24f18d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69H, 69I, 69J: the words “for the petty sessions district of ….” in each place where they occur omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 68(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/68/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8da622baea75d84c3fe402b445114b03]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69K: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 69(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/69/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8da622baea75d84c3fe402b445114b03]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69K: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 69(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/69/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b78cbaef0ebfa5aea89a666261dadcf4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69K: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 69(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/69/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b78cbaef0ebfa5aea89a666261dadcf4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69K: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 69(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/69/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-cd2b8f24308176fd63105433991e2f17]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 70](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/70); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-cd2b8f24308176fd63105433991e2f17]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 70](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/70); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d3fb5775f017b4312f8d5ebe10ba5c5e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69M: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 71(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/71/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d3fb5775f017b4312f8d5ebe10ba5c5e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69M: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 71(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/71/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-3d31967218c76f67d647336b3fbaf89b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69M: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 71(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/71/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3d31967218c76f67d647336b3fbaf89b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 69M: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 71(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/71/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00331]: Footnote: Form 69N substituted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 06.10.08
 
-[^key-b502806b1b673c10a40ddedf1c909c12]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69N, 69O: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 72](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/72); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b502806b1b673c10a40ddedf1c909c12]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69N, 69O: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 72](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/72); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00332]: Footnote: Words substituted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 06.10.08
 
-[^key-839926f116df945b0cd4b56f9ee304ae]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69P, 69Q: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 73(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/73/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-839926f116df945b0cd4b56f9ee304ae]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69P, 69Q: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 73(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/73/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2e738caa2b6ad0d5dfb7554eafa8391f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69P, 69Q: the words “appointed for or assigned to the district in which he will reside” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 73(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/73/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2e738caa2b6ad0d5dfb7554eafa8391f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 69P, 69Q: the words “appointed for or assigned to the district in which he will reside” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 73(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/73/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b8f6cb1b15d0ebb7c945de42f223cb8e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 70: the words “for the above-mentioned petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 74](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/74); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b8f6cb1b15d0ebb7c945de42f223cb8e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 70: the words “for the above-mentioned petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 74](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/74); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-095ff78f364f3d1fee7ade4768484ea2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 71: the words “Northern Ireland” substituted for “this petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 75](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/75); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-095ff78f364f3d1fee7ade4768484ea2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 71: the words “Northern Ireland” substituted for “this petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 75](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/75); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00333]: Footnote: New Forms 72A and 72B inserted by [S.R. 2010 No. 12](https://www.legislation.gov.uk/nisr/2010/12) with effect from 1.3.10
 
-[^key-5db6ec8a582dfb4277082264e891bb3f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 73: the words “for the above-named petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 77](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/77); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5db6ec8a582dfb4277082264e891bb3f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 73: the words “for the above-named petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 77](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/77); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b4fde764c2021ce4fa5ace79e481d6ee]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 75: the words “for the \[above-named petty sessions district\] \[the petty sessions district of ….\]” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 78](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/78); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b4fde764c2021ce4fa5ace79e481d6ee]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 75: the words “for the \[above-named petty sessions district\] \[the petty sessions district of ….\]” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 78](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/78); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2d6d0f971c75d62abfcb4086699bc948]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 77, 78: the words “the court sitting at…” substituted for “the above-named court” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 79](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/79); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2d6d0f971c75d62abfcb4086699bc948]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 77, 78: the words “the court sitting at…” substituted for “the above-named court” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 79](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/79); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-db72d9fee06aa93d5f25411f1e8e54ae]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 81: the words “for the above-named district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 80](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/80); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-db72d9fee06aa93d5f25411f1e8e54ae]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 81: the words “for the above-named district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 80](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/80); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-acae7092bd74d4884cbcf125a0f34b90]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 83: the word “at…” substituted for “for the said district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 81](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/81); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-acae7092bd74d4884cbcf125a0f34b90]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 83: the word “at…” substituted for “for the said district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 81](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/81); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-75f6568739f9439f8270499a813bd3ec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 85: the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 82](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/82); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-75f6568739f9439f8270499a813bd3ec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 85: the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 82](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/82); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00334]: Footnote: Form 85A inserted by [S.R. 2011 No. 418](https://www.legislation.gov.uk/nisr/2011/418) with effect from 01.01.12
 
-[^key-0676765ca132a6a0375ea79e2b59f36f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 85A: the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 82](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/82); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-0676765ca132a6a0375ea79e2b59f36f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 85A: the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 82](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/82); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-fd17d9302e33c7e3dc7fc0e85873cdec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88A, 88B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 83(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/83/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-fd17d9302e33c7e3dc7fc0e85873cdec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88A, 88B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 83(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/83/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-021a4a863b959893b14a9956ada6ccf1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88A, 88B: the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 83(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/83/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-021a4a863b959893b14a9956ada6ccf1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88A, 88B: the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 83(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/83/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-3c96d040ef16133d0314f97ecdf52bac]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88A: the words “a preliminary investigation or a” omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(g)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/g) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-3c96d040ef16133d0314f97ecdf52bac]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88A: the words “a preliminary investigation or a” omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(g)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/g) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-51c32de5fb7bf808a1f76bda92fa7a9a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88B, 88C, 88E, 88F, 88G: the words “preliminary investigation or” in each place they occur omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(h)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/h) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-51c32de5fb7bf808a1f76bda92fa7a9a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88B, 88C, 88E, 88F, 88G: the words “preliminary investigation or” in each place they occur omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(h)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/h) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-15d7b9c2b0c9101134c4eb36e9783e5e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88C, 88D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 84](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/84); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-15d7b9c2b0c9101134c4eb36e9783e5e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88C, 88D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 84](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/84); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-511ece761451a525b24a2a392fb55f93]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88E, 88F, 88G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 85(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/85/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-511ece761451a525b24a2a392fb55f93]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88E, 88F, 88G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 85(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/85/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-9f5f3efe81e8e8b5d3ff2c86a55c5655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88E, 88F, 88G: the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 85(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/85/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9f5f3efe81e8e8b5d3ff2c86a55c5655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 88E, 88F, 88G: the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 85(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/85/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-aa40129248f934d8faf94f6ce260aa8d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 86](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/86); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-aa40129248f934d8faf94f6ce260aa8d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 86](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/86); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-1bcb9ee39d58d837a48fdd3e8e50e8b3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88H: the words “preliminary investigation or” in each place they occur omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(h)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/h) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-1bcb9ee39d58d837a48fdd3e8e50e8b3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88H: the words “preliminary investigation or” in each place they occur omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(15)(h)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/15/h) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
 [^f00335]: Footnote: Forms 88I-88J inserted by [S.R. 2008 No. 361](https://www.legislation.gov.uk/nisr/2008/361) with effect from 02.02.09
 
-[^key-f421480e25ae73053e82c7e2efb301e6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88I: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 87(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/87/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f421480e25ae73053e82c7e2efb301e6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88I: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 87(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/87/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5c33c39ec9cbfd93a02efbf8ea8b2584]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88I: the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 87(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/87/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5c33c39ec9cbfd93a02efbf8ea8b2584]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88I: the word “at…” substituted for “for the petty sessions district of ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 87(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/87/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b0b61ea13d0dc2e56dc7bc694618cfa4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 88](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/88); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b0b61ea13d0dc2e56dc7bc694618cfa4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88J: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 88](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/88); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00336]: Footnote: Form 88K substituted by [S.R. 2013 No. 89](https://www.legislation.gov.uk/nisr/2013/89) with effect from 11.05.13
 
-[^key-827b6e4ad3c81a8684e02a3209557a9c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88K: in the “Case details”, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 89(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/89/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-827b6e4ad3c81a8684e02a3209557a9c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88K: in the “Case details”, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 89(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/89/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-84a2229b0f9a7c892adb290e2f841c3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88K: at the end, the word “at…” substituted for “for the petty sessions district of” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 89(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/89/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-84a2229b0f9a7c892adb290e2f841c3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88K: at the end, the word “at…” substituted for “for the petty sessions district of” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 89(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/89/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-c41bc5ac9dfa360c2f96f08cec8e659b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 90](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/90); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c41bc5ac9dfa360c2f96f08cec8e659b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88L: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 90](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/90); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00337]: Footnote: Form 88M inserted by [S.R. 2013 No. 89 with effect from 11.05.13](https://www.legislation.gov.uk/nisr/2013/89)
 
-[^key-9d6a698274f2eec98820581dd35843ac]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88M: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 91](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/91); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9d6a698274f2eec98820581dd35843ac]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88M: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 91](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/91); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00338]: Footnote: Form 88N inserted by [S.R. 2013 No. 89](https://www.legislation.gov.uk/nisr/2013/89) with effect from 11.05.13
 
-[^key-f4705a3b46efc9a8807701b7d27f095e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88N: at the end, the word “at…” substituted for “for the petty sessions district of” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 92](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/92); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f4705a3b46efc9a8807701b7d27f095e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 88N: at the end, the word “at…” substituted for “for the petty sessions district of” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 92](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/92); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b00ce75945a54ed541a4e1f1378d21b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 89A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(s)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/s)
+[^c-b00ce75945a54ed541a4e1f1378d21b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 89A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(s)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/s)
 
-[^key-625c5d7927b638e24dceecba233c4ae7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 89B omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(t)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/t)
+[^c-625c5d7927b638e24dceecba233c4ae7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 89B omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(t)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/t)
 
 [^f00341]: Footnote: Forms 91A and 91B substituted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 08.12.08
 
-[^key-6ed6c142a90e50ad155cc135cc61fa0f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 95(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/95/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-6ed6c142a90e50ad155cc135cc61fa0f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91A: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 95(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/95/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-1d558ad3fecfee9022f696c20c188f5a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91A: the words “sitting at…” substituted for “for the above-named petty sessions district” in the first place where they occur (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 95(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/95/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-1d558ad3fecfee9022f696c20c188f5a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91A: the words “sitting at…” substituted for “for the above-named petty sessions district” in the first place where they occur (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 95(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/95/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-964b441e202f0dbb7b3c1da56d0d1034]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91A: at the end, the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 95(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/95/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-964b441e202f0dbb7b3c1da56d0d1034]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91A: at the end, the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 95(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/95/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-9384df7d519a0b14189dfafac75a870d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 96](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/96); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9384df7d519a0b14189dfafac75a870d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91B: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 96](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/96); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00342]: Footnote: Forms 91C-91E inserted by [S.R. 2004 No. 299](https://www.legislation.gov.uk/nisr/2004/299) with effect from 26.07.04
 
-[^key-7808296213d4be347e3d7a897a5e0e28]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 97(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/97/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7808296213d4be347e3d7a897a5e0e28]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 97(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/97/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-358f68880e301f2a5801d2a6d586c8fd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91C: the words “sitting at…” substituted for “for the above-named petty sessions district” in the first place where they occur (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 97(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/97/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-358f68880e301f2a5801d2a6d586c8fd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91C: the words “sitting at…” substituted for “for the above-named petty sessions district” in the first place where they occur (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 97(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/97/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8db9a93c46b118dd57ce3e01ef4d6146]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91C: at the end, the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 97(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/97/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8db9a93c46b118dd57ce3e01ef4d6146]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91C: at the end, the word “at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 97(3)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/97/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5b1fa68bf69d8ebbc7bb9f02ee90e7f7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 91D, 91E: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 98](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/98); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5b1fa68bf69d8ebbc7bb9f02ee90e7f7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 91D, 91E: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 98](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/98); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00343]: Footnote: Form 91F inserted by [S.R. 2004 No. 433](https://www.legislation.gov.uk/nisr/2004/433) with effect from 29.10.04
 
-[^key-945a42a05a04c8cb687894bd8ff56b3c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 99(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/99/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-945a42a05a04c8cb687894bd8ff56b3c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91F: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 99(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/99/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-ee3e3c7f8ec504075ba5146d7f66c006]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91F: at the end, the word “at…” substituted for “for the above-named Petty Sessions District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 99(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/99/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-ee3e3c7f8ec504075ba5146d7f66c006]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91F: at the end, the word “at…” substituted for “for the above-named Petty Sessions District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 99(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/99/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00344]: Footnote: Form 91G inserted by [S.R. 2004 No. 433](https://www.legislation.gov.uk/nisr/2004/433) with effect from 29.10.04
 
-[^key-55d8a840588b2d1ceacba9b0e4b21b99]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 100](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/100); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-55d8a840588b2d1ceacba9b0e4b21b99]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91G: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 100](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/100); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00345]: Footnote: Form 91H inserted by [S.R. 2004 No. 433](https://www.legislation.gov.uk/nisr/2004/433) with effect from 29.10.04
 
-[^key-b3a64e4532041d1514af13d3bb740b76]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 101(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/101/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b3a64e4532041d1514af13d3bb740b76]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91H: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 101(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/101/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-66e484125ab9cea90338119c7949ea75]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91H: at the end, the word “at…” substituted for “for the above-named Petty Sessions District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 101(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/101/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-66e484125ab9cea90338119c7949ea75]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91H: at the end, the word “at…” substituted for “for the above-named Petty Sessions District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 101(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/101/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00346]: Footnote: Form 91I inserted by [S.R. 2004 No. 433](https://www.legislation.gov.uk/nisr/2004/433) with effect from 29.10.04
 
-[^key-d9c30ace08b28b7b0911ef0078d7ff30]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91I: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 102](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/102); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d9c30ace08b28b7b0911ef0078d7ff30]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 91I: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 102](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/102); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00347]: Footnote: Form 93 substituted by [S.R. 2003 No. 477](https://www.legislation.gov.uk/nisr/2003/477) with effect from 01.12.03
 
@@ -3290,90 +3290,90 @@ JUSTICE ACT (NORTHERN IRELAND) 2015
 
 [^f00350]: Footnote: New Form 95B inserted by [S.R. 2009 No. 310](https://www.legislation.gov.uk/nisr/2009/310) with effect from 30.9.09
 
-[^key-89ab89b1af84fc83523b126c2672fd0a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 96: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 103(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/103/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-89ab89b1af84fc83523b126c2672fd0a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 96: the words “for the said district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 103(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/103/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-f7053944563c54e7eb11b4a895bc2891]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 96: the words “for the above-named petty session district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 103(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/103/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f7053944563c54e7eb11b4a895bc2891]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 96: the words “for the above-named petty session district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 103(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/103/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00351]: Footnote: Form 96A inserted by [S.R. 2012 No. 189](https://www.legislation.gov.uk/nisr/2012/189) with effect from 06.06.12
 
-[^key-141ed12c26ccae37190332ca4444b05b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 96A: the words “sitting at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 104](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/104); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-141ed12c26ccae37190332ca4444b05b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 96A: the words “sitting at…” substituted for “for the above-named petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 104](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/104); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00352]: Footnote: Form 96B inserted by [S.R. 2012 No. 189](https://www.legislation.gov.uk/nisr/2012/189) with effect from 06.06.12
 
-[^key-8b6d0a958262bd765d3ebff57c5bdead]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 97: the word “at…” substituted for “for the above-named Petty Sessions District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 105](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/105); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8b6d0a958262bd765d3ebff57c5bdead]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 97: the word “at…” substituted for “for the above-named Petty Sessions District” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 105](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/105); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-4c40cd7856d4e47490df4baac19e3606]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 99: the words “sitting at…” substituted for “for the above petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 106](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/106); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4c40cd7856d4e47490df4baac19e3606]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 99: the words “sitting at…” substituted for “for the above petty sessions district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 106](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/106); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-897cccd859b1cd90b263e7bddf124124]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 100: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 107(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/107/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-897cccd859b1cd90b263e7bddf124124]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 100: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 107(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/107/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-026007f7515b747efa3251dced016220]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 100: the words “sitting at…” substituted for “for the above-named petty sessions district sitting” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 107(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/107/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-026007f7515b747efa3251dced016220]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 100: the words “sitting at…” substituted for “for the above-named petty sessions district sitting” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 107(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/107/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-45208fd73738d922d543aeb6e5ee0b01]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 101: the word “at…” substituted for “for the petty sessions district of” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 108](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/108); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-45208fd73738d922d543aeb6e5ee0b01]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 101: the word “at…” substituted for “for the petty sessions district of” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 108](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/108); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-6ec6b8a176a5bb16686fb8428f3c966b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 102: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 109](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/109); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-6ec6b8a176a5bb16686fb8428f3c966b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 102: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 109](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/109); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5c606983200537853cc55e07c006074e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 103: the words “\[justice of the peace for the county court division of ….\]” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 110](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/110); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5c606983200537853cc55e07c006074e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 103: the words “\[justice of the peace for the county court division of ….\]” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 110](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/110); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-0bb0560878dfe9af98ab0baa9ca0a7db]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 106: the words “sitting at…” substituted for “for the said district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 111](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/111); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-0bb0560878dfe9af98ab0baa9ca0a7db]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 106: the words “sitting at…” substituted for “for the said district” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 111](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/111); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-48b443d85a33f352c4197939f3e5a20e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 108: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 112](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/112); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-48b443d85a33f352c4197939f3e5a20e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 108: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 112](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/112); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7286e8f7d79e358b82806ea38b2df3e7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(u)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/u)
+[^c-7286e8f7d79e358b82806ea38b2df3e7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109A omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(u)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/u)
 
-[^key-748f3d2b1d0d72094b511c787244354c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109B omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(v)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/v)
+[^c-748f3d2b1d0d72094b511c787244354c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109B omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(v)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/v)
 
-[^key-1581f09b7349e15c97feea06c3639234]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 109A, 109B, 109C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 113](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/113); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-1581f09b7349e15c97feea06c3639234]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 109A, 109B, 109C: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 113](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/113); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-4ab0383f9dd46560842c4ff356671c3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109D omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(w)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/w)
+[^c-4ab0383f9dd46560842c4ff356671c3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109D omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(w)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/w)
 
-[^key-4a1ac52113e11d76b2a6c111e1804657]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109E omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(x)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/x)
+[^c-4a1ac52113e11d76b2a6c111e1804657]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 109E omitted (1.6.2018) by virtue of [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(11)(x)](https://www.legislation.gov.uk/nisr/2018/103/article/3/11/x)
 
-[^key-699455d0224b1e28c60927e99c0c93cd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 115](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/115); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-699455d0224b1e28c60927e99c0c93cd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 115](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/115); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b36a0be69d88104e9c8506ed06dde4dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110C: the words “in the county court division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 116](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/116); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b36a0be69d88104e9c8506ed06dde4dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110C: the words “in the county court division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 116](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/116); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00356]: Footnote: Form 110D inserted by [S.R. 1997 No. 428](https://www.legislation.gov.uk/nisr/1997/428) with effect from 14.10.97
 
-[^key-a7459ce62d61a9f121bb8a59221b9d9f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 117(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/117/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a7459ce62d61a9f121bb8a59221b9d9f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110D: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 117(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/117/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8022345305d122d5d0a5b6d06e049553]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110D: at the end, the words “in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 117(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/117/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8022345305d122d5d0a5b6d06e049553]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110D: at the end, the words “in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 117(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/117/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00357]: Footnote: Form 110E inserted by [S.R. 2012 No. 189](https://www.legislation.gov.uk/nisr/2012/189) with effect from 06.06.12
 
-[^key-80866c202b53bb02935a90e0bf639ad7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110E: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 118(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/118/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-80866c202b53bb02935a90e0bf639ad7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110E: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 118(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/118/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-bde2792485d8254f02abc7489f37f6ea]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110E: at the end, the words “in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 118(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/118/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-bde2792485d8254f02abc7489f37f6ea]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 110E: at the end, the words “in the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 118(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/118/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-0af8e60e781fee8eb57311064e8a60af]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 111: the words “County of Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 119](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/119); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-0af8e60e781fee8eb57311064e8a60af]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 111: the words “County of Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 119](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/119); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00358]: Footnote: Form 111A inserted by [S.R. 1994 No. 387](https://www.legislation.gov.uk/nisr/1994/387) with effect from 01.11.94
 
-[^key-2bdd97b4bff472cbc9fe779b2eddc7b4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 114: the words “sitting at…” substituted for “for the said district ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 120](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/120); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2bdd97b4bff472cbc9fe779b2eddc7b4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 114: the words “sitting at…” substituted for “for the said district ….” (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 120](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/120); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-bdecc93102257dbf2e42f2cd3587a251]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 115: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 121](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/121); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-bdecc93102257dbf2e42f2cd3587a251]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 115: the words “in the County Court Division of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 121](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/121); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00359]: Footnote: Form 121 inserted by [S.R. 1989 No. 479](https://www.legislation.gov.uk/nisr/1989/479) with effect from 1.1.90
 
 [^f00360]: Footnote: Forms 122 and 123 inserted by [S.R. 1997 No. 428](https://www.legislation.gov.uk/nisr/1997/428) with effect from 14.10.97
 
-[^key-6460f366dd59d7d28618538fbe91abcb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 122, 123: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 122](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/122); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-6460f366dd59d7d28618538fbe91abcb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Forms 122, 123: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 122](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/122); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00361]: Footnote: Forms 124 and 125 inserted by [S.R. 1997 No. 529](https://www.legislation.gov.uk/nisr/1997/529) with effect from 01.01.98
 
-[^key-da9418347eb1a5717395c4ec2c2b5237]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 124: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 123(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/123/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-da9418347eb1a5717395c4ec2c2b5237]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 124: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 123(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/123/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5dec9f49653afb4c09f0017eb5ea247a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 124: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 123(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/123/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5dec9f49653afb4c09f0017eb5ea247a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 124: the words “for the petty sessions district of ….” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 123(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/123/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-3c5e7462be5e8aa130e5564a59379742]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 125: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 124](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/124); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-3c5e7462be5e8aa130e5564a59379742]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 125: in the title, the large bracket, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 124](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/124); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00362]: Footnote: Form 126 inserted by [S.R. 2011 No. 59](https://www.legislation.gov.uk/nisr/2011/59) with effect from 25.03.11
 
-[^key-31973a6d4da02c10e9b92e0dff690bd1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 126: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 125](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/125); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-31973a6d4da02c10e9b92e0dff690bd1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 126: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 125](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/125); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00363]: Footnote: Form 127 inserted by [S.R. 2012 No. 415](https://www.legislation.gov.uk/nisr/2012/415) with effect from 20.12.12
 
-[^key-70af822e30629e7ff617345e613ee33a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 127: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 126(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/126/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-70af822e30629e7ff617345e613ee33a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 127: in the title, the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 126(1)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/126/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-212b98a07308ccc479a9d1af75072879]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 127: the words “for the above named Petty Sessions District” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 126(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/126/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-212b98a07308ccc479a9d1af75072879]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1984/225/schedule/1) Form 127: the words “for the above named Petty Sessions District” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rule 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [Sch. para. 126(2)](https://www.legislation.gov.uk/nisr/2016/304/schedule/paragraph/126/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00364]: Footnote: Form 128 inserted by [S.R. 2016 No. 93](https://www.legislation.gov.uk/nisr/2016/93) with effect from 01.04.16

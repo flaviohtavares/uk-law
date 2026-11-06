@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Provision in respect of imports from Northern Ireland[^key-84dba5554e7cb169d4dc048635fc7832]
+## SCHEDULE 2A — Provision in respect of imports from Northern Ireland[^c-84dba5554e7cb169d4dc048635fc7832]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,6 +123,6 @@ Regulation 4A
 
 ## Annotations
 
-[^key-84dba5554e7cb169d4dc048635fc7832]: Textual amendment: Sch. 2A inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/2020/1577/regulation/6)
+[^c-84dba5554e7cb169d4dc048635fc7832]: Textual amendment: Sch. 2A inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/2020/1577/regulation/6)
 
 [^M_I_0cd9dc96-7380-4efa-e99d-ee070169a929]: Commencement: Sch. 2A para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

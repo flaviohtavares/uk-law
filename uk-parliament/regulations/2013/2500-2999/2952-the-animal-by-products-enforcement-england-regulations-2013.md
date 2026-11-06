@@ -52,7 +52,7 @@ Coming into force
 
 [^c2194549]The Secretary of State has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures in the veterinary and phytosanitary fields for the protection of public health .
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for the reference to Commission Regulation (EU) No. 142/2011 (implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive [^c2194550]) to be construed as a reference to that instrument as amended from time to time.[^key-2c5c98b612c4bafdbf36a598c477a4dc][^key-7c21771e8e1122be65f6a81696c91fff]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for the reference to Commission Regulation (EU) No. 142/2011 (implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive [^c2194550]) to be construed as a reference to that instrument as amended from time to time.[^c-2c5c98b612c4bafdbf36a598c477a4dc][^c-7c21771e8e1122be65f6a81696c91fff]
 
 ## PART 1 — Introduction
 
@@ -79,7 +79,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**premises**” includes—
   - (a) any land, building, shed or pen;
   - (b) any receptacle or container;
-  - (c) any ship; and[^key-c5db9bea054a56ed92c9e9230d568f07]
+  - (c) any ship; and[^c-c5db9bea054a56ed92c9e9230d568f07]
   - (d) a vehicle of any description;
 - “**ship**” includes a hovercraft, submersible craft or any other floating craft but not a vessel which—
   - (a) permanently rests on or is permanently attached to the seabed; or
@@ -129,7 +129,7 @@ The following areas are remote areas for the purposes of Article 19(1)(b) of the
 - (a) Lundy Island;
 - (b) the Isles of Scilly.
 
-### 7A. Collection, transport and disposal of certain Category 3 material[^key-98218f0fffe29880ff0e6d63b5542ecf]
+### 7A. Collection, transport and disposal of certain Category 3 material[^c-98218f0fffe29880ff0e6d63b5542ecf]
 
 (1) The collection, transport and disposal of Category 3 material in Article 10(f) of the EU Control Regulation (Category 3 material) is authorised if the requirements of paragraph (2) are satisfied.
 
@@ -151,7 +151,7 @@ Operators must report to the Secretary of State the results of any tests carried
 - (a) Article 10(1) (requirements for the transformation of animal by-products and derived products into biogas and composting);
 - (b) Article 21(1) (processing and placing on the market of animal by-products and derived products for feeding to farmed animals);
 - (c) Article 22(1) (placing on the market and use of organic fertilisers and soil improvers); and
-- (d) Article 24(3)[^key-bc2006cfb81e626047797b1c4bf0f3d3] (pet food and other derived products) of the EU Implementing Regulation.
+- (d) Article 24(3)[^c-bc2006cfb81e626047797b1c4bf0f3d3] (pet food and other derived products) of the EU Implementing Regulation.
 
 ## PART 3 — Staining
 
@@ -166,7 +166,7 @@ Operators must report to the Secretary of State the results of any tests carried
 
 (2) In this part—
 
-- (a) the terms “**slaughterhouse**”, “**cutting plant**” and “**game-handling establishment**” have the meanings given to them in regulation 5(9) of the Food Safety and Hygiene (England) Regulations 2013[^key-91628696a96b6da01416421760b4bdd4];
+- (a) the terms “**slaughterhouse**”, “**cutting plant**” and “**game-handling establishment**” have the meanings given to them in regulation 5(9) of the Food Safety and Hygiene (England) Regulations 2013[^c-91628696a96b6da01416421760b4bdd4];
 - (b) “**cold store**” means any other premises used for the storage, under temperature controlled conditions, of fresh meat intended for sale for human consumption.
 
 (3) Operators must, subject to paragraph (5), without undue delay, stain the following animal by-products in accordance with paragraph (4)—
@@ -185,8 +185,8 @@ Operators must report to the Secretary of State the results of any tests carried
 (4) Operators must—
 
 - (a) stain the material listed in paragraph (3) with a colouring agent and using a solution of such a strength that the staining is clearly visible and remains visible after the animal by-product has been chilled or frozen;
-- (b) apply the stain to the whole surface of the animal by-product[^key-ebe5bff1fe45937e7ba30dc7d0012567], whether by immersing the animal by-product in the stain, spraying it with the solution or applying the solution to it by any other equally effective means;
-- (c) in the case of an animal by-product [^key-eb040e5736a1823838cd2c83893c2a72]... weighing more than 20 kg, apply the stain after its surface has been opened by multiple and deep incisions; and
+- (b) apply the stain to the whole surface of the animal by-product[^c-ebe5bff1fe45937e7ba30dc7d0012567], whether by immersing the animal by-product in the stain, spraying it with the solution or applying the solution to it by any other equally effective means;
+- (c) in the case of an animal by-product [^c-eb040e5736a1823838cd2c83893c2a72]... weighing more than 20 kg, apply the stain after its surface has been opened by multiple and deep incisions; and
 - (d) in the case of an animal by-product comprising a whole poultry body, whether or not it has been eviscerated or de feathered, apply the stain after the surface of the body has been opened by multiple and deep incisions.
 
 (5) Operators need not stain pursuant to paragraph (3)—
@@ -197,7 +197,7 @@ Operators must report to the Secretary of State the results of any tests carried
 - (d) any animal by-product which is moved immediately after generation to a processing or incineration establishment or plant approved under the EU Control Regulation via a sealed and leak-proof pipe; or
 - (e) a whole animal body, except a whole poultry body.
 
-(6)[^key-6177b392b1412f0de0644ff957df2043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6177b392b1412f0de0644ff957df2043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In paragraph 5(b) of this regulation “**green offal**” means the stomach and intestines of an animal and the contents of the digestive tract.
 
@@ -358,7 +358,7 @@ A person guilty of an offence under these Regulations is liable—
 - (a) the council of a non-metropolitan county; and
 - (b) the Treasurers of the Inner and Middle Temple.
 
-(8) In paragraph 2(c) “**food hygiene establishment**” means an establishment referred to in regulation 5(2) of the Food Safety and Hygiene (England) Regulations 2013[^key-6d41007e870695e2a244c1884d19d42e] in respect of which the Food Standards Agency has enforcement functions under those Regulations.
+(8) In paragraph 2(c) “**food hygiene establishment**” means an establishment referred to in regulation 5(2) of the Food Safety and Hygiene (England) Regulations 2013[^c-6d41007e870695e2a244c1884d19d42e] in respect of which the Food Standards Agency has enforcement functions under those Regulations.
 
 ### 22. Authorised person
 
@@ -368,7 +368,7 @@ An enforcement authority may authorise in writing such persons as the authority 
 
 (1) An authorised person may, on production of that person's authority if so required for the purpose of enforcing these Regulations, the EU Control Regulation and the EU Implementing Regulation—
 
-- (a) enter and inspect premises (except premises used wholly or mainly as a dwelling-house) at any reasonable hour , and where the premises are either unoccupied or the occupier is temporarily absent, the authorised person must leave them as effectively secured against unauthorised entry as they were before entry[^key-25146fe76e21b3c6402e294afed57813];
+- (a) enter and inspect premises (except premises used wholly or mainly as a dwelling-house) at any reasonable hour , and where the premises are either unoccupied or the occupier is temporarily absent, the authorised person must leave them as effectively secured against unauthorised entry as they were before entry[^c-25146fe76e21b3c6402e294afed57813];
 - (b) take such other persons and any equipment or materials as necessary;
 - (c) make such examination or investigation as necessary;
 - (d) direct that the premises, or part of them, are left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation under sub-paragraph (c);
@@ -383,10 +383,10 @@ An enforcement authority may authorise in writing such persons as the authority 
 - (g) require the production of, or where the information is recorded in computerised form the furnishing of extracts from, any records which it is necessary to see for the purposes of any examination or investigation under sub-paragraph (c) and to inspect and take copies of, or of any entry in, the records;
 - (h) require any person to afford such facilities and assistance with respect to any matters or things within that person's control or in relation to which that person has responsibilities as are necessary to enable the authorised person to exercise any of the powers conferred by this regulation; or
 - (i) mark any animal or animal by-product as the authorised person considers necessary.
-- (j)[^key-262262c5b7175566360fca0f7e9650a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-262262c5b7175566360fca0f7e9650a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-262262c5b7175566360fca0f7e9650a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-262262c5b7175566360fca0f7e9650a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-2c23498619ded1bbc1056431175e42c4] Where an authorised person has entered any premises which are unoccupied or from which the occupier is temporarily absent, the authorised person must leave them as effectively secured against unauthorised entry as they were before entry.
+(1A)[^c-2c23498619ded1bbc1056431175e42c4] Where an authorised person has entered any premises which are unoccupied or from which the occupier is temporarily absent, the authorised person must leave them as effectively secured against unauthorised entry as they were before entry.
 
 (2) Where an authorised person proposes to exercise the power in paragraph (1)(f)(ii), the authorised person must—
 
@@ -459,7 +459,7 @@ An enforcement authority may authorise in writing such persons as the authority 
 
 Schedule 2 to these Regulations provides for consequential amendments.
 
-## PART 8 — Revocations and Review[^key-c141dfdf78215dff75bcf60766aee6ec]
+## PART 8 — Revocations and Review[^c-c141dfdf78215dff75bcf60766aee6ec]
 
 ### 28. Revocations
 
@@ -473,7 +473,7 @@ The following instruments are revoked—
   - (i) the Animal By-Products (Identification) Regulations 1995 [^c2194563];
   - (ii) the Animal By-Products (Identification) (Amendment) Regulations 1997 [^c2194564].
 
-### 29. Transitional provision[^key-cfc2d8dbf4bf7b3d07203738801c6344]
+### 29. Transitional provision[^c-cfc2d8dbf4bf7b3d07203738801c6344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -515,7 +515,7 @@ Regulation 2
 | 4\. Restrictions on access to bodies | Articles 12, 13 and 21(1) of the EU Control Regulation | Regulation 4(3) of these Regulations |
 | 5\. Disposal and use of Category 1 material | Article 12 of the EU Control Regulation, subject to Article 16(b) to (e) of that Regulation and Article 7 of the EU Implementing Regulation | Articles 6(3) to (5), 8(1), 9(b) and (c), 11(2), 12(2) and 15 of the EU Implementing Regulation |
 | 6\. Disposal and use of Category 2 material | Article 13 of the EU Control Regulation, subject to Articles 15(2)(b) and 16(b) to (f) and (h) of that Regulation | Regulation 6 of these Regulations and Articles 6(3) to (5), 8(1), 9(b) and (c), 10(1), 11(2), 12(2), 13(1) and 15 of the EU Implementing Regulation |
-| 7\. Disposal and use of Category 3 material | Article 14 of the EU Control Regulation, subject to Article 16 (b) to (h) of that Regulation and Article 7 of the EU Implementing Regulation | Regulation 7A of these Regulations and Articles 6(3) to (5), 8(1), 9(b) and (c), 10(1), 11(2), 12(2), 13(2) and 15 of the[^key-0dc34403f7682218b530b1efbf8a2682] EU Implementing Regulation |
+| 7\. Disposal and use of Category 3 material | Article 14 of the EU Control Regulation, subject to Article 16 (b) to (h) of that Regulation and Article 7 of the EU Implementing Regulation | Regulation 7A of these Regulations and Articles 6(3) to (5), 8(1), 9(b) and (c), 10(1), 11(2), 12(2), 13(2) and 15 of the[^c-0dc34403f7682218b530b1efbf8a2682] EU Implementing Regulation |
 | 8\. Collection and identification as regards category and transport | Article 21(1) to (4) of the EU Control Regulation | Article 17 of the EU Implementing Regulation |
 | 9\. Traceability | Article 22(1) and (2) of the EU Control Regulation | Article 17 of the EU Implementing Regulation |
 | 10\. Registration of operators, establishments and plants | Articles 23(1) and (2) and 55 of the EU Control Regulation | Regulation 11 of these Regulations and Articles 20(1) and (2) and 32(7) of the EU Implementing Regulation |
@@ -525,7 +525,7 @@ Regulation 2
 | 14\. Own checks | Article 28 of the EU Control Regulation |  |
 | 15\. Hazard analysis and critical control points | Article 29(1) to (3) of the EU Control Regulation |  |
 | 16\. Placing on the market animal by-products and derived products for feeding to farmed animals excluding fur animals | Article 31(1) of the EU Control Regulation | Articles 21 and 24(2) of the EU Implementing Regulation |
-| 17\. Placing on the market and use of organic fertilisers and soil improvers | Article 32(1) and (2) of the EU Control Regulation | Regulation 5 of these Regulations and Articles 22(1) to (3) [^key-d44e95001dc7515c9597991f975f71b1]... of the EU Implementing Regulation |
+| 17\. Placing on the market and use of organic fertilisers and soil improvers | Article 32(1) and (2) of the EU Control Regulation | Regulation 5 of these Regulations and Articles 22(1) to (3) [^c-d44e95001dc7515c9597991f975f71b1]... of the EU Implementing Regulation |
 | 18\. Collection and movement for manufacture of derived products | Article 34 of the EU Control Regulation except in so far as it relates to imports | Article 33 of the EU Control Regulation and Article 23 of the EU Implementing Regulation |
 | 19\. Prohibition on use for manufacture for products not within Article 33 or 36 of the EU Control Regulation Article | Article 24(1) of the EU Implementing Regulation | Articles 33 and 36 of the EU Control Regulation |
 | 20\. Placing on the market of pet food | Article 35 of the EU Control Regulation | Articles 3 and 24(3) of the EU Implementing Regulation |
@@ -749,7 +749,7 @@ In article 8(2) of the Animal Gatherings Order 2010 [^c2194572], for “Animal B
 
 (3) In Section 6.8 of Chapter 6 of Schedule 1, omit paragraph 1(g) and (i).
 
-### 10. The Transmissible Spongiform Encephalopathies (England) Regulations 2010[^key-1d913328e45a2579163489d40df3bca4]
+### 10. The Transmissible Spongiform Encephalopathies (England) Regulations 2010[^c-1d913328e45a2579163489d40df3bca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -782,27 +782,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c2194550]: Marginal citation: OJ No L 54 26.2.2011, p 1, last amended by Commission Regulation (EU) No 717/2013 (OJ No L 201, 26.7.2013, p 31).
 
-[^key-2c5c98b612c4bafdbf36a598c477a4dc]: Modification: Regulations functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-2c5c98b612c4bafdbf36a598c477a4dc]: Modification: Regulations functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-7c21771e8e1122be65f6a81696c91fff]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/2952) functions transferred and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-7c21771e8e1122be65f6a81696c91fff]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/2952) functions transferred and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
 [^c2194551]: Marginal citation: OJ No L 300, 14.11.2009, p 1, amended by Directive No 2010/63/EU of the European Parliament and of the Council (OJ No 276, 20.10.2010, p 33).
 
-[^key-c5db9bea054a56ed92c9e9230d568f07]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/2/1) substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2015/1980/regulation/2)
+[^c-c5db9bea054a56ed92c9e9230d568f07]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/2/1) substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2015/1980/regulation/2)
 
 [^c2194552]: Marginal citation: 2008 c 32.
 
-[^key-98218f0fffe29880ff0e6d63b5542ecf]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2013/2952/regulation/7A) inserted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2015/1980/regulation/3)
+[^c-98218f0fffe29880ff0e6d63b5542ecf]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2013/2952/regulation/7A) inserted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2015/1980/regulation/3)
 
-[^key-bc2006cfb81e626047797b1c4bf0f3d3]: Textual amendment: Words in [reg. 9(d)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/9/d) substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2015/1980/regulation/4)
+[^c-bc2006cfb81e626047797b1c4bf0f3d3]: Textual amendment: Words in [reg. 9(d)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/9/d) substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2015/1980/regulation/4)
 
-[^key-91628696a96b6da01416421760b4bdd4]: Textual amendment: Words in reg. 10(2)(a) substituted (31.12.2013) by [The Food Safety and Hygiene (England) Regulations 2013 (S.I. 2013/2996)](https://www.legislation.gov.uk/uksi/2013/2996), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/1/c), [38(a)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/2)) (as amended (15.10.2016) by [S.I. 2016/868](https://www.legislation.gov.uk/uksi/2016/868), regs. 1, 2(5)(a))
+[^c-91628696a96b6da01416421760b4bdd4]: Textual amendment: Words in reg. 10(2)(a) substituted (31.12.2013) by [The Food Safety and Hygiene (England) Regulations 2013 (S.I. 2013/2996)](https://www.legislation.gov.uk/uksi/2013/2996), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/1/c), [38(a)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/2)) (as amended (15.10.2016) by [S.I. 2016/868](https://www.legislation.gov.uk/uksi/2016/868), regs. 1, 2(5)(a))
 
-[^key-ebe5bff1fe45937e7ba30dc7d0012567]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/10/4/b) substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [5(a)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/5/a)
+[^c-ebe5bff1fe45937e7ba30dc7d0012567]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/10/4/b) substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [5(a)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/5/a)
 
-[^key-eb040e5736a1823838cd2c83893c2a72]: Textual amendment: Words in [reg. 10(4)(c)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/10/4/c) omitted (31.12.2015) by virtue of [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [5(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/5/b)
+[^c-eb040e5736a1823838cd2c83893c2a72]: Textual amendment: Words in [reg. 10(4)(c)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/10/4/c) omitted (31.12.2015) by virtue of [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [5(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/5/b)
 
-[^key-6177b392b1412f0de0644ff957df2043]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/10/6) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/1120/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6177b392b1412f0de0644ff957df2043]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/10/6) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/1120/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2194554]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) of section 33 were repealed by the [Magistrates Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55) section 132 and Schedule 6; subsection (3) was amended by the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [section 56(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/56/1) and Schedule 8, Part 2, paragraph 19; subsection (4) was partially repealed by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10
 
@@ -814,15 +814,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c2194558]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-6d41007e870695e2a244c1884d19d42e]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/21/8) substituted (31.12.2013) by [The Food Safety and Hygiene (England) Regulations 2013 (S.I. 2013/2996)](https://www.legislation.gov.uk/uksi/2013/2996), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/1/c), [38(b)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/2)) (as amended (15.10.2016) by [S.I. 2016/868](https://www.legislation.gov.uk/uksi/2016/868), regs. 1, 2(5)(b))
+[^c-6d41007e870695e2a244c1884d19d42e]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/21/8) substituted (31.12.2013) by [The Food Safety and Hygiene (England) Regulations 2013 (S.I. 2013/2996)](https://www.legislation.gov.uk/uksi/2013/2996), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/1/c), [38(b)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/38/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2996/regulation/1/2)) (as amended (15.10.2016) by [S.I. 2016/868](https://www.legislation.gov.uk/uksi/2016/868), regs. 1, 2(5)(b))
 
-[^key-25146fe76e21b3c6402e294afed57813]: Textual amendment: Words in [reg. 23(1)(a)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/23/1/a) inserted (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/731/regulation/21/2/a/i)
+[^c-25146fe76e21b3c6402e294afed57813]: Textual amendment: Words in [reg. 23(1)(a)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/23/1/a) inserted (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/731/regulation/21/2/a/i)
 
-[^key-262262c5b7175566360fca0f7e9650a7]: Textual amendment: Reg. 23(1)(j)(k) omitted (31.12.2015) by virtue of [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [6(a)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/6/a)
+[^c-262262c5b7175566360fca0f7e9650a7]: Textual amendment: Reg. 23(1)(j)(k) omitted (31.12.2015) by virtue of [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [6(a)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/6/a)
 
-[^key-2c23498619ded1bbc1056431175e42c4]: Textual amendment: Reg. 23(1A) inserted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [6(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/6/b)
+[^c-2c23498619ded1bbc1056431175e42c4]: Textual amendment: Reg. 23(1A) inserted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [6(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/6/b)
 
-[^key-c141dfdf78215dff75bcf60766aee6ec]: Textual amendment: Pt. 8 heading substituted (31.12.2015) by The Animal By-[Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2015/1980/regulation/7)
+[^c-c141dfdf78215dff75bcf60766aee6ec]: Textual amendment: Pt. 8 heading substituted (31.12.2015) by The Animal By-[Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2015/1980/regulation/7)
 
 [^c2194559]: Marginal citation: [S.I. 2002/1619](https://www.legislation.gov.uk/uksi/2002/1619).
 
@@ -836,11 +836,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c2194564]: Marginal citation: S.I. 199720/73.
 
-[^key-cfc2d8dbf4bf7b3d07203738801c6344]: Textual amendment: Reg. 29 omitted (31.12.2015) by virtue of [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2015/1980/regulation/8)
+[^c-cfc2d8dbf4bf7b3d07203738801c6344]: Textual amendment: Reg. 29 omitted (31.12.2015) by virtue of [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2015/1980/regulation/8)
 
-[^key-0dc34403f7682218b530b1efbf8a2682]: Textual amendment: Words in Sch. 1 substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [9](https://www.legislation.gov.uk/uksi/2015/1980/regulation/9)
+[^c-0dc34403f7682218b530b1efbf8a2682]: Textual amendment: Words in Sch. 1 substituted (31.12.2015) by [The Animal By-Products (Enforcement) (England) (Amendment) Regulations 2015 (S.I. 2015/1980)](https://www.legislation.gov.uk/uksi/2015/1980), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1980/regulation/1/b), [9](https://www.legislation.gov.uk/uksi/2015/1980/regulation/9)
 
-[^key-d44e95001dc7515c9597991f975f71b1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2952/schedule/1) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/16/2)
+[^c-d44e95001dc7515c9597991f975f71b1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2952/schedule/1) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/16/2)
 
 [^c2194565]: Marginal citation: [S.I. 1991/1624](https://www.legislation.gov.uk/uksi/1991/1624) amended by [S.I. 2006/937](https://www.legislation.gov.uk/uksi/2006/937); there are other amending instruments but none is relevant.
 
@@ -860,4 +860,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c2194573]: Marginal citation: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675) amended by [S.I. 2010/2172](https://www.legislation.gov.uk/uksi/2010/2172), 2011/988 and 2013/390; there are other amending instruments but none is relevant.
 
-[^key-1d913328e45a2579163489d40df3bca4]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/10) omitted (19.7.2018) by virtue of [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/731/regulation/21/2/c)
+[^c-1d913328e45a2579163489d40df3bca4]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/10) omitted (19.7.2018) by virtue of [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/731/regulation/21/2/c)

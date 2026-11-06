@@ -68,7 +68,7 @@ summary: ''
 
   .
 
-(3)[^key-c382c1dc28acddc5ea3aaed5f5eeab28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c382c1dc28acddc5ea3aaed5f5eeab28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -78,4 +78,4 @@ summary: ''
 
 [^c441618]: Marginal citation: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-c382c1dc28acddc5ea3aaed5f5eeab28]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1997/48/section/15/3) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 33(a)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/33/a), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
+[^c-c382c1dc28acddc5ea3aaed5f5eeab28]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1997/48/section/15/3) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 33(a)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/33/a), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))

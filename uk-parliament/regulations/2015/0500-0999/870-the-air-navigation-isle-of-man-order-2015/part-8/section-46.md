@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Pre-flight action by commander of aircraft[^key-6fdbd32b666096877f2c1b568b492a1c]
+## 46. Pre-flight action by commander of aircraft[^c-6fdbd32b666096877f2c1b568b492a1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fdbd32b666096877f2c1b568b492a1c]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2015/870/article/46) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6fdbd32b666096877f2c1b568b492a1c]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2015/870/article/46) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

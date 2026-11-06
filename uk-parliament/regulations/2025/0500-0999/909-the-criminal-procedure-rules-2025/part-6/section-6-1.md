@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.1. When this Part applies[^key-3ad75b45d665d9cfea41f350b0e42ac0]
+## 6.1. When this Part applies[^c-3ad75b45d665d9cfea41f350b0e42ac0]
 
 *Extent: E+W*
 
@@ -45,9 +45,9 @@ summary: ''
 - (d) *section 45 of the Youth Justice and Criminal Evidence Act 1999*[^f00206] *(identity of a person under 18);*
 - (e) *section 45A of the Youth Justice and Criminal Evidence Act 1999*[^f00207] *(identity of a witness or victim under 18);*
 - (f) *section 46 of the Youth Justice and Criminal Evidence Act 1999*[^f00208] *(identity of a vulnerable adult witness);*
-- (g) *section 82 of the Criminal Justice Act 2003*[^f00209] *(order for retrial after acquittal); [^key-0ec5c64317ff4ef8b2f5561ebbda564b]...*
-- (h) *section 75 of the Serious Organised Crime and Police Act 2005*[^f00210] *(identity of a defendant who assisted the police) ; or[^key-86cbffcf08eb8f1a7f197459f2af1a86]*
-- (i)[^key-d9b1a70428a0f3084906086df2faa10a] *section 200 of the Crime and Policing Act 2026**(identity of an authorised firearms officer charged with a qualifying offence).*
+- (g) *section 82 of the Criminal Justice Act 2003*[^f00209] *(order for retrial after acquittal); [^c-0ec5c64317ff4ef8b2f5561ebbda564b]...*
+- (h) *section 75 of the Serious Organised Crime and Police Act 2005*[^f00210] *(identity of a defendant who assisted the police) ; or[^c-86cbffcf08eb8f1a7f197459f2af1a86]*
+- (i)[^c-d9b1a70428a0f3084906086df2faa10a] *section 200 of the Crime and Policing Act 2026**(identity of an authorised firearms officer charged with a qualifying offence).*
 
 *There are reporting restrictions imposed by legislation that the court can vary or remove, under*—
 
@@ -74,7 +74,7 @@ summary: ''
 
 *The court can restrict access to the courtroom under*—
 
-- (a)[^key-213016558da0e776d49a3b74a2112062] *section 38 of the National Security Act 2023**, during proceedings for an offence under Part 1 of that Act including some parts of sentencing proceedings;*
+- (a)[^c-213016558da0e776d49a3b74a2112062] *section 38 of the National Security Act 2023**, during proceedings for an offence under Part 1 of that Act including some parts of sentencing proceedings;*
 - (b) *section 37 of the Children and Young Persons Act 1933*[^f00227]*, where the court receives evidence from a person under 18;*
 - (c) *section 75 of the Serious Organised Crime and Police Act 2005*[^f00228]*, where the court reviews a sentence passed on a defendant who assisted an investigation.*
 
@@ -84,7 +84,7 @@ summary: ''
 - (b) *to restrict public access to what otherwise would be a public hearing, for example to control disorder;*
 - (c) *to hear a trial in private, for example for reasons of national security.*
 
-*Under section 200 of the Crime and Policing Act 2026 the court—[^key-fdfd4a7f05b719fa78676c18ed5c02cd]*
+*Under section 200 of the Crime and Policing Act 2026 the court—[^c-fdfd4a7f05b719fa78676c18ed5c02cd]*
 
 - (a) *must cause the name, address and date of birth of an authorised firearms officer charged with a qualifying offence to be withheld from the public unless that would be contrary to the interests of justice; and*
 - (b) *may make an anonymity order in respect of such an officer if is necessary in the interests of justice to do so.*
@@ -110,7 +110,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad75b45d665d9cfea41f350b0e42ac0]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3ad75b45d665d9cfea41f350b0e42ac0]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00204]: Footnote: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49).
 
@@ -124,13 +124,13 @@ summary: ''
 
 [^f00209]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-0ec5c64317ff4ef8b2f5561ebbda564b]: Textual amendment: Word in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/a/i)
+[^c-0ec5c64317ff4ef8b2f5561ebbda564b]: Textual amendment: Word in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/a/i)
 
 [^f00210]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-86cbffcf08eb8f1a7f197459f2af1a86]: Textual amendment: Word in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/a/ii)
+[^c-86cbffcf08eb8f1a7f197459f2af1a86]: Textual amendment: Word in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/a/ii)
 
-[^key-d9b1a70428a0f3084906086df2faa10a]: Textual amendment: Words in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/a/iii)
+[^c-d9b1a70428a0f3084906086df2faa10a]: Textual amendment: Words in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/a/iii)
 
 [^f00211]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); section 49 was substituted by section 49 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and amended by section 45 of the Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), section 119 of, and paragraph 1 of Schedule 8 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 48 of, and paragraphs 1 and 3 of Schedule 2 to, the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), section 165 of, and paragraph 2 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), paragraph 2 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 208 and 210 of, and paragraphs 15 and 19 of Schedule 21, and Schedule 23 to, the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) and sections 6 and 149 of, and paragraphs 1, 3 and 100 of Schedule 4 and Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). It is further amended by section 74 of, and paragraph 5 of Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43) with effect from a date to be appointed.
 
@@ -162,13 +162,13 @@ summary: ''
 
 [^f00225]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); section 36 was amended by section 73 of, and Part III of Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
 
-[^key-213016558da0e776d49a3b74a2112062]: Textual amendment: Words in rule 6.1 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/4)
+[^c-213016558da0e776d49a3b74a2112062]: Textual amendment: Words in rule 6.1 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/4)
 
 [^f00227]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); section 37 was amended by paragraphs 15 and 16 of Schedule 21 to the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) and is further amended by paragraph 2 of Schedule 4 to the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), with effect from a date to be appointed.
 
 [^f00228]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-fdfd4a7f05b719fa78676c18ed5c02cd]: Textual amendment: Words in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/b)
+[^c-fdfd4a7f05b719fa78676c18ed5c02cd]: Textual amendment: Words in [rule 6.1](https://www.legislation.gov.uk/uksi/2025/909/rule/6.1) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/7/b)
 
 [^f00229]: Footnote: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49).
 

@@ -41,7 +41,7 @@ An Act to amend the law relating to cabs and stage carriages in London.
 
 (3)[^c579007] The power conferred by subsection (1) of this section is subject to paragraph (4) of the restrictions specified in section nine of the said Act of 1869.
 
-(4)[^key-c1bd762d5ae7c4f89769acfef9f0efb7] The fare for a cab journey starting within London but ending outside London shall be—
+(4)[^c-c1bd762d5ae7c4f89769acfef9f0efb7] The fare for a cab journey starting within London but ending outside London shall be—
 
 - (a) such fare as may be agreed between the driver and the passenger—
   - (i) before the commencement of the journey, or
@@ -114,7 +114,7 @@ An Act to amend the law relating to cabs and stage carriages in London.
 
 [^c579007]: Textual amendment: S. 1(3) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 253](https://www.legislation.gov.uk/ukpga/1999/29/section/253), [Sch. 20 Pt. I para. 6(3)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/20/part/I/paragraph/6/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-c1bd762d5ae7c4f89769acfef9f0efb7]: Textual amendment: [S. 1(4)(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/55/section/1/4) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [15](https://www.legislation.gov.uk/ukla/2008/1/section/15) (with [s. 15(2)](https://www.legislation.gov.uk/ukla/2008/1/section/15/2))
+[^c-c1bd762d5ae7c4f89769acfef9f0efb7]: Textual amendment: [S. 1(4)(5)](https://www.legislation.gov.uk/ukpga/Edw7/7/55/section/1/4) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [15](https://www.legislation.gov.uk/ukla/2008/1/section/15) (with [s. 15(2)](https://www.legislation.gov.uk/ukla/2008/1/section/15/2))
 
 [^c579010]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/Edw7/7/55/section/2) made permanent by [Expiring Laws Act 1925 (c. 76)](https://www.legislation.gov.uk/ukpga/1925/76), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1925/76/section/1/1), [Sch. 1 pt. I](https://www.legislation.gov.uk/ukpga/1925/76/schedule/1/part/I).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Charging schemes[^key-280b42a671cca183cf82250b886aa634][^key-2f970b03b9809f9214c07714749cd599]
+## 62. Charging schemes[^c-280b42a671cca183cf82250b886aa634][^c-2f970b03b9809f9214c07714749cd599]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 11, which makes provision about schemes for making charges in respect o
 
 ## Annotations
 
-[^key-280b42a671cca183cf82250b886aa634]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2018/5/section/62) in force at 26.11.2018 for specified purposes by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(xx)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/xx)
+[^c-280b42a671cca183cf82250b886aa634]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2018/5/section/62) in force at 26.11.2018 for specified purposes by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(xx)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/xx)
 
-[^key-2f970b03b9809f9214c07714749cd599]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2018/5/section/62) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 102](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/102) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-2f970b03b9809f9214c07714749cd599]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2018/5/section/62) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 102](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/102) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

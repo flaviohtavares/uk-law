@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Organic Farming Regulations (Northern Ireland) 2001 (revoked)[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+Organic Farming Regulations (Northern Ireland) 2001 (revoked)[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 Made
 
@@ -41,138 +41,138 @@ Coming into operation
 
 1st March 2001
 
-[^key-04b701a4f9b7445561a2ac3e5a252bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04b701a4f9b7445561a2ac3e5a252bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 1. Citation and commencement[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 2. Interpretation[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aid for organic farming[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 3. Aid for organic farming[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Determinations of amount of aid and periods for which aid is paid[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 4. Determinations of amount of aid and periods for which aid is paid[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conditions of eligibility[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 5. Conditions of eligibility[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on acceptance of applications[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 6. Restrictions on acceptance of applications[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Restrictions on payment of aid[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 7. Restrictions on payment of aid[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Financial limits[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 8. Financial limits[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Form and content of application etc[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 9. Form and content of application etc[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Power to vary undertakings[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 10. Power to vary undertakings[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of approved plan[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 11. Amendment of approved plan[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Change of occupation[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 12. Change of occupation[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Obligation to keep records[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 13. Obligation to keep records[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Obligation to permit entry and inspection[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 14. Obligation to permit entry and inspection[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Withholding and recovery of aid, termination and exclusion[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 15. Withholding and recovery of aid, termination and exclusion[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Recovery of interest[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 16. Recovery of interest[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Recovery of payments[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 17. Recovery of payments[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. False statements[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 18. False statements[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Offences by bodies corporate[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 19. Offences by bodies corporate[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Revocation, transitional provisions and saving[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## 20. Revocation, transitional provisions and saving[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04b701a4f9b7445561a2ac3e5a252bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04b701a4f9b7445561a2ac3e5a252bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Calculation of Aid[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## SCHEDULE 1 — Calculation of Aid[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 Regulation 4(2)
 
-### Part I — Payment in respect of an organic parcel[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+### Part I — Payment in respect of an organic parcel[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
-**1.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Payment in respect of the organic unit as a whole[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+### Part II — Payment in respect of the organic unit as a whole[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Standards to be observed[^key-04b701a4f9b7445561a2ac3e5a252bdc]
+## SCHEDULE 2 — Standards to be observed[^c-04b701a4f9b7445561a2ac3e5a252bdc]
 
 Regulation 5(2)(*b*)(ii) and (v)
 
-**1.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-04b701a4f9b7445561a2ac3e5a252bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-04b701a4f9b7445561a2ac3e5a252bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04b701a4f9b7445561a2ac3e5a252bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04b701a4f9b7445561a2ac3e5a252bdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/5) revoked (8.5.2008) by [Organic Farming Regulations (Northern Ireland) 2008 (S.R. 2008/172)](https://www.legislation.gov.uk/nisr/2008/172), [regs. 1](https://www.legislation.gov.uk/nisr/2008/172/regulation/1), [16](https://www.legislation.gov.uk/nisr/2008/172/regulation/16)
+[^c-04b701a4f9b7445561a2ac3e5a252bdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/5) revoked (8.5.2008) by [Organic Farming Regulations (Northern Ireland) 2008 (S.R. 2008/172)](https://www.legislation.gov.uk/nisr/2008/172), [regs. 1](https://www.legislation.gov.uk/nisr/2008/172/regulation/1), [16](https://www.legislation.gov.uk/nisr/2008/172/regulation/16)

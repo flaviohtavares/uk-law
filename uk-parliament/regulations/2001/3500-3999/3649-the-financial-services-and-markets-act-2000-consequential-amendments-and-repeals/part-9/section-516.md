@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 516. Meaning of “collective investment scheme”[^key-dddd27ffc26dd0087a9845f1cd866573]
+## 516. Meaning of “collective investment scheme”[^c-dddd27ffc26dd0087a9845f1cd866573]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Part IV of Schedule 1 to the Charities (Accounts and Reports) Regulations 199
 
 ## Annotations
 
-[^key-dddd27ffc26dd0087a9845f1cd866573]: Commencement: Art. 516 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-dddd27ffc26dd0087a9845f1cd866573]: Commencement: Art. 516 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

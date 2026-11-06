@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Administration of certain support[^key-21bb24e9c68e7d01299304dd98e42d53]
+## 19. Administration of certain support[^c-21bb24e9c68e7d01299304dd98e42d53]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21bb24e9c68e7d01299304dd98e42d53]: Commencement: S. 19 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-21bb24e9c68e7d01299304dd98e42d53]: Commencement: S. 19 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

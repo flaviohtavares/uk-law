@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — Revocations[^key-cc9fab207afbafd3ab0086eea9798c60]
+## SCHEDULE 9 — Revocations[^c-cc9fab207afbafd3ab0086eea9798c60]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ Regulation 10(1)
 
 ## Annotations
 
-[^key-cc9fab207afbafd3ab0086eea9798c60]: Commencement: Sch. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-cc9fab207afbafd3ab0086eea9798c60]: Commencement: Sch. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

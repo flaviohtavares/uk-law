@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Q7. Part payment for additional service or unreduced retirement lump sum[^key-adf59ab58337d29c47782680ced22d2c]
+## Q7. Part payment for additional service or unreduced retirement lump sum[^c-adf59ab58337d29c47782680ced22d2c]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adf59ab58337d29c47782680ced22d2c]: Modification: Reg. Q7 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [22](https://www.legislation.gov.uk/ssi/2015/95/regulation/22)
+[^c-adf59ab58337d29c47782680ced22d2c]: Modification: Reg. Q7 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [22](https://www.legislation.gov.uk/ssi/2015/95/regulation/22)

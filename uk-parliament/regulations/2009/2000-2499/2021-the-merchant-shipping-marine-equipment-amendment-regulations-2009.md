@@ -32,7 +32,7 @@ summary: ''
 
 Merchant Shipping
 
-The Merchant Shipping (Marine Equipment) (Amendment) Regulations 2009 (revoked)[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]
+The Merchant Shipping (Marine Equipment) (Amendment) Regulations 2009 (revoked)[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 28th August 2009
 
-[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]
+## 1. Citation and commencement[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]
+## 2. Interpretation[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 1999 Regulations[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]
+## 3. Amendment of the 1999 Regulations[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]
+## 4.[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c68ea1b5cd0f2a146656fc1ae0ecff4]: Textual amendment: Regulations revoked (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), regs.1, [32(1)(c)](https://www.legislation.gov.uk/uksi/2016/1025/regulation/32/1/c)
+[^c-0c68ea1b5cd0f2a146656fc1ae0ecff4]: Textual amendment: Regulations revoked (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), regs.1, [32(1)(c)](https://www.legislation.gov.uk/uksi/2016/1025/regulation/32/1/c)

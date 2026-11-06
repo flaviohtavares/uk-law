@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Other amounts to be disregarded[^key-ab4b152438eb40a1f6301c6ca4d503c5]
+## 44. Other amounts to be disregarded[^c-ab4b152438eb40a1f6301c6ca4d503c5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ For the purposes of ascertaining income other than grant income and loans treate
 
 ## Annotations
 
-[^key-ab4b152438eb40a1f6301c6ca4d503c5]: Commencement: Reg. 44 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-ab4b152438eb40a1f6301c6ca4d503c5]: Commencement: Reg. 44 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Kindred and affinity[^key-8882bce24a73334574a3104fa0d2ff84][^key-7d0bf9280ab77eb0527504badc874b49][^key-bde2c36c27f676cc96624b3351f71eb0]
+## SCHEDULE 1 — Kindred and affinity[^c-8882bce24a73334574a3104fa0d2ff84][^c-7d0bf9280ab77eb0527504badc874b49][^c-bde2c36c27f676cc96624b3351f71eb0]
 
 *Extent: E+W*
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8882bce24a73334574a3104fa0d2ff84]: Modification: Sch. 1 modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
+[^c-8882bce24a73334574a3104fa0d2ff84]: Modification: Sch. 1 modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
 
-[^key-7d0bf9280ab77eb0527504badc874b49]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/schedule/1) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/1)
+[^c-7d0bf9280ab77eb0527504badc874b49]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/schedule/1) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/1)
 
-[^key-bde2c36c27f676cc96624b3351f71eb0]: Textual amendment: Sch. 1 substituted (5.12.2005 for the purposes of Sch. 1 Pts. 1, 2 only) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/17); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)[(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/5)
+[^c-bde2c36c27f676cc96624b3351f71eb0]: Textual amendment: Sch. 1 substituted (5.12.2005 for the purposes of Sch. 1 Pts. 1, 2 only) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/17); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)[(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/5)
 
 [^M_F_69df3333-2b8d-45e9-f714-bd5b13041114]: Textual amendment: Sch. 1 Pt. 3 repealed (1.3.2007) by [The Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2007/438/article/3/a/iii) (with [s. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))

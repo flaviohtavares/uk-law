@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Double jeopardy[^key-8015c019193606a5a605cd840b3cf7cb]
+## 71. Double jeopardy[^c-8015c019193606a5a605cd840b3cf7cb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person is not liable to a penalty under this Chapter in respect of anything if
 
 ## Annotations
 
-[^key-8015c019193606a5a605cd840b3cf7cb]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2017/3/section/71) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(v)](https://www.legislation.gov.uk/wsi/2018/35/article/2/v)
+[^c-8015c019193606a5a605cd840b3cf7cb]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2017/3/section/71) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(v)](https://www.legislation.gov.uk/wsi/2018/35/article/2/v)

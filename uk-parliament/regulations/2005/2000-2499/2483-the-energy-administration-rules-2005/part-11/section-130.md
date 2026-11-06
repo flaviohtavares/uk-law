@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Right of audience[^key-a60429a360fcdcfb4be0a689bdc5ed7c]
+## 130. Right of audience[^c-a60429a360fcdcfb4be0a689bdc5ed7c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rights of audience in energy administration proceedings are the same as obtain i
 
 ## Annotations
 
-[^key-a60429a360fcdcfb4be0a689bdc5ed7c]: Commencement: Rule 130 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-a60429a360fcdcfb4be0a689bdc5ed7c]: Commencement: Rule 130 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

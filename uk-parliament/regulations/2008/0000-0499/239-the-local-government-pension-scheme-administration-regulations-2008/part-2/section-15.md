@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Periods of membership[^key-43126b12c51d5cbbd42b637aa5fa14b2]
+## 15. Periods of membership[^c-43126b12c51d5cbbd42b637aa5fa14b2]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43126b12c51d5cbbd42b637aa5fa14b2]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-43126b12c51d5cbbd42b637aa5fa14b2]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

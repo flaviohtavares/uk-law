@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. SEPA to be enforcement authority under the Reservoirs Act 1975[^key-a606f4393c00f5f0a28761014d5c3783]
+## 84. SEPA to be enforcement authority under the Reservoirs Act 1975[^c-a606f4393c00f5f0a28761014d5c3783]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a606f4393c00f5f0a28761014d5c3783]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/asp/2009/6/part/7) repealed (1.1.2015) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 112(5)](https://www.legislation.gov.uk/asp/2011/9/section/112/5), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-a606f4393c00f5f0a28761014d5c3783]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/asp/2009/6/part/7) repealed (1.1.2015) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 112(5)](https://www.legislation.gov.uk/asp/2011/9/section/112/5), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

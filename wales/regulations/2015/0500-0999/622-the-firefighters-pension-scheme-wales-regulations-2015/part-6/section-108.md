@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Lump sum payable on death of pension credit member[^key-23ed4f8c9705c2cda167e41d087fb9a7]
+## 108. Lump sum payable on death of pension credit member[^c-23ed4f8c9705c2cda167e41d087fb9a7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23ed4f8c9705c2cda167e41d087fb9a7]: Commencement: Reg. 108 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-23ed4f8c9705c2cda167e41d087fb9a7]: Commencement: Reg. 108 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

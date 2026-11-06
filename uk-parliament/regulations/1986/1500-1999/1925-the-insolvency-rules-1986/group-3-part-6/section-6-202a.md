@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**6.202A.**[^key-e8da361847378614dcb267f2d2f79bb2] In this Chapter a reference to a bankrupt includes a reference to a person in respect of whom a bankruptcy restrictions order is in force.
+**6.202A.**[^c-e8da361847378614dcb267f2d2f79bb2] In this Chapter a reference to a bankrupt includes a reference to a person in respect of whom a bankruptcy restrictions order is in force.
 
 ## Annotations
 
-[^key-e8da361847378614dcb267f2d2f79bb2]: Textual amendment: Rule 6.202A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), rule. 1(3), Sch. 1 para. 40
+[^c-e8da361847378614dcb267f2d2f79bb2]: Textual amendment: Rule 6.202A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), rule. 1(3), Sch. 1 para. 40

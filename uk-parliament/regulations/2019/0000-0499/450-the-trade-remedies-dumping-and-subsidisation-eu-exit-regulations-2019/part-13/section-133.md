@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133.[^key-d4792503449421a47a72dc6a47e6ec30]
+## 133.[^c-d4792503449421a47a72dc6a47e6ec30]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 92 (relevant period in a subsidisation investigation) has effect as i
 
 ## Annotations
 
-[^key-d4792503449421a47a72dc6a47e6ec30]: Commencement: Reg. 133 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-d4792503449421a47a72dc6a47e6ec30]: Commencement: Reg. 133 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

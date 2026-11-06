@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Coming into force[^key-7ce9869ec0fe8bf13915a0ebd79e3a39]
+## 56. Coming into force[^c-7ce9869ec0fe8bf13915a0ebd79e3a39]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ce9869ec0fe8bf13915a0ebd79e3a39]: Commencement: S. 56 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-7ce9869ec0fe8bf13915a0ebd79e3a39]: Commencement: S. 56 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

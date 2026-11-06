@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Procedure[^key-660709acefd0f484a1fa91fe5c384632]
+## 174. Procedure[^c-660709acefd0f484a1fa91fe5c384632]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-660709acefd0f484a1fa91fe5c384632]: Textual amendment: Ss. 172-175 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/15); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/75/regulation/6))
+[^c-660709acefd0f484a1fa91fe5c384632]: Textual amendment: Ss. 172-175 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/15); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/75/regulation/6))
